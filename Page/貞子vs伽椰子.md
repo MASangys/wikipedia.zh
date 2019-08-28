@@ -18,7 +18,7 @@
 
   - 高木史子：[田中美里](https://zh.wikipedia.org/wiki/田中美里 "wikilink")
 
-  - 高木透：[松島正芳](https://zh.wikipedia.org/wiki/松島正芳 "wikilink")
+  - 高木誠：[松島正芳](https://zh.wikipedia.org/wiki/松島正芳 "wikilink")
 
   - 法柳：（堂免 ichiruko）
 

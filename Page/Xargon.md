@@ -399,7 +399,6 @@
   - Xargon的[Facebook](https://www.facebook.com/Xargonlol)粉絲團
   - Xargon的[Youtube頻道](https://www.youtube.com/user/XargonTW)、[Youtube副頻道](https://www.youtube.com/channel/UCNel_NY99FgCHkOREH8A5nQ)
   - Xargon的[Twitch](http://zh-tw.twitch.tv/xargon0731)實況網址
-  - Xargon的\[<http://app.twitch.tv/client-command?cmd=invite&arg=BooranaDalindaDurkot&next=https%3A%2F%2Fapp.twitch.tv%2Finvite%2FBooranaDalindaDurkot&t=1505714408452>**Twitch Desktop App**\]
 
 [Category:1984年出生](https://zh.wikipedia.org/wiki/Category:1984年出生 "wikilink") [Category:臺灣網路紅人](https://zh.wikipedia.org/wiki/Category:臺灣網路紅人 "wikilink") [Category:台灣電玩家](https://zh.wikipedia.org/wiki/Category:台灣電玩家 "wikilink") [Category:Twitch主播](https://zh.wikipedia.org/wiki/Category:Twitch主播 "wikilink") [Category:絕對武力系列玩家](https://zh.wikipedia.org/wiki/Category:絕對武力系列玩家 "wikilink") [Category:臺北城市科技大學校友](https://zh.wikipedia.org/wiki/Category:臺北城市科技大學校友 "wikilink") [Category:张姓](https://zh.wikipedia.org/wiki/Category:张姓 "wikilink") [Category:花蓮人](https://zh.wikipedia.org/wiki/Category:花蓮人 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
 

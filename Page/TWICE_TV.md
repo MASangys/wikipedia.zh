@@ -378,7 +378,8 @@ TWICE TV "YES or YES" Special 於2019年1月13日起，不定時在[Naver](https
 | 2019年4月12日 | V re:memVer PARTY       |          |
 | 2019年4月23日 | TOKYO DOME              |          |
 | 2019年5月24日 | FANCY SHOWCASE          |          |
-| 2019年6月7日  | THE FACT MUSIC AWARDS   |          |
+| 2019年8月2日  | ALLURE                  |          |
+| 2019年8月9日  | ESTEE LAUDER            |          |
 
 ### TWICE "Star Road"
 

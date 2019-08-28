@@ -1150,7 +1150,7 @@ Yuju</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><small>、<a href="../Page/Bada_(歌手).md" title="wikilink">Bada</a>、<a href="../Page/梁耀燮.md" title="wikilink">梁耀燮</a>、、<a href="../Page/朴瑟琪.md" title="wikilink">朴瑟琪</a>、<a href="https://zh.wikipedia.org/wiki/KNK" title="wikilink">KNK</a>（有真、承俊、因成）</small></p></td>
+<td><p><small>、<a href="../Page/Bada_(歌手).md" title="wikilink">Bada</a>、<a href="../Page/梁耀燮.md" title="wikilink">梁耀燮</a>、、<a href="../Page/朴瑟琪.md" title="wikilink">朴瑟琪</a>、<a href="../Page/KNK.md" title="wikilink">KNK</a>（有真、承俊、因成）</small></p></td>
 <td><p>"上水洞調酒韓醫師"－金炳奎<br />
 "清州軍樂隊宋兵長"－宋宇錫<br />
 "交通大學高音大將"－金鎮<br />
@@ -1166,7 +1166,7 @@ Yuju</p></td>
 </tr>
 <tr class="odd">
 <td><p>特別舞台</p></td>
-<td><p>2017 BROS（、、<a href="../Page/Pentagon_(男子組合).md" title="wikilink">Pentagon</a>、<a href="https://zh.wikipedia.org/wiki/Sleepy" title="wikilink">Sleepy</a>、<a href="https://zh.wikipedia.org/wiki/朴孝珍" title="wikilink">Narsha</a>、<a href="https://zh.wikipedia.org/wiki/KNK" title="wikilink">KNK</a>、<a href="../Page/金智淑_(藝人).md" title="wikilink">金智淑</a>）</p></td>
+<td><p>2017 BROS（、、<a href="../Page/Pentagon_(男子組合).md" title="wikilink">Pentagon</a>、<a href="https://zh.wikipedia.org/wiki/Sleepy" title="wikilink">Sleepy</a>、<a href="https://zh.wikipedia.org/wiki/朴孝珍" title="wikilink">Narsha</a>、<a href="../Page/KNK.md" title="wikilink">KNK</a>、<a href="../Page/金智淑_(藝人).md" title="wikilink">金智淑</a>）</p></td>
 <td><p>Win Win<br />
 </p></td>
 <td></td>

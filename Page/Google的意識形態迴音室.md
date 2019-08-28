@@ -19,7 +19,7 @@
   - [「Google的意識形態迴音室」作者授權的中文翻譯](https://www.byvoid.com/zht/blog/googles-ideological-echo-chamber)
   - [Google視頻——無意識偏見](https://www.youtube.com/watch?v=NW5s_-Nl3JE)
 
-[Category:Google](https://zh.wikipedia.org/wiki/Category:Google "wikilink")
+[Category:Google](https://zh.wikipedia.org/wiki/Category:Google "wikilink") [Category:2017年文件](https://zh.wikipedia.org/wiki/Category:2017年文件 "wikilink")
 
 1.
 2.

@@ -321,7 +321,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/冰島克朗" title="wikilink">冰島克朗</a><br />
 <strong><a href="https://zh.wikipedia.org/wiki/斯威士蘭里蘭吉尼" title="wikilink">斯威士蘭里蘭吉尼</a></strong></p></td>
 <td><p>80<br />
-<em>'680</em> '</p></td>
+<strong>680</strong></p></td>
 <td><p>袁文傑：拍「完聞」傑（拍袁文傑）<br />
 高海寧：__家Ling（冚家Ling）</p></td>
 </tr>
@@ -749,17 +749,51 @@
 <tr class="odd">
 <td><p>03</p></td>
 <td><p>8月4日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/陳家樂" title="wikilink">陳家樂</a>、<a href="https://zh.wikipedia.org/wiki/林夏薇" title="wikilink">林夏薇</a><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/陳家樂" title="wikilink">陳家樂</a>、<a href="https://zh.wikipedia.org/wiki/林夏薇" title="wikilink">林夏薇</a></strong><br />
 <a href="../Page/洪卓立.md" title="wikilink">洪卓立</a>、<a href="../Page/曾樂彤.md" title="wikilink">曾樂彤</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p><strong>1100</strong><br />
+1100</p></td>
+<td><p><a href="../Page/經濟艙.md" title="wikilink">經濟艙</a></p></td>
+<td><p><strong><a href="../Page/卡塔尼亞.md" title="wikilink">卡塔尼亞</a></strong><br />
+<a href="../Page/喀山.md" title="wikilink">喀山</a></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/歐元" title="wikilink">歐元</a></strong><br />
+<a href="https://zh.wikipedia.org/wiki/俄羅斯盧布" title="wikilink">俄羅斯盧布</a></p></td>
+<td><p><strong>9790</strong><br />
+132</p></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
+<td><p>04</p></td>
+<td><p>8月11日</p></td>
+<td><p><strong><a href="../Page/袁偉豪.md" title="wikilink">袁偉豪</a>、<a href="../Page/王君馨.md" title="wikilink">王君馨</a></strong><br />
+<a href="https://zh.wikipedia.org/wiki/蔡思貝" title="wikilink">蔡思貝</a>、<a href="../Page/余德丞.md" title="wikilink">余德丞</a></p></td>
+<td><p><strong>2100</strong><br />
+1500</p></td>
+<td><p><a href="../Page/經濟艙.md" title="wikilink">經濟艙</a></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/金斯頓" title="wikilink">金斯頓</a></strong><br />
+<a href="https://zh.wikipedia.org/wiki/卡拉" title="wikilink">卡拉</a></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/牙買加元" title="wikilink">牙買加元</a></strong><br />
+<a href="https://zh.wikipedia.org/wiki/哥倫比亞披索" title="wikilink">哥倫比亞披索</a></p></td>
+<td><p><strong>126</strong><br />
+3</p></td>
+</tr>
+<tr class="odd">
+<td><p>05</p></td>
+<td><p>8月18日</p></td>
+<td><p><strong><a href="../Page/王嘉爾.md" title="wikilink">王嘉爾</a>、<a href="../Page/林盛斌.md" title="wikilink">林盛斌</a></strong><br />
+<a href="../Page/馮允謙.md" title="wikilink">馮允謙</a>、<a href="../Page/黃淑蔓.md" title="wikilink">黃淑蔓</a></p></td>
+<td><p><strong>2400</strong><br />
+2800</p></td>
+<td><p><a href="../Page/商務艙.md" title="wikilink">商務艙</a></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/圖文巴" title="wikilink">圖文巴</a></strong><br />
+<a href="../Page/帕皮提.md" title="wikilink">帕皮提</a></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/澳元" title="wikilink">澳元</a></strong><br />
+<a href="../Page/太平洋法郎.md" title="wikilink">太平洋法郎</a></p></td>
+<td><p><strong>12960</strong><br />
+196</p></td>
+</tr>
+<tr class="even">
+<td><p>06</p></td>
+<td><p>8月25日</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -820,7 +854,6 @@
   - [無綫電視節目網頁 - Do姐有問題（第一輯）](http://programme.tvb.com/foodandtravel/dodideat)
   - [無綫電視節目網頁 - Do姐有問題（第二輯）](http://programme.tvb.com/variety/dodideatsr2)
   - [無綫電視節目網頁 - Do姐有問題（第三輯）](http://programme.tvb.com/variety/dodideatsr3)
-  - [encoreTVB - Do姐有問題（第三輯）](https://encoretvb.com/cantonese/series/1226-Do_Did_Eat_Sr.3)
 
 ## 電視節目的變遷
 

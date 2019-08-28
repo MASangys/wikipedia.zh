@@ -6,7 +6,7 @@ Microsoft Office 2019包含 [Office 365所有的功能](../Page/Office_365.md "w
 
 ## 限制
 
-**依官方公布，買斷型購買的此版本Office僅能在[Windows 10上運作](../Page/Windows_10.md "wikilink")**（Office 365的訂閱者在Windows 7下則可以使用Office 2019的各項功能）。 根據微軟的說法，Office 2019不再提供MSI離線安裝套件，僅透過Click-to-Run網路安裝套件的方式發放。如此一來，當使用者安裝Office 2019的時候就只能下載數量龐大的組件，這將會對於網路速度不佳的使用者可能會造成影響。\[4\]
+**依官方公布，買斷型購買的此版本Office僅能在[Windows 10上運作](../Page/Windows_10.md "wikilink")**（Office 365的訂閱者在Windows 7下則可以使用Office 2019的各項功能）。 根據微軟的說法，Office 2019不再提供MSI離線安裝套件，僅透過Click-to-Run網路安裝套件的方式發放。如此一來，當使用者安裝Office 2019的時候就只能下載數量龐大的組件，這對於網路速度不佳的使用者可能會造成影響。\[4\]
 
 Office 2019 for Mac Preview 已開放試用，根據Microsoft 支援服務顯示，Office 2019 for Mac 也將於2018年10月2日發表。\[5\]
 

@@ -3025,6 +3025,62 @@
 </tbody>
 </table>
 
+#### 2018年
+
+<table style="width:301%;">
+<colgroup>
+<col style="width: 76%" />
+<col style="width: 9%" />
+<col style="width: 19%" />
+<col style="width: 16%" />
+<col style="width: 47%" />
+<col style="width: 47%" />
+<col style="width: 85%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"><p><strong>播放日期</strong></p></td>
+<td style="text-align: center;"><p><strong>電視劇集名稱</strong></p></td>
+<td style="text-align: center;"><p><strong>集數</strong></p></td>
+<td style="text-align: center;"><p><strong>主演</strong></p></td>
+<td style="text-align: center;"><p><strong>導演</strong></p></td>
+<td style="text-align: center;"><p><strong>編劇</strong></p></td>
+<td style="text-align: center;"><p><strong>備註</strong></p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>2018年2月28日－<br />
+2018年3月1日</p></td>
+<td style="text-align: center;"><p><a href="../Page/絕頂_(電視劇).md" title="wikilink">絕頂</a><br />
+</p></td>
+<td style="text-align: center;"><p>2</p></td>
+<td style="text-align: center;"><p><small><a href="../Page/金烔完.md" title="wikilink">金烔完</a>、<a href="../Page/徐玄振.md" title="wikilink">徐玄振</a>、<a href="../Page/李承洨.md" title="wikilink">李承洨</a>、<a href="../Page/尹智慧.md" title="wikilink">尹智慧</a>、<a href="../Page/嚴孝燮.md" title="wikilink">嚴孝燮</a>、<a href="../Page/朴誠雄.md" title="wikilink">朴誠雄</a></small></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李尚燁" title="wikilink">李尚燁</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/黃真英" title="wikilink">黃真英</a></p></td>
+<td style="text-align: center;"><p>重播</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>2018年5月7日－<br />
+2018年5月8日</p></td>
+<td style="text-align: center;"><p><a href="../Page/瘋了，因為你！.md" title="wikilink">瘋了，因為你！</a><br />
+</p></td>
+<td style="text-align: center;"><p>4</p></td>
+<td style="text-align: center;"><p><small><a href="../Page/李宥英.md" title="wikilink">李宥英</a>、<a href="../Page/金善浩.md" title="wikilink">金善浩</a></small></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/玄率葉" title="wikilink">玄率葉</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/朴美玲" title="wikilink">朴美玲</a></p></td>
+<td style="text-align: center;"><p>月火特輯電視劇</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+</tbody>
+</table>
+
 ## 參考資料
 
 ## 相關連結

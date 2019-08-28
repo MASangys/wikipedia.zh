@@ -1,4 +1,4 @@
-《**橫行太保**》（BØY）為日本漫畫家[梅澤春人所繪製的作品](https://zh.wikipedia.org/wiki/梅澤春人 "wikilink")，以校園青春、熱血以及搞笑為題材的[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，於《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》（[集英社](../Page/集英社.md "wikilink")）連載。台灣大然文化代理，大然文化倒閉後，尖端出版社再次代理，大然文化代理標題為《神行太保》，後來重新命名為《BOY聖子到》，尖端出版代理發行文庫版標題為《橫行太保》。
+《**橫行太保**》（BØY）為日本漫畫家[梅澤春人所繪製的作品](https://zh.wikipedia.org/wiki/梅澤春人 "wikilink")，以校園青春、熱血和搞笑為題材的[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，在《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》（[集英社](../Page/集英社.md "wikilink")）連載。台灣大然文化代理，大然出版社倒閉後，尖端出版社再次代理，之前大然文化代理標題為《神行太保》，後來重新命名為《BOY聖子到》，尖端出版代理發行文庫版標題為《橫行太保》。
 
 ## 作品概要
 

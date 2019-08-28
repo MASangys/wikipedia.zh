@@ -1,4 +1,4 @@
-《**S計劃-惡魔的才藝捐獻**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Mnet的綜藝節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")，由 [申廷煥](../Page/申廷煥.md "wikilink")、[卓在勳](../Page/卓在勳.md "wikilink")主持\[1\]\[2\]，兩人需尋找需要自己的地方進行才藝捐獻，同時也一起找回初心\[3\]\[4\]。
+《**S計劃-惡魔的才藝捐獻**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Mnet](../Page/Mnet.md "wikilink")的綜藝節目，由 [申廷煥](../Page/申廷煥.md "wikilink")、[卓在勳](../Page/卓在勳.md "wikilink")主持\[1\]\[2\]，兩人需尋找需要自己的地方進行才藝捐獻，同時也一起找回初心\[3\]\[4\]。
 
 ## 各集內容
 

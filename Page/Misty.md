@@ -1,6 +1,6 @@
 《**Misty**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC](../Page/JTBC.md "wikilink")於2018年2月2日起播出的[金土連續劇](../Page/JTBC金土連續劇.md "wikilink")。由《[Beautiful Mind](../Page/Beautiful_Mind.md "wikilink")》[毛完日導演執導與諸仁作家合作打造](https://zh.wikipedia.org/wiki/毛完日 "wikilink")。此劇講述被認為是殺人事件嫌疑人的韓國頂尖主播高惠蘭（[金南珠飾](../Page/金南珠_\(1971年\).md "wikilink")）和她的律师丈夫姜泰旭\[1\]（[池珍熙](../Page/池珍熙.md "wikilink")飾）所相信的愛情的真諦的激情懸疑故事\[2\]\[3\]\[4\]。
 
-台灣由myVideo、LiTV 線上影視、KKTV播出，香港由Viu在網路平台免費播出。
+台灣由LiTV 線上影視、KKTV、myVideo播出，香港由Viu在網路平台免費播出。
 
 ## 劇情大綱
 

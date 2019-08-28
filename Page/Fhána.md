@@ -212,7 +212,7 @@ LACM-14723</p></td>
 <td></td>
 <td><p>LACM-14886（歌手盤）<br />
 LACM-14887</p></td>
-<td></td>
+<td><p>76位</p></td>
 </tr>
 </tbody>
 </table>
@@ -288,8 +288,8 @@ LACM-14887</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>「<a href="http://www.youtube.com/watch?v=lvHw9PqaQD0"></a>」 / 「<a href="http://www.youtube.com/watch?v=ZZ2IkhhXAEo">tiny lamp</a>」 / 「<a href="http://www.youtube.com/watch?v=RLZez82cp4w">divine intervention</a>」 / 「<a href="http://www.youtube.com/watch?v=aIRAOr8WbXY"></a>」<br />
-「<a href="https://www.youtube.com/watch?v=QtBVmTt1v3A">What a Wonderful World Line</a>」 / 「<a href="https://www.youtube.com/watch?v=IW2yfSW60nE">World Atlas」</a> / 「[<a href="https://www.youtube.com/watch?v=EQNE-VwOl04">https://www.youtube.com/watch?v=EQNE-VwOl04</a> Hello!My World</p></td>
+<td><p>「<a href="http://www.youtube.com/watch?v=lvHw9PqaQD0"></a>」 / 「<a href="http://www.youtube.com/watch?v=ZZ2IkhhXAEo">tiny lamp</a>」 / 「<a href="http://www.youtube.com/watch?v=RLZez82cp4w">divine intervention</a>」 / 「<a href="http://www.youtube.com/watch?v=aIRAOr8WbXY"></a>」 /「<a href="https://www.youtube.com/watch?v=QtBVmTt1v3A">What a Wonderful World Line</a>」<br />
+「<a href="https://www.youtube.com/watch?v=IW2yfSW60nE">World Atlas」</a> / 「[<a href="https://www.youtube.com/watch?v=EQNE-VwOl04">https://www.youtube.com/watch?v=EQNE-VwOl04</a> Hello!My World</p></td>
 </tr>
 <tr class="even">
 <td><p>小嶋貴之</p></td>

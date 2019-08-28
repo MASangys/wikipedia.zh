@@ -12,7 +12,7 @@
 
 ### 團體出道
 
-2014年：9月25日，J. Tune Camp公司公開团体[MADTOWN主唱LEE](https://zh.wikipedia.org/wiki/MADTOWN "wikilink") GEON照片。\[4\]\[5\] 10月6日，[MADTOWN發行迷你一輯](https://zh.wikipedia.org/wiki/MADTOWN "wikilink")《Mad Town》。 10月9日，以[MADTOWN团体身份於](https://zh.wikipedia.org/wiki/MADTOWN "wikilink")[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》正式出道\[6\]。
+2014年：9月25日，J. Tune Camp公司公開团体[MADTOWN主唱LEE](https://zh.wikipedia.org/wiki/MADTOWN "wikilink") GEON照片。\[4\]\[5\] 10月6日，[MADTOWN發行迷你一輯](https://zh.wikipedia.org/wiki/MADTOWN "wikilink")《Mad Town》。 10月9日，以[MADTOWN团体身份於](https://zh.wikipedia.org/wiki/MADTOWN "wikilink")[Mnet](../Page/Mnet.md "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》正式出道\[6\]。
 
 2015年：3月12日，[MADTOWN發行第二張專輯](https://zh.wikipedia.org/wiki/MADTOWN "wikilink") 《Welcome to MADTOWN》。\[7\]\[8\] 11月12日，[MADTOWN發行首張韓語單曲](https://zh.wikipedia.org/wiki/MADTOWN "wikilink")《OMGT》。\[9\]
 

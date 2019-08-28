@@ -78,17 +78,20 @@ Nowhere Boys名字來自關於[約翰藍儂成長的電影](https://zh.wikipedia
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p>4th</p></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;"><p>Journey To Nowhere</p></td>
+<td style="text-align: left;"><p>大碟</p></td>
 <td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/Frenzi_Music" title="wikilink">Frenzi Music</a><br />
 <a href="https://zh.wikipedia.org/wiki/寰亞唱片" title="wikilink">寰亞唱片</a></p></td>
-<td style="text-align: left;"><p>--年--月--日</p></td>
+<td style="text-align: left;"><p>2019年8月20日</p></td>
 <td style="text-align: left;"><ol>
-<li>生死時速</li>
-<li>大不了一代</li>
-<li>致旅途中的我</li>
+<li>Journey To Nowhere</li>
+<li>我們的航海時代 (海賊版)</li>
 <li>掹藤</li>
-<li>Electronic Dreams</li>
+<li>大不了一代</li>
+<li>火樹</li>
+<li>致旅途中的我</li>
+<li>時光歲月 (與<a href="../Page/鄭伊健.md" title="wikilink">鄭伊麵合唱</a>)</li>
+<li>生死時速</li>
 </ol></td>
 </tr>
 </tbody>
@@ -115,12 +118,13 @@ Nowhere Boys名字來自關於[約翰藍儂成長的電影](https://zh.wikipedia
 | **2018年**                                                                                           |
 |                                                                                                     |
 |                                                                                                     |
-|                                                                                                     |
-|                                                                                                     |
+| [Journey To Nowhere](https://zh.wikipedia.org/wiki/Journey_To_Nowhere "wikilink")                   |
+| Journey To Nowhere                                                                                  |
 | **2019年**                                                                                           |
+| Journey To Nowhere                                                                                  |
 |                                                                                                     |
-|                                                                                                     |
-|                                                                                                     |
+| Journey To Nowhere                                                                                  |
+| Journey To Nowhere                                                                                  |
 
 | **各台冠軍歌總數** |
 | ----------- |

@@ -10,7 +10,7 @@ TouchWiz是[三星电子开发的一款用户界面和图标](https://zh.wikiped
 
 2016年12月15日，[三星电子成功在](https://zh.wikipedia.org/wiki/三星电子 "wikilink")[美国](../Page/美国.md "wikilink")注册了一个名为“Samsung Experience”的商标以及一个标志，这也标记着新一代的三星用户界面的诞生。\[6\]
 
-### OneUI
+### One UI
 
 2018年11月22日，[三星電子](../Page/三星電子.md "wikilink")在三星開發者大會中宣布以[One UI取代目前Samsung](../Page/One_UI.md "wikilink") Experience使用者界面\[7\]。全新的[使用者界面包括黑夜模式等多項新功能](https://zh.wikipedia.org/wiki/使用者界面 "wikilink")。\[8\]
 

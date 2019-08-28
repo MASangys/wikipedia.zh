@@ -2,7 +2,7 @@
 
 ## 概述
 
-該槍是蜘蛛武器公司生產的AR槍族的轉換套件，因為AR槍族具有高度適應性和定制潛力。[槍托](../Page/槍托.md "wikilink")是由[聚合物](../Page/聚合物.md "wikilink")所製成；取決於其[口徑它的重量在](https://zh.wikipedia.org/wiki/口徑 "wikilink")8.6—10.89公斤（18—24磅）之間，而槍管長度則在457.2—914.4毫米（18—36英吋）的範圍以內。它是一枝單發式武器，這意味著它的內部或外部都不具有[彈匣](../Page/彈匣.md "wikilink")。它可以選用[铬](../Page/铬.md "wikilink")[钼](../Page/钼.md "wikilink")[钢](../Page/钢.md "wikilink")或[不鏽鋼](../Page/不鏽鋼.md "wikilink")其中一款[表面處理](https://zh.wikipedia.org/wiki/表面處理 "wikilink")。該槍還有一個重要的功能，就是其採用獨特技術設計的[魚鰓](../Page/魚鰓.md "wikilink")型四室式高效[槍口制退器](../Page/砲口制動器.md "wikilink")，而且槍托後部設有較厚的橡膠緩衝墊，與槍托下部的大型[單腳架以粗糙的底面增加與地面之間的](https://zh.wikipedia.org/wiki/單腳架 "wikilink")[摩擦力](../Page/摩擦力.md "wikilink")；這使該步槍發射大[口徑子彈也可在](https://zh.wikipedia.org/wiki/口徑 "wikilink")[精度不減為前題以下將](../Page/準確與精密.md "wikilink")[後座力](../Page/後座力.md "wikilink")降低至可控制範圍以內，甚至連小孩子都可以承受。該槍槍身有多種顏色可供選擇，拉機柄的方向也可選擇安裝在左側或者右側。
+該槍是蜘蛛武器公司生產的AR槍族的轉換套件，因為AR槍族具有高度適應性和定制潛力。[槍托](../Page/槍托.md "wikilink")是由[聚合物](../Page/聚合物.md "wikilink")所製成；取決於其[口徑它的重量在](https://zh.wikipedia.org/wiki/口徑 "wikilink")8.6—10.89公斤（18—24磅）之間，而槍管長度則在457.2—914.4毫米（18—36英吋）的範圍以內。它是一枝單發式武器，這意味著它的內部或外部都不具有[彈匣](../Page/彈匣.md "wikilink")。它可以選用[铬](../Page/铬.md "wikilink")[钼](../Page/钼.md "wikilink")[钢](../Page/钢.md "wikilink")或[不鏽鋼](../Page/不鏽鋼.md "wikilink")其中一款[表面處理](https://zh.wikipedia.org/wiki/表面處理 "wikilink")。該槍還有一個重要的功能，就是其採用獨特技術設計的[魚鰓](../Page/魚鰓.md "wikilink")型四室式高效[槍口制退器](../Page/砲口制動器.md "wikilink")，而且槍托後部設有較厚的橡膠，與槍托下部的大型[單腳架以粗糙的底面增加與地面之間的](https://zh.wikipedia.org/wiki/單腳架 "wikilink")[摩擦力](../Page/摩擦力.md "wikilink")；這使該步槍發射大[口徑子彈也可在](https://zh.wikipedia.org/wiki/口徑 "wikilink")[精度不減為前題以下將](../Page/準確與精密.md "wikilink")[後座力](../Page/後座力.md "wikilink")降低至可控制範圍以內，甚至連小孩子都可以承受。該槍槍身有多種顏色可供選擇，拉機柄的方向也可選擇安裝在左側或者右側。
 
 ## Ferret 50超級競賽型
 

@@ -17,12 +17,7 @@
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p>平日及平日深夜</p></td>
-<td><p>全線</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p>週末及週末深夜</p></td>
+<td><p>任何時間</p></td>
 <td><p>全線</p></td>
 </tr>
 </tbody>

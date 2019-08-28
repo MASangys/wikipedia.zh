@@ -264,6 +264,6 @@
   - [電視動畫「Battle Spirits Double Drive」東京電視台節目情報網頁](http://www.tv-tokyo.co.jp/anime/battlespirits8/)
 
   -
-[Category:Battle_Spirits](https://zh.wikipedia.org/wiki/Category:Battle_Spirits "wikilink") [Category:2016年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2016年日本電視動畫 "wikilink") [Category:日昇動畫](https://zh.wikipedia.org/wiki/Category:日昇動畫 "wikilink") [Category:遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:遊戲改編動畫 "wikilink") [Category:交換卡片遊戲題材動畫](https://zh.wikipedia.org/wiki/Category:交換卡片遊戲題材動畫 "wikilink")
+[Category:Battle_Spirits](https://zh.wikipedia.org/wiki/Category:Battle_Spirits "wikilink") [Category:2016年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2016年日本電視動畫 "wikilink") [Category:日昇動畫](https://zh.wikipedia.org/wiki/Category:日昇動畫 "wikilink") [Category:遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:遊戲改編動畫 "wikilink") [Category:交換卡片遊戲題材動畫](https://zh.wikipedia.org/wiki/Category:交換卡片遊戲題材動畫 "wikilink") [Category:異世界轉生、轉移題材作品](https://zh.wikipedia.org/wiki/Category:異世界轉生、轉移題材作品 "wikilink")
 
 1.

@@ -6,7 +6,7 @@
 
 **秀珍**和**藝智**曾組成子團[BLADY SOUL](https://zh.wikipedia.org/wiki/BLADY_SOUL "wikilink")，后來因為兩人皆退團，又沒有新成員加入子團，因此子團解散。
 
-退出團體後，[Coco加入](../Page/CocoSori.md "wikilink")[MOLE娛樂](https://zh.wikipedia.org/wiki/MOLE娛樂 "wikilink")，於2016年1月5日以[CocoSori](../Page/CocoSori.md "wikilink")成員身份重新出道；而**姜允**（轉投M2 Project）和**藝智**（留守在Star Planet娛樂）皆參加[Mnet首個](https://zh.wikipedia.org/wiki/Mnet "wikilink")「經紀公司大型企劃女團」新女團選拔節目《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》，可惜在第一輪的投票，皆被淘汰。其後，在2018年，**藝智**改名為**麗源**，並作為Prism成員二次出道。
+退出團體後，[Coco加入](../Page/CocoSori.md "wikilink")[MOLE娛樂](https://zh.wikipedia.org/wiki/MOLE娛樂 "wikilink")，於2016年1月5日以[CocoSori](../Page/CocoSori.md "wikilink")成員身份重新出道；而**姜允**（轉投M2 Project）和**藝智**（留守在Star Planet娛樂）皆參加[Mnet](../Page/Mnet.md "wikilink")首個「經紀公司大型企劃女團」新女團選拔節目《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》，可惜在第一輪的投票，皆被淘汰。其後，在2018年，**藝智**改名為**麗源**，並作為Prism成員二次出道。
 
 ## 簡歷
 

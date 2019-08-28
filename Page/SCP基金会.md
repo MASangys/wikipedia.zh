@@ -1,4 +1,4 @@
-**SCP基金会**是一个虚构的特工组织，出现于同名的[网络](https://zh.wikipedia.org/wiki/网络 "wikilink")[接龙小说项目中](https://zh.wikipedia.org/wiki/接龙小说 "wikilink")。在SCP基金会的宇宙中，SCP基金会是一个跨国组织，负责搜寻并收容各种具有异常属性的个人、地点或物体（统称为SCP）。在现实世界中，SCP基金会是一个基于网站社区的[协同写作小说项目](https://zh.wikipedia.org/wiki/协同写作 "wikilink")，其文章包含多种类型的元素和风格，如[科学幻想](https://zh.wikipedia.org/wiki/科学幻想 "wikilink")、[都市奇幻](../Page/都市奇幻.md "wikilink")和[恐怖小说](https://zh.wikipedia.org/wiki/恐怖小说 "wikilink")。
+**SCP基金会**是一个虚构的特工组织，出现于同名的[网络](https://zh.wikipedia.org/wiki/網際網路 "wikilink")[接龙小说项目中](https://zh.wikipedia.org/wiki/接龙小说 "wikilink")。在SCP基金会的宇宙中，SCP基金会是一个跨国组织，负责搜寻并收容各种具有异常属性的个人、地点或物体（统称为SCP），其宗旨為「控制」（Secure），「收容」（Contain），「保護」（Protect）。在现实世界中，SCP基金会是一个基于网站社区的[协同写作小说项目](https://zh.wikipedia.org/wiki/协同写作 "wikilink")，其文章包含多种类型的元素和风格，如[科学幻想](https://zh.wikipedia.org/wiki/科学幻想 "wikilink")、[都市奇幻](../Page/都市奇幻.md "wikilink")和[恐怖小说](https://zh.wikipedia.org/wiki/恐怖小说 "wikilink")。
 
 在SCP基金会的维基网站上，大多数SCP作品会详细叙述相应SCP的“特殊收容程序”，其中包括该SCP的各种性质以及针对该SCP的收容方式。网站上还包含上千篇“基金会故事”，这些风格迥异的故事基于SCP基金会的世界观，讲述了一个个SCP基金会组织内部所发生的故事。这一系列作品因高品質的剧情以及特有的通过科学、理性、冷静的写作风格传达恐惧的写法而广受称赞。
 

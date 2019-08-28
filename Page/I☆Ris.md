@@ -19,6 +19,8 @@
 <th><p>身高</p></th>
 <th><p>代表顏色</p></th>
 <th><p>官方暱稱</p></th>
+<th><p>「<a href="../Page/星光樂園.md" title="wikilink">星光樂園</a>」擔當腳色</p></th>
+<th><p>「<a href="../Page/星光頻道.md" title="wikilink">星光頻道</a>」擔當腳色</p></th>
 <th><p>備註</p></th>
 </tr>
 </thead>
@@ -31,6 +33,8 @@
 <td><p>163cm</p></td>
 <td><p><strong>綠色</strong></p></td>
 <td></td>
+<td><p>東堂詩音 普妮空</p></td>
+<td><p>歩堂德薇</p></td>
 <td><p>隊長</p></td>
 </tr>
 <tr class="even">
@@ -41,6 +45,8 @@
 <td><p>163cm</p></td>
 <td><p><strong>藍色</strong></p></td>
 <td><p>ちゃん セリコ</p></td>
+<td><p>南美莉 丘佩</p></td>
+<td><p>赤城安娜</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -51,6 +57,8 @@
 <td><p>161cm</p></td>
 <td><p><strong>紫色</strong></p></td>
 <td><p>ちゃん</p></td>
+<td><p>真中菈菈</p></td>
+<td><p>金森麻里亞</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -61,6 +69,8 @@
 <td><p>145cm</p></td>
 <td><p><strong>紅色</strong></p></td>
 <td><p>わかち</p></td>
+<td><p>雷歐那·威斯特 帕庫</p></td>
+<td><p>綠川沙良</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -71,6 +81,8 @@
 <td><p>156cm</p></td>
 <td><p><strong>橙色</strong></p></td>
 <td></td>
+<td><p>北條蘇菲 波汪</p></td>
+<td><p>萌黃繪萌</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -81,6 +93,8 @@
 <td><p>165cm</p></td>
 <td><p><strong>黃色</strong></p></td>
 <td></td>
+<td><p>桃樂絲·威斯特 皮茨基</p></td>
+<td><p>明日香留羽</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -232,7 +246,21 @@
 <td><p>2019年2月13日</p></td>
 <td><p><strong>Endless Notes</strong></p></td>
 <td><p>EYCA-12282/B</p></td>
-<td><p>EYCA-12281</p></td>
+<td><p>EYCA-12281 EYCA-12283</p></td>
+</tr>
+<tr class="odd">
+<td><p>18th</p></td>
+<td><p>2019年5月22日</p></td>
+<td><p><strong>アルティメット☆MAGIC</strong></p></td>
+<td><p>EYCA-12510/B</p></td>
+<td><p>EYCA-12509 EYCA-12511</p></td>
+</tr>
+<tr class="even">
+<td><p>19th</p></td>
+<td><p>2019年8月28日(預計)</p></td>
+<td><p><strong>FANTASTIC ILLUSION</strong></p></td>
+<td><p>EYCA-12608/B</p></td>
+<td><p>EYCA-12609 EYCA-12607</p></td>
 </tr>
 </tbody>
 </table>

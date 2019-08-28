@@ -78,18 +78,18 @@
 
 ## 音樂節目
 
-| 2017年音樂節目現場                                           |
-| ----------------------------------------------------- |
-| 電視台                                                   |
-| colspan=6 style="background:\#FFC8DA | Holiday        |
-| [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") |
-| [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   |
-| [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")   |
-| colspan=6 style="background:\#FFC8DA | All Night      |
-| [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") |
-| [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   |
-| [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")   |
-|                                                       |
+| 2017年音樂節目現場                                         |
+| --------------------------------------------------- |
+| 電視台                                                 |
+| colspan=6 style="background:\#FFC8DA | Holiday      |
+| [Mnet](../Page/Mnet.md "wikilink")                  |
+| [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") |
+| [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") |
+| colspan=6 style="background:\#FFC8DA | All Night    |
+| [Mnet](../Page/Mnet.md "wikilink")                  |
+| [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") |
+| [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") |
+|                                                     |
 
 ## 榜單成績
 

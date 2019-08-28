@@ -110,7 +110,7 @@ shuffle模式：如果正在運行iPod App，只需晃動裝置一下，裝置�
 
 ### iPhone
 
-  - [iPhone (第一代)](https://zh.wikipedia.org/wiki/iPhone_\(第一代\) "wikilink")
+  - [iPhone (第一代)](https://zh.wikipedia.org/wiki/iPhone_\(第一代\) "wikilink") （此iOS版本為最後一個支援此裝置的版本）
   - [iPhone 3G](https://zh.wikipedia.org/wiki/iPhone_3G "wikilink")
   - [iPhone 3GS](https://zh.wikipedia.org/wiki/iPhone_3GS "wikilink")
 

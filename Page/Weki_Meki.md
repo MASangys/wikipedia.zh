@@ -19,40 +19,51 @@
 
 #### Produce 101時期
 
-  - 2015年12月，有情、度延、海琳、藝珍、書靜（書靜是以LOUDers練習生名義）五人參與了由[Mnet所企劃的出道競爭節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》，最後有情、度延分別以第三名、第八名入選成為[I.O.I](../Page/I.O.I.md "wikilink")成員出道。
+  - 2015年12月，有情、度延、海琳、藝珍、書靜（書靜是以LOUDers練習生名義）五人參與了由[Mnet](../Page/Mnet.md "wikilink")所企劃的出道競爭節目《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》，最後有情、度延分別以第三名、第八名入選成為[I.O.I](../Page/I.O.I.md "wikilink")成員出道。
 
 #### I-Teen Girls時期
 
   - 2017年3月25日起，透過V Live頻道開始每日直播節目《放學後的秘密基地》，出道前以I-Teen Girls暫稱，成員們藉此與粉絲聊天或表演。6月4日，透過V Live公布正式成員及藝名，成員有池秀娟、鄭海琳、[磪有情](../Page/磪有情.md "wikilink")、[金度延](../Page/金度延.md "wikilink")、李書靜、金秀經、姜昭恩、魯孝靜八人。秋藝珍不是正式成員。
 
-#### Weki Meki時期
+### 2017年
 
-  - 2017年7月6日，Fantagio娛樂將其正式命名 Weki Meki（）。
-  - 2017年8月8日，Weki Meki推出首張迷你專輯《WEME》，並以主打歌曲〈I Don't Like Your Girlfriend〉正式出道。
-  - 2018年2月1日，Weki Meki 推出《Weki Meki，干嘛呢？》一個從宿舍開始，橫跨韓國、日本、泰國拍攝的團綜／真人秀。以贏得任務和比賽的方式，換取實現3個重要願望的機會。節目中也透露第二張迷你專輯《LUCKY》造型轉換和幕後花絮，並且有跟YouTube網博客開吃播、美妝課、在Engoo\[4\]與外籍老師學習英語以應付泰國行程......等等豐富的內容。在最後一集透露：Elly在秀娟加入Fantagio前，本是練習組隊長。
-  - 2018年2月21日，Weki Meki發行第二張迷你專輯《Lucky》，主打歌曲為〈La La La〉，並進行為期一個月的宣傳活動。
-  - 2018年5月1日，Weki Meki及[宇宙少女方同時在各自的官方社群帳號中公開了企劃組合](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")「[宇宙Meki](../Page/宇宙Meki.md "wikilink")」（）的預告圖\[5\]\[6\]，該組合由Weki Meki成員[有情](../Page/磪有情.md "wikilink")、[度延及宇宙少女](../Page/金度延.md "wikilink")[雪娥](../Page/雪娥.md "wikilink")、LUDA組成。\[7\]
-  - 2018年8月8日，在出道一周年之際，公開粉絲名「Ki-Ling」\[8\]及官方應援色：「由小番茄紅和亮黃色所組成的漸層」。\[9\]
-  - 2018年10月11日，Weki Meki發行單曲專輯《KISS, KICKS》，以主打歌曲〈Crush〉回歸。
-  - 2019年5月14日，Weki Meki發行單曲2輯《LOCK END LOL》，以主打歌曲〈Picky Picky〉回歸。
+7月6日，Fantagio娛樂將團隊組合正式命名為Weki Meki（）。
+
+8月8日，Weki Meki推出首張迷你專輯《WEME》，並以主打歌曲〈I Don't Like Your Girlfriend〉正式出道。
+
+### 2018年
+
+2月1日，Weki Meki 推出《Weki Meki，干嘛呢？》一個從宿舍開始，橫跨韓國、日本、泰國拍攝的團綜／真人秀。以贏得任務和比賽的方式，換取實現3個重要願望的機會。節目中也透露第二張迷你專輯《LUCKY》造型轉換和幕後花絮，並且有跟YouTube網博客開吃播、美妝課、在Engoo\[4\]與外籍老師學習英語以應付泰國行程......等等豐富的內容。在最後一集透露：Elly在秀娟加入Fantagio前，本是練習組隊長。
+
+2月21日，Weki Meki發行第二張迷你專輯《Lucky》，主打歌曲為〈La La La〉，並進行為期一個月的宣傳活動。
+
+5月1日，Weki Meki及[宇宙少女方同時在各自的官方社群帳號中公開了企劃組合](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")「[宇宙Meki](../Page/宇宙Meki.md "wikilink")」（）的預告圖\[5\]\[6\]，該組合由Weki Meki成員[有情](../Page/磪有情.md "wikilink")、[度延及宇宙少女](../Page/金度延.md "wikilink")[雪娥](../Page/雪娥.md "wikilink")、LUDA組成。\[7\]
+
+8月8日，在出道一周年之際，公開粉絲名「Ki-Ling」\[8\]及官方應援色：「由小番茄紅和亮黃色所組成的漸層」。\[9\] 10月11日，Weki Meki發行單曲專輯《KISS, KICKS》，以主打歌曲〈Crush〉回歸。
+
+### 2019年
+
+5月14日，Weki Meki發行單曲2輯《LOCK END LOL》，以主打歌曲〈Picky Picky〉回歸。
+
+8月8日，Weki Meki發行單曲2輯改版專輯《WEEK END LOL》，以主打歌曲〈Tiki-Taka(99%)〉回歸。
 
 ## 成員列表
 
   - 名字**粗體**為隊長
   - 除了秀娟、Elly、有情及度延，其他成員皆未正名（Lucy已確定為盧氏）
 
-| 成員列表                                                   |
-| ------------------------------------------------------ |
-| 藝名                                                     |
-| 藝名                                                     |
-| **[秀娟](https://zh.wikipedia.org/wiki/池秀娟 "wikilink")** |
-| [Elly](https://zh.wikipedia.org/wiki/鄭海琳 "wikilink")   |
-| [有情](../Page/磪有情.md "wikilink")                        |
-| [度延](../Page/金度延.md "wikilink")                        |
-| [Sei](https://zh.wikipedia.org/wiki/李書靜 "wikilink")    |
-| [Lua](https://zh.wikipedia.org/wiki/金秀璟 "wikilink")    |
-| [Rina](https://zh.wikipedia.org/wiki/姜昭恩 "wikilink")   |
-| [Lucy](https://zh.wikipedia.org/wiki/魯孝靜 "wikilink")   |
+| 成員列表                                                |
+| --------------------------------------------------- |
+| 藝名                                                  |
+| 藝名                                                  |
+| **秀娟**                                              |
+| Elly                                                |
+| [有情](../Page/磪有情.md "wikilink")                     |
+| [度延](../Page/金度延.md "wikilink")                     |
+| Sei                                                 |
+| [Lua](https://zh.wikipedia.org/wiki/金秀璟 "wikilink") |
+| Rina                                                |
+| Lucy                                                |
 
 ## 音樂作品
 
@@ -125,7 +136,18 @@
 <li>規格: 數位音樂下載、CD</li>
 <li>語言：韓語</li>
 <li>音樂類型：K-POP</li>
-<li>專輯銷售量: 15,627+[13]</li>
+<li>專輯銷售量: 20,051+[13]</li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2nd Repackage</p></td>
+<td><p><strong>《WEEK END LOL》</strong></p>
+<ul>
+<li>發行日期：2019年8月8日</li>
+<li>規格: 數位音樂下載、CD</li>
+<li>語言：韓語</li>
+<li>音樂類型：K-POP</li>
 </ul></td>
 <td></td>
 </tr>
@@ -167,11 +189,11 @@
 <td><p>電視劇《<a href="../Page/我的ID是江南美人.md" title="wikilink">我的ID是江南美人</a>》</p></td>
 </tr>
 <tr class="odd">
+<td><p>2018年10月28日</p></td>
+<td><p>장미의 미소</p></td>
+<td><p>Elly</p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>電視劇《<a href="../Page/我唯一的守護者.md" title="wikilink">我唯一的守護者</a>》</p></td>
 </tr>
 </tbody>
 </table>
@@ -217,14 +239,15 @@
 
 ### 音樂錄影帶 (MV)
 
-| 年份     | 日期              | 歌曲名稱                                |
-| ------ | --------------- | ----------------------------------- |
-| 2017年  | 8月8日            | I Don't Like Your Girlfriend \[15\] |
-| 2018年  | 1月11日           | Butterfly \[16\]                    |
-| 2月19日  | Lucky \[17\]    |                                     |
-| 2月21日  | La La La \[18\] |                                     |
-| 10月11日 | Crush \[19\]    |                                     |
-| 2019年  | 5月14日           | Picky Picky \[20\]                  |
+| 年份     | 日期                    | 歌曲名稱                                |
+| ------ | --------------------- | ----------------------------------- |
+| 2017年  | 8月8日                  | I Don't Like Your Girlfriend \[15\] |
+| 2018年  | 1月11日                 | Butterfly \[16\]                    |
+| 2月19日  | Lucky \[17\]          |                                     |
+| 2月21日  | La La La \[18\]       |                                     |
+| 10月11日 | Crush \[19\]          |                                     |
+| 2019年  | 5月14日                 | Picky Picky \[20\]                  |
+| 8月14日  | Tiki-Taka(99%) \[21\] |                                     |
 
 ### 參與音樂錄影帶
 
@@ -316,7 +339,7 @@
 <td><p>2018年</p></td>
 <td><p>Olleh TV (網絡版）、<br />
 OCN (電視版）</p></td>
-<td><p><a href="../Page/Short_(電視劇).md" title="wikilink">Short</a> [21]</p></td>
+<td><p><a href="../Page/Short_(電視劇).md" title="wikilink">Short</a> [22]</p></td>
 <td><p>度延</p></td>
 <td><p>刘志娜</p></td>
 <td></td>
@@ -327,14 +350,14 @@ OCN (電視版）</p></td>
 
 ### 固定綜藝節目
 
-| 日期              | 放送平台                                                  | 節目名稱                                             | 參與成員 | 備註                  |
-| --------------- | ----------------------------------------------------- | ------------------------------------------------ | ---- | ------------------- |
-| 2016年1月22日－4月1日 | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | [PRODUCE 101](../Page/PRODUCE_101.md "wikilink") | 有情   | 最終排名：3              |
-| 度延              | 最終排名：8                                                |                                                  |      |                     |
-| Elly            | 最終排名：47（於第8集淘汰）                                       |                                                  |      |                     |
-| Sei             | 最終排名：85（於第5集淘汰）                                       |                                                  |      |                     |
-| 2018年1月26日－     | On Style                                              | Get It Beauty 2018                               | 度延   | 固定主持，EP11、29、30沒有出演 |
-| 2018年8月19日－9月4日 | V LIVE                                                | 被逮到就死定了                                          |      |                     |
+| 日期              | 放送平台                               | 節目名稱                                             | 參與成員 | 備註                  |
+| --------------- | ---------------------------------- | ------------------------------------------------ | ---- | ------------------- |
+| 2016年1月22日－4月1日 | [Mnet](../Page/Mnet.md "wikilink") | [PRODUCE 101](../Page/PRODUCE_101.md "wikilink") | 有情   | 最終排名：3              |
+| 度延              | 最終排名：8                             |                                                  |      |                     |
+| Elly            | 最終排名：47（於第8集淘汰）                    |                                                  |      |                     |
+| Sei             | 最終排名：85（於第5集淘汰）                    |                                                  |      |                     |
+| 2018年1月26日－     | On Style                           | Get It Beauty 2018                               | 度延   | 固定主持，EP11、29、30沒有出演 |
+| 2018年8月19日－9月4日 | V LIVE                             | 被逮到就死定了                                          |      |                     |
 
 ### 嘉賓出演綜藝節目
 
@@ -397,8 +420,7 @@ OCN (電視版）</p></td>
 | 7月22日         |
 | 8月3日          |
 | 8月5日          |
-| 8月17日         |
-| 8月24、31日、9月7日 |
+| 8月17日－9月7日    |
 | 8月24日         |
 | 8月31日         |
 | 8月31日、9月7日    |
@@ -408,12 +430,11 @@ OCN (電視版）</p></td>
 | 9月26日         |
 | 10月9日         |
 | 10月12日        |
-| Celuv TV      |
+| Celuv.TV      |
 | 10月15日        |
 | 10月17日        |
 | 10月18日        |
-| 11月13日        |
-| 11月15日        |
+| 11月13、15日     |
 
 | 2019年    |
 | -------- |
@@ -428,6 +449,8 @@ OCN (電視版）</p></td>
 | 6月7日     |
 | 6月13日    |
 | 6月15日    |
+| 8月17、24日 |
+|          |
 
 ## 主持
 
@@ -721,7 +744,7 @@ OCN (電視版）</p></td>
 
 | 日期         | 名稱                                  | 舉行地點                       |
 | ---------- | ----------------------------------- | -------------------------- |
-| 2018年5月13日 | Weki Meki Wonderful Moment in Japan | 東京都港区赤坂5-3-2 赤坂サカス内 \[22\] |
+| 2018年5月13日 | Weki Meki Wonderful Moment in Japan | 東京都港区赤坂5-3-2 赤坂サカス内 \[23\] |
 
 ### SHOWCASE
 
@@ -874,7 +897,7 @@ OCN (電視版）</p></td>
 10. [2017年度GAON專輯榜70位](http://gaonchart.co.kr/main/section/chart/total.gaon?serviceGbn=S1060)
 11. [2017年11月GAON專輯榜47位](http://gaonchart.co.kr/main/section/chart/album.gaon?serviceGbn=ALBUM&termGbn=month&hitYear=2017&targetTime=11&nationGbn=K)
 12. [1](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&termGbn=month)
-13. [2019年6月GAON專輯榜56位](http://mobile.gaonchart.co.kr/musicAlbum.gaon?nationGbn=T&serviceGbn=&termGbn=month)
+13. [2019.07](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=07&hitYear=2019&termGbn=month)
 14.
 15.
 16.
@@ -884,3 +907,4 @@ OCN (電視版）</p></td>
 20.
 21.
 22.
+23.

@@ -502,7 +502,7 @@
 <td><p>OnStyle</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>6月24日－7月22日</p></td>

@@ -1,4 +1,4 @@
-本條目內之「播放日期」，是指[马来西亚](../Page/马来西亚.md "wikilink")[Astro喜悦HD](../Page/Astro喜悦HD.md "wikilink")的播放日期。
+本條目內之「播放日期」，是指[马来西亚](../Page/马来西亚.md "wikilink")[Astro喜悦HD](../Page/Astro喜悦HD.md "wikilink")的播放日期。7月1日，Astro喜悦HD停播。
 
 <table>
 <tbody>

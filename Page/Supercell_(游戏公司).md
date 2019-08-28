@@ -1,4 +1,4 @@
-**Supercell（超級細胞）**是一家[芬兰](../Page/芬兰.md "wikilink")[赫尔辛基](../Page/赫尔辛基.md "wikilink")的电子游戏开发商。公司成立于2010年，目前主要制作面向[智能手机](../Page/智能手机.md "wikilink")等移动平台的游戏。其最令人熟知的作品包括了《》、《[部落冲突](../Page/部落冲突.md "wikilink")》、《海岛奇兵》、《[部落冲突：皇室战争](https://zh.wikipedia.org/wiki/部落冲突：皇室战争 "wikilink")（Clash Royale)》《[荒野亂鬥](../Page/荒野亂鬥.md "wikilink")(Brawl Stars) 》据统计在2013年，《卡通农场》和《部落冲突》两款游戏每天给公司带来250万美元的收入 \[1\]。
+**Supercell（超級細胞）**是一家[芬兰](../Page/芬兰.md "wikilink")[赫尔辛基](../Page/赫尔辛基.md "wikilink")的电子游戏开发商。公司成立于2010年，目前主要制作面向[智能手机](../Page/智能手机.md "wikilink")等移动平台的游戏。其最令人熟知的作品包括了《》、《[部落冲突](../Page/部落冲突.md "wikilink")》、《海岛奇兵》、《[部落冲突：皇室战争](https://zh.wikipedia.org/wiki/部落冲突：皇室战争 "wikilink")（Clash Royale)》《[荒野亂鬥](../Page/荒野亂鬥.md "wikilink")(Brawl Stars) 》。据统计在2013年，《卡通农场》和《部落冲突》两款游戏每天给公司带来250万美元的收入 \[1\]。
 
 ## 歷史
 

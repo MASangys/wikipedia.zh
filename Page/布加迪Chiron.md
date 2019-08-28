@@ -1,4 +1,4 @@
-**布加迪凱龍**(Bugatti Chiron)是一輛[中置引擎的雙門](https://zh.wikipedia.org/wiki/中置引擎 "wikilink")[超級跑車](../Page/超級跑車.md "wikilink")，由[福斯集團](https://zh.wikipedia.org/wiki/福斯集團 "wikilink")（Volkswagen Group) 設計，作為[布加迪威龍](../Page/布加迪威龙.md "wikilink")（Bugatti Veyron 16.4）的繼任車型。\[1\] Chiron 首次於2016年3月1日在[日內瓦車展公開](https://zh.wikipedia.org/wiki/日內瓦車展 "wikilink")。
+**布加迪奇龍**(Bugatti Chiron)是一輛[中置引擎的雙門](https://zh.wikipedia.org/wiki/中置引擎 "wikilink")[超級跑車](../Page/超級跑車.md "wikilink")，由[大众集團](https://zh.wikipedia.org/wiki/大众集團 "wikilink")（Volkswagen Group) 設計，作為[布加迪威龍](../Page/布加迪威龙.md "wikilink")（Bugatti Veyron 16.4）的繼任車型。\[1\] Chiron 首次於2016年3月1日在[日內瓦車展公開](https://zh.wikipedia.org/wiki/日內瓦車展 "wikilink")。
 
 ## 命名
 

@@ -1,4 +1,4 @@
-**李昕**（）[藝名](../Page/藝名.md "wikilink")**Amis艾蜜絲**曾在[中華職棒](https://zh.wikipedia.org/wiki/中華職棒 "wikilink")[Lamigirls與](https://zh.wikipedia.org/wiki/Lamigirls "wikilink")[Fubon Angels擔任](../Page/Fubon_Angels.md "wikilink")[啦啦隊](../Page/啦啦隊.md "wikilink")，在[臉書粉絲擁有超過](https://zh.wikipedia.org/wiki/臉書 "wikilink")30萬名粉絲有「啦啦隊女神」美稱！\[1\]
+**李昕**（）[藝名](../Page/藝名.md "wikilink")**Amis艾蜜絲**曾在[中華職棒](https://zh.wikipedia.org/wiki/中華職棒 "wikilink")[Lamigirls與](https://zh.wikipedia.org/wiki/Lamigirls "wikilink")[Fubon Angels擔任](../Page/Fubon_Angels.md "wikilink")[啦啦隊](../Page/啦啦隊.md "wikilink")，在[臉書粉絲擁有超過](https://zh.wikipedia.org/wiki/臉書 "wikilink")30萬名粉絲且有「啦啦隊女神」美稱！\[1\]
 
 ## 經歷
 
@@ -12,10 +12,11 @@
 
 **寫真書**
 
-| 年份    | 書名                 | 出版社                                | ISBN               |
-| ----- | ------------------ | ---------------------------------- | ------------------ |
-| 2014年 | 《Amis南陽照射私底下甜寫真》   | [台灣角川](../Page/台灣角川.md "wikilink") | ISBN 9789863663713 |
-| 2016年 | 《Amis L. 艾蜜絲浪漫寫真書》 | [尖端出版](../Page/尖端出版.md "wikilink") | ISBN 9789571069524 |
+| 年份    | 書名                                                  | 出版社                                | ISBN               |
+| ----- | --------------------------------------------------- | ---------------------------------- | ------------------ |
+| 2014年 | 《Amis南陽照射私底下甜寫真》                                    | [台灣角川](../Page/台灣角川.md "wikilink") | ISBN 9789863663713 |
+| 2016年 | 《Amis L. 艾蜜絲浪漫寫真書》                                  | [尖端出版](../Page/尖端出版.md "wikilink") | ISBN 9789571069524 |
+| 2019年 | 《Amis艾蜜絲夢遊仙境數位寫真》([電子書](../Page/電子書.md "wikilink")) | [尖端出版](../Page/尖端出版.md "wikilink") | ISBN 3140051620036 |
 
 **寫真年曆**
 

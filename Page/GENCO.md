@@ -297,6 +297,14 @@
   - [YU-NO 在這世界盡頭詠唱愛的少女](../Page/YU-NO_在這世界盡頭詠唱愛的少女.md "wikilink")
   - [小書痴的下剋上](../Page/小書痴的下剋上.md "wikilink")：為了成為圖書管理員不擇手段！
 
+<!-- end list -->
+
+  - 2020年
+
+<!-- end list -->
+
+  - [-{zh-cn:魔术士欧菲;zh-tw:魔術士歐菲;zh-hk:魔法少年;}-迷途之旅](https://zh.wikipedia.org/wiki/魔術士歐菲 "wikilink")
+
 ### OVA
 
   - 1999年

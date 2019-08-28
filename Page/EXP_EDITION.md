@@ -170,11 +170,11 @@ Bora Kim在接受[哥伦比亚](../Page/哥伦比亚.md "wikilink")广播公司�
 
 ### 綜藝節目
 
-| 年份    | 日期    | 電視台                                                   | 節目名稱                                                      | 參與成員 | 備註                                                                                                     |
-| ----- | ----- | ----------------------------------------------------- | --------------------------------------------------------- | ---- | ------------------------------------------------------------------------------------------------------ |
-| \-    | \-    | [KBS](../Page/韓國放送公社.md "wikilink")                   | [The Unit](../Page/The_Unit.md "wikilink")                | Koki | 無通過第一回合                                                                                                |
-| 2017年 | 4月20日 | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | [看見你的聲音](https://zh.wikipedia.org/wiki/看見你的聲音 "wikilink") | 全員   | 表演[Super Junior](../Page/Super_Junior.md "wikilink")[「U」](https://www.youtube.com/watch?v=O1QV9nGBW1g) |
-| 6月29日 | KBS   | [鄰居查爾斯](../Page/鄰居查爾斯.md "wikilink")                  | [EP128](https://www.youtube.com/watch?v=OBgmeVfdh78)      |      |                                                                                                        |
+| 年份    | 日期    | 電視台                                  | 節目名稱                                                      | 參與成員 | 備註                                                                                                     |
+| ----- | ----- | ------------------------------------ | --------------------------------------------------------- | ---- | ------------------------------------------------------------------------------------------------------ |
+| \-    | \-    | [KBS](../Page/韓國放送公社.md "wikilink")  | [The Unit](../Page/The_Unit.md "wikilink")                | Koki | 無通過第一回合                                                                                                |
+| 2017年 | 4月20日 | [Mnet](../Page/Mnet.md "wikilink")   | [看見你的聲音](https://zh.wikipedia.org/wiki/看見你的聲音 "wikilink") | 全員   | 表演[Super Junior](../Page/Super_Junior.md "wikilink")[「U」](https://www.youtube.com/watch?v=O1QV9nGBW1g) |
+| 6月29日 | KBS   | [鄰居查爾斯](../Page/鄰居查爾斯.md "wikilink") | [EP128](https://www.youtube.com/watch?v=OBgmeVfdh78)      |      |                                                                                                        |
 
 ### 音樂節目
 
@@ -219,7 +219,7 @@ Bora Kim在接受[哥伦比亚](../Page/哥伦比亚.md "wikilink")广播公司�
 </tr>
 <tr class="odd">
 <td><p>1月18日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td></td>
 <td></td>

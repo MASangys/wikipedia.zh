@@ -1,4 +1,4 @@
-**丁恩妃**\[1\]（，，），藝名**Eunha**（），[韓國女](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[歌手](../Page/歌手.md "wikilink")，是[Source Music旗下女子組合](https://zh.wikipedia.org/wiki/Source_Music "wikilink")[GFRIEND](../Page/GFRIEND.md "wikilink")的成員，在隊內擔任領唱(lead vocal)。曾與隊友[SinB](../Page/SinB.md "wikilink")於[Big Hit娛樂擔任練習生](../Page/Big_Hit娛樂.md "wikilink")，擁有多年的練習生經歷。
+**丁恩妃**\[1\]（，，），藝名**Eunha**（），[韓國女](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[歌手](../Page/歌手.md "wikilink")，是[Source Music旗下女子組合](../Page/Source_Music.md "wikilink")[GFRIEND](../Page/GFRIEND.md "wikilink")的成員，在隊內擔任領唱(lead vocal)。曾與隊友[SinB](../Page/SinB.md "wikilink")於[Big Hit娛樂擔任練習生](../Page/Big_Hit娛樂.md "wikilink")，擁有多年的練習生經歷。
 
 ## 經歷
 
@@ -14,7 +14,7 @@
 
 銀河曾和[Block B的朴經](../Page/Block_B.md "wikilink")，一同出演[MBC MBig TV的網絡情景劇Oh](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") My God\! Tip\[7\]。5月25日，銀河與朴經合作，推出歌曲《自卑心理（자격지심）》\[8\]\[9\]。
 
-2016年11月，Eunha加入Sunny Girls -《人氣歌謠》特別合作企劃女團，該組合其他成員4個成员分別是：[宇宙少女的](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")[程瀟](https://zh.wikipedia.org/wiki/程瀟 "wikilink")、[gu9udan](https://zh.wikipedia.org/wiki/gu9udan "wikilink") 的 [娜英](../Page/娜英.md "wikilink")、[Oh My Girl](https://zh.wikipedia.org/wiki/Oh_My_Girl "wikilink") 的 [YooA](../Page/YooA.md "wikilink")、[MOMOLAND](../Page/MOMOLAND.md "wikilink") 的 [Nancy](https://zh.wikipedia.org/wiki/Nancy "wikilink") ，一共五人所組成的特別合作女團並表演歌曲。\[10\]
+2016年11月，Eunha加入Sunny Girls -《人氣歌謠》特別合作企劃女團，該組合其他成員4個成员分別是：[宇宙少女的](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")[程瀟](https://zh.wikipedia.org/wiki/程瀟 "wikilink")、[gu9udan](https://zh.wikipedia.org/wiki/gu9udan "wikilink") 的 [娜英](../Page/娜英.md "wikilink")、[Oh My Girl](https://zh.wikipedia.org/wiki/Oh_My_Girl "wikilink") 的 [YooA](../Page/YooA.md "wikilink")、[MOMOLAND](../Page/MOMOLAND.md "wikilink") 的 [Nancy](../Page/南希·麥多尼.md "wikilink") ，一共五人所組成的特別合作女團並表演歌曲。\[10\]
 
 2019年1月28日，公開《成為王的男人》第三波 OST，是由 Eunha 所演唱的「告訴我」(말해줘요)。「告訴我」由 Eunha 清爽純真的嗓音搭配感性的鋼琴、弦樂伴奏，唱出輕聲撫慰記憶裡的情人、許下一生諾言的回憶，還有會一直期待思念的情人回到身邊的心情\[11\]。
 
@@ -72,7 +72,7 @@
 <tr class="odd">
 <td><p>年份</p></td>
 <td><p>公司產品</p></td>
-<td><p>曲目</p></td>
+<td><p>曲目/影片</p></td>
 </tr>
 <tr class="even">
 <td><p>2019</p></td>
@@ -84,6 +84,31 @@
 </ul></td>
 <td><ol>
 <li><a href="https://www.youtube.com/watch?v=QYJDDAml6M0">Blossom</a></li>
+</ol></td>
+</tr>
+<tr class="odd">
+<td><p>2019</p></td>
+<td><p>《Celeb Alarm with Samsung》</p>
+<ul>
+<li>發行日期：2019年</li>
+<li>語言：韓語</li>
+</ul></td>
+<td><ol>
+<li>[銀河 - 噢！我的女朋友]</li>
+<li>[銀河 - 魔性的撒嬌]</li>
+<li>[銀河 - ZZA喵心動進攻]</li>
+<li><a href="https://www.youtube.com/watch?v=WednLKH_2SQ">錄製花絮</a></li>
+</ol></td>
+</tr>
+<tr class="even">
+<td><p>2019</p></td>
+<td><p>《Google Play Korea-Gardenscapes》</p>
+<ul>
+<li>發行日期：2019年8月9日</li>
+<li>語言：韓語</li>
+</ul></td>
+<td><ol>
+<li><a href="https://www.youtube.com/watch?v=JFcu1_ks36A">Interview with Eunha</a></li>
 </ol></td>
 </tr>
 </tbody>
@@ -103,12 +128,14 @@
 
 ### 音樂現場
 
-|            |      |            |                                                      |      |
-| ---------- | ---- | ---------- | ---------------------------------------------------- | ---- |
-| 節目名稱       | 電視台  | 歌曲名稱       | 日期                                                   | 合作歌手 |
-| 2017年      |      |            |                                                      |      |
-| Music Bank | KBS2 | I Remember | [9月30日](https://www.youtube.com/watch?v=Mykxw6efpv0) | /    |
-|            |      |            |                                                      |      |
+|             |      |                   |                                                      |      |
+| ----------- | ---- | ----------------- | ---------------------------------------------------- | ---- |
+| 節目名稱        | 電視台  | 歌曲名稱              | 日期                                                   | 合作歌手 |
+| 2017年       |      |                   |                                                      |      |
+| Music Bank  | KBS2 | I Remember        | [9月30日](https://www.youtube.com/watch?v=Mykxw6efpv0) | /    |
+| 2019年       |      |                   |                                                      |      |
+| M Countdown | Mnet | Atlantis Princess | [8月8日](https://www.youtube.com/watch?v=P7XAtEwM76E)  | /    |
+|             |      |                   |                                                      |      |
 
 ## 其他作品
 
@@ -167,7 +194,7 @@
   -
   - 的V LIVE頻道
 
-[Category:GFRIEND](https://zh.wikipedia.org/wiki/Category:GFRIEND "wikilink") [Category:韓國新教徒](https://zh.wikipedia.org/wiki/Category:韓國新教徒 "wikilink")
+[Category:GFRIEND](https://zh.wikipedia.org/wiki/Category:GFRIEND "wikilink") [Category:韓國新教徒](https://zh.wikipedia.org/wiki/Category:韓國新教徒 "wikilink") [Category:首爾特別市出身人物](https://zh.wikipedia.org/wiki/Category:首爾特別市出身人物 "wikilink")
 
 1.  [\[★이력서\] 이렇게 사랑스러운 '여자친구' 보셨나요?](http://www.staraz.co.kr/news/articleView.html?idxno=14346)
 2.

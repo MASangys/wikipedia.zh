@@ -17,7 +17,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td></td>
 <td><p>2017年5月16日－至今</p></td>
 <td><p>每周二、四 20:00開始</p></td>

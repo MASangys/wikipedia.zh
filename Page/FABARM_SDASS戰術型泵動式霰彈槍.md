@@ -8,7 +8,7 @@ FABARM SDASS的[機匣是由輕量級](https://zh.wikipedia.org/wiki/機匣 "wik
 
 [槍栓藉由一片](https://zh.wikipedia.org/wiki/槍栓 "wikilink")[铝](../Page/铝.md "wikilink")製鎖片，擺動到位，並與[槍管](../Page/槍管.md "wikilink")延伸部的凹槽嚙合以後閉鎖到位，以將槍栓鎖定到槍管之後。這樣原始的保險裝置，可以防止該槍掉落引發走火。掉落引發的走火是在[雙管霰彈槍](../Page/雙管霰彈槍.md "wikilink")等霰彈槍中很常見的事故。
 
-SDASS與其他許多[泵動式與](https://zh.wikipedia.org/wiki/泵動式 "wikilink")[半自動霰彈槍一樣在槍管以下具有內置式](https://zh.wikipedia.org/wiki/半自動霰彈槍 "wikilink")[管式彈倉](https://zh.wikipedia.org/wiki/彈匣#管式彈倉 "wikilink")，最多可裝填7發12鉛徑霰彈藥筒，加上[膛室](../Page/膛室.md "wikilink")以內的1發的總容量為8發。\[2\]
+SDASS與其他許多[泵動式](../Page/泵動式.md "wikilink")與[半自動霰彈槍一樣在槍管以下具有內置式](https://zh.wikipedia.org/wiki/半自動霰彈槍 "wikilink")[管式彈倉](https://zh.wikipedia.org/wiki/彈匣#管式彈倉 "wikilink")，最多可裝填7發12鉛徑霰彈藥筒，加上[膛室](../Page/膛室.md "wikilink")以內的1發的總容量為8發。\[2\]
 
 其[槍托](../Page/槍托.md "wikilink")是由複合[聚合物](../Page/聚合物.md "wikilink")所製成，亦是不同的SDASS衍生型當中結構特徵的變化最大的複合聚合物件。其槍托的常見變化包括縮短型、增加以至有如SDASS訓練者型般改變槍托製成的材料。
 

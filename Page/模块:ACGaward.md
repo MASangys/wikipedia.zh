@@ -136,7 +136,7 @@ local list = {
 `   { 'Domon', 3 },`
 `   { 'Dreamcrosser', 5 },`
 `   { 'Driger', 4 },`
-`   { 'Dqwyy', 95 },`
+`   { 'Dqwyy', 99 },`
 `   { 'Dyliu714', 4 },`
 `   { 'Ed cracker', 2 },`
 `   { 'EdmanHK', 5 },`
@@ -150,7 +150,7 @@ local list = {
 `   { 'Eky', 160 },`
 `   { 'Ellery', 8 },`
 `   { 'ER145545', 4 },  `
-`   { 'Ericliu1912', 131},`
+`   { 'Ericliu1912', 151},`
 `   { 'Eternalwind2005', 3 },`
 `   { 'Eternity Traveler', 4 },`
 `   { 'Ex20636', 1 },`
@@ -322,7 +322,7 @@ local list = {
 `   { 'Mike8411251995', 205 },`
 `   { 'Mikepanhu', 13 },`
 `   { 'Millionhere', 1 },   `
-`   { 'Milkypine', 65 },`
+`   { 'Milkypine', 70 },`
 `   { 'Milopo23', 2 },`
 `   { 'Milotic', 1 },`
 `   { 'Minbean', 32 },`

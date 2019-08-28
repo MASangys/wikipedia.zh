@@ -36,9 +36,11 @@
 
   - （2016年）－TBS（僅限關東地區）播出的[泡麵番](https://zh.wikipedia.org/wiki/泡麵番 "wikilink")。
 
-  - [灰姑娘女孩劇場](https://zh.wikipedia.org/wiki/灰姑娘女孩劇場 "wikilink")（2017年）\[5\]
+  - [偶像大師 灰姑娘女孩劇場](https://zh.wikipedia.org/wiki/灰姑娘女孩劇場 "wikilink")（2017年－2018年）\[5\]
 
   - （2018年）
+
+  - 偶像大師 灰姑娘女孩劇場 CLIMAX SEASON（2019年）
 
 ### OVA
 

@@ -696,19 +696,19 @@
 
 ### 節目主持
 
-| 日期               | 電視臺                                                   | 節目名稱                                                                   | 參與成員        | 性質   |
-| ---------------- | ----------------------------------------------------- | ---------------------------------------------------------------------- | ----------- | ---- |
-| 2017年8月17日       | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | 黃旼炫、邕聖祐     | 特別MC |
-| 2017年8月28日       | Mwave                                                 | Meet & Greet                                                           | 尹智聖、李大輝、邕聖祐 | MC   |
-| 2017年11月19日      | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")   | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  | 姜丹尼爾、邕聖祐    | 特別MC |
-| 2017年12月8日       | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | K-Rush                                                                 | 尹智聖         | MC   |
-| 2017年12月29日      | KBS                                                   | [KBS歌謠大祝祭](https://zh.wikipedia.org/wiki/KBS歌謠大祝祭 "wikilink")          | 姜丹尼爾        | 特別MC |
-| 2018年2月24日-9月22日 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     | 邕聖祐         | 固定MC |
-| 2018年4月26日       | Mnet                                                  | M\! Countdown                                                          | 李大輝         | 特別MC |
-| 2018年5月10日       |                                                       |                                                                        |             |      |
-| 2018年6月7日        | 李大輝、黃旼炫                                               |                                                                        |             |      |
-| 2018年6月14日       | 李大輝                                                   |                                                                        |             |      |
-| 2018年7月12日       |                                                       |                                                                        |             |      |
+| 日期               | 電視臺                                                 | 節目名稱                                                                   | 參與成員        | 性質   |
+| ---------------- | --------------------------------------------------- | ---------------------------------------------------------------------- | ----------- | ---- |
+| 2017年8月17日       | [Mnet](../Page/Mnet.md "wikilink")                  | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | 黃旼炫、邕聖祐     | 特別MC |
+| 2017年8月28日       | Mwave                                               | Meet & Greet                                                           | 尹智聖、李大輝、邕聖祐 | MC   |
+| 2017年11月19日      | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  | 姜丹尼爾、邕聖祐    | 特別MC |
+| 2017年12月8日       | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | K-Rush                                                                 | 尹智聖         | MC   |
+| 2017年12月29日      | KBS                                                 | [KBS歌謠大祝祭](https://zh.wikipedia.org/wiki/KBS歌謠大祝祭 "wikilink")          | 姜丹尼爾        | 特別MC |
+| 2018年2月24日-9月22日 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     | 邕聖祐         | 固定MC |
+| 2018年4月26日       | Mnet                                                | M\! Countdown                                                          | 李大輝         | 特別MC |
+| 2018年5月10日       |                                                     |                                                                        |             |      |
+| 2018年6月7日        | 李大輝、黃旼炫                                             |                                                                        |             |      |
+| 2018年6月14日       | 李大輝                                                 |                                                                        |             |      |
+| 2018年7月12日       |                                                     |                                                                        |             |      |
 
 ### 活動主持
 

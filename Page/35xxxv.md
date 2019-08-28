@@ -40,7 +40,7 @@
 
 ## 巡迴演唱會
 
-  - 專輯發行之後，[ONE OK ROCK於](../Page/ONE_OK_ROCK.md "wikilink")2015年4月宣佈將於當年5月9日展開日本新專輯巡迴演唱會「**ONE OK ROCK 2015 “35xxxv” JAPAN TOUR**」\[9\]，並分別於6月、8月、9月宣佈北美、亞洲、歐洲的巡迴演唱會訊息。並於2016年4月6日發布演唱會紀錄[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")/[藍光專輯](https://zh.wikipedia.org/wiki/藍光 "wikilink")「**ONE OK ROCK 2015 “35xxxv” JAPAN TOUR LIVE & DOCUMENTARY**」\[10\]
+  - 專輯發行之後，[ONE OK ROCK於](../Page/ONE_OK_ROCK.md "wikilink")2015年4月宣佈將於當年5月9日展開日本新專輯巡迴演唱會「**ONE OK ROCK 2015 “35xxxv” JAPAN TOUR**」\[9\]，並分別於6月、8月、9月宣佈北美、亞洲、歐洲的巡迴演唱會訊息。並於2016年4月6日發布演唱會紀錄[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")/[藍光](../Page/藍光.md "wikilink")專輯「**ONE OK ROCK 2015 “35xxxv” JAPAN TOUR LIVE & DOCUMENTARY**」\[10\]
 
 ### ONE OK ROCK 2015 “35xxxv” JAPAN TOUR
 

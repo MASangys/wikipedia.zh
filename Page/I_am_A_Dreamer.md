@@ -6,7 +6,7 @@
 
 9月21日，Glove娛樂官方宣布朴孝信的正規七輯定名為《I am A Dreamer》，於10月3日推出\[5\]，專輯的內頁照片與主打曲音樂錄影帶已在8月下旬於古巴拍攝完畢\[6\]；概念照片則在9月26日於官方Facebook發佈\[7\]。
 
-9月29日，專輯先行曲《呼吸》（）公開\[8\]，隨即在[Melon](../Page/Melon.md "wikilink")、[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")、、和的音源網站登上實時音樂排行榜第一位\[9\]。完整的專輯曲目表於10月1日公開，包括在舊公司Jellyfish娛樂出版的《》（）、《》及《Shine Your Light》共12首歌\[10\]。
+9月29日，專輯先行曲《呼吸》（）公開\[8\]，隨即在[Melon](../Page/Melon.md "wikilink")、[Mnet](../Page/Mnet.md "wikilink")、、和的音源網站登上實時音樂排行榜第一位\[9\]。完整的專輯曲目表於10月1日公開，包括在舊公司Jellyfish娛樂出版的《》（）、《》及《Shine Your Light》共12首歌\[10\]。
 
 ## 曲目
 

@@ -730,7 +730,7 @@ Kwon Yong Sang</p></td>
 <tr class="even">
 <td><p>第38話</p></td>
 <td></td>
-<td></td>
+<td><p>四天王！暫時休息</p></td>
 <td><p>牧俊治</p></td>
 <td><p>宮井加奈</p></td>
 <td></td>
@@ -740,7 +740,7 @@ Kwon Yong Sang</p></td>
 <tr class="odd">
 <td><p>第39話</p></td>
 <td></td>
-<td></td>
+<td><p>訣別，再見了，朋友</p></td>
 <td><p>筆安一幸</p></td>
 <td><p>飯島正勝</p></td>
 <td></td>
@@ -753,7 +753,7 @@ Kwon Yong Sang</p></td>
 <tr class="even">
 <td><p>第40話</p></td>
 <td></td>
-<td></td>
+<td><p>奔跑吧！膽小鬼的自豪</p></td>
 <td><p>加藤還一</p></td>
 <td><p>上原秀明</p></td>
 <td><p>腰繁男</p></td>

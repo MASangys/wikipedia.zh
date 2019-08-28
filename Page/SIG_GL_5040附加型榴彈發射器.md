@@ -20,7 +20,8 @@ SIG GL 5040附有的側裝式[立式標尺與](https://zh.wikipedia.org/wiki/立
 
   -
   -
-  - ：被[瑞士軍隊所採用](../Page/瑞士軍事.md "wikilink")，GL 5040被命名為40 mm **Gewehraufsatz 97**。
+  -
+  -   - [瑞士軍隊](../Page/瑞士軍事.md "wikilink")：GL 5040被命名為40 mm **Gewehraufsatz 97**。
 
 ## 流行文化
 

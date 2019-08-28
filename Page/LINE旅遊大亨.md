@@ -28,7 +28,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/泰國" title="wikilink">泰國</a> <a href="https://zh.wikipedia.org/wiki/印尼" title="wikilink">印尼</a></p></td>
 <td><p>LINE เกมเศรษฐี LINE Let's Get Rich</p></td>
 <td><p><a href="../Page/LINE.md" title="wikilink">LINE</a></p></td>
-<td><p>2014年6月17日[4]</p></td>
+<td><p>2014年7月8日[4]</p></td>
 <td><p>營運中</p></td>
 </tr>
 <tr class="odd">
@@ -170,6 +170,7 @@ LINE旅遊大亨的評價在[Google play商店達到](../Page/Google_Play.md "wi
 
 3.
 4.
+
 5.
 
 6.

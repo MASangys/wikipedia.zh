@@ -55,6 +55,11 @@
 <td><p>停駛</p></td>
 </tr>
 <tr class="odd">
+<td><p><strong>懸掛8號風球後30分鐘開出尾班車</strong></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>

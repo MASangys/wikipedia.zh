@@ -1,6 +1,6 @@
 **VICTON**（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Plan A娛樂首次推出的](../Page/Plan_A娛樂.md "wikilink")7人男子組合\[1\]。成員包括韓勝宇、姜昇植、許燦、林勢俊、都韓勢、崔秉燦、鄭秀彬，於2016年11月9日發行迷你專輯《Voice To New World》，以主打歌《I'm fine》出道\[2\]。
 
-出道前曾以[Mnet實境節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《Me&7Men》亮相。 他們亦是女子組合[APINK的師弟](https://zh.wikipedia.org/wiki/APINK "wikilink")，在出道前已備受大眾矚目。
+出道前曾以[Mnet](../Page/Mnet.md "wikilink")實境節目《Me&7Men》亮相。 他們亦是女子組合[APINK的師弟](https://zh.wikipedia.org/wiki/APINK "wikilink")，在出道前已備受大眾矚目。
 
 出道百日的粉絲見面會上公布官方粉絲名為「ALICE」，意為「Always we Love the voICE」。
 
@@ -12,7 +12,7 @@
 
 ### 出道前
 
-  - 2016年8月17日，Plan A娛樂在社群網站公開會有一組練習生組成的新團體「Plan A Boys」準備出道\[3\]，其後[Mnet在](https://zh.wikipedia.org/wiki/Mnet "wikilink")8月30日播出《Me&7Men》（）第一集以介紹「Plan A Boys」的出道過程\[4\]。次日（8月31日），他們在[許閣](../Page/許閣.md "wikilink")的歌曲《\#紧张》（）首次亮相和獻聲演唱\[5\]。
+  - 2016年8月17日，Plan A娛樂在社群網站公開會有一組練習生組成的新團體「Plan A Boys」準備出道\[3\]，其後[Mnet](../Page/Mnet.md "wikilink")在8月30日播出《Me&7Men》（）第一集以介紹「Plan A Boys」的出道過程\[4\]。次日（8月31日），他們在[許閣](../Page/許閣.md "wikilink")的歌曲《\#紧张》（）首次亮相和獻聲演唱\[5\]。
 
 ### 2016年
 
@@ -58,7 +58,7 @@
 <td><p>本名[13]</p></td>
 </tr>
 <tr class="odd">
-<td><p>韓勝宇<br />
+<td><p><a href="../Page/韓勝宇.md" title="wikilink">韓勝宇</a><br />
 </p></td>
 </tr>
 <tr class="even">
@@ -108,7 +108,7 @@
 <ul>
 <li>發行日期：2016年11月9日</li>
 <li>語言：韓語</li>
-<li>專輯銷量：14,947+[14][15]</li>
+<li>專輯銷量：15,557+[14]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -118,7 +118,7 @@
 <ul>
 <li>發行日期：2017年3月2日</li>
 <li>語言：韓語</li>
-<li>專輯銷量：27,395+[16]</li>
+<li>專輯銷量：27,395+[15]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -128,7 +128,7 @@
 <ul>
 <li>發行日期：2017年8月23日</li>
 <li>語言：韓語</li>
-<li>專輯銷量：21,371+[17]</li>
+<li>專輯銷量：21,371+[16]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -138,7 +138,7 @@
 <ul>
 <li>發行日期：2017年11月9日</li>
 <li>語言：韓語</li>
-<li>專輯銷量：13,419+[18]</li>
+<li>專輯銷量：13,971+[17]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -165,7 +165,7 @@
 <ul>
 <li>發行日期：2018年5月23日</li>
 <li>語言：韓語</li>
-<li>專輯銷量：18,015+[19]</li>
+<li>專輯銷量：18,853+[18]</li>
 </ul></td>
 <td><ol>
 <li>Time of sorrow （）</li>
@@ -293,13 +293,13 @@
 |    |      |          |        |
 | -- | ---- | -------- | ------ |
 | 成員 | 登記名稱 | 登記編號     | 參與歌曲列表 |
-| 勝宇 | 한승우  | 10013330 | \[20\] |
-| 昇植 | 강승식  | 10013334 | \[21\] |
-| 許燦 | 허찬   | 10013325 | \[22\] |
-| 勢俊 | 임세준  | 10013333 | \[23\] |
-| 韓勢 | 도한세  | 10013335 | \[24\] |
-| 秉燦 | 최병찬  | 10013336 | \[25\] |
-| 秀彬 | 정수빈  | 10013328 | \[26\] |
+| 勝宇 | 한승우  | 10013330 | \[19\] |
+| 昇植 | 강승식  | 10013334 | \[20\] |
+| 許燦 | 허찬   | 10013325 | \[21\] |
+| 勢俊 | 임세준  | 10013333 | \[22\] |
+| 韓勢 | 도한세  | 10013335 | \[23\] |
+| 秉燦 | 최병찬  | 10013336 | \[24\] |
+| 秀彬 | 정수빈  | 10013328 | \[25\] |
 
 ## 影視作品
 
@@ -562,13 +562,14 @@
 
 ## 外部連結
 
-  -
-  - [VICTON的Twitter成員帳戶](https://twitter.com/NewWorld_VICTON)
-
-  -
-  -
-  -
-  - [VICTON](http://cafe.daum.net/PlanAboys/)在Daum cafe的頁面
+  - [VICTON](http://play-m.co.kr/victon)官方網站
+  - [VICTON](https://twitter.com/VICTON1109)官方Twitter
+  - [VICTON](https://twitter.com/NewWorld_VICTON)成員Twitter
+  - [VICTON](https://www.facebook.com/VICTON1109)官方Facebook
+  - [VICTON](https://www.instagram.com/victon1109/)官方Instagram
+  - [VICTON](https://www.youtube.com/channel/UCQ7a83KJBE7w_txsT7VaJ8g/videos)官方Youtube
+  - [VICTON](https://channels.vlive.tv/ECB24F/home)官方Vlive
+  - [VICTON](http://cafe.daum.net/PlanAboys/)官方Fan Club
 
 [Category:Plan_A娛樂](https://zh.wikipedia.org/wiki/Category:Plan_A娛樂 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink") [Category:2016年韓國建立](https://zh.wikipedia.org/wiki/Category:2016年韓國建立 "wikilink") [Category:VICTON](https://zh.wikipedia.org/wiki/Category:VICTON "wikilink")
 
@@ -597,15 +598,15 @@
 
 13. 成員本名已在官咖正名。
 
-14.
+14. 2016年銷量:14,947+ ; 2019年銷量:610 (2019/07月榜紀錄)
 
 15.
 
 16.
 
-17.
+17. 2017年銷量:13,419+ ; 2019年銷量:552 (2019/07月榜紀錄)
 
-18.
+18. 2018年銷量:18,015+ ; 2019年銷量:838 (2019/07月榜紀錄)
 
 19.
 
@@ -620,5 +621,3 @@
 24.
 
 25.
-
-26.

@@ -6,6 +6,12 @@ ShopBack 的創始團隊之前在Rocket Internet\[2\]。按照ShopBack網站說�
 
 ## 參考文獻
 
+## 外部連結
+
+  - [ShopBack 官方網站](https://www.shopback.com.tw/)
+  - [ShopBack LinkedIn](https://www.linkedin.com/company/shopback-com/)
+  - [ShopBack Facebook](https://www.facebook.com/ShopBackTaiwan/)
+
 ## 媒體報導
 
   - [數位時代網站報導](http://www.bnext.com.tw/article/view/id/41102)

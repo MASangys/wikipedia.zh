@@ -12,8 +12,6 @@
 
 <!-- end list -->
 
-  - [小野健一](../Page/小野健一.md "wikilink")
-
   - [井上文彥](../Page/井上文彥.md "wikilink")
 
   -
@@ -261,26 +259,29 @@
 
   - [內田直哉](../Page/內田直哉.md "wikilink")\[4\]（現所屬：[大澤事務所](../Page/大澤事務所.md "wikilink")）
 
-  -
-  - \[5\]
+  - （[自由職業](../Page/自由職業.md "wikilink")）
 
-  - \[6\]（現所屬：Starise）
+  - [小野健一](../Page/小野健一.md "wikilink")\[5\]（現所屬：[Rush Style](../Page/Rush_Style.md "wikilink")）
 
-  - \[7\]
+  - \[6\]
 
-  - \[8\]（現所屬：[Production Ace](../Page/Production_Ace.md "wikilink")）
+  - \[7\]（現所屬：Starise）
+
+  - \[8\]
+
+  - \[9\]（現所屬：[Production Ace](../Page/Production_Ace.md "wikilink")）
 
 ### 女性
 
-  - \[9\]
+  - \[10\]
 
-  - \[10\]（移籍[aptepro之後引退](https://zh.wikipedia.org/wiki/aptepro "wikilink")）
+  - \[11\]（移籍[aptepro之後引退](https://zh.wikipedia.org/wiki/aptepro "wikilink")）
 
-  - \[11\]（舊藝名：，現所屬：）
+  - \[12\]（舊藝名：，現所屬：）
 
   - 持塚溫子
 
-## 來源
+## 參考來源
 
 ## 外部連結
 
@@ -297,9 +298,11 @@
 5.
 
 6.
+
 7.
 8.
-
 9.
+
 10.
 11.
+12.

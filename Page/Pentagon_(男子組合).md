@@ -252,11 +252,11 @@ E'Dawn、Kino、Hui(2013年10月)、Yeo One(2013年11月)、信源、禹奭、Yu
 
 ### 2019年
 
-**日本首張單曲《Cosmo》、迷你八輯《Genie:us》、迷你九輯《Sum(me:r)》**
+**日本首張單曲《Cosmo》、迷你八輯《Genie:us》、迷你九輯《Sum(me:r)》、日本單曲《Happiness》**
 
 1月起，首次日本巡演「The First Japan Zepp tour - Dear Cosmo 」。\[141\] 2月，日本Major Debut 首張單曲《Cosmo》，由[GLAY](../Page/GLAY.md "wikilink")成員[TERU所製作](https://zh.wikipedia.org/wiki/TERU "wikilink")，Oricon單曲日榜最高排名一位，週榜排名四位。\[142\]
 
-3月27日，迷你八輯《[Genie:us](../Page/Genie:us.md "wikilink")》，主打《Sha La La》回歸。4月27至28日，演唱會「2019 PRISM CONCERT」，並計劃「2019 PRISM WORLD TOUR」。7月17日，迷你九輯《SUM(ME:R)》，主打《接近禁止》回歸。
+3月27日，迷你八輯《[Genie:us](../Page/Genie:us.md "wikilink")》，主打《Sha La La》回歸。4月27至28日，演唱會「2019 PRISM CONCERT」，並計劃「2019 PRISM WORLD TOUR」。7月17日，迷你九輯《SUM(ME:R)》，主打《接近禁止》回歸。 8月21日日，日本單曲《Happiness/ Sha La La (ha La La》。
 
 ## 音樂作品
 
@@ -396,25 +396,11 @@ E'Dawn、Kino、Hui(2013年10月)、Yeo One(2013年11月)、信源、禹奭、Yu
 </tbody>
 </table>
 
-<table>
-<thead>
-<tr class="header">
-<th><p>各台冠軍歌曲統計</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><a href="../Page/Mnet媒體.md" title="wikilink">Mnet</a></p></td>
-</tr>
-<tr class="even">
-<td><p>0</p></td>
-</tr>
-<tr class="odd">
-<td><p>一位總數：0<br />
-六台冠軍歌曲總數：0</p></td>
-</tr>
-</tbody>
-</table>
+| 各台冠軍歌曲統計                             |
+| ------------------------------------ |
+| [Mnet](../Page/Mnet媒體.md "wikilink") |
+| 0                                    |
+| 一位總數：0                               |
 
 ## 註釋
 
@@ -422,7 +408,7 @@ E'Dawn、Kino、Hui(2013年10月)、Yeo One(2013年11月)、信源、禹奭、Yu
 
 ## 外部連結
 
-**PENTAGON 韓國官方連結**
+**官方連結**
 
   - \- PENTAGON
 
@@ -435,54 +421,12 @@ E'Dawn、Kino、Hui(2013年10月)、Yeo One(2013年11月)、信源、禹奭、Yu
 
   -
   -
-**PENTAGON 海外官方連結**
-
   - [PENTAGON JAPAN](http://pentagonfan.com/)的Fan Club
 
   -
   -
   -
-  - [PENTAGON](https://music.163.com/#/user/home?id=1894106091)的網易雲音樂主頁
-
-**PENTAGON 成員個人連結**
-
-  -
-  -
-  - (出道前)
-
-  - (出道前)
-
-<!-- end list -->
-
-  - Cube娛樂官方連結
-
-<!-- end list -->
-
-  - 的官方網站
-
-  -
-  -
-  - [Cube娛樂](http://tw.weibo.com/cubeent)的新浪微博
-
-  -
-  - [Cube娛樂](https://channels.vlive.tv/FD933/home)的VLive頻道
-
-  -
-  -
-<!-- end list -->
-
-  - CUBE 娛樂日本
-
-<!-- end list -->
-
-  - 的官方網站
-
-  -
-<!-- end list -->
-
-  - CUBE TV
-
-<!-- end list -->
+**個人連結**
 
   -
   -

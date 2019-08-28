@@ -305,7 +305,7 @@
 </p></td>
 <td><p>'''<a href="https://zh.wikipedia.org/wiki/羅拔·唐尼" title="wikilink">羅拔·唐尼</a></p></td>
 <td><p>'''鐵甲奇俠 / 東尼·史達</p></td>
-<td><p>'''<a href="https://zh.wikipedia.org/wiki/復仇者聯盟：終局之戰" title="wikilink">復仇者聯盟：終局之戰</a></p></td>
+<td><p>'''<a href="../Page/復仇者聯盟：終局之戰.md" title="wikilink">復仇者聯盟：終局之戰</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/貝兒·娜森" title="wikilink">貝兒·娜森</a></p></td>

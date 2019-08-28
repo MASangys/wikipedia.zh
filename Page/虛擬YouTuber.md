@@ -6,13 +6,13 @@
 
 虚拟YouTuber最早在日本发源。該名詞由2016年12月開始活動的[絆愛](../Page/絆愛.md "wikilink")首次使用，定義爲“由[電腦圖形所繪製的](https://zh.wikipedia.org/wiki/電腦圖形 "wikilink")[插畫](../Page/插畫.md "wikilink")風格的[美少女](../Page/美少女.md "wikilink")[YouTuber](../Page/YouTuber.md "wikilink")”\[3\]。雖然在此之前就已經有類似的虛擬角色出現\[4\]，但是當時這類虛擬角色並未定性爲虛擬YouTuber。因此在一段時間，虛擬YouTuber是絆愛的代名詞。
 
-2017年開始，隨着諸如“”、“”、“”、“”等擁有大量[粉絲的虛擬YouTuber的加入](https://zh.wikipedia.org/wiki/粉絲 "wikilink")，原先作爲絆愛的代名詞的虛擬YouTuber一詞被重新定義，並逐漸廣泛使用。
+2017年開始，隨着諸如“”、“”、“”、“[輝夜月](https://zh.wikipedia.org/wiki/輝夜月 "wikilink")”等擁有大量[粉絲的虛擬YouTuber的加入](https://zh.wikipedia.org/wiki/粉絲 "wikilink")，原先作爲絆愛的代名詞的虛擬YouTuber一詞被重新定義，並逐漸廣泛使用。
 
 一些虚拟角色也在其他媒体领域发展，如出演[地面电视节目](https://zh.wikipedia.org/wiki/地面电视 "wikilink")\[5\]、出售商品等，此时虚拟YouTuber是作为一个便于理解的品牌名称。
 
 于2018年4月5日宣布将向虚拟YouTuber产业投资100亿日元\[6\]。
 
-截至2018年5月28日，虚拟YouTuber總計有3000人，訂閱者共1089万，視頻點擊率達到6億9000万次以上\[7\]。到2019年4月，虚拟YouTuber總計有约6000人，訂閱者共约2000万。随着虚拟YouTuber迎来热潮，一些虚拟YouTuber组织也随即兴起，其中比较有名的有、、（也译2434）、[hololive等](https://zh.wikipedia.org/wiki/hololive "wikilink")。
+截至2018年5月28日，虚拟YouTuber總計有3000人，訂閱者共1089万，視頻點擊率達到6億9000万次以上\[7\]。到2019年4月，虚拟YouTuber總計有约6000人，訂閱者共约2000万。随着虚拟YouTuber迎来热潮，一些虚拟YouTuber组织也随即兴起，其中比较有名的有、、（也译2434、二次三次）、[hololive等](https://zh.wikipedia.org/wiki/hololive "wikilink")。
 
 2019年4月，虚拟Youtuber事务所Unlimited被曝出对旗下著名Vtuber团体游戏部企划所属的4名艺人进行压榨，震动了Vtuber圈，引来同圈人士和网友们的声讨，游戏部企划Youtube频道的订阅量也一跌再跌\[8\]，但Unlimited选择了冷处理。随后数月，游戏部企划成员的中之人被逐一替换\[9\]。
 
@@ -26,9 +26,9 @@
   - 在[虎妮](../Page/虎妮.md "wikilink")剛誕生時，台灣就有一些同好開始自行當起虛擬網紅，其中包含[菲諾](https://zh.wikipedia.org/wiki/菲諾 "wikilink")、[謙謙子](https://zh.wikipedia.org/wiki/謙謙子 "wikilink")、[翔一](https://zh.wikipedia.org/wiki/翔一 "wikilink")、[雙命裂等](https://zh.wikipedia.org/wiki/雙命裂 "wikilink")，一共五人，是台灣非企業最早五人。
   - 台北二次三次同樣為早期於台灣耕耘的企業，目前改名為VEgo，已與日本二次三次切斷關係，旗下網紅也從7人剩下3人。
 
-### 中國大陆
+### 中国大陆
 
-在中華人民共和國，由于[YouTube遭到屏蔽](https://zh.wikipedia.org/wiki/对YouTube的审查#中華人民共和國 "wikilink")，用户不能直接观看虛擬YouTuber的视频，因此有用戶在通過授權的情況下將相關視頻轉載到如[Bilibili](../Page/Bilibili.md "wikilink")之類的網站，另外也有一部分虛擬YouTuber在中國網站內設有官方頻道。一部分虛擬YouTuber在Bilibili的粉丝订阅量远高于YouTube的订阅量。除此之外，在Bilibili上也活动着一些虚拟视频制作人，称为“虚拟UP主”\[10\]，目前在中國大陸活躍的虛擬主播有虚拟次元计划（虚研社）、兽耳放送、兰若-re、Siva_小虾鱼_、木糖纯和庄不纯、幽灵子辰、进击的冰糖等。而部分虛擬主播也参加了如中科院物理所开发日这样的大型活动\[11\]，由此看來虚拟主播在大陆地区正在慢慢被人熟知。
+在[中华人民共和国](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")，由于[YouTube遭到屏蔽](https://zh.wikipedia.org/wiki/对YouTube的审查#中華人民共和國 "wikilink")，用户不能直接观看虛擬YouTuber的视频，因此有用戶在通過授權的情況下將相關視頻轉載到如[Bilibili](../Page/Bilibili.md "wikilink")之類的網站，另外也有一部分虛擬YouTuber在中國網站內設有官方頻道。一部分虛擬YouTuber在Bilibili的粉丝订阅量远高于YouTube的订阅量。除此之外，在Bilibili上也活动着一些虚拟视频制作人，称为“虚拟主播”\[10\]，目前在中國大陸活躍的虛擬主播有虚拟次元计划（虚研社）、兽耳放送、兰若-re、Siva_小虾鱼_、木糖纯和庄不纯、幽灵子辰、进击的冰糖等。而部分虛擬主播也参加了如中科院物理所开发日这样的大型活动\[11\]，由此看來虚拟主播在大陆地区正在慢慢被人熟知。
 
 除此之外，在中国香港、韩国、印尼、俄罗斯等国家和地区也有虚拟YouTuber正在活动。
 

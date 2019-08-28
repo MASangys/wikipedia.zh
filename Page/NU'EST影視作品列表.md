@@ -236,6 +236,9 @@
 | 在這麼晚，失禮了🙈                   | 旼炫                                   |           |
 | \[NU'EST\] 謝謝🐯              | 白虎                                   |           |
 | 7月29日                       | \[NU'EST\] 星期一～～Let's get it🐢        | JR        |
+| 7月31日                       | \[NU'EST\] Aron Ramsay's 手製漢堡        | Aron      |
+| 8月2日                        | \[NU'EST\] 你好，我來囉🐶                   |           |
+| 8月9日                        | 🎂8/9🎂謝謝❤️                            | 旼炫        |
 
 ## 主持節目
 
@@ -301,7 +304,7 @@
 </tr>
 <tr class="even">
 <td><p>2017年4月7日-6月16日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="../Page/PRODUCE_101_第二季.md" title="wikilink">PRODUCE 101 第二季</a></p></td>
 <td><p>參加者</p></td>
 <td><p>EP1-11</p></td>
@@ -317,7 +320,7 @@
 </tr>
 <tr class="even">
 <td><p>2017年9月1日-11月16日</p></td>
-<td><p>tvN</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/奇怪的歌手" title="wikilink">奇怪的歌手</a></p></td>
 <td><p>評審團</p></td>
 <td><p>EP8-19</p></td>
@@ -394,6 +397,14 @@
 <td><p>固定成員</p></td>
 <td><p>EP1-16</p></td>
 <td><p>白虎</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年9月2日-</p></td>
+<td><p>JTBC2</p></td>
+<td><p>浩九的排行</p></td>
+<td><p>主持人</p></td>
+<td><p>EP1-</p></td>
+<td><p>Ren</p></td>
 </tr>
 </tbody>
 </table>
@@ -507,12 +518,44 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p>2019年2月16日</p></td>
+<td><p>NeNe炸雞</p></td>
+<td><p>第一屆 Nene STAR DAY</p></td>
+<td><p>代言簽名會</p></td>
+<td><p>NU'EST W</p></td>
+<td><p>首爾Ilchi Art Hall</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019年2月20日</p></td>
+<td><p>2019 米蘭時裝周</p></td>
+<td><p>MONCLER GENIUS</p></td>
+<td><p>觀秀嘉賓</p></td>
+<td><p>旼炫</p></td>
+<td><p>米蘭Magazzini Raccordati倉庫</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年3月20日</p></td>
+<td><p>2019 F/W 首爾時裝周</p></td>
+<td><p>BIG PARK服裝展</p></td>
+<td><p>Aron、旼炫、Ren</p></td>
+<td><p>首爾東大門設計廣場（DDP）</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年4月4日</p></td>
+<td><p>Dior</p></td>
+<td><p>Dior「癮誘超模巨星唇膏」全球發表派對</p></td>
+<td><p>派對嘉賓</p></td>
+<td><p>旼炫、Ren</p></td>
+<td><p>首爾LAYER57</p></td>
+</tr>
+<tr class="even">
 <td><p>2019年5月2日</p></td>
 <td><p>KBS</p></td>
 <td><p>Happy Together</p></td>
+<td><p>特別MC</p></td>
 <td><p>旼炫</p></td>
 <td><p>EP587</p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>2019年5月4日</p></td>
@@ -536,7 +579,31 @@
 <td><p>KCON 2019 JAPAN</p></td>
 <td><p>特別MC</p></td>
 <td><p>旼炫</p></td>
+<td><p>日本千葉縣幕張展覽館國際展示場</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年7月30日</p></td>
+<td><p>Lotte Entertainment</p></td>
+<td><p>《驅魔使者》VIP試映會</p></td>
+<td><p>VIP</p></td>
+<td><p>首爾時代廣場CGV電影院</p></td>
 <td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年8月1日</p></td>
+<td><p>NeNe炸雞</p></td>
+<td><p>第三屆 Nene STAR DAY</p></td>
+<td><p>代言簽名會</p></td>
+<td><p>NU'EST W</p></td>
+<td><p>首爾Ilchi Art Hall</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年8月17日</p></td>
+<td><p>CJ ENM</p></td>
+<td><p>KCON 2019 LA</p></td>
+<td><p>特別MC</p></td>
+<td><p>Aron、Ren</p></td>
+<td><p>美國洛杉磯會議中心史坦波中心</p></td>
 </tr>
 </tbody>
 </table>
@@ -545,153 +612,177 @@
 
 ### 2012年至2016年
 
-|               |                                          |                                                                    |                                                               |           |
-| ------------- | ---------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------- | --------- |
-| **播放日期**      | **電視台**                                  | **節目名稱**                                                           | **參與成員**                                                      | **集數**    |
-| 2012年         |                                          |                                                                    |                                                               |           |
-| 4月3日          | Mnet Japan                               | M COUNTDOWN Backstage Star Search                                  | 全體成員                                                          |           |
-| 4月21日-4月28日   | SBS                                      | [驚人的大會-Star King](../Page/驚人的大會-Star_King.md "wikilink")           | JR、白虎、Ren                                                     | EP264-265 |
-| 5月1日          | Mnet Japan                               | 超☆韓ON！                                                             | 全體成員                                                          |           |
-| 5月5日-5月12日    | SBS                                      | 驚人的大會-Star King                                                    | Aron、Ren                                                      | EP266-267 |
-| 5月12日         | MBC                                      | 改變世界的Quiz                                                          | JR、白虎、Ren                                                     | EP153     |
-| 6月30日         | SBS                                      | 驚人的大會-Star King                                                    | EP274                                                         |           |
-| 7月14日         | EP276                                    |                                                                    |                                                               |           |
-| 7月26日         | SBS                                      | MTV STUDIO C                                                       | 全體成員                                                          | EP34      |
-| 8月1日          | MBC every1                               | [一週的偶像](../Page/Weekly_Idol.md "wikilink")                         | EP54                                                          |           |
-| 8月18日         | SBS                                      | 驚人的大會-Star King                                                    | JR、白虎、Ren                                                     | EP278     |
-| 11月20日-11月27日 | SBS                                      | [強心臟](https://zh.wikipedia.org/wiki/強心臟 "wikilink")                | Ren                                                           | EP155-156 |
-| 2013年         |                                          |                                                                    |                                                               |           |
-| 1月14日-2月25日   | [日本BS放送](../Page/日本BS放送.md "wikilink")   | Han Love                                                           | 全體成員                                                          | EP1-7     |
-| 2月11日         | MBC                                      | 13春節[偶像明星運動會](https://zh.wikipedia.org/wiki/MBC偶像明星運動會 "wikilink") |                                                               |           |
-| 3月12日         | TheStarTV                                | THE STAR                                                           |                                                               |           |
-| 3月17日-3月18日   | 日本BS放送                                   | Han Love                                                           |                                                               |           |
-| 3月15日         | Mnet                                     | JJANG！                                                             | EP29                                                          |           |
-| 3月26日         | KBS2                                     | [1 VS 100](../Page/1_VS_100.md "wikilink")                         | 旼炫、Ren                                                        | EP287     |
-| 3月31日         | MBC                                      | Magic Concert 這就是魔術                                                | Ren                                                           | EP14      |
-| 4月22日         | 日本BS放送                                   | Han Love                                                           | 全體成員                                                          |           |
-| 7月15日         | 日本BS放送                                   | Han Love                                                           |                                                               |           |
-| 7月28日         | Mnet Japan                               | M-time                                                             |                                                               |           |
-| 8月5日-8月6日     | MTV                                      | 日韓音樂瘋                                                              | JR、白虎、旼炫、Ren                                                  |           |
-| 9月1日          | ASIA DRAMATIC TV                         | NU'EST 出道一周年特別節目                                                   | 全體成員                                                          |           |
-| 9月4日          | [Arirang](../Page/阿里郎电视台.md "wikilink")  | [After School Club](../Page/After_School_Club.md "wikilink")       | EP21                                                          |           |
-| 9月19日-9月20日   | MBC                                      | 13中秋偶像明星運動會                                                        | 白虎                                                            |           |
-| 10月13日        | Arirang                                  | SECRET BOX\!                                                       | 全體成員                                                          |           |
-| 10月22日        | Mnet                                     | JJANG！                                                             | EP53                                                          |           |
-| 11月18日        | MTV                                      | 我愛偶像                                                               |                                                               |           |
-| 12月13日-12月20日 | 湖南衛視                                     | [天天向上](../Page/天天向上.md "wikilink")                                 | [NU'EST-M](https://zh.wikipedia.org/wiki/NU'EST-M "wikilink") |           |
-| 12月22日        | 雲南衛視                                     | 音樂現場                                                               |                                                               |           |
-| 2014年         |                                          |                                                                    |                                                               |           |
-| 1月9日          | [中國中央電視台](../Page/中国中央电视台.md "wikilink") | 天天把歌唱                                                              | 全體成員                                                          |           |
-| 1月30日         | MBC                                      | 14春節偶像明星運動會                                                        |                                                               |           |
-| 2月4日          | 日本BS放送                                   | Han Love                                                           |                                                               |           |
-| 3月2日          | MBC                                      | Section TV                                                         | Ren                                                           |           |
-| 4月7日          | 中國中央電視台                                  | [開門大吉](https://zh.wikipedia.org/wiki/开门大吉 "wikilink")              | NU'EST-M                                                      |           |
-| 5月31日         | MUSIC ON\! TV                            | 最新最快藝能TIME CDET\!                                                  | 全體成員                                                          |           |
-| 6月21日         | ASIA ARAMATIC TV                         | NU'EST DEBUT 2週年特別節目                                               |                                                               |           |
-| 8月8日          | 中國中央電視台                                  | 天天把歌唱                                                              | NU'EST-M                                                      |           |
-| 8月12日         | Arirang                                  | New Secret Box                                                     | JR、Aron、白虎、旼炫                                                 |           |
-| 8月17日         | KBS                                      | [出發夢之隊2](../Page/出发梦之队2.md "wikilink")                             | 旼炫                                                            | EP246     |
-| 8月19日         | KBS                                      | [A SONG FOR YOU為你歌唱](../Page/A_SONG_FOR_YOU為你歌唱.md "wikilink")     | 全體成員                                                          | EP6       |
-| 9月1日          | KBS2                                     | 逃離危機 NO.1                                                          | 旼炫                                                            | EP448     |
-| 9月6日          | 富士電視台 TWO                                | 韓藝POP                                                              | JR、Ren                                                        |           |
-| 9月3日          | Arirang                                  | After School Club                                                  | Aron、旼炫、Ren                                                   | EP98      |
-| 9月10日         | EP100                                    |                                                                    |                                                               |           |
-| 9月17日         | MBC every1                               | 一週的偶像                                                              | 全體成員                                                          | EP164     |
-| 9月28日         | MUSIC ON\! TV                            | M-ON\! SPECIAL 「NU'EST」                                            |                                                               |           |
-| 11月4日         | MBC MUSIC                                | Latin Dream Show                                                   |                                                               |           |
-| 11月6日         | 神奈川電視台                                   | 謝謝！                                                                |                                                               |           |
-| 11月19日        | Arirang                                  | After School Club                                                  | Aron                                                          | EP120     |
-| 12月18日        | 衛星劇場                                     | 韓流 Star Jack S                                                     | 全體成員                                                          |           |
-| 2015年         |                                          |                                                                    |                                                               |           |
-| 2月21日         | MBC MUSIC                                | 偶像本色                                                               | 全體成員                                                          |           |
-| 4月27日         | CS HOME DRAMA CHANEL                     | 韓Chu                                                               |                                                               |           |
-| 5月20日         | 神奈川電視台                                   | 謝謝！                                                                |                                                               |           |
-| 5月27日         | 東京電視台                                    | THE KARAOKE★battle 哭歌Grand Prix                                    | 旼炫                                                            | EP31      |
-| 6月27日         | ASIA ARAMATIC TV                         | NU'EST JAPAN Tour 2015＆貼身報導特別篇                                     | 全體成員                                                          |           |
-| 9月7日          | BS11                                     | 韓 LOVE                                                             | 全體成員                                                          |           |
-| 10月21日-10月28日 | Arirang                                  | JOIN US KOREA                                                      | Aron                                                          | EP17-18   |
-| 11月14日        | 仙台電視台                                    | あらあらかしこ                                                            | 全體成員                                                          |           |
-| 12月6日         | CHANEL NECO                              | 映画ちゃん                                                              | 旼炫、Ren                                                        | EP133     |
-| 2016年         |                                          |                                                                    |                                                               |           |
-| 2月9日          | MBC                                      | 16春節偶像明星運動會                                                        | 全體成員                                                          |           |
-| 3月12日         | SBS                                      | [白鐘元的三大天王](https://zh.wikipedia.org/wiki/白鐘元的三大天王 "wikilink")      | EP28                                                          |           |
-| 3月15日         | SBS MTV                                  | THE SHOW 60秒任務                                                     |                                                               |           |
-| 3月22日         | KBS                                      | 1 VS 100                                                           | 白虎、旼炫                                                         |           |
-| 7月26日         | MBC                                      | Vedio Star                                                         | Ren                                                           | EP3       |
-| 9月14日         | MBC                                      | [偶像料理王](../Page/偶像料理王.md "wikilink")                               | 全體成員                                                          |           |
-| 10月14日        | MBC                                      | [二重唱歌謠祭](https://zh.wikipedia.org/wiki/二重唱歌謠祭 "wikilink")          | 白虎、REN（藝人評審團）                                                 | EP25      |
-| 10月25日        | 日本BS放送                                   | 韓流 Zap                                                             | 全體成員                                                          |           |
-| 12月19日        | CS HOME DRAMA CHANEL                     | 韓Chu                                                               |                                                               |           |
-| 12月26日        |                                          |                                                                    |                                                               |           |
-|               |                                          |                                                                    |                                                               |           |
+|               |                                                           |                                                                    |                                                               |           |
+| ------------- | --------------------------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------- | --------- |
+| **播放日期**      | **電視台**                                                   | **節目名稱**                                                           | **參與成員**                                                      | **集數**    |
+| 2012年         |                                                           |                                                                    |                                                               |           |
+| 4月3日          | Mnet Japan                                                | M COUNTDOWN Backstage Star Search                                  | 全體成員                                                          |           |
+| 4月21日-4月28日   | SBS                                                       | [驚人的大會-Star King](../Page/驚人的大會-Star_King.md "wikilink")           | JR、白虎、Ren                                                     | EP264-265 |
+| 5月1日          | Mnet Japan                                                | 超☆韓ON！                                                             | 全體成員                                                          |           |
+| 5月5日-5月12日    | SBS                                                       | 驚人的大會-Star King                                                    | Aron、Ren                                                      | EP266-267 |
+| 5月12日         | MBC                                                       | 改變世界的Quiz                                                          | JR、白虎、Ren                                                     | EP153     |
+| 6月30日         | SBS                                                       | 驚人的大會-Star King                                                    | EP274                                                         |           |
+| 7月14日         | EP276                                                     |                                                                    |                                                               |           |
+| 7月26日         | SBS                                                       | MTV STUDIO C                                                       | 全體成員                                                          | EP34      |
+| 8月1日          | MBC every1                                                | [一週的偶像](../Page/Weekly_Idol.md "wikilink")                         | EP54                                                          |           |
+| 8月18日         | SBS                                                       | 驚人的大會-Star King                                                    | JR、白虎、Ren                                                     | EP278     |
+| 11月20日-11月27日 | SBS                                                       | [強心臟](https://zh.wikipedia.org/wiki/強心臟 "wikilink")                | Ren                                                           | EP155-156 |
+| 2013年         |                                                           |                                                                    |                                                               |           |
+| 1月14日-2月25日   | [日本BS放送](../Page/日本BS放送.md "wikilink")                    | Han Love                                                           | 全體成員                                                          | EP1-7     |
+| 2月11日         | MBC                                                       | 13春節[偶像明星運動會](https://zh.wikipedia.org/wiki/MBC偶像明星運動會 "wikilink") |                                                               |           |
+| 3月12日         | TheStarTV                                                 | THE STAR                                                           |                                                               |           |
+| 3月17日-3月18日   | 日本BS放送                                                    | Han Love                                                           |                                                               |           |
+| 3月15日         | Mnet                                                      | JJANG！                                                             | EP29                                                          |           |
+| 3月26日         | KBS2                                                      | [1 VS 100](../Page/1_VS_100.md "wikilink")                         | 旼炫、Ren                                                        | EP287     |
+| 3月31日         | MBC                                                       | Magic Concert 這就是魔術                                                | Ren                                                           | EP14      |
+| 4月22日         | 日本BS放送                                                    | Han Love                                                           | 全體成員                                                          |           |
+| 7月15日         | 日本BS放送                                                    | Han Love                                                           |                                                               |           |
+| 7月28日         | Mnet Japan                                                | M-time                                                             |                                                               |           |
+| 8月5日-8月6日     | MTV                                                       | 日韓音樂瘋                                                              | JR、白虎、旼炫、Ren                                                  |           |
+| 9月1日          | ASIA DRAMATIC TV                                          | NU'EST 出道一周年特別節目                                                   | 全體成員                                                          |           |
+| 9月4日          | [Arirang](../Page/阿里郎电视台.md "wikilink")                   | [After School Club](../Page/After_School_Club.md "wikilink")       | EP21                                                          |           |
+| 9月19日-9月20日   | MBC                                                       | 13中秋偶像明星運動會                                                        | 白虎                                                            |           |
+| 10月13日        | Arirang                                                   | SECRET BOX\!                                                       | 全體成員                                                          |           |
+| 10月22日        | Mnet                                                      | JJANG！                                                             | EP53                                                          |           |
+| 11月18日        | MTV                                                       | 我愛偶像                                                               |                                                               |           |
+| 12月13日-12月20日 | 湖南衛視                                                      | [天天向上](../Page/天天向上.md "wikilink")                                 | [NU'EST-M](https://zh.wikipedia.org/wiki/NU'EST-M "wikilink") |           |
+| 12月22日        | 雲南衛視                                                      | 音樂現場                                                               |                                                               |           |
+| 2014年         |                                                           |                                                                    |                                                               |           |
+| 1月9日          | [中國中央電視台](../Page/中国中央电视台.md "wikilink")                  | 天天把歌唱                                                              | 全體成員                                                          |           |
+| 1月30日         | MBC                                                       | 14春節偶像明星運動會                                                        |                                                               |           |
+| 2月4日          | 日本BS放送                                                    | Han Love                                                           |                                                               |           |
+| 3月2日          | MBC                                                       | Section TV                                                         | Ren                                                           |           |
+| 3月8日          | 富士電視台 TWO                                                 | 韓益！POP                                                             | 全體成員                                                          |           |
+| 4月7日          | 中國中央電視台                                                   | [開門大吉](https://zh.wikipedia.org/wiki/开门大吉 "wikilink")              | NU'EST-M                                                      |           |
+| 5月31日         | MUSIC ON\! TV                                             | 最新最快藝能TIME CDET！                                                   | 全體成員                                                          |           |
+| 6月21日         | ASIA ARAMATIC TV                                          | NU'EST DEBUT 2週年特別節目                                               |                                                               |           |
+| 7月1日          | HOME DRAMA CHANEL                                         | 韓Chu                                                               |                                                               |           |
+| 7月5日          | 富士電視台 TWO                                                 | 韓益！POP                                                             |                                                               |           |
+| 7月22日         | HOME DRAMA CHANEL                                         | 韓Chu                                                               |                                                               |           |
+| 8月8日          | 中國中央電視台                                                   | 天天把歌唱                                                              | NU'EST-M                                                      |           |
+| 8月12日         | Arirang                                                   | New Secret Box                                                     | JR、Aron、白虎、旼炫                                                 |           |
+| 8月17日         | KBS                                                       | [出發夢之隊2](../Page/出发梦之队2.md "wikilink")                             | 旼炫                                                            | EP246     |
+| 8月18日         | [TV北海道](../Page/TV北海道.md "wikilink")                      | BBR                                                                | 全體成員                                                          |           |
+| 8月19日         | KBS                                                       | [A SONG FOR YOU為你歌唱](../Page/A_SONG_FOR_YOU為你歌唱.md "wikilink")     | EP6                                                           |           |
+| 8月23日         | MUSIC ON\! TV                                             | 最新最快藝能TIME CDET！                                                   |                                                               |           |
+| 8月23日         |                                                           |                                                                    |                                                               |           |
+| 9月1日          | KBS2                                                      | 逃離危機 NO.1                                                          | 旼炫                                                            | EP448     |
+| 9月6日          | MUSIC ON\! TV                                             | 最新最快藝能TIME CDET！                                                   | 全體成員                                                          |           |
+| 富士電視台 TWO     | 韓益！POP                                                    | JR、Ren                                                             |                                                               |           |
+| 9月3日          | Arirang                                                   | After School Club                                                  | Aron、旼炫、Ren                                                   | EP98      |
+| 9月10日         | EP100                                                     |                                                                    |                                                               |           |
+| 9月17日         | MBC every1                                                | 一週的偶像                                                              | 全體成員                                                          | EP164     |
+| 9月17日         | SPACE SHOWER TV                                           | KOREAN HITS RANKING                                                |                                                               |           |
+| 9月28日         | MUSIC ON\! TV                                             | M-ON\! SPECIAL 「NU'EST」                                            |                                                               |           |
+| 9月30日         | HOME DRAMA CHANEL                                         | 韓Chu                                                               | JR、Ren                                                        |           |
+| 10月18日        | 仙台放送                                                      | TOHOKU DREAM COLLECTION TV 2014 SP                                 | 全體成員                                                          |           |
+| 10月20日        | [千葉電視台](https://zh.wikipedia.org/wiki/千葉電視台 "wikilink")   | ONGAX                                                              |                                                               |           |
+| 10月23日        | 札幌娛樂站                                                     | Guest 評論                                                           |                                                               |           |
+| 11月2日         | MUSIC ON\! TV                                             | M-ON\! SPECIAL 「NU'EST」                                            |                                                               |           |
+| 11月3日         | [大分朝日放送](https://zh.wikipedia.org/wiki/大分朝日放送 "wikilink") | SOLD OUT                                                           |                                                               |           |
+| 11月4日         | MBC MUSIC                                                 | Latin Dream Show                                                   |                                                               |           |
+| 11月6日         | 神奈川電視台                                                    | 謝謝！                                                                |                                                               |           |
+| 11月8日         | [關西電視台](../Page/關西電視台.md "wikilink")                      | [Mu-Jack](../Page/Mu-Jack.md "wikilink")                           |                                                               |           |
+| 11月10日        | MUSIC JAPAN TV                                            | BREAK NEO                                                          |                                                               |           |
+| 11月15日        | 富士電視台 TWO                                                 | 韓益！POP                                                             |                                                               |           |
+| 11月18日        | TOKYO MX                                                  | 韓流火鍋                                                               |                                                               |           |
+| 11月19日        | Arirang                                                   | After School Club                                                  | Aron                                                          | EP120     |
+| 11月29日        | 富士電視台 TWO                                                 | 韓益！POP                                                             | 全體成員                                                          |           |
+| 12月4日         | Mnet Japan                                                | M-time                                                             |                                                               |           |
+| 12月18日        | 衛星劇場                                                      | 韓流 Star Jack S                                                     |                                                               |           |
+| 2015年         |                                                           |                                                                    |                                                               |           |
+| 2月21日         | MBC MUSIC                                                 | 偶像本色                                                               | 全體成員                                                          |           |
+| 4月27日         | HOME DRAMA CHANEL                                         | 韓Chu                                                               |                                                               |           |
+| 5月20日         | 神奈川電視台                                                    | 謝謝！                                                                |                                                               |           |
+| 5月27日         | 東京電視台                                                     | THE KARAOKE★battle 哭歌Grand Prix                                    | 旼炫                                                            | EP31      |
+| 6月27日         | ASIA ARAMATIC TV                                          | NU'EST JAPAN Tour 2015＆貼身報導特別篇                                     | 全體成員                                                          |           |
+| 9月7日          | 日本BS放送                                                    | Han Love                                                           | 全體成員                                                          |           |
+| 10月21日-10月28日 | Arirang                                                   | JOIN US KOREA                                                      | Aron                                                          | EP17-18   |
+| 11月14日        | 仙台電視台                                                     | あらあらかしこ                                                            | 全體成員                                                          |           |
+| 12月6日         | CHANEL NECO                                               | 映画ちゃん                                                              | 旼炫、Ren                                                        | EP133     |
+| 2016年         |                                                           |                                                                    |                                                               |           |
+| 2月9日          | MBC                                                       | 16春節偶像明星運動會                                                        | 全體成員                                                          |           |
+| 3月12日         | SBS                                                       | [白鐘元的三大天王](https://zh.wikipedia.org/wiki/白鐘元的三大天王 "wikilink")      | EP28                                                          |           |
+| 3月15日         | SBS MTV                                                   | THE SHOW 60秒任務                                                     |                                                               |           |
+| 3月22日         | KBS                                                       | 1 VS 100                                                           | 白虎、旼炫                                                         |           |
+| 7月26日         | MBC                                                       | Vedio Star                                                         | Ren                                                           | EP3       |
+| 9月14日         | MBC                                                       | [偶像料理王](../Page/偶像料理王.md "wikilink")                               | 全體成員                                                          |           |
+| 10月14日        | MBC                                                       | [二重唱歌謠祭](https://zh.wikipedia.org/wiki/二重唱歌謠祭 "wikilink")          | 白虎、REN（藝人評審團）                                                 | EP25      |
+| 10月25日        | 日本BS放送                                                    | 韓流 Zap                                                             | 全體成員                                                          |           |
+| 12月19日        | HOME DRAMA CHANEL                                         | 韓Chu                                                               |                                                               |           |
+| 12月26日        |                                                           |                                                                    |                                                               |           |
+|               |                                                           |                                                                    |                                                               |           |
 
 ### 2017年至2018年
 
-|               |                                    |                                                                                               |                                                    |           |
-| ------------- | ---------------------------------- | --------------------------------------------------------------------------------------------- | -------------------------------------------------- | --------- |
-| **播放日期**      | **電視台**                            | **節目名稱**                                                                                      | **參與成員**                                           | **集數**    |
-| 2017年         |                                    |                                                                                               |                                                    |           |
-| 1月17日         | MBC every1                         | Video Star                                                                                    | Ren                                                | EP28      |
-| 1月30日         | MBC                                | 17春節偶像明星運動會                                                                                   | JR、白虎、旼炫、Ren                                       |           |
-| 7月27日         | JTBC2                              | 梁世燦的Ten2                                                                                      | [Ren](../Page/崔珉起.md "wikilink")                   | EP18      |
-| 8月10日         | Mnet                               | [Wanna One GO](https://zh.wikipedia.org/wiki/Wanna_One_GO "wikilink")                         | JR、Ren（來賓）                                         | EP2       |
-| 8月4日-8月11日    | tvN                                | [奇怪的歌手](https://zh.wikipedia.org/wiki/奇怪的歌手 "wikilink")                                       | [JR](https://zh.wikipedia.org/wiki/金鐘炫 "wikilink") | EP4-5     |
-| 8月30日-9月6日    | MBC every1                         | 一週的偶像                                                                                         | NU'EST W                                           | EP318-319 |
-| 9月9日          | JTBC                               | [認識的哥哥](../Page/認識的哥哥.md "wikilink")                                                          | JR                                                 | EP92      |
-| 10月11日        | Mnet                               | Mnet Present Special-NU'EST W                                                                 | NU'EST W                                           |           |
-| 10月12日-10月19日 | tvN                                | 奇怪的歌手                                                                                         | Aron                                               | EP14-15   |
-| 10月12日-10月19日 | KBS                                | [Happy Together](../Page/歡樂在一起.md "wikilink")                                                 | JR、白虎                                              | EP520-521 |
-| 10月29日        | [JTBC](../Page/JTBC.md "wikilink") | [夜行鬼怪](../Page/夜行鬼怪.md "wikilink")                                                            | 白虎                                                 | EP13      |
-| 11月1日         | tvN                                | [週三美食匯](https://zh.wikipedia.org/wiki/周三美食匯 "wikilink")                                       | JR                                                 | E142      |
-| 11月4日-12月23日  | SBS                                | [Master Key](../Page/Master_Key.md "wikilink")                                                | EP4、6、8、11                                         |           |
-| 11月5日         | Mnet Japan                         | M\!Countdown Backstage                                                                        | NU'EST W                                           |           |
-| 12月22日        | MBC                                | Ranking Show 1,2,3                                                                            | Ren                                                | EP19      |
-| 12月28日        | Mnet Japan                         | 2017 MAMA BackStage                                                                           | NU'EST W                                           |           |
-| 2018年         |                                    |                                                                                               |                                                    |           |
-| 1月6日          | SBS                                | Master Key                                                                                    | JR、Ren                                             | EP13      |
-| 1月14日         | JTBC                               | [Two Yoo Project - Sugar Man](../Page/Two_Yoo_Project_-_Sugar_Man.md "wikilink") 2            | NU'EST W                                           | EP1       |
-| 2月2日-3月2日     | SBS                                | [叢林的法則](https://zh.wikipedia.org/wiki/叢林的法則 "wikilink")-[巴塔哥尼亞](../Page/巴塔哥尼亞.md "wikilink")篇 | JR                                                 | EP1-4     |
-| 2月15日-2月16日   | MBC                                | 18春節偶像明星運動會                                                                                   | NU'EST W                                           |           |
-| 3月21日         | MTV Taiwan                         | 我愛偶像 Idols of Asia                                                                            | Aron、白虎、Ren                                        |           |
-| 4月11日         | MBC every1                         | 一週的偶像                                                                                         | JR                                                 | EP350     |
-| 4月13日         | Mnet                               | [看見你的聲音](https://zh.wikipedia.org/wiki/看見你的聲音 "wikilink")                                     | NU'EST W                                           | 第五季EP11   |
-| 5月3日          | MTV Taiwan                         | 我愛偶像 Idols of Asia                                                                            |                                                    |           |
-| 5月26日         | ASIA ARAMATIC TV                   | NU'EST 未公開特別篇                                                                                 | 全體                                                 | EP1       |
-| 6月9日          | MBC                                | [意外的Q](../Page/意外的Q.md "wikilink")                                                            | JR                                                 | EP6       |
-| 6月24日-7月1日    | MBC                                | [神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")                                                | 白虎（蒙面歌手）                                           | EP159-160 |
-| 6月27日         | MBC every1                         | 一週的偶像                                                                                         | NU'EST W                                           | EP367     |
-| 7月15日         | Mnet Japan                         | M\!Countdown Backstage                                                                        |                                                    |           |
-| 7月30日-8月6日    | SBS MTV                            | [School Attack 2018](../Page/School_Attack_2018.md "wikilink")                                | EP5-6                                              |           |
-| 8月5日          | JTBC                               | [隱藏歌手](../Page/隱藏歌手.md "wikilink")                                                            | Aron、白虎、Ren                                        | 第五季EP8    |
-| 8月28日         | tvN                                | [腦性時代：問題男子](https://zh.wikipedia.org/wiki/腦性時代：問題男子 "wikilink")                               | Aron                                               | EP170     |
-| 8月31日         | Mnet                               | [PRODUCE 48](../Page/PRODUCE_48.md "wikilink")                                                | 白虎（決賽曲製作人）                                         | EP12      |
-| 9月10日         | KBS                                | [大國民脫口秀-你好](../Page/大國民脫口秀-你好.md "wikilink")                                                  | JR、Ren                                             | EP380     |
-| 9月15日-9月22日   | KBS                                | 戰鬥旅行\[4\]                                                                                     | JR、白虎                                              | EP108-109 |
-| 9月16日         | MBC                                | 神秘音樂秀：蒙面歌王                                                                                    | JR                                                 | EP169     |
-| 9月19日         | MTV Taiwan                         | 我愛偶像 Idols of Asia                                                                            | NU'EST W                                           |           |
-| 9月25日         | MBC                                | 18中秋偶像明星運動會                                                                                   | Aron、白虎、Ren                                        |           |
-| 9月26日         |                                    |                                                                                               |                                                    |           |
-| 9月28日         | Mnet                               | The Kkondae Live                                                                              | JR、Aron；白虎（僅影像出演）                                  | EP1       |
-| 12月4日         | JTBC                               | [Idol Room](../Page/Idol_Room.md "wikilink")                                                  | NU'EST W                                           | EP30      |
-| 12月22日        | E Channel                          | 懵懂甜蜜                                                                                          | Aron                                               | 試播EP1     |
-|               |                                    |                                                                                               |                                                    |           |
+|               |                  |                                                                                               |                                                    |           |
+| ------------- | ---------------- | --------------------------------------------------------------------------------------------- | -------------------------------------------------- | --------- |
+| **播放日期**      | **電視台**          | **節目名稱**                                                                                      | **參與成員**                                           | **集數**    |
+| 2017年         |                  |                                                                                               |                                                    |           |
+| 1月17日         | MBC every1       | Video Star                                                                                    | Ren                                                | EP28      |
+| 1月30日         | MBC              | 17春節偶像明星運動會                                                                                   | JR、白虎、旼炫、Ren                                       |           |
+| 7月27日         | JTBC2            | 梁世燦的Ten2                                                                                      | [Ren](../Page/崔珉起.md "wikilink")                   | EP18      |
+| 8月10日         | Mnet             | [Wanna One GO](https://zh.wikipedia.org/wiki/Wanna_One_GO "wikilink")                         | JR、Ren（來賓）                                         | EP2       |
+| 8月4日-8月11日    | tvN              | [奇怪的歌手](https://zh.wikipedia.org/wiki/奇怪的歌手 "wikilink")                                       | [JR](https://zh.wikipedia.org/wiki/金鐘炫 "wikilink") | EP4-5     |
+| 8月30日-9月6日    | MBC every1       | 一週的偶像                                                                                         | NU'EST W                                           | EP318-319 |
+| 9月9日          | JTBC             | [認識的哥哥](../Page/認識的哥哥.md "wikilink")                                                          | JR                                                 | EP92      |
+| 10月11日        | Mnet             | Mnet Present Special-NU'EST W                                                                 | NU'EST W                                           |           |
+| 10月12日-10月19日 | tvN              | 奇怪的歌手                                                                                         | Aron                                               | EP14-15   |
+| 10月12日-10月19日 | KBS              | [Happy Together](../Page/歡樂在一起.md "wikilink")                                                 | JR、白虎                                              | EP520-521 |
+| 10月29日        | JTBC             | [夜行鬼怪](../Page/夜行鬼怪.md "wikilink")                                                            | 白虎                                                 | EP13      |
+| 11月1日         | tvN              | [週三美食匯](https://zh.wikipedia.org/wiki/周三美食匯 "wikilink")                                       | JR                                                 | E142      |
+| 11月4日-12月23日  | SBS              | [Master Key](../Page/Master_Key.md "wikilink")                                                | EP4、6、8、11                                         |           |
+| 11月5日         | Mnet Japan       | M\!Countdown Backstage                                                                        | NU'EST W                                           |           |
+| 12月22日        | MBC              | Ranking Show 1,2,3                                                                            | Ren                                                | EP19      |
+| 12月28日        | Mnet Japan       | 2017 MAMA BackStage                                                                           | NU'EST W                                           |           |
+| 2018年         |                  |                                                                                               |                                                    |           |
+| 1月6日          | SBS              | Master Key                                                                                    | JR、Ren                                             | EP13      |
+| 1月14日         | JTBC             | [Two Yoo Project - Sugar Man](../Page/Two_Yoo_Project_-_Sugar_Man.md "wikilink") 2            | NU'EST W                                           | EP1       |
+| 2月2日-3月2日     | SBS              | [叢林的法則](https://zh.wikipedia.org/wiki/叢林的法則 "wikilink")-[巴塔哥尼亞](../Page/巴塔哥尼亞.md "wikilink")篇 | JR                                                 | EP1-4     |
+| 2月15日-2月16日   | MBC              | 18春節偶像明星運動會                                                                                   | NU'EST W                                           |           |
+| 3月21日         | MTV Taiwan       | 我愛偶像 Idols of Asia                                                                            | Aron、白虎、Ren                                        |           |
+| 4月11日         | MBC every1       | 一週的偶像                                                                                         | JR                                                 | EP350     |
+| 4月13日         | Mnet             | [看見你的聲音](https://zh.wikipedia.org/wiki/看見你的聲音 "wikilink")                                     | NU'EST W                                           | 第五季EP11   |
+| 5月3日          | MTV Taiwan       | 我愛偶像 Idols of Asia                                                                            |                                                    |           |
+| 5月26日         | ASIA ARAMATIC TV | NU'EST 未公開特別篇                                                                                 | 全體                                                 | EP1       |
+| 6月9日          | MBC              | [意外的Q](../Page/意外的Q.md "wikilink")                                                            | JR                                                 | EP6       |
+| 6月24日-7月1日    | MBC              | [神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")                                                | 白虎（蒙面歌手）                                           | EP159-160 |
+| 6月27日         | MBC every1       | 一週的偶像                                                                                         | NU'EST W                                           | EP367     |
+| 7月15日         | Mnet Japan       | M\!Countdown Backstage                                                                        |                                                    |           |
+| 7月30日-8月6日    | SBS MTV          | [School Attack 2018](../Page/School_Attack_2018.md "wikilink")                                | EP5-6                                              |           |
+| 8月5日          | JTBC             | [隱藏歌手](../Page/隱藏歌手.md "wikilink")                                                            | Aron、白虎、Ren                                        | 第五季EP8    |
+| 8月28日         | tvN              | [腦性時代：問題男子](https://zh.wikipedia.org/wiki/腦性時代：問題男子 "wikilink")                               | Aron                                               | EP170     |
+| 8月31日         | Mnet             | [PRODUCE 48](../Page/PRODUCE_48.md "wikilink")                                                | 白虎（決賽曲製作人）                                         | EP12      |
+| 9月10日         | KBS              | [大國民脫口秀-你好](../Page/大國民脫口秀-你好.md "wikilink")                                                  | JR、Ren                                             | EP380     |
+| 9月15日-9月22日   | KBS              | 戰鬥旅行\[4\]                                                                                     | JR、白虎                                              | EP108-109 |
+| 9月16日         | MBC              | 神秘音樂秀：蒙面歌王                                                                                    | JR                                                 | EP169     |
+| 9月19日         | MTV Taiwan       | 我愛偶像 Idols of Asia                                                                            | NU'EST W                                           |           |
+| 9月25日         | MBC              | 18中秋偶像明星運動會                                                                                   | Aron、白虎、Ren                                        |           |
+| 9月26日         |                  |                                                                                               |                                                    |           |
+| 9月28日         | Mnet             | The Kkondae Live                                                                              | JR、Aron；白虎（僅影像出演）                                  | EP1       |
+| 12月4日         | JTBC             | [Idol Room](../Page/Idol_Room.md "wikilink")                                                  | NU'EST W                                           | EP30      |
+| 12月22日        | E Channel        | 懵懂甜蜜                                                                                          | Aron                                               | 試播EP1     |
+|               |                  |                                                                                               |                                                    |           |
 
 ### 2019年
 
-|            |            |                                                                                               |                        |        |
-| ---------- | ---------- | --------------------------------------------------------------------------------------------- | ---------------------- | ------ |
-| **播放日期**   | **電視台**    | **節目名稱**                                                                                      | **參與成員**               | **集數** |
-| 2019年      |            |                                                                                               |                        |        |
-| 1月29日      | JTBC       | Idol Room                                                                                     | NU'EST W（2018年未公開片段合輯） | EP37   |
-| 2月5日       | Channel A  | 屋頂上的米酒                                                                                        | 白虎、Ren                 | EP14   |
-| 3月2日-3月30日 | SBS        | [叢林的法則](https://zh.wikipedia.org/wiki/叢林的法則 "wikilink")-[查塔姆群島篇](../Page/查塔姆群岛.md "wikilink") | 白虎                     | EP1-5  |
-| 4月29日      | KBS        | 大國民脫口秀-你好                                                                                     | Aron、旼炫                | EP411  |
-| 5月1日       | MBC every1 | 一週的偶像                                                                                         | 全體成員                   | EP405  |
-| 5月3日       | MBC        | [我獨自生活](../Page/我獨自生活.md "wikilink")                                                          | 旼炫                     | EP292  |
-| 5月11日      | tvN        | [驚人的星期六](../Page/驚人的星期六.md "wikilink")                                                        | JR、旼炫                  | EP58   |
-| 5月15日      | JTBC       | [請給一頓飯](../Page/請給一頓飯.md "wikilink")                                                          | 旼炫                     | EP126  |
-| 5月26日      | KBS 2      | [搞笑演唱會](../Page/搞笑演唱會.md "wikilink")                                                          | 全體成員                   | EP1000 |
-| 6月16日      | Mnet Japan | KCON 2019 Japan Backstage                                                                     |                        |        |
+|             |            |                                                                                               |                        |        |
+| ----------- | ---------- | --------------------------------------------------------------------------------------------- | ---------------------- | ------ |
+| **播放日期**    | **電視台**    | **節目名稱**                                                                                      | **參與成員**               | **集數** |
+| 2019年       |            |                                                                                               |                        |        |
+| 1月29日       | JTBC       | Idol Room                                                                                     | NU'EST W（2018年未公開片段合輯） | EP37   |
+| 2月5日        | Channel A  | 屋頂上的米酒                                                                                        | 白虎、Ren                 | EP14   |
+| 3月2日-3月30日  | SBS        | [叢林的法則](https://zh.wikipedia.org/wiki/叢林的法則 "wikilink")-[查塔姆群島篇](../Page/查塔姆群岛.md "wikilink") | 白虎                     | EP1-5  |
+| 4月29日       | KBS        | 大國民脫口秀-你好                                                                                     | Aron、旼炫                | EP411  |
+| 5月1日        | MBC every1 | 一週的偶像                                                                                         | 全體成員                   | EP405  |
+| 5月3日        | MBC        | [我獨自生活](../Page/我獨自生活.md "wikilink")                                                          | 旼炫                     | EP292  |
+| 5月11日       | tvN        | [驚人的星期六](../Page/驚人的星期六.md "wikilink")                                                        | JR、旼炫                  | EP58   |
+| 5月15日       | JTBC       | [請給一頓飯](../Page/請給一頓飯.md "wikilink")                                                          | 旼炫                     | EP126  |
+| 5月26日       | KBS 2      | [搞笑演唱會](../Page/搞笑演唱會.md "wikilink")                                                          | 全體成員                   | EP1000 |
+| 6月16日       | Mnet Japan | KCON 2019 Japan Backstage                                                                     |                        |        |
+| 8月14日-8月15日 | MTV Taiwan | 我愛偶像 Idols of Asia                                                                            |                        |        |
+| 8月18日       | KBS 2      | [我的超人爸爸](https://zh.wikipedia.org/wiki/超人回來了 "wikilink")                                      | EP291                  |        |
+| 8月23日-      | Mnet、tvN   | [The Call](../Page/The_Call.md "wikilink") 2                                                  | 白虎                     | EP6    |
 
 ## 網路節目
 
@@ -1421,31 +1512,39 @@
 
 ### 2019年7月至12月
 
-|                                                        |                          |          |                                                                                           |                           |
-| ------------------------------------------------------ | ------------------------ | -------- | ----------------------------------------------------------------------------------------- | ------------------------- |
-| **播放日期**                                               | **製作單位**                 | **播放平台** | **節目名稱**                                                                                  | **參與成員**                  |
-| 2019年                                                  |                          |          |                                                                                           |                           |
-| 7月5日                                                   | Kakao Page               | kakao TV | \[蜘蛛人：離家日\] 湯姆霍蘭德 X 傑克葛倫霍 追業一致訪問！（feat.Aron）                                              | Aron（訪問主持人）               |
-| 7月5日                                                   | emkmusical               | Youtube  | \[瑪麗安東尼音樂劇\] 2019 CAST SPECIAL 🌹✨                                                         | 旼炫                        |
-| 7月8日                                                   | Cake                     | Cake App | NU'EST Aron & Ren 的英語教室                                                                   | Aron、Ren                  |
-| 7月9日                                                   | Billboard                | Youtube  | NU'EST Recall First Impressions of One Another, Their Last Playful Bet & More | Billboard | 全體成員                      |
-| 7月9日                                                   | OSEN                     | Vlive    | ★☆NU'EST 'STAR ROAD' 驚喜禮物公開★☆                                                             |                           |
-| STAR ROAD NU'EST Ren，無法不陷入的'孩天妖王'（孩子天使妖精王子）\#highlight |                          |          |                                                                                           |                           |
-| STAR ROAD NU'EST 白虎，性感可愛全都可以 \#highlight               |                          |          |                                                                                           |                           |
-| 7月11日                                                  | NU'EST 採訪大公開 in Vietnam  |          |                                                                                           |                           |
-| 7月11日                                                  | Dispatch                 | Youtube  | NU'EST Dispatch HD Photo Slides                                                           | 白虎 / JR / Ren / 旼炫 / Aron |
-| 7月12日                                                  | V TODAY VIETNAM OFFICIAL | Vlive    | 挑戰NU'EST的記憶：白虎，旼炫精神出走                                                                     | 全體成員                      |
-| 7月13日                                                  | OSEN                     | Vlive    | STAR ROAD NU'EST 黃旼炫，一分一秒心動 \#highlight                                                   |                           |
-| STAR ROAD NU'EST Aron，非常可愛的大哥 \#highlight              |                          |          |                                                                                           |                           |
-| STAR ROAD NU'EST JR，無法不著迷的Bugi \#highlight             |                          |          |                                                                                           |                           |
-| 7月15日                                                  | Cake                     | Cake App | NU'EST Aron & Ren 的英語教室 會場篇                                                               | Aron、Ren                  |
-| 7月16日                                                  | V TODAY VIETNAM OFFICIAL | Vlive    | NU'EST 對越南爆炸性菜餚展示愛意                                                                       | 全體成員                      |
-| 7月17日                                                  | EmilyGhoul               | Youtube  | KCON NY + Playing games with idols                                                        |                           |
-| 7月17日                                                  | V HEARTBEAT              | Vlive    | NU'EST 祝 V HEARTBEAT 一週年快樂！                                                               |                           |
-| 7月18日                                                  | 留學少女                     | NAVER    | \[拍攝前\] 找到 '我們家' 的 JR & 旼炫                                                                | JR、旼炫                     |
-| 7月19日                                                  | Mnet K-POP               | Youtube  | 留學少女 療癒的甜蜜嗓音♥ㅣ故事講述者 JR&旼炫 幕後花絮\#1 / \#2                                                   |                           |
-| 7月22日                                                  | JREKML                   | Youtube  | BODY ROLLING with KPOP IDOLS！                                                             | 全體成員                      |
-| 7月22日                                                  | Cake                     | Cake App | NU'EST Aron & Ren 的英語教室 餐廳 & 飯店篇                                                          | Aron、Ren                  |
+|                                                        |                                             |          |                                                                                           |                           |
+| ------------------------------------------------------ | ------------------------------------------- | -------- | ----------------------------------------------------------------------------------------- | ------------------------- |
+| **播放日期**                                               | **製作單位**                                    | **播放平台** | **節目名稱**                                                                                  | **參與成員**                  |
+| 2019年                                                  |                                             |          |                                                                                           |                           |
+| 7月5日                                                   | Kakao Page                                  | kakao TV | \[蜘蛛人：離家日\] 湯姆霍蘭德 X 傑克葛倫霍 追業一致訪問！（feat.Aron）                                              | Aron（訪問主持人）               |
+| 7月5日                                                   | emkmusical                                  | Youtube  | \[瑪麗安東尼音樂劇\] 2019 CAST SPECIAL 🌹✨                                                         | 旼炫                        |
+| 7月8日                                                   | Cake                                        | Cake App | NU'EST Aron & Ren 的英語教室                                                                   | Aron、Ren                  |
+| 7月9日                                                   | Billboard                                   | Youtube  | NU'EST Recall First Impressions of One Another, Their Last Playful Bet & More | Billboard | 全體成員                      |
+| 7月9日                                                   | OSEN                                        | Vlive    | ★☆NU'EST 'STAR ROAD' 驚喜禮物公開★☆                                                             |                           |
+| STAR ROAD NU'EST Ren，無法不陷入的'孩天妖王'（孩子天使妖精王子）\#highlight |                                             |          |                                                                                           |                           |
+| STAR ROAD NU'EST 白虎，性感可愛全都可以 \#highlight               |                                             |          |                                                                                           |                           |
+| 7月11日                                                  | NU'EST 採訪大公開 in Vietnam                     |          |                                                                                           |                           |
+| 7月11日                                                  | Dispatch                                    | Youtube  | NU'EST Dispatch HD Photo Slides                                                           | 白虎 / JR / Ren / 旼炫 / Aron |
+| 7月12日                                                  | V TODAY VIETNAM OFFICIAL                    | Vlive    | 挑戰NU'EST的記憶：白虎，旼炫精神出走                                                                     | 全體成員                      |
+| 7月13日                                                  | OSEN                                        | Vlive    | STAR ROAD NU'EST 黃旼炫，一分一秒心動 \#highlight                                                   |                           |
+| STAR ROAD NU'EST Aron，非常可愛的大哥 \#highlight              |                                             |          |                                                                                           |                           |
+| STAR ROAD NU'EST JR，無法不著迷的Bugi \#highlight             |                                             |          |                                                                                           |                           |
+| 7月15日                                                  | Cake                                        | Cake App | NU'EST Aron & Ren 的英語教室 會場篇                                                               | Aron、Ren                  |
+| 7月16日                                                  | V TODAY VIETNAM OFFICIAL                    | Vlive    | NU'EST 對越南爆炸性菜餚展示愛意                                                                       | 全體成員                      |
+| 7月17日                                                  | EmilyGhoul                                  | Youtube  | KCON NY + Playing games with idols                                                        |                           |
+| 7月17日                                                  | V HEARTBEAT                                 | Vlive    | NU'EST 祝 V HEARTBEAT 一週年快樂！                                                               |                           |
+| 7月18日                                                  | 留學少女                                        | NAVER    | \[拍攝前\] 找到 '我們家' 的 JR & 旼炫                                                                | JR、旼炫                     |
+| 7月19日                                                  | Mnet K-POP                                  | Youtube  | 留學少女 療癒的甜蜜嗓音♥ㅣ故事講述者 JR&旼炫 幕後花絮\#1 / \#2                                                   |                           |
+| 7月22日                                                  | JREKML                                      | Youtube  | BODY ROLLING with KPOP IDOLS！                                                             | 全體成員                      |
+| 7月22日                                                  | Cake                                        | Cake App | NU'EST Aron & Ren 的英語教室 餐廳 & 飯店篇                                                          | Aron、Ren                  |
+| 7月25日                                                  | emkmusical                                  | Youtube  | \[瑪麗安東尼音樂劇\] profile behind 終結王 Marie shot-terview                                        | 旼炫                        |
+| 7月29日                                                  | Cake                                        | Cake App | NU'EST Aron & Ren 的英語教室 購物篇                                                               | Aron、Ren                  |
+| 7月30日                                                  | tvN D ENT                                   | Youtube  | 驚人的星期六 未播放部分                                                                              | JR、旼炫                     |
+| 8月4日                                                   | Dispatch                                    | Vlive    | \[ⓓxV\] "Ronny JazzBar① Aron的home cocktail製作"（Aron：NU'EST）                                | Aron                      |
+| 8月6日                                                   | emkmusical                                  | Youtube  | \[瑪麗安東尼音樂劇\] 練習室花絮 Part1                                                                  | 旼炫                        |
+| 8月7日                                                   | \[瑪麗安東尼音樂劇\] 角色動態海報ㅣFersen伯爵 Ver. 🌹         |          |                                                                                           |                           |
+| 8月13日                                                  | Dispatch                                    | Vlive    | \[ⓓxV\] "Ronny JazzBar② Aron的煩惱諮商室"（Aron：NU'EST）                                          | Aron                      |
+| 8月20日                                                  | \[ⓓxV\] "GOOD LOVE（jazz ver.）"（Aron：NU'EST） |          |                                                                                           |                           |
 
 ## 電影及戲劇
 

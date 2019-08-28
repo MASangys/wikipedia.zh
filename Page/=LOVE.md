@@ -2,7 +2,7 @@
 
 ## 概要
 
-由[HKT48](../Page/HKT48.md "wikilink")在籍的現役偶像[指原莉乃](../Page/指原莉乃.md "wikilink")、加上以[聲優](../Page/聲優.md "wikilink")養成著稱的[代代木動畫學院](../Page/代代木動畫學院.md "wikilink")，出於「聲優教育」而誕生的「聲優偶像」，於2017年開始活動。
+該團體是由當時[HKT48](../Page/HKT48.md "wikilink")現役在籍偶像的[指原莉乃](../Page/指原莉乃.md "wikilink")、加上以[聲優](../Page/聲優.md "wikilink")養成著稱的[代代木動畫學院](../Page/代代木動畫學院.md "wikilink")，出於「聲優教育」而誕生的「聲優偶像」，於2017年開始活動。
 
 團名「=LOVE」以英文讀做「」，[注音假名轉寫成](https://zh.wikipedia.org/wiki/振假名 "wikilink")「」，意為「等於愛」。指原莉乃認為「偶像必須被[粉絲喜愛](../Page/爱好者.md "wikilink")，自己也必須喜愛偶像這份工作」、「覺得偶像就是愛」，因而命名\[1\]\[2\]。
 
@@ -161,7 +161,11 @@
 
   -
 
+  -
+
   - [=LOVE × SHOWROOM 個人直播企劃專頁](https://www.showroom-live.com/campaign/Equal_LOVE)
+
+{{=LOVE}}
 
 [Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink") [Category:日本配音員團體](https://zh.wikipedia.org/wiki/Category:日本配音員團體 "wikilink") [Category:日本索尼音樂娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂旗下藝人 "wikilink") [Category:指原莉乃](https://zh.wikipedia.org/wiki/Category:指原莉乃 "wikilink") [Category:代代木动画学院](https://zh.wikipedia.org/wiki/Category:代代木动画学院 "wikilink")
 

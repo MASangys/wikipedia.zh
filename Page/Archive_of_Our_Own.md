@@ -1,4 +1,4 @@
-**Archive of Our Own**（简称**AO3**）是一个[非盈利且](https://zh.wikipedia.org/wiki/非盈利 "wikilink")[开源的](https://zh.wikipedia.org/wiki/开源 "wikilink")[同人小说库](https://zh.wikipedia.org/wiki/同人小说 "wikilink")，站内的文章由网站上的用户所贡献。2008年，（简称OTW）创建了此网站并于2009年进行公测。截至2019年，网站上的作品数量已经超过450万。
+**Archive of Our Own**（简称**AO3**）是一个[非盈利且](https://zh.wikipedia.org/wiki/非盈利 "wikilink")[开源的](https://zh.wikipedia.org/wiki/开源 "wikilink")[同人小说資料庫網站](https://zh.wikipedia.org/wiki/同人小说 "wikilink")，站内的文章由网站上的用户所贡献。2008年，（简称OTW）创建了此网站并于2009年进行公测。截至2019年，网站上的作品数量已经超过450万。
 
 ## 运营历史
 

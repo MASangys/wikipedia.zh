@@ -34,6 +34,8 @@ SixTONES的意思是解作六個不同的音階，代表著六人每人也有各
 
 同年10月29日，在東京JR線的品川站内揭載了六人的海報「ジャニーズをデジタルに放つ新世代。」 並宣布參與世界各地展開的「YouTube Artist Promotion」活動，成為日本第一組參與這個活動的藝人。 11月5日在YouTube頻道上公開為了該活動拍攝的Music Video \< JAPONICA STYLE \>，該MV由[瀧澤秀明](../Page/瀧澤秀明.md "wikilink")執導。 12月11日參加在幕張展覽館舉行的「YouTube FanFest Music」
 
+2019年8月8日在東京巨蛋舉行的「小傑尼斯大祭〜從東京巨蛋啟程〜」中與同為小傑尼斯組合的[Snow Man一起宣佈將於](../Page/Snow_Man.md "wikilink")2020年發行CD出道。 同時宣佈將從小傑尼斯共有的YouTube頻道畢業、開設獨立YouTube頻道以及公式Instagram。
+
 ## 原創歌曲
 
 以[JASRAC上顯示ARTIST](https://zh.wikipedia.org/wiki/JASRAC "wikilink")「SixTONES」為主。

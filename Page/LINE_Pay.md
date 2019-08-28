@@ -52,6 +52,10 @@ LINE Pay使用[二維碼](../Page/二維碼.md "wikilink")(QR Code)或條碼(Bar
 
 [高雄捷運](../Page/高雄捷運.md "wikilink")支援使用LINE Pay一卡通支付乘車票價，透過開啟LINE Pay一卡通的二維碼畫面，掃描票閘的二維碼掃描器，即可付費進出站。於2018年1月1日至2018年12月31日間，透過LINE Pay一卡通搭乘高雄捷運，可獲得回饋乘車金額1%的LINE Points點數。
 
+### 搭乘[高雄市公車](../Page/高雄市公車.md "wikilink")
+
+一卡通、高雄捷運、與宏碁智通公司，2019年8月13日在高雄市政府鳳山行政中心舉辦記者會，共同宣布高雄捷運全閘門、以及[高雄市公車](../Page/高雄市公車.md "wikilink")橘12、橘20線公車，領先全國，啟用行動支付QR Code乘車碼搭乘服務\[2\]。
+
 ## 使用方式
 
 下載並開啟LINE後，選擇LINE錢包，選擇LINE Pay。目前預定在日本推出LINE Pay的獨立支付App。
@@ -73,3 +77,4 @@ LINE Pay使用[二維碼](../Page/二維碼.md "wikilink")(QR Code)或條碼(Bar
 [Category:台灣行動支付](https://zh.wikipedia.org/wiki/Category:台灣行動支付 "wikilink")
 
 1.
+2.

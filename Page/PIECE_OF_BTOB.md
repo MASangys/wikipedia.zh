@@ -124,7 +124,7 @@
 <tr class="even">
 <td><p><a href="../Page/2019年Gaon專輯冠軍作品列表.md" title="wikilink">專輯月榜</a></p></td>
 <td><p>2019年4月</p></td>
-<td><p>#（張+）</p></td>
+<td><p>#23（10,573張+）</p></td>
 <td></td>
 <td></td>
 <td></td>

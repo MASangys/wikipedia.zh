@@ -746,7 +746,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/喬許·布洛林.md" title="wikilink">喬許·布洛林</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/復仇者聯盟3：無限之戰" title="wikilink">復仇者聯盟3：無限之戰</a></p></td>
+<td><p><a href="../Page/復仇者聯盟3：無限之戰.md" title="wikilink">復仇者聯盟3：無限之戰</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -763,7 +763,7 @@
 <td><p>'''2019<br />
 (第28屆)</p></td>
 <td><p>'''<a href="../Page/喬許·布洛林.md" title="wikilink">喬許·布洛林</a></p></td>
-<td><p>'''<a href="https://zh.wikipedia.org/wiki/復仇者聯盟：終局之戰" title="wikilink">復仇者聯盟：終局之戰</a></p></td>
+<td><p>'''<a href="../Page/復仇者聯盟：終局之戰.md" title="wikilink">復仇者聯盟：終局之戰</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/潘·巴奇利.md" title="wikilink">潘·巴奇利</a></p></td>

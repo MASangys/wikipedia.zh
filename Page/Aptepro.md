@@ -22,7 +22,7 @@
 <li></li>
 </ul></td>
 <td><ul>
-<li><a href="https://zh.wikipedia.org/wiki/深町壽成" title="wikilink">深町壽成</a></li>
+<li><a href="../Page/深町壽成.md" title="wikilink">深町壽成</a></li>
 <li></li>
 <li><a href="../Page/矢野正明.md" title="wikilink">矢野正明</a></li>
 <li><a href="https://zh.wikipedia.org/wiki/植田航平" title="wikilink">植田航平</a></li>

@@ -399,6 +399,49 @@
 </tbody>
 </table>
 
+### [Genie Music Awards](https://zh.wikipedia.org/wiki/Genie_Music_Awards "wikilink")
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>年份</p></td>
+<td><p>獎項</p></td>
+<td><p>提名項目</p></td>
+<td><p>結果</p></td>
+</tr>
+<tr class="even">
+<td><p>2018年</p></td>
+<td><p>最佳饒舌嘻哈音樂獎</p></td>
+<td><p>EVERYDAY</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>年度歌曲獎</strong></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>人氣獎</p></td>
+<td><p>WINNER</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年</p></td>
+<td><p>最佳男團</p></td>
+<td><p>WINNER</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ## 海外地區音樂頒獎典禮
 
 ### 土豆青春的選擇年度盛宴

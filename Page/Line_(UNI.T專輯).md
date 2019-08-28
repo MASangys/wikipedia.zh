@@ -4,7 +4,7 @@
 
 2018年4月27日，UNI.T於各官方SNS發佈出道預告照，内容含有「18.05.17」、「COMING SOON」，和類似手繪吉他的圖樣。\[3\]後證實UNI.T將於5月17日宣告出道。\[4\]\[5\]
 
-5月10日，UNI.T於V live頻道放出預告影片《UNI.T DEBUT D-8 Spoiler Clip》。同時放出成員宜珍的個人預告照，並宣告UNI.T將在5月17日的[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》展示出道舞台。\[6\]11日，宣佈出道日將延至18日在[KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")》展示UNI.T的出道舞台。12日，新曲《No More》在「第24屆[夢想演唱會](../Page/夢想演唱會.md "wikilink")」中初展示。\[7\]
+5月10日，UNI.T於V live頻道放出預告影片《UNI.T DEBUT D-8 Spoiler Clip》。同時放出成員宜珍的個人預告照，並宣告UNI.T將在5月17日的[Mnet](../Page/Mnet.md "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》展示出道舞台。\[6\]11日，宣佈出道日將延至18日在[KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")》展示UNI.T的出道舞台。12日，新曲《No More》在「第24屆[夢想演唱會](../Page/夢想演唱會.md "wikilink")」中初展示。\[7\]
 
 5月12日開始，陸續放出成員個人預告照。<ref>UNI.T DEBUT TEASER IMAGE
 

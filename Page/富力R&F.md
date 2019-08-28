@@ -225,7 +225,7 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p><strong></strong></p></td>
 <td><p><a href="../Page/林衍廷.md" title="wikilink">林衍廷</a>（Lam Hin Ting）</p></td>
 <td><p>1999年12月9日</p></td>
-<td><p>2017年</p></td>
+<td><p>2019年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/夢想體育會" title="wikilink">夢想FC</a></p></td>
 <td><p>U-22青年球員</p></td>
 <td><p>新加盟</p></td>

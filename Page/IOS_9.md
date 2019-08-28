@@ -1,6 +1,6 @@
 **iOS 9**是[美國](../Page/美国.md "wikilink")[蘋果公司旗下](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[行動作業系統](../Page/行動作業系統.md "wikilink")[iOS的第九個主要版本](https://zh.wikipedia.org/wiki/iOS "wikilink")，取代前代作業系統[iOS 8](https://zh.wikipedia.org/wiki/iOS_8 "wikilink")。iOS 9於2015年6月的[WWDC大會中首次公布](https://zh.wikipedia.org/wiki/WWDC "wikilink")，並於同年9月16日正式推出。繼任者為2016年9月13日推出的[iOS 10](https://zh.wikipedia.org/wiki/iOS_10 "wikilink")\[1\]。與之前不同的是，iOS 9能運行於所有搭載前代作業系統（即iOS 8）的裝置上\[2\]。
 
-iOS 9對內建應用程式做出諸多改進。[備忘錄應用程式獲得全面升級](https://zh.wikipedia.org/wiki/備忘錄_\(應用程式\) "wikilink")，新增支援手繪草圖、[超連結](https://zh.wikipedia.org/wiki/超連結 "wikilink")、內嵌地圖及清單標示等功能；全新的News應用程式，整合各大[數位媒體報導](https://zh.wikipedia.org/wiki/數位媒體 "wikilink")\[3\]；[地圖則新增了](../Page/蘋果地圖.md "wikilink")[大眾運輸資料](https://zh.wikipedia.org/wiki/大眾運輸 "wikilink")\[4\]。語音助理[Siri](../Page/Siri.md "wikilink")與[Spotlight進階搜尋整合](../Page/Spotlight_\(應用程式\).md "wikilink")，以提供更準確的搜尋結果；在部分回答中，Siri還會以小工具形式呈現資訊，如天氣、運動賽事、即時新聞等。iOS 9為[iPad新增了多工處理功能](https://zh.wikipedia.org/wiki/iPad "wikilink")，可分割畫面，同時運行兩個應用程式\[5\]；全新的[Night Shift顯示模式](https://zh.wikipedia.org/wiki/Night_Shift_\(應用程式\) "wikilink")，能自動依據時間調整[色溫](https://zh.wikipedia.org/wiki/色溫 "wikilink")、減少[藍光](https://zh.wikipedia.org/wiki/藍光 "wikilink")，維持用戶[生理時鐘正常](https://zh.wikipedia.org/wiki/生理時鐘 "wikilink")\[6\]；另外，iOS 9還為[iPhone 6s及](https://zh.wikipedia.org/wiki/iPhone_6s "wikilink")[iPhone 6s Plus引進了](https://zh.wikipedia.org/wiki/iPhone_6s_Plus "wikilink")[3D Touch感應技術](../Page/3D_Touch.md "wikilink")，可根據用戶按壓螢幕的力道大小，決定應處理的動作\[7\]。在iOS 9中，蘋果以專為[數位顯示器設計的](../Page/显示器.md "wikilink")[苹方](../Page/苹方.md "wikilink")體取代[華文黑體成為預設中文字体](../Page/黑体_\(字体\).md "wikilink")\[8\]。
+iOS 9對內建應用程式做出諸多改進。[備忘錄應用程式獲得全面升級](https://zh.wikipedia.org/wiki/備忘錄_\(應用程式\) "wikilink")，新增支援手繪草圖、[超連結](https://zh.wikipedia.org/wiki/超連結 "wikilink")、內嵌地圖及清單標示等功能；全新的News應用程式，整合各大[數位媒體報導](https://zh.wikipedia.org/wiki/數位媒體 "wikilink")\[3\]；[地圖則新增了](../Page/蘋果地圖.md "wikilink")[大眾運輸資料](https://zh.wikipedia.org/wiki/大眾運輸 "wikilink")\[4\]。語音助理[Siri](../Page/Siri.md "wikilink")與[Spotlight進階搜尋整合](../Page/Spotlight_\(應用程式\).md "wikilink")，以提供更準確的搜尋結果；在部分回答中，Siri還會以小工具形式呈現資訊，如天氣、運動賽事、即時新聞等。iOS 9為[iPad新增了多工處理功能](https://zh.wikipedia.org/wiki/iPad "wikilink")，可分割畫面，同時運行兩個應用程式\[5\]；全新的[Night Shift顯示模式](https://zh.wikipedia.org/wiki/Night_Shift_\(應用程式\) "wikilink")，能自動依據時間調整[色溫](https://zh.wikipedia.org/wiki/色溫 "wikilink")、減少[藍光](../Page/藍光.md "wikilink")，維持用戶[生理時鐘正常](https://zh.wikipedia.org/wiki/生理時鐘 "wikilink")\[6\]；另外，iOS 9還為[iPhone 6s及](https://zh.wikipedia.org/wiki/iPhone_6s "wikilink")[iPhone 6s Plus引進了](https://zh.wikipedia.org/wiki/iPhone_6s_Plus "wikilink")[3D Touch感應技術](../Page/3D_Touch.md "wikilink")，可根據用戶按壓螢幕的力道大小，決定應處理的動作\[7\]。在iOS 9中，蘋果以專為[數位顯示器設計的](../Page/显示器.md "wikilink")[苹方](../Page/苹方.md "wikilink")體取代[華文黑體成為預設中文字体](../Page/黑体_\(字体\).md "wikilink")\[8\]。
 
 在iOS 9正式版推出後一周內，整體安裝率即達到50%，是歷年來最快的一次\[9\]。
 
@@ -36,7 +36,7 @@ iOS 9.2.1於2016年1月19日發布。此更新修正了在使用[MDM行動裝置
 
 #### 9.3
 
-iOS 9.3於2016年3月21日發布。此更新改進了教育功能，並新增[夜览模式](https://zh.wikipedia.org/wiki/夜览_\(應用程式\) "wikilink")，能自動依據時間調整[色溫](https://zh.wikipedia.org/wiki/色溫 "wikilink")、減少[藍光](https://zh.wikipedia.org/wiki/藍光 "wikilink")，維持用戶[生理時鐘正常](https://zh.wikipedia.org/wiki/生理時鐘 "wikilink")；內建應用程式也獲得更新：[備忘錄應用程式新增Touch](https://zh.wikipedia.org/wiki/備忘錄_\(應用程式\) "wikilink") ID支援、密碼鎖定功能；[新聞應用程式新增重大報導區域](https://zh.wikipedia.org/wiki/新聞_\(應用程式\) "wikilink")，更改報導中的文字大小使報導更易閱讀，並新增支援橫向模式；[健康應用程式支援](https://zh.wikipedia.org/wiki/健康_\(應用程式\) "wikilink")[Apple Watch活動記錄](https://zh.wikipedia.org/wiki/Apple_Watch "wikilink")，並可透過[HealthKit取用活動記錄摘要](https://zh.wikipedia.org/wiki/HealthKit "wikilink")；[地圖及](../Page/蘋果地圖.md "wikilink")[Apple Music中的](../Page/Apple_Music.md "wikilink")[Carplay套件獲得升級](https://zh.wikipedia.org/wiki/Carplay "wikilink")；[照片應用程式支援從](https://zh.wikipedia.org/wiki/照片_\(應用程式\) "wikilink")[Live Photo中擷取靜態影像](https://zh.wikipedia.org/wiki/Live_Photo "wikilink")； [iBooks現在支援](../Page/Apple_Books.md "wikilink")[Apple Pencil](../Page/Apple_Pencil.md "wikilink")，可畫重點並儲存喜愛的段落以便之後觀看；支援播放以[Dolby Digital Plus音訊串流編碼的](../Page/杜比数字.md "wikilink")[影片等](../Page/视频.md "wikilink")\[48\]\[49\]\[50\]\[51\]\[52\]\[53\]。此外，此更新還修補了一些漏洞\[54\]\[55\]\[56\]。
+iOS 9.3於2016年3月21日發布。此更新改進了教育功能，並新增[夜览模式](https://zh.wikipedia.org/wiki/夜览_\(應用程式\) "wikilink")，能自動依據時間調整[色溫](https://zh.wikipedia.org/wiki/色溫 "wikilink")、減少[藍光](../Page/藍光.md "wikilink")，維持用戶[生理時鐘正常](https://zh.wikipedia.org/wiki/生理時鐘 "wikilink")；內建應用程式也獲得更新：[備忘錄應用程式新增Touch](https://zh.wikipedia.org/wiki/備忘錄_\(應用程式\) "wikilink") ID支援、密碼鎖定功能；[新聞應用程式新增重大報導區域](https://zh.wikipedia.org/wiki/新聞_\(應用程式\) "wikilink")，更改報導中的文字大小使報導更易閱讀，並新增支援橫向模式；[健康應用程式支援](https://zh.wikipedia.org/wiki/健康_\(應用程式\) "wikilink")[Apple Watch活動記錄](https://zh.wikipedia.org/wiki/Apple_Watch "wikilink")，並可透過[HealthKit取用活動記錄摘要](https://zh.wikipedia.org/wiki/HealthKit "wikilink")；[地圖及](../Page/蘋果地圖.md "wikilink")[Apple Music中的](../Page/Apple_Music.md "wikilink")[Carplay套件獲得升級](https://zh.wikipedia.org/wiki/Carplay "wikilink")；[照片應用程式支援從](https://zh.wikipedia.org/wiki/照片_\(應用程式\) "wikilink")[Live Photo中擷取靜態影像](https://zh.wikipedia.org/wiki/Live_Photo "wikilink")； [iBooks現在支援](../Page/Apple_Books.md "wikilink")[Apple Pencil](../Page/Apple_Pencil.md "wikilink")，可畫重點並儲存喜愛的段落以便之後觀看；支援播放以[Dolby Digital Plus音訊串流編碼的](../Page/杜比数字.md "wikilink")[影片等](../Page/视频.md "wikilink")\[48\]\[49\]\[50\]\[51\]\[52\]\[53\]。此外，此更新還修補了一些漏洞\[54\]\[55\]\[56\]。
 
 #### 9.3.1
 
@@ -202,7 +202,7 @@ iOS 9能運行於所有搭載[iOS 8的裝置上](https://zh.wikipedia.org/wiki/i
 
 ### iPhone
 
-  - [iPhone 4s](https://zh.wikipedia.org/wiki/iPhone_4s "wikilink")
+  - [iPhone 4s](https://zh.wikipedia.org/wiki/iPhone_4s "wikilink") （此iOS版本為最後一個支援此裝置的版本）
   - [iPhone 5](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink")
   - [iPhone 5c](https://zh.wikipedia.org/wiki/iPhone_5c "wikilink")
   - [iPhone 5s](https://zh.wikipedia.org/wiki/iPhone_5s "wikilink")
@@ -214,17 +214,17 @@ iOS 9能運行於所有搭載[iOS 8的裝置上](https://zh.wikipedia.org/wiki/i
 
 ### iPod touch
 
-  - [iPod touch (第五代)](https://zh.wikipedia.org/wiki/iPod_touch_\(第五代\) "wikilink")
+  - [iPod touch (第五代)](https://zh.wikipedia.org/wiki/iPod_touch_\(第五代\) "wikilink") （此iOS版本為最後一個支援此裝置的版本）
   - [iPod touch (第六代)](https://zh.wikipedia.org/wiki/iPod_touch_\(第六代\) "wikilink")
 
 ### iPad
 
-  - [iPad 2](https://zh.wikipedia.org/wiki/iPad_2 "wikilink")
-  - [iPad (第三代)](https://zh.wikipedia.org/wiki/iPad_\(第三代\) "wikilink")
+  - [iPad 2](https://zh.wikipedia.org/wiki/iPad_2 "wikilink") （此iOS版本為最後一個支援此裝置的版本）
+  - [iPad (第三代)](https://zh.wikipedia.org/wiki/iPad_\(第三代\) "wikilink") （此iOS版本為最後一個支援此裝置的版本）
   - [iPad (第四代)](https://zh.wikipedia.org/wiki/iPad_\(第四代\) "wikilink")
   - [iPad Air (第一代)](https://zh.wikipedia.org/wiki/iPad_Air_\(第一代\) "wikilink")
   - [iPad Air 2](https://zh.wikipedia.org/wiki/iPad_Air_2 "wikilink")
-  - [iPad mini (第一代)](https://zh.wikipedia.org/wiki/iPad_mini_\(第一代\) "wikilink")
+  - [iPad mini (第一代)](https://zh.wikipedia.org/wiki/iPad_mini_\(第一代\) "wikilink") （此iOS版本為最後一個支援此裝置的版本）
   - [iPad mini 2](https://zh.wikipedia.org/wiki/iPad_mini_2 "wikilink")
   - [iPad mini 3](https://zh.wikipedia.org/wiki/iPad_mini_3 "wikilink")
   - [iPad mini 4](https://zh.wikipedia.org/wiki/iPad_mini_4 "wikilink")

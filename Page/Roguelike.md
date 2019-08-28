@@ -21,7 +21,7 @@ Roguelike是[角色扮演游戏](../Page/角色扮演游戏.md "wikilink")的一
 
 ### 主要特点
 
-[Vultures-2.1.0_screenshot.jpg](https://zh.wikipedia.org/wiki/File:Vultures-2.1.0_screenshot.jpg "fig:Vultures-2.1.0_screenshot.jpg") Roguelike游戏的游戏玩法由基于文字的游戏《Rogue》发扬光大并在其后被其他游戏借鉴、改造\[17\]。2015年，数百名玩家声称Roguelike将会成为[Steam](../Page/Steam.md "wikilink")上的一个独立的游戏分类。一个由爱好者运营的百科网站ogueBasin\[18\]则追踪了数百款Roguelike游戏的开发进度。由于Roguelike热度猛增，它的游戏玩法核心元素在2008年的柏林国际Roguelike游戏开发大会得到了明确的定义，称之为“柏林准则”。\[19\]\[20\]\[21\]为了明确“Roguelike游戏是什么”这个问题的答案，柏林准则根据著名的“Roguelike五圣经”（《[Rogue](../Page/Rogue.md "wikilink")》《[迷宫骇客](../Page/NetHack.md "wikilink")》《神秘古域》《[安格班](../Page/安格班.md "wikilink")德》《[Linley's Dungeon Crawl](https://zh.wikipedia.org/wiki/Linley's_Dungeon_Crawl "wikilink")》和《[深入地下城之石头汤](../Page/深入地下城之石头汤.md "wikilink")》）设定了一系列核心元素和一些次要元素，然而是否完全具备这些元素并不能决定此游戏是否可以算作是“Roguelike”。\[22\]\[23\] 来自Game Set Watch 的約翰·哈里斯（John Harris）通过应用这些条件来对一系列看起来像是Roguelike的游戏进行评分：《Linley's Dungeon Crawl》和《迷宫骇客》获得了最高的56.5分（满分60分），而经常和Roguelike游戏做类比的《Toe Jam & Earl》和《[暗黑破坏神](https://zh.wikipedia.org/wiki/暗黑破坏神 "wikilink")》只得到了一半的分数。\[24\]
+[Vultures-2.1.0_screenshot.jpg](https://zh.wikipedia.org/wiki/File:Vultures-2.1.0_screenshot.jpg "fig:Vultures-2.1.0_screenshot.jpg") Roguelike游戏的游戏玩法由基于文字的游戏《Rogue》发扬光大并在其后被其他游戏借鉴、改造\[17\]。2015年，数百名玩家声称Roguelike将会成为[Steam](../Page/Steam.md "wikilink")上的一个独立的游戏分类。一个由爱好者运营的百科网站RogueBasin\[18\]则追踪了数百款Roguelike游戏的开发进度。由于Roguelike热度猛增，它的游戏玩法核心元素在2008年的柏林国际Roguelike游戏开发大会得到了明确的定义，称之为“柏林准则”。\[19\]\[20\]\[21\]为了明确“Roguelike游戏是什么”这个问题的答案，柏林准则根据著名的“Roguelike五圣经”（《[Rogue](../Page/Rogue.md "wikilink")》《[迷宫骇客](../Page/NetHack.md "wikilink")》《神秘古域》《[安格班](../Page/安格班.md "wikilink")德》《[Linley's Dungeon Crawl](https://zh.wikipedia.org/wiki/Linley's_Dungeon_Crawl "wikilink")》和《[深入地下城之石头汤](../Page/深入地下城之石头汤.md "wikilink")》）设定了一系列核心元素和一些次要元素，然而是否完全具备这些元素并不能决定此游戏是否可以算作是“Roguelike”。\[22\]\[23\] 来自Game Set Watch 的約翰·哈里斯（John Harris）通过应用这些条件来对一系列看起来像是Roguelike的游戏进行评分：《Linley's Dungeon Crawl》和《迷宫骇客》获得了最高的56.5分（满分60分），而经常和Roguelike游戏做类比的《Toe Jam & Earl》和《[暗黑破坏神](https://zh.wikipedia.org/wiki/暗黑破坏神 "wikilink")》只得到了一半的分数。\[24\]
 
 柏林准则中的核心元素有：\[25\]
 
@@ -152,7 +152,7 @@ Roguelike游戏设计之初面向存储空间有限的分时大型主机和早�
 
 #### 《超越光速》
 
-《》是由独立开发者Subset Games创建的基于空间的自上而下的即时战略roguelike游戏，该游戏于2012年9月针对Microsoft Windows，OS X和Linux发布。在游戏中，玩家控制船员在一艘大型反叛舰队的追击下，将一个关键信息传递给盟军舰队。
+《[超越光速](../Page/超越光速.md "wikilink")》是由独立开发者Subset Games创建的基于空间的自上而下的即时战略roguelike游戏，该游戏于2012年9月针对Microsoft Windows，OS X和Linux发布。在游戏中，玩家控制船员在一艘大型反叛舰队的追击下，将一个关键信息传递给盟军舰队。
 
 对于这一款游戏，IGN给出9.6分的高分评价，称它“难以上手，难以忘怀，令人难以置信的吸引我再来一把。无论是移动端还是PC，这款游戏都是绝佳的太空战斗模拟器”\[121\]。除了没有地牢，它拥有Roguelike的一切要素——没有存档、随机生成的地图、永久的死亡、通过战斗来提升自己角色（飞船）的等级等\[122\]。在击败Boss之前，你不会放松自己的神经，因为一不留神，你的金牌舰员就会命丧太空。
 

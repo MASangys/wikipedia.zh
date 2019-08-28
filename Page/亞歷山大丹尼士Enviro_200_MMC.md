@@ -1,8 +1,8 @@
-**亞歷山大丹尼士Enviro 200 MMC**（）是一款由[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[亞歷山大丹尼士](../Page/亞歷山大丹尼士.md "wikilink")生產的兩軸單層巴士。它也是亞歷山大丹尼士製造的其中一款Enviro系列巴士，於2014年面世，主要取代[飛鏢SLF及Pointer車身](https://zh.wikipedia.org/wiki/丹尼士飛鏢 "wikilink")。
+**亞歷山大丹尼士Enviro 200 MMC**（）是一款由[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[亞歷山大丹尼士](../Page/亞歷山大丹尼士.md "wikilink")生產的兩軸單層巴士。它也是亞歷山大丹尼士製造的其中一款Enviro系列巴士，於2014年面世。
 
 ## 設計
 
-Enviro 200MMC佈局與Enviro 200相若，但整部巴士經過大幅改良，整部巴士比之前减輕200公斤。
+Enviro 200MMC佈局與[Enviro 200相若](../Page/亞歷山大丹尼士Enviro_200_Dart.md "wikilink")，但整部巴士經過大幅改良，整部巴士比之前减輕200公斤。
 
 車身採用全新設計，車頭左右不對稱，車頭組件與2014年推出的Enviro 400MMC雙層巴士一致，包括司機位、電氣系統及可快速裝拆的「Quick Release Glazing」車窗，而車廂亦可以比Enviro 200裝到更多座椅。
 

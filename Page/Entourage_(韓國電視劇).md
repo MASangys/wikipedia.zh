@@ -211,35 +211,23 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/李俊昊" title="wikilink">李俊昊</a></p></td>
 <td></td>
-<td><p>誤認車俊為泊車小弟的年輕人</p></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td></td>
 <td></td>
 <td><p>楊萬浩導演的朋友，黑道出身，開設一家借貸公司。</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td><p>黑道大哥的手下</p></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="even">
 <td></td>
 <td></td>
@@ -265,17 +253,17 @@
 <td></td>
 </tr>
 <tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td><p>林室長</p></td>
 <td><p>美信娛樂代表，以前是金銀甲手下的經紀人，自立門戶後到處挖角，腦筋動到車榮斌身上 。</p></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="even">
 <td></td>
 <td></td>
@@ -313,6 +301,12 @@
 <td></td>
 </tr>
 <tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td><p>T恤設計師，烏龜認識的朋友</p></td>

@@ -31,7 +31,7 @@
 <td></td>
 <td><p>Pet-raising simulator</p></td>
 <td><p>April 21, 2005</p></td>
-<td><p>Nintendo EAD (Group 1)</p></td>
+<td><p>任天堂情報開發本部 (Group 1)</p></td>
 <td><p>Nintendo</p></td>
 </tr>
 <tr class="odd">
@@ -40,7 +40,7 @@
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/竞速游戏" title="wikilink">竞速游戏</a></p></td>
 <td><p>November 15, 2005</p></td>
-<td><p>Nintendo EAD (Group 1)</p></td>
+<td><p>任天堂情報開發本部 (Group 1)</p></td>
 <td><p>Nintendo</p></td>
 </tr>
 <tr class="even">
@@ -68,7 +68,7 @@
 <td><p>Role-playing game</p></td>
 <td><p>September 18, 2010</p></td>
 <td><p>Game Freak</p></td>
-<td><p>Nintendo, The Pokémon Company</p></td>
+<td><p>Nintendo, 精靈寶可夢公司</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/川島隆太教授的DS腦力強化訓練.md" title="wikilink">川島隆太教授的DS腦力強化訓練</a></p></td>
@@ -86,28 +86,28 @@
 <td><p>Role-playing game</p></td>
 <td><p>September 12, 2009</p></td>
 <td><p>Game Freak</p></td>
-<td><p>Nintendo, The Pokémon Company</p></td>
+<td><p>Nintendo, 精靈寶可夢公司</p></td>
 </tr>
 <tr class="odd">
-<td><p>Animal Crossing: Wild World</p></td>
+<td></td>
 <td><p>11.75 million[10]</p></td>
 <td></td>
-<td><p>Social simulation game</p></td>
+<td><p><a href="../Page/社会模拟游戏.md" title="wikilink">社会模拟游戏</a></p></td>
 <td><p>November 23, 2005</p></td>
-<td><p>Nintendo EAD (Group 2)</p></td>
+<td><p>任天堂情報開發本部 (Group 2)</p></td>
 <td><p>Nintendo</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/超级马里奥64DS.md" title="wikilink">超级马里奥64DS</a></p></td>
 <td><p>11.06 million[11]</p></td>
 <td></td>
-<td><p>Platform game</p></td>
+<td><p><a href="../Page/平台游戏.md" title="wikilink">平台游戏</a></p></td>
 <td><p>November 21, 2004</p></td>
 <td><p>Nintendo EAD Comprehensive Group</p></td>
 <td><p>Nintendo</p></td>
 </tr>
 <tr class="odd">
-<td><p>Mario Party DS</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/马里奥派对DS" title="wikilink">马里奥派对DS</a></p></td>
 <td><p>8.90 million[12]</p></td>
 <td></td>
 <td><p>Party, <a href="https://zh.wikipedia.org/wiki/小游戏" title="wikilink">小游戏</a></p></td>
@@ -122,10 +122,10 @@
 <td><p>Role-playing game</p></td>
 <td><p>June 23, 2012</p></td>
 <td><p>Game Freak</p></td>
-<td><p>Nintendo, The Pokémon Company</p></td>
+<td><p>Nintendo, 精靈寶可夢公司</p></td>
 </tr>
 <tr class="odd">
-<td><p>Pokémon Platinum</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/精灵宝可梦_白金" title="wikilink">精灵宝可梦 白金</a></p></td>
 <td><p>7.69 million[14]</p></td>
 <td></td>
 <td><p>Role-playing game</p></td>
@@ -134,7 +134,7 @@
 <td><p>Nintendo, The Pokémon Company</p></td>
 </tr>
 <tr class="even">
-<td><p>Big Brain Academy</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大脑学院" title="wikilink">大脑学院</a></p></td>
 <td><p>6.61 million[15]</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/益智游戏" title="wikilink">益智游戏</a>, Educational</p></td>
@@ -170,7 +170,7 @@
 <td><p>Nintendo</p></td>
 </tr>
 <tr class="even">
-<td><p>Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/不可思议迷宫系列丨精灵宝可梦不可思议迷宫_天空探险队" title="wikilink">不可思议迷宫系列丨精灵宝可梦不可思议迷宫 天空探险队</a></p></td>
 <td><p>4.93 million[21]</p></td>
 <td></td>
 <td><p><a href="../Page/Roguelike.md" title="wikilink">Roguelike</a></p></td>
@@ -206,7 +206,7 @@
 <td><p>Nintendo</p></td>
 </tr>
 <tr class="even">
-<td><p>Pokémon Mystery Dungeon: Blue Rescue Team and Red Rescue Team|Pokémon Mystery Dungeon: Blue Rescue Team</p></td>
+<td><p>精灵宝可梦不可思议迷宫 红色救难队·蓝色救难队</p></td>
 <td><p>3.08 million[26]</p></td>
 <td></td>
 <td><p><a href="../Page/Roguelike.md" title="wikilink">Roguelike</a></p></td>
@@ -269,7 +269,7 @@
 <td><p>Nintendo</p></td>
 </tr>
 <tr class="odd">
-<td><p>Flash Focus: Vision Training in Minutes a Day</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/DS眼力训练" title="wikilink">DS眼力训练</a></p></td>
 <td><p>2.52 million[36]</p></td>
 <td></td>
 <td><p>Puzzle, Educational</p></td>
@@ -278,7 +278,7 @@
 <td><p>Nintendo</p></td>
 </tr>
 <tr class="even">
-<td><p>Kirby Super Star Ultra</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/星之卡比_超究極豪華版" title="wikilink">星之卡比 超究極豪華版</a></p></td>
 <td><p>2.36 million[37]</p></td>
 <td></td>
 <td><p>Platform game</p></td>
@@ -350,7 +350,7 @@
 <td><p>Level-5 (Japan) Nintendo (Overseas)</p></td>
 </tr>
 <tr class="even">
-<td><p>Art Academy (video game)</p></td>
+<td><p>绘心教室</p></td>
 <td><p>1.9 million[48]</p></td>
 <td></td>
 <td><p>Educational</p></td>
@@ -386,7 +386,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Kirby:_Squeak_Squad" title="wikilink">Kirby: Squeak Squad</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/星之卡比_多洛奇团登场！" title="wikilink">星之卡比 多洛奇团登场！</a></p></td>
 <td><p>1.6 million[52]</p></td>
 <td></td>
 <td></td>
@@ -440,7 +440,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Pokémon_Mystery_Dungeon:_Explorers_of_Sky" title="wikilink">Pokémon Mystery Dungeon: Explorers of Sky</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/不可思议迷宫系列丨精灵宝可梦不可思议迷宫_天空探险队" title="wikilink">不可思议迷宫系列丨精灵宝可梦不可思议迷宫 天空探险队</a></p></td>
 <td><p>1.4 million[61]</p></td>
 <td></td>
 <td></td>
@@ -449,7 +449,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Guitar_Hero:_On_Tour_series" title="wikilink">Guitar Hero: On Tour</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/吉他英雄：巡演" title="wikilink">吉他英雄：巡演</a></p></td>
 <td><p>1.4 million approximately</p></td>
 <td><p>1.1 million in US,[62] 200,000 in UK,[63] 100,000 in France[64]</p></td>
 <td></td>
@@ -512,7 +512,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Sonic_Colors" title="wikilink">Sonic Colors</a></p></td>
+<td><p><a href="../Page/刺猬索尼克_缤纷色彩.md" title="wikilink">刺猬索尼克 缤纷色彩</a></p></td>
 <td><p>1.25 million</p></td>
 <td></td>
 <td></td>
@@ -521,7 +521,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Mario_vs._Donkey_Kong_2:_March_of_the_Minis" title="wikilink">Mario vs. Donkey Kong 2: March of the Minis</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/马里奥系列游戏列表丨玛利欧vs.森喜刚2:_迷你大行进" title="wikilink">马里奥系列游戏列表丨玛利欧vs.森喜刚2: 迷你大行进</a></p></td>
 <td><p>1.24 million[74]</p></td>
 <td></td>
 <td></td>
@@ -620,7 +620,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Scribblenauts" title="wikilink">Scribblenauts</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/涂鸦冒险家" title="wikilink">涂鸦冒险家</a></p></td>
 <td><p>1 million[88]</p></td>
 <td></td>
 <td></td>
@@ -629,7 +629,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Drawn_to_Life" title="wikilink">Drawn to Life</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/画出你的生活" title="wikilink">画出你的生活</a></p></td>
 <td><p>1 million approximately[89]</p></td>
 <td></td>
 <td></td>
@@ -638,7 +638,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Spectrobes" title="wikilink">Spectrobes</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/化石超进化" title="wikilink">化石超进化</a></p></td>
 <td><p>1 million shipped[90]</p></td>
 <td></td>
 <td></td>

@@ -1,12 +1,10 @@
-**LIHKG討論區**，俗稱**連登**\[1\]，是[香港](../Page/香港.md "wikilink")的[網上討論區](https://zh.wikipedia.org/wiki/網上討論區 "wikilink")，由[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")[高登討論區](../Page/高登討論區.md "wikilink")第三方應用程式「HKG+」演變而成，於2016年11月25日正式開始運作。\[2\]\[3\]
+**LIHKG討論區**，俗稱**連登**\[1\]，是[香港](../Page/香港.md "wikilink")的[網上討論區](https://zh.wikipedia.org/wiki/網上討論區 "wikilink")，由[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")[高登討論區](../Page/高登討論區.md "wikilink")第三方[應用程式](../Page/流動應用程式.md "wikilink")「HKG+」演變而成，於2016年11月25日正式開始運作。\[2\]\[3\]
 
 ## 簡介
 
-[高登討論區](../Page/高登討論區.md "wikilink")一直設有手機版頁面及[智能手機應用程式](https://zh.wikipedia.org/wiki/App "wikilink")，惟使用體驗一直為人詬病，不少第三方瀏覽程式應運而生。不過，高登管理員聲稱該等程式複製高登論壇資料以加快程式瀏覽速度，反影響高登官方頁面瀏覽速度，影響高登瀏覽人次，更指控部份程式涉及攻擊高登伺服器，高登管理員於是開始阻止第三方程式讀取論壇資料，其中頗受[Android](../Page/Android.md "wikilink")用戶歡迎的「LIHK HKGolden」於2014年一度遭封殺，後來與高登行政總裁[林祖舜商談後](https://zh.wikipedia.org/wiki/林祖舜 "wikilink")，同意程式由免費改為收費10元，並去除程式廣告，程式得以再次上架。至2016年10月25日，iOS的高登討論區瀏覽程式「HKG+」亦因違反[API使用條件](https://zh.wikipedia.org/wiki/API "wikilink")，接獲警告後半年仍未停止複製高登論壇資料，故不再獲香港高登授權作第三方程式，須立即停止普通用戶的服務，VIP用戶則可使用至11月25日\[4\]，而其他第三方瀏覽程式則未受影響。事件於高登討論區引起討論，更有人提議應藉此「另起爐灶」，成立新討論區。
+[高登討論區](../Page/高登討論區.md "wikilink")一直設有手機版頁面及[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")[應用程式](../Page/流動應用程式.md "wikilink")，惟使用體驗一直為人詬病，不少第三方瀏覽程式應運而生。不過，高登管理員聲稱該等程式複製高登論壇資料以加快程式瀏覽速度，反影響高登官方頁面瀏覽速度，影響高登瀏覽人次，更指控部份程式涉及攻擊高登伺服器，高登管理員於是開始阻止第三方程式讀取論壇資料，其中頗受[Android](../Page/Android.md "wikilink")用戶歡迎的「LIHK HKGolden」於2014年一度遭封殺，後來與高登行政總裁[林祖舜](../Page/林祖舜.md "wikilink")商談後，同意程式由免費改為收費10元，並去除程式廣告，程式得以再次上架。至2016年10月25日，iOS的高登討論區瀏覽程式「HKG+」亦因違反[API使用條件](https://zh.wikipedia.org/wiki/API "wikilink")，接獲警告後半年仍未停止複製高登論壇資料，故不再獲香港高登授權作第三方程式，須立即停止普通用戶的服務，VIP用戶則可使用至11月25日\[4\]，而其他第三方瀏覽程式則未受影響。事件於高登討論區引起討論，更有人提議應藉此「另起爐灶」，成立新討論區。
 
-11月21日，「HKG+」表示已將程式部份[原始碼交提供予LIHK](https://zh.wikipedia.org/wiki/原始碼 "wikilink") HKGolden​的開發者「連尼住」​及Kaiboard​的開發者「望遠」，共同開發新程式。至11月25日，LIHKG討論區正式公布成立，並以「將會延續『最好用戶體驗』App」為宗旨。
-
-LIHKG討論區早期只提供iOS平台應用程式\[5\]，Android平台應用程式於2016年11月28日晚上開始提供下載，測試版網站隨後推出。
+LIHKG討論區早期只提供[iOS平台應用程式](https://zh.wikipedia.org/wiki/iOS "wikilink")\[5\]，[Android](../Page/Android.md "wikilink")平台應用程式於2016年11月28日晚上開始提供下載，測試版網站隨後推出。
 
 ## 影響
 
@@ -14,7 +12,7 @@ LIHKG討論區的開設被視為[高登討論區](../Page/高登討論區.md "wi
 
 ## 高登網主回應
 
-[高登討論區](../Page/高登討論區.md "wikilink")CEO[林祖舜於](https://zh.wikipedia.org/wiki/林祖舜 "wikilink")2016年11月29日接受《[蘋果日報](../Page/蘋果日報_\(香港\).md "wikilink")》訪問時，指出「高登流量未見受影響，每日Page View維持約600萬」，指出禁止「HKG+」的原因是因「HKG+」違反不能自行賣廣告，不能私自暫存網頁內容的條款。林祖舜認為今次事件是有人有組織地，希望分化、打散香港一個有極高凝聚力的平台，「情況嚴重過鎅票」。他亦表示有人偽充前員工，去發散一些他將要下台，以及[iPhone上不到高登官方App等不盡不實](https://zh.wikipedia.org/wiki/iPhone "wikilink")、抹黑的消息，認為「情況唔似係一個普通寫App人做」。
+[高登討論區](../Page/高登討論區.md "wikilink")CEO[林祖舜](../Page/林祖舜.md "wikilink")於2016年11月29日接受《[蘋果日報](../Page/蘋果日報_\(香港\).md "wikilink")》訪問時，指出「高登流量未見受影響，每日Page View維持約600萬」，指出禁止「HKG+」的原因是因「HKG+」違反不能自行賣廣告，不能私自暫存網頁內容的條款。林祖舜認為今次事件是有人有組織地，希望分化、打散香港一個有極高凝聚力的平台，「情況嚴重過鎅票」。他亦表示有人偽充前員工，去發散一些他將要下台，以及[iPhone上不到高登官方App等不盡不實](https://zh.wikipedia.org/wiki/iPhone "wikilink")、抹黑的消息，認為「情況唔似係一個普通寫App人做」。
 
 他強調，公司沒有派打手到「LIHKG討論區」呼籲人回歸高登，高登亦將就不實消息發表澄清。被問到何以封殺於高登宣傳LIHKG用戶，他表示高登一向不容宣傳商業品牌，「條界線冇變過」。他又指，已向蘋果提交新iOS版本應用程式，希望速度上有所改善，會繼續做好高登，令會員回歸。 高登管理團隊亦於同日於高登發表公告，重申上述論點。
 
@@ -24,40 +22,27 @@ LIHKG討論區的開設被視為[高登討論區](../Page/高登討論區.md "wi
 
 於LIHKG討論區開設後，高登開始出現不斷封鎖用戶的情況。被ban者多數曾發表言論支持或宣傳LIHKG，後來發展至PM內容或留言內容只要出現「LIHKG」即會被ban，至今受害帳號已多不勝數。事件更激發用戶擔心私隱問題，因情況反映所有會員間的PM亦會經高登網主或系統檢閱。\[8\]
 
-## 活動
-
-LIHKG一直只是一個活躍於網上的討論平台，甚少有現實活動。
+## 戶外活動
 
 2017年4月初，LIHKG討論區會員「米高堅尼」網友提出舉辦網聚活動，該網友於討論區內透露自己有情緒問題並且有自殺傾向，希望透過活動散心，最後該活動於2017年5月6日（星期六）舉行，地點為[香港](../Page/香港.md "wikilink")[金鐘](../Page/金鐘.md "wikilink")[海富中心](../Page/海富中心.md "wikilink")的[麥當勞餐廳](https://zh.wikipedia.org/wiki/麥當勞 "wikilink")，有大約四十多人出席，當中包括LIHKG創辦人許業珩。\[9\]
 
-2019年5月16日，LIHKG討論區會員「在沉默中爆發」網友提出到香港各區派發「反修例」傳單，藉以向香港各區宣傳反對修訂[逃犯條例](https://zh.wikipedia.org/wiki/逃犯條例 "wikilink")，並分別在2019年5月20日至25日於[紅磡](../Page/紅磡.md "wikilink")、[大圍](../Page/大圍.md "wikilink")、[北角](../Page/北角.md "wikilink")及[荃灣](../Page/荃灣.md "wikilink")派發「反修例」傳單，每次大約十多名網友參與此行動。\[10\]\[11\]\[12\]\[13\]
+2019年5月16日，LIHKG討論區會員「在沉默中爆發」網友提出到香港各區派發「反修例」傳單，藉以向香港各區宣傳反對修訂[逃犯條例](../Page/2019年逃犯及刑事事宜相互法律協助法例（修訂）條例草案.md "wikilink")，並分別在2019年5月20日至25日於[紅磡](../Page/紅磡.md "wikilink")、[大圍](../Page/大圍.md "wikilink")、[北角](../Page/北角.md "wikilink")及[荃灣](../Page/荃灣.md "wikilink")派發「反修例」傳單，每次大約十多名網友參與此行動。\[10\]\[11\]\[12\]\[13\]
 
-## 事件
+## 涉及社會
 
-### 涉嫌教唆會員自殺致倫常慘劇
+2018年6月19日，個別網民涉及當時的[新屯門中心](../Page/新屯門中心.md "wikilink")三屍命案，有人發表爭議性言論\[14\]。部分LIHKG會員涉及沒有制止其他用戶（案中死者）自殺的想法，甚至鼓吹自殺。最終，網站管理團隊回應事件，感到惋惜\[15\]。
 
-2018年6月19日，[新屯門中心](../Page/新屯門中心.md "wikilink")發生三屍命案，疑受長期濕疹的女生彭靖瑜用刀捅向其父母親胸口致死後用氦氣袋笠頭自殺。事件發生後有網民懷疑疑兇彭靖瑜為LIHKG討論區會員「白馬嘯西風」，該會員曾以「學術討論」為名討論氦氣袋笠頭自殺的可行性\[14\]。並曾發帖發泄濕疹帶來的痛苦及表示對父母遺傳疾病感到怨恨和不滿\[15\]。部分LIHKG會員不但沒有制止她的想法並鼓勵其付諸實行並提供自殺建議，最終釀成慘劇\[16\]\[17\]。事件引起社會關注，其後LIHKG管理團隊發表公告對事件感到惋惜\[18\]。
-
-### 反對修訂逃犯條例行動
-
-從2019年5月中至7月，LIHKG討論區成為了反對修訂[逃犯條例行動的重要討論平台](https://zh.wikipedia.org/wiki/逃犯條例 "wikilink")。討論區會員發起各種文宣及組織行動，並在6月9日及16日遊行、以及6月12日及21日的佔領行動有着重大的影響力，獲多個本地、外國媒體所報導，包括[日本放送協會](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")、《[洛杉磯時報](../Page/洛杉磯時報.md "wikilink")》等。所組織的行動亦獲得立法會議員鄺俊宇、香港眾志黃之鋒以及民間人權陣線的支持及意見參考。
+從2019年5月起，LIHKG討論區成為討論修訂[逃犯條例的重要平台之一](../Page/2019年逃犯及刑事事宜相互法律協助法例（修訂）條例草案.md "wikilink")。有反修例的會員發起各種文宣及組織行動，並在6月9日及16日遊行、以及6月12日及21日的[佔領行動有着重大的影響力](../Page/反對逃犯條例修訂草案運動.md "wikilink")，獲多個本地、外國媒體所報導，包括[日本放送協會](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")、《[洛杉磯時報](../Page/洛杉磯時報.md "wikilink")》等。所組織的行動亦獲得[香港立法會](../Page/香港立法會.md "wikilink")議員[鄺俊宇](../Page/鄺俊宇.md "wikilink")、[香港眾志](../Page/香港眾志.md "wikilink")秘書長[黃之鋒](../Page/黃之鋒.md "wikilink")以及[民間人權陣線](../Page/民間人權陣線.md "wikilink")的支持及意見參考。《[時代雜誌](../Page/時代雜誌.md "wikilink")》稱是次示威屬一場「無領導者運動」，由個人利用網絡連接社會，匿名而快速地互通訊息，群起聚集到外國駐港領事館、包圍警察總部等各項活動。\[16\]抵禦修例的LIHKG人，甚至發起網上「眾籌行動」，並成功收集300萬[港元](../Page/港元.md "wikilink")。\[17\]
 
 ## 名人瀏覽者
 
-  - [張敬軒](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")
-  - [高海寧](../Page/高海寧.md "wikilink")
-  - [林秀怡](../Page/林秀怡.md "wikilink")
-  - [鄺俊宇](../Page/鄺俊宇.md "wikilink")
-  - [朱凱迪](https://zh.wikipedia.org/wiki/朱凱迪 "wikilink")
-  - [黃之鋒](../Page/黃之鋒.md "wikilink")
-  - [毛孟靜](../Page/毛孟靜.md "wikilink")
-  - [羅范椒芬](../Page/羅范椒芬.md "wikilink")：香港行政會議成員，在電台節目中她稱有瀏覽該討論區了解市民意見。\[19\]
+  - [羅范椒芬](../Page/羅范椒芬.md "wikilink")：香港行政會議成員，在電台節目中她稱有瀏覽該討論區了解市民意見。\[18\]
 
 ## 相關
 
   - [高登討論區](../Page/高登討論區.md "wikilink")
   - [膠登討論區](../Page/香港膠登討論區.md "wikilink")
-  - [林祖舜](https://zh.wikipedia.org/wiki/林祖舜 "wikilink")
+  - [林祖舜](../Page/林祖舜.md "wikilink")
 
 ## 參考
 
@@ -66,7 +51,7 @@ LIHKG一直只是一個活躍於網上的討論平台，甚少有現實活動。
   - [LIHKG討論區（測試版網站）](http://lihkg.com/)
 
   -
-[Category:香港次文化](https://zh.wikipedia.org/wiki/Category:香港次文化 "wikilink") [Category:香港流行文化](https://zh.wikipedia.org/wiki/Category:香港流行文化 "wikilink") [Category:香港網絡文化](https://zh.wikipedia.org/wiki/Category:香港網絡文化 "wikilink") [Category:香港網上論壇](https://zh.wikipedia.org/wiki/Category:香港網上論壇 "wikilink")
+[Category:香港次文化](https://zh.wikipedia.org/wiki/Category:香港次文化 "wikilink") [Category:香港流行文化](https://zh.wikipedia.org/wiki/Category:香港流行文化 "wikilink") [Category:香港網絡文化](https://zh.wikipedia.org/wiki/Category:香港網絡文化 "wikilink") [Category:香港網上論壇](https://zh.wikipedia.org/wiki/Category:香港網上論壇 "wikilink") [Category:被防火长城封锁的网站](https://zh.wikipedia.org/wiki/Category:被防火长城封锁的网站 "wikilink")
 
 1.
 2.
@@ -83,7 +68,6 @@ LIHKG一直只是一個活躍於網上的討論平台，甚少有現實活動。
 13.
 14.
 15.
-16.
-17.
+16. [香港反修例示威者獲選《時代》最具影響力網絡人物](https://hd.stheadline.com/news/daily/hk/780769/%E6%97%A5%E5%A0%B1-%E6%B8%AF%E8%81%9E-%E9%A6%99%E6%B8%AF%E5%8F%8D%E4%BF%AE%E4%BE%8B%E7%A4%BA%E5%A8%81%E8%80%85%E7%8D%B2%E9%81%B8-%E6%99%82%E4%BB%A3-%E6%9C%80%E5%85%B7%E5%BD%B1%E9%9F%BF%E5%8A%9B%E7%B6%B2%E7%B5%A1%E4%BA%BA%E7%89%A9) 頭條網 2019年7月17日
+17. [【逃犯條例】擬全球報章登頭版廣告反修例LIHKG網民眾籌300萬超額完成](https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/article/20190625/s00001/1561439560930/%E3%80%90%E9%80%83%E7%8A%AF%E6%A2%9D%E4%BE%8B%E3%80%91%E6%93%AC%E5%85%A8%E7%90%83%E5%A0%B1%E7%AB%A0%E7%99%BB%E9%A0%AD%E7%89%88%E5%BB%A3%E5%91%8A%E5%8F%8D%E4%BF%AE%E4%BE%8B-lihkg%E7%B6%B2%E6%B0%91%E7%9C%BE%E7%B1%8C300%E8%90%AC%E8%B6%85%E9%A1%8D%E5%AE%8C%E6%88%90%EF%BC%88%E9%99%84%E5%85%AC%E9%96%8B%E4%BF%A1%EF%BC%89) 明報新聞網 2019年6月24日
 18.
-19.

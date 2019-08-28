@@ -2,7 +2,7 @@
 
 ## 圖庫
 
-[File:遠雄TheOne20160404.jpg|2016年4月的進度](File:遠雄TheOne20160404.jpg%7C2016年4月的進度) [File:遠雄TheOne20160610.jpg|2016年6月的進度](File:遠雄TheOne20160610.jpg%7C2016年6月的進度) [File:遠雄TheOne20160706.jpg|2016年7月的進度](File:遠雄TheOne20160706.jpg%7C2016年7月的進度) [File:遠雄TheOne20161126.jpg|2016年11月的進度](File:遠雄TheOne20161126.jpg%7C2016年11月的進度) <File:遠雄TheOne> 2017 11 04.jpg|2017年11月施工進度 [File:遠雄TheOne20181020.jpg|2018年10月施工進度](File:遠雄TheOne20181020.jpg%7C2018年10月施工進度)
+[File:遠雄TheOne20160404.jpg|2016年4月的進度](File:遠雄TheOne20160404.jpg%7C2016年4月的進度) [File:遠雄TheOne20160610.jpg|2016年6月的進度](File:遠雄TheOne20160610.jpg%7C2016年6月的進度) [File:遠雄TheOne20160706.jpg|2016年7月的進度](File:遠雄TheOne20160706.jpg%7C2016年7月的進度) [File:遠雄TheOne20161126.jpg|2016年11月的進度](File:遠雄TheOne20161126.jpg%7C2016年11月的進度) <File:遠雄TheOne> 2017 11 04.jpg|2017年11月施工進度 [File:遠雄TheOne20181020.jpg|2018年10月施工進度](File:遠雄TheOne20181020.jpg%7C2018年10月施工進度) <File:遠雄TheOne> 2019 05 11.jpg|2019年5月施工進度
 
 ## 參見
 

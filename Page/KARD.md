@@ -8,7 +8,7 @@ DSP Media 表示：「混聲企劃團體 K.A.R.D 是分為三個階段的企劃�
 
 2012年，[全昭珉](../Page/全昭珉.md "wikilink")曾為女團[PURETTY](../Page/PURETTY.md "wikilink")成员，现已解散。2014年，全昭珉成為[Baby Kara成员之一](../Page/Baby_Kara.md "wikilink")，後[許齡智](../Page/許齡智.md "wikilink")成為[Kara](../Page/Kara.md "wikilink")正式成員，全昭珉結束活動。
 
-2015年8月24日，全昭珉以[APRIL隊長身分出道](https://zh.wikipedia.org/wiki/APRIL_\(女子團體\) "wikilink")，但未滿3個月就退出團體。\[2\]
+2015年8月24日，全昭珉以[APRIL隊長身分出道](../Page/APRIL_\(女子團體\).md "wikilink")，但未滿3個月就退出團體。\[2\]
 
 ### 2016年
 
@@ -664,69 +664,80 @@ DSP Media 表示：「混聲企劃團體 K.A.R.D 是分為三個階段的企劃�
 
   - KARD單獨巡迴演唱會
 
-| 年份                                 | 日期                               | 站次                     | 舉行地點                        |
-| ---------------------------------- | -------------------------------- | ---------------------- | --------------------------- |
-| 2017                               |                                  |                        |                             |
-| WILD KARD Tour in CANADA           |                                  |                        |                             |
-| 2017年                              | 5月3日                             | 溫哥華站                   | Harbour Event Center        |
-| 5月12日                              | 多倫多站                             |                        |                             |
-| WILD KARD Tour in AMERICA          |                                  |                        |                             |
-| 2017年                              | 5月5日                             | 芝加哥站                   | Copernicus Center           |
-| 5月7日                               | 休士頓站                             | Stereo Live            |                             |
-| 5月10日                              | 洛杉磯站                             | The Theatre at Ace     |                             |
-| WILD KARD Tour in SOUTH AMERICA    |                                  |                        |                             |
-| 2017年                              | 6月17日                            | 墨西哥城站                  | Lunario Auditorio Nacional  |
-| 6月23日                              | 福塔萊薩站                            | Vila Galé              |                             |
-| 6月25日                              | 薩爾瓦多站                            | Sheraton               |                             |
-| 6月27日                              | 利斯菲站                             | Hotel Manibu           |                             |
-| 6月29日                              | 里約熱內盧站                           | CC Marista             |                             |
-| 7月1日－7月2日                          | 聖保羅站                             | Tropical Butantã       |                             |
-| WILD KARD Tour in EUROPE           |                                  |                        |                             |
-| 2017年                              | 9月1日                             | 倫敦站                    | ULU LIVE                    |
-| 9月3日                               | 里斯本站                             | Sala Time Out          |                             |
-| 9月5日                               | 馬德里站                             | Sala But               |                             |
-| 9月8日                               | 米蘭站                              | Magazzini Generali     |                             |
-| 9月10日                              | 鹿特丹站                             | Annabel                |                             |
-| WILD KARD Tour in AMERICA PT.2     |                                  |                        |                             |
-| 2017年                              | 9月15日                            | 明尼亞波利斯站                | STATE THEATER               |
-| 9月17日                              | 華盛頓特區站                           | Warner Theater         |                             |
-| 9月20日                              | 紐約站                              | PLAYSTATION THEATER    |                             |
-| 9月22日                              | 邁阿密站                             | James L. Knight Center |                             |
-| 10月8日                              | 舊金山站                             | THE WARFIELD           |                             |
-| The 1st Tour in SOUTH AMERICA PT.2 |                                  |                        |                             |
-| 2017年                              | 9月27日                            | 智利站                    | TEATRO MUNICIPAL DR PARAISO |
-| 9月29日                              | GIMNASIO MUNICIPAL DE CONCEPCIÓN |                        |                             |
-| 10月1日                              | COLISEO MUNICIPAL DE LA SERENA   |                        |                             |
-| 10月4日                              | 阿根廷站                             | TEATRO VORTERIX        |                             |
-| 10月6日                              | 秘魯站                              | JOCKEY CLUB            |                             |
-| 2018                               |                                  |                        |                             |
-| WILD KARD Tour in ASIA             |                                  |                        |                             |
-| 2018年                              | 1月21日                            | 新加坡站                   | Zepp@BIGBOX                 |
-| 2月2日                               | 臺北站                              | ATT Show Box           |                             |
-| 2月4日                               | 香港站                              | KITEC Rotunda 3        |                             |
-| 2月9日                               | 馬尼拉站                             | KIA Theatre            |                             |
-| 7月21日                              | 印尼站                              | The Kasablanka         |                             |
-| WILD KARD Tour in AUSTRALIA        |                                  |                        |                             |
-| 2018年                              | 4月26日                            | 墨爾本站                   |                             |
-| 4月29日                              | 悉尼站                              |                        |                             |
-| WILD KARD Tour in SEOUL            |                                  |                        |                             |
-| 2018年                              | 8月19日                            | 首爾站                    |                             |
-| WILD KARD Tour in LATIN AMERICA    |                                  |                        |                             |
-| 2018年                              | 9月8日                             | 墨西哥城站                  |                             |
-| 9月12日                              | 哥倫比亞站                            |                        |                             |
-| 9月14日                              | 聖地牙哥站                            |                        |                             |
-| 9月16日                              | 布宜諾斯艾利斯站                         |                        |                             |
-| 9月19日                              | 拉巴斯站                             |                        |                             |
-| WILD KARD Tour in BRAZIL           |                                  |                        |                             |
-| 2018年                              | 9月21日                            | 里約熱內盧站                 |                             |
-| 9月23日                              | 阿雷格裏港站                           |                        |                             |
-| 9月25日                              | 庫里奇巴站                            |                        |                             |
-| 9月27日                              | 比路賀利桑特站                          |                        |                             |
-| 9月30日                              | 聖保羅站                             |                        |                             |
-| 2019                               |                                  |                        |                             |
-| WILD KARD Tour in SEOUL            |                                  |                        |                             |
-| 2019年                              | 4月27日                            | 首爾站                    |                             |
-|                                    |                                  |                        |                             |
+| 年份                                 | 日期                               | 站次                         | 舉行地點                        |
+| ---------------------------------- | -------------------------------- | -------------------------- | --------------------------- |
+| 2017                               |                                  |                            |                             |
+| WILD KARD Tour in CANADA           |                                  |                            |                             |
+| 2017年                              | 5月3日                             | 溫哥華站                       | Harbour Event Center        |
+| 5月12日                              | 多倫多站                             |                            |                             |
+| WILD KARD Tour in AMERICA          |                                  |                            |                             |
+| 2017年                              | 5月5日                             | 芝加哥站                       | Copernicus Center           |
+| 5月7日                               | 休士頓站                             | Stereo Live                |                             |
+| 5月10日                              | 洛杉磯站                             | The Theatre at Ace         |                             |
+| WILD KARD Tour in SOUTH AMERICA    |                                  |                            |                             |
+| 2017年                              | 6月17日                            | 墨西哥城站                      | Lunario Auditorio Nacional  |
+| 6月23日                              | 福塔萊薩站                            | Vila Galé                  |                             |
+| 6月25日                              | 薩爾瓦多站                            | Sheraton                   |                             |
+| 6月27日                              | 利斯菲站                             | Hotel Manibu               |                             |
+| 6月29日                              | 里約熱內盧站                           | CC Marista                 |                             |
+| 7月1日－7月2日                          | 聖保羅站                             | Tropical Butantã           |                             |
+| WILD KARD Tour in EUROPE           |                                  |                            |                             |
+| 2017年                              | 9月1日                             | 倫敦站                        | ULU LIVE                    |
+| 9月3日                               | 里斯本站                             | Sala Time Out              |                             |
+| 9月5日                               | 馬德里站                             | Sala But                   |                             |
+| 9月8日                               | 米蘭站                              | Magazzini Generali         |                             |
+| 9月10日                              | 鹿特丹站                             | Annabel                    |                             |
+| WILD KARD Tour in AMERICA PT.2     |                                  |                            |                             |
+| 2017年                              | 9月15日                            | 明尼亞波利斯站                    | STATE THEATER               |
+| 9月17日                              | 華盛頓特區站                           | Warner Theater             |                             |
+| 9月20日                              | 紐約站                              | PLAYSTATION THEATER        |                             |
+| 9月22日                              | 邁阿密站                             | James L. Knight Center     |                             |
+| 10月8日                              | 舊金山站                             | THE WARFIELD               |                             |
+| The 1st Tour in SOUTH AMERICA PT.2 |                                  |                            |                             |
+| 2017年                              | 9月27日                            | 智利站                        | TEATRO MUNICIPAL DR PARAISO |
+| 9月29日                              | GIMNASIO MUNICIPAL DE CONCEPCIÓN |                            |                             |
+| 10月1日                              | COLISEO MUNICIPAL DE LA SERENA   |                            |                             |
+| 10月4日                              | 阿根廷站                             | TEATRO VORTERIX            |                             |
+| 10月6日                              | 秘魯站                              | JOCKEY CLUB                |                             |
+| 2018                               |                                  |                            |                             |
+| WILD KARD Tour in ASIA             |                                  |                            |                             |
+| 2018年                              | 1月21日                            | 新加坡站                       | Zepp@BIGBOX                 |
+| 2月2日                               | 臺北站                              | ATT Show Box               |                             |
+| 2月4日                               | 香港站                              | KITEC Rotunda 3            |                             |
+| 2月9日                               | 馬尼拉站                             | KIA Theatre                |                             |
+| 7月21日                              | 印尼站                              | The Kasablanka             |                             |
+| WILD KARD Tour in AUSTRALIA        |                                  |                            |                             |
+| 2018年                              | 4月26日                            | 墨爾本站                       |                             |
+| 4月29日                              | 悉尼站                              |                            |                             |
+| WILD KARD Tour in SEOUL            |                                  |                            |                             |
+| 2018年                              | 8月19日                            | 首爾站                        |                             |
+| WILD KARD Tour in LATIN AMERICA    |                                  |                            |                             |
+| 2018年                              | 9月8日                             | 墨西哥城站                      |                             |
+| 9月12日                              | 哥倫比亞站                            |                            |                             |
+| 9月14日                              | 聖地牙哥站                            |                            |                             |
+| 9月16日                              | 布宜諾斯艾利斯站                         |                            |                             |
+| 9月19日                              | 拉巴斯站                             |                            |                             |
+| WILD KARD Tour in BRAZIL           |                                  |                            |                             |
+| 2018年                              | 9月21日                            | 里約熱內盧站                     |                             |
+| 9月23日                              | 阿雷格裏港站                           |                            |                             |
+| 9月25日                              | 庫里奇巴站                            |                            |                             |
+| 9月27日                              | 比路賀利桑特站                          |                            |                             |
+| 9月30日                              | 聖保羅站                             |                            |                             |
+| 2019                               |                                  |                            |                             |
+| WILD KARD Tour in SEOUL            |                                  |                            |                             |
+| 2019年                              | 4月27日                            | 首爾站                        |                             |
+| WILD KARD Tour in INDIA            |                                  |                            |                             |
+| 2019年                              | 7月12日                            | 新德里站                       | Talkatora Indoor Stadium    |
+| 7月14日                              | 古瓦哈提站                            | North East Cultural Centre |                             |
+| WILD KARD Tour in LATIN AMERICA    |                                  |                            |                             |
+| 2019年                              | 10月4日                            | 蒙德雷站                       | Escena                      |
+| 10月6日                              | 瓜達拉哈拉站                           | C3 Stage                   |                             |
+| 10月8日                              | 聖地牙哥站                            | Teatro Colisea             |                             |
+| 10月10日                             | 里約熱內盧站                           | Vivo Rio                   |                             |
+| 10月11日                             | 聖保羅站                             | Tom Brasil                 |                             |
+| 10月13日                             | 李斯腓站                             | Baile Perfumado            |                             |
+| 10月15日                             | 阿雷格里港站                           | Bar Opiniao                |                             |
+|                                    |                                  |                            |                             |
 
   - KARD其他大型演唱會
 

@@ -7,10 +7,8 @@ local pageCutoffs = {
 `   --   the colours used to highlight an inactive member`
 `   -- - notarget cutoff controls when a member is no longer sent a mass`
 `   --   mailing`
-`   ['Wikipedia:WikiProject Maine/members'] = { '-10 years', '-10 years', '-10 years' },`
-`   ['Wikipedia:WikiProject Articles for creation/Participants/Message'] = { '-1 year', '-1 year', '-2 years' },`
-`   ['Wikipedia:WikiProject Baseball/Outreach/Newsletter/Subscriber list'] = { '-1 year', '-2 months', '-2 years' },`
-`   ['Template:Mailing list member/testcases'] = { '-1 year', '-18 months', '-2 years' }`
+`   ['Template:Mailing list member/testcases'] = { '-1 year', '-18 months', '-2 years' },`
+`   ['模块讨论:Mailing list member/testcases'] = { '-1 year', '-18 months', '-2 years' }`
 
 }
 

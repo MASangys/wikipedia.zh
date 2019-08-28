@@ -1,6 +1,8 @@
-《**油膩的Melo**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS於](../Page/SBS_\(韓國\).md "wikilink")2018年5月7日起播出的[月火連續劇](../Page/SBS月火連續劇.md "wikilink")，由《[奇怪的搭檔](../Page/奇怪的搭檔.md "wikilink")》朴善浩導演執導與《[嫉妒的化身](../Page/嫉妒的化身.md "wikilink")》[徐淑香作家合作打造](https://zh.wikipedia.org/wiki/徐淑香 "wikilink")。此劇講述了3个男女比热炒锅里的油更火热的生存、飲食和愛情的故事\[1\]\[2\]。friDay影音、CHOCO TV、LINE TV、myVideo、愛奇藝台灣站、KKTV、遠傳friDay影音同步跟播。香港地區於[Viu](../Page/Viu.md "wikilink")播放。
+《**油膩的Melo**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS於](../Page/SBS_\(韓國\).md "wikilink")2018年5月7日起播出的[月火連續劇](../Page/SBS月火連續劇.md "wikilink")，由《[奇怪的搭檔](../Page/奇怪的搭檔.md "wikilink")》朴善浩導演執導與《[嫉妒的化身](../Page/嫉妒的化身.md "wikilink")》[徐淑香作家合作打造](https://zh.wikipedia.org/wiki/徐淑香 "wikilink")。此劇講述了3个男女比热炒锅里的油更火热的生存、飲食和愛情的故事\[1\]\[2\]。
 
-## 剧情
+台灣由CHOCO TV、LINE TV、myVideo、愛奇藝台灣站、KKTV、遠傳friDay影音同步跟播。香港地區於[Viu](../Page/Viu.md "wikilink")播放。
+
+## 劇情簡介
 
 在六星级酒店的对面街口，有着一家小而古樸的中餐馆「飢餓的炒鍋」。 餐館的老闆斗七星是黑社會「北斗七星」派內的二把手。他接下餐廳的目的是為過去跟隨他的幫派成員提供了一個正當的工作場所，甚至希望他們能學到一技之長，讓未來的生活有所依靠。 某天，位於六星級酒店內中華料理廳「畫龍點睛」的明星大厨徐風，和被宣告破產的繼承人段賽優分別拜访了斗七星，想藉他的幫助重新站起来。
 
@@ -88,7 +90,7 @@
 <tr class="odd">
 <td><p><a href="../Page/林元熙.md" title="wikilink">林元熙</a></p></td>
 <td><p>王春秀</p></td>
-<td><p>酒店中華料理廳「畫龍點睛」的主廚，25年前與蔡雪子交往卻騙其財產拋棄她來到韓國發展；與徐風為料理上對手。</p></td>
+<td><p>酒店中華料理廳「畫龍點睛」的主廚，25年前與蔡雪子交往卻騙其財產拋棄她，輾轉來到韓國發展；與徐風為料理上對手。</p></td>
 </tr>
 <tr class="even">
 <td></td>

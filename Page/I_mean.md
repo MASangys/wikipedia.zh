@@ -9,13 +9,13 @@
 | 電視台                                                             |
 | colspan=6 style="background:\#9be6ff | 심장어택 (Heart Attack)      |
 | [MBC Music](../Page/MBC_Plus_Media.md "wikilink")               |
-| [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")           |
+| [Mnet](../Page/Mnet.md "wikilink")                              |
 | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")             |
 | colspan=6 style="background:\#9be6ff | 집으로 가는 길 (Way Back Home) |
 | [MBC Music](../Page/MBC_Plus_Media.md "wikilink")               |
 | 10月21日                                                          |
 | 最高名次：                                                           |
-| [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")           |
+| [Mnet](../Page/Mnet.md "wikilink")                              |
 | 10月22日                                                          |
 | 10月29日                                                          |
 | 11月5日                                                           |
@@ -166,7 +166,7 @@
 | ------------------------------------------------------- | ----- |
 | 實時榜                                                     |       |
 | [MelOn](../Page/Kakao_M.md "wikilink")                  | 2     |
-| [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")   | **1** |
+| [Mnet](../Page/Mnet.md "wikilink")                      | **1** |
 | Bugs                                                    | **1** |
 | Olleh                                                   | **1** |
 | Soribada                                                | **1** |

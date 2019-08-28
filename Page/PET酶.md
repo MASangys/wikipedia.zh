@@ -1,4 +1,4 @@
-**PET酶(PET水解酶，PETase)**是2016年在[日本](../Page/日本.md "wikilink")[堺市](../Page/堺市.md "wikilink")的一處垃圾掩埋場中之*Ideonella sakaiensis*細菌所發現的。\[1\]PET酶能將[PET塑膠降解為其](../Page/聚对苯二甲酸乙二酯.md "wikilink")[單體單](https://zh.wikipedia.org/wiki/單體 "wikilink")-2-羥乙基對苯二甲酸(MHET)分子。MHET在細菌體內會進一步被MHET酶(MHETase)降解為羥乙基對苯二甲酸，接著在水中分解為對環境友善的[對苯二甲酸與](../Page/对苯二甲酸.md "wikilink")[乙二醇](../Page/乙二醇.md "wikilink")，並且可為其他細菌利用，最終產生[二氧化碳](../Page/二氧化碳.md "wikilink")與水。\[2\]
+**PET酶(PET水解酶，PETase)**是由2016年在[日本](../Page/日本.md "wikilink")[堺市](../Page/堺市.md "wikilink")的一處垃圾掩埋場之中所發現的[大阪堺菌](../Page/大阪堺菌.md "wikilink")（*Ideonella sakaiensis*）制造出来的一种[水解酶](../Page/水解酶.md "wikilink")。\[1\]PET酶能將[PET塑膠降解為其](../Page/聚对苯二甲酸乙二酯.md "wikilink")[單體單](https://zh.wikipedia.org/wiki/單體 "wikilink")-2-羥乙基對苯二甲酸(MHET)分子。MHET在細菌體內會進一步被MHET酶(MHETase)降解為羥乙基對苯二甲酸，接著在水中分解為對環境友善的[對苯二甲酸與](../Page/对苯二甲酸.md "wikilink")[乙二醇](../Page/乙二醇.md "wikilink")，並且可為其他細菌利用，最終產生[二氧化碳](../Page/二氧化碳.md "wikilink")與水。\[2\]
 
 PET酶催化的反應式可簡單表示為：\[3\]
 

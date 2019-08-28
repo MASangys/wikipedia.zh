@@ -1,4 +1,4 @@
-《**fromis_的房間**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Mnet的綜藝節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")，由女團[fromis_9全體成員主持與出演](https://zh.wikipedia.org/wiki/fromis_9 "wikilink")\[1\]\[2\]，節目主軸為[fromis_日常生活與合宿為主題的團綜](https://zh.wikipedia.org/wiki/fromis_ "wikilink")\[3\]\[4\]，每週抽出一天，把團隊的舉動24小時記錄，也會在每天上、下午8時進行Facebook Live直播, 像VLive一樣，有個人或團體放送的可能，而所有練習也會在Facebook Live直播，練習內表現最佳的三人可各自準備當日下午8時的FB直播題目。
+《**fromis_的房間**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Mnet](../Page/Mnet.md "wikilink")的綜藝節目，由女團[fromis_9全體成員主持與出演](https://zh.wikipedia.org/wiki/fromis_9 "wikilink")\[1\]\[2\]，節目主軸為[fromis_日常生活與合宿為主題的團綜](https://zh.wikipedia.org/wiki/fromis_ "wikilink")\[3\]\[4\]，每週抽出一天，把團隊的舉動24小時記錄，也會在每天上、下午8時進行Facebook Live直播, 像VLive一樣，有個人或團體放送的可能，而所有練習也會在Facebook Live直播，練習內表現最佳的三人可各自準備當日下午8時的FB直播題目。
 
 ## 課程
 

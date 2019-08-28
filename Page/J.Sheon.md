@@ -88,7 +88,7 @@
 <td><p>2014年6月</p></td>
 <td><p>謝乾乾bboydry</p></td>
 <td><p>Drive</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/謝乾乾" title="wikilink">謝乾乾bboydry</a> / J.Sheon</p></td>
+<td><p><a href="../Page/謝乾乾.md" title="wikilink">謝乾乾</a>bboydry / J.Sheon</p></td>
 <td><p>謝乾乾bboydry / J.Sheon</p></td>
 <td><p><a href="../Page/剃刀蔣.md" title="wikilink">剃刀蔣</a>、謝乾乾、 J.Sheon</p></td>
 <td></td>

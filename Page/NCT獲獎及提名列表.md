@@ -69,11 +69,11 @@
 | ------------------------------------ | ----------------------------------- |
 | [Mnet](../Page/Mnet媒體.md "wikilink") | [KBS](../Page/韓國放送公社.md "wikilink") |
 | 2                                    | 1                                   |
-| 一位總數：9                               | 歌曲總數：0                              |
+| 一位總數：13                              | 歌曲總數：0                              |
 
 ### SBS MTV《[The Show](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")》
 
-|- | rowspan="3" |2017年 | 2月14日 | rowspan="3" |最後的初戀<small>（NCT Dream）</small> |- | 2月21日 |- | 2月28日 |- | rowspan="3" |2018年 | 3月27日 | Touch<small>（NCT 127）</small> |- | 10月16日 | rowspan="2" |Regular<small>（NCT 127）</small> |- | 10月23日 |}
+|- | rowspan="3" |2017年 | 2月14日 | rowspan="3" |最後的初戀<small>（NCT Dream）</small> |- | 2月21日 |- | 2月28日 |- | rowspan="3" |2018年 | 3月27日 | Touch<small>（NCT 127）</small> |- | 10月16日 | rowspan="2" |Regular<small>（NCT 127）</small> |- | 10月23日 |- | rowspan="2" |2019年 | 8月6日 | rowspan="2" |Boom<small>（NCT Dream）</small> |- | 8月13日 |}
 
 ### Mnet《[M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》
 
@@ -81,7 +81,11 @@
 
 ### KBS《[Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》
 
-|- | 2018年 | 10月26日 | Regular<small>（NCT 127）</small> |}
+|- | 2018年 | 10月26日 | Regular<small>（NCT 127）</small> |- | rowspan="1" |2019年 | 6月7日 | Superhuman<small>（NCT 127）</small> |}
+
+### MBC Music《[Show Champion](../Page/Show_Champion.md "wikilink")》
+
+|- | rowspan="1" |2019年 | 6月12日 | Superhuman<small>（NCT 127）</small> |}
 
 ## 參考文獻
 

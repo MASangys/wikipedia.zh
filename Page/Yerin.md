@@ -1,10 +1,10 @@
-**鄭睿隣**\[1\]（，，），藝名**Yerin**（），名字常被錯譯為**藝琳**，[韓國女](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[歌手](../Page/歌手.md "wikilink")，是[Source Music旗下](https://zh.wikipedia.org/wiki/Source_Music "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[GFRIEND](../Page/GFRIEND.md "wikilink")的成員，在隊內擔任領舞、副唱及形象擔當。曾是[Fantagio](../Page/Fantagio.md "wikilink")娛樂、[Cube娛樂](../Page/Cube娛樂.md "wikilink")&**[Kakao M](../Page/Kakao_M.md "wikilink")**的練習生，練習生生涯共4年。
+**鄭睿隣**\[1\]（，，），藝名**Yerin**（），名字常被錯譯為**藝琳**，[韓國女](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[歌手](../Page/歌手.md "wikilink")，是[Source Music旗下](../Page/Source_Music.md "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[GFRIEND](../Page/GFRIEND.md "wikilink")的成員，在隊內擔任領舞、副唱及形象擔當。曾是[Fantagio](../Page/Fantagio.md "wikilink")娛樂、[Cube娛樂](../Page/Cube娛樂.md "wikilink")的練習生，練習生生涯共4年。
 
 ## 生涯
 
 ### 2014年
 
-  - 10月30日，[Source Music官網公開睿隣資料與單人照](https://zh.wikipedia.org/wiki/Source_Music "wikilink")
+  - 10月30日，[Source Music官網公開睿隣資料與單人照](../Page/Source_Music.md "wikilink")
 
 ### 2015年
 
@@ -182,6 +182,6 @@
   -
   - 的V LIVE頻道
 
-[Category:GFRIEND](https://zh.wikipedia.org/wiki/Category:GFRIEND "wikilink") [Category:1996年出生](https://zh.wikipedia.org/wiki/Category:1996年出生 "wikilink") [Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink") [Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink") [Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink") [Category:韓國舞者](https://zh.wikipedia.org/wiki/Category:韓國舞者 "wikilink") [Category:韓國電視演員](https://zh.wikipedia.org/wiki/Category:韓國電視演員 "wikilink") [Category:韓國電視主持人](https://zh.wikipedia.org/wiki/Category:韓國電視主持人 "wikilink") [Category:韩国女演员](https://zh.wikipedia.org/wiki/Category:韩国女演员 "wikilink") [Category:鄭姓](https://zh.wikipedia.org/wiki/Category:鄭姓 "wikilink")
+[Category:GFRIEND](https://zh.wikipedia.org/wiki/Category:GFRIEND "wikilink") [Category:1996年出生](https://zh.wikipedia.org/wiki/Category:1996年出生 "wikilink") [Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink") [Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink") [Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink") [Category:韓國舞者](https://zh.wikipedia.org/wiki/Category:韓國舞者 "wikilink") [Category:韓國電視演員](https://zh.wikipedia.org/wiki/Category:韓國電視演員 "wikilink") [Category:韓國電視主持人](https://zh.wikipedia.org/wiki/Category:韓國電視主持人 "wikilink") [Category:韩国女演员](https://zh.wikipedia.org/wiki/Category:韩国女演员 "wikilink") [Category:仁川廣域市出身人物](https://zh.wikipedia.org/wiki/Category:仁川廣域市出身人物 "wikilink") [Category:鄭姓](https://zh.wikipedia.org/wiki/Category:鄭姓 "wikilink")
 
 1.  [\[스타의 보물SONG\]'여친소' 화제의 걸그룹 '여자친구'의 자기소개](http://www.sportsseoul.com/news/read/270395)

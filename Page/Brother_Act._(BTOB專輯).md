@@ -22,7 +22,7 @@
 
 2017年10月21日，《想念》獲得2017年[Gaon數位下載榜第](../Page/2017年Gaon數位下載冠軍作品列表.md "wikilink")42週週榜冠軍 \[23\]。
 
-2017年10月25日，於[MBC Music](../Page/MBC_Plus_Media.md "wikilink")《[Show Champion](../Page/Show_Champion.md "wikilink")》獲得回歸後首個一位。10月26日，於[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》獲得一位。10月27日，於[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》獲得一位。10月29日，獲得[SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")》初一位 \[24\]。
+2017年10月25日，於[MBC Music](../Page/MBC_Plus_Media.md "wikilink")《[Show Champion](../Page/Show_Champion.md "wikilink")》獲得回歸後首個一位。10月26日，於[Mnet](../Page/Mnet.md "wikilink")《[M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》獲得一位。10月27日，於[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》獲得一位。10月29日，獲得[SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")》初一位 \[24\]。
 
 2017年11月1、2、5日，分別於《Show Champion》、《M Countdown》、《人氣歌謠》連續兩週獲得一位。 \[25\]\[26\]。本次回歸BTOB以《想念》連續獲得一位成為七冠王。
 
@@ -220,11 +220,11 @@ COMEBACK V LIVE</a></p></td>
 | ---------------------------------------------------------- |
 | 電視台                                                        |
 | colspan=6 style="background:\#9be6ff | 신바람 (Blowin' up)    |
-| [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")      |
+| [Mnet](../Page/Mnet.md "wikilink")                         |
 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")        |
 | [MBC Music](../Page/MBC_Plus_Media.md "wikilink")          |
 | colspan=6 style="background:\#9be6ff | 그리워하다 (Missing You) |
-| [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")      |
+| [Mnet](../Page/Mnet.md "wikilink")                         |
 | 10月26日                                                     |
 | 11月2日                                                      |
 | 最高名次：                                                      |
@@ -339,7 +339,7 @@ COMEBACK V LIVE</a></p></td>
 | [MelOn](../Page/Kakao_M.md "wikilink")                  | **1** |
 | [Genie](https://zh.wikipedia.org/wiki/Genie "wikilink") | **1** |
 | Bugs                                                    | **1** |
-| [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")   | 2     |
+| [Mnet](../Page/Mnet.md "wikilink")                      | 2     |
 | [Naver](https://zh.wikipedia.org/wiki/Naver "wikilink") | **1** |
 | Soribada                                                | **1** |
 | Olleh                                                   | **1** |

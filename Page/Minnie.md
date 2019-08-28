@@ -127,10 +127,6 @@ Minnie（민니）在韩国音乐著作权家协会登记编号为[10022029](htt
 
 ## 外部链接
 
-  - 团体官方链接
-
-<!-- end list -->
-
   -
   -
   -
@@ -138,44 +134,6 @@ Minnie（민니）在韩国音乐著作权家协会登记编号为[10022029](htt
 
   - [(G)I-DLE](http://channels.vlive.tv/CE2621)的V LIVE频道
 
-  -
-  -
-  - [(G)I-DLE](http://tw.weibo.com/cubegidle)的新浪微博
-
-<!-- end list -->
-
-  - 经纪公司官方链接
-    Cube娱乐
-
-<!-- end list -->
-
-  - 的官方网站
-
-  -
-  -
-  - [Cube娱乐](https://channels.vlive.tv/FD933/home)的V LIVE频道
-
-  -
-  -
-  - [Cube娱乐](http://tw.weibo.com/cubeent)的新浪微博
-
-  -
-<!-- end list -->
-
-  - Cube娱乐日本
-
-<!-- end list -->
-
-  - 的官方网站
-
-  -
-<!-- end list -->
-
-  - Cube TV
-
-<!-- end list -->
-
-  -
   -
 {{(G)I-DLE}}
 

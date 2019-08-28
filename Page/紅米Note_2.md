@@ -18,13 +18,13 @@
 <tbody>
 <tr class="odd">
 <td><p>系統</p></td>
-<td><p><a href="../Page/Android.md" title="wikilink">Android</a> 5.0</p></td>
+<td><p><a href="../Page/Android.md" title="wikilink">Android</a> 5.0.2</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>介面</p></td>
-<td><p><a href="../Page/MIUI.md" title="wikilink">MIUI</a></p></td>
+<td><p><a href="../Page/MIUI.md" title="wikilink">MIUI</a> 7 (可更新至MIUI 9)</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -90,7 +90,7 @@
 </tr>
 <tr class="even">
 <td><p>電池</p></td>
-<td><p>3020mAh</p></td>
+<td><p>3020mAh Li-Po (可換式)</p></td>
 <td></td>
 <td></td>
 </tr>

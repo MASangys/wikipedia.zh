@@ -119,7 +119,7 @@ TB-3被使用在對[日本的](https://zh.wikipedia.org/wiki/日本帝國 "wikil
   -
   -
   -
-[Category:蘇聯轟炸機](https://zh.wikipedia.org/wiki/Category:蘇聯轟炸機 "wikilink") [Category:圖波列夫](https://zh.wikipedia.org/wiki/Category:圖波列夫 "wikilink") [Category:蘇聯航空器](https://zh.wikipedia.org/wiki/Category:蘇聯航空器 "wikilink")
+[Category:中華民國轟炸機](https://zh.wikipedia.org/wiki/Category:中華民國轟炸機 "wikilink") [Category:蘇聯轟炸機](https://zh.wikipedia.org/wiki/Category:蘇聯轟炸機 "wikilink") [Category:圖波列夫](https://zh.wikipedia.org/wiki/Category:圖波列夫 "wikilink") [Category:蘇聯航空器](https://zh.wikipedia.org/wiki/Category:蘇聯航空器 "wikilink")
 
 1.
 2.

@@ -1,12 +1,11 @@
-《**The Call**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")、[tvN於](https://zh.wikipedia.org/wiki/tvN "wikilink")2018年5月4日推出的音樂綜藝節目，由 [李尚敏](../Page/李尚敏.md "wikilink")、[俞世潤](../Page/俞世潤.md "wikilink")主持，[輝晟](https://zh.wikipedia.org/wiki/輝晟 "wikilink")、[金範洙](../Page/金範洙.md "wikilink")、[金鍾國](https://zh.wikipedia.org/wiki/金鍾國 "wikilink")、[申昇勳](../Page/申昇勳.md "wikilink")等出演。出演者向希望合作的對方，發送Love call邀請的節目，在交錯的Love call之中，經過激烈競爭成功組隊的人，可以正式開始製作新歌。節目由《[看見你的聲音](https://zh.wikipedia.org/wiki/看見你的聲音 "wikilink")》節目組製作，接檔《看見你的聲音5》。\[1\]\[2\]
+《**The Call**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Mnet](../Page/Mnet.md "wikilink")、[tvN推出的音樂綜藝節目](https://zh.wikipedia.org/wiki/tvN "wikilink")，出演者向希望合作的對象，發送Love call邀請，在交錯的Love call中成功組隊後，製作新歌及舞台，節目由《[看見你的聲音](https://zh.wikipedia.org/wiki/看見你的聲音 "wikilink")》節目組製作。\[1\]\[2\] 第一季於2018年5月4日開始，由 [李尚敏](../Page/李尚敏.md "wikilink")、[俞世潤](../Page/俞世潤.md "wikilink")主持，[輝晟](https://zh.wikipedia.org/wiki/輝晟 "wikilink")、[金範洙](../Page/金範洙.md "wikilink")、[金鍾國](https://zh.wikipedia.org/wiki/金鍾國 "wikilink")、[申昇勳](../Page/申昇勳.md "wikilink")等出演。 第二季於2019年7月5日開始，由[金鍾國主持](https://zh.wikipedia.org/wiki/金鍾國 "wikilink")，[尹鍾信](../Page/尹鍾信.md "wikilink")、[尹敏洙](../Page/尹敏洙.md "wikilink")、[UV](https://zh.wikipedia.org/wiki/UV_\(男子組合\) "wikilink") 、[韶宥等出演](https://zh.wikipedia.org/wiki/韶宥 "wikilink")。
 
 ## 節目形式
 
   - 《看見你的聲音》製作組準備的《The Call》是音樂人合作節目，描寫各種世代和風格的藝人們組成搭檔並完成音樂的過程。
-  - 曾製作《Show Me The Money》、《看見你的聲音》的李善英CP表示：「《看見你的聲音》是普通出演者實現夢想的舞台，《The Call》目標則是藝人完成合作。歌手們用音樂愉快進行交流，像《看見你的聲音》同時呈現樂趣和感動，抓住出演者與觀眾們的心。」
-  - 第一輪出演者，[申昇勳](../Page/申昇勳.md "wikilink")、[金鍾國](https://zh.wikipedia.org/wiki/金鍾國 "wikilink")、[金範洙](../Page/金範洙.md "wikilink") 、 [輝晟](https://zh.wikipedia.org/wiki/輝晟 "wikilink")，分別為四組隊伍，每一輪競爭邀請不同出演者合作。\[3\]
-  - 現場觀眾投票選出「Best Couple 」。
-  - 製作的新歌會於節目第二日發佈音源，《The Call Project 1 - 5》。
+  - 曾製作《Show Me The Money》、《看見你的聲音》的李善英CP表示：「《看見你的聲音》是普通出演者實現夢想的舞台，《The Call》目標則是藝人完成合作。歌手們用音樂愉快進行交流，像《看見你的聲音》同時呈現樂趣和感動，抓住出演者與觀眾們的心。」\[3\]
+  - 每場由現場觀眾投票選出「Best Couple 」。
+  - 製作的新歌會於播出第二日發佈音源，專輯名為《The Call Project》。
 
 ## 第一季
 
@@ -259,6 +258,37 @@ To Be Continued</p></td>
 </tbody>
 </table>
 
+## 第二季
+
+### 出演歌手
+
+| 加入時間                                                                                           | 出演歌手       | 備註 |
+| ---------------------------------------------------------------------------------------------- | ---------- | -- |
+| 1st Line Up                                                                                    |            |    |
+| [金鍾國](https://zh.wikipedia.org/wiki/金鍾國 "wikilink")                                            | Matcher MC |    |
+| [尹鍾信](../Page/尹鍾信.md "wikilink")                                                               | MC         |    |
+| [尹敏洙](../Page/尹敏洙.md "wikilink")                                                               | MC         |    |
+| [UV](https://zh.wikipedia.org/wiki/UV_\(男子組合\) "wikilink") ([俞世潤](../Page/俞世潤.md "wikilink") ) | MC         |    |
+| [韶宥](https://zh.wikipedia.org/wiki/韶宥 "wikilink")                                              | MC         |    |
+| 2nd Line Up                                                                                    |            |    |
+| [Cheetah](../Page/Cheetah.md "wikilink")                                                       |            |    |
+| [N.Flying](../Page/N.Flying.md "wikilink")                                                     |            |    |
+| [Tiger JK](../Page/醉虎幫.md "wikilink") & Bizzy                                                  | Special S  |    |
+| Noel                                                                                           |            |    |
+| 3rd Line Up                                                                                    |            |    |
+| [黃致列](../Page/黃致列.md "wikilink")                                                               | Special S  |    |
+| [DinDin](../Page/DinDin.md "wikilink")                                                         |            |    |
+| [河東均](../Page/河東均.md "wikilink")                                                               |            |    |
+| Kim Feel                                                                                       |            |    |
+| [Lyn](../Page/Lyn_\(歌手\).md "wikilink")                                                        |            |    |
+| 4th Line Up                                                                                    |            |    |
+| [Hui](../Page/李會澤.md "wikilink") （[PENTAGON](../Page/Pentagon_\(男子組合\).md "wikilink")）         |            |    |
+| [宥斌](https://zh.wikipedia.org/wiki/宥斌 "wikilink")                                              |            |    |
+| Hangzoo                                                                                        |            |    |
+| 金賢哲                                                                                            |            |    |
+| [白虎](../Page/姜東昊.md "wikilink") （[NU'EST](../Page/NU'EST.md "wikilink")）                       |            |    |
+| 홍자(HONG JA)                                                                                    |            |    |
+
 ## 收視率
 
 ### 第一季
@@ -280,17 +310,19 @@ To Be Continued</p></td>
 
 ### 第二季
 
-| 总集数          | 集数            | 播出日期                                                         | Mnet | tvN |
-| ------------ | ------------- | ------------------------------------------------------------ | ---- | --- |
-| AGB收视率\[11\] | TNmS收视率\[12\] | AGB收视率\[13\]                                                 |      |     |
-| 全國           | 全國            | 全國                                                           | 首都圈  |     |
-| 9            | 1             | 2019/07/05                                                   | 0.4% | %   |
-| 10           | 2             | 2019/07/12                                                   | 0.3% | %   |
-|              | 2019/07/19    | **直播[PRODUCE X 101決賽](../Page/PRODUCE_X_101.md "wikilink")** |      |     |
-| 11           | 3             | 2019/07/26                                                   | 0.5% | %   |
-| 12           | 4             | 2019/08/02                                                   | %    | %   |
-| 13           | 5             | 2019/08/09                                                   | %    | %   |
-|              |               |                                                              |      |     |
+| 總集数                                | 集数                                                  | 播出日期                                                         | [AGB收視率](https://zh.wikipedia.org/wiki/AC尼爾森 "wikilink")\[11\]\[12\] |
+| ---------------------------------- | --------------------------------------------------- | ------------------------------------------------------------ | -------------------------------------------------------------------- |
+| [Mnet](../Page/Mnet.md "wikilink") | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") |                                                              |                                                                      |
+| 全國                                 | 全國                                                  | 首都圈                                                          |                                                                      |
+| 9                                  | 1                                                   | 2019/07/05                                                   | 0.4%                                                                 |
+| 10                                 | 2                                                   | 2019/07/12                                                   | 0.3%                                                                 |
+|                                    | 2019/07/19                                          | **直播[Produce X101總決賽](../Page/PRODUCE_X_101.md "wikilink")** |                                                                      |
+| 11                                 | 3                                                   | 2019/07/26                                                   | 0.5%                                                                 |
+| 12                                 | 4                                                   | 2019/08/02                                                   | 0.2%                                                                 |
+| 13                                 | 5                                                   | 2019/08/09                                                   | 0.3%                                                                 |
+| 14                                 | 6                                                   | 2019/08/16                                                   | 0.3%                                                                 |
+| 15                                 | 7                                                   | 2019/08/23                                                   | %                                                                    |
+|                                    |                                                     |                                                              |                                                                      |
 
 ## 参考資料
 
@@ -327,4 +359,3 @@ To Be Continued</p></td>
 
 11.
 12.
-13.

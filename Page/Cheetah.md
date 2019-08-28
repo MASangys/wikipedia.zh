@@ -339,6 +339,7 @@ Cheetah于2015年8月2日推出了《Unpretty Rapstar》节目结束后的第一
 | 7月12日        | [現場脫口秀Taxi](../Page/現場脫口秀Taxi.md "wikilink")\[34\]             | [tvN](../Page/TVN.md "wikilink")                                      | 嘉宾                                   |     |
 | 2018         | 6月15日-8月31日                                                    | [PRODUCE 48](../Page/PRODUCE_48.md "wikilink")                        | [Mnet](../Page/Mnet媒體.md "wikilink") | 導師  |
 | 2019         | 5月3日-7月19日                                                     | [PRODUCE X101](https://zh.wikipedia.org/wiki/PRODUCE_X101 "wikilink") | [Mnet](../Page/Mnet媒體.md "wikilink") | 導師  |
+|              | [The Call](../Page/The_Call.md "wikilink") 第二季                 | [Mnet](../Page/Mnet媒體.md "wikilink")                                  | 嘉宾                                   |     |
 
 ## 参考资料
 

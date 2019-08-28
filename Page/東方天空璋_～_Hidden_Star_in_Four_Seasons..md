@@ -111,8 +111,8 @@ Into Crazy Back Door</p></td>
 <tr class="even">
 <td><p>最終關</p></td>
 <td></td>
-<td><p>切勿打開，切勿窺看<br />
-後門之中別有秘天<br />
+<td><p>勿開啟之、勿窺探之<br />
+身後之門藏有祕天<br />
 Hidden Star in Four Seasons</p></td>
 <td><p>後戶之國（）</p></td>
 <td><p>-</p></td>

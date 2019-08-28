@@ -326,7 +326,7 @@
 <td><p>손끝의 사랑</p></td>
 <td><p>손끝의 사랑(The Love of Fingertips)</p></td>
 <td><p>全體</p></td>
-<td><p><a href="../Page/B1A4.md" title="wikilink">B1A4</a>, <a href="../Page/徐恩光.md" title="wikilink">徐恩光</a>, <a href="../Page/李昌燮.md" title="wikilink">李昌燮</a>, <a href="../Page/許齡智.md" title="wikilink">許齡智</a>, <a href="../Page/A-JAX.md" title="wikilink">A-JAX</a>, <a href="https://zh.wikipedia.org/wiki/APRIL_(女子團體)" title="wikilink">APRIL</a>, Kassy</p></td>
+<td><p><a href="../Page/B1A4.md" title="wikilink">B1A4</a>, <a href="../Page/徐恩光.md" title="wikilink">徐恩光</a>, <a href="../Page/李昌燮.md" title="wikilink">李昌燮</a>, <a href="../Page/許齡智.md" title="wikilink">許齡智</a>, <a href="../Page/A-JAX.md" title="wikilink">A-JAX</a>, <a href="../Page/APRIL_(女子團體).md" title="wikilink">APRIL</a>, Kassy</p></td>
 <td></td>
 </tr>
 <tr class="odd">

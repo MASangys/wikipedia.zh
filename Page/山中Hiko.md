@@ -1,4 +1,4 @@
-**山中Hiko**（，），[日本](../Page/日本.md "wikilink")女性[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")、[插畫家](https://zh.wikipedia.org/wiki/插畫家 "wikilink")。[血型](https://zh.wikipedia.org/wiki/血型 "wikilink")[O型](https://zh.wikipedia.org/wiki/ABO血型系統 "wikilink")\[1\]。她的作品主要在[BL雜誌](../Page/BL_\(和製英語\).md "wikilink")\[2\]和女性雜誌\[3\]發表。
+**山中Hiko**（，），[日本](../Page/日本.md "wikilink")女性[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")、[插畫家](https://zh.wikipedia.org/wiki/插畫家 "wikilink")。O型[血](https://zh.wikipedia.org/wiki/血型 "wikilink")\[1\]。她的作品主要在[BL雜誌](../Page/BL_\(和製英語\).md "wikilink")\[2\]和女性雜誌\[3\]發表。
 
 ## 作品列表
 
@@ -27,24 +27,24 @@
 <tr class="even">
 <td><p>王子與小鳥（）</p></td>
 <td><p><a href="../Page/芳文社.md" title="wikilink">芳文社</a></p></td>
-<td><p>全1冊</p></td>
 <td><p>2009年8月29日</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>丸角屋嫁</p></td>
 <td><p>新書館</p></td>
-<td><p>全1冊</p></td>
 <td><p>2009年9月30日</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>森文大學男子宿舍物語<br />
 （）</p></td>
 <td><p></p></td>
-<td><p>全1冊</p></td>
 <td><p>2009年10月8日</p></td>
 <td><p>後來在2014年10月8日發行新裝版</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>ENDGAME<br />
@@ -52,7 +52,7 @@
 <td><p>新書館</p></td>
 <td><p>1</p></td>
 <td><p>2010年7月30日</p></td>
-<td></td>
+<td><p>全2冊</p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
@@ -101,13 +101,15 @@
 <tr class="even">
 <td><p>500年</p></td>
 <td><p>祥傳社</p></td>
-<td><p>全1冊</p></td>
 <td><p>2012年7月25日</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td><p>講談社</p></td>
+<td><p><br />
+（）</p></td>
+<td><p>講談社<br />
+ <a href="../Page/青文出版社.md" title="wikilink">青文出版社</a></p></td>
 <td><p>1</p></td>
 <td><p>2014年5月7日</p></td>
 <td><p>全5冊</p></td>
@@ -178,7 +180,7 @@
  <a href="../Page/獨步文化.md" title="wikilink">獨步文化</a></p></td>
 <td><p>2008年10月29日－<strong>連載中</strong></p></td>
 <td><p>單行本已發行5冊（2015年9月）<br />
-文庫本已發行5冊（2017年1月）<br />
+文庫本已發行正傳5冊+外傳1冊（2017年1月）<br />
 2013年6月起發行新封面插圖版[4]</p></td>
 </tr>
 <tr class="even">
@@ -210,6 +212,14 @@
 <td><p>2016年11月18日</p></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>瑞秋（）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/達夫妮·杜穆里埃" title="wikilink">達夫妮·杜穆里埃</a><br />
+務台夏子（翻譯）</p></td>
+<td><p></p></td>
+<td><p>2019年（期間限定）</p></td>
+<td><p>負責創元推理文庫60週年紀念的封面插圖[5]</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -219,13 +229,13 @@
   - 丸角屋嫁（2012年8月31日，新書館）
   - 500年の営み（2013年2月27日，）
 
-## 來源
+## 參考來源
 
 ## 外部連結
 
   -
 
-[Category:日本漫畫家](https://zh.wikipedia.org/wiki/Category:日本漫畫家 "wikilink") [Category:BL漫畫家](https://zh.wikipedia.org/wiki/Category:BL漫畫家 "wikilink") [Category:日本插畫家](https://zh.wikipedia.org/wiki/Category:日本插畫家 "wikilink") [Category:生年不詳](https://zh.wikipedia.org/wiki/Category:生年不詳 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
+[Category:日本漫畫家](https://zh.wikipedia.org/wiki/Category:日本漫畫家 "wikilink") [Category:BL漫畫家](https://zh.wikipedia.org/wiki/Category:BL漫畫家 "wikilink") [Category:日本插畫家](https://zh.wikipedia.org/wiki/Category:日本插畫家 "wikilink")
 
 1.
 2.
@@ -233,3 +243,5 @@
 3.
 
 4.
+
+5.

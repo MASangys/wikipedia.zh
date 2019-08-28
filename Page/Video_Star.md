@@ -912,7 +912,7 @@
 <tr class="even">
 <td><p>108</p></td>
 <td><p>8月28日</p></td>
-<td><p>、<a href="../Page/張東民.md" title="wikilink">張東民</a>、、<a href="../Page/神童_(藝人).md" title="wikilink">神童</a>（<a href="../Page/Super_Junior.md" title="wikilink">Super Junior</a>）</p></td>
+<td><p><a href="../Page/卓在勳.md" title="wikilink">卓在勳</a>、<a href="../Page/張東民.md" title="wikilink">張東民</a>、、<a href="../Page/神童_(藝人).md" title="wikilink">神童</a>（<a href="../Page/Super_Junior.md" title="wikilink">Super Junior</a>）</p></td>
 <td></td>
 <td></td>
 </tr>

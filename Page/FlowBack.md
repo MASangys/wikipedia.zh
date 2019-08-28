@@ -258,7 +258,8 @@ ALWAYS -Instrumental-（通常盤限定）</p></td>
 <td><p>CD+DVD<br />
 CD</p></td>
 <td><p>KSCL-2917～2918<br />
-KSCL-2919～2920&lt;br /KSCL-2921</p></td>
+KSCL-2919～2920<br />
+KSCL-2921</p></td>
 <td><p>VERSUS<br />
 Come A Long Way<br />
 FAMOUS<br />

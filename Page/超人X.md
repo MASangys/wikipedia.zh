@@ -270,7 +270,7 @@ Xio（Xeno invasion outcutters；異種入侵防衛戰鬥部隊）是為了對�
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/梁雪華" title="wikilink">梁雪華</a></p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/幽舞越山" title="wikilink">幽舞越山</a></p></td>
+<p><a href="../Page/幽舞越山.md" title="wikilink">幽舞越山</a></p></td>
 </tr>
 <tr class="even">
 <td><center></td>

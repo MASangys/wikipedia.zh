@@ -305,7 +305,7 @@ UDI的財源主要來自政府補助金，隨時可能關門大吉，但他並�
 </tr>
 <tr class="even">
 <td><p>店長</p></td>
-<td></td>
+<td><p><a href="../Page/株元英彰.md" title="wikilink">株元英彰</a></p></td>
 <td><p><a href="../Page/陳灝瑋.md" title="wikilink">陳灝瑋</a></p></td>
 <td><p>三毛打工地方的店長，由於米可是前店長雇用，所以他不清楚三毛的真實姓名。</p></td>
 </tr>

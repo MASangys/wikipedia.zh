@@ -1,4 +1,6 @@
-**Idol School**是一个在2015年于中国上海成立的少女偶像组合，目前共有8名正式成员与4名练习生。
+上海辰霜影視文化有限公司 | 官方網站 = <http://www.idolschool.cn/> | 現任成員 = 請參照[在籍成員](https://zh.wikipedia.org/wiki/Idol_School#在籍成員 "wikilink") | 過往成員 = 請參照[離團成員](https://zh.wikipedia.org/wiki/Idol_School#離團成員 "wikilink") }}
+
+**Idol School**是一个在2015年于中国上海成立的少女偶像组合，目前共有6名正式成员与4名练习生。
 
 ## 略歷
 
@@ -57,7 +59,7 @@
   - 11月13日，Class Bridge成員張曉文宣布畢業。
   - 11月20日，舉行張曉文畢業公演。
   - 11月27日，Class Flower第一季公演《Phoenix》首演。
-  - 12月31日，在上海虹橋演藝中心舉辦名為「Idol School×暴走嘉年華 FIRST LIGHT 2017跨年演唱會暨紅鼻子慈善夜」的演唱會，并舉辦首次猜拳大賽。
+  - 12月31日，在上海虹橋天地演藝中心舉辦名為「Idol School×暴走嘉年華 FIRST LIGHT 2017跨年演唱會暨紅鼻子慈善夜」的演唱會，并舉辦首次猜拳大賽。
 
 <!-- end list -->
 
@@ -118,6 +120,9 @@
   - 4月11日，Class River成員鄒汭伽宣佈畢業。
   - 5月10日，Class Bridge成員俞璐宣佈畢業。
   - 5月19日，Class Bridge成員謝婉婷宣佈畢業。
+  - 8月5日，Class Bridge成員周雪宣佈畢業。
+  - 8月11日，宣佈更換組合運營公司。
+  - 8月13日，宣佈即日起從女團業務轉型偶像培訓業務，并啟動第一期培訓生招募，原IdolSchool組合在籍成員移籍關聯組合「BRF179」。
 
 ## 成員名單
 
@@ -126,7 +131,7 @@
 #### Class Bridge
 
   - 代表色為紫色
-  - 共3人
+  - 共2人
 
 <table>
 <thead>
@@ -162,15 +167,6 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>周雪</p></td>
-<td></td>
-<td></td>
-<td><p>黑龍江哈爾濱</p></td>
-<td><p>1期</p></td>
-<td><p>班長</p></td>
-<td></td>
-</tr>
-<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -344,7 +340,8 @@
 
 ### 離團成員
 
-  - 共51人
+  - 共52人
+  - 按離團時間排序
 
 <table>
 <thead>
@@ -670,6 +667,15 @@ Class Flower兼任</p></td>
 <td><p>Class Bridge</p></td>
 </tr>
 <tr class="odd">
+<td><p>周雪</p></td>
+<td></td>
+<td></td>
+<td><p>黑龍江哈爾濱</p></td>
+<td><p>1期</p></td>
+<td><p>2019年8月5日</p></td>
+<td><p>Class Bridge</p></td>
+</tr>
+<tr class="even">
 <td><p>李子倩</p></td>
 <td></td>
 <td></td>
@@ -678,7 +684,7 @@ Class Flower兼任</p></td>
 <td><p>未知</p></td>
 <td><p>Class Bridge</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>李飛燕</p></td>
 <td></td>
 <td></td>
@@ -687,7 +693,7 @@ Class Flower兼任</p></td>
 <td><p>未知</p></td>
 <td><p>Class River</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>汪燕姿</p></td>
 <td></td>
 <td></td>
@@ -696,7 +702,7 @@ Class Flower兼任</p></td>
 <td><p>未知</p></td>
 <td><p>Class River</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>聶依格</p></td>
 <td></td>
 <td></td>
@@ -705,7 +711,7 @@ Class Flower兼任</p></td>
 <td><p>未知</p></td>
 <td><p>Class River</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>蔣佩佩</p></td>
 <td></td>
 <td></td>
@@ -714,7 +720,7 @@ Class Flower兼任</p></td>
 <td><p>未知</p></td>
 <td><p>Class Flower</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>安奕菲</p></td>
 <td></td>
 <td></td>
@@ -723,7 +729,7 @@ Class Flower兼任</p></td>
 <td><p>未知</p></td>
 <td><p>Class Flower</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>鄭婉璐</p></td>
 <td></td>
 <td></td>
@@ -732,7 +738,7 @@ Class Flower兼任</p></td>
 <td><p>未知</p></td>
 <td><p>Class River</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>陳瑩</p></td>
 <td></td>
 <td></td>
@@ -741,7 +747,7 @@ Class Flower兼任</p></td>
 <td><p>未知</p></td>
 <td><p>Class River</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>馬淇雯</p></td>
 <td></td>
 <td></td>
@@ -750,7 +756,7 @@ Class Flower兼任</p></td>
 <td><p>未知</p></td>
 <td><p>未分配</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>茹馮媛</p></td>
 <td></td>
 <td></td>
@@ -759,7 +765,7 @@ Class Flower兼任</p></td>
 <td><p>未知</p></td>
 <td><p>未分配</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>徐晓雨</p></td>
 <td></td>
 <td><p>未知</p></td>
@@ -768,7 +774,7 @@ Class Flower兼任</p></td>
 <td><p>未知</p></td>
 <td><p>未分配</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>朱琳</p></td>
 <td></td>
 <td></td>
@@ -777,7 +783,7 @@ Class Flower兼任</p></td>
 <td><p>未知</p></td>
 <td><p>未分配</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>管天天</p></td>
 <td></td>
 <td></td>
@@ -786,7 +792,7 @@ Class Flower兼任</p></td>
 <td><p>未知</p></td>
 <td><p>未分配</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>梅馨茹</p></td>
 <td></td>
 <td><p>未知</p></td>
@@ -795,7 +801,7 @@ Class Flower兼任</p></td>
 <td><p>未知</p></td>
 <td><p>未分配</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>

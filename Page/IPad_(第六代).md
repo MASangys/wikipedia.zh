@@ -1,4 +1,4 @@
-**第六代iPad**（正式名稱僅為**iPad**，而為**iPad 6俗稱）**是一台由[蘋果公司所開發](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")、銷售的[平板電腦](../Page/平板電腦.md "wikilink")，並於2018年3月27日，在蘋果公司於[芝加哥](../Page/芝加哥.md "wikilink")舉辦的教育春季發表會正式發佈，存在著不同的称呼（**第六代iPad**、**iPad 2018**以及作為俗稱的**iPad 6**）。此iPad為2017年發表的[iPad (第五代)的升級版](https://zh.wikipedia.org/wiki/iPad_\(第五代\) "wikilink")，採用蘋果A10 Fusion處理器，並加入對[Apple Pencil的支援](../Page/Apple_Pencil.md "wikilink")。\[1\]\[2\]\[3\]
+**iPad (第 6 代)**\[1\]是一台由[蘋果公司所開發](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")、銷售的[平板電腦](../Page/平板電腦.md "wikilink")，並於2018年3月27日，在蘋果公司於[芝加哥](../Page/芝加哥.md "wikilink")舉辦的教育春季發表會正式發佈，存在著不同的称呼（**第六代iPad**、**iPad 2018**以及作為俗稱的**iPad 6**）。此iPad為2017年發表的[iPad (第五代)的升級版](https://zh.wikipedia.org/wiki/iPad_\(第五代\) "wikilink")，採用蘋果A10 Fusion處理器，並加入對[Apple Pencil的支援](../Page/Apple_Pencil.md "wikilink")。\[2\]\[3\]\[4\]
 
 ## 特色
 
@@ -6,7 +6,7 @@
 
   - Apple Pencil
 
-頂端的磁性護蓋內有[Lightning接頭](https://zh.wikipedia.org/wiki/Lightning接頭 "wikilink")，可為 Apple Pencil 充電。Apple Pencil具壓力感應器及兩個斜度感應器，帶來真實書寫觸感\[4\] 。
+頂端的磁性護蓋內有[Lightning接頭](https://zh.wikipedia.org/wiki/Lightning接頭 "wikilink")，可為 Apple Pencil 充電。Apple Pencil具壓力感應器及兩個斜度感應器，帶來真實書寫觸感\[5\] 。
 
   - Logitech Crayon
 
@@ -40,7 +40,8 @@
 
 [Category:IPad](https://zh.wikipedia.org/wiki/Category:IPad "wikilink") [Category:IOS](https://zh.wikipedia.org/wiki/Category:IOS "wikilink") [Category:蘋果公司](https://zh.wikipedia.org/wiki/Category:蘋果公司 "wikilink") [Category:2018年面世的產品](https://zh.wikipedia.org/wiki/Category:2018年面世的產品 "wikilink")
 
-1.  \[<https://technews.tw/2018/03/28/2018-apple-education-event/> 蘋果 2018 教育發表會：新款 9.7 吋 iPad 2018支援 Apple Pencil，售價台幣 10,900 元起\]
-2.
+1.
+2.  \[<https://technews.tw/2018/03/28/2018-apple-education-event/> 蘋果 2018 教育發表會：新款 9.7 吋 iPad 2018支援 Apple Pencil，售價台幣 10,900 元起\]
 3.
 4.
+5.

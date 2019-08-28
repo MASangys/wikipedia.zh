@@ -4,7 +4,7 @@
 
 ## FiveThirtyEight文章
 
-[Category:美国选举](https://zh.wikipedia.org/wiki/Category:美国选举 "wikilink") [Category:2008年美國建立](https://zh.wikipedia.org/wiki/Category:2008年美國建立 "wikilink")
+[Category:美国选举](https://zh.wikipedia.org/wiki/Category:美国选举 "wikilink") [Category:2008年美國建立](https://zh.wikipedia.org/wiki/Category:2008年美國建立 "wikilink") [Category:政治博客](https://zh.wikipedia.org/wiki/Category:政治博客 "wikilink")
 
 1.
 2.

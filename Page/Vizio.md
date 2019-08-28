@@ -16,14 +16,14 @@
 
 2017年4月10日，原先欲併購Vizio的中國[樂視因面臨嚴重財務風暴](https://zh.wikipedia.org/wiki/樂視 "wikilink")，宣布放棄併購。\[1\]
 
-2018年6月20日，[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[鴻海科技集團](../Page/鴻海科技集團.md "wikilink")旗下的[鴻海精密](../Page/鴻海精密.md "wikilink")子公司AFE, INC.與[緯創光電](https://zh.wikipedia.org/wiki/緯創光電 "wikilink")，宣布投資入股Vizio，各投資以每單位價格48.52美元 (折合新台幣1464.91元)持股，各持股為持股92萬7452股、51.52萬股，持股各比例 4.14%、3.1%(持股比例總合合計為7.24%)，金額將近[新台幣](https://zh.wikipedia.org/wiki/新台幣 "wikilink")20.93 億元。突顯鴻海對於北美市場布局戰線由[威斯康辛州](../Page/威斯康辛州.md "wikilink")面板廠、整機到品牌一條龍的局。\[2\]
+2018年6月20日，[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[鴻海科技集團](../Page/鴻海科技集團.md "wikilink")旗下的[鴻海精密](../Page/鴻海精密.md "wikilink")子公司AFE, INC.與[群創光電](../Page/群創光電.md "wikilink")，宣布投資入股Vizio，各投資以每單位價格48.52美元 (折合新台幣1464.91元)持股，各持股為持股92萬7452股、51.52萬股，持股各比例 4.14%、3.1%(持股比例總合合計為7.24%)，金額將近[新台幣](https://zh.wikipedia.org/wiki/新台幣 "wikilink")20.93 億元。突顯鴻海對於北美市場布局戰線由[威斯康辛州](../Page/威斯康辛州.md "wikilink")面板廠、整機到品牌一條龍的局。\[2\]
 
 ## 相關條目
 
   - [王蔚](https://zh.wikipedia.org/wiki/:王蔚 "wikilink")
   - [吳春福](../Page/吳春福.md "wikilink")
   - [鴻海科技集團](../Page/鴻海科技集團.md "wikilink")
-  - [緯創光電](https://zh.wikipedia.org/wiki/緯創光電 "wikilink")
+  - [群創光電](../Page/群創光電.md "wikilink")
   - [樂視](https://zh.wikipedia.org/wiki/樂視 "wikilink")
   - [郭台銘](../Page/郭台銘.md "wikilink")
 

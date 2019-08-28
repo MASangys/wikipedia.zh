@@ -6,6 +6,6 @@
 
 ## 重製及改版
 
-2017年10月中旬重製 2019年10月中旬改為第四季
+2017年10月中旬重製 2019年10月初改為第四季
 
 [Category:2016年电子游戏](https://zh.wikipedia.org/wiki/Category:2016年电子游戏 "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink") [Category:NBA_Live系列](https://zh.wikipedia.org/wiki/Category:NBA_Live系列 "wikilink")

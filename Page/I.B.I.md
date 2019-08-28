@@ -207,7 +207,7 @@
 <tr class="odd">
 <td><p>2016</p></td>
 <td><p>1月22日－4月1日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>《<a href="../Page/PRODUCE_101.md" title="wikilink">PRODUCE 101</a>》</p></td>
 <td><p>慧里</p></td>
 <td><p>最終排名：12</p></td>
@@ -279,7 +279,7 @@ tagTV</p></td>
 </tr>
 <tr class="even">
 <td><p>7月15日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>《連線好朋友 I.O.I》</p></td>
 <td><p>海印、昭希、秀炫、慧里</p></td>
 <td></td>

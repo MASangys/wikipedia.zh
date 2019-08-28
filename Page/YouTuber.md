@@ -1,8 +1,8 @@
-**YouTuber**，是指YouTube[網路紅人或YouTube影片創作者](https://zh.wikipedia.org/wiki/網路紅人 "wikilink")。若只為於[社群媒體](https://zh.wikipedia.org/wiki/社群媒體 "wikilink")（[YouTube](../Page/YouTube.md "wikilink")）分享個人之人、事、時、地及物者，較宜以「創作者」稱呼。若為專業的官方頻道則不適合使用此一稱呼，雖然專業的官方頻道會產生較多的影片，但是使用者用戶的內容卻更受到歡迎。\[1\]熱門的頻道會佔據絕大多數的觀看次數。\[2\]
+**YouTuber**，是指YouTube[網路紅人或](https://zh.wikipedia.org/wiki/網路紅人 "wikilink")[YouTube](../Page/YouTube.md "wikilink")影片創作者。若只為於[社群媒體](https://zh.wikipedia.org/wiki/社群媒體 "wikilink")（[YouTube](../Page/YouTube.md "wikilink")）分享個人之人、事、時、地及物者，較宜以「創作者」稱呼。若為專業的官方頻道則不適合使用此一稱呼，雖然專業的官方頻道會產生較多的[影片](https://zh.wikipedia.org/wiki/影片 "wikilink")，但是使用者用戶的內容卻更受到歡迎。\[1\]熱門的頻道會佔據絕大多數的觀看次數。\[2\]
 
 ## 定义
 
-YouTuber一詞源自於[YouTube](../Page/YouTube.md "wikilink")與英語[詞尾](https://zh.wikipedia.org/wiki/詞尾 "wikilink")“er”（表某[職業](../Page/職業.md "wikilink")之意）組成，指其主要或唯一视频分享平台为YouTube频道的人\[3\]
+[YouTuber](../Page/YouTuber.md "wikilink")一詞源自於[YouTube](../Page/YouTube.md "wikilink")與[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")[詞尾](https://zh.wikipedia.org/wiki/詞尾 "wikilink")“er”（表某[職業](../Page/職業.md "wikilink")之意）組成，指其主要或唯一[视频](../Page/视频.md "wikilink")分享[平台](../Page/平台.md "wikilink")为YouTube频道的人\[3\]
 
 ## 收入
 
@@ -14,12 +14,12 @@ YouTuber利用[Google](../Page/Google.md "wikilink")的[AdSense](https://zh.wiki
 
 YouTuber們常常互相合作拍攝影片。當YouTuber在YouTube上的[頻道訂閱人數到達一定人數](https://zh.wikipedia.org/wiki/頻道 "wikilink")，[Google](../Page/Google.md "wikilink")即會贈送創作者獎以示鼓勵，等級如下：\[5\]
 
-  - 白銀創作者獎 - 十萬訂閱
-  - 鑠金創作者獎 - 百萬訂閱
-  - 鑽石創作者獎 - 千萬訂閱
-  - 紅寶石創作者獎 - 五千萬訂閱
+  - 白[銀](../Page/銀.md "wikilink")創作者獎 - 十萬訂閱
+  - 鑠[金](../Page/金.md "wikilink")創作者獎 - 百萬訂閱
+  - [鑽石創作者獎](https://zh.wikipedia.org/wiki/鑽石 "wikilink") - 千萬訂閱
+  - [紅寶石創作者獎](https://zh.wikipedia.org/wiki/紅寶石 "wikilink") - 五千萬訂閱
 
-隨著YouTube原創影片的蓬勃發展，YouTuber的專業分工也漸趨專業，例如日本知名YouTuber [HIKAKIN](../Page/HIKAKIN.md "wikilink")便為日本YouTuber們創立了一經紀公司「[UUUM](https://zh.wikipedia.org/wiki/UUUM "wikilink")」。
+隨著YouTube原創影片的蓬勃發展，YouTuber的專業分工也漸趨專業，例如[日本](../Page/日本.md "wikilink")知名YouTuber [HIKAKIN](../Page/HIKAKIN.md "wikilink")便為日本YouTuber們創立了一[經紀公司](../Page/經紀公司.md "wikilink")「[UUUM](https://zh.wikipedia.org/wiki/UUUM "wikilink")」。
 
 ## 虛擬YouTuber
 

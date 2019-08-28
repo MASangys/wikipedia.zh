@@ -643,7 +643,7 @@ AVCG-70113</p></td>
 </tr>
 <tr class="even">
 <td><p>2018年-2019</p></td>
-<td><p>Larger|lol live tour 2019（仮）</p></td>
+<td><p>Larger|lol live tour 2019 -lightning-</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavContent" style="text-align:center;">
 <p>11月8日 大阪 梅田CLUB QUATTRO<br />

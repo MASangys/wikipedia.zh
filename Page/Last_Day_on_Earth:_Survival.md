@@ -16,25 +16,25 @@
 
 ## 開發與發行
 
-遊戲實際上其實尚未完成，仍處於[測試階段](https://zh.wikipedia.org/wiki/軟件版本週期#Beta "wikilink")。\[8\]但儘管如此，截至2017年末，這遊戲已經吸引了七千萬用戶下載。\[9\]
+遊戲實際上其實尚未完成，仍處於[測試階段](https://zh.wikipedia.org/wiki/軟件版本週期#Beta "wikilink")。\[8\]但儘管如此，截至2019年初，這遊戲已經吸引了九千六百萬用戶下載。
 
 ## 評價
 
 ### 銷售
 
-截至2017年末（遊戲開售的7個月後），該遊戲下載人次已達七千萬。\[10\]
+截至2019年初（遊戲開售的18個月後），該遊戲下載人次已達九千六百萬。
 
 ### 評價
 
-本遊戲於多個評論及匯總網站上獲得偏高的評分。[遊民星空給予本遊戲](https://zh.wikipedia.org/wiki/遊民星空 "wikilink")7.8分。\[11\] [Gamezebo](../Page/Gamezebo.md "wikilink")給予本遊戲4星評價。\[12\] [Gamefaqs給予本遊戲](https://zh.wikipedia.org/wiki/Gamefaqs "wikilink")3.5/5分。\[13\] Whatoplay對本遊戲的[Android](../Page/Android.md "wikilink")和[iOS版本分別給出了](https://zh.wikipedia.org/wiki/iOS "wikilink")8.3分\[14\]和7.69分\[15\]的評分。
+本遊戲於多個評論及匯總網站上獲得偏高的評分。[遊民星空給予本遊戲](https://zh.wikipedia.org/wiki/遊民星空 "wikilink")7.8分。\[9\] [Gamezebo](../Page/Gamezebo.md "wikilink")給予本遊戲4星評價。\[10\] [Gamefaqs給予本遊戲](https://zh.wikipedia.org/wiki/Gamefaqs "wikilink")3.5/5分。\[11\] Whatoplay對本遊戲的[Android](../Page/Android.md "wikilink")和[iOS版本分別給出了](https://zh.wikipedia.org/wiki/iOS "wikilink")8.3分\[12\]和7.69分\[13\]的評分。
 
 ### 獎項
 
-本遊戲榮獲[Google play](https://zh.wikipedia.org/wiki/Google_play "wikilink")2017年最具創新力遊戲獎。\[16\]
+本遊戲榮獲[Google play](https://zh.wikipedia.org/wiki/Google_play "wikilink")2017年最具創新力遊戲獎。\[14\]
 
 ## 其他
 
-官方從未明確表態在測試期結束後會否重置所有玩家的進度，僅表示會恢復所有遊戲內購。\[17\]\[18\]\[19\]另外，目前本遊戲的多人連線只局限於襲擊其他NPC玩家的基地(不是真正的玩家)；而官方一直以難以預測確實日期為由拒絕公佈正式多人連線的實際發行時間(多人連線的方式目前只有解鎖第7區才會見到真人玩家)。\[20\]\[21\]\[22\]\[23\]
+官方從未明確表態在測試期結束後會否重置所有玩家的進度，僅表示會恢復所有遊戲內購。\[15\]\[16\]\[17\]另外，目前本遊戲的多人連線只局限於襲擊其他NPC玩家的基地(不是真正的玩家)；而官方一直以難以預測確實日期為由拒絕公佈正式多人連線的實際發行時間(多人連線的方式目前只有解鎖第7區才會見到真人玩家)。\[18\]\[19\]\[20\]\[21\]
 
 ## 參考文獻
 
@@ -72,5 +72,3 @@
 19.
 20.
 21.
-22.
-23.

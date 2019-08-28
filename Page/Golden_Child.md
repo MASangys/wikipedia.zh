@@ -76,10 +76,6 @@
 
 6月19日，成員周燦開始擔任電台CASPER RADIO《周燦的洪心三說》節目DJ。 7月5日，成員普閔開始擔任《[Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》第35代MC。
 
-7月23日，成員周燦在去年因為受傷休養歷經6個多月後終於重新站上舞台。
-
-
-
 ## 成員資料
 
 <table>
@@ -431,6 +427,7 @@
 | 7月23日-24日 | 2019 JAPAN Live Tour:夢 Japan Collection X THE SHOW | Zepp Osaka Bayside                         |
 | 8月16日     | 2019 K-WORLD FESTA 開幕公演                            | KSPO DOME (體操競技場)                          |
 | 8月17日     | KIMA WEEK 2019 in 浦項                               | 迎月台 海上樓閣前 廣場                               |
+| 8月20日     | 2019 K-WORLD FESTA                                 | 奧林匹克公園 (Olympic Hall)                      |
 | 8月24日     | 越南·韓國文化交流event                                     | 河內 美亭國家運動場                                 |
 
 ### 簽售會

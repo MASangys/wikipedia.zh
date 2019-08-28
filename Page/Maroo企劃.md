@@ -72,7 +72,7 @@
 
   - 趙榮昊（[MIX NINE](https://zh.wikipedia.org/wiki/MIX_NINE "wikilink")）
   - 孫準亨（[MIX NINE](https://zh.wikipedia.org/wiki/MIX_NINE "wikilink"))
-  - 李宇真（[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
+  - 李宇鎮（[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
   - 李津宇（[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
   - 李太勝（[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
 

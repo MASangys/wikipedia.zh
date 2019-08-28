@@ -196,7 +196,7 @@
 <tr class="even">
 <td><p>拉魯拉絲</p></td>
 <td><p>亞太地區：2019年 8月3日下午4點至下午7點</p></td>
-<td></td>
+<td><p>同步干擾</p></td>
 <td><p>孵蛋所需距離縮短1/4、3小時誘餌模組</p></td>
 <td></td>
 </tr>
@@ -259,7 +259,7 @@ Pokémon Go 目前只開放部分的寶可夢。在2016年7月份发售时預計
 
 **全球精靈寶可夢GO發行日期**''
 
-《精靈寶可夢GO》由官方直營，藉[iTunes Store](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")、[Google Play提供下載](../Page/Google_Play.md "wikilink")。于2016年7月6日率先在澳大利亚与新西兰地区上线；7日在美国正式上线。游戏在美国发售当天迅速获得了该地区App Store第一名。\[59\]但是由于来自世界各地-{zh-hant:透過;zh-hans:通过;}-不同-{zh-hant:管道;zh-hans:渠道;}-的上线玩家数量远超过Niantic的服务器能承受的范围，游戏服务器在发售当天-{zh-hant:當機;zh-hans:宕机;}-。Niantic在之后宣布暂停全球发售的计划，而优先处理目前的问题。\[60\]而稍后在被询问到关于游戏在欧洲和亚洲的上线日期时，Niantic表示会在“几天之内”上线\[61\]，7月13日，游戏在德国上线，次日登陆英国\[62\]，15日在義大利、西班牙和葡萄牙上線，16日開放歐洲26個國家，17日在加拿大上线，22日在日本上线\[63\]，24日開放法國\[64\]，25日在香港上线\[65\]；8月3日在拉丁美洲上线\[66\]\[67\]；8月6日在[臺灣](../Page/臺灣.md "wikilink")、[马来西亚](../Page/马来西亚.md "wikilink")，[新加坡](../Page/新加坡.md "wikilink")和[斐濟等](https://zh.wikipedia.org/wiki/斐濟 "wikilink")[東南亞及](https://zh.wikipedia.org/wiki/東南亞 "wikilink")[大洋洲](../Page/大洋洲.md "wikilink")國家与地区上線\[68\]；9月29日在[阿爾巴尼亞](https://zh.wikipedia.org/wiki/阿爾巴尼亞 "wikilink")，[波士尼亞和赫塞哥維納](https://zh.wikipedia.org/wiki/波士尼亞和赫塞哥維納 "wikilink")，[澳門](../Page/澳門.md "wikilink")，[馬其頓共和國和](https://zh.wikipedia.org/wiki/馬其頓共和國 "wikilink")[塞爾維亞上線](https://zh.wikipedia.org/wiki/塞爾維亞 "wikilink")；9月30日在[蒙古及](https://zh.wikipedia.org/wiki/蒙古 "wikilink")[中亞國家上線](https://zh.wikipedia.org/wiki/中亞 "wikilink")；10月4日在[埃及](../Page/埃及.md "wikilink")，[摩洛哥](https://zh.wikipedia.org/wiki/摩洛哥 "wikilink")，[南非等](https://zh.wikipedia.org/wiki/南非 "wikilink")31個[非洲](../Page/非洲.md "wikilink")國家上線。12月14日在印度上线。2017年1月23日在韩国上线。
+《精靈寶可夢GO》由官方直營，藉[iTunes Store](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")、[Google Play提供下載](../Page/Google_Play.md "wikilink")。于2016年7月6日率先在澳大利亚与新西兰地区上线；7日在美国正式上线。游戏在美国发售当天迅速获得了该地区App Store第一名。\[59\]但是由于来自世界各地-{zh-hant:透過;zh-hans:通过;}-不同-{zh-hant:管道;zh-hans:渠道;}-的上线玩家数量远超过Niantic的服务器能承受的范围，游戏服务器在发售当天-{zh-hant:當機;zh-hans:宕机;}-。Niantic在之后宣布暂停全球发售的计划，而优先处理目前的问题。\[60\]而稍后在被询问到关于游戏在欧洲和亚洲的上线日期时，Niantic表示会在“几天之内”上线\[61\]，7月13日，游戏在德国上线，次日登陆英国\[62\]，15日在義大利、西班牙和葡萄牙上線，16日開放歐洲26個國家，17日在加拿大上线，22日在日本上线\[63\]，24日開放法國\[64\]，25日在香港上线\[65\]；8月3日在拉丁美洲上线\[66\]\[67\]；8月6日在[臺灣](../Page/臺灣.md "wikilink")、[马来西亚](../Page/马来西亚.md "wikilink")，[新加坡](../Page/新加坡.md "wikilink")和[斐濟](../Page/斐濟.md "wikilink")等[東南亞及](https://zh.wikipedia.org/wiki/東南亞 "wikilink")[大洋洲](../Page/大洋洲.md "wikilink")國家与地区上線\[68\]；9月29日在[阿爾巴尼亞](https://zh.wikipedia.org/wiki/阿爾巴尼亞 "wikilink")，[波士尼亞和赫塞哥維納](https://zh.wikipedia.org/wiki/波士尼亞和赫塞哥維納 "wikilink")，[澳門](../Page/澳門.md "wikilink")，[馬其頓共和國和](https://zh.wikipedia.org/wiki/馬其頓共和國 "wikilink")[塞爾維亞上線](https://zh.wikipedia.org/wiki/塞爾維亞 "wikilink")；9月30日在[蒙古及](https://zh.wikipedia.org/wiki/蒙古 "wikilink")[中亞國家上線](https://zh.wikipedia.org/wiki/中亞 "wikilink")；10月4日在[埃及](../Page/埃及.md "wikilink")，[摩洛哥](https://zh.wikipedia.org/wiki/摩洛哥 "wikilink")，[南非等](https://zh.wikipedia.org/wiki/南非 "wikilink")31個[非洲](../Page/非洲.md "wikilink")國家上線。12月14日在印度上线。2017年1月23日在韩国上线。
 
 雖然韓國對地圖資料的隱私限制，Google地圖的-{zh-hans:实时;zh-tw:即時;zh-hk:實時;}-資訊、3D地圖和個人運輸方向等資訊無法在韓國大部分地區使用，但在[北緯38度線以北的](https://zh.wikipedia.org/wiki/北緯38度線 "wikilink")[江原道](https://zh.wikipedia.org/wiki/江原道_\(南\) "wikilink")[束草市](../Page/束草市.md "wikilink")、[高城郡](../Page/高城郡_\(韓國\).md "wikilink")、[襄陽郡](../Page/襄陽郡_\(韓國\).md "wikilink")、[麟蹄郡等東海岸地區以及](https://zh.wikipedia.org/wiki/麟蹄郡 "wikilink")[日本海](../Page/日本海.md "wikilink")中的[鬱陵島](../Page/鬱陵島.md "wikilink")則可以使用這些功能，因此韓國境內的玩家可以到這些地區抓精靈，大批玩家都跑到人口較多的[束草市](../Page/束草市.md "wikilink")抓寶\[69\]\[70\]\[71\]。另外，日本在7月22日正式發行後，部份[釜山廣域市](../Page/釜山廣域市.md "wikilink")地區與日本[對馬島鄰近](https://zh.wikipedia.org/wiki/對馬島 "wikilink")，亦可進行遊戲。2017年1月23日，游戏解除对韩国的封锁，正式上线。\[72\]
 
@@ -307,7 +307,7 @@ Pokémon Go 目前只開放部分的寶可夢。在2016年7月份发售时預計
 
 ### 城鄉差距
 
-由於遊戲的補給站位置根據另一款遊戲[Ingress](../Page/Ingress.md "wikilink")而決定位置\[118\]，大都市在可能在一處地區出現大量Pokestop，容易聚集玩家，但在一些鄉會卻可能出現難以補給的情況\[119\]。例如在日本[島根縣](https://zh.wikipedia.org/wiki/島根縣 "wikilink")[海士町](../Page/海士町.md "wikilink")遊戲在日本推出後並沒出現補給站\[120\]，直到9月18日，遊戲開發商才把其加上去\[121\]。[中華民國福建省也有類似情況](https://zh.wikipedia.org/wiki/中華民國福建省 "wikilink")，在台灣推出後，[金門縣](../Page/金門縣.md "wikilink")及[連江縣沒有補給站以及找不到寶可夢](../Page/連江縣_\(中華民國\).md "wikilink")，直到8月16日才能解決\[122\]。
+由於遊戲的補給站位置根據另一款遊戲[Ingress](../Page/Ingress.md "wikilink")而決定位置\[118\]，大都市在可能在一處地區出現大量Pokestop，容易聚集玩家，但在一些鄉會卻可能出現難以補給的情況\[119\]。例如在日本[島根縣](https://zh.wikipedia.org/wiki/島根縣 "wikilink")[海士町](../Page/海士町.md "wikilink")遊戲在日本推出後並沒出現補給站\[120\]，直到9月18日，遊戲開發商才把其加上去\[121\]。[中国福建也有類似情況](https://zh.wikipedia.org/wiki/中国福建 "wikilink")，在台灣推出後，[金門縣](../Page/金門縣.md "wikilink")及[連江縣沒有補給站以及找不到寶可夢](../Page/連江縣_\(中華民國\).md "wikilink")，直到8月16日才能解決\[122\]。
 
 ### 動物權利
 

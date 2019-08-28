@@ -27,7 +27,7 @@
   - [LG G3 Screen](https://zh.wikipedia.org/wiki/LG_G3_Screen "wikilink")
   - [LG G3 Stylus](https://zh.wikipedia.org/wiki/LG_G3_Stylus "wikilink")
   - [LG G3 Vigor](https://zh.wikipedia.org/wiki/LG_G3_Vigor "wikilink")
-  - [LG G4](https://zh.wikipedia.org/wiki/LG_G4 "wikilink")
+  - [LG G4](../Page/LG_G4.md "wikilink")
   - [LG G4 Beat](https://zh.wikipedia.org/wiki/LG_G4_Beat "wikilink")
   - [LG G4c](https://zh.wikipedia.org/wiki/LG_G4c "wikilink")
   - [LG G4 Stylus](https://zh.wikipedia.org/wiki/LG_G4_Stylus "wikilink")

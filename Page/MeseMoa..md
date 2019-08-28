@@ -6,6 +6,101 @@ Musumen.大多數單曲和專輯的作詞作曲都是由親手包辦。粉絲名
 
 ## 成員
 
+### 成員變遷表
+
+<table>
+<thead>
+<tr class="header">
+<th><p>成員</p></th>
+<th><p>出道前</p></th>
+<th><p>Musumen.時期</p></th>
+<th><p>MeseMoa.時期</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1st單曲</p></td>
+<td><p>2nd單曲</p></td>
+<td><p>3rd單曲～6th單曲<br />
+1st專輯</p></td>
+<td><p>7th單曲～9th單曲<br />
+2nd專輯~4th專輯</p></td>
+</tr>
+<tr class="even">
+<td><p>白服</p></td>
+<td><p>2012年8月至今</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>AOI</p></td>
+<td><p>2012年8月至今</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>浮躁王子</p></td>
+<td><p>2012年8月至今</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Tomitake</p></td>
+<td><p>未加入</p></td>
+<td><p>2013年4月至今</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>二番煎じ</p></td>
+<td><p>2012年8月至今</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Nokkuso</p></td>
+<td><p>2012年8月至今</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>野崎便當</p></td>
+<td><p>2012年8月至今</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Forgeru</p></td>
+<td><p>2012年8月至今</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Nichan</p></td>
+<td><p>2012年8月至2014年1月</p></td>
+<td><p>休養</p></td>
+<td><p>2015年8月至今</p></td>
+</tr>
+<tr class="odd">
+<td><p>K'suke</p></td>
+<td><p>2012年8月至10月</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Asupara</p></td>
+<td><p>2012年8月至2013年5月</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Zeararu.</p></td>
+<td><p>2012年8月至2017年1月</p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ### 現任成員
 
 <table>
@@ -32,7 +127,7 @@ Musumen.大多數單曲和專輯的作詞作曲都是由親手包辦。粉絲名
 <td></td>
 <td><p>Shirofuku</p></td>
 <td><p>Shiroro、Kimomo、白服桑、Shiro桑</p></td>
-<td><p>10月16日</p></td>
+<td><p>10月16日 (24歲)</p></td>
 <td><p>黃</p></td>
 <td></td>
 </tr>
@@ -88,7 +183,7 @@ Musumen.大多數單曲和專輯的作詞作曲都是由親手包辦。粉絲名
 <td><p>フォーゲル</p></td>
 <td><p>Forgeru</p></td>
 <td><p>Geru碳</p></td>
-<td><p>8月27日</p></td>
+<td><p>8月7日</p></td>
 <td><p>綠</p></td>
 <td><p>-</p></td>
 </tr>
@@ -164,7 +259,7 @@ Musumen.大多數單曲和專輯的作詞作曲都是由親手包辦。粉絲名
 **Traffic Light.**
 
   -
-    日文名是「」，2016年8月成立的分隊，唱片公司是[勝利娛樂](../Page/勝利娛樂.md "wikilink")。
+    日文名是「[トラフィックライト。](../Page/Traffic_Light..md "wikilink")」，2016年8月成立的分隊，唱片公司是[勝利娛樂](../Page/勝利娛樂.md "wikilink")。
     組合成員有擔任的AOI（本名：今川碧海)，的白服（藝名：白瀬裕大）擔任副隊長以及的浮躁王子（藝名：水貴智哉）擔任隊長。
     2016年11月16日，發售首張單曲。2017年8月2日，發售首張EP專輯。
 
@@ -183,12 +278,12 @@ Musumen.大多數單曲和專輯的作詞作曲都是由親手包辦。粉絲名
   - 3月24日，在大阪amhall舉行第一次的單獨公演「Musumen.單獨公演～假裝是偶像有什么不好！～」。
   - 4月27、28日，出演「NicoNico超Party Ⅱ」，在27日的超Party中Asupara從組合中畢業。
   - **4月27日，首張單曲『War Cry 〜アイドル気取りで何が悪い！〜』發售。**
-  - 4月29日，在birth新宿舉行「Musumen.迷你單獨公演～in東京～。Tomitake作为新增成員加入。并且巫覡夜徒作为dream morning musumen.加入。
+  - 4月29日，在birth新宿舉行「Musumen.迷你單獨公演～in東京～」。Tomitake作为新增成員加入。并且巫覡夜徒作为dream morning musumen.加入。
   - 5月2日，在niconico動畫和youtube投稿了[One·Two·Three的翻跳視頻](https://zh.wikipedia.org/wiki/One·Two·Three/The_摩天樓_Show "wikilink")\[8\]，這是Asupara參加的最後的翻跳視頻。
   - **8月7日，第二張單曲『サマー☆ビーナス 〜真夏のアイドル〜』發售。**
   - 8月11日，報名參加了『[SUMMER SONIC](../Page/SUMMER_SONIC.md "wikilink") 2013「出れんの\!?サマソニ\!?」』\[9\]。
   - 8月18日，出演「Nico Nico D@nce M@ster FINAL」。加上Tomitake以10人的陣容表演了「假装是偶像有什么不好！」\[10\]。
-  - 2013年10月至14年1月在全國4個地方（大阪、福岡、名古屋、東京）進行第一次的巡迴演出「むすめん。単独ツアー～なりきりっ☆男子ING～」。
+  - 10月至14年1月在全國4個地方（大阪、福岡、名古屋、東京）進行第一次的巡迴演出「むすめん。単独ツアー～なりきりっ☆男子ING～」。
   - 10月19日，在巡迴演出的大阪公演中宣佈浮躁王子成為組合的副隊長。同時，野崎便當宣佈要逐漸棄用茶色假髮而以真髮亮相活動。
 
 ### 2014年
@@ -339,7 +434,8 @@ CD</p></td>
 <tr class="even">
 <td><p>4th</p></td>
 <td><p>2018年8月25日</p></td>
-<td><p>大逆転ディーラー</p></td>
+<td><p>大逆転ディーラー<br />
+（大逆转交易者）</p></td>
 <td><p>限定盤Type A<br />
 限定盤Type B<br />
 限定盤Type C<br />
@@ -351,6 +447,18 @@ CD+DVD<br />
 CD+DVD<br />
 CD<br />
 CD<br />
+CD</p></td>
+</tr>
+<tr class="odd">
+<td><p>5th</p></td>
+<td><p>2019年4月26日</p></td>
+<td><p>平成パラダイムチェンジ<br />
+（平成范式改变）</p></td>
+<td><p>限定盤Type A<br />
+限定盤Type B<br />
+通常盤</p></td>
+<td><p>CD+DVD<br />
+CD+DVD<br />
 CD</p></td>
 </tr>
 </tbody>
@@ -394,73 +502,178 @@ CD+DVD</p></td>
 
 ### 演唱會
 
-<table>
-<thead>
-<tr class="header">
-<th><p>日期</p></th>
-<th><p>標題</p></th>
-<th><p>地點</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>2018年5月3日～5日</p></td>
-<td><p>MeseMoa. 全国TOUR 2018<br />
-「Maze No.9」</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/東京" title="wikilink">東京</a>・SunPearl荒川</p></td>
-</tr>
-<tr class="even">
-<td><p>2018年5月12日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/佐賀縣" title="wikilink">佐賀縣</a>・佐賀GEILS</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2018年5月13日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/長崎縣" title="wikilink">長崎縣</a>・DRUM Be-7</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2018年6月2日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/香川縣" title="wikilink">香川縣</a>・高松MONSTER</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2018年6月3日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/愛媛縣" title="wikilink">愛媛縣</a>・松山WstudioRED</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2018年6月9日～10日</p></td>
-<td><p><a href="../Page/愛知縣.md" title="wikilink">愛知縣</a>・NAGOYA ReNY limited</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2018年6月16日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/福島" title="wikilink">福島</a>・郡山HIPSHOT JAPAN</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2018年6月17日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/山形縣" title="wikilink">山形縣</a>・MUSIC 昭和 Session</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2018年6月23日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大分縣" title="wikilink">大分縣</a>・DRUM Be-0</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2018年6月24日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/福岡縣" title="wikilink">福岡縣</a>・DRUM Be-1</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2018年6月30日～7月1日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大阪" title="wikilink">大阪</a>・松下IMP Hall</p></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+|        |
+| ------ |
+| 2013年  |
+| 日期     |
+| 3月24日  |
+| 4月29日  |
+| 10月19日 |
+| 11月3日  |
+| 12月7日  |
+
+|       |
+| ----- |
+| 2014年 |
+| 日期    |
+| 1月4日  |
+| 6月14日 |
+| 7月05日 |
+| 7月06日 |
+| 7月19日 |
+| 7月20日 |
+| 7月26日 |
+| 7月27日 |
+| 8月09日 |
+| 8月10日 |
+| 8月23日 |
+| 9月06日 |
+
+|           |
+| --------- |
+| 2015年     |
+| 日期        |
+| 1月2日      |
+| 5月16日/17日 |
+| 5月24日     |
+| 5月30日     |
+| 6月06日     |
+| 6月20日     |
+| 6月27日     |
+| 7月04日     |
+| 7月05日     |
+| 7月12日     |
+| 7月18日     |
+| 7月20日     |
+| 7月25日     |
+| 7月26日     |
+| 8月01日     |
+| 8月16日     |
+| 12月23日    |
+| 12月27日    |
+
+|            |
+| ---------- |
+| 2016年      |
+| 日期         |
+| 4月9日       |
+| 5月3日       |
+| 5月4日       |
+| 5月5日       |
+| 5月7日       |
+| 5月8日       |
+| 5月21日      |
+| 5月22日      |
+| 6月4日       |
+| 6月5日       |
+| 6月11日      |
+| 6月12日      |
+| 6月18日      |
+| 6月19日      |
+| 7月2日       |
+| 7月3日       |
+| 7月17日      |
+| 7月18日      |
+| 7月30日      |
+| 7月31日      |
+| 9月4日       |
+| 9月17日      |
+| 9月18日      |
+| 9月19日      |
+| 9月24日      |
+| 9月25日      |
+| 8月11日      |
+| 9月11日      |
+| 10月1日      |
+| 10月9日      |
+| 10月16日     |
+| 10月22日     |
+| 10月29日     |
+| 10月30日     |
+| 11月6日      |
+| 11月12日     |
+| 11月19日     |
+| 12月2日/3日   |
+| 12月10日     |
+| 12月11日     |
+| 12月17日     |
+| 12月18日     |
+| 12月23日     |
+| 12月24日     |
+| 12月25日/26日 |
+
+|        |
+| ------ |
+| 2017年  |
+| 日期     |
+| 1月7日   |
+| 1月8日   |
+| 1月22日  |
+| 5月3日   |
+| 5月5日   |
+| 5月6日   |
+| 5月13日  |
+| 5月14日  |
+| 5月21日  |
+| 6月17日  |
+| 6月18日  |
+| 6月24日  |
+| 7月8日   |
+| 7月15日  |
+| 7月16日  |
+| 7月17日  |
+| 7月23日  |
+| 7月29日  |
+| 7月30日  |
+| 8月5日   |
+| 12月31日 |
+
+|             |
+| ----------- |
+| 2018年       |
+| 日期          |
+| 5月3日～5日     |
+| 5月12日       |
+| 5月13日       |
+| 6月2日        |
+| 6月3日        |
+| 6月9日～10日    |
+| 6月16日       |
+| 6月17日       |
+| 6月23日       |
+| 6月24日       |
+| 6月30日～7月1日  |
+| 7月29日       |
+| 8月11日       |
+| 9月8日\~9日    |
+| 9月22日\~23日  |
+| 9月29日\~30日  |
+| 10月6日       |
+| 10月7\~8日    |
+| 10月13日      |
+| 10月14日      |
+| 10月20日      |
+| 10月21日      |
+| 10月27日      |
+| 10月28日      |
+| 11月11日      |
+| 11月17日      |
+| 11月18日      |
+| 11月22日\~23日 |
+| 11月24日      |
+| 11月25日      |
+
+|              |
+| ------------ |
+| 2019年        |
+| 日期           |
+| 5月25日/26日    |
+| 6月15日/16日    |
+| 6月29日        |
+| 7月5日\~6日     |
+| 7月13日/14日 埼玉 |
+| 7月20日/21日    |
+| 8月4日         |
 
 ### 公演
 
@@ -470,7 +683,6 @@ CD+DVD</p></td>
 <th><p>日期</p></th>
 <th><p>標題</p></th>
 <th><p>地點</p></th>
-<th><p>備註</p></th>
 </tr>
 </thead>
 <tbody>
@@ -478,37 +690,31 @@ CD+DVD</p></td>
 <td><p>2017年10月8日～9日</p></td>
 <td><p>DD Party 2017～灼熱!DRAGON SHOW TIME～</p></td>
 <td><p>埃尔加拉霍尔大厅(エルガーラホール 大ホール)</p></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>2018年3月18日</p></td>
 <td><p>ANIMAN～春之宴2018～</p></td>
 <td><p>名鉄前各所</p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>2018年4月15日</p></td>
 <td><p>ODOTTEMITA ANNIVERSARY～谢谢！Differ Ariake～</p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>2018年5月19日～20日</p></td>
 <td><p>Dokomi2018</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/德國" title="wikilink">德國杜塞多夫</a>(Düsseldorf)</p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/德國" title="wikilink">德國杜塞多夫</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2018年5月29日</p></td>
 <td><p>SELENE SUPER LIVE 2018 vol.1</p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>2019年6月8日～9日</p></td>
 <td><p>Dokomi2019</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/德國" title="wikilink">德國杜塞多夫</a>(Düsseldorf)</p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/德國" title="wikilink">德國杜塞多夫</a></p></td>
 </tr>
 </tbody>
 </table>

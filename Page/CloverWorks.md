@@ -119,7 +119,7 @@
 ### 電影動畫（劇場版）
 
   - [不起眼女主角培育法 Fine](../Page/不起眼女主角培育法.md "wikilink")（）（2019年）
-  - [知晓天空之蓝的人啊](https://zh.wikipedia.org/wiki/知晓天空之蓝的人啊 "wikilink")（）（2019年）
+  - [知晓天空蓝色的人啊](https://zh.wikipedia.org/wiki/知晓天空蓝色的人啊 "wikilink")（）（2019年）
   - [青春猪头少年不会梦到怀梦美少女](https://zh.wikipedia.org/wiki/青春猪头少年不会梦到怀梦美少女 "wikilink")（）（2019年）
 
 ## 参考资料

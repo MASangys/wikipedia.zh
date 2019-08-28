@@ -42,7 +42,7 @@ COMEBACK V LIVE</a></p></td>
 | ------------------------------------------------------------ |
 | 電視台                                                          |
 | colspan=6 style="background:\#9be6ff | So Pretty             |
-| [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")        |
+| [Mnet](../Page/Mnet.md "wikilink")                           |
 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")          |
 | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")          |
 | [MBC Music](../Page/MBC_Plus_Media.md "wikilink")            |
@@ -50,7 +50,7 @@ COMEBACK V LIVE</a></p></td>
 | [MBC Music](../Page/MBC_Plus_Media.md "wikilink")            |
 | 4月20日                                                        |
 | 最高名次：                                                        |
-| [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")        |
+| [Mnet](../Page/Mnet.md "wikilink")                           |
 | 4月7日                                                         |
 | 最高名次：                                                        |
 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")          |

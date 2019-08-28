@@ -8,7 +8,7 @@
 
 2011年，與The Quiett一起創辦經紀公司Illionaire Records并和另一位地下歌手Beenzino一起在公司發展。
 
-2014年，參與[Mnet從](https://zh.wikipedia.org/wiki/Mnet "wikilink")7月3日起舉辦的韓國大型RAP比賽《[Show Me The Money 3](../Page/Show_Me_The_Money_3.md "wikilink")》的評委，共同擔任製作人和評委的歌手有Brand New Music的Swings和[San E](../Page/San_E.md "wikilink")、[YG娛樂](../Page/YG娛樂.md "wikilink")的Tablo和Masta Wu以及演員兼饒舌歌手[YDG](../Page/梁東根.md "wikilink")，引起了廣泛關注\[4\]。
+2014年，參與[Mnet](../Page/Mnet.md "wikilink")從7月3日起舉辦的韓國大型RAP比賽《[Show Me The Money 3](../Page/Show_Me_The_Money_3.md "wikilink")》的評委，共同擔任製作人和評委的歌手有Brand New Music的Swings和[San E](../Page/San_E.md "wikilink")、[YG娛樂](../Page/YG娛樂.md "wikilink")的Tablo和Masta Wu以及演員兼饒舌歌手[YDG](../Page/梁東根.md "wikilink")，引起了廣泛關注\[4\]。
 
 2016年Dok2和The Quiett成立了[Illionaire Records旗下的新音樂品牌](../Page/Illionaire_Records.md "wikilink")[AMBITION MUSIK](https://zh.wikipedia.org/wiki/AMBITION_MUSIK "wikilink")，並攜手曾參加《[Show Me The Money 5](../Page/Show_Me_The_Money_5.md "wikilink")》的金孝恩和Hash Swan以及早期就与Dok2和The Quiett有过多次合作的Changmo。
 

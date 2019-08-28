@@ -1,6 +1,8 @@
-**金寶** (Kinple，05月6日-)，[網路電台](https://zh.wikipedia.org/wiki/網路電台 "wikilink")[DJ](https://zh.wikipedia.org/wiki/DJ "wikilink")，曾是[寶島聯播網](../Page/寶島聯播網.md "wikilink")主持人。
+**金寶** (Kinple，05月6日-)，[網路電台](https://zh.wikipedia.org/wiki/網路電台 "wikilink")[DJ](https://zh.wikipedia.org/wiki/DJ "wikilink")，曾是[寶島聯播網](../Page/寶島聯播網.md "wikilink")主持人，[公視台語台](../Page/公視台語台.md "wikilink")棒球主播。
 主持風格幽默風趣，跳Tone但不失真，經手許多電視、電影、唱片、書籍訪問。
-近年更把觸角伸入政治圈，曾經訪問[台北市長](https://zh.wikipedia.org/wiki/台北市長 "wikilink")[柯文哲](../Page/柯文哲.md "wikilink")、[立法委員](https://zh.wikipedia.org/wiki/立法委員 "wikilink")[蔡正元](../Page/蔡正元.md "wikilink")。
+曾經訪問[台北市長](https://zh.wikipedia.org/wiki/台北市長 "wikilink")[柯文哲](../Page/柯文哲.md "wikilink")、[立法委員](https://zh.wikipedia.org/wiki/立法委員 "wikilink")[蔡正元](../Page/蔡正元.md "wikilink")。
+
+最近更是在公視台語台轉播少棒賽。
 
 ## 主持
 
@@ -18,6 +20,7 @@
   - 　[寶島聯播網](../Page/寶島聯播網.md "wikilink") (2015.07-2016.03)
   - DJ金寶在三立 (2016.10 - 2017.02)
   - 蘋果Live x DJ金寶
+  - 公視台語台
 
 ## 外部連結
 

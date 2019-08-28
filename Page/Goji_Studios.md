@@ -16,5 +16,5 @@
 2.
 3.
 4.
-5.  現時香港共有6家接待男女賓的大型健身連鎖店，包括[舒適堡](../Page/舒適堡.md "wikilink")（21間分店）、[Pure Fitness](../Page/Pure_Fitness.md "wikilink")（10間分店）、[Fitness First](../Page/菲力斯第一.md "wikilink")（9間分店）、[Goji Studios](../Page/Goji_Studios.md "wikilink")（8間分店）、[搏藝中心](../Page/搏藝中心.md "wikilink")（7間分店）及[FFG](../Page/FFG.md "wikilink")武術健身中心（4間分店），不包括[康文署在各區設立之健身室及](https://zh.wikipedia.org/wiki/康文署健身室 "wikilink")[菲力偉](https://zh.wikipedia.org/wiki/菲力偉 "wikilink")2間女子與1間男子健身店。
+5.  現時香港共有6家接待男女賓的大型健身連鎖店，包括[舒適堡](../Page/舒適堡.md "wikilink")（21間分店）、[Pure Fitness](../Page/Pure_Fitness.md "wikilink")（10間分店）、[Fitness First](../Page/菲力斯第一.md "wikilink")（9間分店）、[Goji Studios](../Page/Goji_Studios.md "wikilink")（8間分店）、[搏藝中心](../Page/搏藝中心.md "wikilink")（7間分店）及[FFG](../Page/FFG.md "wikilink")武術健身中心（3間分店），不包括[康文署在各區設立之健身室及](https://zh.wikipedia.org/wiki/康文署健身室 "wikilink")[菲力偉](https://zh.wikipedia.org/wiki/菲力偉 "wikilink")2間女子與1間男子健身店。
 6.

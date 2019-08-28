@@ -158,7 +158,7 @@ COMEBACK V LIVE</a><br />
 <td><p>colspan=6 style="background:#9be6ff | 너 없인 안 된다 (Only One For Me)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>6月28日</p></td>
@@ -314,7 +314,7 @@ COMEBACK V LIVE</a><br />
 | [MelOn](../Page/Kakao_M.md "wikilink")                  | 3     |
 | [Genie](https://zh.wikipedia.org/wiki/Genie "wikilink") | **1** |
 | Bugs                                                    | **1** |
-| [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")   | 4     |
+| [Mnet](../Page/Mnet.md "wikilink")                      | 4     |
 | [Naver](https://zh.wikipedia.org/wiki/Naver "wikilink") | **1** |
 | Soribada                                                | **1** |
 | Olleh                                                   | 2     |

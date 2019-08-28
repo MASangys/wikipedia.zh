@@ -43,7 +43,7 @@ Monstar</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
 <p><span style="font-size:larger;"><strong>重播劇集</strong>：2014年now 101台劇集</span></p>
 </div></td>
-<td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a>），5月2日早上首播時段改為11:00-12:00</p></td>
+<td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="../Page/Mnet.md" title="wikilink">Mnet</a>），5月2日早上首播時段改為11:00-12:00</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>

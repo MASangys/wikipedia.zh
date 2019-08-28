@@ -11,6 +11,15 @@
   - Joe 曾耀祖
   - Catherine 凯心
 
+## GOXUAN SQUAD
+
+  - 李委纹
+  - Rebecca 许旖萱
+  - Shery 张雪燕
+  - Celine 冯喜宁
+  - May 苏燕梅
+  - Broco Lee 李伟俊
+
 ## GO火节目
 
 周一至五
@@ -33,7 +42,7 @@
 | 9pm - 10pm | K Pop Party | Christal 叶纬炜           |
 |            |             |                        |
 
-周六
+周日
 
 | 时间         | 节目名称           | MC                     |
 | ---------- | -------------- | ---------------------- |

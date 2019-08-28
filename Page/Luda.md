@@ -206,9 +206,16 @@
 <tbody>
 <tr class="odd">
 <td><p>2018年</p></td>
+<td><p>韓國第一品牌大賞</p></td>
+<td><p>女偶像綜藝人</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/Dunia" title="wikilink">DUNIA：初次遇見的世界</a>》</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC演藝大獎" title="wikilink">MBC演藝大獎</a></p></td>
 <td><p>綜藝部門──女子新人獎</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Dunia" title="wikilink">DUNIA：初次遇見的世界</a>》</p></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>

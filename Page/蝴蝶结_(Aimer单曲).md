@@ -67,13 +67,13 @@
 
 ### 蝴蝶结
 
-  - [制作人](../Page/音樂製作人.md "wikilink") - [野田洋次郎](../Page/RADWIMPS.md "wikilink")
-  - [レコーディング&ミキシング・エンジニア](../Page/音訊工程師.md "wikilink") - 菅井正剛
+  - [音樂製作人](../Page/音樂製作人.md "wikilink") - [野田洋次郎](../Page/RADWIMPS.md "wikilink")
+  - [音訊工程師](../Page/音訊工程師.md "wikilink") - 菅井正剛
   - 助理工程师 - 澤本哲朗
   - 追加录音 - Fumiaki Unehara
       -
         Recorded & Mixed at Aobadai Studio
-  - [マスタリング・エンジニア](../Page/音訊工程師.md "wikilink") - Dick Beetham (360 Mastering)
+  - [音訊工程師](../Page/音訊工程師.md "wikilink") - Dick Beetham (360 Mastering)
 
 ### 望著夏草想念你
 

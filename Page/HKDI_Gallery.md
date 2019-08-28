@@ -6,7 +6,10 @@
 
 HKDI Gallery成立於2010年，每年都會展出不同類型的展覽，例如[平面設計](https://zh.wikipedia.org/wiki/平面設計 "wikilink")、[建築設計](https://zh.wikipedia.org/wiki/建築設計 "wikilink")、[傢俱設計](https://zh.wikipedia.org/wiki/傢俱 "wikilink")、[產品設計](https://zh.wikipedia.org/wiki/產品設計 "wikilink")、[時裝設計](https://zh.wikipedia.org/wiki/時裝設計 "wikilink")、[珠寶設計](../Page/珠寶設計.md "wikilink")、[攝影等](https://zh.wikipedia.org/wiki/攝影 "wikilink")。過往曾舉辦的展覽包括德國[工業設計名師](https://zh.wikipedia.org/wiki/工業設計 "wikilink")[康士坦丁 • 葛里奇](http://konstantin-grcic.com/) Konstantin Grcic 歷來最大型的個人專題展覽《大觀》\[1\]、本地攝影大師梁家泰多媒體攝影展《浮瓶•浪跡》\[2\]、紅點設計展覽\[3\]等。歷年展覽有：
 
-  - 2017年11月25日至5月27日 – [**科 • 然**](http://www.hkdi.edu.hk/hkdi_gallery/2017/reddot/)
+  - 2018年11月17日至2019年3月31日 – [**葉錦添：藍 — 藝術、服裝與記憶**](http://www.hkdi.edu.hk/en/hkdi_gallery/gallery.php?product_id=116)
+  - 2018年10月27日至2019年2月17日 – [**夢建城市**](http://www.hkdi.edu.hk/en/hkdi_gallery/gallery.php?product_id=81)
+  - 2018年10月6日至2019年1月27日 – \[<http://www.hkdi.edu.hk/en/hkdi_gallery/gallery.php?product_id=80>**瑞士多媒體互動設計展**\]
+  - 2017年11月25日至2018年5月27日 – [**科 • 然**](http://www.hkdi.edu.hk/hkdi_gallery/2017/reddot/)
   - 2017年9月30日至2017年12月2日 – [**絲 • 賞**](http://www.hkdi.edu.hk/hkdi_gallery/2017/cnsm/index.html)\[4\]
   - 2017年9月9日至2018年1月7日 – [**時 • 序**](http://www.hkdi.edu.hk/hkdi_gallery/2017/head/)
   - 2016年11月30日至2017年3月26日 – [**新 • 萃**](http://www.hkdi.edu.hk/hkdi_gallery/2016/ecal/)

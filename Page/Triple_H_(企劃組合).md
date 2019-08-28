@@ -270,73 +270,13 @@
 </tbody>
 </table>
 
-## 外部連結
-
-  - Triple H 官方連結
-
-<!-- end list -->
-
-  -
-<!-- end list -->
-
-  - 泫雅 官方連結
-
-<!-- end list -->
-
-  -
-  -
-  -
-  - [泫雅](http://www.vlive.tv/channels/F071D7)的VLIVE频道
-
-  - [泫雅](http://cafe.daum.net/cube-hyuna)的Daum Cafe
-
-  -
-<!-- end list -->
-
-  - PENTAGON 官方連結
-
-<!-- end list -->
-
-  - \- PENTAGON
-
-  - [PENTAGON](http://cafe.daum.net/cube-pentagon)的Daum Cafe
-
-  -
-  -
-  -
-  - [PENTAGON](http://www.vlive.tv/channels/F2C18D) 的V Live 頻道
-
-  -
-<!-- end list -->
-
-  - Cube娛樂官方連結
-
-<!-- end list -->
-
-  - 的官方網站
-
-  -
-  -
-  - [Cube娛樂](http://tw.weibo.com/cubeent)的新浪微博
-
-  -
-  - [Cube娛樂](https://channels.vlive.tv/FD933/home)的VLive頻道
-
-  -
-  -
-<!-- end list -->
-
-  - CUBE 娛樂日本
-
-<!-- end list -->
-
-  - 的官方網站
-
-  -
 ## 註釋
 
 ## 參考資料
 
+## 外部連結
+
+  -
 [Category:Cube娛樂](https://zh.wikipedia.org/wiki/Category:Cube娛樂 "wikilink") [Category:Cube娛樂旗下團體](https://zh.wikipedia.org/wiki/Category:Cube娛樂旗下團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2017年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年成立的音樂團體 "wikilink") [Category:2018年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年解散的音樂團體 "wikilink")
 
 1.  [泫雅、Hui、E'Dawn 組成「Triple H」](http://kpopn.niusnews.com/=K3102ju2) 2017-04-04.

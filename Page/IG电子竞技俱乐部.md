@@ -4,7 +4,7 @@
 
 2011年，富豪[王健林](../Page/王健林.md "wikilink")之子[王思聪](../Page/王思聪.md "wikilink")以600万美元收购了中国知名的电子竞技队伍Catastrophic Cruel Memory（CCM），并成立Invictus Gaming，以促进和改善中国专业电竞环境\[1\]。
 
-IG的Dota团队曾赢得2012年[Dota 2国际邀请赛冠军](../Page/Dota_2国际邀请赛.md "wikilink")，而英雄联盟团队也赢得了2018年[英雄联盟全球总决赛的冠军](../Page/英雄联盟2018赛季全球总决赛.md "wikilink")，因此IG是目前全世界唯一在Dota 2和英雄联盟两大DotA類型游戏的最高级赛事中都有夺冠记录的俱乐部。
+IG的Dota团队曾赢得2012年[Dota 2国际邀请赛冠军](../Page/Dota_2国际邀请赛.md "wikilink")，而英雄联盟团队也赢得了2018年[英雄联盟全球总决赛的冠军](../Page/英雄联盟2018赛季全球总决赛.md "wikilink")，因此IG是目前全世界唯一在Dota 2和英雄联盟两大Dota類型游戏的最高级赛事中都有夺冠记录的俱乐部。
 
 ## Dota 2分部
 

@@ -10,11 +10,11 @@
 
 最初的版本因為在初始關卡中發現了嚴重的遊戲錯誤，使得[卡普空](../Page/卡普空.md "wikilink")大量回收了遊戲卡帶。
 
-後續在[PlayStation Portable發行的](../Page/PlayStation_Portable.md "wikilink")《[反亂獵人X](../Page/反亂獵人X.md "wikilink")》為本遊戲的重製版。
+後續在[PlayStation Portable發行的](../Page/PlayStation_Portable.md "wikilink")《[反亂獵人X](../Page/反亂獵人X.md "wikilink")》為本作的重製版。
 
 ## 故事大綱
 
-故事為初代『洛克人』故事的100年後，以萊特博士在生前製造出的一台**未完成的機器人**為主角的故事。
+故事為初代『[洛克人](../Page/洛克人元祖系列.md "wikilink")』時間軸的100年後，以萊特博士在生前製造出的一台**未完成的機器人**為主角的故事。
 
 100年前，萊特博士以洛克人為藍本，製造了一台超過當時科技水準，擁有無限可能性的新世代機器人，並命名為**艾克斯**。
 

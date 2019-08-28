@@ -1,4 +1,4 @@
-《**Go Back夫婦**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS 2TV於](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")2017年10月13日起播出的[金土連續劇](https://zh.wikipedia.org/wiki/KBS金土連續劇 "wikilink")，由《[心裡的聲音](../Page/心裡的聲音.md "wikilink")》河炳勛導演執導與權慧珠作家再次合作打造。此劇講述描述一對互看不順眼的38歲同齡夫妻在如同戰爭般的生活中，突然重新回到20歲讓他們開始重新燃起愛的火花，開始過起當年沒有經歷過的青春生活的故事。\[1\]\[2\] CHOCO TV自10月13日起，每週五、六上午10:00跟播。[LINE TV全劇上架](../Page/LINE_TV.md "wikilink")。
+《**Go Back夫婦**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS 2TV於](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")2017年10月13日起播出的[金土連續劇](https://zh.wikipedia.org/wiki/KBS金土連續劇 "wikilink")，由《[心裡的聲音](../Page/心裡的聲音.md "wikilink")》河炳勛導演與權慧珠作家再次合作打造。此劇講述描述一對互看不順眼的38歲同齡夫妻在如同戰爭般的生活中，突然重新回到20歲讓他們開始重新燃起愛的火花，開始過起當年沒有經歷過的青春生活的故事。\[1\]\[2\]
 
 ## 演員陣容
 
@@ -11,7 +11,7 @@
 | [孫浩俊](https://zh.wikipedia.org/wiki/孫浩俊 "wikilink") | 崔半島    | 38歲，和馬珍珠離婚後穿越到過去。1999年為韓國大學土木工程系一年級學生。 | [李世揚](../Page/李世揚.md "wikilink") | [李鎮然](../Page/李鎮然.md "wikilink") |
 |                                                     |        |                                        |                                  |                                  |
 
-### 次要人物
+### 韓國大學學生
 
 |                                  |        |                                               |                                                     |                                                     |
 | -------------------------------- | ------ | --------------------------------------------- | --------------------------------------------------- | --------------------------------------------------- |
@@ -108,7 +108,7 @@
 <tr class="even">
 <td><p>高恩敏</p></td>
 <td><p>崔子妍</p></td>
-<td><p>崔半島的姊姊。</p></td>
+<td><p>崔半島的姐姐。</p></td>
 <td><p><a href="../Page/楊凱凱.md" title="wikilink">楊凱凱</a></p></td>
 <td><p><a href="../Page/謝潔貞.md" title="wikilink">謝潔貞</a></p></td>
 </tr>

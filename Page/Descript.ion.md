@@ -24,7 +24,7 @@
   - [ACDSee](../Page/ACDSee.md "wikilink")
   - [XnView](../Page/XnView.md "wikilink")
   - [Total Commander](../Page/Total_Commander.md "wikilink")
-  - [Double Commander](https://zh.wikipedia.org/wiki/Double_Commander "wikilink")
+  - [Double Commander](../Page/Double_Commander.md "wikilink")
   - [7-Zip](../Page/7-Zip.md "wikilink")
   - [Directory Opus](https://zh.wikipedia.org/wiki/Directory_Opus "wikilink")
 

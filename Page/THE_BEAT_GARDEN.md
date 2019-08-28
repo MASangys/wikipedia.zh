@@ -227,6 +227,22 @@ UMCK-5661</p></td>
 みんなへ (Instrumental)</p></td>
 <td><p>14位</p></td>
 </tr>
+<tr class="even">
+<td><p>8</p></td>
+<td><p>2019年6月26日</p></td>
+<td><p><strong>ぬくもり</strong></p></td>
+<td><p>CD+DVD<br />
+CD</p></td>
+<td><p>UMCK-5673<br />
+UMCK-7017</p></td>
+<td><p>ぬくもり<br />
+スタートボタン<br />
+ヒューマン<br />
+ぬくもり (Instrumental)<br />
+スタートボタン (Instrumental)<br />
+ヒューマン (Instrumental)</p></td>
+<td><p>8位</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -275,8 +291,19 @@ Just Before Dawn</p></td>
 CD</p></td>
 <td><p>UMCK-7003<br />
 UMCK-7004</p></td>
-<td></td>
-<td></td>
+<td><p>One<br />
+花火<br />
+僕がいる未来<br />
+そんな日々が続いていくこと<br />
+横顔<br />
+ダンシング・マン<br />
+メッセージ<br />
+あのね<br />
+君は知らない<br />
+いつか<br />
+Satisfaction<br />
+みんなへ</p></td>
+<td><p>7位</p></td>
 </tr>
 </tbody>
 </table>
@@ -311,6 +338,13 @@ UMCK-7004</p></td>
 <td><p>2019年</p></td>
 <td><p>Larger|<nowiki>ONE MAN LIVE 2019「move on</p></td>
 <td></td>
+</tr>
+<tr class="even">
+<td><p>2019年</p></td>
+<td><p>Larger| ONE MAN LIVE 2019「THE NEST」</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<p>10月27日 愛知 DIAMOND HALL</p>
+</div></td>
 </tr>
 </tbody>
 </table>

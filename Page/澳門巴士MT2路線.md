@@ -37,11 +37,43 @@
 
 ### 服務時間及班距
 
-| **服務時間**                             | 平日(星期一至五)        | 例假日(含公眾假期) |
-| ------------------------------------ | ---------------- | ---------- |
-| [城市日前地](../Page/城市日前地.md "wikilink") | 07:00-21:45      |            |
-| **班距**                               | 尖峰12-15分鐘，離峰20分鐘 | 20分鐘       |
-|                                      |                  |            |
+<table style="width:90%;">
+<colgroup>
+<col style="width: 30%" />
+<col style="width: 30%" />
+<col style="width: 30%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p><strong>服務時間</strong></p></th>
+<th><p>平日(星期一至五)</p></th>
+<th><p>例假日(含公眾假期)</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="../Page/城市日前地.md" title="wikilink">城市日前地</a></p></td>
+<td><p>07:00-21:45</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>班距</strong></p></td>
+<td><p>尖峰12-15分鐘<br />
+離峰20分鐘</p></td>
+<td><p>20分鐘</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>懸掛8號風球後30分鐘開出尾班車</strong></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ### 路線停站
 

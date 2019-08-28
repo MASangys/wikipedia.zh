@@ -4769,6 +4769,20 @@
 <td><p>“绝不后退”特輯</p></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>629</p></td>
+<td><p>8月7日</p></td>
+<td><p><a href="../Page/金章勳.md" title="wikilink">金章勳</a> 、<a href="../Page/Don_Spike.md" title="wikilink">Don Spike</a>、<a href="../Page/朴孝敏.md" title="wikilink">孝敏</a> (<a href="https://zh.wikipedia.org/wiki/T-ara" title="wikilink">T-ara</a>) 、<a href="../Page/李鎭赫.md" title="wikilink">李鎭赫</a> (<a href="../Page/UP10TION.md" title="wikilink">UP10TION</a>)</p></td>
+<td><p>“不要放弃”特輯</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>630</p></td>
+<td><p>8月14日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/朴重勋" title="wikilink">朴重勋</a> 、<a href="https://zh.wikipedia.org/wiki/许载" title="wikilink">许载</a>、<a href="../Page/金奎吏.md" title="wikilink">金奎吏</a>、 ()</p></td>
+<td><p>“有经验者优待”特輯</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -6725,8 +6739,8 @@
   - 4月4日：因MBC工会罢工而重播
   - 4月11日：因转播第19届[国会议员选举开票节目](https://zh.wikipedia.org/wiki/国会议员 "wikilink")《2012》停播
   - 8月8日：因转播[伦敦奥运会停播](../Page/2012年夏季奥林匹克运动会.md "wikilink")
-  - 11月21日：因转播[总统选举而停播](https://zh.wikipedia.org/wiki/總統選舉 "wikilink")
-  - 12月5日：因转播[总统大选电视辩论会停播](https://zh.wikipedia.org/wiki/總統選舉 "wikilink")
+  - 11月21日：因转播[总统选举而停播](../Page/總統選舉.md "wikilink")
+  - 12月5日：因转播[总统大选电视辩论会停播](../Page/總統選舉.md "wikilink")
   - 12月19日：因转播总统选举计票实况而停播
 
 ### 2013年

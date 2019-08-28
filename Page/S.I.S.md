@@ -56,7 +56,7 @@ S.I.S於8月17日公開團體預告照，8月20日公開精華組曲預告，8�
 <td><p>崔敏智</p></td>
 <td><p><br />
 <a href="../Page/光州廣域市.md" title="wikilink">光州廣域市</a></p></td>
-<td><p>主Rapper、副領舞、副唱</p></td>
+<td><p>主Rapper、領舞、副唱</p></td>
 </tr>
 <tr class="even">
 <td><p>Gaeul</p></td>

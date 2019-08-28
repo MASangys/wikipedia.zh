@@ -48,13 +48,13 @@ iOS 4推出後，部分iPhone 3G使用者回報，在升級至iOS 4後，裝置�
 
 ### iPhone
 
-  - [iPhone 3G](https://zh.wikipedia.org/wiki/iPhone_3G "wikilink")
+  - [iPhone 3G](https://zh.wikipedia.org/wiki/iPhone_3G "wikilink") （此iOS版本為最後一個支援此裝置的版本）
   - [iPhone 3GS](https://zh.wikipedia.org/wiki/iPhone_3GS "wikilink")
   - [iPhone 4](https://zh.wikipedia.org/wiki/iPhone_4 "wikilink")
 
 ### iPod touch
 
-  - [iPod touch (第二代)](https://zh.wikipedia.org/wiki/IPod_touch#第二代 "wikilink")
+  - [iPod touch (第二代)](https://zh.wikipedia.org/wiki/IPod_touch#第二代 "wikilink") （此iOS版本為最後一個支援此裝置的版本）
   - [iPod touch (第三代)](https://zh.wikipedia.org/wiki/IPod_touch#第三代 "wikilink")
   - [iPod touch (第四代)](https://zh.wikipedia.org/wiki/iPod_touch_\(第四代\) "wikilink")
 

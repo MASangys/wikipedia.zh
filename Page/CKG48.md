@@ -128,7 +128,7 @@ CKG48是一個以[重庆為中心活動的](https://zh.wikipedia.org/wiki/重庆
 <th><p>最终所属队伍</p></th>
 <th><p>退出时间</p></th>
 <th><p>备注</p></th>
-<th><p>總選舉最高名次</p></th>
+<th><p>總決選最高名次</p></th>
 </tr>
 </thead>
 <tbody>

@@ -356,8 +356,36 @@
 <td><p>[7]</p></td>
 </tr>
 <tr class="even">
+<td><p><strong>年度歌曲獎</strong></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>〈Return〉</p></td>
+<td><p><strong>最佳專輯獎</strong></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>iKON</p></td>
+<td><p>人氣獎</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>最佳男團</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>

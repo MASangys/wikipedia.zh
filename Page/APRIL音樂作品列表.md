@@ -1,4 +1,4 @@
-**APRIL音樂作品列表**主要列舉[韓國女子組合](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[APRIL](https://zh.wikipedia.org/wiki/APRIL_\(女子團體\) "wikilink")（）歷年發行的各類音樂專輯、影視歌曲及單曲。
+**APRIL音樂作品列表**主要列舉[韓國女子組合](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[APRIL](../Page/APRIL_\(女子團體\).md "wikilink")（）歷年發行的各類音樂專輯、影視歌曲及單曲。
 
 ## 迷你專輯
 
@@ -358,7 +358,7 @@
 <td><p>6月9日</p></td>
 <td><p>손끝의 사랑(The Love of Fingertips)[12]</p></td>
 <td><p><a href="../Page/B1A4.md" title="wikilink">B1A4</a>, <a href="../Page/徐恩光.md" title="wikilink">徐恩光</a>, <a href="../Page/李昌燮.md" title="wikilink">李昌燮</a>, <a href="../Page/許齡智.md" title="wikilink">許齡智</a>,<br />
-<a href="../Page/A-JAX.md" title="wikilink">A-JAX</a>,<a href="https://zh.wikipedia.org/wiki/APRIL_(女子團體)" title="wikilink">APRIL</a>, <a href="https://zh.wikipedia.org/wiki/Oh_My_Girl" title="wikilink">Oh My Girl</a>, <a href="https://zh.wikipedia.org/wiki/Kassy" title="wikilink">Kassy</a></p></td>
+<a href="../Page/A-JAX.md" title="wikilink">A-JAX</a>,<a href="../Page/APRIL_(女子團體).md" title="wikilink">APRIL</a>, <a href="https://zh.wikipedia.org/wiki/Oh_My_Girl" title="wikilink">Oh My Girl</a>, <a href="https://zh.wikipedia.org/wiki/Kassy" title="wikilink">Kassy</a></p></td>
 <td><p>採媛、娜恩、睿娜、真率</p></td>
 </tr>
 </tbody>

@@ -1,4 +1,4 @@
-**CJ E\&M公司**（）是[韩国一家](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[娱乐和](https://zh.wikipedia.org/wiki/娱乐 "wikilink")[媒体内容公司](https://zh.wikipedia.org/wiki/媒体 "wikilink")，旧称**O Media控股有限公司**（，隶属[CJ集团](../Page/CJ集团.md "wikilink")。
+**CJ E\&M公司**（）是[韩国一家](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[娱乐和](https://zh.wikipedia.org/wiki/娱乐 "wikilink")[媒体内容公司](https://zh.wikipedia.org/wiki/媒体 "wikilink")，旧称**O Media控股有限公司**（），隶属[CJ集团](../Page/CJ集团.md "wikilink")。
 
 ## 历史
 
@@ -18,19 +18,41 @@ CJ E\&M现有七个主要部门：
 
   - \- 电影和部分电视剧的制作人和发行人
 
-  - [CJ E\&M音乐表演部](../Page/Mnet媒體.md "wikilink") - 经营投资、生产和分销。也是一个音乐家和部分演员的机构
+  - CJ E\&M音乐表演部 - 经营投资、生产和分销。也是一个音乐家和部分演员的机构
+    旗下公司：
 
-  - CJ E\&M Convention Division - developing and producing programs and conventions
+:\*[Stone Music Entertainment](../Page/Stone_Music_Entertainment.md "wikilink")(100%)
 
+:\*(100%)
+
+:\*(51%)（與[YMC娛樂](../Page/YMC娛樂.md "wikilink")相關）
+
+:\*[Off The Record娛樂](https://zh.wikipedia.org/wiki/Off_The_Record娛樂 "wikilink") （與[Pledis娛樂](../Page/Pledis娛樂.md "wikilink")相關）
+
+:\*[BELIFT LAB](https://zh.wikipedia.org/wiki/BELIFT_LAB "wikilink")(52%)（與[Big Hit娛樂合作](../Page/Big_Hit娛樂.md "wikilink")）
+
+:\*[Jellyfish娛樂](../Page/Jellyfish娛樂.md "wikilink")(51%)
+
+:\*(60%)
+
+:\*(51%)
+
+:\*(51.10%)
+
+:\*(51%)
+
+:\*[B2M娛樂](../Page/B2M娛樂.md "wikilink")
+
+:\*[LM Entertainment](https://zh.wikipedia.org/wiki/LM_Entertainment "wikilink")
+
+  - CJ E\&M活動部 - 負責策劃音樂節、文化節、音樂獎等各種活動\[4\]。
   - CJ E\&M表演艺术部 - 开发和制作戏剧作品。音乐剧业务。
-
   - CJ E\&M动画部 - 参与动画行业的各个方面，包括策划、投资、制作、发行、授权和推销动画内容。
-
   - CJ E\&M媒体解决方案部门 - 开发和制作营销内容并提供整合营销解决方案
 
 ### 过去
 
-  - CJ E\&M Game Division - 游戏出版商和开发商，2014年分拆为独立公司[CJ Netmarble](https://zh.wikipedia.org/wiki/CJ_Netmarble "wikilink")。\[4\]
+  - CJ E\&M Game Division - 游戏出版商和开发商，2014年分拆为独立公司[CJ Netmarble](https://zh.wikipedia.org/wiki/CJ_Netmarble "wikilink")。\[5\]
 
 ## 参见
 
@@ -46,4 +68,5 @@ CJ E\&M现有七个主要部门：
 1.
 2.
 3.
-4.
+4.  [CONVENTION](http://www.cjem.net/business/convention)
+5.

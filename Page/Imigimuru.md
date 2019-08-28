@@ -47,7 +47,7 @@
 
   - 電視動畫 [銃皇無盡的法夫納](../Page/銃皇無盡的法夫納.md "wikilink")（第1話片尾插圖）
 
-## 來源
+## 參考來源
 
 ## 外部連結
 
@@ -55,6 +55,6 @@
 
   -
 
-[Category:日本漫畫家](https://zh.wikipedia.org/wiki/Category:日本漫畫家 "wikilink") [Category:生年不詳](https://zh.wikipedia.org/wiki/Category:生年不詳 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
+[Category:日本漫畫家](https://zh.wikipedia.org/wiki/Category:日本漫畫家 "wikilink")
 
 1.

@@ -1,4 +1,4 @@
-**福特Edge**（Ford Edge）是[长安福特自](https://zh.wikipedia.org/wiki/长安福特 "wikilink")2010年引進[中国大陆](../Page/中国大陆.md "wikilink")市场的一款中型[SUV](../Page/运动型多用途车.md "wikilink")\[1\]、[跨界休旅車](../Page/跨界休旅車.md "wikilink")，官方中文名稱為「**福特銳界**」，而競爭對手為[本田Avancier](https://zh.wikipedia.org/wiki/本田Avancier "wikilink")、[豐田Highlander](../Page/豐田Highlander.md "wikilink")、[別克Envision](https://zh.wikipedia.org/wiki/別克Envision "wikilink")、[日產Murano](../Page/日產Murano.md "wikilink")。
+**福特Edge**（Ford Edge）是[长安福特自](https://zh.wikipedia.org/wiki/长安福特 "wikilink")2010年引進[中国大陆](../Page/中国大陆.md "wikilink")市场的一款中型[SUV](../Page/运动型多用途车.md "wikilink")\[1\]、[跨界休旅車](../Page/跨界休旅車.md "wikilink")，官方中文名稱為「**福特銳界**」，而競爭對手為[本田Avancier](../Page/本田Avancier.md "wikilink")、[豐田Highlander](../Page/豐田Highlander.md "wikilink")、[別克Envision](https://zh.wikipedia.org/wiki/別克Envision "wikilink")、[日產Murano](../Page/日產Murano.md "wikilink")。
 
 ## 歷史與概要
 

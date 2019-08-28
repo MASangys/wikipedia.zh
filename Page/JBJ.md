@@ -96,7 +96,7 @@ Vlive</p></td>
 </tr>
 <tr class="even">
 <td><p>2017年9月28日-11月2日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="../Page/請多多關照_JBJ.md" title="wikilink">請多多關照 JBJ</a></p></td>
 <td><p>共6集</p></td>
 <td><p>全員</p></td>
@@ -166,7 +166,7 @@ Vlive</p></td>
 </tr>
 <tr class="odd">
 <td><p>2017年10月18日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a> M2</p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a> M2</p></td>
 <td><p>Mnet Present[35]</p></td>
 <td><p>全員</p></td>
 <td></td>
@@ -314,7 +314,7 @@ Vlive</p></td>
 </tr>
 <tr class="even">
 <td><p>2018年2月27日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a> M2</p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a> M2</p></td>
 <td><p>IDOLity <Joyful Marvel></p></td>
 <td><p>全員</p></td>
 <td></td>

@@ -1,4 +1,4 @@
-**金藝源**（，，），藝名**Umji**\[1\]（），[韓國女](https://zh.wikipedia.org/wiki/韓國 "wikilink")[歌手](../Page/歌手.md "wikilink")，是[Source Music旗下女子組合](https://zh.wikipedia.org/wiki/Source_Music "wikilink")[GFRIEND](../Page/GFRIEND.md "wikilink")的成員，在隊內擔任領Rapper\[2\]、副唱、忙內及英文擔當\[3\]。 2016年10月，Umji因為拉傷[縫匠肌](https://zh.wikipedia.org/wiki/縫匠肌 "wikilink")，而需要暫停所有活動，也沒有隨團拍攝歐洲特輯，其他成員在表演時，在她的跳唱部分會豎起大拇指，但沒有影響她參加11月17日的韓國[SAT高考](https://zh.wikipedia.org/wiki/SAT "wikilink")。11月19日回歸舞台，在 Melon Music Awards 表演。她曾於V APP透露自己暈車非常嚴重\[4\]。
+**金藝源**（，，），藝名**Umji**\[1\]（），[韓國女](https://zh.wikipedia.org/wiki/韓國 "wikilink")[歌手](../Page/歌手.md "wikilink")，是[Source Music旗下女子組合](../Page/Source_Music.md "wikilink")[GFRIEND](../Page/GFRIEND.md "wikilink")的成員，在隊內擔任領Rapper\[2\]、副唱、忙內及英文擔當\[3\]。 2016年10月，Umji因為拉傷[縫匠肌](https://zh.wikipedia.org/wiki/縫匠肌 "wikilink")，而需要暫停所有活動，也沒有隨團拍攝歐洲特輯，其他成員在表演時，在她的跳唱部分會豎起大拇指，但沒有影響她參加11月17日的韓國[SAT高考](https://zh.wikipedia.org/wiki/SAT "wikilink")。11月19日回歸舞台，在 Melon Music Awards 表演。她曾於V APP透露自己暈車非常嚴重\[4\]。
 
 ## 音樂作品
 

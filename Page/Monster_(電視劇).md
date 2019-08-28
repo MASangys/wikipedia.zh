@@ -41,7 +41,7 @@
 <tr class="odd">
 <td><p><a href="../Page/金秀賢_(女演員).md" title="wikilink">金秀賢</a></p></td>
 <td><p><strong>劉聖愛</strong></p></td>
-<td><p>真實身份為國家情報院秘密要員。無意間和姜奇歎互助，度過許多難關。被上司利用成為幫助姜奇歎的通緝犯。最終洗清嫌疑，成功回歸國家情報局後遠赴海外從事情報員工作。(1-29集)</p></td>
+<td><p>真實身份為<a href="https://zh.wikipedia.org/wiki/韓國國家情報院" title="wikilink">韓國國家情報院秘密探員</a>。無意間和姜奇歎互助，度過許多難關。被上司利用成為幫助姜奇歎的通緝犯。最終洗清嫌疑，成功回歸國家情報院後遠赴海外從事情報員工作。(1-29集)</p></td>
 <td><p><a href="../Page/魏晶琦.md" title="wikilink">魏晶琦</a></p></td>
 </tr>
 </tbody>
@@ -914,7 +914,7 @@
 
   - [韓國MBC官方網站](http://www.imbc.com/broad/tv/drama/monster/index.html)
 
-[Category:2016年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2016年韓國電視劇集 "wikilink") [Category:張英哲劇本作品](https://zh.wikipedia.org/wiki/Category:張英哲劇本作品 "wikilink") [Category:報復題材電視劇](https://zh.wikipedia.org/wiki/Category:報復題材電視劇 "wikilink") [Category:東森電視外購韓劇](https://zh.wikipedia.org/wiki/Category:東森電視外購韓劇 "wikilink")
+[Category:2016年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2016年韓國電視劇集 "wikilink") [Category:張英哲劇本作品](https://zh.wikipedia.org/wiki/Category:張英哲劇本作品 "wikilink") [Category:報復題材電視劇](https://zh.wikipedia.org/wiki/Category:報復題材電視劇 "wikilink") [Category:東森電視外購韓劇](https://zh.wikipedia.org/wiki/Category:東森電視外購韓劇 "wikilink") [Category:韓國國家情報院題材作品](https://zh.wikipedia.org/wiki/Category:韓國國家情報院題材作品 "wikilink")
 
 1.  [傳黃正音將出演新劇《暴君》 官方：正在商討](http://www.allthatstar.com/tw/view.php?action=5205&postID=186480)  全星網
 2.  [TNmS 멀티미디어 홈페이지](http://www.tnms.tv/rating/default.asp)

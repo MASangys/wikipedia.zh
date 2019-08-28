@@ -26,6 +26,8 @@
   - [朴素淡](../Page/朴素淡.md "wikilink")（2017年-至今）
   - [高我星](../Page/高我星.md "wikilink")（2017年-至今）
   - 金世璘（2017年-至今）
+  - [李垂珉](https://zh.wikipedia.org/wiki/李垂珉 "wikilink")（2019年6月-至今）
+  - [趙怡賢](../Page/趙怡賢.md "wikilink")（2019年7月-至今）
 
 ## 已離開藝人
 

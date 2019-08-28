@@ -12,7 +12,7 @@
 
 單曲內第二、三首曲目未被用作插曲。初回盤、通常盤的第四首曲目為「believe」的伴奏版本，期間限定盤的為「believe」電視動畫播放長度版本。
 
-初回盤A捆綁「believe」[DVD音樂錄影帶](https://zh.wikipedia.org/wiki/DVD "wikilink")，初回盤B捆綁「believe」[藍光音樂錄影帶](https://zh.wikipedia.org/wiki/藍光 "wikilink")，期間限定生產盤捆綁電視動畫『Fate/stay night -Unlimited Blade Works-』第一期片尾曲（無Staff信息）的DVD錄影帶。
+初回盤A捆綁「believe」[DVD音樂錄影帶](https://zh.wikipedia.org/wiki/DVD "wikilink")，初回盤B捆綁「believe」[藍光](../Page/藍光.md "wikilink")音樂錄影帶，期間限定生產盤捆綁電視動畫『Fate/stay night -Unlimited Blade Works-』第一期片尾曲（無Staff信息）的DVD錄影帶。
 
 ## 初回盤·通常盤收錄內容
 

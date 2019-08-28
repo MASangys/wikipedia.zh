@@ -326,7 +326,7 @@ Gogoro Energy Network既為英屬開曼群島商睿能新動力股份有限公�
 
 ##### 概述
 
-GoStation是由Gogoro Energy Network部屬的電池交換站，由目前1197座GoStation電池交換站組成能源網路，且不斷擴建當中。單座機台有8個智慧電池插槽，包括電池插槽、電池插槽部黑色面板、機台下部白色面板、螢幕、機台本體在內都採用模組化設計，擁有快速維修及更換方便的優點。最多支援1母機（有螢幕、鏡頭及Swipe Here感應圈）4子機（無螢幕）的連接方式。於地點許可處可24小時全天提供電池交換，可利用 Gogoro App找到距離最近的電池交換站。（註：電池預約功能已被移除）
+GoStation是由Gogoro Energy Network部屬的電池交換站，由目前1301座GoStation電池交換站組成能源網路，且不斷擴建當中。單座機台有8個智慧電池插槽，包括電池插槽、電池插槽部黑色面板、機台下部白色面板、螢幕、機台本體在內都採用模組化設計，擁有快速維修及更換方便的優點。最多支援1母機（有螢幕、鏡頭及Swipe Here感應圈）4子機（無螢幕）的連接方式。於地點許可處可24小時全天提供電池交換，可利用 Gogoro App找到距離最近的電池交換站。（註：電池預約功能已被移除）
 
 [缩略图](https://zh.wikipedia.org/wiki/File:GoStation_的鏡頭與_Swipe_Here_感應區.jpg "fig:缩略图")
 
@@ -436,11 +436,11 @@ GoCharger Mobile 的適用車型為 Gogoro 2 Series，其設計過程中就已�
   - 外觀尺寸：230 x 153 x 83.4mm （不含橡膠保護套）
   - 重量：2.5kg\[91\]
   - 充電 1 小時，補充 15km 里程電力；充電 6 小時，補充82%電力\[92\]
-  - 製造地：中國
+  - 製造地：台灣
 
 ### Gogoro 智慧電池 Gogoro Smart Battery
 
-一個 Gogoro 智慧電池模組由頂部綠色提把、30個感應器\[93\]、電腦系統、18650[鋰離子電池](../Page/锂离子电池.md "wikilink")、[NFC模組及](../Page/近場通訊.md "wikilink")[BMS系統組成](../Page/电池管理系统.md "wikilink")。單個重量約9公斤，以黑色鋁合金外殼包覆，並印有「Property of Gogoro Energy Network」與「With Panasonic Cells」字樣（新版的Gogoro智慧電池已將With Panasonic Cells字樣移除），具堅固與 IPX7 防水能力，電極接頭經鍍銀處理\[94\]。透過底部的 NFC 模組與 Smartscooter 智慧雙輪、GoStation 電池交換站、GoCharger 充電座進行認證、資料交換、車輛資料的採集（每秒十次）。
+一個 Gogoro 智慧電池模組由頂部綠色提把、30個感應器\[93\]、電腦系統、21700[鋰離子電池](../Page/锂离子电池.md "wikilink")、[NFC模組及](../Page/近場通訊.md "wikilink")[BMS系統組成](../Page/电池管理系统.md "wikilink")。單個重量約12公斤，以黑色鋁合金外殼包覆，並印有「Property of Gogoro Energy Network」與「With Panasonic Cells」字樣（新版的Gogoro智慧電池已將With Panasonic Cells字樣移除），具堅固與 IPX7 防水能力，電極接頭經鍍銀處理\[94\]。透過底部的 NFC 模組與 Smartscooter 智慧雙輪、GoStation 電池交換站、GoCharger 充電座進行認證、資料交換、車輛資料的採集（每秒十次）。
 
 除了展示用途的 Gogoro智慧電池，其餘皆必須成對使用，意即甲組的A僅能搭配甲組的B，而不能搭配乙組的B，藉此保證同一組的電池放電能力、衰退程度相近，但不代表 MNG000001 僅能搭配MNG000001，目前流通在Gogoro Energy Network的智慧電池中就能取得 MNG000001 搭配MNG000002 的電池組，顯示兩者的電力性能相近，可能以投入 Gogoro Energy Network 的時間先後做為型號區分的依據。
 
@@ -635,8 +635,9 @@ Gogoro App能夠將更新檔上傳至行車電腦（Electric Control Unit，ECU�
   - 2015年：3,893輛 (第一台掛牌車為ADY-2705\[110\])
   - 2016年：1萬3,038輛
   - 2017年：3萬4,347輛
-  - 2018年：6萬3,846輛（累計至2018年11月）
-  - 目前登記數量：11萬5,065輛（累計至2018年11月）
+  - 2018年：7萬2,066輛
+  - 2019年：5萬5,406輛（累計至6月）
+  - 目前登記數量：17萬8,613輛（累計至2019年06月）
 
 ## 爭議
 

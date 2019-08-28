@@ -41,13 +41,13 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Patrick_Fok" title="wikilink">Patrick Fok</a>／<a href="https://zh.wikipedia.org/wiki/霍炳宗" title="wikilink">霍炳宗</a></p></td>
+<td style="text-align: center;"><p><a href="https://twitter.com/BrittClennett">Britt Clennett</a></p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Grace_Brown" title="wikilink">Grace Brown</a></p></td>
+<td style="text-align: center;"><p><a href="https://twitter.com/melralph">Melanie Ralph</a></p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Kimberly_Lim" title="wikilink">Kimberly Lim</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Dhruv_Tikekar" title="wikilink">Dhruv Tikekar</a></p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p><strong>港聞組／財經組主持</strong></p></td>
@@ -62,10 +62,10 @@
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Evelina_Leung" title="wikilink">Evelina Leung</a>／<a href="https://zh.wikipedia.org/wiki/梁曦文" title="wikilink">梁曦文</a></p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Sareena_Dayaram" title="wikilink">Sareena Dayaram</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Grace_Brown" title="wikilink">Grace Brown</a></p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Christy_Choi" title="wikilink">Christy Choi</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Joyce_Woo" title="wikilink">Joyce Woo</a></p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p><strong>財經組記者</strong></p></td>
@@ -84,13 +84,16 @@
 <td style="text-align: center;"><p><strong><a href="https://zh.wikipedia.org/wiki/Weekly_Re-viu" title="wikilink">Weekly Re-viu主播</a></strong></p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Patrick_Fok" title="wikilink">Patrick Fok</a>／<a href="https://zh.wikipedia.org/wiki/霍炳宗" title="wikilink">霍炳宗</a></p></td>
-</tr>
-<tr class="even">
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Linda_Kennedy" title="wikilink">Linda Kennedy</a></p></td>
 </tr>
 </tbody>
 </table>
+
+### 前員工
+
+|                               **去向不明或待業**                               |
+| :---------------------------------------------------------------------: |
+| [Pamela Ambler](https://zh.wikipedia.org/wiki/Pamela_Ambler "wikilink") |
 
 ## 参考资料
 

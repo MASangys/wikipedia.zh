@@ -68,12 +68,13 @@
 
 ## 粤语版本
 
-片頭曲「數碼-{}-暴龍3」（又名：馴獸師之王，原曲：「The Biggest Dreamer」）
+片頭曲「數碼-{}-暴龍3」（又名：「馴獸師之王」，原曲：「The Biggest Dreamer」）
 
   -
-    作詞：甄健強 / 作曲：太田美知彦 / 編曲：Gary Chan
-      -
-        歌：[林峯](https://zh.wikipedia.org/wiki/林峯 "wikilink")
+    作詞：甄健強
+    作曲：太田美知彦
+    編曲：Gary Chan
+    歌：[林峯](https://zh.wikipedia.org/wiki/林峯 "wikilink")
 
 ## 外部链接
 

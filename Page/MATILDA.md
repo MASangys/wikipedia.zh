@@ -181,7 +181,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>3月31日、4月7日</p></td>
 </tr>
 <tr class="even">
@@ -221,7 +221,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>7月7日、7月14日</p></td>
 </tr>
 <tr class="even">

@@ -1,6 +1,6 @@
 </ref> |physical_connector=JIS F05 (JIS C5974-1993 F05) }}
 
-**TOSLINK**（Toshiba Link\[1\]），又称**光纤音频电缆**，是一种标准光纤连接系统\[2\],通常应用于消费级音频设备之数字音频信号的传输。该接口的软件层基于S/PDIF，但硬件层则使用光纤作为传输介质（S/PDIF可使用光纤或同轴电缆）。TOSLINK可传输两路未压缩的无损PCM信号或压缩后的5.1/7.1环绕音频信号（如[杜比数字](../Page/杜比数字.md "wikilink")+或DTS-HD High Resolution Audio）。与[HDMI](../Page/HDMI.md "wikilink")不同的是，TOSLINK没有足够的带宽去传输无损的杜比TrueHD、DTS-HD Master Audio或超过两路的PCM信号。
+**TOSLINK**（Toshiba Link\[1\]），又称**光纤音频电缆**，是一种标准光纤连接系统\[2\]，通常应用于消费级音频设备之数字音频信号的传输。该接口的软件层基于S/PDIF，但硬件层则使用光纤作为传输介质（S/PDIF可使用光纤或同轴电缆）。TOSLINK可传输两路未压缩的无损PCM信号或压缩后的5.1/7.1环绕音频信号（如[杜比数字](../Page/杜比数字.md "wikilink")+或DTS-HD High Resolution Audio）。与[HDMI](../Page/HDMI.md "wikilink")不同的是，TOSLINK没有足够的带宽去传输无损的杜比TrueHD、DTS-HD Master Audio或超过两路的PCM信号。
 
 虽然TOSLINK支持数种多编码格式及接头标注，但是最普遍是采用EIAJ/JEITA RC-5720型接头\[3\]。该标准最高可传输波长为650纳米的红色光\[4\]，实际工作波长视调制信号格式而定。
 

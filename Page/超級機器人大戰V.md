@@ -1,8 +1,8 @@
 {{ external media | align = | width = | video1 =[PS4、PSV『超級機器人大戰V』繁體中文版宣傳影片 - YouTube](https://www.youtube.com/watch?v=vt7z0F47j0Q) }}
 
-為[南夢宮萬代遊戲以](https://zh.wikipedia.org/wiki/南夢宮萬代遊戲 "wikilink")[萬普](../Page/萬普.md "wikilink")名義發售的[超級機器人大戰系列](../Page/超級機器人大戰系列.md "wikilink")遊戲。簡稱「機戰V」「SRWV」。標題的「V」是指「Voyage」（「航行、旅程」之意）。本作首次為有涉及版權作品的系列作推出亞洲向版本，分別有繁體中文版、韓文版及英文版。
+為[南夢宮萬代遊戲以](https://zh.wikipedia.org/wiki/南夢宮萬代遊戲 "wikilink")[萬普](../Page/萬普.md "wikilink")名義發售的[超級機器人大戰系列](../Page/超級機器人大戰系列.md "wikilink")遊戲。簡稱「機戰V」「SRWV」。標題的「V」是指「Voyage」（「航行、旅程」之意）。本作首次為有涉及版權作品的系列作推出亞洲向版本，分別有繁體中文版、韓文版及英文版。本作於2019年推出[任天堂Switch](../Page/任天堂Switch.md "wikilink")移值版，為此平台上的第二部機戰作品。
 
-本作宣傳詞為「鋼之巨人們　航向新的海域（Voyage）」
+本作宣傳詞為「鋼之巨人們　航向新的海域（Voyage）」。
 
 ## 參戰作品
 
@@ -238,7 +238,7 @@ ED「NEW BLUE」
   - [超級機械人大戰V 官方網站](http://srw-v.suparobo.jp/)
   - [台灣萬代南夢宮娛樂網站遊戲介紹](https://www.bandainamcoent.com.tw/intro-detail.php?game_no=6)
 
-[Category:2017年电子游戏](https://zh.wikipedia.org/wiki/Category:2017年电子游戏 "wikilink") [Category:超级机器人大战系列](https://zh.wikipedia.org/wiki/Category:超级机器人大战系列 "wikilink") [Category:PlayStation_4游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_4游戏 "wikilink") [Category:PlayStation_Vita游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita游戏 "wikilink") [Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink") [Category:平行世界題材作品](https://zh.wikipedia.org/wiki/Category:平行世界題材作品 "wikilink")
+[Category:2017年电子游戏](https://zh.wikipedia.org/wiki/Category:2017年电子游戏 "wikilink") [Category:2019年电子游戏](https://zh.wikipedia.org/wiki/Category:2019年电子游戏 "wikilink") [Category:超级机器人大战系列](https://zh.wikipedia.org/wiki/Category:超级机器人大战系列 "wikilink") [Category:PlayStation_4游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_4游戏 "wikilink") [Category:PlayStation_Vita游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita游戏 "wikilink") [Category:任天堂Switch游戏](https://zh.wikipedia.org/wiki/Category:任天堂Switch游戏 "wikilink") [Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink") [Category:平行世界題材作品](https://zh.wikipedia.org/wiki/Category:平行世界題材作品 "wikilink")
 
 1.  [](http://dengekionline.com/elem/000/001/289/1289128/)
 2.  本作中魔神系列未有香港在地化譯名，因此本機在遊戲中續用「鐵金剛-{}-皇帝G」為名，在後作《[超級機械人大戰X](https://zh.wikipedia.org/wiki/超級機械人大戰X "wikilink")》才有香港版譯名。

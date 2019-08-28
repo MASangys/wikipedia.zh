@@ -35,6 +35,7 @@ Sweet Power旗下所屬藝人多數為女性，其後成立新人演員部門「
 <li><a href="../Page/岡山智樹.md" title="wikilink">岡山智樹</a></li>
 <li><a href="../Page/高杉真宙.md" title="wikilink">高杉真宙</a></li>
 <li><a href="https://zh.wikipedia.org/wiki/荒木飛羽" title="wikilink">荒木飛羽</a></li>
+<li><a href="../Page/岡田健史.md" title="wikilink">岡田健史</a></li>
 </ul>
 <h3 id="spm">S・P・M</h3>
 <ul>

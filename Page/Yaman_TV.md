@@ -1,4 +1,4 @@
-《**Yaman TV**》（），是韓國[Mnet電視台在](https://zh.wikipedia.org/wiki/Mnet "wikilink")2015年1月5日試播的節目，主持人為[HAHA及hiphop歌手MINO崔民浩](https://zh.wikipedia.org/wiki/HAHA "wikilink")。之後成為正規節目於1月26日起正式播出，除了HAHA、MINO兩位主持人，再加入前籃球選手[徐章煇](../Page/徐章煇.md "wikilink")共同主持。播出時間為韓國時間每周一下午6：00-6：50。
+《**Yaman TV**》（），是韓國[Mnet](../Page/Mnet.md "wikilink")電視台在2015年1月5日試播的節目，主持人為[HAHA及hiphop歌手MINO崔民浩](https://zh.wikipedia.org/wiki/HAHA "wikilink")。之後成為正規節目於1月26日起正式播出，除了HAHA、MINO兩位主持人，再加入前籃球選手[徐章煇](../Page/徐章煇.md "wikilink")共同主持。播出時間為韓國時間每周一下午6：00-6：50。
 
 ## 節目主旨
 

@@ -38,7 +38,7 @@ TensorFlow的计算使用有状态的数据流图表示。TensorFlow的名字来
 
 ## 特性
 
-TensorFlow提供了一个[Python API](https://www.tensorflow.org/versions/master/api_docs/python/index.html)，以及[C++](https://www.tensorflow.org/versions/master/api_docs/cc/index.html)、[Haskell](https://github.com/tensorflow/haskell)、[Java](https://www.tensorflow.org/api_docs/java/reference/org/tensorflow/package-summary)、[Go](https://godoc.org/github.com/tensorflow/tensorflow/tensorflow/go)和[Rust](https://github.com/tensorflow/rust) API。第三方包可用于 [C\#](https://github.com/migueldeicaza/TensorFlowSharp)、[Julia](https://github.com/malmaud/TensorFlow.jl)、[R](https://github.com/rstudio/tensorflow)和[Scala](https://github.com/eaplatanios/tensorflow_scala)。
+TensorFlow提供了一个[Python API](https://www.tensorflow.org/versions/master/api_docs/python/index.html)，以及[C++](https://www.tensorflow.org/versions/master/api_docs/cc/index.html)、[Haskell](https://github.com/tensorflow/haskell)、[Java](https://www.tensorflow.org/api_docs/java/reference/org/tensorflow/package-summary)、[Go](https://godoc.org/github.com/tensorflow/tensorflow/tensorflow/go)和[Rust](https://github.com/tensorflow/rust) API。第三方包可用于 [C\#](https://github.com/migueldeicaza/TensorFlowSharp)、[.NET Core](https://github.com/SciSharp/TensorFlow.NET)、[Julia](https://github.com/malmaud/TensorFlow.jl)、[R](https://github.com/rstudio/tensorflow)和[Scala](https://github.com/eaplatanios/tensorflow_scala)。
 
 TensorFlow的底层核心引擎由C++实现，通过 [gRPC](https://grpc.io/) 实现网络互访、分布式执行。虽然它的Python/C++/Java API共享了大部分执行代码，但是有关于反向传播梯度计算的部分需要在不同语言单独实现。目前只有Python API较为丰富的实现了[反向传播部分](../Page/反向传播算法.md "wikilink")。所以大多数人使用[Python](../Page/Python.md "wikilink")进行模型训练，但是可以选择使用其它语言进行线上推理。
 
@@ -46,7 +46,7 @@ TensorFlow在Windows和Linux上支持使用 Bazel 或 [CMake](../Page/CMake.md "
 
 ## 例子
 
-例一：Hello World。
+例：Hello World。
 
 ``` python
 import tensorflow as tf
@@ -55,7 +55,7 @@ with tf.Session() as sess:
  print(sess.run(hw))
 ```
 
-例二：两个矩阵相乘。
+例：两个矩阵相乘。
 
 ``` python
 import tensorflow as tf
@@ -73,7 +73,7 @@ with tf.Session() as sess:
 print(result)
 ```
 
-例三：使用Feeding在执行时传入参数
+例：使用Feeding在执行时传入参数
 
 ``` python
 import tensorflow as tf
@@ -94,7 +94,36 @@ sess.close()
 
 TensorFlow的一大特色是其图中的节点可以是带状态的。
 
-例四：带状态的图
+例：使用占位符
+
+``` python
+import tensorflow as tf
+input_placeholder = tf.placeholder(tf.int32)
+sess = tf.Session()
+print sess.run(input_placeholder, feed_dict={input_placeholder: 2})
+```
+
+例：使用变量、给变量赋值
+
+使用tf.get_variable()创建变量。tf.get_variable() 的前两个参数是必需的，其余参数是可选的。tf.get_variable(name，shape)。name 是一个唯一标识这个变量对象的字符串。它必须相对于全局图是唯一的，所以要明了你使用过的所有命名，确保没有重复。shape 是与张量形状对应的整数数组，按顺序每个维度只有一个整数。一个 3x8 矩阵形状是 \[3, 8\]。要创建一个标量，就需要使用形状为 \[\] 的空列表。有两种将值放入变量的方法：初始化器和 tf.assign()。初始化器应该把声明（tf.constant_initializer）与执行初始化（tf.global_variables_initializer）两种节点配合使用。
+
+``` python
+import tensorflow as tf
+count_variable = tf.get_variable("count", [])
+zero_node = tf.constant(0.)
+assign_node = tf.assign(count_variable, zero_node)
+sess = tf.Session()
+sess.run(assign_node)
+print sess.run(count_variable)
+
+const_init_node = tf.constant_initializer(0.)
+count_variable1 = tf.get_variable("count1", [], initializer=const_init_node)
+init = tf.global_variables_initializer()
+sess.run(init)
+print sess.run(count_variable1)
+```
+
+例：带状态的图
 
 ``` python
 import tensorflow as tf
@@ -115,7 +144,7 @@ for step in range(10):
 sess.close()
 ```
 
-例五：梯度计算
+例：梯度计算
 
 ``` python
 import tensorflow as tf

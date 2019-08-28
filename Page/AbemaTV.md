@@ -195,7 +195,7 @@ AbemaTV推薦運行環境。\[1\]
   -
   -
   -
-[Category:澀谷區公司](https://zh.wikipedia.org/wiki/Category:澀谷區公司 "wikilink") [Category:日本互聯網公司](https://zh.wikipedia.org/wiki/Category:日本互聯網公司 "wikilink") [Category:2015年成立的公司](https://zh.wikipedia.org/wiki/Category:2015年成立的公司 "wikilink") [Category:2016年软件](https://zh.wikipedia.org/wiki/Category:2016年软件 "wikilink") [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink") [Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink") [Category:朝日電視台](https://zh.wikipedia.org/wiki/Category:朝日電視台 "wikilink")
+[Category:澀谷區公司](https://zh.wikipedia.org/wiki/Category:澀谷區公司 "wikilink") [Category:日本互聯網公司](https://zh.wikipedia.org/wiki/Category:日本互聯網公司 "wikilink") [Category:2015年成立的公司](https://zh.wikipedia.org/wiki/Category:2015年成立的公司 "wikilink") [Category:2016年软件](https://zh.wikipedia.org/wiki/Category:2016年软件 "wikilink") [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink") [Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink") [Category:朝日電視台](https://zh.wikipedia.org/wiki/Category:朝日電視台 "wikilink") [Category:2016年日本建立](https://zh.wikipedia.org/wiki/Category:2016年日本建立 "wikilink")
 
 1.  [「AbemaTV」を利用できる環境　（推奨環境） | AbemaTVガイド（アベマTVガイド）無料インターネットテレビ局](https://guide.abema.tv/posts/578596)
 2.  [インターネットテレビ局「AbemaTV」が「Chromecast」に対応 | 株式会社サイバーエージェント](https://www.cyberagent.co.jp/newsinfo/info/detail/id=12423)

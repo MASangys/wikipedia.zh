@@ -1,4 +1,4 @@
-**Metadata+**是美國[數據藝術家](https://zh.wikipedia.org/wiki/數據藝術家 "wikilink")設計的手機應用程式，提供關於美國[無人機執行襲擊的消息](https://zh.wikipedia.org/wiki/無人機 "wikilink")。每當有美國無人機在海外襲擊的新聞報導，應用程式便會告知用戶襲擊日期、地點、襲擊喪生者資料，把消息推送給用戶，並且在地圖上將襲擊資料呈現。\[1\]這個程式有iPhone和Android版本。
+**Metadata+**是美國[數據藝術家](https://zh.wikipedia.org/wiki/數據藝術家 "wikilink")設計的手機應用程式，提供關於美國[無人機](../Page/無人機.md "wikilink")執行襲擊的消息。每當有美國無人機在海外襲擊的新聞報導，應用程式便會告知用戶襲擊日期、地點、襲擊喪生者資料，把消息推送給用戶，並且在地圖上將襲擊資料呈現。\[1\]這個程式有iPhone和Android版本。
 
 ## 蘋果公司的阻撓
 

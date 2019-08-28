@@ -34,17 +34,13 @@
 <td><p>Jun H.</p></td>
 </tr>
 <tr class="odd">
-<td><p>詩勳<br />
-시훈</p></td>
-</tr>
-<tr class="even">
 <td><p>크라운</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>蒼空<br />
 창공</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>예현</p></td>
 </tr>
 </tbody>

@@ -1,8 +1,8 @@
-**喜马拉雅FM**是中国上海证大喜马拉雅网络科技有限公司于2013年3月上线的一个在线音频分享平台，平台采用UGC（[用户原创内容](../Page/用户生成内容.md "wikilink")）模式。平台提供了音频播放、下载、查找服务，也提供了用户个性化的个人推荐服务。用户也可以申请成为主播上传音频文件。
+**喜马拉雅FM**是[上海证大喜马拉雅网络科技有限公司于](https://zh.wikipedia.org/wiki/上海证大喜马拉雅网络科技有限公司 "wikilink")2013年3月上线的中国在线音频分享平台，采用UGC（[用户原创内容](../Page/用户生成内容.md "wikilink")）模式。平台提供了音频播放、下载、查找服务，也提供了用户[个性化的个人推荐服务](https://zh.wikipedia.org/wiki/个性化 "wikilink")。用户也可以申请成为主播上传音频文件。
 
-现支持[iOS及](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android](../Page/Android.md "wikilink")平台。 \[1\]
+现支持[iOS及](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android](../Page/Android.md "wikilink")平台\[1\]。
 
-由于采用UGC（用户原创内容）模式，喜马拉雅FM平台吸引了许多音频制作者，其中不乏知名的动漫声优、[配音师](../Page/配音員.md "wikilink")、知名主持人、原创音乐人和一些草根明星。\[2\]
+由于采用UGC模式，喜马拉雅FM平台吸引了许多音频制作者，其中不乏知名的[声优](https://zh.wikipedia.org/wiki/声优 "wikilink")、[配音师](../Page/配音員.md "wikilink")、知名主持人、原创音乐人和一些[草根](../Page/草根.md "wikilink")明星。\[2\]
 
 ## 功能
 

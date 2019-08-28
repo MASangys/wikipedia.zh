@@ -36,6 +36,18 @@ GAI早期的名曲多半是[幫派饒舌歌曲](https://zh.wikipedia.org/wiki/�
 
 GAI曾與海爾兄弟、MC光光與红花会[PG ONE等一眾饒舌歌手](https://zh.wikipedia.org/wiki/PG_ONE "wikilink")「有精彩的音樂互動」。GAI曾以《斬馬刀》\[17\]一曲譏諷海爾兄弟的馬思唯，馬思唯则寫了《Back To Back》\[18\]與《該挨》 \[19\]等兩曲回敬GAI；MC光光則寫下了《Gay爺只打字》，加入争吵\[20\]。選秀節目中，PG ONE一句“最討厭表裡不一的社會GAI，有意見當面吼”讓GAI非常愤怒，甚至揚言要揍PG ONE，此事引起[輿論关注](https://zh.wikipedia.org/wiki/輿論 "wikilink")\[21\]。
 
+
+
+## 作品列表
+
+### 專輯
+
+2018 - 光宗耀祖
+
+### EP
+
+2017 - 增益
+
 ## 参考资料
 
 ## 外部链接

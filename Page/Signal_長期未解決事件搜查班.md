@@ -20,7 +20,7 @@
 <p>三枝健人</p></td>
 <td><center>
 <p>朴海英</p></td>
-<td><p>原城西署地域課巡警。2010年時前往美國進修，2018年學成歸國，並加入長期未解決事件搜查班擔任<a href="../Page/罪犯側寫.md" title="wikilink">罪犯側寫</a>師。階級從<a href="../Page/巡查.md" title="wikilink">巡查</a>晉升至<a href="../Page/警部補.md" title="wikilink">警部補</a>。</p></td>
+<td><p>原城西署地域課巡警。本身有相當不錯的罪犯側寫能力，（田代綾香綁架撕票案是他去美國之前協助偵破的）2010年時前往美國進修，2018年學成歸國，並加入長期未解決事件搜查班擔任<a href="../Page/罪犯側寫.md" title="wikilink">罪犯側寫</a>師。階級從<a href="../Page/巡查.md" title="wikilink">巡查</a>晉升至<a href="../Page/警部補.md" title="wikilink">警部補</a>。</p></td>
 </tr>
 <tr class="odd">
 <td><center>
@@ -270,7 +270,7 @@
 <p>田代綾香</p></td>
 <td><center>
 <p>金尹貞</p></td>
-<td><p>10歲。女童綁架案的被害人。</p></td>
+<td><p>10歲。女童綁架案的被害人，三枝健人與她是小學同學，正好目睹了她被吉本圭子帶走時的情形，使他一直非常自責。</p></td>
 </tr>
 <tr class="odd">
 <td><center>

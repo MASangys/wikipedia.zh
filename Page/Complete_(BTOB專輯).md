@@ -8,7 +8,7 @@
 
 主打曲《沒關係》音樂錄影帶的個人版和團體版預告在6月27日和6月28日公布\[9\]\[10\]、6月29日隨專輯音源公開完整音樂錄影帶\[11\]。
 
-專輯公開後，《沒關係》在Melon、[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")、Soribada、[Genie](https://zh.wikipedia.org/wiki/Genie "wikilink")、Olleh Music與[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink") Music都獲得了音源榜冠軍位置，他們在專輯發表會中對此表示十分激動與興奮\[12\]\[13\]。
+專輯公開後，《沒關係》在Melon、[Mnet](../Page/Mnet.md "wikilink")、Soribada、[Genie](https://zh.wikipedia.org/wiki/Genie "wikilink")、Olleh Music與[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink") Music都獲得了音源榜冠軍位置，他們在專輯發表會中對此表示十分激動與興奮\[12\]\[13\]。
 
 ## 曲目
 
@@ -29,13 +29,13 @@
 | colspan=6 style="background:\#9be6ff | 어기여차 디여차 (Giddy Up) |
 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")        |
 | [MBC Music](../Page/MBC_Plus_Media.md "wikilink")          |
-| [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")      |
+| [Mnet](../Page/Mnet.md "wikilink")                         |
 | colspan=6 style="background:\#9be6ff | 괜찮아요 (It's Okay)    |
 | [MBC Music](../Page/MBC_Plus_Media.md "wikilink")          |
 | 7月8日                                                       |
 | 7月15日                                                      |
 | 最高名次：                                                      |
-| [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")      |
+| [Mnet](../Page/Mnet.md "wikilink")                         |
 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")        |
 | 7月10日                                                      |
 | 最高名次：                                                      |
@@ -133,7 +133,7 @@
 | ------------------------------------------------------- | ----- |
 | 實時榜                                                     |       |
 | [MelOn](../Page/Kakao_M.md "wikilink")                  | **1** |
-| [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")   | **1** |
+| [Mnet](../Page/Mnet.md "wikilink")                      | **1** |
 | Bugs                                                    | **1** |
 | Olleh                                                   | **1** |
 | Soribada                                                | **1** |

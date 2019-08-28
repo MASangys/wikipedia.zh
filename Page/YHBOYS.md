@@ -18,7 +18,7 @@
 </tr>
 <tr class="even">
 <td><p>郭殿甲[3]</p></td>
-<td></td>
+<td><p>2004年8月9日（15歲）</p></td>
 <td><p><a href="../Page/河北省.md" title="wikilink">河北省</a><a href="../Page/邯郸市.md" title="wikilink">邯郸市</a></p></td>
 </tr>
 <tr class="odd">

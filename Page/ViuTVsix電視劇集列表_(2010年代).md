@@ -222,7 +222,7 @@ True Detective (season 2)</p></td>
 <td><p>美國</p></td>
 <td><p><br />
 My Generation</p></td>
-<td><p>、、<a href="../Page/凱莉·嘉納.md" title="wikilink">嘉莉·格拿</a>、<a href="../Page/潔米·金.md" title="wikilink">潔米·金</a>、<a href="https://zh.wikipedia.org/wiki/儒利安·莫里斯" title="wikilink">儒利安·莫里斯</a>、<a href="https://zh.wikipedia.org/wiki/吉爾·奧唐奈" title="wikilink">吉爾·奧唐奈</a>、<a href="../Page/邁克·史托-大衛.md" title="wikilink">邁克·史托-大衛</a>、Anne Son、Sebastian Sozzi</p></td>
+<td><p>、、<a href="../Page/凱莉·嘉納.md" title="wikilink">嘉莉·格拿</a>、<a href="../Page/潔米·金.md" title="wikilink">潔米·金</a>、<a href="../Page/儒利安·莫里斯.md" title="wikilink">儒利安·莫里斯</a>、<a href="https://zh.wikipedia.org/wiki/吉爾·奧唐奈" title="wikilink">吉爾·奧唐奈</a>、<a href="../Page/邁克·史托-大衛.md" title="wikilink">邁克·史托-大衛</a>、Anne Son、Sebastian Sozzi</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1297,6 +1297,16 @@ Friends (season 5)</p></td>
 <td><p><a href="../Page/河谷鎮_(電視劇).md" title="wikilink">河谷鎮</a>（第一季）<br />
 Riverdale (season 1)</p></td>
 <td><p><a href="../Page/K·J·阿帕.md" title="wikilink">K·J·阿帕</a>、<a href="../Page/莉莉·萊茵哈特.md" title="wikilink">莉莉·萊茵哈特</a>、<a href="../Page/卡蜜拉·曼德絲.md" title="wikilink">卡蜜拉·曼德絲</a>、<a href="https://zh.wikipedia.org/wiki/科爾·斯普羅斯" title="wikilink">科爾·斯普羅斯</a>、、、、、<a href="../Page/盧克·佩瑞.md" title="wikilink">盧克·佩瑞</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>8月28日</p></td>
+<td><p>4</p></td>
+<td><p>英國</p></td>
+<td><p><br />
+National Treasure</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/羅比·科特瑞恩" title="wikilink">羅比·科特瑞恩</a>、<a href="https://zh.wikipedia.org/wiki/茱莉·華達絲" title="wikilink">茱莉·華達絲</a>、、<a href="../Page/安德麗亞·瑞斯波羅格.md" title="wikilink">安哲雅·麗絲布洛</a></p></td>
 <td></td>
 <td></td>
 </tr>

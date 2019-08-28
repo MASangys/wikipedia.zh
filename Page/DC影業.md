@@ -12,7 +12,7 @@
 
 ### 先前
 
-  - 強·柏格（Jon Berg，前副總裁和聯合主席；2016年5月至2017年12月）ref name="fbs" /\>
+  - 強·柏格（Jon Berg，前副總裁和聯合主席；2016年5月至2017年12月）\[3\]
 
 ## 參考文獻
 
@@ -24,4 +24,7 @@
 [Category:DC漫画改编电影](https://zh.wikipedia.org/wiki/Category:DC漫画改编电影 "wikilink") [Category:美国电影制作公司](https://zh.wikipedia.org/wiki/Category:美国电影制作公司 "wikilink")
 
 1.
+
 2.  <https://www.hollywoodreporter.com/heat-vision/dc-films-taps-chantal-nong-key-production-role-1086317>
+
+3.

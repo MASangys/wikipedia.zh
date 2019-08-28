@@ -1602,24 +1602,27 @@ Go Sung-un</p></td>
 <td><p>須永司</p></td>
 <td><p>佐藤道拓</p></td>
 <td><p>Kang Hyeon-guk<br />
-Lee Sung-jin</p></td>
+Lee Seok-yoon<br />
+Hwang Seong-won</p></td>
 </tr>
 <tr class="odd">
 <td><p>113</p></td>
 <td></td>
 <td><p>家電的王者</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>武上純希</p></td>
+<td><p>西田章二</p></td>
+<td><p>武藤公春</p></td>
+<td><p>川村裕哉<br />
+荏原裕子<br />
+宇代祐規</p></td>
 </tr>
 <tr class="even">
 <td><p>114</p></td>
 <td></td>
 <td><p>做了夢的機器嗶</p></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>高田昌宏</p></td>
+<td><p>粟井重紀</p></td>
+<td><p>本田松希</p></td>
 <td></td>
 </tr>
 <tr class="odd">

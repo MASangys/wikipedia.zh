@@ -14,11 +14,17 @@
 
 ### 2017年：以首張單曲《Sorry》出道
 
-2017年8月3日正式出道，發行首張單曲《Sorry》，並於[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》帶來出道舞台。《Sorry》由The Rose所有成員共同填詞譜曲及編曲\[8\]，是一首以英國流行音樂為基底的悲傷情歌，表達一個男人深深地為自己過去的自私向戀人懺悔，祈求對方能夠重回他的身邊\[9\]。單曲發行後在海外獲得熱烈反響，除了打入美國[iTunes的韓國流行音樂榜第](https://zh.wikipedia.org/wiki/iTunes "wikilink")8名，更在加拿大、英國、德國、法國等八國的韓國流行音樂榜單中名列前十名\[10\]。11月推出第二張單曲《Like We Used To》，融合抒情搖滾曲風，講述對過去美好回憶感到無限思念，難以忘懷的心境。
+2017年8月3日正式出道，發行首張單曲《Sorry》，並於[Mnet](../Page/Mnet.md "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》帶來出道舞台。《Sorry》由The Rose所有成員共同填詞譜曲及編曲\[8\]，是一首以英國流行音樂為基底的悲傷情歌，表達一個男人深深地為自己過去的自私向戀人懺悔，祈求對方能夠重回他的身邊\[9\]。單曲發行後在海外獲得熱烈反響，除了打入美國[iTunes的韓國流行音樂榜第](https://zh.wikipedia.org/wiki/iTunes "wikilink")8名，更在加拿大、英國、德國、法國等八國的韓國流行音樂榜單中名列前十名\[10\]。11月推出第二張單曲《Like We Used To》，融合抒情搖滾曲風，講述對過去美好回憶感到無限思念，難以忘懷的心境。
 
 ### 2018年：歐洲巡演、首張迷你專輯《Void》、韓國國內演唱會
 
 2018年2月16日，The Rose展開首次的歐洲巡迴演唱會《THE ROSE Paint it Rose Tour in Europe》，以比利時[布魯塞爾為首站](https://zh.wikipedia.org/wiki/布魯塞爾 "wikilink")，依序在俄羅斯、土耳其、英國、匈牙利共五國開唱。\[11\]4月16日發行首張迷你專輯《Void》，主打歌為《Baby》，去年所發行的兩張單曲《Sorry》、《Like We Used To》也收錄其中。 2018年5月12日、5月13日舉辦韓國國內演唱會《The Rose Day: Long Drive》。
+
+10月5日發行第二張迷你專輯《Dawn》,主打歌為《She\`s In The Rain》,(MV因為受到爭議而從YOUTUBE下架(因MV裡有使用到SHINee金鐘炫Instagram的圖片,上架前未經其家人授權同意)
+
+**<big>2019年: 第三張單曲《RED》回歸</big>**
+
+2019年8月13日,發行第三張單曲專輯《RED》,專輯內收入兩首單曲《RED》和《California》
 
 ## 成員資料
 
@@ -60,7 +66,7 @@
 <li><strong>BABY</strong></li>
 <li>I.L.Y.</li>
 <li><strong>sorry</strong></li>
-<li>좋았는데</li>
+<li>좋았는데 (Like We Used To)</li>
 </ol></td>
 </tr>
 <tr class="even">
@@ -71,11 +77,20 @@
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td><ol>
-<li>I Don`t Know You</li>
-<li><strong>She`s In The Rain</strong> *타이틀</li>
+<li>I Don’t Know You</li>
+<li><strong>She’s In The Rain</strong> *타이틀</li>
 <li>Take Me Down</li>
-<li>불면증</li>
+<li>불면증 (Insomnia)</li>
 </ol></td>
+</tr>
+<tr class="odd">
+<td><p>3rd</p></td>
+<td><p>《<strong>RED</strong>》</p>
+<ul>
+<li>發行日期：2019年8月13日</li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
+</ul></td>
+<td><p>1. <strong>RED</strong> 2. California</p></td>
 </tr>
 </tbody>
 </table>
@@ -99,10 +114,13 @@
 | 2018年4月15日  | [BABY](https://www.youtube.com/watch?v=xT2xVw8av8c)                   | [The Rose](../Page/The_Rose_\(樂團\).md "wikilink")  | 全體   |
 | 2018年5月23日  | [I.L.Y](https://www.youtube.com/watch?v=Vn0emeBJRGA)                  | [The Rose](../Page/The_Rose_\(樂團\).md "wikilink")  | 全體   |
 | 2018年10月4日  | [She's In The Rain](https://www.youtube.com/watch?v=xBrTNZ5tRTQ)      | [The Rose](../Page/The_Rose_\(樂團\).md "wikilink")  | 全體   |
+| 2019年7月25日  | [FACE](https://www.youtube.com/watch?v=vI6OD4VJssM)                   | 佑星                                                 | 佑星   |
+| 2019年8月13日  | [RED](https://www.youtube.com/watch?v=Ru8LG-_HGd4)                    | [The Rose](../Page/The_Rose_\(樂團\).md "wikilink")  | 全體   |
 
 ## 註釋與參考資料
 
   - 備註
+    **金佑星在2019年7月25日發行個人SOLO專輯《WOLF》**
 
 <!-- end list -->
 

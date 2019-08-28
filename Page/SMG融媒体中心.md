@@ -41,7 +41,7 @@ Morning</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/午间30分" title="wikilink">午间30分</a><br />
 Midday News</p></td>
 <td><p>12:00 - 12:27</p></td>
-<td><p>每日</p></td>
+<td><p>每周一至周六</p></td>
 <td><p>与新闻综合频道联播</p></td>
 </tr>
 <tr class="odd">
@@ -77,7 +77,7 @@ Good Morning Shanghai</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/午间30分" title="wikilink">午间30分</a><br />
 Midday News</p></td>
 <td><p>12:00 - 12:27</p></td>
-<td><p>每日</p></td>
+<td><p>每周一至周六</p></td>
 <td><p>与东方卫视联播</p></td>
 </tr>
 <tr class="odd">
@@ -191,8 +191,8 @@ Tonight</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>16:00-16:40</p></td>
-<td><p>星期五</p></td>
+<td><p>1:30-2:10</p></td>
+<td><p>星期日</p></td>
 <td><p>新闻综合频道</p></td>
 <td></td>
 </tr>
@@ -204,8 +204,8 @@ Crossover</p></td>
 <td><p>东方卫视</p></td>
 </tr>
 <tr class="even">
-<td><p>16:05-17:00</p></td>
-<td><p>星期二</p></td>
+<td><p>1:30-2:10</p></td>
+<td><p>次周星期一</p></td>
 <td><p>新闻综合频道</p></td>
 <td></td>
 </tr>

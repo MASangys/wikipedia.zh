@@ -70,7 +70,7 @@
 
 ### 第17组（男子职业组）
 
-2015年5月22日：[张家豪](https://zh.wikipedia.org/wiki/张家豪 "wikilink") 三段负[孟泰龄](https://zh.wikipedia.org/wiki/孟泰龄 "wikilink") 六段
+2015年5月22日：[张家豪](https://zh.wikipedia.org/wiki/张家豪 "wikilink") 三段负[孟泰龄](../Page/孟泰龄.md "wikilink") 六段
 
 ### 第18组（男子职业组）
 

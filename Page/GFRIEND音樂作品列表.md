@@ -162,7 +162,7 @@
 <ul>
 <li>發行日期：2019年7月1日</li>
 <li>發行公司：<a href="../Page/Source_Music.md" title="wikilink">Source Music</a>、<a href="https://zh.wikipedia.org/wiki/kakao_M" title="wikilink">kakao M</a></li>
-<li>專輯銷量：51,234+</li>
+<li>專輯銷量：80,497+</li>
 <li>規格：CD、數位音樂下載</li>
 </ul></td>
 <td><p>1（綜合）[10]</p></td>

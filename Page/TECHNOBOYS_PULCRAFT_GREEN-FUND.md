@@ -28,7 +28,7 @@
 
 然後，TECHNOBOYS由於積極參加混音樂曲的錄製，因此受到美國DJ[克勞德·楊](https://zh.wikipedia.org/wiki/克勞德·楊 "wikilink")（）的注目、並稱TECHNOBOYS是的第三世代。其中，由TECHNOBOYS錄製的一首樂曲曾收錄在德國電子音樂歌手[lemonglass的精選](https://zh.wikipedia.org/wiki/lemonglass "wikilink")[合輯](https://zh.wikipedia.org/wiki/合輯 "wikilink")《Son Femelle》中。
 
-2007年，TECHNOBOYS為[音樂家](https://zh.wikipedia.org/wiki/音樂家 "wikilink")[細野晴臣](../Page/細野晴臣.md "wikilink")負責音楽監修的動畫電影《[EX MACHINA](../Page/蘋果核戰.md "wikilink")》提供樂曲的[原聲音樂](https://zh.wikipedia.org/wiki/原聲音樂 "wikilink")。同年還參加電視動畫《[幸運☆星](https://zh.wikipedia.org/wiki/幸運☆星 "wikilink")》主題歌『[拿去吧！水手服](../Page/拿去吧！水手服.md "wikilink")（<small></small>）』混音CD歌曲的錄製工作。
+2007年，TECHNOBOYS為[音樂家](https://zh.wikipedia.org/wiki/音樂家 "wikilink")[細野晴臣](../Page/細野晴臣.md "wikilink")負責音楽監修的動畫電影《[EX MACHINA](../Page/蘋果核戰.md "wikilink")》提供樂曲的[原聲音樂](https://zh.wikipedia.org/wiki/原聲音樂 "wikilink")。同年還參加電視動畫《[幸運☆星](../Page/幸運☆星.md "wikilink")》主題歌『[拿去吧！水手服](../Page/拿去吧！水手服.md "wikilink")（<small></small>）』混音CD歌曲的錄製工作。
 
 2014年，TECHNOBOYS為電視動畫《[魔女的使命](../Page/魔女的使命.md "wikilink")》和《[TRINITY SEVEN 魔道書7使者](https://zh.wikipedia.org/wiki/TRINITY_SEVEN_魔道書7使者 "wikilink")》提供樂曲作為這2部動畫的劇伴音樂與片尾主題歌使用。此外，由於在《魔女的使命》的動畫原聲帶並收錄了搖滾樂手主唱的形象歌曲，因此曾經引發話題。
 

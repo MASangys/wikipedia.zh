@@ -1,4 +1,4 @@
-**三星Galaxy**（**Samsung Galaxy**，其中國官網譯名為三星蓋-{}-樂世）是[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[三星集团旗下子公司](https://zh.wikipedia.org/wiki/三星集团 "wikilink")[三星電子](../Page/三星電子.md "wikilink")所設計、製造和販售的一系列[移動設備裝置](https://zh.wikipedia.org/wiki/移動設備 "wikilink")。其較知名的產品線有高端[智能手機的](https://zh.wikipedia.org/wiki/智能手機 "wikilink")[Galaxy S](../Page/三星Galaxy_S系列.md "wikilink")、[平板電腦](../Page/平板電腦.md "wikilink")的[Galaxy Tab](../Page/三星Galaxy_Tab.md "wikilink")，以及附加手寫觸控筆的行動裝置系列[Galaxy Note](../Page/三星Galaxy_Note系列.md "wikilink")。
+**三星Galaxy**（**SAMSUNG Galaxy**，其中國官網譯名為三星蓋-{}-樂世）是由[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[三星集团其下的](https://zh.wikipedia.org/wiki/三星集团 "wikilink")[三星電子](../Page/三星電子.md "wikilink")設計，製造和銷售的一系列移動計算設備。產品線中較為知名的包括高端智能電話的[Galaxy S和](../Page/三星Galaxy_S系列.md "wikilink")[Galaxy Note](../Page/三星Galaxy_Note系列.md "wikilink")，而及平板的[三星Galaxy Tab S系列](https://zh.wikipedia.org/wiki/三星Galaxy_Tab_S系列 "wikilink")/[A系列](https://zh.wikipedia.org/wiki/三星Galaxy_Tab_A系列 "wikilink")。智能手錶的[三星Galaxy Watch](https://zh.wikipedia.org/wiki/三星Galaxy_Watch "wikilink")。
 
 ## 生產中的系列
 
@@ -19,6 +19,12 @@
   - [三星Galaxy J系列](../Page/三星Galaxy_J.md "wikilink") (入門，與[Galaxy A系列合併](../Page/三星Galaxy_A系列.md "wikilink"))
   - 三星Galaxy Folder系列 (Android雙屏摺疊手機)
   - 三星Galaxy Young系列 (入門)
+
+## 其他
+
+  - [三星Galaxy i7500](../Page/三星Galaxy_i7500.md "wikilink")
+  - [三星Galaxy R](../Page/三星Galaxy_R.md "wikilink")
+  - [三星Galaxy 3](https://zh.wikipedia.org/wiki/三星Galaxy_3 "wikilink")
 
 ## 外部連結
 

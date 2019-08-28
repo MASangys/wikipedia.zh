@@ -145,7 +145,7 @@ H \ \stackrel{\mathrm{def}}{=}\
 
 \\frac{dS}{dt} & = - k \\sum_i \\left(\\frac{dp_i}{dt} \\ln p_i + \\frac{dp_i}{dt}\\right) \\\\ & = - k \\sum_i \\frac{dp_i}{dt} \\ln p_i \\\\ \\end{align}</math> (使用這個關係 ∑ *dp*<sub>*i*</sub>/*dt* = 0 因為 ∑ *p*<sub>*i*</sub> = 1).
 
-[费米黄金定则](../Page/费米黄金定则.md "wikilink")提供了從狀態α量子躍遷到狀態β和從β量子躍遷到α的平均速率的[主方程式](https://zh.wikipedia.org/wiki/主方程式 "wikilink")（费米黄金定则做了一些假設，而引入這個規則是為了增加不可逆性。這其實就是波茲曼 *Stosszahlansatz*假設的量子版本） 。對於一個孤立系統，躍遷的貢獻
+[费米黄金定则](../Page/费米黄金定则.md "wikilink")提供了從狀態α量子躍遷到狀態β和從β量子躍遷到α的平均速率的[主方程式](../Page/主方程式.md "wikilink")（费米黄金定则做了一些假設，而引入這個規則是為了增加不可逆性。這其實就是波茲曼 *Stosszahlansatz*假設的量子版本） 。對於一個孤立系統，躍遷的貢獻
 
   -
     <math>\\begin{align}

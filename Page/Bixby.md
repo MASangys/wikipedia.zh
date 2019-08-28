@@ -47,29 +47,33 @@ Bixby分為四個部分，分別稱為「Bixby語音」、「Bixby影像辨識�
 
 #### Galaxy S
 
-  - [三星Galaxy S10](../Page/三星Galaxy_S10.md "wikilink") （包括S10+及S10e）
+  - [三星Galaxy S10](../Page/三星Galaxy_S10.md "wikilink") （包括S10+、S10 5G及S10e）
   - [三星Galaxy S9](../Page/三星Galaxy_S9.md "wikilink")（包括S9+）
   - [三星Galaxy S8](../Page/三星Galaxy_S8.md "wikilink")（包括S8+）
   - [三星Galaxy S8 Active](https://zh.wikipedia.org/wiki/三星Galaxy_S8_Active "wikilink")
   - [三星Galaxy S7](../Page/三星Galaxy_S7.md "wikilink")（包括S7 Edge；只限Bixby主頁及提醒）
-  - [三星Galaxy S6](../Page/三星Galaxy_S6.md "wikilink")（包括S6 Edge；只限Bixby主頁及提醒）
+  - [三星Galaxy S6](../Page/三星Galaxy_S6.md "wikilink")（包括S6 Edge及S6 Edge+；只限Bixby主頁及提醒）
 
 #### Galaxy Note
 
-  - [Samsung Galaxy Note Fan Edition](../Page/三星Galaxy_Note_7.md "wikilink")（只限Bixby主頁、提醒及影像辨識）
+  - [三星Galaxy Note 5](../Page/三星Galaxy_Note_5.md "wikilink")(只限Bixby主頁、提醒及影像辨識)
+  - [三星Galaxy Note Fan Edition](../Page/三星Galaxy_Note_Fan_Edition.md "wikilink")（只限Bixby主頁、提醒及影像辨識）
   - [三星Galaxy Note 8](../Page/三星Galaxy_Note_8.md "wikilink")
   - [三星Galaxy Note 9](../Page/三星Galaxy_Note_9.md "wikilink")
+  - [三星Galaxy Note 10](https://zh.wikipedia.org/wiki/三星Galaxy_Note_10 "wikilink")(包括Note 10+/10 5G/10+ 5G)
 
 ### 中檔智能手機及平板電腦
 
 #### Galaxy A
 
-三星Galaxy A70
-
+  - [三星Galaxy A50](../Page/三星Galaxy_A50.md "wikilink")
+  - [三星Galaxy A60](../Page/三星Galaxy_A60.md "wikilink")
+  - [三星Galaxy A70](../Page/三星Galaxy_A70.md "wikilink")
+  - [三星Galaxy A80](../Page/三星Galaxy_A80.md "wikilink")
   - [三星Galaxy A8s](../Page/三星Galaxy_A8s.md "wikilink")
   - [三星Galaxy A9 (2018)](../Page/三星Galaxy_A9_\(2018\).md "wikilink")
   - [三星Galaxy A8 (2018)](../Page/三星Galaxy_A8_\(2018\).md "wikilink")（包括A8+；只限Bixby主頁、提醒及影像辨識）
-  - [三星Galaxy A6/A6+](https://zh.wikipedia.org/wiki/三星Galaxy_A6/A6+ "wikilink")（只限Bixby主頁及影像辨識）
+  - [三星Galaxy A6 (2018)](../Page/三星Galaxy_A6_\(2018\).md "wikilink")（包括A6+；只限Bixby主頁及影像辨識）
   - [三星Galaxy A7 (2017)](../Page/三星Galaxy_A7_\(2017\).md "wikilink")（僅限韓國用戶使用；只限Bixby主頁及提醒）\[4\]
   - [三星Galaxy Tab A 8.0 (2017)](https://zh.wikipedia.org/wiki/三星Galaxy_Tab_A_8.0 "wikilink")（只限Bixby主頁及提醒）\[5\]
 
@@ -77,7 +81,7 @@ Bixby分為四個部分，分別稱為「Bixby語音」、「Bixby影像辨識�
 
   - [三星Galaxy J6(2018)](../Page/三星Galaxy_J6_\(2018\).md "wikilink")（只限Bixby主頁及提醒）
 
-  - 三星Galaxy J4 (2018)（只限Bixby主頁）
+  - [三星Galaxy J4 (2018)](../Page/三星Galaxy_J4_\(2018\).md "wikilink")（只限Bixby主頁）
 
   - 三星Galaxy J6+（只限Bixby主頁）
 
@@ -86,7 +90,7 @@ Bixby分為四個部分，分別稱為「Bixby語音」、「Bixby影像辨識�
   -
 #### Galaxy C
 
-  - Samsung Galaxy C8（只限Bixby主頁、提醒及影像辨識）
+  - [三星Galaxy C8](https://zh.wikipedia.org/wiki/三星Galaxy_C8 "wikilink")（只限Bixby主頁、提醒及影像辨識）
 
 ### 智能音箱
 

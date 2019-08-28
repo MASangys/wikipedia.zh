@@ -617,6 +617,10 @@
 | 7月19日            | Mnet                               | [PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")                           | Hui        |         |
 | 7月20日            | KBS                                | [叢林的法則](https://zh.wikipedia.org/wiki/叢林的法則 "wikilink")                        | 洪碩         |         |
 | 7月26日            | Olleh TV                           | 밀실의 아이들 (Secret Room of Children)                                              | 信源         |         |
+| 8月6日             | Arirang                            | After School Club                                                              |            |         |
+| 8月7日             | Brain-fficial Youtube              | Brain-fficial                                                                  | Hui 洪碩 信源  |         |
+| 8月9日 -           | Mnet                               | [The Call](../Page/The_Call.md "wikilink")                                     | Hui        | EP5 全員  |
+| 8月21日            | Mnet                               | TMI NEWS                                                                       | 洪碩 Kino    |         |
 
 ## 電台節目
 
@@ -664,23 +668,27 @@
 | 11月2日                 | SBS Power FM              | NCT的night night                                | 禹奭                   |                                |
 | 11月11日                | MBC Radio                 | [IDOL RADIO](../Page/IDOL_RADIO.md "wikilink") | Hui                  |                                |
 
-|            |             |                                                |        |    |
-| ---------- | ----------- | ---------------------------------------------- | ------ | -- |
-| 日期         | 電視台/ 網絡頻道   | 節目名稱                                           | 參與成員   | 備註 |
-| 2019       |             |                                                |        |    |
-| 2月1日、4月12日 | MBC         | [IDOL RADIO](../Page/IDOL_RADIO.md "wikilink") | 洪碩     |    |
-| 2月5日、3月12日 | MBC Radio   | [IDOL RADIO](../Page/IDOL_RADIO.md "wikilink") | 珍虎     |    |
-| 3月13日      | MBC Radio   | [IDOL RADIO](../Page/IDOL_RADIO.md "wikilink") | 禹奭     |    |
-| 3月27日      | MBC Radio   | [IDOL RADIO](../Page/IDOL_RADIO.md "wikilink") |        |    |
-| 3月28日      | KBS COOL FM | 文熙俊的Music Show                                 |        |    |
-| 4月2日       | MBC FM4U    | 金信英的正午希望曲                                      |        |    |
-| 4月12日      | KBS Cool FM | 朴元的Kiss the Radio                              | Hui 信源 |    |
-| 4月13日      | SBS PowerFM | 朴素賢的Love Game                                  | 珍虎 禹奭  |    |
-| 4月14日      | tbs eFM     | Idol’s Dignity                                 | 閆桉     |    |
-| 4月24日      | MBC Radio   | [IDOL RADIO](../Page/IDOL_RADIO.md "wikilink") | 珍虎 Hui |    |
-| 5月6日       | MBC Radio   | [IDOL RADIO](../Page/IDOL_RADIO.md "wikilink") | 閆桉     |    |
-| 7月18日      | MBC Radio   | [IDOL RADIO](../Page/IDOL_RADIO.md "wikilink") |        |    |
-| 7月24日      | MBC FM4U    | PARK KYUNG'S DREAMING RADIO                    |        |    |
+|            |                           |                                                |            |    |
+| ---------- | ------------------------- | ---------------------------------------------- | ---------- | -- |
+| 日期         | 電視台/ 網絡頻道                 | 節目名稱                                           | 參與成員       | 備註 |
+| 2019       |                           |                                                |            |    |
+| 2月1日、4月12日 | MBC                       | [IDOL RADIO](../Page/IDOL_RADIO.md "wikilink") | 洪碩         |    |
+| 2月5日、3月12日 | MBC Radio                 | [IDOL RADIO](../Page/IDOL_RADIO.md "wikilink") | 珍虎         |    |
+| 3月13日      | MBC Radio                 | [IDOL RADIO](../Page/IDOL_RADIO.md "wikilink") | 禹奭         |    |
+| 3月27日      | MBC Radio                 | [IDOL RADIO](../Page/IDOL_RADIO.md "wikilink") |            |    |
+| 3月28日      | KBS COOL FM               | 文熙俊的Music Show                                 |            |    |
+| 4月2日       | MBC FM4U                  | 金信英的正午希望曲                                      |            |    |
+| 4月12日      | KBS Cool FM               | 朴元的Kiss the Radio                              | Hui 信源     |    |
+| 4月13日      | SBS PowerFM               | 朴素賢的Love Game                                  | 珍虎 禹奭      |    |
+| 4月14日      | tbs eFM                   | Idol’s Dignity                                 | 閆桉         |    |
+| 4月24日      | MBC Radio                 | [IDOL RADIO](../Page/IDOL_RADIO.md "wikilink") | 珍虎 Hui     |    |
+| 5月6日       | MBC Radio                 | [IDOL RADIO](../Page/IDOL_RADIO.md "wikilink") | 閆桉         |    |
+| 7月18日      | MBC Radio                 | [IDOL RADIO](../Page/IDOL_RADIO.md "wikilink") |            |    |
+| 7月24日      | MBC FM4U                  | PARK KYUNG'S DREAMING RADIO                    |            |    |
+| 8月3日       | SBS Power FM              | 朴素賢的Love Game                                  | 珍虎、Yeo One |    |
+| 8月5日       | SBS Radio                 | Jung Somi's Young Street                       |            |    |
+| 8月6日       | MBC Radio                 | [IDOL RADIO](../Page/IDOL_RADIO.md "wikilink") |            |    |
+| 8月9日       | KBS World Radio Indonesia | KBS World Radio Indonesia                      |            |    |
 
 ## 廣告代言
 

@@ -899,7 +899,7 @@ B'z WAVE-GYM SPECIAL EVENT</p></td>
 08/08 和歌山県民文化会館</p>
 </div>
 </div>
-<p>以8月7日的岐阜公演為分界，達成在日本全都道府縣舉辦過LIVE-GYM。<br />
+<p>以8月7日的岐阜公演為分界，達成在日本全都道府縣舉辦過演唱會。<br />
 <strong>EDSE</strong> - 「美しき世界」</p></td>
 </tr>
 <tr class="odd">
@@ -1754,7 +1754,7 @@ RADIO CRAZY 2017</a></p></td>
 <td><p>2018年9月29日</p></td>
 <td><p><small>B'z PARTY Presents</small><br />
 B'z Pleasure in Hawaii</p></td>
-<td><p><strong>1會場1公演</strong> - Neal S. Blaisdell Concert Hall (Hawaii) 舉辦在夏威夷作為來自<a href="../Page/B&#39;z_Party.md" title="wikilink">B'z Party的粉絲俱樂部活動一環舉行的限定演唱會</a>。亦在日本國內電影院以粉絲俱樂部會員（可偕同非會員）為對象舉辦了電影院直播（Live Viewing）[47]。因根據<a href="../Page/颱風潭美_(2018年).md" title="wikilink">24號颱風的影響</a>，中止了部分地區的電影院直播，故於2018年12月9日、10日以中止上映的電影院，與其他交通網受影響的地區為中心實施了再度上映。</p></td>
+<td><p><strong>1會場1公演</strong> - Neal S. Blaisdell Concert Hall (Hawaii) 舉辦在夏威夷作為來自<a href="../Page/B&#39;z_Party.md" title="wikilink">B'z Party的粉絲俱樂部活動一環舉行的限定演唱會</a>。亦在日本國內電影院以粉絲俱樂部會員（可偕同非會員）為對象舉辦了現場直播[47]。因根據<a href="../Page/颱風潭美_(2018年).md" title="wikilink">24號颱風的影響</a>，中止了部分地區的現場直播，故於2018年12月9日、10日以中止上映的電影院，與其他交通網受影響的地區為中心實施了再度上映。</p></td>
 </tr>
 </tbody>
 </table>
@@ -1790,12 +1790,12 @@ B'z Pleasure in Hawaii</p></td>
 <p>標題取自合併了專輯標題與<a href="https://zh.wikipedia.org/wiki/Led_Zeppelin" title="wikilink">Led Zeppelin的樂曲</a>「<a href="https://zh.wikipedia.org/wiki/Whole_Lotta_Love" title="wikilink">Whole Lotta Love</a>」[48]。<br />
 因「作為一個樂團必須時時求變」這樣的成員意向，成為了自『B'z LIVE-GYM '98 "SURVIVE"』以來，支援樂手全體換新的巡演[49][50]。<br />
 在7月6日的大阪公演達成了LIVE-GYM總計第1000場公演[51][52]。<br />
-9月10日的福岡公演預定在日本全國電影院舉辦電影院直播（Live Viewing）。</p></td>
+9月10日的福岡公演預定在日本與<a href="../Page/臺灣.md" title="wikilink">臺灣</a>的電影院舉辦現場直播[53]。</p></td>
 </tr>
 <tr class="odd">
 <td><p>2019年8月16日・18日</p></td>
 <td><p><a href="../Page/SUMMER_SONIC.md" title="wikilink">SUMMER SONIC 2019</a></p></td>
-<td><p><strong>2會場2公演</strong> - <a href="../Page/千葉海洋球場.md" title="wikilink">ZOZO海洋球場</a>＆<a href="../Page/幕張展覽館.md" title="wikilink">幕張展覽館</a>、 作為B'z是睽違10年[53]的第3次出演。成為了SUMMER SONIC史上首次由日本藝人擔任主打音樂人[54]。</p></td>
+<td><p><strong>2會場2公演</strong> - <a href="../Page/千葉海洋球場.md" title="wikilink">ZOZO海洋球場</a>＆<a href="../Page/幕張展覽館.md" title="wikilink">幕張展覽館</a>、 作為B'z是睽違10年[54]的第3次出演。成為了SUMMER SONIC史上首次由日本藝人擔任主打音樂人[55]。</p></td>
 </tr>
 </tbody>
 </table>
@@ -1892,7 +1892,7 @@ DVD版、BD版皆共同收錄了巡演紀錄片DVD。</p></td>
 2010年12月22日 (Blu-ray Disc)</p></td>
 <td><p>BMBV-5001 (DVD)<br />
 BMXV-1002 - 3 (Blu-ray Disc)</p></td>
-<td><p>雖是由Network Live（現・Control Room）擁有所有權的影像，但因權利期限過期而決定發行[55]。<br />
+<td><p>雖是由Network Live（現・Control Room）擁有所有權的影像，但因權利期限過期而決定發行[56]。<br />
 2008年度Oricon公信榜年間音樂DVD榜第7位。<br />
 BD版是與<a href="../Page/B&#39;z_The_Best_&quot;ULTRA_Treasure&quot;.md" title="wikilink">B'z The Best "ULTRA Treasure"特典DVD的</a>「B'z SHOWCASE 2007 "19" at Zepp Tokyo」併成一套發行。</p></td>
 </tr>
@@ -1917,7 +1917,7 @@ B'z LIVE-GYM 2003 "BIG MACHINE"<br />
 B'z LIVE-GYM 2005 "CIRCLE OF ROCK"</p></td>
 <td><p>2008年<a href="../Page/12月10日.md" title="wikilink">12月10日</a> (DVD)</p></td>
 <td><p>BMBV-5002 - 4 (DVD)</p></td>
-<td><p>紀念結成20週年，收錄內容由未發表演唱會影像所構成[56]。<br />
+<td><p>紀念結成20週年，收錄內容由未發表演唱會影像所構成[57]。<br />
 2009年度Oricon公信榜年間音樂DVD榜第12位。</p></td>
 </tr>
 <tr class="even">
@@ -1966,7 +1966,7 @@ BMXV-5013(Blu-ray Disc)</p></td>
 <td><p><a href="../Page/2013年.md" title="wikilink">2013年</a><a href="../Page/1月30日.md" title="wikilink">1月30日</a> (DVD/Blu-ray Disc)</p></td>
 <td><p>BMBV-5015 - 5016(DVD)<br />
 BMXV-5015 (Blu-ray Disc)</p></td>
-<td><p>未發表巡演影像作品3個月連續發行第1彈[57]</p></td>
+<td><p>未發表巡演影像作品3個月連續發行第1彈[58]</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/B&#39;z_LIVE-GYM_2005_-CIRCLE_OF_ROCK-.md" title="wikilink">B'z LIVE-GYM 2005<br />
@@ -1974,14 +1974,14 @@ BMXV-5015 (Blu-ray Disc)</p></td>
 <td><p>B'z LIVE-GYM 2005 "CIRCLE OF ROCK"</p></td>
 <td><p>2013年<a href="../Page/2月27日.md" title="wikilink">2月27日</a> (DVD)</p></td>
 <td><p>BMBV-5017 - 5018 (DVD)</p></td>
-<td><p>未發表巡演影像作品3個月連續發行第2彈[58]</p></td>
+<td><p>未發表巡演影像作品3個月連續發行第2彈[59]</p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/B&#39;z_LIVE-GYM_2001_-ELEVEN-.md" title="wikilink">B'z LIVE-GYM 2001 -ELEVEN-</a></strong></p></td>
 <td><p>B'z LIVE-GYM 2001 "ELEVEN"</p></td>
 <td><p>2013年<a href="../Page/3月27日.md" title="wikilink">3月27日</a> (DVD)</p></td>
 <td><p>BMBV-5019 - 5020 (DVD)</p></td>
-<td><p>未發表巡演影像作品3個月連續發行第3彈[59]</p></td>
+<td><p>未發表巡演影像作品3個月連續發行第3彈[60]</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/B&#39;z_LIVE-GYM_Pleasure_2013_ENDLESS_SUMMER_-XXV_BEST-.md" title="wikilink">B'z LIVE-GYM Pleasure 2013<br />
@@ -1995,8 +1995,8 @@ BMXV-5021 - 5022 (Blu-ray Disc)<br />
 通常盤<br />
 BMBV-5025 - 5026(DVD)<br />
 BMXV-5025 (Blu-ray Disc)</p></td>
-<td><p>完全盤是除了收錄了Tour Final的日產體育場公演以外，亦收錄了巡演紀錄片與音樂廳Tour Final的會津風雅堂公演[60]。<br />
-通常盤是僅收錄了Tour Final的日產體育場公演[61]。</p></td>
+<td><p>完全盤是除了收錄了Tour Final的日產體育場公演以外，亦收錄了巡演紀錄片與音樂廳Tour Final的會津風雅堂公演[61]。<br />
+通常盤是僅收錄了Tour Final的日產體育場公演[62]。</p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/B&#39;z_LIVE-GYM_2015_-EPIC_NIGHT-.md" title="wikilink">B'z LIVE-GYM 2015<br />
@@ -2431,9 +2431,9 @@ Hidden Treasure<br />
 
 52.
 
-53. 2017年僅稻葉作為INABA/SALAS出演。
+53.
 
-54.
+54. 2017年僅稻葉作為INABA/SALAS出演。
 
 55.
 
@@ -2442,7 +2442,9 @@ Hidden Treasure<br />
 57.
 
 58.
+
 59.
 60.
-
 61.
+
+62.

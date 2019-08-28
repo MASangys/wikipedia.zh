@@ -140,7 +140,8 @@
 <td><p>Natruja Chutiwansopon</p></td>
 <td></td>
 <td><p>1期</p></td>
-<td><p>BNK48最年長</p></td>
+<td><p>BNK48最年長<br />
+2019年8月20日－9月20日暫停活動[31]</p></td>
 <td><p>8</p></td>
 </tr>
 <tr class="even">
@@ -195,7 +196,7 @@
 <td><p>Pimrapat Phadungwatanachok</p></td>
 <td></td>
 <td><p>1期</p></td>
-<td><p>2018年9月18日－10月15日於AKB48進行短期留學[31][32]</p></td>
+<td><p>2018年9月18日－10月15日於AKB48進行短期留學[32][33]</p></td>
 <td><p>4</p></td>
 </tr>
 <tr class="even">
@@ -269,7 +270,7 @@
 Sachiya Hanami</p></td>
 <td></td>
 <td><p>1期</p></td>
-<td><p>日本與泰國混血[33]</p></td>
+<td><p>日本與泰國混血[34]</p></td>
 <td><p>17</p></td>
 </tr>
 <tr class="even">
@@ -326,7 +327,7 @@ Sachiya Hanami</p></td>
 <td><p>Punyawee Jungcharoen</p></td>
 <td></td>
 <td><p>2期</p></td>
-<td><p>預定移籍至CGM48[34]</p></td>
+<td><p>預定移籍至CGM48[35]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -344,19 +345,10 @@ Sachiya Hanami</p></td>
 <td><p>Nawaporn Chansuk</p></td>
 <td></td>
 <td><p>2期</p></td>
-<td><p>預定於2019年8月11日畢業[35]</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Deenee</p></td>
-<td></td>
-<td><p>Pimnipa Tungsakul</p></td>
-<td></td>
-<td><p>2期</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>Faii</p></td>
 <td></td>
 <td><p>Sumitra Duangkaew</p></td>
@@ -365,7 +357,7 @@ Sachiya Hanami</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Fifa</p></td>
 <td><p>{{lang|th|ปวีณ์ธิดา สกุลพิพัฒน์</p></td>
 <td><p>Paweethida Sakunpiphat</p></td>
@@ -374,7 +366,7 @@ Sachiya Hanami</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Fond</p></td>
 <td></td>
 <td><p>Natticha Chantaravareelekha</p></td>
@@ -383,7 +375,7 @@ Sachiya Hanami</p></td>
 <td></td>
 <td><p>26</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Gygee</p></td>
 <td></td>
 <td><p>Nuttakul Pimtongchaikul</p></td>
@@ -392,7 +384,7 @@ Sachiya Hanami</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Juné</p></td>
 <td></td>
 <td><p>Plearnpichaya Komalarajun</p></td>
@@ -401,7 +393,7 @@ Sachiya Hanami</p></td>
 <td></td>
 <td><p>31</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Khamin</p></td>
 <td></td>
 <td><p>Manipa Roopanya</p></td>
@@ -410,7 +402,7 @@ Sachiya Hanami</p></td>
 <td></td>
 <td><p>22</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Kheng</p></td>
 <td></td>
 <td><p>Juthamas Khonta</p></td>
@@ -419,16 +411,16 @@ Sachiya Hanami</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Maira</p></td>
 <td></td>
 <td><p>Maira Kuyama</p></td>
 <td></td>
 <td><p>2期</p></td>
-<td></td>
+<td><p>2019年8月12日－10月12日暫停活動[36]</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Mewnich</p></td>
 <td></td>
 <td><p>Nannaphas Loetnamchoetsakun</p></td>
@@ -437,7 +429,7 @@ Sachiya Hanami</p></td>
 <td></td>
 <td><p>23</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Minmin</p></td>
 <td></td>
 <td><p>Rachaya Tupkunanon</p></td>
@@ -446,7 +438,7 @@ Sachiya Hanami</p></td>
 <td></td>
 <td><p>19</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Myyu</p></td>
 <td></td>
 <td><p>Khawisara Singplod</p></td>
@@ -455,7 +447,7 @@ Sachiya Hanami</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Natherine</p></td>
 <td></td>
 <td><p>Dusita Kitisarakulchai</p></td>
@@ -464,7 +456,7 @@ Sachiya Hanami</p></td>
 <td></td>
 <td><p>14</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>New</p></td>
 <td></td>
 <td><p>Chanyapuk Numprasop</p></td>
@@ -473,7 +465,7 @@ Sachiya Hanami</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Niky</p></td>
 <td></td>
 <td><p>Warinrat Yolprasong</p></td>
@@ -482,7 +474,7 @@ Sachiya Hanami</p></td>
 <td><p>BNK48最年少</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Nine</p></td>
 <td></td>
 <td><p>Phattharanarin Mueanarit</p></td>
@@ -491,7 +483,7 @@ Sachiya Hanami</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Oom</p></td>
 <td></td>
 <td><p>Natcha Krisdhasima</p></td>
@@ -500,7 +492,7 @@ Sachiya Hanami</p></td>
 <td></td>
 <td><p>27</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Pakwan</p></td>
 <td></td>
 <td><p>Pakwan Noijaiboon</p></td>
@@ -509,7 +501,7 @@ Sachiya Hanami</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Panda</p></td>
 <td></td>
 <td><p>Jidrapha Chamchooy</p></td>
@@ -518,7 +510,7 @@ Sachiya Hanami</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Phukkhom</p></td>
 <td></td>
 <td><p>Sirikarn Shinnawatsuwan</p></td>
@@ -527,7 +519,7 @@ Sachiya Hanami</p></td>
 <td></td>
 <td><p>25</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Ratah</p></td>
 <td></td>
 <td><p>Ratah Chinkrajangkit</p></td>
@@ -536,7 +528,7 @@ Sachiya Hanami</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Stang</p></td>
 <td></td>
 <td><p>Tarisa Preechatangkit</p></td>
@@ -545,7 +537,7 @@ Sachiya Hanami</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>View</p></td>
 <td></td>
 <td><p>Kamonthida Rotthawinithi</p></td>
@@ -554,7 +546,7 @@ Sachiya Hanami</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Wee</p></td>
 <td></td>
 <td><p>Weeraya Zhang</p></td>
@@ -595,7 +587,7 @@ Sachiya Hanami</p></td>
 <td><p>1期</p></td>
 <td><p>-</p></td>
 <td><p>2017年9月23日</p></td>
-<td><p>畢業[36]</p></td>
+<td><p>畢業[37]</p></td>
 </tr>
 <tr class="even">
 <td><p>Cincin</p></td>
@@ -605,7 +597,7 @@ Sachiya Hanami</p></td>
 <td><p>1期</p></td>
 <td><p>-</p></td>
 <td><p>2017年11月18日</p></td>
-<td><p>畢業[37]</p></td>
+<td><p>畢業[38]</p></td>
 </tr>
 <tr class="odd">
 <td><p>Jan</p></td>
@@ -614,9 +606,9 @@ Sachiya Hanami</p></td>
 <td></td>
 <td><p>1期</p></td>
 <td><p>BIII</p></td>
-<td><p>2018年2月28日[38]</p></td>
+<td><p>2018年2月28日[39]</p></td>
 <td><p>畢業<br />
-所屬經紀公司為[39][40]</p></td>
+所屬經紀公司為[40][41]</p></td>
 </tr>
 <tr class="even">
 <td><p>Can</p></td>
@@ -626,7 +618,7 @@ Sachiya Hanami</p></td>
 <td><p>1期</p></td>
 <td><p>BIII</p></td>
 <td><p>2018年8月26日</p></td>
-<td><p>畢業[41]<br />
+<td><p>畢業[42]<br />
 所屬經紀公司為BNK48 Office</p></td>
 </tr>
 <tr class="odd">
@@ -667,7 +659,7 @@ Sachiya Hanami</p></td>
 <td><p>1期</p></td>
 <td><p>2018年2月12日</p></td>
 <td><p>丹麥與泰國混血<br />
-畢業[42]</p></td>
+畢業[43]</p></td>
 </tr>
 <tr class="even">
 <td><p>Maysa</p></td>
@@ -676,9 +668,18 @@ Sachiya Hanami</p></td>
 <td></td>
 <td><p>1期</p></td>
 <td><p>2018年10月31日</p></td>
-<td><p>畢業[43]</p></td>
+<td><p>畢業[44]</p></td>
 </tr>
 <tr class="odd">
+<td><p>Deenee</p></td>
+<td></td>
+<td><p>Pimnipa Tungsakul</p></td>
+<td></td>
+<td><p>2期</p></td>
+<td><p>2019年8月11日</p></td>
+<td><p>畢業[45]</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -830,6 +831,31 @@ Sachiya Hanami</p></td>
 <td><p>27</p></td>
 </tr>
 <tr class="even">
+<td><p>2019年</p></td>
+<td><p>人數</p></td>
+<td><p>隊伍別</p></td>
+<td><p>加入期別<br />
+人數變動</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>全</p></td>
+<td><p>1期</p></td>
+<td><p>2期</p></td>
+<td><p>BIII</p></td>
+<td><p>研</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>8月11日</p></td>
+<td><p>研究生Deenee畢業</p></td>
+<td><p>-1</p></td>
+<td><p>50</p></td>
+<td><p>24</p></td>
+<td><p>26</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -968,7 +994,7 @@ Type B</p></td>
 
 ### 二期生
 
-  - 應徵總數：10782名\[44\]
+  - 應徵總數：10782名\[46\]
   - 徵選時間：2017年12月25日－2018年2月1日
   - 第一次審査：合格者約300名
   - 第二次審査（2018年2月中旬）：合格者94名
@@ -977,15 +1003,15 @@ Type B</p></td>
 **最終合格者（27名）**（粗體字者為在籍成員）
 
   -
-    **Aom、Bamboo、Cake、Deenee、Faii、Fifa、Fond、Gygee、Juné、Khamin、Kheng、Maira、Mewnich、Minmin、Myyu、Natherine、New、Niky、Nine、Oom、Pakwan、Panda、Phukkhom、Ratah、Stang、View、Wee**
+    **Aom、Bamboo、Cake**、Deenee、**Faii、Fifa、Fond、Gygee、Juné、Khamin、Kheng、Maira、Mewnich、Minmin、Myyu、Natherine、New、Niky、Nine、Oom、Pakwan、Panda、Phukkhom、Ratah、Stang、View、Wee**
 
 ## 劇場公演
 
-自2018年5月起、组合与专属剧场“BNK48劇場”进行定期公演\[45\]。 [BNK48_theater.jpg](https://zh.wikipedia.org/wiki/File:BNK48_theater.jpg "fig:BNK48_theater.jpg")
+自2018年5月起、组合与专属剧场“BNK48劇場”进行定期公演\[47\]。 [BNK48_theater.jpg](https://zh.wikipedia.org/wiki/File:BNK48_theater.jpg "fig:BNK48_theater.jpg")
 
 ### Team BIII
 
-1.  [PARTY開始了](https://zh.wikipedia.org/wiki/Team_A_1st_Stage「PARTY開始了」#BNK48_Team_BIII_1st_Stage「PARTY開始了」公演 "wikilink")：2018年5月12日\[46\]－\[47\]
+1.  [PARTY開始了](https://zh.wikipedia.org/wiki/Team_A_1st_Stage「PARTY開始了」#BNK48_Team_BIII_1st_Stage「PARTY開始了」公演 "wikilink")：2018年5月12日\[48\]－\[49\]
 
 ### 研究生
 
@@ -1146,8 +1172,8 @@ Bluport Huahin</p></td>
 33.
 
 34.
-35.
 
+35.
 36.
 
 37.
@@ -1167,6 +1193,10 @@ Bluport Huahin</p></td>
 44.
 
 45.
-46. 于同月6 - 7日举行了面向Founder Member，不对外售票的首演
+
+46.
 
 47.
+48. 于同月6 - 7日举行了面向Founder Member，不对外售票的首演
+
+49.

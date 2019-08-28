@@ -104,6 +104,7 @@
   - 机动战士高达 我们是联邦愚联队
   - 机动战士高达 KATANA
   - [机动战士高达0083 REBELLION](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_0083：Stardust_Memory#漫畫版 "wikilink")
+  - 机动战士MOON高达
   - CCA-MSV
   - Z-MSV
   - ZZ-MSV

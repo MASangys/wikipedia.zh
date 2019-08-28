@@ -7,7 +7,7 @@
 
 ### 出道前：5LIVE
 
-2012年，Jae參加[SBS電視台選秀節目](../Page/SBS_\(韓國\).md "wikilink")《[K-pop Star](../Page/K-pop_Star_1.md "wikilink")》第一季，最終獲得第六名並與[JYP娛樂](../Page/JYP娛樂.md "wikilink")簽約\[4\]。最初JYP娛樂宣佈推出一個名為「5LIVE」的5人樂團，採Acoustic Band的形式表演，成員有Jae、晟鎮、Young K、晙赫與元弼。2013年9月，5LIVE以JYP娛樂練習生的身分於[Mnet電視台實境節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[WIN](../Page/WIN.md "wikilink")》第四集中首次亮相，與[YG娛樂](../Page/YG娛樂.md "wikilink")練習生就歌唱環節進行比拚\[5\]。同年11月演唱[KBS電視劇](https://zh.wikipedia.org/wiki/KBS "wikilink")《[漂亮男人](../Page/漂亮男人.md "wikilink")》原聲帶歌曲〈Lovely Girl〉。
+2012年，Jae參加[SBS電視台選秀節目](../Page/SBS_\(韓國\).md "wikilink")《[K-pop Star](../Page/K-pop_Star_1.md "wikilink")》第一季，最終獲得第六名並與[JYP娛樂](../Page/JYP娛樂.md "wikilink")簽約\[4\]。最初JYP娛樂宣佈推出一個名為「5LIVE」的5人樂團，採Acoustic Band的形式表演，成員有Jae、晟鎮、Young K、晙赫與元弼。2013年9月，5LIVE以JYP娛樂練習生的身分於[Mnet](../Page/Mnet.md "wikilink")電視台實境節目《[WIN](../Page/WIN.md "wikilink")》第四集中首次亮相，與[YG娛樂](../Page/YG娛樂.md "wikilink")練習生就歌唱環節進行比拚\[5\]。同年11月演唱[KBS電視劇](https://zh.wikipedia.org/wiki/KBS "wikilink")《[漂亮男人](../Page/漂亮男人.md "wikilink")》原聲帶歌曲〈Lovely Girl〉。
 
 鼓手度雲於音樂大學學習打鼓，後透過教授推薦參加JYP娛樂試鏡\[6\]。2015年7月，JYP娛樂宣布度雲加入團體，並更改團名為「DAY6」\[7\]。為了累積經驗、準備出道，DAY6在首爾陸續舉辦數場小型的Live演唱會。9月6日於弘大西橋舉辦出道Showcase。
 
@@ -19,7 +19,7 @@
 
 2016年1月，韓國DAY6粉絲圈內爆出晙赫疑似和某位女粉絲交往的傳聞，引發其他粉絲強烈不滿，數個晙赫個人應援站集體關閉\[10\]，其中部分粉絲認為晙赫的行為觀感不佳，可能會對團隊發展造成不良影響，要求晙赫退團\[11\]。1月31日，DAY6於首爾Rolling Hall舉行公演時，凡晙赫演唱段落台下粉絲一律靜默不予應援\[12\]，隨後數張疑似晙赫與該名女粉絲的私訊對話截圖流出\[13\]，2月25日，晙赫更改個人[Instagram](../Page/Instagram.md "wikilink")帳號，並刪除多篇貼文與簡介上的DAY6標籤。2月27日晚間，JYP娛樂宣布晙赫因個人因素退出DAY6，同時與其終止專屬合約。\[14\]
 
-2月29日，DAY6官方臉書發文表示原訂於美國舉辦的粉絲見面會以及加拿大的公演行程將會如期舉行，並懇請所有粉絲繼續給予剩下的5位團員鼓勵和支持。\[15\] 3月22日，JYP娛樂表示DAY6將不追加新成員，以5人組的形式繼續以後的活動\[16\]，3月30日發行第二張迷你專輯《[DAYDREAM](https://zh.wikipedia.org/wiki/DAYDREAM "wikilink")》，並在隔日於[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》帶來出道以來首個音樂放送舞台，此次回歸一改以往只專注公演的宣傳方式，以音樂放送節目為中心展開活動。\[17\]
+2月29日，DAY6官方臉書發文表示原訂於美國舉辦的粉絲見面會以及加拿大的公演行程將會如期舉行，並懇請所有粉絲繼續給予剩下的5位團員鼓勵和支持。\[15\] 3月22日，JYP娛樂表示DAY6將不追加新成員，以5人組的形式繼續以後的活動\[16\]，3月30日發行第二張迷你專輯《[DAYDREAM](https://zh.wikipedia.org/wiki/DAYDREAM "wikilink")》，並在隔日於[Mnet](../Page/Mnet.md "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》帶來出道以來首個音樂放送舞台，此次回歸一改以往只專注公演的宣傳方式，以音樂放送節目為中心展開活動。\[17\]
 
 4月12日，官方臉書宣佈DAY6將於5月28、29日舉辦第二次單獨演唱會《DREAM》的消息，預告DAY6將以更成熟、更進步的面貌跟大家見面，同時公開演唱會海報\[18\]。2016年年底，迷你二輯《DAYDREAM》因其熟練優質的創作，獲選[告示牌](../Page/告示牌_\(雜誌\).md "wikilink")2016年最佳韓國流行音樂專輯第二名。\[19\]
 
@@ -659,7 +659,7 @@ DAY6成員於韓國音樂著作權協會之登記編號分別是Jae：10010558\[
 | 2019年9月22日                                   | 芝加哥站      |                                                |
 | 2019年9月25日                                   | 三藩市站      |                                                |
 | 2019年9月28-29日                                | 洛杉磯站      |                                                |
-| 2019年10月6日                                   | 新加坡站      |                                                |
+| 2019年10月5日                                   | 新加坡站      | 星爍藝術表演中心                                       |
 | 2019年11月15日                                  | 墨爾本站      |                                                |
 | 2019年11月17日                                  | 雪梨站       |                                                |
 | 2019年11月23日                                  | 馬尼拉站      |                                                |
@@ -832,11 +832,11 @@ DAY6成員於韓國音樂著作權協會之登記編號分別是Jae：10010558\[
 
 ### 音樂節目獎項
 
-| 年份    | 日期                                                    | 電視台                                                                    | 節目名稱                                                 | 獲獎歌曲              | 排名 |
-| ----- | ----------------------------------------------------- | ---------------------------------------------------------------------- | ---------------------------------------------------- | ----------------- | -- |
-| 2019年 | 7月24日                                                 | [MBC Music](../Page/MBC_Plus_Media.md "wikilink")                      | [Show Champion](../Page/Show_Champion.md "wikilink") | Time For Our Page | 1位 |
-| 7月25日 | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") |                                                      |                   |    |
-| 7月31日 | [MBC Music](../Page/MBC_Plus_Media.md "wikilink")     | [Show Champion](../Page/Show_Champion.md "wikilink")                   |                                                      |                   |    |
+| 年份    | 日期                                                | 電視台                                                                    | 節目名稱                                                 | 獲獎歌曲             | 排名 |
+| ----- | ------------------------------------------------- | ---------------------------------------------------------------------- | ---------------------------------------------------- | ---------------- | -- |
+| 2019年 | 7月24日                                             | [MBC Music](../Page/MBC_Plus_Media.md "wikilink")                      | [Show Champion](../Page/Show_Champion.md "wikilink") | Time of Our Life | 1位 |
+| 7月25日 | [Mnet](../Page/Mnet.md "wikilink")                | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") |                                                      |                  |    |
+| 7月31日 | [MBC Music](../Page/MBC_Plus_Media.md "wikilink") | [Show Champion](../Page/Show_Champion.md "wikilink")                   |                                                      |                  |    |
 
 ## 韓國主要音樂節目排行榜
 

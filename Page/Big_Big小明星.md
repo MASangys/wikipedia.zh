@@ -99,41 +99,90 @@
 
 ### 2019年
 
-|        |                                                         |                              |
-| ------ | ------------------------------------------------------- | ---------------------------- |
-| **集數** | **播映日期**                                                | **主題**                       |
-| 80     | [1月5日](../Page/1月5日.md "wikilink")                      | 「Big Big小明星」－重溫伊健30年前兒童節目    |
-| 81     | [1月12日](../Page/1月12日.md "wikilink")                    | 「Big Big小明星」－生命遇上的陶笛伯樂       |
-| 82     | [1月19日](../Page/1月19日.md "wikilink")                    | 「Big Big小明星」－「桌遊校園」玩在起跑線     |
-| 83     | [1月26日](../Page/1月26日.md "wikilink")                    | 「Big Big KIDs」－五位小主持吸睛亮相     |
-| 84     | [2月2日](../Page/2月2日.md "wikilink")                      | 「Big Big KIDs」－開箱Share幻化創意城堡 |
-| 85     | [2月9日](../Page/2月9日.md "wikilink")                      | 「Big Big KIDs」－最搞笑小主持得主      |
-| 86     | [2月16日](../Page/2月16日.md "wikilink")                    | 「Big Big KIDs」－創意豬頭風景畫       |
-| 87     | [2月23日](../Page/2月23日.md "wikilink")                    | 「Big Big KIDs」－細說特殊睡覺癖好      |
-| 88     | [3月2日](../Page/3月2日.md "wikilink")                      | 「Big Big KIDs」－小汽球堆砌奇幻森林     |
-| 89     | [3月9日](../Page/3月9日.md "wikilink")                      | 「Big Big KIDs」－五花八門的興趣班      |
-| 90     | [3月16日](../Page/3月16日.md "wikilink")                    | 「Big Big KIDs」－小主持合力「改建高樓」   |
-| 91     | [3月23日](../Page/3月23日.md "wikilink")                    | 「Big Big KIDs」－Linus初登小廚房    |
-| 92     | [3月30日](../Page/3月30日.md "wikilink")                    | 「Big Big KIDs」－Max、瑪沙炮製家鄉小菜  |
-| 93     | [4月6日](../Page/4月6日.md "wikilink")                      | 「Big Big KIDs」－小主持壞習慣大公開     |
-| 94     | [4月13日](../Page/4月13日.md "wikilink")                    | 「Big Big KIDs」－洪永城突襲「搗亂」     |
-| 95     | [4月20日](../Page/4月20日.md "wikilink")                    | 「Big Big KIDs」－「淡定王」出動改建高樓   |
-| 96     | [4月27日](../Page/4月27日.md "wikilink")                    | 「Big Big KIDs」－蝦頭考驗小主持演技     |
-| 97     | [5月4日](../Page/5月4日.md "wikilink")                      | 「Big Big KIDs」－小主持的旅遊經歷      |
-| 98     | [5月11日](../Page/5月11日.md "wikilink")                    | 「Big Big KIDs」－DIY創意母親節禮物    |
-| 99     | [5月18日](../Page/5月18日.md "wikilink")                    | 「Big Big KIDs」－蝦頭似開心果？       |
-| 100    | [5月25日](../Page/5月25日.md "wikilink")                    | 「Big Big KIDs」－家有寵物的樂趣       |
-| 101    | [6月1日](../Page/6月1日.md "wikilink")                      | 「Big Big KIDs」－小主持搗蛋暗黑史      |
-| 102    | [6月8日](../Page/6月8日.md "wikilink")                      | 「Big Big KIDs」－誰激嬲小主持？       |
-| 103    | [6月15日](../Page/6月15日.md "wikilink")                    | 「Big Big KIDs」－小主持最重要的東西是甚麼？ |
-| 104    | [6月22日](../Page/6月22日.md "wikilink")                    | 「Big Big KIDs」－小主持的志願        |
-| 105    | [6月29日](../Page/6月29日.md "wikilink")                    | 「Big Big KIDs」－跟小主持做個好朋友     |
-| 106    | [7月6日](https://zh.wikipedia.org/wiki/7月6日 "wikilink")   | 「Big Big KIDs」－小明星愛爸媽        |
-| 107    | [7月13日](https://zh.wikipedia.org/wiki/7月13日 "wikilink") | 「Big Big KIDs」－小明星憑外表擇友？     |
-| 108    | [7月20日](https://zh.wikipedia.org/wiki/7月20日 "wikilink") | 「Big Big KIDs」－小明星生病『奇遇』     |
-| 109    | [7月27日](https://zh.wikipedia.org/wiki/7月27日 "wikilink") | 「Big Big KIDs」－小明星合力贏驕傲的GM   |
+|        |                                                         |                               |
+| ------ | ------------------------------------------------------- | ----------------------------- |
+| **集數** | **播映日期**                                                | **主題**                        |
+| 80     | [1月5日](../Page/1月5日.md "wikilink")                      | 「Big Big小明星」－重溫伊健30年前兒童節目     |
+| 81     | [1月12日](../Page/1月12日.md "wikilink")                    | 「Big Big小明星」－生命遇上的陶笛伯樂        |
+| 82     | [1月19日](../Page/1月19日.md "wikilink")                    | 「Big Big小明星」－「桌遊校園」玩在起跑線      |
+| 83     | [1月26日](../Page/1月26日.md "wikilink")                    | 「Big Big KIDs」－五位小主持吸睛亮相      |
+| 84     | [2月2日](../Page/2月2日.md "wikilink")                      | 「Big Big KIDs」－開箱Share幻化創意城堡  |
+| 85     | [2月9日](../Page/2月9日.md "wikilink")                      | 「Big Big KIDs」－最搞笑小主持得主       |
+| 86     | [2月16日](../Page/2月16日.md "wikilink")                    | 「Big Big KIDs」－創意豬頭風景畫        |
+| 87     | [2月23日](../Page/2月23日.md "wikilink")                    | 「Big Big KIDs」－細說特殊睡覺癖好       |
+| 88     | [3月2日](../Page/3月2日.md "wikilink")                      | 「Big Big KIDs」－小汽球堆砌奇幻森林      |
+| 89     | [3月9日](../Page/3月9日.md "wikilink")                      | 「Big Big KIDs」－五花八門的興趣班       |
+| 90     | [3月16日](../Page/3月16日.md "wikilink")                    | 「Big Big KIDs」－小主持合力「改建高樓」    |
+| 91     | [3月23日](../Page/3月23日.md "wikilink")                    | 「Big Big KIDs」－Linus初登小廚房     |
+| 92     | [3月30日](../Page/3月30日.md "wikilink")                    | 「Big Big KIDs」－Max、瑪沙炮製家鄉小菜   |
+| 93     | [4月6日](../Page/4月6日.md "wikilink")                      | 「Big Big KIDs」－小主持壞習慣大公開      |
+| 94     | [4月13日](../Page/4月13日.md "wikilink")                    | 「Big Big KIDs」－洪永城突襲「搗亂」      |
+| 95     | [4月20日](../Page/4月20日.md "wikilink")                    | 「Big Big KIDs」－「淡定王」出動改建高樓    |
+| 96     | [4月27日](../Page/4月27日.md "wikilink")                    | 「Big Big KIDs」－蝦頭考驗小主持演技      |
+| 97     | [5月4日](../Page/5月4日.md "wikilink")                      | 「Big Big KIDs」－小主持的旅遊經歷       |
+| 98     | [5月11日](../Page/5月11日.md "wikilink")                    | 「Big Big KIDs」－DIY創意母親節禮物     |
+| 99     | [5月18日](../Page/5月18日.md "wikilink")                    | 「Big Big KIDs」－蝦頭似開心果？        |
+| 100    | [5月25日](../Page/5月25日.md "wikilink")                    | 「Big Big KIDs」－家有寵物的樂趣        |
+| 101    | [6月1日](../Page/6月1日.md "wikilink")                      | 「Big Big KIDs」－小主持搗蛋暗黑史       |
+| 102    | [6月8日](../Page/6月8日.md "wikilink")                      | 「Big Big KIDs」－誰激嬲小主持？        |
+| 103    | [6月15日](../Page/6月15日.md "wikilink")                    | 「Big Big KIDs」－小主持最重要的東西是甚麼？  |
+| 104    | [6月22日](../Page/6月22日.md "wikilink")                    | 「Big Big KIDs」－小主持的志願         |
+| 105    | [6月29日](../Page/6月29日.md "wikilink")                    | 「Big Big KIDs」－跟小主持做個好朋友      |
+| 106    | [7月6日](https://zh.wikipedia.org/wiki/7月6日 "wikilink")   | 「Big Big KIDs」－小明星愛爸媽         |
+| 107    | [7月13日](https://zh.wikipedia.org/wiki/7月13日 "wikilink") | 「Big Big KIDs」－小明星憑外表擇友？      |
+| 108    | [7月20日](https://zh.wikipedia.org/wiki/7月20日 "wikilink") | 「Big Big KIDs」－小明星生病『奇遇』      |
+| 109    | [7月27日](https://zh.wikipedia.org/wiki/7月27日 "wikilink") | 「Big Big KIDs」－小明星合力贏驕傲的GM    |
+| 110    | [8月3日](../Page/8月3日.md "wikilink")                      | 「Big Big KIDs」－GM、小明星合作鬥Linus |
+| 111    | [8月10日](../Page/8月10日.md "wikilink")                    | 「Big Big KIDs」－小明星的交友之道       |
+| 112    | [8月17日](../Page/8月17日.md "wikilink")                    | 「Big Big KIDs」－小明星            |
 
 ## 主持
+
+<timeline> ImageSize = width:800 height:auto barincrement:19 PlotArea = left:100 bottom:30 top:20 right:50 Alignbars = justify DateFormat = mm/dd/yyyy Period = from:01/01/2015 till:09/01/2019 TimeAxis = orientation:horizontal format:mm/dd/yyyy
+
+Colors =
+
+` id:1 value:magenta`
+` id:2 value:yellow`
+` id:3 value:blue`
+` id:4 value:red`
+` id:5 value:green`
+` id:6 value:black`
+` id:7 value:lightpurple`
+` id:8 value:yelloworange`
+` id:9 value:pink`
+` id:10 value:teal`
+
+ScaleMajor = unit:year grid:black increment:1 start:01/01/2015
+
+BarData =
+
+` bar:1 text:"黃碧蓮"`
+` bar:2 text:"單文柔"`
+` bar:3 text:"鍾君揚"`
+` bar:4 text:"馬俊傑"`
+` bar:5 text:"鍾晴"`
+` bar:6 text:"鄧家禮"`
+` bar:7 text:"邱晴"`
+` bar:8 text:"何依婷"`
+` bar:9 text:"伍樂怡"`
+` bar:10 text:"王虹茵"`
+
+PlotData =
+
+` width:10 textcolor:black align:left anchor:from shift:(10,-4)`
+` bar:1 from: 07/01/2017 till:03/10/2018 color:1 `
+` bar:2 from: 07/01/2017 till:05/19/2018 color:2 `
+` bar:3 from: 07/01/2017 till:01/19/2019 color:3 `
+` bar:4 from: 07/01/2017 till:end   color:4 `
+` bar:5 from: 07/01/2017 till:01/19/2019 color:5 `
+` bar:6 from: 09/01/2018 till:10/06/2018 color:6 `
+` bar:7 from: 03/17/2018 till:end   color:7`
+` bar:8 from: 05/08/2018 till:01/19/2019 color:8`
+` bar:9 from: 03/10/2018 till:01/19/2019 color:9`
+` bar:10 from: 07/16/2019 till:end   color:10`
+
+</timeline> Note: 上述日期只計算正式任期，並非以嘉賓身分登場之日期
 
 ### 現任
 
@@ -146,16 +195,16 @@
 
 ### 前任
 
-| 姓名                                                                   | 暱稱\[10\] | 首次亮相日期     | 最後亮相日期          |
-| -------------------------------------------------------------------- | -------- | ---------- | --------------- |
-| [黃碧蓮](../Page/黃碧蓮.md "wikilink")（Linna）\[11\]                        | Linna    | 2017年7月1日  | 2018年3月10日      |
-| [單文柔](../Page/單文柔.md "wikilink")（Phoebe）                             | Phoebe   | 2017年7月1日  | 2018年5月19日      |
-| [鄧家禮](https://zh.wikipedia.org/wiki/:zh-yue:鄧家禮 "wikilink")（Vincent） | Vincent  | 2018年9月1日  | 2018年10月6日      |
-| [鍾晴](../Page/鍾晴_\(藝人\).md "wikilink")（Karlie）                        | Karlie   | 2017年7月1日  | 2019年2月2日\[12\] |
-| [鍾君揚](../Page/鍾君揚.md "wikilink")（Freeyon）                            | Freeyon  | 2017年7月1日  | 2019年1月19日      |
-| [何依婷](../Page/何依婷.md "wikilink")（Regina）                             | Regina   | 2018年5月8日  | 2019年1月19日      |
-| [伍樂怡](../Page/伍樂怡.md "wikilink")（Kelly）                              | Kelly    | 2018年3月10日 | 2019年1月19日      |
-|                                                                      |          |            |                 |
+| 姓名                                                                   | 暱稱\[10\] | 首次亮相日期     | 最後亮相日期           |
+| -------------------------------------------------------------------- | -------- | ---------- | ---------------- |
+| [黃碧蓮](../Page/黃碧蓮.md "wikilink")（Linna）\[11\]                        | Linna    | 2017年7月1日  | 2018年3月10日       |
+| [單文柔](../Page/單文柔.md "wikilink")（Phoebe）                             | Phoebe   | 2017年7月1日  | 2018年5月19日       |
+| [鄧家禮](https://zh.wikipedia.org/wiki/:zh-yue:鄧家禮 "wikilink")（Vincent） | Vincent  | 2018年9月1日  | 2018年10月6日       |
+| [鍾晴](../Page/鍾晴_\(藝人\).md "wikilink")（Karlie）                        | Karlie   | 2017年7月1日  | 2019年1月19日\[12\] |
+| [鍾君揚](../Page/鍾君揚.md "wikilink")（Freeyon）                            | Freeyon  | 2017年7月1日  | 2019年1月19日       |
+| [何依婷](../Page/何依婷.md "wikilink")（Regina）                             | Regina   | 2018年5月8日  | 2019年1月19日       |
+| [伍樂怡](../Page/伍樂怡.md "wikilink")（Kelly）                              | Kelly    | 2018年3月10日 | 2019年1月19日       |
+|                                                                      |          |            |                  |
 
 ## 以往童星
 

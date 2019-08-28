@@ -402,7 +402,7 @@ The draft lottery was held on April 28, 2017 with Trilogy having the first pick 
   - [Hakim Warrick](https://zh.wikipedia.org/wiki/Hakim_Warrick "wikilink")
   - [Jordan Williams](https://zh.wikipedia.org/wiki/Jordan_Williams_\(basketball\) "wikilink")
 
-## 播҉放頻道
+## 播放頻道
 
 [Fox Sports 1](https://zh.wikipedia.org/wiki/Fox_Sports_1 "wikilink") 會以預錄形式播放8星期常規賽和季後҉賽, Fox 則會直播決賽。\[18\]
 

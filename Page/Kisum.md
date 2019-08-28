@@ -314,7 +314,7 @@
 <tr class="odd">
 <td><p>2014</p></td>
 <td><p>7月3日 - 9月4日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="../Page/Show_Me_The_Money_3.md" title="wikilink">Show Me The Money 3</a></p></td>
 </tr>
 <tr class="even">

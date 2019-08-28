@@ -10,7 +10,7 @@
 | [金俊勉](https://zh.wikipedia.org/wiki/金俊勉 "wikilink") | 李有燦    | Next In CEO。IQ160的天才，但有脸盲症，无法认得他人外貌，喜欢寶拉。     | [黃積權](../Page/黃積權.md "wikilink") |
 | [夏沇秀](../Page/夏沇秀.md "wikilink")                    | 金寶拉    | 拥有强大记忆力的求职生。第三十次求职失败后，想进入Next In，喜欢有燦。        | [葉曉欣](../Page/葉曉欣.md "wikilink") |
 | [吳昶錫](../Page/吳昶錫.md "wikilink")                    | 閔泰柱    | Next In 副社长兼联合创办人。暖男一枚，最後因背叛Next In 而入獄。喜歡寶拉。 | [李鎮然](../Page/李鎮然.md "wikilink") |
-| [金叡園](../Page/金叡園.md "wikilink")                    | 閔泰拉    | 閔泰柱的妹妹。喜歡有燦。                                  | [凌晞](../Page/凌晞.md "wikilink")   |
+| [金叡園](../Page/金叡園.md "wikilink")                    | 閔泰拉    | 閔泰柱的妹妹，泰山集團千金、富二代。喜歡有燦。                       | [凌晞](../Page/凌晞.md "wikilink")   |
 |                                                     |        |                                               |                                  |
 
 ### 其他人物
@@ -68,7 +68,7 @@
 <tr class="even">
 <td><p><a href="../Page/崔智娜.md" title="wikilink">崔智娜</a></p></td>
 <td><p>鄭英淑</p></td>
-<td><p>副部長。寶拉的偶像。</p></td>
+<td><p>副部長。寶拉崇拜的偶像。</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/梁少霞" title="wikilink">梁少霞</a></p></td>
 </tr>
 <tr class="odd">

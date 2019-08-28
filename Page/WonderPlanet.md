@@ -17,6 +17,7 @@
   - 2015.07 發行新遊戲"[Crash Fever](../Page/Crash_Fever.md "wikilink")"，此遊戲的發行使此公司營收大幅提升。
   - 2016.12 創立第一個子公司"タノシム株式會社",目前為其主要之子公司。
   - 2017.07 [Japan Letures I L.P購入Wonder](https://zh.wikipedia.org/wiki/Japan_Letures_I_L.P "wikilink") Planet之大量股份。
+  - 2019.04 發行新遊戲"[女神剖析 -起源-](https://zh.wikipedia.org/wiki/女神剖析_-起源- "wikilink")"。
 
 ## 相關條目
 

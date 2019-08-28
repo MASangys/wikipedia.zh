@@ -44,7 +44,7 @@
 
 ## 外部連結
 
-  - （鎖區）
+  - [官方網站](https://www.alicesoft.com/heartfulmaman/)
 
 [Category:2017年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2017年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:2017年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2017年日本成人動畫 "wikilink")
 

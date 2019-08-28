@@ -408,7 +408,7 @@ Zion.T招牌的墨鏡跟合身的穿著，是大多數人對 Zion.T 的第一印
 </tr>
 <tr class="odd">
 <td><p>2013年11月14日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>《》 E03</p></td>
 </tr>
 <tr class="even">
@@ -423,12 +423,12 @@ Zion.T招牌的墨鏡跟合身的穿著，是大多數人對 Zion.T 的第一印
 </tr>
 <tr class="even">
 <td><p>2015年1月13日、2月17日、3月3日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/4種秀" title="wikilink">4種秀</a>》 E01、E06、E08 總整理篇</p></td>
 </tr>
 <tr class="odd">
 <td><p>2015年2月15日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>《<a href="../Page/Yaman_TV.md" title="wikilink">Yaman TV</a>》 E05</p></td>
 </tr>
 <tr class="even">
@@ -453,7 +453,7 @@ Zion.T招牌的墨鏡跟合身的穿著，是大多數人對 Zion.T 的第一印
 </tr>
 <tr class="even">
 <td><p>2015年8月27日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>《》 E02</p></td>
 </tr>
 <tr class="odd">
@@ -473,7 +473,7 @@ Zion.T招牌的墨鏡跟合身的穿著，是大多數人對 Zion.T 的第一印
 </tr>
 <tr class="even">
 <td><p>2016年5月13日-7月15日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>《<a href="../Page/Show_Me_The_Money_5.md" title="wikilink">Show Me The Money 5</a>》 E01-E10</p></td>
 </tr>
 <tr class="odd">

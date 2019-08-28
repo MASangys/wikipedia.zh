@@ -144,7 +144,7 @@
 
 ## 參考資料
 
-[Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink") [Category:曼谷人](https://zh.wikipedia.org/wiki/Category:曼谷人 "wikilink") [Category:泰國華人](https://zh.wikipedia.org/wiki/Category:泰國華人 "wikilink") [Category:1996年出生](https://zh.wikipedia.org/wiki/Category:1996年出生 "wikilink") [Category:在韓國的泰國人](https://zh.wikipedia.org/wiki/Category:在韓國的泰國人 "wikilink")
+[Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink") [Category:曼谷人](https://zh.wikipedia.org/wiki/Category:曼谷人 "wikilink") [Category:泰國華人](https://zh.wikipedia.org/wiki/Category:泰國華人 "wikilink") [Category:1996年出生](https://zh.wikipedia.org/wiki/Category:1996年出生 "wikilink") [Category:在韓國的泰國人](https://zh.wikipedia.org/wiki/Category:在韓國的泰國人 "wikilink") [Category:SM娛樂](https://zh.wikipedia.org/wiki/Category:SM娛樂 "wikilink")
 
 1.  [NCT's Ten releases 'Dream In A Dream' for 'SM Station' season 2](http://www.allkpop.com/article/2017/04/ncts-ten-releases-dream-in-a-dream-for-sm-station-season-2)
 2.

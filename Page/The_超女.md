@@ -133,6 +133,6 @@
 
   -
 
-[Category:高橋留美子](https://zh.wikipedia.org/wiki/Category:高橋留美子 "wikilink") [Category:高橋留美子原作改編動畫作品](https://zh.wikipedia.org/wiki/Category:高橋留美子原作改編動畫作品 "wikilink") [Category:週刊少年Sunday](https://zh.wikipedia.org/wiki/Category:週刊少年Sunday "wikilink") [Category:1986年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:1986年日本OVA動畫 "wikilink") [Category:小學館集英社製作動畫作品](https://zh.wikipedia.org/wiki/Category:小學館集英社製作動畫作品 "wikilink") [Category:外星生命題材漫畫](https://zh.wikipedia.org/wiki/Category:外星生命題材漫畫 "wikilink") [Category:外星生命題材動畫](https://zh.wikipedia.org/wiki/Category:外星生命題材動畫 "wikilink")
+[Category:高橋留美子](https://zh.wikipedia.org/wiki/Category:高橋留美子 "wikilink") [Category:高橋留美子原作改編動畫作品](https://zh.wikipedia.org/wiki/Category:高橋留美子原作改編動畫作品 "wikilink") [Category:週刊少年Sunday](https://zh.wikipedia.org/wiki/Category:週刊少年Sunday "wikilink") [Category:1980年首次發行的漫畫](https://zh.wikipedia.org/wiki/Category:1980年首次發行的漫畫 "wikilink") [Category:1986年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:1986年日本OVA動畫 "wikilink") [Category:小學館集英社製作動畫作品](https://zh.wikipedia.org/wiki/Category:小學館集英社製作動畫作品 "wikilink") [Category:外星生命題材漫畫](https://zh.wikipedia.org/wiki/Category:外星生命題材漫畫 "wikilink") [Category:外星生命題材動畫](https://zh.wikipedia.org/wiki/Category:外星生命題材動畫 "wikilink")
 
 1.

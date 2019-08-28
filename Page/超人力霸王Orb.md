@@ -509,7 +509,7 @@ Orb原本的形態。 身高：50公尺</p>
 <tr class="even">
 <td><p><strong>歐布原生之初<br />
 オリジン・ザ・ファースト<br />
-Origin Origin The First<br />
+Origin The First<br />
 </strong></p></td>
 <td><p>Orb原本形態的初始型。</p>
 <p>於O-50行星中的戰士之頂，凱被燃燒的光判定有資格授予光之戰士的力量，並被賜與歐布聖劍，而變身成為超人力霸王Orb。</p>

@@ -25,7 +25,7 @@
 <p>張丹菲</p>
 <hr>
 <p><a href="../Page/蔣英實.md" title="wikilink">蔣英實</a></p></td>
-<td><p>高三少女，因為數學不好壓力又太大，而祈禱能消失到一個很遠的地方，結果，就在跳進水坑，小弟弟球掉下來的那一剎那，穿越到了朝鮮，甚至還和皇帝談起了戀愛！？最後回到現代時，意外地找到了"現代"的李祹。</p></td>
+<td><p>高三少女，因為數學不好壓力又太大，而祈禱能消失到一個很遠的地方，結果，就在跳進水坑，穿越到了朝鮮，甚至還和皇帝談起了戀愛！？最後回到現代時，意外地找到了"現代"的李祹。</p></td>
 <td><p><a href="../Page/鄭可欣.md" title="wikilink">鄭可欣</a></p></td>
 </tr>
 <tr class="even">
@@ -133,7 +133,7 @@
 <td><center></td>
 <td><p>小孩子</p></td>
 <td><p>朴炎弟弟</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/蕭秀玲" title="wikilink">蕭秀玲</a></p></td>
+<td><p><a href="../Page/蕭秀玲.md" title="wikilink">蕭秀玲</a></p></td>
 </tr>
 </tbody>
 </table>

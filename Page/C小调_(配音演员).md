@@ -135,7 +135,7 @@
 
 [Category:女性配音员](https://zh.wikipedia.org/wiki/Category:女性配音员 "wikilink")
 
-1.  [你的名字完整中文配音演员表介绍 男女主角配音分别是谁](http://news.52fuqing.com/newsshow-1288910-3.html)
-2.  [豆瓣网 - C小调](https://movie.douban.com/celebrity/1361154/)
-3.  [《300英雄》邀C小调-Olivia献声系统语音](http://news.17173.com/content/2016-03-17/20160317145810909.shtml)
+1.
+2.
+3.
 4.  [《你的名字。》内地票房近五亿 首发国语版预告](http://ent.qq.com/a/20161212/035747.htm?t=1481545075821#p=1)

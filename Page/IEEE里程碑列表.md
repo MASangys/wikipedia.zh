@@ -55,7 +55,7 @@
   - 1911年 - 發現[超導現象](https://zh.wikipedia.org/wiki/超導 "wikilink")
   - 1914年 - [巴拿馬運河的](https://zh.wikipedia.org/wiki/巴拿馬運河 "wikilink")[電機工程](https://zh.wikipedia.org/wiki/電機工程 "wikilink")
 
-## 戰間期
+## 一戰間期
 
   - 1920 - [西屋公司](../Page/西屋公司.md "wikilink")[廣播電台是世界第一個商業廣播電台](https://zh.wikipedia.org/wiki/廣播電台 "wikilink")
   - 1924年 - [八木天線](https://zh.wikipedia.org/wiki/八木天線 "wikilink")

@@ -1,12 +1,12 @@
 \-{T|zh-hant:信用欺詐師JP;zh-hans:行骗天下JP; zh-hk:信用欺詐師JP; zh-cn:行骗天下JP; zh-tw:信用詐欺師JP}-
 
-，台灣和香港則譯為**信用詐欺師JP**\[1\]\[2\]是[日本](../Page/日本.md "wikilink")[富士电视台](https://zh.wikipedia.org/wiki/富士电视台 "wikilink")[2018年](../Page/2018年.md "wikilink")[春季](../Page/春季.md "wikilink")[4月](../Page/4月.md "wikilink")的[月九剧](https://zh.wikipedia.org/wiki/月九剧 "wikilink")。编剧是曾經寫過《[Legal High](../Page/Legal_High.md "wikilink")》的[古泽良太](https://zh.wikipedia.org/wiki/古泽良太 "wikilink")，主演為[長澤雅美](https://zh.wikipedia.org/wiki/長澤雅美 "wikilink")，搭檔的重要演員還有[東出昌大](../Page/東出昌大.md "wikilink")與[小日向文世](../Page/小日向文世.md "wikilink")。2019年5月18日(電影版日本上映時間翌日)播出特別篇《信用詐欺師JP：運勢篇》，加入[北村一輝](../Page/北村一輝.md "wikilink")、[中山美穗](../Page/中山美穗.md "wikilink")及[廣末涼子](../Page/廣末涼子.md "wikilink")等演員，作為富士開台60周年特別企劃播出。
+，中國大陸則譯為**行骗天下JP**是[日本](../Page/日本.md "wikilink")[富士电视台](https://zh.wikipedia.org/wiki/富士电视台 "wikilink")[2018年](../Page/2018年.md "wikilink")[春季](../Page/春季.md "wikilink")[4月](../Page/4月.md "wikilink")的[月九剧](https://zh.wikipedia.org/wiki/月九剧 "wikilink")。编剧是曾經寫過《[Legal High](../Page/Legal_High.md "wikilink")》的[古泽良太](https://zh.wikipedia.org/wiki/古泽良太 "wikilink")，主演為[長澤雅美](https://zh.wikipedia.org/wiki/長澤雅美 "wikilink")，搭檔的重要演員還有[東出昌大](../Page/東出昌大.md "wikilink")與[小日向文世](../Page/小日向文世.md "wikilink")。2019年5月18日(電影版日本上映時間翌日)播出特別篇《信用詐欺師JP：運勢篇》，加入[北村一輝](../Page/北村一輝.md "wikilink")、[中山美穗](../Page/中山美穗.md "wikilink")及[廣末涼子](../Page/廣末涼子.md "wikilink")等演員，作為富士開台60周年特別企劃播出。
 
-這齣戲是長澤雅美睽違11年以來，第二度接演富士電視台的月9檔連續劇，上一次為2007年的《[求婚大作戰](../Page/求婚大作戰.md "wikilink")》 \[3\]\[4\]。而日版《信用詐欺師JP》也確定將以古澤的腳本，同時翻拍成具有在地文化的韓國版編號《KR》及中國版《CN》的電視劇 \[5\]\[6\]。日方製作團隊於第九集播出日確定將進行以[香港](../Page/香港.md "wikilink")為舞台的電影版「浪漫篇」製作，並於翌年5月17日上映。\[7\]香港方面則於2019年7月25日以《信用詐欺師JP：香港浪漫篇》為題上映。
+這齣戲是長澤雅美睽違11年以來，第二度接演富士電視台的月9檔連續劇，上一次為2007年的《[求婚大作戰](../Page/求婚大作戰.md "wikilink")》 \[1\]\[2\]。而日版《信用詐欺師JP》也確定將以古澤的腳本，同時翻拍成具有在地文化的韓國版編號《KR》及中國版《CN》的電視劇 \[3\]\[4\]。日方製作團隊於第九集播出日確定將進行以[香港](../Page/香港.md "wikilink")為舞台的電影版「浪漫篇」製作，並於翌年5月17日上映。\[5\]香港方面則於2019年7月25日以《信用詐欺師JP：香港浪漫篇》為題上映。
 
-台灣電視台首播在[WakuWaku Japan頻道](../Page/WakuWaku_Japan.md "wikilink")，播映日期為2018年4月15日起每週日同步連載\[8\]，網路串流方面有提供雙語字幕的 [KKTV](../Page/KKTV.md "wikilink")\[9\] 與提供中文字幕的[愛奇藝台灣站進行當季放送](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink")。
+台灣電視台首播在[WakuWaku Japan頻道](../Page/WakuWaku_Japan.md "wikilink")，播映日期為2018年4月15日起每週日同步連載\[6\]，網路串流方面有提供雙語字幕的 [KKTV](../Page/KKTV.md "wikilink")\[7\] 與提供中文字幕的[愛奇藝台灣站進行當季放送](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink")。
 
-本剧主要讲述三名信用詐欺师（）凭借各自头脑，用各种异想天开的计划从利欲熏心的惡人們手中骗取钱财的單元劇故事 \[10\]\[11\]\[12\]。
+本剧主要讲述三名信用詐欺师（）凭借各自头脑，用各种异想天开的计划从利欲熏心的惡人們手中骗取钱财的單元劇故事 \[8\]\[9\]\[10\]。
 
 ## 登場人物
 
@@ -263,7 +263,7 @@
 </tr>
 <tr class="even">
 <td><p>與論彌榮</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/櫻井由紀" title="wikilink">櫻井由紀</a></p>
+<td><p><a href="../Page/櫻井由紀.md" title="wikilink">櫻井由紀</a></p>
 <hr>
 <p><a href="../Page/前田敦子.md" title="wikilink">前田敦子</a></p></td>
 <td><p>另一組「巢鴨」的詐欺師，以欺騙老年人來賺取零用錢。名為銀子，覬覦与論要造的財產。</p>
@@ -304,7 +304,7 @@
 </tr>
 <tr class="even">
 <td><p>美濃部美香</p></td>
-<td><p>　[13]</p></td>
+<td><p>　[11]</p></td>
 <td><p>美濃部MIKA化妝品公司的社長。</p></td>
 </tr>
 <tr class="odd">
@@ -337,13 +337,13 @@
 </tr>
 <tr class="even">
 <td><p>桂公彥</p></td>
-<td><p><a href="../Page/小池徹平.md" title="wikilink">小池徹平</a>　[14]<br />
+<td><p><a href="../Page/小池徹平.md" title="wikilink">小池徹平</a>　[12]<br />
 （童年：宮下柚百）</p></td>
 <td><p>年收入九億的IT公司董事長。對妻子施暴而離婚，喜歡體育所以收購許多球隊或俱樂部，認為球隊、球員或俱樂部是自己的所有物或附屬品，因此常堅決實行獨斷改革，用殘暴手段干涉球隊管理，導致球隊與球迷均不滿。</p></td>
 </tr>
 <tr class="odd">
 <td><p>鴨井美宇</p></td>
-<td><p><a href="../Page/平野美宇.md" title="wikilink">平野美宇</a>　[15]</p></td>
+<td><p><a href="../Page/平野美宇.md" title="wikilink">平野美宇</a>　[13]</p></td>
 <td><p>「東京JETS」職業桌球隊所屬隊員。</p></td>
 </tr>
 <tr class="even">
@@ -426,10 +426,10 @@
 <tr class="header">
 <th><p>集數</p></th>
 <th><p>播放日期</p></th>
-<th><p>篇名[16]</p></th>
-<th><p>標題[17]</p></th>
+<th><p>篇名[14]</p></th>
+<th><p>標題[15]</p></th>
 <th><p>導演</p></th>
-<th><p>收視率[18]</p></th>
+<th><p>收視率[16]</p></th>
 </tr>
 </thead>
 <tbody>
@@ -586,6 +586,7 @@
 [Category:长泽雅美](https://zh.wikipedia.org/wiki/Category:长泽雅美 "wikilink") [Category:2018年开播的日本电视剧集](https://zh.wikipedia.org/wiki/Category:2018年开播的日本电视剧集 "wikilink") [Category:日语电视剧](https://zh.wikipedia.org/wiki/Category:日语电视剧 "wikilink") [Category:日本电视喜剧](https://zh.wikipedia.org/wiki/Category:日本电视喜剧 "wikilink") [Category:古泽良太剧本电视剧](https://zh.wikipedia.org/wiki/Category:古泽良太剧本电视剧 "wikilink") [Category:诈骗题材电视剧](https://zh.wikipedia.org/wiki/Category:诈骗题材电视剧 "wikilink") [Category:日本犯罪剧](https://zh.wikipedia.org/wiki/Category:日本犯罪剧 "wikilink") [Category:電視劇改編電影](https://zh.wikipedia.org/wiki/Category:電視劇改編電影 "wikilink") [Category:日語電影](https://zh.wikipedia.org/wiki/Category:日語電影 "wikilink") [Category:日本喜劇片](https://zh.wikipedia.org/wiki/Category:日本喜劇片 "wikilink") [Category:日本犯罪片](https://zh.wikipedia.org/wiki/Category:日本犯罪片 "wikilink") [Category:2010年代喜剧犯罪片](https://zh.wikipedia.org/wiki/Category:2010年代喜剧犯罪片 "wikilink") [Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink") [Category:香港電視娛樂外購劇集](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購劇集 "wikilink") [Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink") [Category:2019年日本電影](https://zh.wikipedia.org/wiki/Category:2019年日本電影 "wikilink") [Category:富士電視台製作的電影](https://zh.wikipedia.org/wiki/Category:富士電視台製作的電影 "wikilink") [Category:2019年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2019年日本電視劇集 "wikilink") [Category:2019年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2019年電視特別劇集 "wikilink") [Category:富士電視台特別劇集](https://zh.wikipedia.org/wiki/Category:富士電視台特別劇集 "wikilink") [Category:週六獎賞](https://zh.wikipedia.org/wiki/Category:週六獎賞 "wikilink")
 
 1.
+
 2.
 
 3.
@@ -595,24 +596,21 @@
 5.
 
 6.
-
 7.
 
 8.
+
 9.
 
 10.
-
 11.
+
 12.
+
 13.
 
 14.
 
-15.
+15. [フジテレビオンデマンド コンフィデンスマンJP](http://fod-sp.fujitv.co.jp/s/genre/drama/ser4f07/)
 
 16.
-
-17. [フジテレビオンデマンド コンフィデンスマンJP](http://fod-sp.fujitv.co.jp/s/genre/drama/ser4f07/)
-
-18.

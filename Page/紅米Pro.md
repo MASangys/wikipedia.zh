@@ -102,7 +102,7 @@
 </tr>
 <tr class="odd">
 <td><p>相機</p></td>
-<td><p>主相機：1300 萬像素Sony IMX258鏡頭、F/2.0光圈、五片式鏡頭、<a href="https://zh.wikipedia.org/wiki/PDAF" title="wikilink">PDAF</a><a href="https://zh.wikipedia.org/wiki/相位" title="wikilink">相位對焦</a>、暗光畫質增強技術、雙色溫閃光燈、手動模式、水平儀、<a href="../Page/Full_HD.md" title="wikilink">1080p錄影</a>、120<a href="https://zh.wikipedia.org/wiki/fps" title="wikilink">fps</a> 慢動作錄影<br />
+<td><p>主相機：1300 萬像素Sony IMX258鏡頭、F/2.0光圈、五片式鏡頭、<a href="https://zh.wikipedia.org/wiki/PDAF" title="wikilink">PDAF</a><a href="../Page/相位.md" title="wikilink">相位</a>對焦、暗光畫質增強技術、雙色溫閃光燈、手動模式、水平儀、<a href="../Page/Full_HD.md" title="wikilink">1080p錄影</a>、120<a href="https://zh.wikipedia.org/wiki/fps" title="wikilink">fps</a> 慢動作錄影<br />
 景深輔助相機：500 萬像素三星鏡頭、F/2.0光圈<br />
 前相機：800 萬像素鏡頭、F/2.0光圈、第二代36級智慧美顏模式、<a href="../Page/Full_HD.md" title="wikilink">1080p錄影</a></p></td>
 <td></td>

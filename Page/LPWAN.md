@@ -7,7 +7,10 @@ LPWAN可以用來建立一個私有的[無線感測網路](../Page/無線感測�
 ## 相關條目
 
 1.  [ZigBee](../Page/ZigBee.md "wikilink")
-2.  [RPMA: Random Phase Multiple Access by Ingenu, <https://www.ingenu.com> San Diego, US](https://zh.wikipedia.org/wiki/RPMA:_Random_Phase_Multiple_Access_by_Ingenu,_https:/www.ingenu.com_San_Diego,_US "wikilink")
+
+## 外部連結
+
+  - RPMA: Random Phase Multiple Access by Ingenu, <https://www.ingenu.com> San Diego, US
 
 [Category:广域网](https://zh.wikipedia.org/wiki/Category:广域网 "wikilink") [Category:无线网络](https://zh.wikipedia.org/wiki/Category:无线网络 "wikilink")
 

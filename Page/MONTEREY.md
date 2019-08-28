@@ -56,8 +56,9 @@ O'East:
 1.  [MALIBU](../Page/MALIBU.md "wikilink") (日出康城5期)
 2.  [MONTARA](../Page/MONTARA.md "wikilink") (日出康城7A期)
 3.  [GRAND MONTARA](../Page/MONTARA.md "wikilink") (日出康城7B期)
-4.  [日出康城](../Page/日出康城.md "wikilink")9A期
-5.  [日出康城](../Page/日出康城.md "wikilink")9B期
+4.  [日出康城](../Page/日出康城.md "wikilink")9A期MARINI
+5.  [日出康城](../Page/日出康城.md "wikilink")9B期GRAND MARINI
+6.  [日出康城](../Page/日出康城.md "wikilink")9C期OCEAN MARINI
 
 ## 交通
 
@@ -83,7 +84,7 @@ O'East:
 
 <!-- end list -->
 
-  - 鄰近將軍澳廣場/富康花園/天晉/寶盈花園/怡明邨
+  - 屋苑周邊
 
 <!-- end list -->
 

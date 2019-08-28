@@ -48,7 +48,7 @@
 
 ## 註釋
 
-[WIN戲劇台](https://zh.wikipedia.org/wiki/WIN戲劇台 "wikilink"){{·}} [WIN兒童台](https://zh.wikipedia.org/wiki/WIN兒童台 "wikilink") | style = }}
+[MOMO追劇台](https://zh.wikipedia.org/wiki/MOMO追劇台 "wikilink"){{·}} [WIN兒童台](https://zh.wikipedia.org/wiki/WIN兒童台 "wikilink") | style = }}
 
 [Category:台灣電視台](https://zh.wikipedia.org/wiki/Category:台灣電視台 "wikilink")
 

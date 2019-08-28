@@ -54,7 +54,7 @@
 
   - Noel（全宇成、李相昆、羅成浩、姜均成）
   - [BESTie](../Page/BESTie.md "wikilink")（[鄭有智](https://zh.wikipedia.org/wiki/鄭有智 "wikilink")、[宋多惠](https://zh.wikipedia.org/wiki/宋多惠 "wikilink")、[姜蕙姸](https://zh.wikipedia.org/wiki/姜蕙姸 "wikilink")）
-  - [KNK](https://zh.wikipedia.org/wiki/KNK "wikilink")（金有眞、朴承俊、鄭因成、金智勳、吳熙俊）
+  - [KNK](../Page/KNK.md "wikilink")（金有眞、朴承俊、鄭因成、金智勳、吳熙俊）
 
 ## 參考文獻
 

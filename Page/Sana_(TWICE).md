@@ -99,7 +99,7 @@
 | 2016年9月15日  | 《[MBC偶像明星運動會](https://zh.wikipedia.org/wiki/MBC偶像明星運動會 "wikilink")》 |                                                                       |            |
 | 2017年11月24日 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")                 | 《[Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》   |            |
 | 2017年12月29日 | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")               | 《[KBS歌谣盛典](https://zh.wikipedia.org/wiki/KBS歌谣盛典 "wikilink")》         |            |
-| 2018年4月26日  | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")               | 《[M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》 |            |
+| 2018年4月26日  | [Mnet](../Page/Mnet.md "wikilink")                                  | 《[M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》 |            |
 
 ## 註釋
 

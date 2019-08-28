@@ -94,9 +94,9 @@ News 獲得了新設計（News僅限於美國、澳洲及英國）。
 
 ### iPhone
 
-  - [iPhone 5s](https://zh.wikipedia.org/wiki/iPhone_5s "wikilink")
-  - [iPhone 6](https://zh.wikipedia.org/wiki/iPhone_6 "wikilink")
-  - [iPhone 6 Plus](https://zh.wikipedia.org/wiki/iPhone_6 "wikilink")
+  - [iPhone 5s](https://zh.wikipedia.org/wiki/iPhone_5s "wikilink") （此iOS版本為最後一個支援此裝置的版本）
+  - [iPhone 6](https://zh.wikipedia.org/wiki/iPhone_6 "wikilink") （此iOS版本為最後一個支援此裝置的版本）
+  - [iPhone 6 Plus](https://zh.wikipedia.org/wiki/iPhone_6 "wikilink") （此iOS版本為最後一個支援此裝置的版本）
   - [iPhone 6S](https://zh.wikipedia.org/wiki/iPhone_6S "wikilink")
   - [iPhone 6S Plus](https://zh.wikipedia.org/wiki/iPhone_6S "wikilink")
   - [iPhone SE](https://zh.wikipedia.org/wiki/iPhone_SE "wikilink")
@@ -111,16 +111,18 @@ News 獲得了新設計（News僅限於美國、澳洲及英國）。
 
 ### iPod Touch
 
-  - [iPod touch 6](https://zh.wikipedia.org/wiki/iPod_touch_6 "wikilink")
+  - [iPod touch 6](https://zh.wikipedia.org/wiki/iPod_touch_6 "wikilink") （此iOS版本為最後一個支援此裝置的版本）
 
 ### iPad
 
-  - [iPad Air](https://zh.wikipedia.org/wiki/iPad_Air "wikilink")
+iOS 12為最後一個以iOS名義支援所有iPad的作業系統，新一代可用於iPad的作業系統為[iPadOS](https://zh.wikipedia.org/wiki/iPadOS "wikilink")，iOS 13不支援所有iPad。
+
+  - [iPad Air](https://zh.wikipedia.org/wiki/iPad_Air "wikilink") （此iOS版本為最後一個支援此裝置的版本）
   - [iPad Air 2](https://zh.wikipedia.org/wiki/iPad_Air_2 "wikilink")
   - [iPad (2017)](https://zh.wikipedia.org/wiki/iPad_\(2017\) "wikilink")
   - [iPad (2018)](https://zh.wikipedia.org/wiki/iPad_\(2018\) "wikilink")
-  - [iPad mini 2](https://zh.wikipedia.org/wiki/iPad_mini_2 "wikilink")
-  - [iPad mini 3](https://zh.wikipedia.org/wiki/iPad_mini_3 "wikilink")
+  - [iPad mini 2](https://zh.wikipedia.org/wiki/iPad_mini_2 "wikilink") （此iOS版本為最後一個支援此裝置的版本）
+  - [iPad mini 3](https://zh.wikipedia.org/wiki/iPad_mini_3 "wikilink") （此iOS版本為最後一個支援此裝置的版本）
   - [iPad mini 4](https://zh.wikipedia.org/wiki/iPad_mini_4 "wikilink")
   - [iPad mini (第五代)](https://zh.wikipedia.org/wiki/iPad_mini_\(第五代\) "wikilink")
   - [iPad Pro (9.7寸)](https://zh.wikipedia.org/wiki/iPad_Pro "wikilink")
@@ -129,6 +131,26 @@ News 獲得了新設計（News僅限於美國、澳洲及英國）。
   - [iPad Pro (12.9寸 第1代)](https://zh.wikipedia.org/wiki/iPad_Pro "wikilink")
   - [iPad Pro (12.9寸 第2代)](https://zh.wikipedia.org/wiki/iPad_Pro "wikilink")
   - [iPad Pro (12.9寸 第3代)](https://zh.wikipedia.org/wiki/iPad_Pro "wikilink")
+
+## 繁體中文化
+
+繼[iOS 11針對簡體中文環境進行中文化之後](https://zh.wikipedia.org/wiki/iOS_11 "wikilink")，在此版本的iOS也針對繁體中文環境進行多項功能名稱的中文化，相對於簡體中文環境下，仍有部分功能未進行中文化的翻譯，包含[AirDrop](https://zh.wikipedia.org/wiki/AirDrop "wikilink")、[AirPlay](https://zh.wikipedia.org/wiki/AirPlay "wikilink")、[AirPrint等](https://zh.wikipedia.org/wiki/AirPrint "wikilink")\[6\]\[7\]。
+
+| 功能原稱            | 臺灣繁體中文化   | 香港繁體中文化   | 澳門繁體中文化   |
+| --------------- | --------- | --------- | --------- |
+| 3D Touch        | 3D 觸控     | 3D 觸控     | 3D 觸控     |
+| Assistive Touch | 輔助觸控      | 輔助觸控      | 輔助觸控      |
+| Clip            | 可立拍       | 奇趣拍       | 奇趣拍       |
+| Handoff         | 接力        | 接手        | 接手        |
+| iCloud Drive    | iCloud 雲碟 | iCloud 雲碟 | iCloud 雲碟 |
+| Live Photo      | 原況照片      | 原況相片      | 原況相片      |
+| Night Shift     | 夜覽        | 夜覽        | 夜覽        |
+| TrueDepth       | 原深感測      | 原深感測      | 原深感測      |
+| True Tone       | 原彩        | 原色調       | 原色調       |
+| True Tone 閃光燈   | 原彩閃光燈     | 原彩閃光燈     | 原彩閃光燈     |
+| VoiceOver       | 旁白        | 旁白        | 旁白        |
+| Wallet          | 錢包        | 銀包        | 銀包        |
+|                 |           |           |           |
 
 ## 版本歷史
 
@@ -530,6 +552,12 @@ News 獲得了新設計（News僅限於美國、澳洲及英國）。
 <td><p>2019年6月11日</p></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>12.4</p></td>
+<td><p>正式版</p></td>
+<td><p>16G77</p></td>
+<td><p>2019年7月23日</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -544,3 +572,5 @@ __索引__ __新段落链接__
 3.
 4.
 5.
+6.
+7.

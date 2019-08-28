@@ -1,5 +1,5 @@
 《**TALKMON**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Olive和](https://zh.wikipedia.org/wiki/Olive "wikilink")[tvN頻道播放的](https://zh.wikipedia.org/wiki/tvN "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")\[1\]\[2\]\[3\]，由《[強心臟](https://zh.wikipedia.org/wiki/強心臟 "wikilink")》、《[島劍客](https://zh.wikipedia.org/wiki/島劍客 "wikilink")》的朴尚赫導演執導，[姜鎬童](../Page/姜鎬童.md "wikilink")和[鄭容和](../Page/鄭容和.md "wikilink")主持，而[李壽根](../Page/李壽根.md "wikilink")、[洪銀姬](../Page/洪銀姬.md "wikilink")等人\[4\]\[5\]出演，節目形式是脫口秀高手，即主持和客席主持群(Talk Master)和隱藏的脫口秀怪物，即來賓(Talk Monster)展開兩人一組的脫口秀對決。
-2018年1月17日，主持[鄭容和](../Page/鄭容和.md "wikilink")由於[慶熙大學](../Page/慶熙大學.md "wikilink")特惠入學風波而自主下車\[6\]，因此本節目自第二集起，主持僅剩[姜鎬童](../Page/姜鎬童.md "wikilink")，第五集起，新增主持（MC）[金喜善](../Page/金喜善.md "wikilink")\[7\]\[8\]\[9\]。每組來賓以兩集分割形式播放。
+2018年1月17日，主持[鄭容和](../Page/鄭容和.md "wikilink")由於[慶熙大學](../Page/慶熙大學.md "wikilink")特惠入學風波而自主下車\[6\]，因此本節目自第二集起，主持畫面僅剩[姜鎬童](../Page/姜鎬童.md "wikilink")，第五集起，新增主持（MC）[金喜善](../Page/金喜善.md "wikilink")\[7\]\[8\]\[9\]。每組來賓以兩集分割形式播放。
 
 ## 各集內容
 

@@ -10,7 +10,7 @@
   - [2012年](../Page/2012年.md "wikilink") [MBN](../Page/每日广播.md "wikilink")《The Duet》
   - 2013年 MBC《[黄金渔场_Radio_Star](../Page/黄金渔场_Radio_Star.md "wikilink")》EP.334
   - [2013年](../Page/2013年.md "wikilink") 《申東燁與單身派對》EP.20
-  - 2013年 [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《Superhit》
+  - 2013年 [Mnet](../Page/Mnet.md "wikilink")《Superhit》
   - [2014年](../Page/2014年.md "wikilink") [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《》
   - [2015年](../Page/2015年.md "wikilink") MBC《》
   - 2015年 MBC 《》EP.285、EP.295、EP.315
@@ -33,7 +33,7 @@
   - 2018年 [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")《[白鐘元的胡同餐館](https://zh.wikipedia.org/wiki/白鐘元的胡同餐館 "wikilink")》(Ep：6\~10)
   - 2018年 [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")《[秘密的庭院](../Page/秘密的庭院.md "wikilink")》(Ep：1\~2)
   - 2018年 [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[Dunia](https://zh.wikipedia.org/wiki/Dunia "wikilink")》(Ep：2\~15)
-  - 2018年 [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[家訪老師](../Page/家訪老師.md "wikilink")》
+  - 2018年 [Mnet](../Page/Mnet.md "wikilink")《[家訪老師](../Page/家訪老師.md "wikilink")》
   - 2019年 [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")《[Miss Korea](https://zh.wikipedia.org/wiki/Miss_Korea "wikilink")》(Ep：1\~)
 
 ## 參考資料

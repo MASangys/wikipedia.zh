@@ -161,12 +161,12 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>221<sub>HD</sub></p></td>
+<td><p>221<sub>HD</sub> (9月1日, 即將停播)</p></td>
 <td><p><a href="../Page/RED_by_HBO.md" title="wikilink">RED by HBO</a> HD</p></td>
 <td><p>宝红 Plus配套/Ultimate 配套</p></td>
 <td></td>
 <td></td>
-<td><p>Red by HBO（前身為 Screen Red）是一個泛亞洲電影頻道。頻道由HBO Asia與美亞娛樂全力合作，在2010年啟播。該頻道主要播放來自亞洲國家的電影，所有這些都以原始語言呈現，並提供不同國家語言的字幕。與其他HBO亞洲頻道不同，Red by HBO 在他們的電影和電視劇中途會播放商業廣告。</p></td>
+<td><p>Red by HBO（前身為 Screen Red）是一個泛亞洲電影頻道。頻道由HBO Asia與美亞娛樂全力合作，在2010年啟播。該頻道主要播放來自亞洲國家的電影，所有這些都以原始語言呈現，並提供不同國家語言的字幕。與其他HBO亞洲頻道不同，Red by HBO 在他們的電影和電視劇中途會播放商業廣告。 由于版权问题被美亚电影台夺取，Red By HBO已停止传输。 超过9年历史广播后，RED by HBO马来西亚地区停播 (从9月1日停止传输)</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -417,21 +417,21 @@ FOX Family Movies為所有年齡層觀眾帶來各大電影公司精彩和全面
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>473<sub>HD</sub></p></td>
+<td><p>473<sub>HD</sub> (9月1日, 即將停播)</p></td>
 <td><p><a href="../Page/BLUE_ANT_Entertainment.md" title="wikilink">BLUE ANT Entertainment</a> HD</p></td>
 <td></td>
 <td></td>
-<td><p>BLUE ANT Entertainment是這個日常娛樂頻道包羅真人秀、劇集、喜劇及眾多題材廣泛的節目。緊貼放送英美最炙手可熱劇作，還有一系列每日焦點節目，當然亦不少得直播全球矚目的頒獎盛事。</p></td>
+<td><p>BLUE ANT Entertainment是這個日常娛樂頻道包羅真人秀、劇集、喜劇及眾多題材廣泛的節目。緊貼放送英美最炙手可熱劇作，還有一系列每日焦點節目，當然亦不少得直播全球矚目的頒獎盛事。 由于收视率不理想，下降和广播问题超过年历史播映，超过6年历史广播后，Blue Ant Entertainment 马来西亚地区即将停播。 （从9月1日起停止输传。）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>474<sub>HD</sub></p></td>
+<td><p>474<sub>HD</sub> (9月1日, 即將停播)</p></td>
 <td><p><a href="../Page/BLUE_ANT_Extreme.md" title="wikilink">BLUE ANT Extreme</a> HD</p></td>
 <td><p>免费频道</p></td>
 <td></td>
 <td></td>
-<td><p>BLUE ANT Extreme,這是為極限及動作迷而設的一站式頻道，包羅了最流行又驚險的劇集; 及能令你腎上腺素極速飆升的特技節目; 更有眾多匪夷所思的魔幻秀; 還有一系列真人冒險秀。</p></td>
+<td><p>BLUE ANT Extreme,這是為極限及動作迷而設的一站式頻道，包羅了最流行又驚險的劇集; 及能令你腎上腺素極速飆升的特技節目; 更有眾多匪夷所思的魔幻秀; 還有一系列真人冒險秀。由于收视率不理想，下降和广播问题超过年历史播映，超过5年历史广播后，Blue Ant Extreme 马来西亚地区即将停播。 （从9月1日起停止输传。）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -489,11 +489,11 @@ FOX Family Movies為所有年齡層觀眾帶來各大電影公司精彩和全面
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>529<sub>HD</sub></p></td>
+<td><p>529<sub>HD</sub> (2020年起，即將停播)</p></td>
 <td><p>Luxe.TV HD</p></td>
 <td></td>
 <td></td>
-<td><p>探索豪華商品及生活為主，提供奢華文化愛好者深度體驗相關藝術文化的視聽享受。報導奢華商品上市、商品展示會、藝術設計等開幕典禮和最新活動訊息及藝術家創作歷程、商品成功故事、香水服裝美食等設計過程專題報導。</p></td>
+<td><p>探索豪華商品及生活為主，提供奢華文化愛好者深度體驗相關藝術文化的視聽享受。報導奢華商品上市、商品展示會、藝術設計等開幕典禮和最新活動訊息及藝術家創作歷程、商品成功故事、香水服裝美食等設計過程專題報導。因为低成本和较少的客户观看。 经过10年历史的老频道广播，马来西亚版Unifi TV电视供应商的LUXE.TV HD总算在将于2020年起停止传输。</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -552,12 +552,12 @@ FOX Family Movies為所有年齡層觀眾帶來各大電影公司精彩和全面
 <td></td>
 </tr>
 <tr class="even">
-<td><p>561</p></td>
+<td><p>561 (9月1日, 即將停播)</p></td>
 <td><p>BabyFirst</p></td>
 <td></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/4:3" title="wikilink">4:3</a> <a href="https://zh.wikipedia.org/wiki/标清电视" title="wikilink">标清电视</a></p></td>
-<td><p>　Baby First寶寶世界頻道為美國業者打造適合2歲以下寶寶觀看的電視頻道，希望提供嬰幼兒健康安全的節目內容，其內容包括向寶寶介紹新知、學習舞蹈、律動，強化注意力、視覺能力和思維過程等等。</p></td>
+<td><p>　Baby First寶寶世界頻道為美國業者打造適合2歲以下寶寶觀看的電視頻道，希望提供嬰幼兒健康安全的節目內容，其內容包括向寶寶介紹新知、學習舞蹈、律動，強化注意力、視覺能力和思維過程等等。由于版权问题，BabyFirst已停止传输。 超过13年历史广播后，BabyFirst马来西亚地区停播 (从9月1日停止传输)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -615,11 +615,11 @@ FOX Family Movies為所有年齡層觀眾帶來各大電影公司精彩和全面
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>621</p></td>
+<td><p>621 (9月1日, 即將停播)</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/彭博电视" title="wikilink">Bloomberg TV</a></p></td>
 <td></td>
 <td></td>
-<td><p>24小時英語財經頻道，提供世界各地最新財經新聞及資訊</p></td>
+<td><p>24小時英語財經頻道，提供世界各地最新財經新聞及資訊 由于版权问题和下降，彭博电视已停止传输。 超过25年历史广播后，彭博电视马来西亚地区停播 (从9月1日停止传输)</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -743,139 +743,39 @@ FOX Family Movies為所有年齡層觀眾帶來各大電影公司精彩和全面
   - Hypp Flicks Plus
   - Top Movies of the week\!
   - Hypp Play
-  - Playbox HD On Demand
+  - Playbox HD On Demand (9月1日即將停播\[2\])
   - TV AlHijrah HD On Demand
   - Snek (PlayTV獨家)
 
-## 稍后启播的频道
+## 計定国际开播频道
 
-**8月份即将开播高清频道**
+'''2019/2020计划开播 '''
 
-  - CNN Asia HD （CH604 HD)
-  - Cartoon Network HD (CH551 HD)
+  - TV Okey HD (104频道）**10月开播**
 
-**計定国际开播频道**
+  - Sony GEM HD (221频道)
 
-  - WakuWaku Japan HD (216频道)
+  - WakuWaku Japan HD (222频道)
 
-  - Sony GEM HD (217频道)
+  - DIVA HD (452频道)
 
-  - 天映频道HD (227频道)
+  - ITV Choice HD (456頻道)
 
-  - 中天亚洲台 (236频道)
+  - (473频道)
 
-  - 东森亚洲台 (237频道)
+  - [HISTORY HD](../Page/歷史頻道.md "wikilink") (541頻道)
 
-  - 东森亚洲新闻台 (261频道)
+  - HISTORY 2 HD (542頻道)
 
-  - 东森幼幼台 (275频道)
+  - CRIME+INVESTIGATION HD (543頻道)
 
-  - HBO HD (404频道)
+  - E\! HD (544频道)
 
-  - HBO Hits HD (405频道)
+  - Cartoon Network HD (556频道）
 
-  - HBO Signature HD (406频道)
+  - CNN Asia HD (604频道）
 
-  - HBO Family HD (407频道)
-
-  - Cinemax HD (409频道)
-
-  - (456频道)
-
-  - DIVA HD (459频道)
-
-  - ITV choice HD (475頻道)
-
-  - E\! HD (479频道)
-
-  - Love Nature 4K (502頻道)
-
-  - 探索頻道HD (504頻道)
-
-  - CRIME+INVESTIGATION HD (505頻道)
-
-  - 探索亞洲頻道HD (507頻道)
-
-  - 動物星球頻道HD (510頻道)
-
-  - 亞洲食物頻道HD (514頻道)
-
-  - TLC HD (517頻道)
-
-  - [HISTORY HD](../Page/歷史頻道.md "wikilink") (522頻道)
-
-  - H2 HD (523頻道)
-
-  - Makeful Channel HD (529頻道，計定取代LUXE.TV HD)
-
-  - 迪士尼XD HD (548频道)
-
-  - ZooMoo HD (559频道)
-
-  - Da Vinci Learning (560频道)
-
-  - CNN HD (604频道)
-
-  - [FOX News Channel](../Page/福斯新聞頻道.md "wikilink")(605頻道)
-
-  - [France 24](https://zh.wikipedia.org/wiki/France_24 "wikilink") (English) HD (609頻道)
-
-  - TRT World (610頻道)
-
-  - [Russia Today](https://zh.wikipedia.org/wiki/RT電視台 "wikilink") (613頻道)
-
-  - [CNBC Asia](https://zh.wikipedia.org/wiki/CNBC亚洲台 "wikilink") (620頻道)
-
-  - [Arirang TV](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink") (644頻道)
-
-  - beIN SPORTS 1 HD (701頻道)
-
-  - beIN SPORTS 2 HD (702頻道)
-
-  - beIN SPORTS 3 HD (703頻道)
-
-  - beIN SPORTS MAX HD (704頻道)
-
-  - EuroSports HD (705频道)
-
-  - [Golf Channel HD](https://zh.wikipedia.org/wiki/美國高爾夫頻道 "wikilink") (711頻道)
-
-  - Setanta Sports HD (712频道)
-
-  - Ten Cricket (713頻道)
-
-**Unifi馬來語原創頻道**
-
-  - Hypp Anak HD (120,馬來兒童頻道)
-  - Hypp Panorama HD (123,馬來語配音紀實頻道)
-  - Hypp Satu HD (125,馬來語新聞頻道)
-  - Hypp Mix HD (126,馬來語音樂頻道)
-  - Hypp Niaga HD (127,馬來語資訊頻道)
-  - Hypp Komedi HD (129, 馬來語喜劇頻道)
-  - Playbox HD (130, 馬來語動作頻道, KRU studios 製作。)
-
-**即将来临的地面电视频道**
-
-  - TV Okey HD
-  - RTM HD SPORTS
-  - ACTV
-  - ACTV 2
-  - ACTV 3
-  - NAM TV
-  - Syiok TV
-  - Enjoy TV HD
-  - RTM BES HD
-  - Caya TV
-
-**即将来临的高清频道**
-
-  - [TV1](../Page/TV1.md "wikilink") HD（101频道）
-  - [TV2](https://zh.wikipedia.org/wiki/TV2 "wikilink") HD（102频道）
-  - [TV3 HD](../Page/TV3_\(马来西亚\).md "wikilink")（103频道）
-  - [NTV7 HD](https://zh.wikipedia.org/wiki/NTV7 "wikilink") （107频道）
-  - [八度空间HD](../Page/八度空间_\(电视台\).md "wikilink")（108频道）
-  - TV9 HD （109频道）
-  - Bernama News Channel (BNC) HD （631 频道）
+  - [CNBC Asia HD](https://zh.wikipedia.org/wiki/CNBC亚洲台 "wikilink") (605頻道)
 
 ## 已停播频道
 
@@ -896,6 +796,7 @@ FOX Family Movies為所有年齡層觀眾帶來各大電影公司精彩和全面
 |     |                                                                               |             |
 | 711 | MUTV                                                                          | 2018年       |
 | 611 | [Channel NewsAsia](https://zh.wikipedia.org/wiki/Channel_NewsAsia "wikilink") | 2018年10月    |
+| 633 | Parlimen Malaysia                                                             | 2019年8月     |
 |     |                                                                               |             |
 
 **取代、更名並提升至高清**
@@ -942,21 +843,27 @@ FOX Family Movies為所有年齡層觀眾帶來各大電影公司精彩和全面
 | 704 | HyppSports 4 HD                                                                         | 2017年7月                                                                                                    | 頻道商停播                                                                                          |
 | 712 | Motorvision HD                                                                          | 2017年9月1日                                                                                                  |                                                                                                |
 | 704 | HyppSports HD - unifi Liga Super Malaysia                                               | 2018年4月                                                                                                    | 頻道商停播                                                                                          |
-| 241 | [Channel V台灣](../Page/Channel_V.md "wikilink")                                          | 2018年6月1日                                                                                                  | 福斯傳媒集團旗下FOX Crime和Channel V與馬來西亞Unifi TV終止授權兼合約結束                                              |
+| 241 | [Channel V台灣](../Page/Channel_V.md "wikilink")                                          | 2018年6月1日                                                                                                  | 福斯傳媒集團（现为华特迪士尼公司）旗下FOX Crime和Channel V與馬來西亞Unifi TV終止授權兼合約結束                                   |
 | 452 | [FOX Crime HD](../Page/福斯警匪頻道_\(亞洲\).md "wikilink")                                     |                                                                                                            |                                                                                                |
 | 532 | [Channel V國際HD](../Page/Channel_V.md "wikilink")                                        |                                                                                                            |                                                                                                |
 | 632 | 1News Channel                                                                           | 2018年7月1日                                                                                                  | RTM电视广播有限公司与Unifi TV决定暂停播映和裁减RTM资源因收视率下跌                                                       |
-| 701 | HyppSports HD                                                                           | 2018年8月1日                                                                                                  | 节目供应商ASN在马来西亚停止营业和将在8月6日在新加坡停止营业(Starhub\[2\]和Singtel\[3\]将在当天停播此频道)                           |
+| 701 | HyppSports HD                                                                           | 2018年8月1日                                                                                                  | 节目供应商ASN在马来西亚停止营业和将在8月6日在新加坡停止营业(Starhub\[3\]和Singtel\[4\]将在当天停播此频道)                           |
 | 702 | HyppSports 2 HD                                                                         |                                                                                                            |                                                                                                |
-| 234 | [TVB8 HD](../Page/TVB8.md "wikilink")                                                   | 2018年9月1日                                                                                                  | 随TVB裁减TVBI资源,頻道商宣佈停播在亚太地区\[4\] \[5\]                                                           |
-| 533 | Stingray iConcerts HD                                                                   | Stingray iConcerts與Unifi TV終止授權而停播.\[6\]                                                                   |                                                                                                |
-| 104 | CJ Wow Shop HD                                                                          | 2019年1月1日                                                                                                  | Unifi TV與首要媒體旗下終止授權而停播。\[7\]                                                                   |
-| 703 | HyppSports 3 HD                                                                         | Unifi TV出品停播.\[8\]                                                                                         |                                                                                                |
-| 634 | Channel W HD                                                                            | Unifi TV出品停播。\[9\]                                                                                         |                                                                                                |
-| 741 | Outdoor Channel HD                                                                      | 戶外頻道與Unifi TV終止授權而停播,由FOX Sports HD取代.\[10\]                                                               |                                                                                                |
-| 238 | [now华剧台](https://zh.wikipedia.org/wiki/now华剧台 "wikilink")                               | 2019年3月1日                                                                                                  | now华剧台國際版频道商宣布停播，但以点播形式继续提供。                                                                   |
-| 457 | [Sony Channel HD](../Page/Sony_Channel_\(亞洲\).md "wikilink")                            | 2019年6月1日                                                                                                  | 索尼影業電視旗下Sony Channel亞洲地區停播\[11\]                                                               |
-| 711 | MUTV HD                                                                                 | [Manchester United與Unifi](https://zh.wikipedia.org/wiki/Manchester_United_F.C. "wikilink") TV終止授權而停播\[12\] |                                                                                                |
+| 234 | [TVB8 HD](../Page/TVB8.md "wikilink")                                                   | 2018年9月1日                                                                                                  | 随TVB裁减TVBI资源,頻道商宣佈停播在亚太地区\[5\] \[6\]                                                           |
+| 533 | Stingray iConcerts HD                                                                   | Stingray iConcerts與Unifi TV終止授權而停播.\[7\]                                                                   |                                                                                                |
+| 104 | CJ Wow Shop HD                                                                          | 2019年1月1日                                                                                                  | Cj Wow Shop与Unifi合约结束, 部分好产品由NTV7,八度空间,TV3和tv9代替\[8\]                                          |
+| 703 | HyppSports 3 HD                                                                         | Unifi TV出品停播.\[9\]                                                                                         |                                                                                                |
+| 634 | Channel W HD                                                                            | Unifi TV出品停播。\[10\]                                                                                        |                                                                                                |
+| 741 | Outdoor Channel HD                                                                      | 戶外頻道與Unifi TV終止授權而停播,由FOX Sports HD取代.\[11\]                                                               |                                                                                                |
+| 238 | [now华剧台](https://zh.wikipedia.org/wiki/now华剧台 "wikilink")                               | 2019年3月1日                                                                                                  | now华剧台频道在马来西亚宣布停播此频道因收视率下跌,版权故障和拖延稿费,now华剧台在4年底结束运作,不过,now华剧台点播形式也可继续提供。                       |
+| 457 | [Sony Channel HD](../Page/Sony_Channel_\(亞洲\).md "wikilink")                            | 2019年6月1日                                                                                                  | 索尼影業電視旗下Sony Channel亞洲地區停播\[12\]                                                               |
+| 711 | MUTV HD                                                                                 | [Manchester United與Unifi](https://zh.wikipedia.org/wiki/Manchester_United_F.C. "wikilink") TV終止授權而停播\[13\] |                                                                                                |
+| 221 | [RED by HBO](../Page/RED_by_HBO.md "wikilink")                                          | 2019年9月1日                                                                                                  | RED by HBO 與 Unifi TV 決定停播\[14\]                                                               |
+| 473 | [BLUE ANT Entertainment](../Page/BLUE_ANT_Entertainment.md "wikilink")                  | Blue Ant Media 旗下 Blue Ant Entertainment 和 Blue Ant Extreme 終止授權而停播\[15\]                                  |                                                                                                |
+| 474 | [BLUE ANT Extreme](../Page/BLUE_ANT_Extreme.md "wikilink")                              |                                                                                                            |                                                                                                |
+| 561 | BabyFirst                                                                               | BabyFirst 與 Unifi TV 決定停播\[16\]                                                                            |                                                                                                |
+| 621 | [Bloomberg TV](https://zh.wikipedia.org/wiki/彭博电视 "wikilink")                           | Bloomberg TV 與 Unifi TV 決定停播\[17\]                                                                         |                                                                                                |
+| 529 | Luxe.TV HD                                                                              | 2020年                                                                                                      | 此频道预计可能会停播。France Télévisions旗下LUXE.TV終止授權而停播映和裁减Opuntia S. A. 资源因收视率下跌收视率不理想和下降和广播和版权问题。      |
 |     |                                                                                         |                                                                                                            |                                                                                                |
 
 ## 参考资料
@@ -967,14 +874,19 @@ FOX Family Movies為所有年齡層觀眾帶來各大電影公司精彩和全面
 [Category:馬來西亞電視台](https://zh.wikipedia.org/wiki/Category:馬來西亞電視台 "wikilink")
 
 1.
-2.
-3.  [1](http://www.singteltv.com.sg/channelupdates/ch129.asp)
-4.  [2](https://zh.m.wikipedia.org/wiki/TVB8)
-5.  <https://community.unifi.com.my/t5/Product-and-Service/UNIFITV-NEWSFLASH-REMOVAL-OF-TVB8-STINGRAY-ICONCERTS-CHANNEL-amp/td-p/16625>
+2.  <https://community.unifi.com.my/t5/Product-and-Service/unifi-TV-DISCONTINUATION-OF-RED-BY-HBO-BABYFIRST-BLUE-ANT/td-p/23192>
+3.
+4.  [1](http://www.singteltv.com.sg/channelupdates/ch129.asp)
+5.  [2](https://zh.m.wikipedia.org/wiki/TVB8)
 6.  <https://community.unifi.com.my/t5/Product-and-Service/UNIFITV-NEWSFLASH-REMOVAL-OF-TVB8-STINGRAY-ICONCERTS-CHANNEL-amp/td-p/16625>
-7.  <https://community.unifi.com.my/t5/Product-and-Service/Removal-of-HyppSports3-HD-and-CJ-Wow-Shop/td-p/17886>
+7.  <https://community.unifi.com.my/t5/Product-and-Service/UNIFITV-NEWSFLASH-REMOVAL-OF-TVB8-STINGRAY-ICONCERTS-CHANNEL-amp/td-p/16625>
 8.  <https://community.unifi.com.my/t5/Product-and-Service/Removal-of-HyppSports3-HD-and-CJ-Wow-Shop/td-p/17886>
-9.  <https://community.unifi.com.my/t5/Product-and-Service/UNIFITV-NEWSFLASH-REMOVAL-OF-CHANNEL-W-CH-741-amp-OUTDOOR/td-p/17630>
+9.  <https://community.unifi.com.my/t5/Product-and-Service/Removal-of-HyppSports3-HD-and-CJ-Wow-Shop/td-p/17886>
 10. <https://community.unifi.com.my/t5/Product-and-Service/UNIFITV-NEWSFLASH-REMOVAL-OF-CHANNEL-W-CH-741-amp-OUTDOOR/td-p/17630>
-11. <https://community.unifi.com.my/t5/Product-and-Service/unifi-TV-REMOVAL-OF-SONY-CHANNEL-HD-CH-457-amp-MUTV-HD-CH-711/td-p/21203>
+11. <https://community.unifi.com.my/t5/Product-and-Service/UNIFITV-NEWSFLASH-REMOVAL-OF-CHANNEL-W-CH-741-amp-OUTDOOR/td-p/17630>
 12. <https://community.unifi.com.my/t5/Product-and-Service/unifi-TV-REMOVAL-OF-SONY-CHANNEL-HD-CH-457-amp-MUTV-HD-CH-711/td-p/21203>
+13. <https://community.unifi.com.my/t5/Product-and-Service/unifi-TV-REMOVAL-OF-SONY-CHANNEL-HD-CH-457-amp-MUTV-HD-CH-711/td-p/21203>
+14. <https://community.unifi.com.my/t5/Product-and-Service/unifi-TV-DISCONTINUATION-OF-RED-BY-HBO-BABYFIRST-BLUE-ANT/td-p/23192>
+15. <https://community.unifi.com.my/t5/Product-and-Service/unifi-TV-DISCONTINUATION-OF-RED-BY-HBO-BABYFIRST-BLUE-ANT/td-p/23192>
+16. <https://community.unifi.com.my/t5/Product-and-Service/unifi-TV-DISCONTINUATION-OF-RED-BY-HBO-BABYFIRST-BLUE-ANT/td-p/23192>
+17. <https://community.unifi.com.my/t5/Product-and-Service/unifi-TV-DISCONTINUATION-OF-RED-BY-HBO-BABYFIRST-BLUE-ANT/td-p/23192>

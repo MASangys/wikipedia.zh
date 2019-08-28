@@ -102,7 +102,7 @@ Panasonic VIERA電漿電視全球銷售第一，一直以來都是龍頭老大�
 <!-- end list -->
 
   -
-    [Panasonic](https://zh.wikipedia.org/wiki/Panasonic "wikilink") [好萊塢實驗所的技術累積及訣竅](https://zh.wikipedia.org/wiki/好萊塢 "wikilink")，實現將[藍光或](https://zh.wikipedia.org/wiki/藍光 "wikilink")[DVD中預先壓縮的色域能夠擴展重現原本的色域](https://zh.wikipedia.org/wiki/DVD "wikilink")，能呈現更自然逼真的色彩。
+    [Panasonic](https://zh.wikipedia.org/wiki/Panasonic "wikilink") [好萊塢實驗所的技術累積及訣竅](https://zh.wikipedia.org/wiki/好萊塢 "wikilink")，實現將[藍光](../Page/藍光.md "wikilink")或[DVD中預先壓縮的色域能夠擴展重現原本的色域](https://zh.wikipedia.org/wiki/DVD "wikilink")，能呈現更自然逼真的色彩。
 
 <!-- end list -->
 

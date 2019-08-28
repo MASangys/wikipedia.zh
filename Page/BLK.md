@@ -1,4 +1,4 @@
-**BLK**（）為“**Beyond Limit Key**”的簡稱，[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[J\&B娛樂在](https://zh.wikipedia.org/wiki/J&B娛樂 "wikilink")2017年11月28日推出的[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂團體](https://zh.wikipedia.org/wiki/男子音樂團體 "wikilink")，由[D.A](https://zh.wikipedia.org/wiki/姜賢秀 "wikilink")(隊長）、[Tae Bin](https://zh.wikipedia.org/wiki/朴泰彬 "wikilink")、[So Rim](https://zh.wikipedia.org/wiki/王昭林 "wikilink")、[Il Kyoung](https://zh.wikipedia.org/wiki/嚴一景 "wikilink")、[INNO](https://zh.wikipedia.org/wiki/申仁皓 "wikilink")、[I六位成員組成](https://zh.wikipedia.org/wiki/裴鐘仁 "wikilink")。後來在2018年4月14日加入中國成員[Ming Ming](https://zh.wikipedia.org/wiki/姚明明 "wikilink")。問候口號為：「Beyond Limit Key！大家好，我們是BLK。」 2018年9月18日宣布解散。
+**BLK**（）為“**Beyond Limit Key**”的簡稱，[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[J\&B娛樂在](https://zh.wikipedia.org/wiki/J&B娛樂 "wikilink")2017年11月28日推出的[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂團體](https://zh.wikipedia.org/wiki/男子音樂團體 "wikilink")，由[D.A](../Page/姜賢秀.md "wikilink")(隊長）、[Tae Bin](https://zh.wikipedia.org/wiki/朴泰彬 "wikilink")、[So Rim](https://zh.wikipedia.org/wiki/王昭林 "wikilink")、[Il Kyoung](https://zh.wikipedia.org/wiki/嚴一景 "wikilink")、[INNO](https://zh.wikipedia.org/wiki/申仁皓 "wikilink")、[I六位成員組成](https://zh.wikipedia.org/wiki/裴鐘仁 "wikilink")。後來在2018年4月14日加入中國成員[Ming Ming](https://zh.wikipedia.org/wiki/姚明明 "wikilink")。問候口號為：「Beyond Limit Key！大家好，我們是BLK。」 2018年9月18日宣布解散。
 
 ## 成員列表
 
@@ -10,7 +10,7 @@
 | [So Rim](https://zh.wikipedia.org/wiki/王昭林 "wikilink")    |
 | [Il Kyoung](https://zh.wikipedia.org/wiki/嚴一景 "wikilink") |
 | [INNO](https://zh.wikipedia.org/wiki/申仁皓 "wikilink")      |
-| [D.A](https://zh.wikipedia.org/wiki/姜賢秀 "wikilink")       |
+| [D.A](../Page/姜賢秀.md "wikilink")                          |
 | [I](https://zh.wikipedia.org/wiki/裴鐘仁 "wikilink")         |
 | [Ming Ming](https://zh.wikipedia.org/wiki/姚明明 "wikilink") |
 
@@ -63,14 +63,13 @@
   -
   -
   -
-  - [明明](https://weibo.com/u/3137220457)的新浪微博
+  -
+<!-- end list -->
 
-  - [D.A](https://weibo.com/u/5983881949)的新浪微博
-
-  - [泰彬](https://weibo.com/u/5935440870)的新浪微博
-
-  - [一景](https://weibo.com/u/5986059093)的新浪微博
-
-  - [鐘仁](https://weibo.com/u/5721860257)的新浪微博
+  - [明明的新浪微博](https://weibo.com/u/3137220457)
+  - [D.A的新浪微博](https://weibo.com/u/5983881949)
+  - [泰彬的新浪微博](https://weibo.com/u/5935440870)
+  - [一景的新浪微博](https://weibo.com/u/5986059093)
+  - [鐘仁的新浪微博](https://weibo.com/u/5721860257)
 
 [Category:J\&B娛樂](https://zh.wikipedia.org/wiki/Category:J&B娛樂 "wikilink") [Category:J\&B娛樂旗下團體](https://zh.wikipedia.org/wiki/Category:J&B娛樂旗下團體 "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:2017年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年成立的音樂團體 "wikilink") [Category:已解散的男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的男子演唱團體 "wikilink") [Category:2018年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年解散的音樂團體 "wikilink") [Category:2017年韓國建立](https://zh.wikipedia.org/wiki/Category:2017年韓國建立 "wikilink") [Category:2018年韓國廢除](https://zh.wikipedia.org/wiki/Category:2018年韓國廢除 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")

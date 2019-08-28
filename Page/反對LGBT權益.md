@@ -36,7 +36,7 @@
 
 ## 參考資料
 
-[Category:恐同](https://zh.wikipedia.org/wiki/Category:恐同 "wikilink") [Category:恐跨](https://zh.wikipedia.org/wiki/Category:恐跨 "wikilink") [Category:LGBT權利](https://zh.wikipedia.org/wiki/Category:LGBT權利 "wikilink") [Category:针对LGBT人士的迫害](https://zh.wikipedia.org/wiki/Category:针对LGBT人士的迫害 "wikilink") [Category:针对LGBT人士的歧视](https://zh.wikipedia.org/wiki/Category:针对LGBT人士的歧视 "wikilink")
+[Category:同性恋恐惧症](https://zh.wikipedia.org/wiki/Category:同性恋恐惧症 "wikilink") [Category:跨性别恐惧症](https://zh.wikipedia.org/wiki/Category:跨性别恐惧症 "wikilink") [Category:LGBT權利](https://zh.wikipedia.org/wiki/Category:LGBT權利 "wikilink") [Category:针对LGBT人士的迫害](https://zh.wikipedia.org/wiki/Category:针对LGBT人士的迫害 "wikilink") [Category:针对LGBT人士的歧视](https://zh.wikipedia.org/wiki/Category:针对LGBT人士的歧视 "wikilink")
 
 1.
 2.

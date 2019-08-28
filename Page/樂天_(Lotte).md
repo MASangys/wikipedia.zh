@@ -2,7 +2,7 @@
 
 **樂天集團**（，，），是一家以[韩国與](https://zh.wikipedia.org/wiki/韩国 "wikilink")[日本](../Page/日本.md "wikilink")為中心的多元化的跨国集团公司，业务范围涵盖食品、百货、娱乐、金融、化工等诸多领域，是[韩国大财阀之一](https://zh.wikipedia.org/wiki/韩国 "wikilink")。其[控股公司](../Page/控股公司.md "wikilink")樂天控股位於日本，但在日本主要業務僅為食品製造，其海外的大部分業務均由韓國方面拓展。
 
-乐天集团1948年由日籍韓國人[重光武雄](../Page/辛格浩.md "wikilink")（韩名：辛格浩）在日本創立。最初是[食品制造商](https://zh.wikipedia.org/wiki/食品 "wikilink")，后在[韩国发展](https://zh.wikipedia.org/wiki/韩国 "wikilink")。在韩国开有[酒店和](../Page/乐天大酒店.md "wikilink")[百货公司](https://zh.wikipedia.org/wiki/乐天百货 "wikilink")。\[1\]乐天集团在[日本](../Page/日本.md "wikilink")和[韩国拥有](https://zh.wikipedia.org/wiki/韩国 "wikilink")[千叶罗德海洋和](https://zh.wikipedia.org/wiki/千叶罗德海洋 "wikilink")[樂天巨人两支职业棒球队](https://zh.wikipedia.org/wiki/樂天巨人 "wikilink")。
+乐天集团1948年由日籍韓國人[重光武雄](../Page/辛格浩.md "wikilink")（韩名：辛格浩）在日本創立。最初是[食品制造商](https://zh.wikipedia.org/wiki/食品 "wikilink")，后在[韩国发展](https://zh.wikipedia.org/wiki/韩国 "wikilink")。在韩国开有[酒店和](../Page/乐天大酒店.md "wikilink")[百货公司](https://zh.wikipedia.org/wiki/乐天百货 "wikilink")。\[1\]乐天集团在[日本](../Page/日本.md "wikilink")和[韩国拥有](https://zh.wikipedia.org/wiki/韩国 "wikilink")[千葉羅德海洋](../Page/千葉羅德海洋.md "wikilink")和[樂天巨人两支职业棒球队](https://zh.wikipedia.org/wiki/樂天巨人 "wikilink")。
 
 ## 社名
 
@@ -31,7 +31,7 @@
 
 ### 体育
 
-[Song_Seung-Jun.jpg](https://zh.wikipedia.org/wiki/File:Song_Seung-Jun.jpg "fig:Song_Seung-Jun.jpg")棒球运动员[宋勝準](https://zh.wikipedia.org/wiki/宋勝準 "wikilink")\]\] 乐天集团在[日本](../Page/日本.md "wikilink")和[韩国各拥有一个职业棒球队](https://zh.wikipedia.org/wiki/韩国 "wikilink")
+[Song_Seung-Jun.jpg](https://zh.wikipedia.org/wiki/File:Song_Seung-Jun.jpg "fig:Song_Seung-Jun.jpg")棒球运动员[宋勝準](../Page/宋勝準.md "wikilink")\]\] 乐天集团在[日本](../Page/日本.md "wikilink")和[韩国各拥有一个职业棒球队](https://zh.wikipedia.org/wiki/韩国 "wikilink")
 
   - [千叶罗德海洋](https://zh.wikipedia.org/wiki/千叶罗德海洋 "wikilink")，日本（1971年起）
   - [樂天巨人](https://zh.wikipedia.org/wiki/樂天巨人 "wikilink")，韩国釜山（1982年起）

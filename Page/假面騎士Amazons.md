@@ -261,7 +261,7 @@
     水澤悠變身的Amazon。與Omega不同，使用新Amazons驅動器變身而成。
     裝著著與Neo同樣的銀色的追加裝甲和護目鏡，但設計上有一部分缺損。
 
-### 假面騎士Amazon New Alpha
+### 假面騎士Amazon Neo Alpha
 
   - 變身者：御堂英之助（替身演員：、CV：姜暢雄）
 

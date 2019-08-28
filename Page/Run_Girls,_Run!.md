@@ -135,6 +135,11 @@
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>Share the light</p></td>
+<td><p>電視動畫《<a href="../Page/刺客守則.md" title="wikilink">刺客守則</a>》片頭曲</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

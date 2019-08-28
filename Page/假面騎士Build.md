@@ -4,7 +4,7 @@
 
 中國大陸[騰訊視頻于](https://zh.wikipedia.org/wiki/騰訊視頻 "wikilink")2019年2月10日全集上架該作日語版本。
 
-台灣地區由[巴哈姆特動畫瘋](../Page/巴哈姆特動畫瘋.md "wikilink")上架該作但日期不確定。
+台灣地區由木棉花代理[巴哈姆特動畫瘋](../Page/巴哈姆特動畫瘋.md "wikilink")[中華電信MOD](../Page/中華電信MOD.md "wikilink")上架該作本作品，為木棉花第一次代理假面騎士TV版。
 
 ## 製作背景
 
@@ -7024,7 +7024,7 @@ Level 2，由於Ex-aid的特徵是風鏡，因此整個外型似Ghost，但仍�
 28</p></td>
 <td></td>
 <td><p>天才是在坦克出現時</p></td>
-<td><p>天才在坦克出現時</p></td>
+<td><p>天才坐著坦克前來</p></td>
 <td><p>-</p></td>
 <td><p>3.3%</p></td>
 <td></td>
@@ -7067,8 +7067,9 @@ Level 2，由於Ex-aid的特徵是風鏡，因此整個外型似Ghost，但仍�
 </tr>
 <tr class="even">
 <td><p>2018/04/08</p></td>
-<td></td>
-<td><p>（<span class="math inline">arg<sub><em>n</em></sub>max [{<em>t</em><em>o</em><em>t</em><em>a</em><em>t</em><em>i</em><em>v</em><em>e</em> of n} ⊂ {<em>p</em><em>r</em><em>i</em><em>m</em><em>e</em>}] = 30</span>[271]）<br />
+<td><p>2019/07/28[271]<br />
+2019/08/03[272]</p></td>
+<td><p>（<span class="math inline">arg<sub><em>n</em></sub>max [{<em>t</em><em>o</em><em>t</em><em>a</em><em>t</em><em>i</em><em>v</em><em>e</em> of n} ⊂ {<em>p</em><em>r</em><em>i</em><em>m</em><em>e</em>}] = 30</span>[273]）<br />
 30</p></td>
 <td></td>
 <td><p>潘朵拉之盒的真實</p></td>
@@ -7084,12 +7085,13 @@ Level 2，由於Ex-aid的特徵是風鏡，因此整個外型似Ghost，但仍�
 </tr>
 <tr class="odd">
 <td><p>2018/04/15</p></td>
-<td></td>
-<td><p>（<span class="math inline"><em>M</em><sub>5</sub> = 2<sup>5</sup> − 1 = 31</span>[272]）<br />
+<td><p>2019/08/04[274]<br />
+2019/08/10[275]</p></td>
+<td><p>（<span class="math inline"><em>M</em><sub>5</sub> = 2<sup>5</sup> − 1 = 31</span>[276]）<br />
 31</p></td>
 <td></td>
 <td><p>狂暴的熔岩！</p></td>
-<td></td>
+<td><p>湧動出來，岩漿！</p></td>
 <td><ul>
 <li>Remocon Bros
 <ul>
@@ -7106,12 +7108,13 @@ Level 2，由於Ex-aid的特徵是風鏡，因此整個外型似Ghost，但仍�
 </tr>
 <tr class="even">
 <td><p>2018/04/22</p></td>
-<td></td>
-<td><p>（<span class="math inline">#{<em>c</em><em>r</em><em>y</em><em>s</em><em>t</em><em>a</em><em>l</em> <em>c</em><em>l</em><em>a</em><em>s</em><em>s</em>} = 32</span>[273]）<br />
+<td><p>2019/08/11[277]<br />
+2019/08/17[278]</p></td>
+<td><p>（<span class="math inline">#{<em>c</em><em>r</em><em>y</em><em>s</em><em>t</em><em>a</em><em>l</em> <em>c</em><em>l</em><em>a</em><em>s</em><em>s</em>} = 32</span>[279]）<br />
 32</p></td>
 <td></td>
 <td><p>被安排好的悲劇</p></td>
-<td></td>
+<td><p>程式化的悲劇</p></td>
 <td><ul>
 <li>血逐</li>
 <li>Remocon Bros
@@ -7126,12 +7129,13 @@ Level 2，由於Ex-aid的特徵是風鏡，因此整個外型似Ghost，但仍�
 </tr>
 <tr class="odd">
 <td><p>2018/04/29</p></td>
-<td></td>
-<td><p>（<span class="math inline">$\sqrt{{2\sqrt{2}\pi \over 9}\sum_{n=0}^\infty{(4n!)(1103+26390n) \over ({4^n}{99^n}n!)^4}}=33$</span>[274]）<br />
+<td><p>2019/08/18[280]<br />
+2019/08/24[281]</p></td>
+<td><p>（<span class="math inline">$\sqrt{{2\sqrt{2}\pi \over 9}\sum_{n=0}^\infty{(4n!)(1103+26390n) \over ({4^n}{99^n}n!)^4}}=33$</span>[282]）<br />
 33</p></td>
 <td></td>
 <td><p>最終兵器Evol</p></td>
-<td></td>
+<td><p>最後的武器</p></td>
 <td><ul>
 <li>強壯Clone SMASH</li>
 <li>血逐</li>
@@ -7142,12 +7146,13 @@ Level 2，由於Ex-aid的特徵是風鏡，因此整個外型似Ghost，但仍�
 </tr>
 <tr class="even">
 <td><p>2018/05/06</p></td>
-<td></td>
-<td><p>（<span class="math inline">⌈log<sub>10</sub>log<sub>10</sub>log<sub>10</sub><em>S</em><em>k</em><sub>1</sub>⌉ = 34</span>[275]）<br />
+<td><p>2019/08/25[283]<br />
+2019/08/31[284]</p></td>
+<td><p>（<span class="math inline">⌈log<sub>10</sub>log<sub>10</sub>log<sub>10</sub><em>S</em><em>k</em><sub>1</sub>⌉ = 34</span>[285]）<br />
 34</p></td>
 <td></td>
 <td><p>分離四散的最佳配對</p></td>
-<td></td>
+<td><p>最好的匹配是解散</p></td>
 <td><p>-</p></td>
 <td><p>3.0%</p></td>
 <td><p>柴崎貴行</p></td>
@@ -7156,7 +7161,7 @@ Level 2，由於Ex-aid的特徵是風鏡，因此整個外型似Ghost，但仍�
 <tr class="odd">
 <td><p>2018/05/13</p></td>
 <td></td>
-<td><p>（<span class="math inline">#{<em>n</em><em>o</em><em>n</em><em>t</em><em>r</em><em>i</em><em>v</em><em>i</em><em>a</em><em>l</em> <em>k</em><em>n</em><em>o</em><em>t</em> | <em>c</em>(<em>L</em>)  ≤ 8} = 35</span>[276]）<br />
+<td><p>（<span class="math inline">#{<em>n</em><em>o</em><em>n</em><em>t</em><em>r</em><em>i</em><em>v</em><em>i</em><em>a</em><em>l</em> <em>k</em><em>n</em><em>o</em><em>t</em> | <em>c</em>(<em>L</em>)  ≤ 8} = 35</span>[286]）<br />
 35</p></td>
 <td></td>
 <td><p>破滅之塔</p></td>
@@ -7169,7 +7174,7 @@ Level 2，由於Ex-aid的特徵是風鏡，因此整個外型似Ghost，但仍�
 <tr class="even">
 <td><p>2018/05/20</p></td>
 <td></td>
-<td><p>（<span class="math inline">(1 + 2 + 3)<sup>2</sup> = 1<sup>3</sup> + 2<sup>3</sup> + 3<sup>3</sup> = 36</span>[277]）<br />
+<td><p>（<span class="math inline">(1 + 2 + 3)<sup>2</sup> = 1<sup>3</sup> + 2<sup>3</sup> + 3<sup>3</sup> = 36</span>[287]）<br />
 36</p></td>
 <td></td>
 <td><p>Evolto狩獵星球</p></td>
@@ -7185,7 +7190,7 @@ Level 2，由於Ex-aid的特徵是風鏡，因此整個外型似Ghost，但仍�
 <tr class="odd">
 <td><p>2018/05/27</p></td>
 <td></td>
-<td><p>（<span class="math inline">$\underset{\rho :prime}{\arg\min}[\rho \not\in \{regular\}]=37$</span>[278]）<br />
+<td><p>（<span class="math inline">$\underset{\rho :prime}{\arg\min}[\rho \not\in \{regular\}]=37$</span>[288]）<br />
 37</p></td>
 <td></td>
 <td><p>究極的階段</p></td>
@@ -7204,7 +7209,7 @@ Level 2，由於Ex-aid的特徵是風鏡，因此整個外型似Ghost，但仍�
 <tr class="even">
 <td><p>2018/06/03</p></td>
 <td></td>
-<td><p>（<span class="math inline"><em>M</em><sub><em>M</em><em>a</em><em>g</em><em>i</em><em>c</em><em>H</em><em>e</em><em>x</em><em>g</em><em>o</em><em>n</em></sub> = 38</span>[279]）<br />
+<td><p>（<span class="math inline"><em>M</em><sub><em>M</em><em>a</em><em>g</em><em>i</em><em>c</em><em>H</em><em>e</em><em>x</em><em>g</em><em>o</em><em>n</em></sub> = 38</span>[289]）<br />
 38</p></td>
 <td></td>
 <td><p>瘋狂的世界</p></td>
@@ -7223,7 +7228,7 @@ Level 2，由於Ex-aid的特徵是風鏡，因此整個外型似Ghost，但仍�
 <tr class="odd">
 <td><p>2018/06/10</p></td>
 <td></td>
-<td><p>（<span class="math inline">$4\pi^2-\sum_{n=1}^\infty{16 \over n^2(n+1)^2(n+2)^2}=39$</span>[280]）<br />
+<td><p>（<span class="math inline">$4\pi^2-\sum_{n=1}^\infty{16 \over n^2(n+1)^2(n+2)^2}=39$</span>[290]）<br />
 39</p></td>
 <td></td>
 <td><p>無法阻止的天才</p></td>
@@ -7248,7 +7253,7 @@ Level 2，由於Ex-aid的特徵是風鏡，因此整個外型似Ghost，但仍�
 <tr class="odd">
 <td><p>2018/06/17</p></td>
 <td></td>
-<td><p>（<span class="math inline">$\underset{y}{\arg\min}[x^2-77y^2=1]=40$</span>[281]）<br />
+<td><p>（<span class="math inline">$\underset{y}{\arg\min}[x^2-77y^2=1]=40$</span>[291]）<br />
 40</p></td>
 <td></td>
 <td><p>終末的變革</p></td>
@@ -7265,7 +7270,7 @@ Level 2，由於Ex-aid的特徵是風鏡，因此整個外型似Ghost，但仍�
 <tr class="even">
 <td><p>2018/06/24</p></td>
 <td></td>
-<td><p>（<span class="math inline">$\underset{q}{\arg\max}[\forall_n\leq q-2,q^2+q+n=\rho]=41$</span>[282]）<br />
+<td><p>（<span class="math inline">$\underset{q}{\arg\max}[\forall_n\leq q-2,q^2+q+n=\rho]=41$</span>[292]）<br />
 41</p></td>
 <td></td>
 <td><p>最佳配對的真相</p></td>
@@ -7282,7 +7287,7 @@ Level 2，由於Ex-aid的特徵是風鏡，因此整個外型似Ghost，但仍�
 <tr class="odd">
 <td><p>2018/07/01</p></td>
 <td></td>
-<td><p>（<span class="math inline"><em>p</em>(10) = 42</span>[283]）<br />
+<td><p>（<span class="math inline"><em>p</em>(10) = 42</span>[293]）<br />
 42</p></td>
 <td></td>
 <td><p>疑惑的遺產</p></td>
@@ -7299,7 +7304,7 @@ Level 2，由於Ex-aid的特徵是風鏡，因此整個外型似Ghost，但仍�
 <tr class="even">
 <td><p>2018/07/08</p></td>
 <td></td>
-<td><p>（<span class="math inline">$({1 \over \pi} ln 884736744)^2 \simeq 43$</span>[284]）<br />
+<td><p>（<span class="math inline">$({1 \over \pi} ln 884736744)^2 \simeq 43$</span>[294]）<br />
 43</p></td>
 <td></td>
 <td><p>另外一人的Build</p></td>
@@ -7315,7 +7320,7 @@ Level 2，由於Ex-aid的特徵是風鏡，因此整個外型似Ghost，但仍�
 <tr class="odd">
 <td><p>2018/07/15</p></td>
 <td></td>
-<td><p>（<span class="math inline">$!5=5!\sum_{k=0}^5{(-1)^k \over k!}=44$</span>[285]）<br />
+<td><p>（<span class="math inline">$!5=5!\sum_{k=0}^5{(-1)^k \over k!}=44$</span>[295]）<br />
 44</p></td>
 <td></td>
 <td><p>Evolto的末路</p></td>
@@ -7328,7 +7333,7 @@ Level 2，由於Ex-aid的特徵是風鏡，因此整個外型似Ghost，但仍�
 <tr class="even">
 <td><p>2018/07/22</p></td>
 <td></td>
-<td><p>（<span class="math inline">3<sup>2/<em>γ</em></sup> ≃ 45</span>[286]）<br />
+<td><p>（<span class="math inline">3<sup>2/<em>γ</em></sup> ≃ 45</span>[296]）<br />
 45</p></td>
 <td></td>
 <td><p>希望的科學家</p></td>
@@ -7356,7 +7361,7 @@ Level 2，由於Ex-aid的特徵是風鏡，因此整個外型似Ghost，但仍�
 <tr class="even">
 <td><p>2018/07/29</p></td>
 <td></td>
-<td><p>（<span class="math inline">$\sqrt[3]{3^3+36^3+37^3} =46$</span>[287]）<br />
+<td><p>（<span class="math inline">$\sqrt[3]{3^3+36^3+37^3} =46$</span>[297]）<br />
 46</p></td>
 <td></td>
 <td><p>誓言的Be The One</p></td>
@@ -7373,9 +7378,9 @@ Level 2，由於Ex-aid的特徵是風鏡，因此整個外型似Ghost，但仍�
 <td><p>上堀內佳壽也</p></td>
 </tr>
 <tr class="odd">
-<td><p>2018/08/12[288]</p></td>
+<td><p>2018/08/12[298]</p></td>
 <td></td>
-<td><p>（<span class="math inline">$arctan({1 \over 73})+arctan({1 \over 132})=arctan({1 \over x})$</span>，<span class="math inline"><em>x</em> = 47</span>[289]）<br />
+<td><p>（<span class="math inline">$arctan({1 \over 73})+arctan({1 \over 132})=arctan({1 \over x})$</span>，<span class="math inline"><em>x</em> = 47</span>[299]）<br />
 47</p></td>
 <td></td>
 <td><p>零度之炎</p></td>
@@ -7397,7 +7402,7 @@ Level 2，由於Ex-aid的特徵是風鏡，因此整個外型似Ghost，但仍�
 <tr class="even">
 <td><p>2018/08/19</p></td>
 <td></td>
-<td><p>（<span class="math inline">$\underset{N}{\arg\min}[\forall_n\geq N,\exists p \in(n,{9n \over 8})]=48$</span>[290]）<br />
+<td><p>（<span class="math inline">$\underset{N}{\arg\min}[\forall_n\geq N,\exists p \in(n,{9n \over 8})]=48$</span>[300]）<br />
 48</p></td>
 <td></td>
 <td><p>走向愛與和平的世界</p></td>
@@ -7415,7 +7420,7 @@ Level 2，由於Ex-aid的特徵是風鏡，因此整個外型似Ghost，但仍�
 <tr class="odd">
 <td><p>2018/08/26</p></td>
 <td></td>
-<td><p>（<span class="math inline">6667<sup>2</sup> = 44448889</span>，<span class="math inline">7<sup>2</sup> = 49</span>[291]）<br />
+<td><p>（<span class="math inline">6667<sup>2</sup> = 44448889</span>，<span class="math inline">7<sup>2</sup> = 49</span>[301]）<br />
 49</p></td>
 <td></td>
 <td><p>Build就是創造明日</p></td>
@@ -7475,7 +7480,7 @@ Level 2，由於Ex-aid的特徵是風鏡，因此整個外型似Ghost，但仍�
 
   -
     （原題：）
-    月刊雜誌**《てれびくん》**2018年2月號付錄的特別篇[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")\[292\]。
+    月刊雜誌**《てれびくん》**2018年2月號付錄的特別篇[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")\[302\]。
 
 <!-- end list -->
 
@@ -7502,7 +7507,7 @@ Level 2，由於Ex-aid的特徵是風鏡，因此整個外型似Ghost，但仍�
 <!-- end list -->
 
   -
-    2017年11月26日所播出的企劃「假面騎士藝人」第三彈，飾演主角桐生戰兔 / 假面騎士Build 的演員犬飼貴丈亦於該節目中登場。另外於該節目中播放由假面騎士Build、假面騎士Amazon 和來賓藝人田中卓志所共演的短篇影像\[293\]。
+    2017年11月26日所播出的企劃「假面騎士藝人」第三彈，飾演主角桐生戰兔 / 假面騎士Build 的演員犬飼貴丈亦於該節目中登場。另外於該節目中播放由假面騎士Build、假面騎士Amazon 和來賓藝人田中卓志所共演的短篇影像\[303\]。
 
 ### 映像商品
 
@@ -7555,13 +7560,13 @@ Level 2，由於Ex-aid的特徵是風鏡，因此整個外型似Ghost，但仍�
 
 ### 主題曲
 
-  - \* 「Be The One」\[294\]
+  - \* 「Be The One」\[304\]
     演唱：PANDORA feat.Beverly
-    作詞、作曲、編曲：[小室哲哉](../Page/小室哲哉.md "wikilink")、[淺倉大介](https://zh.wikipedia.org/wiki/淺倉大介 "wikilink")\[295\]
+    作詞、作曲、編曲：[小室哲哉](../Page/小室哲哉.md "wikilink")、[淺倉大介](https://zh.wikipedia.org/wiki/淺倉大介 "wikilink")\[305\]
 
 ### 插曲
 
-  - \* 「Ready Go\!\!」\[296\]
+  - \* 「Ready Go\!\!」\[306\]
     第27、28話的插曲。
     演唱：ats-、清水武仁&渡邊徹 Feat. AXL21
     作詞：Mio Aoyama
@@ -7680,7 +7685,7 @@ Level 2，由於Ex-aid的特徵是風鏡，因此整個外型似Ghost，但仍�
   - [《假面騎士Build》東映官網](http://www.toei.co.jp/tv/build/index.html)
 
   -
-[Category:平成假面騎士系列](https://zh.wikipedia.org/wiki/Category:平成假面騎士系列 "wikilink") [Category:2017年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2017年開播的日本電視劇集 "wikilink") [Category:平行世界背景作品](https://zh.wikipedia.org/wiki/Category:平行世界背景作品 "wikilink") [Category:香港電視娛樂外購劇集](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購劇集 "wikilink")
+[Category:平成假面騎士系列](https://zh.wikipedia.org/wiki/Category:平成假面騎士系列 "wikilink") [Category:2017年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2017年開播的日本電視劇集 "wikilink") [Category:平行世界背景作品](https://zh.wikipedia.org/wiki/Category:平行世界背景作品 "wikilink") [Category:香港電視娛樂外購劇集](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購劇集 "wikilink") [Category:天才主角題材作品](https://zh.wikipedia.org/wiki/Category:天才主角題材作品 "wikilink")
 
 1.  10月1日改為9:00-9:30
 
@@ -8221,55 +8226,75 @@ Level 2，由於Ex-aid的特徵是風鏡，因此整個外型似Ghost，但仍�
 
 270. 此為[阿克曼函數](../Page/阿克曼函數.md "wikilink")的公式，這是一種需要兩個自然數作為輸入值，並且能產生出巨大數的遞迴函式。
 
-271. 此為全部[素數的最大值](https://zh.wikipedia.org/wiki/素數 "wikilink")，英文中「totative」一詞意為「小於整數n，並與n互質的數」，而「prime」一詞意為「質數」。本式意為在一個與整數n互質且小於n的數全部都是質數（與30互質的數有1、7、11、13、17、19、23、29這八個，除1以外都是質數）的條件下，符合此條件的數字中最大的整數是30。
+271. 早上11:00-11:30播映。
 
-272. 此為[梅森質數的公式](https://zh.wikipedia.org/wiki/梅森質數 "wikilink")，其定義是符合Mn=2^n-1的質數。
+272. 深夜00:35-01:00重播。
 
-273. 此為[晶體學點群的總數](https://zh.wikipedia.org/wiki/晶體學點群 "wikilink")，「crystal class」的中文意為「晶系」，而晶體學的點群總共有32種之意。
+273. 此為全部[素數的最大值](https://zh.wikipedia.org/wiki/素數 "wikilink")，英文中「totative」一詞意為「小於整數n，並與n互質的數」，而「prime」一詞意為「質數」。本式意為在一個與整數n互質且小於n的數全部都是質數（與30互質的數有1、7、11、13、17、19、23、29這八個，除1以外都是質數）的條件下，符合此條件的數字中最大的整數是30。
 
-274. 此為拉馬努金圓周率的變體
+274. 早上11:00-11:30播映。
 
-275. 此為[斯奎斯數的公式](https://zh.wikipedia.org/wiki/斯奎斯數 "wikilink")，南非數學家史丹利•斯奎斯提出的巨大數的一種。斯奎斯於1933年提出了第一斯奎斯數的上界（需要黎曼假設成立）：「e^e^e^79 \< 10^10^10^34」
+275. 深夜00:35-01:00重播。
+
+276. 此為[梅森質數的公式](https://zh.wikipedia.org/wiki/梅森質數 "wikilink")，其定義是符合Mn=2^n-1的質數。
+
+277. 早上11:00-11:30播映。
+
+278. 深夜00:35-01:00重播。
+
+279. 此為[晶體學點群的總數](https://zh.wikipedia.org/wiki/晶體學點群 "wikilink")，「crystal class」的中文意為「晶系」，而晶體學的點群總共有32種之意。
+
+280. 早上11:00-11:30播映。
+
+281. 深夜00:35-01:00重播。
+
+282. 此為拉馬努金圓周率的變體
+
+283. 早上11:00-11:30播映。
+
+284. 深夜00:35-01:00重播。
+
+285. 此為[斯奎斯數的公式](https://zh.wikipedia.org/wiki/斯奎斯數 "wikilink")，南非數學家史丹利•斯奎斯提出的巨大數的一種。斯奎斯於1933年提出了第一斯奎斯數的上界（需要黎曼假設成立）：「e^e^e^79 \< 10^10^10^34」
      由於第一斯奎斯數的值僅僅近似於10^10^10^34，以常用對數計算後得到的答案也是近似值，因此算式使用┌與┐這兩個「取頂符號」。
 
-276. 此為[素紐結的公式](https://zh.wikipedia.org/wiki/素紐結 "wikilink")，交叉數小於等於8個的素紐結，總數是35個之意。
+286. 此為[素紐結的公式](https://zh.wikipedia.org/wiki/素紐結 "wikilink")，交叉數小於等於8個的素紐結，總數是35個之意。
 
-277. 此為[立方數](../Page/立方數.md "wikilink")的公式
+287. 此為[立方數](../Page/立方數.md "wikilink")的公式
 
-278. 此為[非正規質數的公式](https://zh.wikipedia.org/wiki/非正規質數 "wikilink")，本式意為非正規質數中，最小的數字為37之意。
+288. 此為[非正規質數的公式](https://zh.wikipedia.org/wiki/非正規質數 "wikilink")，本式意為非正規質數中，最小的數字為37之意。
 
-279. 此為[六角魔方的公式](https://zh.wikipedia.org/wiki/六角魔方 "wikilink")，即任一排數字的和皆相等的魔方陣，其任何一排的總和皆為38。
+289. 此為[六角魔方的公式](https://zh.wikipedia.org/wiki/六角魔方 "wikilink")，即任一排數字的和皆相等的魔方陣，其任何一排的總和皆為38。
 
-280. 此公式目前暂不明，只知推測連續三個數的平方和分之一的值等於4π-39/16之意。
+290. 此為[收斂級數的公式](https://zh.wikipedia.org/wiki/收斂級數 "wikilink")。
 
-281. 此為[佩爾方程的公式](https://zh.wikipedia.org/wiki/佩爾方程 "wikilink")，指的是具有x^2-ny^2=1的形式，且n為正整數的二元二次方程式。
+291. 此為[佩爾方程的公式](https://zh.wikipedia.org/wiki/佩爾方程 "wikilink")，指的是具有x^2-ny^2=1的形式，且n為正整數的二元二次方程式。
 
-282. 此為[歐拉質數生成式的公式](https://zh.wikipedia.org/wiki/歐拉質數生成式 "wikilink")，把整數帶入這項質數生成式fn(q)=q^2+q+n的n中，從第0到n-2項為止都能讓該式產生質數的整數，總共有2、3、5、11、17、41這六個，這六個數被稱為「歐拉幸運數」。
+292. 此為[歐拉質數生成式的公式](https://zh.wikipedia.org/wiki/歐拉質數生成式 "wikilink")，把整數帶入這項質數生成式fn(q)=q^2+q+n的n中，從第0到n-2項為止都能讓該式產生質數的整數，總共有2、3、5、11、17、41這六個，這六個數被稱為「歐拉幸運數」。
 
-283. 此為[整數分拆](../Page/整數分拆.md "wikilink")的公式，「p(n)」是用來表示自然數n有多少種分拆方式的表示法。
+293. 此為[整數分拆](../Page/整數分拆.md "wikilink")的公式，「p(n)」是用來表示自然數n有多少種分拆方式的表示法。
 
-284. 同樣為接近整数的公式，即「e^π√43≃ 884736743.999777…」的變式。實際用計算機計算本式後的答案約為「43.00000000000105…」，因此本式近似值是43。
+294. 同樣為接近整数的公式，即「e^π√43≃ 884736743.999777…」的變式。實際用計算機計算本式後的答案約為「43.00000000000105…」，因此本式近似值是43。
 
-285. 此為[錯排問題](https://zh.wikipedia.org/wiki/錯排問題 "wikilink")（Derangement）的公式，錯排問題是指n個物體的置換排列中，每個排列中的每個物體都不在原本的位置上的排列順序。該數表記法可寫成「Dn」、「dn」或「\!n」。
+295. 此為[錯排問題](https://zh.wikipedia.org/wiki/錯排問題 "wikilink")（Derangement）的公式，錯排問題是指n個物體的置換排列中，每個排列中的每個物體都不在原本的位置上的排列順序。該數表記法可寫成「Dn」、「dn」或「\!n」。
 
-286. 此為[歐拉．馬斯刻若尼常數的公式](https://zh.wikipedia.org/wiki/歐拉．馬斯刻若尼常數 "wikilink")。該常數的代表符號為γ，它的近似值是「0.57721566490153…」。
+296. 此為[歐拉．馬斯刻若尼常數的公式](https://zh.wikipedia.org/wiki/歐拉．馬斯刻若尼常數 "wikilink")。該常數的代表符號為γ，它的近似值是「0.57721566490153…」。
 
-287. 此為[立方根](../Page/立方根.md "wikilink")的公式，在實數系中，實數在實數系中，實數α的立方根通常用於「³√α」和「α³」來表示。
+297. 此為[立方根](../Page/立方根.md "wikilink")的公式，在實數系中，實數在實數系中，實數α的立方根通常用於「³√α」和「α³」來表示。
 
-288. 8月05日停播一次。
+298. 8月05日停播一次。
 
-289. 此為[反正切](../Page/反正切.md "wikilink")的公式，即反三角函數的一種。
+299. 此為[反正切](../Page/反正切.md "wikilink")的公式，即反三角函數的一種。
 
-290. 此為[伯特蘭．切比雪夫定理的公式](https://zh.wikipedia.org/wiki/伯特蘭．切比雪夫定理 "wikilink")。本定理說明當整數n\>3，則至少存在一個質數p，符合「n\<p\<2n」。而本式意為當n大於等於48的時候，「n～9n/8」之間必定會存質數存在之意。
+300. 此為[伯特蘭．切比雪夫定理的公式](https://zh.wikipedia.org/wiki/伯特蘭．切比雪夫定理 "wikilink")。本定理說明當整數n\>3，則至少存在一個質數p，符合「n\<p\<2n」。而本式意為當n大於等於48的時候，「n～9n/8」之間必定會存質數存在之意。
 
-291. 此為[立面根的公式](https://zh.wikipedia.org/wiki/立面根 "wikilink")，就是兩個同樣的位数相乘的公式，例如「α²」。
+301. 此為[立面根的公式](https://zh.wikipedia.org/wiki/立面根 "wikilink")，就是兩個同樣的位数相乘的公式，例如「α²」。
 
-292. 根據官網所公佈的得知時間軸大約是在本篇第19 - 20話之間
+302. 根據官網所公佈的得知時間軸大約是在本篇第19 - 20話之間
 
-293. 田中卓志每一彈都參與演出，但每次都成修卡怪人欺負的對象。
+303. 田中卓志每一彈都參與演出，但每次都成修卡怪人欺負的對象。
 
-294. 第1話未用於片頭，而是用於片尾。
+304. 第1話未用於片頭，而是用於片尾。
 
-295. 淺倉大介亦有與貴水博之組成日本音樂組合\<<Access>\>，其中成員貴水博之亦曾於前作《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》飾演檀正宗 / 假面騎士Cronus （聲） 。
+305. 淺倉大介亦有與貴水博之組成日本音樂組合\<<Access>\>，其中成員貴水博之亦曾於前作《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》飾演檀正宗 / 假面騎士Cronus （聲） 。
 
-296.
+306.

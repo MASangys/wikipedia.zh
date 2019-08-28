@@ -49,7 +49,7 @@
 <td><p><a href="../Page/趙宇麗.md" title="wikilink">趙宇麗</a><br />
 </p></td>
 <td><p>玄秀雅</p></td>
-<td><p><a href="../Page/駱慧怡.md" title="wikilink">駱慧怡</a></p></td>
+<td></td>
 <td><p>具有稀有天然美貌的女生，也因此容易引來男人暗戀，外表看似清純無害，實際上是個心機很重和善於撒謊的女人。十分懂得利用言詞和楚楚可憐的外表來討好和引起別人的同情特別是男性，為了維持好身材也常常用催吐的方式，之後被美來、泰熙、藝娜發現而形象受創。表面上對美來很友善，但卻時常在背後陷害和利用她，對總能洞悉其意圖的慶錫非常在意，貌似喜歡都慶錫，實則不喜歡都慶錫。某日被同學鄭東元攻擊後，開始改變自己的行為態度，並重新積極面對人生，後來休學。</p></td>
 </tr>
 <tr class="odd">
@@ -137,7 +137,7 @@
 <td><p><strong>介紹</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/朴宥娜.md" title="wikilink">朴宥娜</a></p></td>
+<td><p><a href="../Page/朴柔娜.md" title="wikilink">朴柔娜</a></p></td>
 <td><p>劉恩[7]</p></td>
 <td><p><a href="../Page/姜嘉蕾.md" title="wikilink">姜嘉蕾</a></p></td>
 <td><p>重考三年，今年錄取化學系成為新生，一年級系代表。由於家境一般，故需要靠著自己打工來獲得零用錢。與姜美來還有崔正芬是交情不錯的同學，成熟和時尚的性格獲得很多女性朋友，同時透過人脈網絡知道很多人的秘密，也是第一個發現秀兒秘密的人。</p></td>
@@ -457,6 +457,8 @@
 
 PSY - New Face (第01集)
 Momoland - BBoom BBoom (第01集)
+IKON - Love Scenario (第02集)
+Produce101 S2 - Pick me (第03集)
 LAYSHA - Pink Label (第10集)
 
 ## 收視率
@@ -620,7 +622,7 @@ LAYSHA - Pink Label (第10集)
 
   - [韓國JTBC官方網站](http://tv.jtbc.joins.com/beauty)
 
-[Category:JTBC金土連續劇](https://zh.wikipedia.org/wiki/Category:JTBC金土連續劇 "wikilink") [Category:2018年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2018年韓國電視劇集 "wikilink") [Category:韓國漫畫改編韓國電視劇](https://zh.wikipedia.org/wiki/Category:韓國漫畫改編韓國電視劇 "wikilink") [Category:韓國愛情劇](https://zh.wikipedia.org/wiki/Category:韓國愛情劇 "wikilink") [Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink")
+[Category:JTBC金土連續劇](https://zh.wikipedia.org/wiki/Category:JTBC金土連續劇 "wikilink") [Category:2018年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2018年韓國電視劇集 "wikilink") [Category:韓國漫畫改編韓國電視劇](https://zh.wikipedia.org/wiki/Category:韓國漫畫改編韓國電視劇 "wikilink") [Category:韓國愛情劇](https://zh.wikipedia.org/wiki/Category:韓國愛情劇 "wikilink") [Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink") [Category:香港電視娛樂外購劇集](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購劇集 "wikilink")
 
 1.  [這個月底就看的到啦～JTBC新劇《我的ID是江南美人》首版預告影片公開！](https://www.koreastardaily.com/tc/news/106973)，韓星網，2018-07-01
 2.  [林秀香、車銀優《我的 ID 是江南美人》海報、第二波預告公開](https://www.kpopn.com/2018/07/08/%E6%9E%97%E7%A7%80%E9%A6%99%E3%80%81%E8%BB%8A%E9%8A%80%E5%84%AA%E3%80%8A%E6%88%91%E7%9A%84-id-%E6%98%AF%E6%B1%9F%E5%8D%97%E7%BE%8E%E4%BA%BA%E3%80%8B%E6%B5%B7%E5%A0%B1%E3%80%81%E7%AC%AC%E4%BA%8C%E6%B3%A2%E9%A0%90%E5%91%8A%E5%85%AC%E9%96%8B/)，Kpopn，2018-07-08

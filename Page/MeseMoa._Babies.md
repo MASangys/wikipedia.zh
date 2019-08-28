@@ -6,29 +6,29 @@
 
 ### 合格者
 
-| 番號  | 參賽名   | 最終審査隊伍        |
-| --- | ----- | ------------- |
-| 日文  | 羅馬拼音  |               |
-| 2番  | あづ    | Adu           |
-| 11番 | なぎの巻物 | Nagi          |
-| 12番 | ぱっち   | Patchi        |
-| 13番 | ゆー    | Yu            |
-| 14番 | ようた   | Youta         |
-| 15番 | 渡邉祐矢  | Watanabe Yuya |
+| 番號  | 參賽名   | 最終審査隊伍        | 現所屬團體  |
+| --- | ----- | ------------- | ------ |
+| 日文  | 羅馬拼音  |               |        |
+| 2番  | あづ    | Adu           | Team B |
+| 11番 | なぎの巻物 | Nagi          | Team B |
+| 12番 | ぱっち   | Patchi        | Team A |
+| 13番 | ゆー    | Yu            | Team C |
+| 14番 | ようた   | Youta         | Team C |
+| 15番 | 渡邉祐矢  | Watanabe Yuya | Team B |
 
 ### 研究生
 
-| 番號  | 參賽名   | 最終審査隊伍         |
-| --- | ----- | -------------- |
-| 日文  | 羅馬拼音  |                |
-| 1番  | 青野精一郎 | Aono Seiichiro |
-| 3番  | いっペル  | Itsuperu       |
-| 4番  | ガオたいが | Gaotaiga       |
-| 5番  | 犬太    | Kenta          |
-| 6番  | こづた   | Kodzuta        |
-| 7番  | 笹森椋遙  | Sasamori Ryo   |
-| 9番  | じんくん  | Jin-kun        |
-| 10番 | 渚こうた  | Nagisa Kota    |
+| 番號  | 參賽名   | 最終審査隊伍         | 現所屬團體  |
+| --- | ----- | -------------- | ------ |
+| 日文  | 羅馬拼音  |                |        |
+| 1番  | 青野清一郎 | Aono Seiichiro | Team B |
+| 3番  | いっペル  | Itsuperu       | Team A |
+| 4番  | ガオたいが | Gaotaiga       | Team B |
+| 5番  | 犬太    | Kenta          | Team A |
+| 6番  | こづた   | Kodzuta        | Team C |
+| 7番  | 笹森椋遙  | Sasamori Ryo   | Team C |
+| 9番  | じんくん  | Jin-kun        | Team A |
+| 10番 | 渚こうた  | Nagisa Kota    | Team A |
 
 ## 審査
 
@@ -53,10 +53,6 @@
 ## 外部連結
 
   - MeseMoa. Babies [官方網站](http://mesemoa-babies.com/)
-
-  - MeseMoa. Babies 成員Twitter
-
-      - [Adu](https://twitter.com/adu_babies)ㆍ[Nagi](https://twitter.com/nagi_MeseMoaBab)ㆍ[Patchi](https://twitter.com/MsmaBpcwo)ㆍ[Yu](https://twitter.com/you_Mbabies)ㆍ[Youta](https://twitter.com/youta_babies)ㆍ[Yuya](https://twitter.com/yuya_babies)
 
 <!-- end list -->
 

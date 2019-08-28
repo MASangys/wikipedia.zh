@@ -66,6 +66,13 @@
 <td><p>2018年2月28日</p></td>
 <td><p><strong>Dear Teardrop</strong></p></td>
 <td><p>LACM-14715</p></td>
+<td><p>93名</p></td>
+</tr>
+<tr class="even">
+<td><p>5th</p></td>
+<td><p>2019年8月21日</p></td>
+<td><p><strong></strong></p></td>
+<td><p>LACM-14921</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -150,8 +157,13 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p>電視動畫《<a href="../Page/只要長得可愛，即使是變態你也喜歡嗎？.md" title="wikilink">只要長得可愛，即使是變態你也喜歡嗎？</a>》片尾曲</p></td>
+<td><p>電視動畫《<a href="../Page/只要長得可愛，即使是變態你也喜歡嗎？.md" title="wikilink">只要長得可愛，即使是變態你也喜歡嗎？</a>》片尾曲、插入曲</p></td>
 <td><p>2019年</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>

@@ -69,47 +69,47 @@
 
 ### 增設舞台
 
-| 舞台類型          | 舞台種類                             | BGM                 | 追加時期  |
-| ------------- | -------------------------------- | ------------------- | ----- |
-| Live          | Cute                             | アイカツ☆ステップ\!         | 1彈    |
-| スタートライン\!     |                                  |                     |       |
-| みつばちのキス       |                                  |                     |       |
-| Cute & Cool   | POPCORN DREAMING♪                | 2彈                  |       |
-| Sexy          | Summer Tears Diary               |                     |       |
-| Cool          | 1,2,Sing for You\!               | 3彈                  |       |
-| Dreaming bird |                                  |                     |       |
-| Pop           | アニマルカーニバル                        | 4彈                  |       |
-| Cute          | STARDOM\!                        | 星之翼1彈               |       |
-| Cool          | 荒野の奇跡                            |                     |       |
-| Sexy          | Forever Dream                    | 星之翼2彈               |       |
-| Cool          | Miracle Force Magic 〜ローラ Ver〜.   |                     |       |
-| Pop           | ダイヤモンドハッピー（前作《偶像活動》中的「Soleil」舞台） | 星之翼3彈               |       |
-| Cute          | 森のひかりのピルエット                      | 星之翼4彈               |       |
-| Cute          | SHINING LINE＊（前作《偶像活動》中的舞台）      | 星之翼4彈               |       |
-| Cute          | MUSIC of DREAM                   | \!                  | 星之翼5彈 |
-| Sexy          | The only sun light               | 星之翼5彈               |       |
-| Drama         | Cool                             | Miracle Force Magic | 1彈    |
-| Cute          | トキメキララン☆                         | 2彈                  |       |
-| Sexy          | ドリームステージ☆                        | 3彈                  |       |
-| Cool          | キミをロックオン                         | 4彈                  |       |
-| Dance         | Cute                             | ハートがスキ♡ップ           | 1彈    |
-| Cool          | Dancing Days                     | 2彈                  |       |
-| Pop           | One Step                         | 3彈                  |       |
-| Cute          | スタージェット\!                        | 4彈                  |       |
-| Pop           | Bon Bon Voyage\!                 | 星之翼1彈               |       |
-| Cute          | ハッピー☆パンチ                         | 星之翼2彈               |       |
-| Pop           | ネバギバ☆                            | 星之翼3彈               |       |
-| Cute          | STARDOM\!                        |                     |       |
-| Fashion Show  | Cool                             | Episode Solo        | 1彈    |
-| Sexy          | 未来トランジット                         |                     |       |
-| Pop           | 8月のマリーナ                          | 2彈                  |       |
-| Cute          | So Beautiful Story               | 3彈                  |       |
-| Sexy          | TSU・BO・MI 〜鮮やかな未来へ〜              | 4彈                  |       |
-| Pop           | おねがいメリー                          | 星之翼1彈               |       |
-| Sexy          | MAKEOVER♡MAKEUP                  | 星之翼2彈               |       |
-| Cute          | Message of a Rainbow             | 星之翼3彈               |       |
-| Cool          | 裸足のルネサンス                         | 星之翼4彈               |       |
-|               |                                  |                     |       |
+| 舞台類型                             | 舞台種類               | BGM                 | 追加時期 |
+| -------------------------------- | ------------------ | ------------------- | ---- |
+| Live                             | Cute               | アイカツ☆ステップ\!         | 1彈   |
+| スタートライン\!                        |                    |                     |      |
+| みつばちのキス                          |                    |                     |      |
+| STARDOM\!                        | 星之翼1彈              |                     |      |
+| 森のひかりのピルエット                      | 星之翼4彈              |                     |      |
+| SHINING LINE＊（前作《偶像活動》中的舞台）      |                    |                     |      |
+| MUSIC of DREAM                   | \!                 | 星之翼5彈               |      |
+| Cute & Cool                      | POPCORN DREAMING♪  | 2彈                  |      |
+| Sexy                             | Summer Tears Diary |                     |      |
+| Forever Dream                    | 星之翼2彈              |                     |      |
+| The only sun light               | 星之翼5彈              |                     |      |
+| Cool                             | 1,2,Sing for You\! | 3彈                  |      |
+| Dreaming bird                    |                    |                     |      |
+| 荒野の奇跡                            | 星之翼1彈              |                     |      |
+| Miracle Force Magic 〜ローラ Ver〜.   | 星之翼2彈              |                     |      |
+| Pop                              | アニマルカーニバル          | 4彈                  |      |
+| ダイヤモンドハッピー（前作《偶像活動》中的「Soleil」舞台） | 星之翼3彈              |                     |      |
+| Drama                            | Cool               | Miracle Force Magic | 1彈   |
+| キミをロックオン                         | 4彈                 |                     |      |
+| Cute                             | トキメキララン☆           | 2彈                  |      |
+| Sexy                             | ドリームステージ☆          | 3彈                  |      |
+| Dance                            | Cute               | ハートがスキ♡ップ           | 1彈   |
+| スタージェット\!                        | 4彈                 |                     |      |
+| ハッピー☆パンチ                         | 星之翼2彈              |                     |      |
+| STARDOM\!                        | 星之翼3彈              |                     |      |
+| Cool                             | Dancing Days       | 2彈                  |      |
+| Pop                              | One Step           | 3彈                  |      |
+| Bon Bon Voyage\!                 | 星之翼1彈              |                     |      |
+| ネバギバ☆                            | 星之翼3彈              |                     |      |
+| Fashion Show                     | Cool               | Episode Solo        | 1彈   |
+| 裸足のルネサンス                         | 星之翼4彈              |                     |      |
+| Sexy                             | 未来トランジット           | 1彈                  |      |
+| TSU・BO・MI 〜鮮やかな未来へ〜              | 4彈                 |                     |      |
+| MAKEOVER♡MAKEUP                  | 星之翼2彈              |                     |      |
+| Pop                              | 8月のマリーナ            | 2彈                  |      |
+| おねがいメリー                          | 星之翼1彈              |                     |      |
+| Cute                             | So Beautiful Story | 3彈                  |      |
+| Message of a Rainbow             | 星之翼3彈              |                     |      |
+|                                  |                    |                     |      |
 
 ## 衣服品牌
 
@@ -203,24 +203,6 @@
     配裝在星光高級稀有套裝的特殊配飾，已知存在的十種都以太陽系星體（包含月球、冥王星）命名。
     只有被偶像-{}-活動系統認可才能獲得。
 
-:;
-
-  -
-
-      -
-        根據動畫版中獲得星之翼的偶像的順序記載如下：
-          -
-            **艾爾莎·福特**：於第51話表示已擁有金星之翼，於第86話進化成太陽禮服。
-            **白銀莉莉**：於第53話獲得冥王星之翼。
-            **花園綺羅羅**：於第54話獲得水星之翼。
-            **香澄真晝**：於第64話獲得海王星之翼。
-            **櫻庭蘿拉**：於第65話獲得火星之翼，於第100話後表示已進化成太陽禮服。
-            **二階堂柚子**：於第67話獲得土星之翼。
-            **虹野夢**：於第73話獲得地球之翼，於第96話進化成太陽禮服。
-            **雙葉亞里亞**：於第76話獲得木星之翼。
-            **騎咲禮**：於第80話獲得天王星之翼。
-            **白鳥姬**：於第97話表示已獲得月亮禮服。
-
 ## 電視動畫
 
 ### 製作人員
@@ -251,9 +233,7 @@
 
 :; 「スタートライン\!」（第1話 - 第25話）
 
-:: 作詞：[唐澤美帆](../Page/唐澤美帆.md "wikilink")，作曲：，編曲：（）
-
-:: 主唱：せな（虹野夢）、りえ（櫻庭蘿拉） from
+:: 作詞：[唐澤美帆](../Page/唐澤美帆.md "wikilink")，作曲：，編曲：（），主唱：せな（虹野夢）、りえ（櫻庭蘿拉） from
 
 :: 主唱：るか（白鳥姬） from AIKATSU☆STARS！（第1、22、49話插入曲）
 
@@ -263,9 +243,7 @@
 
 :; 「1,2,Sing for You\!」（第26話 - 第33話）
 
-:: 作詞：空谷泉身，作曲：秋浦智裕，編曲：南田健吾（onetrap）
-
-:: 主唱：せな（虹野夢）、りえ（櫻庭蘿拉）、 みき（早乙女亞子）、かな（香澄真晝） from AIKATSU☆STARS！
+:: 作詞：空谷泉身，作曲：秋浦智裕，編曲：南田健吾（onetrap），主唱：せな（虹野夢）、りえ（櫻庭蘿拉）、 みき（早乙女亞子）、かな（香澄真晝） from AIKATSU☆STARS！
 
 :: 主唱：せな（虹野夢）、りえ（櫻庭蘿拉） from AIKATSU☆STARS！（第29話插入曲）
 
@@ -273,17 +251,13 @@
 
 :; 「スタージェット\!」（第34話 - 第50話）
 
-:: 作詞：唐澤美帆，作曲：長橋健一，編曲：南田健吾（onetrap）
-
-:: 主唱：せな（虹野夢）、りえ（櫻庭蘿拉）、 みき（早乙女亞子）、かな（香澄真晝） from AIKATSU☆STARS！
+:: 作詞：唐澤美帆，作曲：長橋健一，編曲：南田健吾（onetrap），主唱：せな（虹野夢）、りえ（櫻庭蘿拉）、 みき（早乙女亞子）、かな（香澄真晝） from AIKATSU☆STARS！
 
 :: 主唱：せな（虹野夢）from AIKATSU☆STARS！（第36、43、49話插入曲）
 
 :; 「STARDOM\!」（第51話 - 第75話）
 
-:: 作詞：唐澤美帆，作曲：蔦谷好位置，編曲：田中隼人（agehasprings）
-
-:: 主唱：せな（虹野夢）、りえ（櫻庭蘿拉）、 みき（早乙女亞子）、かな（香澄真晝） from AIKATSU☆STARS！
+:: 作詞：唐澤美帆，作曲：蔦谷好位置，編曲：田中隼人（agehasprings），主唱：せな（虹野夢）、りえ（櫻庭蘿拉）、 みき（早乙女亞子）、かな（香澄真晝） from AIKATSU☆STARS！
 
 :: 主唱：せな（虹野夢）、りえ（櫻庭蘿拉） from AIKATSU☆STARS！（第52、57、71話插入曲）
 
@@ -294,8 +268,7 @@
   -
 
       -
-        作詞：唐澤美帆，作曲：南田健吾、蔦谷好位置，編曲：成瀬裕介（onetrap）
-        主唱：せな（虹野夢）、りえ（櫻庭蘿拉）、 みき（早乙女亞子）、かな（香澄真晝） from AIKATSU☆STARS！
+        作詞：唐澤美帆，作曲：南田健吾、蔦谷好位置，編曲：成瀬裕介（onetrap），主唱：せな（虹野夢）、りえ（櫻庭蘿拉）、 みき（早乙女亞子）、かな（香澄真晝） from AIKATSU☆STARS！
         主唱：せな（虹野夢） from AIKATSU☆STARS！（第85、88、93、96話插入曲）
 
 <!-- end list -->
@@ -304,9 +277,7 @@
 
 :; 「Episode Solo」（第1話 - 第25話）
 
-:: 作詞：，作曲、編曲：（）
-
-:: 主唱：るか、ななせ、かな、みほ（25th S4） from AIKATSU☆STARS！ （第50、69、72話插入曲）
+:: 作詞：，作曲、編曲：（），主唱：るか、ななせ、かな、みほ（25th S4） from AIKATSU☆STARS！ （第50、69、72話插入曲）
 
 :: 主唱：るか（白鳥姬）、みほ（香澄夜空） from AIKATSU☆STARS！ （第4話插入曲）
 
@@ -316,9 +287,7 @@
 
 :; 「So Beautiful Story」（第26話 - 第50話）
 
-:: 作詞：[こだまさおり](https://zh.wikipedia.org/wiki/こだまさおり "wikilink")，作曲、編曲：（MONACA）
-
-:: 主唱：るか（白鳥姬）、せな（虹野夢） from AIKATSU☆STARS！（第35話插入曲）
+:: 作詞：[こだまさおり](https://zh.wikipedia.org/wiki/こだまさおり "wikilink")，作曲、編曲：（MONACA），主唱：るか（白鳥姬）、せな（虹野夢） from AIKATSU☆STARS！（第35話插入曲）
 
 :: 主唱：るか（白鳥姬） from AIKATSU☆STARS！ （第27話插入曲）
 
@@ -326,9 +295,7 @@
 
 :; 「Bon Bon Voyage\!」（第51話 - 第75話）
 
-:: 作詞：，作曲、編曲：石濱翔（MONACA）
-
-:: 主唱：りさ（艾爾莎·福特）、みほ（花園綺羅羅） from AIKATSU☆STARS！（第55、58話插入曲）
+:: 作詞：，作曲、編曲：石濱翔（MONACA），主唱：りさ（艾爾莎·福特）、みほ（花園綺羅羅） from AIKATSU☆STARS！（第55、58話插入曲）
 
 :: 主唱：りさ（艾爾莎·福特）、みほ（花園綺羅羅）、りえ（騎咲禮）、るか（雙葉亞里亞） from AIKATSU☆STARS！（第97話插入曲）
 
@@ -337,8 +304,7 @@
   -
 
       -
-        作詞：辻純更，作曲、編曲：高橋邦幸（MONACA）
-        主唱：せな（虹野夢）、るか（雙葉亞里亞） from AIKATSU☆STARS！（第82、89話插入曲）
+        作詞：辻純更，作曲、編曲：高橋邦幸（MONACA），主唱：せな（虹野夢）、るか（雙葉亞里亞） from AIKATSU☆STARS！（第82、89話插入曲）
         主唱：るか（雙葉亞里亞）from AIKATSU☆STARS！（第76、77、91話插入曲）
 
 <!-- end list -->
@@ -347,9 +313,7 @@
 
 :; 「アイカツ☆ステップ\!」（第1、2、3、7、9、18、24、100話）
 
-:: 作詞：唐澤美帆，作曲、編曲：connie
-
-:: 主唱：せな（虹野夢） from AIKATSU☆STARS！（第1、3、18話）
+:: 作詞：唐澤美帆，作曲、編曲：connie，主唱：せな（虹野夢） from AIKATSU☆STARS！（第1、3、18話）
 
 :: 主唱：せな（虹野夢）、りえ（櫻庭蘿拉） from AIKATSU☆STARS！（第2話）
 
@@ -361,21 +325,15 @@
 
 :; 「ハートがスキ♡ップ」（第5、9話）
 
-:: 作詞：辻純更，作曲、編曲：[岡部啓一](https://zh.wikipedia.org/wiki/岡部啓一 "wikilink")（MONACA）
-
-:: 主唱：せな（虹野夢） from AIKATSU☆STARS！（第5、9話）
+:: 作詞：辻純更，作曲、編曲：[岡部啓一](https://zh.wikipedia.org/wiki/岡部啓一 "wikilink")（MONACA），主唱：せな（虹野夢） from AIKATSU☆STARS！（第5、9話）
 
 :; 「未来トランジット」（第8、47話）
 
-:: 作詞：只野菜摘，作曲、編曲：永谷たかお
-
-:: 主唱：みほ（香澄夜空） from AIKATSU☆STARS！（第8、47話）
+:: 作詞：只野菜摘，作曲、編曲：永谷たかお，主唱：みほ（香澄夜空） from AIKATSU☆STARS！（第8、47話）
 
 :; 「みつばちのキス」（第12、22、44話）
 
-:: 作詞：辻純更，作曲、編曲：connie
-
-:: 主唱：せな（虹野夢）、りえ（櫻庭蘿拉） from AIKATSU☆STARS！（第12話）
+:: 作詞：辻純更，作曲、編曲：connie，主唱：せな（虹野夢）、りえ（櫻庭蘿拉） from AIKATSU☆STARS！（第12話）
 
 :: 主唱：せな（虹野夢） from AIKATSU☆STARS！（第22話）
 
@@ -383,143 +341,101 @@
 
 :; 「Summer Tears Diary」（第14、15話）
 
-:: 作詞：こだまさおり，作曲、編曲：ミト
-
-:: 主唱：かな（香澄真晝） from AIKATSU☆STARS！（第14話）
+:: 作詞：こだまさおり，作曲、編曲：ミト，主唱：かな（香澄真晝） from AIKATSU☆STARS！（第14話）
 
 :: 主唱：みほ（香澄夜空）、かな（香澄真晝） from AIKATSU☆STARS！（第15話）
 
 :; 「8月のマリーナ」（第17、19話）
 
-:: 作詞：只野菜摘，作曲：石濱翔（MONACA），編曲：（MONACA）
-
-:: 主唱：みき（早乙女亞子） from AIKATSU☆STARS！（第17話）
+:: 作詞：只野菜摘，作曲：石濱翔（MONACA），編曲：（MONACA），主唱：みき（早乙女亞子） from AIKATSU☆STARS！（第17話）
 
 :: 主唱：かな（二階堂柚子） from AIKATSU☆STARS！（第19話）
 
 :; 「Dancing Days」（第20、46話）
 
-:: 作詞：美音子，作曲、編曲：南田健吾（onetrap）
-
-:: 主唱：ななせ（如月翼） from AIKATSU☆STARS！（第20、46話）
+:: 作詞：美音子，作曲、編曲：南田健吾（onetrap），主唱：ななせ（如月翼） from AIKATSU☆STARS！（第20、46話）
 
 :; 「POPCORN DREAMING♪」（第21話）
 
-:: 作詞：唐澤美帆，作曲：加賀山長志，編曲：釣俊輔（agehasprings）
-
-:: 主唱：せな（虹野夢）、りえ（櫻庭蘿拉） from AIKATSU☆STARS！（第21話）
+:: 作詞：唐澤美帆，作曲：加賀山長志，編曲：釣俊輔（agehasprings），主唱：せな（虹野夢）、りえ（櫻庭蘿拉） from AIKATSU☆STARS！（第21話）
 
 :; 「Dreaming bird」（第23、26、33、39、48話）
 
-:: 作詞：ヒカリツカサ，作曲、編曲：南田健吾（onetrap）
-
-:: 主唱：ななせ（白銀莉莉） from AIKATSU☆STARS！（第23、26、33、39、48話）
+:: 作詞：ヒカリツカサ，作曲、編曲：南田健吾（onetrap），主唱：ななせ（白銀莉莉） from AIKATSU☆STARS！（第23、26、33、39、48話）
 
 :; 「One Step」（第31、32話）
 
-:: 作詞：Amon Hayashi，作曲、編曲：Mitsu. J
-
-:: 主唱：ななせ（如月翼）、みほ（香澄夜空）、かな（香澄真晝） from AIKATSU☆STARS！（第31話）
+:: 作詞：Amon Hayashi，作曲、編曲：Mitsu. J，主唱：ななせ（如月翼）、みほ（香澄夜空）、かな（香澄真晝） from AIKATSU☆STARS！（第31話）
 
 :: 主唱：かな（二階堂柚子）、せな（虹野夢）、みき（早乙女亞子） from AIKATSU☆STARS！（第32話）
 
-:; 「TSU-BO-MI 〜鮮やかな未来へ〜」（第34、41、47話）
-
-:: 作詞：YADAKO，作曲、編曲：YUKI FUNAKOSHI
+:; 「TSU-BO-MI 〜鮮やかな未来へ〜」（第34、41、47話），作詞：YADAKO，作曲、編曲：YUKI FUNAKOSHI
 
 :: 主唱：かな（香澄真晝） from AIKATSU☆STARS！（第34話）
 
-:: 作詞：YADAKO，作曲：YUKI FUNAKOSHI，編曲：C-Show、YUKI FUNAKOSHI
-
-:: 主唱：みほ（香澄夜空） from AIKATSU☆STARS！（第41話）
+:: 作詞：YADAKO，作曲：YUKI FUNAKOSHI，編曲：C-Show、YUKI FUNAKOSHI，主唱：みほ（香澄夜空） from AIKATSU☆STARS！（第41話）
 
 :: 主唱：かな（香澄真晝） from AIKATSU☆STARS！（第47話）
 
 :; 「[We wish you a merry Christmas](../Page/我們祝你聖誕快樂.md "wikilink") AIKATSU☆STARS\! Ver.」（第37、87話）
 
-:: 作詞：こだまさおり，作曲、編曲：岡部啓一（MONACA）
-
-:: 主唱：せな（虹野夢）、りえ（櫻庭蘿拉）、みき（早乙女亞子）、かな（香澄真晝） from AIKATSU☆STARS！（第37話）
+:: 作詞：こだまさおり，作曲、編曲：岡部啓一（MONACA），主唱：せな（虹野夢）、りえ（櫻庭蘿拉）、みき（早乙女亞子）、かな（香澄真晝） from AIKATSU☆STARS！（第37話）
 
 :: 主唱：せな（虹野夢）、りえ（櫻庭蘿拉）、みき（早乙女亞子）、かな（香澄真晝）、ななせ（七倉小春） from AIKATSU☆STARS！（第87話）
 
 :; 「アニマルカーニバル」（第42、45、46、98話）
 
-:: 作詞：秋浦智裕，作曲：中野領太，編曲：成瀨裕介（onetrap）
-
-:: 主唱：かな（二階堂柚子）、ななせ（白銀莉莉） from AIKATSU☆STARS！（第42、98話）
+:: 作詞：秋浦智裕，作曲：中野領太，編曲：成瀨裕介（onetrap），主唱：かな（二階堂柚子）、ななせ（白銀莉莉） from AIKATSU☆STARS！（第42、98話）
 
 :: 主唱：みき（早乙女亞子） from AIKATSU☆STARS！（第45、46話）
 
 :; 「僕らの奇跡」（第43、69話）
 
-:: 作詞：前澤希，作曲、編曲：南田健吾（onetrap）
-
-:: 主唱：八代拓、上村佑翔、堀江瞬、ランズベリー・アーサー（M4） from AIKATSU☆STARS！（第43、69話）
+:: 作詞：前澤希，作曲、編曲：南田健吾（onetrap），主唱：M4［結城昴（[八代拓](../Page/八代拓.md "wikilink")）、五十嵐希（[上村祐翔](../Page/上村祐翔.md "wikilink")）、香澄朝陽（[堀江瞬](../Page/堀江瞬.md "wikilink")）、吉良奏（）（第43、69話）
 
 :; 「Forever Dream」（第51、56、60、68、78、94話）
 
-:: 作詞：神田憐鷗，作曲：內藤英雅，編曲：伊勢佳史（onetrap）
-
-:: 主唱：りさ（艾爾莎·福特） from AIKATSU☆STARS！（第51、56、60、68、78、94話）
+:: 作詞：神田憐鷗，作曲：內藤英雅，編曲：伊勢佳史（onetrap），主唱：りさ（艾爾莎·福特） from AIKATSU☆STARS！（第51、56、60、68、78、94話）
 
 :; 「荒野の奇跡」（第53、63話）
 
-:: 作詞：tzk，作曲、編曲：南田健吾（onetrap）
-
-:: 主唱：ななせ（白銀莉莉） from AIKATSU☆STARS！（第53、63話）
+:: 作詞：tzk，作曲、編曲：南田健吾（onetrap），主唱：ななせ（白銀莉莉） from AIKATSU☆STARS！（第53、63話）
 
 :; 「おねがいメリー」（第54、66、74、84、89、90話）
 
-:: 作詞：林奈津美，作曲：秋浦智裕，編曲：成瀨裕介（onetrap）
-
-:: 主唱：みほ（花園綺羅羅） from AIKATSU☆STARS！（第54、66、90話）
+:: 作詞：林奈津美，作曲：秋浦智裕，編曲：成瀨裕介（onetrap），主唱：みほ（花園綺羅羅） from AIKATSU☆STARS！（第54、66、90話）
 
 :: 主唱：みほ（花園綺羅羅）、みき（早乙女亞子） from AIKATSU☆STARS！（第74、84、89話）
 
 :; 「ハッピー☆パンチ」（第61話）
 
-:: 作詞：tzk，作曲：石松領平，編曲：山崎佳祐（onetrap）
-
-:: 主唱：せな（虹野夢）、みき（早乙女亞子） from AIKATSU☆STARS！（第61話）
+:: 作詞：tzk，作曲：石松領平，編曲：山崎佳祐（onetrap），主唱：せな（虹野夢）、みき（早乙女亞子） from AIKATSU☆STARS！（第61話）
 
 :; 「Miracle Force Magic」（第62、65、86話）
 
-:: 作詞：yumeiroecho，作曲：秋田博之，編曲：南田健吾（onetrap）
-
-:: 主唱：りえ（櫻庭蘿拉）from AIKATSU☆STARS！（第62、65、86話）
+:: 作詞：yumeiroecho，作曲：秋田博之，編曲：南田健吾（onetrap），主唱：りえ（櫻庭蘿拉）from AIKATSU☆STARS！（第62、65、86話）
 
 :; 「MAKEOVER♡MAKEUP」（第64、75、81、91、94話）
 
-:: 作詞：こだまさおり，作曲：YUKI FUNAKOSHI ，編曲：C-Show、YUKI FUNAKOSHI
-
-:: 主唱：かな（香澄真晝）from AIKATSU☆STARS！（第64、75、81、91、94話）
+:: 作詞：こだまさおり，作曲：YUKI FUNAKOSHI ，編曲：C-Show、YUKI FUNAKOSHI，主唱：かな（香澄真晝）from AIKATSU☆STARS！（第64、75、81、91、94話）
 
 :; 「ネバギバ☆」（第67、81話）
 
-:: 作詞：美音子，作曲：カイザー惠理菜 ，編曲：山崎佳祐（onetrap）
-
-:: 主唱：かな（二階堂柚子） from AIKATSU☆STARS！（第67話）
+:: 作詞：美音子，作曲：カイザー惠理菜 ，編曲：山崎佳祐（onetrap），主唱：かな（二階堂柚子） from AIKATSU☆STARS！（第67話）
 
 :; 「ダイヤモンドハッピー」（第70話）
 
-:: 作詞：[畑亞貴](../Page/畑亞貴.md "wikilink")，作曲、編曲：石濱翔（MONACA）
-
-:: 主唱：わか（星宮莓）、ふうり（霧矢葵）、すなお（紫吹蘭） from [STAR☆ANIS](../Page/STAR☆ANIS.md "wikilink")（第70話）
+:: 作詞：[畑亞貴](../Page/畑亞貴.md "wikilink")，作曲、編曲：石濱翔（MONACA），主唱：わか（星宮莓）、ふうり（霧矢葵）、すなお（紫吹蘭） from [STAR☆ANIS](../Page/STAR☆ANIS.md "wikilink")（第70話）
 
 :; 「Message of a Rainbow」（第73、79話）
 
-:: 作詞：松原さらり，作曲：HALIFANIE，編曲：南田健吾（onetrap）
-
-:: 主唱：せな（虹野夢） from AIKATSU☆STARS！（第73話）
+:: 作詞：松原さらり，作曲：HALIFANIE，編曲：南田健吾（onetrap），主唱：せな（虹野夢） from AIKATSU☆STARS！（第73話）
 
 :: 主唱：せな（虹野夢）、ななせ（七倉小春） from AIKATSU☆STARS！（第79話）
 
 :; 「裸足のルネサンス」（第80、83、93話）
 
-:: 作詞：只野菜摘，作曲：，編曲：、、阿部隆大
-
-:: 主唱：りえ（騎咲禮）from AIKATSU☆STARS！（第80、93話）
+:: 作詞：只野菜摘，作曲：，編曲：、、阿部隆大，主唱：りえ（騎咲禮）from AIKATSU☆STARS！（第80、93話）
 
 :: 主唱：りえ（騎咲禮）、ななせ（白銀莉莉）from AIKATSU☆STARS！（第83話）
 
@@ -528,8 +444,7 @@
   -
 
       -
-        作詞：松原さらり，作曲：長橋健一，編曲：Integral Clover（agehasprings）
-        主唱：りさ（艾爾莎·福特）from AIKATSU☆STARS！（第86、95話）
+        作詞：松原さらり，作曲：長橋健一，編曲：Integral Clover（agehasprings），主唱：りさ（艾爾莎·福特）from AIKATSU☆STARS！（第86、95話）
 
 <!-- end list -->
 
@@ -537,33 +452,23 @@
 
 :; 「Miracle Force Magic」（第6話）
 
-:: 作詞：yumeiroecho，作曲：秋田博之，編曲：南田健吾（onetrap）
-
-:: 主唱：ななせ（如月翼）from AIKATSU☆STARS！（第6話）
+:: 作詞：yumeiroecho，作曲：秋田博之，編曲：南田健吾（onetrap），主唱：ななせ（如月翼）from AIKATSU☆STARS！（第6話）
 
 :; 「トキメキララン☆」（第13話）
 
-:: 作詞：[yura](https://zh.wikipedia.org/wiki/yura "wikilink")，作曲、編曲：
-
-:: 主唱：せな（虹野夢）、みき（早乙女亞子）from AIKATSU☆STARS！（第13話）
+:: 作詞：[yura](https://zh.wikipedia.org/wiki/yura "wikilink")，作曲、編曲：，主唱：せな（虹野夢）、みき（早乙女亞子）from AIKATSU☆STARS！（第13話）
 
 :; 「ドリームステージ☆」（第25話）
 
-:: 作詞：YADAKO，作曲、編曲：YUKI FUNAKOSHI
-
-:: 主唱：ななせ（如月翼）、みほ（香澄夜空）、かな（香澄真晝）from AIKATSU☆STARS！（第25話）
+:: 作詞：YADAKO，作曲、編曲：YUKI FUNAKOSHI，主唱：ななせ（如月翼）、みほ（香澄夜空）、かな（香澄真晝）from AIKATSU☆STARS！（第25話）
 
 :; 「Halloween Night Magic」（第28話）
 
-:: 作詞：神田憐鷗，作曲：長橋健一，編曲：（agehasprings）
-
-:: 主唱：みき（早乙女亞子）、ななせ（如月翼）from AIKATSU☆STARS！（第28話）
+:: 作詞：神田憐鷗，作曲：長橋健一，編曲：（agehasprings），主唱：みき（早乙女亞子）、ななせ（如月翼）from AIKATSU☆STARS！（第28話）
 
 :; 「キミをロックオン」（第40、41話）
 
-:: 作詞：林美步，作曲：GENMAI，編曲：Integral Clover（agehasprings）
-
-:: 主唱：ななせ（如月翼）、りえ（櫻庭蘿拉）from AIKATSU☆STARS！（第40話）
+:: 作詞：林美步，作曲：GENMAI，編曲：Integral Clover（agehasprings），主唱：ななせ（如月翼）、りえ（櫻庭蘿拉）from AIKATSU☆STARS！（第40話）
 
 :; 「ミラクルめでたい焼きの幸花堂」（第58、88話）
 
@@ -1920,6 +1825,17 @@
 <td><p>衛星電視</p></td>
 <td><p>只播到第50話</p></td>
 </tr>
+<tr class="odd">
+<td><p>台灣</p></td>
+<td><p><a href="../Page/MOMO親子台.md" title="wikilink">MOMO親子台</a></p></td>
+<td><p>2017年10月22日－2018年9月9日（第一季）<br />
+2018年9月16日－2019年8月25日（第二季）</p></td>
+<td><p>星期日 18:00－18:30（第一季）<br />
+星期日 18:30－19:00（第二季）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/有線電視" title="wikilink">有線電視</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/UTC+8" title="wikilink">UTC+8</a><br />
+國語配音，中文字幕</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -2071,21 +1987,6 @@
   - 動畫製作協力：日昇動畫
   - 配給：[東映](../Page/東映.md "wikilink")
   - 上映時間：93分鐘
-
-## 關連條目
-
-### 前作
-
-  - 機台條目 - [Aikatsu！偶像活動！](../Page/Aikatsu！偶像活動！.md "wikilink")
-  - 動畫條目 - [Aikatsu！偶像活動！(動畫)](../Page/偶像活動！_\(動畫\).md "wikilink")
-  - 角色條目 - [Aikatsu！偶像活動！角色列表](../Page/Aikatsu！偶像活動！角色列表.md "wikilink")
-  - 配唱條目 - [STAR☆ANIS](../Page/STAR☆ANIS.md "wikilink")、
-
-### 續作
-
-  - 機台、動畫條目 - [偶像活動Friends！](../Page/偶像活動Friends！.md "wikilink")
-  - 角色條目 - [偶像活動Friends！角色列表](../Page/偶像活動Friends！角色列表.md "wikilink")
-  - 配唱條目 -
 
 ## 參考資料
 

@@ -94,14 +94,14 @@
 </tr>
 <tr class="even">
 <td><p>2011年8月12日至9月23日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a><br />
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a><br />
 KMTV Asia</p></td>
 <td><p>《Superstar K3》</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2016年7月29日至9月16日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>《Unpretty Rapstar 3》</p></td>
 <td></td>
 </tr>
@@ -116,11 +116,11 @@ KMTV Asia</p></td>
 
 ### 单次访问/嘉宾出演
 
-|            |                                                       |                       |                           |
-| ---------- | ----------------------------------------------------- | --------------------- | ------------------------- |
-| 放送日期       | 电视台                                                   | 节目名称                  | 备注                        |
-| 2016年7月15日 | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | 《Show Me The Money 5》 |                           |
-| 2018年7月8日  | MBC                                                   | 《蒙面歌王》                | 節目放送後Euna Kim登上naver 實搜1位 |
+|            |                                    |                       |                           |
+| ---------- | ---------------------------------- | --------------------- | ------------------------- |
+| 放送日期       | 电视台                                | 节目名称                  | 备注                        |
+| 2016年7月15日 | [Mnet](../Page/Mnet.md "wikilink") | 《Show Me The Money 5》 |                           |
+| 2018年7月8日  | MBC                                | 《蒙面歌王》                | 節目放送後Euna Kim登上naver 實搜1位 |
 
 ## 参与资料
 

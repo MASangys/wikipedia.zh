@@ -632,11 +632,15 @@
 </tr>
 <tr class="even">
 <td><p>2018</p></td>
-<td><p>32,144+</p></td>
+<td><p>32,144</p></td>
 </tr>
 <tr class="odd">
+<td><p>2019</p></td>
+<td><p>19,997</p></td>
+</tr>
+<tr class="even">
 <td><p>總共</p></td>
-<td><p>425,628+</p></td>
+<td><p>447,851+</p></td>
 </tr>
 </tbody>
 </table>

@@ -265,8 +265,8 @@ CR400BF系列列车均设有商务车，一等座车以及二等座车。其中�
 </tr>
 <tr class="even">
 <td><p><a href="../Page/中国铁路沈阳局集团有限公司.md" title="wikilink">沈阳局集团</a></p></td>
-<td><p>3</p></td>
-<td><p>5113～5115</p></td>
+<td><p>9</p></td>
+<td><p>5113～5122</p></td>
 <td><p>瀋陽南</p></td>
 <td><p><a href="../Page/京哈客运专线.md" title="wikilink">京哈客运专线</a></p></td>
 <td><p>5116～5122尚未正式配屬動車所。</p></td>

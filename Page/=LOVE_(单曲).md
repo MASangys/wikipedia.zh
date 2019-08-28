@@ -4,4 +4,6 @@
 
 ## 参考文献
 
+{{=LOVE}}
+
 [Category:2017年單曲](https://zh.wikipedia.org/wiki/Category:2017年單曲 "wikilink") [Category:=LOVE歌曲](https://zh.wikipedia.org/wiki/Category:=LOVE歌曲 "wikilink") [Category:出道單曲](https://zh.wikipedia.org/wiki/Category:出道單曲 "wikilink")

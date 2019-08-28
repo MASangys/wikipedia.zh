@@ -1,4 +1,4 @@
-《**Love Yourself 承 -{'Her'}-**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[防彈少年團](../Page/防彈少年團.md "wikilink")的第五張韓語迷你專輯，這張專輯是作為他們在2017年下旬到2018年為止將要呈現的新主題「Love Yourself」系列的首張專輯。該專輯通過[數位音樂下載](../Page/數位音樂下載.md "wikilink")服務商販售的版本共收錄9首歌曲，實體[CD](../Page/CD.md "wikilink")則收錄11首歌曲，包含兩首隱藏曲，數位專輯及實體專輯收錄的〈DNA〉為主打歌，由[Big Hit娛樂企劃製作](../Page/Big_Hit娛樂.md "wikilink")，[LOEN娛樂發行](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")，於2017年9月18日除了在下午6時通過各大數位音樂網站公開全專線上音源之外，實體專輯也會在當天以四種不同版本發售。\[1\]
+《**Love Yourself 承 -{'Her'}-**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[防彈少年團](../Page/防彈少年團.md "wikilink")的第五張韓語迷你專輯，這張專輯是作為他們在2017年下半年到2018年為止將要呈現的新主題「Love Yourself」系列的首張專輯。該專輯通過[數位音樂下載](../Page/數位音樂下載.md "wikilink")服務商販售的版本共收錄9首歌曲，實體[CD](../Page/CD.md "wikilink")則收錄11首歌曲，包含兩首隱藏曲，數位專輯及實體專輯收錄的〈DNA〉為主打歌，由[Big Hit娛樂企劃製作](../Page/Big_Hit娛樂.md "wikilink")，[LOEN娛樂發行](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")，於2017年9月18日除了在下午6時通過各大數位音樂網站公開全專線上音源之外，實體專輯也會在當天以四種不同版本發售。\[1\]
 
 ## 背景及概念
 

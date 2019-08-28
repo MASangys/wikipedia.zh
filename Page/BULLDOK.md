@@ -4,11 +4,11 @@
 
 ### 出道前:《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》
 
-除了小拉，其他四名成員都參加了2016年播出的[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") 練習生競爭節目《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》，亨恩於第七集獲得了位置評價RAP組第一名。
+除了小拉，其他四名成員都參加了2016年播出的[Mnet](../Page/Mnet.md "wikilink") 練習生競爭節目《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》，亨恩於第七集獲得了位置評價RAP組第一名。
 
 ### 2016年：出道
 
-  - 2016年10月20日發行出道單曲《**어때요**》\[1\]。當天在首爾市麻浦區 Rolling Hall 舉辦了 showcase\[2\]。同日並以 [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") 音樂節目《[M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》為出道初登場舞台，演唱〈**어때요（Why Not）**〉\[3\]。
+  - 2016年10月20日發行出道單曲《**어때요**》\[1\]。當天在首爾市麻浦區 Rolling Hall 舉辦了 showcase\[2\]。同日並以 [Mnet](../Page/Mnet.md "wikilink") 音樂節目《[M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》為出道初登場舞台，演唱〈**어때요（Why Not）**〉\[3\]。
 
 <!-- end list -->
 
@@ -96,13 +96,13 @@
 
 ### 其他綜藝節目
 
-|       |            |                                                       |                                                    |      |         |
-| ----- | ---------- | ----------------------------------------------------- | -------------------------------------------------- | ---- | ------- |
-| 年份    | 日期         | 電視台                                                   | 節目名稱                                               | 參與成員 | 備註      |
-| 2016  | 1月22日－4月1日 | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | 《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》 | 亨恩   | 最終排名：33 |
-| SAY   | 最終排名：43    |                                                       |                                                    |      |         |
-| KIMI  | 最終排名：44    |                                                       |                                                    |      |         |
-| GENIE | 最終排名：54    |                                                       |                                                    |      |         |
+|       |            |                                    |                                                    |      |         |
+| ----- | ---------- | ---------------------------------- | -------------------------------------------------- | ---- | ------- |
+| 年份    | 日期         | 電視台                                | 節目名稱                                               | 參與成員 | 備註      |
+| 2016  | 1月22日－4月1日 | [Mnet](../Page/Mnet.md "wikilink") | 《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》 | 亨恩   | 最終排名：33 |
+| SAY   | 最終排名：43    |                                    |                                                    |      |         |
+| KIMI  | 最終排名：44    |                                    |                                                    |      |         |
+| GENIE | 最終排名：54    |                                    |                                                    |      |         |
 
 ## 演出活動
 

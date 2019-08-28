@@ -1,4 +1,4 @@
-**MOMOLAND**（），是（前稱Dublekick Company）於2016年透過與[Mnet合作的練習生競爭節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")[《SURVIVAL MOMOLAND를 찾아서》選出的女子演唱團體](../Page/尋找MOMOLAND.md "wikilink")，由10位少女在節目中挑戰不同任務，爭取出道機會，最終選出 [慧彬](../Page/慧彬.md "wikilink")、[Nancy](../Page/南希·麥多尼.md "wikilink")、、[娜允](https://zh.wikipedia.org/wiki/娜允 "wikilink")、[妸仁](https://zh.wikipedia.org/wiki/妸仁 "wikilink")、[珠伊](../Page/JooE.md "wikilink")、JANE 七名成員。
+**MOMOLAND**（），是（前稱Dublekick Company）於2016年透過與[Mnet](../Page/Mnet.md "wikilink")合作的練習生競爭節目[《SURVIVAL MOMOLAND를 찾아서》選出的女子演唱團體](../Page/尋找MOMOLAND.md "wikilink")，由10位少女在節目中挑戰不同任務，爭取出道機會，最終選出 [慧彬](../Page/慧彬.md "wikilink")、[Nancy](../Page/南希·麥多尼.md "wikilink")、、[娜允](https://zh.wikipedia.org/wiki/娜允 "wikilink")、[妸仁](https://zh.wikipedia.org/wiki/妸仁 "wikilink")、[珠伊](../Page/JooE.md "wikilink")、JANE 七名成員。
 
 2017年3月28日，加入在[《SURVIVAL MOMOLAND를 찾아서》落選](../Page/尋找MOMOLAND.md "wikilink")，[JYP娛樂](../Page/JYP娛樂.md "wikilink")練習生出身的DAISY。
 
@@ -170,11 +170,11 @@ PlotData =
 ` color:blue width:10 textcolor:black align:left anchor:from`
 ` bar:Jane from:11/10/2016 till:end`
 ` color:skyblue width:10 textcolor:black align:left anchor:from`
-` bar:TaeHa from:04/10/2017 till:03/20/2019`
+` bar:TaeHa from:04/10/2017 till:end`
 ` color:blue width:10 textcolor:black align:left anchor:from`
 ` bar:NaYun from:11/10/2016 till:end`
 ` color:darkblue width:10 textcolor:black align:left anchor:from`
-` bar:Daisy from:03/28/2017 till:03/20/2019`
+` bar:Daisy from:03/28/2017 till:end`
 ` color:blue width:10 textcolor:black align:left anchor:from`
 ` bar:JooE from:11/10/2016 till:end`
 ` color:blue width:10 textcolor:black align:left anchor:from`
@@ -379,27 +379,28 @@ LineData =
 
 ### 其他大型公演
 
-| 日期          | 公演名稱                              | 舉行地點                                                                                                                                            |
-| ----------- | --------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2016年11月26日 | Web TV Asia Awards 2016           | 韓國－首爾國際會展中心                                                                                                                                     |
-| 2016年11月30日 | SBS「Love Concert」                 | 韓國－京畿道光明市 Speed Dome                                                                                                                            |
-| 2016年12月26日 | SBS 歌謠大戰 2016                     | 韓國－SBS COEX D廳                                                                                                                                  |
-| 2017年9月9日   | INK Incheon K-Pop Concert 2017    | 韓國－仁川文鶴競技場                                                                                                                                      |
-| 2017年10月22日 | Busan One Asia Festival 2017      | 韓國－釜山亞運會主體育場                                                                                                                                    |
-| 2017年11月1日  | 平昌冬季奧運 K-POP 演唱會                  | 韓國－首爾光化門                                                                                                                                        |
-| 2017年11月15日 | Asia Artist Award 2017            | 韓國－首爾蠶室綜合運動場                                                                                                                                    |
-| 2017年12月21日 | 2018 PyeongChang Olympic G-50     | 韓國－KBS大廳                                                                                                                                        |
-| 2018年2月14日  | 2018 K-POP WORLD FESTIVAL         | 韓國－江陵原州大學體育場                                                                                                                                    |
-| 2018年4月13日  | KCON 2018 JAPAN                   | 日本－千葉縣幕張展覽館                                                                                                                                     |
-| 2018年7月5日   | M\!Countdown in Taipei            | 台灣－台北小巨蛋                                                                                                                                        |
-| 2018年7月15日  | Red Angel K-POP FESTIVAL          | 韓國－京畿道加平區鱉島                                                                                                                                     |
-| 2018年8月1日   | 2018 Korea Music Festival         | 韓國－首爾高尺Sky dome                                                                                                                                 |
-| 2018年8月11日  | KCON 2018 USA in LA\[17\]         | 美國－洛杉磯[史坦波中心](../Page/斯台普斯中心.md "wikilink")                                                                                                     |
-| 2018年8月30日  | 2018 SORIBADA BEST K-MUSIC AWARDS | 韓國－首爾奧林匹克體操競技場                                                                                                                                  |
-| 2018年9月8日   | HallyuPopFest 2018                | 新加坡－新加坡室內體育館                                                                                                                                    |
-| 2018年10月2日  | Asia Song Festival                | [韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")－[釜山](https://zh.wikipedia.org/wiki/釜山 "wikilink")[亞運會主競技場](../Page/釜山亞運會主競技場.md "wikilink") |
-| 2018年10月9日  | 2018 World Friends Music Festival | 韓國－京畿道華城市                                                                                                                                       |
-| 2019年4月28日  | 人氣歌謠 Super Concert                | 韓國－光州世界盃競技場                                                                                                                                     |
+| 日期            | 公演名稱                              | 舉行地點                                                                                                                                            |
+| ------------- | --------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2016年11月26日   | Web TV Asia Awards 2016           | 韓國－首爾國際會展中心                                                                                                                                     |
+| 2016年11月30日   | SBS「Love Concert」                 | 韓國－京畿道光明市 Speed Dome                                                                                                                            |
+| 2016年12月26日   | SBS 歌謠大戰 2016                     | 韓國－SBS COEX D廳                                                                                                                                  |
+| 2017年9月9日     | INK Incheon K-Pop Concert 2017    | 韓國－仁川文鶴競技場                                                                                                                                      |
+| 2017年10月22日   | Busan One Asia Festival 2017      | 韓國－釜山亞運會主體育場                                                                                                                                    |
+| 2017年11月1日    | 平昌冬季奧運 K-POP 演唱會                  | 韓國－首爾光化門                                                                                                                                        |
+| 2017年11月15日   | Asia Artist Award 2017            | 韓國－首爾蠶室綜合運動場                                                                                                                                    |
+| 2017年12月21日   | 2018 PyeongChang Olympic G-50     | 韓國－KBS大廳                                                                                                                                        |
+| 2018年2月14日    | 2018 K-POP WORLD FESTIVAL         | 韓國－江陵原州大學體育場                                                                                                                                    |
+| 2018年4月13日    | KCON 2018 JAPAN                   | 日本－千葉縣幕張展覽館                                                                                                                                     |
+| 2018年7月5日     | M\!Countdown in Taipei            | 台灣－台北小巨蛋                                                                                                                                        |
+| 2018年7月15日    | Red Angel K-POP FESTIVAL          | 韓國－京畿道加平區鱉島                                                                                                                                     |
+| 2018年8月1日     | 2018 Korea Music Festival         | 韓國－首爾高尺Sky dome                                                                                                                                 |
+| 2018年8月11日    | KCON 2018 USA in LA\[17\]         | 美國－洛杉磯[史坦波中心](../Page/斯台普斯中心.md "wikilink")                                                                                                     |
+| 2018年8月30日    | 2018 SORIBADA BEST K-MUSIC AWARDS | 韓國－首爾奧林匹克體操競技場                                                                                                                                  |
+| 2018年9月8日     | HallyuPopFest 2018                | 新加坡－新加坡室內體育館                                                                                                                                    |
+| 2018年10月2日    | Asia Song Festival                | [韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")－[釜山](https://zh.wikipedia.org/wiki/釜山 "wikilink")[亞運會主競技場](../Page/釜山亞運會主競技場.md "wikilink") |
+| 2018年10月9日    | 2018 World Friends Music Festival | 韓國－京畿道華城市                                                                                                                                       |
+| 2019年4月28日    | 人氣歌謠 Super Concert                | 韓國－光州世界盃競技場                                                                                                                                     |
+| 2019年11月9-10日 | 2019 KAMP Global K-Pop Festival   | 新加坡－新加坡室內體育館                                                                                                                                    |
 
 ## 獎項
 

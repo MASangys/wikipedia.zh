@@ -617,7 +617,7 @@
 <td><p>'''<a href="../Page/黑豹_(電影).md" title="wikilink">黑豹</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/復仇者聯盟3：無限之戰" title="wikilink">復仇者聯盟3：無限之戰</a></p></td>
+<td><p><a href="../Page/復仇者聯盟3：無限之戰.md" title="wikilink">復仇者聯盟3：無限之戰</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -636,7 +636,7 @@
 <td><p><strong>2019<br />
 (第28屆)<br />
 </strong></p></td>
-<td><p>'''<a href="https://zh.wikipedia.org/wiki/復仇者聯盟：終局之戰" title="wikilink">復仇者聯盟：終局之戰</a></p></td>
+<td><p>'''<a href="../Page/復仇者聯盟：終局之戰.md" title="wikilink">復仇者聯盟：終局之戰</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/黑色黨徒.md" title="wikilink">黑色黨徒</a> ‡</p></td>

@@ -1,6 +1,4 @@
-《**Red
-Velvet媒體作品列表**》主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Red
-Velvet歷年參與的影視作品](../Page/Red_Velvet.md "wikilink")（電視劇、電影、綜藝節目、音樂劇、音樂錄影帶）、合作舞台等。
+《**Red Velvet媒體作品列表**》主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Red Velvet歷年參與的影視作品](../Page/Red_Velvet.md "wikilink")（電視劇、電影、綜藝節目、音樂劇、音樂錄影帶）、合作舞台等。
 
 ## 影視作品
 
@@ -19,7 +17,7 @@ Velvet歷年參與的影視作品](../Page/Red_Velvet.md "wikilink")（電視劇
 | ----- | -------------------------------------------------- | ---------------------------------------------- | ----- | -- | ----- | -- |
 | 年份    | 電視台／播映頻道                                           | 劇名                                             | 參與成員  | 角色 | 性質    | 集數 |
 | 2016年 | [Naver](../Page/Naver_\(公司\).md "wikilink") TVcast | 《[遊戲公司的女職員們](../Page/遊戲公司的女職員們.md "wikilink")》 | Irene | 雅凜 | 主角    | 全劇 |
-| 2017年 | 《Some男》                                            | Joy                                            | Joy   | 客串 | 第7-8集 |    |
+| 2017年 | 《[曖昧男](../Page/曖昧男.md "wikilink")》                 | Joy                                            | Joy   | 客串 | 第7-8集 |    |
 
 ### 音樂劇
 
@@ -61,7 +59,16 @@ Velvet歷年參與的影視作品](../Page/Red_Velvet.md "wikilink")（電視劇
 | The Little Match Girl                  |
 | 2018                                   |
 | SELFISH                                |
+| \#Cookie Jar                           |
 | Power Up                               |
+| Wow Thing                              |
+| Written In The Stars                   |
+| RBB (Really Bad Boy)                   |
+| Hair in the Air                        |
+| 2019                                   |
+| Dear Diary                             |
+| Tuesday is better than Monday          |
+|                                        |
 
 ## 綜藝節目
 
@@ -87,6 +94,7 @@ Velvet歷年參與的影視作品](../Page/Red_Velvet.md "wikilink")（電視劇
 | 2018年9月15日─12月8日       |
 | 2018年12月2日─2019年1月13日  |
 | 2019年4月5日─             |
+| 2019年6月16日—2019年7月13日  |
 |                        |
 
 ### 專屬節目
@@ -284,14 +292,24 @@ Velvet歷年參與的影視作品](../Page/Red_Velvet.md "wikilink")（電視劇
 | 11月19日     |
 | 12月8日      |
 | 12月12日     |
+| 12月19日     |
 
-| 2019年節目列表     |
-| ------------- |
-| 播出日期          |
-| 2月14日         |
-| 4月6日          |
-| 4月7日          |
-| 4月21、28日、5月5日 |
+| 2019年節目列表 |
+| --------- |
+| 播出日期      |
+| 2月14日     |
+| 4月6日      |
+| 4月7日      |
+| 4月21日     |
+| 4月28日     |
+| 5月5日      |
+| 6月16日     |
+| 6月21日     |
+| 6月22日     |
+| 6月23日     |
+| 6月25日     |
+| 6月29日     |
+| 7月10日     |
 
 ## 電台節目
 
@@ -574,8 +592,8 @@ Velvet歷年參與的影視作品](../Page/Red_Velvet.md "wikilink")（電視劇
 <td><p>2015年11月8日</p></td>
 <td><p>第7届Melon Music Awards</p></td>
 <td><p>Irene</p></td>
-<td><p>與<a href="https://zh.wikipedia.org/wiki/金所炫" title="wikilink">金所炫</a>、<a href="../Page/李侑菲.md" title="wikilink">李侑菲</a>、<a href="../Page/金信英.md" title="wikilink">金信英为特别环节MC</a><br />
-與<a href="../Page/徐康俊.md" title="wikilink">徐康俊为颁奖MC</a></p></td>
+<td><p>與<a href="https://zh.wikipedia.org/wiki/金所炫" title="wikilink">金所炫</a>、<a href="../Page/李侑菲.md" title="wikilink">李侑菲</a>、<a href="../Page/金信英.md" title="wikilink">金信英</a>为特别环节MC<br />
+與<a href="../Page/徐康俊.md" title="wikilink">徐康俊</a>为颁奖MC</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016年9月24日</p></td>
@@ -587,12 +605,12 @@ Velvet歷年參與的影視作品](../Page/Red_Velvet.md "wikilink")（電視劇
 <td><p>2016年12月24日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a>《KBS演藝大賞2016》</p></td>
 <td><p>Irene</p></td>
-<td><p>與<a href="../Page/朴寶劍.md" title="wikilink">朴寶劍擔任頒獎嘉賓</a></p></td>
+<td><p>與<a href="../Page/朴寶劍.md" title="wikilink">朴寶劍</a>擔任頒獎嘉賓</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016年12月29日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a>《KBS歌謠大祝祭》</p></td>
-<td><p>特別MC，與<a href="../Page/朴寶劍.md" title="wikilink">朴寶劍共同主持</a></p></td>
+<td><p>特別MC，與<a href="../Page/朴寶劍.md" title="wikilink">朴寶劍</a>共同主持</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -618,27 +636,27 @@ Velvet歷年參與的影視作品](../Page/Red_Velvet.md "wikilink")（電視劇
 <td><p>2017蔚山夏日音樂祭</p></td>
 <td><p>Wendy</p></td>
 <td><p>2017年7月24日錄製<br />
-與<a href="../Page/鄭容和.md" title="wikilink">鄭容和为特別MC</a></p></td>
+與<a href="../Page/鄭容和.md" title="wikilink">鄭容和</a>为特別MC</p></td>
 </tr>
 <tr class="even">
 <td><p>2017年8月15日</p></td>
 <td><p>Music Bank World Tour in Singapore</p></td>
 <td><p>Irene</p></td>
 <td><p>2017年8月4日錄製<br />
-與<a href="../Page/朴寶劍.md" title="wikilink">朴寶劍共同主持</a></p></td>
+與<a href="../Page/朴寶劍.md" title="wikilink">朴寶劍</a>共同主持</p></td>
 </tr>
 <tr class="odd">
 <td><p>2017年9月30日</p></td>
 <td><p>Music Bank World Tour in Jakarta</p></td>
 <td><p>2017年9月2日錄製<br />
-與<a href="../Page/朴寶劍.md" title="wikilink">朴寶劍共同主持</a></p></td>
+與<a href="../Page/朴寶劍.md" title="wikilink">朴寶劍</a>共同主持</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2017年9月30日</p></td>
 <td><p>Fever Festival</p></td>
 <td><p>Joy</p></td>
-<td><p>與<a href="../Page/金信英.md" title="wikilink">金信英</a>、<a href="../Page/Haha.md" title="wikilink">Haha共同主持</a></p></td>
+<td><p>與<a href="../Page/金信英.md" title="wikilink">金信英</a>、<a href="../Page/Haha.md" title="wikilink">Haha</a>共同主持</p></td>
 </tr>
 <tr class="odd">
 <td><p>2017年11月3日</p></td>
@@ -656,7 +674,7 @@ Velvet歷年參與的影視作品](../Page/Red_Velvet.md "wikilink")（電視劇
 <tr class="odd">
 <td><p>2017年12月13日</p></td>
 <td><p>2017 KBO GOLDEN GLOVE AWARDS</p></td>
-<td><p>與<a href="../Page/吳智昊.md" title="wikilink">吳智昊擔任頒獎嘉賓</a></p></td>
+<td><p>與<a href="../Page/吳智昊.md" title="wikilink">吳智昊</a>擔任頒獎嘉賓</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -815,7 +833,4 @@ Velvet歷年參與的影視作品](../Page/Red_Velvet.md "wikilink")（電視劇
 
   - [Red Velvet的V Live頻道](http://channels.vlive.tv/DCF447)
 
-|}
-
-[Category:Red_Velvet](https://zh.wikipedia.org/wiki/Category:Red_Velvet "wikilink")
-[Category:作品列表](https://zh.wikipedia.org/wiki/Category:作品列表 "wikilink")
+[Category:Red_Velvet](https://zh.wikipedia.org/wiki/Category:Red_Velvet "wikilink") [Category:作品列表](https://zh.wikipedia.org/wiki/Category:作品列表 "wikilink")

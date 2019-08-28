@@ -117,7 +117,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>《<a href="../Page/Monstar.md" title="wikilink">Monstar</a>》</p></td>
 <td><p>俊亨</p></td>
 <td><p>尹雪燦</p></td>
@@ -359,7 +359,7 @@
 <tr class="even">
 <td><p>2013年</p></td>
 <td><p>1月4日－2月1日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>《The Voice Kids》</p></td>
 <td><p>耀燮 擔任導師</p></td>
 </tr>
@@ -387,7 +387,7 @@
 </tr>
 <tr class="even">
 <td><p>1月31日─ 7月25日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>《Super Idol Chart Show》</p></td>
 <td><p>東雲 固定主持因行程繁忙決定下車</p></td>
 <td></td>
@@ -544,7 +544,7 @@
 </tr>
 <tr class="even">
 <td><p>8月2日－10月4日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>《GOT YA!公園少女》</p></td>
 <td><p>東雲</p></td>
 <td></td>
@@ -575,16 +575,16 @@
 
 ### 出演節目
 
-|        |                                                       |                                                  |             |
-| ------ | ----------------------------------------------------- | ------------------------------------------------ | ----------- |
-| 放送日期   | 電視台                                                   | 節目名稱                                             | 出演成員（空白為全體） |
-| 2月19日  | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | 《餘裕滿滿》                                           |             |
-| 11月21日 | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | 《[Mnet亞洲音樂大獎](../Page/Mnet亞洲音樂大獎.md "wikilink")》 | 少斗俊         |
-| 12月2日  | [MTV](https://zh.wikipedia.org/wiki/MTV "wikilink")   | 《MOST WANTED》                                    |             |
-| 12月6日  | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | 《星期天夜晚非洲紀實》                                      | 斗俊          |
-| 12月4日  | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | 《黃金味車》                                           | 起光          |
-| 12月29日 | [SBS](../Page/SBS_\(韓國\).md "wikilink")               | 《歌謠大戰》                                           |             |
-|        |                                                       |                                                  |             |
+|        |                                                     |                                                  |             |
+| ------ | --------------------------------------------------- | ------------------------------------------------ | ----------- |
+| 放送日期   | 電視台                                                 | 節目名稱                                             | 出演成員（空白為全體） |
+| 2月19日  | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | 《餘裕滿滿》                                           |             |
+| 11月21日 | [Mnet](../Page/Mnet.md "wikilink")                  | 《[Mnet亞洲音樂大獎](../Page/Mnet亞洲音樂大獎.md "wikilink")》 | 少斗俊         |
+| 12月2日  | [MTV](https://zh.wikipedia.org/wiki/MTV "wikilink") | 《MOST WANTED》                                    |             |
+| 12月6日  | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 《星期天夜晚非洲紀實》                                      | 斗俊          |
+| 12月4日  | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 《黃金味車》                                           | 起光          |
+| 12月29日 | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | 《歌謠大戰》                                           |             |
+|        |                                                     |                                                  |             |
 
 |             |                                                                           |                                                                               |             |
 | ----------- | ------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ----------- |
@@ -790,7 +790,7 @@
 </tr>
 <tr class="odd">
 <td><p>12月8日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>《Wide Open Studio》</p></td>
 <td><p>賢勝</p></td>
 </tr>
@@ -879,7 +879,7 @@
 </tr>
 <tr class="even">
 <td><p>8月23日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>《Wide Open Studio》</p></td>
 <td><p>少起光</p></td>
 </tr>
@@ -983,7 +983,7 @@
 </tr>
 <tr class="odd">
 <td><p>12月20日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>《Wide Open Studio》</p></td>
 <td><p>耀燮</p></td>
 </tr>
@@ -996,85 +996,85 @@
 </tbody>
 </table>
 
-|           |                                                       |                                                                               |             |
-| --------- | ----------------------------------------------------- | ----------------------------------------------------------------------------- | ----------- |
-| 放送日期      | 電視台                                                   | 節目名稱                                                                          | 出演成員（空白為全體） |
-| 1月6日      | [SBS](../Page/SBS_\(韓國\).md "wikilink")               | 《[Running Man](../Page/Running_Man.md "wikilink")》                            | 起光          |
-| 1月9日      | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | 《[Weekly Idol](../Page/Weekly_Idol.md "wikilink")》                            | 耀燮          |
-| 1月10日、17日 | [JTBC](../Page/JTBC.md "wikilink")                    | 《》                                                                            | 耀燮          |
-| 1月12日、13日 | [SBS](../Page/SBS_\(韓國\).md "wikilink")               | 《E\!.K-Pop Hero》                                                              |             |
-| 1月12日     | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | 《挑戰金鐘》                                                                        | 賢勝          |
-| 1月21日     | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | 《Beatle Code2》                                                                | 耀燮          |
-| 1月25日     | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | 《[Section TV 演藝通信](https://zh.wikipedia.org/wiki/Section_TV_演藝通信 "wikilink")》 |             |
-| 1月25日     | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | 《黃金味車》                                                                        |             |
-| 2月7日      | [KBS2](../Page/KBS第2频道.md "wikilink")                 | 《[Happy Together](../Page/歡樂在一起.md "wikilink")》                               | 斗俊          |
-| 4月27日     | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | 《[演藝家中介](../Page/演藝家中介.md "wikilink")》                                        |             |
-| 7月25日     | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | 《Wide Open Studio》                                                            |             |
-| 7月25日     | [KBS](../Page/韓國放送公社.md "wikilink")                   | 《[Happy Together 3](../Page/歡樂在一起.md "wikilink")》                             | 起光、東雲、耀燮    |
-| 7月27日     | [KBS2](../Page/KBS第2频道.md "wikilink")                 | 《[柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")》                 |             |
-| 7月28日     | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | 《[Section TV 演藝通信](https://zh.wikipedia.org/wiki/Section_TV_演藝通信 "wikilink")》 |             |
-| 7月30日     | [KBS2](../Page/KBS第2频道.md "wikilink")                 | 《[1 VS 100](../Page/1_VS_100.md "wikilink")》                                  | 斗俊          |
-| 8月3日      | [KBS2](../Page/KBS第2频道.md "wikilink")                 | 《[演藝家中介](../Page/演藝家中介.md "wikilink") 游擊約會》                                   |             |
-| 8月9日      | [KBS2](../Page/KBS第2频道.md "wikilink")                 | 《家族的品格 Full House》                                                            | 起光          |
-| 8月10日     | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | 《MPD's MVP》                                                                   |             |
-| 8月19日     | [KBS2](../Page/KBS第2频道.md "wikilink")                 | 《》                                                                            | 耀燮          |
-| 8月21日     | [SBS](../Page/SBS_\(韓國\).md "wikilink")               | 《[深夜TV演藝](../Page/深夜正式演藝.md "wikilink")》                                      | 耀燮          |
-| 8月21日、28日 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | 《[Weekly Idol](../Page/Weekly_Idol.md "wikilink")》                            |             |
-| 8月26日     | [KBS2](../Page/KBS第2频道.md "wikilink")                 | 《[大國民脫口秀-你好](../Page/大國民脫口秀-你好.md "wikilink")》                                |             |
-| 9月4日      | [KBS2](../Page/KBS第2频道.md "wikilink")                 | 《維他命》                                                                         | 耀燮、起光       |
-| 9月8日      | [SBS](../Page/SBS_\(韓國\).md "wikilink")               | 《[Running Man](../Page/Running_Man.md "wikilink")》                            | 起光、斗俊       |
-| 9月19日、20日 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | 《第七屆偶像田徑足球射箭運動會》                                                              | 斗俊、耀燮、起光    |
-| 10月5日     | [KBS2](../Page/KBS第2频道.md "wikilink")                 | 《》                                                                            | 斗俊          |
-| 10月10日    | <small>（[日本](../Page/日本.md "wikilink")電視台）</small>    | 《Ameba Studio》                                                                |             |
-| 10月10日    | <small>（[日本](../Page/日本.md "wikilink")電視台）</small>    | 《5時夢中》                                                                        |             |
-| 10月11日    | [JTBC](../Page/JTBC.md "wikilink")                    | 《演藝特種》                                                                        |             |
-| 10月27日    | <small>（[日本](../Page/日本.md "wikilink")電視台）</small>    | 《Night Shuffle》                                                               | 少耀燮         |
-| 11月4日、11日 | <small>（[日本](../Page/日本.md "wikilink")電視台）</small>    | 《HAN LOVE（）》                                                                  |             |
-| 12月7日、14日 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | 《[不朽的名曲2](../Page/不朽的名曲：傳說在歌唱.md "wikilink")》                                 | 賢勝          |
-| 12月9日     | <small>（[日本](../Page/日本.md "wikilink")電視台）</small>    | 《韓タメ！POP》                                                                     |             |
-| 12月21日    | <small>（[日本](../Page/日本.md "wikilink")電視台）</small>    | 《Music Dragon Live 2013》                                                      |             |
-| 12月28日    | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | 《MPD's MVP》                                                                   | 俊亨          |
-|           |                                                       |                                                                               |             |
+|           |                                                     |                                                                               |             |
+| --------- | --------------------------------------------------- | ----------------------------------------------------------------------------- | ----------- |
+| 放送日期      | 電視台                                                 | 節目名稱                                                                          | 出演成員（空白為全體） |
+| 1月6日      | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | 《[Running Man](../Page/Running_Man.md "wikilink")》                            | 起光          |
+| 1月9日      | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 《[Weekly Idol](../Page/Weekly_Idol.md "wikilink")》                            | 耀燮          |
+| 1月10日、17日 | [JTBC](../Page/JTBC.md "wikilink")                  | 《》                                                                            | 耀燮          |
+| 1月12日、13日 | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | 《E\!.K-Pop Hero》                                                              |             |
+| 1月12日     | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | 《挑戰金鐘》                                                                        | 賢勝          |
+| 1月21日     | [Mnet](../Page/Mnet.md "wikilink")                  | 《Beatle Code2》                                                                | 耀燮          |
+| 1月25日     | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 《[Section TV 演藝通信](https://zh.wikipedia.org/wiki/Section_TV_演藝通信 "wikilink")》 |             |
+| 1月25日     | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 《黃金味車》                                                                        |             |
+| 2月7日      | [KBS2](../Page/KBS第2频道.md "wikilink")               | 《[Happy Together](../Page/歡樂在一起.md "wikilink")》                               | 斗俊          |
+| 4月27日     | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | 《[演藝家中介](../Page/演藝家中介.md "wikilink")》                                        |             |
+| 7月25日     | [Mnet](../Page/Mnet.md "wikilink")                  | 《Wide Open Studio》                                                            |             |
+| 7月25日     | [KBS](../Page/韓國放送公社.md "wikilink")                 | 《[Happy Together 3](../Page/歡樂在一起.md "wikilink")》                             | 起光、東雲、耀燮    |
+| 7月27日     | [KBS2](../Page/KBS第2频道.md "wikilink")               | 《[柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")》                 |             |
+| 7月28日     | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 《[Section TV 演藝通信](https://zh.wikipedia.org/wiki/Section_TV_演藝通信 "wikilink")》 |             |
+| 7月30日     | [KBS2](../Page/KBS第2频道.md "wikilink")               | 《[1 VS 100](../Page/1_VS_100.md "wikilink")》                                  | 斗俊          |
+| 8月3日      | [KBS2](../Page/KBS第2频道.md "wikilink")               | 《[演藝家中介](../Page/演藝家中介.md "wikilink") 游擊約會》                                   |             |
+| 8月9日      | [KBS2](../Page/KBS第2频道.md "wikilink")               | 《家族的品格 Full House》                                                            | 起光          |
+| 8月10日     | [Mnet](../Page/Mnet.md "wikilink")                  | 《MPD's MVP》                                                                   |             |
+| 8月19日     | [KBS2](../Page/KBS第2频道.md "wikilink")               | 《》                                                                            | 耀燮          |
+| 8月21日     | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | 《[深夜TV演藝](../Page/深夜正式演藝.md "wikilink")》                                      | 耀燮          |
+| 8月21日、28日 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 《[Weekly Idol](../Page/Weekly_Idol.md "wikilink")》                            |             |
+| 8月26日     | [KBS2](../Page/KBS第2频道.md "wikilink")               | 《[大國民脫口秀-你好](../Page/大國民脫口秀-你好.md "wikilink")》                                |             |
+| 9月4日      | [KBS2](../Page/KBS第2频道.md "wikilink")               | 《維他命》                                                                         | 耀燮、起光       |
+| 9月8日      | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | 《[Running Man](../Page/Running_Man.md "wikilink")》                            | 起光、斗俊       |
+| 9月19日、20日 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 《第七屆偶像田徑足球射箭運動會》                                                              | 斗俊、耀燮、起光    |
+| 10月5日     | [KBS2](../Page/KBS第2频道.md "wikilink")               | 《》                                                                            | 斗俊          |
+| 10月10日    | <small>（[日本](../Page/日本.md "wikilink")電視台）</small>  | 《Ameba Studio》                                                                |             |
+| 10月10日    | <small>（[日本](../Page/日本.md "wikilink")電視台）</small>  | 《5時夢中》                                                                        |             |
+| 10月11日    | [JTBC](../Page/JTBC.md "wikilink")                  | 《演藝特種》                                                                        |             |
+| 10月27日    | <small>（[日本](../Page/日本.md "wikilink")電視台）</small>  | 《Night Shuffle》                                                               | 少耀燮         |
+| 11月4日、11日 | <small>（[日本](../Page/日本.md "wikilink")電視台）</small>  | 《HAN LOVE（）》                                                                  |             |
+| 12月7日、14日 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | 《[不朽的名曲2](../Page/不朽的名曲：傳說在歌唱.md "wikilink")》                                 | 賢勝          |
+| 12月9日     | <small>（[日本](../Page/日本.md "wikilink")電視台）</small>  | 《韓タメ！POP》                                                                     |             |
+| 12月21日    | <small>（[日本](../Page/日本.md "wikilink")電視台）</small>  | 《Music Dragon Live 2013》                                                      |             |
+| 12月28日    | [Mnet](../Page/Mnet.md "wikilink")                  | 《MPD's MVP》                                                                   | 俊亨          |
+|           |                                                     |                                                                               |             |
 
-|              |                                                       |                                                                               |             |
-| ------------ | ----------------------------------------------------- | ----------------------------------------------------------------------------- | ----------- |
-| 放送日期         | 電視台                                                   | 節目名稱                                                                          | 出演成員（空白為全體） |
-| 1月7日         | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | 《The Music interview》                                                         | 俊亨          |
-| 1月8日         | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | 《[Weekly Idol](../Page/Weekly_Idol.md "wikilink")》                            | 俊亨          |
-| 1月25日        | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | 《[無限挑戰](../Page/無限挑戰.md "wikilink")》                                          |             |
-| 1月30日、31日    | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | 《[偶像明星運動會](https://zh.wikipedia.org/wiki/MBC偶像明星運動會 "wikilink")》春節特輯          | 斗俊、起光、耀燮    |
-| 2月17日        | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | 《Wide News》                                                                   |             |
-| 3月14日        | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | 《BEAST完全跟拍記錄24小時 K-POP STAR》                                                  |             |
-| 5月15日        | [KBS2](../Page/KBS第2频道.md "wikilink")                 | 《[Happy Together](../Page/歡樂在一起.md "wikilink")》                               | 斗俊          |
-| 5月16日        | [JTBC](../Page/JTBC.md "wikilink")                    | 《[魔女狩獵](../Page/魔女狩獵.md "wikilink")》                                          | 起光          |
-| 5月17日        | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | 《[我們結婚了 世界版](https://zh.wikipedia.org/wiki/我們結婚了_世界版 "wikilink")》             | 東雲          |
-| 5月23日        | [KBS2](../Page/KBS第2频道.md "wikilink")                 | 《家族的品格 Full House》                                                            | 起光          |
-| 6月2日         | [KBS2](../Page/KBS第2频道.md "wikilink")                 | 《》                                                                            | 起光          |
-| 6月7日、14日     | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | 《[不朽的名曲2](../Page/不朽的名曲：傳說在歌唱.md "wikilink")》                                 | 賢勝          |
-| 6月8日         | [SBS](../Page/SBS_\(韓國\).md "wikilink")               | 《[Running Man](../Page/Running_Man.md "wikilink")》                            | 斗俊、起光、耀燮    |
-| 6月9日         | [KBS2](../Page/KBS第2频道.md "wikilink")                 | 《[大國民脫口秀-你好](../Page/大國民脫口秀-你好.md "wikilink")》                                | 起光、耀燮、東雲、俊亨 |
-| 6月12日        | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | 《音談悖論》                                                                        | 東雲          |
-| 6月12日        | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | 《偶像室內足球世界杯》                                                                   | 斗俊、起光、耀燮    |
-| 6月18日        | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | 《[Weekly Idol](../Page/Weekly_Idol.md "wikilink")》                            |             |
-| 6月18日        | Naver                                                 | 《Starcast On Air》                                                             |             |
-| 6月18日        | [KBS2](../Page/KBS第2频道.md "wikilink")                 | 《維他命》                                                                         | 耀燮          |
-| 6月19日        | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | 《M\!CountDown Begins》                                                         |             |
-| 6月22日        | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | 《[Section TV 演藝通信](https://zh.wikipedia.org/wiki/Section_TV_演藝通信 "wikilink")》 |             |
-| 6月23日        | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | 《Wide News》                                                                   |             |
-| 7月23日        | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | 《[Weekly Idol](../Page/Weekly_Idol.md "wikilink")》                            | 斗俊、耀燮、東雲    |
-| 7月24日        | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | 《》                                                                            | 斗俊、耀燮、東雲    |
-| 7月25日        | [SBS](../Page/SBS_\(韓國\).md "wikilink")               | 《[尋笑人](../Page/尋笑人.md "wikilink")》                                            | 東雲          |
-| 8月2日         | [KBS2](../Page/KBS第2频道.md "wikilink")                 | 《[柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")》                 |             |
-| 9月3日         | <small>（[日本](../Page/日本.md "wikilink")電視台）</small>    | 《Ameba Premium》                                                               |             |
-| 9月12日-10月10日 | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")   | 《[叢林的法則](https://zh.wikipedia.org/wiki/叢林的法則 "wikilink")》                     | 起光          |
-| 10月16日       | Naver                                                 | 《Starcast On Air》                                                             |             |
-| 10月17日       | [KBS2](../Page/KBS第2频道.md "wikilink")                 | 《[我是男人](../Page/我是男人.md "wikilink")》                                          |             |
-| 10月19日       | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | 《[Section TV 演藝通信](https://zh.wikipedia.org/wiki/Section_TV_演藝通信 "wikilink")》 |             |
-| 10月20日       | [KBS2](../Page/KBS第2频道.md "wikilink")                 | 《[大國民脫口秀-你好](../Page/大國民脫口秀-你好.md "wikilink")》                                | 斗俊、起光、耀燮、東雲 |
-| 10月22日       | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | 《[黃金漁場Radio Star](https://zh.wikipedia.org/wiki/黃金漁場Radio_Star "wikilink")》   | 東雲          |
-| 10月25日       | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | 《[演藝家中介](../Page/演藝家中介.md "wikilink")》                                        |             |
-| 12月4日        | <small>（[日本](../Page/日本.md "wikilink")電視台）</small>    | 《ニコニコ生放送》                                                                     |             |
-| 12月22日       | <small>（[日本](../Page/日本.md "wikilink")電視台）</small>    | 《韓Chu》                                                                        |             |
+|              |                                                     |                                                                               |             |
+| ------------ | --------------------------------------------------- | ----------------------------------------------------------------------------- | ----------- |
+| 放送日期         | 電視台                                                 | 節目名稱                                                                          | 出演成員（空白為全體） |
+| 1月7日         | [Mnet](../Page/Mnet.md "wikilink")                  | 《The Music interview》                                                         | 俊亨          |
+| 1月8日         | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 《[Weekly Idol](../Page/Weekly_Idol.md "wikilink")》                            | 俊亨          |
+| 1月25日        | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 《[無限挑戰](../Page/無限挑戰.md "wikilink")》                                          |             |
+| 1月30日、31日    | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 《[偶像明星運動會](https://zh.wikipedia.org/wiki/MBC偶像明星運動會 "wikilink")》春節特輯          | 斗俊、起光、耀燮    |
+| 2月17日        | [Mnet](../Page/Mnet.md "wikilink")                  | 《Wide News》                                                                   |             |
+| 3月14日        | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 《BEAST完全跟拍記錄24小時 K-POP STAR》                                                  |             |
+| 5月15日        | [KBS2](../Page/KBS第2频道.md "wikilink")               | 《[Happy Together](../Page/歡樂在一起.md "wikilink")》                               | 斗俊          |
+| 5月16日        | [JTBC](../Page/JTBC.md "wikilink")                  | 《[魔女狩獵](../Page/魔女狩獵.md "wikilink")》                                          | 起光          |
+| 5月17日        | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 《[我們結婚了 世界版](https://zh.wikipedia.org/wiki/我們結婚了_世界版 "wikilink")》             | 東雲          |
+| 5月23日        | [KBS2](../Page/KBS第2频道.md "wikilink")               | 《家族的品格 Full House》                                                            | 起光          |
+| 6月2日         | [KBS2](../Page/KBS第2频道.md "wikilink")               | 《》                                                                            | 起光          |
+| 6月7日、14日     | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | 《[不朽的名曲2](../Page/不朽的名曲：傳說在歌唱.md "wikilink")》                                 | 賢勝          |
+| 6月8日         | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | 《[Running Man](../Page/Running_Man.md "wikilink")》                            | 斗俊、起光、耀燮    |
+| 6月9日         | [KBS2](../Page/KBS第2频道.md "wikilink")               | 《[大國民脫口秀-你好](../Page/大國民脫口秀-你好.md "wikilink")》                                | 起光、耀燮、東雲、俊亨 |
+| 6月12日        | [Mnet](../Page/Mnet.md "wikilink")                  | 《音談悖論》                                                                        | 東雲          |
+| 6月12日        | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 《偶像室內足球世界杯》                                                                   | 斗俊、起光、耀燮    |
+| 6月18日        | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 《[Weekly Idol](../Page/Weekly_Idol.md "wikilink")》                            |             |
+| 6月18日        | Naver                                               | 《Starcast On Air》                                                             |             |
+| 6月18日        | [KBS2](../Page/KBS第2频道.md "wikilink")               | 《維他命》                                                                         | 耀燮          |
+| 6月19日        | [Mnet](../Page/Mnet.md "wikilink")                  | 《M\!CountDown Begins》                                                         |             |
+| 6月22日        | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 《[Section TV 演藝通信](https://zh.wikipedia.org/wiki/Section_TV_演藝通信 "wikilink")》 |             |
+| 6月23日        | [Mnet](../Page/Mnet.md "wikilink")                  | 《Wide News》                                                                   |             |
+| 7月23日        | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 《[Weekly Idol](../Page/Weekly_Idol.md "wikilink")》                            | 斗俊、耀燮、東雲    |
+| 7月24日        | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 《》                                                                            | 斗俊、耀燮、東雲    |
+| 7月25日        | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | 《[尋笑人](../Page/尋笑人.md "wikilink")》                                            | 東雲          |
+| 8月2日         | [KBS2](../Page/KBS第2频道.md "wikilink")               | 《[柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")》                 |             |
+| 9月3日         | <small>（[日本](../Page/日本.md "wikilink")電視台）</small>  | 《Ameba Premium》                                                               |             |
+| 9月12日-10月10日 | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") | 《[叢林的法則](https://zh.wikipedia.org/wiki/叢林的法則 "wikilink")》                     | 起光          |
+| 10月16日       | Naver                                               | 《Starcast On Air》                                                             |             |
+| 10月17日       | [KBS2](../Page/KBS第2频道.md "wikilink")               | 《[我是男人](../Page/我是男人.md "wikilink")》                                          |             |
+| 10月19日       | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 《[Section TV 演藝通信](https://zh.wikipedia.org/wiki/Section_TV_演藝通信 "wikilink")》 |             |
+| 10月20日       | [KBS2](../Page/KBS第2频道.md "wikilink")               | 《[大國民脫口秀-你好](../Page/大國民脫口秀-你好.md "wikilink")》                                | 斗俊、起光、耀燮、東雲 |
+| 10月22日       | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 《[黃金漁場Radio Star](https://zh.wikipedia.org/wiki/黃金漁場Radio_Star "wikilink")》   | 東雲          |
+| 10月25日       | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | 《[演藝家中介](../Page/演藝家中介.md "wikilink")》                                        |             |
+| 12月4日        | <small>（[日本](../Page/日本.md "wikilink")電視台）</small>  | 《ニコニコ生放送》                                                                     |             |
+| 12月22日       | <small>（[日本](../Page/日本.md "wikilink")電視台）</small>  | 《韓Chu》                                                                        |             |
 
 |             |                                                       |                                                                               |                   |
 | ----------- | ----------------------------------------------------- | ----------------------------------------------------------------------------- | ----------------- |
@@ -1162,7 +1162,7 @@
 | 4月4日           | Dingo Music                                           | 《[Cooking Live](https://www.youtube.com/watch?v=hz_qK9-XLkU)》                                            |                |
 | 4月8日           | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink") | 《[柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")》                                            |                |
 | 5月3日           | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | 《》                                                                                                       | 東雲             |
-| 5月4日           | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | 《[看見你的聲音](https://zh.wikipedia.org/wiki/看見你的聲音 "wikilink")4》                                             | 斗俊、俊亨、耀燮、東雲    |
+| 5月4日           | [Mnet](../Page/Mnet.md "wikilink")                    | 《[看見你的聲音](https://zh.wikipedia.org/wiki/看見你的聲音 "wikilink")4》                                             | 斗俊、俊亨、耀燮、東雲    |
 | 5月6日           | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink") | 《[柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")》                                            | 俊亨             |
 | 5月12日、19日      | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink") | 《[歌曲之爭—勝負](../Page/歌曲之爭—勝負.md "wikilink")》                                                               | 東雲             |
 | 5月26日          | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")   | 《[白鍾元的三大天王](https://zh.wikipedia.org/wiki/白鍾元的三大天王 "wikilink")》                                          | 起光、俊亨、耀燮、東雲    |
@@ -1212,7 +1212,7 @@
 | 1月16日      | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink") | 《[屋塔房的問題兒童們](../Page/屋塔房的問題兒童們.md "wikilink")》         | 起光                |
 | 2月18日、25日  | [JTBC](../Page/JTBC.md "wikilink")                    | 《[拜托了冰箱](../Page/拜托了冰箱.md "wikilink")》                 | 起光                |
 | 4月30日、5月2日 | Olive TV                                              | 《onepick road》                                         | 東雲                |
-| 5月3日、5月10日 | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | 《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》 | 起光(應援練習生，以社長身分出演) |
+| 5月3日、5月10日 | [Mnet](../Page/Mnet.md "wikilink")                    | 《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》 | 起光(應援練習生，以社長身分出演) |
 
 ## 電台及可視電台
 
@@ -1399,21 +1399,21 @@
 
 ## 音樂節目主持
 
-|                    |                                                       |                                                                          |       |              |
-| ------------------ | ----------------------------------------------------- | ------------------------------------------------------------------------ | ----- | ------------ |
-| 日期                 | 電視台                                                   | 節目                                                                       | 主持人   | 備註           |
-| 2010年8月21日         | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | 《[Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")》     | 斗俊、起光 |              |
-| 2010年10月23日        | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | 《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》 | 全員    |              |
-| 2011年3月20日～11月13日  | [SBS](../Page/SBS_\(韓國\).md "wikilink")               | 《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》                  | 起光    |              |
-| 2011年6月11日、6月18日   | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | 《[Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")》     | 斗俊、耀燮 |              |
-| 2011年12月8日～2012年3月 | [JTBC](../Page/JTBC.md "wikilink")                    | 《》                                                                       | 斗俊    | 於2012年3月停播至今 |
-| 2012年8月4日          | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | 《[Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》      | 斗俊、耀燮 |              |
-| 2012年8月18日、8月25日   | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | 《[Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")》     | 斗俊、耀燮 |              |
-| 2012年12月9日         | [SBS](../Page/SBS_\(韓國\).md "wikilink")               | 《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》                  | 起光    | 700集特別MC     |
-| 2014年7月6日          | [SBS](../Page/SBS_\(韓國\).md "wikilink")               | 《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》                  | 耀燮、俊亨 | 特別MC         |
-| 2016年7月15日         | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | 《[Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》      | 東雲    | 特別MC         |
-| 2017年3月23日         | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | 《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》 | 起光、東雲 | 特別MC         |
-| 2018年5月25日         | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | 《[Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》      | 東雲    | 特別MC         |
+|                    |                                                     |                                                                          |       |              |
+| ------------------ | --------------------------------------------------- | ------------------------------------------------------------------------ | ----- | ------------ |
+| 日期                 | 電視台                                                 | 節目                                                                       | 主持人   | 備註           |
+| 2010年8月21日         | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 《[Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")》     | 斗俊、起光 |              |
+| 2010年10月23日        | [Mnet](../Page/Mnet.md "wikilink")                  | 《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》 | 全員    |              |
+| 2011年3月20日～11月13日  | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | 《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》                  | 起光    |              |
+| 2011年6月11日、6月18日   | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 《[Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")》     | 斗俊、耀燮 |              |
+| 2011年12月8日～2012年3月 | [JTBC](../Page/JTBC.md "wikilink")                  | 《》                                                                       | 斗俊    | 於2012年3月停播至今 |
+| 2012年8月4日          | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | 《[Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》      | 斗俊、耀燮 |              |
+| 2012年8月18日、8月25日   | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 《[Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")》     | 斗俊、耀燮 |              |
+| 2012年12月9日         | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | 《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》                  | 起光    | 700集特別MC     |
+| 2014年7月6日          | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | 《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》                  | 耀燮、俊亨 | 特別MC         |
+| 2016年7月15日         | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | 《[Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》      | 東雲    | 特別MC         |
+| 2017年3月23日         | [Mnet](../Page/Mnet.md "wikilink")                  | 《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》 | 起光、東雲 | 特別MC         |
+| 2018年5月25日         | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | 《[Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》      | 東雲    | 特別MC         |
 
 ## 網路平台節目
 

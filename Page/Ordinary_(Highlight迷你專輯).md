@@ -8,7 +8,7 @@
 
 7月14日，組合在官方[Facebook](../Page/Facebook.md "wikilink")公開新專輯名稱——《Ordinary》與發行日期——7月27日，同時發放第一張概念照片\[6\]；兩天後（7月16日）宣布先行歌曲《我必須要去工作》會在7月20日搶先發行\[7\]。《我必須要去工作》在發行後不久即取得多個音源榜冠軍位置\[8\]。
 
-《我必須要去工作》發行同日，Cube娛樂發布一批專輯新版概念照，也公開了專輯主打曲名是《YeY》\[9\]；次日（7月21日）曲目完整名單也出爐\[10\]；主打曲的[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")在專輯線上發行時同時公開\[11\]。同樣的，《YeY》在發行後壓倒了因出席《[無限挑戰](../Page/無限挑戰.md "wikilink")》的[Hyukoh](../Page/Hyukoh.md "wikilink")而走紅之歌曲《[來了又走](https://zh.wikipedia.org/wiki/22_\(Hyukoh迷你專輯\) "wikilink")》（），取得了Melon、[Mnet等](https://zh.wikipedia.org/wiki/Mnet "wikilink")7個音源榜的第一名\[12\]。
+《我必須要去工作》發行同日，Cube娛樂發布一批專輯新版概念照，也公開了專輯主打曲名是《YeY》\[9\]；次日（7月21日）曲目完整名單也出爐\[10\]；主打曲的[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")在專輯線上發行時同時公開\[11\]。同樣的，《YeY》在發行後壓倒了因出席《[無限挑戰](../Page/無限挑戰.md "wikilink")》的[Hyukoh](../Page/Hyukoh.md "wikilink")而走紅之歌曲《[來了又走](https://zh.wikipedia.org/wiki/22_\(Hyukoh迷你專輯\) "wikilink")》（），取得了Melon、[Mnet](../Page/Mnet.md "wikilink")等7個音源榜的第一名\[12\]。
 
 ## 曲目
 

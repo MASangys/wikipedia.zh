@@ -4,7 +4,7 @@ B理論常被描繪成是根據於[理論物理學的](https://zh.wikipedia.org/
 
 ## 沿革
 
-[A理論與B理論的名稱](../Page/A系列與B系列.md "wikilink")，來自[劍橋大學哲學家](https://zh.wikipedia.org/wiki/劍橋大學 "wikilink")[J. M. E. McTaggart在](https://zh.wikipedia.org/wiki/J._M._E._McTaggart "wikilink")《[時間的不實在性](../Page/時間的不實在性.md "wikilink")》（1908年）中對時間及轉變的分析，而當中事件可以由具有時態的A理論及沒有時態的B理論去定序。A理論與[現在論緊密相關](https://zh.wikipedia.org/wiki/現在論 "wikilink")，而B理論與[永恒論緊密相關](https://zh.wikipedia.org/wiki/永恒論 "wikilink")\[1\]。
+[A理論與B理論的名稱](../Page/A系列與B系列.md "wikilink")，來自[劍橋大學哲學家](https://zh.wikipedia.org/wiki/劍橋大學 "wikilink")[J. M. E. McTaggart在](https://zh.wikipedia.org/wiki/J._M._E._McTaggart "wikilink")《[時間的不實在性](../Page/時間的不實在性.md "wikilink")》（1908年）中對時間及轉變的分析，而當中事件可以由具有時態的A理論及沒有時態的B理論去定序。A理論與[現在論](../Page/現在論.md "wikilink")緊密相關，而B理論與[永恒論緊密相關](https://zh.wikipedia.org/wiki/永恒論 "wikilink")\[1\]。
 
 McTaggart觀察到，事件（或「時間」）可以用2種不同但相關的方法去賦予意義。一方面，它們可以用過去、現在、及未來去賦予意義，而一般在不少[自然語言中](https://zh.wikipedia.org/wiki/自然語言 "wikilink")（如[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")）中會以[時態代表](https://zh.wikipedia.org/wiki/時態 "wikilink")；另一方面，事件可以以「早於」、「同時」或「更遲」去表達。哲學家便從此辯論使用或不使用時態去形容事件才符合時間的本質\[2\]。有些哲學家更提出混合的理論，主張非時態的時間，但表示時間有一些特別的特質，as falling foul of McTaggart's paradox.\[3\]。
 
@@ -36,7 +36,7 @@ B理論家諸如[D.H. Mellor](https://zh.wikipedia.org/wiki/D.H._Mellor "wikilin
 
   - [時間的A理論](https://zh.wikipedia.org/wiki/時間的A理論 "wikilink")
 
-  - [現在論](https://zh.wikipedia.org/wiki/現在論 "wikilink")
+  - [現在論](../Page/現在論.md "wikilink")
 
   - [永恒論](https://zh.wikipedia.org/wiki/永恒論 "wikilink")
 

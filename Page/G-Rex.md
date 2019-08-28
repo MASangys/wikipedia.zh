@@ -346,7 +346,7 @@
   - 2017年11月30日，前[CJ Entus](https://zh.wikipedia.org/wiki/CJ_Entus "wikilink")，MID選手Candy，加盟G-Rex戰隊。
   - 2017年12月1日，前[華義SPIDER](../Page/華義SPIDER.md "wikilink")，JG選手Empt2y，加盟G-Rex戰隊。
   - 2018年4月1日，LMS春季賽結束，以12勝2敗的戰績，穩坐LMS第二名位置，前進季後挑戰賽。
-  - 2018年4月15日，LMS春季季後賽，以3:0戰績擊敗[MAD Team戰隊](https://zh.wikipedia.org/wiki/MAD_Team "wikilink")，前往澳門與[閃電狼](../Page/閃電狼.md "wikilink")挑戰春季總冠軍與2018MSI季中邀請賽門票。
+  - 2018年4月15日，LMS春季季後賽，以3:0戰績擊敗[MAD Team戰隊](../Page/MAD_Team.md "wikilink")，前往澳門與[閃電狼](../Page/閃電狼.md "wikilink")挑戰春季總冠軍與2018MSI季中邀請賽門票。
   - 2018年4月20日，LMS春季季後賽冠軍戰，[G-Rex](../Page/G-Rex.md "wikilink")以0:3戰績輸給[閃電狼](../Page/閃電狼.md "wikilink")，無緣LMS春季總冠軍與2018MSI季中邀請賽資格。
   - 2018年6月6日，總教練Toyz宣布退下主教練一職，轉監督一職。
   - 2018年8月17日，LMS夏季賽結束，以6勝8敗戰績，與[J Team並列第四名位置](https://zh.wikipedia.org/wiki/J_Team "wikilink")。

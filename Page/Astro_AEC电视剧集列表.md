@@ -147,7 +147,7 @@
 <td><p><a href="../Page/范文芳.md" title="wikilink">范文芳</a>、姚伟涛、罗美仪、何盈莹、<br />
 <a href="../Page/李博翔.md" title="wikilink">李博翔</a>、洪士雅</p></td>
 <td><p><a href="https://tv.toggle.sg/en/channel8/shows/walk-with-me-tif/info">网页</a></p></td>
-<td><p>与<a href="../Page/新加坡.md" title="wikilink">新加坡</a><a href="https://zh.wikipedia.org/wiki/新传媒8频道" title="wikilink">新传媒8频道提早半小时播出</a></p></td>
+<td><p>两集联播</p></td>
 </tr>
 <tr class="even">
 <td><p>3月6日</p></td>
@@ -183,7 +183,7 @@
 <td><p>好世谋</p></td>
 <td><p>朱厚任、陈丽萍、陈罗密欧、沈琳辰、雅慧、黄振隆、陈伟恩、刘谦益、黎沸辉、许美珍</p></td>
 <td><p><a href="https://tv.toggle.sg/en/channel8/shows/how-are-you/info">网页</a></p></td>
-<td><p>与<a href="../Page/新加坡.md" title="wikilink">新加坡</a><a href="https://zh.wikipedia.org/wiki/新传媒8频道" title="wikilink">新传媒8频道提早半小时播出</a></p></td>
+<td><p>两集联播</p></td>
 </tr>
 <tr class="even">
 <td><p>4月25日</p></td>
@@ -192,7 +192,7 @@
 <td><p>下一站，遇見</p></td>
 <td><p>黃思恬、黃俊雄、徐彬、方偉傑、何盈瑩、陳楚寰</p></td>
 <td><p><a href="https://tv.toggle.sg/en/channel8/shows/hello-miss-driver-tif/info">网页</a></p></td>
-<td><p>与<a href="../Page/新加坡.md" title="wikilink">新加坡</a><a href="https://zh.wikipedia.org/wiki/新传媒8频道" title="wikilink">新传媒8频道提早半小时播出</a></p></td>
+<td><p>与<a href="../Page/新加坡.md" title="wikilink">新加坡</a><a href="https://zh.wikipedia.org/wiki/新传媒8频道" title="wikilink">新传媒8频道</a> 两集联播</p></td>
 </tr>
 </tbody>
 </table>

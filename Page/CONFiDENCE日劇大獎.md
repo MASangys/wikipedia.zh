@@ -218,6 +218,17 @@
       - 最佳編劇獎：[武藤將吾](../Page/武藤將吾.md "wikilink")（[3年A班－從此刻起，大家都是我的人質－](../Page/3年A班－從此刻起，大家都是我的人質－.md "wikilink")）
       - 最佳新人獎：[白石聖](../Page/白石聖.md "wikilink")（）
 
+#### 第16回
+
+  - **2019年春季**
+      - 最佳作品獎：[昨日的美食](../Page/昨日的美食.md "wikilink")
+      - 最佳男主角獎：[西島秀俊](https://zh.wikipedia.org/wiki/西島秀俊 "wikilink")、[內野聖陽](../Page/內野聖陽.md "wikilink")（昨日的美食）
+      - 最佳女主角獎：[吉高由里子](../Page/吉高由里子.md "wikilink")（[OL不加班](https://zh.wikipedia.org/wiki/OL不加班 "wikilink")）
+      - 最佳男配角獎：[向井理](../Page/向井理.md "wikilink")（OL不加班）
+      - 最佳女配角獎：[藤野涼子](../Page/藤野涼子.md "wikilink")（[腐女無意間跟Gay告白](https://zh.wikipedia.org/wiki/腐女無意間跟Gay告白 "wikilink")）
+      - 最佳編劇獎：[三浦直之](https://zh.wikipedia.org/wiki/三浦直之 "wikilink")（腐女無意間跟Gay告白）
+      - 最佳新人獎：[金子大地](../Page/金子大地.md "wikilink")（腐女無意間跟Gay告白）
+
 ## 年間大賞
 
   - **2016年度**\[12\]

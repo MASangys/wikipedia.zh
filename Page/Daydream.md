@@ -14,7 +14,7 @@
 
 ## 宣傳
 
-此次回歸為了提升團體的認知度，DAY6改變以往只專注公演不上電視節目打歌的宣傳方式，開始積極參加各大電視台音樂放送節目的錄製，同時街頭及Club公演也持續進行\[15\]。3月31日於[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》帶來出道以來首個音樂放送舞台\[16\]，4月3日在COEX LIVE PLAZA舉行街頭公演，並透過V App同步直播\[17\]。
+此次回歸為了提升團體的認知度，DAY6改變以往只專注公演不上電視節目打歌的宣傳方式，開始積極參加各大電視台音樂放送節目的錄製，同時街頭及Club公演也持續進行\[15\]。3月31日於[Mnet](../Page/Mnet.md "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》帶來出道以來首個音樂放送舞台\[16\]，4月3日在COEX LIVE PLAZA舉行街頭公演，並透過V App同步直播\[17\]。
 
 ## 曲目
 

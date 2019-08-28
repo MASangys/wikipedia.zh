@@ -58,7 +58,9 @@
   -
     安齋結貴的生父。
 
-### CCC（Chosen Civil Community，被殺人集團「選中的人」）
+### CCC
+
+為Chosen Civil Community的縮寫，意為被殺人集團「選中的人」。
 
   -
 

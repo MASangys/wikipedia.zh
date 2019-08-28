@@ -1,4 +1,4 @@
-《**AIFril**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Mnet的綜藝節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")，為新興女團[April的團綜](https://zh.wikipedia.org/wiki/APRIL_\(女子團體\) "wikilink")\[1\]，節目主要以[April成員執行任務過程中的心路歷程與過程中的大小故事](https://zh.wikipedia.org/wiki/APRIL_\(女子團體\) "wikilink")，以及成員同時用SNS與觀眾即時互動\[2\]。節目數位板於2017年4月3日首播\[3\]，正式節目則於2017年4月4日播出，同時也將在節目播出後公開[April的新歌](https://zh.wikipedia.org/wiki/APRIL_\(女子團體\) "wikilink")《刺痛》\[4\]。
+《**AIFril**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Mnet](../Page/Mnet.md "wikilink")的綜藝節目，為新興女團[April的團綜](../Page/APRIL_\(女子團體\).md "wikilink")\[1\]，節目主要以[April成員執行任務過程中的心路歷程與過程中的大小故事](../Page/APRIL_\(女子團體\).md "wikilink")，以及成員同時用SNS與觀眾即時互動\[2\]。節目數位板於2017年4月3日首播\[3\]，正式節目則於2017年4月4日播出，同時也將在節目播出後公開[April的新歌](../Page/APRIL_\(女子團體\).md "wikilink")《刺痛》\[4\]。
 
 ## 各集內容
 

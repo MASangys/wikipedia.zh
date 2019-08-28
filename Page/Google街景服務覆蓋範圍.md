@@ -1429,7 +1429,7 @@
 <td><p>2017年2月7日</p></td>
 <td><p>：<a href="https://zh.wikipedia.org/wiki/加納" title="wikilink">加納地標</a><br />
 ：<a href="https://zh.wikipedia.org/wiki/塞內加爾" title="wikilink">塞內加爾地標</a><br />
-：<a href="https://zh.wikipedia.org/wiki/伊麗莎白女王國家公園" title="wikilink">伊麗莎白女王國家公園</a>、<a href="../Page/姆布羅湖國家公園.md" title="wikilink">姆布羅湖國家公園</a>、基巴里森林國家公園、<a href="../Page/塞姆利基國家公園.md" title="wikilink">塞姆利基國家公園</a>、<a href="../Page/默奇森瀑布國家公園.md" title="wikilink">默奇森瀑布國家公園</a>、<a href="../Page/埃爾貢山國家公園.md" title="wikilink">埃爾貢山國家公園</a>及<a href="https://zh.wikipedia.org/wiki/基代波河谷國家公園" title="wikilink">基代波河谷國家公園</a>[161]<br />
+：<a href="https://zh.wikipedia.org/wiki/伊麗莎白女王國家公園" title="wikilink">伊麗莎白女王國家公園</a>、<a href="../Page/姆布羅湖國家公園.md" title="wikilink">姆布羅湖國家公園</a>、基巴里森林國家公園、<a href="../Page/塞姆利基國家公園.md" title="wikilink">塞姆利基國家公園</a>、<a href="../Page/默奇森瀑布國家公園.md" title="wikilink">默奇森瀑布國家公園</a>、<a href="../Page/埃爾貢山國家公園.md" title="wikilink">埃爾貢山國家公園</a>及<a href="../Page/基代波河谷國家公園.md" title="wikilink">基代波河谷國家公園</a>[161]<br />
 ：格陵蘭更多地區[162]</p></td>
 </tr>
 <tr class="even">

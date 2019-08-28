@@ -1,5 +1,3 @@
-à
-
 **Dreamcatcher**（），是[Happy Face娛樂在](../Page/Happy_Face娛樂.md "wikilink")2017年1月13日推出的七人女子團體，以首張單曲專輯《惡夢》主打歌《Chase Me》正式出道。
 
 其前身為2014年9月18日出道的五人女子團體 **MINX**（），成員有祉攸、秀雅、始娟、裕賢、多美。後於2017年1月加入2位新成員韓東及佳泫，並更改團名為 Dreamcatcher重新出道。2019年4月11日，Dreamcatcher成立Youtube官方頻道。
@@ -118,7 +116,7 @@ Dreamcatcher的官方應援色為**[彩通](../Page/彩通.md "wikilink")Black 6
 
 3月13日，Dreamcatcher發行第二張日本單曲《PIRI～笛を吹け～-Japanese ver.-》。
 
-3月20日至5月4日，舉行亞洲巡迴演唱會《DREAMCATCHER CONCERT : Invitation From Nightmare City》。(地點：3/20 印尼 雅加達、3/23 新加坡、3/24 菲律賓 馬尼拉、4/6-4/7 韓國 首爾、5/2 日本 東京、5/4日 日本 神戶)
+3月20日至9月6日，舉行巡迴演唱會《DREAMCATCHER CONCERT : Invitation From Nightmare City》。(地點：3/20 印尼 雅加達、3/23 新加坡、3/24 菲律賓 馬尼拉、4/6-4/7 韓國 首爾、5/2 日本 東京、5/4 日本 神戶、8/29 澳洲 雪梨、9/1 澳洲 墨爾本、9/6 馬來西亞 吉隆坡)
 
 7月12日，Dreamcatcher在官方SNS宣佈將於9月11日發售日本正規一輯《The Beginning Of The End》，並於8月22日先行公開「YOU AND I -Japanese ver.-」音源。\[17\]
 
@@ -498,7 +496,7 @@ LineData =
 </tbody>
 </table>
 
-### 翻唱作品
+### 翻唱/翻跳作品
 
 <table>
 <thead>
@@ -616,7 +614,13 @@ feat. <a href="https://zh.wikipedia.org/wiki/Jason_Derulo" title="wikilink">Jaso
 <li>語言：英語</li>
 </ul></td>
 <td><p>始娟</p></td>
-<td><p><a href="../Page/娜歐蜜·史考特.md" title="wikilink">娜歐蜜·史考特</a></p></td>
+<td><p><a href="../Page/娜歐蜜·史考特.md" title="wikilink">娜歐蜜·史考特</a></p>
+<p>|-|- bgcolor="#f2f2f2"</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>

@@ -14,11 +14,11 @@ Mina於1997年3月24日出生於[美國](https://zh.wikipedia.org/wiki/美國 "w
 
 ## 演藝生涯
 
-### 2013年－2015年：出道前
+### 2013年－2015年：出道前的準備
 
 2013年，於[JYP娛樂](../Page/JYP娛樂.md "wikilink")全球試鏡的最後一天，Mina在[日本](../Page/日本.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")[梅田](../Page/梅田.md "wikilink")与母亲[購物](../Page/購物.md "wikilink")時\[12\]，被[JYP娛樂](../Page/JYP娛樂.md "wikilink")的[星探](../Page/星探.md "wikilink")發掘，因試鏡歌唱[宇多田光](../Page/宇多田光.md "wikilink")的《[First Love](../Page/First_Love_\(單曲\).md "wikilink")》而合格通過試鏡。於2014年1月2日成為[JYP娛樂](../Page/JYP娛樂.md "wikilink")旗下的[練習生](https://zh.wikipedia.org/wiki/練習生 "wikilink")。
 
-2015年，Mina參加[JYP娛樂](../Page/JYP娛樂.md "wikilink")与[Mnet合作制作為選拔新](https://zh.wikipedia.org/wiki/Mnet "wikilink")[女子音樂組合最佳人選的生存](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[实境节目](https://zh.wikipedia.org/wiki/实境节目 "wikilink")《[SIXTEEN](https://zh.wikipedia.org/wiki/SIXTEEN "wikilink")》，为第十位公開身份的[練習生](https://zh.wikipedia.org/wiki/練習生 "wikilink")\[13\]。在最終任務中，Mina在現場觀眾投票獲第四名，成為[TWICE的出道成員之一](https://zh.wikipedia.org/wiki/TWICE "wikilink")，是練習時間最短的成員(11個月)。
+2015年，Mina參加[JYP娛樂](../Page/JYP娛樂.md "wikilink")与[Mnet](../Page/Mnet.md "wikilink")合作制作為選拔新[女子音樂組合最佳人選的生存](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[实境节目](https://zh.wikipedia.org/wiki/实境节目 "wikilink")《[SIXTEEN](https://zh.wikipedia.org/wiki/SIXTEEN "wikilink")》，为第十位公開身份的[練習生](https://zh.wikipedia.org/wiki/練習生 "wikilink")\[13\]。在最終任務中，Mina在現場觀眾投票獲第四名，成為[TWICE的出道成員之一](https://zh.wikipedia.org/wiki/TWICE "wikilink")，是練習時間最短的成員(11個月)。
 
 ### 2015年－至今：TWICE
 
@@ -100,11 +100,11 @@ Mina於1997年3月24日出生於[美國](https://zh.wikipedia.org/wiki/美國 "w
 
 ### 主持
 
-|            |                                                       |                                                                          |        |            |
-| ---------- | ----------------------------------------------------- | ------------------------------------------------------------------------ | ------ | ---------- |
-| 日期         | 電視台                                                   | 節目名稱                                                                     | 團員共同演出 | 備註         |
-| 2016年11月3日 | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | 《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》 | 志效、多賢  | Special MC |
-| 2017年2月23日 | 彩瑛                                                    |                                                                          |        |            |
+|            |                                    |                                                                          |        |            |
+| ---------- | ---------------------------------- | ------------------------------------------------------------------------ | ------ | ---------- |
+| 日期         | 電視台                                | 節目名稱                                                                     | 團員共同演出 | 備註         |
+| 2016年11月3日 | [Mnet](../Page/Mnet.md "wikilink") | 《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》 | 志效、多賢  | Special MC |
+| 2017年2月23日 | 彩瑛                                 |                                                                          |        |            |
 
 ## 註釋與參考資料
 

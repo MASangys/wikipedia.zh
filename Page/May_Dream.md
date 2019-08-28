@@ -4,7 +4,7 @@
 
 除了未公開發行的新歌，此張專輯亦收錄2014年11月12日至2016年3月9日發行的四張單曲，包括〈[我的對面](../Page/我的對面.md "wikilink")〉、〈[夢的間隙](../Page/夢的間隙.md "wikilink")〉、〈[正負](../Page/正負_\(aiko單曲\).md "wikilink")〉、〈[多一點](../Page/多一點_\(aiko單曲\).md "wikilink")〉。其中，〈[我的對面](../Page/我的對面.md "wikilink")〉為[關西電視台](../Page/關西電視台.md "wikilink")連續劇《[出色的選TAXI](../Page/出色的選TAXI.md "wikilink")》主題曲、〈[多一點](../Page/多一點_\(aiko單曲\).md "wikilink")〉為[TBS電視台](../Page/TBS電視台.md "wikilink")連續劇《[請和這個沒用的我談戀愛](../Page/請和這個沒用的我談戀愛.md "wikilink")》主題曲、〈暗示〉為電影《》主題曲、〈[正負](../Page/正負_\(aiko單曲\).md "wikilink")〉為[NHK BS Premium台連續劇](../Page/NHK_BS_Premium.md "wikilink")《》主題曲。
 
-此張專輯的初回限定版A（[CD](../Page/CD.md "wikilink")＋[藍光](https://zh.wikipedia.org/wiki/藍光 "wikilink")）及初回限定版B（[CD](../Page/CD.md "wikilink")＋[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")）附贈aiko個人首次在[大阪的跨年倒數演唱會影像](https://zh.wikipedia.org/wiki/大阪 "wikilink")。而初回限定版C則是附贈特典CD，收錄四首舊歌重新編曲後的錄音室版本\[2\]。
+此張專輯的初回限定版A（[CD](../Page/CD.md "wikilink")＋[藍光](../Page/藍光.md "wikilink")）及初回限定版B（[CD](../Page/CD.md "wikilink")＋[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")）附贈aiko個人首次在[大阪的跨年倒數演唱會影像](https://zh.wikipedia.org/wiki/大阪 "wikilink")。而初回限定版C則是附贈特典CD，收錄四首舊歌重新編曲後的錄音室版本\[2\]。
 
 ## 銷售反應
 

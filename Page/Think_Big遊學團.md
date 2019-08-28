@@ -110,6 +110,52 @@
 
 ## 主持
 
+<timeline> ImageSize = width:800 height:auto barincrement:19 PlotArea = left:100 bottom:30 top:20 right:50 Alignbars = justify DateFormat = mm/dd/yyyy Period = from:01/01/2015 till:09/01/2019 TimeAxis = orientation:horizontal format:mm/dd/yyyy
+
+Colors =
+
+` id:1 value:skyblue`
+` id:2 value:purple`
+` id:3 value:yellow`
+` id:4 value:magenta`
+` id:5 value:green`
+` id:6 value:red`
+` id:7 value:yellow`
+` id:8 value:blue`
+` id:9 value:red`
+` id:10 value:green`
+
+ScaleMajor = unit:year grid:black increment:1 start:01/01/2015
+
+BarData =
+
+` bar:1 text:"余德丞"`
+` bar:2 text:"林希靈"`
+` bar:3 text:"黃愷怡"`
+` bar:4 text:"黃碧蓮"`
+` bar:5 text:"李雯希"`
+` bar:6 text:"阮浩棕"`
+` bar:7 text:"單文柔"`
+` bar:8 text:"鍾君揚"`
+` bar:9 text:"馬俊傑"`
+` bar:10 text:"鍾晴"`
+
+PlotData =
+
+` width:10 textcolor:black align:left anchor:from shift:(10,-4)`
+` bar:1 from: 10/24/2015 till:05/20/2017 color:1 `
+` bar:2 from: 10/24/2015 till:05/20/2017 color:2 `
+` bar:3 from: 10/24/2015 till:05/20/2017 color:3 `
+` bar:4 from: 10/24/2015 till:06/24/2017 color:4 `
+` bar:5 from: 10/24/2015 till:05/20/2017 color:5 `
+` bar:6 from: 10/24/2015 till:05/20/2017 color:6 `
+` bar:7 from: 05/27/2017 till:06/24/2017 color:7`
+` bar:8 from: 04/08/2017 till:06/24/2017 color:8`
+` bar:9 from: 05/06/2017 till:06/24/2017 color:9`
+` bar:10 from: 06/03/2017 till:06/24/2017 color:10`
+
+</timeline> Note: 上述日期只計算正式任期，並非以嘉賓身分登場之日期
+
 <table>
 <thead>
 <tr class="header">

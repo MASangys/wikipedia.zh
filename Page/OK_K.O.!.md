@@ -10,41 +10,41 @@
 
 ### 主要角色
 
-**K.O.**
+**K.O. O.**
 
   -
     配音： Stephanie Nadolny ﹙第四、五、六和十三集﹚, Courtenay Taylor
-    英雄等級：0.1 (第一季结尾升級為1级，"Dendy's Power"中升級為3級)
-    全名Kaio "K.O." Kincaid-O.。故事主角，年約六至十一歲，衣著有點像七、八十年代的動作遊戲主角，於Mr. Gar經營的英雄供應店Bodega中工作，母親為Carol。
+    英雄等級：0.1 (第一季结尾升級為1级，"Dendy's Power"中升級為3級,第三季第一集升級為4級)
+    全名Kaio-Kai "K.-K.O." Kincaid-O.。故事主角，年約六至十一歲，衣著有點像七、八十年代的動作遊戲主角，於Mr. Gar經營的英雄供應店Gar's Hero Supply & Bodega中工作，母親為Carol。
     喜歡收集戰力卡(Pow Cards)。
-    和超K.O.和解後能使用其一部份能力。
+    和Turbo K.O.和解後能使用其一部份能力。
 
-**D.J. Enid**(帥妮)
+**DJ Enid**(DJ·帥妮)
 
   -
     配音： Mena Suvari , Ashly Burch
-    英雄等級：3
-    全名Enid "Fireball" Reverie。紫色頭髮的人類女生，於英雄供應店嘎樂福擔任收銀員。平時使用忍術戰鬥，聲稱自己父母是偉大的忍者。其實父母是狼人和吸血鬼，而本身實際則是女巫。
+    英雄等級：3(第三季第一集升級為5級)
+    全名Enid "Fireball-E.Nid" Reverie-Nid。紫色頭髮的人類女生，於英雄供應店嘎樂福擔任收銀員。平時使用忍術戰鬥，聲稱自己父母是偉大的忍者。其實父母是狼人和吸血鬼，而本身實際則是女巫。
     "Point to the Plaza"中被邀請加入威猛局。
 
-**Radicles**(阿肌)
+**Radicles X.**(阿肌·X.)
 
   -
     配音： Ian Jones-Quartey, Sterling Jarvis ﹙"Rad Likes Robots"中主唱﹚
-    英雄等級： 2
+    英雄等級： 2(第三季第一集升級為4級)
     全名Radicles "Rad" X.。於英雄供應店嘎樂福工作，專門負上貨的藍色外星人，能力是令物件懸浮。
 
-**Mr. Gar**(嘎先生)
+**Mr. Gar**(主要:嘎先生)(其他翻譯:格先生)
 
   -
     配音： David Herman
     英雄等級： 11
-    全名Eugene "El-Bow" Garcia-Gar。體型强健的中年男性，英雄供應店嘎樂福的老闆，一直暗戀K.O.母親薇柔。
+    全名Eugene "El-Bow" Garcia-Gar。體型强健的中年男性，英雄供應店嘎樂福的老闆，一直暗戀K.O.母親葳柔。
     在"Legends of Mr. Gar," 中透露他們所在的商場其實是一個小小機器人，變成商場是為了能幫助像嘎先生的其他英雄。
-    曾經與薇柔為英雄團隊威猛局的成員。因為一次行動中只顧向薇柔送出三明治沒做好支援導致雷射砲喪生而一直非常內疚。
+    曾經與葳柔為英雄團隊威猛局的成員。因為一次行動中只顧向葳柔送出三明治沒做好支援導致雷射砲喪生而一直非常內疚。
     "Point to the Plaza"跟過去威猛局的成員相處不愉快，原因並未提及。
 
-**Carol**(薇柔)
+**Carol**(葳柔)
 
   -
     配音： Kate Flannery
@@ -57,59 +57,61 @@
 
   -
     配音：Melissa Fahn
-    英雄等級： 2
+    英雄等級： 2(第三季第一集升級為3級)
     穿黃色衣服背背包的河童女生，上課座位在K.O.後面。能使用背包操控和改造現實物件，有自己的實驗室，是個小科學家。
     因為是河童的關係導致不能評定英雄等級。
     第一季第八集"I Am Dendy"登場，發現很多對日常人很糟糕的狀況對K.O.都沒影響而開始觀察。
     跟K.O.一樣也很喜歡收集戰力卡。
     "Dendy's Power"中透露有彈跳能力，而背包操控則屬於科學裝備。
 
-**超K.O.**
+**Turbo K.O. Turbo O.**(超K.O.·超O.)
 
   -
-    K.O.的黑暗面，戰力極強。
+    全名Turbo Kai-T.Kai "Turbo K.O.-T.K.O." Turbo O.-T.O.。K.O.的黑暗面，戰力極強。
     由K.O.的負面思想誕生的「野獸」，在故事中是個較複雜的角色，不能將其認定為反派或正派，是劇情發展的關鍵人物。
-    以K.O.開朗、樂觀為比較，超K.O.則較為厭世、黑暗，類似青春期叛逆的少年,在T.K.O.'s House裡,可以看得出來他很喜歡搖滾這類的東西。
+    以K.O.開朗、樂觀為比較，Turbo K.O.則較為厭世、黑暗，類似青春期叛逆的少年,在T.K.O.'s House裡,可以看得出來他很喜歡搖滾這類的東西。
+
+目前資訊含美國演到的部分 但只含有翻譯到的進度 (第三季第一集\~第三集)
 
 ### 反派
 
-**Lord Boxman, Sr.**(大邪門博士)
+**Lord M. Boxman, Sr.**(大M.·邪門博士)
 
   -
     配音： [Jim Cummings](https://zh.wikipedia.org/wiki/Jim_Cummings "wikilink")
     英雄等級： -10
-    全名M. "Lad" Boxman-Box, Sr.。主要反派，英雄供應店嘎樂福對面邪門區的老闆。時常派他的機器人騷擾廣場，在第一季结尾被打上太陽。
+    全名M. "Lad-Senior" Boxmore-Boxman, Sr.。主要反派，英雄供應店嘎樂福對面邪門區的老闆。時常派他的機器人騷擾廣場，在第一季结尾被打上太陽。
 
-**Shannon Boxman**(香農·邪門)
+**Shannon N. v2.0**(香農·N.v2.0)
 
   -
     配音： [Kari Wahlgren](https://zh.wikipedia.org/wiki/Kari_Wahlgren "wikilink")
     英雄等級: -3
-    全名Shannon "Ominous Stranger" Boxman-Box。一個全身橙色的女性青少年BM-SHA-N0N模型機器人，邪門製造的機器人女兒。
+    全名Shannon "Shan" Boxman-N. v2.0。一個全身橙色的女性青少年SH4N-Nv2.0模型機器人，邪門製造的機器人女兒。
     最初代替Darrell偽裝哄騙K.O.說闖進邪門區打敗邪門博士可以讓阿肌和帥妮驕傲。
     "Rad Likes Robots"中因為被閃電打中而和阿肌相戀。被閃電打中後眼精睛由紅色轉為紫紅色
     身體可變為網子,雙手可變為圓鋸和錘子，待增
 
-**Lord Cowboy Darrell Boxman**(大目·邪門博士)
+**Lord Darrell L. v2.0**(大目·L.v2.0博士)
 
   -
     配音： [Ian Jones-Quartey](https://zh.wikipedia.org/wiki/Ian_Jones-Quartey "wikilink")
     英雄等級: -4
-    全名Darrell "D.Rel." Boxman-Rel.。一個全身紅色的男性青少年BM-D-R3L模型機器人，頭上的綠色透明玻璃中有一顆腦袋,Lord Boxman 製造的機器人兒子。要攻擊時可以變大，變形。在第一季结尾背叛Boxman(父親)接手Boxmore,成為公司的新老板。
+    全名Darrell "Dar" Boxman-L. v2.0。一個全身紅色的男性青少年D4R-Lv2.0模型機器人，頭上的綠色透明玻璃中有一顆腦袋,Lord Boxman 製造的機器人兒子。要攻擊時可以變大，變形。在第一季结尾背叛Boxman接手Boxmore,成為公司的新老板。
 
 **Raymond Boxman**(太子·邪門)
 
   -
     配音：Robbie Daymond
     英雄等級：-4
-    全名Raymond "Ray" Boxman-Box。一個全身綠色的男性青少年R.A.Y.-M.O.N.D.模型機器人，頭部呈三角型，Lord Boxman的機器人兒子，主要使用運動裝備進行戰鬥，非常喜歡玫瑰。與其他兄弟姐妹相比實力較強。
+    全名Raymond "Ray" Boxman。一個全身綠色的男性青少年R.A.Y.-M.O.N.D.模型機器人，頭部呈三角型，Lord Boxman的機器人兒子，主要使用運動裝備進行戰鬥，非常喜歡玫瑰。與其他兄弟姐妹相比實力較強。
     "Plaza Prom" 中因其性格喜歡炫耀而無法抵抗參加派對。
-    儘管他們性格陰險，但他們表現出關心某些人和事。 如Shannons出現故障並且愛上了Rad，Raymonds表現出自己為Shannons幸福著想。並且儘管遭受了Boxman的虐待，還是對他們的創造者表現出如父子的關心。
+    儘管他們性格陰險，但他們表現出關心某些人和事。 如Shannons出現故障並且愛上了Radicles，Raymonds表現出自己為Shannons幸福著想。並且儘管遭受了Boxman的虐待，還是對他們的創造者表現出如父子的關心。
 
-**Boxman, Jr.**(小邪門)
+**Lord M. Boxman, Jr.**(小M.·邪門博士)
 
   -
-    全名M. "Hoagie" Boxman-Box, Jr.。Lord Boxman因為BMJ系列機器人孩子們失敗太多而製作的機器人小兒子，使用了毒液教授給予的邪惡芯片以運作。
+    全名M. "Hoagie-Junior" Boxman, Jr.。Lord Boxman因為機器人孩子們失敗太多而製作的機器人小兒子，使用了毒液教授給予的邪惡芯片以運作。
 
 ### 其他
 
@@ -152,7 +154,7 @@
   -
     配音：Ashly Burch
     英雄等級：5
-    全名Tanis "Mommy" Mummy, Sr.。一個可愛的女性木乃伊，住在酒窖的後面。 她喜歡住在那裡是因為她可以使用那裡的所有商品，當中衛生紙對她來說就像挑選一件衣服。每個人似乎都忘記了她居住在酒窖。
+    全名Tanis "Mommy" Sphinxon-Mummy, Sr.。一個可愛的女性木乃伊，住在酒窖的後面。 她喜歡住在那裡是因為她可以使用那裡的所有商品，當中衛生紙對她來說就像挑選一件衣服。每個人似乎都忘記了她居住在酒窖。
     她的母親被證明是一個帶尾巴的棕色皮膚女士，暗示她自己的外表其實只是一種裝扮風格。
 
 **Beardo**(比尔多)

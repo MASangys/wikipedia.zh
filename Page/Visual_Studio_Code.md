@@ -1,4 +1,4 @@
-**Visual Studio Code**（简称**VS Code**）是一个由[微软](../Page/微软.md "wikilink")开发的，同时支持[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Linux](../Page/Linux.md "wikilink")、和[macOS系統且](https://zh.wikipedia.org/wiki/macOS "wikilink")[开放源代码](../Page/开放源代码.md "wikilink")的[程式碼编辑器](../Page/文本编辑器.md "wikilink")\[1\]，它支持[測試](https://zh.wikipedia.org/wiki/调试 "wikilink")，并内置了[Git 版本控制功能](../Page/Git.md "wikilink")，同时也具有开发环境功能，例如代码补全（类似于 [IntelliSense](https://zh.wikipedia.org/wiki/IntelliSense "wikilink")）、代码片段、和[代码重构](../Page/代码重构.md "wikilink")等，该编辑器支持用户個性化配置，例如改变主题颜色、键盘快捷方式等各种属性和参数，还在编辑器中内置了扩展程序管理的功能。
+**Visual Studio Code**（简称**VS Code**）是一个由[微软](../Page/微软.md "wikilink")开发，同时支持[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink") 、 [Linux](../Page/Linux.md "wikilink")和[macOS等操作系統且](https://zh.wikipedia.org/wiki/macOS "wikilink")[开放源代码](../Page/开放源代码.md "wikilink")的[程式碼编辑器](../Page/文本编辑器.md "wikilink")\[1\]，它支持[測試](https://zh.wikipedia.org/wiki/调试 "wikilink")，并内置了[Git 版本控制功能](../Page/Git.md "wikilink")，同时也具有开发环境功能，例如代码补全（类似于 [IntelliSense](https://zh.wikipedia.org/wiki/IntelliSense "wikilink")）、代码片段和[代码重构](../Page/代码重构.md "wikilink")等，该编辑器支持用户個性化配置，例如改变主题颜色、键盘快捷方式等各种属性和参数，同时还在编辑器中内置了扩展程序管理的功能。
 
 ## 开发
 
@@ -6,7 +6,7 @@ Visual Studio Code 基于 [Electron](../Page/Electron.md "wikilink") 开发。El
 
 ## 历史
 
-微软在2015 [Build大会上宣布即將开发](https://zh.wikipedia.org/wiki/Build_\(developer_conference\) "wikilink") Visual Studio Code，在2015年4月29日发布第一个预览版本。\[4\]
+微软在2015 [Build大会上宣布即將开发](https://zh.wikipedia.org/wiki/Build_\(developer_conference\) "wikilink") Visual Studio Code，并于2015年4月29日发布第一个预览版本。\[4\]
 
 2015年11月18日，Code團隊將其在[GitHub](../Page/GitHub.md "wikilink")上開源，並採用[MIT許可證](../Page/MIT許可證.md "wikilink")，同時宣佈將支持擴展功能。\[5\]
 
@@ -14,11 +14,11 @@ Visual Studio Code 基于 [Electron](../Page/Electron.md "wikilink") 开发。El
 
 ## 功能和语言支持
 
-Visual Studio Code支持多種編程語言。與其他編輯器不同的是，Code的許多功能並不在選單中顯示，而是通過“命令面板”來調用。用戶可以在命令面板中搜索和輸入命令，從而實現指定功能，例如安裝插件、設置屬性等。默認地，打開命令面板的快捷鍵是。
+Visual Studio Code支持多種編程語言。與其他編輯器不同的是，Code的許多功能並不在選單中顯示，而是通過“命令面板”來調用。用戶可以在命令面板中搜索和輸入命令，從而實現指定功能，例如安裝插件、設置屬性等。默认情况下，打開命令面板的快捷鍵是。
 
 Code具備了現代文本編輯器所具有的功能，例如更改[字符編碼](https://zh.wikipedia.org/wiki/字符編碼 "wikilink")、更換換行符等。
 
-下表是Visual Studio Code原生支持的语言：\[7\]
+下表为Visual Studio Code原生支持的编程语言：\[7\]
 
 | 特徵                | 程式語言                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -28,9 +28,9 @@ Code具備了現代文本編輯器所具有的功能，例如更改[字符編碼
 | 重构、寻找所有引用         | [C\#](../Page/C♯.md "wikilink"), [TypeScript](../Page/TypeScript.md "wikilink")                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | 调试                | [JavaScript](../Page/JavaScript.md "wikilink"), [TypeScript](../Page/TypeScript.md "wikilink"), [C\#](../Page/C♯.md "wikilink"), [F\#](https://zh.wikipedia.org/wiki/F# "wikilink"), [C](../Page/C.md "wikilink"), [C++](../Page/C++.md "wikilink")                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 
-Visual Studio Code對[C\#](../Page/C♯.md "wikilink")、[JavaScript](../Page/JavaScript.md "wikilink")、和[TypeScript](../Page/TypeScript.md "wikilink")的原生支持最爲完備。
+Visual Studio Code對[C\#](../Page/C♯.md "wikilink")、[JavaScript](../Page/JavaScript.md "wikilink")、和[TypeScript](../Page/TypeScript.md "wikilink")等编程语言的原生支持最爲完善。
 
-此外Visual Studio Code还支持擴展程序。通過安装擴展程序，Code可以支持更多新的语言、界面主题、測試器，以及更多的增值服务。Visual Studio Code的扩展程序运行于独立的进程中，确保编辑器运行速度不会被拖慢。
+此外Visual Studio Code还支持擴展程序。通過安装擴展程序，Code可以支持更多新的语言、界面主题、測試器，以及更多的增值服务。Visual Studio Code的扩展程序运行于独立的进程中，以保证编辑器的运行速度不受干扰。
 
 ## 参考资料
 

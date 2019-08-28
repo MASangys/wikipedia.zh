@@ -12,7 +12,7 @@ WE英雄联盟分部成立于2011年，为中国英雄联盟职业化初期的�
 
 ## 俱乐部成员
 
-### 英雄联盟分部（2018年夏季赛）
+### 英雄联盟分部（2019年夏季赛）
 
 WE俱乐部目前有两支英雄联盟战队，分别为参加顶级联赛LPL的Team WE与次级联赛LDL的Mighty Eagle。此外，WE曾有一支名为**"Team WE Academy"**的战队，但由于Riot Games在2014年增加了同级联赛同俱乐部只允许一个战队参赛的规定，WE俱乐部将其出售并改名为"Masters 3"。
 
@@ -35,45 +35,45 @@ WE俱乐部目前有两支英雄联盟战队，分别为参加顶级联赛LPL的
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Pepper</p></td>
-<td><p>胡志威</p></td>
-<td><p>打野</p></td>
+<td><p>clever9</p></td>
+<td><p>万志聪</p></td>
+<td><p>上单</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>Poss</p></td>
+<td><p>金旻哲（김민철）</p></td>
+<td><p>上单</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>Xiye</p></td>
 <td><p>苏汉伟</p></td>
 <td><p>中单</p></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>Teacherma</p></td>
+<td><p>姜晨</p></td>
+<td><p>中单</p></td>
+<td></td>
+</tr>
 <tr class="even">
+<td><p>Beishang</p></td>
+<td><p>姜志鹏</p></td>
+<td><p>打野</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>Mystic</p></td>
 <td><p>陈圣俊（진성준）</p></td>
 <td><p>ADC</p></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>Imp</p></td>
-<td><p>具晟彬（구승빈）</p></td>
-<td><p>ADC</p></td>
-<td></td>
-</tr>
 <tr class="even">
-<td><p>Gentle</p></td>
-<td><p>姚熙鉴</p></td>
+<td><p>Jiumeng</p></td>
+<td><p>赵嘉豪</p></td>
 <td><p>ADC</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Celestial</p></td>
-<td><p>何鑫</p></td>
-<td><p>輔助</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Ben</p></td>
-<td><p>南东賢（남동현）</p></td>
-<td><p>辅助</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -82,22 +82,10 @@ WE俱乐部目前有两支英雄联盟战队，分别为参加顶级联赛LPL的
 <td><p>辅助</p></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>Magic</p></td>
-<td><p>周俊轩</p></td>
-<td><p>打野（青训）</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Melon</p></td>
-<td><p>钟旺</p></td>
-<td><p>打野（青训）</p></td>
-<td></td>
-</tr>
 </tbody>
 </table>
 
-#### Mighty Eagle
+#### WE Academy（WE.A）
 
 该队曾用名**"Team WE Future"**、**"New WE"**、**"Team ME"**
 
@@ -112,51 +100,51 @@ WE俱乐部目前有两支英雄联盟战队，分别为参加顶级联赛LPL的
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>Alun</p></td>
-<td><p>刘志云</p></td>
+<td><p>Coten</p></td>
+<td><p>申豪</p></td>
 <td><p>上单</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>LaoZhou</p></td>
-<td><p>周超</p></td>
+<td><p>Chen9</p></td>
+<td><p>陈怡冰</p></td>
 <td><p>上单</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>FXZ</p></td>
-<td><p>梁建</p></td>
+<td><p>hy</p></td>
+<td><p>韩兴</p></td>
 <td><p>打野</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Qiutian</p></td>
-<td><p>杨金金</p></td>
+<td><p>Magic</p></td>
+<td><p>周俊轩</p></td>
 <td><p>打野</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Jieyi</p></td>
-<td><p>陆强</p></td>
-<td><p>打野</p></td>
+<td><p>Gentle</p></td>
+<td><p>姚熙鉴</p></td>
+<td><p>ADC</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Zbb</p></td>
-<td><p>柯智</p></td>
-<td><p>中单</p></td>
+<td><p>Fan</p></td>
+<td><p>李思凡</p></td>
+<td><p>ADC</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Xubin</p></td>
-<td><p>许庆彬</p></td>
-<td><p>ADC</p></td>
+<td><p>Sun</p></td>
+<td><p>王旭卓</p></td>
+<td><p>辅助</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>GodZ</p></td>
-<td><p>招宇航</p></td>
-<td><p>ADC</p></td>
+<td><p>Run</p></td>
+<td><p>赵瑞</p></td>
+<td><p>辅助</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -177,6 +165,7 @@ WE俱乐部目前有两支英雄联盟战队，分别为参加顶级联赛LPL的
 <th><p>姓名</p></th>
 <th><p>位置</p></th>
 <th><p>国籍</p></th>
+<th><p>现状</p></th>
 </tr>
 </thead>
 <tbody>
@@ -185,29 +174,34 @@ WE俱乐部目前有两支英雄联盟战队，分别为参加顶级联赛LPL的
 <td><p>魏汉东</p></td>
 <td><p>上单</p></td>
 <td></td>
+<td><p>退役，游戏实况主播</p></td>
 </tr>
 <tr class="even">
 <td><p>Clearlove</p></td>
 <td><p>明凯</p></td>
 <td><p>打野</p></td>
+<td><p>EDG战队</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>Misaya</p></td>
 <td><p><a href="../Page/禹景曦.md" title="wikilink">禹景曦</a></p></td>
 <td><p>中单</p></td>
+<td><p>退役</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>WeiXiao</p></td>
 <td><p><a href="../Page/高学成.md" title="wikilink">高学成</a></p></td>
 <td><p>ADC</p></td>
+<td><p>退役，曾任WE战队S9夏季赛教练</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>Fzzf</p></td>
 <td><p>冯卓君</p></td>
 <td><p>辅助</p></td>
+<td><p>退役</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -215,26 +209,45 @@ WE俱乐部目前有两支英雄联盟战队，分别为参加顶级联赛LPL的
 <td><p>尹景燮(윤경섭)</p></td>
 <td><p>辅助</p></td>
 <td></td>
+<td><p>教练</p></td>
 </tr>
 <tr class="odd">
 <td><p>Smlz</p></td>
 <td><p>韩金</p></td>
 <td><p>ADC</p></td>
 <td></td>
+<td><p>Suning战队</p></td>
 </tr>
 <tr class="even">
 <td><p>Khan</p></td>
 <td><p>金东河（김동하）</p></td>
 <td><p>上单</p></td>
 <td></td>
+<td><p>韩国SKT战队</p></td>
 </tr>
 <tr class="odd">
 <td><p>Looper</p></td>
 <td><p>张亨硕（장형석）</p></td>
 <td><p>上单</p></td>
+<td><p>退役</p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>Imp</p></td>
+<td><p>具晟彬（구승빈）</p></td>
+<td><p>ADC</p></td>
+<td><p>JDG战队</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Ben</p></td>
+<td><p>南东賢（남동현）</p></td>
+<td><p>辅助</p></td>
+<td><p>TES战队</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
 <td></td>
 <td></td>
 <td></td>

@@ -390,7 +390,7 @@
 
   - 在TMDB上《[HIStory2-越界](https://www.themoviedb.org/tv/77641)》的資料
 
-[Category:台灣偶像劇](https://zh.wikipedia.org/wiki/Category:台灣偶像劇 "wikilink") [Category:台灣網路劇](https://zh.wikipedia.org/wiki/Category:台灣網路劇 "wikilink") [Category:台灣校園劇](https://zh.wikipedia.org/wiki/Category:台灣校園劇 "wikilink") [Category:2018年台灣電視劇集](https://zh.wikipedia.org/wiki/Category:2018年台灣電視劇集 "wikilink") [Category:單元劇](https://zh.wikipedia.org/wiki/Category:單元劇 "wikilink") [Category:男同性戀相關電視節目](https://zh.wikipedia.org/wiki/Category:男同性戀相關電視節目 "wikilink") [Category:台灣LGBT相關電視節目](https://zh.wikipedia.org/wiki/Category:台灣LGBT相關電視節目 "wikilink") [Category:緯來電視外購電視劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購電視劇 "wikilink") [Category:華視外購電視劇](https://zh.wikipedia.org/wiki/Category:華視外購電視劇 "wikilink")
+[Category:台灣偶像劇](https://zh.wikipedia.org/wiki/Category:台灣偶像劇 "wikilink") [Category:台灣網路劇](https://zh.wikipedia.org/wiki/Category:台灣網路劇 "wikilink") [Category:台灣校園劇](https://zh.wikipedia.org/wiki/Category:台灣校園劇 "wikilink") [Category:台灣同志劇集](https://zh.wikipedia.org/wiki/Category:台灣同志劇集 "wikilink") [Category:2018年台灣電視劇集](https://zh.wikipedia.org/wiki/Category:2018年台灣電視劇集 "wikilink") [Category:單元劇](https://zh.wikipedia.org/wiki/Category:單元劇 "wikilink") [Category:男同性戀相關電視節目](https://zh.wikipedia.org/wiki/Category:男同性戀相關電視節目 "wikilink") [Category:台灣LGBT相關電視節目](https://zh.wikipedia.org/wiki/Category:台灣LGBT相關電視節目 "wikilink") [Category:緯來電視外購電視劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購電視劇 "wikilink") [Category:華視外購電視劇](https://zh.wikipedia.org/wiki/Category:華視外購電視劇 "wikilink")
 
 1.  [《花甲》光頭戀上小鮮肉　BL劇《History》開拍第二季](https://star.ettoday.net/news/1030123)，ETNEWS星光雲，2017年10月12日
 2.  [男男戀題材網路劇 群募224萬破台劇紀錄](https://money.udn.com/money/story/5641/2827754)，經濟日報，2017年11月19日

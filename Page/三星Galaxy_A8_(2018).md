@@ -4,7 +4,7 @@
 
   - 後置攝像頭：1600萬畫素 F/1.7
   - 前置攝像頭：1600萬+800萬畫素 雙鏡頭 F/1.9\[6\]
-  - 記憶體：4 [GB](https://zh.wikipedia.org/wiki/GB "wikilink") [RAM](https://zh.wikipedia.org/wiki/RAM "wikilink") (A8/A8+) / 6GB RAM (A8+)
+  - 記憶體：4 [GB](https://zh.wikipedia.org/wiki/GB "wikilink") [RAM](https://zh.wikipedia.org/wiki/RAM "wikilink") (A8) / 6GB RAM (A8+)
   - 儲存空間：32 / 64 GB
   - 電池：3000(A8) / 3500(A8+) mAh
   - 尺寸：18.5:9比例 5.6吋(A8) 6.0吋(A8+)

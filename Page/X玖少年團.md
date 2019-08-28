@@ -1,5 +1,4 @@
-**X玖少年團**(英語：**X NINE**)是[中國](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[天娛傳媒於](https://zh.wikipedia.org/wiki/天娛傳媒 "wikilink")2016年推出的男子演唱組合\[1\]。團名中的**X**代表未知和無限可能;**玖**則代表了中國民間古老傳说“龍生九子”的涵義。\[2\]，成員包括：[肖战](https://zh.wikipedia.org/wiki/肖战 "wikilink")、[伍嘉成](../Page/伍嘉成.md "wikilink")、[谷嘉誠](../Page/谷嘉誠.md "wikilink")、[彭楚粤](../Page/彭楚粤.md "wikilink")、
-[趙磊](https://zh.wikipedia.org/wiki/趙磊 "wikilink")、[陳澤希](../Page/陳澤希.md "wikilink")、[郭子凡](../Page/郭子凡.md "wikilink")、[夏之光](../Page/夏之光.md "wikilink")及[焉栩嘉](https://zh.wikipedia.org/wiki/焉栩嘉 "wikilink")。
+**X玖少年團**(英語：**X NINE**)是[中國](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[天娛傳媒於](https://zh.wikipedia.org/wiki/天娛傳媒 "wikilink")2016年推出的男子演唱組合\[1\]。團名中的**X**代表未知和無限可能;**玖**則代表了中國民間古老傳说“龍生九子”的涵義。\[2\]，成員包括：[肖战](https://zh.wikipedia.org/wiki/肖战 "wikilink")、[伍嘉成](../Page/伍嘉成.md "wikilink")、[谷嘉誠](../Page/谷嘉誠.md "wikilink")、[彭楚粤](../Page/彭楚粤.md "wikilink")、[趙磊](https://zh.wikipedia.org/wiki/趙磊 "wikilink")、[陳澤希](../Page/陳澤希.md "wikilink")、[郭子凡](../Page/郭子凡.md "wikilink")、[夏之光](../Page/夏之光.md "wikilink")及[焉栩嘉](https://zh.wikipedia.org/wiki/焉栩嘉 "wikilink")。
 
 ## 成員資料
 
@@ -111,6 +110,36 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>2019年</p></td>
+<td><p><a href="../Page/陪你到世界之巅.md" title="wikilink">陪你到世界之巅</a></p></td>
+<td><p><a href="../Page/芒果TV.md" title="wikilink">芒果TV</a></p></td>
+<td><p>焉栩嘉</p></td>
+<td><p>夏凌</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/陈情令.md" title="wikilink">陈情令</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/騰訊視頻" title="wikilink">騰訊視頻</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/肖戰" title="wikilink">肖戰</a></p></td>
+<td><p>魏無羨</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/小欢喜.md" title="wikilink">小欢喜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/東方衛視" title="wikilink">東方衛視</a><br />
+<a href="https://zh.wikipedia.org/wiki/浙江衛視" title="wikilink">浙江衛視</a></p></td>
+<td><p>郭子凡</p></td>
+<td><p>季杨杨</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>待播</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/我的不惑青春" title="wikilink">我的不惑青春</a></p></td>
+<td><p>未知</p></td>
+<td><p>彭楚粵</p></td>
+<td><p>許子謙<br />
+（少年）</p></td>
+</tr>
+<tr class="odd">
 <td><p>待播</p></td>
 <td><p><a href="../Page/狼殿下.md" title="wikilink">狼殿下</a></p></td>
 <td><p>未知</p></td>
@@ -123,21 +152,6 @@
 <td><p>未知</p></td>
 <td><p>肖戰</p></td>
 <td><p>言冰雲</p></td>
-</tr>
-<tr class="odd">
-<td><p>2019年</p></td>
-<td><p><a href="../Page/陈情令.md" title="wikilink">陳情令</a></p></td>
-<td><p><a href="../Page/腾讯视频.md" title="wikilink">騰訊視頻</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/肖戰" title="wikilink">肖戰</a></p></td>
-<td><p>魏無羨</p></td>
-</tr>
-<tr class="even">
-<td><p>待播</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/我的不惑青春" title="wikilink">我的不惑青春</a></p></td>
-<td><p>未知</p></td>
-<td><p>彭楚粵</p></td>
-<td><p>許子謙<br />
-（少年）</p></td>
 </tr>
 <tr class="odd">
 <td><p>待播</p></td>
@@ -154,20 +168,6 @@
 <td><p>江白龙</p></td>
 </tr>
 <tr class="odd">
-<td><p>待播</p></td>
-<td><p><a href="../Page/小欢喜.md" title="wikilink">小欢喜</a></p></td>
-<td><p>未知</p></td>
-<td><p>郭子凡</p></td>
-<td><p>季杨杨</p></td>
-</tr>
-<tr class="even">
-<td><p>2019年</p></td>
-<td><p><a href="../Page/陪你到世界之巅.md" title="wikilink">陪你到世界之巅</a></p></td>
-<td><p>湖南卫视</p></td>
-<td><p>焉栩嘉</p></td>
-<td><p>夏凌</p></td>
-</tr>
-<tr class="odd">
 <td><p>拍摄中</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/斗罗大陆_(电视剧)" title="wikilink">斗罗大陆</a></p></td>
 <td><p>未知</p></td>
@@ -182,6 +182,13 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>拍摄中</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/余生，请多指教" title="wikilink">余生，请多指教</a></p></td>
+<td><p><a href="../Page/腾讯视频.md" title="wikilink">腾讯视频</a></p></td>
+<td><p>肖战</p></td>
+<td><p>顾魏</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>

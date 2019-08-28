@@ -18,7 +18,7 @@ Windows Vista支持新的符号链接能力，它取代Windows 2000和Windows XP
 
 ### 硬链接
 
-  - NTFS ：从[Windows NT 4开始](https://zh.wikipedia.org/wiki/Windows_NT_4 "wikilink")：同一驱动器上的文件，有多个路径指向它。从Windows 2000开始，Windows API包括一个 `CreateHardLink()` 函数来创建硬链接，并且 DeleteFile() 可以移除它们。所有Windows NT版本都可以使用 `GetFileInformationByHandle()` 来确定一个文件已关联的硬链接数量。硬链接需要NTFS分区。运行在Windows上的类Unix仿真或软件[兼容层](../Page/兼容层.md "wikilink")（如[Cygwin](../Page/Cygwin.md "wikilink")和基于UNIX应用程序的子系统）允许在Windows上使用POSIX接口。大多数现代操作系统不允许硬链接目录以避免无限递归目录；而且，硬链接目录可能导致父目录的条目不一致；通常使用符号链接和达到此目的。硬链接只能对同一文件系统上的文件创建。如果需要创建到另一文件系统的链接，应该使用符号链接。硬链接可以使用`mklink /H`命令创建。
+NTFS ：从[Windows NT 4开始](https://zh.wikipedia.org/wiki/Windows_NT_4 "wikilink")：同一驱动器上的文件，有多个路径指向它。从Windows 2000开始，Windows API包括一个 `CreateHardLink()` 函数来创建硬链接，并且 DeleteFile() 可以移除它们。所有Windows NT版本都可以使用 `GetFileInformationByHandle()` 来确定一个文件已关联的硬链接数量。硬链接需要NTFS分区。运行在Windows上的类Unix仿真或软件[兼容层](../Page/兼容层.md "wikilink")（如[Cygwin](../Page/Cygwin.md "wikilink")和基于UNIX应用程序的子系统）允许在Windows上使用POSIX接口。大多数现代操作系统不允许硬链接目录以避免无限递归目录；而且，硬链接目录可能导致父目录的条目不一致；通常使用符号链接和达到此目的。硬链接只能对同一文件系统上的文件创建。如果需要创建到另一文件系统的链接，应该使用符号链接。硬链接可以使用`mklink /H`命令创建。
 
 硬链接使用与原文件相同的MFT记录。添加一个硬链接会创建一个新的文件名属性并增加硬链接计数器（每个新创建的文件+1）。删除一个硬链接会移除相应的文件名并将硬链接计数器-1。当计数器归零时，文件系统将删除该文件、释放其占用的磁盘空间及其MFT记录。所有名称属性是独立的，因此删除、移动或重命名文件不会影响其他硬链接。
 

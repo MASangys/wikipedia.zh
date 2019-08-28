@@ -2,7 +2,7 @@
 
 ## 背景
 
-2012年3月21日，於[韓國舉行出道記者發表會](https://zh.wikipedia.org/wiki/韓國 "wikilink")，並公開首張迷你專輯《Born to Beat》的雙主打歌曲《秘密（Insane）》和《Imagine》。3月22日，以[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》作為正式出道舞台。 5月3日，配合韓國父母節而公開單曲《父親》。5月23日，公開單曲《奪走那雙唇（Irresistible Lips）》。
+2012年3月21日，於[韓國舉行出道記者發表會](https://zh.wikipedia.org/wiki/韓國 "wikilink")，並公開首張迷你專輯《Born to Beat》的雙主打歌曲《秘密（Insane）》和《Imagine》。3月22日，以[Mnet](../Page/Mnet.md "wikilink")《[M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》作為正式出道舞台。 5月3日，配合韓國父母節而公開單曲《父親》。5月23日，公開單曲《奪走那雙唇（Irresistible Lips）》。
 
 ## 曲目
 

@@ -6,7 +6,7 @@
 
 ## 概要
 
-  - 〈I Feel Good〉為此張專輯的主打曲目，於2012年8月17日以[KBS音樂節目](https://zh.wikipedia.org/wiki/KBS "wikilink")《[音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")》舉行首次復出舞台，9月13日以[Mnet音樂節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》為最後的舞台後結束宣傳期。
+  - 〈I Feel Good〉為此張專輯的主打曲目，於2012年8月17日以[KBS音樂節目](https://zh.wikipedia.org/wiki/KBS "wikilink")《[音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")》舉行首次復出舞台，9月13日以[Mnet](../Page/Mnet.md "wikilink")音樂節目《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》為最後的舞台後結束宣傳期。
 
 ## 曲目
 

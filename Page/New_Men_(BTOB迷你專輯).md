@@ -14,10 +14,10 @@
 | ------------------------------------------------------------ |
 | 電視台                                                          |
 | colspan=6 style="background:\#9be6ff | NEW MEN               |
-| [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")        |
+| [Mnet](../Page/Mnet.md "wikilink")                           |
 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")          |
 | colspan=6 style="background:\#9be6ff | 기도 (I'll Be Your Man) |
-| [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")        |
+| [Mnet](../Page/Mnet.md "wikilink")                           |
 | 最高名次：                                                        |
 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")          |
 | 11月18日                                                       |
@@ -111,7 +111,7 @@
 | ------------------------------------------------------- | ----- |
 | 實時榜                                                     |       |
 | [MelOn](../Page/Kakao_M.md "wikilink")                  | **1** |
-| [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")   | **1** |
+| [Mnet](../Page/Mnet.md "wikilink")                      | **1** |
 | Bugs                                                    | 7     |
 | Olleh                                                   | **1** |
 | Soribada                                                | 8     |

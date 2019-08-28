@@ -4,7 +4,7 @@
 
 ### 經歷
 
-2007年起以「Cloba」名義在商業誌上開始刊載漫畫與插圖。除原創[百合作品](../Page/百合_\(藝術類型\).md "wikilink")、《[涼宮春日的憂鬱](../Page/涼宮春日的憂鬱.md "wikilink")》、《[幸運☆星](https://zh.wikipedia.org/wiki/幸運☆星 "wikilink")》、《[K-ON！輕音部](../Page/K-ON！輕音部.md "wikilink")》等作品的[漫畫選集以外](https://zh.wikipedia.org/wiki/漫畫選集 "wikilink")，亦執筆過插圖教學書。2011年夏天，筆名變更為現在使用的「Cloba・U」。2013年透過出版社OKS首次發行單行本《》。
+2007年起以「Cloba」名義在商業誌上開始刊載漫畫與插圖。除原創[百合作品](../Page/百合_\(藝術類型\).md "wikilink")、《[涼宮春日的憂鬱](../Page/涼宮春日的憂鬱.md "wikilink")》、《[幸運☆星](../Page/幸運☆星.md "wikilink")》、《[K-ON！輕音部](../Page/K-ON！輕音部.md "wikilink")》等作品的[漫畫選集以外](https://zh.wikipedia.org/wiki/漫畫選集 "wikilink")，亦執筆過插圖教學書。2011年夏天，筆名變更為現在使用的「Cloba・U」。2013年透過出版社OKS首次發行單行本《》。
 
 大學二年級時，與商業連載並行開始了[同人誌](../Page/同人誌.md "wikilink")相關活動\[2\]。除了自己主導的[同人社團](../Page/同人_\(ACG\).md "wikilink")「前方不注意」，也曾以插圖參加其他同人誌、[同人音樂](../Page/同人音樂.md "wikilink")，及製作[同人誌即賣會](../Page/同人誌即賣會.md "wikilink")的海報與周邊商品。
 
@@ -119,7 +119,7 @@
 
 #### 活動
 
-  - ｢（[幸運☆星](https://zh.wikipedia.org/wiki/幸運☆星 "wikilink") 柊鏡Only Event）｣（冊子用插圖， 2007年11月）
+  - ｢（[幸運☆星](../Page/幸運☆星.md "wikilink") 柊鏡Only Event）｣（冊子用插圖， 2007年11月）
   - ｢東大生Only Event Comic Academy 01｣（海報，2010年11月21日）
   - ｢東大生Only Event Comic Academy 02｣（海報，2011年5月28・29日）
   - ｢東大生Only Event Comic Academy 03｣（工作人員募集用插圖，2011年7月22日）

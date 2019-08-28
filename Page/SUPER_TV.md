@@ -181,7 +181,7 @@ Tatchara Longprasert（泰國）<br />
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
-<td><p>2018年6月7日</p></td>
+<td><p>2018年6月14日</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Lovelyz" title="wikilink">Lovelyz</a><br />
 </p></td>
@@ -205,7 +205,7 @@ Tatchara Longprasert（泰國）<br />
 </tr>
 <tr class="even">
 <td><p>5</p></td>
-<td><p>2018年6月21日</p></td>
+<td><p>2018年7月5日</p></td>
 <td></td>
 <td><p><a href="../Page/Weki_Meki.md" title="wikilink">Weki Meki</a><br />
 </p></td>

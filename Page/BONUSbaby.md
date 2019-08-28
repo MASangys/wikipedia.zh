@@ -206,7 +206,7 @@
 <tr class="odd">
 <td><p>5月27日<br />
 7月1日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/偶像學校" title="wikilink">偶像學校</a>》</p></td>
 <td><p>MoonHee, DaYun</p></td>
 <td><p>學校前導片出演[3][4]、<br />

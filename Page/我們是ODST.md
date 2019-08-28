@@ -48,7 +48,7 @@
 
   -
   -
-[Category:2009年短片](https://zh.wikipedia.org/wiki/Category:2009年短片 "wikilink") [Category:英語電影](https://zh.wikipedia.org/wiki/Category:英語電影 "wikilink") [Category:最後一戰系列](https://zh.wikipedia.org/wiki/Category:最後一戰系列 "wikilink") [Category:美國電視廣告](https://zh.wikipedia.org/wiki/Category:美國電視廣告 "wikilink")
+[Category:英語電影](https://zh.wikipedia.org/wiki/Category:英語電影 "wikilink") [Category:最後一戰系列](https://zh.wikipedia.org/wiki/Category:最後一戰系列 "wikilink") [Category:美國電視廣告](https://zh.wikipedia.org/wiki/Category:美國電視廣告 "wikilink")
 
 1.
 2.

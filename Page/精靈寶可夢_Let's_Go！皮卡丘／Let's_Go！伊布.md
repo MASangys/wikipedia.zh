@@ -1,4 +1,4 @@
-，是一款由[Game Freak制作](../Page/Game_Freak.md "wikilink")，任天堂在[任天堂Switch](../Page/任天堂Switch.md "wikilink")上发行的角色扮演类游戏。本作是基于1998年发售的《[精灵宝可梦 皮卡丘](https://zh.wikipedia.org/wiki/精灵宝可梦_皮卡丘 "wikilink")》的重制作品，也是《[精靈寶可夢](https://zh.wikipedia.org/wiki/精靈寶可夢系列 "wikilink")》系列游戏首次登陆任天堂Switch平台。
+，是一款由[Game Freak制作](../Page/Game_Freak.md "wikilink")，任天堂在[任天堂Switch](../Page/任天堂Switch.md "wikilink")上发行的角色扮演类游戏。本作是基于1998年发售的《[精灵宝可梦 皮卡丘](https://zh.wikipedia.org/wiki/精灵宝可梦_皮卡丘 "wikilink")》的重制作品，也是《[精灵宝可梦](https://zh.wikipedia.org/wiki/精靈寶可夢系列 "wikilink")》系列游戏首次登陆任天堂Switch平台。
 
 游戏采用全新的3D游戏引擎制作，在系统上向《[精灵宝可梦GO](https://zh.wikipedia.org/wiki/精灵宝可梦GO "wikilink")》靠拢，取消了系列正统RPG作品中可以在野外与野生宝可梦战斗的设定，将仅可捕捉野生的宝可梦，并只能与训练家进行战斗；此外游戏将可以与《[精灵宝可梦GO](https://zh.wikipedia.org/wiki/精灵宝可梦GO "wikilink")》联动，玩家可以将《精灵宝可梦GO》中的第一世代宝可梦传送到本作中。\[1\]开发商还为游戏制作了一个“精灵球Plus”的控制器，不仅能在游戏中进行操控，在现实生活中也可以作为挂饰，并能将游戏中的宝可梦传到该控制器中，进行培育。\[2\]
 

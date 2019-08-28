@@ -348,7 +348,7 @@
   - 在影視圈圈上《[History-著魔](http://www.moviemovie.com.tw/db/program/21078)》的資料
 
   -
-[Category:台灣偶像劇](https://zh.wikipedia.org/wiki/Category:台灣偶像劇 "wikilink") [Category:台灣網路劇](https://zh.wikipedia.org/wiki/Category:台灣網路劇 "wikilink") [Category:2017年台灣電視劇集](https://zh.wikipedia.org/wiki/Category:2017年台灣電視劇集 "wikilink") [Category:單元劇](https://zh.wikipedia.org/wiki/Category:單元劇 "wikilink") [Category:男同性戀相關電視節目](https://zh.wikipedia.org/wiki/Category:男同性戀相關電視節目 "wikilink") [Category:台灣LGBT相關電視節目](https://zh.wikipedia.org/wiki/Category:台灣LGBT相關電視節目 "wikilink") [Category:緯來電視外購電視劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購電視劇 "wikilink") [Category:華視外購電視劇](https://zh.wikipedia.org/wiki/Category:華視外購電視劇 "wikilink")
+[Category:台灣偶像劇](https://zh.wikipedia.org/wiki/Category:台灣偶像劇 "wikilink") [Category:台灣網路劇](https://zh.wikipedia.org/wiki/Category:台灣網路劇 "wikilink") [Category:台灣同志劇集](https://zh.wikipedia.org/wiki/Category:台灣同志劇集 "wikilink") [Category:2017年台灣電視劇集](https://zh.wikipedia.org/wiki/Category:2017年台灣電視劇集 "wikilink") [Category:單元劇](https://zh.wikipedia.org/wiki/Category:單元劇 "wikilink") [Category:男同性戀相關電視節目](https://zh.wikipedia.org/wiki/Category:男同性戀相關電視節目 "wikilink") [Category:台灣LGBT相關電視節目](https://zh.wikipedia.org/wiki/Category:台灣LGBT相關電視節目 "wikilink") [Category:緯來電視外購電視劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購電視劇 "wikilink") [Category:華視外購電視劇](https://zh.wikipedia.org/wiki/Category:華視外購電視劇 "wikilink")
 
 1.  [腐女次文化跨國界 影視業者大餅](https://stars.udn.com/star/story/10091/2756921)，噓！星聞，2017年10月25日
 2.  [OTT影視一條龍 CHOCO TV自製劇告捷](https://tw.news.yahoo.com/ott%E5%BD%B1%E8%A6%96-%E6%A2%9D%E9%BE%8D-choco-tv%E8%87%AA%E8%A3%BD%E5%8A%87%E5%91%8A%E6%8D%B7-041721799--finance.html)，中央社，2017年12月14日

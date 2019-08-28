@@ -6,7 +6,8 @@
 
 {{ Infobox football club
 
-| clubname = 臺北PlayOne女子足球隊 | image = [<File:Taipei> Play One FC Flag300.jpg](https://zh.wikipedia.org/wiki/File:Taipei_Play_One_FC_Flag300.jpg "fig:File:Taipei Play One FC Flag300.jpg") | fullname = 臺北普雷萬足球俱樂部女子足球隊 | nickname = | shortname = 台北PlayOne | founded = 2017年 | dissolved = | city = [台北市](https://zh.wikipedia.org/wiki/台北市 "wikilink") | ground = [台北田徑場](https://zh.wikipedia.org/wiki/台北田徑場 "wikilink") | capacity = 20,000人 | chairman = | chrtitle = | manager = {{ Flagicon | TWN }} [周台英](../Page/周台英.md "wikilink") | mgrtitle = 總教練 | league = [台灣木蘭足球聯賽](../Page/台灣木蘭足球聯賽.md "wikilink") | shirtsupplier = KELME | shirtsponsors = | pattern_la1 = _blackborder | pattern_b1 = _chevron_white | pattern_ra1 = _blackborder | pattern_sh1 = | leftarm1 = 0000FF | body1 = 0000FF | rightarm1 = 0000FF | shorts1 = 000000 | socks1 = 000000 | pattern_la2 = _blackborder | pattern_b2 = _chevron_black | pattern_ra2 = _blackborder | pattern_sh2 = | leftarm2 = CCFF33 | body2 = CCFF33 | rightarm2 = CCFF33 | shorts2 = 000000 | socks2 = 000000 | current = 2019年台灣木蘭足球聯賽
+| clubname = 臺北PlayOne女子足球隊 | image = [<File:Taipei> Play One FC Flag300.jpg](https://zh.wikipedia.org/wiki/File:Taipei_Play_One_FC_Flag300.jpg "fig:File:Taipei Play One FC Flag300.jpg") | fullname = 臺北普雷萬足球俱樂部女子足球隊 | nickname = | shortname = 台北PlayOne | founded = 2017年 | dissolved = | city = [台北市](https://zh.wikipedia.org/wiki/台北市 "wikilink") | ground = [台北田徑場](https://zh.wikipedia.org/wiki/台北田徑場 "wikilink")
+迎風球場 | capacity = 20,000人 | chairman = | chrtitle = | manager = {{ Flagicon | TWN }} [周台英](../Page/周台英.md "wikilink") | mgrtitle = 總教練 | league = [台灣木蘭足球聯賽](../Page/台灣木蘭足球聯賽.md "wikilink") | shirtsupplier = KELME | shirtsponsors = | pattern_la1 = _blackborder | pattern_b1 = _chevron_white | pattern_ra1 = _blackborder | pattern_sh1 = | leftarm1 = 0000FF | body1 = 0000FF | rightarm1 = 0000FF | shorts1 = 000000 | socks1 = 000000 | pattern_la2 = _blackborder | pattern_b2 = _chevron_black | pattern_ra2 = _blackborder | pattern_sh2 = | leftarm2 = CCFF33 | body2 = CCFF33 | rightarm2 = CCFF33 | shorts2 = 000000 | socks2 = 000000 | current = 2019年台灣木蘭足球聯賽
 
 }}
 
@@ -14,7 +15,7 @@
 
 ## 簡介
 
-臺北Play One女子足球隊成立於2017年，由台北市政府、普雷萬有限公司、國立台灣師範大學三方合作。2017年4月23日首次在木蘭聯賽出賽，對手為[新竹FC](https://zh.wikipedia.org/wiki/新竹FC "wikilink")，以4比3獲勝。\[2\]
+臺北Play One女子足球隊成立於2017年，由台北市政府、普雷萬有限公司、國立台灣師範大學三方合作。2017年04月23日首次在木蘭聯賽出賽，對手為[新竹F.C.](https://zh.wikipedia.org/wiki/新竹FC "wikilink")，以4比3獲勝。\[2\]
 
 ## 隊職員及球員名單
 

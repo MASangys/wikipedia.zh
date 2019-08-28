@@ -52,7 +52,7 @@
 
 雖然美國[告示牌的塔马尔](../Page/告示牌_\(雜誌\).md "wikilink")·赫曼、的杰夫·本杰明以及THE 405雜誌的蔡斯·麦克马伦讚揚了《The Red Summer》的專輯與夏天的主題相結合，蔡斯·麦克马伦與的李起善分別給予8/10和5/10的比分。但他們卻對《Red Flavor》的這首歌曲給予更高的關注\[23\]\[24\]。
 
-7月9日，“Red Flavor（紅色風味）”在韓國時間中午12時在各大音源網站公開。基於下午一時為准，“Red Flavor（紅色風味）”在Naver-Bugs-Olleh-Genie實時榜單暫居第一，Melon-Monkey3暫居二位，Mnet實時榜單位居三位，Soribada位居四位。在音源公開兩小時后，除Mnet實時榜單暫居三位外，其餘榜單實時一位All Kill。同時Melon首個小時收聽人數達成5万3000次\[25\]。其中“Red Flavor（紅色風味）”在Genie音榜中空降一位，達19次破表\[26\]。
+7月9日，“Red Flavor（紅色味道）”在韓國時間中午12時在各大音源網站公開。基於下午一時為准，“Red Flavor（紅色味道）”在Naver-Bugs-Olleh-Genie實時榜單暫居第一，Melon-Monkey3暫居二位，Mnet實時榜單位居三位，Soribada位居四位。在音源公開兩小時后，除Mnet實時榜單暫居三位外，其餘榜單實時一位All Kill。同時Melon首個小時收聽人數達成5万3000次\[25\]。其中“Red Flavor（紅色味道）”在Genie音榜中空降一位，達19次破表\[26\]。
 
 7月10日，發行實施唱片《The Red Summer》。《The Red Summer》發行后，在新加坡、越南、香港、馬來西亞、泰國、印尼、汶萊乃至貝里斯的 iTunes 綜合榜上佔據一位、中國蝦米音樂佔據一位、也立刻奪下了 Hanteo、Synnara Record 的單日銷量榜冠軍。過後，Red Velvet 在美國、澳洲、紐西蘭、墨西哥、阿根廷、智利等 16 國的 K-pop 專輯榜上，也全都獲得了第一名，成績斐然\[27\]。
 

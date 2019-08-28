@@ -930,7 +930,7 @@
 <td><p>Pearl</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/倉知玲鳳" title="wikilink">倉知玲鳳</a></p></td>
+<td><p><a href="../Page/倉知玲鳳.md" title="wikilink">倉知玲鳳</a></p></td>
 <td><p>PAREO</p></td>
 <td><p><a href="../Page/爵士鼓.md" title="wikilink">鍵盤</a></p></td>
 <td></td>
@@ -1136,6 +1136,7 @@
 <th></th>
 <th><p>第一季 《BanG Dream!》</p></th>
 <th><p>第二季 《BanG Dream! 2nd Season》</p></th>
+<th><p>Girls Bang Party Pico</p></th>
 </tr>
 </thead>
 <tbody>
@@ -1143,56 +1144,52 @@
 <td><p>原作</p></td>
 <td><p>ISSEN（<a href="../Page/武士道_(公司).md" title="wikilink">武士道</a>、<a href="../Page/OLM.md" title="wikilink">OLM</a>[27]）</p></td>
 <td><p>武士道</p></td>
+<td><p>武士道</p></td>
 </tr>
 <tr class="even">
 <td><p>故事原案</p></td>
 <td><p>[28]</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>人物原案</p></td>
 <td><p>[29]</p></td>
 <td><p>、</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>導演</p></td>
 <td><p>[30]</p></td>
 <td><p>柿本廣大</p></td>
+<td><p>、<a href="https://zh.wikipedia.org/wiki/宮嶋星矢" title="wikilink">宮嶋星矢</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>劇本統籌</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/綾奈由仁子" title="wikilink">綾奈由仁子</a></p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>人物設定</p></td>
 <td><p>[31]</p></td>
 <td><p>植田和幸</p></td>
+<td><p>宮嶋星矢</p></td>
 </tr>
 <tr class="odd">
 <td><p>音樂製作人</p></td>
 <td><p><a href="../Page/上松範康.md" title="wikilink">上松範康</a>、<a href="../Page/藤田淳平.md" title="wikilink">藤田淳平</a>[32]</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>動畫製作</p></td>
 <td><p>ISSEN × <a href="../Page/XEBEC.md" title="wikilink">XEBEC</a>[33]</p></td>
 <td><p>三次元</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/DMM.Futureworks" title="wikilink">DMM.Futureworks</a> 、、<a href="../Page/三次元_(動畫製作公司).md" title="wikilink">三次元</a></p></td>
 </tr>
 </tbody>
 </table>
-
-#### Girls Bang Party Pico
-
-  - 原作：武士道
-  - 故事原案：中村航
-  - 人物原案：、Craft Egg
-  - 總導演：
-  - 導演：[宮嶋星矢](https://zh.wikipedia.org/wiki/宮嶋星矢 "wikilink")
-  - 人物設定：宮嶋星矢
-  - 音響監督：平澤久義
-  - 音樂製作人：上松範康、藤田淳平
-  - 動畫製作：[DMM.Futureworks](https://zh.wikipedia.org/wiki/DMM.Futureworks "wikilink") 、、[三次元](../Page/三次元_\(動畫製作公司\).md "wikilink")
 
 ### 主題曲
 

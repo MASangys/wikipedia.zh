@@ -6,7 +6,7 @@
 
 雙主打歌曲之一的「Lonely」的MV遠赴[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[倫敦取景拍攝](https://zh.wikipedia.org/wiki/倫敦 "wikilink")，MV於2013年11月25日正式公開。「Lonely」一曲在[Billboard排行榜中獲得第五位](https://zh.wikipedia.org/wiki/Billboard "wikilink")，在Gaon單曲週榜中則得第三位\[4\]。另外一首的主打歌曲「One Way Love」的MV由[柳演錫擔任男主角](https://zh.wikipedia.org/wiki/柳演錫 "wikilink")\[5\]，在Gaon單曲週榜和[Billboard排行榜中皆獲得第一位](https://zh.wikipedia.org/wiki/Billboard "wikilink")\[6\]。
 
-同日，孝琳在[首爾](../Page/首爾.md "wikilink")[江南區清潭洞舉行專輯發行紀念公演](../Page/江南區_\(首爾\).md "wikilink")\[7\]。她於[Mnet的紀念公演上演唱](https://zh.wikipedia.org/wiki/Mnet "wikilink")《Love & Hate》內的歌曲，亦聯同其他[SISTAR](../Page/SISTAR.md "wikilink")成員表演她們的歌曲。過往只有[BoA](https://zh.wikipedia.org/wiki/BoA "wikilink")、[李孝利](../Page/李孝利.md "wikilink")和[Rain](../Page/Rain.md "wikilink")等明星才能於[Mnet上進行紀念公演](https://zh.wikipedia.org/wiki/Mnet "wikilink")\[8\]。
+同日，孝琳在[首爾](../Page/首爾.md "wikilink")[江南區清潭洞舉行專輯發行紀念公演](../Page/江南區_\(首爾\).md "wikilink")\[7\]。她於[Mnet](../Page/Mnet.md "wikilink")的紀念公演上演唱《Love & Hate》內的歌曲，亦聯同其他[SISTAR](../Page/SISTAR.md "wikilink")成員表演她們的歌曲。過往只有[BoA](https://zh.wikipedia.org/wiki/BoA "wikilink")、[李孝利](../Page/李孝利.md "wikilink")和[Rain](../Page/Rain.md "wikilink")等明星才能於[Mnet](../Page/Mnet.md "wikilink")上進行紀念公演\[8\]。
 
 ## 曲目
 
@@ -44,7 +44,7 @@
 </tr>
 <tr class="odd">
 <td><p>12月12日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td></td>
 <td></td>

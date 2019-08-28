@@ -1,4 +1,4 @@
-《**SVT Club**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Mnet的](https://zh.wikipedia.org/wiki/Mnet "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")\[1\]，由[金煥主持](https://zh.wikipedia.org/wiki/金煥 "wikilink")，[Seventeen出演](../Page/Seventeen_\(組合\).md "wikilink")\[2\]。節目主軸為提出「工生平」\[3\]（Work and life balance）、「小確幸」以及「Querencia」\[4\]等當前流行在韓國年輕社會中的關鍵字﹐由身處其中且擁有龐大影響力的 SEVENTEEN 帶頭探討、分析﹐有望掀起同世代青年的共鳴。\[5\]
+《**SVT Club**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Mnet](../Page/Mnet.md "wikilink")的[綜藝節目](../Page/綜藝節目.md "wikilink")\[1\]，由[金煥主持](https://zh.wikipedia.org/wiki/金煥 "wikilink")，[Seventeen出演](../Page/Seventeen_\(組合\).md "wikilink")\[2\]。節目主軸為提出「工生平」\[3\]（Work and life balance）、「小確幸」以及「Querencia」\[4\]等當前流行在韓國年輕社會中的關鍵字﹐由身處其中且擁有龐大影響力的 SEVENTEEN 帶頭探討、分析﹐有望掀起同世代青年的共鳴。\[5\]
 
 ## 各集內容
 

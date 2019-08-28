@@ -35,6 +35,8 @@
 
 在[Windows 2000](../Page/Windows_2000.md "wikilink")、[Windows XP以及Windows](../Page/Windows_XP.md "wikilink") Server 2003上，包含了用于修复受损安装的[恢复控制台](https://zh.wikipedia.org/wiki/復原主控台 "wikilink")。它使得用户去修复磁盘和引导记录错误，复制缺少的或出错的文件到目标文件夹。
 
+[Windows Vista的早期开发版本仍然使用这种安装流程](../Page/Windows_Vista.md "wikilink")，但是从MS-DOS下运行winnt.exe启动安装程序的方式不再适用（提示“您正试图使用1985年的DOS安装2004年的Longhorn”）。已知最后使用此种安装流程的Windows版本为Longhorn M3（6.0.3718）以及Windows Server 2003（5.2.3790）。自2003年3月以后的所有操作系统及其测试版（包括作为Windows XP复刻版[Windows Fundamentals for Legacy PCs](../Page/Windows_Fundamentals_for_Legacy_PCs.md "wikilink")）全部使用[Windows预先安装环境和](https://zh.wikipedia.org/wiki/Windows预先安装环境 "wikilink")[WIM格式储存的系统文件相结合的安装方式](../Page/Windows镜像文件格式.md "wikilink")。
+
 ### Windows Vista之后
 
 [Windows Vista](../Page/Windows_Vista.md "wikilink") 之后的操作系统都使用[Windows预先安装环境](https://zh.wikipedia.org/wiki/Windows_Preinstallation_Environment "wikilink")（Windows PE）作为安装环境。Windows预先安装环境从一开始就提供了支持鼠标的[图形用户界面](../Page/图形用户界面.md "wikilink")，而不是像先前的版本中需要基于文本的安装流程。[F6磁盘](../Page/F6磁盘.md "wikilink")的概念演进为在无需软盘的情况下为提供对计算机的支持，支持从[CD-ROM](../Page/CD-ROM.md "wikilink")和[U盘中载入驱动程序](../Page/闪存盘.md "wikilink")。不再支持将Windows安装到[FAT分区](https://zh.wikipedia.org/wiki/File_Allocation_Table "wikilink")，Windows必须被安装到[NTFS](../Page/NTFS.md "wikilink")分区。\[3\]除了Windows Server外預設禁用Administrator使用者，安裝時需要新增一個使用者。

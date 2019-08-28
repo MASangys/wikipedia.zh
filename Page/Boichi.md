@@ -71,4 +71,4 @@
 
   - [boichi.com](http://boichi.com/)（官方網站）
 
-[Category:韓國漫畫家](https://zh.wikipedia.org/wiki/Category:韓國漫畫家 "wikilink") [Category:首爾出生人物](https://zh.wikipedia.org/wiki/Category:首爾出生人物 "wikilink") [Category:1973年出生](https://zh.wikipedia.org/wiki/Category:1973年出生 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
+[Category:韓國漫畫家](https://zh.wikipedia.org/wiki/Category:韓國漫畫家 "wikilink") [Category:首爾特別市出身人物](https://zh.wikipedia.org/wiki/Category:首爾特別市出身人物 "wikilink") [Category:1973年出生](https://zh.wikipedia.org/wiki/Category:1973年出生 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:在日本的韓國人](https://zh.wikipedia.org/wiki/Category:在日本的韓國人 "wikilink") [Category:秋溪藝術大學校友](https://zh.wikipedia.org/wiki/Category:秋溪藝術大學校友 "wikilink") [Category:朴姓](https://zh.wikipedia.org/wiki/Category:朴姓 "wikilink")

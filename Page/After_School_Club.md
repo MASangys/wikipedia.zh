@@ -190,7 +190,7 @@
 | 205 | 2016年3月29日  | [GOT7](../Page/GOT7.md "wikilink")                                                                                                                                                                               |
 | 206 | 2016年4月5日   | [BTOB](../Page/BTOB.md "wikilink")                                                                                                                                                                               |
 | 209 | 2016年4月26日  | [VIXX](../Page/VIXX.md "wikilink")                                                                                                                                                                               |
-| 210 | 2016年5月3日   | [KNK](https://zh.wikipedia.org/wiki/KNK "wikilink")                                                                                                                                                              |
+| 210 | 2016年5月3日   | [KNK](../Page/KNK.md "wikilink")                                                                                                                                                                                 |
 | 211 | 2016年5月10日  | [Jessi](../Page/Jessi.md "wikilink")                                                                                                                                                                             |
 | 212 | 2016年5月17日  | [APRIL](https://zh.wikipedia.org/wiki/APRIL "wikilink")                                                                                                                                                          |
 | 213 | 2016年5月24日  | [Monsta X](https://zh.wikipedia.org/wiki/Monsta_X "wikilink")                                                                                                                                                    |
@@ -221,7 +221,7 @@
 | 238 | 2016年11月15日 | Young K、元弼（[DAY6](../Page/DAY6.md "wikilink")）                                                                                                                                                                   |
 | 239 | 2016年11月22日 | [B.A.P](../Page/B.A.P.md "wikilink")                                                                                                                                                                             |
 | 240 | 2016年11月29日 | [ASTRO](https://zh.wikipedia.org/wiki/ASTRO "wikilink")                                                                                                                                                          |
-| 241 | 2016年12月6日  | [KNK](https://zh.wikipedia.org/wiki/KNK "wikilink")                                                                                                                                                              |
+| 241 | 2016年12月6日  | [KNK](../Page/KNK.md "wikilink")                                                                                                                                                                                 |
 | 242 | 2016年12月13日 | [VICTON](../Page/VICTON.md "wikilink")                                                                                                                                                                           |
 | 243 | 2016年12月20日 | [PENTAGON](https://zh.wikipedia.org/wiki/PENTAGON "wikilink")                                                                                                                                                    |
 | 244 | 2016年12月27日 | [DAY6](../Page/DAY6.md "wikilink")                                                                                                                                                                               |
@@ -250,7 +250,7 @@
 | 263 | 2017年5月9日   | [BOYS24](../Page/BOYS24.md "wikilink")（UNIT BLACK）                                                                   |
 | 264 | 2017年5月16日  | [Snuper](../Page/Snuper.md "wikilink")                                                                               |
 | 265 | 2017年5月23日  | [BONUSbaby](../Page/BONUSbaby.md "wikilink")                                                                         |
-| 266 | 2017年5月30日  | [KNK](https://zh.wikipedia.org/wiki/KNK "wikilink")                                                                  |
+| 266 | 2017年5月30日  | [KNK](../Page/KNK.md "wikilink")                                                                                     |
 | 267 | 2017年6月6日   | [DAY6](../Page/DAY6.md "wikilink")                                                                                   |
 | 268 | 2017年6月13日  | [B.I.G](../Page/B.I.G.md "wikilink")                                                                                 |
 | 269 | 2017年6月20日  | [請夏](https://zh.wikipedia.org/wiki/請夏 "wikilink")                                                                    |

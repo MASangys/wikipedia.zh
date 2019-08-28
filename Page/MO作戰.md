@@ -18,7 +18,7 @@ MO作戰的具體方針於1938年被提出，但當時並沒有指明確切的�
 
 <!-- end list -->
 
-  - 南洋分遣隊的另一項作戰任務即是[FS作戰](../Page/FS作戰.md "wikilink")，目標為攻擊[新喀里多尼亞](../Page/新喀里多尼亞.md "wikilink")、[斐濟以及](https://zh.wikipedia.org/wiki/斐濟 "wikilink")[薩摩亞](https://zh.wikipedia.org/wiki/薩摩亞 "wikilink")。[大本營稍後下達了兩項新目標](../Page/大本營_\(大日本帝國\).md "wikilink")：與海軍一同佔領並守備莫士比港，以及在東新幾內亞上伺戰略時機行動。
+  - 南洋分遣隊的另一項作戰任務即是[FS作戰](../Page/FS作戰.md "wikilink")，目標為攻擊[新喀里多尼亞](../Page/新喀里多尼亞.md "wikilink")、[斐濟](../Page/斐濟.md "wikilink")以及[薩摩亞](https://zh.wikipedia.org/wiki/薩摩亞 "wikilink")。[大本營稍後下達了兩項新目標](../Page/大本營_\(大日本帝國\).md "wikilink")：與海軍一同佔領並守備莫士比港，以及在東新幾內亞上伺戰略時機行動。
 
 <!-- end list -->
 
@@ -122,7 +122,7 @@ MO作戰的具體方針於1938年被提出，但當時並沒有指明確切的�
 
 三天後，由於主要的海上戰鬥皆集中於[珊瑚海](../Page/珊瑚海.md "wikilink")區域，日軍[莫士比港登陸運輸艦隊立即掉頭北轉](https://zh.wikipedia.org/wiki/莫士比港 "wikilink")，以避開戰火。接續而來的[珊瑚海海戰對日本海軍第四艦隊造成嚴重打擊](../Page/珊瑚海海战.md "wikilink")，[祥鳳號航空母艦](../Page/祥鳳號航空母艦.md "wikilink")被擊沉，[翔鶴號航空母艦則嚴重受損](../Page/翔鹤号航空母舰.md "wikilink")。隸屬於該二艘航空母艦的航空兵團以及損傷相對輕微的[瑞鶴號航空母艦](../Page/瑞鶴號航空母艦.md "wikilink")在遭受如此嚴重的打擊後，被調回日本本土進行整補、維修等工作。
 
-日軍隨後放棄了以南洋分遣隊直接登陸並佔領[莫士比港的計畫](https://zh.wikipedia.org/wiki/莫士比港 "wikilink")。7月11日時，由於日軍主力航母艦隊於[中途島戰役中被殲滅](https://zh.wikipedia.org/wiki/中途島戰役 "wikilink")，[大本營因此下令停止一切針對](../Page/大本營_\(大日本帝國\).md "wikilink")[新喀里多尼亞](../Page/新喀里多尼亞.md "wikilink")、[斐濟以及](https://zh.wikipedia.org/wiki/斐濟 "wikilink")[薩摩亞等地的奪島作戰](https://zh.wikipedia.org/wiki/薩摩亞 "wikilink")。
+日軍隨後放棄了以南洋分遣隊直接登陸並佔領[莫士比港的計畫](https://zh.wikipedia.org/wiki/莫士比港 "wikilink")。7月11日時，由於日軍主力航母艦隊於[中途島戰役中被殲滅](https://zh.wikipedia.org/wiki/中途島戰役 "wikilink")，[大本營因此下令停止一切針對](../Page/大本營_\(大日本帝國\).md "wikilink")[新喀里多尼亞](../Page/新喀里多尼亞.md "wikilink")、[斐濟](../Page/斐濟.md "wikilink")以及[薩摩亞等地的奪島作戰](https://zh.wikipedia.org/wiki/薩摩亞 "wikilink")。
 
 這些戰鬥最終迫使日軍放棄自海上登陸[莫士比港的企圖](https://zh.wikipedia.org/wiki/莫士比港 "wikilink")。相反的，[日本陸軍選擇經由](https://zh.wikipedia.org/wiki/日本陸軍 "wikilink")[科科達小徑穿越](../Page/科科達小徑戰役.md "wikilink")[歐文斯坦利山脈](https://zh.wikipedia.org/wiki/歐文斯坦利山脈 "wikilink")，嘗試以陸上攻擊奪取[莫士比港](https://zh.wikipedia.org/wiki/莫士比港 "wikilink")，然而最終仍以失敗告終。
 

@@ -175,25 +175,20 @@
 
 :; 「ありがと⇔大丈夫」（第1話 - 第25話）
 
-:: 作詞：松原さらり（onetrap），作曲：片山將太、，編曲：MItsu.J（Digiz,lnc.Group）
-
-:: 主唱：（友希愛音）、[みお](../Page/木戶衣吹.md "wikilink")（湊美緒） from
+:: 作詞：松原さらり（onetrap），作曲：片山將太、，編曲：MItsu.J（Digiz,lnc.Group），主唱：（友希愛音）、[みお](../Page/木戶衣吹.md "wikilink")（湊美緒） from
 
 :: 主唱：あいね（友希愛音） from BEST FRIENDS！（第4、6、9、15、34、38、45話插入曲）
 
 :; 「そこにしかないもの」（第26話 - 第50話）
 
-:: 作詞：松原さらり（onetrap），作曲、編曲：MItsu.J（Digiz,lnc.Group）
-
-:: 主唱：あいね（友希愛音）、みお（湊美緒） from BEST FRIENDS！（第42話插入曲）
+:: 作詞：松原さらり（onetrap），作曲、編曲：MItsu.J（Digiz,lnc.Group），主唱：あいね（友希愛音）、みお（湊美緒） from BEST FRIENDS！（第42話插入曲）
 
 :; 「ひとりじゃない\!」（第51話 - ）
 
   -
 
       -
-        作詞：松原さらり（onetrap），作曲、編曲：SHOW（Digz, Inc. Group）
-        主唱：あいね（友希愛音）、みお（湊美緒）、[舞花](../Page/美山加戀.md "wikilink")（蝶乃舞花）、（日向繪麻） from BEST FRIENDS！
+        作詞：松原さらり（onetrap），作曲、編曲：SHOW（Digz, Inc. Group），主唱：あいね（友希愛音）、みお（湊美緒）、[舞花](../Page/美山加戀.md "wikilink")（蝶乃舞花）、（日向繪麻） from BEST FRIENDS！
         主唱：あいね（友希愛音）、みお（湊美緒） from BEST FRIENDS！（第68話插入曲）
 
 <!-- end list -->
@@ -202,23 +197,18 @@
 
 :; 「Believe it」（第1話 - 第25話）
 
-:: 作詞：松原さらり（onetrap），作曲：Coffee Creamers（Digiz,lnc.Group），編曲：SHOW（Digiz,lnc.Group）
-
-:: 主唱：[カレン](../Page/田所梓.md "wikilink")（神城凱倫）、[ミライ](../Page/大橋彩香.md "wikilink")（明日香未來） from BEST FRIENDS！（第2、5、28、40話插入曲）
+:: 作詞：松原さらり（onetrap），作曲：Coffee Creamers（Digiz,lnc.Group），編曲：SHOW（Digiz,lnc.Group），主唱：[カレン](../Page/田所梓.md "wikilink")（神城凱倫）、[ミライ](../Page/大橋彩香.md "wikilink")（明日香未來） from BEST FRIENDS！（第2、5、28、40話插入曲）
 
 :; 「プライド」（第26話 - 第50話）
 
-:: 作詞：松原さらり（onetrap），作曲：片山將太、，編曲：片山將太
-
-:: 主唱：カレン（神城凱倫）、ミライ（明日香未來） from BEST FRIENDS！（第41、49話插入曲）
+:: 作詞：松原さらり（onetrap），作曲：片山將太、藤末樹，編曲：片山將太，主唱：カレン（神城凱倫）、ミライ（明日香未來） from BEST FRIENDS！（第41、49話插入曲）
 
 :; 「Be Star」（第51話 - ）
 
   -
 
       -
-        作詞：松原さらり（onetrap），作曲、編曲：Maozon、YUKI FUNAKOSHI（Digz, Inc. Group）
-        主唱：[ひびき](../Page/日笠陽子.md "wikilink")（天翔響） from BEST FRIENDS！（第51、56、60話插入曲）
+        作詞：松原さらり（onetrap），作曲、編曲：Maozon、YUKI FUNAKOSHI（Digz, Inc. Group），主唱：[ひびき](../Page/日笠陽子.md "wikilink")（天翔響） from BEST FRIENDS！（第51、56、60話插入曲）
 
 <!-- end list -->
 
@@ -226,9 +216,7 @@
 
 :; 「アイカツフレンズ\!」（第1、5、11、21、31、50、53、58話）
 
-:: 作詞：松原さらり（onetrap），作曲：藤末樹，編曲：MItsu.J（Digiz,lnc.Group）
-
-:: 主唱：あいね（友希愛音）、みお（湊美緒） from BEST FRIENDS！（第1、11、21、31、53、58話）
+:: 作詞：松原さらり（onetrap），作曲：藤末樹，編曲：MItsu.J（Digiz,lnc.Group），主唱：あいね（友希愛音）、みお（湊美緒） from BEST FRIENDS！（第1、11、21、31、53、58話）
 
 :: 主唱：あいね（友希愛音） from BEST FRIENDS！（第5話）
 
@@ -236,131 +224,96 @@
 
 :; 「6cm上の景色」（第3、8、12、25、36、44話）
 
-:: 作詞：松原さらり（onetrap），作曲、編曲：MItsu.J（Digiz,lnc.Group）
-
-:: 主唱：みお（湊美緒） from BEST FRIENDS！（第3、8、12、25、36、44話）
+:: 作詞：松原さらり（onetrap），作曲、編曲：MItsu.J（Digiz,lnc.Group），主唱：みお（湊美緒） from BEST FRIENDS！（第3、8、12、25、36、44話）
 
 :; 「アイデンティティ」（第7、24、29、38話）
 
-:: 作詞：松原さらり（onetrap），作曲、編曲：Coffee Creamers（Digz, Inc. Group）
-
-:: 主唱：ミライ（明日香未來） from BEST FRIENDS！（第7、24、38話）
+:: 作詞：松原さらり（onetrap），作曲、編曲：Coffee Creamers（Digz, Inc. Group），主唱：ミライ（明日香未來） from BEST FRIENDS！（第7、24、38話）
 
 :: 主唱：あいね（友希愛音）、ミライ（明日香未來） from BEST FRIENDS！（第29話）
 
 :; 「Girls be ambitious\!」（第10、14、23、38話）
 
-:: 作詞：松原さらり（onetrap），作曲、編曲：SHOW（Digz, Inc. Group）
-
-:: 主唱：舞花（蝶乃舞花） from BEST FRIENDS！（第10、14、23、38話）
+:: 作詞：松原さらり（onetrap），作曲、編曲：SHOW（Digz, Inc. Group），主唱：舞花（蝶乃舞花） from BEST FRIENDS！（第10、14、23、38話）
 
 :; 「愛で溢れている」（第13、24、38話）
 
-:: 作詞：松原さらり（onetrap），作曲、編曲：MItsu.J（Digiz,lnc.Group）
-
-:: 主唱：カレン（神城凱倫） from BEST FRIENDS！（第13、24、38話）
+:: 作詞：松原さらり（onetrap），作曲、編曲：MItsu.J（Digiz,lnc.Group），主唱：カレン（神城凱倫） from BEST FRIENDS！（第13、24、38話）
 
 :; 「個×個（きみ×わたし）」（第14、18話）
 
-:: 作詞：松原さらり（onetrap），作曲：藤末樹，編曲：片山將太
-
-:: 主唱：舞花（蝶乃舞花）、エマ（日向繪麻） from BEST FRIENDS！（第14、18話）
+:: 作詞：松原さらり（onetrap），作曲：藤末樹，編曲：片山將太，主唱：舞花（蝶乃舞花）、エマ（日向繪麻） from BEST FRIENDS！（第14、18話）
 
 :; 「みんなみんな\!」（第16、19、26、33、39、66話）
 
-:: 作詞：松原さらり（onetrap），作曲：石田秀登，編曲：Mitsu.J（Digz, Inc. Group）
-
-:: 主唱：あいね（友希愛音）、みお（湊美緒） from BEST FRIENDS！（第16、19、26、33、39話）
+:: 作詞：松原さらり（onetrap），作曲：石田秀登，編曲：Mitsu.J（Digz, Inc. Group），主唱：あいね（友希愛音）、みお（湊美緒） from BEST FRIENDS！（第16、19、26、33、39話）
 
 :: 主唱：みお（湊美緒）、（春風若葉） from BEST FRIENDS！（第66話）
 
 :; 「導かれて」（第17、22、35、38話）
 
-:: 作詞：松原さらり（onetrap），作曲：片山將太、藤末樹，編曲：片山將太
-
-:: 主唱：（白百合咲夜） from BEST FRIENDS！（第17、22、35、38話）
+:: 作詞：松原さらり（onetrap），作曲：片山將太、藤末樹，編曲：片山將太，主唱：（白百合咲夜） from BEST FRIENDS！（第17、22、35、38話）
 
 :; 「おけまる」（第20、23、38話）
 
-:: 作詞：松原さらり（onetrap），作曲：YUMIKO、藤末樹，編曲：藤末樹
-
-:: 主唱：エマ（日向繪麻） from BEST FRIENDS！（第20、23、38話）
+:: 作詞：松原さらり（onetrap），作曲：YUMIKO、藤末樹，編曲：藤末樹，主唱：エマ（日向繪麻） from BEST FRIENDS！（第20、23、38話）
 
 :; 「絆 ～シンクロハーモニー～」（第27、40話）
 
-:: 作詞：松原さらり（onetrap），作曲：藤末樹，編曲：片山將太
-
-:: 主唱：さくや（白百合咲夜）、[かぐや](../Page/桑原由氣.md "wikilink")（白百合輝夜） from BEST FRIENDS！（第27、40話）
+:: 作詞：松原さらり（onetrap），作曲：藤末樹，編曲：片山將太，主唱：さくや（白百合咲夜）、[かぐや](../Page/桑原由氣.md "wikilink")（白百合輝夜） from BEST FRIENDS！（第27、40話）
 
 :; 「偶然、必然。」（第30、35、38話）
 
-:: 作詞：松原さらり（onetrap），作曲：片山將太、藤末樹，編曲：片山將太
-
-:: 主唱：かぐや（白百合輝夜） from BEST FRIENDS！（第30、35、38話）
+:: 作詞：松原さらり（onetrap），作曲：片山將太、藤末樹，編曲：片山將太，主唱：かぐや（白百合輝夜） from BEST FRIENDS！（第30、35、38話）
 
 :; 「みつけようよ♪」（第32、39、48、55、64話）
 
-:: 作詞：松原さらり（onetrap），作曲、編曲：MItsu.J（Digiz,lnc.Group）
-
-:: 主唱：舞花（蝶乃舞花）、エマ（日向繪麻） from BEST FRIENDS！（第32、39、48、55、64話）
+:: 作詞：松原さらり（onetrap），作曲、編曲：MItsu.J（Digiz,lnc.Group），主唱：舞花（蝶乃舞花）、エマ（日向繪麻） from BEST FRIENDS！（第32、39、48、55、64話）
 
 :; 「[We wish you a merry Christmas](../Page/我們祝你聖誕快樂.md "wikilink") BEST FRIENDS\! Ver.」（第37話）
 
-:: 作詞：こだまさおり，作曲、編曲：岡部啓一（MONACA）
-
-:: 主唱：あいね（友希愛音）、みお（湊美緒）、舞花（蝶乃舞花）、エマ（日向繪麻） from BEST FRIENDS！（第37話）
+:: 作詞：こだまさおり，作曲、編曲：岡部啓一（MONACA），主唱：あいね（友希愛音）、みお（湊美緒）、舞花（蝶乃舞花）、エマ（日向繪麻） from BEST FRIENDS！（第37話）
 
 :; 「いっしょにA･I･K･A･T･S･U！」（第38、43、47話）
 
-:: 作詞：松原さらり（onetrap），作曲、編曲：Coffee Creamers（Digz, Inc. Group）
-
-:: 主唱：[ココ](../Page/諸星堇.md "wikilink")（可可）（第38話）
+:: 作詞：松原さらり（onetrap），作曲、編曲：Coffee Creamers（Digz, Inc. Group），主唱：[ココ](../Page/諸星堇.md "wikilink")（可可）（第38話）
 
 :: 主唱：あいね（友希愛音）、みお（湊美緒） from BEST FRIENDS！（第43、47話）
 
 :; 「Have a Dream」（第46、62話）
 
-:: 作詞：松原さらり（onetrap），作曲：藤末樹，編曲：片山將太
-
-:: 主唱：さくや（白百合咲夜）、かぐや（白百合輝夜） from BEST FRIENDS！（第46、62話）
+:: 作詞：松原さらり（onetrap），作曲：藤末樹，編曲：片山將太，主唱：さくや（白百合咲夜）、かぐや（白百合輝夜） from BEST FRIENDS！（第46、62話）
 
 :; 「セカイは廻る」（第52、55話）
 
-:: 作詞：松原さらり（onetrap），作曲、編曲：MItsu.J（Digiz,lnc.Group）
-
-:: 主唱：みお（湊美緒） from BEST FRIENDS！（第52、55話）
+:: 作詞：松原さらり（onetrap），作曲、編曲：MItsu.J（Digiz,lnc.Group），主唱：みお（湊美緒） from BEST FRIENDS！（第52、55話）
 
 :; 「窓-ココロ-ひらこう」（第54、57話）
 
-:: 作詞：松原さらり（onetrap），作曲：藤末樹、，編曲：松田純一
-
-:: 主唱：あいね（友希愛音） from BEST FRIENDS！（第54、57話）
+:: 作詞：松原さらり（onetrap），作曲：藤末樹、，編曲：松田純一，主唱：あいね（友希愛音） from BEST FRIENDS！（第54、57話）
 
 :; 「Niceなto meet you\!」（第59、62話）
 
-:: 作詞：松原さらり（onetrap），作曲、編曲：SHOW（Digz, Inc. Group）
-
-:: 主唱：ミライ（明日香未來） from BEST FRIENDS！（第59、62話）
+:: 作詞：松原さらり（onetrap），作曲、編曲：SHOW（Digz, Inc. Group），主唱：ミライ（明日香未來） from BEST FRIENDS！（第59、62話）
 
 :; 「あるがまま」（第61、65話）
 
-:: 作詞：松原さらり（onetrap），作曲、編曲：Maozon、YUKI FUNAKOSHI（Digz, Inc. Group）
-
-:: 主唱：[アリシア](../Page/大西沙織.md "wikilink")（艾麗西亞·夏洛特） from BEST FRIENDS！（第61、65話）
+:: 作詞：松原さらり（onetrap），作曲、編曲：Maozon、YUKI FUNAKOSHI（Digz, Inc. Group），主唱：[アリシア](../Page/大西沙織.md "wikilink")（艾麗西亞·夏洛特） from BEST FRIENDS！（第61、65話）
 
 :; 「強く美しく優しく」（第63、64話）
 
-:: 作詞：松原さらり（onetrap），作曲、編曲：
+:: 作詞：松原さらり（onetrap），作曲、編曲：，主唱：カレン（神城凱倫） from BEST FRIENDS！（第63、64話）
 
-:: 主唱：カレン（神城凱倫） from BEST FRIENDS！（第63、64話）
+:; 「この世界はすばらしい」（第67、69話）
 
-:; 「この世界はすばらしい」（第67話）
+:: 作詞：松原さらり（onetrap），作曲：藤末樹，編曲：片山將太，主唱：わかば（春風若葉） from BEST FRIENDS！（第67、69話）
+
+:; 「新たなるステージへ」（第70話）
 
   -
 
       -
-        作詞：松原さらり（onetrap），作曲：藤末樹，編曲：片山將太
-        主唱：わかば（春風若葉） from BEST FRIENDS！（第67話）
+        作詞：松原さらり（onetrap），作曲、編曲：Maozon、YUKI FUNAKOSHI（Digz, Inc. Group），主唱：ひびき（天翔響）、アリシア（艾麗西亞·夏洛特） from BEST FRIENDS！（第70話插入曲）
 
 <!-- end list -->
 
@@ -523,7 +476,7 @@
 <tr class="odd">
 <td><p>第12話</p></td>
 <td></td>
-<td><p>番茄、放馬過來☆</p></td>
+<td><p>番茄，放馬過來☆</p></td>
 <td><p>守護このみ</p></td>
 <td><p>藤澤俊幸</p></td>
 <td><p>關田修<br />
@@ -568,7 +521,7 @@
 <tr class="odd">
 <td><p>第16話</p></td>
 <td></td>
-<td><p>美緒、成為勇者</p></td>
+<td><p>美緒，成為勇者</p></td>
 <td><p>柿原優子</p></td>
 <td><p>佐山聖子</p></td>
 <td><p>德本善信</p></td>
@@ -643,7 +596,7 @@
 <tr class="even">
 <td><p>第23話</p></td>
 <td></td>
-<td><p>吶喊、瞬間</p></td>
+<td><p>吶喊，瞬間</p></td>
 <td><p>京極尚彦</p></td>
 <td><p>秋津達哉</p></td>
 <td><p>9月13日</p></td>
@@ -1118,7 +1071,7 @@
 <tr class="even">
 <td><p>第66話</p></td>
 <td></td>
-<td><p>若葉、完美進行中！</p></td>
+<td><p>若葉，完美進行中！</p></td>
 <td><p>大知慶一郎</p></td>
 <td><p>山本惠</p></td>
 <td><p>竹森由加<br />
@@ -1129,7 +1082,7 @@
 <tr class="odd">
 <td><p>第67話</p></td>
 <td></td>
-<td><p>從未來、到未來</p></td>
+<td><p>從未來，到未來</p></td>
 <td><p>千葉美鈴</p></td>
 <td><p>青木康直</p></td>
 <td><p>蓮井隆弘</p></td>
@@ -1156,6 +1109,48 @@
 <td><p>進藤陽平</p></td>
 <td><p>しんぼたくろう</p></td>
 <td><p>8月8日</p></td>
+</tr>
+<tr class="even">
+<td><p>第70話</p></td>
+<td></td>
+<td><p>向著嶄新的舞台</p></td>
+<td><p>成田良美</p></td>
+<td><p>佐藤照雄</p></td>
+<td><p>大川貴大</p></td>
+<td><p>橋口隼人<br />
+志賀祐香</p></td>
+<td><p>8月15日</p></td>
+</tr>
+<tr class="odd">
+<td><p>第71話</p></td>
+<td></td>
+<td><p>咲夜的心思，輝夜的心願</p></td>
+<td><p>大知慶一郎</p></td>
+<td><p>山地光人</p></td>
+<td><p>三橋妙子<br />
+細田沙織</p></td>
+<td><p>8月22日 &lt;!--</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>第72話</p></td>
+<td></td>
+<td><p>LOVE ME TEAR</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>8月29日</p></td>
+</tr>
+<tr class="odd">
+<td><p>第73話</p></td>
+<td></td>
+<td><p>Jeweling Festival前夕</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>9月5日 --&gt;</p></td>
 </tr>
 </tbody>
 </table>
@@ -1303,26 +1298,9 @@
 | 9    | 2019年8月2日    | 第46話 - 第50話 | BIBA-3309                              |
 | 第2期  |              |             |                                        |
 | BOX5 | 2019年10月2日預定 | 第51話 - 第63話 | BIXA-9055                              |
+| BOX6 | 2020年1月8日預定  | 第64話 - 第76話 | BIXA-9056                              |
 | 10   | 2019年9月3日預定  | 第51話 - 第56話 |                                        |
 | 11   | 2019年10月2日預定 | 第57話 - 第62話 | BIBA-3311                              |
-
-## 關連條目
-
-### 前作
-
-  - 機台條目 - [Aikatsu！偶像活動！](../Page/Aikatsu！偶像活動！.md "wikilink")
-  - 動畫條目
-
-<!-- end list -->
-
-  -
-    第1作 - [Aikatsu！偶像活動！(動畫)](../Page/偶像活動！_\(動畫\).md "wikilink")
-    第2作 - [偶像活動Stars！](https://zh.wikipedia.org/wiki/偶像活動Stars！ "wikilink")
-
-<!-- end list -->
-
-  - 角色條目 - [Aikatsu！偶像活動！角色列表](../Page/Aikatsu！偶像活動！角色列表.md "wikilink")、[偶像活動Stars！角色列表](../Page/偶像活動Stars！角色列表.md "wikilink")
-  - 配唱條目 - [STAR☆ANIS](../Page/STAR☆ANIS.md "wikilink")、
 
 ## 註解
 
@@ -1342,11 +1320,11 @@
 
   -
   -
-  - [台灣《偶像-{}-學園Friends！》遊戲官網](http://www.aikatsu.com.tw/friends/)
+  - [台灣《偶像-{}-學園Friends！》遊戲官網](http://www.aikatsu.com.tw)
 
   - [香港《星夢-{}-學園Friends！》遊戲官網](http://hk.aikatsu.com/friends/)
 
-  - [大陸《偶活-{}-學園Friends！》遊戲官網](http://www.aikatsu.com.cn/)
+  - [大陸《偶活-{}-學園Friends！》遊戲官網](http://www.aikatsu.com.cn)
 
 <!-- end list -->
 

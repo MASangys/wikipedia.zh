@@ -885,6 +885,15 @@ Drama X</p></td>
 <a href="https://zh.wikipedia.org/wiki/朱亞文" title="wikilink">朱亞文</a>、<a href="https://zh.wikipedia.org/wiki/王彥霖" title="wikilink">王彥霖</a>、<a href="../Page/宋雨琦.md" title="wikilink">宋雨琦</a></p></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>8月9日</p></td>
+<td><p>網路劇</p></td>
+<td><p>《被不良少年盯上》</p></td>
+<td><p>New Love</p></td>
+<td><p>道英、在玹</p></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -938,7 +947,7 @@ Drama X</p></td>
 | 年份    | 發佈日期   | 合作項目                                                                                                  | 歌曲名稱            | 參與成員  | 合作藝人                                                                                            |
 | ----- | ------ | ----------------------------------------------------------------------------------------------------- | --------------- | ----- | ----------------------------------------------------------------------------------------------- |
 | 2016年 | 12月18日 | [SBS](../Page/SBS_\(韓國\).md "wikilink") 《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》特別合作企劃 | First Christmas | 道英    | [Joy](../Page/Joy_\(Red_Velvet\).md "wikilink")（[Red Velvet](../Page/Red_Velvet.md "wikilink")） |
-| 2017年 | 4月1日   | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《高等Rapper》單曲                                     | 放手吧 (Drop)      | Mark  | [瑟琪](../Page/瑟琪.md "wikilink")（Red Velvet）                                                      |
+| 2017年 | 4月1日   | [Mnet](../Page/Mnet.md "wikilink")《高等Rapper》單曲                                                        | 放手吧 (Drop)      | Mark  | [瑟琪](../Page/瑟琪.md "wikilink")（Red Velvet）                                                      |
 | 2019年 | 6月29日  | [浙江衛視](https://zh.wikipedia.org/wiki/浙江衛視 "wikilink")《[奔跑吧](../Page/奔跑吧.md "wikilink")3》EP10合唱對決      | 芭啦芭啦櫻之花         | Lucas | [鄭愷](https://zh.wikipedia.org/wiki/鄭愷 "wikilink")、[宋雨琦](../Page/宋雨琦.md "wikilink")              |
 
 ## 參考文獻

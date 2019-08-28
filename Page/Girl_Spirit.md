@@ -38,16 +38,16 @@ Girl Spirit是围绕着还没有成功达到主流的十二个女子组合的歌
 
 ### B组
 
-| 参赛者                                                | 所属组合                                                             | 出道年份 | feat. | 流行歌曲  |
-| -------------------------------------------------- | ---------------------------------------------------------------- | ---- | ----- | ----- |
-| [保亨](../Page/金保亨.md "wikilink")                    | [SPICA](../Page/SPICA_\(組合\).md "wikilink")                      | 2012 | Ep.5  | Ep.11 |
-| 惠美                                                 | [FIESTAR](../Page/FIESTAR.md "wikilink")                         | 2012 | Ep.10 |       |
-| 昭政                                                 | [Ladies' Code](../Page/Ladies'_Code.md "wikilink")               | 2013 |       |       |
-| [有智](https://zh.wikipedia.org/wiki/鄭有智 "wikilink") | [BESTie](../Page/BESTie.md "wikilink")                           | 2013 |       | Ep.3  |
-| 昭娟                                                 | [LABOUM](../Page/LABOUM.md "wikilink")                           | 2014 | Ep.10 | Ep.10 |
-| 真率                                                 | [APRIL](https://zh.wikipedia.org/wiki/APRIL_\(女子團體\) "wikilink") | 2015 | Ep 10 |       |
-|                                                    |                                                                  |      |       |       |
-|                                                    |                                                                  |      |       |       |
+| 参赛者                                                | 所属组合                                               | 出道年份 | feat. | 流行歌曲  |
+| -------------------------------------------------- | -------------------------------------------------- | ---- | ----- | ----- |
+| [保亨](../Page/金保亨.md "wikilink")                    | [SPICA](../Page/SPICA_\(組合\).md "wikilink")        | 2012 | Ep.5  | Ep.11 |
+| 惠美                                                 | [FIESTAR](../Page/FIESTAR.md "wikilink")           | 2012 | Ep.10 |       |
+| 昭政                                                 | [Ladies' Code](../Page/Ladies'_Code.md "wikilink") | 2013 |       |       |
+| [有智](https://zh.wikipedia.org/wiki/鄭有智 "wikilink") | [BESTie](../Page/BESTie.md "wikilink")             | 2013 |       | Ep.3  |
+| 昭娟                                                 | [LABOUM](../Page/LABOUM.md "wikilink")             | 2014 | Ep.10 | Ep.10 |
+| 真率                                                 | [APRIL](../Page/APRIL_\(女子團體\).md "wikilink")      | 2015 | Ep 10 |       |
+|                                                    |                                                    |      |       |       |
+|                                                    |                                                    |      |       |       |
 
 ## 每集内容
 

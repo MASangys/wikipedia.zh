@@ -130,7 +130,7 @@ EXY曾是[Medialine娛樂的練習生](https://zh.wikipedia.org/wiki/Medialine�
 | 4月27日     |                                                                           |                                                                     |                                                                              |               |
 | 4月29日     | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                       | 《二重唱歌谣祭》                                                            |                                                                              |               |
 | 6月26日     | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                       | 《[神秘音乐秀：蒙面歌王](https://zh.wikipedia.org/wiki/神秘音乐秀：蒙面歌王 "wikilink")》 | 参赛者                                                                          |               |
-| 7月1日      | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")                     | 《[Show Me The Money 5](../Page/Show_Me_The_Money_5.md "wikilink")》  |                                                                              |               |
+| 7月1日      | [Mnet](../Page/Mnet.md "wikilink")                                        | 《[Show Me The Money 5](../Page/Show_Me_The_Money_5.md "wikilink")》  |                                                                              |               |
 | 9月15日     | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                       | 《MBC偶像明星运动会- 中秋特辑》                                                  |                                                                              |               |
 | 2017年     | 2月16日                                                                     | [OnStyle](../Page/OnStyle.md "wikilink")                            | 《[Lipstick Prince](../Page/Lipstick_Prince.md "wikilink")》                   |               |
 | 2018年     | 4月5日                                                                      | K Star                                                              | 《食神之路4》                                                                      | 嘉賓 與多榮 E04    |
@@ -141,10 +141,10 @@ EXY曾是[Medialine娛樂的練習生](https://zh.wikipedia.org/wiki/Medialine�
 
 ### 固定綜藝
 
-|       |                                                       |                                                                                   |
-| ----- | ----------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 日期    | 電視台                                                   | 節目名稱                                                                              |
-| 2015年 | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | [Unpretty Rapstar 2](https://zh.wikipedia.org/wiki/Unpretty_Rapstar_2 "wikilink") |
+|       |                                    |                                                                                   |
+| ----- | ---------------------------------- | --------------------------------------------------------------------------------- |
+| 日期    | 電視台                                | 節目名稱                                                                              |
+| 2015年 | [Mnet](../Page/Mnet.md "wikilink") | [Unpretty Rapstar 2](https://zh.wikipedia.org/wiki/Unpretty_Rapstar_2 "wikilink") |
 
 ## 代言
 

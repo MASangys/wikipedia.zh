@@ -201,7 +201,7 @@
 | 04 | 2018年11月9日  |    | [Weki Meki](../Page/Weki_Meki.md "wikilink")                                                          |
 | 05 | 2018年11月16日 |    | [MONSTA X](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")                                         |
 | 06 | 2018年11月23日 |    | [Stray Kids](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")                                     |
-| 07 | 2018年11月30日 |    | [APRIL](https://zh.wikipedia.org/wiki/APRIL_\(女子團體\) "wikilink")                                      |
+| 07 | 2018年11月30日 |    | [APRIL](../Page/APRIL_\(女子團體\).md "wikilink")                                                         |
 | 08 | 2018年12月7日  |    | [KARD](../Page/KARD.md "wikilink")                                                                    |
 | 09 | 2018年12月14日 |    | [Lovelyz](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")                                           |
 | 10 | 2018年12月21日 |    | [HOTSHOT](../Page/HOTSHOT.md "wikilink")                                                              |

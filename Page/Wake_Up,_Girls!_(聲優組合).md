@@ -94,7 +94,7 @@
 <!-- end list -->
 
   - 4月1日：Wake Up, Girls\!结成。
-  - 7月28日：於[Wonder Festival 2013首次公開成員](../Page/Wonder_Festival.md "wikilink")，披露会上翻唱了《[幸運☆星](https://zh.wikipedia.org/wiki/幸運☆星 "wikilink")》的主题曲[拿去吧！水手服](../Page/拿去吧！水手服.md "wikilink")及《[凉宫春日的忧郁](https://zh.wikipedia.org/wiki/凉宫春日的忧郁 "wikilink")》主题曲[晴天好心情](https://zh.wikipedia.org/wiki/晴天好心情 "wikilink")。\[8\]。
+  - 7月28日：於[Wonder Festival 2013首次公開成員](../Page/Wonder_Festival.md "wikilink")，披露会上翻唱了《[幸運☆星](../Page/幸運☆星.md "wikilink")》的主题曲[拿去吧！水手服](../Page/拿去吧！水手服.md "wikilink")及《[凉宫春日的忧郁](https://zh.wikipedia.org/wiki/凉宫春日的忧郁 "wikilink")》主题曲[晴天好心情](https://zh.wikipedia.org/wiki/晴天好心情 "wikilink")。\[8\]。
   - 8月10日－8月12日：在[Comic Market 84舉辦握手會](../Page/Comic_Market.md "wikilink")，同时Wake Up，Girls！官方书籍《WU,G\!》发售\[9\]。
   - 9月22日－12月15日：在9月22日、10月26日、11月3日、12月5日开展4场路演活动。
   - 11月3日：举办第一次“『Green Leaves』会社资料面交会”。12月26日此活动亦在仙台Animate内举行。
@@ -151,7 +151,7 @@
   - 3月18日：第一张精选专辑“Wake Up, Best\!”发售，专辑内收录「極上スマイル Wake Up, Girls\!Ver.」及「タチアガレ！」的MV等内容。
   - 3月29日：第二本写真集『7 Girls History』发售。
   - 5月19日：再次與東北樂天金鷹舉辦合作活動，並於翌日擔任「公關大使」\[21\]。
-  - 7月14日－9月29日：播出第一個冠名電視節目「」\[22\]。
+  - 7月14日－9月29日：播出第一個冠名電視節目「[わぐばん！](../Page/わぐばん！.md "wikilink")」\[22\]。
   - 7月20日－8月16日：舉辦第二次巡迴Live「」\[23\]。在大阪、福冈、千叶、仙台四地共计举行八场演出。
   - 8月26日：时隔约一年半推出第三张新单曲「少女交響曲」，本曲亦是「続･劇場版 Wake Up, Girls！青春の影」的主题曲。
   - 8月30日：在Animelo Summer Live 2015 -THE GATE-演出\[24\]。

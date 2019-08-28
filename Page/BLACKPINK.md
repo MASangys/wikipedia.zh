@@ -54,7 +54,7 @@ BLACKPINK原定於2012年出道，且最初的女團計劃原定有九人，官�
 
 #### 宣布張漢娜、文秀雅並非新女團成員
 
-2015年4月15日，元祖嘻哈團體激怒神（JINUSEAN）作為2015年YG娛樂的第一個作品面世，單曲《再告訴我一次》找來2014年加入的張漢娜擔任伴唱、出演音樂錄影帶並參與音樂節目演出\[37\]，她同時也是新女團的預計成員之一，然而在同年5月，[梁鉉錫](../Page/梁鉉錫.md "wikilink")透過媒體表示張漢娜不會加入新女團\[38\]。8月，[Mnet製作的Hip](https://zh.wikipedia.org/wiki/Mnet "wikilink")-Hop節目《[Unpretty Rapstar 2](https://zh.wikipedia.org/wiki/Unpretty_Rapstar_2 "wikilink")》開播，YG女練習生[文秀雅](../Page/文秀雅.md "wikilink")參賽，也是2012年神秘影片「Future 2NE1」的其中一名練習生，但YG隨即宣佈文秀雅不會加盟新女團。
+2015年4月15日，元祖嘻哈團體激怒神（JINUSEAN）作為2015年YG娛樂的第一個作品面世，單曲《再告訴我一次》找來2014年加入的張漢娜擔任伴唱、出演音樂錄影帶並參與音樂節目演出\[37\]，她同時也是新女團的預計成員之一，然而在同年5月，[梁鉉錫](../Page/梁鉉錫.md "wikilink")透過媒體表示張漢娜不會加入新女團\[38\]。8月，[Mnet](../Page/Mnet.md "wikilink")製作的Hip-Hop節目《[Unpretty Rapstar 2](https://zh.wikipedia.org/wiki/Unpretty_Rapstar_2 "wikilink")》開播，YG女練習生[文秀雅](../Page/文秀雅.md "wikilink")參賽，也是2012年神秘影片「Future 2NE1」的其中一名練習生，但YG隨即宣佈文秀雅不會加盟新女團。
 
 ### 2016年：正式出道
 

@@ -797,7 +797,7 @@ Sulli｜朴智星、劉在錫、Gary、哈哈<br />
 <td><p><span style=font-size:110%><strong>順序整理</strong></span><br />
 <strong>個人戰</strong><br />
 沒有隊伍</p></td>
-<td><p>將對方不死的人的鞋子放進黃色太陽傘下的桶子裡並說出咒語</p></td>
+<td><p>取得雙方「不死者」之姓名牌並放置於寶箱上，於詛咒解除後獲得金幣。</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/神話" title="wikilink">神話隊</a><strong>勝出</strong><br />
 獲得<a href="https://zh.wikipedia.org/wiki/金幣" title="wikilink">金幣</a>84個<br />
 <em><strong>註：</strong>嘉賓於本集僅特別出演<br />

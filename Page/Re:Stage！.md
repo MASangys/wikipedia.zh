@@ -22,9 +22,9 @@
 ### ortensia
 
   -
-    鈴村女子中學一年級生，個性開朗且大而化之，喜歡吃肉。
+    鈴村女子中學一年級生，個性開朗且大而化之，喜歡吃肉。年紀雖然較小，在輩分上卻是陽花的阿姨，但本人並沒有很在意這一點，跟陽花如同姐妹般要好。
   -
-    鈴村女子中學二年級生，個性冷靜，年紀雖然較長但卻是紫的姪女。
+    鈴村女子中學二年級生，個性冷靜，經常給予個性較為衝動的紫各種幫助。母親伊津村靜江（聲：）是紫的姐姐，因此在輩分上是紫的姪女。
 
 ### Stella maris
 
@@ -210,7 +210,7 @@
 
 ## 手機遊戲
 
-作品名稱為《Re:Stage！節奏舞步》（）。2017年7月31日在Android系統、8月5日在iOS系統發行，類型為思考型節奏動作遊戲\[17\]。2018年1月和《[輕鬆百合](../Page/輕鬆百合.md "wikilink")》進行合作活動\[18\]，2018年6月和《[幸運☆星](https://zh.wikipedia.org/wiki/幸運☆星 "wikilink")》進行合作活動\[19\]。
+作品名稱為《Re:Stage！節奏舞步》（）。2017年7月31日在Android系統、8月5日在iOS系統發行，類型為思考型節奏動作遊戲\[17\]。2018年1月和《[輕鬆百合](../Page/輕鬆百合.md "wikilink")》進行合作活動\[18\]，2018年6月和《[幸運☆星](../Page/幸運☆星.md "wikilink")》進行合作活動\[19\]。
 
 ## 電視動畫
 
@@ -218,11 +218,21 @@
 
 ### 製作人員
 
-  - 角色原案：[和泉Tsubasu](../Page/和泉Tsubasu.md "wikilink")
+  - 原作：Re:Stage！
   - 監督：片貝慎
-  - 系列構成：team yoree.
+  - 助監督：鹿谷拓史
+  - 系列構成：team yoree.（富田賴子、加茂靖子、浦畑達彥）
+  - 角色原案：[和泉Tsubasu](../Page/和泉Tsubasu.md "wikilink")
   - 角色設計：谷口元浩
+  - 美術監督：內藤健\[21\]
+  - 美術設定：大平司
+  - 道具設計：大谷道子
+  - 剪輯：須藤瞳
+  - 音響監督：[龜山俊樹](../Page/龜山俊樹.md "wikilink")\[22\]
+  - 音樂：KOHTA YAMAMOTO\[23\]
+  - 音樂製作：波麗佳音
   - 動畫製作：[夢太公司](https://zh.wikipedia.org/wiki/夢太公司 "wikilink")×[Graphinica](../Page/Graphinica.md "wikilink")
+  - 製作：Re:Stage！Dream Days♪製作委員會
 
 ### 主題曲
 
@@ -248,10 +258,22 @@
 
 :; 「CЯY」（第4話）
 
+:: 作詞：Soflan Daichi，作曲、編曲：伊藤翼，主唱：市杵島瑞葉（[田澤茉純](../Page/田澤茉純.md "wikilink")）、長谷川美依（空見雪）
+
+:; 「」（第5、7話）
+
+:: 作詞：高瀨愛虹，作曲、編曲：伊藤翼，主唱：KiRaRe
+
+:; 「Yes. We Are\!\!\!」（第6話）
+
+:: 作詞、作曲、編曲：，主唱：[ortensia](https://zh.wikipedia.org/wiki/#ortensia "wikilink")
+
+:; 「Purple Rays」（第6話）
+
   -
 
       -
-        作詞：Soflan Daichi，作曲、編曲：伊藤翼，主唱：市杵島瑞葉（[田澤茉純](../Page/田澤茉純.md "wikilink")）、長谷川美依（空見雪）
+        作詞、作曲、編曲：Hige Driver，主唱：ortensia
 
 ### 各話列表
 
@@ -259,7 +281,7 @@
 <thead>
 <tr class="header">
 <th><p>話數</p></th>
-<th><p>日文標題</p></th>
+<th><p>日文標題[24]</p></th>
 <th><p>中文標題</p></th>
 <th><p>劇本</p></th>
 <th><p>分鏡</p></th>
@@ -304,10 +326,59 @@
 <td><p>加茂靖子</p></td>
 <td><p>名取孝浩</p></td>
 <td><p>上田慎一郎</p></td>
-<td><p>手島典子、藪田裕希 &lt;!--|-</p></td>
+<td><p>手島典子、藪田裕希</p></td>
+</tr>
+<tr class="odd">
+<td><p>#05</p></td>
+<td></td>
+<td><p>梅子昆布茶飲隊</p></td>
+<td><p>浦畑達彥</p></td>
+<td><p>香川豐<br />
+片貝慎</p></td>
+<td><p>中村憲由</p></td>
+<td><p>江口麻里、北條裕之<br />
+鈴木彩乃、山口保則<br />
+東美帆、MOON HEE</p></td>
+</tr>
+<tr class="even">
+<td><p>#06</p></td>
+<td></td>
+<td><p>小紫是我的阿姨</p></td>
+<td><p>加茂靖子</p></td>
+<td><p>葛谷直行</p></td>
+<td><p>上原史也、辻村步<br />
+手島典子、齊藤香織</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>#07</p></td>
+<td></td>
+<td><p>雖然是學姐但似乎該讓她安靜一下了</p></td>
+<td><p>富田賴子</p></td>
+<td><p>中嶋清人<br />
+香川豐</p></td>
+<td><p>中嶋清人</p></td>
+<td><p>牛島希、鞠野黃英</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
+
+### BD／DVD
+
+| 卷數 | 發售日期\[25\]   | 收錄話數    | 規格編號       |
+| -- | ------------ | ------- | ---------- |
+| BD | DVD          |         |            |
+| 1  | 2019年9月25日預定 | 第1話－第3話 | PCXG-50691 |
+|    |              |         |            |
 
 ## 參考資料
 
@@ -323,22 +394,49 @@
 [Category:跨媒體製作](https://zh.wikipedia.org/wiki/Category:跨媒體製作 "wikilink") [Category:中學背景漫畫](https://zh.wikipedia.org/wiki/Category:中學背景漫畫 "wikilink") [Category:偶像漫畫](https://zh.wikipedia.org/wiki/Category:偶像漫畫 "wikilink") [Category:多摩地域背景作品](https://zh.wikipedia.org/wiki/Category:多摩地域背景作品 "wikilink") [Category:2017年電子遊戲](https://zh.wikipedia.org/wiki/Category:2017年電子遊戲 "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink") [Category:音樂遊戲](https://zh.wikipedia.org/wiki/Category:音樂遊戲 "wikilink") [Category:2019年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2019年日本電視動畫 "wikilink") [Category:偶像題材電子遊戲](https://zh.wikipedia.org/wiki/Category:偶像題材電子遊戲 "wikilink") [Category:偶像題材動畫](https://zh.wikipedia.org/wiki/Category:偶像題材動畫 "wikilink")
 
 1.
+
 2.
+
 3.
+
 4.
+
 5.
+
 6.
+
 7.
+
 8.
+
 9.
+
 10.
+
 11.
+
 12.
+
 13.
+
 14.
+
 15.
+
 16.
+
 17.
+
 18.
+
 19.
+
 20.
+
+21.
+
+22.
+23.
+24.
+
+25.

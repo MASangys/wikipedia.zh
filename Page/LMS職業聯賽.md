@@ -27,29 +27,152 @@ LMS職業聯賽於2015年採用個隊伍三循環BO1賽制，2016年採用各隊
 
 ## 現任主播、賽評及主持人
 
-主播：湯米(Tommy)、Rex、部分(Section)、考特(Scott)、KH
+主播：湯米(Tommy)、部分(Section)、考特(Scott)、Rex、Multy、JR
 
-賽評：Egg、Woody、 貝克(Backstairs)、ZOD、Cyo、Jwell
+賽評：Albis、MMD、Woody、ZOD、Cyo、Nash、Action
 
-主持人：JoJo、阿樂
+主持人：JoJo
 
 ## 隊伍排名
 
   - 前四名為當季季後賽排名。
 
-|                                            |                   |                                                                                 |                                                                       |                                                                                   |                                                                                 |                                                                                   |                                                                                       |                                                                           |                                                                               |
-| ------------------------------------------ | ----------------- | ------------------------------------------------------------------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| 年分                                         | 季度                | 冠軍                                                                              | 亞軍                                                                    | 季軍                                                                                | 殿軍                                                                              | 第五名                                                                               | 第六名                                                                                   | 第七名                                                                       | 第八名                                                                           |
-| 2015                                       | 春季                | [ahq e-Sports Club](https://zh.wikipedia.org/wiki/ahq_e-Sports_Club "wikilink") | | [yoe閃電狼](https://zh.wikipedia.org/wiki/yoe閃電狼 "wikilink")           | | [台北暗殺星](https://zh.wikipedia.org/wiki/台北暗殺星 "wikilink")                         | [Hong Kong Esports](https://zh.wikipedia.org/wiki/Hong_Kong_Esports "wikilink") | [Logitech G Snipers](https://zh.wikipedia.org/wiki/ahq "wikilink")                | [Midnight Sun Esports](https://zh.wikipedia.org/wiki/Midnight_Sun_Esports "wikilink") | [Never Give Up](https://zh.wikipedia.org/wiki/Never_Give_Up "wikilink")   | [Dream or Reality](https://zh.wikipedia.org/wiki/Dream_or_Reality "wikilink") |
-| 夏季                                         | ahq e-Sports Club | |Hong Kong Esports                                                              | |閃電狼                                                                  | | Midnight Sun Esports                                                            | 台北暗殺星                                                                           | [Machi E-Sports](https://zh.wikipedia.org/wiki/Machi_E-Sports "wikilink")         | [Assassin Sniper](https://zh.wikipedia.org/wiki/Assassin_Sniper "wikilink")           | [Logitech G Snipers](https://zh.wikipedia.org/wiki/ahq "wikilink")        |                                                                               |
-| [2016](../Page/2016_LMS職業聯賽.md "wikilink") | 春季                | 閃電狼                                                                             | ahq e-Sports Club                                                     | Machi E-Sports                                                                    | 台北暗殺星                                                                           | [Hong Kong Esports](https://zh.wikipedia.org/wiki/Hong_Kong_Esports "wikilink")   | Midnight Sun Esports                                                                  | [eXtreme Gamers](https://zh.wikipedia.org/wiki/eXtreme_Gamers "wikilink") | [Cougar E-Sport](https://zh.wikipedia.org/wiki/Cougar_E-Sport "wikilink")     |
-| 夏季                                         | 閃電狼               | [J Team](https://zh.wikipedia.org/wiki/J_Team "wikilink")                       | ahq e-Sports Club                                                     | Hong Kong Esports                                                                 | Midnight Sun Esports                                                            | Machi E-Sports                                                                    | eXtreme Gamers                                                                        | [Team Mist](https://zh.wikipedia.org/wiki/Team_Mist "wikilink")           |                                                                               |
-| [2017](../Page/2017_LMS職業聯賽.md "wikilink") | 春季                | 閃電狼                                                                             | ahq e-Sports Club                                                     | J Team                                                                            | Machi E-Sports                                                                  | Hong Kong Esports                                                                 | [Fireball](https://zh.wikipedia.org/wiki/Fireball "wikilink")                         | eXtreme Gamers                                                            | [華義Spider](https://zh.wikipedia.org/wiki/華義Spider "wikilink")                 |
-| 夏季                                         | 閃電狼               | ahq e-Sports Club                                                               | [Raise Gaming](https://zh.wikipedia.org/wiki/Raise_Gaming "wikilink") | J Team                                                                            | Machi E-Sports                                                                  | [Hong Kong Attitude](https://zh.wikipedia.org/wiki/Hong_Kong_Attitude "wikilink") | 華義Spider                                                                              | [Fireball](https://zh.wikipedia.org/wiki/Fireball "wikilink")             |                                                                               |
-| [2018](../Page/2018_LMS職業聯賽.md "wikilink") | 春季                | 閃電狼                                                                             | [G-Rex](../Page/G-Rex.md "wikilink")                                  | [MAD Team](https://zh.wikipedia.org/wiki/MAD_Team "wikilink")                     | Machi E-Sports                                                                  | J Team                                                                            | ahq e-Sports Club                                                                     | Hong Kong Attitude                                                        | [Team Afro](https://zh.wikipedia.org/wiki/Team_Afro "wikilink")               |
-| 夏季                                         | 閃電狼               | MAD Team                                                                        | J Team                                                                | [Hong Kong Attitude](https://zh.wikipedia.org/wiki/Hong_Kong_Attitude "wikilink") | G-Rex                                                                           | Machi E-Sports                                                                    | Team Afro                                                                             | ahq e-Sports Club                                                         |                                                                               |
-| [2019](../Page/2019_LMS職業聯賽.md "wikilink") | 春季                | 閃電狼                                                                             | MAD Team                                                              | ahq e-Sports Club                                                                 | CTBC J Team                                                                     | Hong Kong Attitude                                                                | G-Rex                                                                                 | [Alpha Esports](../Page/Alpha_Esports.md "wikilink")                      | [Dragon Gate Team](https://zh.wikipedia.org/wiki/Dragon_Gate_Team "wikilink") |
-| 夏季                                         |                   |                                                                                 |                                                                       |                                                                                   |                                                                                 |                                                                                   |                                                                                       |                                                                           |                                                                               |
+<table>
+<tbody>
+<tr class="odd">
+<td><p>年分</p></td>
+<td><p>季度</p></td>
+<td><p>冠軍</p></td>
+<td><p>亞軍</p></td>
+<td><p>季軍</p></td>
+<td><p>殿軍</p></td>
+<td><p>第五名</p></td>
+<td><p>第六名</p></td>
+<td><p>第七名</p></td>
+<td><p>第八名</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2015_LMS職業聯賽.md" title="wikilink">2015</a></p></td>
+<td><p>春季</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ahq_e-Sports_Club" title="wikilink">ahq e-Sports Club</a></p></td>
+<td><p>| <a href="https://zh.wikipedia.org/wiki/yoe閃電狼" title="wikilink">yoe閃電狼</a></p></td>
+<td><p>| <a href="https://zh.wikipedia.org/wiki/台北暗殺星" title="wikilink">台北暗殺星</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Hong_Kong_Esports" title="wikilink">Hong Kong Esports</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ahq" title="wikilink">Logitech G Snipers</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Midnight_Sun_Esports" title="wikilink">Midnight Sun Esports</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Never_Give_Up" title="wikilink">Never Give Up</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Dream_or_Reality" title="wikilink">Dream or Reality</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>夏季</p></td>
+<td><p>ahq e-Sports Club</p></td>
+<td><p>|Hong Kong Esports</p></td>
+<td><p>|閃電狼</p></td>
+<td><p>| Midnight Sun Esports</p></td>
+<td><p>台北暗殺星</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Machi_E-Sports" title="wikilink">Machi E-Sports</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Assassin_Sniper" title="wikilink">Assassin Sniper</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ahq" title="wikilink">Logitech G Snipers</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2016_LMS職業聯賽.md" title="wikilink">2016</a></p></td>
+<td><p>春季</p></td>
+<td><p>閃電狼</p></td>
+<td><p>ahq e-Sports Club</p></td>
+<td><p>Machi E-Sports</p></td>
+<td><p>台北暗殺星</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Hong_Kong_Esports" title="wikilink">Hong Kong Esports</a></p></td>
+<td><p>Midnight Sun Esports</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/eXtreme_Gamers" title="wikilink">eXtreme Gamers</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Cougar_E-Sport" title="wikilink">Cougar E-Sport</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>夏季</p></td>
+<td><p>閃電狼</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/J_Team" title="wikilink">J Team</a></p></td>
+<td><p>ahq e-Sports Club</p></td>
+<td><p>Hong Kong Esports</p></td>
+<td><p>Midnight Sun Esports</p></td>
+<td><p>Machi E-Sports</p></td>
+<td><p>eXtreme Gamers</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Team_Mist" title="wikilink">Team Mist</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2017_LMS職業聯賽.md" title="wikilink">2017</a></p></td>
+<td><p>春季</p></td>
+<td><p>閃電狼</p></td>
+<td><p>ahq e-Sports Club</p></td>
+<td><p>J Team</p></td>
+<td><p>Machi E-Sports</p></td>
+<td><p>Hong Kong Esports</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Fireball" title="wikilink">Fireball</a></p></td>
+<td><p>eXtreme Gamers</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/華義Spider" title="wikilink">華義Spider</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>夏季</p></td>
+<td><p>閃電狼</p></td>
+<td><p>ahq e-Sports Club</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Raise_Gaming" title="wikilink">Raise Gaming</a></p></td>
+<td><p>J Team</p></td>
+<td><p>Machi E-Sports</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Hong_Kong_Attitude" title="wikilink">Hong Kong Attitude</a></p></td>
+<td><p>華義Spider</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Fireball" title="wikilink">Fireball</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2018_LMS職業聯賽.md" title="wikilink">2018</a></p></td>
+<td><p>春季</p></td>
+<td><p>閃電狼</p></td>
+<td><p><a href="../Page/G-Rex.md" title="wikilink">G-Rex</a></p></td>
+<td><p><a href="../Page/MAD_Team.md" title="wikilink">MAD Team</a></p></td>
+<td><p>Machi E-Sports</p></td>
+<td><p>J Team</p></td>
+<td><p>ahq e-Sports Club</p></td>
+<td><p>Hong Kong Attitude</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Team_Afro" title="wikilink">Team Afro</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>夏季</p></td>
+<td><p>閃電狼</p></td>
+<td><p>MAD Team</p></td>
+<td><p>J Team</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Hong_Kong_Attitude" title="wikilink">Hong Kong Attitude</a></p></td>
+<td><p>G-Rex</p></td>
+<td><p>Machi E-Sports</p></td>
+<td><p>Team Afro</p></td>
+<td><p>ahq e-Sports Club</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2019_LMS職業聯賽.md" title="wikilink">2019</a></p></td>
+<td><p>春季</p></td>
+<td><p>閃電狼</p></td>
+<td><p>MAD Team</p></td>
+<td><p>ahq e-Sports Club</p></td>
+<td><p>CTBC J Team</p></td>
+<td><p>Hong Kong Attitude</p></td>
+<td><p>G-Rex</p></td>
+<td><p><a href="../Page/Alpha_Esports.md" title="wikilink">Alpha Esports</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Dragon_Gate_Team" title="wikilink">Dragon Gate Team</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>夏季</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>G-Rex</p></td>
+<td><p>閃電狼</p></td>
+<td><p>Alpha Esports</p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 獎項
 
@@ -69,7 +192,7 @@ LMS職業聯賽於2015年採用個隊伍三循環BO1賽制，2016年採用各隊
 | 夏季   |             |              |               |               |              |              |
 |      |             |              |               |               |              |              |
 
-### 第二隊 Second team
+### 第二隊 Second Team
 
 |      |            |            |             |              |             |              |
 | ---- | ---------- | ---------- | ----------- | ------------ | ----------- | ------------ |
@@ -77,9 +200,10 @@ LMS職業聯賽於2015年採用個隊伍三循環BO1賽制，2016年採用各隊
 | 2018 | 春季         | 3z（M17）    | baybay（GRX） | Wuji（GRX）    | Stitch（GRX） | SwordArT（FW） |
 | 夏季   | Hanabi（FW） | Moojin（FW） | Uniboy（MAD） | Unified（HKA） | K（MAD）      |              |
 | 2019 | 春季         | Hanabi（FW） | Alex（ahq）   | Uniboy（MAD）  | Bruce（GRX）  | Ysera（ahq）   |
+| 夏季   |            |            |             |              |             |              |
 |      |            |            |             |              |             |              |
 
-### 第三隊 The third team
+### 第三隊 Third Team
 
 |      |         |                     |               |              |              |           |
 | ---- | ------- | ------------------- | ------------- | ------------ | ------------ | --------- |
@@ -87,6 +211,7 @@ LMS職業聯賽於2015年採用個隊伍三循環BO1賽制，2016年採用各隊
 | 2018 | 春季      | Hanabi（FW） Rest（JT） | Mountain（ahq） | Apex（M17）    | DeuL（M17）    | K（MAD）    |
 | 夏季   | MMD（FW） | Gemini（HKA）         | cyeol（HKA）    | DeuL（M17）    | Kaiwing（HKA） |           |
 | 2019 | 春季      | Ziv（ahq）            | Crash（HKA）    | Rainbow（ahq） | Xiaoemo（ALF） | Koala（JT） |
+| 夏季   |         |                     |               |              |              |           |
 |      |         |                     |               |              |              |           |
 
 ### 最具價值選手 Most Valuable Player
@@ -160,14 +285,14 @@ LMS職業聯賽於2015年採用個隊伍三循環BO1賽制，2016年採用各隊
 
 ### 年度最佳進步戰隊 Most Improved Team of the Year
 
-|      |                    |             |                    |
-| ---- | ------------------ | ----------- | ------------------ |
-| 年分   | 第一名                | 第二名         | 第三名                |
-| 2016 | Machi E-Sports     | J Team      | Flash Wolves       |
-| 2017 | Hong Kong Attitude | Wayi Spider | Machi E-Sports     |
-| 2018 | MAD Team           | J Team      | Hong Kong Attitude |
-| 2019 |                    |             |                    |
-|      |                    |             |                    |
+|      |                    |                   |                    |
+| ---- | ------------------ | ----------------- | ------------------ |
+| 年分   | 第一名                | 第二名               | 第三名                |
+| 2016 | Machi E-Sports     | J Team            | Flash Wolves       |
+| 2017 | Hong Kong Attitude | Wayi Spider       | Machi E-Sports     |
+| 2018 | MAD Team           | J Team            | Hong Kong Attitude |
+| 2019 | J Team             | ahq e-Sports Club | Hong Kong Attitude |
+|      |                    |                   |                    |
 
 ## 其他
 

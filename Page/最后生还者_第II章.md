@@ -4,7 +4,7 @@
 
 《最后生还者 第II章》从2014年起开发，[动作捕捉](../Page/动作捕捉.md "wikilink")部分从2017年起进行。[特羅伊·貝克](../Page/特羅伊·貝克.md "wikilink")和[Ashley Johnson继续为喬爾和艾莉配音](https://zh.wikipedia.org/wiki/Ashley_Johnson "wikilink")。[尼尔·德鲁克曼与Halley](https://zh.wikipedia.org/wiki/尼尔·德鲁克曼 "wikilink") Gross担任游戏编剧\[1\]\[2\]。[古斯塔沃·桑塔歐拉拉](../Page/古斯塔沃·桑塔歐拉拉.md "wikilink")继续担当作曲配乐\[3\]。《最后生还者》共同总监[布鲁斯·斯特拉利](../Page/布鲁斯·斯特拉利.md "wikilink")因离开公司，不再监督游戏制作\[4\]\[5\]。
 
-官方在2016年12月的[PlayStation Experience上首次公开游戏](https://zh.wikipedia.org/wiki/PlayStation_Experience "wikilink")，并宣布该作为2013年《最后生还者》的续篇\[6\]\[7\]。首各预告片公布游戏设定于前作5年后，艾莉和乔尔会继续登场，玩家将控制艾莉。德鲁克曼称本作的主题不再是前作的爱，而是围绕着恨展开\[8\]。
+官方在2016年12月的[PlayStation Experience上首次公开游戏](https://zh.wikipedia.org/wiki/PlayStation_Experience "wikilink")，并宣布该作为2013年《最后生还者》的续篇\[6\]\[7\]。首个预告片公布游戏设定于前作5年后，艾莉和乔尔会继续登场，玩家将控制艾莉。德鲁克曼称本作的主题不再是前作的爱，而是围绕着恨展开\[8\]。
 
 ## 评价
 

@@ -70,7 +70,7 @@
 <tr class="even">
 <td><p>2014年</p></td>
 <td><p>3月20日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a>《Mimi》</p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a>《Mimi》</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=xDMLANstgGI">只能在悲傷中將你抹去</a><br />
 （슬픔 속에 그댈 지워야만 해）</p></td>
 <td></td>
@@ -201,6 +201,31 @@
 </tbody>
 </table>
 
+### 創作作品
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>日期</strong></p></td>
+<td><p><strong>歌曲</strong></p></td>
+<td><p><strong>歌手</strong></p></td>
+<td><p><strong>填詞</strong></p></td>
+<td><p><strong>作曲</strong></p></td>
+<td><p><strong>專輯</strong></p></td>
+<td><p><em>' 備註</em>'</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年4月5日</p></td>
+<td><p>Close To Me (Red Velvet Remix)</p></td>
+<td><p>Ellie Goulding, Diplo &amp; Red Velvet</p></td>
+<td></td>
+<td></td>
+<td><p>Close To Me (Red Velvet Remix)</p></td>
+<td><p>首次為所屬團體Red Velvet歌曲填詞，和成員Yeri一起填词</p></td>
+</tr>
+</tbody>
+</table>
+
 ### 其他歌曲
 
 <table>
@@ -217,7 +242,7 @@
 <td><p>2014</p></td>
 <td><p>Cover</p></td>
 <td><p>10月10日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a>《EXO 90:2014》</p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a>《EXO 90:2014》</p></td>
 <td><p>With You （原唱：）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/姜瑟琪" title="wikilink">Seulgi</a></p></td>
 </tr>
@@ -415,7 +440,7 @@
 <tr class="even">
 <td><p>2017年</p></td>
 <td><p>2月16日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a> 《<a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a>》</p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a> 《<a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a>》</p></td>
 <td><p>SEULGI、<a href="../Page/NCT.md" title="wikilink">在玹</a>（<a href="https://zh.wikipedia.org/wiki/NCT_127" title="wikilink">NCT 127</a>）</p></td>
 <td><p>特別MC</p></td>
 </tr>
@@ -563,6 +588,11 @@
 <td><p>SKECHERS D'Lites 2 Sweet Monster</p></td>
 <td><p><a href="../Page/瑟琪.md" title="wikilink">Seulgi</a>、<a href="../Page/Joy_(Red_Velvet).md" title="wikilink">Joy</a>、<a href="../Page/Yeri.md" title="wikilink">Yeri</a><br />
 <a href="../Page/EXO.md" title="wikilink">EXO</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>2018年─至今</p></td>
+<td><p>兩班即食粥</p></td>
+<td><p><a href="../Page/Irene_(Red_Velvet).md" title="wikilink">Irene (Red Velvet)</a></p></td>
 </tr>
 </tbody>
 </table>

@@ -608,7 +608,7 @@
 <td><p>SEVENTEEN TV Season 5</p></td>
 <td><p>6</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/徐明浩" title="wikilink">The 8加入</a>；<br />
-姚明明、<a href="https://zh.wikipedia.org/wiki/張道允" title="wikilink">張道允</a>、申東振退出[18]</p></td>
+姚明明、張道允、申東振退出[18]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1047,6 +1047,7 @@ V LIVE</p></td>
 | 5月31日           |
 | 6月2日            |
 | 6月22日-6月29日     |
+| 8月10日           |
 
 ## 電台節目
 

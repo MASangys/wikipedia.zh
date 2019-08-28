@@ -1853,12 +1853,57 @@
 <td style="text-align: center;"><p><a href="../Page/死的讚美.md" title="wikilink">死的讚美</a><br />
 </p></td>
 <td style="text-align: center;"><p>6</p></td>
-<td style="text-align: center;"><p><small><a href="../Page/李鍾碩.md" title="wikilink">李鍾碩</a>、<a href="../Page/申惠善.md" title="wikilink">申惠善</a>、<a href="https://zh.wikipedia.org/wiki/李知勳_(演員)" title="wikilink">李知勳</a>、<a href="../Page/李相燁.md" title="wikilink">李相燁</a></small></p></td>
+<td style="text-align: center;"><p><small><a href="../Page/李鍾碩.md" title="wikilink">李鍾碩</a>、<a href="../Page/申惠善.md" title="wikilink">申惠善</a>、<a href="../Page/李知勳_(1988年).md" title="wikilink">李知勳</a>、<a href="../Page/李相燁.md" title="wikilink">李相燁</a></small></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/朴秀真_(導演)" title="wikilink">朴秀真</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/曹秀真" title="wikilink">曹秀真</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+</tbody>
+</table>
+
+#### 2019年
+
+<table style="width:301%;">
+<colgroup>
+<col style="width: 76%" />
+<col style="width: 9%" />
+<col style="width: 19%" />
+<col style="width: 16%" />
+<col style="width: 47%" />
+<col style="width: 47%" />
+<col style="width: 85%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"><p><strong>播放日期</strong></p></td>
+<td style="text-align: center;"><p><strong>電視劇集名稱</strong></p></td>
+<td style="text-align: center;"><p><strong>集數</strong></p></td>
+<td style="text-align: center;"><p><strong>主演</strong></p></td>
+<td style="text-align: center;"><p><strong>導演</strong></p></td>
+<td style="text-align: center;"><p><strong>編劇</strong></p></td>
+<td style="text-align: center;"><p><strong>備註</strong></p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>2019年8月5日－<br />
+2019年8月6日</p></td>
+<td style="text-align: center;"><p><a href="../Page/17歲的條件.md" title="wikilink">17歲的條件</a><br />
+</p></td>
+<td style="text-align: center;"><p>2</p></td>
+<td style="text-align: center;"><p><small><a href="../Page/尹燦榮.md" title="wikilink">尹燦榮</a>、<a href="../Page/朴蒔恩.md" title="wikilink">朴蒔恩</a>、<a href="../Page/徐正妍.md" title="wikilink">徐正妍</a>、<a href="../Page/白承煥.md" title="wikilink">白承煥</a></small></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/趙榮民" title="wikilink">趙榮民</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/柳寶利" title="wikilink">柳寶利</a></p></td>
+<td style="text-align: center;"><p>月火特輯電視劇</p></td>
+</tr>
+<tr class="odd">
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>

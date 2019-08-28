@@ -120,7 +120,8 @@
 <tr class="odd">
 <td><p>地區</p></td>
 <td><p>榜單</p></td>
-<td><p>類型</p></td>
+<td><p>〈특별해（SOMETHING SPECIAL）〉<br />
+最高位置</p></td>
 <td><p>參考資料</p></td>
 </tr>
 <tr class="even">

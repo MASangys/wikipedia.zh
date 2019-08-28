@@ -61,7 +61,11 @@ The Parkside的廣告宣傳「A Brighter Living」為主題。廣告於[日本](
 
 <!-- end list -->
 
-  - 鄰近將軍澳廣場/富康花園
+  - 唐俊街/至善街/唐賢街
+
+<!-- end list -->
+
+  - 屋苑周邊
 
 <!-- end list -->
 

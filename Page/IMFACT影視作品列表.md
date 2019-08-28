@@ -142,7 +142,7 @@
 </tr>
 <tr class="odd">
 <td><p>3月2日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/看見你的聲音" title="wikilink">看見你的聲音第四季</a></p></td>
 <td><p>神秘歌手[1]</p></td>
 <td></td>

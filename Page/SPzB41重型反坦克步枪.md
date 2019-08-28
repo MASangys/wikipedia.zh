@@ -10,9 +10,9 @@
 
 sPzB 41也曾被安裝到載具上如
 
-  - [Sd.Kfz。221](https://zh.wikipedia.org/wiki/Sd.Kfz。221 "wikilink")
-  - [Sd.Kfz。250/11](https://zh.wikipedia.org/wiki/Sd.Kfz。250/11 "wikilink")
-  - [Sd.Kfz。251](https://zh.wikipedia.org/wiki/Sd.Kfz。251 "wikilink")
+  - [Sd.Kfz.221](../Page/輕型裝甲偵查車.md "wikilink")
+  - [Sd.Kfz.250/11](https://zh.wikipedia.org/wiki/Sd.Kfz._250半履帶車 "wikilink")
+  - [Sd.Kfz.251](https://zh.wikipedia.org/wiki/SdKfz_251 "wikilink")
   - [Horch 901](https://zh.wikipedia.org/wiki/Horch_901 "wikilink")
   - [Horch Typ 40 (Kfz. 15)](https://zh.wikipedia.org/wiki/Horch_Typ_40_\(Kfz._15\) "wikilink")
 

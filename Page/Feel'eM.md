@@ -4,7 +4,7 @@
 
 2017年2月20日，公開專輯名稱「Feel'eM」及發行日期 \[4\]。2月21日，發布專輯回歸日程 \[5\]。
 
-2月24日，公開專輯先行曲《SOMEDAY》 \[6\]\[7\]，由成員[炫植作曲填詞編曲](https://zh.wikipedia.org/wiki/炫植 "wikilink")，[旼赫](https://zh.wikipedia.org/wiki/旼赫 "wikilink")、[Peniel](https://zh.wikipedia.org/wiki/Peniel "wikilink")、[鎰勳參與Rap填詞](https://zh.wikipedia.org/wiki/鎰勳 "wikilink")，歌曲表達即使後悔也不變的初心，雖然在不確定的未來中充滿了未知，但堅信彼此一定會在變得更好的時候再次相遇的決心，展現了Vocal感性懇切的歌聲和強烈不失情感的Rap的完美融合；公開後空降[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink")、Melon、[Genie](https://zh.wikipedia.org/wiki/Genie "wikilink")、[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")、Money3 1位、Olleh 2位、Bugs 5位。
+2月24日，公開專輯先行曲《SOMEDAY》 \[6\]\[7\]，由成員[炫植作曲填詞編曲](https://zh.wikipedia.org/wiki/炫植 "wikilink")，[旼赫](https://zh.wikipedia.org/wiki/旼赫 "wikilink")、[Peniel](https://zh.wikipedia.org/wiki/Peniel "wikilink")、[鎰勳參與Rap填詞](https://zh.wikipedia.org/wiki/鎰勳 "wikilink")，歌曲表達即使後悔也不變的初心，雖然在不確定的未來中充滿了未知，但堅信彼此一定會在變得更好的時候再次相遇的決心，展現了Vocal感性懇切的歌聲和強烈不失情感的Rap的完美融合；公開後空降[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink")、Melon、[Genie](https://zh.wikipedia.org/wiki/Genie "wikilink")、[Mnet](../Page/Mnet.md "wikilink")、Money3 1位、Olleh 2位、Bugs 5位。
 
 2月26日，公開 A Piece of Concept 概念照 \[8\] 。2月27日，公開第一波團體及七名成員概念照 \[9\]。2月28日，公開Track List \[10\]。3月2日，公開Album Preview \[11\]。3月3日，公開第二波成員概念照 \[12\] 和 7 Story Films \[13\]。3月5日，發佈主打曲M/V Teaser \[14\]。3月6日，18:00PM發布專輯完整曲目及主打曲完整版M/V \[15\]\[16\]，專輯概念為成員鎰勳在英國倫敦旅行之後所提出 \[17\]。
 
@@ -62,7 +62,7 @@
 | 電視台                                                       |
 | colspan=6 style="background:\#9be6ff | 언젠가 (SOMEDAY)      |
 | [MBC Music](../Page/MBC_Plus_Media.md "wikilink")         |
-| [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")     |
+| [Mnet](../Page/Mnet.md "wikilink")                        |
 | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")       |
 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")       |
 | colspan=6 style="background:\#9be6ff | MOVIE              |
@@ -70,7 +70,7 @@
 | 3月15日                                                     |
 | 3月22日                                                     |
 | 最高名次：                                                     |
-| [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")     |
+| [Mnet](../Page/Mnet.md "wikilink")                        |
 | 3月16日                                                     |
 | 3月23日                                                     |
 | 最高名次：                                                     |
@@ -175,7 +175,7 @@
 | MOVIE                                                   | SOMEDAY |
 | 實時榜                                                     |         |
 | [MelOn](../Page/Kakao_M.md "wikilink")                  | **1**   |
-| [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")   | **1**   |
+| [Mnet](../Page/Mnet.md "wikilink")                      | **1**   |
 | Bugs                                                    | **1**   |
 | Olleh                                                   | **1**   |
 | Soribada                                                | **1**   |

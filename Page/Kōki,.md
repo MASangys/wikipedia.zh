@@ -6,7 +6,7 @@
 
 ## 人物
 
-  - 就读于日本東京都內的[英國国际学校](https://en.wikipedia.org/wiki/The_British_School_in_Tokyo)，通曉[英语](../Page/英语.md "wikilink")，目前也在学习[法语](../Page/法语.md "wikilink")。\[6\]
+  - 就读于東京都内的英國国际学校，通曉[英语](../Page/英语.md "wikilink")，目前也在学习[法语](../Page/法语.md "wikilink")與[西班牙语](../Page/西班牙语.md "wikilink")。\[6\]
   - 具有音乐才能，長於[钢琴](../Page/钢琴.md "wikilink")与[长笛](../Page/长笛.md "wikilink")的演奏。小學時曾獲得第23届青少年长笛大赛小学生组的優秀賞。\[7\]也能作曲，2017年为其母亲[工藤静香专辑](https://zh.wikipedia.org/wiki/工藤静香 "wikilink")《》提供了三首曲子，同时也为[中岛美嘉提供曲子](https://zh.wikipedia.org/wiki/中岛美嘉 "wikilink")。\[8\]
 
 ## 演出作品

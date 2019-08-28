@@ -47,10 +47,16 @@ Sayuri讀幼兒園的時候，电视上播放的《[珍珠美人鱼](https://zh.
 #### 2018年
 
 2月28日、發行第六首個人單曲「月と花束」。該曲也做為電視動畫《[Fate/EXTRA](https://zh.wikipedia.org/wiki/Fate/EXTRA "wikilink")》的片尾曲\[17\]\[18\]。
+10月6日、首次在台灣舉辦個人LIVE「SAYURI TOUR 2018 in TAIWAN」。\[19\]
+12月5日、和日本搖滾樂團[MY FIRST STORY合作發行單曲](https://zh.wikipedia.org/wiki/MY_FIRST_STORY "wikilink")「レイメイ」。該曲作為電視動畫《[黃金神威](../Page/黃金神威.md "wikilink")》第二期片頭曲。\[20\]
+
+#### 2019年
+
+3月6日、參與了知名作曲家[澤野弘之新專輯](https://zh.wikipedia.org/wiki/澤野弘之 "wikilink")「R∃/MEMBER」中的Track8 《ME & CREED<nZkv>》，為重新編曲版本。
 
 ## 個性
 
-升上高中後的Sayuri開始變得不擅長與他人相處，漸漸覺得自己跟世界失去了聯繫，之後便一直帶著這份痛苦到窒息的心情演唱著，所以取名為「酸欠少女」（日文的酸欠為缺氧的意思）。將彈吉他視為自己與他人交流的方式\[19\]。
+升上高中後的Sayuri開始變得不擅長與他人相處，漸漸覺得自己跟世界失去了聯繫，之後便一直帶著這份痛苦到窒息的心情演唱著，所以取名為「酸欠少女」（日文的酸欠為缺氧的意思）。將彈吉他視為自己與他人交流的方式\[21\]。
 
 さユり(Sayuri)是由平假名的[さ和](https://zh.wikipedia.org/wiki/さ "wikilink")[り還有片假名的](https://zh.wikipedia.org/wiki/り "wikilink")[ユ所組成](https://zh.wikipedia.org/wiki/ユ "wikilink")，并与形象设计师YKBX设计了三個不同性格的自己，分別存在於二次元、三次元與平行世界之中，创造出2.5次元平行世界的創作型歌手。
 
@@ -85,7 +91,7 @@ CD（通常版）</p></td>
 <td><p>BVCL-669（初回生產限定盤）<br />
 BVCL-672/3（期間生產限定動畫盤）<br />
 BVCL-671（通常版）</p></td>
-<td><p>20位[20]</p></td>
+<td><p>20位[22]</p></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
@@ -97,7 +103,7 @@ CD（通常版）</p></td>
 BVCL-698/9（初回生產限定盤B）<br />
 BVCL-700（通常版）<br />
 BVCL-701/2（期間生產限定盤）</p></td>
-<td><p>17位[21]</p></td>
+<td><p>17位[23]</p></td>
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
@@ -116,7 +122,7 @@ CD（通常版）</p></td>
 <td><p>BVCL-763/4（初回生產限定盤 A）<br />
 BVCL-765/6（初回生產限定盤 B）<br />
 BVCL-767（通常盤）</p></td>
-<td><p>17位[22]</p></td>
+<td><p>17位[24]</p></td>
 </tr>
 <tr class="odd">
 <td><p>5th</p></td>
@@ -127,7 +133,7 @@ CD（通常盤）</p></td>
 <td><p>BVCL-780/1（初回生產限定盤）<br />
 BVCL-783/4（期間生產限定盤）<br />
 BVCL-782（通常盤）</p></td>
-<td><p>10位[23]</p></td>
+<td><p>10位[25]</p></td>
 </tr>
 <tr class="even">
 <td><p>6th</p></td>
@@ -138,12 +144,23 @@ CD（通常盤）</p></td>
 <td><p>BVCL-857/8（初回生產限定盤）<br />
 BVCL-860/1（期間生產限定盤）<br />
 BVCL-859（通常盤）</p></td>
-<td><p>10位[24]</p></td>
+<td><p>10位[26]</p></td>
+</tr>
+<tr class="odd">
+<td><p>7th</p></td>
+<td><p>2018年12月5日</p></td>
+<td><p><strong>レイメイ</strong></p></td>
+<td><p>CD＋DVD（初回生產限定盤・期間生產限定盤）<br />
+CD（通常盤）</p></td>
+<td><p>BVCL-923/4（初回生産限定盤） BVCL-926/7（期間生産限定盤）</p>
+<p>BVCL-925（通常盤）</p></td>
+<td><p>7位[27]</p></td>
 </tr>
 </tbody>
 </table>
 
-### 專輯
+
+\=== 專輯 ===
 
 <table>
 <thead>
@@ -206,12 +223,17 @@ BVCL-795（通常盤）</p></td>
 </tr>
 <tr class="even">
 <td><p>平行線</p></td>
-<td><p>電視動畫、電視劇《<a href="https://zh.wikipedia.org/wiki/人渣的本願" title="wikilink">人渣的本願</a>》片尾曲[25]</p></td>
+<td><p>電視動畫、電視劇《<a href="https://zh.wikipedia.org/wiki/人渣的本願" title="wikilink">人渣的本願</a>》片尾曲[28]</p></td>
 <td><p>2017年</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>電視動畫《<a href="https://zh.wikipedia.org/wiki/Fate/EXTRA" title="wikilink">Fate/EXTRA Last Encore</a>》片尾曲</p></td>
+<td><p>2018年</p></td>
+</tr>
+<tr class="even">
+<td><p>レイメイ</p></td>
+<td><p>電視動畫《<a href="../Page/黃金神威.md" title="wikilink">黃金神威</a>》第二期片頭曲</p></td>
 <td><p>2018年</p></td>
 </tr>
 </tbody>
@@ -239,7 +261,7 @@ BVCL-795（通常盤）</p></td>
 | 夜明けのパラレル実験室 〜男子会編〜 supported by 2.5D×KAI-YOU    | 11月17日                                              |        |
 | 夜明けのパラレル実験室 〜女子会編〜 supported by 2.5D×KAI-YOU    | 11月25日                                              |        |
 | 夜明けのパラレル実験室 supported by 2.5D×KAI-YOU           | 12月23日                                              |        |
-| 2016年                                           | 夜明けのパラレル実験室 〜僕街編〜 supported by 2.5D × KAI-YOU\[26\] | 2月24日  |
+| 2016年                                           | 夜明けのパラレル実験室 〜僕街編〜 supported by 2.5D × KAI-YOU\[29\] | 2月24日  |
 | 夜明けのパラレル実験室 in新宿 〜ここに宣戦布告編〜                     | 11月3日                                               |        |
 | 2017年                                           | 夜明けのパラレル実験室2017 〜それぞれの空白編『　　　　　　　』〜                 | 11月24日 |
 |                                                 |                                                     |        |
@@ -347,4 +369,10 @@ BVCL-795（通常盤）</p></td>
 
 25.
 
-26.  Peatix|publisher=Peatix|accessdate=2016-02-24}}
+26.
+
+27.  さユり×MY FIRST STORY|url=[https://www.oricon.co.jp/prof/731570/products/1296804/1/|accessdate=2019-08-04|work=ORICON](https://www.oricon.co.jp/prof/731570/products/1296804/1/%7Caccessdate=2019-08-04%7Cwork=ORICON) NEWS}}
+
+28.
+
+29.  Peatix|publisher=Peatix|accessdate=2016-02-24}}

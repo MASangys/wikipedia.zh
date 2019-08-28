@@ -41,13 +41,13 @@
 
 ### 其他歌曲
 
-|             |                                     |                                                                             |         |                                                                                                                                                                               |                                                  |
-| ----------- | ----------------------------------- | --------------------------------------------------------------------------- | ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| 發行日期        | 形式                                  | 專輯名稱                                                                        | 歌曲名稱    | 參與成員                                                                                                                                                                          | 合作藝人                                             |
-| 2015年12月17日 | 數位單曲                                | 《PRODUCE 101 - PICK ME》                                                     | PICK ME | 昭希、彩暻                                                                                                                                                                         | [PRODUCE 101](../Page/PRODUCE_101.md "wikilink") |
-| 2016年3月19日  | 《PRODUCE 101 - 35 Girls 5 Concepts》 | 같은 곳에서                                                                      | 昭希、彩暻   | 姜詩羅、[韓慧利](https://zh.wikipedia.org/wiki/韓慧利 "wikilink")、[金素慧](../Page/金素慧.md "wikilink")、[俞璉靜](https://zh.wikipedia.org/wiki/俞璉靜 "wikilink")、[金度延](../Page/金度延.md "wikilink") |                                                  |
-| 2016年6月1日   | 시계                                  | 시계 (with. [APRIL](https://zh.wikipedia.org/wiki/APRIL_\(女子團體\) "wikilink")) | 彩暻      | [APRIL](https://zh.wikipedia.org/wiki/APRIL_\(女子團體\) "wikilink")                                                                                                              |                                                  |
-| 2016年8月18日  | MOLAE MOLAE                         | MOLAE MOLAE                                                                 | 昭希、彩暻   | 李海仁、李秀炫、[韓慧利](https://zh.wikipedia.org/wiki/韓慧利 "wikilink")                                                                                                                   |                                                  |
+|             |                                     |                                                          |         |                                                                                                                                                                               |                                                  |
+| ----------- | ----------------------------------- | -------------------------------------------------------- | ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
+| 發行日期        | 形式                                  | 專輯名稱                                                     | 歌曲名稱    | 參與成員                                                                                                                                                                          | 合作藝人                                             |
+| 2015年12月17日 | 數位單曲                                | 《PRODUCE 101 - PICK ME》                                  | PICK ME | 昭希、彩暻                                                                                                                                                                         | [PRODUCE 101](../Page/PRODUCE_101.md "wikilink") |
+| 2016年3月19日  | 《PRODUCE 101 - 35 Girls 5 Concepts》 | 같은 곳에서                                                   | 昭希、彩暻   | 姜詩羅、[韓慧利](https://zh.wikipedia.org/wiki/韓慧利 "wikilink")、[金素慧](../Page/金素慧.md "wikilink")、[俞璉靜](https://zh.wikipedia.org/wiki/俞璉靜 "wikilink")、[金度延](../Page/金度延.md "wikilink") |                                                  |
+| 2016年6月1日   | 시계                                  | 시계 (with. [APRIL](../Page/APRIL_\(女子團體\).md "wikilink")) | 彩暻      | [APRIL](../Page/APRIL_\(女子團體\).md "wikilink")                                                                                                                                 |                                                  |
+| 2016年8月18日  | MOLAE MOLAE                         | MOLAE MOLAE                                              | 昭希、彩暻   | 李海仁、李秀炫、[韓慧利](https://zh.wikipedia.org/wiki/韓慧利 "wikilink")                                                                                                                   |                                                  |
 
 ## 影音作品
 
@@ -81,7 +81,7 @@
 </tr>
 <tr class="even">
 <td><p>2016年1月22日－4月1日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>《<a href="../Page/PRODUCE_101.md" title="wikilink">PRODUCE 101</a>》</p></td>
 <td><p>昭希</p></td>
 <td><p>最終排名：15</p></td>
@@ -124,7 +124,7 @@ tagTV</p></td>
 </tr>
 <tr class="even">
 <td><p>2016年7月15日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>《連線好朋友 I.O.I》</p></td>
 <td><p>昭希</p></td>
 <td></td>

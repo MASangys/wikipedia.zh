@@ -171,7 +171,7 @@
 
 ## 外部連結
 
-  - [ALICESOFT](https://web.archive.org/web/20060827120749/http://www.alicesoft.com/)限日本地區瀏覽
+  - [官方網站](https://www.alicesoft.com/galzoo/index.html)
 
 [Category:2005年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2005年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink") [Category:怪物題材作品](https://zh.wikipedia.org/wiki/Category:怪物題材作品 "wikilink") [Category:妖怪題材電子遊戲](https://zh.wikipedia.org/wiki/Category:妖怪題材電子遊戲 "wikilink")
 

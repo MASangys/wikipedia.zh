@@ -25,7 +25,7 @@
 
   -
   -
-  - [青春歌舞伎](https://zh.wikipedia.org/wiki/青春歌舞伎 "wikilink")－2017年4月首播的電視動畫。播出時使用的是翻唱版，並當作片尾主題曲使用。
+  - [青春歌舞伎](../Page/青春歌舞伎.md "wikilink")－2017年4月首播的電視動畫。播出時使用的是翻唱版，並當作片尾主題曲使用。
 
 [Category:1990年單曲](https://zh.wikipedia.org/wiki/Category:1990年單曲 "wikilink") [Category:TBS動畫主題曲](https://zh.wikipedia.org/wiki/Category:TBS動畫主題曲 "wikilink") [Category:翻唱歌曲](https://zh.wikipedia.org/wiki/Category:翻唱歌曲 "wikilink")
 

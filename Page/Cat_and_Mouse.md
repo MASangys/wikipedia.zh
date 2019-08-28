@@ -1,4 +1,4 @@
-《**Cat and Mouse**》是[臺灣](../Page/臺灣.md "wikilink")女子團體[BY2的第七張錄音室專輯和第七個音樂作品](https://zh.wikipedia.org/wiki/BY2 "wikilink")\[1\]，已於2015年8月7日正式發行\[2\]。
+《**Cat and Mouse**》是[臺灣](../Page/臺灣.md "wikilink")女子團體[BY2的第六張錄音室專輯和第七個音樂作品](https://zh.wikipedia.org/wiki/BY2 "wikilink")\[1\]，於2015年7月28日正式發行\[2\]。
 
 ## 曲目
 
@@ -109,13 +109,13 @@ Yumi</p></td>
 
 ## 音樂錄影帶
 
-| 歌名                                                           | 導演                                                  |
-| ------------------------------------------------------------ | --------------------------------------------------- |
-| [CAT and MOUSE](https://www.youtube.com/watch?v=l5V7Blmpd2A) | [黃中平](../Page/黃中平.md "wikilink")                    |
-| [當時的我們](https://www.youtube.com/watch?v=VxK5S5NOAjc)         | [黃中平](../Page/黃中平.md "wikilink")                    |
-| [愛我就大聲說](https://www.youtube.com/watch?v=xJoS6yHWNiM)        | [黃子然](https://zh.wikipedia.org/wiki/黃子然 "wikilink") |
-| [溫柔最痛](https://www.youtube.com/watch?v=vEe1_2ieou4)          | 黃子然                                                 |
-| [你沒愛過我](https://www.youtube.com/watch?v=6v_Y0JOIHbQ)         | [黃中平](../Page/黃中平.md "wikilink")                    |
+| 歌名                                                           | 導演                               |
+| ------------------------------------------------------------ | -------------------------------- |
+| [Cat and Mouse](https://www.youtube.com/watch?v=l5V7Blmpd2A) | [黃中平](../Page/黃中平.md "wikilink") |
+| [當時的我們](https://www.youtube.com/watch?v=VxK5S5NOAjc)         | 黃中平                              |
+| [愛我就大聲說](https://www.youtube.com/watch?v=xJoS6yHWNiM)        | 黃子然                              |
+| [溫柔最痛](https://www.youtube.com/watch?v=vEe1_2ieou4)          | 黃子然                              |
+| [你沒愛過我](https://www.youtube.com/watch?v=6v_Y0JOIHbQ)         | 黃中平                              |
 
 ## 參考文獻
 

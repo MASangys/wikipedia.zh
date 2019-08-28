@@ -52,7 +52,7 @@
 
 | 年份    | 日期    | 電視台                                                     | 節目名稱                                                                   | 獲獎歌曲     | 排名 |
 | ----- | ----- | ------------------------------------------------------- | ---------------------------------------------------------------------- | -------- | -- |
-| 2016年 | 8月11日 | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")   | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | 如何？(어때？) | 1位 |
+| 2016年 | 8月11日 | [Mnet](../Page/Mnet.md "wikilink")                      | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | 如何？(어때？) | 1位 |
 | 2016年 | 8月14日 | [SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink") | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  | 如何？(어때？) | 1位 |
 |       |       |                                                         |                                                                        |          |    |
 

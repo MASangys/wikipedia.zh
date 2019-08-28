@@ -26,7 +26,7 @@ B.I輸了出道生存節目《[WIN](../Page/WIN.md "wikilink")》後，體悟到
 
 同年的5月18日，B.I和[BOBBY參加韓國大型RAP比賽](https://zh.wikipedia.org/wiki/BOBBY "wikilink")《[Show Me The Money 3](../Page/Show_Me_The_Money_3.md "wikilink")》。B.I共有三次忘詞，分別在第一輪海選(忘記後改以Freestyle現場發揮)、第三輪1 VS 1、第五輪個人表演忘詞7秒\[26\](總票數195，以22票取得第2名席次)。在Brand New隊以79票取得第1名，[BOBBY在ILLIONAIRE隊以](../Page/金知元_\(饒舌者\).md "wikilink")14票取得第6名席次，B.I以YG隊內第一名自動得到公演的機會並晉級下一輪。第六輪團隊對決，在團隊對決中失敗的團隊將淘汰公演中獲得收入最低的表演者，YG隊輸給YDG隊，B.I以公演個人收入(1,700,000)最低自動淘汰，止步於八強\[27\]。8月7日節目公開後，隔日B.I該場公演歌曲《[Be I](https://www.youtube.com/watch?v=pBSKYG0yYIg/)》獲得音樂榜單第一位\[28\]。
 
-二檔節目先後在[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Mnet頻道播出](https://zh.wikipedia.org/wiki/Mnet "wikilink")，實際播出順序為《[Show Me The Money 3](../Page/Show_Me_The_Money_3.md "wikilink")》後由《[MIX & MATCH](../Page/MIX_&_MATCH.md "wikilink")》接檔。
+二檔節目先後在[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Mnet](../Page/Mnet.md "wikilink")頻道播出，實際播出順序為《[Show Me The Money 3](../Page/Show_Me_The_Money_3.md "wikilink")》後由《[MIX & MATCH](../Page/MIX_&_MATCH.md "wikilink")》接檔。
 
 8月B.I和[BOBBY參與由](https://zh.wikipedia.org/wiki/BOBBY "wikilink")[美國ALS](https://zh.wikipedia.org/wiki/美國 "wikilink")「[肌肉萎縮性側索硬化症](https://zh.wikipedia.org/wiki/肌肉萎縮性側索硬化症 "wikilink") (俗稱漸凍人症)」協會所發起的「[冰桶挑戰](../Page/冰桶挑戰.md "wikilink")」(Ice Bucket Challenge) 公益活動\[29\]\[30\]。
 
@@ -125,31 +125,31 @@ B.I在綜藝節目《[TALKMON](../Page/TALKMON.md "wikilink")》上坦言，自�
 </tr>
 <tr class="odd">
 <td><p>2013年8月23日-10月25日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>《<a href="../Page/WIN.md" title="wikilink">WIN</a>》</p></td>
 <td><p>以Team B的成员参与生存战</p></td>
 </tr>
 <tr class="even">
 <td><p>2014年2月14日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>《WINNER TV》</p></td>
 <td><p>EP10、为<a href="../Page/WINNER.md" title="wikilink">WINNER</a>的出道给予应援</p></td>
 </tr>
 <tr class="odd">
 <td><p>2014年7月3日-8月7日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>《<a href="../Page/Show_Me_The_Money_3.md" title="wikilink">Show Me The Money 3</a>》</p></td>
 <td><p>止步8強</p></td>
 </tr>
 <tr class="even">
 <td><p>2014年9月11日-11月6日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>《<a href="../Page/MIX_&amp;_MATCH.md" title="wikilink">MIX &amp; MATCH</a>》</p></td>
 <td><p>固定成员</p></td>
 </tr>
 <tr class="odd">
 <td><p>2015年7月17日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>《<a href="../Page/Show_Me_The_Money_4.md" title="wikilink">Show Me The Money 4</a>》</p></td>
 <td><p>YG Team表演嘉宾</p></td>
 </tr>

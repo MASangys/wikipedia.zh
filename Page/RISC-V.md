@@ -22,7 +22,7 @@ RISC的歷史可追溯到1980年左右。\[6\]在此之前，人們覺得簡單�
 
 學術界的學者們為了出版第一版的《計算機體系結構：定量方法》（*Computer Architecture: A Quantitative Approach*）ISBN 978-1558600690 ，所以於1990年訂立了RISC指令集DLX。David Patterson是其中一位作者，後來協助RISC-V的開發。但是DLX只用於教育用途，學術界和業餘愛好者使用[FPGA（現場可編程門陣列）來實做它](../Page/现场可编程逻辑门阵列.md "wikilink")，但並沒有取得商業運用。版本2及更早版本的ARM CPU具有公共域指令集，並且仍有GCC的支持，而GCC是一個受歡迎且免費的軟件編譯器。該ISA有三個開源內核，但尚未製造。
 
-OpenRISC是一款基於DLX的開源ISA，並且具有相關的RISC設計。它完全支持GCC並且有實做在Linux上。但是它很少有商業上的實做，直到2018年下旬SiFive公司10月推出一系列全新 CPU設計圖產品線應用涵蓋 [5G](../Page/5G.md "wikilink")、網通、存儲、擴增實境（[AR](https://zh.wikipedia.org/wiki/AR "wikilink")）、虛擬實境（[VR](https://zh.wikipedia.org/wiki/VR "wikilink")）等，其 E系列與 U系列的 CPU方案已經威脅到ARM(安謀)公司的收費產品並且擁有後者缺乏的64位元架構產品。\[7\]。
+OpenRISC是一款基於DLX的開源ISA，並且具有相關的RISC設計。它完全支持GCC並且有實做在Linux上。但是它很少有商業上的實做，直到2018年下半年SiFive公司10月推出一系列全新 CPU設計圖產品線應用涵蓋 [5G](../Page/5G.md "wikilink")、網通、存儲、擴增實境（[AR](https://zh.wikipedia.org/wiki/AR "wikilink")）、虛擬實境（[VR](https://zh.wikipedia.org/wiki/VR "wikilink")）等，其 E系列與 U系列的 CPU方案已經威脅到ARM(安謀)公司的收費產品並且擁有後者缺乏的64位元架構產品。\[7\]。
 
 [ARM公司受到威脅後上线了一个网站riscv](https://zh.wikipedia.org/wiki/ARM "wikilink")-basics.com，列举了对RISC-V的批判，包括：成本、生态系统、碎片化风险、安全性问题、设计验证。但最终迫于業界舆论惡評，ARM关闭了该网站。\[8\]
 

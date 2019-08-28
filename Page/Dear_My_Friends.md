@@ -123,7 +123,7 @@
 <td><p>忠南的姪子。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/邊佑錫" title="wikilink">邊佑錫</a></p></td>
+<td><p><a href="../Page/邊佑錫.md" title="wikilink">邊佑錫</a></p></td>
 <td><p>孫鍾錫</p></td>
 <td></td>
 <td><p>忠南的外甥。</p></td>

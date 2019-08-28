@@ -23,73 +23,20 @@ My FM于1998年8月1日启播，初名為「傳真心曲台」\[2\]，是Astro�
 
 周六
 
-<table>
-<thead>
-<tr class="header">
-<th><p>时间</p></th>
-<th><p>节目名称</p></th>
-<th><p>DJ</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>7am - 9am</p></td>
-<td><p>MY 好玩 Yo (周末版)</p></td>
-<td><p>Emely 潘毖伶</p></td>
-</tr>
-<tr class="even">
-<td><p>9am - 10am</p></td>
-<td><p>MY 我要Test你 (重播)</p></td>
-<td><p>林德荣 颜薇恩 赵洁莹</p></td>
-</tr>
-<tr class="odd">
-<td><p>10am - 12pm</p></td>
-<td><p>MY Astro 至尊流行榜 (首播) [4]</p></td>
-<td><p>大头 Aki &amp; 小眼睛 秉昀</p></td>
-</tr>
-<tr class="even">
-<td><p>12pm - 2pm</p></td>
-<td><p>MY 我要线人 (重播)<br />
-MY 我要爆料 (重播)</p></td>
-<td><p>林德荣 颜薇恩 赵洁莹</p></td>
-</tr>
-<tr class="odd">
-<td><p>2pm - 5pm</p></td>
-<td><p>MY Saturday 2-5</p></td>
-<td><p>MY DJ</p></td>
-</tr>
-<tr class="even">
-<td><p>5pm - 7pm</p></td>
-<td><p>流行音乐全金榜 (首播)[5]</p></td>
-<td><p>Jym庄靖毅 Wayne符雁蓉</p></td>
-</tr>
-<tr class="odd">
-<td><p>7pm - 9pm</p></td>
-<td><p>MY 就是爱玩</p></td>
-<td><p>培永 彤彤</p></td>
-</tr>
-<tr class="even">
-<td><p>9pm - 10pm</p></td>
-<td><p>MY 音乐特辑 (重播)</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>10pm - 11pm</p></td>
-<td><p>MY Top 10 Singles (首播)[6]</p></td>
-<td><p>凌加峻</p></td>
-</tr>
-<tr class="even">
-<td><p>11pm - 12am</p></td>
-<td><p>MY NOW Music (重播)</p></td>
-<td><p>DJ Ken</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| 时间          | 节目名称                        | DJ              |
+| ----------- | --------------------------- | --------------- |
+| 7am - 9am   | MY 好玩 Yo (周末版)              | Emely 潘毖伶       |
+| 9am - 10am  | MY 我要Test你 (重播)             | 林德荣 颜薇恩 赵洁莹     |
+| 10am - 12pm | MY Astro 至尊流行榜 (首播) \[4\]   | 大头 Aki & 小眼睛 秉昀 |
+| 12pm - 1pm  | MY 我要爆料 (重播)                | 林德荣 颜薇恩 赵洁莹     |
+| 1pm - 4pm   | MY SATURDAY 1-4             | MY DJ           |
+| 4pm - 5pm   | MY 我要线人                     | 林德荣 颜薇恩 赵洁莹     |
+| 5pm - 7pm   | 流行音乐全金榜 (首播)\[5\]           | Jym庄靖毅 Wayne符雁蓉 |
+| 7pm - 9pm   | MY 就是爱玩                     | 培永 彤彤           |
+| 9pm - 10pm  | MY 音乐特辑 (重播)                |                 |
+| 10pm - 11pm | MY Top 10 Singles (首播)\[6\] | 凌加峻             |
+| 11pm - 12am | MY NOW Music (重播)           | DJ Ken          |
+|             |                             |                 |
 
 周日
 

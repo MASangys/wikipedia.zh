@@ -2,7 +2,6 @@
 
 ## 旗下藝人
 
-  - [Ailee](https://zh.wikipedia.org/wiki/Ailee "wikilink")
   - [申寶羅](https://zh.wikipedia.org/wiki/申寶羅 "wikilink")
   - [Baechigi](https://zh.wikipedia.org/wiki/Baechigi "wikilink")
   - [Sugarbowl](https://zh.wikipedia.org/wiki/Sugarbowl "wikilink")
@@ -11,6 +10,8 @@
 ## 過去旗下藝人
 
   - [輝晟](https://zh.wikipedia.org/wiki/輝晟 "wikilink")
+
+  - [Ailee](https://zh.wikipedia.org/wiki/Ailee "wikilink")
 
   - [Jessi](../Page/Jessi.md "wikilink")
 

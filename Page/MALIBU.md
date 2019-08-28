@@ -35,12 +35,12 @@ LOHAS Park Phase 5 20090801.jpg|日出康城第5期基座（2009年8月） Malib
 
 O'East是會德豐地產在[日出康城](../Page/日出康城.md "wikilink")的臨海豪華私人物業組合，位於港鐵康城站及48萬平方呎的大型商場THE LOHAS上蓋，享有優越臨海地段，能飽覽臨海景致，區內的綠化休憩園地超過100萬呎。
 
-  - 日出康城V期：MALIBU
+  - 日出康城V期：[MALIBU](../Page/MALIBU.md "wikilink")
   - 日出康城VIIA期：[MONTARA](../Page/MONTARA.md "wikilink")
   - 日出康城VIIB期：GRAND MONTARA
-  - 日出康城IXA期：(未命名)
-  - 日出康城IXB期：(未命名)
-  - 日出康城IXC期：(未命名)
+  - 日出康城IXA期： MARINI
+  - 日出康城IXB期： GRAND MARINI
+  - 日出康城IXC期： OCEAN MARINI
 
 ## 鄰近地方
 

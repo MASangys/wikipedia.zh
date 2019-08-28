@@ -65,13 +65,13 @@ BRANDNEW MUSIC於2013年1月推出網絡節目"Brand New Live"。\[10\]同年夏
 
   - [AB6IX](../Page/AB6IX.md "wikilink")
 
-  - [X1](../Page/X1.md "wikilink") [李垠尚](https://zh.wikipedia.org/wiki/李垠尚 "wikilink") ([PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink"))
-
 ### 練習生
 
-  - 金施勲 ([PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink"))
-  - 尹晶煥 ([PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink"))
-  - 洪誠俊 ([PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink"))
+  - BRANDNEWZ
+      - 李垠尚 ([X1](../Page/X1_\(組合\).md "wikilink")、[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink"))
+      - 金施勲 ([PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink"))
+      - 尹晶煥 ([PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink"))
+      - 洪誠俊 ([PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink"))
 
 ### 製作人
 

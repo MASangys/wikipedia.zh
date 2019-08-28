@@ -16,17 +16,17 @@
 <tbody>
 <tr class="odd">
 <td><p>系統</p></td>
-<td><p><a href="../Page/Android.md" title="wikilink">Android</a> Marshmallow | 6.0.1（Marshmallow）全網通高配版 雙網通高配版<a href="../Page/Android.md" title="wikilink">Android</a> Lollipop|5.0.2（Lollipop）全網通標準版 雙網通標準版</p></td>
-<td></td>
+<td><p><a href="../Page/Android.md" title="wikilink">Android</a> 5.0.2(Lollipop)</p></td>
+<td><p>Android 6.0.1(Marshmallow)</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>介面</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/MIUI_7" title="wikilink">MIUI 7</a> （舊版本） <a href="../Page/MIUI.md" title="wikilink">MIUI 8</a>（舊版本）<a href="https://zh.wikipedia.org/wiki/MIUI_9" title="wikilink">MIUI 9</a>（舊版本）<a href="https://zh.wikipedia.org/wiki/MIUI_10" title="wikilink">MIUI 10</a>（最新版本）</p></td>
-<td></td>
-<td></td>
+<td><p><a href="../Page/MIUI.md" title="wikilink">MIUI</a> 7 (可更新至MIUI 9)</p></td>
+<td><p>MIUI 7 (可更新至MIUI 10)</p></td>
+<td><p>MIUI 8 (可更新至MIUI 10)</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -134,7 +134,7 @@
 </tr>
 <tr class="odd">
 <td><p>相機</p></td>
-<td><p>主相機：1300 萬像素 鏡頭、F/2.0光圈、五片式鏡頭、<a href="https://zh.wikipedia.org/wiki/PDAF" title="wikilink">PDAF</a><a href="https://zh.wikipedia.org/wiki/相位" title="wikilink">相位對焦</a>、0.1秒對焦、雙色溫閃光燈、手動模式、水平儀、<a href="../Page/Full_HD.md" title="wikilink">1080p錄影</a>、120<a href="https://zh.wikipedia.org/wiki/fps" title="wikilink">fps</a> <a href="https://zh.wikipedia.org/wiki/HD" title="wikilink">HD</a>720p慢動作錄影<br />
+<td><p>主相機：1300 萬像素 鏡頭、F/2.0光圈、五片式鏡頭、<a href="https://zh.wikipedia.org/wiki/PDAF" title="wikilink">PDAF</a><a href="../Page/相位.md" title="wikilink">相位</a>對焦、0.1秒對焦、雙色溫閃光燈、手動模式、水平儀、<a href="../Page/Full_HD.md" title="wikilink">1080p錄影</a>、120<a href="https://zh.wikipedia.org/wiki/fps" title="wikilink">fps</a> <a href="https://zh.wikipedia.org/wiki/HD" title="wikilink">HD</a>720p慢動作錄影<br />
 前相機：500 萬像素 鏡頭、F/2.4光圈、36級智慧美顏模式、<a href="../Page/Full_HD.md" title="wikilink">1080p錄影</a> 使用第三方软件可实现<a href="https://zh.wikipedia.org/wiki/UHD_4K" title="wikilink">UHD 4K录影</a></p></td>
 <td></td>
 <td></td>

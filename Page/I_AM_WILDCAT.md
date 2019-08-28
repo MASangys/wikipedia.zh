@@ -2,7 +2,7 @@
 
 ## 個人生活
 
-泰勒於1987年9月14日出生在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[印第安納州](https://zh.wikipedia.org/wiki/印第安納州 "wikilink")，他目前居住在[田納西州的父母住在一起](https://zh.wikipedia.org/wiki/田納西州 "wikilink")。
+泰勒於1992年9月14日出生在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[印第安納州](https://zh.wikipedia.org/wiki/印第安納州 "wikilink")，他目前居住在[田納西州的父母住在一起](https://zh.wikipedia.org/wiki/田納西州 "wikilink")。
 
 ## Youtube生涯
 

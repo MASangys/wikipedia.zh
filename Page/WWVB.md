@@ -81,7 +81,7 @@ WWVB使用60千赫的頻率廣播，正常使用70千瓦的廣播，在每個協
 
 ### 頻道識別
 
-在加入現時的相位調製時碼之前，WWVB通過為10分鐘過去的每小時45°推進其載波的[相位以標識自己的身份](https://zh.wikipedia.org/wiki/相位 "wikilink")，在五分鐘後恢復正常（-45°相移）。這一階段的步驟是相當於一個60 kHz載波週期的“剪貼”1/8，或相當於約2.08[微秒](https://zh.wikipedia.org/wiki/微秒 "wikilink")。
+在加入現時的相位調製時碼之前，WWVB通過為10分鐘過去的每小時45°推進其載波的[相位](../Page/相位.md "wikilink")以標識自己的身份，在五分鐘後恢復正常（-45°相移）。這一階段的步驟是相當於一個60 kHz載波週期的“剪貼”1/8，或相當於約2.08[微秒](https://zh.wikipedia.org/wiki/微秒 "wikilink")。
 
 WWVB的頻道識別方法是使用[甚低頻和](https://zh.wikipedia.org/wiki/甚低頻 "wikilink")[低頻頻段](https://zh.wikipedia.org/wiki/低頻 "wikilink")，這方法能防止其他干擾因素將電台呼號干擾的常用方法，常見於窄帶高功率發射機。
 

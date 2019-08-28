@@ -44,6 +44,11 @@
 
 [HBO](../Page/HBO.md "wikilink")電視劇《[酒私風雲](../Page/酒私風雲.md "wikilink")》中，由演員Kevin O'Rourke飾演巴德。
 
+## 參見
+
+  - [狄爾里奇·巴德](../Page/狄爾里奇·巴德.md "wikilink")
+
+  -
 ## 參考資料
 
 [Category:德國裔美國人](https://zh.wikipedia.org/wiki/Category:德國裔美國人 "wikilink") [Category:费城政治家](https://zh.wikipedia.org/wiki/Category:费城政治家 "wikilink") [Category:新澤西州共和黨黨員](https://zh.wikipedia.org/wiki/Category:新澤西州共和黨黨員 "wikilink") [Category:宾夕法尼亚大学沃顿商学院校友](https://zh.wikipedia.org/wiki/Category:宾夕法尼亚大学沃顿商学院校友 "wikilink")

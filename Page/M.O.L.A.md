@@ -1,4 +1,4 @@
-*' M.O.L.A**（），意指"**Make Our Life Awesome*'"，於2015年組成的創作團隊，於網絡平台發表音樂創作及Cover，成員來自不同經紀公司和團體，有[UNIQ](../Page/UNIQ.md "wikilink")的[曹承衍](../Page/曹承衍.md "wikilink")、Nathan、[15&的](https://zh.wikipedia.org/wiki/15& "wikilink")[朴智敏](../Page/朴智敏.md "wikilink")。\[1\]\[2\]\[3\]\[4\]\[5\] 2017年，加入新成員[PENTAGON的](../Page/Pentagon_\(男子組合\).md "wikilink")[Kino](https://zh.wikipedia.org/wiki/姜炯求 "wikilink")、[SEVENTEEN的](../Page/Seventeen_\(組合\).md "wikilink")[Vernon](https://zh.wikipedia.org/wiki/崔韓率 "wikilink")。\[6\]\[7\] 其後，再加入新成員HOHO。
+*' M.O.L.A**（），意指"**Make Our Life Awesome*'"，於2015年組成的創作團隊，於網絡平台發表音樂創作及Cover，成員來自不同經紀公司和團體，有[UNIQ](../Page/UNIQ.md "wikilink")的[曹承衍](../Page/曹承衍.md "wikilink")、Nathan、[15&的](https://zh.wikipedia.org/wiki/15& "wikilink")[朴智敏](../Page/朴智敏.md "wikilink")。\[1\]\[2\]\[3\]\[4\]\[5\] 2017年8月，加入新成員[PENTAGON的](../Page/Pentagon_\(男子組合\).md "wikilink")[Kino](https://zh.wikipedia.org/wiki/姜炯求 "wikilink")、[SEVENTEEN的](../Page/Seventeen_\(組合\).md "wikilink")[Vernon](https://zh.wikipedia.org/wiki/崔韓率 "wikilink")。\[6\]\[7\] 2018年5月，再加入新成員HOHO。
 
 ## 成員資料
 
@@ -44,7 +44,7 @@
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/大田廣域市" title="wikilink">大田廣域市</a><a href="https://zh.wikipedia.org/wiki/儒城區" title="wikilink">儒城區</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/15&amp;" title="wikilink">15&amp;</a>/ Solo</p></td>
-<td><p><a href="../Page/JYP娛樂.md" title="wikilink">JYP娛樂</a></p></td>
+<td><p>－</p></td>
 </tr>
 <tr class="even">
 <td><p>Kino</p></td>
@@ -182,7 +182,7 @@
 <!-- end list -->
 
   -
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2015年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年成立的音樂團體 "wikilink")
+[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2015年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年成立的音樂團體 "wikilink") [Category:2015年韓國建立](https://zh.wikipedia.org/wiki/Category:2015年韓國建立 "wikilink")
 
 1.  [M.O.L.A (15&'s Park Ji Min, UNIQ's Seungyoun, & Nathan) drop sick collaboration track 'My Way'](http://www.allkpop.com/article/2015/08/mola-15s-park-ji-min-uniqs-seungyoun-nathan-drop-sick-collaboration-track-my-way) 2015-08-21.
 2.  [M.O.L.A (15&'s Park Ji Min, UNIQ's Seungyoun and Nathan) drop MV for "My Way"](http://www.allkpop.com/article/2015/10/mola-15s-park-ji-min-uniqs-seungyoun-and-nathan-drop-mv-to-my-way) 2015-10-13.

@@ -1312,7 +1312,7 @@ Sea Of Love</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td></td>
+<td><p><a href="../Page/卓在勳.md" title="wikilink">卓在勳</a></p></td>
 <td><p>Oh, My Julia</p></td>
 <td><p>"六個孩子的世宗市興夫"－孟憲英</p></td>
 <td><p>Gimme! Gimme!</p></td>

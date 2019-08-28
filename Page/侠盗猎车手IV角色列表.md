@@ -24,7 +24,7 @@
 
 ### 布鲁斯·基布茲/Brucie Kibbutz
 
-羅曼在網上認識的朋友，他是個健身愛好者(而且經常濫用類固醇)，他給尼克的任務都是殺人和賽車。布鲁斯是個十分富裕的人，而且經常在電台出現。他經常發委託偷車及網站分享的電子郵件給尼克。\*當尼克和布鲁斯的友誼到了一定程度後，可以用電話按Heli Ride，他會提供直升機服務，或者也可以委託他安排街頭賽車。(\*當完成任務27:第一名/NO.1)
+羅曼在網上認識的朋友，他是個健身愛好者(而且經常濫用類固醇)，他給尼克的任務都是殺人和賽車。布鲁斯是個十分富裕的人，而且經常在電台出現。他經常發委託偷車及網站分享的電子郵件給尼克。\*當尼克和布鲁斯的友誼到了一定程度後，可以用電話按Heli Ride，他會提供直升機服務，或者也可以委託他安排街頭賽車(\*當完成任務27:第一名/NO.1)。在[俠盜獵車手Online](../Page/俠盜獵車手Online.md "wikilink")裡擔任陳陶的私人健身教練，同時會不時以電話向玩家兜售公牛鯊睪固酮
 
 ### 派翠克·麦克莱瑞/Patrick McReary
 
@@ -58,11 +58,19 @@ Mallorie在Bohan認識的朋友，為人愛出風頭，所以找Niko做一些危
 
 原名為弗洛里安·克拉維奇/Florian Cravic，是尼克在祖國倖存的戰友之一。當尼克在自由城找到博尼之後一度逼問他是不是當年的背叛者，博尼嚇到驚慌失措並極力澄清自己不是叛徒後尼克相信了他。他搬到自由城後改名為博尼.克雷恩，並成為一名同性戀及心理輔導員。他的祕密伴侶是自由城的副市長。後來博尼委託尼克反擊反同性戀份子與迪米崔手下的騷擾，最後他與副市長為了感謝尼克特地送尼克一輛Infernus跑車。
 
+### 喬恩·格拉維利/Jon Gravelli
+
+自由城最強大的黑手黨Gravelli家族的老大，但因年老早已力不從心，也因身患重病而要待在醫院。雖然身為黑幫，但和政府官員的關係卻很密切，和联合自由報业的交情也很深。以幫Niko找出Darko為報酬，使Niko助Gravelli家族維持對自由城的地下控制權並趕走其他外國幫派。於結尾病逝。
+
 ## 反派
 
 ### 迪米特里·瑞斯克洛夫/Dimitri Rascalov
 
 本作最大的反派。以前是Mikhail Faustin的得力助手和好兄弟。外表為斯文的西裝眼鏡男，但其實居心叵測心狠手辣，使詭計殺死自己的好兄弟Faustin，目的是奪得Faustin的大位，還欺騙Niko殺死Faustin後會有豐厚的酬金，之後與尼克在祖國的仇人布加林聯手追殺尼克，更在Roman的公寓和計程車公司放火，又綁架Roman，然後又不斷地騷擾Niko的戰友Bernie,最後在結局被Niko殺死。
+
+### 吉米·帕格里诺/Jimmy Pegorino
+
+本作的第二反派，自由城郊區阿爾德尼的意大利黑手黨Pegorino家族的老大。Niko會在完成Phil Bell的第一項任務後，由Phil Bell介紹給Pegorino。起初Niko答應在Pegorino下做事，後來Pegorino為挽救自家幫派的危機與Dimitri合作，在遊戲的結局遭Niko或Dimitri殺害。在完成*That Special Someone*任務後，Jimmy會希望Niko忘記與Dimitri的不愉快，去幫他交易，這時會讓你選復仇還是交易。選擇交易會讓婚禮的時候Roman被Dimitri的手下殺害，進而讓Jimmy被Dimitri殺死；如果選擇復仇會讓Kate在婚禮中遭Jimmy報復殺害，進而讓Jimmy被Niko追殺致死。
 
 ### 花花公子X/Playboy X
 
@@ -83,10 +91,6 @@ Francis是一個專權跋扈的警官，虽然他是一個警官，但暗地裡�
 ### 弗拉基米尔·格列波夫/Vladmir Glebov
 
 官方叫萎濑，俄羅斯裔的黑幫份子，放高利貸是他的工作之一。Vlad一直把自己想像為很有影響力的黑道教父，為人橫行霸道。其實他只是個完全不上檯面的小角頭而已，他的大部分不法行動也都是低級別的討債與小打小撈，常常到Roman的公司調戲Mallorie，他的幕後老大就是Faustin。Vlad最後因為调戏Mallorie而被Niko所殺。历史上的俄罗斯真有同名人。
-
-### 吉米·帕格里诺/Jimmy Pegorino
-
-本作的第二反派，自由城郊區阿爾德尼的小黑手黨老大。Niko會在完成Phil Bell的第一項任務後，由Phil Bell介紹給Pegorino。起初Niko答應在Pegorino下做事，後來Pegorino為挽救自家幫派的危機與Dimitri合作，在遊戲的結局遭Niko或Dimitri殺害。在完成*That Special Someone*任務後，Jimmy會希望Niko忘記與Dimitri的不愉快，去幫他交易，這時會讓你選復仇還是交易。選擇交易會讓婚禮的時候Roman被Dimitri的手下殺害，進而讓Jimmy被Dimitri殺死；如果選擇復仇會讓Kate在婚禮中遭Jimmy報復殺害，進而讓Jimmy被Niko追殺致死。
 
 ### 达尔丹·佩特雷拉/Dardan Petrela
 
@@ -134,11 +138,11 @@ Francis是一個專權跋扈的警官，虽然他是一個警官，但暗地裡�
 
 尼克的女友之一，是一名護士。伯罕區開放後登陆www.love-meet.net，找到SoBoHoe的链接.点击进入可以在她个人信息页面下方找到“DATE”键按下安排約會。好感度到一定程度後，打電話給她能幫尼克恢復生命值。
 
-### 陳琪琪/Kiki Chan
+### 琪琪·詹金斯/Kiki Jenkins
 
 尼克的女友之一，是一名律師。自由城市中心開放後登陆www.love-meet.net，找到LawChick的链接.点击进入可以在她个人信息页面下方找到“DATE”键按下安排約會。好感度到一定程度後，打電話給她能幫尼克消除最高三星的通緝度。
 
-### 亞歷斯·奇爾頓/Alex Chilton
+### 亞歷山德拉·奇爾頓/Alexandra Chilton
 
 尼克的女友之一，是一名富裕的部落格作家。阿爾德尼區開放後，登陆www.craplist.net，找到Party girl seeks man for NSA fun and blog material...的链接.点击进入可以在她个人信息页面下方找到“contact me”键按下安排約會(她网名叫Liberated Woman)。好感度到一定程度後，打電話給她能幫尼克在服裝購買上打折扣。
 

@@ -1,10 +1,10 @@
-《**VRChat**》是一款由格雷厄姆·蓋勒（Graham Gaylor）和傑西·荷德瑞（Jesse Joudrey）開發的[免費](https://zh.wikipedia.org/wiki/網路遊戲免費模式 "wikilink")[大型多人線上](https://zh.wikipedia.org/wiki/大型多人線上遊戲 "wikilink")[虛擬實境遊戲](https://zh.wikipedia.org/wiki/虛擬實境 "wikilink")。其允許玩家以3D角色模組與其他玩家交流，同時也支援[Oculus Rift](../Page/Oculus_Rift.md "wikilink")、[HTC Vive和](../Page/HTC_Vive.md "wikilink")[Windows Mixed Reality](../Page/Windows_Mixed_Reality.md "wikilink")[虛擬實境](https://zh.wikipedia.org/wiki/虛擬實境 "wikilink")[頭戴式顯示器](../Page/頭戴式顯示器.md "wikilink")。遊戲已在2017年2月1日透過[Steam](../Page/Steam.md "wikilink")的模式在[Microsoft Windows發行](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，但實際發售日期仍然未定。
+《**VRChat**》是一款由格雷厄姆·蓋勒（Graham Gaylor）和傑西·荷德瑞（Jesse Joudrey）開發的[免費](https://zh.wikipedia.org/wiki/網路遊戲免費模式 "wikilink")[大型多人線上](https://zh.wikipedia.org/wiki/大型多人線上遊戲 "wikilink")[虛擬實境遊戲](https://zh.wikipedia.org/wiki/虛擬實境 "wikilink")。其允許玩家以3D角色模組與其他玩家交流，同時也支援[Oculus Rift](../Page/Oculus_Rift.md "wikilink")、[HTC Vive和](../Page/HTC_Vive.md "wikilink")[Windows Mixed Reality](../Page/Windows_Mixed_Reality.md "wikilink")[虛擬實境](https://zh.wikipedia.org/wiki/虛擬實境 "wikilink")[頭戴式顯示器](../Page/頭戴式顯示器.md "wikilink")。遊戲已在2017年2月1日透過[Steam](../Page/Steam.md "wikilink")平台的模式在[Microsoft Windows作業系統上發行](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，但實際發售日期仍然未定。
 
 ## 遊戲玩法
 
-《VRChat》的遊戲玩法與《[第二人生](https://zh.wikipedia.org/wiki/第二人生_\(網際網路\) "wikilink")》和《[哈寶](https://zh.wikipedia.org/wiki/哈寶 "wikilink")》相似\[1\]。玩家可以自行創建伺服器，在其中玩家們可以通過虛構角色彼此交流。與遊戲一起發行的[軟體開發套件則使玩家可以創造來自各個知名ACG系列的重要人物](https://zh.wikipedia.org/wiki/軟體開發套件 "wikilink")，並將其作為他們的角色\[2\]。玩家的模型可以支援「聲音[對嘴](https://zh.wikipedia.org/wiki/對嘴 "wikilink")、[眼動追蹤](https://zh.wikipedia.org/wiki/眼動追蹤 "wikilink")、眨眼和動作」\[3\]。遊戲還包括一些小遊戲，例如[奪旗](https://zh.wikipedia.org/wiki/奪旗 "wikilink")、搶銀行等\[4\]。
+《VRChat》的遊戲玩法與《[第二人生](https://zh.wikipedia.org/wiki/第二人生_\(網際網路\) "wikilink")》和《[哈寶](https://zh.wikipedia.org/wiki/哈寶 "wikilink")》相似\[1\]。玩家可以透過［世界］頁面來建立［房間］，並且可以可以通過虛構角色彼此交流。與遊戲一起發行的[軟體開發套件則使玩家可以創造來自各個知名ACG系列的重要人物](https://zh.wikipedia.org/wiki/軟體開發套件 "wikilink")，並將其作為他們的角色\[2\]。玩家的模型可以支援「聲音[對嘴](https://zh.wikipedia.org/wiki/對嘴 "wikilink")、動態骨骼、眨眼和動作」\[3\]。遊戲還包括一些小遊戲，例如[奪旗](https://zh.wikipedia.org/wiki/奪旗 "wikilink")、搶銀行等\[4\]。
 
-雖然這遊戲叫做VRChat，但VR設備並不是必要的。但是因為遊戲內缺乏打字介面，所以麥克風和說話的能力還是必要的。另外，使用鍵盤滑鼠來遊玩時，一些功能像是臉部表情或者自帶物品等無法啟動。而鍵盤滑鼠的玩家也只能在有限的角度和高度來拾物或者做身體動作。
+雖然這遊戲叫做VRChat，但VR設備並不是必要的。但是因為遊戲內缺乏打字介面，所以麥克風和說話的能力還是必要的。另外，使用鍵盤滑鼠來遊玩時，只能在有限的角度和高度來拾物或者做身體動作。
 
 ## 社群
 

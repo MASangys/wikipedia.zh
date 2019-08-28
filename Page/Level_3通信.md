@@ -4,7 +4,7 @@
 
 ## 网络
 
-[BoiseSatelliteDish.jpg](https://zh.wikipedia.org/wiki/File:BoiseSatelliteDish.jpg "fig:BoiseSatelliteDish.jpg") Level 3运营了一个大型的互联网络。其服务范围包括在美国大陆上的46个州\[4\]\[5\] 南美洲, [西欧](../Page/西欧.md "wikilink"),\[6\]\[7\] 和一些亚洲城市。它使用包括AC-2在内的跨大西洋光缆,\[8\] \[9\] 该公司也在 Apollo 光缆上购买了 300 Gbit/s 的带宽。\[10\]
+[BoiseSatelliteDish.jpg](https://zh.wikipedia.org/wiki/File:BoiseSatelliteDish.jpg "fig:BoiseSatelliteDish.jpg") Level 3运营了一个大型的互联网络。其服务范围包括在美国大陆上的46个州\[4\]\[5\] 南美洲，[西欧](../Page/西欧.md "wikilink")，\[6\]\[7\] 和一些亚洲城市。它使用包括AC-2在内的跨大西洋光缆，\[8\] \[9\] 该公司也在 Apollo 光缆上购买了 300 Gbit/s 的带宽。\[10\]
 
 该公司现在是[自治编号](https://zh.wikipedia.org/wiki/BGP "wikilink") AS1的拥有者。\[11\] (随着它从[BBN科技](../Page/BBN科技.md "wikilink")处收购Genuity ), 但它实际使用自治编号 AS3356 作为运营用途。  AS3356 一直拥有互联网上最好的联通度。\[12\]\[13\] 随着在2011年的收购，该公司同时也运营Global Crossing network （自治编号 AS3549）。
 

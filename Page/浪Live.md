@@ -18,7 +18,7 @@
 
 ## 平台主播
 
-平台當紅主播&實況主 [包膜哥](https://zh.wikipedia.org/wiki/包膜哥 "wikilink")、[劉玉婷](https://zh.wikipedia.org/wiki/劉玉婷 "wikilink")、[琪琪](https://zh.wikipedia.org/wiki/琪琪 "wikilink")、[芳小如](https://zh.wikipedia.org/wiki/芳小如 "wikilink")、[杜忻恬](../Page/杜忻恬.md "wikilink")、[田顏玫](../Page/田顏玫.md "wikilink")、[欣蒂貝貝](https://zh.wikipedia.org/wiki/欣蒂貝貝 "wikilink")、[蔡家蓁](../Page/蔡幸芳.md "wikilink")、[張若凡](../Page/張若凡.md "wikilink")、[宋本丸](https://zh.wikipedia.org/wiki/宋本丸 "wikilink")\[10\]\[11\]\[12\]
+平台當紅主播 [劉玉婷](https://zh.wikipedia.org/wiki/劉玉婷 "wikilink")、[克萊兒](https://zh.wikipedia.org/wiki/克萊兒 "wikilink")、[薛薛](https://zh.wikipedia.org/wiki/薛薛 "wikilink")、[小黛比](https://zh.wikipedia.org/wiki/小黛比 "wikilink")、[姿昀](https://zh.wikipedia.org/wiki/姿昀 "wikilink")、[余至中/巧克](https://zh.wikipedia.org/wiki/余至中/巧克 "wikilink")、[張楚珊](https://zh.wikipedia.org/wiki/張楚珊 "wikilink")、[亦宸](https://zh.wikipedia.org/wiki/亦宸 "wikilink")、[茶米](https://zh.wikipedia.org/wiki/茶米 "wikilink")、[BB](https://zh.wikipedia.org/wiki/BB "wikilink")、[愷弟](https://zh.wikipedia.org/wiki/愷弟 "wikilink")、[兔兔](https://zh.wikipedia.org/wiki/兔兔 "wikilink")\[10\]\[11\]\[12\]\[13\]\[14\]<ref>
 
 ## 參考資料
 
@@ -41,5 +41,7 @@
 8.  [才藝加電競！浪 Live 攜手金剛直播聯合營運，第三季進軍海外](http://technews.tw/2018/03/01/langlive-2017-performances/)
 9.  [玩家每月打賞逾9千元，浪LIVE如何從「養粉」、「電競直播」策略衝破億營收](https://www.bnext.com.tw/article/48339/live-streaming-app-langlive-said-their-arppu-is-9-thousand-ntdollars)
 10. [這平台這麼狂？創造百位年收入破百萬主播？](http://www.setn.com/News.aspx?NewsID=217799)
-11. [浪LIVE找明星助陣 阿翔直播創高點閱率](http://www.chinatimes.com/realtimenews/20170605005830-260410)
-12. [小馬晉身《浪Live》直播節目製作人](http://www.todaynews.com.tw/bencandy.php?fid-6-id-9361-page-1.htm)
+11. [直播產業當道 浪Live與王道銀行合推人氣直播主卡面](https://money.udn.com/money/story/5635/3947800)
+12. [浪Live「綠色直播文化」成功使才藝型主播暴增](https://money.udn.com/money/story/5635/3852133)
+13. [開創直播新世代！「浪Live」簽約直播主破5千人](https://www.chinatimes.com/realtimenews/20190314005061-260404?chdtv)
+14. [東森購物要你邊看邊買　攜浪Live人氣網紅直播賣東西](https://www.ettoday.net/news/20190409/1418739.htm)

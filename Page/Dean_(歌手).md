@@ -16,15 +16,15 @@
 
 ### 綜藝節目
 
-|       日期        |                          電視台                          |                                       節目名稱                                       |   集數   |                                    備註                                    |
-| :-------------: | :---------------------------------------------------: | :------------------------------------------------------------------------------: | :----: | :----------------------------------------------------------------------: |
-|    2016年1月8日    |  [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")  |           [柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")            |  302   |                                    \-                                    |
-|   2016年1月19日    |          [JTBC](../Page/JTBC.md "wikilink")           | [Two Yoo Project - Sugar Man](../Page/Two_Yoo_Project_-_Sugar_Man.md "wikilink") |   14   |                                   製作人                                    |
-|    2016年3月8日    |          [JTBC](../Page/JTBC.md "wikilink")           | [Two Yoo Project - Sugar Man](../Page/Two_Yoo_Project_-_Sugar_Man.md "wikilink") |   21   |                                   製作人                                    |
-|    2016年6月3日    |  [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")  |           [柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")            |  322   |                                    \-                                    |
-|    2016年9月2日    | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") |          [Unpretty Rapstar 3](../Page/Unpretty_Rapstar_3.md "wikilink")          |   6    |                                   製作人                                    |
-|    2017年6月3日    |  [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")  |           [柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")            |  367   |                                    \-                                    |
-| 2017年6月23日-9月1日 | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") |         [Show Me The Money 6](../Page/Show_Me_The_Money_6.md "wikilink")         | 特別篇-10 | 與[Zico組成製作人團隊](https://zh.wikipedia.org/wiki/Zico "wikilink")，團隊成員獲得本屆冠軍 |
+|       日期        |                         電視台                         |                                       節目名稱                                       |   集數   |                                    備註                                    |
+| :-------------: | :-------------------------------------------------: | :------------------------------------------------------------------------------: | :----: | :----------------------------------------------------------------------: |
+|    2016年1月8日    | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") |           [柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")            |  302   |                                    \-                                    |
+|   2016年1月19日    |         [JTBC](../Page/JTBC.md "wikilink")          | [Two Yoo Project - Sugar Man](../Page/Two_Yoo_Project_-_Sugar_Man.md "wikilink") |   14   |                                   製作人                                    |
+|    2016年3月8日    |         [JTBC](../Page/JTBC.md "wikilink")          | [Two Yoo Project - Sugar Man](../Page/Two_Yoo_Project_-_Sugar_Man.md "wikilink") |   21   |                                   製作人                                    |
+|    2016年6月3日    | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") |           [柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")            |  322   |                                    \-                                    |
+|    2016年9月2日    |         [Mnet](../Page/Mnet.md "wikilink")          |          [Unpretty Rapstar 3](../Page/Unpretty_Rapstar_3.md "wikilink")          |   6    |                                   製作人                                    |
+|    2017年6月3日    | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") |           [柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")            |  367   |                                    \-                                    |
+| 2017年6月23日-9月1日 |         [Mnet](../Page/Mnet.md "wikilink")          |         [Show Me The Money 6](../Page/Show_Me_The_Money_6.md "wikilink")         | 特別篇-10 | 與[Zico組成製作人團隊](https://zh.wikipedia.org/wiki/Zico "wikilink")，團隊成員獲得本屆冠軍 |
 
 ### 電台
 

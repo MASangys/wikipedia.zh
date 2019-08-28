@@ -351,7 +351,7 @@
 
 [en:HIStory (web series)](https://zh.wikipedia.org/wiki/en:HIStory_\(web_series\) "wikilink")
 
-[Category:台灣偶像劇](https://zh.wikipedia.org/wiki/Category:台灣偶像劇 "wikilink") [Category:台灣網路劇](https://zh.wikipedia.org/wiki/Category:台灣網路劇 "wikilink") [Category:2017年台灣電視劇集](https://zh.wikipedia.org/wiki/Category:2017年台灣電視劇集 "wikilink") [Category:單元劇](https://zh.wikipedia.org/wiki/Category:單元劇 "wikilink") [Category:男同性戀相關電視節目](https://zh.wikipedia.org/wiki/Category:男同性戀相關電視節目 "wikilink") [Category:台灣LGBT相關電視節目](https://zh.wikipedia.org/wiki/Category:台灣LGBT相關電視節目 "wikilink") [Category:緯來電視外購電視劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購電視劇 "wikilink") [Category:華視外購電視劇](https://zh.wikipedia.org/wiki/Category:華視外購電視劇 "wikilink")
+[Category:台灣偶像劇](https://zh.wikipedia.org/wiki/Category:台灣偶像劇 "wikilink") [Category:台灣網路劇](https://zh.wikipedia.org/wiki/Category:台灣網路劇 "wikilink") [Category:台灣同志劇集](https://zh.wikipedia.org/wiki/Category:台灣同志劇集 "wikilink") [Category:2017年台灣電視劇集](https://zh.wikipedia.org/wiki/Category:2017年台灣電視劇集 "wikilink") [Category:單元劇](https://zh.wikipedia.org/wiki/Category:單元劇 "wikilink") [Category:男同性戀相關電視節目](https://zh.wikipedia.org/wiki/Category:男同性戀相關電視節目 "wikilink") [Category:台灣LGBT相關電視節目](https://zh.wikipedia.org/wiki/Category:台灣LGBT相關電視節目 "wikilink") [Category:緯來電視外購電視劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購電視劇 "wikilink") [Category:華視外購電視劇](https://zh.wikipedia.org/wiki/Category:華視外購電視劇 "wikilink")
 
 1.  [(105年)105年度行動寬頻影音節目製作補助案第二梯次獲補助名單及評選小組委員名單](https://grants.moc.gov.tw/Web/PointPublish.jsp?P=1931&B=356)，文化部獎補助資訊網，2016年11月28日
 

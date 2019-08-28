@@ -2,13 +2,13 @@
 
 ## 研製
 
-[UBK_machine_gun.jpg](https://zh.wikipedia.org/wiki/File:UBK_machine_gun.jpg "fig:UBK_machine_gun.jpg") [UBS_machine_gun.jpg](https://zh.wikipedia.org/wiki/File:UBS_machine_gun.jpg "fig:UBS_machine_gun.jpg") [UBT_machine_gun.jpg](https://zh.wikipedia.org/wiki/File:UBT_machine_gun.jpg "fig:UBT_machine_gun.jpg") 1937年，米哈伊爾·葉夫根耶維奇·別列津開始設計一款發射步兵機槍所配用的12.7毫米子彈的新型大口徑航空機槍。1938年，新型設計的航空機槍通過了原廠試驗，並於1939年命名為**BS**（俄語全寫：，[俄语罗马化](../Page/俄语罗马化.md "wikilink")：Berezin Sinkhronniy，英語全寫：，意為：別列津[射擊斷續型機槍](https://zh.wikipedia.org/wiki/射击断续器 "wikilink")）以下投入服役。其射速之高使得它非常適合用作軍用戰機的防衛武器。雖然設計是成功的，但也BS並非毫無缺陷；要說其最大的缺失在於需要物理強度相當大的[電纜](../Page/電纜.md "wikilink")操作充電。其他還有供彈系統不完善與某些自動化部件的壽命不足。
+[UBK_machine_gun.jpg](https://zh.wikipedia.org/wiki/File:UBK_machine_gun.jpg "fig:UBK_machine_gun.jpg") [UBS_machine_gun.jpg](https://zh.wikipedia.org/wiki/File:UBS_machine_gun.jpg "fig:UBS_machine_gun.jpg") [UBT_machine_gun.jpg](https://zh.wikipedia.org/wiki/File:UBT_machine_gun.jpg "fig:UBT_machine_gun.jpg") 1937年，米哈伊爾·葉夫根耶維奇·別列津開始設計一款發射步兵機槍所配用的12.7毫米子彈的新型大口徑航空機槍。1938年，新型設計的航空機槍通過了原廠試驗，並於1939年命名為**BS**（俄語全寫：，[俄语罗马化](../Page/俄语罗马化.md "wikilink")：Berezin Sinkhronniy，英語全寫：，意為：別列津[射擊斷續型機槍](https://zh.wikipedia.org/wiki/射击断续器 "wikilink")）以下投入服役。其射速之高使得它非常適合用作軍用戰機的防衛武器。雖然設計是成功的，但也BS並非毫無缺陷；要說其最大的缺失在於需要物理強度相當大的[線纜上膛系統](https://zh.wikipedia.org/wiki/線纜 "wikilink")。其他還有供彈系統不完善與某些自動化部件的壽命不足。
 
-持續的研發引導出UB的改進型，分為三個版本：UBK（當中「K」的俄語全寫：，俄语罗马化：Krylyevoi，意為：裝於[机翼](../Page/机翼.md "wikilink")型）、UBS（當中「S」的俄語全寫：，Sinkhronniy，意為：射擊斷續型）和UBT（當中「T」的俄語全寫：，俄语罗马化：Turelniy，裝於槍塔型）；其中UBS和UBK是由[压缩空气充電](https://zh.wikipedia.org/wiki/压缩空气 "wikilink")。1941年4月22日，在[苏德战争](../Page/苏德战争.md "wikilink")開始前兩個月，UB已獲採用服役。
+持續的研發引導出UB的改進型，分為三個版本：UBK（當中「K」的俄語全寫：，俄语罗马化：Krylyevoi，意為：裝於[机翼](../Page/机翼.md "wikilink")型）、UBS（當中「S」的俄語全寫：，Sinkhronniy，意為：射擊斷續型）和UBT（當中「T」的俄語全寫：，俄语罗马化：Turelniy，裝於槍塔型）；其中UBS和UBK是由[压缩空气上膛](https://zh.wikipedia.org/wiki/压缩空气 "wikilink")。1941年4月22日，在[苏德战争](../Page/苏德战争.md "wikilink")開始前兩個月，UB已獲採用服役。
 
 ## 描述
 
-別列津UB是一款[氣動式空氣冷卻型機槍航空](../Page/氣動式_\(槍械\).md "wikilink")，發射蘇聯[12.7×108毫米步兵重機槍子彈](../Page/12.7×108mm.md "wikilink")。其[彈藥藉由](https://zh.wikipedia.org/wiki/彈藥 "wikilink")[可散式彈鏈](../Page/彈鏈.md "wikilink")、以獨特的供彈系統一邊維持供彈，另一方面以下一發協助抽出擊發過後的彈殼。另一個不尋常的特徵是，彈鏈鏈鈎會在機槍復進的運動過程期間被拋出，而並非在後座過程中。裝於槍塔型（UBT）為手動充電，而裝於機翼型（UBK）與射擊斷續型（UBS）則採用​​氣動充電。
+別列津UB是一款[氣動式空氣冷卻型機槍航空](../Page/氣動式_\(槍械\).md "wikilink")，發射蘇聯[12.7×108毫米步兵重機槍子彈](../Page/12.7×108mm.md "wikilink")。其[彈藥藉由](https://zh.wikipedia.org/wiki/彈藥 "wikilink")[可散式彈鏈](../Page/彈鏈.md "wikilink")、以獨特的供彈系統一邊維持供彈，另一方面以下一發協助抽出擊發過後的彈殼。另一個不尋常的特徵是，彈鏈鏈鈎會在機槍復進的運動過程期間被拋出，而並非在後座過程中。裝於槍塔型（UBT）為手動上膛，而裝於機翼型（UBK）與射擊斷續型（UBS）則採用​​氣動上膛。
 
 UB的所有衍生型在[二戰中獲絕大多數蘇聯軍用戰機所使用](../Page/第二次世界大战.md "wikilink")。
 

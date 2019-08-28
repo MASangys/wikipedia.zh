@@ -65,10 +65,11 @@
       - [三星Galaxy S10系列](../Page/三星Galaxy_S10.md "wikilink")
       - [三星Galaxy Fold](../Page/三星Galaxy_Fold.md "wikilink")
       - [三星Galaxy Tab S5e](https://zh.wikipedia.org/wiki/三星Galaxy_Tab_S5e "wikilink")
-      - [三星Galaxy Tab A with S Pen](https://zh.wikipedia.org/wiki/三星Galaxy_Tab_A_with_S_Pen "wikilink")
+      - [三星Galaxy Tab A 8.0 (2019) with S Pen](https://zh.wikipedia.org/wiki/三星Galaxy_Tab_A_8.0_\(2019\)_with_S_Pen "wikilink")
       - [三星Galaxy Tab A 10.1(2019)](https://zh.wikipedia.org/wiki/三星Galaxy_Tab_A_10.1\(2019\) "wikilink")
       - [三星Galaxy M40](https://zh.wikipedia.org/wiki/三星Galaxy_M40 "wikilink")
-      - [三星Galaxy Tab S6](https://zh.wikipedia.org/wiki/三星Galaxy_Tab_S6 "wikilink")
+      - [三星Galaxy Tab S6](../Page/三星Galaxy_Tab_S6.md "wikilink")
+      - [三星Galaxy Note10/10 5G/10+/10+ 5G](../Page/三星Galaxy_Note_10系列.md "wikilink")
   - 華碩
       - [ASUS Zenfone 6](https://zh.wikipedia.org/wiki/ASUS_Zenfone_6 "wikilink")
   - realme（原OPPO子品牌，后独立）
@@ -133,6 +134,8 @@
   - [HTC U12+](../Page/HTC_U12+.md "wikilink")（2019年6月29日）
 
   - [HTC U11+](../Page/HTC_U11+.md "wikilink")（2019年7月8日）
+
+  - [Moto Z2 Force](https://zh.wikipedia.org/wiki/Moto_Z2_Force "wikilink")（2019年8月13日）
 
 **第三方已对以下设备放出基于Android 9正式版的公开/不限量公测固件：**
 

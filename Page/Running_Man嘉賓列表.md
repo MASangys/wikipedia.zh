@@ -1621,16 +1621,16 @@
 <tr class="odd">
 <td><p><a href="../Page/鄭恩地.md" title="wikilink">鄭恩地</a>（정은지）</p></td>
 <td><p>歌手組合（女）（<a href="../Page/Apink.md" title="wikilink">Apink</a>）</p></td>
-<td><p>162、218</p></td>
-<td><p>2</p></td>
-<td><p>2</p></td>
+<td><p>162、218、458-459</p></td>
+<td><p>4</p></td>
+<td><p>4</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/孫娜恩.md" title="wikilink">孫娜恩</a>（손나은）</p></td>
 <td><p>歌手組合（女）（<a href="../Page/Apink.md" title="wikilink">Apink</a>）</p></td>
-<td><p>162、202-203、356-357、360-361、424</p></td>
-<td><p>8</p></td>
-<td><p>5</p></td>
+<td><p>162、202-203、356-357、360-361、424、458-459</p></td>
+<td><p>10</p></td>
+<td><p>7</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/金海淑.md" title="wikilink">金海淑</a>（김해숙）</p></td>
@@ -2055,9 +2055,9 @@
 <tr class="odd">
 <td><p><a href="../Page/尹普美.md" title="wikilink">尹普美</a>（윤보미）</p></td>
 <td><p>歌手組合（女）（<a href="../Page/Apink.md" title="wikilink">Apink</a>）</p></td>
-<td><p>202-203、255、344、372</p></td>
-<td><p>5</p></td>
-<td><p>4</p></td>
+<td><p>202-203、255、344、372、458-459</p></td>
+<td><p>7</p></td>
+<td><p>6</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/白智榮.md" title="wikilink">白智榮</a>（백지영）</p></td>
@@ -4749,35 +4749,35 @@
 </tr>
 <tr class="even">
 <td><p>有　真（유　진）</p></td>
-<td><p>歌手組合（男）（<a href="https://zh.wikipedia.org/wiki/KNK" title="wikilink">KNK</a>）</p></td>
+<td><p>歌手組合（男）（<a href="../Page/KNK.md" title="wikilink">KNK</a>）</p></td>
 <td><p>319</p></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>承　俊（승　준）</p></td>
-<td><p>歌手組合（男）（<a href="https://zh.wikipedia.org/wiki/KNK" title="wikilink">KNK</a>）</p></td>
+<td><p>歌手組合（男）（<a href="../Page/KNK.md" title="wikilink">KNK</a>）</p></td>
 <td><p>319</p></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
 <td><p>因　成（인　성）</p></td>
-<td><p>歌手組合（男）（<a href="https://zh.wikipedia.org/wiki/KNK" title="wikilink">KNK</a>）</p></td>
+<td><p>歌手組合（男）（<a href="../Page/KNK.md" title="wikilink">KNK</a>）</p></td>
 <td><p>319</p></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>智　勳（지　훈）</p></td>
-<td><p>歌手組合（男）（<a href="https://zh.wikipedia.org/wiki/KNK" title="wikilink">KNK</a>）</p></td>
+<td><p>歌手組合（男）（<a href="../Page/KNK.md" title="wikilink">KNK</a>）</p></td>
 <td><p>319</p></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
 <td><p>熙　俊（희　준）</p></td>
-<td><p>歌手組合（男）（<a href="https://zh.wikipedia.org/wiki/KNK" title="wikilink">KNK</a>）</p></td>
+<td><p>歌手組合（男）（<a href="../Page/KNK.md" title="wikilink">KNK</a>）</p></td>
 <td><p>319</p></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
@@ -5037,9 +5037,9 @@
 <tr class="odd">
 <td><p><a href="../Page/吳夏榮.md" title="wikilink">吳夏榮</a>（오하영）</p></td>
 <td><p>歌手組合（女）（<a href="../Page/Apink.md" title="wikilink">Apink</a>）</p></td>
-<td><p>356-357</p></td>
-<td><p>2</p></td>
-<td><p>1</p></td>
+<td><p>356-357、458-459</p></td>
+<td><p>4</p></td>
+<td><p>3</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/李泰煥.md" title="wikilink">李泰煥</a>（이태환）</p></td>
@@ -5572,6 +5572,69 @@
 <td><p>457</p></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/Gummy_(歌手).md" title="wikilink">Gummy</a>（거미）</p></td>
+<td><p>歌手（女）</p></td>
+<td><p>458-459</p></td>
+<td><p>2</p></td>
+<td><p>2</p></td>
+</tr>
+<tr class="odd">
+<td><p>（넉살）</p></td>
+<td><p>歌手（男）</p></td>
+<td><p>458-459</p></td>
+<td><p>2</p></td>
+<td><p>2</p></td>
+</tr>
+<tr class="even">
+<td><p>（코드 쿤스트）</p></td>
+<td><p>歌手（男）</p></td>
+<td><p>458-459</p></td>
+<td><p>2</p></td>
+<td><p>2</p></td>
+</tr>
+<tr class="odd">
+<td><p>徐勉浩（서면호）</p></td>
+<td><p>歌手組合（男）（）</p></td>
+<td><p>458-459</p></td>
+<td><p>2</p></td>
+<td><p>2</p></td>
+</tr>
+<tr class="even">
+<td><p>李太旭（이태욱）</p></td>
+<td><p>歌手組合（男）（）</p></td>
+<td><p>458-459</p></td>
+<td><p>2</p></td>
+<td><p>2</p></td>
+</tr>
+<tr class="odd">
+<td><p>片由日（편유일）</p></td>
+<td><p>歌手組合（男）（）</p></td>
+<td><p>458-459</p></td>
+<td><p>2</p></td>
+<td><p>2</p></td>
+</tr>
+<tr class="even">
+<td><p>高英培（고영배）</p></td>
+<td><p>歌手組合（男）（）</p></td>
+<td><p>458-459</p></td>
+<td><p>2</p></td>
+<td><p>2</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/朴初瓏.md" title="wikilink">朴初瓏</a>（박초롱）</p></td>
+<td><p>歌手組合（女）（<a href="../Page/Apink.md" title="wikilink">Apink</a>）</p></td>
+<td><p>458-459</p></td>
+<td><p>2</p></td>
+<td><p>2</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/金南珠_(歌手).md" title="wikilink">金南珠</a>（김남주）</p></td>
+<td><p>歌手組合（女）（<a href="../Page/Apink.md" title="wikilink">Apink</a>）</p></td>
+<td><p>458-459</p></td>
+<td><p>2</p></td>
+<td><p>2</p></td>
 </tr>
 </tbody>
 </table>

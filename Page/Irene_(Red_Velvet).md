@@ -4,7 +4,7 @@
 
 ## 個人生活
 
-**裴柱現**於1991年3月29日出生於[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[大邱廣域市](../Page/大邱廣域市.md "wikilink")北區（原 大邱直轄市）\[1\]，曾畢業于仁智初等学校、雲巖中學校、大邱鶴南高中。小學時當過[播音員](../Page/播音員.md "wikilink")。
+**裴柱現**於1991年3月29日出生於[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[大邱廣域市](../Page/大邱廣域市.md "wikilink")北區（原 大邱直轄市）\[1\]，有一個妹妹。畢業于仁智初等学校、雲巖中學校、大邱鶴南高中。小學時當過[播音員](../Page/播音員.md "wikilink")。
 
 ## 簡歷
 
@@ -30,12 +30,33 @@
 
 ## 關於本名
 
-裴珠泫為大陸非官方本名譯名，裴柱現則是出自在2015年2月官方個人簡介經過正名的名字。\[13\]
+裴珠泫為非官方本名譯名，裴柱現則是出自在2015年2月官方個人簡介經過正名的名字。\[13\]
 
 ## 音樂作品
 
   -
     <small>所屬團體之共同作品，請參閱 [Red Velvet音樂作品列表](https://zh.wikipedia.org/wiki/Red_Velvet音樂作品列表 "wikilink")</small>
+
+### 合作作品
+
+<table>
+<thead>
+<tr class="header">
+<th><p>發佈日期</p></th>
+<th><p>歌曲名稱</p></th>
+<th><p>專輯名稱</p></th>
+<th><p>合作藝人</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2019年8月2日</p></td>
+<td><p>The Only [14]</p></td>
+<td></td>
+<td><p>Raiden</p></td>
+</tr>
+</tbody>
+</table>
 
 ## 影視作品
 
@@ -132,7 +153,7 @@ SR14G</p></td>
 <td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a></p></td>
 <td><p>《<a href="../Page/認識的哥哥.md" title="wikilink">認識的哥哥</a>》</p></td>
 <td><p>與<a href="https://zh.wikipedia.org/wiki/金鐘鉉_(歌手)" title="wikilink">鐘鉉</a>（<a href="../Page/SHINee.md" title="wikilink">SHINee</a>）<br />
-6月9日錄製[14]</p></td>
+6月9日錄製[15]</p></td>
 </tr>
 <tr class="even">
 <td><p>6月25日</p></td>
@@ -177,6 +198,13 @@ SR14G</p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>12月27日</p></td>
+<td><p>《<a href="../Page/俘獲芳心頻道.md" title="wikilink">俘獲芳心頻道</a>》</p></td>
+<td><p>與Seulgi</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>2019年</p></td>
 <td><p>2月14日</p></td>
 <td><p>《<a href="../Page/俘獲芳心頻道.md" title="wikilink">俘獲芳心頻道</a>》</p></td>
@@ -232,7 +260,7 @@ SR14G</p></td>
 </tr>
 <tr class="odd">
 <td><p>2017年3月30日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a> 《KCON 2017 in Mexico》</p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a> 《KCON 2017 in Mexico》</p></td>
 <td><p><a href="../Page/瑟琪.md" title="wikilink">SEULGI</a>（<a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a>）</p></td>
 <td><p>2017年3月18日錄製</p></td>
 <td></td>
@@ -242,7 +270,7 @@ SR14G</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a>《<a href="https://zh.wikipedia.org/wiki/音乐银行" title="wikilink">Music Bank</a> World Tour in Singapore》</p></td>
 <td><p>MC</p></td>
 <td><p><a href="../Page/朴寶劍.md" title="wikilink">朴寶劍</a></p></td>
-<td><p>2017年8月4日錄製[15]</p></td>
+<td><p>2017年8月4日錄製[16]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2017年9月30日</p></td>
@@ -276,7 +304,7 @@ SR14G</p></td>
 <td><p>2017年12月29日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a> 2017《<a href="../Page/KBS歌謠盛典.md" title="wikilink">KBS歌謠盛典</a>》</p></td>
 <td><p>上部MC</p></td>
-<td><p><a href="../Page/Chanyeol.md" title="wikilink">燦烈</a>（<a href="../Page/EXO.md" title="wikilink">EXO</a>）、<a href="../Page/金碩珍.md" title="wikilink">Jin</a>（<a href="../Page/防彈少年團.md" title="wikilink">防彈少年團</a>）、<a href="../Page/Sana_(TWICE).md" title="wikilink">Sana</a>（<a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a>）[16]</p></td>
+<td><p><a href="../Page/Chanyeol.md" title="wikilink">燦烈</a>（<a href="../Page/EXO.md" title="wikilink">EXO</a>）、<a href="../Page/金碩珍.md" title="wikilink">Jin</a>（<a href="../Page/防彈少年團.md" title="wikilink">防彈少年團</a>）、<a href="../Page/Sana_(TWICE).md" title="wikilink">Sana</a>（<a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a>）[17]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -320,7 +348,7 @@ SR14G</p></td>
 <tr class="odd">
 <td><p>2017年10月21日</p></td>
 <td></td>
-<td><p>ABC MART GS弘大店 [17]</p></td>
+<td><p>ABC MART GS弘大店 [18]</p></td>
 </tr>
 <tr class="even">
 <td><p>《Colombiana》品牌簽售會</p></td>
@@ -365,17 +393,17 @@ SR14G</p></td>
 |               |                                                              |                                  |
 | ------------- | ------------------------------------------------------------ | -------------------------------- |
 | **年份**        | **品牌名稱**                                                     | **合作藝人**                         |
-| 2013          | [Burberry](../Page/巴寶莉.md "wikilink") Heritage Trench \[18\] | —                                |
-| 2014          | Ivy Club \[19\]                                              | [EXO](../Page/EXO.md "wikilink") |
+| 2013          | [Burberry](../Page/巴寶莉.md "wikilink") Heritage Trench \[19\] | —                                |
+| 2014          | Ivy Club \[20\]                                              | [EXO](../Page/EXO.md "wikilink") |
 | 2017 — 2019   | NUOVO                                                        | —                                |
 | 2017 — 至今     | Colombiana                                                   | —                                |
 | 2018 — 至今     | HAZZYS ACCESSORIES                                           | —                                |
 | Cooper Vision | —                                                            |                                  |
 | Lemona        | —                                                            |                                  |
 | Eider         | 朴寶劍                                                          |                                  |
+| 兩班即食粥         | Wendy                                                        |                                  |
 | 2019 — 至今     | 真露                                                           | —                                |
 | 2019 — 至今     | Damiani                                                      | —                                |
-|               |                                                              |                                  |
 
 ### 廣告/遊戲代言
 
@@ -447,3 +475,4 @@ SR14G</p></td>
 17.
 18.
 19.
+20.

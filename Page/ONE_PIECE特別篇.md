@@ -1,8 +1,223 @@
-本系列是改編自[尾田榮一郎的同名原作漫畫](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")《[ONE PIECE](../Page/ONE_PIECE.md "wikilink")》改編的[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")、[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")、[OVA作品](https://zh.wikipedia.org/wiki/OVA "wikilink")，主要是以原著的著名篇章（東海篇、空島篇、水之七島篇 等）、或是人氣角色（魯夫、薩波 等）的故事，以此為基礎重新製作的特別篇[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")，並將故事濃縮至一～兩小時，當然也有完全原創新故事，並於每年的夏季結尾（偶爾也有冬季）的「週六PREMIUM」（）時間段於電視上播放。
+本系列是改編自[尾田榮一郎的同名原作漫畫](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")《[ONE PIECE](../Page/ONE_PIECE.md "wikilink")》改編的[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")、[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")、[OVA作品](https://zh.wikipedia.org/wiki/OVA "wikilink")，主要是以原著的著名篇章（東海篇、空島篇、水之七島篇 等）、或是人氣角色（魯夫、娜每、薩波等）的故事，以此為基礎重新製作的特別篇[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")，並將故事濃縮至兩小時內，也有完全原創新故事，於每年的夏季末（偶爾也有冬季）的「週六PREMIUM」（）時間段於電視上播放。
 
-## TV SPECIAL（週六PREMIUM系列）
+此外另有其他衍生特別篇：[草帽劇場](../Page/ONE_PIECE_草帽劇場.md "wikilink")、[喬巴超人](https://zh.wikipedia.org/wiki/喬巴超人 "wikilink")、[海賊時代劇](https://zh.wikipedia.org/wiki/ONE_PIECE_海賊時代劇 "wikilink")。
 
-### 娜美特別篇〜領航員之淚與伙伴的羈絆〜
+## 電視特別篇
+
+### 海肚臍篇
+
+<table>
+<thead>
+<tr class="header">
+<th><p><strong>魯夫墜落！！秘境，海上肚臍大冒險</strong><br />
+</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><strong>話數/系列</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>TVSP1</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>故事介紹</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>魯夫一行人在航海途中釣魚時釣到了一個寶箱，打開一看發現裡面有一張紙，寫著「看到大海的肚臍就跳進去，那裡長眠著夢幻的寶藏」，同時海面上出現了一個大洞，就像海的肚臍眼一樣。娜美、騙人布和香吉士決定一起進入海肚臍去尋寶，另一方面留守在船上的魯夫和索隆撿到了一封神秘的瓶中信。被捲入海中的魯夫和索隆遇到了居住在海肚臍的少女<strong>美洛</strong>和少年<strong>哈姆</strong>。此時娜美、騙人布也遇到了<strong>裘克船長</strong>的亡靈。當索隆和神獸一直處於戰鬥中，美洛援護索隆；最後魯夫等人的援護成功擊倒裘克船長的亡靈。</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>角色</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>'''<a href="../Page/蒙其·D·魯夫.md" title="wikilink">魯夫</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>'''<a href="../Page/羅羅亞·索隆.md" title="wikilink">索隆</a></p></td>
+</tr>
+<tr class="even">
+<td><p>'''<a href="../Page/娜美.md" title="wikilink">娜美</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>'''<a href="../Page/騙人布.md" title="wikilink">騙人布</a></p></td>
+</tr>
+<tr class="even">
+<td><p>'''<a href="https://zh.wikipedia.org/wiki/賓什莫克·香吉士" title="wikilink">香吉士</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>美洛（）</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><strong>哈姆（）</strong></p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>裘克船長（）</strong></p></td>
+</tr>
+</tbody>
+</table>
+
+### 大海原篇
+
+<table>
+<thead>
+<tr class="header">
+<th><p><strong>在遼闊的海洋上馳騁！父親偉大的夢想</strong><br />
+</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><strong>話數/系列</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>TVSP2</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>故事介紹</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>一名少女<strong>阿曼達</strong>由於握有去世父親的寶藏圖秘密，而和妹妹<strong>密莉亞</strong>和弟弟<strong>霍利</strong>一起被海賊團擄走。阿曼達說動了船上負責看守他們的打雜海賊<strong>馬庫司</strong>和<strong>波妮</strong>帶著他們一起逃跑。他們躲藏在一座無人島上尋寶時，碰到了魯夫一行人剛好也來到了島上。就在一夥人相處甚歡時，<strong>拜昂海賊團</strong>的<strong>查普</strong>竟也循線追來了。</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>角色</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>'''<a href="../Page/蒙其·D·魯夫.md" title="wikilink">魯夫</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>'''<a href="../Page/羅羅亞·索隆.md" title="wikilink">索隆</a></p></td>
+</tr>
+<tr class="even">
+<td><p>'''<a href="../Page/娜美.md" title="wikilink">娜美</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>'''<a href="../Page/騙人布.md" title="wikilink">騙人布</a></p></td>
+</tr>
+<tr class="even">
+<td><p>'''<a href="https://zh.wikipedia.org/wiki/賓什莫克·香吉士" title="wikilink">香吉士</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>'''<a href="../Page/多尼多尼·喬巴.md" title="wikilink">喬巴</a></p></td>
+</tr>
+<tr class="even">
+<td><p>'''<a href="../Page/妮可·羅賓.md" title="wikilink">羅賓</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>阿曼達（）</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><strong>密莉亞（）</strong></p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>霍利（）</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><strong>馬庫司（）</strong></p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>波妮（）</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><strong>查普（）</strong></p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>拜昂（）</strong></p></td>
+</tr>
+</tbody>
+</table>
+
+### 大舞台篇
+
+<table>
+<thead>
+<tr class="header">
+<th><p><strong>堅守！最後的大舞台</strong><br />
+</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><strong>話數/系列</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>TVSP3</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>故事介紹</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>魯夫他們無意間來到一座島，在這裡看到有個名為<strong>蘭道爾夫</strong>的舞台劇演員將演出最後一場戲，魯夫他們決定留下來看戲，沒想到卻誤打誤撞成了臨時替代的演員，不過被他們一演就變成了亂七八糟的鬧劇，偏偏海軍也在這時候來抓蘭道爾夫，原來蘭道爾夫以前也是海軍上校，被自己的部下陷害，以偷渡海軍槍械武器賣給海賊的名義要被送到軍事法庭審判，幸好魯夫他們出手守護蘭道爾夫的最後舞台。</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>角色</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>'''<a href="../Page/蒙其·D·魯夫.md" title="wikilink">魯夫</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>'''<a href="../Page/羅羅亞·索隆.md" title="wikilink">索隆</a></p></td>
+</tr>
+<tr class="even">
+<td><p>'''<a href="../Page/娜美.md" title="wikilink">娜美</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>'''<a href="../Page/騙人布.md" title="wikilink">騙人布</a></p></td>
+</tr>
+<tr class="even">
+<td><p>'''<a href="https://zh.wikipedia.org/wiki/賓什莫克·香吉士" title="wikilink">香吉士</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>'''<a href="../Page/多尼多尼·喬巴.md" title="wikilink">喬巴</a></p></td>
+</tr>
+<tr class="even">
+<td><p>'''<a href="../Page/妮可·羅賓.md" title="wikilink">羅賓</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>蘭道爾夫（）</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><strong></strong></p></td>
+</tr>
+<tr class="odd">
+<td><p><strong></strong></p></td>
+</tr>
+<tr class="even">
+<td><p><strong></strong></p></td>
+</tr>
+<tr class="odd">
+<td><p><strong></strong></p></td>
+</tr>
+<tr class="even">
+<td><p><strong></strong></p></td>
+</tr>
+<tr class="odd">
+<td><p><strong></strong></p></td>
+</tr>
+<tr class="even">
+<td><p><strong></strong></p></td>
+</tr>
+<tr class="odd">
+<td><p><strong></strong></p></td>
+</tr>
+<tr class="even">
+<td><p><strong></strong></p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>村人</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><strong>觀眾</strong></p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>觀眾</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><strong>士兵</strong></p></td>
+</tr>
+</tbody>
+</table>
+
+### 娜美特別篇
 
 《**ONE PIECE 娜美特別篇〜領航員之淚與伙伴的羈絆〜**》（）是電視動畫《[ONE PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》的特別節目，於2012年8月25日在日本播出。
 
@@ -34,27 +249,27 @@
  |- | '''村人 | [神兒遊助](../Page/上地雄輔.md "wikilink")
 [佐藤勝利](../Page/佐藤勝利.md "wikilink") |- | '''魚人海賊 | [西島隆弘](../Page/西島隆弘.md "wikilink") |}
 
-### 魯夫特別篇〜手掌島的冒險〜
+### 魯夫特別篇
 
 《**ONE PIECE 魯夫特別篇〜手掌島的冒險〜**》是電視動畫《[ONE PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》的特別節目，於2012年12月15日在日本播出\[1\]。該2小時特別節目為紀念電影《[ONE PIECE FILM Z](https://zh.wikipedia.org/wiki/ONE_PIECE_FILM_Z "wikilink")》上映而製作，在上映日於電視台同日播出\[2\]。為「週六PREMIUM」時段播出的《[ONE PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》電視特別篇第二彈。
 
-### 梅利特別篇〜另一位夥伴的故事〜
+### 梅利特別篇
 
 《**ONE PIECE 梅利特別篇〜另一位夥伴的故事〜**》（）是電視動畫《[ONE PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》的特別節目，於2013年8月24日在日本播出\[3\]。為「週六PREMIUM」時段播出的《[ONE PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》電視特別篇第三彈。
 
-### “~~3D~~2Y”篇 跨越艾斯之死！魯夫與夥伴的誓言
+### ~~3D~~2Y篇
 
 《**ONE PIECE -{“~~3D~~2Y”}- 跨越艾斯之死！ 魯夫與夥伴的誓言**》（）是電視動畫《[ONE PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》的特別節目，於2014年8月30日在日本[富士電視台](../Page/富士電視台.md "wikilink")播出。該2小時特別節目為慶祝本作《[ONE PIECE](../Page/ONE_PIECE.md "wikilink")》電視動畫已播映15周年\[4\]。為「週六PREMIUM」時段播出的《[ONE PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》電視特別篇第四彈。
 
 至於本作是原作與動畫未曾敘述過的故事為完全新作，劇情主要敘述魯夫在在暗號《3D2Y》中寄託的含義及「頂點戰爭」2年間霸氣的修行。
 
-### 薩波特別篇 〜3兄弟的羈絆 奇跡的再會和被繼承的意志〜
+### 薩波特別篇
 
 《**ONE PIECE 薩波特別篇 〜3兄弟的羈絆 奇跡的再會和被繼承的意志〜**》（）是電視動畫《[ONE PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》的特別節目，於2015年8月22日在日本[富士電視台](../Page/富士電視台.md "wikilink")播出\[5\]。此外該片在電視播放完畢時發表製作新電影《[ONE PIECE FILM GOLD](../Page/ONE_PIECE_FILM_GOLD.md "wikilink")》。該2小時特別節目為「週六PREMIUM」時段播出的《[ONE PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》電視特別篇第五彈。
 
 至於本作是以主角[魯夫的義兄弟](https://zh.wikipedia.org/wiki/魯夫 "wikilink")[薩波為主要軸心人物](https://zh.wikipedia.org/wiki/薩波 "wikilink")，與魯夫、[艾斯的童年回憶為重新繪製的版本](https://zh.wikipedia.org/wiki/艾斯 "wikilink")，在劇情上與原作有一定區別，本作也有原作與動畫未曾敘述過的故事，劇情主要敘述以薩波的角度潛入[多雷斯羅薩](../Page/多雷斯羅薩.md "wikilink")的故事。
 
-### 特別篇 〜霧之島的冒險〜
+### 霧之島篇
 
 《**ONE PIECE特別篇 〜霧之島的冒險〜**》（）是電視動畫《[ONE PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》的特別節目，於2015年12月19日在日本播出。2016年1月31日在台灣首播。
 
@@ -75,13 +290,13 @@
 
 \!rowspan="2" width=120|角色名稱 \!colspan="2" width=200|配音員 |- \!width=100| [日本](../Page/日本.md "wikilink") \!width=100| [台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink") |- | **[蒙其·D·魯夫](../Page/蒙其·D·魯夫.md "wikilink") | [田中真弓](../Page/田中真弓.md "wikilink") | [詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink") |- |**[羅羅亞·索隆](../Page/羅羅亞·索隆.md "wikilink") | [中井和哉](../Page/中井和哉.md "wikilink") | [宋克軍](../Page/宋克軍.md "wikilink") |- | '''[娜美](../Page/娜美.md "wikilink") | [岡村明美](../Page/岡村明美.md "wikilink") | [許淑嬪](../Page/許淑嬪.md "wikilink") |- | '''[騙人布](../Page/騙人布.md "wikilink") | [山口勝平](../Page/山口勝平.md "wikilink") | [符爽](../Page/符爽.md "wikilink") |- | '''[香吉士](https://zh.wikipedia.org/wiki/賓什莫克·香吉士 "wikilink") | [平田廣明](../Page/平田廣明.md "wikilink") | [孫中台](../Page/孫中台.md "wikilink") |- | '''[喬巴](../Page/多尼多尼·喬巴.md "wikilink") | [大谷育江](../Page/大谷育江.md "wikilink") | [詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink") |- | '''[羅賓](../Page/妮可·羅賓.md "wikilink") | [山口由里子](../Page/山口由里子.md "wikilink") | [許淑嬪](../Page/許淑嬪.md "wikilink") |- | '''[佛朗基](../Page/佛朗基.md "wikilink") | [矢尾一樹](../Page/矢尾一樹.md "wikilink") | [符爽](../Page/符爽.md "wikilink") |- | '''[布魯克](../Page/布魯克_\(ONE_PIECE\).md "wikilink") | [長](https://zh.wikipedia.org/wiki/長_\(日本配音員\) "wikilink") | [宋克軍](../Page/宋克軍.md "wikilink") |- | **弗克西** | [島田敏](../Page/島田敏.md "wikilink") | [孫中台](../Page/孫中台.md "wikilink") |- | **波琪** | [中山真-{奈}-美](../Page/中山真奈美.md "wikilink") | [許淑嬪](../Page/許淑嬪.md "wikilink") |- | **漢堡** | [掛川裕彥](../Page/掛川裕彥.md "wikilink") | [宋克軍](../Page/宋克軍.md "wikilink") |- | **卡柏帝** | [土田大](../Page/土田大.md "wikilink") | [符爽](../Page/符爽.md "wikilink") |- | **比格潘** | [大場真人](../Page/大場真人.md "wikilink") | [孫中台](../Page/孫中台.md "wikilink") |- | **皮克魯斯** | [龍谷修武](../Page/龍谷修武.md "wikilink") | [符爽](../Page/符爽.md "wikilink") |- | **香菇蛇** | [粗忽屋西神戶店](../Page/中井和哉.md "wikilink") | [孫中台](../Page/孫中台.md "wikilink") |- | **啾啾** | [粗忽屋](../Page/平田廣明.md "wikilink") | [錢欣郁](../Page/錢欣郁.md "wikilink") |- | **線蚯蚓** | [難波圭一](../Page/難波圭一.md "wikilink") | [宋克軍](../Page/宋克軍.md "wikilink") |- | **卡普** | [中博史](../Page/中博史.md "wikilink") | [孫中台](../Page/孫中台.md "wikilink") |- | **阿鶴** | [松島實](../Page/松島實.md "wikilink") | [錢欣郁](../Page/錢欣郁.md "wikilink") |- | **銅雀** |  | [李世揚](../Page/李世揚.md "wikilink") |- | **關勝** |  | [宋克軍](../Page/宋克軍.md "wikilink") |- | **孔明** |  | [符爽](../Page/符爽.md "wikilink") |}
 
-### 特別篇 ～黃金之心～
+### 黃金之心篇
 
 **《ONE PIECE 特別篇 ～黃金之心～》**是電視動畫《[ONE PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》的特別節目，於2016年7月16日在日本[富士電視台](../Page/富士電視台.md "wikilink")播出。該2小時特別節目為為電影版《[ONE PIECE FILM GOLD](../Page/ONE_PIECE_FILM_GOLD.md "wikilink")》公開記念特別企畫，為電影版故事的前傳。為「週六PREMIUM」時段播出的《[ONE PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》電視特別篇第七彈。
 
 主題曲為「Destiny」，由同樣擔任電視動畫版第二首片尾曲的[大槻真希](../Page/大槻真希.md "wikilink")所擔任作詞、作曲及演唱；插曲為「オルガ アルケミの子守唄」，由本作特別來賓[濱邊美波](../Page/濱邊美波.md "wikilink")（飾演：歐爾嘉）演唱。聲優由知名[俳優的](https://zh.wikipedia.org/wiki/俳優 "wikilink")[小栗旬](../Page/小栗旬.md "wikilink")出演，飾演本作反派史上最凶殘最瘋狂的尋寶獵人。
 
-### 東海特別篇 ～魯夫與4名伙伴的大冒險～
+### 東海特別篇
 
 《**ONE PIECE 東海特別篇 ～魯夫與4名伙伴的大冒險～**》（）是電視動畫《[ONE PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》的特別節目，於2017年8月26日在日本播出。
 
@@ -269,222 +484,7 @@
 </tbody>
 </table>
 
-## TV SPECIAL（其他系列）
-
-### 魯夫墜落！！秘境，海上肚臍大冒險
-
-<table>
-<thead>
-<tr class="header">
-<th><p><strong>魯夫墜落！！秘境，海上肚臍大冒險</strong><br />
-</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><strong>話數/系列</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>TVSP1</p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>故事介紹</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>魯夫一行人在航海途中釣魚時釣到了一個寶箱，打開一看發現裡面有一張紙，寫著「看到大海的肚臍就跳進去，那裡長眠著夢幻的寶藏」，同時海面上出現了一個大洞，就像海的肚臍眼一樣。娜美、騙人布和香吉士決定一起進入海肚臍去尋寶，另一方面留守在船上的魯夫和索隆撿到了一封神秘的瓶中信。被捲入海中的魯夫和索隆遇到了居住在海肚臍的少女<strong>美洛</strong>和少年<strong>哈姆</strong>。此時娜美、騙人布也遇到了<strong>裘克船長</strong>的亡靈。當索隆和神獸一直處於戰鬥中，美洛援護索隆；最後魯夫等人的援護成功擊倒裘克船長的亡靈。</p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>角色</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>'''<a href="../Page/蒙其·D·魯夫.md" title="wikilink">魯夫</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>'''<a href="../Page/羅羅亞·索隆.md" title="wikilink">索隆</a></p></td>
-</tr>
-<tr class="even">
-<td><p>'''<a href="../Page/娜美.md" title="wikilink">娜美</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>'''<a href="../Page/騙人布.md" title="wikilink">騙人布</a></p></td>
-</tr>
-<tr class="even">
-<td><p>'''<a href="https://zh.wikipedia.org/wiki/賓什莫克·香吉士" title="wikilink">香吉士</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>美洛（）</strong></p></td>
-</tr>
-<tr class="even">
-<td><p><strong>哈姆（）</strong></p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>裘克船長（）</strong></p></td>
-</tr>
-</tbody>
-</table>
-
-### 在遼闊的海洋上馳騁！父親偉大的夢想
-
-<table>
-<thead>
-<tr class="header">
-<th><p><strong>在遼闊的海洋上馳騁！父親偉大的夢想</strong><br />
-</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><strong>話數/系列</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>TVSP2</p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>故事介紹</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>一名少女<strong>阿曼達</strong>由於握有去世父親的寶藏圖秘密，而和妹妹<strong>密莉亞</strong>和弟弟<strong>霍利</strong>一起被海賊團擄走。阿曼達說動了船上負責看守他們的打雜海賊<strong>馬庫司</strong>和<strong>波妮</strong>帶著他們一起逃跑。他們躲藏在一座無人島上尋寶時，碰到了魯夫一行人剛好也來到了島上。就在一夥人相處甚歡時，<strong>拜昂海賊團</strong>的<strong>查普</strong>竟也循線追來了。</p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>角色</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>'''<a href="../Page/蒙其·D·魯夫.md" title="wikilink">魯夫</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>'''<a href="../Page/羅羅亞·索隆.md" title="wikilink">索隆</a></p></td>
-</tr>
-<tr class="even">
-<td><p>'''<a href="../Page/娜美.md" title="wikilink">娜美</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>'''<a href="../Page/騙人布.md" title="wikilink">騙人布</a></p></td>
-</tr>
-<tr class="even">
-<td><p>'''<a href="https://zh.wikipedia.org/wiki/賓什莫克·香吉士" title="wikilink">香吉士</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>'''<a href="../Page/多尼多尼·喬巴.md" title="wikilink">喬巴</a></p></td>
-</tr>
-<tr class="even">
-<td><p>'''<a href="../Page/妮可·羅賓.md" title="wikilink">羅賓</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>阿曼達（）</strong></p></td>
-</tr>
-<tr class="even">
-<td><p><strong>密莉亞（）</strong></p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>霍利（）</strong></p></td>
-</tr>
-<tr class="even">
-<td><p><strong>馬庫司（）</strong></p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>波妮（）</strong></p></td>
-</tr>
-<tr class="even">
-<td><p><strong>查普（）</strong></p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>拜昂（）</strong></p></td>
-</tr>
-</tbody>
-</table>
-
-### 堅守！最後的大舞台
-
-<table>
-<thead>
-<tr class="header">
-<th><p><strong>堅守！最後的大舞台</strong><br />
-</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><strong>話數/系列</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>TVSP3</p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>故事介紹</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>魯夫他們無意間來到一座島，在這裡看到有個名為<strong>蘭道爾夫</strong>的舞台劇演員將演出最後一場戲，魯夫他們決定留下來看戲，沒想到卻誤打誤撞成了臨時替代的演員，不過被他們一演就變成了亂七八糟的鬧劇，偏偏海軍也在這時候來抓蘭道爾夫，原來蘭道爾夫以前也是海軍上校，被自己的部下陷害，以偷渡海軍槍械武器賣給海賊的名義要被送到軍事法庭審判，幸好魯夫他們出手守護蘭道爾夫的最後舞台。</p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>角色</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>'''<a href="../Page/蒙其·D·魯夫.md" title="wikilink">魯夫</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>'''<a href="../Page/羅羅亞·索隆.md" title="wikilink">索隆</a></p></td>
-</tr>
-<tr class="even">
-<td><p>'''<a href="../Page/娜美.md" title="wikilink">娜美</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>'''<a href="../Page/騙人布.md" title="wikilink">騙人布</a></p></td>
-</tr>
-<tr class="even">
-<td><p>'''<a href="https://zh.wikipedia.org/wiki/賓什莫克·香吉士" title="wikilink">香吉士</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>'''<a href="../Page/多尼多尼·喬巴.md" title="wikilink">喬巴</a></p></td>
-</tr>
-<tr class="even">
-<td><p>'''<a href="../Page/妮可·羅賓.md" title="wikilink">羅賓</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>蘭道爾夫（）</strong></p></td>
-</tr>
-<tr class="even">
-<td><p><strong></strong></p></td>
-</tr>
-<tr class="odd">
-<td><p><strong></strong></p></td>
-</tr>
-<tr class="even">
-<td><p><strong></strong></p></td>
-</tr>
-<tr class="odd">
-<td><p><strong></strong></p></td>
-</tr>
-<tr class="even">
-<td><p><strong></strong></p></td>
-</tr>
-<tr class="odd">
-<td><p><strong></strong></p></td>
-</tr>
-<tr class="even">
-<td><p><strong></strong></p></td>
-</tr>
-<tr class="odd">
-<td><p><strong></strong></p></td>
-</tr>
-<tr class="even">
-<td><p><strong></strong></p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>村人</strong></p></td>
-</tr>
-<tr class="even">
-<td><p><strong>觀眾</strong></p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>觀眾</strong></p></td>
-</tr>
-<tr class="even">
-<td><p><strong>士兵</strong></p></td>
-</tr>
-</tbody>
-</table>
-
-## Collaboration Special（特別合作系列）
+## 特別合作系列
 
 ### 美食獵人TORIKO × ONE PIECE
 
@@ -677,12 +677,6 @@ ONE PIECE：第590話</p></td>
 </tr>
 </tbody>
 </table>
-
-## 其他特別篇
-
-  - **[草帽劇場](../Page/ONE_PIECE_草帽劇場.md "wikilink")**
-  - **[喬巴超人](https://zh.wikipedia.org/wiki/喬巴超人 "wikilink")**
-  - **[ONE PIECE 海賊時代劇](https://zh.wikipedia.org/wiki/ONE_PIECE_海賊時代劇 "wikilink")**
 
 ## 參考來源
 

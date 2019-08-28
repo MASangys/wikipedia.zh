@@ -611,7 +611,7 @@ Ah-Choo ( <a href="https://zh.wikipedia.org/wiki/Lovelyz" title="wikilink">Lovel
 <tr class="odd">
 <td><p>崔書允</p></td>
 <td><p>學生</p></td>
-<td><p>Twinkle （<a href="../Page/少女時代-太蒂徐.md" title="wikilink">少女時代-泰蒂徐</a>）</p></td>
+<td><p>Twinkle （<a href="../Page/少女時代-太蒂徐.md" title="wikilink">少女時代-太蒂徐</a>）</p></td>
 <td><p>*第一輪淘汰</p></td>
 <td><p>不適用</p></td>
 <td><p>不適用</p></td>
@@ -1492,7 +1492,7 @@ Ah-Choo ( <a href="https://zh.wikipedia.org/wiki/Lovelyz" title="wikilink">Lovel
 <td><p>千年之愛 （朴完奎）</p></td>
 <td><p>葡萄酒 （<a href="../Page/金慶皓.md" title="wikilink">金慶皓</a>）</p></td>
 <td><p><a href="../Page/金慶皓.md" title="wikilink">金慶皓</a></p></td>
-<td><p>Bar BAr Bar（<a href="../Page/Crayon_Pop.md" title="wikilink">Crayon Pop</a>） 不要放棄（成晉宇）</p>
+<td><p>Bar Bar Bar（<a href="../Page/Crayon_Pop.md" title="wikilink">Crayon Pop</a>） 不要放棄（成晉宇）</p>
 <p>決心（<a href="../Page/曹誠模.md" title="wikilink">曹誠模</a>）</p>
 <p>Lucifer（<a href="../Page/SHINee.md" title="wikilink">SHINee</a>)</p></td>
 <td><p>Lucifer（<a href="../Page/SHINee.md" title="wikilink">SHINee</a>)</p></td>

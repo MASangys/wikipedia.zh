@@ -350,7 +350,7 @@
 <td><p>前半</p></td>
 <td><p><a href="../Page/加藤英美里.md" title="wikilink">加藤英美里</a></p></td>
 <td><p><a href="../Page/福原香織.md" title="wikilink">福原香織</a></p></td>
-<td><p><strong>《<a href="https://zh.wikipedia.org/wiki/幸運☆星" title="wikilink">幸運☆星</a>》</strong>中柊鏡和柊司的聲優。</p></td>
+<td><p><strong>《<a href="../Page/幸運☆星.md" title="wikilink">幸運☆星</a>》</strong>中柊鏡和柊司的聲優。</p></td>
 <td></td>
 </tr>
 <tr class="even">

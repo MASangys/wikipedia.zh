@@ -22,7 +22,7 @@
 <td><p><a href="../Page/鄭鎰勳.md" title="wikilink">鄭鎰勳</a></p></td>
 <td><p>男歌手，男子團體BTOB成員</p></td>
 <td></td>
-<td><p>第7集至今<small>（第31、198集缺席）</small></p></td>
+<td><p>第7集至今<small>（第31、198、308集缺席）</small></p></td>
 <td><p>二代DJ</p></td>
 </tr>
 </tbody>
@@ -390,6 +390,27 @@
 | EP304                 |
 | EP305                 |
 | EP306                 |
+| EP307                 |
+| EP308                 |
+| EP309                 |
+| EP310                 |
+| EP311                 |
+| EP312                 |
+| EP313                 |
+| EP314                 |
+| EP315                 |
+| EP316                 |
+| EP317                 |
+| EP318                 |
+| EP319                 |
+| EP320                 |
+| EP321                 |
+| EP322                 |
+| EP323                 |
+| EP324                 |
+| EP325                 |
+| EP326                 |
+| EP327                 |
 |                       |
 
 ## 相關條目

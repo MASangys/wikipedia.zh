@@ -2165,6 +2165,15 @@ Cha Myoung Jun</p></td>
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td></td>
+<td><p>2019年8月16日</p></td>
+<td><p>星期五 13時57分 更新</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/繁體中文" title="wikilink">繁體中文</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -2172,7 +2181,7 @@ Cha Myoung Jun</p></td>
 
 2018年1月9日在集英社送審的「[黃金之風](../Page/黃金之風.md "wikilink")」商標通過之後，廣泛認為此舉為該作動畫化的標誌。
 
-而在其後作者荒木飛呂彥於2018年6月21日的JoJo畫展發佈會中透露「黃金之風」動畫化消息，並在同日於官方推特正式宣佈，同年10月5日起開播至2019年7月28日為止播出。
+而在其後作者荒木飛呂彥於2018年6月21日的JoJo畫展發佈會中透露「黃金之風」動畫化消息，並在同日於官方推特正式宣佈，同年10月5日起開播，至2019年7月28日完結。
 
 台灣於2018年10月5日起，每週六由[friDay影音跟播](https://zh.wikipedia.org/wiki/friDay影音 "wikilink")。
 
@@ -2267,7 +2276,7 @@ Cha Myoung Jun</p></td>
 <td><p>Episodio 02<br />
 （第115話）</p></td>
 <td></td>
-<td><p>布加拉堤就要來了</p></td>
+<td><p>布加拉提來了</p></td>
 <td><p>高橋秀彌</p></td>
 <td><p>橫山謙次<br />
 千葉山夏惠</p></td>
@@ -2281,7 +2290,7 @@ Cha Myoung Jun</p></td>
 <td><p>Episodio 03<br />
 （第116話）</p></td>
 <td></td>
-<td><p>去見監獄中的流氓</p></td>
+<td><p>去見監獄中的黑幫</p></td>
 <td><p>安川正吾</p></td>
 <td><p>木村泰大</p></td>
 <td><p>SHIN HYUNG WOO<br />
@@ -2297,7 +2306,7 @@ Cha Myoung Jun</p></td>
 <td><p>Episodio 04<br />
 （第117話）</p></td>
 <td></td>
-<td><p>入門成為流氓</p></td>
+<td><p>加入黑幫</p></td>
 <td><p>木村泰大</p></td>
 <td><p>鈴木恭兵</p></td>
 <td><p>森藤希子<br />
@@ -2311,7 +2320,7 @@ Cha Myoung Jun</p></td>
 <td><p>Episodio 05<br />
 （第118話）</p></td>
 <td></td>
-<td><p>拿下波爾波的遺產！</p></td>
+<td><p>目標是波爾波的遺產！</p></td>
 <td><p>小林靖子</p></td>
 <td><p>津田尚克</p></td>
 <td><p>龜井隆弘</p></td>
@@ -2328,7 +2337,7 @@ SHIN HYUNG WOO<br />
 <td><p>Episodio 06<br />
 （第119話）</p></td>
 <td></td>
-<td><p>憂鬱藍調的反擊</p></td>
+<td><p>憂鬱藍調的逆襲</p></td>
 <td><p>筆安一幸</p></td>
 <td><p>高橋秀彌</p></td>
 <td><p>三上喜子</p></td>

@@ -124,6 +124,16 @@ UP10TION的官方粉絲名稱為「HONEY10」（） 代表著喜歡的人珍貴�
 </ul></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p><strong>8th</strong></p></td>
+<td><p>《<strong>The Moment of Illusion</strong>》</p>
+<ul>
+<li>發行日期：2019年8月22日</li>
+<li>語言：韓語</li>
+<li>專輯銷量：</li>
+</ul></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -142,7 +152,7 @@ UP10TION的官方粉絲名稱為「HONEY10」（） 代表著喜歡的人珍貴�
 <td><p><strong>1st</strong></p></td>
 <td><p>《<strong>INVITATION</strong>》</p>
 <ul>
-<li>發行日期：2018年3月19日</li>
+<li>發行日期：2018年3月15日</li>
 <li>語言：韓語</li>
 <li>專輯銷量：75,594+[22]</li>
 </ul></td>
@@ -176,7 +186,7 @@ UP10TION的官方粉絲名稱為「HONEY10」（） 代表著喜歡的人珍貴�
 <td><p>-</p></td>
 <td><p>《<strong>2017 SPECIAL PHOTO EDITION</strong>》</p>
 <ul>
-<li>發行日期：2017年10月16日</li>
+<li>發行日期：2017年10月12日</li>
 <li>語言：韓語</li>
 <li>專輯銷量：22,392+[25]</li>
 </ul></td>
@@ -331,7 +341,7 @@ UP10TION的官方粉絲名稱為「HONEY10」（） 代表著喜歡的人珍貴�
 | 9月14日              | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")               | 《[偶像料理王](../Page/偶像料理王.md "wikilink")》                              | 全體                                                             |                                      |
 | 9月15日              | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")               | 《[MBC偶像明星運動會](https://zh.wikipedia.org/wiki/MBC偶像明星運動會 "wikilink")》 | 全體                                                             |                                      |
 | 9月16日              | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")               | 《[二重唱歌謠祭](https://zh.wikipedia.org/wiki/二重唱歌謠祭 "wikilink")》         | 善燏                                                             |                                      |
-| 9月21日              | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")             | 《[Hit The Stage](../Page/Hit_The_Stage.md "wikilink")》              | 碧土                                                             |                                      |
+| 9月21日              | [Mnet](../Page/Mnet.md "wikilink")                                | 《[Hit The Stage](../Page/Hit_The_Stage.md "wikilink")》              | 碧土                                                             |                                      |
 | 10月17日             | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")               | 《藝能人力所》                                                             | 坤                                                              |                                      |
 | 11月9日-11月23日       | MBN                                                               | 《[放羊狼少年的大叔牧場](https://zh.wikipedia.org/wiki/放羊狼少年的大叔牧場 "wikilink")》 | 曉悟（固定成员）                                                       |                                      |
 | 11月23日             | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")             | 《MV Bank Stardust 2》                                                | 全體                                                             |                                      |
@@ -356,7 +366,7 @@ UP10TION的官方粉絲名稱為「HONEY10」（） 代表著喜歡的人珍貴�
 | 12月11日             | TBS TV                                                            | 《Fact in star》                                                      | 全體                                                             |                                      |
 | 12月11日             | [Arirang TV](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink") | 《[After School Club](../Page/After_School_Club.md "wikilink")》      | 全體                                                             |                                      |
 | 12月25日             | [KBS World](../Page/KBS_World.md "wikilink")                      | 《K-RUSH 3》                                                          | 全體                                                             |                                      |
-| 2019年              | 5月3日                                                              | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")               | 《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》         | 鎮赫、宇信                                |
+| 2019年              | 5月3日                                                              | [Mnet](../Page/Mnet.md "wikilink")                                  | 《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》         | 鎭赫、宇信                                |
 
 ### 廣播節目
 
@@ -374,7 +384,7 @@ UP10TION的官方粉絲名稱為「HONEY10」（） 代表著喜歡的人珍貴�
 | 5月12日             | [KBS Cool FM](https://zh.wikipedia.org/wiki/KBS_Cool_FM "wikilink") | 《KISS THE RADIO》                                                    | 善燏、歡喜                                      | 心動LIVE                               |    |
 | 7月13日             | [KBS Cool FM](https://zh.wikipedia.org/wiki/KBS_Cool_FM "wikilink") | 《朴志胤的歌謠廣場》                                                          | 坤、高潔                                       |                                      |    |
 | 8月6日              | [KBS Cool FM](https://zh.wikipedia.org/wiki/KBS_Cool_FM "wikilink") | 《朴志胤的歌謠廣場》                                                          | 全體                                         |                                      |    |
-| 28月7日             | [KBS Cool FM](https://zh.wikipedia.org/wiki/KBS_Cool_FM "wikilink") | 《KISS THE RADIO》                                                    | 全體                                         |                                      |    |
+| 8月7日              | [KBS Cool FM](https://zh.wikipedia.org/wiki/KBS_Cool_FM "wikilink") | 《KISS THE RADIO》                                                    | 全體                                         |                                      |    |
 | 2017年             | 7月9日                                                                | [KBS Cool FM](https://zh.wikipedia.org/wiki/KBS_Cool_FM "wikilink") | 《KISS THE RADIO》                           | 全體（除[宇信](../Page/金宇碩.md "wikilink")） |    |
 | 2018年             | 3月20日                                                               | [KBS Cool FM](https://zh.wikipedia.org/wiki/KBS_Cool_FM "wikilink") | 《KISS THE RADIO》                           | 全體                                   |    |
 | 3月21日             | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") Power FM        | 《NCT的night night\!》                                                 | 高潔、偉、[宇信](../Page/金宇碩.md "wikilink")、奎真、曉悟 |                                      |    |
@@ -652,6 +662,11 @@ UP10TION的官方粉絲名稱為「HONEY10」（） 代表著喜歡的人珍貴�
   - TOP STAR NEWS [HD‘라이징 업텐션’ 업텐션(UP10TION), 韓-中 동시 방송… ‘폭발적 기대’](http://www.topstarnews.net/detail.php?number=144657)
 
 ## 外部連結
+
+### 個人
+
+  -
+### 團體
 
   -
 

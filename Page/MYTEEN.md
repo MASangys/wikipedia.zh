@@ -1,21 +1,23 @@
-**MYTEEN**（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Music Works將於](../Page/The_Music_Works.md "wikilink")2017年7月26日推出的[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")，成員包括恩洙、泰彬、天真、[國憲](../Page/金國憲.md "wikilink")、準燮、、漢瑟。出道前就已累積許多人氣。在2018年官方宣布更換隊長由國憲接任。 官方粉絲名為Youth。
+**MYTEEN**（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Music Works將於](../Page/The_Music_Works.md "wikilink")2017年7月26日推出的[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")，成員包括恩洙、泰彬、天真、[國憲](../Page/金國憲.md "wikilink")、準燮、、漢瑟。出道前就已累積許多人氣。在2018年官方宣布更換隊長由國憲接任。官方粉絲名為Youth。
 
 2018年12月31日，官方宣布泰彬退出組合\[1\]。
 
+2019年8月21日，官方宣布MYTEEN正式解散\[2\]。
+
 ## 成員資料
 
-| 成員列表                            |
-| ------------------------------- |
-| 藝名                              |
-| 漢字                              |
-| 天真                              |
-| 恩洙                              |
-| [國憲](../Page/金國憲.md "wikilink") |
-| 準燮                              |
-| 有彬                              |
-| 漢瑟                              |
-| 已離隊成員                           |
-| 泰彬                              |
+| 已離隊成員                                              |
+| -------------------------------------------------- |
+| 藝名                                                 |
+| 漢字                                                 |
+| 泰彬                                                 |
+| 天真                                                 |
+| 恩洙                                                 |
+| [國憲](../Page/金國憲.md "wikilink")                    |
+| 準燮                                                 |
+| [有彬](https://zh.wikipedia.org/wiki/宋有彬 "wikilink") |
+| 漢瑟                                                 |
+|                                                    |
 
 ## 音樂作品
 
@@ -34,7 +36,7 @@
 <ul>
 <li>發行日期：2017年7月26日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
-<li>專輯銷量：2,704+ [2]</li>
+<li>專輯銷量：2,704+ [3]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -44,7 +46,7 @@
 <ul>
 <li>發行日期：2018年7月10日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
-<li>專輯銷量：5,331[3]</li>
+<li>專輯銷量：5,331[4]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -353,8 +355,9 @@
   - [MUSIC WORKS的VLive頻道](https://channels.vlive.tv/F4A151)
 
   -
-[Category:2017年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年成立的音樂團體 "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2017年韓國建立](https://zh.wikipedia.org/wiki/Category:2017年韓國建立 "wikilink")
+[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:2017年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年成立的音樂團體 "wikilink") [Category:已解散的男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的男子演唱團體 "wikilink") [Category:2019年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2019年解散的音樂團體 "wikilink") [Category:已解散的韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的韓國男子演唱團體 "wikilink") [Category:2017年韓國建立](https://zh.wikipedia.org/wiki/Category:2017年韓國建立 "wikilink") [Category:2019年韓國廢除](https://zh.wikipedia.org/wiki/Category:2019年韓國廢除 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
 
 1.  [泰彬退團新聞報導](https://entertain.naver.com/read?oid=311&aid=0000938312&cid=1073787) 2018-12-31
-2.  [2017年8月GAON專輯榜80位](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=08&hitYear=2017&termGbn=month)
-3.  [2018年7月GAON專輯榜40位](http://www.gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=07&hitYear=2018&termGbn=month)
+2.  [突然！宋有彬＆金國憲原團體 MYTEEN 宣告解散](https://www.koreastardaily.com/tc/news/119492) 2019-8-21
+3.  [2017年8月GAON專輯榜80位](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=08&hitYear=2017&termGbn=month)
+4.  [2018年7月GAON專輯榜40位](http://www.gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=07&hitYear=2018&termGbn=month)

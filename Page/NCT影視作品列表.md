@@ -2,197 +2,309 @@
 
 ## 專屬節目
 
-<table style="width:140%;">
+<table style="width:81%;">
 <colgroup>
-<col style="width: 22%" />
 <col style="width: 18%" />
+<col style="width: 9%" />
 <col style="width: 22%" />
-<col style="width: 13%" />
-<col style="width: 45%" />
-<col style="width: 18%" />
+<col style="width: 22%" />
+<col style="width: 9%" />
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>節目名稱</p></th>
 <th><p>日期</p></th>
-<th><p>參與成員</p></th>
 <th><p>頻道</p></th>
-<th><p>集數</p></th>
-<th><p>備註</p></th>
+<th><p>節目名稱</p></th>
+<th><p>參與成員</p></th>
+<th><p>集數（備註）</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>ON AIR NCT SHOW</p></td>
 <td><p>2016年4月9－10日</p></td>
-<td><p>泰一、泰容、道英、Ten、在玹、Mark</p></td>
-<td><p><a href="../Page/NAVER.md" title="wikilink">Naver V LIVE</a></p></td>
-<td></td>
-<td><p>與<a href="../Page/希澈.md" title="wikilink">希澈</a></p></td>
+<td><p><a href="../Page/NAVER.md" title="wikilink">Naver V LIVE</a><br />
+TRUE4U</p></td>
+<td><p>《ON AIR NCT SHOW》</p></td>
+<td><p>泰一、泰容、道英、<br />
+Ten、在玹、Mark</p></td>
+<td><p>2<br />
+（<a href="../Page/希澈.md" title="wikilink">希澈</a>主持）</p></td>
 </tr>
 <tr class="even">
-<td><p>NCT LIFE in Bangkok</p></td>
 <td><p>2016年4月16日－5月15日</p></td>
-<td><p>泰一、韓帥、Johnny、泰容、悠太、道英、Ten、在玹、Mark、Jeno、楷燦、渽民、志晟</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Naver" title="wikilink">Naver TVcast</a>、Naver V、、TRUE4U、阿里音樂頻道、<a href="https://zh.wikipedia.org/wiki/優酷" title="wikilink">優酷</a>、<a href="../Page/土豆网.md" title="wikilink">土豆</a>、<a href="https://zh.wikipedia.org/wiki/MTV" title="wikilink">MTV</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Naver" title="wikilink">Naver TVcast</a><br />
+Naver V<br />
+<br />
+TRUE4U<br />
+阿里音樂頻道<br />
+<a href="https://zh.wikipedia.org/wiki/優酷" title="wikilink">優酷</a><br />
+<a href="../Page/土豆网.md" title="wikilink">土豆</a><br />
+<a href="https://zh.wikipedia.org/wiki/MTV" title="wikilink">MTV</a></p></td>
+<td><p>《<a href="../Page/NCT_LIFE.md" title="wikilink">NCT LIFE</a> in Bangkok》</p></td>
+<td><p>泰一、韓帥、Johnny、泰容、<br />
+悠太、道英、Ten、在玹、<br />
+Mark、Jeno、楷燦、渽民、志晟</p></td>
 <td><p>6</p></td>
-<td></td>
 </tr>
 <tr class="odd">
-<td><p>NCT LIFE in Seoul</p></td>
 <td><p>2016年5月23日－6月11日</p></td>
-<td><p>泰容、悠太、錕、道英、在玹、昀昀</p></td>
+<td><p>《NCT LIFE in Seoul》</p></td>
+<td><p>泰容、悠太、錕、<br />
+道英、在玹、昀昀</p></td>
 <td><p>7</p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
-<td><p>NCT LIFE in Paju 團結大會</p></td>
 <td><p>2016年7月16日－8月20日</p></td>
-<td><p>泰一、泰容、悠太、在玹、昀昀、Mark、楷燦</p></td>
+<td><p>《NCT LIFE in Paju 團結大會》</p></td>
+<td><p>泰一、泰容、悠太、<br />
+在玹、昀昀、Mark、楷燦</p></td>
 <td><p>6</p></td>
-<td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>NCT LIFE 韓食王挑戰記</p></td>
 <td><p>2016年10月22日－11月26日</p></td>
-<td><p>泰一、泰容、悠太、道英、Ten、在玹、昀昀</p></td>
+<td><p>《NCT LIFE 韓食王挑戰記》</p></td>
+<td><p>泰一、泰容、悠太、<br />
+道英、Ten、在玹、昀昀</p></td>
 <td><p>6</p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
-<td><p>NCT LIFE MINI</p></td>
-<td><p>2017年1月12日－4月20日</p></td>
-<td><p>泰一、Johnny、泰容、悠太、道英、Ten、在玹、昀昀、Mark、仁俊、Jeno、楷燦、辰樂、志晟</p></td>
-<td><p>YouTube、Naver TVcast、Naver V LIVE、優酷、土豆</p></td>
-<td></td>
-<td><p>SM娛樂自製團體短片綜藝</p></td>
-</tr>
-<tr class="odd">
-<td><p>NCT 127's LIMITLESS Room</p></td>
-<td><p>2017年1月13日－2月9日</p></td>
-<td><p>泰一、Johnny、泰容、悠太、道英、在玹、昀昀、Mark、楷燦</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>NCT SCHOOL Dream Mate</p></td>
-<td><p>2017年2月15日－3月10日</p></td>
-<td><p>Mark、仁俊、Jeno、楷燦、辰樂、志晟</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>NCT LIFE 綜藝修煉會</p></td>
 <td><p>2017年3月4－19日</p></td>
+<td><p>《NCT LIFE 綜藝修煉會》</p></td>
 <td><p>仁俊、Jeno、辰樂、志晟</p></td>
-<td></td>
-<td><p>與<a href="../Page/利特.md" title="wikilink">利特</a>、<a href="../Page/神童_(藝人).md" title="wikilink">神童</a></p></td>
+<td><p>6<br />
+（<a href="../Page/利特.md" title="wikilink">利特</a>、<a href="../Page/神童_(藝人).md" title="wikilink">神童主持</a>）</p></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>NCT LIFE in Chiangmai</p></td>
+<tr class="odd">
 <td><p>2017年3月25日－4月9日</p></td>
+<td><p>《NCT LIFE in Chiangmai》</p></td>
 <td><p>Johnny、泰容、道英、Ten、在玹</p></td>
-<td></td>
-<td><p>[1]</p></td>
+<td><p>6</p></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>NCT LIFE in Osaka</p></td>
+<tr class="even">
 <td><p>2017年6月14日－7月22日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS_Joy" title="wikilink">KBS Joy</a><br />
+Oksusu</p></td>
+<td><p>《NCT LIFE in Osaka》</p></td>
 <td><p>泰一、泰容、悠太、道英、昀昀</p></td>
-<td><p>KBS Joy、oksusu</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>NCT 127 Boy Video</p></td>
-<td><p>2017年6月19日－8月11日</p></td>
-<td><p>泰一、Johnny、泰容、悠太、道英、在玹、昀昀、Mark、楷燦</p></td>
-<td><p>YouTube</p></td>
-<td></td>
-<td><p>SM娛樂自製團體短片綜藝</p></td>
+<td><p>21</p></td>
 </tr>
 <tr class="odd">
-<td><p>[N'- ] 系列短片</p></td>
-<td><p>2017年8月18日－至今</p></td>
-<td><p>泰一、Johnny、泰容、悠太、錕、道英、Ten、在玹、昀昀、廷祐、Lucas、Mark、仁俊、Jeno、楷燦、渽民、辰樂、志晟</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>NCT DREAM Boy Video</p></td>
-<td><p>2017年9月6日－11月3日</p></td>
-<td><p>Mark、仁俊、Jeno、楷燦、辰樂、志晟</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>NCT 127 Road to Japan</p></td>
 <td><p>2017年12月10日－2018年5月20日</p></td>
-<td><p>泰一、Johnny、泰容、悠太、道英、在玹、昀昀、Mark、楷燦</p></td>
 <td><p><a href="../Page/AbemaTV.md" title="wikilink">AbemaTV</a></p></td>
-<td></td>
+<td><p>《NCT 127 Road to Japan》</p></td>
+<td><p>泰一、Johnny、泰容、悠太、<br />
+道英、在玹、昀昀、Mark、楷燦</p></td>
+<td><p>12</p></td>
+</tr>
+<tr class="even">
+<td><p>2018年5月22日</p></td>
+<td><p>Music On! TV</p></td>
+<td><p>《韓ON!BOX</p></td>
+<td><p>NCT127》</p></td>
+<td><p>NCT 127</p></td>
+</tr>
+<tr class="odd">
+<td><p>2018年5月23日</p></td>
+<td><p>Music Japan TV</p></td>
+<td><p>《NCT 127 Special》</p></td>
+<td><p>1</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Hot&amp;Young 首爾旅行 × NCT LIFE</p></td>
 <td><p>2018年7月23日－8月17日</p></td>
-<td><p>Johnny、悠太、錕、昀昀、Lucas、Mark</p></td>
-<td><p>YouTube</p></td>
-<td></td>
-<td></td>
+<td><p>YouTube<br />
+Naver V LIVE</p></td>
+<td><p>《Hot&amp;Young 首爾旅行 × NCT LIFE》</p></td>
+<td><p>Johnny、悠太、錕、<br />
+昀昀、Lucas、Mark</p></td>
+<td><p>12</p></td>
 </tr>
 <tr class="odd">
-<td><p>NCT 127 Star Road</p></td>
+<td><p>2018年10月30日－31日</p></td>
+<td><p>Dispatch X<br />
+Naver V LIVE</p></td>
+<td><p>《OK! Halloween ASMR》萬聖節零食吃放</p></td>
+<td><p>NCT 127（泰容、道英、在玹、Mark、楷燦）</p></td>
+<td><p>2</p></td>
+</tr>
+<tr class="even">
 <td><p>2019年1月5日－2月1日</p></td>
-<td><p>Johnny、泰容、悠太、道英、在玹、廷祐</p></td>
 <td><p>Naver V LIVE</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>NCT 127 NEO CITY JAPAN－TheOrigin举办纪念SP</p></td>
-<td><p>2019年3月17日－24日</p></td>
-<td><p>泰一、Johnny、泰容、悠太、道英、在玹、Mark、廷祐</p></td>
-<td><p>AbemaTV</p></td>
-<td></td>
+<td><p>《NCT 127 Star Road》</p></td>
+<td><p>Johnny、泰容、悠太、<br />
+道英、在玹、廷祐</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>NCT 127 请指教JAPAN!</p></td>
-<td><p>2019年6月9日</p></td>
-<td><p>泰一、Johnny、泰容、悠太、道英、在玹、Mark、廷祐</p></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>2019年3月17日－24日</p></td>
+<td><p>AbemaTV</p></td>
+<td><p>《NCT 127 NEO CITY JAPAN－TheOrigin举办纪念SP》</p></td>
+<td><p>泰一、Johnny、泰容、悠太、<br />
+道英、在玹、Mark、廷祐</p></td>
+<td><p>2</p></td>
 </tr>
 <tr class="even">
+<td><p>2019年4月22日－5月27日</p></td>
+<td><p>YouTube<br />
+Naver V LIVE</p></td>
+<td><p>《救救我：SAVE NCT DREAM》</p></td>
+<td><p>仁俊、Jeno、渽民、辰樂、志晟</p></td>
+<td><p>6</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019年6月9日－7月13日</p></td>
 <td></td>
+<td><p>《NCT 127 请指教JAPAN!》</p></td>
+<td><p>泰一、Johnny、泰容、悠太、<br />
+道英、在玹、Mark、廷祐</p></td>
+<td><p>6</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年8月18日－至今</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/優酷" title="wikilink">優酷</a></p></td>
+<td><p>《少年威計劃》</p></td>
+<td><p>錕、Ten、昀昀、Lucas、<br />
+肖俊、Hendery、揚揚</p></td>
+<td><p>12</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019年8月25日－至今</p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>《NCT 127 请指教JAPAN!》（第2季）</p></td>
+<td><p>泰一、Johnny、泰容、悠太、<br />
+道英、在玹、Mark、廷祐</p></td>
 <td></td>
 </tr>
 </tbody>
 </table>
 
-### 專屬線上頻道
+## 官方頻道單元
 
-| 頻道名稱              | 播放平台                                     | 設立日期                                                           | 備註                                                             |
-| ----------------- | ---------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------------------- |
-| Channel NCT       | [YouTube](../Page/YouTube.md "wikilink") | 2017/4/14                                                      | [連結](https://www.youtube.com/channel/UCwgtORdDtUKhpjE1VBv6XfA) |
-| Channel NCT DAILY | 2018/11/20                               | [連結](https://www.youtube.com/channel/UCG-coSVp89xFSWN4pbVL53w) |                                                                |
-| Channel NCT MUSIC | 2018/11/26                               | [連結](https://www.youtube.com/channel/UC6_kmAF-67rCiIpa3dCit5A) |                                                                |
-| Channel NCT DANCE | 2018/11/20                               | [連結](https://www.youtube.com/channel/UCcnk_XPx9NtZDFhBdz-DfIA) |                                                                |
+<table style="width:72%;">
+<colgroup>
+<col style="width: 18%" />
+<col style="width: 9%" />
+<col style="width: 22%" />
+<col style="width: 22%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>日期</p></th>
+<th><p>頻道</p></th>
+<th><p>節目名稱</p></th>
+<th><p>參與成員</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2017年1月12日－4月20日</p></td>
+<td><p><a href="../Page/YouTube.md" title="wikilink">YouTube</a><br />
+<a href="https://zh.wikipedia.org/wiki/Naver" title="wikilink">Naver TVcast</a><br />
+<a href="../Page/NAVER.md" title="wikilink">Naver V LIVE</a><br />
+<a href="https://zh.wikipedia.org/wiki/優酷" title="wikilink">優酷</a><br />
+<a href="https://zh.wikipedia.org/wiki/土豆" title="wikilink">土豆</a></p></td>
+<td><p>《NCT LIFE MINI》</p></td>
+<td><p>泰一、Johnny、泰容、悠太、<br />
+道英、Ten、在玹、昀昀、<br />
+Mark、仁俊、Jeno、楷燦、辰樂、志晟</p></td>
+</tr>
+<tr class="even">
+<td><p>2017年1月13日－2月9日</p></td>
+<td><p>《NCT 127's LIMITLESS Room》</p></td>
+<td><p>泰一、Johnny、泰容、悠太、<br />
+道英、在玹、昀昀、Mark、楷燦</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2017年2月15日－3月10日</p></td>
+<td><p>《NCT SCHOOL Dream Mate》</p></td>
+<td><p>Mark、仁俊、Jeno、楷燦、辰樂、志晟</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2017年6月19日－8月11日</p></td>
+<td><p>YouTube</p></td>
+<td><p>《NCT 127 Boy Video》</p></td>
+<td><p>泰一、Johnny、泰容、悠太、<br />
+道英、在玹、昀昀、Mark、楷燦</p></td>
+</tr>
+<tr class="odd">
+<td><p>2017年8月18日－至今</p></td>
+<td><p>《[N'- ]》系列短片</p></td>
+<td><p>泰一、Johnny、泰容、悠太、錕、<br />
+道英、Ten、在玹、昀昀、<br />
+廷祐、Lucas、Mark、仁俊、<br />
+Jeno、楷燦、渽民、辰樂、志晟</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2017年9月6日－11月3日</p></td>
+<td><p>《NCT DREAM Boy Video》</p></td>
+<td><p>Mark、仁俊、Jeno、楷燦、辰樂、志晟</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2018年5月31日－11月27日</p></td>
+<td><p>《NCT RECORDING DAILY 》</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2018年11月21日－至今</p></td>
+<td><p>《Johnny's Communication Center（JCC）》</p></td>
+<td><p>Johnny</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2018年12月7日－至今</p></td>
+<td><p>《辰志的這個那個》</p></td>
+<td><p>辰樂、志晟</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2018年10月22日－12月31日</p></td>
+<td><p>《西珍妮會喜歡這個吧》</p></td>
+<td><p>泰一、Johnny、泰容、悠太、道英、<br />
+在玹、昀昀、廷祐、Mark、仁俊、<br />
+Jeno、楷燦、渽民、辰樂、志晟</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年2月5日－至今</p></td>
+<td><p>《在玹的VLOG》</p></td>
+<td><p>在玹</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年2月21日－4月19日</p></td>
+<td><p>YouTube<br />
+<a href="../Page/QQ音乐.md" title="wikilink">QQ音乐</a><br />
+<a href="../Page/酷狗音乐.md" title="wikilink">酷狗音乐</a><br />
+酷我音乐</p></td>
+<td><p>《Rainbow V》</p></td>
+<td><p>錕、Ten、昀昀、Lucas、<br />
+肖俊、Hendery、揚揚</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019年4月25日－至今</p></td>
+<td><p>YouTube</p></td>
+<td><p>《NCT 127 HIT THE STATES》</p></td>
+<td><p>泰一、Johnny、泰容、悠太、<br />
+道英、在玹、昀昀、Mark、楷燦</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年3月18日－至今</p></td>
+<td><p>《J♥SMR》</p></td>
+<td><p>Jeno</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 剧集
 
@@ -232,7 +344,7 @@
 </tr>
 <tr class="even">
 <td><p>2016年7月27日－8月31日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>《<a href="../Page/Hit_The_Stage.md" title="wikilink">Hit The Stage</a>》</p></td>
 <td><p>Ten</p></td>
 <td><p>參賽者</p></td>
@@ -267,7 +379,7 @@
 </tr>
 <tr class="odd">
 <td><p>2017年2月10日－3月31日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>《<a href="../Page/高等Rapper.md" title="wikilink">高等Rapper</a>》</p></td>
 <td><p>Mark</p></td>
 <td><p>第一季，參賽者</p></td>
@@ -277,7 +389,7 @@
 <td><p><a href="../Page/OnStyle.md" title="wikilink">OnStyle</a></p></td>
 <td><p>《<a href="../Page/Lipstick_Prince.md" title="wikilink">Lipstick Prince</a>》</p></td>
 <td><p>Johnny</p></td>
-<td><p>第二季 [2]</p></td>
+<td><p>第二季 [1]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2017年6月12日</p></td>
@@ -289,7 +401,7 @@
 </tr>
 <tr class="even">
 <td><p>2017年6月28日－7月28日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a><br />
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a><br />
 <a href="../Page/NAVER.md" title="wikilink">Naver V LIVE</a></p></td>
 <td><p>《<a href="../Page/雪球項目.md" title="wikilink">雪球計劃</a>》</p></td>
 <td><p>Mark</p></td>
@@ -314,7 +426,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a></p></td>
 <td><p>《<a href="../Page/食糧日記.md" title="wikilink">食糧日記</a>》</p></td>
 <td><p>泰容</p></td>
-<td><p>[3]</p></td>
+<td><p>[2]</p></td>
 </tr>
 <tr class="even">
 <td><p>2018年9月7日－10月26日</p></td>
@@ -345,32 +457,32 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2019年1月31日－2月14日</p></td>
-<td><p><a href="../Page/优酷.md" title="wikilink">优酷</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/以團之名" title="wikilink">以團之名</a>》</p></td>
-<td><p>WayV</p></td>
-<td><p>第3-5期</p></td>
-</tr>
-<tr class="odd">
 <td><p>2019年3月30日－6月15日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/湖南衛視" title="wikilink">湖南衛視</a></p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/我們的師父" title="wikilink">我們的師父</a>》</p></td>
 <td><p>昀昀</p></td>
 <td><p>小師弟</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2019年4月26日－7月12日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/浙江衛視" title="wikilink">浙江衛視</a></p></td>
 <td><p>《<a href="../Page/奔跑吧.md" title="wikilink">奔跑吧</a>》</p></td>
 <td><p>Lucas</p></td>
 <td><p>第7季</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2019年5月4日－6月8日</p></td>
 <td><p><a href="../Page/Channel_A.md" title="wikilink">Channel A</a></p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/一起玩嗎？_GG" title="wikilink">一起玩嗎？ GG</a>》</p></td>
 <td><p>渽民</p></td>
 <td><p>第1-6期</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019年9月</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SBS株式会社" title="wikilink">SBS</a></p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/叢林的法則" title="wikilink">叢林的法則</a>》</p></td>
+<td><p>道英</p></td>
+<td><p>印度尼西亞篇</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -387,23 +499,24 @@
 | 2016年綜藝節目列表 |
 | ----------- |
 | 日期          |
+| 7月26日       |
 | 8月24日       |
 | 9月14日       |
 | 10月24日      |
 | 11月25日      |
 | 12月31日      |
 
-| 2017年綜藝節目列表 |
-| ----------- |
-| 日期          |
-| 1月18日       |
-| 1月30日       |
-| 2月8日        |
-| 2月17日       |
-| 2月19日       |
-| 3月4日        |
-| 7月19日       |
-| 10月4日       |
+| 2017年綜藝節目列表                             |
+| --------------------------------------- |
+| 日期                                      |
+| 1月18日                                   |
+| [SBS](../Page/SBS_\(韓國\).md "wikilink") |
+| 1月30日                                   |
+| 2月8日                                    |
+| 2月17日                                   |
+| 2月19日                                   |
+| 3月4日                                    |
+| 10月4日                                   |
 
 | 2018年綜藝節目列表                                         |
 | --------------------------------------------------- |
@@ -428,7 +541,7 @@
 | 10月24日                                              |
 | 11月2日                                               |
 | 11月5日、11月12日                                        |
-| 11月8日                                               |
+| 11月22日                                              |
 
 <table>
 <thead>
@@ -444,10 +557,16 @@
 <td><p>1月9日</p></td>
 </tr>
 <tr class="odd">
-<td><p>2月5－6日</p></td>
+<td><p>1月31日、2月7日、2月14日</p></td>
 </tr>
 <tr class="even">
+<td><p>2月5－6日</p></td>
+</tr>
+<tr class="odd">
 <td><p>2月12日</p></td>
+</tr>
+<tr class="even">
+<td><p>3月16日</p></td>
 </tr>
 <tr class="odd">
 <td><p>3月16日</p></td>
@@ -512,6 +631,18 @@
 <tr class="odd">
 <td><p>7月31日</p></td>
 </tr>
+<tr class="even">
+<td><p>8月3日、8月10日</p></td>
+</tr>
+<tr class="odd">
+<td><p>8月9日、8月16日</p></td>
+</tr>
+<tr class="even">
+<td><p>8月11日</p></td>
+</tr>
+<tr class="odd">
+<td><p>8月17日</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -542,21 +673,21 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/SBS_(韩国)" title="wikilink">SBS</a></p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a>》</p></td>
 <td><p>道英</p></td>
-<td><p>固定MC，與<a href="../Page/朴珍榮.md" title="wikilink">珍榮</a>、<a href="../Page/金智秀_(歌手).md" title="wikilink">Jisoo主持</a>[4]</p></td>
+<td><p>固定MC，與<a href="../Page/朴珍榮.md" title="wikilink">珍榮</a>、<a href="../Page/金智秀_(歌手).md" title="wikilink">Jisoo主持</a>[3]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2018年2月24日－2019年1月12日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/Show!_音樂中心" title="wikilink">Show! 音樂中心</a>》</p></td>
 <td><p>Mark</p></td>
-<td><p>固定MC，與<a href="https://zh.wikipedia.org/wiki/邕聖祐" title="wikilink">邕聖祐</a>、<a href="../Page/美娜.md" title="wikilink">美娜</a>主持[5]</p></td>
+<td><p>固定MC，與<a href="https://zh.wikipedia.org/wiki/邕聖祐" title="wikilink">邕聖祐</a>、<a href="../Page/美娜.md" title="wikilink">美娜</a>主持[4]</p></td>
 </tr>
 <tr class="even">
 <td><p>2018年5月22日－至今</p></td>
 <td><p>SBS MTV</p></td>
 <td><p>《<a href="../Page/THE_SHOW_(SBS_MTV節目).md" title="wikilink">THE SHOW</a>》</p></td>
 <td><p>Jeno</p></td>
-<td><p>固定MC，與<a href="https://zh.wikipedia.org/wiki/金龍國" title="wikilink">金龍國</a>、睿恩主持[6]</p></td>
+<td><p>固定MC，與<a href="https://zh.wikipedia.org/wiki/金龍國" title="wikilink">金龍國</a>、睿恩主持[5]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2018年12月4日</p></td>
@@ -592,11 +723,13 @@
 
 ### 活動典禮主持
 
-| 日期          | 節目名稱         | 參與成員    | 備註 |
-| ----------- | ------------ | ------- | -- |
-| 2018年11月14日 | 2018 濟州島韓流節慶 | Jeno、楷燦 |    |
-| 2019年6月15日  | 2019 安東韓流演唱會 | Jeno、渽民 |    |
-|             |              |         |    |
+| 日期          | 節目名稱                                                  | 參與成員      | 備註   |
+| ----------- | ----------------------------------------------------- | --------- | ---- |
+| 2018年4月15日  | Kpop Festival 2018 In Tokyo                           | Mark、Jeno |      |
+| 2018年11月14日 | 2018 濟州島韓流節慶                                          | Jeno、楷燦   |      |
+| 2019年2月9日   | 70th Sapporo Snow Festival '11th K-POP FESTIVAL 2019' | Jeno、渽民   | 特别MC |
+| 2019年6月15日  | 2019 安東韓流演唱會                                          |           |      |
+|             |                                                       |           |      |
 
 ## 廣播電台
 
@@ -628,11 +761,18 @@
 <td><p>代班DJ</p></td>
 </tr>
 <tr class="odd">
-<td><p>2017年3月20日-2019年1月27日</p></td>
+<td><p>2017年3月20日 - 2019年1月27日</p></td>
 <td></td>
 <td><p>《NCT的night night》</p></td>
 <td><p>Johnny、在玹、道英</p></td>
-<td><p>固定DJ[7]，道英僅參與《DO!Digest》單元</p></td>
+<td><p>固定DJ[6]，道英僅參與《DO!Digest》單元</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年8月5日－</p></td>
+<td></td>
+<td><p>《樂動首爾》</p></td>
+<td><p>仁俊</p></td>
+<td><p>特别DJ</p></td>
 </tr>
 </tbody>
 </table>
@@ -1391,7 +1531,7 @@
 </tr>
 <tr class="odd">
 <td><p>7/21</p></td>
-<td><p>彩暻、採媛 ( <a href="https://zh.wikipedia.org/wiki/APRIL_(女子團體)" title="wikilink">APRIL</a> )<a href="../Page/KARD.md" title="wikilink">KARD</a></p></td>
+<td><p>彩暻、採媛 ( <a href="../Page/APRIL_(女子團體).md" title="wikilink">APRIL</a> )<a href="../Page/KARD.md" title="wikilink">KARD</a></p></td>
 <td><p>請聽吧 N night night !</p></td>
 <td></td>
 </tr>
@@ -2061,17 +2201,7 @@
 <td><p>NCT 127</p></td>
 <td><p>泰一、Johnny、泰容、悠太、道英、在玹、昀昀、Mark、楷燦</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=IMIcMrEuS-Q">Dance Practice video #Cherry ver.</a><br />
-<a href="https://www.youtube.com/watch?v=bTu86Ll8eqk">Dance Practice video #Bomb ver.</a><br />
-Focus on ver.<br />
-<a href="https://www.youtube.com/watch?v=9YIANKHLJfo">#YUTA</a><br />
-<a href="https://www.youtube.com/watch?v=NkcSwgUXuBQ">#WINWIN</a><br />
-<a href="https://www.youtube.com/watch?v=tAjJtnmVBlM">#TAEYONG</a><br />
-<a href="https://www.youtube.com/watch?v=jr3tvacoGVw">#DOYOUNG</a><br />
-<a href="https://www.youtube.com/watch?v=UIQfMo8n-Q0">#JAEHYUN</a><br />
-<a href="https://www.youtube.com/watch?v=ShaRtOxykws">#MARK</a><br />
-<a href="https://www.youtube.com/watch?v=LIPp7QrsSBg">#JOHNNY</a><br />
-<a href="https://www.youtube.com/watch?v=MdDnLj0vu88">#HAECHAN</a><br />
-<a href="https://www.youtube.com/watch?v=odzepdEvarw">#TAEIL</a></p></td>
+<a href="https://www.youtube.com/watch?v=bTu86Ll8eqk">Dance Practice video #Bomb ver.</a></p></td>
 </tr>
 <tr class="even">
 <td><p>8月17日</p></td>
@@ -2289,7 +2419,7 @@ Focus on ver.<br />
 </tbody>
 </table>
 
-### [SM STATION歌曲MV](../Page/SM_STATION.md "wikilink")
+### [SM STATIONMV](../Page/SM_STATION.md "wikilink")
 
 <table>
 <thead>
@@ -2454,58 +2584,165 @@ Focus on ver.<br />
 </tbody>
 </table>
 
+### 參演MV
+
+<table style="width:64%;">
+<colgroup>
+<col style="width: 8%" />
+<col style="width: 12%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>發布日期</p></th>
+<th><p>歌曲名稱</p></th>
+<th><p>歌手</p></th>
+<th><p>參與成員</p></th>
+<th><p>備註</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2014年7月18日</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=Jy-duVOOIvA">HOPE</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Chen" title="wikilink">Chen</a>、<a href="../Page/SM_ROOKIES.md" title="wikilink">SM ROOKIES</a></p></td>
+<td><p>悠太、在玹</p></td>
+<td><p>原唱<a href="../Page/H.O.T..md" title="wikilink">H.O.T.</a>，《》MV翻拍，与<a href="https://zh.wikipedia.org/wiki/灿烈" title="wikilink">灿烈合作</a></p></td>
+</tr>
+<tr class="even">
+<td><p>2014年8月22日</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=B0DiHrJSfUs">給母親</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/g.o.d" title="wikilink">g.o.d</a></p></td>
+<td><p>Ten</p></td>
+<td><p>原唱<a href="https://zh.wikipedia.org/wiki/g.o.d" title="wikilink">g.o.d</a>，《》MV翻拍，与<a href="../Page/Suho.md" title="wikilink">Suho</a>合作</p></td>
+</tr>
+<tr class="odd">
+<td><p>2014年8月29日</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=CsQmvSVdSbc">Yo!</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/神話" title="wikilink">神話</a></p></td>
+<td><p>Johnny、泰容</p></td>
+<td><p>原唱<a href="https://zh.wikipedia.org/wiki/神話" title="wikilink">神話</a>，《》MV翻拍，与<a href="../Page/Sehun.md" title="wikilink">Sehun</a>合作</p></td>
+</tr>
+<tr class="even">
+<td><p>2014年9月12日</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=6PzfrJIx32Y">Missing You</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Fly_To_The_Sky" title="wikilink">Fly To The Sky</a></p></td>
+<td><p>泰容</p></td>
+<td><p>原唱<a href="https://zh.wikipedia.org/wiki/Fly_To_The_Sky" title="wikilink">Fly To The Sky</a>，《》MV翻拍，与<a href="https://zh.wikipedia.org/wiki/Lay" title="wikilink">Lay合作</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>2014年10月9日</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=QpAn9ryoB4Y">Be Natural</a></p></td>
+<td><p><a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a></p></td>
+<td><p>泰容</p></td>
+<td><p>泰容参与feat</p></td>
+</tr>
+<tr class="even">
+<td><p>2014年10月10日</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=AA1OEcfCenI">The Last Game</a></p></td>
+<td><p><a href="../Page/SM_ROOKIES.md" title="wikilink">SM ROOKIES</a></p></td>
+<td><p>在玹</p></td>
+<td><p>原唱<a href="https://zh.wikipedia.org/wiki/Kim_Min-Kyo" title="wikilink">Kim Min-Kyo</a>，《》MV翻拍，与<a href="../Page/鹿晗.md" title="wikilink">鹿晗</a>合作</p></td>
+</tr>
+<tr class="odd">
+<td><p>2015年7月20日</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=EQQajFf6IYQ">Champagne</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/东方神起" title="wikilink">东方神起</a></p></td>
+<td><p>志晟</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2016年8月8日</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=E5BNfSDaBWk">Ready For Your Love</a></p></td>
+<td><p><a href="../Page/J-Min.md" title="wikilink">J-Min</a></p></td>
+<td><p>Johnny</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2016年10月2日</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=6-3rQOIQeRM">Heartbeat</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/劉逸雲" title="wikilink">Amber</a> x <a href="../Page/朴善英.md" title="wikilink">Luna</a><br />
+<small>（feat. Ferry Corsten &amp; Kago Pengchi）</small></p></td>
+<td><p>DJ</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2017年4月18日</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=sH0jdWpPv7o">Paper Umbrella</a></p></td>
+<td><p><a href="../Page/藝聲.md" title="wikilink">藝聲</a></p></td>
+<td><p>廷祐</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ## 雜誌寫真
 
-| 年份                    | 月刊號                       | 雜誌名稱                                                 | 發行地區                   | 參與成員                 | 合作艺人/備註                                                                             |
-| --------------------- | ------------------------- | ---------------------------------------------------- | ---------------------- | -------------------- | ----------------------------------------------------------------------------------- |
-| 2016年                 | 5月                        | Star1                                                | 韓國                     | 泰一、泰容、道英、Ten、在玹、Mark |                                                                                     |
-| The Celebrity         |                           |                                                      |                        |                      |                                                                                     |
-| 6月                    | CeCi                      |                                                      |                        |                      |                                                                                     |
-| DAZED Korea           |                           |                                                      |                        |                      |                                                                                     |
-| 9月                    | Oh Boy\!                  | NCT Dream                                            |                        |                      |                                                                                     |
-| 10月                   | CeCi                      | Mark、渽民                                              | 為公益活動I Love Pet拍攝\[8\] |                      |                                                                                     |
-| 12月                   | W Magazine                | NCT 127                                              |                        |                      |                                                                                     |
-| 2017年                 | 4月                        | NYLON                                                |                        |                      |                                                                                     |
-| 6月                    | SUDSAPDA                  | 泰國                                                   | Ten                    |                      |                                                                                     |
-| The Celebrity         | 韓國                        |                                                      |                        |                      |                                                                                     |
-| 8月                    | Harper's Bazaar Korea     | NCT 127                                              |                        |                      |                                                                                     |
-| CeCi China 茜茜姊妹       | 中國                        | 昀昀                                                   |                        |                      |                                                                                     |
-| 9月                    | CeCi                      | 韓國                                                   | NCT Dream（缺渽民）         |                      |                                                                                     |
-| Grazia                |                           |                                                      |                        |                      |                                                                                     |
-| 10月                   | DAZED Korea               |                                                      |                        |                      |                                                                                     |
-| 小資ChicTeen            | 中國                        |                                                      |                        |                      |                                                                                     |
-| 11月                   | 昀昀                        |                                                      |                        |                      |                                                                                     |
-| 2018年                 | 3月                        | MAPS                                                 | 韓國                     | Ten                  | 与[藝聲](../Page/藝聲.md "wikilink")（[Super Junior](../Page/Super_Junior.md "wikilink")） |
-| VOGUE Korea           | 泰容、道英、在玹、昀昀、廷祐、Lucas、Mark |                                                      |                        |                      |                                                                                     |
-| 5月                    | DAZED Korea               | 泰容、Ten                                               |                        |                      |                                                                                     |
-| CeCi                  | NCT Dream                 |                                                      |                        |                      |                                                                                     |
-| ELLE                  | NCT 127                   |                                                      |                        |                      |                                                                                     |
-| Arena Homme +         | 錕、廷祐、Lucas                |                                                      |                        |                      |                                                                                     |
-| 6月                    | Johnny、道英、在玹              |                                                      |                        |                      |                                                                                     |
-| 7月                    | 泰一、悠太、Mark                |                                                      |                        |                      |                                                                                     |
-| L'officiel Hommes     | 泰國                        | 在玹                                                   |                        |                      |                                                                                     |
-| 8月                    | SUDSAPDA                  | 泰容、Ten                                               |                        |                      |                                                                                     |
-| DAZED Korea           | 韓國                        | Lucas                                                |                        |                      |                                                                                     |
-| Arena Homme +         | 泰容、Ten、志晟                 |                                                      |                        |                      |                                                                                     |
-| 9月                    | 仁俊、帝努、渽民                  |                                                      |                        |                      |                                                                                     |
-| 10月                   | 昀昀、楷燦、辰樂                  |                                                      |                        |                      |                                                                                     |
-| Singles               | NCT Dream                 |                                                      |                        |                      |                                                                                     |
-| Star1                 | 錕、廷祐、Lucas                |                                                      |                        |                      |                                                                                     |
-| L'officiel Hommes     | NCT 127                   |                                                      |                        |                      |                                                                                     |
-| Paper Magazine        | 美國                        |                                                      |                        |                      |                                                                                     |
-| 11月                   | Flaunt Magazine           |                                                      |                        |                      |                                                                                     |
-| DAZED Korea           | 韓國                        | 与[金請夏](https://zh.wikipedia.org/wiki/金請夏 "wikilink") |                        |                      |                                                                                     |
-| 12月                   | VOGUE Korea               | Lucas、渽民                                             |                        |                      |                                                                                     |
-| Harper's Bazaar Korea | Lucas                     |                                                      |                        |                      |                                                                                     |
-| 2019年                 | 3月                        | Men's Non-No                                         | 日本                     | 悠太                   |                                                                                     |
-| Urbanlike             | 韓國                        | NCT Dream（缺楷燦）                                       |                        |                      |                                                                                     |
-| 4月                    | Grazia                    | 在玹                                                   |                        |                      |                                                                                     |
-| 5月                    | NYLON                     | 渽民                                                   |                        |                      |                                                                                     |
-| 6月                    | Maps                      | NCT Dream（缺楷燦、辰樂）                                    |                        |                      |                                                                                     |
-| 风度men's uno Young\!   | 中國                        | WayV                                                 |                        |                      |                                                                                     |
-| 7月                    | NYLON China               |                                                      |                        |                      |                                                                                     |
-| 時尚芭莎                  | 電子刊                       |                                                      |                        |                      |                                                                                     |
-| 男人風尚LEON              |                           |                                                      |                        |                      |                                                                                     |
+| 月刊號                   | 雜誌名稱                      | 發行地區                                                 | 參與成員                   | 合作艺人/備註                                                                             |
+| --------------------- | ------------------------- | ---------------------------------------------------- | ---------------------- | ----------------------------------------------------------------------------------- |
+| 2016年                 |                           |                                                      |                        |                                                                                     |
+| 5月號                   | Star1                     | 韓國                                                   | 泰一、泰容、道英、Ten、在玹、Mark   |                                                                                     |
+| The Celebrity         |                           |                                                      |                        |                                                                                     |
+| 6月號                   | CeCi                      |                                                      |                        |                                                                                     |
+| DAZED Korea           |                           |                                                      |                        |                                                                                     |
+| 9月號                   | Oh Boy\!                  | NCT Dream                                            |                        |                                                                                     |
+| 10月號                  | CeCi                      | Mark、渽民                                              | 為公益活動I Love Pet拍攝\[7\] |                                                                                     |
+| 12月號                  | W Magazine                | NCT 127                                              |                        |                                                                                     |
+| 2017年                 |                           |                                                      |                        |                                                                                     |
+| 4月號                   | NYLON                     | 韓國                                                   | NCT 127                |                                                                                     |
+| 6月號                   | SUDSAPDA                  | 泰國                                                   | Ten                    |                                                                                     |
+| The Celebrity         | 韓國                        |                                                      |                        |                                                                                     |
+| 8月號                   | Harper's Bazaar Korea     | NCT 127                                              |                        |                                                                                     |
+| CeCi China 茜茜姊妹       | 中國                        | 昀昀                                                   |                        |                                                                                     |
+| 9月號                   | CeCi                      | 韓國                                                   | NCT Dream（缺渽民）         |                                                                                     |
+| Grazia                |                           |                                                      |                        |                                                                                     |
+| 10月號                  | DAZED Korea               |                                                      |                        |                                                                                     |
+| 小資ChicTeen            | 中國                        |                                                      |                        |                                                                                     |
+| 11月號                  | 昀昀                        |                                                      |                        |                                                                                     |
+| 2018年                 |                           |                                                      |                        |                                                                                     |
+| 3月號                   | MAPS                      | 韓國                                                   | Ten                    | 与[藝聲](../Page/藝聲.md "wikilink")（[Super Junior](../Page/Super_Junior.md "wikilink")） |
+| VOGUE Korea           | 泰容、道英、在玹、昀昀、廷祐、Lucas、Mark |                                                      |                        |                                                                                     |
+| 5月號                   | DAZED Korea               | 泰容、Ten                                               |                        |                                                                                     |
+| CeCi                  | NCT Dream                 |                                                      |                        |                                                                                     |
+| ELLE                  | NCT 127                   |                                                      |                        |                                                                                     |
+| Arena Homme +         | 錕、廷祐、Lucas                |                                                      |                        |                                                                                     |
+| 6月號                   | Johnny、道英、在玹              |                                                      |                        |                                                                                     |
+| 7月號                   | 泰一、悠太、Mark                |                                                      |                        |                                                                                     |
+| L'officiel Hommes     | 泰國                        | 在玹                                                   |                        |                                                                                     |
+| 8月號                   | SUDSAPDA                  | 泰容、Ten                                               |                        |                                                                                     |
+| DAZED Korea           | 韓國                        | Lucas                                                |                        |                                                                                     |
+| Arena Homme +         | 泰容、Ten、志晟                 |                                                      |                        |                                                                                     |
+| 9月號                   | 仁俊、帝努、渽民                  |                                                      |                        |                                                                                     |
+| 10月號                  | 昀昀、楷燦、辰樂                  |                                                      |                        |                                                                                     |
+| Singles               | NCT Dream                 |                                                      |                        |                                                                                     |
+| Star1                 | 錕、廷祐、Lucas                |                                                      |                        |                                                                                     |
+| L'officiel Hommes     | NCT 127                   |                                                      |                        |                                                                                     |
+| Paper Magazine        | 美國                        |                                                      |                        |                                                                                     |
+| 11月號                  | Flaunt Magazine           |                                                      |                        |                                                                                     |
+| DAZED Korea           | 韓國                        | 与[金請夏](https://zh.wikipedia.org/wiki/金請夏 "wikilink") |                        |                                                                                     |
+| 12月號                  | VOGUE Korea               | Lucas、渽民                                             |                        |                                                                                     |
+| Harper's Bazaar Korea | Lucas                     |                                                      |                        |                                                                                     |
+| 2019年                 |                           |                                                      |                        |                                                                                     |
+| 3月號                   | Men's Non-No              | 日本                                                   | 悠太                     |                                                                                     |
+| Urbanlike             | 韓國                        | NCT Dream（缺楷燦）                                       |                        |                                                                                     |
+| 4月號                   | Grazia                    | 在玹                                                   |                        |                                                                                     |
+| 5月號                   | NYLON                     | 渽民                                                   |                        |                                                                                     |
+| 6月號                   | Maps                      | NCT Dream（缺楷燦、辰樂）                                    |                        |                                                                                     |
+| 风度men's uno Young\!   | 中國                        | WayV                                                 |                        |                                                                                     |
+| 7月號                   | NYLON China               |                                                      |                        |                                                                                     |
+| 時尚芭莎                  | 電子刊                       |                                                      |                        |                                                                                     |
+| 男人風尚LEON              |                           |                                                      |                        |                                                                                     |
+| 第383期                 | 我們的街拍時刻                   | 男士街拍                                                 |                        |                                                                                     |
+| 第384期                 |                           |                                                      |                        |                                                                                     |
+| 8月號                   | TheG視覺                    | 電子刊                                                  |                        |                                                                                     |
+| 瑞麗Young               | 仁俊                        |                                                      |                        |                                                                                     |
+| 9月號                   | Allure Korea              | 韓國                                                   | NCT Dream              |                                                                                     |
+| Grazia                | 道英                        |                                                      |                        |                                                                                     |
+| Harper's Bazaar Korea | 泰容                        |                                                      |                        |                                                                                     |
+
+## 註釋
 
 ## 参考文献
 
@@ -2518,4 +2755,3 @@ Focus on ver.<br />
 5.
 6.
 7.
-8.

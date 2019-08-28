@@ -825,7 +825,7 @@ B'z 稲葉浩志×小室哲哉「対談企画」</p></td>
 <td><p>緊急生放送！世界仰天びっくり水泳ニュース<br />
 </p></td>
 <td><p>朝日電視台</p></td>
-<td><p>留言：給<a href="https://zh.wikipedia.org/wiki/世界游泳錦標賽" title="wikilink">世界游泳錦標賽選手的聲援留言</a>。<br />
+<td><p>留言：給<a href="../Page/世界游泳錦標賽.md" title="wikilink">世界游泳錦標賽</a>選手的聲援留言。<br />
 播放「<a href="../Page/GOLD_(B&#39;z單曲).md" title="wikilink">GOLD</a>」<a href="../Page/音樂錄影帶.md" title="wikilink">MUSIC VIDEO</a> (世界游泳錦標賽ver.)</p></td>
 <td></td>
 <td></td>

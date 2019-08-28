@@ -1,13 +1,13 @@
 **SWANKY DANK**是日本樂團，[千葉市](../Page/千葉市.md "wikilink")[稲毛区出身](https://zh.wikipedia.org/wiki/稲毛区 "wikilink")。
 由吉他兼主唱的哥哥松尾雄一及貝斯手兼主唱的弟弟松尾光次為中心組成。
 前身樂團VOXPOP於2007年3月16日解散，改名為**SWANKY DANK**並以YUICHI跟KOJI名義開始活動。2012年8月鼓手SHUN加入。2014年2月吉他手KO-TA加入。
+2018年7月31日SHUN退出。
 
 ## 成員
 
 [KOJI](https://zh.wikipedia.org/wiki/松尾光次 "wikilink")（主唱兼貝斯手）
 [YUICHI](https://zh.wikipedia.org/wiki/松尾雄一 "wikilink")（主唱兼吉他手）
 KO-TA （吉他手）
-SHUN （鼓手）
 
 ## 作品
 
@@ -107,6 +107,33 @@ SHUN （鼓手）
 <td></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>5th</p></td>
+<td><p><a href="../Page/2018年.md" title="wikilink">2018年</a><a href="../Page/3月28日.md" title="wikilink">3月28日</a></p></td>
+<td><p><strong>Amazing Dreams</strong></p></td>
+<td><p>CTCR-40394B</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:cebter;">
+<p>全3曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>Amazing Dreams</li>
+<li>Hurts</li>
+<li>Homemusic</li>
+</ol>
+</div>
+</div></td>
+<td><p>公信榜最高114名</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -165,7 +192,7 @@ SHUN （鼓手）
 <div class="NavContent" style="text-align:left;">
 <ol>
 <li>New World</li>
-<li>Monster feat. RYO from <a href="https://zh.wikipedia.org/wiki/Crystal_Lake" title="wikilink">Crystal Lake</a></li>
+<li>Monster feat. ˞<a href="https://zh.wikipedia.org/wiki/Crystal_Lake" title="wikilink">RYO</a></li>
 <li>the answer</li>
 <li>Party Rock</li>
 <li>inside of you</li>
@@ -204,6 +231,50 @@ SHUN （鼓手）
 <li>Make a Noise</li>
 </ol></td>
 <td><p>公信榜最高85名</p></td>
+</tr>
+<tr class="even">
+<td><p>3rd</p></td>
+<td><p><a href="../Page/2016年.md" title="wikilink">2016年</a><a href="../Page/8月3日.md" title="wikilink">8月3日</a></p></td>
+<td><p><strong>it is WHAT it is</strong></p></td>
+<td><p>GMRF-1008</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全6曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>MADE A MESS</li>
+<li>BELIEVE IN MYSELF</li>
+<li>TIME</li>
+<li>WIMP</li>
+<li>BAD GIRL</li>
+<li>IN THE END
+</div>
+</div></li>
+</ol></td>
+<td><p>公信榜最高50名</p></td>
+</tr>
+<tr class="odd">
+<td><p>4th</p></td>
+<td><p><a href="../Page/2019年.md" title="wikilink">2019年</a><a href="../Page/1月23日.md" title="wikilink">1月23日</a></p></td>
+<td><p><strong>WHITE FLAGS</strong></p></td>
+<td><p>CTCR-14947</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:cebter;">
+<p>全6曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>White Flag</li>
+<li>Brainwashed</li>
+<li>Tell Me</li>
+<li>Amazing Dreams</li>
+<li>Infinity</li>
+<li>REVERSAL
+</div>
+</div></li>
+</ol></td>
+<td><p>公信榜最高　名</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -264,7 +335,7 @@ SHUN （鼓手）
 <div class="NavContent" style="text-align:left;">
 <ol>
 <li>misery</li>
-<li>Sink Like a Stone feat.Hiro from <a href="https://zh.wikipedia.org/wiki/MY_FIRST_STORY" title="wikilink">MY FIRST STORY</a></li>
+<li>Sink Like a Stone feat. <a href="https://zh.wikipedia.org/wiki/MY_FIRST_STORY" title="wikilink">Hiro</a></li>
 <li>DESTRUCTION</li>
 <li>Gentleman of Fortune</li>
 <li>FROM ME</li>

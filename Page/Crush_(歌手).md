@@ -679,24 +679,24 @@ Crush作为的一员，于2012年12月7日以作曲兼作词的R\&B歌手的身�
 
 ### 2018年
 
-| 出演日期   | 電視台                                                   | 節目名稱                                                                        | 備註                                         |
-| ------ | ----------------------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------ |
-| 4月27日  | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | [BREAKERS](../Page/BREAKERS.md "wikilink")                                  | 幫唱嘉賓                                       |
-|        | [MBC](../Page/文化廣播公司.md "wikilink")                   | [Under Nineteen](https://zh.wikipedia.org/wiki/Under_Nineteen "wikilink")   | 聲樂導師／評判，與[Solji](../Page/率智.md "wikilink") |
-| 5月8日   | MBC                                                   | [Video Star](../Page/Video_Star.md "wikilink")                              |                                            |
-| 7月4日   | MBC                                                   | [一週的偶像](https://zh.wikipedia.org/wiki/一週的偶像 "wikilink")                     |                                            |
-| 9月19日  | JTBC                                                  | [請給一頓飯show](https://zh.wikipedia.org/wiki/請給一頓飯Show "wikilink")             |                                            |
-| 9月22日  | MBC                                                   | [全知干預視角](../Page/全知干預視角.md "wikilink")                                      |                                            |
-| 9月29日  | MBC                                                   | [全知干預視角](../Page/全知干預視角.md "wikilink")                                      |                                            |
-| 10月31日 | MBC                                                   | [黃金漁場 Radio Star](https://zh.wikipedia.org/wiki/黃金漁場_Radio_Star "wikilink") |                                            |
+| 出演日期   | 電視台                                 | 節目名稱                                                                        | 備註                                         |
+| ------ | ----------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------ |
+| 4月27日  | [Mnet](../Page/Mnet.md "wikilink")  | [BREAKERS](../Page/BREAKERS.md "wikilink")                                  | 幫唱嘉賓                                       |
+|        | [MBC](../Page/文化廣播公司.md "wikilink") | [Under Nineteen](https://zh.wikipedia.org/wiki/Under_Nineteen "wikilink")   | 聲樂導師／評判，與[Solji](../Page/率智.md "wikilink") |
+| 5月8日   | MBC                                 | [Video Star](../Page/Video_Star.md "wikilink")                              |                                            |
+| 7月4日   | MBC                                 | [一週的偶像](https://zh.wikipedia.org/wiki/一週的偶像 "wikilink")                     |                                            |
+| 9月19日  | JTBC                                | [請給一頓飯show](https://zh.wikipedia.org/wiki/請給一頓飯Show "wikilink")             |                                            |
+| 9月22日  | MBC                                 | [全知干預視角](../Page/全知干預視角.md "wikilink")                                      |                                            |
+| 9月29日  | MBC                                 | [全知干預視角](../Page/全知干預視角.md "wikilink")                                      |                                            |
+| 10月31日 | MBC                                 | [黃金漁場 Radio Star](https://zh.wikipedia.org/wiki/黃金漁場_Radio_Star "wikilink") |                                            |
 
 ### 2019年
 
-| 出演日期  | 電視台                                                   | 節目名稱                                                      | 備註 |
-| ----- | ----------------------------------------------------- | --------------------------------------------------------- | -- |
-| 3月8日  | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | [看見你的聲音](https://zh.wikipedia.org/wiki/看見你的聲音 "wikilink") |    |
-| 3月24日 | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")   | [家師父一體](../Page/家師父一體.md "wikilink")                      |    |
-| 4月2日  | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")   | [深夜正式演藝](../Page/深夜正式演藝.md "wikilink")                    |    |
+| 出演日期  | 電視台                                                 | 節目名稱                                                      | 備註 |
+| ----- | --------------------------------------------------- | --------------------------------------------------------- | -- |
+| 3月8日  | [Mnet](../Page/Mnet.md "wikilink")                  | [看見你的聲音](https://zh.wikipedia.org/wiki/看見你的聲音 "wikilink") |    |
+| 3月24日 | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") | [家師父一體](../Page/家師父一體.md "wikilink")                      |    |
+| 4月2日  | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") | [深夜正式演藝](../Page/深夜正式演藝.md "wikilink")                    |    |
 
 ## 獲獎及提名列表
 

@@ -1,4 +1,4 @@
-《**Love Catcher**》（，中譯為**戀愛捕手**\[1\]）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Mnet於](https://zh.wikipedia.org/wiki/Mnet "wikilink")2018年製作的綜藝節目\[2\]\[3\]，由[申東燁](../Page/申東燁.md "wikilink")、[洪錫天](https://zh.wikipedia.org/wiki/洪錫天 "wikilink")、[張度練](../Page/張度練.md "wikilink")、[Lady Jane](../Page/Lady_Jane.md "wikilink")、[JR](../Page/JR_\(NU'EST\).md "wikilink")、全健宇（推理小說家）等人\[4\]\[5\]共同主持，主軸以製作組尋找五男五女\[6\]居住於一「戀愛公寓」（男生一棟、女生一棟、共同使用一棟，另有戶外共同空間）中，共同歷經八天七夜。而10人中有「Love Catcher」和「Money Catcher」等角色，各角色需完成自己的任務，獲勝者可獲得韓幣5000萬元（約合新台幣137萬元）。
+《**Love Catcher**》（，中譯為**戀愛捕手**\[1\]）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Mnet](../Page/Mnet.md "wikilink")於2018年製作的綜藝節目\[2\]\[3\]，由[申東燁](../Page/申東燁.md "wikilink")、[洪錫天](https://zh.wikipedia.org/wiki/洪錫天 "wikilink")、[張度練](../Page/張度練.md "wikilink")、[Lady Jane](../Page/Lady_Jane.md "wikilink")、[JR](../Page/JR_\(NU'EST\).md "wikilink")、全健宇（推理小說家）等人\[4\]\[5\]共同主持，主軸以製作組尋找五男五女\[6\]居住於一「戀愛公寓」（男生一棟、女生一棟、共同使用一棟，另有戶外共同空間）中，共同歷經八天七夜。而10人中有「Love Catcher」和「Money Catcher」等角色，各角色需完成自己的任務，獲勝者可獲得韓幣5000萬元（約合新台幣137萬元）。
 
 ## 節目規則
 

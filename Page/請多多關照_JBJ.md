@@ -1,4 +1,4 @@
-《**請多多關照 JBJ**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Mnet的綜藝節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")\[1\]\[2\]，由[JBJ](../Page/JBJ.md "wikilink")\[3\]出演，節目以JBJ日常生活與實現夢想為主軸\[4\]。
+《**請多多關照 JBJ**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Mnet](../Page/Mnet.md "wikilink")的綜藝節目\[1\]\[2\]，由[JBJ](../Page/JBJ.md "wikilink")\[3\]出演，節目以JBJ日常生活與實現夢想為主軸\[4\]。
 
 ## 各集內容
 

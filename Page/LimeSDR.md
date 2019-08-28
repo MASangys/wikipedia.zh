@@ -13,13 +13,13 @@ LimeSDR的硬件底板是一個完全[開源的產品](https://zh.wikipedia.org/
   - RF：採用了Lime Micro本身的Field Programmable RF LMS7002M\[3\]
   - 沒有AF\[4\]
   - 接口：[USB 3.0或](../Page/USB_3.0.md "wikilink")[PCIe](https://zh.wikipedia.org/wiki/PCIe "wikilink")
-  - 與[GNU Radio](https://zh.wikipedia.org/wiki/GNU_Radio "wikilink")、[Pothos](https://zh.wikipedia.org/wiki/Pothos "wikilink")、[SoapySDR及](https://zh.wikipedia.org/wiki/SoapySDR "wikilink")[UHD等](https://zh.wikipedia.org/wiki/UHD "wikilink")[工具鏈兼容](https://zh.wikipedia.org/wiki/工具鏈 "wikilink")。
+  - 與[GNU Radio](../Page/GNU_Radio.md "wikilink")、[Pothos](https://zh.wikipedia.org/wiki/Pothos "wikilink")、[SoapySDR及](https://zh.wikipedia.org/wiki/SoapySDR "wikilink")[UHD等](https://zh.wikipedia.org/wiki/UHD "wikilink")[工具鏈兼容](https://zh.wikipedia.org/wiki/工具鏈 "wikilink")。
   - 可下載[D Snappy Ubuntu Core軟件](https://zh.wikipedia.org/wiki/D_Snappy_Ubuntu_Core "wikilink")\[5\]。
   - 有4個 Tx 发射天线接口、6個 Rx 接收天线接口；\[6\]
 
 ## 參看
 
-  - [GNU Radio](https://zh.wikipedia.org/wiki/GNU_Radio "wikilink")
+  - [GNU Radio](../Page/GNU_Radio.md "wikilink")
 
   -
 ## 參考資料

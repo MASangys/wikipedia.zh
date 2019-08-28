@@ -9,19 +9,10 @@
   - 泰坦降臨 Online在 G-STAR 2017 公布了新模式关键点占领战（Hardpoint Domination）\[3\]。
   - 《泰坦降臨 Online》宣布停止開發\[4\]
 
-<!-- end list -->
-
-  -
 ### 测试信息
 
   - 2016年12月16日至21日在韓國展開邊疆（Frontier）測試。
-
-<!-- end list -->
-
   - 2016年4月6日至9日在韓國展開新一波測試。
-
-<!-- end list -->
-
   - 2017年8月24至9月13日在韩国開始進行封测。
 
 ## 系統配備需求
@@ -52,30 +43,6 @@
 
 目前游戏仍然处于测试阶段，并未有太多信息流出，目前可以确认的游戏模式有：最後的泰坦、團隊死鬥、[爆破](../Page/爆破.md "wikilink")任務。
 
-## 鐵馭
-
-`Iron`
-
-Jack，也被成為「lron」，是一名前IMC士兵和測試的鐵馭，現在是一個獨立的 cybernetically-enhanced 的鐵馭，他的泰坦是Atlas Gauntlet。
-
-`Hollow`
-
-Rin，另一個名字是「Hollow」。
-
-`Preacher`
-
-AL-6，也被稱為「Preacher」。
-
-`Starseeker`
-
-Nora，又被稱為「Starseeker」。
-
-## 問題
-
-鐵馭頭盔是泰坦隕落系列的標誌，但是在online新鐵馭卻沒有。
-
-很多人在[封测评价里提到这款游戏就感觉是](https://zh.wikipedia.org/wiki/封測 "wikilink")「披上泰坦陨落外套的[突击风暴](../Page/突击风暴.md "wikilink")」，而且还出了叫做「[女武神](../Page/女武神.md "wikilink")」的[狙击枪](https://zh.wikipedia.org/wiki/狙击枪 "wikilink")，原来是不适合泰坦陨落这款游戏世界观的枪支。\[6\]
-
 ## 参考文献
 
 ## 外部連結
@@ -83,7 +50,6 @@ Nora，又被稱為「Starseeker」。
   -
   -
   -
-
 [Category:第一人称射击游戏](https://zh.wikipedia.org/wiki/Category:第一人称射击游戏 "wikilink") [Category:多人在线游戏](https://zh.wikipedia.org/wiki/Category:多人在线游戏 "wikilink") [Category:韩国开发电子游戏](https://zh.wikipedia.org/wiki/Category:韩国开发电子游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:Source引擎游戏](https://zh.wikipedia.org/wiki/Category:Source引擎游戏 "wikilink") [Category:科幻电子游戏](https://zh.wikipedia.org/wiki/Category:科幻电子游戏 "wikilink") [Category:跑酷电子游戏](https://zh.wikipedia.org/wiki/Category:跑酷电子游戏 "wikilink") [Category:机甲电子游戏](https://zh.wikipedia.org/wiki/Category:机甲电子游戏 "wikilink") [Category:多人电子游戏](https://zh.wikipedia.org/wiki/Category:多人电子游戏 "wikilink")
 
 1.
@@ -91,4 +57,3 @@ Nora，又被稱為「Starseeker」。
 3.
 4.
 5.
-6.

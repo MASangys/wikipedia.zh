@@ -843,7 +843,7 @@
 </tbody>
 </table>
 
-### [韓國大眾音樂獎（Korea Popular Music Awards）](https://zh.wikipedia.org/wiki/韩国大众音乐奖 "wikilink")
+### [韓國大眾音樂獎 Popular Music Awards）](../Page/韓國大眾音樂獎.md "wikilink")（Korea
 
 <table>
 <tbody>
@@ -855,7 +855,7 @@
 <td><p>結果</p></td>
 </tr>
 <tr class="even">
-<td><p>第1届</p></td>
+<td><p>第1屆</p></td>
 <td><p>2018年</p></td>
 <td><p>| TWICE</p></td>
 <td><p>本賞</p></td>

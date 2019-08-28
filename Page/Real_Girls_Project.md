@@ -1,6 +1,6 @@
 **Real Girls Project**（，简称：**R.G.P**），因韓國電視劇《[偶像大師.KR](../Page/偶像大師.KR.md "wikilink")-追逐夢想》於2016年8月成立的韓國十人女子企劃組合，推出時成員包括[素麗](https://zh.wikipedia.org/wiki/CocoSori#成员档案 "wikilink")、[憐朱](../Page/許憐朱.md "wikilink")、[來可](../Page/寺本來可.md "wikilink")、蕸書、智元、[Mint](https://zh.wikipedia.org/wiki/Tiny-G#成员资料 "wikilink")、何奈星、睿恩、[秀智](../Page/李绣至.md "wikilink")、[載寅](https://zh.wikipedia.org/wiki/載寅_\(1999年\) "wikilink")。隊長為憐朱。
 
-2016年8月25日，推出首張單曲《Dream》在[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》出道。
+2016年8月25日，推出首張單曲《Dream》在[Mnet](../Page/Mnet.md "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》出道。
 
 2016年10月13日，成員何奈星因腳傷而退出組合，由智瑟加入。
 
@@ -24,7 +24,7 @@
 
 ### 出道后
 
-2016年8月24日，公開新曲《Dream》的音源\[1\]。初舞臺為[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》。隨即在《[THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")》、[SBS](../Page/SBS_\(韓國\).md "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")》表演。9月，在弘大舉辦街頭表演。
+2016年8月24日，公開新曲《Dream》的音源\[1\]。初舞臺為[Mnet](../Page/Mnet.md "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》。隨即在《[THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")》、[SBS](../Page/SBS_\(韓國\).md "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")》表演。9月，在弘大舉辦街頭表演。
 
 2017年3月30日，小分隊組合**B-Side**成立，由素麗、來可、智元、睿恩、智瑟組成。4月7日，到日本舉辦《THE IDOLM@STER.KR 1st ST@GE in Japan》，並推出第一張音樂專輯《THE IDOLM@STER MUSIC Episode 1》\[2\]。4月28日，其主演的電視劇《[偶像大師.KR](../Page/偶像大師.KR.md "wikilink")》在SBS FunE 首播\[3\]。7月23日，小分隊組合**Real Girls Project**成立，由Sori、來可、智元、睿恩、秀智組成\[4\]。7月30日，举办组合第一次粉丝见面会。8月20日，將到日本舉辦《THE IDOLM@STER.KR 2nd ST@GE in Japan》。年末，部分成员参加[The Unit和](../Page/The_Unit.md "wikilink")[MIXNINE综艺选秀节目](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")。
 

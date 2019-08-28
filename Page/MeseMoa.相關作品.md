@@ -1,100 +1,5 @@
 本條目主要收錄日本男子偶像團體**[MeseMoa.](../Page/MeseMoa..md "wikilink")**的相關作品，其中包含部分衍生團體的作品记录。
 
-## 成員變遷表
-
-<table>
-<thead>
-<tr class="header">
-<th><p>成員</p></th>
-<th><p>出道前</p></th>
-<th><p>Musumen.時期</p></th>
-<th><p>MeseMoa.時期</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>1st單曲</p></td>
-<td><p>2nd單曲</p></td>
-<td><p>3rd單曲～6th單曲<br />
-1st專輯</p></td>
-<td><p>7th單曲～9th單曲<br />
-2nd專輯~4th專輯</p></td>
-</tr>
-<tr class="even">
-<td><p>白服</p></td>
-<td><p>2012年8月至今</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>AOI</p></td>
-<td><p>2012年8月至今</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>浮躁王子</p></td>
-<td><p>2012年8月至今</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Tomitake</p></td>
-<td><p>未加入</p></td>
-<td><p>2013年4月至今</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>二番煎じ</p></td>
-<td><p>2012年8月至今</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Nokkuso</p></td>
-<td><p>2012年8月至今</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>野崎便當</p></td>
-<td><p>2012年8月至今</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Forgeru</p></td>
-<td><p>2012年8月至今</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Nichan</p></td>
-<td><p>2012年8月至2014年1月</p></td>
-<td><p>休養</p></td>
-<td><p>2015年8月至今</p></td>
-</tr>
-<tr class="odd">
-<td><p>K'suke</p></td>
-<td><p>2012年8月至10月</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Asupara</p></td>
-<td><p>2012年8月至2013年5月</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Zeararu.</p></td>
-<td><p>2012年8月至2017年1月</p></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
 ## MeseMoa.名義
 
 ### 單曲
@@ -146,6 +51,15 @@
 <ul>
 <li>發行日期：2018年8月25日</li>
 <li>發行形態：限定 &amp; 通常盤Type A・B・C</li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>5th</p></td>
+<td><p>《平成パラダイムチェンジ》</p>
+<ul>
+<li>發行日期：2019年4月26日</li>
+<li>發行形態：限定Type A・B &amp; 通常盤</li>
 </ul></td>
 <td></td>
 </tr>
@@ -355,17 +269,22 @@
 
 ### 演唱會DVD
 
-| No. | 標題                                                              | 發行日期        | 備註         |
-| --- | --------------------------------------------------------------- | ----------- | ---------- |
-| 1   | Musumen. 1st LIVE DVD 全国巡迴演出會2014〜夏★彡MEETING！会いドル気取り真っ最chu♡〜    | 2014年11月23日 | 沒有收錄H\!P歌曲 |
-| 2   | Musumen. 單獨演唱會 in Zepp DiverCity Tokyo 〜ほっぷ ステップ Zeeeeeeeeeepp  | 〜           | 2015年4月25日 |
-| 3   | Musumen. 3rd LIVE DVD Musumen. 全国巡迴演出會2015夏 最後SP～Dream of 2222～ | 2015年11月15日 | 沒有收錄H\!P歌曲 |
+| 發行日期        | 標題                                                              | 發售形態    |
+| ----------- | --------------------------------------------------------------- | ------- |
+| 2014年11月23日 | Musumen. 1st LIVE DVD 全国巡迴演唱會2014〜夏★彡MEETING！会いドル気取り真っ最chu♡〜    |         |
+| 2015年4月25日  | Musumen. 單獨演唱會 in Zepp DiverCity Tokyo 〜ほっぷ ステップ Zeeeeeeeeeepp  | 〜       |
+| 2015年11月15日 | Musumen. 3rd LIVE DVD Musumen. 全国巡迴演唱會2015夏 最後SP～Dream of 2222～ |         |
+| 2018年12月24日 | 47 TOUR FINAL Zeararu. 卒業～Special Thanks\!～                     | DVD 3枚組 |
+| 2019年4月27日  | MeseMoa.全国巡迴演唱會2018「Maze No.9」                                  | DVD 4枚組 |
 
 ### 其他DVD
 
-| No. | 標題                                         | 發行日期        | 備註 |
-| --- | ------------------------------------------ | ----------- | -- |
-| 1   | 『しぇあむす。』　Musumen. 1st PHOTO BOOK　めいきんぐ DVD | 2015年12月11日 | \- |
+| 發行日期             | 標題                                                        |
+| ---------------- | --------------------------------------------------------- |
+| 2015年12月11日      | 『しぇあむす。』　Musumen. 1st PHOTO BOOK　めいきんぐ DVD                |
+| 2016年2月17日～4月15日 | Musumen. LIVE DVD ～Dream of 2222～ in Nakano SUNPLAZA（完全版） |
+| 2016年2月17日～4月15日 | むすたま。DVD(Vol.1～Vol.4)                                     |
+| 2017年1月22日       | Zeararu.卒業記念DVD・オレンジ                                      |
 
 ## 派生組合
 

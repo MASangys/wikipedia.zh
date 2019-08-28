@@ -6,7 +6,7 @@
 
 ## 發行與排行
 
-[MOMOLAND](../Page/MOMOLAND.md "wikilink")於《BBoom BBoom》發行後在[Mnet音樂節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》獲得出道後第一個一位獎盃\[3\]。歌曲發行三個月後，獲得當年韓國國內發行專輯中第一支點擊破億的音樂錄影帶\[4\]。歌曲亦曾入圍[告示牌雜誌](https://zh.wikipedia.org/wiki/告示牌雜誌 "wikilink")《世界單曲銷售榜》前五名，為該女團首次登上告示牌榜單的歌曲\[5\]。
+[MOMOLAND](../Page/MOMOLAND.md "wikilink")於《BBoom BBoom》發行後在[Mnet](../Page/Mnet.md "wikilink")音樂節目《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》獲得出道後第一個一位獎盃\[3\]。歌曲發行三個月後，獲得當年韓國國內發行專輯中第一支點擊破億的音樂錄影帶\[4\]。歌曲亦曾入圍[告示牌雜誌](https://zh.wikipedia.org/wiki/告示牌雜誌 "wikilink")《世界單曲銷售榜》前五名，為該女團首次登上告示牌榜單的歌曲\[5\]。
 
 ### 發行紀錄
 

@@ -4,7 +4,7 @@
 
 | 歌名                                                             | 執導                                                                                                    | 首播日期        | 附註      |
 | -------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------- | ------- |
-| [嗯哼 Uh-Huh](https://www.youtube.com/watch?v=xeDeq--YUUU)       | [謝乾乾](https://zh.wikipedia.org/wiki/謝乾乾 "wikilink")                                                   | 2016年11月14日 |         |
+| [嗯哼 Uh-Huh](https://www.youtube.com/watch?v=xeDeq--YUUU)       | [謝乾乾](../Page/謝乾乾.md "wikilink")                                                                      | 2016年11月14日 |         |
 | [為愛而愛](https://www.youtube.com/watch?v=8nQpO6gbV94)            | \-                                                                                                    | 2016年12月10日 |         |
 | [可以唷LI-HI](https://www.youtube.com/watch?v=8Jg8KoyCHwM)        | KATS MORI                                                                                             | 2016年12月28日 |         |
 | [可以唷LI-HI](https://www.youtube.com/watch?v=JJyc5JaRVUA)        | KATS MORI                                                                                             | 2016年2月24日  | 官方舞蹈版   |

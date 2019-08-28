@@ -653,7 +653,7 @@ end
 `   else`
 `       -- try short name first if requested`
 `       if short then`
-`           label = p._property({p.aliasesP.shortName, [p.args.eid] = id})  -- get short name`
+`           label = p._property{p.aliasesP.shortName, [p.args.eid] = id}  -- get short name`
 `           `
 `           if label == "" then`
 `               label = nil`
@@ -718,7 +718,7 @@ function Config:getEditIcon()
 `       back = '`</span>`'`
 `   end`
 `   `
-`   value = "[`[`pencil.svg|frameless|text-top|10px|alt="``   ``..``   ``i18n['info'`](File:Blue)`['edit-on-wikidata'] .. "|link=`<https://www.wikidata.org/wiki/>`" .. prefix .. self.entityID .. "?uselang=" .. self.langCode`
+`   value = "[`[`UI``   ``icon``   ``edit-ltr-progressive.svg|frameless|text-top|10px|alt="``   ``..``   ``i18n['info'`](File:OOjs)`['edit-on-wikidata'] .. "|link=`<https://www.wikidata.org/wiki/>`" .. prefix .. self.entityID .. "?uselang=" .. self.langCode`
 `   `
 `   if self.propertyID then`
 `       value = value .. "#" .. self.propertyID`
@@ -825,7 +825,7 @@ function Config:getValue(snak, raw, link, short, anyLang, unitOnly, noSpecial)
 `           elseif subtype == 'math' and not raw then`
 `               return mw.getCurrentFrame():extensionTag("math", datavalue)`
 `           elseif subtype == 'external-id' and link then`
-`               local url = p._property({p.aliasesP.formatterURL, [p.args.eid] = snak.property})  -- get formatter URL`
+`               local url = p._property{p.aliasesP.formatterURL, [p.args.eid] = snak.property}  -- get formatter URL`
 `               `
 `               if url ~= "" then`
 `                   url = mw.ustring.gsub(url, "$1", datavalue)`
@@ -1960,14 +1960,14 @@ end
 `               i = self.conf:getLabel(i)`
 `               `
 `               if i ~= "" then`
-`                   citeParams['default'][#citeParams['default'] + 1] = i .. ": " .. v[1]`
+`                   citeParams['default'][#citeParams['default'] + 1] = i .. "：" .. v[1]`
 `               end`
 `           end`
 `           `
-`           value = table.concat(citeParams['default'], "; ")`
+`           value = table.concat(citeParams['default'], "；")`
 `           `
 `           if value ~= "" then`
-`               value = value .. "."`
+`               value = value .. "。"`
 `           end`
 `       end`
 `       `
@@ -2295,7 +2295,7 @@ function claimCommand(args, funcName)
 `   `
 `   -- if a "qualifier(s)" command and no "propert(y|ies)" command has been given, make the movable separator a semicolon`
 `   if _.states.qualifiersCount > 0 and not _.states[parameters.property] then`
-`       _.separators["sep"..parameters.separator][1] = {";"}`
+`       _.separators["sep"..parameters.separator][1] = {"；"}`
 `   end`
 `   `
 `   -- if only "reference(s)" has been given, set the default separator to none (except when raw)`
@@ -2532,6 +2532,7 @@ end
 `       p[commandName] = wikitextWrapper`
 `       `
 `       local function luaWrapper(args)`
+`                       args = copyTable(args)`
 `           args.pointer = 1`
 `           loadSubmodules()`
 `           return commandFunc(args, commandName)`

@@ -28,7 +28,7 @@
 
   - 美國國會官網上的[法案全文](https://www.congress.gov/bill/115th-congress/house-bill/2884/text)
 
-[Category:美国联邦立法建议](https://zh.wikipedia.org/wiki/Category:美国联邦立法建议 "wikilink")
+[Category:美国联邦立法提案](https://zh.wikipedia.org/wiki/Category:美国联邦立法提案 "wikilink")
 
 1.
 2.

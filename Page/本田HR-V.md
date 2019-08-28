@@ -8,9 +8,7 @@
 
 ## 第二代 (2014年至今)
 
-[左](https://zh.wikipedia.org/wiki/File:2018_Honda_HR-V_VTi-S_wagon_\(2018-08-27\)_02.jpg "fig:左") [左](https://zh.wikipedia.org/wiki/File:Honda_HR-V_-_wnętrze_\(MSP16\).jpg "fig:左")
-
-第二代本田HR-V 在 2014年[紐約車展以概念車的型式發表](../Page/纽约国际车展.md "wikilink")。量產車型當年稍後在[洛杉磯車展發表](../Page/洛杉矶国际车展.md "wikilink")。它和本田Fit共用平台，大體上和2013年開始在日本銷售的本田Vezel相同。HR-V比 CR-V 和 Pilot 都小，使得本田在Element 停產後再次在[CUV區塊同時有三種車型供給](https://zh.wikipedia.org/wiki/CUV "wikilink")。
+第二代本田HR-V 在2014年[紐約車展以概念車的型式發表](../Page/纽约国际车展.md "wikilink")。量產車型當年稍後在[洛杉磯車展發表](../Page/洛杉矶国际车展.md "wikilink")。它和本田Fit共用平台，大體上和2013年開始在日本銷售的本田Vezel相同。HR-V比 CR-V 和 Pilot 都小，使得本田在Element 停產後再次在[CUV區塊同時有三種車型供給](https://zh.wikipedia.org/wiki/CUV "wikilink")。
 
 美國市場的 HR-V 和 Fit 一樣在本田的墨西哥塞拉亞工廠生產，2015年5月開始以2016年式銷售。動力是一具 1.8 升 SOHC i-VTEC 直四引擎，搭配類似 Civic 的 CVT 變速箱或六速手排變速箱。
 
@@ -37,10 +35,6 @@ HR-V 的車體有27%使用 780, 980, 或 1500MPa 的超高強度鋼材。
 2018年9月1日臺灣本田公司限時推出「HR-V 安全躍進版」。\[3\]
 
 2019年5月14日[臺灣本田正式發表全新跨界跑旅All](../Page/台灣本田.md "wikilink") NEW HR-V，為HR-V於臺灣販售以來首次小改款。 販售編成也調整為VTi-S、S 兩級距；販售定價分別為[新臺幣](../Page/新臺幣.md "wikilink")77.7萬元、84萬元。在主被動安全部份，全車系搭載九大主動安全系統、高剛性鋼骨防護車體結構、6具SRS輔助[氣囊](https://zh.wikipedia.org/wiki/安全氣囊 "wikilink")。至於臺灣消費者期待改款後新增的智慧安全主動防護系統及1.5升渦輪進氣引擎，則未列入本次改款當中。\[4\]
-
-
-
-<File:Honda> CRV flex BSB 03 2016.jpg|Brazilian flex-fuel HR-V
 
 ## 安全性
 

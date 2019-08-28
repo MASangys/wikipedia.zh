@@ -594,7 +594,7 @@ vs<br />
 <td><p>擊敗其餘的隊伍</p></td>
 <td><p>神聖經隊<strong>勝出</strong><br />
 李聖經獲得鑽石后冠<br />
-劉在錫、Gary和金玟錫因選擇錯誤隊伍，所以須接受「杖刑」大懲罰[22]</p></td>
+劉在錫、Gary及金玟錫因為選擇了錯誤的隊伍，因此須接受「杖刑」大懲罰[22]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -976,9 +976,9 @@ Pabby（ALL-STAR）、<br />
 <a href="../Page/Snuper.md" title="wikilink">秀賢</a>、<a href="../Page/Snuper.md" title="wikilink">相逸</a>、<br />
 、<a href="../Page/Snuper.md" title="wikilink">優盛</a>、<br />
 <a href="../Page/Snuper.md" title="wikilink">相鎬</a>、<a href="../Page/Snuper.md" title="wikilink">世賓</a>（<a href="../Page/Snuper.md" title="wikilink">Snuper</a>）、<br />
-<a href="https://zh.wikipedia.org/wiki/KNK" title="wikilink">有真</a>、<a href="https://zh.wikipedia.org/wiki/KNK" title="wikilink">承俊</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/KNK" title="wikilink">因成</a>、<a href="https://zh.wikipedia.org/wiki/KNK" title="wikilink">智勳</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/KNK" title="wikilink">熙俊</a>（<a href="https://zh.wikipedia.org/wiki/KNK" title="wikilink">KNK</a>）、<br />
+<a href="../Page/KNK.md" title="wikilink">有真</a>、<a href="../Page/KNK.md" title="wikilink">承俊</a>、<br />
+<a href="../Page/KNK.md" title="wikilink">因成</a>、<a href="../Page/KNK.md" title="wikilink">智勳</a>、<br />
+<a href="../Page/KNK.md" title="wikilink">熙俊</a>（<a href="../Page/KNK.md" title="wikilink">KNK</a>）、<br />
 <a href="https://zh.wikipedia.org/wiki/Gu9udan" title="wikilink">Mimi</a>、<a href="https://zh.wikipedia.org/wiki/Gu9udan" title="wikilink">Hana</a>、<br />
 <a href="https://zh.wikipedia.org/wiki/Gu9udan" title="wikilink">HaeBin</a>、<a href="https://zh.wikipedia.org/wiki/Gu9udan" title="wikilink">NaYoung</a>、<br />
 <a href="https://zh.wikipedia.org/wiki/Gu9udan" title="wikilink">Sally</a>、<a href="https://zh.wikipedia.org/wiki/Gu9udan" title="wikilink">SoYee</a>、<br />
@@ -1103,7 +1103,7 @@ vs<br />
 <span style=color:#FF1493>宋智孝、李光洙</p></td>
 <td><p>前四名找到兩個金箱子</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/金鐘國" title="wikilink">金鐘國</a>、<a href="../Page/張度練.md" title="wikilink">張度練</a>，Gary、<a href="../Page/珉豪.md" title="wikilink">珉豪</a>，<a href="https://zh.wikipedia.org/wiki/哈哈" title="wikilink">哈哈</a>、<a href="https://zh.wikipedia.org/wiki/金俊鉉" title="wikilink">金俊鉉</a>，<a href="../Page/宋智孝.md" title="wikilink">宋智孝</a>、<a href="../Page/李光洙.md" title="wikilink">李光洙</a><strong>勝出</strong><br />
-劉在錫、徐智慧，池錫辰、梁世燦經最終測試後由擁有炸彈箱子的池錫辰、梁世燦接受麵粉炸彈懲罰[[34]</p></td>
+劉在錫、徐智慧及池錫辰、梁世燦經最終測試後由擁有炸彈箱子的池錫辰、梁世燦接受麵粉炸彈懲罰[[34]</p></td>
 </tr>
 <tr class="even">
 <td><p>275</p></td>
@@ -1670,7 +1670,7 @@ Gary獲得由Running Man成員們贈送的紀念品[36]</p></td>
 27. 在八月期間，如果Running Man成員比賽期間違規（背叛或使用犯規手段阻止對方勝出）三次，該成員將會禁止拍攝Running Man節目一日，、[韓惠軫](../Page/韓惠軫.md "wikilink")、、[金伊娜](../Page/金伊娜.md "wikilink")特別出演。
 28. [安吉強](../Page/安吉強.md "wikilink")與他的兩名女兒特別出演。
 29. 宣傳[SBS月火劇](../Page/SBS月火連續劇.md "wikilink")《[月之戀人－步步驚心：麗](../Page/月之戀人－步步驚心：麗.md "wikilink")》
-30. 概念來自電影《[釜山行](../Page/屍速列車.md "wikilink")》，[GOT7](../Page/GOT7.md "wikilink")、[孝琳](https://zh.wikipedia.org/wiki/金孝靜 "wikilink")（[SISTAR](../Page/SISTAR.md "wikilink")）特別出演。
+30. 概念來自電影《[屍殺列車](../Page/屍速列車.md "wikilink")》，[GOT7](../Page/GOT7.md "wikilink")、[孝琳](https://zh.wikipedia.org/wiki/金孝靜 "wikilink")（[SISTAR](../Page/SISTAR.md "wikilink")）特別出演。
 31. 、[朴詩妍](https://zh.wikipedia.org/wiki/朴詩妍 "wikilink")、[Mikey](https://zh.wikipedia.org/wiki/趙明翼 "wikilink")（[Turbo](../Page/Turbo_\(韓國男子團體\).md "wikilink")）、[Sleepy](https://zh.wikipedia.org/wiki/Sleepy "wikilink")（[Untouchable](https://zh.wikipedia.org/wiki/Untouchable_\(南韓組合\) "wikilink")）、、[韓昇延](../Page/韓昇延.md "wikilink")、[燦盛](../Page/黃燦盛.md "wikilink")（[2PM](https://zh.wikipedia.org/wiki/2PM "wikilink")）、[宋枝恩](../Page/宋枝恩.md "wikilink")（[Secret](../Page/Secret_\(組合\).md "wikilink")）、[林智妍](../Page/林智妍.md "wikilink")、[Crush](../Page/Crush_\(歌手\).md "wikilink")（VV:D）、[Mark](../Page/段宜恩.md "wikilink")、[珍榮](../Page/朴珍榮.md "wikilink")（[GOT7](../Page/GOT7.md "wikilink")）、[李善彬](../Page/李善彬.md "wikilink")、[金昭希](https://zh.wikipedia.org/wiki/金昭希_\(歌手\) "wikilink")（[I.B.I](../Page/I.B.I.md "wikilink")）特別出演，[文瑾瑩](../Page/文瑾瑩.md "wikilink")、[鄭恩地](../Page/鄭恩地.md "wikilink")（[Apink](../Page/Apink.md "wikilink")）驚喜聲演。
 32. 宣傳舞台劇《黑鳥》，[宋在喜](../Page/宋在喜.md "wikilink")、、[沈志浩](../Page/沈志浩.md "wikilink")、[李莞](../Page/李莞.md "wikilink")、、[宋再臨](../Page/宋再臨.md "wikilink")、[金玟錫](https://zh.wikipedia.org/wiki/金玟錫 "wikilink")、[宋枝恩](../Page/宋枝恩.md "wikilink")（[Secret](../Page/Secret_\(組合\).md "wikilink")）、[孔昇延](https://zh.wikipedia.org/wiki/孔昇延 "wikilink")、[定延](../Page/定延.md "wikilink")（[TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")）、[宇宙少女驚喜出演](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")，[景收真](../Page/景收真.md "wikilink")驚喜聲演。概念來自遊戲《[精靈寶可夢GO](../Page/精靈寶可夢GO.md "wikilink")》。
 33. 特別出演。

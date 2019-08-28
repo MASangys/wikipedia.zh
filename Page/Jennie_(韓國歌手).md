@@ -8,7 +8,7 @@ Jennie於1996年1月16日出生於[韓國](https://zh.wikipedia.org/wiki/韓國 
 
 ### 2012年－2015年：出道前
 
-Jennie的練習生生涯有7年之久，首次露面是在YG娛樂於2012年4月份通過官方博客登載，題為「Who’s that girl?」的照片上亮相。當時，Jennie被大眾廣泛譽為「神秘少女」登在韓國各大門戶網站的檢索詞排行榜第一位，引發網民熱烈的反響\[8\]，而繼同組合成員[Lisa首次在](../Page/Lisa_\(泰國歌手\).md "wikilink")5月11日通過[YouTube](../Page/YouTube.md "wikilink")官方頻道公開後\[9\]，Jennie也在同年8月29日於YG娛樂發佈的旗下練習生練習影像中亮相，也是第一位除了練習影像及年紀之外率先公開名字的練習生。\[10\]
+Jennie的練習生生涯有7年之久，首次露面是在YG娛樂於2012年4月份通過官方部落格登載，題為「Who’s that girl?」的照片上亮相。當時，Jennie被大眾廣泛譽為「神秘少女」登在韓國各大門戶網站的檢索詞排行榜第一位，引發網民熱烈的反響\[8\]，而繼同組合成員[Lisa首次在](../Page/Lisa_\(泰國歌手\).md "wikilink")5月11日通過[YouTube](../Page/YouTube.md "wikilink")官方頻道公開後\[9\]，Jennie也在同年8月29日於YG娛樂發佈的旗下練習生練習影像中亮相，也是第一位除了練習影像及年紀之外率先公開名字的練習生。\[10\]
 
 在正式出道前Jennie與所屬經紀公司旗下藝人已有多次合作，包括參與[BIGBANG隊長](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")[G-Dragon](../Page/G-Dragon.md "wikilink")的首張迷你專輯《[One of a Kind](https://zh.wikipedia.org/wiki/One_of_a_Kind "wikilink")》主打歌之一《》的音樂錄影帶演出，2013年參與[李遐怡](../Page/李遐怡.md "wikilink")正規一輯《》收錄曲《Special》的伴唱，並在同年相繼在8月19日參與BIGBANG成員[勝利第二張迷你專輯](../Page/勝利_\(歌手\).md "wikilink")《[Let's Talk About Love](../Page/Let's_Talk_About_Love_\(勝利韓語迷你專輯\).md "wikilink")》收錄曲《GG BE》，以及9月2日G-Dragon發行的正規專輯《[COUP D'ETAT](../Page/COUP_D'ETAT.md "wikilink")》主打曲之一的《Black》韓語版擔任伴唱，進而累積實力\[11\]\[12\]。除了參與音樂錄製之外，她也進一步首次在大螢幕前曝光，與G-Dragon一同參與音樂節目的演出，至此，Jennie已逐漸為大眾所熟知。\[13\]\[14\]
 

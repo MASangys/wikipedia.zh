@@ -4,7 +4,7 @@
 
 UNM wz. 1943/60（LON-I）槍榴彈發射器以螺接擰緊固定在步槍槍管的前端，並且通過安裝在波蘭改進型AK-47步槍的[準星座以上的彈簧支撐式柱塞將其鎖定到位](../Page/照準器.md "wikilink")。發射器的瞄準具安裝在[照門座以上](https://zh.wikipedia.org/wiki/照門 "wikilink")。導氣箍右側裝有閥門，當擊發槍榴彈時，導氣孔可被關閉，以防止高壓燃氣經導氣孔離開槍管。
 
-當使用步槍發射槍榴彈時，還會在槍托底板上裝上特殊的[橡膠](../Page/橡膠.md "wikilink")製緩衝墊，並插入特殊的10發可拆卸式[空包彈](../Page/空包彈.md "wikilink")[彈匣](../Page/彈匣.md "wikilink")。\[3\]這款彈匣以內具有分隔阻件，以防止它誤裝“正常”（即上了[彈丸](https://zh.wikipedia.org/wiki/彈丸 "wikilink")）的[彈藥以下使用](https://zh.wikipedia.org/wiki/彈藥 "wikilink")。這款步槍還有一款常規版本，它並非用以發射槍榴彈而設計。
+當使用步槍發射槍榴彈時，還會在槍托底板上裝上特殊的[橡膠](../Page/橡膠.md "wikilink")製，並插入特殊的10發可拆卸式[空包彈](../Page/空包彈.md "wikilink")[彈匣](../Page/彈匣.md "wikilink")。\[3\]這款彈匣以內具有分隔阻件，以防止它誤裝“正常”（即上了[彈丸](https://zh.wikipedia.org/wiki/彈丸 "wikilink")）的[彈藥以下使用](https://zh.wikipedia.org/wiki/彈藥 "wikilink")。這款步槍還有一款常規版本，它並非用以發射槍榴彈而設計。
 
 ## 配用槍榴彈
 

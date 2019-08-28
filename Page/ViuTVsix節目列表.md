@@ -368,7 +368,7 @@ One Love Manchester</p></td>
 演出：<a href="https://zh.wikipedia.org/wiki/BoA" title="wikilink">BoA</a>、<a href="https://zh.wikipedia.org/wiki/Wanna_One" title="wikilink">Wanna One</a>、<a href="../Page/I.O.I.md" title="wikilink">I.O.I</a>、<a href="https://zh.wikipedia.org/wiki/MONSTA_X" title="wikilink">MONSTA X</a>、<a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a>、<a href="../Page/EXO-CBX.md" title="wikilink">EXO-CBX</a>、<a href="https://zh.wikipedia.org/wiki/SEVENTEEN" title="wikilink">SEVENTEEN</a>、<a href="https://zh.wikipedia.org/wiki/fromis_9" title="wikilink">fromis_9</a>、<a href="https://zh.wikipedia.org/wiki/NU&#39;EST_W" title="wikilink">NU'EST W</a>、<a href="https://zh.wikipedia.org/wiki/PRISTIN" title="wikilink">PRISTIN</a>、<a href="https://zh.wikipedia.org/wiki/金請夏" title="wikilink">金請夏</a>、<a href="../Page/Weki_Meki.md" title="wikilink">Weki Meki</a>、<a href="https://zh.wikipedia.org/wiki/ZICO" title="wikilink">ZICO</a>、<a href="../Page/AKB48.md" title="wikilink">AKB48</a></p></td>
 <td></td>
 <td><p><strong>現場直播</strong><br />
-外購節目（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a>）</p></td>
+外購節目（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="../Page/Mnet.md" title="wikilink">Mnet</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>12月25日</p></td>
@@ -472,7 +472,7 @@ One Love Manchester</p></td>
 粵語現場翻譯：Bonny Yim、Nichol Chau</p></td>
 <td><p><a href="https://viu.tv/encore/2-01-8-mnet-asian-music-awards-in-korea">ViuTV網頁</a></p></td>
 <td><p><strong>現場直播</strong><br />
-外購節目（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a>）／即時粵語現場翻譯</p></td>
+外購節目（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="../Page/Mnet.md" title="wikilink">Mnet</a>）／即時粵語現場翻譯</p></td>
 </tr>
 <tr class="odd">
 <td><p>12月12日</p></td>
@@ -485,7 +485,7 @@ One Love Manchester</p></td>
 粵語現場翻譯：Bonny Yim、Nichol Chau、Suzuki Hon、SK Lam</p></td>
 <td><p><a href="https://viu.tv/encore/2-01-8-mnet-asian-music-awards-in-japan">ViuTV網頁</a></p></td>
 <td><p><strong>現場直播</strong><br />
-外購節目（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a>）／即時粵語現場翻譯</p></td>
+外購節目（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="../Page/Mnet.md" title="wikilink">Mnet</a>）／即時粵語現場翻譯</p></td>
 </tr>
 </tbody>
 </table>

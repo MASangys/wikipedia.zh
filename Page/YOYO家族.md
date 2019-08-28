@@ -305,7 +305,7 @@ YOYO家族為[東森電視](../Page/東森電視.md "wikilink")旗下頻道[東�
 <td><p>摩羯座</p></td>
 <td><p>A型</p></td>
 <td><p>3－9</p></td>
-<td></td>
+<td><p>目前主要活躍於主持界</p></td>
 <td><p><br />
 青色</p></td>
 </tr>
@@ -317,7 +317,7 @@ YOYO家族為[東森電視](../Page/東森電視.md "wikilink")旗下頻道[東�
 <td><p>牡羊座</p></td>
 <td><p>A型</p></td>
 <td><p>3－12</p></td>
-<td></td>
+<td><p>目前主要活躍於主持界</p></td>
 <td><p><br />
 橙色</p></td>
 <td></td>

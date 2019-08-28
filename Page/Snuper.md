@@ -283,7 +283,7 @@ Snuper團體名稱是表示，「Snuper要比Super更出色更優秀的意思」
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>12月17日</p></td>
 </tr>
 <tr class="even">
@@ -338,7 +338,7 @@ Snuper團體名稱是表示，「Snuper要比Super更出色更優秀的意思」
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>3月10日、3月17日、3月24日、4月7日、4月21日</p></td>
 </tr>
 <tr class="even">
@@ -398,7 +398,7 @@ Snuper團體名稱是表示，「Snuper要比Super更出色更優秀的意思」
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>7月14日</p></td>
 </tr>
 <tr class="even">

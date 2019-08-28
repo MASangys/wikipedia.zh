@@ -1,4 +1,4 @@
-**K11人文藝術購物館**（英文名稱為**K11 MUSEA**，讀音meu-see-ah）是[香港](../Page/香港.md "wikilink")[尖沙咀](../Page/尖沙咀.md "wikilink")海旁的一座將會開放的購物中心，以購物藝術館為經營理念，位處[新世界集團綜合式大樓](https://zh.wikipedia.org/wiki/新世界集團 "wikilink")[VICTORIA DOCKSIDE內](../Page/Victoria_Dockside.md "wikilink")，樓高10層，將於2019年8月開幕。\[1\]\[2\]
+**K11人文藝術購物館**（英文名稱為**K11 MUSEA**，讀音meu-see-ah）是[香港](../Page/香港.md "wikilink")[尖沙咀](../Page/尖沙咀.md "wikilink")海旁的一座將會開放的購物中心，以購物藝術館為經營理念，位處[新世界集團綜合式大樓](https://zh.wikipedia.org/wiki/新世界集團 "wikilink")[VICTORIA DOCKSIDE內](../Page/Victoria_Dockside.md "wikilink")，樓高10層，將於2019年第三季開幕。\[1\]\[2\]
 
 ## 基本概念及命名
 
@@ -18,6 +18,8 @@ K11 MUSEA是由[K11創辦人](https://zh.wikipedia.org/wiki/K11 "wikilink")[鄭�
 
 K11 MUSEA 的建築將有多項特色結構，包括全球最大的綠化牆之一，還有佔地2000平方呎的圓形露天廣場Sunken Plaza。露天廣場將設有動態水幕牆，並裝上噴霧系統。上方設有25呎高的 LED 屏幕，用作戶外電影放映、現場音樂會以及各種藝術表演。\[6\]
 
+## 商場結構
+
 ## 租戶
 
 發展商指將匯聚眾多國際品牌，其中包括首度進駐香港、以全新概念登場的限定店及旗艦店，集合零售、藝術、文化、娛樂以及餐飲等。\[7\]
@@ -28,9 +30,11 @@ K11 MUSEA 的建築將有多項特色結構，包括全球最大的綠化牆之�
 
 2019年5月30日，紐約現代藝術博物館[MoMA轄下的MoMA](../Page/現代藝術博物館.md "wikilink") Design Store將開設佔地6000平方尺的分店，為亞洲最大，預計8月開業。\[10\]而日本Afternoon Tea TEAROOM亦將進駐B1層。\[11\]而[嚐高美集團將引入日本拉麵店](https://zh.wikipedia.org/wiki/嚐高美集團 "wikilink")「多賀野」，預料2019年第三季開業。\[12\]
 
+2019年8月，日本智能健肌品牌《SIXPAD STATION》和GP芝柏表亦會在商場開業。\[13\]而[周大福管理的Victoria](https://zh.wikipedia.org/wiki/周大福 "wikilink") Playpark亦會在場內設立校舍。
+
 ### 獎項
 
-可持續發展主導 K11 MUSEA 的建築設計，項目獲[美國領先能源與環境設計](https://zh.wikipedia.org/wiki/美國綠建築協會#LEED領先能源與環境設計 "wikilink")（LEED）金級預先認證及香港《綠建環評》（BEAM Plus）暫定銀級認證\[13\]。當中的綠色建築特色包括總面積達5萬平方呎的垂直綠化牆；室內設計方面，主要使用石灰岩及木材等自然物料。其他特色包括收集雨水作100%灌溉水之用，以及採用海水冷卻的無油式節能空調系統，此系統跟[美國 ASHRAE](https://zh.wikipedia.org/wiki/美國採暖、製冷與空調工程師學會 "wikilink") 90.1基準相比，每年可有效節約能源達12%以上。\[14\]
+可持續發展主導 K11 MUSEA 的建築設計，項目獲[美國領先能源與環境設計](https://zh.wikipedia.org/wiki/美國綠建築協會#LEED領先能源與環境設計 "wikilink")（LEED）金級預先認證及香港《綠建環評》（BEAM Plus）暫定銀級認證\[14\]。當中的綠色建築特色包括總面積達5萬平方呎的垂直綠化牆；室內設計方面，主要使用石灰岩及木材等自然物料。其他特色包括收集雨水作100%灌溉水之用，以及採用海水冷卻的無油式節能空調系統，此系統跟[美國 ASHRAE](https://zh.wikipedia.org/wiki/美國採暖、製冷與空調工程師學會 "wikilink") 90.1基準相比，每年可有效節約能源達12%以上。\[15\]
 
 ## 途經之公共交通服務
 
@@ -94,3 +98,5 @@ K11 MUSEA 的建築將有多項特色結構，包括全球最大的綠化牆之�
 13.
 
 14.
+
+15.

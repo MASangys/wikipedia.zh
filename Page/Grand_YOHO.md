@@ -48,6 +48,27 @@ Grand Yoho 的普通戶和特色戶呎價均破了新界西和新界北的最高
 
 現時新鴻基地產再次暫停了單位出售。
 
+## 交通
+
+  - [缩略图](https://zh.wikipedia.org/wiki/File:YOHO_Mall_Access_to_Yuen_Long_Station_201706.jpg "fig:缩略图")[港鐵](../Page/港鐵.md "wikilink")
+
+<!-- end list -->
+
+  - <font color="{{西鐵綫色彩}}">█</font>[西鐵綫](../Page/西鐵綫.md "wikilink")：[元朗站](../Page/元朗站_\(西鐵綫\).md "wikilink")
+  - [輕鐵](../Page/香港輕鐵.md "wikilink")[綫](../Page/西鐵綫.md "wikilink")：[元朗總站](../Page/元朗站_\(輕鐵\).md "wikilink")([610線](https://zh.wikipedia.org/wiki/香港輕鐵610線 "wikilink")、[614線](https://zh.wikipedia.org/wiki/香港輕鐵614、614P線 "wikilink")、[615線](https://zh.wikipedia.org/wiki/香港輕鐵615、615P線 "wikilink")、[761P線](https://zh.wikipedia.org/wiki/香港輕鐵761P線 "wikilink"))
+
+[缩略图](https://zh.wikipedia.org/wiki/File:YOHO_Mall_Extension_Drop_off_area_201710.jpg "fig:缩略图")
+
+屋苑設有居民專用升降機直達基座交通總匯
+
+**基座交通總匯**設有：
+
+  - 巴士站
+  - 的士站
+  - 過境巴士：往返[深圳灣口岸](../Page/深圳灣口岸.md "wikilink")、[前海](https://zh.wikipedia.org/wiki/前海 "wikilink")、高鐵[福田站及深圳](https://zh.wikipedia.org/wiki/福田站 "wikilink")[寶安國際機場](https://zh.wikipedia.org/wiki/寶安國際機場 "wikilink")。
+
+商場一樓設候車區域，可代購機票，高鐵車票，提供行李儲物櫃、手機充電站及舒適座位供乘客使用。\[13\]
+
 ## 景觀
 
 <File:Grand> YOHO Rainblow.jpg <File:Grand> YOHO east View.jpg <File:Grand> yoho north.jpg <File:Grand> yoho west.jpg <File:Grand> yoho north west.jpg
@@ -96,3 +117,4 @@ Grand Yoho 的普通戶和特色戶呎價均破了新界西和新界北的最高
 10.
 11.
 12.
+13. [新地「Grand YOHO」盡享鐵路網優勢 擁西鐵沿綫基座交通總匯 令中港各地無遠弗屆 2016年8月4日](http://shkp.com.hk/Content/Uploads/GrandYOHO_Transportation_PressRelease_TC-b4d88a1a-9e98-44f5-b610-feba31f18375.pdf)

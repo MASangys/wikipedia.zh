@@ -125,8 +125,6 @@
   - [朴貞雅](../Page/朴貞雅.md "wikilink")
 
   -
-  - [庭沼珉](../Page/庭沼珉.md "wikilink")
-
   - [金奎善](../Page/金奎善.md "wikilink")
 
   -
@@ -152,6 +150,7 @@
   - [徐仁國](../Page/徐仁國.md "wikilink")
   - [成始璄](../Page/成始璄.md "wikilink")
   - [Ravi](../Page/金元植.md "wikilink")（仍會參與團體活動，雙方維持合作關係）
+  - [庭沼珉](../Page/庭沼珉.md "wikilink")
 
 ## 練習生
 

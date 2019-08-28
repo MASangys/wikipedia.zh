@@ -1241,7 +1241,7 @@
 <td><p><a href="../Page/救救我2.md" title="wikilink">救救我2</a><br />
 </p></td>
 <td><p>16</p></td>
-<td><p>、<a href="../Page/千虎珍.md" title="wikilink">千虎珍</a>、<a href="../Page/李絮.md" title="wikilink">李絮</a>、</p></td>
+<td><p><a href="../Page/嚴泰九.md" title="wikilink">嚴泰九</a>、<a href="../Page/千虎珍.md" title="wikilink">千虎珍</a>、<a href="../Page/李絮.md" title="wikilink">李絮</a>、</p></td>
 <td><p>徐珠妍</p></td>
 <td><p>李權</p></td>
 <td></td>

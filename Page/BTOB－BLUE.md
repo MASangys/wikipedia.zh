@@ -43,19 +43,19 @@
 
 ## 舞台現場
 
-|            |                                                                                                                               |                                                                  |                                               |
-| ---------- | ----------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | --------------------------------------------- |
-| 日期         | 節目                                                                                                                            | 歌曲名稱                                                             | 備註                                            |
-| 音樂節目       |                                                                                                                               |                                                                  |                                               |
-| 2014年3月13日 | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》 | [For Thousand Days](https://www.youtube.com/watch?v=UfZIc6iNGSE) | 原唱：李承桓                                        |
-| 2014年5月29日 | [I Know](https://www.youtube.com/watch?v=txhSFDontYY)                                                                         | 原唱：[徐太志和孩子們](../Page/徐太志和孩子們.md "wikilink")                      |                                               |
-| 綜藝節目       |                                                                                                                               |                                                                  |                                               |
-| 2014年7月15日 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[A Song For You](../Page/A_SONG_FOR_YOU為你歌唱.md "wikilink")》               | [被遺忘的 (잊혀진다는 거)](https://www.youtube.com/watch?v=_FuSAoIRU-I)    | 原唱：Noel                                       |
-| 2014年8月6日  | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《Singer Game》                                                            | [討厭你 (니가 싫어)](https://www.youtube.com/watch?v=cWg4F2tuvmg)       | 原唱：[城市札卡巴](../Page/城市札卡巴.md "wikilink")       |
-| 2016年8月13日 | KBS《[不朽的名曲 2](../Page/不朽的名曲：傳說在歌唱.md "wikilink")》                                                                             | [致你 (님에게)](https://www.youtube.com/watch?v=O4qyesUUI5c)          | 原唱：墊腳石 2期                                     |
-| 2017年7月8日  | KBS《不朽的名曲 2》                                                                                                                  | [在天空下 (하늘 아래서)](https://www.youtube.com/watch?v=xSNiCWEo-M0)     | 原唱：[金旻鍾](../Page/金旻鍾.md "wikilink")（The Blue） |
-| 2018年4月15日 | [JTBC](../Page/JTBC.md "wikilink")《[Sugar Man 2](../Page/Two_Yoo_Project_-_Sugar_Man.md "wikilink")》                          | [感冒 (감기)](https://www.youtube.com/watch?v=f71MCbigBJc)           | 原唱：李基燦                                        |
-|            |                                                                                                                               |                                                                  |                                               |
+|            |                                                                                                                 |                                                                  |                                               |
+| ---------- | --------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | --------------------------------------------- |
+| 日期         | 節目                                                                                                              | 歌曲名稱                                                             | 備註                                            |
+| 音樂節目       |                                                                                                                 |                                                                  |                                               |
+| 2014年3月13日 | [Mnet](../Page/Mnet.md "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》      | [For Thousand Days](https://www.youtube.com/watch?v=UfZIc6iNGSE) | 原唱：李承桓                                        |
+| 2014年5月29日 | [I Know](https://www.youtube.com/watch?v=txhSFDontYY)                                                           | 原唱：[徐太志和孩子們](../Page/徐太志和孩子們.md "wikilink")                      |                                               |
+| 綜藝節目       |                                                                                                                 |                                                                  |                                               |
+| 2014年7月15日 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[A Song For You](../Page/A_SONG_FOR_YOU為你歌唱.md "wikilink")》 | [被遺忘的 (잊혀진다는 거)](https://www.youtube.com/watch?v=_FuSAoIRU-I)    | 原唱：Noel                                       |
+| 2014年8月6日  | [Mnet](../Page/Mnet.md "wikilink")《Singer Game》                                                                 | [討厭你 (니가 싫어)](https://www.youtube.com/watch?v=cWg4F2tuvmg)       | 原唱：[城市札卡巴](../Page/城市札卡巴.md "wikilink")       |
+| 2016年8月13日 | KBS《[不朽的名曲 2](../Page/不朽的名曲：傳說在歌唱.md "wikilink")》                                                               | [致你 (님에게)](https://www.youtube.com/watch?v=O4qyesUUI5c)          | 原唱：墊腳石 2期                                     |
+| 2017年7月8日  | KBS《不朽的名曲 2》                                                                                                    | [在天空下 (하늘 아래서)](https://www.youtube.com/watch?v=xSNiCWEo-M0)     | 原唱：[金旻鍾](../Page/金旻鍾.md "wikilink")（The Blue） |
+| 2018年4月15日 | [JTBC](../Page/JTBC.md "wikilink")《[Sugar Man 2](../Page/Two_Yoo_Project_-_Sugar_Man.md "wikilink")》            | [感冒 (감기)](https://www.youtube.com/watch?v=f71MCbigBJc)           | 原唱：李基燦                                        |
+|            |                                                                                                                 |                                                                  |                                               |
 
 ## 獎項
 

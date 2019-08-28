@@ -1,4 +1,4 @@
-**(G)I-DLE**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Cube娛樂](../Page/Cube娛樂.md "wikilink")旗下的六人[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，於2018年5月2日出道，由[美延](../Page/赵美延.md "wikilink")、[Minnie](../Page/Minnie.md "wikilink")、[穗珍](../Page/徐穗珍.md "wikilink")、[小娟](https://zh.wikipedia.org/wiki/田小娟 "wikilink")、[雨琦以及](../Page/宋雨琦.md "wikilink")[舒華所组成](../Page/葉舒華.md "wikilink")，並由[小娟擔任隊長](https://zh.wikipedia.org/wiki/田小娟 "wikilink")。
+**(G)I-DLE**（、）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Cube娛樂](../Page/Cube娛樂.md "wikilink")旗下的六人[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，於2018年5月2日出道，由[美延](../Page/赵美延.md "wikilink")、[Minnie](../Page/Minnie.md "wikilink")、[穗珍](../Page/徐穗珍.md "wikilink")、[小娟](https://zh.wikipedia.org/wiki/田小娟 "wikilink")、[雨琦以及](../Page/宋雨琦.md "wikilink")[舒華所组成](../Page/葉舒華.md "wikilink")，並由[小娟擔任隊長](https://zh.wikipedia.org/wiki/田小娟 "wikilink")。
 
 ## 團體資料
 
@@ -6,7 +6,7 @@
 
 團徽結合英文的「I」及韓文的「」，有着將各位不同個性的女孩聚集起來的意義。\[4\]口號為「I\! 大家好，我們是(I-DLE)\!」，代表手勢是用拇指比成英文字母小寫的「i」，再兩手倒扣合在一起，比成大寫的「I」。
 
-官方粉絲名為「**Neverland**」（네버랜드），在2018年10月29日透過V Live直播選出，意思是童話[彼得潘](../Page/彼得潘.md "wikilink")裡的虛構之島，待在島上的小朋友會停止長大。\[5\]
+官方粉絲名為「」（），在2018年10月29日透過V Live直播選出，意思是童話[彼得潘](../Page/彼得潘.md "wikilink")裡的虛構之島，待在島上的小朋友會停止長大。\[5\]
 
 2019年6月10日，官方社群網站公布應援色為NEON RED（Pantone 185C）與CHIC VIOLET（Pantone 2597C）。\[6\]
 
@@ -17,7 +17,7 @@
 <table>
 <thead>
 <tr class="header">
-<th><p>colspan="10" style="" |成員列表</p></th>
+<th><p><big>成員資料</big> |- style="background:linear-gradient(120deg,#E11900, #7e00bf); color:Iron Gray; font-weight:bold;"|成員列表</p></th>
 </tr>
 </thead>
 <tbody>
@@ -135,6 +135,8 @@
 
 5月20日，日本官方網站宣布7月23日將在東京舉行日本出道Showcase，7月31日正式發行日本出道迷你專輯《LATATA》。\[86\]
 
+7月29日，先行公開日本首張迷你專輯《[LATATA](../Page/LATATA.md "wikilink")》全輯音源，並於7月31正式發售實體專輯。\[87\]
+
 ## 音乐作品
 
 ### 韓語
@@ -168,12 +170,12 @@
 
 | 年份                                                         | 产品名称                 | 参与成员         | 备注  |
 | ---------------------------------------------------------- | -------------------- | ------------ | --- |
-| 2016年                                                      | GMarket 8秒服装\[87\]   | 小娟           | 出道前 |
-| 2017年                                                      | Rising Star化妆品\[88\] | Minnie、雨琦、舒華 |     |
-| 2019年                                                      | Kaja化妆品\[89\]        | 全体           |     |
-| 安慕希酸奶\[90\]                                                | 雨琦                   | 奔跑吧          |     |
-| 唯兰颂面膜\[91\]                                                | 代言人                  |              |     |
-| 米读小说\[92\]                                                 | 奔跑吧                  |              |     |
+| 2016年                                                      | GMarket 8秒服装\[88\]   | 小娟           | 出道前 |
+| 2017年                                                      | Rising Star化妆品\[89\] | Minnie、雨琦、舒華 |     |
+| 2019年                                                      | Kaja化妆品\[90\]        | 全体           |     |
+| 安慕希酸奶\[91\]                                                | 雨琦                   | 奔跑吧          |     |
+| 唯兰颂面膜\[92\]                                                | 代言人                  |              |     |
+| 米读小说\[93\]                                                 | 奔跑吧                  |              |     |
 | [LG U+ 5G](https://zh.wikipedia.org/wiki/LG_U+ "wikilink") | 全体                   |              |     |
 
 ## 演唱會及大型公演
@@ -335,12 +337,17 @@
   -
   - [(G)I-DLE](http://channels.vlive.tv/CE2621)的V LIVE頻道
 
+**(G)I-DLE 日本**
+
+  - 的日本官方網站
+
+  -
+  -
 **(G)I-DLE 海外**
 
   -
   - [(G)I-DLE](http://tw.weibo.com/cubegidle)的新浪微博
 
-  -
 **(G)I-DLE 個人**
 
   -
@@ -481,3 +488,4 @@
 90.
 91.
 92.
+93.

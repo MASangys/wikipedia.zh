@@ -1,12 +1,12 @@
-《**假面騎士平成Generations FINAL Build & EX-AID with 傳說騎士**》（'''），是日本特攝節目《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》和《[假面騎士Build](../Page/假面騎士Build.md "wikilink")》聯動劇場版，日本地區於2017年12月9日上映\[1\]。台灣以《假面騎士 平成世代 巔峰決戰 BUILD\&EX-AID with 傳說騎士》名義在2018年2月8日上映，是繼《[假面騎士響鬼與七人的戰鬼](https://zh.wikipedia.org/wiki/假面騎士響鬼與七人的戰鬼 "wikilink")》以來第三部在台上映的假面騎士電影。 香港方面，預定在2018年3月15日上映\[2\]。
+《**假面騎士平成Generations FINAL Build & EX-AID with 傳說騎士**》（'''），是日本特攝節目《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》和《[假面騎士Build](../Page/假面騎士Build.md "wikilink")》聯動劇場版，日本地區於2017年12月9日上映\[1\]。台灣以《假面騎士 平成世代 巔峰決戰 BUILD\&EX-AID with 傳說騎士》名義在2018年2月8日上映，是繼《[假面騎士響鬼與七人的戰鬼](https://zh.wikipedia.org/wiki/假面騎士響鬼與七人的戰鬼 "wikilink")》以來第三部在台上映的假面騎士電影。 香港方面，預定在2018年3月15日上映\[2\]。[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[騰訊視頻于](https://zh.wikipedia.org/wiki/騰訊視頻 "wikilink")2019年7月24日上架。
 
 ## 本作特色
 
   - 本作為「假面騎士平成Generations」系列的第2彈，雖然名稱為「平成Generations FINAL」，但天皇明仁於2017年11月下旬確定於2019年4月30日才退位，5月1日才改新年號，其時《[假面騎士Build](../Page/假面騎士Build.md "wikilink")》本篇播畢後的下一位假面騎士（假面騎士ZI-O）應已播出了超過一半集數。因此嚴格來說不算是平成最後一部假面騎士聯動劇場版。
   - 本作的劇本是由《[假面騎士Build](../Page/假面騎士Build.md "wikilink")》的編劇武藤將吾和《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》的編劇高橋悠也兩人共同編寫，也因此劇情上是與兩部系列作的各自劇情有著聯動性關係。
   - 本作除了主要演出的假面騎士Build 和假面騎士EX-AID 外，同時前作系列的假面騎士OOO、假面騎士Fourze、假面騎士鎧武和假面騎士Ghost亦於本作中作為傳說騎士登場。
-  - 根據官網所播放的最新影像預告得知\[3\]，飾演《[假面騎士OOO](../Page/假面騎士OOO.md "wikilink")》中的主角火野映司的演員[渡部秀](../Page/渡部秀.md "wikilink")和Ankh的演員[三浦涼介](../Page/三浦涼介.md "wikilink")、《[假面騎士Fourze](../Page/假面騎士Fourze.md "wikilink")》的主角如月弦太朗的演員[福士蒼汰](../Page/福士蒼汰.md "wikilink")、《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》的主角葛葉紘汰的演員[佐野岳](../Page/佐野岳.md "wikilink")及《[假面騎士Ghost](../Page/假面騎士Ghost.md "wikilink")》的主角天空寺尊的演員[西銘駿](../Page/西銘駿.md "wikilink")等人亦在此劇中真人演出\[4\]\[5\]。
-  - 根據本作的相關雜誌報導中得知，《[假面騎士Build](../Page/假面騎士Build.md "wikilink")》和《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》兩部系列作是呈現平行世界的概念。
+  - 根據官網所播放的最新影像預告得知\[3\]，飾演《[假面騎士OOO](../Page/假面騎士OOO.md "wikilink")》中的主角火野映司的演員[渡部秀](../Page/渡部秀.md "wikilink")和Ankh的演員[三浦涼介](../Page/三浦涼介.md "wikilink")、《[假面騎士Fourze](../Page/假面騎士Fourze.md "wikilink")》的主角如月弦太朗的演員[福士蒼汰](../Page/福士蒼汰.md "wikilink")、《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》的主角葛葉紘汰的演員[佐野岳](../Page/佐野岳.md "wikilink")及《[假面騎士Ghost](../Page/假面騎士Ghost.md "wikilink")》的主角天空寺尊的演員[西銘駿](../Page/西銘駿.md "wikilink")等人亦在此劇中真人演出\[4\]\[5\]，上部作品有份出場的[白石隼也](../Page/白石隼也.md "wikilink")和[竹內涼真](../Page/竹內涼真.md "wikilink")因檔期原因沒有參演本作。
+  - 根據本作的相關雜誌報導中得知，《[假面騎士Build](../Page/假面騎士Build.md "wikilink")》和《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》兩部系列作是呈現平行世界的概念，《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》至《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》為同一世界觀。
   - 電視版本篇中即將現身的Rabbit Tank Sparkling Form 和PhoenixRobo Form 於本作先行登場。
   - 本作邀請到知名音樂家兼作曲人大槻賢二擔當本作中的反派角色「最上魁星」，並且因劇情的關係使得他有著兩種全然不同造型的裝扮。
   - 《[假面騎士Build](../Page/假面騎士Build.md "wikilink")》本篇中即將現身的第三位騎士**假面騎士Grease**於本作先行登場。

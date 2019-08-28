@@ -450,6 +450,11 @@
 <td><p>2019年4月8日</p></td>
 <td><p>ISBN 978-4-253-22766-7</p></td>
 </tr>
+<tr class="odd">
+<td><p>14</p></td>
+<td><p>2019年7月8日</p></td>
+<td><p>ISBN 978-4-253-22767-4</p></td>
+</tr>
 </tbody>
 </table>
 

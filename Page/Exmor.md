@@ -1286,6 +1286,22 @@
 <td><p>{{Collapsible list</p></td>
 </tr>
 <tr class="even">
+<td><p>IMX600</p></td>
+<td><p>7296 x 5472 40MP</p></td>
+<td><p>9.7mm (1/1.73")</p></td>
+<td><p>1 µm</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>RGB</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>April 2018</p></td>
+<td><p>Huawei P20Pro Huawei Mate20 Pro</p>
+<p>Huawei Mate20 X</p></td>
+</tr>
+<tr class="odd">
 <td><p>IMX607</p></td>
 <td><p>38MP</p></td>
 <td><p>9.900mm (1/1.8")</p></td>

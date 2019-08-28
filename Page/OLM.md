@@ -818,4 +818,4 @@
 
   - [OLM公式網站](http://www.olm.co.jp/)
 
-[分類:OLM](https://zh.wikipedia.org/wiki/分類:OLM "wikilink") [分類:日本動畫工作室](https://zh.wikipedia.org/wiki/分類:日本動畫工作室 "wikilink") [分類:世田谷區公司](https://zh.wikipedia.org/wiki/分類:世田谷區公司 "wikilink") [分類:1990年成立的公司](https://zh.wikipedia.org/wiki/分類:1990年成立的公司 "wikilink")
+[\*](https://zh.wikipedia.org/wiki/分類:OLM "wikilink") [分類:日本動畫工作室](https://zh.wikipedia.org/wiki/分類:日本動畫工作室 "wikilink") [分類:世田谷區公司](https://zh.wikipedia.org/wiki/分類:世田谷區公司 "wikilink") [分類:1990年成立的公司](https://zh.wikipedia.org/wiki/分類:1990年成立的公司 "wikilink")

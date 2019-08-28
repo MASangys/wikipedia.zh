@@ -57,7 +57,7 @@
 <th><p>style="background:#FDEEC3; color:#B8B8B8; font-weight:bold" width:75px" rowspan="3"|單曲</p></th>
 <th><p>style="background:#FDEEC3; color:#B8B8B8; font-weight:bold" width:400px" rowspan="3"|單曲資料</p></th>
 <th><p>排行榜最高位置</p></th>
-<th><p>style="background:#FDEEC3; color:#B8B8B8; font-weight:bold" width:70px" rowspan="3"|銷量</p></th>
+<th><p>style="background:#FDEEC3; color:#B8B8B8; font-weight:bold" width:100px" rowspan="3"|銷量</p></th>
 <th><p>style="background:#FDEEC3; color:#B8B8B8; font-weight:bold" width:200px" rowspan="3"|曲目</p></th>
 </tr>
 </thead>
@@ -93,7 +93,7 @@
 </ul></td>
 <td><p>9</p></td>
 <td><p>9</p></td>
-<td><p>49,850+</p></td>
+<td><p>55,256<a href="http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&amp;serviceGbn=&amp;targetTime=07&amp;hitYear=2019&amp;termGbn=month=2019年7月GAON專輯榜51">1</a></p></td>
 </tr>
 </tbody>
 </table>

@@ -16,54 +16,148 @@
 
   - \[10\]
 
+      - CV：[澤城美雪](../Page/澤城美雪.md "wikilink")(日)
+
+<!-- end list -->
+
   - \[11\]
+
+      - CV：[保志総一朗](https://zh.wikipedia.org/wiki/保志総一朗 "wikilink")(日)
+
+<!-- end list -->
 
   - \[12\]
 
+      - CV：[森川智之](../Page/森川智之.md "wikilink")(日)
+
+<!-- end list -->
+
   - [夢魘](../Page/夢魘_\(劍魂\).md "wikilink")\[13\]
+      - CV：檜山修之(日)
+
+<!-- end list -->
 
   - [齊格飛](../Page/齊格飛·胥陶芬.md "wikilink")
+      - CV：[檜山修之](../Page/檜山修之.md "wikilink")(日)
+
+<!-- end list -->
 
   - \[14\]
 
+      - CV：[中村千繪](https://zh.wikipedia.org/wiki/中村千繪 "wikilink")(日)
+
+<!-- end list -->
+
   - [多喜](../Page/多喜.md "wikilink")
+      - CV：[森奈奈子](https://zh.wikipedia.org/wiki/森奈奈子 "wikilink")(日)
+
+<!-- end list -->
 
   - \[15\]
 
+      - CV：[洲崎綾](../Page/洲崎綾.md "wikilink")(日)
+
+<!-- end list -->
+
   - \[16\]
+
+      - CV：[土田大](../Page/土田大.md "wikilink")(日)
+
+<!-- end list -->
 
   - \[17\]
 
+      - CV：[若本規夫](../Page/若本規夫.md "wikilink")(日)
+
+<!-- end list -->
+
   - \[18\]
+
+      - CV：[喜山茂雄](https://zh.wikipedia.org/wiki/喜山茂雄 "wikilink")(日)
+
+<!-- end list -->
 
   - \[19\]
 
+      - CV：[増谷康紀](https://zh.wikipedia.org/wiki/増谷康紀 "wikilink")(日)
+
+<!-- end list -->
+
   - \[20\]
+
+      - CV：[田村由香里](../Page/田村由香里.md "wikilink")(日)
+
+<!-- end list -->
 
   - \[21\]
 
+      - CV：[赤﨑千夏](https://zh.wikipedia.org/wiki/赤﨑千夏 "wikilink")(日)
+
+<!-- end list -->
+
   - \[22\]（DLC追加角色）
+
+      - CV：[浅野真澄](../Page/浅野真澄.md "wikilink")(日)
+
+<!-- end list -->
 
   - \[23\]
 
+      - CV：不明
+
+<!-- end list -->
+
   - \[24\]
+
+      - CV：[大友龍三郎](../Page/大友龍三郎.md "wikilink")(日)
+
+<!-- end list -->
 
   - \[25\]
 
+      - CV：[白熊寛嗣](https://zh.wikipedia.org/wiki/白熊寛嗣 "wikilink")(日)
+
+<!-- end list -->
+
   - \[26\]
 
+      - CV：不明
+
+<!-- end list -->
+
   - 艾美（DLC追加角色）
+      - CV：[生天目仁美](../Page/生天目仁美.md "wikilink")(日)
+
+<!-- end list -->
+
+  - 卡珊德拉（DLC追加角色）
+      - CV：[高木禮子](../Page/高木禮子.md "wikilink")(日)
 
 ### 新參戰角色
 
   - **古羅**（Grøh）\[27\]
+      - CV：[櫻井孝宏](../Page/櫻井孝宏.md "wikilink")(日)
+
+<!-- end list -->
 
   - \[28\]
+
+      - CV：[江原正士](../Page/江原正士.md "wikilink")(日)
 
 ### 客串角色
 
   - **[傑洛特](https://zh.wikipedia.org/wiki/利維亞的傑洛特 "wikilink")**\[29\]
-  - [2B （寄葉二號B型）](../Page/尼爾：自動人形.md "wikilink") （DLC追加角色）
+      - CV：[山路和弘](../Page/山路和弘.md "wikilink")(日)；道格·科克爾(美)
+
+<!-- end list -->
+
+  - [2B（寄葉二號B型）](../Page/尼爾：自動人形.md "wikilink") （DLC追加角色）
+      - CV：[石川由依](../Page/石川由依.md "wikilink")、[安元洋貴](../Page/安元洋貴.md "wikilink")《輔助機042》(日)
+
+<!-- end list -->
+
+  - [霸王丸](../Page/侍魂系列.md "wikilink") （第二季DLC追加角色）
+      - CV：[中村大樹](../Page/中村大樹.md "wikilink")(日)
 
 ## 開發
 

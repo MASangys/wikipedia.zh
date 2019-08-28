@@ -242,7 +242,7 @@
 </ul></td>
 <td><p>-</p></td>
 <td><ul>
-<li>韓國：51,279+<ref>《ONCE UPON A TIME》韓國唱片銷量統計：</li>
+<li>韓國：54,419+<ref>《ONCE UPON A TIME》韓國唱片銷量統計：</li>
 <li></li>
 </ul>
 <p></ref></p></td>

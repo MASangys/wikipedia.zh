@@ -1,4 +1,4 @@
-《**PRODUCE 48**》（）是[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[Mnet在](../Page/Mnet媒體.md "wikilink")2018年推出，由韓國多家[經紀公司](../Page/經紀公司.md "wikilink")旗下[練習生](https://zh.wikipedia.org/wiki/練習生 "wikilink")、以及日本[AKB48集團](../Page/AKB48集團.md "wikilink")旗下藝人兩方共同演出的選拔／生存[實境節目](../Page/真人實境秀.md "wikilink")，為《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》系列節目的第三季。參賽者在比賽期間將會同吃同住、完成各種任務。選拔方式與前作相同，參賽者國籍與賽制並無相關，僅限韓國觀眾可參與投票，最後獲選的12名成員將會組成一個[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")，以該團體身分活動2年6個月、並在日韓兩國同時出道\[1\]。節目最終回中公佈團體名為[IZ\*ONE](../Page/IZ*ONE.md "wikilink")（）。
+《**PRODUCE 48**》（）是[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[Mnet在](../Page/Mnet媒體.md "wikilink")2018年推出，由韓國多家[經紀公司](../Page/經紀公司.md "wikilink")旗下[練習生](https://zh.wikipedia.org/wiki/練習生 "wikilink")、以及日本[AKB48集團](../Page/AKB48集團.md "wikilink")旗下藝人兩方共同演出的選拔／生存[實境節目](../Page/真人實境秀.md "wikilink")，為《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》系列節目的第三季。參賽者在比賽期間將會同吃同住、完成各種任務。選拔方式與前作相同，參賽者國籍與賽制並無相關，僅限韓國觀眾可參與投票，最後獲選的12名成員將會組成一個[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")，該[期間限定團體](../Page/期間限定團體.md "wikilink")活動期限為2年6個月、在日韓兩國同時出道\[1\]。節目最終回中公佈團體名為[IZ\*ONE](../Page/IZ*ONE.md "wikilink")（）。
 
 ## 節目概要
 
@@ -12,7 +12,7 @@
 
 2018年4月17日，Mnet相關人員表示：「《PRODUCE 48》參賽者們在今日已完成主題曲錄音，至於歌曲名稱和曲風請透過節目舞台確認」\[16\]。
 
-2018年4月18日，[Mnet相關人員透露演員兼歌手](https://zh.wikipedia.org/wiki/Mnet "wikilink")[李昇基](../Page/李昇基.md "wikilink")確定擔任節目的主持兼國民製作人代表\[17\]\[18\]。
+2018年4月18日，[Mnet](../Page/Mnet.md "wikilink")相關人員透露演員兼歌手[李昇基](../Page/李昇基.md "wikilink")確定擔任節目的主持兼國民製作人代表\[17\]\[18\]。
 
 2018年4月22日，節目相關人員表示，[I.O.I](../Page/I.O.I.md "wikilink")、[Wanna One共](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")22名成員參與今天進行的錄製，為即將透過《PRODUCE 48》誕生的全新企劃團體應援，而這天96位練習生在仁川附近進行 Mnet《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》事前錄製，首次公開新的主題曲舞台\[19\]。
 
@@ -2599,9 +2599,9 @@ Very Very Raspberry</p></td>
 <!-- end list -->
 
   - 2018年11月28日发行的AKB48第54张单曲《[NO WAY MAN](../Page/NO_WAY_MAN.md "wikilink")》中，所有进入节目最终评价阶段的日方参与成员皆获选为单曲选拔成员\[41\]，而单曲的B面曲也收录了由“PRODUCE48选拔”（所有未进入最终评价但未于首轮被淘汰的日方成员）演唱的歌曲《一下就被看穿真是对不起》（）及其MV\[42\]以及由“Team Nice Fight”（所有于首轮被淘汰的日方成员）演唱的歌曲《堵住耳朵\!》（、中途退赛的成员未参加）\[43\]。
-  - [高桥朱里](https://zh.wikipedia.org/wiki/高桥朱里 "wikilink")（最終第16名）于2019年3月4日的生诞祭公演中宣布于2019年5月6日自AKB48毕业，并签约[Woollim娱乐](https://zh.wikipedia.org/wiki/Woollim娱乐 "wikilink")\[44\]。2019年7月22日，Woollim娱乐公开了高桥将作为新组合[Rocket Punch成员于下半年出道的消息](../Page/Rocket_Punch.md "wikilink")\[45\]\[46\]。
-  - [竹内美宥](https://zh.wikipedia.org/wiki/竹内美宥 "wikilink")（最終第17名）于2019年5月6日自AKB48毕业，并签约[Mystic娱乐于韩国发展](https://zh.wikipedia.org/wiki/Mystic娱乐 "wikilink")\[47\]。
-  - [千叶惠里](https://zh.wikipedia.org/wiki/千叶惠里 "wikilink")（最終第33名）作为常规班底出演了2019年5月至7月播出的[Mnet综艺节目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[留学少女](https://zh.wikipedia.org/wiki/留学少女 "wikilink")》\[48\]，节目参加者以“留学少女(UHSN)”的名义发行了单曲《Popsicle》。
+  - [高桥朱里](https://zh.wikipedia.org/wiki/高桥朱里 "wikilink")（最終第16名）于2019年3月4日的生诞祭公演中宣布于2019年5月6日自AKB48毕业，并签约[Woollim娱乐](https://zh.wikipedia.org/wiki/Woollim娱乐 "wikilink")\[44\]。2019年8月7日，高桥参与的新组合[Rocket Punch正式出道](../Page/Rocket_Punch.md "wikilink")\[45\]\[46\]\[47\]。
+  - [竹内美宥](https://zh.wikipedia.org/wiki/竹内美宥 "wikilink")（最終第17名）于2019年5月6日自AKB48毕业，并签约[Mystic娱乐于韩国发展](https://zh.wikipedia.org/wiki/Mystic娱乐 "wikilink")\[48\]。
+  - [千叶惠里](https://zh.wikipedia.org/wiki/千叶惠里 "wikilink")（最終第33名）作为常规班底出演了2019年5月至7月播出的[Mnet](../Page/Mnet.md "wikilink")综艺节目《[留学少女](https://zh.wikipedia.org/wiki/留学少女 "wikilink")》\[49\]，节目参加者以“留学少女(UHSN)”的名义发行了单曲《Popsicle》。
 
 <!-- end list -->
 
@@ -2609,14 +2609,14 @@ Very Very Raspberry</p></td>
 
 <!-- end list -->
 
-  - [李佳恩](https://zh.wikipedia.org/wiki/李佳恩 "wikilink")（最終第14名）因合约到期于2019年7月离开了[Pledis娱乐并退出](https://zh.wikipedia.org/wiki/Pledis娱乐 "wikilink")[After School](../Page/After_School.md "wikilink")，后签约[High娱乐继续发展](https://zh.wikipedia.org/wiki/High娱乐 "wikilink")\[49\]。
-  - [朴海允](../Page/海允.md "wikilink")（最終第19名）作为组合[Cherry Bullet的成员于](../Page/Cherry_Bullet.md "wikilink")2019年1月21日出道\[50\]。
-  - [金镀我](https://zh.wikipedia.org/wiki/金镀我 "wikilink")（最終第23名）以组合[FANATICS](../Page/FANATICS.md "wikilink")的分队[FLAVOR](../Page/FLAVOR.md "wikilink")成员于2018年11月26日出道\[51\]。
-  - [张圭悧](https://zh.wikipedia.org/wiki/张圭悧 "wikilink")（最終第25名）回归之前所属组合[fromis_9](https://zh.wikipedia.org/wiki/fromis_9 "wikilink")，并以2018年10月10日发行的单曲专辑《[From.9](../Page/From.9.md "wikilink")》正式以组合一员回归\[52\]。
-  - [金施贤](../Page/金施贤.md "wikilink")（最終第27名）及[王怡人](../Page/王怡人.md "wikilink")（最終第28名）以组合[EVERGLOW](../Page/EVERGLOW.md "wikilink")成员身份于2019年3月18日出道\[53\]\[54\]。
-  - 尹海率（最終第35名）获选[JLAB COSMETIC旗下品牌](https://zh.wikipedia.org/wiki/JLAB_COSMETIC "wikilink")[NUMYNK的专属模特](https://zh.wikipedia.org/wiki/NUMYNK "wikilink")。并以韩国首个电子竞技组合[Aqua主唱的身份活动](https://zh.wikipedia.org/wiki/Aqua_\(组合\) "wikilink")\[55\]。
-  - [金素嬉](https://zh.wikipedia.org/wiki/金素嬉 "wikilink")（最終第43名）和[金秀润](https://zh.wikipedia.org/wiki/金秀润 "wikilink")（最終第47名）将与高桥朱里一同以组合[Rocket Punch出道](../Page/Rocket_Punch.md "wikilink")\[56\]。
-  - 金慜㥠（最終第44名）和王珂（最終第56名）所属经纪公司的控股公司NHN Bugs\!于2019年1月30日宣布，二人将以新女团成员身份于2019年上半年出道\[57\]。
+  - [李佳恩](https://zh.wikipedia.org/wiki/李佳恩 "wikilink")（最終第14名）因合约到期于2019年7月离开了[Pledis娱乐并退出](https://zh.wikipedia.org/wiki/Pledis娱乐 "wikilink")[After School](../Page/After_School.md "wikilink")，后签约[High娱乐继续发展](https://zh.wikipedia.org/wiki/High娱乐 "wikilink")\[50\]。
+  - [朴海允](../Page/海允.md "wikilink")（最終第19名）作为组合[Cherry Bullet的成员于](../Page/Cherry_Bullet.md "wikilink")2019年1月21日出道\[51\]。
+  - [金镀我](https://zh.wikipedia.org/wiki/金镀我 "wikilink")（最終第23名）以组合[FANATICS](../Page/FANATICS.md "wikilink")的分队[FLAVOR](../Page/FLAVOR.md "wikilink")成员于2018年11月26日出道\[52\]，完整體於2019年8月6日出道。
+  - [张圭悧](https://zh.wikipedia.org/wiki/张圭悧 "wikilink")（最終第25名）回归之前所属组合[fromis_9](https://zh.wikipedia.org/wiki/fromis_9 "wikilink")，并以2018年10月10日发行的单曲专辑《[From.9](../Page/From.9.md "wikilink")》正式以组合一员回归\[53\]。
+  - [金施贤](../Page/金施贤.md "wikilink")（最終第27名）及[王怡人](../Page/王怡人.md "wikilink")（最終第28名）以组合[EVERGLOW](../Page/EVERGLOW.md "wikilink")成员身份于2019年3月18日出道\[54\]\[55\]。
+  - 尹海率（最終第35名）获选[JLAB COSMETIC旗下品牌](https://zh.wikipedia.org/wiki/JLAB_COSMETIC "wikilink")[NUMYNK的专属模特](https://zh.wikipedia.org/wiki/NUMYNK "wikilink")。并以韩国首个电子竞技组合[Aqua主唱的身份活动](https://zh.wikipedia.org/wiki/Aqua_\(组合\) "wikilink")\[56\]。
+  - [金素嬉](https://zh.wikipedia.org/wiki/金素嬉 "wikilink")（最終第43名）和[金秀润](https://zh.wikipedia.org/wiki/金秀润 "wikilink")（最終第47名）与高桥朱里一同以组合[Rocket Punch出道](../Page/Rocket_Punch.md "wikilink")\[57\]。
+  - 金慜㥠（最終第44名）和王珂（最終第56名）所属经纪公司的控股公司NHN Bugs\!于2019年1月30日宣布，二人将以新女团成员身份于2019年上半年出道\[58\]。
 
 ## 備註
 
@@ -2746,4 +2746,6 @@ Very Very Raspberry</p></td>
 55.
 
 56.
+
 57.
+58.

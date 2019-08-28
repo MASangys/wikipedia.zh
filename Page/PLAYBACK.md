@@ -2,7 +2,7 @@
 
 ## 经历
 
-友琳在加入PLAYBACK前曾在[JYP娱乐当了](../Page/JYP娛樂.md "wikilink")3年的练习生。曾参加韩国[Mnet电视台的综艺节目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[看见你的声音](https://zh.wikipedia.org/wiki/看見你的聲音 "wikilink")》，演唱了[爱莉安娜·格兰德](../Page/爱莉安娜·格兰德.md "wikilink")的《Problem》后迅速獲得知名度。
+友琳在加入PLAYBACK前曾在[JYP娱乐当了](../Page/JYP娛樂.md "wikilink")3年的练习生。曾参加韩国[Mnet](../Page/Mnet.md "wikilink")电视台的综艺节目《[看见你的声音](https://zh.wikipedia.org/wiki/看見你的聲音 "wikilink")》，演唱了[爱莉安娜·格兰德](../Page/爱莉安娜·格兰德.md "wikilink")的《Problem》后迅速獲得知名度。
 
 PLAYBACK在2015年6月25日发布同名单曲专辑《Playback》。三个月后，组合计划在9月2日推出一张全新的单曲专辑。\[2\] 该专辑叫《没有吗 (No?)》，该专辑与[Eric Nam合作录制](../Page/Eric_Nam.md "wikilink")。\[3\] 该歌曲吸引了媒体的关注，因为歌曲制作团队是挪威的'元素'。\[4\]
 

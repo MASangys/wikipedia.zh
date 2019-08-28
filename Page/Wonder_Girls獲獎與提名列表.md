@@ -338,7 +338,7 @@
 
 ### Mnet亞洲音樂大獎
 
-[Mnet亞洲音樂大獎](../Page/Mnet亞洲音樂大獎.md "wikilink")是由[Mnet舉辦的一個](https://zh.wikipedia.org/wiki/Mnet "wikilink")[韓國主要年度音樂頒獎禮](https://zh.wikipedia.org/wiki/韓國 "wikilink")。
+[Mnet亞洲音樂大獎](../Page/Mnet亞洲音樂大獎.md "wikilink")是由[Mnet](../Page/Mnet.md "wikilink")舉辦的一個[韓國主要年度音樂頒獎禮](https://zh.wikipedia.org/wiki/韓國 "wikilink")。
 
 <table>
 <thead>
@@ -1078,7 +1078,7 @@
 
 ## 音樂節目
 
-以下為[Wonder Girls在](../Page/Wonder_Girls.md "wikilink")[韓國音樂節目](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》、[KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[Music Bank](https://zh.wikipedia.org/wiki/KBS音樂銀行 "wikilink")》、[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")》、 [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")》、MBC Music《[Show Champion](../Page/Show_Champion.md "wikilink")》中獲得1位的記錄。
+以下為[Wonder Girls在](../Page/Wonder_Girls.md "wikilink")[韓國音樂節目](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Mnet](../Page/Mnet.md "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》、[KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[Music Bank](https://zh.wikipedia.org/wiki/KBS音樂銀行 "wikilink")》、[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")》、 [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")》、MBC Music《[Show Champion](../Page/Show_Champion.md "wikilink")》中獲得1位的記錄。
 
 ### Music Bank
 

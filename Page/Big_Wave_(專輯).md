@@ -76,17 +76,17 @@ Feat. <a href="../Page/任炫植.md" title="wikilink">任炫植</a></p></td>
 
 ## 音樂節目
 
-| 2018年音樂節目現場                                           |
-| ----------------------------------------------------- |
-| 電視台                                                   |
-| colspan=5 style="background:Thistle | She's gone      |
-| [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") |
-| [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   |
-| [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   |
-| [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")   |
-| 3月18日                                                 |
-| [MBC Music](../Page/MBC_Plus_Media.md "wikilink")     |
-|                                                       |
+| 2018年音樂節目現場                                         |
+| --------------------------------------------------- |
+| 電視台                                                 |
+| colspan=5 style="background:Thistle | She's gone    |
+| [Mnet](../Page/Mnet.md "wikilink")                  |
+| [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") |
+| [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") |
+| [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") |
+| 3月18日                                               |
+| [MBC Music](../Page/MBC_Plus_Media.md "wikilink")   |
+|                                                     |
 
 ## 榜單成績
 

@@ -39,7 +39,7 @@
 <ul>
 <li><em><a href="https://zh.wikipedia.org/wiki/北馬" title="wikilink">北馬</a>：</em><a href="https://zh.wikipedia.org/wiki/檳城" title="wikilink">檳城</a>、<a href="../Page/亚罗士打.md" title="wikilink">亚罗士打</a>、<a href="../Page/怡保.md" title="wikilink">怡保</a>、<a href="https://zh.wikipedia.org/wiki/加央" title="wikilink">加央</a>、<a href="../Page/浮罗交怡.md" title="wikilink">浮罗交怡</a>、<a href="../Page/双溪大年.md" title="wikilink">双溪大年</a><br />
 </li>
-<li><em><a href="https://zh.wikipedia.org/wiki/中馬" title="wikilink">中馬</a>：</em><a href="../Page/吉隆坡.md" title="wikilink">吉隆坡</a>、<a href="https://zh.wikipedia.org/wiki/巴生" title="wikilink">巴生</a>、<a href="../Page/布城.md" title="wikilink">布城</a><br />
+<li><em><a href="https://zh.wikipedia.org/wiki/中馬" title="wikilink">中馬</a>：</em><a href="../Page/吉隆坡.md" title="wikilink">吉隆坡</a>、<a href="https://zh.wikipedia.org/wiki/巴生" title="wikilink">巴生</a>、<a href="../Page/布城.md" title="wikilink">布城</a>、<a href="../Page/八打灵再也.md" title="wikilink">八打灵再也</a><br />
 </li>
 <li><em><a href="https://zh.wikipedia.org/wiki/南馬" title="wikilink">南馬</a>：</em><a href="../Page/新山.md" title="wikilink">新山</a>、<a href="https://zh.wikipedia.org/wiki/馬六甲" title="wikilink">馬六甲</a>、<a href="https://zh.wikipedia.org/wiki/芙蓉" title="wikilink">芙蓉</a>、<a href="../Page/峇株巴辖.md" title="wikilink">峇株巴辖</a>、<a href="../Page/居銮.md" title="wikilink">居銮</a>、<a href="../Page/麻坡.md" title="wikilink">麻坡</a>、<a href="../Page/波德申.md" title="wikilink">波德申</a>、</li>
 <li><em>：</em><a href="https://zh.wikipedia.org/wiki/關丹" title="wikilink">關丹</a>、<a href="https://zh.wikipedia.org/wiki/哥打峇鲁" title="wikilink">哥打峇鲁</a>、<a href="../Page/瓜拉登嘉楼.md" title="wikilink">瓜拉登嘉楼</a>、</li>

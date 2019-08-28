@@ -55,7 +55,7 @@ Red Velvet在國内的[Gaon音樂榜專輯榜中奪得周榜第二的成績](htt
 
 在2018年1月29日，Red Velvet在SMTOWN @ Coex Artium 舉行回歸紀念Showcase並與Naver V App同步進行直播，由[少女時代的成員](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[孝渊擔任主持人](https://zh.wikipedia.org/wiki/孝渊 "wikilink")。\[40\]\[41\]也帶來《Bad Boy》的新歌舞臺。\[42\]在進行直播前，Red Velvet的點心率已達至一億，列為最初達到一億點心率的韓國女團。\[43\]也在直播結束后，成功達至兩億點心率。\[44\]
 
-2018年2月1日起，Red Velvet將于[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》為起點，依次在[KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")》、[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[Show\! 音乐中心](https://zh.wikipedia.org/wiki/Show!_音乐中心 "wikilink")》、[SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》等音樂節目帶來回歸舞臺。\[45\]
+2018年2月1日起，Red Velvet將于[Mnet](../Page/Mnet.md "wikilink")《[M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》為起點，依次在[KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")》、[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[Show\! 音乐中心](https://zh.wikipedia.org/wiki/Show!_音乐中心 "wikilink")》、[SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》等音樂節目帶來回歸舞臺。\[45\]
 
 ### 商業成績
 
@@ -391,7 +391,7 @@ Maxx Song{{·}}Whitney Phillips{{·}}劉英振 | length1 = 03:30
 | ----------------------------------------------------- |
 | 電視台                                                   |
 | 《Bad Boy》                                             |
-| [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") |
+| [Mnet](../Page/Mnet.md "wikilink")                    |
 | 2月8日                                                  |
 | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink") |
 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   |
@@ -607,7 +607,7 @@ Genie Music</p></td>
 | [Red Velvet 레드벨벳 'The Perfect Red Velvet' Character Trailer \#WENDY](https://www.youtube.com/watch?v=J57hnDOXgb0) |                                                                                                                    |                                                                                        |
 | 1月27日                                                                                                             | [Red Velvet 레드벨벳 'The Perfect Red Velvet' Character Trailer \#IRENE](https://www.youtube.com/watch?v=Oos0L4pwZxo)  |                                                                                        |
 | [Red Velvet 레드벨벳 'The Perfect Red Velvet' Character Trailer \#YERI](https://www.youtube.com/watch?v=1qPyqzc0JkU)  |                                                                                                                    |                                                                                        |
-| 1月28日                                                                                                             | [Red Velvet 레드벨벳 'The Perfect Red Velvet' Character Trailer \#SEULGI](https://www.youtube.com/watch?v=6t1db3de4F4) |                                                                                        |
+| 1月28日                                                                                                             | [Red Velvet 레드벨벳 'The Perfect Red Velvet' Character Trailer \#SEULGI](https://www.youtube.com/watch?v=6Ju9TNFm9kc) |                                                                                        |
 |                                                                                                                   |                                                                                                                    |                                                                                        |
 
 ## 参考文献

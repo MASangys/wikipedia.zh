@@ -151,7 +151,7 @@
 
 ### Line贴图
 
-MTK于2017年3月7日，在[Line](https://zh.wikipedia.org/wiki/LINE_\(應用程式\) "wikilink") Store上架了40个「音街鳗」的表情贴图，除了「Sugar」和「Spicy」角色，她们的鳗鱼帽也参与其中。\[9\]
+MTK于2017年3月7日，在[Line](https://zh.wikipedia.org/wiki/LINE_\(應用程式\) "wikilink") Store上架了40个「音街鳗」的[表情贴图](https://zh.wikipedia.org/wiki/表情贴图 "wikilink")，除了「Sugar」和「Spicy」角色，她们的鳗鱼帽也参与其中。\[9\]
 
 ## 参考资料
 

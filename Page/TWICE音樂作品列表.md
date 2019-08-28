@@ -394,7 +394,7 @@
 <td><p>2</p></td>
 <td><p>1</p></td>
 <td><ul>
-<li>KOR:</li>
+<li>KOR: 693,538+</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -403,7 +403,7 @@
 <td><p>4</p></td>
 <td><p>2</p></td>
 <td><ul>
-<li>KOR:</li>
+<li>KOR: 376,885+</li>
 </ul></td>
 </tr>
 <tr class="odd">
