@@ -2,7 +2,7 @@
 
 ## 平台和许可证
 
-Scala运行于[Java平台](https://zh.wikipedia.org/wiki/Java平台 "wikilink")（[Java虚拟机](../Page/Java虚拟机.md "wikilink")），并兼容现有的[Java](../Page/Java.md "wikilink")程序。它也能运行于[CLDC](../Page/CLDC.md "wikilink")配置的[Java ME中](../Page/Java_ME.md "wikilink")。目前还有另一[.NET平台的实现](https://zh.wikipedia.org/wiki/.NET "wikilink")\[2\]，不过该版本更新有些滞后。\[3\]
+Scala运行于[Java平台](https://zh.wikipedia.org/wiki/Java平台 "wikilink")（[Java虚拟机](../Page/Java虚拟机.md "wikilink")），并兼容现有的[Java](../Page/Java.md "wikilink")程序。它也能运行于[CLDC](../Page/CLDC.md "wikilink")配置的[Java ME中](../Page/Java_ME.md "wikilink")。曾经有过另一[.NET平台的实现](https://zh.wikipedia.org/wiki/.NET "wikilink")\[2\]，不过该版本已被放弃。\[3\]
 
 Scala的编译模型（独立编译，动态类加载）与[Java](../Page/Java.md "wikilink")和[C\#一样](https://zh.wikipedia.org/wiki/C＃ "wikilink")，所以Scala代码可以调用Java類別庫（对于.NET实现则可调用.NET類別庫）。
 
@@ -174,7 +174,7 @@ Actor模式可以简化并发编程，好利用多核CPU的能力。
 1.
 2.
 
-3.  <http://www.artima.com/weblogs/viewpost.jsp?thread=163733>
+3.  <https://github.com/scala/scala/pull/1718>
 
 4.  <http://www.scala-lang.org/node/146>
 

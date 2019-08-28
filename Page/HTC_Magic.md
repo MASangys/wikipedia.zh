@@ -2,17 +2,19 @@
 
 ## 技術規格
 
-  - [處理器](https://zh.wikipedia.org/wiki/處理器 "wikilink")：[Qualcomm](https://zh.wikipedia.org/wiki/Qualcomm "wikilink") MSM7200A 528MHz
-  - [作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")：[Android](../Page/Android.md "wikilink") (可以升級成 [HTC Sense](../Page/HTC_Sense.md "wikilink"))
-  - [記憶體](https://zh.wikipedia.org/wiki/記憶體 "wikilink")：ROM：512MB，RAM：288MB
+  - 處理器：[Qualcomm](https://zh.wikipedia.org/wiki/Qualcomm "wikilink") MSM7200A ARM11 528MHz
+  - 作業系統：[Android](../Page/Android.md "wikilink") (可以升級成[HTC Sense](../Page/HTC_Sense.md "wikilink"))
+  - RAM：288MB [DDR SDRAM](../Page/DDR_SDRAM.md "wikilink")
+  - ROM：512MB
   - 尺寸：113mm X 55.56mm X 13.65mm
   - 重量：116g（含電池）
-  - [螢幕](https://zh.wikipedia.org/wiki/螢幕 "wikilink")：[HVGA](../Page/HVGA.md "wikilink") 320x480 解析度、3.2 吋 TFT-LCD 電容式[觸控螢幕](../Page/觸控式螢幕.md "wikilink")（[多點觸控](../Page/多點觸控.md "wikilink") Multi-touch）
-  - [網路](https://zh.wikipedia.org/wiki/網路 "wikilink")：GSM/EDGE/WCDMA/HSDPA/HSUPA
-  - [藍牙](../Page/藍牙.md "wikilink")：2.0 with EDR
-  - [GPS](https://zh.wikipedia.org/wiki/GPS "wikilink")：配備[GPS及A](https://zh.wikipedia.org/wiki/GPS "wikilink")-GPS
-  - [Wi-Fi](../Page/Wi-Fi.md "wikilink")：IEEE 802.11 b/g
-  - [電池](https://zh.wikipedia.org/wiki/電池 "wikilink")：1340mAh充電式鋰或鋰聚合物電池
+  - 螢幕：[HVGA](../Page/HVGA.md "wikilink") 320x480 解析度、3.2 吋TFT-LCD電容式[觸控螢幕](../Page/觸控式螢幕.md "wikilink")（[多點觸控](../Page/多點觸控.md "wikilink") Multi-touch）
+  - 相機：3.15百萬畫素，自動對焦
+  - 網路：[GSM](../Page/GSM.md "wikilink")/[EDGE](https://zh.wikipedia.org/wiki/EDGE "wikilink")/[WCDMA](https://zh.wikipedia.org/wiki/WCDMA "wikilink")/[HSDPA](https://zh.wikipedia.org/wiki/HSDPA "wikilink")/[HSUPA](https://zh.wikipedia.org/wiki/HSUPA "wikilink")( 7.2/2 Mbps)
+  - 藍牙：2.0 with EDR
+  - GPS：配備[GPS及A](https://zh.wikipedia.org/wiki/GPS "wikilink")-GPS
+  - Wi-Fi：IEEE 802.11 b/g
+  - 電池：可拆卸式1340mAh[鋰離子電池](https://zh.wikipedia.org/wiki/鋰離子電池 "wikilink")
 
 ## 參見
 

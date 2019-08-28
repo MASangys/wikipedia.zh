@@ -4,7 +4,7 @@
 
 </div>
 
-**凌志ES**（**-{Lexus ES}-**），ES代表Executive Sedan，是[豐田汽車公司旗下](https://zh.wikipedia.org/wiki/豐田汽車公司 "wikilink")[凌志](../Page/凌志.md "wikilink")品牌的中大級豪華轎車／行政座架系列。凌志ES前五代是以[豐田凱美瑞作為開平台](https://zh.wikipedia.org/wiki/豐田凱美瑞 "wikilink")，第六代改以尺碼更大的Avalon為基礎設計，搭載了一台[V6](https://zh.wikipedia.org/wiki/V6 "wikilink")[引擎及](https://zh.wikipedia.org/wiki/引擎 "wikilink")[自動變速器](https://zh.wikipedia.org/wiki/自動變速器 "wikilink")，現在已經生產到第六代。在發售的大部份時間，ES都被定位為凌志車系中的入門級豪華轎車，直至2001年引進了[IS型號為止](../Page/凌志IS.md "wikilink")。由1989年至1991年發售的第一代的ES 250，與當時的豐田凱美瑞共用同一個車型。而當時尚未引入凌志品牌的日本本土市場，則以「豐田Windom」的名義推出，期間一直與ES共用同一個車型直至2006年為止。ES型號正朝著舒適豪華汽車市場邁進。 __TOC__
+**凌志ES**（**-{Lexus ES}-**），ES代表Executive Sedan，是[豐田汽車公司旗下](https://zh.wikipedia.org/wiki/豐田汽車公司 "wikilink")[凌志](../Page/凌志.md "wikilink")品牌的中大級豪華轎車／行政坐駕系列。凌志ES前五代是以[豐田凱美瑞作為開平台](https://zh.wikipedia.org/wiki/豐田凱美瑞 "wikilink")，第六代改以尺碼更大的Avalon為基礎設計，搭載了一台[V6](https://zh.wikipedia.org/wiki/V6 "wikilink")[引擎及](https://zh.wikipedia.org/wiki/引擎 "wikilink")[自動變速器](https://zh.wikipedia.org/wiki/自動變速器 "wikilink")，現在已經生產到第七代。在發售的大部份時間，ES都被定位為凌志車系中的入門級豪華轎車，直至2001年引進了[IS型號為止](../Page/凌志IS.md "wikilink")。由1989年至1991年發售的第一代的ES 250，與當時的豐田凱美瑞共用同一個車型。而當時尚未引入凌志品牌的日本本土市場，則以「豐田Windom」的名義推出，期間一直與ES共用同一個車型直至2006年為止。ES型號已成為Lexus家族舒適豪華汽代表。同級車為Mercedes E系列及BMW 5系列。 __TOC__
 
 ## 歷史
 
@@ -98,7 +98,15 @@ ES 350在2006年四月下旬運送到美國的代理商手上，以2007年款�
 
 ### 第七代
 
-[Paris_Motor_Show_2018,_Paris_(1Y7A1190).jpg](https://zh.wikipedia.org/wiki/File:Paris_Motor_Show_2018,_Paris_\(1Y7A1190\).jpg "fig:Paris_Motor_Show_2018,_Paris_(1Y7A1190).jpg") 第七代ES在北京車展上正式亮相，基於GA-K架構打造，採用大量高強度鋼材、後排座椅V型加強筋、全新開發的多連桿式後懸架、高精度並行式電動助力轉向系統以及全封閉底盤設計，並首度增添F Sport版以及在日本國內發售。
+[Paris_Motor_Show_2018,_Paris_(1Y7A1190).jpg](https://zh.wikipedia.org/wiki/File:Paris_Motor_Show_2018,_Paris_\(1Y7A1190\).jpg "fig:Paris_Motor_Show_2018,_Paris_(1Y7A1190).jpg") 第七代ES在北京車展上正式亮相，基於GA-K架構打造，整個車身尺碼增大來到 4,975 x 1,865 x 1,445mm （軸距 2,870mm，較前代增加 50mm），不僅有旗艦房車的乘坐空間，更擁有更流線、更低重心的視覺效果，車側豐富的摺線更是勾勒出精實的肌肉感受，並且在C柱之後下傾使全車呈現出Four-door-Coupe的跑格感受。全車採用大量高強度鋼材、後排座椅及引擎室都加上V型加強鋼梁、全新開發的多連桿式後懸吊、搭配高精度並行式電動助力轉向系統以及全封閉底盤設計，而且ES首度增加F Sport版(日本國內販售)。
+
+內裝更是依照品牌旗艦 LS、LC 的 Seat in Control 設計概念，以簡潔的金屬飾條與大量高級皮質，帶出貴氣的視覺感受以及空間開闊感，另外包含 12.3 吋的中央顯示幕（ES 250 及ES300H 旗艦版專屬）、TFT 液晶儀表與儀表兩側的多重駕駛模式開關，皆有LS車系的概念蘊含其中，同時座椅及全車車門扶手也都經由重新設計使其擁有更出色的舒適感受。
+
+安全部分，新 ES 全車系皆標配有「LSS+ 主動安全防護系統」，其中包含 PCS (車輛與行人自動煞車輔助)、DRCC 主動跟車、LDA 車道偏移警示、AHS(指定車系以上)/AHB 自動遠光屏蔽/切換功能，結合高剛性的車體結構與10具氣囊，建構出一座嚴密的安全行動城堡。
+
+動力方面，第七代 ES 導入了全新的 2.5L Dynamic Force 自然進氣引擎（ES 250），擁有高達 38% 的出色熱效率，搭配八速手自排變速箱使其可以輸出 207ps/24.8kgm 的動力，；入門款則維持既有的 2.0L 自然進氣設定（ES 200），至於搭載全新 2.5 Dynamic Force 引擎加持下的 ES250 與全新 2.5 THSII 第四代油電系統組的油電混合動力車型（ES 300h）則成為該車型最高級距車款。
+
+為了搭配全新的 GA-K 平台，Lexus開發了全新第四代 THS II 混合動力系統，也就是藉由全新的 2.5 Dynamic Force Engine（A25A-FXS型）搭配電動馬達組成，其最大熱效率達到了量產汽油引擎中最高的41%。至於許多具體的技術亮點，比如氣門夾角的優化、新型多孔式直噴噴油嘴、新的高轉速電動馬達、輕量化的PCU控制模組等，這些都是讓其整體運作效能增加的關鍵。搭配全新 ECVT 無段變速系統之下，其汽油引擎最大馬力為 176 hp /5,700 rpm 、最大扭力為163 lb.-ft./3,600-5,200 rpm，綜效馬力則為218 hp (178hp/22.5kgm 引擎 + 40hp 電動馬達輸出),平均油耗更達平均20km/L 與30.71km/L市區表現。
 
 ## 獎項
 

@@ -196,6 +196,13 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/海莉·史坦菲德" title="wikilink">海莉·史坦菲德</a></p></td>
 </tr>
 <tr class="odd">
+<td><p>第26屆</p></td>
+<td></td>
+<td></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/塞維亞" title="wikilink">塞維亞</a></strong></p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>

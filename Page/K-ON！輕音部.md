@@ -679,7 +679,7 @@
 <td></td>
 <td><p>修学旅行！</p></td>
 <td><p>村元克彥</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/木上益治" title="wikilink">三好一郎</a></p></td>
+<td><p><a href="../Page/木上益治.md" title="wikilink">三好一郎</a></p></td>
 <td><p><a href="../Page/西屋太志.md" title="wikilink">西屋太志</a></p></td>
 <td></td>
 </tr>

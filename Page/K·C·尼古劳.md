@@ -7,7 +7,7 @@
   - 1969年 在 Bedford College 取得理学学位。
   - 1972年 取得[伦敦大学学院](../Page/伦敦大学学院.md "wikilink")博士学位，师从F. Sondheimer和P. J. Garrat 教授。
   - 1972年 来到美国，在[哥伦比亚大学](../Page/哥伦比亚大学.md "wikilink")（1972－1973，师从 T.J.Katz教授），[哈佛大学](../Page/哈佛大学.md "wikilink")（1973－1976，师从[E. J. Corey](https://zh.wikipedia.org/wiki/E._J._Corey "wikilink")），获博士后。后成为[宾夕法尼亚大学](../Page/宾夕法尼亚大学.md "wikilink")的 hodes-Thompson化学教授。
-  - 1989年 被任命为[圣地牙哥加利福尼亚大学化学教授](https://zh.wikipedia.org/wiki/圣地牙哥加利福尼亚大学 "wikilink")，[斯克里普斯研究所](https://zh.wikipedia.org/wiki/斯克里普斯研究所 "wikilink")（Scripps Research Institute）Darlene Shiley 教授、化学系主任。
+  - 1989年 被任命为[圣地牙哥加利福尼亚大学化学教授](https://zh.wikipedia.org/wiki/圣地牙哥加利福尼亚大学 "wikilink")，[斯克里普斯研究所](../Page/斯克里普斯研究所.md "wikilink")（Scripps Research Institute）Darlene Shiley 教授、化学系主任。
   - 1996年 被任命为Scripps研究所的Aline W. 和 L.S. Skaggs 化学生物学教授。
   - 2013年 離開[圣地牙哥加利福尼亚大学](https://zh.wikipedia.org/wiki/圣地牙哥加利福尼亚大学 "wikilink")，被任命為[萊斯大學](../Page/萊斯大學.md "wikilink")的Harry C.和Olga K. Wiess化學教授。
 

@@ -1,4 +1,4 @@
-**亞歷山大丹尼士Enviro 400**是一款由[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[亞歷山大丹尼士](../Page/亞歷山大丹尼士.md "wikilink")生產的兩軸雙層巴士，它也是亞歷山大丹尼士製造的其中一款Enviro系列巴士。於2005年面世的Enviro 400，主要取代兩車軸的[丹尼士三叉戟二型](../Page/丹尼士三叉戟二型.md "wikilink")及ALX400車身。
+**亞歷山大丹尼士Enviro 400**（英語：Alexander Dennis Enviro 400）是一款由[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[亞歷山大丹尼士](../Page/亞歷山大丹尼士.md "wikilink")生產的兩軸雙層巴士，它也是亞歷山大丹尼士製造的其中一款Enviro系列巴士。於2005年面世的Enviro 400，主要取代兩車軸的[丹尼士三叉戟二型](../Page/丹尼士三叉戟二型.md "wikilink")及ALX400車身。
 
 ## 設計
 
@@ -104,7 +104,7 @@ ATSE於2018年11月全數LED光管照明由淺藍色更換為白色。
 
 ## 配Enviro 400車身的富豪B8L
 
-2018年，英國洛錫安巴士公司(English: Lothian buses) 訂購了42輛配亞歷山大丹尼士Enviro400 XLB車身(基於車身內部結構問題並沒有歸類為Enviro500 mmc facelift)的富豪B8L，即將於2019年投入服務。
+2018年，訂購了42輛配亞歷山大丹尼士Enviro400 XLB車身(基於車身內部結構問題並沒有歸類為亞歷山大丹尼士[Enviro500 MMC Facelift](https://zh.wikipedia.org/wiki/Enviro_500_MMC "wikilink"))的富豪B8L，已於2019年投入服務。
 
 ## 配Enviro 400車身的富豪B9TL
 
@@ -114,7 +114,7 @@ ATSE於2018年11月全數LED光管照明由淺藍色更換為白色。
 
 ## 配Enviro 400車身的斯堪尼亞N230UD
 
-[英國Stagecoach於](https://zh.wikipedia.org/wiki/英國 "wikilink")2007年2月28日宣佈已訂購25輛裝有Enviro 400車身的斯堪尼亞N230UD，它們已於2008年初付運。
+[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[捷達集團](../Page/捷達集團.md "wikilink")(Stagecoach)於2007年2月28日宣佈已訂購25輛裝有Enviro 400車身的斯堪尼亞N230UD，它們已於2008年初付運。
 
 ## 參見
 

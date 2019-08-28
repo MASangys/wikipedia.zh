@@ -198,7 +198,7 @@
   - [JoJo的奇妙冒險 黃金之風](../Page/JoJo的奇妙冒險_\(電視動畫\).md "wikilink")（賽可）
   - [籃球少年王](../Page/籃球少年王.md "wikilink")（**茶木正廣**\[2\]）
   - [在地下城尋求邂逅是否搞錯了什麼 第二季](https://zh.wikipedia.org/wiki/在地下城尋求邂逅是否搞錯了什麼 "wikilink")（雅辛托斯·克利俄）
-  - [TRY KNIGHTS 達陣騎士](https://zh.wikipedia.org/wiki/TRY_KNIGHTS_達陣騎士 "wikilink")（**狩矢光**）
+  - [TRY KNIGHTS](../Page/觸地騎士.md "wikilink")（**狩矢光**）
 
 ### OVA
 

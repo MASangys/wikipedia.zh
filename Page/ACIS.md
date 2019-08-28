@@ -95,7 +95,7 @@ ACIS三維幾何造型組件軟體採用開放式、物件導向語言[C++](../P
   - [ACIS Modeler Information](https://web.archive.org/web/20070309194852/http://www.spatial.com/products/acis.html)
   - [ACIS Documentation](https://web.archive.org/web/20090428000151/http://doc.spatial.com/r19/index.php/Portal%3AACIS)
 
-[Category:Acronyms](https://zh.wikipedia.org/wiki/Category:Acronyms "wikilink") [Category:3D_graphics_software](https://zh.wikipedia.org/wiki/Category:3D_graphics_software "wikilink") [Category:Computer-aided_design](https://zh.wikipedia.org/wiki/Category:Computer-aided_design "wikilink") [Category:CAD_file_formats](https://zh.wikipedia.org/wiki/Category:CAD_file_formats "wikilink")
+[Category:字首縮寫](https://zh.wikipedia.org/wiki/Category:字首縮寫 "wikilink") [Category:三维图像软件](https://zh.wikipedia.org/wiki/Category:三维图像软件 "wikilink") [Category:CAD文件格式](https://zh.wikipedia.org/wiki/Category:CAD文件格式 "wikilink")
 
 1.
 2.

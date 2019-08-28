@@ -6,18 +6,70 @@
 
 ## 人物角色
 
-|                                                            |           |                                                          |                                                                                                                               |
-| ---------------------------------------------------------- | --------- | -------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| **演員**                                                     | **角色**    | **粵語配音**                                                 | **備注**                                                                                                                        |
-| [梁朝偉](../Page/梁朝偉.md "wikilink")                           | \-{十方和尚}- | 梁朝偉                                                      | 白雲之徒弟                                                                                                                         |
-| [張學友](https://zh.wikipedia.org/wiki/張學友 "wikilink")        | 燕赤霞       | 張學友                                                      | 游走江湖的劍客，跟前兩集出場的燕赤霞不是同一个人                                                                                                      |
-| [王祖賢](../Page/王祖賢.md "wikilink")                           | 小卓        | [何錦華](../Page/何錦華.md "wikilink")                         | 女鬼                                                                                                                            |
-| [劉兆銘](../Page/劉兆銘.md "wikilink")                           | 姥姥        | [高翰文](https://zh.wikipedia.org/wiki/高翰文 "wikilink") 及 黎萱 | 千年樹妖，曾於[倩女幽魂故事中被封印一百年](../Page/倩女幽魂_\(1987年電影\).md "wikilink")，直到此作時才復活。                                                      |
-| [劉洵](https://zh.wikipedia.org/wiki/劉洵_\(香港演員\) "wikilink") | 高僧白雲      | [朱子聰](../Page/朱子聰.md "wikilink")                         | 十方的師父，於與千年樹妖戰鬥中因使用破裂的金佛而導致盲眼                                                                                                  |
-| [利智](../Page/利智.md "wikilink")                             | 小蝶        |                                                          | 女鬼                                                                                                                            |
-| [劉玉婷](../Page/劉玉婷_\(香港\).md "wikilink")                    | 小蘭        |                                                          | 女鬼                                                                                                                            |
-| [張國榮](../Page/張國榮.md "wikilink")                           | 寧采臣       | [黃志成](../Page/黃志成.md "wikilink")                         | [倩女幽魂登場角色](../Page/倩女幽魂_\(1987年電影\).md "wikilink")，於電影起始時以[倩女幽魂的剪輯片段出現](../Page/倩女幽魂_\(1987年電影\).md "wikilink")。              |
-| [午　馬](../Page/午馬.md "wikilink")                            | 燕赤霞       | [金　貴](../Page/金貴.md "wikilink")                          | [倩女幽魂登場角色](../Page/倩女幽魂_\(1987年電影\).md "wikilink")，於電影起始時以[倩女幽魂的剪輯片段出現](../Page/倩女幽魂_\(1987年電影\).md "wikilink")。跟本集的燕赤霞不是同一个人 |
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>演員</strong></p></td>
+<td><p><strong>角色</strong></p></td>
+<td><p><strong>粵語配音</strong></p></td>
+<td><p><strong>備注</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/梁朝偉.md" title="wikilink">梁朝偉</a></p></td>
+<td><p>-{十方和尚}-</p></td>
+<td><p>梁朝偉</p></td>
+<td><p>白雲之徒弟</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/張學友" title="wikilink">張學友</a></p></td>
+<td><p>燕赤霞</p></td>
+<td><p>張學友</p></td>
+<td><p>游走江湖的劍客，跟前兩集出場的燕赤霞不是同一个人</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/王祖賢.md" title="wikilink">王祖賢</a></p></td>
+<td><p>小卓</p></td>
+<td><p><a href="../Page/何錦華.md" title="wikilink">何錦華</a></p></td>
+<td><p>女鬼</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/劉兆銘.md" title="wikilink">劉兆銘</a></p></td>
+<td><p>姥姥</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/高翰文" title="wikilink">高翰文</a> 及 黎萱</p></td>
+<td><p>千年樹妖，曾於<a href="../Page/倩女幽魂_(1987年電影).md" title="wikilink">倩女幽魂故事中被封印一百年</a>，直到此作時才復活。</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/劉洵_(香港演員)" title="wikilink">劉洵</a></p></td>
+<td><p>高僧白雲</p></td>
+<td><p><a href="../Page/朱子聰.md" title="wikilink">朱子聰</a></p></td>
+<td><p>十方的師父，於與千年樹妖戰鬥中因使用破裂的金佛而導致盲眼</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/利智.md" title="wikilink">利智</a></p></td>
+<td><p>小蝶</p></td>
+<td></td>
+<td><p>女鬼</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/劉玉婷_(香港).md" title="wikilink">劉玉婷</a></p></td>
+<td><p>小蘭</p></td>
+<td></td>
+<td><p>女鬼</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>寧采臣</p></td>
+<td><p><a href="../Page/黃志成.md" title="wikilink">黃志成</a></p></td>
+<td><p><a href="../Page/倩女幽魂_(1987年電影).md" title="wikilink">倩女幽魂登場角色</a>，於電影起始時以<a href="../Page/倩女幽魂_(1987年電影).md" title="wikilink">倩女幽魂的剪輯片段出現</a>。</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>燕赤霞</p></td>
+<td><p><a href="../Page/金貴.md" title="wikilink">金　貴</a></p></td>
+<td><p><a href="../Page/倩女幽魂_(1987年電影).md" title="wikilink">倩女幽魂登場角色</a>，於電影起始時以<a href="../Page/倩女幽魂_(1987年電影).md" title="wikilink">倩女幽魂的剪輯片段出現</a>。跟本集的燕赤霞不是同一个人</p></td>
+</tr>
+</tbody>
+</table>
 
 ## 獎項
 

@@ -167,7 +167,7 @@ hosts文件也可以用于其它情况，例如可以将已知的广告服务器
 
 hosts文件的另一个重要用途就是用于拦截一些恶意网站的请求，从而防止访问欺诈网站或感染一些[病毒或](../Page/计算机病毒.md "wikilink")[恶意软件](../Page/恶意软件.md "wikilink")。但同时，这个文件也可能被病毒或恶意软件所利用来阻止用户更新杀毒软件或访问特定网站。
 
-在中国大陆，由于[防火长城](../Page/防火长城.md "wikilink")的[DNS劫持](../Page/域名服务器缓存污染.md "wikilink")，有一些网民也借使用hosts文件来强制将特定网站指定到未封鎖的IP上。但自2018年8月24日起，[防火长城](../Page/防火长城.md "wikilink")开始启用基于[SNI检测和](../Page/服务器名称指示.md "wikilink")[TCP连接重置的手段进行封锁](https://zh.wikipedia.org/wiki/连接重置 "wikilink")。所以修改Hosts绕过封锁的方法，绝大多数网站不再完全适用。
+在中国大陆，由于[防火长城](../Page/防火长城.md "wikilink")的[DNS域名污染](../Page/域名服务器缓存污染.md "wikilink")，有一些网民也借使用hosts文件来强制将特定网站指定到未封鎖的IP上。但自2018年8月24日起，[防火长城](../Page/防火长城.md "wikilink")开始启用基于[SNI检测和](../Page/服务器名称指示.md "wikilink")[TCP连接重置的手段进行封锁](https://zh.wikipedia.org/wiki/连接重置 "wikilink")。所以修改Hosts绕过封锁的方法，绝大多数网站不再完全适用。
 
 ## 参见
 

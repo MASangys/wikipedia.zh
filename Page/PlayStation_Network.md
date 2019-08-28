@@ -1,4 +1,4 @@
-**PlayStation Network**（簡稱**PSN**）是[索尼互動娛樂](../Page/索尼互動娛樂.md "wikilink")提供的数字媒体娱乐服务。PSN推出于2006年11月，最初为[PlayStation](../Page/PlayStation.md "wikilink")系列游戏机专用，之后扩展到手机、平板电脑、蓝光播放器和电视。截至2018年11月，拥有超过9千万活跃用户\[1\]。
+**PlayStation Network**（簡稱**PSN**）是[索尼互動娛樂](../Page/索尼互動娛樂.md "wikilink")提供的数字媒体娱乐服务。PSN推出于2006年11月，最初为[PlayStation](../Page/PlayStation.md "wikilink")系列游戏机专用，之后扩展到手机、平板电脑、蓝光播放器和电视。截至2019年5月，拥有超过9400万活跃用户\[1\]。
 
 ## 歷史
 
@@ -19,8 +19,6 @@
 PlayStation Store是PSN中的数字媒体商店，提供包括数字版游戏、[DLC](../Page/可下载内容.md "wikilink")、[游戏试玩版](https://zh.wikipedia.org/wiki/游戏演示 "wikilink")、主题背景、音乐、影视在内的一系列付费及免费内容。
 
 ## PlayStation Plus
-
-[缩略图](https://zh.wikipedia.org/wiki/File:PlayStationPlus.png "fig:缩略图")
 
 PlayStation Plus（简称PS Plus）是一种按月付费的订阅服务，付费后将享有更多普通会员所不具备的权利：
 

@@ -14,7 +14,7 @@
 
 2017年9月，合併有近60年歷史的[英文中國郵報](../Page/英文中國郵報.md "wikilink")(The China Post)，並將其網址更換為https://chinapost.nownews.com，並著手經營已有17年歷史之Discover Taiwan 「看見台灣」雙語(英、中)雜誌，並將原有特刊形式，轉為季刊方式發行，每季發行共3萬本。
 
-2018年6月，於台北文創大樓舉辦10周年茶會。
+2018年6月，於[台北文創大樓舉辦](../Page/臺北文創.md "wikilink")10周年茶會。
 
 2018年12月，將原陶晶瑩經營之女性最熱門網站「姊妹淘[」https://babyou.nownews.com/](https://babyou.nownews.com/)併入NOWnews服務中。
 

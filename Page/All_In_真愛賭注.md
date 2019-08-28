@@ -65,7 +65,7 @@
 | [朴元淑](../Page/朴元淑.md "wikilink")                    | 張賢慈      |                            |
 | [尹瑞賢](../Page/尹瑞賢.md "wikilink")                    | 萬洙       |                            |
 | [崔蘭](../Page/崔蘭.md "wikilink")                      | 張美蘭      |                            |
-| [徐智慧](https://zh.wikipedia.org/wiki/徐智慧 "wikilink") | 女從業員     |                            |
+| [徐智慧](../Page/徐智慧_\(1984年\).md "wikilink")          | 女從業員     |                            |
 | [趙軟祐](../Page/趙軟祐.md "wikilink")                    | 日本黑道     |                            |
 | [金姬貞](../Page/金姬貞.md "wikilink")                    | 珠茵的事務室職員 |                            |
 | [金秉世](../Page/金秉世.md "wikilink")                    | 麥可張      |                            |

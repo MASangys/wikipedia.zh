@@ -1,14 +1,16 @@
 **ETtoday新聞雲**為[臺灣](../Page/臺灣.md "wikilink")社群[新聞網站](../Page/新聞媒體.md "wikilink")，由**東森新媒體控股股份有限公司**經營。
 
-该网站前身為2000年至2008年3月的《東森新聞報》。2008年4月，《東森新聞報》被轉售予中華聯合電訊集團（今中華聯合集團）旗下的「中華聯合數位映像股份有限公司」，並以《東森新聞報》相關資源成立《[NOWnews今日新聞網](https://zh.wikipedia.org/wiki/今日新聞網 "wikilink")》。2011年11月1日，東森國際股份有限公司旗下的「森信-{}-息股份有限公司」重新成立新型態新聞網站《ETtoday新聞雲》。2014年4月，森信息股份有限公司更名為「東森新聞雲股份有限公司」，繼續經營《ETtoday新聞雲》。
+该网站前身為2000年至2008年3月的《東森新聞報》。2008年4月，《東森新聞報》被轉售予中華聯合電訊集團（今中華聯合集團）旗下的「中華聯合數位映像股份有限公司」，並以《東森新聞報》相關資源成立《[NOWnews今日新聞網](https://zh.wikipedia.org/wiki/今日新聞網 "wikilink")》。2011年11月1日，[東森國際](../Page/東森國際.md "wikilink")旗下的「森信-{}-息股份有限公司」重新成立新型態新聞網站《ETtoday新聞雲》。2014年4月，森信-{}-息股份有限公司更名為「東森新聞雲股份有限公司」（ETtoday Co., Ltd.），繼續經營《ETtoday新聞雲》。
 
 2013年，《ETtoday新聞雲》更名為《ETtoday東森新聞雲》。2017年5月26日曾短暫更名《ETNEWS新聞雲》；同年11月再度改回《ETtoday新聞雲》。
 
-2018年12月，東森新聞雲股份有限公司董事會通過更名為「東森新媒體控股股份有限公司」，轉型為控股公司，經營ETtoday新聞雲、ETtoday星光雲、ETtoday電競雲、ETtoday寵物雲四大事業體。
+2018年12月，東森新聞雲股份有限公司董事會通過更名為「東森新媒體控股股份有限公司」（ETtoday Co., Ltd.），轉型為[控股公司](../Page/控股公司.md "wikilink")，經營ETtoday新聞雲、ETtoday星光雲、ETtoday電競雲、ETtoday寵物雲四大事業體。
 
 ## 歷史
 
 ### 東森新聞報（2000年至2008年）
+
+[ETtoday_logo_until_2008.gif](https://zh.wikipedia.org/wiki/File:ETtoday_logo_until_2008.gif "fig:ETtoday_logo_until_2008.gif")
 
   - 2000年3月1日，東森新聞報（ETtoday.com）開始試刊；同年5月15日正式上線。
   - 2005年[8月](../Page/2005年8月.md "wikilink")，東森新聞報推出[部落格平台Bloguide](https://zh.wikipedia.org/wiki/部落格 "wikilink")（Bloguide.ETtoday.com），採取會員認證與試寫文章作為雙重審核制度。

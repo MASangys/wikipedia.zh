@@ -26,7 +26,7 @@ X射线的来源主要有两种，一种是在常用X射线仪上使用的，通
 
 ### 晶体结构解析
 
-由于晶体衍射图样实际上是晶体中所有原子的电子对X射线衍射的叠加，而现实中并不存在可以聚焦X射线的透镜，通过对衍射结果（用[结构因子来表示](https://zh.wikipedia.org/wiki/结构因子 "wikilink")）进行反傅立叶变换，才可以获得晶体中电子密度的分布。而[结构因子是与](https://zh.wikipedia.org/wiki/结构因子 "wikilink")[波动方程](../Page/波动方程.md "wikilink")相关的，计算结构因子需要获得波动方程中的三个参数，即[振幅](https://zh.wikipedia.org/wiki/振幅 "wikilink")、[频率和](https://zh.wikipedia.org/wiki/频率 "wikilink")[相位](https://zh.wikipedia.org/wiki/相位 "wikilink")。振幅可以通过每个衍射点的强度直接计算获得，频率也是已知的，但相位无法从衍射数据中直接获得，因此就产生了晶体结构解析中的“相位问题（phase problem）”。
+由于晶体衍射图样实际上是晶体中所有原子的电子对X射线衍射的叠加，而现实中并不存在可以聚焦X射线的透镜，通过对衍射结果（用[结构因子来表示](https://zh.wikipedia.org/wiki/结构因子 "wikilink")）进行反傅立叶变换，才可以获得晶体中电子密度的分布。而[结构因子是与](https://zh.wikipedia.org/wiki/结构因子 "wikilink")[波动方程](../Page/波动方程.md "wikilink")相关的，计算结构因子需要获得波动方程中的三个参数，即[振幅](https://zh.wikipedia.org/wiki/振幅 "wikilink")、[频率和](https://zh.wikipedia.org/wiki/频率 "wikilink")[相位](../Page/相位.md "wikilink")。振幅可以通过每个衍射点的强度直接计算获得，频率也是已知的，但相位无法从衍射数据中直接获得，因此就产生了晶体结构解析中的“相位问题（phase problem）”。
 
 有几种解决相位问题的方法，其中分子置换法、同晶置换法和反常散射法常用于解析[生物大分子结构](https://zh.wikipedia.org/wiki/生物大分子 "wikilink")。： 直接法：直接计算相位，常用于较小的分子（含有少于1000个氢原子以外的原子）。
 

@@ -1,6 +1,6 @@
-[The_Embodiment_of_Scarlet_Devil.jpg](https://zh.wikipedia.org/wiki/File:The_Embodiment_of_Scarlet_Devil.jpg "fig:The_Embodiment_of_Scarlet_Devil.jpg") 是由[同人組織](https://zh.wikipedia.org/wiki/同人社團 "wikilink")[上海愛莉絲幻樂團](../Page/上海愛莉絲幻樂團.md "wikilink")所制作的縱[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")，是[東方Project的第](https://zh.wikipedia.org/wiki/東方Project "wikilink")6作，也是[東方Project在](https://zh.wikipedia.org/wiki/東方Project "wikilink")[Windows平台上的第一作](https://zh.wikipedia.org/wiki/Windows "wikilink")。
+[The_Embodiment_of_Scarlet_Devil.jpg](https://zh.wikipedia.org/wiki/File:The_Embodiment_of_Scarlet_Devil.jpg "fig:The_Embodiment_of_Scarlet_Devil.jpg") 是由[同人社團](https://zh.wikipedia.org/wiki/同人社團 "wikilink")[上海愛麗絲幻樂團所制作的縱](https://zh.wikipedia.org/wiki/上海愛麗絲幻樂團 "wikilink")[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")，是[東方Project的第](https://zh.wikipedia.org/wiki/東方Project "wikilink")6作，也是[東方Project在](https://zh.wikipedia.org/wiki/東方Project "wikilink")[Windows平台上的第一作](https://zh.wikipedia.org/wiki/Windows "wikilink")。
 
-本作是在相隔[PC-98推出該平台最後的作品](https://zh.wikipedia.org/wiki/PC-98 "wikilink")「[東方怪綺談 ～ Mystic Square.](../Page/東方怪綺談_～_Mystic_Square..md "wikilink")」的三年後開發的。在2002年6月10日發佈體驗版，並在2002年8月11日（[Comic Market](../Page/Comic_Market.md "wikilink") 62）正式發售，最後在同年9月27日開始在各[同人商店開始了](https://zh.wikipedia.org/wiki/同人商店 "wikilink")[委託販賣](https://zh.wikipedia.org/wiki/委託販賣 "wikilink")。當時在商店售賣的時候，[漫畫虎之穴店中有本遊戲的示範](https://zh.wikipedia.org/wiki/漫畫虎之穴 "wikilink")。\[1\]
+本作是在相隔[PC-98推出該平台最後的作品](https://zh.wikipedia.org/wiki/PC-98 "wikilink")「[東方怪綺談 ～ Mystic Square.](../Page/東方怪綺談_～_Mystic_Square..md "wikilink")」的三年後開發的。在2002年6月10日發佈體驗版，並在2002年8月11日（[Comic Market](../Page/Comic_Market.md "wikilink") 62）正式發售，最後在同年9月27日開始在各[同人商店開始了委託販賣](../Page/同人_\(ACG\).md "wikilink")。當時在商店售賣的時候，[漫畫虎之穴店中有本遊戲的示範](https://zh.wikipedia.org/wiki/漫畫虎之穴 "wikilink")。\[1\]
 
 東方紅魔鄉是第一部將「[幻想鄉](../Page/幻想鄉.md "wikilink")」作為一個地點引入東方系列的作品。此後東方系列的主要場景均為幻想鄉。
 
@@ -71,12 +71,12 @@ Extra關發生在異變解決之後。蕾米莉亚被打敗之後，經常來到
 
 <!-- end list -->
 
-  - <span id="蕾米莉亞·斯卡雷特"></span>蕾米莉亞·斯卡雷特（，Remilia Scarlet）
+  - <span id="蕾米莉亞·斯卡蕾特"></span>蕾米莉亞·斯卡蕾特（，Remilia Scarlet）
     初登場時為500歲的、长有蝙蝠般翅膀的[吸血鬼](../Page/吸血鬼.md "wikilink")，紅魔館女主人，芙蘭朵露的姊姊，像貴族般注重体面，但性格跟外表一樣非常孩子氣而任性。
 
 <!-- end list -->
 
-  - <span id="芙蘭朵露·斯卡雷特"></span>芙蘭朵露·斯卡雷特（，Flandre Scarlet）
+  - <span id="芙蘭朵露·斯卡蕾特"></span>芙蘭朵露·斯卡蕾特（，Flandre Scarlet）
     居住在紅魔館的另一位活了495年的吸血鬼，蕾米莉亞的妹妹。翅膀全光，但挂满了类似水晶的挂饰。擁有非常強大的力量——能将物体的「目」转移到其手上，并摧毁从而把物体摧毁，在吸血鬼當中也強得不尋常，蕾米莉亞無法抑制她的力量，因此她被關在紅魔館內不能外出，通常是利用帕秋莉的魔法想辦法讓她不能外出（用水符讓外面下雨）。
 
 ## 開發

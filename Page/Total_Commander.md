@@ -272,7 +272,7 @@ Return
 ## 参见条目
 
   - [FreeCommander](../Page/FreeCommander.md "wikilink")
-  - [Double Commander](https://zh.wikipedia.org/wiki/Double_Commander "wikilink")
+  - [Double Commander](../Page/Double_Commander.md "wikilink")
 
 ## 外部链接
 

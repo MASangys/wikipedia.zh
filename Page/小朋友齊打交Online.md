@@ -48,7 +48,7 @@
   - [LFO官方網頁(已失效)](http://www.littlefighteronline.com/hk/main_tc.php)
   - [《LFO資料博物館》](https://sites.google.com/site/lfostory/)
 
-[Category:小朋友齊打交系列](https://zh.wikipedia.org/wiki/Category:小朋友齊打交系列 "wikilink") [Category:網路遊戲](https://zh.wikipedia.org/wiki/Category:網路遊戲 "wikilink") [Category:动作游戏](https://zh.wikipedia.org/wiki/Category:动作游戏 "wikilink")
+[Category:2004年電子遊戲](https://zh.wikipedia.org/wiki/Category:2004年電子遊戲 "wikilink") [Category:小朋友齊打交系列](https://zh.wikipedia.org/wiki/Category:小朋友齊打交系列 "wikilink") [Category:大型多人在線遊戲](https://zh.wikipedia.org/wiki/Category:大型多人在線遊戲 "wikilink") [Category:清版動作遊戲](https://zh.wikipedia.org/wiki/Category:清版動作遊戲 "wikilink") [Category:香港開發電子遊戲](https://zh.wikipedia.org/wiki/Category:香港開發電子遊戲 "wikilink")
 
 1.  [《小朋友齊打交 Online》8 月 10 日台灣封測開跑](https://gnn.gamer.com.tw/6/24296.html)，[巴哈姆特電玩資訊站](../Page/巴哈姆特電玩資訊站.md "wikilink")，2006年8月9日
 2.  [《LFO 小朋友齊打交》3.0 版最終結局「飛行要塞」現身](http://game.sina.com.tw/game_data/news/content/1/2/2007-10-24/news_10428.shtml)，[新浪網](https://zh.wikipedia.org/wiki/新浪網 "wikilink")，2007年10月24日

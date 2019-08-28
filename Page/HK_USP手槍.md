@@ -216,6 +216,7 @@ HK USP常常被世界各國的警察作為配槍、或是軍隊使用。
   - 2015年—《[-{zh-hans:彩虹六号：围攻; zh-hant:虹彩六號：圍攻行動;}-](../Page/虹彩六號：圍攻行動.md "wikilink")》（Rainbow Six: Siege）：型號為USP.45戰術型與USP.40緊湊型，前者命名為「P12」，奇怪地使用16發彈匣，被[德國聯邦警察第九國境守備隊](../Page/德國聯邦警察第九國境守備隊.md "wikilink")所使用；後者被命名為「USP.40」並被[西班牙反恐特別行動小組](../Page/西班牙反恐特別行動小組.md "wikilink")所使用。
   - 2016年—《[-{zh:決勝時刻：現代戰爭;zh-hans:使命召唤：现代战争;zh-hant:決勝時刻：現代戰爭;zh-cn:使命召唤：现代战争;zh-tw:決勝時刻：現代戰爭;zh-hk:使命召喚：現代戰爭;zh-mo:使命召喚：現代戰爭;}-重製版](../Page/決勝時刻4：現代戰爭.md "wikilink")》（Call of Duty: Modern Warfare Remastered）：型號為USP.45，外觀比前作更為精細，並修正至不再使用純雙動板機。
   - 2017年—《[狙擊手：幽靈戰士3](https://zh.wikipedia.org/wiki/狙擊手：幽靈戰士3 "wikilink")》（Sniper: Ghost Warrior 3）：型號為USP.45，命名為“SPL.45”。
+  - 2019年—《[惡靈古堡2 重製版](https://zh.wikipedia.org/wiki/惡靈古堡2_重製版 "wikilink")》( Biohazard RE:2 ) ：型號為USP9，命名為“MUP”。為第四生還者模式主角HUNK的武器之一。
 
 ### 輕小說
 

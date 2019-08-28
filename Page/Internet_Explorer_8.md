@@ -20,7 +20,8 @@ IE8是首款通過[Acid2](../Page/Acid2.md "wikilink")測試也是最後一個�
 <a href="https://zh.wikipedia.org/wiki/Windows_Server_2003#SP1" title="wikilink">Windows Server 2003 SP1</a></p></th>
 <th><p>rowspan = 2 | <a href="../Page/Windows_Vista.md" title="wikilink">Windows Vista</a> /<br />
 <a href="../Page/Windows_Server_2008.md" title="wikilink">Windows Server 2008</a></p></th>
-<th><p>rowspan = 2 | <a href="https://zh.wikipedia.org/wiki/Windows_7" title="wikilink">Windows 7</a></p></th>
+<th><p>rowspan = 2 | <a href="https://zh.wikipedia.org/wiki/Windows_7" title="wikilink">Windows 7</a>/<br />
+<a href="../Page/Windows_Server_2008_R2.md" title="wikilink">Windows Server 2008 R2</a></p></th>
 <th><p>rowspan = 2 | 語言</p></th>
 </tr>
 </thead>
@@ -66,15 +67,18 @@ IE8是首款通過[Acid2](../Page/Acid2.md "wikilink")測試也是最後一個�
 <td></td>
 </tr>
 <tr class="even">
-<td><p>RTM</p></td>
+<td><p>RTM[7]</p></td>
 <td><p>8.0.6001.18702</p></td>
 <td><p>2009年3月19日</p></td>
 <td></td>
 <td></td>
-<td><p>內建</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>
+
+  -
+    \* 最初，Internet Explorer支持25种语言；\[8\] 在2009年6月可通过语言包扩充到63种语言。\[9\]
 
 ## 參考資料
 
@@ -87,8 +91,18 @@ IE8是首款通過[Acid2](../Page/Acid2.md "wikilink")測試也是最後一個�
 [Category:Windows组件](https://zh.wikipedia.org/wiki/Category:Windows组件 "wikilink") [Category:RSS](https://zh.wikipedia.org/wiki/Category:RSS "wikilink") [Category:Internet_Explorer](https://zh.wikipedia.org/wiki/Category:Internet_Explorer "wikilink") [Category:2009年軟體](https://zh.wikipedia.org/wiki/Category:2009年軟體 "wikilink")
 
 1.
+
 2.
+
 3.
+
 4.
+
 5.
+
 6.  [Top 12 Browser Versions in Asia from Jun 2011 to Jul 2012 - StatCounter Global Stats](http://gs.statcounter.com/#browser_version-as-monthly-201106-201207)
+
+7.  ["Microsoft Announces Availability of Internet Explorer 8"](http://news.prnewswire.com/ViewContent.aspx?ACCT=109&STORY=/www/story/03-19-2009/0004991142&EDATE=)
+
+8.
+9.

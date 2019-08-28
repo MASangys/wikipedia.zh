@@ -4,7 +4,7 @@
 
 ## 源起與目的
 
-[UNIX](../Page/UNIX.md "wikilink")系統一直有著功能強大的殼程式（[shell](https://zh.wikipedia.org/wiki/殼 "wikilink")），Windows PowerShell的誕生就是要提供功能相當於UNIX系統的命令列殼程式（例如：[sh](../Page/Bourne_shell.md "wikilink")、或[csh](../Page/C_Shell.md "wikilink")），同時也內建腳本語言以及輔助腳本程式的工具。
+[UNIX](../Page/UNIX.md "wikilink")系統一直有著功能強大的殼程式（[shell](../Page/殼層.md "wikilink")），Windows PowerShell的誕生就是要提供功能相當於UNIX系統的命令列殼程式（例如：[sh](../Page/Bourne_shell.md "wikilink")、或[csh](../Page/C_Shell.md "wikilink")），同時也內建腳本語言以及輔助腳本程式的工具。
 
 ## 程式特性
 

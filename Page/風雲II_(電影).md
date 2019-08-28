@@ -151,7 +151,7 @@
 </tr>
 <tr class="odd">
 <td><p>最佳視覺效果</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/吳炫輝" title="wikilink">吳炫輝</a>、<a href="https://zh.wikipedia.org/wiki/鄒志盛" title="wikilink">鄒志盛</a>、<a href="https://zh.wikipedia.org/wiki/譚啟昆" title="wikilink">譚啟昆</a></p></td>
+<td><p><a href="../Page/吳炫輝.md" title="wikilink">吳炫輝</a>、<a href="https://zh.wikipedia.org/wiki/鄒志盛" title="wikilink">鄒志盛</a>、<a href="https://zh.wikipedia.org/wiki/譚啟昆" title="wikilink">譚啟昆</a></p></td>
 <td></td>
 <td></td>
 </tr>

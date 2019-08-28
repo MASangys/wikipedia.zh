@@ -140,7 +140,7 @@ SSG 69無論在戰爭還是大大小小的國際比賽之中都證明了它是�
 
   - —[人民網—SSG69狙擊步槍：“裝在牛車上的精確制導武器”](http://military.people.com.cn/BIG5/42963/3618690.html)
 
-[Category:栓動式步槍](https://zh.wikipedia.org/wiki/Category:栓動式步槍 "wikilink") [Category:狙擊步槍](https://zh.wikipedia.org/wiki/Category:狙擊步槍 "wikilink") [Category:7.62×51毫米槍械](https://zh.wikipedia.org/wiki/Category:7.62×51毫米槍械 "wikilink") [Category:.243_Winchester口徑槍械](https://zh.wikipedia.org/wiki/Category:.243_Winchester口徑槍械 "wikilink") [Category:22-250_Remington口徑槍械](https://zh.wikipedia.org/wiki/Category:22-250_Remington口徑槍械 "wikilink") [Category:奧地利槍械](https://zh.wikipedia.org/wiki/Category:奧地利槍械 "wikilink")
+[Category:栓動式步槍](https://zh.wikipedia.org/wiki/Category:栓動式步槍 "wikilink") [Category:狙擊步槍](https://zh.wikipedia.org/wiki/Category:狙擊步槍 "wikilink") [Category:7.62×51毫米槍械](https://zh.wikipedia.org/wiki/Category:7.62×51毫米槍械 "wikilink") [Category:.243溫徹斯特口徑槍械](https://zh.wikipedia.org/wiki/Category:.243溫徹斯特口徑槍械 "wikilink") [Category:22-250_Remington口徑槍械](https://zh.wikipedia.org/wiki/Category:22-250_Remington口徑槍械 "wikilink") [Category:奧地利槍械](https://zh.wikipedia.org/wiki/Category:奧地利槍械 "wikilink")
 
 1.  [Österreichs Bundesheer - Waffen und Gerät - Scharfschützengewehr SSG 69](http://www.bmlv.gv.at/waffen/waf_ssg69.shtml)
 

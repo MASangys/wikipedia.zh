@@ -260,11 +260,6 @@ HTTP状态码的官方注册表由[互联网号码分配局](../Page/互联网�
 
 <!-- end list -->
 
-  - 420 Enhance Your Caim
-    Twitter Search与Trends API在客户端被限速的情况下返回。
-
-<!-- end list -->
-
   - 421 Misdirected Request （RFC 7540）
     该请求针对的是无法产生响应的服务器（例如因为连接重用）。\[53\]
 
@@ -291,7 +286,7 @@ HTTP状态码的官方注册表由[互联网号码分配局](../Page/互联网�
 <!-- end list -->
 
   - 426 Upgrade Required（RFC 2817）
-    客户端应当切换到[TLS/1.0](https://zh.wikipedia.org/wiki/传输层安全 "wikilink")，并在中给出。\[58\]
+    客户端应切换到中给出的不同协议，如[TLS/1.0](https://zh.wikipedia.org/wiki/传输层安全 "wikilink")。\[58\]
 
 <!-- end list -->
 
@@ -310,27 +305,12 @@ HTTP状态码的官方注册表由[互联网号码分配局](../Page/互联网�
 
 <!-- end list -->
 
-  - 444 No Response
-    Nginx上HTTP服務器擴展。服務器不向客戶端返回任何信息，並關閉連接（有助於阻止惡意軟體）。
-
-<!-- end list -->
-
-  - 450 Blocked by Windows Parental Controls
-    這是一個由Windows家庭控制（Microsoft）HTTP阻止的450狀態代碼的示例，用於信息和測試。
-
-<!-- end list -->
-
   - 451 Unavailable For Legal Reasons
 
 <!-- end list -->
 
   -
     该访问因[法律](../Page/法律.md "wikilink")的要求而被拒絕，由[IETF在](https://zh.wikipedia.org/wiki/IETF "wikilink")2015核准后新增加。\[62\]\[63\]\[64\]
-
-<!-- end list -->
-
-  - 494 Request Header Too Large
-    在错误代码431提出之前Nginx上使用的扩展HTTP代码。
 
 ## 5xx服务器错误
 
@@ -389,6 +369,26 @@ HTTP状态码的官方注册表由[互联网号码分配局](../Page/互联网�
 
   - 511 Network Authentication Required （RFC 6585）
     客户端需要进行身份验证才能获得网络访问权限，旨在限制用户群访问特定网络。（例如连接[WiFi热点时的](https://zh.wikipedia.org/wiki/热点_\(Wi-Fi\) "wikilink")[强制网络门户](https://zh.wikipedia.org/wiki/強制門戶 "wikilink")）\[76\]
+
+## 非官方状态码
+
+  - 420 Enhance Your Caim
+    Twitter Search与Trends API在客户端被限速的情况下返回。
+
+<!-- end list -->
+
+  - 444 No Response
+    Nginx上HTTP服務器擴展。服務器不向客戶端返回任何信息，並關閉連接（有助於阻止惡意軟體）。
+
+<!-- end list -->
+
+  - 450 Blocked by Windows Parental Controls
+    這是一個由Windows家庭控制（Microsoft）HTTP阻止的450狀態代碼的示例，用於信息和測試。
+
+<!-- end list -->
+
+  - 494 Request Header Too Large
+    在错误代码431提出之前Nginx上使用的扩展HTTP代码。
 
 ## 参见
 

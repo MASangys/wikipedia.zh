@@ -17,7 +17,7 @@ HTC Hero於2010年MWC（Mobile World Congress，又稱世界移動通訊大會�
   - 相機：五百万像素自动对焦摄像头
   - GPS
   - 電子指南針
-  - 處理器：[Qualcomm](https://zh.wikipedia.org/wiki/Qualcomm "wikilink") MSM 7200A 528 MHz ARM处理器
+  - 處理器：[Qualcomm](https://zh.wikipedia.org/wiki/Qualcomm "wikilink") MSM7200A 528MHz ARM11
   - [RAM](https://zh.wikipedia.org/wiki/隨機存取記憶體 "wikilink"): 288 MB
   - [ROM](https://zh.wikipedia.org/wiki/ROM "wikilink"): 512 MB
   - 外置記憶卡：[microSD插槽](https://zh.wikipedia.org/wiki/microSD "wikilink")（兼容[SDHC](https://zh.wikipedia.org/wiki/Secure_Digital_card#SDHC "wikilink")）

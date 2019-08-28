@@ -1003,7 +1003,7 @@ SMG頻道（中國）</p></td>
 </tr>
 <tr class="even">
 <td><p>2017年7月13日－9月29日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/偶像學校" title="wikilink">偶像學校</a></p></td>
 <td><p><a href="../Page/希澈.md" title="wikilink">希澈</a></p></td>
 <td><p>11</p></td>
@@ -2172,7 +2172,7 @@ SMG頻道（中國）</p></td>
 </tr>
 <tr class="even">
 <td><p>2017年7月13日－9月29日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/偶像學校" title="wikilink">偶像學校</a></p></td>
 <td><p>希澈</p></td>
 <td></td>
@@ -2228,7 +2228,7 @@ SMG頻道（中國）</p></td>
 </tr>
 <tr class="even">
 <td><p>2018年1月26日－4月20日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/看見你的聲音" title="wikilink">看見你的聲音</a>（第五季）</p></td>
 <td><p>兪世潤、<a href="https://zh.wikipedia.org/wiki/金鐘國" title="wikilink">金鐘國</a></p></td>
 <td></td>

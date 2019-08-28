@@ -228,7 +228,7 @@ PlotData =
 <td><p>專輯</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a><br />
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a><br />
 <small>《<a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a>》</small></p></td>
 </tr>
 <tr class="even">

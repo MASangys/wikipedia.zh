@@ -81,7 +81,7 @@ CPython是使用[字节码的](https://zh.wikipedia.org/wiki/字节码 "wikilink
 
   - [Amiga](../Page/Amiga.md "wikilink") [1](http://www.monkeyhouse.eclipse.co.uk/amiga/python/)
   - [AS/400](https://zh.wikipedia.org/wiki/AS/400 "wikilink") [2](http://www.iseriespython.com/)
-  - [DOS](../Page/DOS.md "wikilink")平台使用的[DJGPP](https://zh.wikipedia.org/wiki/DJGPP "wikilink") [3](http://www.caddit.net/pythond/)
+  - [DOS](../Page/DOS.md "wikilink")平台使用的[DJGPP](../Page/DJGPP.md "wikilink") [3](http://www.caddit.net/pythond/)
   - [PSP](https://zh.wikipedia.org/wiki/PSP "wikilink") [4](https://web.archive.org/web/20090210233518/http://python-psp.net/trac/)
   - [Symbian](https://zh.wikipedia.org/wiki/Symbian "wikilink") [5](https://web.archive.org/web/20080810154656/http://opensource.nokia.com/projects/pythonfors60/)
   - [Windows CE](https://zh.wikipedia.org/wiki/Windows_CE "wikilink")/[Pocket PC](../Page/Pocket_PC.md "wikilink") [6](http://pythonce.sourceforge.net/)

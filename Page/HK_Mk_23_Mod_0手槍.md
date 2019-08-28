@@ -99,7 +99,7 @@ HK Mk 23 Mod 0和Mark 23亦登場於多部[电影](../Page/电影.md "wikilink")
 
   - 2004年—《[-{zh-hans:太空堡垒卡拉狄加; zh-hant:星際大爭霸2005;}-](../Page/太空堡垒卡拉狄加.md "wikilink")》：2005年8月5日第2季第4集（播出順序為第17集）“抵抗”（Resistance）之中，裝上二期原型[鐳射瞄準器並且被反抗戰士塞繆爾](https://zh.wikipedia.org/wiki/鐳射瞄準器 "wikilink")·安德斯（Samuel Anders，[邁克爾·特魯科飾演](https://zh.wikipedia.org/wiki/邁克爾·特魯科 "wikilink")）所使用。
   - 2007年—《[火线警告](../Page/火线警告.md "wikilink")》：
-      - 2007年9月20日第1季第11集“死降”（Dead Drop）之中，原來被前海軍陸戰隊隊員、[走私犯肯特](https://zh.wikipedia.org/wiki/走私 "wikilink")（Kent）所使用，其後被邁克爾·韋斯特（Michael Westen，[-{zh-cn:杰弗里·多诺万; zh-tw:傑佛瑞·唐納文; zh-hk:謝菲·當奴雲;}-飾演](https://zh.wikipedia.org/wiki/杰弗里·多诺万 "wikilink")）所奪取。
+      - 2007年9月20日第1季第11集“死降”（Dead Drop）之中，原來被前海軍陸戰隊隊員、[走私](../Page/走私.md "wikilink")犯肯特（Kent）所使用，其後被邁克爾·韋斯特（Michael Westen，[-{zh-cn:杰弗里·多诺万; zh-tw:傑佛瑞·唐納文; zh-hk:謝菲·當奴雲;}-飾演](https://zh.wikipedia.org/wiki/杰弗里·多诺万 "wikilink")）所奪取。
       - 2009年6月18日第3季第3集（播出順序為第31集）“逃走結束”（End Run）之中，為一名槍械工程師的收藏槍械。
 
 ### 电子游戏

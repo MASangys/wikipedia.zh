@@ -1,26 +1,26 @@
-**My Melody**（[台灣譯名為](https://zh.wikipedia.org/wiki/台灣 "wikilink")**美樂蒂**）是[Sanrio第一隻以](https://zh.wikipedia.org/wiki/Sanrio "wikilink")[兔子為造型的](https://zh.wikipedia.org/wiki/兔子 "wikilink")[卡通](../Page/卡通.md "wikilink")角色，在1975年誕生。近年在[亞洲區很受歡迎](https://zh.wikipedia.org/wiki/亞洲 "wikilink")，因此衍生了不少相關[兒童](https://zh.wikipedia.org/wiki/兒童 "wikilink")[玩具](../Page/玩具.md "wikilink")及商品。
+\-{zh-tw:**美樂蒂**;zh-cn:**美乐蒂**;zh-hk:**My Melody**;}-（-{zh-tw:;zh-cn:;zh-hk:中文譯名：美樂蒂;}-）是[三丽鸥第一隻以](https://zh.wikipedia.org/wiki/三丽鸥 "wikilink")[兔子為造型的](https://zh.wikipedia.org/wiki/兔子 "wikilink")[卡通](../Page/卡通.md "wikilink")角色，在1975年誕生。近年在[亞洲區很受歡迎](https://zh.wikipedia.org/wiki/亞洲 "wikilink")，因此衍生了不少相關[兒童](https://zh.wikipedia.org/wiki/兒童 "wikilink")[玩具](../Page/玩具.md "wikilink")及商品。
 
 ## 歷史
 
-My Melody的誕生靈感來自[童話故事](https://zh.wikipedia.org/wiki/童話故事 "wikilink")《[小紅帽](https://zh.wikipedia.org/wiki/小紅帽 "wikilink")》，1975年Sanrio以「童話中大野[狼](../Page/狼.md "wikilink")最愛吃的[動物](https://zh.wikipedia.org/wiki/動物 "wikilink")」為題徵求[投票](../Page/投票.md "wikilink")，結果[兔子得到的票數最多](https://zh.wikipedia.org/wiki/兔子 "wikilink")，於是這隻可愛的小白兔便登場了。最初她的名字叫「Little Red Riding Hood」，次年才改稱為「My Melody」。
+My Melody的誕生靈感來自[童話故事](https://zh.wikipedia.org/wiki/童話故事 "wikilink")《[小紅帽](https://zh.wikipedia.org/wiki/小紅帽 "wikilink")》，1975年三丽鸥以「童話中大野[狼](../Page/狼.md "wikilink")最愛吃的[動物](https://zh.wikipedia.org/wiki/動物 "wikilink")」為題徵求[投票](../Page/投票.md "wikilink")，結果[兔子得到的票數最多](https://zh.wikipedia.org/wiki/兔子 "wikilink")，於是這隻可愛的小白兔便登場了。最初她的名字叫「Little Red Riding Hood」，次年才改稱為「-{My Melody}-」。
 
-1976年My Melody的好朋友小[老鼠弗蘭多](https://zh.wikipedia.org/wiki/老鼠 "wikilink")（Flat）登場，1983年弟弟Rhythm出現，在80年代末卻沉寂下來，直至1997年My Melody在[雜誌投票上突然受到](https://zh.wikipedia.org/wiki/雜誌 "wikilink")[日本](../Page/日本.md "wikilink")高中女生的愛戴，成為除了[Hello Kitty外最受歡迎的角色](../Page/Hello_Kitty.md "wikilink")，從此My Melody相關的[玩具](../Page/玩具.md "wikilink")和精品開始熱賣。1998年因Hello Kitty妒忌Melody人氣比她高，在一次野餐中推了Melody落山下落不明，及後受到極大回響，Melody和Hello Kitty的精品銷售量急速上升，在八月官方決定取消被推落山的設定，聲稱只是一場意外，My Melody也再次現身。在2005年，以My Melody為主角的[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[我愛美樂蒂](https://zh.wikipedia.org/wiki/我愛美樂蒂 "wikilink")》在[日本](../Page/日本.md "wikilink")播放，對手[Kuromi](../Page/Kuromi.md "wikilink")於此時出場，令My Melody更受歡迎，動畫至今已播放至第四輯，更推出CD和DVD。Sanrio Japan及草莓新聞合辦2010 & 2011 Sanrio Character Ranking，台灣三麗鷗亦舉辦2010 Sanrio人氣明星網上選舉，My Melody在三個選舉中皆為第一名, 而My Melody也在2014年的日本人氣明星網上選舉得到第一名。
+1976年My Melody的好朋友小[老鼠弗蘭多](https://zh.wikipedia.org/wiki/老鼠 "wikilink")（Flat）登場，1983年弟弟Rhythm出現，在80年代末卻沉寂下來，直至1997年My Melody在[雜誌投票上突然受到](https://zh.wikipedia.org/wiki/雜誌 "wikilink")[日本](../Page/日本.md "wikilink")高中女生的愛戴，成為除了[Hello Kitty外最受歡迎的角色](../Page/Hello_Kitty.md "wikilink")，從此My Melody相關的[玩具](../Page/玩具.md "wikilink")和精品開始熱賣。，My Melody也再次現身。在2005年，以My Melody為主角的[動畫劇集](../Page/動畫劇集.md "wikilink")《[我愛美樂蒂](https://zh.wikipedia.org/wiki/我愛美樂蒂 "wikilink")》在[日本](../Page/日本.md "wikilink")播放，對手[酷洛米](https://zh.wikipedia.org/wiki/酷洛米 "wikilink")（Kuromi）於此時出場，令My Melody更受歡迎，動畫至今已播放至第四輯，更推出CD和DVD。Sanrio Japan及草莓新聞合辦2010 & 2011 Sanrio Character Ranking，台灣三麗鷗亦舉辦2010 Sanrio人氣明星網上選舉，My Melody在三個選舉中皆為第一名, 而My Melody也在2014年的日本人氣明星網上選舉得到第一名。
 
 ## 資料
 
 [My_melody_in_the_show.jpg](https://zh.wikipedia.org/wiki/File:My_melody_in_the_show.jpg "fig:My_melody_in_the_show.jpg")
 
-  - **名稱**: My Melody（日語全名：マイメロディ，暱稱マイメロ（My Melo），台灣譯名：美樂蒂）
-  - **生日日期**: 1975年1月18日
-  - **生肖**: 兔兔
-  - **性別**: 女
-  - **星座**：摩羯座
-  - **出生地**：美国东部的马里兰森林
-  - **興趣**：和妈妈一起烹饪食物
-  - **性格**：天真无邪，活泼开朗，但同时又有一点急躁。（和任何人都能马上成为好朋友）
-  - **最珍藏的物件**：祖母亲手为她缝制的小红帽
-  - **最喜歡吃**：杏仁蛋糕
-  - **家中成員**：爸爸、媽媽、祖父、祖母、弟弟Rhythm（里泽木）、遠房表弟Littleforestfellow
+  - 名稱: My Melody（日語全名：マイメロディ，暱稱マイメロ（My Melo））
+  - 生日: 1975年1月18日
+  - 生肖: 兔兔
+  - 性別: 女
+  - 星座：摩羯座
+  - 出生地：美国东部的马里兰森林
+  - 興趣：和妈妈一起烹饪食物
+  - 性格：天真无邪，活泼开朗，但同时又有一点急躁。（和任何人都能马上成为好朋友）
+  - 最珍藏的物件：祖母亲手为她缝制的小红帽
+  - 最喜歡食物：杏仁蛋糕
+  - 家中成員：爸爸、媽媽、祖父、祖母、弟弟Rhythm（里泽木）、遠房表弟Littleforestfellow
 
 ## 家人
 
@@ -39,10 +39,9 @@ My Melody的誕生靈感來自[童話故事](https://zh.wikipedia.org/wiki/童�
 
 ## 參看
 
-  - [Hello Kitty](../Page/Hello_Kitty.md "wikilink")
-  - [Kuromi](../Page/Kuromi.md "wikilink")
-  - [Sanrio](https://zh.wikipedia.org/wiki/Sanrio "wikilink")
-  - [Pom Pom Purin](https://zh.wikipedia.org/wiki/Pom_Pom_Purin "wikilink")
+  - [酷洛米](https://zh.wikipedia.org/wiki/酷洛米 "wikilink")
+  - [三丽鸥](https://zh.wikipedia.org/wiki/三丽鸥 "wikilink")
+  - [布丁狗](../Page/布丁狗.md "wikilink")
 
 ## 外部網站
 

@@ -129,7 +129,7 @@ O鋼彈的非實體裝備，將電容器內的高濃度壓縮粒子釋放，並�
 
 ### Trans-AM系統（Trans-AM System）
 
-在動畫中沒有使用過本系統，僅根據雷瑟·艾翁所述\[1\]，說明了實戰配備型也可以啟動Trans-AM系統。
+在動畫中沒有使用過本系統，由於00劇場版中安裝了兩基GN電容器的00Raiser啟動了Trans-AM系統\[1\]，說明了實戰配備型也可以啟動Trans-AM系統。
 
 ## 變化型
 
@@ -181,4 +181,4 @@ O鋼彈的非實體裝備，將電容器內的高濃度壓縮粒子釋放，並�
 
 [Category:GUNDAM_00兵器](https://zh.wikipedia.org/wiki/Category:GUNDAM_00兵器 "wikilink")
 
-1.  第二季第23話，雷瑟·艾翁：「這裡這麼狹窄是無法使用Trans-AM的」
+1.  00劇場版中安裝了兩基GN電容器的00Raiser啟動了Trans-AM系統

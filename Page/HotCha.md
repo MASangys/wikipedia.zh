@@ -167,31 +167,31 @@ HotCha官方國際歌迷會於2008年1月19日成立，名為「喝茶會(取同
 
 ### 電視劇（[無線電視](https://zh.wikipedia.org/wiki/無線電視 "wikilink")）
 
-2007年
+#### 2007年
 
   - [森之愛情](../Page/森之愛情_\(電視劇\).md "wikilink")－整容藥丸<small>（HotCha 飾演 服裝店員）</small>
 
-2008年
+#### 2008年
 
   - [盛裝舞步愛作戰](../Page/盛裝舞步愛作戰.md "wikilink")<small>（HotCha 客串演出單元四）</small>
   - [尖子攻略](../Page/尖子攻略.md "wikilink")<small>（HotCha 飾演 [啦啦隊](../Page/啦啦隊.md "wikilink")隊員）</small>
 
-2010年
+#### 2010年
 
   - [五味人生](../Page/五味人生.md "wikilink")<small>（Regen主演，Winkie、Crystal客串）</small>
   - [掌上明珠](../Page/掌上明珠.md "wikilink")<small>（Crystal客串）</small>
 
-2011年
+#### 2011年
 
   - [團圓](https://zh.wikipedia.org/wiki/團圓_\(香港電視劇\) "wikilink")<small>（Crystal客串）</small>
 
-2013年
+#### 2013年
 
   - [貓屎媽媽](../Page/貓屎媽媽.md "wikilink")<small>（Regen 飾演邊恕人 Sherman）</small>
 
 ### 電視節目
 
-2007年
+#### 2007年
 
   - 《[愚樂I Love U Summer](https://zh.wikipedia.org/wiki/愚樂I_Love_U_Summer "wikilink")》－[海南島](https://zh.wikipedia.org/wiki/海南島 "wikilink")<small>（HotCha擔任嘉賓）</small>
   - 《[翡翠歌星賀台慶](../Page/翡翠歌星賀台慶.md "wikilink")》
@@ -208,7 +208,7 @@ HotCha官方國際歌迷會於2008年1月19日成立，名為「喝茶會(取同
   - 《[2007年度兒歌金曲頒獎典禮](https://zh.wikipedia.org/wiki/2007年度兒歌金曲頒獎典禮 "wikilink")》
   - 《[2007 TVB最受歡迎廣告頒獎禮](https://zh.wikipedia.org/wiki/2007_TVB最受歡迎廣告頒獎禮 "wikilink")》
 
-2008年
+#### 2008年
 
   - 《[激優一族](../Page/激優一族.md "wikilink")》
   - 《金鼠出來恭喜你》
@@ -230,7 +230,7 @@ HotCha官方國際歌迷會於2008年1月19日成立，名為「喝茶會(取同
   - 《[2008勁歌金曲優秀選第一回](https://zh.wikipedia.org/wiki/2008勁歌金曲優秀選第一回 "wikilink")》
   - 《[2008 TVB最受歡迎廣告頒獎禮](https://zh.wikipedia.org/wiki/2008_TVB最受歡迎廣告頒獎禮 "wikilink")》
 
-2009年
+#### 2009年
 
   - 《[鐵甲無敵獎門人](../Page/鐵甲無敵獎門人.md "wikilink")》
   - 《肥牛開運》
@@ -254,7 +254,7 @@ HotCha官方國際歌迷會於2008年1月19日成立，名為「喝茶會(取同
   - 《[2009年度兒歌金曲頒獎典禮](https://zh.wikipedia.org/wiki/2009年度兒歌金曲頒獎典禮 "wikilink")》
   - 《[2009 TVB最受歡迎廣告頒獎禮](https://zh.wikipedia.org/wiki/2009_TVB最受歡迎廣告頒獎禮 "wikilink")》
 
-2010年
+#### 2010年
 
   - 《[逐格鬥](../Page/逐格鬥.md "wikilink")》
   - 《[兄弟幫](../Page/兄弟幫.md "wikilink")》
@@ -275,7 +275,7 @@ HotCha官方國際歌迷會於2008年1月19日成立，名為「喝茶會(取同
   - 《[型人型樂館](https://zh.wikipedia.org/wiki/型人型樂館 "wikilink")》
   - 《[反斗英語](https://zh.wikipedia.org/wiki/反斗英語 "wikilink")》
 
-2011年
+#### 2011年
 
   - 《[呂方‧唱出味道來](https://zh.wikipedia.org/wiki/呂方‧唱出味道來 "wikilink")》
   - 《[citywalk兔躍盛世迎新歲](https://zh.wikipedia.org/wiki/citywalk兔躍盛世迎新歲 "wikilink")》
@@ -297,7 +297,7 @@ HotCha官方國際歌迷會於2008年1月19日成立，名為「喝茶會(取同
   - 《[360˚音樂無邊](https://zh.wikipedia.org/wiki/360˚音樂無邊 "wikilink")》
   - 《[2011年度十大勁歌金曲頒獎典禮](https://zh.wikipedia.org/wiki/2011年度十大勁歌金曲頒獎典禮 "wikilink")》
 
-2012年
+#### 2012年
 
   - 《[勁歌金曲](../Page/勁歌金曲.md "wikilink")》
   - 《[激優一族](../Page/激優一族.md "wikilink")》
@@ -306,59 +306,59 @@ HotCha官方國際歌迷會於2008年1月19日成立，名為「喝茶會(取同
   - 《[五覺大戰](../Page/五覺大戰.md "wikilink")》
   - 《[夜宵磨](../Page/夜宵磨.md "wikilink")》
 
-2013年
+#### 2013年
 
   - 《[夜宵磨](../Page/夜宵磨.md "wikilink")》
   - 《[勁歌金曲](../Page/勁歌金曲.md "wikilink")》
 
-2014年
+#### 2014年
 
   - 《[I.T.行者](https://zh.wikipedia.org/wiki/I.T.行者 "wikilink")》
 
-2018年
+#### 2018年
 
   - 《[飯聚現場](../Page/飯聚現場.md "wikilink")》
   - 《[Good Night Show 全民星戰](../Page/Good_Night_Show_全民星戰.md "wikilink")》
 
-2019年
+#### 2019年
 
-  - 《Good Night Show 發洩擂台》
+  - 《[Good Night Show 發洩擂台](../Page/Good_Night_Show_發洩擂台.md "wikilink")》
 
 ### 電影
 
-2008年
+#### 2008年
 
-  - 8月2日：[親愛的](../Page/親愛的_\(2008年電影\).md "wikilink")
-  - 11月27日：[絕代雙嬌](../Page/絕代雙嬌.md "wikilink")
+  - 8月2日：《[親愛的](../Page/親愛的_\(2008年電影\).md "wikilink")》
+  - 11月27日：《[絕代雙嬌](../Page/絕代雙嬌.md "wikilink")》
 
-2009年
+#### 2009年
 
-  - 1月23日：[家有囍事2009](../Page/家有囍事2009.md "wikilink")(客串)
-  - [愛得起](https://zh.wikipedia.org/wiki/愛得起 "wikilink")
-  - [短暫的生命](../Page/短暫的生命.md "wikilink")（Crystal）
+  - 1月23日：《[家有囍事2009](../Page/家有囍事2009.md "wikilink")》(客串)
+  - 《[愛得起](https://zh.wikipedia.org/wiki/愛得起 "wikilink")》
+  - 《[短暫的生命](../Page/短暫的生命.md "wikilink")》（Crystal）
 
-2013年
+#### 2013年
 
-  - [百星酒店](../Page/百星酒店.md "wikilink")
+  - 《[百星酒店](../Page/百星酒店.md "wikilink")》
 
-#### 微電影
+### 微電影
 
-2012年
+#### 2012年
 
-  - 1月6日：[我的女友叫小薇4 之 瘋狂小清單](https://zh.wikipedia.org/wiki/我的女友叫小薇4_之_瘋狂小清單 "wikilink") (Winkie)
-  - 8月14日: [幸運曲奇](https://zh.wikipedia.org/wiki/幸運曲奇 "wikilink") (Crystal)
-  - [小小花](https://zh.wikipedia.org/wiki/小小花 "wikilink") (Crystal)
+  - 1月6日：我的女友叫小薇4 之 瘋狂小清單 (Winkie)
+  - 8月14日: 幸運曲奇 (Crystal)
+  - 小小花 (Crystal)
 
-#### 電影配音
+### 電影配音
 
-2008年
+#### 2008年
 
-  - 7月10日： [Keroro軍曹大電影3天空大作戰](https://zh.wikipedia.org/wiki/Keroro軍曹_\(劇場版\)#超劇場版_Keroro軍曹_3 "wikilink")
-  - 10月1日： [風雲決](https://zh.wikipedia.org/wiki/風雲#動畫 "wikilink")
+  - 7月10日：《[Keroro軍曹大電影3天空大作戰](https://zh.wikipedia.org/wiki/Keroro軍曹_\(劇場版\)#超劇場版_Keroro軍曹_3 "wikilink")》
+  - 10月1日：《[風雲決](https://zh.wikipedia.org/wiki/風雲#動畫 "wikilink")》
 
-2009年
+#### 2009年
 
-  - 7月9日： [Keroro軍曹大電影4翻兜侏儸紀](https://zh.wikipedia.org/wiki/Keroro軍曹_\(劇場版\) "wikilink")
+  - 7月9日：《[Keroro軍曹大電影4翻兜侏儸紀](https://zh.wikipedia.org/wiki/Keroro軍曹_\(劇場版\) "wikilink")》
 
 ## 廣告代言
 

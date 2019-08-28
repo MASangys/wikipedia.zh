@@ -2,7 +2,7 @@
 
 遊戲中有獨特的「神鑰系統」，透過神鑰的養成及不同神鑰的搭配使用，同一種族[職業](../Page/職業.md "wikilink")也會走出完全不同的路線，並有很大量的任務及[怪物](../Page/怪物.md "wikilink")鑰匙收集等系統，玩法多樣化。[台灣是最後一個營運地區並已於](https://zh.wikipedia.org/wiki/台灣 "wikilink")2013年10月14日結束服務。
 
-[華義國際](../Page/華義國際.md "wikilink")於2016年下旬宣佈將可能於2017年末或2018年重推81keys，並加入AR/[VR元素](https://zh.wikipedia.org/wiki/VR "wikilink")。
+[華義國際](../Page/華義國際.md "wikilink")於2016年下半年宣佈將可能於2017年末或2018年重推81keys，並加入AR/[VR元素](https://zh.wikipedia.org/wiki/VR "wikilink")。
 
 ## 故事背景
 

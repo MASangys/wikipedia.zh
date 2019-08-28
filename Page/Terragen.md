@@ -27,6 +27,7 @@ Terragen 2使用由Digital Domain所開發的Engen技術來渲染，Engen同時�
   -
 
 
+
 [Category:三维图像软件](https://zh.wikipedia.org/wiki/Category:三维图像软件 "wikilink")
 
 1.

@@ -23,21 +23,21 @@ Perfume在演唱會和電視節目上的談話環節部分多數由西脇代表�
 <tbody>
 <tr class="odd">
 <td><p><br />
-（Nocchi）</p></td>
+（NOCCHi）</p></td>
 <td><p><a href="../Page/大本彩乃.md" title="wikilink">大本彩乃</a>（）<br />
 （）</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><br />
-（Kashiyuka）</p></td>
+（KASHIYUKA）</p></td>
 <td><p><a href="../Page/樫野有香.md" title="wikilink">樫野有香</a>（）<br />
 （）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><br />
-（A~chan）</p></td>
+（a~chan）</p></td>
 <td><p><a href="../Page/西脇綾香.md" title="wikilink">西脇綾香</a>（）<br />
 （）</p></td>
 <td></td>
@@ -86,23 +86,23 @@ Perfume在演唱會和電視節目上的談話環節部分多數由西脇代表�
 
 ### 2003年－2005年：東京・獨立唱片時代
 
-2003年春天，三人升到國中三年級後一同前往[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")，加入和廣島演藝學校有合作的藝能事務所[Amuse](../Page/Amuse.md "wikilink")，並成為Amuse旗下新人女性藝人培育計劃「」的一員，與其他新晉團體一同出席演唱會和表演活動，組合名字也從「」更改至直至目前使用中的英文名稱「Perfume」\[23\]。
+2003年春天，三人升到國中三年級後一同前往[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")，加入和廣島演藝學校有合作的藝能事務所[AMUSE](https://zh.wikipedia.org/wiki/AMUSE "wikilink")，並成為AMUSE旗下新人女性藝人培育計劃「BEE-HIVE」的一員，與其他新晉團體一同出席演唱會和表演活動，組合名字也從「」更改至直至目前使用中的英文名稱「Perfume」\[23\]。
 
-2003年8月，首張以「Perfume」名義發行的單曲《[Sweet Donuts](../Page/Sweet_Donuts.md "wikilink")》由BEE-HIVE唱片公司發行，唱片由電子音樂組合[capsule的製作人](https://zh.wikipedia.org/wiki/capsule "wikilink")[中田康貴](../Page/中田康貴.md "wikilink")負責音樂製作，音樂路線與廣島時代完全不同，改為將[流行電音](https://zh.wikipedia.org/wiki/流行電音 "wikilink")、[晶片音樂](https://zh.wikipedia.org/wiki/晶片音樂 "wikilink")、[秋葉澀谷系](../Page/秋葉澀谷系.md "wikilink")和一般的[J-POP風格混合而成](https://zh.wikipedia.org/wiki/J-POP "wikilink")。包括這張單曲在內，Perfume在此段時期發行的4張單曲當中所有歌曲皆由作詞\[24\]。
+2003年8月，首張以「Perfume」名義發行的單曲《[スウィートドーナッツ](../Page/Sweet_Donuts.md "wikilink")》由BEE-HIVE Records發行，唱片由電子音樂組合[CAPSULE的製作人](https://zh.wikipedia.org/wiki/capsule "wikilink")[中田ヤスタカ負責音樂製作](../Page/中田康貴.md "wikilink")，音樂路線與廣島時代完全不同，改為將[流行電音](https://zh.wikipedia.org/wiki/流行電音 "wikilink")、[晶片音樂](https://zh.wikipedia.org/wiki/晶片音樂 "wikilink")、[秋葉澀谷系](../Page/秋葉澀谷系.md "wikilink")和一般的[J-POP風格混合而成](https://zh.wikipedia.org/wiki/J-POP "wikilink")。包括這張單曲在內，Perfume在此段時期發行的4張單曲當中所有歌曲皆由木の子作詞\[24\]。
 
-從2004年的春天開始直到2005年的夏天，Perfume將活動範圍移動至[秋葉原](../Page/秋葉原.md "wikilink")\[25\] ，不時在街頭\[26\]和有「偶像登龍門」之稱的表演\[27\]，又在同年參加了「Cutie Pop Union '04 〜Summer〜」，挑戰以電子樂器[特雷門](../Page/特雷門.md "wikilink")及電子合成鼓、變聲效果器進行演奏。同年9月，發行新單曲《[Vitamin Drop](../Page/Vitamin_Drop.md "wikilink")》，並被[任天堂](../Page/任天堂.md "wikilink")選為[GBA遊戲](https://zh.wikipedia.org/wiki/GBA "wikilink")「」的廣告主題曲\[28\] 。
+從2004年的春天開始直到2005年的夏天，Perfume將活動範圍移動至[秋葉原](../Page/秋葉原.md "wikilink")\[25\] ，不時在街頭\[26\]和有「偶像登龍門」之稱的Sun Street亀戸表演\[27\]，又在同年參加了「Cutie Pop Union '04 〜Summer〜」，挑戰以電子樂器[特雷門](../Page/特雷門.md "wikilink")及電子合成鼓、變聲效果器進行演奏。同年9月，發行新單曲《[ビタミンドロップ](../Page/Vitamin_Drop.md "wikilink")》，並被[任天堂](../Page/任天堂.md "wikilink")選為[GBA遊戲](https://zh.wikipedia.org/wiki/GBA "wikilink")「伝説のスタフィー3」的廣告主題曲\[28\] 。
 
-2005年夏天，趁著參加「潑水大作戰\!2005」的機會，Perfume為「元祖秋葉原女王」[桃井晴子](../Page/桃井晴子.md "wikilink")的歌曲《Akihaba love》（）配音\[29\]，該曲其後更以音樂錄影帶的形式發行\[30\]。Perfume在此時開始有一段頗長的時間都被視為是[秋葉澀谷系](../Page/秋葉澀谷系.md "wikilink")偶像的一員，直至她們在2008年發行《[GAME](../Page/GAME_\(Perfume專輯\).md "wikilink")》，社會才對團體有所改觀\[31\]。
+2005年夏天，趁著參加「潑水大作戰\!2005」的機會，Perfume為「元祖秋葉原女王」[桃井晴子](../Page/桃井晴子.md "wikilink")的歌曲《AKIHABALOVE》（）配音\[29\]，該曲其後更以音樂錄影帶的形式發行\[30\]。Perfume在此時開始有一段頗長的時間都被視為是[秋葉澀谷系](../Page/秋葉澀谷系.md "wikilink")偶像的一員，直至她們在2008年發行《[GAME](../Page/GAME_\(Perfume專輯\).md "wikilink")》，社會才對團體有所改觀\[31\]。
 
 ### 2005年－2006年：主流出道
 
-2005年9月21日，Perfume發行首張主要媒體單曲《[Linear Motor Girl](../Page/Linear_Motor_Girl.md "wikilink")》，正式。
+2005年9月21日，Perfume發行首張主要媒體單曲《[リニアモーターガール](../Page/Linear_Motor_Girl.md "wikilink")》，正式。
 
-2006年1月11日，Perfume推出第2張單曲《[Computer City](../Page/Computer_City.md "wikilink")》，接著在短短5個月後的6月28日推出了第3張單曲《[Electro World](../Page/Electro_World.md "wikilink")》。和地下時代色彩繽紛的衣服不同，三張單曲的音樂錄影帶開始改以黑色為基礎的服裝為主，《Linear Motor Girl》音樂錄影帶的題材也是從科幻電影「[第五元素](../Page/第五元素_\(電影\).md "wikilink")」中獲得靈感\[32\]，被歌迷合稱為「近未來三部曲」或「電音三部曲」，Perfume所屬的藝能事務所也開始將其標榜為「近未來型流行電音團體」，標誌著組合的正式轉型\[33\]。
+2006年1月11日，Perfume推出第2張單曲《[コンピューターシティ](../Page/Computer_City.md "wikilink")》，接著在短短5個月後的6月28日推出了第3張單曲《[エレクトロ・ワールド](../Page/Electro_World.md "wikilink")》。和地下時代色彩繽紛的衣服不同，三張單曲的音樂錄影帶開始改以黑色為基礎的服裝為主，《リニアモーターガール》音樂錄影帶的題材也是從科幻電影「[第五元素](../Page/第五元素_\(電影\).md "wikilink")」中獲得靈感\[32\]，被歌迷合稱為「近未來三部曲」或「電音三部曲」，Perfume所屬的藝能事務所也開始將其標榜為「近未來型流行電音團體」，標誌著組合的正式轉型\[33\]。
 
-2006年8月2日，Perfume首張專輯《[Perfume～Complete Best～](../Page/Perfume～Complete_Best～.md "wikilink")》發行，差不多收錄了之前推出過的全部單曲及當中的B面曲，因此也被視作一張[精選專輯](https://zh.wikipedia.org/wiki/精選專輯 "wikilink")，但專輯也包含一首新曲「Perfect Star, Perfect Style」（）\[34\] 。專輯在發售時限定推出一萬張，但銷量未如理想，僅售出4000張，排行[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")第66名\[35\]。一年後再發行時，銷售一舉突破十萬張，最高達到公信榜24位\[36\]，雙版本最後累計銷量近16萬張\[37\]。
+2006年8月2日，Perfume首張專輯《[Perfume \~Complete Best\~](../Page/Perfume～Complete_Best～.md "wikilink")》發行，差不多收錄了之前推出過的全部單曲及當中的B面曲，因此也被視作一張[精選專輯](https://zh.wikipedia.org/wiki/精選專輯 "wikilink")，但專輯也包含一首新曲「パーフェクトスター・パーフェクトスタイル」\[34\] 。專輯在發售時限定推出一萬張，但銷量未如理想，僅售出4000張，排行[ORICON第](../Page/Oricon公信榜.md "wikilink")66名\[35\]。但一年後再發行時，銷售一舉突破十萬張，最高達到ORICON 24位\[36\]，雙版本最後累計銷量近16萬張\[37\]。
 
-同年12月20日，Perfume推出網絡配信下載限定聖誕歌曲《[Twinkle Snow Powdery Snow](../Page/Fan_Service［sweet］.md "wikilink")》，並在Windows Media音樂服務中連續5天下載量排名第一位，其後更有支持者在[YouTube](../Page/YouTube.md "wikilink")等網站上載相關影片，吸引大量網民觀看，令三人意料不及\[38\]。
+同年12月20日，Perfume推出網絡配信下載限定聖誕歌曲《[Twinkle Snow Powdery Snow](../Page/Fan_Service［sweet］.md "wikilink")》，並在Windows Media音樂服務mora win中連續5天下載量排名第一位，其後更有支持者在[YouTube](../Page/YouTube.md "wikilink")等網站上載相關影片，吸引大量網民觀看，令三人意料不及\[38\]。
 
 ### 2007年：成名作《Polyrhythm》
 
@@ -608,11 +608,11 @@ Perfume的樂迷層面廣泛，包括喜歡[Club系音樂及](../Page/迪斯科.
 <tbody>
 <tr class="odd">
 <td><p>2008年5月4日－2008年6月1日</p></td>
-<td><p><a href="../Page/Perfume_First_Tour_『GAME』.md" title="wikilink">Perfume First Tour「GAME」</a></p></td>
+<td><p><a href="../Page/Perfume_First_Tour_『GAME』.md" title="wikilink">Perfume First Tour 「GAME」</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2009年10月15日－2009年10月30日</p></td>
-<td><p><a href="../Page/Perfume_Second_Tour_2009『直角二等邊三角形TOUR』.md" title="wikilink">Perfume Second Tour 2009 「直角二等邊三角形TOUR」</a></p></td>
+<td><p><a href="../Page/Perfume_Second_Tour_2009『直角二等邊三角形TOUR』.md" title="wikilink">Perfume Second Tour 2009 「直角二等辺三角形TOUR」</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2010年3月7日－2010年4月3日</p></td>
@@ -624,12 +624,12 @@ Perfume的樂迷層面廣泛，包括喜歡[Club系音樂及](../Page/迪斯科.
 </tr>
 <tr class="odd">
 <td><p>2013年5月29日－2013年6月18日</p></td>
-<td><p>「一直喜歡你~放浪麵疙瘩」（）Perfume FES</p></td>
+<td><p>ずっと好きだったんじゃけぇ～さすらいの麺カタ Perfume FES</p></td>
 </tr>
 <tr class="even">
 <td><p>2013年12月7日－2013年12月8日<br />
 2013年12月24日－2013年12月25日</p></td>
-<td><p><a href="../Page/Perfume_4th_Tour_in_DOME『LEVEL3』.md" title="wikilink">Perfume 4th Tour in DOME『LEVEL3』</a></p></td>
+<td><p><a href="../Page/Perfume_4th_Tour_in_DOME『LEVEL3』.md" title="wikilink">Perfume 4th Tour in DOME 「LEVEL3」</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2014年3月15日－2014年4月20日</p></td>
@@ -637,15 +637,15 @@ Perfume的樂迷層面廣泛，包括喜歡[Club系音樂及](../Page/迪斯科.
 </tr>
 <tr class="even">
 <td><p>2014年8月1日－2014年9月21日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Perfume_5th_Tour_2014『轉轉轉』" title="wikilink">Perfume 5th Tour 2014『轉轉轉』</a> （Perfume 5th Tour 2014「」）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Perfume_5th_Tour_2014『轉轉轉』" title="wikilink">Perfume 5th Tour 2014「ぐるんぐるん」</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>2015年9月21日－2015年10月7日</p></td>
-<td><p><strong></strong></p></td>
+<td><p>Perfume Anniversary 10days 2015 PPPPPPPPPP 「LIVE 3:5:6:9」</p></td>
 </tr>
 <tr class="even">
 <td><p>2016年5月3日－2016年11月12日</p></td>
-<td><p><strong></strong></p></td>
+<td><p>Perfume 6th Tour 2016 「COSMIC EXPLORER」</p></td>
 </tr>
 <tr class="odd">
 <td><p>2017年6月2日－2017年9月14日</p></td>
@@ -653,11 +653,11 @@ Perfume的樂迷層面廣泛，包括喜歡[Club系音樂及](../Page/迪斯科.
 </tr>
 <tr class="even">
 <td><p>2018年2月14日-5月24日</p></td>
-<td><p>「P.T.A.発足10周年</p></td>
+<td><p>P.T.A.発足10周年</p></td>
 </tr>
 <tr class="odd">
 <td><p>2018年 9月21日 -2018年12月24日</p></td>
-<td><p>Perfume 7th Tour 2018 「Future Pop」</p></td>
+<td><p>Perfume 7th Tour 2018 「FUTURE POP」</p></td>
 </tr>
 <tr class="even">
 <td><p>2019年3月6日-2019年3月7日</p></td>

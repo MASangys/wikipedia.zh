@@ -44,7 +44,7 @@
       - [康橋大廈](https://zh.wikipedia.org/wiki/康橋大廈 "wikilink")
       - [港島東中心](../Page/港島東中心.md "wikilink")
   - [朗豪坊](../Page/朗豪坊.md "wikilink")辦公大樓
-  - [太古廣場](../Page/太古廣場.md "wikilink")二座高層寫字樓，及三座
+  - [太古廣場](../Page/太古廣場.md "wikilink")三座
   - [交易廣場](../Page/交易廣場.md "wikilink")三期
   - [數碼港](../Page/數碼港.md "wikilink")
   - [環球貿易廣場](../Page/環球貿易廣場.md "wikilink")（採用PORT系統）
@@ -54,7 +54,6 @@
   - [百佳商業中心](https://zh.wikipedia.org/wiki/百佳商業中心 "wikilink")
   - [城東誌](../Page/城東誌.md "wikilink")
   - [置地廣場的](https://zh.wikipedia.org/wiki/置地廣場 "wikilink")[公爵大廈](../Page/公爵大廈.md "wikilink")、[約克大廈](../Page/約克大廈.md "wikilink")
-  - [信德中心](../Page/信德中心.md "wikilink")
   - [太子大廈](../Page/太子大廈.md "wikilink")
   - [歷山大廈](../Page/歷山大廈.md "wikilink")
   - [One Bay East](../Page/One_Bay_East.md "wikilink")（採用混合式顯示屏）

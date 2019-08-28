@@ -17,6 +17,7 @@
 `# 請注意 newaccountonly 在本地不再有效，請加入至`[`Special:滥用过滤器/194`](https://zh.wikipedia.org/wiki/Special:滥用过滤器/194 "wikilink")
 
 `#未整理`
+`^[^:]*((\d{1,3}\.){3}\d{1,3}|([0-9a-f]{1,4}:){7}[0-9a-f]{1,4}).* <autoconfirmed|errmsg=Titleblacklist-semiprotected>`
 `.*(國瑜|換瑜).* <autoconfirmed|errmsg=Titleblacklist-semiprotected> # 破壞`
 `.*王[則则]翠慈善基金.* <autoconfirmed|errmsg=Titleblacklist-semiprotected> # 持续绕过存废讨论删除决定`
 `.*邱士縉.* <errmsg=Titleblacklist-fullprotected> # 持續繞過存廢討論刪除決定`
@@ -347,6 +348,7 @@
 `Wikipedia:典範條目\/.* #請使用簡體 Wikipedia:典范条目`
 `Wikipedia:優良條目\/.* #請使用簡體 Wikipedia:优良条目`
 `Wikipedia:持续出没的破坏者.* <autoconfirmed|noedit|errmsg=Titleblacklist-semiprotected>`
+`Wikipedia:条目请求\/.* <autoconfirmed|noedit> # 未註冊使用者（IP使用者）或非自動確認用戶不得放置請求`
 
 `# prevent redundant namespace prefix during page move`
 `.*Special talk:.*`

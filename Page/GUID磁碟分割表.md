@@ -438,41 +438,74 @@ GPT分区表项的格式
 <tr class="even">
 <td><p><a href="../Page/ZFS.md" title="wikilink">ZFS</a>分区</p></td>
 <td><p><code>516E7CBA-6ECF-11D6-8FF8-00022D09712B</code> |-</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mac_OS_X" title="wikilink">Mac OS X</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/macOS" title="wikilink">macOS</a><br />
+<a href="https://zh.wikipedia.org/wiki/Darwin_(作業系統)" title="wikilink">Darwin</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/苹果公司" title="wikilink">苹果公司</a><a href="https://zh.wikipedia.org/wiki/UFS" title="wikilink">UFS</a></p></td>
-<td><p><code>55465300-0000-11AA-AA11-00306543ECAC</code></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/苹果公司" title="wikilink">Apple</a> <a href="https://zh.wikipedia.org/wiki/Unix_File_System" title="wikilink">UFS</a> 容器</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/APFS" title="wikilink">APFS</a> 卷宗容器<br />
+APFS 型 FileVault 卷宗容器</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="../Page/ZFS.md" title="wikilink">ZFS</a></p></td>
-<td><p><code>6A898CC3-1DD2-11B2-99A6-080020736631</code></p></td>
 <td></td>
-</tr>
-<tr class="odd">
-<td><p>苹果RAID分区</p></td>
-<td><p><code>52414944-0000-11AA-AA11-00306543ECAC</code></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>苹果RAID分区，下线</p></td>
-<td><p><code>52414944-5F4F-11AA-AA11-00306543ECAC</code></p></td>
+<td><p>Apple RAID 分区</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>苹果启动分区</p></td>
-<td><p><code>426F6F74-0000-11AA-AA11-00306543ECAC</code></p></td>
+<td><p>Apple RAID 离线分区</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Apple Label</p></td>
-<td><p><code>4C616265-6C00-11AA-AA11-00306543ECAC</code></p></td>
+<td><p>Apple 开机卷宗 (恢复模式)</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Apple TV恢复分区</p></td>
-<td><p><code>5265636F-7665-11AA-AA11-00306543ECAC</code> |-</p></td>
+<td><p>Apple 卷标</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Apple TV 恢复分区</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Apple Core Storage 卷宗容器<br />
+HFS+ 型 FileVault 卷宗容器</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>SoftRAID_Status</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>SoftRAID_Scratch</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>SoftRAID_Volume</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>SoftRAID_Cache</p></td>
+<td><p>|-</p></td>
 <td><p><a href="../Page/Solaris.md" title="wikilink">Solaris</a></p></td>
 </tr>
 <tr class="even">

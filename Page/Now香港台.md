@@ -18,92 +18,439 @@ now香港台部分自製節目於2011年2月9日開始陸續遷往「[now 101台
 
 now香港台是一條與[now寬頻電視其中一條頻道作同步預覽的頻道](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")，以下列表為不同時期的預覽內容。
 
-| 開始預覽時間      | 預覽頻道                                                                                    | 預覽次數 |
-| ----------- | --------------------------------------------------------------------------------------- | ---- |
-| 2016年3月19日  | [now觀星台](https://zh.wikipedia.org/wiki/now觀星台 "wikilink")                               | 1    |
-| 2016年4月9日   | [Oh\!K](https://zh.wikipedia.org/wiki/Oh!K_TV_ASlA "wikilink")                          |      |
-| 2016年5月1日   | [nowJelli](https://zh.wikipedia.org/wiki/nowJelli "wikilink")                           |      |
-| 2016年6月3日   | [tvN](https://zh.wikipedia.org/wiki/tvN_Asia "wikilink")                                |      |
-| 2016年7月1日   | [GEM](../Page/GEM_TV_ASIA.md "wikilink")                                                |      |
-| 2016年8月1日   | [now爆谷台](https://zh.wikipedia.org/wiki/now爆谷台 "wikilink")                               |      |
-| 2016年8月15日  | [衛視中文台](../Page/衛視中文台.md "wikilink")                                                    |      |
-| 2016年9月1日   | [RTL CBS Entertainment](https://zh.wikipedia.org/wiki/RTL_CBS_Entertainment "wikilink") |      |
-| 2016年10月1日  | [AXN](../Page/AXN.md "wikilink")                                                        |      |
-| 2016年11月1日  | [History HD](../Page/歷史頻道.md "wikilink")                                                |      |
-| 2016年12月1日  | [國家地理頻道](../Page/國家地理頻道.md "wikilink")                                                  |      |
-| 2016年12月16日 | [now觀星台](https://zh.wikipedia.org/wiki/now觀星台 "wikilink")                               | 2    |
-| 2017年1月1日   | [DIVA](../Page/Diva_\(電視網\).md "wikilink")                                              | 1    |
-| 2017年1月25日  | [nowJelli紫金國際台](https://zh.wikipedia.org/wiki/nowJelli紫金國際台 "wikilink")                 | 2    |
-| 2017年3月1日   | [BBC Earth](https://zh.wikipedia.org/wiki/BBC_Earth "wikilink")                         | 1    |
-| 2017年4月1日   | [now觀星台](https://zh.wikipedia.org/wiki/now觀星台 "wikilink")                               | 3    |
-| 2017年5月16日  | [Lifetime](https://zh.wikipedia.org/wiki/w:en:Lifetime_\(TV_network\) "wikilink")       | 1    |
-| 2017年6月16日  | [TLC旅遊生活頻道](../Page/TLC_\(電視頻道\).md "wikilink")                                         |      |
-| 2017年7月16日  | [KBS World](../Page/KBS_World.md "wikilink")                                            |      |
-| 2017年8月16日  | [RTL CBS Extreme](https://zh.wikipedia.org/wiki/RTL_CBS_Extreme "wikilink")             |      |
-| 2017年9月16日  | [now爆谷台](https://zh.wikipedia.org/wiki/now爆谷台 "wikilink")                               | 2    |
-| 2017年10月1日  | [TVBS Asia](../Page/TVBS-Asia.md "wikilink")                                            | 1    |
-| 2017年11月1日  | [華納電視頻道](../Page/華納電視頻道.md "wikilink")                                                  |      |
-| 2017年12月1日  | [BBC Lifestyle](https://zh.wikipedia.org/wiki/BBC_Lifestyle "wikilink")                 |      |
-| 2018年1月1日   | [索尼台](https://zh.wikipedia.org/wiki/索尼台 "wikilink")                                     |      |
-| 2018年2月1日   | [nowJelli紫金國際台](https://zh.wikipedia.org/wiki/nowJelli紫金國際台 "wikilink")                 | 3    |
-| 2018年3月1日   | [Asian Food Channel](https://zh.wikipedia.org/wiki/w:en:Asian_Food_Channel "wikilink")  | 1    |
-| 2018年4月1日   | [Discovery Channel](../Page/探索頻道.md "wikilink")                                         |      |
-| 2018年5月1日   | [nowJelli紫金國際台](https://zh.wikipedia.org/wiki/nowJelli紫金國際台 "wikilink")                 | 4    |
-| 2018年6月1日   | [衛視電影台](../Page/衛視電影台.md "wikilink")                                                    | 1    |
-| 2018年6月16日  | [FOX](../Page/FOX_\(亞洲\).md "wikilink")                                                 |      |
-| 2018年7月1日   | [FOX life](../Page/FOX_Life_\(亞洲\).md "wikilink")                                       |      |
-| 2018年7月15日  | [FOX Movies](../Page/FOX_Movies.md "wikilink")                                          |      |
-| 2018年8月1日   | [FOX Action Movies](https://zh.wikipedia.org/wiki/福斯動作電影頻道 "wikilink")                  |      |
-| 2018年8月15日  | [FOX Family Movies](https://zh.wikipedia.org/wiki/福斯家庭電影頻道 "wikilink")                  |      |
-| 2018年9月1日   | [Oh\!K](https://zh.wikipedia.org/wiki/Oh!K_TV_ASlA "wikilink")                          | 2    |
-| 2018年10月1日  | [AXN](../Page/AXN.md "wikilink")                                                        |      |
-| 2018年11月1日  | [GEM](../Page/GEM_TV_ASIA.md "wikilink")                                                |      |
-| 2018年12月1日  | [Cartoon Network](https://zh.wikipedia.org/wiki/Cartoon_Network "wikilink")             | 1    |
-| 2019年1月1日   | [華納電視頻道](../Page/華納電視頻道.md "wikilink")                                                  | 2    |
-| 2019年2月1日   | [nowJelli紫金國際台](https://zh.wikipedia.org/wiki/nowJelli紫金國際台 "wikilink")                 | 5    |
-| 2019年4月1日   | [Disney Channel](../Page/迪士尼頻道.md "wikilink")                                           | 1    |
-| 2019年4月16日  | [Disney Junior](https://zh.wikipedia.org/wiki/w:en:Disney_Junior_\(Asia\) "wikilink")   |      |
-| 2019年5月1日   | [Food Network](https://zh.wikipedia.org/wiki/w:en:Food_Network "wikilink")              |      |
-| 2019年6月1日   | [BLUE ANT Entertainment](../Page/BLUE_ANT_Entertainment.md "wikilink")                  | 2    |
-| 2019年7月1日   | [Da Vinci](https://zh.wikipedia.org/wiki/w:en:Da_Vinci_Learning "wikilink")             | 1    |
-| 2019年8月1日   | [Asian Food Channel](https://zh.wikipedia.org/wiki/w:en:Asian_Food_Channel "wikilink")  | 2    |
-|             |                                                                                         |      |
+<table>
+<thead>
+<tr class="header">
+<th><p>開始預覽時間</p></th>
+<th><p>預覽頻道</p></th>
+<th><p>預覽次數</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2016年3月19日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/now觀星台" title="wikilink">now觀星台</a></p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="even">
+<td><p>2016年4月9日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Oh!K_TV_ASlA" title="wikilink">Oh!K</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2016年5月1日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/nowJelli" title="wikilink">nowJelli</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2016年6月3日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/tvN_Asia" title="wikilink">tvN</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2016年7月1日</p></td>
+<td><p><a href="../Page/GEM_TV_ASIA.md" title="wikilink">GEM</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2016年8月1日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/now爆谷台" title="wikilink">now爆谷台</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2016年8月15日</p></td>
+<td><p><a href="../Page/衛視中文台.md" title="wikilink">衛視中文台</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2016年9月1日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/RTL_CBS_Entertainment" title="wikilink">RTL CBS Entertainment</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2016年10月1日</p></td>
+<td><p><a href="../Page/AXN.md" title="wikilink">AXN</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2016年11月1日</p></td>
+<td><p><a href="../Page/歷史頻道.md" title="wikilink">History HD</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2016年12月1日</p></td>
+<td><p><a href="../Page/國家地理頻道.md" title="wikilink">國家地理頻道</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2016年12月16日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/now觀星台" title="wikilink">now觀星台</a></p></td>
+<td><p>2</p></td>
+</tr>
+<tr class="odd">
+<td><p>2017年1月1日</p></td>
+<td><p><a href="../Page/Diva_(電視網).md" title="wikilink">DIVA</a></p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="even">
+<td><p>2017年1月25日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/nowJelli紫金國際台" title="wikilink">nowJelli紫金國際台</a></p></td>
+<td><p>2</p></td>
+</tr>
+<tr class="odd">
+<td><p>2017年3月1日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BBC_Earth" title="wikilink">BBC Earth</a></p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="even">
+<td><p>2017年4月1日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/now觀星台" title="wikilink">now觀星台</a></p></td>
+<td><p>3</p></td>
+</tr>
+<tr class="odd">
+<td><p>2017年5月16日</p></td>
+<td></td>
+<td><p>1</p></td>
+</tr>
+<tr class="even">
+<td><p>2017年6月16日</p></td>
+<td><p><a href="../Page/TLC_(電視頻道).md" title="wikilink">TLC旅遊生活頻道</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2017年7月16日</p></td>
+<td><p><a href="../Page/KBS_World.md" title="wikilink">KBS World</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2017年8月16日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/RTL_CBS_Extreme" title="wikilink">RTL CBS Extreme</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2017年9月16日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/now爆谷台" title="wikilink">now爆谷台</a></p></td>
+<td><p>2</p></td>
+</tr>
+<tr class="even">
+<td><p>2017年10月1日</p></td>
+<td><p><a href="../Page/TVBS-Asia.md" title="wikilink">TVBS Asia</a></p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="odd">
+<td><p>2017年11月1日</p></td>
+<td><p><a href="../Page/華納電視頻道.md" title="wikilink">華納電視頻道</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2017年12月1日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BBC_Lifestyle" title="wikilink">BBC Lifestyle</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2018年1月1日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/索尼台" title="wikilink">索尼台</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2018年2月1日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/nowJelli紫金國際台" title="wikilink">nowJelli紫金國際台</a></p></td>
+<td><p>3</p></td>
+</tr>
+<tr class="odd">
+<td><p>2018年3月1日</p></td>
+<td></td>
+<td><p>1</p></td>
+</tr>
+<tr class="even">
+<td><p>2018年4月1日</p></td>
+<td><p><a href="../Page/探索頻道.md" title="wikilink">Discovery Channel</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2018年5月1日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/nowJelli紫金國際台" title="wikilink">nowJelli紫金國際台</a></p></td>
+<td><p>4</p></td>
+</tr>
+<tr class="even">
+<td><p>2018年6月1日</p></td>
+<td><p><a href="../Page/衛視電影台.md" title="wikilink">衛視電影台</a></p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="odd">
+<td><p>2018年6月16日</p></td>
+<td><p><a href="../Page/FOX_(亞洲).md" title="wikilink">FOX</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2018年7月1日</p></td>
+<td><p><a href="../Page/FOX_Life_(亞洲).md" title="wikilink">FOX life</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2018年7月15日</p></td>
+<td><p><a href="../Page/FOX_Movies.md" title="wikilink">FOX Movies</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2018年8月1日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/福斯動作電影頻道" title="wikilink">FOX Action Movies</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2018年8月15日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/福斯家庭電影頻道" title="wikilink">FOX Family Movies</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2018年9月1日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Oh!K_TV_ASlA" title="wikilink">Oh!K</a></p></td>
+<td><p>2</p></td>
+</tr>
+<tr class="odd">
+<td><p>2018年10月1日</p></td>
+<td><p><a href="../Page/AXN.md" title="wikilink">AXN</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2018年11月1日</p></td>
+<td><p><a href="../Page/GEM_TV_ASIA.md" title="wikilink">GEM</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2018年12月1日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Cartoon_Network" title="wikilink">Cartoon Network</a></p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年1月1日</p></td>
+<td><p><a href="../Page/華納電視頻道.md" title="wikilink">華納電視頻道</a></p></td>
+<td><p>2</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019年2月1日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/nowJelli紫金國際台" title="wikilink">nowJelli紫金國際台</a></p></td>
+<td><p>5</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年4月1日</p></td>
+<td><p><a href="../Page/迪士尼頻道.md" title="wikilink">Disney Channel</a></p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019年4月16日</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年5月1日</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年6月1日</p></td>
+<td><p><a href="../Page/BLUE_ANT_Entertainment.md" title="wikilink">BLUE ANT Entertainment</a></p></td>
+<td><p>2</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年7月1日</p></td>
+<td></td>
+<td><p>1</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019年8月1日</p></td>
+<td></td>
+<td><p>2</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
-| 預覽頻道號碼 | 預覽頻道                                                                                   | 預覽次數 |
-| ------ | -------------------------------------------------------------------------------------- | ---- |
-| 102    | [now劇集台](https://zh.wikipedia.org/wiki/now劇集台 "wikilink")（前身now觀星台）                    | 3    |
-| 108    | [nowJelli紫金國際台](https://zh.wikipedia.org/wiki/nowJelli紫金國際台 "wikilink")（前身nowJelli）    | 5    |
-| 133    | [now爆谷台](https://zh.wikipedia.org/wiki/now爆谷台 "wikilink")                              | 2    |
-| 151    | [GEM](../Page/GEM_TV_ASIA.md "wikilink")                                               |      |
-| 154    | [Oh\!K](https://zh.wikipedia.org/wiki/Oh!K_TV_ASlA "wikilink")                         |      |
-| 209    | [Discovery Channel](../Page/探索頻道.md "wikilink")                                        |      |
-| 510    | [華納電視頻道](../Page/華納電視頻道.md "wikilink")                                                 |      |
-| 512    | [AXN](../Page/AXN.md "wikilink")                                                       |      |
-| 517    | [BLUE ANT Entertainment](../Page/BLUE_ANT_Entertainment.md "wikilink")                 |      |
-| 526    | [Asian Food Network](https://zh.wikipedia.org/wiki/w:en:Asian_Food_Network "wikilink") |      |
-| 117    | [FOX Movies](../Page/FOX_Movies.md "wikilink")                                         | 1    |
-| 118    | [FOX Action Movies](https://zh.wikipedia.org/wiki/福斯動作電影頻道 "wikilink")                 |      |
-| 120    | [FOX Family Movies](https://zh.wikipedia.org/wiki/福斯家庭電影頻道 "wikilink")                 |      |
-| 139    | [衛視電影台](../Page/衛視電影台.md "wikilink")                                                   |      |
-| 155    | [tvN](https://zh.wikipedia.org/wiki/tvN_Asia "wikilink")                               |      |
-| 156    | [KBS World](../Page/KBS_World.md "wikilink")                                           |      |
-| 160    | [衛視中文台](../Page/衛視中文台.md "wikilink")                                                   |      |
-| 163    | [TVBS Asia](../Page/TVBS-Asia.md "wikilink")                                           |      |
-| 213    | [TLC旅遊生活頻道](../Page/TLC_\(電視頻道\).md "wikilink")                                        |      |
-| 215    | [國家地理頻道](../Page/國家地理頻道.md "wikilink")                                                 |      |
-| 220    | [BBC Earth](https://zh.wikipedia.org/wiki/BBC_Earth "wikilink")                        |      |
-| 225    | [History HD](../Page/歷史頻道.md "wikilink")                                               |      |
-| 441    | [Disney Channel](../Page/迪士尼頻道.md "wikilink")                                          |      |
-| 442    | [Disney Junior](https://zh.wikipedia.org/wiki/w:en:Disney_Junior_\(Asia\) "wikilink")  |      |
-| 443    | [Cartoon Network](https://zh.wikipedia.org/wiki/Cartoon_Network "wikilink")            |      |
-| 460    | [Da Vinci](https://zh.wikipedia.org/wiki/w:en:Da_Vinci_Learning "wikilink")            |      |
-| 502    | [BBC Lifestyle](https://zh.wikipedia.org/wiki/BBC_Lifestyle "wikilink")                |      |
-| 508    | [DIVA](../Page/Diva_\(電視網\).md "wikilink")                                             |      |
-| 514    | [索尼台](https://zh.wikipedia.org/wiki/索尼台 "wikilink")                                    |      |
-| 516    | [BLUE ANT Extreme](../Page/BLUE_ANT_Extreme.md "wikilink")                             |      |
-| 518    | [FOX](../Page/FOX_\(亞洲\).md "wikilink")                                                |      |
-| 521    | [FOX life](../Page/FOX_Life_\(亞洲\).md "wikilink")                                      |      |
-| 525    | [Lifetime](https://zh.wikipedia.org/wiki/w:en:Lifetime_\(TV_network\) "wikilink")      |      |
+<table>
+<thead>
+<tr class="header">
+<th><p>預覽頻道號碼</p></th>
+<th><p>預覽頻道</p></th>
+<th><p>預覽次數</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>102</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/now劇集台" title="wikilink">now劇集台</a>（前身now觀星台）</p></td>
+<td><p>3</p></td>
+</tr>
+<tr class="even">
+<td><p>108</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/nowJelli紫金國際台" title="wikilink">nowJelli紫金國際台</a>（前身nowJelli）</p></td>
+<td><p>5</p></td>
+</tr>
+<tr class="odd">
+<td><p>133</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/now爆谷台" title="wikilink">now爆谷台</a></p></td>
+<td><p>2</p></td>
+</tr>
+<tr class="even">
+<td><p>151</p></td>
+<td><p><a href="../Page/GEM_TV_ASIA.md" title="wikilink">GEM</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>154</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Oh!K_TV_ASlA" title="wikilink">Oh!K</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>209</p></td>
+<td><p><a href="../Page/探索頻道.md" title="wikilink">Discovery Channel</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>510</p></td>
+<td><p><a href="../Page/華納電視頻道.md" title="wikilink">華納電視頻道</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>512</p></td>
+<td><p><a href="../Page/AXN.md" title="wikilink">AXN</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>517</p></td>
+<td><p><a href="../Page/BLUE_ANT_Entertainment.md" title="wikilink">BLUE ANT Entertainment</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>526</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>527</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>117</p></td>
+<td><p><a href="../Page/FOX_Movies.md" title="wikilink">FOX Movies</a></p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="odd">
+<td><p>118</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/福斯動作電影頻道" title="wikilink">FOX Action Movies</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>120</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/福斯家庭電影頻道" title="wikilink">FOX Family Movies</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>139</p></td>
+<td><p><a href="../Page/衛視電影台.md" title="wikilink">衛視電影台</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>155</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/tvN_Asia" title="wikilink">tvN</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>156</p></td>
+<td><p><a href="../Page/KBS_World.md" title="wikilink">KBS World</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>160</p></td>
+<td><p><a href="../Page/衛視中文台.md" title="wikilink">衛視中文台</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>163</p></td>
+<td><p><a href="../Page/TVBS-Asia.md" title="wikilink">TVBS Asia</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>213</p></td>
+<td><p><a href="../Page/TLC_(電視頻道).md" title="wikilink">TLC旅遊生活頻道</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>215</p></td>
+<td><p><a href="../Page/國家地理頻道.md" title="wikilink">國家地理頻道</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>220</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BBC_Earth" title="wikilink">BBC Earth</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>225</p></td>
+<td><p><a href="../Page/歷史頻道.md" title="wikilink">History HD</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>441</p></td>
+<td><p><a href="../Page/迪士尼頻道.md" title="wikilink">Disney Channel</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>442</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>443</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Cartoon_Network" title="wikilink">Cartoon Network</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>460</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>502</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BBC_Lifestyle" title="wikilink">BBC Lifestyle</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>508</p></td>
+<td><p><a href="../Page/Diva_(電視網).md" title="wikilink">DIVA</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>514</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/索尼台" title="wikilink">索尼台</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>516</p></td>
+<td><p><a href="../Page/BLUE_ANT_Extreme.md" title="wikilink">BLUE ANT Extreme</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>518</p></td>
+<td><p><a href="../Page/FOX_(亞洲).md" title="wikilink">FOX</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>521</p></td>
+<td><p><a href="../Page/FOX_Life_(亞洲).md" title="wikilink">FOX life</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>525</p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ### 稍後預覽頻道
 

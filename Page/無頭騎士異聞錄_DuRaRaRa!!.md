@@ -119,7 +119,7 @@ DOLLARS瓦解後過了一年半，一波新浪潮又將襲捲池袋。
 <td><p>發售日期</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
+<td><p>ISBN</p></td>
 </tr>
 <tr class="even">
 <td><p>無頭騎士異聞錄 DuRaRaRa!-{}-!</p></td>
@@ -206,84 +206,105 @@ DOLLARS瓦解後過了一年半，一波新浪潮又將襲捲池袋。
 <td><p>2014年8月14日</p></td>
 </tr>
 <tr class="even">
-<td><p>無頭騎士異聞錄 DuRaRaRa!-{}-! SH</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1</p></td>
-<td><p>2014年4月10日</p></td>
-<td><p>ISBN 978-4-04-866486-8</p></td>
-<td><p>2015年4月28日</p></td>
-</tr>
-<tr class="even">
-<td><p>2</p></td>
-<td><p>2014年10月10日</p></td>
-<td><p>ISBN 978-4-04-869008-9</p></td>
-<td><p>2016年7月27日</p></td>
-</tr>
-<tr class="odd">
-<td><p>3</p></td>
-<td><p>2015年1月10日</p></td>
-<td><p>ISBN 978-4-04-869169-7</p></td>
-<td><p>2017年4月19日</p></td>
-</tr>
-<tr class="even">
-<td><p>4</p></td>
-<td><p>2016年2月10日</p></td>
-<td><p>ISBN 978-4-04-865666-5</p></td>
-<td><p>2018年4月9日</p></td>
-</tr>
-<tr class="odd">
-<td><p>無頭騎士異聞錄 DuRaRaRa!-{}-! 外傳!?</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1</p></td>
+<td><p>外傳</p></td>
 <td><p>2014年8月9日</p></td>
 <td><p>ISBN 978-4-04-866830-9</p></td>
 <td><p>2015年10月22日</p></td>
 </tr>
 <tr class="odd">
-<td><p>與折原臨也系列</p></td>
+<td><p>無頭騎士異聞錄 DuRaRaRa!-{}-! SH</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>
-<td><p>2015年7月10日</p></td>
-<td><p>ISBN 978-4-04-865243-8</p></td>
-<td><p>2016年10月20日</p></td>
+<td><p>2014年4月10日</p></td>
+<td><p>ISBN 978-4-04-866486-8</p></td>
+<td><p>2015年4月28日</p></td>
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
+<td><p>2014年10月10日</p></td>
+<td><p>ISBN 978-4-04-869008-9</p></td>
+<td><p>2016年7月27日</p></td>
+</tr>
+<tr class="even">
+<td><p>3</p></td>
+<td><p>2015年1月10日</p></td>
+<td><p>ISBN 978-4-04-869169-7</p></td>
+<td><p>2017年4月19日</p></td>
+</tr>
+<tr class="odd">
+<td><p>4</p></td>
+<td><p>2016年2月10日</p></td>
+<td><p>ISBN 978-4-04-865666-5</p></td>
+<td><p>2018年4月9日</p></td>
+</tr>
+<tr class="even">
+<td><p>無頭騎士異聞錄 DuRaRaRa!×<a href="https://zh.wikipedia.org/wiki/博多豚骨拉麵團" title="wikilink">博多豚骨拉麵團</a>（合作）</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>2016年10月8日</p></td>
+<td><p>ISBN 978-4-04-892406-1</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+  - 與折原臨也系列
+
+<table>
+<thead>
+<tr class="header">
+<th><p>日文標題</p></th>
+<th><p>中文標題</p></th>
+<th><p>ASCII Media Works</p></th>
+<th><p>台灣角川</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>發售日期</p></td>
+<td><p>ISBN</p></td>
+<td><p>發售日期</p></td>
+<td><p>ISBN</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>與折原臨也共度黃昏</p></td>
+<td><p>2015年7月10日</p></td>
+<td><p>ISBN 978-4-04-865243-8</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>與折原臨也一同喝采</p></td>
 <td><p>2016年10月8日</p></td>
 <td><p>ISBN 978-4-04-892407-8</p></td>
-<td><p>2017年</p></td>
 </tr>
 </tbody>
 </table>
 
 ### 漫畫
 
-作畫：茶鳥木明代《**無頭騎士異聞錄 DuRaRaRa\!\!**》
+《**無頭騎士異聞錄 DuRaRaRa\!\!**》作畫：茶鳥木明代（全4卷）
 
 <table>
 <thead>
 <tr class="header">
 <th><p>卷數</p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/史克威爾艾尼克斯" title="wikilink">史克威爾艾尼克斯</a></p></th>
-<th><p><a href="../Page/台灣角川.md" title="wikilink">台灣角川</a></p></th>
+<th><p>台灣角川</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
+<td><p>ISBN</p></td>
 <td><p>發售日期</p></td>
 </tr>
 <tr class="even">
@@ -314,20 +335,20 @@ DOLLARS瓦解後過了一年半，一波新浪潮又將襲捲池袋。
 </tbody>
 </table>
 
-作畫：茶鳥木明代《**無頭騎士異聞錄 DuRaRaRa\!\! 罪歌篇**》
+《**無頭騎士異聞錄 DuRaRaRa\!\! 罪歌篇**》作畫：茶鳥木明代（全3卷）
 
 <table>
 <thead>
 <tr class="header">
 <th><p>卷數</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/史克威爾艾尼克斯" title="wikilink">史克威爾艾尼克斯</a></p></th>
-<th><p><a href="../Page/台灣角川.md" title="wikilink">台灣角川</a></p></th>
+<th><p>史克威爾艾尼克斯</p></th>
+<th><p>台灣角川</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
+<td><p>ISBN</p></td>
 <td><p>發售日期</p></td>
 </tr>
 <tr class="even">
@@ -353,19 +374,19 @@ DOLLARS瓦解後過了一年半，一波新浪潮又將襲捲池袋。
 </tbody>
 </table>
 
-作畫：茶鳥木明代《**無頭騎士異聞錄 DuRaRaRa\!\! 黃巾賊篇**》
+《**無頭騎士異聞錄 DuRaRaRa\!\! 黃巾賊篇**》作畫：茶鳥木明代（全3卷）
 
 <table>
 <thead>
 <tr class="header">
 <th><p>卷數</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/史克威爾艾尼克斯" title="wikilink">史克威爾艾尼克斯</a></p></th>
+<th><p>史克威爾艾尼克斯</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
+<td><p>ISBN</p></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>
@@ -382,19 +403,52 @@ DOLLARS瓦解後過了一年半，一波新浪潮又將襲捲池袋。
 </tbody>
 </table>
 
-作畫：《》
+《》作畫：（共4卷）
 
 <table>
 <thead>
 <tr class="header">
 <th><p>卷數</p></th>
-<th><p><a href="../Page/ASCII_Media_Works.md" title="wikilink">ASCII Media Works</a></p></th>
+<th><p>史克威爾艾尼克斯</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
+<td><p>ISBN</p></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td><p>2015年7月10日</p></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+<td><p>2016年2月10日</p></td>
+</tr>
+<tr class="even">
+<td><p>3</p></td>
+<td><p>2016年10月27日</p></td>
+</tr>
+<tr class="odd">
+<td><p>4</p></td>
+<td><p>2017年9月27日</p></td>
+</tr>
+</tbody>
+</table>
+
+《》作畫：（全2卷）
+
+<table>
+<thead>
+<tr class="header">
+<th><p>卷數</p></th>
+<th><p><a href="../Page/KADOKAWA.md" title="wikilink">KADOKAWA</a></p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>發售日期</p></td>
+<td><p>ISBN</p></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>
@@ -407,20 +461,20 @@ DOLLARS瓦解後過了一年半，一波新浪潮又將襲捲池袋。
 </tbody>
 </table>
 
-作畫：梅津葉子《**迷你無頭騎士異聞錄**》（）
+《**迷你無頭騎士異聞錄**》（）作畫：梅津葉子（全4卷）
 
 <table>
 <thead>
 <tr class="header">
 <th><p>卷數</p></th>
-<th><p><a href="../Page/ASCII_Media_Works.md" title="wikilink">ASCII Media Works</a></p></th>
+<th><p>KADOKAWA</p></th>
 <th><p><a href="../Page/東立出版社.md" title="wikilink">東立出版社</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
+<td><p>ISBN</p></td>
 <td><p>發售日期</p></td>
 </tr>
 <tr class="even">
@@ -438,56 +492,40 @@ DOLLARS瓦解後過了一年半，一波新浪潮又將襲捲池袋。
 <td><p>2015年7月10日</p></td>
 <td><p>ISBN 978-4-04-865314-5</p></td>
 </tr>
+<tr class="odd">
+<td><p>4</p></td>
+<td><p>2016年1月9日</p></td>
+<td><p>ISBN 978-4-04-865636-8</p></td>
+</tr>
 </tbody>
 </table>
 
-作畫：《》
+《》作畫：（共2卷）
 
 <table>
 <thead>
 <tr class="header">
 <th><p>卷數</p></th>
-<th><p><a href="../Page/ASCII_Media_Works.md" title="wikilink">ASCII Media Works</a></p></th>
+<th><p>KADOKAWA</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
+<td><p>ISBN</p></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>
 <td><p>2015年3月20日</p></td>
 </tr>
-</tbody>
-</table>
-
-作畫：《》
-
-<table>
-<thead>
-<tr class="header">
-<th><p>卷數</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/史克威爾艾尼克斯" title="wikilink">史克威爾艾尼克斯</a></p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>發售日期</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
-</tr>
-<tr class="even">
-<td><p>1</p></td>
-<td><p>2015年7月10日</p></td>
-</tr>
 <tr class="odd">
 <td><p>2</p></td>
-<td><p>2016年2月10日</p></td>
+<td><p>2015年12月22日</p></td>
 </tr>
 </tbody>
 </table>
 
-### 其他
+  - 漫畫選集
 
 《》
 
@@ -495,13 +533,13 @@ DOLLARS瓦解後過了一年半，一波新浪潮又將襲捲池袋。
 <thead>
 <tr class="header">
 <th><p>卷數</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/史克威爾艾尼克斯" title="wikilink">史克威爾艾尼克斯</a></p></th>
+<th><p>史克威爾艾尼克斯</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
+<td><p>ISBN</p></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>

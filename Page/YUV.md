@@ -50,7 +50,7 @@ YUV Formats分成兩個格式：
 
 YUV與RGB的轉換公式：
 
-U和V元件可以被表示成原始的R、G，和B:
+U和V元件可以被表示成原始的R，G，和B（R，G，B为γ预校正后的）:
 
 \(\begin{array}{rll}
 Y &= 0.299 * R + 0.587 * G + 0.114 * B \\

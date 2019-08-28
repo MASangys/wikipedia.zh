@@ -2,7 +2,7 @@
 
 ## 發展歷史
 
-在MEIKO前，VOCALOID已推出LEON和LOLA，但成績欠佳。當時CRYPTON認為，如果製品包裝設計為動畫風格則可以吸引不止電子音樂製作的客戶層，於是把包裝設計為一個「手握麥克風、有朝氣的女孩」。雖然因當時的大多職業音樂製作人認為VOCALOID的發音不自然，專業的雜誌也幾乎沒有介紹，但吸引了非常多的業餘製作者。發售首年售出3000套，在業界中是個優異的成績\[4\]\[5\]，截至2007年10月23日，軟件共售出4000套\[6\]，至2009年10月27日共售出約5000套\[7\]。2006年2月，同公司發售同系列的軟件[KAITO](https://zh.wikipedia.org/wiki/KAITO "wikilink")。2007年下旬，CRYPTON發售下一代的同類型軟件[初音未來](../Page/初音未來.md "wikilink")，並爆發熱潮，間接令MEIKO重新引起注意。其後成為[四格漫畫](../Page/四格漫畫.md "wikilink")《[小初音未來的日常](../Page/小初音未來的日常.md "wikilink")》的主角之一。2008年1月20日，更在[PlayStation 3免費小遊戲](../Page/PlayStation_3.md "wikilink")《》的情報單元《》中出現以MEIKO主唱，初音未來伴唱的歌曲\[8\]。同年7月25日發表預定於[C74發售](../Page/Comic_Market.md "wikilink")，收錄初音未來、鏡音鈴、連、MEIKO、[KAITO的五首原創曲](https://zh.wikipedia.org/wiki/KAITO "wikilink")，是初次包含MEIKO的非同人CD\[9\]。
+在MEIKO前，VOCALOID已推出LEON和LOLA，但成績欠佳。當時CRYPTON認為，如果製品包裝設計為動畫風格則可以吸引不止電子音樂製作的客戶層，於是把包裝設計為一個「手握麥克風、有朝氣的女孩」。雖然因當時的大多職業音樂製作人認為VOCALOID的發音不自然，專業的雜誌也幾乎沒有介紹，但吸引了非常多的業餘製作者。發售首年售出3000套，在業界中是個優異的成績\[4\]\[5\]，截至2007年10月23日，軟件共售出4000套\[6\]，至2009年10月27日共售出約5000套\[7\]。2006年2月，同公司發售同系列的軟件[KAITO](https://zh.wikipedia.org/wiki/KAITO "wikilink")。2007年下半年，CRYPTON發售下一代的同類型軟件[初音未來](../Page/初音未來.md "wikilink")，並爆發熱潮，間接令MEIKO重新引起注意。其後成為[四格漫畫](../Page/四格漫畫.md "wikilink")《[小初音未來的日常](../Page/小初音未來的日常.md "wikilink")》的主角之一。2008年1月20日，更在[PlayStation 3免費小遊戲](../Page/PlayStation_3.md "wikilink")《》的情報單元《》中出現以MEIKO主唱，初音未來伴唱的歌曲\[8\]。同年7月25日發表預定於[C74發售](../Page/Comic_Market.md "wikilink")，收錄初音未來、鏡音鈴、連、MEIKO、[KAITO的五首原創曲](https://zh.wikipedia.org/wiki/KAITO "wikilink")，是初次包含MEIKO的非同人CD\[9\]。
 
 ## 參見
 

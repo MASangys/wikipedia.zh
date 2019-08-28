@@ -502,7 +502,7 @@
 ## 光之美少女的用具
 
   - 和
-    用Pickrun打開Linkrun後變身為光之美少女。每個Pickrun有不同的功能。
+    用Pickrun打開Linkrun後變身為光之美少女。每個Pickrun有不同的功能, 還可以當普通手機來打電話聯絡。
 
 <!-- end list -->
 

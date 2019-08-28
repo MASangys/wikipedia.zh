@@ -1,4 +1,4 @@
-[Imperishable_Night.jpg](https://zh.wikipedia.org/wiki/File:Imperishable_Night.jpg "fig:Imperishable_Night.jpg") 是由[同人社团](https://zh.wikipedia.org/wiki/同人社团 "wikilink")[上海愛莉絲幻樂團](../Page/上海愛莉絲幻樂團.md "wikilink")製作的[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")，是[東方Project的第](https://zh.wikipedia.org/wiki/東方Project "wikilink")8作，亦是在[Windows系統上的第三作](https://zh.wikipedia.org/wiki/Windows "wikilink")。本作的體驗版於2004年4月18日第一次舉行的東方專題活動「博麗神社例大祭」上頒布，5月14日在網上開放下載。\[1\]8月15日（[Comic Market](../Page/Comic_Market.md "wikilink") 66）遊戲正式發售。各同人商店則在9月15日[中秋節開始委託販賣](https://zh.wikipedia.org/wiki/中秋節 "wikilink")。
+[Imperishable_Night.jpg](https://zh.wikipedia.org/wiki/File:Imperishable_Night.jpg "fig:Imperishable_Night.jpg") 是由[同人社团](https://zh.wikipedia.org/wiki/同人社团 "wikilink")[上海愛麗絲幻樂團製作的](https://zh.wikipedia.org/wiki/上海愛麗絲幻樂團 "wikilink")[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")，是[東方Project的第](https://zh.wikipedia.org/wiki/東方Project "wikilink")8作，亦是在[Windows系統上的第三作](https://zh.wikipedia.org/wiki/Windows "wikilink")。本作的體驗版於2004年4月18日第一次舉行的東方專題活動「博麗神社例大祭」上頒布，5月14日在網上開放下載。\[1\]8月15日（[Comic Market](../Page/Comic_Market.md "wikilink") 66）遊戲正式發售。各同人商店則在9月15日[中秋節開始委託販賣](https://zh.wikipedia.org/wiki/中秋節 "wikilink")。
 
 作品取材自《[竹取物語](../Page/竹取物語.md "wikilink")》。\[2\]本作與前作《[東方紅魔鄉 ～ the Embodiment of Scarlet Devil.](../Page/東方紅魔鄉_～_the_Embodiment_of_Scarlet_Devil..md "wikilink")》、《[東方妖妖夢 ～ Perfect Cherry Blossom.](../Page/東方妖妖夢_～_Perfect_Cherry_Blossom..md "wikilink")》合稱「三部曲」。\[3\]
 
@@ -34,7 +34,7 @@
 
 正當夏季要過去的時候，[幻想鄉](../Page/幻想鄉.md "wikilink")又再一次發生異變。本來在這一晚裏會出現[滿月](https://zh.wikipedia.org/wiki/滿月 "wikilink")，但是[月亮似乎因為某些事故以無法完整出現](../Page/月球.md "wikilink")。這情況對人類來說沒有甚麼特別，但對妖怪來說則是攸關生死的問題。
 
-在[幻想鄉](../Page/幻想鄉.md "wikilink")的境界棲息的妖怪[八雲紫察覺到這次異變的發生](https://zh.wikipedia.org/wiki/八雲紫 "wikilink")，因為自己一個人不方便行動，所以就邀請了博麗神社的[巫女](../Page/巫女.md "wikilink")[博麗靈夢](../Page/博麗靈夢.md "wikilink")一同出發解決異變；在魔法森林居住的魔法使[愛莉絲·瑪嘉托洛伊德看見沒有人要去解決異變之下](https://zh.wikipedia.org/wiki/愛莉絲·瑪嘉托洛伊德 "wikilink")，找來了同樣住在魔法森林的人類[霧雨魔理沙](../Page/霧雨魔理沙.md "wikilink")作為同伴出發；[紅魔館的主人](https://zh.wikipedia.org/wiki/紅魔鄉 "wikilink")[吸血鬼](../Page/吸血鬼.md "wikilink")[蕾米莉亞·斯卡蕾特](https://zh.wikipedia.org/wiki/蕾米莉亞·斯卡蕾特 "wikilink")，把家事交託給[十六夜咲夜後就自行出發了](https://zh.wikipedia.org/wiki/十六夜咲夜 "wikilink")。但最後咲夜還是跟上了蕾米莉亞一起行動；[白玉樓的主人亡靈](../Page/東方妖妖夢_～_Perfect_Cherry_Blossom..md "wikilink")[西行寺幽幽子則隨便地與](https://zh.wikipedia.org/wiki/西行寺幽幽子 "wikilink")[庭師](https://zh.wikipedia.org/wiki/庭師 "wikilink")[魂魄妖夢出外東西四走](https://zh.wikipedia.org/wiki/魂魄妖夢 "wikilink")。以一人一妖組成的四個組別，為了讓滿月能再次出現，於是在幻想鄉中四處巡迴。
+在[幻想鄉](../Page/幻想鄉.md "wikilink")的境界棲息的妖怪[八雲紫察覺到這次異變的發生](https://zh.wikipedia.org/wiki/八雲紫 "wikilink")，因為自己一個人不方便行動，所以就邀請了博麗神社的[巫女](../Page/巫女.md "wikilink")[博麗靈夢](../Page/博麗靈夢.md "wikilink")一同出發解決異變；在魔法森林居住的魔法使[愛麗絲·瑪格特洛伊德看見沒有人要去解決異變之下](https://zh.wikipedia.org/wiki/愛麗絲·瑪格特洛伊德 "wikilink")，找來了同樣住在魔法森林的人類[霧雨魔理沙](../Page/霧雨魔理沙.md "wikilink")作為同伴出發；[紅魔館的主人](https://zh.wikipedia.org/wiki/紅魔鄉 "wikilink")[吸血鬼](../Page/吸血鬼.md "wikilink")[蕾米莉亞·斯卡蕾特](https://zh.wikipedia.org/wiki/蕾米莉亞·斯卡蕾特 "wikilink")，把家事交託給[十六夜咲夜後就自行出發了](https://zh.wikipedia.org/wiki/十六夜咲夜 "wikilink")。但最後咲夜還是跟上了蕾米莉亞一起行動；[白玉樓的主人亡靈](../Page/東方妖妖夢_～_Perfect_Cherry_Blossom..md "wikilink")[西行寺幽幽子則隨便地與](https://zh.wikipedia.org/wiki/西行寺幽幽子 "wikilink")[庭師](https://zh.wikipedia.org/wiki/庭師 "wikilink")[魂魄妖夢出外東西四走](https://zh.wikipedia.org/wiki/魂魄妖夢 "wikilink")。以一人一妖組成的四個組別，為了讓滿月能再次出現，於是在幻想鄉中四處巡迴。
 
 在前進過程中，主角們首先擊退了攔路的螢火蟲妖怪莉格露·奈特巴格和夜雀妖怪蜜斯蒂亞·蘿蕾萊。路過人類村莊時，主角發現人類村莊消失了，原來是因為歷史和知識的半獸——上白澤慧音察覺到了異變，利用自身吞噬歷史程度的能力將人類村莊隱藏了起來。經過戰鬥之後，上白澤慧音被打敗，她指示主角們應向迷途竹林前進。到了迷途竹林，主角們恰好碰到了前來解決異變的博麗靈夢/霧雨魔理沙，靈夢/魔理沙以為主角們是停止夜晚、引發異變的元兇。雙方經過交戰，靈夢/魔理沙被打敗，於是異變繼續由主角們來解決。隨後，主角們看到迷途竹林最深處的[永遠亭](https://zh.wikipedia.org/wiki/永遠亭 "wikilink")。在永遠亭內，主角們打敗了攔路的妖兔因幡帝和月兔鈴仙·優曇華院·因幡，進入未被封住的門，看到了把滿月隱藏起來的八意永琳和蓬萊山輝夜。原來是她們為了阻止來自月球的使者到達幻想鄉，把真正的滿月隱藏了起來，留下了虛假的月亮。經過一番戰鬥，永琳和輝夜被打敗，幻想鄉的月亮恢復了正常。另外永琳和輝夜也意識到幻想鄉有結界保護，月球的使者無法進入幻想鄉，因此沒有必要再過躲躲藏藏的生活。
 
@@ -56,7 +56,7 @@ Extra關的劇情發生在永夜異變解決一個月之後。蓬萊山輝夜向
   - 禁咒詠唱組（）
     特點是獲得道具的範圍較大、道具自動蒐集的界線較矮。移動速度高，射擊威力高但範圍狹窄，是稍為上級向的角色組別。
       - [霧雨魔理沙](../Page/霧雨魔理沙.md "wikilink")（，）：射擊可造成擴散的傷害。
-      - [愛莉絲·瑪嘉托洛伊德](https://zh.wikipedia.org/wiki/愛莉絲·瑪嘉托洛伊德 "wikilink")（）：通常射擊是將使魔設置在自機面前，向正上方射出有貫通能力的激光。
+      - [愛麗絲·瑪格特洛伊德](https://zh.wikipedia.org/wiki/愛麗絲·瑪格特洛伊德 "wikilink")（）：通常射擊是將使魔設置在自機面前，向正上方射出有貫通能力的激光。
 
 <!-- end list -->
 

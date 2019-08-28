@@ -18,7 +18,7 @@
 
   - 提夫
 
-本故事的主角，[地球聯邦軍少尉](https://zh.wikipedia.org/wiki/地球聯邦軍 "wikilink")，是[地球聯邦軍第](https://zh.wikipedia.org/wiki/地球聯邦軍 "wikilink")13實驗部隊測試駕駛員。他被[地球聯邦軍編配到擔任測試新型](https://zh.wikipedia.org/wiki/地球聯邦軍 "wikilink")[機動戰士](https://zh.wikipedia.org/wiki/機動戰士 "wikilink")。主要負責測試鋼彈F90一號機的駕駛員，但是在測試途中，他們被[自護獨立火星軍突襲](https://zh.wikipedia.org/wiki/自護獨立火星軍 "wikilink")，並且被奪去鋼彈F90二號機。之後為被奪取事件負責而加入[地球聯邦軍第](https://zh.wikipedia.org/wiki/地球聯邦軍 "wikilink")13獨立機動艦隊進行討伐火星作戰。在火星之戰裡，他與叛亂投向[火星獨立自護軍的波殊所駕駛由](https://zh.wikipedia.org/wiki/火星獨立自護軍 "wikilink")[火星獨立自護軍改做的鋼彈F](https://zh.wikipedia.org/wiki/火星獨立自護軍 "wikilink")90二號機交戰，最後把波殊擊敗，最後無事生還離開火星。
+本故事的主角，[地球聯邦軍少尉](https://zh.wikipedia.org/wiki/地球聯邦軍 "wikilink")，是[地球聯邦軍第](https://zh.wikipedia.org/wiki/地球聯邦軍 "wikilink")13實驗部隊測試駕駛員。他被[地球聯邦軍編配到擔任測試新型](https://zh.wikipedia.org/wiki/地球聯邦軍 "wikilink")[機動戰士](https://zh.wikipedia.org/wiki/機動戰士 "wikilink")。主要負責測試鋼彈F90一號機的駕駛員，但是在測試途中，他們被[自護獨立火星軍突襲](https://zh.wikipedia.org/wiki/自護獨立火星軍 "wikilink")，並且被奪去鋼彈F90二號機。之後為被奪取事件負責而加入[地球聯邦軍第](https://zh.wikipedia.org/wiki/地球聯邦軍 "wikilink")13獨立機動艦隊進行討伐火星作戰。在火星之戰裡，他與叛亂投向[火星獨立自護軍的波殊所駕駛由](https://zh.wikipedia.org/wiki/火星獨立自護軍 "wikilink")[火星獨立自護軍改做的鋼彈F](https://zh.wikipedia.org/wiki/火星獨立自護軍 "wikilink")90二號機交戰，最後把波殊擊敗，並無事生還離開火星。
 
   - 斯特
 

@@ -34,7 +34,7 @@
 
 该武器在游戏《[-{zh-hans:反恐精英;zh-hant:絕對武力}-](https://zh.wikipedia.org/wiki/絕對武力 "wikilink")》中作为威力最大的狙击步枪出现，因而为全球的游戏玩家所知，更是一度被很多玩家认为是全球最优秀的狙击步枪之一。
 
-然而，縱使遊戲中該武器被稱作AWP，但現實世界的AWP只有使用7.62子彈或其他同口徑子彈，並不存在使用.338 Magnum的AWP。在《[-{zh-hans:反恐精英;zh-hant:絕對武力}-](https://zh.wikipedia.org/wiki/絕對武力 "wikilink")》中的AWP能夠以一發击殺敵人，但使用7.62子弹的[斯泰爾斥候步槍](../Page/斯泰爾斥候步槍.md "wikilink")需要2發，因此造成了.338 Magnum子弹的性能远比7.62×51毫米NATO子弹性能优秀的错觉。如果無視遊戲中該武器裝填10發彈藥的設定，針對外型和子彈類型而言，其實遊戲中的該武器更接近現實中的[AWM多於AWP](../Page/精密國際AWM狙擊步槍.md "wikilink")。
+然而，縱使遊戲中該武器被稱作AWP，但現實世界的AWP只有7.62×51毫米口徑（[.308温徹斯特](https://zh.wikipedia.org/wiki/.308温徹斯特 "wikilink")）型，並不存在[.338拉普麥格農](../Page/.338拉普麥格農.md "wikilink")口徑的AWP。在《[-{zh-hans:反恐精英;zh-hant:絕對武力}-](https://zh.wikipedia.org/wiki/絕對武力 "wikilink")》系列中的AWP能夠以一發击殺敵人，而使用7.62子弹的[斯泰爾斥候步槍](../Page/斯泰爾斥候步槍.md "wikilink")卻需要兩發，因此造成了.338拉普麥格農子弹的性能远比7.62×51毫米NATO子弹性能优秀的错觉。另外如果無視遊戲中該武器裝填10發彈藥的設定，針對外型和所用子彈類型而言，其實遊戲中的該武器更接近現實中的[AWM多於AWP](../Page/精密國際AWM狙擊步槍.md "wikilink")。
 
 ### 電子遊戲
 

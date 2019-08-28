@@ -197,7 +197,7 @@ Parameters
 
 </tt> 新的WKT格式样例：
 
-`GEOGCS["GCS_North_American_1927",DATUM["D_North_American_1927",SPHEROID["Clarke_1866",6378206.4,294.9786982]],PRIMEM["Greenwich",0],UNIT`[`"Degree",0.0174532925199433`](https://zh.wikipedia.org/wiki/"Degree",0.0174532925199433 "wikilink")
+`GEOGCS["GCS_North_American_1927",DATUM["D_North_American_1927",SPHEROID["Clarke_1866",6378206.4,294.9786982]],PRIMEM["Greenwich",0],UNIT["Degree",0.0174532925199433]]`
 
 `.prj`文件中包含以下信息：
 

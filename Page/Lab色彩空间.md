@@ -1,4 +1,4 @@
-[Lab_color_space.png](https://zh.wikipedia.org/wiki/File:Lab_color_space.png "fig:Lab_color_space.png")色域的颜色（因此可以显示在典型的计算机显示器上）。每个正方形的每个轴取值于 -128到128。\]\] **Lab色彩空间**（英語：**Lab color space**）是颜色-对立空间，带有维度**L**表示亮度，**a**和**b**表示颜色对立维度，基于了非线性压缩的[CIE XYZ色彩空间坐标](https://zh.wikipedia.org/wiki/CIE_XYZ色彩空间 "wikilink")。
+[Lab_color_space.png](https://zh.wikipedia.org/wiki/File:Lab_color_space.png "fig:Lab_color_space.png")色域的颜色（因此可以显示在典型的计算机显示器上）。每个正方形的每个轴取值于 -128到127。\]\] **Lab色彩空间**（英語：**Lab color space**）是颜色-对立空间，带有维度**L**表示亮度，**a**和**b**表示颜色对立维度，基于了非线性压缩的[CIE XYZ色彩空间坐标](https://zh.wikipedia.org/wiki/CIE_XYZ色彩空间 "wikilink")。
 
 **Hunter 1948 L, a, b色彩空间**的坐标是L, a和b。\[1\]\[2\]但是，Lab经常用做**CIE 1976 (L\*, a\*, b\*)色彩空间**的非正式缩写（也叫做CIELAB，它的坐标实际上是L\*, a\*和b\*）。所以首字母Lab自身是有歧义的。这两个色彩空间在用途上有关联，但在实现上不同。
 

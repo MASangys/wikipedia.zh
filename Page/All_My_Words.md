@@ -49,4 +49,4 @@
       -
         作词：／作曲：Solaya／编曲：大友光悦
 
-[Category:2006年音乐专辑](https://zh.wikipedia.org/wiki/Category:2006年音乐专辑 "wikilink") [Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink") [Category:日本索尼音樂娛樂音樂專輯](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂音樂專輯 "wikilink")
+[Category:刘亦菲音乐专辑](https://zh.wikipedia.org/wiki/Category:刘亦菲音乐专辑 "wikilink") [Category:2006年音乐专辑](https://zh.wikipedia.org/wiki/Category:2006年音乐专辑 "wikilink") [Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink") [Category:日本索尼音樂娛樂音樂專輯](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂音樂專輯 "wikilink")

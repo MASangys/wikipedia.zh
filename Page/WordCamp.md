@@ -27,4 +27,4 @@
 
 1.  [WordCamp Central](http://central.wordcamp.org/)
 
-[Category:PHP](https://zh.wikipedia.org/wiki/Category:PHP "wikilink") [Category:專業團體](https://zh.wikipedia.org/wiki/Category:專業團體 "wikilink")
+[Category:PHP](https://zh.wikipedia.org/wiki/Category:PHP "wikilink") [Category:專業團體](https://zh.wikipedia.org/wiki/Category:專業團體 "wikilink") [Category:Automattic](https://zh.wikipedia.org/wiki/Category:Automattic "wikilink")

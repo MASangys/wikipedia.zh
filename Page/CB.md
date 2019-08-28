@@ -65,7 +65,7 @@
 
 ## 其他
 
-  - [查理·布朗](https://zh.wikipedia.org/wiki/查理·布朗 "wikilink")（Charlie Brown）查尔斯·舒兹创作的卡通人物
+  - [查理·布朗](../Page/查理·布朗.md "wikilink")（Charlie Brown）查尔斯·舒兹创作的卡通人物
   - [贞操带](https://zh.wikipedia.org/wiki/贞操带 "wikilink")（Chastity belt），用于阻止性交
   - [恰克·巴斯](https://zh.wikipedia.org/wiki/恰克·巴斯 "wikilink")（Chuck Bass），美国电视剧《绯闻女孩》中的主角
   - [粗盐腌牛肉](../Page/粗盐腌牛肉.md "wikilink")（Corned beef）

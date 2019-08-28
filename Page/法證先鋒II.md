@@ -76,7 +76,7 @@
 林沛沛之妹<br />
 古澤琛之妻<br />
 許立仁之小姨<br />
-於第4集与古澤琛结婚 于第11集出国 于第28集回港 于第29集被卓岚杀害</p></td>
+於第4集為救梁小柔而被炸彈炸至重傷，搶救後最終身亡</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/鄭俊弘.md" title="wikilink">鄭俊弘</a></p></td>
@@ -387,22 +387,6 @@
 參見<strong><a href="https://zh.wikipedia.org/wiki/#法證部" title="wikilink">法證部</a></strong></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/佘詩曼" title="wikilink">佘詩曼</a></strong></p></td>
-<td><p><strong>馬幗英</strong></p></td>
-<td><p><strong>Bell、Madam Ma</strong><br />
-毒品調查科情报组高級督察→重案組高級督察<br />
-馬錦濤、鄭麗玲之女<br />
-馬國宏之姊<br />
-郭綺芬之繼女兼天敵，後和好<br />
-沈雄、凌心怡、莫正康、劉俊碩、程偉勝之上司<br />
-方妙娜之偶像<br />
-楊逸昇之妻<br />
-李蕎之天敵<br />
-古澤琛之好友，並暗戀其<br />
-於第30集懷孕<br />
-与梁小柔先敌后友</p></td>
-</tr>
-<tr class="odd">
 <td><p><a href="../Page/陳美詩.md" title="wikilink">陳美詩</a></p></td>
 <td><p>方妙娜</p></td>
 <td><p><strong>Formula</strong><br />
@@ -477,16 +461,23 @@
 <tr class="even">
 <td><p><a href="../Page/惠英紅.md" title="wikilink">惠英紅</a></p></td>
 <td><p>鄭麗玲</p></td>
-<td><p>馬錦濤之繼室（但比郭綺芬先與馬錦濤相戀），馬幗英之母</p></td>
+<td><p>馬錦濤之繼室（但比郭綺芬先與馬錦濤相戀），馬幗宏之母</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/佘詩曼" title="wikilink">佘詩曼</a></strong></p></td>
 <td><p><strong>馬幗英</strong></p></td>
-<td><p><strong>Bell</strong><br />
+<td><p><strong>Bell、Madam Ma</strong><br />
+毒品調查科情报组高級督察→重案組高級督察<br />
 馬錦濤、鄭麗玲之女<br />
+馬國宏之姊<br />
 郭綺芬之繼女兼天敵，後和好<br />
-馬國宏同父異母之姊<br />
-參見<strong><a href="https://zh.wikipedia.org/wiki/#重案組" title="wikilink">重案組</a></strong></p></td>
+沈雄、凌心怡、莫正康、劉俊碩、程偉勝之上司<br />
+方妙娜之偶像<br />
+楊逸昇之妻<br />
+李蕎之天敵<br />
+古澤琛之好友，並暗戀其<br />
+於第30集懷孕<br />
+与梁小柔先敌后友</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/黃長興" title="wikilink">黃長興</a></p></td>
@@ -968,9 +959,11 @@ David Leung之顧客<br />
 <td><p><a href="https://zh.wikipedia.org/wiki/林祐飛" title="wikilink">林祐飛</a></p></td>
 <td><p>何廣福</p></td>
 <td><p>消防隊員<br />
+身型健硕<br />
 頭皮糠疹子患者<br />
 半年前救回張朱朱失敗，導致張耀忠患上PTSD<br />
-於第16集被張耀忠以刀割喉身亡</p></td>
+於第16集被張耀忠以刀割喉身亡<br />
+被摸胸肌</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/曾守明.md" title="wikilink">曾守明</a></p></td>

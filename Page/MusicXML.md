@@ -4,7 +4,7 @@
 
 MusicXML由[Reccordare公司开发](https://zh.wikipedia.org/wiki/Reccordare "wikilink")，该技术源于几个现有的基于学术上的关键技术和想法，比如Walter Hewlett的[MuseData和David](https://zh.wikipedia.org/wiki/MuseData "wikilink") Huron的Humdrum。被设计用来做为乐谱信息的交换格式，特别是在不同的之间进行交换。随着MakeMusic公司于2011年收购Recordare，MusicXML的开发由MakeMusic管理。\[3\]\[4\]从2015年7月起，MusicXML的移交文档给W3C Music Notation Community Group。\[5\]
 
-MusicXML的1.0版由Recordare公司在2004年1月发布。在2005年5月发布1.1版，包含对文件格式支持的改进。在2007年6月发布了2.0版，并且包含了标准的压缩格式。\[6\]所有这些都建立在一系列的[文档类型定义](https://zh.wikipedia.org/wiki/文档类型定义 "wikilink")（DTD）之上。2.0版的[XML Schema定义](../Page/XML_Schema.md "wikilink")（XSD）的实现于2008年9月发布。3.0版在2011年8月发布，改进了对虚拟乐器的支持。同时包含在DTD和XSD版本中。\[7\]\[8\] MusicXML, Version 3 |publisher = Digitalpreservation.gov:8081 |date = 2012-10-09 |accessdate = 2014-06-27 }}</ref>3.1版在2017年12月发布，包含对Standard Music Font Layout （SMuFL）的支持的改进。\[9\]MusicXML DTD和XSD版本都可以通过W3C Community Final Specification Agreement自由发布。\[10\]
+MusicXML的1.0版由Recordare公司在2004年1月发布。在2005年5月发布1.1版，包含对文件格式支持的改进。在2007年6月发布了2.0版，并且包含了标准的压缩格式。\[6\]所有这些都建立在一系列的[文档类型定义](https://zh.wikipedia.org/wiki/文档类型定义 "wikilink")（DTD）之上。2.0版的[XML Schema定义](../Page/XML_Schema.md "wikilink")（XSD）的实现于2008年9月发布。3.0版在2011年8月发布，改进了对虚拟乐器的支持。同时包含在DTD和XSD版本中。\[7\]\[8\]3.1版在2017年12月发布，包含对Standard Music Font Layout （SMuFL）的支持的改进。\[9\]MusicXML DTD和XSD版本都可以通过W3C Community Final Specification Agreement自由发布。\[10\]
 
 ## 支持
 

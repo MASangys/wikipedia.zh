@@ -72,7 +72,7 @@ SAR-MTI系統於X-波段操作並提供以下幾種模式：
 
 歐洲鷹在2009年10月8日出廠，並在2010年6月29日時進行了首次飛行。該機種在美國的[愛德華空軍基地進行了為期數個月的飛行測試](https://zh.wikipedia.org/wiki/愛德華空軍基地 "wikilink")，最後在2011年7月21日抵達德國[曼欣格](https://zh.wikipedia.org/wiki/曼欣格 "wikilink")，由駐防在該地的[德國空軍第51偵察大隊操作但未正式服役](https://zh.wikipedia.org/wiki/德國空軍第51偵察大隊 "wikilink")。測試期間消息指出並不順利，美德雙方糾紛甚多，飛機還曾經在空中短暫失聯。\[20\]
 
-2018年下旬德國空軍表示將放棄歐洲鷹計畫，目前非常樂意將這架飛機出售，初步已經接洽[加拿大](../Page/加拿大.md "wikilink")，\[21\]德國消息表示該十八年的專案已經進展成一個不斷交錢給美國的天文數字錢坑，仅仅是飞行测试就耗费了德国财政部七亿[欧元](../Page/欧元.md "wikilink")，而這僅僅一架的天價無人機究竟對德國國家利益有何用途至今不明顯，也許儘早下車脫手才是良策。\[22\]\[23\]
+2018年下半年德國空軍表示將放棄歐洲鷹計畫，目前非常樂意將這架飛機出售，初步已經接洽[加拿大](../Page/加拿大.md "wikilink")，\[21\]德國消息表示該十八年的專案已經進展成一個不斷交錢給美國的天文數字錢坑，仅仅是飞行测试就耗费了德国财政部七亿[欧元](../Page/欧元.md "wikilink")，而這僅僅一架的天價無人機究竟對德國國家利益有何用途至今不明顯，也許儘早下車脫手才是良策。\[22\]\[23\]
 
 ### 澳洲
 
@@ -151,7 +151,7 @@ SAR-MTI系統於X-波段操作並提供以下幾種模式：
 
   - [伊斯蘭革命衛隊：伊朗上空擊落美軍無人偵察機](https://www.ettoday.net/news/20190620/1471403.htm)
 
-[Category:美國偵察機](https://zh.wikipedia.org/wiki/Category:美國偵察機 "wikilink") [Category:無人機](https://zh.wikipedia.org/wiki/Category:無人機 "wikilink") [Category:遙控產品](https://zh.wikipedia.org/wiki/Category:遙控產品 "wikilink")
+[Category:美國偵察機](https://zh.wikipedia.org/wiki/Category:美國偵察機 "wikilink") [Category:無人機](https://zh.wikipedia.org/wiki/Category:無人機 "wikilink") [Category:遙控產品](https://zh.wikipedia.org/wiki/Category:遙控產品 "wikilink") [Category:美國無人軍用飛機](https://zh.wikipedia.org/wiki/Category:美國無人軍用飛機 "wikilink")
 
 1.  "[FAA Clears Global Hawk For Routine Operation In US National Airspace](http://www.spacedaily.com/news/uav-03zl.html)." [Space Daily](https://zh.wikipedia.org/wiki/Space_Daily "wikilink"). 2003-08-13.
 2.  ["143M for Global Hawk Cost Overruns", *Defense Industry Daily*, April 25, 2005](http://www.defenseindustrydaily.com/2005/04/143m-for-global-hawk-cost-overruns/index.php)

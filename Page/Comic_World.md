@@ -29,4 +29,4 @@ Comic World從1999年開始，在[首爾](../Page/首爾.md "wikilink")與[釜�
   - [台灣同人誌販售會](http://www.comicworld.com.tw/)
 
   -
-[Category:同人誌即賣會](https://zh.wikipedia.org/wiki/Category:同人誌即賣會 "wikilink") [Category:台灣次文化](https://zh.wikipedia.org/wiki/Category:台灣次文化 "wikilink") [Category:香港次文化](https://zh.wikipedia.org/wiki/Category:香港次文化 "wikilink") [Category:韓國文化](https://zh.wikipedia.org/wiki/Category:韓國文化 "wikilink")
+[Category:臺灣同人誌即賣會](https://zh.wikipedia.org/wiki/Category:臺灣同人誌即賣會 "wikilink") [Category:台灣次文化](https://zh.wikipedia.org/wiki/Category:台灣次文化 "wikilink") [Category:台北市文化](https://zh.wikipedia.org/wiki/Category:台北市文化 "wikilink")

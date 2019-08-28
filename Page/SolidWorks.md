@@ -187,7 +187,6 @@ SolidWorks的合作夥伴與具有黃金夥伴稱號的應用程式都是經由S
 
 ## 競爭對手
 
-  - [CATIA](../Page/CATIA.md "wikilink")達索系統公司
   - [UGS NX西門子公司](https://zh.wikipedia.org/wiki/UGS_NX "wikilink")（原屬於UGS公司）
   - [Creo Parametric](../Page/Creo_Parametric.md "wikilink")（Pro/ENGINEER）PTC公司
   - [AutoCAD](../Page/AutoCAD.md "wikilink") [歐特克](https://zh.wikipedia.org/wiki/歐特克 "wikilink")

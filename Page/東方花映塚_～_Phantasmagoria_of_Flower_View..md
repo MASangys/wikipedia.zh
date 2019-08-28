@@ -1,4 +1,4 @@
-[Phantasmagoria_of_Flower_View.jpg](https://zh.wikipedia.org/wiki/File:Phantasmagoria_of_Flower_View.jpg "fig:Phantasmagoria_of_Flower_View.jpg") 是由[同人組織](https://zh.wikipedia.org/wiki/同人組織 "wikilink")[上海愛莉絲幻樂團](../Page/上海愛莉絲幻樂團.md "wikilink")所製作的[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")，是[東方Project的第九個作品](https://zh.wikipedia.org/wiki/東方Project "wikilink")。作品標題中的英文部分是參照東方系列第3作《[東方夢時空 ～ Phantasmagoria of Dim.Dream.](../Page/東方夢時空_～_Phantasmagoria_of_Dim.Dream..md "wikilink")》而來的，但兩個作品中的故事並無關連。
+[Phantasmagoria_of_Flower_View.jpg](https://zh.wikipedia.org/wiki/File:Phantasmagoria_of_Flower_View.jpg "fig:Phantasmagoria_of_Flower_View.jpg") 是由[同人社團](https://zh.wikipedia.org/wiki/同人社團 "wikilink")[上海愛麗絲幻樂團所製作的](https://zh.wikipedia.org/wiki/上海愛麗絲幻樂團 "wikilink")[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")，是[東方Project的第九個作品](https://zh.wikipedia.org/wiki/東方Project "wikilink")。作品標題中的英文部分是參照東方系列第3作《[東方夢時空 ～ Phantasmagoria of Dim.Dream.](../Page/東方夢時空_～_Phantasmagoria_of_Dim.Dream..md "wikilink")》而來的，但兩個作品中的故事並無關連。
 
 ## 概要
 
@@ -151,7 +151,7 @@
 
 <!-- end list -->
 
-  - [因幡 天為](https://zh.wikipedia.org/wiki/東方永夜抄_～_Imperishable_Night.#因幡_天為 "wikilink")（或譯作因幡 帝）（， Inaba Tewi/Inaba Tei）
+  - [因幡 帝](https://zh.wikipedia.org/wiki/東方永夜抄_～_Imperishable_Night.#因幡帝 "wikilink")（， Inaba Tewi/Inaba Tei）
     居住在永遠亭，作為地上兔的首領的妖怪兔。在這次異變中，她與一眾地上兔一起四處喧鬧起來。
 
 ### 射命丸 文
@@ -286,11 +286,14 @@
       - 　地獄的最高裁判長（《求聞史記》）
 
       - 　令人感激的教誨（《文花帖》）
+
+      - 　幻想鄉負責的閻羅王（《鬼形獸》）
     **登場**
       - 《花映塚》第九關（最終）頭目，及Extra關卡主要自機（第九關位置以靈夢代替）
       - 《文花帖》LV10
       - 《幻想鄉百物語》
       - 《心綺樓》觀眾
+      - 《鬼形獸》結局
     **主題曲**
       - 　第六十年的東方裁判　～ Fate of Sixty Year（《花映塚》）
 

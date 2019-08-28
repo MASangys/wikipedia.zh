@@ -77,8 +77,10 @@
 
   - 生活百貨
       - [統一超商](../Page/統一超商.md "wikilink")（7-11）
+
       - [家樂福](../Page/家樂福.md "wikilink")
-      - [全聯](https://zh.wikipedia.org/wiki/全聯 "wikilink")
+
+      -
   - 交通運輸
       - [高雄捷運](../Page/高雄捷運.md "wikilink")各車站服務台
       - [臺北捷運](../Page/臺北捷運.md "wikilink")各車站服務台

@@ -17,4 +17,4 @@
 
 [fr:Le Seigneur des Anneaux Online : les Mines de la Moria](https://zh.wikipedia.org/wiki/fr:Le_Seigneur_des_Anneaux_Online_:_les_Mines_de_la_Moria "wikilink") [pl:The Lord of the Rings Online: Mines of Moria](https://zh.wikipedia.org/wiki/pl:The_Lord_of_the_Rings_Online:_Mines_of_Moria "wikilink")
 
-[Category:大型多人在线角色扮演游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线角色扮演游戏 "wikilink") [Category:魔戒](https://zh.wikipedia.org/wiki/Category:魔戒 "wikilink") [Category:Games_for_Windows认证游戏](https://zh.wikipedia.org/wiki/Category:Games_for_Windows认证游戏 "wikilink") [Category:Codemasters遊戲](https://zh.wikipedia.org/wiki/Category:Codemasters遊戲 "wikilink")
+[Category:大型多人在线角色扮演游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线角色扮演游戏 "wikilink") [Category:魔戒改編作品](https://zh.wikipedia.org/wiki/Category:魔戒改編作品 "wikilink") [Category:Games_for_Windows认证游戏](https://zh.wikipedia.org/wiki/Category:Games_for_Windows认证游戏 "wikilink") [Category:Codemasters遊戲](https://zh.wikipedia.org/wiki/Category:Codemasters遊戲 "wikilink") [Category:中土大陸背景電子遊戲](https://zh.wikipedia.org/wiki/Category:中土大陸背景電子遊戲 "wikilink")

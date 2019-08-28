@@ -28,7 +28,9 @@ iOS必須經過蘋果伺服器進行驗證才能於iTunes更新（iOS 5及以上
 
 在2013年的WWDC上，蘋果公司發布了[iOS 7](https://zh.wikipedia.org/wiki/iOS_7 "wikilink")，此版本徹底改變了使用者界面，使原本的[擬物化的風格轉變為](../Page/仿制品.md "wikilink")[平面化風格](../Page/扁平化设计.md "wikilink")。
 
-最初，iPod Touch用戶必須支付系統軟件更新的費用，這是由於會計規則使裝置不能如iPhone或Apple TV那樣的“訂閱裝置”，需要對裝置的重大更新進行付款\[44\]\[45\]。然而，要求升級付費導致iPod Touch用戶遠離更新\[46\]。在2009年9月，蘋果公司暫准了會計規則的變更，此對Apple的收益和股價有著顯著影響，並容許iPod Touch獲得免費更新\[47\]\[48\]。 [缩略图](https://zh.wikipedia.org/wiki/File:IPadOS_on_iPad_mini_4.jpg "fig:缩略图") 目前iOS最新版本為2019年6月4日發布的[iOS13以及](../Page/IOS_13.md "wikilink")[iPadOS](https://zh.wikipedia.org/wiki/iPadOS "wikilink")，后者为苹果专门为iPad系列设备优化的iOS13分支。\[49\]其中iOS13目前只适用于苹果已发布的[iPod touch (7th generation)](../Page/IPod_touch_\(第七代\).md "wikilink")、[iPhone SE](https://zh.wikipedia.org/wiki/iPhone_SE "wikilink")、[iPhone 6s](https://zh.wikipedia.org/wiki/iPhone_6s "wikilink")、[iPhone 6s Plus](https://zh.wikipedia.org/wiki/iPhone_6s_Plus "wikilink")、[iPhone 7](https://zh.wikipedia.org/wiki/iPhone_7 "wikilink")、[iPhone 7 Plus](https://zh.wikipedia.org/wiki/iPhone_7_Plus "wikilink")、[iPhone 8](https://zh.wikipedia.org/wiki/iPhone_8 "wikilink")、[iPhone 8 Plus](https://zh.wikipedia.org/wiki/IPhone_8_plus "wikilink")、[iPhone X](https://zh.wikipedia.org/wiki/iPhone_X "wikilink")、[iPhone XS](https://zh.wikipedia.org/wiki/iPhone_XS "wikilink")、[iPhone XR以及](https://zh.wikipedia.org/wiki/iPhone_XR "wikilink")[iPhone XS Max](https://zh.wikipedia.org/wiki/iPhone_XS_Max "wikilink")；\[50\]iPadOS则只适用于iPad系列产品，目前包括：[iPad Pro](https://zh.wikipedia.org/wiki/iPad_Pro "wikilink")、[iPad (6th generation)](../Page/IPad_\(第六代\).md "wikilink")、[iPad (5th generation)](../Page/IPad_\(第5代\).md "wikilink")、[iPad mini 5](../Page/IPad_mini_\(第五代\).md "wikilink")、[iPad mini 4](https://zh.wikipedia.org/wiki/iPad_mini_4 "wikilink")、[iPad Air (3rd generation)以及](../Page/IPad_Air_\(第三代\).md "wikilink")[iPad Air 2](https://zh.wikipedia.org/wiki/iPad_Air_2 "wikilink")。\[51\]
+最初，iPod Touch用戶必須支付系統軟件更新的費用，這是由於會計規則使裝置不能如iPhone或Apple TV那樣的“訂閱裝置”，需要對裝置的重大更新進行付款\[44\]\[45\]。然而，要求升級付費導致iPod Touch用戶遠離更新\[46\]。在2009年9月，蘋果公司暫准了會計規則的變更，此對Apple的收益和股價有著顯著影響，並容許iPod Touch獲得免費更新\[47\]\[48\]。
+
+目前iOS最新版本為2019年6月4日發布的[iOS13以及](../Page/IOS_13.md "wikilink")[iPadOS](https://zh.wikipedia.org/wiki/iPadOS "wikilink")，后者为苹果专门为iPad系列设备优化的iOS13分支。\[49\]其中iOS13目前只适用于苹果已发布的[iPod touch (7th generation)](../Page/IPod_touch_\(第七代\).md "wikilink")、[iPhone SE](https://zh.wikipedia.org/wiki/iPhone_SE "wikilink")、[iPhone 6s](https://zh.wikipedia.org/wiki/iPhone_6s "wikilink")、[iPhone 6s Plus](https://zh.wikipedia.org/wiki/iPhone_6s_Plus "wikilink")、[iPhone 7](https://zh.wikipedia.org/wiki/iPhone_7 "wikilink")、[iPhone 7 Plus](https://zh.wikipedia.org/wiki/iPhone_7_Plus "wikilink")、[iPhone 8](https://zh.wikipedia.org/wiki/iPhone_8 "wikilink")、[iPhone 8 Plus](https://zh.wikipedia.org/wiki/IPhone_8_plus "wikilink")、[iPhone X](https://zh.wikipedia.org/wiki/iPhone_X "wikilink")、[iPhone XS](https://zh.wikipedia.org/wiki/iPhone_XS "wikilink")、[iPhone XR以及](https://zh.wikipedia.org/wiki/iPhone_XR "wikilink")[iPhone XS Max](https://zh.wikipedia.org/wiki/iPhone_XS_Max "wikilink")；\[50\]iPadOS则只适用于iPad系列产品，目前包括：[iPad Pro](https://zh.wikipedia.org/wiki/iPad_Pro "wikilink")、[iPad (6th generation)](../Page/IPad_\(第六代\).md "wikilink")、[iPad (5th generation)](../Page/IPad_\(第5代\).md "wikilink")、[iPad mini 5](../Page/IPad_mini_\(第五代\).md "wikilink")、[iPad mini 4](https://zh.wikipedia.org/wiki/iPad_mini_4 "wikilink")、[iPad Air (3rd generation)以及](../Page/IPad_Air_\(第三代\).md "wikilink")[iPad Air 2](https://zh.wikipedia.org/wiki/iPad_Air_2 "wikilink")。\[51\]
 
 ## 功能
 
@@ -36,7 +38,7 @@ iOS必須經過蘋果伺服器進行驗證才能於iTunes更新（iOS 5及以上
 
 用戶能夠透過SpringBoard來呈現的主屏幕，用戶可在屏幕底部的程序塢上顯示固定最常用的應用程式的圖標。每當用戶為裝置解鎖，或使用應用程式時按下物理的主頁鍵按鈕，主屏幕都會出現\[52\]。在iPhone OS 3中，引入了[Spotlight](../Page/Spotlight_\(應用程式\).md "wikilink")，它讓用戶搜索裝置內的媒體、應用程式、電子郵件、聯絡人、訊息、提醒事項、日曆事項及相關的內容。從iOS 3.2開始，用戶可以設置主屏幕的背景圖片，此功能僅適用於第三代設備 — [iPhone 3GS](https://zh.wikipedia.org/wiki/iPhone_3GS "wikilink")、第三代[iPod touch](https://zh.wikipedia.org/wiki/IPod_Touch "wikilink")（iOS 4或更高版本）、自iOS 3.2起的所有iPad型號（或更高型號）。研究人員發現，用戶在其主屏幕上可根據應用程序的使用頻率和相關性，以及其可用性和美學等原因而自行組織圖標\[53\]。
 
-在iPhone 3GS上的iOS 4（或更高版本）之前，用戶只能透過[越獄來自定屏幕的背景](../Page/越獄_\(iOS\).md "wikilink")，但現在可以[開箱即用](https://zh.wikipedia.org/wiki/開箱即用 "wikilink")。屏幕頂部有一個狀態欄，用以顯示如時間、電量及信號強弱的數據。屏幕的其餘部分用於顯示現時的應用程式。當密碼被設置時，用戶打開當裝置就必須在上輸入密碼才能授權進入主屏幕\[54\]。在iOS 7及更高版本中，Spotlight是透過在主屏幕上的任何位置向下拉來實現（從頂部及底部邊緣打開的通知中心及控制中心除外）\[55\]\[56\]。在iOS 9中，有兩種方法可以進行Spotlight：1）它也可以如iOS 3至iOS 6中那樣進入；2）如iOS 7及iOS 8一樣，在主屏幕的任何位置向下拉就能顯示Spotlight；Spotlight賦予Siri建議，其中包括應用程式及聯絡人的建議，還有新聞[IOS13_Spotlight_UI.png](https://zh.wikipedia.org/wiki/File:IOS13_Spotlight_UI.png "fig:IOS13_Spotlight_UI.png")功能界面\]\] \[57\]。在iOS 10中，Spotlight是位於「今日」的專有面板頂部\[58\]。
+在iPhone 3GS上的iOS 4（或更高版本）之前，用戶只能透過[越獄來自定屏幕的背景](../Page/越獄_\(iOS\).md "wikilink")，但現在可以[開箱即用](https://zh.wikipedia.org/wiki/開箱即用 "wikilink")。屏幕頂部有一個狀態欄，用以顯示如時間、電量及信號強弱的數據。屏幕的其餘部分用於顯示現時的應用程式。當密碼被設置時，用戶打開當裝置就必須在上輸入密碼才能授權進入主屏幕\[54\]。在iOS 7及更高版本中，Spotlight是透過在主屏幕上的任何位置向下拉來實現（從頂部及底部邊緣打開的通知中心及控制中心除外）\[55\]\[56\]。在iOS 9中，有兩種方法可以進行Spotlight：1）它也可以如iOS 3至iOS 6中那樣進入；2）如iOS 7及iOS 8一樣，在主屏幕的任何位置向下拉就能顯示Spotlight；Spotlight賦予Siri建議，其中包括應用程式及聯絡人的建議，還有新聞 \[57\]。在iOS 10中，Spotlight是位於「今日」的專有面板頂部\[58\]。
 
 #### 系統字體
 
@@ -48,7 +50,7 @@ iOS最初使用[Helvetica](../Page/Helvetica.md "wikilink")作為系統字體。
 
 #### 通知中心
 
-在iOS 5之前，通知都是在中傳遞的，被撤銷後便無法查看。在iOS 5中，蘋果公司引入[通知中心](../Page/通知_\(iOS\).md "wikilink")，容許用戶查閱看通知歷史記錄。用戶可以點擊通知來打開相關的應用程式，或是把它撤銷來清除\[71\]。在[iOS11之后](../Page/IOS_11.md "wikilink")，还可以通过长按某条应用程序的通知进行回复、标为已读等其他多种操作，具体操作取决于对应应用程序的支持。[Ios_notice_center.png](https://zh.wikipedia.org/wiki/File:Ios_notice_center.png "fig:Ios_notice_center.png")的通知\]\][Ios_long_touch_option.png](https://zh.wikipedia.org/wiki/File:Ios_long_touch_option.png "fig:Ios_long_touch_option.png")通知現在能以橫幅顯示於屏幕頂部。若用戶點擊收到的通知，該應用程式將會被打開。用戶還可以透過調整應用程式的通知設定來選擇在模態窗口中查看通知的形式。隨著iOS 8的推出，現在可以透過通知中心以進入由第三方定義的小部件。[IOS13_小部件_UI.png](https://zh.wikipedia.org/wiki/File:IOS13_小部件_UI.png "fig:IOS13_小部件_UI.png")
+在iOS 5之前，通知都是在中傳遞的，被撤銷後便無法查看。在iOS 5中，蘋果公司引入[通知中心](../Page/通知_\(iOS\).md "wikilink")，容許用戶查閱看通知歷史記錄。用戶可以點擊通知來打開相關的應用程式，或是把它撤銷來清除\[71\]。在[iOS11之后](../Page/IOS_11.md "wikilink")，还可以通过长按某条应用程序的通知进行回复、标为已读等其他多种操作，具体操作取决于对应应用程序的支持。通知現在能以橫幅顯示於屏幕頂部。若用戶點擊收到的通知，該應用程式將會被打開。用戶還可以透過調整應用程式的通知設定來選擇在模態窗口中查看通知的形式。隨著iOS 8的推出，現在可以透過通知中心以進入由第三方定義的小部件。
 
 當應用程式在閒置時獲得通知，其圖標上會出現一個紅色徽章，此徽章一目了然地告知用戶該應用程式有多少個通知事項。當用戶打開應用程式便能清除徽章。
 
@@ -92,7 +94,7 @@ iOS 5引入了三個新的後台應用程式介面：
 
 在iOS 11中，應用程式切換器獲得大大的重新設計。在iPad中，控制中心與應用程式切換器結合在一起，iPad的應用程式切換器也可以從屏幕底部向上滑動來進入。在iPhone中，若[RAM中沒有應用程式](https://zh.wikipedia.org/wiki/隨機存取記憶體 "wikilink")，則無法進入應用程式切換器。
 
-从iOS 12开始，iPad版本的应用切换器与控制中心分离，且与iPhone一样在无后台应用的状况下无法启动。[IOSoniPad_multi-task_UI.png](https://zh.wikipedia.org/wiki/File:IOSoniPad_multi-task_UI.png "fig:IOSoniPad_multi-task_UI.png")
+从iOS 12开始，iPad版本的应用切换器与控制中心分离，且与iPhone一样在无后台应用的状况下无法启动。
 
 在iPhone X/XS/XS Max/XR和新一代iPad Pro中，由于Home键被取消，进入应用切换器的方法则变成在主屏幕时将屏幕底部的横条上拉或在应用界面时将应用界面拉到中间悬停打开。
 
@@ -106,7 +108,7 @@ iOS 5引入了三個新的後台應用程式介面：
 
 ### 人工智能助理
 
-Siri（）是個結合到iOS的[智能個人助理](https://zh.wikipedia.org/wiki/智能個人助理 "wikilink")，個人助理使用語音查詢及自然語言用戶界面來回答問題、提出建議，並透過互聯網搜尋以執行操作。該軟件會適應用戶的個人語法、搜索和喜好以繼續使用，回覆的結果是個性化的。[Ios_Siri_UI.png](https://zh.wikipedia.org/wiki/File:Ios_Siri_UI.png "fig:Ios_Siri_UI.png")
+Siri（）是個結合到iOS的[智能個人助理](https://zh.wikipedia.org/wiki/智能個人助理 "wikilink")，個人助理使用語音查詢及自然語言用戶界面來回答問題、提出建議，並透過互聯網搜尋以執行操作。該軟件會適應用戶的個人語法、搜索和喜好以繼續使用，回覆的結果是個性化的。
 
 該應用程式最初於2010年2月作為iOS應用程式來發布\[104\]，並於兩個月後被蘋果公司收購\[105\]\[106\]\[107\]，然後整合到[iPhone 4S並重新命名為](https://zh.wikipedia.org/wiki/iPhone_4S "wikilink")「Siri」於2011年10月推出\[108\]\[109\]。那時，該獨立的應用程式也從iOS的[App Store中移除](../Page/App_Store_\(iOS\).md "wikilink")\[110\]。
 
@@ -129,7 +131,7 @@ iOS使用者界面能使用按键、[多点触控对设备进行控制](https://
 
 ### 應用程式
 
-  - **App Store：**[App Store是](../Page/App_Store_\(iOS\).md "wikilink")[苹果公司为旗下作业系统所建立和维护的数位化应用发布平台](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")，允许用户从[iTunes Store浏览和下载一些由](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")[iOS SDK或者Mac](https://zh.wikipedia.org/wiki/iOS_SDK "wikilink") SDK（须造访[Mac App Store](../Page/Mac_App_Store.md "wikilink")）开发的应用程式。根据应用程式发布的不同情况，使用者可以付费或者免费下载。应用程式可以直接下载到iOS设备，也可以透过[macOS或者](https://zh.wikipedia.org/wiki/OS_X "wikilink")[Windows将](https://zh.wikipedia.org/wiki/Windows "wikilink")[iTunes下载到电脑中](https://zh.wikipedia.org/wiki/iTunes "wikilink")。其中包含游戏、日程管理、词典及许多实用的软件。[IOS13的AppStore界面.png](https://zh.wikipedia.org/wiki/File:IOS13的AppStore界面.png "fig:IOS13的AppStore界面.png")
+  - **App Store：**[App Store是](../Page/App_Store_\(iOS\).md "wikilink")[苹果公司为旗下作业系统所建立和维护的数位化应用发布平台](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")，允许用户从[iTunes Store浏览和下载一些由](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")[iOS SDK或者Mac](https://zh.wikipedia.org/wiki/iOS_SDK "wikilink") SDK（须造访[Mac App Store](../Page/Mac_App_Store.md "wikilink")）开发的应用程式。根据应用程式发布的不同情况，使用者可以付费或者免费下载。应用程式可以直接下载到iOS设备，也可以透过[macOS或者](https://zh.wikipedia.org/wiki/OS_X "wikilink")[Windows将](https://zh.wikipedia.org/wiki/Windows "wikilink")[iTunes下载到电脑中](https://zh.wikipedia.org/wiki/iTunes "wikilink")。其中包含游戏、日程管理、词典及许多实用的软件。
 
 <!-- end list -->
 
@@ -215,7 +217,7 @@ iOS設備需要一個密碼用於為裝置解鎖、更改系統設定，以及�
 
 ### 触控 ID和面容 ID
 
-触控 ID是以嵌入方式置於主頁按鈕中的指紋掃描器，它可用於為裝置解鎖、進行購買的動作，及登錄其他應用程式等功能。使用時，Touch ID僅將指紋數據臨時存儲於Secure Enclave的加密內存中。裝置的主要處理器或系統的任何其他部分都不可能進入Touch ID傳感器取得原始指紋數據\[183\]。[Ios_touch_id.png](https://zh.wikipedia.org/wiki/File:Ios_touch_id.png "fig:Ios_touch_id.png")或密码解锁时的界面\]\]
+触控 ID是以嵌入方式置於主頁按鈕中的指紋掃描器，它可用於為裝置解鎖、進行購買的動作，及登錄其他應用程式等功能。使用時，Touch ID僅將指紋數據臨時存儲於Secure Enclave的加密內存中。裝置的主要處理器或系統的任何其他部分都不可能進入Touch ID傳感器取得原始指紋數據\[183\]。
 
 在iPhone X/XS/XS Plus/XR和新一代iPad Pro中，由于主页按钮被取消，触控 ID也被一并取消并换成了面容 ID。
 

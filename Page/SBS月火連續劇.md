@@ -1600,6 +1600,17 @@
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
+<td style="text-align: center;"><p>2019年8月5日－<br />
+2019年8月6日</p></td>
+<td style="text-align: center;"><p><a href="../Page/17歲的條件.md" title="wikilink">17歲的條件</a><br />
+</p></td>
+<td style="text-align: center;"><p>2</p></td>
+<td style="text-align: center;"><p><a href="../Page/尹燦榮.md" title="wikilink">尹燦榮</a>、<a href="../Page/朴蒔恩.md" title="wikilink">朴蒔恩</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/趙榮民" title="wikilink">趙榮民</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/柳寶利" title="wikilink">柳寶利</a></p></td>
+<td style="text-align: center;"><p><strong>獨幕劇</strong></p></td>
+</tr>
+<tr class="even">
 <td style="text-align: center;"><p>夏季月火綜藝時段</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
@@ -1608,8 +1619,8 @@
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
-<tr class="even">
-<td style="text-align: center;"><p>2019年月日－<br />
+<tr class="odd">
+<td style="text-align: center;"><p>2019年10月7日－<br />
 2019年月日</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/VIP_(韓國電視劇)" title="wikilink">VIP</a><br />
 </p></td>
@@ -1619,7 +1630,7 @@
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/申惠媛" title="wikilink">申惠媛</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>

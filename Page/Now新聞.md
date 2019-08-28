@@ -14,13 +14,13 @@ now新聞（now直播台、now新聞台及now財經台）的總部處於[灣仔]
 
 ### now新聞台
 
-**now新聞台**（），是[香港](../Page/香港.md "wikilink")第五個二十四小時報導即時[新聞的頻道](https://zh.wikipedia.org/wiki/新聞 "wikilink")。原本是一個標清製作的新聞頻道，於2018年8月13日起升級為高清頻道。[now新聞台主要競爭對手包括](https://zh.wikipedia.org/wiki/now新聞台 "wikilink")[myTV SUPER的](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")[無綫新聞台](../Page/無綫新聞台.md "wikilink")和[香港有線電視](../Page/香港有線電視.md "wikilink")的[有線新聞台](../Page/有線新聞台.md "wikilink")。
+**now新聞台**（），是[香港](../Page/香港.md "wikilink")第五個二十四小時報導即時[新聞的頻道](https://zh.wikipedia.org/wiki/新聞 "wikilink")。原本是一個標清製作的新聞頻道，於2018年8月13日起升級為高清頻道。[now新聞台主要競爭對手是](https://zh.wikipedia.org/wiki/now新聞台 "wikilink")[無綫新聞台](../Page/無綫新聞台.md "wikilink")和[有線新聞台](../Page/有線新聞台.md "wikilink")。
 
 #### 節目
 
 ### now財經台
 
-**now財經台**（、英文簡稱），是[now寬頻電視的其中一個新聞資訊頻道](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")。在2006年3月20日開始播放。[now財經台與對手](https://zh.wikipedia.org/wiki/now財經台 "wikilink")[有線電視財經資訊台一樣](https://zh.wikipedia.org/wiki/有線電視財經資訊台 "wikilink")，於平日日間重點直播股市實況、並於[香港交易所](../Page/香港交易所.md "wikilink")設有直播室，而晚間及假日則播放財經節目及與[now新聞台聯播新聞](https://zh.wikipedia.org/wiki/now新聞台 "wikilink")。[now財經台的主要競爭對手為](https://zh.wikipedia.org/wiki/now財經台 "wikilink")[香港有線電視](../Page/香港有線電視.md "wikilink")的[有線財經資訊台](../Page/有線財經資訊台.md "wikilink")及[myTV SUPER的](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")[無綫財經·資訊台](../Page/無綫財經·資訊台.md "wikilink")。
+**now財經台**（、英文簡稱），是[now寬頻電視的其中一個新聞資訊頻道](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")。在2006年3月20日開始播放。[now財經台與對手](https://zh.wikipedia.org/wiki/now財經台 "wikilink")[有線電視財經資訊台一樣](https://zh.wikipedia.org/wiki/有線電視財經資訊台 "wikilink")，於平日日間重點直播股市實況、並於[香港交易所](../Page/香港交易所.md "wikilink")設有直播室，而晚間及假日則播放財經節目及與[now新聞台聯播新聞](https://zh.wikipedia.org/wiki/now新聞台 "wikilink")。[now財經台的主要競爭對手為](https://zh.wikipedia.org/wiki/now財經台 "wikilink")[有線財經資訊台](../Page/有線財經資訊台.md "wikilink")及[無綫財經·資訊台](../Page/無綫財經·資訊台.md "wikilink")。
 
 #### 歷史
 
@@ -140,73 +140,80 @@ now香港台2008年12月12日啟播後至2016年3月18日，該台每日會播�
 （主播）</p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><strong>港聞組採訪主任／副採訪主任／助理採訪主任</strong></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/翁家揚" title="wikilink">翁家揚</a><br />
+（主播）</p></td>
 </tr>
 <tr class="odd">
+<td style="text-align: center;"><p><strong>港聞組採訪主任／副採訪主任／助理採訪主任</strong></p></td>
+</tr>
+<tr class="even">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/鄭麗矜" title="wikilink">鄭麗矜</a><br />
 （總採訪主任）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><a href="../Page/高志輝.md" title="wikilink">高志輝</a><br />
 （副採訪主任）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><strong>港聞組記者</strong></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/簡學悕" title="wikilink">簡學悕</a><br />
 （首席記者）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/廖康如" title="wikilink">廖康如</a><br />
 （高級記者）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/張汶樂" title="wikilink">張汶樂</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/洪泳森" title="wikilink">洪泳森</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/文雪萍" title="wikilink">文雪萍</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><strong>國際新聞組記者／編輯</strong></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/梁宙然" title="wikilink">梁宙然</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/宋靜嫻" title="wikilink">宋靜嫻</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/梁銘思" title="wikilink">梁銘思</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/梁尹齡" title="wikilink">梁尹齡</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/廖美兒" title="wikilink">廖美兒</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/王晶_(記者)" title="wikilink">王晶</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><strong>財經組記者</strong></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/潘磊華" title="wikilink">潘磊華</a><br />
 （首席記者）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/黃思行" title="wikilink">黃思行</a><br />
 （高級記者）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/周雪君" title="wikilink">周雪君</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/鄧雪玲" title="wikilink">鄧雪玲</a></p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/陳正犖" title="wikilink">陳正犖</a></p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p><strong>體育組</strong></p></td>
@@ -290,10 +297,10 @@ now香港台2008年12月12日啟播後至2016年3月18日，該台每日會播�
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/蔡千紅" title="wikilink">蔡千紅</a></p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/周芷菱" title="wikilink">周芷菱</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/陳國建" title="wikilink">陳國建</a></p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/張曉鳴" title="wikilink">張曉鳴</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/周可茵" title="wikilink">周可茵</a></p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>'''近況：轉投<a href="https://zh.wikipedia.org/wiki/有線新聞" title="wikilink">有線新聞</a></p></td>
@@ -397,7 +404,7 @@ now香港台2008年12月12日啟播後至2016年3月18日，該台每日會播�
 <td style="text-align: center;"><p><a href="../Page/張鷺玲.md" title="wikilink">張鷺玲</a></p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/陳正犖" title="wikilink">陳正犖</a></p></td>
+<td style="text-align: center;"><p>徐巧明（香港興業公關）</p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>'''近況：其他</p></td>

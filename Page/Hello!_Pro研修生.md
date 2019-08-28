@@ -1,6 +1,6 @@
 **Hello\! Pro研修生**（****）舊稱Hello\! Pro EGG\[1\]（）。[早安家族](../Page/早安家族.md "wikilink")的成員，為主要成員以外的「研修生」。
 
-目前Hello\! Pro研修生共9人；Hello\! Pro研修生北海道共1人。 在[早安家族](../Page/早安家族.md "wikilink")冬、夏演唱會，或者各團體的演唱會中擔任伴舞。
+目前Hello\! Pro研修生共18人；Hello\! Pro研修生北海道共2人。 在[早安家族](../Page/早安家族.md "wikilink")冬、夏演唱會，或者各團體的演唱會中擔任伴舞。
 
 以「正式出道」為目標，進行一連串歌舞表演的研習及訓練。
 
@@ -145,6 +145,123 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p>30期</p></td>
+<td></td>
+<td><p>広本瑠璃</p></td>
+<td><p>ひろもと るり</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>橋田歩果</p></td>
+<td><p>はしだ ほのか</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>西﨑美空</p></td>
+<td><p>にしざき みく</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>平山遊季</p></td>
+<td><p>ひらやま ゆき</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>北原もも</p></td>
+<td><p>きたはら もも</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>江端妃咲</p></td>
+<td><p>えばた きさき</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>豫風瑠乃</p></td>
+<td><p>よふう るの</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>村越彩菜</p></td>
+<td><p>むらこし あやな</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>植村葉純</p></td>
+<td><p>うえむら はすみ</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -197,6 +314,16 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>橋本莉々花</p></td>
+<td><p>2期</p></td>
+<td><p>2019年8月</p></td>
+<td><p>はしもと りりか</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>

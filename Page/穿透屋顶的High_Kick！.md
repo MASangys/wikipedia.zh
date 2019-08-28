@@ -105,9 +105,9 @@
 </tr>
 <tr class="even">
 <td><center>
-<p>申世京</p></td>
+<p>申世景</p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/申世京" title="wikilink">申世京</a>[3]</p></td>
+<p><a href="../Page/申世景.md" title="wikilink">申世景</a>[3]</p></td>
 <td><center>
 <p><a href="../Page/馮嘉德.md" title="wikilink">馮嘉德</a></p></td>
 <td><p>信愛的姊姊。李家的幫傭。能幹。國中畢業跟著爸爸到太白山區躲債，因為後被討債集團追趕，意外與父親分開。帶著妹妹到首爾期待與父親團聚，並在生活陷入困難幸得朱利安相助，曾短暫寄住在金家，後來在李家當幫傭，與妹妹一同寄住。因為在山區生活之久，使得不太懂得人情世故，起初對許多事物感到生疏，但總是打起精神面對難關。最後在醫院往機場的路上下落不明。</p></td>
@@ -119,7 +119,7 @@
 <p><a href="../Page/尹施允.md" title="wikilink">尹施允</a></p></td>
 <td><center>
 <p><a href="../Page/賀宇傑.md" title="wikilink">賀宇傑</a></p></td>
-<td><p>賢慶與寶石的兒子，海莉的哥哥。就讀風波高中。不愛念書，衝動易惹事，擅长High Kick打架，是講義氣重友情的熱血青年。因為曾與第一位家教老師感情很好，起初很排斥新來的家教老師，單戀申世京。</p></td>
+<td><p>賢慶與寶石的兒子，海莉的哥哥。就讀風波高中。不愛念書，衝動易惹事，擅长High Kick打架，是講義氣重友情的熱血青年。因為曾與第一位家教老師感情很好，起初很排斥新來的家教老師，單戀申世景。</p></td>
 </tr>
 <tr class="even">
 <td><center>

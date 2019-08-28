@@ -1,4 +1,4 @@
-****（，英文），即「**全國廣播網**」，是[日本](../Page/日本.md "wikilink")一家[廣播聯播網](https://zh.wikipedia.org/wiki/廣播聯播網 "wikilink")，成立於1965年5月3日，[加盟者為](https://zh.wikipedia.org/wiki/加盟 "wikilink")[AM私營](../Page/調幅廣播.md "wikilink")[廣播電臺](https://zh.wikipedia.org/wiki/廣播電臺 "wikilink")。其[核心局](../Page/核心局.md "wikilink")為[文化放送及](../Page/文化放送_\(日本\).md "wikilink")[日本放送](../Page/日本放送.md "wikilink")。NRN共有40個廣播電台加盟，是日本最大的廣播聯播網。
+****（，），即「**全國廣播網**」，是[日本](../Page/日本.md "wikilink")一家[廣播聯播網](https://zh.wikipedia.org/wiki/廣播聯播網 "wikilink")，成立於1965年5月3日，[加盟者為](https://zh.wikipedia.org/wiki/加盟 "wikilink")[AM私營](../Page/調幅廣播.md "wikilink")[廣播電臺](https://zh.wikipedia.org/wiki/廣播電臺 "wikilink")。其[核心局](../Page/核心局.md "wikilink")為[文化放送及](../Page/文化放送_\(日本\).md "wikilink")[日本放送](../Page/日本放送.md "wikilink")。NRN共有40個廣播電台加盟，是日本最大的廣播聯播網。
 
 ## 成員列表
 
@@ -78,7 +78,7 @@
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/關東廣域圈" title="wikilink">關東廣域圈</a></p></td>
 <td><p><strong>QR</strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/株式會社文化放送" title="wikilink">文化放送</a></p></td>
+<td><p><a href="../Page/文化放送_(日本).md" title="wikilink">文化放送</a></p></td>
 <td><p><small>NRN基幹局，加盟<a href="https://zh.wikipedia.org/wiki/富士產經集團" title="wikilink">富士產經集團</a>。</p></td>
 <td><p>◆▼</p></td>
 </tr>
@@ -99,7 +99,7 @@
 <tr class="odd">
 <td><p><a href="../Page/栃木縣.md" title="wikilink">栃木縣</a></p></td>
 <td><p><strong>CRT</strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/栃木放送" title="wikilink">栃木放送</a></p></td>
+<td></td>
 <td></td>
 <td><p>◆</p></td>
 </tr>
@@ -187,7 +187,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/京都府" title="wikilink">京都府</a></p></td>
 <td><p><strong>KBS</strong></p></td>
 <td><p><a href="../Page/京都放送.md" title="wikilink">京都放送</a>（<a href="https://zh.wikipedia.org/wiki/KBS京都" title="wikilink">KBS京都</a>）</p></td>
-<td><p><small>滋賀縣內為<a href="https://zh.wikipedia.org/wiki/KBS滋賀" title="wikilink">KBS滋賀</a></p></td>
+<td><p><small>滋賀縣內為</p></td>
 <td><p>◆☆○</p></td>
 </tr>
 <tr class="even">
@@ -200,7 +200,7 @@
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/和歌山縣" title="wikilink">和歌山縣</a></p></td>
 <td><p><strong>WBS</strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/和歌山放送" title="wikilink">和歌山放送</a></p></td>
+<td></td>
 <td></td>
 <td><p>◇▼</p></td>
 </tr>
@@ -278,7 +278,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/佐賀縣" title="wikilink">佐賀縣</a></p></td>
 <td><p><strong>NBC</strong></p></td>
 <td><p><a href="../Page/長崎放送.md" title="wikilink">長崎放送</a></p></td>
-<td><p><small>佐賀縣內為<a href="https://zh.wikipedia.org/wiki/NBCラジオ佐賀" title="wikilink">NBCラジオ佐賀</a></p></td>
+<td><p><small>佐賀縣內為</p></td>
 <td><p>◇☆</p></td>
 </tr>
 <tr class="odd">
@@ -319,7 +319,7 @@
 <tr class="even">
 <td><p><a href="../Page/沖繩縣.md" title="wikilink">沖繩縣</a></p></td>
 <td><p><strong>ROK</strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ラジオ沖繩" title="wikilink">ラジオ沖繩</a></p></td>
+<td></td>
 <td></td>
 <td><p>◆</p></td>
 </tr>

@@ -959,16 +959,9 @@
 
 #### "Coffee Lake-S" (14 nm)
 
-| 型号                                                            | sSpec编号 (步进)          | 核心/线程 | 处理器基本频率(GHz) | 缓存      | 处理器显卡 | 处理器显卡频率(MHz)     | 内存控制器 (MHz) | TDP       | 插槽   | 发布日期     |
-| ------------------------------------------------------------- | --------------------- | ----- | ------------ | ------- | ----- | ---------------- | ----------- | --------- | ---- | -------- |
-| <small>L2(KB)</small>                                         | <small>L3(MB)</small> |       |              |         |       |                  |             |           |      |          |
-| <font color=white>**标准功耗**</font>                             |                       |       |              |         |       |                  |             |           |      |          |
-| [Celeron G4900](https://ark.intel.com/zh-cn/products/129487)  | SR3W4 (B0)            | 2/2   | 3.1          | 2 x 256 | 2     | UHD Graphics 610 | 350–1050    | DDR4-2400 | 54 W | LGA 1151 |
-| [Celeron G4920](https://ark.intel.com/zh-cn/products/129950)  | SR3YL (B0)            | 3.2   |              |         |       |                  |             |           |      |          |
-| <font color="white">**低功耗**</font>                            |                       |       |              |         |       |                  |             |           |      |          |
-| [Celeron G4900T](https://ark.intel.com/zh-cn/products/129952) | SR3YP (B0)            | 2/2   | 2.9          | 2 x 256 | 2     | UHD Graphics 610 | 350–1000    | DDR4-2400 | 35 W | LGA 1151 |
+#### "Coffee Lake-H" (14 nm)
 
-## 流動型處理器
+## 筆記本電腦處理器
 
 ### [P6微架構](../Page/P6微架構.md "wikilink")
 

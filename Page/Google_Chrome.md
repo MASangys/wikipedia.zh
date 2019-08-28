@@ -341,7 +341,7 @@ Chrome是2010年提供給[歐洲經濟區](../Page/歐洲經濟區.md "wikilink"
       -
         {| class="wikitable"
 
-|- \! 差異對照 \! 版本 \! 分數 |- style="background-color:Salmon;" | 上個舊版本 | 73.0.3683.103 | 535 |- style="background-color:LawnGreen;" | 目前版本 | 74.0.3729.169 | 535 |}
+|- \! 差異對照 \! 版本 \! 分數 |- style="background-color:Salmon;" | 上個舊版本 | 73.0.3683.103 | 535 |- style="background-color:LawnGreen;" | 目前版本 | 74.0.3729.169 | 535 |} chrome在部分windows10系统中可能会出现网页打开十分缓慢的问题，但将系统升级之后，该问题会得到修复。
 
 ## 参考文献
 

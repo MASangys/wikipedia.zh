@@ -1,12 +1,10 @@
-[Linksys_WRT54G.jpg](https://zh.wikipedia.org/wiki/File:Linksys_WRT54G.jpg "fig:Linksys_WRT54G.jpg")\]\]
-
-**Linksys**是一間網路設備公司。
+[Linksys_WRT54G.jpg](https://zh.wikipedia.org/wiki/File:Linksys_WRT54G.jpg "fig:Linksys_WRT54G.jpg")\]\] **Linksys**是一間網路設備公司。
 
 ## 历史
 
 Linksys最初於1988年創立，2003年3月被思科收購。儘管Linksys最知名的是其[寬頻調製解調器](https://zh.wikipedia.org/wiki/調製解調器 "wikilink")，[無線接入點](../Page/無線接入點.md "wikilink")與[無線路由器](https://zh.wikipedia.org/wiki/路由器#无线网络路由器 "wikilink")，但亦有生產[網絡交換機與](https://zh.wikipedia.org/wiki/網絡交換機 "wikilink")[VoIP](../Page/VoIP.md "wikilink")裝置以及多種其他產品。在2013年，思科把 Linksys 賣給 [Belkin](https://zh.wikipedia.org/wiki/Belkin "wikilink")，並於同年完成併購。
 
-[鸿海科技集团旗下的](https://zh.wikipedia.org/wiki/鸿海科技集团 "wikilink")[鴻騰精密科技](https://zh.wikipedia.org/wiki/鴻騰精密科技 "wikilink")2018/03/27宣布，將以8.66億美元的現金買下美國消費者電子產品製造商Belkin，取得Linksys、Wemo與Phyn等品牌。
+[鸿海科技集团旗下的](https://zh.wikipedia.org/wiki/鸿海科技集团 "wikilink")[鴻騰精密科技于](https://zh.wikipedia.org/wiki/鴻騰精密科技 "wikilink")2018年03月27日宣布，將以8.66億美元的現金買下美國消費者電子產品製造商Belkin，取得Linksys、Wemo與Phyn等品牌。尚待美国政府批准\[1\]。
 
 ## 路由器列表
 
@@ -43,3 +41,5 @@ WRT54G與WRT54GS系列無線路由器後來改為使用可減低[快閃記憶體
   - [The iPhone Is Launched ... By Linksys, Not Apple](http://www.pcworld.com/article/id,128236-c,cellphones/article.html) 於[PC World](../Page/PC_World.md "wikilink")
 
 [Category:鸿海集团](https://zh.wikipedia.org/wiki/Category:鸿海集团 "wikilink") [Category:思科系统](https://zh.wikipedia.org/wiki/Category:思科系统 "wikilink") [Category:美國電子公司](https://zh.wikipedia.org/wiki/Category:美國電子公司 "wikilink") [Category:路由器](https://zh.wikipedia.org/wiki/Category:路由器 "wikilink") [Category:视频通讯](https://zh.wikipedia.org/wiki/Category:视频通讯 "wikilink") [Category:1988年成立的公司](https://zh.wikipedia.org/wiki/Category:1988年成立的公司 "wikilink")
+
+1.

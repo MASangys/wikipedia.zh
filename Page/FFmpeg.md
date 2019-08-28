@@ -2,7 +2,7 @@
 
 「FFmpeg」这个单词中的「FF」指的是「Fast Forward（快速前進）」\[2\]。有些新手写信给「FFmpeg」的项目负责人，询问FF是不是代表“Fast Free”或者“Fast Fourier”等意思，「FFmpeg」的项目负责人回信说：“Just for the record, the original meaning of "FF" in FFmpeg is "Fast Forward"...”
 
-这个项目最初是由[Fabrice Bellard发起的](https://zh.wikipedia.org/wiki/Fabrice_Bellard "wikilink")，而现在是由Michael Niedermayer在进行维护。许多FFmpeg的开发者同时也是[MPlayer](../Page/MPlayer.md "wikilink")项目的成员，FFmpeg在MPlayer项目中是被设计为服务器版本进行开发。
+这个项目最初是由[法布里斯·贝拉](../Page/法布里斯·贝拉.md "wikilink")发起的，而现在是由Michael Niedermayer在进行维护。许多FFmpeg的开发者同时也是[MPlayer](../Page/MPlayer.md "wikilink")项目的成员，FFmpeg在MPlayer项目中是被设计为服务器版本进行开发。
 
 2011年3月13日，FFmpeg部分開發人士決定另組，同时制定了一套关于项目继续发展和维护的规则。\[3\]\[4\]
 
@@ -196,6 +196,8 @@ Libav跳槽之後有一定程度上更改FFmpeg的指令\[24\]。
 <references/>
 
 ## 外部連結
+
+  - [影片轉換](https://zh.wikipedia.org/wiki/影片轉換 "wikilink")
 
   -
   - [Zeranoe FFmpeg Windows builds](http://ffmpeg.zeranoe.com/builds/)

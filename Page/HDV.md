@@ -4,7 +4,7 @@
 
 ## HDV 720p
 
-## HDV 1080i
+## HDV [1080i](https://zh.wikipedia.org/wiki/1080i "wikilink")
 
 ## HDV 1080p
 

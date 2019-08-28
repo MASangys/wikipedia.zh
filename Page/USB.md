@@ -34,25 +34,25 @@ USB可以连接的[外设有](https://zh.wikipedia.org/wiki/外设 "wikilink")[�
 </tr>
 <tr class="even">
 <td><p>USB 3.2</p></td>
-<td><p>Gen2x2</p></td>
+<td><p>Gen 2x2</p></td>
 <td><p>超高速+<br />
 SuperSpeed+</p></td>
 <td><p>USB 3.2</p></td>
 </tr>
 <tr class="odd">
-<td><p>Gen1x2</p></td>
+<td><p>Gen 2x1</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Certified_SuperSpeed_Plus_USB_Logo.svg" title="fig:Certified_SuperSpeed_Plus_USB_Logo.svg">Certified_SuperSpeed_Plus_USB_Logo.svg</a></p></td>
 <td><p>10Gbps</p></td>
 <td><p>1280MB/s</p></td>
 </tr>
 <tr class="even">
-<td><p>Gen2x1</p></td>
+<td><p>Gen 1x2</p></td>
 <td><p>USB 3.1</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Gen1x1</p></td>
+<td><p>Gen 1x1</p></td>
 <td><p>超高速<br />
 SuperSpeed</p></td>
 <td><p>USB 3.0</p></td>
@@ -397,7 +397,7 @@ Bits 1, 2 and 4 ... 7：保留。</p></td>
 
 ### 设备分类
 
-[USB_Flash_Drive_animated.gif](https://zh.wikipedia.org/wiki/File:USB_Flash_Drive_animated.gif "fig:USB_Flash_Drive_animated.gif")\]\] 依附在总线上的设备可以是需要特定的驱动程序的完全定制的设备，也可能属于某个设备类别。这些类别定义了某种设备的行为和接口描述符，这样一个驱动程序可能用于所有此种类别的设备。一般操作系统都为支持这些设备类别，为其提供通用驱动程序。
+[USB_Flash_Drive_animated.gif](https://zh.wikipedia.org/wiki/File:USB_Flash_Drive_animated.gif "fig:USB_Flash_Drive_animated.gif")\]\] 依附在总线上的设备可以是需要特定的驱动程序的完全定制的设备，也可能属于某个设备类别。这些类别定义设备的行为和接口描述符，这样一个驱动程序可能用于所有此种类别的设备。一般操作系统都为支持这些设备类别，为其提供通用驱动程序。
 
 设备分类由USB设计论坛设备工作组决定，并分配ID。
 

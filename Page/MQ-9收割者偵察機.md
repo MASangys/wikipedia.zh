@@ -62,7 +62,7 @@ MQ-9曾出現在下列的流行文化作品中：
 
 ## 参考文献
 
-[Category:无人机](https://zh.wikipedia.org/wiki/Category:无人机 "wikilink") [Category:美国侦察机](https://zh.wikipedia.org/wiki/Category:美国侦察机 "wikilink")
+[Category:无人机](https://zh.wikipedia.org/wiki/Category:无人机 "wikilink") [Category:美国侦察机](https://zh.wikipedia.org/wiki/Category:美国侦察机 "wikilink") [Category:美國無人軍用飛機](https://zh.wikipedia.org/wiki/Category:美國無人軍用飛機 "wikilink")
 
 1.  <https://web.archive.org/web/20070110100443/http://www.af.mil/factsheets/factsheet.asp?fsID=6405>
 2.  [Factsheets : MQ-9 Reaper Unmanned Aerial Vehicle : MQ-9 Reaper Unmanned Aerial Vehicle](https://web.archive.org/web/20070110100443/http://www.af.mil/factsheets/factsheet.asp?fsID=6405)

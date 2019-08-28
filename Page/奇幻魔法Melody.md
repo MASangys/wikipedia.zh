@@ -253,7 +253,7 @@
   - [第二季官方網站](http://www.tv-osaka.co.jp/mymelo_kurukuru/)
   - [第三季官方網站](http://www.tv-osaka.co.jp/animelobby/story_chara_m.html)
   - [第四季官方網站](http://www.tv-osaka.co.jp/ip4/mymelo_kirara/)
-  - [夢之旋律Melody Of Dream](http://melodyofdream.1apps.com/)（非官網）
+  - [Melody Of Dream 夢之旋律](http://www.all4free.com.tw/?gb-seashell)（非官網）
 
 ## 節目的變遷
 

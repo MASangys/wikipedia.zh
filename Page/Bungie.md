@@ -1,16 +1,16 @@
-**Bungie**是[美國著名的](https://zh.wikipedia.org/wiki/美國 "wikilink")[电子游戏](../Page/电子游戏.md "wikilink")软件制作商，是由兩名[芝加哥大學的](https://zh.wikipedia.org/wiki/芝加哥大學 "wikilink")[本科生Alex](https://zh.wikipedia.org/wiki/本科生 "wikilink") Seropian和Jason Jones于1991年5月以**Bungie Software Products Corporation**的名稱成立。公司最初設立在芝加哥，在成立的最初九年里，公司主要致力于[Macintosh平臺游戏的開發](https://zh.wikipedia.org/wiki/Macintosh "wikilink")，他們開發了深受玩家喜愛的《》和《[神话](https://zh.wikipedia.org/wiki/神话：堕落之神 "wikilink")》系列以及《》。
+**Bungie**是[美國著名的](https://zh.wikipedia.org/wiki/美國 "wikilink")[电子游戏](../Page/电子游戏.md "wikilink")软件制作商，是由兩名[芝加哥大學的](https://zh.wikipedia.org/wiki/芝加哥大學 "wikilink")[大學生Alex](https://zh.wikipedia.org/wiki/大學生 "wikilink") Seropian和Jason Jones于1991年5月以**Bungie Software Products Corporation**的名稱成立。公司最初設立在芝加哥，在成立的最初九年里，公司主要致力于[Macintosh平臺游戏的開發](https://zh.wikipedia.org/wiki/Macintosh "wikilink")，他們開發了深受玩家喜愛的《》和《[殺無赦](https://zh.wikipedia.org/wiki/殺無赦：墮落之神 "wikilink")》系列以及《》。
 
 ## 歷史
 
 2000年，Bungie被[微軟收購](https://zh.wikipedia.org/wiki/微軟 "wikilink")，他們的《[最後一戰：戰鬥進化](../Page/最後一戰：戰鬥進化.md "wikilink")》（Halo: Combat Evolved）成為第一人稱射擊遊戲及微軟的遊戲主機[Xbox的首發遊戲](../Page/Xbox_\(遊戲機\).md "wikilink")。《最後一戰》（Halo）從此成為了Xbox的殺手級軟件，它的兩款續作也有著百萬級的銷量。
 
-2007年10月，Bungie把[最後一戰系列](../Page/最後一戰系列.md "wikilink")的[IP權讓渡給](https://zh.wikipedia.org/wiki/智慧財產權 "wikilink")[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")，恢復獨立身份。
+2007年10月，Bungie把[最後一戰系列](../Page/最後一戰系列.md "wikilink")的[智慧財產權讓渡給](https://zh.wikipedia.org/wiki/智慧財產權 "wikilink")[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")，恢復獨立身份。
 
 2013年2月發表[MMOFPS](https://zh.wikipedia.org/wiki/大型多人線上第一人稱射擊遊戲 "wikilink")《[天命](https://zh.wikipedia.org/wiki/命運_\(2014年遊戲\) "wikilink")》（Destiny），交由[动视](../Page/动视.md "wikilink")发行。
 
-2018年6月1日，中国网络公司[网易](../Page/网易.md "wikilink")宣布给与Bungie超过1亿美元的投资\[1\]。
+2018年6月1日，中国大陸公司[网易](../Page/网易.md "wikilink")宣布投資 Bungie 約1亿美元\[1\]。
 
-2019年1月10日，Bungie宣布結束與動視持續八年的合作關係，Bungie將保留《天命》系列的版權與發行權\[2\]。
+2019年1月10日，Bungie宣布結束與動視持續八年的合作關係，Bungie將保留《天命》系列的版權與未來發行權\[2\]。
 
 ## 公司作品
 
@@ -75,8 +75,8 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/神话：堕落之神" title="wikilink">神话：堕落之神</a></p></td>
-<td><p><a href="../Page/即时战术游戏.md" title="wikilink">即时战术</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/殺無赦：堕落之神" title="wikilink">殺無赦：堕落之神</a></p></td>
+<td><p><a href="../Page/即时战术游戏.md" title="wikilink">即时戰術</a></p></td>
 <td><p>1997年</p></td>
 <td><p>Mac、Windows</p></td>
 <td><p>Bungie、<a href="../Page/Eidos.md" title="wikilink">Eidos</a></p></td>
@@ -84,7 +84,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p>即时战术</p></td>
+<td><p>即时戰術</p></td>
 <td><p>1998年</p></td>
 <td><p>Mac、Windows、<a href="../Page/Linux.md" title="wikilink">Linux</a></p></td>
 <td><p>Bungie<br />

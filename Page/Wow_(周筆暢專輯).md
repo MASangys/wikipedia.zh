@@ -25,7 +25,7 @@
 
 </div>
 
-[Category:周笔畅音乐专辑](https://zh.wikipedia.org/wiki/Category:周笔畅音乐专辑 "wikilink") [Category:2007年音乐专辑](https://zh.wikipedia.org/wiki/Category:2007年音乐专辑 "wikilink") [Category:流行音乐专辑](https://zh.wikipedia.org/wiki/Category:流行音乐专辑 "wikilink") [Category:中国大陆音乐专辑](https://zh.wikipedia.org/wiki/Category:中国大陆音乐专辑 "wikilink")
+[Category:周笔畅音乐专辑](https://zh.wikipedia.org/wiki/Category:周笔畅音乐专辑 "wikilink") [Category:2007年音乐专辑](https://zh.wikipedia.org/wiki/Category:2007年音乐专辑 "wikilink")
 
 1.  [周笔畅新专辑玩“实验” 尝试舞曲等多种风格](http://ent.sina.com.cn/y/2007-11-27/01351808703.shtml)，新京报，2007年11月27日。
 2.  [周笔畅新碟走势强劲 《猫的冒险》MV变魔法](http://ent.sina.com.cn/y/2007-12-26/12061851543.shtml)，新浪娱乐，2007年12月26日。

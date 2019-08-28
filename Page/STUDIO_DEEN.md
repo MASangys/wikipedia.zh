@@ -1140,7 +1140,7 @@ STUDIO DEEN另外還有事角色製作和授權管理，並專注於自家開發
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/青春歌舞伎" title="wikilink">青春歌舞伎</a></p></td>
+<td><p><a href="../Page/青春歌舞伎.md" title="wikilink">青春歌舞伎</a></p></td>
 <td></td>
 <td><p>小說</p></td>
 <td></td>
@@ -1273,6 +1273,31 @@ STUDIO DEEN另外還有事角色製作和授權管理，並專注於自家開發
 <td><p>漫畫</p></td>
 <td><p>第1～2期原由<a href="../Page/A-1_Pictures.md" title="wikilink">A-1 Pictures製作</a>。</p></td>
 <td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+  - 2020年代
+
+<table>
+<thead>
+<tr class="header">
+<th><p>首播年份</p></th>
+<th><p>播畢年份</p></th>
+<th><p>中文名稱</p></th>
+<th><p>日文名稱</p></th>
+<th><p>原作類別</p></th>
+<th><p>備註</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2020年</p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/魔術士歐菲" title="wikilink">-{zh-cn:魔术士欧菲;zh-tw:魔術士歐菲;zh-hk:魔法少年;}-迷途之旅</a></p></td>
+<td></td>
+<td><p>小說</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -2354,7 +2379,7 @@ STUDIO DEEN另外還有事角色製作和授權管理，並專注於自家開發
 
 ### 注釋
 
-### 來源
+### 參考來源
 
 ## 參考資料
 

@@ -102,7 +102,7 @@ Cable早晨由兩位[有線電視主播主持](https://zh.wikipedia.org/wiki/香
 
 ### 常規調動
 
-  - 2018年8月20日至9月2日，由於07:00-08:00播出《[亞運最精彩](https://zh.wikipedia.org/wiki/2018年亞洲運動會 "wikilink")》，延至08:00播出。
+  - 2018年8月20日至9月2日[雅加達亞運會舉辦期間](https://zh.wikipedia.org/wiki/2018年亞洲運動會 "wikilink")，由於07:00-08:00播出《[亞運最精彩](https://zh.wikipedia.org/wiki/2018年亞洲運動會 "wikilink")》，延至08:00播出。
 
 ### 特別調動
 

@@ -1,4 +1,4 @@
-[Shoot_the_Bullet.jpg](https://zh.wikipedia.org/wiki/File:Shoot_the_Bullet.jpg "fig:Shoot_the_Bullet.jpg") 是由[同人組織](https://zh.wikipedia.org/wiki/同人組織 "wikilink")[上海愛莉絲幻樂團](../Page/上海愛莉絲幻樂團.md "wikilink")製作的[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")，是[東方Project的](https://zh.wikipedia.org/wiki/東方Project "wikilink")9.5彈。
+[Shoot_the_Bullet.jpg](https://zh.wikipedia.org/wiki/File:Shoot_the_Bullet.jpg "fig:Shoot_the_Bullet.jpg") 是由[同人社團](https://zh.wikipedia.org/wiki/同人社團 "wikilink")[上海愛麗絲幻樂團製作的](https://zh.wikipedia.org/wiki/上海愛麗絲幻樂團 "wikilink")[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")，是[東方Project的](https://zh.wikipedia.org/wiki/東方Project "wikilink")9.5彈。
 
 ## 概要
 
@@ -79,13 +79,13 @@
 
   - **LEVEL 3**
 
-:\*愛莉絲·瑪嘉托洛伊德（）
+:\*愛麗絲·瑪格特洛伊德（）
 
 :\*上白澤 慧音（，）
 
   - **LEVEL 4**
 
-:\*鈴仙·優曇華院·稻葉（，）
+:\*鈴仙·優曇華院·因幡（，）
 
 :\*因幡 帝（，）
 
@@ -95,7 +95,7 @@
 
 :\*紅 美鈴（，）
 
-:\*帕邱莉·諾雷姬（）
+:\*帕秋莉·諾蕾姬（）
 
   - **LEVEL 6**
 
@@ -125,7 +125,7 @@
 
 :\*小野塚 小町（，）
 
-:\*四季映姬·ヤマザナドゥ（，）
+:\*四季映姬·亞瑪薩那度（，）
 
   - **LEVEL Ex**
 

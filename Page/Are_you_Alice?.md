@@ -182,32 +182,6 @@
 
 <!-- end list -->
 
-  - 漫畫
-
-<!-- end list -->
-
-  - Are you Alice? (1)\~(11)
-
-（註：除第一冊外，均有限定特裝版，為DRAMA附送特典。另外第七冊限定版為雙封面，可替換）
-
-  - 小說
-
-<!-- end list -->
-
-  - Are you Alice? （台譯：你陷入的世界）
-  - Are you Alice? （台譯：獻給你的世界）
-  - Are you Alice? （台譯：你與新的世界）
-
-（註：均有限定特裝版）
-
-  - 插畫集
-
-<!-- end list -->
-
-  - THE BIG SMOKE（插畫家：）
-
-<!-- end list -->
-
   - 其他
 
 <!-- end list -->
@@ -221,6 +195,189 @@
   - \- How about a nice cup of tea? （GOODS & MINI CD）
 
   - Are you Alice? VS
+
+## 出版書籍
+
+  - 漫畫
+
+<table>
+<thead>
+<tr class="header">
+<th><p>冊數</p></th>
+<th><p><a href="../Page/一迅社.md" title="wikilink">一迅社</a></p></th>
+<th><p><a href="../Page/東立出版社.md" title="wikilink">東立出版社</a></p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>發售日期</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
+<td><p>發售日期</p></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td><p>2009年12月25日</p></td>
+<td><p>ISBN 978-4-7580-5470-6</p></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+<td><p>2010年7月24日</p></td>
+<td><p>ISBN 978-4-7580-5523-9<br />
+ISBN 978-4-7580-5524-6（限定版）</p></td>
+</tr>
+<tr class="even">
+<td><p>3</p></td>
+<td><p>2011年1月25日</p></td>
+<td><p>ISBN 978-4-7580-5563-5<br />
+ISBN 978-4-7580-5564-2（限定版）</p></td>
+</tr>
+<tr class="odd">
+<td><p>4</p></td>
+<td><p>2011年7月25日</p></td>
+<td><p>ISBN 978-4-7580-5610-6<br />
+ISBN 978-4-7580-5611-3（限定版）</p></td>
+</tr>
+<tr class="even">
+<td><p>5</p></td>
+<td><p>2012年1月25日</p></td>
+<td><p>ISBN 978-4-7580-5677-9<br />
+ISBN 978-4-7580-5678-6（限定版）</p></td>
+</tr>
+<tr class="odd">
+<td><p>6</p></td>
+<td><p>2012年7月25日</p></td>
+<td><p>ISBN 978-4-7580-5724-0<br />
+ISBN 978-4-7580-5725-7（限定版）</p></td>
+</tr>
+<tr class="even">
+<td><p>7</p></td>
+<td><p>2013年1月25日</p></td>
+<td><p>ISBN 978-4-7580-5780-6<br />
+ISBN 978-4-7580-5781-3（限定版）</p></td>
+</tr>
+<tr class="odd">
+<td><p>8</p></td>
+<td><p>2013年7月25日</p></td>
+<td><p>ISBN 978-4-7580-5830-8<br />
+ISBN 978-4-7580-5831-5（限定版）</p></td>
+</tr>
+<tr class="even">
+<td><p>9</p></td>
+<td><p>2014年1月25日</p></td>
+<td><p>ISBN 978-4-7580-5873-5<br />
+ISBN 978-4-7580-5874-2（限定版）</p></td>
+</tr>
+<tr class="odd">
+<td><p>10</p></td>
+<td><p>2014年7月25日</p></td>
+<td><p>ISBN 978-4-7580-5933-6<br />
+ISBN 978-4-7580-5934-3（限定版）</p></td>
+</tr>
+<tr class="even">
+<td><p>11</p></td>
+<td><p>2015年1月24日</p></td>
+<td><p>ISBN 978-4-7580-5984-8<br />
+ISBN 978-4-7580-5984-8（限定版）</p></td>
+</tr>
+<tr class="odd">
+<td><p>12</p></td>
+<td><p>2015年7月25日</p></td>
+<td><p>ISBN 978-4-7580-3070-0<br />
+ISBN 978-4-7580-3071-7（限定版）</p></td>
+</tr>
+</tbody>
+</table>
+
+  - 選集
+
+<!-- end list -->
+
+  - 選集
+
+<!-- end list -->
+
+  -
+    Are you Alice? アンソロジー：2011年1月25日發售、ISBN 978-4-7580-5583-3
+
+<!-- end list -->
+
+  - 漫畫選集
+
+<table>
+<thead>
+<tr class="header">
+<th><p>冊數</p></th>
+<th><p>一迅社</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>發售日期</p></td>
+<td><p>ISBN</p></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td><p>2010年7月24日</p></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+<td><p>ISBN 978-4-7580-0574-6</p></td>
+</tr>
+</tbody>
+</table>
+
+  - 小說
+
+<table>
+<thead>
+<tr class="header">
+<th><p>冊數</p></th>
+<th><p>日文副標題</p></th>
+<th><p>中文副標題</p></th>
+<th><p>一迅社</p></th>
+<th><p>東立出版社</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>發售日期</p></td>
+<td><p>ISBN</p></td>
+<td><p>發售日期</p></td>
+<td><p>ISBN</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td></td>
+<td><p>你陷入的世界</p></td>
+<td><p>2010年7月17日</p></td>
+<td><p>ISBN 978-4-7580-4172-0<br />
+ISBN 978-4-7580-4173-7（限定版）</p></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+<td></td>
+<td><p>獻給你的世界</p></td>
+<td><p>2011年7月20日</p></td>
+<td><p>ISBN 978-4-7580-4246-8<br />
+ISBN 978-4-7580-4247-5（限定版）</p></td>
+</tr>
+<tr class="even">
+<td><p>3</p></td>
+<td></td>
+<td><p>你與新的世界</p></td>
+<td><p>2012年6月20日</p></td>
+<td><p>ISBN 978-4-7580-4330-4<br />
+ISBN 978-4-7580-4331-1（限定版）</p></td>
+</tr>
+</tbody>
+</table>
+
+  - 插畫集
+
+<!-- end list -->
+
+  - THE BIG SMOKE（插畫家：）
 
 ## 外部連結
 

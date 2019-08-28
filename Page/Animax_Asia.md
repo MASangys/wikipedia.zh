@@ -4,7 +4,7 @@
 
 ## 歷史
 
-### 台灣與香港
+### 台灣及香港
 
 Animax Asia最早於2004年[元旦](../Page/元旦.md "wikilink")在台灣開台，香港緊接著於2004年1月12日開台\[7\]，[AXN](../Page/AXN.md "wikilink")台灣頻道尚未播畢的動畫節目移往Animax台灣頻道繼續播出。Animax Asia播放許多新舊動畫節目，包括許多比其它東南亞頻道早播放的節目，如[死亡筆記本](https://zh.wikipedia.org/wiki/死亡筆記本 "wikilink")、[血戰](../Page/血戰.md "wikilink")、[聖魔之血](../Page/聖魔之血.md "wikilink")、[蟲師](../Page/蟲師.md "wikilink")以及其他若干節目\[8\]。
 
@@ -139,11 +139,13 @@ Animax 針對了其[東南亞與](https://zh.wikipedia.org/wiki/東南亞 "wikil
 
 Animax香港開台時，可愛動畫區塊到後來於星期一至五日間時段播放的動畫是提供粵語及英語配音，而其餘時段則提供日語原聲配音；後來[香港寬頻播放Animax香港時](https://zh.wikipedia.org/wiki/香港寬頻 "wikilink")，所有節目均有提供日語原聲。
 
-另外，[香港有線電視](../Page/香港有線電視.md "wikilink")於則提供粵語或日語及國語配音，而[銀河衛視](https://zh.wikipedia.org/wiki/銀河衛視 "wikilink")（後來更名為[SuperSun新電視](https://zh.wikipedia.org/wiki/無綫收費電視 "wikilink")）及[TVB收費電視及](https://zh.wikipedia.org/wiki/無綫收費電視 "wikilink")[TVB網絡電視則只能收聽第一聲道的語言](https://zh.wikipedia.org/wiki/無綫網絡電視 "wikilink")（粵語或日語，視乎有關節目播放的主要語言而定）。
+另外，[香港有線電視](../Page/香港有線電視.md "wikilink")於則提供粵語或日語及國語配音，而[銀河衛視](https://zh.wikipedia.org/wiki/銀河衛視 "wikilink")（後來更名為[SuperSun新電視](https://zh.wikipedia.org/wiki/無綫收費電視 "wikilink")）及[TVB收費電視及](https://zh.wikipedia.org/wiki/無綫收費電視 "wikilink")[TVB網絡電視](https://zh.wikipedia.org/wiki/無綫網絡電視 "wikilink")(即myTV Super的前身)則只能收聽第一聲道的語言（粵語或日語，視乎有關節目播放的主要語言而定）。
 
-到了2006年1月，Animax香港在日間播放的動畫全面提供粵語配音，引起部分透過[now寬頻電視](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")、[香港有線電視](../Page/香港有線電視.md "wikilink")及SuperSun新電視之訂戶不滿，指無法收聽日語原聲。
+2006年1月，Animax香港在日間播放的動畫全面提供粵語配音，引起部分透過[now寬頻電視](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")、[香港有線電視](../Page/香港有線電視.md "wikilink")及SuperSun新電視之訂戶不滿，指無法收聽日語原聲。
 
-到了2006年5月，[now寬頻電視提供最多四種語言廣播](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")（粵語、日語、英語及國語），不過[香港有線電視](../Page/香港有線電視.md "wikilink")及SuperSun新電視則一直未有更改；直到現時為止，仍然有不少透過[香港有線電視](../Page/香港有線電視.md "wikilink")之訂戶在Animax香港網頁之討論區投訴。
+2006年5月，[now寬頻電視提供最多四種語言廣播](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")（粵語、日語、英語及國語），不過[香港有線電視](../Page/香港有線電視.md "wikilink")及SuperSun新電視則一直未有更改；直到現時為止，仍然有不少透過[香港有線電視](../Page/香港有線電視.md "wikilink")之訂戶在Animax香港網頁之討論區投訴。
+
+2019年7月1日，經[myTV Super播放的Animax香港提供兩種語言廣播](https://zh.wikipedia.org/wiki/myTV_Super "wikilink")（日語及國語）而宣傳片統一為英語，惹來透過[myTV Super之訂戶在Facebook專頁杯葛](https://zh.wikipedia.org/wiki/myTV_Super "wikilink")，經[Now TV播放的Animax香港仍提供最多四種語言廣播](../Page/Now_TV.md "wikilink")（粵語、日語、英語及國語）。
 
 ### now寬頻電視插播宣傳片事件
 

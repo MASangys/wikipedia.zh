@@ -249,7 +249,7 @@ git的官方wiki也給出了多種關於這個名字的解释。\[11\]
 
 ## 实现原理
 
-git和其他[版本控制系统](https://zh.wikipedia.org/wiki/版本控制系统 "wikilink")（如[CVS](https://zh.wikipedia.org/wiki/协作版本系统 "wikilink")）有不少的差别，git本身关心檔案的整体性是否有改變，但多數的版本控制系统如CVS或[Subversion](../Page/Subversion.md "wikilink")系统則在乎檔案内容的差异。git拒绝保持每个文件的版本修订关系。因此查看一个文件的历史需要遍历各个history快照；git隐式处理文件更名，即同名文件默认为其前身，如果没有同名文件则在前一个版本中搜索具有类似内容的文件。
+git和其他[版本控制系统](https://zh.wikipedia.org/wiki/版本控制系统 "wikilink")（如[CVS](https://zh.wikipedia.org/wiki/协作版本系统 "wikilink")）有不小的差别，git本身关心檔案的整体性是否有改變，但多數的版本控制系统如CVS或[Subversion](../Page/Subversion.md "wikilink")系统則在乎檔案内容的差异。git拒绝保持每个文件的版本修订关系。因此查看一个文件的历史需要遍历各个history快照；git隐式处理文件更名，即同名文件默认为其前身，如果没有同名文件则在前一个版本中搜索具有类似内容的文件。
 
 git更像一個檔案系统，直接在本機上取得資料，不必連線到主机端获取資料。 每个开发者都可有全部开发历史的本地副本，changes从这种本地repository复制给其他开发者。这些changes作为新增的开发分支被导入，可以与本地开发分支合并。
 

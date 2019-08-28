@@ -98,7 +98,7 @@ IGN很少給予滿分。从1990年代起，總共有38款遊戲得到滿分\[5\]
 
 35. [超级马里奥 奥德赛](../Page/超级马里奥_奥德赛.md "wikilink")（Nintendo Switch，2017）\[43\]
 
-36. [碧藍山嶺:探尋自我](https://zh.wikipedia.org/wiki/碧藍山嶺:探尋自我 "wikilink") （PC 和 PS4 和 XBox， 2018）\[44\]
+36. [蔚蓝](https://zh.wikipedia.org/wiki/蔚蓝_\(游戏\) "wikilink") （PC 和 PS4 和 XBox， 2018）\[44\]
 
 37. [戰神](../Page/戰神_\(2018年遊戲\).md "wikilink") （PS4， 2018）\[45\]
 

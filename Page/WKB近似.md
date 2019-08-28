@@ -1,4 +1,4 @@
-在[量子力學裏](https://zh.wikipedia.org/wiki/量子力學 "wikilink")，**WKB近似**是一種半經典計算方法，可以用來解析[薛丁格方程式](https://zh.wikipedia.org/wiki/薛丁格方程式 "wikilink")。[喬治·伽莫夫使用這方法](https://zh.wikipedia.org/wiki/喬治·伽莫夫 "wikilink")，首先正確地解釋了[阿爾法衰變](https://zh.wikipedia.org/wiki/阿爾法衰變 "wikilink")。WKB近似先將量子系統的[波函數](https://zh.wikipedia.org/wiki/波函數 "wikilink")，重新打造為一個[指數函數](https://zh.wikipedia.org/wiki/指數函數 "wikilink")。然後，半經典展開。再假設[波幅或](https://zh.wikipedia.org/wiki/波幅 "wikilink")[相位的變化很慢](https://zh.wikipedia.org/wiki/相位 "wikilink")。通過一番運算，就會得到波函數的近似解。
+在[量子力學裏](https://zh.wikipedia.org/wiki/量子力學 "wikilink")，**WKB近似**是一種半經典計算方法，可以用來解析[薛丁格方程式](https://zh.wikipedia.org/wiki/薛丁格方程式 "wikilink")。[喬治·伽莫夫使用這方法](https://zh.wikipedia.org/wiki/喬治·伽莫夫 "wikilink")，首先正確地解釋了[阿爾法衰變](https://zh.wikipedia.org/wiki/阿爾法衰變 "wikilink")。WKB近似先將量子系統的[波函數](https://zh.wikipedia.org/wiki/波函數 "wikilink")，重新打造為一個[指數函數](https://zh.wikipedia.org/wiki/指數函數 "wikilink")。然後，半經典展開。再假設[波幅或](https://zh.wikipedia.org/wiki/波幅 "wikilink")[相位](../Page/相位.md "wikilink")的變化很慢。通過一番運算，就會得到波函數的近似解。
 
 ## 簡略歷史
 

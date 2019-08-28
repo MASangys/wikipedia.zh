@@ -44,7 +44,7 @@
   - [U magazine](http://www.umagazine.com.hk/)
   - [U Forum](http://www.umagazine.com.hk/forum.php)
 
-[Category:旅遊指南](https://zh.wikipedia.org/wiki/Category:旅遊指南 "wikilink") [Category:香港雜誌](https://zh.wikipedia.org/wiki/Category:香港雜誌 "wikilink") [Category:香港經濟日報](https://zh.wikipedia.org/wiki/Category:香港經濟日報 "wikilink")
+[Category:旅游杂志](https://zh.wikipedia.org/wiki/Category:旅游杂志 "wikilink") [Category:香港雜誌](https://zh.wikipedia.org/wiki/Category:香港雜誌 "wikilink") [Category:香港經濟日報](https://zh.wikipedia.org/wiki/Category:香港經濟日報 "wikilink")
 
 1.
 2.

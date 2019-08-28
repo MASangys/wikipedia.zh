@@ -98,7 +98,7 @@
   -   - 被列為獎勵武器
 
   -   - [安全局](https://zh.wikipedia.org/wiki/英國安全局 "wikilink")
-      - [英國軍隊](../Page/英國軍隊.md "wikilink")（以「L66A1」及「L47A1」的名義使用，作個人防衛武器之用，至今仍裝備[英國空軍](https://zh.wikipedia.org/wiki/英國空軍 "wikilink")）
+      - [英國武裝部隊](https://zh.wikipedia.org/wiki/英國軍事 "wikilink")（以「L66A1」及「L47A1」的名義使用，作個人防衛武器之用，至今仍裝備[英國空軍](https://zh.wikipedia.org/wiki/英國空軍 "wikilink")）
       - [英國陸軍](https://zh.wikipedia.org/wiki/英國陸軍 "wikilink")[特種空勤團](https://zh.wikipedia.org/wiki/特種空勤團 "wikilink")
 
   -   - [警察](../Page/警察.md "wikilink")部門（使用授權生產型）

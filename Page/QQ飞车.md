@@ -1,6 +1,6 @@
-《**-{zh-cn:QQ飞车;zh-sg:极速领域;zh-tw:極速領域}-**》（），-{zh-cn:国际版称为《**极速领域**》（），;zh-sg:中国版称为《**QQ飞车**》（），;zh-tw:[中國](../Page/中國.md "wikilink")版稱為《**QQ飛車**》（），;}-是中国[腾讯公司自主研发的该公司旗下的第一款](https://zh.wikipedia.org/wiki/腾讯公司 "wikilink")3D[卡丁车竞速](https://zh.wikipedia.org/wiki/卡丁车 "wikilink")[网络游戏](../Page/网络游戏.md "wikilink")，是款包含經典賽車競速與道具賽等模式的[賽車](../Page/賽車.md "wikilink")遊戲，最大特色是包含很多[N2O](https://zh.wikipedia.org/wiki/N2O "wikilink")[加速的技能](https://zh.wikipedia.org/wiki/加速 "wikilink")（如不同于同类卡丁车遊戲的落地喷、空喷等技巧）。该游戏的Windows版本于[2008年](../Page/2008年.md "wikilink")1月23日公测。[2012年](../Page/2012年.md "wikilink")11月，发布[Windows的](https://zh.wikipedia.org/wiki/Windows "wikilink")2.0版本\[1\]。手遊版本[國際服則在](https://zh.wikipedia.org/wiki/國際 "wikilink")2019年1月17日於[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[香港](../Page/香港.md "wikilink")、[澳門](../Page/澳門.md "wikilink")、[东南亚等地發布](https://zh.wikipedia.org/wiki/东南亚 "wikilink")。
+《**-{zh-cn:QQ飞车;zh-sg:极速领域;zh-tw:極速領域}-**》（），-{zh-cn:国际版称为《**极速领域**》（），;zh-sg:中国版称为《**QQ飞车**》（），;zh-tw:中國版稱為《**QQ飛車**》（），;}-是中国[腾讯公司自主研发的该公司旗下的第一款](https://zh.wikipedia.org/wiki/腾讯公司 "wikilink")3D[卡丁车竞速](https://zh.wikipedia.org/wiki/卡丁车 "wikilink")[网络游戏](../Page/网络游戏.md "wikilink")，是款包含經典賽車競速與道具賽等模式的賽車遊戲，最大特色是包含很多[N2O加速的技能](https://zh.wikipedia.org/wiki/氮氧加速系统 "wikilink")（如不同于同类卡丁车遊戲的落地喷、空喷等技巧）。该游戏的Windows版本于2008年1月23日公测。2012年11月，发布Windows的2.0版本\[1\]。手遊版本國際服則在2019年1月17日於台灣、香港、澳門、东南亚等地發布。
 
-本作在[中国大陸由騰訊公司运营](https://zh.wikipedia.org/wiki/中国大陸 "wikilink")，国际版则由[Garena运营](https://zh.wikipedia.org/wiki/Garena "wikilink")。
+本作在[中国大陸由騰訊公司运营](https://zh.wikipedia.org/wiki/中国大陸 "wikilink")，国际版则由Garena运营。
 
 ## 历史
 
@@ -10,12 +10,13 @@
   - 2019年1月3日，手机平台國際版《極速-{}-領域》（Speed Drifters）開放CB測試。
   - 2019年1月17日，手机平台國際版《極速-{}-領域》（Speed Drifters）開放不刪檔OB服務。
   - 2019年4月12日，手机平台國際版《極速-{}-領域》（Speed Drifters）推出《狂野摩托》版本。
+  - 2019年7月11日，手機平台中國版《QQ-{}-飛車》（Speed Drifters）推出《組裝車》版本。
 
 ## 争议
 
 ### 抄袭问题
 
-由于《-{zh-cn:QQ飞车;zh-sg:极速领域;zh-tw:極速領域}-》与《[跑跑卡丁车](../Page/跑跑卡丁车.md "wikilink")》的界面与操作方式极其相似，加之众多玩家认为本作有抄袭的行为。所以跑跑卡丁车的游戏公司[Nexon](../Page/Nexon.md "wikilink")曾有考虑起诉腾讯的抄袭行为。但是[任天堂](../Page/任天堂.md "wikilink")也曾经表示Nexon的《跑跑卡丁车》有抄袭过任天堂的《[马里奥赛车](https://zh.wikipedia.org/wiki/马里奥赛车 "wikilink")》系列\[2\]。
+由于《-{zh-cn:QQ飞车;zh-sg:极速领域;zh-tw:極速領域}-》与《[跑跑卡丁车](../Page/跑跑卡丁车.md "wikilink")》的界面与操作方式极其相似，加之众多玩家认为本作有抄袭的行为。所以跑跑卡丁车的游戏公司[Nexon](../Page/Nexon.md "wikilink")曾有考虑起诉腾讯的抄袭行为。但是[任天堂](../Page/任天堂.md "wikilink")也曾经表示Nexon的《跑跑卡丁车》有抄袭过任天堂的《[马里奥赛车](https://zh.wikipedia.org/wiki/马里奥赛车 "wikilink")》系列\[2\]。讽刺的是，2019年7月，《跑跑卡丁车》中国大陆运营商[世纪天成与腾讯合作](https://zh.wikipedia.org/wiki/世纪天成 "wikilink")，在中国大陆推出《跑跑卡丁车官方竞速版》。该作的界面、操作方式与之前腾讯发行的《QQ飞车》手游版高度相似。之前Nexon或世纪天成亦曾推出过若干个版本的《跑跑卡丁车》手游版（界面、操作方式与本作差异较大）。但由于各方面的原因，均被下架。
 
 ## 参考资料
 

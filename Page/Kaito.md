@@ -2,7 +2,7 @@
 
 ## 發展
 
-  - 2007年下旬，CRYPTON發售下一代的同類型軟件[初音未來](../Page/初音未來.md "wikilink")，並爆發熱潮，間接令KAITO重新引起注意。其後成為[四格漫畫](../Page/四格漫畫.md "wikilink")《[小初音未來的日常](../Page/小初音未來的日常.md "wikilink")》的主角之一。
+  - 2007年下半年，CRYPTON發售下一代的同類型軟件[初音未來](../Page/初音未來.md "wikilink")，並爆發熱潮，間接令KAITO重新引起注意。其後成為[四格漫畫](../Page/四格漫畫.md "wikilink")《[小初音未來的日常](../Page/小初音未來的日常.md "wikilink")》的主角之一。
   - 同年11月28日由kobapie（又稱）上載至[NICONICO動畫的原創曲](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")《[](http://www.nicovideo.jp/watch/sm1639267)》引起大反響，並於2008年4月4日播放的電視綜合節目《[The☆Net Star\!](https://zh.wikipedia.org/wiki/The☆Net_Star! "wikilink")》中被介紹\[5\]。
   - 2008年7月25日發表於[C74發售](../Page/Comic_Market.md "wikilink")，收錄[初音未來](../Page/初音未來.md "wikilink")、鏡音鈴、連、[MEIKO](https://zh.wikipedia.org/wiki/MEIKO "wikilink")、KAITO的五首原創曲，是初次包含KAITO的非同人CD\[6\]。
   - 另在[C74發售初次的官方精品](../Page/Comic_Market.md "wikilink")\[7\]。2008年6月5日[GOOD SMILE COMPANY所做的調查中](https://zh.wikipedia.org/wiki/GOOD_SMILE_COMPANY "wikilink")，希望KAITO製成[人物模型的要求是第一位](https://zh.wikipedia.org/wiki/人物模型 "wikilink")，其後於10月21日正式發表預定於2009年2月發售該人物模型\[8\]。

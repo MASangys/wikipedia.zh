@@ -12,6 +12,52 @@
 
 電影以山T乘坐太空船，與老夫子離別作結尾。
 
+## 幕後
+
+  - 片頭工作人員表
+
+<!-- end list -->
+
+  - 出品：香港電影公司
+  - 製作：龍卡通有限公司
+  - 監製：胡樹儒
+  - 原著：王澤
+  - 導演：本多敏行<small><small>（日籍）</small></small>/蔡明欽
+  - 攝影顧問：陶白金<small><small>（英籍）</small></small>
+  - 特技攝影師：蘭尼<small><small>（美籍）</small></small>/黃貽靑
+  - 作曲及作詞：黃霑
+  - 音樂：顧嘉煇
+  - 編劇：王澤、馮元熾
+  - 美術指導：劉志華
+  - 製片：陳劍康
+  - 製作總監：[蔡志忠](../Page/蔡志忠.md "wikilink")、胡樹儒
+
+<!-- end list -->
+
+  - 片尾工作人員表
+
+<!-- end list -->
+
+  - 原畫監督：蔡志忠
+  - 原畫：吳爲章、林傳良、林順發、李淑華、蔣傑、[敖幼祥](../Page/敖幼祥.md "wikilink")
+  - 助理原畫：胡正宗、林傳文、王建興、黃吉慶、梁崇佑、宇有福、楊忠財
+  - 動畫監督：黃華裕
+  - 動畫：吳鴻寶、皮雲聚、陸偉忠、陸偉平、陳聰賢、蔡琨華、方明華、張吉辰、葉芳、郭浚明、林進忠、佘之眉、彭坤興、洪堯軍、劉世輝、王麗瓊、呂永銘、陳良誠、王義能、簡登富、陳調霖、李純雅
+  - 描線監督：魏麗湘
+  - 描線：李碧芬、田露霖、李美朱、傅湘芬、翁淑娟
+  - 著色：賴琤瑜、阮宗蘭、郭秋萍、吳凱莉、簡美淑、楊麗華、吳秀珠、魏鳳月、楊鳳貴、王碧蓮、孫雪芳、曾春菊、陳安妮、林美菁、黃子玹
+  - 美術監督：劉志華
+  - 背景：高文裕
+  - 特技效果：蔡志忠
+  - 攝影監督：黃貽靑
+  - 攝影：ＲＡＮＤＹ、洪漢榮、葛文祥、李鳳瑩、陳秀華
+  - 效果：連炳釗
+  - 剪接：趙雄成、林文彬
+  - 配樂：鄧兆霖
+  - 對白：[丁羽](../Page/丁羽.md "wikilink")（港）、[吳莉](https://zh.wikipedia.org/wiki/武莉 "wikilink")（台）
+  - 沖印：東方彩色沖印有限公司
+  - 錄音：[三芳錄音室](https://zh.wikipedia.org/wiki/三芳錄音公司 "wikilink")、光藝錄音室、光明錄音室
+
 ## 外部連結
 
   -
@@ -19,4 +65,4 @@
   -
   - [山T老夫子 (中文電影資料庫)](http://www.dianying.com/ft/title/16913)
 
-[Category:1980年代香港電影作品](https://zh.wikipedia.org/wiki/Category:1980年代香港電影作品 "wikilink") [Category:香港動畫](https://zh.wikipedia.org/wiki/Category:香港動畫 "wikilink") [Category:动画电影](https://zh.wikipedia.org/wiki/Category:动画电影 "wikilink") [Category:老夫子](https://zh.wikipedia.org/wiki/Category:老夫子 "wikilink") [Category:1980年代奇幻片](https://zh.wikipedia.org/wiki/Category:1980年代奇幻片 "wikilink") [Category:香港奇幻電影](https://zh.wikipedia.org/wiki/Category:香港奇幻電影 "wikilink") [Category:1980年代科幻片](https://zh.wikipedia.org/wiki/Category:1980年代科幻片 "wikilink") [Category:香港科幻片](https://zh.wikipedia.org/wiki/Category:香港科幻片 "wikilink") [Category:人與外星生物接觸題材電影](https://zh.wikipedia.org/wiki/Category:人與外星生物接觸題材電影 "wikilink")
+[Category:1980年代香港電影作品](https://zh.wikipedia.org/wiki/Category:1980年代香港電影作品 "wikilink") [Category:香港動畫](https://zh.wikipedia.org/wiki/Category:香港動畫 "wikilink") [Category:动画电影](https://zh.wikipedia.org/wiki/Category:动画电影 "wikilink") [Category:老夫子](https://zh.wikipedia.org/wiki/Category:老夫子 "wikilink") [Category:蔡志忠](https://zh.wikipedia.org/wiki/Category:蔡志忠 "wikilink") [Category:1980年代奇幻片](https://zh.wikipedia.org/wiki/Category:1980年代奇幻片 "wikilink") [Category:香港奇幻電影](https://zh.wikipedia.org/wiki/Category:香港奇幻電影 "wikilink") [Category:1980年代科幻片](https://zh.wikipedia.org/wiki/Category:1980年代科幻片 "wikilink") [Category:香港科幻片](https://zh.wikipedia.org/wiki/Category:香港科幻片 "wikilink") [Category:人與外星生物接觸題材電影](https://zh.wikipedia.org/wiki/Category:人與外星生物接觸題材電影 "wikilink")

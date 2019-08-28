@@ -1,16 +1,13 @@
 **See-Saw**是[日本](../Page/日本.md "wikilink")的[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")。其英文有「相見・相會」的意思，並且字面由「see」和它的過去式「saw」組合而成。“SeeSaw”一詞亦有“[蹺蹺板](https://zh.wikipedia.org/wiki/蹺蹺板 "wikilink")”之意。該團體曾經解散於1995年，不過在2001年又再次重組。
 
-''''''== 概要 ==
+## 概要
 
 ### 成員
 
   - **[石川智晶](../Page/石川智晶.md "wikilink")**
       - [主音](../Page/歌手.md "wikilink")
   - **[梶浦由記](../Page/梶浦由記.md "wikilink")**
-
-Zo5y97xDYe
-
-  - [鍵盤手](../Page/鍵盤樂器.md "wikilink")
+      - [鍵盤手](../Page/鍵盤樂器.md "wikilink")
   - 西岡由紀子
       - [貝斯](../Page/電貝斯.md "wikilink")
 

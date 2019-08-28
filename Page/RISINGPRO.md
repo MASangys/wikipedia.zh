@@ -4,7 +4,7 @@
 
 ## 所属艺人
 
-### 歌手·音乐家
+### 歌手
 
   -
   - [MAX](https://zh.wikipedia.org/wiki/MAX_\(日本音樂團體\) "wikilink")（、、、）
@@ -37,16 +37,18 @@
 
   - （、田村优太、、都筑聪二）
 
-### 演员·模特·谐星
+### 演员、-{zh-hans:模特; zh-tw:模特兒}-
 
   - [觀月亞里莎](../Page/觀月亞里莎.md "wikilink")
-  - [西內瑪麗亞](../Page/西內瑪麗亞.md "wikilink")
+  - [國仲涼子](../Page/國仲涼子.md "wikilink")
 
 ## PALETTE移籍艺人
 
 ## 曾属艺人
 
-[安室奈美惠](../Page/安室奈美惠.md "wikilink")
+  - [安室奈美惠](../Page/安室奈美惠.md "wikilink")
+  - [西內瑪麗亞](../Page/西內瑪麗亞.md "wikilink")
+  - [滿島光](../Page/滿島光.md "wikilink")
 
 ## 旗下音乐厂牌
 

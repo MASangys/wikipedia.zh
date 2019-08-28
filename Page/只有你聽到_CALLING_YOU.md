@@ -20,13 +20,13 @@
   - 相原涼：[成海璃子](../Page/成海璃子.md "wikilink")
   - 野崎真也：[小出惠介](../Page/小出惠介.md "wikilink")
   - 原田涼：[片瀨那奈](../Page/片瀨那奈.md "wikilink")
-  - 保健老師：[羽田実加](https://zh.wikipedia.org/wiki/羽田実加 "wikilink")
-  - 山口老師：[高田延彦](https://zh.wikipedia.org/wiki/高田延彦 "wikilink")
+  - 保健老師：[羽田實加](https://zh.wikipedia.org/wiki/羽田實加 "wikilink")
+  - 山口老師：[高田延彥](https://zh.wikipedia.org/wiki/高田延彥 "wikilink")
   - 相原美樹：[坂田梨香子](https://zh.wikipedia.org/wiki/坂田梨香子 "wikilink")
   - 相原哲司：[中野英雄](https://zh.wikipedia.org/wiki/中野英雄 "wikilink")
   - 相原伸子：[古手川祐子](https://zh.wikipedia.org/wiki/古手川祐子 "wikilink")
-  - 戶田：[岩城滉一](https://zh.wikipedia.org/wiki/岩城滉一 "wikilink")（特別出演）
-  - 野崎幸：[八千草薫](https://zh.wikipedia.org/wiki/八千草薫 "wikilink")
+  - 戶田：[岩城滉一](https://zh.wikipedia.org/wiki/岩城滉一 "wikilink")（特別演出）
+  - 野崎幸：[八千草薰](https://zh.wikipedia.org/wiki/八千草薰 "wikilink")
 
 ### 主題歌
 

@@ -1,4 +1,4 @@
-**[MTV音乐录影带大奖](https://zh.wikipedia.org/wiki/MTV "wikilink")**（英語：，簡稱VMA），是MTV为嘉奖最佳音乐录音带颁发。VMA本来是想作为另一个[格莱美奖](https://zh.wikipedia.org/wiki/格莱美奖 "wikilink")\[1\] 侧重于音乐录音带的视频方面。一年一度的MTV音乐录音带颁奖典礼通常被称作年轻人的[奥斯卡獎](https://zh.wikipedia.org/wiki/奥斯卡獎 "wikilink")，每年都会吸引数百万年轻人目光。\[2\]到2001年，VMA已成为人们竞相追逐的奖项。\[3\] VMA的奖杯是美国登月的宇航员雕像，这也是MTV早期的象征。
+**MTV音樂錄影帶大獎**（英語：，簡稱VMA），是[MTV为嘉奖最佳](https://zh.wikipedia.org/wiki/MTV "wikilink")[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")颁发。VMA本来是想作为另一个[格莱美奖](https://zh.wikipedia.org/wiki/格莱美奖 "wikilink")\[1\] 侧重于音樂錄影帶的视频方面。一年一度的MTV音樂錄影帶颁奖典礼通常被称作年轻人的[奥斯卡獎](https://zh.wikipedia.org/wiki/奥斯卡獎 "wikilink")，每年都会吸引数百万年轻人目光。\[2\]到2001年，VMA已成为人们竞相追逐的奖项。\[3\] VMA的奖杯是美国登月的宇航员雕像，这也是MTV早期的象征。
 
 每年VMA颁奖典礼通常是在9月中旬举行，并现场直播。 第一届于1984年在纽约的无线电城音乐厅举行，之后陆续在洛杉矶，迈阿密，和拉斯维加斯举行过。
 
@@ -76,7 +76,7 @@ R\&B組合[新版本合唱團](../Page/新版本合唱團.md "wikilink")的各�
 
 #### 2009
 
-在颁奖典礼上，創作歌手[泰勒絲以](https://zh.wikipedia.org/wiki/泰勒絲 "wikilink")《[You Belong with Me](https://zh.wikipedia.org/wiki/与我同在 "wikilink")》获得最佳女歌手录影带奖。当她正在发表获奖感言时，饒舌歌手[肯伊·威斯特](../Page/肯伊·威斯特.md "wikilink")上台抢走话筒，对泰勒絲说：“小泰，（你获奖了）我确实为你感到高兴，我会让你把话说完的。但是（我想先说一句）[碧昂絲](../Page/碧昂絲.md "wikilink")才是最棒的，她一直都是。”\[7\]\[8\] 碧昂絲穿着15厘米的高跟鞋和二十多个舞者一起表演了《[Single Ladies (Put a Ring on It)](https://zh.wikipedia.org/wiki/Single_Ladies_\(Put_a_Ring_on_It\) "wikilink")》 \[9\]
+在颁奖典礼上，創作歌手[泰勒絲以](https://zh.wikipedia.org/wiki/泰勒絲 "wikilink")《[You Belong with Me](https://zh.wikipedia.org/wiki/与我同在 "wikilink")》获得最佳女歌手錄影帶獎。当她正在发表获奖感言时，饒舌歌手[肯伊·威斯特](../Page/肯伊·威斯特.md "wikilink")上台抢走话筒，对泰勒絲说：“小泰，（你获奖了）我确实为你感到高兴，我会让你把话说完的。但是（我想先说一句）[碧昂絲](../Page/碧昂絲.md "wikilink")才是最棒的，她一直都是。”\[7\]\[8\] 碧昂絲穿着15厘米的高跟鞋和二十多个舞者一起表演了《[Single Ladies (Put a Ring on It)](https://zh.wikipedia.org/wiki/Single_Ladies_\(Put_a_Ring_on_It\) "wikilink")》 \[9\]
 
 之后[女神卡卡表演了](https://zh.wikipedia.org/wiki/女神卡卡 "wikilink")《Paparazzi》，在台上看起来像出血的她把观众都吓了一跳。其实那是衣服上一个特殊的装置的效果。\[10\]
 
@@ -84,7 +84,7 @@ R\&B組合[新版本合唱團](../Page/新版本合唱團.md "wikilink")的各�
 
 #### 2010
 
-在2010年音乐录影带大奖上, [女神卡卡](https://zh.wikipedia.org/wiki/女神卡卡 "wikilink") 打破记录一人获得13项提名，捧走8项大奖（其中七个奖项都是《[Bad Romance](../Page/罗曼死.md "wikilink")》，另一个是《[Telephone](https://zh.wikipedia.org/wiki/Telephone_\(song\) "wikilink")》）。她穿着那身备受争议的肉裙上台领奖，将她下一部专辑的名字《[Born This Way](https://zh.wikipedia.org/wiki/Born_This_Way_\(专辑\) "wikilink")》公诸于众，同时还清唱了两句。
+在2010年音樂錄影帶大奖上, [女神卡卡](https://zh.wikipedia.org/wiki/女神卡卡 "wikilink") 打破记录一人获得13项提名，捧走8项大奖（其中七个奖项都是《[Bad Romance](../Page/罗曼死.md "wikilink")》，另一个是《[Telephone](https://zh.wikipedia.org/wiki/Telephone_\(song\) "wikilink")》）。她穿着那身备受争议的肉裙上台领奖，将她下一部专辑的名字《[Born This Way](https://zh.wikipedia.org/wiki/Born_This_Way_\(专辑\) "wikilink")》公诸于众，同时还清唱了两句。
 
 #### 2011
 

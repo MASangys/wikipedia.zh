@@ -8,9 +8,9 @@ X戰警製作發展起源，回溯到1989年當年名導[詹姆斯·卡麥隆以
 
 二十一世紀初，世界上部分人類的身體裏存在著[基因突變](https://zh.wikipedia.org/wiki/基因突變 "wikilink")，使他們在出生時就得到怪異外表或是[超能力](../Page/超能力.md "wikilink")，這種人被稱為「[變種人](https://zh.wikipedia.org/wiki/變種人 "wikilink")」。對於大部分人類而言，變種人只是一群不懷好意的「異類」，在兩方數量相比之下，有著天賦的變種人反而成為遭人類歧視、產生爭議的一方，而兩者所引發的權利鬥爭也持續數十年。
 
-1944年，於[二戰期間遭](https://zh.wikipedia.org/wiki/二戰 "wikilink")[納粹](https://zh.wikipedia.org/wiki/納粹 "wikilink")的[波蘭](https://zh.wikipedia.org/wiki/波蘭 "wikilink")，十四歲[猶太男孩](https://zh.wikipedia.org/wiki/猶太 "wikilink")[艾瑞克·藍歇爾與父母被關在](../Page/萬磁王.md "wikilink")[奧斯維辛集中營時](https://zh.wikipedia.org/wiki/奧斯維辛集中營 "wikilink")，由於被納粹強制和父母分開，他奮力舉手伸向遠處的父母時，卻一瞬間爆發出能夠控制金屬的變種能力，導致金屬柵欄門開始從裏到外歪曲後，他最終遭守衛制伏。2002年，一位對變種人有著敵意的[美國參議員](https://zh.wikipedia.org/wiki/美國參議員 "wikilink")計畫創立《》，未來將會強迫所有變種人公開身份和能力。現今老年的艾瑞克出席會議後，巧遇他的老朋友、擁有強大心電感應能力的[查爾斯·賽維爾](../Page/X教授.md "wikilink")。嚮往和平的查爾斯一直希望人類和變種人能和平共處，歷年來一直抗爭著意圖讓變種人取代人類、征服世界的艾瑞克，他開始擔心艾瑞克會對這樁法案做出威脅行動。
+1944年，於[二戰期間遭](https://zh.wikipedia.org/wiki/二戰 "wikilink")[納粹](https://zh.wikipedia.org/wiki/納粹 "wikilink")[佔領的](../Page/纳粹德国和苏联对波兰的占领.md "wikilink")[波蘭](https://zh.wikipedia.org/wiki/波蘭 "wikilink")，十四歲[猶太男孩](https://zh.wikipedia.org/wiki/猶太 "wikilink")[艾瑞克·藍歇爾與父母被關在](../Page/萬磁王.md "wikilink")[奧斯維辛集中營時](https://zh.wikipedia.org/wiki/奧斯維辛集中營 "wikilink")，由於被納粹強制和父母分開，他奮力舉手伸向遠處的父母時，卻一瞬間爆發出能夠控制金屬的變種能力，導致金屬柵欄門開始從裏到外歪曲後，他最終遭守衛制伏。2002年，一位對變種人有著敵意的[美國參議員](https://zh.wikipedia.org/wiki/美國參議員 "wikilink")計畫創立《》，未來將會強迫所有變種人公開身份和能力。現今老年的艾瑞克出席會議後，巧遇他的老朋友、擁有強大心電感應能力的[查爾斯·賽維爾](../Page/X教授.md "wikilink")。嚮往和平的查爾斯一直希望人類和變種人能和平共處，歷年來一直抗爭著意圖讓變種人取代人類、征服世界的艾瑞克，他開始擔心艾瑞克會對這樁法案做出威脅行動。
 
-居住在[密西西比州](../Page/密西西比州.md "wikilink")的十七歲少女[瑪莉·丹肯托](../Page/小淘氣.md "wikilink")，未知她擁有能夠通過觸碰來吸收他人生命精華的變種能力，不慎將她的男友通過親吻致重度昏迷後離家出走，從此用著小名「小淘氣」。當她流浪到[加拿大](../Page/加拿大.md "wikilink")[艾伯塔州時](../Page/艾伯塔省.md "wikilink")，走進酒吧裏遇見一名叫作「羅根」、又稱「[金剛狼](https://zh.wikipedia.org/wiki/金剛狼 "wikilink")」的變種人。小淘氣目睹羅根經過拳賽打鬥卻傷痕自愈、以及從他的兩隻手拳頭之間能夠分別伸出三根金剛爪後，決定跟著他一起上路。但在林中，他們倆遭到為艾瑞克賣命的變種人[劍齒虎的襲擊](../Page/劍齒虎_\(漫威漫畫\).md "wikilink")，直到查爾斯派來的兩名變種人戰士[獨眼龍和](../Page/獨眼龍_\(漫威漫畫\).md "wikilink")[暴風女](../Page/暴風女.md "wikilink")趕到後救出他們倆。羅根和小淘氣被帶至查爾斯位於[威斯特徹斯特郡](../Page/威斯特徹斯特郡.md "wikilink")的中治療，羅根醒後也發現此地是查爾斯為變種人們所建立的美好校園。小淘氣成為學校一份子後，查爾斯希望羅根能留下來，讓他們來調查艾瑞克為何襲擊他們。
+居住在[密西西比州](../Page/密西西比州.md "wikilink")的十七歲少女[瑪莉·丹肯托](../Page/小淘氣.md "wikilink")，未知她擁有能夠通過觸碰來吸收他人生命精華的變種能力，不慎將她的男友通過親吻致重度昏迷後離家出走，從此用著小名「小淘氣」。當她流浪到[加拿大](../Page/加拿大.md "wikilink")[艾伯塔州時](../Page/艾伯塔省.md "wikilink")，走進酒吧裏遇見一名叫作「羅根」、又稱「[金剛狼](https://zh.wikipedia.org/wiki/金剛狼 "wikilink")」的變種人。小淘氣目睹羅根經過拳賽打鬥卻傷痕自愈、以及從他的兩隻手拳頭之間能夠分別伸出三根金剛爪後，決定跟著他一起上路。但在林中，他們倆遭到為艾瑞克賣命的變種人[大鋼牙的襲擊](../Page/劍齒虎_\(漫威漫畫\).md "wikilink")，直到查爾斯派來的兩名變種人戰士[獨眼龍和](../Page/獨眼龍_\(漫威漫畫\).md "wikilink")[暴風女](../Page/暴風女.md "wikilink")趕到後救出他們倆。羅根和小淘氣被帶至查爾斯位於[威斯特徹斯特郡](../Page/威斯特徹斯特郡.md "wikilink")的中治療，羅根醒後也發現此地是查爾斯為變種人們所建立的美好校園。小淘氣成為學校一份子後，查爾斯希望羅根能留下來，讓他們來調查艾瑞克為何襲擊他們。
 
 凱利參議員這時被艾瑞克的另外兩名部下和[魔形女](../Page/魔形女.md "wikilink")綁架，被帶至一座與世隔絕的吉諾沙島上。艾瑞克將凱利作為實驗對象，通過他的金屬控制能力發動一台能夠產生大型輻射的機器，作用於能夠將激發普通人體內的變種細胞。實驗成功之下，凱利發現他已經被轉化為一個身體能夠自由伸縮的變種人，但也幸運地用能力掙脫出籠子後逃出小島。在學校，小淘氣聽見羅根睡覺時翻來翻去而跑到他身邊，但羅根因為身體被改造時的悲慘回憶所導致的噩夢而驚醒。小淘氣被羅根的金剛爪刺傷，被迫在眾人面前用手吸收羅根的自愈能力使他昏迷。因為這件事在學校引起騷動，魔形女潛入校園變形成和小淘氣走得很近的學生[巴比·德雷克](../Page/冰人_\(漫威漫畫\).md "wikilink")，謊稱查爾斯因為她惹出的事情而生氣，縱使小淘氣離開學校。
 
@@ -165,22 +165,19 @@ Iceman</p></td>
   - {{@movies|fXatm0893006}}
 
   -
-[Category:英語電影](https://zh.wikipedia.org/wiki/Category:英語電影 "wikilink") [Category:美國電影](https://zh.wikipedia.org/wiki/Category:美國電影 "wikilink") [Category:2000年電影](https://zh.wikipedia.org/wiki/Category:2000年電影 "wikilink") [Category:2000年代动作片](https://zh.wikipedia.org/wiki/Category:2000年代动作片 "wikilink") [Category:X战警电影](https://zh.wikipedia.org/wiki/Category:X战警电影 "wikilink") [Category:漫威漫畫改編電影](https://zh.wikipedia.org/wiki/Category:漫威漫畫改編電影 "wikilink") [Category:美国动作片](https://zh.wikipedia.org/wiki/Category:美国动作片 "wikilink") [Category:紐約市背景電影](https://zh.wikipedia.org/wiki/Category:紐約市背景電影 "wikilink") [Category:超級英雄電影](https://zh.wikipedia.org/wiki/Category:超級英雄電影 "wikilink") [Category:多伦多取景电影](https://zh.wikipedia.org/wiki/Category:多伦多取景电影 "wikilink") [Category:布萊恩·辛格電影](https://zh.wikipedia.org/wiki/Category:布萊恩·辛格電影 "wikilink")
+[Category:英語電影](https://zh.wikipedia.org/wiki/Category:英語電影 "wikilink") [Category:2000年電影](https://zh.wikipedia.org/wiki/Category:2000年電影 "wikilink") [Category:2000年代动作片](https://zh.wikipedia.org/wiki/Category:2000年代动作片 "wikilink") [Category:2000年代美国电影作品](https://zh.wikipedia.org/wiki/Category:2000年代美国电影作品 "wikilink") [Category:X战警电影](https://zh.wikipedia.org/wiki/Category:X战警电影 "wikilink") [Category:漫威漫畫改編電影](https://zh.wikipedia.org/wiki/Category:漫威漫畫改編電影 "wikilink") [Category:美国动作片](https://zh.wikipedia.org/wiki/Category:美国动作片 "wikilink") [Category:紐約市背景電影](https://zh.wikipedia.org/wiki/Category:紐約市背景電影 "wikilink") [Category:超級英雄電影](https://zh.wikipedia.org/wiki/Category:超級英雄電影 "wikilink") [Category:多伦多取景电影](https://zh.wikipedia.org/wiki/Category:多伦多取景电影 "wikilink") [Category:布萊恩·辛格電影](https://zh.wikipedia.org/wiki/Category:布萊恩·辛格電影 "wikilink")
 
 1.  [史坦·李](https://zh.wikipedia.org/wiki/史坦·李 "wikilink"), , [布萊恩·辛格](../Page/布萊恩·辛格.md "wikilink"), , , , The Secret Origin of The *X-Men*, 2000, [20th Century Fox](https://zh.wikipedia.org/wiki/20th_Century_Fox "wikilink")
 
 2.
 
-3.  [Stan Lee](https://zh.wikipedia.org/wiki/Stan_Lee "wikilink"), , [Bryan Singer](https://zh.wikipedia.org/wiki/Bryan_Singer "wikilink"), , , , The Secret Origin of The *X-Men*, 2000, [20th Century Fox](https://zh.wikipedia.org/wiki/20th_Century_Fox "wikilink")
-
+3.
 4.
 
-5.  [Stan Lee](https://zh.wikipedia.org/wiki/Stan_Lee "wikilink"), , [Bryan Singer](https://zh.wikipedia.org/wiki/Bryan_Singer "wikilink"), , , , The Secret Origin of The *X-Men*, 2000, [20th Century Fox](https://zh.wikipedia.org/wiki/20th_Century_Fox "wikilink")
-
+5.
 6.
 
-7.  [Stan Lee](https://zh.wikipedia.org/wiki/Stan_Lee "wikilink"), , [Bryan Singer](https://zh.wikipedia.org/wiki/Bryan_Singer "wikilink"), , , , The Secret Origin of The *X-Men*, 2000, [20th Century Fox](https://zh.wikipedia.org/wiki/20th_Century_Fox "wikilink")
-
+7.
 8.
 
 9.
@@ -211,7 +208,6 @@ Iceman</p></td>
 22.
 
 23.
-
 24.
 
 25. "Ellis Island Premiere". *X-Men 1.5*, Disk 2 (20th Century Fox Home Entertainment)

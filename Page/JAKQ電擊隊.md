@@ -148,7 +148,7 @@
 <td><p>替身</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Mitchi_Love" title="wikilink"><span style="color: black">Mitchi Love</span></a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mitchi_Love" title="wikilink"><span style="color: white">Mitchi Love</span></a></p></td>
 <td><p>1960/8/5</p></td>
 <td><p>神奈川縣</p></td>
 <td><p>紅心Q</p></td>

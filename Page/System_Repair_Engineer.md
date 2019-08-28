@@ -19,7 +19,6 @@ SREng日志中包括下列各项：
 
 ## 外部链接
 
-  - [官方网站的说明](http://www.kztechs.com/sreng/index1.html)
-  - [Smallfrogs](http://hi.baidu.com/smallfrogs)－SREng开发者的Blog
+  - [Smallfrogs - 金山软件手机毒霸研发部，SREng软件作者](https://www.weibo.com/smallfrogs?is_hot=1)
 
 [Category:免費軟件](https://zh.wikipedia.org/wiki/Category:免費軟件 "wikilink") [Category:反间谍软件](https://zh.wikipedia.org/wiki/Category:反间谍软件 "wikilink")

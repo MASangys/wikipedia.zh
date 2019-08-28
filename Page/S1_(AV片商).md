@@ -1,6 +1,4 @@
-**S1**（），是日本的[成人视频制造商](https://zh.wikipedia.org/wiki/成人视频制造商 "wikilink")。全名是**S1 No. 1 Style**（）。
-
-隸屬於[北都集團](https://zh.wikipedia.org/wiki/北都集團 "wikilink")，旗下[女優以人氣女優與美形女優著稱](../Page/AV女優.md "wikilink")\[1\]。2004年11月11日，S1加入AV業界，地點在[石川縣](../Page/石川縣.md "wikilink")[加賀市美岬町](https://zh.wikipedia.org/wiki/加賀市 "wikilink")1-1 AVC活動中心，最早的女優有[蒼井空](../Page/蒼井空.md "wikilink")、[小倉愛莉絲](https://zh.wikipedia.org/wiki/小倉愛莉絲 "wikilink")、[小川流果](https://zh.wikipedia.org/wiki/小川流果 "wikilink")。由於S1公司財力雄厚，旗下擁有大量優質女優。
+**S1**（），是日本的[成人视频制造商](https://zh.wikipedia.org/wiki/成人视频制造商 "wikilink")。全名是**S1 No. 1 Style**（）。隸屬於[北都集團](https://zh.wikipedia.org/wiki/北都集團 "wikilink")，旗下[女優以人氣女優與美形女優著稱](../Page/AV女優.md "wikilink")\[1\]。2004年11月11日，S1加入AV業界，地點在[石川縣](../Page/石川縣.md "wikilink")[加賀市美岬町](https://zh.wikipedia.org/wiki/加賀市 "wikilink")1-1 AVC活動中心，最早的女優有[蒼井空](../Page/蒼井空.md "wikilink")、小倉愛莉絲、小川流果。由於S1公司財力雄厚，旗下擁有大量優質女優。
 
 ## 主要系列
 

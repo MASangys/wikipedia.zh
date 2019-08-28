@@ -37,7 +37,7 @@
 
   - [安達忍](../Page/安達忍.md "wikilink")
   - [石津彩](https://zh.wikipedia.org/wiki/石津彩 "wikilink")
-  - [雨蘭咲木子](https://zh.wikipedia.org/wiki/雨蘭咲木子 "wikilink")
+  - [雨蘭咲木子](../Page/雨蘭咲木子.md "wikilink")
   - [太田淑子](https://zh.wikipedia.org/wiki/太田淑子 "wikilink")
   - [岡のりこ](https://zh.wikipedia.org/wiki/岡のりこ "wikilink")
   - [きっかわ佳代](https://zh.wikipedia.org/wiki/きっかわ佳代 "wikilink")

@@ -73,7 +73,7 @@
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>3</p></td>
-<td style="text-align: center;"><p><strong><a href="https://zh.wikipedia.org/wiki/以前以後" title="wikilink">以前以後</a></strong></p></td>
+<td style="text-align: center;"><p><strong><a href="../Page/以前_以後.md" title="wikilink">以前 以後</a></strong></p></td>
 <td style="text-align: center;"><p>2009-12-28</p></td>
 <td style="text-align: center;"><p><a href="../Page/愛貝克思_(台灣).md" title="wikilink">愛克貝思</a></p></td>
 <td style="text-align: center;"></td>
@@ -115,6 +115,13 @@
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>9</p></td>
+<td style="text-align: center;"><p><strong><a href="https://zh.wikipedia.org/wiki/A-Lin_原聲帶" title="wikilink">A-Lin 原聲帶</a></strong></p></td>
+<td style="text-align: center;"><p>2019-08-23</p></td>
+<td style="text-align: center;"><p><a href="../Page/台灣索尼音樂娛樂.md" title="wikilink">台灣索尼音樂娛樂</a></p></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>10</p></td>
 <td style="text-align: center;"><p><strong>悲傷過後</strong></p></td>
 <td style="text-align: center;"><p>預計2020</p></td>
 <td style="text-align: center;"><p><a href="../Page/台灣索尼音樂娛樂.md" title="wikilink">台灣索尼音樂娛樂</a></p></td>
@@ -451,9 +458,7 @@ Pedersen</p></td>
 </tr>
 <tr class="odd">
 <td><p>We Are One</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/蔡健雅" title="wikilink">蔡健雅</a>、<a href="../Page/林憶蓮.md" title="wikilink">林憶蓮</a>、<a href="../Page/張惠妹.md" title="wikilink">張惠妹</a>、<br />
-<a href="../Page/蕭亞軒.md" title="wikilink">蕭亞軒</a>、<a href="../Page/楊丞琳.md" title="wikilink">楊丞琳</a>、<a href="../Page/徐熙娣.md" title="wikilink">徐熙娣</a>、<br />
-<a href="../Page/那英.md" title="wikilink">那英</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蔡健雅" title="wikilink">蔡健雅</a>、<a href="../Page/林憶蓮.md" title="wikilink">林憶蓮</a>、<a href="../Page/張惠妹.md" title="wikilink">張惠妹</a>、<a href="../Page/蕭亞軒.md" title="wikilink">蕭亞軒</a>、<a href="../Page/楊丞琳.md" title="wikilink">楊丞琳</a>、<a href="../Page/徐熙娣.md" title="wikilink">徐熙娣</a>、<a href="../Page/那英.md" title="wikilink">那英</a></p></td>
 <td><p>2017-05-09</p></td>
 <td><p>小寒</p></td>
 <td><p>蔡健雅</p></td>
@@ -468,6 +473,15 @@ Rap詞：J.Sheon</p></td>
 <td><p>J.Sheon/剃刀蔣</p></td>
 <td><p>收錄於 A-Lin「A-Lin同名專輯」<br />
 電視劇「<a href="https://zh.wikipedia.org/wiki/噗通噗通我愛你" title="wikilink">噗通噗通我愛你</a>」主題曲</p></td>
+</tr>
+<tr class="odd">
+<td><p>現在開始做朋友</p></td>
+<td><p><a href="../Page/徐佳瑩.md" title="wikilink">徐佳瑩</a>、<a href="https://zh.wikipedia.org/wiki/艾怡良" title="wikilink">艾怡良</a>、<a href="../Page/彭佳慧.md" title="wikilink">彭佳慧</a>、<a href="../Page/楊乃文.md" title="wikilink">楊乃文</a>、<a href="../Page/蕭煌奇.md" title="wikilink">蕭煌奇</a>、<a href="../Page/伍思凱.md" title="wikilink">伍思凱</a>、<a href="../Page/黃子佼.md" title="wikilink">黃子佼</a>、<a href="https://zh.wikipedia.org/wiki/陶晶瑩" title="wikilink">陶晶瑩</a>、<a href="../Page/光良.md" title="wikilink">光良</a>、<a href="https://zh.wikipedia.org/wiki/MATZKA" title="wikilink">MATZKA</a>、<br />
+<a href="../Page/魏如萱.md" title="wikilink">魏如萱</a>、<a href="../Page/柯智棠.md" title="wikilink">柯智棠</a>、<a href="../Page/Hush_(歌手).md" title="wikilink">HUSH</a>、A-Lin、<a href="../Page/萬芳.md" title="wikilink">萬芳</a>、<a href="../Page/江美琪.md" title="wikilink">江美琪</a>、<a href="../Page/紀曉君.md" title="wikilink">紀曉君</a>、<a href="../Page/戴愛玲.md" title="wikilink">戴愛玲</a>、<a href="../Page/桑布伊.md" title="wikilink">桑布伊</a></p></td>
+<td><p>2019</p></td>
+<td></td>
+<td></td>
+<td><p>第二屆「愛之日常」音樂節主題曲</p></td>
 </tr>
 </tbody>
 </table>

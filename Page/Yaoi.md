@@ -14,13 +14,13 @@ Yaoi作品主要採行[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")�
 
 ## 由來
 
-一般認為Yaoi的[語源出自女性向的動漫迷](https://zh.wikipedia.org/wiki/語源學 "wikilink")[同人誌](../Page/同人誌.md "wikilink")。受到1970年代登場，描繪少年同志戀愛的少女漫畫家[花之24年組](../Page/24年組.md "wikilink")（成員有[竹宮惠子](../Page/竹宮惠子.md "wikilink")、[萩尾望都](../Page/萩尾望都.md "wikilink")、[大島弓子](../Page/大島弓子.md "wikilink")、[山岸-{凉}-子等人](https://zh.wikipedia.org/wiki/山岸凉子 "wikilink")），以及《[宇宙戰艦大和號](../Page/宇宙戰艦大和號.md "wikilink")》等動畫風潮的影響，在少女之間也掀起了同人誌的風潮。這類作品多半只有四頁上下，內容粗製濫造寫完就扔，因此人們叫它「沒有高潮」、「沒有結尾」、「沒有意義」\[1\]。又因為內容涉及[少年愛](../Page/少年愛.md "wikilink")（當時稱之為「ホモ落ち」），「Yaoi」一詞成為1970年代少年愛的進化。
+一般認為Yaoi的[語源出自女性向的動漫迷](https://zh.wikipedia.org/wiki/語源學 "wikilink")[同人誌](../Page/同人誌.md "wikilink")。受到1970年代登場，描繪少年同志戀愛的少女漫畫家[24年組](../Page/24年組.md "wikilink")，以及《[宇宙戰艦大和號](../Page/宇宙戰艦大和號.md "wikilink")》等動畫風潮的影響，在少女之間也掀起了同人誌的風潮。這類作品多半只有四頁上下，內容粗製濫造寫完就扔，因此人們叫它「沒有高潮」、「沒有結尾」、「沒有意義」\[1\]。又因為內容涉及[少年愛](../Page/少年愛.md "wikilink")（當時稱之為「ホモ落ち」），「Yaoi」一詞成為1970年代少年愛的進化。
 
 在此同時，也不得不談到早期建立思想體系的提倡者，小說家[森茉莉和](https://zh.wikipedia.org/wiki/森茉莉 "wikilink")[栗本薰](../Page/栗本薰.md "wikilink")（[中島梓](https://zh.wikipedia.org/wiki/中島梓 "wikilink")）等人。
 
 在「Yaoi」這一名稱還沒登場以前，這類作品通常被冠上「美少年作品」、「同志漫畫」、「耽美」之類的稱呼。自從少年愛雜誌代表刊物《[JUNE](https://zh.wikipedia.org/wiki/JUNE "wikilink")》發行以來，也曾經有過被叫做「JUNE系」的時期。不論是哪種稱呼，其內容都捨棄了現實男同性愛性慾露骨的一面，成為幻想下的產物。
 
-由1979年12月20日[坂田靖子](../Page/坂田靖子.md "wikilink")主編發行的漫畫同人社刊《らっぽり》上的「Yaoi特集」開始，\[2\]，以坂田靖子和波津彬子她們提出的三大特徵，也就是前述沒有高潮、沒有結尾、沒有意義，描繪男同志的情感互動。然而作品的內容並不火辣刺激，主角兩人在相擁之後鏡頭一轉，就切換到隔天早上的[香煙畫面](https://zh.wikipedia.org/wiki/菸草 "wikilink")，諸如此類的橋段，以今日眼光來看僅屬於軟調情色之作。
+1979年12月20日[坂田靖子](../Page/坂田靖子.md "wikilink")主編發行的漫畫同人社刊《らっぽり》上的「Yaoi特集」\[2\]，坂田靖子和[波津彬子](../Page/波津彬子.md "wikilink")等人提出三大特徵定義Yaoi，也就是前述沒有高潮、沒有結尾、沒有意義，描繪男同志的情感互動。然而作品的內容並不火辣刺激，主角兩人在相擁之後鏡頭一轉，就切換到隔天早上的[香煙畫面](https://zh.wikipedia.org/wiki/菸草 "wikilink")，諸如此類的橋段，以今日眼光來看僅屬於軟調情色之作。
 
 最先被稱為「Yaoi」的動漫同人誌類別是《[六神合體](../Page/六神合體.md "wikilink")》和《[足球小將翼](https://zh.wikipedia.org/wiki/足球小將翼 "wikilink")》。「Yaoi」一詞主要用在動漫同人誌上，原創或小說同人誌的稱呼通常以「JUNE」為主，但不知從何時開始亦可使用「Yaoi」。原本「Yaoi」是屬於委婉的圈內用語，然而近年來也有人懷疑該詞的語感趨於露骨，而改以「Boy's Love」或「BL」稱之。
 
@@ -90,6 +90,6 @@ Yaoi作品主要採行[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")�
 [Category:BL](https://zh.wikipedia.org/wiki/Category:BL "wikilink") [Category:男色](https://zh.wikipedia.org/wiki/Category:男色 "wikilink")
 
 1.
-2.  該特集《らっぽり：やおい特集号》由[坂田靖子](../Page/坂田靖子.md "wikilink")、[波津彬子](../Page/波津彬子.md "wikilink")、[花郁悠紀子](../Page/花郁悠紀子.md "wikilink")、[橋本多佳子](https://zh.wikipedia.org/wiki/橋本多佳子 "wikilink")、[磨留美樹子執筆](https://zh.wikipedia.org/wiki/磨留美樹子 "wikilink")。其內容亦再次收錄於《[小說 JUNE](https://zh.wikipedia.org/wiki/JUNE "wikilink")》的129期（2001年3月1日發行）。
+2.  該特集《らっぽり：やおい特集号》由[坂田靖子](../Page/坂田靖子.md "wikilink")、波津彬子、[花郁悠紀子](../Page/花郁悠紀子.md "wikilink")、[橋本多佳子](https://zh.wikipedia.org/wiki/橋本多佳子 "wikilink")、[磨留美樹子執筆](https://zh.wikipedia.org/wiki/磨留美樹子 "wikilink")。其內容亦再次收錄於《[小說 JUNE](https://zh.wikipedia.org/wiki/JUNE "wikilink")》的129期（2001年3月1日發行）。
 3.
 4.

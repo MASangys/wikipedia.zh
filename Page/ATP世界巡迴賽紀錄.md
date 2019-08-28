@@ -28,7 +28,7 @@
 <tr class="even">
 <td><p>2.</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/费德勒" title="wikilink">费德勒</a></p></td>
-<td><p>99</p></td>
+<td><p>102</p></td>
 </tr>
 <tr class="odd">
 <td><p>3.</p></td>
@@ -38,7 +38,7 @@
 <tr class="even">
 <td><p>4.</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/納達爾" title="wikilink">納達爾</a></p></td>
-<td><p>79</p></td>
+<td><p>82</p></td>
 </tr>
 <tr class="odd">
 <td><p>5.</p></td>
@@ -47,8 +47,8 @@
 </tr>
 <tr class="even">
 <td><p>6.</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/德约科维奇" title="wikilink">德约科维奇</a></p></td>
-<td><p>68</p></td>
+<td><p>{flagicon|SER}} <a href="https://zh.wikipedia.org/wiki/德约科维奇" title="wikilink">德约科维奇</a></p></td>
+<td><p>75</p></td>
 </tr>
 <tr class="odd">
 <td><p>7.</p></td>
@@ -84,17 +84,17 @@
 <tr class="odd">
 <td><p>1.</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/費德勒" title="wikilink">費德勒</a></p></td>
-<td><p>98</p></td>
+<td><p>102</p></td>
 </tr>
 <tr class="even">
 <td><p>2.</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/納達爾" title="wikilink">納達爾</a></p></td>
-<td><p>79</p></td>
+<td><p>82</p></td>
 </tr>
 <tr class="odd">
 <td><p>3.</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/德约科维奇" title="wikilink">德约科维奇</a></p></td>
-<td><p>68</p></td>
+<td><p>75</p></td>
 </tr>
 <tr class="even">
 <td><p>4.</p></td>

@@ -332,7 +332,7 @@
 <td><p>C</p></td>
 <td><p>A</p></td>
 <td><p>A</p></td>
-<td><p>A</p></td>
+<td><p>完成</p></td>
 </tr>
 <tr class="even">
 <td><p>Hermit Purple</p></td>

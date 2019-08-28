@@ -1272,7 +1272,7 @@ DVD全13卷販售銷售額達到56000張\[2\]。動畫的下回預告由幫拉�
   -
   - [電視動畫「07-GHOST」官方網站](http://07-ghost.net/index.html)
 
-  - [07-GHOST the world（Marine Entertainment）](http://www.marine-e.co.jp/sakuhin/07-ghost/)
+  - [07-GHOST the world（Marine Entertainment）](https://web.archive.org/web/20090216153050/http://www.marine-e.co.jp/sakuhin/07-ghost/)
 
   -
   - [CR 07-GHOST](http://www.nishijin.co.jp/jp/machine/2011/07-GHOST/) - 柏青哥官方網站（西陣）。

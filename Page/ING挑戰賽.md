@@ -413,7 +413,7 @@
 <td><p>馬杜奴</p></td>
 <td><p>Hedwiges Maduro</p></td>
 <td><p>中場</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/巴伦西亚足球俱乐部" title="wikilink">-{zh-hk:華倫西亞;zh-hans:巴伦西亚;zh-tw:瓦倫西亞;}-</a></p></td>
+<td><p><a href="../Page/巴伦西亚足球俱乐部.md" title="wikilink">-{zh-hk:華倫西亞;zh-hans:巴伦西亚;zh-tw:瓦倫西亞;}-</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>施奴</p></td>

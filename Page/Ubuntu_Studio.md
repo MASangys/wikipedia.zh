@@ -1,6 +1,6 @@
 [Ubuntu_studio_login_screen.png](https://zh.wikipedia.org/wiki/File:Ubuntu_studio_login_screen.png "fig:Ubuntu_studio_login_screen.png")
 
-**Ubuntu Studio** 是一個Ubuntu官方認可的[Ubuntu](../Page/Ubuntu.md "wikilink")[作業系統衍生版本](https://zh.wikipedia.org/wiki/作業系統 "wikilink")\[1\] 。這個版本主要是為一般的多媒體製作而設計。原始的版本是基於Ubuntu 7.04，在2007年5月10日發佈。
+**Ubuntu Studio** 是Ubuntu官方認可的[Ubuntu](../Page/Ubuntu.md "wikilink")[作業系統衍生版本](https://zh.wikipedia.org/wiki/作業系統 "wikilink")\[1\] 。這個版本主要是為[多媒體製作而設](https://zh.wikipedia.org/wiki/多媒體 "wikilink")。第一個版本基於Ubuntu 7.04，在2007年5月10日發佈。
 
 ## 特色
 
@@ -29,10 +29,11 @@ Ubuntu Studio目前已有[Live CD版本](../Page/Live_CD.md "wikilink")，因此
 
 ### 影片
 
-  - [PiTiVi](../Page/PiTiVi.md "wikilink") - 一個非線性的數位影片編輯軟體
-  - [Kino](https://zh.wikipedia.org/wiki/Kino_\(software\) "wikilink") - 一個影片編輯軟體
-  - [Stopmotion](http://developer.skolelinux.no/info/studentgrupper/2005-hig-stopmotion/index.php) - 一個停格動畫製作軟體
-  - [VLC media player](https://zh.wikipedia.org/wiki/VLC_media_player "wikilink") - 一個免費的媒體播放器
+  - [PiTiVi](../Page/PiTiVi.md "wikilink") - 非線性數位影片編輯軟體
+  - [Kino](https://zh.wikipedia.org/wiki/Kino_\(software\) "wikilink") - 影片編輯軟體
+  - [OpenShot](../Page/OpenShot.md "wikilink") - 影片編輯軟體
+  - [Stopmotion](http://developer.skolelinux.no/info/studentgrupper/2005-hig-stopmotion/index.php) - 停格動畫製作軟體
+  - [VLC media player](https://zh.wikipedia.org/wiki/VLC_media_player "wikilink") - 免費的媒體播放器
 
 ### 繪圖
 

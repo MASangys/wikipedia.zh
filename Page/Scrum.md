@@ -142,7 +142,7 @@ Scrum会议一共包含以下四种：
 
 ### Scrum用于产品开发
 
-将Scrum应用于产品开发是在《T新新产品开发游戏》（哈佛商业评论 86116:137-146, 1986年）第一次提出，之后[野中郁次郎](../Page/野中郁次郎.md "wikilink")和[竹内弘高合著的](https://zh.wikipedia.org/wiki/竹内弘高 "wikilink")《创造知识的企业》（牛津大学出版社，1995年）进行了详细的阐述。今天Scrum被用于开发金融产品，互联网产品，以及医药产品。
+将Scrum应用于产品开发是在《新新产品开发游戏》\[7\] 第一次提出，之后[野中郁次郎](../Page/野中郁次郎.md "wikilink")和[竹内弘高合著的](https://zh.wikipedia.org/wiki/竹内弘高 "wikilink")《创造知识的企业》（牛津大学出版社，1995年）进行了详细的阐述。今天Scrum被用于开发金融产品，互联网产品，以及医药产品。
 
 ### Scrum用作营销项目管理方法
 
@@ -189,7 +189,7 @@ Scrum会议一共包含以下四种：
 
 <!-- end list -->
 
-  - [The New New Product Development Game](http://apln-richmond.pbwiki.com/f/New%20New%20Prod%20Devel%20Game.pdf) by Takeuchi and Nonaka. The paper that started it all.
+  - [The New New Product Development Game](https://hbr.org/1986/01/the-new-new-product-development-game) by Takeuchi and Nonaka. The paper that started it all.
   - [Scrum Delivers or Scrum and the Toyota Way](https://web.archive.org/web/20090205094247/http://www.glogerconsulting.de/downloads/Gloger_TototaScrum-170706.pdf) by Boris Gloger. This paper maps the principles of Toyota explained by Liker, with the practices of Scrum.
 
 ## 参考文献
@@ -207,3 +207,4 @@ Scrum会议一共包含以下四种：
 4.
 5.
 6.  page 141-143
+7.  Takeuchi and Nonaka: The New New Product Development Game (Harvard Business Review, Jan-Feb 1986)

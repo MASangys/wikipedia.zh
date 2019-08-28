@@ -1,4 +1,4 @@
-《**Kiss×sis**》是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[Ditama某](../Page/Ditama某.md "wikilink")所創作的[青年漫畫](https://zh.wikipedia.org/wiki/青年漫畫 "wikilink")，並在《月刊Young Magazine》連載。2010年4月，由AT-X製作的電視動畫版開始播放，OAD則是從「Kiss×sis」漫畫第3卷限定版開始隨書附贈。
+《**Kiss×sis**》是[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[Ditama某](../Page/Ditama某.md "wikilink")所創作的[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")。於《月刊Young Magazine》連載。2010年4月，由AT-X製作的電視動畫版開始播放，OAD則是從「Kiss×sis」漫畫第3卷限定版開始隨書附贈。
 
 ## 概要
 
@@ -31,90 +31,142 @@
   -
     圭太的田徑社學妹。是夕月的妹妹，知道姐姐是一名好色的[御宅族](../Page/御宅族.md "wikilink")，但她卻為姐姐保守著這個秘密。明戀圭太且作風大膽，不時作出誘惑圭太的行動，稍微有些腹黑。起初是為了追求圭太主動出擊，後漸漸改為旁觀者，支持姐姐的戀情，並認為圭太的感情史很有趣。
 
-## 單行本
+## 出版書籍
 
 <table>
 <thead>
 <tr class="header">
-<th><p>冊數</p></th>
-<th><p>發售日期</p></th>
+<th><p>卷數</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/講談社" title="wikilink">講談社</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/尖端出版社" title="wikilink">尖端出版社</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/講談社" title="wikilink">講談社</a> <a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
-<td><p>備註</p></td>
+<td><p>發售日期</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
+<td><p>發售日期</p></td>
 </tr>
 <tr class="even">
-<td><p>通常版</p></td>
-<td><p>初回限定版</p></td>
-</tr>
-<tr class="odd">
-<td><p>第1冊</p></td>
+<td><p>1</p></td>
 <td><p>2007年9月6日</p></td>
+<td><p>ISBN 978-4-06-372344-1</p></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+<td><p>2008年1月4日</p></td>
+<td><p>ISBN 978-4-06-375428-5</p></td>
 </tr>
 <tr class="even">
-<td><p>第3冊</p></td>
+<td><p>3</p></td>
 <td><p>2008年12月22日</p></td>
+<td><p>ISBN 978-4-06-375613-5<br />
+ISBN 978-4-06-937284-1（限定版）</p></td>
 </tr>
 <tr class="odd">
-<td><p>第5冊</p></td>
+<td><p>4</p></td>
+<td><p>2009年5月22日</p></td>
+<td><p>ISBN 978-4-06-375723-1<br />
+ISBN 978-4-06-937296-4（限定版）</p></td>
+</tr>
+<tr class="even">
+<td><p>5</p></td>
 <td><p>2009年11月20日</p></td>
+<td><p>ISBN 978-4-06-375829-0<br />
+ISBN 978-4-06-358298-7（限定版）</p></td>
+</tr>
+<tr class="odd">
+<td><p>6</p></td>
+<td><p>2010年6月4日</p></td>
+<td><p>ISBN 978-4-06-375925-9<br />
+ISBN 978-4-06-358311-3（限定版）</p></td>
 </tr>
 <tr class="even">
-<td><p>第7冊</p></td>
+<td><p>7</p></td>
 <td><p>2010年11月22日</p></td>
+<td><p>ISBN 978-4-06-375998-3<br />
+ISBN 978-4-06-358322-9（限定版）</p></td>
 </tr>
 <tr class="odd">
-<td><p>第9冊</p></td>
+<td><p>8</p></td>
+<td><p>2011年6月22日</p></td>
+<td><p>ISBN 978-4-06-376073-6<br />
+ISBN 978-4-06-358339-7（限定版）</p></td>
+</tr>
+<tr class="even">
+<td><p>9</p></td>
 <td><p>2011年11月30日</p></td>
+<td><p>ISBN 978-4-06-376158-0<br />
+ISBN 978-4-06-358355-7（限定版）</p></td>
+</tr>
+<tr class="odd">
+<td><p>10</p></td>
+<td><p>2012年7月6日</p></td>
+<td><p>ISBN 978-4-06-376662-2<br />
+ISBN 978-4-06-358380-9（限定版）</p></td>
 </tr>
 <tr class="even">
-<td><p>第11冊</p></td>
+<td><p>11</p></td>
 <td><p>2013年2月6日</p></td>
+<td><p>ISBN 978-4-06-376788-9<br />
+ISBN 978-4-06-358403-5（限定版）</p></td>
 </tr>
 <tr class="odd">
-<td><p>第13冊</p></td>
+<td><p>12</p></td>
+<td><p>2013年11月6日</p></td>
+<td><p>ISBN 978-4-06-376926-5<br />
+ISBN 978-4-06-358439-4（限定版）</p></td>
+</tr>
+<tr class="even">
+<td><p>13</p></td>
 <td><p>2014年8月6日</p></td>
+<td><p>ISBN 978-4-06-377037-7<br />
+ISBN 978-4-06-358487-5（限定版）</p></td>
 </tr>
-<tr class="even">
-<td><p>第14冊</p></td>
+<tr class="odd">
+<td><p>14</p></td>
 <td><p>2015年4月6日</p></td>
+<td><p>ISBN 978-4-06-377162-6<br />
+ISBN 978-4-06-358745-6（限定版）</p></td>
 </tr>
-<tr class="odd">
-<td><p>第15冊</p></td>
+<tr class="even">
+<td><p>15</p></td>
 <td><p>2015年11月6日</p></td>
+<td><p>ISBN 978-4-06-362318-5<br />
+ISBN 978-4-06-362318-5（限定版）</p></td>
 </tr>
-<tr class="even">
-<td><p>第16冊</p></td>
+<tr class="odd">
+<td><p>16</p></td>
 <td><p>2016年4月6日</p></td>
+<td><p>ISBN 978-4-06-377455-9</p></td>
 </tr>
-<tr class="odd">
-<td><p>第17冊</p></td>
+<tr class="even">
+<td><p>17</p></td>
 <td><p>2016年11月4日</p></td>
+<td><p>ISBN 978-4-06-393070-2</p></td>
 </tr>
-<tr class="even">
-<td><p>第18冊</p></td>
+<tr class="odd">
+<td><p>18</p></td>
 <td><p>2017年5月2日</p></td>
-</tr>
-<tr class="odd">
-<td><p>第19冊</p></td>
-<td><p>2017年12月6日</p></td>
+<td><p>ISBN 978-4-06-393185-3</p></td>
 </tr>
 <tr class="even">
-<td><p>第20冊</p></td>
-<td><p>2018年7月6日</p></td>
+<td><p>19</p></td>
+<td><p>2017年12月6日</p></td>
+<td><p>ISBN 978-4-06-510536-8</p></td>
 </tr>
 <tr class="odd">
-<td><p>第21冊</p></td>
+<td><p>20</p></td>
+<td><p>2018年7月6日</p></td>
+<td><p>ISBN 978-4-06-512017-0</p></td>
+</tr>
+<tr class="even">
+<td><p>21</p></td>
 <td><p>2019年3月6日</p></td>
+<td><p>ISBN 978-4-06-514797-9</p></td>
 </tr>
 </tbody>
 </table>
-
-  -
-    <small>注1：初回限定版附有OVA|OAD（Original Animation Disc）</small>
-    <small>注2：N/A為沒有推出</small>
 
 ## OAD
 

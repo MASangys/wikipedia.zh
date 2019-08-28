@@ -1,4 +1,4 @@
-[Perfect_Cherry_Blossom.jpg](https://zh.wikipedia.org/wiki/File:Perfect_Cherry_Blossom.jpg "fig:Perfect_Cherry_Blossom.jpg") 是[同人組織](https://zh.wikipedia.org/wiki/同人社團 "wikilink")[上海愛莉絲幻樂團](../Page/上海愛莉絲幻樂團.md "wikilink")制作的[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")，是[東方Project的第](https://zh.wikipedia.org/wiki/東方Project "wikilink")7作，也是在[Windows平台上的第二作](https://zh.wikipedia.org/wiki/Windows "wikilink")。本作於2002年12月30日的[Comic Market](../Page/Comic_Market.md "wikilink") 63中發佈含[WAV類型音樂檔的體驗版plus](https://zh.wikipedia.org/wiki/.wav "wikilink")，並在2003年1月26日在網上公開體驗版，最終於2003年8月17日發佈正式版，於9月7日開始[委託販賣](https://zh.wikipedia.org/wiki/委託販賣 "wikilink")。
+[Perfect_Cherry_Blossom.jpg](https://zh.wikipedia.org/wiki/File:Perfect_Cherry_Blossom.jpg "fig:Perfect_Cherry_Blossom.jpg") 是[同人社團](https://zh.wikipedia.org/wiki/同人社團 "wikilink")[上海愛麗絲幻樂團制作的](https://zh.wikipedia.org/wiki/上海愛麗絲幻樂團 "wikilink")[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")，是[東方Project的第](https://zh.wikipedia.org/wiki/東方Project "wikilink")7作，也是在[Windows平台上的第二作](https://zh.wikipedia.org/wiki/Windows "wikilink")。本作於2002年12月30日的[Comic Market](../Page/Comic_Market.md "wikilink") 63中發佈含[WAV類型音樂檔的體驗版plus](https://zh.wikipedia.org/wiki/.wav "wikilink")，並在2003年1月26日在網上公開體驗版，最終於2003年8月17日發佈正式版，於9月7日開始委託販賣。
 
 ## 遊戲系統
 
@@ -44,7 +44,7 @@ Extra關卡的劇情發生在故事模式之後。由於主角在故事模式中
 <!-- end list -->
 
   - 橙（<span id="橙"></span>／，Chen）
-    第二關頭目。在迷途之家活動的[貓股](https://zh.wikipedia.org/wiki/貓股 "wikilink")，也是八雲藍的[式神](../Page/式神.md "wikilink")。橙雖是讓鬼神依憑在妖怪貓身上的生物，但因為是八雲藍的術式，而且藍自己也是式神，因此能力不高，而且那個術式只要接觸到水就會立即解除。另外，因為自己是貓，所以也很怕水。\[6\]
+    第二關頭目。在迷途之家活動的[貓又](https://zh.wikipedia.org/wiki/貓又 "wikilink")，也是八雲藍的[式神](../Page/式神.md "wikilink")。橙雖是讓鬼神依憑在妖怪貓身上的生物，但因為是八雲藍的術式，而且藍自己也是式神，因此能力不高，而且那個術式只要接觸到水就會立即解除。另外，因為自己是貓，所以也很怕水。\[6\]
 
 <!-- end list -->
 

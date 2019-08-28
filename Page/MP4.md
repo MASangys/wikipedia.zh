@@ -53,6 +53,7 @@ MP4文件不僅可以包含由格式标准定义的元数据，还可包含遵�
 
 ## 外部連結
 
+  - [影片轉換軟體](https://zh.wikipedia.org/wiki/影片轉換 "wikilink")
   - RFC 4337 - *MIME Type Registration for MPEG-4*
 
 [Category:MPEG](https://zh.wikipedia.org/wiki/Category:MPEG "wikilink") [Category:視頻文件格式](https://zh.wikipedia.org/wiki/Category:視頻文件格式 "wikilink") [Category:音频格式](https://zh.wikipedia.org/wiki/Category:音频格式 "wikilink")

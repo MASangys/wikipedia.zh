@@ -46,7 +46,7 @@
 <td><p>12.2</p></td>
 <td><p>15-3</p></td>
 <td><p><strong>总冠军</strong></p></td>
-<td><p>18场连胜，1月份全勝，常規賽及季後賽勝率.870（NBA历史最佳）</p></td>
+<td><p>18场连胜，1月份全勝，常規賽及季後賽勝率.870</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>.841</strong></p></td>

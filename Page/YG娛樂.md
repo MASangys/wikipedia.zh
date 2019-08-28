@@ -73,22 +73,6 @@ YG整套造星團隊包括：音樂錄製、發行、藝人包裝等；同時還
   - [李遐怡](../Page/李遐怡.md "wikilink")
   - [CL](https://zh.wikipedia.org/wiki/李彩麟 "wikilink")
   - [Dara](https://zh.wikipedia.org/wiki/Dara "wikilink")
-  - [水晶男孩](../Page/水晶男孩.md "wikilink")
-      - [殷志源](https://zh.wikipedia.org/wiki/殷志源 "wikilink")
-  - [BIGBANG](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")
-      - [太陽](../Page/太陽_\(歌手\).md "wikilink")
-      - [G-Dragon](../Page/G-Dragon.md "wikilink")
-      - [T.O.P](https://zh.wikipedia.org/wiki/T.O.P "wikilink")
-      - [大聲](https://zh.wikipedia.org/wiki/大聲 "wikilink")
-  - [樂童音樂家](https://zh.wikipedia.org/wiki/樂童音樂家 "wikilink")
-      - [李秀贤](https://zh.wikipedia.org/wiki/樂童音樂家 "wikilink")
-  - [WINNER](../Page/WINNER.md "wikilink")
-      - [YOON](../Page/姜昇潤.md "wikilink")
-      - [MINO](https://zh.wikipedia.org/wiki/MINO "wikilink")
-  - [iKON](https://zh.wikipedia.org/wiki/iKON "wikilink")
-      - [BOBBY](../Page/金知元_\(饒舌者\).md "wikilink")
-  - [BLACKPINK](../Page/BLACKPINK.md "wikilink")
-      - [Jennie](../Page/Jennie_\(韓國歌手\).md "wikilink")
 
 #### 製作人
 
@@ -119,8 +103,6 @@ YG整套造星團隊包括：音樂錄製、發行、藝人包裝等；同時還
   - Millennium(崔來星)
 
 ### 独立音乐人
-
-Ella Gross(模特儿）
 
 #### HIGHGRND
 
@@ -167,6 +149,8 @@ Ella Gross(模特儿）
 #### YGX Entertainment
 
   - ANDA
+  - Blue.D
+  - VIINI（[權玄彬](../Page/權玄彬.md "wikilink")）
 
 ### 演員
 
@@ -174,7 +158,6 @@ Ella Gross(模特儿）
   - [車勝元](../Page/車勝元.md "wikilink")
   - [崔智友](https://zh.wikipedia.org/wiki/崔智友 "wikilink")
   - [姜棟元](https://zh.wikipedia.org/wiki/姜棟元 "wikilink")
-  - [崔勝鉉](https://zh.wikipedia.org/wiki/崔勝鉉 "wikilink")
   - [劉寅娜](../Page/劉寅娜.md "wikilink")
   - 金鉉浩
   - [李聖經](../Page/李聖經.md "wikilink")
@@ -189,13 +172,9 @@ Ella Gross(模特儿）
   - [孫浩俊](https://zh.wikipedia.org/wiki/孫浩俊 "wikilink")
   - [李龍宇](../Page/李龍宇.md "wikilink")
   - [李洙赫](../Page/李洙赫.md "wikilink")
-  - [朴山多拉](https://zh.wikipedia.org/wiki/Dara "wikilink")
-  - [鄭粲右](../Page/鄭粲右.md "wikilink")
-  - [姜昇润](https://zh.wikipedia.org/wiki/姜昇润 "wikilink")
-  - [金希庭](../Page/金希庭.md "wikilink")
-  - [金秦禹](../Page/金秦禹.md "wikilink")
   - [黃勝妍](../Page/黃勝妍.md "wikilink")
   - [景收真](../Page/景收真.md "wikilink")
+  - [安英美](../Page/安英美.md "wikilink")
   - [李夏恩](https://zh.wikipedia.org/wiki/李夏恩 "wikilink")（YGKPlus）
   - 裴正南（YGKPlus）
   - 李皓京（YGKPlus）
@@ -209,12 +188,6 @@ Ella Gross(模特儿）
   - 飞叶大树（YGEX）
   - 戸奈步美（YGEX）
   - 高田真史帆（YGEX）
-
-### 藝人
-
-  - [Dara](https://zh.wikipedia.org/wiki/Dara "wikilink")（前[2NE1](../Page/2NE1.md "wikilink")成員）
-  - [安英美](../Page/安英美.md "wikilink")
-  - [權玄彬](../Page/權玄彬.md "wikilink")（[YG K Plus](../Page/YG_K_Plus.md "wikilink")）
 
 ### 運動員（YG Sports）
 
@@ -302,7 +275,8 @@ Ella Gross(模特儿）
   - [李鍾碩](../Page/李鍾碩.md "wikilink")（2016－2018年）\[40\]
   - [高準熹](../Page/高準熹.md "wikilink")（2017－2019年）\[41\]
   - [吳尚津](../Page/吳尚津.md "wikilink")（2017－2019年）\[42\]
-  - [柳炳宰](../Page/柳炳宰.md "wikilink") (2015－2019年)\[43\]
+  - [柳炳宰](../Page/柳炳宰.md "wikilink") （2015－2019年）\[43\]
+  - [金希庭](../Page/金希庭.md "wikilink") （2016－2019年）\[44\]
 
 <!-- end list -->
 
@@ -320,10 +294,10 @@ Ella Gross(模特儿）
 
   - [2NE1](../Page/2NE1.md "wikilink")（2009－2017年）
 
-      - [孔旻智](../Page/孔旻智.md "wikilink")（2009－2016年）\[44\]\[45\]
-      - [朴春](../Page/朴春.md "wikilink")（2009－2016年）\[46\]
+      - [孔旻智](../Page/孔旻智.md "wikilink")（2009－2016年）\[45\]\[46\]
+      - [朴春](../Page/朴春.md "wikilink")（2009－2016年）\[47\]
 
-  - [Epik High](../Page/Epik_High.md "wikilink")（2011－2018年）\[47\]
+  - [Epik High](../Page/Epik_High.md "wikilink")（2011－2018年）\[48\]
 
 ## 昔日練習生
 
@@ -332,7 +306,7 @@ Ella Gross(模特儿）
 <!-- end list -->
 
   - [鄭有津](https://zh.wikipedia.org/wiki/S#afla "wikilink")（[S\#afla](https://zh.wikipedia.org/wiki/S#afla "wikilink")）
-  - [金宥娜](https://zh.wikipedia.org/wiki/金宥娜 "wikilink")\[48\]（[KHAN](https://zh.wikipedia.org/wiki/KHAN "wikilink")）
+  - [金宥娜](https://zh.wikipedia.org/wiki/金宥娜 "wikilink")\[49\]（[KHAN](https://zh.wikipedia.org/wiki/KHAN "wikilink")）
   - [李珠京](https://zh.wikipedia.org/wiki/MyB "wikilink")（[MyB](https://zh.wikipedia.org/wiki/MyB "wikilink")）
   - [瑞淵](https://zh.wikipedia.org/wiki/李瑞淵 "wikilink")（[fromis_9](https://zh.wikipedia.org/wiki/fromis_9 "wikilink")）
   - [美延](https://zh.wikipedia.org/wiki/曹美延 "wikilink")（[(G)I-DLE](../Page/\(G\)I-DLE.md "wikilink")）
@@ -347,7 +321,7 @@ Ella Gross(模特儿）
   - [金成賢](../Page/金成賢.md "wikilink")（[IN2IT](../Page/IN2IT.md "wikilink")）
   - [Ravn](../Page/金英助.md "wikilink")（[ONEUS](https://zh.wikipedia.org/wiki/ONEUS "wikilink")）
   - [Lee Do](https://zh.wikipedia.org/wiki/金建學 "wikilink")（[ONEUS](https://zh.wikipedia.org/wiki/ONEUS "wikilink")）
-  - [田雄](../Page/全雄.md "wikilink")（[AB6IX](../Page/AB6IX.md "wikilink")）
+  - [田雄](https://zh.wikipedia.org/wiki/田雄 "wikilink")（[AB6IX](../Page/AB6IX.md "wikilink")）
   - [李炳坤](../Page/李炳坤.md "wikilink")（[CIX](../Page/CIX.md "wikilink")）
   - [金昇勳](../Page/金昇勳.md "wikilink")（[CIX](../Page/CIX.md "wikilink")）
 
@@ -359,8 +333,8 @@ Ella Gross(模特儿）
 
   - [張賢勝](../Page/張賢勝.md "wikilink")
   - [鄭鎮馨](https://zh.wikipedia.org/wiki/鄭鎮馨 "wikilink")
-  - [凱蒂·金](https://zh.wikipedia.org/wiki/凱蒂·金 "wikilink")\[49\]
-  - [柳珠伊](../Page/Cosmic_Girl.md "wikilink")\[50\]
+  - [凱蒂·金](https://zh.wikipedia.org/wiki/凱蒂·金 "wikilink")\[50\]
+  - [柳珠伊](../Page/Cosmic_Girl.md "wikilink")\[51\]
   - [金保亨](../Page/金保亨.md "wikilink")
   - [金常彬](https://zh.wikipedia.org/wiki/金常彬 "wikilink")
   - YOUNG-G（《[2017快乐男声](https://zh.wikipedia.org/wiki/2017快乐男声 "wikilink")》）
@@ -397,7 +371,7 @@ Ella Gross(模特儿）
       - Kotaro
       - Keita
   - 《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》
-      - 金施勳
+      - 金施勲
 
 <!-- end list -->
 
@@ -410,7 +384,7 @@ Ella Gross(模特儿）
   - [文秀雅](../Page/文秀雅.md "wikilink")
   - 張漢娜
   - Noa
-  - [金恩菲](https://zh.wikipedia.org/wiki/金恩菲 "wikilink")\[51\]
+  - [金恩菲](https://zh.wikipedia.org/wiki/金恩菲 "wikilink")\[52\]
 
 ## 旗下品牌
 
@@ -438,8 +412,8 @@ Ella Gross(模特儿）
       - 水晶男孩 無本質青春旅行
       - [違反校規的修學旅行](../Page/違反校規的修學旅行.md "wikilink")
   - 2018年
-      - [善良地活吧](../Page/善良地活吧.md "wikilink")\[52\]
-      - [YG戰略資料室](../Page/YG戰略資料室.md "wikilink")\[53\]
+      - [善良地活吧](../Page/善良地活吧.md "wikilink")\[53\]
+      - [YG戰略資料室](../Page/YG戰略資料室.md "wikilink")\[54\]
 
 ### 電視劇
 
@@ -765,3 +739,4 @@ Ella Gross(模特儿）
 51.
 52.
 53.
+54.

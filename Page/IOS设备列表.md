@@ -430,7 +430,7 @@ WiFi網頁瀏覽：12<br />
 <td><p>2013年9月10日</p></td>
 <td><p>32 及 16 GB：2014年9月12日<br />
 8 GB：2015年9月10日</p></td>
-<td><p>64 GB：2014年9月12日&lt;br</p></td>
+<td><p>64 GB：2014年9月12日</p></td>
 <td><p>16 、64 及 128 GB : 已停產</p></td>
 <td><p>16 、 64 及 128 GB : 已停產</p></td>
 </tr>
@@ -485,7 +485,7 @@ WiFi網頁瀏覽：12<br />
 </tr>
 <tr class="even">
 <td><p><strong>支援的最新<a href="https://zh.wikipedia.org/wiki/作業系統" title="wikilink">作業系統</a></strong></p></td>
-<td><p>ios 12.4</p></td>
+<td><p>iOS 12.4</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -888,94 +888,114 @@ FaceTime</p></td>
 </tbody>
 </table>
 
-### iPod touch 6
+### iPod touch 6-7
 
 <table>
 <thead>
 <tr class="header">
 <th><p><strong>世代</strong></p></th>
 <th><p><strong>6</strong></p></th>
+<th><p><strong>7</strong></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p><strong>圖片</strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:5th_Generation_iPod_Touch.svg" title="fig:5th_Generation_iPod_Touch.svg">5th_Generation_iPod_Touch.svg</a></p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><strong>型號標識</strong></p></td>
 <td><p>iPod7,1</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><strong>預裝的<a href="https://zh.wikipedia.org/wiki/作業系統" title="wikilink">作業系統</a></strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a> 8.4</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a> 12.3.1</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>支援的最新<a href="https://zh.wikipedia.org/wiki/作業系統" title="wikilink">作業系統</a></strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a> 12.4</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a> 12.4</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>顯示設備</strong></p></td>
 <td><p>4"，16:9 寬闊比，防刮鏡面玻璃玻璃覆蓋 <a href="https://zh.wikipedia.org/wiki/Retina" title="wikilink">Retina屏幕</a>，1136 × 640 像素（326 像素/時）</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/計算機圖形學" title="wikilink">圖像</a></strong></p></td>
 <td><p>PowerVR SGX543MP2</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/儲存裝置.md" title="wikilink">儲存裝置</a></strong></p></td>
 <td><p>16, 32, 64, 及 128 <a href="https://zh.wikipedia.org/wiki/GB" title="wikilink">GB</a></p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/中央處理器" title="wikilink">處理器</a></strong></p></td>
 <td><p>1 GHz <a href="../Page/Apple_A8.md" title="wikilink">Apple A8</a> （雙核心，频率至 800 MHz）</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/記憶體" title="wikilink">記憶體</a></strong></p></td>
 <td><p>1 <a href="https://zh.wikipedia.org/wiki/GB" title="wikilink">GB</a> <a href="https://zh.wikipedia.org/wiki/LPDDR3RAM" title="wikilink">LPDDR3RAM</a></p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><strong>連接</strong></p></td>
 <td><p><a href="../Page/Wi-Fi.md" title="wikilink">Wi-Fi</a> (<a href="https://zh.wikipedia.org/wiki/802.11b/g" title="wikilink">802.11b/g</a>),<br />
 <a href="../Page/USB.md" title="wikilink">USB 2.0</a>/<a href="https://zh.wikipedia.org/wiki/Dock" title="wikilink">Dock connector</a></p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><strong>相機</strong></p></td>
 <td><p>背部(主相機)：800萬畫素 <a href="https://zh.wikipedia.org/wiki/iSight" title="wikilink">iSight鏡頭</a>，<a href="https://zh.wikipedia.org/wiki/摄影机" title="wikilink">攝像功能</a>(<a href="../Page/1080p.md" title="wikilink">1080p HD</a>，每秒最高30<a href="../Page/帧.md" title="wikilink">帧</a>);<br />
 前部：可拍攝120萬像素畫質照片和每秒最高30<a href="../Page/帧.md" title="wikilink">帧</a>的<a href="../Page/720p.md" title="wikilink">720p HD視頻</a></p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><strong>音频解碼器</strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Wolfson_Microelectronics" title="wikilink">Wolfson Microelectronics</a> WM8758BG[22]</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><strong>包裝</strong></p></td>
 <td><p>不銹鋼背部與鋁製斜面；塑膠 <a href="../Page/Wi-Fi.md" title="wikilink">Wi-Fi</a> 天線</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><strong>電池</strong></p></td>
 <td><p>3.7 V 3.8 W·h (1043 毫安时)</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><strong>電池壽命(小時)</strong></p></td>
 <td><p>音樂：22<br />
 影片：5</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><strong>尺寸</strong></p></td>
 <td><p>123.4 × 58.6 × 6.1 mm (4.86 × 2.31 × 0.24 英寸)</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><strong>重量</strong></p></td>
 <td><p>88 克 (3.10 盎司)</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><strong>發佈日期</strong></p></td>
 <td><p>2015年7月15日</p></td>
+<td><p>2019年5月28日</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>停產日期</strong></p></td>
 <td><p>2019年5月28日</p></td>
+<td><p>生产中</p></td>
 </tr>
 </tbody>
 </table>
@@ -1001,8 +1021,8 @@ FaceTime</p></td>
 <th><p>款式</p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/iPad_(第一代)" title="wikilink">iPad<br />
 <small>（第一代）</small></a></p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/iPad_(第二代)" title="wikilink">iPad<br />
-<small>（第二代）</small></a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iPad_2" title="wikilink">iPad<br />
+<small>iPad 2</small></a></p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/iPad_(第三代)" title="wikilink">iPad<br />
 <small>（第三代）</small></a></p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/iPad_(第四代)" title="wikilink">iPad<br />
@@ -1304,8 +1324,8 @@ International: 2011年3月25日</p></td>
 <td><p>款式</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/iPad_(第一代)" title="wikilink">iPad<br />
 <small>（第一代）</small></a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/iPad_(第二代)" title="wikilink">iPad<br />
-<small>（第二代）</small></a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iPad_2" title="wikilink">iPad<br />
+<small>iPad 2</small></a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/iPad_(第三代)" title="wikilink">iPad<br />
 <small>（第三代）</small></a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/iPad_(第四代)" title="wikilink">iPad<br />
@@ -1558,10 +1578,10 @@ Wi-Fi + 4G model: </p></td>
 <thead>
 <tr class="header">
 <th><p>世代</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/iPad_Pro" title="wikilink">12.9吋 iPad Pro</a></p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/iPad_Pro" title="wikilink">9.7吋 iPad Pro</a></p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/iPad_Pro" title="wikilink">12.9吋 iPad Pro</a>（第二代）</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/iPad_Pro" title="wikilink">10.5吋 iPad Pro</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iPad_Pro" title="wikilink">iPad Pro (第一代, 12.9英寸)</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iPad_Pro" title="wikilink">iPad Pro (第一代, 9.7英寸)</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iPad_Pro" title="wikilink">iPad Pro (第二代, 12.9英寸)</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iPad_Pro" title="wikilink">iPad Pro (第二代, 10.5英寸)</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -1762,8 +1782,8 @@ Wi-Fi + cellular: </p></td>
 <thead>
 <tr class="header">
 <th><p>世代</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/iPad_Pro" title="wikilink">12.9吋 iPad Pro</a> （第三代）</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/iPad_Pro" title="wikilink">11吋 iPad Pro</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iPad_Pro" title="wikilink">iPad Pro (第三代, 12.9英寸)</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iPad_Pro" title="wikilink">iPad Pro (第三代, 11英寸)</a></p></th>
 </tr>
 </thead>
 <tbody>

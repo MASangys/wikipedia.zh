@@ -164,7 +164,7 @@
   - [蔡幸芳](../Page/蔡幸芳.md "wikilink")【星塵】、【我想念你歪嘴的笑】、【思念成刺】、【過生活】、【美．即刻】
   - [陳麒安](https://zh.wikipedia.org/wiki/陳麒安 "wikilink")【兩人份】
   - [賴慧如](../Page/賴慧如.md "wikilink")【切乎離】、【敢愛就來】
-  - [郭忠祐](../Page/郭忠祐.md "wikilink")【明日三少／我們】、【郭忠祐首張同名專輯】、【You Are My Only One】
+  - [郭忠祐](../Page/郭忠祐.md "wikilink")【明日三少／我們】、【郭忠祐首張同名專輯】、【You Are My Only One】、【魚夢】
 
 ## 金曲獎
 

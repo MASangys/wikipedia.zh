@@ -420,7 +420,7 @@
   - [無限・ゼロ](https://zh.wikipedia.org/wiki/無限・ゼロ "wikilink")（[川久保榮二](https://zh.wikipedia.org/wiki/川久保榮二 "wikilink")） 1994年10号～16号
   - [ますらお 秘本義経記](https://zh.wikipedia.org/wiki/ますらお_秘本義経記 "wikilink")（北崎拓） 1994年14号～1996年3・4合併号
   - [火箭公主](../Page/火箭公主.md "wikilink")（[安西信行](../Page/安西信行.md "wikilink")） 1994年23号～1995年1号
-  - [奧運高手](../Page/奧運高手.md "wikilink")（原作：[森末慎二](https://zh.wikipedia.org/wiki/森末慎二 "wikilink")、画：菊田洋之） 1994年25号～2000年45号
+  - [奧運高手](../Page/奧運高手.md "wikilink")（原作：[森末慎二](../Page/森末慎二.md "wikilink")、画：菊田洋之） 1994年25号～2000年45号
   - [棒球大聯盟](https://zh.wikipedia.org/wiki/棒球大聯盟 "wikilink")（[滿田拓也](../Page/滿田拓也.md "wikilink")）1994年33号～2010年32号
   - [賤馬也瘋狂](https://zh.wikipedia.org/wiki/賤馬也瘋狂 "wikilink")（[結城正美](../Page/結城正美.md "wikilink")） 1994年44号～2000年42号
 
@@ -838,9 +838,15 @@
 
   - **废柴酱验证中（[福地翼](../Page/福地翼.md "wikilink")） 2019年21・22合并号\~**
 
-  - **MAO（[高桥留美子](../Page/高桥留美子.md "wikilink")） 2019年23号\~**
+  - **摩绪（[高桥留美子](../Page/高桥留美子.md "wikilink")） 2019年23号\~**
 
   - **只要优子也战斗（福井） 2019年24号\~**
+
+  - **沦落者之夜（星野真） 2019年36・37合并号\~**
+
+  - （茂木） 2019年38号\~42号
+
+  - **熬夜之歌（[琴山](../Page/琴山.md "wikilink")） 2019年39号\~**
 
 ### 不詳
 

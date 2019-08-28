@@ -1,6 +1,6 @@
-《**BITTER VIRGIN**》是[楠桂](../Page/楠桂.md "wikilink")的[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。自[YOUNG GANGAN](../Page/YOUNG_GANGAN.md "wikilink")（[Square Enix](https://zh.wikipedia.org/wiki/Square_Enix "wikilink")）2005年5號至2008年6號連載。[單行本全](https://zh.wikipedia.org/wiki/單行本 "wikilink")4卷。
+《**BITTER VIRGIN**》是[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[楠桂](../Page/楠桂.md "wikilink")的[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。自[YOUNG GANGAN](../Page/YOUNG_GANGAN.md "wikilink")（[史克威爾艾尼克斯](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")）2005年5號至2008年6號連載。[單行本全](https://zh.wikipedia.org/wiki/單行本 "wikilink")4卷。
 
-## 概要
+## 劇情簡介
 
 主角·諏訪大介與同班三位女同學為中心的愛情故事。
 
@@ -35,7 +35,7 @@
 <thead>
 <tr class="header">
 <th><p>卷數</p></th>
-<th><p><a href="../Page/史克威尔艾尼克斯.md" title="wikilink">SQEX</a></p></th>
+<th><p><a href="../Page/史克威尔艾尼克斯.md" title="wikilink">史克威尔艾尼克斯</a></p></th>
 <th><p><a href="../Page/青文出版社.md" title="wikilink">青文出版社</a></p></th>
 <th><p><a href="../Page/玉皇朝.md" title="wikilink">玉皇朝</a></p></th>
 </tr>
@@ -45,7 +45,7 @@
 <td><p>發售日期</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
+<td><p>ISBN</p></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>

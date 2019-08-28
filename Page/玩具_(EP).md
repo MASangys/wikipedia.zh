@@ -2,7 +2,7 @@
 
 ## 簡介
 
-在1996年底前，王菲已錄製了10首粵語歌曲，足夠編制成一張大碟。但由於她和[新藝寶的合約到期](https://zh.wikipedia.org/wiki/新藝寶 "wikilink")，新藝寶為了對抗她在新東家[百代的新專輯](https://zh.wikipedia.org/wiki/百代唱片 "wikilink")《[王菲](../Page/王菲_\(1997年專輯\).md "wikilink")》，便將這10首歌在此後五年，分成四次發行。第一次是在《玩具》EP中（5首），第二次在同年EP《[自便](../Page/自便.md "wikilink")》（3首），第三次則在同年精選《菲賣品》（1首），第四次則直至2002年精選《Faye Best》（1首）。這10首歌都是[林夕](../Page/林夕.md "wikilink")負責作詞。
+在1996年底前，王菲已錄製了10首粵語歌曲，足夠編制成一張大碟。但由於她和[新藝寶的合約到期](https://zh.wikipedia.org/wiki/新藝寶 "wikilink")，新藝寶為了對抗她在新東家[百代的新專輯](https://zh.wikipedia.org/wiki/百代唱片 "wikilink")《[王菲](../Page/王菲_\(1997年專輯\).md "wikilink")》，便將這10首歌在此後五年，分成四次發行。第一次是在1997年《玩具》EP中（5首），第二次在同年EP《[自便](../Page/自便.md "wikilink")》（3首），第三次則在同年精選《菲賣品》（1首），第四次則直至2002年精選《Faye Best》（1首）。這10首歌都是[林夕](../Page/林夕.md "wikilink")負責作詞。
 
 「暗湧」和「約定」不但成了王菲的粵語經典歌曲，後來[黃耀明](../Page/黃耀明.md "wikilink")翻唱的「暗湧」及[周蕙翻唱](https://zh.wikipedia.org/wiki/周蕙 "wikilink")[國語版](https://zh.wikipedia.org/wiki/國語 "wikilink")「約定」也相當流行，而周蕙就是憑這首歌曲踏入樂壇。王菲之前曾翻唱過3首由[陳小霞](../Page/陳小霞.md "wikilink")譜寫的歌曲，不過「約定」是陳小霞首次為王菲寫歌，第二次是同年《[王菲](../Page/王菲_\(1997年專輯\).md "wikilink")》專輯中的「撲火」。另外，[黃家強](../Page/黃家強.md "wikilink")也首次與王菲合作，譜寫了「敷衍」和下一張EP《[自便](../Page/自便.md "wikilink")》中的「守護天使」。封面拍攝的是當年懷有身孕的王菲。
 

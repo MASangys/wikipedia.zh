@@ -2,7 +2,7 @@
 
 ## 用法
 
-[BCG_Matrix_with_products-small_png.png](https://zh.wikipedia.org/wiki/File:BCG_Matrix_with_products-small_png.png "fig:BCG_Matrix_with_products-small_png.png") BCG矩陣實際上是一個二乘二的矩陣，橫軸是相對市場佔有率（以公司業務的市場佔有率除以同業最高的市場佔有率而獲得），縱軸是市場預期增長，再加上兩軸各自的分界而成[2](https://web.archive.org/web/20121029005718/http://www.bcg.com/about_bcg/history/history_1968.aspx)。
+[BCG_Matrix_with_products-small.png](https://zh.wikipedia.org/wiki/File:BCG_Matrix_with_products-small.png "fig:BCG_Matrix_with_products-small.png") BCG矩陣實際上是一個二乘二的矩陣，橫軸是相對市場佔有率（以公司業務的市場佔有率除以同業最高的市場佔有率而獲得），縱軸是市場預期增長，再加上兩軸各自的分界而成[2](https://web.archive.org/web/20121029005718/http://www.bcg.com/about_bcg/history/history_1968.aspx)。
 
 在建立圖表前，負責人員須分析企業內所有業務或產品的表現。完成後，將各業務或產品的表現標在圖表內適當位置，並得出一個表現分佈圖。
 

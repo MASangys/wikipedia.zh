@@ -30,7 +30,7 @@
 
 ## 主要登場人物
 
-## 本作中各假面騎士或者超级战队變身者
+## 本作及續作中各假面騎士或者超級戰隊變身者
 
 關於**譯名問題**請注意，編輯本條目前請先訪問[討論頁](https://zh.wikipedia.org/wiki/Talk:假面騎士Decade "wikilink")
 
@@ -162,17 +162,22 @@
       - 1号：本鄉猛、门矢士
       - 2号：一文字 隼人（声音演出）
   - [兽电战队强龙者](https://zh.wikipedia.org/wiki/兽电战队强龙者 "wikilink")
-  - 强龙红：桐生大吾
-  - [烈车战队特急者](https://zh.wikipedia.org/wiki/烈车战队特急者 "wikilink")
-  - 特急1号：来斗
-  - 特急2号：十胜
-  - 特急3号：澪
-  - 特急4号：光
-  - 特急5号：神乐
+      - 强龙红：桐生大吾
+      - [烈车战队特急者](https://zh.wikipedia.org/wiki/烈车战队特急者 "wikilink")
+      - 特急1号：来斗
+      - 特急2号：十胜
+      - 特急3号：澪
+      - 特急4号：光
+      - 特急5号：神乐
   - [X](../Page/假面騎士X.md "wikilink")
       - X：神敬介
   - [ZX](https://zh.wikipedia.org/wiki/假面騎士ZX "wikilink")
       - ZX：村雨良
+  - [ZI-O](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")
+      - ZI-O、逢魔ZI-O：常磐莊吾
+      - Geiz：明光院月津
+      - WOZ：沃茲
+      - WOZ：白沃茲
 
 ## 對戰卡（Ride Card）
 
@@ -786,7 +791,7 @@ Diend可以用此類卡片發動必殺技，非Diend的Final Attack Ride卡片�
 </tbody>
 </table>
 
-## 本作原創的假面騎士
+## 本作的假面騎士
 
 ### 假面騎士Decade
 
@@ -1321,7 +1326,10 @@ Diend為[英文諧音的](https://zh.wikipedia.org/wiki/英文 "wikilink")「The
 
   - ZI-O世界
 
-異類騎士慢慢取代原騎士的世界
+<!-- end list -->
+
+  -
+    異類騎士慢慢取代原騎士的世界
 
 ## 專有名詞
 

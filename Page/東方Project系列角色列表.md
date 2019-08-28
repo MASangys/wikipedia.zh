@@ -184,7 +184,7 @@
 
 <!-- end list -->
 
-  - [爱莉丝](https://zh.wikipedia.org/wiki/東方怪綺談_～_Mystic_Square.#爱莉丝 "wikilink")
+  - [爱丽丝](https://zh.wikipedia.org/wiki/東方怪綺談_～_Mystic_Square.#爱丽丝 "wikilink")
     第3关卡和EXTRA关卡头目，擅长使用人偶的魔法使，玩家在魔界的黑暗城市遇见其并与其战斗起来。
 
 <!-- end list -->
@@ -234,7 +234,7 @@
 
 <!-- end list -->
 
-  - [帕秋莉·諾雷姬](https://zh.wikipedia.org/wiki/帕秋莉·諾雷姬 "wikilink")／帕秋莉·诺蕾姬（，Patchouli Knowledge）
+  - [帕秋莉·諾蕾姬](https://zh.wikipedia.org/wiki/帕秋莉·諾蕾姬 "wikilink")（，Patchouli Knowledge）
     第四關頭目、Extra中頭目。已有100歲，一直都生活在紅魔館的[圖書館](https://zh.wikipedia.org/wiki/圖書館 "wikilink")。有哮喘的毛病。
     她在本作所使用的符卡會因自機角色及武器種類的不同而不同。
     種族：魔法使
@@ -266,12 +266,12 @@
 <!-- end list -->
 
   - [橙](https://zh.wikipedia.org/wiki/東方妖妖夢_～_Perfect_Cherry_Blossom.#橙 "wikilink")（，Chen）
-    二面中頭目及頭目、Extra中頭目。憑依在山中居住的[怪貓身上](https://zh.wikipedia.org/wiki/怪貓 "wikilink")。懼怕[水](../Page/水.md "wikilink")，而其力量也是來自憑依的[式神](../Page/式神.md "wikilink")，遇水就會分離，所以水是她的大敵。
-    種族：憑依在怪貓身上的式神
+    二面中頭目及頭目、Extra中頭目。憑依在山中居住的[貓又身上](https://zh.wikipedia.org/wiki/貓又 "wikilink")。懼怕[水](../Page/水.md "wikilink")，而其力量也是來自憑依的[式神](../Page/式神.md "wikilink")，遇水就會分離，所以水是她的大敵。
+    種族：憑依在貓又身上的式神
 
 <!-- end list -->
 
-  - [爱丽丝·玛格特罗依德](https://zh.wikipedia.org/wiki/爱丽丝·玛格特罗依德 "wikilink")（，Alice Margatroid）
+  - [愛麗絲·瑪格特洛伊德](https://zh.wikipedia.org/wiki/愛麗絲·瑪格特洛伊德 "wikilink")（，Alice Margatroid）
     三面中頭目及頭目。與靈夢一行戰鬥只是因為偶然遇到而想以自己的魔法與她們一決勝負。戰鬥時不想希望壓倒對手，只是盡量以比對手強少許的能力戰鬥。普遍认为，爱丽丝·玛格特罗依德是PC-9800系列作品中登场的人物“爱丽丝”在新作中的接续。另外此角色在本作的Music Room和Result的背景中會出現。
     種族：魔法使
 
@@ -282,16 +282,16 @@
 
 <!-- end list -->
 
-  - [普利森瑞柏三姐妹](https://zh.wikipedia.org/wiki/東方妖妖夢_～_Perfect_Cherry_Blossom.#普利森瑞柏三姊妹 "wikilink")／普莉兹姆利巴三姊妹（，Prismriver Sisters）
+  - [普利兹姆利巴三姐妹](https://zh.wikipedia.org/wiki/東方妖妖夢_～_Perfect_Cherry_Blossom.#普利兹姆利巴三姊妹 "wikilink")／普莉森瑞柏三姊妹（，Prismriver Sisters）
     四面頭目。她們是[騷靈](https://zh.wikipedia.org/wiki/騷靈 "wikilink")，所謂引發[騷靈現象的](https://zh.wikipedia.org/wiki/騷靈現象 "wikilink")[東西屋](../Page/東西屋.md "wikilink")。屢次獲招待到西行寺家作表演。在這次也因為要舉行賞花大會，因此亦被邀請到來。
     種族：騷靈
-      - [露娜薩·普利森瑞柏](https://zh.wikipedia.org/wiki/東方妖妖夢_～_Perfect_Cherry_Blossom.#露娜薩·普利森瑞柏 "wikilink")／露娜萨·普莉兹姆利巴（，Lunasa Prismriver）
+      - [露娜薩·普利兹姆利巴](https://zh.wikipedia.org/wiki/東方妖妖夢_～_Perfect_Cherry_Blossom.#露娜薩·普利兹姆利巴 "wikilink")／露娜薩·普利森瑞柏（，Lunasa Prismriver）
         三姐妹的長女。性格陰暗。擅長[弦樂器](https://zh.wikipedia.org/wiki/弦樂器 "wikilink")，特別是[小提琴](../Page/小提琴.md "wikilink")。
 
-      - [梅露蘭·普利森瑞柏](https://zh.wikipedia.org/wiki/東方妖妖夢_～_Perfect_Cherry_Blossom.#梅露蘭·普利森瑞柏 "wikilink")／梅露兰·普莉兹姆利巴（，Merlin Prismriver）
+      - [梅露蘭·普利兹姆利巴](https://zh.wikipedia.org/wiki/東方妖妖夢_～_Perfect_Cherry_Blossom.#梅露蘭·普利兹姆利巴 "wikilink")／梅露蘭·普利森瑞柏（，Merlin Prismriver）
         三姐妹的次女。性格開朗。擅長[管樂器](../Page/管樂器.md "wikilink")，特別是[小號](../Page/小號.md "wikilink")。
 
-      - [莉莉卡·普利森瑞柏](https://zh.wikipedia.org/wiki/東方妖妖夢_～_Perfect_Cherry_Blossom.#莉莉卡·普利森瑞柏 "wikilink")／莉莉卡·普莉兹姆利巴（，Lyrica Prismriver）
+      - [莉莉卡·普利兹姆利巴](https://zh.wikipedia.org/wiki/東方妖妖夢_～_Perfect_Cherry_Blossom.#莉莉卡·普利兹姆利巴 "wikilink")／莉莉卡·普利森瑞柏（，Lyrica Prismriver）
         三姐妹的三女。性格狡猾。擅長任何樂器，常用[鍵盤及敲擊樂器](../Page/鍵盤樂器.md "wikilink")。
 
       - 除在游戏中登场的三姊妹外，还有一名只在设定文档中提到的角色，名为蕾拉·普莉兹姆利巴。
@@ -334,14 +334,14 @@
 
 <!-- end list -->
 
-  - [蜜斯蒂亞·蘿蕾拉](https://zh.wikipedia.org/wiki/東方永夜抄_～_Imperishable_Night.#蜜斯蒂亞·蘿蕾萊 "wikilink")（，Mystia Lorelei）
+  - [蜜斯蒂亞·蘿蕾拉](https://zh.wikipedia.org/wiki/東方永夜抄_～_Imperishable_Night.#蜜斯蒂亞·蘿蕾拉 "wikilink")（，Mystia Lorelei）
     第二關中頭目及頭目。會以歌聲令夜間走路的人迷路，還會使人得到鳥目（在一定時間內視力減退，而且通常在夜間才會遇上她，說成夜盲也亦無不可）。
     種族：夜雀
 
 <!-- end list -->
 
   - [上白澤慧音](https://zh.wikipedia.org/wiki/上白澤慧音 "wikilink")（，Kamishirasawa Keine）
-    第三關中頭目及頭目、Extra中頭目。平時與人類沒有分別，魔理沙的老師，但一到滿月之夜時就會化為聖獸[白澤](../Page/白澤.md "wikilink")。在人類形態時，可以將歷史消滅;在白澤形態時，則可以創造歷史。第三面時衣服是藍色、戴秀才帽；Extra時衣服是綠色、長出角。
+    第三關中頭目及頭目、Extra中頭目。平時與人類沒有分別，但一到滿月之夜時就會化為聖獸[白澤](../Page/白澤.md "wikilink")。在人類形態時，可以將歷史消滅;在白澤形態時，則可以創造歷史。第三面時衣服是藍色、戴秀才帽；Extra時衣服是綠色、長出角。
     種族：半獸
 
 <!-- end list -->
@@ -352,7 +352,7 @@
 
 <!-- end list -->
 
-  - [鈴仙·優曇華院·稻葉](https://zh.wikipedia.org/wiki/鈴仙·優曇華院·稻葉 "wikilink")（或譯作鈴仙·優曇華院·因幡）（，Reisen Udongein Inaba）
+  - [鈴仙·優曇華院·因幡](https://zh.wikipedia.org/wiki/鈴仙·優曇華院·因幡 "wikilink")（或譯作鈴仙·優曇華院·稻葉）（，Reisen Udongein Inaba）
     第五關頭目。住在月上的兔，眼神可以使人發狂。「優曇華院」是永琳給的稱呼，而「イナバ」則是輝夜對兔的統稱，同時亦是為了避免永遠亭的妖怪兔起疑而使用。
     種族：月兔
 
@@ -403,7 +403,7 @@
 
 <!-- end list -->
 
-  - [四季映姬·亞瑪撒那度](https://zh.wikipedia.org/wiki/東方花映塚_～_Phantasmagoria_of_Flower_View.#四季映姬·亞瑪撒那度 "wikilink")／四季映姬·亚玛萨那度（，Shikieiki Yamaxanadu）
+  - [四季映姬·亞瑪薩那度](https://zh.wikipedia.org/wiki/東方花映塚_～_Phantasmagoria_of_Flower_View.#四季映姬·亞瑪薩那度 "wikilink")／四季映姬·亞瑪撒那度（，Shikieiki Yamaxanadu）
     審判死者的[閻魔](https://zh.wikipedia.org/wiki/閻魔 "wikilink")。知道小町無法運送死者來到她面前，因此來到幻想鄉處視察。看見幻想鄉四處開花，並受到人類和妖怪的挑戰後，終於了解到這次異變的事態。每當有人類或妖怪來到她面前，她都會對對方訓話一番。
     种族：阎罗王
 
@@ -429,7 +429,7 @@
 
 <!-- end list -->
 
-  - [河城 似鳥/河城荷取](https://zh.wikipedia.org/wiki/河城似鳥 "wikilink")（，Kawashiro Nitori）
+  - [河城荷取](https://zh.wikipedia.org/wiki/河城荷取 "wikilink")／河城似鳥（，Kawashiro Nitori）
     第三關中頭目及頭目。[河童](../Page/河童.md "wikilink")。警告靈夢一夥不要入侵妖怪之山無效後，對她們展開攻擊，順便測試自己新製成的「[光學迷彩服](https://zh.wikipedia.org/wiki/光學迷彩 "wikilink")」（但只能在躲藏時發動光學迷彩，經測試後，重新考慮其可用性）。在妖怪之山所棲息的河童，基本上其形象都是一樣的，主要是頭戴盤子（帽子），背上有龜殼（背包）。其科技在幻想鄉可謂數一數二，對外界的產物有極重的好奇心，通常會拆開再重組了解其結構。不過對陌生人非常怕生，一般看到一眼都會很快地逃走了。
     种族：[河童](../Page/河童.md "wikilink")
 

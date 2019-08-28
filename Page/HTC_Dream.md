@@ -2,18 +2,20 @@
 
 ## 技術規格
 
-  - 處理器：Qualcomm MSM7201A 528MHz
-  - 作業系統：Google Android
-  - 記憶體：ROM：256MB，RAM：192MB
-  - 記憶卡：[microSD插槽](https://zh.wikipedia.org/wiki/microSD "wikilink")（[SDHC](https://zh.wikipedia.org/wiki/Secure_Digital_card#SDHC "wikilink") compatible），最大可支持到16GB
+  - 處理器：[Qualcomm](https://zh.wikipedia.org/wiki/Qualcomm "wikilink") MSM7201A ARM11 528MHz (降頻至384MHz)
+  - 作業系統：[Google Android](https://zh.wikipedia.org/wiki/Google_Android "wikilink") 1.0 (可更新至Android 1.6；加拿大Rogers版可更新至Android 1.5)
+  - RAM：192MB [DDR SDRAM](../Page/DDR_SDRAM.md "wikilink")
+  - ROM：256MB
+  - 記憶卡：[microSD插槽](https://zh.wikipedia.org/wiki/microSD "wikilink")([SDHC](https://zh.wikipedia.org/wiki/Secure_Digital_card#SDHC "wikilink") compatible)，最大可支持到16GB
   - 尺寸：117.7mm X 55.7mm X 17.1mm
   - 重量：158g（含電池）
-  - 螢幕：HVGA解析度、3.2吋TFT-LCD平面式觸控感應螢幕
-  - 網路：GSM/EDGE/WCDMA/HSDPA/HSUPA
+  - 螢幕：HVGA 320x480解析度、3.2吋TFT-LCD電容式觸控螢幕
+  - 相機：3.15百萬畫素，自動對焦
+  - 網路：[GSM](../Page/GSM.md "wikilink")/[EDGE](https://zh.wikipedia.org/wiki/EDGE "wikilink")/[WCDMA](https://zh.wikipedia.org/wiki/WCDMA "wikilink")/[HSDPA](https://zh.wikipedia.org/wiki/HSDPA "wikilink")/[HSUPA](https://zh.wikipedia.org/wiki/HSUPA "wikilink")( 7.2/2 Mbps)
   - 藍牙：2.0 with EDR
-  - GPS：配備GPS及A-GPS
+  - GPS：配備[GPS及A](https://zh.wikipedia.org/wiki/GPS "wikilink")-GPS
   - Wi-Fi：IEEE 802.11 b/g
-  - 電池：1150mAh充電式鋰或鋰聚合物電池
+  - 電池：可拆卸式 1150mAh [鋰離子電池](https://zh.wikipedia.org/wiki/鋰離子電池 "wikilink")
 
 ## 參見
 

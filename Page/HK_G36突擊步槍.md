@@ -1,4 +1,4 @@
-**G36**是[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[黑克勒-科赫](../Page/黑克勒-科赫武器列表.md "wikilink")(H\&K)在1995年推出的[現代化](https://zh.wikipedia.org/wiki/現代化 "wikilink")[突擊步槍](https://zh.wikipedia.org/wiki/突擊步槍 "wikilink")，發射[5.56×45毫米北約制式](../Page/5.56×45mm_NATO.md "wikilink")[子彈](../Page/子彈.md "wikilink")，用来取代同为H\&K公司产品的[G3步枪](../Page/HK_G3自動步槍.md "wikilink")。G36大量采用了以不锈钢为骨架的玻璃钢加强复合材料，因此武器重量较轻。\[1\] 在开发阶段其型号为**HK50**。
+**G36**是[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[黑克勒-科赫公司](https://zh.wikipedia.org/wiki/黑克勒-科赫 "wikilink") (H\&K)在1995年推出的[現代化](https://zh.wikipedia.org/wiki/現代化 "wikilink")[突擊步槍](https://zh.wikipedia.org/wiki/突擊步槍 "wikilink")，發射[5.56×45毫米北約制式](../Page/5.56×45mm_NATO.md "wikilink")[子彈](../Page/子彈.md "wikilink")，用来取代同为H\&K公司产品的[G3步枪](../Page/HK_G3自動步槍.md "wikilink")。G36大量采用了以不锈钢为骨架的玻璃钢加强复合材料，因此武器重量较轻。\[1\] 在开发阶段其型号为**HK50**。
 
 ## 歷史
 
@@ -44,9 +44,7 @@ G36在[2008年南奧塞梯衝突中出現過](https://zh.wikipedia.org/wiki/2008
 
 2018年10月14日，由於參與取代G36突擊步槍的競標活動中沒一支步槍能符合到需求，使到德國國防部決定將取代G36的計劃延遲八個月。\[14\]
 
-## 過熱问题實際狀況
-
-原本的HK-50槍身是用耐高溫的PA(聚醯胺-防火材料跟軍用防爆胎的主要材料之一)製作的，而HK所有的塑膠槍身都是這個材料 [2](https://en.wikipedia.org/wiki/Heckler_%26_Koch_G36#cite_note-11) ，但是交給國防軍的第一批G36卻將材料換成了廉價的聚乙烯(PE)，之後的G36包含標準版的A2跟G36C/G36K HK又將材料換回了PA 包含所有的外銷版也通通都是PA槍身，這也是為什麼美國民間槍店以及槍匠瘋狂連發測試G36(HK對外販售的E版以及K版)之後的結果 是沒問題的，甚至出現槍管冷槍跟熱槍時(槍管達到工作溫度)時的準確度有落差,熱槍後的G36在射擊準確度上都有相當的提升
+原本的HK-50槍身是用耐高溫的PA（聚醯胺-防火材料跟軍用防爆胎的主要材料之一）製作的，而HK所有的塑膠槍身都是這個材料 [2](https://en.wikipedia.org/wiki/Heckler_%26_Koch_G36#cite_note-11) ，但是交給國防軍的第一批G36卻將材料換成了廉價的聚乙烯 (PE)，之後的G36包含標準版的A2跟G36C/G36K HK又將材料換回了PA，包含所有的外銷版也通通都是PA槍身，這也是為什麼美國民間槍店以及槍匠瘋狂連發測試G36（HK對外販售的E版以及K版）之後的結果都是沒問題的，甚至出現槍管熱槍（槍管達到工作溫度）時的準確度反而比冷槍更高的情況。
 
 ## 使用國
 

@@ -63,6 +63,4 @@
 
   - [Jump the REVOLUTION\!2006](https://web.archive.org/web/20080502154905/http://jump.shueisha.co.jp/revolution2/)
 
-[en:Jump the Revolution\!](https://zh.wikipedia.org/wiki/en:Jump_the_Revolution! "wikilink") [fr:Akamaru Jump](https://zh.wikipedia.org/wiki/fr:Akamaru_Jump "wikilink")
-
 [Category:週刊少年Jump](https://zh.wikipedia.org/wiki/Category:週刊少年Jump "wikilink") [Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink") [Category:少年漫畫雜誌](https://zh.wikipedia.org/wiki/Category:少年漫畫雜誌 "wikilink") [Category:1969年建立的出版物](https://zh.wikipedia.org/wiki/Category:1969年建立的出版物 "wikilink")

@@ -1,22 +1,20 @@
-**Square**是由[趙俊承](https://zh.wikipedia.org/wiki/趙俊承 "wikilink")、[何尚謙](https://zh.wikipedia.org/wiki/何尚謙 "wikilink")、[李柏煥](https://zh.wikipedia.org/wiki/李柏煥 "wikilink")、[何浚尉組成的四人男子組合](https://zh.wikipedia.org/wiki/何浚尉 "wikilink")，2008年[香港](../Page/香港.md "wikilink")出道。
+**Square**是由趙俊承、何尚謙、李柏煥、何浚尉組成的四人男子組合，2008年[香港](../Page/香港.md "wikilink")出道。
 
 2011年，Square宣佈解散，各成員亦有不同發展。
 
 ## 成員
 
-  - [何浚尉](https://zh.wikipedia.org/wiki/何浚尉 "wikilink")
+### 何浚尉
 
-<!-- end list -->
-
-  - 何尚謙
+### 何尚謙
 
 生於1981年6月30日，原名**何俊洪**，他在加入電影演員前，在[Elite Models做模特兒工作](https://zh.wikipedia.org/wiki/Elite_Models "wikilink")。數年後，他參加了[寰宇娛樂招募面試入行](https://zh.wikipedia.org/wiki/寰宇娛樂 "wikilink")，終於被導演[彭順看中](https://zh.wikipedia.org/wiki/彭順 "wikilink")，擔正《[愛‧鬥大](https://zh.wikipedia.org/wiki/愛‧鬥大 "wikilink")》其中主角。
 
-  - [李柏煥](https://zh.wikipedia.org/wiki/李柏煥 "wikilink") **現職港龍航空見習機師**
+### 李柏煥
 
-<!-- end list -->
+現職港龍航空見習機師。
 
-  - 趙俊承
+### 趙俊承
 
 生於1986年9月11日，[香港](../Page/香港.md "wikilink")出生，曾任職模特兒。畢業於[廖寶珊紀念書院](https://zh.wikipedia.org/wiki/廖寶珊紀念書院 "wikilink")。
 

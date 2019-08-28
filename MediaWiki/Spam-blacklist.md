@@ -11,6 +11,9 @@
  #   * Everything from a "#" character to the end of the line is a comment
  #   * Every non-blank line is a regex fragment which will only match hosts inside URL
 
+\bencoretvb\.com\b
+\bcn\.investing\.com\b
+\bcaoliushequ365\.blogspot\.com\b
 \bdanaopharms\.com\b
 \bbesthostingtw\.com\b
 \bpokerhongkong\.org\b
@@ -823,6 +826,7 @@
 \btoukanbao\.com\b
 \bhhqq\.net\b # undoafter=2958303&undo=2960062
 \b92fy\.com\.cn\b # [[Special:封禁用户/一品方言|Special:封禁用户/一品方言]]
+\ddjhs\.tc\.edu\.tw\b #114.26.9.10
 \bhanghua\.net\b # undoafter=11005871&undo=11104526
 \byjba\.net\b # diff=prev&oldid=24876704
 \bdocba\.cn\b # [[Special:用户贡献/Lanuan|Special:用户贡献/Lanuan]]
@@ -2239,6 +2243,7 @@ hk\.myblog\.yahoo\.com\/8-word
 \balllenses\.org\b
 \bptt\.cc\/(bbs|man)\b #BBS
 \bdisp\.cc\/(bbs|man)\b #BBS
+\disp\.cc/(bbs|man)\b #BBS
 \bptt\.cc\/[a-z0-9-]{4,}\b # shorturl
 
 \b0w0\.cc\b # shorturl
@@ -2252,6 +2257,7 @@ hk\.myblog\.yahoo\.com\/8-word
 \bread01\.com\b #[[內容農場|內容農場]]
 \bbepo\.ctitv\.com\.tw\b #[[內容農場|內容農場]]
 \bbuzzorange\.com\b #[[內容農場|內容農場]]
+\ettoday\.net\.dalemon\b #[[內容農場|內容農場]]
 
 \bpixpo\.net\b # [[內容農場|內容農場]]
 \b0101\.tw\b # [[內容農場|內容農場]]

@@ -268,6 +268,8 @@ Google建立了一個參與行動的網站，並聲明「互聯網將全球20多
 
   - \[//www.google.com/about/company/ Google 企業資訊\]
 
+  - \[//www.linkedin.com/company/google/ Google LinkedIn\]
+
   - [Google 官方博客](https://blog.google/)
 
   - \[//www.google.org/ Google 公益\]

@@ -4,7 +4,7 @@
 
   - 「[CD](../Page/CD.md "wikilink")+2[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")」豪華3張組完全初回限定盤、「CD+DVD」2張組、「CD only」等共計3種型態發售。
   - 封面各有不同，完全初回限定盤為「炎」、「CD+DVD」為「雷」、「CD only」為「雨」。
-  - EXILE第二章的第一章專輯。2006年12月第二章正式開始活動後僅3個月就發行了專輯。
+  - EXILE第二章的第一張專輯。2006年12月第二章正式開始活動後僅3個月就發行了專輯。
   - CD收錄了3個月連續發售的3張單曲內的曲目。另外包含與[倖田來未](../Page/倖田來未.md "wikilink")合作而成為話題的「[WON'T BE LONG](https://zh.wikipedia.org/wiki/WON'T_BE_LONG#EXILE&倖田來未 "wikilink")」的新版本共15首（初回盤追加了附加曲，共16首）。
   - DVD為[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")集，初回盤則追加收錄了後製影片。
   - 「CD+2DVD」的完全初回限定盤附贈「EXILE Vocal Battle Audition 2006 ～ASIAN DREAM～」的現場影像及記錄影片的2張DVD。

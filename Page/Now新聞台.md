@@ -83,7 +83,7 @@ now新聞台（332頻道）現已成為免費頻道。
 
 ### 《時事全方位》（）
 
-駐台時事評論員[馮振超](https://zh.wikipedia.org/wiki/馮振超 "wikilink")（星期一）／[王慧麟](../Page/王慧麟.md "wikilink")（星期二、四）／[尹志強](https://zh.wikipedia.org/wiki/尹志強_\(時事評論員\) "wikilink")（星期三）／[許楨](https://zh.wikipedia.org/wiki/許楨 "wikilink")（星期五）與[彭晴](../Page/彭晴.md "wikilink")（如當日請假則由主播[黃凱迪](../Page/黃凱迪.md "wikilink")／[劉銘欣](https://zh.wikipedia.org/wiki/劉銘欣 "wikilink")／[李臻](../Page/李臻.md "wikilink")頂替）一起主持的時事節目，與學者、官員、議員，不同立場人士就具爭議性的話題及政府政策，深入討論，剖析背景，讓觀眾可以更加深入了解事件，電視觀眾可致電1833298參與討論。
+駐台時事評論員[王慧麟](../Page/王慧麟.md "wikilink")（星期一、四）／[尹志強](https://zh.wikipedia.org/wiki/尹志強_\(時事評論員\) "wikilink")（星期二）／[馮振超](https://zh.wikipedia.org/wiki/馮振超 "wikilink")（星期三）／[許楨](https://zh.wikipedia.org/wiki/許楨 "wikilink")（星期五）與[彭晴](../Page/彭晴.md "wikilink")（如當日請假則由當日主播頂替）一起主持的時事節目，與學者、官員、議員，不同立場人士就具爭議性的話題及政府政策，深入討論，剖析背景，讓觀眾可以更加深入了解事件，電視觀眾可致電1833298參與討論。
 
 由2011年3月7日起，環節節目《環球薈報》取消播放。而2015年5月4日起亦停止進行「now互動民調」。
 

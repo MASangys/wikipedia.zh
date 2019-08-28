@@ -36,7 +36,7 @@ CDDA規格由[飛利浦](../Page/飛利浦.md "wikilink")和[Sony制訂](https:/
 
 ## 防止拷貝措施
 
-有些[唱片公司](../Page/唱片公司.md "wikilink")為了加入其他功能，製作及銷售不符合紅皮書規格的CD，例如防止拷貝的[Copy Control](../Page/Copy_Control.md "wikilink")、使用[DualDisc提供額外的资讯](https://zh.wikipedia.org/wiki/DualDisc "wikilink")。为此，CD層從紅皮書要求的1.2公釐變成0.9公釐。飛利浦和其他公司向其警告，把CDDA商標擺在不符合紅皮書標準的產品上，有可能牴觸商標法。 结果，相似CDDA的商標已經不見於这类防拷貝CD上，而CD盒上原来警告使用者「光碟可能無法在你的播放器中播放」的貼紙也被取消，因為定義上已经不屬於CD。 [Super Audio CD及](../Page/Super_Audio_CD.md "wikilink")[DVD-Audio](../Page/DVD-Audio.md "wikilink")，这两种媒体设计为比CDDA更高的采样率、分解度、更低的高頻[相位誤差](https://zh.wikipedia.org/wiki/相位 "wikilink")，以播放更佳的音频传真度。
+有些[唱片公司](../Page/唱片公司.md "wikilink")為了加入其他功能，製作及銷售不符合紅皮書規格的CD，例如防止拷貝的[Copy Control](../Page/Copy_Control.md "wikilink")、使用[DualDisc提供額外的资讯](https://zh.wikipedia.org/wiki/DualDisc "wikilink")。为此，CD層從紅皮書要求的1.2公釐變成0.9公釐。飛利浦和其他公司向其警告，把CDDA商標擺在不符合紅皮書標準的產品上，有可能牴觸商標法。 结果，相似CDDA的商標已經不見於这类防拷貝CD上，而CD盒上原来警告使用者「光碟可能無法在你的播放器中播放」的貼紙也被取消，因為定義上已经不屬於CD。 [Super Audio CD及](../Page/Super_Audio_CD.md "wikilink")[DVD-Audio](../Page/DVD-Audio.md "wikilink")，这两种媒体设计为比CDDA更高的采样率、分解度、更低的高頻[相位](../Page/相位.md "wikilink")誤差，以播放更佳的音频传真度。
 
 ## 參考資料
 
