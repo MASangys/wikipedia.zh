@@ -1,4 +1,4 @@
-**《Turn Me On》**是[韓國Pop](https://zh.wikipedia.org/wiki/韓國 "wikilink") Dance組合[SS501](../Page/SS501.md "wikilink")中心[金奎鐘](../Page/金奎鐘.md "wikilink")的個人首張迷你專輯。音源於9月27日通過各音樂網站公開。 整張專輯由SS501時期發行的U R MAN迷你專輯的詞曲家Han Sang Won和擔任Rain專輯Rainism的製作人Tae Wan共同聯手打造而成\[1\]。 2011年9月29日從[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》中演出正式展開一連串的宣傳活動。
+**《Turn Me On》**是[韓國Pop](https://zh.wikipedia.org/wiki/韓國 "wikilink") Dance組合[SS501](../Page/SS501.md "wikilink")中心[金奎鐘](../Page/金奎鐘.md "wikilink")的個人首張迷你專輯。音源於9月27日通過各音樂網站公開。 整張專輯由SS501時期發行的U R MAN迷你專輯的詞曲家Han Sang Won和擔任Rain專輯Rainism的製作人Tae Wan共同聯手打造而成\[1\]。 2011年9月29日從[Mnet](../Page/Mnet.md "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》中演出正式展開一連串的宣傳活動。
 
 ## 錄製與音樂
 

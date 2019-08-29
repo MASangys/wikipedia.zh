@@ -14,7 +14,7 @@ Mark Curran曾經是CONSENT的軍中成員，退役後便在農業研究所中�
 
 ## 故事背景
 
-故事採用與《機動戰士高達》相同世界觀的宇宙紀元作為世界觀－宇宙紀元為U.C.0223，所以除了《復國運動》外，《G-Saviour》可謂是動畫中，宇宙紀元的最終點。宇宙紀元U.C.0100因為地球聯邦政府腐敗，並經過多次戰亂後，漸漸開始失去對宇宙殖民地的管約力，宇宙各殖民地紛紛脫離地球聯邦的管治，直到U.C.0218，地球聯邦正式倒台，宇宙進入戰國時代，變成軍閥割據的局面。
+故事採用與《機動戰士高達》相同世界觀的宇宙紀元作為世界觀－宇宙紀元為U.C.0223，宇宙紀元U.C.0100因為地球聯邦政府腐敗，並經過多次戰亂後，漸漸開始失去對宇宙殖民地的管約力，宇宙各殖民地紛紛脫離地球聯邦的管治，直到U.C.0218，地球聯邦正式倒台，宇宙進入戰國時代，變成軍閥割據的局面。
 
 ## 登场人物
 
@@ -49,13 +49,9 @@ Mark Curran曾經是CONSENT的軍中成員，退役後便在農業研究所中�
 
 ### 光照派
 
-  - フィリッペ・サン・シモン（Philippe San Simeone）
-    扮演者：Hrothgar Mathews，配音演员：?／[小島敏彦](https://zh.wikipedia.org/wiki/小島敏彦 "wikilink")
-    作为地球和平的守护者，秘密社团光照派的重要人物。白人男性。原议会军军人。マークの親友で、戦死したことになっていた。在新曼哈顿与马克重逢，向他介绍隐藏在剧院中的最新锐MS——G-Saviour，之后希望马克能乘坐它出击。
-  - ジョン・セイバー
-    技术者集团 Saviour Team的工程师。议会军に[ブグを提供した一方で](https://zh.wikipedia.org/wiki/议会军の機動兵器#ブグ "wikilink")、イルミナーティにもGセイバーや[イリュージョン（Iセイバー）を開発](https://zh.wikipedia.org/wiki/セイバーシリーズ#イリュージョン（Iセイバー） "wikilink")・提供し、協力する。彼等セイバーチームのおかげで、イルミナーティは本格的な有事に対処できるだけの戦力を確保できた。本編未登場。
-  - コンピューター
-    声 - ?／?／[山口隆行](../Page/山口隆行.md "wikilink")
+  - 菲利普·圣·西蒙
+    扮演者：赫罗斯·马修斯，配音演员：?／[小島敏彦](https://zh.wikipedia.org/wiki/小島敏彦 "wikilink")
+    作为地球和平的守护者，秘密社团光照派的重要人物。白人男性。原议会军军人。新曼哈顿与马克重逢，向他介绍隐藏在剧院中的最新锐MS——G-Saviour，之后希望马克能乘坐它出击。
 
 ### セツルメント国家议会军
 
@@ -64,133 +60,22 @@ Mark Curran曾經是CONSENT的軍中成員，退役後便在農業研究所中�
     议会军中校。北欧系白人男性。为了目的不择手段，采取任何行动，无情的冷漠。马克的原上级军官，在马克搭乘10億美元的MS进行训练飞行中遇到ソウヤー的机体失控即将坠毁之际，以为了保住马克的高价机体为理由对其下达见死不救的命令。
   - ミミ・デビア（Mimi Devere）
     扮演者：Catarina Conti，配音演员：?／[高田由美](../Page/高田由美.md "wikilink")
-    议会军情报部下属白人女性。马克的恋人。议会军の戦略立案員のポストを狙っており、マークに口添えを頼んだり、パーティー会場でのマークの反抗的態度を諫める。ガーノー総督を信頼していたが、彼が生物発光体サンプルを活かす気が全くないことを知り、その考えを大きく変える。
+    议会军情报部下属白人女性。马克的恋人。
   - ガーノー（Garneaux）
     扮演者：[Kenneth Welsh](https://zh.wikipedia.org/wiki/Kenneth_Welsh "wikilink")，配音演员：?／[ラサール石井](https://zh.wikipedia.org/wiki/ラサール石井 "wikilink")／[糸博](../Page/糸博.md "wikilink")（サウンドシネマ版）
-    议会军总督（DVD中错写为“总监”）。白人男性。SIDE GAIAを占領して地球圏の食糧供給を支配し、そして地球圏そのものを支配しようとする。
+    议会军总督（DVD中错写为“总监”）。白人男性。
   - ティム・ハロウェイ
     扮演者：ピーター・ウィリアムズ，配音演员：?／[坂東尚樹](https://zh.wikipedia.org/wiki/坂東尚樹 "wikilink")
     议会军中尉。黒人男性。在追击GAIA的恐怖分子时，不慎冲入大气层，溅落至大西洋水域。在即将沉没于海中时被马克救出。
   - ソウヤー
     扮演者：?，配音演员：?／[石野竜三](https://zh.wikipedia.org/wiki/石野竜三 "wikilink")
-    过去是马克在议会军MS机师中的同伴。訓練飛行中の事故により、命令に背いて独断で急行したマークの努力も実らず死亡した。结果致使马克提交辞呈，退出军队
-  - フェーガン
-    扮演者：?，配音演员：?／[熊谷ニーナ](https://zh.wikipedia.org/wiki/熊谷ニーナ "wikilink")
-  - パイロット
-    扮演者：[サム・ヴィンセント](https://zh.wikipedia.org/wiki/サムエル・ビンセント "wikilink")，配音演员：?／?
-  - 警備兵1
-    扮演者：ロナルド・セルモア，配音演员：?／[酒井哲也](https://zh.wikipedia.org/wiki/酒井哲也 "wikilink")
-    议会军に捕らえられたシンシアの監禁場所の受付カウンターにいた兵士。マークとは旧知の仲で、書面なしにシンシアに面会に来たマークに対し、内緒で便宜を図る。
-  - ウィングマン1
-    扮演者：ジェイムズ・セバスチャン・ハットソン
-  - ガーノーの護衛2
-    扮演者：ジョン・マコナック
+    过去是马克在议会军MS机师中的同伴。訓練飛行中の事故により、命令に背いて独断で急行したマークの努力も実らず死亡した。结果致使马克提交辞呈，退出军队。
 
-### 其他
+## 生产商
 
-  - ホーク
-    扮演者：フレッド・ヘンダーソン
-
-    セツルメント国家議会議長。
-
-  - ステファニー・ホウィットマン
-    扮演者：ナームア・デラニー
-
-  - バーテンダー
-    扮演者：クリストファー・シャイヤー，配音演员：?／[梁田清之](../Page/梁田清之.md "wikilink")
-
-  - ウェイトレス
-    扮演者：?，配音演员：?／[丹羽紫保里](../Page/丹羽紫保里.md "wikilink")
-
-  - ニュースキャスター2
-    扮演者：エド・ワトソン，配音演员：?／[宗矢樹頼](https://zh.wikipedia.org/wiki/宗矢樹頼 "wikilink")
-
-  - リポーター・スチュワート
-    扮演者： リー・ジェイ・バンベリー，配音演员：?／[伊崎寿克](https://zh.wikipedia.org/wiki/伊崎寿克 "wikilink")
-
-  - リポーター・ファーガン
-    扮演者：ロリーナ・ゲイル，配音演员：?／?
-
-  - 技術者1
-    扮演者：シェイン・ワイラー，配音演员：?／?
-
-  - 使節1
-    扮演者：ターシャ・シムズ
-
-  - 使節2
-    扮演者：デイヴィッド・パルフィー
-
-  - ナレーション
-
-<!-- end list -->
-
-  -
-    声 - ?／[緒形拳](../Page/緒形拳.md "wikilink")／[内海賢二](https://zh.wikipedia.org/wiki/内海賢二 "wikilink")
-
-## 登场兵器
-
-## 制作人员
-
-原作︰[富野由悠季](../Page/富野由悠季.md "wikilink")、[矢立肇](https://zh.wikipedia.org/wiki/矢立肇 "wikilink")
-
-出品人︰[日昇動畫](../Page/日昇動畫.md "wikilink")
-
-監製︰Chris Dobbs
-
-製片人︰Catharina Conti、Mimi Maynard
-
-執行監製︰Anthony Scala、Philip David Segal
-
-導演︰Graeme Campbell
-
-劇本︰Mark Amato、Stephanie Pena-Sy
-
-編劇︰Stephanie Pena-Sy
-
-美術指導︰Richard Hudolin
-
-模擬特效︰Bruce Branit、John F.K. Parenteau
-
-選角︰Lynne Carrow, CSA、Sue Taylor Brouse
-
-服裝設計︰Terry Bardon
-
-攝影指導︰Joel J. Ransom
-
-剪接︰Rick Martin
-
-音樂︰John Debney、Louis Febre
-
-演員︰Brennan Elliott、Enuka Okuma、David Lovgren、Blu Mankuma、Catharina Conti、Kenneth Welsh
-
-## Production
-
-製作公司︰Polestar Entertainment
+製作公司︰[北极星娱乐](https://zh.wikipedia.org/wiki/北极星娱乐 "wikilink")
 
 發行公司︰[萬代](../Page/萬代.md "wikilink")影像
-
-## 原声带
-
-### 曲目列表
-
-1.  "G-Saviour Theme" - Ikihiro - 02:37
-2.  "Main Theme" - [John Debney](https://zh.wikipedia.org/wiki/John_Debney "wikilink") and Louis Febre - 03:50
-3.  "Rescue" - John Debney and Louis Febre - 05:35
-4.  "Invader" - John Debney and Louis Febre - 04:56
-5.  "Bio-Luminescence" - John Debney and Louis Febre - 05:23
-6.  "Flight" - John Debney and Louis Febre - 03:11
-7.  "Escape" - John Debney and Louis Febre - 04:29
-8.  "Illuminati" - John Debney and Louis Febre - 03:11
-9.  "G-Saviour" - John Debney and Louis Febre - 01:10
-10. "Wounded Heart" - John Debney and Louis Febre - 06:17
-11. "Romance" - John Debney and Louis Febre - 01:27
-12. "Misfire" - John Debney and Louis Febre - 02:54
-13. "MS Battle" - John Debney and Louis Febre - 06:36
-14. "G-Saviour Advance" - John Debney and Louis Febre - 10:57
-15. "Declaration of Independence" - John Debney and Louis Febre - 02:33
-16. "To Earth" - John Debney and Louis Febre - 01:57
-17. "New History - John Debney and Louis Febre - 03:06
-18. "Orb" - Emily - 04:25
 
 ## 参考文献
 

@@ -123,7 +123,7 @@
 | 播放日期       | 電視台                                                       | 節目名稱           | 參與成員     |
 | ---------- | --------------------------------------------------------- | -------------- | -------- |
 | 2014年2月14日 | [湖南衛視](https://zh.wikipedia.org/wiki/湖南衛視 "wikilink")     | 2014元宵喜樂會      | 張力尹、Chen |
-| 2014年2月18日 | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")     | THE MUSIC      | 太妍、鐘鉉    |
+| 2014年2月18日 | [Mnet](../Page/Mnet.md "wikilink")                        | THE MUSIC      | 太妍、鐘鉉    |
 | 2014年3月10日 | [KBS 2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink") | 全國苦悶炫耀 Hello\! |          |
 
 ## 演唱會

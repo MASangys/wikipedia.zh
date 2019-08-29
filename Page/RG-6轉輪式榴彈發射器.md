@@ -26,7 +26,7 @@ RG-6採用的是[立式標尺](https://zh.wikipedia.org/wiki/立式標尺 "wikil
 
 ### 槍托
 
-RG-6採用了具有伸縮式[橡膠](../Page/橡膠.md "wikilink")底板緩衝墊[槍托](../Page/槍托.md "wikilink")，伸縮式設計使得其能縮入收納[金属](../Page/金属.md "wikilink")管內以節省空間，在射擊時可以減少震動。槍托亦具有環。
+RG-6採用了具有伸縮式[橡膠](../Page/橡膠.md "wikilink")底板[槍托](../Page/槍托.md "wikilink")，伸縮式設計使得其能縮入收納[金属](../Page/金属.md "wikilink")管內以節省空間，在射擊時可以減少震動。槍托亦具有環。
 
 ### 配件
 

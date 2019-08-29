@@ -27,6 +27,7 @@ Julia拥有[垃圾回收机制](../Page/垃圾回收_\(計算機科學\).md "wik
   - 可直接调用C函数（不需要包装或是借助特殊的[API](https://zh.wikipedia.org/wiki/API "wikilink")）
   - 有类似[shell的进程管理能力](https://zh.wikipedia.org/wiki/shell "wikilink")
   - 有类似[Lisp的](https://zh.wikipedia.org/wiki/Lisp "wikilink")[-{zh-cn:宏;zh-tw:巨集}-以及其它元编程工具](../Page/巨集.md "wikilink")
+  - 可與jupyter notebook 一起使用
 
 ## 示例
 
