@@ -587,6 +587,89 @@ PCIe 2.0通道數量</p></td>
 
 資料來源：\[59\]\[60\]\[61\]
 
+### 500系列
+
+AMD 500 系列晶片組目前僅有上市 X570 晶片，於2019年7月隨同基於 Ryzen 3000 系列 CPU 一同發表並推出。相較於 400 系列，500 系列支援 PCI-e 4.0 標準，另外由於其發熱量相較於 300、400 系列晶片組來的大，因此絕大多數主板廠都在 X570 晶片組上採用主動式散熱 (風扇) 的散熱片設計。\[62\]
+
+<table>
+<thead>
+<tr class="header">
+<th><p>型號</p></th>
+<th><p>與CPU/APU的<br />
+<a href="../Page/PCI_Express.md" title="wikilink">PCIe鏈路</a></p></th>
+<th><p><a href="../Page/PCI_Express.md" title="wikilink">PCIe</a></p></th>
+<th><p><a href="../Page/SATA.md" title="wikilink">SATA</a> +<br />
+<a href="../Page/SATA_Express.md" title="wikilink">SATA Express</a>/<a href="../Page/NVM_Express.md" title="wikilink">NVMe x2</a></p></th>
+<th><p><a href="../Page/USB.md" title="wikilink">USB</a><br />
+3.1+3.0+2.0/1.1</p></th>
+<th><p><a href="../Page/RAID.md" title="wikilink">RAID</a></p></th>
+<th><p>XFR支援</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/熱設計功耗" title="wikilink">TDP</a> (<a href="https://zh.wikipedia.org/wiki/Watt" title="wikilink">W</a>)</p></th>
+<th><p>製程</p></th>
+<th><p>功能特性 / 備註</p></th>
+<th><p>部件號</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>晶片組<br />
+PCIe 2.0通道數量</p></td>
+<td><p><a href="../Page/AMD_CrossFire.md" title="wikilink">CrossFire</a><br />
+支援</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Scalable_Link_Interface" title="wikilink">SLI支援</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Socket AM4平台</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>X570</p></td>
+<td><p>x4 Gen 4.0</p></td>
+<td></td>
+<td><p>rowspan='2' </p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>rowspan='2' </p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+
+
 ## 參見
 
   - [AMD加速處理器](https://zh.wikipedia.org/wiki/AMD加速處理器 "wikilink")
@@ -694,3 +777,5 @@ PCIe 2.0通道數量</p></td>
 60.
 
 61.
+
+62.

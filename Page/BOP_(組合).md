@@ -1,4 +1,4 @@
-**BOP**，2014年到2015年6月稱**天堂鳥**（），其後正式改名為《BOP》，是2014年3月於[香港](../Page/香港.md "wikilink")出道的唱跳[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")，以勁歌熱舞為主打，由[創富文化集團](../Page/創富文化集團.md "wikilink")與香港著名排舞師Sunny Wong，籌備超過一年後安排出道，三位成員包括[葉灝基](https://zh.wikipedia.org/wiki/葉灝基 "wikilink")（Gordon）、[許俊豪](https://zh.wikipedia.org/wiki/許俊豪 "wikilink")（Lincoln）和 [歐喬鋒](https://zh.wikipedia.org/wiki/歐喬鋒 "wikilink")（Tyrese）。其歌迷被稱為「鳥粉」。
+**BOP**，2014年到2015年6月稱**天堂鳥**（），其後正式改名為《BOP》，是2014年3月於[香港](../Page/香港.md "wikilink")出道的唱跳[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")，以勁歌熱舞為主打，由[創富文化集團](../Page/創富文化集團.md "wikilink")與香港著名排舞師Sunny Wong，籌備超過一年後安排出道，三位成員包括[葉灝基](https://zh.wikipedia.org/wiki/葉灝基 "wikilink")（Gordon）、[許俊豪](../Page/許俊豪.md "wikilink")（Lincoln）和 [歐喬鋒](https://zh.wikipedia.org/wiki/歐喬鋒 "wikilink")（Tyrese）。其歌迷被稱為「鳥粉」。
 
 2016年6月，BOP成員以拍攝不雅照片及分發利潤不均勻等行為控告兩間經理人公司未履行合約，要求解約\[1\]。
 
@@ -150,6 +150,7 @@
 | **2018年**                                                       |
 |                                                                 |
 | **2019年**                                                       |
+|                                                                 |
 |                                                                 |
 
 | **各台冠軍歌總數** |

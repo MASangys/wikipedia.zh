@@ -30,7 +30,7 @@
   - [石田純一](https://zh.wikipedia.org/wiki/石田純一 "wikilink")、[さかなクン等](https://zh.wikipedia.org/wiki/さかなクン "wikilink")，交友關係寬廣。
   - 因為紐約留學，所以擅長英語。
   - 通稱「MAKIDAI(先生)」「MAKI(先生)」「MAKI哥哥」。等
-  - 擅長霹靂系的舞蹈。以前曾經與[岡村隆史展開霹靂舞對決過](https://zh.wikipedia.org/wiki/岡村隆史 "wikilink")。
+  - 擅長霹靂系的舞蹈。以前曾經與[岡村隆史](../Page/岡村隆史.md "wikilink")展開霹靂舞對決過。
 
 ## 参加團體
 

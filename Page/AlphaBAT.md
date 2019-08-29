@@ -28,26 +28,26 @@ AlphaBAT團體名稱意思\[3\]：BAT 令人聯想起BAT MAN，BAT MAN也就是�
   -
     <small>各成員的詳細資料請參閱各成員之頁面。</small>
 
-| 成員列表                                                           |
-| -------------------------------------------------------------- |
-| 藝名                                                             |
-| [B:eta](https://zh.wikipedia.org/wiki/池河龍 "wikilink")\[4\]（베타） |
-| [E:psilon](https://zh.wikipedia.org/wiki/劉泳進 "wikilink")（엡실론）  |
-| L:ambda\[5\]（람다）                                               |
-| K:appa（카파）                                                     |
-| [G:amma](https://zh.wikipedia.org/wiki/金俊洙 "wikilink")（감마）     |
+| 成員列表                 |
+| -------------------- |
+| 藝名                   |
+| **B:eta**\[4\](베타)   |
+| **E:psilon**(엡실론)    |
+| **L:ambda**\[5\](람다) |
+| **K:appa**(카파)       |
+| **G:amma**(감마)       |
 
 ### 前任成員
 
-| 成員列表                                                       |
-| ---------------------------------------------------------- |
-| 藝名                                                         |
-| [C:ode](https://zh.wikipedia.org/wiki/金湘訓 "wikilink")（코드）  |
-| [D:elta](https://zh.wikipedia.org/wiki/崔連壽 "wikilink")（델타） |
-| [F:ie](https://zh.wikipedia.org/wiki/李山河 "wikilink")（파이）   |
-| [H:eta](https://zh.wikipedia.org/wiki/薛晙 "wikilink")（에타）   |
-| [I:ota](https://zh.wikipedia.org/wiki/申世璘 "wikilink")（이오타） |
-| [J:eta](https://zh.wikipedia.org/wiki/金秀燁 "wikilink")（제타）  |
+| 成員列表           |
+| -------------- |
+| 藝名             |
+| **C:ode**(코드)  |
+| **D:elta**(델타) |
+| **F:ie**(파이)   |
+| **H:eta**(에타)  |
+| **I:ota**(이오타) |
+| **J:eta**(제타)  |
 
 ## 音樂作品
 

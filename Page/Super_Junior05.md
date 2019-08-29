@@ -3,6 +3,7 @@
 ## 專輯簡介
 
 Super Junior05在2005年11月6日於[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS的流行音樂節目中曝光首演後](https://zh.wikipedia.org/wiki/SBS "wikilink")，並沒立即上市專輯，僅以出道單曲“Twins (Knock Out)”、“Miracle”、“You Are The One”三首歌以數位單曲專輯的方式在網路上發行，不過之後在12月5日就發行了包含以上三首歌在內的完整專輯。
+
 首張專輯內有超過半數的歌為翻唱歌曲，其中“Twins (Knock Out)”是翻唱[英國樂團](https://zh.wikipedia.org/wiki/英國 "wikilink")《Triple Eight》的“Knock Out”，此單曲也曾在2003年被[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[男子演唱團體](https://zh.wikipedia.org/wiki/男子演唱團體 "wikilink")《[Energy](../Page/Energy.md "wikilink")》翻唱過，即“退魔錄”。“Keep In Touch”與“Believe”是翻唱[日本](../Page/日本.md "wikilink")演唱組合《[放浪兄弟](../Page/放浪兄弟.md "wikilink")》的歌曲。
 
 ## 曲目列表

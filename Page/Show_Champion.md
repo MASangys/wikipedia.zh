@@ -800,6 +800,12 @@
   - 07.10 - [GFRIEND](../Page/GFRIEND.md "wikilink")<sup>10th</sup> - Fever<sup>1st</sup>
   - 07.17 - [河成雲](../Page/河成雲.md "wikilink")<sup>2nd</sup> - Blue<sup>1st</sup>
   - 07.24 - 特輯 [DAY6](../Page/DAY6.md "wikilink")<sup>1st</sup> - Time of Our Life<sup>1st</sup>
+  - 07.31 - 停播
+
+八月
+
+  - 08.07 - [ITZY](../Page/ITZY.md "wikilink")<sup>1st</sup> - ICY<sup>1st</sup>
+  - 08.14 - 特輯 [ITZY](../Page/ITZY.md "wikilink")<sup>2nd</sup> - ICY<sup>2nd</sup>
 
 ## 藝人成就
 

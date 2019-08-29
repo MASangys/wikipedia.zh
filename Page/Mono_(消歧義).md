@@ -33,7 +33,7 @@
 
 ### [美國](https://zh.wikipedia.org/wiki/美國 "wikilink")
 
-  - Mono，美國[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")[莫诺县](https://zh.wikipedia.org/wiki/莫诺县 "wikilink")（Mono County）（Mono Mills，[鬼鎮](../Page/鬼鎮.md "wikilink")）簡稱
+  - Mono，美國[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")[莫诺县](../Page/莫诺县.md "wikilink")（Mono County）（Mono Mills，[鬼鎮](../Page/鬼鎮.md "wikilink")）簡稱
   - [莫諾湖](../Page/莫諾湖.md "wikilink")（Mono Lake）位於美國[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")東部
 
 ### 其他地方

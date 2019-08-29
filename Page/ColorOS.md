@@ -48,10 +48,24 @@ ColorOS雲服務是[OPPO](../Page/OPPO.md "wikilink")開發的[雲端功能](htt
 <td><p>ColorOS 6.0</p></td>
 <td><p><a href="../Page/Android_Pie.md" title="wikilink">Android 9.0 Pie</a></p></td>
 <td><p>6.0</p></td>
-<td><p>2018年12月29日</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>
+
+## ColorOS 升级计划
+
+Color OS 6.0升级计划 (中国大陆地区)
+
+第一批：R15、R15梦境版
+
+第二批：Find X、R17、R17 Pro
+
+第三批）：R11s、R11s Plus、R11、R11 Plus、A7x、A3
+
+已开放ColorOS 6.0正式版千人尝鲜升级的机型:
+
+\-Find X,R15 梦境版，R15普通版，R17,R17 Pro,R17,A3
 
 ## 事件
 

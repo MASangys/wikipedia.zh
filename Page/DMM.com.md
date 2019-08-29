@@ -2,7 +2,7 @@
 
 ## 歷史
 
-  - 1986年 - 龜山敬司於日本[石川縣](../Page/石川縣.md "wikilink")影像租賃店並創立KC股份有限公司（現[DMM.com Base](https://zh.wikipedia.org/wiki/DMM.com_Base "wikilink")）作為母公司。
+  - 1986年 - 龜山敬司於日本[石川縣](../Page/石川縣.md "wikilink")影像租賃店並創立KC股份有限公司（現DMM.com Base）作為母公司。
   - 1990年 - 成立北都集團(現[CA集團](../Page/CA集團.md "wikilink"))開始[成人影像版權業務](https://zh.wikipedia.org/wiki/成人影片 "wikilink")。
   - 1998年7月 - 線上影音播放平台「DMM」正式開始營運。
   - 1999年11月17日 - 在[加賀市成立](https://zh.wikipedia.org/wiki/加賀市 "wikilink") Digital Media Mart 股份有限公司（現DMM.com）。

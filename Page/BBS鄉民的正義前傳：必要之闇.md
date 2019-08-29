@@ -99,7 +99,7 @@
 | [廖富農](https://zh.wikipedia.org/wiki/廖富農 "wikilink") | 特務                           |
 | [王威量](https://zh.wikipedia.org/wiki/王威量 "wikilink") | 特務                           |
 | [陳漢章](https://zh.wikipedia.org/wiki/陳漢章 "wikilink") | 特務                           |
-| [鍾國豪](https://zh.wikipedia.org/wiki/鍾國豪 "wikilink") | 特務                           |
+| [鐘國豪](https://zh.wikipedia.org/wiki/鐘國豪 "wikilink") | 特務                           |
 | [林德輝](https://zh.wikipedia.org/wiki/林德輝 "wikilink") | 堂主小弟                         |
 | [謝志宏](https://zh.wikipedia.org/wiki/謝志宏 "wikilink") | 特務                           |
 | [許為翔](https://zh.wikipedia.org/wiki/許為翔 "wikilink") | 特務                           |

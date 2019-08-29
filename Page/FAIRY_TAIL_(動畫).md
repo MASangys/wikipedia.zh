@@ -202,7 +202,7 @@ Redwood Humberg Jr.</p></td>
 <tr class="odd">
 <td><p>15</p></td>
 <td><p><strong>MASAYUME CHASING</strong></p></td>
-<td><p>第176－188話</p></td>
+<td><p>第176－188話 （第277話作為片尾曲使用）</p></td>
 <td><p>Junji Ishiwatari</p></td>
 <td><p>STEVEN LEE &amp;<br />
 Caroline Gustavsson</p></td>
@@ -568,24 +568,13 @@ Charlie Grant</p></td>
 <tr class="even">
 <td><p>22</p></td>
 <td><p><strong>Landscape</strong></p></td>
-<td><p>第266－277話</p></td>
+<td><p>第266－276話</p></td>
 <td><p>森月</p></td>
 <td><p>Justin Moretz &amp; Kotaro Egami</p></td>
 <td><p><a href="../Page/SOLIDEMO.md" title="wikilink">SOLIDEMO</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>23</p></td>
-<td><p><strong>MASAYUME CHASING</strong></p></td>
-<td><p>第277話</p></td>
-<td><p>Junji<br />
-Ishiwatari</p></td>
-<td><p>STEVEN LEE<br />
-Caroline Gustavsson</p></td>
-<td><p>－</p></td>
-<td><p>BoA</p></td>
-</tr>
-<tr class="even">
 <td><p>第3期</p></td>
 <td></td>
 <td></td>
@@ -594,8 +583,8 @@ Caroline Gustavsson</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>24</p></td>
+<tr class="even">
+<td><p>23</p></td>
 <td><p><strong>Endless Harmony</strong></p></td>
 <td><p>第278－290話</p></td>
 <td></td>
@@ -603,8 +592,8 @@ Caroline Gustavsson</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>25</p></td>
+<tr class="odd">
+<td><p>24</p></td>
 <td><p><strong></strong></p></td>
 <td><p>第291－303話</p></td>
 <td></td>
@@ -612,8 +601,8 @@ Caroline Gustavsson</p></td>
 <td></td>
 <td><p><a href="../Page/EMPiRE_(偶像團體).md" title="wikilink">EMPiRE</a></p></td>
 </tr>
-<tr class="odd">
-<td><p>26</p></td>
+<tr class="even">
+<td><p>25</p></td>
 <td><p><strong>僕と君のララバイ</strong></p></td>
 <td><p>第304－315話</p></td>
 <td></td>
@@ -621,8 +610,8 @@ Caroline Gustavsson</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/みゆな" title="wikilink">みゆな</a></p></td>
 </tr>
-<tr class="even">
-<td><p>27</p></td>
+<tr class="odd">
+<td><p>26</p></td>
 <td><p><strong>Exceed</strong></p></td>
 <td><p>第316－話</p></td>
 <td></td>
@@ -3734,6 +3723,33 @@ Kim Ki Yeob</p></td>
 <td><p>320</p></td>
 <td></td>
 <td><p>新月蝕計畫</p></td>
+<td><p>志茂文彦</p></td>
+<td><p>鈴木勇士</p></td>
+<td><p>渡邊健一、石川惠理</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>321</p></td>
+<td></td>
+<td><p>已經見不到愛</p></td>
+<td><p>十川誠志</p></td>
+<td><p>石平信司</p></td>
+<td><p>高山智也</p></td>
+<td><p>藤崎真吾</p></td>
+</tr>
+<tr class="odd">
+<td><p>322</p></td>
+<td></td>
+<td><p>誓言之門</p></td>
+<td><p>米村正二</p></td>
+<td><p>鈴木勇士</p></td>
+<td><p>波風立志</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>323</p></td>
+<td></td>
+<td><p>兇暴的龍之炎</p></td>
 <td></td>
 <td></td>
 <td></td>

@@ -2,16 +2,16 @@
 
 ## 成員資料
 
-| 已退出成員列表                         |
-| ------------------------------- |
-| 藝名\[3\]                         |
-| 藝名                              |
-| RASA                            |
-| E.DEN                           |
-| J-HYO                           |
-| KING                            |
-| JUN                             |
-| [AO](../Page/BLK.md "wikilink") |
+| 已退出成員列表 |
+| ------- |
+| 藝名\[3\] |
+| 藝名      |
+| RASA    |
+| E.DEN   |
+| J-HYO   |
+| KING    |
+| JUN     |
+| AO      |
 
 ## 唱片
 
@@ -78,15 +78,15 @@
 
   - 2013年
 
-|                                                       |
-| ----------------------------------------------------- |
-| MaMa Beat                                             |
-| 頻道                                                    |
-| [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") |
-| [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   |
-| [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   |
-| [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")   |
-| [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   |
+|                                                     |
+| --------------------------------------------------- |
+| MaMa Beat                                           |
+| 頻道                                                  |
+| [Mnet](../Page/Mnet.md "wikilink")                  |
+| [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") |
+| [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") |
+| [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") |
+| [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") |
 
 ### 廣播電台
 

@@ -18,31 +18,31 @@ FN Minimi 7.62擁有7.62毫米武器的威力，卻只有5.56毫米武器的重�
 
 ## Minimi Mk 3
 
-[2013年11月](../Page/2013年11月.md "wikilink")，國營赫斯塔爾推出了FN Minimi系列機槍的改進版本Mk 3型。此次升級乃是根據操作經驗以及在過去10—15年的用戶的反饋。7.62毫米口徑的版本被命名為FN Minimi 7.62 Mk 3，而它亦可以轉換為發射5.56毫米口徑子彈。其[槍托](../Page/槍托.md "wikilink")具有5段伸縮位置以調節長度，並且具有4段可調節高度式（2段位置是用於[機械瞄具](../Page/機械瞄具.md "wikilink")，而另外2段則是用於[光學瞄準鏡](https://zh.wikipedia.org/wiki/瞄準镜 "wikilink")）、厚橡膠緩衝墊、折疊式支肩架和液壓緩衝器。這種全新的槍托在輕機槍和通用機槍上十分少見，有些類似於[狙擊步槍的槍托](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")。供彈機盤具有保留棘爪，以便在裝填時從[彈鏈](../Page/彈鏈.md "wikilink")緊夾[彈藥到位](https://zh.wikipedia.org/wiki/彈藥 "wikilink")。該機槍亦具有[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，在[機匣蓋頂部安裝了較長的戰術導軌](../Page/机匣.md "wikilink")，而在[護木上亦具有](https://zh.wikipedia.org/wiki/護木 "wikilink")3條向前小段式的戰術導軌。該槍使用的一種新型[兩腳架具有](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")3段伸縮位置以調節高度，而且當向後折疊時可無縫地整合到護木的形狀而無論可能加裝的配件。其他的功能還包括一個更為符合[人體工學的](../Page/人因工程学.md "wikilink")和一個可選用的以保護使用者避免被炙熱的槍管燙傷。已經裝備了FN Minimi系列機槍的用戶可以部分或完全地升級其現有的武器至具有Mk 3型的特徵。\[3\]
+[2013年11月](../Page/2013年11月.md "wikilink")，國營赫斯塔爾推出了FN Minimi系列機槍的改進版本Mk 3型。此次升級乃是根據操作經驗以及在過去10—15年的用戶的反饋。7.62毫米口徑的版本被命名為FN Minimi 7.62 Mk 3，而它亦可以轉換為發射5.56毫米口徑子彈。其[槍托](../Page/槍托.md "wikilink")具有5段伸縮位置以調節長度，並且具有4段可調節高度式（2段位置是用於[機械瞄具](../Page/機械瞄具.md "wikilink")，而另外2段則是用於[光學瞄準鏡](https://zh.wikipedia.org/wiki/瞄準镜 "wikilink")）、厚[橡膠](../Page/橡膠.md "wikilink")製、折疊式支肩架和液壓緩衝器。這種全新的槍托在輕機槍和通用機槍上十分少見，有些類似於[狙擊步槍的槍托](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")。供彈機盤具有保留棘爪，以便在裝填時從[彈鏈](../Page/彈鏈.md "wikilink")緊夾[彈藥到位](https://zh.wikipedia.org/wiki/彈藥 "wikilink")。該機槍亦具有[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，在[機匣蓋頂部安裝了較長的戰術導軌](../Page/机匣.md "wikilink")，而在[護木上亦具有](https://zh.wikipedia.org/wiki/護木 "wikilink")3條向前小段式的戰術導軌。該槍使用的一種新型[兩腳架具有](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")3段伸縮位置以調節高度，而且當向後折疊時可無縫地整合到護木的形狀而無論可能加裝的配件。其他的功能還包括一個更為符合[人體工學的](../Page/人因工程学.md "wikilink")和一個可選用的以保護使用者避免被炙熱的槍管燙傷。已經裝備了FN Minimi系列機槍的用戶可以部分或完全地升級其現有的武器至具有Mk 3型的特徵。\[3\]
 
 ## 使用國
 
-  - ：导轨护木型（包括聚合物固定[槍托](../Page/槍托.md "wikilink")和金屬伸縮槍托兩者）被[澳大利亚国防军](../Page/澳大利亚国防军.md "wikilink")所有限量採用，命名為Maximi。\[4\]\[5\]
+  -   - [澳大利亚国防军](../Page/澳大利亚国防军.md "wikilink")：採用导轨护木型（包括聚合物固定[槍托](../Page/槍托.md "wikilink")和金屬伸縮槍托兩者），命名為Maximi。\[4\]\[5\]
 
-  - ：被所採用。\[6\]
-
-  -
-  - ：被法國陸軍特種部隊大隊所採用。
-
-  - ：被第9傘兵突擊團所採用。
+  -   - \[6\]
 
   -
-  - ：2012年2月，导轨护木型（包括聚合物固定槍托和金屬伸縮槍托兩者）被[紐西蘭國防軍](../Page/紐西蘭國防軍.md "wikilink")所採用，取代C9 LSW Minimi，命名為7.62 LSW Minimi。\[7\]\[8\]
+  -   - 法國陸軍特種部隊旅
 
-  - ：被[波蘭軍隊](https://zh.wikipedia.org/wiki/波蘭軍隊 "wikilink")[行動應變及機動組](../Page/行動應變及機動組.md "wikilink")所採用。\[9\]
+  -   - 意大利陸軍第9傘降突擊團
 
-  - ：被[特種部隊](../Page/特種部隊.md "wikilink")所採用。\[10\]
+  -
+  -   - [紐西蘭國防軍](../Page/紐西蘭國防軍.md "wikilink")：從2012年2月起採用导轨护木型（包括聚合物固定槍托和金屬伸縮槍托兩者），以取代C9 LSW Minimi，命名為7.62 LSW Minimi。\[7\]\[8\]
 
-  - ：被[西班牙海軍](../Page/西班牙海軍.md "wikilink")所採用。\[11\]
+  -   - [波蘭武裝力量](../Page/波蘭軍事.md "wikilink")[行動應變及機動組](../Page/行動應變及機動組.md "wikilink")\[9\]
 
-  - ：一小批自2011年起被[英國陸軍所採用](https://zh.wikipedia.org/wiki/英國陸軍 "wikilink")。\[12\]
+  -   - [特種部隊](../Page/特種部隊.md "wikilink")單位\[10\]
 
-  - ：被[美国](../Page/美国.md "wikilink")[特種作戰司令部](https://zh.wikipedia.org/wiki/美國特種作戰司令部 "wikilink")（）所採用，命名為[Mk 48 Mod 0／1](../Page/Mk_48輕量化機槍.md "wikilink")。
+  -   - [西班牙海軍](../Page/西班牙海軍.md "wikilink")\[11\]
+
+  -   - [英國陸軍](https://zh.wikipedia.org/wiki/英國陸軍 "wikilink")：一小批自2011年起採用。\[12\]
+
+  -   - [美国](../Page/美国.md "wikilink")[特種作戰司令部](https://zh.wikipedia.org/wiki/美國特種作戰司令部 "wikilink")：命名為[Mk 48 Mod 0／1](../Page/Mk_48輕量化機槍.md "wikilink")。
 
 ## 參見
 

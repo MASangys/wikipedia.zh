@@ -187,6 +187,7 @@
   - 2016年：KBS《[雲畫的月光](../Page/雲畫的月光.md "wikilink")》原聲帶〈雲畫的月光〉
   - 2017年：SBS《[我的野蠻女友](../Page/我的野蠻女友_\(韓國電視劇\).md "wikilink")》原聲帶〈Because I Love You〉
   - 2018年：tvN《[百日的郎君](../Page/百日的郎君.md "wikilink")》原聲帶〈抹去〉
+  - 2019年：tvN《[德鲁纳酒店](https://zh.wikipedia.org/wiki/德鲁纳酒店 "wikilink")》原聲帶〈請記住與我共度的每天和當下〉
 
 ### 合唱歌曲
 

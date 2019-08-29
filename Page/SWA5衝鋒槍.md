@@ -18,6 +18,7 @@ Special Weapons除了生產SWA5，還有MP-10及民用型SP-10。
 
 ## 使用國
 
-  - :[霹靂小組](https://zh.wikipedia.org/wiki/霹靂小組 "wikilink")，[國安局特勤中心等警察單位](https://zh.wikipedia.org/wiki/國安局 "wikilink")。
+  -   - [霹靂小組](https://zh.wikipedia.org/wiki/霹靂小組 "wikilink")
+      - [國安局特勤中心](https://zh.wikipedia.org/wiki/國安局 "wikilink")
 
 [Category:衝鋒槍](https://zh.wikipedia.org/wiki/Category:衝鋒槍 "wikilink") [Category:9毫米魯格彈槍械](https://zh.wikipedia.org/wiki/Category:9毫米魯格彈槍械 "wikilink") [Category:美國衝鋒槍](https://zh.wikipedia.org/wiki/Category:美國衝鋒槍 "wikilink")

@@ -12,7 +12,7 @@
 
 [Kinect_Sports_Rivals-Facial_recognition.jpg](https://zh.wikipedia.org/wiki/File:Kinect_Sports_Rivals-Facial_recognition.jpg "fig:Kinect_Sports_Rivals-Facial_recognition.jpg")
 
-該遊戲屬於Kinect運動大會系列，是該系列的第三部作品\[11\]。《Kinect 運動大會：對抗賽》共有150名員工參與開發作業\[12\]\[13\]。該遊戲由新的[Xbox One遊戲機和Kinect](../Page/Xbox_One.md "wikilink") 2.0硬件支援\[14\]。《Kinect 運動大會：對抗賽》製作商[Rare](../Page/Rare.md "wikilink")的領導人克雷格·鄧肯（）在接受《[富比世](https://zh.wikipedia.org/wiki/富比世 "wikilink")》採訪時表示，-{「}-我們與Xbox One團隊合作，進一步將《Kinect 運動大會：對抗賽》做得更自然——讓它更好看，更好玩，增添更多的深度及精確度-{」}-\[15\]。該遊戲的旁白為[大衛·田納特](../Page/大衛·田納特.md "wikilink")\[16\]\[17\]。
+該遊戲屬於Kinect運動大會系列，是該系列的第三部作品\[11\]。《Kinect 運動大會：對抗賽》共有150名員工參與開發作業\[12\]\[13\]。該遊戲由新的[Xbox One遊戲機和](../Page/Xbox_One.md "wikilink")[Kinect](../Page/Kinect.md "wikilink") 2.0硬件支援\[14\]。《Kinect 運動大會：對抗賽》製作商[Rare](../Page/Rare.md "wikilink")的領導人克雷格·鄧肯（）在接受《[富比世](https://zh.wikipedia.org/wiki/富比世 "wikilink")》採訪時表示，-{「}-我們與Xbox One團隊合作，進一步將《Kinect 運動大會：對抗賽》做得更自然——讓它更好看，更好玩，增添更多的深度及精確度-{」}-\[15\]。該遊戲的旁白為[大衛·田納特](../Page/大衛·田納特.md "wikilink")\[16\]\[17\]。
 
 原先的發行日期為2013年4月8日\[18\]，為Xbox One的首發遊戲之一\[19\]，但之後[微軟在](https://zh.wikipedia.org/wiki/微軟 "wikilink")新闻发布会上宣布該游戏将于2014年4月8日发行\[20\]，以完善《Kinect 運動大會：對抗賽》\[21\]。前Rare設計師蓋文·普萊斯（）於2015年評論該遊戲的開發歷程時說道-{「}-在《Kinect 運動大會：對抗賽》的開發過程中，Kinect有點像是突然被丟棄了。我想部分原因是我們錯過了發售日期——這對我們沒有任何好處！不過我們總算能在Xbox One上市時做出水上摩托車的測試版，而且我們也有自己的雲端實體化系統，能用面部掃描創建出玩家的頭像-{」}-\[22\]。微軟推派《Kinect 運動大會：對抗賽》與其他22款遊戲參加在日本千葉[幕張展覽館](../Page/幕張展覽館.md "wikilink")舉行的2014年[東京電玩展](https://zh.wikipedia.org/wiki/東京電玩展 "wikilink")（TGS）\[23\]。
 

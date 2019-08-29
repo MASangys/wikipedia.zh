@@ -32,11 +32,11 @@
 
 2015年2月24日，已約滿離開的成員[素真於寓所墜樓](https://zh.wikipedia.org/wiki/素真 "wikilink")，搶救無效不治，得年22歲\[15\]。
 
-2015年8月25日，Baby Kara成員[昭珉](https://zh.wikipedia.org/wiki/昭珉 "wikilink")、[採媛以](https://zh.wikipedia.org/wiki/採媛 "wikilink")[DSP Media新女團](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")[APRIL正式出道](https://zh.wikipedia.org/wiki/APRIL_\(女子團體\) "wikilink")，出道Showcase時，同為Baby Kara成員、[彩暻](../Page/彩暻.md "wikilink")皆有到場觀看。但成員[昭珉在同年](https://zh.wikipedia.org/wiki/昭珉 "wikilink")11月9日，因要專心學業的理由而退出APRIL。
+2015年8月25日，Baby Kara成員[昭珉](https://zh.wikipedia.org/wiki/昭珉 "wikilink")、[採媛以](https://zh.wikipedia.org/wiki/採媛 "wikilink")[DSP Media新女團](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")[APRIL正式出道](../Page/APRIL_\(女子團體\).md "wikilink")，出道Showcase時，同為Baby Kara成員、[彩暻](../Page/彩暻.md "wikilink")皆有到場觀看。但成員[昭珉在同年](https://zh.wikipedia.org/wiki/昭珉 "wikilink")11月9日，因要專心學業的理由而退出APRIL。
 
 2016年1月15日，Kara原始成員[奎利](../Page/朴奎利.md "wikilink")、[昇延](../Page/韓昇延.md "wikilink")、[荷拉於月底約滿](https://zh.wikipedia.org/wiki/具荷拉 "wikilink")，三人皆不續約，而**齡智**則會繼續留在公司發展個人活動也結束组合活動。
 
-2016年1月22日，Baby Kara成員[彩暻](../Page/彩暻.md "wikilink")、 參與[Mnet製作的企劃女團節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》，後被淘汰。
+2016年1月22日，Baby Kara成員[彩暻](../Page/彩暻.md "wikilink")、 參與[Mnet](../Page/Mnet.md "wikilink")製作的企劃女團節目《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》，後被淘汰。
 
 2016年11月11日，Baby Kara成員[彩暻](../Page/彩暻.md "wikilink")正式加入APRIL。
 

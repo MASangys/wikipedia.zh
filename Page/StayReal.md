@@ -1,11 +1,15 @@
-**StayReal** 是由[臺灣](../Page/臺灣.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[五月天](../Page/五月天.md "wikilink")主唱[阿信與臺灣知名](../Page/陳信宏.md "wikilink")[插畫家](https://zh.wikipedia.org/wiki/插畫家 "wikilink")[不二良](../Page/不二良.md "wikilink")所共同創立的潮流品牌。2007年成立至今，事業版圖除了臺灣，在中國大陸、香港、東京均有設點，共有20多家門市。\[1\] 2011年起開設連鎖品牌咖啡廳「StayReal Café」。\[2\]\[3\] 2014年由[南韓團體](https://zh.wikipedia.org/wiki/南韓 "wikilink")[FTIsland](../Page/FTIsland.md "wikilink")擔任亞洲區年度代言人，成為第一個以韓團代言的台灣潮流品牌 \[4\]；2015年則由[CNBLUE](../Page/CNBLUE.md "wikilink")擔任。\[5\]
-
-2016年STAYREAL Café和[李宗盛](../Page/李宗盛.md "wikilink")創立的吉他品牌Lee Guitar於[上海新天地以](https://zh.wikipedia.org/wiki/上海新天地 "wikilink")「有練 Sweat & Tears」的合作品牌，開設複合式咖啡店。\[6\]
+**StayReal** 是由[臺灣](../Page/臺灣.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[五月天](../Page/五月天.md "wikilink")主唱[阿信與臺灣知名](../Page/陳信宏.md "wikilink")[插畫家](https://zh.wikipedia.org/wiki/插畫家 "wikilink")[不二良](../Page/不二良.md "wikilink")所共同創立的潮流品牌。2007年成立至今，事業版圖除了臺灣，在中國大陸、香港、東京均有設點，共有20多家門市。\[1\] 2011年起開設連鎖品牌咖啡廳「StayReal Café」。\[2\]\[3\]
 
 ## 品牌名稱
 
-  - **StayReal**：也存在「STAYREAL」（全字母取大寫）及「Stayreal」（字母r取小寫）的寫法。取自「Stereo」諧音，有雙聲道般之立體感的涵義。同時，將「Stay」和「Real」分開解讀，也有「保持本真」之義。\[7\]
-  - **時代銳兒**：取自品牌英文名稱「StayReal」的中文諧音。該名稱最早作為2017年的愚人節玩笑出現在不二良的新浪微博上。不二良開玩笑稱品牌名稱將從英文「StayReal」改為中文「時代銳兒」，維持時間為2017年4月1日一天。\[8\]然而，2018年品牌11週年慶的時候，「時代銳兒」依然有作為中文名稱在品牌宣傳材料上出現。\[9\]\[10\]
+  - **StayReal**：也存在「STAYREAL」（全字母取大寫）及「Stayreal」（字母r取小寫）的寫法。取自「Stereo」諧音，有雙聲道般之立體感的涵義。同時，將「Stay」和「Real」分開解讀，也有「保持本真」之義。\[4\]
+  - **時代銳兒**：取自品牌英文名稱「StayReal」的中文諧音。該名稱最早作為2017年的愚人節玩笑出現在不二良的新浪微博上。不二良開玩笑稱品牌名稱將從英文「StayReal」改為中文「時代銳兒」，維持時間為2017年4月1日一天。\[5\]然而，2018年品牌11週年慶的時候，「時代銳兒」依然有作為中文名稱在品牌宣傳材料上出現。\[6\]\[7\]
+
+## 背景
+
+2014年由[南韓團體](https://zh.wikipedia.org/wiki/南韓 "wikilink")[FTIsland](../Page/FTIsland.md "wikilink")擔任亞洲區年度代言人，成為第一個以韓團代言的台灣潮流品牌 \[8\]；2015年則由[CNBLUE](../Page/CNBLUE.md "wikilink")擔任。\[9\]
+
+2016年，「STAYREAL Café」和[李宗盛](../Page/李宗盛.md "wikilink")創立的吉他品牌「Lee Guitar」於[上海新天地開設合作品牌](https://zh.wikipedia.org/wiki/上海新天地 "wikilink")「有練 Sweat & Tears」複合式咖啡店。\[10\] 2019年1月，複合品牌早午餐店「扶瑞號（FULL REAL）」的首間門市於[上海來福士廣場開幕](https://zh.wikipedia.org/wiki/上海來福士廣場 "wikilink")。\[11\]
 
 ## 設計師
 
@@ -90,6 +94,11 @@
   - [gudetama 蛋黃哥](../Page/蛋黃哥.md "wikilink")
 
 
+; 遊戲
+
+  - [傳說對決](../Page/傳說對決.md "wikilink")
+
+
 ; 電視
 
   - [Sesame Street 芝麻街](../Page/芝麻街.md "wikilink")
@@ -102,7 +111,7 @@
 
 ; 展覽
 
-  - STAY REAL DREAMS 一克拉的夢想 \[11\]
+  - STAY REAL DREAMS 一克拉的夢想 \[12\]
   - 我是細路
 
 ## 門市
@@ -160,11 +169,10 @@
 
 ### StayReal Café
 
-  - 敦南店
+  - 新忠孝店
   - 上海 iapm 店
   - 杭州湖滨银泰 in77 店
   - 廣州天環店
-  - 有練 Sweat & Tears
   - 深圳萬象天地店
 
 ### ROCKCOCO 友情門市
@@ -180,9 +188,10 @@
   - 高雄漢神巨蛋店
   - 高雄大遠百店
 
-### FULL REAL 扶瑞號
+### 其他複合門市
 
-  - 上海人民廣場店
+  - 有練 Sweat & Tears
+  - FULL REAL 扶瑞號
 
 ## 出版書籍
 
@@ -223,17 +232,19 @@
 
 3.  [阿信為潮牌安置285坪新家 擲1.86億買商辦](http://ent.appledaily.com.tw/enews/article/entertainment/20131014/35361390)
 
-4.  [美男李洪基才剛離台 阿信馬上啟用FTIsland！](http://www.nownews.com/n/2014/07/01/1302155)
+4.
 
-5.  [五月天阿信+CNBLUE 潮翻全球](http://ent.ltn.com.tw/m/news/breakingnews/1416595)
+5.
 
-6.  [越過夢想山丘 Lee Guitars X StayReal Cafe 全球首間跨界概念店「有練」倔強登陸上海新天地](http://tw.istayreal.com/news/1082)
-
+6.
 7.
 
-8.
+8.  [美男李洪基才剛離台 阿信馬上啟用FTIsland！](http://www.nownews.com/n/2014/07/01/1302155)
 
-9.
-10.
+9.  [五月天阿信+CNBLUE 潮翻全球](http://ent.ltn.com.tw/m/news/breakingnews/1416595)
+
+10. [越過夢想山丘 Lee Guitars X StayReal Cafe 全球首間跨界概念店「有練」倔強登陸上海新天地](http://tw.istayreal.com/news/1082)
 
 11.
+
+12.

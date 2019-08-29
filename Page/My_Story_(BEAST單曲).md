@@ -2,7 +2,7 @@
 
 ## 簡介
 
-收錄成員間合唱的歌曲以及迷你四輯中的intro曲「Lights go on again」的完整版。在首場「WELCOME TO BEAST AIRLINE」演唱會上成員們演唱了這些曲目，並於演唱會結束後公開音源。在12月23日的[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") [M\!Countdown節目上三對合唱組合將會正式首唱](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")。\[1\]
+收錄成員間合唱的歌曲以及迷你四輯中的intro曲「Lights go on again」的完整版。在首場「WELCOME TO BEAST AIRLINE」演唱會上成員們演唱了這些曲目，並於演唱會結束後公開音源。在12月23日的[Mnet](../Page/Mnet.md "wikilink") [M\!Countdown節目上三對合唱組合將會正式首唱](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")。\[1\]
 
 「When the Door Closes」在12月21日公開音源，融合了哀傷的旋律以及東雲、斗俊的溫柔歌聲。如同在演唱會上他們一起演奏著鋼琴，這首歌曲也想要帶給聽眾們那樣豐富的情感。\[2\]
 

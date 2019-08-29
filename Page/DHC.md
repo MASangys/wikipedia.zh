@@ -58,6 +58,6 @@
   - [DHC 中国](http://www.dhc.net.cn/)
   - [DHC 台灣](https://www.27662000.com.tw/)
       -
-[Category:日本化妆品公司](https://zh.wikipedia.org/wiki/Category:日本化妆品公司 "wikilink") [Category:日本化學工業公司](https://zh.wikipedia.org/wiki/Category:日本化學工業公司 "wikilink") [Category:日本健康食品公司](https://zh.wikipedia.org/wiki/Category:日本健康食品公司 "wikilink") [Category:日本出版社](https://zh.wikipedia.org/wiki/Category:日本出版社 "wikilink")
+[Category:日本化妆品公司](https://zh.wikipedia.org/wiki/Category:日本化妆品公司 "wikilink") [Category:日本化學工業公司](https://zh.wikipedia.org/wiki/Category:日本化學工業公司 "wikilink") [Category:日本健康食品公司](https://zh.wikipedia.org/wiki/Category:日本健康食品公司 "wikilink") [Category:日本出版社](https://zh.wikipedia.org/wiki/Category:日本出版社 "wikilink") [Category:反韓情緒](https://zh.wikipedia.org/wiki/Category:反韓情緒 "wikilink")
 
 1.  [化妝品店DHC 下月撤出香港](http://hk.apple.nextmedia.com/news/art/20160402/19554870) 蘋果日報，2016年4月2日

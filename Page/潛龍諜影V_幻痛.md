@@ -118,7 +118,7 @@
 
   -
     （英文配音：Vanessa Marshall／日文配音：[菊地由美](https://zh.wikipedia.org/wiki/菊地由美 "wikilink")）
-    Emmerich博士之妻，[「和平行者事件」中的美国人工智慧专家](https://zh.wikipedia.org/wiki/潜龙谍影_和平先驱 "wikilink")，之后帮助MSF开发ZEKE。原爆点事件后下落不明。最終於AI裝置中找到其屍體。
+    Emmerich博士之妻，[「和平行者事件」中的美国人工智慧专家](https://zh.wikipedia.org/wiki/潜龙谍影_和平先驱 "wikilink")，之后帮助MSF开发ZEKE。原爆点事件后下落不明。最終於AI裝置中找到被Emmerich博士殺害的屍體。
 
 <!-- end list -->
 

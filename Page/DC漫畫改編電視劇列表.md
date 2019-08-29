@@ -117,40 +117,40 @@
 <td><p>第四季</p></td>
 </tr>
 <tr class="even">
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/哥谭_(电视剧)" title="wikilink">萬惡高譚市</a></strong></p></td>
+<td><p>FOX</p></td>
+<td><p>2014-2019</p></td>
+<td><p>全五季</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>正在播出</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/綠箭俠_(電視劇)" title="wikilink">綠箭俠</a></strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/CW电视网" title="wikilink">CW</a></p></td>
 <td><p>2012–至今</p></td>
 <td><p>第七季（属于<a href="https://zh.wikipedia.org/wiki/绿箭宇宙" title="wikilink">绿箭宇宙</a>）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/閃電俠_(2014年電視劇)" title="wikilink">閃電俠</a></strong></p></td>
 <td><p>2014–至今</p></td>
 <td><p>第五季（属于<a href="https://zh.wikipedia.org/wiki/绿箭宇宙" title="wikilink">绿箭宇宙</a>）</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/哥谭_(电视剧)" title="wikilink">萬惡高譚市</a></strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/福斯广播公司" title="wikilink">FOX</a></p></td>
-<td><p>第四季</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/我是殭屍_(電視劇).md" title="wikilink">我是殭屍</a></strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/CW电视网" title="wikilink">CW</a></p></td>
 <td><p>2015–至今</p></td>
-<td><p>第三季（已预订第4季）</p></td>
+<td><p>第五季</p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/女超人_(電視劇).md" title="wikilink">女超人</a></strong></p></td>
@@ -168,7 +168,7 @@
 <tr class="even">
 <td><p><strong><a href="../Page/傳教士_(電視劇).md" title="wikilink">傳教士</a></strong></p></td>
 <td><p><a href="../Page/AMC_(电视频道).md" title="wikilink">AMC</a></p></td>
-<td><p>第三季</p></td>
+<td><p>第四季</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -190,96 +190,114 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p><strong><a href="../Page/沼澤異形_(2019年電視劇).md" title="wikilink">沼澤異形</a></strong></p></td>
+<td><p>DC Universe</p></td>
+<td><p>2019-至今</p></td>
+<td><p>第一季</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="../Page/末日巡邏隊_(電視劇).md" title="wikilink">末日巡邏隊</a></strong></p></td>
+<td><p>DC Universe</p></td>
+<td><p>2019-至今</p></td>
+<td><p>第一季</p></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="../Page/潘尼沃斯_(電視劇).md" title="wikilink">潘尼沃斯</a></strong></p></td>
+<td></td>
+<td><p>2019-至今</p></td>
+<td><p>第一季</p></td>
+</tr>
+<tr class="odd">
 <td><p>即將推出</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>大都會</strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/DC_Universe_(串流媒體)" title="wikilink">DC Universe</a></p></td>
 <td><p>2019</p></td>
 <td><p>第一季已預訂</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong><a href="../Page/守護者_(電視劇).md" title="wikilink">守護者</a></strong></p></td>
 <td><p><a href="../Page/HBO.md" title="wikilink">HBO</a></p></td>
 <td><p>待定</p></td>
 <td><p>試播集已預訂</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong></strong></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>正在開發</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong></strong></p></td>
 <td><p><a href="../Page/Syfy.md" title="wikilink">Syfy</a></p></td>
 <td><p>待定</p></td>
 <td><p>[4]</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong></strong></p></td>
 <td><p>[5]</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong></strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/USA电视台" title="wikilink">USA</a></p></td>
 <td><p>[6]</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong></strong></p></td>
 <td><p><a href="../Page/Machinima公司.md" title="wikilink">Machinima</a></p></td>
 <td><p>[7]</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong></strong>[8]</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong></strong> [9]</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong></strong></p></td>
 <td><p><a href="../Page/全国广播公司.md" title="wikilink">NBC</a></p></td>
 <td><p>[10]</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong></strong></p></td>
 <td><p><a href="../Page/FX_(电视频道).md" title="wikilink">FX</a></p></td>
 <td><p>[11]</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>Unfollow</strong></p></td>
 <td><p><a href="../Page/美国广播公司.md" title="wikilink">ABC</a></p></td>
 <td><p>[12]</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong></strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/CW电视网" title="wikilink">CW</a></p></td>
 <td><p>[13]</p></td>

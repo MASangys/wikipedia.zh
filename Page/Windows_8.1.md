@@ -64,7 +64,7 @@ Windows 8.1後續系統為[Windows 10](../Page/Windows_10.md "wikilink")。Windo
   - 共享“Charm菜单支持分享螢幕截图”
   - 从[Windows Vista开始的名稱](../Page/Windows_Vista.md "wikilink")「電腦」（简体中文版译作“计算机”，英文為「My Computer」)）改名为「这台电脑」或「本機」(英文為「This PC」)。
 
-### 开始屏幕更新
+### 开始介面
 
   - 开始屏幕背景支持更多的颜色
   - 支持将桌面背景设为开始螢幕背景

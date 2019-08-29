@@ -1,4 +1,4 @@
-**Broadwell**是[英特爾](https://zh.wikipedia.org/wiki/英特爾 "wikilink")（Intel）於2015年1月在[消費性電子展](https://zh.wikipedia.org/wiki/消費性電子展 "wikilink")（CES）發表的處理器架構代號\[1\]，是[tick-tock模式中](../Page/Intel_Tick-Tock.md "wikilink")[Haswell微架構](../Page/Haswell微架構.md "wikilink")的[14nm製程改進版本](https://zh.wikipedia.org/wiki/國際半導體技術發展藍圖 "wikilink")\[2\]\[3\]。移动领域为主，桌面领域为辅，而且沒有零售版。
+**Broadwell**是[英特爾](https://zh.wikipedia.org/wiki/英特爾 "wikilink")（Intel）於2015年1月在[消費性電子展](https://zh.wikipedia.org/wiki/消費性電子展 "wikilink")（CES）發表的處理器架構代號\[1\]，是[tick-tock模式中](../Page/Intel_Tick-Tock.md "wikilink")[Haswell微架構](../Page/Haswell微架構.md "wikilink")的[14nm製程改進版本](https://zh.wikipedia.org/wiki/國際半導體技術發展藍圖 "wikilink")\[2\]\[3\]。移动及伺服器领域为主，桌面领域为辅，而且沒有零售版。
 
 Broadwell將會採用[多晶片模組](../Page/多晶片模組.md "wikilink")設計。電壓調節模組可能會從CPU分離出來，以減少[熱量的產生](https://zh.wikipedia.org/wiki/熱量 "wikilink")。\[4\]
 

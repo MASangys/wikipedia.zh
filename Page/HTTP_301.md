@@ -35,39 +35,6 @@ Location: http://www.example.org/index.asp
 Cache-control: private; max-age=600
 ```
 
-## 服务器配置
-
-这是一个例子，展示如何使用 [Apache HTTP Server的](../Page/Apache_HTTP_Server.md "wikilink")[.htaccess](https://zh.wikipedia.org/wiki/.htaccess "wikilink") 配置文件将带 www 的 HTTP [URI](https://zh.wikipedia.org/wiki/URI "wikilink") 全部重定向到不带 www 的 HTTPS URI：
-
-    RewriteEngine On
-    RewriteCond %{HTTPS} off
-    RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
-    RewriteRule ^(.*)$ http://%1/$1 [R=301,L]
-
-    RewriteCond %{HTTPS} on
-    RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
-    RewriteRule ^(.*)$ https://%1/$1 [R=301,L]
-
-    RewriteEngine On
-    RewriteCond %{SERVER_PORT} 80
-    RewriteRule ^(.*)$ https://example.com/$1 [R,L]
-
-等价的 [NGINX](https://zh.wikipedia.org/wiki/NGINX "wikilink") 配置方式：
-
-    location /old/url/ {
-        return 301 /new/url;
-    }
-
-这是使用 [PHP](../Page/PHP.md "wikilink") 实现301重定向的方式：
-
-``` php
-<?php
-header("HTTP/1.1 301 Moved Permanently");
-header("Location: http://example.com/newpage.html");
-exit();
-?>
-```
-
 ## 客户端实现问题
 
 当某些HTTP/1.0客户端收到该状态码时，可能会将POST方法改为GET方法，继续向新地址发出请求，这是错误的实现——故而后续标准引入了[HTTP 307](../Page/HTTP_307.md "wikilink")。\[8\]

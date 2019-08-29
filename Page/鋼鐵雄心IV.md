@@ -118,7 +118,7 @@ Paradox在發佈會當日公布了遊戲的首部預告片\[2\]。
 <li>為德國和日本更新獨特國策
 <ul>
 <li>德國可以選擇重返<a href="https://zh.wikipedia.org/wiki/威廉二世_(德国)#战后生活" title="wikilink">君主制</a>，或者走向民主制建立中歐同盟</li>
-<li>日本可以選擇支持<a href="../Page/皇道派.md" title="wikilink">皇道派</a>北進、或重返民主政治重修<a href="../Page/英日同盟.md" title="wikilink">英日同盟</a>、或帶領<a href="../Page/日本共產黨.md" title="wikilink">日本共產黨</a>奪取政權</li>
+<li>日本可以選擇重返民主政治重修<a href="../Page/英日同盟.md" title="wikilink">英日同盟</a>、或帶領<a href="../Page/日本共產黨.md" title="wikilink">日本共產黨</a>奪取政權</li>
 </ul></li>
 <li>新增多個可透過吞併而組成的國家[19]</li>
 </ul></td>

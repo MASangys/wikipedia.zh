@@ -1,4 +1,4 @@
-**沓掛IC**（平假名：くつかけインターチェンジ）是位於[京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink")[京都市](../Page/京都市.md "wikilink")[西京區](../Page/西京區.md "wikilink")的[京都縱貫自動車道](../Page/京都縱貫自動車道.md "wikilink")之[交流道](../Page/交流道.md "wikilink")。
+**沓掛IC**（假名：くつかけインターチェンジ）是位於[京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink")[京都市](../Page/京都市.md "wikilink")[西京區](../Page/西京區.md "wikilink")的[京都縱貫自動車道](../Page/京都縱貫自動車道.md "wikilink")之[交流道](../Page/交流道.md "wikilink")。
 
 ## 連接道路
 
@@ -13,9 +13,10 @@
 ## 歷史
 
   - 1988年2月17日 - [京都縱貫自動車道](../Page/京都縱貫自動車道.md "wikilink")沓掛IC至[龜岡IC開通](https://zh.wikipedia.org/wiki/龜岡IC "wikilink")，此交流道也同時啟用。
-  - 2011年10月31日 - 由於建設[京都第二外環狀道路](https://zh.wikipedia.org/wiki/京都第二外環狀道路 "wikilink")，入口匝道向南移。
-  - 2012年2月6日 - 由於建設[京都第二外環狀道路](https://zh.wikipedia.org/wiki/京都第二外環狀道路 "wikilink")，出口匝道向南移。
-  - 2013年3月（預計） - 京都縱貫自動車道沓掛IC至[大山崎IC](https://zh.wikipedia.org/wiki/大山崎IC "wikilink")/[JCT開通](https://zh.wikipedia.org/wiki/大山崎JCT "wikilink")。
+  - 2010年6月28日 - 高速公路開始試行免收費，在免收費的期間，沓掛IC常有壅塞情形發生\[1\]。
+  - 2011年10月31日 - 由於建設[京都第二外環狀道路](https://zh.wikipedia.org/wiki/京都第二外環狀道路 "wikilink")，入口匝道向南移。\[2\]
+  - 2012年2月6日 - 由於建設[京都第二外環狀道路](https://zh.wikipedia.org/wiki/京都第二外環狀道路 "wikilink")，出口匝道向南移\[3\]。
+  - 2013年4月21日 - 京都縱貫自動車道沓掛IC至[大山崎IC](https://zh.wikipedia.org/wiki/大山崎IC "wikilink")/[JCT開通](https://zh.wikipedia.org/wiki/大山崎JCT "wikilink")\[4\]。
 
 ## 交流道周邊
 
@@ -33,10 +34,17 @@
 
 ## 相關項目
 
-  - [日本交匯處一覽](https://zh.wikipedia.org/wiki/日本交匯處一覽 "wikilink")
+  - [日本交流道列表](https://zh.wikipedia.org/wiki/日本交流道列表 "wikilink")
+
+## 參考文獻
 
 ## 外部連結
 
   - [西日本高速道路](http://www.w-nexco.co.jp/)
 
 [Category:日本交流道_Ku](https://zh.wikipedia.org/wiki/Category:日本交流道_Ku "wikilink") [Category:京都府交流道](https://zh.wikipedia.org/wiki/Category:京都府交流道 "wikilink")
+
+1.
+2.
+3.
+4.

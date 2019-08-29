@@ -862,7 +862,7 @@
 
 1.  [聖女の毒杯 その可能性はすでに考えた](https://zh.wikipedia.org/wiki/聖女の毒杯_その可能性はすでに考えた "wikilink")（[井上真偽](https://zh.wikipedia.org/wiki/井上真偽 "wikilink")）
 2.  図書館の殺人（[青崎有吾](../Page/青崎有吾.md "wikilink")）
-3.  ジェリーフィッシュは凍らない（[市川憂人](https://zh.wikipedia.org/wiki/市川憂人 "wikilink")）
+3.  ジェリーフィッシュは凍らない（[市川憂人](../Page/市川憂人.md "wikilink")）
 4.  涙香迷宮（[竹本健治](../Page/竹本健治.md "wikilink")）
 5.  おやすみ人面瘡（[白井智之](https://zh.wikipedia.org/wiki/白井智之 "wikilink")）
 6.  誰も僕を裁けない（[早坂吝](https://zh.wikipedia.org/wiki/早坂吝 "wikilink")）
@@ -906,11 +906,11 @@
 
 **国内**
 
-1.  屍人荘の殺人（[今村昌弘](https://zh.wikipedia.org/wiki/今村昌弘 "wikilink")）
+1.  屍人荘の殺人（[今村昌弘](../Page/今村昌弘.md "wikilink")）
 2.  狩人の悪夢（[有栖川有栖](../Page/有栖川有栖.md "wikilink")）
 3.  名探偵は嘘をつかない（阿津川辰海）
 4.  ミステリークロック（[貴志祐介](../Page/貴志祐介.md "wikilink")）
-5.  ブルーローズは眠らない（[市川憂人](https://zh.wikipedia.org/wiki/市川憂人 "wikilink")）
+5.  ブルーローズは眠らない（[市川憂人](../Page/市川憂人.md "wikilink")）
     双蛇密室（[早坂吝](https://zh.wikipedia.org/wiki/早坂吝 "wikilink")）
 6.  \-
 7.  悪魔を憐れむ（[西澤保彦](https://zh.wikipedia.org/wiki/西澤保彦 "wikilink")）

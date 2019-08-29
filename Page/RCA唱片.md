@@ -24,7 +24,7 @@
 ## 主要藝人
 
   - [布蘭妮·斯皮爾斯](../Page/布蘭妮·斯皮爾斯.md "wikilink")（）
-  - [粉紅佳人](https://zh.wikipedia.org/wiki/粉紅佳人 "wikilink")（）
+  - [粉紅佳人](../Page/粉红佳人.md "wikilink")（）
   - [夏奇拉](../Page/夏奇拉.md "wikilink")（）
   - [賈斯汀·汀布萊克](https://zh.wikipedia.org/wiki/賈斯汀·汀布萊克 "wikilink")（）
   - [克里斯·布朗](../Page/克里斯·布朗.md "wikilink")（）
@@ -34,6 +34,7 @@
   - [麥莉·希拉](https://zh.wikipedia.org/wiki/麦莉·赛勒斯 "wikilink")（）
   - [貝姬·G](../Page/貝姬·G.md "wikilink")（英語：**Becky G**）
   - [理查德·艾斯利](../Page/理查德·艾斯利.md "wikilink")（）
+  - [混合甜心](../Page/混合甜心.md "wikilink") (英語：**Little Mix )**
   - [凯莉·克莱森](https://zh.wikipedia.org/wiki/凯莉·克莱森 "wikilink")（）(已退出)
   - [嘻哈鬥牛梗](../Page/皮普保罗.md "wikilink") （）
   - [希雅](https://zh.wikipedia.org/wiki/希雅 "wikilink")（)

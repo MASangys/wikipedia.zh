@@ -170,13 +170,17 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p>電視劇《》主題曲[15]</p></td>
+<td><p>電視劇《<a href="https://zh.wikipedia.org/wiki/銀河英雄傳說#銀河英雄傳說_Die_Neue_These" title="wikilink">銀河英雄傳說 Die Neue These 邂逅</a>》主題曲<ref>{{Cite web|url=<a href="https://natalie.mu/music/news/268304%7Ctitle=澤野弘之%5BnZk%5DプロジェクトにUru参加">https://natalie.mu/music/news/268304|title=澤野弘之[nZk]プロジェクトにUru参加</a>、「銀河英雄伝説」OPテーマを歌う</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>電視劇《<a href="https://zh.wikipedia.org/wiki/銀河英雄傳說#銀河英雄傳說_Die_Neue_These" title="wikilink">銀河英雄傳說 Die Neue These 邂逅</a>》主題曲</p></td>
+<td><p>電視劇《》主題曲[15]</p></td>
 </tr>
 <tr class="even">
+<td></td>
+<td><p>電視動畫《<a href="../Page/滿月之戰.md" title="wikilink">Granbelm</a>》片尾曲[16]</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 </tr>
@@ -197,7 +201,7 @@
 <tbody>
 <tr class="odd">
 <td><p>2016年9月10日 - 11日</p></td>
-<td><p>Uru Live「 SS 」[16]</p></td>
+<td><p>Uru Live「 SS 」[17]</p></td>
 <td><p>2</p></td>
 <td><p>（<a href="https://zh.wikipedia.org/wiki/东京都" title="wikilink">东京都</a>）</p></td>
 </tr>
@@ -221,19 +225,19 @@
 </tr>
 <tr class="odd">
 <td><p>2018年3月4日</p></td>
-<td><p>Uru Live「monochrome」supported by uP‼︎![17][18]</p></td>
+<td><p>Uru Live「monochrome」supported by uP‼︎![18][19]</p></td>
 <td><p>1</p></td>
 <td><p>（东京都）</p></td>
 </tr>
 <tr class="even">
 <td><p>2018年8月18日 - 19日</p></td>
-<td><p>Uru Live「millennium」supported by uP‼︎![19]</p></td>
+<td><p>Uru Live「millennium」supported by uP‼︎![20]</p></td>
 <td><p>2</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/京都會館" title="wikilink">京都会馆</a>（<a href="https://zh.wikipedia.org/wiki/京都府" title="wikilink">京都府</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>2019年3月10日 (预定)</p></td>
-<td><p>Uru Live「T.T.T」supported by uP‼︎![20]</p></td>
+<td><p>Uru Live「T.T.T」supported by uP‼︎![21]</p></td>
 <td><p>1</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MEETS_PORT#东京巨蛋城表演厅" title="wikilink">TOKYO DOME CITY HALL</a>（东京都）</p></td>
 </tr>
@@ -293,3 +297,5 @@
 19.
 
 20.
+
+21.

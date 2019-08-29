@@ -14,6 +14,7 @@ Alembic最早主要由Sony Pictures Imageworks和[卢卡斯影业](../Page/卢�
 | --------------------------------------------------------------------------- | ------ | ------------------------------------------------------------------ |
 | [Maya](../Page/Maya.md "wikilink")                                          | 2012   | [Autodesk](../Page/Autodesk.md "wikilink")\[2\]                    |
 | Katana                                                                      | 1.1    | The Foundry\[3\]                                                   |
+| 3dsMax                                                                      | 2016   | Autodesk                                                           |
 | [Houdini](../Page/Houdini.md "wikilink")                                    | 11.1   | Side Effects Software\[4\]                                         |
 | Arnold                                                                      | ?      | Solid Angle\[5\]                                                   |
 | [modo](https://zh.wikipedia.org/wiki/modo "wikilink")                       | 601    | [Luxology](https://zh.wikipedia.org/wiki/Luxology "wikilink")\[6\] |

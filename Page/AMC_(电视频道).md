@@ -14,7 +14,7 @@
 | [絕命毒師](../Page/絕命毒師.md "wikilink") | <span style="display:none">02008</span>2008   | 5      | 52     | 6 (0)                                | 16 (2)    | 2013年完结\[4\]      |
 | *The Prisoner*                     | <span style="display:none">02009</span>2009   | 1      | 6      | 0                                    | 2         | 完结（迷你剧）           |
 | *Rubicon*                          | <span style="display:none">0201008</span>2010 | 1      | 13     | 0                                    | 1 (0)     | 在2010年被取消         |
-| [行尸走肉](../Page/屍行者.md "wikilink")  | <span style="display:none">0201010</span>2010 | 8      | 76     | 1                                    | 3 (0)     | **播放中**，正在播放第八季   |
+| [行尸走肉](../Page/屍行者.md "wikilink")  | <span style="display:none">0201010</span>2010 | 8      | 76     | 1                                    | 3 (0)     | **播放中**，正在播放第九季   |
 | *The Killing*                      | <span style="display:none">0201104</span>2011 | 2      | 26     | 0                                    | 6 (0)     | **播放中**，正在播放第二季   |
 | [闲话行尸](../Page/闲话行尸.md "wikilink") | <span style="display:none">0201110</span>2011 | 1      | 13     | 0                                    | 0         | **播放中**，2012年秋季回归 |
 | *地狱之轮*                             | <span style="display:none">0201111</span>2011 | 1      | 10     | 0                                    | 0         | **播放中**，2012年秋季回归 |

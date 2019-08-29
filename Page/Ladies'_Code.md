@@ -1,6 +1,6 @@
 **Ladies' Code**（）是[韓國Ilgwang](https://zh.wikipedia.org/wiki/韓國 "wikilink") Polaris Entertainment公司旗下的[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")，成員包含Ashley（[崔嬪娜](https://zh.wikipedia.org/wiki/崔嬪娜 "wikilink")）、Rise（[權梨世](../Page/權梨世.md "wikilink")）、EunB（[高恩妃](../Page/高恩妃.md "wikilink")）、So Jung（[李昭政](../Page/李昭政.md "wikilink")）及Zuny（[金主美](https://zh.wikipedia.org/wiki/金主美 "wikilink")）。现以Ashley、So Jung和Zuny三人陣容活動中。
 
-團名意指包含女人們wannabe元素及實現戲劇化舞台的表演組合，將用音樂表現韓國所有女性想分享的談話與故事，展現新的女組合面貌。2013年3月7日發佈首張迷你專輯《CODE\#01 BAD GIRL》音源，並於當日在[Mnet音樂節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》中正式出道，出道主打曲為《Bad Girl》。
+團名意指包含女人們wannabe元素及實現戲劇化舞台的表演組合，將用音樂表現韓國所有女性想分享的談話與故事，展現新的女組合面貌。2013年3月7日發佈首張迷你專輯《CODE\#01 BAD GIRL》音源，並於當日在[Mnet](../Page/Mnet.md "wikilink")音樂節目《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》中正式出道，出道主打曲為《Bad Girl》。
 
 官方粉絲名稱為**Lavely**，由「Lovely + Ladies」組合而成。官方應援物為粉紅色毛巾。
 

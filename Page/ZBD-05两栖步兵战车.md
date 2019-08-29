@@ -40,11 +40,11 @@ ZBD-05两栖步兵战车采用动力装置前置设计，动力系统采用单�
 
 [分類:步兵战车](https://zh.wikipedia.org/wiki/分類:步兵战车 "wikilink") [分類:中華人民共和國裝甲戰鬥車輛](https://zh.wikipedia.org/wiki/分類:中華人民共和國裝甲戰鬥車輛 "wikilink") [分類:兩棲裝甲車](https://zh.wikipedia.org/wiki/分類:兩棲裝甲車 "wikilink")
 
-1.  [登岛攻敌首选——05式两栖装甲车](http://mil.news.sina.com.cn/nz/05lqzc/)
+1.
 
-2.  [ZBD-05 两栖步战车(海军陆战队)](http://news.qq.com/a/20090928/001705.htm)
+2.
 
 3.
 4.
 5.
-6.  [外媒：ZBD-05让中国两栖战能力有了巨大飞跃](http://news.qq.com/a/20100302/002792.htm)
+6.

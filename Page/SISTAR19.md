@@ -8,7 +8,7 @@
 
 ### 2011年：首張單曲《Ma Boy》
 
-[STARSHIP娱乐宣布](../Page/STARSHIP娛樂.md "wikilink")[SISTAR](../Page/SISTAR.md "wikilink")推出子團體SISTAR19。由富有力量嗓音的[孝琳](../Page/孝琳.md "wikilink")和強悍饒舌技巧的[寳拉](https://zh.wikipedia.org/wiki/寶拉 "wikilink")2人組成。4月28日，公開數碼單曲《Ma Boy》MV預告。5月3日，公開數碼單曲《Ma Boy》完整版MV，發行 "Ma Boy" 並且投入活動。5月5日，SISTAR19在[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》進行SISTAR19的出道舞台，表演《Ma Boy》。
+[STARSHIP娱乐宣布](../Page/STARSHIP娛樂.md "wikilink")[SISTAR](../Page/SISTAR.md "wikilink")推出子團體SISTAR19。由富有力量嗓音的[孝琳](../Page/孝琳.md "wikilink")和強悍饒舌技巧的[寳拉](https://zh.wikipedia.org/wiki/寶拉 "wikilink")2人組成。4月28日，公開數碼單曲《Ma Boy》MV預告。5月3日，公開數碼單曲《Ma Boy》完整版MV，發行 "Ma Boy" 並且投入活動。5月5日，SISTAR19在[Mnet](../Page/Mnet.md "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》進行SISTAR19的出道舞台，表演《Ma Boy》。
 
 ### 2013年：首張迷你專輯《Gone Not Around Any Longer》
 
@@ -87,23 +87,23 @@
 
 ## 音樂現場
 
-|                                                                        |                                                       |                       |
-| ---------------------------------------------------------------------- | ----------------------------------------------------- | --------------------- |
-| 名稱                                                                     | 頻道                                                    | 日期                    |
-| [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | 5月5日、5月12日            |
-| [音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")                  | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | 5月6日、5月13日、5月20日、6月3日 |
-| [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | 5月7日、5月14日、5月21日      |
-| [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")   | 5月8日、5月15日、5月22日      |
+|                                                                        |                                                     |                       |
+| ---------------------------------------------------------------------- | --------------------------------------------------- | --------------------- |
+| 名稱                                                                     | 頻道                                                  | 日期                    |
+| [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | [Mnet](../Page/Mnet.md "wikilink")                  | 5月5日、5月12日            |
+| [音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")                  | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | 5月6日、5月13日、5月20日、6月3日 |
+| [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 5月7日、5月14日、5月21日      |
+| [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") | 5月8日、5月15日、5月22日      |
 
-|                                                                           |                                                       |                                                                       |
-| ------------------------------------------------------------------------- | ----------------------------------------------------- | --------------------------------------------------------------------- |
-| 名稱                                                                        | 頻道                                                    | 日期                                                                    |
-| Gone Not Around Any Longer                                                |                                                       |                                                                       |
-| [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")    | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | 1月31日、2月7日（1位）、2月14日（1位）、2月21日（1位）                                    |
-| [音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")                     | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | 2月1日（A Girl In Love& Gone Not Around Any Longer）、2月8日、2月15日（1位）、2月22日 |
-| [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")        | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | 2月2日、2月9日、2月16日                                                       |
-| [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                     | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")   | 2月3日、2月10日、2月17日                                                      |
-| [Music Triangle](https://zh.wikipedia.org/wiki/Music_Triangle "wikilink") | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | 2月6日（1位）、2月13日（1位）、2月20日（1位）                                          |
+|                                                                           |                                                     |                                                                       |
+| ------------------------------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------------------------- |
+| 名稱                                                                        | 頻道                                                  | 日期                                                                    |
+| Gone Not Around Any Longer                                                |                                                     |                                                                       |
+| [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")    | [Mnet](../Page/Mnet.md "wikilink")                  | 1月31日、2月7日（1位）、2月14日（1位）、2月21日（1位）                                    |
+| [音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")                     | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | 2月1日（A Girl In Love& Gone Not Around Any Longer）、2月8日、2月15日（1位）、2月22日 |
+| [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")        | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 2月2日、2月9日、2月16日                                                       |
+| [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                     | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") | 2月3日、2月10日、2月17日                                                      |
+| [Music Triangle](https://zh.wikipedia.org/wiki/Music_Triangle "wikilink") | [Mnet](../Page/Mnet.md "wikilink")                  | 2月6日（1位）、2月13日（1位）、2月20日（1位）                                          |
 
 ## 獎項
 
@@ -158,7 +158,7 @@
 </tr>
 <tr class="odd">
 <td><p>2月7日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td><p>1位</p></td>
 <td></td>
@@ -174,7 +174,7 @@
 </tr>
 <tr class="odd">
 <td><p>2月14日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td></td>
 <td></td>
@@ -206,7 +206,7 @@
 </tr>
 <tr class="odd">
 <td><p>2月21日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td><p>1位</p></td>
 <td></td>

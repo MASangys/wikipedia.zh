@@ -4,6 +4,6 @@
 
 ## 参考文献
 
-[Category:中國大陸音樂專輯](https://zh.wikipedia.org/wiki/Category:中國大陸音樂專輯 "wikilink")
+[Category:张靓颖音乐专辑](https://zh.wikipedia.org/wiki/Category:张靓颖音乐专辑 "wikilink") [Category:2013年音乐专辑](https://zh.wikipedia.org/wiki/Category:2013年音乐专辑 "wikilink")
 
 1.   新浪网 [张靓颖护江豚捐出80万版税 呼吁社会关注](http://ent.sina.com.cn/s/m/2013-06-26/14593950658.shtml) 2013年06月26日.

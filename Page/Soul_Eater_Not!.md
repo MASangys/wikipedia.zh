@@ -156,7 +156,7 @@
 
   -
     CV：[小岩井小鳥](../Page/小岩井小鳥.md "wikilink")
-    擅於用塔羅牌占卜。
+    擅於用塔羅牌占卜，曾多次以自創塔羅牌用隱語「どてかぼちゃ」\[1\]損阿妮亞・赫本。
 
 <!-- end list -->
 
@@ -177,11 +177,11 @@
 
 ### 漫畫
 
-2011年1月12日開始連載於《[月刊少年GANGAN](../Page/月刊少年GANGAN.md "wikilink")》\[1\]，四本[單行本於](https://zh.wikipedia.org/wiki/單行本 "wikilink")2011年9月22日至2014年4月12日發售\[2\]\[3\]。北美地區由發售。\[4\]該漫畫系列預定共五本。\[5\]
+2011年1月12日開始連載於《[月刊少年GANGAN](../Page/月刊少年GANGAN.md "wikilink")》\[2\]，四本[單行本於](https://zh.wikipedia.org/wiki/單行本 "wikilink")2011年9月22日至2014年4月12日發售\[3\]\[4\]。北美地區由發售。\[5\]該漫畫系列預定共五本。\[6\]
 
 ### 電視動畫
 
-《月刊少年GANGAN》2014年1月號中公布動畫化。\[6\]2014年2月12日確定2014年4月於[東京電視台](../Page/東京電視台.md "wikilink")播映電視動畫作品，並由[東京電視台](../Page/東京電視台.md "wikilink")於2014年4月8日首播。\[7\]\[8\]北美地區由[Funimation](../Page/Funimation.md "wikilink")進行同步轉播。\[9\]電視動畫片頭曲是由Dancing Dolls演唱\[10\]的《monochrome》；片尾曲是由三名各配音電視動畫角色鶇、美美、阿妮亞的聲優[千菅春香](../Page/千菅春香.md "wikilink")、[悠木碧](../Page/悠木碧.md "wikilink")、[早見沙織](../Page/早見沙織.md "wikilink")演唱\[11\]的《》。
+《月刊少年GANGAN》2014年1月號中公布動畫化。\[7\]2014年2月12日確定2014年4月於[東京電視台](../Page/東京電視台.md "wikilink")播映電視動畫作品，並由[東京電視台](../Page/東京電視台.md "wikilink")於2014年4月8日首播。\[8\]\[9\]北美地區由[Funimation](../Page/Funimation.md "wikilink")進行同步轉播。\[10\]電視動畫片頭曲是由Dancing Dolls演唱\[11\]的《monochrome》；片尾曲是由三名各配音電視動畫角色鶇、美美、阿妮亞的聲優[千菅春香](../Page/千菅春香.md "wikilink")、[悠木碧](../Page/悠木碧.md "wikilink")、[早見沙織](../Page/早見沙織.md "wikilink")演唱\[12\]的《》。
 
 #### 製作人員
 
@@ -211,7 +211,7 @@
 <thead>
 <tr class="header">
 <th><p>話數</p></th>
-<th><p>日文標題[12]</p></th>
+<th><p>日文標題[13]</p></th>
 <th><p>中文標題</p></th>
 <th><p>劇本</p></th>
 <th><p>分鏡</p></th>
@@ -437,7 +437,7 @@
 
 [Category:月刊少年GANGAN連載作品](https://zh.wikipedia.org/wiki/Category:月刊少年GANGAN連載作品 "wikilink") [Category:死神題材作品](https://zh.wikipedia.org/wiki/Category:死神題材作品 "wikilink") [Category:2014年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2014年東京電視網動畫 "wikilink") [Category:東京電視台深夜動畫](https://zh.wikipedia.org/wiki/Category:東京電視台深夜動畫 "wikilink") [Category:漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:漫畫改編動畫 "wikilink") [Category:漫畫衍生作品](https://zh.wikipedia.org/wiki/Category:漫畫衍生作品 "wikilink")
 
-1.
+1.  《日本語源辞典》：「南瓜は日当たりがよいところを好むので、土手に植えられた南瓜は生育がいいところから生まれたことば」
 2.
 3.
 4.
@@ -449,3 +449,4 @@
 10.
 11.
 12.
+13.

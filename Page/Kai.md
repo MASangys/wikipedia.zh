@@ -1,4 +1,4 @@
-**金鍾仁**（；，），藝名**KAI**（），[韓國男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")，男子團體[EXO](../Page/EXO.md "wikilink")及其分隊[EXO-K](../Page/EXO-K.md "wikilink")的成員，在隊內擔當主舞、副唱、副Rapper。虛構特殊能力為「**瞬間移動**」。
+**金鍾仁**（；，），藝名**KAI**（），[韓國男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")，男子團體[EXO](../Page/EXO.md "wikilink")及其分隊[EXO-K](../Page/EXO-K.md "wikilink")的成員，在隊內擔當主舞、副唱、副Rapper，是[EXO](../Page/EXO.md "wikilink")的ACE成員。虛構特殊能力為「**瞬間移動**」。
 
 ## 早年經歷
 
@@ -22,7 +22,7 @@
 
 2014年5月21日Kai化身芭蕾舞者登上韓國時尚雜誌《THE CELEBRITY》6月號。 7月16日下午，Kai與成員[世勳](https://zh.wikipedia.org/wiki/世勳 "wikilink")、[燦烈](https://zh.wikipedia.org/wiki/燦烈 "wikilink")、[Tao](https://zh.wikipedia.org/wiki/Tao "wikilink")、[Chen](https://zh.wikipedia.org/wiki/Chen "wikilink")、[Lay出席了在韓國首爾瑞草區良才洞舉行的](../Page/張藝興.md "wikilink")“FASHION CODE2014”時尚秀開幕式，並在T台大放異彩。
 
-### 2016年-現今：戲劇發展
+### 2016年-現今：戲劇發展、SuperM
 
 2016年2月15日，Kai與[朴恩玭](../Page/朴恩玭.md "wikilink")、[延俊錫](../Page/延俊錫.md "wikilink")、李采源等主演的網絡劇《Choco Bank》開播\[4\]。12月，Kai出演樂天免稅店網絡劇《[七次的初吻](../Page/七次的初吻.md "wikilink")》。
 
@@ -30,15 +30,17 @@
 
 2018年1月，Kai主演的日本WOW電視臺電視劇《春天來了》開播，Kai是該電視台首次起用外國演員當主演。Kai飾演的是李知元，一名韓國攝影師\[7\]。3月15日，國際品牌《[Levi's](../Page/Levi's.md "wikilink")》公開與Kai合作推出的首支單獨電影。Levi's 品牌想要用Kai的影響力去傳達真誠、音樂與文化，永不改變的Iconic Style等核心信息\[8\]。4月2日，Kai參演的電視劇《[我們遇見的奇蹟](../Page/我們遇見的奇蹟.md "wikilink")》於KBS2播出，Kai飾演的是在兩個人類之間傳遞資訊的信使\[9\]。5月，Kai前往[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[亞爾出席](../Page/阿爾勒.md "wikilink")「2019 Gucci早春秀」，並被[Vogue稱為](../Page/时尚_\(杂志\).md "wikilink")「The Star Of Gucci's Cruise 2019 Show」。\[10\]
 
+2019年8月，SM娛樂宣佈Kai參與SM娛樂旗下各男子音樂組合的部分成員組成的聯合團體[SuperM並將於](https://zh.wikipedia.org/wiki/SuperM "wikilink")10月出道\[11\]。
+
 ## 個人生活
 
 十歲的Kai在看過[芭蕾舞](../Page/芭蕾舞.md "wikilink")劇《胡桃钳》之後夢想做一位芭蕾舞演員。9年後，作為具有“最高舞者”稱號的[EXO](../Page/EXO.md "wikilink")成員Kai站在舞台上。2014年5月韓國某時尚雜誌中，有幸讓21歲的Kai再次回到小時候，配合著古典音樂，按照他的風格舞動身體，他是跳舞的芭蕾舞演員。
 
 因為學了芭蕾，Kai好像會比其他人更快的理解舞蹈而且感覺會更容易抓到。把芭蕾與[爵士樂結合到一起](https://zh.wikipedia.org/wiki/爵士樂 "wikilink")，以這個為基礎可以使舞蹈穩定。看了電影《Billy Elliot》之後，Kai再次有了要跳芭蕾的想法，也想要像找到夢想幸福的Billy一樣，為了自己想要做的，想要實現的夢想努力的他。
 
-2016年4月1日與韓國女子團體[f(x)成員](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")[Krystal公開戀情](https://zh.wikipedia.org/wiki/Krystal "wikilink")，但兩人在過了13個月之後便分手\[11\]\[12\]。
+2016年4月1日與韓國女子團體[f(x)成員](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")[Krystal公開戀情](https://zh.wikipedia.org/wiki/Krystal "wikilink")，但兩人在過了13個月之後便分手\[12\]\[13\]。
 
-2019年1月1日，他與[BLACKPINK](../Page/BLACKPINK.md "wikilink")成員[Jennie傳出戀情](../Page/Jennie_\(韓國歌手\).md "wikilink")。隨後，所屬社相關人員表示「兩人確實互有好感」\[13\]\[14\]。2019年1月25日，Kai所屬的[SM娛樂](../Page/SM娛樂.md "wikilink")證實Kai與[Jennie已分手](../Page/Jennie_\(韓國歌手\).md "wikilink")，恢復前後輩關係，以事業為重。\[15\]
+2019年1月1日，他與[BLACKPINK](../Page/BLACKPINK.md "wikilink")成員[Jennie傳出戀情](../Page/Jennie_\(韓國歌手\).md "wikilink")。隨後，所屬社相關人員表示「兩人確實互有好感」\[14\]\[15\]。2019年1月25日，Kai所屬的[SM娛樂](../Page/SM娛樂.md "wikilink")證實Kai與[Jennie已分手](../Page/Jennie_\(韓國歌手\).md "wikilink")，恢復前後輩關係，以事業為重。\[16\]
 
 ## 音樂作品
 
@@ -105,56 +107,57 @@
 | ------------------------ | ------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 期數                       | 雜誌名稱                                        | 備註                                                                                                                                                              |
 | 2012年1月刊                 | W Live                                      | 與[Luhan](https://zh.wikipedia.org/wiki/Luhan "wikilink")、[Sehun](../Page/Sehun.md "wikilink")                                                                   |
-| 2012年4月刊                 | GQ                                          | \[16\]                                                                                                                                                          |
+| 2012年4月刊                 | GQ                                          | \[17\]                                                                                                                                                          |
 | Vogue Girl               |                                             |                                                                                                                                                                 |
 | Vogue Girl               |                                             |                                                                                                                                                                 |
 | 2012年6月刊                 | 與[Baekhyun](../Page/伯賢.md "wikilink")、Sehun |                                                                                                                                                                 |
 | 2013年6月刊                 | W Korea                                     | 與Luhan                                                                                                                                                          |
 | 2014年2月刊                 | 时尚芭莎                                        | 情人节特刊                                                                                                                                                           |
-| 2014年6月刊                 | The Celebrity\[17\]                         |                                                                                                                                                                 |
-| 2014年8月刊                 | GRAZIA                                      | 與Sehun\[18\]                                                                                                                                                    |
-| 2015年8月刊                 | W Korea                                     | 與[Krystal](../Page/鄭秀晶.md "wikilink")（[f(x)](../Page/F\(x\)_\(組合\).md "wikilink")）、[泰民](../Page/泰民.md "wikilink")（[SHINee](../Page/SHINee.md "wikilink")）\[19\] |
-| 2015年9月刊                 | Nylon\[20\]                                 |                                                                                                                                                                 |
-| 2015年12月刊                | Vogue Korea                                 | 與[Suho](../Page/Suho.md "wikilink")、[Chen](../Page/CHEN_\(EXO\).md "wikilink")、Sehun\[21\]                                                                      |
-| 2016年2月刊                 | ELLE\[22\]                                  | 與[潤娥](https://zh.wikipedia.org/wiki/潤娥 "wikilink")                                                                                                              |
-| 2016年5月刊                 | Vivi\[23\]                                  |                                                                                                                                                                 |
-| 2016年8月刊                 | GQ Korea\[24\]                              |                                                                                                                                                                 |
-| 2016年11月刊                | High Cut\[25\]                              |                                                                                                                                                                 |
-| Arena Homme+\[26\]       |                                             |                                                                                                                                                                 |
-| L'uomo Vogue\[27\]       |                                             |                                                                                                                                                                 |
-| 2016年12月刊                | Dazed\[28\]                                 |                                                                                                                                                                 |
+| 2014年6月刊                 | The Celebrity\[18\]                         |                                                                                                                                                                 |
+| 2014年8月刊                 | GRAZIA                                      | 與Sehun\[19\]                                                                                                                                                    |
+| 2015年8月刊                 | W Korea                                     | 與[Krystal](../Page/鄭秀晶.md "wikilink")（[f(x)](../Page/F\(x\)_\(組合\).md "wikilink")）、[泰民](../Page/泰民.md "wikilink")（[SHINee](../Page/SHINee.md "wikilink")）\[20\] |
+| 2015年9月刊                 | Nylon\[21\]                                 |                                                                                                                                                                 |
+| 2015年12月刊                | Vogue Korea                                 | 與[Suho](../Page/Suho.md "wikilink")、[Chen](../Page/CHEN_\(EXO\).md "wikilink")、Sehun\[22\]                                                                      |
+| 2016年2月刊                 | ELLE\[23\]                                  | 與[潤娥](https://zh.wikipedia.org/wiki/潤娥 "wikilink")                                                                                                              |
+| 2016年5月刊                 | Vivi\[24\]                                  |                                                                                                                                                                 |
+| 2016年8月刊                 | GQ Korea\[25\]                              |                                                                                                                                                                 |
+| 2016年11月刊                | High Cut\[26\]                              |                                                                                                                                                                 |
+| Arena Homme+\[27\]       |                                             |                                                                                                                                                                 |
+| L'uomo Vogue\[28\]       |                                             |                                                                                                                                                                 |
+| 2016年12月刊                | Dazed\[29\]                                 |                                                                                                                                                                 |
 | 2017年2月刊                 | Esquire                                     |                                                                                                                                                                 |
 | 2017年9月刊                 | Crea                                        |                                                                                                                                                                 |
-| Haru Hana                | 日本雜誌\[29\]                                  |                                                                                                                                                                 |
+| Haru Hana                | 日本雜誌\[30\]                                  |                                                                                                                                                                 |
 | 2017年11月刊                | ELLE                                        |                                                                                                                                                                 |
 | 2017年12月刊                | Big Issue                                   | 義務拍攝                                                                                                                                                            |
 | Mini                     |                                             |                                                                                                                                                                 |
-| Men's Non-no             | 日本雜誌\[30\]                                  |                                                                                                                                                                 |
+| Men's Non-no             | 日本雜誌\[31\]                                  |                                                                                                                                                                 |
 | 2018年1月刊                 | Maquia                                      |                                                                                                                                                                 |
 | More                     | 日本雜誌                                        |                                                                                                                                                                 |
-| Ginza\[31\]              |                                             |                                                                                                                                                                 |
-| 韓流旋風\[32\]               |                                             |                                                                                                                                                                 |
-| Lined\[33\]              |                                             |                                                                                                                                                                 |
-| L'Optimum Thailand\[34\] |                                             |                                                                                                                                                                 |
-| ANAN\[35\]               |                                             |                                                                                                                                                                 |
+| Ginza\[32\]              |                                             |                                                                                                                                                                 |
+| 韓流旋風\[33\]               |                                             |                                                                                                                                                                 |
+| Lined\[34\]              |                                             |                                                                                                                                                                 |
+| L'Optimum Thailand\[35\] |                                             |                                                                                                                                                                 |
+| ANAN\[36\]               |                                             |                                                                                                                                                                 |
 | 2018年2月刊                 | Vivi                                        |                                                                                                                                                                 |
-| 韓流ぴあ\[36\]               | 日本雜誌                                        |                                                                                                                                                                 |
-| Asian Pops               | 日本雜誌、封面\[37\]                               |                                                                                                                                                                 |
+| 韓流ぴあ\[37\]               | 日本雜誌                                        |                                                                                                                                                                 |
+| Asian Pops               | 日本雜誌、封面\[38\]                               |                                                                                                                                                                 |
 | 2018年5月刊                 | 韓流T.O.P Vol.59                              |                                                                                                                                                                 |
-| 2018年春季/夏季刊              | L'Officiel Hommes                           | 封面\[38\]                                                                                                                                                        |
+| 2018年春季/夏季刊              | L'Officiel Hommes                           | 封面\[39\]                                                                                                                                                        |
 | 2018年7月刊                 | GQ Korea                                    | 封面                                                                                                                                                              |
 | 2018年8月刊                 | Allure Korea                                | 封面                                                                                                                                                              |
 | 2018年10月刊                | ELLE Indonesia                              | 首位登上ELLE Indonesia封面的男藝人                                                                                                                                        |
-| 2018年11月刊                | W Korea\[39\]                               |                                                                                                                                                                 |
-| 2018年12月刊                | Vogue Korea\[40\]                           | 與Baekhyun                                                                                                                                                       |
+| 2018年11月刊                | W Korea\[40\]                               |                                                                                                                                                                 |
+| 2018年12月刊                | Vogue Korea\[41\]                           | 與Baekhyun                                                                                                                                                       |
 | 2019年7月刊                 | Vogue Korea                                 |                                                                                                                                                                 |
+| 2019年9月刊                 | W Korea                                     | 封面                                                                                                                                                              |
 
 ## 品牌合作
 
 |            |                                              |                                                         |
 | ---------- | -------------------------------------------- | ------------------------------------------------------- |
 | 年份         | 品牌名稱                                         | 備注                                                      |
-| 2018年3月15日 | [Levi's](../Page/Levi's.md "wikilink")\[41\] | [Kai 單獨電影](https://www.youtube.com/watch?v=fEQYeuigzEI) |
+| 2018年3月15日 | [Levi's](../Page/Levi's.md "wikilink")\[42\] | [Kai 單獨電影](https://www.youtube.com/watch?v=fEQYeuigzEI) |
 
 ## 獎項與榮譽
 
@@ -210,7 +213,7 @@
 <tr class="even">
 <td><p>2016年</p></td>
 <td><ul>
-<li>K-Pop一百張最帥面孔 第17位[42]</li>
+<li>K-Pop一百張最帥面孔 第17位[43]</li>
 <li>TC Candler全球100張最帥面孔 第44位</li>
 </ul></td>
 </tr>
@@ -322,3 +325,5 @@
 41.
 
 42.
+
+43.

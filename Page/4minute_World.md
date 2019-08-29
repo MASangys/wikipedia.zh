@@ -56,7 +56,7 @@
 | 年份    | 日期    | 電視台                                                     | 節目名稱                                                                   | 獲獎歌曲                        | 排名 |
 | ----- | ----- | ------------------------------------------------------- | ---------------------------------------------------------------------- | --------------------------- | -- |
 | 2014年 | 3月30日 | [SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink") | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  | 오늘 뭐해 (Whatcha Doin' Today) | 1位 |
-| 2014年 | 4月3日  | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")   | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | 오늘 뭐해 (Whatcha Doin' Today) | 1位 |
+| 2014年 | 4月3日  | [Mnet](../Page/Mnet.md "wikilink")                      | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | 오늘 뭐해 (Whatcha Doin' Today) | 1位 |
 |       |       |                                                         |                                                                        |                             |    |
 
 ## 參考資料

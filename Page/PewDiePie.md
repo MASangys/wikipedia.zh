@@ -1,4 +1,4 @@
-**费利克斯·阿爾維德·烏爾夫·谢尔貝格**\[1\]\[2\]（，\[3\]  \[4\]、 、\[5\]，），網名**PewDiePie**（、），[瑞典](../Page/瑞典.md "wikilink")籍[YouTuber](../Page/YouTuber.md "wikilink")，以拍攝遊戲遊玩（）與評論影片聞名，後來主要集中上傳一些關於[網路迷因的影片](https://zh.wikipedia.org/wiki/網路迷因 "wikilink")。他的YouTube頻道崛起速度極快，頻道訂閱人數在2013年由350萬迅速爬升到1,200萬，於2013年8月成為[在YouTube上訂閱人數最多的頻道](../Page/在YouTube上訂閱人數最多的用戶列表.md "wikilink")；除了在2013年11月及12月期間兩度被YouTube的官方頻道「[YouTube Spotlight](../Page/YouTube聚光燈.md "wikilink")」超越外，他的頻道一直居於訂閱數榜首\[6\]。2019年3月27日，經歷2018年9月至2019年3月的後，PewDiePie正式被印度影音公司「[T-Series](../Page/T-Series.md "wikilink")」超越，第三度成為YouTube的第二多訂閲數的頻道，雖然曾在同年4月1日重奪YouTube第一多訂閱數頻道的寳座，但13天後又再度移主。在拉鋸戰的過程中，他發布了兩首單曲，一為《婊子千層麵》（*Bitch lasagna*)，二為《恭喜》（*Congratulations*) ，且兩首單曲也已破億觀看。
+**费利克斯·阿爾維德·烏爾夫·谢尔貝格**\[1\]\[2\]（，\[3\]  \[4\]、 、\[5\]，），網名**PewDiePie**（、），[瑞典](../Page/瑞典.md "wikilink")籍[YouTuber](../Page/YouTuber.md "wikilink")，以拍攝遊戲遊玩（）與評論影片聞名，後來主要集中上傳一些關於[網路迷因的影片](https://zh.wikipedia.org/wiki/網路迷因 "wikilink")。他的YouTube頻道崛起速度極快，頻道訂閱人數在2013年由350萬迅速爬升到1,200萬，於2013年8月成為[在YouTube上訂閱人數最多的頻道](../Page/在YouTube上訂閱人數最多的用戶列表.md "wikilink")；除了在2013年11月及12月期間兩度被YouTube的官方頻道「[YouTube Spotlight](../Page/YouTube聚光燈.md "wikilink")」超越外，他的頻道一直居於訂閱數榜首\[6\]。2019年3月27日，經歷2018年9月至2019年3月的後，PewDiePie正式被印度影音公司「[T-Series](../Page/T-Series.md "wikilink")」超越，第三度成為YouTube的第二多訂閲數的頻道，雖然曾在同年4月1日重奪YouTube第一多訂閱數頻道的寳座，但13天後又再度移主。在拉鋸戰的過程中，他發布了兩首單曲，一為《婊子千層麵》（*Bitch lasagna*)，二為《祝賀》（*Congratulations*) ，且兩首單曲也已破億觀看。
 
 ## 早年生活
 
@@ -16,7 +16,7 @@ PewDiePie的[YouTube](../Page/YouTube.md "wikilink")頻道創建于2010年4月�
 
 ### PewDiePie vs T-Series
 
-2018年9月，随着印度的網路開始普及，[T-Series](../Page/T-Series.md "wikilink")以極快的速度成長，在10月與PewDiePie相差了1百萬的訂閱。在年底已幾乎追上排行第一的他，為避免被超越，部分頻道和粉絲們開始積極吸引更多觀眾訂閱，其中賈斯汀·羅伯茨（Justin Roberts）甚至在紐約[時代廣場的螢幕刊登廣告](https://zh.wikipedia.org/wiki/時代廣場 "wikilink")\[38\]，而PewDiePie本人則發佈了單曲《婊子千層麵》（*Bitch Lasagna*）以作回應\[39\]，但他本人指自己其實並不在意T-Series\[40\]。在此期間，PewDiePie的頻道獲得大量訂閱數，其中單在12月便有662萬，與2017年的總獲得訂閱數700萬相差不遠\[41\]。
+2018年9月，随着[印度](../Page/印度.md "wikilink")的網路開始普及，[T-Series](../Page/T-Series.md "wikilink")以極快的速度成長，在10月與PewDiePie相差了1百萬的訂閱。在年底已幾乎追上排行第一的他，為避免被超越，部分頻道和粉絲們開始積極吸引更多觀眾訂閱，其中賈斯汀·羅伯茨（Justin Roberts）甚至在紐約[時代廣場的螢幕刊登廣告](https://zh.wikipedia.org/wiki/時代廣場 "wikilink")\[38\]，而PewDiePie本人則發佈了單曲《婊子千層麵》（*Bitch Lasagna*）以作回應\[39\]，但他本人指自己其實並不在意T-Series\[40\]。在此期間，PewDiePie的頻道獲得大量訂閱數，其中單在12月便有662萬，與2017年的總獲得訂閱數700萬相差不遠\[41\]。
 
 2019年3月15日，[基督城清真寺槍擊案](../Page/基督城清真寺槍擊案.md "wikilink")的行兇者布倫頓·哈里森·塔蘭特（Brenton Harrison Tarrant）在攻擊前說過「訂閱PewDiePie」。作為回應，PewDiePie在Twitter上寫道：「剛得知新西蘭基督城的可怕消息，這人說出我的名字，令我感到極度嘔心。我的心與受害人、家屬及所有受影響人士同在」\[42\]。同年3月27日，T-Series成功維持約十萬的訂閱數差距達一天，正式成為YouTube擁有最多訂閱者的頻道\[43\]\[44\]\[45\]。四天後，PewDiePie與Roomie和合作推出單曲《恭喜》（*Congratulations*），內裡提到該公司曾給予他一封[停終信函和其首席執行官的逃稅醜聞](https://zh.wikipedia.org/wiki/停止並終止 "wikilink")\[46\]。憑藉這首歌曲，PewDiePie在4月1日重奪第一名的位置\[47\]\[48\]，但13天後已再度易手。
 
@@ -56,17 +56,21 @@ PewDiePie參與了[世界自然基金會和](https://zh.wikipedia.org/wiki/世�
 
 ## 個人生活
 
-PewDiePie一開始和家人住在瑞典\[84\]，之後與女朋友[瑪齊亞·比索琳先後分別在](https://zh.wikipedia.org/wiki/瑪齊亞·比索琳 "wikilink")[義大利及](https://zh.wikipedia.org/wiki/義大利 "wikilink")[瑞典](../Page/瑞典.md "wikilink")同居。2011年，比索琳的一位女性好友介紹她看PewDiePie的YouTube影片，後來比索琳寫信給PewDiePie，倆人因而結緣。她也是一名YouTuber，截至2018年5月19日，她的頻道（CutiePieMarzia）已經超越730萬人次訂閱\[85\]。2018年4月27日，比索琳在其[Instagram](../Page/Instagram.md "wikilink")上公佈PewDiePie已在她們於[日本](../Page/日本.md "wikilink")[神奈川縣](../Page/神奈川縣.md "wikilink")[橫濱市的旅行期間向她求婚](https://zh.wikipedia.org/wiki/橫濱市 "wikilink")\[86\]。
+PewDiePie一開始和家人住在瑞典\[84\]，之後與女朋友[瑪齊亞·比索琳先後分別在](https://zh.wikipedia.org/wiki/瑪齊亞·比索琳 "wikilink")[義大利及](https://zh.wikipedia.org/wiki/義大利 "wikilink")[瑞典](../Page/瑞典.md "wikilink")同居。2011年，比索琳的一位女性好友介紹她看PewDiePie的YouTube影片，後來比索琳寫信給PewDiePie，倆人因而結緣。她也是一名YouTuber，截至2018年5月19日，其頻道（CutiePieMarzia）已超過730萬人次訂閱\[85\]。
 
-2013年7月，他和瑪齊亞移居到[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[東薩塞克斯郡](../Page/東薩塞克斯郡.md "wikilink")[布萊頓](https://zh.wikipedia.org/wiki/布萊頓 "wikilink")，以獲得更好的網路品質\[87\]PewDiePie養了2隻[巴哥犬](../Page/巴哥犬.md "wikilink")，分別名叫埃德加（Edgar）和瑪雅（Maya）\[88\]。
+2013年7月，他和瑪齊亞移居到[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[東薩塞克斯郡](../Page/東薩塞克斯郡.md "wikilink")[布萊頓](https://zh.wikipedia.org/wiki/布萊頓 "wikilink")，以獲得更好的網路品質\[86\]PewDiePie養了2隻[巴哥犬](../Page/巴哥犬.md "wikilink")，分別名叫埃德加（Edgar）和瑪雅（Maya）\[87\]。
 
-在2014年6月，[華爾街日報報導PewDiePie一年平均收入](https://zh.wikipedia.org/wiki/華爾街日報 "wikilink")400萬美元\[89\]\[90\]。單是2013年Maker Studios就給了他超過80萬[英鎊分紅](https://zh.wikipedia.org/wiki/英鎊 "wikilink")，利潤率更達97%\[91\]。
+2014年6月，[華爾街日報報導PewDiePie一年平均收入](https://zh.wikipedia.org/wiki/華爾街日報 "wikilink")400萬美元\[88\]\[89\]。單是2013年Maker Studios就給了他超過80萬[英鎊分紅](https://zh.wikipedia.org/wiki/英鎊 "wikilink")，利潤率更達97%\[90\]。
+
+2018年4月27日，比索琳在其[Instagram](../Page/Instagram.md "wikilink")上公佈PewDiePie已在她們於[日本](../Page/日本.md "wikilink")[神奈川縣](../Page/神奈川縣.md "wikilink")[橫濱市的旅行期間向她求婚](https://zh.wikipedia.org/wiki/橫濱市 "wikilink")\[91\]。
+
+2019年8月20日，PewDiePie與其相戀八年的女友Marzia舉辦結婚典禮\[92\]\[93\]。
 
 ## 影響
 
-在遊戲《》中，外星人的其中一個器官被稱作Pewdsball\[92\]。《[恐懼之泣](https://zh.wikipedia.org/wiki/恐懼之泣 "wikilink")》中有一金色雕像，當玩家接近時玩家操縱的主角會說：「史提芬諾？這是什麼鬼東西？PewDiePie？」（Stephano? What the fuck PewDiePie\!）\[93\]。而在《像素戰爭3》中，其中一方則叫作PewDiePie\[94\]。
+在遊戲《》中，外星人的其中一個器官被稱作Pewdsball\[94\]。《[恐懼之泣](https://zh.wikipedia.org/wiki/恐懼之泣 "wikilink")》中有一金色雕像，當玩家接近時玩家操縱的主角會說：「史提芬諾？這是什麼鬼東西？PewDiePie？」（Stephano? What the fuck PewDiePie\!）\[95\]。而在《像素戰爭3》中，其中一方則叫作PewDiePie\[96\]。
 
-在[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[-{zh-cn:南方公园;zh-tw:南方四賤客;zh-hk:衰仔樂園;zh-mo:衰仔樂園;zh-sg:南方公园;zh-hant:南方公園}-](../Page/南方公園.md "wikilink")》中，曾出現PewDiePie在玩決勝時刻的實況畫面\[95\]。
+在[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[-{zh-cn:南方公园;zh-tw:南方四賤客;zh-hk:衰仔樂園;zh-mo:衰仔樂園;zh-sg:南方公园;zh-hant:南方公園}-](../Page/南方公園.md "wikilink")》中，曾出現PewDiePie在玩決勝時刻的實況畫面\[97\]。
 
 ## 獲獎記錄
 
@@ -89,12 +93,12 @@ PewDiePie一開始和家人住在瑞典\[84\]，之後與女朋友[瑪齊亞·�
 <td><p>最熱門的社群影片獎</p></td>
 <td></td>
 <td><p>PewDiePie</p></td>
-<td><p>[96][97]</p></td>
+<td><p>[98][99]</p></td>
 </tr>
 <tr class="even">
 <td><p>瑞典社群之星獎</p></td>
 <td></td>
-<td><p>[98]</p></td>
+<td><p>[100]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -104,7 +108,7 @@ PewDiePie一開始和家人住在瑞典\[84\]，之後與女朋友[瑪齊亞·�
 <td><p>遊戲</p></td>
 <td></td>
 <td><p>PewDiePie（與Monark並列）</p></td>
-<td><p>[99]</p></td>
+<td><p>[101]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -113,13 +117,13 @@ PewDiePie一開始和家人住在瑞典\[84\]，之後與女朋友[瑪齊亞·�
 <td><p>互聯網男明星選擇獎</p></td>
 <td></td>
 <td><p>PewDiePie</p></td>
-<td><p>[100]</p></td>
+<td><p>[102]</p></td>
 </tr>
 <tr class="odd">
 <td><p>第4屆</p></td>
 <td><p>最佳遊戲頻道，節目或系列</p></td>
 <td></td>
-<td><p>[101]</p></td>
+<td><p>[103]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -127,7 +131,7 @@ PewDiePie一開始和家人住在瑞典\[84\]，之後與女朋友[瑪齊亞·�
 <td><p><a href="../Page/金摇杆奖.md" title="wikilink">金摇杆奖</a></p></td>
 <td><p>遊戲名人</p></td>
 <td></td>
-<td><p>[102]</p></td>
+<td><p>[104]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -136,21 +140,21 @@ PewDiePie一開始和家人住在瑞典\[84\]，之後與女朋友[瑪齊亞·�
 <td><p><a href="https://zh.wikipedia.org/wiki/青少年票選獎" title="wikilink">2015青少年票選獎</a></p></td>
 <td><p>互聯網男明星選擇獎</p></td>
 <td></td>
-<td><p>[103]</p></td>
+<td><p>[105]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>第五屆</p></td>
 <td><p>最佳第一人稱頻道，節目或系列</p></td>
 <td></td>
-<td><p>[104]</p></td>
+<td><p>[106]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>最佳網路遊戲頻道，節目或系列</p></td>
 <td></td>
-<td><p>[105]</p></td>
+<td><p>[107]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -159,7 +163,7 @@ PewDiePie一開始和家人住在瑞典\[84\]，之後與女朋友[瑪齊亞·�
 <td><p><a href="../Page/金摇杆奖.md" title="wikilink">金摇杆奖</a></p></td>
 <td><p>遊戲名人</p></td>
 <td></td>
-<td><p>[106]</p></td>
+<td><p>[108]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -168,7 +172,7 @@ PewDiePie一開始和家人住在瑞典\[84\]，之後與女朋友[瑪齊亞·�
 <td><p>第8屆</p></td>
 <td><p>年度YouTuber</p></td>
 <td></td>
-<td><p>[107]</p></td>
+<td><p>[109]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -176,7 +180,7 @@ PewDiePie一開始和家人住在瑞典\[84\]，之後與女朋友[瑪齊亞·�
 <td><p><a href="https://zh.wikipedia.org/wiki/青少年票選獎" title="wikilink">2017青少年票選獎</a></p></td>
 <td><p>最受喜愛的YouTube之星</p></td>
 <td></td>
-<td><p>[108]</p></td>
+<td><p>[110]</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -377,17 +381,17 @@ PewDiePie一開始和家人住在瑞典\[84\]，之後與女朋友[瑪齊亞·�
 
 93.
 
-94. [Pixel Warfare 3 Vegetta777-vs-Pewdiepie](http://www.pacogames.com/multiplayer/pixel-warfare-3-vegetta777-vs-pewdiepie/en)
+94.
 
 95.
 
-96.
+96. [Pixel Warfare 3 Vegetta777-vs-Pewdiepie](http://www.pacogames.com/multiplayer/pixel-warfare-3-vegetta777-vs-pewdiepie/en)
+
 97.
+
 98.
 99.
-
 100.
-
 101.
 
 102.
@@ -397,8 +401,12 @@ PewDiePie一開始和家人住在瑞典\[84\]，之後與女朋友[瑪齊亞·�
 104.
 
 105.
+
 106.
 
 107.
-
 108.
+
+109.
+
+110.

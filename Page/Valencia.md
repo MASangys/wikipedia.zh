@@ -75,7 +75,7 @@
 
 ## 体育
 
-  - [巴伦西亚足球俱乐部](https://zh.wikipedia.org/wiki/巴伦西亚足球俱乐部 "wikilink")（），西班牙的足球俱乐部。
+  - [巴伦西亚足球俱乐部](../Page/巴伦西亚足球俱乐部.md "wikilink")（），西班牙的足球俱乐部。
   - [瓦伦西亚俱乐部](../Page/瓦伦西亚俱乐部.md "wikilink"), （）马尔代夫的足球俱乐部。
   - *Comunitat Valenciana*（），2004年至2006年间的一个自行车队，前身为。
 

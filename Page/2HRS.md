@@ -1,4 +1,4 @@
-**2HRs** 是[臺灣](../Page/臺灣.md "wikilink")的[後搖滾](../Page/後搖滾.md "wikilink")以及 [新器樂搖滾](https://zh.wikipedia.org/wiki/新器樂搖滾 "wikilink")( ) 樂團。由提琴手以及BASS手在高中時期因聚會表演而創團，最初期的2HRs是為了[雄中謝師宴臨時排練兩小時所組成的樂團](https://zh.wikipedia.org/wiki/雄中 "wikilink")(因此取名2HRs)，大學時期團員離開高雄後提琴手必須從中壢坐兩小時的客運到台中與BASS手練團，團名又有了意義上的改變。\[1\]
+**2HRs** 是[臺灣](../Page/臺灣.md "wikilink")的[後搖滾](../Page/後搖滾.md "wikilink")以及[新器樂搖滾](https://zh.wikipedia.org/wiki/新器樂搖滾 "wikilink")（Neo-Instrumental）樂團。由提琴手以及BASS手在高中時期因聚會表演而創團，最初期的2HRs是為了[雄中謝師宴臨時排練兩小時所組成的樂團](https://zh.wikipedia.org/wiki/雄中 "wikilink")(因此取名2HRs)，大學時期團員離開高雄後提琴手必須從中壢坐兩小時的客運到台中與BASS手練團，團名又有了意義上的改變。\[1\]
 
 經過了幾次的團員更迭而有了目前的四人完整編制，2012年八月錄製了2HRs Demo，在表演時以免費方式發送，同年年末加入鍵盤手嗯哼作為小提琴以外的另一樣旋律樂器，在demo發行之後開始於台灣各地 [Live House](https://zh.wikipedia.org/wiki/Live_House "wikilink") 演出，也受獨立音樂策展活動 [PutsSound](https://zh.wikipedia.org/wiki/PutsSound "wikilink") 邀請擔任瑞典後搖滾團體[Immanu El台灣演出之開場樂團](https://zh.wikipedia.org/wiki/Immanu_El "wikilink")，2013年初發行了第一張EP [Visionless](https://zh.wikipedia.org/wiki/Visionless "wikilink")。\[2\]
 
@@ -37,6 +37,8 @@
 ## 參考來源
 
 <references/>
+
+[Category:台湾乐团](https://zh.wikipedia.org/wiki/Category:台湾乐团 "wikilink")
 
 1.  <http://www.indievox.com/2hrstw/intro>
 2.  <https://www.facebook.com/2HRsTW>

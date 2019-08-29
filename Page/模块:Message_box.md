@@ -317,6 +317,12 @@ function box:setBoxParameters(cfg, args)
 `           date = lang:formatDate('Y年n月j日', args.time)`
 `       end`
 `       if date then`
+`           local ok, tempdate = pcall(lang.formatDate, lang, 'Y年n月j日', date) -- 正規化日期`
+`           if ok then`
+`               date = tempdate`
+`           end`
+`       end`
+`       if date then`
 `           self.date = string.format(" `<small class='date-container'>*`(`<span class='date'>`%s`</span>`)`*</small>`", date)`
 `       end`
 `       if args.fix and args.fix ~= '' then`
@@ -418,6 +424,10 @@ function box:setBoxParameters(cfg, args)
 `       }`
 `       if args.date and args.date ~= '' then`
 `           date = args.date`
+`           local ok, tempdate = pcall(lang.formatDate, lang, 'Y年n月', date) -- 正規化日期`
+`           if ok then`
+`               date = tempdate`
+`           end`
 `       elseif args.time and args.time ~= '' then`
 `           date = lang:formatDate('Y年n月', args.time)`
 `           sortDay = lang:formatDate('j', args.time)`

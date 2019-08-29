@@ -24,7 +24,7 @@
 
 1989年[大慶汽車](../Page/大慶汽車.md "wikilink")將Justy國產化，並命名為**捷速帝**。雖然挾著ECVT[電子式無段變速自排系統](../Page/電子式無段變速自排系統.md "wikilink")的旗號，卻仍不敵同級車霸主[福特嘉年華](../Page/福特Festiva.md "wikilink")。早在1983年[羽田機械](../Page/羽田機械.md "wikilink")和日本[大發工業](../Page/大發工業.md "wikilink")簽訂技術合作合同並生產「大發祥瑞1000」（即第二代大發Charade），順應臺灣消費者喜歡「有頭有尾」的喜好，加上一小截屁股稱作「大發銀翼」\[1\]。大慶汽車也依循此一前例如法炮製，替捷速帝加上一截車尾，取名為**Tutto金美滿**，但是機械構造與動力來源皆未變動。金美滿的銷售成績果然比捷速帝還要好，另外此車款符合國人自行研發要點，享有3%的貨物稅減免\[2\]。
 
-Image:Subaru-1st-Justy-Taching.jpg|大慶捷速帝車尾 Image:Subaru Tutto G7-4036 20190728.jpg|大慶金美滿車頭 Image:Subaru Tutto R4-4997 20060515.jpg|大慶金美滿車尾 Image:SUBARU TUTTO 02.JPG|大慶金美滿車尾
+Image:Subaru-1st-Justy-Taching.jpg|大慶捷速帝車尾 Image:Subaru Tutto G7-4036 20190728.jpg|大慶金美滿車頭 Image:Subaru Tutto R4-4997 20060515.jpg|大慶金美滿車尾 |大慶金美滿車尾
 
 {{-}}
 

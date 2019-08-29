@@ -7,7 +7,7 @@
   - [げまげま コンプティーク出張版](../Page/Di_Gi_Charat.md "wikilink")（[こげどんぼ\*](https://zh.wikipedia.org/wiki/こげどんぼ* "wikilink")）
   - [日常](https://zh.wikipedia.org/wiki/日常_\(漫画\) "wikilink")（[あらゐけいいち](https://zh.wikipedia.org/wiki/あらゐけいいち "wikilink") 一時休載中）
   - [はちゅねミクの日常 ろいぱら\! 出張版](../Page/小初音未來的日常.md "wikilink")（漫画：[おんたま](https://zh.wikipedia.org/wiki/おんたま "wikilink")）
-  - [幸運☆星](https://zh.wikipedia.org/wiki/幸運☆星 "wikilink")（[美水かがみ](https://zh.wikipedia.org/wiki/美水かがみ "wikilink")）
+  - [幸運☆星](../Page/幸運☆星.md "wikilink")（[美水かがみ](https://zh.wikipedia.org/wiki/美水かがみ "wikilink")）
   - コハエース＋ (経験値)
   - フェイト／エクストラ (ろび～な)
   - [放學後彩色畫室繽紛生活](https://zh.wikipedia.org/wiki/放學後彩色畫室繽紛生活 "wikilink") ([華々つぼみ](https://zh.wikipedia.org/wiki/華々つぼみ "wikilink"))

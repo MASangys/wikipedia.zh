@@ -1,6 +1,6 @@
 **Kakao M**（）是[韓國的一家唱片製作發行公司](https://zh.wikipedia.org/wiki/韓國 "wikilink")，亦從事企劃音樂演出等活動，旗下業務同時包括藝人經紀管理。
 
-LOEN娛樂前身是成立於1978年的Seoul Records（首爾唱片），1982年首爾唱片正式進行登記，2005年由[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SK集團的子公司](https://zh.wikipedia.org/wiki/SK集團 "wikilink")[SK Telecom收購](https://zh.wikipedia.org/wiki/SK_Telecom "wikilink")。2008年，收購韓國數位音樂平台[Melon](../Page/Melon.md "wikilink")。2016年被[Kakao](../Page/Kakao.md "wikilink")收購，2018年公司名稱由LOEN娛樂改為Kakao M。
+**Kakao M**前身是LOEN娛樂，而LOEN娛樂的前身是成立於1978年的Seoul Records（首爾唱片），1982年首爾唱片正式進行登記，2005年由[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SK集團的子公司](https://zh.wikipedia.org/wiki/SK集團 "wikilink")[SK Telecom收購](https://zh.wikipedia.org/wiki/SK_Telecom "wikilink")。2008年，收購韓國數位音樂平台[Melon](../Page/Melon.md "wikilink")，並更名為LOEN娛樂。2016年被[Kakao](../Page/Kakao.md "wikilink")收購，2018年公司名稱由LOEN娛樂改為Kakao M。
 
 Kakao M 發行的音樂種類包含：[K-POP](../Page/韓國流行音樂.md "wikilink")、[搖滾樂](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")、[R\&B](https://zh.wikipedia.org/wiki/R&B "wikilink")、[嘻哈](../Page/嘻哈.md "wikilink")等。
 

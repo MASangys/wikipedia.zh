@@ -44,7 +44,7 @@
 
   - [臺北市立動物園宣傳影片-討厭歸討厭，這次還是要對你好一點啦 ！](https://www.youtube.com/watch?v=lLMSRUNF7ec)
 
-[Category:臺灣插畫家](https://zh.wikipedia.org/wiki/Category:臺灣插畫家 "wikilink") [Category:台北人](https://zh.wikipedia.org/wiki/Category:台北人 "wikilink") [Category:銘傳大學校友](https://zh.wikipedia.org/wiki/Category:銘傳大學校友 "wikilink") [Category:楊姓](https://zh.wikipedia.org/wiki/Category:楊姓 "wikilink")
+[Category:臺灣插畫家](https://zh.wikipedia.org/wiki/Category:臺灣插畫家 "wikilink") [Category:贴图作者](https://zh.wikipedia.org/wiki/Category:贴图作者 "wikilink") [Category:台北人](https://zh.wikipedia.org/wiki/Category:台北人 "wikilink") [Category:銘傳大學校友](https://zh.wikipedia.org/wiki/Category:銘傳大學校友 "wikilink") [Category:楊姓](https://zh.wikipedia.org/wiki/Category:楊姓 "wikilink")
 
 1.
 2.

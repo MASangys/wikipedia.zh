@@ -6,7 +6,7 @@
 
 故事主要讲述了主人公四之宫京夜与他所属的活动内容不明的GJ部的部员们——有着好强性格的部长天使真央、游戏天才皇紫音、性格我行我素的天使惠、身材丰满的绮罗罗·伯恩斯坦以及之后的新入部员神无月环交织而成的“日常痛苦喜剧”。
 
-## 角色
+## 登場角色
 
 ### GJ部
 
@@ -76,21 +76,21 @@
 ## 小說
 
   - 《GJ部》
-    [新木伸](../Page/新木伸.md "wikilink")（著）、あるや（插圖）、[GAGAGA文庫](../Page/GAGAGA文庫.md "wikilink")（[小學館](../Page/小學館.md "wikilink")）、全9卷
+    [新木伸](../Page/新木伸.md "wikilink")（著）、あるや（插圖）、[GAGAGA文庫](../Page/GAGAGA文庫.md "wikilink")。全9卷、2卷特別篇。
 
 <table>
 <thead>
 <tr class="header">
-<th><p>期数</p></th>
-<th><p>日文版</p></th>
-<th><p>繁體中文版</p></th>
+<th><p>冊数</p></th>
+<th><p><a href="../Page/小學館.md" title="wikilink">小學館</a></p></th>
+<th><p><a href="../Page/東立出版社.md" title="wikilink">東立出版社</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>发售日</p></td>
-<td><p>ISBN</p></td>
-<td><p>发售日</p></td>
+<td><p>發售日期</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
+<td><p>發售日期</p></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>
@@ -138,26 +138,31 @@
 <td><p>ISBN 978-4-09-451292-2</p></td>
 </tr>
 <tr class="odd">
-<td><p>特別篇</p></td>
+<td><p>◎</p></td>
 <td><p>2013年3月19日</p></td>
 <td><p>ISBN 978-4-09-451399-8</p></td>
+</tr>
+<tr class="even">
+<td><p>weekly</p></td>
+<td><p>2015年7月17日</p></td>
+<td><p>ISBN 978-4-09-451561-9</p></td>
 </tr>
 </tbody>
 </table>
 
   - 《GJ部中等部》
-    新木伸（著）、あるや（插圖）、GAGAGA文庫（小學館）、已有8卷
+    新木伸（著）、あるや（插圖）、GAGAGA文庫、全9卷
 
 <table>
 <thead>
 <tr class="header">
-<th><p>期数</p></th>
-<th><p>日文版</p></th>
+<th><p>冊数</p></th>
+<th><p>小學館</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>发售日</p></td>
+<td><p>發售日期</p></td>
 <td><p>ISBN</p></td>
 </tr>
 <tr class="even">
@@ -193,11 +198,21 @@
 <td><p>2014年1月17日</p></td>
 </tr>
 <tr class="even">
-<td><p>9</p></td>
+<td><p>loss time</p></td>
 <td><p>2014年4月18日</p></td>
 </tr>
 </tbody>
 </table>
+
+  - 動畫導讀
+
+<!-- end list -->
+
+  -
+<!-- end list -->
+
+  -
+    2013年10月18日發售、ISBN 978-4-09-451441-4
 
 ## 電視動畫
 
@@ -517,7 +532,34 @@ KIM SHINYEONG</p></td>
 
 ## 漫畫
 
-由小說改編的漫畫於《[月刊Sunday Gene-X](../Page/月刊Sunday_Gene-X.md "wikilink")》（小學館）2013年1月號開始連載。作畫畫家與小說插畫同為あるや。
+由小說改編的四格漫畫於《[月刊Sunday Gene-X](../Page/月刊Sunday_Gene-X.md "wikilink")》（小學館）2013年1月號開始連載。作畫同為あるや。單行本全3卷。
+
+<table>
+<thead>
+<tr class="header">
+<th><p>冊数</p></th>
+<th><p>小學館</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>發售日期</p></td>
+<td><p>ISBN</p></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td><p>2015年4月17日</p></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+<td><p>2017年4月19日</p></td>
+</tr>
+<tr class="even">
+<td><p>3</p></td>
+<td><p>2019年7月19日</p></td>
+</tr>
+</tbody>
+</table>
 
 ## 參考資料
 

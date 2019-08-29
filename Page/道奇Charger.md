@@ -1,4 +1,4 @@
-[DodgeChargerSRT8-6.4.jpg](https://zh.wikipedia.org/wiki/File:DodgeChargerSRT8-6.4.jpg "fig:DodgeChargerSRT8-6.4.jpg") **道奇Charger** (另稱：道奇充電器、倒骑·插这儿、衝鋒者、突襲者....等)是由[克萊斯勒集團旗下品牌](https://zh.wikipedia.org/wiki/克萊斯勒 "wikilink")[道奇所生產的一个系列的大型](../Page/道奇汽车.md "wikilink")[肌肉車](../Page/肌肉車.md "wikilink")([高性能轎車](../Page/高性能轎車.md "wikilink"))，首次亮相在1964年的车展上。它实际上由三个系列的底盘基础上制作的数个系列车型组成（至2014年），均采用Charger名号。除用于高性能车型外，它也曾应用在[次紧凑型车](https://zh.wikipedia.org/wiki/次紧凑型车 "wikilink")、双门跑车等。\[1\]
+[DodgeChargerSRT8-6.4.jpg](https://zh.wikipedia.org/wiki/File:DodgeChargerSRT8-6.4.jpg "fig:DodgeChargerSRT8-6.4.jpg") **道奇Charger** (另稱：道奇充電器、衝鋒者、突襲者....等)是由[克萊斯勒集團旗下品牌](https://zh.wikipedia.org/wiki/克萊斯勒 "wikilink")[道奇所生產的一个系列的大型](../Page/道奇汽车.md "wikilink")[肌肉車](../Page/肌肉車.md "wikilink")([高性能轎車](../Page/高性能轎車.md "wikilink"))，首次亮相在1964年的车展上。它实际上由三个系列的底盘基础上制作的数个系列车型组成（至2014年），均采用Charger名号。除用于高性能车型外，它也曾应用在[次紧凑型车](https://zh.wikipedia.org/wiki/次紧凑型车 "wikilink")、双门跑车等。\[1\]
 
 ## 現在的存續
 

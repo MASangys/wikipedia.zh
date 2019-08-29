@@ -4,7 +4,7 @@
 
 ### 正式發佈版本
 
-:\*Firefox 68.0.1
+:\*Firefox 68.0.2
 
 :\*Firefox 60.8.0 ESR
 
@@ -11203,17 +11203,31 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>68.0esr</p></td>
-<td><p><em>Firefox 68.0esr</em></p></td>
-<td><p>2018年7月9日</p></td>
-<td><p><em>官方版Firefox 68.0esr釋出[498]，Firefox第九個企業長期支援（ESR）版本</em></p></td>
+<td><p>68.0.2</p></td>
+<td><p><em>Firefox 68.0.2</em></p></td>
+<td><p>2019年8月14日</p></td>
+<td><p><em>穩定性與安全性更新</em>[498]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>68.0esr</p></td>
+<td><p><em>Firefox 68.0esr</em></p></td>
+<td><p>2018年7月9日</p></td>
+<td><p><em>官方版Firefox 68.0esr釋出[499]，Firefox第九個企業長期支援（ESR）版本</em></p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>68.0.1esr</p></td>
 <td><p><em>Firefox 68.0.1esr</em></p></td>
 <td><p>2018年7月18日</p></td>
-<td><p><em>ESR版本穩定性更新</em>[499]</p></td>
+<td><p><em>ESR版本穩定性更新</em>[500]</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>68.0.2esr</p></td>
+<td><p><em>Firefox 68.0.2esr</em></p></td>
+<td><p>2018年8月14日</p></td>
+<td><p><em>ESR版本穩定性與安全性更新</em>[501]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -11280,13 +11294,48 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>69.0b11</p></td>
+<td><p><em>Firefox 69.0 Beta 11</em></p></td>
+<td><p>2019年8月5日</p></td>
+<td><p><em>第九個Firefox 69.0測試版</em></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>69.0b12</p></td>
+<td><p><em>Firefox 69.0 Beta 12</em></p></td>
+<td><p>2019年8月8日</p></td>
+<td><p><em>第十個Firefox 69.0測試版</em></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>69.0b13</p></td>
+<td><p><em>Firefox 69.0 Beta 13</em></p></td>
+<td><p>2019年8月13日</p></td>
+<td><p><em>第十一個Firefox 69.0測試版</em></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>69.0b14</p></td>
+<td><p><em>Firefox 69.0 Beta 14</em></p></td>
+<td><p>2019年8月16日</p></td>
+<td><p><em>第十二個Firefox 69.0測試版</em></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>69.0b15</p></td>
+<td><p><em>Firefox 69.0 Beta 15</em></p></td>
+<td><p>2019年8月20日</p></td>
+<td><p><em>第十三個Firefox 69.0測試版</em></p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>69.0</p></td>
 <td><p><em>Firefox 69.0</em></p></td>
 <td><p>2019年9月3日</p></td>
 <td><p><em>官方版Firefox 69.0釋出</em></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -12312,4 +12361,8 @@
 497.
 
 498.
+
 499.
+500.
+
+501.

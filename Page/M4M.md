@@ -8,7 +8,7 @@
 
 ### 首張迷你專輯《Mystery Formula》
 
-他們的出道專輯《Mystery Formula》是由韓國[Cube Entertainment的製作人林尚赫以及新人作曲家孫英珍打造而成](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")，而主打歌曲《Sadness》為嘗試呈現與現有的華語市場截然不同的音樂風格，以電子合聲為主要因素，在強烈的節奏下同時也能感受到柔情的歌曲。與相愛的人離別後所展現出來無限悲傷的歌詞，充分發揮成員們各自的魅力。專輯發售當日也同時在中韓兩地公開專輯主打歌《Sadness》完整版MV，並於首爾清潭洞藝術大廳舉行出道showcase，03月14日登上韓國[Mnet頻道音樂節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》為韓國出道舞台\[1\]，03月26日在北京舉辦中國出道首秀，全面宣告M4M旋風來襲。
+他們的出道專輯《Mystery Formula》是由韓國[Cube Entertainment的製作人林尚赫以及新人作曲家孫英珍打造而成](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")，而主打歌曲《Sadness》為嘗試呈現與現有的華語市場截然不同的音樂風格，以電子合聲為主要因素，在強烈的節奏下同時也能感受到柔情的歌曲。與相愛的人離別後所展現出來無限悲傷的歌詞，充分發揮成員們各自的魅力。專輯發售當日也同時在中韓兩地公開專輯主打歌《Sadness》完整版MV，並於首爾清潭洞藝術大廳舉行出道showcase，03月14日登上韓國[Mnet](../Page/Mnet.md "wikilink")頻道音樂節目《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》為韓國出道舞台\[1\]，03月26日在北京舉辦中國出道首秀，全面宣告M4M旋風來襲。
 
 ### 控訴星天傳媒違約
 
@@ -36,10 +36,11 @@
 | 2015年 | [天津卫视](../Page/天津卫视.md "wikilink")                    | 青春萬萬歲                                                              | 方逸倫  | 高禹轩                                               | 男配角 |
 | 2017年 | [湖南衛視](https://zh.wikipedia.org/wiki/湖南衛視 "wikilink") | [不一樣的美男子](https://zh.wikipedia.org/wiki/不一樣的美男子 "wikilink")2       | 方逸倫  | 葉江帆                                               | 男配角 |
 | 2017年 | [湖南衛視](https://zh.wikipedia.org/wiki/湖南衛視 "wikilink") | [美味奇缘](../Page/美味奇缘.md "wikilink")                                 | 方逸倫  | 葉以軒                                               | 男配角 |
-| 2018年 |                                                       | [許你浮生若夢](https://zh.wikipedia.org/wiki/許你浮生若夢 "wikilink")          | 方逸倫  | 段天賜                                               | 男配角 |
-| 2019年 |                                                       | [绝世千金](https://zh.wikipedia.org/wiki/绝世千金 "wikilink")              | 方逸倫  | 柳修文                                               | 男配角 |
-| 2019年 |                                                       | [獨孤皇后](../Page/独孤皇后_\(电视剧\).md "wikilink")                         | 方逸倫  | [楊瓚](https://zh.wikipedia.org/wiki/楊瓚 "wikilink") | 男配角 |
-| 2019年 |                                                       | [新白娘子傳奇](../Page/新白娘子传奇_\(2019年电视剧\).md "wikilink")                | 方逸倫  | 睦王                                                | 男配角 |
+| 2018年 | [优酷](../Page/优酷.md "wikilink")                        | [許你浮生若夢](https://zh.wikipedia.org/wiki/許你浮生若夢 "wikilink")          | 方逸倫  | 段天賜                                               | 男配角 |
+| 2019年 | [爱奇艺](../Page/爱奇艺.md "wikilink")                      | [绝世千金](https://zh.wikipedia.org/wiki/绝世千金 "wikilink")              | 方逸倫  | 柳修文                                               | 男配角 |
+| 2019年 | [浙江卫视](../Page/浙江卫视.md "wikilink")                    | [獨孤皇后](../Page/独孤皇后_\(电视剧\).md "wikilink")                         | 方逸倫  | [楊瓚](https://zh.wikipedia.org/wiki/楊瓚 "wikilink") | 男配角 |
+| 2019年 | [爱奇艺](../Page/爱奇艺.md "wikilink")                      | [新白娘子傳奇](../Page/新白娘子传奇_\(2019年电视剧\).md "wikilink")                | 方逸倫  | 睦王                                                | 男配角 |
+| 2019年 | [腾讯视频](../Page/腾讯视频.md "wikilink")                    | [陈情令](../Page/陈情令.md "wikilink")                                   | 于斌   | 温宁                                                | 男配角 |
 
 ### 電影
 
@@ -47,44 +48,6 @@
 | ----- | --- | ------------------------------------------------------- | ---- | ---- | -- |
 | 年份    | 電視台 | 劇名                                                      | 參演成員 | 角色   | 性質 |
 | 2015年 |     | [重返20歲](https://zh.wikipedia.org/wiki/重返20歲 "wikilink") | 朱兆豐  | 街頭藝人 | 客串 |
-
-## 作品
-
-### 綜藝節目
-
-|            |                                                                |       |
-| ---------- | -------------------------------------------------------------- | ----- |
-| 日期         | 節目名稱                                                           | 參與成員  |
-| 2013年3月26日 | 音悦台独家专访                                                        | M4M全體 |
-| 2013年3月28日 | 乐视星宾乐專訪                                                        | M4M全體 |
-| 2013年3月30日 | 百度贴吧文字访谈                                                       | M4M全體 |
-| 2013年4月6日  | 音乐风云榜M4M出道全纪录                                                  | M4M全體 |
-| 2013年4月10日 | MTV日韩音乐疯M4M出道訓練過程(上)                                           | M4M全體 |
-| 2013年4月12日 | 视讯中国非常大名人訪問                                                    | M4M全體 |
-| 2013年4月15日 | 视讯中国-e娱乐訪問                                                     | M4M全體 |
-| 2013年4月16日 | MTV天籁村M4M訪問（上）                                                 | M4M全體 |
-| 2013年4月17日 | MTV天籁村M4M訪問（下）                                                 | M4M全體 |
-| 2013年4月17日 | 迅雷访问                                                           | M4M全體 |
-| 2013年4月17日 | 中国网NEW VOICE專訪                                                 | M4M全體 |
-| 2013年4月17日 | CNTV IN乐台專訪                                                    | M4M全體 |
-| 2013年4月19日 | MTV日韩音乐疯M4M出道訓練過程(下)                                           | M4M全體 |
-| 2013年4月20日 | 北京衛視《大戲看北京》                                                    | M4M全體 |
-| 2013年4月24日 | PPS星光吧訪問                                                       | M4M全體 |
-| 2013年4月24日 | 上海星尚频道《明星之旅》訪問                                                 | M4M全體 |
-| 2013年4月29日 | 环球网访谈                                                          | M4M全體 |
-| 2013年5月1日  | 广州天生快活人流行前线電台訪問                                                | M4M全體 |
-| 2013年5月2日  | 碰碰明星网專訪                                                        | M4M全體 |
-| 2013年5月2日  | 3G娱乐大人物專訪                                                      | M4M全體 |
-| 2013年5月9日  | 鳳凰網爱疯音乐家專訪                                                     | M4M全體 |
-| 2013年5月10日 | [黑龍江衛視](https://zh.wikipedia.org/wiki/黑龍江衛視 "wikilink")《美麗俏佳人》 | M4M全體 |
-| 2013年5月14日 | 悠視專訪                                                           | M4M全體 |
-| 2013年5月15日 | MTV天籁村來賓MV推薦單元                                                 | M4M全體 |
-| 2013年5月18日 | CNTV劲歌王视频速递專訪                                                  | M4M全體 |
-| 2013年5月20日 | [北京电视台](https://zh.wikipedia.org/wiki/北京电视台 "wikilink")《音樂風雲榜》 | M4M全體 |
-| 2013年5月22日 | 真維斯土豆最音樂夏日飲品單元                                                 | M4M全體 |
-| 2013年6月3日  | [音悅台](https://zh.wikipedia.org/wiki/音悅台 "wikilink")《音悅大來賓》     | M4M全體 |
-| 2013年6月6日  | 網易雲音樂專訪                                                        | M4M全體 |
-|            |                                                                |       |
 
 ## 音樂作品
 

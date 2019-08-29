@@ -15,7 +15,7 @@
 
   - [Museum of Anthropology Official Site](http://www.moa.ubc.ca/)
 
-[Category:人類學博物館](https://zh.wikipedia.org/wiki/Category:人類學博物館 "wikilink") [Category:加拿大高校博物馆](https://zh.wikipedia.org/wiki/Category:加拿大高校博物馆 "wikilink") [Category:温哥华博物馆](https://zh.wikipedia.org/wiki/Category:温哥华博物馆 "wikilink") [Category:不列顛哥倫比亞大學](https://zh.wikipedia.org/wiki/Category:不列顛哥倫比亞大學 "wikilink") [Category:阿瑟·埃里克森設計的建築](https://zh.wikipedia.org/wiki/Category:阿瑟·埃里克森設計的建築 "wikilink") [Category:1947年建成的博物館](https://zh.wikipedia.org/wiki/Category:1947年建成的博物館 "wikilink")
+[Category:人類學博物館](https://zh.wikipedia.org/wiki/Category:人類學博物館 "wikilink") [Category:加拿大高校博物馆](https://zh.wikipedia.org/wiki/Category:加拿大高校博物馆 "wikilink") [Category:温哥华博物馆](https://zh.wikipedia.org/wiki/Category:温哥华博物馆 "wikilink") [Category:不列顛哥倫比亞大學](https://zh.wikipedia.org/wiki/Category:不列顛哥倫比亞大學 "wikilink") [Category:阿瑟·埃里克森設計的建築](https://zh.wikipedia.org/wiki/Category:阿瑟·埃里克森設計的建築 "wikilink") [Category:1947年建立的博物馆](https://zh.wikipedia.org/wiki/Category:1947年建立的博物馆 "wikilink")
 
 1.  [The Canadian Encyclopedia](http://www.thecanadianencyclopedia.com/index.cfm?PgNm=TCE&Params=A1ARTA0010430)
 2.  [UBC MOA collection](http://www.moa.ubc.ca/collections/)

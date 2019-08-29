@@ -666,7 +666,7 @@ Head姐</strong></p></td>
 飛往台灣探望父母時病發，令唐亦風第2次投考機長試失敗<br />
 於第38集返回台灣養病<br />
 其父母在台灣居住</p></td>
-<td><p>'''Josie 咖啡妺</p></td>
+<td><p>'''Jose 咖啡妺</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/張韋怡.md" title="wikilink">張韋怡</a></p></td>
@@ -756,7 +756,7 @@ PPP 贊助者</p></td>
 （第6集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/黎倩儀" title="wikilink">黎倩儀</a></p></td>
+<td><p><a href="../Page/黎倩儀.md" title="wikilink">黎倩儀</a></p></td>
 <td></td>
 <td><p>詹子麟忠實粉絲<br />
 （第6－7集）</p></td>

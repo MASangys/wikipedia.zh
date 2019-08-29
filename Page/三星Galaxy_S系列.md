@@ -1,8 +1,6 @@
 **三星Galaxy S系列**是由[三星電子](../Page/三星電子.md "wikilink")旗下的[三星Galaxy](../Page/三星Galaxy.md "wikilink")系列分拆成的旗舰级[智能手机](../Page/智能手机.md "wikilink")、[平板手机](../Page/平板手机.md "wikilink")和[平板电脑系列](https://zh.wikipedia.org/wiki/平板电脑 "wikilink")。
 
-## 產品
-
-### 手機
+## 手機
 
   - [三星Galaxy S](../Page/三星Galaxy_S.md "wikilink")
   - [Samsung Galaxy S 4G](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S_4G "wikilink")
@@ -55,7 +53,7 @@
   - Samsung Galaxy S10+
   - Samsung Galaxy S10 5G
 
-### 平板電腦
+## 平板電腦
 
 | 名稱                                                                                              | 推出日期      | 屏幕                                                                                     |
 | ----------------------------------------------------------------------------------------------- | --------- | -------------------------------------------------------------------------------------- |
@@ -66,8 +64,9 @@
 | [Samsung Galaxy Tab S3 9.7](https://zh.wikipedia.org/wiki/Samsung_Galaxy_Tab_S3_9.7 "wikilink") | 2017年2月   | 9.7" Super AMOLED1536x2048                                                             |
 | [三星Galaxy Tab S4](../Page/Samsung_Galaxy_Tab_S4.md "wikilink")                                  | 2018年8月   | 10.5" Super AMOLED 1660 x 2560                                                         |
 | [三星Galaxy Tab S5e](https://zh.wikipedia.org/wiki/三星Galaxy_Tab_S5e "wikilink")                   | 2019年     | 10.5 "Super AMOLED 1660 x 2560                                                         |
+| [三星Galaxy Tab S6](../Page/三星Galaxy_Tab_S6.md "wikilink")                                        | 2019年8月   |                                                                                        |
 
-### 其他
+## 其他產品
 
   - [Samsung Galaxy S WiFi 3.6](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S_WiFi_3.6 "wikilink")
   - [Samsung Galaxy S WiFi 4.0](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S_WiFi_4.0 "wikilink")
@@ -156,8 +155,8 @@
 <td><p>4.0</p></td>
 <td><p>WVGA (480×800)</p></td>
 <td><p>233</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Super_AMOLED" title="wikilink">Super AMOLD</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Samsung_Exynos" title="wikilink">Samsung Exynos</a> 3110 (Hummingbird)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Super-AMOLED" title="wikilink">Super-AMOLED</a></p></td>
+<td><p><a href="../Page/三星Exynos.md" title="wikilink">三星Exynos</a> 3110 (Hummingbird)</p></td>
 <td><p>1.0 GHz single-core ARM <a href="../Page/ARM_Cortex-A8.md" title="wikilink">Cortex-A8</a></p></td>
 <td><p><a href="../Page/PowerVR.md" title="wikilink">IT PowerVR</a> SGX540<br />
 (200 MHz)</p></td>
@@ -168,9 +167,9 @@
 <tr class="even">
 <td><p>i9001[41](S Plus)</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Qualcomm_Snapdragon" title="wikilink">Qualcomm Snapdragon</a> S2 MSM8255T</p></td>
+<td><p><a href="../Page/高通驍龍.md" title="wikilink">高通驍龍</a> S2 MSM8255T</p></td>
 <td><p>1.4 GHz single-core <a href="https://zh.wikipedia.org/wiki/Qualcomm_Scorpion" title="wikilink">Qualcomm Scorpion</a></p></td>
-<td><p>Qualcomm Adreno 205</p></td>
+<td><p><a href="../Page/高通.md" title="wikilink">高通</a> Adreno 205</p></td>
 <td><p>1,650 mAh</p></td>
 <td></td>
 <td></td>
@@ -205,9 +204,9 @@
 <td><p>121.5 × 63.1 × 10.6</p></td>
 <td><p>118</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TFT" title="wikilink">TFT</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Qualcomm_Snapdragon" title="wikilink">Qualcomm Snapdragon</a> S1 MSM7227A</p></td>
+<td><p>高通驍龍 S1 MSM7227A</p></td>
 <td><p>1.0 GHz single-core <a href="../Page/ARM_Cortex-A5.md" title="wikilink">ARM Cortex-A5</a></p></td>
-<td><p>Qualcomm Adreno 200</p></td>
+<td><p>高通 Adreno 200</p></td>
 <td><p>4GB</p></td>
 <td></td>
 <td></td>
@@ -220,9 +219,9 @@
 <td><p>S7582[44](S <a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy_S_Duos_2" title="wikilink">Duos 2</a>)</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Broadcom" title="wikilink">Broadcom</a> BCM21664</p></td>
-<td><p>1.2 GHz dual-core ARM Cortex-A9</p></td>
+<td><p>1.2 GHz 變核 ARM Cortex-A9</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Broadcom" title="wikilink">Broadcom</a> VideoCore IV</p></td>
-<td><p>microSD (max 64 GB)</p></td>
+<td><p>microSD (最高 64 GB)</p></td>
 <td></td>
 <td></td>
 <td></td>

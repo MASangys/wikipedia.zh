@@ -178,7 +178,7 @@
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>12月20日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td style="text-align: center;"></td>
 </tr>

@@ -1,7 +1,7 @@
 [Wikipedia_main_page_with_GoAgent_validation_certificate_in_firefox.png](https://zh.wikipedia.org/wiki/File:Wikipedia_main_page_with_GoAgent_validation_certificate_in_firefox.png "fig:Wikipedia_main_page_with_GoAgent_validation_certificate_in_firefox.png")中打开维基百科主页的截图
 可见证书颁发人为GoAgent\]\]
 
-**GoAgent**是使用跨平台语言[Python](../Page/Python.md "wikilink")开发、基于[GPL自由软件协议的代理软件](https://zh.wikipedia.org/wiki/GPL "wikilink")。它利用[Google App Engine](https://zh.wikipedia.org/wiki/Google_App_Engine "wikilink")（GAE）的服务器充當代理。该软件在[中国大陆](../Page/中国大陆.md "wikilink")被廣泛用于突破大陆官方建立的[防火长城](../Page/防火长城.md "wikilink")（GFW），以瀏覽被封鎖的內容。
+**GoAgent**是使用跨平台语言[Python](../Page/Python.md "wikilink")开发、基于[GPL自由软件协议的代理软件](https://zh.wikipedia.org/wiki/GPL "wikilink")。它利用[Google App Engine](../Page/Google_App_Engine.md "wikilink")（GAE）的服务器充當代理。该软件在[中国大陆](../Page/中国大陆.md "wikilink")被廣泛用于突破大陆官方建立的[防火长城](../Page/防火长城.md "wikilink")（GFW），以瀏覽被封鎖的內容。
 
 GoAgent分为两个部分，一部分是需要部署到GAE上的服务器端软件，另一部分是用户电脑上运行的客户端软件。用户需要将服务器端软件上传到GAE中，然后通过客户端软件与其连接，获取被封锁的内容。为方便用户使用，GoAgent也提供了自动部署工具。
 
@@ -16,14 +16,14 @@ GoAgent的其他特性如下：
   - 支持作為本地[DNS伺服器使用](https://zh.wikipedia.org/wiki/DNS "wikilink")。
   - 支持[代理自動配置（PAC）](../Page/代理自动配置.md "wikilink")。
   - 支持在數據傳送過程中採用[HTTPS加密連線](https://zh.wikipedia.org/wiki/HTTPS "wikilink")。
-  - 支持[Google App Engine](https://zh.wikipedia.org/wiki/Google_App_Engine "wikilink")，[PHP](../Page/PHP.md "wikilink")和[PaaS三種模式](https://zh.wikipedia.org/wiki/PaaS "wikilink")。
+  - 支持[Google App Engine](../Page/Google_App_Engine.md "wikilink")，[PHP](../Page/PHP.md "wikilink")和[PaaS三種模式](https://zh.wikipedia.org/wiki/PaaS "wikilink")。
   - 自2.1.17版本起支持在通信時加入混淆數據以避免數據封包在傳輸時受到特徵過濾 。
-  - 允許用戶選擇使用[Google](../Page/Google.md "wikilink")在[北京](https://zh.wikipedia.org/wiki/北京 "wikilink")、[香港](../Page/香港.md "wikilink")或[台灣數據中心的](https://zh.wikipedia.org/wiki/台灣 "wikilink")[IP地址](../Page/IP地址.md "wikilink")，或者Google的[IPv6](../Page/IPv6.md "wikilink")地址（[Google App Engine位於](https://zh.wikipedia.org/wiki/Google_App_Engine "wikilink")[美國的數據中心在](https://zh.wikipedia.org/wiki/美國 "wikilink")[中國大陸被](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[防火长城](../Page/防火长城.md "wikilink")封鎖）。
+  - 允許用戶選擇使用[Google](../Page/Google.md "wikilink")在[北京](https://zh.wikipedia.org/wiki/北京 "wikilink")、[香港](../Page/香港.md "wikilink")或[台灣數據中心的](https://zh.wikipedia.org/wiki/台灣 "wikilink")[IP地址](../Page/IP地址.md "wikilink")，或者Google的[IPv6](../Page/IPv6.md "wikilink")地址（[Google App Engine位於](../Page/Google_App_Engine.md "wikilink")[美國的數據中心在](https://zh.wikipedia.org/wiki/美國 "wikilink")[中國大陸被](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[防火长城](../Page/防火长城.md "wikilink")封鎖）。
   - GoAgent自3.0.6版开始可选支持[RC4](../Page/RC4.md "wikilink")加密选项。
 
 ## 運行原理
 
-GoAgent的運行原理与其他代理工具基本相同，使用特定的中转服务器完成数据传输。它使用[Google App Engine的服务器作爲中傳](https://zh.wikipedia.org/wiki/Google_App_Engine "wikilink")，將數據封包後傳送至[Google](../Page/Google.md "wikilink")服务器，再由Google服务器轉發至目的服务器，接收數據時方法也類似\[2\] 。由于服务器端软件基本相同，该中转服务器既可以是用户自行架设的服务器，也可以是由其他人架设的开放服务器。
+GoAgent的運行原理与其他代理工具基本相同，使用特定的中转服务器完成数据传输。它使用[Google App Engine的服务器作爲中傳](../Page/Google_App_Engine.md "wikilink")，將數據封包後傳送至[Google](../Page/Google.md "wikilink")服务器，再由Google服务器轉發至目的服务器，接收數據時方法也類似\[2\] 。由于服务器端软件基本相同，该中转服务器既可以是用户自行架设的服务器，也可以是由其他人架设的开放服务器。
 
 因为[中國大陸的](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[防火长城](../Page/防火长城.md "wikilink")难以完全封锁，或出于其他考虑不能完全封锁此Google服務，到目前为止幾經更新的GoAgent仍旧可以正常使用，儘管在2014年5月底開始，Google又一次遭到中國政府防火長城的大規模封鎖，Google首頁至今仍不能從中國大陸正常存取。\[3\]\[4\]
 
@@ -49,7 +49,7 @@ GoAgent依赖Google App Engine服务器，在发送请求、获取网页内容�
 
 ## 注意事项
 
-由於GoAgent所使用的[Google App Engine被认为可以作为开放式代理](https://zh.wikipedia.org/wiki/Google_App_Engine "wikilink")，因此其使用的[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加利福尼亞州](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[山景城](https://zh.wikipedia.org/wiki/山景城_\(加利福尼亞州\) "wikilink")[Google](https://zh.wikipedia.org/wiki/谷歌 "wikilink")[數據中心的出口](https://zh.wikipedia.org/wiki/數據中心 "wikilink")[IP地址段会受到部分網站的封鎖或限制](https://zh.wikipedia.org/wiki/IP位址 "wikilink")（如对[維基百科只能瀏覽而不能編輯](https://zh.wikipedia.org/wiki/維基百科 "wikilink")），以防止恶意攻擊。
+由於GoAgent所使用的[Google App Engine被认为可以作为开放式代理](../Page/Google_App_Engine.md "wikilink")，因此其使用的[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加利福尼亞州](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[山景城](https://zh.wikipedia.org/wiki/山景城_\(加利福尼亞州\) "wikilink")[Google](https://zh.wikipedia.org/wiki/谷歌 "wikilink")[數據中心的出口](https://zh.wikipedia.org/wiki/數據中心 "wikilink")[IP地址段会受到部分網站的封鎖或限制](https://zh.wikipedia.org/wiki/IP位址 "wikilink")（如对[維基百科只能瀏覽而不能編輯](https://zh.wikipedia.org/wiki/維基百科 "wikilink")），以防止恶意攻擊。
 
 ## 衍生项目
 

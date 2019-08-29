@@ -1,4 +1,4 @@
-**N.Flying**（；）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FNC娛樂](../Page/FNC娛樂.md "wikilink")旗下的男子[流行搖滾](../Page/流行搖滾.md "wikilink")[樂團](../Page/男子音乐组合.md "wikilink")，於2015年5月20日出道，最初由[權光珍](https://zh.wikipedia.org/wiki/權光珍 "wikilink")、[李承協](https://zh.wikipedia.org/wiki/李承協 "wikilink")、[車勳](https://zh.wikipedia.org/wiki/車勳 "wikilink")、[金宰鉉所組成](https://zh.wikipedia.org/wiki/金宰鉉 "wikilink")，並由[承協擔任隊長](https://zh.wikipedia.org/wiki/李承協 "wikilink")。經成員變動後，現任成員包括[李承協](https://zh.wikipedia.org/wiki/李承協 "wikilink")、[車勳](https://zh.wikipedia.org/wiki/車勳 "wikilink")、[金宰鉉](https://zh.wikipedia.org/wiki/金宰鉉 "wikilink")、[柳會勝](https://zh.wikipedia.org/wiki/柳會勝 "wikilink")。
+**N.Flying**（；）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FNC娛樂](../Page/FNC娛樂.md "wikilink")旗下的男子[流行搖滾](../Page/流行搖滾.md "wikilink")[樂團](../Page/男子音乐组合.md "wikilink")，於2015年5月20日出道，最初由[權光珍](https://zh.wikipedia.org/wiki/權光珍 "wikilink")、[李承協](https://zh.wikipedia.org/wiki/李承協 "wikilink")、[車勳](https://zh.wikipedia.org/wiki/車勳 "wikilink")、[金宰鉉所組成](https://zh.wikipedia.org/wiki/金宰鉉 "wikilink")，並由[李承協擔任隊長](https://zh.wikipedia.org/wiki/李承協 "wikilink")。經成員變動後，現任成員包括[李承協](https://zh.wikipedia.org/wiki/李承協 "wikilink")、[車勳](https://zh.wikipedia.org/wiki/車勳 "wikilink")、[金宰鉉](https://zh.wikipedia.org/wiki/金宰鉉 "wikilink")、[柳會勝](https://zh.wikipedia.org/wiki/柳會勝 "wikilink")。
 
 ## 團體資料
 
@@ -95,7 +95,7 @@ PlotData =
 
 ### 2018年
 
-12月24日，經歷前成員光珍退團，回歸四人體制發行「N.Flying FLY HIGH PROJECT」企劃第二張數位單曲《Rooftop》，在官方群網站上公開了一張預告照。\[6\]
+12月24日，經歷權光珍退團，回歸四人體制發行「N.Flying FLY HIGH PROJECT」企劃第二張數位單曲《Rooftop》，在官方群網站上公開了一張預告照。\[6\]
 
 12月29日，公開風格概念照，並宣布明年1月19日於麻浦區西橋洞 MUV-Hall 舉辦《N.Flying FLY HIGH PROJECT NOTE2. 2019》演唱會。\[7\]12月30日，公開成員個人概念照、首波MV預告。\[8\]\[9\]
 
@@ -290,6 +290,15 @@ PlotData =
 </ul></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p><strong>3rd</strong></p></td>
+<td><p>第三張日文單曲《<strong>Doll / Kick-Ass</strong>》</p>
+<ul>
+<li>發行日期：2019年11月13日</li>
+<li>語言：日語</li>
+</ul></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -350,7 +359,7 @@ PlotData =
 
 | 日期          | 電視台                                                         | 節目名稱                                                     | 參與成員                                                                                                 | 備註                                                                                              |
 | ----------- | ----------------------------------------------------------- | -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| 2015年11月10日 | [SBS MTV](https://zh.wikipedia.org/wiki/SBS_MTV "wikilink") | [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink") | [金宰鉉](https://zh.wikipedia.org/wiki/金宰鉉 "wikilink")                                                  | Special MC(與[李在真](https://zh.wikipedia.org/wiki/李在真 "wikilink")、[酉奈](../Page/酉奈.md "wikilink")) |
+| 2015年11月10日 | [SBS MTV](https://zh.wikipedia.org/wiki/SBS_MTV "wikilink") | [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink") | 金宰鉉                                                                                                  | Special MC(與[李在真](https://zh.wikipedia.org/wiki/李在真 "wikilink")、[酉奈](../Page/酉奈.md "wikilink")) |
 | 2015年11月13日 | KBS                                                         | [音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")    | 待機室MC (與[Lovelyz](https://zh.wikipedia.org/wiki/Lovelyz "wikilink") [智愛](../Page/劉智愛.md "wikilink")) |                                                                                                 |
 |             |                                                             |                                                          |                                                                                                      |                                                                                                 |
 
@@ -360,7 +369,7 @@ PlotData =
 | ----------------------- | --------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------- | ------- |
 | 2013年11月21日-2014年 1月 9日 | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")             | [清潭洞111](../Page/清潭洞111.md "wikilink")                        | 全體                                                | 8集      |
 | 2014年 3月13日-2014年 4月10日 | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")             | 清潭洞111-N.Flying邁向明星之路                                         | 全體                                                | 5集      |
-| 2015年 3月18日-2015年 5月20日 | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")           | One Night Study                                               | 全體                                                | 10集     |
+| 2015年 3月18日-2015年 5月20日 | [Mnet](../Page/Mnet.md "wikilink")                              | One Night Study                                               | 全體                                                | 10集     |
 | 2015年 8月21日-2015年 9月 1日 | IDOLIC TV                                                       | EYEDOLLS                                                      | 全體                                                | 4集      |
 | 2016年12月15日-2016年12月29日 | [MBCEvery1](https://zh.wikipedia.org/wiki/MBCEvery1 "wikilink") | [HIT製造機 第三季](https://zh.wikipedia.org/wiki/HIT製造機 "wikilink") | [車勳](https://zh.wikipedia.org/wiki/車勳 "wikilink") | EP01-03 |
 | 2019年7月5日-2019年         | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")             | [The Call 第二季](../Page/The_Call.md "wikilink")                | 全體                                                |         |
@@ -426,9 +435,11 @@ PlotData =
 | 4月14日       |
 | 4月18日       |
 | 4月22日       |
+| 4月24日       |
 | 5月7日        |
 | 5月11日       |
-|             |
+| 8月13日       |
+| 8月17日       |
 
 ## 影音作品
 

@@ -122,14 +122,14 @@ WZ551动力装置使用F8L413F型发动机，WZ551A换装了BF8L413F型增压发
 
 [Category:中華人民共和國裝甲戰鬥車輛](https://zh.wikipedia.org/wiki/Category:中華人民共和國裝甲戰鬥車輛 "wikilink") [Category:裝甲運兵車](https://zh.wikipedia.org/wiki/Category:裝甲運兵車 "wikilink")
 
-1.  [中国第二代重型军用越野车技术引进](http://mil.news.sina.com.cn/p/2006-10-11/0719403623.html)
+1.
 
-2.  [中国92式轮式步兵战车](http://www.airforceworld.com/tank/bbzc/92.htm)
+2.
 
 3.
 4.
-5.  [武警装甲车方队接受检阅](http://www.gov.cn/60zn/content_1431433_2.htm)
+5.
 
-6.  [阿根廷维和部队装备中国WZ551步战车](http://news.163.com/photoview/00AQ0001/11820.html)
+6.
 
 7.

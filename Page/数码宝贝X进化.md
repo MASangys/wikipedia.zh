@@ -126,7 +126,7 @@ Death-X-DORUgoramon</p></td>
 
 ## 制作发行
 
-2005年1月3日早上7点在[富士电视台播出](https://zh.wikipedia.org/wiki/富士电视台 "wikilink")\[2\]，影片在同年11月25日发行[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")\[3\]（附送特典解说），最初在媒体上公开制作情报时，原名为《数码宝贝X进化～第13位皇家骑士～》（），原定是以[剧场版的形式放映](https://zh.wikipedia.org/wiki/剧场版 "wikilink")，但后来却因[赞助商预算评估到数码宝贝系列人气不再](https://zh.wikipedia.org/wiki/赞助商 "wikilink")，所以不肯冒险以高成本的[电影](../Page/电影.md "wikilink")方式公开，被降格为TV特别篇。全[CG制作](https://zh.wikipedia.org/wiki/CG "wikilink")，由[香港](../Page/香港.md "wikilink")[意马国际](https://zh.wikipedia.org/wiki/意马国际 "wikilink")（Imagi Animation Studios Limited）承担CG制作的部分。
+2005年1月3日早上7点在[富士电视台播出](https://zh.wikipedia.org/wiki/富士电视台 "wikilink")\[2\]，影片在同年11月25日发行[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")\[3\]（附送特典解说），最初在[V Jump的](https://zh.wikipedia.org/wiki/V_Jump "wikilink")2004年7月号上公开制作情报时，原名为《数码宝贝X进化～第13位皇家骑士～》（），原定是以[剧场版的形式放映](https://zh.wikipedia.org/wiki/剧场版 "wikilink")，但后来却因[赞助商预算评估到数码宝贝系列人气不再](https://zh.wikipedia.org/wiki/赞助商 "wikilink")，所以不肯冒风险以高宣发成本的剧场版形式公开，被降格为TV特别篇。全[CG制作](https://zh.wikipedia.org/wiki/CG "wikilink")，由[香港](../Page/香港.md "wikilink")[意马国际](https://zh.wikipedia.org/wiki/意马国际 "wikilink")（Imagi Animation Studios Limited）承担CG制作的部分。
 
 故事构成和主角数码宝贝是基于《数码宝贝编年史》，但是这部TV特别篇并没有原作中[堂本光太和](https://zh.wikipedia.org/wiki/堂本光太 "wikilink")[武者勇治等人类的出现](https://zh.wikipedia.org/wiki/武者勇治 "wikilink")，因此故事的描述未考虑到人类。
 

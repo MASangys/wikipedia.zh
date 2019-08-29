@@ -14,7 +14,7 @@ Fira Sans有一個稱為**Fira Mono**的[等寬變體](../Page/等宽字体.md "
 
 ## 外部連結
 
-  - [Fira Sans字型](https://github.com/buildingfirefoxos/Building-Blocks/tree/gh-pages/fonts/FiraSans)，在[GitHub](../Page/GitHub.md "wikilink")
+  - [Fira Sans字型](https://github.com/bBoxType/FiraSans)，在[GitHub](../Page/GitHub.md "wikilink")
   - [FiraGO字型](https://github.com/bBoxType/FiraGO)，在[Github](https://zh.wikipedia.org/wiki/Github "wikilink")
 
 [Category:Firefox_OS](https://zh.wikipedia.org/wiki/Category:Firefox_OS "wikilink") [Category:无衬线字体](https://zh.wikipedia.org/wiki/Category:无衬线字体 "wikilink")

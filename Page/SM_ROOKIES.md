@@ -225,10 +225,10 @@ BackgroundColors = bars:bars
 
 ### OST
 
-| 發布日期       | 電視台                                                   | 電視劇                                              | 參與練習生 | 曲名                                        |
-| ---------- | ----------------------------------------------------- | ------------------------------------------------ | ----- | ----------------------------------------- |
-| 2014年3月20日 | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | [MiMi](../Page/MiMi.md "wikilink")               | Wendy | Because I Love You (슬픔 속에 그댈 지워야만 해)\[5\] |
-| 2016年1月27日 | [KBS](../Page/韓國放送公社.md "wikilink")                   | [生意之神－客主2015](../Page/生意之神－客主2015.md "wikilink") | 泰一    | Because Of You (단 한 사람)                   |
+| 發布日期       | 電視台                                 | 電視劇                                              | 參與練習生 | 曲名                                        |
+| ---------- | ----------------------------------- | ------------------------------------------------ | ----- | ----------------------------------------- |
+| 2014年3月20日 | [Mnet](../Page/Mnet.md "wikilink")  | [MiMi](../Page/MiMi.md "wikilink")               | Wendy | Because I Love You (슬픔 속에 그댈 지워야만 해)\[5\] |
+| 2016年1月27日 | [KBS](../Page/韓國放送公社.md "wikilink") | [生意之神－客主2015](../Page/生意之神－客主2015.md "wikilink") | 泰一    | Because Of You (단 한 사람)                   |
 
 ### 参与歌曲
 
@@ -354,12 +354,12 @@ BackgroundColors = bars:bars
 
 ### 固定節目
 
-| 播出年份           | 電視台                                                   | 節目名稱                                                    | 參與練習生                                     |
-| -------------- | ----------------------------------------------------- | ------------------------------------------------------- | ----------------------------------------- |
-| 2014年          | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | EXO 90:2014                                             | 韓率、Johnny、泰容、悠太、Ten、在玹、Mark、Jeno、東赫、渽民、志晟 |
-| 2015年          | [JTBC](../Page/JTBC.md "wikilink")                    | [非首腦會談](https://zh.wikipedia.org/wiki/非首脑会谈 "wikilink") | 悠太                                        |
-| Disney Channel | The Mickey Mouse Club                                 | 高恩、Mark、Hina、Jeno、東赫、渽民、志晟、Herin、Lami                   |                                           |
-| 2016年          | [優酷](https://zh.wikipedia.org/wiki/优酷网 "wikilink")    | [My SMT](../Page/My_SMT.md "wikilink")                  | Johnny、藝洋、高恩、Hina、寧寧                      |
+| 播出年份           | 電視台                                                | 節目名稱                                                    | 參與練習生                                     |
+| -------------- | -------------------------------------------------- | ------------------------------------------------------- | ----------------------------------------- |
+| 2014年          | [Mnet](../Page/Mnet.md "wikilink")                 | EXO 90:2014                                             | 韓率、Johnny、泰容、悠太、Ten、在玹、Mark、Jeno、東赫、渽民、志晟 |
+| 2015年          | [JTBC](../Page/JTBC.md "wikilink")                 | [非首腦會談](https://zh.wikipedia.org/wiki/非首脑会谈 "wikilink") | 悠太                                        |
+| Disney Channel | The Mickey Mouse Club                              | 高恩、Mark、Hina、Jeno、東赫、渽民、志晟、Herin、Lami                   |                                           |
+| 2016年          | [優酷](https://zh.wikipedia.org/wiki/优酷网 "wikilink") | [My SMT](../Page/My_SMT.md "wikilink")                  | Johnny、藝洋、高恩、Hina、寧寧                      |
 
 影片請看：[EXO 902014 MV](https://www.youtube.com/playlist?list=PLodoZuJm1S5i4nHwwka91UITIgxRVOH6N)
 

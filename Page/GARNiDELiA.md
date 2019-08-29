@@ -516,20 +516,21 @@ CD</p></td>
 
 ## 音樂合作
 
-| 樂曲                    | 音樂合作一覽                                                                                                       | 時期    |
-| --------------------- | ------------------------------------------------------------------------------------------------------------ | ----- |
-| **ambiguous**         | [電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")『[KILL la KILL](../Page/KILL_la_KILL.md "wikilink")』片頭曲 | 2014年 |
-| **grilletto**         | 電視動畫『[魔法科高中的劣等生](https://zh.wikipedia.org/wiki/魔法科高中的劣等生 "wikilink")』片頭曲                                     |       |
-| **BLAZING**           | 電視動畫『[GUNDAM G之復國運動](https://zh.wikipedia.org/wiki/GUNDAM_G之復國運動 "wikilink")』片頭曲                             |       |
-| **MIRAI**             | 電視動畫『[雙槍激鬥](../Page/雙槍激鬥.md "wikilink")』片尾曲                                                                  | 2015年 |
-| **Burning Soul**      | PC遊戲『靈魂行者（ソウルワーカー）』主題曲                                                                                       | 2016年 |
-| **約束 -Promise code-** | 電視動畫『[Qualidea Code](../Page/Qualidea_Code.md "wikilink")』第二、第三片尾曲                                           |       |
-| **clever**            |                                                                                                              |       |
-| **SPEED STAR**        | 劇場版『[魔法科高中的劣等生 呼喚繁星的少女](https://zh.wikipedia.org/wiki/魔法科高中的劣等生 "wikilink")』主題曲                              | 2017年 |
-| **Désir**             | 電視動畫『[Fate/Apocrypha](https://zh.wikipedia.org/wiki/Fate/Apocrypha "wikilink")』片尾曲                           |       |
-| **アイコトバ**             | 電視動畫『[動畫同好會](https://zh.wikipedia.org/wiki/動畫同好會 "wikilink")』片頭曲                                             |       |
-| **Error**             | 電視動畫『[沒有心跳的少女 BEATLESS](../Page/沒有心跳的少女_BEATLESS.md "wikilink")』片頭曲                                          | 2018年 |
-| **REBEL FLAG**        | 電視動畫『[魔法少女特殊戰明日香](../Page/魔法少女特殊戰明日香.md "wikilink")』片尾曲                                                      | 2019年 |
+| 樂曲                    | 音樂合作一覽                                                                                       | 時期    |
+| --------------------- | -------------------------------------------------------------------------------------------- | ----- |
+| **Daze**              | [電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")『[陽炎計劃](../Page/陽炎計劃.md "wikilink")』片頭曲 | 2014年 |
+| **ambiguous**         | 電視動畫『[KILL la KILL](../Page/KILL_la_KILL.md "wikilink")』片頭曲                                  |       |
+| **grilletto**         | 電視動畫『[魔法科高中的劣等生](https://zh.wikipedia.org/wiki/魔法科高中的劣等生 "wikilink")』片頭曲                     |       |
+| **BLAZING**           | 電視動畫『[GUNDAM G之復國運動](https://zh.wikipedia.org/wiki/GUNDAM_G之復國運動 "wikilink")』片頭曲             |       |
+| **MIRAI**             | 電視動畫『[雙槍激鬥](../Page/雙槍激鬥.md "wikilink")』片尾曲                                                  | 2015年 |
+| **Burning Soul**      | PC遊戲『靈魂行者（ソウルワーカー）』主題曲                                                                       | 2016年 |
+| **約束 -Promise code-** | 電視動畫『[Qualidea Code](../Page/Qualidea_Code.md "wikilink")』第二、第三片尾曲                           |       |
+| **clever**            |                                                                                              |       |
+| **SPEED STAR**        | 劇場版『[魔法科高中的劣等生 呼喚繁星的少女](https://zh.wikipedia.org/wiki/魔法科高中的劣等生 "wikilink")』主題曲              | 2017年 |
+| **Désir**             | 電視動畫『[Fate/Apocrypha](https://zh.wikipedia.org/wiki/Fate/Apocrypha "wikilink")』片尾曲           |       |
+| **アイコトバ**             | 電視動畫『[動畫同好會](https://zh.wikipedia.org/wiki/動畫同好會 "wikilink")』片頭曲                             |       |
+| **Error**             | 電視動畫『[沒有心跳的少女 BEATLESS](../Page/沒有心跳的少女_BEATLESS.md "wikilink")』片頭曲                          | 2018年 |
+| **REBEL FLAG**        | 電視動畫『[魔法少女特殊戰明日香](../Page/魔法少女特殊戰明日香.md "wikilink")』片尾曲                                      | 2019年 |
 
 ## 注釋
 

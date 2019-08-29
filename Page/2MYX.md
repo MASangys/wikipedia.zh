@@ -2,7 +2,7 @@
 
 ## 發行過程
 
-在正式發行專輯前A-JAX先以張貼著具有刺激性標語的海報在江南、弘大、汝矣島、蠶室等首爾全市內進行宣傳\[1\]。其後通過其官方CAFE在2012年11月12日宣布於11月15日時隔6個月回歸韓國發行名為《2MYX》的首張迷你專輯，並以同名主打歌曲“2MYX”化身90年代末懷舊感的組合，顯現A-JAX不同以往的成長。於發行當日演出[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")「[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")」首場的回歸舞台後展開一連串的宣傳行程，同日公開線上音源\[2\]。11月19日實體專輯於各大販售通路上架。
+在正式發行專輯前A-JAX先以張貼著具有刺激性標語的海報在江南、弘大、汝矣島、蠶室等首爾全市內進行宣傳\[1\]。其後通過其官方CAFE在2012年11月12日宣布於11月15日時隔6個月回歸韓國發行名為《2MYX》的首張迷你專輯，並以同名主打歌曲“2MYX”化身90年代末懷舊感的組合，顯現A-JAX不同以往的成長。於發行當日演出[Mnet](../Page/Mnet.md "wikilink")「[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")」首場的回歸舞台後展開一連串的宣傳行程，同日公開線上音源\[2\]。11月19日實體專輯於各大販售通路上架。
 
 ## 音樂錄影帶
 
@@ -39,7 +39,7 @@
 > —《2MYX》歌詞摘錄
 
   -
-    <small>中譯歌名為[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")-[2MYX](http://global.mnet.com/album/album.m?searchAlbumVO.album_id=272744)提供。</small>
+    <small>中譯歌名為[Mnet](../Page/Mnet.md "wikilink")-[2MYX](http://global.mnet.com/album/album.m?searchAlbumVO.album_id=272744)提供。</small>
 
 <!-- end list -->
 
@@ -101,12 +101,12 @@
 | ----------- | ------------------------------------------------------------- | ------------------------------------------------------------------------- | ---------------- |
 | 日期          | 頻道                                                            | 名稱                                                                        | 備註               |
 | 2MYX        |                                                               |                                                                           |                  |
-| 2012年11月15日 | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")         | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")    | 首場回歸舞台           |
+| 2012年11月15日 | [Mnet](../Page/Mnet.md "wikilink")                            | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")    | 首場回歸舞台           |
 | 2012年11月16日 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")           | [音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")                     |                  |
 | 2012年11月17日 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")           | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")        | 外景舞台             |
 | 2012年11月18日 | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")           | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                     |                  |
 | 2012年11月20日 | [MBC MUSIC](https://zh.wikipedia.org/wiki/MBC "wikilink")     | [Show Champion](../Page/Show_Champion.md "wikilink")                      | 錄影日期：11月20日      |
-| 2012年11月21日 | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")         | [Music Triangle](https://zh.wikipedia.org/wiki/Music_Triangle "wikilink") |                  |
+| 2012年11月21日 | [Mnet](../Page/Mnet.md "wikilink")                            | [Music Triangle](https://zh.wikipedia.org/wiki/Music_Triangle "wikilink") |                  |
 | 2012年11月22日 | [ChannelA](https://zh.wikipedia.org/wiki/ChannelA "wikilink") | OpenStudio                                                                |                  |
 | 2012年11月23日 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")           | [音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")                     |                  |
 | 2012年11月24日 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")           | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")        |                  |
@@ -114,7 +114,7 @@
 | 2012年12月1日  | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")           | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")        |                  |
 | 2012年12月2日  | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")           | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                     |                  |
 | 2012年12月9日  | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")           | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                     |                  |
-| 2012年12月11日 | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")         | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")    |                  |
+| 2012年12月11日 | [Mnet](../Page/Mnet.md "wikilink")                            | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")    |                  |
 | 2012年12月12日 | Arirang TV                                                    | Simply K-Pop\[5\]                                                         | 錄影日期：12月5日       |
 | 2012年12月14日 | [SBS MTV](https://zh.wikipedia.org/wiki/SBS "wikilink")       | THE SHOW                                                                  | 錄影日期：12月10日      |
 | 2012年12月16日 | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")           | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                     |                  |

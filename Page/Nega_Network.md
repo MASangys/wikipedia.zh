@@ -98,7 +98,7 @@ NEGANETWORK 於2003年1月由 韓國知名歌手兼製作人尹日尚, LANCE, Yo
 <td><p>2013</p></td>
 <td><p><a href="../Page/LC9.md" title="wikilink">LC9</a></p></td>
 <td><p>男</p></td>
-<td><p>6人 (<a href="https://zh.wikipedia.org/wiki/J-HYO" title="wikilink">J-HYO</a>, <a href="https://zh.wikipedia.org/wiki/RASA" title="wikilink">RASA</a>, <a href="https://zh.wikipedia.org/wiki/King" title="wikilink">King</a>, <a href="https://zh.wikipedia.org/wiki/JUN" title="wikilink">JUN</a>, <a href="https://zh.wikipedia.org/wiki/E.DEN" title="wikilink">E.DEN</a>, <a href="https://zh.wikipedia.org/wiki/AO" title="wikilink">AO</a>)</p></td>
+<td><p>6人 (<a href="https://zh.wikipedia.org/wiki/J-HYO" title="wikilink">J-HYO</a>, <a href="https://zh.wikipedia.org/wiki/RASA" title="wikilink">RASA</a>, <a href="https://zh.wikipedia.org/wiki/King" title="wikilink">King</a>, <a href="https://zh.wikipedia.org/wiki/JUN" title="wikilink">JUN</a>, <a href="https://zh.wikipedia.org/wiki/E.DEN" title="wikilink">E.DEN</a>, <a href="../Page/姜賢秀.md" title="wikilink">AO</a>)</p></td>
 <td><p>解散</p></td>
 </tr>
 <tr class="even">

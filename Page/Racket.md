@@ -4,6 +4,8 @@ Racket有一個實作平台，包含了執行環境、函数庫、即時編譯�
 
 Racket平台的發行版本是免費且開放原始碼的，以[GNU宽通用公共许可证](../Page/GNU宽通用公共许可证.md "wikilink")授權發行，所有由社群所編寫的擴充功能和套件都會被上傳到 PLaneT(一個網頁套件發佈系統)。
 
+基於 Racket 實現的 Scribble 可以用來構建 HTML 或 PDF（依賴 [LaTeX](https://zh.wikipedia.org/wiki/LaTeX "wikilink")），官方文檔就是基於這個語言來生成的。
+
 ## 开发原则
 
 Racket的开发基于以下原则：\[4\]

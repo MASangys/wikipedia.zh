@@ -62,7 +62,7 @@
   - [Accuphase](http://www.accuphase.com/)
   - [大昌影音](http://www.dchav.com.cn/)
 
-[Category:家用電器品牌](https://zh.wikipedia.org/wiki/Category:家用電器品牌 "wikilink") [Category:日本品牌](https://zh.wikipedia.org/wiki/Category:日本品牌 "wikilink") [Category:1972年成立的公司](https://zh.wikipedia.org/wiki/Category:1972年成立的公司 "wikilink") [Category:青葉區_(橫濱市)](https://zh.wikipedia.org/wiki/Category:青葉區_\(橫濱市\) "wikilink") [Category:神奈川縣公司](https://zh.wikipedia.org/wiki/Category:神奈川縣公司 "wikilink") [Category:日本電子公司](https://zh.wikipedia.org/wiki/Category:日本電子公司 "wikilink") [Category:音频器材生产商](https://zh.wikipedia.org/wiki/Category:音频器材生产商 "wikilink") [Category:日本音樂公司](https://zh.wikipedia.org/wiki/Category:日本音樂公司 "wikilink")
+[Category:家用電器品牌](https://zh.wikipedia.org/wiki/Category:家用電器品牌 "wikilink") [Category:日本品牌](https://zh.wikipedia.org/wiki/Category:日本品牌 "wikilink") [Category:1972年成立的公司](https://zh.wikipedia.org/wiki/Category:1972年成立的公司 "wikilink") [Category:青葉區_(橫濱市)](https://zh.wikipedia.org/wiki/Category:青葉區_\(橫濱市\) "wikilink") [Category:橫濱市公司](https://zh.wikipedia.org/wiki/Category:橫濱市公司 "wikilink") [Category:日本電子公司](https://zh.wikipedia.org/wiki/Category:日本電子公司 "wikilink") [Category:音频器材生产商](https://zh.wikipedia.org/wiki/Category:音频器材生产商 "wikilink") [Category:日本音樂公司](https://zh.wikipedia.org/wiki/Category:日本音樂公司 "wikilink")
 
 1.  在中國大陸[注册号/申请号：511583](http://sbcx.saic.gov.cn/trade/servlet?Search=TI_REG&RegNO=511583&IntCls=9&iYeCode=76) 以「阿科菲斯」、台灣[註冊/審定號：00073303](http://tmsearch.tipo.gov.tw/RAVS/wfm20103.jsp?cboTMarkClass=T&txtExamNO=00073303&Applno=063016276)採「阿奇尤菲斯」名義註冊商標。
 2.  [早年岁月——Accuphase创始人春日二郎自述](http://www.mbmcn.com/tz.asp?a=&ID=&tzID=748) . 原出處：[《现代音响技术》2009年第6期](http://www.wpcsh.com.cn/xdyx/xdyx0906.htm) .

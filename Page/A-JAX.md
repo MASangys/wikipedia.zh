@@ -29,7 +29,7 @@
 
 #### 後續曲夏日風情的《HOT GAME》
 
-[A-jax_SC20120709.png](https://zh.wikipedia.org/wiki/File:A-jax_SC20120709.png "fig:A-jax_SC20120709.png") 結束韓國第一張單曲〈ONE 4 U〉7月6日於音樂節目《The Show》的末場宣傳行程後，立即舉行後續曲《[HOT GAME](../Page/HOT_GAME.md "wikilink")》的宣傳活動－Wing Car計畫從7月7日的大邱開始，8日釜山、9日訪問大田，七位成員和印有A-JAX形象的大型Wing Car一起在大邱東城路、釜山西面等地進行游擊演出，表演出道主打歌曲〈ONE 4 U〉的舞台並率先公開新曲〈HOT GAME〉。此外準備特別舞台、拍照時間、迷你遊戲等多樣的活動，以及驚喜訪問附近初高中等\[27\]\[28\]<small>（活動地點詳見[HOT GAME\#活動](https://zh.wikipedia.org/wiki/HOT_GAME#活動 "wikilink")</small>）。7月10日11時公開官方MV，由同公司前輩[KARA成員](https://zh.wikipedia.org/wiki/KARA "wikilink")[妮可出演女主角](../Page/鄭龍珠.md "wikilink")，7月11日零時正式在各音源網站公開全曲音源\[29\]，由擔任出道單曲〈ONE 4 U〉及先行曲〈只知道你 Never let go〉的作曲家暨製作人STEVEN LEE打造而成，並於7月12日首先在[Mnet音樂節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》進行回歸舞台，當周發行Gaon數位音源排名第59位，統計銷售數5,075,196\[30\]。活動期間其官方CAFE於7月17日公告在7月13日至16日起四日內的投票後正式選出官方FAN CLUB名稱為「A-LIGHT（）」，涵義為閃亮的Supporters支持著閃耀的A-JAX。首次的FNAS簽名會則是於7月28日在首爾江南區水西青少年活動中心舉行\[31\]。而其日本環球官方網站於發行〈ONE 4 U〉日語五版本隔日(8月9日)宣布此單曲將於同年秋天發行實體日語版本\[32\]。之後為紀念出道100日於9月9日在首爾中區青少年活動中心舉行第二場的FNAS簽名會並於9月12日個別開通Twitter帳號與FANS零距離互動。9月22日與女團[Rainbow共同擔任於韓國青州藝術殿堂舉行的](https://zh.wikipedia.org/wiki/Rainbow "wikilink")《K-pop Cover Dance慶典》決賽評審\[33\]，相隔不到一周的時間其環球官方網站與日本官方網站即同步於同月28日宣布《HOT GAME》日語四版本將在10月31日實體發行且各別於11月3日神奈川、4日大阪兩地舉行握手會。此外，七名成員在10月11日當天進行運動休閒品牌〈Spris〉廣告拍攝\[34\]，另於同月22日共同出席於首爾龍山區戰爭紀念館所舉行的「Seoul Fashion Week S/S 2013」\[35\]。而於10月31日推出的日語版本在日發行當天即獲日本Oricon日間榜第23名的成績。
+[A-jax_SC20120709.png](https://zh.wikipedia.org/wiki/File:A-jax_SC20120709.png "fig:A-jax_SC20120709.png") 結束韓國第一張單曲〈ONE 4 U〉7月6日於音樂節目《The Show》的末場宣傳行程後，立即舉行後續曲《[HOT GAME](../Page/HOT_GAME.md "wikilink")》的宣傳活動－Wing Car計畫從7月7日的大邱開始，8日釜山、9日訪問大田，七位成員和印有A-JAX形象的大型Wing Car一起在大邱東城路、釜山西面等地進行游擊演出，表演出道主打歌曲〈ONE 4 U〉的舞台並率先公開新曲〈HOT GAME〉。此外準備特別舞台、拍照時間、迷你遊戲等多樣的活動，以及驚喜訪問附近初高中等\[27\]\[28\]<small>（活動地點詳見[HOT GAME\#活動](https://zh.wikipedia.org/wiki/HOT_GAME#活動 "wikilink")</small>）。7月10日11時公開官方MV，由同公司前輩[KARA成員](https://zh.wikipedia.org/wiki/KARA "wikilink")[妮可出演女主角](../Page/鄭龍珠.md "wikilink")，7月11日零時正式在各音源網站公開全曲音源\[29\]，由擔任出道單曲〈ONE 4 U〉及先行曲〈只知道你 Never let go〉的作曲家暨製作人STEVEN LEE打造而成，並於7月12日首先在[Mnet](../Page/Mnet.md "wikilink")音樂節目《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》進行回歸舞台，當周發行Gaon數位音源排名第59位，統計銷售數5,075,196\[30\]。活動期間其官方CAFE於7月17日公告在7月13日至16日起四日內的投票後正式選出官方FAN CLUB名稱為「A-LIGHT（）」，涵義為閃亮的Supporters支持著閃耀的A-JAX。首次的FNAS簽名會則是於7月28日在首爾江南區水西青少年活動中心舉行\[31\]。而其日本環球官方網站於發行〈ONE 4 U〉日語五版本隔日(8月9日)宣布此單曲將於同年秋天發行實體日語版本\[32\]。之後為紀念出道100日於9月9日在首爾中區青少年活動中心舉行第二場的FNAS簽名會並於9月12日個別開通Twitter帳號與FANS零距離互動。9月22日與女團[Rainbow共同擔任於韓國青州藝術殿堂舉行的](https://zh.wikipedia.org/wiki/Rainbow "wikilink")《K-pop Cover Dance慶典》決賽評審\[33\]，相隔不到一周的時間其環球官方網站與日本官方網站即同步於同月28日宣布《HOT GAME》日語四版本將在10月31日實體發行且各別於11月3日神奈川、4日大阪兩地舉行握手會。此外，七名成員在10月11日當天進行運動休閒品牌〈Spris〉廣告拍攝\[34\]，另於同月22日共同出席於首爾龍山區戰爭紀念館所舉行的「Seoul Fashion Week S/S 2013」\[35\]。而於10月31日推出的日語版本在日發行當天即獲日本Oricon日間榜第23名的成績。
 
 #### 應答〈Run Devil Run〉的《2MYX》
 
@@ -384,7 +384,7 @@ PlotData =
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>6月7日</p></td>
 </tr>
 <tr class="even">
@@ -419,7 +419,7 @@ PlotData =
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>6月7日</p></td>
 </tr>
 <tr class="odd">
@@ -444,7 +444,7 @@ PlotData =
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>7月12日、7月19日、8月2日、10月12日</p></td>
 </tr>
 <tr class="even">
@@ -484,7 +484,7 @@ PlotData =
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>11月15日、6月20日、6月27日、12月11日</p></td>
 </tr>
 <tr class="even">
@@ -519,7 +519,7 @@ PlotData =
 </tr>
 <tr class="even">
 <td><p>Music Triangle</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>11月21日</p></td>
 </tr>
 <tr class="odd">
@@ -544,7 +544,7 @@ PlotData =
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>7月11日、7月25日、8月28日</p></td>
 </tr>
 <tr class="even">
@@ -579,7 +579,7 @@ PlotData =
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>7月11日、7月25日、8月28日</p></td>
 </tr>
 <tr class="odd">

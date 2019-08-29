@@ -20,12 +20,15 @@
       - 　威脅！聆聽願望的仙人（《深秘錄》）
 
       - 奸佞邪智之鬼（《茨歌仙》）
+
+      - 山之仙人（《鬼形獸》）
     **登場**：
       - 《茨歌仙》主角
       - 《三月精.第三部》第十六、十七話
       - 《[深秘録](../Page/东方深秘录_～_Urban_Legend_in_Limbo..md "wikilink")》首次可用角色
       - 《[新香霖堂](../Page/東方香霖堂_～_Curiosities_of_Lotus_Asia..md "wikilink")》第二話
       - 《[憑依華](../Page/東方憑依華_～_Antinomy_of_Common_Flowers..md "wikilink")》可用角色
+      - 《[鬼形獸](../Page/東方鬼形獸_～_Wily_Beast_and_Weakest_Creature..md "wikilink")》結局
     **主題曲**： 華狹間的戰場（《深秘録》）
 
 <!-- end list -->

@@ -103,6 +103,10 @@
 
   - 2月2日，CBS公司宣布向公司出售，使其成为全美第二大[广播电台公司](https://zh.wikipedia.org/wiki/广播电台 "wikilink")。\[27\]
 
+### 2019年
+
+  - 8月13日[維亞康姆](../Page/維亞康姆.md "wikilink")和[CBS公司](../Page/CBS公司.md "wikilink")將透過一項117億美元的交易合併，合併後的新公司将命名為維亞康姆哥倫比亞廣播公司(ViacomCBS Inc)，[CBS公司](../Page/CBS公司.md "wikilink")股東將佔新公司61%權益，維亞康姆股東則持其餘39%，每持有一股維亞康姆股份將獲發0.59625股[CBS公司](../Page/CBS公司.md "wikilink")股份，新公司將由Shari Redstone擔任主席。維亞康姆執行長Bob Bakish將擔任新公司的首席執行長。
+
 ## 公司高管
 
 以下为CBS公司[董事会](../Page/董事会.md "wikilink")成员：

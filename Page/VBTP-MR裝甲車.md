@@ -17,12 +17,18 @@
 
 ## 使用國
 
-[VBTP-MR_operators.png](https://zh.wikipedia.org/wiki/File:VBTP-MR_operators.png "fig:VBTP-MR_operators.png") [O_blindado_Guarani_foi_desenvolvido_para_substituir_os_antigos_Cascavel_e_Urutu_(14464906144).jpg](https://zh.wikipedia.org/wiki/File:O_blindado_Guarani_foi_desenvolvido_para_substituir_os_antigos_Cascavel_e_Urutu_\(14464906144\).jpg "fig:O_blindado_Guarani_foi_desenvolvido_para_substituir_os_antigos_Cascavel_e_Urutu_(14464906144).jpg")
+[O_blindado_Guarani_foi_desenvolvido_para_substituir_os_antigos_Cascavel_e_Urutu_(14464906144).jpg](https://zh.wikipedia.org/wiki/File:O_blindado_Guarani_foi_desenvolvido_para_substituir_os_antigos_Cascavel_e_Urutu_\(14464906144\).jpg "fig:O_blindado_Guarani_foi_desenvolvido_para_substituir_os_antigos_Cascavel_e_Urutu_(14464906144).jpg")
 
-  -   - [黎巴嫩陸軍](https://zh.wikipedia.org/wiki/黎巴嫩陸軍 "wikilink") - 10輛 (訂購) \[1\]
+  -
+:\* ：450+\[1\]\[2\]，2012年12月交付\[3\]，2012年12月訂購86輛，預計總共訂購2044輛\[4\]。
 
-  -   - [巴西陸軍](https://zh.wikipedia.org/wiki/巴西陸軍 "wikilink"): 250+,\[2\]
-      - [巴西海軍陸戰隊](../Page/巴西海軍陸戰隊.md "wikilink") - 24輛
+:\* [巴西海軍陸戰隊](../Page/巴西海軍陸戰隊.md "wikilink")：24輛
+
+  -
+:\* ：14輛，部署在[海地](../Page/海地.md "wikilink")\[5\]。
+
+  -
+:\* ：訂購10輛\[6\]\[7\]。
 
 ## 資料來源
 
@@ -36,4 +42,14 @@
 [Category:步兵战车](https://zh.wikipedia.org/wiki/Category:步兵战车 "wikilink") [Category:裝甲偵察車](https://zh.wikipedia.org/wiki/Category:裝甲偵察車 "wikilink")
 
 1.
+
 2.
+
+3.
+4.  [IVECO delivers first batch of VBTP-MR vehicles to the Brazilian Army](http://www.armyrecognition.com/december_2012_new_army_military_defence_industry/iveco_delivered_the_first_batch_of_vbtp-mr_guarani_armoured_vehicle_to_brazilian_army_1612121.html)  - Armyrecognition.com, December 16, 2012
+
+5.
+
+6.
+
+7.

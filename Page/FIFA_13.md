@@ -402,7 +402,7 @@ FIFA 13中共包含69座球场，其中包括两座新添加的真实球场：[�
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/梅斯塔利亚球场" title="wikilink">梅斯塔利亚球场</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/巴伦西亚足球俱乐部" title="wikilink">巴伦西亚</a></p></td>
+<td><p><a href="../Page/巴伦西亚足球俱乐部.md" title="wikilink">巴伦西亚</a></p></td>
 <td></td>
 </tr>
 </tbody>

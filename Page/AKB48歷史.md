@@ -1,4 +1,4 @@
-**[AKB48](../Page/AKB48.md "wikilink")**是一個在2005年時在[日本](../Page/日本.md "wikilink")[製作人](https://zh.wikipedia.org/wiki/製作人 "wikilink")[秋元康](../Page/秋元康.md "wikilink")的企畫之下所組成女子[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")，在歷經了幾年的努力後，發展成一個無論是在作品銷售量、媒體曝光率或知名度上，都在日本國內甚至全球各地市場佔有一席之地的賣座團體。
+**[AKB48](../Page/AKB48.md "wikilink")**是在[日本](../Page/日本.md "wikilink")[製作人](https://zh.wikipedia.org/wiki/製作人 "wikilink")[秋元康](../Page/秋元康.md "wikilink")的企畫之下於2005年組成的女子[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")，在歷經了幾年的努力後，發展成一個無論是在作品銷售量、媒體曝光率或知名度上，都在日本國內甚至全球各地市場佔有一席之地的賣座演藝團體。
 
 本文主要收錄與AKB48相關的歷史資訊，以年表的方式按照發生時間先後記載。收錄的內容除了AKB48團體內的發展歷史之外，也涵蓋部分與AKB48相關、發生於AKB48及其衍生團體或姊妹團體之間的跨團體資訊。
 
@@ -119,12 +119,13 @@
   - 2月17日，第15張單曲《[櫻花印記](../Page/櫻花印記.md "wikilink")》發行，打破了女性藝人的初動銷量突破30萬張長達7年的紀錄\[29\]。
   - 2月21日－7月27日，進行組閣（Team洗牌）。
   - 4月7日，更換唱片公司後的第1張精選輯《[神曲集](../Page/神曲集.md "wikilink")》發行，獲週榜和月榜銷量第1位。同時也是AKB48出道5年來第一張取得首位的專輯，首週銷量29.5萬張打破了女子組合榜單自[早安少女組。](../Page/早安少女組。.md "wikilink")第4張專輯《一起走吧！》\[30\] 以來，長達8年無專輯初動銷量超過25萬張的局面\[31\]。
+  - 4月9日，在[日本放送](../Page/日本放送.md "wikilink")的冠名廣播節目《》開始播出。
   - 5月26日，第16張單曲《[馬尾與髮圈](../Page/馬尾與髮圈.md "wikilink")》發行，打破了女子組合銷售50萬張唱片長達9年5個月的紀錄\[32\]。
   - 5月－6月，[AKB48第17張單曲選拔總選舉「向母親發誓，這是真的」](../Page/AKB48第17張單曲選拔總選舉「向母親發誓，這是真的」.md "wikilink")（第2次單曲選拔總選舉）召開，[大島優子](../Page/大島優子.md "wikilink")首次獲得第1名（中心）。
   - 8月18日，第17張單曲《[無限重播](../Page/無限重播.md "wikilink")》發行，達成連續兩次女子組合銷售50萬張唱片的記錄，在2010年8月25日發表的[RecoChoku](../Page/RecoChoku.md "wikilink")週榜中，[短信鈴聲](https://zh.wikipedia.org/wiki/短信鈴聲 "wikilink")、、[音樂影片](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")、手機視頻和[电话铃声](https://zh.wikipedia.org/wiki/电话铃声 "wikilink")5個項目週榜皆獲首位。
   - 9月21日，[AKB48第19張單曲選拔猜拳大會在日本武道館召開](https://zh.wikipedia.org/wiki/AKB48第19張單曲選拔猜拳大會 "wikilink")，[內田真由美](../Page/內田真由美.md "wikilink")首次獲得冠軍。此後「」成為AKB48及其姊妹團體每年定例舉行的活動之一。
   - 10月1日，AKB48唯一授權開設的國際中文官方網站正式上線並啓動試運營\[33\]。
-  - 10月15日，在《》中，秋元才加表示，因一連串騷動辭去Team K隊長職位，之後Team K隊長一職從缺。
+  - 10月15日，在《AKB48的 All Night Nippon》中，秋元才加表示，因一連串騷動辭去Team K隊長職位，之後Team K隊長一職從缺。
   - 10月20日，AKB48第一間授權開設的官方公式海外商店，於[香港](../Page/香港.md "wikilink")[西九龍中心](../Page/西九龍中心.md "wikilink")正式啓動開業營運\[34\]。
   - 10月27日，第18張單曲《[Beginner](../Page/Beginner_\(AKB48單曲\).md "wikilink")》發行，組合唱片銷量首次突破百萬。日本女性藝人榜單連續5張唱片第1位，單曲年榜第1位，這是21世紀以來單曲的最高初回銷售額。
   - 11月16日，在[澳門](../Page/澳門.md "wikilink")[金沙酒店金沙演奏廳舉行演唱會](https://zh.wikipedia.org/wiki/金沙酒店 "wikilink")。
@@ -423,106 +424,32 @@
 [AKB48_Tokyo_Dome_2.jpg](https://zh.wikipedia.org/wiki/File:AKB48_Tokyo_Dome_2.jpg "fig:AKB48_Tokyo_Dome_2.jpg")舉行的「[AKB48 2013盛夏的巨蛋巡迴〜還有許多 不得不做的事情〜](https://zh.wikipedia.org/wiki/AKB48_2013盛夏的巨蛋巡迴〜還有許多_不得不做的事情〜 "wikilink")」演唱會\]\]
 
   - 1月1日，AKB48劇場公演曲錄音室专辑“studio recordings collecting”全20種發售\[82\]\[83\]。
-
-<!-- end list -->
-
   - 1月3日，「AKB48 OFFICIAL SHOP HARAJUKU」關閉\[84\]。
-
-<!-- end list -->
-
   - 1月25日，在[AKB48 重温时间 最佳曲目100 2013第二天中宣布](https://zh.wikipedia.org/wiki/AKB48_重温时间_最佳曲目100_2013 "wikilink")，当时的SKE48劇場支配人湯浅洋成为AKB48劇場新經理、当时的AKB48劇場支配人户賀崎智信成为AKB48Group總經理，并对这次的人事变动进行信任投票。
-
-<!-- end list -->
-
   - 1月27日，在[AKB48 重温时间 最佳曲目100 2013第四天中公布了上述信任投票的结果](https://zh.wikipedia.org/wiki/AKB48_重温时间_最佳曲目100_2013 "wikilink")、对于湯浅洋担任AKB48劇場支配人是不信任的结果、由此而来的是AKB48劇場支配人由担任AKB48Group总支配人的户賀崎智信兼任、而湯浅则成为户賀崎之下的支配人研究生。同时公布了将于6月在[横浜市的](https://zh.wikipedia.org/wiki/横浜市 "wikilink")[日产Stadium举办](https://zh.wikipedia.org/wiki/横滨国际综合竞技场 "wikilink")“[AKB48超级嘉年华 〜 日产体育场 好小！才不小！ 〜](https://zh.wikipedia.org/wiki/AKB48超级嘉年华_〜_日产体育场_好小！才不小！_〜 "wikilink")”。
-
-<!-- end list -->
-
   - 2月1日，由[高橋榮樹](../Page/高橋榮樹.md "wikilink")導演的AKB48第三部[紀錄電影](https://zh.wikipedia.org/wiki/紀錄電影 "wikilink")《[AKB48 笑淚交織](../Page/AKB48_笑淚交織.md "wikilink")》（）進行首映。[板野友美](../Page/板野友美.md "wikilink")於電影訪問中透露將在2013年內畢業離隊，並在首映會末尾上台表明畢業心聲，使不少在場歌迷痛哭\[85\]。
-
-<!-- end list -->
-
   - 2月20日，第30張單曲《[So long \!](https://zh.wikipedia.org/wiki/So_long_! "wikilink")》發售。
-
-<!-- end list -->
-
   - 3月27日，公布了第32张单曲选拔总选举最终结果的发表，暨开票仪式将在2012年6月8日于神奈川县横浜市・日产Stadium举办的“AKB48超级嘉年华 〜 日产体育场 好小！才不小！ 〜”的第二部分中举行。
-
-<!-- end list -->
-
   - 4月，与[朝日新聞](../Page/朝日新聞.md "wikilink")的合作“AKB的人生論　对大人们所说的话”（）連載開始。每次的作者在组合内轮换。每周五刊登。
-
-<!-- end list -->
-
   - 4月10日，发表了与[全日本空輸](../Page/全日本空輸.md "wikilink") (ANA) 的合作项目《Challenge for ASIA by ANA × AKB48》开始的消息\[86\]\[87\]。
-
-<!-- end list -->
-
   - 4月25日 - 28日，“[AKB48团临时总会～黑白分明！～](https://zh.wikipedia.org/wiki/AKB48团临时总会～黑白分明！～ "wikilink")”在日本武道馆举行、AKB48在27日夜单独出演、在28日由48Group总出演时出演一部分\[88\]。
-
-<!-- end list -->
-
   - 5月22日，第31張單曲《[再見自由式](../Page/再見自由式.md "wikilink")》（）正式發行，並創下230萬張的最高出貨量紀錄\[89\]。發行當日結算銷售145萬881張，除了是當日的排行冠軍外，也順利超越AKB48自身的發行首日銷售紀錄、《仲夏的Sounds good\!》的1,170,554張。
-
-<!-- end list -->
-
   - 6月5日，在日本武道馆举行“[AKB48团研究生演唱会“早推得胜”](../Page/AKB48团研究生演唱会“早推得胜”.md "wikilink")。
-
-<!-- end list -->
-
-  - 6月8日，在日产Stadium举办「[AKB48超级嘉年华 〜 日产体育场 好小！才不小！ 〜](https://zh.wikipedia.org/wiki/AKB48超级嘉年华_〜_日产体育场_好小！才不小！_〜 "wikilink")」及「[AKB48第32張單曲選拔總選舉](https://zh.wikipedia.org/wiki/AKB48第32張單曲選拔總選舉 "wikilink")」，隸屬於HKT48的指原莉乃以150,570票奪得冠軍。
-
-<!-- end list -->
-
+  - 6月8日，在[日產體育場举办](../Page/橫濱國際綜合競技場.md "wikilink")「[AKB48超级嘉年华 〜 日产体育场 好小！才不小！ 〜](https://zh.wikipedia.org/wiki/AKB48超级嘉年华_〜_日产体育场_好小！才不小！_〜 "wikilink")」及「[AKB48第32張單曲選拔總選舉](https://zh.wikipedia.org/wiki/AKB48第32張單曲選拔總選舉 "wikilink")」，隸屬於HKT48的指原莉乃以150,570票奪得冠軍。
   - 7月 - 8月，在[福冈县](../Page/福冈县.md "wikilink")的[福冈巨蛋](https://zh.wikipedia.org/wiki/福冈巨蛋 "wikilink")、[北海道](../Page/北海道.md "wikilink")的[札幌巨蛋](../Page/札幌巨蛋.md "wikilink")、[大阪府的](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[大阪巨蛋](../Page/大阪巨蛋.md "wikilink")、[爱知县的](https://zh.wikipedia.org/wiki/爱知县 "wikilink")[名古屋巨蛋](../Page/名古屋巨蛋.md "wikilink")及东京巨蛋举行了名为“AKB48 2013盛夏的巨蛋巡回〜还有许多 不得不做的事情〜”（）的巨蛋巡回演唱会。其中於7月21日的福岡雅虎巨蛋演唱會中，即將從AKB48畢業的[篠田麻里子](../Page/篠田麻里子.md "wikilink")指名[橫山由依](../Page/橫山由依.md "wikilink")繼任為Team A新任隊長\[90\]。
-
-<!-- end list -->
-
   - 8月8日，在上述巡演的大阪场公演中宣布将于11月10日在举行“AKB48集團选秀会议”（）\[91\]。
   - 8月21日，第32張單曲《[戀愛的幸運餅乾](../Page/戀愛的幸運餅乾.md "wikilink")》（）發行。
-
-<!-- end list -->
-
   - 8月24日，当日新升格的16名研究生重新组成了曾一度废止的Team 4。队长一职由峯岸南担任。湯浅洋也正式升格为AKB48劇場經理\[92\]\[93\]。
-
-<!-- end list -->
-
-  - 9月12日、《[AKB 1/149 恋爱总选举](https://zh.wikipedia.org/wiki/AKB_1/149_恋爱总选举 "wikilink")》的[PlayStation 3版本发行](../Page/PlayStation_3.md "wikilink")。
-
-<!-- end list -->
-
+  - 9月12日，《[AKB 1/149 恋爱总选举](https://zh.wikipedia.org/wiki/AKB_1/149_恋爱总选举 "wikilink")》的[PlayStation 3版本发行](../Page/PlayStation_3.md "wikilink")。
   - 9月18日，[AKB48第34張單曲選拔猜拳大會](../Page/AKB48第34張單曲選拔猜拳大會.md "wikilink")在日本武道館舉行，最终松井珠理奈取得了第一名。
-
-<!-- end list -->
-
+  - 10月5日，在[NHK的冠名電視節目](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")《[AKB48 SHOW\!](../Page/AKB48_SHOW!.md "wikilink")》開始播出。
   - 10月30日，第33張單曲《[真心電流](../Page/真心電流.md "wikilink")》（）發行。
-
-<!-- end list -->
-
   - 11月9日、youtube内AKB48 Official Channel公开的视频中，宣布了将于2014年1月起实行类似职棒联盟的制度，将各个队伍的公演门票抽选倍率作为比较的对象，同时也将开始导入“成员养成制度”，即在次日选秀大会上交涉成功的候补生可以由各队队长决定培养方案\[94\]。
-
-<!-- end list -->
-
   - 11月10日，在新高轮王子酒店举行了“”。
-
-<!-- end list -->
-
   - 11月21日，《[戀愛的幸運餅乾](../Page/戀愛的幸運餅乾.md "wikilink")》进入了第55届[日本唱片大獎](../Page/日本唱片大獎.md "wikilink")的候补名单\[95\]。
-
-<!-- end list -->
-
   - 11月25日，由NHK发表了组合将作为红组的一员连续五年第六次出演[第64回NHK紅白歌合戰](../Page/第64回NHK紅白歌合戰.md "wikilink")。
-
-<!-- end list -->
-
   - 12月11日，第34張單曲《[倘若在梧桐樹的路上對你說「我夢見了你的微笑」之後我們的關係會有什麼樣的變化呢﹑我兀自持續想了好多天最後有點難為情地得到了一個結論](https://zh.wikipedia.org/wiki/倘若在梧桐樹的路上對你說「我夢見了你的微笑」之後我們的關係會有什麼樣的變化呢﹑我兀自持續想了好多天最後有點難為情地得到了一個結論 "wikilink")》（）發行。
-
-<!-- end list -->
-
   - 12月17日，於[東京巨蛋城表演廳舉辦](../Page/MEETS_PORT.md "wikilink")「[第3屆AKB48紅白對抗歌合戰](https://zh.wikipedia.org/wiki/第3屆AKB48紅白對抗歌合戰 "wikilink")」\[96\]。
-
-<!-- end list -->
-
   - 12月31日，參加第64回NHK紅白歌合戰，其中[大島優子](../Page/大島優子.md "wikilink")於節目中宣布於AKB48畢業\[97\]。
 
 ## 2014年
@@ -592,7 +519,7 @@
   - 1月21-22日，於[東京巨蛋城表演廳舉行](https://zh.wikipedia.org/wiki/東京巨蛋城表演廳 "wikilink")《AKB48集團 重溫時間 最佳曲目 100 2017》演唱會。
   - 3月15日，發行第47張單曲《[Shoot Sign](../Page/Shoot_Sign.md "wikilink")》。
   - 4月17日，發布工作人員的人事異動，廢除AKB48集團總管理人一職，原AKB48集團管理人[茅野忍](../Page/茅野忍.md "wikilink")兼任的AKB48劇場經理一职，由[細井孝宏出任](https://zh.wikipedia.org/wiki/細井孝宏 "wikilink")，而茅野則專任AKB48集團服裝部總負責人與創意總監\[158\]。
-  - 5月31日，發行第48張單曲《[空有願望](../Page/空有願望.md "wikilink")》，此單曲亦是該年度的中「初中組」的必選曲目\[159\]。
+  - 5月31日，發行第48張單曲《[空有願望](../Page/空有願望.md "wikilink")》，此單曲亦是該年度的[初中組的必選曲目](https://zh.wikipedia.org/wiki/初級中學 "wikilink")\[159\]。
   - 6月17日，原定在沖繩豐崎海濱公園・豐崎美麗陽光海岸舉辦的「[AKB48第49張單曲選拔總選舉](https://zh.wikipedia.org/wiki/AKB48第49張單曲選拔總選舉 "wikilink")」開票儀式，因氣候不佳改至鄰近的豐見城市立中央公民館舉行，並取消原本有觀眾參與的安排；本屆由HKT48的指原莉乃以246,376票再次奪得冠軍，拿下AKB48選拔總選舉的三連霸，也是個人的第四座總選舉冠軍。
   - 7月9日，AKB48成員[木崎由里亞](../Page/木崎由里亞.md "wikilink")、[島田晴香](../Page/島田晴香.md "wikilink")與AKB48集團總監督[橫山由依](../Page/橫山由依.md "wikilink")三人，參加位於台灣台北的花漾Hana展演空間舉辦的《AKB48 Fan Meeting in TAIWAN》 簽名及握手會，並在活動中宣布將於同年9月1日正式展開TPE48第一期生的徵選活動\[160\]。
   - 8月30日，發行第49張單曲《[\#就是喜歡你](../Page/＃就是喜歡你.md "wikilink")》。
@@ -619,9 +546,15 @@
   - 1月18-19日，於東京巨蛋城表演廳舉行《AKB48集團 重溫時間 最佳曲目100 2019》演唱會，AKB48 Team 8以《[去47個美麗城市](https://zh.wikipedia.org/wiki/去47個美麗城市 "wikilink")》獲得「[重溫時間 最佳曲目100](https://zh.wikipedia.org/wiki/AKB48公演列表#重温时间_最佳曲目100 "wikilink")」的第一名，也是該曲在此活動連續3年獲選前三後首次奪冠。
   - 3月7日，AKB48劇場經理細井孝宏被撤換，疑因與前NGT48劇場經理今村悅朗同桌共飲的照片被傳上網路有關。該職務則暫時懸缺。
   - 3月13日，發行第55張單曲《[回憶上心頭DAYS](../Page/回憶上心頭DAYS.md "wikilink")》。亦在同日，AKB48營運方宣布該年度的選拔總選舉停辦\[168\]\[169\]\[170\]。
+  - 3月24日，《AKB48 SHOW\!》結束播出。
+  - 3月27日，《AKB48的All Night Nippon》結束播出。
   - 4月1日，向井地美音正式接替橫山由依，成為第3任AKB48集團總監督\[171\]\[172\]。
+  - 4月7日，《AKB48的All Night Nippon》的後繼節目《》開始在日本放送播出。
   - 4月28日，於橫濱球場舉行「指原莉乃畢業演唱會～再見了，指原莉乃～」。
   - 5月2日，即將畢業的Team B隊長[高橋朱里](../Page/高橋朱里.md "wikilink")，於畢業公演上指名岩立沙穗接任隊長職務。
+  - 6月14日，宣布將自同年7月7日至10月22日，舉辦睽違4年、為期10天共20場的全國巡演\[173\]\[174\]\[175\]。
+  - 6月30日，劇場公演新劇目「我的夏天開始了」（）進行初日公演\[176\]。
+  - 9月18日，預定發行第56張單曲《[Sustainable](../Page/Sustainable.md "wikilink")》。
 
 ## 註釋與參考文獻
 
@@ -632,6 +565,11 @@
 <div style="height:300px;overflow:auto;padding:3px">
 
 </div>
+
+## 外部鏈結
+
+  - [AKB48官方網頁｜AKB48大事紀要](https://www.akb48.co.jp/about/chronicle/)
+  - [AKB48 Group News Wire：時事.com](https://www.jiji.com/jc/ak)
 
 [Category:AKB48](https://zh.wikipedia.org/wiki/Category:AKB48 "wikilink") [Category:音樂史](https://zh.wikipedia.org/wiki/Category:音樂史 "wikilink")
 
@@ -961,3 +899,11 @@
 171.
 
 172.
+
+173.
+
+174.
+
+175.
+
+176.

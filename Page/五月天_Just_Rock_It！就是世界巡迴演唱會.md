@@ -8,9 +8,9 @@
 
 2015年3月29日，於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[大西洋城](../Page/大西洋城.md "wikilink")舉行該主題演唱會， 特別紀念成軍16週年，這也是五月天2015年唯一一場歐美演出。2015年8月28日、29日於[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[日本武道館](../Page/日本武道館.md "wikilink")舉行，同時也是首次於此開唱的華人歌手，二日演唱會公演主題不同。
 
-2016年5月於[香港](../Page/香港.md "wikilink")紅磡體育館舉行10場演出，並展開為期5個月的限定巡迴。此次巡迴邀請美國視覺大師LeRoy Bennett設計舞台燈光效果，成本高達4億元[新臺幣](../Page/新臺幣.md "wikilink")。2016年7月23、24日，連續兩天在[南港](../Page/南港區.md "wikilink")[中信金融園區舉辦臺北場演唱會](https://zh.wikipedia.org/wiki/中國信託 "wikilink") \[2\]。2016年8月26日、27日、28日重返[北京](https://zh.wikipedia.org/wiki/北京 "wikilink")[國家體育場](https://zh.wikipedia.org/wiki/國家體育場 "wikilink")。2016年12月17日至2017年1月1日，在[台北小巨蛋連續舉行](https://zh.wikipedia.org/wiki/台北小巨蛋 "wikilink")9場該主題的「RE:LIVE 2016 最終章 \[ 自傳復刻版 \]」演唱會，演出復刻五月天過去9次主題的大型演唱會表演內容 \[3\]。
+2016年5月於[香港](../Page/香港.md "wikilink")紅磡體育館舉行10場演出，並展開為期5個月的限定巡迴。此次巡迴邀請美國視覺大師LeRoy Bennett設計舞台燈光效果，成本高達4億元[新臺幣](../Page/新臺幣.md "wikilink")。2016年7月23、24日，連續兩天在[南港](../Page/南港區.md "wikilink")[中信金融園區舉辦臺北場演唱會](https://zh.wikipedia.org/wiki/中國信託 "wikilink") \[2\]。2016年8月26日、27日、28日重返[北京](https://zh.wikipedia.org/wiki/北京 "wikilink")[鳥巢](https://zh.wikipedia.org/wiki/國家體育場_\(北京\) "wikilink")。2016年12月17日至2017年1月1日，在[台北小巨蛋連續舉行](https://zh.wikipedia.org/wiki/台北小巨蛋 "wikilink")9場該主題的「RE:LIVE 2016 最終章 \[ 自傳復刻版 \]」演唱會，演出復刻五月天過去9次主題的大型演唱會表演內容 \[3\]。
 
-2018年11月5日，五月天宣佈於2019年4月在大阪舉行2場該主題的「藍 | Blue」演唱會。
+2018年11月5日，五月天宣布於2019年4月在大阪舉行2場該主題的「藍 | Blue」演唱會。 2019年8月3日，宣布以該主題演唱會於2019年8月23－25日連續三天重返北京鳥巢，是他們第六度於該場地開唱。
 
 ## 製作
 
@@ -71,7 +71,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>Just Rock It！2011</p></td>
+<td><p>Just Rock It！［就是］演唱會</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -84,7 +84,7 @@
 <td><p>2011年5月20日</p></td>
 <td><p><a href="../Page/香港.md" title="wikilink">香港</a></p></td>
 <td><p><a href="../Page/香港體育館.md" title="wikilink">香港體育館</a></p></td>
-<td><p>-</p></td>
+<td><p>rowspan=10 </p></td>
 <td><p>兩度加場[4]</p></td>
 <td></td>
 </tr>
@@ -118,67 +118,58 @@
 <tr class="even">
 <td><p>5</p></td>
 <td><p>2011年9月3日</p></td>
-<td><p><a href="../Page/臺北市.md" title="wikilink">臺北市</a></p></td>
+<td><p><a href="../Page/臺北.md" title="wikilink">臺北</a></p></td>
 <td><p><a href="../Page/臺灣.md" title="wikilink">臺灣</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/臺北小巨蛋" title="wikilink">臺北小巨蛋</a></p></td>
 <td><p>追夢3D LIVE「達陣2011場」紀念版[5]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Just Rock It！2012</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>6</p></td>
+<td><p>2012年3月27日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/倫敦" title="wikilink">倫敦</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/英國" title="wikilink">英國</a></p></td>
+<td><p><a href="../Page/溫布利體育館.md" title="wikilink">溫布利體育館</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>6</p></td>
-<td><p>2012年3月27日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/倫敦" title="wikilink">倫敦</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/歐洲" title="wikilink">歐洲</a></p></td>
-<td><p><a href="../Page/溫布利體育館.md" title="wikilink">溫布利體育館</a></p></td>
-<td><p>-</p></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>7</p></td>
 <td><p>2012年8月4日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/雪梨" title="wikilink">雪梨</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/澳洲" title="wikilink">澳洲</a></p></td>
+<td><p>雪梨娛樂中心</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>8</p></td>
+<td><p>2012年8月5日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/墨爾本" title="wikilink">墨爾本</a></p></td>
+<td><p>墨爾本會展中心</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>8</p></td>
-<td><p>2012年8月5日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/墨爾本" title="wikilink">墨爾本</a></p></td>
-<td></td>
+<td><p>9</p></td>
+<td><p>2012年8月7日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/伯斯" title="wikilink">伯斯</a></p></td>
+<td><p>Challenge Stadium</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>9</p></td>
-<td><p>2012年8月7日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/伯斯" title="wikilink">伯斯</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>10</p></td>
 <td><p>2012年11月22日</p></td>
 <td><p><a href="../Page/大西洋城.md" title="wikilink">大西洋城</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/美國" title="wikilink">美國</a></p></td>
-<td></td>
+<td><p>Etess體育館</p></td>
 <td><p>第一場於22日下午2點開唱，第二場於午夜1點開唱</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Just Rock It！2013</p></td>
 <td></td>
 <td></td>
@@ -187,47 +178,37 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>11</p></td>
 <td><p>2013年2月16日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/東京" title="wikilink">東京</a></p></td>
 <td><p><a href="../Page/日本.md" title="wikilink">日本</a></p></td>
-<td></td>
-<td><p>-</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Just Rock It！[ 無限放大版 ]</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>Zepp Tokyo</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>12</p></td>
-<td><p>2013年12月31日</p></td>
-<td><p><a href="../Page/高雄市.md" title="wikilink">高雄市</a></p></td>
-<td><p>臺灣</p></td>
-<td><p><a href="../Page/國家體育場_(高雄市).md" title="wikilink">國家體育場</a></p></td>
-<td><p>-</p></td>
-<td><p>跨年場，於9:30pm開演</p></td>
+<td><p>Just Rock It！2014</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
+<td><p>12</p></td>
+<td><p>2013年12月31日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/高雄" title="wikilink">高雄</a></p></td>
+<td><p>臺灣</p></td>
+<td><p><a href="../Page/國家體育場_(高雄市).md" title="wikilink">國家體育場</a></p></td>
+<td></td>
+<td><p>無限放大版</p></td>
+</tr>
+<tr class="even">
 <td><p>13</p></td>
 <td><p>2014年1月1日</p></td>
 <td><p><a href="../Page/MP魔幻力量.md" title="wikilink">MP魔幻力量</a></p></td>
-<td><p>[ 特別加場 ]<br />
-於7:30pm開演</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Just Rock It！2014 [ 無限想象版 ]</p></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -239,8 +220,7 @@
 <td><p>香港</p></td>
 <td><p>香港體育館</p></td>
 <td><p><a href="../Page/享樂團.md" title="wikilink">享樂團</a></p></td>
-<td><p>2014 <a href="https://zh.wikipedia.org/wiki/相信音樂" title="wikilink">相信音樂節</a> 之 <a href="../Page/藍妹啤酒.md" title="wikilink">藍妹啤酒</a>呈獻<br />
-（25、28日各休息一天，25日舉行相信音樂節 之「我相信演唱會」香港站）</p></td>
+<td><p>無限想象版</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -311,11 +291,9 @@
 <td><p>2015年3月28日</p></td>
 <td><p><a href="../Page/大西洋城.md" title="wikilink">大西洋城</a></p></td>
 <td><p>美國</p></td>
-<td><p>Boardwalk Hall<br />
-（濱海大道會議中心）</p></td>
+<td><p>濱海大道會議中心</p></td>
 <td><p><a href="../Page/白安.md" title="wikilink">白安</a></p></td>
-<td><p>2015年唯一一場歐美演唱會 [6][7]<br />
-午夜一點開唱</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>22</p></td>
@@ -323,7 +301,7 @@
 <td><p>東京</p></td>
 <td><p>日本</p></td>
 <td><p><a href="../Page/日本武道館.md" title="wikilink">日本武道館</a></p></td>
-<td><p>-</p></td>
+<td><p>rowspan=2 </p></td>
 <td><p>公演主題：Do You Ever Shine</p></td>
 </tr>
 <tr class="odd">
@@ -336,7 +314,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Just Rock It！2016</p></td>
+<td><p>Just Rock It！2016 就是演唱會</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -349,7 +327,7 @@
 <td><p>2016年5月20日</p></td>
 <td><p>香港</p></td>
 <td><p>香港體育館</p></td>
-<td><p>-</p></td>
+<td><p>rowspan=20 </p></td>
 <td><p>「五月之約」第10年香港開唱</p></td>
 <td></td>
 </tr>
@@ -437,7 +415,7 @@
 <tr class="odd">
 <td><p>34</p></td>
 <td><p>2016年7月23日</p></td>
-<td><p>臺北市</p></td>
+<td><p>臺北</p></td>
 <td><p>臺灣</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/中國信託" title="wikilink">中信金融園區</a></p></td>
 <td></td>
@@ -473,7 +451,7 @@
 <tr class="odd">
 <td><p>38</p></td>
 <td><p>2016年8月13日</p></td>
-<td><p>高雄市</p></td>
+<td><p>高雄</p></td>
 <td><p>臺灣</p></td>
 <td><p>國家體育場</p></td>
 <td><p>加場<br />
@@ -495,7 +473,7 @@
 <td><p>2016年8月26日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/北京" title="wikilink">北京</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/中國大陸" title="wikilink">中國大陸</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/國家體育場_(北京)" title="wikilink">鳥巢</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/北京國家體育場" title="wikilink">北京國家體育場</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -540,7 +518,7 @@
 <td><p>2016年9月17日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/南昌" title="wikilink">南昌</a></p></td>
 <td><p><a href="../Page/南昌国际体育中心体育场.md" title="wikilink">南昌国际体育中心体育场</a></p></td>
-<td><p>-</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -574,7 +552,7 @@
 <tr class="even">
 <td><p>49</p></td>
 <td><p>2016年10月2日</p></td>
-<td><p>-</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -601,7 +579,7 @@
 <tr class="odd">
 <td><p>52</p></td>
 <td><p>2016年10月7日</p></td>
-<td><p>-</p></td>
+<td><p>rowspan=2 </p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -630,12 +608,12 @@
 <td><p>2016年11月5日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/長沙" title="wikilink">長沙</a></p></td>
 <td><p>賀龍体育中心体育场</p></td>
-<td><p>-</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Just Rock It！[ 自傳復刻版 ]</p></td>
+<td><p>Just Rock It！2016 最終章 [ 自傳復刻版 ]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -646,16 +624,16 @@
 <tr class="even">
 <td><p>56</p></td>
 <td><p>2016年12月17日</p></td>
-<td><p>臺北市</p></td>
+<td><p>臺北</p></td>
 <td><p>臺灣</p></td>
 <td><p>臺北小巨蛋</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/呂思緯" title="wikilink">鼓鼓</a></p></td>
-<td><p>RE: Just Rock It! 就是 [8]</p></td>
+<td><p>RE: Just Rock It! 就是 [6]</p></td>
 </tr>
 <tr class="odd">
 <td><p>57</p></td>
 <td><p>2016年12月18日</p></td>
-<td><p>-</p></td>
+<td><p>rowspan=5 </p></td>
 <td><p>RE: NOWHERE 諾亞方舟</p></td>
 <td></td>
 <td></td>
@@ -709,7 +687,7 @@
 <tr class="odd">
 <td><p>63</p></td>
 <td><p>2016年12月31日</p></td>
-<td><p>-</p></td>
+<td><p>rowspan=2 </p></td>
 <td><p>RE: Stand out 十萬青年站出來</p></td>
 <td></td>
 <td></td>
@@ -799,13 +777,40 @@
 <tr class="odd">
 <td><p>72</p></td>
 <td><p>2019年5月12日</p></td>
-<td><p>-</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>73</p></td>
+<td><p>2019年8月23日</p></td>
+<td><p>北京</p></td>
+<td><p>中國大陸</p></td>
+<td><p>北京國家體育場</p></td>
+<td><p>rowspan=3 </p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>74</p></td>
+<td><p>2019年8月24日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>75</p></td>
+<td><p>2019年8月25日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -819,8 +824,6 @@
 
 ## 參考文獻
 
-[分類:五月天](https://zh.wikipedia.org/wiki/分類:五月天 "wikilink")
-
 [Category:巡迴音樂會](https://zh.wikipedia.org/wiki/Category:巡迴音樂會 "wikilink") [Category:五月天巡迴演唱會](https://zh.wikipedia.org/wiki/Category:五月天巡迴演唱會 "wikilink") [Category:2011年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2011年巡迴演唱會 "wikilink") [Category:2012年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2012年巡迴演唱會 "wikilink") [Category:2013年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2013年巡迴演唱會 "wikilink") [Category:2014年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2014年巡迴演唱會 "wikilink") [Category:2015年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2015年巡迴演唱會 "wikilink") [Category:2016年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2016年巡迴演唱會 "wikilink") [Category:2017年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2017年巡迴演唱會 "wikilink") [Category:2019年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2019年巡迴演唱會 "wikilink")
 
 1.  [5566合體五月天 飆唱神曲我難過](http://www.cna.com.tw/news/firstnews/201401010037-1.aspx)，中央社，2014年1月2日
@@ -828,6 +831,4 @@
 3.
 4.  [相信音樂\>【好康】看五月天香港演唱會就是真旅網](http://bin-music.com.tw/tw/news409.html)
 5.  [相信音樂\>五月天《追夢3D》達陣 創造台灣電影史上最大集氣造勢](http://bin-music.com.tw/tw/news469.html)
-6.  [美國大西洋城市長來函力邀五月天3/28登濱海大道會議中心開唱](http://www.iwant-radio.com/showinformation.php?sisn=36088)
-7.
-8.
+6.

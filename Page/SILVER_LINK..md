@@ -330,6 +330,23 @@ SILVER LINK.設立於2007年12月，是動畫公司フロントライン（FRONT
 <td><p>漫畫</p></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>時期未定</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/怕痛的我，把防御力點滿就對了" title="wikilink">怕痛的我，把防御力點滿就對了</a></p></td>
+<td></td>
+<td></td>
+<td><p>大沼心<br />
+湊未來</p></td>
+<td><p>輕小說</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

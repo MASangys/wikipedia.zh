@@ -191,7 +191,6 @@ Typecho最早可下载的版本是0.3 <small>(8.12.30)</small>，括号内的数
 [Category:开源软件](https://zh.wikipedia.org/wiki/Category:开源软件 "wikilink") [Category:網誌軟體](https://zh.wikipedia.org/wiki/Category:網誌軟體 "wikilink")
 
 1.
-
 2.
 
 3.

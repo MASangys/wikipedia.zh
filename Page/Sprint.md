@@ -1,4 +1,4 @@
-**Sprint Corporation** ()，译作“斯普林特公司”，前稱為**Sprint Nextel Corporation**。 是一家在美国、波多黎各、美属维尔京群岛运营有线通信与无线通信的控股公司。该公司与所属子公司提供的服务品牌有**Sprint**、**Boost Mobile**、**Virgin Mobile**与**Assurance Wireless**等。是全球互联网骨干网服务商、美国第三大长途电话公司。，斯普林特的无线网用户达5500万。
+**Sprint Corporation** ()，译作“斯普林特公司”，前稱為**Sprint Nextel Corporation**。 是一家在美国、波多黎各、美属维尔京群岛运营有线通信与无线通信的控股公司。该公司与所属子公司提供的服务品牌有**Sprint**、**Boost Mobile**、**Virgin Mobile**与**Assurance Wireless**等。是全球互联网服务商、美国第三大长途电话公司。，斯普林特的无线网用户达5500万。
 
 ## 歷史沿革
 

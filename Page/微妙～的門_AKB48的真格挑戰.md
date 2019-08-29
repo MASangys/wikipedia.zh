@@ -254,7 +254,7 @@ AKB48和光TV的大型合作企劃，在2011年9月29日開始2012年2月23日�
 <tr class="even">
 <td><p><a href="../Page/入山杏奈.md" title="wikilink">入山杏奈</a></p></td>
 <td><p>47</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/稻草富翁" title="wikilink">稻草富翁</a>!通過<a href="https://zh.wikipedia.org/wiki/以物易物" title="wikilink">以物易物獲取</a>48000圓以上的物品!</p></td>
+<td><p><a href="../Page/稻草富翁.md" title="wikilink">稻草富翁</a>!通過<a href="https://zh.wikipedia.org/wiki/以物易物" title="wikilink">以物易物獲取</a>48000圓以上的物品!</p></td>
 <td></td>
 <td></td>
 </tr>

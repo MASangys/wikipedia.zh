@@ -19,16 +19,6 @@
 
   - 獅子山下遇上：於新城**音樂先鋒榜**上榜最高位置第13位
 
-## 其他
-
-MV現有5首。
-
-  - [樹藤](http://www.youtube.com/watch?v=XqYwKoD4rdo/)
-  - [我愛你](http://www.youtube.com/watch?v=CUvkMzRlsiI/)
-  - [追風箏的風箏](http://www.youtube.com/watch?v=a9W6Js6lIJs/)
-  - [向玻璃鞋說再見](http://www.youtube.com/watch?v=WYsZ6VCKJac/)
-  - [第二次初戀](http://www.youtube.com/watch?v=V47Pdq33zEE/)
-
 ## 參考
 
 [Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink") [Category:林欣彤音樂專輯](https://zh.wikipedia.org/wiki/Category:林欣彤音樂專輯 "wikilink")

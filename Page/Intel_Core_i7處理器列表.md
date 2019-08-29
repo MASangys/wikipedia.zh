@@ -99,22 +99,22 @@
 
 #### Haswell-DT / Haswell Refresh / Devil's Canyon (22 nm)
 
-| 型號             | 市場區隔 | 核心/執行緒 | 時脈頻率（超頻）          | 快取       | 顯示晶片 | 記憶體控制器                          | TDP                                                            | 插槽   | 出品日期                                                          |
-| -------------- | ---- | ------ | ----------------- | -------- | ---- | ------------------------------- | -------------------------------------------------------------- | ---- | ------------------------------------------------------------- |
-| L2             | L3   |        |                   |          |      |                                 |                                                                |      |                                                               |
-| Core i7-4770   | 主流   | 4 / 8  | 3.4 GHz (3.9 GHz) | 4×256 KB | 8 MB | HD Graphics 4600 (350/1200 MHz) | [DDR3](https://zh.wikipedia.org/wiki/DDR3 "wikilink")-1600 MHz | 84 W | [LGA 1150](../Page/LGA_1150.md "wikilink")                    |
-| Core i7-4771   | 主流   | 4 / 8  | 3.5 GHz (3.9 GHz) | 4×256 KB | 8 MB | HD Graphics 4600 (350/1200 MHz) | [DDR3](https://zh.wikipedia.org/wiki/DDR3 "wikilink")-1600 MHz | 84 W | [LGA 1150](../Page/LGA_1150.md "wikilink")                    |
-| Core i7-4790   | 主流   | 4 / 8  | 3.6 GHz (4.0 GHz) | 4×256 KB | 8 MB | HD Graphics 4600 (350/1200 MHz) | [DDR3](https://zh.wikipedia.org/wiki/DDR3 "wikilink")-1600 MHz | 84 W | [LGA 1150](../Page/LGA_1150.md "wikilink")                    |
-| Core i7-4770S  | 低功耗  | 4 / 8  | 3.1 GHz (3.9 GHz) | 4×256 KB | 8 MB | HD Graphics 4600 (350/1200 MHz) | [DDR3](https://zh.wikipedia.org/wiki/DDR3 "wikilink")-1600 MHz | 65 W | [LGA 1150](../Page/LGA_1150.md "wikilink")                    |
-| Core i7-4790S  | 低功耗  | 4 / 8  | 3.2 GHz (4.0 GHz) | 4×256 KB | 8 MB | HD Graphics 4600 (350/1200 MHz) | [DDR3](https://zh.wikipedia.org/wiki/DDR3 "wikilink")-1600 MHz | 65 W | [LGA 1150](../Page/LGA_1150.md "wikilink")                    |
-| Core i7-4765T  | 低功耗  | 4 / 8  | 2.0 GHz (3.0 GHz) | 4×256 KB | 8 MB | HD Graphics 4600 (350/1200 MHz) | [DDR3](https://zh.wikipedia.org/wiki/DDR3 "wikilink")-1600 MHz | 35 W | [LGA 1150](../Page/LGA_1150.md "wikilink")                    |
-| Core i7-4770T  | 低功耗  | 4 / 8  | 2.5 GHz (3.7 GHz) | 4×256 KB | 8 MB | HD Graphics 4600 (350/1200 MHz) | [DDR3](https://zh.wikipedia.org/wiki/DDR3 "wikilink")-1600 MHz | 45 W | [LGA 1150](../Page/LGA_1150.md "wikilink")                    |
-| Core i7-4770TE | 低功耗  | 4 / 8  | 2.3 GHz (3.3 GHz) | 4×256 KB | 8 MB | HD Graphics 4600 (350/1000 MHz) | [DDR3](https://zh.wikipedia.org/wiki/DDR3 "wikilink")-1600 MHz | 45 W | [LGA 1150](../Page/LGA_1150.md "wikilink")                    |
-| Core i7-4785T  | 低功耗  | 4 / 8  | 2.2 GHz (3.2 GHz) | 4×256 KB | 8 MB | HD Graphics 4600 (350/1200 MHz) | [DDR3](https://zh.wikipedia.org/wiki/DDR3 "wikilink")-1600 MHz | 35 W | [LGA 1150](../Page/LGA_1150.md "wikilink")                    |
-| Core i7-4790T  | 低功耗  | 4 / 8  | 2.7 GHz (3.9 GHz) | 4×256 KB | 8 MB | HD Graphics 4600 (350/1200 MHz) | [DDR3](https://zh.wikipedia.org/wiki/DDR3 "wikilink")-1600 MHz | 45 W | [LGA 1150](../Page/LGA_1150.md "wikilink")                    |
-| Core i7-4770K  | 玩家超頻 | 4 / 8  | 3.5 GHz (3.9 GHz) | 4×256 KB | 8 MB | HD Graphics 4600 (350/1250 MHz) | [DDR3](https://zh.wikipedia.org/wiki/DDR3 "wikilink")-1600 MHz | 84 W | [LGA 1150](../Page/LGA_1150.md "wikilink")                    |
-| Core i7-4790K  | 玩家超頻 | 4 / 8  | 4.0 GHz (4.4 GHz) | 4×256 KB | 8 MB | HD Graphics 4600 (350/1250 MHz) | [DDR3](https://zh.wikipedia.org/wiki/DDR3 "wikilink")-1600 MHz | 88 W | [LGA 1150](../Page/LGA_1150.md "wikilink")                    |
-| Core i7-4770R  | 內嵌式  | 4 / 8  | 3.2 GHz (3.9 GHz) | 4×256 KB | 6 MB | Iris Pro Graphics 5200          | [DDR3](https://zh.wikipedia.org/wiki/DDR3 "wikilink")-1600 MHz | 65 W | [BGA 1364](https://zh.wikipedia.org/wiki/BGA_1364 "wikilink") |
+| 型號             | 市場區隔 | 核心/執行緒 | 時脈頻率（超頻）          | 快取       | 顯示晶片 | 記憶體控制器                                | TDP                                                            | 插槽   | 出品日期                                                          |
+| -------------- | ---- | ------ | ----------------- | -------- | ---- | ------------------------------------- | -------------------------------------------------------------- | ---- | ------------------------------------------------------------- |
+| L2             | L3   |        |                   |          |      |                                       |                                                                |      |                                                               |
+| Core i7-4770   | 主流   | 4 / 8  | 3.4 GHz (3.9 GHz) | 4×256 KB | 8 MB | HD Graphics 4600 (350/1200 MHz)       | [DDR3](https://zh.wikipedia.org/wiki/DDR3 "wikilink")-1600 MHz | 84 W | [LGA 1150](../Page/LGA_1150.md "wikilink")                    |
+| Core i7-4771   | 主流   | 4 / 8  | 3.5 GHz (3.9 GHz) | 4×256 KB | 8 MB | HD Graphics 4600 (350/1200 MHz)       | [DDR3](https://zh.wikipedia.org/wiki/DDR3 "wikilink")-1600 MHz | 84 W | [LGA 1150](../Page/LGA_1150.md "wikilink")                    |
+| Core i7-4790   | 主流   | 4 / 8  | 3.6 GHz (4.0 GHz) | 4×256 KB | 8 MB | HD Graphics 4600 (350/1200 MHz)       | [DDR3](https://zh.wikipedia.org/wiki/DDR3 "wikilink")-1600 MHz | 84 W | [LGA 1150](../Page/LGA_1150.md "wikilink")                    |
+| Core i7-4770S  | 低功耗  | 4 / 8  | 3.1 GHz (3.9 GHz) | 4×256 KB | 8 MB | HD Graphics 4600 (350/1200 MHz)       | [DDR3](https://zh.wikipedia.org/wiki/DDR3 "wikilink")-1600 MHz | 65 W | [LGA 1150](../Page/LGA_1150.md "wikilink")                    |
+| Core i7-4790S  | 低功耗  | 4 / 8  | 3.2 GHz (4.0 GHz) | 4×256 KB | 8 MB | HD Graphics 4600 (350/1200 MHz)       | [DDR3](https://zh.wikipedia.org/wiki/DDR3 "wikilink")-1600 MHz | 65 W | [LGA 1150](../Page/LGA_1150.md "wikilink")                    |
+| Core i7-4765T  | 低功耗  | 4 / 8  | 2.0 GHz (3.0 GHz) | 4×256 KB | 8 MB | HD Graphics 4600 (350/1200 MHz)       | [DDR3](https://zh.wikipedia.org/wiki/DDR3 "wikilink")-1600 MHz | 35 W | [LGA 1150](../Page/LGA_1150.md "wikilink")                    |
+| Core i7-4770T  | 低功耗  | 4 / 8  | 2.5 GHz (3.7 GHz) | 4×256 KB | 8 MB | HD Graphics 4600 (350/1200 MHz)       | [DDR3](https://zh.wikipedia.org/wiki/DDR3 "wikilink")-1600 MHz | 45 W | [LGA 1150](../Page/LGA_1150.md "wikilink")                    |
+| Core i7-4770TE | 低功耗  | 4 / 8  | 2.3 GHz (3.3 GHz) | 4×256 KB | 8 MB | HD Graphics 4600 (350/1000 MHz)       | [DDR3](https://zh.wikipedia.org/wiki/DDR3 "wikilink")-1600 MHz | 45 W | [LGA 1150](../Page/LGA_1150.md "wikilink")                    |
+| Core i7-4785T  | 低功耗  | 4 / 8  | 2.2 GHz (3.2 GHz) | 4×256 KB | 8 MB | HD Graphics 4600 (350/1200 MHz)       | [DDR3](https://zh.wikipedia.org/wiki/DDR3 "wikilink")-1600 MHz | 35 W | [LGA 1150](../Page/LGA_1150.md "wikilink")                    |
+| Core i7-4790T  | 低功耗  | 4 / 8  | 2.7 GHz (3.9 GHz) | 4×256 KB | 8 MB | HD Graphics 4600 (350/1200 MHz)       | [DDR3](https://zh.wikipedia.org/wiki/DDR3 "wikilink")-1600 MHz | 45 W | [LGA 1150](../Page/LGA_1150.md "wikilink")                    |
+| Core i7-4770K  | 玩家超頻 | 4 / 8  | 3.5 GHz (3.9 GHz) | 4×256 KB | 8 MB | HD Graphics 4600 (350/1250 MHz)       | [DDR3](https://zh.wikipedia.org/wiki/DDR3 "wikilink")-1600 MHz | 84 W | [LGA 1150](../Page/LGA_1150.md "wikilink")                    |
+| Core i7-4790K  | 玩家超頻 | 4 / 8  | 4.0 GHz (4.4 GHz) | 4×256 KB | 8 MB | HD Graphics 4600 (350/1250 MHz)       | [DDR3](https://zh.wikipedia.org/wiki/DDR3 "wikilink")-1600 MHz | 88 W | [LGA 1150](../Page/LGA_1150.md "wikilink")                    |
+| Core i7-4770R  | 內嵌式  | 4 / 8  | 3.2 GHz (3.9 GHz) | 4×256 KB | 6 MB | Iris Pro Graphics 5200 (200–1300 MHz) | [DDR3](https://zh.wikipedia.org/wiki/DDR3 "wikilink")-1600 MHz | 65 W | [BGA 1364](https://zh.wikipedia.org/wiki/BGA_1364 "wikilink") |
 
 #### Haswell-E (22 nm)
 
@@ -137,66 +137,18 @@
 
 #### Broadwell-E (14 nm)
 
-| 型號            | 市場區隔 | 核心/執行緒  | 時脈頻率（Turbo Boost 2 / 3） | 快取        | 顯示晶片  | 記憶體控制器 | TDP                                                            | 插槽    | 出品日期                                         |
-| ------------- | ---- | ------- | ----------------------- | --------- | ----- | ------ | -------------------------------------------------------------- | ----- | -------------------------------------------- |
-| L2            | L3   |         |                         |           |       |        |                                                                |       |                                              |
-| Core i7-6800K | 玩家超頻 | 6 / 12  | 3.4 GHz (3.6 / 3.8 GHz) | 6×256 KB  | 15 MB | 無      | [DDR4](https://zh.wikipedia.org/wiki/DDR4 "wikilink")-2400 MHz | 140 W | [LGA 2011-3](../Page/LGA_2011.md "wikilink") |
-| Core i7-6850K | 玩家超頻 | 6 / 12  | 3.6 GHz (3.8 / 4.0 GHz) | 6×256 KB  | 15 MB | 無      | [DDR4](https://zh.wikipedia.org/wiki/DDR4 "wikilink")-2400 MHz | 140 W | [LGA 2011-3](../Page/LGA_2011.md "wikilink") |
-| Core i7-6900K | 玩家超頻 | 8 / 16  | 3.2 GHz (3.7 / 4.0 GHz) | 8×256 KB  | 20 MB | 無      | [DDR4](https://zh.wikipedia.org/wiki/DDR4 "wikilink")-2400 MHz | 140 W | [LGA 2011-3](../Page/LGA_2011.md "wikilink") |
-| Core i7-6950X | 極致版  | 10 / 20 | 3.0 GHz (3.5 / 4.0 GHz) | 10×256 KB | 25 MB | 無      | [DDR4](https://zh.wikipedia.org/wiki/DDR4 "wikilink")-2400 MHz | 140 W | [LGA 2011-3](../Page/LGA_2011.md "wikilink") |
-
-### [Skylake微架構](../Page/Skylake微架構.md "wikilink")
-
-#### Skylake-S (14 nm)
-
-| 型號             | 市場區隔 | 核心/執行緒 | 時脈頻率（超頻）          | 快取       | 顯示晶片 | 記憶體控制器                         | TDP                                                                                                                               | 插槽   | 出品日期                                                          |
-| -------------- | ---- | ------ | ----------------- | -------- | ---- | ------------------------------ | --------------------------------------------------------------------------------------------------------------------------------- | ---- | ------------------------------------------------------------- |
-| L2             | L3   |        |                   |          |      |                                |                                                                                                                                   |      |                                                               |
-| Core i7-6700   | 主流   | 4 / 8  | 3.4 GHz (4.0 GHz) | 4×256 KB | 8 MB | HD Graphics 530 (350/1150 MHz) | [DDR3L](https://zh.wikipedia.org/wiki/DDR3L "wikilink")-1600 MHz / [DDR4](https://zh.wikipedia.org/wiki/DDR4 "wikilink")-2133 MHz | 65 W | [LGA 1151](https://zh.wikipedia.org/wiki/LGA_1151 "wikilink") |
-| Core i7-6700T  | 低功耗  | 4 / 8  | 2.8 GHz (3.6 GHz) | 4×256 KB | 8 MB | HD Graphics 530 (350/1100 MHz) | [DDR3L](https://zh.wikipedia.org/wiki/DDR3L "wikilink")-1600 MHz / [DDR4](https://zh.wikipedia.org/wiki/DDR4 "wikilink")-2133 MHz | 35 W | [LGA 1151](https://zh.wikipedia.org/wiki/LGA_1151 "wikilink") |
-| Core i7-6700TE | 低功耗  | 4 / 8  | 2.4 GHz (3.4 GHz) | 4×256 KB | 8 MB | HD Graphics 530 (350/1000 MHz) | [DDR3L](https://zh.wikipedia.org/wiki/DDR3L "wikilink")-1600 MHz / [DDR4](https://zh.wikipedia.org/wiki/DDR4 "wikilink")-2133 MHz | 35 W | [LGA 1151](https://zh.wikipedia.org/wiki/LGA_1151 "wikilink") |
-| Core i7-6700K  | 玩家超頻 | 4 / 8  | 4.0 GHz (4.2 GHz) | 4×256 KB | 8 MB | HD Graphics 530 (350/1150 MHz) | [DDR3L](https://zh.wikipedia.org/wiki/DDR3L "wikilink")-1600 MHz / [DDR4](https://zh.wikipedia.org/wiki/DDR4 "wikilink")-2133 MHz | 91 W | [LGA 1151](https://zh.wikipedia.org/wiki/LGA_1151 "wikilink") |
-
-#### Skylake-H (14 nm)
-
-| 型號            | 市場區隔 | 核心/執行緒 | 時脈頻率（超頻）          | 快取       | 顯示晶片 | 記憶體控制器                | TDP                                                                                                                               | 插槽   | 出品日期                                                          |
-| ------------- | ---- | ------ | ----------------- | -------- | ---- | --------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ---- | ------------------------------------------------------------- |
-| L2            | L3   |        |                   |          |      |                       |                                                                                                                                   |      |                                                               |
-| Core i7-6785R | 內嵌式  | 4 / 8  | 3.3 GHz (3.9 GHz) | 4×256 KB | 8 MB | Iris Pro Graphics 580 | [DDR3L](https://zh.wikipedia.org/wiki/DDR3L "wikilink")-1600 MHz / [DDR4](https://zh.wikipedia.org/wiki/DDR4 "wikilink")-2133 MHz | 65 W | [BGA 1440](https://zh.wikipedia.org/wiki/BGA_1440 "wikilink") |
-
-#### Skylake-X (14 nm)
-
-| 型號            | 市場區隔 | 核心/執行緒 | 時脈頻率（Turbo Boost 2 / 3） | 快取       | 顯示晶片    | 記憶體控制器 | TDP                                                            | 插槽    | 出品日期                                       |
-| ------------- | ---- | ------ | ----------------------- | -------- | ------- | ------ | -------------------------------------------------------------- | ----- | ------------------------------------------ |
-| L2            | L3   |        |                         |          |         |        |                                                                |       |                                            |
-| Core i7-7800X | 極致版  | 6 / 12 | 3.5 GHz (4.0 GHz)       | 6×256 KB | 8.25 MB | 無      | [DDR4](https://zh.wikipedia.org/wiki/DDR4 "wikilink")-2400 MHz | 140 W | [LGA 2066](../Page/LGA_2066.md "wikilink") |
-| Core i7-7820X | 極致版  | 8 / 16 | 3.6 GHz (4.3 / 4.5 GHz) | 8×256 KB | 11 MB   | 無      | [DDR4](https://zh.wikipedia.org/wiki/DDR4 "wikilink")-2666 MHz | 140 W | [LGA 2066](../Page/LGA_2066.md "wikilink") |
-
-### [Kaby Lake微架構](../Page/Kaby_Lake微架構.md "wikilink")
-
-#### Kaby Lake-S (14 nm)
-
-| 型號            | 市場區隔 | 核心/執行緒 | 時脈頻率（超頻）          | 快取       | 顯示晶片 | 記憶體控制器                         | TDP                                                                                                                               | 插槽   | 出品日期                                                          |
-| ------------- | ---- | ------ | ----------------- | -------- | ---- | ------------------------------ | --------------------------------------------------------------------------------------------------------------------------------- | ---- | ------------------------------------------------------------- |
-| L2            | L3   |        |                   |          |      |                                |                                                                                                                                   |      |                                                               |
-| Core i7-7700  | 主流   | 4 / 8  | 3.6 GHz (4.2 GHz) | 4×256 KB | 8 MB | HD Graphics 630 (350/1150 MHz) | [DDR3L](https://zh.wikipedia.org/wiki/DDR3L "wikilink")-1600 MHz / [DDR4](https://zh.wikipedia.org/wiki/DDR4 "wikilink")-2400 MHz | 65 W | [LGA 1151](https://zh.wikipedia.org/wiki/LGA_1151 "wikilink") |
-| Core i7-7700T | 低功耗  | 4 / 8  | 2.9 GHz (3.8 GHz) | 4×256 KB | 8 MB | HD Graphics 630 (350/1150 MHz) | [DDR3L](https://zh.wikipedia.org/wiki/DDR3L "wikilink")-1600 MHz / [DDR4](https://zh.wikipedia.org/wiki/DDR4 "wikilink")-2400 MHz | 35 W | [LGA 1151](https://zh.wikipedia.org/wiki/LGA_1151 "wikilink") |
-| Core i7-7700K | 玩家超頻 | 4 / 8  | 4.2 GHz (4.5 GHz) | 4×256 KB | 8 MB | HD Graphics 630 (350/1150 MHz) | [DDR3L](https://zh.wikipedia.org/wiki/DDR3L "wikilink")-1600 MHz / [DDR4](https://zh.wikipedia.org/wiki/DDR4 "wikilink")-2400 MHz | 91 W | [LGA 1151](https://zh.wikipedia.org/wiki/LGA_1151 "wikilink") |
-
-#### Kaby Lake-X (14 nm)
-
 <table>
 <colgroup>
-<col style="width: 9%" />
-<col style="width: 9%" />
-<col style="width: 9%" />
-<col style="width: 9%" />
-<col style="width: 9%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
 <col style="width: 15%" />
-<col style="width: 9%" />
-<col style="width: 9%" />
-<col style="width: 9%" />
-<col style="width: 9%" />
+<col style="width: 15%" />
+<col style="width: 10%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -204,7 +156,7 @@
 <th><p>市場區隔</p></th>
 <th><p>核心/執行緒</p></th>
 <th><p>時脈頻率<br />
-（超頻）</p></th>
+（Turbo Boost 2 / 3）</p></th>
 <th><p>快取</p></th>
 <th><p>顯示晶片</p></th>
 <th><p>記憶體控制器</p></th>
@@ -227,20 +179,387 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Core i7-7740X</p></td>
+<td><p>Core i7-6800K</p></td>
+<td><p>玩家超頻</p></td>
+<td><p>6 / 12</p></td>
+<td><p>3.4 GHz (3.6 / 3.8 GHz)</p></td>
+<td><p>6×256 KB</p></td>
+<td><p>15 MB</p></td>
+<td><p>無</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-2400 MHz</p></td>
+<td><p>140 W</p></td>
+<td><p><a href="../Page/LGA_2011.md" title="wikilink">LGA 2011-3</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>Core i7-6850K</p></td>
+<td><p>玩家超頻</p></td>
+<td><p>6 / 12</p></td>
+<td><p>3.6 GHz (3.8 / 4.0 GHz)</p></td>
+<td><p>6×256 KB</p></td>
+<td><p>15 MB</p></td>
+<td><p>無</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-2400 MHz</p></td>
+<td><p>140 W</p></td>
+<td><p><a href="../Page/LGA_2011.md" title="wikilink">LGA 2011-3</a></p></td>
+</tr>
+<tr class="even">
+<td><p>Core i7-6900K</p></td>
+<td><p>玩家超頻</p></td>
+<td><p>8 / 16</p></td>
+<td><p>3.2 GHz (3.7 / 4.0 GHz)</p></td>
+<td><p>8×256 KB</p></td>
+<td><p>20 MB</p></td>
+<td><p>無</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-2400 MHz</p></td>
+<td><p>140 W</p></td>
+<td><p><a href="../Page/LGA_2011.md" title="wikilink">LGA 2011-3</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>Core i7-6950X</p></td>
 <td><p>極致版</p></td>
+<td><p>10 / 20</p></td>
+<td><p>3.0 GHz (3.5 / 4.0 GHz)</p></td>
+<td><p>10×256 KB</p></td>
+<td><p>25 MB</p></td>
+<td><p>無</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-2400 MHz</p></td>
+<td><p>140 W</p></td>
+<td><p><a href="../Page/LGA_2011.md" title="wikilink">LGA 2011-3</a></p></td>
+</tr>
+</tbody>
+</table>
+
+### [Skylake微架構](../Page/Skylake微架構.md "wikilink")
+
+#### Skylake-S (14 nm)
+
+<table>
+<colgroup>
+<col style="width: 9%" />
+<col style="width: 9%" />
+<col style="width: 9%" />
+<col style="width: 9%" />
+<col style="width: 9%" />
+<col style="width: 15%" />
+<col style="width: 9%" />
+<col style="width: 9%" />
+<col style="width: 9%" />
+<col style="width: 9%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>型號</p></th>
+<th><p>市場區隔</p></th>
+<th><p>核心/執行緒</p></th>
+<th><p>時脈頻率（超頻）</p></th>
+<th><p>快取</p></th>
+<th><p>顯示晶片</p></th>
+<th><p>記憶體控制器</p></th>
+<th><p>TDP</p></th>
+<th><p>插槽</p></th>
+<th><p>出品日期</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>L2</p></td>
+<td><p>L3</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Core i7-6700</p></td>
+<td><p>主流</p></td>
 <td><p>4 / 8</p></td>
-<td><p>4.3 GHz<br />
-(4.5 GHz)</p></td>
+<td><p>3.4 GHz (4.0 GHz)</p></td>
 <td><p>4×256 KB</p></td>
 <td><p>8 MB</p></td>
+<td><p>HD Graphics 530 (350/1150 MHz)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/DDR3L" title="wikilink">DDR3L</a>-1600 MHz<br />
+<a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-2133 MHz</p></td>
+<td><p>65 W</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/LGA_1151" title="wikilink">LGA 1151</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>Core i7-6700T</p></td>
+<td><p>低功耗</p></td>
+<td><p>4 / 8</p></td>
+<td><p>2.8 GHz (3.6 GHz)</p></td>
+<td><p>4×256 KB</p></td>
+<td><p>8 MB</p></td>
+<td><p>HD Graphics 530 (350/1100 MHz)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/DDR3L" title="wikilink">DDR3L</a>-1600 MHz<br />
+<a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-2133 MHz</p></td>
+<td><p>35 W</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/LGA_1151" title="wikilink">LGA 1151</a></p></td>
+</tr>
+<tr class="even">
+<td><p>Core i7-6700TE</p></td>
+<td><p>低功耗</p></td>
+<td><p>4 / 8</p></td>
+<td><p>2.4 GHz (3.4 GHz)</p></td>
+<td><p>4×256 KB</p></td>
+<td><p>8 MB</p></td>
+<td><p>HD Graphics 530 (350/1000 MHz)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/DDR3L" title="wikilink">DDR3L</a>-1600 MHz<br />
+<a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-2133 MHz</p></td>
+<td><p>35 W</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/LGA_1151" title="wikilink">LGA 1151</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>Core i7-6700K</p></td>
+<td><p>玩家超頻</p></td>
+<td><p>4 / 8</p></td>
+<td><p>4.0 GHz (4.2 GHz)</p></td>
+<td><p>4×256 KB</p></td>
+<td><p>8 MB</p></td>
+<td><p>HD Graphics 530 (350/1150 MHz)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/DDR3L" title="wikilink">DDR3L</a>-1600 MHz<br />
+<a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-2133 MHz</p></td>
+<td><p>91 W</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/LGA_1151" title="wikilink">LGA 1151</a></p></td>
+</tr>
+</tbody>
+</table>
+
+#### Skylake-H (14 nm)
+
+<table>
+<colgroup>
+<col style="width: 9%" />
+<col style="width: 9%" />
+<col style="width: 9%" />
+<col style="width: 9%" />
+<col style="width: 9%" />
+<col style="width: 15%" />
+<col style="width: 9%" />
+<col style="width: 9%" />
+<col style="width: 9%" />
+<col style="width: 9%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>型號</p></th>
+<th><p>市場區隔</p></th>
+<th><p>核心/執行緒</p></th>
+<th><p>時脈頻率（超頻）</p></th>
+<th><p>快取</p></th>
+<th><p>顯示晶片</p></th>
+<th><p>記憶體控制器</p></th>
+<th><p>TDP</p></th>
+<th><p>插槽</p></th>
+<th><p>出品日期</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>L2</p></td>
+<td><p>L3</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Core i7-6785R</p></td>
+<td><p>內嵌式</p></td>
+<td><p>4 / 8</p></td>
+<td><p>3.3 GHz (3.9 GHz)</p></td>
+<td><p>4×256 KB</p></td>
+<td><p>8 MB</p></td>
+<td><p>Iris Pro Graphics 580 (350–1150 MHz)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/DDR3L" title="wikilink">DDR3L</a>-1600 MHz<br />
+<a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-2133 MHz</p></td>
+<td><p>65 W</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BGA_1440" title="wikilink">BGA 1440</a></p></td>
+</tr>
+</tbody>
+</table>
+
+#### Skylake-X (14 nm)
+
+<table>
+<colgroup>
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 15%" />
+<col style="width: 15%" />
+<col style="width: 10%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>型號</p></th>
+<th><p>市場區隔</p></th>
+<th><p>核心/執行緒</p></th>
+<th><p>時脈頻率<br />
+（Turbo Boost 2 / 3）</p></th>
+<th><p>快取</p></th>
+<th><p>顯示晶片</p></th>
+<th><p>記憶體控制器</p></th>
+<th><p>TDP</p></th>
+<th><p>插槽</p></th>
+<th><p>出品日期</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>L2</p></td>
+<td><p>L3</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Core i7-7800X</p></td>
+<td><p>極致版</p></td>
+<td><p>6 / 12</p></td>
+<td><p>3.5 GHz (4.0 GHz)</p></td>
+<td><p>6×1024 KB</p></td>
+<td><p>8.25 MB</p></td>
+<td><p>無</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-2400 MHz</p></td>
+<td><p>140 W</p></td>
+<td><p><a href="../Page/LGA_2066.md" title="wikilink">LGA 2066</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>Core i7-7820X</p></td>
+<td><p>極致版</p></td>
+<td><p>8 / 16</p></td>
+<td><p>3.6 GHz (4.3 / 4.5 GHz)</p></td>
+<td><p>8×1024 KB</p></td>
+<td><p>11 MB</p></td>
 <td><p>無</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-2666 MHz</p></td>
-<td><p>112 W</p></td>
+<td><p>140 W</p></td>
+<td><p><a href="../Page/LGA_2066.md" title="wikilink">LGA 2066</a></p></td>
+</tr>
+<tr class="even">
+<td><p>Core i7-9800X</p></td>
+<td><p>極致版</p></td>
+<td><p>8 / 16</p></td>
+<td><p>3.8 GHz (4.4 / 4.5 GHz)</p></td>
+<td><p>8×1024 KB</p></td>
+<td><p>16.5 MB</p></td>
+<td><p>無</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-2666 MHz</p></td>
+<td><p>165 W</p></td>
 <td><p><a href="../Page/LGA_2066.md" title="wikilink">LGA 2066</a></p></td>
 </tr>
 </tbody>
 </table>
+
+### [Kaby Lake微架構](../Page/Kaby_Lake微架構.md "wikilink")
+
+#### Kaby Lake-S (14 nm)
+
+<table>
+<colgroup>
+<col style="width: 9%" />
+<col style="width: 9%" />
+<col style="width: 9%" />
+<col style="width: 9%" />
+<col style="width: 9%" />
+<col style="width: 15%" />
+<col style="width: 9%" />
+<col style="width: 9%" />
+<col style="width: 9%" />
+<col style="width: 9%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>型號</p></th>
+<th><p>市場區隔</p></th>
+<th><p>核心/執行緒</p></th>
+<th><p>時脈頻率（超頻）</p></th>
+<th><p>快取</p></th>
+<th><p>顯示晶片</p></th>
+<th><p>記憶體控制器</p></th>
+<th><p>TDP</p></th>
+<th><p>插槽</p></th>
+<th><p>出品日期</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>L2</p></td>
+<td><p>L3</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Core i7-7700</p></td>
+<td><p>主流</p></td>
+<td><p>4 / 8</p></td>
+<td><p>3.6 GHz (4.2 GHz)</p></td>
+<td><p>4×1024 KB</p></td>
+<td><p>8 MB</p></td>
+<td><p>HD Graphics 630 (350/1150 MHz)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/DDR3L" title="wikilink">DDR3L</a>-1600 MHz<br />
+<a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-2400 MHz</p></td>
+<td><p>65 W</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/LGA_1151" title="wikilink">LGA 1151</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>Core i7-7700T</p></td>
+<td><p>低功耗</p></td>
+<td><p>4 / 8</p></td>
+<td><p>2.9 GHz (3.8 GHz)</p></td>
+<td><p>4×1024 KB</p></td>
+<td><p>8 MB</p></td>
+<td><p>HD Graphics 630 (350/1150 MHz)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/DDR3L" title="wikilink">DDR3L</a>-1600 MHz<br />
+<a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-2400 MHz</p></td>
+<td><p>35 W</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/LGA_1151" title="wikilink">LGA 1151</a></p></td>
+</tr>
+<tr class="even">
+<td><p>Core i7-7700K</p></td>
+<td><p>玩家超頻</p></td>
+<td><p>4 / 8</p></td>
+<td><p>4.2 GHz (4.5 GHz)</p></td>
+<td><p>4×1024 KB</p></td>
+<td><p>8 MB</p></td>
+<td><p>HD Graphics 630 (350/1150 MHz)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/DDR3L" title="wikilink">DDR3L</a>-1600 MHz<br />
+<a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-2400 MHz</p></td>
+<td><p>91 W</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/LGA_1151" title="wikilink">LGA 1151</a></p></td>
+</tr>
+</tbody>
+</table>
+
+#### Kaby Lake-X (14 nm)
+
+| 型號            | 市場區隔 | 核心/執行緒 | 時脈頻率（超頻）          | 快取       | 顯示晶片 | 記憶體控制器 | TDP                                                            | 插槽    | 出品日期                                       |
+| ------------- | ---- | ------ | ----------------- | -------- | ---- | ------ | -------------------------------------------------------------- | ----- | ------------------------------------------ |
+| L2            | L3   |        |                   |          |      |        |                                                                |       |                                            |
+| Core i7-7740X | 極致版  | 4 / 8  | 4.3 GHz (4.5 GHz) | 4×256 KB | 8 MB | 無      | [DDR4](https://zh.wikipedia.org/wiki/DDR4 "wikilink")-2666 MHz | 112 W | [LGA 2066](../Page/LGA_2066.md "wikilink") |
 
 ### [Coffee Lake microarchitecture （8th）](https://zh.wikipedia.org/wiki/Coffee_Lake微架構 "wikilink")
 
@@ -306,7 +625,7 @@
 </tr>
 <tr class="even">
 <td><p>Core i7-620M</p></td>
-<td><p>標準功耗</p></td>
+<td><p>主流</p></td>
 <td><p>2 / 4</p></td>
 <td><p>2.66 GHz<br />
 (3.33 GHz)</p></td>
@@ -349,7 +668,7 @@ BGA-1288</p></td>
 </tr>
 <tr class="odd">
 <td><p>Core i7-620UM</p></td>
-<td><p>超低功耗</p></td>
+<td><p>低功耗</p></td>
 <td><p>2 / 4</p></td>
 <td><p>1.06 GHz<br />
 (2.13 GHz)</p></td>
@@ -399,7 +718,7 @@ BGA-1288</p></td>
 </tr>
 <tr class="even">
 <td><p>Core i7-2620M</p></td>
-<td><p>標準功耗</p></td>
+<td><p>主流</p></td>
 <td><p>2 / 4</p></td>
 <td><p>2.7 GHz<br />
 (3.4 GHz)</p></td>
@@ -442,7 +761,7 @@ BGA-1023</p></td>
 </tr>
 <tr class="odd">
 <td><p>Core i7-2617M</p></td>
-<td><p>超低功耗</p></td>
+<td><p>主流</p></td>
 <td><p>2 / 4</p></td>
 <td><p>1.5 GHz<br />
 (2.6 GHz)</p></td>
@@ -491,7 +810,7 @@ BGA-1023</p></td>
 </tr>
 <tr class="even">
 <td><p>Core i7-2920XM</p></td>
-<td><p>標準功耗</p></td>
+<td><p>主流</p></td>
 <td><p>4 / 8</p></td>
 <td><p>2.5 GHz<br />
 (3.5 GHz)</p></td>
@@ -518,7 +837,7 @@ BGA-1023</p></td>
 </tr>
 <tr class="even">
 <td><p>Core i7-2630QM</p></td>
-<td><p>標準功耗</p></td>
+<td><p>主流</p></td>
 <td><p>4 / 8</p></td>
 <td><p>2.0 GHz<br />
 (2.9 GHz)</p></td>

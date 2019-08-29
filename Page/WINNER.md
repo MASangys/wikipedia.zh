@@ -1,4 +1,4 @@
-**WINNER**（；），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[YG娛樂](../Page/YG娛樂.md "wikilink")透過[Mnet生存實境節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[WIN IS NEXT](../Page/WIN.md "wikilink")：WHO》所推出的[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，也是該經紀公司繼2006年[BIGBANG後第二組男子偶像團體](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")，現任成員為[金秦禹](../Page/金秦禹.md "wikilink")、[李昇勳](../Page/李昇勳.md "wikilink")、[宋旻浩及](https://zh.wikipedia.org/wiki/宋旻浩 "wikilink")[姜昇潤](../Page/姜昇潤.md "wikilink")，並由姜昇潤擔任隊長。2016年10月12日，YG娛樂公布[南太鉉](../Page/南太鉉.md "wikilink")因心理問題暫停演藝活動，\[1\]同年11月25日宣布退出團體，\[2\]自此以四人組體制活動。
+**WINNER**（；），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[YG娛樂](../Page/YG娛樂.md "wikilink")透過[Mnet](../Page/Mnet.md "wikilink")生存實境節目《[WIN IS NEXT](../Page/WIN.md "wikilink")：WHO》所推出的[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，也是該經紀公司繼2006年[BIGBANG後第二組男子偶像團體](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")，現任成員為[金秦禹](../Page/金秦禹.md "wikilink")、[李昇勳](../Page/李昇勳.md "wikilink")、[宋旻浩及](https://zh.wikipedia.org/wiki/宋旻浩 "wikilink")[姜昇潤](../Page/姜昇潤.md "wikilink")，並由姜昇潤擔任隊長。2016年10月12日，YG娛樂公布[南太鉉](../Page/南太鉉.md "wikilink")因心理問題暫停演藝活動，\[1\]同年11月25日宣布退出團體，\[2\]自此以四人組體制活動。
 
 ## 團體資料
 
@@ -86,11 +86,11 @@ LineData =
 
 ### 2013年至出道前
 
-2013年8月20日，在[首爾](../Page/首爾.md "wikilink")汝矣島舉行[YG娛樂](../Page/YG娛樂.md "wikilink")選拔新[男子音樂組合的生存淘汰賽節目](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")《[WIN](../Page/WIN.md "wikilink")》的製作發布會，首次公開旗下11名男練習生，並將其分成A隊及B隊，進行舞蹈、歌唱等出道競爭實錄，由觀眾投票選出最終優勝隊，而贏者可獲得隊名「**WINNER**」及出道機會。\[7\]2013年8月23日起，在有線電視[Mnet正式播映](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[WIN IS NEXT](../Page/WIN.md "wikilink")：WHO》。並從9月27日的首輪對決開始，《WIN》通過三輪對決和三次觀眾投票合算，最終胜者完全取決於觀眾的投票結果。\[8\]
+2013年8月20日，在[首爾](../Page/首爾.md "wikilink")汝矣島舉行[YG娛樂](../Page/YG娛樂.md "wikilink")選拔新[男子音樂組合的生存淘汰賽節目](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")《[WIN](../Page/WIN.md "wikilink")》的製作發布會，首次公開旗下11名男練習生，並將其分成A隊及B隊，進行舞蹈、歌唱等出道競爭實錄，由觀眾投票選出最終優勝隊，而贏者可獲得隊名「**WINNER**」及出道機會。\[7\]2013年8月23日起，在有線電視[Mnet](../Page/Mnet.md "wikilink")正式播映《[WIN IS NEXT](../Page/WIN.md "wikilink")：WHO》。並從9月27日的首輪對決開始，《WIN》通過三輪對決和三次觀眾投票合算，最終胜者完全取決於觀眾的投票結果。\[8\]
 
-2013年**10月25日**，經過十個禮拜競賽後，在終場以觀眾前兩次的投票結果佔總分的40%，與最終回的投票結果佔60%，分數加總出來的結果，宣布由當時五位平均年齡20歲的A隊獲得最終勝利。\[9\]A隊中，金秦禹及南太鉉為YG旗下長期練習生，\[10\]姜昇潤為2010年[Mnet音樂選秀節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《》殿軍，\[11\]李昇勳為2012年[SBS音樂選秀節目](https://zh.wikipedia.org/wiki/SBS "wikilink")《[K-pop Star 1](../Page/K-pop_Star_1.md "wikilink")》殿軍，而宋旻浩則曾是[Block B的預備成員](../Page/Block_B.md "wikilink")，後來於2011年以抒情團體「B.o.M」（已解散）成員出道。\[12\]另A隊早期尚未有隊長人選，後YG社長[梁鉉錫](../Page/梁鉉錫.md "wikilink")指定由宋旻浩擔任隊長，但第二轮对决前，因宋旻浩腳傷，擔心影響團隊比賽士氣，改由姜昇潤擔任隊長一職。\[13\]
+2013年**10月25日**，經過十個禮拜競賽後，在終場以觀眾前兩次的投票結果佔總分的40%，與最終回的投票結果佔60%，分數加總出來的結果，宣布由當時五位平均年齡20歲的A隊獲得最終勝利。\[9\]A隊中，金秦禹及南太鉉為YG旗下長期練習生，\[10\]姜昇潤為2010年[Mnet](../Page/Mnet.md "wikilink")音樂選秀節目《》殿軍，\[11\]李昇勳為2012年[SBS音樂選秀節目](https://zh.wikipedia.org/wiki/SBS "wikilink")《[K-pop Star 1](../Page/K-pop_Star_1.md "wikilink")》殿軍，而宋旻浩則曾是[Block B的預備成員](../Page/Block_B.md "wikilink")，後來於2011年以抒情團體「B.o.M」（已解散）成員出道。\[12\]另A隊早期尚未有隊長人選，後YG社長[梁鉉錫](../Page/梁鉉錫.md "wikilink")指定由宋旻浩擔任隊長，但第二轮对决前，因宋旻浩腳傷，擔心影響團隊比賽士氣，改由姜昇潤擔任隊長一職。\[13\]
 
-2013年12月13日，[YG娛樂](../Page/YG娛樂.md "wikilink")與有線電視[Mnet推出由WINNER成員出演共十集的紀實綜藝節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《WINNER TV》，旨在展現成員的個人魅力、出道專輯的準備過程、擔任[BIGBANG日本六大巨蛋巡演開場舞台經驗](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")、及日本見面會現場等等內容，\[14\]並且首次參與了主題曲的創作。\[15\]
+2013年12月13日，[YG娛樂](../Page/YG娛樂.md "wikilink")與有線電視[Mnet](../Page/Mnet.md "wikilink")推出由WINNER成員出演共十集的紀實綜藝節目《WINNER TV》，旨在展現成員的個人魅力、出道專輯的準備過程、擔任[BIGBANG日本六大巨蛋巡演開場舞台經驗](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")、及日本見面會現場等等內容，\[14\]並且首次參與了主題曲的創作。\[15\]
 
 2014年1月17日，於《WINNER TV》節目中，[梁鉉錫](../Page/梁鉉錫.md "wikilink")社長表示：「WINNER預計將在《WINNER TV》結束的2月底出道，目前正在錄製專輯中。為了能夠充分發揮他們自創曲能力，專輯發行日期只能向後延。」並表示：「想通過這張專輯讓人們對WINNER的未來抱有更大期待。」展現其特别的關心。\[16\]
 
@@ -116,7 +116,7 @@ LineData =
 
 2014年12月17日，根據STARNEWS採訪各歌謠唱片製作人，音樂節目PD、作曲家、評論家等28位歌曲專家為對象進行了「2014年最棒的新人」為題目的問卷調查，結果32.1%（9票）選擇WINNER為今年最棒的新人。\[27\]2014年末至2015年初，WINNER獲得許多2014年度韓國各大頒獎典禮的新人獎成為2014年最受矚目的新人團體之一。
 
-2015年，除了參與WWIC巡迴及日本Hall巡迴演唱會《WINNER JAPAN TOUR 2015》活動外，成員金秦禹、姜昇潤、南太鉉分別參與拍攝網路劇及戲劇挑戰演技，\[28\]\[29\]\[30\]\[31\]\[32\]\[33\]宋旻浩則參與了[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") Rapper生存節目《[Show Me The Money 4](../Page/Show_Me_The_Money_4.md "wikilink")》取得亞軍。\[34\]\[35\]
+2015年，除了參與WWIC巡迴及日本Hall巡迴演唱會《WINNER JAPAN TOUR 2015》活動外，成員金秦禹、姜昇潤、南太鉉分別參與拍攝網路劇及戲劇挑戰演技，\[28\]\[29\]\[30\]\[31\]\[32\]\[33\]宋旻浩則參與了[Mnet](../Page/Mnet.md "wikilink") Rapper生存節目《[Show Me The Money 4](../Page/Show_Me_The_Money_4.md "wikilink")》取得亞軍。\[34\]\[35\]
 
 ### 2016年：首張迷你專輯《EXIT:E》、首次單獨演唱會
 

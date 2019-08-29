@@ -80,7 +80,7 @@ Linzy曾為[YG娛樂](../Page/YG娛樂.md "wikilink")練習生，亦曾是[2NE1]
 
 ## 過往成員資料
 
-| 成員列表\[33\] |
+| 離開成員\[33\] |
 | ---------- |
 | 藝名         |
 | 藝名         |
@@ -661,14 +661,14 @@ PlotData =
 | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink") | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")             | 11月10日、11月24日、12月1日、12月8日    |
 | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")              | [SBS](../Page/SBS_\(韓國\).md "wikilink")                         | 11月11日、11月18日、12月2日          |
 
-|                                                                        |                                                       |                     |
-| ---------------------------------------------------------------------- | ----------------------------------------------------- | ------------------- |
-| 名稱                                                                     | 頻道                                                    | 日期                  |
-| **I Don't Know**                                                       |                                                       |                     |
-| [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | 11月7日、12月5日         |
-| [音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")                  | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | 11月8日、11月15日、11月22日 |
-| [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | 11月9日、11月23日        |
-| [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  | [SBS](../Page/SBS_\(韓國\).md "wikilink")               | 11月3日、11月17日、12月15日 |
+|                                                                        |                                                     |                     |
+| ---------------------------------------------------------------------- | --------------------------------------------------- | ------------------- |
+| 名稱                                                                     | 頻道                                                  | 日期                  |
+| **I Don't Know**                                                       |                                                     |                     |
+| [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | [Mnet](../Page/Mnet.md "wikilink")                  | 11月7日、12月5日         |
+| [音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")                  | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | 11月8日、11月15日、11月22日 |
+| [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 11月9日、11月23日        |
+| [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | 11月3日、11月17日、12月15日 |
 
 <table>
 <tbody>
@@ -729,7 +729,7 @@ PlotData =
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>3月5日、3月19日、4月2日、4月9日</p></td>
 </tr>
 <tr class="even">
@@ -769,7 +769,7 @@ PlotData =
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>3月10日、3月17日、3月31日</p></td>
 </tr>
 <tr class="odd">
@@ -839,7 +839,7 @@ PlotData =
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>6月9日、6月23日</p></td>
 </tr>
 <tr class="odd">

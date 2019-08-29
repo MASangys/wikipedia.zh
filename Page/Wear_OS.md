@@ -18,6 +18,7 @@
   - [Broadcom](https://zh.wikipedia.org/wiki/博通 "wikilink")
   - [FOSSIL](https://zh.wikipedia.org/wiki/化石集团 "wikilink")
   - [HTC](https://zh.wikipedia.org/wiki/HTC "wikilink")
+  - [出门问问](https://zh.wikipedia.org/wiki/出门问问 "wikilink")
   - [華爲](https://zh.wikipedia.org/wiki/華爲 "wikilink")
   - [Intel](https://zh.wikipedia.org/wiki/Intel "wikilink")
   - [LG](https://zh.wikipedia.org/wiki/LG "wikilink")

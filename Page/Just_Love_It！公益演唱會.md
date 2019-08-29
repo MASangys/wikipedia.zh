@@ -13,7 +13,7 @@
 <tr class="header">
 <th><p>日期</p></th>
 <th><p>城市</p></th>
-<th><p>國家/地區</p></th>
+<th><p>國家／地區</p></th>
 <th><p>場地</p></th>
 <th><p>表演嘉賓</p></th>
 <th><p>附註</p></th>
@@ -21,7 +21,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><strong>2012年</strong></p></td>
+<td><p>2012年</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -57,7 +57,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/北京首都體育館" title="wikilink">北京首都體育館</a></p></td>
 <td><p><a href="../Page/白安.md" title="wikilink">白安</a><br />
 <a href="../Page/MP魔幻力量.md" title="wikilink">MP魔幻力量</a><br />
-<a href="https://zh.wikipedia.org/wiki/家家" title="wikilink">家家</a><br />
+<a href="../Page/紀家盈.md" title="wikilink">家家</a><br />
 <a href="https://zh.wikipedia.org/wiki/劉若英" title="wikilink">劉若英</a></p></td>
 <td></td>
 </tr>
@@ -72,30 +72,30 @@
 <tr class="even">
 <td><p>2013年5月1日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/廣州" title="wikilink">廣州</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/广州国际体育演艺中心" title="wikilink">廣州國際體育演藝中心</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/家家" title="wikilink">家家</a><br />
-<a href="../Page/白安.md" title="wikilink">白安</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/廣州國際體育演藝中心" title="wikilink">廣州國際體育演藝中心</a></p></td>
+<td><p>家家<br />
+白安<br />
 <a href="../Page/嚴爵.md" title="wikilink">嚴爵</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2013年6月1日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/臺中市" title="wikilink">臺中市</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/台灣" title="wikilink">台灣</a></p></td>
+<td><p>臺中市</p></td>
+<td><p>台灣</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/國立台灣體育運動大學" title="wikilink">國立台灣體育運動大學</a><br />
 台中校址田徑場</p></td>
-<td><p><a href="../Page/嚴爵.md" title="wikilink">嚴爵</a><br />
-<a href="https://zh.wikipedia.org/wiki/宇宙人_(樂團)" title="wikilink">宇宙人</a></p></td>
-<td><p>「追夢3DNA」台灣上映票房前三名城市允諾（本演出所有贊助金額全數捐贈台灣兒童暨家庭扶助基金會）</p></td>
+<td><p>嚴爵<br />
+<a href="https://zh.wikipedia.org/wiki/宇宙人_(台灣樂團)" title="wikilink">宇宙人</a></p></td>
+<td><p>「追夢3DNA」台灣上映票房前三名城市允諾（本演出所有贊助金額全數捐贈台灣兒童暨家庭扶助基金會） [5]</p></td>
 </tr>
 <tr class="even">
 <td><p>2013年7月5日</p></td>
 <td><p><a href="../Page/新竹縣.md" title="wikilink">新竹縣</a></p></td>
 <td><p><a href="../Page/新竹縣政府.md" title="wikilink">新竹縣政府</a>廣場</p></td>
-<td><p><a href="../Page/白安.md" title="wikilink">白安</a><br />
-<a href="https://zh.wikipedia.org/wiki/家家" title="wikilink">家家</a><br />
-<a href="../Page/嚴爵.md" title="wikilink">嚴爵</a></p></td>
+<td><p>白安<br />
+家家<br />
+嚴爵</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -103,8 +103,8 @@
 <td><p>2013年7月7日</p></td>
 <td><p><a href="../Page/臺北市.md" title="wikilink">臺北市</a></p></td>
 <td><p>台北市圓山廣場</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/宇宙人_(樂團)" title="wikilink">宇宙人</a><br />
-<a href="https://zh.wikipedia.org/wiki/家家" title="wikilink">家家</a> [5]</p></td>
+<td><p>宇宙人<br />
+家家</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -119,9 +119,9 @@
 <tr class="odd">
 <td><p>2014年7月27日</p></td>
 <td><p><a href="../Page/高雄市.md" title="wikilink">高雄市</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/台灣" title="wikilink">台灣</a></p></td>
+<td><p>台灣</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/高雄巨蛋" title="wikilink">高雄巨蛋</a></p></td>
-<td><p>Hush !<br />
+<td><p><a href="../Page/Hush_(歌手).md" title="wikilink">Hush !</a><br />
 <a href="https://zh.wikipedia.org/wiki/乱彈阿翔" title="wikilink">-{乱}-彈阿翔</a><br />
 <a href="../Page/丁噹.md" title="wikilink">丁噹</a></p></td>
 <td><p>「擁抱」演唱會<br />
@@ -132,8 +132,8 @@ Just Love It 從2012年舉辦至今，號召樂迷共同關注在各地需要生
 </tr>
 <tr class="even">
 <td><p>2014年8月3日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/北京" title="wikilink">北京</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/中國大陸" title="wikilink">中國大陸</a></p></td>
+<td><p>北京</p></td>
+<td><p>中國大陸</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/萬事達中心" title="wikilink">萬事達中心</a></p></td>
 <td><p>李劍青<br />
 白安<br />
@@ -151,7 +151,7 @@ Just Love It 從2012年舉辦至今，號召樂迷共同關注在各地需要生
 <tr class="even">
 <td><p>2014年8月8日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/宜蘭縣" title="wikilink">宜蘭縣</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/台灣" title="wikilink">台灣</a></p></td>
+<td><p>台灣</p></td>
 <td><p>中興文化創意園區</p></td>
 <td><p>MP魔幻力量<br />
 -{乱}-彈阿翔</p></td>
@@ -236,8 +236,6 @@ Just Love It 從2012年舉辦至今，號召樂迷共同關注在各地需要生
 </table>
 
 ## 參考文獻
-
-[分類:五月天](https://zh.wikipedia.org/wiki/分類:五月天 "wikilink")
 
 [Category:巡迴音樂會](https://zh.wikipedia.org/wiki/Category:巡迴音樂會 "wikilink") [Category:五月天巡迴演唱會](https://zh.wikipedia.org/wiki/Category:五月天巡迴演唱會 "wikilink") [Category:公益演唱會](https://zh.wikipedia.org/wiki/Category:公益演唱會 "wikilink")
 

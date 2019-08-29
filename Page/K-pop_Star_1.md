@@ -183,7 +183,7 @@
 | 3  | 신진아                              | Irreplaceable -[Beyonce](https://zh.wikipedia.org/wiki/Beyonce "wikilink")                                                                            | O      | X  |
 | 4  | 오상헌                              | 사랑밖에 난 몰라 - 심수봉                                                                                                                                       | O      | X  |
 | 5  | 김성훈                              | Honey - [朴軫永](../Page/朴軫永.md "wikilink")                                                                                                              | ?      | ?  |
-| 6  | 최유나                              | 그대라서 - 거미(노래) / (舞蹈)                                                                                                                                  | O      | X  |
+| 6  | Yuju(GFRIEND)                    | 그대라서 - 거미(노래) / (舞蹈)                                                                                                                                  | O      | X  |
 | 7  | 成秀珍                              | 용서 - 이희진 / I Want You Back - [Michael Jackson](https://zh.wikipedia.org/wiki/Michael_Jackson "wikilink")                                              | O      | O  |
 | 8  | 다니엘라 전                           | I Wish You Love - Frank Sinatra                                                                                                                       | O      | X  |
 | 9  | 아리엘 포르첼라                         | Better Together - [SE7EN](https://zh.wikipedia.org/wiki/SE7EN "wikilink")                                                                             | X      | X  |

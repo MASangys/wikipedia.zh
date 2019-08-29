@@ -1,5 +1,4 @@
-
-  **Tank Ex**或 **MBT Ex**是印度[国防研究开发局于](https://zh.wikipedia.org/wiki/国防研究开发局 "wikilink")2002年提出的一种[主战坦克方案](https://zh.wikipedia.org/wiki/主战坦克 "wikilink")。据传言其名字为*[迦尔纳](https://zh.wikipedia.org/wiki/迦尔纳 "wikilink")*，史诗[摩诃婆罗多](../Page/摩诃婆罗多.md "wikilink")中的一个英雄。\[1\]\[2\]它是继Ajeya坦克（T-72改型）后DRDO再一次打算尝试制作一版T-72改进型坦克。\[3\] 它制造了两个样车，进行了半年的测试并表现良好，但是印度陆军没采用它。\[4\]
+**Tank Ex**或 **MBT Ex**是印度[國防研究及發展組織](../Page/國防研究及發展組織.md "wikilink")于2002年提出的一种[主战坦克方案](https://zh.wikipedia.org/wiki/主战坦克 "wikilink")。据传言其名字为*[迦尔纳](https://zh.wikipedia.org/wiki/迦尔纳 "wikilink")*，史诗[摩诃婆罗多](../Page/摩诃婆罗多.md "wikilink")中的一个英雄。\[1\]\[2\]它是继Ajeya坦克（T-72改型）后DRDO再一次打算尝试制作一版T-72改进型坦克。\[3\] 它制造了两个样车，进行了半年的测试并表现良好，但是印度陆军没采用它。\[4\]
 
 ## 注释
 

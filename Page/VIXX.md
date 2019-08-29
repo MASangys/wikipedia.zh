@@ -1,6 +1,6 @@
 **VIXX**（；）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Jellyfish娛樂](../Page/Jellyfish娛樂.md "wikilink")於2012年所推出的六人男子團體，由[N](https://zh.wikipedia.org/wiki/N_\(韓國歌手\) "wikilink")、[LEO](https://zh.wikipedia.org/wiki/鄭澤運 "wikilink")、[KEN](../Page/李宰焕.md "wikilink")、[RAVI](../Page/金元植.md "wikilink")、[HONGBIN](../Page/李弘彬.md "wikilink")、[HYUK六名成員組成](https://zh.wikipedia.org/wiki/韓相爀 "wikilink")。
 
-團名寓意「Voice, Visual, Value In Excelsis」，代表最佳的聲音，視覺和價值，寓意要成為歌壇的最佳。出道前粉絲就已破千人，有「霸道之聲」的美譽。出道前透過[Mnet實境節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《Mydol》紀錄練習生生活，並於2012年5月24日在《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》節目中出道。
+團名寓意「Voice, Visual, Value In Excelsis」，代表最佳的聲音，視覺和價值，寓意要成為歌壇的最佳。出道前粉絲就已破千人，有「霸道之聲」的美譽。出道前透過[Mnet](../Page/Mnet.md "wikilink")實境節目《Mydol》紀錄練習生生活，並於2012年5月24日在《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》節目中出道。
 
 VIXX的官方粉絲名稱為「ST★RLIGHT」（；），意味著VIXX的粉絲在VIXX眼中像星光一樣存在著，成為其動力並引領他們前進。應援口號為「Real V\! V.I.X.X VIXX\!」；應援物為官方毛巾及手燈，官方應援色是海軍藍+金色。（出道初期曾用angel天使做為粉絲名稱，此為出道節目《MyDol》節目所稱。）
 
@@ -886,26 +886,26 @@ VIXX的6名成員由Mnet生存選秀節目MyDOL中10位參賽者中脫穎而出�
 
 #### 音樂節目主持
 
-|                  |                                                       |                                                                     |                |            |
-| ---------------- | ----------------------------------------------------- | ------------------------------------------------------------------- | -------------- | ---------- |
-| **日期**           | **電視台**                                               | **節目名稱**                                                            | **參與成員**       | '''備註 '''  |
-| 2014年1月10日       | KBS                                                   | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")   | N、LEO          | 待機室訪問特別 MC |
-| 2015年3月3日─10月13日 | SBS MTV                                               | [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")            | HONGBIN        | 固定MC       |
-| 2015年5月9日─11月14日 | MBC                                                   | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")  | N              | 固定MC       |
-| 2015年11月17日      | SBS MTV                                               | [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")            | HYUK           | 特別 MC      |
-| 2016年4月24日       | SBS                                                   | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")               | HONGBIN        | 特別 MC      |
-| 2016年4月26日       | SBS MTV                                               | [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")            | N              | 特別 MC      |
-| 2016年5月3日        | SBS MTV                                               | [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")            | KEN            | 特別 MC      |
-| 2016年5月10日       | SBS MTV                                               | [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")            | HYUK           | 特別 MC      |
-| 2016年8月16日       | SBS MTV                                               | [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")            | HONGBIN        | 特別 MC      |
-| 2016年8月23日       | SBS MTV                                               | [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")            | N              | 特別 MC      |
-| 2016年8月30日       | SBS MTV                                               | [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")            | HYUK           | 特別 MC      |
-| 2017年2月14日       | SBS MTV                                               | [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")            | HONGBIN        | 特別 MC      |
-| 2017年5月18日       | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | [M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink") | N、HONGBIN、HYUK | 特別 MC      |
-| 2017年9月2日        | MBC                                                   | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")  | N              | 特別 MC      |
-| 2018年5月18日       | KBS                                                   | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")   | N              | 特別 MC      |
-| 2019年1月10日       | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | [M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink") | RAVI、HYUK      | 特別 MC      |
-| 2019年3月21日       | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | [M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink") | RAVI           | 特別 MC      |
+|                  |                                    |                                                                     |                |            |
+| ---------------- | ---------------------------------- | ------------------------------------------------------------------- | -------------- | ---------- |
+| **日期**           | **電視台**                            | **節目名稱**                                                            | **參與成員**       | '''備註 '''  |
+| 2014年1月10日       | KBS                                | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")   | N、LEO          | 待機室訪問特別 MC |
+| 2015年3月3日─10月13日 | SBS MTV                            | [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")            | HONGBIN        | 固定MC       |
+| 2015年5月9日─11月14日 | MBC                                | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")  | N              | 固定MC       |
+| 2015年11月17日      | SBS MTV                            | [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")            | HYUK           | 特別 MC      |
+| 2016年4月24日       | SBS                                | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")               | HONGBIN        | 特別 MC      |
+| 2016年4月26日       | SBS MTV                            | [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")            | N              | 特別 MC      |
+| 2016年5月3日        | SBS MTV                            | [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")            | KEN            | 特別 MC      |
+| 2016年5月10日       | SBS MTV                            | [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")            | HYUK           | 特別 MC      |
+| 2016年8月16日       | SBS MTV                            | [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")            | HONGBIN        | 特別 MC      |
+| 2016年8月23日       | SBS MTV                            | [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")            | N              | 特別 MC      |
+| 2016年8月30日       | SBS MTV                            | [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")            | HYUK           | 特別 MC      |
+| 2017年2月14日       | SBS MTV                            | [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")            | HONGBIN        | 特別 MC      |
+| 2017年5月18日       | [Mnet](../Page/Mnet.md "wikilink") | [M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink") | N、HONGBIN、HYUK | 特別 MC      |
+| 2017年9月2日        | MBC                                | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")  | N              | 特別 MC      |
+| 2018年5月18日       | KBS                                | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")   | N              | 特別 MC      |
+| 2019年1月10日       | [Mnet](../Page/Mnet.md "wikilink") | [M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink") | RAVI、HYUK      | 特別 MC      |
+| 2019年3月21日       | [Mnet](../Page/Mnet.md "wikilink") | [M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink") | RAVI           | 特別 MC      |
 
 #### 綜藝節目主持
 

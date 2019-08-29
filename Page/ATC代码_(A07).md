@@ -26,7 +26,7 @@
 
   -
     A07AB02 [酞磺胺噻唑](https://zh.wikipedia.org/wiki/酞磺胺噻唑 "wikilink")（Phthalylsulfathiazole）
-    A07AB03 [磺胺胍](https://zh.wikipedia.org/wiki/磺胺胍 "wikilink")（Sulfaguanidine）
+    A07AB03 [磺胺胍](../Page/磺胺胍.md "wikilink")（Sulfaguanidine）
     A07AB04 [琥珀磺胺噻唑](https://zh.wikipedia.org/wiki/琥珀磺胺噻唑 "wikilink")（Succinylsulfathiazole）
     QA07AB20 磺胺类药，复方（Sulfonamides, combinations）
     QA07AB90 [甲醛磺胺噻唑](https://zh.wikipedia.org/wiki/甲醛磺胺噻唑 "wikilink")（Formosulfathiazole）

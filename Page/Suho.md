@@ -1,4 +1,4 @@
-**金俊勉**\[1\]（，， ），藝名**Suho**（；），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男藝人](https://zh.wikipedia.org/wiki/男藝人 "wikilink")，為韓國男子團體[EXO](../Page/EXO.md "wikilink")及韓國分隊[EXO-K](../Page/EXO-K.md "wikilink")的隊長，在隊中擔任總隊長、副領唱，虛構超能力為「**水**」。
+**金俊勉**\[1\]（，， ），藝名**Suho**（；），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男藝人](https://zh.wikipedia.org/wiki/男藝人 "wikilink")，為韓國男子團體[EXO](../Page/EXO.md "wikilink")及韓國分隊[EXO-K](../Page/EXO-K.md "wikilink")的隊長，在隊中擔任總隊長、領唱，虛構超能力為「**水**」。
 
 ## 簡介
 
@@ -16,17 +16,17 @@
 
 2014年2月16日，Suho與[伯賢](../Page/伯賢.md "wikilink")、[光熙](../Page/光熙.md "wikilink")、李侑菲成為[SBS](../Page/SBS_\(韓國\).md "wikilink")《[人氣歌謠](../Page/人气歌谣.md "wikilink")》的固定主持。同年12月14日，Suho和伯賢因要投入預備EXO明年初的回歸所以從節目下車。\[3\]
 
-### 2015年-現今：戲劇發展、音樂劇演出、《Curtain》、《Dinner》、宣傳大使
+### 2015年-現今：戲劇發展、音樂劇演出、《Curtain》、《Dinner》、電影節宣傳大使
 
-2015年1月，Suho參與SM娛樂製作的立體音樂劇《School OZ》，並飾演Hans。該音樂劇由EXO成員[Xiumin](../Page/Xiumin.md "wikilink")，東方神起的[昌珉](../Page/沈昌珉.md "wikilink")，SHINee成員的[Key](https://zh.wikipedia.org/wiki/Key_\(歌手\) "wikilink")，f(x)成員[Luna](../Page/朴善英.md "wikilink")，以及Red Velvet成員[Seulgi擔綱演出](../Page/瑟琪.md "wikilink")。\[4\]
+2015年1月，Suho參與SM娛樂製作的立體音樂劇《School OZ》，並飾演Hans。該音樂劇由EXO成員[Xiumin](../Page/Xiumin.md "wikilink")，東方神起的[昌珉](../Page/沈昌珉.md "wikilink")，SHINee成員的[Key](https://zh.wikipedia.org/wiki/Key_\(歌手\) "wikilink")，f(x)成員[Luna](../Page/朴善英.md "wikilink")，以及Red Velvet成員[Seulgi擔綱演出](../Page/瑟琪.md "wikilink")\[4\]。4月，Suho與[Super Junior](../Page/Super_Junior.md "wikilink")[圭賢](../Page/圭賢.md "wikilink")、[SHINee](../Page/SHINee.md "wikilink")[珉豪](../Page/珉豪.md "wikilink")、[CNBLUE](../Page/CNBLUE.md "wikilink")[宗泫和](../Page/李宗泫.md "wikilink")[INFINITE](../Page/INFINITE.md "wikilink")[聖圭共同出演的綜藝節目](../Page/金聖圭.md "wikilink")《[心動不已的印度](../Page/心動不已的印度.md "wikilink")》播出。這檔節目描述了嘉賓在印度發生的橫衝直撞之採訪故事，還包含了一般旅行節目看不到的逼真採訪現場以有趣事件，是一部新概念綜藝節目\[5\]。
 
-2016年3月，Suho首部電影《[衝出不歸路](../Page/衝出不歸路.md "wikilink")》上映，Suho飾演放棄升學入伍的尚成宇\[5\]。7月，Suho與Super Junior的[利特](../Page/利特.md "wikilink")和女歌手Kassy為8月出戰巴西里約熱內盧奧運會的國家代表選手打氣，在SM STATION發佈歌曲《My Hero》。\[6\]
+2016年3月，Suho首部電影《[衝出不歸路](../Page/衝出不歸路.md "wikilink")》上映，Suho飾演放棄升學入伍的尚成宇\[6\]。7月，Suho與Super Junior的[利特](../Page/利特.md "wikilink")和女歌手Kassy為8月出戰巴西里約熱內盧奧運會的國家代表選手打氣，在SM STATION發佈歌曲《My Hero》。\[7\]
 
-2017年1月，Suho擔任MBC獨幕劇「三色奇幻」的第一篇《[宇宙之星](../Page/宇宙之星.md "wikilink")》的男主角宇宙，同時亦為電視劇演唱OST《Starlight》\[7\]\[8\]。2月，Suho與宋英珠合作演唱《Curtain》，此曲為[SM STATION第一季最後一首歌曲](../Page/SM_STATION.md "wikilink")\[9\]。12月，Suho演出著名作品《The Last Kiss》並飾演男主角Rudolf\[10\]。
+2017年1月，Suho擔任MBC獨幕劇「三色奇幻」的第一篇《[宇宙之星](../Page/宇宙之星.md "wikilink")》的男主角宇宙，同時亦為電視劇演唱OST《Starlight》\[8\]\[9\]。2月，Suho與宋英珠合作演唱《Curtain》，此曲為[SM STATION第一季最後一首歌曲](../Page/SM_STATION.md "wikilink")\[10\]。12月，Suho演出著名作品《The Last Kiss》並飾演男主角Rudolf\[11\]。
 
-2018年3月9-10日，Suho與[張才人](../Page/張才人.md "wikilink")合唱的歌曲《打擾一下可以嗎》和《Dinner》分別於Mystic Listen和SM STATION上發佈。5月9日，Suho與[夏沇秀](../Page/夏沇秀.md "wikilink")、[吳昶錫](../Page/吳昶錫.md "wikilink")和[金叡園](../Page/金叡園.md "wikilink")等演員主演的電視劇《[Rich Man](../Page/Rich_Man.md "wikilink")》開播。Suho飾演擁有億萬資產的IT企業社長李有燦\[11\]。6月20日，Suho與金煥熙主演的電影《女中學生A》上映。Suho於《女中學生A》中飾演在熙，是女中學生美萊的網友\[12\]。7月，音樂劇《笑面人》開始公演，Suho飾演本是貴族卻自幼被賣入人販子手中，被殘忍毀容成為「笑面人」，流落江湖，一生悲慘的男主人公Gwynplaine（格溫普蘭）\[13\]。
+2018年3月9-10日，Suho與[張才人](../Page/張才人.md "wikilink")合唱的歌曲《打擾一下可以嗎》和《Dinner》分別於Mystic Listen和SM STATION上發佈。5月9日，Suho與[夏沇秀](../Page/夏沇秀.md "wikilink")、[吳昶錫](../Page/吳昶錫.md "wikilink")和[金叡園](../Page/金叡園.md "wikilink")等演員主演的電視劇《[Rich Man](../Page/Rich_Man.md "wikilink")》開播。Suho飾演擁有億萬資產的IT企業社長李有燦\[12\]。6月20日，Suho與金煥熙主演的電影《女中學生A》上映。Suho於《女中學生A》中飾演在熙，是女中學生美萊的網友\[13\]。7月，音樂劇《笑面人》開始公演，Suho飾演本是貴族卻自幼被賣入人販子手中，被殘忍毀容成為「笑面人」，流落江湖，一生悲慘的男主人公Gwynplaine（格溫普蘭）\[14\]。
 
-2019年5月，Suho擔任第13屆大邱國際音樂劇節（DIMF）宣傳大使\[14\]。7月，Suho被委任為第7屆韓國順天灣世界動物電影節的宣傳大使，而電影節將於8月22日至26日在韓國順天舉行，屆時將會免費放映70多部人類與動物及自然共存的電影\[15\]。
+2019年5月，Suho擔任第13屆大邱國際音樂劇節（DIMF）宣傳大使\[15\]。7月，Suho被委任為第7屆韓國順天灣世界動物電影節的宣傳大使，而電影節將於8月22日至26日在韓國順天舉行，屆時將會免費放映70多部人類與動物及自然共存的電影\[16\]。
 
 ## 音樂作品
 
@@ -46,7 +46,7 @@
 | 2014年      | Beautiful               | 《Exology Chapter1: The Lost Planet》                  |                                      |
 | 2016年7月日   | My Hero                 | 《[SM STATION 第一季](../Page/SM_STATION.md "wikilink")》 | [利特](../Page/利特.md "wikilink")、Kassy |
 | 2017年2月3日  | Curtain                 | 宋英珠                                                  |                                      |
-| 2018年3月9日  | 실례해도 될까요（打擾一下可以嗎）\[16\] | 《Mystic Listen》                                      | [張才人](../Page/張才人.md "wikilink")     |
+| 2018年3月9日  | 실례해도 될까요（打擾一下可以嗎）\[17\] | 《Mystic Listen》                                      | [張才人](../Page/張才人.md "wikilink")     |
 | 2018年3月10日 | Dinner                  | 《[SM STATION 第二季](../Page/SM_STATION.md "wikilink")》 |                                      |
 
 ### OST
@@ -72,12 +72,12 @@
 <td><p>2018年</p></td>
 <td><p>打擾一下可以嗎</p></td>
 <td><p>《Mystic Listen》</p></td>
-<td><p><small>（與<a href="../Page/張才人.md" title="wikilink">張才人</a>）</small>[17]</p></td>
+<td><p><small>（與<a href="../Page/張才人.md" title="wikilink">張才人</a>）</small>[18]</p></td>
 </tr>
 <tr class="odd">
 <td><p>Dinner</p></td>
 <td><p>《SM STATION 第二季》</p></td>
-<td><p><small>（與<a href="../Page/張才人.md" title="wikilink">張才人</a>）</small>[18]</p></td>
+<td><p><small>（與<a href="../Page/張才人.md" title="wikilink">張才人</a>）</small>[19]</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -121,7 +121,7 @@
 | 年份          | 音樂劇名稱         | 角色               | 性質  |
 | 2015年       | School OZ     | Hans             | 配角  |
 | 2017年-2018年 | The Last Kiss | Rudolf           | 男主角 |
-| 2018年       | 笑面人\[19\]     | Gwynplaine（格溫普蘭） |     |
+| 2018年       | 笑面人\[20\]     | Gwynplaine（格溫普蘭） |     |
 
 ### 固定綜藝
 
@@ -208,7 +208,7 @@
 </tr>
 <tr class="odd">
 <td><p>2015年6月4日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td><p>特別MC</p></td>
 </tr>
@@ -244,7 +244,7 @@
 |           |             |                    |                                        |
 | --------- | ----------- | ------------------ | -------------------------------------- |
 | 日期        | 電視台         | 節目名稱               | 合作藝人                                   |
-| 2017年4月3日 | Mountain TV | 《在天空中遇見大韓民國》\[20\] | [Xiumin](../Page/Xiumin.md "wikilink") |
+| 2017年4月3日 | Mountain TV | 《在天空中遇見大韓民國》\[21\] | [Xiumin](../Page/Xiumin.md "wikilink") |
 
 ## 其他作品
 
@@ -276,7 +276,7 @@
 <tr class="even">
 <td><p>2012年11月刊</p></td>
 <td><p>Cosmopolitan</p></td>
-<td><p>與<a href="../Page/鄭秀晶.md" title="wikilink">Krystal</a>、<a href="https://zh.wikipedia.org/wiki/劉逸雲" title="wikilink">Amber</a>、Baekhyun、D.O.[21]</p></td>
+<td><p>與<a href="../Page/鄭秀晶.md" title="wikilink">Krystal</a>、<a href="https://zh.wikipedia.org/wiki/劉逸雲" title="wikilink">Amber</a>、Baekhyun、D.O.[22]</p></td>
 </tr>
 <tr class="odd">
 <td><p>Oh Boy!</p></td>
@@ -290,28 +290,28 @@
 </tr>
 <tr class="odd">
 <td><p>2014年4月刊</p></td>
-<td><p>The Celebrity[22]</p></td>
+<td><p>The Celebrity[23]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2015年8月刊</p></td>
 <td><p>star1</p></td>
-<td><p>與<a href="../Page/伯賢.md" title="wikilink">Baekhyun</a>、Chen[23]</p></td>
+<td><p>與<a href="../Page/伯賢.md" title="wikilink">Baekhyun</a>、Chen[24]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2015年12月刊</p></td>
 <td><p>Vogue Korea</p></td>
-<td><p>與<a href="../Page/Sehun.md" title="wikilink">Sehun</a>、<a href="../Page/Kai.md" title="wikilink">Kai</a>、<a href="../Page/CHEN_(EXO).md" title="wikilink">Chen</a>[24]</p></td>
+<td><p>與<a href="../Page/Sehun.md" title="wikilink">Sehun</a>、<a href="../Page/Kai.md" title="wikilink">Kai</a>、<a href="../Page/CHEN_(EXO).md" title="wikilink">Chen</a>[25]</p></td>
 </tr>
 <tr class="even">
 <td><p>2016年2月刊</p></td>
 <td><p>Cosmopolitan</p></td>
 <td><p>與<a href="../Page/藝聲.md" title="wikilink">藝聲</a>、<a href="https://zh.wikipedia.org/wiki/Key_(歌手)" title="wikilink">Key</a>、<a href="../Page/泰民.md" title="wikilink">泰民</a><br />
-為「Make a Promise」慈善活動[25]</p></td>
+為「Make a Promise」慈善活動[26]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016年3月刊</p></td>
-<td><p>Vogue[26]</p></td>
+<td><p>Vogue[27]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -325,7 +325,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Max Movie[27]</p></td>
+<td><p>Max Movie[28]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -336,18 +336,18 @@
 </tr>
 <tr class="even">
 <td><p>2016年5月刊</p></td>
-<td><p>W Korea[28]</p></td>
+<td><p>W Korea[29]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2016年6月刊</p></td>
-<td><p>Vivi[29]</p></td>
+<td><p>Vivi[30]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2016年9月刊</p></td>
 <td><p>Esquire</p></td>
-<td><p>封面[30]</p></td>
+<td><p>封面[31]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016年11月刊</p></td>
@@ -356,12 +356,12 @@
 </tr>
 <tr class="even">
 <td><p>2017年1月刊</p></td>
-<td><p>star1[31]</p></td>
+<td><p>star1[32]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2017年3月刊</p></td>
-<td><p>Allure[32]</p></td>
+<td><p>Allure[33]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -372,7 +372,7 @@
 <tr class="odd">
 <td><p>2019年1月刊</p></td>
 <td><p>LEON</p></td>
-<td><p>封面[33]</p></td>
+<td><p>封面[34]</p></td>
 </tr>
 <tr class="even">
 <td><p>2019年4月刊</p></td>
@@ -398,7 +398,7 @@
 | ------- | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 日期      | 活動名稱               | 備註                                                                                                                                                                                                               |
 | 2019年5月 | 第13屆大邱國際音樂劇節（DIMF） | <ref name=":0">{{Cite web|url=[https://entertain.naver.com/now/read?oid=109\&aid=0004005970|title=](https://entertain.naver.com/now/read?oid=109&aid=0004005970%7Ctitle=) 엑소 수호, 대구뮤지컬페스티벌 홍보대사 발탁..뮤지컬 배우 꽃길 행보 |
-| 2019年7月 | 第7屆順天灣世界動物電影節      | \[34\]                                                                                                                                                                                                           |
+| 2019年7月 | 第7屆順天灣世界動物電影節      | \[35\]                                                                                                                                                                                                           |
 
 ## 獎項與榮譽
 
@@ -430,12 +430,12 @@
 <tr class="even">
 <td><p>2018年</p></td>
 <td><p>第7屆Yegreen Musical Award</p></td>
-<td><p>男子新人獎[35]</p></td>
+<td><p>男子新人獎[36]</p></td>
 <td><p>笑面人</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>男子人氣獎[36]</p></td>
+<td><p>男子人氣獎[37]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -450,7 +450,7 @@
 </tr>
 <tr class="odd">
 <td><p>2018 Stagetalk Audience Choice Awards</p></td>
-<td><p>音樂劇男子新人獎[37]</p></td>
+<td><p>音樂劇男子新人獎[38]</p></td>
 <td><p>笑面人</p></td>
 <td></td>
 <td></td>
@@ -469,6 +469,13 @@
 <td></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>第15屆JIMFF Awards</p></td>
+<td><p>Discovery of the Year - 男子部門[39]</p></td>
+<td><p>女中學生A</p></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -483,7 +490,7 @@
 <tr class="even">
 <td><p>2017年</p></td>
 <td><ul>
-<li>K-Pop一百張最帥面孔 第4名[38]</li>
+<li>K-Pop一百張最帥面孔 第4名[40]</li>
 </ul></td>
 </tr>
 </tbody>
@@ -529,8 +536,8 @@
 13.
 
 14.
-15.
 
+15.
 16.
 
 17.
@@ -568,10 +575,14 @@
 33.
 
 34.
-35.
 
+35.
 36.
 
 37.
 
 38.
+
+39.
+
+40.

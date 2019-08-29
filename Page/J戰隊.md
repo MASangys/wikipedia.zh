@@ -549,35 +549,35 @@ JTeam奪冠原班人馬在2019集體跳槽至MADTeam，JTeam官方於1/9日於JT
 <td><p>凱撒</p></td>
 <td><p>1995年4月1日</p></td>
 <td></td>
-<td><p>現為<a href="https://zh.wikipedia.org/wiki/MAD_Team" title="wikilink">MAD選手</a></p></td>
+<td><p>現為<a href="../Page/MAD_Team.md" title="wikilink">MAD選手</a></p></td>
 </tr>
 <tr class="even">
 <td><p>JT Star</p></td>
 <td><p>中路</p></td>
 <td><p>1997年5月20日</p></td>
 <td></td>
-<td><p>現為<a href="https://zh.wikipedia.org/wiki/MAD_Team" title="wikilink">MAD選手</a></p></td>
+<td><p>現為<a href="../Page/MAD_Team.md" title="wikilink">MAD選手</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>JT Neil</p></td>
 <td><p>打野</p></td>
 <td><p>2000年11月11日</p></td>
 <td></td>
-<td><p>現為<a href="https://zh.wikipedia.org/wiki/MAD_Team" title="wikilink">MAD選手</a></p></td>
+<td><p>現為<a href="../Page/MAD_Team.md" title="wikilink">MAD選手</a></p></td>
 </tr>
 <tr class="even">
 <td><p>JT Winds</p></td>
 <td><p>魔龍路</p></td>
 <td><p>1994年9月14日</p></td>
 <td></td>
-<td><p>現為<a href="https://zh.wikipedia.org/wiki/MAD_Team" title="wikilink">MAD選手</a></p></td>
+<td><p>現為<a href="../Page/MAD_Team.md" title="wikilink">MAD選手</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>JT Benny</p></td>
 <td><p>輔助</p></td>
 <td><p>1991年6月2日</p></td>
 <td></td>
-<td><p>現為<a href="https://zh.wikipedia.org/wiki/MAD_Team" title="wikilink">MAD選手</a></p></td>
+<td><p>現已退役</p></td>
 </tr>
 <tr class="even">
 <td><p>JT Nx</p></td>

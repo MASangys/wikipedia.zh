@@ -39,12 +39,12 @@
 
 ## 音樂現場
 
-|                                                                        |                                                       |                         |
-| ---------------------------------------------------------------------- | ----------------------------------------------------- | ----------------------- |
-| 名稱                                                                     | 頻道                                                    | 日期                      |
-| [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | 1月19日、1月26日、2月2日        |
-| [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | 1月14日、1月21日、1月28日、2月11日 |
-| [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")   | 1月15日、1月22日、1月29日       |
+|                                                                        |                                                     |                         |
+| ---------------------------------------------------------------------- | --------------------------------------------------- | ----------------------- |
+| 名稱                                                                     | 頻道                                                  | 日期                      |
+| [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | [Mnet](../Page/Mnet.md "wikilink")                  | 1月19日、1月26日、2月2日        |
+| [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 1月14日、1月21日、1月28日、2月11日 |
+| [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") | 1月15日、1月22日、1月29日       |
 
 ## 公演
 

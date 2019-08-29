@@ -376,24 +376,24 @@
 
 ### 音樂節目現場
 
-|                                                                        |                                                       |                         |
-| ---------------------------------------------------------------------- | ----------------------------------------------------- | ----------------------- |
-| 名稱                                                                     | 頻道                                                    | 日期                      |
-| Drawing The Line                                                       |                                                       |                         |
-| The Show : All about K-Pop                                             | SBS MTV                                               | 1月21日、1月28日、2月4日、2月11日  |
-| [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | 1月16日、2月20日             |
-| [音樂銀行](https://zh.wikipedia.org/wiki/KBS音樂銀行 "wikilink")               | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | 1月17日、1月24日、2月7日        |
-| [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | 1月18日、1月25日             |
-| [人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")               | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")   | 1月19日、1月26日、2月2日        |
-| Simply Kpop                                                            | Arirang                                               | 1月28日、2月18日             |
-| LOVE TOXIC                                                             |                                                       |                         |
-| The Show                                                               | SBS MTV                                               | 9月2日、9月16日、9月23日        |
-| [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | 8月28日、9月18日             |
-| [音樂銀行](https://zh.wikipedia.org/wiki/KBS音樂銀行 "wikilink")               | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | 9月12日                   |
-| [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   |                         |
-| [人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")               | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")   | 8月31日、9月14日             |
-| Simply Kpop                                                            | Arirang                                               | 8月29日、9月12日、9月19日、10月3日 |
-| Show Champion                                                          | MBC Music                                             | 9月3日、9月10日              |
+|                                                                        |                                                     |                         |
+| ---------------------------------------------------------------------- | --------------------------------------------------- | ----------------------- |
+| 名稱                                                                     | 頻道                                                  | 日期                      |
+| Drawing The Line                                                       |                                                     |                         |
+| The Show : All about K-Pop                                             | SBS MTV                                             | 1月21日、1月28日、2月4日、2月11日  |
+| [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | [Mnet](../Page/Mnet.md "wikilink")                  | 1月16日、2月20日             |
+| [音樂銀行](https://zh.wikipedia.org/wiki/KBS音樂銀行 "wikilink")               | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | 1月17日、1月24日、2月7日        |
+| [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 1月18日、1月25日             |
+| [人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")               | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") | 1月19日、1月26日、2月2日        |
+| Simply Kpop                                                            | Arirang                                             | 1月28日、2月18日             |
+| LOVE TOXIC                                                             |                                                     |                         |
+| The Show                                                               | SBS MTV                                             | 9月2日、9月16日、9月23日        |
+| [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | [Mnet](../Page/Mnet.md "wikilink")                  | 8月28日、9月18日             |
+| [音樂銀行](https://zh.wikipedia.org/wiki/KBS音樂銀行 "wikilink")               | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | 9月12日                   |
+| [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") |                         |
+| [人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")               | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") | 8月31日、9月14日             |
+| Simply Kpop                                                            | Arirang                                             | 8月29日、9月12日、9月19日、10月3日 |
+| Show Champion                                                          | MBC Music                                           | 9月3日、9月10日              |
 
 ## 演唱會
 

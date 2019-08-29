@@ -78,7 +78,7 @@
 <td><p>7</p></td>
 <td><p>2018年2月14日</p></td>
 <td><p><a href="../Page/利特.md" title="wikilink">利特</a>、<a href="../Page/多賢.md" title="wikilink">多賢</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>[7]</p></td>
 <td></td>
 <td></td>

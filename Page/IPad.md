@@ -14,7 +14,7 @@ iPad的基本功能包括[錄影](../Page/攝影機.md "wikilink")、[拍照](..
 
 2014年，[iPad Air 2縮減外觀尺寸](https://zh.wikipedia.org/wiki/iPad_Air_2 "wikilink")，採用Apple A8X 處理器和[M8動作協同處理器](https://zh.wikipedia.org/wiki/蘋果M8 "wikilink")。[iPad mini 3續沿用Apple](https://zh.wikipedia.org/wiki/iPad_mini_3 "wikilink") A7 處理器和Apple M7動作協同處理器，並比照iPad Air 2配備Touch ID。
 
-2015年推出的[iPad Pro采用A](https://zh.wikipedia.org/wiki/iPad_Pro "wikilink")9X处理器和M9动作协处理器，还可以使用全新的[Apple Pencil以及外接鍵盤](../Page/Apple_Pencil.md "wikilink")[Smart Keyboard](https://zh.wikipedia.org/wiki/Smart_Keyboard "wikilink")。2016年推出小尺寸9.7寸iPad Pro，增加了1200萬畫素鏡頭、雙色補光燈、Truretone顯示技術。2017年推出新款平價[iPad (第5代)](https://zh.wikipedia.org/wiki/iPad_\(第5代\) "wikilink")，采用了iPhone 6S的A9处理器和M9动作协处理器。
+2015年推出的[iPad Pro采用A](https://zh.wikipedia.org/wiki/iPad_Pro "wikilink")9X处理器和M9动作协处理器，还可以使用全新的[Apple Pencil以及外接鍵盤](../Page/Apple_Pencil.md "wikilink")[Smart Keyboard](https://zh.wikipedia.org/wiki/Smart_Keyboard "wikilink")。2016年推出小尺寸9.7寸iPad Pro，增加了1200萬畫素鏡頭、雙色補光燈、TrueTone顯示技術。2017年推出新款平價[iPad (第5代)](https://zh.wikipedia.org/wiki/iPad_\(第5代\) "wikilink")，采用了iPhone 6S的A9处理器和M9动作协处理器。
 
 2017年推出的[iPad Pro(第二代)采用](https://zh.wikipedia.org/wiki/iPad_Pro "wikilink")12.9吋和10.5吋螢幕，處理器采用A10X处理器和M10动作协处理器，最大容量512GB，也支援[Apple Pencil以及外接鍵盤](../Page/Apple_Pencil.md "wikilink")[Smart Keyboard](https://zh.wikipedia.org/wiki/Smart_Keyboard "wikilink")。
 

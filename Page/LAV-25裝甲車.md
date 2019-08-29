@@ -1,4 +1,4 @@
-[LAV-AD_1999_firing_DM-SD-00-02951.JPEG](https://zh.wikipedia.org/wiki/File:LAV-AD_1999_firing_DM-SD-00-02951.JPEG "fig:LAV-AD_1999_firing_DM-SD-00-02951.JPEG") **LAV-25裝甲車**為[美軍設計之八輪裝甲車](https://zh.wikipedia.org/wiki/美軍 "wikilink")，由通用地面系統公司製造，配有[M242](../Page/M242巨蝮式鏈炮.md "wikilink") 25 毫米機炮，[M2白朗寧重機槍](https://zh.wikipedia.org/wiki/M2白朗寧重機槍 "wikilink")，此車為[LAV-3的前身](https://zh.wikipedia.org/wiki/LAV-3 "wikilink")，目前依然是美軍主力車種，預計2015由[陸戰隊人員輸送車](../Page/陸戰隊人員輸送車.md "wikilink")（MPC）取代。
+[LAV-AD_1999_firing_DM-SD-00-02951.JPEG](https://zh.wikipedia.org/wiki/File:LAV-AD_1999_firing_DM-SD-00-02951.JPEG "fig:LAV-AD_1999_firing_DM-SD-00-02951.JPEG") **LAV-25裝甲車**為[美軍設計之八輪裝甲車](https://zh.wikipedia.org/wiki/美軍 "wikilink")，由通用地面系統公司製造，配有[M242](../Page/M242巨蝮式鏈炮.md "wikilink") 25 毫米機炮，[M2白朗寧重機槍](https://zh.wikipedia.org/wiki/M2白朗寧重機槍 "wikilink")，此車為[LAV-3的前身](https://zh.wikipedia.org/wiki/LAV-3 "wikilink")，目前依然是美軍主力車種。
 
 1980年[美國為了滿足新組建的快速署部隊的需要](https://zh.wikipedia.org/wiki/美國 "wikilink")，根據LAV輕型裝甲車輛，決定發展一種輪式步兵戰車，由[美國陸軍和海軍陸戰隊共同負責實施](https://zh.wikipedia.org/wiki/美國陸軍 "wikilink")，並提出了能滿足雙方要求的技術指標。1982年9月美軍正式宣佈加拿大通用汽車公司柴油機分部的方案得標，並將該公司提供的食人魚(Piranha)輪式裝甲車命名為LAV-25。\[1\]
 

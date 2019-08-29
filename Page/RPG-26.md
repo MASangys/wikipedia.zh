@@ -28,12 +28,10 @@ RPG-26還有一種衍生型名為RShG-2，改用[燃料空氣炸彈](../Page/燃
 
   -
   -
-  - ：被[利比亞國民軍所採用](https://zh.wikipedia.org/wiki/利比亞國民軍 "wikilink")。
+  -   - [利比亞國民軍](https://zh.wikipedia.org/wiki/利比亞國民軍 "wikilink")
 
   -
   -
-  - ：被[自由叙利亚军](../Page/自由叙利亚军.md "wikilink")所採用。\[4\]
-
   -
   -
   -
@@ -42,6 +40,10 @@ RPG-26還有一種衍生型名為RShG-2，改用[燃料空氣炸彈](../Page/燃
 ### 過去的使用國
 
   -
+### 非國家團體
+
+  - [自由叙利亚军](../Page/自由叙利亚军.md "wikilink")\[4\]
+
 ## 圖集
 
 <File:2011>. День защиты детей в Донецке 046.jpg|[RPO-A大黃蜂火箭筒](../Page/RPO-A大黃蜂火箭筒.md "wikilink")、[RPG-22](../Page/RPG-22.md "wikilink")、RPG-26和[RPG-18](../Page/RPG-18.md "wikilink") <File:2011>. День защиты детей в Донецке 047.jpg| <File:Tula> State Museum of Weapons (79-58).jpg|在圖拉國家武器博物館上展出的[RPG-18](../Page/RPG-18.md "wikilink")、RPG-26、[RPG-27](../Page/RPG-27.md "wikilink")、[RPG-29](../Page/RPG-29.md "wikilink")和[RPO-A大黃蜂火箭筒](../Page/RPO-A大黃蜂火箭筒.md "wikilink") <File:Tula> State Museum of Weapons (79-59).jpg|在圖拉國家武器博物館上展出的[RPG-18](../Page/RPG-18.md "wikilink")和RPG-26

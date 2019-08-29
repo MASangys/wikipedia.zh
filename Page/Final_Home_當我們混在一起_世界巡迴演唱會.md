@@ -243,8 +243,6 @@
 
 ## 參考文獻
 
-[分類:五月天](https://zh.wikipedia.org/wiki/分類:五月天 "wikilink")
-
 [Category:巡迴音樂會](https://zh.wikipedia.org/wiki/Category:巡迴音樂會 "wikilink") [Category:五月天巡迴演唱會](https://zh.wikipedia.org/wiki/Category:五月天巡迴演唱會 "wikilink") [Category:2004年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2004年巡迴演唱會 "wikilink") [Category:2005年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2005年巡迴演唱會 "wikilink") [Category:2006年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2006年巡迴演唱會 "wikilink")
 
 1.

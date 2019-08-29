@@ -127,10 +127,11 @@
 
 ### 固定綜藝節目
 
-| 年份    | **電視頻道** | **節目名稱**                                                           | 集數 | **备注** |
-| ----- | -------- | ------------------------------------------------------------------ | -- | ------ |
-| 2013年 |          | 《Show me the money 2》                                              |    |        |
-| 2016年 |          | 《[Show Me The Money 5](../Page/Show_Me_The_Money_5.md "wikilink")》 |    |        |
+| 年份    | **電視頻道** | **節目名稱**                                                                              | 集數 | **备注** |
+| ----- | -------- | ------------------------------------------------------------------------------------- | -- | ------ |
+| 2013年 |          | 《Show me the money 2》                                                                 |    |        |
+| 2016年 |          | 《[Show Me The Money 5](../Page/Show_Me_The_Money_5.md "wikilink")》                    |    |        |
+| 2019年 |          | 《[Show Me The Money 8](https://zh.wikipedia.org/wiki/Show_Me_The_Money_8 "wikilink")》 |    |        |
 
 ## Mad Clown參加的其他演唱會
 
@@ -168,14 +169,14 @@
 
 ### 音樂節目獎項
 
-| 年份    | 日期    | 電視台                                                   | 節目名稱                                                                   | 獲獎歌曲                                                               | 排名                |
-| ----- | ----- | ----------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------ | ----------------- |
-| 2013年 | 9月28日 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     | Stupid in love（與[韶宥](https://zh.wikipedia.org/wiki/韶宥 "wikilink")） | 1位                |
-| 2014年 | 4月16日 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | [Show Champion](../Page/Show_Champion.md "wikilink")                   | Without You（與[孝琳](../Page/孝琳.md "wikilink")）                       | 1位（Champion Song） |
-| 2015年 | 1月25日 | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")   | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  | Fire（與Jinsil）                                                      | 1位                |
-| 2015年 | 1月28日 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | [Show Champion](../Page/Show_Champion.md "wikilink")                   | Fire（與Jinsil）                                                      | 1位（Champion Song） |
-| 2015年 | 1月29日 | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | Fire（與Jinsil）                                                      | 1位                |
-|       |       |                                                       |                                                                        |                                                                    |                   |
+| 年份    | 日期    | 電視台                                                 | 節目名稱                                                                   | 獲獎歌曲                                                               | 排名                |
+| ----- | ----- | --------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------ | ----------------- |
+| 2013年 | 9月28日 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     | Stupid in love（與[韶宥](https://zh.wikipedia.org/wiki/韶宥 "wikilink")） | 1位                |
+| 2014年 | 4月16日 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | [Show Champion](../Page/Show_Champion.md "wikilink")                   | Without You（與[孝琳](../Page/孝琳.md "wikilink")）                       | 1位（Champion Song） |
+| 2015年 | 1月25日 | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  | Fire（與Jinsil）                                                      | 1位                |
+| 2015年 | 1月28日 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | [Show Champion](../Page/Show_Champion.md "wikilink")                   | Fire（與Jinsil）                                                      | 1位（Champion Song） |
+| 2015年 | 1月29日 | [Mnet](../Page/Mnet.md "wikilink")                  | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | Fire（與Jinsil）                                                      | 1位                |
+|       |       |                                                     |                                                                        |                                                                    |                   |
 
 ### 主要音樂節目榜單排名
 

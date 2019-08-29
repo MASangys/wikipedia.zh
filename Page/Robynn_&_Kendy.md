@@ -321,24 +321,24 @@ Kendy回港後，曾獲得《柏斯琴行原創歌曲大賽》的亞軍，並簽
 </ol>
 <p>CD2 - 精選</p>
 <ol>
-<li>翻牆</li>
-<li>不用太趕</li>
-<li>小說伴咖啡</li>
+<li><strong>翻牆</strong></li>
+<li><strong>不用太趕</strong></li>
+<li><strong>小說伴咖啡</strong></li>
 <li>生活與生存</li>
-<li>Sunset</li>
-<li>一顆星的故事</li>
-<li>陶瓷娃娃</li>
+<li><strong>Sunset</strong></li>
+<li><strong>一顆星的故事</strong></li>
+<li><strong>陶瓷娃娃</strong></li>
 <li>或許</li>
-<li>Say Goodbye</li>
-<li>Sail Away</li>
-<li>La La La（Featuring Ghost Style）</li>
+<li><strong>Say Goodbye</strong></li>
+<li><strong>Sail Away</strong></li>
+<li><strong>La La La</strong>（Featuring Ghost Style）</li>
 <li>公主病死了</li>
 <li>不痛不癢</li>
-<li>第十行星</li>
-<li>Gonna Be Okay</li>
-<li>蝶亂飛</li>
-<li>月湖</li>
-<li>我不完美</li>
+<li><strong>第十行星</strong></li>
+<li><strong>Gonna Be Okay</strong></li>
+<li><strong>蝶亂飛</strong></li>
+<li><strong>月湖</strong></li>
+<li><strong>我不完美</strong></li>
 </ol></td>
 </tr>
 </tbody>
@@ -1411,6 +1411,10 @@ Kendy回港後，曾獲得《柏斯琴行原創歌曲大賽》的亞軍，並簽
 <tr class="even">
 <td><p>2019年6月30日</p></td>
 <td><p>中環 LOFT22《蘭桂坊Music Lounge音樂空間》</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019年8月9日</p></td>
+<td><p>灣仔會議展覽中心4樓 君爵廳 Chancellor Room《2019香港高級視聽展》</p></td>
 </tr>
 </tbody>
 </table>

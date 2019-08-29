@@ -109,23 +109,23 @@ PGZ-12自行高炮（侦察车）型是8×8装甲车族中较晚露面的成员�
 
 1.  根据中华人民共和国武器命名规则，ZBL是装甲—步兵战车—轮式的意思。
 
-2.  [第5方队：ZBD-09式8X8轮式步兵战车](http://news.163.com/09/0929/12/5KCLVVHU00013PPI.html)
+2.
 
-3.  [08式轮式步兵战车](http://img.cjdby.com/data/attachment/forum/201408/25/011045sb965uavg769u3io.jpg)
+3.
 
 4.
 
 5.
-6.  <http://www.janes.com/article/46091/venezuela-signs-up-for-vn1-hints-at-chinese-amphibious-vehicles-buy>
+6.
 
-7.  <http://defence-blog.com/army/first-testing-amphibious-armored-vehicle-norinco-vn-1-in-venezuela.html>
+7.
 
 8.
 
-9.  <http://www.defenseworld.net/news/12075/Argentina_To_Buy_Chinese_APC__Warships#.Vzz24pGLSHs>
+9.
 
-10. <http://en.mercopress.com/2015/02/05/china-to-supply-argentina-five-malvinas-class-offshore-patrol-vessels>
+10.
 
-11. <http://www.janes.com/article/48512/china-argentina-set-for-defence-collaboration-malvinas-class-opv-deal>
+11.
 
 12.

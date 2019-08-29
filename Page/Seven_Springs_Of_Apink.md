@@ -5,7 +5,7 @@
 ## 概要
 
   - 主打歌《I Don't Know》MV由[highlight的](https://zh.wikipedia.org/wiki/highlight "wikilink")[李起光](../Page/李起光.md "wikilink")擔當男主角\[1\]。
-  - 4月21日於[Mnet的音樂節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")[M\! Countdown登上出道舞台](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")。
+  - 4月21日於[Mnet](../Page/Mnet.md "wikilink")的音樂節目[M\! Countdown登上出道舞台](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")。
   - 6月8日通過官方Youtube頻道公開了專輯中抒情曲《Wishlist》的MV\[2\]。
   - 主打歌《I Don't Know》宣傳期結束後她們以《It Girl》作為後續曲繼續活動。
   - 7月17日在[SBS的音樂節目](https://zh.wikipedia.org/wiki/SBS "wikilink")[人氣歌謠結束出道宣傳活動](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")\[3\]。

@@ -2,7 +2,7 @@
 
 2012年，当组合成员正在参演[泷泽秀明的](https://zh.wikipedia.org/wiki/泷泽秀明 "wikilink")[舞台剧](https://zh.wikipedia.org/wiki/舞台剧 "wikilink")《[泷泽歌舞伎2012](../Page/泷泽演舞城.md "wikilink")》的时候，六人身后的电子显示屏上出现了组合名的六个字符，随即六人的组合名正式被公布。\[2\]
 
-2019年1月，關西Jr的向井康二、宇宙six的目黑蓮、以及瀧澤社長從之前就一直注目的，Snow Man的成員們也同樣感覺到的村上真都raul三人，作為新成員加入。從2月開始正式從瀧澤秀明手上接手，作為[泷泽歌舞伎ZERO的座長進行演出](../Page/泷泽演舞城.md "wikilink")。3月24日在橫濱arena的公演為首次9人體制的樣貌，在粉絲的面前表演。
+2019年1月，關西Jr的向井康二、宇宙six的目黑蓮、以及瀧澤社長從之前就一直注目的，Snow Man的成員們也同樣感覺到的村上真都raul三人，作為新成員加入。從2月開始正式從瀧澤秀明手上接手，作為[泷泽歌舞伎ZERO的座長進行演出](../Page/泷泽演舞城.md "wikilink")。3月24日在橫濱arena的公演為首次9人體制的樣貌，在粉絲的面前表演。2019年8月8日在東京巨蛋舉行的「小傑尼斯大祭〜從東京巨蛋啟程〜」中與同為小傑尼斯組合的[SixTONES](../Page/SixTONES.md "wikilink")一起宣布將於2020年發行CD出道，所屬唱片公司為[AVEX](https://zh.wikipedia.org/wiki/AVEX "wikilink")。
 
 ## 组合成员
 
@@ -79,7 +79,7 @@
 <td><p><strong>村上真都ラウール</strong><small>（村上真都raul / むらかみまいとらうーる）</small></p></td>
 <td><p>2003年6月27日（16歳）</p></td>
 <td><p>日本东京都</p></td>
-<td><p>不明</p></td>
+<td><p>A型</p></td>
 <td><p>白色</p></td>
 </tr>
 </tbody>

@@ -2,10 +2,12 @@
 
 ## 經歷
 
-  - 出道前參演MBC Every1無限Girls(造訪翰林藝術高校)
-  - 2010年Vibe演唱會嘉賓參與
-  - 參演MBC Every 1 Death Camp 24小時綜藝固定班底
-  - 擔任SBS MTV節目《The Show》固定主持
+  - 出道前參演**MBC Every1**無限Girls(造訪翰林藝術高校)
+  - 2010年**Vibe**演唱會嘉賓參與
+  - 參演**MBC Every 1 Death Camp** 24小時綜藝固定班底
+  - 擔任**SBS MTV**節目**《The Show》**固定主持
+  - 2016年曾參加**딩고 dingo《今天也 辛苦了》**
+  - 2017年曾與Block B全團員參加**딩고 뮤직 dingo music《祝福你》**
 
 ## 作品
 
@@ -39,11 +41,25 @@
 </tr>
 <tr class="even">
 <td><p><strong>2nd</strong></p></td>
-<td><p>首張單曲《<strong>像少年一樣</strong>》</p>
+<td><p>第二張單曲《<strong>像少年一樣</strong>》</p>
 <ul>
 <li>發行日期：2018年11月11日</li>
-<li>語言：韓語</li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>3rd</strong></p></td>
+<td><p>第三張單曲《<strong>Tony Lip</strong>》</p>
+<ul>
+<li>發行日期：2019年7月30日</li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>
@@ -77,6 +93,12 @@
 ### 影視作品
 
   - 僅列出P.O**個人參與**的綜藝節目，**團體**請參見[Block B](../Page/Block_B.md "wikilink")**。**
+
+**網路節目**
+
+| 日期          | 節目頻道  | 節目名稱    |
+| ----------- | ----- | ------- |
+| 2016年10月29日 | dingo | 今天也 辛苦了 |
 
 #### 音樂錄影帶
 
@@ -115,15 +137,15 @@
 <table>
 <thead>
 <tr class="header">
-<th><p>電視台</p></th>
 <th><p>日期</p></th>
+<th><p>電視台</p></th>
 <th><p>名稱</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/OnStyle.md" title="wikilink">OnStyle</a></p></td>
 <td><p>2016年12月1日—2017年2月16日</p></td>
+<td><p><a href="../Page/OnStyle.md" title="wikilink">OnStyle</a></p></td>
 <td><p><a href="../Page/Lipstick_Prince.md" title="wikilink">Lipstick Prince</a></p></td>
 </tr>
 <tr class="even">
@@ -132,8 +154,8 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p>2017年1月27—28日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p><a href="../Page/無理的同居.md" title="wikilink">無理的同居</a>─有空房間</p></td>
 </tr>
 <tr class="even">
@@ -143,18 +165,18 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a></p></td>
 <td><p>2018年7月1日—9月23日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a></p></td>
 <td><p><a href="../Page/大逃出.md" title="wikilink">大逃出</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/VLIVE" title="wikilink">VLIVE</a></p></td>
 <td><p>2018年8月19日—9月5日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/VLIVE" title="wikilink">VLIVE</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/被拍到就死定了" title="wikilink">被拍到就死定了</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a></p></td>
 <td><p>2018年9月30日—10月28日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/新西游记5" title="wikilink">新西游记5</a></p></td>
 </tr>
 <tr class="even">
@@ -181,6 +203,11 @@
 <td><p>2019年7月5日—8月2日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/姜食堂3" title="wikilink">姜食堂3</a></p></td>
 <td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年6月26日—</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a></p></td>
+<td><p><a href="../Page/曖昧生存戰1+1.md" title="wikilink">曖昧生存戰1+1</a></p></td>
 </tr>
 </tbody>
 </table>

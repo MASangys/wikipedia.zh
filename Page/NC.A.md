@@ -19,7 +19,7 @@
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td><ol>
-<li>下一站 (Next Station) *TITLE*</li>
+<li><strong>下一站 (Next Station)</strong></li>
 <li>U in me</li>
 <li>Hoo Hoo Hoo</li>
 <li>Vanilla Shake</li>
@@ -83,7 +83,7 @@
 </ul></td>
 <td><ol>
 <li>Habit</li>
-<li>Awesome Breeze (主打曲)</li>
+<li><strong>Awesome Breeze</strong></li>
 <li>So Do You</li>
 <li>I’m fine</li>
 <li>Playing with fire</li>
@@ -322,15 +322,6 @@
 </tbody>
 </table>
 
-### 音樂現場(舞台)
-
-  - 2013年-2015年: [音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")
-  - 2013年-2015年: [The SHOW](https://zh.wikipedia.org/wiki/The_SHOW "wikilink")
-  - 2013年-2015年: [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")
-  - 2013年-2015年: [音樂中心](https://zh.wikipedia.org/wiki/音樂中心 "wikilink")
-  - 2013年-2015年: [Show Champion](../Page/Show_Champion.md "wikilink")
-  - 2013年-2015年: [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")
-
 ## 戲劇
 
   - 2013年：[tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")《[請回答1994](../Page/請回答1994.md "wikilink")》飾演 學生\[3\]（第六集）
@@ -358,6 +349,7 @@
   - 2015年12月6日：[JTBC](../Page/JTBC.md "wikilink") 《[Hidden Singer 4](https://zh.wikipedia.org/wiki/Hidden_Singer_4 "wikilink")》申智篇的隱藏歌手
   - 2016年2月10日：[KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink") 《春節試播節目： [本份奧運會](https://zh.wikipedia.org/wiki/本份奧運會 "wikilink")》
   - 2017年10月28日：[KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink") 《[The Unit](../Page/The_Unit.md "wikilink")》[The Unit Audition](https://www.youtube.com/watch?v=cvY3nRo-wTk)
+  - 2019年7月28、8月4日：[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") 《[神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")》
 
 ## 廣告代言
 

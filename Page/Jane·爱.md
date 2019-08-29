@@ -4,6 +4,6 @@
 
 ## 参考文献
 
-[Category:中國大陸音樂專輯](https://zh.wikipedia.org/wiki/Category:中國大陸音樂專輯 "wikilink")
+[Category:张靓颖音乐专辑](https://zh.wikipedia.org/wiki/Category:张靓颖音乐专辑 "wikilink") [Category:2006年音乐专辑](https://zh.wikipedia.org/wiki/Category:2006年音乐专辑 "wikilink")
 
 1.

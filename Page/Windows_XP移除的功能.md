@@ -41,6 +41,10 @@
   - [POSIX子系统由](https://zh.wikipedia.org/wiki/POSIX "wikilink")3.0或更高版本取代\[25\] 。
   - [OS/2子系统被删除](https://zh.wikipedia.org/wiki/OS/2 "wikilink")\[26\]。
 
+<!-- end list -->
+
+  - Remove the pigs
+
 ## 硬件支持
 
   - 不再支持[调制解调器](../Page/调制解调器.md "wikilink")、[网卡](../Page/网卡.md "wikilink")及低于28.8Kbps的调制解调器原生支持等非[即插即用网络设备](https://zh.wikipedia.org/wiki/即插即用 "wikilink")\[27\]

@@ -1,4 +1,4 @@
-**M.Pire**（），是韓國BenjaminENT公司推出的七人男子組合。2013年5月23日在[Dream Concert首度亮相](https://zh.wikipedia.org/wiki/Dream_Concert "wikilink")，2013年8月1日通過[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") [M\! Countdown音樂節目正式出道](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")，M.Pire是「Music Vampire」的合成詞，包含「為音樂而生」的意思；團體風格偏重強烈曲風，成員由親自參與出道專輯設計的隊長泰熙和通過MBC電視劇[百年的遺產最先露面的佑勝](https://zh.wikipedia.org/wiki/百年的遺產 "wikilink")、漫畫男招搖的視覺的Haru、中國籍荷蘭血統的Red、Main Vocal TO、舞蹈神童忙內Jerry組成。出道曲《無法和你做朋友》是融入了成員們魅力四射的唱功和拔尖的performance的曲子，包含了自己並不是單純的玩具向女友傳達了強烈的警告訊息。
+**M.Pire**（），是韓國BenjaminENT公司推出的七人男子組合。2013年5月23日在[Dream Concert首度亮相](https://zh.wikipedia.org/wiki/Dream_Concert "wikilink")，2013年8月1日通過[Mnet](../Page/Mnet.md "wikilink") [M\! Countdown音樂節目正式出道](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")，M.Pire是「Music Vampire」的合成詞，包含「為音樂而生」的意思；團體風格偏重強烈曲風，成員由親自參與出道專輯設計的隊長泰熙和通過MBC電視劇[百年的遺產最先露面的佑勝](https://zh.wikipedia.org/wiki/百年的遺產 "wikilink")、漫畫男招搖的視覺的Haru、中國籍荷蘭血統的Red、Main Vocal TO、舞蹈神童忙內Jerry組成。出道曲《無法和你做朋友》是融入了成員們魅力四射的唱功和拔尖的performance的曲子，包含了自己並不是單純的玩具向女友傳達了強烈的警告訊息。
 
 2015年11月宣告解散\[1\]。
 

@@ -13,6 +13,6 @@
 
 [分類:中華人民共和國裝甲戰鬥車輛](https://zh.wikipedia.org/wiki/分類:中華人民共和國裝甲戰鬥車輛 "wikilink")
 
-1.  [ZBD-04A步兵战车](http://www.chinanews.com/mil/hd2011/2013/07-01/219332.shtml)，中新网。
-2.  [兰州军区装备我最先进步兵战车](http://news.xinhuanet.com/mil/2014-04/29/c_126445505_2.htm)，新华网。
-3.  [步兵战车：中国ZBD-08式步兵战车](http://www.military-today.com/apc/zbd_08.htm)
+1.  [ZBD-04A步兵战车](http://www.chinanews.com/mil/hd2011/2013/07-01/219332.shtml) ，中新网。
+2.  [兰州军区装备我最先进步兵战车](http://news.xinhuanet.com/mil/2014-04/29/c_126445505_2.htm) ，新华网。
+3.

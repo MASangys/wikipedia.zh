@@ -32,6 +32,10 @@ local rv = {} function rv.main(frame)
 `       article="条目名"`
 `   end`
 
+`   if mw.ustring.find(article, ":") ~= 1 then`
+`       article = ':' .. article`
+`   end`
+
 `   code=code.."* `[`"..article.."`](https://zh.wikipedia.org/wiki/"..article.." "wikilink")`"`
 `           .."（["..tostring(mw.uri.fullUrl(article,"action=edit")).." 編輯]"`
 `           .." · `[`討論`](https://zh.wikipedia.org/wiki/"..tostring\(mw.title.makeTitle\("",article\).talkPageTitle\).." "wikilink")`"`

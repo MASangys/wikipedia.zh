@@ -4,7 +4,7 @@
 
 ## 参考文献
 
-[Category:中國大陸音樂專輯](https://zh.wikipedia.org/wiki/Category:中國大陸音樂專輯 "wikilink")
+[Category:张靓颖音乐专辑](https://zh.wikipedia.org/wiki/Category:张靓颖音乐专辑 "wikilink") [Category:2006年音乐专辑](https://zh.wikipedia.org/wiki/Category:2006年音乐专辑 "wikilink")
 
 1.   新浪网 [张靓颖首唱会众星捧“颖” 三位制作人现场护驾](http://ent.sina.com.cn/y/2006-10-20/10571292243.html) 2006年10月20日.
 2.   新浪网 [2007年度TVB8金曲榜颁奖完全获奖名单](http://ent.sina.com.cn/y/2007-12-16/16341836818.shtml) 2007年12月16日.

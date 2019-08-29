@@ -66,9 +66,9 @@ DOS扩展器在本质上就是小型操作系统，提供了许多操作系统�
 
   - DosWin32提供的Win32有限支持。
 
-  - Charles W. Sandman的，是服务器，使用32位保护模式DOS的[DJGPP程序](https://zh.wikipedia.org/wiki/DJGPP "wikilink")。
+  - Charles W. Sandman的，是服务器，使用32位保护模式DOS的[DJGPP](../Page/DJGPP.md "wikilink")程序。
 
-  - 旧（pre-v2）版本的GO32使用[DJGPP与](https://zh.wikipedia.org/wiki/DJGPP "wikilink")[Free Pascal](../Page/Free_Pascal.md "wikilink")。
+  - 旧（pre-v2）版本的GO32使用[DJGPP](../Page/DJGPP.md "wikilink")与[Free Pascal](../Page/Free_Pascal.md "wikilink")。
 
   - Salford 软件的DBOS，是32位保护模式DOS扩展器，主用于其[FTN77](https://zh.wikipedia.org/wiki/FTN77 "wikilink")（Fortran编译器）。
 
@@ -85,7 +85,7 @@ DOS扩展器在本质上就是小型操作系统，提供了许多操作系统�
   - [Quarterdeck Office Systems Quarterdeck的](https://zh.wikipedia.org/wiki/Quarterdeck_Office_Systems_Quarterdeck "wikilink") [DESQview](https://zh.wikipedia.org/wiki/DESQview "wikilink")、DESQview/X 多任务软件
   - [Watcom_c在](https://zh.wikipedia.org/wiki/Watcom_c "wikilink")[C](https://zh.wikipedia.org/wiki/C语言 "wikilink")、[C++](../Page/C++.md "wikilink")、[Fortran](../Page/Fortran.md "wikilink")的[x86](https://zh.wikipedia.org/wiki/x86 "wikilink")[编译器](https://zh.wikipedia.org/wiki/编译器 "wikilink")
   - 1990年代早期中期的无数DOS游戏，多用DOS/4GW，包括:
-      - [id Software的](https://zh.wikipedia.org/wiki/id_Software "wikilink")[毁灭战士及其续集](https://zh.wikipedia.org/wiki/毁灭战士 "wikilink")，又如[雷神之锤 (游戏)](../Page/雷神之锤_\(游戏\).md "wikilink")(用[DJGPP写的](https://zh.wikipedia.org/wiki/DJGPP "wikilink"))
+      - [id Software的](https://zh.wikipedia.org/wiki/id_Software "wikilink")[毁灭战士及其续集](https://zh.wikipedia.org/wiki/毁灭战士 "wikilink")，又如[雷神之锤 (游戏)](../Page/雷神之锤_\(游戏\).md "wikilink")(用[DJGPP](../Page/DJGPP.md "wikilink")写的)
       - [Looking Glass Studios的](https://zh.wikipedia.org/wiki/Looking_Glass_Studios "wikilink"),
       - [Parallax Software的](https://zh.wikipedia.org/wiki/Parallax_Software "wikilink")[黑暗侵袭](../Page/天旋地轉.md "wikilink")
       - Crack dot com的[Abuse](https://zh.wikipedia.org/wiki/Abuse_\(电子游戏\) "wikilink")

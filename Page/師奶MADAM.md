@@ -631,7 +631,6 @@ Richard之女友<br />
 ## 外部連結
 
   - [師奶MADAM - myTV SUPER](http://programme.mytvsuper.com/tc/104910/師奶madam/casts)
-  - [師奶MADAM - encoreTVB](https://encoretvb.com/cantonese/series/AXwr8kJK-Madam_Cutie_On_Duty)
 
 ## 電視節目的變遷
 

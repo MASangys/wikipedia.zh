@@ -168,7 +168,7 @@
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>08月30日、09月6日、09月13日<small>（1位）</small></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td style="text-align: center;"></td>
 </tr>

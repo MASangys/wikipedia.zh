@@ -24,16 +24,16 @@
 <tbody>
 <tr class="odd">
 <td><p>系統</p></td>
-<td><p><a href="../Page/Android.md" title="wikilink">Android</a></p></td>
-<td></td>
+<td><p><a href="../Page/Android.md" title="wikilink">Android</a> 4.2 (可升級至 Android 4.4)</p></td>
+<td><p>Android 4.4</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>界面</p></td>
-<td><p><a href="../Page/MIUI.md" title="wikilink">MIUI</a>6</p></td>
-<td></td>
+<td><p><a href="../Page/MIUI.md" title="wikilink">MIUI</a> 5 (可升級至 MIUI 9)</p></td>
+<td><p>MIUI 6 (可升級至 MIUI 9)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -67,10 +67,14 @@ TDD-LTE(B41:)、FDD-LTE(B1/B3)、CDMA(2000/1X/EVDO Rev.A 800MHz)、GSM(900/1800/
 </tr>
 <tr class="odd">
 <td><p>CPU</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/联发科" title="wikilink">联发科</a> MT6592 八核心 1.4GHz ARM Cortex-A7</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/联发科" title="wikilink">联发科</a> MT6592 八核心 1.7GHz ARM Cortex-A7</p></td>
-<td><p><a href="../Page/高通.md" title="wikilink">高通</a> <a href="https://zh.wikipedia.org/wiki/骁龙" title="wikilink">骁龙</a>400 四核心 1.6GHz ARM Cortex-A7</p></td>
-<td><p><a href="../Page/高通.md" title="wikilink">高通</a> <a href="https://zh.wikipedia.org/wiki/骁龙" title="wikilink">骁龙</a>410 四核心 1.2GHz ARM Cortex-A53</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/联发科" title="wikilink">联发科</a> MT6592<br />
+八核心 1.4 GHz <a href="https://zh.wikipedia.org/wiki/ARM" title="wikilink">ARM</a> Cortex-A7</p></td>
+<td><p>联发科 MT6592<br />
+八核心 1.7 GHz ARM Cortex-A7</p></td>
+<td><p><a href="../Page/高通.md" title="wikilink">高通</a> <a href="https://zh.wikipedia.org/wiki/Snapdragon" title="wikilink">Snapdragon</a> 400 MSM8928<br />
+四核心 1.6 GHz ARM Cortex-A7</p></td>
+<td><p>高通 Snapdragon 410 MSM8916<br />
+四核心 1.2 GHz ARM Cortex-A53</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -83,17 +87,17 @@ TDD-LTE(B41:)、FDD-LTE(B1/B3)、CDMA(2000/1X/EVDO Rev.A 800MHz)、GSM(900/1800/
 </tr>
 <tr class="odd">
 <td><p>RAM</p></td>
-<td><p>1GB</p></td>
-<td><p>2GB</p></td>
-<td><p>2GB</p></td>
-<td><p>1GB</p></td>
-<td><p>2GB</p></td>
+<td><p>1GB <a href="https://zh.wikipedia.org/wiki/LPDDR2" title="wikilink">LPDDR2</a></p></td>
+<td><p>2GB LPDDR2</p></td>
+<td><p>2GB <a href="https://zh.wikipedia.org/wiki/LPDDR3" title="wikilink">LPDDR3</a></p></td>
+<td><p>1GB LPDDR3</p></td>
+<td><p>2GB LPDDR3</p></td>
 </tr>
 <tr class="even">
 <td><p>ROM</p></td>
-<td><p>8GB</p></td>
-<td><p>16GB</p></td>
-<td></td>
+<td><p>8GB <a href="https://zh.wikipedia.org/wiki/eMMC" title="wikilink">eMMC</a> 4.2</p></td>
+<td><p>8GB eMMC 5.0</p></td>
+<td><p>16GB eMMC 5.0</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -149,7 +153,7 @@ TDD-LTE(B41:)、FDD-LTE(B1/B3)、CDMA(2000/1X/EVDO Rev.A 800MHz)、GSM(900/1800/
 <tr class="odd">
 <td><p>卫星定位</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/GPS" title="wikilink">GPS</a>、<a href="https://zh.wikipedia.org/wiki/A-GPS" title="wikilink">A-GPS</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/GPS" title="wikilink">GPS</a>、<a href="https://zh.wikipedia.org/wiki/A-GPS" title="wikilink">A-GPS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/GPS" title="wikilink">GPS</a>、<a href="https://zh.wikipedia.org/wiki/A-GPS" title="wikilink">A-GPS</a>、<a href="https://zh.wikipedia.org/wiki/GLONASS" title="wikilink">GLONASS</a>、<a href="https://zh.wikipedia.org/wiki/北斗衛星導航系統" title="wikilink">北斗定位</a></p></td>
 <td></td>
 <td></td>
 <td></td>

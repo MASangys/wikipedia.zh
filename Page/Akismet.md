@@ -6,7 +6,7 @@
 
   - [Akismet官方网站](http://akismet.com/)
 
-[Category:垃圾信息过滤](https://zh.wikipedia.org/wiki/Category:垃圾信息过滤 "wikilink") [Category:WordPress](https://zh.wikipedia.org/wiki/Category:WordPress "wikilink")
+[Category:垃圾邮件过滤](https://zh.wikipedia.org/wiki/Category:垃圾邮件过滤 "wikilink") [Category:Automattic](https://zh.wikipedia.org/wiki/Category:Automattic "wikilink")
 
 1.
 2.

@@ -352,7 +352,11 @@
 
 #### 精選輯
 
-  - 2016年：17 Hits
+  - 2019年：17 Hits
+
+#### 單曲
+
+  - 2019年：HIT
 
 ### 日語作品
 
@@ -2275,6 +2279,9 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/YOU_MADE_MY_DAWN" title="wikilink">YOU MADE MY DAWN</a></p></td>
 </tr>
 <tr class="even">
+<td><p>HIT</p></td>
+</tr>
+<tr class="odd">
 <td><ul>
 <li>「/」表示未有相關資料</li>
 <li>「(1)」：兩星期冠軍</li>

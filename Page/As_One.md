@@ -52,7 +52,7 @@
 
 2015年7月24日，官方公開數位單曲《Candy Ball》廣東話版。\[6\]
 
-2015年12月，隊長Shin因早前獲南韓大型電視台[Mnet邀請參與女團育成節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")，而前往當地準備參賽。
+2015年12月，隊長Shin因早前獲南韓大型電視台[Mnet](../Page/Mnet.md "wikilink")邀請參與女團育成節目[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")，而前往當地準備參賽。
 
 ### 2016年：PRODUCE 101 及 成熟蛻變《Hey Ya》
 
@@ -92,8 +92,8 @@
 | Oli Huang     |
 | Elfa          |
 | Francesca Yau |
-| Tania         |
-| Tania chan    |
+| Nata          |
+| Tania Chan    |
 | Shin          |
 | Katarina Ng   |
 
@@ -472,7 +472,7 @@ PlotData =
   - 7月20日：J2 - 勁歌金曲（嘉賓）
   - 7月26日：J2 - Music Cafe（嘉賓）
   - 8月10日：J2 - 360˚（嘉賓）
-  - 9月07日：TVB - 星光熠熠耀保良
+  - 9月7日：TVB - 星光熠熠耀保良
 
 <!-- end list -->
 

@@ -4,7 +4,7 @@
 
 在中國大陸，音MAD早期又称为鬼畜。原因是早期由[NICONICO动画传入中国的知名音MAD](https://zh.wikipedia.org/wiki/NICONICO动画 "wikilink")《最終鬼畜妹フランドール・S》中的“鬼畜”略称被广泛使用。
 
-现行音MAD文化中常出现将“鬼畜”与“音MAD”分别讨论的情况，原因是近年“鬼畜视频”总体质量下降，许多新人制作视频的目的变为“吸引观众观看，提高再生（播放）数等”，而视频本身质量却很差。久而久之，导致观众审美能力下降并追捧制作并不精良的视频，而真正高质量的作品往往容易受到忽视（例如题材小众、制作者虽然水平高超但是产量不高以致知名度不够等）。这引起许多老制作者及搬运者的不满，并且由此诞生出了大势所趋这个词语。然而，许多音MAD投稿作品都被归类为鬼畜，[哔哩哔哩等网站也只设有鬼畜区](https://zh.wikipedia.org/wiki/哔哩哔哩 "wikilink")，很多音MAD视频都存在其中，现在已经没有特别的区分这两者，因此在没有违背“素材与背景音乐的融合”下，鬼畜也能算是音MAD，只是品质略为劣值。现在的哔哩哔哩动画已经将鬼畜区列为鬼畜调教、音mad和人力VOCALOID区，除鬼畜调教区的“鬼畜视频”质量堪忧外，音mad区和人力VOCALOID区状况略有改善。
+目前中国大陆现行音MAD文化中常出现将“鬼畜”与“音MAD”分别讨论的情况，原因是近年“鬼畜视频”总体质量下降，许多新人制作视频的目的变为“吸引观众观看，提高再生（播放）数等”，而视频本身质量却很差。久而久之，导致观众审美能力下降并追捧制作并不精良的视频，而真正高质量的作品往往容易受到忽视（例如题材小众、制作者虽然水平高超但是产量不高以致知名度不够等）。这引起许多老制作者及搬运者的不满，并且由此诞生出了“大势所趋”这个词语（详见下文）。然而，许多音MAD投稿作品都被归类为鬼畜，[哔哩哔哩等网站也只设有鬼畜区](https://zh.wikipedia.org/wiki/哔哩哔哩 "wikilink")，很多音MAD视频都存在其中，现在已经没有特别的区分这两者，因此在没有违背“素材与背景音乐的融合”下，鬼畜也能算是音MAD，只是品质略为劣值。现在的哔哩哔哩动画已经将鬼畜区列为鬼畜调教、音mad和人力VOCALOID区，除鬼畜调教区的“鬼畜视频”质量堪忧外，音mad区和人力VOCALOID区状况略有改善。
 
 “大势所趋”这个词语在音MAD文化中主要表示一种心态，即“播放数和评论至上，只求视频火起来，对制作不用心甚至是根本不在乎质量，并且没有提升自己技术的意识”，是一个贬义词。有时也用作指代视频本身或者人身攻击。“鬼畜”和“音MAD”，以及是否“大势所趋”的界线非常模糊，时至今日，仍然没有一个硬性的、公认的标准。这也导致音MAD圈时常因为这些定义产生争吵。目前，常用的区别“鬼畜”和“音MAD”的方法之一是技术含量；另一则是素材，根据该素材持续时间使用该素材制作的视频的平均水平来判断，若该素材的作品中大多数技术含量都较高，则一般会被认为是“音MAD常用素材”，反之，若一个素材的作品中大多是粗糙的视频，或者是仅在短时间内被人所使用，则会被称为“鬼畜”素材，甚至是“大势所趋”。应注意这两种判断方式均为主观判断，并没有严格的界线，使用时请注意。
 
@@ -12,25 +12,25 @@
 
 ## 制程
 
-鬼畜玩家所使用的常用软体为[Vegas](https://zh.wikipedia.org/wiki/Vegas "wikilink")； 音MAD玩家所使用的常用软体为[Vegas](https://zh.wikipedia.org/wiki/Vegas "wikilink")、[REAPER或](https://zh.wikipedia.org/wiki/REAPER "wikilink")[FL Studio其中之一](../Page/FL_Studio.md "wikilink")（偶尔使用[UTAU或](https://zh.wikipedia.org/wiki/UTAU "wikilink")[Cubase](../Page/Cubase.md "wikilink")制作人声歌唱部分和[After Effects等视频特效软件](https://zh.wikipedia.org/wiki/After_Effects "wikilink")，日系音MAD玩家善于使用[AviUti](https://zh.wikipedia.org/wiki/AviUti "wikilink")、[Vegas以及](https://zh.wikipedia.org/wiki/Vegas "wikilink")[REAPER的组合](https://zh.wikipedia.org/wiki/REAPER "wikilink")）； 而人力VOCALOID玩家所使用的常用软体为[Vegas或者](https://zh.wikipedia.org/wiki/Vegas "wikilink")[Premiere Pro](https://zh.wikipedia.org/wiki/Premiere_Pro "wikilink")（因为人力玩家已经不需要使用非编软件来处理音频）、[UTAU以及](https://zh.wikipedia.org/wiki/UTAU "wikilink")[Audition](https://zh.wikipedia.org/wiki/Audition "wikilink")（偶尔使用[FL Studio以及](../Page/FL_Studio.md "wikilink")[Cubase](../Page/Cubase.md "wikilink")等音频宿主和[After Effects特效软件](https://zh.wikipedia.org/wiki/After_Effects "wikilink")）； 制作要领详见「[重混](https://zh.wikipedia.org/wiki/重混 "wikilink")」。
+音MAD作者所使用的常用软件为[Vegas](https://zh.wikipedia.org/wiki/Vegas "wikilink")、[REAPER或](https://zh.wikipedia.org/wiki/REAPER "wikilink")[FL Studio其中之一](../Page/FL_Studio.md "wikilink")（偶尔使用[UTAU或](https://zh.wikipedia.org/wiki/UTAU "wikilink")[Cubase](../Page/Cubase.md "wikilink")制作人声歌唱部分和[After Effects等视频特效软件](https://zh.wikipedia.org/wiki/After_Effects "wikilink")，日系音MAD玩家善于使用[AviUti](https://zh.wikipedia.org/wiki/AviUti "wikilink")、[Vegas以及](https://zh.wikipedia.org/wiki/Vegas "wikilink")[REAPER的组合](https://zh.wikipedia.org/wiki/REAPER "wikilink")）； 而人力VOCALOID作者所使用的常用软件为[Vegas或者](https://zh.wikipedia.org/wiki/Vegas "wikilink")[Premiere Pro](https://zh.wikipedia.org/wiki/Premiere_Pro "wikilink")（因为人力玩家已经不需要使用非编软件来处理音频）、[UTAU](https://zh.wikipedia.org/wiki/UTAU "wikilink")、Vocalshift以及[Audition](https://zh.wikipedia.org/wiki/Audition "wikilink")（偶尔使用[FL Studio以及](../Page/FL_Studio.md "wikilink")[Cubase](../Page/Cubase.md "wikilink")等音频宿主和[After Effects特效软件](https://zh.wikipedia.org/wiki/After_Effects "wikilink")）； 制作要领详见「[重混](https://zh.wikipedia.org/wiki/重混 "wikilink")」。
 
-## 常用音素材举例
+## 常用素材举例
 
 ### 日系
 
 该类素材主要于[NICONICO动画兴起](https://zh.wikipedia.org/wiki/NICONICO动画 "wikilink")，該網站也會在每個月第三周的六日及休日舉行音MAD徵稿活動\[2\]。
 
-  - [兄贵](../Page/比利·海灵顿.md "wikilink")（Billy Herrington,Van Darkholme）
+  - [兄贵](../Page/比利·海灵顿.md "wikilink")/噶七姆七/哲♂学，主要指[比利·海灵顿](../Page/比利·海灵顿.md "wikilink")和[范·达克霍姆](../Page/范·达克霍姆.md "wikilink")等人参演的男同性恋片
 
-  - [创价](https://zh.wikipedia.org/wiki/创价学会 "wikilink")，主要使用素材为早期创价学会的一些宣传片，现创价学会会员星野康二加入[NICONICO动画管理层后大幅打压相关影片](https://zh.wikipedia.org/wiki/NICONICO动画 "wikilink")，上传者将会受到政府问话并且视频会被削除
+  - [创价](https://zh.wikipedia.org/wiki/创价学会 "wikilink")，主要使用素材为早期创价学会的一些宣传片，现创价学会会员星野康二加入[NICONICO动画管理层](https://zh.wikipedia.org/wiki/NICONICO动画 "wikilink")（已离职）后大幅打压相关影片，上传者可能会受到政府问话并且视频会被削除
 
-  - [导师](https://zh.wikipedia.org/wiki/松冈修造 "wikilink")（松冈修造）（以上三个素材为早期[NICONICO动画最常见的素材](https://zh.wikipedia.org/wiki/NICONICO动画 "wikilink")，亦被称为里[御三家](../Page/御三家.md "wikilink")\[3\]）
+  - 导师（[松冈修造](../Page/松岡修造.md "wikilink")）（以上三个素材为早期[NICONICO动画最常见的素材](https://zh.wikipedia.org/wiki/NICONICO动画 "wikilink")，亦被称为里[御三家](../Page/御三家.md "wikilink")\[3\]）
 
-  - [真夏夜的淫梦](../Page/仲夏夜之淫梦.md "wikilink")（淫梦）
+  - [真夏夜的淫梦](../Page/仲夏夜之淫梦.md "wikilink")（淫梦）该素材为目前[NICONICO动画最热门的素材之一](https://zh.wikipedia.org/wiki/NICONICO动画 "wikilink")，大有赶超御三家之势。但是因为题材污浊，也经常受到[NICONICO动画管理层的大范围削除](https://zh.wikipedia.org/wiki/NICONICO动画 "wikilink")
 
-      - [Cookie☆](https://zh.wikipedia.org/wiki/Cookie☆ "wikilink")（曲奇），[东方手书](https://zh.wikipedia.org/wiki/東方Project "wikilink")，因为淫梦而风评被害的素材，常与淫梦一起使用，该素材为目前[NICONICO动画最热门的素材之一](https://zh.wikipedia.org/wiki/NICONICO动画 "wikilink")，大有赶超御三家之势。但是因为题材污浊，也经常受到[NICONICO动画管理层的大范围削除](https://zh.wikipedia.org/wiki/NICONICO动画 "wikilink")）
+      - Cookie☆（曲奇），[东方手书](https://zh.wikipedia.org/wiki/東方Project "wikilink")，因为淫梦而风评被害的素材，常与淫梦一起使用。
 
-  - [德国BOY](https://zh.wikipedia.org/wiki/德国BOY "wikilink")（键盘破坏者，台湾称作德国疯小孩，KBC）
+  - 德国BOY（键盘破坏者，台湾称作德国疯小孩，KBC）
 
   - [蓝蓝路](https://zh.wikipedia.org/wiki/蓝蓝路 "wikilink")
 
@@ -65,6 +65,10 @@
 
   - カビキラー（日本某清潔劑品牌的廣告）
 
+  - 膳（日本一威士忌酒广告）
+
+  - 一本满足（日本一巧克力棒广告）
+
 ### 中系
 
 又被称为「鬼畜全明星」，该类素材主要于[Acfun及](https://zh.wikipedia.org/wiki/Acfun "wikilink")[bilibili等中国视频网站兴起](https://zh.wikipedia.org/wiki/bilibili "wikilink")。
@@ -77,18 +81,21 @@
   - 《[LoveLive\!](https://zh.wikipedia.org/wiki/LoveLive! "wikilink")》
       - niconiconi（にっこにっこにー！）:这是《[LoveLive\!](https://zh.wikipedia.org/wiki/LoveLive! "wikilink")》中矢泽妮可的口头禅，也是其招牌动作的称呼。
   - 《[小猪佩奇](https://zh.wikipedia.org/wiki/小猪佩奇 "wikilink")》
-
-<!-- end list -->
-
-  -
-
-      -
-        动画中有一集是关于小猪佩奇关于吹口哨的问题与小羊苏西的对话，其小羊苏西的口哨和小猪佩奇的挂电话音是其最代表性的鬼畜素材。
+      - 动画中有一集是关于小猪佩奇关于吹口哨的问题与小羊苏西的对话，其小羊苏西的口哨和小猪佩奇的挂电话音是其最代表性的鬼畜素材。
+  - 《[海绵宝宝](https://zh.wikipedia.org/wiki/海绵宝宝 "wikilink")》
+      - 章鱼哥：第2集中章鱼哥的竖笛演奏桥段<S>（来听听章鱼哥的美妙音乐吧）</S>
+      - 派大星的自白：第68集中派大星的自白桥段，第2季第二集中派大星接电话桥段。
+  - 《[工作细胞](https://zh.wikipedia.org/wiki/工作细胞 "wikilink")》
+      - 血小板:动漫[工作细胞第一集的血小板搬运大型物件时](https://zh.wikipedia.org/wiki/工作细胞 "wikilink")，由于血小板可爱的左右横跳动作，令人印象深刻，后来被制成鬼畜。
+  - 《[天使降临到我身边](https://zh.wikipedia.org/wiki/天使降临到我身边 "wikilink")》
+      - 星野日向：向动画第一集中星野日向给打扮很奇怪的星野宫子开门被吓到的桥段以及的称呼（星野日向对姐姐星野宫子的称呼）。
+  - 《[悠哉日常大王](https://zh.wikipedia.org/wiki/悠哉日常大王 "wikilink")》
+      - 第一集中宫内莲华（喵帕斯）吹笛子的桥段以及问候语。
 
 #### 影视作品
 
   - 《[帝国的毁灭](https://zh.wikipedia.org/wiki/元首的愤怒 "wikilink")》
-      - [希特勒](https://zh.wikipedia.org/wiki/希特勒 "wikilink"):鬼畜素材来源于片中第三帝国即将被攻陷时元首（即纳粹党的领袖阿道夫·希特勒）在[元首地堡](../Page/元首地堡.md "wikilink")内召开的会议，因武装党卫队将领菲利克斯·施坦因纳未能按照命令发动攻势。然后他在片段中气急败坏，暴跳如雷，声嘶力竭的形象给人们留下了深刻的印象。语录有摔铅笔之后的“渣渣”（，译为:「敗類」）、“气死偶咧”（，译为「没有荣誉感」）和“我到河北省來”（，译为「然而我獨自一人」）等。需要注意的是，音MAD作者大多认为鬼畜的不是历史上的希特勒本人，而是电影中元首的扮演者[布鲁诺·冈茨](../Page/布鲁诺·冈茨.md "wikilink")，或者说他的艺术形象。他们不会、不想、也不同意将这个素材扯到政治或历史问题上来。
+      - [希特勒](https://zh.wikipedia.org/wiki/希特勒 "wikilink"):鬼畜素材来源于片中第三帝国即将被攻陷时元首（即纳粹党的领袖阿道夫·希特勒）在[元首地堡](../Page/元首地堡.md "wikilink")内召开的会议，因武装党卫队将领菲利克斯·施坦因纳未能按照命令发动攻势。然后他在片段中气急败坏，暴跳如雷，声嘶力竭的形象给人们留下了深刻的印象。语录有摔铅笔之前的“渣渣”（，译为:「敗類」）、“气死偶咧”（，译为「没有荣誉感」）和“我到河北省來”（，译为「然而我獨自一人」）等。需要注意的是，音MAD作者大多认为鬼畜的不是历史上的希特勒本人，而是电影中元首的扮演者[布鲁诺·冈茨](../Page/布鲁诺·冈茨.md "wikilink")，或者说他的艺术形象。他们不会、不想、也不同意将这个素材扯到政治或历史问题上来。
 
 <!-- end list -->
 
@@ -149,11 +156,6 @@
 
 <!-- end list -->
 
-  - 《[工作细胞](https://zh.wikipedia.org/wiki/工作细胞 "wikilink")》
-      - 血小板:动漫[工作细胞第一集的血小板搬运大型物件时](https://zh.wikipedia.org/wiki/工作细胞 "wikilink")，由于血小板可爱的左右横跳动作，令人印象深刻，后来被制成鬼畜。
-
-<!-- end list -->
-
   - 《[铁齿铜牙纪晓岚](https://zh.wikipedia.org/wiki/铁齿铜牙纪晓岚 "wikilink")》
       - 纪晓岚和和珅:和珅与纪晓岚的鬼畜早在2015年就有所出现。2018年10月18日疯猴pme在bilibili上传了名为《【铁齿铜牙纪晓岚】是狼是狗分不清楚》的视频，使得该电视剧作为鬼畜素材迅速走红。
 
@@ -193,9 +195,17 @@
   - [馬雲](https://zh.wikipedia.org/wiki/馬雲 "wikilink")\[8\]
   - [庞麦郎](https://zh.wikipedia.org/wiki/約瑟翰·龐麥郎 "wikilink")\[9\]
   - [马化腾](../Page/马化腾.md "wikilink")
+  - [张召忠](../Page/张召忠.md "wikilink")
   - [卢本伟](../Page/卢本伟.md "wikilink")
   - [竊格瓦拉](https://zh.wikipedia.org/wiki/竊格瓦拉 "wikilink")
-      - 廣西南寧的一位偷車賊，被派出所抓往后，在询问时說出“打工是不可能打工的，這輩子都不可能打工的。”
+
+<!-- end list -->
+
+  -
+    廣西南寧的一位偷車賊，被派出所抓往后，在询问时說出“打工是不可能打工的，這輩子都不可能打工的。”
+
+<!-- end list -->
+
   - [蔡徐坤](../Page/蔡徐坤.md "wikilink")
   - [吴亦凡](https://zh.wikipedia.org/wiki/吴亦凡 "wikilink")（[大碗宽麵](https://zh.wikipedia.org/wiki/大碗宽麵 "wikilink")）
   - [香蕉君](https://zh.wikipedia.org/wiki/香蕉君 "wikilink")
@@ -203,24 +213,57 @@
   - [韩国瑜](https://zh.wikipedia.org/wiki/韩国瑜 "wikilink")
   - [习近平](../Page/习近平.md "wikilink")（因其“轻关易道，通商宽衣”、“萨格尔王”等口误事件，被部分[YouTube](../Page/YouTube.md "wikilink")的用户制作鬼畜视频）\[10\]
   - [江泽民](../Page/江泽民.md "wikilink")（参见[膜蛤文化](../Page/膜蛤文化.md "wikilink")）
-
-#### 其它
-
-  - 兄贵
+  - [薄熙来](../Page/薄熙来.md "wikilink")
+  - [乔碧萝](../Page/乔碧萝.md "wikilink")
+  - [霍顿](https://zh.wikipedia.org/wiki/霍顿 "wikilink")
 
 <!-- end list -->
 
   -
-    鬼畜中狭义的“兄贵”是以美国君㚻片演员比利·海灵顿为主的㚻片前戏中常常会有各种奇怪让人行为和叫声。某日本网友在niconico动画中上传了一段经过删减等处理的㚻片，该片主演为比利·海灵顿，因为影片中海灵顿与另外一位㚻片演员进行了摔跤，并且在摔跤过程中的动作和叫喊声极为奇怪，且不断地在地上翻跟头，遂立即遭到网友恶搞。这种系列的鬼畜又称“哲♂学”。（“♂”是用来区分[哲学](../Page/哲学.md "wikilink")）
+    澳大利亚游泳运动员。在2019年游泳世锦赛，获得亚军的马克·霍顿拒绝于获得冠军的中国运动员[孙杨合影](https://zh.wikipedia.org/wiki/孙杨 "wikilink")，而是站在领奖台后面。有网友将该画面上的霍顿P上腿部，形成了跪姿，被网友调侃成“水中跪族”。
+
+<!-- end list -->
+
+  - [敬汉卿](../Page/敬汉卿.md "wikilink")
+
+<!-- end list -->
+
+  -
+    B站up主。因“敬汉卿”名称被某些不法企业恶意注册商标成并威胁敬汉卿本人，敬汉卿本人通过制作视频和通过合法途径维权。受到B站用户们的支持，部分鬼畜区up主通过鬼畜的形式声援敬汉卿本人。
+
+<!-- end list -->
+
+  - [LexBurner](https://zh.wikipedia.org/wiki/LexBurner "wikilink")
+
+<!-- end list -->
+
+  -
+    B站动画区up主。因其在发布的视频中猝不及防的插入广告，被B站网友戏称为“发电厂”。
+
+<!-- end list -->
+
+  - [朱广权](https://zh.wikipedia.org/wiki/朱广权 "wikilink")
+
+<!-- end list -->
+
+  -
+    CCTV新闻频道主持人。因其在主持节目时时常爆出顺口的名言，并被剪辑成Rap视频，被网友戏称为：“央视的段子手”、“手语老师的噩梦”。
+
+#### 其它
+
+  - 兄贵/哲♂学（见上文“日系素材”）
 
 <!-- end list -->
 
   - [梁逸峰](../Page/梁逸峰.md "wikilink")
-  - [游泳教练](https://zh.wikipedia.org/wiki/陳茂蓬 "wikilink")
+  - 游泳教练（陈茂盛）
   - [狄仁傑](https://zh.wikipedia.org/wiki/狄仁傑 "wikilink")
   - [李春姬](../Page/李春姬.md "wikilink")
   - [江南皮革廠](https://zh.wikipedia.org/wiki/江南皮革廠 "wikilink")
   - [高中經典文化教材](https://www.youtube.com/watch?v=YsfI4Q34YDg)（源自[youtube](https://zh.wikipedia.org/wiki/youtube "wikilink")，台灣KUSO屈原《漁父》的動畫短片。
+  - [郭美江](https://zh.wikipedia.org/wiki/郭美江 "wikilink")
+  - [光頭哥哥](https://zh.wikipedia.org/wiki/光頭哥哥 "wikilink")
+  - [國動](https://zh.wikipedia.org/wiki/國動 "wikilink")
   - [新华里增员操](https://zh.wikipedia.org/wiki/新华里增员操 "wikilink")
   - [华农兄弟](https://zh.wikipedia.org/wiki/华农兄弟 "wikilink")
 
@@ -253,13 +296,13 @@
   - [尖叫羊](https://zh.wikipedia.org/wiki/尖叫羊 "wikilink")
   - [查理咬我！](https://zh.wikipedia.org/wiki/查理咬我！ "wikilink")
   - [開心樹朋友](../Page/開心樹朋友.md "wikilink")（因為有著兩面的畫風，每一集都是用非常殘忍或「創新」的手法將該集大量角色殺死。不是大量噴血就是爆出內臟等重度獵奇畫面而常常被作為惡搞題材）
-  - [Yee](../Page/Yee.md "wikilink")（Yee這個詞起源於「revergo」這個YouTube頻道在2012年2月29日上傳的一部同名影片《Yee》。這部影片將德國 Dingo Pictures 所製作動畫《恐龍的冒險》裡的片段改編後，上傳至YouTube。這部影片在2014年8月20日被分享到Reddit後，開始在網路上爆紅。起初在台灣流行。）
+  - [Yee](../Page/Yee.md "wikilink")（Yee這個詞起源於「revergo」這個YouTube頻道在2012年2月29日上傳的一部同名影片《Yee》。這部影片將德國 Dingo Pictures 所製作動畫《恐龍的冒險》裡的片段改編後，上傳至YouTube。這部影片在2014年8月20日被分享到Reddit後，開始在網路上爆紅。）
 
 其他的素材相对使用频率较低。
 
 ### 常用音乐
 
-如同各國常用素材的差異性，常用音樂素材也會隨著盛行地區而有所不同
+如同各國常用素材的差異性，常用音樂素材也會隨著盛行地區而有所不同。通常選用的音樂大多來自遊戲（如音遊，東方系列等）與動畫。
 
 #### 来自影视作品的音乐素材
 
@@ -271,38 +314,46 @@
   - 《[白金迪斯科](https://zh.wikipedia.org/wiki/白金迪斯科 "wikilink")》（）：动画《[伪物语](https://zh.wikipedia.org/wiki/伪物语 "wikilink")》的片头曲
   - 《[GO\! GO\! MANIAC](../Page/GO!_GO!_MANIAC.md "wikilink")》
   - 《[lemon](../Page/Lemon_\(米津玄師歌曲\).md "wikilink")》（日剧《[非自然死亡](../Page/UNNATURAL.md "wikilink")》主题曲）
+  - 《[only my railgun](https://zh.wikipedia.org/wiki/only_my_railgun "wikilink")》（动画《[某科学的超电磁炮主题曲](https://zh.wikipedia.org/wiki/某科学的超电磁炮 "wikilink")》
 
-#### 来自独立专辑音乐素材
+#### VOCALOID/UTAU相关
 
   - 《[甩蔥歌](../Page/甩蔥歌.md "wikilink")》
   - 《[威風堂堂](https://zh.wikipedia.org/wiki/威風堂堂 "wikilink")》
   - 《[千本樱](../Page/千本櫻.md "wikilink")》
   - 《[初音未來的消失](https://zh.wikipedia.org/wiki/初音未來的消失 "wikilink")》
-  - [少女時代的](https://zh.wikipedia.org/wiki/少女時代 "wikilink")《[GEE](https://zh.wikipedia.org/wiki/GEE "wikilink")》
-  - 各式[周杰倫](../Page/周杰倫.md "wikilink")的歌曲，如《[霍元甲](../Page/霍元甲.md "wikilink")》、《[陽光宅男](https://zh.wikipedia.org/wiki/陽光宅男 "wikilink")》等。
-  - 《[極樂淨土](../Page/極樂淨土_\(歌曲\).md "wikilink")》
-  - 韩国歌手Psy的《[江南Style](../Page/江南Style.md "wikilink")》和《[Gentleman](../Page/绅士_\(歌曲\).md "wikilink")》
+  - [重音テト的](https://zh.wikipedia.org/wiki/重音テト "wikilink")《[おちゃめ机能](https://zh.wikipedia.org/wiki/おちゃめ机能 "wikilink")》（又稱五月病，源于搬运工“H娘”的误称）
+  - ころんば4号作曲的《八目鳗穴》、《海蜇》、《黑金枪鱼飞了起来》、《从沙丁鱼开始》（一起又被称为“海鲜市场”）
+
+#### 游戏配乐相关
+
+  - 《[U.N.Owen就是她吗？](https://zh.wikipedia.org/wiki/U.N.Owen就是她吗？ "wikilink")》（）及根据其改编的《最终鬼畜妹芙兰朵露》（）：《[東方紅魔鄉](https://zh.wikipedia.org/wiki/东方红魔乡_～_the_Embodiment_of_Scarlet_Devil. "wikilink")》中芙兰朵露·斯卡雷特的主题音乐，使用此音乐的鬼畜作品一般都命名为《最终鬼畜XXX》（如《最终鬼畜[蓝蓝路](https://zh.wikipedia.org/wiki/蓝蓝路 "wikilink")》）
+  - 《I'm So Happy》（我巨爽）及其加长版
+  - [Ryu☆的](https://zh.wikipedia.org/wiki/Ryu☆ "wikilink")《樱系列》
+  - 《Red Zone》
+  - 《[BAD APPLE](https://zh.wikipedia.org/wiki/BAD_APPLE "wikilink")》
+  - 《琪露諾的完美算術教室》
+  - 《魔理沙偷走了重要的東西》
+  - 《龟上的龙宫生活》
+
+#### 大众音乐与古典音乐
+
+  - 《天国与地狱序曲》：歌剧《地狱中的奥菲欧》第二场第二幕的序曲
+  - 《[克罗地亚狂想曲](https://zh.wikipedia.org/wiki/克罗地亚狂想曲 "wikilink")》
+  - 《[邮递马车](../Page/邮递马车.md "wikilink")》
+  - 《[粉雪](../Page/粉雪_\(Remioromen單曲\).md "wikilink")》
+  - 周杰伦的许多歌曲，如《青花瓷》等
+  - 《[学猫叫](../Page/学猫叫.md "wikilink")》
+  - 《[心如止水](https://zh.wikipedia.org/wiki/心如止水 "wikilink")》
+  - 《[Bad Guy](https://zh.wikipedia.org/wiki/Bad_Guy "wikilink")》
+  - B站拜年祭单曲，如《九九八十一》等。
 
 #### 其他
 
-  - 《[U.N.Owen就是她吗？](https://zh.wikipedia.org/wiki/U.N.Owen就是她吗？ "wikilink")》（）及根据其改编的《最终鬼畜妹芙兰朵露》（）：《[東方紅魔鄉](https://zh.wikipedia.org/wiki/东方红魔乡_～_the_Embodiment_of_Scarlet_Devil. "wikilink")》中芙兰朵露·斯卡雷特的主题音乐，使用此音乐的鬼畜作品一般都命名为《最终鬼畜XXX》（如《最终鬼畜[蓝蓝路](https://zh.wikipedia.org/wiki/蓝蓝路 "wikilink")》）
-  - 《I'm So Happy》（我巨爽）
-  - 《[冷やし](https://zh.wikipedia.org/wiki/冷やし "wikilink")》以及后续版本
-  - 《[BAD APPLE](https://zh.wikipedia.org/wiki/BAD_APPLE "wikilink")》
-  - 《[琪露諾的完美算術教室](https://zh.wikipedia.org/wiki/琪露諾的完美算術教室 "wikilink")》
-  - 《[魔理沙偷走了重要的東西](https://zh.wikipedia.org/wiki/魔理沙偷走了重要的東西 "wikilink")》
-  - 《[天国与地狱序曲](https://zh.wikipedia.org/wiki/天国与地狱序曲 "wikilink")》：歌剧《地狱中的奥菲欧》第二场第二幕的序曲
-  - 《[only my railgun](https://zh.wikipedia.org/wiki/only_my_railgun "wikilink")》
-  - 《[粉雪](../Page/粉雪_\(Remioromen單曲\).md "wikilink")》
   - 《[七色之NICONICO动画](https://zh.wikipedia.org/wiki/组曲《NICONICO动画》 "wikilink")》(組曲)
   - 《[NICONICO动画流星群](https://zh.wikipedia.org/wiki/组曲《NICONICO动画》 "wikilink")》(組曲)
-  - 《[邮递马车](../Page/邮递马车.md "wikilink")》
-  - 《[妖怪體操第一](https://zh.wikipedia.org/wiki/妖怪體操第一 "wikilink")》
-  - 《[彩虹貓](../Page/彩虹貓.md "wikilink")》的背景音樂
-  - [重音テト的](https://zh.wikipedia.org/wiki/重音テト "wikilink")《[おちゃめ机能](https://zh.wikipedia.org/wiki/おちゃめ机能 "wikilink")》（又稱五月病）
-  - 《[Red Zone](https://zh.wikipedia.org/wiki/Red_Zone "wikilink")》
-  - [中原龙太郎的《樱系列》](https://zh.wikipedia.org/wiki/中原龙太郎的《樱系列》 "wikilink")
-  - 《[学猫叫](../Page/学猫叫.md "wikilink")》
+  - 《冷やし》，由《Hammer状态》和《Red Zone》组成
+  - 《柴又》，音mad作者“2号”的自作曲
 
 ## 法律文件
 

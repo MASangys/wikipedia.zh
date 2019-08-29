@@ -413,9 +413,10 @@ CD</p></td>
 
 #### 合作歌曲
 
-| 名稱              | 發行日期       | 合作歌手                                         | 形式   |
-| --------------- | ---------- | -------------------------------------------- | ---- |
-| Sleeping Beauty | 2018年6月29日 | [Epik High](../Page/Epik_High.md "wikilink") | 數位單曲 |
+| 名稱              | 發行日期       | 合作歌手                                                                  | 形式   |
+| --------------- | ---------- | --------------------------------------------------------------------- | ---- |
+| Sleeping Beauty | 2018年6月29日 | [Epik High](../Page/Epik_High.md "wikilink")                          | 數位單曲 |
+| LOST            | 2019年7月26日 | [Clean Bandit](https://zh.wikipedia.org/wiki/Clean_Bandit "wikilink") | 數位單曲 |
 
 ### 其他作品
 
@@ -592,6 +593,18 @@ CD</p></td>
 <td><p>2018年4月7日－6月24日</p></td>
 <td><p>SEKAI NO OWARI 野外ツアー2018「INSOMNIA TRAIN」</p></td>
 <td><p>6會場12公演</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年4月6日－8月25日</p></td>
+<td><p>SEKAI NO OWARI TOUR 2019「The Colors」</p></td>
+<td><p>13會場28公演</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年10月11日－11月18日</p></td>
+<td><p>End of the World「The Colors Asia Tour 2019」</p></td>
+<td><p>亞洲巡迴公演</p></td>
 <td></td>
 </tr>
 <tr class="even">

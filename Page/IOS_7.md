@@ -130,7 +130,7 @@ iOS 7中的音樂應用程式整合了[iTunes Radio功能](https://zh.wikipedia.
 
 ### iPhone
 
-  - [iPhone 4](https://zh.wikipedia.org/wiki/iPhone_4 "wikilink")
+  - [iPhone 4](https://zh.wikipedia.org/wiki/iPhone_4 "wikilink") （此iOS版本為最後一個支援此裝置的版本）
   - [iPhone 4s](https://zh.wikipedia.org/wiki/iPhone_4s "wikilink")
   - [iPhone 5](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink")
   - [iPhone 5c](https://zh.wikipedia.org/wiki/iPhone_5c "wikilink")

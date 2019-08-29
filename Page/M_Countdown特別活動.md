@@ -655,7 +655,7 @@
 
   - [GFRIEND](../Page/GFRIEND.md "wikilink")
   - [HIGHLIGHT](../Page/Highlight_\(韓國組合\).md "wikilink")
-  - [KNK](https://zh.wikipedia.org/wiki/KNK "wikilink")
+  - [KNK](../Page/KNK.md "wikilink")
   - [SF9](https://zh.wikipedia.org/wiki/SF9 "wikilink")
   - [ZION. T](../Page/Zion.T.md "wikilink")
 
@@ -859,6 +859,28 @@
 活動日期：2019年8月15日-2019年8月18日
 
 活動地點：[加利福尼亞州](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[洛杉磯](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")[史坦波中心](https://zh.wikipedia.org/wiki/史坦波中心 "wikilink")
+
+8月17日
+
+  - [ATEEZ](../Page/ATEEZ.md "wikilink")
+  - [MOMOLAND](../Page/MOMOLAND.md "wikilink")
+  - [ONEUS](https://zh.wikipedia.org/wiki/ONEUS "wikilink")
+  - [NU'EST](../Page/NU'EST.md "wikilink")
+  - [AB6IX](../Page/AB6IX.md "wikilink")
+  - [IZ\*ONE](../Page/IZ*ONE.md "wikilink")
+  - [本月少女](../Page/本月少女.md "wikilink")
+  - [SF9](https://zh.wikipedia.org/wiki/SF9 "wikilink")
+
+8月18日
+
+  - [請夏](https://zh.wikipedia.org/wiki/請夏 "wikilink")
+  - [fromis_9](https://zh.wikipedia.org/wiki/fromis_9 "wikilink")
+  - [ITZY](../Page/ITZY.md "wikilink")
+  - [MAMAMOO](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")
+  - [N.Flying](../Page/N.Flying.md "wikilink")
+  - [SEVENTEEN](https://zh.wikipedia.org/wiki/SEVENTEEN "wikilink")
+  - [Stray Kids](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")
+  - [VERIVERY](../Page/VERIVERY.md "wikilink")
 
 ## 參考資料
 

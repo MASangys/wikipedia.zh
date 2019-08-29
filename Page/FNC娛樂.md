@@ -487,7 +487,7 @@ Solo未出道的狀態</p></td>
 
 ### Neoz School
 
-Neoz School是FNC娛樂於2015年12月推出的計劃，可以預先看到預備明星的Pre-Debut Team，讓粉絲們能夠共同參與預備藝人成長以及出道的過程，練習生以「NEOZ」作稱呼。2016年5月11日起，在FNC娛樂及[Mnet合作推出的真人選秀節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《d.o.b》（dance or band）中，將一期練習生分為舞團(NEOZ dance)及樂團(NEOZ band)展開競賽\[8\]，節目最終由舞團隊勝出，以[SF9之名在](https://zh.wikipedia.org/wiki/SF9 "wikilink")2016年10月5日出道。\[9\]樂團以[HONEYST](../Page/HONEYST.md "wikilink")之名在2017年5月7日出道。
+Neoz School是FNC娛樂於2015年12月推出的計劃，可以預先看到預備明星的Pre-Debut Team，讓粉絲們能夠共同參與預備藝人成長以及出道的過程，練習生以「NEOZ」作稱呼。2016年5月11日起，在FNC娛樂及[Mnet](../Page/Mnet.md "wikilink")合作推出的真人選秀節目《d.o.b》（dance or band）中，將一期練習生分為舞團(NEOZ dance)及樂團(NEOZ band)展開競賽\[8\]，節目最終由舞團隊勝出，以[SF9之名在](https://zh.wikipedia.org/wiki/SF9 "wikilink")2016年10月5日出道。\[9\]樂團以[HONEYST](../Page/HONEYST.md "wikilink")之名在2017年5月7日出道。
 
 ## 已離開藝人
 
@@ -518,13 +518,13 @@ Neoz School是FNC娛樂於2015年12月推出的計劃，可以預先看到預備
       - J-HYO（[LC9](../Page/LC9.md "wikilink")）
       - [李準](../Page/李準_\(歌手\).md "wikilink")（歌手、演員）
       - 金正優（歌手、演員）
-      - [李東元](https://zh.wikipedia.org/wiki/KNK "wikilink")（[KNK](https://zh.wikipedia.org/wiki/KNK "wikilink")）
-      - [鄭因成](https://zh.wikipedia.org/wiki/KNK "wikilink")（[KNK](https://zh.wikipedia.org/wiki/KNK "wikilink")）
-      - [吳熙俊](https://zh.wikipedia.org/wiki/KNK "wikilink")（[KNK](https://zh.wikipedia.org/wiki/KNK "wikilink")）
+      - [李東元](../Page/KNK.md "wikilink")（[KNK](../Page/KNK.md "wikilink")）
+      - [鄭因成](../Page/KNK.md "wikilink")（[KNK](../Page/KNK.md "wikilink")）
+      - [吳熙俊](../Page/KNK.md "wikilink")（[KNK](../Page/KNK.md "wikilink")）
       - [李東賢](../Page/L.A.U.md "wikilink")（[L.A.U](../Page/L.A.U.md "wikilink")）
       - [全志佑](https://zh.wikipedia.org/wiki/全志佑 "wikilink")（[KARD](../Page/KARD.md "wikilink")）
       - [姚明明](https://zh.wikipedia.org/wiki/姚明明 "wikilink")（[UNINE](../Page/UNINE.md "wikilink")）
-      - 裴鍾仁（[BLK](../Page/BLK.md "wikilink")）
+      - I（[BLK](../Page/BLK.md "wikilink")）
       - 卓真奎（《[少年24](../Page/BOYS24.md "wikilink")》）
       - [李輝燦](../Page/LIMITLESS_\(男子團體\).md "wikilink")（[LIMITLESS](../Page/LIMITLESS_\(男子團體\).md "wikilink")）
 

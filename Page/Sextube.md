@@ -6,7 +6,7 @@
 
 Sextube在美国非常受欢迎。它的35.5%的用户来自美国。它的5.5%的用户来自[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")。
 
-网站针对[异性恋观众](https://zh.wikipedia.org/wiki/异性恋 "wikilink")，对于男性同性恋网站会导向它的姐妹网站Gaytube。
+网站针对[异性恋](../Page/异性恋.md "wikilink")观众，对于男性同性恋网站会导向它的姐妹网站Gaytube。
 
 ## 收购
 

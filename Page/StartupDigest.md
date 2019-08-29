@@ -9,6 +9,7 @@
   - [StartupDigest@Shanghai](https://www.startupdigest.com/digests/shanghai)
 
   -
+
 [Category:科技媒体](https://zh.wikipedia.org/wiki/Category:科技媒体 "wikilink") [Category:2009年创建的互联网](https://zh.wikipedia.org/wiki/Category:2009年创建的互联网 "wikilink") [Category:美国公司](https://zh.wikipedia.org/wiki/Category:美国公司 "wikilink")
 
 1.  Lapowsky, Issie. [The Social Butterfly of Start-ups](http://www.inc.com/articles/2010/09/interview-with-chris-mccann-cofounder-startup-digest.html). Inc Magazine. September 3, 2010.

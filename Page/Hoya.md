@@ -144,17 +144,18 @@
 
 ### 電視劇
 
-|                                                             |                                                         |                                                |      |       |
-| ----------------------------------------------------------- | ------------------------------------------------------- | ---------------------------------------------- | ---- | ----- |
-| 年份                                                          | 電視台                                                     | 電視劇名稱                                          | 角色   | 性質    |
-| 2012                                                        | [tvN](../Page/TVN.md "wikilink")                        | 《[請回答1997](../Page/請回答1997.md "wikilink")》     | 姜俊熙  | 主要角色  |
-| 2013                                                        | [tvN](../Page/TVN.md "wikilink")                        | 《[請回答1994](../Page/請回答1994.md "wikilink")》     | 姜俊熙  | 特別出演  |
-| 2014                                                        | [SBS](https://zh.wikipedia.org/wiki/SBS有限公司 "wikilink") | 《[對我而言可愛的她](../Page/對我而言可愛的她.md "wikilink")》   | 姜來憲  |       |
-| 2015                                                        | [SBS](https://zh.wikipedia.org/wiki/SBS有限公司 "wikilink") | 《[假面](../Page/假面_\(電視劇\).md "wikilink")》       | 卞智赫  |       |
-| 2017                                                        | [SBS](https://zh.wikipedia.org/wiki/SBS有限公司 "wikilink") | 《[超人家族 2017](../Page/超人家族_2017.md "wikilink")》 | 李貴南  |       |
-| [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") | 《[自體發光辦公室](../Page/自體發光辦公室.md "wikilink")》              | 張康昊                                            | 主要角色 |       |
-| [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") | 《[Two Cops](../Page/Two_Cops.md "wikilink")》            | 獨孤誠赫                                           |      |       |
-| 2018                                                        | [MBN](https://zh.wikipedia.org/wiki/每日廣播 "wikilink")    | 《[馬成的喜悅](../Page/馬成的喜悅.md "wikilink")》         | 成基俊  | 第二男主角 |
+|                                                             |                                                         |                                                |      |        |
+| ----------------------------------------------------------- | ------------------------------------------------------- | ---------------------------------------------- | ---- | ------ |
+| 年份                                                          | 電視台                                                     | 電視劇名稱                                          | 角色   | 性質     |
+| 2012                                                        | [tvN](../Page/TVN.md "wikilink")                        | 《[請回答1997](../Page/請回答1997.md "wikilink")》     | 姜俊熙  | 主要角色   |
+| 2013                                                        | [tvN](../Page/TVN.md "wikilink")                        | 《[請回答1994](../Page/請回答1994.md "wikilink")》     | 姜俊熙  | 特別出演   |
+| 2014                                                        | [SBS](https://zh.wikipedia.org/wiki/SBS有限公司 "wikilink") | 《[對我而言可愛的她](../Page/對我而言可愛的她.md "wikilink")》   | 姜來憲  |        |
+| 2015                                                        | [SBS](https://zh.wikipedia.org/wiki/SBS有限公司 "wikilink") | 《[假面](../Page/假面_\(電視劇\).md "wikilink")》       | 卞智赫  |        |
+| 2017                                                        | [SBS](https://zh.wikipedia.org/wiki/SBS有限公司 "wikilink") | 《[超人家族 2017](../Page/超人家族_2017.md "wikilink")》 | 李貴南  |        |
+| [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") | 《[自體發光辦公室](../Page/自體發光辦公室.md "wikilink")》              | 張康昊                                            | 主要角色 |        |
+| [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") | 《[Two Cops](../Page/Two_Cops.md "wikilink")》            | 獨孤誠赫                                           |      |        |
+| 2018                                                        | [MBN](https://zh.wikipedia.org/wiki/每日廣播 "wikilink")    | 《[馬成的喜悅](../Page/馬成的喜悅.md "wikilink")》         | 成基俊  | 第二男主角. |
+| 2019                                                        | [SBS](https://zh.wikipedia.org/wiki/SBS有限公司 "wikilink") | 《嘻哈王》                                          | 方英白  | 第一男主角  |
 
 ### 電影
 

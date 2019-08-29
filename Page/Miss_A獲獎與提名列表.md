@@ -100,7 +100,7 @@
 </tbody>
 </table>
 
-**miss A獲獎與提名**列舉[miss A](https://zh.wikipedia.org/wiki/miss_A "wikilink")（）出道以來在[韓國的頒獎典禮和音樂節目上獲得的獎項](https://zh.wikipedia.org/wiki/韓國 "wikilink")，包含提名項目。[Miss A](../Page/Miss_A.md "wikilink")2010年7月1日推出首張單曲《[Bad But Good](../Page/Bad_But_Good_\(miss_A單曲\).md "wikilink")》，同日於[Mnet的音樂節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》中正式出道。 至2013年為止，在韓國主要頒獎典禮共獲得15個獎項；在音樂節目共拿到15次一位。
+**miss A獲獎與提名**列舉[miss A](https://zh.wikipedia.org/wiki/miss_A "wikilink")（）出道以來在[韓國的頒獎典禮和音樂節目上獲得的獎項](https://zh.wikipedia.org/wiki/韓國 "wikilink")，包含提名項目。[Miss A](../Page/Miss_A.md "wikilink")2010年7月1日推出首張單曲《[Bad But Good](../Page/Bad_But_Good_\(miss_A單曲\).md "wikilink")》，同日於[Mnet](../Page/Mnet.md "wikilink")的音樂節目《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》中正式出道。 至2013年為止，在韓國主要頒獎典禮共獲得15個獎項；在音樂節目共拿到15次一位。
 
 ## 韓國
 
@@ -268,7 +268,7 @@
 
 ### Mnet亞洲音樂大獎
 
-[Mnet亞洲音樂大獎](../Page/Mnet亞洲音樂大獎.md "wikilink")是由[Mnet舉辦的一個](https://zh.wikipedia.org/wiki/Mnet "wikilink")[韓國主要年度音樂頒獎禮](https://zh.wikipedia.org/wiki/韓國 "wikilink")。
+[Mnet亞洲音樂大獎](../Page/Mnet亞洲音樂大獎.md "wikilink")是由[Mnet](../Page/Mnet.md "wikilink")舉辦的一個[韓國主要年度音樂頒獎禮](https://zh.wikipedia.org/wiki/韓國 "wikilink")。
 
 <table>
 <thead>
@@ -656,7 +656,7 @@
 
 ## 音樂節目
 
-以下為[miss A在](https://zh.wikipedia.org/wiki/miss_A "wikilink")[韓國音樂節目](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》、[KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[Music Bank](https://zh.wikipedia.org/wiki/KBS音樂銀行 "wikilink")》、[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")》、 [SBS](../Page/SBS_\(韓國\).md "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")》、MBC Music《[Show Champion](../Page/Show_Champion.md "wikilink")》及JTBC《Music On Top》中獲得1位的記錄。
+以下為[miss A在](https://zh.wikipedia.org/wiki/miss_A "wikilink")[韓國音樂節目](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Mnet](../Page/Mnet.md "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》、[KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[Music Bank](https://zh.wikipedia.org/wiki/KBS音樂銀行 "wikilink")》、[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")》、 [SBS](../Page/SBS_\(韓國\).md "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")》、MBC Music《[Show Champion](../Page/Show_Champion.md "wikilink")》及JTBC《Music On Top》中獲得1位的記錄。
 
 ### M\! Countdown
 

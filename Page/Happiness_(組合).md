@@ -1,4 +1,4 @@
-**Happiness**是[日本](../Page/日本.md "wikilink")的女子歌唱團體。[LDH所屬](https://zh.wikipedia.org/wiki/LDH_\(藝能公司\) "wikilink")。唱片公司是[rhythm zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
+**Happiness**是[日本](../Page/日本.md "wikilink")的女子歌唱團體。[LDH所屬](../Page/LDH_\(藝能事務所\).md "wikilink")。唱片公司是[rhythm zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 略歴
 
@@ -123,6 +123,8 @@
 | 9th  | 2016年2月3日   | **[Sexy Young Beautiful](https://zh.wikipedia.org/wiki/Sexy_Young_Beautiful "wikilink")**         | 5位   |
 | 10th | 2017年2月8日   | **[REWIND](https://zh.wikipedia.org/wiki/REWIND "wikilink")**                                     | 4位   |
 | 11th | 2017年9月20日  | **[GOLD](https://zh.wikipedia.org/wiki/GOLD_\(Happiness單曲\) "wikilink")**                         | 1位   |
+| 12th | 2019年6月12日  | **POWER GIRLS**                                                                                   | 8位   |
+| 13th | 2019年9月11日  | **Chao Chao**                                                                                     |      |
 |      |             |                                                                                                   |      |
 
 ### 專輯

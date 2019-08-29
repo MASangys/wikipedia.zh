@@ -32,7 +32,7 @@ Red Velvet在四人時期以Irene和Seulgi為雙中心，即Joy、Irene、Seulgi
 
 成員Yeri加入后，便以Irene為中心，即Joy、Yeri、Irene、Seulgi、Wendy（從左到右）。
 
-### 成員列表
+## 成員列表
 
   - 名字**粗體**為隊長
 
@@ -53,7 +53,7 @@ Red Velvet在四人時期以Irene和Seulgi為雙中心，即Joy、Irene、Seulgi
 | Kim Ye-Rim                                              |
 |                                                         |
 
-#### 成員變遷
+### 成員變遷
 
 <timeline> ImageSize = width:1000 height:300 PlotArea = width:600 height:250 left:75 bottom:20 Alignbars = justify DateFormat = mm/dd/yyyy Period = from:2014 till:2019 TimeAxis = orientation:horizontal format:yyyy
 
@@ -89,6 +89,7 @@ LineData =
 `  at:08/06/2018`
 `  at:11/30/2018`
 `  at:06/19/2019`
+`  at:08/20/2019`
 
 </timeline>
 
@@ -164,7 +165,7 @@ LineData =
 
 2018年無疑是Red Velvet豐收的一年，憑藉《Bad Boy》入選美國“Billboard樂評選出的2018年最佳歌曲100首”第43位\[90\]，成為唯一入選的K-POP女團，並獲得美國“Billboard樂評選出的今年最佳 K-POP 歌曲20首”第一名（自2012年Billboard開始排名年度最佳K-pop歌曲以來，RV首次成為年度最佳歌曲的女性藝人）\[91\]。而《Bad Boy》MV在韓國Youtube 2018 人氣官方MV拿下第六位\[92\]、英國Youtube 2018 最多觀看次數Kpop MV的第五位\[93\]、全球Youtube 2018 最多觀看次數Kpop MV第九位。\[94\]此外，《Bad Boy》更是入圍《[韓國音樂大獎](../Page/韓國音樂大獎.md "wikilink")Korean Music Awards》最佳流行歌曲，已連續兩年獲得入圍。\[95\]《Power Up》則是獲得Gaon 2018年度歌手8月份音源部門第一名。
 
-### 2019年：首張日本數位單曲《SAPPY》、第二張日本數位單曲《Sayonara》、《REDMARE》 日本、北美巡迴、日語迷你二輯《SAPPY》、迷你六輯《The ReVe Festival: Day 1》
+### 2019年：首張日本數位單曲《SAPPY》、第二張日本數位單曲《Sayonara》、《REDMARE》 日本、北美巡迴、日語迷你二輯《SAPPY》、迷你六輯《The ReVe Festival: Day 1》、迷你七輯《The ReVe Festival: Day 2》
 
 1月6日，發表首張日本數位單曲《[SAPPY](../Page/SAPPY_\(Red_Velvet數位單曲\).md "wikilink")》，並通過官方YouTube公開MV。\[96\]
 
@@ -172,11 +173,15 @@ LineData =
 
 2月7日至21日，完成「[REDMARE](../Page/REDMARE.md "wikilink")北美巡迴演唱會」，洛杉磯、達拉斯、邁阿密、芝加哥、紐華克、多倫多、溫哥華等七個城市，共計超過37,000觀眾參加。\[97\] \[98\] \[99\]
 
-4月5日，《Bad Boy》歷經431天突破2億YouTube觀看次數，為Red Velvet第一首破二億MV。
+4月5日，《Bad Boy》歷經431天突破2億YouTube觀看次數，為Red Velvet第一首破二億MV。同日，英國知名女歌手[艾麗·高登發行](https://zh.wikipedia.org/wiki/艾麗·高登 "wikilink")《Close To Me (Red Velvet Remix)》，此曲為親自邀請Red Velvet參與的跨國合作，其中韓語歌詞的部分，由Yeri、Wendy共同參與創作。\[100\]
 
 5月29日，發行第二張日語迷你專輯《[SAPPY](https://zh.wikipedia.org/wiki/SAPPY_\(Red_Velvet迷你專輯\) "wikilink")》。
 
-6月4日，官方公佈回歸照，宣佈於6月19日攜帶新專輯《[The ReVe Festival: Day 1](../Page/The_ReVe_Festival:_Day_1.md "wikilink")》回歸。甫推出，登上iTunes综合專輯榜美国、加拿大、巴西等共28個國家和地區1位，是第一個韓國女子團體登上美國iTunes綜合專輯榜第一位。而主打歌《Zimzalabim》的MV為Red Velvet作品中發佈後最快獲得10,000,000的YouTube觀看次數。\[100\]
+6月4日，官方公佈回歸照，宣佈於6月19日攜帶新專輯《[The ReVe Festival: Day 1](../Page/The_ReVe_Festival:_Day_1.md "wikilink")》回歸。甫推出，登上iTunes综合專輯榜美国、加拿大、巴西等共28個國家和地區1位，是第一個韓國女子團體登上美國iTunes綜合專輯榜第一位。而主打歌《Zimzalabim》的MV為Red Velvet作品中發佈後最快獲得10,000,000的YouTube觀看次數。\[101\]
+
+8月11日，與[艾麗·高登合作的](https://zh.wikipedia.org/wiki/艾麗·高登 "wikilink")《Close To Me (Red Velvet Remix)》於獲得「Choice Electronic / Dance Song」獎。\[102\]
+
+8月12日，官方公佈回歸概念示意圖，宣佈於8月20日攜帶第七張迷你專輯《[The ReVe Festival: Day 2](../Page/The_ReVe_Festival:_Day_2.md "wikilink")》回歸。
 
 ## 音樂作品
 
@@ -198,6 +203,7 @@ LineData =
   - 2017: 《[Rookie](../Page/Rookie.md "wikilink")》
   - 2018: 《[RBB](../Page/RBB_\(Red_Velvet迷你專輯\).md "wikilink")》
   - 2019: 《[The ReVe Festival: Day 1](../Page/The_ReVe_Festival:_Day_1.md "wikilink")》
+  - 2019: 《[The ReVe Festival: Day 2](../Page/The_ReVe_Festival:_Day_2.md "wikilink")》
 
 #### 夏日迷你專輯
 
@@ -274,16 +280,16 @@ LineData =
 
 | **年份**                 | **種類**                                          | **品牌名稱**                                                 | **合作藝人**                               | **來源**  |
 | ---------------------- | ----------------------------------------------- | -------------------------------------------------------- | -------------------------------------- | ------- |
-| 2014                   | 食品                                              | LOTTE樂天「PEPERO 巧克力棒」                                     | [EXO](../Page/EXO.md "wikilink")-K     | \[101\] |
-| 2015                   | 「[Baskin-Robbins](../Page/31冰淇淋.md "wikilink")」 | rowspan =3                                               | \[102\]                                |         |
-| 休閒服飾                   | 「[Meters/bonwe](../Page/美特斯邦威.md "wikilink")」   | \[103\]                                                  |                                        |         |
-| 「BLACK Martine SITBON」 | \[104\]                                         |                                                          |                                        |         |
-| 2016 — 2017            | 化妝品                                             | 「The Saem」                                               | [SHINee](../Page/SHINee.md "wikilink") | \[105\] |
-| 食品                     | 「Toreore 炸雞」                                    | rowspan =2                                               | \[106\]                                |         |
-| 2017 — 至今              | 手機遊戲                                            | 「NCSoft ProBaseball H2」                                  | \[107\]                                |         |
-| 免稅商店                   | 新罗「The Shilla Duty Free」                        | [東方神起](../Page/東方神起.md "wikilink")                       | \[108\]                                |         |
-| 2018 — 2019            | 化妝品                                             | [愛茉莉太平洋](../Page/愛茉莉太平洋.md "wikilink")「伊蒂之屋 Etude House」 | rowspan =2                             | \[109\] |
-| 2018 — 至今              | 手機遊戲                                            | 「Eternal Light」                                          | \[110\]                                |         |
+| 2014                   | 食品                                              | LOTTE樂天「PEPERO 巧克力棒」                                     | [EXO](../Page/EXO.md "wikilink")-K     | \[103\] |
+| 2015                   | 「[Baskin-Robbins](../Page/31冰淇淋.md "wikilink")」 | rowspan =3                                               | \[104\]                                |         |
+| 休閒服飾                   | 「[Meters/bonwe](../Page/美特斯邦威.md "wikilink")」   | \[105\]                                                  |                                        |         |
+| 「BLACK Martine SITBON」 | \[106\]                                         |                                                          |                                        |         |
+| 2016 — 2017            | 化妝品                                             | 「The Saem」                                               | [SHINee](../Page/SHINee.md "wikilink") | \[107\] |
+| 食品                     | 「Toreore 炸雞」                                    | rowspan =2                                               | \[108\]                                |         |
+| 2017 — 至今              | 手機遊戲                                            | 「NCSoft ProBaseball H2」                                  | \[109\]                                |         |
+| 免稅商店                   | 新罗「The Shilla Duty Free」                        | [東方神起](../Page/東方神起.md "wikilink")                       | \[110\]                                |         |
+| 2018 — 2019            | 化妝品                                             | [愛茉莉太平洋](../Page/愛茉莉太平洋.md "wikilink")「伊蒂之屋 Etude House」 | rowspan =2                             | \[111\] |
+| 2018 — 至今              | 手機遊戲                                            | 「Eternal Light」                                          | \[112\]                                |         |
 
 ### 宣傳大使
 
@@ -301,36 +307,36 @@ LineData =
 <td><p>2016</p></td>
 <td><p>韓國青少年紅十字會宣傳大使</p></td>
 <td></td>
-<td><p>[111]</p></td>
+<td><p>[113]</p></td>
 </tr>
 <tr class="even">
 <td><p>韓國品牌韓流商品博覽會宣傳大使</p></td>
 <td><p><a href="../Page/WINNER.md" title="wikilink">WINNER</a>、<a href="../Page/河智苑.md" title="wikilink">河智苑</a></p></td>
-<td><p>[112]</p></td>
+<td><p>[114]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2017</p></td>
 <td><p>韓國世宗學堂宣傳大使</p></td>
 <td><p><a href="../Page/安聖基.md" title="wikilink">安聖基</a></p></td>
-<td><p>[113]</p></td>
+<td><p>[115]</p></td>
 </tr>
 <tr class="even">
 <td><p>2018</p></td>
 <td><p>首爾京畿道教育廳宣傳大使</p></td>
 <td></td>
-<td><p>[114]</p></td>
+<td><p>[116]</p></td>
 </tr>
 </tbody>
 </table>
 
 ## 獎項與榮譽
 
-Red Velvet於2014年8月1日出道，隔年便摘下了許多韓國大型頒獎典禮的新人獎項，包括在内的「大韓民國演藝藝術賞」、「[金唱片獎](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")」、「[首爾音樂獎](https://zh.wikipedia.org/wiki/首爾音樂獎 "wikilink")」。\[115\]\[116\]2015年3月27日，Red Velvet憑迷你一輯《[Ice Cream Cake](https://zh.wikipedia.org/wiki/Ice_Cream_Cake "wikilink")》在[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")》贏得了出道以來首次的音樂放送節目冠軍。\[117\]
+Red Velvet於2014年8月1日出道，隔年便摘下了許多韓國大型頒獎典禮的新人獎項，包括在内的「大韓民國演藝藝術賞」、「[金唱片獎](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")」、「[首爾音樂獎](https://zh.wikipedia.org/wiki/首爾音樂獎 "wikilink")」。\[117\]\[118\]2015年3月27日，Red Velvet憑迷你一輯《[Ice Cream Cake](https://zh.wikipedia.org/wiki/Ice_Cream_Cake "wikilink")》在[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")》贏得了出道以來首次的音樂放送節目冠軍。\[119\]
 
-2015年，Red Velvet也憑《Ice Cream Cake》在韓國年末頒獎典禮包攬了表演獎項，如「[甜瓜音樂獎](../Page/甜瓜音樂獎.md "wikilink")」、「[Mnet亞洲音樂大獎](../Page/Mnet亞洲音樂大獎.md "wikilink")」、「Simply K-Pop Awards」、「[Gaon Chart K-POP大獎](../Page/Gaon_Chart_K-POP大獎.md "wikilink")」。\[118\]\[119\]\[120\]\[121\]年結時，更凴正規一輯《[The Red](../Page/The_Red.md "wikilink")》成為美國告示牌2015年十大最佳KPOP專輯的第七名。\[122\]
+2015年，Red Velvet也憑《Ice Cream Cake》在韓國年末頒獎典禮包攬了表演獎項，如「[甜瓜音樂獎](../Page/甜瓜音樂獎.md "wikilink")」、「[Mnet亞洲音樂大獎](../Page/Mnet亞洲音樂大獎.md "wikilink")」、「Simply K-Pop Awards」、「[Gaon Chart K-POP大獎](../Page/Gaon_Chart_K-POP大獎.md "wikilink")」。\[120\]\[121\]\[122\]\[123\]年結時，更凴正規一輯《[The Red](../Page/The_Red.md "wikilink")》成為美國告示牌2015年十大最佳KPOP專輯的第七名。\[124\]
 
-目前，Red Velvet繼正規一輯《The Red》\[123\]、迷你四輯《[Rookie](../Page/Rookie.md "wikilink")》\[124\]、夏日特別專輯《[The Red Summer](../Page/The_Red_Summer.md "wikilink")》后\[125\]，以正規二輯《Perfect Velvet》再次在美國[告示牌世界專輯榜中奪下第一](https://zh.wikipedia.org/wiki/告示牌 "wikilink")，為Kpop史上的最初四次奪下告示牌世界專輯榜第一的女團。\[126\]\[127\]也是目前與男團[防彈少年團](../Page/防彈少年團.md "wikilink")、[GOT7](../Page/GOT7.md "wikilink")、[B.A.P](../Page/B.A.P.md "wikilink")同獲四次冠軍的唯一女團。\[128\]
+目前，Red Velvet繼正規一輯《The Red》\[125\]、迷你四輯《[Rookie](../Page/Rookie.md "wikilink")》\[126\]、夏日特別專輯《[The Red Summer](../Page/The_Red_Summer.md "wikilink")》后\[127\]，以正規二輯《[Perfect Velvet](../Page/Perfect_Velvet.md "wikilink")》再次在美國[告示牌世界專輯榜中奪下第一](https://zh.wikipedia.org/wiki/告示牌 "wikilink")，為Kpop史上的最初四次奪下告示牌世界專輯榜第一的女團。\[128\]\[129\]
 
 ### 主要音樂節目榜單排名
 
@@ -366,19 +372,13 @@ Red Velvet於2014年8月1日出道，隔年便摘下了許多韓國大型頒獎�
 <td><p><a href="../Page/The_Red.md" title="wikilink">The Red</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>Oh Boy</p></td>
-</tr>
-<tr class="even">
 <td><p>2016年</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/The_Velvet.md" title="wikilink">The Velvet</a></p></td>
 </tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Russian_Roulette_(Red_Velvet_EP)" title="wikilink">Russian Roulette</a></p></td>
-</tr>
 <tr class="odd">
-<td><p>Lucky Girl</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Russian_Roulette_(Red_Velvet_EP)" title="wikilink">Russian Roulette</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2017年</p></td>
@@ -411,6 +411,9 @@ Red Velvet於2014年8月1日出道，隔年便摘下了許多韓國大型頒獎�
 <td><p><a href="../Page/The_ReVe_Festival:_Day_1.md" title="wikilink">The ReVe Festival: Day 1</a></p></td>
 </tr>
 <tr class="even">
+<td><p><a href="../Page/The_ReVe_Festival:_Day_2.md" title="wikilink">The ReVe Festival: Day 2</a></p></td>
+</tr>
+<tr class="odd">
 <td><ul>
 <li>「*」：打榜中</li>
 <li>「(1)」：兩星期冠軍</li>
@@ -743,12 +746,14 @@ Red Velvet於2014年8月1日出道，隔年便摘下了許多韓國大型頒獎�
 122.
 
 123.
+
 124.
 
 125.
-
 126.
 
 127.
 
 128.
+
+129.

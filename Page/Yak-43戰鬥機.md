@@ -17,4 +17,4 @@
   - [像鳥兒一樣騰飛](http://www.afwing.com/intro/birdy/25.htm)
   - Hayles, John. ["Yakovlev Yak-41 'Freestyle'".](http://www.aeroflight.co.uk/types/russia/yakovlev/yak-41/yak-41.htm) *Aeroflight*, 28 March 2005. Retrieved: 3 July 2008.
 
-[Category:蘇聯戰鬥機](https://zh.wikipedia.org/wiki/Category:蘇聯戰鬥機 "wikilink") [Category:雅克設計局航空器](https://zh.wikipedia.org/wiki/Category:雅克設計局航空器 "wikilink") [Category:垂直起降機](https://zh.wikipedia.org/wiki/Category:垂直起降機 "wikilink") [Category:隱形戰機](https://zh.wikipedia.org/wiki/Category:隱形戰機 "wikilink")
+[Category:蘇聯戰鬥機](https://zh.wikipedia.org/wiki/Category:蘇聯戰鬥機 "wikilink") [Category:雅克設計局航空器](https://zh.wikipedia.org/wiki/Category:雅克設計局航空器 "wikilink") [Category:垂直起降機](https://zh.wikipedia.org/wiki/Category:垂直起降機 "wikilink") [Category:隱形戰機](https://zh.wikipedia.org/wiki/Category:隱形戰機 "wikilink") [Category:已取消研發飛機](https://zh.wikipedia.org/wiki/Category:已取消研發飛機 "wikilink")

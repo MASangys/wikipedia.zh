@@ -36,7 +36,7 @@
   - 法國（8列）\[11\]
   - 西班牙[萨拉戈萨](../Page/萨拉戈萨.md "wikilink")（21列）\[12\]
   - [英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[Midland Metro](https://zh.wikipedia.org/wiki/Midland_Metro "wikilink")[伯明罕區域](https://zh.wikipedia.org/wiki/伯明罕 "wikilink")\[13\]（以4000萬英鎊訂購20列，並有5列選擇權）\[14\]
-  - [中華民國](../Page/中華民國.md "wikilink")[高雄市](../Page/高雄市.md "wikilink")[高雄捷運環狀輕軌](https://zh.wikipedia.org/wiki/高雄捷運環狀輕軌 "wikilink")[CAF Urbos 3系電聯車](../Page/高雄捷運環狀輕軌CAF_Urbos_3系電聯車.md "wikilink")（9列）\[15\]
+  - [臺灣](../Page/臺灣.md "wikilink")[高雄市](../Page/高雄市.md "wikilink")[高雄捷運環狀輕軌](https://zh.wikipedia.org/wiki/高雄捷運環狀輕軌 "wikilink")[CAF Urbos 3系電聯車](../Page/高雄捷運環狀輕軌CAF_Urbos_3系電聯車.md "wikilink")（9列）\[15\]
   - [美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[俄亥俄州](../Page/俄亥俄州.md "wikilink")\[16\]
   - [澳大利亞雪梨](https://zh.wikipedia.org/wiki/澳大利亞 "wikilink")（2000萬澳幣訂購6列，後增購至12列）\[17\]
   - [德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[弗赖堡](https://zh.wikipedia.org/wiki/弗赖堡 "wikilink")（訂購12列）\[18\]\[19\]

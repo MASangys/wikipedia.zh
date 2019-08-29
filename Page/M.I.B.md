@@ -13,6 +13,18 @@
 </thead>
 <tbody>
 <tr class="odd">
+<td><p><strong><a href="../Page/滑川康男.md" title="wikilink">Kangnam</a></strong></p></td>
+<td><ul>
+<li>藝名：강남/Kangnam</li>
+<li>本名：なめかわ やすお（滑川康男）</li>
+<li>生日：</li>
+<li>國籍：</li>
+<li>出道單曲：《Say My Name》（2011年10月18日發表）</li>
+<li>VOCAL</li>
+<li>韓日混血，曾在日本以YA-CHA的藝名擔任搖滾樂隊的主音</li>
+</ul></td>
+</tr>
+<tr class="even">
 <td><p><strong>Zick Jasper</strong></p></td>
 <td><ul>
 <li>藝名：Zick Jasper（舊藝名：5Zic）</li>
@@ -23,7 +35,7 @@
 <li>RAPPER</li>
 </ul></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>Cream</strong></p></td>
 <td><ul>
 <li>藝名：Cream</li>
@@ -32,18 +44,6 @@
 <li>國籍：</li>
 <li>出道單曲：《Do U Like Me》（2011年10月11日發表）</li>
 <li>RAPPER、VOCAL</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><p><strong><a href="../Page/滑川康男.md" title="wikilink">Kangnam</a></strong></p></td>
-<td><ul>
-<li>藝名：강남/Kangnam</li>
-<li>本名：なめかわ やすお（滑川康男）</li>
-<li>生日：</li>
-<li>國籍：</li>
-<li>出道單曲：《Say My Name》（2011年10月18日發表）</li>
-<li>VOCAL</li>
-<li>韓日混血，曾在日本以YA-CHA的藝名擔任搖滾樂隊的主音</li>
 </ul></td>
 </tr>
 <tr class="even">

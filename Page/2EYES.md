@@ -107,8 +107,8 @@
 |                   |                                                            |                                                                |                 |                    |
 | ----------------- | ---------------------------------------------------------- | -------------------------------------------------------------- | --------------- | ------------------ |
 | 播放日期              | 電視台／播放平台                                                   | 節目名稱                                                           | 參與成員            | 備註                 |
-| 2013年7月2日         | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")      | [娛樂新聞 Star Cam 1](https://www.youtube.com/watch?v=6lZdnuuRheQ) | 全體              | －                  |
-| 2013年7月3日         | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")      | [娛樂新聞 Star Cam 2](https://www.youtube.com/watch?v=k4FGui_rdpc) | 全體              | －                  |
+| 2013年7月2日         | [Mnet](../Page/Mnet.md "wikilink")                         | [娛樂新聞 Star Cam 1](https://www.youtube.com/watch?v=6lZdnuuRheQ) | 全體              | －                  |
+| 2013年7月3日         | [Mnet](../Page/Mnet.md "wikilink")                         | [娛樂新聞 Star Cam 2](https://www.youtube.com/watch?v=k4FGui_rdpc) | 全體              | －                  |
 | 2013年7月13日－11月23日 | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")        | [SNL Korea](../Page/SNL_Korea.md "wikilink")                   | 香淑、慧潾、Da Som、多恩 | 延峻未成年無法演出，其他人皆固定演出 |
 | 2013年7月20日        | [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")   | [柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")    | 全體              | －                  |
 | 2013年8月18日－10月27日 | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")        | 尋笑人                                                            | 多恩              | 固定演出，10/13為全體演出    |

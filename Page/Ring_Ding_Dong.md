@@ -23,14 +23,14 @@ MV的开始，是SHINee的成员们在黑夜中跳舞的场景；每隔一段时
 
 ## 音乐节目奖项
 
-| 年份     | 日期                                                                                                                           | 获胜的节目                                                                                                       |
-| ------ | ---------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| 2009年  | 10月30日                                                                                                                       | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")[音乐银行](https://zh.wikipedia.org/wiki/KBS音乐银行 "wikilink") |
-| 11月1日  | [SBS](https://zh.wikipedia.org/wiki/SBS_\(韩国\) "wikilink")[人气歌谣](https://zh.wikipedia.org/wiki/SBS人气歌谣 "wikilink")           |                                                                                                             |
-| 11月5日  | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") |                                                                                                             |
-| 11月6日  | KBS音乐银行                                                                                                                      |                                                                                                             |
-| 11月8日  | SBS人气歌谣                                                                                                                      |                                                                                                             |
-| 11月15日 |                                                                                                                              |                                                                                                             |
+| 年份     | 日期                                                                                                                 | 获胜的节目                                                                                                       |
+| ------ | ------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- |
+| 2009年  | 10月30日                                                                                                             | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")[音乐银行](https://zh.wikipedia.org/wiki/KBS音乐银行 "wikilink") |
+| 11月1日  | [SBS](https://zh.wikipedia.org/wiki/SBS_\(韩国\) "wikilink")[人气歌谣](https://zh.wikipedia.org/wiki/SBS人气歌谣 "wikilink") |                                                                                                             |
+| 11月5日  | [Mnet](../Page/Mnet.md "wikilink") [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")          |                                                                                                             |
+| 11月6日  | KBS音乐银行                                                                                                            |                                                                                                             |
+| 11月8日  | SBS人气歌谣                                                                                                            |                                                                                                             |
+| 11月15日 |                                                                                                                    |                                                                                                             |
 
 ## 参考资料
 

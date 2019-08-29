@@ -1,4 +1,4 @@
-《**萌萌侵略者 OUTBREAK COMPANY**》（）是一系列由[榊一郎](../Page/榊一郎.md "wikilink")所寫的日本[輕小說](../Page/輕小說.md "wikilink")，並由負責插圖。簡稱《**OBC**》。標题的“Outbreak”在本作中意味着具有爆发扩散性的感染力\[1\]。此系列自2011年12月起至今已經在[講談社出版了](https://zh.wikipedia.org/wiki/講談社 "wikilink")12冊，並由[尖端出版](../Page/尖端出版.md "wikilink")發行其中文版。曾獲第一屆《[店員最愛輕小說大賞](../Page/店員最愛輕小說大賞.md "wikilink")》第7位\[2\]。自2012年11月起亦經之手在講談社的雜誌漫畫化連載。2013年10月3日开始在[TBS電視台](../Page/TBS電視台.md "wikilink")播放[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。
+《**萌萌侵略者 OUTBREAK COMPANY**》（）是由[榊一郎](../Page/榊一郎.md "wikilink")所寫的日本[輕小說](../Page/輕小說.md "wikilink")作。並由負責插圖。簡稱《**OBC**》。標题的“Outbreak”在本作中意味着具有爆发扩散性的感染力\[1\]。單行本全18卷，並由[尖端出版](../Page/尖端出版.md "wikilink")代理中文版。曾獲第一屆《[店員最愛輕小說大賞](../Page/店員最愛輕小說大賞.md "wikilink")》第7位\[2\]。自2012年11月起亦經之手在講談社的雜誌漫畫化連載。2013年10月3日开始在[TBS電視台](../Page/TBS電視台.md "wikilink")播放[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。
 
 ## 劇情簡介
 
@@ -160,7 +160,7 @@
 
 ## 出版書籍
 
-本作為榊一郎所著，並由插畫的輕小說。首冊小說由講談社於2011年12月2日經其[講談社輕小說文庫](../Page/講談社輕小說文庫.md "wikilink")發行，\[3\]而截至2016年12月2日，日文版共刊行了十五卷。\[4\]台灣版由[尖端出版](../Page/尖端出版.md "wikilink")發行。\[5\]
+由負責插畫。首卷由講談社於2011年12月2日經其[講談社輕小說文庫](../Page/講談社輕小說文庫.md "wikilink")發行，單行本全18卷。
 
 <table>
 <thead>
@@ -172,7 +172,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>發售日期[6]</p></td>
+<td><p>發售日期</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
 </tr>
@@ -280,15 +280,15 @@
 <thead>
 <tr class="header">
 <th><p>集數</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/講談社" title="wikilink">講談社</a></p></th>
-<th><p><a href="../Page/尖端出版.md" title="wikilink">尖端出版</a></p></th>
+<th><p>講談社</p></th>
+<th><p>尖端出版</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>初版發售日期</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
-<td><p>初版發售日期</p></td>
+<td><p>發售日期</p></td>
+<td><p>ISBN</p></td>
+<td><p>發售日期</p></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>
@@ -315,7 +315,7 @@
 
 ## 電視動畫
 
-以《**OUTBREAK COMPANY**》為標題，2013年10月3日起在[TBS電視台](../Page/TBS電視台.md "wikilink")、[每日放送](../Page/每日放送.md "wikilink")、[中部日本放送](../Page/中部日本放送.md "wikilink")、[BS-TBS](../Page/BS-TBS.md "wikilink")播放。海外方面，台灣2013年10月11日起每周日晚上21:30分在[i-Fun動漫台網路電視播放](https://zh.wikipedia.org/wiki/i-Fun動漫台 "wikilink")（[有繁體中文字幕](http://www.i-funtv.com.tw/news-info.php?id=201)）。中國於2013年10月3日起每周五凌晨04:00分在[搜狐視頻網路電視播放](https://zh.wikipedia.org/wiki/搜狐視頻 "wikilink")（[有簡體中文字幕](http://tv.sohu.com/20131101/n389346605.shtml)）。
+以《**OUTBREAK COMPANY**》為標題，2013年10月3日起在[TBS電視台](../Page/TBS電視台.md "wikilink")、[每日放送](../Page/每日放送.md "wikilink")、[中部日本放送](../Page/中部日本放送.md "wikilink")、[BS-TBS](../Page/BS-TBS.md "wikilink")播放。海外方面，台灣2013年10月11日起每周日晚上21:30分在[i-Fun動漫台網路電視播放](https://zh.wikipedia.org/wiki/i-Fun動漫台 "wikilink")。中國於2013年10月3日起每周五凌晨04:00分在[搜狐視頻網路電視播放](https://zh.wikipedia.org/wiki/搜狐視頻 "wikilink")。
 
 ### 製作人員
 
@@ -357,7 +357,6 @@
 <th><p>演出</p></th>
 <th><p>作畫監督</p></th>
 <th><p>總作画監督</p></th>
-<th><p>改編自</p></th>
 </tr>
 </thead>
 <tbody>
@@ -370,12 +369,11 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>1.</p></td>
 <td></td>
-<td><p>不知不覺來到異世界[7]</p></td>
+<td><p>不知不覺來到異世界[3]</p></td>
 <td><p>荒川稔久</p></td>
 <td><p>及川啟</p></td>
 <td><p>松下周平</p></td>
@@ -383,7 +381,6 @@
 村山公輔、清水祐實<br />
 佐藤元昭</p></td>
 <td><p>豆塚隆</p></td>
-<td><p>第1卷</p></td>
 </tr>
 <tr class="odd">
 <td><p>2.</p></td>
@@ -394,7 +391,6 @@
 <td><p>小關雅</p></td>
 <td><p>山崎正和<br />
 枡田邦彰</p></td>
-<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -408,27 +404,24 @@
 枡田邦彰<br />
 山崎正和</p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>4.</p></td>
 <td></td>
 <td><p>獸人間諜</p></td>
-<td><p>獸耳諜影[8]</p></td>
+<td><p>獸耳諜影[4]</p></td>
 <td><p>大知慶一郎</p></td>
 <td><p>及川啟</p></td>
 <td><p>岩崎光洋<br />
 池端隆史</p></td>
 <td><p>小澤圓、鐮田鈞<br />
 梶浦伸一郎</p></td>
-<td><p>村山公輔<br />
-山崎正和</p></td>
 </tr>
 <tr class="even">
 <td><p>5.</p></td>
 <td></td>
 <td><p>果然是異世界</p></td>
-<td><p>問題都來自異世界[9][10]</p></td>
+<td><p>問題都來自異世界[5][6]</p></td>
 <td></td>
 <td><p>嵯峨敏</p></td>
 <td><p>吉井碧、星野玲香<br />
@@ -436,8 +429,6 @@
 <td><p>枡田邦彰<br />
 山崎正和<br />
 佐藤元昭</p></td>
-<td><p>第3卷<br />
-動畫原創</p></td>
 </tr>
 <tr class="odd">
 <td><p>6.</p></td>
@@ -448,13 +439,12 @@
 <td><p>高橋丈夫</p></td>
 <td><p>小林浩輔</p></td>
 <td><p>出野喜則、千葉充</p></td>
-<td><p>新田靖成</p></td>
 </tr>
 <tr class="even">
 <td><p>7.</p></td>
 <td></td>
 <td><p>Maid In Japan</p></td>
-<td><p>Maid in Japan 在日女僕[11]</p></td>
+<td><p>Maid in Japan 在日女僕[7]</p></td>
 <td><p>荒川稔久</p></td>
 <td><p>及川啟</p></td>
 <td><p>岩崎光洋</p></td>
@@ -462,37 +452,29 @@
 川島尚、北村有幸<br />
 重本和佳子、金井裕子<br />
 辻上彩華</p></td>
-<td><p>枡田邦彰<br />
-山崎正和<br />
-村山公輔<br />
-豆塚隆</p></td>
 </tr>
 <tr class="odd">
 <td><p>8.</p></td>
 <td></td>
 <td><p>皇帝陛下的憂鬱</p></td>
-<td><p>國王陛下的憂鬱[12]</p></td>
+<td><p>國王陛下的憂鬱[8]</p></td>
 <td><p>玉井豪</p></td>
 <td><p>田所修</p></td>
 <td><p>松下周平</p></td>
 <td><p>山村俊了、近藤勇次<br />
 松本朋之</p></td>
-<td><p>豆塚隆<br />
-山崎正和<br />
-枡田邦彰</p></td>
 </tr>
 <tr class="even">
 <td><p>9.</p></td>
 <td></td>
 <td><p>泳裝默示錄</p></td>
-<td><p>絕對泳服啟示錄[13][14]</p></td>
+<td><p>絕對泳服啟示錄[9][10]</p></td>
 <td><p>大知慶一郎</p></td>
 <td><p>川崎逸朗</p></td>
 <td><p>荒井省吾</p></td>
 <td><p>佐藤元昭、藤井結<br />
 重本和佳子、北村友幸<br />
 佐藤篤志</p></td>
-<td><p>新田靖成</p></td>
 </tr>
 <tr class="odd">
 <td><p>10.</p></td>
@@ -504,20 +486,16 @@
 <td><p>嵯峨敏</p></td>
 <td><p>大村將司、佐藤元昭<br />
 藤井結、重本和佳子</p></td>
-<td><p>枡田邦彰<br />
-村山公輔<br />
-山崎正和</p></td>
 </tr>
 <tr class="even">
 <td><p>11.</p></td>
 <td></td>
 <td><p>深藏不露地進行陰謀吧</p></td>
-<td><p>沉靜深陰謀[15]</p></td>
+<td><p>沉靜深陰謀[11]</p></td>
 <td><p>玉井豪</p></td>
 <td><p>田所修</p></td>
 <td><p>柳瀨雄之</p></td>
 <td><p>渡邊琉璃子、德田夢之介</p></td>
-<td><p>第2卷</p></td>
 </tr>
 <tr class="odd">
 <td><p>12.</p></td>
@@ -533,7 +511,6 @@
 枡田邦彰、佐藤元昭</p></td>
 <td><p>豆塚隆<br />
 新田靖成</p></td>
-<td></td>
 </tr>
 </tbody>
 </table>
@@ -655,16 +632,12 @@
 
 1.  参见小说第2卷第4章。
 2.
-3.
-4.
-5.
-6.
-7.  這集TVB官方網頁的標題顯示為「不知不覺來了異世界」。
-8.  這集TVB官方網頁的標題顯示為「野獸間諜」。
-9.  這集TVB標題惡搞動漫《[問題兒童都來自異世界？](../Page/問題兒童都來自異世界？.md "wikilink")》。
-10. 這集TVB官方網頁的標題顯示為「果然是異世界」。
-11. 上集的預告及這集TVB官方網頁的標題顯示為「女僕在日本」。
-12. 這集TVB官方網頁的標題顯示為「皇帝陛下的憂鬱」。
-13. 這集TVB標題惡搞動畫《[少女革命](../Page/少女革命.md "wikilink")》的插曲「絕對命運默示錄」。
-14. 這集TVB官方網頁的標題顯示為「泳衣啟示錄」。
-15. 這集TVB官方網頁的標題顯示為「深沉安靜地策劃陰謀吧」。
+3.  這集TVB官方網頁的標題顯示為「不知不覺來了異世界」。
+4.  這集TVB官方網頁的標題顯示為「野獸間諜」。
+5.  這集TVB標題惡搞動漫《[問題兒童都來自異世界？](../Page/問題兒童都來自異世界？.md "wikilink")》。
+6.  這集TVB官方網頁的標題顯示為「果然是異世界」。
+7.  上集的預告及這集TVB官方網頁的標題顯示為「女僕在日本」。
+8.  這集TVB官方網頁的標題顯示為「皇帝陛下的憂鬱」。
+9.  這集TVB標題惡搞動畫《[少女革命](../Page/少女革命.md "wikilink")》的插曲「絕對命運默示錄」。
+10. 這集TVB官方網頁的標題顯示為「泳衣啟示錄」。
+11. 這集TVB官方網頁的標題顯示為「深沉安靜地策劃陰謀吧」。

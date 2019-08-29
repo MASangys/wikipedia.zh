@@ -114,7 +114,7 @@
 
 ## 構想
 
-故事创作舞台位于[神奈川縣](../Page/神奈川縣.md "wikilink")南部的[藤澤市](../Page/藤澤市.md "wikilink")，大致在[相模灣和](https://zh.wikipedia.org/wiki/相模灣 "wikilink")[镰仓市](../Page/镰仓市.md "wikilink")的東北。制作方多次运用从《[幸運☆星](https://zh.wikipedia.org/wiki/幸運☆星 "wikilink")》中流行开来的動漫迷「[圣地](https://zh.wikipedia.org/wiki/圣地 "wikilink")」[朝聖](../Page/朝聖.md "wikilink")文化，下述之图是与藤澤市相近的[江之島](../Page/江之島.md "wikilink")（日本的熱門旅遊景點之一）、主要道路、鐵路火車站。动画中常常可以看到与此相关的场景\[7\]。
+故事创作舞台位于[神奈川縣](../Page/神奈川縣.md "wikilink")南部的[藤澤市](../Page/藤澤市.md "wikilink")，大致在[相模灣和](https://zh.wikipedia.org/wiki/相模灣 "wikilink")[镰仓市](../Page/镰仓市.md "wikilink")的東北。制作方多次运用从《[幸運☆星](../Page/幸運☆星.md "wikilink")》中流行开来的動漫迷「[圣地](https://zh.wikipedia.org/wiki/圣地 "wikilink")」[朝聖](../Page/朝聖.md "wikilink")文化，下述之图是与藤澤市相近的[江之島](../Page/江之島.md "wikilink")（日本的熱門旅遊景點之一）、主要道路、鐵路火車站。动画中常常可以看到与此相关的场景\[7\]。
 
 <File:Kamakura> Station.JPG|[鎌倉車站](../Page/鎌倉車站.md "wikilink") <File:Enoshima> from Honshu.JPG|從市中心看[江之島](../Page/江之島.md "wikilink") <File:Mosaic> at the Bridge to Enoshima.JPG|江之島上的橋樑鑲嵌的細節，位于日本县道305（江之島大桥）附近的辯天橋。 [File:Poster_of_Tari_Tari.JPG|江之島上《Tari](File:Poster_of_Tari_Tari.JPG%7C江之島上《Tari) Tari》的資訊信息
 

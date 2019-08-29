@@ -16,7 +16,7 @@ CryptoLocker通常會以[電子郵件附件的型態](https://zh.wikipedia.org/w
 
 由於該檔案的操作性質，一些專家坦承支付給勒索者是在缺乏備份還原（尤其是不經由網路連接下的離線備份，或是從[連續資料保護系統的備份進行還原](https://zh.wikipedia.org/wiki/連續資料保護 "wikilink")）下的唯一方式。由於金鑰的長度是由CryptoLocker所操縱，可以預見地，這些被加密的檔案無法[暴力破解](https://zh.wikipedia.org/wiki/暴力破解法 "wikilink")，在不付款的情況下解密檔案；相似的例子為2008年的[蠕蟲病毒Gpcode](https://zh.wikipedia.org/wiki/蠕蟲病毒 "wikilink").AK，使用的是1024位元的加密，相信這個加密程度太大，導致無法以分散式計算，或是發現漏洞的方式打破加密的內容\[21\]\[22\]\[23\]\[24\]。[賽門鐵克估計至少](https://zh.wikipedia.org/wiki/賽門鐵克 "wikilink")3%被感染的用戶會採用付款方式解決\[25\]。
 
-2013年10月下旬，[卡巴斯基報告其DNS陷阱已經建立完成](https://zh.wikipedia.org/wiki/卡巴斯基 "wikilink")，可以在部分域名用戶接觸到CryptoLocker時進行阻擋\[26\]。
+2013年10月下旬，卡巴斯基報告其DNS陷阱已經建立完成，可以在部分域名用戶接觸到CryptoLocker時進行阻擋\[26\]。
 
 ## 變種
 

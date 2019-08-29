@@ -22,7 +22,7 @@
 
 [右](https://zh.wikipedia.org/wiki/File:Harman_Kardon_Invoke_Speaker_-_aerial.jpg "fig:右")微软已经将小娜整合到许多产品中，比如微软将小娜深度地集成到了在[Windows 10内置的](../Page/Windows_10.md "wikilink")[Microsoft Edge浏览器](../Page/Microsoft_Edge.md "wikilink")\[28\]。用户可以通过小娜在餐饮网站上快速找到营业时间，显示网站的零售[优惠券](../Page/优惠券.md "wikilink")，或在地址栏中显示[天气](../Page/天气.md "wikilink")信息。在2015年微软全球合作伙伴大会（现在的）上，微软展示了小娜与即将推出的产品（如[GigJam](https://zh.wikipedia.org/wiki/GigJam "wikilink")，微软的一个以屏幕分享为核心功能的工具）的集合。\[29\]\[30\]微软的“车内的Windows”概念中也出现了小娜。 在这一概念中，司机可以在去餐馆之前，在车上通过小娜预定餐馆和浏览餐馆的内景\[31\]。
 
-在[2016年](https://zh.wikipedia.org/wiki/Build_\(开发者大会\)#Build_2016 "wikilink")[微软Bulid开发者大会](../Page/Build_\(开发者大会\).md "wikilink")（Build 2016）上，微软宣布计划将小娜作为一个[机器人](../Page/机器人.md "wikilink")整合到[Skype](../Page/Skype.md "wikilink")中，用户可通过小娜和其他机器人订餐、预订行程、转录视频信息和预约日程\[32\]。从2016年开始，小娜还可以在Skype的对话中，自动识别并强调某些与联系人和公司有关的词汇和短语\[33\]。
+在[2016年](https://zh.wikipedia.org/wiki/Build_\(开发者大会\)#Build_2016 "wikilink")[微软Build开发者大会](../Page/Build_\(开发者大会\).md "wikilink")（Build 2016）上，微软宣布计划将小娜作为一个[机器人](../Page/机器人.md "wikilink")整合到[Skype](../Page/Skype.md "wikilink")中，用户可通过小娜和其他机器人订餐、预订行程、转录视频信息和预约日程\[32\]。从2016年开始，小娜还可以在Skype的对话中，自动识别并强调某些与联系人和公司有关的词汇和短语\[33\]。
 
 微软还在Build 2016上宣布，小娜将实现在云端同步[Windows 10 移动版和桌面版的](../Page/Windows_10_行動裝置版.md "wikilink")[操作中心](../Page/操作中心.md "wikilink")之间的通知\[34\]\[35\]，以及来自Android设备的通知\[36\]\[37\]。
 

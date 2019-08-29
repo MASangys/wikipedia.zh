@@ -25,9 +25,9 @@
 | [卓韻芝](../Page/卓韻芝.md "wikilink")                    | [巫玉羚](../Page/巫玉羚.md "wikilink")                    | Pat：對應小說中的「睇波女」，「睇波男」之妻。                                                 |
 | [李尚正](../Page/李尚正.md "wikilink")                    | [陳余寬](https://zh.wikipedia.org/wiki/陳余寬 "wikilink") | Bobby：對應小說中的「睇波男」，「睇波女」之夫。在追逐完面具人時觸碰到LV女的屍體，隨後死亡。                        |
 | [Jan Curious](../Page/觸執毛.md "wikilink")            | [蔣鐵城](../Page/蔣鐵城.md "wikilink")                    | 歐陽偉：對應小說中的「油頭毒撚」。唱完大衛鮑伊的Space Oddity後進廚房，不明原因引起全身燃火死亡。                   |
-| [麥智鈞](https://zh.wikipedia.org/wiki/麥智鈞 "wikilink") | [蕭秀玲](https://zh.wikipedia.org/wiki/蕭秀玲 "wikilink") | Lavina：對應小說中的「LV女」。拜金女，因為欠債而戴假牙偽裝。被白膠漿與飛機昱追逐摔倒後死亡。                       |
+| [麥智鈞](https://zh.wikipedia.org/wiki/麥智鈞 "wikilink") | [蕭秀玲](../Page/蕭秀玲.md "wikilink")                    | Lavina：對應小說中的「LV女」。拜金女，因為欠債而戴假牙偽裝。被白膠漿與飛機昱追逐摔倒後死亡。                       |
 | [陳健朗](../Page/陳健朗.md "wikilink")                    | [蘇振威](../Page/蘇振威.md "wikilink")                    | 白膠漿：對應小說中的「潮童一」。                                                         |
-| [顏卓靈](../Page/顏卓靈.md "wikilink")                    | [蕭秀玲](https://zh.wikipedia.org/wiki/蕭秀玲 "wikilink") | 周怡：主角游梓池的女朋友，沒有在小巴之上。                                                    |
+| [顏卓靈](../Page/顏卓靈.md "wikilink")                    | [蕭秀玲](../Page/蕭秀玲.md "wikilink")                    | 周怡：主角游梓池的女朋友，沒有在小巴之上。                                                    |
 | [袁浩楊](https://zh.wikipedia.org/wiki/袁浩楊 "wikilink") | [陳余寬](https://zh.wikipedia.org/wiki/陳余寬 "wikilink") | 飛機昱：對應小說中的「潮童二」。害死LV女後姦屍，白膠漿因良心譴責而出賣他，被眾人公審後殺害，但沒死，打算復仇卻被阿信偷襲，下落不明。      |
 | 周沛燐                                                 |                                                     | 阿青：[中大四子之一](https://zh.wikipedia.org/wiki/香港中文大學 "wikilink")。四人回宿舍後依序死亡。 |
 | 張　馳                                                 |                                                     | Peter：[中大四子之一](https://zh.wikipedia.org/wiki/香港中文大學 "wikilink")。         |

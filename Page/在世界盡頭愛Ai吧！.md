@@ -97,16 +97,66 @@
   - 邊境
     指地球，因為地球位於異世界的邊境。
 
-## 漫畫
+## 出版書籍
 
-| 冊數 | 日文版                    | 發售日期        | 中文版                    | 出版日期          |
-| -- | ---------------------- | ----------- | ---------------------- | ------------- |
-| 1  | ISBN 978-4-04-867861-2 | 2009年5月27日  | ISBN 978-986-237-661-4 | 2010年5月26日 |- |
-| 3  | ISBN 978-4-04-868708-9 | 2010年7月27日  | ISBN 978-986-287-049-5 | 2011年2月1日 |-  |
-| 5  | ISBN 978-4-04-870706-0 | 2011年8月27日  | ISBN 978-986-287-717-3 | 2012年5月19日 |- |
-| 7  | ISBN 978-4-04-891048-4 | 2012年10月27日 | ISBN 978-986-325-503-1 | 2013年9月4日 |-  |
+<table>
+<thead>
+<tr class="header">
+<th><p>卷數</p></th>
+<th><p><a href="../Page/角川書店.md" title="wikilink">角川書店</a></p></th>
+<th><p><a href="../Page/台灣角川.md" title="wikilink">台灣角川</a></p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>發售日期</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
+<td><p>發售日期</p></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td><p>2009年5月27日</p></td>
+<td><p>ISBN 978-4-04-867861-2</p></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+<td><p>2009年12月18日</p></td>
+<td><p>ISBN 978-4-04-868297-8</p></td>
+</tr>
+<tr class="even">
+<td><p>3</p></td>
+<td><p>2010年7月27日</p></td>
+<td><p>ISBN 978-4-04-868708-9</p></td>
+</tr>
+<tr class="odd">
+<td><p>4</p></td>
+<td><p>2011年2月26日</p></td>
+<td><p>ISBN 978-4-04-870287-4</p></td>
+</tr>
+<tr class="even">
+<td><p>5</p></td>
+<td><p>2011年8月27日</p></td>
+<td><p>ISBN 978-4-04-870706-0</p></td>
+</tr>
+<tr class="odd">
+<td><p>6</p></td>
+<td><p>2012年4月27日</p></td>
+<td><p>ISBN 978-4-04-886466-4</p></td>
+</tr>
+<tr class="even">
+<td><p>7</p></td>
+<td><p>2012年10月27日</p></td>
+<td><p>ISBN 978-4-04-891048-4</p></td>
+</tr>
+<tr class="odd">
+<td><p>8</p></td>
+<td><p>2013年6月27日</p></td>
+<td><p>ISBN 978-4-04-891468-0</p></td>
+</tr>
+</tbody>
+</table>
 
-## 來源
+## 參考資料
 
   - [「世界の果てで愛ましょう」イメソンをMOSAIC.WAV制作](http://natalie.mu/comic/news/42735)
   - [\[レポート\] 『世界の果てで愛ましょう』のイメージソングをMOSAIC.WAVがステージで披露！](https://web.archive.org/web/20131214095226/http://news.livedoor.com/article/detail/5392570/)

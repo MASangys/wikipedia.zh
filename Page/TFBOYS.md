@@ -134,6 +134,16 @@
 </ul></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>4th</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/第一次告白" title="wikilink">第一次告白</a>》</p>
+<ul>
+<li>發行日期：2019年8月5日</li>
+<li>發行商：</li>
+<li>語言：普通话</li>
+</ul></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -158,7 +168,6 @@
 | Tonight Forever                               | 與[王力宏](../Page/王力宏.md "wikilink")合唱                                                                                            |                                                                                                                       |
 | 2018年                                         | 贊贊新時代                                                                                                                          | 公益曲，與群星合唱                                                                                                             |
 | 我和2035有個約                                     | 央視春晚節目限定曲                                                                                                                      |                                                                                                                       |
-| 2019年                                         | 我的朋友                                                                                                                           | 六週年紀念曲                                                                                                                |
 
 ## 影视作品
 
@@ -172,57 +181,85 @@
 <th><p>日期</p></th>
 <th><p>地點</p></th>
 <th><p>直播平台</p></th>
+<th><p>2nd</p></th>
+<th><p>《TFBOYS Fan’s Time》</p></th>
+<th><p>2015年8月15日</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/北京" title="wikilink">北京萬事達中心</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/愛奇藝" title="wikilink">愛奇藝</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>2nd</p></td>
-<td><p>《TFBOYS Fan’s Time》</p></td>
-<td><p>2015年8月15日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/北京" title="wikilink">北京萬事達中心</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/愛奇藝" title="wikilink">愛奇藝</a></p></td>
-</tr>
-<tr class="even">
 <td><p>3rd</p></td>
 <td><p>《三部曲》</p></td>
 <td><p>2016年8月6日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/北京" title="wikilink">北京樂視體育生態中心</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/騰訊視頻" title="wikilink">騰訊視頻</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2016年8月13日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/廣州" title="wikilink">廣州國際體育演藝中心</a></p></td>
 <td><p><a href="../Page/芒果TV.md" title="wikilink">芒果TV</a></p></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>4th</p></td>
 <td><p>《Alive Four》</p></td>
 <td><p>2017年8月11日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/南京" title="wikilink">南京奧體中心體育館</a></p></td>
 <td><p>無</p></td>
-</tr>
-<tr class="odd">
-<td><p>2017年8月13日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/騰訊視頻" title="wikilink">騰訊視頻</a></p></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>2017年8月13日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/騰訊視頻" title="wikilink">騰訊視頻</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>5th</p></td>
 <td><p>《1826+開始•想象》</p></td>
 <td><p>2018年8月24日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/北京工人體育場" title="wikilink">北京工人體育場</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/騰訊視頻" title="wikilink">騰訊視頻</a>、<a href="https://zh.wikipedia.org/wiki/QQ音樂" title="wikilink">QQ音樂</a>、<a href="https://zh.wikipedia.org/wiki/酷狗音樂" title="wikilink">酷狗音樂</a>、<a href="https://zh.wikipedia.org/wiki/酷我音樂" title="wikilink">酷我音樂</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>6th</p></td>
 <td><p>《告白 The Fever》</p></td>
 <td><p>2019年8月10日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/深圳" title="wikilink">深圳</a><a href="https://zh.wikipedia.org/wiki/寶安體育中心" title="wikilink">寶安體育中心</a></p></td>
-<td><p>未定</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/酷狗音樂" title="wikilink">酷狗音樂</a>,<a href="https://zh.wikipedia.org/wiki/酷狗直播" title="wikilink">酷狗直播</a>，<a href="https://zh.wikipedia.org/wiki/全民K歌" title="wikilink">全民K歌</a>,<a href="https://zh.wikipedia.org/wiki/QQ音樂" title="wikilink">QQ音樂</a>，<a href="https://zh.wikipedia.org/wiki/酷我音樂" title="wikilink">酷我音樂</a>,<a href="https://zh.wikipedia.org/wiki/騰訊音樂娛樂" title="wikilink">騰訊音樂娛樂</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>

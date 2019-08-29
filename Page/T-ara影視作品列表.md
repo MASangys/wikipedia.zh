@@ -178,17 +178,17 @@
 
 ## 專屬電視節目
 
-| 年份                                                  | 電視台                                                   | 節目名稱           |
-| --------------------------------------------------- | ----------------------------------------------------- | -------------- |
-| 2010                                                | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | 《T-ara World》  |
-| 《T-ara Dot Com》                                     |                                                       |                |
-| 《T-ara-{ Dream }-Girls》                             |                                                       |                |
-| [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | 《T-ara Hello Baby》                                    |                |
-| 2011                                                | [SBS](../Page/SBS_\(韓國\).md "wikilink")               | 《T-ara 的花美男們》  |
-| 2012                                                | KBS                                                   | 《T-ara 明星生活劇場》 |
-| Mnet                                                | 《T-ara 的告白》                                           |                |
-| 2013                                                | (Nico Nico)                                           | 《每日T-ara》      |
-| Mnet                                                | 《T-ara公主》                                             |                |
+| 年份                                                  | 電視台                                     | 節目名稱           |
+| --------------------------------------------------- | --------------------------------------- | -------------- |
+| 2010                                                | [Mnet](../Page/Mnet.md "wikilink")      | 《T-ara World》  |
+| 《T-ara Dot Com》                                     |                                         |                |
+| 《T-ara-{ Dream }-Girls》                             |                                         |                |
+| [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | 《T-ara Hello Baby》                      |                |
+| 2011                                                | [SBS](../Page/SBS_\(韓國\).md "wikilink") | 《T-ara 的花美男們》  |
+| 2012                                                | KBS                                     | 《T-ara 明星生活劇場》 |
+| Mnet                                                | 《T-ara 的告白》                             |                |
+| 2013                                                | (Nico Nico)                             | 《每日T-ara》      |
+| Mnet                                                | 《T-ara公主》                               |                |
 
 ## 電視劇
 
@@ -509,6 +509,15 @@
 <td><p>全劇</p></td>
 <td><p>主角</p></td>
 </tr>
+<tr class="even">
+<td><p>2019</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/让我聆听你的歌" title="wikilink">让我聆听你的歌</a>》</p></td>
+<td><p>河恩珠</p></td>
+<td><p>KBS2</p></td>
+<td><p>芝妍</p></td>
+<td><p>全劇</p></td>
+<td><p>主角</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -561,7 +570,7 @@
 | 2009年9月26-27日      | [SBS](../Page/SBS_\(韓國\).md "wikilink")                                 | 《[金諪恩的巧克力](../Page/金諪恩的巧克力.md "wikilink")》                              |                                                     |
 | 2009年10月2日         | MBC                                                                     | 《中秋女團特辑Sweet girl》                                                      |                                                     |
 | 2009年10月14日与10月21日 | Mnet                                                                    | 《一周的恋人》                                                                 | 居丽与孝敏                                               |
-| 2009年12月30日        | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")                   | 《偶像軍團紅了她\!》第5季                                                          | [芝妍缺席](https://zh.wikipedia.org/wiki/芝妍 "wikilink") |
+| 2009年12月30日        | [Mnet](../Page/Mnet.md "wikilink")                                      | 《偶像軍團紅了她\!》第5季                                                          | [芝妍缺席](https://zh.wikipedia.org/wiki/芝妍 "wikilink") |
 | 2010年1月19日         | [KBS](../Page/韓國放送公社.md "wikilink")                                     | 《》                                                                      | 6人全體                                                |
 | 2010年2月14日         | 《Star Dance Battle》                                                     |                                                                         |                                                     |
 | 2010年2月28日         | 《》                                                                      | [智妍缺席](https://zh.wikipedia.org/wiki/智妍 "wikilink")                     |                                                     |

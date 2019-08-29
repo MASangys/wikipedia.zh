@@ -103,7 +103,7 @@ long double _Complex v5=1.23456789L+3.456789999iL; //必须先写i，后写L
           - csqrtf 单精度版本
           - csqrtl 长双精度版本
   - 操作
-      - [相角](https://zh.wikipedia.org/wiki/相位 "wikilink")
+      - [相角](../Page/相位.md "wikilink")
           - carg 双精度版本
           - cargf 单精度版本
           - cargl 长双精度版本

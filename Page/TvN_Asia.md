@@ -80,8 +80,8 @@ tvN Asia大部分節目由Mnet媒體、[CJ E\&M及](https://zh.wikipedia.org/wik
 <tr class="odd">
 <td><p>星期六</p></td>
 <td><p>21:05 - 22:50</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/姜食堂3" title="wikilink">姜食堂3</a></p></td>
-<td><p>7月13日起，下半节播出</p></td>
+<td><p><a href="../Page/一日三餐.md" title="wikilink">一日三餐</a>：山村篇</p></td>
+<td><p>8月17日起</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -130,10 +130,10 @@ tvN Asia大部分節目由Mnet媒體、[CJ E\&M及](https://zh.wikipedia.org/wik
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>星期日、一</p></td>
+<td><p>星期二、三</p></td>
 <td><p>20:50 - 22:05(<a href="https://zh.wikipedia.org/wiki/UTC+7" title="wikilink">UTC+7</a>)</p></td>
-<td><p><a href="../Page/Voice3.md" title="wikilink">声音3</a></p></td>
-<td><p>5月12日起，与韩国24小时内同日播出</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/伟大的Show" title="wikilink">伟大的Show</a></p></td>
+<td><p>8月27日起，与韩国24小时内同日播出</p></td>
 <td><p><small>1</small></p></td>
 </tr>
 </tbody>
@@ -377,6 +377,20 @@ tvN Asia大部分節目由Mnet媒體、[CJ E\&M及](https://zh.wikipedia.org/wik
 <td><p><br />
 <br />
 ♤</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019年8月27日 - 2019年10月15日</p></td>
+<td><p>星期二、三20:50(<a href="https://zh.wikipedia.org/wiki/UTC+7" title="wikilink">UTC+7</a>)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/伟大的Show" title="wikilink">伟大的Show</a></p></td>
+<td><p>16</p></td>
+<td><p>♤</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>

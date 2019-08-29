@@ -48,7 +48,7 @@
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
-<td><p>你不明白！我本可以有所建树。我本可以挑战拳王。我本可以扬名一方，而不是像现在这样沦为街头混混。<br />
+<td><p>你不明白！我本可以有所建树。我本可以挑战拳-{王}-。我本可以扬名一方，而不是像现在这样沦为街头混混。<br />
 "You don't understand! I coulda had class. I coulda been a contender. I could've been somebody, instead of a bum, which is what I am."</p></td>
 <td><p>泰瑞·馬洛萊</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/馬龍·白蘭度" title="wikilink">馬龍·白蘭度</a></p></td>

@@ -26,19 +26,23 @@
 
 4月4日，Big Hit娛樂表示[CJ E\&M旗下遊戲開發公司](../Page/CJ_E&M.md "wikilink")[網石遊戲](../Page/Netmarble_Games.md "wikilink")（Netmarble）向其投資2014億韓圜，獲得25.71%股份，成為第二大股東，也是第一大[法人](../Page/法人.md "wikilink")股東，後續Netmarble的持股增為28.84%，Big Hit娛樂成為Netmarble的[聯營公司](https://zh.wikipedia.org/wiki/聯營公司 "wikilink")。\[8\]\[9\]
 
-10月18日，Big Hit娛樂宣布與[防彈少年團](../Page/防彈少年團.md "wikilink")7名成員以深厚的信任與情誼為基礎，在合約期尚有1年以上的前提下，決定再度攜手續約7年。\[10\]
+6月，成立子公司beNX，負責Big Hit娛樂的相關媒體平台開發及管理。\[10\]
 
-12月5日，在Korea VC Awards 2018中，Big Hit娛樂因創造了優質的工作並為提高相關資金投資收益率做出了巨大貢獻，入選「年度投資企業」。\[11\]
+10月18日，Big Hit娛樂宣布與[防彈少年團](../Page/防彈少年團.md "wikilink")7名成員以深厚的信任與情誼為基礎，在合約期尚有1年以上的前提下，決定再度攜手續約7年。\[11\]
+
+12月5日，在Korea VC Awards 2018中，Big Hit娛樂因創造了優質的工作並為提高相關資金投資收益率做出了巨大貢獻，入選「年度投資企業」。\[12\]
 
 ### 2019年
 
-1月11日，公布了新男團[TOMORROW X TOGETHER的第一位成員](../Page/TXT_\(組合\).md "wikilink")。將於3月4日透過[Mnet單獨特別節目正式出道](https://zh.wikipedia.org/wiki/Mnet "wikilink")。\[12\]
+1月11日，公布了新男團[TOMORROW X TOGETHER的第一位成員](../Page/TXT_\(組合\).md "wikilink")。將於3月4日透過[Mnet](../Page/Mnet.md "wikilink")單獨特別節目正式出道。\[13\]
 
-3月5日，於定期理事會中任命前CBO尹錫俊擔任共同代表理事，往後由房時爀代表負責製作部門，尹錫俊代表則負責全球業務、影像內容、IP（知識產權），及包括平台業務在內的所有部門。\[13\]
+3月5日，於定期理事會中任命前CBO尹錫俊擔任共同代表理事，往後由房時爀代表負責製作部門，尹錫俊代表則負責全球業務、影像內容、IP(知識產權)，及包括平台業務在內的所有部門。\[14\]
 
-3月11日，宣布與[CJ E\&M成立合作娛樂公司](../Page/CJ_E&M.md "wikilink")[Belift Lab](http://belift.kr/?fbclid=IwAR2-vsj-Urt31AHCGtlKs1qE37-NCIQ-cL61n0QPMXAK7T9k4JDzzXaZjQM)，將於30日起從首爾開始，在韓國、美國、日本等國家進行新人男團成員的公開徵選，目標是在2020年出道，由房時爀代表擔任總製作人。\[14\]
+3月11日，宣布與[CJ E\&M成立合作娛樂公司](../Page/CJ_E&M.md "wikilink")[Belift Lab](http://belift.kr/?fbclid=IwAR2-vsj-Urt31AHCGtlKs1qE37-NCIQ-cL61n0QPMXAK7T9k4JDzzXaZjQM)，將於30日起從首爾開始，在韓國、美國、日本等國家進行新人男團成員的公開徵選，目標是在2020年出道，由房時爀代表擔任總製作人。\[15\]
 
-7月29日，宣布已完成收購[Source Music股份的合約](../Page/Source_Music.md "wikilink")，將其編入子公司，Source Music現有管理層將繼續留任，維持品牌的色彩和獨立性。\[15\]
+7月29日，宣布已完成收購[Source Music股份的合約](../Page/Source_Music.md "wikilink")，將其編入子公司，Source Music現有管理層將繼續留任，維持品牌的色彩和獨立性。\[16\]
+
+8月19日，宣布已完成對音樂遊戲公司Superb的股份收購合約，Superb現有管理層將繼續留任，維持品牌的色彩和獨立性。預計今後將會使用Big Hit與相關公司的IP(知識產權)製作遊戲，並提供全球化的服務。\[17\]
 
 ## 旗下藝人
 
@@ -58,7 +62,7 @@
 ### 音樂製作人
 
   - [房時爀](../Page/房時爀.md "wikilink")
-  - Pdogg\[16\]
+  - Pdogg\[18\]
   - Slow Rabbit
   - Supreme Boi
   - ADORA
@@ -68,7 +72,7 @@
 
 ### 編舞家
 
-  - 孫承德\[17\]
+  - 孫承德\[19\]
 
 ## 獨立品牌子公司
 
@@ -109,7 +113,7 @@
 
   - [K.Will](https://zh.wikipedia.org/wiki/K.Will "wikilink")<small>（2006-2007）</small>
   - [林正姬](../Page/林正姬.md "wikilink")<small>（2012-2015）</small>
-  - [李昶旻](../Page/李昶旻.md "wikilink")\[18\]<small>（2010-2014；2015-2018）</small>
+  - [李昶旻](../Page/李昶旻.md "wikilink")\[20\]<small>（2010-2014；2015-2018）</small>
   - [吳志勳](../Page/吳世勛_\(韓國歌手\).md "wikilink")
 
 <!-- end list -->
@@ -134,14 +138,14 @@
 </ref>
 
   - 陳驍相（[Topp Dogg](https://zh.wikipedia.org/wiki/Topp_Dogg "wikilink")）
-  - Iron\[19\]
-  - 鄭因成（[KNK](https://zh.wikipedia.org/wiki/KNK "wikilink")）
-  - 朴栖含（[KNK](https://zh.wikipedia.org/wiki/KNK "wikilink")）\[20\]
+  - Iron\[21\]
+  - 鄭因成（[KNK](../Page/KNK.md "wikilink")）
+  - 朴栖含（[KNK](../Page/KNK.md "wikilink")）\[22\]
   - [鄭友榮](../Page/鄭友榮.md "wikilink")（[ATEEZ](../Page/ATEEZ.md "wikilink")）
   - 姜呂尚（[ATEEZ](../Page/ATEEZ.md "wikilink")）
-  - [金相均](../Page/金相均.md "wikilink")（[JBJ95](https://zh.wikipedia.org/wiki/JBJ95 "wikilink")）\[21\]
-  - [金民錫](../Page/金民錫_\(ONF\).md "wikilink")（[ONF](https://zh.wikipedia.org/wiki/ONF "wikilink")）\[22\]
-  - 李秀雄（[少年共和國](../Page/少年共和國.md "wikilink")）\[23\]
+  - [金相均](../Page/金相均.md "wikilink")（[JBJ95](https://zh.wikipedia.org/wiki/JBJ95 "wikilink")）\[23\]
+  - [金民錫](../Page/金民錫_\(ONF\).md "wikilink")（[ONF](https://zh.wikipedia.org/wiki/ONF "wikilink")）\[24\]
+  - 李秀雄（[少年共和國](../Page/少年共和國.md "wikilink")）\[25\]
   - [李俊相](../Page/李俊相.md "wikilink")（[PLT](../Page/PLT_\(男子團體\).md "wikilink")）
 
 <!-- end list -->
@@ -150,8 +154,8 @@
 
 <!-- end list -->
 
-  - 趙笑珍（[Nine Muses](https://zh.wikipedia.org/wiki/Nine_Muses "wikilink")）\[24\]
-  - 金主美（[Ladies' Code](../Page/Ladies'_Code.md "wikilink")）\[25\]
+  - 趙笑珍（[Nine Muses](https://zh.wikipedia.org/wiki/Nine_Muses "wikilink")）\[26\]
+  - 金主美（[Ladies' Code](../Page/Ladies'_Code.md "wikilink")）\[27\]
   - [銀河](../Page/Eunha.md "wikilink")（[GFRIEND](../Page/GFRIEND.md "wikilink")）
   - [信飛](../Page/SinB.md "wikilink")（[GFRIEND](../Page/GFRIEND.md "wikilink")）
   - [海允](../Page/海允.md "wikilink")（[Cherry Bullet](../Page/Cherry_Bullet.md "wikilink")）
@@ -165,9 +169,13 @@
 
   -
 
-  - [BigHit Entertainment](https://www.ibighit.com/) 的官方網路商店
-
   - [BigHit Entertainment](https://www.weibo.com/ibighit) 的新浪微博
+
+  - 的官方網站
+
+  -
+
+  -
 
   -
 ## 參考文獻
@@ -199,3 +207,5 @@
 23.
 24.
 25.
+26.
+27.

@@ -64,7 +64,7 @@ HK G28有兩種[護木可以使用](https://zh.wikipedia.org/wiki/護木 "wikili
 
 HK G28後部的[槍托](../Page/槍托.md "wikilink")仍保持經典型AR系槍械設計，與[M4卡賓槍](../Page/M4卡賓槍.md "wikilink")的4段相似，但HK G28的槍托為改進自[HK416](../Page/HK416突擊步槍.md "wikilink")、[HK417上自行設計的第二代伸縮式槍托](../Page/HK417自動步槍.md "wikilink")，其長度可5段式調節，適度不同使用者的抵肩位置，而且被原廠方面命名為可調節式狙擊型槍托（，簡稱：ASB）。這與[SR-25](../Page/SR-25狙擊步槍.md "wikilink")、[M110](https://zh.wikipedia.org/wiki/M110狙擊步槍 "wikilink")、[雷明登R11 RSASS等衍生自](../Page/雷明登R11_RSASS狙擊步槍.md "wikilink")[AR-10的狙擊型步槍使用固定型槍托不同](../Page/AR-10自動步槍.md "wikilink")。
 
-[槍托底板設有降低](https://zh.wikipedia.org/wiki/槍托底板 "wikilink")[後座力](../Page/後座力.md "wikilink")的合成[橡膠](../Page/橡膠.md "wikilink")製緩衝墊，標準型的槍托為凹型，而巡邏型則是凸型。調節時只需轉動槍托後部的調節手輪即可。
+[槍托底板設有降低](https://zh.wikipedia.org/wiki/槍托底板 "wikilink")[後座力](../Page/後座力.md "wikilink")的合成[橡膠](../Page/橡膠.md "wikilink")製，標準型的槍托為凹型，而巡邏型則是凸型。調節時只需轉動槍托後部的調節手輪即可。
 
 槍托尾部上方左右兩側也各設有一個長條形環，兩側後方的槍背帶環的設置讓使用者有更多按照個人習慣選擇加裝槍背帶的空間。HK G28的[槍背帶環可根據需要設置於武器的任意一側](https://zh.wikipedia.org/wiki/槍背帶 "wikilink")，方便左右兩手使用。
 

@@ -24,6 +24,7 @@
 
 ### 中文翻譯
 
+  - [xkcd中文站](http://xkcd.in)
   - [科学松鼠会翻译的一些漫画](http://songshuhui.net/archives/tag/xkcd)
   - [译言翻译的一些漫画](http://article.yeeyan.org/tags/xkcd)
   - [xkcd.tw](http://xkcd.tw)

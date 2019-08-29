@@ -552,7 +552,7 @@
 
 |                                年分                                 | 歌曲                               | 最高位置 | 長度   |
 | :---------------------------------------------------------------: | -------------------------------- | ---- | ---- |
-|       [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")       |                                  |      |      |
+|                [Mnet](../Page/Mnet.md "wikilink")                 |                                  |      |      |
 |                               2012                                | [狠毒地](../Page/狠毒地.md "wikilink") | 3    | 4:28 |
 |    [Russian Roulette](../Page/Russian_Roulette.md "wikilink")     | 3                                | 3:39 |      |
 | [Painkiller](https://zh.wikipedia.org/wiki/Painkiller "wikilink") | 2                                | 4:12 |      |

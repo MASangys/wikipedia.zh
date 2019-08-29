@@ -8,7 +8,7 @@
 
 因為在相對GBA來說大容量的PS2上發表，所以搭載了角色語音，並使用在《[超級機器人大戰MX](../Page/超級機器人大戰MX.md "wikilink")》上嘗試過的，縮減或透明化對話框達成全畫面演出的戰鬥動畫，還追加許多OG1和OG2上沒登場的新機體與人物。
 
-故事大致分成描寫「DC戰爭」和「L5戰役」的第一部（OG1）和講「Inspector事件」與「影鏡叛亂」的第二部（OG2），其中OG2的部分有追加新劇情。OG2部分破關後，能遊玩接續OG2結局的「OG2.5」。OG2.5是OVA版動畫《[超級機器人大戰ORIGINAL GENERATION THE ANIMATION](https://zh.wikipedia.org/wiki/超級機器人大戰ORIGINAL_GENERATION_THE_ANIMATION "wikilink")》追加新劇情的作品，但OG2.5本身的故事並沒有完結，在之後發售的PS2用遊戲《[超級機器人大戰OG外傳](https://zh.wikipedia.org/wiki/超級機器人大戰OG外傳 "wikilink")》上收錄了它的完整版。
+故事大致分成描寫「DC戰爭」和「L5戰役」的第一部（OG1）和講「監察官事件」與「影鏡叛亂」的第二部（OG2），其中OG2的部分有追加新劇情。OG2部分破關後，能遊玩接續OG2結局的「OG2.5」。OG2.5是OVA版動畫《[超級機器人大戰ORIGINAL GENERATION THE ANIMATION](https://zh.wikipedia.org/wiki/超級機器人大戰ORIGINAL_GENERATION_THE_ANIMATION "wikilink")》追加新劇情的作品，但OG2.5本身的故事並沒有完結，在之後發售的PS2用遊戲《[超級機器人大戰OG外傳](https://zh.wikipedia.org/wiki/超級機器人大戰OG外傳 "wikilink")》上收錄了它的完整版。
 
 劇情長度合計達到104話，超越《[超級機器人大戰IMPACT](https://zh.wikipedia.org/wiki/超級機器人大戰IMPACT "wikilink")》的101話，為超級機器人大戰系列目前話數最多的作品。但玩家能跳過OG1，直接從OG2的部分開始遊戲。
 
@@ -72,11 +72,11 @@ DC戰爭以地球連邦的勝利作結，但比安博士預言的外星人「侵
 
 括號內為該機體初次登場作品。
 
-  - [R-1](https://zh.wikipedia.org/wiki/超級機械人大戰OG機動兵器列表#R系列 "wikilink")（新超級機器人大戰）
+  - [R-1](https://zh.wikipedia.org/wiki/SRX計畫#R系列 "wikilink")（新超級機器人大戰）
   - [古鐵](https://zh.wikipedia.org/wiki/超級機械人大戰OG機動兵器列表#ATX計劃 "wikilink")（超級機器人大戰COMPACT2）
   - [古倫加斯特](https://zh.wikipedia.org/wiki/超級機械人大戰OG機動兵器列表#古倫加斯特系列 "wikilink")（第4次超級機器人大戰）
   - 賽巴斯塔（魔裝機神 THE LORD OF ELEMENTAL）
-  - [超軍神](https://zh.wikipedia.org/wiki/超級機械人大戰OG機動兵器列表#超能將軍守護神 "wikilink")（第2次超級機器人大戰α）
+  - [超軍神](https://zh.wikipedia.org/wiki/超級機械人大戰OG機動兵器列表#超動力將軍守護神 "wikilink")（第2次超級機器人大戰α）
 
 ## 遊戲系統
 
@@ -170,7 +170,7 @@ DC戰爭以地球連邦的勝利作結，但比安博士預言的外星人「侵
 
 ### C3×HOBBY 2006
 
-在2006年8月19日、20日於[幕張展覽館](../Page/幕張展覽館.md "wikilink")舉辦的「C3×HOBBY Chara Hobby 2006」（），本作共舉行了六次舞台活動\[14\]。由製作人寺田貴信、聲優[三木真一郎](../Page/三木真一郎.md "wikilink")、[冬馬由美](https://zh.wikipedia.org/wiki/冬馬由美 "wikilink")、[置鯰龍太郎](https://zh.wikipedia.org/wiki/置鯰龍太郎 "wikilink")、[綠川光](../Page/綠川光.md "wikilink")和主題歌演唱團體JAM Project上場演出。進行[PV上映](https://zh.wikipedia.org/wiki/PV "wikilink")、訪談與電視動畫《超級機器人大戰OG -Divine Wars-》的主題曲《Break Out》首次發表。
+在2006年8月19日、20日於[幕張展覽館](../Page/幕張展覽館.md "wikilink")舉辦的「」（），本作共舉行了六次舞台活動\[14\]。由製作人寺田貴信、聲優[三木真一郎](../Page/三木真一郎.md "wikilink")、[冬馬由美](https://zh.wikipedia.org/wiki/冬馬由美 "wikilink")、[置鯰龍太郎](https://zh.wikipedia.org/wiki/置鯰龍太郎 "wikilink")、[綠川光](../Page/綠川光.md "wikilink")和主題歌演唱團體JAM Project上場演出。進行[PV上映](https://zh.wikipedia.org/wiki/PV "wikilink")、訪談與電視動畫《超級機器人大戰OG -Divine Wars-》的主題曲《Break Out》首次發表。
 
 ### 電視廣告
 
@@ -196,7 +196,7 @@ DC戰爭以地球連邦的勝利作結，但比安博士預言的外星人「侵
 ### 電視動畫
 
   - [超級機器人大戰OG -The Inspector-](https://zh.wikipedia.org/wiki/超級機器人大戰OG_-The_Inspector- "wikilink")
-    2010年10月～2011年4月於日本播放。是將本作的Inspector篇改編，重新詮釋的作品。
+    2010年10月～2011年4月於日本播放。是將本作的監察官篇改編，重新詮釋的作品。
 
 ## 相關商品
 

@@ -123,7 +123,7 @@ MariaDB的API和协议兼容MySQL，另外又-{zh-hans:添加; zh-tw:新增}-了
   - [Yii Framework](https://zh.wikipedia.org/wiki/Yii_Framework "wikilink")
   - [Zend Framework](https://zh.wikipedia.org/wiki/Zend_Framework "wikilink")
 
-## 突出用户
+## 重要用户
 
   - [LAMP stack](../Page/LAMP.md "wikilink")
   - [Arch Linux](../Page/Arch_Linux.md "wikilink")\[30\]

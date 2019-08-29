@@ -1,4 +1,4 @@
-**《Mayday×五月天 the Best of 1999‐2013》**（）是台灣搖滾樂團[五月天](../Page/五月天.md "wikilink")在[日本](../Page/日本.md "wikilink")發行的第一張（總計第三張）精選輯 \[1\]，由日本唱片公司[A-Sketch](../Page/A-Sketch.md "wikilink")於2013年11月13日發行\[2\]\[3\]。
+**Mayday×五月天 the Best of 1999‐2013**（）是[臺灣](../Page/臺灣.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[五月天](../Page/五月天.md "wikilink")在[日本](../Page/日本.md "wikilink")發行的第二張精選輯 \[1\]，由日本唱片公司[A-Sketch](../Page/A-Sketch.md "wikilink")於2013年11月13日發行\[2\]\[3\]。
 
 ## 專輯簡介
 
@@ -54,11 +54,11 @@
 | 专辑週榜                                     | 15   | 4495 |      |      |
 | 专辑月榜                                     | \-   | \-   |      |      |
 
+## 參考文獻
+
 ## 外部連結
 
   - [Amuse 五月天官方網站](http://www.mayday.jp/)
-
-## 參考文獻
 
 [Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink") [Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink") [Category:A-Sketch音樂專輯](https://zh.wikipedia.org/wiki/Category:A-Sketch音樂專輯 "wikilink") [Category:相信音樂製作音樂專輯](https://zh.wikipedia.org/wiki/Category:相信音樂製作音樂專輯 "wikilink") [Category:五月天音樂專輯](https://zh.wikipedia.org/wiki/Category:五月天音樂專輯 "wikilink") [Category:精選輯](https://zh.wikipedia.org/wiki/Category:精選輯 "wikilink")
 

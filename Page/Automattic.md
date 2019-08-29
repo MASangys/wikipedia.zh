@@ -23,4 +23,6 @@
 
   - [Automattic網站](http://automattic.com/)
 
-[Category:免費軟件公司](https://zh.wikipedia.org/wiki/Category:免費軟件公司 "wikilink") [Category:WordPress](https://zh.wikipedia.org/wiki/Category:WordPress "wikilink") [Category:總部設在舊金山的公司](https://zh.wikipedia.org/wiki/Category:總部設在舊金山的公司 "wikilink")
+
+
+[Category:Automattic](https://zh.wikipedia.org/wiki/Category:Automattic "wikilink") [Category:自由软件公司](https://zh.wikipedia.org/wiki/Category:自由软件公司 "wikilink") [Category:美国互联网公司](https://zh.wikipedia.org/wiki/Category:美国互联网公司 "wikilink") [Category:旧金山公司](https://zh.wikipedia.org/wiki/Category:旧金山公司 "wikilink") [Category:2005年成立的公司](https://zh.wikipedia.org/wiki/Category:2005年成立的公司 "wikilink")

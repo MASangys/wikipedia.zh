@@ -1,4 +1,4 @@
-**PURE**（），曾名**Pure Family**（），是[韓國五人](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子](https://zh.wikipedia.org/wiki/男子 "wikilink")[音樂團體](https://zh.wikipedia.org/wiki/音樂團體 "wikilink")，隸屬[PURE娛樂經紀公司](https://zh.wikipedia.org/wiki/PURE娛樂 "wikilink")\[1\]，組合於2013年4月4日在[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》正式出道。當中成員志民被指與男演員[金秀賢樣貌相似](../Page/金秀賢_\(男演員\).md "wikilink")\[2\]。大約於2014年，PURE娛樂推出「PURE2期」組合[純情少年](https://zh.wikipedia.org/wiki/NTB_\(組合\) "wikilink")（，後來改組為Naughty Boys、NTB）時解散。
+**PURE**（），曾名**Pure Family**（），是[韓國五人](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子](https://zh.wikipedia.org/wiki/男子 "wikilink")[音樂團體](https://zh.wikipedia.org/wiki/音樂團體 "wikilink")，隸屬[PURE娛樂經紀公司](https://zh.wikipedia.org/wiki/PURE娛樂 "wikilink")\[1\]，組合於2013年4月4日在[Mnet](../Page/Mnet.md "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》正式出道。當中成員志民被指與男演員[金秀賢樣貌相似](../Page/金秀賢_\(男演員\).md "wikilink")\[2\]。大約於2014年，PURE娛樂推出「PURE2期」組合[純情少年](https://zh.wikipedia.org/wiki/NTB_\(組合\) "wikilink")（，後來改組為Naughty Boys、NTB）時解散。
 
 ## 成員資料
 

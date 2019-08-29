@@ -607,8 +607,6 @@ BGM遊戲開始點選樂曲時，使用ID卡再加上一定條件的話，歌曲
 
   - [BANDAI 香港《星夢-{}-學園》官網](https://www.bandainamcoasia.com/aikatsu/index.html)
 
-  - [台灣《偶像-{}-學園》遊戲官網](http://aikatsu.com.tw/)
-
   - [印尼《Aikatsu！》官方網站](http://id.aikatsu.com/)
 
   - [韓國《I am star！》官方網站](http://www.iam-star.com/)

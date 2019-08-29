@@ -1777,7 +1777,7 @@
 <tr class="even">
 <td><p>215</p></td>
 <td><p>9月9日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/APRIL_(女子團體)" title="wikilink">APRIL</a> <sup>1st</sup></p></td>
+<td><p><a href="../Page/APRIL_(女子團體).md" title="wikilink">APRIL</a> <sup>1st</sup></p></td>
 <td><p>新人偶像育成特輯<br />
 「本週偶像」特別嘉賓：<a href="../Page/Rainbow_(音樂團體).md" title="wikilink">Rainbow</a>（<a href="../Page/吳丞芽.md" title="wikilink">吳丞芽</a>、<a href="https://zh.wikipedia.org/wiki/金智淑_(RAINBOW)" title="wikilink">金智淑</a>）</p></td>
 </tr>
@@ -2054,7 +2054,7 @@
 <tr class="odd">
 <td><p>256</p></td>
 <td><p>6月22日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/4TEN" title="wikilink">4TEN</a> <sup>1st</sup>、<a href="../Page/Astro_(韓國音樂團體).md" title="wikilink">ASTRO</a> <sup>1st</sup>、<a href="https://zh.wikipedia.org/wiki/KNK" title="wikilink">KNK</a> <sup>1st</sup></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/4TEN" title="wikilink">4TEN</a> <sup>1st</sup>、<a href="../Page/Astro_(韓國音樂團體).md" title="wikilink">ASTRO</a> <sup>1st</sup>、<a href="../Page/KNK.md" title="wikilink">KNK</a> <sup>1st</sup></p></td>
 <td><p>「本週偶像」1小時特輯</p></td>
 </tr>
 <tr class="even">
@@ -2325,7 +2325,7 @@
 <tr class="odd">
 <td><p>296</p></td>
 <td><p>3月29日</p></td>
-<td><p>「本週偶像」1小時特輯，特別嘉賓<a href="https://zh.wikipedia.org/wiki/KNK" title="wikilink">KNK</a></p></td>
+<td><p>「本週偶像」1小時特輯，特別嘉賓<a href="../Page/KNK.md" title="wikilink">KNK</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2673,7 +2673,7 @@
 <a href="https://zh.wikipedia.org/wiki/JeA" title="wikilink">JeA</a> <sup>1st</sup> (<a href="../Page/Brown_Eyed_Girls.md" title="wikilink">Brown Eyed Girls</a>)、<a href="../Page/JR_(NU&#39;EST).md" title="wikilink">JR</a> <sup>1st</sup> (<a href="../Page/NU&#39;EST.md" title="wikilink">NU'EST</a>)、秉燦 <sup>1st</sup> (<a href="../Page/VICTON.md" title="wikilink">VICTON</a>)<br />
 <a href="https://zh.wikipedia.org/wiki/金請夏" title="wikilink">金請夏</a> <sup>3rd</sup>、<a href="https://zh.wikipedia.org/wiki/娜榮" title="wikilink">娜榮</a> <sup>1st</sup> (<a href="https://zh.wikipedia.org/wiki/PRISTIN" title="wikilink">PRISTIN</a>)、<a href="https://zh.wikipedia.org/wiki/率濱" title="wikilink">率濱</a> <sup>1st</sup> (<a href="../Page/LABOUM.md" title="wikilink">LABOUM</a>)<br />
 <a href="../Page/簡美妍.md" title="wikilink">簡美妍</a> <sup>1st</sup>、<a href="https://zh.wikipedia.org/wiki/文星伊" title="wikilink">玟星</a> <sup>1st</sup> (<a href="https://zh.wikipedia.org/wiki/MAMAMOO" title="wikilink">MAMAMOO</a>)、<a href="../Page/SinB.md" title="wikilink">SinB</a> <sup>3rd</sup> (<a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a>)<br />
-娜恩 <sup>1st</sup> (<a href="https://zh.wikipedia.org/wiki/APRIL_(女子團體)" title="wikilink">APRIL</a>)、賽綸 <sup>1st</sup> (<a href="https://zh.wikipedia.org/wiki/fromis_9" title="wikilink">fromis_9</a>)、<a href="../Page/崔玟熙.md" title="wikilink">玟熙</a> <sup>1st</sup> (<a href="../Page/BONUSbaby.md" title="wikilink">BONUSbaby</a>)<br />
+娜恩 <sup>1st</sup> (<a href="../Page/APRIL_(女子團體).md" title="wikilink">APRIL</a>)、賽綸 <sup>1st</sup> (<a href="https://zh.wikipedia.org/wiki/fromis_9" title="wikilink">fromis_9</a>)、<a href="../Page/崔玟熙.md" title="wikilink">玟熙</a> <sup>1st</sup> (<a href="../Page/BONUSbaby.md" title="wikilink">BONUSbaby</a>)<br />
 妍雨 <sup>1st</sup>、 <sup>1st</sup> (<a href="../Page/MOMOLAND.md" title="wikilink">MOMOLAND</a>)<br />
 <a href="../Page/全圓佑.md" title="wikilink">圓佑</a> <sup>1st</sup>、<a href="https://zh.wikipedia.org/wiki/洪知秀" title="wikilink">Joshua</a> <sup>1st</sup> (<a href="../Page/Seventeen_(組合).md" title="wikilink">SEVENTEEN</a>)<br />
 <a href="../Page/尹智聖.md" title="wikilink">尹智聖</a> <sup>1st</sup>、<a href="../Page/河成雲.md" title="wikilink">河成雲</a> <sup>1st</sup>、<a href="../Page/李大輝.md" title="wikilink">李大輝</a> <sup>1st</sup>、<a href="../Page/賴冠霖.md" title="wikilink">賴冠霖</a> <sup>1st</sup> (<a href="https://zh.wikipedia.org/wiki/Wanna_One" title="wikilink">Wanna One</a>)</p></td>
@@ -3116,6 +3116,24 @@ Weekly Idol 8周年特辑 (暑假特辑2)</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/朴志晟" title="wikilink">朴志晟缺席</a></p></td>
 </tr>
 <tr class="even">
+<td><p>419</p></td>
+<td><p>8月7日</p></td>
+<td><p><a href="../Page/ITZY.md" title="wikilink">ITZY</a><sup>1st</sup></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>420</p></td>
+<td><p>8月14日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/HoooW" title="wikilink">HoooW</a><sup>1st</sup>、<a href="https://zh.wikipedia.org/wiki/JBJ95" title="wikilink">JBJ95</a><sup>1st</sup></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>421</p></td>
+<td><p>8月21日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/THE_BOYZ" title="wikilink">THE BOYZ</a><sup>2nd</sup></p></td>
+<td><p>HWALL缺席</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

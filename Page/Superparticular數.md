@@ -4,7 +4,7 @@
 
 其中*n*為[正整數](https://zh.wikipedia.org/wiki/正整數 "wikilink")。
 
-Superparticular數是由在其著作《[算術簡介](https://zh.wikipedia.org/wiki/算術簡介 "wikilink")》〈Introduction to Arithmetic〉中提出，應用在[音樂理論及視覺和諧度的研究中](https://zh.wikipedia.org/wiki/音樂理論 "wikilink")。
+Superparticular數是由在其著作《[算術簡介](https://zh.wikipedia.org/wiki/算術簡介 "wikilink")》〈Introduction to Arithmetic〉中提出，應用在[音樂理論](../Page/音樂理論.md "wikilink")及視覺和諧度的研究中。
 
 ## 應用
 

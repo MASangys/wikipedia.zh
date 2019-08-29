@@ -6,7 +6,7 @@
 
 2014年4月，以「**安齋拉拉**」名義在日本《[週刊Playboy](../Page/週刊Playboy.md "wikilink")》上連載全裸寫真\[3\]。同年9月，暫別[AV界](https://zh.wikipedia.org/wiki/日本成人影片 "wikilink")。
 
-2015年9月，在S1以「**RION**」身份回歸AV演出，並拿下《DMM》所列出的2015下半年AV女優排行冠軍\[4\]。所屬事務所從[8 Man移籍到T](https://zh.wikipedia.org/wiki/EIGHTMAN "wikilink")-POWERS。
+2015年9月，在S1以「**RION**」身份回歸AV演出，並拿下《DMM》所列出的2015下半年AV女優排行冠軍\[4\]。所屬事務所從8 Man移籍到T-POWERS。
 
 ## 軼聞
 

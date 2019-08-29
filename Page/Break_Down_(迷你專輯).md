@@ -25,9 +25,9 @@
 
 ## 獲獎紀錄
 
-  - 2011年6月16日於[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")「[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")」以《Break Down》一曲獲得一位。
+  - 2011年6月16日於[Mnet](../Page/Mnet.md "wikilink")「[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")」以《Break Down》一曲獲得一位。
   - 2011年6月17日於[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")「[Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")」以《Break Down》一曲獲得K-Chart 1位。
-  - 2011年6月23日於[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")「[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")」以《Break Down》一曲獲得一位。
+  - 2011年6月23日於[Mnet](../Page/Mnet.md "wikilink")「[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")」以《Break Down》一曲獲得一位。
   - 2011年6月24日日於[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")「[Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")」以《Break Down》一曲獲得K-Chart 1位。
   - 2011年8月15日新專輯《Break Down》銷售創佳績[華納音樂大中華區總裁](https://zh.wikipedia.org/wiki/華納音樂 "wikilink")[小杉頒發巨型](https://zh.wikipedia.org/wiki/小杉 "wikilink")[白金唱片](https://zh.wikipedia.org/wiki/白金唱片 "wikilink")。
 

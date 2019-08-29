@@ -98,6 +98,15 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 </tr>
 <tr class="odd">
 <td><p>9</p></td>
+<td><p><a href="../Page/德魯納酒店.md" title="wikilink">德魯納酒店</a></p></td>
+<td><p>12</p></td>
+<td><p>10.407%</p></td>
+<td></td>
+<td><p>2019/08/18</p></td>
+<td><p>週末</p></td>
+</tr>
+<tr class="even">
+<td><p>10</p></td>
 <td><p><a href="../Page/男朋友_(電視劇).md" title="wikilink">男朋友</a></p></td>
 <td><p>2</p></td>
 <td><p>10.329%</p></td>
@@ -105,39 +114,30 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <td><p>2018/11/29</p></td>
 <td><p>水木</p></td>
 </tr>
-<tr class="even">
-<td><p>10</p></td>
+<tr class="odd">
+<td><p>11</p></td>
 <td><p><a href="../Page/阿爾罕布拉宮的回憶_(電視劇).md" title="wikilink">阿爾罕布拉宮的回憶</a></p></td>
 <td><p>14</p></td>
 <td><p>10.025%</p></td>
-<td></td>
+<td><p>rowspan="10" </p></td>
 <td><p>2019/01/13</p></td>
 <td><p>週末</p></td>
 </tr>
-<tr class="odd">
-<td><p>11</p></td>
+<tr class="even">
+<td><p>12</p></td>
 <td><p><a href="../Page/又，吳海英.md" title="wikilink">又，吳海英</a></p></td>
 <td><p>18</p></td>
 <td><p>9.991%</p></td>
-<td><p>rowspan="10" </p></td>
 <td><p>2016/06/28</p></td>
 <td><p>月火</p></td>
-</tr>
-<tr class="even">
-<td><p>12</p></td>
-<td><p><a href="../Page/武法律師.md" title="wikilink">武法律師</a></p></td>
-<td><p>16</p></td>
-<td><p>8.937%</p></td>
-<td><p>2018/07/01</p></td>
-<td><p>週末</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>13</p></td>
-<td><p><a href="../Page/德魯納酒店.md" title="wikilink">德魯納酒店</a></p></td>
-<td><p>6</p></td>
-<td><p>8.701%</p></td>
-<td><p>2019/07/28</p></td>
+<td><p><a href="../Page/武法律師.md" title="wikilink">武法律師</a></p></td>
+<td><p>16</p></td>
+<td><p>8.937%</p></td>
+<td><p>2018/07/01</p></td>
 <td><p>週末</p></td>
 <td></td>
 </tr>
@@ -189,7 +189,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <tr class="odd">
 <td><p>19</p></td>
 <td><p><a href="../Page/阿斯達年代記.md" title="wikilink">阿斯達年代記</a></p></td>
-<td><p>4</p></td>
+<td><p>18</p></td>
 <td><p>7.705%</p></td>
 <td><p>2019/06/09</p></td>
 <td><p>週末</p></td>
@@ -507,8 +507,8 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2019年8月日</p></td>
-<td><p>2019年</p></td>
+<td><p>2019年8月9日</p></td>
+<td><p>播放中</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1182,7 +1182,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <td><p><a href="../Page/姜食堂_(第三季).md" title="wikilink">姜食堂3</a><br />
 （新西遊記外傳）</p></td>
 <td><p>2019年7月5日</p></td>
-<td><p>播放中</p></td>
+<td><p>2019年8月2日</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1641,7 +1641,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <tr class="even">
 <td><p><a href="../Page/高校供餐王.md" title="wikilink">高校供餐王</a></p></td>
 <td><p>2019年6月8日</p></td>
-<td><p>播放中</p></td>
+<td><p>2019年8月17日</p></td>
 <td><p>1</p></td>
 <td><p>美食節目</p></td>
 </tr>
@@ -1675,12 +1675,19 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/工作見面的關係.md" title="wikilink">工作見面的關係</a></p></td>
-<td><p>2019年8月</p></td>
-<td></td>
+<td><p>2019年8月24日</p></td>
+<td><p>播放中</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
 <tr class="even">
+<td><p>V-1</p></td>
+<td><p>2019年9月</p></td>
+<td></td>
+<td><p>1</p></td>
+<td><p>競技節目</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1873,6 +1880,16 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 </tr>
 <tr class="even">
 <td><p>18</p></td>
+<td><p><a href="../Page/一日三餐.md" title="wikilink">一日三餐</a><br />
+山村篇第一季<br />
+旌善篇</p></td>
+<td><p>2</p></td>
+<td><p>7.764%</p></td>
+<td><p>2019/08/16</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>19</p></td>
 <td><p><a href="../Page/姜食堂_(第二季).md" title="wikilink">姜食堂</a><br />
 第二季</p></td>
 <td><p>1</p></td>
@@ -1880,22 +1897,13 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <td><p>2019/05/31</p></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>19</p></td>
+<tr class="even">
+<td><p>20</p></td>
 <td><p><a href="../Page/姜食堂_(第三季).md" title="wikilink">姜食堂</a><br />
 第三季</p></td>
 <td><p>1</p></td>
 <td><p>7.470%</p></td>
 <td><p>2019/07/12</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>20</p></td>
-<td><p><a href="../Page/懂也沒用的神秘雜學詞典.md" title="wikilink">懂也沒用的神秘雜學詞典</a><br />
-第一季</p></td>
-<td><p>7</p></td>
-<td><p>7.192%</p></td>
-<td><p>2017/07/14</p></td>
 <td></td>
 </tr>
 <tr class="odd">

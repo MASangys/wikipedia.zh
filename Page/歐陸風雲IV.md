@@ -298,7 +298,7 @@
 <td><p>主要变化：中、南美洲、新大陆事件组</p>
 <ul>
 <li>增加黃金國相關事件</li>
-<li><strong>重要更新：增加<a href="../Page/托尔德西里亚斯条约.md" title="wikilink">殖民地劃分功能</a></strong></li>
+<li><strong>重要更新：增加<a href="../Page/托德西利亚斯条约.md" title="wikilink">殖民地劃分功能</a></strong></li>
 <li><strong>重要更新：增加殖民地可以自行組成一個半獨立的殖民政府的功能</strong></li>
 <li>增加中、南美洲原住民的決議及相關事件</li>
 </ul></td>

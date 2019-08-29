@@ -4,15 +4,23 @@
 
 ### 出道前
 
-在[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")[曼谷](../Page/曼谷.md "wikilink")出生長大，家中成員有母親、兩個哥哥（Beer\&Bank）和一個妹妹（Baby）\[1\]，由於父親車禍早逝，四兄妹皆由在泰國開設韓國料理店的母親獨力撫養長大。母親是韓國歌手[Rain](../Page/Rain.md "wikilink")的忠實歌迷，因此BamBam從小耳濡目染，對韓國文化和音樂很感興趣\[2\]。藝名「BamBam」沿用自祖母為他取的小名，意在期許BamBam能像美國動畫影集《[摩登原始人](../Page/摩登原始人.md "wikilink")》中的角色「Bamm-Bamm Rubble」一樣強壯而命名\[3\]。
+  - 在[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")[曼谷](../Page/曼谷.md "wikilink")出生長大，家中成員有母親、兩個哥哥（Beer\&Bank）和一個妹妹（Baby）\[1\]，由於父親車禍早逝，四兄妹皆由在泰國開設韓國料理店的母親獨力撫養長大。母親是韓國歌手[Rain](../Page/Rain.md "wikilink")的忠實歌迷，因此BamBam從小耳濡目染，對韓國文化和音樂很感興趣\[2\]。藝名「BamBam」沿用自祖母為他取的小名，意在期許BamBam能像美國動畫影集《[摩登原始人](../Page/摩登原始人.md "wikilink")》中的角色「Bamm-Bamm Rubble」一樣強壯而命名<ref>〈BANG BANG
 
-年幼時曾加入名為「We Zaa Cool」的舞團（與[YG娛樂](../Page/YG娛樂.md "wikilink")旗下女子組合[BLACKPINK](../Page/BLACKPINK.md "wikilink")的成員[Lisa同為該舞團的成員](../Page/Lisa_\(泰國歌手\).md "wikilink")），四處參加比賽和表演，2009年曾多次在泰國歌唱節目《LG Entertainer》亮相表演。BamBam尤其擅長模仿Rain的舞蹈，2007年在泰國參加Rain Cover Dance比賽獲得冠軍，雖然因此得到[JYP娛樂](../Page/JYP娛樂.md "wikilink")培訓的機會，但考慮到年紀太小，最終並未前往，直到後來開始拍攝廣告，才再次受到JYP娛樂星探的注意，受邀參加甄選\[4\]，2010年5月前往韓國JYP娛樂展開約3年半的練習生訓練生活。
+BAM BAM〉泰國《ELLE MEN》雜誌2016年5月號 Vol.3 No.31. \[2016-05-03\]</ref>。
 
-2013年底與[GOT7](../Page/GOT7.md "wikilink")成員[Jackson](../Page/王嘉爾.md "wikilink")、[Mark](../Page/段宜恩.md "wikilink")、[有謙在Mnet的生存計畫節目](../Page/金有謙.md "wikilink")《WIN》中作為JYP的練習生率先曝光，優異的舞蹈實力受到[YG娛樂](../Page/YG娛樂.md "wikilink")創辦人[梁鉉錫](../Page/梁鉉錫.md "wikilink")讚賞\[5\]，也令[朴軫永](../Page/朴軫永.md "wikilink")改變主意，讓原本不在出道名單中的Bam Bam追加成為GOT7的第七名成員。\[6\]
+  - 畢業Pramoch Wittaya Ramindra School
+
+<!-- end list -->
+
+  - 年幼時曾加入名為「We Zaa Cool」的舞團（與[YG娛樂](../Page/YG娛樂.md "wikilink")旗下女子組合[BLACKPINK](../Page/BLACKPINK.md "wikilink")的成員[Lisa同為該舞團的成員](../Page/Lisa_\(泰國歌手\).md "wikilink")），四處參加比賽和表演，2009年曾多次在泰國歌唱節目《LG Entertainer》亮相表演。BamBam尤其擅長模仿Rain的舞蹈，2007年在泰國參加Rain Cover Dance比賽獲得冠軍，雖然因此得到[JYP娛樂](../Page/JYP娛樂.md "wikilink")培訓的機會，但考慮到年紀太小，最終並未前往，直到後來開始拍攝廣告，才再次受到JYP娛樂星探的注意，受邀參加甄選\[3\]，2010年5月前往韓國JYP娛樂展開約3年半的練習生訓練生活。
+
+<!-- end list -->
+
+  - 2013年底與[GOT7](../Page/GOT7.md "wikilink")成員[Jackson](../Page/王嘉爾.md "wikilink")、[Mark](../Page/段宜恩.md "wikilink")、[有謙在Mnet的生存計畫節目](../Page/金有謙.md "wikilink")《WIN》中作為JYP的練習生率先曝光，優異的舞蹈實力受到[YG娛樂](../Page/YG娛樂.md "wikilink")創辦人[梁鉉錫](../Page/梁鉉錫.md "wikilink")讚賞\[4\]，也令[朴軫永](../Page/朴軫永.md "wikilink")改變主意，讓原本不在出道名單中的Bam Bam追加成為GOT7的第七名成員。\[5\]
 
 ### GOT7活動
 
-2014年1月16日，正式於組合GOT7出道，在團內是rap擔當。 2015年3月19日起，與[GOT7](../Page/GOT7.md "wikilink")的[珍榮](../Page/朴珍榮.md "wikilink")、[SHINee](../Page/SHINee.md "wikilink")的[Key和](https://zh.wikipedia.org/wiki/Key_\(歌手\) "wikilink")[CNBLUE](../Page/CNBLUE.md "wikilink")的[李正信](../Page/李正信.md "wikilink")一同擔任 [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》的固定MC，於2016年3月3日下車。
+2014年1月16日，正式於組合GOT7出道，在團內是rap擔當。 2015年3月19日起，與[GOT7](../Page/GOT7.md "wikilink")的[珍榮](../Page/朴珍榮.md "wikilink")、[SHINee](../Page/SHINee.md "wikilink")的[Key和](https://zh.wikipedia.org/wiki/Key_\(歌手\) "wikilink")[CNBLUE](../Page/CNBLUE.md "wikilink")的[李正信](../Page/李正信.md "wikilink")一同擔任 [Mnet](../Page/Mnet.md "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》的固定MC，於2016年3月3日下車。
 
 ### 個人活動
 
@@ -54,7 +62,7 @@
   - 2018年 [泰國Channel 7](../Page/7頻道_HD.md "wikilink")《[超人回來了](https://zh.wikipedia.org/wiki/超人回來了 "wikilink")》泰國版
   - 2018年 [JTBC](../Page/JTBC.md "wikilink")《[認識的哥哥](../Page/認識的哥哥.md "wikilink")》EP.141（2018年8月18日）
   - 2019年 泰國True4U《GOT7的Real Thai》EP.6－13 特別節目
-  - 2019年 [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[超級實習生](../Page/超級實習生.md "wikilink")》EP7－8（2019年3月7、14日）
+  - 2019年 [Mnet](../Page/Mnet.md "wikilink")《[超級實習生](../Page/超級實習生.md "wikilink")》EP7－8（2019年3月7、14日）
   - 2019年 泰國Channel 3《At Ten Day》
   - 2019年 泰國Workpoint TV《The Flash Quiz》
   - 2019年 [SBS](../Page/SBS_\(韓國\).md "wikilink")《[傳說中的大魚](../Page/傳說中的大魚.md "wikilink")》EP.2－3（2019年4月12、19日）
@@ -100,7 +108,7 @@
 | **日期**                               | **見面會站次** | **舉行地點**                      |
 | ------------------------------------ | --------- | ----------------------------- |
 | 泰國粉絲見面會「PROJECT BLUR」MARK and BAMBAM |           |                               |
-| 2018年2月10日\[7\]                      | 曼谷站       | MCC Hall The Mall Ngamwongwan |
+| 2018年2月10日\[6\]                      | 曼谷站       | MCC Hall The Mall Ngamwongwan |
 | BamBam首場泰國巡迴粉絲見面會「BLACK FEATHER」     |           |                               |
 | 2019年3月1-3日                          | 曼谷站       | Chaengwattana Hall            |
 | 2019年3月9日                            | 呵叻站       | Korat Hall                    |
@@ -110,9 +118,9 @@
 
 ## 成就及獎項
 
-  - 2007 泰國 Rain Cover Dance冠軍\[8\]
+  - 2007 泰國 Rain Cover Dance冠軍\[7\]
   - 2010 泰國 LG Entertainer 亞軍
-  - 2014 Kpop Starz 最佳藝人獎\[9\]
+  - 2014 Kpop Starz 最佳藝人獎\[8\]
   - 2017 泰國 Great Stars 年度Social Super Star
   - 2019 泰國 Dara daily Awards 最具人氣男藝人獎（Popular Vote）
 
@@ -132,10 +140,9 @@
 
 1.  [【더★프로필】 갓세븐(GOT7) 영재-뱀뱀-유겸, 동생라인의 평소 패션스타일은?](http://thestar.chosun.com/site/data/html_dir/2014/02/25/2014022502855.html)  The Star. 2014-02-27
 2.
-3.  〈BANG BANG BAM BAM〉泰國《ELLE MEN》雜誌2016年5月號 Vol.3 No.31. \[2016-05-03\]
-4.  GOT7 Showcase 1st Impact in Japan Interview. M-On\! TV. \[2014-06-01\]
+3.  GOT7 Showcase 1st Impact in Japan Interview. M-On\! TV. \[2014-06-01\]
+4.
 5.
-6.
-7.  當天各舉辦下午場、晚場，總計兩場次。
-8.  [BamBam個人資料](http://got7.jype.com/profile.asp)  GOT7官方網站
-9.  [Which Artist Best Represents K-Pop in 2014?](http://vote.kpopstarz.com/2014-best-artist-k-pop/result) kpopstarz. 2014-01-26
+6.  當天各舉辦下午場、晚場，總計兩場次。
+7.  [BamBam個人資料](http://got7.jype.com/profile.asp)  GOT7官方網站
+8.  [Which Artist Best Represents K-Pop in 2014?](http://vote.kpopstarz.com/2014-best-artist-k-pop/result) kpopstarz. 2014-01-26

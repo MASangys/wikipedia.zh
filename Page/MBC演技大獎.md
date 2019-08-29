@@ -1874,7 +1874,7 @@
 </tr>
 <tr class="odd">
 <td><p>作家赏</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金顺玉" title="wikilink">金顺玉</a>（<a href="https://zh.wikipedia.org/wiki/来了！张宝利" title="wikilink">来了！张宝利</a>）<br />
+<td><p><a href="../Page/金顺玉.md" title="wikilink">金顺玉</a>（<a href="https://zh.wikipedia.org/wiki/来了！张宝利" title="wikilink">来了！张宝利</a>）<br />
 刘允京（<a href="https://zh.wikipedia.org/wiki/妈妈_(电视剧)" title="wikilink">妈妈</a>）</p></td>
 </tr>
 </tbody>

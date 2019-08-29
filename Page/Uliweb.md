@@ -6,7 +6,7 @@
   - 良好的中文支持（纯中文文档，字符串全部采用[UTF-8](../Page/UTF-8.md "wikilink")编码）
   - 基于应用的项目结构
   - 灵活的插件处理机制
-  - 支持多种部署环境（包括[GAE](https://zh.wikipedia.org/wiki/Google_App_Engine "wikilink"),BAE,[SAE](https://zh.wikipedia.org/wiki/Sina_App_Engine "wikilink"),[Heroku](../Page/Heroku.md "wikilink")等)
+  - 支持多种部署环境（包括[GAE](../Page/Google_App_Engine.md "wikilink"),BAE,[SAE](https://zh.wikipedia.org/wiki/Sina_App_Engine "wikilink"),[Heroku](../Page/Heroku.md "wikilink")等)
 
 ## 参见
 

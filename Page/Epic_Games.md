@@ -16,7 +16,7 @@ Epic Games公司核心成員包括前面提到的首席程序師Tim Sweeney和�
 
 ### 騰訊部分收購
 
-[騰訊在](https://zh.wikipedia.org/wiki/騰訊 "wikilink")2012年7月以3.3億美元收購EpicGames已發行股本48.4%的股份。財報指出，EpicGames已屬騰訊集團的聯營公司，且騰訊有權在EpicGames董事會提名董事\[1\]。
+[騰訊在](https://zh.wikipedia.org/wiki/騰訊 "wikilink")2012年7月以3.3億美元收購EpicGames已發行股本48.4%的股份，約佔公司整體股份的四成。騰訊有權在EpicGames董事會提名董事，EpicGames 理論上講可以算騰訊集團的聯營公司，\[1\]。
 
 ## 產品
 

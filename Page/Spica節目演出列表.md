@@ -1054,7 +1054,7 @@
 </tr>
 <tr class="odd">
 <td><p>04月12日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>RT M!countdown</p></td>
 <td><center>
 <p>-</p>
@@ -1070,7 +1070,7 @@
 </tr>
 <tr class="odd">
 <td><p>04月19日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>The Beatles Code 2</p></td>
 <td><p>007</p></td>
 <td><p>✓</p></td>
@@ -1181,7 +1181,7 @@
 </tr>
 <tr class="even">
 <td><p>09月20日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet japan</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet japan</a></p></td>
 <td><p>M! CountDown<br />
 Comeback Back Stage</p></td>
 <td><center>
@@ -1209,7 +1209,7 @@ Comeback Back Stage</p></td>
 </tr>
 <tr class="odd">
 <td><p>10月22日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet japan</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet japan</a></p></td>
 <td><p>KPOP ZONE Oh My STAR</p></td>
 <td><center>
 <p>-</p>
@@ -1426,7 +1426,7 @@ Comeback Back Stage</p></td>
 </tr>
 <tr class="even">
 <td><p>05月19日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td></td>
 </tr>
@@ -1474,7 +1474,7 @@ Comeback Back Stage</p></td>
 </tr>
 <tr class="even">
 <td><p>02月9日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td><p>首場出道舞臺</p></td>
 </tr>
@@ -1522,7 +1522,7 @@ Comeback Back Stage</p></td>
 </tr>
 <tr class="even">
 <td><p>02月16日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td></td>
 </tr>
@@ -1594,7 +1594,7 @@ Comeback Back Stage</p></td>
 </tr>
 <tr class="even">
 <td><p>03月1日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td></td>
 </tr>
@@ -1630,7 +1630,7 @@ Comeback Back Stage</p></td>
 </tr>
 <tr class="even">
 <td><p>03月8日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td></td>
 </tr>
@@ -1660,7 +1660,7 @@ Comeback Back Stage</p></td>
 </tr>
 <tr class="odd">
 <td><p>03月29日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td></td>
 </tr>
@@ -1684,7 +1684,7 @@ Comeback Back Stage</p></td>
 </tr>
 <tr class="odd">
 <td><p>04月5日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td><p>特別舞台演唱<a href="https://zh.wikipedia.org/wiki/神話_(組合)" title="wikilink">神話</a>「T.O.P」</p></td>
 </tr>
@@ -1714,7 +1714,7 @@ Comeback Back Stage</p></td>
 </tr>
 <tr class="even">
 <td><p>04月12日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td></td>
 </tr>
@@ -1822,7 +1822,7 @@ Comeback Back Stage</p></td>
 </tr>
 <tr class="even">
 <td><p>09月20日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td></td>
 </tr>
@@ -1846,7 +1846,7 @@ Comeback Back Stage</p></td>
 </tr>
 <tr class="even">
 <td><p>09月27日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td></td>
 </tr>
@@ -1973,7 +1973,7 @@ Comeback Back Stage</p></td>
 </tr>
 <tr class="odd">
 <td><p>12月20日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td></td>
 </tr>
@@ -2047,7 +2047,7 @@ Comeback Back Stage</p></td>
 </tr>
 <tr class="odd">
 <td><p>01月17日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/BaeChiGi" title="wikilink">BaeChiGi</a>「淚浴」Feat.<a href="../Page/楊知元.md" title="wikilink">楊知元</a></p></td>
 </tr>
@@ -2071,7 +2071,7 @@ Comeback Back Stage</p></td>
 </tr>
 <tr class="odd">
 <td><p>01月23日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>Music Triangle</p></td>
 <td></td>
 </tr>
@@ -2101,7 +2101,7 @@ Comeback Back Stage</p></td>
 </tr>
 <tr class="even">
 <td><p>02月7日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td></td>
 </tr>
@@ -2118,7 +2118,7 @@ Comeback Back Stage</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>尹道賢的MUST</p></td>
 <td></td>
 <td></td>

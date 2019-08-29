@@ -1,6 +1,6 @@
-**Pornhub**是一个[加拿大](../Page/加拿大.md "wikilink")的[色情](../Page/色情.md "wikilink")[影片分享網站](https://zh.wikipedia.org/wiki/影片分享網站 "wikilink")。它是目前最大的[色情影片网站之一](../Page/成人网站.md "wikilink")，服務分享遍及全球。\[1\] Pornhub于2007年在[魁北克省](https://zh.wikipedia.org/wiki/魁北克 "wikilink")[蒙特利尔](../Page/蒙特利尔.md "wikilink")市成立。它是一个免费的，由广告支持的网站。除了专业色情内容，网站也提供业余色情内容。Pornhub在[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[伦敦](../Page/伦敦.md "wikilink")市、[美国](../Page/美国.md "wikilink")[加利福尼亚州](https://zh.wikipedia.org/wiki/加利福尼亚 "wikilink")[旧金山](../Page/旧金山.md "wikilink")市、美国[得克萨斯州](https://zh.wikipedia.org/wiki/得克萨斯 "wikilink")[休斯敦](../Page/休斯敦.md "wikilink")市以及美国[路易斯安那州](https://zh.wikipedia.org/wiki/路易斯安那 "wikilink")[新奥尔良](../Page/新奥尔良.md "wikilink")市均有分部和服务器。 2010年3月Pornhub被[MindGeek](../Page/MindGeek.md "wikilink")收購，MindGeek同时拥有许多其他的色情网站。\[2\]
+**Pornhub**是一个[加拿大](../Page/加拿大.md "wikilink")的[色情](../Page/色情.md "wikilink")[影片分享網站](https://zh.wikipedia.org/wiki/影片分享網站 "wikilink")，2007年在[魁北克省](https://zh.wikipedia.org/wiki/魁北克 "wikilink")[蒙特利尔](../Page/蒙特利尔.md "wikilink")市成立。是目前最大的[色情影片网站之一](../Page/成人网站.md "wikilink")，服務分享遍及全球。\[1\]網站免费，由广告支持，除专业的色情内容，也提供业余色情内容。Pornhub在[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[伦敦](../Page/伦敦.md "wikilink")市、[美国](../Page/美国.md "wikilink")[加利福尼亚州](https://zh.wikipedia.org/wiki/加利福尼亚 "wikilink")[旧金山](../Page/旧金山.md "wikilink")市、美国[得克萨斯州](https://zh.wikipedia.org/wiki/得克萨斯 "wikilink")[休斯敦](../Page/休斯敦.md "wikilink")市以及美国[路易斯安那州](https://zh.wikipedia.org/wiki/路易斯安那 "wikilink")[新奥尔良](../Page/新奥尔良.md "wikilink")市均有分部和服务器。2010年3月Pornhub被[MindGeek](../Page/MindGeek.md "wikilink")收購，MindGeek同时拥有许多其他的色情网站。\[2\]
 
-Pornhub在很多国家受到管制。Pornhub的经营以盈利为目的，但是也有一部分是免费的，专门为性生活爱好者或其他有关成年人提供信息交流或共享平台。在诸如日本、美国等国家，成人网站这一性产业呈现异常繁荣的景象，相关的产业也应运而生。pornhub有一部分成人网站提供健康的性信息指导或介绍。大部分则以提供淫秽和色情内容为主。
+Pornhub在很多国家受到管制。其经营以盈利为目的，但也有一部分是免费的，专为性生活爱好者或其他有关成年人提供信息交流或共享的平台。在诸如日本、美国等国家，成人网站这一性产业呈现异常繁荣的景象，相关的产业也应运而生。pornhub有一部分成人网站提供健康的性信息指导或介绍，大部分则以提供淫秽和色情内容为主。
 
 ## 历史
 
@@ -24,25 +24,21 @@ Pornhub在很多国家受到管制。Pornhub的经营以盈利为目的，但是
 
 ### 臉部辨識系統
 
-Pornhub宣佈預計於2018年推出辨識系統，系統將自動辨識影片內的演員，並將之分門別類。\[15\] [缩略图](https://zh.wikipedia.org/wiki/File:DildoNewfoundland.jpg "fig:缩略图")鎮，具有[假陽具之意](../Page/假陰莖.md "wikilink")。\]\]
+Pornhub宣佈預計於2018年推出辨識系統，系統將自動辨識影片內的演員，並將之分門別類。\[15\]
 
 ### 消除部分地區名性意味歧視
 
-2018年Pornhub指出，部份地區的居民往往因為具有特殊意味的地名而被取笑，為了彌補他們，Pornhub將免費讓居民升級為「Pornhub Premium」高級會員，終身享有免費觀賞高清成人影片的資格。此外，Pornhub亦稱，若自認居住地名有性意味卻不在公布名單內者，可在[推特或](../Page/Twitter.md "wikilink")[Instagram](../Page/Instagram.md "wikilink")分享[標籤](https://zh.wikipedia.org/wiki/hashtag "wikilink")\#PremiumPlaces，通過審核後便可獲得認證，與前述地區享有相同的終身免費高級會員資格。\[16\]
+2018年Pornhub指出，部份地區的居民往往因為具有特殊意味的地名而被取笑，為了彌補他們，Pornhub將免費讓居民升級為「Pornhub Premium」高級會員，終身享有免費觀賞高清成人影片的資格。此外，Pornhub亦稱，若自認居住地名有性意味卻不在公布名單內者，可在[推特或](../Page/Twitter.md "wikilink")[Instagram](../Page/Instagram.md "wikilink")分享[標籤](https://zh.wikipedia.org/wiki/hashtag "wikilink")\#PremiumPlaces，通過審核後便可獲得認證，與前述地區享有相同的終身免費高級會員資格。\[16\] [缩略图](https://zh.wikipedia.org/wiki/File:DildoNewfoundland.jpg "fig:缩略图")鎮，具有[假陽具之意](../Page/假陰莖.md "wikilink")。\]\]
 
 ## 審查
 
-2011年欧洲宽带提供商TalkTalk集团（旧名Tiscali）由于未能有效的封锁PornHub而被批评超过一星期。理由是关于儿童互联网安全的话题。\[17\]
+2011年欧洲宽带提供商TalkTalk集团（旧名Tiscali）由于未能有效的封锁PornHub而被批评逾一星期，理由是关于儿童互联网安全的话题。\[17\]
 
 《[赫芬顿邮报](../Page/赫芬顿邮报.md "wikilink")》声称自从2013年：“[哥伦比亚广播公司](https://zh.wikipedia.org/wiki/哥伦比亚广播公司 "wikilink")……拒绝在[第四十七屆超級盃](../Page/第四十七屆超級盃.md "wikilink")期间播放成人网站Pornhub的短篇广告。……广告长20秒，只描述了一对老年夫妻坐在公园的长板凳上，广告里没有任何露骨的内容。”\[18\]被拒的理由是[美国联邦通信委员会可能会以哥伦比亚广播公司赞助色情内容为理由让其负法律责任](https://zh.wikipedia.org/wiki/美国联邦通信委员会 "wikilink")。\[19\]
 
-自2013年9月起，该网站在中国大陸就被[防火长城](../Page/防火长城.md "wikilink")所封禁。
+自2013年9月起，该网站在中国大陸就被[防火长城](../Page/防火长城.md "wikilink")所封禁。2014年3月12日，俄罗斯以一演员看上去过於年轻而导致部分观看者认为是未成年人的理由封禁Pornhub。\[20\]\[21\]2017年1月，菲律宾以违反《反儿童色情保护法》为由，封禁Pornhub与部分其他色情网站。\[22\]
 
-2014年3月12日，俄罗斯以一演员看上去过年轻而导致部分观看者认为是未成年人的理由封禁了Pornhub。\[20\]\[21\]
-
-2017年1月，菲律宾以违反《反儿童色情保护法》为由，封禁了Pornhub与部分其他色情网站。\[22\]
-
-由于“向儿童传播有害信息”，Pornhub于2016年9月在俄罗斯被封锁，在指定观看用户年龄后，于2017年4月恢复。 Pornhub在之后要求来自俄罗斯的用户提供手机号码或护照以登录。\[23\]
+由于“向儿童传播有害信息”，Pornhub于2016年9月被俄罗斯封锁，在指定观看用户年龄后，于2017年4月恢复。Pornhub在之后要求来自俄罗斯的用户提供手机号码或护照以登录。\[23\]
 
 2019年2月11日起，[韩国以](https://zh.wikipedia.org/wiki/韩国 "wikilink")“打击非法色情，保护青少年健康成长”等理由，Pornhub在韩国被封锁，采用了[SNI阻断技术](https://zh.wikipedia.org/wiki/SNI "wikilink")，韩国用户需要使用VPN等软件来绕过封锁。目前网站仍未解封。\[24\]
 

@@ -130,14 +130,14 @@ Safari在iOS 6更新中引入了全螢幕模式、離線[閱讀列表等新功�
 
 ### iPhone
 
-  - [iPhone 3GS](https://zh.wikipedia.org/wiki/iPhone_3GS "wikilink")
+  - [iPhone 3GS](https://zh.wikipedia.org/wiki/iPhone_3GS "wikilink")（此iOS版本為最後一個支援此裝置的版本）
   - [iPhone 4](https://zh.wikipedia.org/wiki/iPhone_4 "wikilink")
   - [iPhone 4S](https://zh.wikipedia.org/wiki/iPhone_4S "wikilink")
   - [iPhone 5](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink")
 
 ### iPod touch
 
-  - [iPod touch (第四代)](https://zh.wikipedia.org/wiki/iPod_touch_\(第四代\) "wikilink")
+  - [iPod touch (第四代)](https://zh.wikipedia.org/wiki/iPod_touch_\(第四代\) "wikilink") （此iOS版本為最後一個支援此裝置的版本）
   - [iPod touch (第五代)](https://zh.wikipedia.org/wiki/iPod_touch_\(第五代\) "wikilink")
 
 ### iPad

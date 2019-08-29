@@ -22,9 +22,9 @@
 
 ### 第四季
 
-第四季主要有六條故事線，分別描述四位女主角和另外一位名叫Oscar的農家男孩、以及Salam陣營。
+第四季主要有六條故事線，分別描述四位女主角和另外一位名叫Oscar的農家男孩、以及Salem陣營。
 
-Ruby線：Ruby與Jaune、Ren和Nora前往Mistral，而Qrow亦暗中保護一行人。與此期間Qrow與姊姊Raven相會，Raven希望Qrow回歸家鄉，Qrow則勸Raven放棄獨善其身，最後兩人談判破裂。同時幕後黑手Salem因為Cinder的嚴重傷勢注意到Ruby擁有的力量，派出Tyrian前去抓回Ruby。行至一處廢棄村鎮時遭到Tyrian攻擊，而Qrow亦現身與其對峙，最後Qrow遭到Tyrian以蠍尾劃傷中毒，Tyrian則遭到Ruby斷尾，狼狽逃跑。眾人帶著毒傷瀕死的Qrow四處尋找村鎮求醫，最後決定分頭行動。期間短暫轉至Ren與Nora的過往，提及兩人相識的過程與居住城遭到Grimm摧毀的經過。時間回到現在，RJNR隊重新進入Ren的故鄉「黑百合鎮（Kuroyuri）」，在此遇見曾殺害Ren的父母、毀掉整個城鎮的一隻Grimm，一番血戰後終於由Ren親手斬殺報仇。隨後察覺地方騷動的Mistral飛船來到將RJNR隊與Qrow接回居住地，Qrow因此得救並最後康復。Ruby說Qrow將會帶Ruby一行人去見Haven Academy獵人學院的校長Lionheart一起預防Salam派的襲擊。
+Ruby線：Ruby與Jaune、Ren和Nora前往Mistral，而Qrow亦暗中保護一行人。與此期間Qrow與姊姊Raven相會，Raven希望Qrow回歸家鄉，Qrow則勸Raven放棄獨善其身，最後兩人談判破裂。同時幕後黑手Salem因為Cinder的嚴重傷勢注意到Ruby擁有的力量，派出Tyrian前去抓回Ruby。行至一處廢棄村鎮時遭到Tyrian攻擊，而Qrow亦現身與其對峙，最後Qrow遭到Tyrian以蠍尾劃傷中毒，Tyrian則遭到Ruby斷尾，狼狽逃跑。眾人帶著毒傷瀕死的Qrow四處尋找村鎮求醫，最後決定分頭行動。期間短暫轉至Ren與Nora的過往，提及兩人相識的過程與居住城遭到Grimm摧毀的經過。時間回到現在，RJNR隊重新進入Ren的故鄉「黑百合鎮（Kuroyuri）」，在此遇見曾殺害Ren的父母、毀掉整個城鎮的一隻Grimm，一番血戰後終於由Ren親手斬殺報仇。隨後察覺地方騷動的Mistral飛船來到將RJNR隊與Qrow接回居住地，Qrow因此得救並最後康復。Ruby說Qrow將會帶Ruby一行人去見Haven Academy獵人學院的校長Lionheart一起預防Salem派的襲擊。
 
 Weiss線：Weiss遭帶回Atlas後過上了半軟禁的生活，她的父親以商業利益為優先的作法和Weiss發生衝突，被父親禁足並失去繼承人的資格，而一切都在新任繼承人弟弟Witney預料中。同時，Ironwood將軍也在Winter的報告下了解Mistral正處於多方惡勢力的威脅之下，有大批的塵晶與武器正持續交易中，而Haven Academy獵人學院的校長Leo也可能無力阻止惡勢力，Ironwood將軍決定為了保護Atlas的人民而實施鎖國，沒有國會的允許，出入境皆受限制，意思是沒有Ironwood將軍的允許，Weiss的父親Jacques塵晶貿易事業將會被迫暫停。Weiss在禁足期間奮發訓練，在成功掌握召喚陣之後，透過管家的幫助下逃家前往Mistral尋找姐姐Winter。
 
@@ -34,7 +34,7 @@ Yang線：Yang在家中始終保持消沉狀態，甚至產生創傷症候群，
 
 Oscar：Oscar本是一名平凡農家男孩，被Ozpin的靈魂附身，最後Ozpin說服他前往Mistral，路上遇到Salem集團的Hazel，Ozpin也認識他。最後Oscar成功抵達Mistral並和Qrow會面。
 
-Salam：得知反派陣營分別派了三個人，因成為秋之聖女後Cinder被Ruby銀瞳之光相剋，傷害到少了左眼及左手、也重傷至無法出聲。Cinder則留在Salam身邊接受治療以及訓練。Tyrian任務失敗並遭Ruby切下蠍尾重傷回歸，另Salam失望的Tyrian崩潰大哭一邊砍殺Grimm至瘋狂大笑，令Cinder露出一副被憎恨的力量嚇到的神情。Cinder在結尾更加強自己恨意增強攻擊傷害，讓為其做出Ruby跪地求饒貌，再使用秋之聖女的力量燒向幻影，表達Cinder的私心一心只想殺掉Ruby報仇。
+Salem：得知反派陣營分別派了三個人，因成為秋之聖女後Cinder被Ruby銀瞳之光相剋，傷害到少了左眼及左手、也重傷至無法出聲。Cinder則留在Salem身邊接受治療以及訓練。Tyrian任務失敗並遭Ruby切下蠍尾重傷回歸，令Salem失望的Tyrian崩潰大哭一邊砍殺Grimm至瘋狂大笑，令Cinder露出一副被憎恨的力量嚇到的神情。Cinder在結尾更加強自己恨意增強攻擊傷害，讓為其做出Ruby跪地求饒貌，再使用秋之聖女的力量燒向幻影，表達Cinder的私心一心只想殺掉Ruby報仇。
 
 ### 第五季
 
@@ -183,7 +183,7 @@ Salam：得知反派陣營分別派了三個人，因成為秋之聖女後Cinder
   -
     主角，角色原型是[小紅帽](https://zh.wikipedia.org/wiki/小紅帽 "wikilink")，名字取自紅寶石\[29\]\[30\]，故事開始時為15歲，因跳級就讀較其他人年幼。外像力為會成一團玫瑰花瓣進行高速遁走、以及砍殺戮獸Grimm時也能令其消散時化為玫瑰花瓣，代表色是紅色。喜歡助人，期望能夠成為一名獵人，是個武器控。不善長徒手搏擊，一旦武器離手戰鬥能力極為低落，因此在第五季時受到Oscar(Ozpin)的特訓。為Yang的同父異母妹妹。
     在第三季最終話，因目睹Pyrrha遭到Cinder殺害，在極度悲痛的情形下，眼睛發出銀色羽翼般的光芒，瞬間重創Cinder，並將飛龍型Grimm凍結在Beacon的塔頂，後被Qrow救下帶回家中。
-    第四季時與Jaune、Nora、Ren組成小隊RNJR（或隊長為Jaune的隊名JNRR）前往Mistral，行經鬼百合鎮(Oniyuri)遺址時遭到Salam手下的Tyrian襲擊，屈居劣勢，Qrow前來救援卻在Aura防禦被擊破後遭其蠍尾蟄傷。之後在Ren與Nora的故鄉黑百合鎮(Kuroyuri)遇上了當年毀滅城鎮的大型魔獸，一番苦戰後勝利，之後被在附近巡邏的飛艇接往Mistral。
+    第四季時與Jaune、Nora、Ren組成小隊RNJR（或隊長為Jaune的隊名JNRR）前往Mistral，行經鬼百合鎮(Oniyuri)遺址時遭到Salem手下的Tyrian襲擊，屈居劣勢，Qrow前來救援卻在Aura防禦被擊破後遭其蠍尾蟄傷。之後在Ren與Nora的故鄉黑百合鎮(Kuroyuri)遇上了當年毀滅城鎮的大型魔獸，一番苦戰後勝利，之後被在附近巡邏的飛艇接往Mistral。
     在Qrow向Ruby透露的傳說中，Ruby與其母Summer Rose的銀瞳是非常特殊的特徵，是天生的戰士，其後從Salem的口中得知銀眼之力對四季聖女繼承者具有相當的威脅，能夠產生對抗聖女的力量 例：能夠同時壓制Cinder的火焰和將巨龍戮獸永久凍結的冰之力：也是因此Cinder才會被重創。
     武器為「新月玫瑰（Crescent Rose）」，是一把具備[反器材步槍](../Page/反器材步槍.md "wikilink")機能的鐮刀，槍彈除了進行射擊以外，尚能利用其反作用力進行推進，由於Ruby使用鐮刀的技術乃師承自Qrow，因此設計上有參考過Qrow的武器。
 

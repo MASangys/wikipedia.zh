@@ -17,7 +17,7 @@
 
 ### 2012年－2014年：以《Bounce》出道及GOT7
 
-出道單曲《[Bounce](../Page/Bounce_\(JJ_Project歌曲\).md "wikilink")》於2012年5月19日正式公開，單曲在5月20日登上[iTunes舞曲專輯榜第](https://zh.wikipedia.org/wiki/iTunes "wikilink")10名\[4\]。《Bounce》音樂錄影帶自公開以來得到許多關注，其在YouTube世界頻道影片排行榜中，獲得最受喜歡影片第4名、觀看次數最多第7名以及最多評論第10名，在韓國地區則得到4個排行榜冠軍\[5\]，此外音樂錄影帶在2天內即超過100萬次觀看\[6\]。 2012年5月24日，於[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》首次演出《Bounce》\[7\]。6月26日，重新錄製的歌曲〈Na Na Na〉並在[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《MM Choice》中演出。\[8\]
+出道單曲《[Bounce](../Page/Bounce_\(JJ_Project歌曲\).md "wikilink")》於2012年5月19日正式公開，單曲在5月20日登上[iTunes舞曲專輯榜第](https://zh.wikipedia.org/wiki/iTunes "wikilink")10名\[4\]。《Bounce》音樂錄影帶自公開以來得到許多關注，其在YouTube世界頻道影片排行榜中，獲得最受喜歡影片第4名、觀看次數最多第7名以及最多評論第10名，在韓國地區則得到4個排行榜冠軍\[5\]，此外音樂錄影帶在2天內即超過100萬次觀看\[6\]。 2012年5月24日，於[Mnet](../Page/Mnet.md "wikilink")《[M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》首次演出《Bounce》\[7\]。6月26日，重新錄製的歌曲〈Na Na Na〉並在[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《MM Choice》中演出。\[8\]
 
 2014年1月16日，JB與珍榮作為[GOT7](../Page/GOT7.md "wikilink")成員出道。\[9\]
 
@@ -276,7 +276,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a><br />
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a><br />
 《<a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a>》<br />
 <ref>歌曲在Mnet《M! Countdown》成績：</p>
 <ul>

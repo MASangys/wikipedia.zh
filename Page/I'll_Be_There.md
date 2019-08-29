@@ -1,4 +1,4 @@
-**《I’ll Be There》**（）是韓國女子組合[SPICA](../Page/SPICA_\(組合\).md "wikilink")，於2012年9月19日由B2M Entertainment企劃，LOEN MUSIC所發行的第二張韓文單曲。發行當日即獲得Bugs音源即時排行第2名的成績，而09月20日起於[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")「M\! Countdown」演出後正式展開一連串睽違了五個月的宣傳活動。
+**《I’ll Be There》**（）是韓國女子組合[SPICA](../Page/SPICA_\(組合\).md "wikilink")，於2012年9月19日由B2M Entertainment企劃，LOEN MUSIC所發行的第二張韓文單曲。發行當日即獲得Bugs音源即時排行第2名的成績，而09月20日起於[Mnet](../Page/Mnet.md "wikilink")「M\! Countdown」演出後正式展開一連串睽違了五個月的宣傳活動。
 
 ## 單曲概述
 
@@ -99,7 +99,7 @@
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>09月20日、09月27日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td style="text-align: center;"><center>
 <p>回<br />

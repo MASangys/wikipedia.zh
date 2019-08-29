@@ -36,6 +36,10 @@
 
 克利夫(搶劫任務「末日搶劫」中埃文赫兹創造的人工智能，最終被玩家在第三行動:末日來臨使用軌道砲毀滅。)
 
+### 俠盜獵車手：酷男之歌有登場的
+
+酷男東尼（當玩家管理他們的夜總會時，Tony接觸了有助於提升俱樂部知名度的DJ，如Solomun，Tale of Us，The Black Madonna和 Dixon。Tony還根據自己的任務和任務設定了玩家，以提高夜總會的知名度，並將夜總會倉庫的送貨活動減少10％）
+
 ## 外部連結
 
   - [GTA Online will expand "forever" - Rockstar will add new locations, including "old stuff"](http://www.oxm.co.uk/60520/gta-online-will-expand-forever-rockstar-will-add-new-locations-including-old-stuff/)

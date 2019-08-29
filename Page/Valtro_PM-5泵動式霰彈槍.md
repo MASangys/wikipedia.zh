@@ -12,13 +12,14 @@ Valtro PM-5具有手握式固定槍型、連獨立固定[槍托](../Page/槍托.
 
 ## 使用國
 
-  - ：被特警隊所採用。
+  -   - 特警單位
 
-  - ：被[法國軍隊所採用](../Page/法國軍事.md "wikilink")。
+  -   - [法國武裝部隊](../Page/法國軍事.md "wikilink")
 
-  - ：被[摩洛哥皇家憲兵所採用](https://zh.wikipedia.org/wiki/摩洛哥皇家憲兵 "wikilink")。
+  -   - [摩洛哥皇家憲兵](https://zh.wikipedia.org/wiki/摩洛哥皇家憲兵 "wikilink")
 
-  - ：被[委內瑞拉海軍陸戰隊和](https://zh.wikipedia.org/wiki/委內瑞拉海軍陸戰隊 "wikilink")[委內瑞拉武裝部隊所採用](https://zh.wikipedia.org/wiki/委內瑞拉武裝部隊 "wikilink")。
+  -   - [委內瑞拉海軍陸戰隊](https://zh.wikipedia.org/wiki/委內瑞拉海軍陸戰隊 "wikilink")
+      - [委內瑞拉武裝部隊](https://zh.wikipedia.org/wiki/委內瑞拉武裝部隊 "wikilink")
 
 ## 參見
 

@@ -12,7 +12,7 @@
 | 年份                                                          | 電視台                                                    | 電視劇名稱                                                         | 角色           |
 | 2013                                                        | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")    | [請回答1994](../Page/請回答1994.md "wikilink")                      | 喜滋滋          |
 | 2014                                                        | [SBS](../Page/SBS_\(韓國\).md "wikilink")                | [神的禮物－14天](https://zh.wikipedia.org/wiki/神的禮物－14天 "wikilink") | 奇英奎          |
-| 2015                                                        | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")  | [七顛八起具海拉](../Page/七顛八起具海拉.md "wikilink")                      | 羅賓‧車（客串：第九集） |
+| 2015                                                        | [Mnet](../Page/Mnet.md "wikilink")                     | [七顛八起具海拉](../Page/七顛八起具海拉.md "wikilink")                      | 羅賓‧車（客串：第九集） |
 | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") | [憤怒的媽媽](../Page/憤怒的媽媽.md "wikilink")                   | 洪尚泰                                                           |              |
 | Naver TVCast                                                | [Loss：Time：Life](../Page/人生補時_\(韓國電視劇\).md "wikilink") | Baro                                                          |              |
 | 2016                                                        | [KBS](../Page/韓國放送公社.md "wikilink")                    | [Master－麵條之神](../Page/Master－麵條之神.md "wikilink")              | 金吉道青年時期      |

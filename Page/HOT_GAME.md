@@ -152,7 +152,7 @@
 </tr>
 <tr class="odd">
 <td><p><span style="color:red;">07月12日</span>、07月19日、08月2日、<span style="color:blue;">10月11日</span></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td></td>
 <td></td>

@@ -2,7 +2,7 @@
 
 ## 經歷
 
-2008年10月9日所屬公司DSP宣布由於[金賢重](../Page/金賢重.md "wikilink")、[朴政珉](../Page/朴政珉.md "wikilink")分別需拍攝電視劇「花樣男子」和演出音樂劇「GREASE」所以另三名成員[許永生](../Page/許永生.md "wikilink")、[金奎鐘](../Page/金奎鐘.md "wikilink")、[金亨俊](../Page/金亨俊.md "wikilink")將組成子團《Triple S》發表企劃唱片，其中許永生擔任隊長一職，DSP亦表示：Triple S成員同時表示：「通過這次專輯的一系列宣傳活動，能夠把成員的個人特色表現出來\[3\]。」11月11日公開成員滿溢著男性美氛圍的專輯封面照\[4\]，並在11月15日於奧林匹克公園擊劍競技場舉行的「Showcase with Triple S」中首次演唱新曲〈Want It〉、〈U R MAN〉、〈The one〉；11月21日正式發行首張迷你專輯《U R MAN》，特地請來美國知名的音樂製作公司Pisces Music合作。帶有復古味道且融合了流行House舞曲的首波主打歌《U R Man》由曾製作《4Chance》的團隊打造，讓三人首度展露由男孩轉變為男人的性感形象。而Urban Hip Hop風格的《WANT IT》更是由曾和新好男孩（Backstreet Boys）與五角（50 Cent）御用音樂人Shaine Freeman和Andrew Lane親自創作，展現出三個人超完美的唱功。在這張專輯中同時也收入了三人親自創作的作品：永生作詞作曲的心碎情歌《是愛吧》、奎鐘作詞的《NEVER LET YOU GO》以及亨俊作詞輕快的告白《I AM》\[5\]，發行後迅速攻占韓國各大音源網榜首；11月22日於MBC〈[Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")〉進行回歸舞台\[6\]演唱新曲〈U R MAN〉與〈The one〉後開始為期八周的宣傳行程，期間在2009年1月8日[Mnet的音樂節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《M\! Countdown》中獲得子團首個一位獎座\[7\]。2009年1月21日以「[花樣男子](../Page/花樣男子.md "wikilink")」電視原聲帶歌曲〈因為我太傻〉作為後續曲持續宣傳活動，並於此之前客串該劇第四集的演出，首場後續舞台於1月30日[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《音樂銀行》公開；同月24日進入日本宣傳；於24、25日兩天在日本東京長野三得利音樂廳召開約莫5、6000人次的「SS501 迷你演唱會 in JAPAN」\[8\]，並於3月發行《UR Man 日版License專輯》。DSP方面表示：而後因歌曲〈因為我太傻〉獲得《Cyworld Digital Music Awards》月度最佳歌曲獎與《Mnet Asian Music Award》音源OST獎的殊榮，為其組合寫下輝煌的歷史。2010年6月7日原組合[SS501](../Page/SS501.md "wikilink")與DSP合約到期後不久的7月30日傳出三人將以組合形式繼續音樂活動\[9\]，但隨著金亨俊簽約S-plus；許永生與金奎鐘共同簽約[B2M Entertainment公司後破除該傳言](https://zh.wikipedia.org/wiki/B2M_Entertainment "wikilink")，自此組合活動暫時畫下句點。
+2008年10月9日所屬公司DSP宣布由於[金賢重](../Page/金賢重.md "wikilink")、[朴政珉](../Page/朴政珉.md "wikilink")分別需拍攝電視劇「花樣男子」和演出音樂劇「GREASE」所以另三名成員[許永生](../Page/許永生.md "wikilink")、[金奎鐘](../Page/金奎鐘.md "wikilink")、[金亨俊](../Page/金亨俊.md "wikilink")將組成子團《Triple S》發表企劃唱片，其中許永生擔任隊長一職，DSP亦表示：Triple S成員同時表示：「通過這次專輯的一系列宣傳活動，能夠把成員的個人特色表現出來\[3\]。」11月11日公開成員滿溢著男性美氛圍的專輯封面照\[4\]，並在11月15日於奧林匹克公園擊劍競技場舉行的「Showcase with Triple S」中首次演唱新曲〈Want It〉、〈U R MAN〉、〈The one〉；11月21日正式發行首張迷你專輯《U R MAN》，特地請來美國知名的音樂製作公司Pisces Music合作。帶有復古味道且融合了流行House舞曲的首波主打歌《U R Man》由曾製作《4Chance》的團隊打造，讓三人首度展露由男孩轉變為男人的性感形象。而Urban Hip Hop風格的《WANT IT》更是由曾和新好男孩（Backstreet Boys）與五角（50 Cent）御用音樂人Shaine Freeman和Andrew Lane親自創作，展現出三個人超完美的唱功。在這張專輯中同時也收入了三人親自創作的作品：永生作詞作曲的心碎情歌《是愛吧》、奎鐘作詞的《NEVER LET YOU GO》以及亨俊作詞輕快的告白《I AM》\[5\]，發行後迅速攻占韓國各大音源網榜首；11月22日於MBC〈[Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")〉進行回歸舞台\[6\]演唱新曲〈U R MAN〉與〈The one〉後開始為期八周的宣傳行程，期間在2009年1月8日[Mnet](../Page/Mnet.md "wikilink")的音樂節目《M\! Countdown》中獲得子團首個一位獎座\[7\]。2009年1月21日以「[花樣男子](../Page/花樣男子.md "wikilink")」電視原聲帶歌曲〈因為我太傻〉作為後續曲持續宣傳活動，並於此之前客串該劇第四集的演出，首場後續舞台於1月30日[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《音樂銀行》公開；同月24日進入日本宣傳；於24、25日兩天在日本東京長野三得利音樂廳召開約莫5、6000人次的「SS501 迷你演唱會 in JAPAN」\[8\]，並於3月發行《UR Man 日版License專輯》。DSP方面表示：而後因歌曲〈因為我太傻〉獲得《Cyworld Digital Music Awards》月度最佳歌曲獎與《Mnet Asian Music Award》音源OST獎的殊榮，為其組合寫下輝煌的歷史。2010年6月7日原組合[SS501](../Page/SS501.md "wikilink")與DSP合約到期後不久的7月30日傳出三人將以組合形式繼續音樂活動\[9\]，但隨著金亨俊簽約S-plus；許永生與金奎鐘共同簽約[B2M Entertainment公司後破除該傳言](https://zh.wikipedia.org/wiki/B2M_Entertainment "wikilink")，自此組合活動暫時畫下句點。
 
 2016年1月，CI娛樂宣布許永生、金奎鐘、金亨俊以Double S 301推出新作品回歸歌壇\[10\]。
 
@@ -234,7 +234,7 @@
 <tr class="odd">
 <td><p>2009年</p></td>
 <td><p>1月8日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td><p>U R Man</p></td>
 <td><p>1位</p></td>
@@ -249,7 +249,7 @@
 </tr>
 <tr class="odd">
 <td><p>1月15日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td></td>
 <td></td>

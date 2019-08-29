@@ -759,6 +759,18 @@
 | [NICONICO動畫](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink") | 2014年4月12日－6月28日                                              | 星期六 24時30分 更新                                         |                                                                                                               |                                                       |                                            |
 | [萬代頻道](../Page/萬代頻道.md "wikilink")                                | 2014年4月18日－                                                   | 星期四 24時00分 更新                                         |                                                                                                               |                                                       |                                            |
 
+### 动画Neta
+
+  - 第2话12:42处空说出“异世界的秘密道具”时neta了《[哆啦A梦](https://zh.wikipedia.org/wiki/哆啦A梦 "wikilink")》。13:33处史蒂芙发出了《[JOJO的奇妙冒险](https://zh.wikipedia.org/wiki/JOJO的奇妙冒险 "wikilink")》中的[DIO的叫声](https://zh.wikipedia.org/wiki/DIO "wikilink")。预告部分neta了2010年6月E3游戏大展中，《全能之神 梅塔特隆的升天》的PV中主人公的一句经典死亡FLAG“这样的装备没问题吗”。
+  - 第3话中裁判长neta《[逆转裁判](https://zh.wikipedia.org/wiki/逆转裁判 "wikilink")》，2:11处空喊出了《[逆转裁判](https://zh.wikipedia.org/wiki/逆转裁判 "wikilink")》系列名台词“異議あり”（我反对），同时响起的BGM为系列追求曲的变调。8:16处空说出了《[JOJO的奇妙冒险](https://zh.wikipedia.org/wiki/JOJO的奇妙冒险 "wikilink")》第四部角色[岸边露伴的名台词](https://zh.wikipedia.org/wiki/岸边露伴 "wikilink")“”（但是我拒绝），并且画风也变成JOJO画风。
+  - 第3话的预告部分neta了FC上的游戏《[北野武的挑战书](https://zh.wikipedia.org/wiki/北野武的挑战书 "wikilink")》。
+  - 第4话12:57处空的台词中明确提到了游戏《文明》。
+  - 第5话20:09-20:25处再现了小说中对《[天空之城](../Page/天空之城.md "wikilink")》的neta。
+  - 第6话的预告部分neta了《[上古卷轴5](https://zh.wikipedia.org/wiki/上古卷轴5 "wikilink")》中的“膝盖中了一箭”。
+  - 第7话中分别出现neta《[绝望先生](https://zh.wikipedia.org/wiki/绝望先生 "wikilink")》中[糸色望](https://zh.wikipedia.org/wiki/糸色望 "wikilink")(10:29，空)、《哆啦A梦》中[哆啦美](../Page/哆啦美.md "wikilink")(2:57，史蒂芙；同时附有变调BGM)和《[新世纪福音战士](../Page/新世纪福音战士.md "wikilink")》中碇源堂(4:57，空)经典姿势的场景。吉普莉尔neta了《[未来日记](https://zh.wikipedia.org/wiki/未来日记 "wikilink")》[我妻由乃的经典病娇姿势](https://zh.wikipedia.org/wiki/我妻由乃 "wikilink")，巨人種neta了《[風之谷](https://zh.wikipedia.org/wiki/風之谷 "wikilink")》的巨神兵。预告部分neta自《文明4》中的宣战台词。
+  - 第8话5:27处吉普莉尔neta了《[冰菓](https://zh.wikipedia.org/wiki/冰菓 "wikilink")》[千反田爱瑠的](https://zh.wikipedia.org/wiki/千反田爱瑠 "wikilink")“[我很好奇](https://zh.wikipedia.org/wiki/我很好奇 "wikilink")”。12:31处白neta了《[名侦探柯南](https://zh.wikipedia.org/wiki/名侦探柯南 "wikilink")》最后的「Next Conan's Hint」及[柯南的经典台词](https://zh.wikipedia.org/wiki/柯南 "wikilink")「啊咧咧，好奇怪哦」，随后空neta了动画版第205至230集的OP《恋はスリル、ショック、サスペンス》中柯南跳的Para Para，再接下来一段中出现了neta《[游戏王](https://zh.wikipedia.org/wiki/游戏王 "wikilink")》决斗时的场景。5:55处neta了《JOJO的奇妙冒险》第五部角色[迪亚波罗的替身](https://zh.wikipedia.org/wiki/迪亚波罗\(JOJO的奇妙冒险\) "wikilink")“King Crimson”（绯红之王）。随后的片段则neta了同为第五部角色的[乔可拉特的很好很好连发](https://zh.wikipedia.org/wiki/乔可拉特 "wikilink")。预告部分neta了游戏《[古堡迷踪](https://zh.wikipedia.org/wiki/古堡迷踪 "wikilink")》的台词。
+  - 第11话前几秒的背景图案风格与《女神异闻录4 黄金版》相像。3:11处台词中出现了《[女神异闻录](https://zh.wikipedia.org/wiki/女神异闻录4 "wikilink")》、《[命运石之门](https://zh.wikipedia.org/wiki/命运石之门 "wikilink")》、《[秋叶原之旅](https://zh.wikipedia.org/wiki/秋叶原之旅2 "wikilink")》三款游戏。同时画面相继出现眼部涂码的里中千枝、[牧濑红莉栖及卡蒂](https://zh.wikipedia.org/wiki/牧濑红莉栖 "wikilink")·莱科宁。
+
 ### 映像特典
 
 [BD](../Page/藍光光碟.md "wikilink") / [DVD各卷收錄的原作](https://zh.wikipedia.org/wiki/DVD "wikilink")，由榎宮祐原創的特典文庫，原作迷你[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")。
@@ -923,18 +935,6 @@ ZMCZ-9307（通常盤）</p></td>
 
   - 「[THERE IS A REASON](https://zh.wikipedia.org/wiki/THERE_IS_A_REASON "wikilink")」
     作詞：岩里祐穗，作曲：High Driver，編曲：宮崎誠，主唱：[鈴木木乃美](https://zh.wikipedia.org/wiki/鈴木木乃美 "wikilink")
-
-### 动画Neta
-
-  - 第2话12:42处空说出“异世界的秘密道具”时neta了《[哆啦A梦](https://zh.wikipedia.org/wiki/哆啦A梦 "wikilink")》。13:33处史蒂芙发出了《[JOJO的奇妙冒险](https://zh.wikipedia.org/wiki/JOJO的奇妙冒险 "wikilink")》中的[DIO的叫声](https://zh.wikipedia.org/wiki/DIO "wikilink")。预告部分neta了2010年6月E3游戏大展中，《全能之神 梅塔特隆的升天》的PV中主人公的一句经典死亡FLAG“这样的装备没问题吗”。
-  - 第3话中裁判长neta《[逆转裁判](https://zh.wikipedia.org/wiki/逆转裁判 "wikilink")》，2:11处空喊出了《[逆转裁判](https://zh.wikipedia.org/wiki/逆转裁判 "wikilink")》系列名台词“異議あり”（我反对），同时响起的BGM为系列追求曲的变调。8:16处空说出了《[JOJO的奇妙冒险](https://zh.wikipedia.org/wiki/JOJO的奇妙冒险 "wikilink")》第四部角色[岸边露伴的名台词](https://zh.wikipedia.org/wiki/岸边露伴 "wikilink")“”（但是我拒绝），并且画风也变成JOJO画风。
-  - 第3话的预告部分neta了FC上的游戏《[北野武的挑战书](https://zh.wikipedia.org/wiki/北野武的挑战书 "wikilink")》。
-  - 第4话12:57处空的台词中明确提到了游戏《文明》。
-  - 第5话20:09-20:25处再现了小说中对《[天空之城](../Page/天空之城.md "wikilink")》的neta。
-  - 第6话的预告部分neta了《[上古卷轴5](https://zh.wikipedia.org/wiki/上古卷轴5 "wikilink")》中的“膝盖中了一箭”。
-  - 第7话中分别出现neta《[绝望先生](https://zh.wikipedia.org/wiki/绝望先生 "wikilink")》中[糸色望](https://zh.wikipedia.org/wiki/糸色望 "wikilink")(10:29，空)、《哆啦A梦》中[哆啦美](../Page/哆啦美.md "wikilink")(2:57，史蒂芙；同时附有变调BGM)和《[新世纪福音战士](../Page/新世纪福音战士.md "wikilink")》中碇源堂(4:57，空)经典姿势的场景。吉普莉尔neta了《[未来日记](https://zh.wikipedia.org/wiki/未来日记 "wikilink")》[我妻由乃的经典病娇姿势](https://zh.wikipedia.org/wiki/我妻由乃 "wikilink")，巨人種neta了《[風之谷](https://zh.wikipedia.org/wiki/風之谷 "wikilink")》的巨神兵。预告部分neta自《文明4》中的宣战台词。
-  - 第8话5:27处吉普莉尔neta了《[冰菓](https://zh.wikipedia.org/wiki/冰菓 "wikilink")》[千反田爱瑠的](https://zh.wikipedia.org/wiki/千反田爱瑠 "wikilink")“[我很好奇](https://zh.wikipedia.org/wiki/我很好奇 "wikilink")”。12:31处白neta了《[名侦探柯南](https://zh.wikipedia.org/wiki/名侦探柯南 "wikilink")》最后的「Next Conan's Hint」及[柯南的经典台词](https://zh.wikipedia.org/wiki/柯南 "wikilink")「啊咧咧，好奇怪哦」，随后空neta了动画版第205至230集的OP《恋はスリル、ショック、サスペンス》中柯南跳的Para Para，再接下来一段中出现了neta《[游戏王](https://zh.wikipedia.org/wiki/游戏王 "wikilink")》决斗时的场景。5:55处neta了《JOJO的奇妙冒险》第五部角色[迪亚波罗的替身](https://zh.wikipedia.org/wiki/迪亚波罗\(JOJO的奇妙冒险\) "wikilink")“King Crimson”（绯红之王）。随后的片段则neta了同为第五部角色的[乔可拉特的很好很好连发](https://zh.wikipedia.org/wiki/乔可拉特 "wikilink")。预告部分neta了游戏《[古堡迷踪](https://zh.wikipedia.org/wiki/古堡迷踪 "wikilink")》的台词。
-  - 第11话前几秒的背景图案风格与《女神异闻录4 黄金版》相像。3:11处台词中出现了《[女神异闻录](https://zh.wikipedia.org/wiki/女神异闻录4 "wikilink")》、《[命运石之门](https://zh.wikipedia.org/wiki/命运石之门 "wikilink")》、《[秋叶原之旅](https://zh.wikipedia.org/wiki/秋叶原之旅2 "wikilink")》三款游戏。同时画面相继出现眼部涂码的里中千枝、[牧濑红莉栖及卡蒂](https://zh.wikipedia.org/wiki/牧濑红莉栖 "wikilink")·莱科宁。
 
 ## 爭議
 

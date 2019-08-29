@@ -78,7 +78,7 @@ FNC解释了她们首次亮相的含义：、[草娥](https://zh.wikipedia.org/w
 
 5月28日，六人體制以主打曲《Bingle Bangle（빙글뱅글）》正式回歸
 
-### 2019年：合約到期，珉娥退出
+### 2019年：珉娥退出
 
 5月13日，公司宣布全員合約到期，只有[珉娥](../Page/珉娥.md "wikilink")不續約，因此退出組合。其餘五人已完成續約，往後組合以五人形式進行活動。\[68\]
 
@@ -319,7 +319,7 @@ PlotData =
 </tr>
 <tr class="even">
 <td><p>7月22日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/四種秀" title="wikilink">四種秀</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a></p></td>
 <td></td>
@@ -459,21 +459,21 @@ PlotData =
 </tr>
 <tr class="even">
 <td><p>1月22日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/鄭容和的Hologram" title="wikilink">鄭容和的Hologram</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a> <a href="../Page/酉奈.md" title="wikilink">酉奈</a> <a href="../Page/惠晶.md" title="wikilink">惠晶</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1月29日－3月26日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Unpretty_Rap_Star" title="wikilink">Unpretty Rap Star</a></p></td>
 <td><p><a href="../Page/智珉.md" title="wikilink">智珉</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1月29日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/鄭容和的Hologram" title="wikilink">鄭容和的Hologram</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a> <a href="../Page/酉奈.md" title="wikilink">酉奈</a> <a href="../Page/惠晶.md" title="wikilink">惠晶</a></p></td>
 <td></td>
@@ -543,7 +543,7 @@ PlotData =
 </tr>
 <tr class="even">
 <td><p>5月12日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/四種秀" title="wikilink">四種秀</a></p></td>
 <td><p><a href="../Page/智珉.md" title="wikilink">智珉</a></p></td>
 <td></td>

@@ -18,10 +18,6 @@ OF的最初概念始于2008年在[斯坦福大学开始](https://zh.wikipedia.or
 
 自其发布以来，多家公司和OpenDaylight Project等开源项目都支持OpenFlow，甚至还提供了OpenDaylight控制器。思科和博科等其他公司也提供使用OF的控制器，以及Cisco XNC和Brocade Vyatta控制器。
 
-## OpenFlow测试
-
-全球[SDN测试认证中心是第三方中立的](https://zh.wikipedia.org/wiki/SDN "wikilink")[SDN](https://zh.wikipedia.org/wiki/SDN "wikilink")/[NFV技术评测和创新中心](https://zh.wikipedia.org/wiki/NFV "wikilink")，致力于[SDN](https://zh.wikipedia.org/wiki/SDN "wikilink")/[NFV技术研发](https://zh.wikipedia.org/wiki/NFV "wikilink")、测试认证和部署推广。全球SDN测试认证中心与[ONF等](https://zh.wikipedia.org/wiki/ONF "wikilink")[SDN](https://zh.wikipedia.org/wiki/SDN "wikilink")/[NFV国际标准组织合作](https://zh.wikipedia.org/wiki/NFV "wikilink")，承担其测试规范制订、认证体系建设以及测试工具研发等工作，同时面向全球提供权威中立的测试与认证服务，推动技术产品的完善和产品的互联互通性，进一步推进全球[SDN](https://zh.wikipedia.org/wiki/SDN "wikilink")/[NFV商业部署](https://zh.wikipedia.org/wiki/NFV "wikilink")。全球[SDN测试认证中心提供的ONF的一致性测试证书是目前SDN市场中检测设备是否符合OpenFlow标准的最高级证书](https://zh.wikipedia.org/wiki/SDN "wikilink")。网络硬件设备厂商如交换机和路由器等和网络软件厂商都可以申请获得该认证证书。
-
 ## 参考资料
 
 ## 外部連結

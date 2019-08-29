@@ -32,7 +32,7 @@
 
 ## 注释
 
-[Category:日本私立大學](https://zh.wikipedia.org/wiki/Category:日本私立大學 "wikilink") [Category:日本的大學](https://zh.wikipedia.org/wiki/Category:日本的大學 "wikilink") [Category:東京都的大学](https://zh.wikipedia.org/wiki/Category:東京都的大学 "wikilink")
+[Category:日本私立大學](https://zh.wikipedia.org/wiki/Category:日本私立大學 "wikilink") [Category:日本的大學](https://zh.wikipedia.org/wiki/Category:日本的大學 "wikilink") [Category:東京都的大学](https://zh.wikipedia.org/wiki/Category:東京都的大学 "wikilink") [Category:高等院校合稱](https://zh.wikipedia.org/wiki/Category:高等院校合稱 "wikilink")
 
 1.  [『蛍雪時代』（旺文社）元編集長・代田恭之（学び方研究会）](http://keisetu.howtolearn.biz/)
 2.  [東進ハイスクール現役合格実績](http://www.toshin.com/jisseki/)

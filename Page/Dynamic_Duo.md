@@ -113,11 +113,11 @@
 
 ### 固定演出
 
-|                      |                                                       |                                                                           |    |
-| -------------------- | ----------------------------------------------------- | ------------------------------------------------------------------------- | -- |
-| 播出日期                 | 電視台                                                   | 節目名稱                                                                      | 備註 |
-| 2017年6月30日－2017年9月1日 | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | [Show Me The Money 6](../Page/Show_Me_The_Money_6.md "wikilink")          | 導師 |
-| 2018年11月3日－          | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | [Under Nineteen](https://zh.wikipedia.org/wiki/Under_Nineteen "wikilink") | 導師 |
+|                      |                                                     |                                                                           |    |
+| -------------------- | --------------------------------------------------- | ------------------------------------------------------------------------- | -- |
+| 播出日期                 | 電視台                                                 | 節目名稱                                                                      | 備註 |
+| 2017年6月30日－2017年9月1日 | [Mnet](../Page/Mnet.md "wikilink")                  | [Show Me The Money 6](../Page/Show_Me_The_Money_6.md "wikilink")          | 導師 |
+| 2018年11月3日－          | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | [Under Nineteen](https://zh.wikipedia.org/wiki/Under_Nineteen "wikilink") | 導師 |
 
 ### 嘉賓
 
@@ -131,7 +131,7 @@
 | 2013年8月23日         | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")   | [Super Match](https://zh.wikipedia.org/wiki/Super_Match "wikilink")              |       |
 | 2014年10月31日        | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | [我是男人](../Page/我是男人.md "wikilink")                                               |       |
 | 2015年10月27日        | [JTBC](../Page/JTBC.md "wikilink")                    | [Two Yoo Project - Sugar Man](../Page/Two_Yoo_Project_-_Sugar_Man.md "wikilink") |       |
-| 2015年11月19日        | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | [看見你的聲音 3](https://zh.wikipedia.org/wiki/看見你的聲音 "wikilink")                      |       |
+| 2015年11月19日        | [Mnet](../Page/Mnet.md "wikilink")                    | [看見你的聲音 3](https://zh.wikipedia.org/wiki/看見你的聲音 "wikilink")                      |       |
 | 2016年7月25日         | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")   | [DISCO](https://zh.wikipedia.org/wiki/DISCO "wikilink")                          | 崔子    |
 | 2016年9月23日         | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink") | [姐姐們的Slam Dunk](../Page/姐姐們的Slam_Dunk.md "wikilink")                             |       |
 | 2016年11月12、19日     | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | [無限挑戰](../Page/無限挑戰.md "wikilink")                                               | GAEKO |
@@ -234,7 +234,7 @@
 <tr class="even">
 <td><p>2013年</p></td>
 <td><p>7月11日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td><p>BAAAM</p></td>
 <td><p>1位</p></td>
@@ -258,7 +258,7 @@
 <tr class="odd">
 <td><p>2015年</p></td>
 <td><p>11月26日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td><p>Jam</p></td>
 <td><p>1位</p></td>

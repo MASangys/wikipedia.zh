@@ -2,7 +2,7 @@
 
 ## 經歷
 
-  - 2012年 [Mnet的Superstar](https://zh.wikipedia.org/wiki/Mnet "wikilink") K的第四季冠軍
+  - 2012年 [Mnet](../Page/Mnet.md "wikilink")的Superstar K的第四季冠軍
 
 ## 爭議
 
@@ -650,12 +650,12 @@
 
 ### 音樂節目獎項
 
-| 年份    | 日期     | 電視台                                                   | 節目名稱                                                                   | 獲獎歌曲           | 排名 |
-| ----- | ------ | ----------------------------------------------------- | ---------------------------------------------------------------------- | -------------- | -- |
-| 2013年 | 5月11日  | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     | 春天 春天 春天       | 1位 |
-| 2013年 | 7月6日   | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     | Love Love Love | 1位 |
-| 2014年 | 10月16日 | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | Home           | 1位 |
-| 2014年 | 10月18日 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     | Home           | 1位 |
+| 年份    | 日期     | 電視台                                                 | 節目名稱                                                                   | 獲獎歌曲           | 排名 |
+| ----- | ------ | --------------------------------------------------- | ---------------------------------------------------------------------- | -------------- | -- |
+| 2013年 | 5月11日  | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     | 春天 春天 春天       | 1位 |
+| 2013年 | 7月6日   | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     | Love Love Love | 1位 |
+| 2014年 | 10月16日 | [Mnet](../Page/Mnet.md "wikilink")                  | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | Home           | 1位 |
+| 2014年 | 10月18日 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     | Home           | 1位 |
 
 #### 主要音樂節目榜單排名
 

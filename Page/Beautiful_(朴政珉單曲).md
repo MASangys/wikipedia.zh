@@ -53,7 +53,7 @@
 
 ## 活動紀錄
 
-〈Beautiful〉的回歸舞台於11月15日[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》的直播後展開序幕，在此之前亦先於11月13日參與[MBC MUSIC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[Show Champion](../Page/Show_Champion.md "wikilink")》的事前錄影舞台，播出時間為11月27日。並於11月17日當日在[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")》演出回歸舞台後獲Naver即時搜尋榜一位。
+〈Beautiful〉的回歸舞台於11月15日[Mnet](../Page/Mnet.md "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》的直播後展開序幕，在此之前亦先於11月13日參與[MBC MUSIC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[Show Champion](../Page/Show_Champion.md "wikilink")》的事前錄影舞台，播出時間為11月27日。並於11月17日當日在[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")》演出回歸舞台後獲Naver即時搜尋榜一位。
 
 ### 宣傳
 
@@ -124,10 +124,10 @@ SBS MTV錄影播出</p></td>
 | ------------- | ----------------------------------------------------------------- | ---------------------------------------------------------------------------- | ---------- |
 | **日期**        | **電視台**                                                           | **名稱**                                                                       | **備註**     |
 | **Beautiful** |                                                                   |                                                                              |            |
-| 2012年11月15日   | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")             | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")\[16\] | 首場回歸舞臺     |
+| 2012年11月15日   | [Mnet](../Page/Mnet.md "wikilink")                                | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")\[16\] | 首場回歸舞臺     |
 | 2012年11月17日   | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")               | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")\[17\]     |            |
 | 2012年11月17日   | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")               | [希望 TV SBS](https://zh.wikipedia.org/wiki/希望_TV_SBS "wikilink")              |            |
-| 2012年11月21日   | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")             | Music Triangle\[18\]                                                         | 不插電版本/舞曲版本 |
+| 2012年11月21日   | [Mnet](../Page/Mnet.md "wikilink")                                | Music Triangle\[18\]                                                         | 不插電版本/舞曲版本 |
 | 2012年11月25日   | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")               | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")\[19\]                  |            |
 | 2012年11月27日   | [Arirang TV](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink") | [Simply K-pop](https://zh.wikipedia.org/wiki/Simply_K-pop "wikilink")        |            |
 | 2012年11月27日   | [MBC MUSIC](https://zh.wikipedia.org/wiki/MBC "wikilink")         | [Show Champion](../Page/Show_Champion.md "wikilink")                         |            |

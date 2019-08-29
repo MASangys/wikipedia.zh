@@ -1103,7 +1103,7 @@ BS播放</p></td>
 
 ## 遊戲
 
-[動作](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")[格鬥類遊戲](../Page/格鬥遊戲.md "wikilink")《KILL la KILL the GAME -異布-》（キルラキル ザ・ゲーム -異布-），由Aplus負責開發、[Arc System Works發行](../Page/Arc_System_Works.md "wikilink")，將推出[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")（[Steam](../Page/Steam.md "wikilink")）、[PlayStation 4與](../Page/PlayStation_4.md "wikilink")[任天堂Switch](../Page/任天堂Switch.md "wikilink")版本，預定於2019年7月25日發售，\[4\]此外遊戲也將支援官方繁簡中文。\[5\]\[6\]
+[動作](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")[格鬥類遊戲](../Page/格鬥遊戲.md "wikilink")《KILL la KILL -IF》（キルラキル ザ・ゲーム -異布-），由Aplus負責開發並由[Arc System Works發行](../Page/Arc_System_Works.md "wikilink")，於2019年7月25日推出[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")（[Steam](../Page/Steam.md "wikilink")）、[PlayStation 4與](../Page/PlayStation_4.md "wikilink")[任天堂Switch](../Page/任天堂Switch.md "wikilink")版本。\[4\]此外遊戲也支援官方繁簡中文。\[5\]\[6\]
 
 ## 參考資料
 

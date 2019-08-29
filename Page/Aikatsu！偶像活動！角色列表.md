@@ -13,7 +13,7 @@
     配音員：日：[諸星堇](../Page/諸星堇.md "wikilink")（聲）、霧島若歌（歌）／港：[凌晞](../Page/凌晞.md "wikilink")／台：[傅其慧](../Page/傅其慧.md "wikilink")（遊戲版和動畫版第1、2部）、[李昀晴](../Page/李昀晴.md "wikilink")（動畫版第3部起、劇場版）、[劉如蘋](../Page/劉如蘋.md "wikilink") （STARS第70集）
     3月15日出生，[雙魚座](https://zh.wikipedia.org/wiki/雙魚座 "wikilink")，血型[O型](https://zh.wikipedia.org/wiki/O型 "wikilink")。
     街機第1彈開始即登場，動畫故事第1、2部的主角。
-    常用品牌：**Angely Sugar**
+    常用品牌：**Angely Sugar**。
     金色長髮，頭戴紅色蝴蝶結，是一個[天然呆](../Page/天然呆.md "wikilink")的行動派少女，有着可愛的外表。
     喜歡吃草莓聖代。被強尼老師叫做「star宮莓」。
     動畫第37集與小葵和小蘭組成新偶像團體「Soleil」。
@@ -26,7 +26,7 @@
     配音員：日：[田所梓](../Page/田所梓.md "wikilink")（聲）、上花楓裏（歌）／港：[何寶珊](../Page/何寶珊.md "wikilink")／台：[林沛笭](../Page/林沛笭.md "wikilink")（動畫版第1部和遊戲版）、[龍顯蕙](../Page/龍顯蕙.md "wikilink")（動畫版第2部）、連婉鈞（動畫版第3部起、劇場版與STARS第70集）
     1月31日出生，[水瓶座](https://zh.wikipedia.org/wiki/水瓶座 "wikilink")，血型[A型](https://zh.wikipedia.org/wiki/A型 "wikilink")。
     街機第1彈開始即登場。
-    常用品牌：**FUTURING GIRL**
+    常用品牌：**FUTURING GIRL**。
     藍色頭髮，紮著側馬尾，有教養的酷炫追星族女孩，被稱為「偶像博士」。與小莓是青梅竹馬。口頭禪是「-{zh-hans:一点也不平静; zh-hant:一點也不平靜;zh-hk:一點都唔簡單}-」。
     動畫第37集與小莓和小蘭組成新偶像團體「Soleil」。表面上看不出來，其實可以吃很多(第71話)
     很喜歡拍偶像的照片和收集偶像海報及雜誌。
@@ -37,7 +37,7 @@
     配音員：日：[大橋彩香](../Page/大橋彩香.md "wikilink")（聲）、吉河順央（歌・動畫前期）、市倉有菜（歌・動畫後期）／港：[黃昕瑜](../Page/黃昕瑜.md "wikilink")、[鄭麗麗](../Page/鄭麗麗.md "wikilink")（代配）／台：[馮嘉德](../Page/馮嘉德.md "wikilink")（動畫版第1、2部）、[劉如蘋](../Page/劉如蘋.md "wikilink")（第1集）、[陳凱莉](https://zh.wikipedia.org/wiki/陳凱莉 "wikilink")（動畫版第3部）、[連思宇](../Page/連思宇.md "wikilink")（STARS第70集）
     8月3日出生，[獅子座](https://zh.wikipedia.org/wiki/獅子座 "wikilink")，血型[AB型](https://zh.wikipedia.org/wiki/AB型 "wikilink")。
     街機第1彈開始即登場。
-    常用品牌：**SPICY AGEHA**
+    常用品牌：**SPICY AGEHA**。
     深咖啡色長髮，是小莓和小葵的同級好友，有着大姐姐性格的[傲嬌](../Page/傲嬌.md "wikilink")少女。之前因為有著冷漠的性格以及漂亮的外表，所以有著「美麗冰刃」的稱號。
     比起其小莓及小葵，所喜歡的東西都是大人味的東西，但事實上非常容易害羞，且有許多不可告人的祕密。
     動畫第37集與小莓和小葵組成新偶像團體「Soleil」。
@@ -49,7 +49,7 @@
     配音員：日：[黑澤朋世](../Page/黑澤朋世.md "wikilink")（聲）、美谷玲實（歌）／港：[陳皓宜](../Page/陳皓宜.md "wikilink")／台：[劉如蘋](../Page/劉如蘋.md "wikilink")（遊戲版和動畫版第1、2部）、[陳凱莉](https://zh.wikipedia.org/wiki/陳凱莉 "wikilink")（動畫版第3部起、劇場版）
     5月5日出生，[金牛座](../Page/金牛座.md "wikilink")，血型[B型](https://zh.wikipedia.org/wiki/B型 "wikilink")。
     街機第2彈開始登場，於動畫第10集登場。
-    常用品牌：**Happy Rainbow**
+    常用品牌：**Happy Rainbow**。
     橘黃色長髮，紮成兩個髮髻，口頭禪是「LOVE YOU！」。性格超級天然單純，容易受事物感動，喜歡吃甜點。
     受到新偶像團體「Soleil」的影響，於第38集與小櫻和詩音組成新偶像團體「 Powa Powa Puririn」。第1部結束後，升上三年級後成為星光女王（美月已畢業、小莓去美國）。
 
@@ -59,7 +59,7 @@
     配音員：日：[沼倉愛美](../Page/沼倉愛美.md "wikilink")（聲）、山崎萌（歌・動畫前期）、美谷玲實（歌・動畫後期）／港：[羅孔柔](../Page/羅孔柔.md "wikilink")／台：[馮嘉德](../Page/馮嘉德.md "wikilink")（動畫版第1、2部）、[李昀晴](../Page/李昀晴.md "wikilink")（動畫版第3部起、劇場版）、[劉如蘋](../Page/劉如蘋.md "wikilink")（STARS第70集）
     12月26日出生，[摩羯座](../Page/摩羯座.md "wikilink")，血型[B型](https://zh.wikipedia.org/wiki/B型 "wikilink")。
     街機第3彈開始登場，於動畫19集登場。
-    常用品牌：**Loli Gothic**
+    常用品牌：**Loli Gothic**。
     銀白色長捲髮，紮成雙馬尾，自稱吸血鬼與人類所生的混血少女，正尋找相伴自己僕人的吸血鬼後裔。口頭禪是「小心被我百合華大人吸血喔」。
     動畫第38集雖然曾參加「Tristar」的考試可惜最終失敗，在小蘭退出「Tristar」後，由美月親自指名成為「Tristar」的成員之一參與活動。
     很討厭突然衝出的動物和有人躺進自己睡覺的棺木盒裡，喜歡吃「來來軒」的大蒜拉麵大蒜加量。
@@ -70,7 +70,7 @@
     配音員：日：[安野希世乃](../Page/安野希世乃.md "wikilink")（聲）、愛野繪理（歌）／港：[成瑤孆](../Page/成瑤孆.md "wikilink")／台：[劉如蘋](../Page/劉如蘋.md "wikilink")（動畫版第1、2部）、[傅其慧](../Page/傅其慧.md "wikilink")（遊戲版）、[李昀晴](../Page/李昀晴.md "wikilink")（動畫版第3部起、劇場版）
     4月6日出生，[白羊座](../Page/白羊座.md "wikilink")，血型[A型](https://zh.wikipedia.org/wiki/A型 "wikilink")。
     街機第4彈開始登場，於動畫26集登場。
-    常用品牌：**Aurora Fantasy**
+    常用品牌：**Aurora Fantasy**。
     粉紅色及肩髮，有着高雅、文靜的性格。小時候便跟美月互相認識，是小莓的後輩。
     於第38集與乙女和詩音組成新偶像「Powa Powa Puririn」。
     在說話時不時會出現「北大路劇場」。
@@ -82,7 +82,7 @@
     配音員：日：（聲）、市倉有菜（歌）／港：[劉惠雲](../Page/劉惠雲.md "wikilink")、[葉曉欣](../Page/葉曉欣.md "wikilink")（代配）／台：[林沛笭](../Page/林沛笭.md "wikilink")（動畫版第1部和遊戲版）、[龍顯蕙](../Page/龍顯蕙.md "wikilink")（動畫版第2部）、連婉鈞（動畫版第3部起、劇場版與STARS第70集）
     11月23日出生，[射手座](https://zh.wikipedia.org/wiki/射手座 "wikilink")，血型[O型](https://zh.wikipedia.org/wiki/O型 "wikilink")。
     街機第5彈開始登場，於動畫第33集登場。
-    常用品牌：**Magical Toy**
+    常用品牌：**Magical Toy**。
     紅色短髮，Tristar中的其中一員，是美月指定的偶像。
     從美國返回日本的美國日僑，與莓同屆。「楓壽司」的指定代言人。擅長魔術。
 
@@ -91,7 +91,7 @@
   -
     配音員：日：[瀨戶麻沙美](../Page/瀨戶麻沙美.md "wikilink")（聲）、市倉有菜（歌）／港：[魏惠娥](../Page/魏惠娥.md "wikilink")／台：[馮嘉德](../Page/馮嘉德.md "wikilink")（動畫版第1、2部）、[龍顯蕙](../Page/龍顯蕙.md "wikilink")→[李昀晴](../Page/李昀晴.md "wikilink")（動畫版第3部起）、[張乃文](../Page/張乃文_\(配音員\).md "wikilink")（劇場版）
     1月11日出生，[摩羯座](../Page/摩羯座.md "wikilink")，血型[A型](https://zh.wikipedia.org/wiki/A型 "wikilink")。
-    常用品牌：**FUTURING GIRL**
+    常用品牌：**FUTURING GIRL**。
     最喜歡的食物是巧克力奶油蛋糕。討厭碳酸飲料（如可樂）。
     小莓的同年級生，從十歲就開始於電視劇演出的演技派少女，被稱為「擁有百變表情的女演員」，與小葵經過一番角逐後成為新電視劇「不良刑警」的雙主角搭檔。
     接受乙女邀請加入「Powa Powa Puririn」，亦曾被邀請加入「STAR☆ANIS」演出，但因忙於戲劇而拒絕。
@@ -103,7 +103,7 @@
   -
     配音員：日：[森谷里美](https://zh.wikipedia.org/wiki/森谷里美 "wikilink")（聲）、森下ゆにこ（歌）／港：[張頌欣](../Page/張頌欣.md "wikilink")／台：[劉如蘋](../Page/劉如蘋.md "wikilink")(動畫版)→[李昀晴](../Page/李昀晴.md "wikilink")(劇場版)
     3月28日出生，[白羊座](../Page/白羊座.md "wikilink")，血型[AB型](https://zh.wikipedia.org/wiki/AB型 "wikilink")。於第8集登場。
-    常用品牌：**SPICY AGEHA**
+    常用品牌：**SPICY AGEHA**。
     酒紅色短雙馬尾，被小蘭視為對手的同年級生，兩度擊敗過小蘭，個性狂妄但很努力，多半從事網路表演，經常翹課，被稱為「地下的太陽」。
     喜歡的品牌與小蘭同樣是「**SPICY AGEHA**」。
 
@@ -113,9 +113,9 @@
     配音員：日：[下地紫野](../Page/下地紫野.md "wikilink")（聲）、[遠藤瑠香](https://zh.wikipedia.org/wiki/遠藤瑠香 "wikilink")（歌）／港：[林元春](https://zh.wikipedia.org/wiki/林元春 "wikilink")／台：[龍顯蕙](../Page/龍顯蕙.md "wikilink")（本篇動畫版與劇場版）、[石-{采}-薇](../Page/石采薇.md "wikilink")（STARS第69-70集）
     4月1日出生，[白羊座](../Page/白羊座.md "wikilink")，血型[A型](https://zh.wikipedia.org/wiki/A型 "wikilink") 。
     於街機2014系列「Fresh Cup」登場、2015年系列開始為常任可用角色。動畫故事裡第76話登場、第3部起擔任故事主角。
-    常用品牌：**Dreamy Crown**,經常為瀨名翼帶來靈感。
+    常用品牌：**Dreamy Crown**。
     對小莓有著瘋狂的憧憬的女孩，為了追逐她而不斷參與星光學園的入學試鏡，但由於欠缺偶像方面的能力所以總是失敗。最終於第76集入學就讀中學一年級。
-    雖然是個大而化之的冒失鬼，卻是一個積極和性格明亮的女孩子。
+    雖然是個大而化之的冒失鬼，卻是一個積極和性格明亮的女孩子。經常為瀨名翼帶來靈感。
     原本為了追隨小莓而留有與她一樣的長髮造型，在第77集明白偶像的真正意義後在表演之後就把與小莓一樣的頭髮剪掉，重新留長。
     喜歡吃西瓜, 甜甜圈, 蜜柑和日式咖喱飯。
     於第134集與圓組成二人組合「**Skips**」。
@@ -128,7 +128,7 @@
   -
     配音員：日：[照井春佳](../Page/照井春佳.md "wikilink")／港：[鄭麗麗](../Page/鄭麗麗.md "wikilink")／台：[劉如蘋](../Page/劉如蘋.md "wikilink")(動畫版第2部)→[連婉鈞](https://zh.wikipedia.org/wiki/連婉鈞 "wikilink")(動畫版第3部起)
     7月17日出生，[巨蟹座](../Page/巨蟹座.md "wikilink")，血型[AB型](https://zh.wikipedia.org/wiki/AB型 "wikilink")。
-    常用品牌：**Swing ROCK**與星羅同樣喜歡
+    常用品牌：**Swing ROCK**。
     淺黃色短髮少女，明里的同班同學兼最初的室友。左耳戴一顆紅色星形耳環，喜歡爵士舞，第102話時因漏雨問題而與明里別居。喜歡做假的飾物。
     第118話時作為交換生前往京都的姬櫻女子學院，第135話時再度作為交換生前往神戶愛德華學院，從此被稱為「旅行偶像」。
     第156話受到京都電視台的邀請，上了京都旅遊與萬聖節特別節目，並由「**鬆甜☆撫子**」當神秘來賓。
@@ -140,7 +140,7 @@
     配音員：日：[和久井優](../Page/和久井優.md "wikilink") （聲）、巴山萌菜（歌）／港：[何晶晶](../Page/何晶晶.md "wikilink")／台：[陳凱莉](https://zh.wikipedia.org/wiki/陳凱莉 "wikilink")（本篇與劇場版）、[劉如蘋](../Page/劉如蘋.md "wikilink")（STARS第69-70集）
     10月20日出生，[天秤座](../Page/天秤座.md "wikilink")，血型[AB型](https://zh.wikipedia.org/wiki/AB型 "wikilink") 。
     街機2015年第1彈與動畫102話登場。
-    常用品牌：**Loli Gothic**
+    常用品牌：**Loli Gothic**。
     紫色長直髮少女。與明里同屆，是明里於一年級第二學期的新室友。起初因自己長期都沒有室友，加上自己一個人集中精神而幾乎一次都未搭上話，而非常的孤單，直到遇到與因為漏雨的關係而搬到自己室房的明里後，開始逐漸敞開心房。
     性格文靜、酷炫而高貴的美人，是一個擅長塔羅牌占卜和好事占卜的女孩子，非常會製作甜點及泡茶，最喜歡白雪公主，因此也很喜歡蘋果派。此外個性也內向害羞，講起鬼故事也會讓人不寒而慄。
     自幼喜歡唱歌，被姐姐鼓勵就讀星光學園，成為有著『綻放與舞台上的冰之花』美名的歌姬。
@@ -154,7 +154,7 @@
     配音員：日：[石川由依](../Page/石川由依.md "wikilink") （聲）、未來光希（歌）／港：[曾秀清](../Page/曾秀清.md "wikilink")／台：[連婉鈞](https://zh.wikipedia.org/wiki/連婉鈞 "wikilink")(本篇動畫版、劇場版和STARS第69-70集)
     6月11日出生，[雙子座](https://zh.wikipedia.org/wiki/雙子座 "wikilink")，血型[B型](https://zh.wikipedia.org/wiki/B型 "wikilink") 。
     街機2015年第1彈與動畫104話登場。
-    常用品牌：**Vivid Kiss**
+    常用品牌：**Vivid Kiss**。
     黃色短髮，瀏海綁著辮子。與明里同屆。以童星出身，已有13年偶像的資力。有時會幫忙明里和澄玲解說如何當偶像，此時會拿湯匙當麥克風。
     對「偶像活動卡片」十分熟悉，是一個熱愛時尚的流行女孩子，性格陽氣開朗，但似乎不太會削馬鈴薯。
     綽號與自稱為「小雛（ひな）」。
@@ -168,7 +168,7 @@
     配音員：日：[齋藤綾](../Page/齋藤綾.md "wikilink")（聲）、天音美穗（歌）／港：[吳羨婷](../Page/吳羨婷.md "wikilink")／台：[李昀晴](../Page/李昀晴.md "wikilink")
     7月31日出生，[獅子座](https://zh.wikipedia.org/wiki/獅子座 "wikilink")，血型[O型](https://zh.wikipedia.org/wiki/O型 "wikilink") 。
     街機2015年第2彈與動畫109話登場。
-    常用品牌：**Sangria Rosa**
+    常用品牌：**Sangria Rosa**。
     紅色捲髮，綁著斜馬尾。與明里同屆，雛希的兒時好友。為西班牙和日本的混血兒，所以說話老帶著西班牙腔調。
     以成為像母親一般的大牌演員為目標而中途轉入星光學園，是如火一般熱情的女孩子。興時就會演起鬥牛舞。
     對於玩遊戲雖十分熱血，但一旦玩輸就會出現十分沮喪的表情。
@@ -182,7 +182,7 @@
     配音員：日：[高田憂希](../Page/高田憂希.md "wikilink")（聲）、松岡七瀬（歌）／港：[曾佩儀](https://zh.wikipedia.org/wiki/曾佩儀 "wikilink")／台：[龍顯蕙](../Page/龍顯蕙.md "wikilink")
     1月1日出生，[摩羯座](../Page/摩羯座.md "wikilink")，血型[AB型](https://zh.wikipedia.org/wiki/AB型 "wikilink")。
     街機2015年第4彈與動畫127話登場。
-    常用品牌：**Dance Fusion**
+    常用品牌：**Dance Fusion**。
     灰色中長髮，戴著髮帶。較明里晚一屆的新生。擅長街舞表演，表演有着"宛如閃電"的評價（在網路上被叫「舞動閃電」）。很崇拜同為舞者的強尼別府老師。
     比男孩子有些衝，但有時有點害羞。容易緊張，一旦緊張起來，走路就會同手同腳，行動也會變得笨拙。興奮時幾乎什麼都會忘掉，包括呼吸遇到不擅長的事注意力就會立刻消散。
     超級害怕妖魔鬼怪，而且別人講鬼故事時會當真，發生和故事情節相同的事時甚至會崩潰暈倒。
@@ -196,7 +196,7 @@
     配音員：日：[川上千尋](../Page/川上千尋.md "wikilink")（聲）、星咲花那（歌）／港：[何璐怡](../Page/何璐怡.md "wikilink")／台：[陳凱莉](https://zh.wikipedia.org/wiki/陳凱莉 "wikilink")
     2月14日出生，[水瓶座](https://zh.wikipedia.org/wiki/水瓶座 "wikilink")，血型[O型](https://zh.wikipedia.org/wiki/O型 "wikilink")。
     街機2015年第4彈與動畫127話登場。
-    常用品牌：**Angely Sugar**
+    常用品牌：**Angely Sugar**。
     由於小時候會到袓母家玩，所以比其他人更早認識小莓和Soleil，也更早認識星光學園的織姬學園長和Johnny老師。
     粉色雙馬尾少女，凜的同學兼室友。笑容甜美可人的少女（被叫作「天使的微笑」）喜歡甜食，也有著堅毅的一面。說話一針見血很直接，不時傷人。
     開心時會跳著走路，甚至還會飛撲。
@@ -209,7 +209,7 @@
     配音員：日：[小岩井小鳥](../Page/小岩井小鳥.md "wikilink")（聲）、天音美穗（歌）／台：[李昀晴](../Page/李昀晴.md "wikilink")
     1月10日出生，魔羯座，血型O型。
     街機2016年第1彈與動畫153話登場\[2\]。
-    常用品牌：**Dolly devil**
+    常用品牌：**Dolly devil**。
     北海道偶像，後轉進星光學園。
     自幼喜歡在人群前唱歌。個性比較熱情。
     綽號叫「乃乃親（ののっち）」
@@ -221,7 +221,7 @@
     配音員：日：[福沙奈惠](../Page/福沙奈惠.md "wikilink")（聲）、松岡七瀬（歌）／台：[張乃文](../Page/張乃文_\(配音員\).md "wikilink")
     12月14日出生，射手座，血型A型。
     街機2016年第1彈與動畫153話登場。
-    常用品牌：**Dolly devil**
+    常用品牌：**Dolly devil**。
     北海道偶像，後轉進星光學園。在北海道時，曾在當地的小劇場表演過。
     乃乃的搭檔，性格乾脆，但也跟雅一樣很害羞，跟乃乃個性完全相反，很了解乃乃。綽號叫「莉紗貝（リサッペ）」，為乃乃幫忙取的，不喜歡在別人面前被乃乃這樣叫。
 

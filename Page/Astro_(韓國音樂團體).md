@@ -394,7 +394,7 @@
 </tr>
 <tr class="odd">
 <td><p>2015</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="../Page/七顛八起具海拉.md" title="wikilink">七顛八起具海拉</a></p></td>
 <td><p>文彬<br />
 Rocky</p></td>
@@ -741,29 +741,79 @@ Rocky</p></td>
 </tbody>
 </table>
 
-| 2019年   |
-| ------- |
-|         |
-| 日期      |
-| 1月17日   |
-| 1月18日   |
-| 1月18日   |
-| 1月19日   |
-| 1月22日   |
-| 1月22日   |
-| 1月23日   |
-| 1月25日   |
-| 1月26日   |
-| 2月2日    |
-| 2月9日    |
-| 2月20日   |
-| 3月4日    |
-| 6月15日   |
-| 6月16日   |
-| 7月17日   |
-| 7月18日 │ |
-| 7月28日 │ |
-|         |
+<table>
+<thead>
+<tr class="header">
+<th><p>2019年</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+</tr>
+<tr class="even">
+<td><p>日期</p></td>
+</tr>
+<tr class="odd">
+<td><p>1月17日</p></td>
+</tr>
+<tr class="even">
+<td><p>1月18日</p></td>
+</tr>
+<tr class="odd">
+<td><p>1月18日</p></td>
+</tr>
+<tr class="even">
+<td><p>1月19日</p></td>
+</tr>
+<tr class="odd">
+<td><p>1月22日</p></td>
+</tr>
+<tr class="even">
+<td><p>1月22日</p></td>
+</tr>
+<tr class="odd">
+<td><p>1月23日</p></td>
+</tr>
+<tr class="even">
+<td><p>1月25日</p></td>
+</tr>
+<tr class="odd">
+<td><p>1月26日</p></td>
+</tr>
+<tr class="even">
+<td><p>2月2日</p></td>
+</tr>
+<tr class="odd">
+<td><p>2月9日</p></td>
+</tr>
+<tr class="even">
+<td><p>2月20日</p></td>
+</tr>
+<tr class="odd">
+<td><p>3月4日</p></td>
+</tr>
+<tr class="even">
+<td><p>6月16日</p></td>
+</tr>
+<tr class="odd">
+<td><p>7月17日</p></td>
+</tr>
+<tr class="even">
+<td><p>7月18日 │</p></td>
+</tr>
+<tr class="odd">
+<td><p>7月28日 │</p>
+<p>8月4日</p></td>
+</tr>
+<tr class="even">
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ### 電台節目
 
@@ -868,7 +918,15 @@ Rocky</p></td>
 | 1月25日 |
 | 2月14日 |
 | 2月15日 |
-| 5月13日 |
+| 5月10日 |
+| 5月17日 |
+| 5月24日 |
+| 5月30日 |
+| 6月7日  |
+| 6月11日 |
+| 7月17日 |
+| 7月25日 |
+| 7月31日 |
 
 ## 音樂現場
 
@@ -1120,17 +1178,18 @@ Rocky</p></td>
 
   - 《ASTRO The 2nd ASTROAD TOUR \[STAR LIGHT\]》
 
-|            |       |                                 |
-| ---------- | ----- | ------------------------------- |
-| 日期         | 演唱會站次 | 舉行地點                            |
-| 2019年3月16日 | 台北站   | 台北國際會議中心                        |
-| 2019年3月19日 | 紐約站   | 新澤西表演藝術中心                       |
-| 2019年3月21日 | 達拉斯站  | 大草原城劇院                          |
-| 2019年3月24日 | 洛杉磯站  | 好萊塢帕拉丁音樂廳                       |
-| 2019年3月26日 | 舊金山站  | 沃菲爾德劇院                          |
-| 2019年3月30日 | 香港站   | 九龍灣國際展貿中心                       |
-| 2019年4月27日 | 曼谷站   | BCC Hall, CentralPlaza Lardprao |
-|            |       |                                 |
+|                |       |                                 |
+| -------------- | ----- | ------------------------------- |
+| 日期             | 演唱會站次 | 舉行地點                            |
+| 2018年12月22-23日 | 首爾站   | KBS ARENA HALL                  |
+| 2019年3月16日     | 台北站   | 台北國際會議中心                        |
+| 2019年3月19日     | 紐約站   | 新澤西表演藝術中心                       |
+| 2019年3月21日     | 達拉斯站  | 大草原城劇院                          |
+| 2019年3月24日     | 洛杉磯站  | 好萊塢帕拉丁音樂廳                       |
+| 2019年3月26日     | 舊金山站  | 沃菲爾德劇院                          |
+| 2019年3月30日     | 香港站   | 九龍灣國際展貿中心                       |
+| 2019年4月27日     | 曼谷站   | BCC Hall, CentralPlaza Lardprao |
+|                |       |                                 |
 
 ### ASTRO AROHA Festival
 

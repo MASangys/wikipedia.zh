@@ -66,6 +66,10 @@ Lightning接頭內建認證晶片，會與充電的裝置認證，因此若使�
 
 ## 缺點
 
+### 資料竊取
+
+[Verizon的研究員Mike](https://zh.wikipedia.org/wiki/Verizon "wikilink") Grover介紹被改裝的Lightning線，外表與一般的Lightning線一樣無法分辨，且能正常充電與傳輸資料，iPhone或電腦也無法偵測它是一條有問題的線。改裝後的線內含Wi-Fi無線晶片，當它連接裝置時本身就會變成一個[Wi-Fi](../Page/Wi-Fi.md "wikilink")熱點，並且登入該IP後就可以對iPhone或電腦執行指令，Mike Grover表示這種線存在於市場上已經很長一段時間了，而且這種技術在各種線材上都能運用，據他了解連[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[國家安全局都有出過自己的版本](https://zh.wikipedia.org/wiki/國家安全局 "wikilink")；不過Mike Grover也說，Lightning是最難植入晶片的線。\[4\]
+
 ### 技術性
 
   - 30針Dock接頭經轉接頭轉為Lightning接頭，只能用作數據傳輸、充電及音頻輸出。不能輸出HDMI及VGA。
@@ -81,3 +85,4 @@ Lightning接頭內建認證晶片，會與充電的裝置認證，因此若使�
 1.  <http://www.sohu.com/a/201753489_114760>
 2.  [功能变中文名！苹果iOS11.2测试版更加本土化 - 苹果,iOS11.2 - IT之家](https://www.ithome.com/html/iphone/332305.htm)
 3.  <https://www.hksilicon.com/articles/1464410>
+4.

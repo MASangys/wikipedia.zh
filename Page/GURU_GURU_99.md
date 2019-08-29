@@ -11,7 +11,7 @@
   - [NINETY-NINE](../Page/NINETY-NINE.md "wikilink")
 
       - [矢部浩之](../Page/矢部浩之.md "wikilink")
-      - [岡村隆史](https://zh.wikipedia.org/wiki/岡村隆史 "wikilink")
+      - [岡村隆史](../Page/岡村隆史.md "wikilink")
 
   - （前[日本電視台](../Page/日本電視台.md "wikilink")[播報員](https://zh.wikipedia.org/wiki/播報員 "wikilink")）
 
@@ -19,7 +19,7 @@
 
 ##### 冤大頭20的成員
 
-  - [岡村隆史](https://zh.wikipedia.org/wiki/岡村隆史 "wikilink")（[NINETY-NINE](../Page/NINETY-NINE.md "wikilink")）　
+  - [岡村隆史](../Page/岡村隆史.md "wikilink")（[NINETY-NINE](../Page/NINETY-NINE.md "wikilink")）　
       - 冤大頭4沒有參加。冤大頭10、12、15、19擔任MC。
   - [矢部浩之](../Page/矢部浩之.md "wikilink")（[NINETY-NINE](../Page/NINETY-NINE.md "wikilink")）
       - 冤大頭10、12、15、19、20沒有參加。冤大頭1—9、11、13—14、16—18擔任MC。

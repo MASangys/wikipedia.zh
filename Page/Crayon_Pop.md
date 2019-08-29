@@ -552,10 +552,6 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>2012</p></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>2013</p></td>
 <td><ul>
 <li>第5屆甜瓜音樂獎 - Hot Trend獎</li>
@@ -567,7 +563,7 @@
 <li>KBS年末歌謠大慶典- 年度歌手獎</li>
 </ul></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2014</p></td>
 <td><ul>
 <li>第28屆韓國金唱片大賞 - 音源部門新人賞</li>
@@ -575,10 +571,6 @@
 <li>第23屆首爾歌謠大賞 - 新人賞</li>
 <li>第9屆亞洲模特獎 - 新人歌手獎</li>
 </ul></td>
-</tr>
-<tr class="even">
-<td><p>2015</p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>2016</p></td>

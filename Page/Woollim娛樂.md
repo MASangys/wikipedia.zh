@@ -60,9 +60,9 @@
 <td><p>2019年8月7日</p></td>
 <td><p><a href="../Page/Rocket_Punch.md" title="wikilink">Rocket Punch</a></p></td>
 <td><p>女</p></td>
-<td><p><a href="../Page/高橋朱里.md" title="wikilink">朱里</a>、<a href="https://zh.wikipedia.org/wiki/金蓮熙" title="wikilink">蓮熙</a>、<a href="https://zh.wikipedia.org/wiki/金秀潤" title="wikilink">秀潤</a>、<a href="https://zh.wikipedia.org/wiki/徐胤卿" title="wikilink">胤卿</a>、<a href="https://zh.wikipedia.org/wiki/金素嬉" title="wikilink">素嬉</a>、<a href="https://zh.wikipedia.org/wiki/鄭多玹" title="wikilink">多玹</a></p></td>
+<td><p><a href="../Page/高橋朱里.md" title="wikilink">朱里</a>、<a href="https://zh.wikipedia.org/wiki/金蓮熙" title="wikilink">蓮熙</a>、<a href="https://zh.wikipedia.org/wiki/金秀潤" title="wikilink">秀潤</a>、<a href="https://zh.wikipedia.org/wiki/徐胤卿" title="wikilink">胤卿</a>、<a href="https://zh.wikipedia.org/wiki/金素嬉" title="wikilink">素嬉</a>、<a href="../Page/鄭多玹.md" title="wikilink">多玹</a></p></td>
 <td><p>蓮熙</p></td>
-<td><p>準備出道</p></td>
+<td><p>活動中</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -253,8 +253,8 @@
   - 黃允省（[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
   - 周昌煜（[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
   - 金敏緒（[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
-  - 文俊號（[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
   - 李協（[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
+  - 李省俊
 
 ## 離開藝人
 
@@ -274,6 +274,7 @@
   - [金玟錫](https://zh.wikipedia.org/wiki/金玟錫 "wikilink")（2014年 — 2017年）
   - 朴在錫（2017年 — 2018年）
   - [吳炫旻](../Page/吳炫旻.md "wikilink")（2017年 — 2018年）
+  - [L](../Page/金明洙.md "wikilink")（2010年 — 2019年）
 
 ### 曾經所屬企劃組合／子團
 
@@ -287,7 +288,9 @@
   - 吳成鍾（曾以[SPEED出道](../Page/SPEED_\(韓國音樂團體\).md "wikilink")，現為個人歌手）
   - 崔宇赫（以[Like A Movie出道](../Page/Like_A_Movie.md "wikilink")）
   - [李婁彬](../Page/李婁彬.md "wikilink")（曾參與《[少年24](../Page/少年24.md "wikilink")》、《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》，後以[1TEAM](../Page/1TEAM.md "wikilink")出道）
-  - [全雄](../Page/全雄.md "wikilink")（曾是[JYP娛樂](../Page/JYP娛樂.md "wikilink")及[YG娛樂](../Page/YG娛樂.md "wikilink")練習生，後以[AB6IX](../Page/AB6IX.md "wikilink")出道）
+  - [鄭游寯](https://zh.wikipedia.org/wiki/鄭游寯 "wikilink")（曾參與《[少年24](../Page/少年24.md "wikilink")》，後以[D1CE](../Page/D1CE.md "wikilink")出道）
+  - [田雄](https://zh.wikipedia.org/wiki/田雄 "wikilink")（曾是[JYP娛樂](../Page/JYP娛樂.md "wikilink")及[YG娛樂](../Page/YG娛樂.md "wikilink")練習生，後以[AB6IX](../Page/AB6IX.md "wikilink")出道
+  - 文俊號（曾參與《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》，後因個人因素退出）
   - 具寶慧（[Lovelyz預備成員](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，後以[Heart Rabbit Girls出道](../Page/Heart_Rabbit_Girls.md "wikilink")）
   - [曺承希](../Page/曺承希.md "wikilink")（[Lovelyz預備成員](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，曾以[F-VE DOLLS](../Page/F-VE_DOLLS.md "wikilink")、[DIA出道](https://zh.wikipedia.org/wiki/DIA "wikilink")，現為演員）
   - [韓書仁](https://zh.wikipedia.org/wiki/吳連卿 "wikilink")（[Lovelyz預備成員](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，曾以[The SeeYa](../Page/The_SeeYa.md "wikilink")、[F-VE DOLLS出道](../Page/F-VE_DOLLS.md "wikilink")，現為個人歌手）
@@ -302,7 +305,7 @@
   - 金彩璘（[Lovelyz預備成員](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，後因個人因素退出）
   - 安書允（[Lovelyz預備成員](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，後因個人因素退出）
   - 劉靜恩（[Lovelyz預備成員](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，後因個人因素退出）
-  - 尹素允（[Lovelyz](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")、Rocket Punch預備成員，後因個人因素退出）
+  - 尹素允（[Lovelyz](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")、[Rocket Punch預備成員](../Page/Rocket_Punch.md "wikilink")，後因個人因素退出）
 
 ## Woollim Label
 
