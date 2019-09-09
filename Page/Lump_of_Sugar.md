@@ -118,7 +118,8 @@
 <td><p><strong></strong></p></td>
 <td><p>萌木原文武、奏ナコト(SD)</p></td>
 <td><p>セロリ、てつじん、</p></td>
-<td><p>在世界與世界的中心</p></td>
+<td><p>在世界與世界的正中央<br />
+在世界與世界的中心</p></td>
 </tr>
 <tr class="even">
 <td><p>11</p></td>

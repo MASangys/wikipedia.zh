@@ -380,7 +380,7 @@
 
   -
 
-[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:愛知縣出身人物](https://zh.wikipedia.org/wiki/Category:愛知縣出身人物 "wikilink") [Category:Horipro](https://zh.wikipedia.org/wiki/Category:Horipro "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:日本流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日本流行音樂歌手 "wikilink") [Category:Oricon動畫單曲年榜冠軍獲得者](https://zh.wikipedia.org/wiki/Category:Oricon動畫單曲年榜冠軍獲得者 "wikilink") [Category:Flying_DOG旗下藝人](https://zh.wikipedia.org/wiki/Category:Flying_DOG旗下藝人 "wikilink")
+[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:日本女性搖滾歌手](https://zh.wikipedia.org/wiki/Category:日本女性搖滾歌手 "wikilink") [Category:愛知縣出身人物](https://zh.wikipedia.org/wiki/Category:愛知縣出身人物 "wikilink") [Category:Horipro](https://zh.wikipedia.org/wiki/Category:Horipro "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:日本流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日本流行音樂歌手 "wikilink") [Category:Oricon動畫單曲年榜冠軍獲得者](https://zh.wikipedia.org/wiki/Category:Oricon動畫單曲年榜冠軍獲得者 "wikilink") [Category:Flying_DOG旗下藝人](https://zh.wikipedia.org/wiki/Category:Flying_DOG旗下藝人 "wikilink")
 
 1.
 2.

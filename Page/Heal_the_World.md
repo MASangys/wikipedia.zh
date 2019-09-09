@@ -10,7 +10,7 @@
 
 ## 评论
 
-这首歌在1992年12月将[惠特尼·休斯顿的](https://zh.wikipedia.org/wiki/惠特尼·休斯顿 "wikilink")“[我将永远爱你](../Page/我将永远爱你.md "wikilink")”挤下了[公告牌百强单曲榜的头名](https://zh.wikipedia.org/wiki/公告牌百强单曲榜 "wikilink")。[Allmusic称赞这首歌是一支良好的中产阶级软歌曲](https://zh.wikipedia.org/wiki/Allmusic "wikilink")。\[3\][EW的戴维](https://zh.wikipedia.org/wiki/EW "wikilink")·布朗称赞：“当他的歌声以一种轻柔的方式想起时，他在扮演着一个拯救世界的角色。”\[4\]滚石杂志的阿兰则称这首歌是一个典型的山寨版[天下一家](../Page/天下一家.md "wikilink")。\[5\]
+这首歌在1992年12月将[惠特尼·休斯顿的](https://zh.wikipedia.org/wiki/惠特尼·休斯顿 "wikilink")“[我将永远爱你](../Page/我将永远爱你.md "wikilink")”挤下了[公告牌百强单曲榜的头名](https://zh.wikipedia.org/wiki/公告牌百强单曲榜 "wikilink")。这首歌也是1993年1月第二十七届超级碗总决赛半场秀的压轴曲目。[Allmusic称赞这首歌是一支良好的中产阶级软歌曲](https://zh.wikipedia.org/wiki/Allmusic "wikilink")。\[3\][EW的戴维](https://zh.wikipedia.org/wiki/EW "wikilink")·布朗称赞：“当他的歌声以一种轻柔的方式想起时，他在扮演着一个拯救世界的角色。”\[4\]滚石杂志的阿兰则称这首歌是一个典型的山寨版[天下一家](../Page/天下一家.md "wikilink")。\[5\]
 
 ## 參考文獻
 

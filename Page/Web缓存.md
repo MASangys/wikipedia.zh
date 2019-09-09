@@ -24,7 +24,7 @@ Web缓存可以用于各种系统（从Web内容的传输方向来看）：
 
 ## 法律问题
 
-1998年，[DMCA增加了](../Page/數字千年版權法.md "wikilink")[美国法典](../Page/美国法典.md "wikilink")（[17 U.S.C. §: 512](https://zh.wikipedia.org/wiki/Online_Copyright_Infringement_Liability_Limitation_Act "wikilink")）的规定，放弃追究以缓存为目的的系统运营商的版权责任。
+1998年，[數字千年版權法](../Page/數字千年版權法.md "wikilink")增加了[美国法典](../Page/美国法典.md "wikilink")（）的规定，放弃追究以缓存为目的的系统运营商的版权责任。
 
 ## Web缓存软件
 
@@ -49,21 +49,21 @@ Web缓存可以用于各种系统（从Web内容的传输方向来看）：
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/aiScaler" title="wikilink">aiScaler</a> Dynamic Cache Control</p></td>
+<td><p>Dynamic Cache Control</p></td>
 <td><p>Linux</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/ApplianSys" title="wikilink">ApplianSys CACHEbox</a></p></td>
+<td><p>{{tsl|en|ApplianSys</p></td>
+<td><p>ApplianSys CACHEbox}}</p></td>
 <td><p>Linux</p></td>
-<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Blue_Coat_Systems" title="wikilink">Blue Coat</a> ProxySG</p></td>
+<td><p>ProxySG</p></td>
 <td><p>SGOS</p></td>
 <td></td>
 <td></td>
@@ -77,7 +77,7 @@ Web缓存可以用于各种系统（从Web内容的传输方向来看）：
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Forefront_Threat_Management_Gateway" title="wikilink">Microsoft Forefront Threat Management Gateway</a></p></td>
+<td></td>
 <td><p>Windows</p></td>
 <td></td>
 <td></td>
@@ -105,21 +105,21 @@ Web缓存可以用于各种系统（从Web内容的传输方向来看）：
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Untangle" title="wikilink">Untangle</a></p></td>
+<td></td>
 <td><p>Linux</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Varnish_cache.md" title="wikilink">Varnish</a></p></td>
+<td><p><a href="../Page/Varnish_cache.md" title="wikilink">Varnish cache</a></p></td>
 <td><p>Linux, Unix</p></td>
 <td><p>(possible with a VMOD)</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/WinGate" title="wikilink">WinGate</a></p></td>
+<td></td>
 <td><p>Windows</p></td>
 <td></td>
 <td></td>

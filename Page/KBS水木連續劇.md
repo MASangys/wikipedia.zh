@@ -2893,7 +2893,7 @@
 <tr class="even">
 <td style="text-align: center;"><p>2019年7月17日－<br />
 2019年9月5日</p></td>
-<td style="text-align: center;"><p><a href="../Page/Justice_(韓國電視劇).md" title="wikilink">JUSTICE</a><br />
+<td style="text-align: center;"><p><a href="../Page/Justice_(韓國電視劇).md" title="wikilink">Justice</a><br />
 </p></td>
 <td style="text-align: center;"><p>32</p></td>
 <td style="text-align: center;"><p><a href="../Page/孫賢周.md" title="wikilink">孫賢周</a>、<a href="../Page/崔振赫.md" title="wikilink">崔振赫</a>、<a href="https://zh.wikipedia.org/wiki/林珍娜" title="wikilink">林珍娜</a></p></td>
@@ -2903,13 +2903,35 @@
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>2019年9月11日－<br />
-2019年10月</p></td>
+2019年9月12日</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/生日信" title="wikilink">生日信</a><br />
+</p></td>
+<td style="text-align: center;"><p>2</p></td>
+<td style="text-align: center;"><p><a href="../Page/全昭旻.md" title="wikilink">全昭旻</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金正奎" title="wikilink">金正奎</a></p></td>
+<td style="text-align: center;"><p>白素延</p></td>
+<td style="text-align: center;"><p><strong>（獨幕劇）</strong></p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>2019年9月18日－<br />
+2019年11月7日</p></td>
 <td style="text-align: center;"><p><a href="../Page/山茶花開時.md" title="wikilink">山茶花開時</a><br />
 </p></td>
 <td style="text-align: center;"><p>32</p></td>
 <td style="text-align: center;"><p><a href="../Page/孔曉振.md" title="wikilink">孔曉振</a>、<a href="../Page/姜河那.md" title="wikilink">姜河那</a>、<a href="../Page/金知碩.md" title="wikilink">金知碩</a>、<a href="../Page/孫淡妃.md" title="wikilink">孫淡妃</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/車榮勳.md" title="wikilink">車榮勳</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/林尚春" title="wikilink">林尚春</a></p></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>2019年11月13日－<br />
+2020年1月</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/99億的女人" title="wikilink">99億的女人</a><br />
+</p></td>
+<td style="text-align: center;"><p>32</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/趙汝珍" title="wikilink">趙汝珍</a>、<a href="../Page/金剛于.md" title="wikilink">金剛-{于}-</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/金英兆.md" title="wikilink">金英兆</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/韓智勳" title="wikilink">韓智勳</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>

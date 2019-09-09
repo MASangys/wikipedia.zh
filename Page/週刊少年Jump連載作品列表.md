@@ -6,9 +6,9 @@
 
 ## 連載作品
 
-|  |                             |
-|  | --------------------------- |
-|  | 截至2019年7月29日（2019年35號）連載中作品 |
+|  |                            |
+|  | -------------------------- |
+|  | 截至2019年9月2日（2019年40號）連載中作品 |
 
 <table>
 <thead>
@@ -4967,7 +4967,7 @@
 </tr>
 <tr class="odd">
 <td><p>512</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/银魂" title="wikilink">银魂</a></p></td>
+<td><p><a href="../Page/银魂.md" title="wikilink">银魂</a></p></td>
 <td><p><a href="../Page/空知英秋.md" title="wikilink">空知英秋</a></p></td>
 <td><p>－</p></td>
 <td><p>2004.02</p></td>
@@ -6699,11 +6699,11 @@
 </tr>
 <tr class="odd">
 <td><p>689</p></td>
-<td><p>'''<a href="https://zh.wikipedia.org/wiki/最後的西遊記" title="wikilink">最後的西遊記</a> '''</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/最後的西遊記" title="wikilink">最後的西遊記</a></p></td>
 <td><p>野野上大二郎</p></td>
 <td><p>－</p></td>
 <td><p>2019.14</p></td>
-<td><p>連載中</p></td>
+<td><p>2019.38</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -6748,6 +6748,24 @@
 <td><p>松浦健人（漫畫）</p></td>
 <td><p>田中勇輝（原作）</p></td>
 <td><p>2019.27</p></td>
+<td><p>連載中</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>695</p></td>
+<td><p>'''<a href="https://zh.wikipedia.org/wiki/夜櫻家的大作戰" title="wikilink">夜櫻家的大作戰</a> '''</p></td>
+<td></td>
+<td><p>－</p></td>
+<td><p>2019.39</p></td>
+<td><p>連載中</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>696</p></td>
+<td><p>'''<a href="https://zh.wikipedia.org/wiki/御靈保全公司" title="wikilink">御靈保全公司</a> '''</p></td>
+<td></td>
+<td><p>－</p></td>
+<td><p>2019.40</p></td>
 <td><p>連載中</p></td>
 <td></td>
 </tr>

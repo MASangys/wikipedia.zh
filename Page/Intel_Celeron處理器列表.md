@@ -716,7 +716,7 @@
 
 #### "Braswell" (14 nm)
 
-  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")、[EM64T](../Page/X86-64.md "wikilink")、[XD-bit](../Page/NX位元.md "wikilink")、ASE-NI、[AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[AVX2](https://zh.wikipedia.org/wiki/AVX2 "wikilink")、[FMA3](../Page/FMA指令集.md "wikilink")、[FMA4](../Page/FMA指令集.md "wikilink") 、[Intel VT-x](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")、[Intel VT-d](../Page/X86虚拟化.md "wikilink")、AES-NI*
+  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")、[EM64T](../Page/X86-64.md "wikilink")、[XD-bit](../Page/NX位元.md "wikilink")、ASE-NI、[AVX](../Page/AVX指令集.md "wikilink")、[AVX2](https://zh.wikipedia.org/wiki/AVX2 "wikilink")、[FMA3](../Page/FMA指令集.md "wikilink")、[FMA4](../Page/FMA指令集.md "wikilink") 、[Intel VT-x](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")、[Intel VT-d](../Page/X86虚拟化.md "wikilink")、AES-NI*
   - GPU和内存控制器均集成到[die中](../Page/裸晶.md "wikilink")
   - GPU基于[Broadwell](../Page/Broadwell微架構.md "wikilink") Intel HD Graphics，包含12个EU单元和支持[DirectX 11.2](../Page/DirectX.md "wikilink")，OpenGL 4.4，OpenGL ES 3.0以及 OpenCL 2.0
 
@@ -730,7 +730,7 @@
 
 #### Haswell (22 nm)
 
-  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")、[EM64T](../Page/X86-64.md "wikilink")、[XD-bit](../Page/NX位元.md "wikilink")、ASE-NI、[AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[AVX2](https://zh.wikipedia.org/wiki/AVX2 "wikilink")、[FMA3](../Page/FMA指令集.md "wikilink")、[FMA4](../Page/FMA指令集.md "wikilink") 、[Intel VT-x](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")*
+  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")、[EM64T](../Page/X86-64.md "wikilink")、[XD-bit](../Page/NX位元.md "wikilink")、ASE-NI、[AVX](../Page/AVX指令集.md "wikilink")、[AVX2](https://zh.wikipedia.org/wiki/AVX2 "wikilink")、[FMA3](../Page/FMA指令集.md "wikilink")、[FMA4](../Page/FMA指令集.md "wikilink") 、[Intel VT-x](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")*
 
 <table>
 <thead>
@@ -887,7 +887,7 @@
 
 #### "Skylake-S" (14 nm)
 
-  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")、[EM64T](../Page/X86-64.md "wikilink")、[XD-bit](../Page/NX位元.md "wikilink")、ASE-NI、[AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[AVX2](https://zh.wikipedia.org/wiki/AVX2 "wikilink")、[FMA3](../Page/FMA指令集.md "wikilink")、[FMA4](../Page/FMA指令集.md "wikilink") 、[Intel VT-x](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")、[Intel VT-d](../Page/X86虚拟化.md "wikilink")、AES-NI、Smart Cache.*
+  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")、[EM64T](../Page/X86-64.md "wikilink")、[XD-bit](../Page/NX位元.md "wikilink")、ASE-NI、[AVX](../Page/AVX指令集.md "wikilink")、[AVX2](https://zh.wikipedia.org/wiki/AVX2 "wikilink")、[FMA3](../Page/FMA指令集.md "wikilink")、[FMA4](../Page/FMA指令集.md "wikilink") 、[Intel VT-x](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")、[Intel VT-d](../Page/X86虚拟化.md "wikilink")、AES-NI、Smart Cache.*
   - 全部型号支持DDR3-1600或DDR4-2133内存
   - 全部型号均支持ECC内存
 
@@ -909,7 +909,7 @@
 
 #### "Apollo Lake" (14 nm)
 
-  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")、[EM64T](../Page/X86-64.md "wikilink")、[XD-bit](../Page/NX位元.md "wikilink")、ASE-NI、[AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[AVX2](https://zh.wikipedia.org/wiki/AVX2 "wikilink")、[FMA3](../Page/FMA指令集.md "wikilink")、[FMA4](../Page/FMA指令集.md "wikilink") 、[Intel VT-x](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")、[Intel VT-d](../Page/X86虚拟化.md "wikilink")、AES-NI*
+  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")、[EM64T](../Page/X86-64.md "wikilink")、[XD-bit](../Page/NX位元.md "wikilink")、ASE-NI、[AVX](../Page/AVX指令集.md "wikilink")、[AVX2](https://zh.wikipedia.org/wiki/AVX2 "wikilink")、[FMA3](../Page/FMA指令集.md "wikilink")、[FMA4](../Page/FMA指令集.md "wikilink") 、[Intel VT-x](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")、[Intel VT-d](../Page/X86虚拟化.md "wikilink")、AES-NI*
   - GPU和内存控制器均集成到[die中](../Page/裸晶.md "wikilink")
   - GPU基于Skylake Intel HD Graphics，包含12个EU单元和支持[DirectX 12](../Page/DirectX.md "wikilink")，OpenGL 4.5，OpenGL ES 3.0以及 OpenCL 2.0
 
@@ -924,7 +924,7 @@
 
 #### "Gemini Lake" (14 nm)
 
-  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")、[EM64T](../Page/X86-64.md "wikilink")、[XD-bit](../Page/NX位元.md "wikilink")、ASE-NI、[AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[AVX2](https://zh.wikipedia.org/wiki/AVX2 "wikilink")、[FMA3](../Page/FMA指令集.md "wikilink")、[FMA4](../Page/FMA指令集.md "wikilink") 、[Intel VT-x](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")、[Intel VT-d](../Page/X86虚拟化.md "wikilink")、AES-NI*
+  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")、[EM64T](../Page/X86-64.md "wikilink")、[XD-bit](../Page/NX位元.md "wikilink")、ASE-NI、[AVX](../Page/AVX指令集.md "wikilink")、[AVX2](https://zh.wikipedia.org/wiki/AVX2 "wikilink")、[FMA3](../Page/FMA指令集.md "wikilink")、[FMA4](../Page/FMA指令集.md "wikilink") 、[Intel VT-x](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")、[Intel VT-d](../Page/X86虚拟化.md "wikilink")、AES-NI*
   - GPU和内存控制器均集成到[die中](../Page/裸晶.md "wikilink")
   - GPU基于Kaby Lake Intel HD Graphics，包含12个EU单元和支持[DirectX 12](../Page/DirectX.md "wikilink")，OpenGL 4.5，OpenGL ES 3.0以及 OpenCL 2.0
 
@@ -938,7 +938,7 @@
 
 #### "Kaby Lake-S" (14 nm)
 
-  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")、[EM64T](../Page/X86-64.md "wikilink")、[XD-bit](../Page/NX位元.md "wikilink")、ASE-NI、[AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[AVX2](https://zh.wikipedia.org/wiki/AVX2 "wikilink")、[FMA3](../Page/FMA指令集.md "wikilink")、[FMA4](../Page/FMA指令集.md "wikilink") 、[Intel VT-x](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")、[Intel VT-d](../Page/X86虚拟化.md "wikilink")、AES-NI*
+  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")、[EM64T](../Page/X86-64.md "wikilink")、[XD-bit](../Page/NX位元.md "wikilink")、ASE-NI、[AVX](../Page/AVX指令集.md "wikilink")、[AVX2](https://zh.wikipedia.org/wiki/AVX2 "wikilink")、[FMA3](../Page/FMA指令集.md "wikilink")、[FMA4](../Page/FMA指令集.md "wikilink") 、[Intel VT-x](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")、[Intel VT-d](../Page/X86虚拟化.md "wikilink")、AES-NI*
   - 全部型号均支持DDR3-1600或者DDR4-2400内存（嵌入式型号支持DDR4-2133）
   - 所有型号均支持ECC内存
 

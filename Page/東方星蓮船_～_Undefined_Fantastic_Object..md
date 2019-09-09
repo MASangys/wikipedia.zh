@@ -516,129 +516,9 @@ Extra頭目，這次UFO事件的幕後黑手。
 </tbody>
 </table>
 
-## 曲目一覽
+## 相关事件
 
-<table>
-<thead>
-<tr class="header">
-<th><p>曲目</p></th>
-<th><p>名稱</p></th>
-<th><p>中文譯名</p></th>
-<th><p>出現場合</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>1</p></td>
-<td></td>
-<td><p>青空之影</p></td>
-<td><p>主選單</p></td>
-</tr>
-<tr class="even">
-<td><p>2</p></td>
-<td></td>
-<td><p>春之岸</p></td>
-<td><p>第一關道中</p></td>
-</tr>
-<tr class="odd">
-<td><p>3</p></td>
-<td></td>
-<td><p>小小的小不點賢將</p></td>
-<td><p>第一關頭目戰</p></td>
-</tr>
-<tr class="even">
-<td><p>4</p></td>
-<td></td>
-<td><p>封閉的雲之通道</p></td>
-<td><p>第二關道中</p></td>
-</tr>
-<tr class="odd">
-<td><p>5</p></td>
-<td></td>
-<td><p>請注意萬年備用傘</p></td>
-<td><p>第二關頭目戰</p></td>
-</tr>
-<tr class="even">
-<td><p>6</p></td>
-<td></td>
-<td><p>空中廢墟</p></td>
-<td><p>第三關道中</p></td>
-</tr>
-<tr class="odd">
-<td><p>7</p></td>
-<td></td>
-<td><p>傳統老爸與尖端少女</p></td>
-<td><p>第三關頭目戰</p></td>
-</tr>
-<tr class="even">
-<td><p>8</p></td>
-<td></td>
-<td><p>幽靈客船的時空穿越之旅</p></td>
-<td><p>第四關道中</p></td>
-</tr>
-<tr class="odd">
-<td><p>9</p></td>
-<td></td>
-<td><p>村紗船長</p></td>
-<td><p>第四關頭目戰</p></td>
-</tr>
-<tr class="even">
-<td><p>10</p></td>
-<td></td>
-<td><p>魔界地方都市秘境</p></td>
-<td><p>第五關道中</p></td>
-</tr>
-<tr class="odd">
-<td><p>11</p></td>
-<td></td>
-<td><p>虎紋的毘沙門天</p></td>
-<td><p>第五關頭目戰</p></td>
-</tr>
-<tr class="even">
-<td><p>12</p></td>
-<td></td>
-<td><p>法界之火</p></td>
-<td><p>第六關道中</p></td>
-</tr>
-<tr class="odd">
-<td><p>13</p></td>
-<td></td>
-<td><p>感情的摩天樓　〜 Cosmic Mind</p></td>
-<td><p>第六關頭目戰</p></td>
-</tr>
-<tr class="even">
-<td><p>14</p></td>
-<td></td>
-<td><p>夜空幽浮戀曲</p></td>
-<td><p>Extra道中</p></td>
-</tr>
-<tr class="odd">
-<td><p>15</p></td>
-<td></td>
-<td><p>平安時代的外星人</p></td>
-<td><p>Extra頭目戰</p></td>
-</tr>
-<tr class="even">
-<td><p>16</p></td>
-<td></td>
-<td><p>妖怪寺</p></td>
-<td><p>結局</p></td>
-</tr>
-<tr class="odd">
-<td><p>17</p></td>
-<td></td>
-<td><p>天空上的歸途　〜 Sky Dream</p></td>
-<td><p>製作群名單</p></td>
-</tr>
-<tr class="even">
-<td><p>18</p></td>
-<td></td>
-<td><p>Player's Score</p></td>
-<td><p>分數登錄畫面<br />
-重新收錄自<a href="https://zh.wikipedia.org/wiki/東方風神錄" title="wikilink">東方風神錄</a></p></td>
-</tr>
-</tbody>
-</table>
+2017年，一位韩国学生编写了一款名为“Rensenware”的[勒索软件](https://zh.wikipedia.org/wiki/勒索软件 "wikilink")。该勒索软件会加密用户电脑硬盘内的文件，但是并不向受害者索要钱财，而是要求用户在星莲船中以Lunatic难度获得2亿或更高的分数。作者表示开发此病毒纯粹是为了开玩笑，并没有想到病毒会广泛传播。作者还表示自己也曾意外感染过病毒，但是他自己并没能在游戏中拿过2亿分。在成功追踪到作者身份之后，他立刻编写了解密程序并上传到了[GitHub](../Page/GitHub.md "wikilink")中。\[1\]
 
 ## 注脚
 
@@ -651,3 +531,5 @@ Extra頭目，這次UFO事件的幕後黑手。
   - [東方星蓮船 官方網頁](http://www16.big.or.jp/~zun/html/th12top.html)
 
 [Category:2009年电子游戏](https://zh.wikipedia.org/wiki/Category:2009年电子游戏 "wikilink") [Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink") [Category:佛教題材作品](https://zh.wikipedia.org/wiki/Category:佛教題材作品 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:長條目名](https://zh.wikipedia.org/wiki/Category:長條目名 "wikilink") [Category:女主人公電子遊戲](https://zh.wikipedia.org/wiki/Category:女主人公電子遊戲 "wikilink") [Category:捲軸射擊遊戲](https://zh.wikipedia.org/wiki/Category:捲軸射擊遊戲 "wikilink")
+
+1.

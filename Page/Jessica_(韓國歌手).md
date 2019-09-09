@@ -1,4 +1,4 @@
-| 音樂類型 = [K-pop](../Page/韓國流行音樂.md "wikilink")、[J-pop](../Page/日本流行音樂.md "wikilink")、[Hip-Hop](../Page/嘻哈.md "wikilink")、[Electronica](https://zh.wikipedia.org/wiki/Electronica "wikilink") | 出身地 = （少女時代）
+| 音樂類型 = [K-pop](../Page/韓國流行音樂.md "wikilink")、[J-pop](../Page/日本流行音樂.md "wikilink")、[Hip-Hop](../Page/嘻哈.md "wikilink")、[Electronica](../Page/Electronica.md "wikilink") | 出身地 = （少女時代）
 （個人） | 出道作 = [少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")：《[Into The New World](../Page/再次重逢的世界.md "wikilink")》
 個人： 《[With Love, J](../Page/With_Love,_J.md "wikilink")》 | 出道日期 = [少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")：
 個人： | 活躍年代 = 2007年至今 | 唱片公司 = [SM娛樂](../Page/SM娛樂.md "wikilink")（2007年至2015年）

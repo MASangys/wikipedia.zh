@@ -26,6 +26,8 @@
 
   - [RIDDLE JOKER](../Page/RIDDLE_JOKER.md "wikilink")（2018年3月30日發售）
 
+  - （2019年12月20日發售）
+
 ## 工作人員
 
 代表、音樂

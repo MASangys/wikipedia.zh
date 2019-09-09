@@ -29,7 +29,7 @@ GA文库出版了相當多原創作品。創刊一年來，主力作品只有《
   - [襲來！美少女邪神](../Page/襲來！美少女邪神.md "wikilink")（[逢空萬太](https://zh.wikipedia.org/wiki/逢空萬太 "wikilink")／[狐印](https://zh.wikipedia.org/wiki/狐印 "wikilink")）
   - [妹妹x殺手x宅配便](../Page/妹妹x殺手x宅配便.md "wikilink")（[九邊健二](https://zh.wikipedia.org/wiki/九邊健二 "wikilink")／[鶴崎貴大](../Page/鶴崎貴大.md "wikilink")）
   - [深山家的蓓兒汀](https://zh.wikipedia.org/wiki/深山家的蓓兒汀 "wikilink")（逢空萬太／[七](https://zh.wikipedia.org/wiki/七 "wikilink")）
-  - [我女友與青梅竹馬的慘烈修羅場](../Page/我女友與青梅竹馬的慘烈修羅場.md "wikilink")（[裕時悠示](https://zh.wikipedia.org/wiki/裕時悠示 "wikilink")／[るろお](https://zh.wikipedia.org/wiki/るろお "wikilink")）
+  - [我女友與青梅竹馬的慘烈修羅場](../Page/我女友與青梅竹馬的慘烈修羅場.md "wikilink")（[裕時悠示](https://zh.wikipedia.org/wiki/裕時悠示 "wikilink")／[LLO](https://zh.wikipedia.org/wiki/LLO "wikilink")）
   - [農林](../Page/農林.md "wikilink")（[白鳥士郎](../Page/白鳥士郎.md "wikilink")／[切符](../Page/切符.md "wikilink")）
   - [舞星灑落的雷涅席庫爾](https://zh.wikipedia.org/wiki/舞星灑落的雷涅席庫爾 "wikilink")（[裕時悠示](https://zh.wikipedia.org/wiki/裕時悠示 "wikilink")／[たかやKi](https://zh.wikipedia.org/wiki/たかやKi "wikilink")）
   - [你的侍奉只有這種程度嗎?](https://zh.wikipedia.org/wiki/你的侍奉只有這種程度嗎? "wikilink")（[森田季節](../Page/森田季節.md "wikilink")／[尾崎弘宜](https://zh.wikipedia.org/wiki/尾崎弘宜 "wikilink")）

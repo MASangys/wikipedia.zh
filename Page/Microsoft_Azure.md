@@ -1,4 +1,4 @@
-**Microsoft Azure** 是[微軟的公用雲端服務](https://zh.wikipedia.org/wiki/微軟 "wikilink") (Public Cloud Service) 平台，是微軟線上服務 (Microsoft Online Services) 的一部份，自 2008 年開始發展，2010年2月份正式推出，目前全球有54座資料中心以及44個CDN跳躍點 (POP)，並且於2015年時被 Gartner 列為雲端運算的領先者\[1\]。
+**Microsoft Azure** 是[微軟的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[公用雲端服務](https://zh.wikipedia.org/wiki/公用雲 "wikilink") (Public Cloud Service) 平台，是微軟線上服務 (Microsoft Online Services) 的一部份，自 2008 年開始發展，2010年2月份正式推出，目前全球有54座資料中心以及44個CDN跳躍點 (POP)，並且於2015年時被 Gartner 列為雲端運算的領先者\[1\]。
 
 目前 Microsoft Azure 已包含 30 餘種服務，數百項功能，並且為微軟帶來了12億美元的獲利 (2015年度) \[2\]。
 
@@ -271,7 +271,7 @@ Microsoft Azure 在早期只能使用 Web-based 管理工具存取，在 2012 �
 ## 外部連結
 
   - [Microsoft Azure](http://azure.com)
-  - [Microsoft Azure Blog](https://web.archive.org/web/20150812153506/http://blog.azure.com/)
+  - [Microsoft Azure Blog](https://azure.microsoft.com/en-us/blog/)
 
 [Category:微軟](https://zh.wikipedia.org/wiki/Category:微軟 "wikilink") [Category:Microsoft_Windows](https://zh.wikipedia.org/wiki/Category:Microsoft_Windows "wikilink") [Category:Microsoft_Azure](https://zh.wikipedia.org/wiki/Category:Microsoft_Azure "wikilink")
 

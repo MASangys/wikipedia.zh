@@ -61,6 +61,6 @@
 ### 歌曲《落花流水》
 
   - [2006年度勁歌金曲優秀選](../Page/勁歌金曲優秀選.md "wikilink") - 第二回金曲
-  - 2006年度[CASH金帆音樂獎](https://zh.wikipedia.org/wiki/CASH金帆音樂獎 "wikilink") - 最佳男歌手演繹獎（流行音樂）
+  - 2006年度[CASH金帆音樂獎](../Page/CASH金帆音樂獎.md "wikilink") - 最佳男歌手演繹獎（流行音樂）
 
 [Category:陳奕迅音樂專輯](https://zh.wikipedia.org/wiki/Category:陳奕迅音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")

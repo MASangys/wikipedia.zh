@@ -25,7 +25,7 @@
 </tr>
 <tr class="even">
 <td><p><span style="color:#{{NYCS color|red}}"><strong>北行</strong></span></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-1.svg" title="fig:纽约地铁1号线">纽约地铁1号线</a> 往<a href="https://zh.wikipedia.org/wiki/范科特蘭公園-242街車站_(IRT百老匯-第七大道線)" title="wikilink">范科特蘭公園-242街</a>（深夜時<a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-2.svg" title="fig:纽约地铁2号线">纽约地铁2号线</a> 往<a href="https://zh.wikipedia.org/wiki/威克菲爾德-241街車站_(IRT白原路線)" title="wikilink">241街</a>）<small>（<a href="https://zh.wikipedia.org/wiki/103街車站_(IRT百老匯-第七大道線)" title="wikilink">103街</a>）</small></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-1.svg" title="fig:纽约地铁1号线">纽约地铁1号线</a> 往<a href="https://zh.wikipedia.org/wiki/范科特蘭公園-242街車站" title="wikilink">范科特蘭公園-242街</a>（深夜時<a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-2.svg" title="fig:纽约地铁2号线">纽约地铁2号线</a> 往<a href="https://zh.wikipedia.org/wiki/威克菲爾德-241街車站" title="wikilink">241街</a>）<small>（<a href="https://zh.wikipedia.org/wiki/103街車站_(IRT百老匯-第七大道線)" title="wikilink">103街</a>）</small></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -35,14 +35,14 @@
 </tr>
 <tr class="even">
 <td><p><span style="color:#{{NYCS color|red}}"><strong>北行快速</strong></span></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-2.svg" title="fig:纽约地铁2号线">纽约地铁2号线</a> 往<a href="https://zh.wikipedia.org/wiki/威克菲爾德-241街車站_(IRT白原路線)" title="wikilink">威克菲爾德-241街</a><small>（<a href="https://zh.wikipedia.org/wiki/中央公園北-110街車站_(IRT萊諾克斯大道線)" title="wikilink">110街</a>）</small><br />
-<a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-3.svg" title="fig:纽约地铁3号线">纽约地铁3号线</a> 往<a href="https://zh.wikipedia.org/wiki/哈萊姆-148街車站_(IRT萊諾克斯大道線)" title="wikilink">哈萊姆-148街</a><small>（110街）</small></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-2.svg" title="fig:纽约地铁2号线">纽约地铁2号线</a> 往<a href="https://zh.wikipedia.org/wiki/威克菲爾德-241街車站" title="wikilink">威克菲爾德-241街</a><small>（<a href="https://zh.wikipedia.org/wiki/中央公園北-110街車站" title="wikilink">110街</a>）</small><br />
+<a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-3.svg" title="fig:纽约地铁3号线">纽约地铁3号线</a> 往<a href="https://zh.wikipedia.org/wiki/哈萊姆-148街車站" title="wikilink">哈萊姆-148街</a><small>（110街）</small></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><span style="color:#{{NYCS color|red}}"><strong>南行快速</strong></span></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-2.svg" title="fig:纽约地铁2号线">纽约地铁2号线</a> 往<a href="https://zh.wikipedia.org/wiki/夫拉特布殊大道-布魯克林學院車站_(IRT諾斯特蘭大道線)" title="wikilink">夫拉特布殊大道</a><small>（<a href="https://zh.wikipedia.org/wiki/72街車站_(IRT百老匯-第七大道線)" title="wikilink">72街</a>）</small><br />
-<a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-3.svg" title="fig:纽约地铁3号线">纽约地铁3号线</a> 往<a href="https://zh.wikipedia.org/wiki/新地段大道車站_(IRT新地段線)" title="wikilink">新地段大道</a>（深夜時往<a href="https://zh.wikipedia.org/wiki/時報廣場-42街車站_(IRT百老匯-第七大道線)" title="wikilink">時報廣場-42街</a>）<small>（72街）</small></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-2.svg" title="fig:纽约地铁2号线">纽约地铁2号线</a> 往<a href="https://zh.wikipedia.org/wiki/夫拉特布什大道-布魯克林學院車站" title="wikilink">夫拉特布殊大道</a><small>（<a href="https://zh.wikipedia.org/wiki/72街車站_(IRT百老匯-第七大道線)" title="wikilink">72街</a>）</small><br />
+<a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-3.svg" title="fig:纽约地铁3号线">纽约地铁3号线</a> 往<a href="https://zh.wikipedia.org/wiki/新地段大道車站_(IRT新地段線)" title="wikilink">新地段大道</a>（深夜時往<a href="../Page/時報廣場-42街／航港局客運總站車站.md" title="wikilink">時報廣場-42街</a>）<small>（72街）</small></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -52,7 +52,7 @@
 </tr>
 <tr class="odd">
 <td><p><span style="color:#{{NYCS color|red}}"><strong>南行</strong></span></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-1.svg" title="fig:纽约地铁1号线">纽约地铁1号线</a> 往<a href="https://zh.wikipedia.org/wiki/南碼頭車站_(IRT百老匯-第七大道線)" title="wikilink">南碼頭</a>（深夜時<a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-2.svg" title="fig:纽约地铁2号线">纽约地铁2号线</a> 往夫拉特布殊大道）<small>（<a href="https://zh.wikipedia.org/wiki/86街車站_(IRT百老匯-第七大道線)" title="wikilink">86街</a>）</small></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-1.svg" title="fig:纽约地铁1号线">纽约地铁1号线</a> 往<a href="https://zh.wikipedia.org/wiki/南碼頭／白廳街車站" title="wikilink">南碼頭</a>（深夜時<a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-2.svg" title="fig:纽约地铁2号线">纽约地铁2号线</a> 往夫拉特布什大道）<small>（<a href="https://zh.wikipedia.org/wiki/86街車站_(IRT百老匯-第七大道線)" title="wikilink">86街</a>）</small></p></td>
 <td></td>
 </tr>
 <tr class="even">

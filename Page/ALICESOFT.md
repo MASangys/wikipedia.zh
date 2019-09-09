@@ -73,7 +73,7 @@ ALICESOFT於2003年提出自由散佈宣言，至今已經包括了28款遊戲�
 <li>2013年9月27日 Rance 01 -尋找小光- （重製版）</li>
 <li>2014年4月25日 Rance IX -黑爾曼革命-</li>
 <li>2015年8月28日 Rance 03 -里薩斯陷落- （重製版）</li>
-<li>2018年2月23日 Rance X -決戰-</li>
+<li>2018年2月23日 <a href="https://zh.wikipedia.org/wiki/Rance_X_-決戰-" title="wikilink">Rance X -決戰-</a></li>
 </ul></li>
 </ul>
 <ul>

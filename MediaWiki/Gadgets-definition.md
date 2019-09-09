@@ -51,7 +51,7 @@
   - OSMMap\[ResourceLoader|dependencies=ext.gadget.site-lib,ext.gadget.MoveResizeAbsolute|type=general\]|OSMMap.js|OSMMap.css
   - FixedTopBottomLink\[ResourceLoader|dependencies=ext.gadget.site-lib,jquery.cookie,jquery.ui.dialog|default|type=general\]|FixedTopBottomLinkLeftSide.js|FixedTopBottomLinkLeftSide.css
   - confirm-logout\[ResourceLoader\]|confirm-logout.js
-  - shortURL\[ResourceLoader|dependencies=mediawiki.util,oojs-ui|default|type=general\]|shortURL.js
+  - shortURL\[ResourceLoader|dependencies=ext.gadget.site-lib,mediawiki.util,oojs-ui-windows,mediawiki.widgets,mediawiki.ForeignApi|default|type=general\]|shortURL.js
 
 ## appear
 

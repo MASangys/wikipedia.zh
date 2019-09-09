@@ -16,7 +16,7 @@ Super A'Can的失败原因有几点。首先其本身机能虽可以媲美超級
 
 ### CPU
 
-  - [摩托罗拉68000](https://zh.wikipedia.org/wiki/摩托罗拉68000 "wikilink")10.6Mhz
+  - [摩托罗拉68000](../Page/摩托罗拉68000.md "wikilink")10.6Mhz
   - [MOS 6502](../Page/MOS_6502.md "wikilink") 3.58Mhz
 
 ### 記憶體

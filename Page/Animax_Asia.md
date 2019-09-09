@@ -145,7 +145,7 @@ Animax香港開台時，可愛動畫區塊到後來於星期一至五日間時�
 
 2006年5月，[now寬頻電視提供最多四種語言廣播](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")（粵語、日語、英語及國語），不過[香港有線電視](../Page/香港有線電視.md "wikilink")及SuperSun新電視則一直未有更改；直到現時為止，仍然有不少透過[香港有線電視](../Page/香港有線電視.md "wikilink")之訂戶在Animax香港網頁之討論區投訴。
 
-2019年7月1日，經[myTV Super播放的Animax香港提供兩種語言廣播](https://zh.wikipedia.org/wiki/myTV_Super "wikilink")（日語及國語）而宣傳片統一為英語，惹來透過[myTV Super之訂戶在Facebook專頁杯葛](https://zh.wikipedia.org/wiki/myTV_Super "wikilink")，經[Now TV播放的Animax香港仍提供最多四種語言廣播](../Page/Now_TV.md "wikilink")（粵語、日語、英語及國語）。
+2019年7月1日，經[myTV Super播放的Animax香港提供兩種語言廣播](https://zh.wikipedia.org/wiki/myTV_Super "wikilink")（日語及國語）而宣傳片統一為英語，惹來透過[myTV Super之訂戶在Facebook專頁杯葛](https://zh.wikipedia.org/wiki/myTV_Super "wikilink")。
 
 ### now寬頻電視插播宣傳片事件
 

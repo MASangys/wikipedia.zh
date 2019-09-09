@@ -31,7 +31,7 @@
 | 2013年9月18日  | 發行第五張專輯《[MY.遊樂園](../Page/MY.遊樂園.md "wikilink")》                                                     |
 | 2015年8月7日   | 發行第六張專輯《[Cat and Mouse](../Page/Cat_and_Mouse.md "wikilink")》                                       |
 | 2017年3月3日   | 發行首張混音專輯《[愛又愛](../Page/愛又愛.md "wikilink")》                                                          |
-| 2019年       | 參加中國選秀節目《[明日之子水晶時代](https://zh.wikipedia.org/wiki/明日之子水晶時代 "wikilink")》                             |
+| 2019年       | 參加中國選秀節目《[明日之子水晶時代](https://zh.wikipedia.org/wiki/明日之子水晶時代 "wikilink")》，最終獲得第三名                     |
 |             |                                                                                                     |
 
 ## 音樂作品
@@ -1188,6 +1188,12 @@ Yumi</p></td>
 <td style="text-align: left;"><p><strong>2016年</strong></p></td>
 <td style="text-align: left;"><ul>
 <li>2016年度<a href="https://zh.wikipedia.org/wiki/酷音樂亞洲盛典" title="wikilink">酷音樂亞洲盛典</a> - 年度校園人氣歌手</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><p><strong>2019年</strong></p></td>
+<td style="text-align: left;"><ul>
+<li><a href="https://zh.wikipedia.org/wiki/明日之子水晶時代" title="wikilink">明日之子水晶時代</a> - 第三名</li>
 </ul></td>
 </tr>
 </tbody>

@@ -1,4 +1,4 @@
-**REC7**是一款[M16突擊步槍](../Page/M16突擊步槍.md "wikilink")/[M4卡賓槍](../Page/M4卡賓槍.md "wikilink")的升级设计，由[巴雷特生产](https://zh.wikipedia.org/wiki/巴雷特 "wikilink")，该厂因其产品[M82与](../Page/巴雷特M82狙擊步槍.md "wikilink")[M107](https://zh.wikipedia.org/wiki/巴雷特M82狙擊步槍#M82到M107 "wikilink") [.50](https://zh.wikipedia.org/wiki/.50BMG "wikilink")[反器材步枪而著名](https://zh.wikipedia.org/wiki/反器材步枪 "wikilink")。其軍用型M468的代号的含义是，本枪为200**4**年研发，采用**6.8**mm口径。
+**REC7**是一款[AR-15的升级设计](../Page/AR-15自動步槍.md "wikilink")，由[巴雷特生产](https://zh.wikipedia.org/wiki/巴雷特 "wikilink")。其軍用型為M468，意指本枪为200**4**年研发，采用**6**.**8**mm口径。
 
 ## 概览
 
@@ -8,18 +8,59 @@ REC7為民用型運動步槍，分為兩種構型：採用短行程活塞的REC7
 
 M468使用了新的[6.8毫米雷明顿SPC](https://zh.wikipedia.org/wiki/6.8毫米雷明顿SPC "wikilink")（6.8 × 43mm）弹药，它的长度和美军正在使用的5.56mm弹药相当，因此可以直接套用美军现有的[STANAG彈匣](../Page/STANAG彈匣.md "wikilink")。6.8mm SPC弹拥有超过5.56mm NATO弹50%以上的[停止作用和更远的有效射程](https://zh.wikipedia.org/wiki/停止作用 "wikilink")，[槍口初速要比](https://zh.wikipedia.org/wiki/槍口初速 "wikilink")5.56mm弹的稍低，但是其[枪口动能可以达到](https://zh.wikipedia.org/wiki/枪口动能 "wikilink")5.56mm NATO弹的1.5倍。在使用16英寸（约合406mm）长的枪管时，6.8mm SPC弹在600m距离上的速度仍有808m/s。正如大多数AR-15枪族步枪及其变种枪，M468的枪口被纫过以适合于安装[消音器一类的枪口附件](https://zh.wikipedia.org/wiki/消音器 "wikilink")。M468采用了[ARMS公司生产的SIR护木](https://zh.wikipedia.org/wiki/ARMS公司 "wikilink")，可以安装诸如[两脚架](https://zh.wikipedia.org/wiki/两脚架 "wikilink")、[夜视仪和光学瞄准鏡等配件](https://zh.wikipedia.org/wiki/夜视仪 "wikilink")。另外SIR还包括了一个折叠式的[机械瞄具](https://zh.wikipedia.org/wiki/机械瞄具 "wikilink")。
 
+## 設計及規格
+
+### REC7
+
+REC7步槍為短行程活塞設計，其活塞為一體式設計，而可調節導氣座上方設有一段[皮卡汀尼導軌](../Page/皮卡汀尼導軌.md "wikilink")，可供安裝機械瞄具等附件。護木則由最初的Daniel Defense Omega X 9.0改為自行生產的[M-LOK](../Page/M-LOK.md "wikilink")護木。配件方面則大量采用第三方生產的配件，如握把及槍托為[馬格普的產品](../Page/馬格普工業公司.md "wikilink")，而槍機拉柄及快慢機選擇鈕則選用[Radian的產品](../Page/Radian_Weapons.md "wikilink")。扳機方面則選用ALG Defense或Geissele的產品。\[1\]
+
+### REC7 DI
+
+REC7 DI為REC7的直接導氣式版本，其導氣座後方設有定位凸點，並於前方由一螺母鎖緊。此設計方便用家拆下導氣座作清潔或檢查。其餘配置則與REC7相似，分別為REC7采用[馬格普的MBUS](../Page/馬格普工業公司.md "wikilink") PRO金屬機械瞄具及Geissele SSA扳機，而REC7 DI則采用[馬格普的MBUS聚合物機械瞄具及ALG](../Page/馬格普工業公司.md "wikilink") Defense QMS扳機。\[2\]
+
+| 型號      | 口徑                                                                             | 長度                                                                   | 槍管長度   | 重量    |
+| ------- | ------------------------------------------------------------------------------ | -------------------------------------------------------------------- | ------ | ----- |
+| **公釐**  | **英寸**                                                                         | **公釐**                                                               | **英寸** | 公斤    |
+| REC7    | 卡賓型                                                                            | [5.56×45mm NATO或](../Page/5.56×45mm_NATO.md "wikilink")6.8mm SPC     | 845    | 33.25 |
+| 精確射手型   | [5.56×45mm NATO](../Page/5.56×45mm_NATO.md "wikilink")                         | 976                                                                  | 38.3   | 457   |
+| 輕量型     | [5.56×45mm NATO](../Page/5.56×45mm_NATO.md "wikilink")                         | 876                                                                  | 34.5   | 406   |
+| 短管步槍型   | [5.56×45mm NATO](../Page/5.56×45mm_NATO.md "wikilink")                         | 657                                                                  | 25.9   | 292   |
+| REC7 DI | 短管步槍型                                                                          | [5.56×45mm NATO或](../Page/5.56×45mm_NATO.md "wikilink").300 Blackout | 768    | 30.25 |
+| 卡賓型     | [5.56×45mm NATO](../Page/5.56×45mm_NATO.md "wikilink")、.300 Blackout或6.8mm SPC | 914                                                                  | 36     | 406   |
+| 手槍型     | [5.56×45mm NATO](../Page/5.56×45mm_NATO.md "wikilink")                         | 667                                                                  | 26.25  | 260   |
+
+REC7規格列表\[3\]
+
+## 衍生型
+
+### REC10
+
+REC10為REC7 DI使用[7.62 × 51 NATO的版本](../Page/7.62×51mm_NATO.md "wikilink")，為可雙邊操作的型號，僅有16寸槍管的版本。\[4\]
+
 ## 使用國
 
-  - －被[行動應變及機動組](../Page/行動應變及機動組.md "wikilink")所採用。
-
-  - \- 被[美國特種作戰司令部所採用](https://zh.wikipedia.org/wiki/美國特種作戰司令部 "wikilink")。
+  -   - [行動應變及機動組](../Page/行動應變及機動組.md "wikilink")
 
 ## 相關條目
 
   - [HK416突擊步槍](../Page/HK416突擊步槍.md "wikilink")
+
+## 資料來源
+
+<references />
+
+## 延伸閱讀
+
+[REC7分解圖](https://barrett.net/assets/files/products/REC7/Model-REC7-Exploded-View.pdf)
+[REC7 DI分解圖](https://barrett.net/pdf/products/REC7DI/REC7DI-explodedview.pdf)
 
 ## 外部链接
 
   - —[巴雷特REC7](http://www.barrettrifles.com/rifle_rec7.aspx)
 
 [Category:自動步槍](https://zh.wikipedia.org/wiki/Category:自動步槍 "wikilink") [Category:突擊步槍](https://zh.wikipedia.org/wiki/Category:突擊步槍 "wikilink") [Category:6.8×43毫米雷明登SPC枪械](https://zh.wikipedia.org/wiki/Category:6.8×43毫米雷明登SPC枪械 "wikilink") [Category:美國步槍](https://zh.wikipedia.org/wiki/Category:美國步槍 "wikilink") [Category:巴雷特槍械](https://zh.wikipedia.org/wiki/Category:巴雷特槍械 "wikilink")
+
+1.   REC7|url=[https://barrett.net/firearms/rec7|accessdate=2019-08-30|author=|date=|format=|work=barrett.net|publisher=|language=](https://barrett.net/firearms/rec7%7Caccessdate=2019-08-30%7Cauthor=%7Cdate=%7Cformat=%7Cwork=barrett.net%7Cpublisher=%7Clanguage=)}}
+2.   REC7 DI|url=[https://barrett.net/firearms/rec7di|accessdate=2019-08-30|author=|date=|format=|work=barrett.net|publisher=|language=](https://barrett.net/firearms/rec7di%7Caccessdate=2019-08-30%7Cauthor=%7Cdate=%7Cformat=%7Cwork=barrett.net%7Cpublisher=%7Clanguage=)}}
+3.
+4.   REC10|url=[https://barrett.net/firearms/rec10|accessdate=2019-08-30|author=|date=|format=|work=barrett.net|publisher=|language=](https://barrett.net/firearms/rec10%7Caccessdate=2019-08-30%7Cauthor=%7Cdate=%7Cformat=%7Cwork=barrett.net%7Cpublisher=%7Clanguage=)}}

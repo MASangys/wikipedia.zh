@@ -211,7 +211,7 @@
   - 1945年：《X戰警：金鋼狼》金鋼狼跟哥哥從軍中（[第二次世界大戰](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")），金鋼狼在[長崎原子彈爆炸中拯救日本軍官矢志田市朗](https://zh.wikipedia.org/wiki/長崎原子彈爆炸 "wikilink")
   - 1962年：《X戰警：第一戰》青年萬磁王跟X教授尋找變種人（初遇金鋼狼）、[CIA成立X部門](https://zh.wikipedia.org/wiki/CIA "wikilink")（Division X）、[古巴導彈危機](https://zh.wikipedia.org/wiki/古巴導彈危機 "wikilink")
   - 1973年：《[X戰警：未來昔日](https://zh.wikipedia.org/wiki/X戰警：未來昔日 "wikilink")》魔形女追殺崔斯克時被捕獲，被提取出能夠自由變形的變種基因。
-  - 1975年：《X戰警：金鋼狼》金鋼狼跟哥哥從軍中（[越戰](https://zh.wikipedia.org/wiki/越戰 "wikilink")），後被史崔克少校接觸勸說加入了特殊部隊X（Team X）。
+  - 1975年：《X戰警：金鋼狼》金鋼狼跟哥哥從軍中（[越戰](https://zh.wikipedia.org/wiki/越戰 "wikilink")），兩人後被史崔克少校勸說加入了特殊部隊X（Team X）。
   - 1986年：《X戰警：金鋼狼》金鋼狼被史崔克少校植入亞德曼金屬，X教授拯救年輕的變種人。
   - 2000年：《[X戰警](../Page/X戰警_\(電影\).md "wikilink")》金鋼狼加入X戰警。
   - 2003年：《[X戰警2](../Page/X戰警2.md "wikilink")》金鋼狼重遇史崔克上校。

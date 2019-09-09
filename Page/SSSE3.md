@@ -46,7 +46,7 @@ SSSE3包含了16個新的不同於SSE3的指令。每一個都能夠運作於64�
   - [SSE4](../Page/SSE4.md "wikilink")
   - [SSE4A](https://zh.wikipedia.org/wiki/SSE4A "wikilink")
   - [SSE5](https://zh.wikipedia.org/wiki/SSE5 "wikilink")
-  - [AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")
+  - [AVX](../Page/AVX指令集.md "wikilink")
   - [FMA](https://zh.wikipedia.org/wiki/熔合乘法累积 "wikilink")
   - [SIMD](https://zh.wikipedia.org/wiki/SIMD "wikilink")
   - [3DNow\! Professional](../Page/3DNow!.md "wikilink")

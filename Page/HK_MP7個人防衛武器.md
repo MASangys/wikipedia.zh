@@ -2,7 +2,7 @@
 
 ## 歷史
 
-1989年4月，[北約組織提出在](https://zh.wikipedia.org/wiki/北約 "wikilink")2000年後需要個人防衛武器的提案。正當[比利時的FN公司研發](https://zh.wikipedia.org/wiki/比利時 "wikilink")[FN P90衝鋒槍作為其個人防衛武器](../Page/FN_P90衝鋒槍.md "wikilink")，[德國的HK公司除了將](https://zh.wikipedia.org/wiki/德國 "wikilink")[MP5K改良](../Page/HK_MP5冲锋枪.md "wikilink")，推出MP5K PDW之外，同時並研發新的無殼彈手槍作為新的個人防衛武器方案，完成了[G11 PDW無殼彈手槍](../Page/HK_G11突擊步槍.md "wikilink")，不過並沒有正式量產，這計畫最後也取消。
+1989年4月，[北約組織提出在](https://zh.wikipedia.org/wiki/北約 "wikilink")2000年後需要個人防衛武器的提案。正當[比利時的FN公司研發](https://zh.wikipedia.org/wiki/比利時 "wikilink")[FN P90衝鋒槍作為其個人防衛武器之時](../Page/FN_P90衝鋒槍.md "wikilink")，[德國的HK公司除了將](https://zh.wikipedia.org/wiki/德國 "wikilink")[MP5K改良](../Page/HK_MP5冲锋枪.md "wikilink")，推出MP5K PDW之外，還提出新的無殼彈手槍作為新的個人防衛武器方案，完成了[G11 PDW無殼彈手槍的開發](../Page/HK_G11突擊步槍.md "wikilink")，不過並沒有正式量產，此計劃最終被取消。
 
 直到1993年，英國皇家軍械公司（Royal Ordnance-RO）開始與剛被購入不久的HK公司展開一項新的PDW武器計劃，由RO負責研發新型彈藥，HK公司則負責研發新槍。2001年時，HK公司終於正式發表了全新的武器，HK公司一開始並沒有給它正式名稱，只稱為PDW，直到正式量產時才有了自己的名字，稱為MP7。
 

@@ -1,4 +1,4 @@
-[Mountain_of_Faith.jpg](https://zh.wikipedia.org/wiki/File:Mountain_of_Faith.jpg "fig:Mountain_of_Faith.jpg") 是由[同人社團](https://zh.wikipedia.org/wiki/同人社團 "wikilink")[上海愛麗絲幻樂團製作的](https://zh.wikipedia.org/wiki/上海愛麗絲幻樂團 "wikilink")[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")，是[東方Project的第](https://zh.wikipedia.org/wiki/東方Project "wikilink")10作，也是[Windows平台上的第五作](https://zh.wikipedia.org/wiki/Windows "wikilink")。本作的開發情報最初於2006年9月15日在作者的[網誌](../Page/網誌.md "wikilink")「博麗幻想書譜」上公開\[1\]，並表明會在2007年夏季發售\[2\]。本作的體驗版在2007年5月20日於第4回「[博麗神社例大祭](https://zh.wikipedia.org/wiki/博麗神社例大祭 "wikilink")」發售，並於7月27日開放網上下載。最後本作在8月17日於[Comic Market](../Page/Comic_Market.md "wikilink") 72正式發售，而在各[同人商店的](https://zh.wikipedia.org/wiki/同人商店 "wikilink")[委託販賣則在下個月的](https://zh.wikipedia.org/wiki/委託販賣 "wikilink")9月21日開始。
+[Mountain_of_Faith.jpg](https://zh.wikipedia.org/wiki/File:Mountain_of_Faith.jpg "fig:Mountain_of_Faith.jpg") 是由[同人社團](https://zh.wikipedia.org/wiki/同人社團 "wikilink")[上海愛麗絲幻樂團](../Page/上海愛麗絲幻樂團.md "wikilink")製作的[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")，是[東方Project的第](https://zh.wikipedia.org/wiki/東方Project "wikilink")10作，也是[Windows平台上的第五作](https://zh.wikipedia.org/wiki/Windows "wikilink")。本作的開發情報最初於2006年9月15日在作者的[網誌](../Page/網誌.md "wikilink")「博麗幻想書譜」上公開\[1\]，並表明會在2007年夏季發售\[2\]。本作的體驗版在2007年5月20日於第4回「[博麗神社例大祭](https://zh.wikipedia.org/wiki/博麗神社例大祭 "wikilink")」發售，並於7月27日開放網上下載。最後本作在8月17日於[Comic Market](../Page/Comic_Market.md "wikilink") 72正式發售，而在各[同人商店的](https://zh.wikipedia.org/wiki/同人商店 "wikilink")[委託販賣則在下個月的](https://zh.wikipedia.org/wiki/委託販賣 "wikilink")9月21日開始。
 
 ## 遊戲系統
 
@@ -74,6 +74,79 @@ Extra關的劇情發生在神奈子被打敗之後。主角聽說守矢神社似
 
   - 洩矢諏訪子（，Moriya Suwako）
     Extra關卡頭目，在守矢神社被供奉著的青蛙姿態的神明，也是在妖怪之山裡的八百萬神明的領導者，其原型為[信濃地區](https://zh.wikipedia.org/wiki/信濃國 "wikilink")（現今[長野縣](https://zh.wikipedia.org/wiki/長野縣 "wikilink")）的作祟神「諏訪明神」。在遊戲中，她遇到在探尋守矢神社內部樣子而到訪的靈夢及魔理沙，以「神的遊戲」的名義，與二人進行了彈幕比試。
+
+## 關卡流程
+
+<table>
+<thead>
+<tr class="header">
+<th><p>關卡</p></th>
+<th><p>關卡主題名稱</p></th>
+<th><p>中文譯名</p></th>
+<th><p>地點</p></th>
+<th><p>中頭目</p></th>
+<th><p>頭目</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>第一關</p></td>
+<td></td>
+<td><p>八百萬的秋之神</p></td>
+<td><p>妖怪之山的山腳（）</p></td>
+<td><p>秋 靜葉</p></td>
+<td><p>秋 穰子</p></td>
+</tr>
+<tr class="even">
+<td><p>第二關</p></td>
+<td></td>
+<td><p>萬神的疵痕</p></td>
+<td><p>妖怪的樹海（）</p></td>
+<td><p>鍵山 雛</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第三關</p></td>
+<td></td>
+<td><p>無瑕的要塞</p></td>
+<td><p>杳無人跡的溪谷（）</p></td>
+<td><p>河城 荷取</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>第四關</p></td>
+<td></td>
+<td><p>要塞之山</p></td>
+<td><p>九天瀑布（）</p></td>
+<td><p>犬走 椛</p></td>
+<td><p>射命丸 文</p></td>
+</tr>
+<tr class="odd">
+<td><p>第五關</p></td>
+<td></td>
+<td><p>靈山吹拂著風</p></td>
+<td><p>守矢神社（）</p></td>
+<td><p>東風谷 早苗</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>最終關</p></td>
+<td></td>
+<td><p>啊　風之神啊　立在神湖之地吧</p></td>
+<td><p>風神之湖（）</p></td>
+<td><p>-</p></td>
+<td><p>八坂 神奈子</p></td>
+</tr>
+<tr class="odd">
+<td><p>Extra</p></td>
+<td></td>
+<td><p>愉快的日本神明</p></td>
+<td><p>守矢神社正殿（）</p></td>
+<td><p>八坂 神奈子</p></td>
+<td><p>洩矢 諏訪子</p></td>
+</tr>
+</tbody>
+</table>
 
 ## 開發
 

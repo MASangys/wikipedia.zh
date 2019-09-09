@@ -1,4 +1,4 @@
-C++程序设计允许[程序员](../Page/程序员.md "wikilink")使用**类**（class）定义特定程序中的[数据类型](https://zh.wikipedia.org/wiki/数据类型 "wikilink")。这些数据类型的实例被称为[对象](https://zh.wikipedia.org/wiki/对象 "wikilink")，这些实例可以包含程序员定义的成员[变量](https://zh.wikipedia.org/wiki/变量 "wikilink")、[常量](https://zh.wikipedia.org/wiki/常量 "wikilink")、[成员函数](../Page/方法_\(電腦科學\).md "wikilink")，以及[重载的运算符](../Page/运算符重载.md "wikilink")。语法上，類似[C中结构体](https://zh.wikipedia.org/wiki/C程序设计语言 "wikilink")（struct）的扩展，结构体不能包含函数以及重载的运算符。
+C++程序设计允许[程序员](../Page/程序员.md "wikilink")使用**类**（class）定义特定程序中的[数据类型](https://zh.wikipedia.org/wiki/数据类型 "wikilink")。这些数据类型的实例被称为[对象](https://zh.wikipedia.org/wiki/对象 "wikilink")，这些实例可以包含程序员定义的成员[变量](https://zh.wikipedia.org/wiki/变量 "wikilink")、[常量](https://zh.wikipedia.org/wiki/常量 "wikilink")、[成员函数](../Page/方法_\(電腦科學\).md "wikilink")，以及[重载的运算符](../Page/运算符重载.md "wikilink")。语法上，類似[C中结构体](https://zh.wikipedia.org/wiki/C程序设计语言 "wikilink")（struct）的扩展，C中结构体不能包含函数以及重载的运算符。
 
 ## C 结构体与C++ 类的对比
 

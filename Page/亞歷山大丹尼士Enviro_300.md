@@ -18,7 +18,7 @@ Stagecoach於2011年開始接收首50輛Scania K230UB/Enviro 300。
 
 ## 停產
 
-最後一輛Enviro 300於2015年底交付予Stagecoach。Enviro 300底盤被全長11.5米或11.8米的Enviro 200 MMC取代。
+最後一輛Enviro 300於2015年底交付予[捷達集團](../Page/捷達集團.md "wikilink")。Enviro 300底盤被全長11.5米或11.8米的Enviro 200 MMC取代。
 
 ## 參見
 

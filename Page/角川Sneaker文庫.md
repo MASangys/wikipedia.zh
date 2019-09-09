@@ -42,7 +42,7 @@
   - [R-15](../Page/R-15.md "wikilink")（/[藤真拓哉](../Page/藤真拓哉.md "wikilink")）
   - [問題兒童都來自異世界？](../Page/問題兒童都來自異世界？.md "wikilink")（[龍之湖太郎](../Page/龍之湖太郎.md "wikilink")/）
   - [夏日大作戰 of OZ](../Page/夏日大作戰.md "wikilink")Crisis（/）
-  - [殭屍少女的災難](https://zh.wikipedia.org/wiki/殭屍少女的災難 "wikilink")（[池端亮](https://zh.wikipedia.org/wiki/池端亮 "wikilink")／[蔓木鋼音](../Page/蔓木鋼音.md "wikilink")）
+  - [殭屍少女的災難](../Page/殭屍少女的災難.md "wikilink")（[池端亮](https://zh.wikipedia.org/wiki/池端亮 "wikilink")／[蔓木鋼音](../Page/蔓木鋼音.md "wikilink")）
   - [我的腦內戀礙選項](../Page/我的腦內戀礙選項.md "wikilink")（／）
   - [新妹魔王的契約者](https://zh.wikipedia.org/wiki/新妹魔王的契約者 "wikilink")（[上栖綴人](https://zh.wikipedia.org/wiki/上栖綴人 "wikilink")／[大熊貓介](https://zh.wikipedia.org/wiki/大熊貓介 "wikilink")）
   - [迷幻魔域](../Page/迷幻魔域.md "wikilink")（[久慈政宗](../Page/久慈政宗.md "wikilink")／）

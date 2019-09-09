@@ -24,8 +24,6 @@
 
 ## 卡片種類
 
-[2009_7-11_icash_with_PFG-1103_face.jpg](https://zh.wikipedia.org/wiki/File:2009_7-11_icash_with_PFG-1103_face.jpg "fig:2009_7-11_icash_with_PFG-1103_face.jpg")[鄭和軍艦訂製的icash客製卡](../Page/成功級巡防艦.md "wikilink")\]\]
-
 | 種類       | 記名         | 首次購買價格            | 感應方式                                                                                                                           | 備註                       |
 | -------- | ---------- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------ |
 | icash    | 可申請記名\[7\] | NT$100（空卡）        | 接觸式                                                                                                                            | 停售，並於2019年1月1日零時起全面停止使用。 |
@@ -117,6 +115,8 @@ icash損壞後可向愛金卡公司申請換卡，需掛號郵寄至愛金卡客
   - [聖德科斯生機食品](https://zh.wikipedia.org/wiki/聖德科斯生機食品 "wikilink")
   - [布萊恩紅茶](https://zh.wikipedia.org/wiki/布萊恩紅茶 "wikilink")
   - [麥當勞](https://zh.wikipedia.org/wiki/麥當勞 "wikilink")
+  - [漢堡王](../Page/漢堡王.md "wikilink")
+  - [達美樂](https://zh.wikipedia.org/wiki/達美樂 "wikilink")
 
 #### 交通運輸
 

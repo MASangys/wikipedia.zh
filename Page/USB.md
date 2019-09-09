@@ -883,11 +883,11 @@ USB 1.1：1998年9月发布。
         在启用与待机间增加新的电源模式。当设备处于这个模式时不向其发送指令以减少电源消耗。所以，在启用及睡眠模式间切换要比在启用及待机模式间切换快得多。
       - High-Speed Inter-Chip USB Electrical Specification Revision 1.0：2007年9月发布。
 
-### USB 3.0（USB 3.1 Gen1）
+### USB 3.0（USB 3.1 Gen1）（USB 3.2 Gen1）
 
 [SuperSpeed_USB.svg](https://zh.wikipedia.org/wiki/File:SuperSpeed_USB.svg "fig:SuperSpeed_USB.svg")  USB 3.0於2008年11月發布，速度由480Mbps大幅提升到5Gbps。USB 3.0插座通常是藍色的，並向下兼容USB 2.0。
 
-### USB 3.1（USB 3.1 Gen2）
+### USB 3.1（USB 3.1 Gen2）（USB 3.2 Gen2）
 
 [Certified_SuperSpeed_Plus_USB_Logo.svg](https://zh.wikipedia.org/wiki/File:Certified_SuperSpeed_Plus_USB_Logo.svg "fig:Certified_SuperSpeed_Plus_USB_Logo.svg")  USB3.0推廣小組於2013年7月31日宣佈USB 3.1規格\[21\]，傳輸速度提升為10Gb/s，比USB3.0的5Gb/s快上一倍，並向下兼容USB 2.0/1.0，如果要得到10Gb/s的傳輸速度仍需在主機、目標端同時具備對應的晶片才能達成，電力供應可高達100瓦。\[22\]
 

@@ -178,6 +178,7 @@
       - Geiz：明光院月津
       - WOZ：沃茲
       - WOZ：白沃茲
+      - Tsukuyomi：月讀/阿爾匹娜
 
 ## 對戰卡（Ride Card）
 
@@ -1133,7 +1134,7 @@ Diend為[英文諧音的](https://zh.wikipedia.org/wiki/英文 "wikilink")「The
 
 而侍戰隊的世界則是主角等等演員全部相同的世界，與侍戰隊真劍者作連動。
 
-### 登場世界
+### 登場世界及續作登場世界
 
   - 夏海世界
 

@@ -40,7 +40,7 @@ LGBT權利的[人權論述在](https://zh.wikipedia.org/wiki/人權 "wikilink")1
 
 截至2019年2月，有24個國家承认同性婚姻并赋予其LGBT公民上述列表的全部或大多数权利，2個[聯邦制國家](https://zh.wikipedia.org/wiki/聯邦制 "wikilink")則是部份[政治實體承認](https://zh.wikipedia.org/wiki/政治實體 "wikilink")，其中大多数国家位于[美洲](../Page/美洲.md "wikilink")和[西欧](../Page/西欧.md "wikilink")\[5\]。
 
-69个国家和4个地方實體的司法机构有对同性性行為處罰的法律，其中大部分国家位于[亚洲](../Page/亚洲.md "wikilink")和[非洲](../Page/非洲.md "wikilink")\[6\]。[立陶宛](https://zh.wikipedia.org/wiki/立陶宛 "wikilink")、[俄羅斯](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")、[波蘭](https://zh.wikipedia.org/wiki/波蘭 "wikilink")、[伊拉克](../Page/伊拉克.md "wikilink")和等國制定了限制LGBT言論自由的法案\[7\]。
+69个国家和4个地方實體的司法机构有对同性性行為處罰的法律，其中大部分国家位于[亚洲](../Page/亚洲.md "wikilink")和[非洲](../Page/非洲.md "wikilink")\[6\]。[立陶宛](https://zh.wikipedia.org/wiki/立陶宛 "wikilink")、[俄羅斯](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")、[波蘭](https://zh.wikipedia.org/wiki/波蘭 "wikilink")、[伊拉克](../Page/伊拉克.md "wikilink")等國制定了限制LGBT言論自由的法案\[7\]。
 
 ## 歷史上的同性戀法律
 

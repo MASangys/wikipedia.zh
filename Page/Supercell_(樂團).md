@@ -58,11 +58,11 @@ ryo為電視動畫《[罪惡王冠](../Page/罪惡王冠.md "wikilink")》寫了
 
 ### 2017年至今：突破、重新出發
 
-Supercell的歌一向由Ryo作詞、作曲、編曲，即使Tia和Egoist的歌，甚至KOTOKO的《Light My Fire》也是。這是Ryo一向的作風。
+Supercell的歌基本一向由Ryo作詞、作曲、編曲，即使Tia和Egoist的歌，甚至KOTOKO的《Light My Fire》也是。這是Ryo一向的作風。
 
 然而，2017年7月，Ryo和小林武史共同擔任桐嶋ノドカ的音樂製作人，为真人電影《爪先の宇宙》提供主題曲，是Ryo首次和其他人合作負責製作。
 
-2017年11月29日，前主唱こゑだ推出《モンシロチョウ》，其中作詞作曲更皆是こゑだ負責，編曲則由ryo及二村学二人負責，是Ryo首次為非自己作詞、作曲的歌編曲及與其他人一同編曲。
+2017年11月29日，前主唱こゑだ推出《モンシロチョウ》，其中作詞作曲皆是こゑだ負責，編曲則由ryo及二村学二人負責。
 
 2017年12月24日，Ryo以「ryo (supercell) × やなぎなぎ」的名義在niconico及Youtube推出《メルト 10th ANNIVESARY MIX》，找了前主唱やなぎなぎ重新錄製及作出修改，并首次公開給人下載声軌及近萬字的十年回想《atogaki》\[65\]，並在文中表示感谢やなぎなぎ的參與及希望能再和合作。
 
@@ -214,11 +214,11 @@ CD+DVD：SRCL-8812 ～ SRCL-8813</p></td>
 <td><p>10th</p></td>
 <td><p>2019年9月11日予定</p></td>
 <td><p><strong>#Love</strong></p></td>
-<td><p>完全生産限定盤：SRCL-11270 ～ SRCL-11272<br />
-初回生産限定盤A：SRCL-11273 ～ SRCL-11275<br />
-初回生産限定盤B：SRCL-11276 ～ SRCL-11278</p></td>
+<td><p>完全生産限定盤（CD+Blu-ray）：SRCL-11270 ～ SRCL-11272<br />
+初回生産限定盤A（CD+Blu-ray）：SRCL-11273 ～ SRCL-11275<br />
+初回生産限定盤B（CD+DVD）：SRCL-11276 ～ SRCL-11278</p></td>
 <td><p>SRCL-11279</p></td>
-<td><p>未知</p></td>
+<td><p>Ann及gaku</p></td>
 </tr>
 </tbody>
 </table>

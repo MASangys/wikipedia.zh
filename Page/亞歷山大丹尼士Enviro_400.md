@@ -42,7 +42,7 @@ Enviro 400MMC的外形有所改變，整部巴士比配歐盟五型/EEV引擎的
 
 ### 城巴
 
-[CTB260.jpg](https://zh.wikipedia.org/wiki/File:CTB260.jpg "fig:CTB260.jpg") 由於香港於1980年代中期修訂了車輛的車軸重量限制，此後香港大部分新引進的雙層巴士都為了分散軸重而採用三軸設計。因應[城巴](../Page/城巴.md "wikilink")的[利蘭奧林比安](https://zh.wikipedia.org/wiki/利蘭奧林比安 "wikilink")208-220、226、228-235車齡開始接近17年，以及[城巴](../Page/城巴.md "wikilink")的[富豪奧林比安](https://zh.wikipedia.org/wiki/富豪奧林比安 "wikilink")239-248及[丹尼士巨龍](https://zh.wikipedia.org/wiki/丹尼士巨龍 "wikilink")702-712、714-720車齡開始接近16年，九巴和城巴於2009年分別訂購一輛及兩輛配備[歐盟五期規格引擎的亞歷山大丹尼士Enviro](https://zh.wikipedia.org/wiki/歐盟五期 "wikilink") 400雙層空調巴士進行營運測試。Enviro 400空調巴士是香港自1980－83年九巴試驗[丹尼士喝采型和](https://zh.wikipedia.org/wiki/丹尼士喝采型 "wikilink")[利蘭勝利二型](../Page/利蘭勝利二型.md "wikilink")空調巴士（改為非空調後編號為N364及G544），以及1988－91年城巴的利蘭奧林比安兩軸雙層空調巴士（編號為C101，車牌為EB1030）後，再次引進兩軸的雙層空調巴士，也是自1989年以來再次有全新兩軸雙層巴士到港。兩輛Enviro 400雙層巴士於2009年11月22日抵達香港，並停泊於元朗錦田的永凱車場。
+[CTB260.jpg](https://zh.wikipedia.org/wiki/File:CTB260.jpg "fig:CTB260.jpg") 由於香港於1980年代中期修訂了車輛的車軸重量限制，此後香港大部分新引進的雙層巴士都為了分散軸重而採用三軸設計。因應[城巴](../Page/城巴.md "wikilink")的[利蘭奧林比安](https://zh.wikipedia.org/wiki/利蘭奧林比安 "wikilink")208-220、226、228-235車齡開始接近17年，以及[城巴](../Page/城巴.md "wikilink")的[富豪奧林比安](https://zh.wikipedia.org/wiki/富豪奧林比安 "wikilink")239-248及[丹尼士巨龍](https://zh.wikipedia.org/wiki/丹尼士巨龍 "wikilink")702-712、714-720車齡開始接近16年，九巴和城巴於2009年分別訂購一輛及兩輛配備[歐盟五期規格引擎的亞歷山大丹尼士Enviro](https://zh.wikipedia.org/wiki/歐盟五期 "wikilink") 400雙層空調巴士進行營運測試。Enviro 400空調巴士是香港自1980－83年九巴試驗[丹尼士喝采型](../Page/丹尼士喝采型.md "wikilink")和[利蘭勝利二型](../Page/利蘭勝利二型.md "wikilink")空調巴士（改為非空調後編號為N364及G544），以及1988－91年城巴的利蘭奧林比安兩軸雙層空調巴士（編號為C101，車牌為EB1030）後，再次引進兩軸的雙層空調巴士，也是自1989年以來再次有全新兩軸雙層巴士到港。兩輛Enviro 400雙層巴士於2009年11月22日抵達香港，並停泊於元朗錦田的永凱車場。
 
 城巴引入Enviro 400的背景不同於[新巴當年特別引進](https://zh.wikipedia.org/wiki/新巴 "wikilink")[丹尼士三叉戟10.3米行駛山頂路線](../Page/丹尼士三叉戟三型.md "wikilink")，這間巴士公司購買Enviro 400的原因，除了用於取代年事已高的短身三軸雙層巴士外，同時也期盼能夠減少營運成本。由於香港主要收費道路及行車隧道都會根據車輛的車軸數量增收路費，所以兩軸巴士可節省按軸數支付的費用。兩軸巴士可用於迂迴曲折的郊區路線外，也可以用於乘客量較低，但單層巴士又不足以應付的路線。
 
@@ -52,7 +52,7 @@ Enviro 400MMC的外形有所改變，整部巴士比配歐盟五型/EEV引擎的
 
 ### 九龍巴士
 
-[606_atse_3.jpg](https://zh.wikipedia.org/wiki/File:606_atse_3.jpg "fig:606_atse_3.jpg") 因應[九巴的](https://zh.wikipedia.org/wiki/九巴 "wikilink")[丹尼士巨龍ADS](https://zh.wikipedia.org/wiki/丹尼士巨龍 "wikilink")1-ADS30車齡開始接近17年，九巴於2009年分別訂購一輛及兩輛配備[歐盟五期規格引擎的亞歷山大丹尼士Enviro](https://zh.wikipedia.org/wiki/歐盟五期 "wikilink") 400雙層空調巴士進行營運測試。Enviro 400空調巴士是香港自1980－83年九巴試驗[丹尼士喝采型和](https://zh.wikipedia.org/wiki/丹尼士喝采型 "wikilink")[利蘭勝利二型](../Page/利蘭勝利二型.md "wikilink")空調巴士（改為非空調後編號為N364及G544），再次引進兩軸的雙層空調巴士，也是自1989年以來再次有全新兩軸雙層巴士到港。一輛Enviro 400雙層巴士於2009年11月22日抵達香港，並停泊於元朗錦田的永凱車場。
+[606_atse_3.jpg](https://zh.wikipedia.org/wiki/File:606_atse_3.jpg "fig:606_atse_3.jpg") 因應[九巴的](https://zh.wikipedia.org/wiki/九巴 "wikilink")[丹尼士巨龍ADS](https://zh.wikipedia.org/wiki/丹尼士巨龍 "wikilink")1-ADS30車齡開始接近17年，九巴於2009年分別訂購一輛及兩輛配備[歐盟五期規格引擎的亞歷山大丹尼士Enviro](https://zh.wikipedia.org/wiki/歐盟五期 "wikilink") 400雙層空調巴士進行營運測試。Enviro 400空調巴士是香港自1980－83年九巴試驗[丹尼士喝采型](../Page/丹尼士喝采型.md "wikilink")和[利蘭勝利二型](../Page/利蘭勝利二型.md "wikilink")空調巴士（改為非空調後編號為N364及G544），再次引進兩軸的雙層空調巴士，也是自1989年以來再次有全新兩軸雙層巴士到港。一輛Enviro 400雙層巴士於2009年11月22日抵達香港，並停泊於元朗錦田的永凱車場。
 
 2009年12月7日，九龍巴士接收首輛Enviro 400樣板車，原設的樹擋在出牌前已被拆除，該輛Enviro 400樣辦車於2010年1月18日出牌並入籍九龍灣車廠，車牌號碼為PC 4053，車隊編號定為ATSE1。該車於2010年2月9日出現於尖沙咀拍攝新一期《九巴年報》，並於2010年2月17日首航[606線](../Page/過海隧道巴士606線.md "wikilink")。\[1\]
 

@@ -155,8 +155,8 @@ USB 3.2是2017年7月25日USB開發者論壇（USB Implementers Forum）宣佈�
 | ------------------- | ----------- | --------- | --------- | ----------------- |
 | **USB 3.2 Gen 1×1** | SuperSpeed  | 5 Gbit/s  | 8b/10b    | 與USB 3.1 Gen 1相同  |
 | **USB 3.2 Gen 1×2** | SuperSpeed+ | 10 Gbit/s | 8b/10b    | 雙通道模式，需要USB 3.2電纜 |
-| **USB 3.2 Gen 2×1** | SuperSpeed+ | 10 Gbit/s | 128b/130b | 與USB 3.1 Gen 2相同  |
-| **USB 3.2 Gen 2×2** | SuperSpeed+ | 20 Gbit/s | 128b/130b | 雙通道模式，需要USB 3.2電纜 |
+| **USB 3.2 Gen 2×1** | SuperSpeed+ | 10 Gbit/s | 128b/132b | 與USB 3.1 Gen 2相同  |
+| **USB 3.2 Gen 2×2** | SuperSpeed+ | 20 Gbit/s | 128b/132b | 雙通道模式，需要USB 3.2電纜 |
 
 ### 規格與USB 3.1比較
 

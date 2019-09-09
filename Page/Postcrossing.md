@@ -2305,6 +2305,7 @@ Postcrossing網站提供了一個官方的[論壇](https://zh.wikipedia.org/wiki
 [Category:網站](https://zh.wikipedia.org/wiki/Category:網站 "wikilink") [Category:網路文化](https://zh.wikipedia.org/wiki/Category:網路文化 "wikilink") [Category:社交網路服務](https://zh.wikipedia.org/wiki/Category:社交網路服務 "wikilink") [Category:郵政](https://zh.wikipedia.org/wiki/Category:郵政 "wikilink") [Category:集郵](https://zh.wikipedia.org/wiki/Category:集郵 "wikilink")
 
 1.
+
 2.
 
 3.

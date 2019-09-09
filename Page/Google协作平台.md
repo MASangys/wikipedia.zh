@@ -31,7 +31,7 @@ Google协作平台除了基本的网页以外还支持列表式网页，同时�
 ## 參見
 
   - [Google产品列表](../Page/Google产品列表.md "wikilink")
-  - [Google App Engine](https://zh.wikipedia.org/wiki/Google_App_Engine "wikilink")
+  - [Google App Engine](../Page/Google_App_Engine.md "wikilink")
   - [APSoft DownFreeware WEB](https://zh.wikipedia.org/wiki/APSoft_DownFreeware_WEB "wikilink")
 
 ## 參考文獻

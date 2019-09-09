@@ -316,7 +316,9 @@ LR：41.01千牛（9,220磅）</p></td>
 
 ## 空難事故
 
-  - 2004年11月21日，[中國東方航空](https://zh.wikipedia.org/wiki/中國東方航空 "wikilink")[5210號班機使用CRJ](../Page/中國東方航空5210號班機空難.md "wikilink")-200執行飛行任務，在[包頭機場起飛後不久墜毀在機場附近公園的湖中](https://zh.wikipedia.org/wiki/包頭機場 "wikilink")，機上55人全部罹難，同時導致地面2人死亡；事後[中國民用航空總局下令停飛同型號飛機](https://zh.wikipedia.org/wiki/中國民用航空總局 "wikilink")，一個月後批准複飛。该空难事故原因官方说法是由于尾翼结霜未清理，导致飞机失速，无法控制
+  - 2004年11月21日，[中國東方航空](https://zh.wikipedia.org/wiki/中國東方航空 "wikilink")\[\[中國東方航空5210號班機空難|5210號班機\]執行飛行任務，在[包頭機場起飛後不久墜毀在機場附近公園的湖中](https://zh.wikipedia.org/wiki/包頭機場 "wikilink")，機上55人全部罹難，同時導致地面2人死亡；事後[中國民用航空總局下令停飛同型號飛機](https://zh.wikipedia.org/wiki/中國民用航空總局 "wikilink")，一個月後批准複飛。该空难事故原因官方说法是由于尾翼结霜未清理，导致飞机失速，无法控制
+
+尖峰航空3701班機空難 尖峰航空3701班機使用CRJ-200執行調度，因飛行員罕見的不專業行為而墜毀。
 
 ## 参考文献
 
@@ -324,7 +326,7 @@ LR：41.01千牛（9,220磅）</p></td>
 
   - [龐巴迪宇航公司CRJ主頁](http://www.crj.bombardier.com/CRJ/en/home.jsp)
 
-[Category:支线客机](https://zh.wikipedia.org/wiki/Category:支线客机 "wikilink") [Category:加拿大航空器](https://zh.wikipedia.org/wiki/Category:加拿大航空器 "wikilink")
+[Category:支线客机](https://zh.wikipedia.org/wiki/Category:支线客机 "wikilink") [Category:庞巴迪宇航公司飞机](https://zh.wikipedia.org/wiki/Category:庞巴迪宇航公司飞机 "wikilink")
 
 1.  [空客预测未来20年中国内地需要3000多架飞机](http://news.eastday.com/c/20070214/u1a2630794.html)
 

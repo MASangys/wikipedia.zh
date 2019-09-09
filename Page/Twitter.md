@@ -342,7 +342,7 @@ Twitter自己开发了一个名为t.co的[网址缩短服务](https://zh.wikiped
 
 目前中国大陆地区无法直接登录Twitter，可通过[突破网络审查](../Page/突破网络审查.md "wikilink")的相关方法访问Twitter官网。
 
-尽管Twitter遭到防火长城的封锁，包括中国中央电视台在内的许多中国媒体在Twitter上开通了官方账号，并定期发推。
+尽管Twitter遭到防火长城的封锁，但包括[中国中央电视台](../Page/中国中央电视台.md "wikilink")、[人民日报](../Page/人民日报.md "wikilink")在内的许多中国媒体在Twitter上开通了官方账号。
 
 ### 对封锁的反制
 

@@ -1,4 +1,4 @@
-**OpenDNS** 是一个免费的域名解析服务提供商（[DNS](https://zh.wikipedia.org/wiki/DNS "wikilink")）。
+**OpenDNS** 是一个免费的域名解析服务提供商（[DNS](https://zh.wikipedia.org/wiki/DNS "wikilink")），並具備[反釣魚](https://zh.wikipedia.org/wiki/反釣魚 "wikilink")、[内容控制软件等功能](https://zh.wikipedia.org/wiki/内容控制软件 "wikilink")。
 
 ## 发展历史
 

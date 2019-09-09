@@ -41,7 +41,7 @@
 
   - [光速蒙面俠21](../Page/光速蒙面俠21.md "wikilink") 前往聖誕盃的道路～南島的特訓！YA-HA-\!～
   - [BLEACH](../Page/BLEACH.md "wikilink") The sealed sword frenzy
-  - [银魂](https://zh.wikipedia.org/wiki/银魂 "wikilink")～就算沒喝醉也要裝成酩酊大醉好讓上司有面子～
+  - [银魂](../Page/银魂.md "wikilink")～就算沒喝醉也要裝成酩酊大醉好讓上司有面子～
 
 **2008年** 9月21日-11月23日
 
@@ -51,7 +51,7 @@
   - [七龙珠](../Page/七龙珠.md "wikilink") 好！歸來的孫悟空與同伴們\!\!
   - [藍龍](../Page/藍龍.md "wikilink")
   - [信蜂](../Page/信蜂.md "wikilink")～光與青的幻想夜話～
-  - 劇場版[银魂預告](https://zh.wikipedia.org/wiki/银魂 "wikilink")～白夜叉降誕～
+  - 劇場版[银魂](../Page/银魂.md "wikilink")預告～白夜叉降誕～
   - [ONE PIECE ROMANCE DAWN STORY](../Page/ONE_PIECE_ROMANCE_DAWN_STORY.md "wikilink")
 
 **2009年** 10月12日-11月29日

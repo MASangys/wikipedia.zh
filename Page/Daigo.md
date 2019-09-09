@@ -2,13 +2,13 @@
 
 ## 簡歷
 
-1978年，[東京都](../Page/東京都.md "wikilink")誕生。3歲到小學3年級的夏天為止在[千葉縣](../Page/千葉縣.md "wikilink")[市川市](../Page/市川市.md "wikilink")長大，外公就任[總理大臣時跟著再次搬回東京都](https://zh.wikipedia.org/wiki/總理大臣 "wikilink")\[2\]。中學3年級時、聽到哥哥持有的[BOØWY的](https://zh.wikipedia.org/wiki/BOØWY "wikilink")[CD](../Page/CD.md "wikilink")以後開始對音樂感到興趣\[3\]。跟朋友一起去唱歌時，是唱的最好的，於是開始朝著成為主唱的目標邁進。除此之外也深受為現在所屬的[唱片公司](../Page/唱片公司.md "wikilink")・[Being的前輩](https://zh.wikipedia.org/wiki/Being "wikilink")[B'z](../Page/B'z.md "wikilink")的影響\[4\]。在正式出道前在[SIAM SHADE的後輩樂團](https://zh.wikipedia.org/wiki/SIAM_SHADE "wikilink")[JZEIL裡擔任主唱](https://zh.wikipedia.org/wiki/JZEIL "wikilink")。在各式各樣的[視覺系樂團活動中](https://zh.wikipedia.org/wiki/視覺系樂團 "wikilink")，金髮、艷麗的化妝及性感的裝束便是他當時的標記。當時亦曾與前Due'le quartz的雅（現為[雅-miyavi-](../Page/雅-miyavi-.md "wikilink")）及前DAS:VASSER的響兵等等音樂人在音樂上有過交流。在此以後，亦繼續地下音樂活動，於偶然間音樂影像有幸被[冰室京介](../Page/冰室京介.md "wikilink")看到，後來冰室京介便向Daigo提出為Daigo製作出道歌曲《MARIA》。在2003年7月21日，當時25歳的Daigo便以「DAIGO☆STARDUST」的名義正式出道。
+1978年，[東京都](../Page/東京都.md "wikilink")誕生。3歲到小學3年級的夏天為止在[千葉縣](../Page/千葉縣.md "wikilink")[市川市](../Page/市川市.md "wikilink")長大，外公就任[總理大臣時跟著再次搬回東京都](https://zh.wikipedia.org/wiki/總理大臣 "wikilink")\[2\]。中學3年級時、聽到哥哥持有的[BOØWY的](https://zh.wikipedia.org/wiki/BOØWY "wikilink")[CD](../Page/CD.md "wikilink")以後開始對音樂感到興趣\[3\]。跟朋友一起去唱歌時，是唱的最好的，於是開始朝著成為主唱的目標邁進。除此之外也深受為現在所屬的[唱片公司](../Page/唱片公司.md "wikilink")——[Being的前輩](https://zh.wikipedia.org/wiki/Being "wikilink")[B'z](../Page/B'z.md "wikilink")的影響\[4\]。在正式出道前在[SIAM SHADE的後輩樂團](https://zh.wikipedia.org/wiki/SIAM_SHADE "wikilink")[JZEIL裡擔任主唱](https://zh.wikipedia.org/wiki/JZEIL "wikilink")。在各式各樣的[視覺系樂團活動中](https://zh.wikipedia.org/wiki/視覺系樂團 "wikilink")，金髮、艷麗的化妝及性感的裝束便是他當時的標記。當時亦曾與前Due'le quartz的雅（現為[雅-miyavi-](../Page/雅-miyavi-.md "wikilink")）及前DAS:VASSER的響兵等等音樂人在音樂上有過交流。在此以後，亦繼續地下音樂活動，於偶然間音樂影像有幸被[冰室京介](../Page/冰室京介.md "wikilink")看到，後來冰室京介便向Daigo提出為Daigo製作出道歌曲《MARIA》。在2003年7月21日，當時25歳的Daigo便以「DAIGO☆STARDUST」的名義正式出道。
 
 2013年4月，[BREAKERZ](../Page/BREAKERZ.md "wikilink")成員單飛活動開始。7月12日以DAIGO☆STARDUST的名義舉辦睽違10年的復活演唱會。原本預定只是一夜限定的復活演唱會，但因為反應非常熱烈，所以在7月26日於[涉谷公會堂舉辦追加公演](https://zh.wikipedia.org/wiki/涉谷公會堂 "wikilink")，並在復活演唱會上宣布DAIGO☆STARDUST和DAIGO合體。以DAIGO的名義在2013年7月31日發行第一張單曲（Oricon排行榜首周第8名）。
 
 ## 人物
 
-身高178公分、體重55公斤、[血型AB型](https://zh.wikipedia.org/wiki/血型 "wikilink")。在玉川學園完成初中及高中課程後，入讀玉川大學的文學部，主修音樂，惟中途退學。在2003年以[DAIGO☆STARDUST身份展開個人活動](https://zh.wikipedia.org/wiki/DAIGO☆STARDUST "wikilink")，及後加入了BREAKERZ便改名為DAIGO再次活躍於音樂界。代表招牌手勢「WISH」近年更在日本青少年間流行起來。
+在玉川學園完成初中及高中課程後，入讀玉川大學的文學部，主修音樂，惟中途退學。在2003年以[DAIGO☆STARDUST身份展開個人活動](https://zh.wikipedia.org/wiki/DAIGO☆STARDUST "wikilink")，及後加入了BREAKERZ便改名為DAIGO再次活躍於音樂界。代表招牌手勢「WISH」近年更在日本青少年間流行起來。
 
 除作為音樂人之外，DAIGO近年亦活躍於戲劇圈，並於2009年1月連續劇《[Love Shuffle](../Page/Love_Shuffle.md "wikilink")》中擔任重要角色，亦參與《[名偵探柯南 漆黑的追跡者](https://zh.wikipedia.org/wiki/名偵探柯南_漆黑的追跡者 "wikilink")》電影配音。
 
@@ -84,6 +84,8 @@
 
   - DAIGO TV（2009年4月8日）
   - BS富士「カンニングのDAI安☆吉日\!」Presents DAI☆GO\!GO\! DVD（2013年9月20日）
+
+### BREAKERZ
 
 ## 出演
 
@@ -162,7 +164,7 @@
 
   - [DAIGO官方部落格](http://ameblo.jp/daigoblog/)
 
-  - **[BREAKERZ OFFICIAL SITE](http://breakerz-web.net/)**
+  - [BREAKERZ OFFICIAL SITE](http://breakerz-web.net/)
 
   -
   - [A-PLUS官方部落格](http://www.aplus-japan.com/talent/daigo/)
@@ -171,8 +173,7 @@
 
   - [女性のためのポータルサイト『DD』](http://www.dd-magazine.net/200902/02.html) （DVD「DAIGO TV」特集）
 
-  -
-[Category:日本男歌手](https://zh.wikipedia.org/wiki/Category:日本男歌手 "wikilink") [Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink") [Category:日本男性電視藝人](https://zh.wikipedia.org/wiki/Category:日本男性電視藝人 "wikilink") [Category:日本男演員](https://zh.wikipedia.org/wiki/Category:日本男演員 "wikilink") [Category:東京都出身人物](https://zh.wikipedia.org/wiki/Category:東京都出身人物 "wikilink") [Category:玉川大學校友](https://zh.wikipedia.org/wiki/Category:玉川大學校友 "wikilink") [Category:勝利娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:勝利娛樂旗下藝人 "wikilink") [Category:Burning_Production系列所屬藝人](https://zh.wikipedia.org/wiki/Category:Burning_Production系列所屬藝人 "wikilink") [Category:超人力霸王系列主演演員](https://zh.wikipedia.org/wiki/Category:超人力霸王系列主演演員 "wikilink")
+[Category:日本男歌手](https://zh.wikipedia.org/wiki/Category:日本男歌手 "wikilink") [Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink") [Category:日本男性電視藝人](https://zh.wikipedia.org/wiki/Category:日本男性電視藝人 "wikilink") [Category:日本男演員](https://zh.wikipedia.org/wiki/Category:日本男演員 "wikilink") [Category:東京都出身人物](https://zh.wikipedia.org/wiki/Category:東京都出身人物 "wikilink") [Category:玉川大學校友](https://zh.wikipedia.org/wiki/Category:玉川大學校友 "wikilink") [Category:勝利娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:勝利娛樂旗下藝人 "wikilink") [Category:Burning_Production系列所屬藝人](https://zh.wikipedia.org/wiki/Category:Burning_Production系列所屬藝人 "wikilink") [Category:超人力霸王系列主演演員](https://zh.wikipedia.org/wiki/Category:超人力霸王系列主演演員 "wikilink") [Category:Being旗下艺人](https://zh.wikipedia.org/wiki/Category:Being旗下艺人 "wikilink")
 
 1.  [北川景子嫁了 與日本前首相孫DAIGO結婚](http://www.cna.com.tw/news/firstnews/201601115010-1.aspx)，[中央通訊社](../Page/中央通訊社.md "wikilink")，2016年1月11日
 2.  2012年 BREAKERZ 公式書《BREAKERZ CHRONICLE 2007-2012》エンターブレイン

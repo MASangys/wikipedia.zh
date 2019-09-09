@@ -45,6 +45,8 @@ Google文件支援多用户协同工作。文档可以同时被多个用户共�
 
 ## 审查
 
+Google文件在中国大陆处于不稳定状态，時常無法打開頁面。
+
 ## 参见
 
   - [EditGrid](../Page/EditGrid.md "wikilink")

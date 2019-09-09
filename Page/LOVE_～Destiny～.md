@@ -1,6 +1,6 @@
 《**LOVE ～Destiny～**》是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")於1999年4月14日發行8公分規格的第7張單曲。2001年2月28日發行12公分規格。
 
-本作共收錄〈LOVE 〜Destiny〜〉、〈LOVE 〜since1999〜〉兩曲。後者為與[淳君](../Page/淳君.md "wikilink")的合唱，與前者編曲歌詞皆不盡相同。本作發行過後的首周，本作以65萬的銷售量登上公信榜首位，是濱崎步8公分規格單曲中唯一一張冠軍單曲。後收進專輯《[LOVEppears](../Page/LOVEppears.md "wikilink")》則又經過了重新編曲，定名為〈LOVE 〜refrain〜〉。
+本作共收錄〈LOVE 〜Destiny〜〉、〈LOVE 〜since1999〜〉兩曲。後者為與[淳君](../Page/淳君.md "wikilink")的合唱，與前者編曲歌詞皆不盡相同。本作發行過後的首周，本作以65萬的銷售量登上公信榜首位，是濱崎步8公分規格單曲中唯一一張冠軍單曲。後收進專輯《[LOVEppears](../Page/LOVEppears.md "wikilink")》則又經過了重新編曲與重新填詞，定名為〈LOVE 〜refrain〜〉。
 
 ## 收錄歌曲
 

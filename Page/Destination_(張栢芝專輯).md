@@ -15,4 +15,4 @@
 
   - 2000年度勁歌金曲第一季季選—得獎歌曲《目的地》
 
-[Category:張栢芝音樂專輯](https://zh.wikipedia.org/wiki/Category:張栢芝音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:1999年音樂專輯](https://zh.wikipedia.org/wiki/Category:1999年音樂專輯 "wikilink")
+[Category:張栢芝音樂專輯](https://zh.wikipedia.org/wiki/Category:張栢芝音樂專輯 "wikilink") [Category:香港流行音乐专辑](https://zh.wikipedia.org/wiki/Category:香港流行音乐专辑 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:1999年音樂專輯](https://zh.wikipedia.org/wiki/Category:1999年音樂專輯 "wikilink")

@@ -14,6 +14,8 @@ now香港台部分自製節目於2011年2月9日開始陸續遷往「[now 101台
 
 2016年3月19日凌晨1時起，now香港台變更為預覽頻道，而now自選服務同now隨身睇當日起終止播放。
 
+2019年10月1日凌晨12時起，now香港台正式停播。
+
 ## 內容
 
 now香港台是一條與[now寬頻電視其中一條頻道作同步預覽的頻道](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")，以下列表為不同時期的預覽內容。
@@ -244,7 +246,7 @@ now香港台是一條與[now寬頻電視其中一條頻道作同步預覽的頻�
 </tr>
 <tr class="even">
 <td><p>2019年5月1日</p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/美食頻道_(美國)" title="wikilink">Food Network</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -263,6 +265,11 @@ now香港台是一條與[now寬頻電視其中一條頻道作同步預覽的頻�
 <td><p>2</p></td>
 </tr>
 <tr class="even">
+<td><p>2019年9月1日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/tvN_Asia" title="wikilink">tvN</a></p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -305,28 +312,28 @@ now香港台是一條與[now寬頻電視其中一條頻道作同步預覽的頻�
 <td></td>
 </tr>
 <tr class="even">
+<td><p>155</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/tvN_Asia" title="wikilink">tvN</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>209</p></td>
 <td><p><a href="../Page/探索頻道.md" title="wikilink">Discovery Channel</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>510</p></td>
 <td><p><a href="../Page/華納電視頻道.md" title="wikilink">華納電視頻道</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>512</p></td>
 <td><p><a href="../Page/AXN.md" title="wikilink">AXN</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>517</p></td>
 <td><p><a href="../Page/BLUE_ANT_Entertainment.md" title="wikilink">BLUE ANT Entertainment</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>526</p></td>
-<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -449,25 +456,13 @@ now香港台是一條與[now寬頻電視其中一條頻道作同步預覽的頻�
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>526</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/美食頻道_(美國)" title="wikilink">Food Network</a></p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
-
-### 稍後預覽頻道
-
-| 預覽頻道號碼 | 預覽頻道                                          |
-| ------ | --------------------------------------------- |
-| 110    | [HBO](../Page/HBO_Asia.md "wikilink")         |
-| 113    | [Cinemax](../Page/Cinemax.md "wikilink")      |
-| 208    | Discovery Asia                                |
-| 210    | [動物星球頻道](../Page/動物星球頻道.md "wikilink")        |
-| 216    | [國家地理野生頻道](../Page/國家地理野生頻道.md "wikilink")    |
-| 217    | [國家地理悠人頻道](../Page/國家地理悠人頻道.md "wikilink")    |
-| 222    | FYI                                           |
-| 670    | [FOX Sports](../Page/FOX體育台.md "wikilink")    |
-| 671    | [FOX Sports 2](../Page/FOX體育二台.md "wikilink") |
-| 672    | [FOX Sports 3](../Page/FOX體育三台.md "wikilink") |
-| 638    | beIN Sports 1                                 |
-| 639    | beIN Sports 2                                 |
 
 ## 播放途徑
 
@@ -526,7 +521,7 @@ now香港台藝人部自now 101台啟播後已經結束。
   - [now香港台官方網站](http://nowtv.now.com/channel/100)
   - [now香港台-從夢想出發](http://www.youtube.com/watch?v=u3ekTEc6kl0)
 
-[Category:電視頻道](https://zh.wikipedia.org/wiki/Category:電視頻道 "wikilink") [Category:2008年成立的電視台或電視頻道](https://zh.wikipedia.org/wiki/Category:2008年成立的電視台或電視頻道 "wikilink") [Category:香港電視播放頻道](https://zh.wikipedia.org/wiki/Category:香港電視播放頻道 "wikilink") [Category:Now_TV](https://zh.wikipedia.org/wiki/Category:Now_TV "wikilink") [Category:粤语电视频道](https://zh.wikipedia.org/wiki/Category:粤语电视频道 "wikilink")
+[Category:香港電視播放頻道](https://zh.wikipedia.org/wiki/Category:香港電視播放頻道 "wikilink") [Category:Now_TV](https://zh.wikipedia.org/wiki/Category:Now_TV "wikilink") [Category:粤语电视频道](https://zh.wikipedia.org/wiki/Category:粤语电视频道 "wikilink")
 
 1.  [電盈now香港台100頻道將於12月12日啟播](http://hk.biz.yahoo.com/081112/239/34v2m.html)
 2.  [now寬頻電視推出自資製作now香港台](http://www.pccw.com/NASApp/cs/ContentServer?pagename=PCCW/COMMON/newspopup&pageid=1226606423172&pagelang=chi&check=var)

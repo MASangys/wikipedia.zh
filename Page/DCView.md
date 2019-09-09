@@ -1,5 +1,3 @@
-[Dcview_home.jpg](https://zh.wikipedia.org/wiki/File:Dcview_home.jpg "fig:Dcview_home.jpg")
-
 **DCView數位視野網站**是一個以數位影像為主的[台灣網站](https://zh.wikipedia.org/wiki/台灣 "wikilink")，簡稱為**DCView**或**數位視野**，它是[攝影](https://zh.wikipedia.org/wiki/攝影 "wikilink")、[相機](https://zh.wikipedia.org/wiki/相機 "wikilink")、[影像生活等](https://zh.wikipedia.org/wiki/影像生活 "wikilink")[攝影相關議題的綜合論壇](https://zh.wikipedia.org/wiki/攝影 "wikilink")，是華人[攝影界最著名的攝影資訊網站之一](https://zh.wikipedia.org/wiki/攝影 "wikilink")。
 
 DCView數位視野在華人攝影領域中，是流量最大、閱覽率最高的網站。2004年，根據Alexa的統計，DCView 亦是全球排名前二千大的網站。\[2\] 數位影像專業社群網站。以數位影像為軸心，提供數位相機(DC、DSLR)、數位錄影機(DV)、數位電視(LCD TV)、數位投影機(LCD Projector)、攝錄影行動電話、攝影技巧、相關的數位影像軟硬體週邊產品介紹、測試評介。

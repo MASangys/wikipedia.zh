@@ -31,6 +31,10 @@ UNIX时间以5000日为纪念日，第一个5000日是1983年9月10日，第二�
 
 ## 参考文献
 
+## 外部連結
+
+  - [2038年會有什麼大問題? | 一探啾竟 第35集 | 啾啾鞋](https://www.youtube.com/watch?v=NHwbnhRFnuw)
+
 {{-}}
 
 [Category:日历标准](https://zh.wikipedia.org/wiki/Category:日历标准 "wikilink") [Category:网络时间相关软件](https://zh.wikipedia.org/wiki/Category:网络时间相关软件 "wikilink") [Category:时间标准](https://zh.wikipedia.org/wiki/Category:时间标准 "wikilink") [Category:時標](https://zh.wikipedia.org/wiki/Category:時標 "wikilink") [Category:Unix](https://zh.wikipedia.org/wiki/Category:Unix "wikilink")

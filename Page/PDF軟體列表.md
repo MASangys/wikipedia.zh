@@ -47,6 +47,7 @@
   - [PDFtk](https://zh.wikipedia.org/wiki/PDFtk "wikilink")：用于处理、分割、合并、加密和解密PDF文档的自由（[GPLv2](https://zh.wikipedia.org/wiki/GNU_GPL "wikilink")）命令行工具
   - [gv](../Page/Ghostscript.md "wikilink")：Ghostscript的一部份
   - [PDFedit](../Page/PDFedit.md "wikilink")：PDF編輯器
+  - [JPadBookmarks](https://zh.wikipedia.org/wiki/JPadBookmarks "wikilink") : 可添加編輯刪除書籤,這是少有的功能 (開源) GUI工具
 
 ### 查看器
 
@@ -144,6 +145,7 @@
   - [Gaaiho PDF Suite](https://zh.wikipedia.org/wiki/Gaaiho_PDF_Suite "wikilink")：中文名稱為「文電通」，可以批次PDF轉換、編輯、審閱、分割、加密、註解，且支持[OCR](https://zh.wikipedia.org/wiki/OCR "wikilink")
   - [gDoc Fusion](https://zh.wikipedia.org/wiki/Global_Graphics#Information_about_gDoc_Fusion "wikilink")：用以创建、复查、编辑、共享或压缩PDF及XPS文档专有/共享桌面软件。30天后免费版给文档插入水印。
   - [IceCream Split & Merge](https://zh.wikipedia.org/wiki/IceCream_Split_&_Merge "wikilink")：要求多阵列模式以使用户分割及合并PDF文档，包含密码保护及证书加密文件。
+  - [JPadBookmarks](https://zh.wikipedia.org/wiki/JPadBookmarks "wikilink") : 可添加編輯刪除書籤,這是少有的功能 (開源) GUI工具
   - [LibreOffice](https://zh.wikipedia.org/wiki/LibreOffice "wikilink")：用于处理、分割、合并、加密及解密PDF文件的自由（[MPLv2](https://zh.wikipedia.org/wiki/MPL "wikilink")）GUI工具
   - [Nitro PDF Pro](https://zh.wikipedia.org/wiki/Nitro_PDF "wikilink")：专有及商用PDF生成器/编辑器，带有[Microsoft Office的界面风格](../Page/Microsoft_Office.md "wikilink")；复制Adobe Acrobat完整商业版的多数或全部特性；需要单独的免费阅读器（同样支持PDF创建、注释、协作和签名）；不额外要求[Ghostscript](../Page/Ghostscript.md "wikilink")。
   - [PDF Studio](https://zh.wikipedia.org/wiki/PDF_Studio "wikilink")：用于查看和编辑PDF文档的专有软件。

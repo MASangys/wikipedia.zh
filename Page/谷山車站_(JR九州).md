@@ -1,3 +1,5 @@
+[Taniyama_station_barrier.JPG](https://zh.wikipedia.org/wiki/File:Taniyama_station_barrier.JPG "fig:Taniyama_station_barrier.JPG")
+
 **谷山車站**（）是一位於[日本](../Page/日本.md "wikilink")[鹿兒島縣](https://zh.wikipedia.org/wiki/鹿兒島縣 "wikilink")[鹿兒島市谷山中央](https://zh.wikipedia.org/wiki/鹿兒島市 "wikilink")1丁目4127號，[九州旅客鐵道](../Page/九州旅客鐵道.md "wikilink")[指宿枕崎線](../Page/指宿枕崎線.md "wikilink")沿線的[鐵路車站](https://zh.wikipedia.org/wiki/鐵路車站 "wikilink")。
 
 ## 車站結構
@@ -44,6 +46,7 @@
 ## 历史
 
   - 1930年（[昭和](../Page/昭和.md "wikilink")5年）12月7日 - 開業。
+  - 2016年3月26日-新高架化車站開始營運，新站與[慈眼寺站](../Page/慈眼寺站.md "wikilink")的距離也縮短100m。
 
 ## 車站周邊
 
@@ -52,6 +55,32 @@
   - 鹿兒島縣立開陽高等學校
   - 鹿兒島市立谷山中學
   - 鹿兒島市立谷山小學
+
+## 利用状況\[2\]
+
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
 
 ## 相鄰車站
 
@@ -76,3 +105,4 @@
 [Category:日本鐵路車站_Ta](https://zh.wikipedia.org/wiki/Category:日本鐵路車站_Ta "wikilink") [Category:鹿兒島市鐵路車站](https://zh.wikipedia.org/wiki/Category:鹿兒島市鐵路車站 "wikilink") [Category:指宿枕崎線車站](https://zh.wikipedia.org/wiki/Category:指宿枕崎線車站 "wikilink") [Category:1930年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1930年啟用的鐵路車站 "wikilink")
 
 1.
+2.  [駅別乗車人員（2018年度）](http://www.jrkyushu.co.jp/company/info/data/pdf/2018ekibetsu.pdf)

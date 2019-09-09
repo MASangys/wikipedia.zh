@@ -7,7 +7,7 @@
   - 對飛行構成危險的狀況發生（多會是[火箭發射](https://zh.wikipedia.org/wiki/火箭發射 "wikilink")、[飛行表演及](https://zh.wikipedia.org/wiki/飛行表演 "wikilink")[武裝衝突等](https://zh.wikipedia.org/wiki/武裝衝突 "wikilink")）。
   - 因應[元首專機的離開或到達而需要關閉](../Page/行政專機.md "wikilink")[空域](https://zh.wikipedia.org/wiki/空域 "wikilink")。
   - 跑道關閉或者是預定跑道會在一段時間關閉。
-  - 地面導航設施（如：[甚高頻全向信標](https://zh.wikipedia.org/wiki/甚高頻全向信標 "wikilink")（VOR）或[無方向性信標](https://zh.wikipedia.org/wiki/無方向性信標 "wikilink")（NDB））因故障或檢修等而暫停使用。
+  - 地面導航設施（如：[特高頻全向信標定位台](https://zh.wikipedia.org/wiki/特高頻全向信標定位台 "wikilink")（VOR）或[無方向性信標](https://zh.wikipedia.org/wiki/無方向性信標 "wikilink")（NDB））因故障或檢修等而暫停使用。
   - [軍方飛行活動令空域需要關閉](https://zh.wikipedia.org/wiki/軍方 "wikilink")。
   - 高度障礙物（例如[高樓大厦](https://zh.wikipedia.org/wiki/高樓大厦 "wikilink")）的警示燈故障，令飛機可能撞上有關的障礙物。
   - 機場附近有突如其來的障礙物，以[鳥類最常見](https://zh.wikipedia.org/wiki/鳥類 "wikilink")，這類的NOTAM又稱為BirdTam。

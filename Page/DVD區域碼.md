@@ -4,7 +4,7 @@
 
 [DVD播放機與DVD](https://zh.wikipedia.org/wiki/DVD播放機 "wikilink")-Video的區域碼限制，是由[美國八大影業](https://zh.wikipedia.org/wiki/美國 "wikilink")（[華特迪士尼公司](https://zh.wikipedia.org/wiki/華特迪士尼公司 "wikilink")、[索尼影視娛樂](../Page/索尼影視娛樂.md "wikilink")、[派拉蒙電影公司](https://zh.wikipedia.org/wiki/派拉蒙電影公司 "wikilink")、[環球影業](https://zh.wikipedia.org/wiki/環球影業 "wikilink")、[華納兄弟](https://zh.wikipedia.org/wiki/華納兄弟 "wikilink")、[二十世紀福斯](../Page/二十世紀福斯.md "wikilink")、[米高梅](../Page/米高梅.md "wikilink")、[聯美](../Page/聯美.md "wikilink")）制定，將DVD播放機與DVD-Video區分成九個區域碼來製造與發行。
 
-大多數的DVD播放機只會有一個區域碼，大多數的美國八大影業成員發行的DVD-Video只會有一個區域碼。但是，有些DVD-Video會有兩個以上的區域碼（例如第一區至第三區）。另外，有些非美國八大影業成員發行的DVD-Video沒有區域碼。若想用只有一個區域碼的DVD播放機或光驱播放其他區域碼的DVD-Video，則必須透過[破解芯片](../Page/破解芯片.md "wikilink")、软件破解（如VLC播放器）或用[遙控器輸入一些按鍵來解除DVD播放機本身的](https://zh.wikipedia.org/wiki/遙控器 "wikilink")[區域限制](../Page/區域限制.md "wikilink")，也有厂商生产了能播放所有区域DVD的影碟机。DVD[光碟機通常可重設DVD區域碼](https://zh.wikipedia.org/wiki/光碟機 "wikilink")5次，完成第5次後即固定區域碼而無法再重設。
+大多數的DVD播放機只會有一個區域碼，大多數的美國八大影業成員發行的DVD-Video只會有一個區域碼。但是，有些DVD-Video會有兩個以上的區域碼（例如第一區至第三區）。另外，有些非美國八大影業成員發行的DVD-Video沒有區域碼。若想用只有一個區域碼的DVD播放機或光驱播放其他區域碼的DVD-Video，則必須透過[破解芯片](../Page/破解芯片.md "wikilink")、软件破解（如[VLC多媒體播放器](../Page/VLC多媒體播放器.md "wikilink")）或用[遙控器輸入一些按鍵來解除DVD播放機本身的](https://zh.wikipedia.org/wiki/遙控器 "wikilink")[區域限制](../Page/區域限制.md "wikilink")，也有厂商生产了能播放所有区域DVD的影碟机。DVD[光碟機通常可重設DVD區域碼](https://zh.wikipedia.org/wiki/光碟機 "wikilink")5次，完成第5次後即固定區域碼而無法再重設。
 
 ## 區域碼
 
@@ -70,4 +70,4 @@
 
 [de:DVD-Video\#Regionalcode](https://zh.wikipedia.org/wiki/de:DVD-Video#Regionalcode "wikilink") [fi:DVD\#Aluekoodit](https://zh.wikipedia.org/wiki/fi:DVD#Aluekoodit "wikilink") [nl:Dvd\#Regiocode](https://zh.wikipedia.org/wiki/nl:Dvd#Regiocode "wikilink")
 
-[Category:知識產權](https://zh.wikipedia.org/wiki/Category:知識產權 "wikilink") [Category:DVD](https://zh.wikipedia.org/wiki/Category:DVD "wikilink") [Category:數位版權管理](https://zh.wikipedia.org/wiki/Category:數位版權管理 "wikilink")
+[Category:DVD](https://zh.wikipedia.org/wiki/Category:DVD "wikilink") [Category:數位版權管理](https://zh.wikipedia.org/wiki/Category:數位版權管理 "wikilink")

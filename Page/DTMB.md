@@ -1,4 +1,4 @@
-**DTMB**（[GB](https://zh.wikipedia.org/wiki/中華人民共和國國家標準 "wikilink") 20600-2006，全称 Digital Terrestrial Multimedia Broadcast，即**地面數位多媒體廣播**），原名**DMB-T/H**（Digital Multimedia Broadcast-Terrestrial/Handheld，即**數位多媒體廣播-地面/手持**），是中國數碼[影像廣播標準](https://zh.wikipedia.org/wiki/影像 "wikilink")，由[中華人民共和國制定有關](https://zh.wikipedia.org/wiki/中華人民共和國 "wikilink")[數位電視和流動](https://zh.wikipedia.org/wiki/數位電視 "wikilink")[數位廣播的制式](https://zh.wikipedia.org/wiki/數位廣播 "wikilink")。該制式將會服務中國一半的電視觀眾，尤其在[郊區](../Page/郊區.md "wikilink")和[農村地區](https://zh.wikipedia.org/wiki/农村 "wikilink")。DTMB現時為中國大陸、[香港](../Page/香港.md "wikilink")、[澳門](../Page/澳門.md "wikilink")和[古巴](../Page/古巴.md "wikilink")採用。
+**DTMB**（[GB](https://zh.wikipedia.org/wiki/中華人民共和國國家標準 "wikilink") 20600-2006，全称 Digital Terrestrial Multimedia Broadcast，即**地面數位多媒體廣播**），原名**DMB-T/H**（Digital Multimedia Broadcast-Terrestrial/Handheld，即**數位多媒體廣播-地面/手持**），是中國數碼[影像廣播標準](https://zh.wikipedia.org/wiki/影像 "wikilink")，由[中華人民共和國制定有關](https://zh.wikipedia.org/wiki/中華人民共和國 "wikilink")[數位電視和流動](https://zh.wikipedia.org/wiki/數位電視 "wikilink")[數位廣播的制式](https://zh.wikipedia.org/wiki/數位廣播 "wikilink")。該制式將會服務中國一半的電視觀眾，尤其在[郊區](../Page/郊區.md "wikilink")和[農村地區](https://zh.wikipedia.org/wiki/农村 "wikilink")。DTMB現時為中國大陸、[香港](../Page/香港.md "wikilink")、[澳門](../Page/澳門.md "wikilink")和[古巴](../Page/古巴.md "wikilink")、[巴基斯坦](../Page/巴基斯坦.md "wikilink")、[老撾和](https://zh.wikipedia.org/wiki/老撾 "wikilink")[柬埔寨](../Page/柬埔寨.md "wikilink")採用。
 
 DTMB有多重（簡稱「多載波」）與單一副載波（簡稱「單載波」）兩種模式\[1\]；香港和澳門使用多載波模式，中國大陸則兩種皆有使用。此外DTMB只制定了資料傳送標準為[MPEG-TS](https://zh.wikipedia.org/wiki/MPEG-TS "wikilink")，但沒有規定廣播串流[編碼制式](https://zh.wikipedia.org/wiki/編碼 "wikilink")。以香港為例，2012年10月28日前同步廣播頻道及新頻道曾經分別使用[MPEG-2 Part 2和](../Page/MPEG-2.md "wikilink")[H.264作為廣播的](https://zh.wikipedia.org/wiki/H.264 "wikilink")[影像編碼](https://zh.wikipedia.org/wiki/视频编码 "wikilink")，但現時所有數碼廣播頻道都已經使用[H.264廣播](https://zh.wikipedia.org/wiki/H.264 "wikilink")；聲音編碼則可從[AC3](https://zh.wikipedia.org/wiki/AC3 "wikilink")、[MP2以及](../Page/MPEG-1_Audio_Layer_II.md "wikilink")[DRA](../Page/DRA.md "wikilink")之間選擇\[2\]。中國大陸则推行[AVS](../Page/AVS.md "wikilink")及其升级版本AVS+為影像編碼標準，但也有使用MPEG-2者；音频标准一般采用DRA，也有少部分地区使用AC3或者其它音频解码标准\[3\]。
 
@@ -71,6 +71,11 @@ DTMB有多重（簡稱「多載波」）與單一副載波（簡稱「單載波�
   -
   -
   -
+  -
+  -
+  -
+  - （實驗）
+
 ### 中東
 
   - （實驗）

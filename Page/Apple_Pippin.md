@@ -16,6 +16,8 @@
 
 ### 硬件
 
+[Pippinrear.jpg](https://zh.wikipedia.org/wiki/File:Pippinrear.jpg "fig:Pippinrear.jpg")
+
   - 66MHz PowerPC 603 RISC 微处理器
       - Superscalar, three instructions per clock cycle
       - 8KB data and 8KB instruction caches

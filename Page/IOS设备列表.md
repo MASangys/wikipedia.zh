@@ -695,6 +695,8 @@ WiFi網頁瀏覽：13<br />
 | **發佈日期**                                                            |
 | **停產日期**                                                            |
 
+iPhone 11 即將到來
+
 ## iPod touch
 
 ### iPod touch 1\~5

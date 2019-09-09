@@ -62,7 +62,12 @@ Sense 3.6 是特別為舊款 HTC 手機設計的 Android 4.0 (開發代號 Ice C
 
 ### Sense 10 (2019)
 
-[HTC U11升級到](../Page/HTC_U11.md "wikilink")[Android 9所預載](../Page/Android_Pie.md "wikilink")。
+[U11升級到](../Page/HTC_U11.md "wikilink")[Android 9所預載](../Page/Android_Pie.md "wikilink")。
+
+已支援機種:
+
+  - [U11+](../Page/HTC_U11+.md "wikilink")
+  - [U12+](../Page/HTC_U12+.md "wikilink")
 
 ## 參見
 

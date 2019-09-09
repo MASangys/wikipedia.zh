@@ -23,8 +23,6 @@
 
 ## 外部链接
 
-  - [Windows Embedded 中国主页](http://www.microsoft.com/china/windows/embedded/default.mspx)
-  - [Windows Embedded 台湾主页](https://web.archive.org/web/20090507215519/http://www.microsoft.com/windowsembedded/zh-tw/default.mspx)
-  - [微软制订Windows Embedded事业部发展蓝图](http://www.microsoft.com/windowsembedded/zh-cn/news/pressreleases/080421.mspx)
+  - [Windows Embedded 主页](https://www.microsoft.com/zh-tw/windowsforbusiness/windows-iot)
 
 [Category:Windows_CE](https://zh.wikipedia.org/wiki/Category:Windows_CE "wikilink") [Category:嵌入式系统](https://zh.wikipedia.org/wiki/Category:嵌入式系统 "wikilink") [Category:实时操作系统](https://zh.wikipedia.org/wiki/Category:实时操作系统 "wikilink")

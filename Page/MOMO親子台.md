@@ -74,7 +74,6 @@
 | 《[反斗小王子](../Page/反斗小王子.md "wikilink")》                                                                         |
 | 《[坦克王](../Page/坦克王.md "wikilink")》（日韓合作）                                                                       |
 | 《[棋靈王](https://zh.wikipedia.org/wiki/棋靈王 "wikilink")》※雙語播出                                                     |
-| 《[金牌熊貓](https://zh.wikipedia.org/wiki/金牌熊貓 "wikilink")》                                                        |
 | 《[名偵探柯南](../Page/名偵探柯南.md "wikilink")》                                                                         |
 | 《[元氣五胞胎](../Page/元氣五胞胎.md "wikilink")》                                                                         |
 | 《[元氣小子](https://zh.wikipedia.org/wiki/元氣小子 "wikilink")》                                                        |
@@ -85,7 +84,7 @@
 | 《[淘氣二人組](https://zh.wikipedia.org/wiki/淘氣二人組 "wikilink")》                                                      |
 | 《[學園愛麗絲](../Page/學園愛麗絲.md "wikilink")》                                                                         |
 | 《[絕對無敵](https://zh.wikipedia.org/wiki/絕對無敵 "wikilink")》                                                        |
-| 《[科學小飛喵](https://zh.wikipedia.org/wiki/科學小飛喵 "wikilink")》                                                      |
+| 《[科學小飛喵](../Page/蒙面猫侠.md "wikilink")》                                                                          |
 | 《[金魚注意報](../Page/金魚注意報.md "wikilink")》                                                                         |
 | 《[尋找滿月](../Page/尋找滿月.md "wikilink")》                                                                           |
 | 《》                                                                                                             |
@@ -111,7 +110,7 @@
 | 《[北海小英雄](../Page/北海小英雄.md "wikilink")》                                                                         |
 | 《[魔法少年賈修](../Page/魔法少年賈修.md "wikilink")》                                                                       |
 | 《[忍者哈特利](https://zh.wikipedia.org/wiki/忍者哈特利 "wikilink")》                                                      |
-| 《[阿爾卑斯山的少女](https://zh.wikipedia.org/wiki/阿爾卑斯山的少女 "wikilink")》                                                |
+| 《[阿爾卑斯山的少女](https://zh.wikipedia.org/wiki/小天使 "wikilink")》                                                     |
 | 《[全力兔](../Page/全力兔.md "wikilink")》                                                                             |
 | 《[真珠美人魚](https://zh.wikipedia.org/wiki/真珠美人魚 "wikilink")》                                                      |
 | 《[龍龍與忠狗](../Page/龍龍與忠狗.md "wikilink")》                                                                         |
@@ -125,6 +124,7 @@
 | 《[偶像學園](https://zh.wikipedia.org/wiki/偶像學園_\(動畫\) "wikilink")》（第三季起）                                           |
 | 《[偶像學園Stars！](../Page/偶像學園Stars！.md "wikilink")》                                                               |
 | 《[見習神仙精靈](../Page/見習神仙精靈.md "wikilink")》                                                                       |
+| 《[偶像學園Friends！](https://zh.wikipedia.org/wiki/偶像學園Friends！ "wikilink")》                                        |
 |                                                                                                                |
 
 ### 南韓
@@ -162,7 +162,7 @@
 | 《》                                                                              |
 | 《[小小冒險王](https://zh.wikipedia.org/wiki/小小冒險王 "wikilink")》                       |
 | 《[蟲蟲的異想世界](https://zh.wikipedia.org/wiki/蟲蟲的異想世界 "wikilink")》                   |
-| 《[淘氣三胞胎](https://zh.wikipedia.org/wiki/淘氣三胞胎 "wikilink")》                       |
+| 《[淘氣三胞胎](https://zh.wikipedia.org/wiki/淘气三胞胎 "wikilink")》                       |
 | 《》                                                                              |
 | 《[諾弟樂園](https://zh.wikipedia.org/wiki/諾弟樂園 "wikilink")》                         |
 | 《[建築師巴布](../Page/建築師巴布.md "wikilink")》                                          |
@@ -183,9 +183,9 @@
 | 《[Diego](../Page/Diego_\(電視動畫\).md "wikilink")》                                 |
 | 《[Dora and Friends](https://zh.wikipedia.org/wiki/Dora_and_Friends "wikilink")》 |
 | 《[汪汪隊立大功](../Page/汪汪隊立大功.md "wikilink")》                                        |
-| 《[亮亮和晶晶](https://zh.wikipedia.org/wiki/亮亮和晶晶 "wikilink")》                       |
+| 《》                                                                              |
 | 《[珊妮的一天](https://zh.wikipedia.org/wiki/珊妮的一天 "wikilink")》                       |
-| 《[功夫熊貓之至尊傳奇](https://zh.wikipedia.org/wiki/功夫熊貓之至尊傳奇 "wikilink")》               |
+| 《》                                                                              |
 | 《[Wissper神童小語](https://zh.wikipedia.org/wiki/Wissper神童小語 "wikilink")》           |
 
 ### 中國
@@ -210,6 +210,7 @@
 | 《[戰鬥王之颶風戰魂](https://zh.wikipedia.org/wiki/戰鬥王之颶風戰魂 "wikilink")》                                                                 |
 | 《[幻變精靈蛋糕甜心](https://zh.wikipedia.org/wiki/幻變精靈蛋糕甜心 "wikilink")》                                                                 |
 | 《[快樂星貓](https://zh.wikipedia.org/wiki/快樂星貓 "wikilink")》                                                                         |
+| 《[金牌熊貓](https://zh.wikipedia.org/wiki/金牌熊貓 "wikilink")》                                                                         |
 | 《[夢月精靈](https://zh.wikipedia.org/wiki/夢月精靈 "wikilink")》                                                                         |
 | 《[少年師爺](https://zh.wikipedia.org/wiki/少年師爺 "wikilink")》                                                                         |
 | 《[新大頭兒子和小頭爸爸](https://zh.wikipedia.org/wiki/大頭兒子和小頭爸爸 "wikilink")》                                                              |
@@ -385,11 +386,11 @@
 
 ### 歐美
 
-| 節目名稱                                                          |
-| ------------------------------------------------------------- |
-| 《[天線寶寶](../Page/天線寶寶.md "wikilink")》                          |
-| 《[咕嚕咕嚕小海豹](https://zh.wikipedia.org/wiki/咕嚕咕嚕小海豹 "wikilink")》 |
-| 《[芝麻街](../Page/芝麻街.md "wikilink")》                            |
+| 節目名稱                                 |
+| ------------------------------------ |
+| 《[天線寶寶](../Page/天線寶寶.md "wikilink")》 |
+| 《》                                   |
+| 《[芝麻街](../Page/芝麻街.md "wikilink")》   |
 
 ### 中國
 

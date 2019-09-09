@@ -559,7 +559,7 @@ Imageon 被设计为[SoC](../Page/系统芯片.md "wikilink")。它于2002年发
   - [Adreno官方网站](https://developer.qualcomm.com/software/adreno-gpu-sdk/gpu)
   - [Snapdragon官方网站](https://www.qualcomm.com/products/snapdragon)
 
-[Category:冶天科技](https://zh.wikipedia.org/wiki/Category:冶天科技 "wikilink") [Category:顯示卡](https://zh.wikipedia.org/wiki/Category:顯示卡 "wikilink")
+[Category:冶天科技](https://zh.wikipedia.org/wiki/Category:冶天科技 "wikilink") [Category:顯示卡](https://zh.wikipedia.org/wiki/Category:顯示卡 "wikilink") [Category:圖形處理器](https://zh.wikipedia.org/wiki/Category:圖形處理器 "wikilink")
 
 1.
 

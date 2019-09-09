@@ -2392,19 +2392,20 @@
 <tr class="even">
 <td style="text-align: center;"><p>2019年5月15日－<br />
 2019年7月11日</p></td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><p>-</p></td>
 <td style="text-align: center;"><p>-{<a href="../Page/絕對達令_(韓國電視劇).md" title="wikilink">絕對達令</a>}-<br />
 </p></td>
 <td style="text-align: center;"><p>36</p></td>
 <td style="text-align: center;"><p><a href="../Page/呂珍九.md" title="wikilink">呂珍九</a>、<a href="https://zh.wikipedia.org/wiki/珉雅" title="wikilink">珉雅</a>、<a href="../Page/洪宗玄.md" title="wikilink">洪宗玄</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/鄭正華" title="wikilink">鄭正華</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/楊赫文" title="wikilink">楊赫文</a>、<a href="https://zh.wikipedia.org/wiki/張雅美" title="wikilink">張雅美</a></p></td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><p>原作：<a href="../Page/渡瀨悠宇.md" title="wikilink">渡瀨悠宇</a>《<a href="https://zh.wikipedia.org/wiki/絕對達令" title="wikilink">絕對達令</a>》</p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>2019年7月17日－<br />
 2019年9月5日</p></td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><p>2019年7月18日 -<br />
+2019年9月6日</p></td>
 <td style="text-align: center;"><p><a href="../Page/偵探醫生.md" title="wikilink">偵探醫生</a><br />
 </p></td>
 <td style="text-align: center;"><p>32</p></td>
@@ -2477,7 +2478,7 @@
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><a href="../Page/金瑞亨.md" title="wikilink">金瑞亨</a>、<a href="../Page/柳德煥.md" title="wikilink">柳德煥</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李政勛" title="wikilink">李政勛</a></p></td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金銀香_(編劇)" title="wikilink">金銀香</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>

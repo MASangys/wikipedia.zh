@@ -73,7 +73,7 @@ Academi由下列子公司與獨立部門組成如下：
 1.  2003年4月[虐囚門事件](https://zh.wikipedia.org/wiki/虐囚門事件 "wikilink")。
 2.  2004年3月31日，4名美國黑水的雇傭兵在伊拉克[費盧傑遭到伏擊全部死亡](https://zh.wikipedia.org/wiki/費盧傑 "wikilink")，之後他們的屍體被伊拉克武裝分子和當地人焚燒，還拖著燒焦的屍體遊街。\[18\]\[19\]
 3.  2005年4月一架美國黑水的[Mi-8直升機](../Page/Mi-8直升機.md "wikilink")在伊拉克被擊落，機上6名美籍傭兵、3名[保加利亞籍機師以及](https://zh.wikipedia.org/wiki/保加利亞 "wikilink")2名[斐濟](../Page/斐濟.md "wikilink")槍手全部死亡，乘員都是美國黑水的雇員\[20\]。
-4.  2007年1月23日，5名美國黑水的雇傭兵，所搭乘的[H-6直升機在伊拉克被擊落](https://zh.wikipedia.org/wiki/H-6直升機 "wikilink")，全部死亡。\[21\]\[22\]
+4.  2007年1月23日，5名美國黑水的雇傭兵，所搭乘的[H-6直升機在伊拉克被擊落](https://zh.wikipedia.org/wiki/OH-6A直升機 "wikilink")，全部死亡。\[21\]\[22\]
 5.  2007年9月17日，伊拉克內政部宣布，由於黑水的警衛在16日保護美國國務院的一隊車隊時，涉嫌開槍殺死八名平民，另擊傷十三人，其在伊拉克的經營牌照一度被吊銷\[23\]\[24\]。
 6.  2007年9月22日，兩名前黑水僱員於[北卡羅來納州法院承認](https://zh.wikipedia.org/wiki/北卡羅來納州 "wikilink")，走私軍火到伊拉克黑市，並表示會合作以換取減刑。不過黑水公司隨即發表聲明，否認公司有走私軍火到伊拉克，亦不清楚其員工是否走私軍火的行為。之前，有美國媒體報導，黑水涉嫌走私軍火到伊拉克，給一個同時被美國、歐盟、北約列為恐怖份子的庫爾德人武裝組織。土耳其亦聲稱從[庫爾德工人黨手中繳獲了一批美國製造的武器](https://zh.wikipedia.org/wiki/庫爾德工人黨 "wikilink")。
 7.  2007年9月30日，美國的「新聞週刊」報導，伊拉克警方掌握的證據，包括多位目擊證人的證詞，以及一捲錄影帶顯示美國黑水的僱員，於9月16日在巴格達的槍擊事件中，在沒有受到挑釁的情形下開槍濫射。
@@ -116,7 +116,7 @@ Academi由下列子公司與獨立部門組成如下：
   - [U.S. Training Center's official website](https://web.archive.org/web/20090802030954/http://www.ustraining.com/)
   - [Greystone Limited's website (international division)](http://www.greystone-ltd.com/)
 
-[Category:美國公司](https://zh.wikipedia.org/wiki/Category:美國公司 "wikilink") [Category:1997年成立的公司](https://zh.wikipedia.org/wiki/Category:1997年成立的公司 "wikilink") [Category:國防承包商](https://zh.wikipedia.org/wiki/Category:國防承包商 "wikilink") [Category:美国雇佣兵](https://zh.wikipedia.org/wiki/Category:美国雇佣兵 "wikilink") [Category:1997年美國建立](https://zh.wikipedia.org/wiki/Category:1997年美國建立 "wikilink")
+[Category:美國公司](https://zh.wikipedia.org/wiki/Category:美國公司 "wikilink") [Category:1997年成立的公司](https://zh.wikipedia.org/wiki/Category:1997年成立的公司 "wikilink") [Category:私人军事服务公司](https://zh.wikipedia.org/wiki/Category:私人军事服务公司 "wikilink") [Category:美国雇佣兵](https://zh.wikipedia.org/wiki/Category:美国雇佣兵 "wikilink") [Category:1997年美國建立](https://zh.wikipedia.org/wiki/Category:1997年美國建立 "wikilink")
 
 1.
 2.

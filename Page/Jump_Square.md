@@ -1177,11 +1177,11 @@
 <td><p>2019.01</p></td>
 <td><p>連載中</p></td>
 <td><p>←《WJ》<br />
-每月連載2話</p></td>
+每月連載1-2話</p></td>
 </tr>
 <tr class="even">
 <td><p>113</p></td>
-<td><p>'''<a href="https://zh.wikipedia.org/wiki/黑暗集會" title="wikilink">黑暗集會</a> '''</p></td>
+<td><p><strong></strong></p></td>
 <td><p>近藤憲一</p></td>
 <td><p>－</p></td>
 <td><p>2019.04</p></td>

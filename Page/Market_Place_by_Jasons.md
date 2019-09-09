@@ -52,6 +52,7 @@ Market Place by Jasons走中檔連鎖超級市場的路線，其主要對手有[
   - [何文田](../Page/何文田.md "wikilink")[何文田廣場](https://zh.wikipedia.org/wiki/何文田廣場 "wikilink")3樓305號鋪，於2017年7月7日開幕
   - [奧海城](../Page/奧海城.md "wikilink")2期北翼中庭（臨時店，2017年7月-12月）
   - [奧海城](../Page/奧海城.md "wikilink")2期地下，於2017年12月開幕，佔地26,000平方呎
+  - [尖沙嘴](https://zh.wikipedia.org/wiki/尖沙嘴 "wikilink")[維港文化匯](https://zh.wikipedia.org/wiki/維港文化匯 "wikilink")[K11 MUSEA](../Page/K11_MUSEA.md "wikilink")，於2019年8月26日開幕
 
 [新界](../Page/新界.md "wikilink")
 
@@ -89,7 +90,7 @@ Market Place by Jasons走中檔連鎖超級市場的路線，其主要對手有[
 [台灣共有](https://zh.wikipedia.org/wiki/台灣 "wikilink")26間分店，旗下分店命名Jasons Market Place 時尚超市，分店如下。
 
   - [台北市](https://zh.wikipedia.org/wiki/台北市 "wikilink")：[台北](https://zh.wikipedia.org/wiki/台北 "wikilink")[京站店](../Page/京站時尚廣場.md "wikilink")（2009年12月開幕）、[台北101](../Page/台北101.md "wikilink")店（2003年11月開幕）、天母[大葉高島屋](../Page/大葉高島屋.md "wikilink")店（2004年9月開幕）、台北[美麗華店](../Page/美麗華百樂園.md "wikilink")、台北[寶慶店](../Page/遠東百貨.md "wikilink")、台北[天母店](https://zh.wikipedia.org/wiki/天母 "wikilink")、台北[政大店](https://zh.wikipedia.org/wiki/政大 "wikilink")（2015年11月6日開幕）、安和店、大安店、和平店、林森[欣欣百貨](../Page/欣欣百貨.md "wikilink")店
-  - [新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")：[中和環球店](../Page/環球購物中心.md "wikilink")（2014年11月開幕）、林口三井店（2016年1月開幕）、板橋店（2016年9月開幕）、永和比漾店（2017年6月開幕）、三峽北大店(2017年7月28日開幕)
+  - [新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")：[中和環球店](../Page/環球購物中心.md "wikilink")（2014年11月開幕）、林口三井店（2016年1月開幕）、板橋店（2016年9月開幕）、永和比漾店（2017年7月7日開幕）、三峽北大店(2017年7月28日開幕)
   - [桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")：桃園中茂新天地店（2015年12月30日開幕）
   - [新竹市](https://zh.wikipedia.org/wiki/新竹市 "wikilink")：新竹[大遠百店](https://zh.wikipedia.org/wiki/大遠百 "wikilink")（2007年1月開幕）
   - [新竹縣](../Page/新竹縣.md "wikilink")：竹北高鐵店（2018年9月開幕）

@@ -60,6 +60,7 @@ m.o.v.e有不少歌曲都被[頭文字D](../Page/頭文字D.md "wikilink")收錄
   - Dive Into Stream
   - Fate Seeker
   - oveRtaKerS feat. [河村隆一](../Page/河村隆一.md "wikilink") x [SUGIZO](../Page/SUGIZO.md "wikilink")
+  - 夕愁想花
 
 ### 專輯
 

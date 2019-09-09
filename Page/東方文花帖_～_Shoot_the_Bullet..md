@@ -1,4 +1,4 @@
-[Shoot_the_Bullet.jpg](https://zh.wikipedia.org/wiki/File:Shoot_the_Bullet.jpg "fig:Shoot_the_Bullet.jpg") 是由[同人社團](https://zh.wikipedia.org/wiki/同人社團 "wikilink")[上海愛麗絲幻樂團製作的](https://zh.wikipedia.org/wiki/上海愛麗絲幻樂團 "wikilink")[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")，是[東方Project的](https://zh.wikipedia.org/wiki/東方Project "wikilink")9.5彈。
+[Shoot_the_Bullet.jpg](https://zh.wikipedia.org/wiki/File:Shoot_the_Bullet.jpg "fig:Shoot_the_Bullet.jpg") 是由[同人社團](https://zh.wikipedia.org/wiki/同人社團 "wikilink")[上海愛麗絲幻樂團](../Page/上海愛麗絲幻樂團.md "wikilink")製作的[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")，是[東方Project的](https://zh.wikipedia.org/wiki/東方Project "wikilink")9.5彈。
 
 ## 概要
 
@@ -136,57 +136,6 @@
 :\*藤原 妹紅（，）
 
 :\*伊吹 萃香（，）
-
-## 曲目一覽
-
-<table>
-<thead>
-<tr class="header">
-<th><p>曲目</p></th>
-<th><p>名稱</p></th>
-<th><p>中文譯名</p></th>
-<th><p>出現場合</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>1</p></td>
-<td></td>
-<td><p>天狗的筆記 ～ Mysterious Note</p></td>
-<td><p>主選單</p></td>
-</tr>
-<tr class="even">
-<td><p>2</p></td>
-<td></td>
-<td><p>風的循環 ～ Wind Tour</p></td>
-<td><p>LEVEL 1-2</p></td>
-</tr>
-<tr class="odd">
-<td><p>3</p></td>
-<td></td>
-<td><p>天狗正在凝視著 ～ Black Eyes</p></td>
-<td><p>LEVEL 3-5</p></td>
-</tr>
-<tr class="even">
-<td><p>4</p></td>
-<td></td>
-<td><p>東之國的不眠之夜</p></td>
-<td><p>LEVEL 6-7、Ex</p></td>
-</tr>
-<tr class="odd">
-<td><p>5</p></td>
-<td></td>
-<td><p>令人緬懷的<a href="../Page/京都.md" title="wikilink">京都</a></p></td>
-<td><p>LEVEL 8-10</p></td>
-</tr>
-<tr class="even">
-<td><p>6</p></td>
-<td></td>
-<td><p>風神少女</p></td>
-<td><p>SCENE 10-8</p></td>
-</tr>
-</tbody>
-</table>
 
 ## 參考資料
 

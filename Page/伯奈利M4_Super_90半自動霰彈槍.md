@@ -244,6 +244,7 @@ M4半自動霰彈槍可以通過伯奈利戰術購買可[槍托](../Page/槍托.
   - 2017年—《[狙擊手：幽靈戰士3](https://zh.wikipedia.org/wiki/狙擊手：幽靈戰士3 "wikilink")》（Sniper: Ghost Warrior 3）：型號為伸縮槍托型，命名為“Giovanni M4”，8發彈倉。
   - 2018年—《[少女前线](../Page/少女前线.md "wikilink")》：命名为M1014，以拟人化的姿态作为战术人形出现。立绘中的型号采用了伸缩枪托，在游戏中定位为4星SG。
   - 2018年—《[穿越火线高清竞技大区](https://zh.wikipedia.org/wiki/穿越火线高清竞技大区 "wikilink")》（Crossfire HD）：型號為伸縮槍托型，命名為“M1014”，7发弹仓，拔枪时会拉动拉机柄上膛，但奇怪的裝填子彈後不用上膛就能發射。
+  - 2019年—《[湯姆克蘭西：全境封鎖2](../Page/湯姆克蘭西：全境封鎖2.md "wikilink")》（Tom Clancy's The Division 2）：共有「Super 90」、「Super 90 複製品」、「海陸 Super 90」、「戰術 Super 90 SBS」四種型號。
 
 ## 參見
 

@@ -10,7 +10,7 @@ AK-9是所謂的“100系列”，例如[AK-104卡拉什尼科夫突击步枪作
 
 ## 競爭對手
 
-AK-9的推出是為了成為[AS Val突击步枪和](../Page/AS_Val微聲自動步槍.md "wikilink")[9A-91突击步枪](../Page/9A-91突击步枪.md "wikilink")競爭對手，而兩者分別已經裝備於[俄罗斯](../Page/俄罗斯.md "wikilink")的[軍隊和](https://zh.wikipedia.org/wiki/俄罗斯軍事 "wikilink")。在1990年代早期，[KBP儀器設計廠的附屬公司](https://zh.wikipedia.org/wiki/KBP儀器設計廠 "wikilink")，（CKIB SOO，）以[AKS-74U開發一種發射](../Page/AKS-74U卡宾枪.md "wikilink")[9×39毫米蘇聯](../Page/9×39mm.md "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")的衍生型：[OC-12](../Page/OTs-12突击步枪.md "wikilink")。還未有以OC-12系列作為基礎設計生產的新槍。\[2\]
+AK-9的推出是為了成為[AS Val突击步枪和](../Page/AS_Val微聲自動步槍.md "wikilink")[9A-91突击步枪](../Page/9A-91突击步枪.md "wikilink")競爭對手，而兩者分別已經裝備於[俄罗斯](../Page/俄罗斯.md "wikilink")的[軍隊和](https://zh.wikipedia.org/wiki/俄罗斯軍事 "wikilink")。在1990年代早期，[KBP儀器設計廠的附屬公司](https://zh.wikipedia.org/wiki/KBP儀器設計廠 "wikilink")，（CKIB SOO，）以[AKS-74U開發一種發射](../Page/AKS-74U卡宾枪.md "wikilink")[9×39毫米蘇聯](../Page/9×39mm.md "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")的衍生型：[OTs-12](../Page/OTs-12突击步枪.md "wikilink")。還未有以OTs-12系列作為基礎設計生產的新槍。\[2\]
 
 ## 轉移到AK-12
 

@@ -661,6 +661,8 @@ DVD各卷收錄的映像特典短篇動畫。全9話。
 
 關於在兩部作品故事發生之間的空白期，請參見[舞-HiME 命運的系統樹 修羅](https://zh.wikipedia.org/wiki/舞-HiME#遊戲版 "wikilink")。
 
+### 播放電視台
+
 ## 外部連結
 
   - [～](http://www.my-zhime.net/)

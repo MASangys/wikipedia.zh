@@ -24,7 +24,7 @@ DSD技術在視訊方面或許有著相同的潛力。[Laserdisc光碟就是使�
 
   - [Poking a Round Hole in a Square Wave (DSD vs PCM comparison)](http://www.smr-home-theatre.org/surround2002/technology/page_07.shtml)
 
-[Category:訊號處理](https://zh.wikipedia.org/wiki/Category:訊號處理 "wikilink")
+[Category:數位音頻儲存](https://zh.wikipedia.org/wiki/Category:數位音頻儲存 "wikilink")
 
 1.  見 [Audio Engineering Society Convention Paper 5395: Why 1-Bit Sigma-Delta Conversion is Unsuitable for High-Quality Applications](http://sjeng.org/ftp/SACD.pdf)
 

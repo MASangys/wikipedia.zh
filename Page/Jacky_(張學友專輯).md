@@ -28,7 +28,7 @@
 
 </div>
 
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:張學友音樂專輯](https://zh.wikipedia.org/wiki/Category:張學友音樂專輯 "wikilink") [Category:1987年音樂專輯](https://zh.wikipedia.org/wiki/Category:1987年音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
+[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:張學友音樂專輯](https://zh.wikipedia.org/wiki/Category:張學友音樂專輯 "wikilink") [Category:1987年音樂專輯](https://zh.wikipedia.org/wiki/Category:1987年音樂專輯 "wikilink") [Category:香港流行音乐专辑](https://zh.wikipedia.org/wiki/Category:香港流行音乐专辑 "wikilink")
 
 1.
 2.  太陽星辰這首歌的作曲者[德永英明](../Page/德永英明.md "wikilink")亦獲十大中文金曲最佳作曲者之一。由於[張學友翻唱這首歌以及另一精典歌曲](https://zh.wikipedia.org/wiki/張學友 "wikilink")[藍雨](https://zh.wikipedia.org/wiki/藍雨 "wikilink")，亦意外使[德永英明](../Page/德永英明.md "wikilink")從香港紅回日本。

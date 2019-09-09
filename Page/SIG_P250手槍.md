@@ -74,7 +74,7 @@ P250在2007年11月推出了[.45 ACP口徑版本](../Page/.45_ACP.md "wikilink")
 
   - —[D Boy Gun World（槍炮世界）—SIG Sauer P250](http://firearmsworld.net/sigsauer/p250/p250.htm)
 
-[Category:半自動手槍](https://zh.wikipedia.org/wiki/Category:半自動手槍 "wikilink") [Category:9毫米魯格彈槍械](https://zh.wikipedia.org/wiki/Category:9毫米魯格彈槍械 "wikilink") [Category:.40_S\&W口徑槍械](https://zh.wikipedia.org/wiki/Category:.40_S&W口徑槍械 "wikilink") [Category:.357_SIG口徑槍械](https://zh.wikipedia.org/wiki/Category:.357_SIG口徑槍械 "wikilink") [Category:.45_ACP口徑槍械](https://zh.wikipedia.org/wiki/Category:.45_ACP口徑槍械 "wikilink") [Category:美國槍械](https://zh.wikipedia.org/wiki/Category:美國槍械 "wikilink")
+[Category:半自動手槍](https://zh.wikipedia.org/wiki/Category:半自動手槍 "wikilink") [Category:9毫米魯格彈槍械](https://zh.wikipedia.org/wiki/Category:9毫米魯格彈槍械 "wikilink") [Category:.40_S\&W口徑槍械](https://zh.wikipedia.org/wiki/Category:.40_S&W口徑槍械 "wikilink") [Category:.357_SIG口徑槍械](https://zh.wikipedia.org/wiki/Category:.357_SIG口徑槍械 "wikilink") [Category:.45_ACP口徑槍械](https://zh.wikipedia.org/wiki/Category:.45_ACP口徑槍械 "wikilink") [Category:美國槍械](https://zh.wikipedia.org/wiki/Category:美國槍械 "wikilink") [Category:模塊化槍械](https://zh.wikipedia.org/wiki/Category:模塊化槍械 "wikilink")
 
 1.
 2.  [police.gov.hk-為刑偵人員提供新手槍訓練](http://www.police.gov.hk/offbeat/844/chi/bottom.htm)

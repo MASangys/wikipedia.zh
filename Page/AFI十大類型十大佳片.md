@@ -4,7 +4,7 @@
 
 ## 名單組成
 
-  - [亞弗列·希治閣以](https://zh.wikipedia.org/wiki/亞弗列·希治閣 "wikilink")4部作品，成為出現次數最多的導演：《[迷魂記](../Page/迷魂記.md "wikilink")》、《[後窗](../Page/後窗.md "wikilink")》、《[北西北](https://zh.wikipedia.org/wiki/北西北 "wikilink")》、《[電話情殺案](https://zh.wikipedia.org/wiki/電話情殺案 "wikilink")》（），全部集中在懸疑類型。
+  - [亞弗列·希治閣以](https://zh.wikipedia.org/wiki/亞弗列·希治閣 "wikilink")4部作品，成為出現次數最多的導演：《[迷魂記](../Page/迷魂記.md "wikilink")》、《[後窗](../Page/後窗.md "wikilink")》、《[西北偏北](../Page/西北偏北.md "wikilink")》、《[電話情殺案](https://zh.wikipedia.org/wiki/電話情殺案 "wikilink")》（），全部集中在懸疑類型。
 
 <!-- end list -->
 

@@ -8,7 +8,7 @@
 
 初回特典「綜合娛樂版」是OKAXILE海報（A2大小），「CD only」則是EXILE原創明信片4張組。
 
-2張組DVD的第1張收錄包含為了此專輯而拍攝的新歌「Touch The Sky feat.Bach Logic\]的PV共5首PV。另外收錄了動畫「EXILE武士」（エグザムライ）的序章。第2張則收錄2007年8月5日在東京國際展示場舉行的最後公演的現場演唱及紀錄影片，還有同年10月6日（11月10日是未公開集）[富士電視](../Page/富士電視台.md "wikilink")[系列播放的](https://zh.wikipedia.org/wiki/FNS "wikilink")「めちゃ×2イケてるッ\! いい意味でヤバイッすOKAXILE Special」中介紹的搞笑團體NINETY-NINE的[岡村隆史客串參加](https://zh.wikipedia.org/wiki/岡村隆史 "wikilink")，受到很大迴響的OKAXILE的現場演唱會影片。
+2張組DVD的第1張收錄包含為了此專輯而拍攝的新歌「Touch The Sky feat.Bach Logic\]的PV共5首PV。另外收錄了動畫「EXILE武士」（エグザムライ）的序章。第2張則收錄2007年8月5日在東京國際展示場舉行的最後公演的現場演唱及紀錄影片，還有同年10月6日（11月10日是未公開集）[富士電視](../Page/富士電視台.md "wikilink")[系列播放的](https://zh.wikipedia.org/wiki/FNS "wikilink")「めちゃ×2イケてるッ\! いい意味でヤバイッすOKAXILE Special」中介紹的搞笑團體NINETY-NINE的[岡村隆史](../Page/岡村隆史.md "wikilink")客串參加，受到很大迴響的OKAXILE的現場演唱會影片。
 
 新星堂各店舗還有[HMV](../Page/HMV.md "wikilink")和[7-Eleven](../Page/7-Eleven.md "wikilink")等在網路尚先行發售，舉辦「[I Believe](https://zh.wikipedia.org/wiki/I_Believe_\(EXILE\) "wikilink")」、「君がいるから」、「[SUMMER TIME LOVE](../Page/SUMMER_TIME_LOVE.md "wikilink")」、「響 〜HIBIKI〜」、「Beautiful」、「Touch The Sky feat.Bach Logic」的搶先試聽，[LAWSON的各店舗店内廣播則在](../Page/羅森_\(便利店\).md "wikilink")11月22日到28日這段期間，一天播放成員１人的訊息及推薦曲目一次。第一天為HIRO，再來是USA、ATSUSHI、TAKAHIRO、MATSU、AKIRA、MAKIDAI的順序廣播至28日。
 
@@ -187,6 +187,6 @@
         第22張單曲
 17. Choo Choo TRAIN/OKAXILE
       -
-        2007年8月5日由EXILE×[岡村隆史的](https://zh.wikipedia.org/wiki/岡村隆史 "wikilink")**OKAXILE**的特別表演演出
+        2007年8月5日由EXILE×[岡村隆史](../Page/岡村隆史.md "wikilink")的**OKAXILE**的特別表演演出
 
 [Category:放浪兄弟的專輯](https://zh.wikipedia.org/wiki/Category:放浪兄弟的專輯 "wikilink") [Category:2007年音樂專輯](https://zh.wikipedia.org/wiki/Category:2007年音樂專輯 "wikilink") [Category:RIAJ百萬認證專輯](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證專輯 "wikilink") [Category:Oricon百萬銷量達成專輯](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成專輯 "wikilink") [Category:Oricon專輯年榜冠軍作品](https://zh.wikipedia.org/wiki/Category:Oricon專輯年榜冠軍作品 "wikilink") [Category:Billboard_Japan_Top_Albums年榜冠軍專輯](https://zh.wikipedia.org/wiki/Category:Billboard_Japan_Top_Albums年榜冠軍專輯 "wikilink") [Category:2007年Oricon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2007年Oricon專輯月榜冠軍作品 "wikilink") [Category:2007年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2007年Oricon專輯週榜冠軍作品 "wikilink")

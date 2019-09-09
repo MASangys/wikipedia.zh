@@ -125,7 +125,7 @@ HK ChungFuShoppingCentre Interior1.jpg|翻新前頌富商場入口中庭（2008�
   -
 [Category:天水圍](https://zh.wikipedia.org/wiki/Category:天水圍 "wikilink") [Category:元朗區商場](https://zh.wikipedia.org/wiki/Category:元朗區商場 "wikilink") [Category:香港建築小作品](https://zh.wikipedia.org/wiki/Category:香港建築小作品 "wikilink")
 
-[Category:領展商場及停車場](https://zh.wikipedia.org/wiki/Category:領展商場及停車場 "wikilink")
+[Category:領展商場及停車場](https://zh.wikipedia.org/wiki/Category:領展商場及停車場 "wikilink") [Category:1999年完工建築物](https://zh.wikipedia.org/wiki/Category:1999年完工建築物 "wikilink") [Category:2000年完工建築物](https://zh.wikipedia.org/wiki/Category:2000年完工建築物 "wikilink")
 
 1.  [「領匯非常學堂」 之 陶傑與禇簡寧-不中不英樂在其中](http://www.thelinkreit.com/tc/promo/event_archive_photo.asp?id=352)
 2.

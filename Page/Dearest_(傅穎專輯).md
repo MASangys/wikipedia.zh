@@ -26,4 +26,4 @@
 3.  12"x24" Poster (Version A)&(Version B)（其中一款）
 4.  20"x30" Poster (Version A)&(Version B)（其中一款）
 
-[Category:傅穎專輯](https://zh.wikipedia.org/wiki/Category:傅穎專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink")
+[Category:傅穎專輯](https://zh.wikipedia.org/wiki/Category:傅穎專輯 "wikilink") [Category:香港流行音乐专辑](https://zh.wikipedia.org/wiki/Category:香港流行音乐专辑 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink")

@@ -231,6 +231,12 @@ git的官方wiki也給出了多種關於這個名字的解释。\[11\]
 <td><p>2019-06-07</p></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td><p>2019-08-16</p></td>
+<td><p>2.23.0</p></td>
+<td><p>2019-08-16</p></td>
+</tr>
+<tr class="even">
 <td><p><small></small></p></td>
 <td></td>
 <td></td>

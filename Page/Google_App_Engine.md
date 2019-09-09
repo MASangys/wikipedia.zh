@@ -1,6 +1,6 @@
 **Google App Engine**是一个开发、托管[网络应用程序](../Page/网络应用程序.md "wikilink")的平台，使用[Google](../Page/Google.md "wikilink")管理的数据中心。它在2008年4月发布了第一个[beta版本](https://zh.wikipedia.org/wiki/軟件版本週期#Beta "wikilink")。
 
-Google App Engine使用了[云计算技术](https://zh.wikipedia.org/wiki/云计算 "wikilink")。它跨越多个服务器和数据中心来虚拟化应用程序。\[1\] 其他基于云的平台还有[Amazon Web Services和](https://zh.wikipedia.org/wiki/Amazon_Web_Services "wikilink")[微软](../Page/微软.md "wikilink")的[Azure服务平台等](https://zh.wikipedia.org/wiki/Azure服务平台 "wikilink")。
+Google App Engine使用了[云计算技术](https://zh.wikipedia.org/wiki/云计算 "wikilink")。它跨越多个服务器和数据中心来[虚拟化应用程序](https://zh.wikipedia.org/wiki/虚拟化 "wikilink")。\[1\] 其他基于云的平台还有[Amazon Web Services和](https://zh.wikipedia.org/wiki/Amazon_Web_Services "wikilink")[微软](../Page/微软.md "wikilink")的[Azure服务平台等](https://zh.wikipedia.org/wiki/Azure服务平台 "wikilink")。
 
 Google App Engine在用户使用一定的资源时是免费的。支付额外的费用可以获得应用程序所需的更多的存储空间、带宽或是CPU负载。\[2\]
 

@@ -905,7 +905,7 @@ DOLLARS瓦解後過了一年半，一波新浪潮又將襲捲池袋。
 <td><p>今掛勇</p></td>
 <td><p>松田清</p></td>
 <td><p>小倉典子、伊藤秀樹</p></td>
-<td><p>宮野真守（紀田正臣）</p></td>
+<td><p><a href="../Page/宮野真守.md" title="wikilink">宮野真守</a>（紀田正臣）</p></td>
 </tr>
 <tr class="odd">
 <td><p>#19</p></td>

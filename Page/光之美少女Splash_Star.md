@@ -986,7 +986,7 @@
   - 片頭曲
     『★』
     作詞：青木久美子　作曲：小杉保夫　編曲：家原正樹　主唱：內八重友賀 with Splash Stars
-    台灣片頭曲『★』
+    台灣片頭曲『with Splash Stars』
     主唱：艾摩新
 
 <!-- end list -->

@@ -1,4 +1,4 @@
-**SoulJa**（）是[日本](../Page/日本.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")、[說唱](../Page/饒舌.md "wikilink")（Rap）歌手。2007年，日本環球唱片與他簽約，分屬G.P.R事務所。SoulJa 原名中野和雄，母親是[比利時人](https://zh.wikipedia.org/wiki/比利時 "wikilink")。
+**SoulJa**（）是[日本](../Page/日本.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")、[說唱](../Page/饒舌.md "wikilink")（Rap）歌手。2007年，日本環球唱片與他簽約，分屬G.P.R事務所。SoulJa原名**中野和雄**，母親是[比利時人](https://zh.wikipedia.org/wiki/比利時 "wikilink")。
 
 ## 唱片目錄
 

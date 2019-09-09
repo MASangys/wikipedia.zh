@@ -76,7 +76,7 @@
 林沛沛之妹<br />
 古澤琛之妻<br />
 許立仁之小姨<br />
-於第4集為救梁小柔而被炸彈炸至重傷，搶救後最終身亡</p></td>
+于一年前车祸身亡</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/鄭俊弘.md" title="wikilink">鄭俊弘</a></p></td>
@@ -461,7 +461,7 @@
 <tr class="even">
 <td><p><a href="../Page/惠英紅.md" title="wikilink">惠英紅</a></p></td>
 <td><p>鄭麗玲</p></td>
-<td><p>馬錦濤之繼室（但比郭綺芬先與馬錦濤相戀），馬幗宏之母</p></td>
+<td><p>馬錦濤之繼室（但比郭綺芬先與馬錦濤相戀），馬幗英之母</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/佘詩曼" title="wikilink">佘詩曼</a></strong></p></td>
@@ -1483,7 +1483,7 @@ David Leung之顧客<br />
 <td><p><strong>關係／職業</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/陳敏之.md" title="wikilink">陳敏之</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/刘敏仪" title="wikilink">刘敏仪</a></p></td>
 <td><p>巢沛麗</p></td>
 <td><p>古澤琛支持者<br />
 與林汀汀相似的一名女子<br />

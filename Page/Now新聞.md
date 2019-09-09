@@ -91,7 +91,7 @@ now香港台2008年12月12日啟播後至2016年3月18日，該台每日會播�
 
   - 2008年3月25日，正值[西藏騷亂](https://zh.wikipedia.org/wiki/西藏騷亂 "wikilink")，now寬頻電視記者[簡學悕成功突破公安所有阻礙](https://zh.wikipedia.org/wiki/簡學悕 "wikilink")，進入[西藏採訪](https://zh.wikipedia.org/wiki/西藏 "wikilink")；當時，所有境外[記者](../Page/記者.md "wikilink")已被[公安趕離西藏](https://zh.wikipedia.org/wiki/公安 "wikilink")。
   - 2008年7月20日，記者[周月翔](../Page/周月翔.md "wikilink")採訪一名居於[北京老](https://zh.wikipedia.org/wiki/北京 "wikilink")[衚衕的老婆婆時被公安無理中止採訪並且帶走](https://zh.wikipedia.org/wiki/衚衕 "wikilink")；7月24日記者周月翔及攝影師楊楚文採訪[北京市民購買](https://zh.wikipedia.org/wiki/北京 "wikilink")[北京奧運門票時的混亂時](https://zh.wikipedia.org/wiki/北京奧運 "wikilink")，被公安無理押上公安車一段時間；7月25日攝影師楊楚文採訪北京市民購買京奧門票時的混亂時，被公安從梯上拉跌。以上事件引致now新聞對北京發表嚴重抗議，最終導致雙方決裂，日後now新聞在內地的採訪都不時受到阻攔（）。
-  - 2009年8月12日，時任now新聞台駐[京記者的](https://zh.wikipedia.org/wiki/北京 "wikilink")[黃嘉瑜](../Page/黃嘉瑜.md "wikilink")與攝影師到[四川](https://zh.wikipedia.org/wiki/四川 "wikilink")[成都採訪](https://zh.wikipedia.org/wiki/成都 "wikilink")，於當日上午6時許準備由酒店出發採訪[譚作人案之際](https://zh.wikipedia.org/wiki/譚作人 "wikilink")，數名公安人士在房間外攔截，指稱接獲市民舉報，懷疑黃等三人入住的房間藏有毒品等違禁品，要搜查房間，擾攘近6小時至下午1時許，該段時間三人一直被軟禁於酒店內，令三人不能正常外出採訪。now新聞台、[香港記者協會](../Page/香港記者協會.md "wikilink")及[香港新聞行政人員協會均發聲明指公安無理執法](https://zh.wikipedia.org/wiki/香港新聞行政人員協會 "wikilink")，妨礙[新聞自由](https://zh.wikipedia.org/wiki/新聞自由 "wikilink")。
+  - 2009年8月12日，時任now新聞台駐[京記者的](https://zh.wikipedia.org/wiki/北京 "wikilink")[黃嘉瑜](../Page/黃嘉瑜.md "wikilink")與攝影師到[四川](https://zh.wikipedia.org/wiki/四川 "wikilink")[成都採訪](https://zh.wikipedia.org/wiki/成都 "wikilink")，於當日上午6時許準備由酒店出發採訪[譚作人案之際](https://zh.wikipedia.org/wiki/譚作人 "wikilink")，數名公安人士在房間外攔截，指稱接獲市民舉報，懷疑黃等三人入住的房間藏有毒品等違禁品，要搜查房間，擾攘近6小時至下午1時許，該段時間三人一直被軟禁於酒店內，令三人不能正常外出採訪。now新聞台、[香港記者協會](../Page/香港記者協會.md "wikilink")及[香港新聞行政人員協會](../Page/香港新聞行政人員協會.md "wikilink")均發聲明指公安無理執法，妨礙[新聞自由](https://zh.wikipedia.org/wiki/新聞自由 "wikilink")。
   - 2009年9月4日，[now寬頻電視駐京攝影師林振威與記者](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")[陳偉利](../Page/陳偉利.md "wikilink")、[無線電視記者](https://zh.wikipedia.org/wiki/無線電視 "wikilink")[林子豪及攝影記者劉永全到](https://zh.wikipedia.org/wiki/林子豪 "wikilink")[新疆](https://zh.wikipedia.org/wiki/新疆 "wikilink")[烏魯木齊採訪時](https://zh.wikipedia.org/wiki/烏魯木齊 "wikilink")，被多名市武警毆打並且被強制扣留，事件在香港造成強烈反響，多間香港新聞媒體及團體在事件發生後提出抗議及參與遊行示威（詳見[2009年新疆武警扣押香港記者事件](../Page/2009年新疆武警扣押香港記者事件.md "wikilink")）。
 
 ### 2010年代以後
@@ -136,11 +136,11 @@ now香港台2008年12月12日啟播後至2016年3月18日，該台每日會播�
 （首席主播）</p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/張凱琪" title="wikilink">張凱琪</a><br />
-（主播）</p></td>
+<td style="text-align: center;"><p><br />
+（高級主播）</p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/翁家揚" title="wikilink">翁家揚</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/胡瀞詩" title="wikilink">胡瀞詩</a><br />
 （主播）</p></td>
 </tr>
 <tr class="odd">
@@ -162,7 +162,7 @@ now香港台2008年12月12日啟播後至2016年3月18日，該台每日會播�
 （首席記者）</p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/廖康如" title="wikilink">廖康如</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/何海凌" title="wikilink">何海凌</a><br />
 （高級記者）</p></td>
 </tr>
 <tr class="odd">
@@ -196,89 +196,92 @@ now香港台2008年12月12日啟播後至2016年3月18日，該台每日會播�
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/王晶_(記者)" title="wikilink">王晶</a></p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><strong>財經組記者</strong></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/余卓希" title="wikilink">余卓希</a></p></td>
 </tr>
 <tr class="even">
+<td style="text-align: center;"><p><strong>財經組記者</strong></p></td>
+</tr>
+<tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/潘磊華" title="wikilink">潘磊華</a><br />
 （首席記者）</p></td>
 </tr>
-<tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/黃思行" title="wikilink">黃思行</a><br />
+<tr class="even">
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/周駿易" title="wikilink">周駿易</a><br />
 （高級記者）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/周雪君" title="wikilink">周雪君</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/鄧雪玲" title="wikilink">鄧雪玲</a></p></td>
 </tr>
-<tr class="even">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/陳正犖" title="wikilink">陳正犖</a></p></td>
-</tr>
 <tr class="odd">
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
 <td style="text-align: center;"><p><strong>體育組</strong></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/宋貴玲" title="wikilink">宋貴玲</a><br />
 （首席記者）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><strong>實習記者</strong></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/鄭嘉樂" title="wikilink">鄭嘉樂</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><strong>專題組記者／編輯</strong></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><a href="../Page/陳偉利.md" title="wikilink">陳偉利</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/陳家俊" title="wikilink">陳家俊</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/何綻苗" title="wikilink">何綻苗</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><strong>編導</strong></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/蔡凱珊" title="wikilink">蔡凱珊</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/王佩兒" title="wikilink">王佩兒</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/歐志誠" title="wikilink">歐志誠</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/鄭子韜" title="wikilink">鄭子韜</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/童俊雄" title="wikilink">童俊雄</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/馬立賢" title="wikilink">馬立賢</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/陳毅恒" title="wikilink">陳毅恒</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><strong>監製</strong></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/蕭世坤" title="wikilink">蕭世坤</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/麥國華" title="wikilink">麥國華</a><br />
 （港股今日睇）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/杜福良" title="wikilink">杜福良</a><br />
 （大鳴大放）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"></td>
 </tr>
 </tbody>
@@ -404,7 +407,8 @@ now香港台2008年12月12日啟播後至2016年3月18日，該台每日會播�
 <td style="text-align: center;"><p><a href="../Page/張鷺玲.md" title="wikilink">張鷺玲</a></p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p>徐巧明（香港興業公關）</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/徐巧明" title="wikilink">徐巧明</a><br />
+（香港興業公關）</p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>'''近況：其他</p></td>

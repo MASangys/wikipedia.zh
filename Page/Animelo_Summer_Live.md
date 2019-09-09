@@ -1,4 +1,4 @@
-**Animelo Summer Live**（，直譯為「動畫旋律的夏季演唱會」，簡稱為（Ani Summer））是由開設動畫歌曲專門的手機來電答鈴網站「Animelomix」的[DWANGO公司](https://zh.wikipedia.org/wiki/DWANGO "wikilink")，以及[文化放送電台主辦的日本國內最大的動畫歌曲演唱會](https://zh.wikipedia.org/wiki/文化放送 "wikilink")，此活動從2005年開始舉辦。出席的歌手雖然限為[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")[歌手](../Page/歌手.md "wikilink")，但是演唱會的歌手不只唱動畫的主題曲，電玩、[特攝的主題曲](https://zh.wikipedia.org/wiki/特攝 "wikilink")，以及原創歌曲也有包含在內。每年在演唱會舉辦前夕，官方都會分批宣佈參加演出歌手名單，並會邀請一些神秘或特別嘉賓參與演出。
+**Animelo Summer Live**（，直譯為「動畫旋律的夏季演唱會」），簡稱「Ani Summer」（），是由開設[動畫歌曲](../Page/動畫歌曲.md "wikilink")專門的手機來電答鈴網站「Animelomix」的[DWANGO公司](https://zh.wikipedia.org/wiki/DWANGO "wikilink")，以及[文化放送主辦的日本國內最大的動畫歌曲](../Page/文化放送_\(日本\).md "wikilink")[音樂節](https://zh.wikipedia.org/wiki/音樂節 "wikilink")，自2005年起每年舉辦一次。出席的歌手雖然限為[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")[歌手](../Page/歌手.md "wikilink")，但是演唱會的歌手不只唱動畫的主題曲，電玩、[特攝的主題曲](https://zh.wikipedia.org/wiki/特攝 "wikilink")，以及原創歌曲也有包含在內。每年在演唱會舉辦前夕，官方都會分批宣佈參加演出歌手名單，並會邀請一些神秘或特別嘉賓參與演出。
 
 自2013年起，[NHK BS Premium每年都会播出Animelo](../Page/NHK_BS_Premium.md "wikilink") Summer Live的精选影像。
 
@@ -1531,7 +1531,7 @@
 本年度為大會首度將活動擴展至三天舉行。
 
   - 舉辦日期：2013年8月23日－8月25日
-  - 會場：[埼玉超級體育館](https://zh.wikipedia.org/wiki/埼玉超級體育館 "wikilink")
+  - 會場：[埼玉超級競技場](../Page/埼玉超級競技場.md "wikilink")
   - 主辦：MAGES.、[文化放送](https://zh.wikipedia.org/wiki/文化放送 "wikilink")
   - 協力贊助：鐵人化計劃、[Good Smile Company](../Page/Good_Smile_Company.md "wikilink")、ブシロード
   - 後援：[Avex Entertainment](https://zh.wikipedia.org/wiki/Avex_Entertainment "wikilink")、[King Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")、Geneon Universal Entertainment Japan、[Flying DOG](../Page/Flying_DOG.md "wikilink")、[Lantis](../Page/Lantis.md "wikilink")、Warner Home Video
@@ -1918,12 +1918,12 @@
 ### Animelo Summer Live 2014 -ONENESS-
 
   - 舉辦日期：2014年8月29日－8月31日
-  - 會場：[埼玉超級體育館](https://zh.wikipedia.org/wiki/埼玉超級體育館 "wikilink")
+  - 會場：[埼玉超級競技場](../Page/埼玉超級競技場.md "wikilink")
   - 主辦：MAGES.、[文化放送](https://zh.wikipedia.org/wiki/文化放送 "wikilink")
   - 協力贊助：[Good Smile Company](../Page/Good_Smile_Company.md "wikilink")、[武士道](../Page/武士道_\(公司\).md "wikilink")
   - 後援：[NBC環球娛樂](../Page/NBC環球娛樂.md "wikilink")、[King Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")、[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")、[日本哥倫比亞](https://zh.wikipedia.org/wiki/日本哥倫比亞 "wikilink")、[Flying DOG](../Page/Flying_DOG.md "wikilink")、[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")、[Media Factory](../Page/Media_Factory.md "wikilink")、[Lantis](../Page/Lantis.md "wikilink")、Warner Home Video
   - 企劃：AniSummer Project實行委員會
-  - 協力：埼玉超級體育館、[7-Eleven](../Page/7-Eleven.md "wikilink")、[淘兒唱片](../Page/淘兒唱片.md "wikilink")
+  - 協力：埼玉超級競技場、[7-Eleven](../Page/7-Eleven.md "wikilink")、[淘兒唱片](../Page/淘兒唱片.md "wikilink")
   - 製作協力：Grand Slam
 
 #### 主題曲
@@ -2361,12 +2361,12 @@
 ### Animelo Summer Live 2015 -THE GATE-
 
   - 舉辦日期：2015年8月28日－8月30日
-  - 會場：[埼玉超級體育館](https://zh.wikipedia.org/wiki/埼玉超級體育館 "wikilink")
+  - 會場：[埼玉超級競技場](../Page/埼玉超級競技場.md "wikilink")
   - 主辦：MAGES.、[文化放送](https://zh.wikipedia.org/wiki/文化放送 "wikilink")
   - 協力贊助：LIVE DAM STADIUM、[Good Smile Company](../Page/Good_Smile_Company.md "wikilink")
   - 後援：[NBC環球娛樂](../Page/NBC環球娛樂.md "wikilink")、[KADOKAWA](../Page/KADOKAWA.md "wikilink")、[King Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")、[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")、DIVE II entertainment、[日本哥倫比亞](https://zh.wikipedia.org/wiki/日本哥倫比亞 "wikilink")、FRAME、[武士道](../Page/武士道_\(公司\).md "wikilink")、[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")、[Lantis](../Page/Lantis.md "wikilink")、Warner Home Video
   - 企劃：AniSummer Project實行委員會
-  - 協力：埼玉超級體育館、[7-Eleven](../Page/7-Eleven.md "wikilink")、[淘兒唱片](../Page/淘兒唱片.md "wikilink")
+  - 協力：埼玉超級競技場、[7-Eleven](../Page/7-Eleven.md "wikilink")、[淘兒唱片](../Page/淘兒唱片.md "wikilink")
   - 製作協力：Grand Slam
 
 #### 主題曲
@@ -2766,12 +2766,12 @@
 ### Animelo Summer Live 2016 刻-TOKI-
 
   - 舉辦日期：2016年8月26日－8月28日
-  - 會場：[埼玉超級體育館](https://zh.wikipedia.org/wiki/埼玉超級體育館 "wikilink")
+  - 會場：[埼玉超級競技場](../Page/埼玉超級競技場.md "wikilink")
   - 主辦：MAGES.、[文化放送](https://zh.wikipedia.org/wiki/文化放送 "wikilink")
   - 協力贊助：LIVE DAM STADIUM、[Good Smile Company](../Page/Good_Smile_Company.md "wikilink")
   - 後援：株式會社AT-X、[NBC環球娛樂](../Page/NBC環球娛樂.md "wikilink")、[KADOKAWA](../Page/KADOKAWA.md "wikilink")、[King Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")、[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")、DIVE II entertainment、[日本哥倫比亞](https://zh.wikipedia.org/wiki/日本哥倫比亞 "wikilink")、F.I.X. RECORDS、[飛犬](https://zh.wikipedia.org/wiki/飛犬 "wikilink")、[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")、[Lantis](../Page/Lantis.md "wikilink")、Warner Home Video
   - 企劃：AniSummer Project實行委員會
-  - 協力：埼玉超級體育館、[7-Eleven](../Page/7-Eleven.md "wikilink")、[淘兒唱片](../Page/淘兒唱片.md "wikilink")、Pia
+  - 協力：埼玉超級競技場、[7-Eleven](../Page/7-Eleven.md "wikilink")、[淘兒唱片](../Page/淘兒唱片.md "wikilink")、Pia
   - 製作協力：Grand Slam
 
 #### 主題曲
@@ -3175,12 +3175,12 @@
 ### Animelo Summer Live 2017 -THE CARD-
 
   - 舉辦日期：2017年8月25日－8月27日
-  - 會場：[埼玉超級體育館](https://zh.wikipedia.org/wiki/埼玉超級體育館 "wikilink")
+  - 會場：[埼玉超級競技場](../Page/埼玉超級競技場.md "wikilink")
   - 主辦：MAGES.、[文化放送](https://zh.wikipedia.org/wiki/文化放送 "wikilink")
   - 協力贊助：ANiUTa、[Good Smile Company](../Page/Good_Smile_Company.md "wikilink")
   - 後援：[NBC環球娛樂](../Page/NBC環球娛樂.md "wikilink")、[KADOKAWA](../Page/KADOKAWA.md "wikilink")、[King Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")、[GloryHeaven](../Page/Lantis.md "wikilink")、[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")、DIVE II entertainment、[日本哥倫比亞](https://zh.wikipedia.org/wiki/日本哥倫比亞 "wikilink")、[Flying DOG](../Page/Flying_DOG.md "wikilink")、[武士道](../Page/武士道_\(公司\).md "wikilink")、[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")、[Lantis](../Page/Lantis.md "wikilink")、Rokkan Music
   - 企劃：AniSummer Project實行委員會
-  - 協力：埼玉超級體育館、[7-Eleven](../Page/7-Eleven.md "wikilink")、[淘兒唱片](../Page/淘兒唱片.md "wikilink")、PIA
+  - 協力：埼玉超級競技場、[7-Eleven](../Page/7-Eleven.md "wikilink")、[淘兒唱片](../Page/淘兒唱片.md "wikilink")、PIA
   - 製作協力：Grand Slam
 
 #### 主題曲
@@ -3561,7 +3561,7 @@
 ### Animelo Summer Live 2018 OK\!
 
   - 舉辦日期：2018年8月24日－8月26日
-  - 會場：[埼玉超級體育館](https://zh.wikipedia.org/wiki/埼玉超級體育館 "wikilink")
+  - 會場：[埼玉超級競技場](../Page/埼玉超級競技場.md "wikilink")
   - 主辦：MAGES.、[文化放送](https://zh.wikipedia.org/wiki/文化放送 "wikilink")、[BS富士](../Page/BS富士.md "wikilink")
   - 協力贊助：ANiUTa、[Good Smile Company](../Page/Good_Smile_Company.md "wikilink")、LIVE DAM STADIUM
   - 後援：[愛貝克思娛樂](../Page/愛貝克思娛樂.md "wikilink")、[NBC環球娛樂](../Page/NBC環球娛樂.md "wikilink")、[KADOKAWA](../Page/KADOKAWA.md "wikilink")、[King Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")、ZERO-A、[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")、DIVE II entertainment、[東寶](../Page/東寶.md "wikilink")映像事業部、[日本古倫美亞](../Page/日本古倫美亞.md "wikilink")、[萬代南夢宮遊戲](https://zh.wikipedia.org/wiki/萬代南夢宮遊戲 "wikilink")、[5pb.](../Page/5pb..md "wikilink")、[Flying DOG](../Page/Flying_DOG.md "wikilink")、[武士道](../Page/武士道.md "wikilink")、[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")、[Lantis](../Page/Lantis.md "wikilink")、[日本華納家庭娛樂](../Page/日本華納家庭娛樂.md "wikilink")
@@ -3975,7 +3975,7 @@
 ### Animelo Summer Live 2019 -STORY-
 
   - 舉辦日期：2019年8月30日－9月1日
-  - 會場：埼玉超級體育館
+  - 會場：埼玉超級競技場
 
 #### 主題曲
 
@@ -4020,6 +4020,8 @@
 
   - [冰川清志](../Page/冰川清志.md "wikilink")
 
+  - 如月千早（神秘嘉賓）
+
 </div>
 
   - 8月31日
@@ -4048,6 +4050,8 @@
   - [北宇治四重奏](../Page/吹響吧！上低音號.md "wikilink")
   - [RAISE A SUILEN](https://zh.wikipedia.org/wiki/BanG_Dream!#RAISE_A_SUILEN "wikilink")
   - [大原由衣子](../Page/大原由衣子.md "wikilink")
+  - [奧井雅美](../Page/奧井雅美.md "wikilink")（神秘嘉賓）
+  - [結城愛良](../Page/結城愛良.md "wikilink")（神秘嘉賓）
 
 </div>
 
@@ -4085,14 +4089,307 @@
   - [黑崎真音](../Page/黑崎真音.md "wikilink")
   - [今井麻美](../Page/今井麻美.md "wikilink")
   - [ClariS](../Page/ClariS.md "wikilink")
+  - [放學後TEA TIME](https://zh.wikipedia.org/wiki/K-ON! "wikilink")（神秘嘉賓）
 
 </div>
+
+#### 演唱歌曲一覽
+
+:; 8月30日\[23\]
+
+:\# Prologue Ⅰ／kevin from [fhána](https://zh.wikipedia.org/wiki/fhána "wikilink") feat.
+
+:\# [歡迎來到加帕利公園](https://zh.wikipedia.org/wiki/歡迎來到加帕利公園 "wikilink")（電視動畫《[動物朋友](../Page/動物朋友.md "wikilink")》片頭曲）／動物朋友×i☆RiSphere
+
+:\# 混合曲：（電視動畫《動物朋友2》片頭曲、遊戲《動物朋友3》主題曲）／動物朋友 with [オーイシマサヨシ](../Page/大石昌良.md "wikilink")
+
+:\# Shocking Blue（電視動畫《[武裝少女Machiavellianism](../Page/武裝少女Machiavellianism.md "wikilink")》片頭曲）／[伊藤美來](../Page/伊藤美來.md "wikilink")
+
+:\# （電視動畫《[笨拙之極的上野](../Page/笨拙之極的上野.md "wikilink")》片頭曲）／伊藤美來 feat. [佐藤純一](https://zh.wikipedia.org/wiki/fhána#成員 "wikilink")（fhána）
+
+:\# Ray Rule／[石原夏織](../Page/石原夏織.md "wikilink")
+
+:\# TEMPEST（電視動畫《[魔王大人、RETRY！](../Page/魔王大人、RETRY！.md "wikilink")》片頭曲）／石原夏織
+
+:\# Grand symphony（劇埸版動畫《[少女與戰車－最終章](https://zh.wikipedia.org/wiki/少女與戰車 "wikilink")》第1～3話主題曲）／[佐咲紗花](../Page/佐咲紗花.md "wikilink")
+
+:\# 混合曲：～High-Flying Future\!\!（電視動畫《[少女與戰車](https://zh.wikipedia.org/wiki/少女與戰車 "wikilink")》插曲、印象曲）／佐咲紗花
+
+:\# Enter Enter MISSION！（電視動畫《[少女與戰車](https://zh.wikipedia.org/wiki/少女與戰車 "wikilink")》片尾曲）／佐咲紗花×[淵上舞](https://zh.wikipedia.org/wiki/淵上舞 "wikilink")
+
+:\# BLACK CAT／淵上舞
+
+:\# Lost Princess（遊戲《[超異域公主連結 Re:Dive](../Page/超異域公主連結_Re:Dive.md "wikilink")》片頭曲）／Animelo Summer Princess from 超異域公主連結 Re:Dive
+
+:\# Connecting Happy\!\!（遊戲《[超異域公主連結 Re:Dive](../Page/超異域公主連結_Re:Dive.md "wikilink")》片尾曲）／Animelo Summer Princess from 超異域公主連結 Re:Dive
+
+:\# （電視動畫《[龍珠超](../Page/龍珠超.md "wikilink")》片頭曲）／[冰川清志](../Page/冰川清志.md "wikilink")
+
+:\# TOUGH BOY（電視動畫《[北斗神拳](../Page/北斗神拳.md "wikilink")》片頭曲）／冰川清志
+
+:\# TRY UNITE\!（電視動畫《[輪迴的拉格朗日](../Page/輪迴的拉格朗日.md "wikilink")》片頭曲）／[中島愛](https://zh.wikipedia.org/wiki/中島愛 "wikilink")×石原夏織
+
+:\# ORDINARY LOVE（電視動畫《[川柳少女](../Page/川柳少女.md "wikilink")》片尾曲）／[逢田梨香子](../Page/逢田梨香子.md "wikilink")
+
+:\#  (M@STER VERSION)／如月千早 feat. 公爵
+
+:\# （電視動畫《[鑽石王牌](../Page/鑽石王牌.md "wikilink")》片尾曲）／[三森鈴子](https://zh.wikipedia.org/wiki/三森鈴子 "wikilink")
+
+:\# （電視動畫《[庭球社](../Page/庭球社.md "wikilink")》第4期主題曲）／三森鈴子×石原夏織
+
+:\# ／[芹澤優](../Page/芹澤優.md "wikilink")♡→三森鈴子←♡[大坪由佳](../Page/大坪由佳.md "wikilink")
+
+:\# （電視動畫《[萌萌侵略者 OUTBREAK COMPANY](../Page/萌萌侵略者_OUTBREAK_COMPANY.md "wikilink")》片頭曲）／三森鈴子×淵上舞
+
+:\# ／三森鈴子
+
+:\# （電視動畫《[COP CRAFT](../Page/COP_CRAFT.md "wikilink")》片頭曲）／
+
+:\# （電視動畫《[多田君不戀愛](../Page/多田君不戀愛.md "wikilink")》片頭曲）／
+
+:\# forget-me-not（電視動畫《[刀劍神域 Alicization](https://zh.wikipedia.org/wiki/刀劍神域 "wikilink")》片尾曲）／[ReoNa](../Page/ReoNa.md "wikilink")
+
+:\# （電視動畫《刀劍神域 Alicization》插曲）／ReoNa
+
+:\# 幻想曲WONDERLAND（電視節目《》片尾曲）／[i☆Ris](https://zh.wikipedia.org/wiki/i☆Ris "wikilink")
+
+:\# Endless Notes（電視動畫《[格林筆記 Animation](../Page/格林筆記.md "wikilink")The》片尾曲）／i☆Ris
+
+:\# ☆MAGIC（電視動畫《[賢者之孫](../Page/賢者之孫.md "wikilink")》片頭曲）／i☆Ris
+
+:\# （電視動畫《[風夏](../Page/風夏.md "wikilink")》片尾曲）／中島愛
+
+:\# Bitter Sweet Harmony（電視動畫《[春原莊的管理員小姐](../Page/春原莊的管理員小姐.md "wikilink")》片頭曲）／中島愛
+
+:\# [Love Dramatic](https://zh.wikipedia.org/wiki/Love_Dramatic_feat._伊原六花 "wikilink")（電視動畫《[輝夜姬想讓人告白\~天才們的戀愛頭腦戰\~](../Page/輝夜姬想讓人告白~天才們的戀愛頭腦戰~.md "wikilink")》片頭曲）／ feat. sphere
+
+:\# 混合曲：／鈴木雅之 feat. sphere
+
+:\# 混合曲：LOUDER～BLACK SHOUT／[Roselia](https://zh.wikipedia.org/wiki/BanG_Dream!_#Roselia "wikilink")
+
+:\# BRAVE JEWEL（電視動畫《[BanG Dream\!](../Page/BanG_Dream!.md "wikilink")》第2季片頭曲）／Roselia
+
+:\# [This game電視動畫](../Page/This_game.md "wikilink")《[遊戲人生](https://zh.wikipedia.org/wiki/遊戲人生 "wikilink")》片頭曲）／Roselia feat. [KONOMI SUZUKI](../Page/鈴木KONOMI.md "wikilink")
+
+:\# （電視動畫《[YU-NO 在這世界盡頭詠唱愛的少女](../Page/YU-NO_在這世界盡頭詠唱愛的少女.md "wikilink")》片尾曲）／[鈴木KONOMI](../Page/鈴木KONOMI.md "wikilink")
+
+:\# （電視動畫《[天空與海洋之間](../Page/天空與海洋之間.md "wikilink")》片尾曲）／鈴木KONOMI
+
+:\# DAYS of DASH（電視動畫《[櫻花莊的寵物女孩](../Page/櫻花莊的寵物女孩.md "wikilink")》片尾曲）／鈴木KONOMI
+
+:\# divine intervention（電視動畫《[魔女的使命](../Page/魔女的使命.md "wikilink")》片頭曲）／[fhána](https://zh.wikipedia.org/wiki/fhána "wikilink")
+
+:\# （電視動畫《[小林家的龍女僕](../Page/小林家的龍女僕.md "wikilink")》片頭曲）／fhána with anisama friends（）
+
+:\# （電視動畫《動物朋友2》片尾曲）／fhána feat. Gothic×Luck
+
+:\# （電視動畫《[實況主的逃脫遊戲【直播中】](../Page/實況主的逃脫遊戲【直播中】.md "wikilink")》片尾曲）／fhána
+
+:\# MOON SIGNAL／[sphere](https://zh.wikipedia.org/wiki/sphere_\(聲優團體\) "wikilink")
+
+:\# Music Power→\!\!\!\!／sphere
+
+:\# [Now loading...SKY\!\!](../Page/Now_loading...SKY!!.md "wikilink")（電視動畫《[玩伴貓耳娘](../Page/玩伴貓耳娘.md "wikilink")》片頭曲）／sphere
+
+:\# LET・ME・DO\!\!（電視節目《Sphere Club》主題曲）／sphere
+
+:\# CROSSING STORIES／ASL2019演出者
+
+:; 8月31日\[24\]
+
+:\# Prologue Ⅱ／kevin from fhána feat. MOTSU
+
+:\# [Paradise Lost](../Page/Paradise_Lost.md "wikilink")（電視動畫《[食靈](../Page/食靈.md "wikilink")-零-》片頭曲）／[茅原實里](../Page/茅原實里.md "wikilink")×[TRUE](../Page/唐澤美帆.md "wikilink")
+
+:\# [純白Sanctuary](../Page/純白Sanctuary.md "wikilink")（電視動畫《[Kiddy Grade 2](../Page/銀河戰警.md "wikilink")》主題曲）／茅原實里
+
+:\# not GAM（電視動畫《[實況主的逃脫遊戲【直播中】](../Page/實況主的逃脫遊戲【直播中】.md "wikilink")》片頭曲）／[畠中祐](../Page/畠中祐.md "wikilink")
+
+:\# （電視動畫《[魔法小神童加旋](https://zh.wikipedia.org/wiki/魔法小神童加旋 "wikilink")》片頭曲）／畠中祐
+
+:\# FEELING AROUND（電視動畫《[愛吃拉麵的小泉同學](../Page/愛吃拉麵的小泉同學.md "wikilink")》片頭曲）／[鈴木實里](../Page/鈴木實里.md "wikilink")
+
+:\# （電視動畫《[魔術學姐](../Page/魔術學姐.md "wikilink")》片尾曲）／鈴木實里
+
+:\# Nameless Story（電視動畫《[關於我轉生變成史萊姆這檔事](../Page/關於我轉生變成史萊姆這檔事.md "wikilink")》片頭曲）／[寺島拓篤](../Page/寺島拓篤.md "wikilink")
+
+:\# Buddy, steady, go\!（特攝電視劇《[超人TAIGA](../Page/超人力霸王Taiga.md "wikilink")》片頭曲）／寺島拓篤×超人TAIGA
+
+:\# UNSTOPPABLE（電視動畫《[BanG Dream\!](../Page/BanG_Dream!.md "wikilink")》第2季插曲）／[RAISE A SUILEN](../Page/BanG_Dream!.md "wikilink")
+
+:\# （電視動畫《BanG Dream\!》第2季插曲）／弦卷心&米歇爾+RAISE A SUILEN
+
+:\# （電視動畫《[擅長捉弄人的高木同學2](https://zh.wikipedia.org/wiki/擅長捉弄人的高木同學 "wikilink")》片尾曲）／[大原由衣子](../Page/大原由衣子.md "wikilink")
+
+:\# [搖擺不定的羅曼蒂克](../Page/搖擺不定的羅曼蒂克.md "wikilink")（電視動畫《擅長捉弄人的高木同學》插曲）／高木同學 feat. 大原由衣子
+
+:\# Next Season（電視動畫《[你所期望的永遠 Season～](../Page/你所期望的永遠.md "wikilink")～Next》片頭曲）／[Minami](../Page/Minami.md "wikilink")
+
+:\# Crystal Energy（電視動畫《[舞-乙HiME](../Page/舞-乙HiME.md "wikilink")》片頭曲2）／Minami
+
+:\# 輪舞-revolution（電視動畫《[少女革命](../Page/少女革命.md "wikilink")》片頭曲）／[奥井雅美](https://zh.wikipedia.org/wiki/奥井雅美 "wikilink")×Minami
+
+:\# DRIVE A LIVE／[偶像大師SideM](../Page/偶像大師SideM.md "wikilink")
+
+:\# 混合曲：LET'S GO\!\!～RAY OF LIGHT～Legacy of Spirit／偶像大師SideM
+
+:\# PRIDE STAR／偶像大師SideM
+
+:\# 混合曲：～舞台少女心得／[Starlight九九組](../Page/少女☆歌劇Revue_Starlight.md "wikilink")
+
+:\# The Galaxy Express 999（劇場版動畫《[銀河鐵道999](../Page/銀河鐵道999.md "wikilink")》主題曲）／Starlight九九組
+
+:\# Star Divine／Starlight九九組
+
+:\# （電視動畫《[YU-NO 在這世界盡頭詠唱愛的少女](../Page/YU-NO_在這世界盡頭詠唱愛的少女.md "wikilink")》片頭曲）／[亞咲花](../Page/亞咲花.md "wikilink")
+
+:\# SHINY DAYS（電視動畫《[搖曳露營△](../Page/搖曳露營△.md "wikilink")》片頭曲）／亞咲花 feat. 鈴木實里
+
+:\# Get Wild（電視動畫《[城市獵人](https://zh.wikipedia.org/wiki/城市獵人 "wikilink")》片尾曲）／亞咲花×鈴木實里
+
+:\# （電視動畫《[只要長得可愛，即使是變態你也喜歡嗎？](../Page/只要長得可愛，即使是變態你也喜歡嗎？.md "wikilink")》片頭曲）／[大橋彩香](../Page/大橋彩香.md "wikilink")
+
+:\# MIRROR HEART（電視動畫《[政宗君的復仇](../Page/政宗君的復仇.md "wikilink")》片頭曲）／大橋彩香
+
+:\# Another colony（電視動畫《關於我轉生變成史萊姆這檔事》片尾曲）／TRUE
+
+:\# Blast\!（劇場版動畫《[吹響吧！上低音號 ～誓言的終章～](../Page/吹響吧！上低音號.md "wikilink")》主題曲）／TRUE
+
+:\# DREAM SOLISTER（電視動畫《[吹響吧！上低音號](../Page/吹響吧！上低音號.md "wikilink")》片頭曲）／TRUE×[北宇治四重奏](../Page/吹響吧！上低音號.md "wikilink")
+
+:\# （電視動畫《吹響吧！上低音號》片尾曲）／北宇治四重奏
+
+:\# Violet Snow（電視動畫《[紫羅蘭永恆花園](https://zh.wikipedia.org/wiki/紫羅蘭永恆花園 "wikilink")》印象曲）／[結城愛良](../Page/結城愛良.md "wikilink")
+
+:\# （劇場版動畫《[紫羅蘭永恆花園 外傳—永遠與自動手記人偶—](https://zh.wikipedia.org/wiki/紫羅蘭永恆花園 "wikilink")》片尾曲）／茅原實里
+
+:\# Wonder Caravan！（電視動畫《[Endro～！](../Page/Endro～！.md "wikilink")》片尾曲）／[水瀨祈](../Page/水瀨祈.md "wikilink")
+
+:\# Ready Steady Go\!／水瀨祈
+
+:\# TRUST IN ETERNITY（遊戲《Gestalt Odin》主題曲）／水瀨祈
+
+:\# THE BEYOND（電視動畫《[蒼穹之戰神 THE BEYOND](../Page/蒼穹之戰神.md "wikilink")》片頭曲）／[angela](https://zh.wikipedia.org/wiki/angela "wikilink")
+
+:\# 混合曲：全力☆Shangri-La～全力☆（電視動畫《[單蠢女孩](../Page/單蠢女孩.md "wikilink")》、《[蒼穹之戰神](../Page/蒼穹之戰神.md "wikilink")》、《[銀河騎士傳](https://zh.wikipedia.org/wiki/銀河騎士傳 "wikilink")》片頭曲）／angela
+
+:\# SURVIVE\!（劇場版動畫《[K SEVEN STORIES](../Page/K_\(劇場版\).md "wikilink")》主題曲）／angela
+
+:\# High Free Spirits（電視動畫《[高校艦隊](../Page/高校艦隊.md "wikilink")》片頭曲）／[TrySail](../Page/TrySail.md "wikilink")
+
+:\# Sunset カンフー／TrySail
+
+:\# adrenaline\!\!\!（電視動畫《[情色漫畫老師](../Page/情色漫畫老師.md "wikilink")》片尾曲）／TrySail
+
+:\# [我們奔跑而來的道路…](https://zh.wikipedia.org/wiki/我們奔跑而來的道路…/Next_SPARKLING!! "wikilink")（劇場版動畫《[Love Live\! Sunshine\!\! 學園偶像電影\~彩虹彼端\~](../Page/Love_Live!_Sunshine!!_學園偶像電影~彩虹彼端~.md "wikilink")》片頭曲）／[Aqours](../Page/Aqours.md "wikilink")
+
+:\# [青空Jumping Heart](../Page/青空Jumping_Heart.md "wikilink")（電視動畫《[LoveLive\! Sunshine\!\!](https://zh.wikipedia.org/wiki/LoveLive!_Sunshine!! "wikilink")》片頭曲）／Aqours
+
+:\# [思念合而為一吧](https://zh.wikipedia.org/wiki/思念合而為一吧/MIRAI_TICKET "wikilink")（電視動畫《LoveLive\! Sunshine\!\!》插曲）／Aqours
+
+:\# [勇氣在哪？在你的內心！](../Page/勇氣在哪？在你的內心！.md "wikilink")（電視動畫《LoveLive\! Sunshine\!\!》第2季片尾曲）／Aqours
+
+:\# CROSSING STORIES／ASL2019演出者
+
+:; 9月1日\[25\]
+
+:\# Prologue Ⅲ／kevin from fhána feat. MOTSU
+
+:\# [Preserved Roses](../Page/Preserved_Roses.md "wikilink")（電視動畫《[革命機Valvrave](../Page/革命機Valvrave.md "wikilink")》片頭曲）／[藍井艾露](../Page/藍井艾露.md "wikilink")×[蒼井翔太](../Page/蒼井翔太.md "wikilink")
+
+:\# （電視動畫《[高達創戰潛行者](https://zh.wikipedia.org/wiki/高達創戰潛行者 "wikilink")》片尾曲）／
+
+:\# （電視動畫《[普通攻擊是全體二連擊，這樣的媽媽你喜歡嗎？](../Page/普通攻擊是全體二連擊，這樣的媽媽你喜歡嗎？.md "wikilink")》片頭曲）／Spira Spica
+
+:\# [TOKIMEKI Runners](../Page/TOKIMEKI_Runners.md "wikilink")／[虹咲學園校園偶像同好會](../Page/虹咲學園校園偶像同好會.md "wikilink")
+
+:\# （電視動畫《[為什麼老師會在這裡！？](../Page/為什麼老師會在這裡！？.md "wikilink")》片頭曲）／[上坂堇](../Page/上坂堇.md "wikilink")
+
+:\# last sparkle（電視動畫《[POP TEAM EPIC](../Page/POP_TEAM_EPIC.md "wikilink")》片頭曲）／上坂堇
+
+:\# 混合曲：SHIORI～[CheerS](../Page/CheerS_\(ClariS單曲\).md "wikilink")（電視動畫《終物語》第2季片尾曲、《[工作細胞](../Page/工作細胞.md "wikilink")》片尾曲）／[ClariS](../Page/ClariS.md "wikilink")
+
+:\# [secret base ～你給我的東西～](https://zh.wikipedia.org/wiki/secret_base_～你給我的東西～ "wikilink")／ClariS
+
+:\# （電視動畫《[狂賭之淵](../Page/狂賭之淵.md "wikilink")××》片頭曲）／[JUNNA](../Page/JUNNA.md "wikilink")
+
+:\# （電視動畫《[BEM](../Page/妖怪人間貝姆.md "wikilink")》片尾曲）／JUNNA
+
+:\# Believe in Sky（電視動畫《[粉彩回憶](../Page/粉彩回憶.md "wikilink")》片頭曲）／[今井麻美](../Page/今井麻美.md "wikilink")
+
+:\# ／今井麻美
+
+:\# Speechless（電視動畫《[一弦定音！](../Page/一弦定音！.md "wikilink")》片尾曲）／[内田雄馬](https://zh.wikipedia.org/wiki/内田雄馬 "wikilink")
+
+:\# Hands（特攝電視劇《[超人力霸王R / B](https://zh.wikipedia.org/wiki/超人力霸王R_/_B "wikilink")》片頭曲）／内田雄馬×[OxT](../Page/OxT.md "wikilink")
+
+:\# （電視動畫《[鑽石王牌 actII](../Page/鑽石王牌.md "wikilink")》片尾曲）／[內田真禮](../Page/內田真禮.md "wikilink")
+
+:\# youthful beautiful（電視動畫《[SSSS.GRIDMAN](../Page/SSSS.GRIDMAN.md "wikilink")》片尾曲）／內田真禮
+
+:\# ／內田真禮 feat. 上坂堇
+
+:\# BRAVER（電視動畫《[食戟之靈 餐之皿](https://zh.wikipedia.org/wiki/食戟之靈 "wikilink")》片頭曲）／[ZAQ](../Page/ZAQ.md "wikilink")
+
+:\# （電視動畫《[荒野的壽飛行隊](../Page/荒野的壽飛行隊.md "wikilink")》片頭曲）／ZAQ
+
+:\# 混合曲：buzz★Parade～／buzz★Vibes
+
+:\# 混合曲：EZ DO DANCE～buzz★Parade／buzz★Vibes feat. MOTSU
+
+:\# [Don't say "lazy"](../Page/Don't_say_"lazy".md "wikilink")（電視動畫《[K-ON\!](https://zh.wikipedia.org/wiki/K-ON! "wikilink")》片尾曲）／[放學後TEA TIME](https://zh.wikipedia.org/wiki/K-ON! "wikilink")
+
+:\# [GO\! GO\! MANIAC](../Page/GO!_GO!_MANIAC.md "wikilink")（電視動畫《K-ON\!》片頭曲）／放學後TEA TIME
+
+:\# Tread on the Tiger’s Tail（遊戲《[超級機器人大戰T](../Page/超級機器人大戰T.md "wikilink")》主題曲）／[JAM Project](../Page/JAM_Project.md "wikilink")
+
+:\# （電視動畫《[一拳超人](../Page/一拳超人.md "wikilink")》第2季片頭曲）／JAM Project
+
+:\# HERO／JAM Project
+
+:\# SKILL（遊戲《[第2次超級機械人大戰α](https://zh.wikipedia.org/wiki/第2次超級機械人大戰α "wikilink")》主題曲）／JAM Project with MOTSU、ZAQ、今井麻美、buzz★Vibes、OxT、[Poppin'Party](https://zh.wikipedia.org/wiki/BanG_Dream!_#Poppin'Party "wikilink")、Spira Spica、虹咲學園校園偶像同好會、上坂堇、内田雄馬
+
+:\# （電視動畫《[哈姆太郎](../Page/哈姆太郎.md "wikilink")》片頭曲）／[小倉唯](../Page/小倉唯.md "wikilink")×內田真禮
+
+:\# （電視動畫《[卡片鬥爭\!\! 先導者G 超越之門篇](https://zh.wikipedia.org/wiki/卡片鬥爭!!_先導者 "wikilink")》片尾曲）／小倉唯
+
+:\# Raise（電視動畫《[Campione 弒神者！](../Page/Campione_弒神者！.md "wikilink")》片尾曲）／小倉唯
+
+:\# ROAR（電視動畫《[魔法禁書目錄Ⅲ](https://zh.wikipedia.org/wiki/魔法禁書目錄 "wikilink")》片頭曲）／[黑崎真音](../Page/黑崎真音.md "wikilink")
+
+:\# （劇場版動畫《[灰色：幻影扳機](../Page/灰色：幻影扳機.md "wikilink")》片頭曲）／黑崎真音
+
+:\# Tone（電視動畫《一弦定音！》片頭曲）／蒼井翔太
+
+:\# UNLIMITED／蒼井翔太
+
+:\# Clattanoia（電視動畫《[OVERLORD](../Page/OVERLORD_\(小說\).md "wikilink")》片頭曲）／OxT
+
+:\# （電視動畫《[鑽石王牌 actII](../Page/鑽石王牌.md "wikilink")》片尾曲）／OxT
+
+:\# UNION（電視動畫《[SSSS.GRIDMAN](../Page/SSSS.GRIDMAN.md "wikilink")》片頭曲）／OxTxSSSS.GRIDMAN
+
+:\# ／Poppin'Party feat. Anisama Band
+
+:\# STAR BEAT\!～～／Poppin'Party
+
+:\# ／Poppin'Party
+
+:\# （電視動畫《[KILL la KILL](../Page/KILL_la_KILL.md "wikilink")》片頭曲）／藍井艾露
+
+:\# [INNOCENCE](../Page/INNOCENCE.md "wikilink")（電視動畫《[刀劍神域](https://zh.wikipedia.org/wiki/刀劍神域 "wikilink")》片頭曲）／藍井艾露
+
+:\# （電視動畫《[滿月之戰](../Page/滿月之戰.md "wikilink")》片頭曲）／藍井艾露
+
+:\# [IGNITE](../Page/IGNITE.md "wikilink")（電視動畫《[刀劍神域II](https://zh.wikipedia.org/wiki/刀劍神域 "wikilink")》片頭曲）藍井艾露
+
+:\# CROSSING STORIES／ASL2019演出者
 
 ## 參考資料
 
 ## 外部連結
 
-  - [Animelo Summer Live 最新一屆官方網站](http://anisama.tv/index.php)
+  - [Animelo Summer Live官方網站](https://anisama.tv/)
 
 <!-- end list -->
 
@@ -4128,7 +4425,7 @@
 
       - [Animelo Summer Live 2019 -STORY- 官方網站](https://anisama.tv/2019/)
 
-[Category:動畫音樂會](https://zh.wikipedia.org/wiki/Category:動畫音樂會 "wikilink")
+[Category:動畫音樂會](https://zh.wikipedia.org/wiki/Category:動畫音樂會 "wikilink") [Category:2005年日本建立](https://zh.wikipedia.org/wiki/Category:2005年日本建立 "wikilink") [Category:2005年建立的週期性事件](https://zh.wikipedia.org/wiki/Category:2005年建立的週期性事件 "wikilink") [Category:文化放送](https://zh.wikipedia.org/wiki/Category:文化放送 "wikilink") [Category:多玩國](https://zh.wikipedia.org/wiki/Category:多玩國 "wikilink")
 
 1.
 
@@ -4161,3 +4458,7 @@
 
 21.
 22.
+23.
+
+24.
+25.

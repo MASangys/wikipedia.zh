@@ -172,7 +172,7 @@
   - 高校星歌劇 第2期（虎石和泉）
   - [喧嘩番長 乙女－Girl Beats Boys－](https://zh.wikipedia.org/wiki/喧嘩番長_乙女 "wikilink")（**箕輪-{斗斗}-丸**\[1\]）
   - [將國戡亂記](../Page/將國戡亂記.md "wikilink")（**裘洛斯**）
-  - [我的英雄學院](../Page/我的英雄學院.md "wikilink")（英雄：原住民）
+  - [我的英雄學院 第2期](../Page/我的英雄學院.md "wikilink")（原住民）
   - [泥鯨之子們在沙地上歌唱](../Page/泥鯨之子們在沙地上歌唱.md "wikilink")（ロハリト·ノ·アモンロギア）
 
 <!-- end list -->

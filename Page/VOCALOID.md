@@ -5,7 +5,7 @@
 开发者原来想将VOCALOID命名为“雏菊”（）并参考了歌曲，但由于版权问题，最终该软件被命名为VOCALOID\[8\]。VOCALOID一词的来源有2种说法：
 
   - 由英语单词“vocal（歌唱）”和词缀“oid（类似的，...状的）”构成，意思是“能唱歌的东西”。
-  - 由“vocal”和“Android（机器人）”组成，意思是“能唱歌的机器人”。
+  - 由“Vocal”和“Android（人形机器人）”组成，意思是“能唱歌的机器人”。
 
 ## 历史
 
@@ -25,7 +25,9 @@ VOCALOID 3于2011年10月21日推出，一些工作室可以将VOCALOID 2的声�
 
 [克里普敦未来媒体的](https://zh.wikipedia.org/wiki/克里普敦未來媒體 "wikilink")[初音未来Vocaloid](https://zh.wikipedia.org/wiki/初音未来 "wikilink") 2软件发布后\[19\]，VOCALOID开始在日本流行起来，她的成功导致了Vocaloid软件的普及\[20\]，是VOCALOID成名的关键因素，她的代表作是[甩葱歌](../Page/甩蔥歌.md "wikilink")\[21\]。日本[视频分享网站](https://zh.wikipedia.org/wiki/短片分享网站 "wikilink")[Niconico在软件的认可和普及中发挥了重要作用](../Page/Niconico動畫.md "wikilink")。克里普敦未来媒体称，他们知道在初音未来发布前，Niconico的用户便已开始以视频的形式发布用VOCALOID制作的歌曲，这些视频充分展现出了该引擎制作多媒体文件时可以展现出的各种可能，尤其是[同人文化](../Page/同人_\(ACG\).md "wikilink")\[22\]。随着其认可度和知名度的不断上升，Niconico成为了合作内容创建的地方，用户在这里将编写的原创流行歌曲与2D动画和3D动画以及其他用户的混音混合起来，许多创作者也可以在此展示一些未完成的作品并征求意见\[23\]。该软件也被用于以歌曲和诗歌的形式讲故事，例如现已有1部漫画、6本书和2本剧本的作品[惡之系列](../Page/惡之系列.md "wikilink")\[24\]\[25\]。[NICONICO动画在推广Vocaloids方面发挥的重要作用也激起了人们对软件的兴趣](https://zh.wikipedia.org/wiki/NICONICO动画 "wikilink")，[三浦建太郎](../Page/三浦建太郎.md "wikilink")也因为对网站的热爱而为他提供了免费服务\[26\]。VOCALOID影响巨大，在线音乐分享平台[SoundCloud](../Page/SoundCloud.md "wikilink")和视频网站Youtube上相关音乐和视频的数量已达到了240万\[27\]。 [链接=<https://zh.wikipedia.org/wiki/File:Akatsuki.png>](https://zh.wikipedia.org/wiki/File:Akatsuki.png "fig:链接=https://zh.wikipedia.org/wiki/File:Akatsuki.png") 2009年9月，3个与初音未来密切相关的雕像被载上了[美国](../Page/美国.md "wikilink")[内华达州](../Page/内华达州.md "wikilink")的火箭，但它没能抵达[外层空间](../Page/外层空间.md "wikilink")\[28\]\[29\]。2010年5月21日06:58:22（[日本标准时间](../Page/日本標準時間.md "wikilink")），日本首个金星探测器[破晓号](../Page/破曉號.md "wikilink")（[日语](../Page/日语.md "wikilink")：あかつき）在[H-IIA运载火箭](../Page/H-IIA运载火箭.md "wikilink")的帮助下从日本的[种子岛宇宙中心发射](https://zh.wikipedia.org/wiki/种子岛宇宙中心 "wikilink")，探测器内载有3个描绘初音未来的金属板\[30\]\[31\]。在[2011年東日本大地震期间](https://zh.wikipedia.org/wiki/2011年東日本大地震 "wikilink")，人们生产了许多与Vocaloid有关的献血驱动器。
 
-VOCALOID对中国大陆也产生了影响。在中国大陆，使用该软件的虚拟歌姬以[洛天依](../Page/洛天依.md "wikilink")最为出名，她由上海禾念信息科技有限公司和Bplats一同开发，于2012年7月发售，并曾于2016年在中国视频弹幕网站[Bilibili](../Page/Bilibili.md "wikilink")举办的线下活动Bilibili Macro Link上亮相，代表歌曲为《[权御天下](https://zh.wikipedia.org/wiki/权御天下 "wikilink")》等\[32\]，她也演唱过《[索尼](../Page/索尼.md "wikilink")大法好》等神曲。2013年，第二位使用中文的虚拟歌姬[言和](../Page/言和.md "wikilink")横空出世，代表作为[梦之雨等](https://zh.wikipedia.org/wiki/梦之雨 "wikilink")。华创文化有限公司代理销售的华语虚拟歌姬[心华声源来自](../Page/心華.md "wikilink")[台湾](https://zh.wikipedia.org/wiki/台湾 "wikilink")，于2015年4月24日在日本首賣\[33\]；2015年6月27日在中國大陸首賣。
+VOCALOID对中国大陆也产生了影响。在中国大陆，使用该软件的虚拟歌姬以[洛天依](../Page/洛天依.md "wikilink")最为出名，她由上海禾念信息科技有限公司和Bplats一同开发，于2012年7月发售，并曾于2016年在中国视频弹幕网站[Bilibili](../Page/Bilibili.md "wikilink")举办的线下活动Bilibili Macro Link上亮相，代表歌曲为《[权御天下](https://zh.wikipedia.org/wiki/权御天下 "wikilink")》等\[32\]，她也演唱过《[索尼](../Page/索尼.md "wikilink")大法好》等神曲。2013年，第二位使用中文的虚拟歌姬[言和](../Page/言和.md "wikilink")横空出世，代表作为[梦之雨等](https://zh.wikipedia.org/wiki/梦之雨 "wikilink")。
+
+另外在台灣，則有华创文化有限公司代理销售的华语虚拟歌姬[心华](../Page/心華.md "wikilink")。于2015年4月24日在日本首賣\[33\]；2015年6月27日在中國首賣。
 
 ## 各種參數
 

@@ -42,7 +42,7 @@ GOTO语句一直是批评和争论的目标，主要的负面影响是使用GOTO
 
 ### 限制的GOTO
 
-许多语言，如[C语言和](https://zh.wikipedia.org/wiki/C语言 "wikilink")[Java](../Page/Java.md "wikilink")，提供了相关的控制流语句，如`break`和`continue`，它们都是有效地被限制的goto语句。它们的作用是无条件跳转，但是只能够跳到[循环块结束的位置](https://zh.wikipedia.org/wiki/程式迴圈 "wikilink")——继续进入下一循环（continue）或者结束循环（break）。对于break语句，部分语言允许附加特定参数来控制结束循环的范围，例如[PHP](../Page/PHP.md "wikilink")允许标记数字参数代表跳出嵌套语句的层数，\[5\]Java允许在循环语句前添加<标签名>`:`，在循环内以标签名作为参数代表跳转到该循环语句的结束位置。
+许多语言，如[C语言和](https://zh.wikipedia.org/wiki/C语言 "wikilink")[Java](../Page/Java.md "wikilink")，提供了相关的控制流语句，如`break`和`continue`，它们都是有效地被限制的goto语句。它们的作用是无条件跳转，但是只能够跳到[循环块结束的位置](https://zh.wikipedia.org/wiki/程式迴圈 "wikilink")——继续进入下一循环（continue）或者结束循环（break）。对于break语句，部分语言允许附加特定参数来控制结束循环的范围，例如[PHP](../Page/PHP.md "wikilink")允许标记数字参数代表跳出嵌套语句的层数，\[5\]Java允许例如在循环语句开始前添加<标签名>`:`，在循环内以标签名作为参数代表跳转到该循环语句的结束位置。
 
 对于Java而言，虽然`goto`是作为保留字，但没有赋予其功能，从而限制goto的使用。
 

@@ -1621,7 +1621,7 @@
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>2019年10月7日－<br />
-2019年月日</p></td>
+2019年11月26日</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/VIP_(韓國電視劇)" title="wikilink">VIP</a><br />
 </p></td>
 <td style="text-align: center;"><p>32</p></td>
@@ -1631,12 +1631,14 @@
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
+<td style="text-align: center;"><p>2019年12月－<br />
+2020年</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/浪漫醫生金師傅2" title="wikilink">浪漫醫生金師傅2</a><br />
+</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><p><a href="../Page/劉仁植.md" title="wikilink">劉仁植</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/姜銀慶.md" title="wikilink">姜銀慶</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>

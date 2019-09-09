@@ -12,7 +12,9 @@ EPub於2007年9月成為國際數位出版論壇（IDPF）\[3\]的正式標準�
 
 ## 文件格式
 
-### 3.1版（当前版本）
+### 3.2版(當前版本)
+
+### 3.1版
 
 EPUB 3.0推荐规范发布于2011年10月11日。2014年6月26日，EPUB 3.0.1发布，作为3.0的小维护更新。2017年1月5日發布EPUB 3.1，對文字的格式規範進行了重組和清理。EPUB 3.0取代了之前的EPUB 2.0.1版。可以从[IDPF网站](http://idpf.org/epub/30/spec/epub30-changes.html)找到2.0.1到3.0版本的更新内容。
 
@@ -127,7 +129,7 @@ EPUB规范没有强制或推荐使用特定的[数字版权管理](../Page/数�
 
   - [iBooks](https://zh.wikipedia.org/wiki/iBooks "wikilink")：Apple的電子書閱讀工具，支援書面材質、翻頁特效、標註、Spotlight、字典功能，能夠透過自家iBooks Store下載電子書。
   - [BookU趣看書](https://zh.wikipedia.org/wiki/BookU趣看書 "wikilink")（iPad版）：即時繁簡互換，支持中文豎排，支持New iPad高解析度，ePub閱讀器免費使用。
-  - [Stanza](https://zh.wikipedia.org/wiki/Stanza "wikilink")（電腦桌面版、iPhone版）
+  - Stanza（電腦桌面版、iPhone版）
   - [sReader](https://zh.wikipedia.org/wiki/sReader "wikilink")（iPhone版）
   - 京东读书
   - 掌阅
@@ -161,12 +163,15 @@ EPUB规范没有强制或推荐使用特定的[数字版权管理](../Page/数�
 <!-- end list -->
 
   - [LibreOffice](https://zh.wikipedia.org/wiki/LibreOffice "wikilink"):開放的辦公室套裝軟體，在6.0版中增加「匯出為EPUB」之選項。支援Windows 、 Mac 及 Linux。
+  - [Google文件](../Page/Google文件.md "wikilink"):Google提供的網頁式辦公套件在線服務，在檔案-\>下載-\>EPUB Publication(.epub)之選項。
 
 ## 作業系統
 
   - [OpenInkpot](https://zh.wikipedia.org/wiki/OpenInkpot "wikilink")：開放原始碼的嵌入式作業系統，相容於多種eReader閱讀設備。
 
 ## 硬體閱讀系統
+
+  - [蘋果Mac系列](https://zh.wikipedia.org/wiki/Mac "wikilink")（使用iBooks軟體）
 
   - [蘋果iPad](https://zh.wikipedia.org/wiki/iPad "wikilink")（使用iBooks軟體）
 

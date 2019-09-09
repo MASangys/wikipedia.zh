@@ -619,8 +619,8 @@ Hey\! Say\! 7的「**7**」是2007年結成的意思，Hey\! Say\! BEST的「**B
 <td><p>25</p></td>
 <td><p>2019年8月21日</p></td>
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/ファンファーレ！" title="wikilink">ファンファーレ！</a></strong></p></td>
-<td></td>
-<td></td>
+<td><p>首日13.5萬張 首周22.4萬張</p></td>
+<td><p>1位</p></td>
 <td><p>電視劇『<a href="https://zh.wikipedia.org/wiki/セミオトコ" title="wikilink">セミオトコ</a>』主題曲</p></td>
 </tr>
 <tr class="odd">

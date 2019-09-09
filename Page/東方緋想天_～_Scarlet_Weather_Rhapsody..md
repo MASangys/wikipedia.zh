@@ -1,4 +1,4 @@
-[Strange_Weather_Rhapsody.jpg](https://zh.wikipedia.org/wiki/File:Strange_Weather_Rhapsody.jpg "fig:Strange_Weather_Rhapsody.jpg") 是由[上海愛麗絲幻樂團與](https://zh.wikipedia.org/wiki/上海愛麗絲幻樂團 "wikilink")[黃昏邊境](../Page/黃昏邊境.md "wikilink")共同製作的[格鬥遊戲](../Page/格鬥遊戲.md "wikilink")，是[東方Project的](https://zh.wikipedia.org/wiki/東方Project "wikilink")10.5作。當初此作預定是被稱為9.8作，後來則轉為10.5作。
+[Strange_Weather_Rhapsody.jpg](https://zh.wikipedia.org/wiki/File:Strange_Weather_Rhapsody.jpg "fig:Strange_Weather_Rhapsody.jpg") 是由[上海愛麗絲幻樂團](../Page/上海愛麗絲幻樂團.md "wikilink")與[黃昏邊境](../Page/黃昏邊境.md "wikilink")共同製作的[格鬥遊戲](../Page/格鬥遊戲.md "wikilink")，是[東方Project的](https://zh.wikipedia.org/wiki/東方Project "wikilink")10.5作。當初此作預定是被稱為9.8作，後來則轉為10.5作。
 
 ## 概要
 

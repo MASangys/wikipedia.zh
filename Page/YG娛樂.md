@@ -73,6 +73,23 @@ YG整套造星團隊包括：音樂錄製、發行、藝人包裝等；同時還
   - [李遐怡](../Page/李遐怡.md "wikilink")
   - [CL](https://zh.wikipedia.org/wiki/李彩麟 "wikilink")
   - [Dara](https://zh.wikipedia.org/wiki/Dara "wikilink")
+  - [水晶男孩](../Page/水晶男孩.md "wikilink")
+      - [殷志源](https://zh.wikipedia.org/wiki/殷志源 "wikilink")
+  - [BIGBANG](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")
+      - [太陽](../Page/太陽_\(歌手\).md "wikilink")
+      - [G-Dragon](../Page/G-Dragon.md "wikilink")
+      - [T.O.P](https://zh.wikipedia.org/wiki/T.O.P "wikilink")
+      - [大聲](https://zh.wikipedia.org/wiki/大聲 "wikilink")
+  - [樂童音樂家](https://zh.wikipedia.org/wiki/樂童音樂家 "wikilink")
+      - [李秀贤](https://zh.wikipedia.org/wiki/樂童音樂家 "wikilink")
+  - [WINNER](../Page/WINNER.md "wikilink")
+      - [YOON](../Page/姜昇潤.md "wikilink")
+      - [MINO](https://zh.wikipedia.org/wiki/MINO "wikilink")
+      - [JINU](../Page/金秦禹.md "wikilink")
+  - [iKON](https://zh.wikipedia.org/wiki/iKON "wikilink")
+      - [BOBBY](../Page/金知元_\(饒舌者\).md "wikilink")
+  - [BLACKPINK](../Page/BLACKPINK.md "wikilink")
+      - [Jennie](../Page/Jennie_\(韓國歌手\).md "wikilink")
 
 #### 製作人
 
@@ -103,6 +120,8 @@ YG整套造星團隊包括：音樂錄製、發行、藝人包裝等；同時還
   - Millennium(崔來星)
 
 ### 独立音乐人
+
+Ella Gross(模特儿）
 
 #### HIGHGRND
 
@@ -174,7 +193,6 @@ YG整套造星團隊包括：音樂錄製、發行、藝人包裝等；同時還
   - [李洙赫](../Page/李洙赫.md "wikilink")
   - [黃勝妍](../Page/黃勝妍.md "wikilink")
   - [景收真](../Page/景收真.md "wikilink")
-  - [安英美](../Page/安英美.md "wikilink")
   - [李夏恩](https://zh.wikipedia.org/wiki/李夏恩 "wikilink")（YGKPlus）
   - 裴正南（YGKPlus）
   - 李皓京（YGKPlus）
@@ -188,6 +206,12 @@ YG整套造星團隊包括：音樂錄製、發行、藝人包裝等；同時還
   - 飞叶大树（YGEX）
   - 戸奈步美（YGEX）
   - 高田真史帆（YGEX）
+
+### 藝人
+
+  - [Dara](https://zh.wikipedia.org/wiki/Dara "wikilink")（前[2NE1](../Page/2NE1.md "wikilink")成員）
+  - [安英美](../Page/安英美.md "wikilink")
+  - [權玄彬](../Page/權玄彬.md "wikilink")（[YG K Plus](../Page/YG_K_Plus.md "wikilink")）
 
 ### 運動員（YG Sports）
 
@@ -205,7 +229,6 @@ YG整套造星團隊包括：音樂錄製、發行、藝人包裝等；同時還
 
   - [金宗燮](../Page/金宗燮.md "wikilink")\[33\]（[K-pop Star 6](../Page/K-pop_Star_6.md "wikilink")、[YG寶石盒](../Page/YG寶石盒.md "wikilink")）
   - [王君豪](../Page/王君豪.md "wikilink")（[YG寶石盒](../Page/YG寶石盒.md "wikilink")、[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
-  - Mahiro（[YG寶石盒](../Page/YG寶石盒.md "wikilink")、[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
   - 李仁宏（[YG寶石盒](../Page/YG寶石盒.md "wikilink")）
   - 鄭俊赫（[YG寶石盒](../Page/YG寶石盒.md "wikilink")）
   - 尹施允（[YG寶石盒](../Page/YG寶石盒.md "wikilink")）
@@ -364,12 +387,13 @@ YG整套造星團隊包括：音樂錄製、發行、藝人包裝等；同時還
       - 朴書英 Park Seo Young
   - 《[YG寶石盒](../Page/YG寶石盒.md "wikilink")》
       - 李美談（《[Stray Kids](https://zh.wikipedia.org/wiki/Stray_Kids_\(電視節目\) "wikilink")》、《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》）
-      - 姜碩華（《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》）
+      - 姜錫華（《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》）
       - [金成淵](../Page/金成淵.md "wikilink")（《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》、《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》）
       - 張尹瑞
       - 吉道煥
-      - Kotaro
-      - Keita
+      - 日高 真尋（《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》）
+      - 岡本 太郎
+      - 寺園 啟太
   - 《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》
       - 金施勲
 

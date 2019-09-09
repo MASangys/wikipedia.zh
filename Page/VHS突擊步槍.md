@@ -96,6 +96,12 @@ VHS的其中一個缺失是[人體工學差劣](../Page/人因工程学.md "wiki
 
   -   - 多哥陸軍
 
+## 流行文化
+
+### [电影](../Page/电影.md "wikilink")
+
+  - 2019年—《[-{zh-cn:速度与激情：特别行动;zh-hk:狂野時速：雙雄聯盟;zh-tw:玩命關頭：特別行動;zh-sg:玩命关头：特别行动;}-](../Page/玩命關頭：特別行動.md "wikilink")》：首度在銀幕上出現，型號為K2型，被國際恐怖主義組織「伊特昂」成員、路克·賀斯（Luke Hobbs，[巨石強森](../Page/巨石強森.md "wikilink")飾演）、狄卡·邵（Deckard Shaw，[傑森·史塔森](../Page/傑森·史塔森.md "wikilink")飾演）和[MI6哈蒂](../Page/秘密情報局.md "wikilink")·邵探員（哈蒂·邵，[凡妮莎·寇比](../Page/凡妮莎·寇比.md "wikilink")飾演）所使用。
+
 ## 參見
 
   - [VHS-BG附加型榴彈發射器](../Page/VHS-BG附加型榴彈發射器.md "wikilink")

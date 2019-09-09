@@ -37,6 +37,7 @@
   - c，是物質[比熱容](../Page/比熱容.md "wikilink")的符號，亦稱[比熱容量](https://zh.wikipedia.org/wiki/比熱容量 "wikilink")。
   - C，[電容](../Page/電容.md "wikilink")的符號。
   - [碳](../Page/碳.md "wikilink")原子
+  - [C语言](https://zh.wikipedia.org/wiki/C语言 "wikilink")
 
 ## 交通
 

@@ -4,7 +4,7 @@
 
 它是[Yahoo\! Pipes与](https://zh.wikipedia.org/wiki/Yahoo!_Pipes "wikilink")[Microsoft Popfly的直接竞争对手](https://zh.wikipedia.org/wiki/Microsoft_Popfly "wikilink")。
 
-该服务已经於2009年关闭，Google希望其用户转移到[Google App Engine](https://zh.wikipedia.org/wiki/Google_App_Engine "wikilink")。\[1\]
+该服务已经於2009年关闭，Google希望其用户转移到[Google App Engine](../Page/Google_App_Engine.md "wikilink")。\[1\]
 
 ## 参见
 

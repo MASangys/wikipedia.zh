@@ -1,4 +1,4 @@
-[The_Embodiment_of_Scarlet_Devil.jpg](https://zh.wikipedia.org/wiki/File:The_Embodiment_of_Scarlet_Devil.jpg "fig:The_Embodiment_of_Scarlet_Devil.jpg") 是由[同人社團](https://zh.wikipedia.org/wiki/同人社團 "wikilink")[上海愛麗絲幻樂團所制作的縱](https://zh.wikipedia.org/wiki/上海愛麗絲幻樂團 "wikilink")[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")，是[東方Project的第](https://zh.wikipedia.org/wiki/東方Project "wikilink")6作，也是[東方Project在](https://zh.wikipedia.org/wiki/東方Project "wikilink")[Windows平台上的第一作](https://zh.wikipedia.org/wiki/Windows "wikilink")。
+[The_Embodiment_of_Scarlet_Devil.jpg](https://zh.wikipedia.org/wiki/File:The_Embodiment_of_Scarlet_Devil.jpg "fig:The_Embodiment_of_Scarlet_Devil.jpg") 是由[同人社團](https://zh.wikipedia.org/wiki/同人社團 "wikilink")[上海愛麗絲幻樂團](../Page/上海愛麗絲幻樂團.md "wikilink")所制作的縱[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")，是[東方Project的第](https://zh.wikipedia.org/wiki/東方Project "wikilink")6作，也是[東方Project在](https://zh.wikipedia.org/wiki/東方Project "wikilink")[Windows平台上的第一作](https://zh.wikipedia.org/wiki/Windows "wikilink")。
 
 本作是在相隔[PC-98推出該平台最後的作品](https://zh.wikipedia.org/wiki/PC-98 "wikilink")「[東方怪綺談 ～ Mystic Square.](../Page/東方怪綺談_～_Mystic_Square..md "wikilink")」的三年後開發的。在2002年6月10日發佈體驗版，並在2002年8月11日（[Comic Market](../Page/Comic_Market.md "wikilink") 62）正式發售，最後在同年9月27日開始在各[同人商店開始了委託販賣](../Page/同人_\(ACG\).md "wikilink")。當時在商店售賣的時候，[漫畫虎之穴店中有本遊戲的示範](https://zh.wikipedia.org/wiki/漫畫虎之穴 "wikilink")。\[1\]
 
@@ -81,7 +81,7 @@ Extra關發生在異變解決之後。蕾米莉亚被打敗之後，經常來到
 
 ## 開發
 
-東方紅魔鄉是[ZUN](../Page/ZUN.md "wikilink")第一次以「[上海愛麗絲幻樂團](https://zh.wikipedia.org/wiki/上海愛麗絲幻樂團 "wikilink")」名義發佈的遊戲作品。遊戲開發的大部分工作由ZUN一人完成，而[西方Project](../Page/西方Project.md "wikilink")的开发成员ぽんち（pbg）為ZUN准备了开发环境並提供了编程支持。
+東方紅魔鄉是[ZUN](../Page/ZUN.md "wikilink")第一次以「[上海愛麗絲幻樂團](../Page/上海愛麗絲幻樂團.md "wikilink")」名義發佈的遊戲作品。遊戲開發的大部分工作由ZUN一人完成，而[西方Project](../Page/西方Project.md "wikilink")的开发成员ぽんち（pbg）為ZUN准备了开发环境並提供了编程支持。
 
 ZUN認為，東方紅魔鄉作為上海愛麗絲幻樂團的第一部作品和他個人的第一部Windows遊戲作品，需要給人們留下深刻的印象，因此本作採用了西方世界的主題，而不是像其他作品那樣從東方世界取材。\[5\]
 

@@ -1,4 +1,4 @@
-**OK**（又作、**O.K.**）是一個[英語口語詞](https://zh.wikipedia.org/wiki/英語 "wikilink")，但也常見於其他語言的口語。英語中意思是對、好、可以、行的意思。OK表示贊同、许可、同意，即英文中yes的含义，而不作为表达好坏程度的副词使用。
+[LG_WHISEN_손연재_지면_광고_촬영_사진_(30)_hand_only.jpg](https://zh.wikipedia.org/wiki/File:LG_WHISEN_손연재_지면_광고_촬영_사진_\(30\)_hand_only.jpg "fig:LG_WHISEN_손연재_지면_광고_촬영_사진_(30)_hand_only.jpg") **OK**（又作、**O.K.**）是一個[英語口語詞](https://zh.wikipedia.org/wiki/英語 "wikilink")，但也常見於其他語言的口語。英語中意思是對、好、可以、行的意思。OK表示贊同、许可、同意，即英文中yes的含义，而不作为表达好坏程度的副词使用。
 
 ## 由來
 
