@@ -20,11 +20,11 @@ SCAMP的彈藥後來被追加凸緣，讓該彈藥可用於[左輪手槍以上](
 
   - [M1911手槍](../Page/M1911手槍.md "wikilink")
 
-  - [AAC蜜獾式PDW突擊步槍](../Page/AAC蜜獾式PDW突擊步槍.md "wikilink")
-
   - [AR-57 PDW型](../Page/AR-57卡賓槍.md "wikilink")
 
   -
+  - [蜜獾式突擊步槍](https://zh.wikipedia.org/wiki/蜜獾式突擊步槍 "wikilink")
+
   - [KAC PDW突击步枪](../Page/KAC_PDW突击步枪.md "wikilink")
 
   - [馬格普PDR卡賓槍](../Page/馬格普PDR卡賓槍.md "wikilink")

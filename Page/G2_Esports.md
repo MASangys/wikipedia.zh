@@ -592,7 +592,7 @@ Gamers2在2016年歐洲挑戰賽常規賽中取得首名，然後則在季後賽
 ## 外部連結
 
   -
-[Category:2014年西班牙建立](https://zh.wikipedia.org/wiki/Category:2014年西班牙建立 "wikilink") [Category:马德里公司](https://zh.wikipedia.org/wiki/Category:马德里公司 "wikilink") [Category:英雄聯盟競技團隊](https://zh.wikipedia.org/wiki/Category:英雄聯盟競技團隊 "wikilink")
+[Category:2014年西班牙建立](https://zh.wikipedia.org/wiki/Category:2014年西班牙建立 "wikilink") [Category:马德里公司](https://zh.wikipedia.org/wiki/Category:马德里公司 "wikilink") [Category:英雄聯盟競技團隊](https://zh.wikipedia.org/wiki/Category:英雄聯盟競技團隊 "wikilink") [Category:歐洲電子競技團體](https://zh.wikipedia.org/wiki/Category:歐洲電子競技團體 "wikilink")
 
 1.
 

@@ -1,4 +1,4 @@
-**Rocket Punch**（；）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Woollim娛樂](../Page/Woollim娛樂.md "wikilink")旗下于2019年所推出的[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，也是該經紀公司推出的第二組女子偶像團體，由[高橋朱里](../Page/高橋朱里.md "wikilink")、[金蓮熙](https://zh.wikipedia.org/wiki/金蓮熙 "wikilink")、[金秀潤](https://zh.wikipedia.org/wiki/金秀潤 "wikilink")、[徐胤卿](https://zh.wikipedia.org/wiki/徐胤卿 "wikilink")、[金素嬉](https://zh.wikipedia.org/wiki/金素嬉 "wikilink")、[鄭多玹六名成員組成](https://zh.wikipedia.org/wiki/鄭多玹 "wikilink")\[1\]，並由[金蓮熙擔任隊長](https://zh.wikipedia.org/wiki/金蓮熙 "wikilink")。於2019年8月7日发行迷你專輯《Pink Punch》出道。
+**Rocket Punch**（；）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Woollim娛樂](../Page/Woollim娛樂.md "wikilink")旗下于2019年所推出的[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，也是該經紀公司推出的第二組女子偶像團體，由[高橋朱里](../Page/高橋朱里.md "wikilink")、[金蓮熙](https://zh.wikipedia.org/wiki/金蓮熙 "wikilink")、[金秀潤](https://zh.wikipedia.org/wiki/金秀潤 "wikilink")、[徐胤卿](https://zh.wikipedia.org/wiki/徐胤卿 "wikilink")、[金素嬉](https://zh.wikipedia.org/wiki/金素嬉 "wikilink")、[鄭多玹](../Page/鄭多玹.md "wikilink")六名成員組成\[1\]，並由[金蓮熙擔任隊長](https://zh.wikipedia.org/wiki/金蓮熙 "wikilink")。於2019年8月7日发行迷你專輯《Pink Punch》出道。
 
 ## 简介
 
@@ -14,7 +14,7 @@
 ### 2019：出道
 
   - 7月21日，[Woollim娛樂](../Page/Woollim娛樂.md "wikilink")公布團體Logo。22－30日，[Woollim娛樂](../Page/Woollim娛樂.md "wikilink")依序公布團體、多玹、秀潤、素嬉、蓮熙、胤卿、朱里的概念影像，宣布將於8月7日正式出道。31日，公開全員概念照。
-  - 8月7日，公開首張迷你專輯《[Pink Punch](https://zh.wikipedia.org/wiki/Pink_Punch "wikilink")》及主打歌《빔밤붐(BIM BAM BUM)》MV，並舉行出道Showcase。
+  - 8月7日，公開首張迷你專輯《[Pink Punch](../Page/Pink_Punch.md "wikilink")》及主打歌《빔밤붐(BIM BAM BUM)》MV，並舉行出道Showcase。
 
 ## 成員資料
 
@@ -46,7 +46,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>1st</strong></p></td>
-<td><p>首張迷你專輯《<a href="https://zh.wikipedia.org/wiki/Pink_Punch" title="wikilink">Pink Punch</a>》</p>
+<td><p>首張迷你專輯《<a href="../Page/Pink_Punch.md" title="wikilink">Pink Punch</a>》</p>
 <ul>
 <li>發行日期：2019年8月7日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
@@ -65,7 +65,7 @@
 <table>
 <thead>
 <tr class="header">
-<th><p>首張迷你專輯《<a href="https://zh.wikipedia.org/wiki/Pink_Punch" title="wikilink">Pink Punch</a>》</p></th>
+<th><p>首張迷你專輯《<a href="../Page/Pink_Punch.md" title="wikilink">Pink Punch</a>》</p></th>
 </tr>
 </thead>
 <tbody>
@@ -79,19 +79,19 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
 </tr>
 <tr class="even">
-<td></td>
-</tr>
-<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/THE_SHOW" title="wikilink">THE SHOW</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/Show_Champion.md" title="wikilink">Show Champion</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/M_Countdown" title="wikilink">M Countdown</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/Music_Bank" title="wikilink">Music Bank</a></p></td>
+</tr>
+<tr class="even">
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/Show!_音樂中心" title="wikilink">Show! 音樂中心</a></p></td>
@@ -103,19 +103,19 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
 </tr>
 <tr class="even">
-<td></td>
-</tr>
-<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/THE_SHOW" title="wikilink">THE SHOW</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/Show_Champion.md" title="wikilink">Show Champion</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/M_Countdown" title="wikilink">M Countdown</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/Music_Bank" title="wikilink">Music Bank</a></p></td>
+</tr>
+<tr class="even">
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/Show!_音樂中心" title="wikilink">Show! 音樂中心</a></p></td>
@@ -123,18 +123,105 @@
 </tbody>
 </table>
 
+### 特別舞台/合作舞台
+
+<table>
+<thead>
+<tr class="header">
+<th><p>播出日期</p></th>
+<th><p>電視台</p></th>
+<th><p>節目名稱</p></th>
+<th><p>歌曲名稱</p></th>
+<th><p>參與成員</p></th>
+<th><p>原唱</p></th>
+<th><p>備註</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2019年8月20日</p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/THE_SHOW" title="wikilink">THE SHOW</a></p></td>
+<td><p>Russian Roulette</p></td>
+<td><p>全員</p></td>
+<td><p><a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a></p></td>
+<td><p>节目200回纪念</p></td>
+</tr>
+</tbody>
+</table>
+
+### 专属綜藝節目
+
+<table>
+<thead>
+<tr class="header">
+<th><p>日期</p></th>
+<th><p>播放平台</p></th>
+<th><p>節目名稱</p></th>
+<th><p>成員</p></th>
+<th><p>性質</p></th>
+<th><p>備註</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2019年8月16日至今</p></td>
+<td><p>、YouTube</p></td>
+<td><p>《ID : ROCKET PUNCH》</p></td>
+<td><p>全員</p></td>
+<td><p>團綜</p></td>
+<td><p>紀錄幕後花絮及表演情況。</p></td>
+</tr>
+</tbody>
+</table>
+
 ### 綜藝節目
 
-| 日期         | 頻道   | 節目名稱                                           |
-| ---------- | ---- | ---------------------------------------------- |
-| 2019年8月13日 | JTBC | 《[Idol Room](../Page/Idol_Room.md "wikilink")》 |
+| 日期         | 播放平台                                                | 節目名稱                                                                               | 成員  | 性質 | 備註                                                                                                   |
+| ---------- | --------------------------------------------------- | ---------------------------------------------------------------------------------- | --- | -- | ---------------------------------------------------------------------------------------------------- |
+| 2019年8月13日 | JTBC                                                | 《[Idol Room](../Page/Idol_Room.md "wikilink")》                                     | 全員  | 嘉賓 | 與[南優鉉](https://zh.wikipedia.org/wiki/南優鉉 "wikilink")（[INFINITE](../Page/INFINITE.md "wikilink")）共同出演 |
+| 2019年8月24日 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 《[My Little Television (第二季)](../Page/My_Little_Television_\(第二季\).md "wikilink")》 | 金蓮熙 | 嘉賓 |                                                                                                      |
 
-### 電台
+### 電台節目
 
-| 日期         | 節目名稱                   | 備註 |
-| ---------- | ---------------------- | -- |
-| 2019年8月12日 | SBS《庭沼珉的 Young Street》 |    |
-| 2019年8月13日 | MBC《Idol Radio》        |    |
+<table>
+<thead>
+<tr class="header">
+<th><p>日期</p></th>
+<th><p>播放平台</p></th>
+<th><p>節目名稱</p></th>
+<th><p>成員</p></th>
+<th><p>性質</p></th>
+<th><p>備註</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2019年8月12日</p></td>
+<td></td>
+<td><p>《庭沼珉的 Young Street》</p></td>
+<td><p>全員</p></td>
+<td><p>嘉賓</p></td>
+<td><p>可視電台</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年8月13日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC標準FM" title="wikilink">MBC標準FM</a></p></td>
+<td><p>《<a href="../Page/IDOL_RADIO.md" title="wikilink">IDOL RADIO</a>》</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年8月29日</p></td>
+<td></td>
+<td><p>《》</p></td>
+<td><p>金蓮熙，金秀潤，金素嬉</p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 演唱會
 

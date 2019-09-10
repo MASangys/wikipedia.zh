@@ -72,7 +72,7 @@
 <td><center>
 <p>2019-06-23</p></td>
 <td><center>
-<p><a href="https://m.youtube.com/watch?v=A95-CpYxls8">誤區</a></p></td>
+<p><a href="https://www.youtube.com/watch?v=3QXb9MKg6_s">誤區</a></p></td>
 <td><center></td>
 <td></td>
 </tr>

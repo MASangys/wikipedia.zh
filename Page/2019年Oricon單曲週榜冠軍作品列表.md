@@ -233,7 +233,7 @@
 </tr>
 <tr class="even">
 <td><p>8月12日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/最喜歡的人" title="wikilink">最喜歡的人</a></p></td>
+<td><p><a href="../Page/最喜歡的人.md" title="wikilink">最喜歡的人</a></p></td>
 <td><p>STU48</p></td>
 <td><p>25.4</p></td>
 <td><p>1</p></td>
@@ -243,6 +243,20 @@
 <td></td>
 <td><p><a href="../Page/BEYOOOOONDS.md" title="wikilink">BEYOOOOONDS</a></p></td>
 <td><p>9.9</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="even">
+<td><p>8月26日</p></td>
+<td></td>
+<td><p>NMB48</p></td>
+<td><p>19.5</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="odd">
+<td><p>9月2日</p></td>
+<td></td>
+<td><p>Hey! Say! JUMP</p></td>
+<td><p>22.3</p></td>
 <td><p>1</p></td>
 </tr>
 </tbody>

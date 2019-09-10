@@ -56,7 +56,7 @@
 <tr class="odd">
 <td style="text-align: center;"><p>2019年7月19日－<br />
 2019年9月7日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/醫生耀漢" title="wikilink">醫生耀漢</a><br />
+<td style="text-align: center;"><p><a href="../Page/醫生耀漢.md" title="wikilink">醫生耀漢</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/池晟.md" title="wikilink">池晟</a>、<a href="../Page/李世榮_(韓國).md" title="wikilink">李世榮</a>、<a href="../Page/李奎炯.md" title="wikilink">李奎炯</a></p></td>
@@ -81,7 +81,7 @@
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Stove_League" title="wikilink">Stove League</a><br />
 </p></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"><p><a href="../Page/南宮珉.md" title="wikilink">南宮珉</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/南宮珉.md" title="wikilink">南宮珉</a>、<a href="../Page/朴恩玭.md" title="wikilink">朴恩玭</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/鄭東允" title="wikilink">鄭東允</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李新華（編劇）" title="wikilink">李新華</a></p></td>
 <td style="text-align: center;"></td>
@@ -115,25 +115,25 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p>2020年月日－<br />
+<td style="text-align: center;"><p>2020年3月日－<br />
 2020年月日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/浪漫醫生金師傅2" title="wikilink">浪漫醫生金師傅2</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/The_King：永遠的君主" title="wikilink">The King：永遠的君主</a><br />
 </p></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"><p><a href="../Page/韓石圭.md" title="wikilink">韓石圭</a></p></td>
-<td style="text-align: center;"><p><a href="../Page/劉仁植.md" title="wikilink">劉仁植</a></p></td>
-<td style="text-align: center;"><p><a href="../Page/姜銀慶.md" title="wikilink">姜銀慶</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李敏鎬" title="wikilink">李敏鎬</a>、<a href="../Page/金高銀.md" title="wikilink">金高銀</a>、<a href="../Page/禹棹煥.md" title="wikilink">禹棹煥</a>、<a href="../Page/鄭恩彩.md" title="wikilink">鄭恩彩</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/白尚勳" title="wikilink">白尚勳</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/金銀淑.md" title="wikilink">金銀淑</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>2020年月日－<br />
 2020年月日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/The_King：永遠的君主" title="wikilink">The King：永遠的君主</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Hyena" title="wikilink">Hyena</a><br />
 </p></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李敏鎬" title="wikilink">李敏鎬</a>、<a href="../Page/金高銀.md" title="wikilink">金高銀</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/白尚勳" title="wikilink">白尚勳</a></p></td>
-<td style="text-align: center;"><p><a href="../Page/金銀淑.md" title="wikilink">金銀淑</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/朱智勛.md" title="wikilink">朱智勛</a> 、<a href="../Page/金惠秀.md" title="wikilink">金惠秀</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/張太侑.md" title="wikilink">張太侑</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金璐利" title="wikilink">金璐利</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>

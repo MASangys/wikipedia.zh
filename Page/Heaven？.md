@@ -191,13 +191,13 @@
 <p><a href="https://zh.wikipedia.org/wiki/石原里美" title="wikilink">石原里美</a></p></td>
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/曾佩儀" title="wikilink">曾佩儀</a></p></td>
-<td><p>「Loin D'ici」老闆娘，作風古怪。真實身分是一位作家[3]，名為「仮名須黑子」，有「懸疑女王」之稱。</p></td>
+<td><p>「Loin D'ici」老闆娘，作風古怪。真實身分是一位作家[3]，筆名「仮名須黑子」，有「懸疑女王」之稱。</p></td>
 </tr>
 <tr class="odd">
 <td><center>
 <p>伊賀觀</p></td>
 <td><center>
-<p><a href="../Page/福士蒼汰.md" title="wikilink">福士蒼汰</a> [4]</p></td>
+<p><a href="../Page/福士蒼汰.md" title="wikilink">福士蒼汰</a>[4]</p></td>
 <td><center>
 <p><a href="../Page/曹啟謙.md" title="wikilink">曹啟謙</a></p></td>
 <td><p>「Loin D'ici」服務員，面無表情。因為在之前的餐廳評價很低，但黑須仮名子卻給他很高評價，於是就決定跟隨黑須。</p></td>
@@ -206,7 +206,7 @@
 <td><center>
 <p>川合太一</p></td>
 <td><center>
-<p><a href="../Page/志尊淳.md" title="wikilink">志尊淳</a> [5]</p></td>
+<p><a href="../Page/志尊淳.md" title="wikilink">志尊淳</a>[5]</p></td>
 <td><center>
 <p><a href="../Page/黃積權.md" title="wikilink">黃積權</a></p></td>
 <td><p>「Loin D'ici」助理服務員，很愛笑，之前是見習美容師，並沒有任何在餐廳工作的經驗。</p></td>
@@ -370,7 +370,7 @@
 <td><center>
 <p>伊賀勝代</p></td>
 <td><center>
-<p>（第3話）</p></td>
+<p>（第3、8話）</p></td>
 <td><center>
 <p><a href="../Page/袁淑珍.md" title="wikilink">袁淑珍</a></p></td>
 <td><p>伊賀觀的母親。</p></td>
@@ -412,28 +412,28 @@
 <td><center>
 <p>伊賀静</p></td>
 <td><center></td>
-<td></td>
+<td><p><a href="../Page/葉振聲.md" title="wikilink">葉振聲</a></p></td>
 <td><p>伊賀觀的父親。</p></td>
 </tr>
 <tr class="odd">
 <td><center>
 <p>山田泰三</p></td>
 <td><center></td>
-<td></td>
+<td><p><a href="../Page/黃子敬.md" title="wikilink">黃子敬</a></p></td>
 <td><p>電影導演。</p></td>
 </tr>
 <tr class="even">
 <td><center>
 <p>關優夫</p></td>
 <td><center></td>
-<td></td>
+<td><p><a href="../Page/潘文柏.md" title="wikilink">潘文柏</a></p></td>
 <td><p>餐廳客人。</p></td>
 </tr>
 <tr class="odd">
 <td><center>
 <p>關晴美</p></td>
 <td><center></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梁少霞" title="wikilink">梁少霞</a></p></td>
 <td><p>餐廳客人。</p></td>
 </tr>
 <tr class="even">
@@ -441,7 +441,7 @@
 <p>根本親文</p></td>
 <td><center>
 <p>（第4話）</p></td>
-<td></td>
+<td><p><a href="../Page/陳欣_(配音員).md" title="wikilink">陳欣</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -449,14 +449,14 @@
 <p>花岡仁志</p></td>
 <td><center>
 <p>（第4話）</p></td>
-<td></td>
+<td><p><a href="../Page/李凱傑.md" title="wikilink">李凱傑</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><center>
 <p>桑野信義</p></td>
 <td><center></td>
-<td></td>
+<td><p><a href="../Page/陳永信.md" title="wikilink">陳永信</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -476,7 +476,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p>自転車で倒れる男</p></td>
+<p>踏單車跌倒的人</p></td>
 <td><center></td>
 <td></td>
 <td></td>
@@ -534,6 +534,61 @@
 <td></td>
 <td></td>
 <td></td>
+</tr>
+</tbody>
+</table>
+
+##### 第5話
+
+##### 第6話
+
+##### 第7話
+
+<table style="width:60%;">
+<colgroup>
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 24%" />
+<col style="width: 24%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p><strong>角色</strong></p></td>
+<td><p><strong>演員</strong></p></td>
+<td><p><strong>粵語配音</strong></p></td>
+<td><p><strong>介紹</strong></p></td>
+</tr>
+<tr class="even">
+<td><center>
+<p>香宮瑠璃子</p></td>
+<td><center>
+<p><a href="../Page/相武紗季.md" title="wikilink">相武紗季</a></p></td>
+<td></td>
+<td><p>漫畫家，每星期二都會在Loin D'ici用饍。</p></td>
+</tr>
+<tr class="odd">
+<td><center>
+<p>湯淺浩一</p></td>
+<td><center>
+<p><a href="https://zh.wikipedia.org/wiki/丸山智己" title="wikilink">丸山智己</a></p></td>
+<td></td>
+<td><p>不知天高地厚的男星。</p></td>
+</tr>
+<tr class="even">
+<td><center>
+<p>年輕的久世光代</p></td>
+<td><center>
+<p><a href="../Page/山本舞香.md" title="wikilink">山本舞香</a></p></td>
+<td></td>
+<td><p>已引退的電影明星。</p></td>
+</tr>
+<tr class="odd">
+<td><center>
+<p>古瀨妙子（久世光代）</p></td>
+<td><center>
+<p>加賀まりこ</p></td>
+<td></td>
+<td><p>已引退的電影明星，Loin D'ici的顧客。</p></td>
 </tr>
 </tbody>
 </table>
@@ -620,7 +675,7 @@ six</p></td>
 </tbody>
 </table>
 
-## 節目的變遷
+### 節目的變遷
 
 ## 參考資料
 

@@ -34,7 +34,7 @@
       - 台灣[高雄至](https://zh.wikipedia.org/wiki/高雄 "wikilink")[澎湖](https://zh.wikipedia.org/wiki/澎湖 "wikilink")
       - 印尼[北蘇拉威西省](https://zh.wikipedia.org/wiki/北蘇拉威西省 "wikilink")
       - 俄羅斯[黑海](../Page/黑海.md "wikilink")沿海地區
-      - 南韓[仁川至](https://zh.wikipedia.org/wiki/仁川 "wikilink")[北方界線](../Page/北方界線.md "wikilink")附近島嶼
+      - 南韓[仁川至](https://zh.wikipedia.org/wiki/仁川 "wikilink")[北方界線](../Page/北方界線.md "wikilink")附近島嶼、[木浦至](https://zh.wikipedia.org/wiki/木浦 "wikilink")[濟州島](https://zh.wikipedia.org/wiki/濟州島 "wikilink")
 
 ## FlyingCat船隻列表
 

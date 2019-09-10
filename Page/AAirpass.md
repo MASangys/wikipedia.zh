@@ -18,7 +18,7 @@
 
 ## 參考資料
 
-[Category:美國航空](https://zh.wikipedia.org/wiki/Category:美國航空 "wikilink") [Category:1981年面世](https://zh.wikipedia.org/wiki/Category:1981年面世 "wikilink")
+[Category:美國航空_(公司)](https://zh.wikipedia.org/wiki/Category:美國航空_\(公司\) "wikilink") [Category:1981年面世](https://zh.wikipedia.org/wiki/Category:1981年面世 "wikilink")
 
 1.
 

@@ -275,7 +275,7 @@
 | 3B                  | [毛里求斯](../Page/毛里求斯.md "wikilink")                                                           |
 | 3C                  | [赤道几内亚](../Page/赤道几内亚.md "wikilink")                                                         |
 | 3D-A–3D-M           | [斯威士兰](../Page/斯威士兰.md "wikilink")                                                           |
-| 3D-N–3D-Z           | [斐济](https://zh.wikipedia.org/wiki/斐濟 "wikilink")                                            |
+| 3D-N–3D-Z           | [斐济](../Page/斐濟.md "wikilink")                                                               |
 | 3E–3F               | 巴拿马                                                                                          |
 | 3G                  | 智利                                                                                           |
 | 3H–3U               | 中华人民共和国                                                                                      |

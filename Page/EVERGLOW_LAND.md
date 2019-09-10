@@ -19,7 +19,7 @@
 <tr class="odd">
 <td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td></td>
-<td><p>2019年8月13日－</p></td>
+<td><p>2019年8月13日－9月10日</p></td>
 <td><p>每周二 20:00</p></td>
 </tr>
 </tbody>
@@ -34,11 +34,11 @@
 |      |            |                   |                                                    |
 | ---- | ---------- | ----------------- | -------------------------------------------------- |
 | 節目集數 | 播放日期       | 標題                | 来源                                                 |
-| 第一集  | 2019年8月13日 | 首次冒险《Energy Park》 | [EP1](https://www.youtube.com/watch?v=O2bbSuESLE4) |
-| 第二集  | 2019年8月20日 |                   | [EP2](https://www.youtube.com/watch?v=WdGSjG_gOos) |
-| 第三集  |            |                   |                                                    |
-| 第四集  |            |                   |                                                    |
-| 第五集  |            |                   |                                                    |
+| 第一集  | 2019年8月13日 | 《Energy Park》     | [EP1](https://www.youtube.com/watch?v=O2bbSuESLE4) |
+| 第二集  | 2019年8月20日 | 《Variety Village》 | [EP2](https://www.youtube.com/watch?v=WdGSjG_gOos) |
+| 第三集  | 2019年8月27日 | 《Glow珠泡泡堂》        | [EP3](https://www.youtube.com/watch?v=Uk-j--xDfYM) |
+| 第四集  | 2019年9月3日  |                   |                                                    |
+| 第五集  | 2019年9月10日 |                   |                                                    |
 
 ## 參考資料
 
@@ -46,7 +46,7 @@
 
 ## 外部链接
 
-  - [EVERGLOW LAND官网](http://www.mnet.com/index.asp)
+  - [EVERGLOW LAND官网](http://www.mnet.com/tv/program/2166)
   - [EVERGLOW LAND的NaverTV](https://tv.naver.com/cjenm.EVERGLOWLAND)
   - [EVERGLOW LAND的KakaoTV](https://search.daum.net/search?w=tv&q=%EC%97%90%EB%B2%84%EA%B8%80%EB%A1%9C%EC%9A%B0%20%EB%9E%9C%EB%93%9C&irk=86375&irt=tv-program&DA=TVP)
 

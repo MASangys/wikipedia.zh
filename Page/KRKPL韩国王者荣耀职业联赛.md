@@ -4,6 +4,8 @@
 
 ## 参赛战队
 
+**2019秋季赛**
+
 <table>
 <thead>
 <tr class="header">
@@ -21,26 +23,26 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p>DRX</p></td>
+<td><p>DragonX Busan</p></td>
+<td></td>
+<td><p>原KZ,新赛季更名DRX</p></td>
+</tr>
+<tr class="odd">
 <td><p>EMC</p></td>
 <td><p>Esports of Macao China</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>ESC</p></td>
 <td><p>ESC.729</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>GOG</p></td>
 <td><p>Ghost Owl Gaming</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>KZ</p></td>
-<td><p>KingZone DragonX</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -51,20 +53,20 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>SLT</p></td>
+<td><p>SELECTES</p></td>
+<td></td>
+<td><p>原被MTG收购 ,但更名不成功。</p></td>
+</tr>
+<tr class="even">
 <td><p>MVP</p></td>
 <td><p>Team MVP</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>ROX</p></td>
 <td><p>ROX Pheonix</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>SLT</p></td>
-<td><p>SELECTED</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -117,57 +119,81 @@
 <th><p>战队</p></th>
 <th><p>国籍</p></th>
 <th><p>位置</p></th>
+<th><p>备注</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>770</p></td>
-<td><p>刘雪详</p></td>
-<td><p>KZ</p></td>
+<td><p>Song</p></td>
+<td><p>汤俊伟</p></td>
+<td><p>SLT</p></td>
 <td></td>
-<td><p>辅助</p></td>
+<td><p>边路</p></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p>XingC</p></td>
-<td><p>康伦汉</p></td>
-<td><p>KZ</p></td>
+<td><p>September</p></td>
+<td><p>向阳</p></td>
+<td><p>SLT</p></td>
 <td></td>
-<td><p>打野</p></td>
+<td><p>辅助</p></td>
+<td></td>
 </tr>
 <tr class="odd">
+<td><p>Evil</p></td>
+<td><p>王东</p></td>
+<td><p>SLT</p></td>
+<td></td>
+<td><p>打野</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>RianMan</p></td>
 <td><p>郑宗鹏</p></td>
 <td><p>GOG</p></td>
 <td></td>
-<td><p>边路</p></td>
+<td><p>边路/中路</p></td>
+<td><p>转至青训</p></td>
 </tr>
-<tr class="even">
-<td><p>Xing</p></td>
-<td><p>王新文</p></td>
+<tr class="odd">
+<td><p>Yilian</p></td>
+<td><p>王家豪</p></td>
 <td><p>GOG</p></td>
 <td></td>
 <td><p>边路</p></td>
+<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Cola</p></td>
 <td><p>李泳钊</p></td>
 <td><p>EMC</p></td>
 <td></td>
 <td><p>辅助</p></td>
+<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Redeen</p></td>
 <td><p>陈凯</p></td>
 <td><p>Nova</p></td>
 <td></td>
 <td><p>打野</p></td>
-</tr>
-<tr class="odd">
-<td><p>WangLaiFeng</p></td>
 <td></td>
+</tr>
+<tr class="even">
+<td><p>Yueli</p></td>
+<td><p>汪涛</p></td>
 <td><p>Nova</p></td>
 <td></td>
-<td><p>辅助</p></td>
+<td><p>边路</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Tension</p></td>
+<td><p>朱斌</p></td>
+<td><p>Nova</p></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>

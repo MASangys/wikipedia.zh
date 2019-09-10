@@ -20,49 +20,49 @@
 <tr class="even">
 <td><p>Liang</p></td>
 <td><p>吳亮德</p></td>
-<td><p>TOP</p></td>
+<td><p>上路</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>Rock</p></td>
 <td><p>蔡忠廷</p></td>
-<td><p>TOP</p></td>
+<td><p>上路</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>Benny</p></td>
 <td><p>連修琪</p></td>
-<td><p>Jungle</p></td>
+<td><p>打野</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>Kongyue</p></td>
 <td><p>蕭任佐</p></td>
-<td><p>Jungle</p></td>
+<td><p>打野</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>Uniboy</p></td>
 <td><p>陳昌駒</p></td>
-<td><p>Mid</p></td>
+<td><p>中路</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>Breeze</p></td>
 <td><p>黃建源</p></td>
-<td><p>AD Carry</p></td>
+<td><p>下路</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>K</p></td>
 <td><p>柯凱盛</p></td>
-<td><p>Support</p></td>
+<td><p>輔助</p></td>
 <td></td>
 <td><p>隊長</p></td>
 </tr>
@@ -127,7 +127,7 @@
   - LMS 2018年度最佳進步戰隊第一名
   - 2018年9月15日，MAD TEAM在LMS夏季冠軍賽以0:3敗給[閃電狼](../Page/閃電狼.md "wikilink")，獲得賽區亞軍以LMS賽區第二種子參加2018年世界大賽。
   - 2018年10月17日，MAD TEAM在[英雄联盟2018赛季全球总决赛](../Page/英雄联盟2018赛季全球总决赛.md "wikilink")與[KT Rolster](https://zh.wikipedia.org/wiki/KT_Rolster "wikilink")、[EDward Gaming與](https://zh.wikipedia.org/wiki/EDward_Gaming "wikilink")[Team Liquid分在C組](https://zh.wikipedia.org/wiki/Team_Liquid "wikilink")，最後以0勝6敗止步16強 。\[9\]
-  - 2018年12月16日，主教練[蔡尚精](../Page/蔡尚精.md "wikilink")與[MAD Team協商確定加入](https://zh.wikipedia.org/wiki/MAD_Team "wikilink")[Royal Never Give Up成為戰術教練](https://zh.wikipedia.org/wiki/Royal_Never_Give_Up "wikilink")，並將暫替原[Royal Never Give Up孫大永教練](https://zh.wikipedia.org/wiki/Royal_Never_Give_Up "wikilink")，為隊伍完成 B/P 工作。
+  - 2018年12月16日，主教練[蔡尚精](../Page/蔡尚精.md "wikilink")與[MAD Team協商確定加入](../Page/MAD_Team.md "wikilink")[Royal Never Give Up成為戰術教練](https://zh.wikipedia.org/wiki/Royal_Never_Give_Up "wikilink")，並將暫替原[Royal Never Give Up孫大永教練](https://zh.wikipedia.org/wiki/Royal_Never_Give_Up "wikilink")，為隊伍完成 B/P 工作。
 
 ## [傳說對決](../Page/傳說對決.md "wikilink") (Arena of Valor)
 
@@ -152,7 +152,7 @@
 <tr class="odd">
 <td><p>陳玠任</p></td>
 <td><p>BV</p></td>
-<td><p>凱撒路</p></td>
+<td><p>教練</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -201,7 +201,7 @@
 <tr class="even">
 <td><p>郭冠緯</p></td>
 <td><p>03.22</p></td>
-<td><p>魔龍路</p></td>
+<td><p>魔龍輔助</p></td>
 <td></td>
 <td><p>S6城市賽亞軍，原二軍選手</p></td>
 </tr>
@@ -213,10 +213,10 @@
 |     |       |         |    |                                                               |
 | --- | ----- | ------- | -- | ------------------------------------------------------------- |
 | 本名  | 本名ID  | 位置      | 地區 | 備註                                                            |
-| 林溫雄 | Joey  | 魔龍輸出、凱撒 | 臺灣 |                                                               |
+| 林溫雄 | Joey  | 魔龍輸出、凱撒 | 臺灣 | 前SMG凱撒                                                        |
 | 藍逸哲 | Ronin | 魔龍輔助    | 臺灣 |                                                               |
 | 鄭宇翔 | Soar  | 打野      | 臺灣 | 回鍋NVM，今NVM打野                                                  |
-| 郭展希 | Xinyi | 中路      | 香港 | 轉任實況主                                                         |
+| 郭展希 | Xinyi | 中路      | 香港 | 今[FW中路](../Page/閃電狼.md "wikilink")                            |
 | 陳建廷 | Benny | 輔助      | 臺灣 | 原[JT輔助](../Page/J戰隊.md "wikilink")，2019/8/6因生涯規劃，宣佈離隊，目前轉任實況主 |
 
 ## [絕地求生](../Page/絕地求生.md "wikilink") (PlayerUnknown's Battlegrounds)

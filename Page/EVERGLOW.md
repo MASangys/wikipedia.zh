@@ -10,6 +10,10 @@ EVERGLOW團名是“EVER”与“GLOW”的合成语，寓意“无论是在太�
 
 問候語為：「All，Light！大家好，我們是EVERGLOW。」同時单手伸出三根手指另外两根手指扣在一起，比出希腊字母sigma“∑”和希腊字母delta“δ”形态的手勢。
 
+### 粉絲名稱
+
+官方粉絲名為「FOR·EVER」，它来自“FOR EVERGLOW”，这意味着我们存在的是我们成为一体的发光，我们将始终站在发光的一面。
+
 ### 成员列表
 
   - 名字**粗體**為隊長
@@ -49,7 +53,7 @@ EVERGLOW團名是“EVER”与“GLOW”的合成语，寓意“无论是在太�
 
 #### HUSH
 
-8月6日，预告将于8月19日发行第二张单曲专辑《[HUSH](https://zh.wikipedia.org/wiki/HUSH_\(EVERGLOW單曲\) "wikilink")》。\[10\]
+8月6日，预告将于8月19日发行第二张单曲专辑《[HUSH](../Page/HUSH_\(EVERGLOW單曲\).md "wikilink")》。\[10\]
 
 8月14日，发布主打曲《Adios》MV预告。\[11\]
 
@@ -80,7 +84,7 @@ EVERGLOW團名是“EVER”与“GLOW”的合成语，寓意“无论是在太�
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p><strong>《<a href="https://zh.wikipedia.org/wiki/HUSH_(EVERGLOW單曲)" title="wikilink">HUSH</a>》</strong></p>
+<td><p><strong>《<a href="../Page/HUSH_(EVERGLOW單曲).md" title="wikilink">HUSH</a>》</strong></p>
 <ul>
 <li>發行日期 ：2019年8月19日</li>
 <li>語言：韓語</li>
@@ -120,10 +124,11 @@ EVERGLOW團名是“EVER”与“GLOW”的合成语，寓意“无论是在太�
 </tr>
 <tr class="even">
 <td><p>8月19日</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/HUSH_(EVERGLOW單曲)" title="wikilink">HUSH</a>》</p></td>
+<td><p>《<a href="../Page/HUSH_(EVERGLOW單曲).md" title="wikilink">HUSH</a>》</p></td>
 <td><p>Adios</p></td>
-<td><p><a href="https://www.youtube.com/watch?v=c4T6LSN0O5M">Adios</a>[18]</p></td>
-<td></td>
+<td><p><a href="https://www.youtube.com/watch?v=tFRcEOmkDM8">Adios MV (Performance Ver.)</a><br />
+<a href="https://www.youtube.com/watch?v=c4T6LSN0O5M">Adios</a>[18]</p></td>
+<td><p>Adios[19]</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -133,16 +138,16 @@ EVERGLOW團名是“EVER”与“GLOW”的合成语，寓意“无论是在太�
 
 ### 專屬節目
 
-| 日期          | 電視台                                | 節目名稱                                                                      | 參與成員 | 備註     |
-| ----------- | ---------------------------------- | ------------------------------------------------------------------------- | ---- | ------ |
-| 2019年8月13日－ | [Mnet](../Page/Mnet.md "wikilink") | 《[EVERGLOW LAND](https://zh.wikipedia.org/wiki/EVERGLOW_LAND "wikilink")》 | 全體   | 真人實境團綜 |
+| 日期          | 電視台                                | 節目名稱                                                   | 參與成員 | 備註     |
+| ----------- | ---------------------------------- | ------------------------------------------------------ | ---- | ------ |
+| 2019年8月13日－ | [Mnet](../Page/Mnet.md "wikilink") | 《[EVERGLOW LAND](../Page/EVERGLOW_LAND.md "wikilink")》 | 全體   | 真人實境團綜 |
 
 ### 固定綜藝
 
 | 日期                 | 電視台                                              | 節目名稱                                                        | 參與成員 | 備註        |
 | ------------------ | ------------------------------------------------ | ----------------------------------------------------------- | ---- | --------- |
 | 2016年1月22日 - 4月1日  | [Mnet](../Page/Mnet媒體.md "wikilink")             | 《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》          | 施賢   | 出道前       |
-| 2017年2月27日 - 6月27日 | [SBS](../Page/SBS_\(韓國\).md "wikilink")          | 《[美味的烹飪課](https://zh.wikipedia.org/wiki/美味的烹飪課 "wikilink")》 | E:U  | 出道前\[19\] |
+| 2017年2月27日 - 6月27日 | [SBS](../Page/SBS_\(韓國\).md "wikilink")          | 《[美味的烹飪課](https://zh.wikipedia.org/wiki/美味的烹飪課 "wikilink")》 | E:U  | 出道前\[20\] |
 | 2017年7月13日 - 9月29日 | [Mnet](../Page/Mnet媒體.md "wikilink")             | 《[偶像學校](https://zh.wikipedia.org/wiki/偶像學校 "wikilink")》     | Onda | 出道前       |
 | 2018年6月15日 - 8月31日 | 《[PRODUCE 48](../Page/PRODUCE_48.md "wikilink")》 | 施賢、怡人                                                       | 出道前  |           |
 
@@ -159,8 +164,8 @@ EVERGLOW團名是“EVER”与“GLOW”的合成语，寓意“无论是在太�
 
 | 年份        | 商品名稱    | 參與成員 | 合作藝人                             | 來源     |
 | --------- | ------- | ---- | -------------------------------- | ------ |
-| 2019年     | Gmarket | 施贤   | [吳娜拉](../Page/吳娜拉.md "wikilink") | \[20\] |
-| COTTINY珠宝 | 全員      |      | \[21\]                           |        |
+| 2019年     | Gmarket | 施贤   | [吳娜拉](../Page/吳娜拉.md "wikilink") | \[21\] |
+| COTTINY珠宝 | 全員      |      | \[22\]                           |        |
 
 ## 演唱會及其他演出
 
@@ -169,7 +174,7 @@ EVERGLOW團名是“EVER”与“GLOW”的合成语，寓意“无论是在太�
 | 日期         | 名称                | 城市 | 舉行地點            | 备注                                |
 | ---------- | ----------------- | -- | --------------- | --------------------------------- |
 | 2019年3月18日 | DEBUT SHOWCASE    | 首尔 | YES24 LIVE HALL | 第一張单曲專輯《ARRIVAL OF EVERGLOW》出道抢听会 |
-| 2019年8月19日 | Comeback SHOWCASE | 首尔 | YES24 LIVE HALL | 第二張单曲專輯《HUSH》抢听会\[22\]            |
+| 2019年8月19日 | Comeback SHOWCASE | 首尔 | YES24 LIVE HALL | 第二張单曲專輯《HUSH》抢听会\[23\]            |
 
 ## 獎項與榮耀
 
@@ -215,7 +220,7 @@ EVERGLOW團名是“EVER”与“GLOW”的合成语，寓意“无论是在太�
 <td><p>《<a href="../Page/ARRIVAL_OF_EVERGLOW.md" title="wikilink">ARRIVAL OF EVERGLOW</a>》</p></td>
 </tr>
 <tr class="even">
-<td><p>《HUSH》</p></td>
+<td><p>《<a href="../Page/HUSH_(EVERGLOW單曲).md" title="wikilink">HUSH</a>》</p></td>
 </tr>
 <tr class="odd">
 <td><ul>
@@ -276,3 +281,4 @@ EVERGLOW團名是“EVER”与“GLOW”的合成语，寓意“无论是在太�
 20.
 21.
 22.
+23.

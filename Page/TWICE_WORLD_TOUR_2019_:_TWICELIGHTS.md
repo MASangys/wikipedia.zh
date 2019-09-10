@@ -59,7 +59,7 @@
 <td><p>7月18日</p></td>
 <td><p>洛杉磯站</p></td>
 <td><p><a href="../Page/論壇體育館.md" title="wikilink">論壇體育館</a></p></td>
-<td><p>12,000[5][6] |-</p></td>
+<td><p>17,500[5][6] |-</p></td>
 <td></td>
 <td></td>
 </tr>

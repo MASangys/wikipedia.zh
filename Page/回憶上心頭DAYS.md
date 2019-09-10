@@ -2,7 +2,7 @@
 
 ## 簡介
 
-本张单曲与前作《[NO WAY MAN](../Page/NO_WAY_MAN.md "wikilink")》相隔3个月发行，是组合于2019年发行的首张单曲。单曲以Type A至Type C的初回限定盤与通常盤、及劇場盤共7版本发行。
+本张单曲与前作《[NO WAY MAN](../Page/NO_WAY_MAN.md "wikilink")》相隔3个月发行，是组合于2019年发行的首张单曲。单曲分為附赠DVD的Type A至Type C及只有CD的劇場盤，每版本收錄六首樂曲，包含一首全版本共通的B面曲、依版本相異的一首B面曲及各曲目的純音樂。Type A至Type C另分為附有全國握手會參加券的初回限定盤，及附有生寫真的通常盤，兩者曲目相同，加上附有個別握手會參加券的劇場盤，合共七個版本。
 
 发表了将自[HKT48](../Page/HKT48.md "wikilink")毕业的[指原莉乃](../Page/指原莉乃.md "wikilink")擔任单曲Center\[3\]。这也是指原初次担任反映[AKB48选拔总选举结果的单曲之外的单曲Center](https://zh.wikipedia.org/wiki/AKB48选拔总选举 "wikilink")\[4\]。
 
@@ -30,7 +30,9 @@
 
 ## MV
 
-《回憶上心頭DAYS》的MV中使用了指原曾参与的AKB48、個人作品（Solo）、[Not yet](../Page/Not_yet.md "wikilink")、公演曲等的服装共3450套（345与指原的昵称「」读音相同），装饰于MV的拍摄现场\[13\]。MV导演为伊勢田世山\[14\]。
+  - 回憶上心頭DAYS
+
+由伊勢田世山擔任導演\[13\]。MV中使用了指原曾参与的AKB48、個人作品（Solo）、[Not yet](../Page/Not_yet.md "wikilink")、公演曲等的服装共3450套（345与指原的昵称「」读音相同），装饰于MV的拍摄现场\[14\]。
 
 ## 收錄歌曲
 

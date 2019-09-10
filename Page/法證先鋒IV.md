@@ -176,13 +176,14 @@
 <tr class="even">
 <td><p><strong><a href="../Page/張曦雯.md" title="wikilink">張曦雯</a></strong></p></td>
 <td></td>
-<td><p>空姐、模特兒（客串演出）<br />
-高安、高靖之妹</p></td>
+<td><p>空姐、模特兒<br />
+高安、高靖之妹<br />
+（特別演出）</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/陳敏之.md" title="wikilink">陳敏之</a></strong></p></td>
 <td></td>
-<td><p>心理專家（客串演出）</p></td>
+<td><p>心理專家</p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/謝雪心.md" title="wikilink">謝雪心</a></strong></p></td>

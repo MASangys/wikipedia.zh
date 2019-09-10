@@ -10,6 +10,8 @@
 
 ## 發行成績
 
+《The ReVe Festival: Day 2》專輯發行後，便在美國、加拿大、巴西、智利、德國、法國、希臘、荷蘭、泰國、越南、印尼、印度、馬來西亞、菲律賓等共37個國家和地區的iTunes綜合專輯榜拿下第一名\[5\]\[6\]，並再次在美國iTunes專輯榜排名第一位。另外，主打曲《Umpah Umpah》也在發行後陸續登上了韓國音源即時榜Genie、Bugs、Soribada、Mnet、NAVER Music 和 Olleh Music的冠軍寶座\[7\]\[8\]。
+
 ## 收錄曲目
 
 ## 排行榜
@@ -87,9 +89,13 @@
 
 ## 參考文獻
 
-[Category:2019年迷你專輯](https://zh.wikipedia.org/wiki/Category:2019年迷你專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:Red_Velvet音樂專輯](https://zh.wikipedia.org/wiki/Category:Red_Velvet音樂專輯 "wikilink")
+[Category:2019年迷你專輯](https://zh.wikipedia.org/wiki/Category:2019年迷你專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:Red_Velvet音樂專輯](https://zh.wikipedia.org/wiki/Category:Red_Velvet音樂專輯 "wikilink") [Category:2019年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Gaon專輯週榜冠軍作品 "wikilink")
 
 1.
 2.
 3.
 4.
+5.
+6.
+7.
+8.

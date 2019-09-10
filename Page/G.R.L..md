@@ -162,7 +162,7 @@ G.R.L.是一个[流行](../Page/流行_\(音樂類型\).md "wikilink")、[青少
 
 ## 外部链接
 
-[Category:RCA唱片旗下藝人](https://zh.wikipedia.org/wiki/Category:RCA唱片旗下藝人 "wikilink") [Category:美國流行音樂團體](https://zh.wikipedia.org/wiki/Category:美國流行音樂團體 "wikilink") [Category:美國女子演唱團體](https://zh.wikipedia.org/wiki/Category:美國女子演唱團體 "wikilink") [Category:2015年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年解散的音樂團體 "wikilink") [Category:2013年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年成立的音樂團體 "wikilink") [Category:三人组合](https://zh.wikipedia.org/wiki/Category:三人组合 "wikilink") [Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink")
+[Category:RCA唱片旗下藝人](https://zh.wikipedia.org/wiki/Category:RCA唱片旗下藝人 "wikilink") [Category:美國流行音樂團體](https://zh.wikipedia.org/wiki/Category:美國流行音樂團體 "wikilink") [Category:美國女子演唱團體](https://zh.wikipedia.org/wiki/Category:美國女子演唱團體 "wikilink") [Category:2015年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年解散的音樂團體 "wikilink") [Category:2013年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年成立的音樂團體 "wikilink") [Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink")
 
 1.
 

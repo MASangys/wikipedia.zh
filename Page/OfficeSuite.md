@@ -97,6 +97,8 @@ Officesuite 在所有平台上完全兼容微软Office的文件格式。 该软�
 
   - [微软 Office](../Page/Microsoft_Office.md "wikilink")
 
+[Microsoft](https://sinnoty.com)
+
 ## 参考资料
 
 <references group="" responsive="">

@@ -6,7 +6,7 @@
 
 第七代iPod touch采用苹果的[移动操作系统](../Page/行動作業系統.md "wikilink")[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")。iOS的[用户界面基于直接操作的概念](../Page/图形用户界面.md "wikilink")，使用[多点触摸手势](../Page/多點觸控.md "wikilink")。界面控制元素由滑块、开关和按钮组成。与操作系统的交互包括滑动、点击、捏合和旋转等手势，所有这些手势都在iOS操作系统及其多点触控界面中具有特定的含义。某些应用程序使用内置[加速度传感器来响应对设备的摇晃](../Page/加速規.md "wikilink")（一个常见的操作是撤消命令）或垂直旋转（一个常见的操作是从纵向模式切换到横向模式）。
 
-第七代iPod touch于2019年5月28日推出，运行最新的iOS版本12.4。它可以播放音乐、电影、电视节目、有声读物和[播客](../Page/播客.md "wikilink")，并可以按歌曲、艺术家、专辑、视频、[播放列表](../Page/歌單.md "wikilink")、[流派](../Page/藝術類型.md "wikilink")、作曲家、播客、有声读物和[合辑对其媒体库文件进行分类](https://zh.wikipedia.org/wiki/合輯 "wikilink")。透过在屏幕上滑动手指来实现滚动。耳机控制可用于暂停、播放、跳过和重复曲目。但是，第七代iPod touch附带的EarPods不包括遥控器或麦克风。语音控制功能还可用于识别音轨，按播放列表中或特定艺术家播放歌曲，或创建[Genius播放列表](../Page/ITunes.md "wikilink")。
+第七代iPod touch于2019年5月28日推出，推出时运行当时最新的iOS版本12.3.1。它可以播放音乐、电影、电视节目、有声读物和[播客](../Page/播客.md "wikilink")，并可以按歌曲、艺术家、专辑、视频、[播放列表](../Page/歌單.md "wikilink")、[流派](../Page/藝術類型.md "wikilink")、作曲家、播客、有声读物和[合辑对其媒体库文件进行分类](https://zh.wikipedia.org/wiki/合輯 "wikilink")。透过在屏幕上滑动手指来实现滚动。耳机控制可用于暂停、播放、跳过和重复曲目。但是，第七代iPod touch附带的EarPods不包括遥控器或麦克风。语音控制功能还可用于识别音轨，按播放列表中或特定艺术家播放歌曲，或创建[Genius播放列表](../Page/ITunes.md "wikilink")。
 
 第七代iPod touch中的[Apple A10](../Page/Apple_A10_Fusion.md "wikilink")[芯片使该设备能够支持第六代设备无法支持的iOS](https://zh.wikipedia.org/wiki/片上系统 "wikilink") 12的特性，包括[ARKit应用程序和](../Page/IOS_11.md "wikilink")[FaceTime](../Page/FaceTime.md "wikilink")群聊功能。\[1\]
 

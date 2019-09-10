@@ -1,4 +1,4 @@
-是由[同人社團](https://zh.wikipedia.org/wiki/同人社團 "wikilink")[上海愛麗絲幻樂團所製作的](https://zh.wikipedia.org/wiki/上海愛麗絲幻樂團 "wikilink")[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")，是[東方Project的第](https://zh.wikipedia.org/wiki/東方Project "wikilink")17作，在2019年5月5日舉行的第16回博麗神社春季例大祭發佈體驗版，2019年8月12日在[Comic Market](../Page/Comic_Market.md "wikilink") 96發售正式版。
+是由[同人社團](https://zh.wikipedia.org/wiki/同人社團 "wikilink")[上海愛麗絲幻樂團](../Page/上海愛麗絲幻樂團.md "wikilink")所製作的[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")，是[東方Project的第](https://zh.wikipedia.org/wiki/東方Project "wikilink")17作，在2019年5月5日舉行的第16回博麗神社春季例大祭發佈體驗版，2019年8月12日在[Comic Market](../Page/Comic_Market.md "wikilink") 96發售正式版。
 
 ## 遊戲系統
 
@@ -42,16 +42,18 @@
 
   -
     在賽之河原壘石的們的領袖。
-
   -
     在[三途川](../Page/三途川.md "wikilink")以漁業維生的牛鬼。
-
   -
     野生雞的神明 二羽渡神。異界的口岸的護衛。
-
   -
-
-
+    吉弔。畜生界的四大组織之一，鬼傑組的組長。
+  -
+    袿姬制作的[埴輪兵團的兵長](https://zh.wikipedia.org/wiki/埴輪 "wikilink")。
+  -
+    支配著靈長園，保護裡面的人類靈的神明。
+  -
+    驪駒。勁牙組的組長。
 
 ## 關卡流程
 
@@ -99,7 +101,8 @@ Lonely Amaryllis</p></td>
 <td></td>
 <td><p>萬苦之業風<br />
 Darkside of Paradise</p></td>
-<td><p>地獄（詳細地點不明）</br>（）</p></td>
+<td><p>地獄（詳細地點不明）<br />
+（）</p></td>
 <td><p>吉弔八千慧</p></td>
 <td></td>
 </tr>
@@ -117,7 +120,8 @@ Beastly Dystopia</p></td>
 <td></td>
 <td><p>偶像之神<br />
 Idola-Deus</p></td>
-<td><p>靈長園 墳墓內部</br>（）</p></td>
+<td><p>靈長園 墳墓內部<br />
+（）</p></td>
 <td><p>杖刀偶磨弓</p></td>
 <td><p>植安神袿姬</p></td>
 </tr>
@@ -126,7 +130,8 @@ Idola-Deus</p></td>
 <td></td>
 <td><p>嗜血之業風<br />
 Beastly Storm</p></td>
-<td><p>地獄（畜生界旁暴風區域）</br>（）</p></td>
+<td><p>地獄（畜生界旁暴風區域）<br />
+（）</p></td>
 <td><p>庭渡久侘歌</p></td>
 <td><p>驪駒早鬼</p></td>
 </tr>
@@ -140,42 +145,6 @@ Beastly Storm</p></td>
 </tr>
 </tbody>
 </table>
-
-## 曲目一覽
-
-1.  （沉默的獸靈） - 標題畫面
-
-2.  （只有地藏知曉的哀嘆） - 1面的主題曲
-
-3.  （Jelly Stone） - 1面頭目 戎瓔花的主題曲
-
-4.  （Lost River） - 2面的主题曲
-
-5.  （石之嬰兒與水中牛） - 2面頭目 牛崎潤美的主題曲
-
-6.  （不朽的曼珠沙華） - 3面的主题曲
-
-7.  （Seraphic Chicken） - 3面頭目 庭渡久侘歌的主題曲
-
-8.  （Unlocated Hell） - 4面的主题曲
-
-9.  （Tortoise Dragon ～ 幸運與不幸） - 4面頭目 吉弔八千慧的主題曲
-
-10. （Beast Metropolis） - 5面的主题曲
-
-11. （陶瓷的杖刀人） - 5面頭目 杖刀偶磨弓的主題曲
-
-12. （Electric Heritage） - 6面的主题曲
-
-13. （寄世界於偶像 ～ Idoratrize World） - 6面頭目 埴安神袿姫的主題曲
-
-14. （閃耀的弱肉強食法則） - Extra面的主题曲
-
-15. （聖德太子的天馬～ Dark Pegasus） - Extra面頭目 驪駒早鬼的主題曲
-
-16. （畜生們的休息） - 結局
-
-17. （從地下的歸還） - 製作人員名單
 
 ## 注释
 

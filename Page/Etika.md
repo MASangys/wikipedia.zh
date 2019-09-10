@@ -22,7 +22,7 @@ Etika经历了几个月的[心理疾病和](https://zh.wikipedia.org/wiki/心理
 
 在阿莫法的死訊傳開後，許多YouTuber和實況主都紛紛表達哀悼，包括[PewDiePie](../Page/PewDiePie.md "wikilink")\[45\]、[Jacksepticeye](../Page/Jacksepticeye.md "wikilink")\[46\]、[KSI](../Page/KSIOlajideBT.md "wikilink")\[47\]和[Pokimane](../Page/Pokimane.md "wikilink")\[48\]等，而YouTube官方亦透過YouTube Creator的Twitter帳號表示社群失去了一個受粉絲喜愛的人物\[49\]。一些粉絲請求YouTube重新上傳阿莫法的最後一部影片以讓他們紀念\[50\]，同時還有人在[Change.org](../Page/Change.org.md "wikilink")請願，要求恢復阿莫法的原頻道，以保留他的遺產\[51\]。截止2019年6月29日，該請願已有超過38萬人簽署\[52\]。另外亦有數萬人-{支持}-讓阿莫法在位於[聖布魯諾的YouTube總部安葬的聯署](https://zh.wikipedia.org/wiki/聖布魯諾_\(加利福尼亞州\) "wikilink")\[53\]。後來亦有粉絲在被認為是阿莫法跳河的地點，即曼哈頓大橋的人行道上豎立了紀念碑，並在那留下信件、[粉絲繪圖](../Page/粉絲繪圖.md "wikilink")、、[Joy-Con](../Page/Joy-Con.md "wikilink")控制器和其他任天堂相關的產品或紀念品\[54\]。
 
-2019年7月21日，PewDiePie和美國演員[傑克·布萊克](../Page/傑克·布萊克.md "wikilink")以阿莫法的死為由，在上開設了一個為（NAMI）眾籌的網站。他們在兩天後一起玩《[當個創世神](https://zh.wikipedia.org/wiki/當個創世神 "wikilink")》以為活動籌款。PewDiePie向籌款網站捐贈了10,000美元，同時亦為NAMI籌集30,000多美元\[55\]。全數款項會捐獻給阿莫法的個人網站──etikaworldnetwork.myshopify.com，另外也會給NAMI的籌款以他的名義捐贈\[56\]。
+2019年7月21日，PewDiePie和美國演員[傑克·布萊克](../Page/傑克·布萊克.md "wikilink")以阿莫法的死為由，在上開設了一個為（NAMI）眾籌的網站。他們在兩天後一起玩《[當個創世神](https://zh.wikipedia.org/wiki/當個創世神 "wikilink")》以為活動籌款。PewDiePie向籌款網站捐贈了10,000美元，同時亦為NAMI籌集30,000多美元\[55\]。全數款項會捐獻給阿莫法的個人網站──etikaworldnetwork.myshopify.com，另外NAMI的籌款也會以他的名義捐贈\[56\]。
 
 ## 参考资料
 

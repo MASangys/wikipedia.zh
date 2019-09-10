@@ -281,6 +281,22 @@
 <td><p>3.6</p></td>
 <td><p>1</p></td>
 </tr>
+<tr class="even">
+<td><p>8月26日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NARALIEN" title="wikilink">NARALIEN</a></p></td>
+<td><p><a href="../Page/堂本剛.md" title="wikilink">ENDRECHERI</a></p></td>
+<td><p>原創</p></td>
+<td><p>6.0</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="odd">
+<td><p>9月2日</p></td>
+<td><p>5×20 All the BEST</p></td>
+<td><p>1999-2019</p></td>
+<td><p>嵐</p></td>
+<td><p>精選</p></td>
+<td><p>32.7</p></td>
+</tr>
 </tbody>
 </table>
 

@@ -905,7 +905,7 @@ IDOLS Ft为[SNH48 Group的运营公司](https://zh.wikipedia.org/wiki/SNH48#SNH4
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/北京" title="wikilink">北京</a></p></td>
 <td><p>SNH48 6期</p></td>
-<td></td>
+<td><p>代役BEJ48 Team E</p></td>
 <td></td>
 <td></td>
 </tr>

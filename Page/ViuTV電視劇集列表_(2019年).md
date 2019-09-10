@@ -273,7 +273,8 @@ Showman's Show</p></td>
 <a href="https://zh.wikipedia.org/wiki/李駿傑" title="wikilink">李駿傑</a>、<a href="https://zh.wikipedia.org/wiki/梁業" title="wikilink">梁　業</a>、<a href="../Page/郭嘉駿.md" title="wikilink">郭嘉駿</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"><p>主：娛樂風雲主題音樂（<a href="https://zh.wikipedia.org/wiki/黃偉年" title="wikilink">黃偉年作曲</a>）</p></td>
+<td style="text-align: center;"><p>主：娛樂風雲主題音樂（<a href="https://zh.wikipedia.org/wiki/黃偉年" title="wikilink">黃偉年作曲</a>）<br />
+主：困獸鬥（<a href="../Page/陳凱詠.md" title="wikilink">陳凱詠</a> Feat. <a href="https://zh.wikipedia.org/wiki/梁業" title="wikilink">梁　業</a> @ <a href="../Page/ERROR_(香港男子組合).md" title="wikilink">ERROR</a>）（第31集起）</p></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>
@@ -540,7 +541,7 @@ Haters Gonna Stay</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>05/08-<br />
 21/08</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/理想國_(電視劇)" title="wikilink">理想國</a><br />
+<td style="text-align: center;"><p><a href="../Page/理想國_(電視劇).md" title="wikilink">理想國</a><br />
 The Republic</p></td>
 <td style="text-align: center;"><p>13</p></td>
 <td style="text-align: center;"><p><a href="../Page/黃秋生.md" title="wikilink">黃秋生</a>、<a href="../Page/楊淇_(香港演員).md" title="wikilink">楊　淇</a>、<a href="../Page/吳綺莉.md" title="wikilink">吳綺莉</a>、<br />
@@ -1290,7 +1291,7 @@ Ossan's Love 2016</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
 <p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/Now劇集台電視劇集列表_(2018年).md" title="wikilink">2018年now劇集台劇集</a></span></p>
 </div></td>
-<td style="text-align: center;"><p>外購劇（<a href="../Page/日本.md" title="wikilink">日本</a><a href="../Page/朝日電視台.md" title="wikilink">朝日電視台</a>），播映時間為20:30-21:30</p></td>
+<td style="text-align: center;"><p>外購劇（<a href="../Page/日本.md" title="wikilink">日本</a><a href="../Page/朝日電視台.md" title="wikilink">朝日電視台</a>），播映時間為20:30-21:30（因臨時插播新聞報道而腰斬）</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>

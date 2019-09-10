@@ -1,4 +1,4 @@
-***Amygdalops***是[雙翅目](../Page/雙翅目.md "wikilink")[昆虫](../Page/昆虫.md "wikilink")的一個[属](https://zh.wikipedia.org/wiki/属 "wikilink")，目前直屬於[花蝇科](../Page/花蝇科.md "wikilink")，並不屬於任何一個亞科；但較新的研究將本屬歸於[小花蠅科](https://zh.wikipedia.org/wiki/小花蠅科 "wikilink")。
+***Amygdalops***是[雙翅目](../Page/雙翅目.md "wikilink")[昆虫](../Page/昆虫.md "wikilink")的一個[属](../Page/属.md "wikilink")，目前直屬於[花蝇科](../Page/花蝇科.md "wikilink")，並不屬於任何一個亞科；但較新的研究將本屬歸於[小花蠅科](https://zh.wikipedia.org/wiki/小花蠅科 "wikilink")。
 
 ## 物種
 

@@ -18,7 +18,7 @@
   - 陽川咲也 / 巡邏連2號（聲） - [橫山涼](https://zh.wikipedia.org/wiki/橫山涼 "wikilink")
   - 早見初美花 / 魯邦黃（聲） - [工藤遙](../Page/工藤遙.md "wikilink")
   - 明神司紗 / 巡邏連3號（聲） - [奧山和紗](https://zh.wikipedia.org/wiki/奧山和紗 "wikilink")
-  - 高尾諾爾 / 魯邦X（聲） / 巡邏連X（聲） - [元木聖也](https://zh.wikipedia.org/wiki/元木聖也 "wikilink")
+  - 高尾諾埃爾 / 魯邦X（聲） / 巡邏連X（聲） - [元木聖也](https://zh.wikipedia.org/wiki/元木聖也 "wikilink")
   - 小暮先生 - [溫水洋一](../Page/溫水洋一.md "wikilink")
   - Hilltop管理官 - [艾克·瓦拉](https://zh.wikipedia.org/wiki/艾克·瓦拉 "wikilink")（超新塾）
 
@@ -47,7 +47,5 @@
 ## 註釋
 
 ## 外部連結
-
-[ja:ルパンレンジャーVSパトレンジャーVSキュウレンジャー](https://zh.wikipedia.org/wiki/ja:ルパンレンジャーVSパトレンジャーVSキュウレンジャー "wikilink")
 
 [Category:超級戰隊系列](https://zh.wikipedia.org/wiki/Category:超級戰隊系列 "wikilink") [Category:超級戰隊系列電影作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列電影作品 "wikilink")

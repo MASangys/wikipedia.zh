@@ -102,36 +102,81 @@ ITZY首張迷你專輯的名稱於7月10公佈，名為《IT'z ICY》，而團�
 
 ### 音樂節目榜單排名
 
-| 電視台                                                        | 音樂節目名稱                                                                 | 入榜歌曲 | 來源           |
-| ---------------------------------------------------------- | ---------------------------------------------------------------------- | ---- | ------------ |
-| ICY                                                        |                                                                        |      |              |
-| [MBC Music](../Page/MBC_Plus_Media.md "wikilink")          | [Show Champion](../Page/Show_Champion.md "wikilink")                   | 1    | \[22\]       |
-| [Mnet](../Page/Mnet媒體.md "wikilink")                       | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | 1    | \[23\]       |
-| [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")        | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     | (1)  | \[24\]\[25\] |
-| [SBS](https://zh.wikipedia.org/wiki/SBS_\(韩国\) "wikilink") | [人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")               | 1    | \[26\]       |
-| 「(1)」：兩星期冠軍                                                |                                                                        |      |              |
+<table>
+<thead>
+<tr class="header">
+<th><p>電視台</p></th>
+<th><p>音樂節目名稱</p></th>
+<th><p>入榜歌曲</p></th>
+<th><p>來源</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>ICY</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/MBC_Plus_Media.md" title="wikilink">MBC Music</a></p></td>
+<td><p><a href="../Page/Show_Champion.md" title="wikilink">Show Champion</a></p></td>
+<td><p>[1]</p></td>
+<td><p>[22][23][24]</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/Mnet媒體.md" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
+<td><p>(1)</p></td>
+<td><p>[25]</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Show!_音樂中心" title="wikilink">Show! 音樂中心</a></p></td>
+<td><p>(1)</p></td>
+<td><p>[26][27]</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/SBS_(韩国)" title="wikilink">SBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SBS人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
+<td><p>1</p></td>
+<td><p>[28]</p></td>
+</tr>
+<tr class="even">
+<td><ul>
+<li>「(1)」：兩星期冠軍</li>
+</ul>
+<ul>
+<li>「[1]」：三星期冠軍</li>
+</ul></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ### 專輯成績
 
 | 週榜單（2019年）                                                         | 峰值 | 來源     |
 | ------------------------------------------------------------------ | -- | ------ |
-| 日本專輯榜（[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")）                | 12 | \[27\] |
-| 日本數位專輯榜（[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")）              | 10 | \[28\] |
-| 日本熱門專輯榜（[日本《告示牌》](https://zh.wikipedia.org/wiki/日本告示牌 "wikilink")） | 32 | \[29\] |
-| 台灣日韓榜（5大金榜）                                                        | 2  | \[30\] |
-| 韓國專輯榜（[Gaon音乐榜](../Page/Gaon音乐榜.md "wikilink")）                    | 3  | \[31\] |
-| 美國最佳熱門發現專輯榜（《[告示牌](../Page/告示牌_\(雜誌\).md "wikilink")》）             | 19 | \[32\] |
-| 美國世界專輯榜（《[告示牌](../Page/告示牌_\(雜誌\).md "wikilink")》）                 | 11 | \[33\] |
+| 日本專輯榜（[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")）                | 12 | \[29\] |
+| 日本數位專輯榜（[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")）              | 10 | \[30\] |
+| 日本熱門專輯榜（[日本《告示牌》](https://zh.wikipedia.org/wiki/日本告示牌 "wikilink")） | 32 | \[31\] |
+| 台灣日韓榜（5大金榜）                                                        | 2  | \[32\] |
+| 韓國專輯榜（[Gaon音乐榜](../Page/Gaon音乐榜.md "wikilink")）                    | 3  | \[33\] |
+| 美國最佳熱門發現專輯榜（《[告示牌](../Page/告示牌_\(雜誌\).md "wikilink")》）             | 19 | \[34\] |
+| 美國世界專輯榜（《[告示牌](../Page/告示牌_\(雜誌\).md "wikilink")》）                 | 11 | \[35\] |
 
 | 月榜單（2019年）                                 | 峰值 | 來源     |
 | ------------------------------------------ | -- | ------ |
-| 韓國[Gaon專輯榜](../Page/Gaon音乐榜.md "wikilink") | 9  | \[34\] |
+| 韓國[Gaon專輯榜](../Page/Gaon音乐榜.md "wikilink") | 9  | \[36\] |
 
 ## 銷售及認證
 
 | 排行榜                                                         | 銷量      | 來源     |
 | ----------------------------------------------------------- | ------- | ------ |
-| [Gaon音樂榜](https://zh.wikipedia.org/wiki/Gaon音樂榜 "wikilink") | 77,109份 | \[35\] |
+| [Gaon音樂榜](https://zh.wikipedia.org/wiki/Gaon音樂榜 "wikilink") | 77,109份 | \[37\] |
 
 ## 參考資料
 
@@ -199,3 +244,7 @@ ITZY首張迷你專輯的名稱於7月10公佈，名為《IT'z ICY》，而團�
 34.
 
 35.
+
+36.
+
+37.

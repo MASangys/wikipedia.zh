@@ -78,7 +78,7 @@
 <th><p>|- align= "center"</p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/第30屆金曲獎" title="wikilink">2019年</a></p></th>
 <th><p><a href="../Page/最佳新人獎_(金曲獎).md" title="wikilink">最佳新人獎</a></p></th>
-<th></th>
+<th><p>《SHA YAN》</p></th>
 <th></th>
 <th><p>[4] |- align= "center"</p></th>
 <th><p><a href="../Page/最佳演唱錄音專輯獎_(金曲獎).md" title="wikilink">最佳演唱錄音專輯獎</a></p></th>

@@ -16,7 +16,7 @@ Soyuz TMA-08M spacecraft raising into position at the launch pad 2.jpg|发射前
 
 ## 外部链接
 
-[Category:联盟计划](https://zh.wikipedia.org/wiki/Category:联盟计划 "wikilink") [Category:2013年航天](https://zh.wikipedia.org/wiki/Category:2013年航天 "wikilink") [Category:2013年哈萨克斯坦](https://zh.wikipedia.org/wiki/Category:2013年哈萨克斯坦 "wikilink")
+[Category:联盟计划](https://zh.wikipedia.org/wiki/Category:联盟计划 "wikilink") [Category:2013年航天](https://zh.wikipedia.org/wiki/Category:2013年航天 "wikilink") [Category:2013年哈薩克](https://zh.wikipedia.org/wiki/Category:2013年哈薩克 "wikilink")
 
 1.
 2.

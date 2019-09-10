@@ -32,7 +32,7 @@ Burning Sun夜店（）\[12\] 於2018年2月23日在江南區驛三洞首爾[艾
 
 ### 鄭俊英對話群組
 
-  - 韓國歌手鄭俊英被搜查後，而發現他有多個偷拍對話群組，該群組人數共有14名，其中群組內有[崔鍾訓](../Page/崔鍾訓.md "wikilink")等人。雖然[龍俊亨](../Page/龍俊亨.md "wikilink")被SBS記者編輯為群組成員，但是龍俊亨否認參與偷拍和散播性愛影片，且與鄭俊英有不適當的對話\[31\]\[32\]。
+  - 韓國歌手鄭俊英被搜查後，而發現他有多個偷拍對話群組，該群組人數共有14名，其中群組內有[崔鍾訓](../Page/崔鍾訓.md "wikilink")等人。雖然[龍俊亨](../Page/龍俊亨.md "wikilink")被SBS記者編輯為群組成員，但經調查後，龍俊亨否認並確實沒有在群組裡，也沒有參與任何偷拍及散播性愛影片，而是過去與鄭俊英一對一的對話中曾收過影片並有過不適當言論\[31\]\[32\]。
 
 <!-- end list -->
 
@@ -119,7 +119,7 @@ Burning Sun夜店（）\[12\] 於2018年2月23日在江南區驛三洞首爾[艾
 | 劉仁碩                                        | 유인석      | Yoo In-suk      | [朴韓星](../Page/朴韓星.md "wikilink")的丈夫\[56\]                                                          |
 | 權赫俊                                        | 권혁준      | Kwon Hyuk-jun   | [少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[俞利](../Page/俞利.md "wikilink")的哥哥\[57\]\[58\] |
 | [龍俊亨](../Page/龍俊亨.md "wikilink")           | 용준형      | Yong Jun-hyung  | [Highlight前成員](../Page/Highlight_\(韓國組合\).md "wikilink")                                           |
-| [李宗泫](../Page/李宗泫.md "wikilink")           | 이종현      | Lee Jong-hyun   | [CNBLUE](../Page/CNBLUE.md "wikilink")成員                                                           |
+| [李宗泫](../Page/李宗泫.md "wikilink")           | 이종현      | Lee Jong-hyun   | [CNBLUE](../Page/CNBLUE.md "wikilink")前成員                                                          |
 | [Roy Kim](../Page/Roy_Kim.md "wikilink")   | 김상우      | Kim Sang-woo    | SOLO歌手                                                                                             |
 | [Eddy Kim](../Page/Eddy_Kim.md "wikilink") | 김정환      | Kim Jung-hwan   |                                                                                                    |
 |                                            |          |                 |                                                                                                    |
@@ -134,7 +134,7 @@ SBS調查記者檢查了KakaoTalk聊天消息，該消息是由舉報人發送�
 
 ## 對於娛樂業的影響
 
-[YG娛樂](../Page/YG娛樂.md "wikilink")在2019年3月15日的股價市值為6492億韓元，比起上月25日的8638億韓元的高峰縮水約25%。該事件牽連的[崔鍾訓](../Page/崔鍾訓.md "wikilink")、[李宗泫](../Page/李宗泫.md "wikilink")所屬[FNC娛樂](../Page/FNC娛樂.md "wikilink")的市值也減少22%，[SM娛樂](../Page/SM娛樂.md "wikilink")和[Cube娛樂](../Page/Cube娛樂.md "wikilink")市值也減少20%以上\[59\]。
+在2019年2月25日至3月15日期間，相關公司市值大幅下降，例如[YG娛樂](../Page/YG娛樂.md "wikilink")在2019年3月15日的股價市值為6492億韓元，比起上月25日的8638億韓元的高峰縮水約25%。該事件牽連的[崔鍾訓](../Page/崔鍾訓.md "wikilink")、[李宗泫](../Page/李宗泫.md "wikilink")所屬[FNC娛樂](../Page/FNC娛樂.md "wikilink")的市值也減少22%，[SM娛樂](../Page/SM娛樂.md "wikilink")和[Cube娛樂](../Page/Cube娛樂.md "wikilink")市值也減少20%以上\[59\]。
 
 ### 韓國
 
@@ -143,6 +143,8 @@ SBS調查記者檢查了KakaoTalk聊天消息，該消息是由舉報人發送�
 韓國綜藝節目《[窮遊豪華團](../Page/窮遊豪華團.md "wikilink")》於2019年2月份前往土耳其伊斯坦堡取景，在事件爆發後，該節目組剪接必須重頭來過，儘可能減少主持人[鄭俊英](../Page/鄭俊英.md "wikilink")的拍攝畫面\[62\]。同年3月25日韓國[TVN](../Page/TVN.md "wikilink")綜藝節目《[在當地吃得開嗎3](../Page/在當地吃得開嗎_\(第三季\).md "wikilink")》的公開預告中，製作單位刪除所有關於鄭俊英的節目片段，並於4月18日首播\[63\]。
 
 2019年4月1日韓國女演員[高準熹](../Page/高準熹.md "wikilink")在受不了各方揣測下，也不忍家人遭受辱罵，因此在[Instagram](../Page/Instagram.md "wikilink")和[微博](../Page/微博.md "wikilink")發文說明與該事件無關，並確定不接演KBS連續劇《香水》\[64\]。
+
+韓劇《[德魯納酒店](../Page/德魯納酒店.md "wikilink")》第七集（八月三日播出）「13號房客」女鬼事件影射Burning Sun門事件。
 
 ### 臺灣
 

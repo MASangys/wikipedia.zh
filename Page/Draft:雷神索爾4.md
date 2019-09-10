@@ -1,4 +1,6 @@
-《**雷神索爾4**》（）是一部預定於2021年上映的美國[超級英雄電影](../Page/超級英雄電影.md "wikilink")，改編自[漫威漫畫](../Page/漫威漫畫.md "wikilink")旗下角色[雷神索爾](../Page/索爾_\(漫威漫畫\).md "wikilink")，由[漫威影業製作](https://zh.wikipedia.org/wiki/漫威影業 "wikilink")、[華特迪士尼影業發行](https://zh.wikipedia.org/wiki/華特迪士尼影業 "wikilink")。電影為2017年電影《[雷神索爾3：諸神黃昏](../Page/雷神索爾3：諸神黃昏.md "wikilink")》的續集，[漫威電影宇宙](https://zh.wikipedia.org/wiki/漫威電影宇宙 "wikilink")[系列中的第二十八部作品](https://zh.wikipedia.org/wiki/漫威電影宇宙系列電影 "wikilink")，由[塔伊加·維迪提編劇和執導](https://zh.wikipedia.org/wiki/塔伊加·維迪提 "wikilink")，[克里斯·漢斯沃](https://zh.wikipedia.org/wiki/克里斯·漢斯沃 "wikilink")、[泰莎·湯普森](../Page/泰莎·湯普森.md "wikilink")和[娜塔莉·波曼主演](https://zh.wikipedia.org/wiki/娜塔莉·波曼 "wikilink")。
+《**雷神索爾4**》（）是一部預定於2021年上映的美國[超級英雄電影](../Page/超級英雄電影.md "wikilink")，改編自[漫威漫畫](../Page/漫威漫畫.md "wikilink")旗下角色[雷神索爾](../Page/索爾_\(漫威漫畫\).md "wikilink")，由[漫威影業製作](https://zh.wikipedia.org/wiki/漫威影業 "wikilink")、[華特迪士尼影業發行](https://zh.wikipedia.org/wiki/華特迪士尼影業 "wikilink")。電影為2017年電影《[雷神索爾3：諸神黃昏](../Page/雷神索爾3：諸神黃昏.md "wikilink")》的續集，「[漫威電影宇宙](https://zh.wikipedia.org/wiki/漫威電影宇宙 "wikilink")」的[第28部電影作品](https://zh.wikipedia.org/wiki/漫威電影宇宙系列電影 "wikilink")，由[塔伊加·維迪提編劇和執導](https://zh.wikipedia.org/wiki/塔伊加·維迪提 "wikilink")，[克里斯·漢斯沃](https://zh.wikipedia.org/wiki/克里斯·漢斯沃 "wikilink")、[泰莎·湯普森](../Page/泰莎·湯普森.md "wikilink")和[娜塔莉·波曼主演](https://zh.wikipedia.org/wiki/娜塔莉·波曼 "wikilink")。
+
+2018年2月，導演塔伊加·維迪提開始與克里斯·漢斯沃討論開發《雷神索爾3：諸神黃昏》續集。2019年7月，漫威在[聖地牙哥國際漫畫展確認開發影片](https://zh.wikipedia.org/wiki/聖地牙哥國際漫畫展 "wikilink")，泰莎·湯普森回歸出演，未參與《雷神索爾3：諸神黃昏》演出的娜塔莉·波曼亦回歸漫威電影宇宙，繼續出演[珍·佛斯特](https://zh.wikipedia.org/wiki/珍·佛斯特 "wikilink")。維迪提透露珍·佛斯特將繼承[索爾的衣缽和能力](../Page/索爾_\(漫威漫畫\).md "wikilink")，成為女雷神。電影計劃於2020年8月在[澳大利亞](https://zh.wikipedia.org/wiki/澳大利亞 "wikilink")[悉尼](../Page/悉尼.md "wikilink")開機拍攝。
 
 電影定於2021年11月5日在美國上映。
 
@@ -15,33 +17,45 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/克里斯·漢斯沃" title="wikilink">克里斯·漢斯沃</a><br />
 Chris Hemsworth</p></td>
 <td><p><a href="../Page/索爾_(漫威漫畫).md" title="wikilink">索爾</a><br />
-Thor[1][2]</p></td>
-<td><p>前<a href="https://zh.wikipedia.org/wiki/阿斯嘉特" title="wikilink">阿斯嘉的國王</a>，基於<a href="https://zh.wikipedia.org/wiki/北歐神話" title="wikilink">北歐神話中的</a><a href="https://zh.wikipedia.org/wiki/索爾" title="wikilink">同名</a><a href="../Page/神.md" title="wikilink">神</a>祇。</p></td>
+Thor</p></td>
+<td><p>前<a href="https://zh.wikipedia.org/wiki/阿斯嘉特" title="wikilink">阿斯嘉的國王</a>，基於<a href="https://zh.wikipedia.org/wiki/北歐神話" title="wikilink">北歐神話中的</a><a href="https://zh.wikipedia.org/wiki/索爾" title="wikilink">同名</a><a href="../Page/神.md" title="wikilink">神</a>祇[1][2]。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/泰莎·湯普森.md" title="wikilink">泰莎·湯普森</a><br />
 Tessa Thompson</p></td>
 <td><p><a href="../Page/女武神_(漫威漫畫).md" title="wikilink">瓦爾基麗</a><br />
-Valkyrie[3]</p></td>
-<td><p>前阿斯嘉女武神，現為阿斯嘉女王，基於北歐神話中的神<a href="../Page/布倫希爾德.md" title="wikilink">布倫希爾德</a>。</p></td>
+Valkyrie</p></td>
+<td><p>前阿斯嘉女武神，現為阿斯嘉女王，基於北歐神話中的神<a href="../Page/布倫希爾德.md" title="wikilink">布倫希爾德</a>[3]。<a href="https://zh.wikipedia.org/wiki/漫威電影宇宙" title="wikilink">漫威電影宇宙中第一位</a><a href="../Page/LGBT.md" title="wikilink">LGBT</a>QIA+超級英雄，瓦爾基麗的<a href="../Page/性取向.md" title="wikilink">性取向</a>將在這部電影中展現。作為<a href="https://zh.wikipedia.org/wiki/阿斯加德" title="wikilink">阿斯嘉的新國王</a>，她將會尋找自己的王后[4][5]。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/娜塔莉·波曼" title="wikilink">娜塔莉·波曼</a><br />
 Natalie Portman</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/珍·佛斯特" title="wikilink">珍·佛斯特</a><br />
-Jane Foster[4]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/天體物理學" title="wikilink">天體物理學家</a>，索爾的前女友。</p></td>
+Jane Foster</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/天體物理學" title="wikilink">天體物理學家</a>，索爾的前女友[6]。與漫畫情節類似，珍·佛斯特將繼承索爾的衣缽和能力，成為女雷神[7]。娜塔莉·波曼未此前參演雷神系列電影第三部《<a href="../Page/雷神索爾3：諸神黃昏.md" title="wikilink">雷神索爾3：諸神黃昏</a>》，在她與導演<a href="https://zh.wikipedia.org/wiki/塔伊加·維迪提" title="wikilink">塔伊加·維迪提的一次單獨會面之後</a>，娜塔莉接受了邀約[8]。</p></td>
 </tr>
 </tbody>
 </table>
 
 ## 製作
 
-2019年4月，[泰莎·湯普森](../Page/泰莎·湯普森.md "wikilink")暗示《[雷神索爾3：諸神黃昏](../Page/雷神索爾3：諸神黃昏.md "wikilink")》續集的可能性，說“我聽說另一部《雷神索爾》電影已經提案了。我不知道這消息有多可靠，但我聽說已經提案了。我想，[塔伊加·維迪提也會回歸](https://zh.wikipedia.org/wiki/塔伊加·維迪提 "wikilink")\[5\]。”2019年7月，維迪提簽約執導該片\[6\]。同月，漫威影業在[聖地牙哥國際漫畫展上公佈電影正式片名為](https://zh.wikipedia.org/wiki/聖地牙哥國際漫畫展 "wikilink")《Thor: Love and Thunder》，上映日期定為2021年11月5日，[克里斯·漢斯沃](https://zh.wikipedia.org/wiki/克里斯·漢斯沃 "wikilink")、泰莎·湯普森和[娜塔莉·波曼將回歸出演電影](https://zh.wikipedia.org/wiki/娜塔莉·波曼 "wikilink")\[7\]。
+### 開發
 
-## 發行
+[Taika_Waititi_by_Gage_Skidmore_2.jpg](https://zh.wikipedia.org/wiki/File:Taika_Waititi_by_Gage_Skidmore_2.jpg "fig:Taika_Waititi_by_Gage_Skidmore_2.jpg")\]\] 儘管《[復仇者聯盟4：終局之戰](https://zh.wikipedia.org/wiki/復仇者聯盟4：終局之戰 "wikilink")》是[克里斯·漢斯沃與漫威最初簽訂的最後一部電影](https://zh.wikipedia.org/wiki/克里斯·漢斯沃 "wikilink")，2018年1月，他表示有興趣繼續出演[索爾](../Page/索爾_\(漫威漫畫\).md "wikilink")\[9\]。2月，他補充說「只要有滿意的劇本」，會考慮再次出演索爾\[10\]\[11\]，並表示他和導演[塔伊加·維迪提已經討論過潛在的第四部電影](https://zh.wikipedia.org/wiki/塔伊加·維迪提 "wikilink")\[12\]。2019年4月，[泰莎·湯普森](../Page/泰莎·湯普森.md "wikilink")暗示《[雷神索爾3：諸神黃昏](../Page/雷神索爾3：諸神黃昏.md "wikilink")》續集的可能性，說「我聽說另一部《雷神索爾》電影已經提案了。我不知道這消息有多可靠，但我聽說已經提案了。我想，塔伊加·維迪提也會回歸\[13\]。」
 
-電影定於2021年11月5日在美國上映\[8\]。
+2019年7月，塔伊加·維迪提簽約執導該片，克里斯·漢斯沃有望回歸繼續出演索爾\[14\]。同月，[漫威影業在](https://zh.wikipedia.org/wiki/漫威影業 "wikilink")[聖地牙哥國際漫畫展上公佈電影正式片名為](https://zh.wikipedia.org/wiki/聖地牙哥國際漫畫展 "wikilink")《Thor: Love and Thunder》，上映日期定為2021年11月5日，克里斯·漢斯沃和泰莎·湯普森確認回歸出演影片，曾在2011年電影《[雷神索爾](https://zh.wikipedia.org/wiki/雷神_\(電影\) "wikilink")》和2013年電影《[雷神索爾2：黑暗世界](https://zh.wikipedia.org/wiki/雷神索爾2：黑暗世界 "wikilink")》中出演[珍·佛斯特的](https://zh.wikipedia.org/wiki/珍·佛斯特 "wikilink")[娜塔莉·波曼亦回歸繼續飾演該角色](https://zh.wikipedia.org/wiki/娜塔莉·波曼 "wikilink")\[15\]。泰莎·湯普森和漫威影業總裁[凱文·費吉](../Page/凱文·費吉.md "wikilink")表示[瓦爾基麗將成為漫威電影宇宙中第一位](../Page/女武神_\(漫威漫畫\).md "wikilink")[LGBT](../Page/LGBT.md "wikilink")QIA+超級英雄，該角色的[性取向](../Page/性取向.md "wikilink")將在這部電影中展現。作為[阿斯嘉的新國王](https://zh.wikipedia.org/wiki/阿斯加德 "wikilink")，她將會尋找自己的王后。在電影《雷神索爾3：諸神黃昏》中，她的性取向有所暗示，而有組更為明確的鏡頭在成片中被刪去\[16\]\[17\]。導演塔伊加·維迪提透露電影將借鑒創作的漫畫《萬能索爾》「Mighty Thor」中的元素，影片中珍·佛斯特將繼承索爾的衣缽和能力，成為女雷神\[18\]。凱文·費吉表示漫威將《萬能索爾》看作「近年來最佳漫畫之一」，塔伊加·維迪提在執導《雷神索爾3：諸神黃昏》期間已經閱讀過該系列漫畫。維迪提同意繼續執導雷神系列電影時，他希望能夠女雷神能夠出現於影片之中。維迪提與娜塔莉·波曼經過單獨會面商談之後，後者同意回歸漫威電影宇宙，繼續出演珍·佛斯特\[19\]。費吉稱影片將「融合多種元素」，珍·佛斯特成為女雷是故事線中「非常重要的一部分\[20\]」。
+
+2019年7月底，[澳大利亞](https://zh.wikipedia.org/wiki/澳大利亞 "wikilink")[新南威爾斯州藝術部長](https://zh.wikipedia.org/wiki/新南威爾斯州 "wikilink")宣佈影片將於[悉尼](../Page/悉尼.md "wikilink")的福斯工作室開機，與另一部漫威電影宇宙電影《[尚氣與十環幫傳奇](https://zh.wikipedia.org/wiki/尚氣與十環幫傳奇 "wikilink")》採用[背靠背的方式製作](https://zh.wikipedia.org/wiki/背靠背電影製作 "wikilink")。計劃於2020年3月開始前期製作，2020年8月開啟[主體拍攝](https://zh.wikipedia.org/wiki/主體拍攝 "wikilink")\[21\]。影片將獲得澳大利亞和新南威爾斯州政府一次性資金支持2400萬澳元（約1800萬美元）。漫威影業副總裁大衛·格蘭特（David Grant）表示，背靠背製作這兩部電影能夠為當地職員提供「持續就業」機會，《雷神索爾4》將為澳大利亞帶來各種經濟收益1.78億澳元（約1.37億美元）\[22\]。格蘭特補充表示，電影項目將與「當地教育機構合作，為學員提供實習機會\[23\]」。2019年8月，《[Deadline](../Page/Deadline.com.md "wikilink")》報道維迪提已經創作完成劇本\[24\]，但月底維迪提否認了這一消息\[25\]。維迪提補充說明了他說服娜塔莉·波曼回歸出演影片的原因，「（珍·佛斯特）與眾不同……影片將對這個角色給予全新詮釋，我想任何人都會對此感興趣\[26\]。」同月，曾在《[星際異攻隊2](https://zh.wikipedia.org/wiki/星際異攻隊2 "wikilink")》片尾客串、《雷神索爾3：諸神黃昏》中出演[宗師的](../Page/宗師_\(漫威漫畫\).md "wikilink")[傑夫·高布倫](../Page/傑夫·高布倫.md "wikilink")表示該角色可能出現在《雷神索爾4》中，他有興趣與導演維迪提繼續合作\[27\]。
+
+### 拍攝
+
+影片的[主體拍攝計劃於](https://zh.wikipedia.org/wiki/主體拍攝 "wikilink")2020年8月在[澳大利亞](https://zh.wikipedia.org/wiki/澳大利亞 "wikilink")[悉尼](../Page/悉尼.md "wikilink")的福斯工作室開機\[28\]。
+
+## 宣傳與發行
+
+電影定於2021年11月5日在美國上映\[29\]。
+
+## 註釋
 
 ## 參考資料
 
@@ -58,3 +72,24 @@ Jane Foster[4]</p></td>
 6.
 7.
 8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.

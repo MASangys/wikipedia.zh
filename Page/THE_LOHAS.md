@@ -1,6 +1,6 @@
 **THE LOHAS (康城)**，是香港一座興建中的[港鐵](../Page/港鐵.md "wikilink")旗艦級大型高級購物商場，商場投資額為50億元，位於[香港](../Page/香港.md "wikilink")[西貢區](../Page/西貢區.md "wikilink")[將軍澳](../Page/將軍澳.md "wikilink")[康城路](../Page/康城路.md "wikilink")1號，港鐵[康城站上蓋](https://zh.wikipedia.org/wiki/康城站 "wikilink")[日出康城](../Page/日出康城.md "wikilink")之內，第7期[MONTARA](../Page/MONTARA.md "wikilink")及GRAND MONTARA基座，預計於最快2020年下半年分階段落成及開幕啟用。THE LOHAS樓高3層，面積達48萬[平方呎](https://zh.wikipedia.org/wiki/平方呎 "wikilink")，比[將軍澳站](../Page/將軍澳站.md "wikilink")[天晉](../Page/天晉.md "wikilink")基座大型商場[PopCorn](../Page/PopCorn.md "wikilink")大2.4倍，直接連接港鐵康城站，由[香港鐵路有限公司旗下的Premier](https://zh.wikipedia.org/wiki/香港鐵路有限公司 "wikilink") Management Services管理。THE LOHAS商場與[九龍站商場](https://zh.wikipedia.org/wiki/九龍站 "wikilink")[圓方](../Page/圓方.md "wikilink")(Elements)同系，設超過150個商店，當中25%屬於娛樂，25%來自餐飲，並會有中式酒家，餘下50%則屬生活休閒和超級市場等，設全港最大溜冰場及將軍澳最大的戲院，以及美食廣場、大型超級市場、露天餐飲區、水景廣場、空中花園等。\[1\]場內裝修走高檔格調，參考同系大型高級商場圓方。
 
-據悉，[日出康城](../Page/日出康城.md "wikilink")THE LOHAS部分商舖呎租高達1,600元，超越同系[圓方](../Page/圓方.md "wikilink")商場、[國際金融中心商場](../Page/國際金融中心商場.md "wikilink")等，甚至超過[銅鑼灣](../Page/銅鑼灣.md "wikilink")、[尖沙咀](../Page/尖沙咀.md "wikilink")等高級購物區。其中，面積約597平方呎的337A號舖，由[美聯物業以接近](https://zh.wikipedia.org/wiki/美聯物業 "wikilink")100萬元承租，呎租超過1,600元，以呎租計屬全港最貴地產代理舖面；另外兩個相連舖336及337B號鋪面積共970平方呎，則由[中原地產](../Page/中原地產.md "wikilink")投得，有指兩舖合共月租逾140萬元，成為全港最貴租金代理分店。代理指，日出康城正在發展臨海高端豪宅群，市場潛力龐大，故吸引兩大地產代理以天價競爭。
+據悉，[日出康城](../Page/日出康城.md "wikilink")THE LOHAS部分商舖呎租高達1,600元，超越同系[圓方](../Page/圓方.md "wikilink")、[國際金融中心商場](../Page/國際金融中心商場.md "wikilink")等，直逼[銅鑼灣](../Page/銅鑼灣.md "wikilink")、[尖沙咀](../Page/尖沙咀.md "wikilink")等傳統高級購物區。其中，面積約597平方呎的337A號舖，由[美聯物業以接近](https://zh.wikipedia.org/wiki/美聯物業 "wikilink")100萬元承租，呎租超過1,600元，以呎租計屬全港最貴地產代理舖面；另外兩個相連舖336及337B號鋪面積共970平方呎，則由[中原地產](../Page/中原地產.md "wikilink")投得，有指兩舖合共月租逾140萬元，成為全港最貴租金代理分店。代理指，日出康城正在發展臨海高端豪宅群，市場潛力龐大，故吸引兩大地產代理以天價競爭。
 
 ## 簡介
 
@@ -16,7 +16,7 @@ THE LOHAS樓高三層，總面積超過48萬平方呎，其中2樓設大型道�
 
 ### 香港最大國際級室內溜冰場
 
-THE LOHAS將設有香港最大的國際級室內溜冰場，已由香港冰球訓練學校承租，將會推廣冰上運動。\[2\]此外，本溜冰場將為繼[圓方](../Page/圓方.md "wikilink")、[又一城](../Page/又一城.md "wikilink")、[Megabox](https://zh.wikipedia.org/wiki/Megabox "wikilink")、[西九龍中心](../Page/西九龍中心.md "wikilink")及[太古城中心](../Page/太古城中心.md "wikilink")之後，香港第6個室內溜冰場，也是新界區第一個及唯一一個室內溜冰場，比現時位於Megabox的香港最大溜冰場的規模更大。
+THE LOHAS將設有香港最大的國際級室內溜冰場，已由香港冰球訓練學校承租，將會推廣冰上運動。\[2\]此外，本溜冰場將為繼[圓方](../Page/圓方.md "wikilink")、[又一城](../Page/又一城.md "wikilink")、[Megabox](https://zh.wikipedia.org/wiki/Megabox "wikilink")、[西九龍中心](../Page/西九龍中心.md "wikilink")及[太古城中心](../Page/太古城中心.md "wikilink")之後，香港第6個室內溜冰場，也是新界區第一個（也是唯一一個）室內溜冰場，比現時位於Megabox的香港最大溜冰場的規模更大。
 
 ### 將軍澳最大戲院
 
@@ -90,7 +90,7 @@ THE LOHAS對開的日出康城5期[MALIBU](../Page/MALIBU.md "wikilink")基座�
   - 第2期[領都、領峯及領凱](../Page/領都、領峯及領凱.md "wikilink")、[日出公園](../Page/日出公園.md "wikilink")及[地標會所](https://zh.wikipedia.org/wiki/地標會所 "wikilink")
   - 第3期[緻藍天](../Page/緻藍天.md "wikilink")、第5期[MALIBU](../Page/MALIBU.md "wikilink")及[賽馬會香港足球總會足球訓練中心](../Page/賽馬會香港足球總會足球訓練中心.md "wikilink")
   - 日出康城西部海濱住宅(第8、10及13期)、[將軍澳海濱公園](../Page/將軍澳海濱公園.md "wikilink")及日出康城第8期臨海商場
-  - 日出康城西南部海濱住宅(第9及10期)
+  - 日出康城西南部海濱住宅(第9期MARINI及第10期)
   - 日出康城南部海濱住宅(第4期[晉海](../Page/晉海.md "wikilink")及第6期[LP6](../Page/LP6.md "wikilink"))及[將軍澳跨灣連接路](../Page/將軍澳跨灣連接路.md "wikilink")
   - [動感公園及](https://zh.wikipedia.org/wiki/動感公園 "wikilink")[峻瀅](../Page/峻瀅.md "wikilink")
 

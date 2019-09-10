@@ -88,7 +88,7 @@
 <tbody>
 <tr class="odd">
 <td><p>大韓民國（全國）</p></td>
-<td><p>首爾（首都圈）</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -104,7 +104,7 @@
 <tr class="even">
 <td><p>3</p></td>
 <td><p>2019/07/17</p></td>
-<td><p>1.388%</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>4</p></td>
@@ -149,7 +149,7 @@
 <tr class="odd">
 <td><p>12</p></td>
 <td><p>2019/08/15</p></td>
-<td><p>0.534%</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>平均收視率</p></td>

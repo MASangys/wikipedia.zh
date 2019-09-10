@@ -1,8 +1,8 @@
-**Stray Kids UNVEIL TOUR 'I am…’**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")9人男子組合[Stray Kids於](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")2019年舉辦的第一次海外巡迴Showcase。
+**Stray Kids UNVEIL TOUR 'I am…’**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")9人男子組合[Stray Kids於](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")2019年舉辦的第一次海外巡迴Showcase。以2018年正式出道為開端，每次發表新專輯時所舉辦的[UNVEIL](../Page/UNVEIL.md "wikilink") Showcase系列：《UNVEIL \[Op. 01 : I am NOT\]》、《UNVEIL \[Op. 02 : I am WHO\]》、《UNVEIL \[Op. 03 : I am YOU\]》作為延長線的演出\[1\]。巡迴Showcase於2019年1月19日在泰國曼谷THUNDER DOME開始，遍及亞洲、澳洲、美洲、歐洲等共14場。
 
 ## 概述
 
-2018年11月25日，[JYP娛樂](../Page/JYP娛樂.md "wikilink")陸續公布[Stray Kids將於](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")2019年1月19日於[曼谷](../Page/曼谷.md "wikilink")及26日於[雅加達舉行巡迴Showcase](https://zh.wikipedia.org/wiki/雅加達 "wikilink")\[1\]。
+2018年11月25日，[JYP娛樂](../Page/JYP娛樂.md "wikilink")陸續公布[Stray Kids將於](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")2019年1月19日於[曼谷](../Page/曼谷.md "wikilink")及26日於[雅加達舉行巡迴Showcase](https://zh.wikipedia.org/wiki/雅加達 "wikilink")。
 
 2019年1月16日公布2月21日[墨爾本及](https://zh.wikipedia.org/wiki/墨爾本 "wikilink")24日[雪梨場次](https://zh.wikipedia.org/wiki/雪梨 "wikilink")。
 
@@ -12,7 +12,7 @@
 
 因[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")3個場次在開賣一個多小時後隨即售完，2019年3月6日宣布加開5月14日紐華克場次\[2\]。
 
-2019年6月5日公布7月28日[倫敦](https://zh.wikipedia.org/wiki/倫敦 "wikilink")、7月30日[巴黎](../Page/巴黎.md "wikilink")、8月2日[柏林](../Page/柏林.md "wikilink")及8月4日[莫斯科](../Page/莫斯科.md "wikilink")場次。
+2019年6月5日公布7月28日[倫敦](https://zh.wikipedia.org/wiki/倫敦 "wikilink")、7月30日[巴黎](../Page/巴黎.md "wikilink")、8月2日[柏林](../Page/柏林.md "wikilink")及8月4日[莫斯科](../Page/莫斯科.md "wikilink")場次\[3\]。
 
 2019年8月7日公布9月27日[日本](../Page/日本.md "wikilink")場次。
 
@@ -34,7 +34,7 @@
 <td><p><a href="../Page/曼谷.md" title="wikilink">曼谷</a></p></td>
 <td></td>
 <td></td>
-<td><p>4,000+[3]</p></td>
+<td><p>4,000+[4]</p></td>
 </tr>
 <tr class="even">
 <td><p>2019年1月26日</p></td>
@@ -62,7 +62,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/馬尼拉" title="wikilink">馬尼拉</a></p></td>
 <td></td>
 <td><p> </p></td>
-<td><p>7,000+[4]</p></td>
+<td><p>7,000+[5]</p></td>
 </tr>
 <tr class="even">
 <td><p>2019年5月14日</p></td>
@@ -97,7 +97,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/倫敦" title="wikilink">倫敦</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/O2布里克斯頓學院" title="wikilink">O2布里克斯頓學院</a></p></td>
-<td><p>19,000+[5]</p></td>
+<td><p>19,000+[6]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2019年7月30日</p></td>
@@ -330,6 +330,7 @@
 <!-- end list -->
 
   - [Stray Kids "UNVEIL TOUR in USA"](https://www.youtube.com/watch?v=alkZGnOFw_g)
+  - [Stray Kids "UNVEIL TOUR in Europe"](https://www.youtube.com/watch?v=RlLUsd6R5pk)
 
 [Category:Stray_Kids](https://zh.wikipedia.org/wiki/Category:Stray_Kids "wikilink")
 
@@ -338,3 +339,4 @@
 3.
 4.
 5.
+6.

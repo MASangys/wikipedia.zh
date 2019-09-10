@@ -123,6 +123,30 @@
 <td><p>最高名次： 10</p></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/Arirang_TV" title="wikilink">Arirang TV</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>3月29日</p></td>
+</tr>
+<tr class="even">
+<td><p>4月5日</p></td>
+</tr>
+<tr class="odd">
+<td><p>4月12日</p></td>
+</tr>
+<tr class="even">
+<td><p>4月19日</p></td>
+</tr>
+<tr class="odd">
+<td><p>4月26日</p></td>
+</tr>
+<tr class="even">
+<td><p>5月3日</p></td>
+</tr>
+<tr class="odd">
+<td><p>5月10日</p></td>
+</tr>
+<tr class="even">
 <td><p>《Moon》</p></td>
 </tr>
 <tr class="odd">

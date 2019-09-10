@@ -214,6 +214,12 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>2019年</p></td>
+<td><p>第3屆 <a href="../Page/Soribada最佳音樂大獎.md" title="wikilink">Soribada Best K-Music Awards</a></p></td>
+<td><p>音樂之星賞</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>

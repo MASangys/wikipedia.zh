@@ -6,4 +6,6 @@
 
 ## 參考
 
+[Category:2019年面世的手機](https://zh.wikipedia.org/wiki/Category:2019年面世的手機 "wikilink") [Category:三星Galaxy](https://zh.wikipedia.org/wiki/Category:三星Galaxy "wikilink")
+
 1.  <https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/358811/%E5%B9%B3%E6%9D%BF%E9%9B%BB%E8%85%A6-samsung-galaxy-tab-s6-9%E6%9C%88%E7%99%BC%E5%94%AE-%E9%A0%82%E9%85%8D%E5%85%BC%E6%9C%89%E9%9B%99%E9%8F%A1%E9%A0%AD>

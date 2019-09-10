@@ -57,20 +57,21 @@
 
 ### 劇集（ViuTV）
 
-| style="background: \#000000; color: white;|年份 | style="background: \#000000; color: white;|劇集名稱             | style="background: \#000000; color: white;|參與成員 | style="background: \#000000; color: white;|備註 |
-| --------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------- | --------------------------------------------- |
-| 2018年                                         | [做演藝嘅](https://zh.wikipedia.org/wiki/做演藝嘅 "wikilink")       | 全體                                              |                                               |
-| 2019年                                         | [退休女皇](https://zh.wikipedia.org/wiki/退休女皇 "wikilink")       | 肥仔、保錡                                           |                                               |
-| 2019年                                         | [仇老爺爺](../Page/仇老爺爺.md "wikilink")                          | Dee                                             |                                               |
-| 2019年                                         | Reboot                                                      | Dee                                             |                                               |
-| 2019年                                         | [娛樂風雲](https://zh.wikipedia.org/wiki/娛樂風雲 "wikilink")       | 全體                                              |                                               |
-| 2019年                                         | [理想國](https://zh.wikipedia.org/wiki/理想國_\(電視劇\) "wikilink") | 肥仔                                              | 第9集                                           |
+| style="background: \#000000; color: white;|年份 | style="background: \#000000; color: white;|劇集名稱       | style="background: \#000000; color: white;|參與成員 | style="background: \#000000; color: white;|備註 |
+| --------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------- | --------------------------------------------- |
+| 2018年                                         | [做演藝嘅](https://zh.wikipedia.org/wiki/做演藝嘅 "wikilink") | 全體                                              |                                               |
+| 2019年                                         | [退休女皇](https://zh.wikipedia.org/wiki/退休女皇 "wikilink") | 肥仔、保錡                                           |                                               |
+| 2019年                                         | [仇老爺爺](../Page/仇老爺爺.md "wikilink")                    | Dee                                             |                                               |
+| 2019年                                         | Reboot                                                | Dee                                             |                                               |
+| 2019年                                         | [娛樂風雲](https://zh.wikipedia.org/wiki/娛樂風雲 "wikilink") | 全體                                              |                                               |
+| 2019年                                         | [理想國](../Page/理想國_\(電視劇\).md "wikilink")              | 肥仔                                              | 第9集                                           |
 
 ### MV
 
 | style="background: \#000000; color: white;|年份 | style="background: \#000000; color: white;|MV名稱               | style="background: \#000000; color: white;|參與成員 | style="background: \#000000; color: white;|備註 |
 | --------------------------------------------- | ------------------------------------------------------------- | ----------------------------------------------- | --------------------------------------------- |
 | 2019年                                         | [林海峰](https://zh.wikipedia.org/wiki/林海峰 "wikilink")《我今朝有啲唔舒服》 | 肥仔                                              |                                               |
+| 2019年                                         | 林海峰《努力奮鬥加油》                                                   | 肥仔                                              |                                               |
 
 ## 公開活動
 

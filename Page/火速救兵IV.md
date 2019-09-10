@@ -308,7 +308,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/王喜" title="wikilink">王　喜</a></p></td>
+<td><p><a href="../Page/王喜.md" title="wikilink">王　喜</a></p></td>
 <td><p>李文傑</p></td>
 <td><p>消防及救護學院高級消防隊長<br />
 <a href="../Page/高空拯救專隊.md" title="wikilink">高空拯救專隊</a>HART隊長<br />
@@ -633,7 +633,7 @@ Michelle之好友</p></td>
   - 香港电台將以前经常播映一小时的[此劇系列改成以半小时播出](../Page/火速救兵系列.md "wikilink")，经监制[利子良解释原来是为了迁就](https://zh.wikipedia.org/wiki/利子良 "wikilink")[TVB的香港电台播映時段才会这么做](https://zh.wikipedia.org/wiki/TVB "wikilink")\[15\]。
   - 2018年10月27日，在播映單元二《生死時刻》（上）期間，正值2018年[銀英勇勳章](../Page/銀英勇勳章.md "wikilink")頒獎日，獲頒勳章的其中四名消防員正是當日劇中藍本，在[颱風帕卡中勇救行山人士](https://zh.wikipedia.org/wiki/颱風帕卡 "wikilink")。
   - 此劇是[何華超](../Page/何華超.md "wikilink")和[張雷第四度同劇演出](https://zh.wikipedia.org/wiki/張雷 "wikilink")，但安排於不同單元故事中演出。
-  - 此劇是[歐錦棠](../Page/歐錦棠.md "wikilink")和[王喜繼](https://zh.wikipedia.org/wiki/王喜 "wikilink")[TVB劇集](../Page/電視廣播有限公司.md "wikilink")《[烈火雄心II](../Page/烈火雄心II.md "wikilink")》後再次同劇演出，但安排於不同單元故事中演出。
+  - 此劇是[歐錦棠](../Page/歐錦棠.md "wikilink")和[王喜](../Page/王喜.md "wikilink")繼[TVB劇集](../Page/電視廣播有限公司.md "wikilink")《[烈火雄心II](../Page/烈火雄心II.md "wikilink")》後再次同劇演出，但安排於不同單元故事中演出。
   - 此劇是[歐錦棠](../Page/歐錦棠.md "wikilink")、[蔣祖曼](../Page/蔣祖曼.md "wikilink")、[岑珈其](../Page/岑珈其.md "wikilink")和繼電影《[非同凡響](https://zh.wikipedia.org/wiki/非同凡響 "wikilink")》後再次同劇演出，但安排於不同單元故事中演出。
   - 此劇是[蔣祖曼](../Page/蔣祖曼.md "wikilink")第二度參與演出，並首次飾演消防隊長角色。
   - 此劇是[陳鍵鋒和](https://zh.wikipedia.org/wiki/陳鍵鋒 "wikilink")[楊思琦](../Page/楊思琦.md "wikilink")繼[TVB劇集](../Page/電視廣播有限公司.md "wikilink")《[翻叮一族](../Page/翻叮一族.md "wikilink")》後再次同劇合作演出。

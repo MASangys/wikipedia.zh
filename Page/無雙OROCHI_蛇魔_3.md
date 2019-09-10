@@ -1,11 +1,14 @@
 是由[光榮特庫摩的ω](https://zh.wikipedia.org/wiki/光榮特庫摩 "wikilink")-force開發發行的[動作遊戲](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")，是[无双大蛇系列的第](../Page/無雙OROCHI系列.md "wikilink")5部作品。遊戲的[PlayStation 4及](../Page/PlayStation_4.md "wikilink")[Nintendo Switch版於](https://zh.wikipedia.org/wiki/Nintendo_Switch "wikilink")2018年9月27日正式發行，而[Microsoft Windows及](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Xbox One則於](../Page/Xbox_One.md "wikilink")2018年10月16日發行\[1\]\[2\]\[3\]。
 
+預計在2019年12月會發行大型dlc無雙大蛇3 ultimate，首登陸在switch和ps4，pc版本預計2020年2月。
+
 ## 登场人物
 
 本作中登场的人物包括《[真·三国无双7：帝国](../Page/真·三國無雙7.md "wikilink")》出现的83名角色和《[战国无双4-II](../Page/戰國無雙4.md "wikilink")》中的56名角色，以及无双大蛇系列自[2代以来独有的](../Page/無雙OROCHI_2.md "wikilink")25名角色和本作新加入的神话角色宙斯、雅典娜、珀尔修斯、阿瑞斯、洛基（游戏中为珀尔修斯的真面目）和奥丁。\[4\]\[5\]但是由于种种原因，《[真·三国无双8](../Page/真·三國無雙8.md "wikilink")》和《战国无双 真田丸》中新增的角色（如真·三国无双8的程普、周倉、满宠、辛憲英,戰國無雙 真田丸的真田昌幸，茶茶，佐助等）没有登场。\[6\]此外为北条氏康配音的[石冢运昇在](../Page/石塚運昇.md "wikilink")2018年8月因病逝世，此角色改由[江原正士](../Page/江原正士.md "wikilink")配音。\[7\]
 
   - 本作新加入的《真·三国无双》武将：乐进、李典、于禁、荀彧、鲁肃、韓當、朱然、关兴、张苞、关银屏、法正、贾充、文鸯、张春华、陈宫、吕玲绮。
   - 本作新加入的《战国无双》武将：松永久秀、上杉景胜、片仓景纲、小少将、早川殿、柳生宗矩、井伊直虎、井伊直政、真田信之、小早川隆景、藤堂高虎、岛津豊久、大谷吉继。
+  - 在大型dlc的ultimate預計新加的角色:盖亚、黑帝斯、贞德
 
 ## 玩法
 

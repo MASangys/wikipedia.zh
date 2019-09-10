@@ -42,6 +42,13 @@ SECL-2433（普通盘）<br />
 SECL-2434～2435（期間限量盘）</p></td>
 <td><p>18位</p></td>
 </tr>
+<tr class="odd">
+<td><p>3rd</p></td>
+<td><p>2019年8月21日</p></td>
+<td><p>Us EP</p></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

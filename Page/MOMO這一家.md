@@ -136,7 +136,8 @@ Asus Zenbo赞助的集数完整版将会上传至Asus台湾的YouTube频道</p><
 | **演員**                                                                       | **角色**                       | **暱稱／關係** |
 | **[張婕筠](https://zh.wikipedia.org/wiki/張婕筠 "wikilink")（第一季）**                 | **老師**                       |           |
 | **[林姵君](../Page/林姵君.md "wikilink")（第二季）**                                    |                              |           |
-| **[贝童彤](https://zh.wikipedia.org/wiki/贝童彤 "wikilink")**                      | **班長（有时班长也会替换，根据演出和故事内容为准）** | **彤彤**    |
+| **[贝童彤](https://zh.wikipedia.org/wiki/贝童彤 "wikilink")（第三季）**                 |                              |           |
+| **[贝童彤](https://zh.wikipedia.org/wiki/贝童彤 "wikilink")（仅第一季和第二季）**            | **班長（有时班长也会替换，根据演出和故事内容为准）** | **彤彤**    |
 | **[李宜軒](https://zh.wikipedia.org/wiki/香草姊姊 "wikilink")**                     | **學生**                       | **香香**    |
 | **[施達伶](https://zh.wikipedia.org/wiki/施達伶 "wikilink")（仅参演第一季）**              | **泡泡**                       |           |
 | **[洪敏慈](https://zh.wikipedia.org/wiki/洪敏慈 "wikilink")**                      | **小花**                       |           |

@@ -24,7 +24,8 @@
 <tr class="odd">
 <td><p>香月徹也</p></td>
 <td><p><a href="../Page/白石隼也.md" title="wikilink">白石隼也</a></p></td>
-<td></td>
+<td><p><a href="../Page/樂桃航空.md" title="wikilink">樂桃航空</a>公司副機師。<br />
+先前在「東都航空」服務，新聞報導其暴力行為，但事實的原因為教官對其學弟進行職權騷擾，香月徹也與教官爭執中，教官意外摔落樓梯。</p></td>
 </tr>
 <tr class="even">
 <td><p>海野大介</p></td>

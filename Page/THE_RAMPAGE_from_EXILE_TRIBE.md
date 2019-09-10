@@ -47,7 +47,7 @@
 
 ## 作品
 
-排名為[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")最高排名 \[6\]
+排名為[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")週間最高排名 \[6\]
 
 ### 單曲
 
@@ -107,6 +107,12 @@
 <td><p>8</p></td>
 <td><p>2019年7月31日</p></td>
 <td><p>WELCOME 2 PARADISE</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>9</p></td>
+<td><p>2019年10月2日</p></td>
+<td><p>SWAG &amp; PRIDE</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -232,11 +238,15 @@ THE RAMPAGE LIVE TOUR 2019 "THROW YA FIST"\[8\]
 
   - [森永製菓](../Page/森永製菓.md "wikilink")「ICE BOX」形象代言人（2018年 - ）\[9\]
 
+<!-- end list -->
+
+  - [DHC](../Page/DHC.md "wikilink")「純欖護唇膏」（2019年）\[10\]
+
 ## 獎項
 
   - [MTV日本音樂錄影帶大獎](../Page/MTV日本音樂錄影帶大獎.md "wikilink")2017 最佳新人音樂錄影帶獎"Lightning"
   - [亞洲明星盛典 Artist Award)2017年](../Page/亞洲明星盛典.md "wikilink")(Asia New Wave獎
-  - 第32年度 [日本金唱片大獎](../Page/日本金唱片大獎.md "wikilink") 最佳5位新人獎(音樂類) \[10\]
+  - 第32年度 [日本金唱片大獎](../Page/日本金唱片大獎.md "wikilink") 最佳5位新人獎(音樂類) \[11\]
 
 ## 腳註
 
@@ -262,3 +272,4 @@ THE RAMPAGE LIVE TOUR 2019 "THROW YA FIST"\[8\]
 8.
 9.
 10.
+11.

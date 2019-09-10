@@ -4,4 +4,6 @@
 
 ＊粗體字為主打歌
 
+## 外部連結
+
 [Category:2019年音乐专辑](https://zh.wikipedia.org/wiki/Category:2019年音乐专辑 "wikilink") [Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink")

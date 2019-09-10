@@ -24,8 +24,6 @@ macOS Catalina将在所有支持Mojave系统的麦金塔电脑上可用，同时
   - [iPad mini (第五代)](https://zh.wikipedia.org/wiki/iPad_mini_\(第五代\) "wikilink")
   - [iPad Pro](https://zh.wikipedia.org/wiki/iPad_Pro "wikilink")
 
-
-
 ## 变化
 
 ### 系统
@@ -89,7 +87,7 @@ Sidecar是一項新功能，允許搭載[iPadOS的](https://zh.wikipedia.org/wik
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>10.15 Beta 1</p></td>
+<td><p>10.15 Developer Beta 1</p></td>
 <td><p>19A471t</p></td>
 <td><p>2019年6月4日</p></td>
 <td><p>19.0.0</p></td>
@@ -97,7 +95,7 @@ Sidecar是一項新功能，允許搭載[iPadOS的](https://zh.wikipedia.org/wik
 <td></td>
 </tr>
 <tr class="even">
-<td><p>10.15 Beta 2</p></td>
+<td><p>10.15 Developer Beta 2</p></td>
 <td><p>19A487l</p></td>
 <td><p>2019年6月17日</p></td>
 <td><p>19.0.0</p></td>
@@ -105,7 +103,7 @@ Sidecar是一項新功能，允許搭載[iPadOS的](https://zh.wikipedia.org/wik
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>10.15 Beta 3</p></td>
+<td><p>10.15 Developer Beta 3</p></td>
 <td><p>19A501i</p></td>
 <td><p>2019年7月2日</p></td>
 <td><p>19.0.0</p></td>
@@ -113,9 +111,25 @@ Sidecar是一項新功能，允許搭載[iPadOS的](https://zh.wikipedia.org/wik
 <td></td>
 </tr>
 <tr class="even">
-<td><p>10.15 Beta 4</p></td>
+<td><p>10.15 Developer Beta 4</p></td>
 <td><p>19A512f</p></td>
 <td><p>2019年7月16日</p></td>
+<td><p>19.0.0</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>10.15 Developer Beta 5</p></td>
+<td><p>19A526h</p></td>
+<td><p>2019年7月31日</p></td>
+<td><p>19.0.0</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>10.15 Developer Beta 6</p></td>
+<td><p>19A536g</p></td>
+<td><p>2019年8月19日</p></td>
 <td><p>19.0.0</p></td>
 <td></td>
 <td></td>

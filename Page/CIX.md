@@ -27,7 +27,7 @@
 
 **[昇勳](../Page/金昇勳.md "wikilink")**：2009年11歲時，加入[Cube娛樂](../Page/Cube娛樂.md "wikilink")練習約六年，2016年，加入[YG娛樂](../Page/YG娛樂.md "wikilink")練習約三年。曾出演《[Stray Kids](https://zh.wikipedia.org/wiki/Stray_Kids_\(電視節目\) "wikilink")》、《[YG寶石盒](../Page/YG寶石盒.md "wikilink")》。\[1\]
 
-**[珍映](https://zh.wikipedia.org/wiki/珍映 "wikilink")**：曾出演《[PRODUCE 101第二季](https://zh.wikipedia.org/wiki/PRODUCE_101第二季 "wikilink")》，前[Wanna One成員](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")。\[2\]\[3\]
+**[珍映](https://zh.wikipedia.org/wiki/珍映 "wikilink")**：曾出演《[PRODUCE 101第二季](https://zh.wikipedia.org/wiki/PRODUCE_101第二季 "wikilink")》，以第十名成功出道，前[Wanna One成員](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")。\[2\]\[3\]
 
 ### 出道前
 
@@ -42,8 +42,8 @@
 2019年6月26日，宣布團體將在7月23日發行首張迷你專輯出道，7月24日舉行出道Showcase。\[7\]
 
 7月5日，公佈首張迷你專輯《HELLO》的時程表。
-
-7月30日，出道後僅七天在音樂節目《[THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")》奪下出道後首個一位。
+7月23日，韓國時間下午6點，公開首張迷你專輯《HELLO》全輯音源及主打曲mv。
+7月30日，出道後僅七天在音樂節目《[THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")》奪下出道後首個一位，為韓國男子組合以最短時間奪得初一位的第二位。
 
 ## 音樂作品
 
@@ -76,10 +76,10 @@
 
 ### 專屬節目
 
-| 日期         | |頻道          | |節目名稱     | |集數 | 出演成員 |
-| ---------- | ------------ | --------- | --- | ---- |
-| 2019年6月5日- | CIX Official | HELLO CIX |     | 全員   |
-|            |              |           |     |      |
+| 日期                  | |頻道          | |節目名稱     | |集數 | 出演成員 |
+| ------------------- | ------------ | --------- | --- | ---- |
+| 2019年6月5日-2019年8月7日 | CIX Official | HELLO CIX | 10  | 全員   |
+|                     |              |           |     |      |
 
 ### 綜藝節目
 
@@ -196,6 +196,19 @@
 | 2019年 | 《Arena Homme+》\[10\]    | 8月號 |
 
 ## 獎項
+
+### 大型頒獎禮獎項
+
+| 年份 | 頒獎典禮 | 獎項 | 結果 |
+| -- | ---- | -- | -- |
+|    |      |    |    |
+
+### 音樂節目獎項
+
+| 年份    | 日期    | 電視台                                                         | 節目名稱                                                          | 獲獎歌曲       | 排名 |
+| ----- | ----- | ----------------------------------------------------------- | ------------------------------------------------------------- | ---------- | -- |
+| 2019年 | 7月30日 | [SBS MTV](https://zh.wikipedia.org/wiki/SBS_MTV "wikilink") | [THE SHOW](https://zh.wikipedia.org/wiki/THE_SHOW "wikilink") | Movie Star | 1位 |
+|       |       |                                                             |                                                               |            |    |
 
 ### 主要音樂節目榜單排名
 

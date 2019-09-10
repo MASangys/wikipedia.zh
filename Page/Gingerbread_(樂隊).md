@@ -8,7 +8,7 @@ Auto-Tom |過往成員 = |獎項 = }}
 
 ## 音樂作品
 
-《我們的下雨天》是Gingerbread的第一首音樂作品，於2019年5月25日在網上音樂平台推出，由黎明（明福俠）與樂隊成員Auto-Tom合唱，歌曲改編自香港歌手[林憶蓮](../Page/林憶蓮.md "wikilink")與樂隊[藍戰士](../Page/藍戰士.md "wikilink")合唱的《下雨天》\[8\]。Gingerbread於2019年8月16日推出第二首音樂作品《勁傾心》，歌曲改篇自香港流行音樂二人組合[Raidas](../Page/Raidas.md "wikilink")的作品《傾心》，同時製作訪談式短片《初戀：齋雞粒》以配合歌曲作品\[9\]。以下是Gingerbread的音樂作品列表：
+《我們的下雨天》是Gingerbread的第一首音樂作品，於2019年5月25日在網上音樂平台推出，由黎明（明福俠）與樂隊成員Auto-Tom合唱，歌曲改編自香港歌手[林憶蓮](../Page/林憶蓮.md "wikilink")與樂隊[藍戰士](../Page/藍戰士.md "wikilink")合唱的《下雨天》\[8\]。Gingerbread於2019年8月16日推出第二首音樂作品《勁傾心》，歌曲改篇自香港流行音樂二人組合[Raidas](../Page/Raidas.md "wikilink")的作品《傾心》，同時製作訪談式音樂短片《初戀：齋雞粒》以配合歌曲作品\[9\]。以下是Gingerbread的音樂作品列表：
 
 <table>
 <tbody>

@@ -76,6 +76,11 @@
 </tr>
 <tr class="odd">
 <td></td>
+<td><p>張英美</p></td>
+<td><p>張娛樂公司所屬新人演員。</p></td>
+</tr>
+<tr class="even">
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -83,6 +88,8 @@
 </table>
 
 ## 原聲帶
+
+  - Part.1（發行日期：2019年8月21日）
 
 ## 收視率
 
@@ -203,42 +210,42 @@
 <tr class="even">
 <td><p>21</p></td>
 <td><p>2019/08/21</p></td>
-<td><p>%</p></td>
+<td><p>5.0%</p></td>
 </tr>
 <tr class="odd">
 <td><p>22</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>5.8%</p></td>
+<td><p>5.6%</p></td>
 </tr>
 <tr class="even">
 <td><p>23</p></td>
 <td><p>2019/08/22</p></td>
-<td><p>%</p></td>
+<td><p>5.3%</p></td>
 </tr>
 <tr class="odd">
 <td><p>24</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>6.2%</p></td>
+<td><p>6.3%</p></td>
 </tr>
 <tr class="even">
 <td><p>25</p></td>
 <td><p>2019/08/28</p></td>
-<td><p>%</p></td>
+<td><p>6.0%</p></td>
 </tr>
 <tr class="odd">
 <td><p>26</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td></td>
+<td><p>6.0%</p></td>
 </tr>
 <tr class="even">
 <td><p>27</p></td>
 <td><p>2019/08/29</p></td>
-<td><p>%</p></td>
+<td><p>5.7%</p></td>
 </tr>
 <tr class="odd">
 <td><p>28</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>6.2%</p></td>
+<td><p>6.3%</p></td>
 </tr>
 <tr class="even">
 <td><p>29</p></td>

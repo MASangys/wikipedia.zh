@@ -16,6 +16,8 @@
           - 2019年6月13日（12日深夜） - [櫻井玲香](../Page/櫻井玲香.md "wikilink")、[佐藤楓](https://zh.wikipedia.org/wiki/佐藤楓 "wikilink")
           - 2019年7月4日（3日深夜） - [和田真彩](https://zh.wikipedia.org/wiki/和田真彩 "wikilink")
           - 2019年8月15日（14日深夜） - 秋元真夏
+          - 2019年8月29日（28日深夜） - 櫻井玲香、[松村沙友理](../Page/松村沙友理.md "wikilink")
+          - 2019年9月5日（4日深夜） - [生田繪梨花](../Page/生田繪梨花.md "wikilink")
 
 ## 主要环节
 
@@ -43,7 +45,7 @@
 
 ## 外部链接
 
-  - [官方网站](https://www.allnightnippon.com/nogizaka46/)
+  -
 
   -
 

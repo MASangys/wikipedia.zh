@@ -34,8 +34,18 @@
 | 十七 幕後花絮\#7 | 2018年10月1日 | S.H.E華研國際音樂官方[YouTube](../Page/YouTube.md "wikilink")頻道 | 幕後花絮 \#單飛篇   | [\#7](https://www.youtube.com/watch?v=KMjXFkB0-YY)        |
 | 十七 幕後花絮\#8 | 2018年10月4日 | S.H.E華研國際音樂官方[YouTube](../Page/YouTube.md "wikilink")頻道 | 幕後花絮 \#婚禮篇   | [\#8](https://www.youtube.com/watch?v=Y5r210jSMbg)        |
 | 十七 全記錄     | 2018年10月5日 | S.H.E華研國際音樂官方[YouTube](../Page/YouTube.md "wikilink")頻道 | 封面拍攝和音樂會全記錄  | [記錄](https://www.youtube.com/watch?v=N0HlqVTvm4A)         |
-| 十七 紀念單曲CF  | 2018年9月7日  | S.H.E華研國際音樂官方[YouTube](../Page/YouTube.md "wikilink")頻道 | 廣告CF         | [連結](https://www.youtube.com/watch?v=bLOJzXBbye8)         |
 |            |            |                                                         |              |                                                           |
+
+## 相關連結
+
+| 歌名            | 首播日期       | 首播頻道                                                    | 備註            | 連結                                                |
+| ------------- | ---------- | ------------------------------------------------------- | ------------- | ------------------------------------------------- |
+| 十七            | 2018年7月31日 | S.H.E華研國際音樂官方[YouTube](../Page/YouTube.md "wikilink")頻道 |               | [連結](https://www.youtube.com/watch?v=vK0eyNr46z0) |
+| S.H.E經典金曲     | 2018年8月4日  | S.H.E華研國際音樂官方[YouTube](../Page/YouTube.md "wikilink")頻道 |               | [連結](https://www.youtube.com/watch?v=EJTpMmarlow) |
+| S.H.E遺珠之歌     | 2018年8月10日 | S.H.E華研國際音樂官方[YouTube](../Page/YouTube.md "wikilink")頻道 |               | [連結](https://www.youtube.com/watch?v=-EZarVQ9T8s) |
+| S.H.E 回到十七歲！？ | 2018年9月6日  | S.H.E華研國際音樂官方[YouTube](../Page/YouTube.md "wikilink")頻道 | 《十七》MV全球大首播預告 | [連結](https://www.youtube.com/watch?v=6ViACgygqa8) |
+| 十七 紀念單曲CF     | 2018年9月7日  | S.H.E華研國際音樂官方[YouTube](../Page/YouTube.md "wikilink")頻道 | 廣告CF          | [連結](https://www.youtube.com/watch?v=bLOJzXBbye8) |
+|               |            |                                                         |               |                                                   |
 
 ## 製作團隊
 

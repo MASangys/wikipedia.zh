@@ -1,8 +1,4 @@
-《**Eye Contact**》是[Channel A正在播出的](../Page/Channel_A.md "wikilink")[电视节目](../Page/电视节目.md "wikilink")。
-
-## 節目概要
-
-有特別故事的人通过“眼神接触”而轉達他们真心的「沉默綜藝」。\[1\]
+《**Eye Contact**》，又譯《**眼神交流**》，是[Channel A正在播出的](../Page/Channel_A.md "wikilink")[电视节目](../Page/电视节目.md "wikilink")，由[姜鎬童](../Page/姜鎬童.md "wikilink")、[李尚敏](../Page/李尚敏.md "wikilink")、[神童等人共同主持](../Page/神童_\(藝人\).md "wikilink")。節目主軸為有特別故事的人通过“眼神接触”而轉達他们真心的「沉默綜藝」\[1\]。
 
 ## 播出时间
 
@@ -11,14 +7,6 @@
 | [Channel A](../Page/Channel_A.md "wikilink") | 2019年8月5日 〜 **现在** | 星期一晚上9時20分 |    |
 
 ## 出演者
-
-### 主持
-
-  - [姜鎬童](../Page/姜鎬童.md "wikilink")
-  - [李尚敏](../Page/李尚敏.md "wikilink")
-  - [神童](../Page/神童_\(藝人\).md "wikilink")
-
-## 節目列表
 
 ### 2019年
 
@@ -91,22 +79,24 @@
 
 ## 收視率
 
-### 2019年
+以下紀錄《**Eye Contact**》節目之全國收視率，表示為該季度最高收視率，則表示為該季度最低收視率。
 
-| 集數     | 播出日期                                                    | AGB收视率 |
-| ------ | ------------------------------------------------------- | ------ |
-| 韩国（全国） |                                                         |        |
-| 1      | [8月5日](../Page/8月5日.md "wikilink")                      | 1.313％ |
-| 2      | [8月12日](https://zh.wikipedia.org/wiki/8月12日 "wikilink") | 0.894％ |
-| 3      | [8月19日](../Page/8月19日.md "wikilink")                    | 0.867％ |
-| 4      | [8月26日](../Page/8月26日.md "wikilink")                    | ％      |
-| 5      | [9月2日](../Page/9月2日.md "wikilink")                      | ％      |
-| 6      | [9月9日](../Page/9月9日.md "wikilink")                      | ％      |
-| 7      | [9月16日](../Page/9月16日.md "wikilink")                    | ％      |
-| 8      | [9月23日](../Page/9月23日.md "wikilink")                    | ％      |
-| 9      | [9月30日](../Page/9月30日.md "wikilink")                    | ％      |
-| 10     | [10月7日](../Page/10月7日.md "wikilink")                    | ％      |
-|        |                                                         |        |
+| 集數     | 播出日期  | AGB收视率 |
+| ------ | ----- | ------ |
+| 韩国（全国） |       |        |
+| 1      | 8月5日  | 1.313％ |
+| 2      | 8月12日 | 0.894％ |
+| 3      | 8月19日 | 0.867％ |
+| 4      | 8月26日 | 0.917％ |
+| 5      | 9月2日  | ％      |
+| 6      | 9月9日  | ％      |
+| 7      | 9月16日 | ％      |
+| 8      | 9月23日 | ％      |
+| 9      | 9月30日 | ％      |
+| 10     | 10月7日 | ％      |
+|        |       |        |
+
+## 参考文献
 
 ## 外部連結
 
@@ -114,8 +104,6 @@
   - [Eye Contact Naver TV](https://tv.naver.com/channela.eyecontact)
   - [Eye Contact Kakao TV](https://tv.kakao.com/channel/3355516/cliplink/400843068)
 
-## 參考文獻
-
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:Channel_A電視節目](https://zh.wikipedia.org/wiki/Category:Channel_A電視節目 "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:Channel_A](https://zh.wikipedia.org/wiki/Category:Channel_A "wikilink")
 
 1.

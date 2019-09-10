@@ -19,6 +19,6 @@
   - [(Second) Statement by Michael Wernick, Clerk of the Privy Council and Secretary to the Cabinet, to the Standing Committee on Justice and Human Rights, 6 March 2019](https://www.canada.ca/en/privy-council/news/2019/03/statement-by-michael-wernick-clerk-of-the-privy-council-and-secretary-to-the-cabinet-to-the-standing-committee-on-justice-and-human-rights.html)
   - [Further submissions from the Hon. Jody Wilson-Raybould at the Standing Committee on Justice and Human Rights, 26 March 2019](https://ourcommons.azureedge.net/data/Wilson-RaybouldJody-e.pdf)
 
-[Category:公司丑闻](https://zh.wikipedia.org/wiki/Category:公司丑闻 "wikilink") [Category:加拿大政治](https://zh.wikipedia.org/wiki/Category:加拿大政治 "wikilink")
+[Category:公司丑闻](https://zh.wikipedia.org/wiki/Category:公司丑闻 "wikilink") [Category:加拿大政治](https://zh.wikipedia.org/wiki/Category:加拿大政治 "wikilink") [Category:2019年爭議](https://zh.wikipedia.org/wiki/Category:2019年爭議 "wikilink")
 
 1.

@@ -23,7 +23,7 @@
 <td><p><a href="../Page/金俊昊.md" title="wikilink">金俊昊</a></p></td>
 <td></td>
 <td></td>
-<td><p>第7集至今</p></td>
+<td><p>第10集至今</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/吳尚津.md" title="wikilink">吳尚津</a></p></td>

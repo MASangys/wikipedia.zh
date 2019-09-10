@@ -54,7 +54,7 @@
 
   - [U-KISS](../Page/U-KISS.md "wikilink")
 
-  - [KNK](https://zh.wikipedia.org/wiki/KNK "wikilink")
+  - [KNK](../Page/KNK.md "wikilink")
 
   - [HOTSHOT](../Page/HOTSHOT.md "wikilink")
 

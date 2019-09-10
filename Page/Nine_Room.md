@@ -216,7 +216,7 @@
 <td><p><a href="../Page/林元熙.md" title="wikilink">林元熙</a></p></td>
 <td><p>方尚秀</p></td>
 <td><p>乙智海伊的助理。</p></td>
-<td></td>
+<td><p><a href="../Page/李家傑.md" title="wikilink">李家傑</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/郑妍周" title="wikilink">郑妍周</a></p></td>

@@ -37,7 +37,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/托拉法爾加·D·瓦特爾·羅.md" title="wikilink">托拉法爾加·D·瓦特爾·羅</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/托拉法爾加·羅" title="wikilink">托拉法爾加·羅</a></p></td>
 <td><p><a href="../Page/神谷浩史.md" title="wikilink">神谷浩史</a></p></td>
 </tr>
 <tr class="even">
@@ -111,7 +111,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#利基" title="wikilink">利基</a></p></td>
-<td><p><a href="../Page/稻田徹.md" title="wikilink">稻田徹</a></p></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -211,10 +211,24 @@
 
 #### [革命軍](../Page/革命軍_\(ONE_PIECE\).md "wikilink")
 
-| 角色名稱                                                                  | 配音員                                |
-| --------------------------------------------------------------------- | ---------------------------------- |
-| [薩波](https://zh.wikipedia.org/wiki/革命軍_\(ONE_PIECE\)#薩波 "wikilink")   | [古谷徹](../Page/古谷徹.md "wikilink")   |
-| [可亞拉](https://zh.wikipedia.org/wiki/革命軍_\(ONE_PIECE\)#可亞拉 "wikilink") | [雪野五月](../Page/雪野五月.md "wikilink") |
+<table>
+<thead>
+<tr class="header">
+<th><p>角色名稱</p></th>
+<th><p>配音員</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/革命軍_(ONE_PIECE)#薩波" title="wikilink">薩波</a></p></td>
+<td><p><a href="../Page/古谷徹.md" title="wikilink">古谷徹</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/革命軍_(ONE_PIECE)#可亞拉" title="wikilink">可亞拉</a></p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 #### [CP0](https://zh.wikipedia.org/wiki/世界政府直屬秘密間諜機關#CP0 "wikilink")
 
@@ -252,7 +266,7 @@
   -
     聲優：[磯部勉](../Page/磯部勉.md "wikilink")（日本）
     原[羅傑海賊團船員](https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#羅傑海賊團 "wikilink")，外號「**"鬼"之繼承人**」\[5\]。[推進城LEVEL](https://zh.wikipedia.org/wiki/ONE_PIECE角色列表#海底監獄「推進城」 "wikilink")6的逃獄犯，具有國家戰力級別的實力\[6\]。
-    超人系「**[合體果實](../Page/惡魔果實.md "wikilink")**」的合體人，可以使鐵、武器等所有的東西合體、變形的能力。此外擁有[霸王色霸氣](https://zh.wikipedia.org/wiki/ONE_PIECE用語列表#霸氣 "wikilink")。
+    **超人系「[合體果實](../Page/惡魔果實.md "wikilink")」**能力者（已覺醒）的合體人，可以使鐵、武器等所有的東西合體、變形的能力。此外擁有**[霸王色霸氣、武裝色霸氣](https://zh.wikipedia.org/wiki/ONE_PIECE用語列表#霸氣 "wikilink")**。
     身著軍裝巨漢男性，身上有很多[褒章](../Page/褒章.md "wikilink")，特徵是耳朵已破損。過去曾是軍人，是年輕時就被稱為英雄的實力者，以某個事件為契機從軍隊辭職。後與羅傑相會並登上他的船，作為珍貴的戰力活躍著，不過在羅傑死後走向歪路。闖入海賊萬博會的爭奪寶藏戰鬥\[7\]。
 
 <!-- end list -->
@@ -266,7 +280,7 @@
   -
     聲優：[指原莉乃](../Page/指原莉乃.md "wikilink")\[10\]（日本）
     海賊萬博會的[歌姬](https://zh.wikipedia.org/wiki/歌姬 "wikilink")，有著很捲曲的淺綠色頭髮、臉上有雀斑的少女，性格善良親切但有些愚笨。
-    超人系「**[幻影果實](../Page/惡魔果實.md "wikilink")**」能力者。幻影人，能將碰到的東西以幻影的形式出現，即使只是照片也能將物品或人以幻影的形式出現\[11\]\[12\]。
+    **超人系「[幻影果實](../Page/惡魔果實.md "wikilink")」**能力者。幻影人，能將碰到的東西以幻影的形式出現，即使只是照片也能將物品或人以幻影的形式出現\[11\]\[12\]。
     在舞台秀3的故事中，安在島上開演唱會時遇見草帽一夥，她和他們成為朋友。後被巴其等人抓住，被迫創造幻影對付草帽一夥，但草帽一夥仍設法擊敗巴其並成功救出安。安為感謝他們，並向魯夫提出展示艾斯的幻影，但魯夫最後還是拒絕了。
     於東京鐵塔航海王主題樂園的真人舞台秀「[ONE PIECE LIVE ATTRACTION 3](../Page/ONE_PIECE_LIVE_ATTRACTION.md "wikilink")」初次登場，為原作者尾田榮一郎設計的原創角色\[13\]，並由[早見沙織](../Page/早見沙織.md "wikilink")聲演\[14\]。設計是來自於日本樂團[GReeeeN](../Page/GReeeeN.md "wikilink")，和尾田是好友，為此在舞台秀寫了兩首安的專屬歌曲。
 
@@ -282,12 +296,13 @@
 
 <!-- end list -->
 
-  - [竹中直人](../Page/竹中直人.md "wikilink")\[16\]
+  - 塔比與霍羅（聲優：[竹中直人](../Page/竹中直人.md "wikilink")）\[16\]
 
 <!-- end list -->
 
   - Fischer's海賊團（聲優：[Fischer's](https://zh.wikipedia.org/wiki/魚團 "wikilink")\[17\]）
-  - 女海兵（聲優：[栗子](https://zh.wikipedia.org/wiki/龍夢柔 "wikilink")\[18\]）
+  - 女海兵夢柔（聲優：[栗子](https://zh.wikipedia.org/wiki/龍夢柔 "wikilink")\[18\]）
+  - 7號隊長 (無台詞)
 
 ## 製作
 
@@ -326,7 +341,7 @@
 
 ### 活動
 
-為慶祝完成記念，在日本環球影城草帽海賊團聲優陣容集結，為「海賊萬博」開幕宣傳舞台活動。\[27\]。
+2019年8月1日，、[指原莉乃](../Page/指原莉乃.md "wikilink")、[山里亮太](../Page/山里亮太.md "wikilink")以及草帽海賊團的聲優陣容在[日本環球影城](../Page/日本環球影城.md "wikilink")集結，為電影進行宣傳活動\[27\]。
 
 ### 行銷
 
@@ -334,9 +349,9 @@
 
 2019年8月，[PUMA](../Page/PUMA.md "wikilink")宣佈與《ONE PIECE》合作，並在《ONE PIECE STAMPEDE》的上映日期8月9日公開發售有關商品\[29\]。
 
-### 連動特別篇
+## 連動特別篇
 
-電視系列於2019年7月28日至8月4日的2週（第895-896話），播放電影前日譚連動特別篇。\[30\]\[31\]
+電視系列於2019年7月28日至8月4日（第895-896話）播放電影連動特別篇\[30\]\[31\]。
 
   -
     聲優：（日本）
@@ -353,13 +368,13 @@
 
 ## 上映
 
-2019年8月1日，世界最快上映會公布 \[32\]。
+電影於2019年8月1日在大阪車站城市電影院舉行世界最速上映會\[32\]\[33\]，並於2019年8月9日在各大院線上映。
 
 ### 票房
 
-## 發行
+日本方面，首日票房破5億日圓，觀影人次約35萬人，創下日本2019年最高的單日人次記錄\[34\]。截至8月25日，票房累計至41億日圓\[35\]。
 
-這部電影在日本地區預計由東映發行BD\&DVD。
+台灣方面，首週五天票房為新台幣2700萬元\[36\]\[37\]。
 
 ## 參考資料
 
@@ -403,7 +418,6 @@
 20.
 
 21.
-
 22.
 
 23.
@@ -420,8 +434,18 @@
 
 29.
 
-30. [劇場版新作に繋がる物語！ルフィたちの前に最強の賞金がり登場！](https://cho-animedia.jp/anime/107789/)超\!アニメディア　2019年7月26日
+30.
 
 31.
 
 32.
+
+33.
+
+34.
+
+35.
+
+36.
+
+37.

@@ -28,9 +28,8 @@ Zameen.com与合作，举办了2013年巴基斯坦房地产博览会（）\[20\]
 
 ## 评价及荣誉
 
-Zameen.com在2008年[美国](../Page/美国.md "wikilink")[全国广播公司](../Page/全国广播公司.md "wikilink")财经频道的国际房地产大奖(International Property Awards)中获得了“全球最佳房地产门户网站奖”(Best Property Portal in the World Award)。\[35\] 房地产网站研究机构——房地产门户网站观察（）则在2015年和2016年，分别将Zameen.com评为“全球五大房地产门户网站之一”和“全球八大房地产门户网站之一”。\[36\]\[37\]此外，巴基斯坦主要英文报纸《[喀拉蚩新聞報](https://zh.wikipedia.org/wiki/喀拉蚩新聞報 "wikilink")》称，Zameen.com“彻底改变了巴基斯坦的在线房地产行业”\[38\]。
+Zameen.com在2008年[美国](../Page/美国.md "wikilink")[全国广播公司](../Page/全国广播公司.md "wikilink")财经频道的国际房地产大奖（International Property Awards）中获得了“全球最佳房地产门户网站奖”（Best Property Portal in the World Award）。\[35\] 房地产网站研究机构——房地产门户网站观察（）则在2015年和2016年，分别将Zameen.com评为“全球五大房地产门户网站之一”和“全球八大房地产门户网站之一”。\[36\]\[37\]此外，巴基斯坦主要英文报纸《[喀拉蚩新聞報](https://zh.wikipedia.org/wiki/喀拉蚩新聞報 "wikilink")》称，Zameen.com“彻底改变了巴基斯坦的在线房地产行业”\[38\]。
 
-  -
 ## 另见
 
   -

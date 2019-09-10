@@ -132,7 +132,7 @@ Triumph In The Skies II</p></td>
 <td style="text-align: center;"><p><a href="../Page/烈火雄心3.md" title="wikilink">烈火雄心3</a><br />
 Burning Flame III</p></td>
 <td style="text-align: center;"><p>32</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/王喜" title="wikilink">王　喜</a>、<a href="../Page/鄭嘉穎.md" title="wikilink">鄭嘉穎</a>、<a href="https://zh.wikipedia.org/wiki/黃宗澤" title="wikilink">黃宗澤</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/王喜.md" title="wikilink">王　喜</a>、<a href="../Page/鄭嘉穎.md" title="wikilink">鄭嘉穎</a>、<a href="https://zh.wikipedia.org/wiki/黃宗澤" title="wikilink">黃宗澤</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/王心慰.md" title="wikilink">王心慰</a></p></td>
 <td style="text-align: center;"><p>主題音樂：烈火雄心3（<a href="../Page/鄧智偉.md" title="wikilink">鄧智偉</a>作曲）<br />
 插：有意（<a href="../Page/鄭嘉穎.md" title="wikilink">鄭嘉穎</a>、<a href="../Page/胡杏兒.md" title="wikilink">胡杏兒</a>）</p></td>
@@ -245,7 +245,7 @@ Come Home Love：Lo And Behold</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/心理追兇_Mind_Hunter" title="wikilink">心理追兇 Mind Hunter</a><br />
 My Dearly Sinful Mind</p></td>
 <td style="text-align: center;"><p>28</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/馬國明" title="wikilink">馬國明</a>、<a href="https://zh.wikipedia.org/wiki/蔡思貝" title="wikilink">蔡思貝</a>、<a href="../Page/楊明.md" title="wikilink">楊　明</a>、<br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/馬國明" title="wikilink">馬國明</a>、<a href="../Page/蔡思貝.md" title="wikilink">蔡思貝</a>、<a href="../Page/楊明.md" title="wikilink">楊　明</a>、<br />
 <a href="../Page/曹永廉.md" title="wikilink">曹永廉</a>、<a href="../Page/王君馨.md" title="wikilink">王君馨</a>、<a href="../Page/敖嘉年.md" title="wikilink">敖嘉年</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/王偉仁.md" title="wikilink">王偉仁</a></p></td>
 <td style="text-align: center;"><p>主：籠牢（<a href="https://zh.wikipedia.org/wiki/許廷鏗" title="wikilink">許廷鏗</a>）<br />
@@ -510,7 +510,7 @@ Flying Tiger</p></td>
 <td style="text-align: center;"><p><a href="../Page/火速救兵IV.md" title="wikilink">火速救兵IV</a><br />
 Elite Brigade IV</p></td>
 <td style="text-align: center;"><p>10</p></td>
-<td style="text-align: center;"><p><a href="../Page/歐錦棠.md" title="wikilink">歐錦棠</a>、<a href="../Page/蔣祖曼.md" title="wikilink">蔣祖曼</a>、<a href="https://zh.wikipedia.org/wiki/王喜" title="wikilink">王　喜</a>、<br />
+<td style="text-align: center;"><p><a href="../Page/歐錦棠.md" title="wikilink">歐錦棠</a>、<a href="../Page/蔣祖曼.md" title="wikilink">蔣祖曼</a>、<a href="../Page/王喜.md" title="wikilink">王　喜</a>、<br />
 <a href="https://zh.wikipedia.org/wiki/陳鍵鋒" title="wikilink">陳鍵鋒</a>、<a href="../Page/林文龍.md" title="wikilink">林文龍</a>、<a href="../Page/梁雍婷.md" title="wikilink">梁雍婷</a>、<br />
 <a href="../Page/王宗堯.md" title="wikilink">王宗堯</a>、<a href="../Page/陸駿光.md" title="wikilink">陸駿光</a>、<a href="../Page/陳國邦.md" title="wikilink">陳國邦</a>、<br />
 <a href="../Page/黃秋生.md" title="wikilink">黃秋生</a>、<a href="../Page/張松枝.md" title="wikilink">張松枝</a></p></td>
@@ -525,7 +525,7 @@ Elite Brigade IV</p></td>
 
 ### 周末4.00港劇時段
 
-[馬來西亞時間逢星期六](https://zh.wikipedia.org/wiki/馬來西亞標準時間 "wikilink")、日16:00-18:00播出（**每次播映兩集**），1月12日起改為逢星期六、日16:00-19:00播出（**每次播映三集**）。
+[馬來西亞時間逢星期六](https://zh.wikipedia.org/wiki/馬來西亞標準時間 "wikilink")、日16:00-18:00播出（**每次播映兩集**），1月12日至8月18日改為逢星期六、日16:00-19:00播出（**每次播映三集**）。
 
 <table style="width:274%;">
 <colgroup>
@@ -630,6 +630,22 @@ The Stunt</p></td>
 <td style="text-align: center;"><p>外購劇（<a href="../Page/香港.md" title="wikilink">香港</a><a href="../Page/電視廣播有限公司.md" title="wikilink">TVB</a>），第25集（大結局）於8月24日16:00-17:00播出（只播放一集）</p></td>
 </tr>
 <tr class="odd">
+<td style="text-align: center;"><p>25/08-<br />
+21/09</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/救妻同學會" title="wikilink">救妻同學會</a><br />
+Wife, Interrupted</p></td>
+<td style="text-align: center;"><p>8</p></td>
+<td style="text-align: center;"><p><br />
+<a href="../Page/伍富橋.md" title="wikilink">伍富橋</a>、<a href="../Page/黃庭鋒.md" title="wikilink">黃庭鋒</a>、<a href="../Page/黃美棋.md" title="wikilink">黃美棋</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/關樹明.md" title="wikilink">關樹明</a></p></td>
+<td style="text-align: center;"><p>主：為愛冒險（<a href="https://zh.wikipedia.org/wiki/胡鴻鈞" title="wikilink">胡鴻鈞</a>）<br />
+尾：太難開始（<a href="https://zh.wikipedia.org/wiki/胡鴻鈞" title="wikilink">胡鴻鈞</a>）<br />
+插：重覆愛一次（<a href="../Page/伍富橋.md" title="wikilink">伍富橋</a>）<br />
+插：Amazing Grace（<a href="../Page/譚嘉儀.md" title="wikilink">譚嘉儀</a>）</p></td>
+<td style="text-align: center;"><p>外購劇（<a href="../Page/香港.md" title="wikilink">香港</a><a href="../Page/電視廣播有限公司.md" title="wikilink">TVB</a>）<br />
+每集兩小時</p></td>
+</tr>
+<tr class="even">
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
@@ -790,7 +806,7 @@ Second Life</p></td>
 <td style="text-align: center;"><p><a href="../Page/機動部隊2019.md" title="wikilink">機動部隊2019</a><br />
 Police Tactical Unit 2019</p></td>
 <td style="text-align: center;"><p>4</p></td>
-<td style="text-align: center;"><p><a href="../Page/楊明.md" title="wikilink">楊　明</a>、<a href="https://zh.wikipedia.org/wiki/蔡思貝" title="wikilink">蔡思貝</a>、<a href="../Page/張達倫.md" title="wikilink">張達倫</a>、<br />
+<td style="text-align: center;"><p><a href="../Page/楊明.md" title="wikilink">楊　明</a>、<a href="../Page/蔡思貝.md" title="wikilink">蔡思貝</a>、<a href="../Page/張達倫.md" title="wikilink">張達倫</a>、<br />
 <a href="../Page/伍富橋.md" title="wikilink">伍富橋</a>、<a href="../Page/楊潮凱.md" title="wikilink">楊潮凱</a>、<a href="../Page/李璧琦.md" title="wikilink">李璧琦</a>、<br />
 <a href="../Page/陳榮峻.md" title="wikilink">陳榮峻</a>、<a href="../Page/袁文傑.md" title="wikilink">袁文傑</a>、<a href="https://zh.wikipedia.org/wiki/陳庭欣" title="wikilink">陳庭欣</a>、<br />
 <a href="../Page/胡渭康.md" title="wikilink">胡渭康</a></p></td>

@@ -1,5 +1,3 @@
-<noinclude></noinclude>
-
 <div style="display:none">
 
 </div>

@@ -1,4 +1,4 @@
-《**HUSH**》是韩国女子团体[EVERGLOW](../Page/EVERGLOW.md "wikilink")第二张单曲专辑,将由乐华娱乐于2019年8月19日发行。
+《**HUSH**》是韩国女子团体[EVERGLOW](../Page/EVERGLOW.md "wikilink")第二张单曲专辑，由乐华娱乐于2019年8月19日发行。
 
 ## 日程
 
@@ -11,6 +11,147 @@
 ## 曲目
 
 粗體字為主打歌
+
+## 音樂節目
+
+<table>
+<thead>
+<tr class="header">
+<th><p><big>2019年音樂節目現場</big></p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>《Adios)》</p></td>
+</tr>
+<tr class="even">
+<td><p>電視台</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/Mnet媒體.md" title="wikilink">Mnet</a></p></td>
+</tr>
+<tr class="even">
+<td><p>8月29日</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>最高名次：</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>8月30日</p></td>
+</tr>
+<tr class="even">
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>最高名次：</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>8月31日</p></td>
+</tr>
+<tr class="even">
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+</tr>
+<tr class="even">
+<td><p>最高名次：</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
+</tr>
+<tr class="even">
+<td><p>9月1日</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>最高名次：</p></td>
+</tr>
+<tr class="even">
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+</tr>
+<tr class="even">
+<td><p>最高名次：</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+</tr>
+<tr class="even">
+<td><p>|</p></td>
+</tr>
+<tr class="odd">
+<td><p>最高名次：</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/Arirang_TV" title="wikilink">Arirang TV</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>8月30日</p></td>
+</tr>
+<tr class="even">
+<td><p>《You Don't Know Me》</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/Mnet媒體.md" title="wikilink">Mnet</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/Arirang_TV" title="wikilink">Arirang TV</a></p></td>
+</tr>
+<tr class="even">
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 參考
 

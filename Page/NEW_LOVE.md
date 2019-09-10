@@ -50,7 +50,7 @@
 2.  **士兵，奔跑（）** (4:14)
       -
         [日語標題讀作](https://zh.wikipedia.org/wiki/日語 "wikilink")「（Tsuwamono Hashiru）」。
-        [大正製藥](https://zh.wikipedia.org/wiki/大正製藥 "wikilink")「[-{zh-tw:力保美達;zh-cn:力保健;zh-hk:力保健;}-](https://zh.wikipedia.org/wiki/力保美達 "wikilink")」[日本國家橄欖球隊](../Page/日本國家橄欖球隊.md "wikilink")應援歌「最強的自己」（）篇・「對日本的熱情」（）篇・「永不放棄的堅強」（）篇廣告曲\[21\]。專為該廣告全新創作的樂曲。B'z以留言表示「即便滿身灰泥亦奮不顧身持續奔跑的選手們正是士兵（Tsuwamono），一邊對其姿態懷抱著敬畏之心，一邊創作出了本曲。希望能讓聆聽的人，以及一同歌唱的人，自體內湧現出希望。{{\#tag:ref||group="原文"}}」。
+        [大正製藥](https://zh.wikipedia.org/wiki/大正製藥 "wikilink")「[-{zh-tw:力保美達;zh-cn:力保健;zh-hk:力保健;}-](https://zh.wikipedia.org/wiki/力保美達 "wikilink")」[日本國家橄欖球隊](../Page/日本國家橄欖球隊.md "wikilink")應援歌「最強的自己」（）篇・「對日本的熱情」（）篇・「永不放棄的堅強」（）篇・「願成為支持者的後盾」（）篇廣告曲\[21\]。專為該廣告全新創作的樂曲。B'z以留言表示「即便滿身灰泥亦奮不顧身持續奔跑的選手們正是士兵（Tsuwamono），一邊對其姿態懷抱著敬畏之心，一邊創作出了本曲。希望能讓聆聽的人，以及一同歌唱的人，自體內湧現出希望。{{\#tag:ref||group="原文"}}」。
         根據松本表示是通過邊在洛杉磯進行作曲，邊與稻葉進行數據交換的方式推進製作。關於樂曲的本篇旋律，松本回顧表示「是在家中獨自一人時想到的{{\#tag:ref||group="原文"}}」，並在之後製作DEMO時附加了吉他連複段（Guitar Riff）\[22\]。前奏聲部是以[橄欖球](../Page/橄欖球.md "wikilink")為形象，從而判斷出「有這樣的聲部為佳{{\#tag:ref||group="原文"}}」後所追加的\[23\]。
         根據稻葉表示，標題的「兵（Tsuwamono）」是在想像著「這正是橄籃球選手{{\#tag:ref||group="原文"}}」時出現的詞彙，原先設想為「強者」這個漢字，但在將拼音變換為漢字時出現了「兵」這個漢字，因感到十分有趣而採用了「兵」\[24\]。作為標題方案，亦有僅只「兵」一個字的提案，然而在經過設法重新思考後，便以追加單詞的「」成為了標題\[25\]。
         在影像作品『[B'z LIVE-GYM Pleasure 2018 -HINOTORI-](../Page/B'z_LIVE-GYM_Pleasure_2018_-HINOTORI-.md "wikilink")』的紀錄片「TOUR DOCUMENTARY -Road to 20180921-」中收錄了製作風景。
@@ -114,7 +114,7 @@
 
 ## 商業搭配
 
-  - [大正製藥](https://zh.wikipedia.org/wiki/大正製藥 "wikilink")「[-{zh-tw:力保美達;zh-cn:力保健;zh-hk:力保健;}-](https://zh.wikipedia.org/wiki/力保美達 "wikilink")」[日本國家橄欖球隊](../Page/日本國家橄欖球隊.md "wikilink")應援歌「最強の自分」篇・「日本への熱き想い」篇・「諦めない強さ」篇廣告曲(\#2)
+  - [大正製藥](https://zh.wikipedia.org/wiki/大正製藥 "wikilink")「[-{zh-tw:力保美達;zh-cn:力保健;zh-hk:力保健;}-](https://zh.wikipedia.org/wiki/力保美達 "wikilink")」[日本國家橄欖球隊](../Page/日本國家橄欖球隊.md "wikilink")應援歌「最強の自分」篇・「日本への熱き想い」篇・「諦めない強さ」篇・「支える人を支えたい」篇廣告曲(\#2)
   - [富士電視台](../Page/富士電視台.md "wikilink")系[週一晚間9點連續劇](../Page/富士電視台週一晚間九點連續劇.md "wikilink")『』主題歌(\#3)
   - [鈴木](../Page/鈴木_\(公司\).md "wikilink")「[-{zh-tw:Escudo;zh-cn:Escudo;zh-hk:Vitara;}-](../Page/鈴木Escudo.md "wikilink")」妥協なきSUV篇 電視廣告曲(\#4)
   - [江崎固力果](../Page/江崎固力果.md "wikilink")「[Pocky](https://zh.wikipedia.org/wiki/Pocky "wikilink")」廣告主題歌(\#5)

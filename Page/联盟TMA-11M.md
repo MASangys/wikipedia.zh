@@ -16,6 +16,6 @@
 
   - [相关视频](https://www.youtube.com/watch?v=WN8I4tt5baw)
 
-[Category:联盟计划](https://zh.wikipedia.org/wiki/Category:联盟计划 "wikilink") [Category:2013年航天](https://zh.wikipedia.org/wiki/Category:2013年航天 "wikilink") [Category:2013年哈萨克斯坦](https://zh.wikipedia.org/wiki/Category:2013年哈萨克斯坦 "wikilink")
+[Category:联盟计划](https://zh.wikipedia.org/wiki/Category:联盟计划 "wikilink") [Category:2013年航天](https://zh.wikipedia.org/wiki/Category:2013年航天 "wikilink") [Category:2013年哈薩克](https://zh.wikipedia.org/wiki/Category:2013年哈薩克 "wikilink")
 
 1.

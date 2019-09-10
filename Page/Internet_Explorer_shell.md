@@ -33,11 +33,11 @@
 
 Microsoft Windows还支持[HTML应用程序](../Page/HTML应用程序.md "wikilink") ，用[HTML](../Page/HTML.md "wikilink")，[CSS和](../Page/层叠样式表.md "wikilink")[JavaScript](../Page/JavaScript.md "wikilink")编写的计算机程序，并带有`.hta` [文件扩展名](../Page/文件扩展名.md "wikilink") 。它们属于普通的Internet Explorer shell，在运行HTML Application Host，周围没有任何GUI元素。
 
-## 也可以看看
+## 参见
 
   - [浏览器帮助程序对象](https://zh.wikipedia.org/wiki/浏览器辅助对象 "wikilink") ：另一种自定义Internet Explorer外观的方法
 
-## 参考
+## 参考资料
 
 [Category:Internet_Explorer](https://zh.wikipedia.org/wiki/Category:Internet_Explorer "wikilink")
 

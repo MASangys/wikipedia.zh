@@ -8,6 +8,8 @@
 
 [左](https://zh.wikipedia.org/wiki/File:PAX_2009_-_Wil_Wheaton_\(3888471061\).jpg "fig:左")在2009年的PAX游戏展上签名\]\] 2007年，有超过39000游客游览博览会，由于参加游客太多，博览会移至举办。\[3\]
 
+### 拓展到其他城市
+
 2010年，PAX在美国东海岸举办了他们的第一个分展会，并按地理位置取名为PAX East。PAX East 2010于3月26日在波士顿的举行，持续3天。PAX East 2010游戏展有52290人参加，与2009年的游览人数相媲美。从此以后，华盛顿州的展会被改名为PAX Prime。当年的PAX Prime有超过67600人参加，并第一次举办了会场外的活动。
 
 超过7万名游客参加了PAX Prime 2011，开展前两天举办了一个仅面向游戏开发社群的活动，取名为PAX Dev。超过750名游戏从业人员参加了座谈会，为开发者提供了一个“可以自由表达和专注于事业”的平台。\[4\]同年的3月，PAX East将游戏展举办地迁至[波士顿会展中心](../Page/波士顿会展中心.md "wikilink")。
@@ -32,296 +34,197 @@ PAX East 2018于4月5日至8日举办，第一次将展会延长至4天。 {{-}}
 <thead>
 <tr class="header">
 <th><p>年份</p></th>
-<th><p>名稱</p></th>
-<th><p>举办时间</p></th>
-<th><p>举办地点</p></th>
-<th><p>参展人数</p></th>
+<th><p>PAX West</p></th>
+<th><p>PAX East</p></th>
+<th><p>PAX Australia</p></th>
+<th><p>PAX South</p></th>
+<th><p>PAX Unplugged</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>2004</p></td>
-<td><p>PAX</p></td>
-<td><p>8月28日-8月29日</p></td>
+<td><p>8月28日-8月29日<br />
+<br />
+3000人</p></td>
 <td></td>
-<td><p>3300</p></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2005</p></td>
-<td><p>PAX</p></td>
-<td><p>8月26日-8月28日</p></td>
+<td><p>8月26日-8月28日<br />
+<br />
+9000人</p></td>
 <td></td>
-<td><p>9000</p></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2006</p></td>
-<td><p>PAX</p></td>
-<td><p>8月25日-8月27日</p></td>
+<td><p>8月25日-8月27日<br />
+<br />
+19323人[10]</p></td>
 <td></td>
-<td><p>19323[10]</p></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2007</p></td>
-<td><p>PAX</p></td>
-<td><p>8月24日-8月27日</p></td>
+<td><p>8月24日-8月27日<br />
+<br />
+39000人[11]</p></td>
 <td></td>
-<td><p>39000[11]</p></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2008</p></td>
-<td><p>PAX</p></td>
-<td><p>8月29日-8月31日[12]</p></td>
+<td><p>8月29日-8月31日[12]<br />
+<br />
+58500人</p></td>
 <td></td>
-<td><p>58500</p></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2009</p></td>
-<td><p>PAX</p></td>
-<td><p>9月4日-9月6日[13]</p></td>
+<td><p>9月4日-9月6日[13]<br />
+<br />
+60750人[14]</p></td>
 <td></td>
-<td><p>60750[14]</p></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2010</p></td>
-<td><p>Pax East</p></td>
-<td><p>3月26日-3月28日[15]</p></td>
-<td><p>[16]</p></td>
-<td><p>52290[17]</p></td>
+<td><p>9月3日-9月5日<br />
+<br />
+67600人[15]</p></td>
+<td><p>3月26日-3月28日[16]<br />
+[17]<br />
+52290人[18]</p></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p>Pax Prime</p></td>
-<td><p>9月3日-9月5日</p></td>
-<td></td>
-<td><p>67600[18]</p></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>2011</p></td>
-<td><p>Pax East</p></td>
-<td><p>3月11日-3月13日</p></td>
-<td><p><a href="../Page/波士顿会展中心.md" title="wikilink">波士顿会展中心</a></p></td>
-<td><p>52290</p></td>
-</tr>
-<tr class="even">
-<td><p>Pax Dev</p></td>
-<td><p>8月24日-8月25日</p></td>
-<td><p>西雅图喜来登酒店</p></td>
-<td><p>750</p></td>
+<td><p>8月26日-8月28日<br />
+<br />
+70000人[19]</p></td>
+<td><p>3月11日-3月13日<br />
+<a href="../Page/波士顿会展中心.md" title="wikilink">波士顿会展中心</a><br />
+52290人</p></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Pax Prime</p></td>
-<td><p>8月26日-8月28日</p></td>
-<td></td>
-<td><p>70000[19]</p></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>2012</p></td>
-<td><p>Pax East</p></td>
-<td><p>4月6日-4月8日[20]</p></td>
-<td><p><a href="../Page/波士顿会展中心.md" title="wikilink">波士顿会展中心</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Pax Prime</p></td>
-<td><p>8月31日-9月2日[21]</p></td>
+<td><p>8月31日-9月2日[20]<br />
+</p></td>
+<td><p>4月6日-4月8日[21]<br />
+<a href="../Page/波士顿会展中心.md" title="wikilink">波士顿会展中心</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2013</p></td>
-<td><p>Pax East</p></td>
-<td><p>3月22日-3月24日[22]</p></td>
-<td><p><a href="../Page/波士顿会展中心.md" title="wikilink">波士顿会展中心</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Pax Australia</p></td>
-<td><p>10月31日至11月2日</p></td>
-<td><p>[23]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Pax Prime</p></td>
-<td><p>8月30日-9月2日[24]</p></td>
-<td></td>
+<td><p>8月30日-9月2日[22]<br />
+</p></td>
+<td><p>3月22日-3月24日[23]<br />
+<a href="../Page/波士顿会展中心.md" title="wikilink">波士顿会展中心</a></p></td>
+<td><p>7月19日至7月21日<br />
+[24]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2014</p></td>
-<td><p>Pax East</p></td>
-<td><p>4月11日-4月13日</p></td>
-<td><p><a href="../Page/波士顿会展中心.md" title="wikilink">波士顿会展中心</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Pax Prime</p></td>
-<td><p>8月29日-9月1日[25]</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Pax Australia</p></td>
-<td><p>10月31日-11月2日</p></td>
-<td></td>
+<td><p>8月29日-9月1日[25]<br />
+</p></td>
+<td><p>4月11日-4月13日<br />
+<a href="../Page/波士顿会展中心.md" title="wikilink">波士顿会展中心</a></p></td>
+<td><p>10月31日-11月2日<br />
+</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2015</p></td>
-<td><p>Pax South</p></td>
-<td><p>1月23日-1月25日[26]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Pax East</p></td>
-<td><p>3月6日-3月8日[27]</p></td>
-<td><p><a href="../Page/波士顿会展中心.md" title="wikilink">波士顿会展中心</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Pax Prime</p></td>
-<td><p>8月28日-8月31日[28]</p></td>
-<td></td>
-<td></td>
+<td><p>8月28日-8月31日[26]<br />
+</p></td>
+<td><p>3月6日-3月8日[27]<br />
+<a href="../Page/波士顿会展中心.md" title="wikilink">波士顿会展中心</a></p></td>
+<td><p>10月30日-11月1日[28]<br />
+</p></td>
+<td><p>1月23日-1月25日[29]<br />
+</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Pax Australia</p></td>
-<td><p>10月30日-11月1日[29]</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>2016</p></td>
-<td><p>Pax South</p></td>
-<td><p>1月29日-1月31日</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Pax East</p></td>
-<td><p>4月22日-4月24日</p></td>
-<td><p><a href="../Page/波士顿会展中心.md" title="wikilink">波士顿会展中心</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Pax West</p></td>
-<td><p>9月2日-9月5日</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Pax Australia</p></td>
-<td><p>11月4日-11月6日</p></td>
-<td></td>
-<td></td>
+<td><p>9月2日-9月5日<br />
+</p></td>
+<td><p>4月22日-4月24日<br />
+<a href="../Page/波士顿会展中心.md" title="wikilink">波士顿会展中心</a></p></td>
+<td><p>11月4日-11月6日<br />
+</p></td>
+<td><p>1月29日-1月31日<br />
+</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2017</p></td>
-<td><p>Pax South</p></td>
-<td><p>1月27日-1月29日</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Pax East</p></td>
-<td><p>3月10日-3月12日</p></td>
-<td><p><a href="../Page/波士顿会展中心.md" title="wikilink">波士顿会展中心</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Pax West</p></td>
-<td><p>9月1日-9月4日</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Pax Australia</p></td>
-<td><p>10月27日-10月29日</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Pax Unplugged</p></td>
-<td><p>11月17日-11月19日</p></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>9月1日-9月4日<br />
+</p></td>
+<td><p>3月10日-3月12日<br />
+<a href="../Page/波士顿会展中心.md" title="wikilink">波士顿会展中心</a></p></td>
+<td><p>10月27日-10月29日<br />
+</p></td>
+<td><p>1月27日-1月29日<br />
+</p></td>
+<td><p>11月17日-11月19日<br />
+</p></td>
 </tr>
 <tr class="odd">
 <td><p>2018</p></td>
-<td><p>Pax South</p></td>
-<td><p>1月12日-1月14日[30]</p></td>
-<td></td>
-<td></td>
+<td><p>8月31日-9月3日<br />
+</p></td>
+<td><p>4月5日-4月8日<br />
+<a href="../Page/波士顿会展中心.md" title="wikilink">波士顿会展中心</a></p></td>
+<td><p>10月26日-10月28日<br />
+[30]</p></td>
+<td><p>1月12日-1月14日[31]<br />
+</p></td>
+<td><p>11月30日-12月2日<br />
+</p></td>
 </tr>
 <tr class="even">
-<td><p>Pax East</p></td>
-<td><p>4月5日-4月8日</p></td>
-<td><p><a href="../Page/波士顿会展中心.md" title="wikilink">波士顿会展中心</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Pax Dev</p></td>
-<td><p>8月28日-8月29日</p></td>
-<td><p>西雅图威斯汀酒店</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Pax West</p></td>
-<td><p>8月31日-9月3日</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Pax Australia</p></td>
-<td><p>10月26日-10月28日</p></td>
-<td><p>[31]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Pax Unplugged</p></td>
-<td><p>11月30日-12月2日</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>2019</p></td>
-<td><p>Pax South</p></td>
-<td><p>1月18日-1月20日</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Pax East</p></td>
-<td><p>3月28日-3月31日</p></td>
-<td><p><a href="../Page/波士顿会展中心.md" title="wikilink">波士顿会展中心</a></p></td>
-<td></td>
-<td></td>
+<td><p>8月30日-9月2日<br />
+</p></td>
+<td><p>3月28日-3月31日<br />
+<a href="../Page/波士顿会展中心.md" title="wikilink">波士顿会展中心</a></p></td>
+<td><p>11月11日-11月13日<br />
+</p></td>
+<td><p>1月18日-1月20日<br />
+</p></td>
+<td><p>12月6日-12月8日<br />
+</p></td>
 </tr>
 <tr class="odd">
-<td><p>Pax Australia</p></td>
-<td><p>10月11日-10月13日</p></td>
+<td><p>2020</p></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -329,7 +232,7 @@ PAX East 2018于4月5日至8日举办，第一次将展会延长至4天。 {{-}}
 </tbody>
 </table>
 
-## 参考文献
+## 参考资料
 
 ## 外部链接
 
@@ -358,10 +261,10 @@ PAX East 2018于4月5日至8日举办，第一次将展会延长至4天。 {{-}}
 13.
 14.
 15.
+
 16.
 17.
 18.
-
 19.
 
 20.
@@ -377,12 +280,12 @@ PAX East 2018于4月5日至8日举办，第一次将展会延长至4天。 {{-}}
 25.
 
 26.
+
 27.
 
-28.
+28. [Pax Aus 2015 Registration Now Open](http://aus.paxsite.com/news/pax-aus-2015-registration-now-open). Retrieved March 10, 2015.
 
-29. [Pax Aus 2015 Registration Now Open](http://aus.paxsite.com/news/pax-aus-2015-registration-now-open). Retrieved March 10, 2015.
-
+29.
 30.
 
 31.

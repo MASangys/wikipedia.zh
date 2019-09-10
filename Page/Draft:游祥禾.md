@@ -1,0 +1,44 @@
+**游祥禾**（），生於[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[台北](https://zh.wikipedia.org/wiki/台北 "wikilink")，是一位[心理學家與](https://zh.wikipedia.org/wiki/心理學家 "wikilink")[勵志演說家](https://zh.wikipedia.org/wiki/勵志演說家 "wikilink")，為『東方心理學』學術與『30秒識人術』創始人。
+
+擅長研究慣性領域與行為結果，結合西方[心理學與東方哲玄學](https://zh.wikipedia.org/wiki/心理學 "wikilink")，於2013年02月自創『東方心理學』，學術遍及中國、台灣、馬來西亞、新加坡、日本....等世界各地。透過教學使人看懂內在動機（想法），重新設定[認知](https://zh.wikipedia.org/wiki/認知 "wikilink")，修正行為，啟動成功模式（結果）。
+
+同時也是一位夢想實踐家，對於傳遞正向能量及闡揚中華文化思維充滿熱情，累積⼀對⼀[諮詢](../Page/諮詢.md "wikilink")人數達七萬多人，聽講人數超過百萬人，與時俱進，結合[社會學](https://zh.wikipedia.org/wiki/社會學 "wikilink")、[統計學](https://zh.wikipedia.org/wiki/統計學 "wikilink")、[神經學以及現代人類心理學](https://zh.wikipedia.org/wiki/神經學 "wikilink")，透過啟發與引導，協助每個人看懂情緒、處理好關係，重現[家庭教育](../Page/家庭教育.md "wikilink")與[個人成長以人本教育為服務宗旨](https://zh.wikipedia.org/wiki/個人成長 "wikilink")，幫助每個人察覺潛藏的自我、提升人際溝通技巧、開發個人特質魅力，從被動接受改為積極創造的生命。
+
+## 生平
+
+游祥禾，[中國文化大學保險學系畢業](https://zh.wikipedia.org/wiki/中國文化大學 "wikilink")，進入社會後因緣際會投入東方玄學領域研習多年，同時對外一對一諮詢已超過上萬人次，並開啟了創業人生，於2008年成立禾福田企管顧問有限公司，2012年創立「30秒識人術」，2013年創立「東方心理學」，期間更獲台灣百間企業邀請擔任企業培訓師與講師，跨足工業、金融、公家單位領域。
+
+旅外講學，於2011-2012年至[北京](https://zh.wikipedia.org/wiki/北京 "wikilink")，2014年至[東南亞國家](https://zh.wikipedia.org/wiki/東南亞 "wikilink")，馬來西亞、新加坡、柬埔寨等地。2013年擔任[今週刊雜誌](https://zh.wikipedia.org/wiki/今週刊 "wikilink")『人生使用手冊』[專欄作家](https://zh.wikipedia.org/wiki/專欄作家 "wikilink")\[1\]，以及1111人力銀行、創業雜誌專欄作家。
+
+2016年獲得 [美國聯邦政府](../Page/美國聯邦政府.md "wikilink")頒布國際心靈管理師及國際心靈治療師殊榮，後更精進進修獲得中國[華南師範大學應用心理研究所碩士學位](https://zh.wikipedia.org/wiki/華南師範大學 "wikilink")，並在2018年獲頒英國CIP\[2\]高級心理諮詢師，2019年創立禾禾企管諮詢有限公司。
+
+## 主要作品
+
+### 2010年
+
+  - 《愛要怎麼做》\[3\]
+
+### 2017年
+
+  - 《停止抱怨的人生》\[4\]
+  - 《2018開運手札》\[5\]
+
+### 2018年
+
+  - 《每天練習，成為更好的自己》\[6\]
+
+### 2019年
+
+  - 《關係對話，七萬人教會我的事》\[7\]
+
+## 參考資料
+
+[:Category:使用创建条目精灵建立的页面](https://zh.wikipedia.org/wiki/Category:使用创建条目精灵建立的页面 "wikilink")
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.

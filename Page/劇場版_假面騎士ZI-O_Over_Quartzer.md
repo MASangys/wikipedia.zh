@@ -7,10 +7,10 @@
 ## 本作特色
 
   - 本作继《[剧场版 假面骑士Build Be The One](https://zh.wikipedia.org/wiki/剧场版_假面骑士Build_Be_The_One "wikilink")》后，再次将TV本篇主题曲作为剧场版的主题。
-  - 本作繼《[劇場版 假面騎士EX-AID True·Ending](../Page/劇場版_假面騎士EX-AID_True·Ending.md "wikilink")》後，劇場版的時間線為TV本篇最後話之後，即為《[假面騎士ZI-O](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")》的「真結局」，同時也是平成假面騎士的「The·紀念作」。\[1\]。
+  - 本作繼《[劇場版 假面騎士EX-AID True·Ending](../Page/劇場版_假面騎士EX-AID_True·Ending.md "wikilink")》後，劇場版的時間線為TV本篇最後話（即第49集）之後，但與《假面騎士EX-AID True·Ending》不同，本作是《[假面騎士ZI-O](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")》的「分支結局」\[1\]，同時也是平成假面騎士的「The·紀念作」。\[2\]。
   - 本作繼《[劇場版 假面騎士DECADE 全騎士 VS 大修卡](https://zh.wikipedia.org/wiki/劇場版_假面騎士DECADE_全騎士_VS_大修卡 "wikilink")》後，全平成假面騎士將再次齊聚，並且還是繼《假面騎士Wizard》最終話後，其最終形態一一具現。
-  - 本作繼《[劇場版 假面騎士Ghost 100個眼魂與Ghost命運的瞬間](https://zh.wikipedia.org/wiki/劇場版_假面騎士Ghost_100個眼魂與Ghost命運的瞬間 "wikilink")》後，暌違三年所登場的劇場版騎士人數增至一人以上，同其造型更參考了活跃於平成時代卻被歸類於昭和騎士的部分騎士\[2\]。
-  - 本作劇場版將叙述《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》的物語，並且相關角色，例如飾演「假面騎士Mach / 詩島剛」的稻葉友將繼《[劇場版 假面騎士Drive SURPRISE FUTURE](https://zh.wikipedia.org/wiki/劇場版_假面騎士Drive_SURPRISE_FUTURE "wikilink")》後再度在劇場版上登場。\[3\]。
+  - 本作繼《[劇場版 假面騎士Ghost 100個眼魂與Ghost命運的瞬間](https://zh.wikipedia.org/wiki/劇場版_假面騎士Ghost_100個眼魂與Ghost命運的瞬間 "wikilink")》後，暌違三年所登場的劇場版騎士人數增至一人以上，同其造型更參考了活跃於平成時代卻被歸類於昭和騎士的部分騎士\[3\]。
+  - 本作劇場版將叙述《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》的物語，並且相關角色，例如飾演「假面騎士Mach / 詩島剛」的稻葉友將繼《[劇場版 假面騎士Drive SURPRISE FUTURE](https://zh.wikipedia.org/wiki/劇場版_假面騎士Drive_SURPRISE_FUTURE "wikilink")》後再度在劇場版上登場。\[4\]。
   - 本作劇場版的首要惡役騎士——假面騎士Barlckxs的飾演者由TV本篇主題曲主唱之一——ISSA擔任。
   - 下部系列作《[假面騎士ZERO-ONE](../Page/假面騎士ZERO-ONE.md "wikilink")》的主角騎士假面騎士Zero-One將在本作中先行登場。
 
@@ -107,7 +107,7 @@
 
   -
     **Quartzer的首領**，**假面騎士Barlckxs**的變身者。
-    為woz真正侍奉的王，小時候常磐莊吾施展時間的力量也是由他所為，為了讓其說服所有平成騎士自願將力量給莊吾帶走，自己最後在統一吸收。
+    為Woz真正侍奉的王，小時候常磐莊吾施展時間的力量也是由他所為，為了讓其說服所有平成騎士自願將力量給莊吾帶走，自己最後在統一吸收。
     最後被假面騎士ZI-O 逢魔形態給擊敗。
 
 ****（[齊藤秀翼](../Page/齊藤秀翼.md "wikilink")飾）
@@ -125,7 +125,7 @@
 
   -
     **假面騎士ZERO-ONE**的變身者。
-    為開頭莊吾夢中出場，由woz祝福的令和第一位假面騎士，結尾則出現幫忙擊敗了假面騎士Zonjis。
+    為開頭莊吾夢中出場，由Woz祝福的令和第一位假面騎士，結尾則出現幫忙擊敗了假面騎士Zonjis。
 
 ### 本作次要登場英雄
 
@@ -176,7 +176,7 @@
 ### 假面騎士Barlckxs
 
   -
-    變身者：常磐SOUGO（替身演員：中田裕士、CV：ISSA）
+    變身者：常磐莊吾（與本作主角同名）（替身演員：中田裕士、CV：ISSA）
     原文： / *Kamen Rider Barlckxs*
 
 #### 變身模式
@@ -195,7 +195,7 @@
 <strong>基本形態</strong></p></td>
 <td><p>使用「Barlckxs」騎士手錶再搭配時空驅動器變身而成的形態，復眼為紅色，片假名為「ライダー」。</p></td>
 <td><p>基本顏色為深綠、黑色、土黃色為主，天線時刻為10：10。</p></td>
-<td><p>基本形態，擁有假面騎士Black RX的部分特徵，除了可從驅動器內拔出一把造型和幻影激光劍同樣的劍型武器，擅長於近戰以外，擁有將平成騎士之力抵消的能力[4]。</p></td>
+<td><p>基本形態，擁有假面騎士Black RX的部分特徵，除了可從驅動器內拔出一把造型和幻影激光劍同樣的劍型武器，擅長於近戰以外，擁有將平成騎士之力抵消的能力[5]。</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -416,7 +416,8 @@
 
 [Category:假面騎士系列電影作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列電影作品 "wikilink") [Category:2019年日本電影](https://zh.wikipedia.org/wiki/Category:2019年日本電影 "wikilink")
 
-1.
-2.  即假面騎士Black RX、假面騎士·真、假面騎士ZO、假面騎士J 和假面騎士Amazons的三名騎士
-3.
-4.  這和假面騎士Eternal必殺技類似，只是Eternal只有對T1系列蓋亞記憶體失效而已（假面騎士W的騎士及怪人大多數使用T1型）
+1.  原宣傳中本作為「真結局」，但TV本篇播至46集時，東映官網的分集劇情卻註明本作時間線在TV本篇46至47集之間，直至渡邊圭祐在劇場版訪談中澄清本作時間線。
+2.
+3.  即假面騎士Black RX、假面騎士·真、假面騎士ZO、假面騎士J 和假面騎士Amazons的三名騎士
+4.
+5.  這和假面騎士Eternal必殺技類似，只是Eternal只有對T1系列蓋亞記憶體失效而已（假面騎士W的騎士及怪人大多數使用T1型）

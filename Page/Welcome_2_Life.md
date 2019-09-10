@@ -313,7 +313,7 @@
 <tr class="even">
 <td><p>11</p></td>
 <td><p>2019/08/20</p></td>
-<td><p>%</p></td>
+<td><p>4.3%</p></td>
 </tr>
 <tr class="odd">
 <td><p>12</p></td>
@@ -323,22 +323,22 @@
 <tr class="even">
 <td><p>13</p></td>
 <td><p>2019/08/26</p></td>
-<td><p>%</p></td>
+<td><p>4.1%</p></td>
 </tr>
 <tr class="odd">
 <td><p>14</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>5.5%</p></td>
+<td><p>5.9%</p></td>
 </tr>
 <tr class="even">
 <td><p>15</p></td>
 <td><p>2019/08/27</p></td>
-<td><p>%</p></td>
+<td><p>3.5%</p></td>
 </tr>
 <tr class="odd">
 <td><p>16</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>4.4%</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>17</p></td>
@@ -436,8 +436,8 @@
 
 ### 同時段競爭作品
 
-  - [tvN](../Page/TVN.md "wikilink") [月火連續劇](../Page/TvN月火連續劇.md "wikilink")：《[60天，指定倖存者](../Page/60天，指定倖存者.md "wikilink")》、《[偉大的Show](https://zh.wikipedia.org/wiki/偉大的Show "wikilink")》
-  - [JTBC](../Page/JTBC.md "wikilink") [月火連續劇](../Page/JTBC月火連續劇.md "wikilink")：《[18歲的瞬間](../Page/18歲的瞬間.md "wikilink")》、《[花黨：朝鮮婚姻介紹所](https://zh.wikipedia.org/wiki/花黨：朝鮮婚姻介紹所 "wikilink")》
+  - [tvN](../Page/TVN.md "wikilink") [月火連續劇](../Page/TvN月火連續劇.md "wikilink")：《[60天，指定倖存者](../Page/60天，指定倖存者.md "wikilink")》、《[偉大的Show](../Page/偉大的Show.md "wikilink")》
+  - [JTBC](../Page/JTBC.md "wikilink") [月火連續劇](../Page/JTBC月火連續劇.md "wikilink")：《[18歲的瞬間](../Page/18歲的瞬間.md "wikilink")》、《[花黨：朝鮮婚姻介紹所](../Page/花黨：朝鮮婚姻介紹所.md "wikilink")》
 
 ### 同一劇集時段作品
 

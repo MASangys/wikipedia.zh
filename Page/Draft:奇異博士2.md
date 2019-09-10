@@ -1,8 +1,10 @@
-《**奇異博士2**》（）是一部即將上映的[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[超級英雄電影](https://zh.wikipedia.org/wiki/超級英雄 "wikilink")，以[漫威漫畫](../Page/漫威漫畫.md "wikilink")的[同名角色為主角](../Page/奇異博士.md "wikilink")，由[漫威影業製作](https://zh.wikipedia.org/wiki/漫威影業 "wikilink")，[華特迪士尼工作室電影](../Page/華特迪士尼工作室電影.md "wikilink")發行。影片是2016年上映的電影《[奇異博士](../Page/奇異博士_\(電影\).md "wikilink")》續集，同屬於[漫威電影宇宙](https://zh.wikipedia.org/wiki/漫威電影宇宙 "wikilink")，與[漫威電影宇宙系列電影處於同一](https://zh.wikipedia.org/wiki/漫威電影宇宙系列電影 "wikilink")[架空世界和](https://zh.wikipedia.org/wiki/架空世界 "wikilink")[共同世界](../Page/共同世界.md "wikilink")。電影仍由[史考特·德瑞森](../Page/史考特·德瑞森.md "wikilink")執導，[班奈狄克·康柏拜區](../Page/班奈狄克·康柏拜區.md "wikilink")領銜出演標題角色奇異博士，主演包括[瑞秋·麥亞當斯](../Page/瑞秋·麥亞當斯.md "wikilink")和[黃凱旋](../Page/黃凱旋.md "wikilink")。
+《**奇異博士2**》（）是一部即將上映的[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[超級英雄電影](https://zh.wikipedia.org/wiki/超級英雄 "wikilink")，以[漫威漫畫](../Page/漫威漫畫.md "wikilink")的[同名角色為主角](../Page/奇異博士.md "wikilink")，由[漫威影業製作](https://zh.wikipedia.org/wiki/漫威影業 "wikilink")，[華特迪士尼工作室電影](../Page/華特迪士尼工作室電影.md "wikilink")發行。影片是2016年上映的電影《[奇異博士](../Page/奇異博士_\(電影\).md "wikilink")》續集，為「[漫威電影宇宙](https://zh.wikipedia.org/wiki/漫威電影宇宙 "wikilink")」的[第27部電影作品](https://zh.wikipedia.org/wiki/漫威電影宇宙系列電影 "wikilink")。電影仍由[史考特·德瑞森](../Page/史考特·德瑞森.md "wikilink")執導，[班奈狄克·康柏拜區](../Page/班奈狄克·康柏拜區.md "wikilink")領銜出演標題角色奇異博士，[伊莉莎白·歐森出演](https://zh.wikipedia.org/wiki/伊莉莎白·歐森 "wikilink")[「緋紅女巫」汪達·馬克希莫夫](../Page/緋紅女巫.md "wikilink")，主演還包括[瑞秋·麥亞當斯](../Page/瑞秋·麥亞當斯.md "wikilink")和[黃凱旋](../Page/黃凱旋.md "wikilink")。
 
 2016年10月，導演史考特·德瑞森已經籌劃電影《奇異博士》續集。2018年12月，漫威正式與德瑞森簽訂續集執導協議。康柏拜區、麥亞當斯和黃凱旋確認回歸出演。影片計劃於2020年初開機拍攝，2021年5月7日在美國上映。
 
 ## 演員
+
+[Benedict_Cumberbatch_&_Elizabeth_Olsen_(48470890276).jpg](https://zh.wikipedia.org/wiki/File:Benedict_Cumberbatch_&_Elizabeth_Olsen_\(48470890276\).jpg "fig:Benedict_Cumberbatch_&_Elizabeth_Olsen_(48470890276).jpg")和[伊莉莎白·歐森在](https://zh.wikipedia.org/wiki/伊莉莎白·歐森 "wikilink")2019年[聖地牙哥國際漫畫展](https://zh.wikipedia.org/wiki/聖地牙哥國際漫畫展 "wikilink")\]\]
 
 <table>
 <tbody>
@@ -19,25 +21,25 @@ Doctor Strange / Stephen Strange</p></td>
 <td><p>原是名優秀的天才<a href="../Page/神經外科.md" title="wikilink">神經外科</a>醫生，因為一場意外傷到雙手而無法再執刀。為了醫治雙手而四處求醫，遇到擁有神祕魔法力量的<a href="../Page/古一_(漫畫).md" title="wikilink">古一</a>，成為至尊魔法師[1]。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/瑞秋·麥亞當斯.md" title="wikilink">瑞秋·麥亞當斯</a><br />
-Rachel McAdams</p></td>
-<td><p><br />
-Christine Palmer</p></td>
-<td><p>外科醫生，史傳奇的同事兼女朋友[2]。</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/黃凱旋.md" title="wikilink">黃凱旋</a><br />
-Benedict Wong</p></td>
-<td><p><a href="../Page/王_(漫威漫畫).md" title="wikilink">王</a><br />
-Wong</p></td>
-<td><p>神秘的魔法大師，負責管理卡瑪泰姬中的圖書館，擁有淵博的武術和魔法知識[3]。</p></td>
-</tr>
-<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/伊莉莎白·歐森" title="wikilink">伊莉莎白·歐森</a><br />
 Elizabeth Olsen</p></td>
 <td><p><a href="../Page/緋紅女巫.md" title="wikilink">「緋紅女巫」汪達·馬克希莫夫</a><br />
 Wanda Maximoff / Scarlet Witch</p></td>
-<td><p><a href="../Page/復仇者_(漫畫).md" title="wikilink">復仇者之一</a>，能以操縱幻像魔法及混沌魔法作為攻擊，並擁有<a href="../Page/催眠.md" title="wikilink">遠端操縱他人腦部的能力和</a><a href="../Page/念力.md" title="wikilink">心靈輸送的能力</a>[4]。</p></td>
+<td><p><a href="../Page/復仇者_(漫畫).md" title="wikilink">復仇者之一</a>，能以操縱幻像魔法及混沌魔法作為攻擊，並擁有<a href="../Page/催眠.md" title="wikilink">遠端操縱他人腦部的能力和</a><a href="../Page/念力.md" title="wikilink">心靈輸送的能力</a>[2]。</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/瑞秋·麥亞當斯.md" title="wikilink">瑞秋·麥亞當斯</a><br />
+Rachel McAdams</p></td>
+<td><p><br />
+Christine Palmer</p></td>
+<td><p>外科醫生，史傳奇的同事兼女朋友[3]。</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/黃凱旋.md" title="wikilink">黃凱旋</a><br />
+Benedict Wong</p></td>
+<td><p><a href="../Page/王_(漫威漫畫).md" title="wikilink">王</a><br />
+Wong</p></td>
+<td><p>神秘的魔法大師，負責管理卡瑪泰姬中的圖書館，擁有淵博的武術和魔法知識[4]。</p></td>
 </tr>
 </tbody>
 </table>
@@ -46,7 +48,7 @@ Wanda Maximoff / Scarlet Witch</p></td>
 
 ### 開發
 
-2016年4月，《[奇異博士](../Page/奇異博士_\(電影\).md "wikilink")》的聯合編劇之一表示，他已與[漫威影業溝通了關於續集的一些初步想法](https://zh.wikipedia.org/wiki/漫威影業 "wikilink")。導演[史考特·德瑞森](../Page/史考特·德瑞森.md "wikilink")強調這個角色在漫畫原作中具有太多「怪異的元素」，二人將在此後的影片中對此有所體現\[5\]。10月，德瑞森確定了關於續集的計劃，表示：「我喜歡這個角色，以及視覺表現上的多種可能性。而且我了解漫畫原作，（第一部電影）只是展現出原作的冰山一角，還有很多內容可以挖掘和製作。」他想要效仿2008年電影《[黑暗騎士](../Page/黑暗騎士.md "wikilink")》，「引入一個反派角色，帶來更多深刻的內心體驗」。主演[班奈狄克·康柏拜區](../Page/班奈狄克·康柏拜區.md "wikilink")透露他已與漫威簽約了不止一部的「奇異博士」個人電影\[6\]。德瑞森希望在續集中引入[超級反派](https://zh.wikipedia.org/wiki/超級反派 "wikilink")\[7\]，並表示希望在續集中進一步探索[班傑明·布萊特飾演的角色強納森](https://zh.wikipedia.org/wiki/班傑明·布萊特 "wikilink")·潘柏恩和[王的父親哈米爾](../Page/王_\(漫威漫畫\).md "wikilink")，他們在第一部電影中戲份很少。德瑞森補充說，由於與漫威影業總裁[凱文·費吉](../Page/凱文·費吉.md "wikilink")以及2018年電影《[復仇者聯盟3：無限之戰](https://zh.wikipedia.org/wiki/復仇者聯盟3：無限之戰 "wikilink")》和2019年電影《[復仇者聯盟4：終局之戰](https://zh.wikipedia.org/wiki/復仇者聯盟4：終局之戰 "wikilink")》的聯合導演[羅素兄弟關係交好](https://zh.wikipedia.org/wiki/羅素兄弟 "wikilink")，他「熟知」奇異博士在復仇者電影中的作用\[8\]。第一部電影的聯合編劇之一表示有興趣將引入續集\[9\]。
+[Scott_Derrickson_by_Gage_Skidmore_2.jpg](https://zh.wikipedia.org/wiki/File:Scott_Derrickson_by_Gage_Skidmore_2.jpg "fig:Scott_Derrickson_by_Gage_Skidmore_2.jpg")\]\] 2016年4月，《[奇異博士](../Page/奇異博士_\(電影\).md "wikilink")》的聯合編劇之一表示，他已與[漫威影業溝通了關於續集的一些初步想法](https://zh.wikipedia.org/wiki/漫威影業 "wikilink")。導演[史考特·德瑞森](../Page/史考特·德瑞森.md "wikilink")強調這個角色在漫畫原作中具有太多「怪異的元素」，二人將在此後的影片中對此有所體現\[5\]。10月，德瑞森確定了關於續集的計劃，表示：「我喜歡這個角色，以及視覺表現上的多種可能性。而且我了解漫畫原作，（第一部電影）只是展現出原作的冰山一角，還有很多內容可以挖掘和製作。」他想要效仿2008年電影《[黑暗騎士](../Page/黑暗騎士.md "wikilink")》，「引入一個反派角色，帶來更多深刻的內心體驗」。主演[班奈狄克·康柏拜區](../Page/班奈狄克·康柏拜區.md "wikilink")透露他已與漫威簽約了不止一部的「奇異博士」個人電影\[6\]。德瑞森希望在續集中引入[超級反派](https://zh.wikipedia.org/wiki/超級反派 "wikilink")\[7\]，並表示希望在續集中進一步探索[班傑明·布萊特飾演的角色強納森](https://zh.wikipedia.org/wiki/班傑明·布萊特 "wikilink")·潘柏恩和[王的父親哈米爾](../Page/王_\(漫威漫畫\).md "wikilink")，他們在第一部電影中戲份很少。德瑞森補充說，由於與漫威影業總裁[凱文·費吉](../Page/凱文·費吉.md "wikilink")以及2018年電影《[復仇者聯盟3：無限之戰](../Page/復仇者聯盟3：無限之戰.md "wikilink")》和2019年電影《[復仇者聯盟4：終局之戰](https://zh.wikipedia.org/wiki/復仇者聯盟4：終局之戰 "wikilink")》的聯合導演[羅素兄弟關係交好](https://zh.wikipedia.org/wiki/羅素兄弟 "wikilink")，他「熟知」奇異博士在復仇者電影中的作用\[8\]。第一部電影的聯合編劇之一表示有興趣將引入續集\[9\]。
 
 2017年4月，報道稱在完成[網飛劇集](https://zh.wikipedia.org/wiki/網飛 "wikilink")《》的拍攝工作之後，德瑞森會回歸開發《奇異博士》續集\[10\]。2018年12月，德瑞森正式與漫威簽訂了執導續集的協議\[11\]。[班奈狄克·康柏拜區](../Page/班奈狄克·康柏拜區.md "wikilink")、[瑞秋·麥亞當斯](../Page/瑞秋·麥亞當斯.md "wikilink")和[黃凱旋](../Page/黃凱旋.md "wikilink")確認回歸，分別繼續出演[奇異博士](../Page/奇異博士.md "wikilink")、和[王](../Page/王_\(漫威漫畫\).md "wikilink")\[12\]\[13\]。漫威開始尋找續集編劇，《[好萊塢報道](https://zh.wikipedia.org/wiki/好萊塢報道 "wikilink")》稱劇本將於2019年完成，計劃在2020年初開始拍攝，有望定檔於2021年5月\[14\]。2019年7月20日，漫威在[聖地牙哥國際漫畫展上公佈影片正式片名為](https://zh.wikipedia.org/wiki/聖地牙哥國際漫畫展 "wikilink")《Doctor Strange in the Multiverse of Madness》，[伊莉莎白·歐森擔當聯合主演](https://zh.wikipedia.org/wiki/伊莉莎白·歐森 "wikilink")，繼續出演[「緋紅女巫」汪達·馬克希莫夫](../Page/緋紅女巫.md "wikilink")。[凱文·費吉](../Page/凱文·費吉.md "wikilink")透露2021年電視劇《[汪達與幻視](https://zh.wikipedia.org/wiki/汪達與幻視 "wikilink")》中緋紅女巫的相關劇情將影響電影情節，導演[史考特·德瑞森](../Page/史考特·德瑞森.md "wikilink")表示相較於第一部《[奇異博士](../Page/奇異博士_\(電影\).md "wikilink")》，續集將添加更多漫畫中展現出的「[哥特式](https://zh.wikipedia.org/wiki/哥德式藝術 "wikilink")」恐怖元素\[15\]。
 
@@ -56,7 +58,7 @@ Wanda Maximoff / Scarlet Witch</p></td>
 
 ## 宣傳與發行
 
-2019年7月20日，漫威在[聖地牙哥國際漫畫展上公佈](https://zh.wikipedia.org/wiki/聖地牙哥國際漫畫展 "wikilink")《Doctor Strange in the Multiverse of Madness》將於2021年5月7日在美國上映\[17\]。
+2019年7月20日，漫威在[聖地牙哥國際漫畫展上公佈電影將於](https://zh.wikipedia.org/wiki/聖地牙哥國際漫畫展 "wikilink")2021年5月7日在美國上映\[17\]。
 
 ## 資料來源
 

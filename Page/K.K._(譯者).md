@@ -3,7 +3,7 @@
 ## 人物介紹
 
 **黃牧仁**，筆名**K.K.**\[2\]。1999年，黃牧仁完成首部譯作《兒童到青少年期的友誼發展》（英文翻譯），此後主要以K.K.名義從事漫畫、輕小說之日文翻譯，主要翻譯著作有《[星界的紋章](https://zh.wikipedia.org/wiki/星界的紋章 "wikilink")》、《[星界的戰旗](../Page/星界的戰旗.md "wikilink")》、《[奇諾之旅](https://zh.wikipedia.org/wiki/奇諾之旅 "wikilink")》（第20-21卷）等。
-黃牧仁曾任職於[臺北市政府資訊局](https://zh.wikipedia.org/wiki/臺北市政府資訊局 "wikilink")，2011年參與創辦[臺北市政府](../Page/臺北市政府.md "wikilink")免費Wi-Fi**「臺北公眾區免費無線上網」**（Taipei Free）\[3\]，跟產官學界人士合作，打造全臺北市的公共免費Wi-Fi服務；並負責檢修Wi-Fi熱點問題，天天帶分析儀趴趴走，檢修連不上線等問題，有「Wi-Fi檢修一哥」之稱號。\[4\]\[5\]2016年，於臺北捷運松山新店線推動全臺首發之捷運列車Wi-Fi服務「捷運Wi-Fi 230」，以[資訊局的虛擬代言人](https://zh.wikipedia.org/wiki/臺北市政府資訊局 "wikilink")[230作為形象代言](../Page/230_\(吉祥物\).md "wikilink")。\[6\]
+黃牧仁曾任職於[臺北市政府資訊局](https://zh.wikipedia.org/wiki/臺北市政府資訊局 "wikilink")，2011年參與創辦[臺北市政府](../Page/臺北市政府.md "wikilink")免費Wi-Fi**「臺北公眾區免費無線上網」**（Taipei Free）\[3\]，跟產官學界人士合作，打造全臺北市的公共免費Wi-Fi服務；並負責檢修Wi-Fi熱點問題，天天帶分析儀趴趴走，檢修連不上線等問題，有「Taipei Free創辦人」、「Wi-Fi檢修一哥」之稱號。\[4\]\[5\]2016年，於臺北捷運松山新店線推動全臺首發之捷運列車Wi-Fi服務「捷運Wi-Fi 230」，以[資訊局的虛擬代言人](https://zh.wikipedia.org/wiki/臺北市政府資訊局 "wikilink")[230作為形象代言](../Page/230_\(吉祥物\).md "wikilink")。\[6\]
 
 ## 翻譯著作
 

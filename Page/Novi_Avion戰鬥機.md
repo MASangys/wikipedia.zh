@@ -12,7 +12,7 @@
 
 ### 尋求合作夥伴及項目終止
 
-1990年3月，Novi Avion 項目進入了挑選合適的[航空發動機的階段](https://zh.wikipedia.org/wiki/航空發動機 "wikilink")。當時數家大型的國際航空發動機生產商皆有提交方案，包括[通用电气航空](../Page/通用电气航空.md "wikilink")的[F404渦輪扇發動機](https://zh.wikipedia.org/wiki/F404渦輪扇發動機 "wikilink")，[勞斯萊斯的](../Page/罗尔斯·罗伊斯股份有限公司.md "wikilink")，[普惠公司](../Page/普惠公司.md "wikilink")的及[史奈克瑪的](https://zh.wikipedia.org/wiki/斯奈克瑪 "wikilink")。\[11\]\[12\]
+1990年3月，Novi Avion 項目進入了挑選合適的[航空發動機的階段](https://zh.wikipedia.org/wiki/航空發動機 "wikilink")。當時數家大型的國際航空發動機生產商皆有提交方案，包括[通用电气航空](../Page/通用电气航空.md "wikilink")的[F404渦輪扇發動機](../Page/F404渦輪扇發動機.md "wikilink")，[勞斯萊斯的](../Page/罗尔斯·罗伊斯股份有限公司.md "wikilink")，[普惠公司](../Page/普惠公司.md "wikilink")的及[史奈克瑪的](https://zh.wikipedia.org/wiki/斯奈克瑪 "wikilink")。\[11\]\[12\]
 
 直至1990年上旬，南共政府曾經與數個不同國家進行討論，研究聯合開展開發新戰機項目的談判。南共政府宣佈原則上落實將會生產 Novi Avion，但同時亦尋求外來合作伙伴以分擔可觀的研發成本及生產開支。\[13\] 但是這種進行廣泛的跨國合作的理念往往因政治因素而變得複雜化，特別是由於南共與化國政府之間互相猜疑。 航空刊物在1990年評論道：「要把這一切變成一個真實的希望的話，先別說是否存在可能性，那將需要在政治上作出[比我們已經從東歐看到的更巨大更劇烈的改變](https://zh.wikipedia.org/wiki/東歐劇變 "wikilink")。那些來自[西方國家想跟南斯拉夫在](https://zh.wikipedia.org/wiki/西方國家 "wikilink") Novi Avion 項目上合作的公司被他們本國的政府警告了，切記要謹慎行事，以免技術落入壞人之手。」*（"For this to become a realistic hope, let alone a possibility, will require political change beyond anything already seen in Eastern Europe. Western companies wanting to work with Jugoslavia on Novi Avion have been warned by their governments to exercise care lest technology end up in the wrong hands".）*\[14\]
 

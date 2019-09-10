@@ -14,7 +14,7 @@
   - 12月5日，出道45周年的資深歌手[松任谷由实时隔](https://zh.wikipedia.org/wiki/松任谷由实 "wikilink")7年重回红白，确定将以组曲的方式进行演出，当日在网络开始演唱歌曲的征集投票活动\[9\]。
   - 12月12日，出道40周年的摇滚乐队[南方之星](../Page/南方之星.md "wikilink")确定以「特別企劃」出演，是相隔4年後再次以相同方式於紅白中出場，也是他們相隔35年後再次在NHK音樂廳內作直播演出\[10\]。
   - 12月16日，Aqours、刀剑男士和[AKB48](../Page/AKB48.md "wikilink")的演出曲目确定，在泰国活动的AKB48姐妹团体[BNK48](../Page/BNK48.md "wikilink")将与AKB48合作同台演出\[11\]。
-  - 12月18日，公布NHK娱乐节目《》（）的主角小智子，以及該节目中的问题解答者、搞笑艺人[岡村隆史](https://zh.wikipedia.org/wiki/岡村隆史 "wikilink")（[NINETY-NINE](../Page/NINETY-NINE.md "wikilink")）将一同在企划环节出演，这也是冈村自2006年以来再度登上红白舞台\[12\]。
+  - 12月18日，公布NHK娱乐节目《》（）的主角小智子，以及該节目中的问题解答者、搞笑艺人[岡村隆史](../Page/岡村隆史.md "wikilink")（[NINETY-NINE](../Page/NINETY-NINE.md "wikilink")）将一同在企划环节出演，这也是冈村自2006年以来再度登上红白舞台\[12\]。
   - 12月19日，嘉宾审查员名单公布\[13\]。同时本次红白的计分方法也一并公布，具体为电视观众、现场观众、现场审查员三方各自计票，对决全部结束后，每一方的胜出者获得一分，总分获得两分即赢得本次红白歌合战的胜利\[14\]。
   - 12月21日，所有参演歌手的曲目确定\[15\]。今年的节目中[Perfume和](https://zh.wikipedia.org/wiki/Perfume "wikilink")[福山雅治](../Page/福山雅治.md "wikilink")将从各自的跨年演唱会现场进行连线演出\[16\]。
   - 12月22日，公布[石川小百合](../Page/石川小百合.md "wikilink")将与吉他手[布袋寅泰](../Page/布袋寅泰.md "wikilink")共演，这是布袋继[第57回](https://zh.wikipedia.org/wiki/第57回NHK红白歌合战 "wikilink")（2006年）与[今井美树共演以来时隔](https://zh.wikipedia.org/wiki/今井美树 "wikilink")12年再上红白\[17\]。
@@ -271,7 +271,7 @@
 
   - ：[NHK綜合台體育新聞節目](../Page/NHK綜合頻道.md "wikilink")《》報導員，原[新體操選手](https://zh.wikipedia.org/wiki/新體操 "wikilink")。[丘綠的背景舞者](https://zh.wikipedia.org/wiki/丘綠 "wikilink")\[36\]。
 
-  - 小智子、[岡村隆史](https://zh.wikipedia.org/wiki/岡村隆史 "wikilink")（搞笑二人組[NINETY-NINE](../Page/NINETY-NINE.md "wikilink")成員）：NHK綜合台綜藝節目《》出演者。於企劃單元「小智子×紅白」（）登場演出。
+  - 小智子、[岡村隆史](../Page/岡村隆史.md "wikilink")（搞笑二人組[NINETY-NINE](../Page/NINETY-NINE.md "wikilink")成員）：NHK綜合台綜藝節目《》出演者。於企劃單元「小智子×紅白」（）登場演出。
 
   - （[2018年平昌冬奧](https://zh.wikipedia.org/wiki/2018年冬季奥林匹克运动会 "wikilink")[女子冰壺競賽銅牌得主](../Page/2018年冬季奧林匹克運動會女子冰壺比賽.md "wikilink")）：[天童芳美](../Page/天童芳美.md "wikilink")的表演應援者。
 

@@ -40,7 +40,7 @@
 <td><p>喜劇演員</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/黃帝聖" title="wikilink">黃帝聖</a></p></td>
+<td><p><a href="../Page/黃帝聖.md" title="wikilink">黃帝聖</a></p></td>
 <td></td>
 <td></td>
 <td><p>喜劇演員</p></td>
@@ -94,7 +94,7 @@
 <tr class="header">
 <th><p>集數</p></th>
 <th><p>播出日期</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/AC尼爾森" title="wikilink">AGB尼爾森收視率</a>[5][6]</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/AC尼爾森" title="wikilink">AGB尼爾森收視率</a>[5][6][7]</p></th>
 </tr>
 </thead>
 <tbody>
@@ -138,12 +138,12 @@
 <tr class="even">
 <td><p>6</p></td>
 <td><p>2019/08/21</p></td>
-<td><p>%</p></td>
+<td><p>0.853%</p></td>
 </tr>
 <tr class="odd">
 <td><p>7</p></td>
 <td><p>2019/08/28</p></td>
-<td><p>%</p></td>
+<td><p>0.7%</p></td>
 </tr>
 <tr class="even">
 <td><p>8</p></td>
@@ -173,3 +173,4 @@
 4.
 5.
 6.
+7.

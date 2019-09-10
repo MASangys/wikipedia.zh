@@ -1,4 +1,4 @@
-**Focos**是一款运行于[iOS上的图像拍摄与](https://zh.wikipedia.org/wiki/iOS "wikilink")[处理应用](../Page/图像处理.md "wikilink")。其利用iPhone的多镜头设计，在拍摄时形成3D模型，可以合成具有[浅景深效果的照片](https://zh.wikipedia.org/wiki/散景 "wikilink")\[1\]，或添加虚拟光源照明。
+**Focos**是一款运行于[iOS上的图像拍摄与](https://zh.wikipedia.org/wiki/iOS "wikilink")[处理应用](../Page/图像处理.md "wikilink")。其利用iPhone的多镜头设计，在拍摄时形成3D模型，可以合成具有[浅景深效果的照片](https://zh.wikipedia.org/wiki/散景 "wikilink")\[1\]，或添加虚拟光源照明。其在2019年8月更新的2.0版本，取消了多摄限制，可以对任意照片进行景深模拟。
 
 Focos程序本体免费，具有内购选项可升级为专业版。本体提供圆形光圈虚化与单光源模拟功能；进阶版本的程序允许模拟不同的[光圈](../Page/光圈.md "wikilink")形状，来模拟不同的[散景效果](https://zh.wikipedia.org/wiki/散景 "wikilink")；或增设更多的虚拟光源。
 
@@ -16,7 +16,7 @@ Focos程序本体免费，具有内购选项可升级为专业版。本体提供
 
 ## 版本与支持
 
-Focos可以在许多iOS设备上安装，但核心的景深调节功能需要双镜头硬件，目前只有以下设备支持：
+Focos可以在许多iOS设备上安装，但早期时候景深调节功能需要双镜头硬件，即以下设备支持：
 
   - [iPhone 7 Plus](https://zh.wikipedia.org/wiki/iPhone_7_Plus "wikilink") （需升级到[iOS 11](https://zh.wikipedia.org/wiki/iOS_11 "wikilink")）
   - [iPhone 8 Plus](https://zh.wikipedia.org/wiki/iPhone_8_Plus "wikilink")
@@ -24,6 +24,8 @@ Focos可以在许多iOS设备上安装，但核心的景深调节功能需要双
   - [iPhone Xs](https://zh.wikipedia.org/wiki/iPhone_Xs "wikilink") 与 iPhone Xs Max
   - [iPhone X{{Smallcaps all](https://zh.wikipedia.org/wiki/iPhone_XR "wikilink") （前置支持景深调节，后置支持模拟）
   - [iPad Pro](https://zh.wikipedia.org/wiki/iPad_Pro "wikilink") （2018款，前置支持景深调节）
+
+2.0版本加入了学习功能，不需要双摄硬件也可以进行模拟。
 
 <table>
 <caption>focos版本</caption>
@@ -95,6 +97,13 @@ Focos可以在许多iOS设备上安装，但核心的景深调节功能需要双
 <td><ul>
 <li>支持编辑历史及回溯</li>
 <li>支持编辑规则套用</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p>2.0</p></td>
+<td><p>2019-08-28</p></td>
+<td><ul>
+<li>支持所有类型照片的学习，实现景深模拟</li>
 </ul></td>
 </tr>
 </tbody>

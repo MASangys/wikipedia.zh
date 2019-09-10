@@ -868,7 +868,7 @@ Mastermind</p></td>
 <td style="text-align: center;"><p>09/09-<br />
 </p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/旅行唔只食買玩" title="wikilink">旅行唔只食買玩</a><br />
-</p></td>
+Tokyo Quest</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p>主持：<a href="../Page/蘇麗珊.md" title="wikilink">蘇麗珊</a>、<a href="https://zh.wikipedia.org/wiki/林小美" title="wikilink">林小美</a></p></td>
 <td style="text-align: center;"></td>
@@ -1416,7 +1416,7 @@ Crime Scene Season 1</p></td>
 <td style="text-align: center;"><p>24/08-<br />
 </p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/北海道是咁Look" title="wikilink">北海道是咁Look</a><br />
-</p></td>
+Cycling Around Hokkaido</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p>主持：</p></td>
 <td style="text-align: center;"></td>
@@ -2016,7 +2016,7 @@ Pets and Family</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>兒童節目</strong><br />
-7月27日改為翌日11:30-12:00播出</p></td>
+7月27日改為翌日11:30-12:00播出，8月31日改為翌日10:00-10:30播出</p></td>
 </tr>
 </tbody>
 </table>
@@ -2095,11 +2095,12 @@ Knowing Chinese Medicine</p></td>
 <td style="text-align: center;"><p>24/08-<br />
 </p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/餸情" title="wikilink">餸情</a><br />
-</p></td>
+The Gifts Of Cooking</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p>主持：</p></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"><p><strong>飲食節目</strong></p></td>
+<td style="text-align: center;"><p><strong>飲食節目</strong><br />
+8月31日暫停播映</p></td>
 </tr>
 </tbody>
 </table>
@@ -2239,7 +2240,7 @@ Tokuson: Life Hacks!</p></td>
 <td style="text-align: center;"><p>主持：<a href="../Page/後藤輝基.md" title="wikilink">後藤輝基</a>、（日語原聲）</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>資訊節目</strong><br />
-外購節目（<a href="../Page/日本.md" title="wikilink">日本</a><a href="../Page/日本電視台.md" title="wikilink">NTV</a>），原名《》，8月3日改為22:45-23:45播出，8月17日及31日暫停播映，8月24日、9月7日至28日改為23:00-00:00播出</p></td>
+外購節目（<a href="../Page/日本.md" title="wikilink">日本</a><a href="../Page/日本電視台.md" title="wikilink">NTV</a>），原名《》，8月3日改為22:45-23:45播出，8月17日及31日暫停播映，8月24日、9月14日至28日改為23:00-00:00播出，9月7日改為23:15-00:15播出</p></td>
 </tr>
 </tbody>
 </table>
@@ -2365,7 +2366,7 @@ E-sport</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>18/08-<br />
-10/11</p></td>
+24/11</p></td>
 <td style="text-align: center;"><p><br />
 Chubby Honey</p></td>
 <td style="text-align: center;"><p>13</p></td>
@@ -2373,7 +2374,7 @@ Chubby Honey</p></td>
 <p><span style="font-size:larger;"><strong>重播節目：</strong><a href="../Page/ViuTV電視節目列表_(2018年).md" title="wikilink">2018年ViuTV節目</a></span></p>
 </div></td>
 <td style="text-align: center;"><p><strong>真人秀</strong><br />
-8月18日及25日改為00:30-01:00播出</p></td>
+8月18日及25日改為00:30-01:00播出，9月1日及8日暫停播映</p></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>
@@ -2861,13 +2862,26 @@ Art Less Travelled</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>25/08-<br />
-27/10</p></td>
+01/09</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/首爾十人" title="wikilink">首爾十人</a><br />
 Seoul Ten</p></td>
-<td style="text-align: center;"><p>10</p></td>
+<td style="text-align: center;"><p>2<br />
+(10)</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>文化節目</strong></p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>08/09-<br />
+01/12</p></td>
+<td style="text-align: center;"><p><a href="../Page/熟女在野.md" title="wikilink">熟女在野</a><br />
+Wonder Lady Wonderland</p></td>
+<td style="text-align: center;"><p>13</p></td>
+<td style="text-align: center;"><div style="text-align: center;">
+<p><span style="font-size:larger;"><strong>重播節目：</strong><a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">2017年ViuTV節目</a></span></p>
+</div></td>
+<td style="text-align: center;"><p><strong>真人秀</strong></p></td>
+<td style="text-align: center;"></td>
 </tr>
 </tbody>
 </table>
@@ -3223,71 +3237,9 @@ Mirror Go</p></td>
 </tbody>
 </table>
 
-### 23:00時段
+### 23:30/23:00時段
 
-[香港時間](../Page/香港時間.md "wikilink")逢星期日23:00-23:30播出
-
-<table style="width:240%;">
-<colgroup>
-<col style="width: 70%" />
-<col style="width: 21%" />
-<col style="width: 40%" />
-<col style="width: 28%" />
-<col style="width: 60%" />
-<col style="width: 20%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th style="text-align: center;"><p>播放日期</p></th>
-<th style="text-align: center;"><p>電視節目名稱</p></th>
-<th style="text-align: center;"><p>集數</p></th>
-<th style="text-align: center;"><p>主持/演出/旁白</p></th>
-<th style="text-align: center;"><p>網頁</p></th>
-<th style="text-align: center;"><p>備-{注}-</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: center;"><p>24/02-<br />
-16/06</p></td>
-<td style="text-align: center;"><p><br />
-Japan Love Hotel</p></td>
-<td style="text-align: center;"><p>15</p></td>
-<td style="text-align: center;"><p>主持：、<a href="https://zh.wikipedia.org/wiki/歐陽仲豪" title="wikilink">歐陽仲豪</a>、<a href="../Page/陳健朗.md" title="wikilink">陳健朗</a></p></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"><p><strong>真人秀</strong><br />
-3月10日改為23:15-23:45播出，3月17日及4月21日暫停播映，3月24日及5月5日改為翌日00:00-00:30播出</p></td>
-</tr>
-<tr class="even">
-<td style="text-align: center;"><p>23/06-<br />
-01/09</p></td>
-<td style="text-align: center;"><p><br />
-Land of Gods</p></td>
-<td style="text-align: center;"><p>8</p></td>
-<td style="text-align: center;"><p>演出：<a href="../Page/洪助昇.md" title="wikilink">洪助昇</a>、<br />
-旁白：<a href="../Page/東方昇.md" title="wikilink">東方昇</a></p></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"><p><strong>旅遊節目</strong><br />
-7月21日、28日及8月18日暫停播映</p></td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;"><p>08/09-<br />
-</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/旅巫" title="wikilink">旅巫</a><br />
-</p></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"><p>主持：</p></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"><p><strong>旅遊節目</strong></p></td>
-</tr>
-</tbody>
-</table>
-
-## 星期日（深夜時段）
-
-### 23:30/00:00/00:30時段
-
-[香港時間](../Page/香港時間.md "wikilink")逢星期日23:30-01:30播出；1月20日起改為逢星期一<small>（星期日深夜）</small>00:00-01:00播出；5月20日起改為逢星期一<small>（星期日深夜）</small>00:30-01:00播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期日23:30-01:30播出；2月24日起改為23:00-23:30播出；9月8日起改為23:30-00:00播出
 
 <table style="width:240%;">
 <colgroup>
@@ -3322,6 +3274,69 @@ Sing Cantonese 2018</p></td>
 外購節目（<a href="../Page/中國.md" title="wikilink">中國</a><a href="https://zh.wikipedia.org/wiki/廣東廣播電視台珠江頻道" title="wikilink">廣東廣播電視台珠江頻道</a>），1月6日改為23:15-01:45播出，1月13日改為23:30-02:30播出</p></td>
 </tr>
 <tr class="even">
+<td style="text-align: center;"><p>24/02-<br />
+16/06</p></td>
+<td style="text-align: center;"><p><br />
+Japan Love Hotel</p></td>
+<td style="text-align: center;"><p>15</p></td>
+<td style="text-align: center;"><p>主持：、<a href="https://zh.wikipedia.org/wiki/歐陽仲豪" title="wikilink">歐陽仲豪</a>、<a href="../Page/陳健朗.md" title="wikilink">陳健朗</a></p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"><p><strong>真人秀</strong><br />
+3月10日改為23:15-23:45播出，3月17日及4月21日暫停播映，3月24日及5月5日改為翌日00:00-00:30播出</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>23/06-<br />
+01/09</p></td>
+<td style="text-align: center;"><p><br />
+Land of Gods</p></td>
+<td style="text-align: center;"><p>8</p></td>
+<td style="text-align: center;"><p>演出：<a href="../Page/洪助昇.md" title="wikilink">洪助昇</a>、<br />
+旁白：<a href="../Page/東方昇.md" title="wikilink">東方昇</a></p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"><p><strong>旅遊節目</strong><br />
+7月21日、28日及8月18日暫停播映</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>08/09-<br />
+27/10</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/首爾十人" title="wikilink">首爾十人</a><br />
+Seoul Ten</p></td>
+<td style="text-align: center;"><p>8<br />
+(10)</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"><p><strong>文化節目</strong></p></td>
+</tr>
+</tbody>
+</table>
+
+## 星期日（深夜時段）
+
+### 00:00/00:30時段
+
+[香港時間](../Page/香港時間.md "wikilink")逢星期一<small>（星期日深夜）</small>00:00-01:00播出；5月20日起改為逢星期一<small>（星期日深夜）</small>00:30-01:00播出
+
+<table style="width:240%;">
+<colgroup>
+<col style="width: 70%" />
+<col style="width: 21%" />
+<col style="width: 40%" />
+<col style="width: 28%" />
+<col style="width: 60%" />
+<col style="width: 20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: center;"><p>播放日期</p></th>
+<th style="text-align: center;"><p>電視節目名稱</p></th>
+<th style="text-align: center;"><p>集數</p></th>
+<th style="text-align: center;"><p>主持/演出/旁白</p></th>
+<th style="text-align: center;"><p>網頁</p></th>
+<th style="text-align: center;"><p>備-{注}-</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
 <td style="text-align: center;"><p>21/01-<br />
 08/04</p></td>
 <td style="text-align: center;"><p><a href="../Page/對不起_標籤你.md" title="wikilink">對不起 標籤你</a><br />
@@ -3334,7 +3349,7 @@ Tagger</p></td>
 1月28日、2月4日及3月11日改為00:15-01:15播出，2月11日改為00:30-01:30播出，3月18日及25日暫停播映</p></td>
 <td style="text-align: center;"></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p>15/04-<br />
 13/05</p></td>
 <td style="text-align: center;"><p><a href="../Page/精裝送禮仔.md" title="wikilink">精裝送禮仔</a><br />
@@ -3348,9 +3363,9 @@ Jing Jong Sung Lai Jai</p></td>
 4月22日及5月6日暫停播映</p></td>
 <td style="text-align: center;"></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p>06/05-<br />
-16/09</p></td>
+23/09</p></td>
 <td style="text-align: center;"><p><a href="../Page/玩_X_爆泰國.md" title="wikilink">玩 X 爆泰國</a><br />
 X-Sighting Thailand</p></td>
 <td style="text-align: center;"><p>10</p></td>
@@ -3358,12 +3373,12 @@ X-Sighting Thailand</p></td>
 <p><span style="font-size:larger;"><strong>重播節目：</strong><a href="../Page/ViuTV電視節目列表_(2018年).md" title="wikilink">2018年ViuTV節目</a></span></p>
 </div></td>
 <td style="text-align: center;"><p><strong>旅遊節目</strong><br />
-5月6日改為00:30-01:00播出，5月13日、6月10日、7月1日至8月19日暫停播映</p></td>
+5月6日改為00:30-01:00播出，5月13日、6月10日、7月1日至8月26日暫停播映</p></td>
 <td style="text-align: center;"></td>
 </tr>
-<tr class="odd">
-<td style="text-align: center;"><p>23/09-<br />
-25/11</p></td>
+<tr class="even">
+<td style="text-align: center;"><p>30/09-<br />
+02/12</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/衝三小喪玩星馬泰" title="wikilink">衝三小喪玩星馬泰</a><br />
 Three Cyclists Three Countries</p></td>
 <td style="text-align: center;"><p>10</p></td>

@@ -12,8 +12,6 @@
 
 [Category:純電動車](https://zh.wikipedia.org/wiki/Category:純電動車 "wikilink") [Category:梅赛德斯-奔驰](https://zh.wikipedia.org/wiki/Category:梅赛德斯-奔驰 "wikilink")
 
-[en:Mercedes-Benz EQC](https://zh.wikipedia.org/wiki/en:Mercedes-Benz_EQC "wikilink")
-
 1.
 2.
 3.

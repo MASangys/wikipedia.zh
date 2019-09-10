@@ -758,6 +758,8 @@
 | 2019年8月3日                         |
 | 2019 ARAMARINE FESTIVAL(金浦 善良演唱會) |
 | 2019年8月24日                        |
+| 2019年9月20日                        |
+| 2019年9月25日                        |
 
 ## 海外公演活動
 
@@ -779,7 +781,8 @@
 | 2019年8月10日     | K-POP WE\* FRIEND CONCERT IN VIETNAM 2019 | 越南                                |
 | 2019年8月11日     | K-FES 2019                                | 日本大阪                              |
 | 2019年8月18日     | KCON USA 2019 @ LA                        | 美國洛杉磯                             |
-| 2019年8月31日     | V HEARTBEAT 2019 in JAKARTA               | 雅加達                               |
+| 2019年8月31日     | V HEARTBEAT 2019 in JAKARTA               | 印尼雅加達                             |
+| 2019年9月21日     | 2019 K-POP SUPER CONCERT Music Festival   | 菲律賓馬尼拉                            |
 
 ## 參考資料
 

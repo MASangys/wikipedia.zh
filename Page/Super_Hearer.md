@@ -80,7 +80,7 @@
 <td><p>第1集至今</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/黃帝聖" title="wikilink">黃帝聖</a></p></td>
+<td><p><a href="../Page/黃帝聖.md" title="wikilink">黃帝聖</a></p></td>
 <td></td>
 <td></td>
 <td><p>第1集至今</p></td>

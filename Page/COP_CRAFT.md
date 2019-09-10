@@ -112,10 +112,6 @@
 <td><p>2016年10月23日</p></td>
 </tr>
 <tr class="even">
-<td><p>7</p></td>
-<td><p>2019年8月21日</p></td>
-</tr>
-<tr class="odd">
 <td></td>
 <td></td>
 </tr>
@@ -223,18 +219,19 @@
 <td><p>第7話</p></td>
 <td><p>GIRLS ON ICE</p></td>
 <td><p>播摩優</p></td>
-<td><p>内田利明、小林大地、吉田智裕 &lt;!--|-</p></td>
-<td><p>第8話</p></td>
+<td><p>内田利明、小林大地、吉田智裕</p></td>
+<td><p>第三卷</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>第8話</p></td>
+<td><p>SMELLS LIKE TOON SPIRITS</p></td>
+<td><p>田邊慎吾</p></td>
+<td><p>成松義人、田之上慎、EverGreen<br />
+黑皇映画 &lt;!--|-</p></td>
 <td><p>第9話</p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p>|--&gt;</p></td>
 <td></td>
 </tr>
 </tbody>

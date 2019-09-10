@@ -237,7 +237,7 @@
   - [信息网络安全局（INSA）](http://www.insa.gov.et/)
   - 埃塞俄比亚国家情报和安全局（NISS）
 
-### [斐](https://zh.wikipedia.org/wiki/斐濟 "wikilink")
+### [斐](../Page/斐濟.md "wikilink")
 
   - 1987年斐济军政府
       - 斐济情报局

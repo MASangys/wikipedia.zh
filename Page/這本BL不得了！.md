@@ -19,7 +19,7 @@
 
   - 2016年度第一名：《[10 Count](../Page/10_Count.md "wikilink")》[寶井理人](https://zh.wikipedia.org/wiki/寶井理人 "wikilink")\[9\]
   - 2017年度第一名：《憂鬱的早晨》[日高翔子](https://zh.wikipedia.org/wiki/日高翔子 "wikilink")\[10\]
-  - 2018年度第一名：《百與卍》[紗久楽さわ](https://zh.wikipedia.org/wiki/紗久楽さわ "wikilink")\[11\]
+  - 2018年度第一名：《百與卍》[紗久樂さわ](https://zh.wikipedia.org/wiki/紗久樂さわ "wikilink")\[11\]
   - 2019年度第一名：《rumspringa的情景》（ラムスプリンガの情景）[吾妻香夜](https://zh.wikipedia.org/wiki/吾妻香夜 "wikilink")\[12\]
 
 ## 小說獲選名單（僅列出歷屆第一名）

@@ -12,14 +12,21 @@
 ### 團體
 
   - **[MeseMoa.](../Page/MeseMoa..md "wikilink")**
-      - Shirofuku (白服)
+      -
       - Aoi (あおい)
+
       - Kimagure Prince (気まぐれプリンス)
+
       - Nozaki Bento (野崎弁当)
+
       - Nibansenji (二番煎じ)
+
       - Tomitake (とみたけ)
+
       - Forgeru (フォーゲル)
+
       - Nichan (にーちゃん)
+
       - Nokkuso (ノックソ)
 
 <!-- end list -->
@@ -89,6 +96,8 @@
 ## 外部連結
 
   - [會社概要（MeseMoa.官網）](http://www.mesemoa.com/info.html)
+
+  - [會社官方推特](https://twitter.com/info_ddstaff)
 
   - [MeseMoa.官方網站](http://www.mesemoa.com/)
 

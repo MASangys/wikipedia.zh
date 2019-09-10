@@ -1,4 +1,4 @@
-***Zachrysia*** is a [属](https://zh.wikipedia.org/wiki/属 "wikilink") of air-breathing s,  [肺螺類](../Page/肺螺類.md "wikilink") [腹足纲](../Page/腹足纲.md "wikilink") [软体动物](../Page/软体动物.md "wikilink")s in the family [坚齿螺科](../Page/坚齿螺科.md "wikilink") or [高腰蝸牛科](../Page/高腰蝸牛科.md "wikilink").
+***Zachrysia*** is a [属](../Page/属.md "wikilink") of air-breathing s,  [肺螺類](../Page/肺螺類.md "wikilink") [腹足纲](../Page/腹足纲.md "wikilink") [软体动物](../Page/软体动物.md "wikilink")s in the family [坚齿螺科](../Page/坚齿螺科.md "wikilink") or [高腰蝸牛科](../Page/高腰蝸牛科.md "wikilink").
 
 ## 物種
 

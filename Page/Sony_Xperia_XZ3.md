@@ -1,4 +1,4 @@
-**Xperia XZ3**是[索尼行動通訊於](https://zh.wikipedia.org/wiki/索尼行動通訊 "wikilink")2018年8月30日公開發表的高階[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")\[1\]\[2\]。
+**Xperia XZ3**是[索尼行動通訊於](https://zh.wikipedia.org/wiki/索尼行動通訊 "wikilink")2018年8月30日公開發表的高階[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")\[1\]\[2\]\[3\]。
 
 ## 颜色
 
@@ -25,8 +25,10 @@ Xperia XZ3采用[Android 9操作系统](https://zh.wikipedia.org/wiki/Android_9 
 
   - [Xperia XZ3 – Official Website - Sony Mobile (United States)](https://www.sonymobile.com/us/products/phones/xperia-xz3/)
   - [Xperia XZ3 - 官方網站 - Sony Mobile (台灣)](https://www.sonymobile.com/tw/products/phones/xperia-xz3/)
+  - [Xperia XZ3 - 官方網站 - Sony Mobile (香港)](https://www.sonymobile.com/hk/products/phones/xperia-xz3/)
 
 [Category:索尼手機](https://zh.wikipedia.org/wiki/Category:索尼手機 "wikilink") [Category:智慧型手機](https://zh.wikipedia.org/wiki/Category:智慧型手機 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:2018年面世的手機](https://zh.wikipedia.org/wiki/Category:2018年面世的手機 "wikilink")
 
 1.  [Sony IFA 展新品登場！首款 OLED 旗艦手機 XZ3 亮相 | 自由電子報 3C科技](http://3c.ltn.com.tw/news/34483)
 2.  [影音娛樂再升級！Sony 壓軸旗艦 Xperia XZ3 正式發表 - 手機新聞 | ePrice 比價王](https://www.eprice.com.tw/mobile/talk/4551/5121590/1/rv/sony-xperia-xz3-launch/)
+3.  [Sony Xperia XZ3搶閘iPhone　搭載Android 9 Pie 擁OLED曲面螢幕。| TOPick - 香港經濟日報](https://topick.hket.com/article/2150471/Sony%20Xperia%20XZ3%E6%90%B6%E9%96%98iPhone%E3%80%80%E6%90%AD%E8%BC%89Android%209%20Pie%20%E6%93%81OLED%E6%9B%B2%E9%9D%A2%E8%9E%A2%E5%B9%95?mtc=10016/)

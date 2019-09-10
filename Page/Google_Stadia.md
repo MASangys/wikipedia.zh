@@ -12,7 +12,7 @@ Stadia 將分為免費標準版和月費專業版訂閱。專業版月費約為1
 
 ## 硬件
 
-發佈之時，Stadia [伺服器將採用](../Page/服务器.md "wikilink") 2.7 [Ghz](https://zh.wikipedia.org/wiki/吉赫 "wikilink") 之 [Intel](../Page/英特尔.md "wikilink") [x86](https://zh.wikipedia.org/wiki/x86 "wikilink") [中央處理器](../Page/中央处理器.md "wikilink")，支援 [AVX2](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink") [指令集](../Page/指令集架構.md "wikilink")，具備 9.5MB 快取。[圖形處理器](../Page/圖形處理器.md "wikilink")採用客製化 [AMD](../Page/超威半导体.md "wikilink") 硬件，浮點運算速度達 10.7 teraFLOPS\[14\]。伺服器採用[固態硬碟存儲](../Page/固态硬盘.md "wikilink")，並帶有 16GB [記憶體](../Page/随机存取存储器.md "wikilink")。\[15\]
+發佈之時，Stadia [伺服器將採用](../Page/服务器.md "wikilink") 2.7 [Ghz](https://zh.wikipedia.org/wiki/吉赫 "wikilink") 之 [Intel](../Page/英特尔.md "wikilink") [x86](https://zh.wikipedia.org/wiki/x86 "wikilink") [中央處理器](../Page/中央处理器.md "wikilink")，支援 [AVX2](../Page/AVX指令集.md "wikilink") [指令集](../Page/指令集架構.md "wikilink")，具備 9.5MB 快取。[圖形處理器](../Page/圖形處理器.md "wikilink")採用客製化 [AMD](../Page/超威半导体.md "wikilink") 硬件，浮點運算速度達 10.7 teraFLOPS\[14\]。伺服器採用[固態硬碟存儲](../Page/固态硬盘.md "wikilink")，並帶有 16GB [記憶體](../Page/随机存取存储器.md "wikilink")。\[15\]
 
 Stadia 專用之[遊戲手柄以](../Page/手柄.md "wikilink")$69美元發售，形態與 [Xbox One](../Page/Xbox_One.md "wikilink") 控制器和 [DualShock 4](../Page/DualShock.md "wikilink") 類似，並帶有錄製和 [Google Assistant](../Page/Google助理.md "wikilink") 按鈕。手柄可經[無線網絡與伺服器直接連線](../Page/Wi-Fi.md "wikilink")。發售之時，手柄將有四種顏色選擇。\[16\]
 

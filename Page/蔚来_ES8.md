@@ -4,7 +4,7 @@
 
 曾在[内蒙古](https://zh.wikipedia.org/wiki/内蒙古 "wikilink")[牙克石市](../Page/牙克石市.md "wikilink")进行上千公里测试。
 
-2018年6月底面世，报价6万5美元。\[1\]\[2\]\[3\][动力总成](../Page/动力总成.md "wikilink")由[塔塔技术制造](https://zh.wikipedia.org/wiki/塔塔技术 "wikilink")。\[4\]和[罗伯特·博世公司](../Page/罗伯特·博世公司.md "wikilink")也有合作关系。\[5\]
+2018年6月底面世，报价6万5美元。\[1\]\[2\]\[3\][动力总成](../Page/动力总成.md "wikilink")由制造。\[4\]和[罗伯特·博世公司](../Page/罗伯特·博世公司.md "wikilink")也有合作关系。\[5\]
 
 <File:Nio> ES8 rear.jpg| <File:NIO> ES8 01 China 2019-04-02.jpg| <File:Nio> ES8 rear matte blue.jpg
 

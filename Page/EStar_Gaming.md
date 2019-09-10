@@ -110,13 +110,6 @@ eStar全称为eStar Gaming，是一家中国电子竞技俱乐部。是由知名
 <td></td>
 </tr>
 <tr class="even">
-<td><p>MC</p></td>
-<td><p>谢涛</p></td>
-<td><p>辅助</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>无铭</p></td>
 <td><p>张聪</p></td>
 <td><p>辅助</p></td>

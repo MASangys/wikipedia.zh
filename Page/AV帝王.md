@@ -31,7 +31,7 @@
 
 <!-- end list -->
 
-  - 森田望智 飾演 佐原惠美（）\[5\]
+  - 飾演 佐原惠美（）\[5\]
 
 <!-- end list -->
 
@@ -161,7 +161,7 @@
 
   - 飾演 火車便當老闆娘（3）
 
-  - [川上奈奈美](../Page/川上奈奈美.md "wikilink") 飾演 跳槽後被抹殺的女優（3、4）
+  - [川上奈奈美](../Page/川上奈奈美.md "wikilink") 飾演 女優南美久（3、4）
 
   - [相澤南](../Page/相澤南.md "wikilink") 飾演女優 小林良子（3、4）\[10\]
 
@@ -214,7 +214,7 @@
 ## 外部連結
 
   -
-[Category:2019年亮相的日本網絡劇](https://zh.wikipedia.org/wiki/Category:2019年亮相的日本網絡劇 "wikilink") [Category:Netflix原創節目](https://zh.wikipedia.org/wiki/Category:Netflix原創節目 "wikilink") [Category:色情題材作品](https://zh.wikipedia.org/wiki/Category:色情題材作品 "wikilink") [Category:自傳改編電視劇](https://zh.wikipedia.org/wiki/Category:自傳改編電視劇 "wikilink")
+[Category:2019年亮相的日本網絡劇](https://zh.wikipedia.org/wiki/Category:2019年亮相的日本網絡劇 "wikilink") [Category:Netflix原創節目](https://zh.wikipedia.org/wiki/Category:Netflix原創節目 "wikilink") [Category:色情題材作品](https://zh.wikipedia.org/wiki/Category:色情題材作品 "wikilink") [Category:自傳改編電視劇](https://zh.wikipedia.org/wiki/Category:自傳改編電視劇 "wikilink") [Category:昭和時代背景作品](https://zh.wikipedia.org/wiki/Category:昭和時代背景作品 "wikilink") [Category:北海道背景作品](https://zh.wikipedia.org/wiki/Category:北海道背景作品 "wikilink")
 
 1.
 

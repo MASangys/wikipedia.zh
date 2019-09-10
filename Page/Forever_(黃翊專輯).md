@@ -14,7 +14,7 @@
   - iTunes上的[《Forever》](https://itunes.apple.com/hk/album/%E5%BE%A9%E9%BB%91%E7%8E%8B-forever/439962257)
   - 環球唱片網上商店UShop上的[《Forever》](https://ushop.umwebzine.com/2711126.html)
 
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:1991年音樂專輯](https://zh.wikipedia.org/wiki/Category:1991年音樂專輯 "wikilink")
+[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:香港流行音乐专辑](https://zh.wikipedia.org/wiki/Category:香港流行音乐专辑 "wikilink") [Category:1991年音樂專輯](https://zh.wikipedia.org/wiki/Category:1991年音樂專輯 "wikilink")
 
 1.  [《Channel狂碟派》：黃翊 - 好聲音跨世紀再生](https://www.hksingerchannel.com/single-post/2017/09/30/%E3%80%8AChannel%E7%8B%82%E7%A2%9F%E6%B4%BE%E3%80%8B%EF%BC%9A%E9%BB%83%E7%BF%8A-%E5%A5%BD%E8%81%B2%E9%9F%B3%E8%B7%A8%E4%B8%96%E7%B4%80%E5%86%8D%E7%94%9F)，Hong Kong Singer Channel，2017年9月30日
 2.  [黃翊 - Changes (1991)](http://comebacktolove.blogspot.hk/2017/05/changes-1991.html)

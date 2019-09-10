@@ -10,6 +10,8 @@ InfoWars 通過銷售節目中推銷的產品獲得收入，故被稱為「利�
 
 <references />
 
+[Category:美國政治網站](https://zh.wikipedia.org/wiki/Category:美國政治網站 "wikilink") [Category:美国极右翼政治](https://zh.wikipedia.org/wiki/Category:美国极右翼政治 "wikilink") [Category:美國新聞網站](https://zh.wikipedia.org/wiki/Category:美國新聞網站 "wikilink")
+
 1.
 
 2.

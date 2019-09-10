@@ -56,7 +56,7 @@ EXO出道至今，已經在[亞洲地區累積相當高的人氣](https://zh.wik
 
 ### 2016年：正規3輯《EX'ACT》、成員Lay SOLO、子團體EXO-CBX出道、冬季特別專輯《For Life》、Kris與鹿晗結束合約糾紛
 
-[Exo_at_the_Exo'rdium_in_Seoul_2016.jpg](https://zh.wikipedia.org/wiki/File:Exo_at_the_Exo'rdium_in_Seoul_2016.jpg "fig:Exo_at_the_Exo'rdium_in_Seoul_2016.jpg")》首爾場\]\] 5月7日，EXO〈Overdose〉韓文版MV在[Youtube點擊率突破一億](https://zh.wikipedia.org/wiki/Youtube "wikilink")。\[39\] 5月20日〈Growl〉韓文版的MV觀看次數亦突破一億。\[40\]5月31日，EXO所屬公司SM公佈EXO將於6月9日回歸歌壇的消息。6月1日，SM公司釋出此次EXO回歸的概念照。翌日釋出成員概念照，公佈此次回歸將以雙主打〈Lucky One〉及〈Monster〉進行活動。6月3日，公開此次主打歌之一〈Lucky One〉的預告。6月6日公開主打歌之一〈Monster〉的預告。EXO與NAVER期下V APP合作，成為V LIVE+（收費） 的第一組主人公。6月6日及6月7日播出成員個人節目。
+5月7日，EXO〈Overdose〉韓文版MV在[Youtube點擊率突破一億](https://zh.wikipedia.org/wiki/Youtube "wikilink")。\[39\] 5月20日〈Growl〉韓文版的MV觀看次數亦突破一億。\[40\]5月31日，EXO所屬公司SM公佈EXO將於6月9日回歸歌壇的消息。6月1日，SM公司釋出此次EXO回歸的概念照。翌日釋出成員概念照，公佈此次回歸將以雙主打〈Lucky One〉及〈Monster〉進行活動。6月3日，公開此次主打歌之一〈Lucky One〉的預告。6月6日公開主打歌之一〈Monster〉的預告。EXO與NAVER期下V APP合作，成為V LIVE+（收費） 的第一組主人公。6月6日及6月7日播出成員個人節目。
 
 6月8日，EXO舉行回歸Showcase。專輯《EX'ACT》，預售量為66萬180張，當中包括韓文版的44萬2890張及中文版的21萬7290張，創下韓國史上最高預售量的紀錄。\[41\]6月9日，凌晨公佈雙主打中韓版本MV。據統計截止至韓國時間2016年6月9日上午8時，EXO正規3輯《EX'ACT》雙主打曲之一〈Monster〉橫掃8大音源榜1位。另一首主打曲〈Lucky One〉則佔據各音源榜2位。此外，新曲一公開也迅速登上[香港](../Page/香港.md "wikilink")、[印尼](https://zh.wikipedia.org/wiki/印尼 "wikilink")、[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[臺灣](../Page/臺灣.md "wikilink")、[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")、[越南等](https://zh.wikipedia.org/wiki/越南 "wikilink")7國iTunes的第一位，同時佔據了全世界16個國家的iTunes榜單TOP10。
 

@@ -1,43 +1,39 @@
-local func = {}
+local vfxd = {} local yesno = require('Module:Yesno') local mError = require("Module:Error")
 
 local function redtest(text)
 
 `   local test = string.lower(text)`
-`   return not (string.find(test, 'category:') == 1 or string.find(test, '分类:') == 1 or `
-`          string.find(test, '分類:') == 1 or string.find(test, 'file:') == 1 or`
-`          string.find(test, '文件:') == 1 or string.find(test, '檔案:') == 1 or`
-`          string.find(test, 'en:') == 1 or string.find(test, 'ja:') == 1)`
+`   return not (string.find(test,'模块:Vfxd')== 1)`
 
 end
 
-function func.redlink(frame)
+function vfxd.redlink(frame)
 
-`   local text = frame.args[1] or ''`
-`   text = (string.gsub(text, '%[%[([^\n]-)%]%]', function(x)`
-`       if redtest(x) then`
-`           local target = string.gsub(x, '^(.-)%|.-$', '%1')`
-`           local text = string.gsub(x, '^.-%|(.-)$', '%1')`
-
-`           if string.find(target, ':') == 1 then`
-`               if text == target then`
-`                   text = string.sub(text, 2)`
-`               end`
-`               return '`<span style="color:#ba0000">`' .. text .. '`</span>`'`
-`           else`
-`               if (not mw.title.new(target):getContent()) and (not frame.args['nored']) then`
-`                   return '`<span style="color:#ba0000;">`' .. text .. '`</span>`'`
-`               else`
-`                   return '`<span style="color:#ba0000">`' .. text .. '`</span>`'`
-`               end`
-`           end`
+`   local link = frame.args[1] or ''`
+`   local text = frame.args[2] or ''`
+`   if link == '' then`
+`       return mError.error({[1]="錯誤：-{`[`模块:Vfxd`](../Page/模块:Vfxd.md "wikilink")`}-函數redlink之參數1不得為空"})`
+`   else`
+`       if text == '' then`
+`           text = '`<span style="color:#ba0000">`' .. link .. '`</span>`'`
 `       else`
-`           return '`[`'``   ``..``   ``x``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/'_.._x_.._' "wikilink")`'`
+`           text = (string.gsub(text, '%[%[([^\n]-)%]%]', function(x)`
+`               if redtest(x) then`
+`                   local text = string.gsub(x, '^.-%|(.-)$', '%1')`
+`                   if redtext == '' then`
+`                       return text`
+`                   else`
+`                       return '`<span style="color:#ba0000">`' .. text .. '`</span>`'`
+`                   end`
+`               else`
+`                   return  x`
+`               end`
+`           end))`
 `       end`
-`   end))`
-
-`   return text`
+`       return "`[`"``   ``..``   ``text``   ``.."`](https://zh.wikipedia.org/wiki/"_.._link_.._" "wikilink")`"`
+`   end`
+`   `
 
 end
 
-return func
+return vfxd

@@ -1,16 +1,46 @@
-《**偉大的Show**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN於](https://zh.wikipedia.org/wiki/tvN "wikilink")2019年8月26日起播出的[月火連續劇](https://zh.wikipedia.org/wiki/tvN月火連續劇 "wikilink")，由《[隧道](../Page/隧道.md "wikilink")》、《[Cross](../Page/Cross_\(電視劇\).md "wikilink")》、《[捉迷藏](../Page/捉迷藏.md "wikilink")》的申勇輝導演與《[不良主婦](../Page/不良主婦.md "wikilink")》、《[廣告天才李太白](../Page/廣告天才李太白.md "wikilink")》的薛俊錫編劇合作打造。[愛奇藝台灣站自](https://zh.wikipedia.org/wiki/愛奇藝台灣站 "wikilink")8/27起每週二三獨家播出。
+《**偉大的Show**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN於](https://zh.wikipedia.org/wiki/tvN "wikilink")2019年8月26日起播出的[月火連續劇](https://zh.wikipedia.org/wiki/tvN月火連續劇 "wikilink")，由《[隧道](../Page/隧道_\(電視劇\).md "wikilink")》、《[Cross](../Page/Cross_\(電視劇\).md "wikilink")》、《[捉迷藏](https://zh.wikipedia.org/wiki/捉迷藏_\(韓國電視劇\) "wikilink")》的申勇輝導演與《[不良主婦](../Page/不良主婦.md "wikilink")》、《[老千](../Page/老千_\(電視劇\).md "wikilink")》、《[廣告天才李太白](../Page/廣告天才李太白.md "wikilink")》的薛俊錫浙江合作打造。此劇講述前國會議員魏大韓接受了充滿問題的四兄妹後，為了重新進入國會而展開一場「偉大的 SHOW」的故事。\[1\]\[2\]\[3\]\[4\]
+
+[愛奇藝台灣站自](https://zh.wikipedia.org/wiki/愛奇藝台灣站 "wikilink")8/27起每週二三獨家播出。
 
 ## 演員陣容
 
 ### 主要人物
 
-|                                  |        |                                                                                                                                                 |
-| -------------------------------- | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| **演員**                           | **角色** | **介紹**                                                                                                                                          |
-| [宋承憲](../Page/宋承憲.md "wikilink") | 魏大韓    | 前國會議員，是一位希望體現「正義社會」的政治圈新人。擁有快速的頭腦運轉，青山流水的口才，厚臉皮的性格，還有能夠淨化國民眼球的外貌，未料仕途因多舛的家族命運而亮起紅燈。某天，有位自稱是他女兒的18歲少女和四位"無血緣關係"的兄弟姐妹找上門來，他們便聯手對全國民上演一場「偉大的Show」。 |
-| [李善彬](../Page/李善彬.md "wikilink") | 鄭秀賢    | 魏大韓大學時期的學妹。現為時事脫口秀節目《論爭》的主編。富有正義感又愛管閒事性格，無法對任何不正義之事冷眼旁觀。偶然搬到魏大韓家對面後，人生如晴天霹靂般出現許多變化。                                                             |
-| [林周煥](../Page/林周煥.md "wikilink") | 姜俊浩    | 律所律師兼時事評論家，被大眾視為保守陣營的下一代發言人，與其他保守評論家不同,他以靈活、合理及洞察力強的評論受到保守陣營的青睞。雖然看上去知性，品行也端正，其實是一個缺乏家庭溫暖的人物。與魏大韓為長期的競爭對手。                                      |
-|                                  |        |                                                                                                                                                 |
+<table style="width:70%;">
+<colgroup>
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 49%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p><strong>演員</strong></p></td>
+<td><p><strong>角色</strong></p></td>
+<td><p><strong>介紹</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/宋承憲.md" title="wikilink">宋承憲</a><br />
+</p></td>
+<td><p>魏大韓</p></td>
+<td><p>前國會議員，是一位希望體現「正義社會」的政治圈新人。擁有快速的頭腦運轉，青山流水的口才，厚臉皮的性格，還有能夠淨化國民眼球的外貌，未料仕途因多舛的家族命運而亮起紅燈。某天，有位自稱是他女兒的18歲少女和四位"無血緣關係"的兄弟姐妹找上門來，他們便聯手對全國民上演一場「偉大的Show」。</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/李善彬.md" title="wikilink">李善彬</a></p></td>
+<td><p>鄭秀賢</p></td>
+<td><p>魏大韓大學時期的學妹。現為時事脫口秀節目《論爭》的主編。富有正義感又愛管閒事性格，無法對任何不正義之事冷眼旁觀。偶然搬到魏大韓家對面後，人生如晴天霹靂般出現許多變化。</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/林周煥.md" title="wikilink">林周煥</a></p></td>
+<td><p>姜俊浩</p></td>
+<td><p>律所律師兼時事評論家，被大眾視為保守陣營的下一代發言人，與其他保守評論家不同,他以靈活、合理及洞察力強的評論受到保守陣營的青睞。雖然看上去知性，品行也端正，其實是一個缺乏家庭溫暖的人物。與魏大韓為長期的競爭對手。</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ### 魏大韓家
 
@@ -166,7 +196,7 @@
 <tr class="header">
 <th><p>集數</p></th>
 <th><p>播出日期</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/AC尼爾森" title="wikilink">AGB收視率</a>[1]</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/AC尼爾森" title="wikilink">AGB收視率</a>[5]</p></th>
 </tr>
 </thead>
 <tbody>
@@ -177,72 +207,72 @@
 </tr>
 <tr class="even">
 <td><p>1</p></td>
-<td><p>2019/8/26</p></td>
-<td><p>%</p></td>
+<td><p>2019/08/26</p></td>
+<td><p>3.056%</p></td>
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
-<td><p>2019/8/27</p></td>
-<td><p>%</p></td>
+<td><p>2019/08/27</p></td>
+<td><p>2.941%</p></td>
 </tr>
 <tr class="even">
 <td><p>3</p></td>
-<td><p>2019/9/2</p></td>
+<td><p>2019/09/02</p></td>
 <td><p>%</p></td>
 </tr>
 <tr class="odd">
 <td><p>4</p></td>
-<td><p>2019/9/3</p></td>
+<td><p>2019/09/03</p></td>
 <td><p>%</p></td>
 </tr>
 <tr class="even">
 <td><p>5</p></td>
-<td><p>2019/9/9</p></td>
+<td><p>2019/09/09</p></td>
 <td><p>%</p></td>
 </tr>
 <tr class="odd">
 <td><p>6</p></td>
-<td><p>2019/9/10</p></td>
+<td><p>2019/09/10</p></td>
 <td><p>%</p></td>
 </tr>
 <tr class="even">
 <td><p>7</p></td>
-<td><p>2019/9/16</p></td>
+<td><p>2019/09/16</p></td>
 <td><p>%</p></td>
 </tr>
 <tr class="odd">
 <td><p>8</p></td>
-<td><p>2019/9/17</p></td>
+<td><p>2019/09/17</p></td>
 <td><p>%</p></td>
 </tr>
 <tr class="even">
 <td><p>9</p></td>
-<td><p>2019/9/23</p></td>
+<td><p>2019/09/23</p></td>
 <td><p>%</p></td>
 </tr>
 <tr class="odd">
 <td><p>10</p></td>
-<td><p>2019/9/24</p></td>
+<td><p>2019/09/24</p></td>
 <td><p>%</p></td>
 </tr>
 <tr class="even">
 <td><p>11</p></td>
-<td><p>2019/9/30</p></td>
+<td><p>2019/09/30</p></td>
 <td><p>%</p></td>
 </tr>
 <tr class="odd">
 <td><p>12</p></td>
-<td><p>2019/10/1</p></td>
+<td><p>2019/10/01</p></td>
 <td><p>%</p></td>
 </tr>
 <tr class="even">
 <td><p>13</p></td>
-<td><p>2019/10/7</p></td>
+<td><p>2019/10/07</p></td>
 <td><p>%</p></td>
 </tr>
 <tr class="odd">
 <td><p>14</p></td>
-<td><p>2019/10/8</p></td>
+<td><p>2019/10/08</p></td>
 <td><p>%</p></td>
 </tr>
 <tr class="even">
@@ -277,8 +307,12 @@
 
 ## 外部連結
 
-  - [韓國tvN官方網站](http://tvn.tving.com/tvn)
+  - [韓國tvN官方網站](http://program.m.tving.com/tvn/thegreatshow/)
 
 <!-- end list -->
 
 1.
+2.
+3.
+4.
+5.

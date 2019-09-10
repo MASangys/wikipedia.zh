@@ -18,6 +18,6 @@ Soyuz TMA-10M crew in front of their spacecraft.jpg|发射前的队员合影 Soy
 
   - [相关视频](http://www.tvroscosmos.ru/frm/video/start150.php)
 
-[Category:联盟计划](https://zh.wikipedia.org/wiki/Category:联盟计划 "wikilink") [Category:2013年航天](https://zh.wikipedia.org/wiki/Category:2013年航天 "wikilink") [Category:2013年哈萨克斯坦](https://zh.wikipedia.org/wiki/Category:2013年哈萨克斯坦 "wikilink")
+[Category:联盟计划](https://zh.wikipedia.org/wiki/Category:联盟计划 "wikilink") [Category:2013年航天](https://zh.wikipedia.org/wiki/Category:2013年航天 "wikilink") [Category:2013年哈薩克](https://zh.wikipedia.org/wiki/Category:2013年哈薩克 "wikilink")
 
 1.

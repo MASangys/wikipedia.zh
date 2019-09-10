@@ -17,10 +17,17 @@
 <td><p>富士電視台</p></td>
 <td><p>彼らの海・VIII -Sentimental Journey-</p></td>
 <td><p>2006年</p></td>
-<td><p>末吉（主演）、伊藤、与、宇野</p></td>
+<td><p>末吉（主演）、伊藤、與、宇野</p></td>
 <td><p>ボクラノテ主題歌</p></td>
 </tr>
 <tr class="even">
+<td><p>東京電視台</p></td>
+<td><p><a href="../Page/心靈偵探_八雲.md" title="wikilink">心靈偵探 八雲</a></p></td>
+<td><p>2006</p></td>
+<td><p>與（主演）</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>東京電視台</p></td>
 <td><p>美味學院</p></td>
 <td><p>2007年</p></td>
@@ -28,33 +35,82 @@
 <td><p>唇からロマンチカ主題歌<br />
 That's Right插曲</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>朝日電視台</p></td>
 <td><p>音女</p></td>
 <td><p>2008年</p></td>
 <td><p>宇野、末吉、伊藤</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>關西電視台</p></td>
 <td><p>新世紀莎士比亞</p></td>
 <td><p>2008年</p></td>
 <td><p>全員（主演）</p></td>
 <td><p>Mosaic主題歌</p></td>
 </tr>
+<tr class="even">
+<td><p>朝日電視台</p></td>
+<td><p>特命係長 只野仁</p></td>
+<td><p>2009</p></td>
+<td><p>宇野</p></td>
+<td></td>
+</tr>
 <tr class="odd">
+<td><p>日本電視台</p></td>
+<td><p>新・木曜ナイトドラマ LOVE GAME</p></td>
+<td><p>2009</p></td>
+<td><p>與</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>TBS</p></td>
 <td><p>帝王</p></td>
 <td><p>2009年</p></td>
 <td><p>與</p></td>
 <td><p>Break Down主題歌</p></td>
 </tr>
+<tr class="odd">
+<td><p>NHK</p></td>
+<td><p><a href="../Page/Ghost_Friends.md" title="wikilink">Ghost Friends</a></p></td>
+<td><p>2009</p></td>
+<td><p>西島</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>關西電視台</p></td>
+<td><p>まっすぐな男</p></td>
+<td><p>2010</p></td>
+<td><p>宇野</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>TBS</p></td>
+<td><p><a href="../Page/體操男孩.md" title="wikilink">體操男孩</a></p></td>
+<td><p>2010</p></td>
+<td><p>西島</p></td>
+<td></td>
+</tr>
 <tr class="even">
 <td><p>朝日電視台</p></td>
-<td><p>懸崖邊的繪里子</p></td>
+<td><p>崖っぷちのエリー〜この世でいちばん大事な「カネ」の話〜</p></td>
 <td><p>2010年</p></td>
 <td><p>西島（客串）</p></td>
 <td><p><a href="../Page/不屈的心.md" title="wikilink">不屈的心</a>主題歌</p></td>
+</tr>
+<tr class="odd">
+<td><p>富士電視台</p></td>
+<td><p><a href="../Page/外交官_黑田康作.md" title="wikilink">外交官 黑田康作</a></p></td>
+<td><p>2011</p></td>
+<td><p>西島</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>靜岡電視台</p></td>
+<td><p>誰よりも君を愛す!</p></td>
+<td><p>2011</p></td>
+<td><p>西島</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>朝日電視台</p></td>
@@ -65,16 +121,114 @@ That's Right插曲</p></td>
 </tr>
 <tr class="even">
 <td><p>NHK</p></td>
-<td><p>小器君事件簿SP</p></td>
-<td><p>2015年</p></td>
+<td><p><a href="../Page/平清盛.md" title="wikilink">平清盛</a></p></td>
+<td><p>2012</p></td>
+<td><p>西島</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>TBS</p></td>
+<td><p>宮部みゆき・4週連続 “極上”ミステリー 第二夜 スナーク狩り</p></td>
+<td><p>2012</p></td>
+<td><p>與</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>關西電視台</p></td>
+<td><p><a href="../Page/GTO_(2012年电视剧).md" title="wikilink">GTO</a> 正月スペシャル!冬休みも熱血授業だ</p></td>
+<td><p>2013</p></td>
 <td><p>宇野</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>NHK教育</p></td>
+<td><p>青山ワンセグ開発 ちいさいぜ!ちょこやまくん</p></td>
+<td><p>2013</p></td>
+<td><p>宇野（主演）</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>東京電視台</p></td>
+<td><p><a href="../Page/東京玩具箱.md" title="wikilink">東京玩具箱</a></p></td>
+<td><p>2013</p></td>
+<td><p>宇野（主演）</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>LaLa TV</p></td>
+<td><p>恋愛ドラマをもう一度 劇中ドラマ「キスで乾杯」</p></td>
+<td><p>2013</p></td>
+<td><p>宇野</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>NHK</p></td>
+<td><p>太陽の罠</p></td>
+<td><p>2013</p></td>
+<td><p>西島</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>東京電視台</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大東京玩具箱" title="wikilink">大東京玩具箱</a></p></td>
+<td><p>2014</p></td>
+<td><p>宇野（主演）</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>NHK綜合/教育</p></td>
+<td><p>青山ワンセグ開発 ちいさいぜ!ちょこやまくん新作スペシャル</p></td>
+<td><p>2015年</p></td>
+<td><p>宇野（主演）</p></td>
 <td><p>Charge &amp; Go!插曲</p></td>
 </tr>
 <tr class="odd">
+<td><p>BSフジ</p></td>
+<td><p>鈴木光司 リアルホラー「鍵穴」</p></td>
+<td><p>2015</p></td>
+<td><p>宇野</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>富士電視台</p></td>
 <td><p><a href="../Page/追憶潸然.md" title="wikilink">追憶潸然</a></p></td>
 <td><p>2016年</p></td>
 <td><p>西島</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>富士電視台</p></td>
+<td><p><a href="../Page/民眾之敵～這世道，不是很奇怪嗎！？～.md" title="wikilink">民眾之敵～這世道，不是很奇怪嗎！？～</a></p></td>
+<td><p>2017</p></td>
+<td><p>宇野（客串）</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>名古屋電視台</p></td>
+<td><p>名古屋行き最終列車2018</p></td>
+<td><p>2018</p></td>
+<td><p>宇野</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>富士電視台</p></td>
+<td><p>ココア 鈴森香の回</p></td>
+<td><p>2019</p></td>
+<td><p>宇野</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>富士電視台</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Trace〜科搜研之男〜" title="wikilink">Trace〜科搜研之男〜</a></p></td>
+<td><p>2019</p></td>
+<td><p>宇野</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>東京電視台</p></td>
+<td><p>癒されたい男</p></td>
+<td><p>2019</p></td>
+<td><p>宇野</p></td>
 <td></td>
 </tr>
 <tr class="even">

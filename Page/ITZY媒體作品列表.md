@@ -117,7 +117,7 @@
 <tr class="even">
 <td><p>8月10日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/傻瓜们的监狱生活" title="wikilink">傻瓜们的监狱生活</a>》</p></td>
+<td><p>《<a href="../Page/傻瓜們的監獄生活.md" title="wikilink">傻瓜們的監獄生活</a>》</p></td>
 <td><p>22</p></td>
 <td></td>
 <td></td>
@@ -134,6 +134,114 @@
 </tr>
 <tr class="even">
 <td></td>
+<td><p>9月8日</p></td>
+<td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
+<td><p><a href="../Page/Running_Man.md" title="wikilink">《Running Man</a>》</p></td>
+<td></td>
+<td><p>467</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>9月15日</p></td>
+<td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
+<td><p>《<a href="../Page/Running_Man.md" title="wikilink">Running Man</a>》</p></td>
+<td></td>
+<td><p>468</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><h3 id="節目主持">節目主持</h3>
+<table>
+<thead>
+<tr class="header">
+<th><p>年份</p></th>
+<th><p>日期</p></th>
+<th><p>電視台</p></th>
+<th><p>節目名稱</p></th>
+<th><p>參與成員</p></th>
+<th><p>備註</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2019年</p></td>
+<td><p>2月28日</p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a>》</p></td>
+<td><p>禮志</p></td>
+<td><p>Special MC</p></td>
+</tr>
+</tbody>
+</table>
+<h2 id="影音作品">影音作品</h2>
+<h3 id="音樂錄影帶">音樂錄影帶</h3>
+<table>
+<thead>
+<tr class="header">
+<th><p>年份</p></th>
+<th><p>發佈日期</p></th>
+<th><p>專輯</p></th>
+<th><p>M/V</p></th>
+<th><p>Performance Video</p></th>
+<th><p>Dance Practice Video</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2019年</p></td>
+<td><p>2月11日</p></td>
+<td><p>《<a href="../Page/IT&#39;z_Different.md" title="wikilink">IT'z Different</a>》</p></td>
+<td><p>달라달라(DALLA DALLA)[1]</p></td>
+<td><p>달라달라(DALLA DALLA)[2]</p></td>
+<td><p>달라달라(DALLA DALLA)[3][4]</p></td>
+</tr>
+<tr class="even">
+<td><p>5月18日</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td><p>Want It?[5]</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>7月29日</p></td>
+<td><p>《<a href="../Page/IT&#39;z_ICY.md" title="wikilink">IT'z ICY</a>》</p></td>
+<td><p>ICY[6]</p></td>
+<td><p>-</p></td>
+<td><p>ICY[7][8]</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>8月5日</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td><p>IT'z SUMMER[9]</p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h3 id="其他音樂錄影帶">其他音樂錄影帶</h3>
+<table>
+<thead>
+<tr class="header">
+<th><p>發布日期</p></th>
+<th><p>歌曲名稱</p></th>
+<th><p>歌手</p></th>
+<th><p>參與成員</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2017年8月18日</p></td>
+<td><p>LOVE YOURSELF Highlight Reel '起承轉結'[10]</p></td>
+<td><p><a href="../Page/防彈少年團.md" title="wikilink">防彈少年團</a></p></td>
+<td><p>留眞、有娜</p></td>
+</tr>
+</tbody>
+</table>
+<h2 id="參考資料">參考資料</h2></td>
 <td></td>
 <td></td>
 <td></td>
@@ -143,31 +251,6 @@
 </tr>
 </tbody>
 </table>
-
-### 節目主持
-
-| 年份    | 日期    | 電視台                                | 節目名稱                                                                     | 參與成員 | 備註         |
-| ----- | ----- | ---------------------------------- | ------------------------------------------------------------------------ | ---- | ---------- |
-| 2019年 | 2月28日 | [Mnet](../Page/Mnet.md "wikilink") | 《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》 | 禮志   | Special MC |
-
-## 影音作品
-
-### 音樂錄影帶
-
-| 年份    | 發佈日期                                         | 專輯                                                       | M/V                    | Performance Video      | Dance Practice Video        |
-| ----- | -------------------------------------------- | -------------------------------------------------------- | ---------------------- | ---------------------- | --------------------------- |
-| 2019年 | 2月11日                                        | 《[IT'z Different](../Page/IT'z_Different.md "wikilink")》 | 달라달라(DALLA DALLA)\[1\] | 달라달라(DALLA DALLA)\[2\] | 달라달라(DALLA DALLA)\[3\]\[4\] |
-| 5月18日 | \-                                           | \-                                                       | Want It?\[5\]          |                        |                             |
-| 7月29日 | 《[IT'z ICY](../Page/IT'z_ICY.md "wikilink")》 | ICY\[6\]                                                 | \-                     | ICY\[7\]\[8\]          |                             |
-| 8月5日  | \-                                           | \-                                                       | IT'z SUMMER\[9\]       |                        |                             |
-
-### 其他音樂錄影帶
-
-| 發布日期       | 歌曲名稱                                      | 歌手                                   | 參與成員  |
-| ---------- | ----------------------------------------- | ------------------------------------ | ----- |
-| 2017年8月18日 | LOVE YOURSELF Highlight Reel '起承轉結'\[10\] | [防彈少年團](../Page/防彈少年團.md "wikilink") | 留眞、有娜 |
-
-## 參考資料
 
 [Category:作品列表](https://zh.wikipedia.org/wiki/Category:作品列表 "wikilink")
 

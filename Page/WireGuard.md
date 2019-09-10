@@ -13,6 +13,8 @@
   - [WireGuard 源代码](https://git.zx2c4.com/WireGuard)
   - [WireGuard 源代码 Github 镜像](https://github.com/WireGuard)
   - [WireGuard Android 客户端](https://play.google.com/store/apps/details?id=com.wireguard.android)
+  - [WireGuard iOS 客户端](https://apps.apple.com/app/wireguard/id1441195209)
+  - [WireGuard macOS 客户端](https://apps.apple.com/app/wireguard/id1451685025)
 
 [Category:网络协议](https://zh.wikipedia.org/wiki/Category:网络协议 "wikilink") [Category:网络安全](https://zh.wikipedia.org/wiki/Category:网络安全 "wikilink") [Category:安全软件](https://zh.wikipedia.org/wiki/Category:安全软件 "wikilink") [Category:开放源代码](https://zh.wikipedia.org/wiki/Category:开放源代码 "wikilink")
 

@@ -210,6 +210,36 @@
         配音：[柚木涼香](../Page/柚木涼香.md "wikilink")（日本）
         女性，紅色的身軀，[禮服誕生的神仙精靈](https://zh.wikipedia.org/wiki/禮服 "wikilink")，自稱女王。語尾口癖是「だシー（日本）」。
 
+<!-- end list -->
+
+  -
+    配音：
+    女性，51話登場，棕色/黃金色的身軀，[小提琴](../Page/小提琴.md "wikilink")誕生的神仙精靈。
+
+<!-- end list -->
+
+  -
+    配音：
+    女性，51話登場，淺紫色的身軀，[手袋誕生的神仙精靈](https://zh.wikipedia.org/wiki/手袋 "wikilink")。
+
+<!-- end list -->
+
+  -
+    配音：
+    女性，51話登場，粉紅色的身軀，[芭蕾舞](../Page/芭蕾舞.md "wikilink")誕生的神仙精靈，長相類似[兔子](https://zh.wikipedia.org/wiki/兔子 "wikilink")。
+
+<!-- end list -->
+
+  -
+    配音：
+    男性，51話登場，粉紅色的身軀，[氣球誕生的神仙精靈](https://zh.wikipedia.org/wiki/氣球 "wikilink")。
+
+<!-- end list -->
+
+  -
+    配音：
+    女性，51話登場，粉紅色的身軀，[耳環](../Page/耳環.md "wikilink")誕生的神仙精靈。
+
 ### 獨當一面主要神仙精靈
 
   -
@@ -249,7 +279,7 @@
 <!-- end list -->
 
   -
-    配音：[遠藤綾](../Page/遠藤綾.md "wikilink")
+    配音：[嶋村侑](../Page/嶋村侑.md "wikilink")
     男性，49話登場，水藍色的身軀，[行李箱誕生的神仙精靈](https://zh.wikipedia.org/wiki/KIRA_KIRA_HAPPY★_打開吧！見習神仙精靈#本作神仙精靈設施 "wikilink")，已是獨當一面的神仙精靈。
 
 <!-- end list -->

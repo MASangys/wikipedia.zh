@@ -1,6 +1,6 @@
 **臺南市區道列表**列出[臺南市管轄境內的所有區道](https://zh.wikipedia.org/wiki/臺南市 "wikilink")。 臺南市區道目前由1號編至352號（含支線實際有249條）。全市轄區內最長區道為[南化區](https://zh.wikipedia.org/wiki/南化區 "wikilink")[南化水庫](../Page/南化水庫.md "wikilink")東側的**[南179線](https://zh.wikipedia.org/wiki/南179線 "wikilink")**（關山產業道路，27.542 km），其他區道相關統計數據及特點待整個列表完成再詳細地整理及描述。
 
-  - 更新進度→南163-2線
+  - 更新進度→南181-1線
 
 <table>
 <thead>
@@ -2457,111 +2457,88 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><span style="display:none;">z164.0</span> <a href="https://zh.wikipedia.org/wiki/File:TW_THWtn164.svg" title="fig:TW_THWtn164.svg">TW_THWtn164.svg</a><strong><a href="https://zh.wikipedia.org/wiki/南164線" title="wikilink">南164線</a></strong></p></td>
-<td><p>檳榔宅－石𥕢</p></td>
+<td></td>
+<td><p>刺子崙－石𥕢</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/龍崎區" title="wikilink">龍崎區石𥕢里</a></p></td>
-<td><p>檳榔宅石𥕢路口</p></td>
+<td><p>石𥕢店仔</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/龍崎區" title="wikilink">龍崎區石𥕢里</a></p></td>
 <td><p>石𥕢東側三拋崙</p></td>
 <td><p>石𥕢里農路</p></td>
-<td><p>3.511</p></td>
+<td><p>1.959</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><span style="display:none;">z164.1</span> <a href="https://zh.wikipedia.org/wiki/File:TW_THWtn164-1.svg" title="fig:TW_THWtn164-1.svg">TW_THWtn164-1.svg</a><strong><a href="https://zh.wikipedia.org/wiki/南164線#支線" title="wikilink">南164-1線</a></strong></p></td>
-<td><p>石仔坑－柑仔園</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/龍崎區" title="wikilink">龍崎區石𥕢里</a></p></td>
-<td><p>石𥕢店仔</p></td>
-<td><p><span style="display:none;">d1.164</span><a href="https://zh.wikipedia.org/wiki/File:TW_THWtn164.svg" title="fig:TW_THWtn164.svg">TW_THWtn164.svg</a><a href="https://zh.wikipedia.org/wiki/南164線" title="wikilink">南164線</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/左鎮區" title="wikilink">左鎮區二寮里</a></p></td>
-<td><p>柑仔園</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:TW_THWtn162.svg" title="fig:TW_THWtn162.svg">TW_THWtn162.svg</a><a href="https://zh.wikipedia.org/wiki/南162線" title="wikilink">南162線</a></p></td>
-<td><p>4.172</p></td>
 <td></td>
-</tr>
-<tr class="odd">
-<td><p><span style="display:none;">z165.0</span> <a href="https://zh.wikipedia.org/wiki/File:TW_THWtn165.svg" title="fig:TW_THWtn165.svg">TW_THWtn165.svg</a><strong><a href="https://zh.wikipedia.org/wiki/南165線" title="wikilink">南165線</a></strong></p></td>
 <td><p>米市園－大坪</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/龍崎區" title="wikilink">龍崎區石𥕢</a>、大坪里</p></td>
 <td><p>米市園橋旁</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/龍崎區" title="wikilink">龍崎區大坪里</a></p></td>
-<td><p><small>大坪東南側（市界）</small></p></td>
-<td><p><span style="display:none;">db.141</span> <a href="https://zh.wikipedia.org/wiki/高141線" title="wikilink">高141線</a></p></td>
-<td><p>3.536</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><span style="display:none;">z167.0</span> <a href="https://zh.wikipedia.org/wiki/File:TW_THWtn167.svg" title="fig:TW_THWtn167.svg">TW_THWtn167.svg</a><strong><a href="https://zh.wikipedia.org/wiki/南167線" title="wikilink">南167線</a></strong></p></td>
-<td><p>苦苓湖－牛埔</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/龍崎區" title="wikilink">龍崎區龍船里</a></p></td>
-<td><p>苦苓湖龍湖宮前</p></td>
-<td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/龍崎區" title="wikilink">龍崎區牛埔里</a></p></td>
-<td><p>牛埔<a href="https://zh.wikipedia.org/wiki/龍崎區" title="wikilink">龍崎工業區前</a></p></td>
-<td><p>牛埔里農路</p></td>
-<td><p>2.581</p></td>
+<td><p><small><a href="https://zh.wikipedia.org/wiki/龍崎區" title="wikilink">龍崎區大坪里</a>、<a href="../Page/田寮區.md" title="wikilink">田寮區</a>古亭里</small></p></td>
+<td><p><small><a href="https://zh.wikipedia.org/wiki/臺南市" title="wikilink">臺南市</a>、<a href="../Page/高雄市.md" title="wikilink">高雄市</a>界</small></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/高146線" title="wikilink">高146線</a></p></td>
+<td><p>3.572</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><span style="display:none;">z167.1</span> <a href="https://zh.wikipedia.org/wiki/File:TW_THWtn167-1.svg" title="fig:TW_THWtn167-1.svg">TW_THWtn167-1.svg</a><strong><a href="https://zh.wikipedia.org/wiki/南167線#支線" title="wikilink">南167-1線</a></strong></p></td>
-<td><p>苦苓湖－草山</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/龍崎區" title="wikilink">龍崎區龍船里</a></p></td>
-<td><p>苦苓湖東側</p></td>
 <td></td>
+<td><p>草山－牛埔</p></td>
 <td><p><a href="../Page/內門區.md" title="wikilink">內門區</a>三平、木柵里</p></td>
-<td><p><span style="display:none;">NM</span><small>三灣（<a href="../Page/高雄市.md" title="wikilink">高雄市</a>境內）</small></p></td>
-<td><p><span style="display:none;">d2.171</span><small><a href="https://zh.wikipedia.org/wiki/File:TW_THWtn171.svg" title="fig:TW_THWtn171.svg">TW_THWtn171.svg</a><a href="https://zh.wikipedia.org/wiki/南171線" title="wikilink">南171線</a>、 <a href="https://zh.wikipedia.org/wiki/高122線" title="wikilink">高122線</a></small></p></td>
-<td><p>5.328</p></td>
+<td><p><small>三灣（<a href="../Page/高雄市.md" title="wikilink">高雄市</a>境內）</small></p></td>
+<td><p><br />
+<a href="https://zh.wikipedia.org/wiki/高122線" title="wikilink">高122線</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/龍崎區" title="wikilink">龍崎區牛埔里</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/龍崎區" title="wikilink">龍崎工業區前</a></p></td>
+<td><p>牛埔里農路</p></td>
+<td><p>8.186</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><span style="display:none;">z168.0</span> <a href="https://zh.wikipedia.org/wiki/File:TW_THWtn168.svg" title="fig:TW_THWtn168.svg">TW_THWtn168.svg</a><strong><a href="https://zh.wikipedia.org/wiki/南168線" title="wikilink">南168線</a></strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/新化區" title="wikilink">新化</a>－睦光</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/新化區" title="wikilink">新化區武安</a>、東榮里</p></td>
-<td><p><small>中正路、中興路路口</small></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/左鎮區" title="wikilink">左鎮區內庄里</a></p></td>
-<td><p>睦光橋東南側</p></td>
-<td><p><span style="display:none;">b1.20b</span></p></td>
-<td><p>18.458</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/新化區" title="wikilink">新化</a>－睦光</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/新化區" title="wikilink">新化區東榮</a>、知義里</p></td>
+<td><p><small>新化外環道三號橋旁</small></p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/左鎮區" title="wikilink">左鎮區岡林里</a></p></td>
+<td><p>岡林派出所前</p></td>
+<td></td>
+<td><p>11.388</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><span style="display:none;">z168.1</span> <a href="https://zh.wikipedia.org/wiki/File:TW_THWtn168-1.svg" title="fig:TW_THWtn168-1.svg">TW_THWtn168-1.svg</a><strong><a href="https://zh.wikipedia.org/wiki/南168線#tn168-1" title="wikilink">南168-1線</a></strong></p></td>
-<td><p><small>北五甲勢－烏占湖</small></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/新化區" title="wikilink">新化區知義里</a></p></td>
-<td><p><small><a href="../Page/福爾摩沙高速公路.md" title="wikilink">國道三號陸橋下東側</a></small></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:TW_THWtn168.svg" title="fig:TW_THWtn168.svg">TW_THWtn168.svg</a><a href="https://zh.wikipedia.org/wiki/南168線" title="wikilink">南168線</a></p></td>
+<td></td>
+<td><p>北五甲勢－鳥占湖</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/新化區" title="wikilink">新化區東榮</a>、知義里</p></td>
+<td><p><small><a href="../Page/福爾摩沙高速公路.md" title="wikilink">國道三號高架橋下東側</a></small></p></td>
+<td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/新化區" title="wikilink">新化區知義里</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/新化區" title="wikilink">新化苗圃附近</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:TW_THWtn168.svg" title="fig:TW_THWtn168.svg">TW_THWtn168.svg</a><a href="https://zh.wikipedia.org/wiki/南168線" title="wikilink">南168線</a></p></td>
-<td><p>4.617</p></td>
+<td></td>
+<td><p>4.605</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><span style="display:none;">z168.2</span> <a href="https://zh.wikipedia.org/wiki/File:TW_THWtn168-2.svg" title="fig:TW_THWtn168-2.svg">TW_THWtn168-2.svg</a><strong><a href="https://zh.wikipedia.org/wiki/南168線#tn168-2" title="wikilink">南168-2線</a></strong></p></td>
-<td><p>將軍山－尖山</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/新化區" title="wikilink">新化區大坑里</a></p></td>
-<td><p><small>將軍山風空橋西側</small></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:TW_THWtn168.svg" title="fig:TW_THWtn168.svg">TW_THWtn168.svg</a><a href="https://zh.wikipedia.org/wiki/南168線" title="wikilink">南168線</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/新化區" title="wikilink">新化區山腳里</a></p></td>
-<td><p><small>尖山西側山腰</small></p></td>
-<td><p>山腳里農路</p></td>
-<td><p>2.100</p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/左鎮區" title="wikilink">左鎮</a>－大谷山</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/左鎮區" title="wikilink">左鎮區中正</a>、左鎮里</p></td>
+<td><p>風吹嶺吹嶺橋西側</p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/左鎮區" title="wikilink">左鎮區岡林</a>、二寮里</p></td>
+<td><p>大谷山慈媽宮旁</p></td>
+<td></td>
+<td><p>6.946</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><span style="display:none;">z168.3</span> <a href="https://zh.wikipedia.org/wiki/File:TW_THWtn168-3.svg" title="fig:TW_THWtn168-3.svg">TW_THWtn168-3.svg</a><strong><a href="https://zh.wikipedia.org/wiki/南168線#tn168-3" title="wikilink">南168-3線</a></strong></p></td>
-<td><p>臭腳崎－風空</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/新化區" title="wikilink">新化區大坑里</a></p></td>
-<td><p>臭腳崎</p></td>
-<td><p>大坑里農路</p></td>
+<td></td>
+<td><p>風空－大坑</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/新化區" title="wikilink">新化區大坑里</a></p></td>
 <td><p>風空橋旁</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:TW_THWtn168.svg" title="fig:TW_THWtn168.svg">TW_THWtn168.svg</a><a href="https://zh.wikipedia.org/wiki/南168線" title="wikilink">南168線</a></p></td>
-<td><p>1.481</p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/新化區" title="wikilink">新化區大坑里</a></p></td>
+<td><p>大坑尾</p></td>
+<td></td>
+<td><p>3.148</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2569,350 +2546,316 @@
 <td><p>東西崙－觀音山</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/龍崎區" title="wikilink">龍崎區土崎里</a></p></td>
 <td><p>凹窯</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:TW_THWtn162-1.svg" title="fig:TW_THWtn162-1.svg">TW_THWtn162-1.svg</a><a href="https://zh.wikipedia.org/wiki/南162線#tn162-1" title="wikilink">南162-1線</a></p></td>
+<td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/新化區" title="wikilink">新化區大坑里</a></p></td>
 <td><p>大坑國小附近</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:TW_THWtn168.svg" title="fig:TW_THWtn168.svg">TW_THWtn168.svg</a><a href="https://zh.wikipedia.org/wiki/南168線" title="wikilink">南168線</a></p></td>
-<td><p>2.185</p></td>
-<td><p>162-2改</p></td>
+<td></td>
+<td><p>2.165</p></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td><p><span style="display:none;">z169.0</span> <a href="https://zh.wikipedia.org/wiki/File:TW_THWtn169.svg" title="fig:TW_THWtn169.svg">TW_THWtn169.svg</a><strong><a href="https://zh.wikipedia.org/wiki/南169線" title="wikilink">南169線</a></strong></p></td>
+<td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/新化區" title="wikilink">新化</a>－牛稠埔</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/新化區" title="wikilink">新化區護國里</a></p></td>
-<td><p><small>復興路、信義街路口</small></p></td>
-<td><p><span style="display:none;">d1.172</span><a href="https://zh.wikipedia.org/wiki/File:TW_THWtn172.svg" title="fig:TW_THWtn172.svg">TW_THWtn172.svg</a><a href="https://zh.wikipedia.org/wiki/南172線" title="wikilink">南172線</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/關廟區" title="wikilink">關廟區北花里</a></p></td>
+<td><p><small>復興路、復興路290巷路口</small></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/新化區" title="wikilink">新化區市區道路</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/關廟區" title="wikilink">關廟區花園里</a></p></td>
 <td><p>牛稠埔鳳山寺旁</p></td>
 <td></td>
-<td><p>12.427</p></td>
+<td><p>12.372</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><span style="display:none;">z169.1</span> <a href="https://zh.wikipedia.org/wiki/File:TW_THWtn169-1.svg" title="fig:TW_THWtn169-1.svg">TW_THWtn169-1.svg</a><strong><a href="https://zh.wikipedia.org/wiki/南169線#tn169-1" title="wikilink">南169-1線</a></strong></p></td>
-<td><p>五甲勢－新和</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/新化區" title="wikilink">新化區山腳里</a></p></td>
+<td></td>
+<td><p>五甲勢－新知</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/新化區" title="wikilink">新化區山脚里</a></p></td>
 <td><p>五甲勢</p></td>
-<td><p><span style="display:none;">d1.169</span><a href="https://zh.wikipedia.org/wiki/File:TW_THWtn169.svg" title="fig:TW_THWtn169.svg">TW_THWtn169.svg</a><a href="https://zh.wikipedia.org/wiki/南169線" title="wikilink">南169線</a></p></td>
+<td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/新化區" title="wikilink">新化區知義里</a></p></td>
 <td><p>新豐二號橋北側</p></td>
-<td><p><span style="display:none;">d1.168.1</span><a href="https://zh.wikipedia.org/wiki/File:TW_THWtn168-1.svg" title="fig:TW_THWtn168-1.svg">TW_THWtn168-1.svg</a><a href="https://zh.wikipedia.org/wiki/南168線tn168-1" title="wikilink">南168-1線</a></p></td>
-<td><p>1.266</p></td>
+<td></td>
+<td><p>1.248</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><span style="display:none;">z169.2</span> <a href="https://zh.wikipedia.org/wiki/File:TW_THWtn169-2.svg" title="fig:TW_THWtn169-2.svg">TW_THWtn169-2.svg</a><strong><a href="https://zh.wikipedia.org/wiki/南169線#tn169-2" title="wikilink">南169-2線</a></strong></p></td>
+<td></td>
 <td><p>新光－南寮</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/關廟區" title="wikilink">關廟區新光里</a></p></td>
 <td><p>新光國小旁</p></td>
-<td><p><span style="display:none;">d1.169</span><a href="https://zh.wikipedia.org/wiki/File:TW_THWtn169.svg" title="fig:TW_THWtn169.svg">TW_THWtn169.svg</a><a href="https://zh.wikipedia.org/wiki/南169線" title="wikilink">南169線</a></p></td>
+<td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/關廟區" title="wikilink">關廟區新光里</a></p></td>
 <td><p>南寮望龍橋旁</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:TW_THWtn162.svg" title="fig:TW_THWtn162.svg">TW_THWtn162.svg</a><a href="https://zh.wikipedia.org/wiki/南162線" title="wikilink">南162線</a></p></td>
-<td><p>1.168</p></td>
+<td></td>
+<td><p>1.158</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><span style="display:none;">z170.0</span> <a href="https://zh.wikipedia.org/wiki/File:TW_THWtn170.svg" title="fig:TW_THWtn170.svg">TW_THWtn170.svg</a><strong><a href="https://zh.wikipedia.org/wiki/南170線" title="wikilink">南170線</a></strong></p></td>
+<td></td>
 <td><p>竹仔腳－知義</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/新化區" title="wikilink">新化區全興里</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/新化區" title="wikilink">新化區協興</a>、全興里</p></td>
 <td><p>竹仔腳北側</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/新化區" title="wikilink">新化區知義里</a></p></td>
-<td><p>知義橋西側</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:TW_THWtn168.svg" title="fig:TW_THWtn168.svg">TW_THWtn168.svg</a><a href="https://zh.wikipedia.org/wiki/南168線" title="wikilink">南168線</a></p></td>
-<td><p>4.103</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/新化區" title="wikilink">新化區全興</a>、知義里</p></td>
+<td><p>知母義西北側路口</p></td>
+<td></td>
+<td><p>2.678</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><span style="display:none;">z171.0</span> <a href="https://zh.wikipedia.org/wiki/File:TW_THWtn171.svg" title="fig:TW_THWtn171.svg">TW_THWtn171.svg</a><strong><a href="https://zh.wikipedia.org/wiki/南171線" title="wikilink">南171線</a></strong></p></td>
-<td><p>內岡林－草山</p></td>
+<td></td>
+<td><p>睦光－檳榔宅</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/左鎮區" title="wikilink">左鎮區內庄里</a></p></td>
+<td><p>睦光橋東南側</p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/龍崎區" title="wikilink">龍崎區石𥕢里</a></p></td>
+<td><p>檳榔宅石𥕢路口</p></td>
+<td></td>
+<td><p>13.611</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>內岡里－草山</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/左鎮區" title="wikilink">左鎮區岡林里</a></p></td>
 <td><p>內岡林教會前</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:TW_THWtn168.svg" title="fig:TW_THWtn168.svg">TW_THWtn168.svg</a><a href="https://zh.wikipedia.org/wiki/南168線" title="wikilink">南168線</a></p></td>
+<td></td>
 <td><p><a href="../Page/內門區.md" title="wikilink">內門區</a>三平、木柵里</p></td>
-<td><p><span style="display:none;">NM</span><small>三灣（<a href="../Page/高雄市.md" title="wikilink">高雄市</a>境內）</small></p></td>
-<td><p><span style="display:none;">d2.167-1</span><small><a href="https://zh.wikipedia.org/wiki/File:TW_THWtn167-1.svg" title="fig:TW_THWtn167-1.svg">TW_THWtn167-1.svg</a><a href="https://zh.wikipedia.org/wiki/南167線#支線" title="wikilink">南167-1線</a>、 <a href="https://zh.wikipedia.org/wiki/高122線" title="wikilink">高122線</a></small></p></td>
-<td><p>9.121</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><span style="display:none;">z171.1</span> <a href="https://zh.wikipedia.org/wiki/File:TW_THWtn171-1.svg" title="fig:TW_THWtn171-1.svg">TW_THWtn171-1.svg</a><strong><a href="https://zh.wikipedia.org/wiki/南171線#支線" title="wikilink">南171-1線</a></strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/左鎮區" title="wikilink">左鎮</a>－大谷山</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/左鎮區" title="wikilink">左鎮區左鎮里</a></p></td>
-<td><p>風吹嶺吹嶺橋西側</p></td>
-<td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/左鎮區" title="wikilink">左鎮區岡林</a>、澄山里</p></td>
-<td><p>大谷山慈媽宮旁</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:TW_THWtn168.svg" title="fig:TW_THWtn168.svg">TW_THWtn168.svg</a><a href="https://zh.wikipedia.org/wiki/南168線" title="wikilink">南168線</a></p></td>
-<td><p>6.998</p></td>
+<td><p><small>三灣（<a href="../Page/高雄市.md" title="wikilink">高雄市</a>境內）</small></p></td>
+<td><p><br />
+<a href="https://zh.wikipedia.org/wiki/高122線" title="wikilink">高122線</a></p></td>
+<td><p>8.926</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><span style="display:none;">z172.0</span> <a href="https://zh.wikipedia.org/wiki/File:TW_THWtn172.svg" title="fig:TW_THWtn172.svg">TW_THWtn172.svg</a><strong><a href="https://zh.wikipedia.org/wiki/南172線" title="wikilink">南172線</a></strong></p></td>
+<td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/新化區" title="wikilink">新化</a>－三十六崙</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/新化區" title="wikilink">新化區護國里</a></p></td>
-<td><p><small>中山路、復興路路口</small></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/新化區" title="wikilink">新化區市區道路</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/新化區" title="wikilink">新化區護國</a>、東榮里</p></td>
+<td><p>新化高工東側</p></td>
+<td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/新化區" title="wikilink">新化區礁坑里</a></p></td>
 <td><p><small>三十六崙礁坑國小東側</small></p></td>
-<td><p><span style="display:none;">d1.173</span><a href="https://zh.wikipedia.org/wiki/File:TW_THWtn173.svg" title="fig:TW_THWtn173.svg">TW_THWtn173.svg</a><a href="https://zh.wikipedia.org/wiki/南173線" title="wikilink">南173線</a></p></td>
-<td><p>6.613</p></td>
+<td></td>
+<td><p>5.250</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><span style="display:none;">z173.0</span> <a href="https://zh.wikipedia.org/wiki/File:TW_THWtn173.svg" title="fig:TW_THWtn173.svg">TW_THWtn173.svg</a><strong><a href="https://zh.wikipedia.org/wiki/南173線" title="wikilink">南173線</a></strong></p></td>
-<td><p>𦰡拔林－口埤</p></td>
+<td></td>
+<td><p>那拔林－口埤</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/新化區" title="wikilink">新化區𦰡拔里</a></p></td>
 <td><p>𦰡拔派出所前</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/新化區" title="wikilink">新化區知義里</a></p></td>
 <td><p>口埤國小旁</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:TW_THWtn168.svg" title="fig:TW_THWtn168.svg">TW_THWtn168.svg</a><a href="https://zh.wikipedia.org/wiki/南168線" title="wikilink">南168線</a></p></td>
-<td><p>10.389</p></td>
+<td></td>
+<td><p>10.317</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><span style="display:none;">z174.0</span> <a href="https://zh.wikipedia.org/wiki/File:TW_THWtn174.svg" title="fig:TW_THWtn174.svg">TW_THWtn174.svg</a><strong><a href="https://zh.wikipedia.org/wiki/南174線" title="wikilink">南174線</a></strong></p></td>
-<td><p>西埔－苦苓腳</p></td>
+<td></td>
+<td><p>西埔－苦苓湖</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/南化區" title="wikilink">南化區西埔里</a></p></td>
-<td><p><span style="display:none;">NH</span>西埔國小旁</p></td>
-<td><p><span style="display:none;">b1.20b</span></p></td>
+<td><p>西埔國小旁</p></td>
+<td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/南化區" title="wikilink">南化區西埔里</a></p></td>
-<td><p><span style="display:none;">NH</span>西部</p></td>
-<td><p><span style="display:none;">b1.03</span></p></td>
-<td><p>3.948</p></td>
+<td><p>西部</p></td>
+<td></td>
+<td><p>3.936</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><span style="display:none;">z174.1</span> <a href="https://zh.wikipedia.org/wiki/File:TW_THWtn174-1.svg" title="fig:TW_THWtn174-1.svg">TW_THWtn174-1.svg</a><strong><a href="https://zh.wikipedia.org/wiki/南174線#tn174-1" title="wikilink">南174-1線</a></strong></p></td>
-<td><p>湘仔埔－崎腳</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/南化區" title="wikilink">南化區小崙里</a></p></td>
-<td><p><span style="display:none;">NH</span>湘仔埔北側</p></td>
-<td><p><span style="display:none;">b1.03</span></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/南化區" title="wikilink">南化區南化里</a></p></td>
-<td><p><span style="display:none;">NH</span>人仰橋東側</p></td>
-<td><p><span style="display:none;">b1.20b</span></p></td>
-<td><p>3.677</p></td>
 <td></td>
-</tr>
-<tr class="odd">
-<td><p><span style="display:none;">z174.2</span> <a href="https://zh.wikipedia.org/wiki/File:TW_THWtn174-2.svg" title="fig:TW_THWtn174-2.svg">TW_THWtn174-2.svg</a><strong><a href="https://zh.wikipedia.org/wiki/南174線#tn174-2" title="wikilink">南174-2線</a></strong></p></td>
-<td><p>七苓－中坑</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/南化區" title="wikilink">南化區北平里</a></p></td>
-<td><p><span style="display:none;">NH</span>七苓東側</p></td>
-<td><p><span style="display:none;">b1.03</span></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/南化區" title="wikilink">南化區中坑里</a></p></td>
-<td><p><span style="display:none;">NH</span>中坑西側</p></td>
-<td><p><span style="display:none;">b1.20b</span></p></td>
-<td><p>5.748</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><span style="display:none;">z175.0</span> <a href="https://zh.wikipedia.org/wiki/File:TW_THWtn175.svg" title="fig:TW_THWtn175.svg">TW_THWtn175.svg</a><strong><a href="https://zh.wikipedia.org/wiki/南175線" title="wikilink">南175線</a></strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/山上區" title="wikilink">山上</a>－虎頭山</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/山上區" title="wikilink">山上區山上里</a></p></td>
 <td><p>山上分駐所附近</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/山上區" title="wikilink">山上區市區道路</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/新化區" title="wikilink">新化區東榮里</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/新化區" title="wikilink">新化區東榮</a>、知義里</p></td>
 <td><p><a href="../Page/虎頭埤.md" title="wikilink">虎頭埤</a>西側</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:TW_THWtn168.svg" title="fig:TW_THWtn168.svg">TW_THWtn168.svg</a><a href="https://zh.wikipedia.org/wiki/南168線" title="wikilink">南168線</a></p></td>
-<td><p>10.854</p></td>
+<td></td>
+<td><p>10.828</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><span style="display:none;">z176.0</span> <a href="https://zh.wikipedia.org/wiki/File:TW_THWtn176.svg" title="fig:TW_THWtn176.svg">TW_THWtn176.svg</a><strong><a href="https://zh.wikipedia.org/wiki/南176線" title="wikilink">南176線</a></strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/南化區" title="wikilink">南化</a>－竹仔尖</p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/南化區" title="wikilink">南化</a>－竹仔興</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/南化區" title="wikilink">南化區南化里</a></p></td>
-<td><p><span style="display:none;">NH</span>南化東側竹圍橋</p></td>
-<td><p><span style="display:none;">b1.03</span></p></td>
+<td><p>南化東側竹圍橋</p></td>
+<td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/南化區" title="wikilink">南化區東和里</a></p></td>
-<td><p><span style="display:none;">NH</span>厚德紫竹寺前</p></td>
+<td><p>厚德紫竹寺前</p></td>
 <td><p>南化、東和里山路</p></td>
-<td><p>5.255</p></td>
+<td><p>5.201</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><span style="display:none;">z176.1</span> <a href="https://zh.wikipedia.org/wiki/File:TW_THWtn176-1.svg" title="fig:TW_THWtn176-1.svg">TW_THWtn176-1.svg</a><strong><a href="https://zh.wikipedia.org/wiki/南176線#支線" title="wikilink">南176-1線</a></strong></p></td>
+<td></td>
 <td><p>界址－北頭</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/南化區" title="wikilink">南化區西埔里</a></p></td>
-<td><p><span style="display:none;">NH</span>界址</p></td>
-<td><p><span style="display:none;">b1.03</span></p></td>
+<td><p>界址</p></td>
+<td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/南化區" title="wikilink">南化區東和里</a></p></td>
-<td><p><span style="display:none;">NH</span>芎蕉湖北側</p></td>
-<td><p><span style="display:none;">d1.176</span><a href="https://zh.wikipedia.org/wiki/File:TW_THWtn176.svg" title="fig:TW_THWtn176.svg">TW_THWtn176.svg</a><a href="https://zh.wikipedia.org/wiki/南176線" title="wikilink">南176線</a></p></td>
-<td><p>6.300</p></td>
+<td><p>芎蕉湖北側</p></td>
+<td></td>
+<td><p>6.254</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><span style="display:none;">z177.0</span> <a href="https://zh.wikipedia.org/wiki/File:TW_THWtn177.svg" title="fig:TW_THWtn177.svg">TW_THWtn177.svg</a><strong><a href="https://zh.wikipedia.org/wiki/南177線" title="wikilink">南177線</a></strong></p></td>
+<td></td>
 <td><p>大社－𦰡拔林</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/新市區_(台灣)" title="wikilink">新市區大社里</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/新市區_(台灣)" title="wikilink">新市區大營</a>、大社里</p></td>
 <td><p>大社北側</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:TW_THWtn140.svg" title="fig:TW_THWtn140.svg">TW_THWtn140.svg</a><a href="https://zh.wikipedia.org/wiki/南140線" title="wikilink">南140線</a></p></td>
+<td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/新化區" title="wikilink">新化區𦰡拔里</a></p></td>
 <td><p>𦰡拔國小旁</p></td>
 <td></td>
-<td><p>5.196</p></td>
+<td><p>5.136</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><span style="display:none;">z178.0</span> <a href="https://zh.wikipedia.org/wiki/File:TW_THWtn178.svg" title="fig:TW_THWtn178.svg">TW_THWtn178.svg</a><strong><a href="https://zh.wikipedia.org/wiki/南178線" title="wikilink">南178線</a></strong></p></td>
+<td></td>
 <td><p>三埔－油礦</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/玉井區" title="wikilink">玉井區三埔里</a></p></td>
-<td><p><span style="display:none;">YJ</span>三埔橋南側</p></td>
-<td><p><span style="display:none;">b2.03</span>、</p></td>
+<td><p>三埔橋南側</p></td>
+<td><p><br />
+</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/玉井區" title="wikilink">玉井區三埔里</a></p></td>
-<td><p><span style="display:none;">YJ</span>竹頭崎油礦場</p></td>
+<td><p>竹頭崎油礦場</p></td>
 <td><p>三埔里山路</p></td>
-<td><p>2.906</p></td>
+<td><p>2.889</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><span style="display:none;">z179.0</span> <a href="https://zh.wikipedia.org/wiki/File:TW_THWtn179.svg" title="fig:TW_THWtn179.svg">TW_THWtn179.svg</a><strong><a href="https://zh.wikipedia.org/wiki/南179線" title="wikilink">南179線</a></strong></p></td>
-<td><p><small>關山路口－木瓜坑</small></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/南化區" title="wikilink">南化區玉山里</a></p></td>
-<td><p><span style="display:none;">NH</span><small>上歸林關山一號橋</small></p></td>
 <td></td>
+<td><p>關山路口－木瓜坑</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/南化區" title="wikilink">南化區玉山里</a></p></td>
-<td><p><span style="display:none;">NH</span><small>木瓜坑北側（縣市界）</small></p></td>
-<td><p><span style="display:none;">da.149</span> <a href="https://zh.wikipedia.org/wiki/嘉149線" title="wikilink">嘉149線</a></p></td>
-<td><p>27.542</p></td>
+<td><p>上歸林關山一號橋</p></td>
+<td></td>
+<td><p><small><a href="https://zh.wikipedia.org/wiki/南化區" title="wikilink">南化區關山里</a>、<a href="../Page/大埔鄉.md" title="wikilink">大埔鄉</a>茄苳村</small></p></td>
+<td><p><small><a href="https://zh.wikipedia.org/wiki/臺南市" title="wikilink">臺南市</a>、<a href="../Page/嘉義縣.md" title="wikilink">嘉義縣</a>界（關山十七號橋上）</small></p></td>
+<td></td>
+<td><p>27.563</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><span style="display:none;">z179.1</span> <a href="https://zh.wikipedia.org/wiki/File:TW_THWtn179-1.svg" title="fig:TW_THWtn179-1.svg">TW_THWtn179-1.svg</a><strong><a href="https://zh.wikipedia.org/wiki/南179線#支線" title="wikilink">南179-1線</a></strong></p></td>
+<td></td>
 <td><p>灣丘－出火</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/南化區" title="wikilink">南化區關山里</a></p></td>
-<td><p><span style="display:none;">NH</span>關山十五號橋西側</p></td>
-<td><p><span style="display:none;">d1.179</span><a href="https://zh.wikipedia.org/wiki/File:TW_THWtn179.svg" title="fig:TW_THWtn179.svg">TW_THWtn179.svg</a><a href="https://zh.wikipedia.org/wiki/南179線" title="wikilink">南179線</a></p></td>
+<td><p>關山十五號橋西側</p></td>
+<td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/南化區" title="wikilink">南化區關山里</a></p></td>
-<td><p><span style="display:none;">NH</span>出火仔</p></td>
+<td><p>出火仔</p></td>
 <td><p>關山里山路</p></td>
-<td><p>12.142</p></td>
+<td><p>11.883</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><span style="display:none;">z180.0</span> <a href="https://zh.wikipedia.org/wiki/File:TW_THWtn180.svg" title="fig:TW_THWtn180.svg">TW_THWtn180.svg</a><strong><a href="https://zh.wikipedia.org/wiki/南180線" title="wikilink">南180線</a></strong></p></td>
+<td></td>
 <td><p>豐德－平陽</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/山上區" title="wikilink">山上區平陽里</a></p></td>
-<td><p><small>臺糖<a href="https://zh.wikipedia.org/wiki/山上區" title="wikilink">山上加油站東側</a></small></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/山上區" title="wikilink">山上區豐德</a>、平陽里</p></td>
+<td><p>豐德東側</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/山上區" title="wikilink">山上區平陽里</a></p></td>
 <td><p>石仔崎神農廟前</p></td>
 <td><p>平陽里農路</p></td>
-<td><p>1.555</p></td>
+<td><p>1.591</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><span style="display:none;">z181.0</span> <a href="https://zh.wikipedia.org/wiki/File:TW_THWtn181.svg" title="fig:TW_THWtn181.svg">TW_THWtn181.svg</a><strong><a href="https://zh.wikipedia.org/wiki/南181線" title="wikilink">南181線</a></strong></p></td>
-<td><p>渡仔頭－蒙正</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/官田區" title="wikilink">官田區渡頭里</a></p></td>
-<td><p><small><a href="../Page/台1線.md" title="wikilink">縱貫公路新中路口</a></small></p></td>
 <td></td>
+<td><p>渡仔頭－蒙正</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/官田區" title="wikilink">官田區渡拔里</a></p></td>
+<td><p>舊觀月橋北側</p></td>
+<td><p>新觀月橋北端引道</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/大內區" title="wikilink">大內區內江里</a></p></td>
-<td><p><span style="display:none;">DN</span>蒙正</p></td>
+<td><p>蒙正</p></td>
 <td><p>內江里農路</p></td>
-<td><p>8.058</p></td>
+<td><p>10.020</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><span style="display:none;">z181.1</span> <a href="https://zh.wikipedia.org/wiki/File:TW_THWtn181-1.svg" title="fig:TW_THWtn181-1.svg">TW_THWtn181-1.svg</a><strong><a href="https://zh.wikipedia.org/wiki/南181線#支線" title="wikilink">南181-1線</a></strong></p></td>
-<td><p>渡仔頭－新中</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/官田區" title="wikilink">官田區渡頭里</a></p></td>
-<td><p>舊觀月橋南側</p></td>
-<td><p>渡頭、拔林里農路</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/官田區" title="wikilink">官田區渡頭里</a></p></td>
-<td><p><small><a href="../Page/台1線.md" title="wikilink">縱貫公路新中加油站路口</a></small></p></td>
-<td></td>
-<td><p>1.690</p></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p><span style="display:none;">z182.0</span> <a href="https://zh.wikipedia.org/wiki/File:TW_THWtn182.svg" title="fig:TW_THWtn182.svg">TW_THWtn182.svg</a><strong><a href="https://zh.wikipedia.org/wiki/南182線" title="wikilink">南182線</a></strong></p></td>
 <td><p>後堀－內宵里</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/大內區" title="wikilink">大內區內郭里</a></p></td>
-<td><p><span style="display:none;">DN</span>後堀西側</p></td>
+<td><p>後堀西側</p></td>
 <td><p><span style="display:none;">d1.182</span><a href="https://zh.wikipedia.org/wiki/File:TW_THWtn182.svg" title="fig:TW_THWtn182.svg">TW_THWtn182.svg</a><a href="https://zh.wikipedia.org/wiki/南182線" title="wikilink">南182線</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/玉井區" title="wikilink">玉井區豐里里</a></p></td>
-<td><p><span style="display:none;">YJ</span>內宵里南側</p></td>
+<td><p>內宵里南側</p></td>
 <td><p><span style="display:none;">d1.183</span><a href="https://zh.wikipedia.org/wiki/File:TW_THWtn183.svg" title="fig:TW_THWtn183.svg">TW_THWtn183.svg</a><a href="https://zh.wikipedia.org/wiki/南183線" title="wikilink">南183線</a></p></td>
 <td><p>12.307</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><span style="display:none;">z183.0</span> <a href="https://zh.wikipedia.org/wiki/File:TW_THWtn183.svg" title="fig:TW_THWtn183.svg">TW_THWtn183.svg</a><strong><a href="https://zh.wikipedia.org/wiki/南183線" title="wikilink">南183線</a></strong></p></td>
 <td><p>照興－<a href="https://zh.wikipedia.org/wiki/玉井區" title="wikilink">玉井</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/楠西區" title="wikilink">楠西區照興里</a></p></td>
 <td><p><span style="display:none;">NS</span>照興</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/玉井區" title="wikilink">玉井區玉田里</a></p></td>
-<td><p><span style="display:none;">YJ</span><small>中山路、中華路路口</small></p></td>
-<td><p><span style="display:none;">b2.03</span>、</p></td>
+<td><p><small>中山路、中華路路口</small></p></td>
+<td><p>、</p></td>
 <td><p>12.113</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><span style="display:none;">z184.0</span> <a href="https://zh.wikipedia.org/wiki/File:TW_THWtn184.svg" title="fig:TW_THWtn184.svg">TW_THWtn184.svg</a><strong><a href="https://zh.wikipedia.org/wiki/南184線" title="wikilink">南184線</a></strong></p></td>
 <td><p>新莊－唭哩瓦</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/山上區" title="wikilink">山上區山上</a>、新莊里</p></td>
 <td><p><small><a href="https://zh.wikipedia.org/wiki/山上區" title="wikilink">山上淨水廠路口前</a></small></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/大內區" title="wikilink">大內區二溪里</a></p></td>
-<td><p><span style="display:none;">DN</span><small>唭哩瓦環狀山路交叉路口</small></p></td>
+<td><p><small>唭哩瓦環狀山路交叉路口</small></p></td>
 <td><p><span style="display:none;">d1.184</span><a href="https://zh.wikipedia.org/wiki/File:TW_THWtn184.svg" title="fig:TW_THWtn184.svg">TW_THWtn184.svg</a><a href="https://zh.wikipedia.org/wiki/南184線" title="wikilink">南184線</a></p></td>
 <td><p>11.174</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><span style="display:none;">z185.0</span> <a href="https://zh.wikipedia.org/wiki/File:TW_THWtn185.svg" title="fig:TW_THWtn185.svg">TW_THWtn185.svg</a><strong><a href="https://zh.wikipedia.org/wiki/南185線" title="wikilink">南185線</a></strong></p></td>
 <td><p>新庄－石牌</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/玉井區" title="wikilink">玉井區三和里</a></p></td>
-<td><p><span style="display:none;">YJ</span>玉井橋南側</p></td>
+<td><p>玉井橋南側</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/玉井區" title="wikilink">玉井區三和里</a></p></td>
-<td><p><span style="display:none;">YJ</span>石牌仔清水寺前</p></td>
+<td><p>石牌仔清水寺前</p></td>
 <td><p>三和里農路</p></td>
 <td><p>3.260</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><span style="display:none;">z186.0</span> <a href="https://zh.wikipedia.org/wiki/File:TW_THWtn186.svg" title="fig:TW_THWtn186.svg">TW_THWtn186.svg</a><strong><a href="https://zh.wikipedia.org/wiki/南186線" title="wikilink">南186線</a></strong></p></td>
 <td><p>鹿陶－龜丹溫泉</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/玉井區" title="wikilink">玉井區竹圍里</a></p></td>
-<td><p><span style="display:none;">YJ</span>鹿陶（區界）</p></td>
-<td><p><span style="display:none;">b1.03</span></p></td>
+<td><p>鹿陶（區界）</p></td>
+<td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/楠西區" title="wikilink">楠西區龜丹里</a></p></td>
 <td><p><span style="display:none;">NS</span>鐵谷山宮前</p></td>
 <td><p>龜丹里山路</p></td>
 <td><p>5.592</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><span style="display:none;">z186.1</span> <a href="https://zh.wikipedia.org/wiki/File:TW_THWtn186-1.svg" title="fig:TW_THWtn186-1.svg">TW_THWtn186-1.svg</a><strong><a href="https://zh.wikipedia.org/wiki/南186線#支線" title="wikilink">南186-1線</a></strong></p></td>
 <td><p>鹿陶－龜丹</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/楠西區" title="wikilink">楠西區鹿田里</a></p></td>
 <td><p><span style="display:none;">NS</span>鹿洋南橋南側</p></td>
-<td><p><span style="display:none;">b1.03</span></p></td>
+<td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/楠西區" title="wikilink">楠西區龜丹里</a></p></td>
 <td><p><span style="display:none;">NS</span>龜丹西側</p></td>
 <td><p><span style="display:none;">d1.186</span><a href="https://zh.wikipedia.org/wiki/File:TW_THWtn186.svg" title="fig:TW_THWtn186.svg">TW_THWtn186.svg</a><a href="https://zh.wikipedia.org/wiki/南186線" title="wikilink">南186線</a></p></td>
 <td><p>2.600</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><span style="display:none;">z187.0</span> <a href="https://zh.wikipedia.org/wiki/File:TW_THWtn187.svg" title="fig:TW_THWtn187.svg">TW_THWtn187.svg</a><strong><a href="https://zh.wikipedia.org/wiki/南187線" title="wikilink">南187線</a></strong></p></td>
 <td><p>溪頭－<a href="https://zh.wikipedia.org/wiki/楠西區" title="wikilink">楠西</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/楠西區" title="wikilink">楠西區楠西</a>、東勢里</p></td>
 <td><p><span style="display:none;">NS</span><small>水庫路、中興路路口</small></p></td>
-<td><p><span style="display:none;">b2.03</span>、</p></td>
+<td><p>、</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/楠西區" title="wikilink">楠西區楠西</a>、東勢里</p></td>
 <td><p><span style="display:none;">NS</span><small>水庫路、中正路路口</small></p></td>
-<td><p><span style="display:none;">b1.03</span></p></td>
+<td></td>
 <td><p>1.925</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><span style="display:none;">z188.0</span> <a href="https://zh.wikipedia.org/wiki/File:TW_THWtn188.svg" title="fig:TW_THWtn188.svg">TW_THWtn188.svg</a><strong><a href="https://zh.wikipedia.org/wiki/南188線" title="wikilink">南188線</a></strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/楠西區" title="wikilink">楠西</a>－二層坪</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/楠西區" title="wikilink">楠西區東勢里</a></p></td>
@@ -2924,36 +2867,48 @@
 <td><p>10.352</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><span style="display:none;">z189.0</span> <a href="https://zh.wikipedia.org/wiki/File:TW_THWtn189.svg" title="fig:TW_THWtn189.svg">TW_THWtn189.svg</a><strong><a href="https://zh.wikipedia.org/wiki/南189線" title="wikilink">南189線</a></strong></p></td>
 <td><p>斗六－後旦</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/玉井區" title="wikilink">玉井區中正里</a></p></td>
-<td><p><span style="display:none;">YJ</span>舊社斗六代天府前</p></td>
+<td><p>舊社斗六代天府前</p></td>
 <td><p>中正里斗六仔農路</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/玉井區" title="wikilink">玉井區中正里</a></p></td>
-<td><p><span style="display:none;">YJ</span><small>中正路、大成路路口</small></p></td>
-<td><p><span style="display:none;">b1.03</span></p></td>
+<td><p><small>中正路、大成路路口</small></p></td>
+<td></td>
 <td><p>2.738</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><span style="display:none;">z190.0</span> <a href="https://zh.wikipedia.org/wiki/File:TW_THWtn190.svg" title="fig:TW_THWtn190.svg">TW_THWtn190.svg</a><strong><a href="https://zh.wikipedia.org/wiki/南190線" title="wikilink">南190線</a></strong></p></td>
 <td><p>油車－鳳興</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/楠西區" title="wikilink">楠西區鹿田里</a></p></td>
 <td><p><span style="display:none;">NS</span>油車</p></td>
-<td><p><span style="display:none;">b1.03</span></p></td>
+<td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/楠西區" title="wikilink">楠西區灣丘里</a></p></td>
 <td><p><span style="display:none;">NS</span>鳳興東側</p></td>
 <td><p>灣丘里新寮農路</p></td>
 <td><p>1.720</p></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td></td>
+<td><p>七苓－中坑</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/南化區" title="wikilink">南化區北平里</a></p></td>
+<td><p>七苓東側</p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/南化區" title="wikilink">南化區中坑里</a></p></td>
+<td><p>中坑西側</p></td>
+<td></td>
+<td><p>5.748</p></td>
+<td><p>174-2改</p></td>
+</tr>
 <tr class="even">
 <td><p><span style="display:none;">z192.0</span> <a href="https://zh.wikipedia.org/wiki/File:TW_THWtn192.svg" title="fig:TW_THWtn192.svg">TW_THWtn192.svg</a><strong><a href="https://zh.wikipedia.org/wiki/南192線" title="wikilink">南192線</a></strong></p></td>
 <td><p>雙溪－二層坪</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/楠西區" title="wikilink">楠西區密枝里</a></p></td>
 <td><p><span style="display:none;">NS</span>雙溪東側莊敬橋</p></td>
-<td><p><span style="display:none;">b1.03</span></p></td>
+<td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/楠西區" title="wikilink">楠西區灣丘里</a></p></td>
 <td><p><span style="display:none;">NS</span>二層坪附近</p></td>
 <td><p><span style="display:none;">d1.188</span><a href="https://zh.wikipedia.org/wiki/File:TW_THWtn188.svg" title="fig:TW_THWtn188.svg">TW_THWtn188.svg</a><a href="https://zh.wikipedia.org/wiki/南188線" title="wikilink">南188線</a></p></td>
@@ -2976,10 +2931,10 @@
 <td><p><span style="display:none;">z194.0</span> <a href="https://zh.wikipedia.org/wiki/File:TW_THWtn194.svg" title="fig:TW_THWtn194.svg">TW_THWtn194.svg</a><strong><a href="https://zh.wikipedia.org/wiki/南194線" title="wikilink">南194線</a></strong></p></td>
 <td><p>小崙尾－興化寮</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/南化區" title="wikilink">南化區小崙里</a></p></td>
-<td><p><span style="display:none;">NH</span>小崙尾</p></td>
-<td><p><span style="display:none;">b1.03</span></p></td>
+<td><p>小崙尾</p></td>
+<td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/南化區" title="wikilink">南化區小崙里</a></p></td>
-<td><p><span style="display:none;">NH</span><small>小崙（刣牛湖山山腰）</small></p></td>
+<td><p><small>小崙（刣牛湖山山腰）</small></p></td>
 <td><p><span style="display:none;">d1.195</span><a href="https://zh.wikipedia.org/wiki/File:TW_THWtn195.svg" title="fig:TW_THWtn195.svg">TW_THWtn195.svg</a><a href="https://zh.wikipedia.org/wiki/南195線" title="wikilink">南195線</a></p></td>
 <td><p>4.546</p></td>
 <td></td>
@@ -2988,15 +2943,27 @@
 <td><p><span style="display:none;">z195.0</span> <a href="https://zh.wikipedia.org/wiki/File:TW_THWtn195.svg" title="fig:TW_THWtn195.svg">TW_THWtn195.svg</a><strong><a href="https://zh.wikipedia.org/wiki/南195線" title="wikilink">南195線</a></strong></p></td>
 <td><p>小崙尾－興化寮</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/南化區" title="wikilink">南化區小崙里</a></p></td>
-<td><p><span style="display:none;">NH</span><small>小崙尾南側彩鳳橋旁</small></p></td>
-<td><p><span style="display:none;">b1.03</span></p></td>
+<td><p><small>小崙尾南側彩鳳橋旁</small></p></td>
+<td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/南化區" title="wikilink">南化區小崙里</a></p></td>
-<td><p><span style="display:none;">NH</span><small>小崙（刣牛湖山山腰）</small></p></td>
+<td><p><small>小崙（刣牛湖山山腰）</small></p></td>
 <td><p><span style="display:none;">d1.194</span><a href="https://zh.wikipedia.org/wiki/File:TW_THWtn194.svg" title="fig:TW_THWtn194.svg">TW_THWtn194.svg</a><a href="https://zh.wikipedia.org/wiki/南194線" title="wikilink">南194線</a></p></td>
 <td><p>5.052</p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td></td>
+<td><p>湘仔埔－崎腳</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/南化區" title="wikilink">南化區小崙里</a></p></td>
+<td><p>湘仔埔北側</p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/南化區" title="wikilink">南化區南化里</a></p></td>
+<td><p>人仰橋東側</p></td>
+<td></td>
+<td><p>3.677</p></td>
+<td><p>174-1改</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td><p>八老爺－新吉莊</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/柳營區" title="wikilink">柳營區八翁里</a></p></td>
@@ -3008,7 +2975,7 @@
 <td><p>9.251</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>葫蘆埤－七甲</p></td>
 <td><p><a href="../Page/麻豆區.md" title="wikilink">麻豆區</a>寮廍里</p></td>
@@ -3020,7 +2987,7 @@
 <td><p>7.743</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>八甲－大潭</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/歸仁區" title="wikilink">歸仁區八甲里</a></p></td>
@@ -3032,7 +2999,7 @@
 <td><p>9.546</p></td>
 <td><p>(153,149改編)</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>十三甲－龜洞</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/仁德區" title="wikilink">仁德區成功里</a></p></td>

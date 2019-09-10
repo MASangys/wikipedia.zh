@@ -4,7 +4,7 @@
 
 〈Plastic Love〉於1984發行，收錄在[竹內瑪莉亞](../Page/竹內瑪莉亞.md "wikilink")最成功的專輯之一《》裡面，該專輯由竹內瑪莉亞與[山下達郎](../Page/山下達郎.md "wikilink")共同創作\[1\]，歌詞描述一個女人失去了真心喜歡的男人，無論有多少人追求她，都無法擺脫分開造成的孤獨感\[2\]。
 
-〈Plastic Love〉在當時的最高成績只到[Oricon綜合單曲榜第](../Page/Oricon公信榜.md "wikilink")86名\[3\]。到了2017年，一名名叫「Plastic Lover」的[YouTube](../Page/YouTube.md "wikilink")上傳了〈Plastic Love〉的音樂\[4\]，隨著YouTube的[演算法及海外DJ的創作](https://zh.wikipedia.org/wiki/演算法 "wikilink")，歌曲漸漸變得熱門起來，而Plastic Lover發佈的版本觀看次數超過2000萬\[5\]\[6\]\[7\]。
+〈Plastic Love〉在當時的最高成績只到[Oricon綜合單曲榜第](../Page/Oricon公信榜.md "wikilink")86名\[3\]。到了2017年，一名名叫「Plastic Lover」的[YouTube](../Page/YouTube.md "wikilink")上傳了〈Plastic Love〉的音樂\[4\]，隨著YouTube的[演算法及海外DJ的創作](https://zh.wikipedia.org/wiki/演算法 "wikilink")，歌曲漸漸變得熱門起來，而Plastic Lover發佈的版本在YouTube上擁有超過2000萬次的觀看次數\[5\]\[6\]\[7\]。
 
 ## 發行
 

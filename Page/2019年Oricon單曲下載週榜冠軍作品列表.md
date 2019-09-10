@@ -219,7 +219,7 @@
 </tr>
 <tr class="even">
 <td><p>7月29日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/天气之子_(专辑)" title="wikilink">還有愛能做到的事嗎</a></p></td>
+<td><p><a href="../Page/天气之子_(专辑).md" title="wikilink">還有愛能做到的事嗎</a></p></td>
 <td><p><a href="../Page/RADWIMPS.md" title="wikilink">RADWIMPS</a></p></td>
 <td><p>5.4</p></td>
 <td><p>[25]</p></td>
@@ -242,6 +242,20 @@
 <td><p>8月19日</p></td>
 <td><p>3.7</p></td>
 <td><p>[28]</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>8月26日</p></td>
+<td></td>
+<td><p>米津玄師</p></td>
+<td><p>16.4</p></td>
+<td><p>[29]</p></td>
+</tr>
+<tr class="odd">
+<td><p>9月2日</p></td>
+<td><p>6.1</p></td>
+<td><p>[30]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -285,3 +299,5 @@
 26. [RADWIMPS、デジタルシングル2週連続1位2位独占 2週連続4作同時TOP10入り【オリコンランキング】](https://www.oricon.co.jp/news/2141289/full/)
 27. [RADWIMPS、初のデジタルSG・AL3週連続同時1位 「3作以上同時TOP10入り連続週数」歴代1位【オリコンランキング】](https://www.oricon.co.jp/news/2141810/full/)
 28. [RADWIMPS、デジタルSg\&Alが4週連続同時1位【オリコンランキング】](https://www.oricon.co.jp/news/2142255/full/)
+29. [米津玄師『ノーサイド・ゲーム』主題歌がデジタル1位 「通算1位獲得数」歴代単独1位【オリコンランキング】](https://www.oricon.co.jp/news/2142698/full/)
+30. [米津玄師『ノーサイド・ゲーム』主題歌が2週連続1位【オリコンランキング】](https://www.oricon.co.jp/rank/dis/w/2019-09-02/)

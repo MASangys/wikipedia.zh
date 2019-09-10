@@ -1,4 +1,4 @@
-《**Grand Blue**》（），為韓國[SBS電視台於](https://zh.wikipedia.org/wiki/SBS "wikilink")2019年推出的綜藝節目\[1\]，由 [李鐘赫](../Page/李鐘赫.md "wikilink")、[Austin Kang](https://zh.wikipedia.org/wiki/Austin_Kang "wikilink")、[韓錫俊](https://zh.wikipedia.org/wiki/韓錫俊 "wikilink")、[崔勝元](https://zh.wikipedia.org/wiki/崔勝元 "wikilink")、[安炯燮](../Page/安炯燮.md "wikilink")、[朴泰桓](../Page/朴泰桓.md "wikilink")等人\[2\]共同主持，節目主軸為保護海洋、搭建海底公園等任務\[3\]\[4\]。
+《**Grand Blue**》（），為韓國[SBS電視台於](https://zh.wikipedia.org/wiki/SBS "wikilink")2019年推出的綜藝節目\[1\]，由 [李鐘赫](../Page/李鐘赫.md "wikilink")、[Austin Kang](../Page/Austin_Kang.md "wikilink")、[韓錫俊](https://zh.wikipedia.org/wiki/韓錫俊 "wikilink")、[崔勝元](https://zh.wikipedia.org/wiki/崔勝元 "wikilink")、[安炯燮](../Page/安炯燮.md "wikilink")、[朴泰桓](../Page/朴泰桓.md "wikilink")等人\[2\]共同主持，節目主軸為保護海洋、搭建海底公園等任務\[3\]\[4\]。
 
 ## 各集內容
 

@@ -219,7 +219,7 @@
 </tr>
 <tr class="even">
 <td><p>7月29日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/天气之子_(专辑)" title="wikilink">天氣之子</a></p></td>
+<td><p><a href="../Page/天气之子_(专辑).md" title="wikilink">天氣之子</a></p></td>
 <td><p><a href="../Page/RADWIMPS.md" title="wikilink">RADWIMPS</a></p></td>
 <td><p>1.2</p></td>
 <td><p>[26]</p></td>
@@ -244,6 +244,20 @@
 <td><p>[29]</p></td>
 <td></td>
 <td></td>
+</tr>
+<tr class="even">
+<td><p>8月26日</p></td>
+<td><p>0.3</p></td>
+<td><p>[30]</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>9月2日</p></td>
+<td></td>
+<td></td>
+<td><p>0.8</p></td>
+<td><p>[31]</p></td>
 </tr>
 </tbody>
 </table>
@@ -286,3 +300,5 @@
 27. [RADWIMPSの映画『天気の子』サントラ、2週目で合算アルバム1位【オリコンランキング】](https://www.oricon.co.jp/news/2141290/full/)
 28. [RADWIMPS、初のデジタルSG・AL3週連続同時1位 「3作以上同時TOP10入り連続週数」歴代1位【オリコンランキング】](https://www.oricon.co.jp/news/2141810/full/)
 29. [RADWIMPS、デジタルSg\&Alが4週連続同時1位【オリコンランキング】](https://www.oricon.co.jp/news/2142255/full/)
+30. [RADWIMPS『天気の子』5週連続1位 連続獲得週数『グレイテスト・ショーマン』に次ぐ歴代2位タイ【オリコンランキング】](https://www.oricon.co.jp/news/2142697/full/)
+31. [桜井和寿とGAKU-MCによるウカスカジー、初のデジタルランキング1位【オリコンランキング】](https://www.oricon.co.jp/news/2143215/full/)

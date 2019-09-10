@@ -44,7 +44,7 @@
   - 限量版：封面1款，內含寫真書一本（共9款）、CD一張、[QR Code寫真卡三張](../Page/QR碼.md "wikilink")（各成員5款，共45款）、貼紙一張、UNIT寫真卡一組三張（共2款）、Yellow Wood卡一張（共9款）、照片一張（共9款）、海報一張（共3款）。
   - 普通版：封面共有2款（Clé 2版＆Yellow Wood版），內含寫真書一本（共9款）、CD一張（共2款）、[QR Code寫真卡三張](../Page/QR碼.md "wikilink")（各成員5款，共45款）、Yellow Wood卡一張（共9款）、照片一張（共9款）、海報一張（共3款）。
 
-**Clé 2: Yellow Wood Special Edition《台灣獨占精華盤CD+DVD》**
+**Clé 2: Yellow Wood Special Edition《台灣獨占精華盤》**
 
   - 首批贈品：Stray Kids海報一張。96頁豪華寫真冊（《Clé 1 : MIROH》與《Clé 2 : Yellow Wood》2版本寫真之精華）、CD收錄14首歌曲（《Clé 1 : MIROH》7首+《Clé 2 : Yellow Wood》7首）、官方中文歌詞翻譯及成員Thanks to感言中譯、台灣獨家限定中文留言成員小卡（共9款，隨機贈送1款）、台灣獨家限定中文留言拍立得卡片（共9款，隨機贈送1款）。
 

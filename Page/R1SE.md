@@ -9,7 +9,7 @@
 
 ### 團名念法
 
-團名念法為「R．One．S．E」，也可以以**RISE**（上升之意）發音。
+團名念法為「R．One．S．E」，也可以以**RISE**(上升之意)發音。
 
 ### 粉絲名
 
@@ -25,7 +25,7 @@ R1SE的官方粉絲名是「**十二**」，於2019年7月8日正式公開，意
 
 4月6日，騰訊視頻《創造營2019》正式開播，該節目由多家經紀公司推派出101名男練習生相互競爭，最終由周震南、何洛洛、焉栩嘉、夏之光、姚琛、翟瀟聞、張顏齊、劉也、任豪、趙磊、趙讓以限定組合R1SE成員及哇唧唧哇旗下藝人身份展開為期兩年的團體活動。
 
-6月8日，R1SE正式出道並發行單曲《R.1.S.E.》，此曲為電影《MIB星際戰警：跨國行動》中國區推廣曲。
+6月8日，R1SE正式出道並發行單曲《R.1.S.E.》，此曲為電影《黑衣人：全球追擊》中國區主題推廣曲。
 
 6月11日，出席「騰訊電影電視節」完成首次團體走紅毯及直播訪談；6月12日出席「騰訊視頻營銷高峰會」。
 
@@ -39,52 +39,171 @@ R1SE的官方粉絲名是「**十二**」，於2019年7月8日正式公開，意
 
 8月8日，專輯《就要擲地有聲的炸裂》第一主打歌《誰都別吝嗇》發佈；並於8月10日《[明日之子水晶時代](https://zh.wikipedia.org/wiki/明日之子水晶時代 "wikilink")》第8期播出舞台首秀。
 
-8月11日，R1SE專屬綜藝《Super R1SE·蓄能季》中午12點整於騰訊視頻上線播出；8月15日專輯《就要擲地有聲的炸裂》第二主打歌《WORLD WORLD WORLD》發佈。
+8月11日，R1SE專屬綜藝《Super R1SE·蓄能季》中午12點整於騰訊視頻上線播出；8月15日，專輯《就要擲地有聲的炸裂》第二主打歌《WORLD WORLD WORLD》發佈。
+
+8月22日，專輯《就要擲地有聲的炸裂》第三主打歌《十二》發佈；首支團員參與作詞歌曲。
 
 ## 成員介紹
 
-<table>
-<thead>
-<tr class="header">
-<th></th>
-</tr>
-</thead>
+<table style="width:348%;">
+<colgroup>
+<col style="width: 55%" />
+<col style="width: 8%" />
+<col style="width: 13%" />
+<col style="width: 40%" />
+<col style="width: 72%" />
+<col style="width: 40%" />
+<col style="width: 55%" />
+<col style="width: 40%" />
+<col style="width: 8%" />
+<col style="width: 14%" />
+</colgroup>
 <tbody>
 <tr class="odd">
 <td><p>本名</p></td>
+<td><p>國家／地區</p></td>
+<td><p>出生日期</p></td>
+<td><p>身高</p></td>
+<td><p>經紀公司</p></td>
+<td><p>出道位</p></td>
+<td><p>隊內定位</p></td>
+<td><p>粉絲名</p></td>
+<td><p>應援色(色号)</p></td>
+<td><p>應援口號</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/周震南.md" title="wikilink">周震南</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/重慶" title="wikilink">重慶</a></p></td>
+<td></td>
+<td><p>172cm</p></td>
+<td><p>哇唧唧哇娛樂</p></td>
+<td><p>1</p></td>
+<td><p>Leader<br />
+Center</p></td>
+<td><p>南極星</p></td>
+<td><p><strong>星空蓝</strong>（#0c1c38）</p></td>
+<td><p>周震南,震四方,南極星,永不荒。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/何洛洛.md" title="wikilink">何洛洛</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/杭州" title="wikilink">杭州</a></p></td>
+<td></td>
+<td><p>180cm</p></td>
+<td><p>原際畫</p></td>
+<td><p>2</p></td>
+<td><p>Dancer</p></td>
+<td><p>糯米糍</p></td>
+<td><p><strong>粉蓝</strong>（#b0e0e6）</p></td>
+<td><p>１.星河碧洛,許你一諾。 ２.暴雨驟雨不認輸,陪你黃沙變珍珠。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/焉栩嘉" title="wikilink">焉栩嘉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/山東" title="wikilink">山東</a></p></td>
+<td></td>
+<td><p>184cm</p></td>
+<td><p>哇唧唧哇娛樂</p></td>
+<td><p>3</p></td>
+<td><p>Dancer Rapper</p></td>
+<td><p>嘉菲貓</p></td>
+<td><p><strong>柠檬黄</strong>（#fffacd）</p></td>
+<td><p>少年志氣平山海,成名在望焉栩嘉。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/夏之光.md" title="wikilink">夏之光</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/安徽" title="wikilink">安徽</a></p></td>
+<td></td>
+<td><p>180cm</p></td>
+<td><p>哇唧唧哇娛樂</p></td>
+<td><p>4</p></td>
+<td><p>Dancer</p></td>
+<td><p>極光</p></td>
+<td><p><strong>螢光綠</strong>  （#b0ff00）</p></td>
+<td><p>華夏之光,舞動四方;夏之極光,一路有你!</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/姚琛.md" title="wikilink">姚琛</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/重慶" title="wikilink">重慶</a></p></td>
+<td></td>
+<td><p>182cm</p></td>
+<td><p>泛領文化(JYP娱乐中国分公司)</p></td>
+<td><p>5</p></td>
+<td><p>Dancer Rapper</p></td>
+<td><p>Cookies</p></td>
+<td><p><strong>暗夜红</strong>（#620317）</p></td>
+<td><p>扶姚直上,琛風破浪。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/翟潇闻.md" title="wikilink">翟潇闻</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/山東" title="wikilink">山東</a></p></td>
+<td></td>
+<td><p>183cm</p></td>
+<td><p>哇唧唧哇娛樂</p></td>
+<td><p>6</p></td>
+<td><p>Vocal</p></td>
+<td><p>小企鵝</p></td>
+<td><p><strong>融光蓝</strong>（#52f8fa）</p></td>
+<td><p>１.手可摘星辰,我可翟潇聞。 ２.寥落星辰,唯有瀟聞。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/張顏齊.md" title="wikilink">張顏齊</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/重慶" title="wikilink">重慶</a></p></td>
+<td></td>
+<td><p>183cm</p></td>
+<td><p>態度音樂</p></td>
+<td><p>7</p></td>
+<td><p>Rapper</p></td>
+<td><p>小猴子</p></td>
+<td><p><strong>妖娆粉</strong>（#fe9b96）</p></td>
+<td><p>１.見賢思齊,見顏思你。 ２.翻山越海只為你,破凌霄张颜齊。</p>
+<p>３.花果山下最招摇,妖娆还是你妖娆。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/劉也.md" title="wikilink">劉也</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/吉林" title="wikilink">吉林</a></p></td>
+<td></td>
+<td><p>179cm</p></td>
+<td><p>依海文化</p></td>
+<td><p>8</p></td>
+<td><p>Dancer</p></td>
+<td><p>椰汁</p></td>
+<td><p><strong>火红</strong>（#ff2d51）</p></td>
+<td><p>乘風而舞,劉年不負;也路迢迢,初心如故。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/任豪.md" title="wikilink">任豪</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/四川" title="wikilink">四川</a></p></td>
+<td></td>
+<td><p>183cm</p></td>
+<td><p>白色系</p></td>
+<td><p>9</p></td>
+<td><p>Rapper</p></td>
+<td><p>果仁</p></td>
+<td><p><strong>心动蓝</strong>（#00aaff）</p></td>
+<td><p>跟著任豪學炒股,只吃雞腿不吃苦。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/趙磊_(藝人).md" title="wikilink">趙磊</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/福建" title="wikilink">福建</a></p></td>
+<td></td>
+<td><p>181cm</p></td>
+<td><p>哇唧唧哇娛樂</p></td>
+<td><p>10</p></td>
+<td><p>Vocal</p></td>
+<td><p>團子</p></td>
+<td><p><strong>湖水蓝</strong>（#62c4e1）</p></td>
+<td><p>１.團築堡壘,只為趙磊;乘風而飛,一生相隨。 ２.心趙不宣,磊落不凡。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/趙讓_(藝人).md" title="wikilink">趙讓</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/廣東" title="wikilink">廣東</a></p></td>
+<td></td>
+<td><p>185cm</p></td>
+<td><p>SDT娛樂</p></td>
+<td><p>11</p></td>
+<td><p>Dancer</p></td>
+<td><p>小蝸</p></td>
+<td><p><strong>紫罗兰</strong>（#ee82ee）</p></td>
+<td><p>當仁不讓,只為趙讓。</p></td>
 </tr>
 </tbody>
 </table>
@@ -116,16 +235,46 @@ R1SE的官方粉絲名是「**十二**」，於2019年7月8日正式公開，意
 
 ### 單曲
 
-|            |                    |                            |
-| ---------- | ------------------ | -------------------------- |
-| **發佈日期**   | **曲目**             | 備註                         |
-| 2019年8月6日  | R.1.S.E            | R1SE成團曲、專輯《就要掷地有声的炸裂》第二支單曲 |
-| 喊出我的名字     | 專輯《就要掷地有声的炸裂》第一支單曲 |                            |
-| 2019年8月8日  | 誰都別吝嗇              | 專輯《就要掷地有声的炸裂》第一支主打歌        |
-| 2019年8月15日 | WORLD WORLD WORLD  | 專輯《就要掷地有声的炸裂》第二支主打歌        |
-| 2019年      | 十二                 |                            |
-| 就要擲地有聲的炸裂  |                    |                            |
-|            |                    |                            |
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>發佈日期</strong></p></td>
+<td><p><strong>曲目</strong></p></td>
+<td><p>備註</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年8月6日</p></td>
+<td><p>R.1.S.E</p></td>
+<td><p>R1SE成團曲、專輯《就要掷地有声的炸裂》第二支單曲</p></td>
+</tr>
+<tr class="odd">
+<td><p>喊出我的名字</p></td>
+<td><p>專輯《就要掷地有声的炸裂》第一支單曲</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年8月8日</p></td>
+<td><p>誰都別吝嗇</p></td>
+<td><p>專輯《就要掷地有声的炸裂》第一支主打歌</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019年8月15日</p></td>
+<td><p>WORLD WORLD WORLD</p></td>
+<td><p>專輯《就要掷地有声的炸裂》第二支主打歌</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年8月22日</p></td>
+<td><p>十二</p></td>
+<td><p>專輯《就要掷地有声的炸裂》第三支主打歌</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019年8月29日</p></td>
+<td><p>就要擲地有聲的炸裂</p></td>
+<td><p>專輯《就要掷地有声的炸裂》第四支主打歌</p>
+<p><code>-</code></p></td>
+</tr>
+</tbody>
+</table>
 
 ### OST
 
@@ -140,21 +289,21 @@ R1SE的官方粉絲名是「**十二**」，於2019年7月8日正式公開，意
 <tr class="even">
 <td><p>2019年7月18日</p></td>
 <td><p>无愧</p></td>
-<td><p>電影《<a href="https://zh.wikipedia.org/wiki/上海堡壘" title="wikilink">上海堡壘</a>》<br />
+<td><p>電影《<a href="../Page/上海堡垒_(电影).md" title="wikilink">上海堡壘</a>》<br />
 片尾曲</p></td>
 <td><p>全員</p></td>
 </tr>
 <tr class="odd">
 <td><p>2019年7月24日</p></td>
 <td><p>榮耀的戰場</p></td>
-<td><p>電視劇《<a href="../Page/全職高手.md" title="wikilink">全職高手</a>》<br />
+<td><p>電視劇《<a href="../Page/全職高手_(網絡劇).md" title="wikilink">全職高手</a>》<br />
 片尾曲</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2019年8月3日</p></td>
 <td><p>少年如故</p></td>
-<td><p>動畫《<a href="https://zh.wikipedia.org/wiki/魔道祖師" title="wikilink">魔道祖師</a>》<br />
+<td><p>動畫《<a href="../Page/魔道祖师_(动画).md" title="wikilink">魔道祖師</a>》<br />
 羨雲篇推廣曲既片尾曲</p></td>
 <td><p>何洛洛、翟瀟聞、劉也、任豪、趙磊</p></td>
 </tr>

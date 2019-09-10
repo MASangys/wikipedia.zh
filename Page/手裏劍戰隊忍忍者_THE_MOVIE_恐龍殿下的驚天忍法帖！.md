@@ -15,11 +15,11 @@
 | 演員                                                                              | 角色        | 代號               | 台配                                                        | 港配                                                        |
 | ------------------------------------------------------------------------------- | --------- | ---------------- | --------------------------------------------------------- | --------------------------------------------------------- |
 |                                                                                 |           |                  |                                                           |                                                           |
-| [<font color=white>西川俊介</font>](../Page/西川俊介.md "wikilink")                     | 伊賀崎天晴     | 赤忍者（Aka Ninja）   | 待確認                                                       | [<font color=white>鍾見麟</font>](../Page/鍾見麟.md "wikilink") |
+| [<font color=white>西川俊介</font>](../Page/西川俊介.md "wikilink")                     | 伊賀崎天晴     | 赤忍者（Aka Ninja）   | 歐祖豪                                                       | [<font color=white>鍾見麟</font>](../Page/鍾見麟.md "wikilink") |
 |                                                                                 |           |                  |                                                           |                                                           |
 | [<font color=white>松本岳</font>](../Page/松本岳.md "wikilink")                       | 加藤・克勞德・八雲 | 青忍者（Ao Ninja）    | [<font color=white>鈕凱暘</font>](../Page/鈕凱暘.md "wikilink") | [<font color=white>李凱傑</font>](../Page/李凱傑.md "wikilink") |
 |                                                                                 |           |                  |                                                           |                                                           |
-| [<font color=black>中村嘉惟人</font>](../Page/中村嘉惟人.md "wikilink")                   | 松尾凪       | 黃忍者（Ki Ninja）    | 待確認                                                       | [<font color=black>鄧港文</font>](../Page/鄧港文.md "wikilink") |
+| [<font color=black>中村嘉惟人</font>](../Page/中村嘉惟人.md "wikilink")                   | 松尾凪       | 黃忍者（Ki Ninja）    | 胡鎮璽                                                       | [<font color=black>鄧港文</font>](../Page/鄧港文.md "wikilink") |
 |                                                                                 |           |                  |                                                           |                                                           |
 | [<font color=pink>矢野優花</font>](../Page/矢野優花.md "wikilink")                      | 伊賀崎風花     | 白忍者（Shiro Ninja） | [<font color=pink>連思宇</font>](../Page/連思宇.md "wikilink")  | [<font color=pink>凌晞</font>](../Page/凌晞.md "wikilink")    |
 |                                                                                 |           |                  |                                                           |                                                           |
@@ -31,7 +31,7 @@
 
   -
     **伊賀崎好天<small>｜**([笹野高史](https://zh.wikipedia.org/wiki/笹野高史 "wikilink") 飾/台配：待確認/港配：[黃子敬](../Page/黃子敬.md "wikilink"))</small>
-    **伊賀崎旋風<small>｜**([矢柴俊博](https://zh.wikipedia.org/wiki/矢柴俊博 "wikilink") 飾/台配：待確認/港配：[李錦綸](https://zh.wikipedia.org/wiki/李錦綸 "wikilink"))</small>
+    **伊賀崎旋風<small>｜**([矢柴俊博](https://zh.wikipedia.org/wiki/矢柴俊博 "wikilink") 飾/台配：[陳彥鈞](../Page/陳彥鈞.md "wikilink")/港配：[李錦綸](https://zh.wikipedia.org/wiki/李錦綸 "wikilink"))</small>
     **十六夜九衛門<small>｜**([潘惠美](../Page/潘惠美.md "wikilink") 聲/台配：待確認/港配：[劉惠雲](../Page/劉惠雲.md "wikilink")) 聲</small>
 
 ### 原創人物

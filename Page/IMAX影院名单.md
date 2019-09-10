@@ -56,6 +56,8 @@
 
 :\*温哥华 - Science World at Telus World of Science IMAX Dome\[17\] (27m) (15/70, 2D)
 
+:\*列治文 - SilverCity Riverport Cinemas (21.30m×16.09m)(IMAX GT 和 IMAX Digital)
+
 :\*维多利亚 - IMAX VICTORIA, ROYAL BC MUSEUM (25.63m×18.68m) (IMAX GT Laser, 1.43:1)
 
   - **新斯科舍省**
@@ -170,9 +172,13 @@
 
 :\*曼徹斯特（Manchester） – Vue, The Printworks (26.30m×18.80m) (IMAX GT Laser, 1.43:1)
 
-:\*倫敦（London） – Empire, Leicester Square (26.51m×13.95m) (IMAX COMMERCIAL LASER, 1.90:1)
+:\*倫敦（London） – Empire, Leicester Square (26.51m×13.95m) (IMAX GT Laser, 1.90:1)
 
-:\*謝菲爾德（Sheffield） – Cineworld, Valley Centertainment (23.89m×12.92m) (IMAX COMMERCIAL LASER, 1.90:1)
+:\*謝菲爾德（Sheffield） – Cineworld, Valley Centertainment (23.89m×12.92m) (IMAX GT Laser, 1.90:1)
+
+:\*沃特福德(Watford) - Cineworld Watford & IMAX (m×m) (IMAX Commercial Laser, 1.90:1)
+
+:\*魯斯登(Rushden) – Cineworld, Rushden Lakes (23.8mx13.2m) (IMAX Commercial Laser, 1.90:1)
 
 <big>**阿联酋**</big>
 
@@ -246,7 +252,7 @@
 
 <big>**俄罗斯**</big>
 
-:\*莫斯科 – Formula Kino Kutuzovsky & IMAX (27.64m×15.57m) (Laser, 1.90:1)
+:\*莫斯科 – Formula Kino Kutuzovsky & IMAX (27.64m×15.57m) (IMAX GT Laser, 1.43:1)
 
 <big>**韩国**</big>
 
@@ -262,7 +268,15 @@
 
 <big>**墨西哥**</big>
 
+:\*阿瓜斯卡連特斯 – DOMO IMAX, DESCUBRE MUSEO INTERACTIVE CIENCIA Y TECNOLOGÍA</ref> (15/70, 2D)
+
 :\*蒙特雷 - Megapantalla IMAX Bonorte (21m×16.00m) (IMAX GT Laser, 1.43:1)
+
+:\*聖佩德羅加爾薩加西亞– DOMO IMAX, PLANETARIO ALFA </ref> (15/70, 2D)
+
+:\*墨西哥城 – [Papalote Museo Del Niño](https://zh.wikipedia.org/wiki/Papalote_Museo_del_Niño "wikilink")
+
+:\*提華納 – DOMO IMAX, CENTRO CULTURAL TIJUANA</ref> (15/70, 2D)
 
 <big>**卡塔爾**</big>
 
@@ -301,6 +315,14 @@
 :\*帕賽市 - SM Mall of Asia\[40\] (28.95m×21.94m) (IMAX GT 和 IMAX Digital, 1.43:1)
 
 :\*拉斯皮尼亚斯 - Vista Cinemas, Evia Lifestyle Center\[41\] (2018年11月19日)(m×m)(IMAX COMMERCIAL LASER, 1.90:1)
+
+<big>**葡萄牙**</big>
+
+:\*波多 - IMAX Cinemas NOS MarShopping Matosinhos (22.82m×12.86m)(IMAX COMMERCIAL LASER, 1.90:1)
+
+:\*里斯本 - IMAX Cinemas NOS Colombo (21.39m×11.97m) (IMAX COMMERCIAL LASER, 1.90:1)
+
+:\*卡斯凱什 - IMAX Cinemas NOS CascaisShopping (20.84m×11.58m) (IMAX COMMERCIAL LASER, 1.90:1)
 
 <big>**斯洛伐克**</big>
 

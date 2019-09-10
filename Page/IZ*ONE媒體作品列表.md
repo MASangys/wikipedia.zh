@@ -342,8 +342,8 @@
 </tr>
 <tr class="odd">
 <td><p>8月19日</p></td>
-<td><p>日本电视台</p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/闲聊007" title="wikilink">闲聊007</a>》</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -393,55 +393,62 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>2019年8月21日、28日、9月4日</p></td>
+<td><p>宮脇咲良、本田仁美、曺柔理、权恩妃、姜惠元、金玟周[10]</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>2019年2月2日</p></td>
 <td></td>
 <td><p>JJANG! KOREA</p></td>
 <td><p>全員</p></td>
-<td><p>[10]</p></td>
+<td><p>[11]</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2019年2月7日</p></td>
 <td></td>
 <td><p>Lovely Day♡</p></td>
 <td><p>宫脇咲良、曺柔理、崔叡娜、矢吹奈子、金玟周</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2019年2月9日</p></td>
 <td></td>
 <td><p>MYSTERIOUS RADIO CULT</p></td>
 <td><p>张员瑛、安兪真、权恩妃、姜惠元、本田仁美、金采源、李彩演</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2019年2月13日</p></td>
 <td><p><a href="../Page/文化放送_(日本).md" title="wikilink">文化放送</a></p></td>
 <td></td>
 <td><p>宫脇咲良、曺柔理、崔叡娜、矢吹奈子、金玟周</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2019年2月16日</p></td>
 <td><p>FM yokohama</p></td>
 <td><p>Radio HITS Radio</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2019年2月25日</p></td>
 <td><p><a href="../Page/J-WAVE.md" title="wikilink">J-WAVE</a></p></td>
 <td><p>STEP ONE</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2019年6月19日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/NHK广播第1频率" title="wikilink">NHK广播第1频率</a></p></td>
 <td><p>古家正亨的POP★A</p></td>
 <td><p>全員</p></td>
 <td><p>张员瑛因年龄而事前录制</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2019年6月24日</p></td>
 <td></td>
 <td><p>Delight</p></td>
@@ -465,3 +472,4 @@
 8.
 9.
 10.
+11.

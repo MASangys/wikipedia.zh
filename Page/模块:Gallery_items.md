@@ -5,7 +5,7 @@ function p.main(frame)
 `   local getArgs = require('Module:Arguments').getArgs`
 `   local args = getArgs(frame)`
 
-`   local width = args.width or '150px'`
+`   local width = args.width or '150'`
 
 `   local items = {}`
 `   for k, v in pairs(args) do`
@@ -13,18 +13,27 @@ function p.main(frame)
 `           local i = math.floor(k/2) + 1`
 `           local item = mw.html.create('li')`
 `               :addClass('gallerybox')`
-`               :css('width', args['width' .. k] or width)`
+`               :css('width', (args['width' .. k] or width)+5 .. 'px')`
 `           item:tag('div')`
-`                   :css('width', args['width' .. k] or width)`
-`                   :css('text-align', args['itemalign'] or 'center')`
-`                   :css('margin', '0 auto')`
-`                   :wikitext(args[k])`
+`                   :addClass('thumb')`
+`                   :css('width', (args['width' .. k] or width) .. 'px')`
+`                   :css('text-align', args['itemalign'])`
+`                   :wikitext('`
+
+<div style="margin:0px auto">
+
+' .. args\[k\] .. '
+
+</div>
+
+')
+
 `           if args[tonumber(k)+1] then`
 `               item`
 `                   :tag('div')`
 `                   :addClass('gallerytext')`
-`                   :css('width', args['width' .. k] or width)`
-`                   :css('text-align', args['captionalign'] or 'center')`
+`                   :css('width', (args['width' .. k] or width) .. 'px')`
+`                   :css('text-align', args['captionalign'])`
 `                   :wikitext('`
 
 ' .. args\[tonumber(k)+1\] .. '
@@ -36,12 +45,12 @@ function p.main(frame)
 `       end`
 `   end`
 `   local root = mw.html.create('ul')`
-`       :addClass('gallery mw-gallery-nolines nochecker')`
+`       :addClass('gallery mw-gallery-nolines gallery-items')`
 `       :addClass(args.class)`
 `       :cssText(args.style)`
 `       :wikitext(table.concat(items))`
 `   `
-`   return frame:extensionTag{ name = 'gallery' } .. tostring(root)`
+`   return frame:extensionTag {name = 'templatestyles', args = {src = 'Gallery items/styles.css'}} .. frame:extensionTag{ name = 'gallery' } .. tostring(root)`
 
 end
 

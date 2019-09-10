@@ -31,11 +31,11 @@
 </tbody>
 </table>
 
-《**Player》**（）是在[tvN上播出的](../Page/TVN.md "wikilink")[电视节目](../Page/电视节目.md "wikilink")，玩家們需忍笑並履行各自任務的節目 \[1\]。
+《**Player**》（，）是在[tvN上播出的](../Page/TVN.md "wikilink")[电视节目](../Page/电视节目.md "wikilink")，玩家們需忍笑並履行各自任務的節目 \[1\]。
 
 ## 節目概要
 
-笑的那一瞬間，出演费就要减少了！七个男人的笑声陷阱逃脱記。
+以「笑的那一瞬間，出演费就要减少了！七个男人的笑声陷阱逃脱記。」為標語，每一次錄影都以不同場景及主題為中心\[2\]，出演成員亦會配合主題裝扮不同角色。成員需要忍著笑完成多個任務，笑的瞬間，成員頭上的裝置會噴出水柱作為懲罰，同時成員的出演費亦會減少一萬韓圓\[3\]。
 
 ## 播放时间
 
@@ -66,37 +66,37 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/金東炫.md" title="wikilink">金東炫</a></p></td>
-<td><p>笑容斗士！</p></td>
+<td><p>現在幾乎是(?)笑星</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/黃帝聖" title="wikilink">黃帝聖</a></p></td>
-<td></td>
+<td><p><a href="../Page/黃帝聖.md" title="wikilink">黃帝聖</a></p></td>
+<td><p>公開喜劇屆總統</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/李陳鎬" title="wikilink">李陳鎬</a></p></td>
+<td><p><a href="../Page/李陳鎬.md" title="wikilink">李陳鎬</a></p></td>
 <td><p>骨子裹就是搞笑藝人</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/李龍眞" title="wikilink">李龍眞</a></p></td>
+<td><p><a href="../Page/李龍眞.md" title="wikilink">李龍眞</a></p></td>
 <td><p>相信而看的藝能大勢</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/李伊庚.md" title="wikilink">李伊庚</a></p></td>
-<td><p>完美的扑克脸</p></td>
+<td><p>搞笑演技美男</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>新兴人物</p></td>
+<td><p>老么玩家</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -151,7 +151,7 @@
 <td><p>5</p></td>
 <td><p>8月11日</p></td>
 <td><p>第一個行程 + 春川文學社團MT + 妈咪手味道食堂</p></td>
-<td><p><a href="../Page/朴素賢.md" title="wikilink">朴素賢</a>、<a href="../Page/劉憲華.md" title="wikilink">Henry</a>(實習Player)、<a href="../Page/張東民.md" title="wikilink">張東民</a>、Jonathan Thona、<a href="../Page/林湖.md" title="wikilink">林湖</a>、、、、<a href="../Page/洪允和.md" title="wikilink">洪允和</a>、<a href="../Page/率滨.md" title="wikilink">率滨</a>(<a href="../Page/LABOUM.md" title="wikilink">LABOUM</a>)、<a href="../Page/金素慧.md" title="wikilink">金素慧</a></p></td>
+<td><p><a href="../Page/朴素賢.md" title="wikilink">朴素賢</a>、<a href="../Page/劉憲華.md" title="wikilink">Henry</a>(實習Player)、<a href="../Page/張東民.md" title="wikilink">張東民</a>、、<a href="../Page/林湖.md" title="wikilink">林湖</a>、、、、<a href="../Page/洪允和.md" title="wikilink">洪允和</a>、<a href="../Page/率滨.md" title="wikilink">率滨</a>(<a href="../Page/LABOUM.md" title="wikilink">LABOUM</a>)、<a href="../Page/金素慧.md" title="wikilink">金素慧</a></p></td>
 </tr>
 <tr class="even">
 <td><p>6</p></td>
@@ -162,10 +162,16 @@
 <tr class="odd">
 <td><p>7</p></td>
 <td><p>8月25日</p></td>
-<td><p>熾熱兄弟之操縱相親 (Part 2) + 作戰名爸爸的挑戰 + 不要笑家族娛樂館</p></td>
-<td><p>、、<a href="../Page/吳英實.md" title="wikilink">吳英實</a>、<a href="../Page/吳夏榮.md" title="wikilink">吳夏榮</a>(<a href="../Page/Apink.md" title="wikilink">Apink</a>)、<a href="../Page/秀斌.md" title="wikilink">秀斌</a>(<a href="https://zh.wikipedia.org/wiki/宇宙少女" title="wikilink">宇宙少女</a>)</p></td>
+<td><p>熾熱兄弟之操縱相親 (Part 2) + 作戰名爸爸的挑戰 + 不要笑家族娛樂館 (Part 1)</p></td>
+<td><p>、<a href="../Page/張東民.md" title="wikilink">張東民</a>、<a href="../Page/徐宥利.md" title="wikilink">徐宥利</a>、、、<a href="../Page/吳英實.md" title="wikilink">吳英實</a>、<a href="../Page/朴美善.md" title="wikilink">朴美善</a>、<a href="../Page/申智.md" title="wikilink">申智</a>(<a href="../Page/高耀太.md" title="wikilink">高耀太</a>)、<a href="../Page/李秀智.md" title="wikilink">李秀智</a>、<a href="../Page/吳夏榮.md" title="wikilink">吳夏榮</a>(<a href="../Page/Apink.md" title="wikilink">Apink</a>)、<a href="../Page/秀斌.md" title="wikilink">秀斌</a>(<a href="https://zh.wikipedia.org/wiki/宇宙少女" title="wikilink">宇宙少女</a>)</p></td>
 </tr>
 <tr class="even">
+<td><p>8</p></td>
+<td><p>9月1日</p></td>
+<td><p>不要笑家族娛樂館 (Part 2) + 真的危險的邀請 + Show Me The Play</p></td>
+<td><p>、<a href="../Page/吳英實.md" title="wikilink">吳英實</a>、<a href="../Page/朴美善.md" title="wikilink">朴美善</a>、<a href="../Page/申智.md" title="wikilink">申智</a>(<a href="../Page/高耀太.md" title="wikilink">高耀太</a>)、<a href="../Page/李秀智.md" title="wikilink">李秀智</a>、<a href="../Page/吳夏榮.md" title="wikilink">吳夏榮</a>(<a href="../Page/Apink.md" title="wikilink">Apink</a>)、<a href="../Page/秀斌.md" title="wikilink">秀斌</a>(<a href="https://zh.wikipedia.org/wiki/宇宙少女" title="wikilink">宇宙少女</a>)、<a href="../Page/朴瑟琪.md" title="wikilink">朴瑟琪</a>、<a href="../Page/李聖經.md" title="wikilink">李聖經</a>、<a href="../Page/梁東根.md" title="wikilink">梁東根</a>、<a href="../Page/張東民.md" title="wikilink">張東民</a>、<a href="../Page/金鍾旼.md" title="wikilink">金鍾旼</a>(<a href="../Page/高耀太.md" title="wikilink">高耀太</a>)、<a href="../Page/Dynamic_Duo.md" title="wikilink">Dynamic Duo</a>、、<a href="../Page/DinDin.md" title="wikilink">DinDin</a>、<a href="../Page/金元植.md" title="wikilink">Ravi</a>(<a href="../Page/VIXX.md" title="wikilink">VIXX</a>)、<a href="../Page/趙旴燦.md" title="wikilink">趙旴燦</a></p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -183,7 +189,7 @@
 <tr class="header">
 <th><p>集數</p></th>
 <th><p>播出日期</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/AGB尼爾森" title="wikilink">AGB尼爾森</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/AC尼爾森" title="wikilink">AGB尼爾森收視率</a>[4][5]</p></th>
 </tr>
 </thead>
 <tbody>
@@ -224,6 +230,7 @@
 <p>2019年8月4日</p>
 </center></td>
 <td><center>
+<p>1.3%</p>
 </center></td>
 </tr>
 <tr class="even">
@@ -232,6 +239,7 @@
 <p>2019年8月11日</p>
 </center></td>
 <td><center>
+<p>1.3%</p>
 </center></td>
 </tr>
 <tr class="odd">
@@ -249,7 +257,6 @@
 <p>2019年8月25日</p>
 </center></td>
 <td><center>
-<p>%</p>
 </center></td>
 </tr>
 <tr class="odd">
@@ -300,3 +307,7 @@
 [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
 
 1.
+2.
+3.
+4.
+5.

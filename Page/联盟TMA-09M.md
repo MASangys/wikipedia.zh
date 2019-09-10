@@ -24,7 +24,7 @@ Soyuz TMA-09M spacecraft at the Baikonur Cosmodrome launch pad (2).jpg|发射前
 
   - [相关视频](http://tvroscosmos.ru/frm/kosmostv/vesti/2013/vesti280513-1.php)
 
-[Category:联盟计划](https://zh.wikipedia.org/wiki/Category:联盟计划 "wikilink") [Category:2013年航天](https://zh.wikipedia.org/wiki/Category:2013年航天 "wikilink") [Category:2013年哈萨克斯坦](https://zh.wikipedia.org/wiki/Category:2013年哈萨克斯坦 "wikilink")
+[Category:联盟计划](https://zh.wikipedia.org/wiki/Category:联盟计划 "wikilink") [Category:2013年航天](https://zh.wikipedia.org/wiki/Category:2013年航天 "wikilink") [Category:2013年哈薩克](https://zh.wikipedia.org/wiki/Category:2013年哈薩克 "wikilink")
 
 1.
 2.

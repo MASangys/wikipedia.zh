@@ -1,6 +1,4 @@
-**《空港》**是香港女歌手[容祖兒第](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")28張個人唱片，於2010年8月20日發售。第二版於11月5日推出。
-
-首支派台歌《綠野仙-{踪}-》為[百老滙廣告歌](https://zh.wikipedia.org/wiki/百老滙 "wikilink")；接力主打《破相》為[陳輝陽](../Page/陳輝陽.md "wikilink")與[黃偉文合作的](https://zh.wikipedia.org/wiki/黃偉文 "wikilink")「垃圾系列」作品，兩首派台歌同時為三台冠軍歌。
+《**空港**》是[容祖兒自](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")2010年聲帶受損事件後的第一張EP，亦是她個人的第四張廣東EP，於**2010年8月20日**發行。這EP也是祖兒第六次次於[紅磡香港體育館的個人演唱會](https://zh.wikipedia.org/wiki/Hong_Kong_Coliseum "wikilink")，*[Nokia Joey Yung Concert Number 6](https://zh.wikipedia.org/wiki/Nokia_Joey_Yung_Concert_Number_6 "wikilink")* 的主題大碟，歌曲"*[空港](https://zh.wikipedia.org/wiki/Airport_\(song\) "wikilink")*"亦是這次演唱會的主題曲。"空港"是一句日語，代表機場的意思，祖兒說愛她的人就像她的"空港"和"燈塔"，在她迷惘時讓她安全"降落"。而歌曲"*[破相](https://zh.wikipedia.org/wiki/Disfigured_\(song\) "wikilink")*"則是[陳輝陽與](https://zh.wikipedia.org/wiki/Keith_Chan "wikilink")[黃偉文合作的](https://zh.wikipedia.org/wiki/Wyman_Wong "wikilink")「垃圾系列」第四部曲，祖兒深情的演釋使這歌十分受歡迎，祖兒更為此歌拍了首個個人3D MV，亦是全香港第一首3D MV，使她成為全亞洲首位拍攝3D MV的女歌手。而碟內首支派台歌"*[綠野仙踪](https://zh.wikipedia.org/wiki/Wizard_of_Oz_\(song\) "wikilink")*"，由[陳奐仁作曲](https://zh.wikipedia.org/wiki/Hanjin_Chan "wikilink")，是*[百老匯](https://zh.wikipedia.org/wiki/Boardway "wikilink")*的廣告歌，亦大受歡迎。\[1\]
 
 ## 專輯介紹
 
@@ -8,148 +6,60 @@
 
 #### CD
 
-#### DVD
+#### Bonus DVD
 
-##### 第一版
+| 曲目 | 名稱     | 導演         |
+| -- | ------ | ---------- |
+| 1  | 破相MV   | rabbit@ptu |
+| 2  | 綠野仙踪MV | （百老匯廣告歌）   |
 
-| 曲目 | 項目          |
-| -- | ----------- |
-| 1  | 破相 MV       |
-| 2  | 綠野仙-{踪}- MV |
-
-##### 第二版
+## 音樂錄影帶
 
 <table>
 <thead>
 <tr class="header">
-<th><p>曲目</p></th>
-<th><p>項目</p></th>
-<th><p>導演</p></th>
+<th><p>發佈次序</p></th>
+<th><p>歌曲</p></th>
+<th><p>連結</p></th>
+<th><p>備註</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>1</p></td>
-<td><p><strong>空港 MV</strong></p></td>
-<td><p>Susie Au</p></td>
+<td><p>綠野仙踪</p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/容祖兒" title="wikilink">容祖兒百老匯廣告歌</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
-<td><p>The Making-of 空港 MV</p></td>
+<td><p>破相</p></td>
 <td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/容祖兒" title="wikilink">容祖兒首個</a>3D MV</p></td>
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
-<td><p><strong>破相 MV</strong></p></td>
-<td><p>rabbit@ptu</p></td>
+<td><p>空港</p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Number6演唱會_主題曲" title="wikilink">Number6演唱會 主題曲</a></p></td>
 </tr>
 <tr class="even">
 <td><p>4</p></td>
-<td><p>The Making-of 破相 MV</p></td>
+<td><p>星圖</p></td>
 <td></td>
-</tr>
-<tr class="odd">
-<td><p>5</p></td>
-<td><p><strong>綠野仙-{踪}- MV</strong></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>6</p></td>
-<td><p>The Making-of 綠野仙-{踪}- MV</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>7</p></td>
-<td><p><strong>星圖 MV</strong></p></td>
-<td><p>Heison Ng</p></td>
-</tr>
-<tr class="even">
-<td><p>8</p></td>
-<td><p>The Making-of 星圖 MV</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>9</p></td>
-<td><p>Number6演唱會海報及空港封套拍攝幕後花絮</small></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><center>
-<p><strong>one 2 free Musicholic 容祖兒空港見面會</strong></p>
-</center></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>10</p></td>
-<td><p>破相 Live</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>11</p></td>
-<td><p>飛 Live</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>12</p></td>
-<td><p>空港 Live</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>13</p></td>
-<td><p>綠野仙-{踪}- (Encore 清唱版)</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><center>
-<p><strong>Bonus Track</strong></p>
-</center></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>14</p></td>
-<td><p>空港 5.1 Surround Version</p></td>
-<td></td>
+<td><p>導演：Heison</p></td>
 </tr>
 </tbody>
 </table>
 
-## 發行版本
-
-  - 第一版 (2010年8月20日)
-  - 第二版 (2010年11月5日)
-
-## 音樂錄影帶
-
-  - 空港
-  - 破相
-  - 綠野仙踪
-  - 星圖
-
-## 製作團隊
-
 ## 派台歌曲成績
-
-| 次序 | 歌名   | 派台日期       | 派歌成績                                                                                                                  |
-| -- | ---- | ---------- | --------------------------------------------------------------------------------------------------------------------- |
-| 1  | 綠野仙踪 | 18/07/2010 | **三台冠軍歌**，[叱吒903第](https://zh.wikipedia.org/wiki/叱吒903 "wikilink")2位                                                  |
-| 2  | 破相   | 07/09/2010 | **三台冠軍歌**，[TVB第](https://zh.wikipedia.org/wiki/TVB "wikilink")4位                                                      |
-| 3  | 空港   | 05/11/2010 | [叱吒903冠軍歌](https://zh.wikipedia.org/wiki/叱吒903 "wikilink")，[新城997第](https://zh.wikipedia.org/wiki/新城997 "wikilink")4位 |
 
 ## 所獲獎項
 
-  - 2010勁歌金曲優秀選第二回 最受歡迎廣告歌曲奬《綠野仙-{蹤}-》
-  - 2010勁歌金曲優秀選第三回 得獎歌曲《破相》
-  - 新城勁爆頒獎禮2010 新城勁爆歌曲《破相》
-  - 新城勁爆頒獎禮2010 新城勁爆我最欣賞歌曲《破相》
-  - 第33屆十大中文金曲頒獎音樂會 十大中文金曲《破相》
-  - 2010年度十大勁歌金曲頒獎典禮 最受歡迎廣告歌曲獎《綠野仙蹤》
-  - 2010年度十大勁歌金曲頒獎典禮 十大勁歌金曲《破相》
-  - IFPI香港唱片銷量大獎2011 十大銷量數碼歌曲《破相》
-
-## 參考資料
+  -
+  -
+## 参考资料
 
 ## 外部連結
 
-[Category:容祖兒音樂專輯](https://zh.wikipedia.org/wiki/Category:容祖兒音樂專輯 "wikilink") [Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
+1.  {{Cite web |url=<https://joeyyung.fandom.com/wiki/空港_Airport_(EP)> |title=容祖兒 空港 |access-date=2019-08-27

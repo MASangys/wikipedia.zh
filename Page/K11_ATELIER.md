@@ -53,6 +53,8 @@ K11 ATELIER學院負責向租戶和員工提供課程。
 
   - [K11 ATELIER](https://www.k11atelier.com/hk/%7CK11)
 
+[Category:2018年完工建築物](https://zh.wikipedia.org/wiki/Category:2018年完工建築物 "wikilink")
+
 [Category:油尖旺區寫字樓](https://zh.wikipedia.org/wiki/Category:油尖旺區寫字樓 "wikilink") [Category:油尖旺區商場](https://zh.wikipedia.org/wiki/Category:油尖旺區商場 "wikilink") [Category:尖沙咀](https://zh.wikipedia.org/wiki/Category:尖沙咀 "wikilink") [Category:新世界發展物業](https://zh.wikipedia.org/wiki/Category:新世界發展物業 "wikilink") [Category:香港摩天大樓](https://zh.wikipedia.org/wiki/Category:香港摩天大樓 "wikilink") [Category:250米至299米高的摩天大樓](https://zh.wikipedia.org/wiki/Category:250米至299米高的摩天大樓 "wikilink")
 
 1.

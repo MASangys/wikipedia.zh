@@ -22,6 +22,10 @@
 
   - [金旻載](../Page/金旻載.md "wikilink")
 
+### 練習生
+
+  - NATTY（曾参加《[SIXTEEN](https://zh.wikipedia.org/wiki/SIXTEEN "wikilink")》、《[偶像學校](https://zh.wikipedia.org/wiki/偶像學校 "wikilink")》）
+
 ## 唱片合约
 
 ### MMO娛樂
@@ -52,5 +56,6 @@
 
   -
 
+  -
   -
 [Category:韓國藝人經紀公司](https://zh.wikipedia.org/wiki/Category:韓國藝人經紀公司 "wikilink") [Category:1994年成立的公司](https://zh.wikipedia.org/wiki/Category:1994年成立的公司 "wikilink")

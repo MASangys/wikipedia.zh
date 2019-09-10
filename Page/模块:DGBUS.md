@@ -5,9 +5,9 @@
 `       state, system = pcall(mw.loadData, "Module:DGBUS/data")`
 `   elseif loc == "南沙" or loc == "花都" or loc == "番禺" or loc == "增城" or loc == "从化" or loc == "從化" or loc == "广州" or loc == "廣州" then`
 `       state, system = pcall(mw.loadData, "Module:DGBUS/guangzhou")`
-`   -- elseif loc == "惠州" then`
-`   --  state, system = pcall(mw.loadData, "Module:DGBUS/huizhou")`
-`    elseif loc == "深圳" then`
+`   elseif loc == "惠州" then`
+`       state, system = pcall(mw.loadData, "Module:DGBUS/huizhou")`
+`   elseif loc == "深圳" then`
 `       state, system = pcall(mw.loadData, "Module:DGBUS/shenzhen")`
 `   else`
 `       state, system = pcall(mw.loadData, "Module:DGBUS/data")`
@@ -142,21 +142,20 @@ end
 \-- 生成表格表头 function p._internalTitle(style, loc)
 
 `   if loc == "" or loc == nil then loc = "东莞" end`
-`   t = '!colspan="2" width="12%"|`[`编号`](https://zh.wikipedia.org/wiki/'..loc..'巴士路线列表 "wikilink")`!!colspan="3"|起讫点'`
-`   if ((style == "noco") or (style == "nocotr")) then          -- 不显示公司栏（noco）`
-`       t = t..'!!width="8%"|全程收费!!width="20%"|备注\n|-style="background:#a2a9b1" height=0\n|width="1%" height=0| || || width="24%"| || ||width="24%"| || || '`
-`   elseif (style == "nofa") then                               -- 不显示票价栏（nofa）`
-`       t = t..'!!width="10%"|公司（分公司）!!width="20%"|备注\n|-style="background:#a2a9b1" height=0\n|width="1%" height=0| || || width="24%"| || ||width="24%"| || || '`
-`   elseif (style == "nocofa") then                             -- 不显示公司和票价栏（nocofa）`
-`       t = t..'!!width="20%"|备注\n|-style="background:#a2a9b1" height=0\n|width="1%" height=0| || || width="24%"| || ||width="24%"| || '`
-`   else                                                        -- 显示公司和票价栏（notr、nodo、默认）`
-`       t = t..'!!width="8%"|全程收费!!width="10%"|公司（分公司）!!width="20%"|备注\n|-style="background:#a2a9b1" height=0\n|width="1%" height=0| || || width="24%"| || ||width="24%"| || || || '`
+`   if style == "noco" then         -- 不显示公司栏（noco）`
+`       t = '!colspan="2" width="14%"|`[`编号`](https://zh.wikipedia.org/wiki/'..loc..'巴士路线列表 "wikilink")`!!colspan="3"|起讫点'..'!!width="10%"|全程收费!!width="22%"|备注\n|-style="background:#EAECF0" height=0\n|colspan="2"| ||width="26%"| || ||width="26%"| ||colspan="2"| '`
+`   elseif style == "nofa" then                             -- 不显示票价栏（nofa）`
+`       t = '!colspan="2" width="14%"|`[`编号`](https://zh.wikipedia.org/wiki/'..loc..'巴士路线列表 "wikilink")`!!colspan="3"|起讫点'..'!!width="11%"|运营商!!width="21%"|备注\n|-style="background:#EAECF0" height=0\n|colspan="2"| ||width="26%"| || ||width="26%"| ||colspan="2"| '`
+`   elseif style == "nocofa" then                               -- 不显示公司和票价栏（nocofa）`
+`       t = '!colspan="2" width="16%"|`[`编号`](https://zh.wikipedia.org/wiki/'..loc..'巴士路线列表 "wikilink")`!!colspan="3"|起讫点'..'!!width="24%"|备注\n|-style="background:#EAECF0" height=0\n|colspan="2"| ||width="29%"| || ||width="29%"| || '`
+`   else                                                        -- 显示公司和票价栏（默认）`
+`       t = '!colspan="2" width="12%"|`[`编号`](https://zh.wikipedia.org/wiki/'..loc..'巴士路线列表 "wikilink")`!!colspan="3"|起讫点'..'!!width="8%"|全程收费!!width="10%"|运营商!!width="20%"|备注\n|-style="background:#EAECF0" height=0\n|colspan="2"| ||width="24%"| || ||width="24%"| ||colspan="3"| '`
 `   end`
 `   return t`
 
 end
 
-\-- 及 function p.title(frame)
+\--  function p.title(frame)
 
 `   local tt = frame.args`
 `   local ret = p._internalTitle(tt.format, tt.loc)`

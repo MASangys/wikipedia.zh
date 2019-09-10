@@ -16,7 +16,7 @@ iOS13 操作系统可以切换为黑暗模式（Dark Mode），顾名思义就�
 
 ### Apple Music
 
-iOS 13 中，Apple Music首次支持滚动即時歌词。同时，歌曲播放详情页也得到了改善。
+iOS 13 中，Apple Music首次支持滚动即時歌词。同时，歌曲播放详情页也得到了改变。
 
 ### 地图
 
@@ -31,11 +31,11 @@ iOS 13中，苹果地图针对美国境內推出了类似竞争对手[Google Map
 
 iOS 13的Homekit新增加了安防视频功能。用户连接到Homekit的安防摄像头所拍摄的视频将会被端到端加密，并储存在iCloud的专用无限储存空间内，仅家庭内受邀的用户可以访问这些视频。
 
-### 信息
+### 訊息
 
 在iOS 13中，“信息”应用程序传送信息时可以将自己编辑的个人资料和头像一同传送给对方，从而使得iMessage相比传统短信更接近[Facebook Messenger](../Page/Facebook_Messenger.md "wikilink")、[Line和](https://zh.wikipedia.org/wiki/Line "wikilink")[微信](../Page/微信.md "wikilink")等即时通讯应用程序。
 
-### 相机和照片
+### 相機和照片
 
   - iOS 13中，人像光效得到了改善。用户可以在拍照之后再调整打光距离从而取得更独特的照片效果。
   - “照片”应用程序得到重大升级，照片排列顺序现在被划分为年、月、日和全部照片四个层级，所有照片皆按照该逻辑被自动整理归类。
@@ -56,6 +56,10 @@ iOS 13的Homekit新增加了安防视频功能。用户连接到Homekit的安防
 ### Memoji
 
 Memoji 新增了更多设计，从头发、嘴唇、帽子、耳环、甚至可以戴 [AirPods](../Page/AirPods.md "wikilink")。此外，还增加了 Memoji Sticker，将可在 [A9 处理器或以上的](../Page/Apple_A9.md "wikilink") iOS 系统设备上使用，并可发送至其他iPhone用户的手机上。Memoji制作的表情还可添加到键盘的“表情符号”栏并运用于第三方apps。
+
+### 3D Touch to Haptic Touch
+
+[3D觸控於iOS](https://zh.wikipedia.org/wiki/3D觸控 "wikilink") 13中正式廢除，取而代之的是蘋果專為iPhone XR所開發的觸控操作方式—Haptic Touch。在舊有的，仍具備有3D觸控面板設計的機型上(iPhone 6s-iPhone Xs)，3D 觸控仍有相較於Haptic Touch更快的反應，雖然兩者相差僅不到一秒。
 
 ## 支持设备
 
@@ -118,7 +122,7 @@ Memoji 新增了更多设计，从头发、嘴唇、帽子、耳环、甚至可�
 </tr>
 <tr class="even">
 <td><p>Public beta 2</p></td>
-<td><p>2019年7月9日</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -166,7 +170,31 @@ Memoji 新增了更多设计，从头发、嘴唇、帽子、耳环、甚至可�
 </tr>
 <tr class="even">
 <td><p>Public beta 6</p></td>
-<td><p>2019年8月16日</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Developer beta 8</p></td>
+<td><p><small>17A5572a</small></p></td>
+<td><p>2019年8月22日</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Public beta 7</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>13.1</p></td>
+<td><p>Developer beta 1</p></td>
+<td><p><small>17A5821e</small></p></td>
+<td><p>2019年8月28日</p></td>
+</tr>
+<tr class="even">
+<td><p>Public beta 1</p></td>
+<td><p>2019年8月29日</p></td>
 <td></td>
 <td></td>
 </tr>

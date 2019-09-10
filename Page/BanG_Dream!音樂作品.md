@@ -1212,7 +1212,7 @@ Afterglow的第五張單曲。預計在2019年10月23日發售。 為動畫「Ba
 
 最初以「THE THIRD（仮）」為名，作為「BanG Dream！」企劃中的伴奏樂隊活動，初次登場是2018年1月13、14日的Garupa Live上，為佐倉綾音、前島亞美、伊藤美來三位主唱伴奏，Poppin' Party的吉他手[大塚紗英當時作為支援吉他手參與演出](https://zh.wikipedia.org/wiki/大塚紗英 "wikilink")，直到1st Live宣布由[小原莉子](../Page/小原莉子.md "wikilink")擔當正式吉他手；並於2018年7月17日的2nd Live中，正式揭露「RAISE A SUILEN」的樂隊名稱，也公布第五位成員：擔當DJ的[紡木吏佐](../Page/紡木吏佐.md "wikilink")。RAISE A SUILEN的意思是「拉開垂廉（すいれん）」。
 
-五位成員為主唱暨貝斯手**Layer**（聲優－[Raychell](https://zh.wikipedia.org/wiki/SHAZNA#メンバー "wikilink")），吉他手**Lock**（聲優－[小原莉子](../Page/小原莉子.md "wikilink")），鼓手**Masking**（聲優－[夏芽](https://zh.wikipedia.org/wiki/SHAZNA#メンバー "wikilink")），鍵盤手**Pareo**（聲優－[倉知玲鳳](https://zh.wikipedia.org/wiki/倉知玲鳳 "wikilink")），DJ **CHU<sup>2</sup>**（聲優－[紡木吏佐](../Page/紡木吏佐.md "wikilink")）。
+五位成員為主唱暨貝斯手**Layer**（聲優－[Raychell](https://zh.wikipedia.org/wiki/SHAZNA#メンバー "wikilink")），吉他手**Lock**（聲優－[小原莉子](../Page/小原莉子.md "wikilink")），鼓手**Masking**（聲優－[夏芽](https://zh.wikipedia.org/wiki/SHAZNA#メンバー "wikilink")），鍵盤手**Pareo**（聲優－[倉知玲鳳](../Page/倉知玲鳳.md "wikilink")），DJ **CHU<sup>2</sup>**（聲優－[紡木吏佐](../Page/紡木吏佐.md "wikilink")）。
 
 有別於其他五個樂團，RAISE A SUILEN是先以真人樂隊形式進行演出，直到2018年12月7日的「BanG Dream 6th☆LIVE」演唱會上，才正式宣布了成員二次元化的形象，並在隨後推出的動畫「BanG Dream\! 2nd Season」中參與演出。
 

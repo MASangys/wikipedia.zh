@@ -64,9 +64,9 @@ Proca作用量 是通过希格斯机制对Stueckelberg作用量的测量固定�
   - [量子电动力学](../Page/量子電動力學.md "wikilink")
   - [量子引力](../Page/量子引力.md "wikilink")
 
-## 参考文献
+## 参考资料
 
-## 进一步阅读
+### 其他参考资料
 
   - Supersymmetry Demystified，P. Labelle，McGraw-Hill（美国），2010，
   - 量子场论，D。McMahon，Mc Graw Hill（美国），2008，

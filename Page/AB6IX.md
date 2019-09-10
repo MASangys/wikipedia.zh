@@ -222,6 +222,13 @@ AB6IX的打招呼方式為一邊講「Salute\!大家好\!我們是AB6IX\!」（�
 </tbody>
 </table>
 
+### 電視劇
+
+| 日期         | |頻道                                                 | |節目名稱                                                                       | |集數 | 出演成員 |
+| ---------- | --------------------------------------------------- | --------------------------------------------------------------------------- | --- | ---- |
+| 2019年10月 日 | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") | [延南洞Global House](https://zh.wikipedia.org/wiki/延南洞Global_House "wikilink") | 全集  | 大輝   |
+|            |                                                     |                                                                             |     |      |
+
 ### 電台
 
 <table>
@@ -306,22 +313,60 @@ AB6IX的打招呼方式為一邊講「Salute\!大家好\!我們是AB6IX\!」（�
 
 ### 參與演唱會
 
-| 日期         | 國家  | 活動名稱                         |
-| ---------- | --- | ---------------------------- |
-| 2019/05/17 | 日本  | KCON 2019 JAPAN              |
-| 2019/05/18 | 韓國  | DREAM CONCERT                |
-| 2019/05/25 | 韓國  | GREEN CONCERT                |
-| 2019/06/15 | 韓國  | 2019 K-POP ARTIST FESTIVAL   |
-| 2019/07/06 | 香港  | SBS SUPER CONCERT            |
-| 2019/07/07 | 美國  | KCON 2019 NY                 |
-| 2019/07/17 | 哈薩克 | KPOP MEGA CONCERT IN ALMATY  |
-| 2019/07/22 | 韓國  | 2019 ULSAN SUMMER FESTIVAL   |
-| 2019/08/09 | 日本  | 2019 Next generation live    |
-| 2019/08/17 | 美國  | KCON 2019 LA                 |
-| 2019/08/23 | 韓國  | 2019 SOBA AWARDS             |
-| 2019/10/19 | 韓國  | 2019 BUSAN ONE ASIA FESTIVAL |
+| 日期         | 國家  | 活動名稱                              |
+| ---------- | --- | --------------------------------- |
+| 2019/05/17 | 日本  | KCON 2019 JAPAN                   |
+| 2019/05/18 | 韓國  | DREAM CONCERT                     |
+| 2019/05/25 | 韓國  | GREEN CONCERT                     |
+| 2019/06/15 | 韓國  | 2019 K-POP ARTIST FESTIVAL        |
+| 2019/07/06 | 香港  | SBS SUPER CONCERT                 |
+| 2019/07/07 | 美國  | KCON 2019 NY                      |
+| 2019/07/22 | 韓國  | 2019 ULSAN SUMMER FESTIVAL        |
+| 2019/08/09 | 日本  | 2019 Next generation live         |
+| 2019/08/17 | 美國  | KCON 2019 LA                      |
+| 2019/09/21 | 菲律賓 | THE 2019K-POP SUPER CONCERT IN PH |
+| 2019/09/29 | 泰國  | KCON 2019 THAILAND                |
+| 2019/10/06 | 韓國  | SBS SUPER CONCERT                 |
+| 2019/10/19 | 韓國  | 2019 BUSAN ONE ASIA FESTIVAL      |
 
 ## 獎項與榮譽
+
+### 頒獎典禮獲獎及提名
+
+<table>
+<thead>
+<tr class="header">
+<th><p>年份</p></th>
+<th><p>名稱</p></th>
+<th><p>獎項</p></th>
+<th><p>提名項目</p></th>
+<th><p>結果</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2019年</p></td>
+<td><p><a href="../Page/M2_X_Genie音樂獎.md" title="wikilink">M2 X Genie音樂獎</a></p></td>
+<td><p>最佳男新人</p></td>
+<td><p>AB6IX</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Genie Music Next Generation Star</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/Soribada最佳音樂大獎.md" title="wikilink">Soribada最佳音樂大獎</a></p></td>
+<td><p>本賞</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ### 主要音樂節目榜單排名
 
@@ -361,36 +406,6 @@ AB6IX的打招呼方式為一邊講「Salute\!大家好\!我們是AB6IX\!」（�
 | [Mnet](../Page/Mnet媒體.md "wikilink") |
 | 0                                    |
 | 一位總數：2                               |
-
-### 頒獎典禮獲獎及提名
-
-<table>
-<thead>
-<tr class="header">
-<th><p>年份</p></th>
-<th><p>名稱</p></th>
-<th><p>獎項</p></th>
-<th><p>提名項目</p></th>
-<th><p>結果</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>2019年</p></td>
-<td><p><a href="../Page/M2_X_Genie音樂獎.md" title="wikilink">M2 X Genie音樂獎</a></p></td>
-<td><p>最佳男新人</p></td>
-<td><p>AB6IX</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Genie Music Next Generation Star</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
 
 ## 備註與參考資料
 

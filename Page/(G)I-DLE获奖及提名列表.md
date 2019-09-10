@@ -288,9 +288,26 @@
 
 ### [Soribada最佳音乐大奖（Soribada Best K-Music Awards）](https://zh.wikipedia.org/wiki/Soribada最佳音乐大奖 "wikilink")
 
-| 颁奖日期       | 届数  | 奖项 | 提名项目 | 结果 |
-| ---------- | --- | -- | ---- | -- |
-| 2019年8月23日 | 第3届 |    |      |    |
+<table>
+<thead>
+<tr class="header">
+<th><p>颁奖日期</p></th>
+<th><p>届数</p></th>
+<th><p>奖项</p></th>
+<th><p>提名项目</p></th>
+<th><p>结果</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2019年8月23日</p></td>
+<td><p>第3届</p></td>
+<td><p>New Wave獎</p></td>
+<td><p>(G)I-DLE</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 其它颁奖典礼
 
@@ -518,14 +535,14 @@
 
 1.  [181106 Best New Female Artist: (G)I-DLE ((여자)아이들) @ 2018 MGA](https://www.youtube.com/watch?v=U-q-fAF1bZk). Skpb K-Music Live. November 6, 2018.
 2.  [2018 MBC Plus X Genie Music Awards Announces Nominees + Voting Begins](https://www.soompi.com/article/1238753wpp/2018-mbc-plus-x-genie-music-awards-announces-nominees-voting-begins). soompi. October 1, 2018.
-3.  [181128 AAA ​Rookie of The Year: (G)I-DLE ((여자)아이들) CUT @ 2018 ASIA ARTIST AWARDS](https://www.youtube.com/watch?v=nK8105vjI7U). Skpb K-Music Live. November 28, 2018.
+3.  [181128 AAA Rookie of The Year: (G)I-DLE ((여자)아이들) CUT @ 2018 ASIA ARTIST AWARDS](https://www.youtube.com/watch?v=nK8105vjI7U). Skpb K-Music Live. November 28, 2018.
 4.  [2018 Asia Artist Awards - Popularity Award第46名](https://www.asiaartistawards.com/vote/primaryVote.html). Asia Artist Awards. October 31, 2018.
 5.  [181201 MMA Best New Artist (Female): (G)I-DLE ((여자)아이들) @ 2018 MelOn Music Award](https://www.youtube.com/watch?v=QDx_fQqgXjo). Skpb K-Music Live. December 1, 2018.
 6.  ['2018 MAMA' under fire for giving 'Best New Female Artist' award to IZ\*ONE over (G)I-DLE](https://www.allkpop.com/article/2018/12/2018-mama-under-fire-for-giving-best-new-female-artist-award-to-izone-over-gi-dle). allkpop. December 10, 2018.
 7.  [(여자)아이들 ‘베스트오브넥스트’ 수상 “곡 쓰느라 고생하는 소연 고마워”](http://www.newsen.com/news_view.php?uid=201812101642200710). Newsen. December 10, 2018.
 8.  [2018 MAMA Announces Nominees + Voting Begins](https://www.soompi.com/article/1255845wpp/2018-mama-announces-nominees-voting-begins). soompi. November 1, 2018.
 9.  [(여자)아이들·더보이즈, 신인상 수상…올해 달군 파워신인](http://www.xportsnews.com/?ac=article_view&entry_id=1056333). xportsnews. December 20, 2018.
-10. [(여자)아이들 신인상·송민호 베스트 힙합상 수상 \[33회 골든디스크](http://www.osen.co.kr/article/G1111060178)\]. OSEN. January 5, 2019.
+10. [(여자)아이들 신인상·송민호 베스트 힙합상 수상 \[33회 골든디스크](http://www.osen.co.kr/article/G1111060178). OSEN. January 5, 2019.
 11. [33rd Golden Disc Awards Announces Nominees](https://www.soompi.com/article/1274787wpp/33rd-golden-disc-awards-announces-nominees). soompi. December 7, 2018.
 12. [33rd Golden Disc Awards Opens Voting For Popularity Award](https://www.soompi.com/article/1274861wpp/33rd-golden-disc-awards-opens-voting-popularity-award). soompi. December 7, 2018.
 13. [网易云音乐 X 第33届韩国金唱片大赏 票选你最喜欢的K-POP Star！](https://music.163.com/m/at/GoldenDiscAwards). 网易云音乐. January 1, 2019.
@@ -542,7 +559,7 @@
 24. [\#2018서울의얼굴을찾습니다 시민의 PICK은?\!](https://twitter.com/seoulmania/status/1065929135241887744). twitter 서울시. November 23, 2018.
 25. [(여자)아이들이 2019년 서울홍보대사로 선정된 소식 들으셨나요?](https://twitter.com/G_I_DLE/status/1095686301041324034). twitter G_I_DLE. February 13, 2019.
 26. [대한당뇨병연합](https://www.facebook.com/permalink.php?story_fbid=2344494559119917&id=2278572002378840). facebook 대한당뇨병연합. May 1, 2019.
-27. [11 AWARDS('Works Hard' Awards) 1 \[THE SHOW 181204](https://www.youtube.com/watch?v=9ZvuKuyxkRU)\]. YouTube The K-POP : SBS PLUS. December 4, 2018.
+27. [11 AWARDS('Works Hard' Awards) 1 \[THE SHOW 181204](https://www.youtube.com/watch?v=9ZvuKuyxkRU). YouTube The K-POP : SBS PLUS. December 4, 2018.
 28. [YouTube reveals Korea's 'Top 10 Rising Stars' of 2018](https://www.allkpop.com/article/2018/12/youtube-reveals-korea-s-top-10-rising-stars-of-2018). allkpop. December 22, 2018.
 29. [(여자)아이들 오피셜 유튜브 채널이 3위로 '2018 유튜브 리와인드' 라이징 스타 TOP10에 선정되었습니다\!](https://www.instagram.com/p/Brog-EDlBjF/). ins official_g_i_dle. December 21, 2018.
 30. [10 Best New K-Pop Acts of 2018](https://www.billboard.com/articles/columns/k-town/8491744/best-new-k-pop-acts-2018). Billboard. December 29, 2018.

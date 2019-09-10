@@ -2,11 +2,11 @@
 
 **藏语**（），属[汉藏语系](../Page/汉藏语系.md "wikilink")[藏缅语族](https://zh.wikipedia.org/wiki/藏缅语族 "wikilink")[藏语支](https://zh.wikipedia.org/wiki/藏语支 "wikilink")，是[藏族](../Page/藏族.md "wikilink")使用的主要語言。藏语使用区分布在[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[西藏自治区](../Page/西藏自治区.md "wikilink")，[青海省](../Page/青海省.md "wikilink")，[四川省的](https://zh.wikipedia.org/wiki/四川 "wikilink")[阿坝藏族羌族自治州](../Page/阿坝藏族羌族自治州.md "wikilink")、[甘孜藏族自治州](../Page/甘孜藏族自治州.md "wikilink")、木里藏族自治县，[甘肃省的](https://zh.wikipedia.org/wiki/甘肃 "wikilink")[甘南藏族自治州](../Page/甘南藏族自治州.md "wikilink")和[云南省的](https://zh.wikipedia.org/wiki/云南 "wikilink")[迪庆藏族自治州](../Page/迪庆藏族自治州.md "wikilink")等若干区域。[巴基斯坦](../Page/巴基斯坦.md "wikilink")、[印度](../Page/印度.md "wikilink")、[尼泊尔](../Page/尼泊尔.md "wikilink")、[不丹](../Page/不丹.md "wikilink")四个国家也有藏语使用者分布。
 
-**[藏文](https://zh.wikipedia.org/wiki/藏文字母 "wikilink")**是藏语的文字书写系统，在藏语各方言间通用，是根據[古典藏語發音而制定的文字](https://zh.wikipedia.org/wiki/古典藏語 "wikilink")。关于藏文的起源，佛教学者认为是[吐蕃](../Page/吐蕃.md "wikilink")时代公元7世纪由国王[松赞干布](../Page/松赞干布.md "wikilink")的重臣[吞弥·桑布扎](../Page/吞弥·桑布扎.md "wikilink")受[梵文拼写影响创制的](https://zh.wikipedia.org/wiki/梵文 "wikilink")。[苯教](../Page/苯教.md "wikilink")学者则认为藏文完全是从[象雄文演变而来](https://zh.wikipedia.org/wiki/象雄文 "wikilink")。[藏文字母有上加字](https://zh.wikipedia.org/wiki/藏文字母 "wikilink")、下加字等垂直拼写法。爲了翻譯佛教梵文咒語，藏文字母與[梵文字母有完整的對應關係](https://zh.wikipedia.org/wiki/梵文字母 "wikilink")，可以精确转写梵文文献。\[1\]
+**[藏文](https://zh.wikipedia.org/wiki/藏文字母 "wikilink")**是藏语的文字书写系统，在藏语各方言间通用，是根據[古典藏語發音而制定的文字](https://zh.wikipedia.org/wiki/古典藏語 "wikilink")。关于藏文的起源，佛教学者认为是[吐蕃](../Page/吐蕃.md "wikilink")时代公元7世纪由国王[松赞干布](../Page/松赞干布.md "wikilink")的重臣[吞弥·桑布扎](../Page/吞弥·桑布扎.md "wikilink")受[梵文拼写影响创制的](https://zh.wikipedia.org/wiki/梵文 "wikilink")。[苯教](../Page/苯教.md "wikilink")学者则认为藏文是从[象雄文演变而来](https://zh.wikipedia.org/wiki/象雄文 "wikilink")。[藏文字母有上加字](https://zh.wikipedia.org/wiki/藏文字母 "wikilink")、下加字等垂直拼写法。爲了翻譯佛教梵文咒語，藏文字母與[梵文字母有完整的對應關係](https://zh.wikipedia.org/wiki/梵文字母 "wikilink")，可以精确转写梵文文献。\[1\]
 
-藏语的分支语言为[卫藏方言](https://zh.wikipedia.org/wiki/卫藏方言 "wikilink")\[2\]\[3\]（如[拉萨话](https://zh.wikipedia.org/wiki/拉萨 "wikilink")）、[康方言](https://zh.wikipedia.org/wiki/康方言 "wikilink")\[4\]\[5\]（如[昌都话](https://zh.wikipedia.org/wiki/昌都 "wikilink")）、[安多方言](https://zh.wikipedia.org/wiki/安多方言 "wikilink")\[6\]\[7\]三大方言。這三種語言可能同樣源自[古书面藏語](https://zh.wikipedia.org/wiki/古藏語 "wikilink")，其中只有安多方言沒有區別意義的聲調，保持了古藏語的特色。藏族不同方言的通话有一定的困难，但是采用相同的文字系统[藏文](../Page/藏文.md "wikilink")。現代最通行的[標準藏語](../Page/標準藏語.md "wikilink")源自衛藏方言中的拉薩方言。
+一般将藏语分为[卫藏方言](https://zh.wikipedia.org/wiki/卫藏方言 "wikilink")\[2\]\[3\]（如[拉萨话](https://zh.wikipedia.org/wiki/拉萨 "wikilink")）、[康方言](https://zh.wikipedia.org/wiki/康方言 "wikilink")\[4\]\[5\]（如[昌都话](https://zh.wikipedia.org/wiki/昌都 "wikilink")）、[安多方言](https://zh.wikipedia.org/wiki/安多方言 "wikilink")\[6\]\[7\]三大方言。這三種語言可能同樣源自[古书面藏語](https://zh.wikipedia.org/wiki/古藏語 "wikilink")，采用同样的文字系统，但是口语差别较大，如安多方言和古藏語一样沒有區別意義的聲調，因而不同方言的通话有一定的困难。藏语有数种标准语形式，其中現代最通行的[標準藏語](../Page/標準藏語.md "wikilink")源自衛藏方言中的拉薩方言。
 
-[藏语文学历史悠久](https://zh.wikipedia.org/wiki/藏语文学 "wikilink")，是世界上最发达的文学之一\[8\]。藏语文是唯一、完整地记录自[释迦牟尼](../Page/释迦牟尼.md "wikilink")佛诞辰两千多年来，形成和发展的[佛教](../Page/佛教.md "wikilink")教义、佛教哲学，以及佛教科学的文字，包括[那烂陀传承中](https://zh.wikipedia.org/wiki/那烂陀 "wikilink")，所有的[显](../Page/显教.md "wikilink")、[密论典](../Page/密宗.md "wikilink")。特别是[因明论典的完整教](https://zh.wikipedia.org/wiki/因明 "wikilink")、学传承和方式，当今惟有藏文中记载和保存。\[9\]除了[藏传佛教的](https://zh.wikipedia.org/wiki/藏传佛教 "wikilink")[大藏经](../Page/大藏经.md "wikilink")（包括举世闻名的《[甘珠尔](https://zh.wikipedia.org/wiki/甘珠尔 "wikilink")》、《[丹珠尔](https://zh.wikipedia.org/wiki/丹珠尔 "wikilink")》两大佛学丛书），还有著名史诗《[格萨尔王传](../Page/格萨尔王传.md "wikilink")》，[六世達賴](https://zh.wikipedia.org/wiki/六世達賴 "wikilink")[倉央嘉措的情詩集等](https://zh.wikipedia.org/wiki/倉央嘉措 "wikilink")，都是世界文學遺產中不朽的經典。
+[藏语文学历史悠久](https://zh.wikipedia.org/wiki/藏语文学 "wikilink")，是世界上最发达的文学之一\[8\]。藏语文是唯一、完整地记录自[释迦牟尼](../Page/释迦牟尼.md "wikilink")佛诞辰两千多年来，形成和发展的[佛教](../Page/佛教.md "wikilink")教义、佛教哲学，以及佛教科学的文字，包括[那烂陀传承中](https://zh.wikipedia.org/wiki/那烂陀 "wikilink")，所有的[显](../Page/显教.md "wikilink")、[密论典](../Page/密宗.md "wikilink")。特别是[因明论典的完整教](https://zh.wikipedia.org/wiki/因明 "wikilink")、学传承和方式，当今惟有藏文中记载和保存。\[9\]除了[藏传佛教的](https://zh.wikipedia.org/wiki/藏传佛教 "wikilink")[大藏经](../Page/大藏经.md "wikilink")（包括举世闻名的《[甘珠尔](https://zh.wikipedia.org/wiki/甘珠尔 "wikilink")》、《[丹珠尔](https://zh.wikipedia.org/wiki/丹珠尔 "wikilink")》两大佛学丛书），还有著名史诗《[格萨尔王传](../Page/格萨尔王传.md "wikilink")》，[六世達賴](https://zh.wikipedia.org/wiki/六世達賴 "wikilink")[倉央嘉措的情詩集等](https://zh.wikipedia.org/wiki/倉央嘉措 "wikilink")，都是世界文學遺產中的經典。
 
 ## 语法
 
@@ -45,7 +45,7 @@
 
 藏语属[汉藏语系](../Page/汉藏语系.md "wikilink")，所以藏语和汉语之间存在并不遥远的关系，两种语言来自同一个[原始语](https://zh.wikipedia.org/wiki/原始语 "wikilink")（此原始語又叫[原始漢藏語](../Page/原始漢藏語.md "wikilink")）。汉藏原始语分裂的时间，估计是公元前4000年到6000年左右。\[10\]
 
-藏文保留了[原始藏缅语的古音](https://zh.wikipedia.org/wiki/原始藏缅语 "wikilink")，包括复杂的[复辅音](../Page/复辅音.md "wikilink")。藏语和汉语之间存在很多[同源词](../Page/同源词.md "wikilink")。但由于汉语经历过许多语音变化，不能直接把現今[普通话](../Page/普通话.md "wikilink")或其他漢語方言的发音用来进行比较，必须运用[上古汉语](../Page/上古汉语.md "wikilink")的[构拟](https://zh.wikipedia.org/wiki/构拟 "wikilink")。以下举上几个有代表性的汉藏同源词（上古汉语采用[郑张尚芳](../Page/郑张尚芳.md "wikilink")先生的构拟）：
+藏语的书面语即藏文保留了[原始藏缅语的古音](https://zh.wikipedia.org/wiki/原始藏缅语 "wikilink")，包括复杂的[复辅音](../Page/复辅音.md "wikilink")。藏语和汉语之间存在很多[同源词](../Page/同源词.md "wikilink")。但由于汉语经历过许多语音变化，不能直接把現今[普通话](../Page/普通话.md "wikilink")或其他漢語方言的发音用来进行比较，必须运用[上古汉语](../Page/上古汉语.md "wikilink")的[构拟](https://zh.wikipedia.org/wiki/构拟 "wikilink")。以下为几个有代表性的汉藏同源词（如无标注上古汉语采用[郑张尚芳](../Page/郑张尚芳.md "wikilink")的构拟）：
 
 <table>
 <thead>
@@ -115,7 +115,7 @@
 
 ## 文字及语音
 
-藏文的書寫系統，基本上是一種[母音附標文字](https://zh.wikipedia.org/wiki/母音附標文字 "wikilink")，此字母代表的是[古典藏語的發音](https://zh.wikipedia.org/wiki/古典藏語 "wikilink")，故其發音和現代[標準藏語](../Page/標準藏語.md "wikilink")發音不一定能完全相契合。
+藏文的書寫系統，基本上是一種[元音附標文字](https://zh.wikipedia.org/wiki/元音附標文字 "wikilink")，此字母代表的是[古典藏語的發音](https://zh.wikipedia.org/wiki/古典藏語 "wikilink")，故其發音和現代[標準藏語](../Page/標準藏語.md "wikilink")發音不一定能完全相契合。
 
 ## 藏語文學作品列表
 
@@ -124,16 +124,18 @@
 
 ## 方言
 
-藏语方言有多种划分方案，[西義郎](https://zh.wikipedia.org/wiki/西義郎 "wikilink")\[11\]把藏语方言分成六大类：
+[Maps_of_Tibetan_Dialects_in_China.png](https://zh.wikipedia.org/wiki/File:Maps_of_Tibetan_Dialects_in_China.png "fig:Maps_of_Tibetan_Dialects_in_China.png") 藏区地域广阔、人口稀少、交通不便，因而藏语很容易产生方言的差异。9世纪中叶，吐蕃王朝崩溃，此后藏区进入了长达数个世纪的割据和动荡，这也加剧了方言的分化。早期藏语的方言难以考证，历史上一些学者在其著作中对古藏语的方言有所涉及，如[萨伽·班智达·贡噶坚赞在](https://zh.wikipedia.org/wiki/萨伽·班智达·贡噶坚赞 "wikilink")《乐论》中对前藏、后藏、阿里、康巴人的不同声音特点进行了描述，说明当时人即已经注意到方言差别\[11\]。
+
+对于近现代藏语方言的划分，学者们有不同的分法。苏联学者罗列赫于20世纪30年代提出藏语五分法，将藏语分成西部、中部、南部、东部和南部、牧区五个方言。20世纪50年代，乌瑞将藏语方言分为西部、中部、东部、南部四个方言，此后又有数个语言学家提出数种方言分法。20世纪五十年代，中国社会科学院在对藏语进行[田野调查后将中国境内的藏语分成卫藏](https://zh.wikipedia.org/wiki/田野调查 "wikilink")、安多和康巴三个方言，这个划分方法不涉及中国以外的藏语支语言，在中国境内影响较大。1987年，日本学者西義郎在中國學者分类的基础上将藏语方言分为六大类，其分類如下\[12\]\[13\]：
 
   - 中部藏语，又称[卫藏方言](https://zh.wikipedia.org/wiki/卫藏方言 "wikilink")，主要分布在[西藏自治区](../Page/西藏自治区.md "wikilink")西南大部和[尼泊尔](../Page/尼泊尔.md "wikilink")北部边境（如[夏尔巴语](https://zh.wikipedia.org/wiki/夏尔巴语 "wikilink")）
-  - [康方言](https://zh.wikipedia.org/wiki/康方言 "wikilink")（包括普米语、尔苏语、嘉荣语等特殊方言）
+  - [康方言](https://zh.wikipedia.org/wiki/康方言 "wikilink")
   - [安多方言](https://zh.wikipedia.org/wiki/安多方言 "wikilink")
   - 南部藏语：[錫金語](https://zh.wikipedia.org/wiki/錫金語 "wikilink")、[宗喀語](../Page/宗喀語.md "wikilink")等
   - 西部老藏语：[巴尔蒂语](../Page/巴尔蒂语.md "wikilink")、[拉达克语等](https://zh.wikipedia.org/wiki/拉达克语 "wikilink")
-  - 西部新藏语。
+  - 西部新藏语
 
-其中[卫藏方言](https://zh.wikipedia.org/wiki/卫藏方言 "wikilink")、[康方言和](https://zh.wikipedia.org/wiki/康方言 "wikilink")[安多方言使用人数最多](https://zh.wikipedia.org/wiki/安多方言 "wikilink")，被称为藏语三大方言。
+同汉语类似的是，藏语的方言是否可以视为独立语言则一直存在着争议。中国境内的学者多认为中国境内的藏语为一种语言，该语言下有卫藏方言、安多方言和康巴方言等数个方言，而西方学者多认为藏语是一个语支，卫藏语、安多语和康巴语为该语支下的语言。民族语在藏语之下列出了五十多种语言。
 
 ## 样例
 
@@ -194,3 +196,5 @@
 9.
 10.
 11.
+12.
+13.

@@ -1,4 +1,4 @@
-**ØZI**（1997年3月27日），本名**陳奕凡**，是一名台灣創作歌手，出生於[洛杉磯](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")，母親為知名歌手[葉璦菱](../Page/葉璦菱.md "wikilink")，自4歲就開始學習古典鋼琴、小提琴、吉他等樂器，14歲開始創作英文詞曲\[1\]，現為 新樂園音樂有限公司 Forbidden Paradise 旗下藝人。
+**ØZI**（），本名**陳奕凡**，是一名台灣創作歌手，出生於[洛杉磯](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")，母親為知名歌手[葉璦菱](../Page/葉璦菱.md "wikilink")，自4歲就開始學習古典鋼琴、小提琴、吉他等樂器，14歲開始創作英文詞曲\[1\]，現為 新樂園音樂有限公司 Forbidden Paradise 旗下藝人。
 
 ## 簡介
 
@@ -87,7 +87,7 @@ B.C.W｜Barry｜<a href="../Page/大支.md" title="wikilink">大支</a></p></td>
 <td><p><a href="../Page/呂士軒.md" title="wikilink">呂士軒</a>｜<a href="../Page/ØZI.md" title="wikilink">ØZI</a>｜<a href="../Page/吳卓源.md" title="wikilink">吳卓源</a>｜<a href="../Page/熊仔.md" title="wikilink">熊仔</a>｜<br />
 B.C.W｜Barry｜<a href="../Page/大支.md" title="wikilink">大支</a></p></td>
 <td><p><a href="../Page/剃刀蔣.md" title="wikilink">剃刀蔣</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/米奇林" title="wikilink">米奇林</a>，<a href="../Page/剃刀蔣.md" title="wikilink">剃刀蔣</a></p></td>
+<td><p><a href="../Page/米奇林.md" title="wikilink">米奇林</a>，<a href="../Page/剃刀蔣.md" title="wikilink">剃刀蔣</a></p></td>
 <td><p><a href="../Page/中華音樂人交流協會.md" title="wikilink">中華音樂人交流協會</a><br />
 2017年度十大單曲之一</p></td>
 </tr>
@@ -95,8 +95,8 @@ B.C.W｜Barry｜<a href="../Page/大支.md" title="wikilink">大支</a></p></td>
 <td><p>2018年10月</p></td>
 <td><p>曖</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/孫盛希" title="wikilink">孫盛希</a>｜<a href="../Page/ØZI.md" title="wikilink">ØZI</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/孫盛希" title="wikilink">孫盛希</a>｜<a href="https://zh.wikipedia.org/wiki/米奇林" title="wikilink">米奇林</a>｜<a href="../Page/ØZI.md" title="wikilink">ØZI</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/米奇林" title="wikilink">米奇林</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/孫盛希" title="wikilink">孫盛希</a>｜<a href="../Page/米奇林.md" title="wikilink">米奇林</a>｜<a href="../Page/ØZI.md" title="wikilink">ØZI</a></p></td>
+<td><p><a href="../Page/米奇林.md" title="wikilink">米奇林</a></p></td>
 <td><p>李欣芸</p></td>
 <td><p>收錄於 <a href="https://zh.wikipedia.org/wiki/孫盛希" title="wikilink">孫盛希</a> 的第四張個人專輯 <a href="../Page/希遊記.md" title="wikilink">希遊記</a> 之中</p></td>
 </tr>
@@ -123,7 +123,7 @@ B.C.W｜Barry｜<a href="../Page/大支.md" title="wikilink">大支</a></p></td>
 <td><p>House party 好事派對</p></td>
 <td><p><a href="../Page/ØZI.md" title="wikilink">ØZI</a></p></td>
 <td><p><a href="../Page/ØZI.md" title="wikilink">ØZI</a></p></td>
-<td><p><a href="../Page/剃刀蔣.md" title="wikilink">剃刀蔣</a>,<a href="https://zh.wikipedia.org/wiki/米奇林" title="wikilink">米奇林</a></p></td>
+<td><p><a href="../Page/剃刀蔣.md" title="wikilink">剃刀蔣</a>,<a href="../Page/米奇林.md" title="wikilink">米奇林</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -355,12 +355,9 @@ B.C.W｜Barry｜<a href="../Page/大支.md" title="wikilink">大支</a></p></td>
 
   -
   -
-
-<references />
-
 [Category:台灣作曲家](https://zh.wikipedia.org/wiki/Category:台灣作曲家 "wikilink") [Category:台灣作詞家](https://zh.wikipedia.org/wiki/Category:台灣作詞家 "wikilink")
 
-[Category:1997年出生](https://zh.wikipedia.org/wiki/Category:1997年出生 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:台灣饒舌歌手](https://zh.wikipedia.org/wiki/Category:台灣饒舌歌手 "wikilink") [Category:台灣嘻哈歌手](https://zh.wikipedia.org/wiki/Category:台灣嘻哈歌手 "wikilink") [Category:台灣嘻哈音樂家](https://zh.wikipedia.org/wiki/Category:台灣嘻哈音樂家 "wikilink") [Category:台灣華語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:台灣華語流行音樂歌手 "wikilink") [Category:台灣創作歌手](https://zh.wikipedia.org/wiki/Category:台灣創作歌手 "wikilink") [Category:台灣男歌手](https://zh.wikipedia.org/wiki/Category:台灣男歌手 "wikilink") [Category:台北人](https://zh.wikipedia.org/wiki/Category:台北人 "wikilink") [Category:陳姓](https://zh.wikipedia.org/wiki/Category:陳姓 "wikilink")
+[Category:台灣饒舌歌手](https://zh.wikipedia.org/wiki/Category:台灣饒舌歌手 "wikilink") [Category:台灣嘻哈歌手](https://zh.wikipedia.org/wiki/Category:台灣嘻哈歌手 "wikilink") [Category:台灣嘻哈音樂家](https://zh.wikipedia.org/wiki/Category:台灣嘻哈音樂家 "wikilink") [Category:台灣華語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:台灣華語流行音樂歌手 "wikilink") [Category:台灣創作歌手](https://zh.wikipedia.org/wiki/Category:台灣創作歌手 "wikilink") [Category:台灣男歌手](https://zh.wikipedia.org/wiki/Category:台灣男歌手 "wikilink") [Category:台北人](https://zh.wikipedia.org/wiki/Category:台北人 "wikilink") [Category:陳姓](https://zh.wikipedia.org/wiki/Category:陳姓 "wikilink")
 
 1.
 2.

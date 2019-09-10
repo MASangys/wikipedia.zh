@@ -5,8 +5,8 @@
 `       state, system = pcall(mw.loadData, "Module:SZBUS/data")`
 `   elseif loc == "东莞" or loc == "東莞" then`
 `       state, system = pcall(mw.loadData, "Module:SZBUS/dongguan")`
-`   -- elseif loc == "惠州" then`
-`   --  state, system = pcall(mw.loadData, "Module:SZBUS/huizhou")`
+`   elseif loc == "惠州" then`
+`       state, system = pcall(mw.loadData, "Module:SZBUS/huizhou")`
 `   else`
 `       state, system = pcall(mw.loadData, "Module:SZBUS/data")`
 `   end`
@@ -77,21 +77,21 @@ end
 \-- 生成一条线路的一列表格内容 function p._internalList(no, style, loc, image)
 
 `   local d = _loadSystemData(loc)`
-`   if (image == "yes") and (d[no].image) then`
+`   if d[no] == nil then`
+`       a = `[`width="1%"`](https://zh.wikipedia.org/wiki/ "wikilink")`..no..`[](https://zh.wikipedia.org/wiki/''' "wikilink")`..'`[`Module:SZBUS中未包含这条`](https://zh.wikipedia.org/wiki/Module:SZBUS "wikilink")[`"..loc.."的线路`](https://zh.wikipedia.org/wiki/'..loc.."巴士路线列表 "wikilink")`）''"`
+`   elseif d[no].note == "已停办" or d[no].note == "已停辦" then`
+`       a = `[`width="1%"`](https://zh.wikipedia.org/wiki/ "wikilink")`..d[no].code..`[](https://zh.wikipedia.org/wiki/''' "wikilink")
+`   else`
+`       if (image == "yes") and (d[no].image) then`
 `       if d[no].note ~= nil and d[no].note ~= "" then`
 `           note = d[no].note..'`
 `'..d[no].image`
 `       else`
 `           note = d[no].note..d[no].image`
 `       end`
-`   else`
-`       note = d[no].note`
-`   end`
-`   if d[no] == nil then`
-`       a = `[`width="1%"`](https://zh.wikipedia.org/wiki/ "wikilink")`..no..`[](https://zh.wikipedia.org/wiki/''' "wikilink")`..'`[`Module:DGBUS中未包含这条`](https://zh.wikipedia.org/wiki/Module:DGBUS "wikilink")[`"..loc.."的线路`](https://zh.wikipedia.org/wiki/'..loc.."巴士路线列表 "wikilink")`）''"`
-`   elseif d[no].note == "已停办" or d[no].note == "已停辦" then`
-`       a = `[`width="1%"`](https://zh.wikipedia.org/wiki/ "wikilink")`..d[no].code..`[](https://zh.wikipedia.org/wiki/''' "wikilink")
-`   else`
+`       else`
+`           note = d[no].note`
+`       end`
 `       b = p._internalColorbox(d[no].company)                  -- 生成颜色方块`
 `       e1 = p.tsllink(d[no].endpoint1)                         -- 处理起讫点1可能出现的`
 `       e2 = p.tsllink(d[no].endpoint2)                         -- 处理起讫点2可能出现的`
@@ -152,15 +152,14 @@ end
 \-- 生成表格首列 function p._internalTitle(style, loc)
 
 `   if loc == "" or loc == nil then loc = "深圳" end`
-`   t = '!colspan="2" width="12%"|`[`编号`](https://zh.wikipedia.org/wiki/'..loc..'巴士路线列表 "wikilink")`!!colspan="3"|起讫点'`
-`   if ((style == "noco") or (style == "nocotr")) then          -- 不显示公司栏（noco）`
-`       t = t..'!!width="8%"|全程收费!!width="26%"|备注\n|-style="background:#a2a9b1" height=0\n|width="1%" height=0| || || width="22%"| || ||width="22%"| || || '`
-`   elseif (style == "nofa") then                               -- 不显示票价栏（nofa）`
-`       t = t..'!!width="8%"|业户!!width="26%"|备注\n|-style="background:#a2a9b1" height=0\n|width="1%" height=0| || || width="22%"| || ||width="22%"| || || '`
-`   elseif (style == "nocofa") then                             -- 不显示公司和票价栏（nocofa）`
-`       t = t..'!!width="26%"|备注\n|-style="background:#a2a9b1" height=0\n|width="1%" height=0| || || width="22%"| || ||width="22%"| || '`
-`   else                                                        -- 显示公司和票价栏（notr、nodo、默认）`
-`       t = t..'!!width="8%"|全程收费!!width="8%"|业户!!width="26%"|备注\n|-style="background:#a2a9b1" height=0\n|width="1%" height=0| || || width="22%"| || ||width="22%"| || || || '`
+`   if style == "noco" then                                     -- 不显示公司栏（noco）`
+`       t = '!colspan="2" width="14%"|`[`编号`](https://zh.wikipedia.org/wiki/'..loc..'巴士路线列表 "wikilink")`!!colspan="3"|起讫点'..'!!width="10%"|全程收费!!width="22%"|备注\n|-style="background:#EAECF0" height=0\n|colspan="2"| ||width="26%"| || ||width="26%"| ||colspan="2"| '`
+`   elseif style == "nofa" then                                 -- 不显示票价栏（nofa）`
+`       t = '!colspan="2" width="14%"|`[`编号`](https://zh.wikipedia.org/wiki/'..loc..'巴士路线列表 "wikilink")`!!colspan="3"|起讫点'..'!!width="11%"|运营商!!width="21%"|备注\n|-style="background:#EAECF0" height=0\n|colspan="2"| ||width="26%"| || ||width="26%"| ||colspan="2"| '`
+`   elseif style == "nocofa" then                               -- 不显示公司和票价栏（nocofa）`
+`       t = '!colspan="2" width="16%"|`[`编号`](https://zh.wikipedia.org/wiki/'..loc..'巴士路线列表 "wikilink")`!!colspan="3"|起讫点'..'!!width="24%"|备注\n|-style="background:#EAECF0" height=0\n|colspan="2"| ||width="29%"| || ||width="29%"| || '`
+`   else                                                        -- 显示公司和票价栏（默认）`
+`       t = '!colspan="2" width="12%"|`[`编号`](https://zh.wikipedia.org/wiki/'..loc..'巴士路线列表 "wikilink")`!!colspan="3"|起讫点'..'!!width="8%"|全程收费!!width="10%"|运营商!!width="20%"|备注\n|-style="background:#EAECF0" height=0\n|colspan="2"| ||width="24%"| || ||width="24%"| ||colspan="3"| '`
 `   end`
 `   return t`
 

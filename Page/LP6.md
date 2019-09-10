@@ -23,7 +23,7 @@
   - **平台花園特色戶**：306至906平方呎不等，附設平台花園，外望將軍澳海灣景致或日出康城20萬呎園林公園[日出公園](../Page/日出公園.md "wikilink")
   - **一房戶**：305呎至379呎，共742個單位，大約佔LP6單位比例31%；設開放式廚房
   - **兩房戶**：422呎至515呎，共947個單位，大約佔39.6%；細分三種戶型：兩房連開放式廚房、標準兩房、兩房連雜物房
-  - **三房戶**：636呎至906呎，共557個單位，大約佔23%；細分五種戶型：標準三房、三房連雜物房、三房一套連雜物房、三房一套連雜物房(雜物房自設獨立洗手間)、三房一套連兩個雜物房(雜物房自設獨立洗手間)
+  - **三房戶**：636呎至906呎，共557個單位，大約佔23%；細分五種戶型：標準三房、三房連雜物房、三房一套連雜物房、三房一套連雜物房（雜物房自設獨立洗手間）、三房一套連兩個雜物房（雜物房自設獨立洗手間）
   - **四房戶**：1,086呎至1,440呎，共66伙；為四房雙套房設計，附設雜物房連獨立洗手間
   - **頂層空中花園及空中泳池特色戶**：實用面積介乎2,500至2,800呎，位於LP6各座頂層63至68樓，屬特色戶，全為五房單位，所有房間均設獨立廁所；其中主人套房更有衣帽間，主人套廁內更設獨立按摩池外望海景。單位更設私人電梯大堂以及面積近千呎的大廳，其中68樓特色戶附設逾1,700呎天台，更建有空中泳池，外望將軍澳海灣、藍塘海峽及維港景致
 
@@ -64,7 +64,7 @@
 
   - [LP6](http://www.lp6.com.hk)
 
-[Category:日出康城](https://zh.wikipedia.org/wiki/Category:日出康城 "wikilink") [Category:小赤沙](https://zh.wikipedia.org/wiki/Category:小赤沙 "wikilink") [Category:將軍澳](https://zh.wikipedia.org/wiki/Category:將軍澳 "wikilink") [Category:西貢區](https://zh.wikipedia.org/wiki/Category:西貢區 "wikilink") [Category:西貢區私人屋苑](https://zh.wikipedia.org/wiki/Category:西貢區私人屋苑 "wikilink") [Category:南豐發展物業](https://zh.wikipedia.org/wiki/Category:南豐發展物業 "wikilink") [Category:港鐵公司物業](https://zh.wikipedia.org/wiki/Category:港鐵公司物業 "wikilink") [Category:香港私人屋苑](https://zh.wikipedia.org/wiki/Category:香港私人屋苑 "wikilink") [Category:200米至249米高的摩天大樓](https://zh.wikipedia.org/wiki/Category:200米至249米高的摩天大樓 "wikilink")
+[Category:日出康城](https://zh.wikipedia.org/wiki/Category:日出康城 "wikilink") [Category:小赤沙](https://zh.wikipedia.org/wiki/Category:小赤沙 "wikilink") [Category:將軍澳](https://zh.wikipedia.org/wiki/Category:將軍澳 "wikilink") [Category:西貢區私人屋苑](https://zh.wikipedia.org/wiki/Category:西貢區私人屋苑 "wikilink") [Category:南豐發展物業](https://zh.wikipedia.org/wiki/Category:南豐發展物業 "wikilink") [Category:港鐵公司物業](https://zh.wikipedia.org/wiki/Category:港鐵公司物業 "wikilink") [Category:200米至249米高的摩天大樓](https://zh.wikipedia.org/wiki/Category:200米至249米高的摩天大樓 "wikilink")
 
 1.  [劉榮廣伍振民建築師事務所-日出康城第六期](http://www.dln.com.hk/html5/?section=project&lang=zh)
 2.

@@ -2,15 +2,11 @@
 
 ## 生平
 
-張敏\[1\]多年來一直從事有關電影的工作，八十年代曾於無綫及亞視曾任[剪辑](https://zh.wikipedia.org/wiki/剪辑 "wikilink")、助導等工作。九十年代初入電影圈，其後當上導演。
-
-張敏在香港電影圈最全盛時期，每年均有幾部電影出品，單在1998年便有《[強姦2制服誘惑](https://zh.wikipedia.org/wiki/強姦2制服誘惑 "wikilink")》(1998)、《[玉蒲團之官人我要](https://zh.wikipedia.org/wiki/玉蒲團之官人我要 "wikilink")》等多部電影上映。張敏被譽為香港最佳喜劇導演之一，亦是90年代港產片不可或缺的導演代表\[2\]。最著名的作品包括《[化骨龍與千年蟲](../Page/化骨龍與千年蟲.md "wikilink")》\[3\]、《[賭聖3之無名小子](../Page/賭聖3之無名小子.md "wikilink")》、《[黑馬王子](../Page/黑馬王子.md "wikilink")》、《[賭俠1999](../Page/賭俠1999.md "wikilink")》、《[賭城風雲II](../Page/賭城風雲II.md "wikilink")》以及《[追龍](https://zh.wikipedia.org/wiki/追龍 "wikilink")》等。他與香港很多著名影星合作過，包括[周潤發](https://zh.wikipedia.org/wiki/周潤發 "wikilink")、[劉德華](../Page/劉德華.md "wikilink")、[張家輝](../Page/張家輝.md "wikilink")、[甄子丹](../Page/甄子丹.md "wikilink")等。後期他往內地發展，拍攝了多部電影與電視劇。
-
-2018年張敏加入[決世影業](https://zh.wikipedia.org/wiki/決世影業 "wikilink")，合作創辦張敏導演工作室，以拍攝多部電影及電視劇。
+張敏\[1\]，1964年出生，香港著名導演。八十年代曾於無綫及亞視工作，九十年代初進軍電影圈，1997年開始當上導演，至今執導超過25部電影。初入行時，他多為王晶編導或監製的電影擔任副導演或執行導演，正式當上導演後，慢慢建立了個人風格，是九十至二千年代港產片的表表佼。他以快手見稱，屬多產導演。在香港電影圈最全盛時期，每年均有幾部電影出品，單在1998年便有《強姦2制服誘惑》(1998)、《玉蒲團III官人我要》等六部電影上映。張敏被譽為香港最佳喜劇導演之一，亦是90年代港產片不可或缺的導演代表。最著名的作品包括《化骨龍與千年蟲》、《賭聖3無名小子》、《黑馬王子》、《賭俠1999》、《賭城風雲II》以及《追龍》等。他與香港很多著名影星合作過，包括周潤發、劉德華、張家輝、甄子丹等。後期他往內地發展\[2\]，拍攝了多部電影與電視劇\[3\]\[4\]\[5\]。 2018年張敏加入決世影業，合作創辦張敏導演工作室，將會拍攝多部電影及電視劇。 另一個無人不識張敏的原因，就是張敏與著名女演員張敏同名同姓，二人均是王晶愛將，兩人的名字經常連在一起，不時被誤會王晶電影中的導演張敏是演員張敏，鬧過不少笑話。
 
 ## 作品
 
-### 導演\[4\]
+### 導演
 
 | 年份   | 電影                                                            | 主演              |
 | ---- | ------------------------------------------------------------- | --------------- |
@@ -55,15 +51,14 @@
 
 ## 參考資料
 
-<https://www.hkfilmblog.com/archives/20375> <https://www.hkfilmblog.com/archives/35835> <https://www.itsfun.com.tw/%E5%BC%B5%E6%95%8F/wiki-3251621-1552911> <http://hkmdb.com/db/people/view.mhtml?id=12336&display_set=big5> <https://www.smmy365.com/detail/star/1380.html> <https://ent.sina.cn/tv/tv/2011-02-24/detail-icesifvx5978760.d.html> <https://hk.entertainment.appledaily.com/entertainment/daily/article/20190626/20713086> <https://www.exmoo.com/article/112661.html> <https://hk.on.cc/hk/bkn/cnt/entertainment/20190625/bkn-20190625172939166-0625_00862_001.html>
-
 ## 外部連結
 
 [:Category:使用创建条目精灵建立的页面](https://zh.wikipedia.org/wiki/Category:使用创建条目精灵建立的页面 "wikilink") [:Category:香港導演](https://zh.wikipedia.org/wiki/Category:香港導演 "wikilink") [:Category:香港導演電影](https://zh.wikipedia.org/wiki/Category:香港導演電影 "wikilink")
 
-<references />
+<http://hkmdb.com/db/people/view.mhtml?id=12336&display_set=big5>
 
 1.
 2.
 3.
 4.
+5.

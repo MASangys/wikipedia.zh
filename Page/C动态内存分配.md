@@ -1,4 +1,4 @@
-**C动态内存分配**是在[C语言中为了实现](https://zh.wikipedia.org/wiki/C语言 "wikilink")[动态内存分配](../Page/动态内存分配.md "wikilink")而进行的。这种管理是通过[C標準函式庫](../Page/C標準函式庫.md "wikilink")中的 `malloc`、`realloc`、`calloc`、`free` 等函数进行的。\[1\]\[2\]
+**C动态内存分配**是在[C语言中为了实现](https://zh.wikipedia.org/wiki/C语言 "wikilink")[动态内存分配](../Page/动态内存分配.md "wikilink")而进行的手动内存管理。这种管理是通过[C標準函式庫](../Page/C標準函式庫.md "wikilink")中的`malloc`、`realloc`、`calloc`、`free` 等函数进行的。\[1\]\[2\]
 
 [C++](../Page/C++.md "wikilink") 为了兼容 C 语言也提供这些函数，但是更推荐使用 `new`、`delete` 操作符来完成类似的操作。\[3\]
 

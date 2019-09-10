@@ -8,7 +8,7 @@
 
 2016年4月7日，負責動畫宣傳的子公司株式會社RELATION成立，從此與株式會社CULTURE、EXZWAL株式會社三家一起專門負責動畫宣傳的業務\[5\]。
 
-此外，TWIN ENGINE當初承包的是[富士電視台](../Page/富士電視台.md "wikilink")深夜動畫時段「noitaminA」的動畫作品，2018年以降負責企劃朝富士電視台製播之外的動畫拓展。
+此外，TWIN ENGINE的作品當初承包的是[富士電視台](../Page/富士電視台.md "wikilink")「[noitaminA](https://zh.wikipedia.org/wiki/noitaminA "wikilink")」深夜動畫時段，2018年以降負責企劃朝富士電視台製播之外進行拓展。
 
 ## 作品列表
 

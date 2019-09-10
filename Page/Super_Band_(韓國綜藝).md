@@ -223,7 +223,7 @@
 <li>Smooth Criminal</li>
 </ul></td>
 <td><ul>
-<li>朴根周－主唱、吉他</li>
+<li>林根周－主唱、吉他</li>
 <li>趙煥錫－鼓</li>
 <li>辛禮讚－小提琴、《<a href="https://zh.wikipedia.org/wiki/看見你的聲音" title="wikilink">看見你的聲音</a>》第5季EP8實力者</li>
 </ul></td>
@@ -413,8 +413,8 @@ DPole（DJ製作人）<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>朴根周組</p></td>
-<td><p><strong>朴根周</strong>（主唱）<br />
+<td><p>林根周組</p></td>
+<td><p><strong>林根周</strong>（主唱）<br />
 南根亨（小提琴）<br />
 朴燦英（大提琴）<br />
 金佑卓（古典吉他）</p></td>
@@ -629,7 +629,7 @@ Mellow Kitchen（薩克斯風、鍵盤）</p></td>
 <td><p>辛禮讚組</p></td>
 <td><p><strong>辛禮讚</strong>（小提琴）<br />
 南根亨（小提琴）<br />
-朴根周（主唱）<br />
+林根周（主唱）<br />
 金佑卓（古典吉他）</p></td>
 <td><p><a href="../Page/柳在夏.md" title="wikilink">柳在夏</a>《過去的日子》(지난날)</p></td>
 <td></td>

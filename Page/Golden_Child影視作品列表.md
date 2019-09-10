@@ -1142,13 +1142,15 @@ Christmas 'WCH 쇼! 명랑음악회' V LIVE</p></td>
 <td><p>3月14日</p></td>
 <td><p>知範的北斗七星 第七顆星<br />
 지범이의 북두칠성💥일곱 번째 별</p></td>
-<td><p>知範 (電話連接: Y 周燦)</p></td>
+<td><p>知範<br />
+(電話連接: Y 周燦)</p></td>
 </tr>
 <tr class="even">
 <td><p>3月21日</p></td>
 <td><p>勝民的音樂工房<br />
 승민이의 음악공방🎶</p></td>
-<td><p>勝民 Y 長埈 (電話連接: 宰鉉)</p></td>
+<td><p>勝民 Y 長埈<br />
+(電話連接: 宰鉉)</p></td>
 </tr>
 <tr class="odd">
 <td><p>3月22日</p></td>
@@ -1197,6 +1199,32 @@ Christmas 'WCH 쇼! 명랑음악회' V LIVE</p></td>
 <td><p>大家好 我們是Golden Child<br />
 안녕하세요. 골든차일드입니다 !</p></td>
 <td><p>Y 長埈 勝民</p></td>
+</tr>
+<tr class="odd">
+<td><p>8月23日</p></td>
+<td><p>2019年8月23日 天氣晴<br />
+2019년8월23일 날씨 맑음☀</p></td>
+<td><p>Y 長埈 東炫 周燦<br />
+(電話連接: 宰鉉)</p></td>
+</tr>
+<tr class="even">
+<td><p>8月24日</p></td>
+<td><p>雖然晚了 普閔<br />
+늦었지만 보민해♡</p></td>
+<td><p>普閔</p></td>
+</tr>
+<tr class="odd">
+<td><p>8月28日</p></td>
+<td><p>Golden Child 出道二週年<br />
+골든차일드(Golden Child) 2nd ANNIVERSARY</p></td>
+<td><p>全員</p></td>
+</tr>
+<tr class="even">
+<td><p>8月30日</p></td>
+<td><p>周燦的路燈閃耀之夜 Ep.15<br />
+주찬이의 가로등이 빛나는 밤에 Ep.15</p></td>
+<td><p>周燦<br />
+(電話連接: Y 長埈 東炫 普閔)</p></td>
 </tr>
 </tbody>
 </table>

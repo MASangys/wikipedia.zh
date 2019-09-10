@@ -4,7 +4,7 @@
 
 这个项目由[Mozilla](../Page/Mozilla.md "wikilink")工程师Kevin Dangoor于2009年1月发起，最初名为**ServerJS**\[1\]。在2009年8月，这个项目被改名为“CommonJS”来展示其[API的广泛的应用性](https://zh.wikipedia.org/wiki/API "wikilink")\[2\]。有关规定在一个开放进程中被建立和认可，一个规定只有在已经被多个实现完成之后才被认为是最终的\[3\]。 CommonJS不隶属于致力于[ECMAScript](../Page/ECMAScript.md "wikilink")的[Ecma国际](../Page/Ecma国际.md "wikilink")的工作组 TC39，但是TC39的一些成员参与了这个项目\[4\]。
 
-在2013年5月，[Node.js](../Page/Node.js.md "wikilink")包管理器[npm的作者Isaac](https://zh.wikipedia.org/wiki/npm "wikilink") Z. Schlueter，声称Node.js已经废弃了CommonJS，Node.js核心开发者应避免使用它\[5\]。
+在2013年5月，[Node.js](../Page/Node.js.md "wikilink")包管理器[npm的作者Isaac](https://zh.wikipedia.org/wiki/npm "wikilink") Z. Schlueter，宣布Node.js已经废弃了CommonJS，Node.js核心开发者应避免使用它\[5\]。
 
 ## 规定
 

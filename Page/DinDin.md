@@ -2,42 +2,38 @@
 
 ## 电视節目
 
-  - 《[Show Me The Money](../Page/Show_Me_The_Money.md "wikilink")2》（2013，Mnet）
-  - 《Catch Music If You Can》（2015，MBC Music）
-  - 《[真正的男人](../Page/真正的男人.md "wikilink")》（2015，MBC）
-  - 《我的资金合作伙伴：隔壁的CEO們》（2015，MBC）
-  - 《One Night Food Trip》（2016，OLIVE）
-  - 《[看見你的聲音](https://zh.wikipedia.org/wiki/看見你的聲音 "wikilink")3》（2016，Mnet）
-  - 《[嘻哈民族](../Page/嘻哈民族.md "wikilink")》（2016，JTBC）
-  - 《[嘻哈民族](../Page/嘻哈民族.md "wikilink")2》（2016，JTBC）
-  - 《取向追擊：Beauty Plus 2》（2016，MBC Drama Net）
-  - 《本月商演之王》（2016，JTBC）
-  - 《Sing Street》（2016，Mnet）
-  - 《》（2016，TV朝鮮）
-  - 《JukeBus》（2016，sky Drama）
-  - 《[把便利店掏空吧](../Page/把便利店掏空吧.md "wikilink")》（2017，tvN）
-  - 《[神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")》（2016，2017 MBC）（参賽者） \[1\]
-  - 《[My Little Television](../Page/My_Little_Television.md "wikilink")》（2017，MBC）
-  - 《[隐秘而伟大](../Page/隐秘而伟大_\(综艺节目\).md "wikilink")》（2017，MBC）
-  - 《[Fantastic Duo 2](../Page/Fantastic_Duo.md "wikilink")》（2017，SBS）
-  - 《[夏洛克的房間](../Page/夏洛克的房間.md "wikilink")》（2017，MBC）
-  - 《偶像之旅》（2017，MBC Music）
-  - 《建设运营FBI》（2017，TRENDY）
-  - 《》（2017，MBC Every1）
-  - 《[需要對話的狗貓](../Page/需要對話的狗貓.md "wikilink")》（2017，tvN）
-  - 《[叢林的法則](https://zh.wikipedia.org/wiki/叢林的法則 "wikilink")》（2017，SBS）
-  - 《[尋找金無名](https://zh.wikipedia.org/wiki/尋找金無名 "wikilink")》（2017，tvN）
-  - 《[理論上完美的男人](../Page/理論上完美的男人.md "wikilink")》（2017，JTBC）
-  - 《出現差異的課堂》（2017，JTBC）
-  - 《[TV动物农场](../Page/TV動物農場.md "wikilink")》（2018，SBS）
-  - 《[Video Star](../Page/Video_Star.md "wikilink")》（2018，MBC every1）7月10日
-  - 《[Dunia](https://zh.wikipedia.org/wiki/Dunia "wikilink")》（2018，MBC） \[2\]
-  - 《[自討苦吃](../Page/自討苦吃.md "wikilink")2》（2018，JTBC2）
-  - 《[看見你的声音](https://zh.wikipedia.org/wiki/看見你的聲音 "wikilink")6》（2019，Mnet）
-  - 《[為什麼來我家](../Page/為什麼來我家_\(韓國綜藝\).md "wikilink") 》（2019，Channel A）
-  - 《[玩什麼好呢](../Page/玩什麼好呢.md "wikilink") 》（2019，MBC）
-  - 《[The Call](../Page/The_Call.md "wikilink") 》第二季（2019，Mnet，tvN）
-  - 《[不是你所認識的我V2](https://zh.wikipedia.org/wiki/不是你所認識的我V2 "wikilink")》 （2019，Mnet）
+### 固定綜藝
+
+
+{| class="wikitable" width="80%" \!colspan="6" style="background:; |節目列表 |- |-style="background:; font-weight:bold; text-align:center;" \! width="27%"| 播出日期 || width="10%"|電視台 || width="25%"|節目名稱 || width="18%"|備註 |- |2013年6月7日－2013年8月2日|| [Mnet](../Page/Mnet.md "wikilink") ||《[Show Me The Money](../Page/Show_Me_The_Money.md "wikilink")2》|| 參加者 |- |2015年|| MBC Music ||《Catch Music If You Can》|| |- |2015年9月21日－2016年2月14日|| rowspan = "2"|[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") ||《[真正的男人](../Page/真正的男人.md "wikilink")》|| |- |2015年||《我的资金合作伙伴：隔壁的CEO們》 || |- |2016年4月1日－2016年5月27日|| [JTBC](../Page/JTBC.md "wikilink") ||《[嘻哈民族](../Page/嘻哈民族.md "wikilink")》|| EP1 - 9 |- |2016年4月27日 - 2016年5月18日|| OLIVE ||《[吃貨48小時](../Page/吃貨48小時.md "wikilink")》|| EP5 - 8 |- |2016年|| MBC Drama Net ||《取向追擊：Beauty Plus 2》|| |- |2016年10月12日－2016年10月21日|| rowspan = "2"|[JTBC](../Page/JTBC.md "wikilink") ||《[本月的活動王](https://zh.wikipedia.org/wiki/本月的活動王 "wikilink")》 || EP1 - 2 |- |2016年10月18日－2017年1月17日||《[嘻哈民族](../Page/嘻哈民族.md "wikilink")2》|| EP1 - 14 |- |2016年10月26日－2016年12月14日|| Mnet ||《Sing Street》 || EP1 - 8 |- |2016年|| TV朝鮮 ||《》 || |- |2016年||sky Drama||《JukeBus》 || |- |2017年3月13日-2017年5月15日||[tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")||《[把便利店掏空吧](../Page/把便利店掏空吧.md "wikilink")》 || |- |2017年3月26日－2017年12月17日||[SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")||《[Fantastic Duo 2](../Page/Fantastic_Duo_2.md "wikilink")》 || |- |2017年7月3日－2017年7月8日||[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")||《[夏洛克的房間](../Page/夏洛克的房間.md "wikilink")》 || |- |2017年7月20日-2017年10月28日||MBC Music||《Idol Tour》|| |- |2017年7月21日-2017年11月1日||TRENDY||《建设运营FBI》|| |- |2017年7月21日至今||MBC Every1||style="background:\#e6caff;|《》|| |- |2017年9月22日至2017年10月20日||[SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")||《[叢林的法則](https://zh.wikipedia.org/wiki/叢林的法則 "wikilink")－斐濟篇》|| 上半部固定成員 |- |2017年10月7日－2017年12月23日||[tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")||《[尋找金無名](https://zh.wikipedia.org/wiki/尋找金無名 "wikilink")》|| |- |2017年11月10日－2018年1月12日||rowspan = "2"|[JTBC](../Page/JTBC.md "wikilink")||《[理論上完美的男人](../Page/理論上完美的男人.md "wikilink")》|| |- |2017年3月5日－2019年3月13日||《差異Class - 我有問題》|| |- |2018年6月3日－2018年9月23日||[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") ||《[Dunia](https://zh.wikipedia.org/wiki/Dunia "wikilink")》||EP1 - 15 |- |2018年6月30日－2018年9月14日||JTBC2 ||《[自討苦吃](../Page/自討苦吃.md "wikilink")2》||EP1 - 12 |- |2019年1月18日－2019年4月5日|| rowspan = "2"|Mnet ||《[看見你的聲音](https://zh.wikipedia.org/wiki/看見你的聲音 "wikilink")6》||EP1 - 12 |- |2019年4月25日－2019年5月30日|| 《[TMI News](../Page/TMI_News.md "wikilink")》||EP1 - 6 |- |2019年4月25日－2019年5月30日|| Channel A ||《[為什麼來我家](../Page/為什麼來我家_\(韓國綜藝\).md "wikilink") 》|| |- |2019年6月27日－2019年8月15日|| [Mnet](../Page/Mnet.md "wikilink") ||《[不是你所認識的我V2](../Page/不是你所認識的我V2.md "wikilink")》|| |- |2019年7月26日至今|| [Mnet](../Page/Mnet.md "wikilink")、[tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") ||style="background:\#e6caff;|《[The Call](../Page/The_Call.md "wikilink")》第二季|| |- |2019年8月22日至今|| [Mnet](../Page/Mnet.md "wikilink")||style="background:\#e6caff;|《[Love Catcher 2](https://zh.wikipedia.org/wiki/Love_Catcher_2 "wikilink")》||
+
+|}
+
+### 嘉賓出演
+
+| colspan="6" style="background:; |節目列表 |
+| ------------------------------------- |
+|                                       |
+| 播出日期                                  |
+| 2016年7月28日                            |
+| 2016年8月18日                            |
+| 2016年9月15日                            |
+| 2017年1月7日                             |
+| 2017年1月14日                            |
+| 2017年1月22日                            |
+| 2017年2月26日                            |
+| 2017年9月15日                            |
+| 2017年9月22日                            |
+| 2018年6月10日                            |
+| 2018年6月17日                            |
+| 2018年7月10日                            |
+| 2019年7月7日                             |
+| 2019年7月20日                            |
+| 2019年7月27日                            |
+| 2019年7月28日                            |
+| 2019年8月3日                             |
+| 2019年8月4日                             |
+|                                       |
 
 ## 電視剧
 
@@ -100,6 +96,3 @@
   -
   -
 [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink") [Category:1991年出生](https://zh.wikipedia.org/wiki/Category:1991年出生 "wikilink")
-
-1.
-2.

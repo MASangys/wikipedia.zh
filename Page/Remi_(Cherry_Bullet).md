@@ -39,16 +39,16 @@
 <!-- end list -->
 
   -
-  - [Cherry Bullet](http://cafe.daum.net/CherryBullet)的Daum Cafe
+  - [Cherry Bullet的Daum Cafe](http://cafe.daum.net/CherryBullet)
 
   -
   -
   -
   -
   -
-  - [Cherry Bullet的V Live频道](https://channels.vlive.tv/BC585B/video)
+  - [Cherry Bullet的V Live頻道](https://channels.vlive.tv/BC585B/video)
 
-  - [Cherry Bullet](https://tw.weibo.com/cherrybullet)的新浪微博
+  - [Cherry Bullet的新浪微博](https://tw.weibo.com/cherrybullet)
 
 [Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink") [Category:Cherry_Bullet](https://zh.wikipedia.org/wiki/Category:Cherry_Bullet "wikilink") [Category:東京都出身人物](https://zh.wikipedia.org/wiki/Category:東京都出身人物 "wikilink") [Category:在韓國的日本人](https://zh.wikipedia.org/wiki/Category:在韓國的日本人 "wikilink")
 

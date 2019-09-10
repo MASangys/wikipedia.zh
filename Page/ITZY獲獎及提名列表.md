@@ -46,6 +46,29 @@
 </tbody>
 </table>
 
+### [Soribada最佳音樂大獎](../Page/Soribada最佳音樂大獎.md "wikilink")
+
+<table>
+<thead>
+<tr class="header">
+<th><p>屆數</p></th>
+<th><p>年份</p></th>
+<th><p>獎項</p></th>
+<th><p>提名項目 </p></th>
+<th><p>結果</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>第三屆</p></td>
+<td><p>2019年</p></td>
+<td><p>最佳新人團體</p></td>
+<td><p>ITZY</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ## 其他獎項
 
 ### 韓國年度品牌大賞
@@ -86,10 +109,10 @@
 <td><p><a href="../Page/Mnet媒體.md" title="wikilink">Mnet</a></p></td>
 </tr>
 <tr class="even">
-<td><p>3</p></td>
+<td><p>4</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong>一位總數：15</strong><br />
+<td><p><strong>一位總數：21</strong><br />
 <strong>四台冠軍歌曲：1</strong><br />
 <strong>五台冠軍歌曲：1</strong></p></td>
 </tr>
@@ -103,6 +126,7 @@
 | 2019年 | 2月21日 | Dalla Dalla |
 | 3月7日  |       |             |
 | 8月8日  | ICY   |             |
+| 8月22日 |       |             |
 
   - 註：每首歌曲最多只能獲得一位三次，獲獎三次後會自動在候補名單中被剔除。
 
@@ -114,6 +138,8 @@
 | 2019年 | 2月23日 | Dalla Dalla |
 | 3月9日  |       |             |
 | 8月10日 | ICY   |             |
+| 8月17日 |       |             |
+| 8月24日 |       |             |
 
 ### [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")
 
@@ -122,6 +148,7 @@
 | 2019年 | 3月8日 | Dalla Dalla |
 | 3月15日 |      |             |
 | 8月16日 | ICY  |             |
+| 8月23日 |      |             |
 
 ### [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")
 
@@ -131,6 +158,7 @@
 | 3月3日  |       |             |
 | 3月10日 |       |             |
 | 8月11日 | ICY   |             |
+| 8月25日 |       |             |
 
   - 註：每首歌曲最多只能獲得一位三次，獲獎三次後會自動在候補名單中被剔除
 
@@ -140,6 +168,7 @@
 | ----- | ---- | ---- |
 | 2019年 | 8月7日 | ICY  |
 | 8月14日 |      |      |
+| 8月21日 |      |      |
 
   - 註：每首歌曲最多只能獲得一位三次，獲獎三次後會自動在候補名單中被剔除。
 

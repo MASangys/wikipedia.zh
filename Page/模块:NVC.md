@@ -1,7 +1,19 @@
-local NVC = {} --\[=\[ 回傳成員人數 \]=\]-- function NVC.Member(frame)
+local NVC = {} --\[=\[ 回傳成員人數 \]=\]-- function NVC.Manager(frame)
 
 `   local page = frame:expandTemplate{title="Wikipedia:新手會/成員"}`
-`   local word = "InfoChip" or "%*"`
+`   local word = "InfoChip"`
+`   local count = 0`
+`   for _ in string.gmatch(page, word) do`
+`       count = count + 1`
+`   end`
+`   return count`
+
+end
+
+function NVC.Member(frame)
+
+`   local page = frame:expandTemplate{title="Wikipedia:新手會/成員"}`
+`   local word = "%*"`
 `   local count = 0`
 `   for _ in string.gmatch(page, word) do`
 `       count = count + 1`

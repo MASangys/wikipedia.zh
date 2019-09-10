@@ -1,6 +1,6 @@
 [JvmSpec7.png](https://zh.wikipedia.org/wiki/File:JvmSpec7.png "fig:JvmSpec7.png") **Java虚拟机**（**Java Virtual Machine**，简称**JVM**）是可让计算机运行[Java程序及使用](../Page/Java平臺.md "wikilink")编译为[Java字节码](../Page/Java字节码.md "wikilink")程序的[虚拟机](../Page/虛擬機器.md "wikilink")。其最早由[昇陽電腦](../Page/昇陽電腦.md "wikilink")所研發并实现第一个实现版本，是[Java平臺](../Page/Java平臺.md "wikilink")的一部份。Java虚拟机的具体实现细节通过指定，这确保了不同实现上运行相同Java程序的互用性，同时让使用[Java开发工具包](../Page/JDK.md "wikilink")（JDK）的开发者不必担心硬件平台的问题。
 
-[OpenJDK](../Page/OpenJDK.md "wikilink")开发了一款[开放源代码的Java虚拟机](../Page/开源软件.md "wikilink")，同时内附一款名为[HotSpot的](https://zh.wikipedia.org/wiki/HotSpot "wikilink")[即时编译器](../Page/即時編譯.md "wikilink")。用户亦可从[甲骨文公司](../Page/甲骨文公司.md "wikilink")下载其基于OpenJDK运行时的Java版本，并获取技术支持。Eclipse 是另一款适用于OpenJDK的开源Java虚拟机。
+[OpenJDK](../Page/OpenJDK.md "wikilink")开发了一款[开放源代码的Java虚拟机](../Page/开源软件.md "wikilink")，同时内附一款名为[HotSpot](../Page/HotSpot.md "wikilink")的[即时编译器](../Page/即時編譯.md "wikilink")。用户亦可从[甲骨文公司](../Page/甲骨文公司.md "wikilink")下载其基于OpenJDK运行时的Java版本，并获取技术支持。Eclipse 是另一款适用于OpenJDK的开源Java虚拟机。
 
 ## 技术规范
 
@@ -8,7 +8,7 @@
 
 自[Java平台标准版](https://zh.wikipedia.org/wiki/Java_SE "wikilink")（J2SE）5.0起，Java虚拟机的技术规范改为由[Java社区流程开发制定](../Page/JCP.md "wikilink")（JSR 924）。\[2\]2006年，JSR 924对技术规范进行了变更，支持更改的提议（JSR 202）\[3\]。Java虚拟机的技术细节以蓝皮书\[4\]的形式发布，其前言称：
 
-甲骨文公司的一款Java虚拟机名为[HotSpot](https://zh.wikipedia.org/wiki/HotSpot "wikilink")；另一款自[BEA Systems继承而来的名为](https://zh.wikipedia.org/wiki/BEA_Systems "wikilink")[JRockit](../Page/JRockit.md "wikilink")。[净室设计](../Page/净室设计.md "wikilink")版Java实现有、及[Skelmir's CEE-J](https://skelmir.com)。甲骨文公司拥有Java商标权，且可能将其用于认证其他实现是否能完全匹配甲骨文的技术规范。
+甲骨文公司的一款Java虚拟机名为[HotSpot](../Page/HotSpot.md "wikilink")；另一款自[BEA Systems继承而来的名为](https://zh.wikipedia.org/wiki/BEA_Systems "wikilink")[JRockit](../Page/JRockit.md "wikilink")。[净室设计](../Page/净室设计.md "wikilink")版Java实现有、及[Skelmir's CEE-J](https://skelmir.com)。甲骨文公司拥有Java商标权，且可能将其用于认证其他实现是否能完全匹配甲骨文的技术规范。
 
 ### 类加载器
 
@@ -105,7 +105,7 @@ Leading compilers from JVM languages to JavaScript include the Java-to-JavaScrip
 
 ## Java Runtime Environment
 
-The Java Runtime Environment (JRE) released by Oracle is a freely available software distribution containing a stand-alone JVM ([HotSpot](https://zh.wikipedia.org/wiki/HotSpot "wikilink")), the Java [standard library](../Page/标准库.md "wikilink") (), a configuration tool, and—until its discontinuation in JDK 9—a browser plug-in. It is the most common Java environment installed on [personal computers](../Page/个人电脑.md "wikilink") in the laptop and desktop . [Mobile phones](../Page/移动电话.md "wikilink") including [feature phones](../Page/功能型手機.md "wikilink") and early [smartphones](../Page/智能手机.md "wikilink") that ship with a JVM are most likely to include a JVM meant to run applications targeting [Micro Edition](../Page/Java_ME.md "wikilink") of the Java platform. Meanwhile, most modern smartphones, [tablet computers](../Page/平板電腦.md "wikilink"), and other s that run Java apps are most likely to do so through support of the [Android operating system](../Page/Android.md "wikilink"), which includes an [open source](../Page/开源软件.md "wikilink") virtual machine incompatible with the JVM specification. (Instead, [Google](../Page/Google.md "wikilink")'s Android development tools take Java programs as input and output [Dalvik](../Page/Dalvik虚拟机.md "wikilink") bytecode, which is the native input format for the virtual machine on Android devices.)
+The Java Runtime Environment (JRE) released by Oracle is a freely available software distribution containing a stand-alone JVM ([HotSpot](../Page/HotSpot.md "wikilink")), the Java [standard library](../Page/标准库.md "wikilink") (), a configuration tool, and—until its discontinuation in JDK 9—a browser plug-in. It is the most common Java environment installed on [personal computers](../Page/个人电脑.md "wikilink") in the laptop and desktop . [Mobile phones](../Page/移动电话.md "wikilink") including [feature phones](../Page/功能型手機.md "wikilink") and early [smartphones](../Page/智能手机.md "wikilink") that ship with a JVM are most likely to include a JVM meant to run applications targeting [Micro Edition](../Page/Java_ME.md "wikilink") of the Java platform. Meanwhile, most modern smartphones, [tablet computers](../Page/平板電腦.md "wikilink"), and other s that run Java apps are most likely to do so through support of the [Android operating system](../Page/Android.md "wikilink"), which includes an [open source](../Page/开源软件.md "wikilink") virtual machine incompatible with the JVM specification. (Instead, [Google](../Page/Google.md "wikilink")'s Android development tools take Java programs as input and output [Dalvik](../Page/Dalvik虚拟机.md "wikilink") bytecode, which is the native input format for the virtual machine on Android devices.)
 
 ### Performance
 

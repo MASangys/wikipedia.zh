@@ -10,7 +10,7 @@
 
 ### 2019年
 
-  - 4月10日 – 發行首張單曲。《 "そして、また、、(リミックス) "》
+  - 4月10日 – 發行首張單曲。《 "そして、また、、(リミックス) "》\[4\]
   - 5月11日 – 由於BiS解散，パン・ルナリーフィ決定留在WACK。
   - 5月31日 – 首次亮相，パン・ルナリーフィ並以個人身份亮相，與BILLIEIDLE®一起在Tower Records的店舗表演。
   - 6月19日 – パン・ルナリーフィ並宣布她將加入一個臨時名稱為Curry Roux的新團體。
@@ -99,3 +99,4 @@
 1.  [謎のユニット・BULLY IDOL「そして、また、、（リミックス）」MV公開](https://natalie.mu/music/news/318971)
 2.  [BiSHアイナ、アユニらが参加　BULLY IDOL“そして、また、、”PV公開](https://www.cinra.net/news/20190206-bullyidol)
 3.  [WACK所属のグループに瓜ふたつメンバーで構成されたグループBULLY IDOLの音源がCD化！タワレコ一部店舗にて3000枚限定でゲリラ発売。](https://tower.jp/article/news/2019/04/10/n101)
+4.  [BULLY IDOL、タワレコで「そして、また、、（リミックス）」収録CDをゲリラ発売](http://www.billboard-japan.com/d_news/detail/74608)

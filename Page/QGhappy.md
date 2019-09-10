@@ -31,21 +31,21 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>Gemini</p></td>
-<td><p>郭嘉毅</p></td>
+<td><p>SK</p></td>
+<td><p>宋季泽</p></td>
 <td><p>教练</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>阿宝</p></td>
 <td><p>常琦</p></td>
-<td><p>助教</p></td>
+<td><p>战术教练</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>kear</p></td>
-<td><p>张凯</p></td>
-<td><p>数据分析</p></td>
+<td><p>Ggod</p></td>
+<td><p>王皓文</p></td>
+<td><p>助教</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -55,39 +55,39 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Song</p></td>
-<td><p>汤俊伟</p></td>
+<td><p>1Dao</p></td>
+<td><p>钟乐天</p></td>
 <td><p>边路</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>Giao</p></td>
 <td><p>孙茂荣</p></td>
-<td><p>边路</p></td>
+<td><p>打野，下路</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Best</p></td>
-<td><p>郑国浩</p></td>
-<td><p>中路</p></td>
+<td><p>139</p></td>
+<td><p>万童</p></td>
+<td><p>打野</p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>Q</p></td>
+<td><p>孙龙清</p></td>
+<td><p>中路</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>Mojo</p></td>
 <td><p>胡林烨</p></td>
 <td><p>中路</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Hurt</p></td>
 <td><p>夏圣钦</p></td>
 <td><p>打野，下路（队长）</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Neil</p></td>
-<td><p>王凯鑫</p></td>
-<td><p>下路</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -97,14 +97,8 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Hico</p></td>
-<td><p>薛智伟</p></td>
-<td><p>打野</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>lan</p></td>
-<td><p>罗飞</p></td>
+<td><p>770</p></td>
+<td><p>刘雪详</p></td>
 <td><p>辅助</p></td>
 <td></td>
 </tr>
@@ -128,7 +122,7 @@
 <td><p>Cat</p></td>
 <td><p>陈正正</p></td>
 <td></td>
-<td><p>转会<a href="https://zh.wikipedia.org/wiki/estar" title="wikilink">estar</a></p></td>
+<td><p>转会<a href="https://zh.wikipedia.org/wiki/eStar_Gaming" title="wikilink">eStar</a></p></td>
 <td><p>中路</p></td>
 </tr>
 <tr class="even">
@@ -142,14 +136,14 @@
 <td><p>Alan</p></td>
 <td><p>王添龙</p></td>
 <td></td>
-<td><p>转会<a href="https://zh.wikipedia.org/wiki/estar" title="wikilink">estar</a></p></td>
+<td><p>转会<a href="https://zh.wikipedia.org/wiki/eStar_Gaming" title="wikilink">eStar</a></p></td>
 <td><p>打野，边路</p></td>
 </tr>
 <tr class="even">
 <td><p>伪装</p></td>
 <td><p>朱思远</p></td>
 <td></td>
-<td><p>暂时休息</p></td>
+<td><p>转会<a href="https://zh.wikipedia.org/wiki/EDG" title="wikilink">EDG.M</a></p></td>
 <td><p>中路</p></td>
 </tr>
 <tr class="odd">
@@ -160,39 +154,67 @@
 <td><p>边路</p></td>
 </tr>
 <tr class="even">
-<td><p>Q</p></td>
-<td><p>孙翔清</p></td>
-<td></td>
-<td><p>退役</p></td>
-<td><p>辅助</p></td>
-</tr>
-<tr class="odd">
 <td><p>XX</p></td>
 <td><p>孙翔</p></td>
 <td></td>
 <td><p>退役</p></td>
 <td><p>中路</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Kimi</p></td>
 <td><p>刘鑫</p></td>
 <td></td>
 <td><p>不详</p></td>
 <td><p>辅助</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Fish</p></td>
 <td><p>王思逸</p></td>
 <td></td>
 <td><p>不详</p></td>
 <td><p>下路</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Mc</p></td>
 <td><p>谢涛</p></td>
 <td></td>
-<td><p>转会<a href="https://zh.wikipedia.org/wiki/estar" title="wikilink">estar</a></p></td>
+<td><p>转会<a href="https://zh.wikipedia.org/wiki/eStar_Gaming" title="wikilink">eStar</a></p></td>
 <td><p>下路</p></td>
+</tr>
+<tr class="even">
+<td><p>Song</p></td>
+<td><p>汤俊伟</p></td>
+<td></td>
+<td><p>转会SLT</p></td>
+<td><p>边路</p></td>
+</tr>
+<tr class="odd">
+<td><p>Best</p></td>
+<td><p>郑国浩</p></td>
+<td></td>
+<td><p>转会<a href="https://zh.wikipedia.org/wiki/RNG" title="wikilink">RNG.M</a></p></td>
+<td><p>中路</p></td>
+</tr>
+<tr class="even">
+<td><p>Hico</p></td>
+<td><p>薛智伟</p></td>
+<td></td>
+<td><p>转会<a href="https://zh.wikipedia.org/wiki/Vici_Gaming" title="wikilink">VG</a></p></td>
+<td><p>打野</p></td>
+</tr>
+<tr class="odd">
+<td><p>lan</p></td>
+<td><p>罗飞</p></td>
+<td></td>
+<td><p>转会GK</p></td>
+<td><p>辅助</p></td>
+</tr>
+<tr class="even">
+<td><p>Neli</p></td>
+<td><p>王凯鑫</p></td>
+<td></td>
+<td><p>不详</p></td>
+<td><p>边路</p></td>
 </tr>
 </tbody>
 </table>

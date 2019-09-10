@@ -43,7 +43,7 @@ Fiverr 將每一筆訂單稱作 gig（字面意思為演出）。Fiverr 是一�
 
 <references />
 
-[Category:社群網站](https://zh.wikipedia.org/wiki/Category:社群網站 "wikilink")
+[Category:社群網站](https://zh.wikipedia.org/wiki/Category:社群網站 "wikilink") [Category:2010年建立的网站](https://zh.wikipedia.org/wiki/Category:2010年建立的网站 "wikilink") [Category:2019年IPO](https://zh.wikipedia.org/wiki/Category:2019年IPO "wikilink") [Category:纽约证券交易所上市公司](https://zh.wikipedia.org/wiki/Category:纽约证券交易所上市公司 "wikilink")
 
 1.
 2.
