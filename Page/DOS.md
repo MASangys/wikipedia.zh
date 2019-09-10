@@ -12,7 +12,7 @@ DOS的核心為使用者程式提供了各式各樣的函式，例如：在螢�
 
 ### 腳本語言
 
-DOS透過*批次檔*（[副檔名為](https://zh.wikipedia.org/wiki/副檔名 "wikilink")**.BAT**）提供[界面腳本的功能](https://zh.wikipedia.org/wiki/界面腳本 "wikilink")。這些檔案是純文字格式的，可以用任何的文字編輯器（像是edit.com）編輯。他們執行起來和編譯而成的程式沒有兩樣。檔案中的每一行都被視為命令來執行。批次檔也可以使用數個內部命令，例如[goto和](https://zh.wikipedia.org/wiki/goto "wikilink")[條件運算式](https://zh.wikipedia.org/wiki/條件運算式 "wikilink")。\[3\]
+DOS透過*批次檔*（[副檔名為](https://zh.wikipedia.org/wiki/副檔名 "wikilink")**.BAT**）提供[界面腳本的功能](https://zh.wikipedia.org/wiki/界面腳本 "wikilink")。這些檔案是純文字格式的，可以用任何的文字編輯器（像是edit.com）編輯。他們執行起來和編譯而成的程式沒有兩樣。檔案中的每一行都被視為命令來執行。批次檔也可以使用數個內部命令，例如[goto和](https://zh.wikipedia.org/wiki/goto "wikilink")[條件運算式](../Page/條件運算式.md "wikilink")。\[3\]
 
 ### 硬體存取
 

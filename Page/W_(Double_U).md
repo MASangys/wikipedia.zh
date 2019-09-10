@@ -10,7 +10,7 @@
   - 2004年5月，當時還是[早安少女組團員的](https://zh.wikipedia.org/wiki/早安少女組 "wikilink")[辻希美](../Page/辻希美.md "wikilink")與[加護亞依](../Page/加護亞依.md "wikilink")組成這個團體。
   - 團名的由來從「不是雙胞胎卻很像雙胞胎」發想，自「W」的語源「Double　U」擷取了「YOU＆YOU、也就是『你與你』」。
   - 出道單曲翻唱[The Peanuts](https://zh.wikipedia.org/wiki/The_Peanuts "wikilink")（<span lang=ja>ザ・ピーナッツ</span>）的「戀愛假期」。6月發行了收錄13組日本女子雙人組合，共15曲的首張翻唱專輯。
-  - 2004年12月31日與早安少女組共同組成特別團體登上[NHK](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")[红白歌合战舞台](https://zh.wikipedia.org/wiki/红白歌合战 "wikilink")。
+  - 2004年12月31日與早安少女組共同組成特別團體登上[NHK红白歌合战](../Page/NHK红白歌合战.md "wikilink")（）。
   - 2006年2月9日成員加護亞依因未成年抽煙遭八卦雜誌披露，組合暫停演藝活動。
   - 2007年3月26日加護亞依再次被揭發抽煙，被所屬事務所解除契約，辻希美轉為個人活動。
   - 2019年3月30日，加護亞依與辻希美兩人以嘉賓身份出演「Hello\!Project　ひなフェス2019」演唱會，W時隔十三年後再度合體。同日以網絡下載的形式發行迷你專輯。

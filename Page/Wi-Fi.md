@@ -61,16 +61,16 @@ Wi-Fi這個術語被人們普遍誤以為是指-{zh-cn:无线保真;zh-tw:無線
 
 ## 年代
 
-Wi-Fi可分為六代。\[6\]由於[ISM頻段中的](https://zh.wikipedia.org/wiki/ISM頻段 "wikilink")2.4GHz頻段被廣泛使用，例如[微波爐](https://zh.wikipedia.org/wiki/微波爐 "wikilink")、[藍牙](../Page/藍牙.md "wikilink")，它們會干擾WiFi，令速度減慢，5GHz干擾則較小。雙頻路由器可同時使用2.4GHz和5GHz，裝置則只能使用某一個頻段。
+Wi-Fi可分為六代。\[6\]\[7\]由於[ISM頻段中的](https://zh.wikipedia.org/wiki/ISM頻段 "wikilink")2.4GHz頻段被廣泛使用，例如[微波爐](https://zh.wikipedia.org/wiki/微波爐 "wikilink")、[藍牙](../Page/藍牙.md "wikilink")，它們會干擾WiFi，令速度減慢，5GHz干擾則較小。雙頻路由器可同時使用2.4GHz和5GHz，裝置則只能使用某一個頻段。
 
   - 第一代 [802.11](../Page/IEEE_802.11.md "wikilink")：1997年制定，只使用2.4GHz，最快2Mbit/s
   - 第二代 [802.11b](../Page/IEEE_802.11b-1999.md "wikilink")，只使用2.4GHz，最快11Mbit/s，正逐漸淘汰
   - 第三代 [802.11g](../Page/IEEE_802.11g-2003.md "wikilink")/[a](../Page/IEEE_802.11a-1999.md "wikilink")，分別使用2.4GHz和5GHz，最快54Mbit/s
-  - 第四代 [802.11n](../Page/IEEE_802.11n.md "wikilink")（Wi-Fi 4），可使用2.4GHz或5GHz，20和40MHz[頻寬下最快](https://zh.wikipedia.org/wiki/頻寬 "wikilink")72和150Mbit/s
-  - 第五代 [802.11ac](../Page/IEEE_802.11ac.md "wikilink")（Wi-Fi 5），可使用2.4GHz，5GHz
-  - 第六代 [802.11ax](../Page/IEEE_802.11ax.md "wikilink")（Wi-Fi 6），可使用2.4GHz，5GHz (未來可能納入6GHz)
+  - 第四代 [802.11n](../Page/IEEE_802.11n.md "wikilink")（Wi-Fi 4），可使用2.4GHz或5GHz，20和40MHz[頻寬下最快為](https://zh.wikipedia.org/wiki/頻寬 "wikilink")216.7MBit/s和450Mbit/s
+  - 第五代 [802.11ac](../Page/IEEE_802.11ac.md "wikilink")（Wi-Fi 5），802.11ac Wave1支援的最高頻寬為866MBit/s，802.11ac Wave2支援的最高頻寬為1.73Gbit/s
+  - 第六代 [802.11ax](../Page/IEEE_802.11ax.md "wikilink")（Wi-Fi 6）
 
-\[7\] \[8\]
+\[8\] \[9\]
 
 ## 用途
 
@@ -89,7 +89,7 @@ Wi-Fi可分為六代。\[6\]由於[ISM頻段中的](https://zh.wikipedia.org/wik
 
 ### 校園的Wi-Fi覆蓋
 
-[卡內基美隆大學於](https://zh.wikipedia.org/wiki/卡內基美隆大學 "wikilink")1994年在其[匹茲堡校區建立了世界上第一個無線網絡](https://zh.wikipedia.org/wiki/匹茲堡 "wikilink")，比起源於1999年的Wi-Fi品牌還要早\[9\]。2000年，[費城](../Page/費城.md "wikilink")[德雷克塞爾大學創造了歷史](../Page/卓克索大學.md "wikilink")，成為[美國第一個提供全校園無線網路覆蓋的主要大學](https://zh.wikipedia.org/wiki/美國 "wikilink")。現在大多數校園已設置無線網路。
+[卡內基美隆大學於](https://zh.wikipedia.org/wiki/卡內基美隆大學 "wikilink")1994年在其[匹茲堡校區建立了世界上第一個無線網絡](https://zh.wikipedia.org/wiki/匹茲堡 "wikilink")，比起源於1999年的Wi-Fi品牌還要早\[10\]。2000年，[費城](../Page/費城.md "wikilink")[德雷克塞爾大學創造了歷史](../Page/卓克索大學.md "wikilink")，成為[美國第一個提供全校園無線網路覆蓋的主要大學](https://zh.wikipedia.org/wiki/美國 "wikilink")。現在大多數校園已設置無線網路。
 
 在[臺灣](../Page/臺灣.md "wikilink")的许多大学图书馆内，也设有免费Wi-Fi热点，提供学生使用。
 
@@ -184,7 +184,7 @@ Wi-Fi技術建立在標準上。
 
 常見的公共-{zh-hans:移动热点;zh-hant:行動熱點}-如：
 
-iTaiwan\[10\] ：是由[國家發展委員會建立的公共網路](https://zh.wikipedia.org/wiki/國家發展委員會 "wikilink")，自2011年10月7日上午9時起開始提供台灣民眾免費無線上網基本資訊服務，主要建置的地點以各地旅遊景點、交通運輸節點、文教館所、申辦洽公場所、醫療院所等室內公共空間，或是建置於民間超商旁的公共電話亭為主。申辦方式是以民眾在台灣申辦的手機號碼建立帳號，並且在取得簡訊驗證碼後，始能使用其公共網路。
+iTaiwan\[11\] ：是由[國家發展委員會建立的公共網路](https://zh.wikipedia.org/wiki/國家發展委員會 "wikilink")，自2011年10月7日上午9時起開始提供台灣民眾免費無線上網基本資訊服務，主要建置的地點以各地旅遊景點、交通運輸節點、文教館所、申辦洽公場所、醫療院所等室內公共空間，或是建置於民間超商旁的公共電話亭為主。申辦方式是以民眾在台灣申辦的手機號碼建立帳號，並且在取得簡訊驗證碼後，始能使用其公共網路。
 
 ## 数据安全
 
@@ -192,7 +192,7 @@ iTaiwan\[10\] ：是由[國家發展委員會建立的公共網路](https://zh.w
 
 ## 读音争议
 
-2012年11月6日，《[山东商报](https://zh.wikipedia.org/wiki/山东商报 "wikilink")》引用[山东外事翻译职业学院商务英语教研室主任温颜的说法称](https://zh.wikipedia.org/wiki/山东外事翻译职业学院 "wikilink")：“Wi-Fi的发音从语法角度来说，应该为‘微费’，因为“这个词是由‘wireless’（无线电）和‘fidelity’（保真度）这两个英语单词组成，但是发音又不能按照这个词的发音来，因为‘Wi-Fi’是一个合成词，应该按照一个单词的语法来发音。这个词中有两个元音字母‘i’，所以应该发短音，故从语法角度讲，发音应是‘微费’”。这种说法一时在[中国大陆](../Page/中国大陆.md "wikilink")网络上引起了很大争议，有网友引用牛津字典中的音标和美剧《[生活大爆炸](../Page/生活大爆炸.md "wikilink")》的相关片段来质疑。但也有网友称法国小罗伯特词典（Le Petit Robert）中Wi-Fi一词法语发音的音标是\[11\]，发音接近汉语的“微费”\[12\]。
+2012年11月6日，《[山东商报](https://zh.wikipedia.org/wiki/山东商报 "wikilink")》引用[山东外事翻译职业学院商务英语教研室主任温颜的说法称](https://zh.wikipedia.org/wiki/山东外事翻译职业学院 "wikilink")：“Wi-Fi的发音从语法角度来说，应该为‘微费’，因为“这个词是由‘wireless’（无线电）和‘fidelity’（保真度）这两个英语单词组成，但是发音又不能按照这个词的发音来，因为‘Wi-Fi’是一个合成词，应该按照一个单词的语法来发音。这个词中有两个元音字母‘i’，所以应该发短音，故从语法角度讲，发音应是‘微费’”。这种说法一时在[中国大陆](../Page/中国大陆.md "wikilink")网络上引起了很大争议，有网友引用牛津字典中的音标和美剧《[生活大爆炸](../Page/生活大爆炸.md "wikilink")》的相关片段来质疑。但也有网友称法国小罗伯特词典（Le Petit Robert）中Wi-Fi一词法语发音的音标是\[12\]，发音接近汉语的“微费”\[13\]。
 
 ## 参考文献
 
@@ -217,14 +217,16 @@ iTaiwan\[10\] ：是由[國家發展委員會建立的公共網路](https://zh.w
 5.
 6.
 
-7.  <https://itw01.com/CSQ9ERR.html>
+7.  <https://www.intel.com.tw/content/www/tw/zh/support/articles/000005725/network-and-io/wireless-networking.html>
 
-8.  <https://www.eettaiwan.com/news/article/20180725NT01-Wi-Fi-Preps-for-Leap-to-6GHz>
+8.  <https://itw01.com/CSQ9ERR.html>
 
-9.
+9.  <https://www.eettaiwan.com/news/article/20180725NT01-Wi-Fi-Preps-for-Leap-to-6GHz>
 
 10.
 
-11. （并非小罗伯特词典）
+11.
 
-12.
+12. （并非小罗伯特词典）
+
+13.

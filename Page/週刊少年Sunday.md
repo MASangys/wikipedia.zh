@@ -265,7 +265,14 @@
 <td></td>
 <td><p>星野真</p></td>
 <td><p>data-sort-value="2019.36" | 2019年36・37合并号</p></td>
-<td><p>&lt;!--|-</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>夜曲</p></td>
+<td></td>
+<td><p><a href="../Page/琴山.md" title="wikilink">琴山</a></p></td>
+<td><p>data-sort-value="2019.39" | 2019年39号</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>

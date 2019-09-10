@@ -72,7 +72,7 @@ GUNDAM引入寫實風格也是從90年代几部OVA开始的，其中在GUNDAM历
 
 另外，用所有机器人动画角色制作的热卖游戏《[超级机器人大战](https://zh.wikipedia.org/wiki/超级机器人大战 "wikilink")》系列以**GUNDAM**系列为中心，从低年龄层渗透，也是让**GUNDAM**再次受欢迎的主要原因之一。
 
-在二十一世紀更有像[SD GUNDAM](https://zh.wikipedia.org/wiki/SD_GUNDAM "wikilink")、[高達創戰者](https://zh.wikipedia.org/wiki/高達創戰者 "wikilink")、[機動戰士：鋼彈桑等](https://zh.wikipedia.org/wiki/機動戰士：鋼彈桑 "wikilink")，[後現代主義和](https://zh.wikipedia.org/wiki/後現代主義 "wikilink")[先鋒派的鋼彈動畫推出和廣受到歡迎](https://zh.wikipedia.org/wiki/先鋒派 "wikilink")。
+在二十一世紀更有像[SD GUNDAM](https://zh.wikipedia.org/wiki/SD_GUNDAM "wikilink")、[高達創戰者](../Page/高達創戰者.md "wikilink")、[機動戰士：鋼彈桑等](https://zh.wikipedia.org/wiki/機動戰士：鋼彈桑 "wikilink")，[後現代主義和](https://zh.wikipedia.org/wiki/後現代主義 "wikilink")[先鋒派的鋼彈動畫推出和廣受到歡迎](https://zh.wikipedia.org/wiki/先鋒派 "wikilink")。
 
 ## GUNDAM文化
 

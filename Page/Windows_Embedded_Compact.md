@@ -117,9 +117,9 @@ Windows CE並非從桌上型電腦的Windows（NT，98，XP……）修改縮小
 
 CE v3.0是Pocket PC 2002的基礎. CE v3.0的下代為CE.net. \[32\] "PocketPC \[是\]核心Windows CE OS上的一整層程式... Pocket PC以Windows CE為基礎，但分發的方式不太一樣.". Pocket PC的使用證書禁止修改WinCE的程式.\[33\]
 
-## 最新功能
+## 功能
 
-目前最新的**Windows CE**為[Windows CE 7.0](https://zh.wikipedia.org/wiki/Windows_CE_7.0 "wikilink")，這個版本在核心部分有很大的進步：
+停产前最新的**Windows CE**為[Windows CE 7.0](https://zh.wikipedia.org/wiki/Windows_CE_7.0 "wikilink")，這個版本在核心部分支援： [缩略图](https://zh.wikipedia.org/wiki/File:Windows_mobile.jpg "fig:缩略图")
 
   - 雙核心處理器支援（SMP、ARMv6）
   - WIFI定位系统

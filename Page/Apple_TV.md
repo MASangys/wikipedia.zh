@@ -106,7 +106,7 @@ Apple TV雖然無法在傳統[電視機上使用](https://zh.wikipedia.org/wiki/
   - [LocationFree Player](https://zh.wikipedia.org/wiki/LocationFree "wikilink")，[索尼](../Page/索尼.md "wikilink")出品的一个基于[互联网](../Page/互联网.md "wikilink")的多媒體设备，可以播放网路DVD, CATV，和PVR内容并无线傳輸到电视上。
   - [Elgato](https://zh.wikipedia.org/wiki/Elgato "wikilink")'s EyeHome，2004年发布的Mac用多媒体播放器
   - [Google TV](../Page/Google_TV.md "wikilink")
-  - [Apple_TV_Remote](../Page/Apple_TV_Remote.md "wikilink")
+  - [Apple TV Remote](../Page/Apple_TV_Remote.md "wikilink")
   - [Apple TV (應用程式)](../Page/Apple_TV_\(應用程式\).md "wikilink")
 
 ## 參考資料

@@ -1,4 +1,4 @@
-**電子佈告欄系統**（****，缩写****）是一種網站系統，是目前流行[網路論壇的前身](https://zh.wikipedia.org/wiki/網路論壇 "wikilink")，它允许用户使用终端程序通过[调制解调器](../Page/调制解调器.md "wikilink")拨接或者[因特网来进行连接](https://zh.wikipedia.org/wiki/因特网 "wikilink")，BBS站台提供佈告欄、分類討論區、新闻阅读、軟體下载與上传、遊戲、与其它用户線上對話等功能。
+**電子佈告欄系統**（，缩写作 ****）是一種網站系統，是目前流行[網路論壇的前身](https://zh.wikipedia.org/wiki/網路論壇 "wikilink")，它允许用户使用终端程序通过[调制解调器](../Page/调制解调器.md "wikilink")拨接或者[因特网来进行连接](https://zh.wikipedia.org/wiki/因特网 "wikilink")，BBS站台提供佈告欄、分類討論區、新闻阅读、軟體下载與上传、遊戲、与其它用户線上對話等功能。
 
 ## BBS的歷史
 
@@ -160,7 +160,7 @@ BBS軟體依連線技術區分三大類：撥接式、Telnet、Web，目前BBS�
 
 ### 中国BBS“系统维护”现象
 
-某些特殊时期，[中国的许多BBS会不约而同的出现大面积限制访问现象](https://zh.wikipedia.org/wiki/中国 "wikilink")，通常公布的理由为“系统维护”。例如，2005年3月，[中华人民共和国政府召开](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")“两会”前夕，有以下BBS同时宣布进入“系统维护”状态：
+某些特殊时期，中国大陆的许多BBS会不约而同的出现大面积限制访问现象，通常公布的理由为“系统维护”。例如，2005年3月，中华人民共和国召开“两会”前夕，有以下BBS同时宣布进入“系统维护”状态：
 
   - 西安交大[兵马俑BBS站](https://zh.wikipedia.org/wiki/兵马俑BBS "wikilink")：3月5日起限制校外访问
   - [白云黄鹤BBS](../Page/白云黄鹤BBS.md "wikilink")站：夜间只读及暂停校外IP注册
@@ -174,12 +174,6 @@ BBS站的站长拥有很大的权力，因为是由纯文字组合而成，有�
 
 ### BBS用語
 
-## 参看
-
-  - [網絡論壇](https://zh.wikipedia.org/wiki/網絡論壇 "wikilink")
-  - [BBS鄉民的正義](../Page/BBS鄉民的正義.md "wikilink")
-  - [批踢踢](https://zh.wikipedia.org/wiki/批踢踢 "wikilink")
-
 ## 參考文獻
 
 ## 外部链接
@@ -187,6 +181,14 @@ BBS站的站长拥有很大的权力，因为是由纯文字组合而成，有�
   - [已知現存中文 BBS 站台](https://hackmd.io/s/r1pdt-59b#%E5%B7%B2%E7%9F%A5%E7%8F%BE%E5%AD%98%E4%B8%AD%E6%96%87-BBS-%E7%AB%99%E5%8F%B0) - 台灣、中國大陸、全球華文 BBS 列表。
   - [台灣目前常見的BBS列表](http://ptt-kkman-pcman.org/bbs.html) - 包含常見的BBS網址與使用軟體。
   - [台灣過去BBS站台及討論區列表](https://hackmd.io/s/rk91dlzSm#)
+
+## 参见
+
+  - [網絡論壇](https://zh.wikipedia.org/wiki/網絡論壇 "wikilink")
+  - [BBS鄉民的正義](../Page/BBS鄉民的正義.md "wikilink")
+  - [批踢踢](https://zh.wikipedia.org/wiki/批踢踢 "wikilink")
+
+{{-}}
 
 [Category:BBS](https://zh.wikipedia.org/wiki/Category:BBS "wikilink") [Category:互联网](https://zh.wikipedia.org/wiki/Category:互联网 "wikilink")
 

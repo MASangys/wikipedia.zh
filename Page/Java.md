@@ -26,7 +26,7 @@ Java不同於一般的[编译語言或](https://zh.wikipedia.org/wiki/编译語�
 
 就像很多開發新技術的秘密工程一樣，工作小組沒日沒夜地工作到了1993年的夏天，他們能夠演示新平台的一部分了，包括Green[操作系统](../Page/操作系统.md "wikilink")，Oak的程序設計語言，類庫及其硬件。最初的嘗試是面向一種類[PDA設備](https://zh.wikipedia.org/wiki/PDA "wikilink")，被命名為**Star7**，這種設備有鮮豔的圖形界面和被稱為「Duke」的智能代理來幫助用戶。1992年12月3日，這台設備進行了展示。
 
-同年11月，Green計劃被轉化成了「**FirstPerson有限公司**」，一個Sun公司的全資子公司，團隊也被重新安排到了[帕洛阿爾托](https://zh.wikipedia.org/wiki/帕羅奧多_\(美國加州\) "wikilink")。FirstPerson團隊對建造一種高度互動的設備感興趣，當[時代華納發佈了一個關於](https://zh.wikipedia.org/wiki/時代華納 "wikilink")[電視](https://zh.wikipedia.org/wiki/電視 "wikilink")[機頂盒的徵求提議書時](https://zh.wikipedia.org/wiki/數位視訊轉換盒 "wikilink")（Request for proposal），FirstPerson改變了他們的目標，作為對徵求意見書的響應，提出了一個機頂盒平台的提議。但是[有線電視業界覺得FirstPerson的平台給予用戶過多的控制權](https://zh.wikipedia.org/wiki/有線電視 "wikilink")，因此FirstPerson的投標敗給了[SGI](../Page/硅谷图形公司.md "wikilink")。與[3DO公司](../Page/3DO公司.md "wikilink")的另外一筆關於機頂盒的交易也沒有成功，由於他們的平台不能在電視工業產生任何效益，公司被併回Sun公司。
+同年11月，Green計劃被轉化成了「**FirstPerson有限公司**」，一個Sun公司的全資子公司，團隊也被重新安排到了[帕洛阿爾托](https://zh.wikipedia.org/wiki/帕羅奧多_\(美國加州\) "wikilink")。FirstPerson團隊對建造一種高度互動的設備感興趣，當[時代華納發佈了一個關於](https://zh.wikipedia.org/wiki/時代華納 "wikilink")[電視](https://zh.wikipedia.org/wiki/電視 "wikilink")[機頂盒的徵求提議書時](../Page/數位視訊轉換盒.md "wikilink")（Request for proposal），FirstPerson改變了他們的目標，作為對徵求意見書的響應，提出了一個機頂盒平台的提議。但是[有線電視業界覺得FirstPerson的平台給予用戶過多的控制權](https://zh.wikipedia.org/wiki/有線電視 "wikilink")，因此FirstPerson的投標敗給了[SGI](../Page/硅谷图形公司.md "wikilink")。與[3DO公司](../Page/3DO公司.md "wikilink")的另外一筆關於機頂盒的交易也沒有成功，由於他們的平台不能在電視工業產生任何效益，公司被併回Sun公司。
 
 ### Java和互联网
 

@@ -85,7 +85,7 @@ Blender提供了非常多的工具，因此其使用者介面對初學者來說�
 
 ## 支援
 
-在世界各地有大約25萬Blender使用者，並有很多熱心人士自行寫了不少教學和架設使用論壇，其中最為著名的論壇是[Elysiun](http://www.elysiun.com)现在已经改名为[Blender艺术家](http://www.blenderartists.org)，服务器由美国迁到了荷兰。簡體中文的[Blender中国官方授权网站](http://www.blendercn.org)于2005年6月成立，翻译完成整部手册，成功解决了簡體中文显示难题，完成全面中文汉化工作，得到了官方的认可，筹建中的Blender中国支持团队致力于Blender的功能提升和动画制作以及中小企业支援。
+在世界各地有大約25萬Blender使用者，並有很多熱心人士自行寫了不少教學和架設使用論壇，其中最為著名的論壇是[Elysiun](http://www.elysiun.com)现在已经改名为[Blender艺术家](http://www.blenderartists.org)，服务器由美国迁到了荷兰。簡體中文的[Blender中国官方授权网站](http://www.blendercn.org)于2005年6月成立，翻译完成整部手册，成功解决了簡體中文显示难题，完成全面中文化工作，得到了官方的认可，筹建中的Blender中国支持团队致力于Blender的功能提升和动画制作以及中小企业支援。
 
 正體中文的[Blender繁體中文社群](http://blender.tw)則大約於2008年建立，為正體中文使用者提供了良好的資訊平台和社群支援。
 

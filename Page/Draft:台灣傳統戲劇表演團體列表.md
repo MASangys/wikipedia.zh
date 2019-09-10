@@ -112,7 +112,7 @@
 #### 京劇
 
   - [國立國光劇團](https://zh.wikipedia.org/wiki/國立國光劇團 "wikilink")
-  - [國立臺灣戲曲學院附設京劇團](https://zh.wikipedia.org/wiki/國立臺灣戲曲學院 "wikilink")
+  - [國立臺灣戲曲學院](../Page/國立臺灣戲曲學院.md "wikilink")附設京劇團
   - [臺北新劇團](../Page/臺北新劇團.md "wikilink")
   - [當代傳奇劇場](../Page/當代傳奇劇場.md "wikilink")
   - 本事劇團

@@ -116,6 +116,7 @@ Web 2.0主要特点和基于这些特点产生的具有代表性的服务：
   - [優酷網](https://zh.wikipedia.org/wiki/優酷網 "wikilink")
   - [知乎](../Page/知乎.md "wikilink")
   - [QQ群](https://zh.wikipedia.org/wiki/QQ群 "wikilink")
+  - [品葱](../Page/品葱.md "wikilink")
 
 ## 影響
 

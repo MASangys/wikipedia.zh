@@ -248,7 +248,7 @@ mg/100g</p></th>
 | [菠菜](../Page/菠菜.md "wikilink")                      | 30 |
 | [甘蓝](https://zh.wikipedia.org/wiki/甘蓝 "wikilink")   | 30 |
 | [莱檬果](../Page/青檸.md "wikilink")                     | 20 |
-| [芒果](https://zh.wikipedia.org/wiki/杧果属 "wikilink")  | 20 |
+| [芒果](../Page/杧果属.md "wikilink")                     | 20 |
 | [蜜瓜](../Page/厚皮甜瓜.md "wikilink")                    | 20 |
 | [悬钩子](https://zh.wikipedia.org/wiki/悬钩子 "wikilink") | 20 |
 | [番茄](../Page/番茄.md "wikilink")                      | 10 |

@@ -70,7 +70,8 @@
 ### MD Walkman 系列
 
   - 支援MDLP
-      - 2001年 MZ-E1
+      - 2000年 MZ-E500、MZ-E700、MZ-E900、MZ-R900
+      - 2001年 MZ-E909、MZ-R909
       - 2002年 MZ-E10
 
 <!-- end list -->
@@ -83,7 +84,7 @@
 <!-- end list -->
 
   - Hi-MD
-      - 2004年 MZ-NH1
+      - 2004年 MZ-NH1、MZ-NH3D、MZ-EH1
       - 2005年 MZ-DH10P、MZ-RH910、MZ-RH10
       - 2006年 MZ-RH1
 

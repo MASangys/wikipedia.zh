@@ -1903,7 +1903,7 @@
   - [Arcturus](https://zh.wikipedia.org/wiki/Arcturus "wikilink")－[Seven Arcs](../Page/Seven_Arcs.md "wikilink")－ - [feel.](https://zh.wikipedia.org/wiki/feel. "wikilink")
   - [日本動畫工作室列表](../Page/日本動畫工作室列表.md "wikilink")
 
-## 參考來源
+## 參考資料
 
   - 《浪漫專輯 攻殼機動隊 PERSONA 押井守的世界》 [德間書店](../Page/德間書店.md "wikilink")，1997年6月。ISBN 4-19-725120-3
 
@@ -1928,6 +1928,8 @@
   -
 
   -
+
+  - [從《福星小子》到《東京喰種》Studio Pierrot 創設者訪談分享日本動畫的強項與課題](https://gnn.gamer.com.tw/detail.php?sn=184593) －[巴哈姆特電玩資訊站](../Page/巴哈姆特電玩資訊站.md "wikilink")官網。
 
   - [皮乐中国](http://www.pierrotchina.com/)
 

@@ -38,7 +38,7 @@
 
 ### 2015年我是查理
 
-在2015年1月7日，查理周刊总部枪击案之後。Notepad++ 6.7.4版安裝後，於第一次開啟時，會出現下列內容。
+Notepad++ 6.7.4于查理周刊总部枪击案之後的2015年1月7日发布，安裝後首次開啟時會出現下列內容：
 
     Freedom of expression is like the air we breathe, we don't feel it, until people take it away from us.
 

@@ -42,7 +42,7 @@ Havok的1.0版本是在2000年的游戏开发者大会（GDC）上面发布的�
   - 《[上古卷軸Online](../Page/上古卷軸Online.md "wikilink")》
   - 《[灵魂献祭](https://zh.wikipedia.org/wiki/灵魂献祭 "wikilink")》
   - 《[殺戮地帶](https://zh.wikipedia.org/wiki/殺戮地帶 "wikilink")》
-  - 《彩虹六號：圍攻行動》
+  - 《[彩虹六號：圍攻行動](https://zh.wikipedia.org/wiki/彩虹六號：圍攻行動 "wikilink")》
   - 《[激戰2/Guild Wars 2](https://zh.wikipedia.org/wiki/激戰2/Guild_Wars_2 "wikilink")》
   - [《黑暗靈魂》](../Page/黑暗靈魂.md "wikilink")
   - 《[黑暗靈魂II](../Page/黑暗靈魂II.md "wikilink")》

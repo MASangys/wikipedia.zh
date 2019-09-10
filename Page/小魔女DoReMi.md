@@ -2430,7 +2430,7 @@
 <td><p>結成！ お笑いMAHO堂</p></td>
 <td><p>結成！ 搞笑魔法堂</p></td>
 <td><p>栗山綠</p></td>
-<td></td>
+<td><p>谷東</p></td>
 <td></td>
 <td><p><strong>2019年</strong></p>
 <p>3月23日</p></td>
@@ -2441,7 +2441,7 @@
 <td><p>今は昔 パート1</p></td>
 <td><p>很久很久以前 Part1</p></td>
 <td><p>大和屋曉</p></td>
-<td></td>
+<td><p>谷東</p></td>
 <td></td>
 <td><p>4月14日</p></td>
 <td></td>
@@ -2451,7 +2451,7 @@
 <td><p>誰が突っ込み？</p></td>
 <td><p>誰才是吐槽役？</p></td>
 <td><p>大和屋曉</p></td>
-<td></td>
+<td><p>谷東</p></td>
 <td></td>
 <td><p>4月27日</p></td>
 <td></td>
@@ -2461,7 +2461,7 @@
 <td><p>連想クイズ</p></td>
 <td><p>聯想測試</p></td>
 <td><p>大和屋曉</p></td>
-<td></td>
+<td><p>谷東</p></td>
 <td></td>
 <td><p>5月11日</p></td>
 <td></td>
@@ -2471,7 +2471,7 @@
 <td><p>ステーキの呪い</p></td>
 <td><p>牛排的詛咒</p></td>
 <td><p>栗山綠</p></td>
-<td></td>
+<td><p>谷東</p></td>
 <td></td>
 <td><p>5月26日</p></td>
 <td></td>
@@ -2914,7 +2914,7 @@
 <td><p>おジャ魔女どれみ20’s</p></td>
 <td><p>Ojamajo Doremi 20’s</p></td>
 <td></td>
-<td><p>2019年夏頃発売予定！</p></td>
+<td><p>2019年10月2日</p></td>
 </tr>
 <tr class="odd">
 <td><p>畫冊</p></td>

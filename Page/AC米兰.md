@@ -124,7 +124,7 @@ AC米兰的队徽是白底红十字的盾形徽章，这也是米兰城市的标
 
 ### 米蘭的號碼傳奇
 
-米蘭在其輝煌的球隊歷史上，產生過多位偉大的球星，其中以身著一些象徵著球隊特殊意義號碼球衣的球星最為引人矚目，9號通常為球隊的第一射手，其中有[冈纳·诺达尔](../Page/冈纳·诺达尔.md "wikilink")，[何塞·阿爾塔菲尼](https://zh.wikipedia.org/wiki/何塞·阿爾塔菲尼 "wikilink")，[保羅·羅西](https://zh.wikipedia.org/wiki/保羅·羅西 "wikilink")，[-{zh-hans:马尔科·范巴斯滕; zh-hk:馬高·雲巴士頓;}-](../Page/马尔科·范巴斯滕.md "wikilink")，[讓-皮埃爾·帕潘](https://zh.wikipedia.org/wiki/讓-皮埃爾·帕潘 "wikilink")，[乔治·维阿](../Page/乔治·维阿.md "wikilink")，[帕特里克·克魯伊維特](https://zh.wikipedia.org/wiki/帕特里克·克魯伊維特 "wikilink")，[-{zh-hans:菲利波·因扎吉; zh-hk:F·恩沙基;}-](https://zh.wikipedia.org/wiki/菲利波·因扎吉 "wikilink")。而進入2000年代以後，隨著[舍甫琴科在球隊取得的成功](../Page/安德烈·舍甫琴科.md "wikilink")，7號亦成為米蘭新領袖的象徵號碼之一，歷史上穿著7號球衣的著名球星包括[斯基亞菲諾](https://zh.wikipedia.org/wiki/胡安·阿爾維托·斯基亞菲諾 "wikilink")，[庫爾特·哈姆林](https://zh.wikipedia.org/wiki/庫爾特·哈姆林 "wikilink")，[羅伯托·多纳多尼](https://zh.wikipedia.org/wiki/多纳多尼 "wikilink")，[舍甫琴科](../Page/安德烈·舍甫琴科.md "wikilink")，[亚历山大·帕托以及](https://zh.wikipedia.org/wiki/亚历山大·帕托 "wikilink")[-{zh-hans:罗比尼奥;zh-hk:羅賓奴;zh-tw:羅比尼奧;}-](https://zh.wikipedia.org/wiki/罗比尼奥 "wikilink")。10號球衣在米蘭的傳統中一直代表了球隊的組織核心，著名的球星有[朱塞佩·梅阿查](../Page/朱塞佩·梅阿查.md "wikilink")，[格倫](https://zh.wikipedia.org/wiki/貢納爾·格倫 "wikilink")，[里維拉](https://zh.wikipedia.org/wiki/里維拉 "wikilink")，[路德·古利特](../Page/路德·古利特.md "wikilink")，[德揚·萨維切維奇](https://zh.wikipedia.org/wiki/德揚·萨維切維奇 "wikilink")，[茲沃尼米爾·博班](https://zh.wikipedia.org/wiki/茲沃尼米爾·博班 "wikilink")，[雷·哥斯達以及](https://zh.wikipedia.org/wiki/雷·哥斯達 "wikilink")[克拉倫斯·施多夫](https://zh.wikipedia.org/wiki/克拉倫斯·西多夫 "wikilink")。
+米蘭在其輝煌的球隊歷史上，產生過多位偉大的球星，其中以身著一些象徵著球隊特殊意義號碼球衣的球星最為引人矚目，9號通常為球隊的第一射手，其中有[冈纳·诺达尔](../Page/冈纳·诺达尔.md "wikilink")，[何塞·阿爾塔菲尼](https://zh.wikipedia.org/wiki/何塞·阿爾塔菲尼 "wikilink")，[保羅·羅西](https://zh.wikipedia.org/wiki/保羅·羅西 "wikilink")，[-{zh-hans:马尔科·范巴斯滕; zh-hk:馬高·雲巴士頓;}-](../Page/马尔科·范巴斯滕.md "wikilink")，[讓-皮埃爾·帕潘](https://zh.wikipedia.org/wiki/讓-皮埃爾·帕潘 "wikilink")，[乔治·维阿](../Page/乔治·维阿.md "wikilink")，[帕特里克·克魯伊維特](https://zh.wikipedia.org/wiki/帕特里克·克魯伊維特 "wikilink")，[-{zh-hans:菲利波·因扎吉; zh-hk:F·恩沙基;}-](https://zh.wikipedia.org/wiki/菲利波·因扎吉 "wikilink")。而進入2000年代以後，隨著[舍甫琴科在球隊取得的成功](../Page/安德烈·舍甫琴科.md "wikilink")，7號亦成為米蘭新領袖的象徵號碼之一，歷史上穿著7號球衣的著名球星包括[斯基亞菲諾](https://zh.wikipedia.org/wiki/胡安·阿爾維托·斯基亞菲諾 "wikilink")，[庫爾特·哈姆林](https://zh.wikipedia.org/wiki/庫爾特·哈姆林 "wikilink")，[多纳多尼](https://zh.wikipedia.org/wiki/羅伯托·多纳多尼 "wikilink")，[舍甫琴科](../Page/安德烈·舍甫琴科.md "wikilink")，[亚历山大·帕托以及](https://zh.wikipedia.org/wiki/亚历山大·帕托 "wikilink")[-{zh-hans:罗比尼奥;zh-hk:羅賓奴;zh-tw:羅比尼奧;}-](https://zh.wikipedia.org/wiki/罗比尼奥 "wikilink")。10號球衣在米蘭的傳統中一直代表了球隊的組織核心，著名的球星有[朱塞佩·梅阿查](../Page/朱塞佩·梅阿查.md "wikilink")，[格倫](https://zh.wikipedia.org/wiki/貢納爾·格倫 "wikilink")，[里維拉](https://zh.wikipedia.org/wiki/里維拉 "wikilink")，[路德·古利特](../Page/路德·古利特.md "wikilink")，[德揚·萨維切維奇](https://zh.wikipedia.org/wiki/德揚·萨維切維奇 "wikilink")，[茲沃尼米爾·博班](https://zh.wikipedia.org/wiki/茲沃尼米爾·博班 "wikilink")，[雷·哥斯達以及](https://zh.wikipedia.org/wiki/雷·哥斯達 "wikilink")[克拉倫斯·施多夫](https://zh.wikipedia.org/wiki/克拉倫斯·西多夫 "wikilink")。
 
 #### 退役球衣号码
 
@@ -971,16 +971,6 @@ AC米蘭進球 \![600px_Nero_e_azzurro_strisciato_con_stella.png](https://zh.wik
 <td><p>1,800萬歐元</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong>23</strong></p></td>
-<td></td>
-<td><p><a href="../Page/伊萬·斯特里尼奇.md" title="wikilink">-{zh-hans:斯特里尼奇;zh-hk:史卓歷;}-</a>（Ivan Strinić）</p></td>
-<td><p>左后卫</p></td>
-<td></td>
-<td><p>2018年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/森多利亞" title="wikilink">森多利亞</a></p></td>
-<td><p>自由轉會</p></td>
-</tr>
-<tr class="even">
 <td><p><strong>31</strong></p></td>
 <td></td>
 <td><p><a href="../Page/馬蒂亞·卡戴拉.md" title="wikilink">-{zh-hans:卡尔达拉;zh-hk:卡達拉;zh-tw:卡戴拉;}-</a>（Mattia Caldara）</p></td>
@@ -989,6 +979,16 @@ AC米蘭進球 \![600px_Nero_e_azzurro_strisciato_con_stella.png](https://zh.wik
 <td><p>2018年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/尤文圖斯" title="wikilink">-{zh-hans:尤文图斯;zh-hk:祖雲達斯;zh-tw:尤文圖斯;}-</a></p></td>
 <td><p>球員交換</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>43</strong></p></td>
+<td></td>
+<td><p>'''<a href="https://zh.wikipedia.org/wiki/:en:Léo_Duarte" title="wikilink">-{zh-hans:杜阿尔特 ;zh-hk:杜亞迪;zh-tw:杜阿爾特;}-</a>（Léo Duarte）</p></td>
+<td><p>中后卫</p></td>
+<td></td>
+<td><p>2019年</p></td>
+<td><p><a href="../Page/法林明高競賽會.md" title="wikilink">-{zh:法林明高;zh-hans:弗拉门戈;zh-hk:法林明高;zh-tw:佛朗明哥;}-</a></p></td>
+<td><p>1,100萬歐元</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>68</strong></p></td>
@@ -1001,16 +1001,6 @@ AC米蘭進球 \![600px_Nero_e_azzurro_strisciato_con_stella.png](https://zh.wik
 <td><p>1,500萬歐元</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>-</strong></p></td>
-<td></td>
-<td><p>'''<a href="https://zh.wikipedia.org/wiki/:en:Léo_Duarte" title="wikilink">-{zh-hans:杜阿尔特 ;zh-hk:杜亞迪;zh-tw:杜阿爾特;}-</a>（Léo Duarte）</p></td>
-<td><p>中后卫</p></td>
-<td></td>
-<td><p>2019年</p></td>
-<td><p><a href="../Page/法林明高競賽會.md" title="wikilink">-{zh:法林明高;zh-hans:弗拉门戈;zh-hk:法林明高;zh-tw:佛朗明哥;}-</a></p></td>
-<td><p>1,100萬歐元</p></td>
-</tr>
-<tr class="odd">
 <td><p><font color="#FF0000">'''中 場 '''</p></td>
 <td></td>
 <td></td>
@@ -1019,6 +1009,16 @@ AC米蘭進球 \![600px_Nero_e_azzurro_strisciato_con_stella.png](https://zh.wik
 <td></td>
 <td></td>
 <td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>4</strong></p></td>
+<td></td>
+<td><p>'''<a href="../Page/伊斯美·賓拿沙.md" title="wikilink">-{zh-hans:本内瑟;zh-hk:賓拿沙;zh-tw:本内瑟;;}-</a>（Ismaël Bennacer）</p></td>
+<td><p>中場</p></td>
+<td></td>
+<td><p>2019年</p></td>
+<td><p><a href="../Page/恩波利足球俱乐部.md" title="wikilink">-{zh-hans:恩波利;zh-hk:安玻里;zh-tw:恩波利}-</a></p></td>
+<td><p>1,600萬歐元</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>5</strong></p></td>
@@ -1101,16 +1101,6 @@ AC米蘭進球 \![600px_Nero_e_azzurro_strisciato_con_stella.png](https://zh.wik
 <td><p>1,400萬歐元</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>-</strong></p></td>
-<td></td>
-<td><p>'''<a href="../Page/伊斯美·賓拿沙.md" title="wikilink">-{zh-hans:本内瑟;zh-hk:賓拿沙;zh-tw:本内瑟;;}-</a>（Ismaël Bennacer）</p></td>
-<td><p>中場</p></td>
-<td></td>
-<td><p>2019年</p></td>
-<td><p><a href="../Page/恩波利足球俱乐部.md" title="wikilink">-{zh-hans:恩波利;zh-hk:安玻里;zh-tw:恩波利}-</a></p></td>
-<td><p>1,600萬歐元</p></td>
-</tr>
-<tr class="odd">
 <td><p><font color="#FF0000"><strong>前 鋒</strong></p></td>
 <td></td>
 <td></td>
@@ -1120,7 +1110,7 @@ AC米蘭進球 \![600px_Nero_e_azzurro_strisciato_con_stella.png](https://zh.wik
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>7</strong></p></td>
 <td></td>
 <td><p><a href="../Page/萨穆·卡斯蒂列霍.md" title="wikilink">-{zh-hans:卡斯蒂列霍;zh-hk:卡斯迪利祖;}-</a>（Samu Castillejo）</p></td>
@@ -1130,7 +1120,7 @@ AC米蘭進球 \![600px_Nero_e_azzurro_strisciato_con_stella.png](https://zh.wik
 <td><p><a href="https://zh.wikipedia.org/wiki/比利亞雷阿爾足球俱樂部" title="wikilink">-{zh-hans:比利亞雷阿爾 ;zh-hk:維拉利爾 }-</a></p></td>
 <td><p>2,500万欧元</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>8</strong></p></td>
 <td></td>
 <td><p><a href="../Page/蘇素.md" title="wikilink">-{zh-hans:苏索; zh-hk:蘇索;}-</a> （Jesús Fernández Sáenz 'Suso'）</p></td>
@@ -1140,7 +1130,7 @@ AC米蘭進球 \![600px_Nero_e_azzurro_strisciato_con_stella.png](https://zh.wik
 <td><p><a href="https://zh.wikipedia.org/wiki/利物浦足球俱樂部" title="wikilink">利物浦</a></p></td>
 <td><p>130万欧元</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>9</strong></p></td>
 <td></td>
 <td><p><a href="../Page/克日什托夫·皮亚特克.md" title="wikilink">-{zh-hans:皮亚特克; zh-hk:比亞迪克;zh-tw:皮亞特克;}-</a>（Krzysztof Piątek）</p></td>
@@ -1150,7 +1140,7 @@ AC米蘭進球 \![600px_Nero_e_azzurro_strisciato_con_stella.png](https://zh.wik
 <td><p><a href="https://zh.wikipedia.org/wiki/热那亚板球与足球俱樂部" title="wikilink">-{zh-hans:热那亚;zh-hk:熱拿亞;zh-tw:熱那亞}-</a></p></td>
 <td><p>3,500萬歐元</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>11</strong></p></td>
 <td></td>
 <td><p><a href="../Page/法比奧·博里尼.md" title="wikilink">-{zh-hans:博里尼; zh-hk:波連尼;}-</a>（Fabio Borini）</p></td>
@@ -1160,7 +1150,7 @@ AC米蘭進球 \![600px_Nero_e_azzurro_strisciato_con_stella.png](https://zh.wik
 <td><p><a href="https://zh.wikipedia.org/wiki/桑德兰足球俱乐部" title="wikilink">-{zh-hans:桑德兰;zh-hk:新特蘭;}-</a></p></td>
 <td><p>550萬歐元</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>17</strong></p></td>
 <td></td>
 <td><p>'''<a href="https://zh.wikipedia.org/wiki/:en:Rafael_Leão" title="wikilink">-{zh-hans:莱奥;zh-hk:利亞奧;zh-tw:萊奧}-</a>（Rafael Leão）</p></td>
@@ -1170,7 +1160,7 @@ AC米蘭進球 \![600px_Nero_e_azzurro_strisciato_con_stella.png](https://zh.wik
 <td><p><a href="https://zh.wikipedia.org/wiki/里爾足球俱樂部" title="wikilink">里爾</a></p></td>
 <td><p>3,000萬歐元</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>27</strong></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/安德烈·席尔瓦" title="wikilink">-{zh-hans:安德烈·席尔瓦;zh-hk:安達·施華}-</a>（André Silva）</p></td>
@@ -1420,6 +1410,16 @@ AC米蘭進球 \![600px_Nero_e_azzurro_strisciato_con_stella.png](https://zh.wik
 <td><p>2016年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/萨索罗足球俱乐部" title="wikilink">-{zh-hans:萨索洛;zh-hk:薩斯索羅;}-</a></p></td>
 <td><p>1,000萬歐元</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>23</strong></p></td>
+<td></td>
+<td><p><a href="../Page/伊萬·斯特里尼奇.md" title="wikilink">-{zh-hans:斯特里尼奇;zh-hk:史卓歷;}-</a>（Ivan Strinić）</p></td>
+<td><p>左后卫</p></td>
+<td></td>
+<td><p>2018年</p></td>
+<td><p>待定</p></td>
+<td><p>自由轉會</p></td>
 </tr>
 </tbody>
 </table>

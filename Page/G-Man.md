@@ -53,7 +53,7 @@ G-Man还是没有给玩家揭开他神秘的面纱，不管是关于他的身世
 
 ### 半条命2：第一章
 
-在[半条命2：第一章中G](https://zh.wikipedia.org/wiki/半條命2:劫後餘生 "wikilink")-Man对戈登的拘禁被一群[弗地冈人以念力阻止](https://zh.wikipedia.org/wiki/弗地冈人 "wikilink")，之後G-Manfen愤怒的说：「我們……走著瞧！」（"We'll see... about that\!"）之後會採取什麼樣的行動還未知。直到游戏结束也再没看到他。
+在[半条命2：第一章中G](https://zh.wikipedia.org/wiki/半條命2:劫後餘生 "wikilink")-Man对戈登的拘禁被一群[弗地冈人以念力阻止](https://zh.wikipedia.org/wiki/弗地冈人 "wikilink")，之後G-Man愤怒的说：「我們……走著瞧！」（"We'll see... about that\!"）之後會採取什麼樣的行動還未知。直到游戏结束也再没看到他。
 
 ### 半条命2：第二章
 

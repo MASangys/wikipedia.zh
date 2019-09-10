@@ -1,4 +1,4 @@
-**Steam**是美國電子遊戲商[维尔福](https://zh.wikipedia.org/wiki/维尔福 "wikilink")（Valve）於2003年9月12日推出的[數位發行平台](https://zh.wikipedia.org/wiki/數位發行 "wikilink")，提供[数字版权管理](../Page/数字版权管理.md "wikilink")、[多人游戏](https://zh.wikipedia.org/wiki/多人电子游戏 "wikilink")、[流媒体](../Page/流媒体.md "wikilink")和[社交网络服务等功能](../Page/社交網路服務.md "wikilink")。借助Steam，用户能安装并自动更新游戏，也可以使用包括好友列表和组在内的社区功能，还能使用[云存储](../Page/云存储.md "wikilink")、游戏内语音和聊天功能。Steam软件免费提供了一个[应用程序接口](../Page/应用程序接口.md "wikilink")，称为Steamworks，开发商可以用来整合Steam的功能到自己的产品中，例如网络、在线对战、成就、微交易，并通过Steam创意工坊分享用户创作的内容。最初Steam只在[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[操作系统](../Page/操作系统.md "wikilink")发布，但后来也发布了[OS X和](../Page/MacOS.md "wikilink")[Linux](../Page/Linux.md "wikilink")版本。2010年以来，Steam推出了为[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[Android](../Page/Android.md "wikilink")和[Windows Phone设计的移动应用](../Page/Windows_Phone.md "wikilink")，与电脑版软件实现互联。
+**Steam**游戏平台（蒸汽平台）是美國電子遊戲商[维尔福](https://zh.wikipedia.org/wiki/维尔福 "wikilink")（Valve）於2003年9月12日推出的[數位發行平台](https://zh.wikipedia.org/wiki/數位發行 "wikilink")，提供[数字版权管理](../Page/数字版权管理.md "wikilink")、[多人游戏](https://zh.wikipedia.org/wiki/多人电子游戏 "wikilink")、[流媒体](../Page/流媒体.md "wikilink")和[社交网络服务等功能](../Page/社交網路服務.md "wikilink")。借助Steam，用户能安装并自动更新游戏，也可以使用包括好友列表和组在内的社区功能，还能使用[云存储](../Page/云存储.md "wikilink")、游戏内语音和聊天功能。Steam软件免费提供了一个[应用程序接口](../Page/应用程序接口.md "wikilink")，称为Steamworks，开发商可以用来整合Steam的功能到自己的产品中，例如网络、在线对战、成就、微交易，并通过Steam创意工坊分享用户创作的内容。最初Steam只在[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[操作系统](../Page/操作系统.md "wikilink")发布，但后来也发布了[OS X和](../Page/MacOS.md "wikilink")[Linux](../Page/Linux.md "wikilink")版本。2010年以来，Steam推出了为[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[Android](../Page/Android.md "wikilink")和[Windows Phone设计的移动应用](../Page/Windows_Phone.md "wikilink")，与电脑版软件实现互联。
 
 Steam被认为是[电脑游戏](../Page/电脑游戏.md "wikilink")界最大的数碼发行平台。2013年10月，Screen Digest估计Steam的市场份额有75%。\[1\]2015年，跟踪网站Steam Spy估计，用户从Steam商店或第三方供应商购买的Steam游戏总额约为35亿美元，占当年PC游戏销售总额的15%。\[2\]\[3\]2017年末，跟踪网站Steam Spy的数据表示Steam已有2.81亿注册账户，同时在线用户1750万。\[4\]\[5\]Steam平台的成功也让维尔福开始研发[Steam主机和](../Page/Steam_Machine.md "wikilink")[SteamOS](../Page/SteamOS.md "wikilink")。
 
@@ -99,11 +99,13 @@ SteamOS包括了Linux的架构以及为大屏幕模式设计的游戏体验。St
 
 2017年12月16日开始， 因疑似被[防火长城](../Page/防火长城.md "wikilink")[封锁steamcommunity](../Page/中华人民共和国被封锁网站列表.md "wikilink").com域名下的steam社区内容，导致在中国大陆的用户除了商店外无法访问其他任何功能，需要修改[hosts或使用加速器等相关工具才能绕过封锁](https://zh.wikipedia.org/wiki/hosts "wikilink")。\[43\]
 
+2019年6月，[维尔福與上海的遊戲公司完美世界合作](https://zh.wikipedia.org/wiki/维尔福 "wikilink")，推出中國大陆版steam，並定名為「蒸汽平台」和獨立於現有的steam。而首批上架的遊戲將有約 40 款，其中包含《[Dota 2](../Page/Dota_2.md "wikilink")》、《Dota 霸業》等。\[44\]\[45\]
+
 ## 默认启用https链接
 
-2018年4月28日起，steam在全球除中国大陆地区以外启用默认https链接代替之前的默认http链接，此举被认为可以降低用户数据被ISP劫持分析的可能性。\[44\]中国大陆地区此时只有商店采用默认https链接，社区仍然是默认http链接。
+2018年4月28日起，steam在全球除中国大陆地区以外启用默认https链接代替之前的默认http链接，此举被认为可以降低用户数据被ISP劫持分析的可能性。\[46\]中国大陆地区此时只有商店采用默认https链接，社区仍然是默认http链接。
 
-2018年6月2日，steam在中国大陆地区也采用社区默认https链接，之后防火长城也针对此提升了封锁强度，玩家仍需要不断修改hosts或使用加速器等工具才能访问社区。\[45\]
+2018年6月2日，steam在中国大陆地区也采用社区默认https链接，之后防火长城也针对此提升了封锁强度，玩家仍需要不断修改hosts或使用加速器等工具才能访问社区。\[47\]
 
 ## 参考资料
 
@@ -203,6 +205,10 @@ SteamOS包括了Linux的架构以及为大屏幕模式设计的游戏体验。St
 
 43. [Steam社区被关键字屏蔽](http://www.williamlong.info/archives/5191.html?utm_medium=website)
 
-44. [Steam 开始默认启用加密，但中国区除外](https://www.solidot.org/story?sid=56316)
+44.
 
 45.
+
+46. [Steam 开始默认启用加密，但中国区除外](https://www.solidot.org/story?sid=56316)
+
+47.

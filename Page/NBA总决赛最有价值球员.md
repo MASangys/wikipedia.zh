@@ -366,10 +366,10 @@
 </tr>
 <tr class="even">
 <td><p>2018年</p></td>
-<td><p><a href="../Page/凯文·杜兰特.md" title="wikilink">凯文·杜兰特</a>（2）</p></td>
+<td><p>凱文·杜蘭特</p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金州勇士队" title="wikilink">金州勇士队</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/克里夫蘭騎士队" title="wikilink">克里夫蘭騎士队</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2019年</p></td>

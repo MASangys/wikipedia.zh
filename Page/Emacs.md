@@ -227,7 +227,8 @@ Emacs将文本存放在[缓冲区中](https://zh.wikipedia.org/wiki/缓冲区 "w
   - [Reviewed entry](http://directory.fsf.org/wiki/Emacs) in the [Free Software Directory](https://zh.wikipedia.org/wiki/Free_Software_Directory "wikilink")
   - [Emacs实现列表](http://www.finseth.com/emacs.html)
   - [WikEmacs](http://www.wikemacs.org/index.php)
-  - [Emacs中文网](http://emacser.com)
+  - [Emacs中文网(已失效)](http://emacser.com)
+  - [Emacs China中文论坛](http://emacs-china.org)
   - [中文Emacs User's Guide](https://web.archive.org/web/20030626193707/http://www.cbi.pku.edu.cn/chinese/documents/csdoc/emacs/)
   - [IBM dw教程：生活在Emacs中](https://web.archive.org/web/20090207193326/http://www.ibm.com/developerworks/cn/views/linux/tutorials.jsp?cv_doc_id=84932)
   - [Emacs Wiki](http://emacswiki.org/)：一个关于**Emacs**的[wiki](https://zh.wikipedia.org/wiki/wiki "wikilink")。网站上有[英语](../Page/英语.md "wikilink")、[汉语](../Page/汉语.md "wikilink")等多种语言。EmacsWiki主要是提供一些Emacs的使用教程、技巧和用户贡献的配置文件\[5\]\[6\]\[7\]。像其他wiki一样，所有人都可以编辑。不过EmacsWiki没有[注册的制度](https://zh.wikipedia.org/wiki/注册 "wikilink")，不需要[账户就可以编辑整个wiki](https://zh.wikipedia.org/wiki/账户 "wikilink")。\[8\]

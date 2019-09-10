@@ -12,81 +12,121 @@ ActionScript 開發時可藉由導入 ANE 作為跨平台使用；並且官方�
 
 ### 播放器發展時間表
 
-  - **Flash Player 2**：第一个支持脚本的版本，包括控制时间轴的gotoAndPlay、 gotoAndStop、nextFrame和nextScene等方法。
-  - **Flash Player 3**：增强了载入外部[SWF文件的基本脚本支持](https://zh.wikipedia.org/wiki/SWF "wikilink")（loadMovie）。
-  - **Flash Player 4**：第一个完全实现脚本功能（称为「动作」）的播放器。这些脚本拥有简练的语法和对循环、条件、变量和其它基本语言结构的支持。
-  - **Flash Player 5**：第一个拥有真正意义上的ActionScript的版本。依据ECMAScript，\[1\]采用[基于原型编程](https://zh.wikipedia.org/wiki/基于原型编程 "wikilink")，并允许完全的[过程式编程和](https://zh.wikipedia.org/wiki/过程式编程 "wikilink")[面向对象编程](https://zh.wikipedia.org/wiki/面向对象编程 "wikilink")。
-
-<!-- end list -->
-
-  - **Flash Player 6**：增加了事件处理模型，并且支持switch。
-
-<!-- end list -->
-
-  - **Flash Player 7**: 提供一些新特性，如支持CSS显示文本和增强显示效果。Macromedia Flash编译器和Flash Player 7同时支持基于ECMAScript 4 Netscape Proposal\[2\]的[类编程语言ActionScript](../Page/类_\(计算机科学\).md "wikilink") 2.0。不过ActionScript 2.0能[交叉编译成ActionScript](https://zh.wikipedia.org/wiki/交叉编译 "wikilink") 1.0的[字节码](https://zh.wikipedia.org/wiki/字节码 "wikilink")，因此它能运行于Flash Player 6。
-
-<!-- end list -->
-
-  - **Flash Player 8**：增加用于运行时图象数据控制和文件上传的新类库及APIs，ActionScript 2.0功能更为完善。
-
-<!-- end list -->
-
-  - **Flash Player 9（原稱為Flash Player 8.5）**：增加ActionScript 3.0和一个称为AVM2（ActionScript Virtual Machine 2）新的虚拟机，它可以与前版本AVM1共存以便支持旧内容。增强性能是该版本的主要目标。這是adobe收購Macromedia後的第一個版本，並且也是Mac OS X上第一個Universal版本的Flash Player。
-
-<!-- end list -->
-
-  - **Flash Player 10**：支援多線程。
-
-<!-- end list -->
-
-  - **Flash Player 11**：2011年發表，運用[Stage3D](https://zh.wikipedia.org/wiki/Stage3D "wikilink") API提供的硬體加速圖像渲染，支援GPU加速。\[3\]
-
-<!-- end list -->
-
-  - **Flash Player 12** \[4\]
-
-<!-- end list -->
-
-  - **Flash Player 13** \[5\]
-
-<!-- end list -->
-
-  - **Flash Player 14**：2014年發表，支援AGAL2\[6\]
-  - **Flash Player 16**：2014年11月發表，支援new PPAPI\[7\]
-  - **Flash Player 17.0.0.93（閱覽版（Beta））**：2015年2月
-      - 支持64位元PC全平台
-      - Flash Player 17.0.0.171（正式版）（2015年4月14日）
-  - **Flash Player 18（閱覽版（Beta））**：2015年4月22日
-      - 支持PC瀏覽器優化
-      - 支持3D支援持續擴充
-
-<!-- end list -->
-
-  - **Adobe Flash Player 19**
-
-<!-- end list -->
-
-  - **Adobe Flash Player 20**
-      - 增強視訊處理和資訊防盜功能
-
-<!-- end list -->
-
-  - **Adobe Flash Player 21 （閱覽版（Beta）**：2016年3月23日
-      - 針對FLASH 與 HTML5結合運用 完善相關API
-      - 與火狐團隊合作 並針對火狐特殊需求增加支援
-      - GPU渲染 3D 記憶體處理
-      - 強化MAC平台支援
-
-<!-- end list -->
-
-  - **Adobe Flash Player 22**：2016年6月16日
-      - 處理字典 訊息問題
-      - XML 修正
-      - PPAPI印刷修正
-      - 针对Chrome浏览器修正橫向模式
-      - 大空字符修正
-      - 新增 EnableLocalAppData 作為安全性功能提供
-      - 與Google合作 修正視訊路線處理
+<table>
+<thead>
+<tr class="header">
+<th><p>版本</p></th>
+<th><p>發布日期</p></th>
+<th><p>描述</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><strong>Flash Player 2</strong></p></td>
+<td><p>1997/06/17</p></td>
+<td><p>第一个支持脚本的版本，包括控制时间轴的gotoAndPlay、 gotoAndStop、nextFrame和nextScene等方法。</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>Flash Player 3</strong></p></td>
+<td><p>1998/05/31</p></td>
+<td><p>增强了载入外部<a href="https://zh.wikipedia.org/wiki/SWF" title="wikilink">SWF文件的基本脚本支持</a>（loadMovie）。</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>Flash Player 4</strong></p></td>
+<td><p>1999/06/15</p></td>
+<td><p>第一个完全实现脚本功能（称为「动作」）的播放器。这些脚本拥有简练的语法和对循环、条件、变量和其它基本语言结构的支持。</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>Flash Player 5</strong></p></td>
+<td><p>2000/08/24</p></td>
+<td><p>第一个拥有真正意义上的ActionScript的版本。依据ECMAScript，[1]采用<a href="https://zh.wikipedia.org/wiki/基于原型编程" title="wikilink">基于原型编程</a>，并允许完全的<a href="https://zh.wikipedia.org/wiki/过程式编程" title="wikilink">过程式编程和</a><a href="https://zh.wikipedia.org/wiki/面向对象编程" title="wikilink">面向对象编程</a>。</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>Flash Player 6</strong></p></td>
+<td><p>2002/03/15</p></td>
+<td><p>增加了事件处理模型，并且支持switch。</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>Flash Player 7</strong></p></td>
+<td><p>2003/09/10</p></td>
+<td><p>提供一些新特性，如支持CSS显示文本和增强显示效果。Macromedia Flash编译器和Flash Player 7同时支持基于ECMAScript 4 Netscape Proposal[2]的<a href="../Page/类_(计算机科学).md" title="wikilink">类编程语言ActionScript</a> 2.0。不过ActionScript 2.0能<a href="https://zh.wikipedia.org/wiki/交叉编译" title="wikilink">交叉编译成ActionScript</a> 1.0的<a href="https://zh.wikipedia.org/wiki/字节码" title="wikilink">字节码</a>，因此它能运行于Flash Player 6。</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>Flash Player 8</strong></p></td>
+<td><p>2005/09/13</p></td>
+<td><p>增加用于运行时图象数据控制和文件上传的新类库及APIs，ActionScript 2.0功能更为完善。</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>Flash Player 9</strong></p></td>
+<td><p>2006/06/22</p></td>
+<td><p>原稱為Flash Player 8.5，增加ActionScript 3.0和一个称为AVM2（ActionScript Virtual Machine 2）新的虚拟机，它可以与前版本AVM1共存以便支持旧内容。增强性能是该版本的主要目标。這是adobe收購Macromedia後的第一個版本，並且也是Mac OS X上第一個Universal版本的Flash Player。</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>Flash Player 10</strong></p></td>
+<td><p>2008/10/15</p></td>
+<td><p>支援多線程。</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>Flash Player 11</strong></p></td>
+<td><p>2011/10/04</p></td>
+<td><p>運用<a href="https://zh.wikipedia.org/wiki/Stage3D" title="wikilink">Stage3D</a> API提供的硬體加速圖像渲染，支援GPU加速。[3]</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>Flash Player 14</strong></p></td>
+<td><p>2014/06/10</p></td>
+<td><p>支援AGAL2[4]</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>Flash Player 17.0.0.93（閱覽版 (Beta)）</strong></p></td>
+<td><p>2015/03/12</p></td>
+<td><ul>
+<li>支持64位元PC全平台</li>
+<li>Flash Player 17.0.0.171（正式版）</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p><strong>Flash Player 18（閱覽版 (Beta)）</strong></p></td>
+<td><p>2015/06/09</p></td>
+<td><ul>
+<li>支持PC瀏覽器優化</li>
+<li>支持3D支援持續擴充</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p><strong>Flash Player 19</strong></p></td>
+<td><p>2015/09/21</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>Flash Player 20</strong></p></td>
+<td><p>2015/12/08</p></td>
+<td><p>增強視訊處理和資訊防盜功能</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>Flash Player 21</strong></p></td>
+<td><p>2016/03/10</p></td>
+<td><ul>
+<li>針對FLASH 與 HTML5結合運用 完善相關API</li>
+<li>與火狐團隊合作 並針對火狐特殊需求增加支援</li>
+<li>GPU渲染 3D 記憶體處理</li>
+<li>強化MAC平台支援</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p><strong>Flash Player 22</strong></p></td>
+<td><p>2016/06/16</p></td>
+<td><ul>
+<li>處理字典訊息問題</li>
+<li>XML 修正</li>
+<li>PPAPI 印刷修正</li>
+<li>针对Chrome浏览器修正橫向模式</li>
+<li>大空字符修正</li>
+<li>新增 EnableLocalAppData 作為安全性功能提供</li>
+<li>與 Google 合作修正視訊路線處理</li>
+</ul></td>
+</tr>
+</tbody>
+</table>
 
 ### 桌面+APP時間表
 
@@ -219,16 +259,14 @@ function bt1_click(e:MouseEvent):void{
 bt1.removeEventListener(MouseEvent.CLICK,bt1_click);
 ```
 
-### Starling GPU開發樣本
+### Starling GPU 開發樣本
 
-導入SWC 或相關SDK以後,在建構子內加入以下這段 便可啟用GPU高速框架開發相關swf 或是跨平台軟體
+導入 SWC 或相關 SDK 以後，在建構子內加入以下這段，便可啟用 GPU 高速框架開發相關 swf 或是跨平台軟體。\[5\]\[6\]\[7\]
 
 ``` actionscript
-var _starling = new Starling(MainGame,stage);
-    _starling.start();
+var _starling = new Starling(MainGame, stage);
+_starling.start();
 ```
-
-官方正式說明文件連結提供查證-[1](http://www.adobe.com/cn/devnet/flashplayer/articles/introducing_Starling.html) 開源團隊官網說明文件連結提供查證-[2](http://gamua.com/starling/features/) 線上電子書連結提供查證-[3](https://www.packtpub.com/game-development/starling-game-development-essentials) amazon連結提供查證-[4](https://www.amazon.com/Starling-Game-Development-Essentials-Juwal/dp/178398354X)
 
 ## 參見
 
@@ -291,7 +329,7 @@ var _starling = new Starling(MainGame,stage);
 1.
 2.
 3.  [Flash Player 11 Release Notes](http://helpx.adobe.com/x-productkb/multi/release-notes-flash-player-11.html)
-4.  [Flash Player 12 Release Notes](http://helpx.adobe.com/flash-player/release-note/fp_12_air_4_release_notes.html)
-5.  [Flash Player 13 Release Notes](http://helpx.adobe.com/flash-player/release-note/fp_13_air_13_release_notes.html)
-6.  [Flash Player 14 Release Notes](http://helpx.adobe.com/flash-player/release-note/fp_14_air_14_release_notes.html)
-7.  [Flash Player 16](http://blogs.adobe.com/flashplayer/2014/12/flash-runtime-16-update-new-ppapi-installers-and-air-news.html)
+4.  [Flash Player 14 Release Notes](http://helpx.adobe.com/flash-player/release-note/fp_14_air_14_release_notes.html)
+5.   Adobe Developer Connection|url=[https://www.adobe.com/devnet/flashplayer/articles/introducing_Starling.html|accessdate=2019-08-31|work=www.adobe.com](https://www.adobe.com/devnet/flashplayer/articles/introducing_Starling.html%7Caccessdate=2019-08-31%7Cwork=www.adobe.com)}}
+6.
+7.

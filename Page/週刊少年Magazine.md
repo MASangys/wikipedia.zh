@@ -109,7 +109,7 @@
 <tr class="even">
 <td><p><a href="../Page/請在伸展台上微笑.md" title="wikilink">請在伸展台上微笑</a></p></td>
 <td></td>
-<td></td>
+<td><p>豬之谷言葉</p></td>
 <td><p>－</p></td>
 <td><p>2017年26號</p></td>
 <td></td>
@@ -155,7 +155,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/想包養男子高中生的大姐姐的故事" title="wikilink">想包養男子高中生的大姐姐的故事</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td><p>－</p></td>
@@ -190,12 +190,12 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/BLUE_LOCK" title="wikilink">BLUE LOCK</a></p></td>
 <td></td>
 <td></td>
-<td><p>金城宗幸</p></td>
+<td></td>
 <td><p>2018年35號</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/就算這樣，“步”還是靠了過來" title="wikilink">就算這樣，“步”還是靠了過來</a></p></td>
 <td></td>
 <td><p><a href="../Page/山本崇一朗.md" title="wikilink">山本崇一朗</a></p></td>
 <td><p>－</p></td>
@@ -221,9 +221,17 @@
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/巨龍戰記" title="wikilink">巨龍戰記</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/本田真吾" title="wikilink">本田真吾</a></p></td>
+<td></td>
 <td><p>－</p></td>
 <td><p>2019年35號</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/不死勇者羅曼史" title="wikilink">不死勇者羅曼史</a></p></td>
+<td></td>
+<td></td>
+<td><p>－</p></td>
+<td><p>2019年39號</p></td>
 <td></td>
 </tr>
 </tbody>

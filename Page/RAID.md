@@ -97,7 +97,7 @@ Storage Networking Industry Association (SNIA)对于RAID 6的定义是："在任
 
 对于计算机科学知识背景的人士，比较容易理解的方法是把 \(\oplus\) 看作是异或运算、把 \(g^i\) 看作对一块数据进行[线性反馈移位寄存器](../Page/线性反馈移位寄存器.md "wikilink")操作的结果。于是上述公式\[2\]中**P**的计算就是对每个条带进行异或。这是因为对于任何二阶有限域而言，加法其实就是异或。**Q**的计算则是对每个条带进行移位运算之后的结果进行异或。
 
-如果一块数据磁盘失效了，数据可以象 RAID 5 一样重新计算出来。如果两块数据磁盘或者一块数据磁盘和一块包含P的磁盘失效了，数据可以通过**P** 和 **Q**（或者仅通过 **Q**）通过更加复杂的过程重新计算出来，计算的过程需要用到域论，非常复杂。而如果 \(D_i\) 和 \(D_j\) (\(i \neq j\)) 两块数据盘丢失了，使用 \(D\) 的其他信息可以求出 \(A\) 和 \(B\) ，而 \(D_i \oplus D_j = A\) 和 \(g^iD_i \oplus g^jD_j = B\)：
+如果一块数据磁盘失效了，数据可以同 RAID 5 一样重新计算出来。如果两块数据磁盘或者一块数据磁盘和一块包含P的磁盘失效了，数据可以通过**P** 和 **Q**（或者仅通过 **Q**）通过更加复杂的过程重新计算出来，计算的过程需要用到域论，非常复杂。而如果 \(D_i\) 和 \(D_j\) (\(i \neq j\)) 两块数据盘丢失了，使用 \(D\) 的其他信息可以求出 \(A\) 和 \(B\) ，而 \(D_i \oplus D_j = A\) 和 \(g^iD_i \oplus g^jD_j = B\)：
 
 \[A = \bigoplus_{\ell:\;\ell\not=i\;\mathrm{and}\;\ell\not=j}{D_\ell} = \mathbf{P} \;\oplus\; \mathbf{D}_0 \;\oplus\; \mathbf{D}_1 \;\oplus\; \dots \;\oplus\; \mathbf{D}_{i-1} \;\oplus\;  \mathbf{D}_{i+1} \;\oplus\;  \dots \;\oplus\; \mathbf{D}_{j-1}  \;\oplus\; \mathbf{D}_{j+1} \;\oplus\;  \dots \;\oplus\;  \mathbf{D}_{n-1}\]
 
@@ -178,7 +178,7 @@ RAID4有應用在某些商用機器上，像是NetApp公司設計的NAS系統就
 <!-- end list -->
 
   - 硬體磁碟陣列（Hardware RAID）
-    RAID卡上內建處理器，不需要伺服器的CPU運算。優點是讀寫效能最快，不佔用伺服器資源，可用於任何作業系統，也能在系統斷電後，透過備份電池模組（BBU, Backup Battery Unit）以及[非揮發性記憶體 (NVRAM)將硬碟讀寫日誌檔](../Page/非揮發性記憶體.md "wikilink")（Journal）包含的剩餘讀寫作業先紀錄在記憶體中，等待電力供應復原後，再由NVRAM取回日誌檔資料，接著再完成讀寫作業，將剩餘讀寫作業安全完成以確保讀寫完整性。備份電池模組通常會配合陣列卡的Write-Back快取模式，藉由此記憶體快取讀寫作業以得到更高的讀寫效能；但是沒有備份電池模組的硬體磁碟陣列卡，切勿使用Write-Back快取模式以免遭遇斷電情形導致讀寫資料流失。此外，因為硬體磁碟陣列卡搭載內建處理器，所以可以與系統分離出來，對硬碟進行各種作業，還原作業的速度也比軟體磁碟陣列快。缺點是其售價很高，通常只用於RAID 5和RAID 6。
+    RAID卡上內建處理器，不需要伺服器的CPU運算。優點是讀寫效能最快，不佔用伺服器資源，可用於任何作業系統，也能在系統斷電後，透過備份電池模組（BBU, Backup Battery Unit）以及[非揮發性記憶體 (NVRAM)將硬碟讀寫日誌檔](../Page/非揮發性記憶體.md "wikilink")（Journal）包含的剩餘讀寫作業先紀錄在記憶體中，等待電力供應復原後，再由NVRAM取回日誌檔資料，接著再完成讀寫作業，將剩餘讀寫作業安全完成以確保讀寫完整性。備份電池模組通常會配合陣列卡的Write-Back快取模式，藉由此記憶體快取讀寫作業以得到更高的讀寫效能；但是沒有備份電池模組的硬體磁碟陣列卡，切勿使用Write-Back快取模式以免遭遇斷電情形導致讀寫資料流失。此外，因為硬體磁碟陣列卡搭載內建處理器，所以可以與作業系統分離出來，對硬碟進行各種作業，還原作業的速度也比軟體磁碟陣列快。缺點是其售價很高。
 
 ## 磁碟陣列相關客戶類型
 
@@ -195,6 +195,7 @@ RAID4有應用在某些商用機器上，像是NetApp公司設計的NAS系統就
   - [Raid](http://www.webopedia.com/TERM/R/RAID.html)
   - [\[影片\]什麼是RAID?](http://www.youtube.com/watch?v=9uYk-pjt-5o)
   - [\[视频\]RAID磁盘阵列是什么？RAID 0、1、5区别？](https://www.bilibili.com/video/av13557543?from=search&seid=6433148143037371855)
+  - [RAID 容量計算器](https://www.asustor.com/service/raid_calculator/)
 
 [Category:電腦儲存](https://zh.wikipedia.org/wiki/Category:電腦儲存 "wikilink")
 

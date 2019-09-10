@@ -46,9 +46,9 @@ BMW的汽車產品是以車系作為分類基礎，每個車系之下再依照�
 
 #### 現有车系
 
-[BMW_sixth-generation_7Series_in_Tokyo-MotorShow_2015.jpg](https://zh.wikipedia.org/wiki/File:BMW_sixth-generation_7Series_in_Tokyo-MotorShow_2015.jpg "fig:BMW_sixth-generation_7Series_in_Tokyo-MotorShow_2015.jpg")\]\] [2018_BMW_520d_xDrive_M_Sport_Automatic_2.0_Front.jpg](https://zh.wikipedia.org/wiki/File:2018_BMW_520d_xDrive_M_Sport_Automatic_2.0_Front.jpg "fig:2018_BMW_520d_xDrive_M_Sport_Automatic_2.0_Front.jpg")（G30）\]\] [BMW_320d_Sport_Line_(F30)_–_Frontansicht,_26._Februar_2012,_Wülfrath.jpg](https://zh.wikipedia.org/wiki/File:BMW_320d_Sport_Line_\(F30\)_–_Frontansicht,_26._Februar_2012,_Wülfrath.jpg "fig:BMW_320d_Sport_Line_(F30)_–_Frontansicht,_26._Februar_2012,_Wülfrath.jpg")（F30）\]\] [BMW_Z4_(E89)_front_20100815.jpg](https://zh.wikipedia.org/wiki/File:BMW_Z4_\(E89\)_front_20100815.jpg "fig:BMW_Z4_(E89)_front_20100815.jpg")（E89）\]\] [2015_BMW_X3_(F25_LCI)_xDrive20d_wagon_(2015-06-27).jpg](https://zh.wikipedia.org/wiki/File:2015_BMW_X3_\(F25_LCI\)_xDrive20d_wagon_\(2015-06-27\).jpg "fig:2015_BMW_X3_(F25_LCI)_xDrive20d_wagon_(2015-06-27).jpg")（F25）\]\]
+[BMW_sixth-generation_7Series_in_Tokyo-MotorShow_2015.jpg](https://zh.wikipedia.org/wiki/File:BMW_sixth-generation_7Series_in_Tokyo-MotorShow_2015.jpg "fig:BMW_sixth-generation_7Series_in_Tokyo-MotorShow_2015.jpg") (G12)\]\] [2018_BMW_520d_xDrive_M_Sport_Automatic_2.0_Front.jpg](https://zh.wikipedia.org/wiki/File:2018_BMW_520d_xDrive_M_Sport_Automatic_2.0_Front.jpg "fig:2018_BMW_520d_xDrive_M_Sport_Automatic_2.0_Front.jpg")（G30）\]\] [2015_BMW_X3_(F25_LCI)_xDrive20d_wagon_(2015-06-27).jpg](https://zh.wikipedia.org/wiki/File:2015_BMW_X3_\(F25_LCI\)_xDrive20d_wagon_\(2015-06-27\).jpg "fig:2015_BMW_X3_(F25_LCI)_xDrive20d_wagon_(2015-06-27).jpg")（F25）\]\]
 
-  - [1系](../Page/BMW_1系列.md "wikilink")（1er-Reihe，1 Series）：車系代號F20，2011年上市，小型五門[掀背車系](https://zh.wikipedia.org/wiki/掀背車 "wikilink")。（三门版F21）
+  - [1系](../Page/BMW_1系列.md "wikilink")（1er-Reihe，1 Series）：車系代號F40，2019年上市，小型[掀背車系](https://zh.wikipedia.org/wiki/掀背車 "wikilink")。（三门版F21）
   - [2系](../Page/BMW_2系列.md "wikilink")（2er-Reihe，2 Series）：車系代號F22，2014年上市，小型双门[硬顶跑车系](https://zh.wikipedia.org/wiki/硬顶跑车 "wikilink")，取代原来的1系硬顶跑车和[敞篷跑车](https://zh.wikipedia.org/wiki/敞篷跑车 "wikilink")。
   - [3系](../Page/BMW_3系列.md "wikilink")（3er-Reihe，3 Series）：車系代號G20，2019年上市，小型主管級[轎車系](https://zh.wikipedia.org/wiki/轎車 "wikilink")。
   - [4系](../Page/BMW_4系列.md "wikilink")（4er-Reihe，4 Series）：車系代號F32，2014年上市，小型主管級双门[硬顶跑车系与双門](https://zh.wikipedia.org/wiki/硬顶跑车 "wikilink")[敞篷跑车F](https://zh.wikipedia.org/wiki/敞篷跑车 "wikilink")33，取代原来的3系硬顶跑车和[敞篷跑车](https://zh.wikipedia.org/wiki/敞篷跑车 "wikilink")。
@@ -63,32 +63,49 @@ BMW的汽車產品是以車系作為分類基礎，每個車系之下再依照�
   - [X4](../Page/BMW_X4.md "wikilink")：車系代號G02, 2018年上市, 跨界休旅車
   - [X5](../Page/BMW_X5.md "wikilink")：車系代號G05，2018年上市，中型五門休旅車系。
   - [X6](../Page/BMW_X6.md "wikilink")：車系代號F16，2015年上市，[跨界休旅車](../Page/跨界休旅車.md "wikilink")、[運動型多用途車系](https://zh.wikipedia.org/wiki/運動型多用途車 "wikilink")。
-  - [X7](../Page/BMW_X7.md "wikilink")：2019年上市，大型SUV。
+  - [X7](../Page/BMW_X7.md "wikilink")：2019年上市,車系代號G07,大型SUV。
   - 3系列GT（3er-Gran Turismo，3 Series Gran Turismo）：車系代號F34，2013年上市，小型混合運動型轎車及SUV的新型[跨界休旅車](../Page/跨界休旅車.md "wikilink")。
-  - 6系列GT（6er-Gran Turismo，6 Series Gran Turismo）：車系代號G32，2017年上市，中型混合運動型轎車及SUV的新型[跨界休旅車](../Page/跨界休旅車.md "wikilink")。
+  - 6系列GT（6er-Gran Turismo，6 Series Gran Turismo）：車系代號G32，2018年上市，中型混合運動型轎車及SUV的新型[跨界休旅車](../Page/跨界休旅車.md "wikilink")。
   - 概念車：車型Gina，未上市，BMW所開發的新型概念車，又BMW設計的特殊纖維布料所包覆。
   - 油電混合車：車型Efficient Dynamics，未上市，爲了符合現代省油的趨勢而製造。
 
 #### M車系
 
-[The_frontview_of_BMW_M6_Cabriolet_(F12)_with_its_roof_closed.JPG](https://zh.wikipedia.org/wiki/File:The_frontview_of_BMW_M6_Cabriolet_\(F12\)_with_its_roof_closed.JPG "fig:The_frontview_of_BMW_M6_Cabriolet_(F12)_with_its_roof_closed.JPG") F12 \]\] [BMW_E89_Z4_sDrive23i.JPG](https://zh.wikipedia.org/wiki/File:BMW_E89_Z4_sDrive23i.JPG "fig:BMW_E89_Z4_sDrive23i.JPG") Coupé \]\] [BMW_1M_-_Flickr_-_Alexandre_Prévot_(9).jpg](https://zh.wikipedia.org/wiki/File:BMW_1M_-_Flickr_-_Alexandre_Prévot_\(9\).jpg "fig:BMW_1M_-_Flickr_-_Alexandre_Prévot_(9).jpg") M車系是BMW旗下的高性能車種家族，由直屬於BMW集團的子公司[BMW M公司](../Page/BMW_M公司.md "wikilink")（德文：BMW M GmbH，其獨立設置公司之前原本是BMW M部門）負責設計生產，除了少數幾款特例外，M車系的產品大都是以BMW原有的各車系車款為基礎，再加上由M公司特別開發的高性能引擎、傳動系統、空氣動力套件與其他方面的性能版零件與調校之後，獨立而成的高性能版本。而除了整車生產的高性能版車型之外，M公司也負責開發製造BMW旗下各車系專用的高性能售後改裝用套件。
+[The_frontview_of_BMW_M6_Cabriolet_(F12)_with_its_roof_closed.JPG](https://zh.wikipedia.org/wiki/File:The_frontview_of_BMW_M6_Cabriolet_\(F12\)_with_its_roof_closed.JPG "fig:The_frontview_of_BMW_M6_Cabriolet_(F12)_with_its_roof_closed.JPG") F12 \]\] [BMW_1M_-_Flickr_-_Alexandre_Prévot_(9).jpg](https://zh.wikipedia.org/wiki/File:BMW_1M_-_Flickr_-_Alexandre_Prévot_\(9\).jpg "fig:BMW_1M_-_Flickr_-_Alexandre_Prévot_(9).jpg") M車系是BMW旗下的高性能車種家族，由直屬於BMW集團的子公司[BMW M公司](../Page/BMW_M公司.md "wikilink")（德文：BMW M GmbH，其獨立設置公司之前原本是BMW M部門）負責設計生產，除了少數幾款特例外，M車系的產品大都是以BMW原有的各車系車款為基礎，再加上由M公司特別開發的高性能引擎、傳動系統、空氣動力套件與其他方面的性能版零件與調校之後，獨立而成的高性能版本。而除了整車生產的高性能版車型之外，M公司也負責開發製造BMW旗下各車系專用的高性能售後改裝用套件。
 
 現行的M車系產品包括：
 
-  - [M2(Concept)](https://zh.wikipedia.org/wiki/BMW_M2 "wikilink")
+  - M1
+  - [M2](https://zh.wikipedia.org/wiki/BMW_M2 "wikilink")
+  - M2 competition
+  - M2 cs
   - [M3](../Page/BMW_M3.md "wikilink")
-  - [M4(Concept)](../Page/BMW_M4.md "wikilink")
-  - [M5](https://zh.wikipedia.org/wiki/BMW_M5 "wikilink")
+  - [M4](../Page/BMW_M4.md "wikilink")
+  - M4 gts
+  - M5
+  - [M5](https://zh.wikipedia.org/wiki/BMW_M5 "wikilink") competition
   - [M6](https://zh.wikipedia.org/wiki/BMW_M6 "wikilink")
+  - M6 gts
   - [X3 M](https://zh.wikipedia.org/wiki/X3_M "wikilink")(Competition )
   - [X4 M](https://zh.wikipedia.org/wiki/X4_M "wikilink")(Competition )
+  - X5M
   - [X6 M](https://zh.wikipedia.org/wiki/X6_M "wikilink")
   - [M8](https://zh.wikipedia.org/wiki/BMW_M8 "wikilink")
+  - M8 gte
+  - M8 competition
 
 i車系(即[電動車](https://zh.wikipedia.org/wiki/電動車 "wikilink"))
 
   - [i3](https://zh.wikipedia.org/wiki/BMW_i3 "wikilink")
   - [i8](../Page/BMW_i8.md "wikilink")
+  - I1(concept)
+  - I2(concept)
+  - I3(concept)
+  - I4(concept)
+  - I5(concept)
+  - I6(concept)
+  - I7(concept
+  - I9(concept)
 
 #### 歷史車款
 

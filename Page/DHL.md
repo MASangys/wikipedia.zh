@@ -36,7 +36,7 @@ DHL快遞的機隊如下：
 | [波音757](../Page/波音757.md "wikilink")-200F                      | 44                            | 0                              |                               |
 | [波音767](../Page/波音767.md "wikilink")-200F                      | 7                             | 0                              |                               |
 | [波音767](../Page/波音767.md "wikilink")-300ERF                    | 6                             | 0                              |                               |
-| [波音777F](https://zh.wikipedia.org/wiki/波音777 "wikilink")       | 12                            | 0                              |                               |
+| [波音777-F](https://zh.wikipedia.org/wiki/波音777 "wikilink")      | 12                            | 0                              |                               |
 | [圖204-100C](../Page/圖-204.md "wikilink")                       | 1                             | 0                              |                               |
 | 總數                                                             | 122                           | 4                              |                               |
 

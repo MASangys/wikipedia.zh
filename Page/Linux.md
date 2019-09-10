@@ -81,7 +81,7 @@ Linux具有设备独立性，它内核具有高度适应能力，从而给系统
 
 [每個孩子一台筆記型電腦這一項目正在催生新的更為龐大的Linux用戶群](../Page/OLPC.md "wikilink")，計劃將包括發展中國家的幾億學童、他們的家庭和社區。在2007年，已經有六個國家訂購了至少每個國家一百萬台以上免費發放給學生。[Google](../Page/Google.md "wikilink")、[Red Hat和](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")[eBay是該項目的主要支持者](https://zh.wikipedia.org/wiki/eBay "wikilink")。
 
-基於其低廉成本與高度可設定性，Linux常常被應用於[嵌入式系統](../Page/嵌入式系统.md "wikilink")，例如[機上盒](https://zh.wikipedia.org/wiki/數位視訊轉換盒 "wikilink")、[行動電話及](../Page/移动电话.md "wikilink")[行動裝置等](../Page/移动设备.md "wikilink")。在行動電話上，Linux已經成為[IOS](../Page/IOS.md "wikilink")的主要競爭者；而在行動裝置上，則成為[Windows CE與](../Page/Windows_Embedded_Compact.md "wikilink")[Palm OS之外另一個選擇](../Page/Palm_OS.md "wikilink")。目前流行的[TiVo](../Page/TiVo.md "wikilink")數位攝影機使用了經過客製化後的Linux。此外，有不少硬體式的[網路防火牆及](../Page/防火墙.md "wikilink")[路由器](../Page/路由器.md "wikilink")，例如部份[LinkSys的產品](../Page/Linksys.md "wikilink")，其內部都是使用Linux來驅動、並採用了作業系統提供的防火牆及路由功能。
+基於其低廉成本與高度可設定性，Linux常常被應用於[嵌入式系統](../Page/嵌入式系统.md "wikilink")，例如[機上盒](../Page/數位視訊轉換盒.md "wikilink")、[行動電話及](../Page/移动电话.md "wikilink")[行動裝置等](../Page/移动设备.md "wikilink")。在行動電話上，Linux已經成為[IOS](../Page/IOS.md "wikilink")的主要競爭者；而在行動裝置上，則成為[Windows CE與](../Page/Windows_Embedded_Compact.md "wikilink")[Palm OS之外另一個選擇](../Page/Palm_OS.md "wikilink")。目前流行的[TiVo](../Page/TiVo.md "wikilink")數位攝影機使用了經過客製化後的Linux。此外，有不少硬體式的[網路防火牆及](../Page/防火墙.md "wikilink")[路由器](../Page/路由器.md "wikilink")，例如部份[LinkSys的產品](../Page/Linksys.md "wikilink")，其內部都是使用Linux來驅動、並採用了作業系統提供的防火牆及路由功能。
 
 ### 個人電腦
 

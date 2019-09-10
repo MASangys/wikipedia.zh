@@ -74,7 +74,7 @@ print "Hello, world!"
 
 ### 單步執行
 
-Python也可以單步直譯執行。執行Python直譯器進入互動式命令列的環境，你可以在提示符號\>\>\>旁輸入print（"Hello, world\!"），按Enter鍵輸出結果：
+Python也可以單步直譯執行。執行Python直譯器進入互動式命令列的環境，你可以在提示符號`>>>`旁輸入`print("Hello, world!")`，按Enter鍵輸出結果：
 
 \*;適用於Python 3.0以上版本以及Python 2.6、Python 2.7
 
@@ -90,7 +90,7 @@ Hello, world!
 Hello, world!
 ```
 
-注意，在3.0及以上版本中，需要在"Hello,world"周围加上圆括号。其原因是在3.0及以上版本中，print命令不再是一个关键字，而是一个函数。
+注意，在3.0及以上版本中，需要在`"Hello,world"`周围加上圆括号。其原因是在3.0及以上版本中，print命令不再是一个关键字，而是一个函数。
 
 ## 語法
 
@@ -113,31 +113,31 @@ print("這句話處於if語句塊的外面")
 
 ### 标识符
 
-  - _单下划线开头：弱“内部使用”标识。对于“from M import \*”，将不导入所有以下划线开头的对象，包括包、模块、成员。
-  - 单下划线结尾_：为了避免与python关键字的命名冲突
-  - __双下划线开头：模块内的成员，表示私有成员，外部无法直接调用
-  - __双下划线开头双下划线结尾__：指那些包含在用户无法控制的命名空间中的“魔术”对象或属性，如类成员的name 、doc、init、import、file、等。推荐永远不要将这样的命名方式应用于自己的变量或函数。
+  - `_foo`（单下划线开头）：弱“内部使用”标识。对于`from M import *`，将不导入所有以下划线开头的对象，包括包、模块、成员。
+  - `foo_`（单下划线结尾）：为了避免与python关键字的命名冲突。
+  - `__foobar`（双下划线开头）：模块内的成员，表示私有成员，外部无法直接调用。
+  - `__foobar__`（双下划线开头双下划线结尾）：指那些包含在用户无法控制的命名空间中的“魔术”对象或属性，如类成员的`__name__`、`__doc__`、`__init__`、`__import__`、`__file__`等。建议永远不要将这样的命名方式应用于自己的变量或函数。
 
 ### 語句和控制流
 
-  - `if`語句，當條件成立時執行語句塊。經常與`else`, `elif`（相當於`else if`）配合使用。
+  - `if`語句，當條件成立時執行語句塊。經常與`else`、`elif`（相當於`else if`）配合使用。
   - `for`語句，遍历列表、字符串、字典、集合等[迭代器](../Page/迭代器.md "wikilink")，依次處理迭代器中的每個元素。
   - `while`語句，當條件為真時，循環執行語句塊。
-  - `try`語句。與`except, finally, else`配合使用處理在程式執行中出现的異常情況。
+  - `try`語句。與`except`、`finally`、`else`配合使用處理在程式執行中出现的異常情況。
   - `class`語句。用於定義類型。
   - `def`語句。用於定義函數和類型的方法。
   - `pass`語句。表示此行為空，不執行任何操作。
   - `assert`語句。用於程式調適階段時測試執行條件是否滿足。
-  - `with`語句。Python2.6以後定義的語法，在一個場景中執行語句塊。比如，執行語句塊前加锁，然后在語句塊執行結束後释放锁。
-  - `yield`语句。在迭代器函数内使用，用于返回一个元素。自从Python 2.5版本以后。这个语句变成一个运算符。
+  - `with`語句。Python2.5加入的語法，用于在一個場景中執行語句塊。比如，執行語句塊前加锁，然后在語句塊執行結束後释放锁。
+  - `yield`语句。在迭代器函数内使用，用于返回一个元素。Python2.5及以后这个语句变成一个运算符。
   - `raise`语句。抛出一个异常。
-  - `import`语句。导入一个模块或包。常用写法：`from module import name, import module as name, from module import name as anothername`
+  - `import`语句。导入一个模块或包。常用写法：`from module import name`、`import module as name`、`from module import name as anothername`
 
 ### 表达式
 
 Python的表达式写法与C/C++类似。只是在某些写法有所差别。
 
-  - 主要的算术运算符与C/C++类似。`+, -, *, /, //, **, ~, %`分别表示加法或者取正、减法或者取负、乘法、除法、整除、乘方、取反、取餘數。`>>, <<`表示右移和左移。`&, |, ^`表示二进制的`AND, OR, XOR`运算。`>, <, ==, !=, <=, >=`用于比较两个表达式的值，分别表示大于、小于、等于、不等于、小于等于、大于等于。在这些运算符里面，`~, |, ^, &, <<, >>`必须应用于整数。
+  - 主要的算术运算符与C/C++类似。`+`, `-`, `*`, `/`, `//`, `**`, `~`, `%`分别表示加法或者取正、减法或者取负、乘法、除法、整除、乘方、取反、取餘數。`>>`, `<<`表示右移和左移。`&`, `|`, `^`表示二进制的AND, OR, XOR运算。`>`, `<`, `==`, `!=`, `<=`, `>=`用于比较两个表达式的值，分别表示大于、小于、等于、不等于、小于等于、大于等于。在这些运算符里面，`~`, `|`, `^`, `&`, `<<`, `>>`必须应用于整数。
 
 <!-- end list -->
 
@@ -145,11 +145,11 @@ Python的表达式写法与C/C++类似。只是在某些写法有所差别。
 
 <!-- end list -->
 
-  - `is, is not`用于比较两个变量是否是同一个对象。`in, not in`用于判断一个对象是否属于另外一个对象。
+  - `is`, `is not`用于比较两个变量是否是同一个对象。`in`, `not in`用于判断一个对象是否属于另外一个对象。
 
 <!-- end list -->
 
-  - Python支持字典、集合、列表的推导式（`dict comprehension, set comprehension, list comprehension`）。比如：
+  - Python支持字典、集合、列表的推导式（dict comprehension, set comprehension, list comprehension）。比如：
 
 <!-- end list -->
 
@@ -185,7 +185,7 @@ Python的表达式写法与C/C++类似。只是在某些写法有所差别。
 
 <!-- end list -->
 
-  - Python区分列表（list）和元组（tuple）两种类型。list的写法是`[1,2,3]`，而tuple的写法是`(1,2,3)`。可以改变list中的元素，而不能改变tuple。在某些情况下，tuple的括号可以省略。tuple对于赋值语句有特殊的处理。因此，可以同时赋值给多个变量，比如：
+  - Python区分列表（list）和元组（tuple）两种类型。list的写法是`[1,2,3]`，而tuple的写法是`(1,2,3)`。可以改变list中的元素，而不能改变tuple。在某些情况下，tuple的括号可以省略。tuple对于赋值语句有特殊的处理。因此，可以同时给多个变量赋值，比如：
 
 <!-- end list -->
 
@@ -199,7 +199,7 @@ Python的表达式写法与C/C++类似。只是在某些写法有所差别。
 >>> x, y = y, x #最终结果：y=1, x=2
 ```
 
-  - Python使用'（单引号）和"（双引号）来表示字符串。与Perl、Unix Shell语言或者Ruby、Groovy等语言不一样，两种符号作用相同。一般地，如果字符串中出现了双引号，就使用单引号来表示字符串;反之则使用双引号。如果都没有出现，就依个人喜好选择。出现在字符串中的\\（反斜杠）被解释为特殊字符，比如`\n`表示换行符。表达式前加`r`指示Python不解释字符串中出现的\\。这种写法通常用于编写正则表达式或者Windows文件路径。
+  - Python使用`'`（单引号）和`"`（双引号）来表示字符串。与Perl、Unix Shell语言或者Ruby、Groovy等语言不一样，两种符号作用相同。一般地，如果字符串中出现了双引号，就使用单引号来表示字符串;反之则使用双引号。如果都没有出现，就依个人喜好选择。出现在字符串中的`\`（反斜杠）被解释为特殊字符，比如`\n`表示换行符。表达式前加`r`指示Python不解释字符串中出现的`\`。这种写法通常用于编写正则表达式或者Windows文件路径。
 
 <!-- end list -->
 
@@ -208,7 +208,7 @@ Python的表达式写法与C/C++类似。只是在某些写法有所差别。
       - `nums[1:] == [3, 5, 7, 8, 13, 20]`切割到最后一个元素。
       - `nums[:-3] == [1, 3, 5, 7]`从最开始的元素一直切割到倒数第3个元素。
       - `nums[:] == [1, 3, 5, 7, 8, 13, 20]`返回所有元素。改变新的列表不会影响到nums。
-      - `nums[1:5:2] == [3, 7]`从下标为1的元素切割到下标为5的元素但不包含下标为5的元素，且步长为2
+      - `nums[1:5:2] == [3, 7]`从下标为1的元素切割到下标为5的元素但不包含下标为5的元素，且步长为2。
 
 ### 函数
 
@@ -640,7 +640,7 @@ Python是一门跨平台的脚本语言，Python规定了一个Python语法规�
   - [Eric](../Page/Eric_Python_IDE.md "wikilink")：基于[PyQt](../Page/PyQt.md "wikilink")的自由软件。支持自动补全、智能感知、自动语法检查、工程管理、svn/mercurial集成、自动单元测试等功能，具有可扩展的插件系统，通过可选插件支持[Git](../Page/Git.md "wikilink")集成。调试功能与Visual Studio和Eclipse类似。目前版本为Eric6，可同时支持Python2.x和Python3.x，以及PyQt4和PyQt5。使用前需要先安装相应的Python和PyQt版本。
   - IDLE：Python“标准”IDE。一般随Python而安装，支持较少的编辑功能。调试功能也比较弱。
   - [Komodo和](https://zh.wikipedia.org/wiki/Komodo "wikilink")[Komodo Edit](https://zh.wikipedia.org/wiki/Komodo_Edit "wikilink")：后者是前者的免费精简版。也可以用于PHP，Ruby，Javascript，Perl，Web和云开发。
-  - [PyCharm](../Page/PyCharm.md "wikilink")：由[JetBrains](../Page/JetBrains.md "wikilink")打造，该公司的Java IDE软件IntelliJ（此软件也有Python开发插件）拥有海量的使用者；PyCharm具备一般IDE的功能，比如，调试、语法高亮、Project管理、代码跳转、智能提示、自动完成、单元测试、版本控制等等，同时另外，PyCharm还提供了一些很好的功能用于Django开发，同时支持[Google App Engine](https://zh.wikipedia.org/wiki/Google_App_Engine "wikilink")，PyCharm也支持IronPython。PyCharm是商业软件，但也具有社区版和教育版。
+  - [PyCharm](../Page/PyCharm.md "wikilink")：由[JetBrains](../Page/JetBrains.md "wikilink")打造，该公司的Java IDE软件IntelliJ（此软件也有Python开发插件）拥有海量的使用者；PyCharm具备一般IDE的功能，比如，调试、语法高亮、Project管理、代码跳转、智能提示、自动完成、单元测试、版本控制等等，同时另外，PyCharm还提供了一些很好的功能用于Django开发，同时支持[Google App Engine](../Page/Google_App_Engine.md "wikilink")，PyCharm也支持IronPython。PyCharm是商业软件，但也具有社区版和教育版。
   - [PyScripter](https://zh.wikipedia.org/wiki/PyScripter "wikilink")：功能较全的开源IDE，使用Delphi开发。
   - [PythonWin](https://zh.wikipedia.org/wiki/PythonWin "wikilink")：包含在pywin32内的编辑器，仅适用于Windows。
   - [SPE](https://zh.wikipedia.org/wiki/SPE "wikilink")（Stani's Python Editor）：功能较多的免费软件，依赖[wxPython](https://zh.wikipedia.org/wiki/wxPython "wikilink")。

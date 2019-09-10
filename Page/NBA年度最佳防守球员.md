@@ -280,10 +280,10 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/2018-19_NBA赛季" title="wikilink">2018-19</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/魯迪·戈貝爾" title="wikilink">魯迪·戈貝爾</a>^ (2)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/篮球位置" title="wikilink">中锋</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/詹姆士·哈登" title="wikilink">詹姆士·哈登</a>^</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/篮球位置" title="wikilink">後衛</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/猶他爵士" title="wikilink">猶他爵士</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/休士頓火箭" title="wikilink">休士頓火箭</a></p></td>
 </tr>
 </tbody>
 </table>

@@ -71,11 +71,16 @@ FidoNet自上而下分为洲区（Zone），地区（Region），网络（Networ
 
 ## 參考文獻
 
-## 参考
+## 外部链接
+
+  - [撥接式電子布告欄](https://web.archive.org/web/20070108101007/http://playstation2.idv.tw/iacolumns/jl00023.htm)
+
+## 参见
 
   - [BBS](../Page/BBS.md "wikilink")
   - [中国惠多网络](https://zh.wikipedia.org/wiki/中国惠多网络 "wikilink")
-  - [撥接式電子布告欄](https://web.archive.org/web/20070108101007/http://playstation2.idv.tw/iacolumns/jl00023.htm)
+
+{{-}}
 
 [Category:BBS](https://zh.wikipedia.org/wiki/Category:BBS "wikilink")
 

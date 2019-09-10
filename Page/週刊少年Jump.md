@@ -38,7 +38,7 @@
 
 在這時期開始裡面所有作品故事、題材及內容豐富，角色畫風開始走唯美路線，在傳統熱血外追加更多戀愛和女性元素。同時，也受《[ONE PIECE](../Page/ONE_PIECE.md "wikilink")》、《[火影忍者](../Page/火影忍者.md "wikilink")》等題材影響角色描敘帶有牽引人的特色。
 
-《[BLEACH](../Page/BLEACH.md "wikilink")》（2001～2016年）、《[Mr.FULLSWING強棒出擊](../Page/Mr.FULLSWING強棒出擊.md "wikilink")》（2001～2006年）、《[草莓100%](https://zh.wikipedia.org/wiki/草莓100% "wikilink")》（2002～2005年）、《[-{zh-hans:光速蒙面侠21;zh-tw:光速蒙面俠21;zh-hk:Eyeshield 21高速達陣}-](../Page/光速蒙面俠21.md "wikilink")》（2002～2009年）、《[棋魂](https://zh.wikipedia.org/wiki/棋魂 "wikilink")》（1999～2003年）、《[網球王子](https://zh.wikipedia.org/wiki/網球王子 "wikilink")》（1999～2008年）、《[死亡筆記](https://zh.wikipedia.org/wiki/死亡筆記 "wikilink")》（2004～2006年）輩出受歡迎作品。之後，《[銀魂](https://zh.wikipedia.org/wiki/银魂 "wikilink")》（2004年～2018年）、《[家庭教師HITMAN REBORN\!](https://zh.wikipedia.org/wiki/家庭教師HITMAN_REBORN! "wikilink")》（2004～2012年）、《[驅魔少年](../Page/驅魔少年.md "wikilink")》（2004年～）、《[魔人偵探腦嚙涅羅](https://zh.wikipedia.org/wiki/魔人偵探腦嚙涅羅 "wikilink")》（2005～2009年）亦受歡迎。
+《[BLEACH](../Page/BLEACH.md "wikilink")》（2001～2016年）、《[Mr.FULLSWING強棒出擊](../Page/Mr.FULLSWING強棒出擊.md "wikilink")》（2001～2006年）、《[草莓100%](https://zh.wikipedia.org/wiki/草莓100% "wikilink")》（2002～2005年）、《[-{zh-hans:光速蒙面侠21;zh-tw:光速蒙面俠21;zh-hk:Eyeshield 21高速達陣}-](../Page/光速蒙面俠21.md "wikilink")》（2002～2009年）、《[棋魂](https://zh.wikipedia.org/wiki/棋魂 "wikilink")》（1999～2003年）、《[網球王子](https://zh.wikipedia.org/wiki/網球王子 "wikilink")》（1999～2008年）、《[死亡筆記](https://zh.wikipedia.org/wiki/死亡筆記 "wikilink")》（2004～2006年）輩出受歡迎作品。之後，《[銀魂](../Page/银魂.md "wikilink")》（2004年～2018年）、《[家庭教師HITMAN REBORN\!](https://zh.wikipedia.org/wiki/家庭教師HITMAN_REBORN! "wikilink")》（2004～2012年）、《[驅魔少年](../Page/驅魔少年.md "wikilink")》（2004年～）、《[魔人偵探腦嚙涅羅](https://zh.wikipedia.org/wiki/魔人偵探腦嚙涅羅 "wikilink")》（2005～2009年）亦受歡迎。
 
 這段時期，JUMP三大漫（海賊王、火影忍者、BLEACH）的觀念不斷提昇。然而也不乏新漫畫成為JUMP的中軸，如《[出包王女](../Page/出包王女.md "wikilink")》（2006～）、《[SKET DANCE](../Page/SKET_DANCE.md "wikilink")》（2007～2013年）、《[妖怪少爺](../Page/妖怪少爺.md "wikilink")》（2008～2012年）、《[美食獵人](https://zh.wikipedia.org/wiki/美食獵人 "wikilink")》（2008～2016年）、《[爆漫王。](https://zh.wikipedia.org/wiki/爆漫王。 "wikilink")》（2008～2012年）。及後，也有《美食獵人》成為JUMP新三大的說法，但很快就被除名了。
 
@@ -203,14 +203,6 @@ JUMP多部知名大作（[暗殺教室](https://zh.wikipedia.org/wiki/暗殺教�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/最後的西遊記" title="wikilink">最後的西遊記</a></p></td>
-<td></td>
-<td></td>
-<td><p>－</p></td>
-<td><p>2019年14號</p></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/梳扎頭髮的神緒結衣" title="wikilink">梳扎頭髮的神緒結衣</a></p></td>
 <td></td>
 <td><p><a href="../Page/椎橋寬.md" title="wikilink">椎橋寬</a></p></td>
@@ -218,7 +210,7 @@ JUMP多部知名大作（[暗殺教室](https://zh.wikipedia.org/wiki/暗殺教�
 <td><p>2019年15號</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/SAMURAI8～機侍_八丸傳" title="wikilink">SAMURAI8～機侍 八丸傳</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/大久保彰" title="wikilink">大久保彰</a></p></td>
@@ -226,7 +218,7 @@ JUMP多部知名大作（[暗殺教室](https://zh.wikipedia.org/wiki/暗殺教�
 <td><p>2019年24號</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/雙心的太星" title="wikilink">雙心的太星</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/福田健太郎" title="wikilink">福田健太郎</a></p></td>
@@ -234,7 +226,7 @@ JUMP多部知名大作（[暗殺教室](https://zh.wikipedia.org/wiki/暗殺教�
 <td><p>2019年25號</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/Beast_Children" title="wikilink">Beast Children</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/寺坂研人" title="wikilink">寺坂研人</a></p></td>
@@ -242,12 +234,28 @@ JUMP多部知名大作（[暗殺教室](https://zh.wikipedia.org/wiki/暗殺教�
 <td><p>2019年26號</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/東京忍者小隊" title="wikilink">東京忍者小隊</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/松浦健人" title="wikilink">松浦健人</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/田中勇輝" title="wikilink">田中勇輝</a></p></td>
 <td><p>2019年27號</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/夜櫻家的大作戰" title="wikilink">夜櫻家的大作戰</a></p></td>
+<td></td>
+<td></td>
+<td><p>－</p></td>
+<td><p>2019年39號</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/御靈保全公司" title="wikilink">御靈保全公司</a></p></td>
+<td></td>
+<td></td>
+<td><p>－</p></td>
+<td><p>2019年40號</p></td>
 <td></td>
 </tr>
 </tbody>

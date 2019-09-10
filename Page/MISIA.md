@@ -1,10 +1,10 @@
-（2002年 - 2007年）{{→}}[BMG JAPAN](https://zh.wikipedia.org/wiki/BMG_JAPAN "wikilink")（2007年 - 2008年）{{→}}（2009年 - 至今） |Associated_acts = |URL =  |Current_members = |Past_members = }}
+（2002年 - 2007年）{{→}}[BMG JAPAN](https://zh.wikipedia.org/wiki/BMG_JAPAN "wikilink")（2007年 - 2008年）{{→}}（2009年 - 至今） |Associated_acts = |URL =  }}
 
-**米希亞**（；）是日本女性歌手、作曲家，出生於[長崎縣](https://zh.wikipedia.org/wiki/長崎縣 "wikilink")[對馬市](../Page/對馬市.md "wikilink")，所屬經紀公司為，所屬唱片公司為[日本索尼音乐旗下品牌](../Page/日本索尼音樂娛樂.md "wikilink")。[生物多样性公约签署国第](../Page/生物多樣性公約.md "wikilink")10次会议形象大使。
+**米希亞**（；）是[日本](../Page/日本.md "wikilink")女性歌手、作曲家，出生於[長崎縣](https://zh.wikipedia.org/wiki/長崎縣 "wikilink")[對馬市](../Page/對馬市.md "wikilink")，所屬經紀公司為，所屬唱片公司為[日本索尼音乐旗下品牌](../Page/日本索尼音樂娛樂.md "wikilink")。[生物多样性公约签署国第](../Page/生物多樣性公約.md "wikilink")10次会议形象大使。
 
 ## 概要
 
-1978年7月7日米希亞出身于日本长崎，受到母亲喜爱美国流行音乐、父亲喜爱[爵士乐](../Page/爵士乐.md "wikilink")的影响，11岁时决心当歌手并立志一定要在20岁以前出道。15岁时，被电影[天使唱情歌2中女歌手](https://zh.wikipedia.org/wiki/天使唱情歌2 "wikilink")[Lauren Hill所唱的歌曲](https://zh.wikipedia.org/wiki/Lauren_Hill "wikilink")[His Eye Is On The Sparrow所震撼](https://zh.wikipedia.org/wiki/His_Eye_Is_On_The_Sparrow "wikilink")。高中时的米希亞参加过许许多多的选秀会，但纷纷落选。直到高中时代17岁时向黑人声乐家学习发声训练后，不仅潜力被發掘，且歌唱功力更大幅进展。MISIA在小学时已渴望成为一名歌手，可惜一直没有机会。直至於1997年5月在家乡[福冈参加试演会](../Page/福冈县.md "wikilink")，她天使般的声线引起了各方注意，结识了BMG FUNHOUSE JAPAN A\&R的工作人员，并深受肯定。独具慧眼的唱片公司制作人立刻被米希亞所吸引，认为她是日本少数能将黑人R\&B音乐诠释得这么好的人才，立即将她签下，邀请她去[东京](../Page/东京.md "wikilink")发展，也为她的音乐之路开启了平坦大道。可唱出超過三個八度音，曾演唱經典[海豚音歌曲](https://zh.wikipedia.org/wiki/海豚音 "wikilink")《LOVING YOU》。
+1978年7月7日，米希亞出身于日本长崎，受到母亲喜爱美国流行音乐、父亲喜爱[爵士乐](../Page/爵士乐.md "wikilink")的影响，11岁时决心当歌手并立志一定要在20岁以前出道。15岁时，被电影[天使唱情歌2中女歌手](https://zh.wikipedia.org/wiki/天使唱情歌2 "wikilink")[Lauren Hill所唱的歌曲](https://zh.wikipedia.org/wiki/Lauren_Hill "wikilink")[His Eye Is On The Sparrow所震撼](https://zh.wikipedia.org/wiki/His_Eye_Is_On_The_Sparrow "wikilink")。高中时的米希亞参加过许许多多的选秀会，但纷纷落选。直到高中时代17岁时向黑人声乐家学习发声训练后，不仅潜力被發掘，且歌唱功力更大幅进展。MISIA在小学时已渴望成为一名歌手，可惜一直没有机会。直至於1997年5月在家乡[福冈参加试演会](../Page/福冈县.md "wikilink")，她天使般的声线引起了各方注意，结识了BMG FUNHOUSE JAPAN A\&R的工作人员，并深受肯定。独具慧眼的唱片公司制作人立刻被米希亞所吸引，认为她是日本少数能将黑人R\&B音乐诠释得这么好的人才，立即将她签下，邀请她去[东京](../Page/东京.md "wikilink")发展，也为她的音乐之路开启了平坦大道。可唱出超過三個八度音，曾演唱經典[海豚音歌曲](https://zh.wikipedia.org/wiki/海豚音 "wikilink")《LOVING YOU》。
 
 年幼时的MISIA在长崎县对马度过，高中毕业于[福冈県立香住丘高等学校](https://zh.wikipedia.org/wiki/福冈県立香住丘高等学校 "wikilink")，在这所学校开始接触黑人[灵魂乐](https://zh.wikipedia.org/wiki/灵魂乐 "wikilink")。MISIA以丰厚的音乐实力，以及不同于日本一般歌手的尖细唱腔，她浑然天成宛如黑人灵魂歌手的嗓子，将歌曲的情感作百分之两百爆发释放。经由制作人的潜能激发，将MISIA宽广的音域、深厚的[肺活量以及性感的声音做一个完美的结合](https://zh.wikipedia.org/wiki/肺活量 "wikilink")，让MISIA用日文唱出黑人[R\&B的感觉](https://zh.wikipedia.org/wiki/R&B "wikilink")，于是纯日本血统的MISIA在日本造成相当大的刺激与震撼。 实力潜力备受肯定的MISIA，从第一张专辑发行，就开始在[武道馆利用现场演唱的惊人实力与观众产生精采互动](../Page/日本武道館.md "wikilink")，而营造出“要听现场，就听MISIA”的绝对魅力。这股不断累积的能量，一直到99年的“MISIA 1999”日本全国巡回演唱会时，正式爆发。不但架构出独特的MISIA式令人炫目的表演，经由场场爆满的现场磨练，更让MISIA的现场实力达到淋漓尽致的境界。她的出现终结了小室哲哉家族独霸乐坛局面，让整个流行音乐大转向，R\&B成了主流。為了增加曝光率，米希亞雖然願意演唱[廣告](../Page/廣告.md "wikilink")歌和[電視](https://zh.wikipedia.org/wiki/電視 "wikilink")[連續劇的主題曲](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，不過她堅拒亮相於一切其他的宣傳項目，如電視音樂節目。但这一惯例在2012年被打破，在[非洲](../Page/非洲.md "wikilink")做公益活动的MISIA终于参演該年底舉行的[第63回NHK紅白歌合戰](../Page/第63回NHK紅白歌合戰.md "wikilink")，并作为红组特殊嘉宾身份从非洲[纳米比亚共和国的](https://zh.wikipedia.org/wiki/纳米比亚共和国 "wikilink")[纳米布沙漠进行现场连线转播](https://zh.wikipedia.org/wiki/纳米布沙漠 "wikilink")。
 
@@ -36,13 +36,13 @@
 
 ## 演唱会特色
 
-**<big>MISIA在日本国内举行之大型巡回演唱会，主要可分为以下几类。</big>**
+MISIA在日本国内举行之大型巡回演唱会，主要可分为以下几类。
 
 ### 冬季巡回演唱会
 
-　　一是大多集中于每年11月至翌年1月份的巡回演唱会，其特色为华丽炫目的舞台效果，每年皆订出不同主题，设计出精密复杂的舞台装置及服装造型。例如2003年KISS IN THE SKY巡回演唱会，以大型折叠飞机机翼呼应其主题。2004年MARS & ROSES则以火红色及太空盔甲风格服装衬托出"火星"和"玫瑰"情境。INTO THE LIGHT则已成为其演唱会经典招牌歌曲，透过由下而上射向观众的强力灯光，以及喷出超过10米高的亮面彩带将演唱会气氛带到最高潮。 通常冬季音乐会的名称为“THE TOUR OF MISIA (年份) (副标题)”，副标题通常为当年发行的专辑名称。米希亚从1999年开始便进行这样子的冬季巡回演唱会至今，唯有2006年没有举行。另外赞助厂商自2001年起由日本宽带供应商[OCN所赞助](https://zh.wikipedia.org/wiki/OCN "wikilink")。
+一是大多集中于每年11月至翌年1月份的巡回演唱会，其特色为华丽炫目的舞台效果，每年皆订出不同主题，设计出精密复杂的舞台装置及服装造型。例如2003年KISS IN THE SKY巡回演唱会，以大型折叠飞机机翼呼应其主题。2004年MARS & ROSES则以火红色及太空盔甲风格服装衬托出"火星"和"玫瑰"情境。INTO THE LIGHT则已成为其演唱会经典招牌歌曲，透过由下而上射向观众的强力灯光，以及喷出超过10米高的亮面彩带将演唱会气氛带到最高潮。 通常冬季音乐会的名称为“THE TOUR OF MISIA (年份) (副标题)”，副标题通常为当年发行的专辑名称。米希亚从1999年开始便进行这样子的冬季巡回演唱会至今，唯有2006年没有举行。另外赞助厂商自2001年起由日本宽带供应商[OCN所赞助](https://zh.wikipedia.org/wiki/OCN "wikilink")。
 
-**目前举行过的冬季巡回演唱会有**
+目前举行过的冬季巡回演唱会有
 
   -
     THE TOUR OF MISIA 1999
@@ -62,7 +62,7 @@
 
 其次是不定期举行的星空演唱会，时间是每年6月至8月份。特色为使用不插电的乐器在场地较小的音乐厅或者是户外举办，虽然在舞台效果方面略逊于冬季巡回演唱会，但呼应日本夏日祭典气氛，以浓厚的音乐性，营造出浪漫星空的情调，每场依旧吸引爆满的观众。每次的星空音乐会皆有不同主题，例如2003年举办的星空音乐会II是以情歌为主，2006年举办的星空音乐会III以音乐的动感为主题，2007年夏季的星空音乐会IV的副标题为CLASSICS，以非洲风格加上弦乐器为主奏的主题。
 
-**目前举行过的星空现场巡回演唱会有**
+目前举行过的星空现场巡回演唱会有
 
   -
     MISIA 星空のライブ in 河口湖(会员限定)
@@ -81,7 +81,7 @@
 
 于2012年夏季发起的一夜会员限定演唱会，在富士山山脚下的河口湖举行。演唱会的特点是舞台由烛光包围，将"爱与和平"的主题与MISIA的歌声相融。2013年同时间段再次发起了三场该系列演唱会，并计划于2014年挪阵至香港举办。
 
-**目前举行过的Misia Candle Night有**
+目前举行过的Misia Candle Night有
 
 :\* 2012 Misia Candle Night
 
@@ -97,12 +97,12 @@
 
 ### 海外演唱会
 
-**MISIA ASIA LIVE 2007 以心伝心(米希亚心电感应演唱会)**
+MISIA ASIA LIVE 2007 以心伝心(米希亚心电感应演唱会)'
 
   -
     2007.09.29 台灣 [台北县立新庄体育馆](../Page/新莊體育館.md "wikilink")（首次海外公演）
 
-**THE TOUR OF MISIA DISCOTHEQUE ASIA(米希亚舞彩缤纷亚洲巡回演唱会)**
+THE TOUR OF MISIA DISCOTHEQUE ASIA(米希亚舞彩缤纷亚洲巡回演唱会)
 
   -
     2008.08.30 台北 [南港展覧馆](https://zh.wikipedia.org/wiki/台北世界貿易中心南港展覽館 "wikilink")
@@ -111,20 +111,20 @@
     2008.10.04 香港 [亚洲国际博览馆](https://zh.wikipedia.org/wiki/亚洲国际博览馆 "wikilink")
     2008.10.25 上海 [闸北体育场](../Page/闸北体育场.md "wikilink")
 
-**MISIA ENCORE 星空 LIVE 2010**
+MISIA ENCORE 星空 LIVE 2010
 
   -
     2010.11.17 香港 [九龙湾国际展贸中心](../Page/九龍灣國際展貿中心.md "wikilink")3楼 汇星
     2010.11.20 台灣 台北國際會議中心
 
-**MISIA 星空のライヴⅦ-15th Celebration-**
+MISIA 星空のライヴⅦ-15th Celebration-
 
   -
     2013.06.22 香港 亚洲国际博览馆
     2013.06.29 台灣 台北國際會議中心
     2013.07.07 夏威夷 Neal S. Blaisdell Concert Hall
 
-'''20th Anniversary - MISIA 星空のライヴX - Life is going on and on '''
+20th Anniversary - MISIA 星空のライヴX - Life is going on and on
 
   -
     2018.06.17 台灣 台北國際會議中心

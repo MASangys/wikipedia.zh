@@ -1032,6 +1032,12 @@ now寬頻電視在香港收費電視中開了很多先河，以互動功能為�
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
+<td style="text-align: center;"><p>2019年10月1日</p></td>
+<td style="text-align: center;"><p>100</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/now香港台" title="wikilink">now香港台</a></p></td>
+<td style="text-align: center;"><p>now香港台停播</p></td>
+</tr>
+<tr class="even">
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
@@ -2684,11 +2690,19 @@ Fashion First（532頻道）啟播，並以標清16:9制式傳送。
 
 <!-- end list -->
 
-  - 2019年8月1日，[中國新華電視中文台](https://zh.wikipedia.org/wiki/中國新華新聞電視網中文台 "wikilink")（369頻道）及[中國新華電視英文台](https://zh.wikipedia.org/wiki/中國新華新聞電視網英語電視台 "wikilink")（370頻道）停播，同日，[now香港台](https://zh.wikipedia.org/wiki/now香港台 "wikilink")（100頻道）改為預覽[Asian Food Channel](https://zh.wikipedia.org/wiki/w:en:Asian_Food_Channel "wikilink")（527頻道）直至8月30日。
+  - 2019年8月1日，[中國新華電視中文台](https://zh.wikipedia.org/wiki/中國新華新聞電視網中文台 "wikilink")（369頻道）及[中國新華電視英文台](https://zh.wikipedia.org/wiki/中國新華新聞電視網英語電視台 "wikilink")（370頻道）停播，同日，[now香港台](https://zh.wikipedia.org/wiki/now香港台 "wikilink")（100頻道）改為預覽[Asian Food Channel](https://zh.wikipedia.org/wiki/w:en:Asian_Food_Channel "wikilink")（527頻道）直至8月31日。
 
 <!-- end list -->
 
-  - 2019年8月，[Now Sports 4K](https://zh.wikipedia.org/wiki/Now_Sports_4K "wikilink")（611頻道）啟播，同日Now Sports系列頻道和Now Golf更換台徽。650頻道因應beIN SPORTS取得[2019年世界盃橄欖球賽播映權](https://zh.wikipedia.org/wiki/2019年世界盃橄欖球賽 "wikilink")，頻道名稱由Now Sports 650更名為beIN SPORTS Rugby。680頻道名稱由Now Sports 680更名為Now Sports Plus。681頻道名稱繼續維持Now Sports 681。
+  - 2019年8月，[Now Sports 4K](https://zh.wikipedia.org/wiki/Now_Sports_4K "wikilink")（611頻道）啟播，同日Now Sports系列頻道和Now Golf更換台徽。650頻道因應beIN SPORTS取得[2019年世界盃橄欖球賽播映權](https://zh.wikipedia.org/wiki/2019年世界盃橄欖球賽 "wikilink")，頻道名稱由Now Sports 650更名為beIN SPORTS Rugby。680頻道名稱由Now Sports 680更名為Now Sports Plus。
+
+<!-- end list -->
+
+  - 2019年9月1日，[now香港台](https://zh.wikipedia.org/wiki/now香港台 "wikilink")（100頻道）改為預覽[tvN](https://zh.wikipedia.org/wiki/tvN_Asia "wikilink")（155頻道）直至9月30日。
+
+<!-- end list -->
+
+  - 2019年10月1日，[now香港台](https://zh.wikipedia.org/wiki/now香港台 "wikilink")（100頻道）停播。
 
 #### 停播[無綫網絡電視頻道組合](https://zh.wikipedia.org/wiki/無綫網絡電視 "wikilink")
 

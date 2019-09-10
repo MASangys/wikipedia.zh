@@ -1,4 +1,4 @@
-**Beyond**是1983年成立的香港殿堂級搖滾樂隊，早年被視為地下樂隊，1987年加入香港主流樂壇，是[華人樂壇上最具代表性的搖滾樂隊之一](https://zh.wikipedia.org/wiki/華人 "wikilink")，在華語樂壇的地位與日本樂壇的傳奇搖滾樂隊[X Japan相同](../Page/X_Japan.md "wikilink")。 樂隊自成立以來一直堅持本地原創及積極採用[粵語歌詞取代當時香港以](https://zh.wikipedia.org/wiki/粵語 "wikilink")[英語為主流的搖滾樂](https://zh.wikipedia.org/wiki/英語 "wikilink")，將在香港被視為「地下音樂」的[重金属搖滾樂帶到主流樂壇](https://zh.wikipedia.org/wiki/重金屬音樂 "wikilink")，並通过重新包装使其普及。樂隊無論在作曲、填詞、編曲、演奏及監製等，大部分均由各成員包辦，而作品內容多以寫實為主，當中包括：樂隊成員對未來的憧憬和盼望、表達追求理想與現實世界之間的矛盾、反映社會狀況及諷刺時弊、宣揚和平與愛，還有各成員對世界周邊事情的所見所感等。 2004年末，樂隊宣佈解散，並於2005年舉行《Beyond The Story Live 2005》告別世界巡迴音樂會，之後各成員各自繼續發展自己的音樂事業。
+**Beyond**是1983年成立的香港搖滾樂隊，早年被視為地下樂隊，1987年加入香港主流樂壇，是[華人樂壇上最具代表性的搖滾樂隊之一](https://zh.wikipedia.org/wiki/華人 "wikilink")。 樂隊自成立以來一直堅持本地原創及積極採用[粵語歌詞取代當時香港以](https://zh.wikipedia.org/wiki/粵語 "wikilink")[英語為主流的搖滾樂](https://zh.wikipedia.org/wiki/英語 "wikilink")，將在香港被視為「地下音樂」的[重金属搖滾樂帶到主流樂壇](https://zh.wikipedia.org/wiki/重金屬音樂 "wikilink")，並通过重新包装使其普及。樂隊無論在作曲、填詞、編曲、演奏及監製等，大部分均由各成員包辦，而作品內容多以寫實為主，當中包括：樂隊成員對未來的憧憬和盼望、表達追求理想與現實世界之間的矛盾、反映社會狀況及諷刺時弊、宣揚和平與愛，還有各成員對世界周邊事情的所見所感等。 2004年末，樂隊宣佈解散，並於2005年舉行《Beyond The Story Live 2005》告別世界巡迴音樂會，之後各成員各自繼續發展自己的音樂事業。
 
 ## Beyond名稱由來
 
@@ -10,7 +10,7 @@
 
 樂隊早期經過幾次人事變動，成員人數曾經多達五名，以四人時期最廣為人熟悉，當中包括樂隊主音、節奏結他手及創作重心兼靈魂人物[黃家駒](../Page/黃家駒.md "wikilink")、主音結他手[黃貫中](../Page/黃貫中.md "wikilink")、低音結他手[黃家強](../Page/黃家強.md "wikilink")及鼓手[葉世榮](../Page/葉世榮.md "wikilink")。
 
-1985年，[黃貫中](../Page/黃貫中.md "wikilink")加入後，由[黃家駒](../Page/黃家駒.md "wikilink")、[黃貫中](../Page/黃貫中.md "wikilink")、[黃家強](../Page/黃家強.md "wikilink")及[葉世榮](../Page/葉世榮.md "wikilink")四人組成的Beyond成形。1986年，鍵琴手及結他手[劉志遠加入成為第五名隊員](https://zh.wikipedia.org/wiki/劉志遠_\(香港音樂人\) "wikilink")。1988年，劉退出後，樂隊一直維持在四人狀態，亦是樂隊的全盛時期。1993年，年僅31歲的黃家駒於[日本](../Page/日本.md "wikilink")拍攝遊戲節目時發生意外，昏迷6日後離世，此後，樂隊以三人組合繼續發展。
+1985年，[黃貫中](../Page/黃貫中.md "wikilink")加入後，由[黃家駒](../Page/黃家駒.md "wikilink")、[黃貫中](../Page/黃貫中.md "wikilink")、[黃家強](../Page/黃家強.md "wikilink")及[葉世榮](../Page/葉世榮.md "wikilink")四人組成的Beyond成形。1986年，剛從[浮世繪解散的成員](../Page/浮世繪_\(樂隊\).md "wikilink")，鍵琴手及結他手[劉志遠加盟成為第五名隊員](https://zh.wikipedia.org/wiki/劉志遠_\(香港音樂人\) "wikilink")。1988年4月30日，劉退出後，樂隊一直維持在四人狀態，亦是樂隊的「光輝歲月」。1993年，年僅31歲的黃家駒於[日本](../Page/日本.md "wikilink")拍攝遊戲節目時發生意外，昏迷6日後離世，此後，樂隊以三人組合繼續發展。
 
 ### 樂隊成員
 
@@ -407,7 +407,7 @@ Beyond結束了在台灣的宣傳期，赴日本去創作新專輯為著在日�
 
 收錄於《樂與怒》專輯的歌曲《海闊天空》，成為了Beyond最後一首由黃家駒主唱的派台作品，亦是黃家駒客死異鄉以後的絕響；而其他黃家駒遺作有《情人》、《為了你，為了我》、《早班火車》等作品。 Beyond亦憑《海闊天空》一曲奪得當年的十大中文金曲及叱吒樂壇流行榜 —— “叱吒樂壇我最喜愛的本地創作歌曲大獎”。
 
-Beyond於日本的兩年期間，共計推出兩張日語大碟《超越》、《This Is Love 1》，以及三張日語細碟《The Wall～長城～》、《リソラバ～International～》、《くちびるを奪いたいc/w 遙かなる夢に～Far away～》。
+Beyond於日本的兩年期間，共計推出兩張日語大碟《超越》、《This Is Love 1》，以及三張日語[細碟](https://zh.wikipedia.org/wiki/細碟 "wikilink")《The Wall～長城～》、《リソラバ～International～》、《くちびるを奪いたいc/w 遙かなる夢に～Far away～》。
 
 ### 1994–2003：三人時期及個人發展
 
@@ -467,6 +467,8 @@ Beyond经过漫长的时间后，终于推出了大碟《[请将手放开](https
 
 ## 影響
 
+在[華語樂壇的地位與日本樂壇的傳奇搖滾樂隊](../Page/華語流行音樂.md "wikilink")[X Japan等同](../Page/X_Japan.md "wikilink")。
+
 由[香港電台](../Page/香港電台.md "wikilink")製作的《不死傳奇——黃家駒》紀念特輯中，記述了Beyond的音樂90年代在中國內地、[大中華](../Page/大中華.md "wikilink")地區的流行情況。缺乏開拓市場的宣傳活動、電台媒體播放或[互聯網流傳下](https://zh.wikipedia.org/wiki/互聯網 "wikilink")，內地Beyond歌迷單靠以複製[卡式錄音帶的方式將Beyond的音樂在民間流傳](https://zh.wikipedia.org/wiki/卡式錄音帶 "wikilink")，縱使Beyond的歌曲普遍以[粵語而非](https://zh.wikipedia.org/wiki/粵語 "wikilink")[國語歌唱](https://zh.wikipedia.org/wiki/國語 "wikilink")，而Beyond的音樂卻深深打進了正藉[改革開放時期的年青人心扇](https://zh.wikipedia.org/wiki/改革開放 "wikilink")。這彰顯Beyond的音樂感染力無遠弗屆，亦應驗了「[音樂無疆界](https://zh.wikipedia.org/wiki/音樂 "wikilink")，是不受到語言或地域限制的藝術」，有受訪者甚至稱呼黃家駒為[藝術家](https://zh.wikipedia.org/wiki/藝術家 "wikilink")，並非單純的偶像。
 
 Beyond的音樂題材廣泛且影響力深遠，當中的經典作品如社會國家題材的《大地》、《[長城](../Page/長城_\(Beyond\).md "wikilink")》；亦有宣揚和平大愛精神的[世界觀如](https://zh.wikipedia.org/wiki/世界觀 "wikilink")《Amani》、《[光輝歲月](../Page/命運派對.md "wikilink")》，至今仍歷久不衰，被不同媒體或活動中採用播放。
@@ -483,7 +485,7 @@ Beyond崇尚理想和自由的歌曲，如《[海闊天空](../Page/海闊天空
 
 2017年，有[香港人](../Page/香港人.md "wikilink")在足球賽事前播放國歌時喝倒采\[22\]，指出《海闊天空》在「雨傘運動」時曾試過萬人大合唱，產生共鳴，認為《[義勇軍進行曲](https://zh.wikipedia.org/wiki/義勇軍進行曲 "wikilink")》不能代表香港，建議應以《海闊天空》或另一位歌手[羅文](../Page/羅文.md "wikilink")的《[獅子山下](../Page/獅子山下_\(歌曲\).md "wikilink")》代替，反映《海闊天空》在已被大眾推崇為「[香港精神](../Page/香港核心價值.md "wikilink")」的代表曲之一。
 
-同年，有關搖滾夢想主題的[中國電影](https://zh.wikipedia.org/wiki/中國電影 "wikilink")《[縫紉機樂隊](https://zh.wikipedia.org/wiki/縫紉機樂隊 "wikilink")》在最後一場戲中找來了千人現場合唱歌曲《[不再猶豫](../Page/猶豫.md "wikilink")》來致敬，葉世榮和黃貫中亦有客串參與。
+同年，有關搖滾夢想主題的[中國電影](https://zh.wikipedia.org/wiki/中國電影 "wikilink")《[縫紉機樂隊](https://zh.wikipedia.org/wiki/縫紉機樂隊 "wikilink")》在最後一場戲中找來了千人現場合唱歌曲《[不再猶豫](../Page/猶豫.md "wikilink")》來致敬，葉世榮和黃貫中亦有[客串參與](https://zh.wikipedia.org/wiki/客串 "wikilink")。
 
 ## 音樂作品
 

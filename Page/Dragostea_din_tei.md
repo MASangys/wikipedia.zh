@@ -24,7 +24,7 @@ Dragostea din tei於歐陸發行同年，[羅馬尼亞](../Page/羅馬尼亞.md 
 
 ## NUMA NUMA 現象
 
-[NUMA NUMA是以](../Page/Dragostea_din_tei.md "wikilink")「Dragostea din tei」為基礎的網路流行文化。由一位美國青少年Gary Brolsma所創造。他在電腦攝影機鏡頭前跳了一段舞蹈，配上「Dragostea din tei」的音樂後，這段影像很快地在網路上散佈開來，並受到了[CNN](https://zh.wikipedia.org/wiki/CNN "wikilink")、[紐約時報的注意與評論](https://zh.wikipedia.org/wiki/紐約時報 "wikilink")，也因此出現許多模仿者。許多相關影像仍可在[Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink")\[6\]見到。
+[NUMA NUMA是以](../Page/Dragostea_din_tei.md "wikilink")「Dragostea din tei」為基礎的網路流行文化。由一位美國青少年Gary Brolsma所創造。他在電腦攝影機鏡頭前跳了一段舞蹈，配上「Dragostea din tei」的音樂後，這段影像很快地在網路上散佈開來，並受到了[CNN](https://zh.wikipedia.org/wiki/CNN "wikilink")、[紐約時報的注意與評論](https://zh.wikipedia.org/wiki/紐約時報 "wikilink")，也因此出現許多模仿者。許多相關影像仍可在[YouTube](../Page/YouTube.md "wikilink")\[6\]見到。
 
 ## 資料來源
 

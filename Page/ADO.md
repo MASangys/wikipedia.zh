@@ -352,7 +352,7 @@ name = myrecordset(0)
 
 ## ADOX
 
-ADO包含的对象能够创建、维护、删除给定数据源的记录。但是，创建与管理数据库及其所包含的对象，ADO就力有不逮了。为此，**ADOX**，即Microsoft ADO Ext. for DDL and Security，提供了这方面的功能，主要包括Data Definition Language(DDL)对象及安全管理。此外，[Jet数据库引擎的许多功能都是ADO与ADOX不具备的](https://zh.wikipedia.org/wiki/Microsoft_Jet_Database_Engine "wikilink")；**JRO**，即Microsoft Jet and Replication Objects 2.5 Library提供了这方面的补充功能。
+ADO包含的对象能够创建、维护、删除给定数据源的记录。但是，创建与管理数据库及其所包含的对象，ADO就力有不逮了。为此，**ADOX**，即Microsoft ADO Ext. for DDL and Security，提供了这方面的功能，主要包括Data Definition Language(DDL)对象及安全管理。此外，[Jet数据库引擎的许多功能都是ADO与ADOX不具备的](../Page/Microsoft_Jet_Database_Engine.md "wikilink")；**JRO**，即Microsoft Jet and Replication Objects 2.5 Library提供了这方面的补充功能。
 
 | 功能                                                                | [DAO](https://zh.wikipedia.org/wiki/DAO "wikilink") | ADO | ADOX | JRO(MDB's Only) |
 | ----------------------------------------------------------------- | --------------------------------------------------- | --- | ---- | --------------- |
