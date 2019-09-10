@@ -1,12 +1,12 @@
 [Immaterial_and_Missing_Power.png](https://zh.wikipedia.org/wiki/File:Immaterial_and_Missing_Power.png "fig:Immaterial_and_Missing_Power.png")
 
-为[上海愛麗絲幻樂團与](https://zh.wikipedia.org/wiki/上海愛麗絲幻樂團 "wikilink")[黄昏边境共同制作的](https://zh.wikipedia.org/wiki/黄昏边境 "wikilink")[同人](https://zh.wikipedia.org/wiki/同人游戏 "wikilink")[格斗游戏](https://zh.wikipedia.org/wiki/格斗游戏 "wikilink")，为[东方Project系列的](https://zh.wikipedia.org/wiki/东方Project "wikilink")7.5作\[1\]。
+为[上海愛麗絲幻樂團](../Page/上海愛麗絲幻樂團.md "wikilink")与[黄昏边境共同制作的](https://zh.wikipedia.org/wiki/黄昏边境 "wikilink")[同人](https://zh.wikipedia.org/wiki/同人游戏 "wikilink")[格斗游戏](https://zh.wikipedia.org/wiki/格斗游戏 "wikilink")，为[东方Project系列的](https://zh.wikipedia.org/wiki/东方Project "wikilink")7.5作\[1\]。
 
 ## 概要
 
 本作于2004年4月2日宣布制作，在[第一届博丽神社例大祭](https://zh.wikipedia.org/wiki/東方Project#博丽神社例大祭 "wikilink")（2004年4月18日）以[CD-R盘发布表现测试版](https://zh.wikipedia.org/wiki/CD-R "wikilink")，[C66第三天](../Page/Comic_Market.md "wikilink")（2004年8月15日）发布体验版，最终于[C67第二天](../Page/Comic_Market.md "wikilink")（2004年12月30日）正式发售。
 
-本次为第一次和同人游戏开发组织[黄昏边境合作开发的第一部对战型](https://zh.wikipedia.org/wiki/黄昏边境 "wikilink")[格斗游戏](https://zh.wikipedia.org/wiki/格斗游戏 "wikilink")，由黄昏边境负责程序开发，[上海愛麗絲幻樂團](https://zh.wikipedia.org/wiki/上海愛麗絲幻樂團 "wikilink")（即[ZUN](../Page/ZUN.md "wikilink")一人）负责人物设定，场景设定，剧情和音乐设计。使用角色基于[妖妖夢和](https://zh.wikipedia.org/wiki/妖妖夢 "wikilink")[红魔乡再外加一名新角色](https://zh.wikipedia.org/wiki/红魔乡 "wikilink")，共10名角色登场（通过添加[补丁和特定的打开条件可多使用](https://zh.wikipedia.org/wiki/修補程式 "wikilink")1名角色）。
+本次为第一次和同人游戏开发组织[黄昏边境合作开发的第一部对战型](https://zh.wikipedia.org/wiki/黄昏边境 "wikilink")[格斗游戏](https://zh.wikipedia.org/wiki/格斗游戏 "wikilink")，由黄昏边境负责程序开发，[上海愛麗絲幻樂團](../Page/上海愛麗絲幻樂團.md "wikilink")（即[ZUN](../Page/ZUN.md "wikilink")一人）负责人物设定，场景设定，剧情和音乐设计。使用角色基于[妖妖夢和](https://zh.wikipedia.org/wiki/妖妖夢 "wikilink")[红魔乡再外加一名新角色](https://zh.wikipedia.org/wiki/红魔乡 "wikilink")，共10名角色登场（通过添加[补丁和特定的打开条件可多使用](https://zh.wikipedia.org/wiki/修補程式 "wikilink")1名角色）。
 
 ## 故事
 

@@ -1,4 +1,4 @@
-[LINE_Friend_Store_in_Hysan_Place_201510.jpg](https://zh.wikipedia.org/wiki/File:LINE_Friend_Store_in_Hysan_Place_201510.jpg "fig:LINE_Friend_Store_in_Hysan_Place_201510.jpg")[希慎廣場](../Page/希慎廣場.md "wikilink")LINE Friend Store\]\] **-{LINE}-**（；[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")：連我、連加、連線、賴），是一個由[Naver集團旗下](../Page/Naver_\(公司\).md "wikilink")[LINE株式会社所開發的](../Page/LINE_\(公司\).md "wikilink")[即時通信軟體綜合平台](https://zh.wikipedia.org/wiki/即時通信軟體 "wikilink")\[1\]，於2011年6月發表。用戶間可以通過[互聯網在不額外增加費用情況下](https://zh.wikipedia.org/wiki/互聯網 "wikilink")，與其他用戶傳送信息及觀看直播，並可透過LINE使用[購物](../Page/購物.md "wikilink")、[行動支付](../Page/行動支付.md "wikilink")及獲取[新聞資訊等功能](https://zh.wikipedia.org/wiki/新聞 "wikilink")。\[2\]
+[LINE_Friend_Store_in_Hysan_Place_201510.jpg](https://zh.wikipedia.org/wiki/File:LINE_Friend_Store_in_Hysan_Place_201510.jpg "fig:LINE_Friend_Store_in_Hysan_Place_201510.jpg")[希慎廣場](../Page/希慎廣場.md "wikilink")LINE Friend Store\]\] **-{LINE}-**，是一個由[Naver集團旗下](../Page/Naver_\(公司\).md "wikilink")[LINE株式会社所開發的](../Page/LINE_\(公司\).md "wikilink")[即時通信軟體綜合平台](https://zh.wikipedia.org/wiki/即時通信軟體 "wikilink")\[1\]，於2011年6月發表。用戶間可以通過[互聯網在不額外增加費用情況下](https://zh.wikipedia.org/wiki/互聯網 "wikilink")，與其他用戶傳送信息及觀看直播，並可透過LINE使用[購物](../Page/購物.md "wikilink")、[行動支付](../Page/行動支付.md "wikilink")及獲取[新聞資訊等功能](https://zh.wikipedia.org/wiki/新聞 "wikilink")。\[2\]
 
 LINE服務性質相當於傳統電信商提供的[多媒體短訊或](https://zh.wikipedia.org/wiki/多媒體短訊 "wikilink")[簡訊](../Page/簡訊.md "wikilink")等服務或[即時通訊](../Page/即時通訊.md "wikilink")之演進，並進一步演化爲整合各項生活機能的平台。
 
@@ -6,11 +6,11 @@ LINE軟體中的吉祥物爲[LINE Friends](https://zh.wikipedia.org/wiki/LINE_Fr
 
 ## 歷史
 
-2011年6月，Naver創辦人[李海珍因](https://zh.wikipedia.org/wiki/李海珍 "wikilink")[311大地震導致無法即時聯絡家人的想法](../Page/2011年日本東北地方太平洋近海地震.md "wikilink")，而在[日本](../Page/日本.md "wikilink")推出了LINE即時通訊軟體，而其「讀取回條」功能，也是針對災難發生時，能第一時間確認人員安全而設計的。\[3\]\[4\]
+2011年6月，Naver創辦人[李海珍因](https://zh.wikipedia.org/wiki/李海珍 "wikilink")[311大地震導致無法即時聯絡家人的想法](../Page/2011年日本東北地方太平洋近海地震.md "wikilink")，而在[日本](../Page/日本.md "wikilink")推出LINE即時通訊軟體，而其「讀取回條」功能，也是針對災難發生時，能第一時間確認人員安全而設計的。\[3\]\[4\]
 
-2012年2月，首次於[臺灣](../Page/臺灣.md "wikilink")推出，並以[桂綸鎂](../Page/桂綸鎂.md "wikilink")為代言人\[5\]\[6\]\[7\]\[8\]\[9\]。同年3月，推出[Windows及](https://zh.wikipedia.org/wiki/Windows "wikilink")[Macintosh版本](https://zh.wikipedia.org/wiki/Macintosh "wikilink")\[10\]\[11\]，12月，發佈了「LINE」的中文版本「連我」，並首次於[中国大陸推出](https://zh.wikipedia.org/wiki/中国大陸 "wikilink")。\[12\]
+2012年2月，首次於[臺灣](../Page/臺灣.md "wikilink")推出，並以[桂綸鎂](../Page/桂綸鎂.md "wikilink")為代言人\[5\]\[6\]\[7\]\[8\]\[9\]。同年3月，推出[Windows及](https://zh.wikipedia.org/wiki/Windows "wikilink")[Macintosh版本](https://zh.wikipedia.org/wiki/Macintosh "wikilink")\[10\]\[11\]，12月，發佈「LINE」的中文版本「連我」，並首次於[中国大陸推出](https://zh.wikipedia.org/wiki/中国大陸 "wikilink")。\[12\]
 
-2013年4月1日，[NHN Japan公司更名為](https://zh.wikipedia.org/wiki/NHN_Japan "wikilink")“”，隨著[韓國母公司](https://zh.wikipedia.org/wiki/韓國 "wikilink")[NHN改組](https://zh.wikipedia.org/wiki/NHN "wikilink")，LINE業務納入為Naver Corporation旗下的子公司。5月16日，成立臺灣分公司「韓商連加股份有限公司」（LINE Taiwan，後成立臺灣連線股份有限公司，原連加股份有限公司撤銷登記）。5月10日，[蘋果公司要求在其服務](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")「[App Store](https://zh.wikipedia.org/wiki/App_Store "wikilink")」中上架的軟體須遵守其分潤規範，因此LINE於5月10日結束[iOS版的向好友贈送付費貼圖](https://zh.wikipedia.org/wiki/iOS "wikilink")、購買贈送貼圖專用的代幣的功能，但[Android](../Page/Android.md "wikilink")系統使用者仍可繼續使用該功能。\[13\]10月1日，LINE Web Store服務在臺灣上推出。\[14\]\[15\]
+2013年4月1日，[NHN Japan公司更名為](https://zh.wikipedia.org/wiki/NHN_Japan "wikilink")“”，隨著[韓國母公司](https://zh.wikipedia.org/wiki/韓國 "wikilink")[NHN改組](https://zh.wikipedia.org/wiki/NHN "wikilink")，LINE業務納入為Naver Corporation旗下的子公司。5月16日，成立臺灣分公司「韓商連加股份有限公司」（LINE Taiwan，後來成立臺灣連線股份有限公司，原連加股份有限公司撤銷登記）。5月10日，[蘋果公司要求在其服務](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")「[App Store](https://zh.wikipedia.org/wiki/App_Store "wikilink")」中上架的軟體須遵守其分潤規範，因此LINE於5月10日結束[iOS版的向好友贈送付費貼圖](https://zh.wikipedia.org/wiki/iOS "wikilink")、購買贈送貼圖專用的代幣的功能，但[Android](../Page/Android.md "wikilink")系統使用者仍可繼續使用該功能。\[13\]10月1日，LINE Web Store服務在臺灣上推出。\[14\]\[15\]
 
 2016年7月15日，有網友發現LINE推出的限時免費貼圖在臺灣無法下載\[16\]。
 

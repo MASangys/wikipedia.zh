@@ -147,11 +147,10 @@ V city商場有多個出入口均設有行人天橋接連附近商場或車站�
 
 ## 外部連結
 
-  - [V city](http://www.vcity.com.hk)
-
   -
   -
-[Category:屯門區商場](https://zh.wikipedia.org/wiki/Category:屯門區商場 "wikilink") [Category:屯門市中心](https://zh.wikipedia.org/wiki/Category:屯門市中心 "wikilink") [Category:新鴻基地產物業](https://zh.wikipedia.org/wiki/Category:新鴻基地產物業 "wikilink") [Category:屯門新墟](https://zh.wikipedia.org/wiki/Category:屯門新墟 "wikilink")
+  -
+[Category:2012年完工建築物](https://zh.wikipedia.org/wiki/Category:2012年完工建築物 "wikilink") [Category:屯門區商場](https://zh.wikipedia.org/wiki/Category:屯門區商場 "wikilink") [Category:屯門市中心](https://zh.wikipedia.org/wiki/Category:屯門市中心 "wikilink") [Category:新鴻基地產物業](https://zh.wikipedia.org/wiki/Category:新鴻基地產物業 "wikilink") [Category:屯門新墟](https://zh.wikipedia.org/wiki/Category:屯門新墟 "wikilink")
 
 1.
 2.

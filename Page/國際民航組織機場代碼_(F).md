@@ -483,7 +483,7 @@
   - **FVKB**-[卡里巴機場](https://zh.wikipedia.org/wiki/卡里巴機場 "wikilink")-[卡里巴](../Page/卡里巴.md "wikilink")
   - **FVMV**-[馬斯溫戈機場](https://zh.wikipedia.org/wiki/馬斯溫戈機場 "wikilink")-[馬斯溫戈](../Page/馬斯溫戈.md "wikilink")
   - **FVTL**-[桑希爾機場](https://zh.wikipedia.org/wiki/桑希爾機場 "wikilink")-[圭洛](https://zh.wikipedia.org/wiki/圭洛 "wikilink")
-  - **FVWN**-[萬蓋國家公園機場](https://zh.wikipedia.org/wiki/萬蓋國家公園機場 "wikilink")-[萬蓋](https://zh.wikipedia.org/wiki/萬蓋 "wikilink")([萬蓋國家公園](https://zh.wikipedia.org/wiki/萬蓋國家公園 "wikilink"))
+  - **FVWN**-[萬蓋國家公園機場](https://zh.wikipedia.org/wiki/萬蓋國家公園機場 "wikilink")-[萬蓋](https://zh.wikipedia.org/wiki/萬蓋 "wikilink")([萬蓋國家公園](../Page/萬蓋國家公園.md "wikilink"))
   - **FVWT**-[萬蓋鎮機場](https://zh.wikipedia.org/wiki/萬蓋鎮機場 "wikilink")-[萬蓋鎮](https://zh.wikipedia.org/wiki/萬蓋鎮 "wikilink")
 
 ## FW：[馬拉威](https://zh.wikipedia.org/wiki/馬拉威 "wikilink")

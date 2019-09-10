@@ -1,4 +1,4 @@
-《**Dota 2**》（中文名称：**刀塔**）是一款由[Valve开发免费的多人在线战斗竞技类游戏](https://zh.wikipedia.org/wiki/維爾福 "wikilink")。2011年Dota 2开始在Windows平台上进行测试，它的前身是[魔兽争霸III及扩展版本冰封王座中的一张自定义游戏地图](https://zh.wikipedia.org/wiki/魔兽争霸III "wikilink")。截至2019年6月，Dota 2支持Windows系统、MacOS系统及Linux系统。Dota 2是[Steam](../Page/Steam.md "wikilink")平台上活跃人数最多的游戏之一，最高在线人数超过120万。
+《**Dota 2**》（中文名称：**刀塔2**）是一款由[Valve开发免费的多人在线战斗竞技类游戏](https://zh.wikipedia.org/wiki/維爾福 "wikilink")。2011年Dota 2开始在Windows平台上进行测试，它的前身是[魔兽争霸III及扩展版本冰封王座中的一张自定义游戏地图](https://zh.wikipedia.org/wiki/魔兽争霸III "wikilink")。截至2019年6月，Dota 2支持Windows系统、MacOS系统及Linux系统。Dota 2是[Steam](../Page/Steam.md "wikilink")平台上活跃人数最多的游戏之一，最高在线人数超过120万。
 
 Dota 2的游戏比赛在两个队伍间进行，每个队伍有五名玩家，每个队伍都有一条优势路。每个队伍的游戏目标是摧毁对面要塞中的远古遗迹。每个玩家从一百多位能力风格技能迥异的英雄中选择一位进行操控。在比赛中，玩家在相互对抗的过程中为各自的英雄收集金钱、经验及道具。
 

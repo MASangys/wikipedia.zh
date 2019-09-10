@@ -8,7 +8,7 @@
 
 ## 系统概述
 
-诞生于1985年的**美能达AF**是最早的一个实用化[135规格](../Page/135底片.md "wikilink")[自动对焦](../Page/自动对焦.md "wikilink")单镜反光照相机系统，以机身内置的[相位检测传感器反馈](https://zh.wikipedia.org/wiki/相位 "wikilink")，利用机身马达驱动镜头对焦，来实现自动对焦功能。
+诞生于1985年的**美能达AF**是最早的一个实用化[135规格](../Page/135底片.md "wikilink")[自动对焦](../Page/自动对焦.md "wikilink")单镜反光照相机系统，以机身内置的[相位](../Page/相位.md "wikilink")检测传感器反馈，利用机身马达驱动镜头对焦，来实现自动对焦功能。
 
 美能达AF系统诞生之初基于三台[单镜头反射取景照相机](https://zh.wikipedia.org/wiki/单镜头反射取景照相机 "wikilink")，分别是5000，7000与9000。系统也包含了围绕此的一系列产品，如[自动对焦](../Page/自动对焦.md "wikilink")[镜头](https://zh.wikipedia.org/wiki/镜头 "wikilink")，[闪光灯](../Page/闪光灯.md "wikilink")，[卷片马达等等](https://zh.wikipedia.org/wiki/卷片马达 "wikilink")。在诞生之后的数年，更多的照相机及附件加入系统。第三方厂商也参与制造兼容的产品。
 

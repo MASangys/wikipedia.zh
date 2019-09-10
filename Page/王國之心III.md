@@ -8,7 +8,7 @@
 
 在2015年由[迪士尼举办的D](https://zh.wikipedia.org/wiki/迪士尼 "wikilink")23上，官方宣布《[超能陆战队](https://zh.wikipedia.org/wiki/超能陆战队 "wikilink")》（Big Hero 6）将首次在《王國之心III》中出场\[3\]。
 
-2017年則在D23 EXPO上宣布將會加入《[玩具總動員](https://zh.wikipedia.org/wiki/玩具總動員 "wikilink")》的世界\[4\]。
+2017年則在D23 EXPO上宣布將會加入《[玩具總動員](https://zh.wikipedia.org/wiki/玩具總動員 "wikilink")》的世界\[4\]。 另外，由於[野村哲也](../Page/野村哲也.md "wikilink")認為《[最終幻想系列](https://zh.wikipedia.org/wiki/最終幻想系列 "wikilink")》角色對賽亞諾特篇主線劇情的重要性下降，而且主人公不需要太多角色附助，所以《[最終幻想系列](https://zh.wikipedia.org/wiki/最終幻想系列 "wikilink")》的角色不會在本作中登場。
 
 ### 音樂
 

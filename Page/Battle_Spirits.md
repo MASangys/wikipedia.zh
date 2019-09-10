@@ -4,7 +4,7 @@
 
 ## 基本規則
 
-進行遊戲的雙方必須有各自的一副卡牌總數40張或以上的卡組。在對戰開始的時候雙方各有5點生命值、三個Core、一個Soul Core和四張手牌。 遊戲的目標是用手中的卡牌設法將對方的生命值降至0或以下，或迫使對手牌庫沒有牌可抽。 另外，如卡片效果與規則有衝突，會以卡片效果為主。
+進行遊戲的雙方必須有各自的一副卡牌總數40至60張的卡組。在對戰開始的時候雙方各有5點生命值、三個Core、一個Soul Core和四張手牌。 遊戲的目標是用手中的卡牌設法將對方的生命值降至0或以下，或迫使對手牌庫沒有牌可抽。 另外，如卡片效果與規則有衝突，會以卡片效果為主。
 
 ## 遊戲概述
 
@@ -212,6 +212,7 @@ Battle Spirits裡面有5種卡。這些卡都可以在遊戲從卡組抽牌所�
   - 《[最強銀河 究極ZERO Battle Spirits](https://zh.wikipedia.org/wiki/最強銀河_究極ZERO_Battle_Spirits "wikilink")》
   - 《[Battle Spirits 烈火魂](https://zh.wikipedia.org/wiki/Battle_Spirits_烈火魂 "wikilink")》
   - 《[Battle Spirits Double Drive](../Page/Battle_Spirits_Double_Drive.md "wikilink")》
+  - 《[Battle Spirits Saga Brave](https://zh.wikipedia.org/wiki/Battle_Spirits_Saga_Brave "wikilink")》
 
 ## 電子遊戲產品
 

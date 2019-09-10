@@ -27,16 +27,16 @@
 
   - [NHK綜合](../Page/NHK綜合頻道.md "wikilink")
       - [Shibuya Deep A](../Page/Shibuya_Deep_A.md "wikilink")（2007年2月9日－） - 不定期出演（深夜直播，18歳以上的成員出演。[SKE48](../Page/SKE48.md "wikilink")、[NMB48](../Page/NMB48.md "wikilink")亦有出演）
-      - [コロッケぱらだいす ごきげん歌謡笑劇団](https://zh.wikipedia.org/wiki/ごきげん歌謡笑劇団 "wikilink")（2012年4月14日 - ） - 每回替換1名（主要是[office48](https://zh.wikipedia.org/wiki/office48 "wikilink")、[堀製作所屬成員](https://zh.wikipedia.org/wiki/堀製作 "wikilink")）
-      - [AKB48 SHOW\!](../Page/AKB48_SHOW!.md "wikilink")（2013年10月5日 - ）
+      - [コロッケぱらだいす ごきげん歌謡笑劇団](https://zh.wikipedia.org/wiki/ごきげん歌謡笑劇団 "wikilink")（2012年4月14日 -僅2012年度 ） - 每回替換1名（主要是[office48](https://zh.wikipedia.org/wiki/office48 "wikilink")、[堀製作所屬成員](https://zh.wikipedia.org/wiki/堀製作 "wikilink")）
+      - [AKB48 SHOW\!](../Page/AKB48_SHOW!.md "wikilink")（2013年10月5日 - 2019年3月24日）
   - [NHK教育→NHK E頻道](../Page/NHK教育頻道.md "wikilink")
       - [R的法則](../Page/R的法則.md "wikilink")（2011年2月23日・3月30日 - ） - [多田愛佳](../Page/多田愛佳.md "wikilink")・[前田亞美](../Page/前田亞美.md "wikilink")・[佐藤すみれ](https://zh.wikipedia.org/wiki/佐藤すみれ "wikilink")\[1\]・[宮崎美穗](../Page/宮崎美穗.md "wikilink")\[2\]・[小森美果](../Page/小森美果.md "wikilink")\[3\]
   - [日本電視台](../Page/日本電視台.md "wikilink")（包括系列局制作）
       - [AKBINGO\!](https://zh.wikipedia.org/wiki/AKBINGO! "wikilink")（2008年10月1日－）：《[AKB0時59分！](../Page/AKB0時59分！.md "wikilink")》的後續節目
-      - [AKB和××\!](../Page/AKB和××!.md "wikilink")（2010年7月13日－；[讀賣電視台](../Page/讀賣電視台.md "wikilink")）
+      - [AKB和××\!](../Page/AKB和××!.md "wikilink")（2010年7月13日－2016年3月23日；[讀賣電視台](../Page/讀賣電視台.md "wikilink")）
   - [TBS電視台](../Page/TBS電視台.md "wikilink")
-      - [有吉AKB共和国](https://zh.wikipedia.org/wiki/有吉AKB共和国 "wikilink")（2010年3月29日 - 2012年9月18日、2012年11月12日 - ）\[4\] - 小嶋陽菜+2週交替正規成員1人+研究生數名+[指原莉乃](../Page/指原莉乃.md "wikilink")（指原PRIDE寬環節）
-      - [火曜曲！](https://zh.wikipedia.org/wiki/火曜曲！ "wikilink")（2012年4月24日－）
+      - [有吉AKB共和国](https://zh.wikipedia.org/wiki/有吉AKB共和国 "wikilink")（2010年3月29日 - 2012年9月18日、2012年11月12日 -2016年3月29日 ）\[4\] - 小嶋陽菜+2週交替正規成員1人+研究生數名+[指原莉乃](../Page/指原莉乃.md "wikilink")（指原PRIDE寬環節）
+      - [火曜曲！](https://zh.wikipedia.org/wiki/火曜曲！ "wikilink")（2012年4月24日－2013年9月3日）
   - [富士電視台](../Page/富士電視台.md "wikilink")
       - （2011年4月24日 -）：每週交替成員3名（有SKE48、NMB48、[乃木坂46的代理出演](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")）
   - CS
@@ -221,7 +221,7 @@
   - [ON8](https://zh.wikipedia.org/wiki/ON8 "wikilink")（2006年11月 - 、bayfm） - 「柱NIGHT with AKB48」（星期一）部份
   - [AKB48 今夜は帰らない…](https://zh.wikipedia.org/wiki/AKB48_今夜は帰らない… "wikilink")（2007年4月 - 、CBC廣播） - 市川・島崎・島田
   - [リッスン? 〜Live 4 Life〜](https://zh.wikipedia.org/wiki/リッスン?_〜Live_4_Life〜 "wikilink")（2010年4月6日 - 、文化放送） - 成員各1名每週交替擔當星期二部份。
-  - AKB48のオールナイトニッポン（2010年4月9日 - 、[日本放送](../Page/日本放送.md "wikilink")） - 星期五部份
+  - [AKB48のオールナイトニッポン](https://zh.wikipedia.org/wiki/AKB48のオールナイトニッポン "wikilink")（2010年4月9日 -2019年3月28日 、[日本放送](../Page/日本放送.md "wikilink")） - 星期五部份
   - [AKB48的"我們的故事"](https://zh.wikipedia.org/wiki/AKB48的"我們的故事" "wikilink")（2010年8月14日・10月11日・2011年1月2日・4月1日 - 、[NHK-FM](https://zh.wikipedia.org/wiki/NHK-FM放送 "wikilink")・[NHK廣播第1頻率](../Page/NHK廣播第1頻率.md "wikilink")）
   - [AKB廣播劇劇場](../Page/AKB廣播劇劇場.md "wikilink")（2011年10月3日 - 、日本放送）
   - [Wktkラヂオ学園](https://zh.wikipedia.org/wiki/Wktkラヂオ学園 "wikilink")（2012年4月8日 - 、[NHKラジオ第一](https://zh.wikipedia.org/wiki/NHKラジオ第一 "wikilink")） - 數名成員每週交換日曜レギュラー

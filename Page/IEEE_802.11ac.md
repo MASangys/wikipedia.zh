@@ -1,10 +1,10 @@
-**IEEE 802.11ac**是[802.11家族的一項](../Page/IEEE_802.11.md "wikilink")[無線網路標準](https://zh.wikipedia.org/wiki/無線網路 "wikilink")，由[IEEE標準協會制定](https://zh.wikipedia.org/wiki/電機電子工程師學會標準協會 "wikilink")\[1\]，透過[5GHz頻帶提供高通量的](../Page/WLAN信道列表.md "wikilink")[無線區域網路](https://zh.wikipedia.org/wiki/無線區域網路 "wikilink")（WLAN）\[2\]，俗稱**5G WiFi** （第五代Wi-Fi，及因其使用5GHz頻帶）\[3\]，[Wi-Fi联盟](../Page/Wi-Fi联盟.md "wikilink")自2018年称为**Wi-Fi 5**\[4\]。理論上它能夠提供最少1Gbps頻寬進行多站式無線區域網通訊，或是最少500Mbps的單一連線傳輸頻寬。
+**IEEE 802.11ac**是[802.11家族的一項](../Page/IEEE_802.11.md "wikilink")[無線網路標準](https://zh.wikipedia.org/wiki/無線網路 "wikilink")，由[IEEE標準協會制定](https://zh.wikipedia.org/wiki/電機電子工程師學會標準協會 "wikilink")\[1\]，透過[5GHz頻帶提供高通量的](../Page/WLAN信道列表.md "wikilink")[無線區域網路](https://zh.wikipedia.org/wiki/無線區域網路 "wikilink")（WLAN）\[2\]，俗稱**5G WiFi** （第五代Wi-Fi，及因其使用5GHz頻帶）\[3\]，[Wi-Fi联盟](../Page/Wi-Fi联盟.md "wikilink")自2018年称为**Wi-Fi 5**\[4\]。
 
 2008年年底，[IEEE 802標準組織成立新小組](../Page/IEEE_802.md "wikilink")，目的是在於建立新標準來改善[802.11-2007標準](https://zh.wikipedia.org/wiki/802.11-2007 "wikilink")。包括建立提高無線傳輸的速度的標準，使無線網路的能夠提供與有線網路相當的傳輸效能。
 
-802.11ac是[802.11n的繼承者](https://zh.wikipedia.org/wiki/802.11n "wikilink")。它採用並擴展了源自[802.11n的](https://zh.wikipedia.org/wiki/802.11n "wikilink")[空中接口](https://zh.wikipedia.org/wiki/空中接口 "wikilink")（air interface）概念，包括：更寬的RF頻寬（提升至160MHz），更多的[MIMO](../Page/MIMO.md "wikilink")[空間串流](https://zh.wikipedia.org/wiki/空間串流 "wikilink")（spatial streams）（增加到 8），下行多使用者的 MIMO (最多至4个)，以及高密度的[調變](https://zh.wikipedia.org/wiki/调制 "wikilink")（modulation）（達到 256[QAM](https://zh.wikipedia.org/wiki/QAM "wikilink")）。
+802.11ac是[802.11n的繼承者](https://zh.wikipedia.org/wiki/802.11n "wikilink")。它採用並擴展了源自[802.11n的](https://zh.wikipedia.org/wiki/802.11n "wikilink")[空中接口](https://zh.wikipedia.org/wiki/空中接口 "wikilink")（air interface）概念，包括：更寬的RF頻寬（提升至160MHz），更多的[MIMO](../Page/MIMO.md "wikilink")[空間串流](https://zh.wikipedia.org/wiki/空間串流 "wikilink")（spatial streams）（增加到 8），下行多使用者的MIMO (最多至4个)，以及高密度的[調變](https://zh.wikipedia.org/wiki/调制 "wikilink")（modulation）（達到 256[QAM](https://zh.wikipedia.org/wiki/QAM "wikilink")）。
 
-2013年推出的第一批802.11ac产品称为**Wave 1**，2016年推出的较新的高带宽产品称为**Wave 2**\[5\]。
+2014年推出802.11ac Wave1，2016年推出802.11ac Wave2\[5\]。
 
 ## 新技術
 
@@ -12,9 +12,9 @@
       - 強制支援至80MHz頻寬(相對於802.11n支援至40MHz頻寬),而160MHz頻寬為可選擇是否支援
   - 更多的MIMO空間串流
       - 支持8個MIMO空間串流（802.11n只能支持4個）
-  - Downlink Multi-user MIMO （MU-MIMO）
+      - Multi-user MIMO（MU-MIMO，從802.11ac Wave2開始提供支援\[6\]）
   - 調變（Modulation）
-      - 256-QAM, rate 3/4 與 5/6, 可作為選項 (802.11n 最高到達 64-QAM, rate 5/6 ) \[6\] \[7\]\[8\]\[9\]
+      - 256-QAM, rate 3/4 與 5/6, 可作為選項 (802.11n 最高到達 64-QAM, rate 5/6 ) \[7\] \[8\]\[9\]\[10\]
 
 ## 產品
 
@@ -26,7 +26,7 @@ Quantenna公司在2011年11月15日推出了世界上第一只采用802.11ac的[
 
 ## Wave 1与Wave 2
 
-Wave 2指的是2016年推出的产品，提供比传统Wave 1产品更高的吞吐量，这些产品从2013年开始被推出。Wave 1的[PHY](../Page/PHY.md "wikilink")（物理）理论速率最高可达1.3 Gbps，而Wave 2的可达2.34 Gbps。 因此，即使现实世界的吞吐量仅为理论速率的50％，Wave 2也可以达到千兆位速度。 Wave 2还支持更多数量的连接设备\[10\]。
+Wave 2指的是2016年推出的产品，提供比传统Wave 1产品更高的吞吐量，这些产品从2013年开始被推出。Wave 1的[PHY](../Page/PHY.md "wikilink")（物理）理论速率最高可达866 Mbps，而Wave 2的可达1.73 Gbps\[11\]。Wave 2支援MU-MIMO。
 
 ## 802.11網路標準
 
@@ -59,14 +59,16 @@ Wave 2指的是2016年推出的产品，提供比传统Wave 1产品更高的吞�
 
 4.
 
-5.
+5.  <https://www.intel.com.tw/content/www/tw/zh/support/articles/000005725/network-and-io/wireless-networking.html>
 
-6.  [即將到來的無線標準：IEEE 802.11ac 與 LTE-Advanced - National Instruments](http://www.ni.com/white-paper/13909/zht/) - National Instruments@usa
+6.  <https://www.intel.com.tw/content/www/tw/zh/support/articles/000005725/network-and-io/wireless-networking.html>
 
-7.  [無線網路新趨勢–漫談 802.11ac 新協定](http://www.cc.ntu.edu.tw/chinese/epaper/0024/20130320_2409.html) , 作者：游子興 / [臺灣大學計算機及資訊網路中心網路組幹事](https://zh.wikipedia.org/wiki/臺灣大學 "wikilink")
+7.  [即將到來的無線標準：IEEE 802.11ac 與 LTE-Advanced - National Instruments](http://www.ni.com/white-paper/13909/zht/) - National Instruments@usa
 
-8.  [深入探討 802.11ac](http://www.ni.com/white-paper/13913/zht/) - National Instruments@usa
+8.  [無線網路新趨勢–漫談 802.11ac 新協定](http://www.cc.ntu.edu.tw/chinese/epaper/0024/20130320_2409.html) , 作者：游子興 / [臺灣大學計算機及資訊網路中心網路組幹事](https://zh.wikipedia.org/wiki/臺灣大學 "wikilink")
 
-9.  [次世代Wi-Fi標準IEEE 802.11ac的5大技術特性:: 特色2 － 改採256 QAM的調變技術，單一封包可負載量增加](http://www.ithome.com.tw/itadm/article.php?c=75919&s=2)  - 技術專題 - iThome online
+9.  [深入探討 802.11ac](http://www.ni.com/white-paper/13913/zht/) - National Instruments@usa
 
-10.
+10. [次世代Wi-Fi標準IEEE 802.11ac的5大技術特性:: 特色2 － 改採256 QAM的調變技術，單一封包可負載量增加](http://www.ithome.com.tw/itadm/article.php?c=75919&s=2)  - 技術專題 - iThome online
+
+11. <https://www.intel.com.tw/content/www/tw/zh/support/articles/000005725/network-and-io/wireless-networking.html>

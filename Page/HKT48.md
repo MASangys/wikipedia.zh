@@ -108,6 +108,7 @@ HKT48原與[AKB48集團](../Page/AKB48集團.md "wikilink")其他團體一樣擁
   - 1月29日，Team KIV舉辦首場「制服之芽」公演。此公演原為SKE48的劇場公演，這次是首度由其它组合演出\[56\]。
   - 2月5日，於福岡市中央區渡邊通的劇場「Skala espacio」舉辦首場公演（向日葵組「正在戀愛中」公演）\[57\]。
   - 5月2日，發行第11張單曲《[快進的日曆](../Page/快進的日曆.md "wikilink")》\[58\]。首周銷量16.5萬張，第11度獲得Oricon公信榜週榜首位，同時刷新自己保持的「出道以來全單曲奪冠」第1名的榜單紀錄\[59\]。
+  - 7月2日，於線上直播平台[SHOWROOM](../Page/SHOWROOM.md "wikilink")獨家播出的冠名網路節目《HKT48的Yoka×Yoka\!\!》（）開始在每月第2、4週的平日傍晚播出。
 
 ### 2019年
 
@@ -3260,11 +3261,16 @@ HKT48劇場設於福岡市中央區地行濱的（Hawks Town Mall）內，於201
 
   - [HKT48官方博客](http://ameblo.jp/hkt48)
 
-  - [Universal Music Japan 唱片公司](http://www.universal-music.co.jp/hkt48/)
+  - [日本環球音樂的HKT48專頁](https://www.universal-music.co.jp/hkt48/)
 
   -
+
   -
+
   -
+
+  -
+
   - [AKB48 Now on Google+](http://www.google.com/intl/ja/+/project48/)
 
       - [HKT48 - Google+](https://plus.google.com/102988890725022311407/)

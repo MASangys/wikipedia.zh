@@ -103,7 +103,7 @@
 21.
 22.
 23.
-24.  香港 UNWIRE.HK 玩生活．樂科技|url=[https://unwire.hk/2014/01/21/chrome-uwants-blocked/top-news/|website=香港](https://unwire.hk/2014/01/21/chrome-uwants-blocked/top-news/%7Cwebsite=香港) UNWIRE.HK 玩生活．樂科技|accessdate=一月 21, 2014|archiveurl=[https://web.archive.org/web/20181007223205/https://unwire.hk/2014/01/21/chrome-uwants-blocked/top-news/|archivedate=20181007|language=zh-tw|date=20181007|deadurl=no](https://web.archive.org/web/20181007223205/https://unwire.hk/2014/01/21/chrome-uwants-blocked/top-news/%7Carchivedate=20181007%7Clanguage=zh-tw%7Cdate=20181007%7Cdeadurl=no)}}
+24.  香港 UNWIRE.HK 玩生活．樂科技|url=[https://unwire.hk/2014/01/21/chrome-uwants-blocked/top-news/|website=香港](https://unwire.hk/2014/01/21/chrome-uwants-blocked/top-news/%7Cwebsite=香港) UNWIRE.HK 玩生活．樂科技|accessdate=2014-01-21|archiveurl=[https://web.archive.org/web/20181007223205/https://unwire.hk/2014/01/21/chrome-uwants-blocked/top-news/|archivedate=20181007|language=zh-tw|date=20181007|deadurl=no](https://web.archive.org/web/20181007223205/https://unwire.hk/2014/01/21/chrome-uwants-blocked/top-news/%7Carchivedate=20181007%7Clanguage=zh-tw%7Cdate=20181007%7Cdeadurl=no)}}
 25. [槍癡無牌藏槍候懲](https://hk.news.appledaily.com/local/daily/article/20160120/19459277) 《[蘋果日報](https://zh.wikipedia.org/wiki/蘋果日報 "wikilink")》，2016年01月20日
 26. [真左輪寄港兼家藏70支氣槍　槍癡囚4年](http://hk.on.cc/hk/bkn/cnt/news/20160223/bkn-20160223105603854-0223_00822_001.html) 《[東網](https://zh.wikipedia.org/wiki/東網 "wikilink")》，2016年02月23日
 27. [寄左輪回港　槍癡被捕屋企似軍火庫　警扮郵差追查揭發](https://hk.news.appledaily.com/local/daily/article/20140612/18755110)《[蘋果日報](https://zh.wikipedia.org/wiki/蘋果日報 "wikilink")》，2014年06月12日

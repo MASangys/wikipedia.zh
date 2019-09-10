@@ -6,7 +6,7 @@ Melonbooks定位是販賣[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink
 
 Melonbooks店鋪經常與[動畫商店中最大規模的](https://zh.wikipedia.org/wiki/動畫商店 "wikilink")[Animate與中古同人商店](https://zh.wikipedia.org/wiki/Animate "wikilink")[指南針](https://zh.wikipedia.org/wiki/Lashinbang "wikilink")（Lashinbang）相鄰\[1\]。另外，Melonbooks亦特化其業務，開設以女性向商品為主的姊妹店鋪「livret（）」。2005年開設Melonbooks.com（），提供[下載販賣](https://zh.wikipedia.org/wiki/下載販賣 "wikilink")（[數碼同人](https://zh.wikipedia.org/wiki/數碼同人 "wikilink")）同人作品。
 
-再者，Melonbooks[吉祥物](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")「小Melon」（）以[Evo VII](https://zh.wikipedia.org/wiki/三菱Lancer_Evolution#Lancer_Evolution_VII_\(第7代\) "wikilink")・[GA2 City](https://zh.wikipedia.org/wiki/本田City "wikilink")（所謂的[痛車](../Page/痛車.md "wikilink")）等車輛參加了[全日本拉力錦標賽](https://zh.wikipedia.org/wiki/全日本拉力錦標賽 "wikilink")（）及其同類型比賽，並在近年在本業以外的活動中相當活躍（[後述](https://zh.wikipedia.org/wiki/Melonbooks#挑戰拉力賽 "wikilink")）。
+[Melonbooks_itasha_20090726.jpg](https://zh.wikipedia.org/wiki/File:Melonbooks_itasha_20090726.jpg "fig:Melonbooks_itasha_20090726.jpg") 再者，Melonbooks[看板娘](https://zh.wikipedia.org/wiki/看板娘 "wikilink")「小蜜瓜」（）以[Evo VII](https://zh.wikipedia.org/wiki/三菱Lancer_Evolution#Lancer_Evolution_VII_\(第7代\) "wikilink")・[GA2 City](https://zh.wikipedia.org/wiki/本田City "wikilink")（所謂的[痛車](../Page/痛車.md "wikilink")）等車輛參加了[全日本拉力錦標賽](https://zh.wikipedia.org/wiki/全日本拉力錦標賽 "wikilink")（）及其同類型比賽，並在近年在本業以外的活動中相當活躍（[後述](https://zh.wikipedia.org/wiki/Melonbooks#挑戰拉力賽 "wikilink")）。
 
 ## 會社沿革
 
@@ -22,16 +22,16 @@ Melonbooks店鋪經常與[動畫商店中最大規模的](https://zh.wikipedia.o
 
 ## 吉祥物角色
 
-主要的[吉祥物角色為小Melon](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")。
+Melonbooks主要的[吉祥物角色為小蜜瓜](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")。
 
 ### 歷代負責的插畫家
 
   - 初代（1998年）:
-      - 當時畫了2張小Melon的插畫\[8\]
+      - 當時畫了2張小蜜瓜的插畫\[8\]
   - 2代（1999年1月 - 2003年3月）：
-      - 在除小Melon以外幾乎所有的角色均為負責插畫的時候創作，現在名義上為原案／角色設計者。2003年3月以工作繁忙為理由辭任插畫主筆。
+      - 在除小蜜瓜以外幾乎所有的角色均為負責插畫的時候創作，現在名義上為原案／角色設計者。2003年3月以工作繁忙為理由辭任插畫主筆。
   - 3代目（2003年5月 - 現在）：[風上旬](https://zh.wikipedia.org/wiki/風上旬 "wikilink")
-      - 2005年以後，現在負責角色插畫的主筆。全面更新了小Melon等角色。
+      - 2005年以後，現在負責角色插畫的主筆。全面更新了小蜜瓜等角色。
 
 亦有其他同人作家於[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")、[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")、[雜誌中繪畫了全面的廣告背景插畫](https://zh.wikipedia.org/wiki/雜誌 "wikilink")。
 
@@ -39,16 +39,16 @@ Melonbooks店鋪經常與[動畫商店中最大規模的](https://zh.wikipedia.o
 
 Melonbooks官方[廣播劇CD角色分配](https://zh.wikipedia.org/wiki/廣播劇CD "wikilink")：
 
-  - 小Melon（）：[川上倫子](../Page/川上倫子.md "wikilink")
-  - 小Lemon（）：[金田朋子](../Page/金田朋子.md "wikilink")
-  - 黑Lemon（）：[金井美香](../Page/金井美香.md "wikilink")
+  - 小蜜瓜（）：[川上倫子](../Page/川上倫子.md "wikilink")
+  - 小檸檬（）：[金田朋子](../Page/金田朋子.md "wikilink")
+  - 黑檸檬（）：[金井美香](../Page/金井美香.md "wikilink")
   - 店長：[子安武人](../Page/子安武人.md "wikilink")
   - 祥子先生（）：[井上喜久子](../Page/井上喜久子.md "wikilink")
   - 香港店店長：[秋元洋介](../Page/秋元羊介.md "wikilink")
 
-## 店舗
+## 店舖
 
-[thumb](https://zh.wikipedia.org/wiki/file:Melonbooks_Osaka_Nipponbashi_2009.JPG "wikilink") 與livret Corner併設的店舗以★表示。
+[thumb](https://zh.wikipedia.org/wiki/file:Melonbooks_Osaka_Nipponbashi_2009.JPG "wikilink") 與livret Corner併設的店舖以★表示。
 松山店・熊本店為[日本三大都市圈](../Page/日本三大都市圈.md "wikilink")・[政令指定都市](../Page/政令指定都市.md "wikilink")以外\[9\]開設的店舖。
 
 | 都道府縣                                                                                | 所在地                                                                                                          | 店舗名                                                 | 當地的Melon\[10\]                                                                              | 開店日         | 參考            |
@@ -124,13 +124,13 @@ Melonbooks官方[廣播劇CD角色分配](https://zh.wikipedia.org/wiki/廣播�
 5.  在公式網頁等使用到2003年。現在還能在部分店舗中見到。
 6.  2000年間設計的標識，主要在這個時間內使用。
 7.  於2003年9月改變了設計。
-8.  「[第二代小Melon公式Fan book](http://www.melonbooks.co.jp/contents/goods/80newgoods2/index.html) （）」
+8.  「[第二代小蜜瓜公式Fan book](http://www.melonbooks.co.jp/contents/goods/80newgoods2/index.html) （）」
 9.  [熊本市](../Page/熊本市.md "wikilink")於2012年（平成24年）度將予定成為[政令指定都市](../Page/政令指定都市.md "wikilink")。
-10. 2009年10月1日以積分交換的商品登場，當中有小Melon Cosplay成Melonbooks各店舖所屬地域相關形像的鑰匙扣。其他的形像也有通販限定的[像素畫](https://zh.wikipedia.org/wiki/像素畫 "wikilink")、活動限定的[拉力賽選手等](https://zh.wikipedia.org/wiki/拉力賽 "wikilink")。
+10. 2009年10月1日以積分交換的商品登場，當中有小蜜瓜cosplay成Melonbooks各店舖所屬地域相關形象的鑰匙扣。其他的形象也有通販限定的[像素畫](https://zh.wikipedia.org/wiki/像素畫 "wikilink")、活動限定的[拉力賽選手等](https://zh.wikipedia.org/wiki/拉力賽 "wikilink")。
 11. 2004年8月7日，搬遷並更新到現時的地方。
 12. 2010年9月18日、搬遷並更新到[Animate舊高崎店原址](https://zh.wikipedia.org/wiki/Animate "wikilink")。
-13. 蒲田車站前的[湯澤屋](https://zh.wikipedia.org/wiki/湯澤屋 "wikilink")11號館原址，在同日[LA SHIN BANG於同大樓內新店開張](https://zh.wikipedia.org/wiki/LA_SHIN_BANG "wikilink")。後來於11月20日Animate蒲田店也搬遷到該大樓內。
-14. 在[Comic Market](../Page/Comic_Market.md "wikilink")77內發表。同建築物內有[LA SHIN BANG營業](https://zh.wikipedia.org/wiki/LA_SHIN_BANG "wikilink")。
+13. 蒲田車站前的[湯澤屋](https://zh.wikipedia.org/wiki/湯澤屋 "wikilink")11號館原址，在同日指南針（[Lashinbang](https://zh.wikipedia.org/wiki/Lashinbang "wikilink")）於同大樓內新店開張。後來於11月20日Animate蒲田店也搬遷到該大樓內。
+14. 在[Comic Market](../Page/Comic_Market.md "wikilink")77內發表。同建築物內有Lashinbang營業。
 15. 開店1周年記念日至2009年11月28日內限定發佈。
 16. [石丸電氣本館舊址](https://zh.wikipedia.org/wiki/石丸電氣 "wikilink")。同時，Animate新潟店（搬遷）・LA SHIN BANG・ ACOS都同時在相同建築物內營業。
 17. 2007年10月27日，搬遷到現址。店舗面積為舊店約6倍，即增大了90坪左右。

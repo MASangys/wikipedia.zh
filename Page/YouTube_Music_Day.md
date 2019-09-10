@@ -16,7 +16,7 @@
 
   - 1976
   - [A-Lin](../Page/A-Lin.md "wikilink")
-  - [BY2](https://zh.wikipedia.org/wiki/BY2 "wikilink")
+  - [BY2](../Page/BY2.md "wikilink")
   - [dance flow](https://zh.wikipedia.org/wiki/dance_flow "wikilink")
   - [Jerry C](http://en.wikipedia.org/wiki/JerryC) (張逸帆)
   - [Olivia](https://zh.wikipedia.org/wiki/Olivia "wikilink")
@@ -38,7 +38,7 @@
   - [瑤瑤](https://zh.wikipedia.org/wiki/瑤瑤 "wikilink") 曲目:愛的抱抱
   - [戴愛玲](../Page/戴愛玲.md "wikilink") 曲目:對的人
   - [蕭敬騰](../Page/蕭敬騰.md "wikilink") 曲目:王妃
-  - [BY2](https://zh.wikipedia.org/wiki/BY2 "wikilink") 曲目:大人的世界
+  - [BY2](../Page/BY2.md "wikilink") 曲目:大人的世界
 
 ## 批評與贊同
 

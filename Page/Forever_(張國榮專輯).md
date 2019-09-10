@@ -8,4 +8,4 @@
 
 ## 專輯派台歌曲成績
 
-[Category:張國榮音樂專輯](https://zh.wikipedia.org/wiki/Category:張國榮音樂專輯 "wikilink") [Category:2001年音樂專輯](https://zh.wikipedia.org/wiki/Category:2001年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
+[Category:張國榮音樂專輯](https://zh.wikipedia.org/wiki/Category:張國榮音樂專輯 "wikilink") [Category:2001年音樂專輯](https://zh.wikipedia.org/wiki/Category:2001年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:香港流行音乐专辑](https://zh.wikipedia.org/wiki/Category:香港流行音乐专辑 "wikilink")

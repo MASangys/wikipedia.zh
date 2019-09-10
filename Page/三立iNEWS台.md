@@ -54,8 +54,8 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/李文儀.md" title="wikilink">李文儀</a><br />
-(<a href="https://zh.wikipedia.org/wiki/我們一家人" title="wikilink">我們一家人</a>)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/邱子玲" title="wikilink">邱子玲</a><br />
+(<a href="https://zh.wikipedia.org/wiki/聰明過生活" title="wikilink">聰明過生活</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/解婕翎.md" title="wikilink">解婕翎</a>、<a href="https://zh.wikipedia.org/wiki/小周師" title="wikilink">小周師</a><br />
@@ -137,6 +137,7 @@
 
 ### 知性類節目
 
+  - [我們一家人](https://zh.wikipedia.org/wiki/我們一家人 "wikilink")
   - 食尚生活家
   - 玩客瘋高雄
   - i-Life（節目名稱更名為360大世界）

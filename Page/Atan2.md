@@ -28,19 +28,19 @@
 
 vb6:
 
-atan2(x,y)
+atan2(x,y)=
 
-# (x\<
+(x\<\>0+y\<\>0)\*
 
-0)\*sgn(x)\*4\*Atn(1)\*sgn(y)^sgn(y)
+(x\<=0)\*2\*Atn(sgn(y)^sgn(y))/2^(x\<\>0)-
 
-\-(x=0)\*sgn(y)\*2\*Atn(1)
-
-\-(x\<\>0)\*Atn(y\*x^(x\<\>0))
+(x\<\>0)\*Atn(y\*x^(x\<\>0))
 
 adodb.connect.execute:
 
-SELECT (x\<=0)\*sgn(x)\*4\*Atn(1)\*sgn(y)^sgn(y)-(x=0)\*sgn(y)\*2\*Atn(1)-(x\<\>0)\*Atn(y\*x^(x\<\>0)) AS AT_ FROM (SELECT Col1 AS x,Col2 AS y) T_
+SELECT (x\<\>0+y\<\>0)\*(x\<=0)\*2\*Atn(sgn(y)^sgn(y))/2^(x\<\>0)-(x\<\>0)\*Atn(y\*x^(x\<\>0)) AS AT_ FROM (SELECT Col1 AS x,Col2 AS y) T_
+
+(x\<\>0+y\<\>0)可省略
 
 ## 有关图片
 

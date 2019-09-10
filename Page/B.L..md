@@ -146,6 +146,8 @@
 <td><p>2015</p></td>
 <td><p><a href="../Page/公主闖天關.md" title="wikilink">公主闖天關</a></p></td>
 <td><p><strong>魯多</strong><br />
+傑米<br />
+尚恩<br />
 蒼蠅頭<br />
 普林斯頓<br />
 亂說靈</p></td>
@@ -156,18 +158,11 @@
 <td><p>2017</p></td>
 <td><p><a href="../Page/魔髮奇緣_(電視影集).md" title="wikilink">魔髮奇緣</a></p></td>
 <td><p><strong>菲瑞安</strong><br />
-<strong>鉤腳</strong><br />
+鉤腳<br />
 帕克<br />
 史坦<br />
 奈吉爾<br />
-崔佛國王<br />
-威索<br />
-赫克托<br />
-老公<br />
-尖塔守護者<br />
-光天化日小偷-威廉<br />
-Constable Lumph<br />
-狄馬尼勳爵</p></td>
+蒙提叔叔</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -176,6 +171,21 @@ Constable Lumph<br />
 <td><p><a href="../Page/馴龍高手_(電視影集).md" title="wikilink">馴龍高手：比賽直到盡頭</a></p></td>
 <td><p>大剋</p></td>
 <td><p><a href="../Page/東森幼幼台.md" title="wikilink">東森幼幼台</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/魔髮奇緣_(電視影集).md" title="wikilink">樂佩的魔髮冒險</a></p></td>
+<td><p><strong>鉤腳</strong><br />
+崔佛國王<br />
+威索<br />
+赫克托<br />
+老公<br />
+尖塔守護者<br />
+光天化日小偷-威廉<br />
+倫布執政官<br />
+狄馬尼勳爵</p></td>
+<td><p><a href="../Page/迪士尼頻道.md" title="wikilink">迪士尼頻道</a></p></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>

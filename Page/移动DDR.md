@@ -4,7 +4,7 @@
 
 [DDR内存从](https://zh.wikipedia.org/wiki/DDR "wikilink")[DDR](../Page/DDR_SDRAM.md "wikilink")、[DDR2](../Page/DDR2_SDRAM.md "wikilink")[、DDR3发展到](../Page/DDR3_SDRAM.md "wikilink")[DDR4](../Page/DDR4_SDRAM.md "wikilink")，频率更高、电压更低的同时卻也讓反應時間不断变大，改变着内存子系统。而[DDR4最重要的使命是提高频率和带宽](../Page/DDR4_SDRAM.md "wikilink")，每个针脚都可以提供2Gbps(256MB/s)的带宽，拥有高达4266MHz的频率，内存容量最大可达到128GB，运行电压正常可降低到1.1V\~1.2V。
 
-相对于[DDR内存](https://zh.wikipedia.org/wiki/DDR "wikilink"),[MDDR具有低功耗](https://zh.wikipedia.org/wiki/MDDR "wikilink")、高可靠性的特点，目前韩国[三星电子与](https://zh.wikipedia.org/wiki/三星电子 "wikilink")[美光科技](../Page/美光科技.md "wikilink")（Micron Technology）掌握该项技术。[Apple](https://zh.wikipedia.org/wiki/Apple "wikilink") [iPad](https://zh.wikipedia.org/wiki/iPad "wikilink"), [Samsung Galaxy Tab](https://zh.wikipedia.org/wiki/Samsung_Galaxy_Tab "wikilink") 以及 [Motorola Droid X都使用LPDDR](https://zh.wikipedia.org/wiki/Motorola_Droid_X "wikilink")\[1\]。
+相对于[DDR内存](https://zh.wikipedia.org/wiki/DDR "wikilink")，[MDDR具有低功耗](https://zh.wikipedia.org/wiki/MDDR "wikilink")、高可靠性的特点，目前韩国[三星电子与](https://zh.wikipedia.org/wiki/三星电子 "wikilink")[美光科技](../Page/美光科技.md "wikilink")（Micron Technology）掌握该项技术。[Apple](https://zh.wikipedia.org/wiki/Apple "wikilink") [iPad](https://zh.wikipedia.org/wiki/iPad "wikilink"), [Samsung Galaxy Tab](https://zh.wikipedia.org/wiki/Samsung_Galaxy_Tab "wikilink") 以及 [Motorola Droid X都使用LPDDR](https://zh.wikipedia.org/wiki/Motorola_Droid_X "wikilink")\[1\]。
 
 MDDR的运行电压（工作电压）相比DDR的标准电压要低，从第一代LPDDR到如今的LPDDR4，每一代LPDDR都使内部读取大小和外部传输速度加倍。其中[LPDDR4可提供](../Page/DDR4_SDRAM.md "wikilink")32Gbps的带宽，输入/输出接口数据传输速度最高可达3200Mbps，电压降到了1.1V。
 
@@ -435,7 +435,7 @@ LPDDR2也有一個低電平有效的chip select（高時，一切都是NOP）和
 
 ### LPDDR4X
 
-[三星電子](../Page/三星電子.md "wikilink")提出最新的LPDDR4標準，与LPDDR4相同，只是通过将I / O电压降低到0.6 V而不是1.1 V来节省额外的功耗，也就是更省电。
+[三星電子](../Page/三星電子.md "wikilink")提出最新的LPDDR4標準，与LPDDR4相同，只是透過将I / O电压降低到0.6 V而不是1.1 V来节省额外的功耗，也就是更省电。
 
 ## LPDDR5
 

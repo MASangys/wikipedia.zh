@@ -227,4 +227,4 @@ misono曾就讀以培育出[安室奈美惠](../Page/安室奈美惠.md "wikilin
   - [](http://ameblo.jp/blog-misono) - 舊網誌（架設於[ameblo](https://zh.wikipedia.org/wiki/ameblo "wikilink")）
   - [倖田來未×misono Official Site](https://web.archive.org/web/20101127112641/http://rhythmzone.net/koda/its-all-love/)
 
-[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink") [Category:日本女性電視藝人](https://zh.wikipedia.org/wiki/Category:日本女性電視藝人 "wikilink") [Category:愛貝克思集團藝人](https://zh.wikipedia.org/wiki/Category:愛貝克思集團藝人 "wikilink") [Category:京都府出身人物](https://zh.wikipedia.org/wiki/Category:京都府出身人物 "wikilink")
+[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink") [Category:日本女性搖滾歌手](https://zh.wikipedia.org/wiki/Category:日本女性搖滾歌手 "wikilink") [Category:日本女性電視藝人](https://zh.wikipedia.org/wiki/Category:日本女性電視藝人 "wikilink") [Category:愛貝克思集團藝人](https://zh.wikipedia.org/wiki/Category:愛貝克思集團藝人 "wikilink") [Category:京都府出身人物](https://zh.wikipedia.org/wiki/Category:京都府出身人物 "wikilink")

@@ -1,6 +1,6 @@
 [Mikiki_Mall_Main_Enterance_201205.jpg](https://zh.wikipedia.org/wiki/File:Mikiki_Mall_Main_Enterance_201205.jpg "fig:Mikiki_Mall_Main_Enterance_201205.jpg") [Mikiki_Main_Void_Pano_201112.jpg](https://zh.wikipedia.org/wiki/File:Mikiki_Main_Void_Pano_201112.jpg "fig:Mikiki_Main_Void_Pano_201112.jpg") [Mikiki_Mall_LG_View_201110.jpg](https://zh.wikipedia.org/wiki/File:Mikiki_Mall_LG_View_201110.jpg "fig:Mikiki_Mall_LG_View_201110.jpg") [Mikiki_MiniBus_Stop_201109.jpg](https://zh.wikipedia.org/wiki/File:Mikiki_MiniBus_Stop_201109.jpg "fig:Mikiki_MiniBus_Stop_201109.jpg") [Mikiki_MALL_Ground_Floor_View1_201109.jpg](https://zh.wikipedia.org/wiki/File:Mikiki_MALL_Ground_Floor_View1_201109.jpg "fig:Mikiki_MALL_Ground_Floor_View1_201109.jpg") [Mikiki_Enterance_Void_View1_201110.jpg](https://zh.wikipedia.org/wiki/File:Mikiki_Enterance_Void_View1_201110.jpg "fig:Mikiki_Enterance_Void_View1_201110.jpg") [Mikiki_MALL_Level_1_View1_201109.jpg](https://zh.wikipedia.org/wiki/File:Mikiki_MALL_Level_1_View1_201109.jpg "fig:Mikiki_MALL_Level_1_View1_201109.jpg") [Mikiki_GF_Washroom_Enterance_201108.jpg](https://zh.wikipedia.org/wiki/File:Mikiki_GF_Washroom_Enterance_201108.jpg "fig:Mikiki_GF_Washroom_Enterance_201108.jpg")
 
-**Mikiki**是[新鴻基地產](../Page/新鴻基地產.md "wikilink")旗下的[商場](../Page/商場.md "wikilink")，位於[香港](../Page/香港.md "wikilink")[九龍](../Page/九龍.md "wikilink")[新蒲崗](../Page/新蒲崗.md "wikilink")[太子道東](https://zh.wikipedia.org/wiki/太子道東 "wikilink")638號，位於屋苑[譽·港灣](../Page/譽·港灣.md "wikilink")基座，總面積逾20萬平方呎，於[2011年7月](../Page/2011年7月.md "wikilink")月中開始對外開放，於同年10月30日正式開幕。商場由新鴻基地產旗下的[康業服務](../Page/康業服務.md "wikilink")負責管理。
+**Mikiki**是[新鴻基地產](../Page/新鴻基地產.md "wikilink")旗下的[商場](../Page/商場.md "wikilink")，位於[香港](../Page/香港.md "wikilink")[九龍](../Page/九龍.md "wikilink")[新蒲崗](../Page/新蒲崗.md "wikilink")[太子道東](https://zh.wikipedia.org/wiki/太子道東 "wikilink")638號，位於屋苑[譽·港灣](../Page/譽·港灣.md "wikilink")基座，總面積逾20萬平方呎，於[2011年7月](../Page/2011年7月.md "wikilink")月中開始對外開放，同年10月30日正式開幕。商場由新鴻基地產旗下的[康業服務](../Page/康業服務.md "wikilink")負責管理，創智建築師有限公司負責外牆設計\[1\]。
 
 ## 簡介
 
@@ -20,7 +20,7 @@ Mikiki總面積逾20萬平方呎，硬件連裝修總投資額達1.6億元。商
 
 ## 人流及收益
 
-截至2011年9月，商場人流約4萬人次，假日則達6萬人次。新鴻基預計商場開幕首年平日人流約6萬人次，周末假期人流將達8萬人次。並預計首年商場在零售及餐飲消費，人均消費分別300至1500元及120至300元，帶來6.5億元營業額，商場合共98個商戶，近八成商戶啟業，以商場面積計，當中食肆佔35%，時裝及配飾佔24%。餐飲樓面每平方尺介乎35至60元，零售業租金50至120元，預計每年可收取6000萬元租金收益。不過人流只集中於平日中午及週六、日，其餘時間人流稀少，顯得冷清。\[1\]
+截至2011年9月，商場人流約4萬人次，假日則達6萬人次。新鴻基預計商場開幕首年平日人流約6萬人次，周末假期人流將達8萬人次。並預計首年商場在零售及餐飲消費，人均消費分別300至1500元及120至300元，帶來6.5億元營業額，商場合共98個商戶，近八成商戶啟業，以商場面積計，當中食肆佔35%，時裝及配飾佔24%。餐飲樓面每平方尺介乎35至60元，零售業租金50至120元，預計每年可收取6000萬元租金收益。不過人流只集中於平日中午及週六、日，其餘時間人流稀少，顯得冷清。\[2\]
 
 ## 商場結構
 
@@ -62,7 +62,7 @@ Mikiki總面積逾20萬平方呎，硬件連裝修總投資額達1.6億元。商
 
 食肆包括六本木式DG Lifestyle Café、California Pizza Kitchen、IKI鐵板燒、Panash麵包店、La Kaffa義式咖啡店、糖圓園糖水店 、台灣[東一排骨](https://zh.wikipedia.org/wiki/東一排骨 "wikilink")(以「壹臺」為餐廳名稱)、[金牌小龍](https://zh.wikipedia.org/wiki/金牌小龍 "wikilink")、龍皇酒家及金寶越南牛肉粉。當中[星巴克咖啡的Mikiki分店佔地](https://zh.wikipedia.org/wiki/星巴克咖啡 "wikilink")1,200呎，原表示以舊[啟德機場](../Page/啟德機場.md "wikilink")為主題，把新蒲崗區深厚的社區文化及前啟德機場的歷史融合在店舖設計中。不過開業後該店裝修與一般星巴克差別不大。
 
-商場示範單位設於[將軍澳中心](../Page/將軍澳中心.md "wikilink")，佔地約8,000方呎，將商場的「購物+體驗」消閒模式呈現潛在租戶眼前，並製作提供有聽覺和嗅覺等體驗的概念性招租畫冊，將項目發展遠景具體呈現。[新鴻基地產](../Page/新鴻基地產.md "wikilink")亦要求商戶的裝修及經營手法均需引入創新元素，單在商戶的裝修設計，已經過數次洽談。\[2\]
+商場示範單位設於[將軍澳中心](../Page/將軍澳中心.md "wikilink")，佔地約8,000方呎，將商場的「購物+體驗」消閒模式呈現潛在租戶眼前，並製作提供有聽覺和嗅覺等體驗的概念性招租畫冊，將項目發展遠景具體呈現。[新鴻基地產](../Page/新鴻基地產.md "wikilink")亦要求商戶的裝修及經營手法均需引入創新元素，單在商戶的裝修設計，已經過數次洽談。\[3\]
 
 到2014年起商場進行租戶重組後，多間時裝、食肆、家居、精品及童裝店已結業。新租戶以2、3線租客，主要以健康產品及中下檔的生活用品店為主，精品店比例大幅減少，而童裝店已經消失。
 
@@ -88,7 +88,10 @@ Mikiki總面積逾20萬平方呎，硬件連裝修總投資額達1.6億元。商
   - [Mikiki官方網站](http://www.mikiki-mall.com.hk)
   - [Mikiki facebook 專頁](http://www.facebook.com/mikiki.mall)
 
+[Category:2011年完工建築物](https://zh.wikipedia.org/wiki/Category:2011年完工建築物 "wikilink")
+
 [Category:黃大仙區商場](https://zh.wikipedia.org/wiki/Category:黃大仙區商場 "wikilink") [Category:新蒲崗](https://zh.wikipedia.org/wiki/Category:新蒲崗 "wikilink") [Category:新鴻基地產物業](https://zh.wikipedia.org/wiki/Category:新鴻基地產物業 "wikilink")
 
-1.  [新地\<00016.HK\>料新蒲岗商场Mikiki每年租金收益6000万](http://finance.ifeng.com/hk/sckx/20111003/4742941.shtml)来源：阿思达克 2011年10月03日 13:30
-2.  香港經濟日報：新蒲崗Mikiki玩創新 8月開業 (2011-6-14)
+1.  [Mikiki商場](https://www.agcdesign.com.hk/zh-hant/projects/details/1/29/). AGC Design. \[2019-08-27\]
+2.  [新地\<00016.HK\>料新蒲岗商场Mikiki每年租金收益6000万](http://finance.ifeng.com/hk/sckx/20111003/4742941.shtml)来源：阿思达克 2011年10月03日 13:30
+3.  香港經濟日報：新蒲崗Mikiki玩創新 8月開業 (2011-6-14)

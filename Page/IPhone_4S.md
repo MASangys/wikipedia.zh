@@ -21,7 +21,7 @@
   - 衛星定位接收除[全球定位系統之外](https://zh.wikipedia.org/wiki/全球定位系統 "wikilink")，又搭載[格洛納斯系統](https://zh.wikipedia.org/wiki/格洛納斯系統 "wikilink")。
   - 3G-{zh-tw:資料;zh-cn:数据}-傳輸速度最高支援到 14.4 Mbps [HSPA+](https://zh.wikipedia.org/wiki/HSPA+ "wikilink")。
   - 新增加 64GB 版本。
-  - 苹果官方对其支持至[IOS 9.3.5版本](https://zh.wikipedia.org/wiki/IOS_9.3.5 "wikilink")
+  - 苹果官方对其支持至[IOS 9.3.6版本](https://zh.wikipedia.org/wiki/IOS_9.3.6 "wikilink")
 
 ## 語音支援
 

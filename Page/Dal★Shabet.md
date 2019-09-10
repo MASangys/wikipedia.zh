@@ -259,7 +259,7 @@ Ayoung<br />
 <tbody>
 <tr class="odd">
 <td><p><strong>1st</strong></p></td>
-<td><p>首張正規專輯《<strong><a href="https://zh.wikipedia.org/wiki/Bang_Bang" title="wikilink">Bang Bang</a></strong>》</p>
+<td><p>首張正規專輯《<strong><a href="https://zh.wikipedia.org/wiki/Bang_Bang_(Dal★Shabet專輯)" title="wikilink">Bang Bang</a></strong>》</p>
 <ul>
 <li>發行日期： 2012年6月6日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>

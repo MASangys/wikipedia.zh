@@ -133,16 +133,6 @@ Barça Atletic 1990年改名为巴塞隆拿B隊，本2008年改回叫[Barça Atl
 <tr class="even">
 <td><p><strong>-</strong></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/:en:_Juan_Miranda(footballer)" title="wikilink">米蘭達</a>（Juan Miranda）</p></td>
-<td><p>左後衛</p></td>
-<td></td>
-<td><p>2017年</p></td>
-<td><p>青年隊</p></td>
-<td><p>不適用</p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>-</strong></p></td>
-<td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/:en:Óscar_Mingueza" title="wikilink">米恩奎薩</a>（Óscar Mingueza）</p></td>
 <td><p>中後衛</p></td>
 <td></td>
@@ -150,7 +140,7 @@ Barça Atletic 1990年改名为巴塞隆拿B隊，本2008年改回叫[Barça Atl
 <td><p>青年隊</p></td>
 <td><p>不適用</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>-</strong></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/:en:Guillem_Jaime" title="wikilink">海梅</a>（Guillem Jaime）</p></td>
@@ -160,7 +150,7 @@ Barça Atletic 1990年改名为巴塞隆拿B隊，本2008年改回叫[Barça Atl
 <td><p>青年隊</p></td>
 <td><p>不適用</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>-</strong></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/:en:Dani_Morer" title="wikilink">莫爾</a>（Dani Morer）</p></td>
@@ -170,7 +160,7 @@ Barça Atletic 1990年改名为巴塞隆拿B隊，本2008年改回叫[Barça Atl
 <td><p>青年隊</p></td>
 <td><p>不適用</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>-</strong></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/:en:Ignasi_Vilarrasa" title="wikilink">比拉雅爾薩</a>（Ignasi Vilarrasa）</p></td>
@@ -180,7 +170,7 @@ Barça Atletic 1990年改名为巴塞隆拿B隊，本2008年改回叫[Barça Atl
 <td><p><a href="../Page/哥尼拿體育會.md" title="wikilink">科爾內亞</a> </p></td>
 <td><p>租借回歸</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>-</strong></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/:en:Ronald_Araújo" title="wikilink">阿拉烏霍</a>（Ronald Araújo）</p></td>
@@ -190,7 +180,7 @@ Barça Atletic 1990年改名为巴塞隆拿B隊，本2008年改回叫[Barça Atl
 <td><p><a href="https://zh.wikipedia.org/wiki/:en:Boston_River" title="wikilink">波士頓河</a></p></td>
 <td><p>170萬歐元</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>-</strong></p></td>
 <td></td>
 <td><p><strong>科莫斯（Arnau Comas）</strong></p></td>
@@ -200,7 +190,7 @@ Barça Atletic 1990年改名为巴塞隆拿B隊，本2008年改回叫[Barça Atl
 <td><p>青年隊</p></td>
 <td><p>不適用</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>-</strong></p></td>
 <td></td>
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/:en:Mike_van_Beijnen" title="wikilink">麥克·范貝寧</a>（Mike van Beijnen）</strong></p></td>
@@ -210,7 +200,7 @@ Barça Atletic 1990年改名为巴塞隆拿B隊，本2008年改回叫[Barça Atl
 <td><p><a href="https://zh.wikipedia.org/wiki/NAC布雷達" title="wikilink">布雷達U</a>21</p></td>
 <td><p>自由轉會</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><font color="white"><strong>中　場</strong></p></td>
 <td></td>
 <td></td>
@@ -220,7 +210,7 @@ Barça Atletic 1990年改名为巴塞隆拿B隊，本2008年改回叫[Barça Atl
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>-</strong></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/:en:_Ferrán_Sarsanedas" title="wikilink">薩爾薩內達斯</a>（Ferrán Sarsanedas）<a href="https://zh.wikipedia.org/wiki/File:Captain_sports.svg" title="fig:Captain_sports.svg">Captain_sports.svg</a> <a href="https://zh.wikipedia.org/wiki/File:Cruz_Roja.svg" title="fig:Cruz_Roja.svg">Cruz_Roja.svg</a></p></td>
@@ -230,7 +220,7 @@ Barça Atletic 1990年改名为巴塞隆拿B隊，本2008年改回叫[Barça Atl
 <td><p>青年隊</p></td>
 <td><p>不適用</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>-</strong></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/:en:Monchu" title="wikilink">蒙祖</a>（Monchu）</p></td>
@@ -240,7 +230,7 @@ Barça Atletic 1990年改名为巴塞隆拿B隊，本2008年改回叫[Barça Atl
 <td><p>青年隊</p></td>
 <td><p>不適用</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>-</strong></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/:en:Álex_Collado" title="wikilink">卡拉多</a>（Álex Collado）</p></td>
@@ -250,7 +240,7 @@ Barça Atletic 1990年改名为巴塞隆拿B隊，本2008年改回叫[Barça Atl
 <td><p>青年隊</p></td>
 <td><p>不適用</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>-</strong></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/:en:Riqui_Puig" title="wikilink">里奇·普易赫</a>（Riqui Puig）</p></td>
@@ -260,27 +250,7 @@ Barça Atletic 1990年改名为巴塞隆拿B隊，本2008年改回叫[Barça Atl
 <td><p>青年隊</p></td>
 <td><p>不適用</p></td>
 </tr>
-<tr class="odd">
-<td><p><strong>-</strong></p></td>
-<td></td>
-<td><p><a href="../Page/奧里奧·布斯克茲.md" title="wikilink">奧里奧·布斯克茲</a>（Oriol Busquets）</p></td>
-<td><p>防守中場</p></td>
-<td></td>
-<td><p>2017年</p></td>
-<td><p>青年隊</p></td>
-<td><p>不適用</p></td>
-</tr>
 <tr class="even">
-<td><p><strong>-</strong></p></td>
-<td></td>
-<td><p>法蒂（Braima Fati）</p></td>
-<td><p>正中場</p></td>
-<td></td>
-<td><p>2017年</p></td>
-<td><p>青年隊</p></td>
-<td><p>不適用</p></td>
-</tr>
-<tr class="odd">
 <td><p><strong>-</strong></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/:en:_Marcus_McGuane" title="wikilink">麥克關恩</a>（Marcus McGuane）</p></td>
@@ -290,7 +260,7 @@ Barça Atletic 1990年改名为巴塞隆拿B隊，本2008年改回叫[Barça Atl
 <td><p><a href="https://zh.wikipedia.org/wiki/阿森納" title="wikilink">阿森納青年隊</a></p></td>
 <td><p>未透露</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>-</strong></p></td>
 <td></td>
 <td><p><strong>卡巴西（Labinot Kabashi）</strong></p></td>
@@ -300,7 +270,7 @@ Barça Atletic 1990年改名为巴塞隆拿B隊，本2008年改回叫[Barça Atl
 <td><p>青年隊</p></td>
 <td><p>不適用</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>-</strong></p></td>
 <td></td>
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/:en:Ludovit_Reis" title="wikilink">盧多維特·雷斯</a>（Ludovit Reis）</strong></p></td>
@@ -310,7 +280,7 @@ Barça Atletic 1990年改名为巴塞隆拿B隊，本2008年改回叫[Barça Atl
 <td><p><a href="https://zh.wikipedia.org/wiki/格羅寧根足球俱樂部" title="wikilink">格羅寧根</a></p></td>
 <td><p>325萬歐元</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><font color="white"><strong>前　鋒</strong></p></td>
 <td></td>
 <td></td>
@@ -320,7 +290,7 @@ Barça Atletic 1990年改名为巴塞隆拿B隊，本2008年改回叫[Barça Atl
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>-</strong></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/:en:Kike_Saverio" title="wikilink">薩維里奧</a>（Kike Saverio）</p></td>
@@ -330,7 +300,7 @@ Barça Atletic 1990年改名为巴塞隆拿B隊，本2008年改回叫[Barça Atl
 <td><p>青年隊</p></td>
 <td><p>不適用</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>-</strong></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/:en:_Abel_Ruiz" title="wikilink">路易茲</a>（Abel Ruiz）</p></td>
@@ -340,7 +310,7 @@ Barça Atletic 1990年改名为巴塞隆拿B隊，本2008年改回叫[Barça Atl
 <td><p>青年隊</p></td>
 <td><p>不適用</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>-</strong></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/:en:_Carles_Pérez" title="wikilink">佩雷茲</a>（Carles Pérez）</p></td>
@@ -350,7 +320,7 @@ Barça Atletic 1990年改名为巴塞隆拿B隊，本2008年改回叫[Barça Atl
 <td><p>青年隊</p></td>
 <td><p>不適用</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>-</strong></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/:en:_Gabriel_Novaes" title="wikilink">諾瓦埃斯</a>（Gabriel Novaes）</p></td>
@@ -360,7 +330,7 @@ Barça Atletic 1990年改名为巴塞隆拿B隊，本2008年改回叫[Barça Atl
 <td><p><a href="https://zh.wikipedia.org/wiki/聖保羅足球俱樂部" title="wikilink">聖保羅B隊</a></p></td>
 <td><p>租借</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>-</strong></p></td>
 <td></td>
 <td><p><strong>佩克（Peque）</strong></p></td>
@@ -370,7 +340,7 @@ Barça Atletic 1990年改名为巴塞隆拿B隊，本2008年改回叫[Barça Atl
 <td><p>青年隊</p></td>
 <td><p>不適用</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>-</strong></p></td>
 <td></td>
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/:en:Alejandro_Marqués" title="wikilink">馬奎斯</a>（Alejandro Marqués）</strong></p></td>
@@ -380,7 +350,7 @@ Barça Atletic 1990年改名为巴塞隆拿B隊，本2008年改回叫[Barça Atl
 <td><p>青年隊</p></td>
 <td><p>不適用</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>-</strong></p></td>
 <td></td>
 <td><p><strong><a href="../Page/安部裕葵.md" title="wikilink">安部裕葵</a>（Hiroki Abe）</strong></p></td>
@@ -390,7 +360,7 @@ Barça Atletic 1990年改名为巴塞隆拿B隊，本2008年改回叫[Barça Atl
 <td><p><a href="../Page/鹿島鹿角.md" title="wikilink">鹿島鹿角</a></p></td>
 <td><p>110萬歐元</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -446,6 +416,26 @@ Barça Atletic 1990年改名为巴塞隆拿B隊，本2008年改回叫[Barça Atl
 <tr class="even">
 <td><p><strong>-</strong></p></td>
 <td></td>
+<td><p><a href="../Page/奧里奧·布斯克茲.md" title="wikilink">奧里奧·布斯克茲</a>（Oriol Busquets）</p></td>
+<td><p>防守中場</p></td>
+<td></td>
+<td><p>2017年</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/特溫特足球俱樂部" title="wikilink">屯特</a></p></td>
+<td><p>2019/20球季</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>-</strong></p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/:en:_Juan_Miranda(footballer)" title="wikilink">米蘭達</a>（Juan Miranda）</p></td>
+<td><p>左後衛</p></td>
+<td></td>
+<td><p>2017年</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/沙爾克04足球俱樂部" title="wikilink">沙爾克</a></p></td>
+<td><p>2019/21球季</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>-</strong></p></td>
+<td></td>
 <td><p>德維加（Lucas de Vega）</p></td>
 <td><p>正中場</p></td>
 <td></td>
@@ -456,6 +446,16 @@ Barça Atletic 1990年改名为巴塞隆拿B隊，本2008年改回叫[Barça Atl
 <tr class="odd">
 <td><p><strong>-</strong></p></td>
 <td></td>
+<td><p>法蒂（Braima Fati）</p></td>
+<td><p>正中場</p></td>
+<td></td>
+<td><p>2017年</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/卡拉奧拉體育俱樂部" title="wikilink">卡拉奧拉</a></p></td>
+<td><p>2019/20球季</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>-</strong></p></td>
+<td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/:en:_Ballou_Tabla" title="wikilink">塔布拉</a>（Ballou Tabla）</p></td>
 <td><p>左翼</p></td>
 <td></td>
@@ -463,7 +463,7 @@ Barça Atletic 1990年改名为巴塞隆拿B隊，本2008年改回叫[Barça Atl
 <td><p><a href="https://zh.wikipedia.org/wiki/阿爾巴塞特足球俱樂部" title="wikilink">阿爾巴塞特B隊</a></p></td>
 <td><p>2019/20球季</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -609,7 +609,7 @@ Barça Atletic 1990年改名为巴塞隆拿B隊，本2008年改回叫[Barça Atl
 <td><p>正中場</p></td>
 <td></td>
 <td><p>2017年</p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/吉羅納足球俱樂部" title="wikilink">吉羅納</a></p></td>
 <td><p>自由轉會</p></td>
 </tr>
 <tr class="even">

@@ -1,4 +1,4 @@
-**T.M.Revolution**，又常縮寫為**T.M.R**，是[日本](../Page/日本.md "wikilink")歌手[西川贵教](../Page/西川贵教.md "wikilink")的个人音樂-{zh-tw:計畫;zh-cn:项目}-（或可視為是一個個人樂團）。1996年5月，西川贵教以“T.M.Revolution”之名推出首张单曲《独裁-monopoliz-》正式出道。[浅仓大介为制作人](https://zh.wikipedia.org/wiki/浅仓大介 "wikilink")。后转入[Epic Records Japan后](https://zh.wikipedia.org/wiki/Epic_Records_Japan "wikilink")，制作人改为西川贵教，但浅仓仍然负责歌曲的作曲与大部分歌曲的编曲。
+**T.M.Revolution**，又常縮寫為**T.M.R**，是[日本](../Page/日本.md "wikilink")歌手[西川贵教](../Page/西川贵教.md "wikilink")的个人音樂-{zh-tw:計畫;zh-cn:项目}-（或可視為是一個）。1996年5月，西川贵教以“T.M.Revolution”之名推出首张单曲《独裁-monopoliz-》正式出道。[浅仓大介为制作人](https://zh.wikipedia.org/wiki/浅仓大介 "wikilink")。后转入[Epic Records Japan后](https://zh.wikipedia.org/wiki/Epic_Records_Japan "wikilink")，制作人改为西川贵教，但浅仓仍然负责歌曲的作曲与大部分歌曲的编曲。
 
 T.M.R的曲子大部分为编排复杂的电子摇滚曲风，再加上西川贵教极具爆发力的嗓音和充满视觉冲击的服装，成为了T.M.R的标志。发行了许多脍炙人口的歌曲。现已发行了25张单曲和9张原创专辑，并且都在日本公信榜上取得了不错的成绩。
 

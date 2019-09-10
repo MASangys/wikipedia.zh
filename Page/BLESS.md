@@ -15,7 +15,7 @@
 1.  **BLESS** / L'Arc〜en〜Ciel
       -
         作詞、作曲：[hyde](https://zh.wikipedia.org/wiki/hyde "wikilink")；編曲：L'Arc〜en〜Ciel & [Hajime Okano](https://zh.wikipedia.org/wiki/Hajime_Okano "wikilink") & [Daisaku Kume](https://zh.wikipedia.org/wiki/久米_大作 "wikilink")
-        [NHK轉播](https://zh.wikipedia.org/wiki/NHK "wikilink")[2010年冬季奧林匹克運動會和](https://zh.wikipedia.org/wiki/2010年冬季奧林匹克運動會 "wikilink")[2010年冬季帕拉林匹克運動會的](https://zh.wikipedia.org/wiki/2010年冬季帕拉林匹克運動會 "wikilink")[主題曲](../Page/主題曲.md "wikilink")
+        [NHK轉播](https://zh.wikipedia.org/wiki/NHK "wikilink")[2010年冬季奧林匹克運動會和](https://zh.wikipedia.org/wiki/2010年冬季奧林匹克運動會 "wikilink")[2010年冬季帕拉林匹克運動會](../Page/2010年冬季帕拉林匹克運動會.md "wikilink")的[主題曲](../Page/主題曲.md "wikilink")
 2.  **BLESS -Concerto-** / L'Arc〜en〜Ciel
       -
         作曲：[hyde](https://zh.wikipedia.org/wiki/hyde "wikilink")；編曲：編曲:L'Arc〜en〜Ciel & Hajime Okano & Daisaku Kume

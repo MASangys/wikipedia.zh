@@ -193,7 +193,7 @@
 
 {{-}}
 
-[Category:科幻小说](https://zh.wikipedia.org/wiki/Category:科幻小说 "wikilink") [Category:2010年书籍](https://zh.wikipedia.org/wiki/Category:2010年书籍 "wikilink") [Category:三体](https://zh.wikipedia.org/wiki/Category:三体 "wikilink")
+[Category:科幻小说](https://zh.wikipedia.org/wiki/Category:科幻小说 "wikilink") [Category:2010年书籍](https://zh.wikipedia.org/wiki/Category:2010年书籍 "wikilink") [Category:三体](https://zh.wikipedia.org/wiki/Category:三体 "wikilink") [Category:虚构作品中的人体冷冻技术](https://zh.wikipedia.org/wiki/Category:虚构作品中的人体冷冻技术 "wikilink")
 
 1.
 2.

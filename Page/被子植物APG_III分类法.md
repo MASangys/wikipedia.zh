@@ -10,7 +10,7 @@ APG III所承认的科共有415个，有许多小型科被合并，早前被建�
 
 和[APG II相比](https://zh.wikipedia.org/wiki/APG_II "wikilink")，APG III被子植物之中许多类群的关系已经获得进一步理清，地位未定的[科从早前的](https://zh.wikipedia.org/wiki/科_\(生物\) "wikilink")39科大幅减少到10科，即[离花科](../Page/离花科.md "wikilink")、[锁阳科](https://zh.wikipedia.org/wiki/锁阳科 "wikilink")、[多鬚草科](../Page/多鬚草科.md "wikilink")、[清风藤科](../Page/清风藤科.md "wikilink")、[五桠果科](../Page/五桠果科.md "wikilink")、[紫草科](../Page/紫草科.md "wikilink")、[二歧草科](https://zh.wikipedia.org/wiki/二歧草科 "wikilink")、[茶茱萸科](../Page/茶茱萸科.md "wikilink")、[管花木科及](https://zh.wikipedia.org/wiki/管花木科 "wikilink")[五蕊茶科](https://zh.wikipedia.org/wiki/五蕊茶科 "wikilink")。这10科中有8科的位置也已经大致确定，只有[离花科](../Page/离花科.md "wikilink")及[锁阳科未有归属](https://zh.wikipedia.org/wiki/锁阳科 "wikilink")。
 
-此外，还有3个[属的地位未定](https://zh.wikipedia.org/wiki/属 "wikilink")，即*Gumillea*、*Nicobariodendron*及*Petenaea*；其中*Nicobariodendron*及*Petenaea*是首次在此列出。
+此外，还有3个[属](../Page/属.md "wikilink")的地位未定，即*Gumillea*、*Nicobariodendron*及*Petenaea*；其中*Nicobariodendron*及*Petenaea*是首次在此列出。
 
 ## 分类概要
 
@@ -325,7 +325,7 @@ APG III所承认的科共有415个，有许多小型科被合并，早前被建�
       - [露叶毛毡苔科](../Page/露叶毛毡苔科.md "wikilink") Drosophyllaceae [Chrtek](https://zh.wikipedia.org/wiki/Chrtek "wikilink"), [Slavíková](https://zh.wikipedia.org/wiki/Slavíková "wikilink") & [Studnicˇka](https://zh.wikipedia.org/wiki/Studnicˇka "wikilink") (1989)
       - [瓣鳞花科](../Page/瓣鳞花科.md "wikilink") Frankeniaceae [Desv.](https://zh.wikipedia.org/wiki/Desv. "wikilink") (1817), nom. cons.
       - [吉粟草科](https://zh.wikipedia.org/wiki/吉粟草科 "wikilink") Gisekiaceae [Nakai](https://zh.wikipedia.org/wiki/Nakai "wikilink") (1942)
-      - [浜藜叶科](https://zh.wikipedia.org/wiki/浜藜叶科 "wikilink") Halophytaceae [A.Soriano](https://zh.wikipedia.org/wiki/A.Soriano "wikilink") (1984)
+      - [浜藜叶科](../Page/浜藜叶科.md "wikilink") Halophytaceae [A.Soriano](https://zh.wikipedia.org/wiki/A.Soriano "wikilink") (1984)
       - \*[粟麦草科](https://zh.wikipedia.org/wiki/粟麦草科 "wikilink") Limeaceae [Shipunov](https://zh.wikipedia.org/wiki/Shipunov "wikilink") ex [Reveal](https://zh.wikipedia.org/wiki/Reveal "wikilink") (2005)
       - \*[南商陆科](https://zh.wikipedia.org/wiki/南商陆科 "wikilink") Lophiocarpaceae [Doweld](https://zh.wikipedia.org/wiki/Doweld "wikilink") & [Reveal](https://zh.wikipedia.org/wiki/Reveal "wikilink") (2008)
       - §[粟米草科](../Page/粟米草科.md "wikilink") Molluginaceae [Bartl.](https://zh.wikipedia.org/wiki/Bartl. "wikilink") (1825), nom. cons.
@@ -360,7 +360,7 @@ APG III所承认的科共有415个，有许多小型科被合并，早前被建�
   - [酢浆草目](../Page/酢浆草目.md "wikilink") Oxalidales [Bercht.](https://zh.wikipedia.org/wiki/Bercht. "wikilink") & [J.Presl](https://zh.wikipedia.org/wiki/J.Presl "wikilink") (1820)
       - [瓣裂果科](https://zh.wikipedia.org/wiki/瓣裂果科 "wikilink") Brunelliaceae [Engl.](https://zh.wikipedia.org/wiki/Engl. "wikilink") (1897), nom. cons.
       - [土瓶草科](https://zh.wikipedia.org/wiki/土瓶草科 "wikilink") Cephalotaceae [Dumort.](https://zh.wikipedia.org/wiki/Dumort. "wikilink") (1829), nom. cons.
-      - [牛栓藤科](https://zh.wikipedia.org/wiki/牛栓藤科 "wikilink") Connaraceae [R.Br.](https://zh.wikipedia.org/wiki/R.Br. "wikilink") (1818), nom. cons.
+      - [牛栓藤科](../Page/牛栓藤科.md "wikilink") Connaraceae [R.Br.](https://zh.wikipedia.org/wiki/R.Br. "wikilink") (1818), nom. cons.
       - [火把树科](../Page/火把树科.md "wikilink") Cunoniaceae [R.Br.](https://zh.wikipedia.org/wiki/R.Br. "wikilink") (1814), nom. cons.
       - [杜英科](../Page/杜英科.md "wikilink") Elaeocarpaceae [Juss.](https://zh.wikipedia.org/wiki/Juss. "wikilink") ex [DC.](https://zh.wikipedia.org/wiki/DC. "wikilink") (1816), nom. cons.
       - \*[蒜树科](https://zh.wikipedia.org/wiki/蒜树科 "wikilink") Huaceae [A.Chev.](https://zh.wikipedia.org/wiki/A.Chev. "wikilink") (1947)
@@ -528,7 +528,7 @@ APG III所承认的科共有415个，有许多小型科被合并，早前被建�
       - [花荵科](../Page/花荵科.md "wikilink") Polemoniaceae [Juss.](https://zh.wikipedia.org/wiki/Juss. "wikilink") (1789), nom. cons.
       - §[报春花科](../Page/报春花科.md "wikilink") Primulaceae [Batsch](https://zh.wikipedia.org/wiki/Batsch "wikilink") ex [Borkh.](https://zh.wikipedia.org/wiki/Borkh. "wikilink") (1797), nom. cons.（包含[杜茎山科](../Page/杜茎山科.md "wikilink") Maesaceae [Anderb.](https://zh.wikipedia.org/wiki/Anderb. "wikilink")、[B.Ståhl](https://zh.wikipedia.org/wiki/B.Ståhl "wikilink") & [Källersjö](https://zh.wikipedia.org/wiki/Källersjö "wikilink")、[紫金牛科](../Page/紫金牛科.md "wikilink") Myrsinaceae [R.Br.](https://zh.wikipedia.org/wiki/R.Br. "wikilink"), nom. cons.、[假轮叶科](../Page/假轮叶科.md "wikilink") Theophrastaceae [G.Don](https://zh.wikipedia.org/wiki/G.Don "wikilink"), nom. cons.）
       - [捕蝇幌科](../Page/捕蝇幌科.md "wikilink") Roridulaceae [Martinov](https://zh.wikipedia.org/wiki/Martinov "wikilink") (1820), nom. cons.
-      - [山榄科](https://zh.wikipedia.org/wiki/山榄科 "wikilink") Sapotaceae [Juss.](https://zh.wikipedia.org/wiki/Juss. "wikilink") (1789), nom. cons.
+      - [山榄科](../Page/山榄科.md "wikilink") Sapotaceae [Juss.](https://zh.wikipedia.org/wiki/Juss. "wikilink") (1789), nom. cons.
       - [瓶子草科](../Page/瓶子草科.md "wikilink") Sarraceniaceae [Dumort.](https://zh.wikipedia.org/wiki/Dumort. "wikilink") (1829), nom. cons.
       - $$[肋果茶科](../Page/肋果茶科.md "wikilink") Sladeniaceae [Airy Shaw](https://zh.wikipedia.org/wiki/Airy_Shaw "wikilink") (1965)
       - [野茉莉科](../Page/野茉莉科.md "wikilink") Styracaceae [DC.](https://zh.wikipedia.org/wiki/DC. "wikilink") & [Spreng.](https://zh.wikipedia.org/wiki/Spreng. "wikilink") (1821), nom. cons.
@@ -624,7 +624,7 @@ APG III所承认的科共有415个，有许多小型科被合并，早前被建�
 
 ### 地位未定 *incertae sedis*
 
-  - [离花科](../Page/离花科.md "wikilink") Apodanthaceae [Takhtajan](https://zh.wikipedia.org/wiki/Takhtajan "wikilink")（共三[属](https://zh.wikipedia.org/wiki/属 "wikilink")，2010年的分子系统学研究证明本科属于葫芦目\[2\]。）
+  - [离花科](../Page/离花科.md "wikilink") Apodanthaceae [Takhtajan](https://zh.wikipedia.org/wiki/Takhtajan "wikilink")（共三[属](../Page/属.md "wikilink")，2010年的分子系统学研究证明本科属于葫芦目\[2\]。）
   - [锁阳科](https://zh.wikipedia.org/wiki/锁阳科 "wikilink") Cynomoriaceae [Endl.](https://zh.wikipedia.org/wiki/Endl. "wikilink") ex [Lindl.](https://zh.wikipedia.org/wiki/Lindl. "wikilink") (1833), nom. cons.（今屬[虎耳草目](../Page/虎耳草目.md "wikilink")）
   - [胶蘼属](https://zh.wikipedia.org/wiki/胶蘼属 "wikilink")*Gumillea* [Ruiz](https://zh.wikipedia.org/wiki/Ruiz "wikilink") & [Pav.](https://zh.wikipedia.org/wiki/Pav. "wikilink")
   - [枇藤属](https://zh.wikipedia.org/wiki/枇藤属 "wikilink")*Petenaea* [Lundell](https://zh.wikipedia.org/wiki/Lundell "wikilink")（可能属于[锦葵目](../Page/锦葵目.md "wikilink")）

@@ -50,7 +50,7 @@ ICC色彩特性文件的规范目前正作为[ISO](https://zh.wikipedia.org/wiki
   - [PostScript](../Page/PostScript.md "wikilink")语言（[Adobe](../Page/Adobe.md "wikilink")公司发行的EPS文件格式）
   - [PDF](https://zh.wikipedia.org/wiki/PDF "wikilink")（Adobe公司发行的文件格式）
   - [JDF](https://zh.wikipedia.org/wiki/JDF "wikilink")（CIP4联合会发行的工作定义文件格式）
-  - [SVG](https://zh.wikipedia.org/wiki/SVG "wikilink")（W3C发行的文件格式 <http://www.w3.org/TR/SVG>）
+  - [SVG](https://zh.wikipedia.org/wiki/SVG "wikilink")（W3C发行的文件格式 <http://www.w3.org/TR/SVG/>
   - [SWOP](https://zh.wikipedia.org/wiki/SWOP "wikilink")（用于CMYK印刷的规范，广泛用于北美）
 
 ## 参见

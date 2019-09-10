@@ -14,7 +14,7 @@
 
 </div>
 
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:1989年音樂專輯](https://zh.wikipedia.org/wiki/Category:1989年音樂專輯 "wikilink") [Category:張國榮音樂專輯](https://zh.wikipedia.org/wiki/Category:張國榮音樂專輯 "wikilink") [Category:新艺宝唱片音乐专辑](https://zh.wikipedia.org/wiki/Category:新艺宝唱片音乐专辑 "wikilink")
+[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:香港流行音乐专辑](https://zh.wikipedia.org/wiki/Category:香港流行音乐专辑 "wikilink") [Category:1989年音樂專輯](https://zh.wikipedia.org/wiki/Category:1989年音樂專輯 "wikilink") [Category:張國榮音樂專輯](https://zh.wikipedia.org/wiki/Category:張國榮音樂專輯 "wikilink") [Category:新艺宝唱片音乐专辑](https://zh.wikipedia.org/wiki/Category:新艺宝唱片音乐专辑 "wikilink")
 
 1.  [1](https://www.discogs.com/Leslie-Cheung-Leslie-%E5%81%B4%E9%9D%A2/release/10082607)
 2.  [2](https://itunes.apple.com/hk/album/%E5%BE%A9%E9%BB%91%E7%8E%8B-leslie/216592788)

@@ -10,7 +10,7 @@
 
 ## 参见
 
-  - [AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")
+  - [AVX](../Page/AVX指令集.md "wikilink")
   - [SSSE3](../Page/SSSE3.md "wikilink")
   - [SSE](../Page/SSE.md "wikilink")
 

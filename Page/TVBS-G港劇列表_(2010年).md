@@ -92,7 +92,7 @@ D.I.E. Again</p></td>
 <td style="text-align: center;"><p><a href="../Page/烈火雄心3.md" title="wikilink">烈火雄心3</a><br />
 Burning Flame III</p></td>
 <td style="text-align: center;"><p>32</p></td>
-<td style="text-align: center;"><p><a href="../Page/鄭嘉穎.md" title="wikilink">鄭嘉穎</a>、<a href="https://zh.wikipedia.org/wiki/王喜" title="wikilink">王　喜</a>、<a href="https://zh.wikipedia.org/wiki/黃宗澤" title="wikilink">黃宗澤</a>、<br />
+<td style="text-align: center;"><p><a href="../Page/鄭嘉穎.md" title="wikilink">鄭嘉穎</a>、<a href="../Page/王喜.md" title="wikilink">王　喜</a>、<a href="https://zh.wikipedia.org/wiki/黃宗澤" title="wikilink">黃宗澤</a>、<br />
 <a href="../Page/胡杏兒.md" title="wikilink">胡杏兒</a>、<a href="../Page/陳茵媺.md" title="wikilink">陳茵媺</a>、<a href="https://zh.wikipedia.org/wiki/姚子羚" title="wikilink">姚子羚</a>、<br />
 <a href="https://zh.wikipedia.org/wiki/陳展鵬" title="wikilink">陳展鵬</a>、<a href="../Page/黃嘉樂.md" title="wikilink">黃嘉樂</a>、<a href="../Page/高鈞賢.md" title="wikilink">高鈞賢</a>、<br />
 <a href="../Page/李雨陽.md" title="wikilink">李雨陽</a>、<a href="../Page/陳宇琛.md" title="wikilink">陳宇琛</a></p></td>

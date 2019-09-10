@@ -2,7 +2,7 @@
 
 遊戲二代《[無雙OROCHI 2](../Page/無雙OROCHI_2.md "wikilink")》是以《[真·三國無雙6](../Page/真·三國無雙6.md "wikilink")》、《[戰國無雙3](https://zh.wikipedia.org/wiki/戰國無雙3 "wikilink")》與該系列未登場的可操作角色、《[忍者外傳](https://zh.wikipedia.org/wiki/忍者外傳 "wikilink")》系列、《[生死格鬥](https://zh.wikipedia.org/wiki/生死格鬥 "wikilink")》系列、《[魔獸戰士ZERO](https://zh.wikipedia.org/wiki/魔獸戰士ZERO "wikilink")》、《[長劍風暴：百年戰爭](../Page/長劍風暴：百年戰爭.md "wikilink")》、《[特洛伊無雙](../Page/特洛伊無雙.md "wikilink")》、《[鍊金術士系列](../Page/鍊金術士系列.md "wikilink")》、《[劍魂](https://zh.wikipedia.org/wiki/劍魂 "wikilink")》系列等代表角色以及本作的原創角色同場演出一往返時空的激戰，先後推出有《無雙OROCHI 2》、《無雙OROCHI 2 Special》《無雙OROCHI 2 Hyper》、《無雙OROCHI 2 Ultimate》多个版本。
 
-遊戲三代《[無雙OROCHI 3](../Page/無雙OROCHI_蛇魔_3.md "wikilink")》是以《[真·三國無雙7](../Page/真·三國無雙7.md "wikilink")》、《[戰國無雙4](../Page/戰國無雙4.md "wikilink")》與該系列未登場的可操作角色與5位新增的角色。
+遊戲三代《[無雙OROCHI 3](../Page/無雙OROCHI_蛇魔_3.md "wikilink")》是以《[真·三國無雙7](../Page/真·三國無雙7.md "wikilink")》、《[戰國無雙4](../Page/戰國無雙4.md "wikilink")》與該系列未登場的可操作角色與5位新增的角色。在2019年12月要推出《無雙OROCHI 3 Ultimate》
 
 ## 歷代作品
 
@@ -115,10 +115,22 @@ steam</p></td>
 <td><p>XBOX ONE版无亚洲版</p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>無雙OROCHI 3 Ultimate / Warriors Orochi 4 Ultimate</p></td>
+<td><p>PS4<br />
+Switch<br />
+<a href="https://zh.wikipedia.org/wiki/steam" title="wikilink">steam</a></p></td>
+<td><p>預計2019年12月（PS4、Switch）<br />
+預計2020年2月（steam）</p></td>
+<td><p>如有先購買無雙OROCHI 3 本體，只要買這大型dlc之後就能版本升級，不用特別在花一大筆錢再買一個所有整體遊戲，這也是首次不用額外再買一個整體版本的遊戲。<br />
+追加新神器。<br />
+追加无双乱舞和同伴的协同技“无双开关联动”3个人将陆续释放乱舞奥义。<br />
+改善故事以及角色的易用性。<br />
+改变UI界面。<br />
+追加大量支线故事。<br />
+确定固有神术。<br />
+挑战模式以及其阿诺的收费DLC收录。<br />
+会继承前作的存储数据。<br />
+其他更多新要素。</p></td>
 <td></td>
 </tr>
 </tbody>

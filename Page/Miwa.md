@@ -74,6 +74,10 @@ miwa在高中三年級時跟[日本索尼音樂娛樂](../Page/日本索尼音�
 
 5月24日發行第22張單曲「シャイニー」，作為日本地區[爽健美茶](../Page/爽健美茶.md "wikilink")的廣告曲。
 
+#### 婚姻
+
+2019年9月1日，宣佈和日本男子游泳運動員[萩野公介](../Page/萩野公介.md "wikilink")結婚。同時證實已有身孕。
+
 ## 作品
 
 ### 單曲
@@ -385,7 +389,7 @@ miwa yade! miwa dagah! miwa dayo!</p></td>
   - [官方網誌](http://ameblo.jp/miwa-guitar)
   - [官方LINE BLOG](http://lineblog.me/miwa/)（2016年4月7日─）
 
-[Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink") [Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:日本吉他手](https://zh.wikipedia.org/wiki/Category:日本吉他手 "wikilink") [Category:日本流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日本流行音樂歌手 "wikilink") [Category:神奈川縣出身人物](https://zh.wikipedia.org/wiki/Category:神奈川縣出身人物 "wikilink") [Category:慶應義塾大學校友](https://zh.wikipedia.org/wiki/Category:慶應義塾大學校友 "wikilink") [Category:日本索尼音樂娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂旗下藝人 "wikilink")
+[Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink") [Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:日本女性搖滾歌手](https://zh.wikipedia.org/wiki/Category:日本女性搖滾歌手 "wikilink") [Category:日本吉他手](https://zh.wikipedia.org/wiki/Category:日本吉他手 "wikilink") [Category:日本流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日本流行音樂歌手 "wikilink") [Category:神奈川縣出身人物](https://zh.wikipedia.org/wiki/Category:神奈川縣出身人物 "wikilink") [Category:慶應義塾大學校友](https://zh.wikipedia.org/wiki/Category:慶應義塾大學校友 "wikilink") [Category:日本索尼音樂娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂旗下藝人 "wikilink")
 
 1.
 2.

@@ -164,8 +164,8 @@ Evernote支持多个平台，还有便携式版本的Evernote可用于隨身碟�
 
 Evernote的一些第三方客户端：
 
-  - NixNote：一个开源，跨平台的Java编写的Evernote虚拟机，在任何可以运行[Java虚拟机](../Page/Java虚拟机.md "wikilink")的平台都可使用\[13\]。
-  - People's Note：支持离线存储\[14\]。
+  - NixNote：一个开源，跨平台的Java编写的Evernote虚拟机，在任何可以运行[Java虚拟机](../Page/Java虚拟机.md "wikilink")的平台都可使用\[13\]
+  - People's Note：支持离线存储\[14\]
   - Ploze \[15\]
   - EverMemo \[16\]
 

@@ -31,6 +31,23 @@ PlayStation 3本机操作系统被称作“Cell OS”，据信是建基于 [Free
 </thead>
 <tbody>
 <tr class="odd">
+<td><p><strong>4.85</strong><br />
+<br />
+</p></td>
+<td><p><span id="2019"></span></p>
+<dl>
+<dt>系统</dt>
+
+</dl>
+<ul>
+<li>系统的稳定性得到了提高。</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><strong>4.84</strong><br />
 <br />
 </p></td>

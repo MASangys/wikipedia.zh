@@ -37,7 +37,7 @@
 
 **2012-2013年球季預定加入之新球隊：**
 
-  - [群馬雷鶴](https://zh.wikipedia.org/wiki/群馬雷鶴 "wikilink") ([群馬縣](../Page/群馬縣.md "wikilink") - [伊勢崎市](https://zh.wikipedia.org/wiki/伊勢崎市 "wikilink"))
+  - [群馬雷鶴](https://zh.wikipedia.org/wiki/群馬雷鶴 "wikilink") ([群馬縣](../Page/群馬縣.md "wikilink") - [伊勢崎市](../Page/伊勢崎市.md "wikilink"))
   - [東京五夢](https://zh.wikipedia.org/wiki/東京五夢 "wikilink") ([東京都](../Page/東京都.md "wikilink") - [調布市](../Page/調布市.md "wikilink")) (註:原東京阿帕契)
 
 日本BJ職籃聯盟計畫在聯盟創建10週年，2014-15年賽季將規模擴大到24支球隊，長遠目標則希望擴張到47支球隊。預計加入的隊伍有：

@@ -1,9 +1,9 @@
 [尹普美](../Page/尹普美.md "wikilink"){{·}}[鄭恩地](../Page/鄭恩地.md "wikilink")
 [孫娜恩](../Page/孫娜恩.md "wikilink"){{·}}[金南珠](../Page/金南珠_\(歌手\).md "wikilink"){{·}}[吳夏榮](../Page/吳夏榮.md "wikilink") | 過往成員 = [洪瑜暻](../Page/洪瑜暻.md "wikilink") | 獎項 =  }}
 
-**Apink**（；；）是於2011年成立的[韓國女子組合](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")，最初由7名成員組成，現任成員為[朴初瓏](../Page/朴初瓏.md "wikilink")、[尹普美](../Page/尹普美.md "wikilink")、[鄭恩地](../Page/鄭恩地.md "wikilink")、[孫娜恩](../Page/孫娜恩.md "wikilink")、[金南珠和](../Page/金南珠_\(歌手\).md "wikilink")[吳夏榮](../Page/吳夏榮.md "wikilink")。Apink是[Plan A娛樂](../Page/Plan_A娛樂.md "wikilink")（以前稱「A Cube娛樂」）策劃的女子團體，後來公司被[LOEN娛樂於](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")2015年11月25日購入。於2014年推出企劃組合Apink BnN。
+**Apink**（；；）是於2011年成立的[韓國女子組合](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")，最初由7名成員組成，現任成員為[朴初瓏](../Page/朴初瓏.md "wikilink")、[尹普美](../Page/尹普美.md "wikilink")、[鄭恩地](../Page/鄭恩地.md "wikilink")、[孫娜恩](../Page/孫娜恩.md "wikilink")、[金南珠和](../Page/金南珠_\(歌手\).md "wikilink")[吳夏榮](../Page/吳夏榮.md "wikilink")。Apink是[Plan A娛樂](../Page/Plan_A娛樂.md "wikilink")（以前稱「A Cube娛樂」）策劃的女子團體，後來公司被[LOEN娛樂於](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")2015年11月25日購入。於2014年推出企劃組合Apink BnN。Plan A 娛樂於2019年與Fave 娛樂合併後改名為 Play M。
 
-團名取「Apink」是因為成員們希望在各方面都能獲得滿分（A），而且都喜歡粉紅色（pink）。與眾多偶像團體不同，各成員均使用其本名進行演藝活動，對此隊長朴初瓏表示：「從來沒有想過放棄父母給我取的名字。為本名賭上了自尊心，因此更加努力，趕快成長起來」。\[1\]官方歌迷會名稱為「Panda」，因Apink出道時的經理人的外貌酷似動畫《[功夫熊貓](https://zh.wikipedia.org/wiki/功夫熊貓 "wikilink")》中熊貓-{zh-hans:阿宝;zh-hant:阿寶;zh-tw:阿波}-一角而得名。
+團名取「Apink」是因為成員們希望在各方面都能獲得滿分（A），而且都喜歡粉紅色（pink）。與眾多偶像團體不同，各成員均使用其本名進行演藝活動，對此隊長朴初瓏表示：「從來沒有想過放棄父母給我取的名字。為本名賭上了自尊心，因此更加努力，趕快成長起來」。\[1\]官方歌迷會名稱為「Panda」，因Apink出道時的經理人的外貌酷似動畫《[功夫熊貓](https://zh.wikipedia.org/wiki/功夫熊貓 "wikilink")》中熊貓阿寶一角而得名。
 
 官方應援物為草莓牛奶色的熊貓手燈。官方應援色為草莓牛奶色（Strawberry Milk Pink）。
 
@@ -308,6 +308,8 @@ PlotData =
 | 2018年11月2日  |
 | 2018年11月15日 |
 | 2019年1月18日  |
+| 2019年7月14日  |
+| 2019年8月12日  |
 |             |
 
 ## 演出活動

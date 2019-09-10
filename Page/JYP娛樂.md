@@ -508,7 +508,7 @@ Wang Jia Yu</p></td>
 Wang Yang Yang</p></td>
 <td><p>山口真子<br />
 Yamaguchi Mako</p></td>
-<td><p>姚琛<br />
+<td><p><a href="../Page/姚琛.md" title="wikilink">姚琛</a><br />
 Yao Chen</p></td>
 <td><p>規焄<br />
 Gye Hun</p></td>
@@ -530,12 +530,9 @@ Cho Hye Won</p></td>
 Ok Jim Wook</p></td>
 <td><p>韓頤穎<br />
 Han Shin Young</p></td>
-<td><p><br />
-</p></td>
-<td><p><br />
-</p></td>
-<td><p><br />
-</p></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -651,7 +648,7 @@ Han Shin Young</p></td>
       - [任瑟雍](https://zh.wikipedia.org/wiki/任瑟雍 "wikilink")（2008 - 2015）
       - [鄭珍雲](https://zh.wikipedia.org/wiki/鄭珍雲 "wikilink")（2008 - 2015）
       - [趙權](../Page/趙權.md "wikilink")（2008 - 2017)
-  - [15&](https://zh.wikipedia.org/wiki/15& "wikilink")(2012 - 2019，15&解散。)
+  - [15&](https://zh.wikipedia.org/wiki/15& "wikilink") (2012 - 2019，宣布解散)
       - [朴智敏](../Page/朴智敏.md "wikilink")（2012 - 2019）
   - [全昭彌](https://zh.wikipedia.org/wiki/全昭彌 "wikilink")（2017 - 2018）
 
@@ -726,7 +723,7 @@ Han Shin Young</p></td>
   - [IM66](../Page/IM66.md "wikilink")
       - 鄭棋釋
       - 文太垠
-  - [KNK](https://zh.wikipedia.org/wiki/KNK "wikilink")
+  - [KNK](../Page/KNK.md "wikilink")
       - 朴\-{栖}-含
   - [MADTOWN](https://zh.wikipedia.org/wiki/MADTOWN "wikilink")
       - [宋在淏](https://zh.wikipedia.org/wiki/宋在淏 "wikilink")
@@ -773,7 +770,7 @@ Han Shin Young</p></td>
       - [朴初瓏](../Page/朴初瓏.md "wikilink")
       - [尹普美](../Page/尹普美.md "wikilink")
 
-  - [APRIL](https://zh.wikipedia.org/wiki/APRIL_\(女子團體\) "wikilink")
+  - [APRIL](../Page/APRIL_\(女子團體\).md "wikilink")
 
       - [李娜恩](../Page/李娜恩.md "wikilink")
 
@@ -1126,7 +1123,7 @@ Han Shin Young</p></td>
 
 39.
 
-40. <http://entertain.naver.com/read?oid=213&aid=0000942230&gid=999339&cid=1054686>
+40.
 
 41.
 

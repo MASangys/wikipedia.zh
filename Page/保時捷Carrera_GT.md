@@ -2,7 +2,7 @@
 
 ## 歷史
 
-保時捷Carrera GT的發展可以追溯到它的前代，[保時捷911 GT1](../Page/保時捷911_GT1.md "wikilink") 和 [LMP1-98](https://zh.wikipedia.org/wiki/:en:Porsche_WSC-95 "wikilink") [利曼](https://zh.wikipedia.org/wiki/利曼 "wikilink")[賽車](../Page/賽車.md "wikilink")。由於[ACO和](https://zh.wikipedia.org/wiki/:en:Automobile_Club_de_l'Ouest "wikilink")[FIA的賽事規則的在](https://zh.wikipedia.org/wiki/FIA "wikilink")1998年的更變，GT1和LMP1-98原來[渦輪增壓引擎的設計便受到很大的限制](https://zh.wikipedia.org/wiki/渦輪增壓 "wikilink")。原本在當時保時捷已設計好的1999年賽季的概念賽車，使用裝有渦輪增壓的水平對置6缸發動機，被改為了自然進氣的V10引擎。後來在2000年，保時捷對外發佈了這款新概念車。
+保時捷Carrera GT的發展可以追溯到它的前代，[保時捷911 GT1](../Page/保時捷911_GT1.md "wikilink") 和  [利曼](https://zh.wikipedia.org/wiki/利曼 "wikilink")[賽車](../Page/賽車.md "wikilink")。由於和[FIA的賽事規則的在](https://zh.wikipedia.org/wiki/FIA "wikilink")1998年的更變，GT1和LMP1-98原來[渦輪增壓引擎的設計便受到很大的限制](https://zh.wikipedia.org/wiki/渦輪增壓 "wikilink")。原本在當時保時捷已設計好的1999年賽季的概念賽車，使用裝有渦輪增壓的水平對置6缸發動機，被改為了自然進氣的V10引擎。後來在2000年，保時捷對外發佈了這款新概念車。
 
 這具V10引擎是保時捷在1992年設計的一具[一級方程式賽車引擎](https://zh.wikipedia.org/wiki/一級方程式賽車 "wikilink")，不過此後設計被擱置。後來為適應新的利曼賽事規則，此設計又再次被提出，並且新設計中引擎容積擴大至5.7公升。不幸的是，在1999年中，僅僅2天的試車后此引擎用於賽事的計劃被取消了。多數認為是保時捷當年要為保時捷的第一款[SUV](https://zh.wikipedia.org/wiki/SUV "wikilink")——[保時捷Cayenne](https://zh.wikipedia.org/wiki/保時捷Cayenne "wikilink") 的發展鋪路，需要從賽車部門中抽調大部份工程師。也有推測是由於[福士-奧迪集團的](https://zh.wikipedia.org/wiki/大众汽车 "wikilink")[主席](../Page/主席.md "wikilink")[斐迪南·皮耶決定讓](https://zh.wikipedia.org/wiki/斐迪南·皮耶 "wikilink")[奧迪R8利曼賽車出征利曼賽事](https://zh.wikipedia.org/wiki/奧迪R8利曼 "wikilink")，為避免同室操戈的情形出現，決定不讓保時捷出征利曼賽事。
 

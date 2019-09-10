@@ -2465,6 +2465,16 @@ Evan Call</p></td>
 福田佳太、稻熊一晃、宗圓祐輔</p></td>
 <td><p>藤本悟</p></td>
 </tr>
+<tr class="odd">
+<td><p>EPISODE 8</p></td>
+<td><p>XV</p></td>
+<td><p>XV</p></td>
+<td><p>平野宏樹</p></td>
+<td><p>大久保義之、宗圓祐輔<br />
+中島順、普津澤時魏門</p></td>
+<td><p>椛島洋介</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

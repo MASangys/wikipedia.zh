@@ -471,7 +471,7 @@ The Gem of Life</p></td>
 <td style="text-align: center;"><p>82</p></td>
 <td style="text-align: center;"><p><a href="../Page/蔡少芬.md" title="wikilink">蔡少芬</a>、<a href="../Page/黎姿.md" title="wikilink">黎　姿</a>、<a href="../Page/邵美琪.md" title="wikilink">邵美琪</a>、<br />
 <a href="../Page/林保怡.md" title="wikilink">林保怡</a>、<a href="../Page/陳豪.md" title="wikilink">陳　豪</a>、<a href="https://zh.wikipedia.org/wiki/黃宗澤" title="wikilink">黃宗澤</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/鍾嘉欣" title="wikilink">鍾嘉欣</a>、<a href="https://zh.wikipedia.org/wiki/王喜" title="wikilink">王　喜</a>、<a href="../Page/關禮傑.md" title="wikilink">關禮傑</a>、<br />
+<a href="https://zh.wikipedia.org/wiki/鍾嘉欣" title="wikilink">鍾嘉欣</a>、<a href="../Page/王喜.md" title="wikilink">王　喜</a>、<a href="../Page/關禮傑.md" title="wikilink">關禮傑</a>、<br />
 <a href="../Page/黃德斌.md" title="wikilink">黃德斌</a>、<a href="../Page/姜大衛.md" title="wikilink">-{姜}-大偉</a>、<a href="../Page/岳華.md" title="wikilink">岳　華</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/戚其義.md" title="wikilink">戚其義</a></p></td>
 <td style="text-align: center;"><p><a href="http://drama.tvb.com/thegemoflife/">網頁</a></p></td>

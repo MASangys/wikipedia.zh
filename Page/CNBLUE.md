@@ -1,4 +1,4 @@
-**CNBLUE**（；），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FNC娛樂](../Page/FNC娛樂.md "wikilink")旗下的四人樂團組合，成員包括[鄭容和](../Page/鄭容和.md "wikilink")（隊長）、[李宗泫](../Page/李宗泫.md "wikilink")、[姜敏赫](../Page/姜敏赫.md "wikilink")、[李正信](../Page/李正信.md "wikilink")。
+**CNBLUE**（；），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FNC娛樂](../Page/FNC娛樂.md "wikilink")旗下的樂團組合，現由3名成員包括[鄭容和](../Page/鄭容和.md "wikilink")（隊長）、[姜敏赫](../Page/姜敏赫.md "wikilink")和[李正信](../Page/李正信.md "wikilink")組成。
 
 **CNBLUE**是**Code Name BLUE**的簡稱，其中**BLUE**是**B**urning（[李宗泫](../Page/李宗泫.md "wikilink")）+**L**ovely（[姜敏赫](../Page/姜敏赫.md "wikilink")）+**U**ntouchable（[李正信](../Page/李正信.md "wikilink")）+**E**motional（[鄭容和](../Page/鄭容和.md "wikilink")）的合成詞，寓意團員的特質都是不同。
 
@@ -11,10 +11,10 @@ CNBLUE官方[愛好者名為](https://zh.wikipedia.org/wiki/愛好者 "wikilink"
 | 本名                               |
 | 漢字                               |
 | [鄭容和](../Page/鄭容和.md "wikilink") |
-| [李宗泫](../Page/李宗泫.md "wikilink") |
 | [姜敏赫](../Page/姜敏赫.md "wikilink") |
 | [李正信](../Page/李正信.md "wikilink") |
-|                                  |
+| 已離開成員                            |
+| [李宗泫](../Page/李宗泫.md "wikilink") |
 
 ## 簡介
 
@@ -30,6 +30,8 @@ CNBLUE於2009年被[FNC娛樂](../Page/FNC娛樂.md "wikilink")公司派往[日�
 2012年CNBLUE在[日本](../Page/日本.md "wikilink")發行單曲《Where you are》，獲得[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")單曲週榜第一位，是時隔41年後能再登上[日本](../Page/日本.md "wikilink")[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")單曲週榜第一的海外樂團。同年發行的首張正規專輯《CODE NAME BLUE》也登上[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")週榜第一位。CNBLUE於2013年在[韓國發行的](https://zh.wikipedia.org/wiki/韓國 "wikilink")《Re：BLUE》，除了橫掃[韓國音源榜](https://zh.wikipedia.org/wiki/韓國 "wikilink")，更登上[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[Billboard](https://zh.wikipedia.org/wiki/Billboard "wikilink") World Album排行榜第1位。
 
 2019年3月，成員李宗泫捲入鄭俊英偷拍事件，並曾在kakaotalk上有過**貶低女性的不當言論**。在粉絲大部分是女性的情況下，無法原諒李宗泫對CNBLUE及其他成員的形象帶來打擊，CNBLUE粉絲兩次網路發表要求其退出組合，但公司發出聲明並表示李宗泫不會退出CNBLUE與演藝圈，引起粉絲們強烈不滿。
+
+2019年8月28日，成員[李宗泫](../Page/李宗泫.md "wikilink")在私訊性騷擾網紅事件後退出組合\[1\]。
 
 ## 專輯／大事記
 
@@ -265,7 +267,7 @@ CNBLUE於2009年被[FNC娛樂](../Page/FNC娛樂.md "wikilink")公司派往[日�
 </ul></td>
 <td></td>
 <td><ul>
-<li>외톨이야（Loner／孤獨的人）[1]</li>
+<li>외톨이야（Loner／孤獨的人）[2]</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -277,7 +279,7 @@ CNBLUE於2009年被[FNC娛樂](../Page/FNC娛樂.md "wikilink")公司派往[日�
 </ul></td>
 <td></td>
 <td><ul>
-<li>LOVE[2]</li>
+<li>LOVE[3]</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -289,8 +291,8 @@ CNBLUE於2009年被[FNC娛樂](../Page/FNC娛樂.md "wikilink")公司派往[日�
 </ul></td>
 <td></td>
 <td><ul>
-<li>Hey You[3]</li>
-<li>아직 사랑한다（Still in Love）[4]</li>
+<li>Hey You[4]</li>
+<li>아직 사랑한다（Still in Love）[5]</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -314,7 +316,7 @@ CNBLUE於2009年被[FNC娛樂](../Page/FNC娛樂.md "wikilink")公司派往[日�
 </ul></td>
 <td></td>
 <td><ul>
-<li>I'm Sorry[5]</li>
+<li>I'm Sorry[6]</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -326,7 +328,7 @@ CNBLUE於2009年被[FNC娛樂](../Page/FNC娛樂.md "wikilink")公司派往[日�
 </ul></td>
 <td></td>
 <td><ul>
-<li>Can't Stop[6]</li>
+<li>Can't Stop[7]</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -338,7 +340,7 @@ CNBLUE於2009年被[FNC娛樂](../Page/FNC娛樂.md "wikilink")公司派往[日�
 </ul></td>
 <td></td>
 <td><ul>
-<li>이렇게 예뻤나（You're So Fine／美好的你）[7]</li>
+<li>이렇게 예뻤나（You're So Fine／美好的你）[8]</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -350,7 +352,7 @@ CNBLUE於2009年被[FNC娛樂](../Page/FNC娛樂.md "wikilink")公司派往[日�
 </ul></td>
 <td></td>
 <td><ul>
-<li>헷갈리게（Between Us／你我之間）[8]</li>
+<li>헷갈리게（Between Us／你我之間）[9]</li>
 </ul></td>
 </tr>
 </tbody>
@@ -375,8 +377,8 @@ CNBLUE於2009年被[FNC娛樂](../Page/FNC娛樂.md "wikilink")公司派往[日�
 </ul></td>
 <td></td>
 <td><ul>
-<li>직감（Intuition／直感）[9]</li>
-<li>LOVE GIRL[10]</li>
+<li>직감（Intuition／直感）[10]</li>
+<li>LOVE GIRL[11]</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -410,7 +412,7 @@ CNBLUE於2009年被[FNC娛樂](../Page/FNC娛樂.md "wikilink")公司派往[日�
 </ul></td>
 <td></td>
 <td><ul>
-<li>Cinderella[11]</li>
+<li>Cinderella[12]</li>
 </ul></td>
 </tr>
 </tbody>
@@ -436,7 +438,7 @@ CNBLUE於2009年被[FNC娛樂](../Page/FNC娛樂.md "wikilink")公司派往[日�
 </ul></td>
 <td></td>
 <td><ul>
-<li>In My Head[12]</li>
+<li>In My Head[13]</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -448,7 +450,7 @@ CNBLUE於2009年被[FNC娛樂](../Page/FNC娛樂.md "wikilink")公司派往[日�
 </ul></td>
 <td></td>
 <td><ul>
-<li>Where You Are[13]</li>
+<li>Where You Are[14]</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -460,7 +462,7 @@ CNBLUE於2009年被[FNC娛樂](../Page/FNC娛樂.md "wikilink")公司派往[日�
 </ul></td>
 <td></td>
 <td><ul>
-<li>Come On[14]</li>
+<li>Come On[15]</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -472,7 +474,7 @@ CNBLUE於2009年被[FNC娛樂](../Page/FNC娛樂.md "wikilink")公司派往[日�
 </ul></td>
 <td></td>
 <td><ul>
-<li>Robot[15]</li>
+<li>Robot[16]</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -484,7 +486,7 @@ CNBLUE於2009年被[FNC娛樂](../Page/FNC娛樂.md "wikilink")公司派往[日�
 </ul></td>
 <td></td>
 <td><ul>
-<li>Blind Love[16]</li>
+<li>Blind Love[17]</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -496,7 +498,7 @@ CNBLUE於2009年被[FNC娛樂](../Page/FNC娛樂.md "wikilink")公司派往[日�
 </ul></td>
 <td></td>
 <td><ul>
-<li>Lady[17]</li>
+<li>Lady[18]</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -508,8 +510,8 @@ CNBLUE於2009年被[FNC娛樂](../Page/FNC娛樂.md "wikilink")公司派往[日�
 </ul></td>
 <td></td>
 <td><ul>
-<li>Truth[18]</li>
-<li>Still[19]</li>
+<li>Truth[19]</li>
+<li>Still[20]</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -521,7 +523,7 @@ CNBLUE於2009年被[FNC娛樂](../Page/FNC娛樂.md "wikilink")公司派往[日�
 </ul></td>
 <td></td>
 <td><ul>
-<li>Go Your Way[20]</li>
+<li>Go Your Way[21]</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -533,7 +535,7 @@ CNBLUE於2009年被[FNC娛樂](../Page/FNC娛樂.md "wikilink")公司派往[日�
 </ul></td>
 <td></td>
 <td><ul>
-<li>WHITE[21]</li>
+<li>WHITE[22]</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -545,7 +547,7 @@ CNBLUE於2009年被[FNC娛樂](../Page/FNC娛樂.md "wikilink")公司派往[日�
 </ul></td>
 <td></td>
 <td><ul>
-<li>Puzzle[22]</li>
+<li>Puzzle[23]</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -557,7 +559,7 @@ CNBLUE於2009年被[FNC娛樂](../Page/FNC娛樂.md "wikilink")公司派往[日�
 </ul></td>
 <td></td>
 <td><ul>
-<li>SHAKE[23]</li>
+<li>SHAKE[24]</li>
 </ul></td>
 </tr>
 </tbody>
@@ -582,10 +584,10 @@ CNBLUE於2009年被[FNC娛樂](../Page/FNC娛樂.md "wikilink")公司派往[日�
 </ul></td>
 <td></td>
 <td><ul>
-<li>In My Head[24]</li>
-<li>Where You Are[25]</li>
-<li>Time Is Over[26]</li>
-<li>Come On[27]</li>
+<li>In My Head[25]</li>
+<li>Where You Are[26]</li>
+<li>Time Is Over[27]</li>
+<li>Come On[28]</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -597,10 +599,10 @@ CNBLUE於2009年被[FNC娛樂](../Page/FNC娛樂.md "wikilink")公司派往[日�
 </ul></td>
 <td></td>
 <td><ul>
-<li>Lady[28]</li>
-<li>One More Time[29]</li>
-<li>Blind Love[30]</li>
-<li>Robot[31]</li>
+<li>Lady[29]</li>
+<li>One More Time[30]</li>
+<li>Blind Love[31]</li>
+<li>Robot[32]</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -612,10 +614,10 @@ CNBLUE於2009年被[FNC娛樂](../Page/FNC娛樂.md "wikilink")公司派往[日�
 </ul></td>
 <td></td>
 <td><ul>
-<li>Radio[32]</li>
-<li>Go Your Way[33]</li>
-<li>Truth[34]</li>
-<li>Still[35]</li>
+<li>Radio[33]</li>
+<li>Go Your Way[34]</li>
+<li>Truth[35]</li>
+<li>Still[36]</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -627,8 +629,8 @@ CNBLUE於2009年被[FNC娛樂](../Page/FNC娛樂.md "wikilink")公司派往[日�
 </ul></td>
 <td></td>
 <td><ul>
-<li>Supernova[36]</li>
-<li>WHITE[37]</li>
+<li>Supernova[37]</li>
+<li>WHITE[38]</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -640,8 +642,8 @@ CNBLUE於2009年被[FNC娛樂](../Page/FNC娛樂.md "wikilink")公司派往[日�
 </ul></td>
 <td></td>
 <td><ul>
-<li>Glory Days[38]</li>
-<li>Puzzle[39]</li>
+<li>Glory Days[39]</li>
+<li>Puzzle[40]</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -653,8 +655,8 @@ CNBLUE於2009年被[FNC娛樂](../Page/FNC娛樂.md "wikilink")公司派往[日�
 </ul></td>
 <td></td>
 <td><ul>
-<li>Starting Over[40]</li>
-<li>SHAKE[41]</li>
+<li>Starting Over[41]</li>
+<li>SHAKE[42]</li>
 </ul></td>
 </tr>
 </tbody>
@@ -688,7 +690,7 @@ CNBLUE於2009年被[FNC娛樂](../Page/FNC娛樂.md "wikilink")公司派往[日�
 <tr class="even">
 <td><p>OST</p></td>
 <td><p>2010/10/27</p></td>
-<td><p>展翅高飛（High Fly）[42]</p></td>
+<td><p>展翅高飛（High Fly）[43]</p></td>
 <td><p>《<a href="../Page/木吉他：20歲之歌Acoustic.md" title="wikilink">木吉他：20歲之歌Acoustic</a>》</p></td>
 <td><p>李宗泫<br />
 姜敏赫</p></td>
@@ -718,7 +720,7 @@ CNBLUE於2009年被[FNC娛樂](../Page/FNC娛樂.md "wikilink")公司派往[日�
 <tr class="even">
 <td><p>OST</p></td>
 <td><p>2011/6/29</p></td>
-<td><p>你為我著迷（넌 내게 반했어）[43]</p></td>
+<td><p>你為我著迷（넌 내게 반했어）[44]</p></td>
 <td><p>《<a href="../Page/你為我著迷.md" title="wikilink">你為我著迷</a>》主題曲</p></td>
 <td><p>鄭容和</p></td>
 </tr>
@@ -746,7 +748,7 @@ CNBLUE於2009年被[FNC娛樂](../Page/FNC娛樂.md "wikilink")公司派往[日�
 <tr class="even">
 <td><p>OST</p></td>
 <td><p>2011/7/13</p></td>
-<td><p>因為想念（그리워서...）[44]</p></td>
+<td><p>因為想念（그리워서...）[45]</p></td>
 <td><p>《<a href="../Page/你為我著迷.md" title="wikilink">你為我著迷</a>》插曲</p></td>
 <td><p>鄭容和</p></td>
 </tr>
@@ -774,7 +776,7 @@ CNBLUE於2009年被[FNC娛樂](../Page/FNC娛樂.md "wikilink")公司派往[日�
 <tr class="even">
 <td><p>單曲</p></td>
 <td><p>2012/5/24</p></td>
-<td><p>傻瓜（바보）[45]</p></td>
+<td><p>傻瓜（바보）[46]</p></td>
 <td><p>與<a href="../Page/Juniel.md" title="wikilink">Juniel</a>合唱</p></td>
 <td><p>鄭容和</p></td>
 </tr>
@@ -802,7 +804,7 @@ CNBLUE於2009年被[FNC娛樂](../Page/FNC娛樂.md "wikilink")公司派往[日�
 <tr class="even">
 <td><p>CF</p></td>
 <td><p>2012/7/31</p></td>
-<td><p>Friday[46]</p></td>
+<td><p>Friday[47]</p></td>
 <td><p>T.G.I Friday's廣告</p></td>
 <td><p>CNBLUE</p></td>
 </tr>
@@ -816,7 +818,7 @@ CNBLUE於2009年被[FNC娛樂](../Page/FNC娛樂.md "wikilink")公司派往[日�
 <tr class="even">
 <td><p>CF</p></td>
 <td><p>2013/8/23</p></td>
-<td><p>Feel Good[47]</p></td>
+<td><p>Feel Good[48]</p></td>
 <td><p>Samsung GALAXY廣告</p></td>
 <td><p>CNBLUE</p></td>
 </tr>
@@ -830,7 +832,7 @@ CNBLUE於2009年被[FNC娛樂](../Page/FNC娛樂.md "wikilink")公司派往[日�
 <tr class="even">
 <td><p>CF</p></td>
 <td><p>2013/9/5　</p></td>
-<td><p>K-Food Song[48]</p></td>
+<td><p>K-Food Song[49]</p></td>
 <td><p>K-Food廣告</p></td>
 <td><p>CNBLUE</p></td>
 </tr>
@@ -844,7 +846,7 @@ CNBLUE於2009年被[FNC娛樂](../Page/FNC娛樂.md "wikilink")公司派往[日�
 <tr class="even">
 <td><p>單曲</p></td>
 <td><p>2013/12/9</p></td>
-<td><p>愛情降臨（LOVE FALLS）[49]</p></td>
+<td><p>愛情降臨（LOVE FALLS）[50]</p></td>
 <td><p>與<a href="../Page/Juniel.md" title="wikilink">Juniel</a>限定組合Romantic J合唱</p></td>
 <td><p>李宗泫</p></td>
 </tr>
@@ -901,7 +903,7 @@ CNBLUE於2009年被[FNC娛樂](../Page/FNC娛樂.md "wikilink")公司派往[日�
 <tr class="even">
 <td><p>單曲</p></td>
 <td><p>2014/12/23</p></td>
-<td><p>星星，你（별，그대）[50]</p></td>
+<td><p>星星，你（별，그대）[51]</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS歌謠大戰時為粉絲作的歌</a></p></td>
 <td><p>鄭容和</p></td>
 </tr>
@@ -915,7 +917,7 @@ CNBLUE於2009年被[FNC娛樂](../Page/FNC娛樂.md "wikilink")公司派往[日�
 <tr class="even">
 <td><p>單曲</p></td>
 <td><p>2016/1/15</p></td>
-<td><p>Hello（입김）[51]</p></td>
+<td><p>Hello（입김）[52]</p></td>
 <td><p>與<strong>鮮于貞娥</strong>合唱</p></td>
 <td><p>鄭容和</p></td>
 </tr>
@@ -929,7 +931,7 @@ CNBLUE於2009年被[FNC娛樂](../Page/FNC娛樂.md "wikilink")公司派往[日�
 <tr class="even">
 <td><p>單曲</p></td>
 <td><p>2016/1/15</p></td>
-<td><p>Fireworks（불꽃놀이）[52]</p></td>
+<td><p>Fireworks（불꽃놀이）[53]</p></td>
 <td><p>與<strong>鮮于貞娥</strong>合唱</p></td>
 <td><p>鄭容和</p></td>
 </tr>
@@ -957,7 +959,7 @@ CNBLUE於2009年被[FNC娛樂](../Page/FNC娛樂.md "wikilink")公司派往[日�
 <tr class="even">
 <td><p>OST</p></td>
 <td><p>2016/5/5</p></td>
-<td><p>I See You[53]</p></td>
+<td><p>I See You[54]</p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/戲子" title="wikilink">戲子</a>》插曲</p></td>
 <td><p>姜敏赫</p></td>
 </tr>
@@ -999,7 +1001,7 @@ CNBLUE於2009年被[FNC娛樂](../Page/FNC娛樂.md "wikilink")公司派往[日�
 <tr class="even">
 <td><p>單曲</p></td>
 <td><p>2017/1/3</p></td>
-<td><p>我獨自在家（나홀로 집에）[54]</p></td>
+<td><p>我獨自在家（나홀로 집에）[55]</p></td>
 <td><p>與<a href="https://zh.wikipedia.org/wiki/RAVI" title="wikilink">RAVI</a>（<a href="../Page/VIXX.md" title="wikilink">VIXX</a>成員）合唱</p></td>
 <td><p>鄭容和</p></td>
 </tr>
@@ -3172,13 +3174,13 @@ CNBLUE於2009年被[FNC娛樂](../Page/FNC娛樂.md "wikilink")公司派往[日�
 |                 |                                        |                                                                           |      |
 | --------------- | -------------------------------------- | ------------------------------------------------------------------------- | ---- |
 | 日期              | 歌曲（官方MV）                               | 歌手                                                                        | 出演成員 |
-| 2010年6月17日      | Magic Girl\[55\]                       | [Orange Caramel](https://zh.wikipedia.org/wiki/Orange_Caramel "wikilink") | 姜敏赫  |
-| 2011年3月29日      | Heart To Heart\[56\]                   | [4Minute](https://zh.wikipedia.org/wiki/4Minute "wikilink")               | 李正信  |
-| 2012年6月7日       | Fool\[57\]                             | 與[Juniel](../Page/Juniel.md "wikilink")合唱                                 | 鄭容和  |
-| illa illa\[58\] | [Juniel](../Page/Juniel.md "wikilink") | 姜敏赫                                                                       |      |
-| 2013年12月2日      | Love Falls\[59\]                       | 與[Juniel](../Page/Juniel.md "wikilink")合唱                                 | 李宗泫  |
-| 2014年6月18日      | Mr. 曖昧模糊\[60\]                         | [Mamamoo](../Page/Mamamoo.md "wikilink")                                  |      |
-| 2016年10月7日      | 等你愛\[61\]                              | [吳映潔](https://zh.wikipedia.org/wiki/吳映潔 "wikilink")                       | 李正信  |
+| 2010年6月17日      | Magic Girl\[56\]                       | [Orange Caramel](https://zh.wikipedia.org/wiki/Orange_Caramel "wikilink") | 姜敏赫  |
+| 2011年3月29日      | Heart To Heart\[57\]                   | [4Minute](https://zh.wikipedia.org/wiki/4Minute "wikilink")               | 李正信  |
+| 2012年6月7日       | Fool\[58\]                             | 與[Juniel](../Page/Juniel.md "wikilink")合唱                                 | 鄭容和  |
+| illa illa\[59\] | [Juniel](../Page/Juniel.md "wikilink") | 姜敏赫                                                                       |      |
+| 2013年12月2日      | Love Falls\[60\]                       | 與[Juniel](../Page/Juniel.md "wikilink")合唱                                 | 李宗泫  |
+| 2014年6月18日      | Mr. 曖昧模糊\[61\]                         | [Mamamoo](../Page/Mamamoo.md "wikilink")                                  |      |
+| 2016年10月7日      | 等你愛\[62\]                              | [吳映潔](https://zh.wikipedia.org/wiki/吳映潔 "wikilink")                       | 李正信  |
 |                 |                                        |                                                                           |      |
 
 ## 其他活動
@@ -4609,7 +4611,7 @@ CNBLUE於2009年被[FNC娛樂](../Page/FNC娛樂.md "wikilink")公司派往[日�
 
 [Category:2010年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2010年成立的音樂團體 "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2010年韓國建立](https://zh.wikipedia.org/wiki/Category:2010年韓國建立 "wikilink")
 
-1.
+1.  [李宗泫「讓大家失望感到抱歉」，宣布退出 CNBLUE](https://www.kpopn.com/2019/08/28/lee-jong-hyun-withdraw-from-cnblue)
 
 2.
 
@@ -4656,31 +4658,31 @@ CNBLUE於2009年被[FNC娛樂](../Page/FNC娛樂.md "wikilink")公司派往[日�
 23.
 
 24.
+
 25.
 26.
-
 27.
+
 28.
 29.
-
 30.
+
 31.
 32.
-
 33.
+
 34.
 35.
 36.
-
 37.
+
 38.
-
 39.
+
 40.
-
 41.
-42.
 
+42.
 43.
 
 44.
@@ -4718,3 +4720,5 @@ CNBLUE於2009年被[FNC娛樂](../Page/FNC娛樂.md "wikilink")公司派往[日�
 60.
 
 61.
+
+62.

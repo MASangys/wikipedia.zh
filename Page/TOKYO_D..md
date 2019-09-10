@@ -12,7 +12,7 @@
 
 <!-- end list -->
 
-  - **[SHIGEO](https://zh.wikipedia.org/wiki/SHIGEO "wikilink")**
+  - **[SHIGEO](https://zh.wikipedia.org/wiki/SHIGEO "wikilink")**（副團長）
       -
         本名：加藤成夫（SHIGEO KATO、1962年1月15日生）。東京都出身。
 

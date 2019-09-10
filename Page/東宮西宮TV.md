@@ -169,7 +169,7 @@ Save Jobs模仿[蘋果公司](https://zh.wikipedia.org/wiki/蘋果公司 "wikili
 
 ### 每入一字
 
-模仿《[每日一字](https://zh.wikipedia.org/wiki/每日一字_\(香港\) "wikilink")》主持[林佐瀚每期介紹一個字](https://zh.wikipedia.org/wiki/林佐瀚 "wikilink")，並使用虛構文學作品解釋。第一次出現在第2集。
+模仿《[每日一字](https://zh.wikipedia.org/wiki/每日一字_\(香港\) "wikilink")》主持[林佐瀚](../Page/林佐瀚.md "wikilink")每期介紹一個字，並使用虛構文學作品解釋。第一次出現在第2集。
 
   - 第2集：霸
   - 第3集：废

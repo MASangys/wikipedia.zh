@@ -69,8 +69,7 @@
 
   - [韩国放送公社](https://zh.wikipedia.org/wiki/韩国放送公社 "wikilink")（KBS）
 
-## 外部链接
+<!-- end list -->
 
-  - [KBS第2FM](http://www.kbs.co.kr/radio/coolfm/index.html)
-
+  -
 [分类:韩国放送公社广播频道](https://zh.wikipedia.org/wiki/分类:韩国放送公社广播频道 "wikilink")

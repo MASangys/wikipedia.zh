@@ -1,6 +1,6 @@
 [缩略图](https://zh.wikipedia.org/wiki/File:SlutWalk_NYC_October_2011_Shankbone_4.JPG "fig:缩略图") 英文詞彙**Bitch**的原意本指雌性[犬科](../Page/犬科.md "wikilink")動物，現在也可以用作是貶低或[厭惡部分女人](../Page/厌女症.md "wikilink")，意思則是辱罵[女性](../Page/女性.md "wikilink")下賤，也有批評之意；也可用於男性。這個字出自1150年代的*bicche*，由古英語詞*bicce*發展而來，並可能演變自[古冰島語的](https://zh.wikipedia.org/wiki/古冰島語 "wikilink")*bikkja*，《[牛津英語詞典](../Page/牛津英語詞典.md "wikilink")》指出該字在西元1000年左右意思是「母狗」\[1\]，在用在生物上則是單純的名詞而無批評之用途，但罕見於文獻中。
 
-和中文的**[婊子](https://zh.wikipedia.org/wiki/:wiktionary:zh:婊子 "wikilink")**用法類似。美國動畫《[南方四賤客](https://zh.wikipedia.org/wiki/南方四賤客 "wikilink")》其中一集[阿ㄆ一ㄚˇ辱罵](../Page/埃里克·卡特曼.md "wikilink")[凱子的媽媽為Bitch](../Page/凯尔·布拉夫斯其.md "wikilink")，以歌唱方式說出「Kyle's Mom's a Bitch」（中文播出時翻譯為「凱子他媽是婊子」）等內容\[2\]。
+和中文的**[婊子](https://zh.wikipedia.org/wiki/:wiktionary:zh:婊子 "wikilink")**用法類似。美國[動畫劇集](../Page/動畫劇集.md "wikilink")《[-{zh-hans:南方公园;zh-hant:南方公園;zh-cn:南方公园;zh-tw:南方四賤客;zh-hk:衰仔樂園;zh-mo:衰仔樂園;}-](../Page/南方公園.md "wikilink")》其中一集[-{zh-cn:卡胖;zh-tw:阿ㄆㄧㄚˇ;zh-hk:蛋散;zh-mo:蛋散;}-辱罵](../Page/埃里克·卡特曼.md "wikilink")[-{zh-cn:凯尔;zh-hk:茂利;zh-tw:凱子;}-的媽媽為Bitch](../Page/凯尔·布拉夫斯其.md "wikilink")，以歌唱方式說出「Kyle's Mom's a Bitch」（中文播出時翻譯為「-{zh-cn:凯尔;zh-hk:茂利;zh-tw:凱子;}-他媽是婊子」）等內容\[2\]。
 
 ## 現代用法
 

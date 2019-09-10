@@ -1,4 +1,4 @@
-**MEG**（メグ ），1980年10月3日出生，出身於[日本](../Page/日本.md "wikilink")[廣島](https://zh.wikipedia.org/wiki/廣島 "wikilink")，是一位日本女歌手，也是[模特兒](../Page/模特兒.md "wikilink")及設計師。所屬唱片公司為KING RECORDS旗下的STARCHILD。音樂類型多為[電子音樂](../Page/電子音樂.md "wikilink")及流行樂，有日本電音小天后之名。唱腔及造型以性感中卻帶甜美可愛的風格著稱。
+**MEG**（），出身於[日本](../Page/日本.md "wikilink")[廣島](https://zh.wikipedia.org/wiki/廣島 "wikilink")，是一位日本女歌手，也是[模特兒](../Page/模特兒.md "wikilink")及設計師。所屬唱片公司為KING RECORDS旗下的STARCHILD。音樂類型多為[電子音樂](../Page/電子音樂.md "wikilink")及流行樂。
 
 ## 經歷
 
@@ -18,9 +18,9 @@
 
 2010年秋天將推出[精選專輯](https://zh.wikipedia.org/wiki/精選專輯 "wikilink")，並宣佈暫時停止其音樂活動。
 
-在法國巴黎小住後，於同年12月宣布加入華納音樂旗下新廠牌\[unBORDE\] 同時經理人公司也轉到 \[unBORDE ARTISTA\]。
+在法國巴黎小住後，於同年12月宣布加入華納音樂旗下新廠牌[unBORDE同時經理人公司也轉到](https://zh.wikipedia.org/wiki/unBORDE "wikilink")[unBORDE ARTISTA](https://zh.wikipedia.org/wiki/unBORDE "wikilink")。
 
-2012年1月出道10週年，日本國內音樂活動再開始同時唱片公司轉到 \[KING RECORDS\] 旗下的 \[STARCHILD\]。
+2012年1月出道10週年，日本國內音樂活動再開始同時唱片公司轉到[KING RECORDS旗下的STARCHILD](https://zh.wikipedia.org/wiki/KING_RECORDS "wikilink")。
 
 ## 作品
 
@@ -99,7 +99,7 @@
   - スネオヘアー -「電話」（2008年11月12日）
   - MEG × Q;indivi -「When you wish upon a Star」（2009年1月28日）
 
-### 外部連結
+## 外部連結
 
   - [MEGWEB.JP](http://megweb.jp/) - MEG官方網站
 
@@ -118,4 +118,4 @@
   - [ZOZOTOWN - BLOG](https://web.archive.org/web/20090628101617/http://people.zozo.jp/meg/) - 個人的BLOG
 
   -
-[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink")
+[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:广岛县出身人物](https://zh.wikipedia.org/wiki/Category:广岛县出身人物 "wikilink")

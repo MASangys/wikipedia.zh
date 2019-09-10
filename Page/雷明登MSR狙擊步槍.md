@@ -197,7 +197,7 @@
 
   - —[《现代军事》2011年第5期—美国陆军的新型狙击步枪](https://web.archive.org/web/20150213101131/http://www.hao1111.cn/plus/view.php?aid=26907)
 
-[Category:栓動式步槍](https://zh.wikipedia.org/wiki/Category:栓動式步槍 "wikilink") [Category:狙擊步槍](https://zh.wikipedia.org/wiki/Category:狙擊步槍 "wikilink") [Category:.338_Lapua_Magnum口徑槍械](https://zh.wikipedia.org/wiki/Category:.338_Lapua_Magnum口徑槍械 "wikilink") [Category:.300_Winchester_Magnum口徑槍械](https://zh.wikipedia.org/wiki/Category:.300_Winchester_Magnum口徑槍械 "wikilink") [Category:7.62×51毫米槍械](https://zh.wikipedia.org/wiki/Category:7.62×51毫米槍械 "wikilink") [Category:美國狙擊步槍](https://zh.wikipedia.org/wiki/Category:美國狙擊步槍 "wikilink") [Category:雷明登槍械](https://zh.wikipedia.org/wiki/Category:雷明登槍械 "wikilink")
+[Category:模塊化槍械](https://zh.wikipedia.org/wiki/Category:模塊化槍械 "wikilink") [Category:栓動式步槍](https://zh.wikipedia.org/wiki/Category:栓動式步槍 "wikilink") [Category:狙擊步槍](https://zh.wikipedia.org/wiki/Category:狙擊步槍 "wikilink") [Category:.338_Lapua_Magnum口徑槍械](https://zh.wikipedia.org/wiki/Category:.338_Lapua_Magnum口徑槍械 "wikilink") [Category:.300_Winchester_Magnum口徑槍械](https://zh.wikipedia.org/wiki/Category:.300_Winchester_Magnum口徑槍械 "wikilink") [Category:7.62×51毫米槍械](https://zh.wikipedia.org/wiki/Category:7.62×51毫米槍械 "wikilink") [Category:美國狙擊步槍](https://zh.wikipedia.org/wiki/Category:美國狙擊步槍 "wikilink") [Category:雷明登槍械](https://zh.wikipedia.org/wiki/Category:雷明登槍械 "wikilink")
 
 1.  [Remington Wins USSOCOM PSR (Precision Sniper Rifle) Contact](http://www.thefirearmblog.com/blog/2013/09/13/remington-wins-ussocom-psr-precision-sniper-rifle-contact/) - Thefirearmblog.com, 13 September 2013
 

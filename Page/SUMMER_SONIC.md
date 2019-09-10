@@ -128,7 +128,7 @@
 <tr class="even">
 <td><p>8月18日</p></td>
 <td><p>8月17日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/The_Offspring" title="wikilink">The Offspring</a></strong></p></td>
+<td><p><strong><a href="../Page/The_Offspring.md" title="wikilink">The Offspring</a></strong></p></td>
 <td><ul>
 <li></li>
 <li></li>
@@ -393,7 +393,7 @@
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/Arctic_Monkeys" title="wikilink">Arctic Monkeys</a></strong></p></td>
 <td><div id="2007o">
 <ul>
-<li><a href="https://zh.wikipedia.org/wiki/The_Offspring" title="wikilink">The Offspring</a></li>
+<li><a href="../Page/The_Offspring.md" title="wikilink">The Offspring</a></li>
 <li><a href="https://zh.wikipedia.org/wiki/Pet_Shop_Boys" title="wikilink">Pet Shop Boys</a></li>
 <li><a href="https://zh.wikipedia.org/wiki/Kasabian" title="wikilink">Kasabian</a></li>
 <li><p>&amp; </p></li>
@@ -589,8 +589,8 @@
 <td><p>8月8日</p></td>
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/Jay-Z" title="wikilink">Jay-Z</a></strong></p></td>
 <td><ul>
-<li><a href="https://zh.wikipedia.org/wiki/The_Offspring" title="wikilink">The Offspring</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/The_Smashing_Pumpkins" title="wikilink">The Smashing Pumpkins</a></li>
+<li><a href="../Page/The_Offspring.md" title="wikilink">The Offspring</a></li>
+<li><a href="../Page/The_Smashing_Pumpkins.md" title="wikilink">The Smashing Pumpkins</a></li>
 <li></li>
 <li><a href="https://zh.wikipedia.org/wiki/Nickelback" title="wikilink">Nickelback</a></li>
 <li><a href="https://zh.wikipedia.org/wiki/Richard_Ashcroft" title="wikilink">Richard Ashcroft</a></li>
@@ -633,7 +633,7 @@
 <li><a href="https://zh.wikipedia.org/wiki/Slash" title="wikilink">Slash</a></li>
 <li></li>
 <li></li>
-<li><a href="https://zh.wikipedia.org/wiki/空洞樂團" title="wikilink">Hole</a></li>
+<li><a href="../Page/空洞樂團.md" title="wikilink">Hole</a></li>
 <li><a href="https://zh.wikipedia.org/wiki/Sum_41" title="wikilink">Sum 41</a></li>
 <li><a href="../Page/黑色叛逆摩托車俱樂部.md" title="wikilink">BLACK REBEL MOTORCYCLE CLUB</a></li>
 <li><a href="https://zh.wikipedia.org/wiki/BIGBANG" title="wikilink">BIGBANG</a></li>
@@ -837,7 +837,7 @@
 <td><ul>
 <li><a href="https://zh.wikipedia.org/wiki/Pet_Shop_Boys" title="wikilink">Pet Shop Boys</a>（Tokyo Only）</li>
 <li></li>
-<li><a href="https://zh.wikipedia.org/wiki/The_Smashing_Pumpkins" title="wikilink">The Smashing Pumpkins</a></li>
+<li><a href="../Page/The_Smashing_Pumpkins.md" title="wikilink">The Smashing Pumpkins</a></li>
 <li><a href="https://zh.wikipedia.org/wiki/Earth,_Wind_&amp;_Fire" title="wikilink">Earth, Wind &amp; Fire</a></li>
 <li><p>（Osaka Only）</p></li>
 <li><a href="https://zh.wikipedia.org/wiki/Johnny_Marr" title="wikilink">Johnny Marr</a></li>

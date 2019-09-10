@@ -753,6 +753,15 @@ BELLA4（前）</p></td>
 <td></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>Luizy<br />
+WOODZ</p></td>
+<td><p><a href="../Page/曹承衍.md" title="wikilink">曹承衍</a></p></td>
+<td><p>歌手</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/樂華娛樂" title="wikilink">樂華娛樂</a></p></td>
+<td><p><a href="../Page/UNIQ.md" title="wikilink">UNIQ</a><br />
+<a href="../Page/X1_(組合).md" title="wikilink">X1</a></p></td>
+</tr>
 </tbody>
 </table>
 

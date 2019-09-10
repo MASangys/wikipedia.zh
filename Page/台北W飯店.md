@@ -40,11 +40,15 @@ W飯店的經營理念在於成為各城市文化的中心，結合當地特色�
 
   - [市府轉運站起重機墜落事故](https://zh.wikipedia.org/wiki/市府轉運站起重機墜落事故 "wikilink")
 
+## 參考文獻
+
 ## 外部連結
 
   - [W飯店官方網站](http://www.starwoodhotels.com/whotels/)
 
   - [W Taipei官方網站](http://www.wtaipei.com.tw)
+
+  - [台北W飯店 臺北旅遊網](https://www.travel.taipei/zh-tw/accommodation/details/1420)
 
   -
   -

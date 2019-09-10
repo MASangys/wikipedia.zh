@@ -89,7 +89,7 @@
 
 ## 风格及内容
 
-这首歌的曲子主要由两部分组成：“正歌”及“过渡乐节”，不同段落里演唱的歌手也不一样。而这首歌的副歌是由两段短句重复而成，这段副歌也是米兹·尤瑞在录音开始前写出来的。1984年版本开头第一段是由[保罗·杨所唱](https://zh.wikipedia.org/wiki/保罗·杨 "wikilink")，1989年版演唱第一句则是[凯莉·米洛](../Page/凯莉·米洛.md "wikilink")，而2004年的BAND AID20版本里，全歌第一句是由[Coldplay的主唱](../Page/酷玩樂團.md "wikilink")[克里斯·马丁所演唱](https://zh.wikipedia.org/wiki/克里斯·马丁 "wikilink")。而在1985年[Live Aid演唱会中](https://zh.wikipedia.org/wiki/拯救生命 "wikilink")，全歌的第一句是由[大卫·鲍伊](../Page/大卫·鲍伊.md "wikilink")所唱。
+这首歌的曲子主要由两部分组成：“正歌”及“过渡乐节”，不同段落里演唱的歌手也不一样。而这首歌的副歌是由两段短句重复而成，这段副歌也是米兹·尤瑞在录音开始前写出来的。1984年版本开头第一段是由[保罗·杨所唱](https://zh.wikipedia.org/wiki/保罗·杨 "wikilink")，1989年版演唱第一句则是[凯莉·米洛](../Page/凯莉·米洛.md "wikilink")，而2004年的BAND AID20版本里，全歌第一句是由[Coldplay的主唱](../Page/酷玩樂團.md "wikilink")[克里斯·马丁所演唱](https://zh.wikipedia.org/wiki/克里斯·马丁 "wikilink")。而在1985年[Live Aid演唱会中](https://zh.wikipedia.org/wiki/拯救生命 "wikilink")，全歌的第一句是由[大卫·鲍伊](../Page/大卫·鲍伊.md "wikilink")所唱。 而這首歌間奏旋律，類似原[東海道新幹線](../Page/東海道新幹線.md "wikilink")及今日[山陽新幹線](../Page/山陽新幹線.md "wikilink")的進站音樂[光號鈴聲](https://zh.wikipedia.org/wiki/光號 "wikilink")。
 
 ## 公开发行
 

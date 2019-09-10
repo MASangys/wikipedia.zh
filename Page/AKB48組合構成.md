@@ -3767,7 +3767,7 @@ PV的center是前田敦子。</p></td>
 </tr>
 <tr class="even">
 <td><p>56</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Sustainable" title="wikilink">Sustainable</a></p></td>
+<td><p><a href="../Page/Sustainable.md" title="wikilink">Sustainable</a></p></td>
 <td><p><a href="../Page/矢作萌夏.md" title="wikilink">矢作萌夏</a></p></td>
 <td><p><a href="../Page/矢作萌夏.md" title="wikilink">矢作萌夏</a>首次擔任Center</p></td>
 </tr>
@@ -3941,7 +3941,7 @@ PV的center是前田敦子。</p></td>
 <tr class="odd">
 <td><p>16</p></td>
 <td><p><a href="../Page/矢作萌夏.md" title="wikilink">矢作萌夏</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Sustainable" title="wikilink">Sustainable</a></p></td>
+<td><p><a href="../Page/Sustainable.md" title="wikilink">Sustainable</a></p></td>
 <td></td>
 <td><p>1</p></td>
 <td><p>1</p></td>

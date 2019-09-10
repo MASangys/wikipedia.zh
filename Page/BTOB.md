@@ -200,7 +200,11 @@
 
 2019年5月13日，Peniel發行首張個人數位單曲《B.O.D》，由Peniel的姊夫、作曲家KAIROS製作、Peniel參與填詞。\[156\]\[157\]
 
-2019年7月31日，Peniel發行第二張個人數位單曲《FLY23》，由KAIROS作曲製作、Peniel參與填詞。\[158\]\[159\] 同年8月27日，Peniel發表第三張個人數位單曲《Flip》，由饒舌歌手參與Featuring。
+2019年7月31日，Peniel發行第二張個人數位單曲《FLY23》，由KAIROS作曲製作、Peniel參與填詞。\[158\]\[159\] 同年8月27日，Peniel發表第三張個人數位單曲《Flip》，由饒舌歌手參與Featuring，該曲由KAIROS作曲填詞製作、Peniel與Beenzino參與Rap填詞。\[160\]\[161\]
+
+### 2020年
+
+2020年3月，星材主演的[JTBC](../Page/JTBC.md "wikilink")電視劇《[雙室小吃攤](https://zh.wikipedia.org/wiki/雙室小吃攤 "wikilink")》播出，飾演甲乙超市顧客諮詢室職員韓江裴。該劇是他繼2016年電視劇《鬼怪》後，睽違三年多再度回歸小螢幕。\[162\]
 
 ## 音樂作品
 
@@ -326,7 +330,7 @@ BTOB 出道至今參與許多綜藝，在節目中展現搞笑本能及過人獨
 
 ## 獎項
 
-2013年1月15日，BTOB於第27屆韓國[金唱片獎獲得](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")「Next Generation獎」。 2016年1月14日，於第30屆韓國金唱片獎獲得「唱片部門最佳歌唱獎（Best Vocal Group）」。2016年1月21日，於第25屆[首爾歌謠大賞獲得](https://zh.wikipedia.org/wiki/首爾歌謠大賞 "wikilink")「最佳抒情歌曲獎（R\&B／Balled）」。 2017年11月3日，於[韓國大眾文化藝術獎](../Page/韓國大眾文化藝術獎.md "wikilink")獲得「文化體育觀光部長官表彰」殊榮 \[160\]。 2018年1月10日，於第32屆韓國金唱片獎獲得「音源部門最佳男子團體獎（Best Male Group）」。 2018年1月25日，於第27屆首爾歌謠大賞獲得「本賞」。 2018年12月1日，於[甜瓜音樂獎](../Page/甜瓜音樂獎.md "wikilink")首次獲得「TOP10」。\[161\] 2018年12月10日，於第1屆[韓國大眾音樂獎](../Page/韓國大眾音樂獎.md "wikilink")獲得「本賞」及「Ballad獎」。
+2013年1月15日，BTOB於第27屆韓國[金唱片獎獲得](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")「Next Generation獎」。 2016年1月14日，於第30屆韓國金唱片獎獲得「唱片部門最佳歌唱獎（Best Vocal Group）」。2016年1月21日，於第25屆[首爾歌謠大賞獲得](https://zh.wikipedia.org/wiki/首爾歌謠大賞 "wikilink")「最佳抒情歌曲獎（R\&B／Balled）」。 2017年11月3日，於[韓國大眾文化藝術獎](../Page/韓國大眾文化藝術獎.md "wikilink")獲得「文化體育觀光部長官表彰」殊榮 \[163\]。 2018年1月10日，於第32屆韓國金唱片獎獲得「音源部門最佳男子團體獎（Best Male Group）」。 2018年1月25日，於第27屆首爾歌謠大賞獲得「本賞」。 2018年12月1日，於[甜瓜音樂獎](../Page/甜瓜音樂獎.md "wikilink")首次獲得「TOP10」。\[164\] 2018年12月10日，於第1屆[韓國大眾音樂獎](../Page/韓國大眾音樂獎.md "wikilink")獲得「本賞」及「Ballad獎」。
 
 ### 主要音樂節目榜單排名
 
@@ -646,5 +650,8 @@ BTOB 出道至今參與許多綜藝，在節目中展現搞笑本能及過人獨
 157.
 158.
 159.
-160. [EXO、BTOB、朴寶劍等出席《大眾文化藝術賞》，得獎名單公開](https://www.kpopn.com/2017/11/04/exo%e3%80%81btob%e3%80%81%e6%9c%b4%e5%af%b6%e5%8a%8d%e7%ad%89%e5%87%ba%e5%b8%ad%e3%80%8a%e5%a4%a7%e7%9c%be%e6%96%87%e5%8c%96%e8%97%9d%e8%a1%93%e8%b3%9e%e3%80%8b%ef%bc%8c%e5%be%97%e7%8d%8e%e5%90%8d%e5%96%ae%e5%85%ac%e9%96%8b/)  2017-11-07 KPOPN
-161. [MMA／BTOB「把恩光寫在臉上」走紅毯　C位留給隊長逼哭粉](https://star.ettoday.net/news/1320700) 2018-12-02 ETtoday
+160.
+161.
+162.
+163. [EXO、BTOB、朴寶劍等出席《大眾文化藝術賞》，得獎名單公開](https://www.kpopn.com/2017/11/04/exo%e3%80%81btob%e3%80%81%e6%9c%b4%e5%af%b6%e5%8a%8d%e7%ad%89%e5%87%ba%e5%b8%ad%e3%80%8a%e5%a4%a7%e7%9c%be%e6%96%87%e5%8c%96%e8%97%9d%e8%a1%93%e8%b3%9e%e3%80%8b%ef%bc%8c%e5%be%97%e7%8d%8e%e5%90%8d%e5%96%ae%e5%85%ac%e9%96%8b/)  2017-11-07 KPOPN
+164. [MMA／BTOB「把恩光寫在臉上」走紅毯　C位留給隊長逼哭粉](https://star.ettoday.net/news/1320700) 2018-12-02 ETtoday

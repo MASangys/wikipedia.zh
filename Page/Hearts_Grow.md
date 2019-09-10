@@ -1,4 +1,4 @@
-**Hearts Grow**（ハーツ・グロウ）是[沖繩縣](../Page/沖繩縣.md "wikilink")[本部町](../Page/本部町.md "wikilink")出身的5人[音樂團體](https://zh.wikipedia.org/wiki/音樂團體 "wikilink")。2006年由[EPIC Records Japan發行單曲](https://zh.wikipedia.org/wiki/EPIC_Records_Japan "wikilink")「Road」出道。
+**Hearts Grow**是[日本](../Page/日本.md "wikilink")[沖繩縣](../Page/沖繩縣.md "wikilink")[本部町](../Page/本部町.md "wikilink")出身的5人[音樂團體](https://zh.wikipedia.org/wiki/音樂團體 "wikilink")。2006年由[EPIC Records Japan發行單曲](https://zh.wikipedia.org/wiki/EPIC_Records_Japan "wikilink")「Road」出道。
 
 ## 成員
 
@@ -107,4 +107,4 @@
   - [紫陽花Music Hearts Grow網站](https://web.archive.org/web/20100609153451/http://www.ajisaimusic.com/heartsgrow/)
   - [Sony Music Hearts Growt唱片公司官網](http://www.heartsgrow.com/)
 
-[Category:2006年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2006年成立的音樂團體 "wikilink") [Category:2009年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2009年解散的音樂團體 "wikilink") [Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink") [Category:搖滾樂團](https://zh.wikipedia.org/wiki/Category:搖滾樂團 "wikilink") [Category:沖繩縣出身人物](https://zh.wikipedia.org/wiki/Category:沖繩縣出身人物 "wikilink") [Category:琉球族歌手](https://zh.wikipedia.org/wiki/Category:琉球族歌手 "wikilink")
+[Category:2006年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2006年成立的音樂團體 "wikilink") [Category:2009年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2009年解散的音樂團體 "wikilink") [Category:日本搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本搖滾樂團 "wikilink") [Category:沖繩縣出身人物](https://zh.wikipedia.org/wiki/Category:沖繩縣出身人物 "wikilink") [Category:琉球族歌手](https://zh.wikipedia.org/wiki/Category:琉球族歌手 "wikilink")

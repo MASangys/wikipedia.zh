@@ -20,7 +20,7 @@ TAAG安哥拉航空於1938年9月由[葡萄牙殖民地政府成立](../Page/葡
 
 ### 被歐盟列入黑名單
 
-[TAAG_777-200ER.JPG](https://zh.wikipedia.org/wiki/File:TAAG_777-200ER.JPG "fig:TAAG_777-200ER.JPG") 2007年6月28日，歐盟基於安全理由，把TAAG列入[黑名單](../Page/被禁止進入歐盟成員國之航空公司列表.md "wikilink")，同年7月4日起生效\[1\]。此措施令TAAG的波音777客機無法執飛長途航線。
+[TAAG_Angola_Airlines_B777-2M2ER_(D2-TEF)_parked_at_Lisbon_Portela_Airport.jpg](https://zh.wikipedia.org/wiki/File:TAAG_Angola_Airlines_B777-2M2ER_\(D2-TEF\)_parked_at_Lisbon_Portela_Airport.jpg "fig:TAAG_Angola_Airlines_B777-2M2ER_(D2-TEF)_parked_at_Lisbon_Portela_Airport.jpg") 2007年6月28日，歐盟基於安全理由，把TAAG列入[黑名單](../Page/被禁止進入歐盟成員國之航空公司列表.md "wikilink")，同年7月4日起生效\[1\]。此措施令TAAG的波音777客機無法執飛長途航線。
 
 為提升新飛機使用量及減少損失，TAAG決定開辦[杜拜](../Page/杜拜.md "wikilink")和[北京航線](../Page/北京市.md "wikilink")。另為能繼續飛往歐洲，便向南非航空[濕租一架波音](https://zh.wikipedia.org/wiki/濕租 "wikilink")747-400客機，飛行員由南非航空提供，而空服員則由南非航空和TAAG一同提供。2008年8月，接收第3架波音777（編號D2-TEF）。
 

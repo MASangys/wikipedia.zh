@@ -13,4 +13,4 @@
 
   - [CFM国际官方网站](http://arquivo.pt/wayback/20090708032329/http%3A//www.cfm56.com/)
 
-[Category:通用電氣](https://zh.wikipedia.org/wiki/Category:通用電氣 "wikilink") [Category:法國公司](https://zh.wikipedia.org/wiki/Category:法國公司 "wikilink") [Category:跨國公司](https://zh.wikipedia.org/wiki/Category:跨國公司 "wikilink") [Category:飛行器發動機製造商](https://zh.wikipedia.org/wiki/Category:飛行器發動機製造商 "wikilink")
+[Category:通用電氣](https://zh.wikipedia.org/wiki/Category:通用電氣 "wikilink") [Category:法國公司](https://zh.wikipedia.org/wiki/Category:法國公司 "wikilink") [Category:跨國公司](https://zh.wikipedia.org/wiki/Category:跨國公司 "wikilink") [Category:飛行器發動機製造商](https://zh.wikipedia.org/wiki/Category:飛行器發動機製造商 "wikilink") [Category:美国飞行器发动机制造商](https://zh.wikipedia.org/wiki/Category:美国飞行器发动机制造商 "wikilink")

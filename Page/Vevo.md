@@ -185,7 +185,7 @@ VEVO認證獎是一個獎勵制度，以獎勵YouTube上瀏覽次數逾1億次�
 <td><p>[55]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/黛咪·洛瓦托" title="wikilink">黛咪·洛瓦托</a></p></td>
+<td><p><a href="../Page/黛咪·洛瓦托.md" title="wikilink">黛咪·洛瓦托</a></p></td>
 <td><p>4</p></td>
 <td><p>[56]</p></td>
 <td></td>

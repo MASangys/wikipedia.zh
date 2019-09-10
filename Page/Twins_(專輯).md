@@ -1,4 +1,4 @@
-《**Twins**》是[臺灣](../Page/臺灣.md "wikilink")女子團體[BY2的第二張錄音室專輯](https://zh.wikipedia.org/wiki/BY2 "wikilink")，也是第二張演唱專輯，於2009年4月10日推出。
+《**Twins**》是[臺灣](../Page/臺灣.md "wikilink")女子團體[BY2](../Page/BY2.md "wikilink")的第二張錄音室專輯，也是第二張演唱專輯，於2009年4月10日推出。
 
 ## 曲目
 

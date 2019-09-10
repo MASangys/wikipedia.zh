@@ -54,7 +54,8 @@
   - [小米9透明尊享版](https://zh.wikipedia.org/wiki/小米9透明尊享版 "wikilink")
   - [小米9王源收藏版](https://zh.wikipedia.org/wiki/小米9王源收藏版 "wikilink")
   - [小米9 SE Lind Friends特別版](https://zh.wikipedia.org/wiki/小米9_SE_Lind_Friends特別版 "wikilink")
-  - [小米9T（Redmi K20)](https://zh.wikipedia.org/wiki/小米9T（Redmi_K20\) "wikilink")
+  - [小米9T(Redmi K20)](https://zh.wikipedia.org/wiki/小米9T\(Redmi_K20\) "wikilink")
+  - [小米9T Pro(Redmi K20 Pro)](https://zh.wikipedia.org/wiki/小米9T_Pro\(Redmi_K20_Pro\) "wikilink")
   - [小米Max](../Page/小米Max.md "wikilink")
   - [小米Max 2](../Page/小米Max_2.md "wikilink")
   - [小米Max 3](https://zh.wikipedia.org/wiki/小米Max_3 "wikilink")
@@ -107,8 +108,10 @@
   - [Redmi Note 7 Pro](https://zh.wikipedia.org/wiki/Redmi_Note_7_Pro "wikilink")
   - [Redmi 7](../Page/Redmi_7.md "wikilink")
   - [Redmi 7A](https://zh.wikipedia.org/wiki/Redmi_7A "wikilink")
-  - [Redmi K20 Pro](https://zh.wikipedia.org/wiki/Redmi_K20_Pro "wikilink")
   - [Redmi K20](../Page/Redmi_K20.md "wikilink")
+  - [Redmi K20 Pro](https://zh.wikipedia.org/wiki/Redmi_K20_Pro "wikilink")
+  - [Redmi Note 8](https://zh.wikipedia.org/wiki/Redmi_Note_8 "wikilink")
+  - [Redmi Note 8 Pro](https://zh.wikipedia.org/wiki/Redmi_Note_8_Pro "wikilink")
 
 #### POCOPHONE
 

@@ -126,57 +126,6 @@
 | LEVEL SPOILER                         | 姬海棠 果                               | SPOILER初始記者   |
 | 射命丸 文                                 | 捏造新闻的记者                             |               |
 
-## 曲目一覽
-
-<table>
-<thead>
-<tr class="header">
-<th><p>曲目</p></th>
-<th><p>名稱</p></th>
-<th><p>中文譯名</p></th>
-<th><p>出現場合</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>1</p></td>
-<td></td>
-<td><p>News Hound</p></td>
-<td><p>主選單</p></td>
-</tr>
-<tr class="even">
-<td><p>2</p></td>
-<td></td>
-<td><p>你家附近的奇闻异事</p></td>
-<td><p>LEVEL 1-2</p></td>
-</tr>
-<tr class="odd">
-<td><p>3</p></td>
-<td></td>
-<td><p>现代妖怪殖民地</p></td>
-<td><p>LEVEL 3-5</p></td>
-</tr>
-<tr class="even">
-<td><p>4</p></td>
-<td></td>
-<td><p>复仇女神的要塞</p></td>
-<td><p>LEVEL 6-8、Ex</p></td>
-</tr>
-<tr class="odd">
-<td><p>5</p></td>
-<td></td>
-<td><p>无间之钟　〜 Infinite Nightmare</p></td>
-<td><p>LEVEL 9-12、Ex</p></td>
-</tr>
-<tr class="even">
-<td><p>6</p></td>
-<td></td>
-<td><p>妖怪之山　〜 Mysterious Mountain</p></td>
-<td><p>LEVEL SPOILER</p></td>
-</tr>
-</tbody>
-</table>
-
 ## 附注
 
 ## 相关条目

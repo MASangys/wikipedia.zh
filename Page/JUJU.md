@@ -2,7 +2,7 @@
 
 ## 童年及出道
 
-JUJU從12歲開始便希望可以成為一個[爵士樂歌手](https://zh.wikipedia.org/wiki/爵士樂 "wikilink")。當在京都定居的時候，她曾經參與過不同的音樂活動，而在18歲的時候她獨自到紐約定居。在紐約定居期間，她接觸了爵士樂，[R\&B](https://zh.wikipedia.org/wiki/R&B "wikilink")，[Hip-hop](https://zh.wikipedia.org/wiki/Hip-hop "wikilink")，[靈魂音樂](https://zh.wikipedia.org/wiki/靈魂音樂 "wikilink")，[拉丁音樂和](https://zh.wikipedia.org/wiki/拉丁音樂 "wikilink")[浩室音樂等多種不同的音樂風格](https://zh.wikipedia.org/wiki/浩室音樂 "wikilink")，拓展了她的音樂知識。2001年，JUJU開始為一些其他歌手的作品作featuring演出。2002年，她為電影《》創作了主題曲。2004年以單曲「」出道，同時也回到日本開始作現場演出。第三張單曲「」曾於USEN榜登上第一名並停留了22週。雖然如此，但當時聽眾數量仍然不多，所以JUJU的知名度依然不高。
+JUJU從12歲開始便希望可以成為一個[爵士樂歌手](https://zh.wikipedia.org/wiki/爵士樂 "wikilink")。當在京都定居的時候，她曾經參與過不同的音樂活動，而在18歲的時候她獨自到紐約定居。在紐約定居期間，她接觸了爵士樂，[R\&B](https://zh.wikipedia.org/wiki/R&B "wikilink")，[Hip-hop](https://zh.wikipedia.org/wiki/Hip-hop "wikilink")，[靈魂音樂](https://zh.wikipedia.org/wiki/靈魂音樂 "wikilink")，[拉丁音樂](../Page/拉丁音樂.md "wikilink")和[浩室音樂等多種不同的音樂風格](https://zh.wikipedia.org/wiki/浩室音樂 "wikilink")，拓展了她的音樂知識。2001年，JUJU開始為一些其他歌手的作品作featuring演出。2002年，她為電影《》創作了主題曲。2004年以單曲「」出道，同時也回到日本開始作現場演出。第三張單曲「」曾於USEN榜登上第一名並停留了22週。雖然如此，但當時聽眾數量仍然不多，所以JUJU的知名度依然不高。
 
 ## 事業發展
 

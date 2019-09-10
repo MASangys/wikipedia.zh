@@ -1,4 +1,4 @@
-《**90'鬧Now**》是[臺灣](../Page/臺灣.md "wikilink")女子團體[BY2的第四張錄音室專輯](https://zh.wikipedia.org/wiki/BY2 "wikilink")，也是第四張演唱專輯，於2011年10月12日發行。
+《**90'鬧Now**》是[臺灣](../Page/臺灣.md "wikilink")女子團體[BY2](../Page/BY2.md "wikilink")的第四張錄音室專輯，也是第四張演唱專輯，於2011年10月12日發行。
 
 ## 曲目
 

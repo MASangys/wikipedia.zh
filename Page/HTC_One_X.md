@@ -772,7 +772,7 @@
   - [HTC](https://zh.wikipedia.org/wiki/HTC "wikilink")
   - [HTC Sensation](../Page/HTC_Sensation.md "wikilink")
   - [HTC Sensation XE](https://zh.wikipedia.org/wiki/HTC_Sensation_XE "wikilink")
-  - [HTC Sensation XL](https://zh.wikipedia.org/wiki/HTC_Sensation_XL "wikilink")
+  - [HTC Sensation XL](../Page/HTC_Sensation_XL.md "wikilink")
   - [宏達國際電子手機列表](https://zh.wikipedia.org/wiki/宏達國際電子手機列表 "wikilink")
 
 ## 參考資料

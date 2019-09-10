@@ -1,4 +1,4 @@
-**D=OUT**（）是日本的視覺系(ヴィジュアル系)搖滾樂團。
+**D=OUT**（）是[日本](../Page/日本.md "wikilink")的[視覺系](../Page/視覺系.md "wikilink")搖滾樂團。2006年出道。
 
 ## 概要
 
@@ -36,13 +36,7 @@
 
 → Mist of Rouge(皐姫) → ソロ(幸樹) → D=OUT
 
-  -   - 10月21日出生、[兵庫県](https://zh.wikipedia.org/wiki/兵庫県 "wikilink")[神戸市出身](https://zh.wikipedia.org/wiki/神戸市 "wikilink")、天秤座、AB型、身高183cm、體重63kg。
-      - 愛讀刊物是[週刊少年JUMP](https://zh.wikipedia.org/wiki/週刊少年JUMP "wikilink")。
-      - [12012](../Page/12012.md "wikilink")的塩谷朋之是高中時代的同學、也是Mist of Rouge時期的成員。
-      - 喜歡的品牌：Louis Vuitton、Justin Davis 、L.H.P.、B'2nd、adidas Originals、And A、GADGET GROW、ZARA。
-      - 不抽菸。
-      - 使用的香水：Bvlgari Pour Homme。
-      - 尊敬的人：家人、[櫻井和壽](../Page/櫻井和壽.md "wikilink")、[椎名林檎](../Page/椎名林檎.md "wikilink")。
+  -   - 10月21日出生、[兵庫県](https://zh.wikipedia.org/wiki/兵庫県 "wikilink")[神戸市出身](https://zh.wikipedia.org/wiki/神戸市 "wikilink")。
 
 <!-- end list -->
 
@@ -50,11 +44,7 @@
 
 → クランベリィ～ → LOST GEAR(庵) → (彩-PSYCHO-)(越谷 庵) → ギルティ(庵) → D=OUT(威吹)
 
-  -   - 1月16日出生、[神奈川県出身](https://zh.wikipedia.org/wiki/神奈川県 "wikilink")、魔羯座、B型、身高175cm、體重56kg。
-      - 喜歡的品牌：沒有這種東西。
-      - 香菸品牌：ＫＥＮＴ５ メンソール。
-      - 使用的香水：Lion Heart。
-      - 尊敬的人：江原さん 。
+  -   - 1月16日出生、[神奈川県出身](https://zh.wikipedia.org/wiki/神奈川県 "wikilink")。
 
 <!-- end list -->
 
@@ -62,11 +52,7 @@
 
 → D=OUT
 
-  -   - 11月27日出生、[徳島県出身](https://zh.wikipedia.org/wiki/徳島県 "wikilink")、射手座、身高162cm、體重50kg。
-      - 喜歡的品牌：oyal Order Vivienne Westwood。
-      - 不抽菸。
-      - 使用的香水：BVLGARIAmethyst Baby doll。
-      - 尊敬的人：[椎名林檎](../Page/椎名林檎.md "wikilink")。
+  -   - 11月27日出生、[徳島県出身](https://zh.wikipedia.org/wiki/徳島県 "wikilink")。
 
 <!-- end list -->
 
@@ -74,11 +60,7 @@
 
 → GRANDNUDE(Triё) → D=OUT(玲夏)
 
-  -   - 8月5日出生、[青森県出身](https://zh.wikipedia.org/wiki/青森県 "wikilink")、獅子座、B型、身高175cm、體重大概50kg後半。
-      - 喜歡的品牌：GUCCI、JUSTIN DAVIS、CHROME HEARTS。
-      - 香菸品牌：Marlboro Medium。
-      - 使用的香水：根據每天心情變換。
-      - 尊敬的人：[劇團一人](../Page/劇團一人.md "wikilink")。
+  -   - 8月5日出生、[青森県出身](https://zh.wikipedia.org/wiki/青森県 "wikilink")。
 
 <!-- end list -->
 
@@ -86,7 +68,7 @@
 
 → xTRiPx → ZUCK(支援) → xTRiPx(ena) → D=OUT(直人)
 
-  -   - 7月21日出生、[福岡県出身](https://zh.wikipedia.org/wiki/福岡県 "wikilink")、巨蟹座、O型、身高172cm。
+  -   - 7月21日出生、[福岡県出身](https://zh.wikipedia.org/wiki/福岡県 "wikilink")。
 
 ## 舊成員
 
@@ -94,11 +76,7 @@
 
 → DERAIL → Mudgett(澪流)(ミナ) → (V-Friends)(ミナ) → D=OUT(ミナセ) → 引退
 
-  -   - 3月2日出生、[京都府出身](https://zh.wikipedia.org/wiki/京都府 "wikilink")、雙魚座、O型、身高178cm、體重50kg。
-      - 喜歡的品牌：And A　SCHLUSSE。
-      - 香菸品牌：Marlboro Light。
-      - 使用的香水：Dolce Light Blue。
-      - 尊敬的人：[美輪明宏](../Page/美輪明宏.md "wikilink")。
+  -   - 3月2日出生、[京都府出身](https://zh.wikipedia.org/wiki/京都府 "wikilink")。
 
 ## 音樂作品
 
@@ -538,7 +516,7 @@ Oricon週間排行榜初登場15位<br />
   - [Ba. 玲夏的部落格「The☆People」](http://ameblo.jp/d-out-reika/)
   - [Dr. Minase的部落格「brand new wave」](https://web.archive.org/web/20111204213619/http://ameblo.jp/d-out-minase)
 
-[Category:視覺系樂團](https://zh.wikipedia.org/wiki/Category:視覺系樂團 "wikilink") [Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink") [Category:日本硬式搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本硬式搖滾樂團 "wikilink") [Category:日本前衛搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本前衛搖滾樂團 "wikilink")
+[Category:視覺系樂團](https://zh.wikipedia.org/wiki/Category:視覺系樂團 "wikilink") [Category:日本硬式搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本硬式搖滾樂團 "wikilink") [Category:日本前衛搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本前衛搖滾樂團 "wikilink")
 
 1.
 2.  [ダウト(D=OUT)第十次台灣公演 台灣國旗驚喜飄現](https://memeon-music.com/2017/09/15/d-out-livereport-2/)

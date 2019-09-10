@@ -849,7 +849,6 @@
 
   - [AV女優列表](https://zh.wikipedia.org/wiki/AV女優列表 "wikilink")
   - [成人視頻製造商](https://zh.wikipedia.org/wiki/成人視頻製造商 "wikilink")
-  - [日本性產業](https://zh.wikipedia.org/wiki/日本性產業 "wikilink")
   - [DMM.com](../Page/DMM.com.md "wikilink")
 
 ## 參考資料

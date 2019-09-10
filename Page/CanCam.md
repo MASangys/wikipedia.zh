@@ -12,17 +12,19 @@
 
 ### 現役
 
+  - [石川戀](https://zh.wikipedia.org/wiki/石川戀 "wikilink")
   - [楓](https://zh.wikipedia.org/wiki/土橋楓 "wikilink")
   - [坂田梨香子](https://zh.wikipedia.org/wiki/坂田梨香子 "wikilink")
-  - [澤宥紀](https://zh.wikipedia.org/wiki/澤宥紀 "wikilink")
-  - [トラウデン直美](https://zh.wikipedia.org/wiki/トラウデン直美 "wikilink")
-  - [若山あやの](https://zh.wikipedia.org/wiki/若山あやの "wikilink")
-  - [久松郁実](https://zh.wikipedia.org/wiki/久松郁実 "wikilink")
+  - [中條彩未](../Page/中條彩未.md "wikilink")
   - [堀田茜](https://zh.wikipedia.org/wiki/堀田茜 "wikilink")
   - [まい](https://zh.wikipedia.org/wiki/chay "wikilink")
   - [松村沙友理](../Page/松村沙友理.md "wikilink")（乃木坂46）
   - [宮本茉由](https://zh.wikipedia.org/wiki/宮本茉由 "wikilink")
   - [山下美月](../Page/山下美月.md "wikilink")（乃木坂46）
+  - [加藤史帆](../Page/加藤史帆.md "wikilink")（日向坂46）
+  - [菜波](https://zh.wikipedia.org/wiki/菜波 "wikilink")
+  - [小室安未](https://zh.wikipedia.org/wiki/小室安未 "wikilink")
+  - [ほのか](https://zh.wikipedia.org/wiki/ほのか "wikilink")
 
 ### 已畢業
 
@@ -200,6 +202,12 @@
   - [山本美月](../Page/山本美月.md "wikilink")
 
   - [池田依來沙](../Page/池田依來沙.md "wikilink")
+
+  - [澤宥紀](https://zh.wikipedia.org/wiki/澤宥紀 "wikilink")
+
+  - [トラウデン直美](https://zh.wikipedia.org/wiki/トラウデン直美 "wikilink")
+
+  - [久松郁実](https://zh.wikipedia.org/wiki/久松郁実 "wikilink")
 
 ## 相關條目
 

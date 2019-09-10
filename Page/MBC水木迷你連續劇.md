@@ -2278,7 +2278,7 @@
 <td style="text-align: center;"><p><a href="../Page/金惠允.md" title="wikilink">金惠允</a>、<a href="https://zh.wikipedia.org/wiki/金路雲" title="wikilink">金路雲</a>、<a href="../Page/李在旭.md" title="wikilink">李在旭</a>、<a href="../Page/李娜恩.md" title="wikilink">李娜恩</a>、<a href="../Page/鄭乾柱.md" title="wikilink">鄭乾柱</a>、<a href="../Page/李泰利.md" title="wikilink">李泰利</a>、<a href="https://zh.wikipedia.org/wiki/金永大" title="wikilink">金永大</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金尚葉" title="wikilink">金尚葉</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/印智慧" title="wikilink">印智慧</a>、<a href="https://zh.wikipedia.org/wiki/宋荷英" title="wikilink">宋荷英</a></p></td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><p>무류《偶然發現的7月》</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>2019年11月－<br />

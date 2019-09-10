@@ -81,7 +81,7 @@
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/Lawrence_of_Rome" title="wikilink">Lawrence of Rome</a></p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/罗马的老楞佐" title="wikilink">罗马的老楞佐</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/罗马的圣老楞佐" title="wikilink">罗马的老楞佐</a></p></td>
 <td><p>罗马的罗伦斯</p></td>
 <td><p> </p></td>
 <td><p>258</p></td>

@@ -23,4 +23,4 @@
 
 </div>
 
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:1984年音樂專輯](https://zh.wikipedia.org/wiki/Category:1984年音樂專輯 "wikilink") [Category:張國榮音樂專輯](https://zh.wikipedia.org/wiki/Category:張國榮音樂專輯 "wikilink")
+[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:香港流行音乐专辑](https://zh.wikipedia.org/wiki/Category:香港流行音乐专辑 "wikilink") [Category:1984年音樂專輯](https://zh.wikipedia.org/wiki/Category:1984年音樂專輯 "wikilink") [Category:張國榮音樂專輯](https://zh.wikipedia.org/wiki/Category:張國榮音樂專輯 "wikilink")

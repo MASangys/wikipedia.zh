@@ -402,6 +402,35 @@ Mr.Platonic -Making-</p></td>
 <td><p>3位</p></td>
 <td><p><strong>クロスロード</strong>是<a href="../Page/富士電視台.md" title="wikilink">富士電視台</a>「<a href="https://zh.wikipedia.org/wiki/ウチくる！？" title="wikilink">ウチくる！？</a>」片尾曲</p></td>
 </tr>
+<tr class="even">
+<td><p>17th</p></td>
+<td><p>2019年7月17日</p></td>
+<td><div class="NavFrame" style="border:0">
+<div class="NavHead">
+<p><strong>Metropolis〜メトロポリス〜</strong></p>
+</div>
+<div class="NavContent" style="text-align:left">
+<ol>
+<li>Metropolis〜メトロポリス〜</li>
+<li>Change My Life</li>
+<li>Tell Me How You Feel</li>
+<li>Metropolis～メトロポリス～ Instrumental</li>
+<li>Change My Life Instrumental</li>
+<li>Tell Me How You Feel Instrumental</li>
+</ol>
+<dl>
+<dt>DVD収録内容</dt>
+
+</dl>
+<ol>
+<li>Metropolis～メトロポリス～ MUSIC VIDEO</li>
+<li>Change My Life MUSIC VIDEO</li>
+<li>Tell Me How You Feel MUSIC VIDEO</li>
+<li>全MUSIC VIDEOオフショット</li>
+</ol></td>
+<td><p>6位</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

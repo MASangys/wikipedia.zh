@@ -35,6 +35,7 @@
       - “新城大馬路／金光會展”站改名為“路氹西／金光會展”站
       - “水上街市”站改名為“沙梨頭街市”站
       - “運動場圓形地”站改名為“運動場/體育中心”站
+  - 2019年8月31日起，因“內港北雨水泵站箱涵渠建造工程”已完工，本線開始恢復原線停靠。
   - 本線是目前唯一一條，行經全段媽閣至林茂塘時限性巴士專道的路線。
 
 ## 使用車輛
@@ -55,49 +56,14 @@
 
 ### 服務時間及班距
 
-<table style="width:90%;">
-<colgroup>
-<col style="width: 30%" />
-<col style="width: 30%" />
-<col style="width: 30%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p><strong>服務時間</strong></p></th>
-<th><p>平日(星期一至五)</p></th>
-<th><p>例假日(含公眾假期)</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/關閘總站" title="wikilink">關閘總站</a></p></td>
-<td><p>05:45-00:00</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/臨時客運碼頭_(總站)" title="wikilink">氹仔客運碼頭</a></p></td>
-<td><p>06:00-00:45</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>班距</strong></p></td>
-<td><p>尖峰6-10分鐘<br />
-離峰10-12分鐘</p></td>
-<td><p>尖峰8-12分鐘<br />
-離峰12-15分鐘</p></td>
-</tr>
-<tr class="even">
-<td><p><strong>懸掛8號風球後15分鐘開出尾班車</strong></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| **服務時間**                                                         | 平日(星期一至五)   | 例假日(含公眾假期) |
+| ---------------------------------------------------------------- | ----------- | ---------- |
+| [關閘總站](https://zh.wikipedia.org/wiki/關閘總站 "wikilink")            | 05:45-00:00 |            |
+| [氹仔客運碼頭](https://zh.wikipedia.org/wiki/臨時客運碼頭_\(總站\) "wikilink") | 06:00-00:45 |            |
+| **班距**                                                           | 尖峰          | 6-10分鐘     |
+| 離峰                                                               | 10-12分鐘     | 12-15分鐘    |
+| **懸掛8號風球後15分鐘開出尾班車**                                             |             |            |
+|                                                                  |             |            |
 
 ### 路線停站
 

@@ -1,6 +1,6 @@
 **DSP Media**（）是1991年所成立的[韓國綜合娛樂公司](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")。起初主音樂企劃兼製作，明星事務管理，後規模擴展至明星營銷，錄音室，音樂發行等相關領域。從2005年擴展綜合娛樂方面，包含製作電視、電影等。現今公司所包含的事務為明星管理、唱片製作、電視劇、電影、娛樂節目、雜誌，是一家以綜合性文化為導向的娛樂公司。
 
-公司推出的熱門組合有[水晶男孩](../Page/水晶男孩.md "wikilink")、[Fin.K.L.](https://zh.wikipedia.org/wiki/Fin.K.L. "wikilink")、[Click-B](https://zh.wikipedia.org/wiki/Click-B "wikilink")、[SS501](../Page/SS501.md "wikilink")、[Kara](../Page/Kara.md "wikilink")(已解散)、[Rainbow](../Page/Rainbow_\(音樂團體\).md "wikilink")(已解散)、[A-JAX](../Page/A-JAX.md "wikilink")(已解散)、[APRIL](https://zh.wikipedia.org/wiki/APRIL_\(女子團體\) "wikilink")、[KARD](../Page/KARD.md "wikilink")等。
+公司推出的熱門組合有[水晶男孩](../Page/水晶男孩.md "wikilink")、[Fin.K.L.](https://zh.wikipedia.org/wiki/Fin.K.L. "wikilink")、[Click-B](https://zh.wikipedia.org/wiki/Click-B "wikilink")、[SS501](../Page/SS501.md "wikilink")、[Kara](../Page/Kara.md "wikilink")(已解散)、[Rainbow](../Page/Rainbow_\(音樂團體\).md "wikilink")(已解散)、[A-JAX](../Page/A-JAX.md "wikilink")(已解散)、[APRIL](../Page/APRIL_\(女子團體\).md "wikilink")、[KARD](../Page/KARD.md "wikilink")等。
 
 代表出品的電視劇(外包製作)有《[我的女孩](https://zh.wikipedia.org/wiki/兄妹契约 "wikilink")》、《[淵蓋蘇文](../Page/渊盖苏文_\(电视剧\).md "wikilink")》和 《[開朗醫生奉達熙](https://zh.wikipedia.org/wiki/外科医生奉达熙 "wikilink")》等，代表出品的娛樂節目(外包製作)有[KBS的](../Page/韓國放送公社.md "wikilink")「朴秀洪崔正元的餘裕滿滿」、「經濟維他命」與「美好過度，運動本部」等。
 
@@ -27,15 +27,15 @@
   - 2014年1月，女團[Kara](../Page/Kara.md "wikilink")成員[鄭龍珠](../Page/鄭龍珠.md "wikilink")與之合約到期，不續約。
   - 2014年4月，女團[Kara](../Page/Kara.md "wikilink")成員[姜知英與之合約到期](https://zh.wikipedia.org/wiki/姜知英 "wikilink")，不續約。
   - 2014年7月，女團Kara透過節目《KARA PROJECT-KARA The Beginning》，加入[齡智成為新成員](../Page/許齡智.md "wikilink")，團體人數增至四人。
-  - 2015年8月，旗下六人女團[APRIL出道](https://zh.wikipedia.org/wiki/APRIL_\(女子團體\) "wikilink")。
-  - 2015年11月，女團[APRIL隊長](https://zh.wikipedia.org/wiki/APRIL_\(女子團體\) "wikilink")[昭珉退出組合](https://zh.wikipedia.org/wiki/昭珉 "wikilink")，現為[KARD](../Page/KARD.md "wikilink")成員。
+  - 2015年8月，旗下六人女團[APRIL出道](../Page/APRIL_\(女子團體\).md "wikilink")。
+  - 2015年11月，女團[APRIL隊長](../Page/APRIL_\(女子團體\).md "wikilink")[昭珉退出組合](https://zh.wikipedia.org/wiki/昭珉 "wikilink")，現為[KARD](../Page/KARD.md "wikilink")成員。
   - 2016年1月，男團[A-JAX](../Page/A-JAX.md "wikilink")成員成民退出組合，改以個人Rapper身份出道。
   - 2016年1月，女團[Kara](../Page/Kara.md "wikilink")的原始成員[奎利](../Page/朴奎利.md "wikilink")、[昇延](../Page/韓昇延.md "wikilink")、[荷拉於月底約滿](https://zh.wikipedia.org/wiki/具荷拉 "wikilink")，三人皆不續約，只有[齡智因為尚有合約](../Page/許齡智.md "wikilink")，仍然留在DSP Media，Kara至此已經正式解散。
   - 2016年2月，男團[A-JAX](../Page/A-JAX.md "wikilink")成員智厚、在亨退出組合，智厚繼續留守DSP，在亨則決定解約，並加入新成員重熙。
-  - 2016年10月，女團[APRIL成員](https://zh.wikipedia.org/wiki/APRIL_\(女子團體\) "wikilink")[玹珠退出組合](../Page/李玹珠.md "wikilink")，不過現時仍為DSP旗下演員，並加入新成員[彩暻](https://zh.wikipedia.org/wiki/尹彩暻 "wikilink")、Rachel。
+  - 2016年10月，女團[APRIL成員](../Page/APRIL_\(女子團體\).md "wikilink")[玹珠退出組合](../Page/李玹珠.md "wikilink")，不過現時仍為DSP旗下演員，並加入新成員[彩暻](https://zh.wikipedia.org/wiki/尹彩暻 "wikilink")、Rachel。
   - 2016年11月 ，女團[Rainbow全體成員合約到期](../Page/Rainbow_\(音樂團體\).md "wikilink")，七人皆不續約，Rainbow宣布解散。
   - 2016年12月，旗下四人混合企劃團[KARD](../Page/KARD.md "wikilink")，首位隱藏成員為前[Kara](../Page/Kara.md "wikilink")成員[許齡智](../Page/許齡智.md "wikilink")，於2017年7月19日正式出道。
-  - 2018年2月，女團[APRIL成員娜恩](https://zh.wikipedia.org/wiki/APRIL_\(女子團體\) "wikilink")、真率首組子團，於7日推出新曲《My Story (내이야기)》。
+  - 2018年2月，女團[APRIL成員娜恩](../Page/APRIL_\(女子團體\).md "wikilink")、真率首組子團，於7日推出新曲《My Story (내이야기)》。
   - 2018年2月，被稱為第1代韓國經紀公司創始人的DSP媒體創辦人李皓延於2010年出現腦溢血症狀以來，長期與病痛抗爭，因病情惡化於2月14日凌晨離世，享壽64歲。
   - 2019年3月 ，男團[A-JAX](../Page/A-JAX.md "wikilink")全體成員約滿，[A-JAX](../Page/A-JAX.md "wikilink")宣布解散。
 
@@ -56,7 +56,7 @@
 </tr>
 <tr class="even">
 <td><p>2015</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/APRIL_(女子團體)" title="wikilink">APRIL</a></p></td>
+<td><p><a href="../Page/APRIL_(女子團體).md" title="wikilink">APRIL</a></p></td>
 <td><p><a href="../Page/彩暻.md" title="wikilink">彩暻</a>、 <a href="https://zh.wikipedia.org/wiki/金採媛" title="wikilink">採媛</a>、<a href="../Page/李娜恩.md" title="wikilink">娜恩</a>、<a href="https://zh.wikipedia.org/wiki/梁睿娜" title="wikilink">睿娜</a>、Rachel、<a href="https://zh.wikipedia.org/wiki/李真率" title="wikilink">真率</a></p></td>
 <td><p><a href="../Page/彩暻.md" title="wikilink">彩暻</a>（非官方）</p></td>
 <td><p>FINEAPPLE</p></td>
@@ -73,7 +73,7 @@
 <td><p>-</p></td>
 <td><p>HIDDEN KARD</p></td>
 <td><p>未公佈</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/昭珉" title="wikilink">全昭珉為</a><a href="https://zh.wikipedia.org/wiki/APRIL_(女子團體)" title="wikilink">APRIL前成員</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/昭珉" title="wikilink">全昭珉為</a><a href="../Page/APRIL_(女子團體).md" title="wikilink">APRIL前成員</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -104,7 +104,7 @@
 <td><p>2015</p></td>
 <td><p><a href="../Page/李玹珠.md" title="wikilink">李玹珠</a></p></td>
 <td><p>演員</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/APRIL_(女子團體)" title="wikilink">APRIL</a></p></td>
+<td><p><a href="../Page/APRIL_(女子團體).md" title="wikilink">APRIL</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -319,8 +319,8 @@
 <td><p>、、<a href="../Page/彩暻.md" title="wikilink">彩暻</a><br />
 <a href="https://zh.wikipedia.org/wiki/昭珉" title="wikilink">昭珉</a>、在恩</p></td>
 <td><p>2014年、在恩退團，PURETTY解散後，、<a href="../Page/彩暻.md" title="wikilink">彩暻</a>、昭珉加入<a href="../Page/Baby_Kara.md" title="wikilink">Baby Kara</a>。<br />
-<a href="../Page/Baby_Kara.md" title="wikilink">Baby Kara解散後</a>，<a href="https://zh.wikipedia.org/wiki/昭珉" title="wikilink">昭珉先後以</a><a href="https://zh.wikipedia.org/wiki/APRIL_(女子團體)" title="wikilink">APRIL</a>、<a href="../Page/KARD.md" title="wikilink">KARD</a>成員身份活動。<br />
-而、<a href="../Page/彩暻.md" title="wikilink">彩暻</a>參加<a href="../Page/PRODUCE_101.md" title="wikilink">PRODUCE 101</a>，節目完結後，<a href="../Page/彩暻.md" title="wikilink">彩暻</a>先後以<a href="../Page/C.I.V.A.md" title="wikilink">C.I.V.A</a>、<a href="../Page/I.B.I.md" title="wikilink">I.B.I</a>、<a href="https://zh.wikipedia.org/wiki/APRIL_(女子團體)" title="wikilink">APRIL成員身份活動</a>。</p></td>
+<a href="../Page/Baby_Kara.md" title="wikilink">Baby Kara解散後</a>，<a href="https://zh.wikipedia.org/wiki/昭珉" title="wikilink">昭珉先後以</a><a href="../Page/APRIL_(女子團體).md" title="wikilink">APRIL</a>、<a href="../Page/KARD.md" title="wikilink">KARD</a>成員身份活動。<br />
+而、<a href="../Page/彩暻.md" title="wikilink">彩暻</a>參加<a href="../Page/PRODUCE_101.md" title="wikilink">PRODUCE 101</a>，節目完結後，<a href="../Page/彩暻.md" title="wikilink">彩暻</a>先後以<a href="../Page/C.I.V.A.md" title="wikilink">C.I.V.A</a>、<a href="../Page/I.B.I.md" title="wikilink">I.B.I</a>、<a href="../Page/APRIL_(女子團體).md" title="wikilink">APRIL成員身份活動</a>。</p></td>
 <td></td>
 </tr>
 <tr class="even">

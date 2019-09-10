@@ -1,6 +1,6 @@
 [2008_Google_Developer_Day_in_Taiwan_Press_Conference.jpg](https://zh.wikipedia.org/wiki/File:2008_Google_Developer_Day_in_Taiwan_Press_Conference.jpg "fig:2008_Google_Developer_Day_in_Taiwan_Press_Conference.jpg")
 
-**Google开发者日**（Google Developer Day）是由[谷歌每年在不同地方举办的针对网络开发者的一日会议](https://zh.wikipedia.org/wiki/谷歌 "wikilink")。它们包括讨论会和编程实验组。他们重点讨论网络的架构，移动产品，基于谷歌应用软件的研发公司和开放式网络技术，例如[Android](../Page/Android.md "wikilink")、[HTML5](../Page/HTML5.md "wikilink")、[Chrome](../Page/Google_Chrome.md "wikilink")、[Google App Engine](https://zh.wikipedia.org/wiki/Google_App_Engine "wikilink")、[Google Web Toolkit和给予每个参与者一次绝佳机会来学习谷歌开发者研发的产品](https://zh.wikipedia.org/wiki/Google_Web_Toolkit "wikilink")，也同时与参与项目的工程师互动分享。这会议的形式类似于[Google I/O](https://zh.wikipedia.org/wiki/Google_I/O "wikilink")。
+**Google开发者日**（Google Developer Day）是由[谷歌每年在不同地方举办的针对网络开发者的一日会议](https://zh.wikipedia.org/wiki/谷歌 "wikilink")。它们包括讨论会和编程实验组。他们重点讨论网络的架构，移动产品，基于谷歌应用软件的研发公司和开放式网络技术，例如[Android](../Page/Android.md "wikilink")、[HTML5](../Page/HTML5.md "wikilink")、[Chrome](../Page/Google_Chrome.md "wikilink")、[Google App Engine](../Page/Google_App_Engine.md "wikilink")、[Google Web Toolkit和给予每个参与者一次绝佳机会来学习谷歌开发者研发的产品](https://zh.wikipedia.org/wiki/Google_Web_Toolkit "wikilink")，也同时与参与项目的工程师互动分享。这会议的形式类似于[Google I/O](https://zh.wikipedia.org/wiki/Google_I/O "wikilink")。
 
 到目前，Google开发者日如下：
 

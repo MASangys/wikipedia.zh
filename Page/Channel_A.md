@@ -46,7 +46,7 @@
   - [給你宇宙](../Page/給你宇宙.md "wikilink")
   - [都市漁夫](https://zh.wikipedia.org/wiki/都市漁夫 "wikilink")
   - [新職員誕生記](https://zh.wikipedia.org/wiki/新職員誕生記 "wikilink")
-  - [Eye Contact](https://zh.wikipedia.org/wiki/Eye_Contact "wikilink")
+  - [Eye Contact](../Page/Eye_Contact.md "wikilink")
 
 ### 探討節目
 

@@ -1,12 +1,12 @@
 **[Android](../Page/Android.md "wikilink")**是一個由[Google](../Page/Google.md "wikilink")和[開放手機聯盟](../Page/開放手機聯盟.md "wikilink")共同開發的移動設備[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，其最初的版本（Android 0.5）在2007年11月5日發行。至今，Android已發行多個更新版本，每個版本除了修復前一版本的漏洞外，還多了新的功能。
 
-Android作業系統有預發行的內部版本，分別為[原子小金剛](https://zh.wikipedia.org/wiki/原子小金剛 "wikilink")（Astro）與[機器人班亭](https://zh.wikipedia.org/wiki/機器人班亭 "wikilink")（Bender，电视动画《[乃出個未來](../Page/乃出個未來.md "wikilink")》的角色）\[1\]。從2009年5月開始，Android的版本代號改以甜點來命名，且每個代號間的字首以英文字母序接續排列：Cupcake（[紙杯蛋糕](https://zh.wikipedia.org/wiki/紙杯蛋糕 "wikilink")）、Donut（[甜甜圈](../Page/甜甜圈.md "wikilink")）、Eclair（[閃電泡芙](https://zh.wikipedia.org/wiki/閃電泡芙 "wikilink")）、Froyo（[優格冰淇淋](https://zh.wikipedia.org/wiki/優格冰淇淋 "wikilink")）、Gingerbread（[薑餅](../Page/薑餅.md "wikilink")）、Honeycomb（[蜂巢](../Page/蜂巢.md "wikilink")）、Ice Cream Sandwich（[冰淇淋三明治](https://zh.wikipedia.org/wiki/冰淇淋三明治 "wikilink")）、Jelly Bean（[雷根糖](../Page/雷根糖.md "wikilink")）、KitKat（[奇巧巧克力](../Page/奇巧巧克力.md "wikilink")）、Lollipop（[棒棒糖](https://zh.wikipedia.org/wiki/棒棒糖 "wikilink")）、Marshmallow（[棉花糖](../Page/棉花糖_\(顆粒狀\).md "wikilink")）、Nougat（[牛轧糖](../Page/牛轧糖.md "wikilink")）、Oreo（[奧利奧](../Page/奧利奧.md "wikilink")）、Pie（[派](../Page/西式餡餅.md "wikilink")）。
+Android作業系統有預發行的內部版本，分別為[原子小金剛](https://zh.wikipedia.org/wiki/原子小金剛 "wikilink")（Astro）與[機器人班亭](https://zh.wikipedia.org/wiki/機器人班亭 "wikilink")（Bender，电视动画《[乃出個未來](../Page/乃出個未來.md "wikilink")》的角色）\[1\]。從2009年5月開始，Android的版本代號改以甜點來命名，且每個代號間的字首以英文字母序接續排列：Cupcake（[紙杯蛋糕](https://zh.wikipedia.org/wiki/紙杯蛋糕 "wikilink")）、Donut（[甜甜圈](../Page/甜甜圈.md "wikilink")）、Eclair（）、Froyo（[優格冰淇淋](https://zh.wikipedia.org/wiki/優格冰淇淋 "wikilink")）、Gingerbread（[薑餅](../Page/薑餅.md "wikilink")）、Honeycomb（[蜂巢](../Page/蜂巢.md "wikilink")）、Ice Cream Sandwich（）、Jelly Bean（[雷根糖](../Page/雷根糖.md "wikilink")）、KitKat（[奇巧巧克力](../Page/奇巧巧克力.md "wikilink")）、Lollipop（[棒棒糖](https://zh.wikipedia.org/wiki/棒棒糖 "wikilink")）、Marshmallow（[棉花糖](../Page/棉花糖_\(顆粒狀\).md "wikilink")）、Nougat（[牛轧糖](../Page/牛轧糖.md "wikilink")）、Oreo（[奧利奧](../Page/奧利奧.md "wikilink")）、Pie（[派](../Page/西式餡餅.md "wikilink")）。2019年8月23日，Google宣布從[Android Q開始不再以甜品命名](../Page/Android_Q.md "wikilink")，且直接稱Android Q為Android 10\[2\]。
 
-[Global自2009年12月起的Android用户版本分析。，Android 6.0為使用率最高的Android版本，在所有用户中占了31.8%。其次是Android 5.1，占22.3%。\[2\]|800x800px|居中](https://zh.wikipedia.org/wiki/File:Android_historical_version_distribution_-_vector.svg "fig:Global自2009年12月起的Android用户版本分析。，Android 6.0為使用率最高的Android版本，在所有用户中占了31.8%。其次是Android 5.1，占22.3%。|800x800px|居中")
+[Global自2009年12月起的Android用户版本分析。，Android 6.0為使用率最高的Android版本，在所有用户中占了31.8%。其次是Android 5.1，占22.3%。\[3\]|800x800px|居中](https://zh.wikipedia.org/wiki/File:Android_historical_version_distribution_-_vector.svg "fig:Global自2009年12月起的Android用户版本分析。，Android 6.0為使用率最高的Android版本，在所有用户中占了31.8%。其次是Android 5.1，占22.3%。|800x800px|居中")
 
 ## 測試版
 
-Android最初的版本是於2007年11月5日發行的Android 0.5\[3\]\[4\]，它作為一個面向開發者的軟件開發包（SDK）進行發行\[5\]。
+Android最初的版本是於2007年11月5日發行的Android 0.5\[4\]\[5\]，它作為一個面向開發者的軟件開發包（SDK）進行發行\[6\]。
 
 ## 版本列表
 
@@ -14,39 +14,39 @@ Android最初的版本是於2007年11月5日發行的Android 0.5\[3\]\[4\]，它
 <thead>
 <tr class="header">
 <th><p>Alpha、Beta</p></th>
-<th><p>初期還未完成的版本以里程碑（Milestone）的M來作編號（如m3, m5）後面接rc號碼（如m3-rc37a），再細分為每星期的結果WB或測試序號TC。至2009年團隊認為這些編號太難分辨和記憶，所以改成CRA29，而這也某程度上決定了後來使用英文字母排序的方式來命名代號。在這其中無數的里程碑中，曾經打算過使用虛構作品中的機械人（Android）作為代號，例如Astro Boy“<a href="https://zh.wikipedia.org/wiki/鐵臂阿童木" title="wikilink">鐵臂阿童木</a>”和Bender“<a href="../Page/班德·班亭·羅德里蓋茲.md" title="wikilink">班德·班亭·羅德里蓋茲</a>”。[6]</p></th>
+<th><p>初期還未完成的版本以里程碑（Milestone）的M來作編號（如m3, m5）後面接rc號碼（如m3-rc37a），再細分為每星期的結果WB或測試序號TC。至2009年團隊認為這些編號太難分辨和記憶，所以改成CRA29，而這也某程度上決定了後來使用英文字母排序的方式來命名代號。在這其中無數的里程碑中，曾經打算過使用虛構作品中的機械人（Android）作為代號，例如Astro Boy“<a href="https://zh.wikipedia.org/wiki/鐵臂阿童木" title="wikilink">鐵臂阿童木</a>”和Bender“<a href="../Page/班德·班亭·羅德里蓋茲.md" title="wikilink">班德·班亭·羅德里蓋茲</a>”。[7]</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p><span id="v1.0">Android 1.0</span></p></td>
-<td><p>2008年9月23日，發布Android作業系統中的第一個正式版本：Android 1.0，當時並未有特別名稱[7]。全球第一台Android設備<a href="../Page/HTC_Dream.md" title="wikilink">HTC Dream</a>（G1）就是搭載Android 1.0作業系統[8]，以下Android 1.0所擁有的特性功能：</p>
+<td><p>2008年9月23日，發布Android作業系統中的第一個正式版本：Android 1.0，當時並未有特別名稱[8]。全球第一台Android設備<a href="../Page/HTC_Dream.md" title="wikilink">HTC Dream</a>（G1）就是搭載Android 1.0作業系統[9]，以下Android 1.0所擁有的特性功能：</p>
 <ul>
 <li><a href="https://zh.wikipedia.org/wiki/Android_Market" title="wikilink">Android Market</a>：下載應用程式和獲得更新；</li>
-<li><a href="https://zh.wikipedia.org/wiki/網頁瀏覽器" title="wikilink">網頁瀏覽器</a>：可以完全還原並且顯示<a href="../Page/HTML.md" title="wikilink">HTML</a>和<a href="../Page/XHTML.md" title="wikilink">XHTML</a>的網頁–並且可以通過多點觸控對網頁進行放大縮小[9][10]。</li>
-<li>照相機：支持照相機和攝像頭，但是这个版本没有选项来改变相机的分辨率、白平衡、质量等等[11]。</li>
-<li>允許將應用程式圖標放置到資料夾中，並且可以在主界面顯示插件等東西[12]。</li>
-<li>支持E-mail傳輸：支持<a href="https://zh.wikipedia.org/wiki/POP3" title="wikilink">POP3</a>、<a href="https://zh.wikipedia.org/wiki/IMAP4" title="wikilink">IMAP4以及</a><a href="https://zh.wikipedia.org/wiki/SMTP" title="wikilink">SMTP</a>[13]。</li>
+<li><a href="https://zh.wikipedia.org/wiki/網頁瀏覽器" title="wikilink">網頁瀏覽器</a>：可以完全還原並且顯示<a href="../Page/HTML.md" title="wikilink">HTML</a>和<a href="../Page/XHTML.md" title="wikilink">XHTML</a>的網頁–並且可以通過多點觸控對網頁進行放大縮小[10][11]。</li>
+<li>照相機：支持照相機和攝像頭，但是这个版本没有选项来改变相机的分辨率、白平衡、质量等等[12]。</li>
+<li>允許將應用程式圖標放置到資料夾中，並且可以在主界面顯示插件等東西[13]。</li>
+<li>支持E-mail傳輸：支持<a href="https://zh.wikipedia.org/wiki/POP3" title="wikilink">POP3</a>、<a href="https://zh.wikipedia.org/wiki/IMAP4" title="wikilink">IMAP4以及</a><a href="https://zh.wikipedia.org/wiki/SMTP" title="wikilink">SMTP</a>[14]。</li>
 <li><a href="../Page/Gmail.md" title="wikilink">Gmail</a>：進行Gmail同步。</li>
 <li><a href="https://zh.wikipedia.org/wiki/Google聯繫人" title="wikilink">Google聯繫人</a>：通過People應用程式同步聯繫人。</li>
 <li><a href="../Page/Google日曆.md" title="wikilink">Google日曆</a>：通過日曆程式同步日曆和日程。</li>
-<li><a href="https://zh.wikipedia.org/wiki/Google地圖" title="wikilink">Google地圖</a>、<a href="https://zh.wikipedia.org/wiki/Google縱橫" title="wikilink">Google縱橫以及</a><a href="https://zh.wikipedia.org/wiki/Google街景" title="wikilink">Google街景可以幫助用戶查看地圖和地理信息</a>，並且可以通過<a href="https://zh.wikipedia.org/wiki/GPS" title="wikilink">GPS服務确定地理位置</a>[14]。</li>
+<li><a href="https://zh.wikipedia.org/wiki/Google地圖" title="wikilink">Google地圖</a>、<a href="https://zh.wikipedia.org/wiki/Google縱橫" title="wikilink">Google縱橫以及</a><a href="https://zh.wikipedia.org/wiki/Google街景" title="wikilink">Google街景可以幫助用戶查看地圖和地理信息</a>，並且可以通過<a href="https://zh.wikipedia.org/wiki/GPS" title="wikilink">GPS服務确定地理位置</a>[15]。</li>
 <li><a href="https://zh.wikipedia.org/wiki/File:Android_logo.png" title="fig:缩略图">缩略图</a><a href="https://zh.wikipedia.org/wiki/Google同步" title="wikilink">Google同步</a>：一個管理Android設備中谷歌服務的應用。</li>
 <li><a href="../Page/Google搜索.md" title="wikilink">Google搜索</a>：允許用戶在手機和網絡上進行統一的搜索，包括聯繫人、電話、日曆和信息等。</li>
 <li><a href="../Page/Google_Talk.md" title="wikilink">Google Talk</a>：一個聊天工具。</li>
 <li><a href="https://zh.wikipedia.org/wiki/即時訊息" title="wikilink">即時訊息</a>、<a href="https://zh.wikipedia.org/wiki/語音訊息" title="wikilink">語音訊息和短信</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/多媒體播放器" title="wikilink">多媒體播放器</a>：負責管理、導入、拷貝和播放多媒體文件，但是不支持藍牙耳機[15][16]。</li>
-<li>通知的信息可以在状态欄顯示，並且可以對提示的方式進行設定，包括振動、聲音、LED或警告等提示方式[17][18][19]。</li>
-<li>聲音識別器：允許用戶通過說話來輸入文字、撥打電話，能更好的幫助殘疾人士[20]。</li>
+<li><a href="https://zh.wikipedia.org/wiki/多媒體播放器" title="wikilink">多媒體播放器</a>：負責管理、導入、拷貝和播放多媒體文件，但是不支持藍牙耳機[16][17]。</li>
+<li>通知的信息可以在状态欄顯示，並且可以對提示的方式進行設定，包括振動、聲音、LED或警告等提示方式[18][19][20]。</li>
+<li>聲音識別器：允許用戶通過說話來輸入文字、撥打電話，能更好的幫助殘疾人士[21]。</li>
 <li>壁紙功能允許用戶設定自己的照片和其他網絡圖片作為自己的手機主界面的背景。</li>
-<li><a href="../Page/YouTube.md" title="wikilink">YouTube</a>：內置YouTube應用程式[21]。</li>
+<li><a href="../Page/YouTube.md" title="wikilink">YouTube</a>：內置YouTube應用程式[22]。</li>
 <li>其他應用程式：鬧鐘，計算器，電話，主界面，圖庫以及設定。</li>
 <li>支持<a href="../Page/Wi-Fi.md" title="wikilink">Wi-Fi</a>和藍牙</li>
 </ul></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/Android_Petit_Four" title="wikilink">Android Petit Four</a></p></td>
-<td><p>2009年2月2日，Android 1.1（<a href="https://zh.wikipedia.org/wiki/花色小蛋糕" title="wikilink">花色小蛋糕</a>, Petit Four，正式以甜點為代號[22]）發布，該版本只被預裝在<a href="https://zh.wikipedia.org/wiki/T-Mobile_G1" title="wikilink">T-Mobile G1上</a>。該版本處理了前一版本遺留的許多應用程式和系統的Bug，改進了API接口和添加了新的特性：</p>
+<td><p>2009年2月2日，Android 1.1（<a href="https://zh.wikipedia.org/wiki/花色小蛋糕" title="wikilink">花色小蛋糕</a>, Petit Four，正式以甜點為代號[23]）發布，該版本只被預裝在<a href="https://zh.wikipedia.org/wiki/T-Mobile_G1" title="wikilink">T-Mobile G1上</a>。該版本處理了前一版本遺留的許多應用程式和系統的Bug，改進了API接口和添加了新的特性：</p>
 <ul>
 <li>用戶搜索企業和其他服務時，下方會顯示出其他用戶搜索時對該搜索信息的評價和留言。</li>
 <li>加強了電話功能，改進了免提功能。</li>
@@ -56,7 +56,7 @@ Android最初的版本是於2007年11月5日發行的Android 0.5\[3\]\[4\]，它
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/Android_Cupcake" title="wikilink">Android Cupcake</a><br />
-Linux內核版本[23]：<br />
+Linux內核版本[24]：<br />
 2.6.27</p></td>
 <td><p>2009年4月30日，Google釋出Android 1.5（Cupcake 紙杯蛋糕）。主要更新如下：<ref>{{cite web</p></td>
 </tr>
@@ -64,13 +64,13 @@ Linux內核版本[23]：<br />
 <td><p><a href="https://zh.wikipedia.org/wiki/Android_Donut" title="wikilink">Android Donut</a><br />
 Linux內核版本：<br />
 2.6.29</p></td>
-<td><p>2009年9月15日，Google釋出Android 1.6（Donut甜甜圈，正式決定以英文字母作代號排序[24]）。主要更新如下：<ref>{{cite web</p></td>
+<td><p>2009年9月15日，Google釋出Android 1.6（Donut甜甜圈，正式決定以英文字母作代號排序[25]）。主要更新如下：<ref>{{cite web</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/Android_Eclair" title="wikilink">Android Eclair</a><br />
 Linux內核版本：<br />
 2.6.29</p></td>
-<td><p>2009年10月26日，Google釋出Android 2.0（Eclair松饼）。主要更新如下:[25][26]<a href="https://zh.wikipedia.org/wiki/File:Android-2.0.png" title="fig:Android-2.0.png">Android-2.0.png</a></p>
+<td><p>2009年10月26日，Google釋出Android 2.0（Eclair松饼）。主要更新如下:[26][27]<a href="https://zh.wikipedia.org/wiki/File:Android-2.0.png" title="fig:Android-2.0.png">Android-2.0.png</a></p>
 <ul>
 <li>优化硬件速度。</li>
 <li>｢Car Home｣程序。</li>
@@ -94,43 +94,43 @@ Linux內核版本：<br />
 <dt>Android 2.0.1</dt>
 
 </dl>
-<p>Android 2.0.1於2009年12月3日正式發布[27]。該版本針對Android 2.0進行了輕微的改進，只針對前一個版本中的部分API進行修改變化，並且對存在的已知的Bug進行修復，其他並無變化[28]。</p>
+<p>Android 2.0.1於2009年12月3日正式發布[28]。該版本針對Android 2.0進行了輕微的改進，只針對前一個版本中的部分API進行修改變化，並且對存在的已知的Bug進行修復，其他並無變化[29]。</p>
 <dl>
 <dt>Android 2.1</dt>
 
 </dl>
-<p>Android 2.1於2010年1月12日正式發布[29]。該版本針對Android 2.0.1進行了輕微的改進，只針對前一個版本中的部分API進行修改變化，並且對存在的已知的Bug進行修復，其他並無變化[30]。</p></td>
+<p>Android 2.1於2010年1月12日正式發布[30]。該版本針對Android 2.0.1進行了輕微的改進，只針對前一個版本中的部分API進行修改變化，並且對存在的已知的Bug進行修復，其他並無變化[31]。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/Android_Froyo" title="wikilink">Android Froyo</a><br />
 Linux內核版本：<br />
 2.6.32</p></td>
-<td><p>2010年5月20日，Google釋出Android 2.2（Froyo霜凍優格）。主要更新如下:[31]</p>
+<td><p>2010年5月20日，Google釋出Android 2.2（Froyo霜凍優格）。主要更新如下:[32]</p>
 <ul>
-<li><a href="https://zh.wikipedia.org/wiki/File:Android_2.2_Froyo_home.png" title="fig:Android_2.2_Froyo_home.png">Android_2.2_Froyo_home.png</a>支援将软件安装至記憶卡[32]</li>
-<li>支援Adobe Flash 10.1[33]</li>
-<li>加强软件<a href="https://zh.wikipedia.org/wiki/即时编译" title="wikilink">即时编译的速度</a>[34]</li>
-<li>支援快速启动功能至<a href="https://zh.wikipedia.org/wiki/電話" title="wikilink">電話和</a><a href="https://zh.wikipedia.org/wiki/瀏覽器" title="wikilink">瀏覽器</a>[35]</li>
-<li><a href="../Page/USB.md" title="wikilink">USB</a>分享器和<a href="https://zh.wikipedia.org/wiki/WiFi" title="wikilink">WiFi热点功能</a>[36]</li>
-<li>支援浏览器上传档案[37]</li>
-<li>更新Market中的批次及自动更新[38]</li>
+<li><a href="https://zh.wikipedia.org/wiki/File:Android_2.2_Froyo_home.png" title="fig:Android_2.2_Froyo_home.png">Android_2.2_Froyo_home.png</a>支援将软件安装至記憶卡[33]</li>
+<li>支援Adobe Flash 10.1[34]</li>
+<li>加强软件<a href="https://zh.wikipedia.org/wiki/即时编译" title="wikilink">即时编译的速度</a>[35]</li>
+<li>支援快速启动功能至<a href="https://zh.wikipedia.org/wiki/電話" title="wikilink">電話和</a><a href="https://zh.wikipedia.org/wiki/瀏覽器" title="wikilink">瀏覽器</a>[36]</li>
+<li><a href="../Page/USB.md" title="wikilink">USB</a>分享器和<a href="https://zh.wikipedia.org/wiki/WiFi" title="wikilink">WiFi热点功能</a>[37]</li>
+<li>支援浏览器上传档案[38]</li>
+<li>更新Market中的批次及自动更新[39]</li>
 <li>增加对Microsoft Exchange的支援（安全政策, auto-discovery, GAL look-up）</li>
 <li>整合<a href="../Page/Google_Chrome.md" title="wikilink">Chrome的</a><a href="../Page/V8_(JavaScript引擎).md" title="wikilink">V8 JavaScript引擎</a></li>
 <li>加强了快速搜索小工具。</li>
 <li>更多软件能透过Market更新，类似2.0/2.1中的Map更新。</li>
-<li>速度和性能最佳化[39]</li>
+<li>速度和性能最佳化[40]</li>
 </ul>
 <p>注：部分标称為2.2的固件仍然在使用2.6.29的核心。这种固件雖然可以实现大部分2.2的功能（比如flash），但性能上与2.6.32有一定差距。</p>
 <dl>
 <dt>Android 2.2.1</dt>
 
 </dl>
-<p>Android 2.2.1更新包於2011年1月18日正式發布，進行了Bug修復，安全性的提高，性能提升以及流暢性提升[40]。</p>
+<p>Android 2.2.1更新包於2011年1月18日正式發布，進行了Bug修復，安全性的提高，性能提升以及流暢性提升[41]。</p>
 <dl>
 <dt>Android 2.2.2</dt>
 
 </dl>
-<p>Android 2.2.2更新包於2011年1月22日正式發布，進行了Bug修復，修復了<a href="../Page/Nexus_One.md" title="wikilink">Nexus One中的短信問題</a>[41]。</p>
+<p>Android 2.2.2更新包於2011年1月22日正式發布，進行了Bug修復，修復了<a href="../Page/Nexus_One.md" title="wikilink">Nexus One中的短信問題</a>[42]。</p>
 <dl>
 <dt>Android 2.2.3</dt>
 
@@ -141,9 +141,9 @@ Linux內核版本：<br />
 <td><p><a href="https://zh.wikipedia.org/wiki/Android_Gingerbread" title="wikilink">Android Gingerbread</a><br />
 Linux內核版本：<br />
 2.6.35</p></td>
-<td><p>2010年12月7日，Google釋出Android 2.3（Gingerbread姜饼）。主要更新如下：[42]<a href="https://zh.wikipedia.org/wiki/File:Android-2.3.png" title="fig:Android-2.3.png">Android-2.3.png</a></p>
+<td><p>2010年12月7日，Google釋出Android 2.3（Gingerbread姜饼）。主要更新如下：[43]<a href="https://zh.wikipedia.org/wiki/File:Android-2.3.png" title="fig:Android-2.3.png">Android-2.3.png</a></p>
 <ul>
-<li>修补UI[43]</li>
+<li>修补UI[44]</li>
 <li>支援更大的屏幕尺寸和解析度（<a href="https://zh.wikipedia.org/wiki/WXGA" title="wikilink">WXGA及更高</a>）。</li>
 <li>重新设计的多点触控屏幕键盘。</li>
 <li>支援多镜头（用于视频通话等）和更多感應器（陀螺仪、气压计等）。</li>
@@ -163,18 +163,18 @@ Linux內核版本：<br />
 <dt>Android 2.3.3</dt>
 
 </dl>
-<p>Android 2.3.3更新包於2011年2月9日正式發布，僅針對上一個版本進行了API改進，其他無變化[44]。</p>
+<p>Android 2.3.3更新包於2011年2月9日正式發布，僅針對上一個版本進行了API改進，其他無變化[45]。</p>
 <dl>
 <dt>Android 2.3.4</dt>
 
 </dl>
-<p>Android 2.3.4更新包增加了在<a href="../Page/Google_Talk.md" title="wikilink">Google Talk中使用語音通話和視頻聊天的支持</a>[45]。</p>
+<p>Android 2.3.4更新包增加了在<a href="../Page/Google_Talk.md" title="wikilink">Google Talk中使用語音通話和視頻聊天的支持</a>[46]。</p>
 <p>螢幕截圖功能（電源鍵+Home）在2.3.4才有實作出來（2011 Xperia:長按Power鍵，再點選「截圖」）</p>
 <dl>
 <dt>Android 2.3.5</dt>
 
 </dl>
-<p>Android 2.3.5更新包於2011年7月25日正式發布，該更新包進行如下改進[46]：</p>
+<p>Android 2.3.5更新包於2011年7月25日正式發布，該更新包進行如下改進[47]：</p>
 <ul>
 <li>提升了Nexus S 4G的性能，包括其他性能的提升。</li>
 <li>修復了存在於<a href="../Page/三星Galaxy_S.md" title="wikilink">三星Galaxy S中存在的藍牙Bug</a>。</li>
@@ -187,7 +187,7 @@ Linux內核版本：<br />
 <dt>Android 2.3.6</dt>
 
 </dl>
-<p>Android 2.3.6更新包於2011年9月2日正式發布，修復了語音搜索存在的Bug。該更新包改進了<a href="../Page/加拿大.md" title="wikilink">加拿大</a>版本Nexus S存在的使用WiFi時可能導致增加輻射的問題[47][48]。</p>
+<p>Android 2.3.6更新包於2011年9月2日正式發布，修復了語音搜索存在的Bug。該更新包改進了<a href="../Page/加拿大.md" title="wikilink">加拿大</a>版本Nexus S存在的使用WiFi時可能導致增加輻射的問題[48][49]。</p>
 <dl>
 <dt>Android 2.3.7</dt>
 
@@ -200,7 +200,7 @@ Linux內核版本：<br />
 <td><p><a href="https://zh.wikipedia.org/wiki/Android_Honeycomb" title="wikilink">Android Honeycomb</a><br />
 Linux內核版本：<br />
 2.6.36</p></td>
-<td><p>2011年2月2日，Google釋出Android 3.0（Honeycomb蜂巢）發布。是第一個Android平板作業系統[49][50][51][52]。全球第一個使用該版本作業系統的設備是摩托羅拉公司於2011年2月24日發布的<a href="https://zh.wikipedia.org/wiki/Motorola_Xoom" title="wikilink">Motorola Xoom平板電腦</a>[53]。主要更新如下[54]：<a href="https://zh.wikipedia.org/wiki/File:Android3.0.png" title="fig:Android3.0.png">Android3.0.png</a></p>
+<td><p>2011年2月2日，Google釋出Android 3.0（Honeycomb蜂巢）發布。是第一個Android平板作業系統[50][51][52][53]。全球第一個使用該版本作業系統的設備是摩托羅拉公司於2011年2月24日發布的<a href="https://zh.wikipedia.org/wiki/Motorola_Xoom" title="wikilink">Motorola Xoom平板電腦</a>[54]。主要更新如下[55]：<a href="https://zh.wikipedia.org/wiki/File:Android3.0.png" title="fig:Android3.0.png">Android3.0.png</a></p>
 <ul>
 <li>专為平板电脑设计。</li>
 <li>支援Google eBooks。</li>
@@ -223,7 +223,7 @@ Linux內核版本：<br />
 <dt>Android 3.1</dt>
 
 </dl>
-<p>Android 3.1軟體開發包於2011年5月10日正式發布[55]。主要更新如下：</p>
+<p>Android 3.1軟體開發包於2011年5月10日正式發布[56]。主要更新如下：</p>
 <ul>
 <li>用户界面的改进</li>
 <li>连接USB配件</li>
@@ -231,14 +231,14 @@ Linux內核版本：<br />
 <li>可调整大小的主屏幕小部件</li>
 <li>支持外部键盘和鼠標等设备</li>
 <li>支持操纵杆和游戏控制器</li>
-<li><a href="https://zh.wikipedia.org/wiki/无损音频编解码器" title="wikilink">FLAC音频播放支持</a>[56]<ref>{{cite web |url=<a href="http://code.google.com/p/android/issues/detail?id=1461">http://code.google.com/p/android/issues/detail?id=1461</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/无损音频编解码器" title="wikilink">FLAC音频播放支持</a>[57]<ref>{{cite web |url=<a href="http://code.google.com/p/android/issues/detail?id=1461">http://code.google.com/p/android/issues/detail?id=1461</a></li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/Android_Ice_Cream_Sandwich.md" title="wikilink">Android Ice Cream Sandwich</a><br />
 Linux內核版本：<br />
 3.0.1</p></td>
-<td><p>Android 4.0（Ice Cream Sandwich冰淇淋三文治）於2011年4月在<a href="https://zh.wikipedia.org/wiki/Google_I/O" title="wikilink">Google I/O大會上首次被宣布</a>[57]</ref>，並且於2011年10月19日正式發布Android 4.0“冰淇淋三明治”作業系統和搭載Android 4.0的<a href="../Page/Galaxy_Nexus.md" title="wikilink">Galaxy Nexus智能手機</a>[58]。Android 4.0.1的軟體開發包於2011年10月19日正式發布[59]。谷歌公司的發言人加布·科恩（Gabe Cohen）指出，Android 4.0“理論上”與任何一個當前市面上搭載了Android 2.3.x版本的設備兼容[60]。關於Android 4.0的<a href="https://zh.wikipedia.org/wiki/原始碼" title="wikilink">原始碼已於</a>2011年11月14日正式公佈[61]。<a href="https://zh.wikipedia.org/wiki/File:Android-4.0.png" title="fig:Android-4.0.png">Android-4.0.png</a>該版本的主要更新內容如下[62][63][64]：</p>
+<td><p>Android 4.0（Ice Cream Sandwich冰淇淋三文治）於2011年4月在<a href="https://zh.wikipedia.org/wiki/Google_I/O" title="wikilink">Google I/O大會上首次被宣布</a>[58]</ref>，並且於2011年10月19日正式發布Android 4.0“冰淇淋三明治”作業系統和搭載Android 4.0的<a href="../Page/Galaxy_Nexus.md" title="wikilink">Galaxy Nexus智能手機</a>[59]。Android 4.0.1的軟體開發包於2011年10月19日正式發布[60]。谷歌公司的發言人加布·科恩（Gabe Cohen）指出，Android 4.0“理論上”與任何一個當前市面上搭載了Android 2.3.x版本的設備兼容[61]。關於Android 4.0的<a href="https://zh.wikipedia.org/wiki/原始碼" title="wikilink">原始碼已於</a>2011年11月14日正式公佈[62]。<a href="https://zh.wikipedia.org/wiki/File:Android-4.0.png" title="fig:Android-4.0.png">Android-4.0.png</a>該版本的主要更新內容如下[63][64][65]：</p>
 <ul>
 <li>统一了手机和平板电脑使用的系统，应用会自动根据设备选择最佳显示方式。</li>
 <li>提升硬件的性能以及系統的優化，提升系統流暢度。</li>
@@ -269,8 +269,8 @@ Linux內核版本：<br />
 <li>新的啟動畫面，主畫面右下角類似Tray的圖示，查看正在运行的程式。</li>
 <li>Google搜索条會固定在启动器最上方</li>
 <li>应用/小部件页面類似Honeycomb样式</li>
-<li>增加支持硬件加速的功能[65]</li>
-<li><a href="https://zh.wikipedia.org/wiki/Wi-Fi直连" title="wikilink">Wi-Fi直连功能</a>[66]</li>
+<li>增加支持硬件加速的功能[66]</li>
+<li><a href="https://zh.wikipedia.org/wiki/Wi-Fi直连" title="wikilink">Wi-Fi直连功能</a>[67]</li>
 <li>支持<a href="../Page/1080p.md" title="wikilink">1080p</a>視頻播放和錄製</li>
 </ul>
 <dl>
@@ -282,12 +282,12 @@ Linux內核版本：<br />
 <dt>Android 4.0.2</dt>
 
 </dl>
-<p>Android 4.0.2更新包於2011年11月28日正式發布，該更新包修復了存在於<a href="https://zh.wikipedia.org/wiki/Verizon" title="wikilink">Verizon版本</a><a href="../Page/Galaxy_Nexus.md" title="wikilink">Galaxy Nexus中的Bug</a>[67][68]。</p>
+<p>Android 4.0.2更新包於2011年11月28日正式發布，該更新包修復了存在於<a href="https://zh.wikipedia.org/wiki/Verizon" title="wikilink">Verizon版本</a><a href="../Page/Galaxy_Nexus.md" title="wikilink">Galaxy Nexus中的Bug</a>[68][69]。</p>
 <dl>
 <dt>Android 4.0.3</dt>
 
 </dl>
-<p>Android 4.0.3更新包于2011年12月16日发布，包括修復Bug和系統的優化，並且針對图形、数据库、拼写检查、蓝牙功能和其他功能的改进。公佈了新的API，包括联系人API，日历增强，新的摄像头应用程序，提高视频稳定和QVGA分辨率和辅助功能的改进，如屏幕的改进等[69]。</p>
+<p>Android 4.0.3更新包于2011年12月16日发布，包括修復Bug和系統的優化，並且針對图形、数据库、拼写检查、蓝牙功能和其他功能的改进。公佈了新的API，包括联系人API，日历增强，新的摄像头应用程序，提高视频稳定和QVGA分辨率和辅助功能的改进，如屏幕的改进等[70]。</p>
 <dl>
 <dt>Android 4.0.4</dt>
 
@@ -356,7 +356,7 @@ Android 4.3：<br />
 <li>提昇性能及穩定性</li>
 <li>單手指開合通知中心訊息</li>
 </ul>
-<p>2012年10月30日，Google 釋出 Android 4.2（JellyBean 雷根糖）。<a href="../Page/Google.md" title="wikilink">Google</a>原本预计於2012年10月29日於紐約發佈Android 4.2，但因為<a href="../Page/颶風桑迪.md" title="wikilink">颶風桑迪</a>吹襲被取消[70]，而改以新聞稿發佈，以“一種新口味的果凍豆”（A new flavor of Jelly Bean）作口號。首款搭載Android 4.2的手機<a href="../Page/Nexus_4.md" title="wikilink">LG Nexus 4及平板電腦</a><a href="../Page/Nexus_10.md" title="wikilink">Nexus 10於</a>2012年11月23日上市[71][72]。主要更新如下：</p>
+<p>2012年10月30日，Google 釋出 Android 4.2（JellyBean 雷根糖）。<a href="../Page/Google.md" title="wikilink">Google</a>原本预计於2012年10月29日於紐約發佈Android 4.2，但因為<a href="../Page/颶風桑迪.md" title="wikilink">颶風桑迪</a>吹襲被取消[71]，而改以新聞稿發佈，以“一種新口味的果凍豆”（A new flavor of Jelly Bean）作口號。首款搭載Android 4.2的手機<a href="../Page/Nexus_4.md" title="wikilink">LG Nexus 4及平板電腦</a><a href="../Page/Nexus_10.md" title="wikilink">Nexus 10於</a>2012年11月23日上市[72][73]。主要更新如下：</p>
 <ul>
 <li>支援多用户登录，一部设备上可有多个帐号（僅適用於平板電腦）。</li>
 <li>通知中心內新增了設定鍵。</li>
@@ -587,11 +587,11 @@ Linux內核版本：<br />
 <td><p>2018年3月7日，Google發布Android P的開發者預覽版本，並開放下載。 2018年5月8日，Google I/O大會公布許多Android P功能。 2018年8月6日，Google正式發布Android 9 Pie的正式版本。 (以下為新增功能)<a href="https://zh.wikipedia.org/wiki/File:Android_P.JPG" title="fig:Android_P.JPG">Android_P.JPG</a><br />
 <a href="https://zh.wikipedia.org/wiki/File:Android_Pie.png" title="fig:Android_Pie.png">Android_Pie.png</a></p>
 <ul>
-<li>为快速设置菜单设计的新用户界面[73]</li>
-<li>时钟移动到通知栏的左侧[74]</li>
-<li>屏幕下方的dock加入半透明背景[75]</li>
-<li>取消省电模式的橙色条[76]</li>
-<li>电源选项中加入截屏按钮[77]</li>
+<li>为快速设置菜单设计的新用户界面[74]</li>
+<li>时钟移动到通知栏的左侧[75]</li>
+<li>屏幕下方的dock加入半透明背景[76]</li>
+<li>取消省电模式的橙色条[77]</li>
+<li>电源选项中加入截屏按钮[78]</li>
 <li>锁定（Lockdown）功能，开启后将禁用生物识别</li>
 <li>图标加入更多圆角</li>
 <li>在应用之间切换，或在应用内部菜单间切换时，使用新的动画</li>
@@ -624,17 +624,17 @@ Linux內核版本：<br />
 
 1.
 
-2.
+2.  [谷歌扔掉“甜品” 系统命名直接叫Android 10](https://tech.sina.com.cn/mobile/n/n/2019-08-23/doc-ihytcitn1232943.shtml)
 
 3.
 
-4.  .
+4.
 
-5.
+5.  .
 
-6.  <http://www.androidpolice.com/2012/09/17/a-history-of-pre-cupcake-android-codenames/>
+6.
 
-7.
+7.  <http://www.androidpolice.com/2012/09/17/a-history-of-pre-cupcake-android-codenames/>
 
 8.
 
@@ -647,32 +647,32 @@ Linux內核版本：<br />
 12.
 
 13.
+
 14.
 15.
 16.
 17.
 18.
 19.
-
 20.
+
 21.
-
 22.
+
 23.
-
 24.
-25.
 
+25.
 26.
 
 27.
 
 28.
+
 29.
-
 30.
-31.
 
+31.
 32.
 
 33.
@@ -688,8 +688,8 @@ Linux內核版本：<br />
 38.
 
 39.
-40.
 
+40.
 41.
 
 42.
@@ -707,8 +707,8 @@ Linux內核版本：<br />
 48.
 
 49.
-50.
 
+50.
 51.
 
 52.
@@ -722,8 +722,8 @@ Linux內核版本：<br />
 56.
 
 57.
-58.
 
+58.
 59.
 
 60.
@@ -757,5 +757,7 @@ Linux內核版本：<br />
 74.
 
 75.
+
 76.
 77.
+78.

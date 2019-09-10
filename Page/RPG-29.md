@@ -102,7 +102,7 @@ RPG-29是俄羅斯反坦克火箭發射器其中較不尋常的，在於它取�
       - [RPG-30](../Page/RPG-30.md "wikilink")
       - [RPG-32](../Page/RPG-32.md "wikilink")
   - [RPO-A大黃蜂火箭筒](../Page/RPO-A大黃蜂火箭筒.md "wikilink")
-  - [LRAC F1反坦克火箭筒](https://zh.wikipedia.org/wiki/LRAC_F1反坦克火箭筒 "wikilink")
+  - [LRAC F1反坦克火箭筒](../Page/LRAC_F1反坦克火箭筒.md "wikilink")
   - [Panzerfaust 3反坦克榴彈](../Page/Panzerfaust_3反坦克榴彈.md "wikilink")
   - [Mk 153 SMAW](../Page/肩射多用途攻擊武器.md "wikilink")
   - [俄羅斯槍械列表](../Page/俄羅斯槍械列表.md "wikilink")

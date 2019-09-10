@@ -72,7 +72,7 @@ Clang本身性能優異，其生成的AST所耗用掉的内存僅僅是GCC的20%
 </tr>
 <tr class="even">
 <td></td>
-<td><p>Clang能夠編譯出可運作的<a href="https://zh.wikipedia.org/wiki/HotSpot" title="wikilink">HotSpot</a> <a href="https://zh.wikipedia.org/wiki/Java虛擬機器" title="wikilink">Java虛擬機器</a></p></td>
+<td><p>Clang能夠編譯出可運作的<a href="../Page/HotSpot.md" title="wikilink">HotSpot</a> <a href="https://zh.wikipedia.org/wiki/Java虛擬機器" title="wikilink">Java虛擬機器</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>

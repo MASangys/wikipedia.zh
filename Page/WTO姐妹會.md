@@ -2,7 +2,7 @@
 
 每集節目皆定有主題，主要以來賓訪談的方式進行，但是有時也穿插特別活動，例如棚外錄影。常見的主題包括有世界各國文化差異、[文化衝擊](https://zh.wikipedia.org/wiki/文化衝擊 "wikilink")、異國風俗、語言學習經驗、婚姻生活等。
 
-八大綜合台在於目前所播出時間為每週一至週四晚間十一點到十二點播出。[TVBS-Asia](../Page/TVBS-Asia.md "wikilink")、[愛爾達綜合台亦有重播較早之前的集數](../Page/愛爾達電視.md "wikilink")。
+八大綜合台在於目前所播出時間為每週一至週四晚間十一點到十二點首播。[TVBS-Asia](../Page/TVBS-Asia.md "wikilink")、[愛爾達綜合台亦有重播較早之前的集數](../Page/愛爾達電視.md "wikilink")。
 
 ## 歷任主持人
 
@@ -161,7 +161,7 @@
 <td><p>女</p></td>
 <td></td>
 <td></td>
-<td><p>台、<a href="../Page/埃及.md" title="wikilink">埃及</a>混血。2019-03-18</p></td>
+<td><p>台、<a href="../Page/埃及.md" title="wikilink">埃及</a>混血，全名為Dina Ayman Ibrahim Mohamad Darwich，就讀嬰幼兒保育學系，曾是<a href="../Page/大學生了沒.md" title="wikilink">大學生了沒</a>班底。2019-03-18</p></td>
 </tr>
 <tr class="even">
 <td><p>Yalan（亞藍）</p></td>
@@ -3463,8 +3463,8 @@
 <td><p>亨利</p></td>
 <td><p>男</p></td>
 <td></td>
-<td></td>
-<td><p>2019-04-15</p></td>
+<td><p><a href="https://www.facebook.com/HenryAmouric/">Facebook</a></p></td>
+<td><p>2019-04-15、2019-08-22</p></td>
 </tr>
 <tr class="odd">
 <td><p>海俊</p></td>
@@ -3924,6 +3924,8 @@
   - －八大電視
 
   -
+  - [YouTube上的WTO姐妹會 官方頻道](https://www.youtube.com/channel/UCbsHdXTF_3R3h6GlXh25IBA)
+
   -
   -
 [Category:八大電視節目](https://zh.wikipedia.org/wiki/Category:八大電視節目 "wikilink") [Category:深夜電視台節目](https://zh.wikipedia.org/wiki/Category:深夜電視台節目 "wikilink") [Category:台灣綜藝節目](https://zh.wikipedia.org/wiki/Category:台灣綜藝節目 "wikilink")

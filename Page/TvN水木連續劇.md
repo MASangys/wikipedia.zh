@@ -241,7 +241,7 @@
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/朴敘俊.md" title="wikilink">朴敘俊</a>、<a href="https://zh.wikipedia.org/wiki/朴敏英" title="wikilink">朴敏英</a></p></td>
-<td style="text-align: center;"><p><a href="../Page/朴俊和.md" title="wikilink">朴俊和</a></p></td>
+<td style="text-align: center;"><p>朴俊和</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/鄭恩英" title="wikilink">鄭恩英</a>、<a href="https://zh.wikipedia.org/wiki/崔寶琳" title="wikilink">崔寶琳</a>、<a href="https://zh.wikipedia.org/wiki/白善宇" title="wikilink">白善宇</a></p></td>
 <td style="text-align: center;"><p>原作：鄭慶允《金秘書為何那樣》</p></td>
 </tr>
@@ -313,7 +313,7 @@
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/李棟旭.md" title="wikilink">李棟旭</a>、<a href="https://zh.wikipedia.org/wiki/劉仁娜" title="wikilink">劉仁娜</a></p></td>
-<td style="text-align: center;"><p><a href="../Page/朴俊和.md" title="wikilink">朴俊和</a></p></td>
+<td style="text-align: center;"><p>朴俊和</p></td>
 <td style="text-align: center;"><p>李明淑、崔寶琳</p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -353,7 +353,7 @@
 <tr class="odd">
 <td style="text-align: center;"><p>2019年9月－<br />
 2019年</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李小姐" title="wikilink">李小姐</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/清日電子李小姐" title="wikilink">清日電子李小姐</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/惠利.md" title="wikilink">惠利</a>、<a href="../Page/嚴賢璟.md" title="wikilink">嚴賢璟</a>、<a href="https://zh.wikipedia.org/wiki/李昌燁" title="wikilink">李昌燁</a></p></td>
@@ -367,7 +367,7 @@
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/精神變態日記" title="wikilink">精神變態日記</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><p><a href="../Page/尹施允.md" title="wikilink">尹施允</a>、<a href="https://zh.wikipedia.org/wiki/鄭吝善" title="wikilink">鄭吝善</a></p></td>
 <td style="text-align: center;"><p>李忠載</p></td>
 <td style="text-align: center;"><p>劉勇在</p></td>
 <td style="text-align: center;"></td>

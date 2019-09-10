@@ -45,6 +45,7 @@
   - [Hit The Stage](../Page/Hit_The_Stage.md "wikilink")
   - [NU'EST ROAD](https://zh.wikipedia.org/wiki/NU'EST_ROAD "wikilink")
   - [PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")
+  - X1 FLASH
 
 ## 參考資料
 

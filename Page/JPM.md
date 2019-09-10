@@ -598,7 +598,7 @@ Chris</p></td>
 <td><p>2014年7月5日</p></td>
 <td><p>夏戀嘉年華演唱會</p></td>
 <td><p><a href="../Page/花蓮市.md" title="wikilink">花蓮六期重劃區</a></p></td>
-<td><p><strong>JPM</strong>、<a href="https://zh.wikipedia.org/wiki/潘瑋柏" title="wikilink">潘瑋柏</a>、<a href="https://zh.wikipedia.org/wiki/陳勢安" title="wikilink">陳勢安</a>、<a href="../Page/MP魔幻力量.md" title="wikilink">MP魔幻力量</a>、<a href="https://zh.wikipedia.org/wiki/BY2" title="wikilink">BY2</a>、<a href="../Page/彭佳慧.md" title="wikilink">彭佳慧</a>、<a href="../Page/郭子乾.md" title="wikilink">郭子乾</a></p></td>
+<td><p><strong>JPM</strong>、<a href="https://zh.wikipedia.org/wiki/潘瑋柏" title="wikilink">潘瑋柏</a>、<a href="https://zh.wikipedia.org/wiki/陳勢安" title="wikilink">陳勢安</a>、<a href="../Page/MP魔幻力量.md" title="wikilink">MP魔幻力量</a>、<a href="../Page/BY2.md" title="wikilink">BY2</a>、<a href="../Page/彭佳慧.md" title="wikilink">彭佳慧</a>、<a href="../Page/郭子乾.md" title="wikilink">郭子乾</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2014年10月17日</p></td>

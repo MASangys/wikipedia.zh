@@ -141,4 +141,4 @@
   - [三体III：死神永生](../Page/三体III：死神永生.md "wikilink")
   - [三体用语列表](../Page/三体用语列表.md "wikilink")
 
-[Category:科幻小说](https://zh.wikipedia.org/wiki/Category:科幻小说 "wikilink") [Category:2008年中国小说](https://zh.wikipedia.org/wiki/Category:2008年中国小说 "wikilink") [Category:三体](https://zh.wikipedia.org/wiki/Category:三体 "wikilink")
+[Category:科幻小说](https://zh.wikipedia.org/wiki/Category:科幻小说 "wikilink") [Category:2008年中国小说](https://zh.wikipedia.org/wiki/Category:2008年中国小说 "wikilink") [Category:三体](https://zh.wikipedia.org/wiki/Category:三体 "wikilink") [Category:虚构作品中的人体冷冻技术](https://zh.wikipedia.org/wiki/Category:虚构作品中的人体冷冻技术 "wikilink")

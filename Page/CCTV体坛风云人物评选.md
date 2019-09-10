@@ -32,7 +32,7 @@
   - 年度最佳女运动员奖：[王楠](../Page/王楠.md "wikilink")
   - 年度最佳团队奖：[中国乒乓球队](https://zh.wikipedia.org/wiki/中国乒乓球队 "wikilink")
   - 年度最佳教练奖：[蔡振华](../Page/蔡振华.md "wikilink")
-  - 年度最佳新人奖：[冯敬](https://zh.wikipedia.org/wiki/冯敬 "wikilink")
+  - 年度最佳新人奖：[冯敬](../Page/冯敬.md "wikilink")
   - 年度最佳突破奖：[中国國家男子足球队](https://zh.wikipedia.org/wiki/中国國家男子足球队 "wikilink")
   - 年度最佳非奥项目运动员奖：[张健](../Page/张健_\(游泳运动员\).md "wikilink")
   - 最受欢迎男运动员奖：[王治郅](../Page/王治郅.md "wikilink")
@@ -55,7 +55,7 @@
   - 年度突破奖：[江永华](../Page/江永华.md "wikilink")
   - 年度最佳非奥项目运动员：[诸宸](https://zh.wikipedia.org/wiki/诸宸 "wikilink")
   - 年度最佳组合：[申雪](../Page/申雪.md "wikilink")／[赵宏博](https://zh.wikipedia.org/wiki/赵宏博 "wikilink")
-  - 年度最佳残疾人运动员：[王晓福](https://zh.wikipedia.org/wiki/王晓福 "wikilink")
+  - 年度最佳残疾人运动员：[王晓福](../Page/王晓福.md "wikilink")
   - 荣誉奖：[中国滑冰协会](https://zh.wikipedia.org/wiki/中国滑冰协会 "wikilink")
 
 <!-- end list -->
@@ -152,7 +152,7 @@
   - 年度最佳组合奖：[蔡赟](../Page/蔡赟.md "wikilink") / [傅海峰](../Page/傅海峰.md "wikilink")（羽毛球）
   - 年度最佳团队奖：[中国国家女子排球队](https://zh.wikipedia.org/wiki/中国国家女子排球队 "wikilink")
   - 年度最佳非奥项目运动员奖：[侯逸凡](../Page/侯逸凡.md "wikilink")（国际象棋）
-  - 年度最佳教练奖：[王海滨](https://zh.wikipedia.org/wiki/王海滨 "wikilink")（中国男子花剑队主教练）
+  - 年度最佳教练奖：[王海滨](../Page/王海滨.md "wikilink")（中国男子花剑队主教练）
   - 年度残疾人体育精神奖：[夏伯渝](https://zh.wikipedia.org/wiki/夏伯渝 "wikilink")（登山）
   - 年度未名人士体育精神奖：[姚楠](https://zh.wikipedia.org/wiki/姚楠 "wikilink")（黑龙江省燎原学校（智障儿童学校）教师）
   - 年度体坛特别贡献奖：[杨扬](https://zh.wikipedia.org/wiki/杨扬 "wikilink")（短道速滑）

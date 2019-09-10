@@ -12,7 +12,7 @@ IU共发布4张[录音室专辑和](https://zh.wikipedia.org/wiki/录音室专�
 
 ## 早年生活
 
-IU于1993年5月16日生于[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")，本贯[全州李氏](../Page/全州李氏.md "wikilink")，自小在[首尔长大](https://zh.wikipedia.org/wiki/首尔 "wikilink")，与其父母和弟弟住在一起。IU上小学时，家庭经济状况恶化\[11\]。她和弟弟被迫与父母分开居住，与IU的奶奶和表姐在一间公寓中度过了一年多贫困的生活\[12\]\[13\]。这一段时间，IU与她的父母接触不多，但很感激奶奶的出现\[14\]。
+IU于1993年5月16日生于[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")，自小在[首尔长大](https://zh.wikipedia.org/wiki/首尔 "wikilink")，与其父母和弟弟住在一起。IU上小学时，家庭经济状况恶化\[11\]。她和弟弟被迫与父母分开居住，与IU的奶奶和表姐在一间公寓中度过了一年多贫困的生活\[12\]\[13\]。这一段时间，IU与她的父母接触不多，但很感激奶奶的出现\[14\]。
 
 在上中学时，IU发现了她对唱歌的热情。在校內運動會演唱并赢得了老师及同学的掌声后，IU萌生了成為歌手的想法\[15\]。她曾先後參加過20次選拔均被拒絕，并且曾被伪造的娱乐公司欺骗\[16\]。2007年10月，IU通過現時經紀公司[LOEN娛樂的試鏡](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")，并成为練習生\[17\]。尽管认为经过三到四年的训练后她可能最终会被选入一个女子團體，但她在训练10个月后即发行她的首张个人专辑\[18\]。由于她艰苦时期的生活条件，IU说她“喜欢在練習室”，在那里她可以吃她想吃的东西，并且有睡觉的地方\[19\]。在出道之前，LOEN娛樂将其艺名命名为“IU”。艺名从“我和你”（I and You）派生出，象征着音乐在人与人之间产生的凝聚力\[20\]。
 
@@ -169,7 +169,7 @@ IU雖出面道歉，仍遭聯署將歌曲下架，豈料新專輯再次出現負
 
 ### 應援色及應援棒
 
-  - 應援色為**[螢光](https://zh.wikipedia.org/wiki/螢光 "wikilink")[黃色](https://zh.wikipedia.org/wiki/黃色 "wikilink")**。
+  - 應援色為[螢光](https://zh.wikipedia.org/wiki/螢光 "wikilink")[黃色](https://zh.wikipedia.org/wiki/黃色 "wikilink")。
   - [官方應援物為螢光黃色的應援棒](https://zh.wikipedia.org/wiki/官方 "wikilink")，是[麥克風的形狀](https://zh.wikipedia.org/wiki/麥克風 "wikilink")，有兩種顏色的[手柄](../Page/手柄.md "wikilink")，分別為[銀色和](https://zh.wikipedia.org/wiki/銀色 "wikilink")[白色](../Page/白色.md "wikilink")。
   - IU把應援棒取名為"아이크"(A-yi-keu)，由韓文"아이유"(IU) 的"아이"(I)和"마이크"(麥克風)的"크"(克)組成的。
   - 一共製作了50支淺[紫色](../Page/紫色.md "wikilink")手柄的特別版應援棒。在2017巡迴演唱會《Palette》中，送出了41支給在場的[觀眾](https://zh.wikipedia.org/wiki/觀眾 "wikilink")；IU自己收藏了1支；其餘8支以[抽籤方式送出](https://zh.wikipedia.org/wiki/抽籤 "wikilink")。

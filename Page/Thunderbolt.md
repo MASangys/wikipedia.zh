@@ -50,7 +50,7 @@ Apple</p></td>
 <td><p>Falcon Ridge</p></td>
 <td></td>
 <td><p>20 Gbit/s</p></td>
-<td><p>追上USB 3.1的速度</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">

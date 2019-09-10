@@ -42,7 +42,7 @@ iTunes Match是在線音樂服務，它使用戶能夠遠程訪問自己建立�
 
 ## 注釋
 
-[Category:2011年软件](https://zh.wikipedia.org/wiki/Category:2011年软件 "wikilink") [Category:云存储](https://zh.wikipedia.org/wiki/Category:云存储 "wikilink") [Category:数据同步](https://zh.wikipedia.org/wiki/Category:数据同步 "wikilink") [Category:文件共享服务](https://zh.wikipedia.org/wiki/Category:文件共享服务 "wikilink") [Category:在线备份服务](https://zh.wikipedia.org/wiki/Category:在线备份服务 "wikilink") [Category:蘋果公司服務](https://zh.wikipedia.org/wiki/Category:蘋果公司服務 "wikilink") [Category:电子邮件网站](https://zh.wikipedia.org/wiki/Category:电子邮件网站 "wikilink")
+[Category:2011年软件](https://zh.wikipedia.org/wiki/Category:2011年软件 "wikilink") [Category:云存储](https://zh.wikipedia.org/wiki/Category:云存储 "wikilink") [Category:数据同步](https://zh.wikipedia.org/wiki/Category:数据同步 "wikilink") [Category:文件共享服务](https://zh.wikipedia.org/wiki/Category:文件共享服务 "wikilink") [Category:在线备份服务](https://zh.wikipedia.org/wiki/Category:在线备份服务 "wikilink") [Category:蘋果公司服務](https://zh.wikipedia.org/wiki/Category:蘋果公司服務 "wikilink") [Category:电子邮件网站](https://zh.wikipedia.org/wiki/Category:电子邮件网站 "wikilink") [Category:雲端運算](https://zh.wikipedia.org/wiki/Category:雲端運算 "wikilink")
 
 1.
 

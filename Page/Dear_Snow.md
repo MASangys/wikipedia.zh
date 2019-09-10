@@ -21,7 +21,7 @@
         <span style="font-size:smaller">編曲：宮野幸子 / 吉岡たく</span>
 2.  **時空膠囊**(タイムカプセル)<span style="font-size:smaller"></span>
       -
-        <span style="font-size:smaller">作詞・作曲・編曲：SIX
+        <span style="font-size:smaller">作詞・作曲・編曲：SIX</span>
 3.  **Dear Snow**<span style="font-size:smaller">（Original Karaoke）</span>
 4.  **時空膠囊**(タイムカプセル)<span style="font-size:smaller">（Original Karaoke）</span>
 

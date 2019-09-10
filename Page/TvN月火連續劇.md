@@ -810,7 +810,7 @@
 <tr class="odd">
 <td style="text-align: center;"><p>2019年8月26日－<br />
 2019年10月</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/偉大的Show" title="wikilink">偉大的Show</a><br />
+<td style="text-align: center;"><p><a href="../Page/偉大的Show.md" title="wikilink">偉大的Show</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/宋承憲.md" title="wikilink">宋承憲</a>、<a href="../Page/李善彬.md" title="wikilink">李善彬</a>、<a href="../Page/林周煥.md" title="wikilink">林周煥</a>、<a href="../Page/朴荷娜.md" title="wikilink">朴荷娜</a></p></td>

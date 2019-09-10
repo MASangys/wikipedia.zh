@@ -10,7 +10,7 @@ SDV世界中，一處名為[麥哲倫大陸](https://zh.wikipedia.org/wiki/麥�
 
 ### G-ARMS
 
-#### 司令GUNDAM／重裝備司令GUNDAM／V司令GUNDAM**(FAGUNDAM／GUNDAM七號機重裝備型+[-{zh-hk:阿諾·舒華辛力加;zh-tw:阿諾·史瓦辛格;}-](https://zh.wikipedia.org/wiki/阿諾·史瓦辛格 "wikilink"))**
+#### 司令GUNDAM／重裝備司令GUNDAM／V司令GUNDAM(FAGUNDAM／GUNDAM七號機重裝備型+[-{zh-hk:阿諾·舒華辛力加;zh-tw:阿諾·史瓦辛格;}-](https://zh.wikipedia.org/wiki/阿諾·史瓦辛格 "wikilink"))
 
 推出商品﹕BB.43、BB.84、元祖系列、SDX可動玩具
 
@@ -52,7 +52,7 @@ SDV世界中，一處名為[麥哲倫大陸](https://zh.wikipedia.org/wiki/麥�
   -
     RMS海戰參謀，有雉雞型機械KJI。
 
-#### 隊長GUNDAM／-{zh-hk:鎗之武裝;zh-tw:鋼裝甲;}-隊長GUNDAM**(Captain Gundam)**
+#### 隊長GUNDAM／-{zh-hk:鎗之武裝;zh-tw:鋼裝甲;}-隊長GUNDAM(Captain Gundam)
 
   -
     G-ARMS實際的指揮官，官階上尉，編號G-ARMS01、專用徽章為為獅子，也是整個SD司令戰記中實際的主角，原本是RX-78GUNDAM，後來在一次行動中拯救司令GUNDAM，後者根據元祖GUNDAM解救危機的功績，進行強化手術，成為其中一員。忠實執行司令GUNDAM的命令，同時有著優於其他成員的戰鬥力。

@@ -34,7 +34,7 @@ IEEE 802.1Q定義一個關於[VLAN連接](https://zh.wikipedia.org/wiki/虛擬�
 
 因為插入VLAN標籤會改變幀，在乙太外掛裡802.1Q概括(encapsulation)會強迫檢驗原始的[幀檢查序列](https://zh.wikipedia.org/wiki/幀檢查序列 "wikilink")(Frame Check Sequence, FCS)域。這同時也會增加幀4位元組的上限容量。
 
-**雙重標記**([IEEE 802.1ad](../Page/IEEE_802.1ad.md "wikilink"))對於[網際網路提供者](https://zh.wikipedia.org/wiki/網際網路提供者 "wikilink")(ISP)是非常有用的。他允許當已被VLAN標籤的混合資料從客戶端送出時ISP仍能在內部使用VLAN。**外部**(outer, next to Source MAC and represening ISP VLAN)標籤會先於**內部**(inner)標籤。此時，一個可變的TPID在16進位值可能為9100、9200或是9300，通常作為外部標籤；然而在值為88a8時會違反[802.1ad而無法作為外部標籤](https://zh.wikipedia.org/wiki/802.1ad "wikilink")。 [TCPIP_802.1ad_DoubleTag.svg](https://zh.wikipedia.org/wiki/File:TCPIP_802.1ad_DoubleTag.svg "fig:TCPIP_802.1ad_DoubleTag.svg")
+**雙重標記**([IEEE 802.1ad](../Page/IEEE_802.1ad.md "wikilink"))對於[網際網路提供者](https://zh.wikipedia.org/wiki/網際網路提供者 "wikilink")(ISP)是非常有用的。他允許當已被VLAN標籤的混合資料從客戶端送出時ISP仍能在內部使用VLAN。**外部**(outer, next to Source MAC and represening ISP VLAN)標籤會先於**內部**(inner)標籤。此時，一個可變的TPID在16進位值可能為9100、9200或是9300，通常作為外部標籤；然而在值為88a8時會違反[802.1ad而無法作為外部標籤](../Page/IEEE_802.1ad.md "wikilink")。 [TCPIP_802.1ad_DoubleTag.svg](https://zh.wikipedia.org/wiki/File:TCPIP_802.1ad_DoubleTag.svg "fig:TCPIP_802.1ad_DoubleTag.svg")
 
 **三重標記** 也同樣可行。12位元的VID延伸出48位元的目的與源地址成66位元。中間3位元的PCP域可作為虛擬TTL或Hop-Count以確保封包不會成為無限迴圈；更複雜的形式則是使其中一位元超載成為ingress-egress的編碼形式。PCP域的末三碼用來替檔案內容分層，從000 NR至111 XXX。在Payload段落找到的CFI3位元被組合並編碼成Next Header(或是協定)，僅有其中兩碼會被使用而產生4個協定，\[NOP、ICMP、UDP、ENCAP\]。 NOP, No Protocol:用作IP byte/管流(pipe streams)中微小的Payload段落。 ICMP供做控制用途。UDP增加端口數量，是一個從IP送出的半冗沉(semi-redundant)即可選擇的校驗和。ENCAP協定或是Payload形是允許前述所有的協定，不需序文就可以封中；其中內容必須包含CRC\\FCS標籤。TTL和長度(length)被置於48位元的地址域前讓硬體優先讀取以減少延遲。
 

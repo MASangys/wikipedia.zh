@@ -150,7 +150,7 @@
 <td><div align="center">
 <p><a href="https://zh.wikipedia.org/wiki/File:Rembrandt_Harmensz_van_Rijn_-_Return_of_the_Prodigal_Son_-_Google_Art_Project.jpg" title="fig:Rembrandt_Harmensz_van_Rijn_-_Return_of_the_Prodigal_Son_-_Google_Art_Project.jpg">Rembrandt_Harmensz_van_Rijn_-_Return_of_the_Prodigal_Son_-_Google_Art_Project.jpg</a></p></td>
 <td><p><em>Return of the Prodigal Son</em><br />
-<a href="https://zh.wikipedia.org/wiki/浪子回家" title="wikilink">浪子回家</a></p></td>
+</p></td>
 <td><p><a href="../Page/伦勃朗.md" title="wikilink">伦勃朗</a><br />
 (1663–1665) <a href="http://www.googleartproject.com/museums/hermitage/return-of-the-prodigal-son">1</a></p></td>
 </tr>

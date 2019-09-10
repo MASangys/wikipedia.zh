@@ -1022,7 +1022,7 @@
 <td style="text-align: center;"><p><a href="../Page/智鉉寓.md" title="wikilink">智鉉寓</a>、<a href="../Page/朴韓星.md" title="wikilink">朴韓星</a>、<a href="../Page/柳秀榮.md" title="wikilink">柳秀榮</a>、<a href="../Page/王嬪娜.md" title="wikilink">王嬪娜</a>、<a href="../Page/朴荷娜.md" title="wikilink">朴荷娜</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/崔怡燮.md" title="wikilink">崔怡燮</a></p></td>
 <td style="text-align: center;"><p>宋正琳</p></td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><p><a href="../Page/野島伸司.md" title="wikilink">野島伸司</a>《》</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>2019年5月4日－<br />
@@ -1030,7 +1030,7 @@
 <td style="text-align: center;"><p><a href="../Page/異夢.md" title="wikilink">異夢</a><br />
 </p></td>
 <td style="text-align: center;"><p>40</p></td>
-<td style="text-align: center;"><p><a href="../Page/李枖原.md" title="wikilink">李枖原</a>、<a href="../Page/劉智泰.md" title="wikilink">劉智泰</a>、<a href="../Page/林周煥.md" title="wikilink">林周煥</a>、<a href="../Page/南奎里.md" title="wikilink">南奎里</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/李枖原.md" title="wikilink">李枖原</a>、<a href="../Page/劉智泰.md" title="wikilink">劉智泰</a>、<a href="../Page/林周煥.md" title="wikilink">林周煥</a>、<a href="../Page/南奎里.md" title="wikilink">南奎里</a>、<a href="../Page/朴荷娜.md" title="wikilink">朴荷娜</a>、<a href="../Page/尹鍾和.md" title="wikilink">尹鍾和</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/尹尚浩_(導演).md" title="wikilink">尹尚浩</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/趙奎元" title="wikilink">趙奎元</a></p></td>
 <td style="text-align: center;"></td>
@@ -1040,7 +1040,7 @@
 2019年9月21日</p></td>
 <td style="text-align: center;"><p><a href="../Page/黃金庭院.md" title="wikilink">黃金庭院</a><br />
 </p></td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><p>60</p></td>
 <td style="text-align: center;"><p><a href="../Page/韓智慧.md" title="wikilink">韓智慧</a>、<a href="../Page/李尚禹.md" title="wikilink">李尚禹</a>、<a href="../Page/吳知恩.md" title="wikilink">吳知恩</a>、<a href="../Page/李太成.md" title="wikilink">李太成</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/李台英.md" title="wikilink">李台英</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/朴賢珠.md" title="wikilink">朴賢珠</a></p></td>

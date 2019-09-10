@@ -8,7 +8,7 @@
 
 所有的FNP手槍衍生型都具有[能左右手操作操作的待擊解脫](../Page/两手同利.md "wikilink")[桿和一個可反轉的](../Page/杠杆.md "wikilink")[彈匣](../Page/彈匣.md "wikilink")釋放按鈕，以及設有一條整合在[套筒下前方的綜合](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")[戰術配件導軌](../Page/皮卡汀尼導軌.md "wikilink")，以安裝各種[戰術燈](../Page/戰術燈.md "wikilink")或是[雷射瞄準器的配件](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")。此外，FNP-45更具有一個能左右手操作操作的套筒釋放裝置。
 
-根據FNH USA所指，FNP手槍是市場上唯一的全聚合物製造[底把的](../Page/机匣.md "wikilink")[自動裝填手槍](../Page/半自動手槍.md "wikilink")（在FNP初次發售時）具有協助完全更換底把的導軌，這樣就算手槍因為多次射擊而零件耗損過後仍能重組，從而延長全槍的壽命。\[4\]（[斯泰爾M系列手槍也有此功能](../Page/斯泰爾M手槍.md "wikilink")，並且先於FNP手槍在1999年推出）。
+根據FNH USA所指，FNP手槍是市場上唯一的全聚合物製造[底把的](../Page/机匣.md "wikilink")[自動裝填手槍](../Page/半自動手槍.md "wikilink")（在FNP初次發售時）具有協助完全更換底把的導軌，這樣就算手槍因為多次射擊而零件耗損過後仍能重組，從而延長全槍的壽命。\[4\]（[斯泰爾M系列手槍也有此功能](https://zh.wikipedia.org/wiki/斯泰爾M半自動手槍 "wikilink")，並且先於FNP手槍在1999年推出）。
 
 FNP系列的缺點是中規中矩沒有特色，在手槍市場上不溫不火。因此國營赫斯塔爾其後先後推出了[FN FNX和](../Page/FN_FNX手槍.md "wikilink")[FN FNS將其取代](../Page/FN_FNS手槍.md "wikilink")。
 

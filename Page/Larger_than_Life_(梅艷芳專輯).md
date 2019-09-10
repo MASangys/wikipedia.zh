@@ -2,4 +2,4 @@
 
 ## 曲目列表
 
-[Category:梅艷芳音樂專輯](https://zh.wikipedia.org/wiki/Category:梅艷芳音樂專輯 "wikilink") [Category:1999年音樂專輯](https://zh.wikipedia.org/wiki/Category:1999年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:华星唱片音乐专辑](https://zh.wikipedia.org/wiki/Category:华星唱片音乐专辑 "wikilink")
+[Category:梅艷芳音樂專輯](https://zh.wikipedia.org/wiki/Category:梅艷芳音樂專輯 "wikilink") [Category:1999年音樂專輯](https://zh.wikipedia.org/wiki/Category:1999年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:香港流行音乐专辑](https://zh.wikipedia.org/wiki/Category:香港流行音乐专辑 "wikilink") [Category:华星唱片音乐专辑](https://zh.wikipedia.org/wiki/Category:华星唱片音乐专辑 "wikilink")

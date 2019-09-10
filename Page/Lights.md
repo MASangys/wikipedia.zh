@@ -1,4 +1,4 @@
-**Lights**（全名：**Lights Valerie Poxleitner**，1987年4月11日─）是一位[加拿大](../Page/加拿大.md "wikilink")[电子流行乐](https://zh.wikipedia.org/wiki/电子流行乐 "wikilink")[女歌手和](../Page/歌手.md "wikilink")[歌曲](../Page/歌曲.md "wikilink")创作者，专长為[流行电子音乐](https://zh.wikipedia.org/wiki/流行电子音乐 "wikilink")，代表作有《冰》（"Ice"）、《》（"Saviour"）、《》（"The Listening"）等。她的第1张专辑和第2张专辑分别获得2009年和2015年的[朱诺奖](https://zh.wikipedia.org/wiki/朱诺奖 "wikilink")。
+**Lights**（全名：**Lights Valerie Poxleitner**，）是一位[加拿大](../Page/加拿大.md "wikilink")[电子流行乐](https://zh.wikipedia.org/wiki/电子流行乐 "wikilink")[女歌手和](../Page/歌手.md "wikilink")[歌曲](../Page/歌曲.md "wikilink")创作者，专长為[流行电子音乐](https://zh.wikipedia.org/wiki/流行电子音乐 "wikilink")，代表作有《冰》（"Ice"）、《》（"Saviour"）、《》（"The Listening"）等。她的第1张专辑和第2张专辑分别获得2009年和2015年的[朱诺奖](https://zh.wikipedia.org/wiki/朱诺奖 "wikilink")。
 
 ## 早年生活
 
@@ -98,7 +98,7 @@ Lights有一些反战主题的歌曲，如《和平标志》("Piece Sign")和《
 
   -
   -
-[Category:加拿大流行音乐歌手](https://zh.wikipedia.org/wiki/Category:加拿大流行音乐歌手 "wikilink") [Category:加拿大女歌手](https://zh.wikipedia.org/wiki/Category:加拿大女歌手 "wikilink") [Category:加拿大电子音乐歌手](https://zh.wikipedia.org/wiki/Category:加拿大电子音乐歌手 "wikilink") [Category:1987年出生](https://zh.wikipedia.org/wiki/Category:1987年出生 "wikilink")
+[Category:加拿大流行音乐歌手](https://zh.wikipedia.org/wiki/Category:加拿大流行音乐歌手 "wikilink") [Category:加拿大女歌手](https://zh.wikipedia.org/wiki/Category:加拿大女歌手 "wikilink") [Category:加拿大电子音乐歌手](https://zh.wikipedia.org/wiki/Category:加拿大电子音乐歌手 "wikilink")
 
 1.
 

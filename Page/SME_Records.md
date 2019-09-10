@@ -50,7 +50,9 @@
 
   - [冈崎体育](../Page/冈崎体育.md "wikilink")
 
-  - [山下智久](../Page/山下智久.md "wikilink")
+  - [山下智久](../Page/山下智久.md "wikilink") ([日本華納音樂](../Page/日本華納音樂.md "wikilink")移籍)
+
+  - [SixTONES](../Page/SixTONES.md "wikilink") (2020預定發行)
 
 ## 原屬藝人，移藉至SACRA MUSIC
 

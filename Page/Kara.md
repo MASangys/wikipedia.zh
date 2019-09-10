@@ -6,7 +6,7 @@
 
 ## 團名由來
 
-團體名稱**KARA**取自[希臘語chara](https://zh.wikipedia.org/wiki/希臘語 "wikilink")（）為喜樂之意，意味著這個團體希望用美妙的聲音把喜悅帶給大家。\[5\]**KARA**的官方應援顏色為珍珠桃色（近似皮膚上的肉色）\[6\]，歌迷的官方名稱為「KAMILIA」，意思為：KARA + FAMILIA ，FAMILIA亦是取自希臘語，意思是FAMILY（家庭），把兩字合併稱作KAMILIA即為KARA跟KARA的FAMILIY，代表著「KARA和歌迷是一體」之意。官方應援物為珍珠桃色氣球。
+團體名稱**KARA**取自[希臘語chara](https://zh.wikipedia.org/wiki/希臘語 "wikilink")（）為喜樂之意，意味著這個團體希望用美妙的聲音把喜悅帶給大家。\[5\]**KARA**的官方應援顏色為珍珠桃色（近似皮膚上的肉色）\[6\]，歌迷的官方名稱為「KAMILIA」，意思為：KARA + FAMILIA ，FAMILIA亦是取自希臘語，意思是FAMILY（家庭），把兩字合併稱作KAMILIA即為KARA跟KARA的FAMILIY，代表著「KARA和歌迷是一體」之意。官方應援色為<font color = #FBBEA1>**珍珠桃色**</font>，官方應援物為珍珠桃色氣球。
 
 ## 成員資料
 
@@ -195,11 +195,12 @@ PlotData =
 
 ### 日本
 
-#### 2010年
+#### 2010年：亞洲女子組合(日本以外)最初Oricon排行榜Top 10
 
   - 4月28日，首次限量发行Kara特别专辑《PREMIUM BOX FOR JAPAN》。
   - 5月9日，在横滨港未来大厅举行官方粉丝俱乐部的粉丝见面会。
   - 8月以〈Mr.〉日文版正式在日本出道。
+  - 〈Mr.〉日文版獲得Oricon週榜第5位的佳績，是最初進入Oricon排行榜Top 10的亞洲女子組合(日本以外)，也是自1980年英國團體The Nolans(Orico週榜 7位)後，30年來第一個進入Orico週榜Top 10的海外團體。
   - 8月11日，原定於日本東京澀谷109大廈外舉行30分鐘的游擊音樂會公演，卻因約3000名的粉絲聚集，基於安全上的考量，改為3分鐘結束。
   - 8月14日，新木场STUDIO COAST举行单曲〈Mr.〉的签唱会。
   - 9月29日，〈KARA BEST2007-2010〉销售。
@@ -221,9 +222,10 @@ PlotData =
   - 1月25日，DVD『KARADISE 2012，IN PARIS》（日本国内盘、数量限定商品）发售。
   - 2月15日，DVD『STEP IT UP』（日本国内盤、数量限定商品）发售。
   - 2月29日，DVD 和 Blu-ray Disc『KARA BEST CLIPSⅡ & SHOWS』（日本国内盤、数量限定商品）发售。『KARA BEST CLIPS』Blu-ray Disc发售。
+  - 2月29日發行的『KARA BEST CLIPSⅡ & SHOWS』同時登上日本Oricon榜中DVD部門Blu-ray Disc部門一位，是首次由海外音樂人在日本獲得雙冠王的紀錄，也是繼Amuro Namie、AKB48、Mr.children、RADWIMPS後創下的第五個雙冠王記錄。
   - 4月14日至5月27日，举行首次日本巡回演唱会“KARA 1st JAPAN TOUR 2012 KARASIA”。
   - 10月14日，“KARA 1st JAPAN TOUR 2012 KARASIA”演唱会 DVD 和 Blu-ray Disc影碟发售。
-  - 11月14日，Kara推出第3張日文專輯《[Girls Forever](../Page/Girls_Forever.md "wikilink")》，發行當日就在公信榜奪下Top2的佳績，並收入「Speed Up」、「GIRLS POWER」及「來電男孩」。
+  - 11月14日，Kara推出第3張日文專輯《[Girls Forever](../Page/Girls_Forever.md "wikilink")》，發行當日就在公信榜奪下Top2的佳績，並收錄「Speed Up」、「GIRLS POWER」及「來電男孩」。
 
 #### 2013年
 
@@ -271,7 +273,7 @@ PlotData =
   - 2014年：[Day & Night](https://zh.wikipedia.org/wiki/Day_&_Night_\(Kara迷你專輯\) "wikilink")
   - 2015年：[IN LOVE](../Page/IN_LOVE_\(Kara迷你專輯\).md "wikilink")
 
-<small>備註：Sweetune音樂團隊曾為KARA寫下好幾首熱門歌曲《Rock U》、《Pretty Girl》、《Lupin》、《Jumping》、《Step》、《Pandora》等大熱專輯(KARA 2.0時期的眾多熱門曲)，也曾經公開聲明只會替5人的KARA作詞曲\[28\]，因此在2014年後Sweetune就再也沒有替KARA 3.0作詞曲。但Sweetune與妮可(2014年離開KARA後發行第一張solo專輯《First Romance》)、昇延(直至2016年，奎利、昇延、荷拉三人與Dsp解約後，Sweetune才又與昇延合作，《那孩子是我》、《過得好嗎Do you remember?》)有個人合作。 </small>
+<font color =#696969><small>備註：Sweetune音樂團隊曾為KARA寫下好幾首熱門歌曲《Rock U》、《Pretty Girl》、《Lupin》、《Jumping》、《Step》、《Pandora》等大熱專輯(KARA 2.0時期的眾多熱門曲)，也曾經公開聲明只會替5人的KARA作詞曲\[28\]，因此在2014年後Sweetune就再也沒有替KARA 3.0作詞曲。但Sweetune與妮可(2014年離開KARA後發行第一張solo專輯《First Romance》)、昇延(直至2016年，奎利、昇延、荷拉三人與Dsp解約後，Sweetune才又與昇延合作，《那孩子是我》、《過得好嗎Do you remember?》)有個人合作。 </small></font>
 
 ### 日語
 
@@ -285,7 +287,7 @@ PlotData =
 
 ## 演唱會
 
-  - Kara 1st韩国演唱會（KARA 2012 The 1st Concert KARASIA IN SEOUL）
+  - Kara 1st韩国演唱會（[KARA 2012 The 1st Concert KARASIA IN SEOUL](https://zh.wikipedia.org/wiki/KARA_2012_The_1st_Concert_KARASIA_IN_SEOUL "wikilink")）
 
 |               |     |             |
 | ------------- | --- | ----------- |
@@ -304,7 +306,7 @@ PlotData =
 | 2012年5月16-17日    | 東京站  | 東京國立代代木競技場 |
 | 2012年5月26-27日    | 埼玉站  | 埼玉超級競技場    |
 
-  - 日本东京巨蛋演唱會（KARASIA 2013 Happy New Year）
+  - 日本东京巨蛋演唱會（[KARASIA 2013 HAPPY NEW YEAR in Tokyo Dome](https://zh.wikipedia.org/wiki/KARASIA_2013_HAPPY_NEW_YEAR_in_Tokyo_Dome "wikilink")）
 
 |           |     |      |
 | --------- | --- | ---- |
@@ -330,25 +332,25 @@ PlotData =
 | -------------- | ---- | ------------------ |
 | 日期             | 城市   | 舉行地點               |
 | 2014年10月24-25日 | 福岡站  | 福岡サンパレス            |
-| 2014年10月27日    | 名古屋站 | 名古屋国際会議場センチュリーホール  |
+| 2014年10月27日    | 名古屋站 | 名古屋國際會議場世紀廳        |
 | 2014年11月3日     | 岡山站  | 岡山市民会館             |
-| 2014年11月5日     | 石川站  | 北陸電力会館　本多の森ホール（石川） |
-| 2014年11月6日     | 新潟站  | 新潟県民会館             |
+| 2014年11月5日     | 石川站  | 北陸電力會館本多之森交響樂廳（石川） |
+| 2014年11月6日     | 新潟站  | 新潟縣民會館             |
 | 2014年11月14-15日 | 大阪站  | 大阪市中央体育館           |
-| 2014年11月18-19日 | 横浜站  | 横浜アリーナ             |
+| 2014年11月18-19日 | 横濱站  | 橫濱體育館              |
 
   - Kara 4th日本巡迴演唱會（[KARA 4th JAPAN TOUR 2015 KARASIA](https://zh.wikipedia.org/wiki/KARA_4th_JAPAN_TOUR_2015_KARASIA "wikilink")）
 
-|                     |     |                   |
-| ------------------- | --- | ----------------- |
-| 日期                  | 城市  | 舉行地點              |
-| 2015年9月01-03日       | 大阪站 | Zeppなんば大阪         |
-| 2015年9月4日           | 名古屋 | 名古屋国際会議場センチュリーホール |
-| 2015年9月8日           | 金澤站 | 金沢 本多の森ホール        |
-| 2015年9月10日          | 廣島站 | 広島 上野学園ホール        |
-| 2015年9月12日          | 岡山站 | 岡山市民会館            |
-| 2015年9月21-22日       | 福岡站 | Zepp福岡            |
-| 2015年9月24-25/28-29日 | 橫濱站 | パシフィコ横浜 国立大ホール    |
+|                      |     |                  |
+| -------------------- | --- | ---------------- |
+| 日期                   | 城市  | 舉行地點             |
+| 2015年9月01-03日        | 大阪站 | Zepp 大阪          |
+| 2015年9月4日            | 名古屋 | 名古屋國際會議場世紀廳      |
+| 2015年9月8日            | 金澤站 | 金澤北陸電力會館本多之森交響樂廳 |
+| 2015年9月10日           | 廣島站 | 廣島上野學園石橋記念演藝廳    |
+| 2015年9月12日           | 岡山站 | 岡山市民會館           |
+| 2015年9月21-22日        | 福岡站 | Zepp 福岡          |
+| 2015年9月24-25日、28-29日 | 橫濱站 | 橫濱國際平和會議場        |
 
   - Kara其他大型演唱會
 

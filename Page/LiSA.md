@@ -262,7 +262,7 @@ VVCL-1042/3 (CD+DVD)</p></td>
   -
   -
   -
-[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:岐阜縣出身人物](https://zh.wikipedia.org/wiki/Category:岐阜縣出身人物 "wikilink") [Category:LiSA](https://zh.wikipedia.org/wiki/Category:LiSA "wikilink")
+[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:日本女性搖滾歌手](https://zh.wikipedia.org/wiki/Category:日本女性搖滾歌手 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:岐阜縣出身人物](https://zh.wikipedia.org/wiki/Category:岐阜縣出身人物 "wikilink") [Category:LiSA](https://zh.wikipedia.org/wiki/Category:LiSA "wikilink")
 
 1.
 2.  [【迷迷現場】「挖尬意哩！」秒殺歌姫LiSA再次登台 樂迷禮物全副穿上身](https://memeon-music.com/2017/12/10/lisa-report/)

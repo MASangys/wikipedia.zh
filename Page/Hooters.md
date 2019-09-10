@@ -4,7 +4,7 @@
 
 ## 事件
 
-### 香港招聘廣告用簡體字極有可能違反《性別歧視條例》
+### 香港招聘廣告用簡體字及極有可能違反《性別歧視條例》
 
 2016年4月，Hooters Hong Kong在他們的[Facebook](../Page/Facebook.md "wikilink")專頁發佈招聘[廣告](../Page/廣告.md "wikilink")，而招募類別中的[酒吧](https://zh.wikipedia.org/wiki/酒吧 "wikilink")[櫃檯](https://zh.wikipedia.org/wiki/櫃檯 "wikilink")[服务员及](https://zh.wikipedia.org/wiki/服务员 "wikilink")[餐廳值班](https://zh.wikipedia.org/wiki/餐廳 "wikilink")[主管](https://zh.wikipedia.org/wiki/主管 "wikilink")，都列明是「只限女性」，極有可能違反《[性別歧視條例](https://zh.wikipedia.org/wiki/性別歧視條例 "wikilink")》。 在招聘廣告中，Hooters Hong Kong使用的文字卻只有[英文及](https://zh.wikipedia.org/wiki/英文 "wikilink")[簡體中文](https://zh.wikipedia.org/wiki/簡體中文 "wikilink")，似乎對香港不甚了解，\[2\]被指不尊重[港人文化](../Page/香港文化.md "wikilink")。經《[熱血時報](../Page/熱血時報.md "wikilink")》4月9日早上報道了有關新聞之後，不少網民都去到Hooters Hong Kong的Facebook專頁留言表達不滿，更有網民表明杯葛。
 

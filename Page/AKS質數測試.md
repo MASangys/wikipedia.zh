@@ -29,7 +29,7 @@ AKS 質數測試主要是基於以下定理：整數*n* (≥ 2)是質數，若�
 
 出於對這些變體和其他回复的回應，論文“質數屬於P”稍後被進行了更新，新版本包括了一個AKS算法的正規公式化表述和其正確性證明。（這一版本在[数学年刊上發表](https://zh.wikipedia.org/wiki/数学年刊 "wikilink")。）雖然基本思想沒有變化，\(r\)卻被採用了新方法進行選擇，而正確性證明也變得更加緊緻有序。與舊證明依賴於許多不同的方法不同，新版本幾乎只依賴於[有限域](../Page/有限域.md "wikilink")上的分圓多項式的特徵。新版本同時也優化了時間複雜度的邊界到O\((\log^{10.5}(n))\)。通過[篩法獲得的其他結果可以將其進一步簡化到O](https://zh.wikipedia.org/wiki/篩法 "wikilink")\((\log^{7.5}(n))\)。
 
-在2005年，[Carl Pomerance和](https://zh.wikipedia.org/wiki/Carl_Pomerance "wikilink")[H. W. Lenstra, Jr.展示了一個AKS的變體](https://zh.wikipedia.org/wiki/endrik_Lenstra "wikilink")，可以在\(O(log^6(n))\)次操作內完成測試（\(n\)是被測試數）。對於原算法的\(O(log^{12}(n))\)邊界而言，這是一個顯著的改進。\[2\]
+在2005年，[Carl Pomerance和](https://zh.wikipedia.org/wiki/Carl_Pomerance "wikilink")[H. W. Lenstra, Jr.展示了一個AKS的變體](https://zh.wikipedia.org/wiki/endrik_Lenstra "wikilink")，可以在\(O(\log^6(n))\)次操作內完成測試（\(n\)是被測試數）。對於原算法的\(O(\log^{12}(n))\)邊界而言，這是一個顯著的改進。\[2\]
 
 ## 演算法
 

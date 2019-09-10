@@ -43,8 +43,6 @@
 
 ### 羽豆岬
 
-[Hazumisaki_SKE48_monument.jpg](https://zh.wikipedia.org/wiki/File:Hazumisaki_SKE48_monument.jpg "fig:Hazumisaki_SKE48_monument.jpg")
-
 **“Under Girls B”名义**
 
 （中心：平松可奈子、小木曽汐莉）

@@ -164,4 +164,4 @@ Superfly的首張原創專輯《[Superfly](../Page/Superfly_\(專輯\).md "wikil
 
   - [官方部落格](http://www.superfly-web.com/diary/)
 
-[Category:華納音樂集團旗下歌手](https://zh.wikipedia.org/wiki/Category:華納音樂集團旗下歌手 "wikilink") [Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink") [Category:愛媛縣出身人物](https://zh.wikipedia.org/wiki/Category:愛媛縣出身人物 "wikilink") [Category:日本富士搖滾音樂祭參加歌手](https://zh.wikipedia.org/wiki/Category:日本富士搖滾音樂祭參加歌手 "wikilink")
+[Category:華納音樂集團旗下歌手](https://zh.wikipedia.org/wiki/Category:華納音樂集團旗下歌手 "wikilink") [Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink") [Category:日本女性搖滾歌手](https://zh.wikipedia.org/wiki/Category:日本女性搖滾歌手 "wikilink") [Category:愛媛縣出身人物](https://zh.wikipedia.org/wiki/Category:愛媛縣出身人物 "wikilink") [Category:日本富士搖滾音樂祭參加歌手](https://zh.wikipedia.org/wiki/Category:日本富士搖滾音樂祭參加歌手 "wikilink")

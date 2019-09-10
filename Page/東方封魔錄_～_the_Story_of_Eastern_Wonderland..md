@@ -1,4 +1,4 @@
-[The_Story_of_Eastern_Wonderland.png](https://zh.wikipedia.org/wiki/File:The_Story_of_Eastern_Wonderland.png "fig:The_Story_of_Eastern_Wonderland.png") 是[东方Project的第二部作品](https://zh.wikipedia.org/wiki/东方Project "wikilink")，是本系列中第一个的[弹幕射击游戏](https://zh.wikipedia.org/wiki/弹幕射击游戏 "wikilink")，可以被认为奠定了以后本系列的主要游戏模式。本作由[上海愛麗絲幻樂團的前身ZUN](https://zh.wikipedia.org/wiki/上海愛麗絲幻樂團 "wikilink") Soft开发，发布于[Comic Market](../Page/Comic_Market.md "wikilink")52 ，引入了本作第二主角——[雾雨魔理沙](https://zh.wikipedia.org/wiki/雾雨魔理沙 "wikilink")。
+[The_Story_of_Eastern_Wonderland.png](https://zh.wikipedia.org/wiki/File:The_Story_of_Eastern_Wonderland.png "fig:The_Story_of_Eastern_Wonderland.png") 是[东方Project的第二部作品](https://zh.wikipedia.org/wiki/东方Project "wikilink")，是本系列中第一个的[弹幕射击游戏](https://zh.wikipedia.org/wiki/弹幕射击游戏 "wikilink")，可以被认为奠定了以后本系列的主要游戏模式。本作由[上海愛麗絲幻樂團](../Page/上海愛麗絲幻樂團.md "wikilink")的前身ZUN Soft开发，发布于[Comic Market](../Page/Comic_Market.md "wikilink")52 ，引入了本作第二主角——[雾雨魔理沙](https://zh.wikipedia.org/wiki/雾雨魔理沙 "wikilink")。
 
 ## 游戏玩法
 

@@ -22,6 +22,6 @@
 `1988年第六屆無線電視十大勁歌金曲 `<貼身>
 `1988年第六屆無線電視十大勁歌金曲 `<沉默是金>
 
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:1988年音樂專輯](https://zh.wikipedia.org/wiki/Category:1988年音樂專輯 "wikilink") [Category:張國榮音樂專輯](https://zh.wikipedia.org/wiki/Category:張國榮音樂專輯 "wikilink") [Category:新艺宝唱片音乐专辑](https://zh.wikipedia.org/wiki/Category:新艺宝唱片音乐专辑 "wikilink") [Category:夏天題材樂曲](https://zh.wikipedia.org/wiki/Category:夏天題材樂曲 "wikilink")
+[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:香港流行音乐专辑](https://zh.wikipedia.org/wiki/Category:香港流行音乐专辑 "wikilink") [Category:1988年音樂專輯](https://zh.wikipedia.org/wiki/Category:1988年音樂專輯 "wikilink") [Category:張國榮音樂專輯](https://zh.wikipedia.org/wiki/Category:張國榮音樂專輯 "wikilink") [Category:新艺宝唱片音乐专辑](https://zh.wikipedia.org/wiki/Category:新艺宝唱片音乐专辑 "wikilink") [Category:夏天題材樂曲](https://zh.wikipedia.org/wiki/Category:夏天題材樂曲 "wikilink")
 
 1.  [1](https://itunes.apple.com/hk/album/hot-summer/979115054)

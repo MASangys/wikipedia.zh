@@ -2,7 +2,7 @@
 
 ## 概要
 
-公司初期原本是屬於[AV片商](https://zh.wikipedia.org/wiki/AV片商 "wikilink")「[ATTACKERS](https://zh.wikipedia.org/wiki/Attackers "wikilink")」底下的一個品牌，並伴隨著該片商進入了[北都集團旗下的銷售部門](https://zh.wikipedia.org/wiki/北都集團 "wikilink")「アウトビジョン」（Outvision）。從2002年開始脫離ATTACKERS，成為集團底下的獨立片商進行活動。
+公司初期原本是屬於[AV片商](https://zh.wikipedia.org/wiki/AV片商 "wikilink")「[ATTACKERS](https://zh.wikipedia.org/wiki/Attackers "wikilink")」的一個品牌，並伴隨著該片商進入了[北都集團旗下的銷售部門](https://zh.wikipedia.org/wiki/北都集團 "wikilink")「アウトビジョン」（Outvision）。從2002年開始脫離ATTACKERS，成為集團底下的獨立片商進行活動。
 
 2005年4月，第一次以北都集團旗下銷售製造商的身分發行租賃商品。同年10月，集團底下的其他片商也開始透過[子公司](../Page/子公司.md "wikilink")「[TIS](../Page/TIS.md "wikilink")」全面進入租賃部門成為測試對象。
 

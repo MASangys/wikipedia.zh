@@ -53,7 +53,7 @@ Yoho Midtown 銷售手法為人詬病。買家投訴，於售樓處呆等了3日
 <!-- end list -->
 
   - <font color="{{西鐵綫色彩}}">█</font>[西鐵綫](../Page/西鐵綫.md "wikilink")：[元朗站](../Page/元朗站_\(西鐵綫\).md "wikilink")
-  - [輕鐵](https://zh.wikipedia.org/wiki/輕鐵 "wikilink")：元朗總站(610及615往屯門碼頭，761P往天水圍天逸)
+  - [輕鐵](https://zh.wikipedia.org/wiki/輕鐵 "wikilink")：元朗總站(610，614及615往屯門碼頭，761P往天水圍天逸)
 
 基座YOHO MALL連接西鐵站和輕鐵站。
 

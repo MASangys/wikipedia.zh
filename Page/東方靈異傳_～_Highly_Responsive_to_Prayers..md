@@ -1,4 +1,4 @@
-[Highly_Responsive_to_Prayers.png](https://zh.wikipedia.org/wiki/File:Highly_Responsive_to_Prayers.png "fig:Highly_Responsive_to_Prayers.png") 是[东方Project的第一部作品](https://zh.wikipedia.org/wiki/东方Project "wikilink")，一个是除了背景原创外的[打砖块游戏](https://zh.wikipedia.org/wiki/打砖块 "wikilink")，是东方Project中唯一游戏类型与其他不同的作品。本作发布于[東京電機大学理工学部鳩山祭](https://zh.wikipedia.org/wiki/東京電機大学 "wikilink")，由[上海愛麗絲幻樂團的前身ZUN](https://zh.wikipedia.org/wiki/上海愛麗絲幻樂團 "wikilink") Soft开发，本作主角之一[博丽灵梦第一次登场](https://zh.wikipedia.org/wiki/博丽灵梦 "wikilink")。
+[Highly_Responsive_to_Prayers.png](https://zh.wikipedia.org/wiki/File:Highly_Responsive_to_Prayers.png "fig:Highly_Responsive_to_Prayers.png") 是[东方Project的第一部作品](https://zh.wikipedia.org/wiki/东方Project "wikilink")，一个是除了背景原创外的[打砖块游戏](https://zh.wikipedia.org/wiki/打砖块 "wikilink")，是东方Project中唯一游戏类型与其他不同的作品。本作发布于[東京電機大学理工学部鳩山祭](https://zh.wikipedia.org/wiki/東京電機大学 "wikilink")，由[上海愛麗絲幻樂團](../Page/上海愛麗絲幻樂團.md "wikilink")的前身ZUN Soft开发，本作主角之一[博丽灵梦第一次登场](https://zh.wikipedia.org/wiki/博丽灵梦 "wikilink")。
 
 ## 游戏玩法
 

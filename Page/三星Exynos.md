@@ -427,7 +427,7 @@ FinFET LPP</p></td>
 <td><p>2.7-1.9[82]</p></td>
 <td><p>Mali-G76 MP12 @ 754 Mhz[83]</p></td>
 <td><p>2019年Q3</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/三星Galaxy_Note_10/10+" title="wikilink">三星Galaxy Note 10/10+</a>（韓國和國際版本,5G版本）</p></td>
+<td><p><a href="../Page/三星Galaxy_Note_10系列.md" title="wikilink">三星Galaxy Note 10/10+</a>（韓國、國際版本和5G版本）</p></td>
 </tr>
 </tbody>
 </table>

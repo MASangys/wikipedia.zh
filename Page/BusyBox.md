@@ -86,11 +86,11 @@ BusyBox所包含的程式只需要簡單的將名稱附加在第一個參數即�
 
   - 实际的命令列表按编译时的设置决定，在有Busybox的系统上执行`busybox --list`即可看到一个列表。
 
+## 參見
+
+  - \- complete implementation of the standard Linux command line utilities, with minimal external dependencies. by Rob Landley.
+
 ## 註釋
-
-## 參看
-
-  - [toybox](http://landley.net/code/toybox/) - complete implementation of the standard Linux command line utilities, with minimal external dependencies. by Rob Landley.
 
 ## 外部連結
 

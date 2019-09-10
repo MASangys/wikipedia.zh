@@ -574,13 +574,13 @@ ZE xxxx00</p></td>
 
 2019年1月23日，基于Cinova城际列车平台衍生的市域动车组在[温州市域铁路S1线](../Page/温州市域铁路S1线.md "wikilink")投入试运营。\[32\]
 
-2019年6月27日，為[海南東環鐵路提供的首四列CRH](https://zh.wikipedia.org/wiki/海南東環鐵路 "wikilink")6F市域動車組，以无火回送方式交付（本務為濟局濟段的[HXD3C](https://zh.wikipedia.org/wiki/和諧3C型電力機車 "wikilink")、鄭局鄭段的[SS8-0102](https://zh.wikipedia.org/wiki/韶山8型電力機車 "wikilink")、武局南段的[HXD1D](https://zh.wikipedia.org/wiki/和諧1D型電力機車 "wikilink")、廣鐵廣段的[DF11-0018及](../Page/東風11型柴油機車.md "wikilink")[DF4B-2315](../Page/東風4B型柴油機車.md "wikilink")），並於兩日後抵達海南島。
+2019年6月27日，為[海南東環鐵路提供的首四列CRH](https://zh.wikipedia.org/wiki/海南東環鐵路 "wikilink")6F-A型市域動車組（CRH6F-A-0461～CRH6F-A-0464），以无火回送方式交付（本務為濟局濟段的[HXD3C](https://zh.wikipedia.org/wiki/和諧3C型電力機車 "wikilink")、鄭局鄭段的[SS8-0102](https://zh.wikipedia.org/wiki/韶山8型電力機車 "wikilink")、武局南段的[HXD1D](https://zh.wikipedia.org/wiki/和諧1D型電力機車 "wikilink")、廣鐵廣段的[DF11-0018及](../Page/東風11型柴油機車.md "wikilink")[DF4B-2315](../Page/東風4B型柴油機車.md "wikilink")），並於兩日後抵達海南島。剩餘三列CRH6F-A型市域動車組（CRH6F-A-0465～CRH6F-A-0467）則於2019年8月20日以無火回送方式交付，於兩日後抵達海南島。
 
 <File:CRH6A-0439@LXI> (20180630070543).jpg|用于[北京市郊铁路城市副中心线](../Page/北京市郊铁路城市副中心线.md "wikilink")的CRH6A型动车组通过[良乡站](../Page/良乡站.md "wikilink") <File:201806> CRH6A-0420 operates as C3660 enters into Shanghainan Station.jpg|[金山铁路使用的CRH](https://zh.wikipedia.org/wiki/金山铁路 "wikilink")6A于[上海南站](https://zh.wikipedia.org/wiki/上海南站 "wikilink") <File:CRH6A-0427> at JZU, 20180221 105208.jpg|[郑焦城际铁路使用的CRH](https://zh.wikipedia.org/wiki/郑焦城际铁路 "wikilink")6A停靠在[焦作站](https://zh.wikipedia.org/wiki/焦作站 "wikilink") <File:CRH6A(GSR> Custom) at Guangzhou-Shenzhen Rail Line 2019 04.jpg|为[广深动车组列车](../Page/广深动车组列车.md "wikilink")定制的CRH6A列车运行在广州市区 <File:CRH6A-0403> EMU at Guangzhou Railway Station.jpg|[广佛肇城际铁路使用CRH](https://zh.wikipedia.org/wiki/广佛肇城际铁路 "wikilink")6A在[广州站](../Page/广州站.md "wikilink")9号站台准备发车 <File:CRH6F-0418> entering Ningbo Railway Station, 2017-06-11 03.jpg|thumb|right|[宁波至余姚城际铁路使用的CRH](https://zh.wikipedia.org/wiki/宁波至余姚城际铁路 "wikilink")6F停靠在[宁波站](../Page/宁波站.md "wikilink") <File:201907> CRH6A-A-0442 at Qianqing Station.jpg|[绍兴风情旅游新干线使用的CRH](https://zh.wikipedia.org/wiki/绍兴风情旅游新干线 "wikilink")6F-A型动车组 <File:CRH6A-A> at Dujiangyan Station.jpg|[成灌铁路](../Page/成灌铁路.md "wikilink")使用CRH6A-A停靠在[都江堰站](../Page/都江堰站.md "wikilink")
 
 ## 车辆配属概况
 
-截至2019年6月，总共已有97组CRH6系列动车组列车出厂，编号分别0002、0003、4002、4003、4502、0401～0443、0445～0464、0601～0623、4132～4137。
+截至2019年8月，总共已有97组CRH6系列动车组列车出厂，编号分别0002、0003、4002、4003、4502、0401～0443、0445～0467、0601～0623、4132～4137。
 
 <table>
 <thead>
@@ -786,8 +786,8 @@ ZE xxxx00</p></td>
 <td><p>0461～0467</p></td>
 <td><p>海口城際</p></td>
 <td><p>海口市域鐵路（<a href="https://zh.wikipedia.org/wiki/海南東環鐵路" title="wikilink">海南東環鐵路海口至美蘭段</a>）</p></td>
-<td><p>0461～0464分别被命名为「木棉花号、蜂虎鸟号、白鹈鹕号、水菜花号」<br />
-0465~0467將於2019年9月到齊，分别被命名为「水蕨菜号、三角梅号、椰子树号」[35]</p></td>
+<td><p>0461～0464分别被命名为「木棉花号、蜂虎鸟号、白鹈鹕号、水蕨菜号」<br />
+0465~0467將於2019年9月到齊，分别被命名为「椰子樹号、三角梅号、水菜花号」[35]</p></td>
 <td></td>
 </tr>
 <tr class="odd">

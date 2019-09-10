@@ -8,9 +8,9 @@
 
 ## 使用國
 
-  - ：被[马来西亚皇家海军](../Page/马来西亚皇家海军.md "wikilink")[特种作战部队](../Page/海军特种作战部队.md "wikilink")（[馬來語](https://zh.wikipedia.org/wiki/馬來語 "wikilink")：Pasukan Khas Laut，簡稱：PASKAL）所採用。
+  -   - [马来西亚皇家海军](../Page/马来西亚皇家海军.md "wikilink")[特种作战部队](../Page/海军特种作战部队.md "wikilink")
 
-  - ：被[墨西哥聯邦警察](https://zh.wikipedia.org/wiki/墨西哥聯邦警察 "wikilink")（）所採用。
+  -   - [墨西哥聯邦警察](https://zh.wikipedia.org/wiki/墨西哥聯邦警察 "wikilink")
 
 ## 流行文化
 
@@ -59,4 +59,4 @@
 
   - —[Civilian Gunner—DSR1](http://www.wargamehk.com/DSR1.htm)
 
-[Category:栓動式步槍](https://zh.wikipedia.org/wiki/Category:栓動式步槍 "wikilink") [Category:狙击步枪](https://zh.wikipedia.org/wiki/Category:狙击步枪 "wikilink") [Category:反器材步槍](https://zh.wikipedia.org/wiki/Category:反器材步槍 "wikilink") [Category:12.7×99毫米槍械](https://zh.wikipedia.org/wiki/Category:12.7×99毫米槍械 "wikilink") [Category:德國槍械](https://zh.wikipedia.org/wiki/Category:德國槍械 "wikilink") [Category:需要圖片的槍械條目](https://zh.wikipedia.org/wiki/Category:需要圖片的槍械條目 "wikilink") [Category:犢牛式槍械](https://zh.wikipedia.org/wiki/Category:犢牛式槍械 "wikilink")
+[Category:栓動式步槍](https://zh.wikipedia.org/wiki/Category:栓動式步槍 "wikilink") [Category:狙击步枪](https://zh.wikipedia.org/wiki/Category:狙击步枪 "wikilink") [Category:反器材步槍](https://zh.wikipedia.org/wiki/Category:反器材步槍 "wikilink") [Category:12.7×99毫米槍械](https://zh.wikipedia.org/wiki/Category:12.7×99毫米槍械 "wikilink") [Category:德國槍械](https://zh.wikipedia.org/wiki/Category:德國槍械 "wikilink") [Category:犢牛式槍械](https://zh.wikipedia.org/wiki/Category:犢牛式槍械 "wikilink")

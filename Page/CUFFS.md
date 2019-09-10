@@ -26,13 +26,13 @@
   - 2011年9月30日：[your diary](https://zh.wikipedia.org/wiki/your_diary "wikilink")
   - 2012年11月30日：[倉野家的雙子事情](../Page/倉野家的雙子事情.md "wikilink")（）
   - 2014年5月30日：[your diary+H](https://zh.wikipedia.org/wiki/your_diary "wikilink")
-  - 2014年11月28日：[戀愛少女的笨拙舞台](../Page/戀愛少女的笨拙舞台.md "wikilink")（）
+  - 2014年11月28日：[戀愛少女的笨拙舞台](../Page/戀愛少女的笨拙舞台.md "wikilink")（）\[3\]
   - 2016年2月26日：[間宮家的五子事情](../Page/間宮家的五胞胎事情.md "wikilink")（）
   - 2017年11月24日：
 
 ### MintCUBE
 
-  - 2015年2月27日：[甜蜜戀愛糖漿 ～以羞恥戀心為甘神大人準備的戀之祭典～](../Page/甜蜜戀愛糖漿_～以羞恥戀心為甘神大人準備的戀之祭典～.md "wikilink")（）
+  - 2015年2月27日：[甜蜜戀愛糖漿 ～以羞恥戀心為甘神大人準備的戀之祭典～](../Page/甜蜜戀愛糖漿_～以羞恥戀心為甘神大人準備的戀之祭典～.md "wikilink")（）\[4\]
   - 2017年1月27日：[人氣聲優的養成方法](../Page/人氣聲優的養成方法.md "wikilink")（）
   - 2018年4月27日：
 
@@ -54,3 +54,5 @@
 
 1.  [CUFFS開發日記](http://www.cuffs.co.jp/staff/)
 2.
+3.  [PUSH\!\!](https://zh.wikipedia.org/wiki/PUSH!! "wikilink") 2014年9月号 pp.44-51.
+4.

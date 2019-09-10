@@ -263,6 +263,14 @@
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p><a href="../Page/白箱.md" title="wikilink">劇場版「SHIROBAKO」</a></p></td>
+<td></td>
+<td><p>2020年春</p></td>
+<td><p>水島努</p></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

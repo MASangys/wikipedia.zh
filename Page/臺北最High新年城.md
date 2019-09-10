@@ -1,4 +1,4 @@
-**臺北最HIGH新年城**（），是[臺灣](../Page/臺灣.md "wikilink")[臺北市](../Page/臺北市.md "wikilink")[信義商圈的一系列](https://zh.wikipedia.org/wiki/信義商圈 "wikilink")[跨年活動的總稱](../Page/跨年日.md "wikilink")，以每年12月31日下午7時至[元旦](../Page/元旦.md "wikilink")上午1時於[市民廣場前的](https://zh.wikipedia.org/wiki/市民廣場_\(臺北市\) "wikilink")[跨年晚會為主軸](../Page/跨年日.md "wikilink")，再結合[台北101跨年煙火表演](../Page/台北101跨年煙火表演.md "wikilink")迎接新的一年，是[臺北市政府](../Page/臺北市政府.md "wikilink")自2003年跨2004年起所沿用至今的[跨年活動名稱](https://zh.wikipedia.org/wiki/跨年活動 "wikilink")。
+**臺北最HIGH新年城**（），是[臺灣](../Page/臺灣.md "wikilink")[臺北市](../Page/臺北市.md "wikilink")[信義商圈的一系列](https://zh.wikipedia.org/wiki/信義商圈 "wikilink")[跨年活動的總稱](../Page/跨年日.md "wikilink")，以每年12月31日下午7時至[元旦](../Page/元旦.md "wikilink")上午1時於[市民廣場前的](../Page/市民廣場_\(臺北市\).md "wikilink")[跨年晚會為主軸](../Page/跨年日.md "wikilink")，再結合[台北101跨年煙火表演](../Page/台北101跨年煙火表演.md "wikilink")迎接新的一年，是[臺北市政府](../Page/臺北市政府.md "wikilink")自2003年跨2004年起所沿用至今的[跨年活動名稱](https://zh.wikipedia.org/wiki/跨年活動 "wikilink")。
 
 ## 活動介紹
 
@@ -12,7 +12,7 @@
 
 因每年表演當日人數、車流量眾多，[臺北市政府](../Page/臺北市政府.md "wikilink")為避免當地[交通堵塞](../Page/交通堵塞.md "wikilink")，當日皆會邀集[臺北市政府交通局](https://zh.wikipedia.org/wiki/臺北市政府交通局 "wikilink")、[臺北市政府警察局等單位於](https://zh.wikipedia.org/wiki/臺北市政府警察局 "wikilink")[信義計畫區](../Page/信義計畫區.md "wikilink")與[台北101](../Page/台北101.md "wikilink")附近進行[交通管制](https://zh.wikipedia.org/wiki/交通管制 "wikilink")，禁止車輛進入及鄰近的[YouBike租賃站暫停營運](https://zh.wikipedia.org/wiki/臺北市公共自行車租賃系統 "wikilink")，另外臺北市政府也會向民眾宣導建議使用[大眾運輸工具到達管制區附近或離開](../Page/公共交通.md "wikilink")，如[臺北捷運](../Page/臺北捷運.md "wikilink")、[公車以及](../Page/公共汽車.md "wikilink")[台鐵等](https://zh.wikipedia.org/wiki/台鐵 "wikilink")，而早期最鄰近跨年晚會活動現場的捷運站為[板南線](../Page/板南線.md "wikilink")的[市政府站](https://zh.wikipedia.org/wiki/市政府站_\(臺北市\) "wikilink")，在2013年11月24日隨著捷運[信義線](../Page/信義線.md "wikilink")通車後，[台北101/世貿站也成為跨年晚會最鄰近的捷運站之一](https://zh.wikipedia.org/wiki/台北101/世貿站 "wikilink")，但由於表演結束後有數量眾多的遊客在同一時間進該兩站離開，所以[臺北市政府捷運工程局](https://zh.wikipedia.org/wiki/臺北市政府捷運工程局 "wikilink")、[臺北捷運公司都會宣導民眾盡量搭上述兩站前後一站的捷運站離開](https://zh.wikipedia.org/wiki/臺北捷運公司 "wikilink")，同時也會調整全線所有捷運列車營運時間從當日（12月31日）早上6點至隔日（1月1日）深夜12點長達42小時不收班，以及調度部分捷運班次列車不停靠市政府站和台北101/世貿站等措施。
 
-2015年末跨年增加[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[板橋區](https://zh.wikipedia.org/wiki/板橋區 "wikilink")[新板特區和](https://zh.wikipedia.org/wiki/新板特區 "wikilink")[新北市政府](../Page/新北市政府.md "wikilink")市民廣場大螢幕同步直播，以紓解信義商圈週邊人潮。[新北市政府](../Page/新北市政府.md "wikilink")為避免當地[交通堵塞](../Page/交通堵塞.md "wikilink")，當日皆會邀集[新北市政府交通局](../Page/新北市政府交通局.md "wikilink")、[新北市政府警察局等單位於](https://zh.wikipedia.org/wiki/新北市政府警察局 "wikilink")[新板特區與新北市政府附近進行](https://zh.wikipedia.org/wiki/新板特區 "wikilink")[交通管制](https://zh.wikipedia.org/wiki/交通管制 "wikilink")，禁止車輛進入及鄰近的[YouBike租賃站暫停營運](../Page/新北市公共自行車租賃系統.md "wikilink")，另外新北市政府也會向民眾宣導建議使用[大眾運輸工具到達新板特區或離開](../Page/公共交通.md "wikilink")。另外在[板橋公車站周邊](https://zh.wikipedia.org/wiki/板橋公車站 "wikilink")、[文化路](https://zh.wikipedia.org/wiki/文化路_\(新北市\) "wikilink")、[新府路交界的站前廣場公園](https://zh.wikipedia.org/wiki/新府路 "wikilink")，而夜間的燈海步道則會在公園的河岸小橋與市民廣場周邊設置。
+2015年末跨年增加[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[板橋區](https://zh.wikipedia.org/wiki/板橋區 "wikilink")[新板特區和新北市市民廣場大螢幕同步直播](https://zh.wikipedia.org/wiki/新板特區 "wikilink")，以紓解信義商圈週邊人潮。[新北市政府](../Page/新北市政府.md "wikilink")為避免當地[交通堵塞](../Page/交通堵塞.md "wikilink")，當日皆會邀集[新北市政府交通局](../Page/新北市政府交通局.md "wikilink")、[新北市政府警察局等單位於](https://zh.wikipedia.org/wiki/新北市政府警察局 "wikilink")[新板特區與](https://zh.wikipedia.org/wiki/新板特區 "wikilink")[新北市政府大樓](../Page/新北市政府大樓.md "wikilink")附近進行[交通管制](https://zh.wikipedia.org/wiki/交通管制 "wikilink")，禁止車輛進入及鄰近的[YouBike租賃站暫停營運](../Page/新北市公共自行車租賃系統.md "wikilink")，新北市政府也會向民眾宣導建議使用[大眾運輸工具到達新板特區或離開](../Page/公共交通.md "wikilink")。另外在[板橋公車站周邊](https://zh.wikipedia.org/wiki/板橋公車站 "wikilink")、[文化路](https://zh.wikipedia.org/wiki/文化路_\(新北市\) "wikilink")、[新府路交界的站前廣場公園](https://zh.wikipedia.org/wiki/新府路 "wikilink")，而夜間的燈海步道則會在公園的河岸小橋與市民廣場周邊設置。
 
 ### 通往臺北市政府市民廣場
 
@@ -209,7 +209,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/臺北市.md" title="wikilink">臺北市</a><br />
-<a href="../Page/臺北市政府.md" title="wikilink">臺北市政府</a>前<a href="https://zh.wikipedia.org/wiki/市民廣場_(臺北市)" title="wikilink">市民廣場</a></p></td>
+<a href="../Page/臺北市政府.md" title="wikilink">臺北市政府</a>前<a href="../Page/市民廣場_(臺北市).md" title="wikilink">市民廣場</a></p></td>
 <td><p>《2004臺北最HIGH新年城》</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/曹啟泰" title="wikilink">曹啟泰</a><br />
 <a href="../Page/崔麗心.md" title="wikilink">崔麗心</a><br />

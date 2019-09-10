@@ -18,7 +18,7 @@ Flask的作者是來自Pocoo的Armin Ronacher。本來只是作者的一個愚�
   - 100% WSGI 1.0相容
   - 基于 [Unicode](https://zh.wikipedia.org/wiki/Unicode "wikilink")
   - 詳細的文件、教學
-  - [Google App Engine相容](https://zh.wikipedia.org/wiki/Google_App_Engine "wikilink")
+  - [Google App Engine相容](../Page/Google_App_Engine.md "wikilink")
   - 可用Extensions增加其他功能
 
 ## 範例

@@ -497,6 +497,7 @@
 | 432 | 8月3日   | 古家峯、黃進林、鄺星宇　小鮮肉闖樂壇         | [古家峯](../Page/古家峯.md "wikilink")、[黃進林](https://zh.wikipedia.org/wiki/黃進林 "wikilink")、[鄺星宇](https://zh.wikipedia.org/wiki/鄺星宇_\(歌手\) "wikilink")          |
 | 433 | 8月10日  | 享樂團、黎曉陽　創作分享會              | [享樂團](../Page/享樂團.md "wikilink")、[黎曉陽](https://zh.wikipedia.org/wiki/黎曉陽 "wikilink")                                                                     |
 | 434 | 8月17日  | 何雁詩、戴祖儀、古家峯　樂壇幸運兒          | [何雁詩](https://zh.wikipedia.org/wiki/何雁詩 "wikilink")、[戴祖儀](../Page/戴祖儀.md "wikilink")、[古家峯](../Page/古家峯.md "wikilink")                                    |
+| 435 | 8月24日  | Dear Jane　音樂大計浪接浪          | [Dear Jane](../Page/Dear_Jane.md "wikilink")                                                                                                             |
 
 ## 記事
 

@@ -1,6 +1,6 @@
 **NoSQL**是對不同於傳統的[關聯式資料庫的](https://zh.wikipedia.org/wiki/關聯式資料庫 "wikilink")[数据库管理系统](../Page/数据库管理系统.md "wikilink")的統稱。
 
-兩者存在許多顯著的不同點，其中最重要的是NoSQL不使用SQL作為查詢語言。其數據存儲可以不需要固定的表格模式，也經常會避免使用SQL的[JOIN操作](https://zh.wikipedia.org/wiki/连接_\(SQL\) "wikilink")，一般有[水平可扩展性的特征](https://zh.wikipedia.org/wiki/水平可扩展性 "wikilink")。
+兩者存在許多顯著的不同點，其中最重要的是NoSQL不使用SQL作為查詢語言。其數據存儲可以不需要固定的表格模式，也經常會避免使用SQL的[JOIN操作](https://zh.wikipedia.org/wiki/连接_\(SQL\) "wikilink")，一般有的特征。
 
 ## 发展历史
 
@@ -10,13 +10,13 @@ NoSQL一词最早出现于1998年，是Carlo Strozzi开发的一个轻量、开�
 
 2009年在亚特兰大举行的"no:sql(east)"讨论会是一个里程碑，其口号是"select fun, profit from real_world where relational=false;"。因此，对NoSQL最普遍的解释是“非关聯型的”，强调[键-值存储](../Page/键-值存储.md "wikilink")和[面向文档数据库的优点](https://zh.wikipedia.org/wiki/面向文档数据库 "wikilink")，而不是单纯的反对RDBMS。
 
-基于2014年的收入，NoSQL市场领先企业是[MarkLogic](https://zh.wikipedia.org/wiki/MarkLogic "wikilink")，[MongoDB](../Page/MongoDB.md "wikilink")和[Datastax](https://zh.wikipedia.org/wiki/Datastax "wikilink")\[3\]。基于2015年的人气排名，最受欢迎的NoSQL数据库是[MongoDB](../Page/MongoDB.md "wikilink")，[Apache Cassandra和](https://zh.wikipedia.org/wiki/Apache_Cassandra "wikilink")[Redis](../Page/Redis.md "wikilink")\[4\]。
+基于2014年的收入，NoSQL市场领先企业是，[MongoDB](../Page/MongoDB.md "wikilink")和\[3\]。基于2015年的人气排名，最受欢迎的NoSQL数据库是[MongoDB](../Page/MongoDB.md "wikilink")，[Apache Cassandra和](https://zh.wikipedia.org/wiki/Apache_Cassandra "wikilink")[Redis](../Page/Redis.md "wikilink")\[4\]。
 
 ## 特点
 
-当代典型的[關聯式資料庫在一些数据敏感的应用中表现了糟糕的性能](https://zh.wikipedia.org/wiki/關聯式資料庫 "wikilink")，例如为巨量文档建立索引、高流量网站的[网页服务](https://zh.wikipedia.org/wiki/网页服务 "wikilink")，以及发送[流式媒体](https://zh.wikipedia.org/wiki/流式媒体 "wikilink")\[5\]。关系型数据库的典型实现主要被调整用于执行规模小而读写频繁，或者大批量极少写访问的事务。
+当代典型的[關聯式資料庫在一些数据敏感的应用中表现了糟糕的性能](https://zh.wikipedia.org/wiki/關聯式資料庫 "wikilink")，例如为巨量文档建立索引、高流量网站的[网页服务](../Page/Web服务.md "wikilink")，以及发送[流式媒体](https://zh.wikipedia.org/wiki/流式媒体 "wikilink")\[5\]。关系型数据库的典型实现主要被调整用于执行规模小而读写频繁，或者大批量极少写访问的事务。
 
-NoSQL的結構通常提供弱一致性的保證，如最終一致性，或交易僅限於單個的數據項。不過，有些系統，提供完整的[ACID](../Page/ACID.md "wikilink")保證在某些情況​​下，增加了補充中間件層（例如：[CloudTPS](https://zh.wikipedia.org/wiki/CloudTPS "wikilink")）\[6\]。有兩個成熟的系統有提供快照隔離的列存儲：像是Google基於過濾器系統的[BigTable](https://zh.wikipedia.org/wiki/BigTable "wikilink")\[7\]，和滑鐵盧大學开发的[HBase](https://zh.wikipedia.org/wiki/HBase "wikilink")\[8\]。這些系統，自主開發，使用類似的概念來實現多行（multi-row）分散式ACID交易的快照隔離（snapshot isolation）保證為基礎列儲存，無需額外的資料管理開銷，中間件系統部署或維護，減少了中間件層。
+NoSQL的結構通常提供弱一致性的保證，如最終一致性，或交易僅限於單個的數據項。不過，有些系統，提供完整的[ACID](../Page/ACID.md "wikilink")保證在某些情況​​下，增加了補充中間件層（例如：CloudTPS）\[6\]。有兩個成熟的系統有提供快照隔離的列存儲：像是Google基於過濾器系統的[BigTable](https://zh.wikipedia.org/wiki/BigTable "wikilink")\[7\]，和滑鐵盧大學开发的[HBase](https://zh.wikipedia.org/wiki/HBase "wikilink")\[8\]。這些系統，自主開發，使用類似的概念來實現多行（multi-row）分散式ACID交易的快照隔離（snapshot isolation）保證為基礎列儲存，無需額外的資料管理開銷，中間件系統部署或維護，減少了中間件層。
 
 少数NoSQL系统部署了分布式结构，通常使用[分散式雜湊表](../Page/分散式雜湊表.md "wikilink")（DHT）将数据以冗余方式保存在多台服务器上。依此，扩充系统时候添加服务器更容易，并且扩大了对服务器失效的承受能程度。\[9\]
 

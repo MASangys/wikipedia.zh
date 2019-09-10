@@ -1444,49 +1444,55 @@ That's my fault</p></td>
 <td><ul>
 <li>Cyworld Digital Music Award - Rookie Of The Month（2月份）〈即使恨也愛你〉</li>
 <li>Cyworld Digital Music Award - Song Of The Month（7月份）〈愛情與戰爭〉</li>
-<li>第10届韓國Mnet KM Music Festival - 最佳女子新人獎</li>
-<li>第23届韓國金唱片大賞 - 音源部門新人賞</li>
+<li>第10届 韓國Mnet KM Music Festival - 最佳女子新人獎</li>
+<li>第23届 韓國金唱片大賞 - 音源部門新人賞</li>
 </ul></td>
 </tr>
 <tr class="even">
 <td><p>2009</p></td>
 <td><ul>
-<li>第18届首爾歌謠大賞 - 新人賞</li>
-<li>第24届韓國金唱片大獎賞 - 音源本賞</li>
-<li>第1屆Melon Music Award - TOP10 歌手獎</li>
+<li>第18届 首爾歌謠大賞 - 新人賞</li>
+<li>第24届 韓國金唱片大獎賞 - 音源本賞</li>
+<li>第1屆 Melon Music Award - TOP10 歌手獎</li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td><p>2010</p></td>
 <td><ul>
-<li>第19屆首爾歌謠大賞 - 本賞</li>
+<li>第19屆 首爾歌謠大賞 - 本賞</li>
 </ul></td>
 </tr>
 <tr class="even">
 <td><p>2012</p></td>
 <td><ul>
-<li>第1屆Gaon Chart K-pop Awards - 9月年度歌手獎</li>
-<li>第14屆Mnet Asian Music Award - 最佳演唱獎（團體）</li>
+<li>第1屆 Gaon Chart K-pop Awards - 9月年度歌手獎</li>
+<li>第14屆 Mnet Asian Music Award - 最佳演唱獎（團體）</li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td><p>2013</p></td>
 <td><ul>
-<li>第8屆亞洲模特兒大獎 - 流行歌手獎</li>
+<li>第8屆 亞洲模特兒大獎 - 流行歌手獎</li>
 <li>第5屆Melon Music Award - TOP10 歌手獎</li>
 </ul></td>
 </tr>
 <tr class="even">
 <td><p>2014</p></td>
 <td><ul>
-<li>第28屆韓國金唱片大獎賞 - 音源本賞〈烏龜〉</li>
+<li>第28屆 韓國金唱片大獎賞 - 音源本賞〈烏龜〉</li>
 <li>第3屆Gaon Chart K-pop Awards - 3月歌手賞 音源部門〈烏龜〉</li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td><p>2016</p></td>
 <td><ul>
-<li>第18屆Mnet Asian Music Award - 最佳演唱獎（團體）</li>
+<li>第18屆 Mnet Asian Music Award - 最佳演唱獎（團體）</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p>2019</p></td>
+<td><ul>
+<li>第14屆 <a href="https://zh.wikipedia.org/wiki/首爾國際電視節" title="wikilink">首爾國際電視節</a> - 韓流連續劇主題曲獎 〈如夢般降臨〉（<a href="https://zh.wikipedia.org/wiki/Beauty_Inside_(電視劇)" title="wikilink">愛上變身情人</a> OST）</li>
 </ul></td>
 </tr>
 </tbody>

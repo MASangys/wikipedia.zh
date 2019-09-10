@@ -13,7 +13,7 @@
   - **芬蘭**
       - [赫爾辛基](https://zh.wikipedia.org/wiki/赫爾辛基 "wikilink")：[赫爾辛基－萬塔機場](https://zh.wikipedia.org/wiki/赫爾辛基－萬塔機場 "wikilink") **基地**
   - **希臘**
-      - [干尼亞](https://zh.wikipedia.org/wiki/干尼亞 "wikilink")：[干尼亞揚尼斯·達斯卡洛伊安尼斯國際機場](../Page/干尼亞揚尼斯·達斯卡洛伊安尼斯國際機場.md "wikilink") *季節性*
+      - [哈尼亚](../Page/哈尼亚.md "wikilink")：[哈尼亞揚尼斯·達斯卡洛伊安尼斯國際機場](../Page/哈尼亞揚尼斯·達斯卡洛伊安尼斯國際機場.md "wikilink") *季節性*
       - [羅得島](https://zh.wikipedia.org/wiki/羅得島 "wikilink")：[羅得島迪亞戈拉斯國際機場](https://zh.wikipedia.org/wiki/羅得島迪亞戈拉斯國際機場 "wikilink") *季節性*
   - **西班牙**
       - [阿利坎特](../Page/阿利坎特.md "wikilink")：[阿利坎特機場](https://zh.wikipedia.org/wiki/阿利坎特機場 "wikilink")

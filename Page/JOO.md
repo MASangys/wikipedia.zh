@@ -1,4 +1,4 @@
-**JOO**（；），本名為**鄭慜珠**（）改名為**鄭아린**(鄭雅璘)（），[韓國女歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")，第一張單曲為“少女”。她的親弟弟為[Cube娛樂](../Page/Cube娛樂.md "wikilink")旗下男團[BTOB](../Page/BTOB.md "wikilink")成員[鄭鎰勳](../Page/鄭鎰勳.md "wikilink")。2015年一月結束與經紀公司[JYP娛樂](../Page/JYP娛樂.md "wikilink")的七年合約，並不再續約，於同年加入[Woollim Entertainment](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")。
+**JOO**（；），本名為**鄭慜珠**（）改名為**鄭雅璘**（），[韓國女歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")，第一張單曲為“少女”。她的親弟弟為[Cube娛樂](../Page/Cube娛樂.md "wikilink")旗下男團[BTOB](../Page/BTOB.md "wikilink")成員[鄭鎰勳](../Page/鄭鎰勳.md "wikilink")。2015年一月結束與經紀公司[JYP娛樂](../Page/JYP娛樂.md "wikilink")的七年合約，並不再續約，於同年加入[Woollim Entertainment](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")。
 
 ## 簡歷
 

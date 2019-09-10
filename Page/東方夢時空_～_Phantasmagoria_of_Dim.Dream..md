@@ -1,4 +1,4 @@
-[Phantasmagoria_of_Dim.Dream.png](https://zh.wikipedia.org/wiki/File:Phantasmagoria_of_Dim.Dream.png "fig:Phantasmagoria_of_Dim.Dream.png") 是[东方Project的第三部作品](https://zh.wikipedia.org/wiki/东方Project "wikilink")，虽然也是[弹幕射击游戏](https://zh.wikipedia.org/wiki/弹幕射击游戏 "wikilink")，但其他不同的是，它是对战模式——也就是双人参加或电脑以第二玩家参与本游戏。这也是在该系列中唯一的不同。本作由[上海愛麗絲幻樂團的前身ZUN](https://zh.wikipedia.org/wiki/上海愛麗絲幻樂團 "wikilink") Soft开发，发布于[Comic Market](../Page/Comic_Market.md "wikilink")53。本作第一次允许挑选自机角色，[魔理沙和魅魔在本作中也可以被选用](../Page/霧雨魔理沙.md "wikilink")。
+[Phantasmagoria_of_Dim.Dream.png](https://zh.wikipedia.org/wiki/File:Phantasmagoria_of_Dim.Dream.png "fig:Phantasmagoria_of_Dim.Dream.png") 是[东方Project的第三部作品](https://zh.wikipedia.org/wiki/东方Project "wikilink")，虽然也是[弹幕射击游戏](https://zh.wikipedia.org/wiki/弹幕射击游戏 "wikilink")，但其他不同的是，它是对战模式——也就是双人参加或电脑以第二玩家参与本游戏。这也是在该系列中唯一的不同。本作由[上海愛麗絲幻樂團](../Page/上海愛麗絲幻樂團.md "wikilink")的前身ZUN Soft开发，发布于[Comic Market](../Page/Comic_Market.md "wikilink")53。本作第一次允许挑选自机角色，[魔理沙和魅魔在本作中也可以被选用](../Page/霧雨魔理沙.md "wikilink")。
 
 ## 游戏玩法
 

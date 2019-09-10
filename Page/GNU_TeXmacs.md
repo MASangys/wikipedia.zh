@@ -2,9 +2,9 @@
 
 ## 特点
 
-TeXmacs 可作為一系列[计算机代数系统的前端](https://zh.wikipedia.org/wiki/计算机代数系统 "wikilink")，例如 [Maxima](../Page/Maxima.md "wikilink") 和 [Sage](../Page/Sage.md "wikilink")。將計算或推導得出的數學公式直接顯示在筆記中，節省無謂的重複輸入和語法翻譯。
+TeXmacs 可作為一系列[计算机代数系统的前端](https://zh.wikipedia.org/wiki/计算机代数系统 "wikilink")，例如 [Maxima](../Page/Maxima.md "wikilink") 和 [Sage](../Page/Sage.md "wikilink")。將計算或推導得出的數學公式直接顯示在筆記中，無須重複輸入和語法翻譯。
 
-作為[所见即所得的](https://zh.wikipedia.org/wiki/所见即所得 "wikilink")[文本编辑器](../Page/文本编辑器.md "wikilink")（如[Microsoft Word](../Page/Microsoft_Word.md "wikilink")），TeXmacs 提供一套設計良好的 GUI 界面,不強迫用戶記憶排版引擎的 DSL 語法和關鍵字，顯著的降低無謂的學習成本，節省用戶大量的時間，不像許多自由軟體，學習成本非常高。
+作為[所见即所得的](https://zh.wikipedia.org/wiki/所见即所得 "wikilink")[文本编辑器](../Page/文本编辑器.md "wikilink")（如[Microsoft Word](../Page/Microsoft_Word.md "wikilink")），TeXmacs 提供一套設計良好的 GUI 界面,用戶不需要記憶排版引擎的 DSL 語法。
 
 TeXmacs 同时支持 [Scheme](../Page/Scheme.md "wikilink") 扩展语言 [Guile](../Page/GNU_Guile.md "wikilink")，用于定制程序和编写扩展，提供用戶深度自訂的自由。
 
@@ -17,12 +17,6 @@ TeXmacs 还包含[演示文稿模式](https://zh.wikipedia.org/wiki/演示文稿
 ### 快捷的符號輸入
 
 TeXmacs 可以利用制表符（Tab）得到各種相似的符號可以迅捷地输入各类符號。例如，通过输入 =\> 可以得到数学符号右箭头，利用製表符可以快速的得到向右下的箭頭，向左上的箭頭，向上的箭頭。因此，使用者可以以極低的學習成本完成各類符号的输入。也提供完善的 GUI 讓用戶無需記憶和查閱上百個特殊字符對應的指令。
-
-### 使用體驗
-
-極低的學習成本與良好的設計使得用戶無法通過折騰易於使用的軟體獲得高人一等的錯覺。
-
-文件過大時可能會出現顯著的延遲。
 
 ### 批处理
 

@@ -2,7 +2,7 @@
 
 ## 發展歷史
 
-StrongARM最早起源於[迪吉多](../Page/迪吉多.md "wikilink")公司與[安謀國際科技公司的合作案](https://zh.wikipedia.org/wiki/安謀國際科技 "wikilink")，目標是要創造一個速度更快的[ARM](https://zh.wikipedia.org/wiki/ARM "wikilink") 處理器。它針對於需要高階表現但是低耗能的嵌入式裝置而設計，在 233 MHz 的頻率下，這顆 CPU 只消耗一[瓦特](../Page/瓦特.md "wikilink")的電能（後來的晶片消耗得更少）。主要針對於[個人數位助理](https://zh.wikipedia.org/wiki/個人數位助理 "wikilink")（PDA）與[數位視訊轉換盒](https://zh.wikipedia.org/wiki/數位視訊轉換盒 "wikilink")（Set Top Box）等裝置的市場。
+StrongARM最早起源於[迪吉多](../Page/迪吉多.md "wikilink")公司與[安謀國際科技公司的合作案](https://zh.wikipedia.org/wiki/安謀國際科技 "wikilink")，目標是要創造一個速度更快的[ARM](https://zh.wikipedia.org/wiki/ARM "wikilink") 處理器。它針對於需要高階表現但是低耗能的嵌入式裝置而設計，在 233 MHz 的頻率下，這顆 CPU 只消耗一[瓦特](../Page/瓦特.md "wikilink")的電能（後來的晶片消耗得更少）。主要針對於[個人數位助理](https://zh.wikipedia.org/wiki/個人數位助理 "wikilink")（PDA）與[數位視訊轉換盒](../Page/數位視訊轉換盒.md "wikilink")（Set Top Box）等裝置的市場。
 
 迪吉多公司的半導體部門原本位於[麻薩諸塞州](../Page/麻薩諸塞州.md "wikilink")，但是為了更接近[矽谷的設計者](https://zh.wikipedia.org/wiki/矽谷 "wikilink")，迪吉多公司在加州[帕羅奧圖成立設計中心](https://zh.wikipedia.org/wiki/帕羅奧圖_\(加利福尼亞州\) "wikilink")，由[丹·多伯普爾](https://zh.wikipedia.org/wiki/丹·多伯普爾 "wikilink")（Dan Dobberpuhl）負責擔任StrongARM首席開發工程師。另一個研發中心設在德州[奧斯汀](../Page/奧斯汀.md "wikilink")，成員為來自[蘋果電腦與](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")[摩托羅拉的前迪吉多工程師](https://zh.wikipedia.org/wiki/摩托羅拉 "wikilink")。在1995年，這個計劃開始，很快就提出了第一個產品， SA-110。
 

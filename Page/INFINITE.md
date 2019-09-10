@@ -187,7 +187,7 @@ PlotData =
 ` color:red width:10 textcolor:black align:left anchor:from`
 ` bar:SungKyu from:06/09/2010 till:end`
 ` color:grey width:10 textcolor:black align:left anchor:from`
-` bar:SungKyu from:05/14/2018 till:02/13/2020`
+` bar:SungKyu from:05/14/2018 till:01/08/2020`
 ` color:green width:10 textcolor:black align:left anchor:from`
 ` bar:DongWoo from:06/09/2010 till:end`
 `color:grey width:10 textcolor:black align:left anchor:from`
@@ -201,7 +201,7 @@ PlotData =
 ` color:grey width:10 textcolor:black align:left anchor:from`
 ` bar:SungYeol from:03/26/2019 till:10/27/2020`
 ` color:black width:10 textcolor:black align:left anchor:from`
-` bar:L from:06/09/2010 till:08/18/2019`
+` bar:L from:06/09/2010 till:end`
 ` color:yellow width:10 textcolor:black align:left anchor:from`
 ` bar:SungJong from:06/09/2010 till:end`
 ` color:grey width:10 textcolor:black align:left anchor:from`
