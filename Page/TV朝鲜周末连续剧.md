@@ -248,7 +248,7 @@
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/朴施厚.md" title="wikilink">朴施厚</a>、<a href="../Page/張熙軫.md" title="wikilink">張熙軫</a>、<a href="../Page/金智勳.md" title="wikilink">金智勳</a>、<a href="../Page/張伸瑛.md" title="wikilink">張伸瑛</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/尹成植" title="wikilink">尹成植</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/權順元" title="wikilink">權順元</a>、<a href="../Page/朴相旭.md" title="wikilink">朴相旭</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/權順元" title="wikilink">權順元</a>、 <a href="../Page/朴相旭.md" title="wikilink">朴相旭</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
@@ -263,18 +263,18 @@
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p>2019年9月21日－2019年<br />
+<td style="text-align: center;"><p>2019年10月13日－2019年<br />
 </p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Leverage_(韓國電視劇)" title="wikilink">Leverage</a><br />
 </p></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"><p><a href="../Page/李東健.md" title="wikilink">李東健</a>、<a href="../Page/全慧彬.md" title="wikilink">全慧彬</a>、<a href="../Page/金賽綸.md" title="wikilink">金賽綸</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/李東健.md" title="wikilink">李東健</a>、<a href="../Page/全慧彬.md" title="wikilink">全慧彬</a>、<a href="../Page/金賽綸.md" title="wikilink">金賽綸</a>、<a href="../Page/金權.md" title="wikilink">金權</a>、 <a href="../Page/呂會鉉.md" title="wikilink">呂會鉉</a></p></td>
 <td style="text-align: center;"><p>南奇勳</p></td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><p>민지형</p></td>
 <td style="text-align: center;"><p>原作：《<a href="../Page/偷天任務.md" title="wikilink">偷天任務</a>》</p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p>2019年11月－2019年<br />
+<td style="text-align: center;"><p>2019年12月－2020年<br />
 </p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/抉擇_-_少女們的戰爭" title="wikilink">抉擇 - 少女們的戰爭</a><br />
 </p></td>

@@ -359,7 +359,7 @@ Mali显示芯片组改进自Falanx公司研发生产的显示技术芯片组，�
 <td><p>?</p></td>
 <td><p>23.8</p></td>
 <td><p><a href="../Page/Direct3D.md" title="wikilink">Direct3D</a> 11.2, (<a href="../Page/Direct3D.md" title="wikilink">11_1</a>)</p></td>
-<td><p>Helio P10 (MT6755)</p></td>
+<td><p>Helio P10</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -378,7 +378,7 @@ Mali显示芯片组改进自Falanx公司研发生产的显示技术芯片组，�
 <td><p>?</p></td>
 <td><p>23.8 / 28.9 / 30.6</p></td>
 <td><p><a href="../Page/Direct3D.md" title="wikilink">Direct3D</a> 11.2, (<a href="../Page/Direct3D.md" title="wikilink">11_1</a>)</p></td>
-<td><p>Exynos 8890、Helio X20 (MT6797)、Kirin 950、Helio P20</p></td>
+<td><p>Exynos 8890、Helio X20、Kirin 950、Helio P20</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -400,7 +400,7 @@ Mali显示芯片组改进自Falanx公司研发生产的显示技术芯片组，�
 <td><p>18.56-28.9</p></td>
 <td><p>Full Profile 2.0</p></td>
 <td><p><a href="../Page/Direct3D.md" title="wikilink">Direct3D</a> 12.0, (<a href="../Page/Direct3D.md" title="wikilink">11_1</a>)</p></td>
-<td><p>Kirin 960, Exynos7885, Exynos8895,Helio P23, Helio P30</p></td>
+<td><p>Kirin 960、Exynos7885、Exynos8895、Helio P23、Helio P30</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -489,7 +489,7 @@ Mali显示芯片组改进自Falanx公司研发生产的显示技术芯片组，�
   - [Mali developer](http://www.malideveloper.com/) a developer site run by ARM
   - [Lima driver](http://limadriver.org)
 
-[Category:ARM架构](https://zh.wikipedia.org/wiki/Category:ARM架构 "wikilink") [Category:图形处理器](https://zh.wikipedia.org/wiki/Category:图形处理器 "wikilink")
+[Category:ARM架构](https://zh.wikipedia.org/wiki/Category:ARM架构 "wikilink") [Category:圖形處理器](https://zh.wikipedia.org/wiki/Category:圖形處理器 "wikilink")
 
 1.  [Mali Graphics Webpage; Arm Holdings.](http://www.arm.com/products/multimedia/mali-graphics-hardware/index.php)
 

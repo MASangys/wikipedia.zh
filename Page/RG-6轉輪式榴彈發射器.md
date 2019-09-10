@@ -2,7 +2,7 @@
 
 ## 歷史
 
-1993年和1994年間，位於圖拉的[前苏联](../Page/苏联.md "wikilink")（TsKIB SOO）設計了RG-6；它是針對在車臣戰爭得出的經驗，為在身處於城市戰鬥當中的戰鬥小分隊提供一款壓制火力的，用以填補在[枪挂型榴弹发射器](https://zh.wikipedia.org/wiki/榴弹发射器#附加型榴弹发射器 "wikilink")（[GP-25](../Page/GP-25附加型榴彈發射器.md "wikilink")）和[自動榴弹发射器](https://zh.wikipedia.org/wiki/榴弹发射器#全自動型榴弹发射器 "wikilink")（[AGS-17](../Page/AGS-17烈火自動榴彈發射器.md "wikilink")）之間的火力空白。RG-6在1990年代中期少量生產，並已經裝備在一部分[俄羅斯陸軍和](https://zh.wikipedia.org/wiki/俄羅斯陸軍 "wikilink")[內務部的](https://zh.wikipedia.org/wiki/俄羅斯內務部 "wikilink")[特種部隊](../Page/特種部隊.md "wikilink")和特遣隊。據說它在第二次車臣戰爭中使用的效果令人滿意，尤其適合伏擊行動，因為可以迅速發射6發榴彈覆蓋目標區域，而重量和尺寸又比自動榴彈發射器要小，方便徒步攜帶。目前已經在俄羅斯軍隊的各個部隊之中廣泛使用。
+1993年和1994年間，位於圖拉的[前苏联](../Page/苏联.md "wikilink")（TsKIB SOO）設計了RG-6；它是針對在車臣戰爭得出的經驗，為在身處於城市戰鬥當中的戰鬥小分隊提供一款壓制火力的，用以填補在[枪挂型榴弹发射器](https://zh.wikipedia.org/wiki/榴弹发射器#附加型榴弹发射器 "wikilink")（[GP-25](../Page/GP-25附加型榴彈發射器.md "wikilink")）和[自動榴弹发射器](https://zh.wikipedia.org/wiki/榴弹发射器#全自動型榴弹发射器 "wikilink")（[AGS-17](../Page/AGS-17烈火自動榴彈發射器.md "wikilink")）之間的火力空白。RG-6在1990年代中期少量生產，並已經裝備在一部分[俄羅斯陸軍和](https://zh.wikipedia.org/wiki/俄羅斯陸軍 "wikilink")[內務部的](../Page/俄罗斯联邦内务部.md "wikilink")[特種部隊](../Page/特種部隊.md "wikilink")和特遣隊。據說它在第二次車臣戰爭中使用的效果令人滿意，尤其適合伏擊行動，因為可以迅速發射6發榴彈覆蓋目標區域，而重量和尺寸又比自動榴彈發射器要小，方便徒步攜帶。目前已經在俄羅斯軍隊的各個部隊之中廣泛使用。
 
 ## 設計細節
 
@@ -40,7 +40,7 @@ RG-6採用了具有伸縮式[橡膠](../Page/橡膠.md "wikilink")底板[槍托]
   -
   - ：被[特警隊所採用](https://zh.wikipedia.org/wiki/特警隊 "wikilink")\[2\]。
 
-  - ：被[俄羅斯軍隊和](https://zh.wikipedia.org/wiki/俄羅斯軍隊 "wikilink")[內務部的](https://zh.wikipedia.org/wiki/俄羅斯內務部 "wikilink")[特種部隊](../Page/特種部隊.md "wikilink")所採用。
+  - ：被[俄羅斯軍隊和](https://zh.wikipedia.org/wiki/俄羅斯軍隊 "wikilink")[內務部的](../Page/俄罗斯联邦内务部.md "wikilink")[特種部隊](../Page/特種部隊.md "wikilink")所採用。
 
 ## 流行文化
 
