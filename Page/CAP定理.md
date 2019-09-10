@@ -25,8 +25,7 @@
 
 ## 參見
 
-  - [分佈式計算的謬論](https://zh.wikipedia.org/wiki/分佈式計算的謬論 "wikilink")（）
-
+  -
 {{-}}
 
 [Category:分布式计算](https://zh.wikipedia.org/wiki/Category:分布式计算 "wikilink")

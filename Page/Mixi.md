@@ -87,8 +87,6 @@ mixi目前已经被中国大陆屏蔽，具体时间未知。（仅mixi.jp）
 
   - [mixi公司官網](http://mixi.co.jp/)
 
-  - 蜜秀\[mixiu\] 橙子家园
-
 [Category:社交網路服務](https://zh.wikipedia.org/wiki/Category:社交網路服務 "wikilink") [Category:社群網站](https://zh.wikipedia.org/wiki/Category:社群網站 "wikilink") [Category:虛擬社群](https://zh.wikipedia.org/wiki/Category:虛擬社群 "wikilink") [Category:日本網站](https://zh.wikipedia.org/wiki/Category:日本網站 "wikilink") [Category:1999年成立的公司](https://zh.wikipedia.org/wiki/Category:1999年成立的公司 "wikilink") [Category:2004年建立的网站](https://zh.wikipedia.org/wiki/Category:2004年建立的网站 "wikilink")
 
 1.  [日本人超愛Twitter，1秒狂發14萬推文！Facebook輸在哪裡？](http://techorange.com/2013/09/09/why-the-japanese-love-twitter-but-not-facebook/) . 科技報橘. 2013-09-09.

@@ -6,8 +6,6 @@
 
 Lightning接頭還將其上一代30-pin接頭所使用的固定用機械卡扣移動到基座接口中，故此接頭本身上面沒有任何活動部件，緊凑而不容易損壞。接頭左右兩側均有小型凹槽，以配合接口内的固定用卡扣。
 
-由於[歐盟規定消費性電子產品需統一使用](https://zh.wikipedia.org/wiki/歐盟 "wikilink")[Micro USB做為連接器](https://zh.wikipedia.org/wiki/Micro_USB "wikilink")，因此以往蘋果公司在歐盟地區及中国銷售的消費性電子產品附有30pin連接器轉接Micro USB的轉接器。在Lightning連接器發表之後，蘋果公司亦提供Lightning連接器轉接[Micro USB的轉接器](https://zh.wikipedia.org/wiki/Micro_USB "wikilink")。
-
 Lightning接頭內建認證晶片，會與充電的裝置認證，因此若使用未经[MFi认证](../Page/MFi认证.md "wikilink")的Lightning傳輸線，可能會發生無法充電及傳輸之情況，此狀況普遍在裝置上執行[iOS 7版本之蘋果裝置上](https://zh.wikipedia.org/wiki/iOS_7 "wikilink")，且使用未认证傳輸線可能造成[鋰電池損壞](https://zh.wikipedia.org/wiki/鋰電池 "wikilink")、[短路](../Page/短路.md "wikilink")等問題。
 
 在2017年11月初的[iOS 11更新中](https://zh.wikipedia.org/wiki/iOS_11 "wikilink")，蘋果將Lightning简体中文[本地化為](https://zh.wikipedia.org/wiki/本地化 "wikilink")「闪-{}-电」\[1\]\[2\]，而[繁體中文地區依然使用英文名](https://zh.wikipedia.org/wiki/繁體中文 "wikilink")\[3\]。

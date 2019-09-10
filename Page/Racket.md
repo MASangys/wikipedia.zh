@@ -26,6 +26,45 @@ Matthias Felleisen在1990年代中期建立了PLT，一開始為一個研究團�
 
 2001年，核心團隊(Felleisen, Findler, Flatt, Krishnamurthi)也編纂和發行了他們的第一本教科書《How to Design Programs》，融入了許多他們的教學理念。
 
+## Code examples
+
+Here is a trivial [hello world](https://zh.wikipedia.org/wiki/hello_world "wikilink") program:
+
+``` Racket
+#lang racket/base
+"Hello, World!"
+```
+
+Running this program produces the output:
+
+  -
+
+Here is a slightly less trivial program: [Sierpinski_Racket_example.png](https://zh.wikipedia.org/wiki/File:Sierpinski_Racket_example.png "fig:Sierpinski_Racket_example.png")
+
+``` Racket
+#lang racket
+(require 2htdp/image)
+
+(let sierpinski ([n 8])
+  (if (zero? n)
+    (triangle 2 'solid 'red)
+    (let ([t (sierpinski (- n 1))])
+      (freeze (above t (beside t t))))))
+```
+
+This program, taken from the Racket website, draws a [Sierpinski triangle](https://zh.wikipedia.org/wiki/Sierpinski_triangle "wikilink"), nested to depth 8.
+
+Using the `#lang` directive, a source file can be written in different dialects of Racket. Here is an example of the factorial program in Typed Racket, a [statically typed](https://zh.wikipedia.org/wiki/statically_typed "wikilink") dialect of Racket:
+
+``` Racket
+#lang typed/racket
+
+(: fact (Integer -> Integer))
+(define (fact n)
+  (cond [(zero? n) 1]
+        [else (* n (fact (- n 1)))]))
+```
+
 ## 註釋
 
 ## 外部連結

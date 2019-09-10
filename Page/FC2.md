@@ -65,7 +65,7 @@ FC2設有[网络聊天服务](https://zh.wikipedia.org/wiki/网络聊天 "wikili
 
 ## FC2在中国
 
-FC2自2010年4月3日起被中国大陆[防火长城](../Page/防火长城.md "wikilink")封锁，部分服务器无法打开。2013年2月起开始解除封锁，4月底再次被封锁，关键词为fc2.com。但[fc2cn.com](http://fc2cn.com)也无法访问。
+FC2自2010年4月3日起被中国大陆[防火长城](../Page/防火长城.md "wikilink")封锁，部分服务器无法打开。2013年2月起开始解除封锁，4月底再次被封锁，关键词为fc2.com。但[fc2cn.com](http://fc2cn.com)也无法访-{}-问。
 
 ## 脚注
 

@@ -189,9 +189,9 @@ Afghanit主動防禦系統</small></p></td>
 
   - – 1995–1996年交付118輛，2013年簽署新合同，目前約有200餘輛。\[8\]\[9\]\[10\]\[11\] \[12\]\[13\]
 
-  - – 1996–1997年交付33輛，\[14\]2005年交付37輛。\[15\]\[16\]\[17\]
+  - – 1996–1997年交付33輛，\[14\]2005年交付37輛。\[15\]\[16\]\[17\]\[18\]
 
-  - – 14輛。\[18\]\[19\]\[20\]\[21\]
+  - – 14輛。\[19\]\[20\]\[21\]\[22\]
 
   - –
 
@@ -199,29 +199,29 @@ Afghanit主動防禦系統</small></p></td>
 
   - – 4輛儲備。<ref>[Ground Forces Equipment – Ukraine](http://www.globalsecurity.org/military/world/ukraine/groundforces-equipment.htm) inherited from the USSR.
 
-globalsecurity.org</ref>\[22\]
+globalsecurity.org</ref>\[23\]
 
-  - – 652輛 （其中391輛於1992年至1997年交付\[23\]) 。\[24\]\[25\]
+  - – 652輛 （其中391輛於1992年至1997年交付\[24\]) 。\[25\]\[26\]
 
-  - – 4輛。\[26\]
+  - – 4輛。\[27\]
 
-  - – 130輛BMP-3M、10輛BREM。\[27\]\[28\]\[29\]\[30\]\[31\]\[32\]
+  - – 130輛BMP-3M、10輛BREM。\[28\]\[29\]\[30\]\[31\]\[32\]\[33\]
 
   - – 2002年購買100輛。
 
 ### 有意採購&過往出口案
 
-  - – 500輛。\[33\]
+  - – 500輛。\[34\]
 
-  - – 950輛。\[34\]
+  - – 950輛。\[35\]
 
-  - – \[35\]
+  - – \[36\]
 
 <!-- end list -->
 
-  - – 450輛，訂單取消。\[36\]
+  - – 450輛，訂單取消。\[37\]
 
-  - – 取消。\[37\]\[38\]
+  - – 取消。\[38\]\[39\]
 
 ## 相關條目
 
@@ -272,39 +272,41 @@ globalsecurity.org</ref>\[22\]
 16.
 17. <http://armstrade.sipri.org/armstrade>
 
-18. [Libya; Army incepts Russian tank destroyers](http://dmilt.com/index.php?option=com_content&view=article&id=8116:libya-army-incepts-russian-tank-destroyers&catid=3:asia&Itemid=56)  – Dmilt.com, 7 October 2013
+18. [美軍士兵在韓國試乘T-80U主戰車](https://www.chinatimes.com/realtimenews/20190825001748-260417?chdtv)
 
-19. [Russians delivers armoured fighting vehicles](http://www.libyaherald.com/2013/09/25/russians-delivers-armoured-fighting-vehicles/#axzz2fxSqSdIq)
+19. [Libya; Army incepts Russian tank destroyers](http://dmilt.com/index.php?option=com_content&view=article&id=8116:libya-army-incepts-russian-tank-destroyers&catid=3:asia&Itemid=56)  – Dmilt.com, 7 October 2013
 
-20. [Libya; Army incepts Russian tank destroyers](http://dmilt.com/index.php?option=com_content&view=article&id=8116:libya-army-incepts-russian-tank-destroyers&catid=3:asia&Itemid=56)  – Dmilt.com, 7 October 2013
+20. [Russians delivers armoured fighting vehicles](http://www.libyaherald.com/2013/09/25/russians-delivers-armoured-fighting-vehicles/#axzz2fxSqSdIq)
 
-21. [Russians delivers armoured fighting vehicles](http://www.libyaherald.com/2013/09/25/russians-delivers-armoured-fighting-vehicles/#axzz2fxSqSdIq)
+21. [Libya; Army incepts Russian tank destroyers](http://dmilt.com/index.php?option=com_content&view=article&id=8116:libya-army-incepts-russian-tank-destroyers&catid=3:asia&Itemid=56)  – Dmilt.com, 7 October 2013
 
-22. [Ground Forces Equipment – Ukraine](http://www.globalsecurity.org/military/world/ukraine/groundforces-equipment.htm)
+22. [Russians delivers armoured fighting vehicles](http://www.libyaherald.com/2013/09/25/russians-delivers-armoured-fighting-vehicles/#axzz2fxSqSdIq)
 
-23.
-24. <http://www.armstrade.org/includes/periodics/news/2015/0911/120531103/detail.shtml>
+23. [Ground Forces Equipment – Ukraine](http://www.globalsecurity.org/military/world/ukraine/groundforces-equipment.htm)
 
-25.
-26. Jane's Sentinel: Turkmenistan (2011)
+24.
+25. <http://www.armstrade.org/includes/periodics/news/2015/0911/120531103/detail.shtml>
 
-27.
-28. [Completed vehicle deliveries](http://www.ruaviation.com/news/2012/7/20/1111/) – Ruaviation.com, July 20, 2012
+26.
+27. Jane's Sentinel: Turkmenistan (2011)
 
-29.
+28.
+29. [Completed vehicle deliveries](http://www.ruaviation.com/news/2012/7/20/1111/) – Ruaviation.com, July 20, 2012
 
 30.
-31. [Completed vehicle deliveries](http://www.ruaviation.com/news/2012/7/20/1111/) – Ruaviation.com, July 20, 2012
 
-32.
+31.
+32. [Completed vehicle deliveries](http://www.ruaviation.com/news/2012/7/20/1111/) – Ruaviation.com, July 20, 2012
 
-33. [Iraq and Saudi Arabia plan to acquire BMP-3 armoured infantry fighting vehicles from Russia](http://www.armyrecognition.com/september_2015_global_defense_security_news_uk/iraq_and_saudi_arabia_plan_to_acquire_bmp-3_armoured_infantry_fighting_vehicles_from_russia_13009155.html) - Armyrecognition.com, 30 September 2015
+33.
 
-34.
-35. <http://asian-defence-news.blogspot.com/2014/06/philippines-interested-in-russian-bmp-3f.html>
+34. [Iraq and Saudi Arabia plan to acquire BMP-3 armoured infantry fighting vehicles from Russia](http://www.armyrecognition.com/september_2015_global_defense_security_news_uk/iraq_and_saudi_arabia_plan_to_acquire_bmp-3_armoured_infantry_fighting_vehicles_from_russia_13009155.html) - Armyrecognition.com, 30 September 2015
 
-36.
+35.
+36. <http://asian-defence-news.blogspot.com/2014/06/philippines-interested-in-russian-bmp-3f.html>
 
 37.
 
 38.
+
+39.

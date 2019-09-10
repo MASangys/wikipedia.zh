@@ -1856,111 +1856,106 @@
 <td><p>3D電影</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/疾速备战" title="wikilink">疾速备战</a></p></td>
-<td><p>2019年5月17日</p></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/阿拉丁_(2019年电影)" title="wikilink">阿拉丁</a></p></td>
 <td><p>2019年5月24日</p></td>
 <td><p>3D电影，原为2D电影，后期转制。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/哥吉拉_II_怪獸之王.md" title="wikilink">哥吉拉 II 怪獸之王</a></p></td>
 <td><p>2019年5月31日</p></td>
 <td><p>3D电影，原为2D电影，后期转制。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/追龙Ⅱ" title="wikilink">追龙Ⅱ</a></p></td>
 <td><p>2019年6月6日</p></td>
 <td><p>僅在中国大陆地区上映</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/X战警：黑凤凰" title="wikilink">X战警：黑凤凰</a></p></td>
 <td><p>2019年6月7日</p></td>
 <td><p>3D电影，原为2D电影，后期转制。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/MIB星際戰警：跨國行動" title="wikilink">MIB星際戰警：跨國行動</a></p></td>
 <td><p>2019年6月14日</p></td>
 <td><p>3D電影，整部影片的寬高比為1.90:1</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/玩具总动员4" title="wikilink">玩具总动员4</a></p></td>
 <td><p>2019年6月21日</p></td>
 <td><p>3D电影，原为2D电影，后期转制。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/蜘蛛人：離家日.md" title="wikilink">蜘蛛人：離家日</a></p></td>
 <td><p>2019年6月28日（中国大陆） 2019年7月2日（美国）</p></td>
 <td><p>3D电影，原为2D电影，后期转制。部分影片的宽高比为1.90:1</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/狮子王_(2019年电影)" title="wikilink">獅子王</a></p></td>
-<td><p>2019年7月12日（中国大陆） 2019年7月19日（美国）</p></td>
+<td><p>2019年7月19日</p></td>
 <td><p>3D电影。部分精彩片段使用数字Arri Alexa IMAX摄影机拍摄，並且整部影片的寬高比為1.90:1</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/天气之子.md" title="wikilink">天气之子</a></p></td>
 <td><p>2019年7月19日</p></td>
 <td><p>僅在日本上映</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/哪吒之魔童降世.md" title="wikilink">哪吒之魔童降世</a></p></td>
 <td><p>2019年7月26日</p></td>
 <td><p>3D电影。僅在中国大陆地区上映</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/银河补习班.md" title="wikilink">银河补习班</a></p></td>
 <td><p>2019年7月26日</p></td>
 <td><p>僅在中国大陆地区上映</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/烈火英雄.md" title="wikilink">烈火英雄</a></p></td>
 <td><p>2019年8月1日</p></td>
 <td><p>僅在中国大陆地区上映</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/玩命關頭：特別行動.md" title="wikilink">玩命關頭：特別行動</a></p></td>
 <td><p>2019年8月2日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/牠：第二章.md" title="wikilink">牠：第二章</a></p></td>
 <td><p>2019年9月6日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/小丑_(電影).md" title="wikilink">小丑</a></p></td>
 <td><p>2019年10月4日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/雙子殺手.md" title="wikilink">雙子殺手</a></p></td>
 <td><p>2019年10月11日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/黑魔女2.md" title="wikilink">黑魔女2</a></p></td>
 <td><p>2019年10月18日</p></td>
 <td><p>3D电影。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/魔鬼終結者：黑暗宿命" title="wikilink">魔鬼終結者：黑暗宿命</a></p></td>
 <td><p>2019年11月1日</p></td>
 <td><p>3D电影。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/冰雪奇缘2" title="wikilink">冰雪奇缘2</a></p></td>
 <td><p>2019年11月22日</p></td>
 <td><p>3D电影。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/STAR_WARS：天行者的崛起.md" title="wikilink">STAR WARS：天行者的崛起</a></p></td>
 <td><p>2019年12月20日</p></td>
 <td><p>3D电影，原为2D电影，后期转制。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

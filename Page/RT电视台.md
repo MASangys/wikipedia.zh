@@ -4,7 +4,7 @@
 
 2005年12月10日啟播，有将近100名英語記者在全球報導\[8\]\[9\]。
 
-2009年將「[今日俄羅斯](https://zh.wikipedia.org/wiki/今日俄羅斯 "wikilink")」（Russia Today）以縮寫「RT」為正式名稱，與2013年底立案的同英譯名稱國際新聞社不同\[10\]。不過後來中文推廣時，曾一度使用「Russia Today」。[新华社](../Page/新华社.md "wikilink")和[中国中央电视台](../Page/中国中央电视台.md "wikilink")等中国国营媒体译为「今日俄罗斯电视台」\[11\]\[12\]。
+2009年將「[今日俄羅斯](https://zh.wikipedia.org/wiki/今日俄羅斯 "wikilink")」（Russia Today）以縮寫「RT」為正式名稱，與2013年底立案的同英譯名稱國際新聞社不同\[10\]。不過後來中文推廣時，曾一度使用「Russia Today」。[新华社](../Page/新华社.md "wikilink")和[中国中央电视台](../Page/中国中央电视台.md "wikilink")等中国国营媒体译为「今日俄罗-{}-斯电视台」\[11\]\[12\]。
 
 2015年5月15日，開始運營一個中文YouTube帳戶，提供許多節目和視頻服務中文聽眾。RT後來在中國大陸視頻網站[優酷網和](https://zh.wikipedia.org/wiki/優酷網 "wikilink")[土豆網開設官方帳戶](https://zh.wikipedia.org/wiki/土豆網 "wikilink")。
 

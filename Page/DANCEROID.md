@@ -2,7 +2,7 @@
 
 ## 經歷
 
-2009年10月22日，愛川梢（愛川こずえ）、鼻血姬（いとくとら）和Minka Lee（ミンカ·リー），在[NICONICO生放送中宣布組成舞蹈組合DANCEROID](https://zh.wikipedia.org/wiki/NICONICO生放送 "wikilink")。\[1\]組合所屬事務所為heartfull-entertainment。三位成員均是在[NICONICO動畫中頗具人氣的](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")[網絡偶像](https://zh.wikipedia.org/wiki/網絡偶像 "wikilink")。2010年1月10日，[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")“DANCEROID”及官方物品開始發賣。2010年4月17日，在「DANCEROID FES\!\! vol.1」演出結束後，成員Minka Lee從DANCEROID畢業。2010年9月11日，在「DANCEROID新メンバーオーディション最終審查」之中，從六位候選人中選出的三位：柚姫、COCO、Maam，與愛川梢和鼻血姬一起，組成了5人體制的新DANCEROID，隊長是鼻血姬。2011年，Minka Lee和COCO首先正式離開DANCEROID。
+2009年10月22日，（愛川こずえ）、鼻血姬（いとくとら）和Minka Lee（ミンカ·リー），在[NICONICO生放送中宣布組成舞蹈組合DANCEROID](https://zh.wikipedia.org/wiki/NICONICO生放送 "wikilink")。\[1\]組合所屬事務所為heartfull-entertainment。三位成員均是在[NICONICO動畫中頗具人氣的](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")[網絡偶像](https://zh.wikipedia.org/wiki/網絡偶像 "wikilink")。2010年1月10日，[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")“DANCEROID”及官方物品開始發賣。2010年4月17日，在「DANCEROID FES\!\! vol.1」演出結束後，成員Minka Lee從DANCEROID畢業。2010年9月11日，在「DANCEROID新メンバーオーディション最終審查」之中，從六位候選人中選出的三位：柚姫、COCO、Maam，與愛川梢和鼻血姬一起，組成了5人體制的新DANCEROID，隊長是鼻血姬。2011年，Minka Lee和COCO首先正式離開DANCEROID。
 
 到了2012年4月至6月之間，愛川梢在[超級戰隊的](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")[戲仿作品](https://zh.wikipedia.org/wiki/戲仿 "wikilink")《[非公認戰隊秋葉原連者](../Page/非公認戰隊秋葉原連者.md "wikilink")》之中，她的角色為「三田KozuKozu」。鼻血姬也在該作品的某一集演出。
 

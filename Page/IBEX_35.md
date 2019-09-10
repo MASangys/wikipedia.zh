@@ -32,7 +32,7 @@ IBEX 35是一個[市值加權指數](https://zh.wikipedia.org/wiki/市值加權�
 
 ## 成份
 
-[Openbank_BCN.jpg](https://zh.wikipedia.org/wiki/File:Openbank_BCN.jpg "fig:Openbank_BCN.jpg")的分行\]\] [Ifc_Zara_20071110.jpg](https://zh.wikipedia.org/wiki/File:Ifc_Zara_20071110.jpg "fig:Ifc_Zara_20071110.jpg")的印地紡的分支Zara\]\] [Pastoriza,_Arteixo_Galiza_08b.jpg](https://zh.wikipedia.org/wiki/File:Pastoriza,_Arteixo_Galiza_08b.jpg "fig:Pastoriza,_Arteixo_Galiza_08b.jpg")的精煉廠\]\] 2018年12月24日IBEX 35成分股如下：\[20\]
+[Openbank_BCN.jpg](https://zh.wikipedia.org/wiki/File:Openbank_BCN.jpg "fig:Openbank_BCN.jpg")的分行\]\] [Ifc_Zara_20071110.jpg](https://zh.wikipedia.org/wiki/File:Ifc_Zara_20071110.jpg "fig:Ifc_Zara_20071110.jpg")的印地紡的分支Zara\]\] [Pastoriza,_Arteixo_Galiza_08b.jpg](https://zh.wikipedia.org/wiki/File:Pastoriza,_Arteixo_Galiza_08b.jpg "fig:Pastoriza,_Arteixo_Galiza_08b.jpg")的精煉廠\]\] 2019年6月13日IBEX 35成分股如下：\[20\]
 
 <table>
 <thead>
@@ -303,12 +303,12 @@ IBEX 35是一個[市值加權指數](https://zh.wikipedia.org/wiki/市值加權�
 <td><p>0.95</p></td>
 </tr>
 <tr class="odd">
-<td><p>TRE</p></td>
-<td><p>{{tsl|es|Técnicas Reunidas</p></td>
-<td><p>Técnicas Reunidas}}</p></td>
-<td><p><a href="../Page/马德里.md" title="wikilink">马德里</a></p></td>
-<td><p>能源</p></td>
-<td><p><a href="http://www.bolsamadrid.es/esp/aspx/Empresas/FichaValor.aspx?ISIN=ES0178165017">ES0178165017</a></p></td>
+<td><p>MAS</p></td>
+<td><p>{{tsl|es|MasMovil Ibercom</p></td>
+<td><p>MasMovil Ibercom}}</p></td>
+<td><p><a href="../Page/阿尔科文达斯.md" title="wikilink">阿尔科文达斯</a></p></td>
+<td><p>电信</p></td>
+<td><p><a href="http://www.bolsamadrid.es/esp/aspx/Empresas/FichaValor.aspx?ISIN=ES0184696104">ES0184696104</a></p></td>
 </tr>
 <tr class="even">
 <td><p>TEF</p></td>
@@ -334,11 +334,10 @@ IBEX 35是一個[市值加權指數](https://zh.wikipedia.org/wiki/市值加權�
 ## 外部連結
 
   - [Aprende a invertir en Bolsa](http://www.bolsawallstreet.com)
-  - [Official IBEX 35 information site](http://www.ibex35.com/)
-  - [IBEX 35 composition and prices from the Bolsa de Madrid](https://web.archive.org/web/20080112202202/http://www.bolsamadrid.es/ing/mercados/acciones/accind1_1.htm)
+  - [IBEX 35官方网站](http://www.ibex35.com/)
   - [IBEX 35 profile via Wikinvest](https://zh.wikipedia.org/wiki/Wikinvest:_IBEX_35 "wikilink")
 
-[Category:IBEX-35](https://zh.wikipedia.org/wiki/Category:IBEX-35 "wikilink") [Category:1992年西班牙建立](https://zh.wikipedia.org/wiki/Category:1992年西班牙建立 "wikilink")
+[Category:IBEX-35](https://zh.wikipedia.org/wiki/Category:IBEX-35 "wikilink") [Category:1992年西班牙建立](https://zh.wikipedia.org/wiki/Category:1992年西班牙建立 "wikilink") [Category:1992年面世](https://zh.wikipedia.org/wiki/Category:1992年面世 "wikilink")
 
 1.  [IBEX 35 facts via Wikinvest](https://zh.wikipedia.org/wiki/Wikinvest:IBEX_35 "wikilink")
 

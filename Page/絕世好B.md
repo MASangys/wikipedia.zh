@@ -125,7 +125,7 @@ Johnny、Wayne、Boey上司</p></td>
 |         |                                                     |                                                     |                                                     |
 | ------- | --------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------- |
 | **歌名**  | **作曲**                                              | **作詞**                                              | **演唱者**                                             |
-| 《即使沒法講》 | [陳光榮](../Page/陳光榮.md "wikilink")                    |                                                     | [張柏芝](../Page/張柏芝.md "wikilink")                    |
+| 《即使沒法講》 | [陳光榮](../Page/陳光榮.md "wikilink")                    | [嵐星](https://zh.wikipedia.org/wiki/嵐星 "wikilink")   | [張柏芝](../Page/張柏芝.md "wikilink")                    |
 | 《哈哈笑》   | [梁詠琪](https://zh.wikipedia.org/wiki/梁詠琪 "wikilink") | [陳少琪](https://zh.wikipedia.org/wiki/陳少琪 "wikilink") | [梁詠琪](https://zh.wikipedia.org/wiki/梁詠琪 "wikilink") |
 
 ## 相關條目

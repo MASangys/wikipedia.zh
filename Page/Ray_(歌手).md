@@ -9,19 +9,18 @@
   - 2012年8月初次亮相於動漫祭典「[Animelo Summer Live 2012－INFINITY∞―](../Page/Animelo_Summer_Live.md "wikilink")」演出，於2013年再次演出。另外，在週二文化放送 超\!A\&G＋目前播出的「ARTIST ZONE 2h」一種驅性已經贏得人氣。
   - 2013年6月5日推出第一張專輯《[RAYVE](../Page/RAYVE.md "wikilink")》。
   - 2017年1月25日，Ray表示自己將在同年夏季舉辦最終Live後，結束歌手活動\[1\]。
-  - 2017年12月2日，Ray被發現在女僕咖啡館「Dream Land」里工作。\[2\]。
 
 ## 簡歷
 
-  - 生日：10月14日\[3\]
+  - 生日：10月14日\[2\]
   - 星座：[天枰座](https://zh.wikipedia.org/wiki/天枰座 "wikilink")
   - 家人：父、母、哥哥
-  - 口癖：肚子餓了\[4\]
-  - 喜歡的食物：馬卡龍、米餅、肉\[5\]
-  - 討厭的食物：茄子、辣的食物\[6\]
-  - 喜歡的動物：貓\[7\]
+  - 口癖：肚子餓了\[3\]
+  - 喜歡的食物：馬卡龍、米餅、肉\[4\]
+  - 討厭的食物：茄子、辣的食物\[5\]
+  - 喜歡的動物：貓\[6\]
   - 喜歡的顏色：藍色、紅色、閃色
-  - 座右銘：櫻梅桃李！\[8\]
+  - 座右銘：櫻梅桃李！\[7\]
 
 ## 音樂作品
 
@@ -53,9 +52,9 @@
 
 ### 其他音樂活動
 
-  - 2012年：Animelo Summer Live 2012\[9\]
-  - 2013年：Animelo Summer Live 2013\[10\]
-  - 2015年：Animelo Summer Live 2015\[11\]
+  - 2012年：Animelo Summer Live 2012\[8\]
+  - 2013年：Animelo Summer Live 2013\[9\]
+  - 2015年：Animelo Summer Live 2015\[10\]
 
 ## 注解
 
@@ -72,13 +71,12 @@
 [Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:北海道出身人物](https://zh.wikipedia.org/wiki/Category:北海道出身人物 "wikilink")
 
 1.
-2.
+2.  [](http://profile.ameba.jp/going-my-ray/)
 3.  [](http://profile.ameba.jp/going-my-ray/)
 4.  [](http://profile.ameba.jp/going-my-ray/)
 5.  [](http://profile.ameba.jp/going-my-ray/)
 6.  [](http://profile.ameba.jp/going-my-ray/)
 7.  [](http://profile.ameba.jp/going-my-ray/)
-8.  [](http://profile.ameba.jp/going-my-ray/)
-9.  [出演アーティスト追加発表！8月26日(日)：小松未可子、Ray 出演決定！](http://anisama.tv/2012/news/detail.php?id=14)
-10. [出演アーティスト追加発表！8/23(金)：Ray 出演決定！](http://anisama.tv/news/detail.php?id=9)
-11. [「Animelo Summer Live 2015 -THE GATE-」第1弾出演アーティストを発表！](http://anisama.tv/2015/news/detail.php?id=0)
+8.  [出演アーティスト追加発表！8月26日(日)：小松未可子、Ray 出演決定！](http://anisama.tv/2012/news/detail.php?id=14)
+9.  [出演アーティスト追加発表！8/23(金)：Ray 出演決定！](http://anisama.tv/news/detail.php?id=9)
+10. [「Animelo Summer Live 2015 -THE GATE-」第1弾出演アーティストを発表！](http://anisama.tv/2015/news/detail.php?id=0)

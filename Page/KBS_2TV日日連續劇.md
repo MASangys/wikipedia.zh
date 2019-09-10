@@ -794,6 +794,17 @@
 <td style="text-align: center;"><p>李恩珠</p></td>
 <td style="text-align: center;"></td>
 </tr>
+<tr class="odd">
+<td style="text-align: center;"><p>2019年11月日－2020年月<br />
+</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/優雅的母女" title="wikilink">優雅的母女</a><br />
+</p></td>
+<td style="text-align: center;"><p>100</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
 </tbody>
 </table>
 

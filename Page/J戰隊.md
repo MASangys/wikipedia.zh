@@ -94,13 +94,14 @@
   - 9月21日:LMS區域資格賽JT VS M17，以3:2取得勝利
   - 9月22日:LMS區域資格賽JT VS GRX，以0:3敗給GRX
   - 11月30日:戰隊總監兼總教練**FireFox**黃鼎翔(火狐)、教練**Prydz**陳廣峯(小峯)及教練**Dog8**蔡學裕(狗八)宣布正式離隊\[22\]
-  - 12月28日:前[J Team打野](https://zh.wikipedia.org/wiki/J_Team "wikilink")、前閃電狼教練陳冠廷**REFRA1N**宣布加入，擔任總教練，前[G-Rex](../Page/G-Rex.md "wikilink")輔助Koala宣布加入，擔任輔助位置\[23\]
+  - 12月28日:前[閃電狼](../Page/閃電狼.md "wikilink")教練陳冠廷**REFRA1N**宣布加入，擔任總教練，前[G-Rex](../Page/G-Rex.md "wikilink")輔助Koala宣布加入，擔任輔助位置\[23\]
 
 #### 2019
 
-  - 2月26日:輔助選手'''Ysera '''(汪宗志)宣布轉入[ahq e-sports club](https://zh.wikipedia.org/wiki/ahq_e-sports_club "wikilink")\[24\]
-  - 3月12日:[中國信託宣布贊助](https://zh.wikipedia.org/wiki/中國信託 "wikilink")[J Team](https://zh.wikipedia.org/wiki/J_Team "wikilink")，隊名變更為CTBC J Team(中信J Team)\[25\]
-  - 3月18日:原總教練陳冠廷**REFRA1N**改登錄為2019 LMS春季賽選手，總教練由**Coldicee**凱淵(游閔翔）接任\[26\]
+  - 2月26日:輔助選手'''Ysera '''(汪宗志)宣布轉入[ahq e-Sports Club](https://zh.wikipedia.org/wiki/ahq_e-Sports_Club "wikilink")\[24\]
+  - 3月12日:[中國信託宣布贊助](https://zh.wikipedia.org/wiki/中國信託 "wikilink")[J Team](https://zh.wikipedia.org/wiki/J_Team "wikilink")，隊名變更為**CTBC J Team**(中信J Team)\[25\]
+  - 3月18日:原總教練陳冠廷**REFRA1N**改登錄為2019 [LMS職業聯賽](../Page/LMS職業聯賽.md "wikilink")春季賽選手，總教練由**Coldicee**凱淵(游閔翔）接任\[26\]
+  - 8月31日:CTBC J Team在2019 [LMS職業聯賽](../Page/LMS職業聯賽.md "wikilink")夏季冠軍戰以3:1擊敗[ahq e-Sports Club](https://zh.wikipedia.org/wiki/ahq_e-Sports_Club "wikilink")，拿下隊史首次的LMS冠軍，並以賽區第一種子之姿參加2019年世界大賽
 
 ### 隊伍名單
 
@@ -129,7 +130,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>REFRA1N</p></td>
+<td><p>Refra1n</p></td>
 <td><p>陳冠廷</p></td>
 <td><p>Jungle</p></td>
 <td></td>
@@ -137,14 +138,6 @@
 <td><p>[27]</p></td>
 </tr>
 <tr class="odd">
-<td><p>Breaker</p></td>
-<td><p>施岳廷</p></td>
-<td><p>Jungle</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>Hana</p></td>
 <td><p>陳志豪</p></td>
 <td><p>Jungle</p></td>
@@ -152,7 +145,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>FoFo</p></td>
 <td><p>朱駿嵐</p></td>
 <td><p>Mid</p></td>
@@ -160,7 +153,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Lilv</p></td>
 <td><p>陳縉翰</p></td>
 <td><p>AD</p></td>
@@ -168,7 +161,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Koala</p></td>
 <td><p>林志強</p></td>
 <td><p>Sup</p></td>
@@ -176,7 +169,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -206,32 +199,38 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Bengo</p></td>
-<td><p>黃新宇</p></td>
+<td><p>as666</p></td>
+<td><p>簡佑丞</p></td>
 <td><p>Jungle</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Rendi</p></td>
-<td><p>呂致遠</p></td>
+<td><p>JimieN</p></td>
+<td><p>曾浩鈞</p></td>
 <td><p>Mid</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>NekoL</p></td>
-<td><p>楊子立</p></td>
+<td><p>K2</p></td>
+<td><p>羅智傑</p></td>
 <td><p>AD</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Orange</p></td>
-<td><p>宋國榕</p></td>
+<td><p>Woody</p></td>
+<td><p>林弘裕</p></td>
 <td><p>Support</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Draw</p></td>
-<td><p>廖佳興</p></td>
+<td><p>Hfhy</p></td>
+<td><p>黃新宇</p></td>
+<td><p>Substitute</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Pocky</p></td>
+<td><p>郭家銘</p></td>
 <td><p>Substitute</p></td>
 <td></td>
 </tr>
@@ -269,10 +268,10 @@
 <td><p>總監</p></td>
 </tr>
 <tr class="even">
-<td><p>阿樂</p></td>
-<td><p>潘建華</p></td>
+<td><p>Webber</p></td>
+<td><p>陳韋銘</p></td>
 <td></td>
-<td><p>領隊[28]</p></td>
+<td><p>領隊</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -337,7 +336,7 @@
 <td><p>Top</p></td>
 <td></td>
 <td></td>
-<td><p>現為<a href="../Page/閃電狼.md" title="wikilink">閃電狼</a>選手</p></td>
+<td><p>現為<a href="../Page/閃電狼.md" title="wikilink">閃電狼</a>教練</p></td>
 </tr>
 <tr class="even">
 <td><p>Dinter</p></td>
@@ -499,15 +498,20 @@
 <td></td>
 <td><p>現為現為<a href="https://zh.wikipedia.org/wiki/Ahq_e-Sports_Club" title="wikilink">Ahq e-Sports Club成員</a></p></td>
 </tr>
+<tr class="even">
+<td><p>Breaker</p></td>
+<td><p>施岳廷</p></td>
+<td><p>Jungle</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
 ## 傳說對決 (已解散)
 
-### 集體轉隊
-
-JTeam奪冠原班人馬在2019集體跳槽至MADTeam，JTeam官方於1/9日於JTeam 傳說對決粉絲團發表聲明稿，因對於GCS聯賽規則不滿，宣布無限期退出聯盟。
-但此聲明卻對全體隊員跳槽的狀況產生矛盾，網傳原因為給予待遇太差且長期沒有戰隊教練導致，但JTeam官方並沒有再做做任何表態。
+JTeam官方於1/9日於JTeam 傳說對決粉絲團發表聲明稿，因對於GCS聯賽規則不滿，宣布無限期退出聯盟。
 
 得獎紀錄
 
@@ -539,10 +543,10 @@ JTeam奪冠原班人馬在2019集體跳槽至MADTeam，JTeam官方於1/9日於JT
 </tr>
 <tr class="even">
 <td><p>JT Aydan</p></td>
-<td><p>教練</p></td>
+<td></td>
 <td><p>1993年11月26日</p></td>
 <td></td>
-<td><p>現為<a href="../Page/One_Team.md" title="wikilink">ONE教練</a></p></td>
+<td><p>前為<a href="../Page/One_Team.md" title="wikilink">ONE教練</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>JT Yuzon</p></td>
@@ -581,7 +585,7 @@ JTeam奪冠原班人馬在2019集體跳槽至MADTeam，JTeam官方於1/9日於JT
 </tr>
 <tr class="even">
 <td><p>JT Nx</p></td>
-<td><p>候補 代理教練</p></td>
+<td><p>候補選手 教練</p></td>
 <td><p>1997年1月24日</p></td>
 <td></td>
 <td></td>
@@ -604,7 +608,7 @@ JTeam奪冠原班人馬在2019集體跳槽至MADTeam，JTeam官方於1/9日於JT
 
   - 5月13日：TPA宣布成立[A.V.A分隊](../Page/戰地之王.md "wikilink")，前身為第一屆AEL聯賽季軍**素肚正夯**，並加入了偵查兵**Shi77**。
   - 7月19日：TPA對AHQ 0:3落敗，獲得第二屆AEL聯賽亞軍。
-  - 8月30日: TPA對AHQ 2:3落敗，獲得2015 AIC世界盃殿軍\[29\]。
+  - 8月30日: TPA對AHQ 2:3落敗，獲得2015 AIC世界盃殿軍\[28\]。
 
 ### 隊伍名單
 
@@ -723,5 +727,4 @@ JTeam奪冠原班人馬在2019集體跳槽至MADTeam，JTeam官方於1/9日於JT
 25. [中國信託冠名贊助J Team《英雄聯盟》戰隊](https://www.4gamers.com.tw/news/detail/38233/ctbcbank-x-jteam)
 26. [叫你們教練出來打！JT登錄Refra1n努努本人重回賽場](https://tw.news.yahoo.com/%E8%8B%B1%E9%9B%84%E8%81%AF%E7%9B%9F-%E5%8F%AB%E4%BD%A0%E5%80%91%E6%95%99%E7%B7%B4%E5%87%BA%E4%BE%86%E6%89%93-jt%E7%99%BB%E9%8C%84refra1n%E5%8A%AA%E5%8A%AA%E6%9C%AC%E4%BA%BA%E9%87%8D%E5%9B%9E%E8%B3%BD%E5%A0%B4-101100008.html)
 27. [【英雄聯盟】叫你們教練出來打！JT登錄Refra1n努努本人重回賽場](https://tw.news.yahoo.com/%E8%8B%B1%E9%9B%84%E8%81%AF%E7%9B%9F-%E5%8F%AB%E4%BD%A0%E5%80%91%E6%95%99%E7%B7%B4%E5%87%BA%E4%BE%86%E6%89%93-jt%E7%99%BB%E9%8C%84refra1n%E5%8A%AA%E5%8A%AA%E6%9C%AC%E4%BA%BA%E9%87%8D%E5%9B%9E%E8%B3%BD%E5%A0%B4-101100008.html)
-28. [【專訪】重整旗鼓再出發，AZB TPA/TPS 領隊公布未來戰隊方針](http://lol.esport.garena.tw/news/news_info.php?nid=1638&category=0)
-29. [2015 AIC 世界賽季軍戰戰況報導](http://ava.garena.tw/news/show/1018)
+28. [2015 AIC 世界賽季軍戰戰況報導](http://ava.garena.tw/news/show/1018)

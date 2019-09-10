@@ -20,7 +20,7 @@
 
 ### PRODUCE 101 第二季
 
-團體發展不上不下的[NU'EST](../Page/NU'EST.md "wikilink")在2017年2月宣布暫停團體活動，JR以本名金鍾炫與姜東昊、黃旼炫、[崔珉起](../Page/崔珉起.md "wikilink")以Pledis練習生的身份參加[Mnet選秀節目](../Page/Mnet媒體.md "wikilink")《[PRODUCE 101 第二季](https://zh.wikipedia.org/wiki/PRODUCE_101_\(第二季\) "wikilink")》。\[23\]在第四集的分組對抗比賽中，金鐘炫充滿耐性地教導實力不足的組員，帶領全組努力前進。當導師責問態度散漫的組員為何跟不上進度，金鍾炫歸咎於自己身上，溫柔堅定的相信著隊友，被網民封為「國民隊長」、「聖光」和「佛光」。\[24\]
+團體發展不上不下的NU'EST在2017年2月宣布暫停團體活動，JR以本名金鍾炫與姜東昊、[黃旼炫](../Page/黃旼炫.md "wikilink")、[崔珉起](../Page/崔珉起.md "wikilink")以Pledis練習生的身份參加[Mnet選秀節目](../Page/Mnet媒體.md "wikilink")《[PRODUCE 101 第二季](https://zh.wikipedia.org/wiki/PRODUCE_101_\(第二季\) "wikilink")》。\[23\]在第四集的分組對抗比賽中，金鐘炫充滿耐性地教導實力不足的組員，帶領全組努力前進。當導師責問態度散漫的組員為何跟不上進度，金鍾炫歸咎於自己身上，溫柔堅定的相信著隊友，被網民封為「國民隊長」、「聖光」和「佛光」。\[24\]
 
 善良和富責任感的行為使他的排名不斷上升，在第六集的觀眾投票中更拿下第一名。\[25\]此外，在第七集的定位評價中，金鍾炫以親自創作的真摰歌詞得到rap定位中的第一位，獲得十一萬票獎勵，實力得到了認可。\[26\]在第八集的第二輪順位發表中，金鍾炫獲得二百七十多萬票，再次成為第一名，並領先了第二名約六十萬票。\[27\]
 
@@ -28,7 +28,7 @@
 
 ### PRODUCE 101 (第二季)結束後續
 
-Pledis娛樂表示除了因成為Wanna One成員而受到合約限制的黃旼炫\[30\]，其餘四名成員（JR、白虎、Aron、Ren）以分隊 [NU'EST W](https://zh.wikipedia.org/wiki/NU'EST_W "wikilink") 的形式於下半年開始回歸\[31\]。
+Pledis娛樂表示除了因成為Wanna One成員而受到合約限制的黃旼炫\[30\]，其餘四名成員（JR、[Aron](https://zh.wikipedia.org/wiki/Aron "wikilink")、白虎、Ren）以分隊 [NU'EST W](https://zh.wikipedia.org/wiki/NU'EST_W "wikilink") 的形式於下半年開始回歸\[31\]。
 
 即使沒有入選Wanna One，JR仍保持著極高的人氣。節目後續被選為未來最期待的PRODUCE 101 (第二季)參加者\[32\]，PRODUCE 101 (第二季)終演演唱會後突然開始的Vlive直播也獲得熱烈的反應，不足一個小時就吸引22萬人次觀看，愛心數更達到近1400萬\[33\]。同時，JR收到各方的邀約，成為[JTBC](../Page/JTBC.md "wikilink")綜藝節目《[夜行鬼怪](../Page/夜行鬼怪.md "wikilink")》的固定成員\[34\]。JR與REN共同成為化妝品品牌《LABIOTTE》代言人\[35\]，促銷販售第一日即造成排隊搶購風潮，並使得該品牌官方網站銷售存貨售罄\[36\]。且受邀擔任[韓國職棒聯賽](../Page/韓國職棒聯賽.md "wikilink")[LG雙子](../Page/LG雙子.md "wikilink")對[斗山熊三連戰第三場的開球嘉賓](https://zh.wikipedia.org/wiki/斗山熊 "wikilink")。\[37\]
 
@@ -297,10 +297,10 @@ Pledis娛樂表示除了因成為Wanna One成員而受到合約限制的黃旼�
 <td><p>與旼炫</p></td>
 </tr>
 <tr class="odd">
-<td><p>5月23日</p></td>
+<td><p>5月23日-7月18日</p></td>
 <td><p>Mnet</p></td>
 <td><p>留學少女</p></td>
-<td><p>EP1-10</p></td>
+<td><p>EP1-9</p></td>
 <td><p>與旼炫（故事講述者）</p></td>
 <td></td>
 </tr>

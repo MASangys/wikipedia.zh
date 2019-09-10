@@ -2,11 +2,11 @@
 
 ## 概要
 
-前身是[先鋒公司於](https://zh.wikipedia.org/wiki/先鋒公司 "wikilink")1981年3月以製作[鐳射影碟](../Page/鐳射影碟.md "wikilink")為目的而設立的「鐳射影碟株式会社」，1989年4月更名「先鋒LDC株式会社」。
+1981年3月，[先鋒公司以製作](https://zh.wikipedia.org/wiki/先鋒公司 "wikilink")[鐳射影碟](../Page/鐳射影碟.md "wikilink")為目的而設立「鐳射影碟株式会社」；1989年4月更名「先鋒LDC株式会社」。
 
 2003年9月，[電通收購先鋒LDC與美國](https://zh.wikipedia.org/wiki/電通 "wikilink")「Pioneer Entertainment (USA) Inc.」\[1\]，分別改名「Geneon娛樂株式会社」、「Geneon Entertainment (USA) Inc.」。社名**Geneon**取自**gen**erate（出產）＋**eon**（永遠）組合而成，意即出產新的娛樂、永遠的價值創造企業。\[2\]
 
-2008年11月，電通宣佈出脫Geneon大部份股權，並於2009年2月與「日本環球影業有限責任公司」合併\[3\]\[4\]\[5\]。法人主體延續Geneon，公司則搬到日本環球影業原址。至於Geneon USA仍是電通子公司，但因不堪虧損而淡出業界。
+2008年11月，電通宣佈出脫Geneon大部份股權；2009年2月，Geneon與「日本環球影業有限責任公司」合併\[3\]\[4\]\[5\]，法人主體延續Geneon，公司則搬到日本環球影業原址。至於Geneon USA仍是電通子公司，但因不堪虧損而淡出業界。
 
 ## 沿革
 

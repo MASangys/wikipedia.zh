@@ -1,4 +1,4 @@
-**AOA**（；**Ace of Angels**的首字母缩寫，直譯「王牌天使」）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FNC娛樂](../Page/FNC娛樂.md "wikilink")旗下第一支[女子音樂組合和女子舞蹈團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，也是FNC第一支音樂與舞蹈共同活動的團體，初始成員有[草娥](https://zh.wikipedia.org/wiki/朴草娥 "wikilink")、[智珉](https://zh.wikipedia.org/wiki/申智珉 "wikilink")、[酉奈](https://zh.wikipedia.org/wiki/徐酉奈 "wikilink")、[惠晶](https://zh.wikipedia.org/wiki/申惠晶 "wikilink")、[珉娥](../Page/珉娥.md "wikilink")、[雪炫](https://zh.wikipedia.org/wiki/金雪炫 "wikilink")、[澯美](https://zh.wikipedia.org/wiki/金澯美 "wikilink")、有慶8人（有慶于2016年10月宣布退出；草娥於2017年6月宣布退出；珉娥於2019年5月約滿退出），由智珉擔任隊長。AOA的子團包括[AOA Black](https://zh.wikipedia.org/wiki/AOA_Black "wikilink")、[AOA White和](https://zh.wikipedia.org/wiki/AOA_White "wikilink")[AOA Cream](https://zh.wikipedia.org/wiki/AOA_Cream "wikilink")。
+**AOA**（；**Ace of Angels**的首字母缩寫，直譯「王牌天使」）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FNC娛樂](../Page/FNC娛樂.md "wikilink")旗下第一支[女子音樂組合和女子舞蹈團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，也是FNC第一支音樂與舞蹈共同活動的團體，初始成員有[草娥](https://zh.wikipedia.org/wiki/朴草娥 "wikilink")、[智珉](https://zh.wikipedia.org/wiki/申智珉 "wikilink")、[酉奈](https://zh.wikipedia.org/wiki/徐酉奈 "wikilink")、[惠晶](https://zh.wikipedia.org/wiki/申惠晶 "wikilink")、[珉娥](../Page/珉娥.md "wikilink")、[雪炫](https://zh.wikipedia.org/wiki/金雪炫 "wikilink")、[澯美](https://zh.wikipedia.org/wiki/金澯美 "wikilink")、有慶8人（有慶于2016年10月宣布退出；草娥於2017年6月宣布退出；珉娥於2019年5月約滿退出），由智珉擔任隊長。AOA的子團包括、[AOA White和](https://zh.wikipedia.org/wiki/AOA_White "wikilink")[AOA Cream](https://zh.wikipedia.org/wiki/AOA_Cream "wikilink")。
 
 2012年7月30日，AOA釋出首張單曲專辑《[Angels' Story](../Page/Angels'_Story.md "wikilink")》主打歌《Elvis》MV。之後於8月9日於[M\! Countdown出道並進行了首次舞台亮相](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")，次日于[KBS音樂银行表演](https://zh.wikipedia.org/wiki/KBS音樂银行 "wikilink")。10月第二張單曲專輯發行《[Wanna Be](../Page/Wanna_Be_\(AOA單曲\).md "wikilink")》。2013年，AOA發行《MOYA》及《[Red Motion](../Page/RED_MOTION.md "wikilink")》。2014年，主打性感風的《[短裙](../Page/短裙_\(AOA单曲\).md "wikilink")》和《[短髮](https://zh.wikipedia.org/wiki/短髮_\(AOA迷你專輯\) "wikilink")》讓AOA的人氣逐漸上升，且前者使該组合獲得了首個一位。
 
@@ -34,7 +34,7 @@ FNC解释了她们首次亮相的含义：、[草娥](https://zh.wikipedia.org/w
 
 2015年4月27日，FNC娛樂推出由[智珉](../Page/智珉.md "wikilink")與[N.Flying](../Page/N.Flying.md "wikilink") [J.Don組成的N](https://zh.wikipedia.org/wiki/李承協 "wikilink") PROJECT \#1的企劃組合，並推出歌曲《GOD》。
 
-6月起，AOA开始拍摄新的真人秀节目——[MBC Music的](https://zh.wikipedia.org/wiki/MBC_Music "wikilink")《美好的一天》，该节目于中国[海南](../Page/海南省.md "wikilink")[南湾猴岛摄制](https://zh.wikipedia.org/wiki/南湾猴岛 "wikilink")，6月13日开播\[36\]。6月2日，AOA证实组合将于本月中旬携《怦然心动》复出，并于6月22日在首尔AX-厅进行表演\[37\]。6月22日，AOA发行第三张迷你专辑《怦然心动》，并首次发布中文歌曲《怦然心动》\[38\]。
+6月起，AOA开始拍摄新的真人秀节目——的《美好的一天》，该节目于中国[海南](../Page/海南省.md "wikilink")[南湾猴岛摄制](https://zh.wikipedia.org/wiki/南湾猴岛 "wikilink")，6月13日开播\[36\]。6月2日，AOA证实组合将于本月中旬携《怦然心动》复出，并于6月22日在首尔AX-厅进行表演\[37\]。6月22日，AOA发行第三张迷你专辑《怦然心动》，并首次发布中文歌曲《怦然心动》\[38\]。
 
 [KCON 2015期间](https://zh.wikipedia.org/wiki/KCON "wikilink")，AOA分别于8月2日和8日在洛杉矶和纽约进行演出，这是该组合首次在美国亮相。同月，消息称AOA将在日本发行首张正规专辑，包括8首以前的日语单曲和3首全新的歌曲，主打歌为《Oh Boy》\[39\]。专辑《Ace of Angels》于10月14日发行\[40\]。12月18日，AOA于日本东京[新木场Studio](../Page/新木場.md "wikilink") Coast举行首场演场会《Angels World - Oh Boy Academy》\[41\]。
 
@@ -1141,6 +1141,13 @@ PlotData =
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Happy_Together" title="wikilink">Happy Together</a></p></td>
 <td><p><a href="../Page/惠晶.md" title="wikilink">惠晶</a>[72]</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>8月29日</p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Queendom_(韓國綜藝).md" title="wikilink">Queendom</a></p></td>
+<td><p>全員</p></td>
 <td></td>
 </tr>
 </tbody>

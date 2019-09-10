@@ -4,12 +4,21 @@
 
 [Chopin_nocturne_20b.png](https://zh.wikipedia.org/wiki/File:Chopin_nocturne_20b.png "fig:Chopin_nocturne_20b.png") 此曲為富感情的[緩板](https://zh.wikipedia.org/wiki/行板 "wikilink")(Lento con gran espressione)，4/4拍，[升C小調](https://zh.wikipedia.org/wiki/升C小調 "wikilink")。首4小節為引子，其後主旋律開始，其後於第21小節引入新旋律，但於第47小節回到主題，最後於第65小節完結。當中第21、22小節的樂句類似蕭邦同一時期的作品[第二鋼琴協奏曲中第三樂章之主旋律](https://zh.wikipedia.org/wiki/第2號鋼琴協奏曲_\(蕭邦\) "wikilink")，而第23、24小節類似該協奏曲第一樂章中部分第二主題。
 
-## 流行文化
+## 相關樂曲
+
+  - [内森·米尔斯坦](../Page/内森·米尔斯坦.md "wikilink")的小提琴及鋼琴改編曲
+  - [艾莉西亚·凯斯](../Page/艾莉西亚·凯斯.md "wikilink")的專輯[平凡如我](../Page/平凡如我.md "wikilink")第一首"As I Am (Intro)"引用了此曲
+
+## 影視作品
 
   - 電影[戰地琴人中兩次出現](../Page/钢琴家_\(电影\).md "wikilink")[瓦迪斯瓦夫·斯皮爾曼](../Page/瓦迪斯瓦夫·斯皮爾曼.md "wikilink")對此曲的演奏(皆為選段)。
-  - 此曲於電影[終結者外傳](../Page/終結者外傳.md "wikilink")出現。
+  - 此曲於電影[終結者外傳](../Page/終結者外傳.md "wikilink")第一季第七集出現。
   - 電影[功夫梦](../Page/功夫梦.md "wikilink")出現此曲的小提琴版本。
+  - 電影[戰略殺手](../Page/戰略殺手.md "wikilink")出現此曲。
+  - 紀錄片[解密山達基](../Page/解密山達基.md "wikilink")中此曲以[特雷門琴](https://zh.wikipedia.org/wiki/特雷門琴 "wikilink")（Dorit Chrysler）及大鍵琴（Phaedon Papadopoulos）合奏。\[5\]
   - 日本电视剧《风之花园》将此曲选段填词后作为主题片尾曲使用。
+  - 此曲於遊戲[消逝的光芒](../Page/消逝的光芒.md "wikilink")隔離區中出現。
+  - 此曲於遊戲[黑手党III](../Page/黑手党III.md "wikilink")造訪鄉村俱樂部時出現。
 
 ## 參考
 
@@ -24,3 +33,4 @@
 2.
 3.  <http://en.chopin.nifc.pl/chopin/manuscripts/detail/id/250>
 4.  <http://www.amazon.ca/Nocturnes-Comp-Fryderyk-Chopin/dp/B000001GPN>
+5.

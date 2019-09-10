@@ -265,6 +265,15 @@
 <td></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>2019年9月28日-2019年9月29日</p></td>
+<td><p>KCON 2019 Thailand</p></td>
+<td><p><a href="../Page/曼谷.md" title="wikilink">曼谷</a></p></td>
+<td></td>
+<td><p>IMPACT會展中心</p></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -881,6 +890,39 @@
   - [SEVENTEEN](https://zh.wikipedia.org/wiki/SEVENTEEN "wikilink")
   - [Stray Kids](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")
   - [VERIVERY](../Page/VERIVERY.md "wikilink")
+
+## KCON 2019 Thailand
+
+活動日期：2019年9月28日-2019年9月29日
+
+活動地點：IMPACT會展中心
+
+9月28日
+
+  - [BOY STORY](../Page/BOY_STORY.md "wikilink")
+  - [EVERGLOW](../Page/EVERGLOW.md "wikilink")
+  - [Golden Child](../Page/Golden_Child.md "wikilink")
+  - [GOT7](../Page/GOT7.md "wikilink")
+  - [ITZY](../Page/ITZY.md "wikilink")
+  - [金在煥](https://zh.wikipedia.org/wiki/金在煥 "wikilink")
+  - [NATURE](https://zh.wikipedia.org/wiki/NATURE "wikilink")
+  - [ONEUS](https://zh.wikipedia.org/wiki/ONEUS "wikilink")
+  - [THE BOYZ](https://zh.wikipedia.org/wiki/THE_BOYZ "wikilink")
+  - [X1](../Page/X1.md "wikilink")
+  - [Nichkhun](../Page/Nichkhun.md "wikilink")
+
+9月29日
+
+  - [(G)I-DLE](../Page/\(G\)I-DLE.md "wikilink")
+  - [AB6IX](../Page/AB6IX.md "wikilink")
+  - [ATEEZ](../Page/ATEEZ.md "wikilink")
+  - [BVNDIT](../Page/BVNDIT.md "wikilink")
+  - [請夏](https://zh.wikipedia.org/wiki/請夏 "wikilink")
+  - [IZ\*ONE](../Page/IZ*ONE.md "wikilink")
+  - [Stray Kids](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")
+  - [VERIVERY](../Page/VERIVERY.md "wikilink")
+  - [X1](../Page/X1.md "wikilink")
+  - [Nichkhun](../Page/Nichkhun.md "wikilink")
 
 ## 參考資料
 

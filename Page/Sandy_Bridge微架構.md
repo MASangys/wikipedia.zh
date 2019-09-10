@@ -34,7 +34,7 @@ Intel在Sandy Bridge上新增了[Intel Quick Sync Video](https://zh.wikipedia.or
 
 ### [指令集](https://zh.wikipedia.org/wiki/指令集 "wikilink")
 
-提升處理器運算[超越函數](../Page/超越函數.md "wikilink")的效能，優化[AES加密效能](https://zh.wikipedia.org/wiki/AES "wikilink")（[AES指令集](../Page/AES指令集.md "wikilink")）和[SHA-1切細效能](https://zh.wikipedia.org/wiki/SHA "wikilink")；新增256[位元](../Page/位元.md "wikilink")指令集[AVX指令集](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")，增強[矢量運算能力和](https://zh.wikipedia.org/wiki/矢量運算 "wikilink")[浮點運算能力](https://zh.wikipedia.org/wiki/浮點運算 "wikilink")。
+提升處理器運算[超越函數](../Page/超越函數.md "wikilink")的效能，優化[AES加密效能](https://zh.wikipedia.org/wiki/AES "wikilink")（[AES指令集](../Page/AES指令集.md "wikilink")）和[SHA-1切細效能](https://zh.wikipedia.org/wiki/SHA "wikilink")；新增256[位元](../Page/位元.md "wikilink")指令集[AVX指令集](../Page/AVX指令集.md "wikilink")，增強[矢量運算能力和](https://zh.wikipedia.org/wiki/矢量運算 "wikilink")[浮點運算能力](https://zh.wikipedia.org/wiki/浮點運算 "wikilink")。
 
 ### 晶片組、處理器插座
 

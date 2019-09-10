@@ -102,6 +102,8 @@
 
   - 3月13日 發行第10張單曲「REBEL FLAG」，為[魔法少女特殊戰明日香](../Page/魔法少女特殊戰明日香.md "wikilink")片尾曲\[20\]。
   - 6月1日 亞巡來台舉辦個人團體演唱會「stellacage Asia Tour 2019 "響喜乱舞" in Taipei 」在「永豐Legacy Taipei 音樂展演空間」中舉辦\[21\]\[22\]
+  - 8月31日 契約已滿解除與SACRA MUSIC合作關係。\[23\]
+  - 12月4日 發行第2張精選專輯「GARNiDELiA BEST」\[24\]。
 
 ## 成員
 
@@ -490,6 +492,30 @@ CD</p></td>
 <td><p>初回限定盤<br />
 通常盤</p></td>
 </tr>
+<tr class="odd">
+<td><p>待確定新唱片公司</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2nd</p></td>
+<td><p>2019年12月4日</p></td>
+<td><p>GARNiDELiA BEST</p></td>
+<td></td>
+<td><p>VVCL 1568-9<br />
+VVCL 1570-1<br />
+VVCL 1572</p></td>
+<td><p>CD+Blu-ray<br />
+CD+Photobook<br />
+CD</p></td>
+<td><p>初回限定盤Type A<br />
+初回限定盤Type B<br />
+通常盤</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -577,3 +603,5 @@ CD</p></td>
 20.
 21.
 22.
+23. [GARNiDELiAに関する重要なお知らせ](http://www.garnidelia.com/info/archive/?509864)
+24.

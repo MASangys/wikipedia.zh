@@ -39,7 +39,7 @@ RPG-30，与其前型[RPG-27](../Page/RPG-27.md "wikilink")相同，是单兵携
 
 
 
-[Category:2012年面世的產品](https://zh.wikipedia.org/wiki/Category:2012年面世的產品 "wikilink") [Category:反坦克火箭筒](https://zh.wikipedia.org/wiki/Category:反坦克火箭筒 "wikilink") [Category:俄罗斯](https://zh.wikipedia.org/wiki/Category:俄罗斯 "wikilink") [Category:枪械](https://zh.wikipedia.org/wiki/Category:枪械 "wikilink") [Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink")
+[Category:2012年面世的產品](https://zh.wikipedia.org/wiki/Category:2012年面世的產品 "wikilink") [Category:反坦克火箭筒](https://zh.wikipedia.org/wiki/Category:反坦克火箭筒 "wikilink") [Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink")
 
 1.
 

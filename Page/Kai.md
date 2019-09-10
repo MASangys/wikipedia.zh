@@ -22,6 +22,8 @@
 
 2014年5月21日Kai化身芭蕾舞者登上韓國時尚雜誌《THE CELEBRITY》6月號。 7月16日下午，Kai與成員[世勳](https://zh.wikipedia.org/wiki/世勳 "wikilink")、[燦烈](https://zh.wikipedia.org/wiki/燦烈 "wikilink")、[Tao](https://zh.wikipedia.org/wiki/Tao "wikilink")、[Chen](https://zh.wikipedia.org/wiki/Chen "wikilink")、[Lay出席了在韓國首爾瑞草區良才洞舉行的](../Page/張藝興.md "wikilink")“FASHION CODE2014”時尚秀開幕式，並在T台大放異彩。
 
+[Kai_on_the_red_carpet_at_the_Mnet_Asian_Music_Awards_on_December_2,_2016.jpg](https://zh.wikipedia.org/wiki/File:Kai_on_the_red_carpet_at_the_Mnet_Asian_Music_Awards_on_December_2,_2016.jpg "fig:Kai_on_the_red_carpet_at_the_Mnet_Asian_Music_Awards_on_December_2,_2016.jpg")
+
 ### 2016年-現今：戲劇發展、SuperM
 
 2016年2月15日，Kai與[朴恩玭](../Page/朴恩玭.md "wikilink")、[延俊錫](../Page/延俊錫.md "wikilink")、李采源等主演的網絡劇《Choco Bank》開播\[4\]。12月，Kai出演樂天免稅店網絡劇《[七次的初吻](../Page/七次的初吻.md "wikilink")》。
@@ -30,15 +32,15 @@
 
 2018年1月，Kai主演的日本WOW電視臺電視劇《春天來了》開播，Kai是該電視台首次起用外國演員當主演。Kai飾演的是李知元，一名韓國攝影師\[7\]。3月15日，國際品牌《[Levi's](../Page/Levi's.md "wikilink")》公開與Kai合作推出的首支單獨電影。Levi's 品牌想要用Kai的影響力去傳達真誠、音樂與文化，永不改變的Iconic Style等核心信息\[8\]。4月2日，Kai參演的電視劇《[我們遇見的奇蹟](../Page/我們遇見的奇蹟.md "wikilink")》於KBS2播出，Kai飾演的是在兩個人類之間傳遞資訊的信使\[9\]。5月，Kai前往[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[亞爾出席](../Page/阿爾勒.md "wikilink")「2019 Gucci早春秀」，並被[Vogue稱為](../Page/时尚_\(杂志\).md "wikilink")「The Star Of Gucci's Cruise 2019 Show」。\[10\]
 
-2019年8月，SM娛樂宣佈Kai參與SM娛樂旗下各男子音樂組合的部分成員組成的聯合團體[SuperM並將於](https://zh.wikipedia.org/wiki/SuperM "wikilink")10月出道\[11\]。
+2019年6月，Kai出演的KBS電視台綜藝節目《[加油吧曼蘇爾](../Page/加油吧曼蘇爾.md "wikilink")》播出，此節目主軸為足球隊的運營過程，以及通過親自跟足球隊員們的見面，與交流展現真正的足球隊的成長。8月，SM娛樂宣佈Kai參與SM娛樂旗下各男子音樂組合的部分成員組成的聯合團體[SuperM並將於](https://zh.wikipedia.org/wiki/SuperM "wikilink")10月出道\[11\]。
 
 ## 個人生活
 
-十歲的Kai在看過[芭蕾舞](../Page/芭蕾舞.md "wikilink")劇《胡桃钳》之後夢想做一位芭蕾舞演員。9年後，作為具有“最高舞者”稱號的[EXO](../Page/EXO.md "wikilink")成員Kai站在舞台上。2014年5月韓國某時尚雜誌中，有幸讓21歲的Kai再次回到小時候，配合著古典音樂，按照他的風格舞動身體，他是跳舞的芭蕾舞演員。
+十歲的Kai在看過[芭蕾舞](../Page/芭蕾舞.md "wikilink")劇《胡桃钳》之後夢想做一位芭蕾舞演員。9年後，作為具有“最強舞者”稱號的[EXO](../Page/EXO.md "wikilink")成員Kai站在舞台上。2014年5月韓國某時尚雜誌中，有幸讓21歲的Kai再次回到小時候，配合著古典音樂，按照他的風格舞動身體，他是跳舞的芭蕾舞演員。
 
 因為學了芭蕾，Kai好像會比其他人更快的理解舞蹈而且感覺會更容易抓到。把芭蕾與[爵士樂結合到一起](https://zh.wikipedia.org/wiki/爵士樂 "wikilink")，以這個為基礎可以使舞蹈穩定。看了電影《Billy Elliot》之後，Kai再次有了要跳芭蕾的想法，也想要像找到夢想幸福的Billy一樣，為了自己想要做的，想要實現的夢想努力的他。
 
-2016年4月1日與韓國女子團體[f(x)成員](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")[Krystal公開戀情](https://zh.wikipedia.org/wiki/Krystal "wikilink")，但兩人在過了13個月之後便分手\[12\]\[13\]。
+2016年4月1日與韓國女子團體[f(x)成員](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")[Krystal公開戀情](https://zh.wikipedia.org/wiki/Krystal "wikilink")，但兩人在公開1年2個月之後便分手\[12\]\[13\]。
 
 2019年1月1日，他與[BLACKPINK](../Page/BLACKPINK.md "wikilink")成員[Jennie傳出戀情](../Page/Jennie_\(韓國歌手\).md "wikilink")。隨後，所屬社相關人員表示「兩人確實互有好感」\[14\]\[15\]。2019年1月25日，Kai所屬的[SM娛樂](../Page/SM娛樂.md "wikilink")證實Kai與[Jennie已分手](../Page/Jennie_\(韓國歌手\).md "wikilink")，恢復前後輩關係，以事業為重。\[16\]
 
@@ -82,12 +84,10 @@
 
 ### 固定出演綜藝節目
 
-與EXO全體成員一起參與的綜藝節目請參考 《[EXO影視作品列表](../Page/EXO影視作品列表.md "wikilink")》
-
-|              |      |          |
-| ------------ | ---- | -------- |
-| 日期           | 播放平台 | 節目名稱     |
-| 2019年6月21日 - | KBS2 | 《加油吧曼蘇爾》 |
+|              |      |                                          |
+| ------------ | ---- | ---------------------------------------- |
+| 日期           | 播放平台 | 節目名稱                                     |
+| 2019年6月21日 - | KBS2 | 《[加油吧曼蘇爾](../Page/加油吧曼蘇爾.md "wikilink")》 |
 
 ### 參演MV
 
@@ -179,6 +179,13 @@
 <td><p>Andante</p></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>Starhub Night Of Stars</p></td>
+<td><p>Favourite Korean Drama Character[43]</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -213,7 +220,7 @@
 <tr class="even">
 <td><p>2016年</p></td>
 <td><ul>
-<li>K-Pop一百張最帥面孔 第17位[43]</li>
+<li>K-Pop一百張最帥面孔 第17位[44]</li>
 <li>TC Candler全球100張最帥面孔 第44位</li>
 </ul></td>
 </tr>
@@ -327,3 +334,5 @@
 42.
 
 43.
+
+44.

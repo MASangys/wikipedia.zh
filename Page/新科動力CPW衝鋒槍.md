@@ -74,7 +74,7 @@ CPW的[機匣上下整合了共兩條](https://zh.wikipedia.org/wiki/機匣 "wik
 
   - —[Энциклопедия Вооружений－ST Kinetics CPW](http://gunsite.narod.ru/st_kinetics_cpw.htm)
 
-[Category:衝鋒槍](https://zh.wikipedia.org/wiki/Category:衝鋒槍 "wikilink") [Category:衝鋒手槍](https://zh.wikipedia.org/wiki/Category:衝鋒手槍 "wikilink") [Category:9毫米魯格彈槍械](https://zh.wikipedia.org/wiki/Category:9毫米魯格彈槍械 "wikilink") [Category:5.7×28毫米槍械](https://zh.wikipedia.org/wiki/Category:5.7×28毫米槍械 "wikilink") [Category:4.6×30毫米槍械](https://zh.wikipedia.org/wiki/Category:4.6×30毫米槍械 "wikilink") [Category:新加坡军事](https://zh.wikipedia.org/wiki/Category:新加坡军事 "wikilink") [Category:新加坡槍械](https://zh.wikipedia.org/wiki/Category:新加坡槍械 "wikilink") [Category:需要圖片的槍械條目](https://zh.wikipedia.org/wiki/Category:需要圖片的槍械條目 "wikilink")
+[Category:衝鋒槍](https://zh.wikipedia.org/wiki/Category:衝鋒槍 "wikilink") [Category:衝鋒手槍](https://zh.wikipedia.org/wiki/Category:衝鋒手槍 "wikilink") [Category:9毫米魯格彈槍械](https://zh.wikipedia.org/wiki/Category:9毫米魯格彈槍械 "wikilink") [Category:5.7×28毫米槍械](https://zh.wikipedia.org/wiki/Category:5.7×28毫米槍械 "wikilink") [Category:4.6×30毫米槍械](https://zh.wikipedia.org/wiki/Category:4.6×30毫米槍械 "wikilink") [Category:新加坡军事](https://zh.wikipedia.org/wiki/Category:新加坡军事 "wikilink") [Category:新加坡槍械](https://zh.wikipedia.org/wiki/Category:新加坡槍械 "wikilink")
 
 1.
 2.

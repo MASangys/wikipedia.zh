@@ -609,14 +609,14 @@
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p>2019年9月－<br />
+<td style="text-align: center;"><p>2019年9月20日－<br />
 2019年</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/千里馬超市" title="wikilink">千里馬超市</a><br />
+<td style="text-align: center;"><p><a href="../Page/很便宜，千里馬超市.md" title="wikilink">很便宜，千里馬超市</a><br />
 </p></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><p>12</p></td>
+<td style="text-align: center;"><p><a href="../Page/金炳哲.md" title="wikilink">金炳哲</a>、<a href="../Page/鄭惠成.md" title="wikilink">鄭惠成</a>、<a href="https://zh.wikipedia.org/wiki/李東輝" title="wikilink">李東輝</a></p></td>
+<td style="text-align: center;"><p>白承龍</p></td>
+<td style="text-align: center;"><p>金率智</p></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>

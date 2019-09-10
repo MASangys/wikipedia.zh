@@ -2,6 +2,10 @@
 
 2002年， [DSP Media宣佈Fin](https://zh.wikipedia.org/wiki/DSP_Media "wikilink").K.L成員單飛，但未宣佈解散团体。
 
+2005年，相隔快3年的时间，Fin.K.L发行首张数位单曲《Fin.K.L》回归韩国乐坛。
+
+2019年，Fin.K.L相隔了14年后再次合体，首次出演单独团队综艺节目《Camping Club》，并且发行精选专辑《FIN.K.L Best Album》。
+
 ## 成員資料
 
 | 成員列表                                    |
@@ -22,8 +26,9 @@
   - 1999年11月26日：正規二.五輯《Special》
   - 2000年10月1日：正規三輯《Now》
   - 2001年4月1日：正規三.五輯《Memories & Melodies》
-  - 2002年3月28日：Best album《永遠》
+  - 2002年3月28日：Best Album《永遠》
   - 2005年10月26日：Digital Single《FIN.K.L》
+  - 2019年8月18日: Best Album《FIN.K.L Best Album》
 
 ## 獲獎
 

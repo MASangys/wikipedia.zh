@@ -422,15 +422,15 @@ Rocky</p></td>
 <td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a></p></td>
 <td><p><a href="../Page/18歲的瞬間.md" title="wikilink">18歲的瞬間</a></p></td>
 <td><p>文彬</p></td>
-<td><p>鄭武帝</p></td>
+<td><p>鄭傲齊</p></td>
 <td><p>男配角</p></td>
 </tr>
 <tr class="odd">
 <td><p>2019</p></td>
 <td><p>MBC</p></td>
-<td><p><a href="../Page/新入史官具海玲.md" title="wikilink">新入史官具海玲</a></p></td>
+<td><p><a href="../Page/新入史官丘海昤.md" title="wikilink">新入史官丘海昤</a></p></td>
 <td><p>車銀優</p></td>
-<td><p>李林</p></td>
+<td><p>李棽</p></td>
 <td><p>男主角</p></td>
 </tr>
 </tbody>
@@ -1346,6 +1346,12 @@ Rocky</p></td>
 <li>第26屆<a href="https://zh.wikipedia.org/wiki/首爾歌謠大賞" title="wikilink">首爾歌謠大賞</a> - 韓流特別賞</li>
 <li>第2屆亞洲明星盛典 - 歌手部門New Wave獎</li>
 <li>第25屆韓國大眾文化演藝大賞 - KPOP歌手獎</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p>2019年</p></td>
+<td><ul>
+<li>第三屆Soribada最佳音樂大獎 - Global Hot Trend賞</li>
 </ul></td>
 </tr>
 </tbody>

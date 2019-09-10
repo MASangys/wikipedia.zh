@@ -42,7 +42,7 @@ Macintosh Classic 默认搭载[System 6](../Page/System_6.md "wikilink").0.7[操
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/中央处理器.md" title="wikilink">中央处理器</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/摩托罗拉68000" title="wikilink">摩托罗拉68000</a> 8 <a href="https://zh.wikipedia.org/wiki/MHz" title="wikilink">MHz</a></p></td>
+<td><p><a href="../Page/摩托罗拉68000.md" title="wikilink">摩托罗拉68000</a> 8 <a href="https://zh.wikipedia.org/wiki/MHz" title="wikilink">MHz</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/总线.md" title="wikilink">总线</a>速度</p></td>

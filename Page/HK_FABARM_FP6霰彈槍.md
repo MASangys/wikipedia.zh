@@ -57,7 +57,7 @@ FP6與其他泵动式霰彈槍一樣，可滑動的前護木通過兩根操作�
 ### 電子遊戲
 
   - 2013年—《[-{zh-cn:使命召唤：幽灵; zh-tw:決勝時刻：魅影;}-](../Page/決勝時刻：魅影.md "wikilink")》：命名為「FP6」，黑色槍身，造型上裝上穿孔式、彈藥附件、折疊式[槍托](../Page/槍托.md "wikilink")及和[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，5發[管式彈倉](https://zh.wikipedia.org/wiki/彈匣#管式彈倉 "wikilink")，初始攜彈量為20發（聯機模式）和30發（滅絕模式），最高攜彈量為50發（聯機模式）和70發（滅絕模式）。聯機模式時可以使用[紅點鏡](../Page/紅點鏡.md "wikilink")、、[消音器](../Page/抑制器.md "wikilink")、[槍口制退器](../Page/砲口制動器.md "wikilink")、[前握把](../Page/輔助握把.md "wikilink")、[重彈頭](https://zh.wikipedia.org/wiki/霰彈塊 "wikilink")；滅絕模式時以1,500點取得，並可以使用射速增加。
-  - 2018年—《[少女前線](https://zh.wikipedia.org/wiki/少女前線 "wikilink")》：被歸類為「霰彈槍」，命名為FP-6。
+  - 2018年—《[少女前線](https://zh.wikipedia.org/wiki/少女前線 "wikilink")》：被歸類為「霰彈槍」，命名為FP-6，與[AA-12](https://zh.wikipedia.org/wiki/AA-12 "wikilink")、[M1014名列霰彈槍前三名](../Page/伯奈利M4_Super_90半自動霰彈槍.md "wikilink")。
 
 ## 參見
 

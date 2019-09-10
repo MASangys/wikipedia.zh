@@ -1,4 +1,4 @@
-《**重甲機神 Baryon**》是由[臺灣](../Page/臺灣.md "wikilink")一家位於[台北市的動畫工作室](https://zh.wikipedia.org/wiki/台北市 "wikilink")「[乾坤一擊創意股份有限公司](https://zh.wikipedia.org/wiki/乾坤一擊創意股份有限公司 "wikilink")」（）製作，由紀敦智、黃瀛洲導演所推出的原創機器人動畫作品\[1\]，於2019年11月8日正式院線上映的[台灣動畫](https://zh.wikipedia.org/wiki/台灣動畫 "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")。\[2\]\[3\]
+《**重甲機神 Baryon**》是由[臺灣](../Page/臺灣.md "wikilink")一家位於[台北市的動畫工作室](https://zh.wikipedia.org/wiki/台北市 "wikilink")「[乾坤一擊創意股份有限公司](https://zh.wikipedia.org/wiki/乾坤一擊創意股份有限公司 "wikilink")」（）製作，由紀敦智、黃瀛洲導演所推出的原創機器人動畫作品\[1\]，於2019年11月8日正式院線上映的[台灣動畫](https://zh.wikipedia.org/wiki/台灣動畫 "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")，正式上映之片名為《重甲機神：神降臨》。\[2\]\[3\]
 
 劇情以台灣為舞台，動畫以2D和3D的方式呈現\[4\]。故事原案、編劇、系列構成、科學考據部分則有[東海大學應用物理系及](../Page/東海大學_\(台灣\).md "wikilink")[中原大學](../Page/中原大學.md "wikilink")物理系的參與\[5\]。音樂總監則由為[張惠妹](../Page/張惠妹.md "wikilink")、[蔡依林](../Page/蔡依林.md "wikilink")等製作專輯的音樂人[陳星翰](../Page/陳星翰.md "wikilink")（Starr Chen）擔任\[6\]。
 
@@ -208,7 +208,7 @@
 
 公開試映後，宣布繼續製作電影版，原計畫於2017年暑期推出，但最終延後至2018年才推出。\[61\]於2018年10月11日擔任[臺中國際動畫影展](../Page/臺中國際動畫影展.md "wikilink")開幕片，以特映會形式在台公開首映。\[62\]\[63\]同年10月28日在[高雄電影節](../Page/高雄電影節.md "wikilink")上映。\[64\]
 
-正式商業上映的時間則暫定2019年10月。\[65\]\[66\]
+正式商業上映的時間則為2019年11月8日。\[65\]\[66\]
 
 ## 漫畫
 

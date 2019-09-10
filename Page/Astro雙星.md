@@ -8,7 +8,7 @@
 
 ## 争议
 
-### **全球优先看**
+### 全球优先看
 
 新加坡新传媒剧集《[信约：我们的家园](https://zh.wikipedia.org/wiki/信约：我们的家园 "wikilink")》原定于2015年7月9日，继《[心迷](../Page/心迷.md "wikilink")》及《[长辈甜心](https://zh.wikipedia.org/wiki/长辈甜心 "wikilink")》后全球首播。由于剧集比新加坡提早5天播出，遭民众非议，令新加坡新传媒介入。
 

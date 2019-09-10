@@ -8,7 +8,7 @@
 
 本系列從構思到發行，籌備近一年時間，最終定位為類似HGUC系列，以非連貫、人氣度決定作為角色商品化準則。因此亦可視為自「三國傳」以來，單一系列作品的暫時完結。
 
-2014年高達動畫[高達創戰者中](https://zh.wikipedia.org/wiki/高達創戰者 "wikilink")，騎士高達(FA騎士高達)成為「谷島卡露拉」專用機體、此外殺驅頭、武者頑馱無、司令高達、以及未曾商品化的撒旦高達亦有客串出場。翌年續作[高達創戰者Try也有號斗丸](https://zh.wikipedia.org/wiki/高達創戰者 "wikilink")、魔龍劍士Zero出現在劇情中。
+2014年高達動畫[高達創戰者](../Page/高達創戰者.md "wikilink")中，騎士高達(FA騎士高達)成為「谷島卡露拉」專用機體、此外殺驅頭、武者頑馱無、司令高達、以及未曾商品化的撒旦高達亦有客串出場。翌年續作[高達創戰者](../Page/高達創戰者.md "wikilink")Try也有號斗丸、魔龍劍士Zero出現在劇情中。
 
 ## 人物介紹
 
@@ -98,11 +98,11 @@
 
 **武者號斗丸**
 
-[新SD戰國傳 超機動大將軍篇](https://zh.wikipedia.org/wiki/新SD戰國傳_超機動大將軍篇 "wikilink")25年來SD武者中最人氣主角、以至於[高達創戰者TRY中](https://zh.wikipedia.org/wiki/高達創戰者 "wikilink")，成為神木世界與阪井湊決戰時使用的高達模型。爆流頑馱無徒弟、鐵機武者鋼丸好友。大幅提升「爆熱之陣」可動性、以及外觀完整度，例如新增透明部件呈現寶石效果。
+[新SD戰國傳 超機動大將軍篇](https://zh.wikipedia.org/wiki/新SD戰國傳_超機動大將軍篇 "wikilink")25年來SD武者中最人氣主角、以至於[高達創戰者](../Page/高達創戰者.md "wikilink")TRY中，成為神木世界與阪井湊決戰時使用的高達模型。爆流頑馱無徒弟、鐵機武者鋼丸好友。大幅提升「爆熱之陣」可動性、以及外觀完整度，例如新增透明部件呈現寶石效果。
 
 **鐵機武者鋼丸**\\
 
-爆流參考機動武者大鋼設計的鐵機武者、號斗丸好友，可變形成巨大武者「鐵機鋼丸型態」。[高達創戰者TRY中](https://zh.wikipedia.org/wiki/高達創戰者 "wikilink")，在星際凱旋高達變成「Real Mode」及使出最後必殺時，以幻影姿態出現。
+爆流參考機動武者大鋼設計的鐵機武者、號斗丸好友，可變形成巨大武者「鐵機鋼丸型態」。[高達創戰者](../Page/高達創戰者.md "wikilink")TRY中，在星際凱旋高達變成「Real Mode」及使出最後必殺時，以幻影姿態出現。
 
 ### [SD高達外傳](https://zh.wikipedia.org/wiki/SD高達外傳 "wikilink")
 
@@ -124,7 +124,7 @@
 
 **魔龍劍士Zero**
 
-[SD高達外傳 聖龍物語主角](https://zh.wikipedia.org/wiki/SD高達外傳_聖龍物語 "wikilink")。LGBB中首次推出雙鎧甲角色。於[高達創戰者TRY亦有出場](https://zh.wikipedia.org/wiki/高達創戰者 "wikilink")。
+[SD高達外傳 聖龍物語主角](https://zh.wikipedia.org/wiki/SD高達外傳_聖龍物語 "wikilink")。LGBB中首次推出雙鎧甲角色。於[高達創戰者](../Page/高達創戰者.md "wikilink")TRY亦有出場。
 
 ### [SD司令戰記G-Arms](../Page/SD司令戰記G-Arms.md "wikilink")
 

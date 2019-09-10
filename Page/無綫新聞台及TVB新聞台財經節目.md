@@ -1,6 +1,6 @@
-在港股及美股交易日，[無綫新聞台](../Page/無綫新聞台.md "wikilink")及[TVB新聞台](../Page/TVB新聞台.md "wikilink")播出的財經新聞節目（），由[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[新聞及資訊部製作](https://zh.wikipedia.org/wiki/無綫新聞 "wikilink")，包括《[開市第一擊](https://zh.wikipedia.org/wiki/開市第一擊 "wikilink")》、《[滬港快訊](https://zh.wikipedia.org/wiki/滬港快訊 "wikilink")》、《[滬港一點通](https://zh.wikipedia.org/wiki/滬港一點通 "wikilink")》、《[財經報道](https://zh.wikipedia.org/wiki/財經報道 "wikilink")》、《[滬港點評](https://zh.wikipedia.org/wiki/滬港點評 "wikilink")》及《[財經多國度](https://zh.wikipedia.org/wiki/財經多國度 "wikilink")》，報道財經新聞及股市資訊。
+在港股及美股交易日，[無綫新聞台](../Page/無綫新聞台.md "wikilink")及[TVB新聞台](../Page/TVB新聞台.md "wikilink")播出的財經新聞節目（），由[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[新聞及資訊部製作](https://zh.wikipedia.org/wiki/無綫新聞 "wikilink")，包括《[開市第一擊](https://zh.wikipedia.org/wiki/開市第一擊 "wikilink")》、《[深滬港快訊](https://zh.wikipedia.org/wiki/深滬港快訊 "wikilink")》、《[滬港一點通](https://zh.wikipedia.org/wiki/滬港一點通 "wikilink")》、《[財經報道](https://zh.wikipedia.org/wiki/財經報道 "wikilink")》、《[滬港點評](https://zh.wikipedia.org/wiki/滬港點評 "wikilink")》及《[財經多國度](https://zh.wikipedia.org/wiki/財經多國度 "wikilink")》，報道財經新聞及股市資訊。
 
-因應高清翡翠台將於2016年2月22日起易名為J5（於2017年8月15日起改名為無綫財經台，再於2018年1月20日起改名為無綫財經·資訊台）啟播，互動新聞台（於2017年8月15日起改名為無綫新聞台）及TVB新聞台於2016年1月起取消播映財經新聞節目（《[開市第一擊](https://zh.wikipedia.org/wiki/開市第一擊 "wikilink")》除外）。
+因應高清翡翠台將於2016年2月22日起易名為J5（於2017年8月15日起改名為無綫財經台，再於2018年1月20日起改名為無綫財經·資訊台）啟播，互動新聞台（於2017年8月15日起改名為無綫新聞台）及TVB新聞台於2016年1月起取消播映財經新聞節目（《[開市第一擊](https://zh.wikipedia.org/wiki/開市第一擊 "wikilink")》、《[深滬港快訊](https://zh.wikipedia.org/wiki/深滬港快訊 "wikilink")》和《[財經多國度](https://zh.wikipedia.org/wiki/財經多國度 "wikilink")》除外）。
 
 ## 播出時間
 
@@ -58,14 +58,60 @@
   - 2013年3月15日及之前則於21:29-21:37（美國實施夏令時間）／22:29-22:37（美國實施冬令時間）播出。
   - 2013年3月18日起改為在美股交易日22:30-22:40播出。
   - 2016年1月1日起取消播映。
-
-於最近重開！😄😄😄
+  - 2017年1月1日起恢復播映。
+  - 節目由CENTRO特約播出。
 
 ### 深滬港快訊
 
 《**深滬港快訊**》（）在2014年11月17日起逢滬港通交易日09:53-10:00及15:24-15:30播出。
 
   - 節目由寶新金融特約播出。
+
+<table>
+<thead>
+<tr class="header">
+<th><p>節目</p></th>
+<th><p>開市第一擊</p></th>
+<th><p>深港滬快訊</p></th>
+<th><p>財經多國度</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><strong>開播日期</strong></p></td>
+<td><p>2009年1月1日</p></td>
+<td><p>2014年11月17日</p></td>
+<td><p>2017年1月2日</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>播放時間</strong></p></td>
+<td><p>09:30-09:35</p></td>
+<td><p>09:54-10:00 及 15:24-15:30</p></td>
+<td><p>22:40-22:45</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>介紹</strong></p></td>
+<td><p>清晨開市， 和大家報導港股指數，</p>
+<p>助你掌握投資。</p></td>
+<td><p>認識滬港通， 了解深圳和香港股市，</p>
+<p>助你掌握投資。</p></td>
+<td><p>認識美股走勢和新聞， 報導美股指數，</p>
+<p>和經濟師講解助你掌握投資。</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>股市特點</strong></p></td>
+<td><p>港股</p></td>
+<td><p>港股</p></td>
+<td><p>美股</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>贊助啇</strong></p></td>
+<td><p>--</p></td>
+<td><p>寶新金融</p></td>
+<td><p>CENTRO</p></td>
+</tr>
+</tbody>
+</table>
 
 ## 主播
 

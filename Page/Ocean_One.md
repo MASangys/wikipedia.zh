@@ -103,7 +103,7 @@
 
 ## 參考
 
-[Category:油塘](https://zh.wikipedia.org/wiki/Category:油塘 "wikilink") [Category:觀塘區](https://zh.wikipedia.org/wiki/Category:觀塘區 "wikilink") [Category:觀塘區單幢式住宅](https://zh.wikipedia.org/wiki/Category:觀塘區單幢式住宅 "wikilink") [Category:觀塘區私人屋苑](https://zh.wikipedia.org/wiki/Category:觀塘區私人屋苑 "wikilink") [Category:2013年完工建築物](https://zh.wikipedia.org/wiki/Category:2013年完工建築物 "wikilink") [Category:麗新發展物業](https://zh.wikipedia.org/wiki/Category:麗新發展物業 "wikilink") [Category:麗新集團](https://zh.wikipedia.org/wiki/Category:麗新集團 "wikilink") [Category:香港私人屋苑](https://zh.wikipedia.org/wiki/Category:香港私人屋苑 "wikilink")
+[Category:油塘](https://zh.wikipedia.org/wiki/Category:油塘 "wikilink") [Category:觀塘區單幢式住宅](https://zh.wikipedia.org/wiki/Category:觀塘區單幢式住宅 "wikilink") [Category:觀塘區私人屋苑](https://zh.wikipedia.org/wiki/Category:觀塘區私人屋苑 "wikilink") [Category:2013年完工建築物](https://zh.wikipedia.org/wiki/Category:2013年完工建築物 "wikilink") [Category:麗新發展物業](https://zh.wikipedia.org/wiki/Category:麗新發展物業 "wikilink") [Category:麗新集團](https://zh.wikipedia.org/wiki/Category:麗新集團 "wikilink")
 
 1.  [油塘Ocean One呎價10326 麗展新盤突搶閘開價](http://www.mpfinance.com/htm/Finance/20121014/News/la_laa1.htm) 《明報》2012年10月14日
 2.  [油塘OCEAN ONE樓底10呎10吋](http://www.hkej.com/template/property/php/detail.php?title_id=9979)《信報》2012年10月14日

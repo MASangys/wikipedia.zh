@@ -61,6 +61,7 @@
 | 10th | 2017年2月8日   | [MONTAGE](../Page/MONTAGE.md "wikilink")                                                      |
 | 11th | 2018年3月21日  | [激情型カフネ/ラピスラズリ](https://zh.wikipedia.org/wiki/激情型カフネ/ラピスラズリ "wikilink")                       |
 | 12th | 2019年5月22日  | [SYM-BOLIC XXX](https://zh.wikipedia.org/wiki/SYM-BOLIC_XXX "wikilink")                       |
+| 13th | 2019年11月20日 | [紅蓮](https://zh.wikipedia.org/wiki/紅蓮 "wikilink")                                             |
 |      |             |                                                                                               |
 
 ### 專輯
@@ -125,7 +126,7 @@
 
   - [VALSHE官方Youtube頻道](http://youtube.com/user/OfficialVALSHE)
 
-[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:NICONICO動畫](https://zh.wikipedia.org/wiki/Category:NICONICO動畫 "wikilink") [Category:日本古倫美亞旗下藝人](https://zh.wikipedia.org/wiki/Category:日本古倫美亞旗下藝人 "wikilink")
+[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:日本女性搖滾歌手](https://zh.wikipedia.org/wiki/Category:日本女性搖滾歌手 "wikilink") [Category:NICONICO動畫](https://zh.wikipedia.org/wiki/Category:NICONICO動畫 "wikilink") [Category:日本古倫美亞旗下藝人](https://zh.wikipedia.org/wiki/Category:日本古倫美亞旗下藝人 "wikilink")
 
 1.
 2.

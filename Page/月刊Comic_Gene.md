@@ -108,7 +108,7 @@ exENDs（原作：まなーん、漫畫：トリ）
 
 ### 連載預定作品
 
-  - [ジーンメタリカ -機巧少女不會受傷 Re:Acta-](../Page/機巧少女不會受傷.md "wikilink")（漫畫：[釜田みさと](https://zh.wikipedia.org/wiki/釜田みさと "wikilink")、原作：[海冬零兒](../Page/海冬零兒.md "wikilink")、角色原案：[LLO](https://zh.wikipedia.org/wiki/LLO "wikilink")） - vol.22（2013年5月號）
+  - [ジーンメタリカ -機巧少女不會受傷 Re:Acta-](../Page/機巧少女不會受傷.md "wikilink")（漫畫：[釜田みさと](https://zh.wikipedia.org/wiki/釜田みさと "wikilink")、原作：[海冬零兒](../Page/海冬零兒.md "wikilink")、角色原案：[LLO](../Page/LLO.md "wikilink")） - vol.22（2013年5月號）
   - [魔法戰爭](../Page/魔法戰爭.md "wikilink")（漫畫：[伊吹有](https://zh.wikipedia.org/wiki/伊吹有 "wikilink")、原作：[鈴木央](../Page/鈴木央_\(小說家\).md "wikilink")、角色原案：[瑠奈璃亞](https://zh.wikipedia.org/wiki/瑠奈璃亞 "wikilink")） - vol.22（2013年5月號）
 
 ## 參考資料

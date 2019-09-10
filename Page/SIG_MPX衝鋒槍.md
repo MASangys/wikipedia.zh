@@ -257,7 +257,7 @@ SIG MPX採用兩根並聯的[複進簧](https://zh.wikipedia.org/wiki/複進簧 
 
   - —[D Boy Gun World（槍炮世界）—SIG MPX冲锋枪](http://firearmsworld.net/sigsauer/mpx/mpx.htm)
 
-[Category:衝鋒槍](https://zh.wikipedia.org/wiki/Category:衝鋒槍 "wikilink") [Category:9毫米魯格彈槍械](https://zh.wikipedia.org/wiki/Category:9毫米魯格彈槍械 "wikilink") [Category:.40_S\&W口徑槍械](https://zh.wikipedia.org/wiki/Category:.40_S&W口徑槍械 "wikilink") [Category:.357_SIG口徑槍械](https://zh.wikipedia.org/wiki/Category:.357_SIG口徑槍械 "wikilink") [Category:美國槍械](https://zh.wikipedia.org/wiki/Category:美國槍械 "wikilink") [Category:美國衝鋒槍](https://zh.wikipedia.org/wiki/Category:美國衝鋒槍 "wikilink")
+[Category:模塊化槍械](https://zh.wikipedia.org/wiki/Category:模塊化槍械 "wikilink") [Category:衝鋒槍](https://zh.wikipedia.org/wiki/Category:衝鋒槍 "wikilink") [Category:9毫米魯格彈槍械](https://zh.wikipedia.org/wiki/Category:9毫米魯格彈槍械 "wikilink") [Category:.40_S\&W口徑槍械](https://zh.wikipedia.org/wiki/Category:.40_S&W口徑槍械 "wikilink") [Category:.357_SIG口徑槍械](https://zh.wikipedia.org/wiki/Category:.357_SIG口徑槍械 "wikilink") [Category:美國槍械](https://zh.wikipedia.org/wiki/Category:美國槍械 "wikilink") [Category:美國衝鋒槍](https://zh.wikipedia.org/wiki/Category:美國衝鋒槍 "wikilink")
 
 1.
 

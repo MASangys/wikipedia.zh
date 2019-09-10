@@ -1,126 +1,36 @@
-**NC恐龍** () 是一支[韓國棒球委員會](../Page/韓國棒球委員會.md "wikilink")的球隊，成立於2011年。主場為[昌原市](../Page/昌原市.md "wikilink")的[馬山綜合運動場棒球場](https://zh.wikipedia.org/wiki/馬山綜合運動場棒球場 "wikilink")。2012年開始參加韓國職棒二軍聯盟的賽事。2013年賽季加入[韓國職棒](https://zh.wikipedia.org/wiki/韓國職棒 "wikilink")，成為該聯盟第9支球隊。 [NC_Dinos_Dandi_and_Sseri.JPG](https://zh.wikipedia.org/wiki/File:NC_Dinos_Dandi_and_Sseri.JPG "fig:NC_Dinos_Dandi_and_Sseri.JPG")
+**NC恐龍**（、），是[KBO聯賽](../Page/KBO聯賽.md "wikilink")的球隊之一，母企業為知名的遊戲公司[NCsoft](../Page/NCsoft.md "wikilink")，成立於[2011年](../Page/2011年.md "wikilink")2月8日，為[韓國職棒第二次擴編的首支新球隊](https://zh.wikipedia.org/wiki/韓國職棒 "wikilink")，也是聯盟的第九支球隊，並依規定於[2012年](../Page/2012年.md "wikilink")先打一年二軍，後於[2013年](../Page/2013年.md "wikilink")正式升上一軍，主場為位於[慶尚南道](https://zh.wikipedia.org/wiki/慶尚南道 "wikilink")[昌原市](../Page/昌原市.md "wikilink")的[昌原NC球場](https://zh.wikipedia.org/wiki/昌原NC球場 "wikilink")。
+
+[NC_Dinos_Dandi_and_Sseri.JPG](https://zh.wikipedia.org/wiki/File:NC_Dinos_Dandi_and_Sseri.JPG "fig:NC_Dinos_Dandi_and_Sseri.JPG")
 
 ## 球隊歷史
 
-2010年[韓國職棒決議成立以](https://zh.wikipedia.org/wiki/韓國職棒 "wikilink")[昌原市](../Page/昌原市.md "wikilink")為主場的第9支球團，隔年[NCSoft於年初成功爭取到第](https://zh.wikipedia.org/wiki/NCSoft "wikilink")9球團之組建權，並在年中正式定名為**NC恐龍隊**。並在2012年開始參加二軍賽事，隔年開始參加一軍賽事，並在第一個球季以第七名作收。2014年獲得年度第三名，創下職棒新軍於一軍賽事的第二年便晉級到季後賽的新紀錄。2016年首次晉級至[韓國大賽](https://zh.wikipedia.org/wiki/韓國大賽 "wikilink")，但最終四戰僅獲得兩分，遭[斗山熊隊橫掃](https://zh.wikipedia.org/wiki/斗山熊隊 "wikilink")。
+[2010年](https://zh.wikipedia.org/wiki/2010年 "wikilink")，[韓國棒球委員會](../Page/韓國棒球委員會.md "wikilink")決議進行第二次擴編，並要求新成立的球隊必須以[慶尚南道的](https://zh.wikipedia.org/wiki/慶尚南道 "wikilink")[昌原市](../Page/昌原市.md "wikilink")當作主場根據地，隔年1月遊戲公司[NCSoft成功獲得新球隊的組建權](https://zh.wikipedia.org/wiki/NCSoft "wikilink")，並在年中正式定名為**NC恐龍**，並於[2012年](../Page/2012年.md "wikilink")開始參加二軍賽事，隔年升上一軍，主場為[昌原市](../Page/昌原市.md "wikilink")內的[馬山綜合運動場棒球場](https://zh.wikipedia.org/wiki/馬山綜合運動場棒球場 "wikilink")，在創隊總教練[金卿文的帶領下](https://zh.wikipedia.org/wiki/金卿文 "wikilink")，首個球季以第七名作收，拿下韓職史上首支新球隊首年未墊底的罕見表現，而[2014年](../Page/2014年.md "wikilink")獲得年度第三名，創下職棒新軍於第二年便晉級到季後賽的新紀錄。
 
-## 歷代監督
+[2019年](../Page/2019年.md "wikilink")，將主場遷至[馬山綜合運動場棒球場旁邊新落成的](https://zh.wikipedia.org/wiki/馬山綜合運動場棒球場 "wikilink")[昌原NC球場](https://zh.wikipedia.org/wiki/昌原NC球場 "wikilink")，同時也將球衣小幅改款。
 
-|     |       |       |    |      |
-| --- | ----- | ----- | -- | ---- |
-| 教練名 | 接任年份  | 解任年份  | 冠軍 | 備註   |
-| 金卿文 | 2012年 | 2018年 |    | 季中解任 |
-| 俞英濬 | 2018年 | 2018年 |    | 代理   |
-| 李東昱 | 2019年 |       |    |      |
+## 歷代總教練
 
-<noinclude></noinclude>
-
-## 成員組成
+|                                                     |       |       |    |      |
+| --------------------------------------------------- | ----- | ----- | -- | ---- |
+| 教練名                                                 | 接任年份  | 解任年份  | 冠軍 | 備註   |
+| [金卿文](https://zh.wikipedia.org/wiki/金卿文 "wikilink") | 2012年 | 2018年 |    | 季中解任 |
+| [俞英濬](https://zh.wikipedia.org/wiki/俞英濬 "wikilink") | 2018年 | 2018年 |    | 代理   |
+| [李東昱](https://zh.wikipedia.org/wiki/李東昱 "wikilink") | 2019年 |       |    | 現任   |
 
 ## 歷年戰績
 
-<table>
-<thead>
-<tr class="header">
-<th><p>年度</p></th>
-<th><p>主場</p></th>
-<th><p>名次</p></th>
-<th><p>例行賽</p></th>
-<th><p>季後賽</p></th>
-<th><p>獎項</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>排名</p></td>
-<td><p>場數</p></td>
-<td><p>勝</p></td>
-<td><p>負</p></td>
-<td><p>和</p></td>
-<td><p>勝率</p></td>
-</tr>
-<tr class="even">
-<td><p>2013</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/馬山綜合運動場棒球場" title="wikilink">馬山綜合運動場棒球場</a></p></td>
-<td><p>7/9</p></td>
-<td><p>7/9</p></td>
-<td><p>128</p></td>
-<td><p>52</p></td>
-</tr>
-<tr class="odd">
-<td><p>2014</p></td>
-<td><p>4/9</p></td>
-<td><p>3/9</p></td>
-<td><p>128</p></td>
-<td><p>70</p></td>
-<td><p>57</p></td>
-</tr>
-<tr class="even">
-<td><p>2015</p></td>
-<td><p>3/10</p></td>
-<td><p>2/10</p></td>
-<td><p>144</p></td>
-<td><p>84</p></td>
-<td><p>57</p></td>
-</tr>
-<tr class="odd">
-<td><p>2016</p></td>
-<td><p>2/10</p></td>
-<td><p>2/10</p></td>
-<td><p>144</p></td>
-<td><p>83</p></td>
-<td><p>58</p></td>
-</tr>
-<tr class="even">
-<td><p>2017</p></td>
-<td><p>4/10</p></td>
-<td><p>4/10</p></td>
-<td><p>144</p></td>
-<td><p>79</p></td>
-<td><p>62</p></td>
-</tr>
-<tr class="odd">
-<td><p>2018</p></td>
-<td><p>10/10</p></td>
-<td><p>10/10</p></td>
-<td><p>144</p></td>
-<td><p>58</p></td>
-<td><p>85</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p>合計</p></td>
-<td><p>勝</p></td>
-<td><p>負</p></td>
-<td><p>和局</p></td>
-<td><p>勝率</p></td>
-</tr>
-<tr class="odd">
-<td><p>例行賽</p></td>
-<td><p>426</p></td>
-<td><p>391</p></td>
-<td><p>15</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>季後賽</p></td>
-<td><p>11</p></td>
-<td><p>16</p></td>
-<td><p>0</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| 年度   | 名次              | 場數  | 勝  | 敗  | 和 | 勝率   | 備註 |
+| ---- | --------------- | --- | -- | -- | - | ---- | -- |
+|      |                 |     |    |    |   |      |    |
+| 2012 | **依規定只能參與二軍比賽** |     |    |    |   |      |    |
+| 2013 | 7               | 128 | 52 | 72 | 4 | .419 |    |
+| 2014 | 4               | 128 | 70 | 57 | 1 | .551 |    |
+| 2015 | 3               | 144 | 84 | 57 | 3 | .596 |    |
+| 2016 | 2               | 144 | 83 | 58 | 3 | .589 |    |
+| 2017 | 4               | 144 | 79 | 62 | 3 | .560 |    |
+| 2018 | 10              | 144 | 58 | 85 | 1 | .406 |    |
+
+## 現役成員
 
 ## 外部連結
 
@@ -131,4 +41,4 @@
 
 [Category:韓國職棒球隊](https://zh.wikipedia.org/wiki/Category:韓國職棒球隊 "wikilink")
 
-[Category:紀錄模板](https://zh.wikipedia.org/wiki/Category:紀錄模板 "wikilink") [Category:韓國職棒](https://zh.wikipedia.org/wiki/Category:韓國職棒 "wikilink") [Category:NCsoft](https://zh.wikipedia.org/wiki/Category:NCsoft "wikilink")
+[Category:韓國職棒](https://zh.wikipedia.org/wiki/Category:韓國職棒 "wikilink") [Category:NCsoft](https://zh.wikipedia.org/wiki/Category:NCsoft "wikilink")

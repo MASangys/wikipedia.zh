@@ -1,4 +1,4 @@
-**玛蒂尔达I型坦克**（**Matilda I**）（A11）\[1\]是一种[英国於](https://zh.wikipedia.org/wiki/英国 "wikilink")[第二次世界大战](../Page/第二次世界大战.md "wikilink")期間使用的[步兵坦克](https://zh.wikipedia.org/wiki/步兵坦克 "wikilink")。它不与同样名為“玛蒂尔达”及接替了它的[玛蒂尔达II型坦克](../Page/瑪蒂達_II.md "wikilink")（A12）混为一谈。尽管它们有一些相似的特征——作为步兵战车，往往牺牲速度来增加装甲防护。但是它们是两种完全不同的设计，并且没有共用组件。
+**玛蒂尔达I型坦克**（**Matilda I**）（A11）\[1\]是一种[英国於](https://zh.wikipedia.org/wiki/英国 "wikilink")[第二次世界大战](../Page/第二次世界大战.md "wikilink")期間使用的[步兵坦克](https://zh.wikipedia.org/wiki/步兵坦克 "wikilink")。它不能与同样名為“玛蒂尔达”及接替了它的[玛蒂尔达II型坦克](../Page/瑪蒂達_II.md "wikilink")（A12）混为一谈。尽管它们有一些相似的特征——作为步兵战车，往往牺牲速度来增加装甲防护。但是它们是两种完全不同的设计，并且没有共用组件。
 
 ## 研制过程
 

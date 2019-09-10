@@ -12,6 +12,8 @@
 
 2018年4月9日，Pivotal計劃以每股14美元至16美元的價格發行3700萬部A類普通股，最高融資5.92億美元。在[紐約證券交易所上市](https://zh.wikipedia.org/wiki/紐約證券交易所 "wikilink")，交易代碼為“PVTL”。
 
+2019年8月22日[VMware](../Page/VMware.md "wikilink")以27億美元收購Pivotal
+
 ## 产品与服务
 
   - [Cloud Foundry](https://zh.wikipedia.org/wiki/Cloud_Foundry "wikilink")

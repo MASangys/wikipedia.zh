@@ -59,14 +59,14 @@ The Austin自設住客會所，分布於地下至5樓，總面積約5.96萬呎�
 <ul>
 <li><font color="{{西鐵綫色彩}}">█</font><a href="../Page/西鐵綫.md" title="wikilink">西鐵綫</a>：<a href="../Page/柯士甸站.md" title="wikilink">柯士甸站</a></li>
 <li><font color="{{東涌綫色彩}}">█</font><a href="../Page/東涌綫.md" title="wikilink">東涌綫</a>、<font color={{機場快綫色彩}}>█</font><a href="../Page/機場快綫.md" title="wikilink">機場快綫</a>：<a href="../Page/九龍站_(港鐵).md" title="wikilink">九龍站</a></li>
-<li><a href="../Page/廣深港高速鐵路.md" title="wikilink">廣深港高速鐵路</a>：<a href="../Page/香港西九龍站.md" title="wikilink">香港西九龍站</a></li>
+<li><font color="{{廣深港高速鐵路色彩}}">█<a href="../Page/廣深港高速鐵路.md" title="wikilink">廣深港高速鐵路</a>：<a href="../Page/香港西九龍站.md" title="wikilink">香港西九龍站</a></li>
 </ul>
 <dl>
 <dt><a href="../Page/香港巴士.md" title="wikilink">巴士</a></dt>
 
 </dl>
 <dl>
-<dt><a href="https://zh.wikipedia.org/wiki/香港小巴" title="wikilink">專綫小巴</a></dt>
+<dt><a href="https://zh.wikipedia.org/wiki/香港小巴" title="wikilink">小巴</a></dt>
 
 </dl></td>
 </tr>

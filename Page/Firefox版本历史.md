@@ -1,1893 +1,362 @@
-此條目為[Mozilla Firefox發佈紀錄](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")。
+**[Mozilla Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")**[網頁瀏覽器最初是由](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")[Mozilla Application Suite所分支的的實驗性專案](../Page/Mozilla_Application_Suite.md "wikilink")，由[戴夫·海厄特](../Page/戴夫·海厄特.md "wikilink")及[布雷克·罗斯所](https://zh.wikipedia.org/wiki/布雷克·罗斯 "wikilink")-{zh-hans:创建; zh-hant:建立}-。Firefox 1.0於2004年11月9日發行。
 
-## 正式和未來發佈版本
+## 早期版本
 
-### 正式發佈版本
+Firefox起源於叫做「m／b」（或稱mozilla／browser）的[Mozilla Suite實驗性分支](https://zh.wikipedia.org/wiki/Mozilla_Suite "wikilink")。Firefox保留Mozilla Suite原有的跨平台特性，使用了[XUL](../Page/XUL.md "wikilink")使用者介面語言。XUL的運用使得能利用[佈景主題與擴充套件來延伸瀏覽器功能](https://zh.wikipedia.org/wiki/皮肤_\(电脑\) "wikilink")。然而附加元件的開發與安裝衍生了一些安全性問題，因此在Firefox 0.9釋出時，Mozilla基金會同時公開Mozilla Update網站（即後來的[Mozilla Add-ons網站](https://zh.wikipedia.org/wiki/Mozilla_Add-ons "wikilink")）來提供「合法的」佈景主題與擴充套件。XUL的運用將Firefox從其它使用Gecko排版引擎開發的瀏覽器（如[Galeon](../Page/Galeon.md "wikilink")、[Epiphany使用](https://zh.wikipedia.org/wiki/Epiphany "wikilink")[GTK+](https://zh.wikipedia.org/wiki/GTK+ "wikilink")、[K-Meleon](../Page/K-Meleon.md "wikilink")使用[MFC與](https://zh.wikipedia.org/wiki/MFC "wikilink")[Camino](../Page/Camino.md "wikilink")使用[Cocoa](../Page/Cocoa.md "wikilink")）及大多數其它使用原生作業系統介面的瀏覽器中區別開來。
 
-:\*Firefox 68.0.2
+### Phoenix 和 Firebird
 
-:\*Firefox 60.8.0 ESR
+[Phoenix_0.1.png](https://zh.wikipedia.org/wiki/File:Phoenix_0.1.png "fig:Phoenix_0.1.png") 2002年9月，以Phoenix為名，釋出測試用執行檔而正式問世。Phoenix朝著和其上游的Mozilla Suite完全不同的開發方向進行。相較於Mozilla Suite是以資深工程師為首，組織大型開發團隊的大型應用軟體，Phoenix的開發成員，則是特別專注於網頁瀏覽功能的小型核心式團隊。這種小型志願專案的形式源自於更早期，[戴夫·海厄特](../Page/戴夫·海厄特.md "wikilink")與[本·古德傑](../Page/本·古德傑.md "wikilink")以[Netscape和](../Page/網景_\(瀏覽器\).md "wikilink")[Internet Explorer為基礎](../Page/Internet_Explorer.md "wikilink")，使用[C♯](../Page/C♯.md "wikilink")和[.NET語言撰寫的Manticore瀏覽器](https://zh.wikipedia.org/wiki/.NET "wikilink")。Manticore意在以精幹的軟體型態，提供基本瀏覽功能；而[布雷克·羅斯](../Page/布雷克·羅斯.md "wikilink")和戴夫·海厄特的Phoenix計畫，則著眼於瀏覽體驗的創新。致力於將安全及效能作為支柱，且不被Netscape的商業心態的約束，才能開發出一個「完全替終端使用者量身訂造」的瀏覽器。Phoenix這個名字一直使用至2003年4月14日，因為與[BIOS](../Page/BIOS.md "wikilink")製造商Phoenix Technologies的商標糾紛而更名\[1\]\[2\]。
 
-### 未來發佈版本\[1\]
+在2003年4月，Mozilla宣佈他們的新瀏覽器將命名為Firebird，以避開與Phoenix的爭議。Firebird是個通過自焚重生的神話生物[不死鳥](https://zh.wikipedia.org/wiki/不死鳥 "wikilink")，有時也被認為是[鳳凰的別稱](https://zh.wikipedia.org/wiki/鳳凰 "wikilink")。這個新名字引起了許多不同的反應，特別是激起了早以[Firebird為名的自由軟體資料庫專案強烈反彈](https://zh.wikipedia.org/wiki/Firebird_\(資料庫\) "wikilink")。因應於此，[Mozilla基金會](../Page/Mozilla基金會.md "wikilink")亦表示他們將會永遠使用「Mozilla Firebird」的名稱，以避免和Firebird資料庫混淆\[3\]\[4\]。
 
-:\*Firefox 69.0
+| Phoenix發行歷史 |
+| ----------- |
+| Gecko版本     |
+| 1.2         |
+| 0.2         |
+| 0.3         |
+| 1.3         |
+| 0.5         |
+|             |
 
-:\*Firefox 70.0
+| Firebird發行歷史 |
+| ------------ |
+| Gecko版本      |
+| 1.5          |
+| 0.6.1        |
+| 0.7          |
+| 0.7.1        |
+|              |
 
-:\*Firefox 71.0
+### Firefox
 
-### 現行測試版本
+[Mozilla_Firefox_1.0_front_page_screenshot.png](https://zh.wikipedia.org/wiki/File:Mozilla_Firefox_1.0_front_page_screenshot.png "fig:Mozilla_Firefox_1.0_front_page_screenshot.png") 來自Firebird社群的持續壓力，迫使2004年2月9日的另一次改變，Mozilla Phoenix計劃再次更名成Mozilla Firefox（簡稱Firefox）。「Firefox」是「小熊貓」的暱稱，因為它和「Firebird」的相似性、以及它在資訊產業中的獨特性而雀屏中選。
 
-:\*Firefox 69.0 Beta
+為了確保不會再有變更名稱的問題，Mozilla基金會在2003年12月向[美國專利商標局申請註冊Firefox商標](https://zh.wikipedia.org/wiki/美國專利商標局 "wikilink")\[5\]。不幸的是此時發現，在英國Firefox已是Charlton Company軟體公司的註冊商標。這個問題導致Firefox 0.8延遲了幾個月釋出，在Mozilla基金會取得Charlton Company的歐洲商標使用權後順利解決\[6\]\[7\]。
 
-:\*Firefox 70.0 Nightly
+Mozilla官方建議的Firefox縮寫为[Fx或fx](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")\[8\]，但一般大眾有時寫成而并非想当然的[FF](https://zh.wikipedia.org/wiki/FF "wikilink") \[9\]。雖然firefox在英文俗語中指的是[小熊貓](https://zh.wikipedia.org/wiki/小熊貓 "wikilink")，但[吉祥物及官方圖示都是](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")[狐狸](https://zh.wikipedia.org/wiki/狐狸 "wikilink")。
 
-### 未來測試版本
+2004年2月5日，商業和IT顧問公司AMS將Mozilla Firefox（當時稱為Firebird）歸類為「Tier 1」（最佳的）等級的開放原始碼產品，AMS認為Firebird擁有優秀的技術和幾乎沒有風險\[10\]。
 
-:\*Firefox 70.0 Beta
+Firefox 1.0發表於2004年11月9日\[11\]。当时Mozilla基金会藉由募捐的方式，在[纽约时报](../Page/纽约时报.md "wikilink")上面刊登了整版的广告。儘管Mozilla基金會一直希望能讓Mozilla Suite走入歷史，用Firefox來取代它，但由於還有許多企業用戶使用，也被一些第三方軟體包裹在內，因此Mozilla基金會仍然持續維持更新，直至2006年4月12號\[12\]。在那之後，Mozilla社群改以[SeaMonkey](../Page/SeaMonkey.md "wikilink")為產品名稱，繼續發行新版的Mozilla Suite\[13\]。
 
-:\*Firefox 71.0 Beta
+| Firefox發行歷史 |
+| ----------- |
+|             |
+| Gecko版本     |
+| 1.6         |
+| 1.7         |
+| 0.9.1       |
+| 0.9.2       |
+| 0.9.3       |
+| 0.10        |
+| 0.10.1      |
+|             |
 
-:\*Firefox 72.0 Beta
+| Firefox 1發行歷史 |
+| ------------- |
+|               |
+| Gecko版本       |
+| 1.7           |
+| 1.0 RC2       |
+| 1.0           |
+| 1.0.1         |
+| 1.0.2         |
+| 1.0.3         |
+| 1.0.4         |
+| 1.0.5         |
+| 1.0.6         |
+| 1.0.7         |
+| 1.0.8         |
+|               |
 
-:\*Firefox 71.0 Nightly
+### Firefox 1.5
 
-:\*Firefox 72.0 Nightly
+[Delicious_delicacies-Firefox0.9.3-Knoppix671.png](https://zh.wikipedia.org/wiki/File:Delicious_delicacies-Firefox0.9.3-Knoppix671.png "fig:Delicious_delicacies-Firefox0.9.3-Knoppix671.png")早期敘述。這個敘述很快的在之後的版本被刪除了。\]\] Firefox 1.5發表於2005年11月30日。最初計劃在1.0之後推出1.1版本的新版本Firefox，更高版本（1.5）在獨立的分支中進行開發，但是在2005年兩個分支和功能都被合併（Mozilla基金會在前兩個Alpha版本之後放棄了1.1版本發布計劃）。
 
-:\*Firefox 73.0 Nightly
+早期的Firefox使用者一定記得，Firefox 0.9的選項對話方塊中，在設定[Cookie](../Page/Cookie.md "wikilink")的地方是這樣解釋Cookie的：「Cookie是精緻的美味。」（"Cookies are delicious delicacies."）。這個解釋如傳奇一般流傳開來，它讓開發人員感覺到幽默和傳神，但是卻令普通使用者如墜雲霧。實際上，布雷克·羅斯當時只是一時找不到一句簡短的描述來解釋Cookie，便隨手寫下了這句話放在這裡占位置。他後來解釋道：「在這麼小的空間裡面解釋這麼複雜的東西，坦白的說，我想最後我可能要重寫整個Cookie管理器」。這個對普通使用者不友好的特性後來作為一個[Bug被提出到](https://zh.wikipedia.org/wiki/Bug "wikilink")[Bugzilla](../Page/Bugzilla.md "wikilink")資料庫，並在2004年7月被「修正」\[14\]\[15\]。現在，這個文字被取代成了索然無味的：「Cookie是網站在您的電腦中儲存的訊息『片段』。一般用來記住登入訊息或其它資料。」。不過故事並沒有結束，「精緻美味」傳說的終結引起了一些人的不滿，於是Jesse Ruderman專門開發了一個Delicious Delicacies擴充套件用來將那個描述取消復原成原來的文字\[16\]。在中文版本中，一直到1.5版本，這個著名的句子才被取代掉。
 
-## 版本歷史
+| Firefox 1.5發行歷史                                                                   |
+| --------------------------------------------------------------------------------- |
+|                                                                                   |
+| 瀏覽器名稱                                                                             |
+| **[Firefox 1.5](https://zh.wikipedia.org/wiki/Firefox歷史#Firefox_1.5 "wikilink")** |
+| 1.1a2                                                                             |
+| 1.5b1                                                                             |
+| 1.5b2                                                                             |
+| 1.5 RC1                                                                           |
+| 1.5 RC2                                                                           |
+| 1.5 RC3                                                                           |
+| 1.5                                                                               |
+| 1.5.0.1                                                                           |
+| 1.5.0.2                                                                           |
+| 1.5.0.3                                                                           |
+| 1.5.0.4                                                                           |
+| 1.5.0.5                                                                           |
+| 1.5.0.6                                                                           |
+| 1.5.0.7                                                                           |
+| 1.5.0.8                                                                           |
+| 1.5.0.9                                                                           |
+| 1.5.0.10                                                                          |
+| 1.5.0.11                                                                          |
+| 1.5.0.12                                                                          |
+|                                                                                   |
 
-發布日期及版本編號以英文版為準，也可以參見[Mozilla的-{zh-tw:伺服器;zh-cn:服务器}-](https://archive.mozilla.org/pub/firefox/releases/)-{zh-tw:釋出;zh-cn:发布}-的信息。
+### Firefox 2.0
 
-### 早期版本
+[Wikipedia_Main_Page_in_Firefox_2.0.0.12.png](https://zh.wikipedia.org/wiki/File:Wikipedia_Main_Page_in_Firefox_2.0.0.12.png "fig:Wikipedia_Main_Page_in_Firefox_2.0.0.12.png")
 
-<section begin=color table />
+Firefox 2.0發表於2006年10月24日。此版本包括對分頁瀏覽環境、附加元件管理員、GUI（圖形使用介面）以及尋找，搜尋和軟體更新引擎的改進。此外還完成了一個新的瀏覽還原功能、即時拼字檢查和一個反釣魚功能，該功能由Google作為附加元件，後來合併到程式當中。Firefox 2.0.0.20是該系列的最後一個版本\[17\]。Firefox 2.0發布後，微軟Internet Explorer團隊送上蛋糕，祝賀Firefox 2發佈\[18\]。
 
-|  |     |  |       |  |        |  |      |  |      |  |         |  |         |                                                     |
-|  | --- |  | ----- |  | ------ |  | ---- |  | ---- |  | ------- |  | ------- | :-------------------------------------------------: |
-|  | 舊版本 |  | 舊測試版本 |  | 舊版本─支援 |  | 最新版本 |  | 未來版本 |  | 目前的測試版本 |  | 未來的測試版本 | [置頂](https://zh.wikipedia.org/wiki/#Top "wikilink") |
+| Firefox 2發行歷史 |
+| ------------- |
+| Gecko版本       |
+| 1.8.1         |
+| 2.0a2         |
+| 2.0a3         |
+| 2.0b1         |
+| 2.0b2         |
+| 2.0 RC1       |
+| 2.0 RC2       |
+| 2.0 RC3       |
+| 2.0           |
+| 2.0.0.1       |
+| 2.0.0.2       |
+| 2.0.0.3       |
+| 2.0.0.4       |
+| 2.0.0.5       |
+| 2.0.0.6       |
+| 2.0.0.7       |
+| 2.0.0.8       |
+| 2.0.0.9       |
+| 2.0.0.10      |
+| 2.0.0.11      |
+| 2.0.0.12      |
+| 2.0.0.13      |
+| 2.0.0.14      |
+| 2.0.0.15      |
+| 2.0.0.16      |
+| 2.0.0.17      |
+| 2.0.0.18      |
+| 2.0.0.19      |
+| 2.0.0.20      |
+|               |
 
-<section end=color table />
+### Firefox 3.0
 
-<table>
-<thead>
-<tr class="header">
-<th><p>瀏覽器名稱</p></th>
-<th><p>Gecko版本</p></th>
-<th><p>版本</p></th>
-<th><p>开发代號</p></th>
-<th><p>發布日期</p></th>
-<th><p>重要改进</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Firefox歷史#Phoenix" title="wikilink">Phoenix</a></strong></p></td>
-<td><p>1.2</p></td>
-<td><p>0.1</p></td>
-<td><p><em>Pescadero</em></p></td>
-<td><p>2002年9月23日</p></td>
-<td><p><em>最初的釋出版</em>[2]</p>
-<ul>
-<li>可自訂工具列</li>
-<li>快速搜尋</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td><p>0.2</p></td>
-<td><p><em><a href="../Page/聖塔克魯茲_(加利福尼亞州).md" title="wikilink">Santa Cruz</a></em></p></td>
-<td><p>2002年10月1日</p></td>
-<td><p><em>官方版0.2釋出</em>[3]</p>
-<ul>
-<li>新增側邊欄</li>
-<li>新增擴充套件管理</li>
-<li>新增搜尋列</li>
-<li>新增按 + 滑鼠滾輪來調整字體大小</li>
-</ul></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>0.3</p></td>
-<td><p><em>Lucia</em></p></td>
-<td><p>2002年10月14日</p></td>
-<td><p><em>官方版0.3釋出</em>[4]</p>
-<ul>
-<li>新增圖片封鎖</li>
-<li>新增彈出視窗封鎖白名單</li>
-<li>改良分頁瀏覽</li>
-<li>大小和速度改進</li>
-</ul></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1.3</p></td>
-<td><p>0.4</p></td>
-<td><p><em>Oceano</em></p></td>
-<td><p>2002年10月19日</p></td>
-<td><p><em>官方版0.4釋出</em>[5]</p>
-<ul>
-<li>改良彈出視窗封鎖功能</li>
-<li>改良自訂工具列</li>
-<li>改良分頁瀏覽和快捷鍵</li>
-<li>佈景主題</li>
-</ul></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>0.5</p></td>
-<td><p><em>Naples</em></p></td>
-<td><p>2002年12月7日</p></td>
-<td><p><em>官方版0.5釋出</em>[6]</p>
-<ul>
-<li>新增允許使用“{{!}}”符號開啟多個首頁</li>
-<li>改良歷史紀錄</li>
-<li>改良側邊欄</li>
-<li>大小和記憶體減少</li>
-<li>性能改進</li>
-<li>穩定性改進</li>
-</ul></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Firefox歷史#Firebird" title="wikilink">Firebird</a></strong></p></td>
-<td><p>1.5</p></td>
-<td><p>0.6</p></td>
-<td><p><em><a href="https://zh.wikipedia.org/wiki/格倫代爾_(加利福尼亞州)" title="wikilink">Glendale</a></em></p></td>
-<td><p>2003年5月17日</p></td>
-<td><p><em>官方版0.6釋出</em>[7]</p>
-<ul>
-<li>新的預設佈景主題（Qute）</li>
-<li>重新設計選項視窗</li>
-<li>改良隱私選項</li>
-<li>改良書籤</li>
-<li>新增平滑捲動功能</li>
-<li>相容Mac OS X</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><p>0.6.1</p></td>
-<td><p>2003年7月28日</p></td>
-<td><p><em>錯誤修正發行版</em>[8]</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>0.7</p></td>
-<td><p><em><a href="https://zh.wikipedia.org/wiki/印第奥_(加利福尼亚州)" title="wikilink">Indio</a></em></p></td>
-<td><p>2003年10月15日</p></td>
-<td><p><em>技術預覽版</em>[9]</p>
-<ul>
-<li>選項視窗新增「進階」選項</li>
-<li>新增Cookie白名單功能</li>
-<li>新的密碼管理員</li>
-<li>自動捲動</li>
-</ul></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>0.7.1</p></td>
-<td><p><em>Three Kings</em></p></td>
-<td><p>2003年10月26日</p></td>
-<td><p><em>錯誤修正發行版（-{只}-有Mac OS X）</em>[10]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Firefox歷史#Firefox" title="wikilink">Firefox</a></strong></p></td>
-<td><p>1.6</p></td>
-<td><p>0.8</p></td>
-<td><p><em>Royal Oak</em></p></td>
-<td><p>2004年2月9日</p></td>
-<td><p><em>技術預覽版</em>[11]</p>
-<ul>
-<li>重新設計的標誌</li>
-<li>Windows作業系統提供安裝程式</li>
-<li>新增下載管理員</li>
-<li>離線作業</li>
-<li>Mac OS X新的預設佈景主題</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><p>1.7</p></td>
-<td><p>0.9</p></td>
-<td><p><em><a href="https://zh.wikipedia.org/wiki/獨樹山" title="wikilink">One Tree Hill</a></em></p></td>
-<td><p>2004年6月15日</p></td>
-<td><p><em>技術預覽版</em>[12]</p>
-<ul>
-<li>新的預設佈景主題（Winstripe）</li>
-<li>能將Internet Explorer中的設定匯入到Firefox中</li>
-<li>擴充套件／佈景主題管理員</li>
-<li>線上說明系統</li>
-<li>Linux作業系統提供安裝程式</li>
-</ul></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>0.9.1</p></td>
-<td><p>2004年6月28日</p></td>
-<td><p><em>錯誤修正發行版</em></p>
-<ul>
-<li>更新預設佈景主題[13]</li>
-</ul></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>0.9.2</p></td>
-<td><p>2004年7月8日</p></td>
-<td><p><em>漏洞修正（只有Windows）</em>[14]</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>0.9.3</p></td>
-<td><p>2004年8月4日</p></td>
-<td><p><em>漏洞修正</em>[15]</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>0.10</p></td>
-<td><p><em>Greenlane</em></p></td>
-<td><p>2004年9月14日</p></td>
-<td><p><em>技術預覽版</em>[16]</p>
-<ul>
-<li>高度複雜和風險的錯誤修正</li>
-<li>本地化支援</li>
-<li>支援<a href="../Page/RSS.md" title="wikilink">RSS</a>／<a href="https://zh.wikipedia.org/wiki/Atom" title="wikilink">Atom</a></li>
-<li>尋找工具列、外掛程式搜尋</li>
-</ul></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>0.10.1</p></td>
-<td><p>2004年10月1日</p></td>
-<td><p><em>漏洞修正</em>[17]</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Firefox歷史#Firefox_1.0" title="wikilink">Firefox 1</a></strong></p></td>
-<td><p>1.0 RC1</p></td>
-<td><p><em>Mission Bay</em></p></td>
-<td><p>2004年10月18日</p></td>
-<td><p><em>第一個候選版</em></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1.0 RC2</p></td>
-<td><p><em>Whangamata</em></p></td>
-<td><p>2004年10月25日</p></td>
-<td><p><em>第二個候選版</em></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1.0</p></td>
-<td><p><em><a href="../Page/鳳凰城_(亞利桑那州).md" title="wikilink">Phoenix</a></em></p></td>
-<td><p>2004年11月9日</p></td>
-<td><p><em>官方版Firefox 1.0釋出</em>[18]</p>
-<ul>
-<li>更好的分頁瀏覽控制方式</li>
-<li>提供更多種語言版本</li>
-</ul></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1.0.1</p></td>
-<td><p><em>Rose &amp; Crown</em></p></td>
-<td><p>2005年2月24日</p></td>
-<td><p><em>穩定性及安全性更新</em>[19]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1.0.2</p></td>
-<td></td>
-<td><p>2005年3月23日</p></td>
-<td><p><em>穩定性及安全性更新</em>[20]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1.0.3</p></td>
-<td></td>
-<td><p>2005年4月15日</p></td>
-<td><p><em>穩定性及安全性更新</em>[21]</p>
-<ul>
-<li>安裝程式改進</li>
-</ul></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1.0.4</p></td>
-<td></td>
-<td><p>2005年5月11日</p></td>
-<td><p><em>穩定性及安全性更新</em>[22]</p>
-<ul>
-<li>修正某些網站會遇到的DHTML問題</li>
-</ul></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1.0.5</p></td>
-<td></td>
-<td><p>2005年7月12日</p></td>
-<td><p><em>穩定性及安全性更新</em>[23]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1.0.6</p></td>
-<td></td>
-<td><p>2005年7月19日</p></td>
-<td><p><em>穩定性更新</em>[24]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1.0.7</p></td>
-<td></td>
-<td><p>2005年9月20日</p></td>
-<td><p><em>穩定性及安全性更新</em>[25]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1.0.8</p></td>
-<td></td>
-<td><p>2006年4月13日</p></td>
-<td><p><em>穩定性及安全性更新</em>[26]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Firefox歷史#Firefox_1.5" title="wikilink">Firefox 1.5</a></strong></p></td>
-<td><p>1.8</p></td>
-<td><p>1.1a1</p></td>
-<td><p><em>Deer Park</em></p></td>
-<td><p>2005年5月31日</p></td>
-<td><p><em>第一個Firefox 1.1預覽版</em>[27]</p></td>
-</tr>
-<tr class="odd">
-<td><p>1.1a2</p></td>
-<td></td>
-<td><p>2005年7月12日</p></td>
-<td><p><em>第二個Firefox 1.1預覽版</em>[28]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1.5b1</p></td>
-<td></td>
-<td><p>2005年9月9日</p></td>
-<td><p><em>第一個Firefox 1.5測試版</em>[29]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1.5b2</p></td>
-<td></td>
-<td><p>2005年10月6日</p></td>
-<td><p><em>第二個Firefox 1.5測試版</em>[30]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1.5 RC1</p></td>
-<td></td>
-<td><p>2005年11月1日</p></td>
-<td><p><em>第一个Firefox 1.5候选版</em></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1.5 RC2</p></td>
-<td></td>
-<td><p>2005年11月11日</p></td>
-<td><p><em>第二个Firefox 1.5候选版</em></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1.5 RC3</p></td>
-<td></td>
-<td><p>2005年11月17日</p></td>
-<td><p><em>第三个Firefox 1.5候选版</em></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1.5</p></td>
-<td><p><em>Firefox 1.5<br />
-<small>"Deer Park"</em></p></td>
-<td><p>2005年11月29日</p></td>
-<td><p><em>官方版Firefox 1.5釋出</em>[31]</p>
-<ul>
-<li>清除隱私資料</li>
-<li>上一頁和下一頁的速度變得更快</li>
-<li>改進網路標準
-<ul>
-<li>改進<a href="../Page/HTML.md" title="wikilink">HTML</a></li>
-<li>改進<a href="https://zh.wikipedia.org/wiki/CSS" title="wikilink">CSS</a></li>
-<li>改進<a href="https://zh.wikipedia.org/wiki/HTTP" title="wikilink">HTTP</a></li>
-<li>改進<a href="../Page/JavaScript.md" title="wikilink">JavaScript</a>／<a href="https://zh.wikipedia.org/wiki/DOM" title="wikilink">DOM</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/SVG" title="wikilink">SVG相容性</a></li>
-</ul></li>
-</ul></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1.5.0.1</p></td>
-<td></td>
-<td><p>2006年2月1日</p></td>
-<td><p><em>穩定性及安全性更新</em>[32]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1.5.0.2</p></td>
-<td></td>
-<td><p>2006年4月13日</p></td>
-<td><p><em>穩定性及安全性更新</em>[33]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1.5.0.3</p></td>
-<td></td>
-<td><p>2006年5月2日</p></td>
-<td><p><em>安全性更新</em>[34]</p>
-<ul>
-<li>修復<a href="http://www.mozilla.org/security/announce/2006/mfsa2006-30.html">阻斷服務的安全性問題</a></li>
-</ul></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1.5.0.4</p></td>
-<td></td>
-<td><p>2006年6月1日</p></td>
-<td><p><em>穩定性及安全性更新</em>[35]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1.5.0.5</p></td>
-<td></td>
-<td><p>2006年7月27日</p></td>
-<td><p><em>穩定性及安全性更新</em>[36]</p>
-<ul>
-<li>新增菲士蘭語言（fy-NL）</li>
-</ul></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1.5.0.6</p></td>
-<td></td>
-<td><p>2006年8月2日</p></td>
-<td><p><em>穩定性及安全性更新</em>[37]</p>
-<ul>
-<li>修復播放Windows Media影片的問題</li>
-</ul></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1.5.0.7</p></td>
-<td></td>
-<td><p>2006年9月14日</p></td>
-<td><p><em>穩定性及安全性更新</em>[38]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1.5.0.8</p></td>
-<td></td>
-<td><p>2006年11月7日</p></td>
-<td><p><em>穩定性及安全性更新</em>[39]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1.5.0.9</p></td>
-<td></td>
-<td><p>2007年1月24日</p></td>
-<td><p><em>穩定性及安全性更新</em>[40]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1.5.0.10</p></td>
-<td></td>
-<td><p>2007年2月23日</p></td>
-<td><p><em>穩定性及安全性更新</em>[41]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1.5.0.11</p></td>
-<td></td>
-<td><p>2007年3月20日</p></td>
-<td><p><em>穩定性及安全性更新</em>[42]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1.5.0.12</p></td>
-<td></td>
-<td><p>2007年5月30日</p></td>
-<td><p><em>穩定性及安全性更新</em>[43]</p>
-<ul>
-<li>最後一個Windows 95版本</li>
-</ul></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Firefox歷史#Firefox_2.0" title="wikilink">Firefox 2</a></strong></p></td>
-<td><p>1.8.1</p></td>
-<td><p>2.0a1</p></td>
-<td><p><em>Bon Echo</em></p></td>
-<td><p>2006年3月22日</p></td>
-<td><p><em>第一個Firefox 2.0預覽版</em>[44]</p></td>
-</tr>
-<tr class="odd">
-<td><p>2.0a2</p></td>
-<td></td>
-<td><p>2006年5月12日</p></td>
-<td><p><em>第二個Firefox 2.0預覽版</em>[45]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2.0a3</p></td>
-<td></td>
-<td><p>2006年5月26日</p></td>
-<td><p><em>第三個Firefox 2.0預覽版</em>[46]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2.0b1</p></td>
-<td></td>
-<td><p>2006年7月12日</p></td>
-<td><p><em>第一個Firefox 2.0測試版</em>[47]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2.0b2</p></td>
-<td></td>
-<td><p>2006年8月31日</p></td>
-<td><p><em>第二個Firefox 2.0測試版</em>[48]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2.0 RC1</p></td>
-<td></td>
-<td><p>2006年9月27日</p></td>
-<td><p><em>第一個Firefox 2.0候選版</em>[49]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2.0 RC2</p></td>
-<td></td>
-<td><p>2006年10月6日</p></td>
-<td><p><em>第二個Firefox 2.0候選版</em>[50]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2.0 RC3</p></td>
-<td></td>
-<td><p>2006年10月16日</p></td>
-<td><p><em>第三個Firefox 2.0候選版</em>[51]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2.0</p></td>
-<td><p><em>Firefox 2.0<br />
-<small>"Bon Echo"</em></p></td>
-<td><p>2006年10月24日</p></td>
-<td><p><em>官方版Firefox 2.0釋出</em>[52]</p>
-<ul>
-<li>佈景主題和使用介面更新</li>
-<li>內建網路釣魚防護</li>
-<li>改良分頁瀏覽</li>
-<li>瀏覽狀態回復</li>
-<li>改良附加元件管理員</li>
-<li>支援JavaScript 1.7</li>
-<li>提高擴充套件系統安全性</li>
-<li>支援SVG文字</li>
-<li>全新Windows安裝程式</li>
-</ul></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2.0.0.1</p></td>
-<td></td>
-<td><p>2006年12月19日</p></td>
-<td><p><em>穩定性及安全性更新</em>[53]</p>
-<ul>
-<li>支援Windows Vista</li>
-</ul></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2.0.0.2</p></td>
-<td></td>
-<td><p>2007年2月23日</p></td>
-<td><p><em>穩定性及安全性更新</em>[54]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2.0.0.3</p></td>
-<td></td>
-<td><p>2007年3月20日</p></td>
-<td><p><em>穩定性及安全性更新</em>[55]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2.0.0.4</p></td>
-<td></td>
-<td><p>2007年5月30日</p></td>
-<td><p><em>穩定性及安全性更新</em>[56]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2.0.0.5</p></td>
-<td></td>
-<td><p>2007年7月17日</p></td>
-<td><p><em>穩定性及安全性更新</em>[57]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2.0.0.6</p></td>
-<td></td>
-<td><p>2007年7月30日</p></td>
-<td><p><em>穩定性及安全性更新</em>[58]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2.0.0.7</p></td>
-<td></td>
-<td><p>2007年9月18日</p></td>
-<td><p><em>安全性更新</em>[59]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2.0.0.8</p></td>
-<td></td>
-<td><p>2007年10月18日</p></td>
-<td><p><em>穩定性及安全性更新</em>[60]</p>
-<ul>
-<li>支援Mac OS X 10.5</li>
-</ul></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2.0.0.9</p></td>
-<td></td>
-<td><p>2007年11月1日</p></td>
-<td><p><em>穩定性及安全性更新</em>[61]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2.0.0.10</p></td>
-<td></td>
-<td><p>2007年11月27日</p></td>
-<td><p><em>穩定性及安全性更新</em>[62]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2.0.0.11</p></td>
-<td></td>
-<td><p>2007年11月30日</p></td>
-<td><p><em>安全性更新</em>[63]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2.0.0.12</p></td>
-<td></td>
-<td><p>2008年2月8日</p></td>
-<td><p><em>穩定性及安全性更新</em>[64]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2.0.0.13</p></td>
-<td></td>
-<td><p>2008年3月25日</p></td>
-<td><p><em>穩定性及安全性更新</em>[65]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2.0.0.14</p></td>
-<td></td>
-<td><p>2008年4月16日</p></td>
-<td><p><em>穩定性更新</em>[66]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2.0.0.15</p></td>
-<td></td>
-<td><p>2008年7月1日</p></td>
-<td><p><em>穩定性及安全性更新</em>[67]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2.0.0.16</p></td>
-<td></td>
-<td><p>2008年7月15日</p></td>
-<td><p><em>安全性更新</em>[68]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2.0.0.17</p></td>
-<td></td>
-<td><p>2008年9月13日</p></td>
-<td><p><em>穩定性及安全性更新</em>[69]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2.0.0.18</p></td>
-<td></td>
-<td><p>2008年11月12日</p></td>
-<td><p><em>穩定性及安全性更新</em>[70]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2.0.0.19</p></td>
-<td></td>
-<td><p>2008年12月16日</p></td>
-<td><p><em>穩定性及安全性更新</em>[71]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2.0.0.20</p></td>
-<td></td>
-<td><p>2008年12月18日</p></td>
-<td><p><em>安全性更新</em>[72]</p>
-<ul>
-<li>最後一個Windows NT 4.0、Windows 9x、Mac OS X 10.2–10.3版本</li>
-</ul></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Firefox_3" title="wikilink">Firefox 3</a></strong></p></td>
-<td><p>1.9</p></td>
-<td><p>3.0a1</p></td>
-<td><p><em><a href="../Page/大帕拉迪索國家公園.md" title="wikilink">Gran Paradiso</a></em></p></td>
-<td><p>2006年12月8日</p></td>
-<td><p><em>第一個Firefox 3.0預覽版</em>[73]</p></td>
-</tr>
-<tr class="even">
-<td><p>3.0a2</p></td>
-<td></td>
-<td><p>2007年2月7日</p></td>
-<td><p><em>第二個Firefox 3.0預覽版</em>[74]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>3.0a3</p></td>
-<td></td>
-<td><p>2007年3月23日</p></td>
-<td><p><em>第三個Firefox 3.0預覽版</em>[75]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>3.0a4</p></td>
-<td></td>
-<td><p>2007年4月27日</p></td>
-<td><p><em>第四個Firefox 3.0預覽版</em>[76]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>3.0a5</p></td>
-<td></td>
-<td><p>2007年6月6日</p></td>
-<td><p><em>第五個Firefox 3.0預覽版</em>[77]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>3.0a6</p></td>
-<td></td>
-<td><p>2007年7月2日</p></td>
-<td><p><em>第六個Firefox 3.0預覽版</em>[78]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>3.0a7</p></td>
-<td></td>
-<td><p>2007年8月3日</p></td>
-<td><p><em>第七個Firefox 3.0預覽版</em>[79]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>3.0a8</p></td>
-<td></td>
-<td><p>2007年9月20日</p></td>
-<td><p><em>第八個Firefox 3.0預覽版</em>[80]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>3.0b1</p></td>
-<td></td>
-<td><p>2007年11月19日</p></td>
-<td><p><em>第一個Firefox 3.0测试版</em>[81]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>3.0b2</p></td>
-<td></td>
-<td><p>2007年12月18日</p></td>
-<td><p><em>第二個Firefox 3.0测试版</em>[82]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>3.0b3</p></td>
-<td></td>
-<td><p>2008年2月12日</p></td>
-<td><p><em>第三個Firefox 3.0测试版</em>[83]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>3.0b4</p></td>
-<td></td>
-<td><p>2008年3月10日</p></td>
-<td><p><em>第四個Firefox 3.0测试版</em>[84]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>3.0b5</p></td>
-<td></td>
-<td><p>2008年4月2日</p></td>
-<td><p><em>第五個Firefox 3.0测试版</em>[85]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>3.0 RC1</p></td>
-<td></td>
-<td><p>2008年5月16日</p></td>
-<td><p><em>第一個Firefox 3.0候選版</em>[86]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>3.0 RC2</p></td>
-<td></td>
-<td><p>2008年6月5日</p></td>
-<td><p><em>第二個Firefox 3.0候選版</em>[87]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>3.0 RC3</p></td>
-<td></td>
-<td><p>2008年6月11日</p></td>
-<td><p><em>第三個Firefox 3.0候選版</em>[88]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>3.0</p></td>
-<td><p><em>Firefox 3.0<br />
-<small>"<a href="../Page/大帕拉迪索國家公園.md" title="wikilink">Gran Paradiso</a>"</em></p></td>
-<td><p>2008年6月17日</p></td>
-<td><p><em>官方版Firefox 3.0釋出</em>[89]</p>
-<ul>
-<li>網站安全資訊</li>
-<li>惡意軟體防護</li>
-<li>阻擋偽造網頁</li>
-<li>新的SSL錯誤資訊頁面</li>
-<li>附加元件及外掛程式版本檢查</li>
-<li>下載管理員整合防毒功能</li>
-<li>Vista家長控制</li>
-<li>增加有效頂級域名服務（eTLD）更能確保Cookies及其他受限內容僅在同一網域名稱下運作</li>
-<li>更有效的防範跨網站JSON資料外洩</li>
-<li>密碼儲存</li>
-<li>簡化附加元件安裝過程</li>
-<li>新的下載管理員</li>
-<li>檔案下載續傳功能</li>
-<li>全頁面縮放</li>
-<li>改進與Windows的整合</li>
-<li>改進與Mac的整合</li>
-<li>使用Linux原生的GTK佈景主題</li>
-<li>從附加元件管理員下載並安裝附加元件</li>
-<li>Gecko 1.9改進CSS、SVG圖形及文字繪製架構</li>
-<li>色彩管理</li>
-<li>離線應用程式</li>
-<li>改善效能、減少記憶體使用量</li>
-<li>修正了近25000行程式碼</li>
-</ul></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>3.0.1</p></td>
-<td></td>
-<td><p>2008年7月16日</p></td>
-<td><p><em>穩定性及安全性更新</em>[90]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>3.0.2</p></td>
-<td></td>
-<td><p>2008年9月23日</p></td>
-<td><p><em>穩定性及安全性更新</em>[91]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>3.0.3</p></td>
-<td></td>
-<td><p>2008年9月26日</p></td>
-<td><p><em>穩定性及安全性更新</em>[92]</p>
-<ul>
-<li>修正儲存密碼的問題</li>
-</ul></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>3.0.4</p></td>
-<td></td>
-<td><p>2008年11月12日</p></td>
-<td><p><em>穩定性及安全性更新</em>[93]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>3.0.5</p></td>
-<td></td>
-<td><p>2008年12月16日</p></td>
-<td><p><em>穩定性及安全性更新</em>[94]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>3.0.6</p></td>
-<td></td>
-<td><p>2009年2月3日</p></td>
-<td><p><em>穩定性及安全性更新</em>[95]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>3.0.7</p></td>
-<td></td>
-<td><p>2009年3月4日</p></td>
-<td><p><em>穩定性及安全性更新</em>[96]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>3.0.8</p></td>
-<td></td>
-<td><p>2009年3月27日</p></td>
-<td><p><em>安全更新</em>[97]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>3.0.9</p></td>
-<td></td>
-<td><p>2009年4月22日</p></td>
-<td><p><em>穩定性及安全性更新</em>[98]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>3.0.10</p></td>
-<td></td>
-<td><p>2009年4月27日</p></td>
-<td><p><em>穩定性更新</em>[99]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>3.0.11</p></td>
-<td></td>
-<td><p>2009年6月3日</p></td>
-<td><p><em>穩定性及安全性更新</em>[100]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>3.0.12</p></td>
-<td></td>
-<td><p>2009年7月14日</p></td>
-<td><p><em>穩定性及安全性更新</em>[101]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>3.0.13</p></td>
-<td></td>
-<td><p>2009年8月3日</p></td>
-<td><p><em>穩定性及安全性更新</em>[102]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>3.0.14</p></td>
-<td></td>
-<td><p>2009年9月9日</p></td>
-<td><p><em>穩定性及安全性更新</em>[103]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>3.0.15</p></td>
-<td></td>
-<td><p>2009年10月27日</p></td>
-<td><p><em>穩定性及安全性更新</em>[104]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>3.0.16</p></td>
-<td></td>
-<td><p>2009年12月15日</p></td>
-<td><p><em>穩定性及安全性更新</em>[105]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>3.0.17</p></td>
-<td></td>
-<td><p>2010年1月5日</p></td>
-<td><p><em>穩定性更新</em>[106]。</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>3.0.18</p></td>
-<td></td>
-<td><p>2010年2月17日</p></td>
-<td><p><em>穩定性及安全性更新</em>[107]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>3.0.19</p></td>
-<td></td>
-<td><p>2010年3月30日</p></td>
-<td><p><em>穩定性及安全性更新</em>[108]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Firefox歷史#Firefox_3.5" title="wikilink">Firefox 3.5</a></strong></p></td>
-<td><p>1.9.1</p></td>
-<td><p>3.1a1</p></td>
-<td><p><em><a href="../Page/知床國立公園.md" title="wikilink">Shiretoko</a></em></p></td>
-<td><p>2008年7月28日</p></td>
-<td><p><em>第一個Firefox 3.1預覽版</em>[109]</p></td>
-</tr>
-<tr class="even">
-<td><p>3.1a2</p></td>
-<td></td>
-<td><p>2008年9月5日</p></td>
-<td><p><em>第二個Firefox 3.1預覽版</em>[110]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>3.1b1</p></td>
-<td></td>
-<td><p>2008年10月14日</p></td>
-<td><p><em>第一個Firefox 3.1測試版</em>[111]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>3.1b2</p></td>
-<td></td>
-<td><p>2008年12月8日</p></td>
-<td><p><em>第二個Firefox 3.1測試版</em>[112]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>3.1b3</p></td>
-<td></td>
-<td><p>2009年3月13日</p></td>
-<td><p><em>第三個Firefox 3.1測試版</em>[113]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>3.5b4</p></td>
-<td></td>
-<td><p>2009年4月22日</p></td>
-<td><p><em>第一個Firefox 3.5測試版</em>[114]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>3.5b99</p></td>
-<td></td>
-<td><p>2009年6月8日</p></td>
-<td><p><em>最後一個Firefox 3.5測試版</em>[115]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>3.5 RC1</p></td>
-<td></td>
-<td><p>2009年6月16日</p></td>
-<td><p><em>第一個Firefox 3.5候選版</em>[116]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>3.5 RC2</p></td>
-<td></td>
-<td><p>2009年6月19日</p></td>
-<td><p><em>第二個Firefox 3.5候選版</em>[117]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>3.5 RC3</p></td>
-<td></td>
-<td><p>2009年6月24日</p></td>
-<td><p><em>第三個Firefox 3.5候選版</em>[118]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>3.5</p></td>
-<td><p><em>Firefox 3.5<br />
-<small>"<a href="../Page/知床國立公園.md" title="wikilink">Shiretoko</a>"</em></p></td>
-<td><p>2009年6月30日</p></td>
-<td><p><em>官方版Firefox 3.5釋出</em>[119]</p>
-<ul>
-<li>支援HTML5
-<video>
-<p>和</p>
-<audio>
-<p>元素，包括對Ogg Theora編碼影像和Vorbis編碼聲音的原生支援</p></li>
-<li>增進您控制個人隱私資料的工具，包括私密瀏覽模式</li>
-<li>使用新的TraceMonkey JavaScript引擎提高網頁應用程式效能</li>
-<li>地理定位功能</li>
-<li>原生的JSON支援和網頁工作執行緒</li>
-<li>Gecko排版引擎的改進，包括預測解析以加速網頁描繪</li>
-<li>支援新的網頁技術，例如：
-<ul>
-<li>動態下載字型</li>
-<li>CSS媒體型態查詢</li>
-<li>新的變形與屬性</li>
-<li>JavaScript查詢選擇器</li>
-<li>HTML5本地端儲存及離線應用程式儲存</li>
-<li><canvas>
-<p>文字</p></li>
-<li>ICC設定檔</li>
-<li>SVG變形特效</li>
-</ul></li>
-</ul></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>3.5.1</p></td>
-<td></td>
-<td><p>2009年7月7日</p></td>
-<td><p><em>穩定性及安全性更新</em>[120]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>3.5.2</p></td>
-<td></td>
-<td><p>2009年8月3日</p></td>
-<td><p><em>穩定性及安全性更新</em>[121]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>3.5.3</p></td>
-<td></td>
-<td><p>2009年9月9日</p></td>
-<td><p><em>穩定性及安全性更新</em>[122]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>3.5.4</p></td>
-<td></td>
-<td><p>2009年10月27日</p></td>
-<td><p><em>穩定性及安全性更新</em>[123]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>3.5.5</p></td>
-<td></td>
-<td><p>2009年11月5日</p></td>
-<td><p><em>穩定性及安全性更新</em>[124]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>3.5.6</p></td>
-<td></td>
-<td><p>2009年12月15日</p></td>
-<td><p><em>穩定性及安全性更新</em>[125]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>3.5.7</p></td>
-<td></td>
-<td><p>2010年1月5日</p></td>
-<td><p><em>穩定性更新</em>[126]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>3.5.8</p></td>
-<td></td>
-<td><p>2010年2月17日</p></td>
-<td><p><em>穩定性及安全性更新</em>[127]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>3.5.9</p></td>
-<td></td>
-<td><p>2010年3月30日</p></td>
-<td><p><em>穩定性及安全性更新</em>[128]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>3.5.10</p></td>
-<td></td>
-<td><p>2010年6月22日</p></td>
-<td><p><em>穩定性及安全性更新</em>[129]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>3.5.11</p></td>
-<td></td>
-<td><p>2010年7月20日</p></td>
-<td><p><em>穩定性及安全性更新</em>[130]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>3.5.12</p></td>
-<td></td>
-<td><p>2010年9月7日</p></td>
-<td><p><em>穩定性及安全性更新</em>[131]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>3.5.13</p></td>
-<td></td>
-<td><p>2010年9月15日</p></td>
-<td><p><em>穩定性更新</em>[132]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>3.5.14</p></td>
-<td></td>
-<td><p>2010年10月19日</p></td>
-<td><p><em>穩定性及安全性更新</em>[133]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>3.5.15</p></td>
-<td></td>
-<td><p>2010年10月27日</p></td>
-<td><p><em>安全性更新</em>[134]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>3.5.16</p></td>
-<td></td>
-<td><p>2010年12月9日</p></td>
-<td><p><em>穩定性及安全性更新</em>[135]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>3.5.17</p></td>
-<td></td>
-<td><p>2011年3月1日</p></td>
-<td><p><em>穩定性及安全性更新</em>[136]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>3.5.18</p></td>
-<td></td>
-<td><p>2011年3月22日</p></td>
-<td><p><em>安全性更新</em>[137]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>3.5.19</p></td>
-<td></td>
-<td><p>2011年4月28日</p></td>
-<td><p><em>穩定性及安全性更新</em>[138]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Firefox歷史#Firefox_3.6" title="wikilink">Firefox 3.6</a></strong></p></td>
-<td><p>1.9.2</p></td>
-<td><p>3.6a1</p></td>
-<td><p><em>Namoroka</em></p></td>
-<td><p>2009年8月7日</p></td>
-<td><p><em>第一個Firefox 3.6預覽版</em>[139]</p></td>
-</tr>
-<tr class="even">
-<td><p>3.6b1</p></td>
-<td></td>
-<td><p>2009年10月30日</p></td>
-<td><p><em>第一個Firefox 3.6測試版</em>[140]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>3.6b2</p></td>
-<td></td>
-<td><p>2009年11月10日</p></td>
-<td><p><em>第二個Firefox 3.6測試版</em>[141]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>3.6b3</p></td>
-<td></td>
-<td><p>2009年11月17日</p></td>
-<td><p><em>第三個Firefox 3.6測試版</em>[142]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>3.6b4</p></td>
-<td></td>
-<td><p>2009年11月26日</p></td>
-<td><p><em>第四個Firefox 3.6測試版</em>[143]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>3.6b5</p></td>
-<td></td>
-<td><p>2009年12月17日</p></td>
-<td><p><em>第五個Firefox 3.6測試版</em>[144]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>3.6 RC1</p></td>
-<td></td>
-<td><p>2010年1月8日</p></td>
-<td><p><em>第一個Firefox 3.6候選版</em>[145]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>3.6 RC2</p></td>
-<td></td>
-<td><p>2010年1月17日</p></td>
-<td><p><em>第二個Firefox 3.6候選版</em>[146]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>3.6</p></td>
-<td><p><em>Firefox 3.6<br />
-<small>"Namoroka"</em></p></td>
-<td><p>2010年1月21日</p></td>
-<td><p><em>官方版Firefox 3.6釋出</em>[147]</p>
-<ul>
-<li>支援Personas佈景主題</li>
-<li>停用久未更新的外掛程式保障使用者的安全</li>
-<li>開放、原生的影片現在可以全螢幕顯示，且支援poster frames</li>
-<li>改進JavaScript效能，提昇瀏覽器整體反應性及啟動時間</li>
-<li>網頁開發者能夠藉著非同步運行的程式碼加速網頁的讀取</li>
-<li>持續支援網頁字型下載，使用新的WOFF字型格式</li>
-<li>支援諸如漸層、背景圖縮放、pointer事件等新的CSS屬性</li>
-<li>支援包含滑鼠拖放API、檔案API等新的DOM與HTML5標準，讓網頁更具互動性</li>
-<li>變更一些第三方軟體與Firefox的整合方式以避免當機</li>
-</ul></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>3.6.2</p></td>
-<td></td>
-<td><p>2010年3月22日</p></td>
-<td><p><em>穩定性及安全性更新</em>[148]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>3.6.3</p></td>
-<td></td>
-<td><p>2010年4月1日</p></td>
-<td><p><em>穩定性及安全性更新</em>[149]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>3.6.3 Plugin</p></td>
-<td><p><em><a href="../Page/洛伦茨国家公园.md" title="wikilink">Lorentz</a></em></p></td>
-<td><p>2010年4月8日</p></td>
-<td><p><em>第一個測試版</em>[150]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>3.6.4</p></td>
-<td></td>
-<td><p>2010年5月4日</p></td>
-<td><p><em>穩定性及安全性更新</em>[151]</p>
-<ul>
-<li>加入OOPP功能</li>
-</ul></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>3.6.6</p></td>
-<td></td>
-<td><p>2010年6月26日</p></td>
-<td><p><em>穩定性更新</em>[152]</p>
-<ul>
-<li>修改當機防護功能，延長外掛程式沒有回應的時限，若超過時限則中斷外掛程式</li>
-</ul></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>3.6.7</p></td>
-<td></td>
-<td><p>2010年7月20日</p></td>
-<td><p><em>穩定性及安全性更新</em>[153]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>3.6.8</p></td>
-<td></td>
-<td><p>2010年7月23日</p></td>
-<td><p><em>穩定性更新</em>[154]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>3.6.9</p></td>
-<td></td>
-<td><p>2010年9月7日</p></td>
-<td><p><em>穩定性及安全性更新</em>[155]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>3.6.10</p></td>
-<td></td>
-<td><p>2010年9月15日</p></td>
-<td><p><em>穩定性更新</em>[156]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>3.6.11</p></td>
-<td></td>
-<td><p>2010年10月19日</p></td>
-<td><p><em>穩定性及安全性更新</em>[157]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>3.6.12</p></td>
-<td></td>
-<td><p>2010年10月27日</p></td>
-<td><p><em>安全性更新</em>[158]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>3.6.13</p></td>
-<td></td>
-<td><p>2010年12月9日</p></td>
-<td><p><em>穩定性及安全性更新</em>[159]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>3.6.14</p></td>
-<td></td>
-<td><p>2011年3月1日</p></td>
-<td><p><em>穩定性及安全性更新</em>[160]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>3.6.15</p></td>
-<td></td>
-<td><p>2011年3月4日</p></td>
-<td><p><em>穩定性更新</em>[161]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>3.6.16</p></td>
-<td></td>
-<td><p>2011年3月22日</p></td>
-<td><p><em>安全性更新</em>[162]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>3.6.17</p></td>
-<td></td>
-<td><p>2011年4月28日</p></td>
-<td><p><em>穩定性及安全性更新</em>[163]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>3.6.18</p></td>
-<td></td>
-<td><p>2011年6月21日</p></td>
-<td><p><em>穩定性及安全性更新</em>[164]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>3.6.19</p></td>
-<td></td>
-<td><p>2011年7月11日</p></td>
-<td><p><em>穩定性更新</em>[165]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>3.6.20</p></td>
-<td></td>
-<td><p>2011年8月16日</p></td>
-<td><p><em>穩定性及安全性更新</em>[166]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>3.6.21</p></td>
-<td></td>
-<td><p>2011年8月30日</p></td>
-<td><p><em>安全性更新</em>[167]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>3.6.22</p></td>
-<td></td>
-<td><p>2011年9月6日</p></td>
-<td><p><em>安全性更新</em>[168]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>3.6.23</p></td>
-<td></td>
-<td><p>2011年9月27日</p></td>
-<td><p><em>穩定性及安全性更新</em>[169]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>3.6.24</p></td>
-<td></td>
-<td><p>2011年11月8日</p></td>
-<td><p><em>穩定性及安全性更新</em>[170]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>3.6.25</p></td>
-<td></td>
-<td><p>2011年12月20日</p></td>
-<td><p><em>穩定性及安全性更新</em>[171]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>3.6.26</p></td>
-<td></td>
-<td><p>2012年1月31日</p></td>
-<td><p><em>穩定性及安全性更新</em>[172]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>3.6.27</p></td>
-<td></td>
-<td><p>2012年2月17日</p></td>
-<td><p><em>安全性更新</em>[173]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>3.6.28</p></td>
-<td></td>
-<td><p>2012年3月13日</p></td>
-<td><p><em>穩定性及安全性更新</em>[174]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Firefox_4" title="wikilink">Firefox 4</a></strong></p></td>
-<td><p>1.9.3</p></td>
-<td><p>3.7a1</p></td>
-<td><p><em>Mozilla Developer Preview 3.7 Alpha 1</em></p></td>
-<td><p>2010年2月10日</p></td>
-<td><p><em>第一個Firefox 3.7預覽版</em>[175]</p></td>
-</tr>
-<tr class="even">
-<td><p>3.7a2</p></td>
-<td><p><em>Mozilla Developer Preview 3.7 Alpha 2</em></p></td>
-<td><p>2010年3月3日</p></td>
-<td><p><em>第二個Firefox 3.7預覽版</em>[176]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>3.7a3</p></td>
-<td><p><em>Mozilla Developer Preview 3.7 Alpha 3</em></p></td>
-<td><p>2010年3月17日</p></td>
-<td><p><em>第三個Firefox 3.7預覽版</em>[177][178]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>3.7a4</p></td>
-<td><p><em>Mozilla Developer Preview 3.7 Alpha 4</em></p></td>
-<td><p>2010年4月12日</p></td>
-<td><p><em>第四個Firefox 3.7預覽版</em>[179]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>3.7a4webm</p></td>
-<td><p><em>Mozilla Developer Preview 3.7 Alpha 4 WebM</em></p></td>
-<td><p>2010年5月19日</p></td>
-<td><p>支援<a href="../Page/WebM.md" title="wikilink">WebM</a>影片</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>3.7a5</p></td>
-<td><p><em>Mozilla Developer Preview 3.7 Alpha 5</em></p></td>
-<td><p>2010年6月14日</p></td>
-<td><p><em>第五個Firefox 3.7預覽版</em>[180]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2.0</p></td>
-<td><p>4.0b1</p></td>
-<td></td>
-<td><p>2010年7月6日</p></td>
-<td><p><em>第一個Firefox 4.0測試版</em>[181]</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>4.0b2</p></td>
-<td></td>
-<td><p>2010年7月27日</p></td>
-<td><p><em>第二個Firefox 4.0測試版</em>[182]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>4.0b3</p></td>
-<td></td>
-<td><p>2010年8月11日</p></td>
-<td><p><em>第三個Firefox 4.0測試版</em>[183]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>4.0b4</p></td>
-<td></td>
-<td><p>2010年8月24日</p></td>
-<td><p><em>第四個Firefox 4.0測試版</em>[184]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>4.0b5</p></td>
-<td></td>
-<td><p>2010年9月7日</p></td>
-<td><p><em>第五個Firefox 4.0測試版</em>[185]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>4.0b6</p></td>
-<td></td>
-<td><p>2010年9月14日</p></td>
-<td><p><em>第六個Firefox 4.0測試版</em>[186]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>4.0b7</p></td>
-<td></td>
-<td><p>2010年11月10日</p></td>
-<td><p><em>第七個Firefox 4.0測試版</em>[187]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>4.0b8</p></td>
-<td></td>
-<td><p>2010年12月21日</p></td>
-<td><p><em>第八個Firefox 4.0測試版</em>[188]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>4.0b9</p></td>
-<td></td>
-<td><p>2011年1月14日</p></td>
-<td><p><em>第九個Firefox 4.0測試版</em>[189]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>4.0b10</p></td>
-<td></td>
-<td><p>2011年1月25日</p></td>
-<td><p><em>第十個Firefox 4.0測試版</em>[190]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>4.0b11</p></td>
-<td></td>
-<td><p>2011年2月8日</p></td>
-<td><p><em>第十一個Firefox 4.0測試版</em>[191]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>4.0b12</p></td>
-<td></td>
-<td><p>2011年2月25日</p></td>
-<td><p><em>第十二個Firefox 4.0測試版</em>[192]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>4.0 RC1</p></td>
-<td></td>
-<td><p>2011年3月9日</p></td>
-<td><p><em>第一個Firefox 4.0候選版</em>[193]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>4.0 RC2</p></td>
-<td></td>
-<td><p>2011年3月18日</p></td>
-<td><p><em>第二個Firefox 4.0候選版</em>[194]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>4.0</p></td>
-<td><p><em>Firefox 4.0<br />
-<small>"<a href="../Page/土木庫馬奎國家公園.md" title="wikilink">Tumucumaque</a>"</small></em></p></td>
-<td><p>2011年3月22日</p></td>
-<td><p><em>官方版Firefox 4.0釋出</em>[195]</p>
-<ul>
-<li>提供超過80種語言版本</li>
-<li>使用更快的JavaScript引擎JägerMonkey</li>
-<li>支援「別追蹤我」（DNT）網頁標頭，擺脫被追蹤網路瀏覽行為</li>
-<li>預設開啟<a href="../Page/Firefox_Sync.md" title="wikilink">Firefox Sync</a></li>
-<li>使用Direct3D 9（Windows XP）、Direct3D 10（Windows Vista或7）和OpenGL（Mac OS）對特定圖形進行硬體加速</li>
-<li>Windows 7使用者預設啟用Direct2D硬體加速</li>
-<li>為所有平台啟用了WebGL</li>
-<li>原生支援HD HTML5 WebM影片格式，支援時也啟用硬體加速</li>
-<li>Firefox按鈕在Windows Vista和Windows 7有了新的外觀</li>
-<li>分頁列置頂在Windows、Mac OS X與Linux成為預設選項</li>
-<li>Windows、Mac OS X和Linux，停止和重新載入按鈕合併</li>
-</ul></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>4.0.1</p></td>
-<td><p><em>Firefox 4.0.1<br />
-<small>"<a href="../Page/金剛鸚鵡.md" title="wikilink">Macaw</a>"</small></em></p></td>
-<td><p>2011年4月28日</p></td>
-<td><p><em>穩定性及安全性更新</em>[196]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+[Mozilla_Firefox_3_in_MS_XP.png](https://zh.wikipedia.org/wiki/File:Mozilla_Firefox_3_in_MS_XP.png "fig:Mozilla_Firefox_3_in_MS_XP.png")
 
-其開發代號*Three Kings*、*Royal Oak*、*One Tree Hill*、*Mission Bay*和*Greenlane*都是[-{zh-tw:紐西蘭;zh-cn:新西兰}-](../Page/新西兰.md "wikilink")[奧克蘭市](../Page/奧克蘭市.md "wikilink")内的地名；*Whangamata*是-{zh-tw:紐西蘭;zh-cn:新西兰}-[科羅曼德爾半島一個靠海的城鎮](https://zh.wikipedia.org/wiki/科羅曼德爾半島 "wikilink")。這些名字是由在奧克蘭長大的[本·古德傑](../Page/本·古德傑.md "wikilink")所命名的。其它在[Firefox藍圖](https://web.archive.org/web/20130402204814/http://www.mozilla.org/projects/firefox/roadmap.html)的代名則是在真實地圖上從[加州到](../Page/加利福尼亚州.md "wikilink")[鳳凰城這段路途中找來的](../Page/鳳凰城_\(亞利桑那州\).md "wikilink")。
+Firefox 3.0發表於2008年6月17日\[19\]。該版本修正了非常多錯誤，也增加對網頁標準的相容性，還有許多新的Web APIs提供開發者使用。其他新功能包括重新設計的下載管理員、新的“Place”系統來儲存書籤和瀏覽記錄以及在各種作業系統上有一致性的佈景主題。Firefox 3發布創下一天內超過800萬下載次數的[金氏世界紀錄](https://zh.wikipedia.org/wiki/金氏世界紀錄 "wikilink")\[20\]。當天，微軟Internet Explorer團隊再次送上蛋糕，祝賀Firefox 3發佈\[21\]。
 
-### 快速釋出週期
+| Firefox 3發行歷史 |
+| ------------- |
+| Gecko版本       |
+| 1.9           |
+| 3.0a2         |
+| 3.0a3         |
+| 3.0a4         |
+| 3.0a5         |
+| 3.0a6         |
+| 3.0a7         |
+| 3.0a8         |
+| 3.0b1         |
+| 3.0b2         |
+| 3.0b3         |
+| 3.0b4         |
+| 3.0b5         |
+| 3.0 RC1       |
+| 3.0 RC2       |
+| 3.0 RC3       |
+| 3.0           |
+| 3.0.1         |
+| 3.0.2         |
+| 3.0.3         |
+| 3.0.4         |
+| 3.0.5         |
+| 3.0.6         |
+| 3.0.7         |
+| 3.0.8         |
+| 3.0.9         |
+| 3.0.10        |
+| 3.0.11        |
+| 3.0.12        |
+| 3.0.13        |
+| 3.0.14        |
+| 3.0.15        |
+| 3.0.16        |
+| 3.0.17        |
+| 3.0.18        |
+| 3.0.19        |
+|               |
 
-#### 版本5至9
+### Firefox 3.5
+
+Firefox 3.5的開發代號為Shiretoko。初期的版本號為3.1，但為了反應出大幅度的改善以及增加的新功能，正式版本命名為3.5。其中最大的革新是加入了全新的JavaScript引擎[TraceMonkey](https://zh.wikipedia.org/wiki/TraceMonkey "wikilink")，大幅提高頁面渲染的速度。並且支援了-{zh-hans:隐私; zh-tw:私密}-瀏覽功能，Firefox圖示也重新繪製\[22\]\[23\]\[24\]。
+
+| Firefox 3.5發行歷史 |
+| --------------- |
+| Gecko版本         |
+| 1.9.1           |
+| 3.1a2           |
+| 3.1b1           |
+| 3.1b2           |
+| 3.1b3           |
+| 3.5b4           |
+| 3.5b99          |
+| 3.5 RC1         |
+| 3.5 RC2         |
+| 3.5 RC3         |
+| 3.5             |
+| 3.5.1           |
+| 3.5.2           |
+| 3.5.3           |
+| 3.5.4           |
+| 3.5.5           |
+| 3.5.6           |
+| 3.5.7           |
+| 3.5.8           |
+| 3.5.9           |
+| 3.5.10          |
+| 3.5.11          |
+| 3.5.12          |
+| 3.5.13          |
+| 3.5.14          |
+| 3.5.15          |
+| 3.5.16          |
+| 3.5.17          |
+| 3.5.18          |
+| 3.5.19          |
+|                 |
+
+### Firefox 3.6
+
+Firefox 3.6發表於2010年1月21日，開發代號為Namoroka\[25\]。後來發佈了Firefox 3.6.4的一個小更新，修正一些安全和穩定性的問題，並且加入了外掛獨立運行（out-of-proccess-plugin）架構，將[Adobe Flash Player這類的外掛程式將隔離到另一個獨立的](../Page/Adobe_Flash_Player.md "wikilink")-{程序}-，增加瀏覽器的穩定性\[26\]。
+
+| Firefox 3.6發行歷史        |
+| ---------------------- |
+| Gecko版本                |
+| 1.9.2                  |
+| 3.6b1                  |
+| 3.6b2                  |
+| 3.6b3                  |
+| 3.6b4                  |
+| 3.6b5                  |
+| style=""| 3.6 RC1      |
+| style=""| 3.6 RC2      |
+| style=""| 3.6          |
+| style=""| 3.6.2        |
+| style=""| 3.6.3        |
+| style=""| 3.6.3 Plugin |
+| style=""| 3.6.4        |
+| style=""| 3.6.6        |
+| 3.6.7                  |
+| 3.6.8                  |
+| 3.6.9                  |
+| 3.6.10                 |
+| 3.6.11                 |
+| 3.6.12                 |
+| 3.6.13                 |
+| 3.6.14                 |
+| 3.6.15                 |
+| 3.6.16                 |
+| 3.6.17                 |
+| 3.6.18                 |
+| 3.6.19                 |
+| 3.6.20                 |
+| 3.6.21                 |
+| 3.6.22                 |
+| 3.6.23                 |
+| 3.6.24                 |
+| 3.6.25                 |
+| 3.6.26                 |
+| 3.6.27                 |
+| 3.6.28                 |
+|                        |
+
+### Firefox 4.0
+
+[Firefox_4.png](https://zh.wikipedia.org/wiki/File:Firefox_4.png "fig:Firefox_4.png")
+
+Mozilla技術長[布蘭登·艾克](../Page/布蘭登·艾克.md "wikilink")提出了「Mozilla 2」的計劃，指的是對目前Firefox和其他產品（自推出以來）的一次最全面的更替\[27\]。這個計劃大多數特性已從Firefox 3.0、3.5及3.6版本開始納入，不過當中最大的改變被延遲到Firefox 4.0。Firefox 4.0的新特性包括全新的使用者介面\[28\]\[29\]\[30\]、新的JavaScript引擎[JägerMonkey](https://zh.wikipedia.org/wiki/JägerMonkey "wikilink")\[31\]、分頁群組、應用程式分頁、重新設計的附加元件管理員、整合[Firefox同步以及支援螢幕多點觸控等](https://zh.wikipedia.org/wiki/Firefox同步 "wikilink")\[32\]\[33\]\[34\]\[35\]。發布後當天，微軟Internet Explorer團隊再次獻上蛋糕，祝賀Firefox 4.0發佈\[36\]。
+
+| Firefox 4發行歷史 |
+| ------------- |
+| Gecko版本       |
+| 1.9.3         |
+| 3.7a2         |
+| 3.7a3         |
+| 3.7a4         |
+| 3.7a4webm     |
+| 3.7a5         |
+| 2.0           |
+| 4.0b2         |
+| 4.0b3         |
+| 4.0b4         |
+| 4.0b5         |
+| 4.0b6         |
+| 4.0b7         |
+| 4.0b8         |
+| 4.0b9         |
+| 4.0b10        |
+| 4.0b11        |
+| 4.0b12        |
+| 4.0 RC1       |
+| 4.0 RC2       |
+| 4.0           |
+| 4.0.1         |
+|               |
+
+## 快速釋出週期
+
+2011年4月，開發過程分成幾個“頻道”，每個頻道在不同的[開發階段進行建構](../Page/軟件版本週期.md "wikilink")：
+
+  - 每夜版（Nightly）：汇集每天源代码的改动，提供最新的尚未被Mozilla[品質保证團隊測試的新功能](https://zh.wikipedia.org/wiki/品質保证 "wikilink")，不保证稳定性。
+  - 曙光版（Aurora）：亦每天均有更新，每六周合并一次来自Nightly的最新代码，它将修复在Nightly中出现的关键问题，能在基本稳定的前提下提供新功能，自35版起，被更名為*Developer Edition*，54版推出*Developer Edition*的最後一個版本。
+  - 測試版（Beta）：会不定期快速更新，它经过廣泛的品質測試，预计可提供给一千万用户所使用\[37\]以进一步测试其稳定性。从Beta开始，Mozilla会提供包含数字签名的安装包及可执行程序，并使用正式的Firefox名称及标志。
+  - 正式版（Release）：已經過完整品质保证測試，提供全球數億用户所使用的最終穩定發行版本，每六星期发布一版。
+
+新版本計劃每隔六週發布一次，這項快速節奏過程的目標是讓使用者更快地獲得新功能\[38\]\[39\]。這項快速釋出週期遭到了使用者的批評，因為它經常破壞附加元件的相容性\[40\]，以及有人認為Mozilla只是想試圖增加其版本數量以與Google Chrome等其他瀏覽器進行較量\[41\]。
+
+### 版本5至9
+
+#### Firefox 5.0
+
+Firefox 5.0正式版发布于2011年6月21日，除了保留了Firefox 4的全新界面，还在前版本的基础上增加了“禁止网站追踪功能”（[请勿跟踪](https://zh.wikipedia.org/wiki/请勿跟踪 "wikilink")） \[42\]。
+
+發布後，微軟IE团队送上一个小杯子蛋糕\[43\]。
+
+#### Firefox 6.0
+
+Firefox 6.0正式版发布于2011年8月16日。
+
+Firefox 6带来了以下新功能、特性：\[44\] [FF6Addr.png](https://zh.wikipedia.org/wiki/File:FF6Addr.png "fig:FF6Addr.png")
+
+  - 更新了地址栏，采用了新的网站通知、站点身份识别样式。\[45\]
+  - 在开发者工具中提供“Scratchpad”，开发者可以通过它进行JavaScript的调试。
+  - 增加了检查插件（plugin）版本的链接
+  - 增加了网站权限管理器（permission manager）
+  - WebSockets回归、API改进、新的“progress”元素等\[46\]
+
+Firefox 6正式发布后，IE团队再次赠送蛋糕\[47\]。
+
+#### Firefox 7.0
+
+Firefox 7.0正式版发布于2011年9月27日。
+
+该版本对内存控制进行了优化与改善，得益于MemShrink项目，Firefox 7.0相对于Firefox 4.0内存使用量减少了50%，\[48\]\[49\]\[50\]并支持了新的硬件加速技术，除此之外还加入了性能报告扩展Telemetry。
+
+微軟IE團隊依慣例送上小蛋糕。\[51\]
+
+#### Firefox 8.0
+
+Firefox 8.0正式版发布于2011年11月8日。当恢复上次浏览的标签页时，用户可以指定只恢复一部分，以加快启动速度。用户拖拽排列标签页时，可以看到一定的动画效果。而和前版本相比，在该版本中用户可以一次性决定是否保留、禁用或移除扩展。此外Firefox还为网络开发者更新了编辑工具\[52\]。
+
+2011年11月10日，微軟IE團隊聲明不再贈送蛋糕，微軟發言人表示：「我們不會再延續這個傳統，因為太具殺傷力了」「基本上每六星期我們就要提供好多個紙杯蛋糕。」\[53\]。
+
+#### Firefox 9.0
+
+Firefox 9.0正式版发布于2011年12月20日。Firefox 9加入了类型推断技术，从而在JavaScript的性能上有了30%的提升。对[Mac OS X有了更佳的支援](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，使用者可通過雙指滑動手勢更加方便的瀏覽網頁。此外，新版本对网页开发者的工作也提供了更好之支持，在处理大量数据或是使用 AJAX 技术的网站时加载速度更快，不用等待所有下载完成就可以显示相关内容。\[54\]
 
 <section begin=color table />
 
@@ -1961,7 +430,7 @@
 <td><p>5.0</p></td>
 <td><p><em>Firefox 5.0</em></p></td>
 <td><p>2011年6月21日</p></td>
-<td><p><em>官方版Firefox 5.0釋出</em>[197]</p>
+<td><p><em>官方版Firefox 5.0釋出</em>[55]</p>
 <ul>
 <li>改善對HTML5、CSS3、MathML、XHR和SMIL標準的支援</li>
 <li>移動「別追蹤我」（Do-Not-Track）選項的位置</li>
@@ -1978,7 +447,7 @@
 <td><p>5.0.1</p></td>
 <td><p><em>Firefox 5.0.1</em></p></td>
 <td><p>2011年7月11日</p></td>
-<td><p><em>穩定性更新（只有Mac OS X）</em>[198]</p>
+<td><p><em>穩定性更新（只有Mac OS X）</em>[56]</p>
 <ul>
 <li>解決Mac OS X 10.7可能導致Firefox當機的問題</li>
 <li>解決Apple「Java for Mac OS X 10.6 Update 5」造成無法載入Java外掛程式的問題</li>
@@ -2038,7 +507,7 @@
 <td><p>6.0</p></td>
 <td><p><em>Firefox 6.0</em></p></td>
 <td><p>2011年8月16日</p></td>
-<td><p><em>官方版Firefox 6.0釋出</em>[199]</p>
+<td><p><em>官方版Firefox 6.0釋出</em>[57]</p>
 <ul>
 <li>正在瀏覽的網域會在網址列特別強調顯示</li>
 <li>美化網站識別區外觀</li>
@@ -2057,7 +526,7 @@
 <td><p>6.0.1</p></td>
 <td><p><em>Firefox 6.0.1</em></p></td>
 <td><p>2011年8月30日</p></td>
-<td><p><em>安全性更新</em>[200]</p>
+<td><p><em>安全性更新</em>[58]</p>
 <ul>
 <li>由於SSL憑證偽造問題，撤銷DigiNotar的安全憑證</li>
 </ul></td>
@@ -2067,7 +536,7 @@
 <td><p>6.0.2</p></td>
 <td><p><em>Firefox 6.0.2</em></p></td>
 <td><p>2011年9月6日</p></td>
-<td><p><em>安全性更新</em>[201]</p>
+<td><p><em>安全性更新</em>[59]</p>
 <ul>
 <li>移除對Staat der Nederlanden所發行憑證的例外信任</li>
 <li>解決gov.uk網站的問題</li>
@@ -2127,7 +596,7 @@
 <td><p>7.0</p></td>
 <td><p><em>Firefox 7.0</em></p></td>
 <td><p>2011年9月27日</p></td>
-<td><p><em>官方版Firefox 7.0釋出</em>[202]</p>
+<td><p><em>官方版Firefox 7.0釋出</em>[60]</p>
 <ul>
 <li>徹底改善特定場合下的記憶體管理</li>
 <li>增加新的描繪底層以加速Windows系統上的Canvas運作</li>
@@ -2145,7 +614,7 @@
 <td><p>7.0.1</p></td>
 <td><p><em>Firefox 7.0.1</em></p></td>
 <td><p>2011年9月29日</p></td>
-<td><p><em>穩定性及安全性更新</em>[203]</p>
+<td><p><em>穩定性及安全性更新</em>[61]</p>
 <ul>
 <li>修正一個罕見問題，更新Firefox後部分附加元件會隱藏不見</li>
 </ul></td>
@@ -2211,7 +680,7 @@
 <td><p>8.0</p></td>
 <td><p><em>Firefox 8.0</em></p></td>
 <td><p>2011年11月8日</p></td>
-<td><p><em>官方版Firefox 8.0釋出</em>[204]</p>
+<td><p><em>官方版Firefox 8.0釋出</em>[62]</p>
 <ul>
 <li>預設停用第三方所安裝的附加元件</li>
 <li>增加一個一次性的選擇附加元件對話框來管理先前安裝的附加元件</li>
@@ -2234,7 +703,7 @@
 <td><p>8.0.1</p></td>
 <td><p><em>Firefox 8.0.1</em></p></td>
 <td><p>2011年11月21日</p></td>
-<td><p><em>穩定性及安全性更新</em>[205]</p>
+<td><p><em>穩定性及安全性更新</em>[63]</p>
 <ul>
 <li>修正Mac OS X中，使用「Java SE 6」外掛程式1.6.0_29版本時，載入Java Applet在特定場合當機的問題</li>
 <li>修正Windows中，RoboForm附加元件7.6.2以前版本造成啟動時當機的問題</li>
@@ -2301,7 +770,7 @@
 <td><p>9.0</p></td>
 <td><p><em>Firefox 9.0</em></p></td>
 <td><p>2011年12月20日</p></td>
-<td><p><em>官方版Firefox 9.0釋出</em>[206]</p>
+<td><p><em>官方版Firefox 9.0釋出</em>[64]</p>
 <ul>
 <li>新增型別推論，顯著提升JavaScript效能</li>
 <li>改進Mac OS X Lion主題的整合</li>
@@ -2317,7 +786,7 @@
 <td><p>9.0.1</p></td>
 <td><p><em>Firefox 9.0.1</em></p></td>
 <td><p>2011年12月21日</p></td>
-<td><p><em>穩定性及安全性更新</em>[207]</p>
+<td><p><em>穩定性及安全性更新</em>[65]</p>
 <ul>
 <li>修復Windows、Mac和Linux的當機問題</li>
 </ul></td>
@@ -2333,7 +802,198 @@
 </tbody>
 </table>
 
-#### 版本10至19
+### 版本10至19
+
+#### Firefox 10.0
+
+[Page_inspector_firefox_10.png](https://zh.wikipedia.org/wiki/File:Page_inspector_firefox_10.png "fig:Page_inspector_firefox_10.png") Firefox 10.0正式版发布于2012年1月31日。 特性\[66\]\[67\]
+
+  - 預設隱藏至下一頁按鈕，除非執行了回到上一頁操作
+  - 支援[WebGL](../Page/WebGL.md "wikilink")反鋸齒
+  - 全螢幕APIs支援創建可全螢幕的web應用
+  - 支援[CSS3](https://zh.wikipedia.org/wiki/CSS3 "wikilink") 3D-Transforms
+  - 為開發增加了高亮顯示內容的檢測工具，博阿凱CSS Style Inspector，新增了IndexedDB APIs
+  - 修復了部分用戶移動標籤時遭遇的崩潰的問題
+  - 首個“長期支持版本”（Extended Support Release，簡稱“ESR”），專門為那些無法或不願每隔六周升級一次的企業打造，升級周期為42周。
+  - 為默認兼容擴展版本升級，簡化了Firefox升級流程。
+
+#### Firefox 11.0
+
+[Firefox_3D_tilt.png](https://zh.wikipedia.org/wiki/File:Firefox_3D_tilt.png "fig:Firefox_3D_tilt.png") Firefox 11.0正式版发布于2012年3月13日。 特性\[68\]
+
+  - 支援從Google Chrome載入瀏覽紀錄、我的最愛及Cookies
+  - 開啟同步功能後，附加元件（Add-ons）可從不同電腦中進行同步
+  - 支援CSS的text-size-adjust元素
+  - 重新設計HTML5短片的媒體控制外觀
+  - 支援HTML5的outerHTML 元素
+  - 使用的HTML5分析器以查看網頁代碼的語法
+  - 網頁開發者可使用CSS樣式編輯器
+  - 網頁開發者可以使用Page Inspector 3D View去瀏覽3D網頁
+  - 支援更快頁面加載的SPDY協議已可作測試
+  - XMLHttpRequest現在支援HTML parsing
+  - 檔案可以儲存在IndexedDB
+  - 可使用無前綴的網頁代碼Websockets（毋須moz-前綴）
+  - 修正MFSA 2012-12至MFSA 2012-19的保安漏洞。
+  - 修正Firefox通知信息與Growl 1.3之後版本不相容的問題
+
+#### Firefox 12.0
+
+Firefox 12.0正式版发布于2012年4月24日。 特性\[69\]
+
+  - 在[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")：Firefox更新時，現在可以減少一次使用者帳戶控制設定（[User Account Control](https://zh.wikipedia.org/wiki/User_Account_Control "wikilink")）
+  - 查看網頁源碼時加入行數
+  - 標題（Title attribute）現在支援換行（Line breaks）
+  - 改善「網頁搜尋」功能，搜尋結果現會置中
+  - 在下載視窗時貼上網址將會自動進行下載
+  - 支援CSS的column-fill元素（須要 -moz- 前綴）
+  - 支援CSS的text-align-last元素
+  - 實施ECMAScript 6 Map and Set的測試性支援
+  - 在[Mac OS X作業系統](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")：修正在某些硬件上WebGL表現下降的問題
+
+#### Firefox 13.0
+
+Firefox 13.0正式版发布于2012年6月5日。 特性\[70\]
+
+  - 開啟新分頁時，列出最常造訪的網頁
+  - 預設開始頁提供了前往書籤、歷史、設定以及更多捷徑
+  - 預設啟用 SPDY 通訊協定，可以更快速地瀏覽支援的網站
+  - 為了加快啟動速度，預設不先載入背景分頁
+  - 預設啟用平滑捲動功能
+  - 網頁檢測器、HTML 面板、樣式檢測器、程式碼速記本和樣式編輯器的總共 72 項改進\[71\]
+  - 實作了 column-fill\[72\] CSS 屬性
+  - 實作了 ECMAScript 6 Map\[73\] 和 Set\[74\] 物件的實驗性支援
+  - 新增對 CSS3 background-position\[75\] 擴充語法的支援
+  - :invalid\[76\] 虛擬類別可以套用在
+    <form>
+    元素上
+  - 支援 CSS turn <angle>\[77\] 單位
+
+#### Firefox 14.0
+
+Firefox安卓版 14.0发布于2012年6月26日。\[78\] 之后为了保持移动版和桌面版版本号一致，Mozilla于2012年7月17日同时发布了移动版和桌面版的Firefox 14.0.1。
+
+特性\[79\]
+
+  - 採用 [HTTPS](https://zh.wikipedia.org/wiki/HTTPS "wikilink") 進行 Google 搜尋
+  - Mac OS X Lion 的全螢幕支援\[80\]
+  - 可以設定外掛程式，改為點選一下才載入（需調整一個 <about:config> 設定\[81\]）
+  - 智慧網址列輸入時的 自動完成 URL\[82\] 功能
+  - 改善網站身分識別設計\[83\]，防止配合 favicon 的 SSL 連線詐騙
+  - 實作了 Pointer Lock API\[84\]
+  - 新增可以防止顯示裝置進入休眠\[85\]的 API
+  - 對突厥、希臘文字的 text-transform 和 font-variant CSS 改良\[86\]
+  - 各項安全性修正\[87\]
+  - 修正GIF 動畫於 src 和尺寸變更時可能會卡住的問題（bug 743598\[88\]）
+  - 修正OS X：nsCocoaWindow::ConstrainPosition 在多重顯示裝置上誤用了不正確的螢幕的問題（bug 752149\[89\]）
+  - CSS：修正以 JavaScript 設定元素 class name 時，發生 :hover regression 的問題（bug 758885\[90\]）
+
+#### Firefox 15.0
+
+Firefox 15.0正式版发布于2012年8月28日。 特性\[91\]
+
+  - 安靜地背景更新
+
+  - 支援 SPDY 網路通訊協定 v3
+
+  - WebGL 改善，包括壓縮材質以增進效能等
+
+  - 馬蒂科里（Maithili ）語系支援（見所有支援的語系\[92\]）
+
+  - 最佳化附加元件相關的記憶體使用率
+
+  - 將 JavaScript「除錯器」整合進開發者工具
+
+  - 檢測工具新增了布局檢視
+
+  - 實作了高精準度事件計時器
+
+  - 實作了 CSS word-break\[93\] 屬性
+
+  - 新增「適應性設計檢視模式」讓開發者快速切換 桌面／行動版 網站檢視
+
+  - 新增原生 Opus 音訊編碼支援
+
+  - \< source \>\[94\] 元素已支援 media 屬性
+
+  -
+
+    <audio>
+
+    \[95\] 和
+
+    <video>
+
+    \[96\] 元素已支援 played 屬性
+
+  - 修正重覆以 tab 在元素間切換時，顯示焦點的外框可能會逐漸變大的問題 （bug 720987\[97\]）
+
+#### Firefox 16.0
+
+Firefox 16.0正式版发布于2012年10月9日。 特性\[98\]
+
+  - Mac OS X 版本的 Firefox 已初步支援 VoiceOver，且預設\[99\]即啟用
+  - 開始支援 web app\[100\] ([Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")/[Mac](https://zh.wikipedia.org/wiki/Mac "wikilink")/[Linux](../Page/Linux.md "wikilink"))。
+  - 新增 Acholi 及 Kazakh 語系支援。
+  - 藉由增量垃圾回收（incremental garbage collection\[101\]）增進 [JavaScript](../Page/JavaScript.md "wikilink") 回應速度。
+  - 新增「開發者工具列」提供快速存取「網頁主控台」錯誤計數等工具的按鈕，以及便於鍵盤存取的命令列介面
+  - 使用 CSS3 Animations、Transitions、Transforms 和 Gradient 時需要多寫的 prefix 已於 Firefox 16 移除\[102\]
+  - 程式碼速記本「開啟最近檔案」功能
+  - 重新載入頁面時，除錯器設置的中斷點無法被正常捕捉（bug 783393\[103\]）
+  - 不再於數位簽章中支援 MD5 雜湊演算法（bug 650355\[104\]）
+  - 預設即支援 Opus（772341\[105\]）
+  - 實作了動畫方向反轉（655920\[106\]）
+  - <about:memory> 可產生個別分頁的報告（687724\[107\]）
+  - 未發行版本 Firefox 的使用者代理字串，改為只顯示主要版本號（728831\[108\]）
+
+#### Firefox 17.0
+
+Firefox 17.0正式版发布于2012年11月20日。 特性\[109\]
+
+  - Click-to-play 阻擋機制，避免在使用者未授權的情況下啟用可能有危險的插件版本\[110\]
+  - 增大圖示以改進智慧位址列使用經驗。
+  - 不再支援\[111\] Mac OS X 10.5。
+  - JavaScript Maps 和 Sets 現在是可列舉（iterable）的了。
+  - 實作了 SVG FillPaint 和 StrokePaint。
+  - 網頁主控台、除錯器、開發者工具列的各種改進，可以更快速、容易地使用。
+  - 新的網頁檢測器「標記面板」讓 DOM 編輯更加容易。
+  - 實作 iframe 的 sandbox \[112\] 屬性，提供更佳的安全性。
+  - 超過二十個效能改進，包括開啟新分頁的相關修正。
+  - 修正Pointer lock 在 web app 中無法使用的問題。（ bug 769150\[113\]）
+  - 修正在有固定置頂元素網頁的頁面的捲動問題。（bug 780345\[114\]）
+  - Mozilla已在2012年11月釋出的Firefox 17版修補該漏洞。起因美國國安局（[NSA](https://zh.wikipedia.org/wiki/NSA "wikilink")）及英國政府通訊總部（Government Communications Headquarter，GCHQ）於2012年6月發佈名為Tor Stinks的簡報檔，檔案中兩國政府單位提及監聽[Tor](../Page/Tor.md "wikilink")網路困難重重，文中表示「無法辨識出所有Tor用戶的身份。而以人工分析後，我們得以辨識非常小部份的Tor用戶。」然而對特定呼叫有回應的用戶，國安單位未成功辨識出任何身份。 之後利用代號為「EgotisticalGiraffe」的技術（靠入侵[Tor](../Page/Tor.md "wikilink") Browser Bundle軟體漏洞，特別是Firefox），NSA在用戶可能造訪的網站或[論壇植入](https://zh.wikipedia.org/wiki/論壇 "wikilink")[惡意程式](https://zh.wikipedia.org/wiki/惡意程式 "wikilink")，然後趁用戶造訪時植入其電腦，並藉此蒐集資料，監聽[Tor](../Page/Tor.md "wikilink")網路（The Onion Router）。雖然NSA表示這是為了瞄準恐怖份子或有組織的罪犯，但《[衛報](../Page/衛報.md "wikilink")》表示，這類攻擊也可能傷害到新聞記者、研究人員，或是不小心造訪這些網站的人。 \[115\]
+
+#### Firefox 18.0
+
+Firefox 18.0正式版发布于2013年1月8日。 特性\[116\]
+
+  - 藉由 IonMonkey 引擎帶來更快的 JavaScript 效能。
+  - 支援 OS X 10.7 以上的 Retina 顯示器。
+  - 初步 WebRTC 支援。
+  - 新的 HTML 縮放演算法帶來更佳的圖片品質。
+  - 改善分頁切換效能。
+  - 支援新的 window.devicePixelRatio DOM 屬性。
+  - 藉由對已簽署附加元件憑證的智慧處理，達到更快啟動速度。
+  - 實作 W3C touch 事件，並取代原有的 MozTouch 事件。
+  - 禁止 HTTPS 頁面中不安全內容的載入（bug 62178\[117\]）。
+  - 改善 proxy 環境中對使用者的回應速度（bug 769764\[118\]）。
+
+#### Firefox 19.0
+
+Firefox 19.0正式版发布于2013年2月19日。 特性\[119\]
+
+  - 內建 PDF 檢視器。
+  - Canvas 元素可使用 canvas.toBlob()\[120\] 將內容輸出為影像 blob 資料。
+  - 改善啟動效能（bug 715402、756313）\[121\]。
+  - 除錯器開始支援「在發生例外時暫停」和「顯示隱藏（non-enumerable）屬性」。
+  - 可藉由遠端網頁主控台（Remote Web Console）連線到 Firefox OS 或 Android 上的 Firefox。 （此為實驗性功能，需將 devtools.debugger.remote-enabled 設定改為 true）
+  - 提供瀏覽器除錯器（Browser Debugger）予附加元件、瀏覽器開發者使用。 （此為實驗性功能，需將 devtools.chrome.enabled 設定改為 true）
+  - 網頁主控台的 CSS 連結現在會於樣式編輯器開啟。
+  - CSS @page \[122\]支援。
+  - CSS viewport-percentage 長度單位\[123\]實作（vh、vw、vmin 和 vmax）。
+  - CSS text-transform 的 full-width\[124\] 支援。
+  - 修正部分正確 WebGL 繪圖操作被錯誤地拒絕，造成頁面顯示不完整的問題（bug 825205\[125\]）。
+  - 修正帶著 -private flag 啟動 Firefox 時，錯誤地表示使用者不在隱私瀏覽模式中的問題（bug 802274\[126\]）。
+  - 修正於 HiDPI 模式中，捲動頁面使插件上半部超出畫面時，插件會停止描繪的問題（bug 825734\[127\]）。
 
 <section begin=color table />
 
@@ -2414,7 +1074,7 @@
 <td><p>10.0</p></td>
 <td><p><em>Firefox 10.0</em></p></td>
 <td><p>2012年1月31日</p></td>
-<td><p><em>官方版Firefox 10.0釋出</em>[208]</p>
+<td><p><em>官方版Firefox 10.0釋出</em>[128]</p>
 <ul>
 <li>預設情形下，大部分附加元件會相容於新版的Firefox</li>
 <li>實作WebGL反鋸齒</li>
@@ -2428,105 +1088,105 @@
 <td><p>10.0esr</p></td>
 <td><p><em>Firefox 10.0esr</em></p></td>
 <td><p>2012年1月31日</p></td>
-<td><p><em>官方版Firefox 10.0esr釋出[209][210]，Firefox第一個企業長期支援（ESR）版本</em></p></td>
+<td><p><em>官方版Firefox 10.0esr釋出[129][130]，Firefox第一個企業長期支援（ESR）版本</em></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>10.0.1</p></td>
 <td><p><em>Firefox 10.0.1</em></p></td>
 <td><p>2012年2月10日</p></td>
-<td><p><em>穩定性及安全性更新</em>[211]</p></td>
+<td><p><em>穩定性及安全性更新</em>[131]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>10.0.1esr</p></td>
 <td><p><em>Firefox 10.0.1esr</em></p></td>
 <td><p>2012年2月10日</p></td>
-<td><p><em>ESR版本穩定性及安全性更新</em>[212]</p></td>
+<td><p><em>ESR版本穩定性及安全性更新</em>[132]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>10.0.2</p></td>
 <td><p><em>Firefox 10.0.2</em></p></td>
 <td><p>2012年2月16日</p></td>
-<td><p><em>穩定性及安全性更新</em>[213]</p></td>
+<td><p><em>穩定性及安全性更新</em>[133]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>10.0.2esr</p></td>
 <td><p><em>Firefox 10.0.2esr</em></p></td>
 <td><p>2012年2月16日</p></td>
-<td><p><em>ESR版本穩定性及安全性更新</em>[214]</p></td>
+<td><p><em>ESR版本穩定性及安全性更新</em>[134]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>10.0.3esr</p></td>
 <td><p><em>Firefox 10.0.3esr</em></p></td>
 <td><p>2012年3月13日</p></td>
-<td><p><em>ESR版本穩定性及安全性更新</em>[215]</p></td>
+<td><p><em>ESR版本穩定性及安全性更新</em>[135]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>10.0.4esr</p></td>
 <td><p><em>Firefox 10.0.4esr</em></p></td>
 <td><p>2012年4月24日</p></td>
-<td><p><em>ESR版本穩定性及安全性更新</em>[216]</p></td>
+<td><p><em>ESR版本穩定性及安全性更新</em>[136]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>10.0.5esr</p></td>
 <td><p><em>Firefox 10.0.5esr</em></p></td>
 <td><p>2012年6月5日</p></td>
-<td><p><em>ESR版本穩定性及安全性更新</em>[217]</p></td>
+<td><p><em>ESR版本穩定性及安全性更新</em>[137]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>10.0.6esr</p></td>
 <td><p><em>Firefox 10.0.6esr</em></p></td>
 <td><p>2012年7月17日</p></td>
-<td><p><em>ESR版本穩定性及安全性更新</em>[218]</p></td>
+<td><p><em>ESR版本穩定性及安全性更新</em>[138]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>10.0.7esr</p></td>
 <td><p><em>Firefox 10.0.7esr</em></p></td>
 <td><p>2012年8月28日</p></td>
-<td><p><em>ESR版本穩定性及安全性更新</em>[219]</p></td>
+<td><p><em>ESR版本穩定性及安全性更新</em>[139]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>10.0.8esr</p></td>
 <td><p><em>Firefox 10.0.8esr</em></p></td>
 <td><p>2012年10月9日</p></td>
-<td><p><em>ESR版本穩定性及安全性更新</em>[220]</p></td>
+<td><p><em>ESR版本穩定性及安全性更新</em>[140]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>10.0.9esr</p></td>
 <td><p><em>Firefox 10.0.9esr</em></p></td>
 <td><p>2012年10月12日</p></td>
-<td><p><em>ESR版本安全性更新</em>[221][222]</p></td>
+<td><p><em>ESR版本安全性更新</em>[141][142]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>10.0.10esr</p></td>
 <td><p><em>Firefox 10.0.10esr</em></p></td>
 <td><p>2012年10月26日</p></td>
-<td><p><em>ESR版本安全性更新</em>[223][224]</p></td>
+<td><p><em>ESR版本安全性更新</em>[143][144]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>10.0.11esr</p></td>
 <td><p><em>Firefox 10.0.11esr</em></p></td>
 <td><p>2012年11月20日</p></td>
-<td><p><em>ESR版本安全性更新</em>[225]</p></td>
+<td><p><em>ESR版本安全性更新</em>[145]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>10.0.12esr</p></td>
 <td><p><em>Firefox 10.0.12esr</em></p></td>
 <td><p>2013年1月8日</p></td>
-<td><p><em>ESR版本安全性更新</em>[226]</p></td>
+<td><p><em>ESR版本安全性更新</em>[146]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2603,7 +1263,7 @@
 <td><p>11.0</p></td>
 <td><p><em>Firefox 11.0</em></p></td>
 <td><p>2012年3月13日</p></td>
-<td><p><em>官方版Firefox 11.0釋出</em>[227]</p>
+<td><p><em>官方版Firefox 11.0釋出</em>[147]</p>
 <ul>
 <li>能將Google Chrome中的設定匯入到Firefox中</li>
 <li>支援SPDY通訊協定（預設禁用）</li>
@@ -2672,7 +1332,7 @@
 <td><p>12.0</p></td>
 <td><p><em>Firefox 12.0</em></p></td>
 <td><p>2012年4月24日</p></td>
-<td><p><em>官方版Firefox 12.0釋出</em>[228]</p>
+<td><p><em>官方版Firefox 12.0釋出</em>[148]</p>
 <ul>
 <li>Windows：Firefox升級更加輕鬆，不再出現使用者帳戶控制（User Account Control）對話框</li>
 <li>網頁原始碼會顯示行號</li>
@@ -2752,7 +1412,7 @@
 <td><p>13.0</p></td>
 <td><p><em>Firefox 13.0</em></p></td>
 <td><p>2012年6月5日</p></td>
-<td><p><em>官方版Firefox 13.0釋出</em>[229]</p>
+<td><p><em>官方版Firefox 13.0釋出</em>[149]</p>
 <ul>
 <li>開啟新分頁時，列出最常造訪的網頁</li>
 <li>預設開始頁提供了前往書籤、歷史、設定以及更多捷徑</li>
@@ -2774,7 +1434,7 @@
 <td><p>13.0.1</p></td>
 <td><p><em>Firefox 13.0.1</em></p></td>
 <td><p>2012年6月15日</p></td>
-<td><p><em>穩定性及安全性更新</em>[230]</p></td>
+<td><p><em>穩定性及安全性更新</em>[150]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2792,7 +1452,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>14.0b6[231]</p></td>
+<td><p>14.0b6[151]</p></td>
 <td><p><em>Firefox 14.0 Beta 6</em></p></td>
 <td><p>2012年6月5日</p></td>
 <td><p><em>第一個Firefox 14.0測試版</em></p></td>
@@ -2844,7 +1504,7 @@
 <td><p>14.0</p></td>
 <td><p><em>Firefox 14.0</em></p></td>
 <td><p>2012年6月26日</p></td>
-<td><p><strong>手機版</strong> <em>官方版Firefox 14.0釋出</em>[232][233]</p>
+<td><p><strong>手機版</strong> <em>官方版Firefox 14.0釋出</em>[152][153]</p>
 <ul>
 <li>Google搜尋採用HTTPS</li>
 <li>Mac OS X Lion的全螢幕支援</li>
@@ -2858,10 +1518,10 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>14.0.1[234]</p></td>
+<td><p>14.0.1[154]</p></td>
 <td><p><em>Firefox 14.0.1</em></p></td>
 <td><p>2012年7月17日</p></td>
-<td><p><strong>桌面版</strong> <em>官方版Firefox 14.0釋出</em>[235]</p>
+<td><p><strong>桌面版</strong> <em>官方版Firefox 14.0釋出</em>[155]</p>
 <ul>
 <li>修正GIF動畫於src和尺寸變更時可能會卡住的問題</li>
 <li>Mac OS X：修正nsCocoaWindow::ConstrainPosition在多重顯示裝置上誤用了不正確螢幕的問題</li>
@@ -2929,7 +1589,7 @@
 <td><p>15.0</p></td>
 <td><p><em>Firefox 15.0</em></p></td>
 <td><p>2012年8月28日</p></td>
-<td><p><em>官方版Firefox 15.0釋出</em>[236]</p>
+<td><p><em>官方版Firefox 15.0釋出</em>[156]</p>
 <ul>
 <li>安靜地背景更新</li>
 <li>支援SPDY網路通訊協定v3</li>
@@ -2952,7 +1612,7 @@
 <td><p>15.0.1</p></td>
 <td><p><em>Firefox 15.0.1</em></p></td>
 <td><p>2012年9月6日</p></td>
-<td><p><em>穩定性更新</em>[237]</p>
+<td><p><em>穩定性更新</em>[157]</p>
 <ul>
 <li>修正隱私瀏覽模式中造訪過的網頁，可藉由人為檢測瀏覽器快取找到的問題</li>
 </ul></td>
@@ -3018,7 +1678,7 @@
 <td><p>16.0</p></td>
 <td><p><em>Firefox 16.0</em></p></td>
 <td><p>2012年10月9日</p></td>
-<td><p><em>官方版Firefox 16.0釋出</em>[238]</p>
+<td><p><em>官方版Firefox 16.0釋出</em>[158]</p>
 <ul>
 <li>Mac OS X版本的Firefox已初步支援VoiceOver</li>
 <li>支援web app（Windows／ Mac／Linux）</li>
@@ -3040,14 +1700,14 @@
 <td><p>16.0.1</p></td>
 <td><p><em>Firefox 16.0.1</em></p></td>
 <td><p>2012年10月11日</p></td>
-<td><p><em>穩定性及安全性更新</em>[239][240]</p></td>
+<td><p><em>穩定性及安全性更新</em>[159][160]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>16.0.2</p></td>
 <td><p><em>Firefox 16.0.2</em></p></td>
 <td><p>2012年10月26日</p></td>
-<td><p><em>穩定性及安全性更新</em>[241][242]</p></td>
+<td><p><em>穩定性及安全性更新</em>[161][162]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -3110,7 +1770,7 @@
 <td><p>17.0</p></td>
 <td><p><em>Firefox 17.0</em></p></td>
 <td><p>2012年11月20日</p></td>
-<td><p><em>官方版Firefox 17.0釋出</em>[243]</p>
+<td><p><em>官方版Firefox 17.0釋出</em>[163]</p>
 <ul>
 <li>Click-to-play阻擋機制，避免在使用者未授權的情況下啟用可能有危險的外掛程式版本</li>
 <li>增大圖示以改進智慧位址列使用體驗</li>
@@ -3130,91 +1790,91 @@
 <td><p>17.0esr</p></td>
 <td><p><em>Firefox 17.0esr</em></p></td>
 <td><p>2012年11月20日</p></td>
-<td><p><em>官方版Firefox 17.0esr釋出[244]，Firefox第二個企業長期支援（ESR）版本</em></p></td>
+<td><p><em>官方版Firefox 17.0esr釋出[164]，Firefox第二個企業長期支援（ESR）版本</em></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>17.0.1</p></td>
 <td><p><em>Firefox 17.0.1</em></p></td>
 <td><p>2012年11月30日</p></td>
-<td><p><em>穩定性更新</em>[245]</p></td>
+<td><p><em>穩定性更新</em>[165]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>17.0.1esr</p></td>
 <td><p><em>Firefox 17.0.1esr</em></p></td>
 <td><p>2012年11月30日</p></td>
-<td><p><em>ESR版本穩定性更新</em>[246]</p></td>
+<td><p><em>ESR版本穩定性更新</em>[166]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>17.0.2esr</p></td>
 <td><p><em>Firefox 17.0.2esr</em></p></td>
 <td><p>2013年1月8日</p></td>
-<td><p><em>ESR版本穩定性及安全性更新</em>[247]</p></td>
+<td><p><em>ESR版本穩定性及安全性更新</em>[167]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>17.0.3esr</p></td>
 <td><p><em>Firefox 17.0.3esr</em></p></td>
 <td><p>2013年2月19日</p></td>
-<td><p><em>ESR版本穩定性及安全性更新</em>[248]</p></td>
+<td><p><em>ESR版本穩定性及安全性更新</em>[168]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>17.0.4esr</p></td>
 <td><p><em>Firefox 17.0.4esr</em></p></td>
 <td><p>2013年3月7日</p></td>
-<td><p><em>ESR版本穩定性及安全性更新</em>[249]</p></td>
+<td><p><em>ESR版本穩定性及安全性更新</em>[169]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>17.0.5esr</p></td>
 <td><p><em>Firefox 17.0.5esr</em></p></td>
 <td><p>2013年4月2日</p></td>
-<td><p><em>ESR版本穩定性及安全性更新</em>[250]</p></td>
+<td><p><em>ESR版本穩定性及安全性更新</em>[170]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>17.0.6esr</p></td>
 <td><p><em>Firefox 17.0.6esr</em></p></td>
 <td><p>2013年5月14日</p></td>
-<td><p><em>ESR版本穩定性及安全性更新</em>[251]</p></td>
+<td><p><em>ESR版本穩定性及安全性更新</em>[171]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>17.0.7esr</p></td>
 <td><p><em>Firefox 17.0.7esr</em></p></td>
 <td><p>2013年6月25日</p></td>
-<td><p><em>ESR版本穩定性及安全性更新</em>[252]</p></td>
+<td><p><em>ESR版本穩定性及安全性更新</em>[172]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>17.0.8esr</p></td>
 <td><p><em>Firefox 17.0.8esr</em></p></td>
 <td><p>2013年8月6日</p></td>
-<td><p><em>ESR版本穩定性及安全性更新</em>[253]</p></td>
+<td><p><em>ESR版本穩定性及安全性更新</em>[173]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>17.0.9esr</p></td>
 <td><p><em>Firefox 17.0.9esr</em></p></td>
 <td><p>2013年9月17日</p></td>
-<td><p><em>ESR版本穩定性及安全性更新</em>[254]</p></td>
+<td><p><em>ESR版本穩定性及安全性更新</em>[174]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>17.0.10esr</p></td>
 <td><p><em>Firefox 17.0.10esr</em></p></td>
 <td><p>2013年10月29日</p></td>
-<td><p><em>ESR版本穩定性及安全性更新</em>[255]</p></td>
+<td><p><em>ESR版本穩定性及安全性更新</em>[175]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>17.0.11esr</p></td>
 <td><p><em>Firefox 17.0.11esr</em></p></td>
 <td><p>2013年11月15日</p></td>
-<td><p><em>ESR版本穩定性更新</em>[256]</p></td>
+<td><p><em>ESR版本穩定性更新</em>[176]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -3284,7 +1944,7 @@
 <td><p>18.0</p></td>
 <td><p><em>Firefox 18.0</em></p></td>
 <td><p>2013年1月8日</p></td>
-<td><p><em>官方版Firefox 18.0釋出</em>[257]</p>
+<td><p><em>官方版Firefox 18.0釋出</em>[177]</p>
 <ul>
 <li>藉由IonMonkey引擎帶來更快的JavaScript效能</li>
 <li>支援OS X 10.7以上的Retina顯示器</li>
@@ -3303,14 +1963,14 @@
 <td><p>18.0.1</p></td>
 <td><p><em>Firefox 18.0.1</em></p></td>
 <td><p>2013年1月18日</p></td>
-<td><p><em>穩定性及安全性更新</em>[258]</p></td>
+<td><p><em>穩定性及安全性更新</em>[178]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>18.0.2</p></td>
 <td><p><em>Firefox 18.0.2</em></p></td>
 <td><p>2013年2月5日</p></td>
-<td><p><em>穩定性及安全性更新</em>[259]</p></td>
+<td><p><em>穩定性及安全性更新</em>[179]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -3373,7 +2033,7 @@
 <td><p>19.0</p></td>
 <td><p><em>Firefox 19.0</em></p></td>
 <td><p>2013年2月19日</p></td>
-<td><p><em>官方版Firefox 19.0釋出</em>[260]</p>
+<td><p><em>官方版Firefox 19.0釋出</em>[180]</p>
 <ul>
 <li>內建PDF檢視器</li>
 <li>Canvas元素可使用canvas.toBlob()將內容輸出為影像blob資料</li>
@@ -3395,7 +2055,7 @@
 <td><p>19.0.1</p></td>
 <td><p><em>Firefox 19.0.1</em></p></td>
 <td><p>2013年2月27日</p></td>
-<td><p><em>穩定性更新</em>[261]</p>
+<td><p><em>穩定性更新</em>[181]</p>
 <ul>
 <li>針對Windows 8：修正使用AMD Radeon HD顯示卡時的穩定性問題</li>
 </ul></td>
@@ -3405,7 +2065,7 @@
 <td><p>19.0.2</p></td>
 <td><p><em>Firefox 19.0.2</em></p></td>
 <td><p>2013年3月7日</p></td>
-<td><p><em>安全性更新</em>[262]</p></td>
+<td><p><em>安全性更新</em>[182]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -3424,7 +2084,219 @@
 
 </div>
 
-#### 版本20至29
+### 版本20至29
+
+#### Firefox 20.0
+
+Firefox 20.0正式版发布于2013年4月2日。 特性\[183\]
+
+  - 安全性更新，詳見相關安全性公告\[184\]。
+
+  - 個別視窗的隱私瀏覽功能，見詳細資訊\[185\]。
+
+  - 新的下載體驗，見詳細資訊\[186\]。
+
+  - 單獨關閉停止回應的外掛程式，而不是整個瀏覽器停止回應。
+
+  - 持續改善一般瀏覽工作的效能（網頁載入\[187\]、下載\[188\]、關閉\[189\]等）。
+
+  - 持續實作 ECMAScript 6 草案—— clear() \[190\]和 Math.imul\[191\]。
+
+  - 新的 JavaScript Profiler 工具。
+
+  - 實作 getUserMedia 讓網路存取使用者的攝影機和麥克風（需使用者授權）。
+
+  -
+
+    <canvas>
+
+    的 blend mode\[192\] 支援。
+
+  - 各種
+
+    <audio>
+
+    和
+
+    <video>
+
+    改善\[193\]。
+
+  - 修正當機回報員的「細節」按鈕的問題（bug 793972\[194\]）。
+
+  - 修正Unity 外掛程式在 HiDPI 模式中無法顯示的問題（bug 829284\[195\]）。
+
+#### Firefox 21.0
+
+Firefox 21.0正式版发布于2013年5月14日。 特性\[196\]
+
+  - Social API 新增了多個提供者支援\[197\]。
+  - 將「不要追蹤我」（Do Not Track, DNT）功能改進為具有三種狀態的使用介面\[198\]。
+  - 有需要時，Firefox 會提供如何改善啟動速度的建議。
+  - 初步實作了 Firefox 健康檢查報告\[199\]。
+  - 可在「新分頁」頁面復原已移除的縮圖。
+  - 變更 CSS -moz-user-select:none 的行為，以增進與 -webkit-user-select:none 的相容性（bug 816298\[200\]）。
+  - 與繪圖相關的效能改善（bug 809821\[201\]）。
+  - 移除 SpiderMonkey 的 E4X\[202\] 支援。
+  - 實作遠端效能分析\[203\]。
+  - 將 Add-on SDK loader 與 API 元件庫整合進 Firefox。
+  - 新增
+    <main>
+    \[204\]元素支援。
+  - 實作 scoped 樣式表\[205\]。
+  - 修正部分功能鍵可能沒有效用的問題（bug 833719\[206\]）。
+  - 需統整瀏覽記錄和下載記錄的清除，以免清除下載記錄時產生混淆（bug 847627\[207\]）。
+  - 安全性更新\[208\]。
+
+#### Firefox 22.0
+
+Firefox 22.0正式版发布于2013年6月25日。 特性\[209\]
+
+  - [WebRTC](../Page/WebRTC.md "wikilink") 現在預設開啟\[210\]。
+  - Windows: 在高解析度顯示裝置上，Firefox 會隨系統縮放設定顯示較大的文字。
+  - Mac OS X: 下載進度會顯示於 Dock 應用程式圖示上。
+  - 可以變更 [HTML5](../Page/HTML5.md "wikilink") audio/video 的播放速度。
+  - 附加元件管理員中實作了社交服務的管理功能。
+  - 啟用 asm.js 最佳化功能（[OdinMonkey](https://zh.wikipedia.org/wiki/SpiderMonkey#OdinMonkey "wikilink")\[211\]）而達到重大效能改善。\[212\]
+  - 藉由非同步 canvas 更新\[213\]改善 WebGL 描繪效能。
+  - 在 Firefox 中顯示的純文字檔案，現在會 word-wrap（折行）顯示。
+  - 安全性考量，web 內容不再能夠存取 |Components| 物件。
+  - 即使不在全螢幕中，仍可使用 Pointer Lock API。
+  - 改善描繪圖片時的記憶體用量與顯示時間\[214\]。
+  - 實作 [CSS3](https://zh.wikipedia.org/wiki/CSS3 "wikilink") Flexbox\[215\]，且預設就是啟用的
+  - 實作了新的 Web Notifications API。
+  - 新增 clipboardData API，讓 JavaScript 得以存取使用者剪貼簿。
+  - 內建新的字型檢測器。
+  - 支援新的 HTML5 \<data\> \[216\]和 \<time\> \[217\]元素。
+  - 修正部分支援高解析度捲動的觸控板，捲動時會感到遲鈍的問題（bug 829952\[218\]）。
+  - 安全性更新\[219\]。
+
+#### Firefox 23.0
+
+Firefox 23.0正式版发布于2013年8月6日。 [Mozilla_Firefox_logo_2013.svg](https://zh.wikipedia.org/wiki/File:Mozilla_Firefox_logo_2013.svg "fig:Mozilla_Firefox_logo_2013.svg") 特性\[220\]
+
+  - 阻擋可能不安全的混合內容，保護使用者免於中間人攻擊或利用 HTTPS 的頁面監聽\[221\]。
+  - 開發者工具箱新增選項面板。
+  - 移除「啟用 JavaScript」選項，並將既存的設定重設為預設值。
+  - 移除「自動載入圖片」和「總是顯示分頁工具列」選項，並將設定重設為預設值。
+  - 更新 Firefox 圖示。
+  - 改善 <about:memory> 使用者介面。
+  - 簡化安裝外掛程式的通知介面。
+  - 於 Windows Vista 以上啟用 DXVA2 以加速 H.264 影片解碼。
+  - 切換到新的搜尋引擎時，整個瀏覽器都會使用該搜尋引擎。
+  - 強制使用符合標準文法及語義的 CSP (Content Security Policy) 政策。
+  - 強化 \<input type='file'\> 顯示（bug 838675\[222\]）。
+  - 實作 HTML5 \<input type="range"\> 表單控制。
+  - 可在按鈕上使用新的 ARIA role，撰寫對觸控介面更具親和力的網頁。
+  - 新增了社交分享功能。
+  - 增加不需前綴縮寫的 requestAnimationFrame。
+  - 實作了全域的瀏覽器主控台。
+  - 取消閃爍效果，含 text-decoration: blink，並完全移除 \<blink\> 元素。
+  - 工具箱新功能：網路監測器\[223\]。
+  - 安全性更新\[224\]。
+
+#### Firefox 24.0
+
+Firefox 24.0正式版发布于2013年9月17日。 特性\[225\]
+
+  - 支援 Mac OS X 10.7 以後的新捲軸外觀。
+  - 實作關閉右方分頁\[226\]功能。
+  - 社交功能：可以將聊天功能拖曳出來，以單獨視窗顯示。
+  - 有關釘選分頁的親和力改進（bug 577727\[227\]）。
+  - 移除對 Revocation Lists 功能的支援（bug 867465\[228\]）。
+  - 改善新分頁頁面的載入效能（bug 791670\[229\]）。
+  - SVG 影像 tiling 和 scaling 描繪的重大改進（bug 600207\[230\]）。
+  - 以進化、統整過的瀏覽器主控台\[231\]取代舊有錯誤主控台，提供更佳除錯體驗。
+  - 不再支援從應用程式目錄或設定檔目錄載入 sherlock 檔案。
+  - 改用 Speex 重新取樣器取代 webrtc.org 的固定比率聲音取樣器，並淘汰虛擬 44000Hz 頻率（bug 886886\[232\]）。
+  - 安全性更性\[233\]。
+
+#### Firefox 25.0
+
+Firefox 25.0正式版发布于2013年10月29日。 特性\[234\]
+
+  - 支援 Web Audio。
+  - 各分頁間不再共用同一個尋找工具列。
+  - 如果數個月未使用 Firefox，可選擇匯入其它瀏覽器的歷史和設定。
+  - 重設 Firefox 現在不會清除瀏覽狀態了。
+  - 支援 CSS 3 控制背景捲動的 background-attachment: local\[235\]。
+  - 實作多項 ES 6 的新功能\[236\]。
+  - 可以用 srcdoc \[237\]屬性直接指定 iframe 的 document 內容。
+  - 修正開新分頁時，預覽縮圖是空白的或有遺漏的問題。
+  - 安全性更新\[238\]。
+
+#### Firefox 26.0
+
+Firefox 26.0正式版发布于2013年12月10日。 特性\[239\]
+
+  - 所有 Java 外掛程式都預設為需點擊才會啟用\[240\]。
+  - 密碼管理員能支援指令碼產生的密碼欄位了。
+  - 即使 Windows 使用者對 Firefox 安裝目錄沒有寫入權限，也能順利更新程式（使用 Mozilla 維護服務）。
+  - 安裝可用的 gstreamer 外掛程式後，就能在 Linux 上支援 H.264 編碼。
+  - 在 Windows XP 也支援 MP3 解碼，完成了對 Windows 作業系統的跨版本 MP3 支援。
+  - CSP 實作現在可支援複數政策，例如標準 enforced 和 Report-Only 政策共存的情形。
+  - Social API 可藉由 SocialMarks 支援各社交提供者的書籤功能\[241\]。
+  - 可行的話，Math.ToFloat32 會採取 JS 的數值並轉換為 Float32。
+  - 網站使用 appcache 時不再出現確認訊息。
+  - 支援 CSS image orientation 屬性。
+  - 新增應用程式管理員，可用於 Firefox OS 手機和模擬器上的 HTML5 webapp 部署與除錯。
+  - IndexedDB 使用時不再出現確認訊息。另資料現在會儲存於採取 LRU 政策的暫存 pool 之中。
+  - 單獨顯示圖片時，Firefox 能正確使用 JPEG 所含 EXIF 中的方向資訊（bug 298619\[242\]）。
+  - Windows 7 更新 KB2670838 後（MSIE 10 需要此更新）或 Windows 8.1 上的文字顯示問題（bug 812695\[243\]）。
+  - 不再對看不見的圖片進行解碼，縮短頁面載入時間（bug 847223\[244\]）。
+  - Mac OS 的 AudioToolbox MP3 後端（bug 914479\[245\]）。
+  - 安全性更新\[246\]。
+
+#### Firefox 27.0
+
+Firefox 27.0正式版发布于2014年2月4日。 特性\[247\]
+
+  - 可同時執行多個 Social API 服務，從不同社交來源接收通知、進行交談以及更多功能。
+  - 預設即啟用 TLS 1.1（RFC 4346\[248\]）和 TLS 1.2（RFC 5246\[249\]）支援。
+  - 支援 SPDY 3.1\[250\] 通訊協定。
+  - 可使用 'all:unset'\[251\] 重設樣式。
+  - 可在除錯器中，將混淆器處理後的 JavaScript 轉為易讀格式顯示（bug 762761\[252\]）。
+  - 支援以捲軸顯示 fieldset 內容（bug 261037\[253\]）。
+  - 實作 iframe sandbox 屬性的 allow-popups 用法，允許更高的安全性（bug 766282\[254\]）。
+  - 移除 CSS cursor 屬性 -moz-grab 和 -moz-grabbing 的製造商前綴（bug 880672\[255\]）。
+  - SpiderMonkey 可支援 ES6 的 generator 機制\[256\]。
+  - 支援 ES6 的 Math.hypot() 數學函數（bug 896264\[257\]）。
+  - 支援在 Canvas 中描繪虛線（bug 768067\[258\]）。
+  - 支援 Linux Azure/Skia 的內容描繪（bug 740200\[259\]）。
+  - 安全性更新\[260\]。
+
+#### Firefox 28.0
+
+Firefox 28.0正式版发布于2014年3月18日。 特性\[261\]
+
+  - 支援 [VP9](../Page/VP9.md "wikilink") 影像解碼。
+  - Mac OS X: 在通知中心顯示 Web Notification。
+  - HTML5 audio/video 音量控制。
+  - WebM 的 [Opus](https://zh.wikipedia.org/wiki/Opus "wikilink") 支援。
+  - 支援 [spdy](../Page/SPDY.md "wikilink")/3，並移除 spdy/2 支援。不使用 spdy/3 的伺服器仍將順暢地以 http/1 進行通訊。
+  - 支援 [MathML](https://zh.wikipedia.org/wiki/MathML "wikilink") 2.0 'mathvariant' 屬性。
+  - 背景[-{A停滯報告](../Page/线程.md "wikilink")。
+  - 支援多行 flexbox 配置。
+  - 支援使用[-{A](../Page/手柄.md "wikilink")（Gamepad）來操控網頁遊戲：在瀏覽列輸入「about:config」進入控制台，然後在「dom.gamepad.enabled」欄位修改設定為 true，即可順利啟動。\[262\]
+  - 安全性修正。\[263\]。
+
+#### Firefox 29.0
+
+Firefox 29.0正式版发布于2014年4月29日。 [Firefox_29.0_on_Windows_8.png](https://zh.wikipedia.org/wiki/File:Firefox_29.0_on_Windows_8.png "fig:Firefox_29.0_on_Windows_8.png")\]\] 特性\[264\]
+
+  - 新的Australis介面，並在首次使用時，以互動式導覽幫助使用者認識介面變更\[265\] 。
+  - 能夠以註冊 Firefox 帳號的方式設定 Firefox Sync\[266\] 。
+  - 預設啟用已完成的 Gamepad API\[267\] 。
+  - 新增馬來語（ma）語系支援。
+  - 點選 W3C Web Notification 時，將切換至原來產生通知的分頁。
+  - 實作 'box-sizing'（移除了 -moz 前綴）屬性\[268\] 。
+  - 在 Web Worker 中也能取用 Console 物件\[269\] 。
+  - 預設啟用 Promise\[270\] 。
+  - 預設啟用 SharedWorker。
+  - 實作並啟用 <input type="number">。
+  - 實作並啟用 <input type="color">。
+  - 啟用 [ECMAScript](../Page/ECMAScript.md "wikilink") Internationalization API。
+  - 移除附加元件列，將其內容移動到瀏覽工具列。
 
 <section begin=color table />
 
@@ -3512,7 +2384,7 @@
 <td><p>20.0</p></td>
 <td><p><em>Firefox 20.0</em></p></td>
 <td><p>2013年4月2日</p></td>
-<td><p><em>官方版Firefox 20.0釋出</em>[263]</p>
+<td><p><em>官方版Firefox 20.0釋出</em>[271]</p>
 <ul>
 <li>個別視窗的隱私瀏覽功能</li>
 <li>新的下載體驗</li>
@@ -3538,7 +2410,7 @@
 <td><p>20.0.1</p></td>
 <td><p><em>Firefox 20.0.1</em></p></td>
 <td><p>2013年4月11日</p></td>
-<td><p><em>穩定及安全性更新</em>[264]</p>
+<td><p><em>穩定及安全性更新</em>[272]</p>
 <ul>
 <li>（僅Windows）修正UNC路徑的處理問題</li>
 </ul></td>
@@ -3611,7 +2483,7 @@
 <td><p>21.0</p></td>
 <td><p><em>Firefox 21.0</em></p></td>
 <td><p>2013年5月14日</p></td>
-<td><p><em>官方版Firefox 21.0釋出</em>[265]</p>
+<td><p><em>官方版Firefox 21.0釋出</em>[273]</p>
 <ul>
 <li>Social API新增了多個提供者支援</li>
 <li>將「不要追蹤我」（Do Not Track, DNT）功能改進為具有三種狀態的使用介面</li>
@@ -3692,7 +2564,7 @@
 <td><p>22.0</p></td>
 <td><p><em>Firefox 22.0</em></p></td>
 <td><p>2013年6月25日</p></td>
-<td><p><em>官方版Firefox 22.0釋出</em>[266]</p>
+<td><p><em>官方版Firefox 22.0釋出</em>[274]</p>
 <ul>
 <li>WebRTC預設啟用</li>
 <li>Windows：在高解析度顯示裝置上，Firefox會隨系統縮放設定顯示較大的文字。</li>
@@ -3801,7 +2673,7 @@
 <td><p>23.0</p></td>
 <td><p><em>Firefox 23.0</em></p></td>
 <td><p>2013年8月6日</p></td>
-<td><p><em>官方版Firefox 23.0釋出</em>[267]</p>
+<td><p><em>官方版Firefox 23.0釋出</em>[275]</p>
 <ul>
 <li>阻擋可能不安全的混合內容，保護使用者免於中間人攻擊或利用HTTPS的頁面監聽</li>
 <li>開發者工具箱新增選項面板</li>
@@ -3827,7 +2699,7 @@
 <td><p>23.0.1</p></td>
 <td><p><em>Firefox 23.0.1</em></p></td>
 <td><p>2013年8月17日</p></td>
-<td><p><em>穩定性更新</em>[268]</p>
+<td><p><em>穩定性更新</em>[276]</p>
 <ul>
 <li>修正Firefox 23於Windows Vista播放H.264影片的顯示問題</li>
 <li>修正使用者設定檔目錄包含非ASCII字元時，語法檢查功能無法正確運作問題</li>
@@ -3923,7 +2795,7 @@
 <td><p>24.0</p></td>
 <td><p><em>Firefox 24.0</em></p></td>
 <td><p>2013年9月17日</p></td>
-<td><p><em>官方版Firefox 24.0釋出</em>[269]</p>
+<td><p><em>官方版Firefox 24.0釋出</em>[277]</p>
 <ul>
 <li>支援Mac OS X 10.7以後的新捲軸外觀</li>
 <li>實作關閉右方分頁功能</li>
@@ -3942,77 +2814,77 @@
 <td><p>24.0esr</p></td>
 <td><p><em>Firefox 24.0esr</em></p></td>
 <td><p>2013年9月17日</p></td>
-<td><p><em>官方版Firefox 24.0esr釋出[270]，Firefox第三個企業長期支援（ESR）版本</em></p></td>
+<td><p><em>官方版Firefox 24.0esr釋出[278]，Firefox第三個企業長期支援（ESR）版本</em></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>24.1.0esr</p></td>
 <td><p><em>Firefox 24.1.0esr</em></p></td>
 <td><p>2013年10月29日</p></td>
-<td><p><em>ESR版本穩定及安全性更新</em>[271]</p></td>
+<td><p><em>ESR版本穩定及安全性更新</em>[279]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>24.1.1esr</p></td>
 <td><p><em>Firefox 24.1.1esr</em></p></td>
 <td><p>2013年11月15日</p></td>
-<td><p><em>ESR版本穩定及安全性更新</em>[272]</p></td>
+<td><p><em>ESR版本穩定及安全性更新</em>[280]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>24.2.0esr</p></td>
 <td><p><em>Firefox 24.2.0esr</em></p></td>
 <td><p>2013年12月10日</p></td>
-<td><p><em>ESR版本穩定及安全性更新</em>[273]</p></td>
+<td><p><em>ESR版本穩定及安全性更新</em>[281]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>24.3.0esr</p></td>
 <td><p><em>Firefox 24.3.0esr</em></p></td>
 <td><p>2014年2月4日</p></td>
-<td><p><em>ESR版本穩定及安全性更新</em>[274]</p></td>
+<td><p><em>ESR版本穩定及安全性更新</em>[282]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>24.4.0esr</p></td>
 <td><p><em>Firefox 24.4.0esr</em></p></td>
 <td><p>2014年3月18日</p></td>
-<td><p><em>ESR版本穩定及安全性更新</em>[275]</p></td>
+<td><p><em>ESR版本穩定及安全性更新</em>[283]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>24.5.0esr</p></td>
 <td><p><em>Firefox 24.5.0esr</em></p></td>
 <td><p>2014年4月29日</p></td>
-<td><p><em>ESR版本穩定及安全性更新</em>[276]</p></td>
+<td><p><em>ESR版本穩定及安全性更新</em>[284]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>24.6.0esr</p></td>
 <td><p><em>Firefox 24.6.0esr</em></p></td>
 <td><p>2014年6月10日</p></td>
-<td><p><em>ESR版本穩定及安全性更新</em>[277]</p></td>
+<td><p><em>ESR版本穩定及安全性更新</em>[285]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>24.7.0esr</p></td>
 <td><p><em>Firefox 24.7.0esr</em></p></td>
 <td><p>2014年7月22日</p></td>
-<td><p><em>ESR版本穩定及安全性更新</em>[278]</p></td>
+<td><p><em>ESR版本穩定及安全性更新</em>[286]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>24.8.0esr</p></td>
 <td><p><em>Firefox 24.8.0esr</em></p></td>
 <td><p>2014年9月2日</p></td>
-<td><p><em>ESR版本穩定及安全性更新</em>[279]</p></td>
+<td><p><em>ESR版本穩定及安全性更新</em>[287]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>24.8.1esr</p></td>
 <td><p><em>Firefox 24.8.1esr</em></p></td>
 <td><p>2014年9月24日</p></td>
-<td><p><em>ESR版本安全性更新</em>[280]</p></td>
+<td><p><em>ESR版本安全性更新</em>[288]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -4117,7 +2989,7 @@
 <td><p>25.0</p></td>
 <td><p><em>Firefox 25.0</em></p></td>
 <td><p>2013年10月29日</p></td>
-<td><p><em>官方版Firefox 25.0釋出</em> [281]</p>
+<td><p><em>官方版Firefox 25.0釋出</em> [289]</p>
 <ul>
 <li>支援Web Audio</li>
 <li>各分頁間不再共用同一個尋找工具列</li>
@@ -4134,7 +3006,7 @@
 <td><p>25.0.1</p></td>
 <td><p><em>Firefox 25.0.1</em></p></td>
 <td><p>2013年11月15日</p></td>
-<td><p><em>穩定及安全性更新</em>[282]</p>
+<td><p><em>穩定及安全性更新</em>[290]</p>
 <ul>
 <li>修正有時必須先移動滑鼠才會載入網頁的問題</li>
 </ul></td>
@@ -4221,7 +3093,7 @@
 <td><p>26.0</p></td>
 <td><p><em>Firefox 26.0</em></p></td>
 <td><p>2013年12月10日</p></td>
-<td><p><em>官方版Firefox 26.0釋出</em>[283]</p>
+<td><p><em>官方版Firefox 26.0釋出</em>[291]</p>
 <ul>
 <li>所有Java外掛程式都預設為需點擊才會啟用</li>
 <li>密碼管理員支援指令碼產生的密碼欄位</li>
@@ -4315,14 +3187,14 @@
 <td><p>27.0 RC1</p></td>
 <td><p><em>Firefox 27.0 Release Candidate 1</em></p></td>
 <td><p>2014年1月28日</p></td>
-<td><p>''第一個Firefox 27.0候選版[284]</p></td>
+<td><p>''第一個Firefox 27.0候選版[292]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>27.0</p></td>
 <td><p><em>Firefox 27.0</em></p></td>
 <td><p>2014年2月4日</p></td>
-<td><p><em>官方版Firefox 27.0釋出</em>[285]</p>
+<td><p><em>官方版Firefox 27.0釋出</em>[293]</p>
 <ul>
 <li>可同時執行多個Social API服務，從不同社交來源接收通知、進行交談以及更多功能</li>
 <li>預設啟用TLS 1.1（RFC 4346）和TLS 1.2（RFC 5246）支援</li>
@@ -4343,7 +3215,7 @@
 <td><p>27.0.1</p></td>
 <td><p><em>Firefox 27.0.1</em></p></td>
 <td><p>2014年2月14日</p></td>
-<td><p><em>穩定性更新</em>[286]</p>
+<td><p><em>穩定性更新</em>[294]</p>
 <ul>
 <li>修正Greasemonkey和其它使用ClearTimeoutOrInterval的JavaScript穩定性問題</li>
 <li>修正JavaScript數學精確度問題</li>
@@ -4431,7 +3303,7 @@
 <td><p>28.0</p></td>
 <td><p><em>Firefox 28.0</em></p></td>
 <td><p>2014年3月18日</p></td>
-<td><p><em>官方版Firefox 28.0釋出</em>[287]</p>
+<td><p><em>官方版Firefox 28.0釋出</em>[295]</p>
 <ul>
 <li>支援VP9影像解碼</li>
 <li>Mac OS X：在通知中心顯示Web Notification</li>
@@ -4448,7 +3320,7 @@
 <td><p>28.0.1</p></td>
 <td><p><em>Firefox 28.0.1</em></p></td>
 <td><p>2014年3月24日</p></td>
-<td><p><em>手機版穩定性更新</em>[288]</p></td>
+<td><p><em>手機版穩定性更新</em>[296]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -4539,7 +3411,7 @@
 <td><p>29.0</p></td>
 <td><p><em>Firefox 29.0</em></p></td>
 <td><p>2014年4月29日</p></td>
-<td><p><em>官方版Firefox 29.0釋出</em>[289]</p>
+<td><p><em>官方版Firefox 29.0釋出</em>[297]</p>
 <ul>
 <li>全新設計的自訂模式</li>
 <li>Firefox右側邊多了一個方便的選單，收納常用瀏覽功能</li>
@@ -4564,7 +3436,7 @@
 <td><p>29.0.1</p></td>
 <td><p><em>Firefox 29.0.1</em></p></td>
 <td><p>2014年5月9日</p></td>
-<td><p><em>穩定及安全性更新</em>[290]</p></td>
+<td><p><em>穩定及安全性更新</em>[298]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -4577,7 +3449,196 @@
 </tbody>
 </table>
 
-#### 版本30至39
+### 版本30至39
+
+#### Firefox 30.0
+
+Firefox 30.0正式版发布于2014年6月10日。 特性\[299\]
+
+  - 新增「側邊欄」按鈕，存取社交、書籤、歷史等側邊欄更加方便。
+  - 在 Mac OS X，按下 command-E 將目前選取的文字複製到尋找列。
+  - 支援 [GStreamer](../Page/GStreamer.md "wikilink") 1.0。
+  - 不允許 web 網頁將 WebIDL 定義的建構子當作函數呼叫。
+  - 除了擴充套件內建以及白名單\[300\]項目外，外掛程式將不再預設為啟用\[301\]。
+  - 修正 outline 被描繪到 box-shadow 和其它視覺 overflow 效果之外的問題 [`(Bug``   ``480888)`](https://bugzilla.mozilla.org/show_bug.cgi?id=480888)。
+  - 使用 WebAudio 時，可針對個別視窗調整音量。
+  - 預設啟用 background-blend-mode 屬性。
+  - 允許在 <input type="reset|button|submit"> 使用 line-height 屬性。
+  - 實作 ES6 Array 和 Generator 的 comprehension 語法\[302\]。
+  - 錯誤堆疊的顯示會包含列號。
+  - Canvas 的 context options 可支援 alpha 選項\[303\]。
+  - 修正密碼管理員在 autocomplete="off" 時，仍可提供儲存密碼的問題 [`(Bug``   ``956906)`](https://bugzilla.mozilla.org/show_bug.cgi?id=956906)。
+  - TypedArray 無法新增有名字的屬性 [`(Bug``   ``695438)`](https://bugzilla.mozilla.org/show_bug.cgi?id=695438)。
+  - 安全性修正\[304\]。
+
+#### Firefox 31.0
+
+Firefox 31.0正式版发布于2014年7月22日。 特性\[305\]
+
+  - 「新分頁」頁面新增搜尋欄。
+  - 根據「家長監護」設定送出「Prefer:Safe」http 標頭\[306\]。
+  - 改用 mozilla:pkix 驗證安全憑證\[307\]。
+  - 阻擋下載檔案中的惡意軟體\[308\]。
+  - 實作部分的 OpenType MATH table (section 6.3.6)\[309\]\[310\]\[311\]。
+  - 若未指定影音 .ogg 和 .pdf 檔案的預設應用程式，Firefox 就會自動開啟它們（限 Windows）。
+  - 新增上索布語（Upper Sorbian, hsb）語系支援。
+  - 移除用來指定網站權限（透過 capability.policy.\* 設定值）的 CAPS 基礎程式。需注意將無法再藉此功能允許剪貼簿的存取，唯一的例外是 checkloaduri 權限，仍可用來讓網站載入 <file://> URI。
+  - 實作並啟用 WebVTT\[312\]。
+  - 實作 CSS3 變數\[313\]。
+  - 開發者工具：附加元件除錯器\[314\]。
+  - 開發者工具：Canvas 除錯器。
+  - 新的 Array 內建方法：Array.prototype.fill()\[315\]。
+  - 新的 Object 內建方法：Object.setPrototypeOf()\[316\]。
+  - 預設啟用 CSP 1.1 nonce-source 和 hash-source。
+  - 開發者工具：滴管工具\[317\]。
+  - 開發者工具：Box Model 即時編輯功能\[318\]。
+  - 開發者工具：原始碼編輯器的改進\[319\]。
+  - 開發者工具：主控台錯誤記錄可顯示堆疊追溯\[320\]。
+  - 開發者工具：以 cURL 指令複製\[321\]。
+  - 開發者工具：主控台記錄訊息支援格式化輸出\[322\]。
+  - 預設啟用 navigator.sendBeacon\[323\]。
+  - onbeforeunload 產生的對話框不會阻擋對瀏覽器的存取。
+  - 修復選取連結文字的一部分時，右鍵選單中的搜尋功能無法正確使用的問題（bug 985824\[324\]）。
+
+#### Firefox 32.0
+
+Firefox 32.0正式版发布于2014年9月2日。 特性\[325\]
+
+  - 採用新版 HTTP 快取\[326\]，提供各種效能改善並加強當機復原能力。
+  - 整合根據世代計算的垃圾回收機制。
+  - 支援 Public Key Pinning\[327\]。
+  - 尋找工具列會顯示符合的筆數。
+  - 從右鍵選單\[328\]就能使用上一頁、下一頁、重新載入、加入書籤功能。
+  - 密碼管理員會顯示登入次數等使用資訊。
+  - 新增下索布語（Lower Sorbian, dsb）語系支援。
+  - 移除部分 1024-bit 根憑證\[329\]。
+  - 「密碼管理員」和「附加元件管理員」效能改善。
+  - 預設啟用 drawFocusIfNeeded。
+  - 預設啟用 CSS position: sticky\[330\]。
+  - 預設啟用 mix-blend-mode。
+  - 更新 Vibration API 至最新的 W3C 標準。
+  - 預設啟用 box-decoration-break\[331\]。
+  - 實作 ECMAScript 6 內建方法 Array\#copyWithin\[332\]。
+  - 新的 Array 內建方法：Array.from()\[333\]。
+  - 實作 navigator.languages\[334\] 屬性及 languagechange\[335\] 事件。
+  - 以 CSS box-decoration-break\[336\] 屬性取代 -moz-background-inline-policy。
+  - 支援 HiDPI 的開發者工具 UI。
+  - 將「檢測器」按鈕移至左上角。
+  - 隱藏的節點在標記檢視中會以不同方式呈現。
+  - 新增 Web Audio 編輯器\[337\]。
+  - 程式碼速記本自動完成\[338\]與說明提示\[339\]功能。
+  - 修復在Mac OS X上關閉所有視窗後，cmd-L 不會再開啟新視窗的問題\[340\]。
+  - 修復在Windows 7 更新 KB2670838 後（MSIE 10 需要此更新）或 Windows 8.1 上的文字顯示問題。
+  - 各種安全性修正\[341\]。
+
+#### Firefox 33.0
+
+Firefox 33.0正式版发布于2014年10月14日。 特性\[342\]
+
+  - 支援 [OpenH264](../Page/OpenH264.md "wikilink")\[343\]（[沙箱模式](../Page/沙盒_\(電腦安全\).md "wikilink")）。
+  - 改善網址列的搜尋使用體驗\[344\]。
+  - 更加輕巧快速的 JavaScript 字串\[345\]。
+  - Firefox 開始頁（about:home）和新分頁（about:newtab）開始支援搜尋建議功能。
+  - Windows版本預設啟用 OMTC\[346\]。
+  - 新的 CSP（）後端。
+  - 支援以 HTTPS 連線至 HTTP proxy。
+  - 改善還原瀏覽分頁\[347\]的可靠性。
+  - 新增[亞塞拜然](https://zh.wikipedia.org/wiki/亞塞拜然 "wikilink")（Azerbaijani, az）語系支援。
+  - 移除 window.crypto 屬性與函數。
+  - 移除 JSD（JavaScript Debugger Service）\[348\]，以 Debugger 介面取代。
+  - 實作 [CSS3 Counter Styles 標準的](../Page/瀏覽器引擎CSS支援比較.md "wikilink") `@counter-style` 規則\[349\]。
+  - 實作 DOMMatrix\[350\] 介面。
+  - [Cubic-bezier 曲線](../Page/貝茲曲線.md "wikilink")\[351\]編輯器。
+  - 顯示元素上已綁定的事件監聽器\[352\]。
+  - 樣式編輯器新增`@media` 側邊欄\[353\]，顯示前往 `@media` 規則的捷徑。
+  - 強調繪圖區\[354\]功能，顯示瀏覽器重新繪圖的情形。
+  - 可以即時編輯檢測器中的 `@keyframes` 規則\[355\]。
+  - 改善樣式檢測器對 CSS transform\[356\] 的上色標示。
+  - 修正 HTTP 1.1 傳輸損壞，造成不完整的下載被視為已完成的問題\[357\]。
+  - 各種安全性修正\[358\]。
+
+#### Firefox 34.0
+
+Firefox 34.0正式版发布于2014年12月1日。 特性\[359\]
+
+  - 將白俄羅斯、哈薩克和俄羅斯語系的預設搜尋引擎改為[Yandex](../Page/Yandex.md "wikilink")。
+  - 改善搜尋列功能（限 en-US 語系）。
+  - Firefox Hello\[360\]\[361\]\[362\]即時通訊客戶端。
+  - 在自訂模式中輕鬆切換佈景主題／[Persona](https://zh.wikipedia.org/wiki/附加组件_\(Mozilla\)#主题 "wikilink")\[363\]。
+  - [英文維基百科搜尋改用](https://zh.wikipedia.org/wiki/英文維基百科 "wikilink")[HTTPS進行安全搜尋](https://zh.wikipedia.org/wiki/HTTPS "wikilink")（限 en-US 語系）。
+  - [HTTP/2](https://zh.wikipedia.org/wiki/HTTP/2 "wikilink")（draft 14）和 [ALPN](https://zh.wikipedia.org/wiki/ALPN "wikilink") 實作。
+  - 在[Windows版](https://zh.wikipedia.org/wiki/Windows "wikilink")「Firefox 已在執行中」對話框內，可選擇關閉鎖定的 Firefox 程序並重新啟動。
+  - 停用[SSL](https://zh.wikipedia.org/wiki/SSL "wikilink") v3。
+  - 重新啟用 window.crypto 屬性與函數（將於 Firefox 35 移除）。
+  - 取得 Apple OS X version 2 簽署。
+  - 實作 [ECMAScript](../Page/ECMAScript.md "wikilink") 6 WeakSet\[364\]。
+  - 實作 JavaScript Template Strings\[365\]。
+  - CSS3 Font variant 和字型特徵控制（例如 font-kerning，字距）的實作。
+  - WebCrypto：支援 RSA-OAEP、PBKDF2 和 AES-KW、實作 wrapKey 和 unwrapKey、匯入／匯出 JWK 格式的金鑰、支援 ECDH。
+  - 實作 `matches()`\[366\] DOM API。
+  - 實作wroker用的`Performance.now()`。
+  - WebIDE\[367\]：在瀏覽器中建立、編輯、測試新的 web 應用程式。
+  - 在「樣式編輯器」和檢測器的「規則」面板中，強調顯示符合指定選擇器的節點。
+  - 改進「效能分析器」的使用者介面。
+  - Web console新增console.table\[368\]函數。
+  - CSS transition 在同時改變 display、position、overflow 與相似屬性時也能正確開始。
+  - 各種安全性修正\[369\]。
+
+#### Firefox 35.0
+
+Firefox 35.0正式版发布于2015年1月13日。 [Firefox-hello-logo.svg](https://zh.wikipedia.org/wiki/File:Firefox-hello-logo.svg "fig:Firefox-hello-logo.svg") 特性\[370\]
+
+  - 聊天室型式的Firefox Hello交談。
+  - 在更多語系中啟用新的搜尋介面。
+  - 從工具選單「應用程式」或工具列按鈕存取Firefox Marketplace\[371\]。
+  - 在[Mac OS X Snow Leopard](../Page/Mac_OS_X_Snow_Leopard.md "wikilink")（10.6）以上，藉由原生API提供內建的H264（MP4）支援。
+  - 在[OS X使用tiled](https://zh.wikipedia.org/wiki/OS_X "wikilink") rendering。
+  - 改善高品質圖片縮放的效能。
+  - 改善對動態樣式變更的處理，以增進反應速度。
+  - 實作HTTP Public Key Pinning Extension\[372\]，為加密連線提供更好的認證。
+  - 支援CSS Font Loading API。
+  - 實作Resource Timing API。
+  - 預設啟用CSS filter\[373\]屬性。
+  - 調整[JavaScript](../Page/JavaScript.md "wikilink") 'let'語義\[374\]以符合 ES6 標準。
+  - 支援檢測`::before`和`::after`虛擬元素。
+  - 「計算樣式」面板：標示符合目前滑鼠所在選擇器的節點。
+  - 網路監測器：新增請求／回應檔頭檢視\[375\]。
+  - 支援`EXT_blend_minmax` WebGL擴充功能。
+  - 修復檢測器右鍵選單中的「顯示 DOM 屬性」項目。
+  - 減少處理已縮放圖片所使用的資源。
+  - 更新PDF.js至1.0.907版本。
+  - 正確回應非HTTP(S)的XHR狀態碼。
+  - 各種安全性修正\[376\]。
+
+#### Firefox 36.0
+
+Firefox 36.0正式版发布于2015年2月24日。 特性\[377\]
+
+  - 完整支援[HTTP/2](https://zh.wikipedia.org/wiki/HTTP/2 "wikilink")
+  - 各種安全性修正\[378\]。
+
+#### Firefox 37.0
+
+Firefox 37.0正式版发布于2015年3月31日。 特性\[379\]
+
+  - 新的使用者回饋系統。
+  - 各種安全性修正\[380\]。
+
+#### Firefox 38.0
+
+Firefox 38.0正式版发布于2015年5月12日。 特性\[381\]
+
+  - 將選項視窗變更為選項分頁。
+  - 各種安全性修正\[382\]。
+
+#### Firefox 39.0
+
+Firefox 39.0正式版发布于2015年7月2日。 特性\[383\]
+
+  - 在對話框中直接將Firefox Hello連結分享至社群網路的連結。
+  - 在[Mac OS X及](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Linux](../Page/Linux.md "wikilink")的版本中啟用惡意軟體的偵測功能。
+  - 支援Unicode 8.0的emoji。
+  - 各種安全性修正\[384\]。
 
 <section begin=color table />
 
@@ -4686,7 +3747,7 @@
 <td><p>30.0</p></td>
 <td><p><em>Firefox 30.0</em></p></td>
 <td><p>2014年6月10日</p></td>
-<td><p><em>官方版Firefox 30.0釋出</em>[291]</p>
+<td><p><em>官方版Firefox 30.0釋出</em>[385]</p>
 <ul>
 <li>新增「側邊欄」按鈕，存取社交、書籤、歷史等側邊欄更加方便</li>
 <li>在Mac OS X，按下command-E將目前選取的文字複製到尋找列</li>
@@ -4793,7 +3854,7 @@
 <td><p>31.0</p></td>
 <td><p><em>Firefox 31.0</em></p></td>
 <td><p>2014年7月22日</p></td>
-<td><p><em>官方版Firefox 31.0釋出</em>[292]</p>
+<td><p><em>官方版Firefox 31.0釋出</em>[386]</p>
 <ul>
 <li>「新分頁」頁面新增搜尋欄</li>
 <li>改用<code>mozilla::pkix</code>驗證安全憑證</li>
@@ -4825,49 +3886,49 @@
 <td><p>31.0esr</p></td>
 <td><p><em>Firefox 31.0esr</em></p></td>
 <td><p>2014年7月22日</p></td>
-<td><p><em>官方版Firefox 31.0esr釋出[293]，Firefox第四個企業長期支援（ESR）版本</em></p></td>
+<td><p><em>官方版Firefox 31.0esr釋出[387]，Firefox第四個企業長期支援（ESR）版本</em></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>31.1.0esr</p></td>
 <td><p><em>Firefox 31.1.0esr</em></p></td>
 <td><p>2014年9月2日</p></td>
-<td><p><em>ESR版本穩定及安全性更新</em>[294]</p></td>
+<td><p><em>ESR版本穩定及安全性更新</em>[388]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>31.1.1esr</p></td>
 <td><p><em>Firefox 31.1.1esr</em></p></td>
 <td><p>2014年9月24日</p></td>
-<td><p><em>ESR版本安全性更新</em>[295]</p></td>
+<td><p><em>ESR版本安全性更新</em>[389]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>31.2.0esr</p></td>
 <td><p><em>Firefox 31.2.0esr</em></p></td>
 <td><p>2014年10月14日</p></td>
-<td><p><em>ESR版本穩定及安全性更新</em>[296]</p></td>
+<td><p><em>ESR版本穩定及安全性更新</em>[390]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>31.3.0esr</p></td>
 <td><p><em>Firefox 31.3.0esr</em></p></td>
 <td><p>2014年12月1日</p></td>
-<td><p><em>ESR版本穩定及安全性更新</em>[297]</p></td>
+<td><p><em>ESR版本穩定及安全性更新</em>[391]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>31.4.0esr</p></td>
 <td><p><em>Firefox 31.4.0esr</em></p></td>
 <td><p>2015年1月13日</p></td>
-<td><p><em>ESR版本穩定及安全性更新</em>[298]</p></td>
+<td><p><em>ESR版本穩定及安全性更新</em>[392]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>31.5.0esr</p></td>
 <td><p><em>Firefox 31.5.0esr</em></p></td>
 <td><p>2015年2月24日</p></td>
-<td><p><em>ESR版本穩定及安全性更新</em>[299]</p></td>
+<td><p><em>ESR版本穩定及安全性更新</em>[393]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -4888,28 +3949,28 @@
 <td><p>31.5.3esr</p></td>
 <td><p><em>Firefox 31.5.3esr</em></p></td>
 <td><p>2015年3月21日</p></td>
-<td><p><em>ESR版本安全性更新</em>[300]</p></td>
+<td><p><em>ESR版本安全性更新</em>[394]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>31.6.0esr</p></td>
 <td><p><em>Firefox 31.6.0esr</em></p></td>
 <td><p>2015年3月31日</p></td>
-<td><p><em>ESR版本安全性更新</em>[301]</p></td>
+<td><p><em>ESR版本安全性更新</em>[395]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>31.7.0esr</p></td>
 <td><p><em>Firefox 31.7.0esr</em></p></td>
 <td><p>2015年5月12日</p></td>
-<td><p><em>ESR版本安全性更新</em>[302]</p></td>
+<td><p><em>ESR版本安全性更新</em>[396]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>31.8.0esr</p></td>
 <td><p><em>Firefox 31.8.0esr</em></p></td>
 <td><p>2015年7月2日</p></td>
-<td><p><em>ESR版本安全性更新</em>[303]</p></td>
+<td><p><em>ESR版本安全性更新</em>[397]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -5000,7 +4061,7 @@
 <td><p>32.0</p></td>
 <td><p><em>Firefox 32.0</em></p></td>
 <td><p>2014年9月2日</p></td>
-<td><p><em>官方版Firefox 32.0釋出</em>[304]</p>
+<td><p><em>官方版Firefox 32.0釋出</em>[398]</p>
 <ul>
 <li>採用新版HTTP快取，提供各種效能改善並加強當機復原能力</li>
 <li>整合世代演進式垃圾回收機制（Generational Garbage Collection）</li>
@@ -5034,7 +4095,7 @@
 <td><p>32.0.1</p></td>
 <td><p><em>Firefox 32.0.1</em></p></td>
 <td><p>2014年9月12日</p></td>
-<td><p><em>穩定性更新</em>[305]</p>
+<td><p><em>穩定性更新</em>[399]</p>
 <ul>
 <li>修正在擁有複數顯示卡環境中的穩定性問題</li>
 <li>修正SSL網站的鎖定圖示可能會錯誤地顯示為混合內容圖示問題</li>
@@ -5046,7 +4107,7 @@
 <td><p>32.0.2</p></td>
 <td><p><em>Firefox 32.0.2</em></p></td>
 <td><p>2014年9月18日</p></td>
-<td><p><em>穩定性更新</em>[306]</p>
+<td><p><em>穩定性更新</em>[400]</p>
 <ul>
 <li>修正不完整的安裝造成Firefox在升級時當機問題</li>
 </ul></td>
@@ -5056,7 +4117,7 @@
 <td><p>32.0.3</p></td>
 <td><p><em>Firefox 32.0.3</em></p></td>
 <td><p>2014年9月24日</p></td>
-<td><p><em>安全性更新</em>''[307]</p></td>
+<td><p><em>安全性更新</em>''[401]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -5147,7 +4208,7 @@
 <td><p>33.0</p></td>
 <td><p><em>Firefox 33.0</em></p></td>
 <td><p>2014年10月14日</p></td>
-<td><p><em>官方版Firefox 33.0釋出</em>[308]</p>
+<td><p><em>官方版Firefox 33.0釋出</em>[402]</p>
 <ul>
 <li>Windows：預設啟用OMTC</li>
 <li>支援OpenH264（沙箱模式）</li>
@@ -5176,7 +4237,7 @@
 <td><p>33.0.1</p></td>
 <td><p><em>Firefox 33.0.1</em></p></td>
 <td><p>2014年10月24日</p></td>
-<td><p><em>穩定性更新</em>[309]</p>
+<td><p><em>穩定性更新</em>[403]</p>
 <ul>
 <li>修正某些顯示卡會造成Firefox啟動時顯示黑畫面的問題</li>
 </ul></td>
@@ -5186,7 +4247,7 @@
 <td><p>33.0.2</p></td>
 <td><p><em>Firefox 33.0.2</em></p></td>
 <td><p>2014年10月28日</p></td>
-<td><p><em>穩定性更新</em>[310]</p>
+<td><p><em>穩定性更新</em>[404]</p>
 <ul>
 <li>修正某些硬體與驅動程式的組合下，Firefox啟動時會當機的問題</li>
 </ul></td>
@@ -5196,7 +4257,7 @@
 <td><p>33.0.3</p></td>
 <td><p><em>Firefox 33.0.3</em></p></td>
 <td><p>2014年11月7日</p></td>
-<td><p><em>穩定性更新</em>[311]</p>
+<td><p><em>穩定性更新</em>[405]</p>
 <ul>
 <li>修正將啟用OMTC時，會造成黑畫面的顯卡驅動程式設為黑名單的問題</li>
 <li>修正兩個在特定硬體、驅動程式組合下，啟動時發生當機的問題</li>
@@ -5207,7 +4268,7 @@
 <td><p>33.1</p></td>
 <td><p><em>Firefox 33.1</em></p></td>
 <td><p>2014年11月10日</p></td>
-<td><p><em>Firefox十週年紀念版本</em>[312][313]</p>
+<td><p><em>Firefox十週年紀念版本</em>[406][407]</p>
 <ul>
 <li>新增忘記按鈕</li>
 <li>首頁磚加強版</li>
@@ -5220,7 +4281,7 @@
 <td><p>33.1.1</p></td>
 <td><p><em>Firefox 33.1.1</em></p></td>
 <td><p>2014年11月14日</p></td>
-<td><p><em>穩定性更新</em>[314]</p></td>
+<td><p><em>穩定性更新</em>[408]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -5325,7 +4386,7 @@
 <td><p>34.0</p></td>
 <td><p><em>Firefox 34.0</em></p></td>
 <td><p>2014年12月1日</p></td>
-<td><p><em>官方版Firefox 34.0釋出</em>[315]</p>
+<td><p><em>官方版Firefox 34.0釋出</em>[409]</p>
 <ul>
 <li>白俄羅斯、哈薩克和俄羅斯語系的預設搜尋引擎改為Yandex</li>
 <li>改善搜尋列功能（限en-US語系）</li>
@@ -5360,7 +4421,7 @@
 <td><p>34.0.5</p></td>
 <td><p><em>Firefox 34.0.5</em></p></td>
 <td><p>2014年12月1日</p></td>
-<td><p><em>官方版Firefox 34.0.5釋出</em>[316]</p>
+<td><p><em>官方版Firefox 34.0.5釋出</em>[410]</p>
 <ul>
 <li>北美語系的預設搜尋引擎改為Yahoo!</li>
 </ul></td>
@@ -5379,7 +4440,7 @@
 <em>Firefox 35.0 Developer Edition</em></p></td>
 <td><p>2014年10月14日</p></td>
 <td><p><em>第二個Firefox 35.0預覽版<br />
-官方於2014年11月10日將Aurora版本更名為Firefox Developer Edition</em>[317][318]</p></td>
+官方於2014年11月10日將Aurora版本更名為Firefox Developer Edition</em>[411][412]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -5442,7 +4503,7 @@
 <td><p>35.0</p></td>
 <td><p><em>Firefox 35.0</em></p></td>
 <td><p>2015年1月13日</p></td>
-<td><p><em>官方版Firefox 35.0釋出</em>[319]</p>
+<td><p><em>官方版Firefox 35.0釋出</em>[413]</p>
 <ul>
 <li>聊天室型式的Firefox Hello交談</li>
 <li>在更多語系中啟用新的搜尋介面</li>
@@ -5470,7 +4531,7 @@
 <td><p>35.0.1</p></td>
 <td><p><em>Firefox 35.0.1</em></p></td>
 <td><p>2015年1月27日</p></td>
-<td><p><em>穩定性更新</em>[320]</p>
+<td><p><em>穩定性更新</em>[414]</p>
 <ul>
 <li>修正「Enhanced Steam」擴充套件可能造成Firefox當機</li>
 <li>修正一個可能在啟動時造成當機的問題</li>
@@ -5585,7 +4646,7 @@
 <td><p>36.0</p></td>
 <td><p><em>Firefox 36.0</em></p></td>
 <td><p>2015年2月24日</p></td>
-<td><p><em>官方版Firefox 36.0釋出</em>[321]</p>
+<td><p><em>官方版Firefox 36.0釋出</em>[415]</p>
 <ul>
 <li>「新分頁」頁面的釘選磚塊也能同步</li>
 <li>支援HTTP/2協定</li>
@@ -5615,7 +4676,7 @@
 <td><p>36.0.1</p></td>
 <td><p><em>Firefox 36.0.1</em></p></td>
 <td><p>2015年3月6日</p></td>
-<td><p><em>穩定性更新</em>[322]</p>
+<td><p><em>穩定性更新</em>[416]</p>
 <ul>
 <li>進行DNS查詢時，不再使用「ANY」查詢類型</li>
 <li>修正EMET造成的啟動時當機情形</li>
@@ -5633,14 +4694,14 @@
 <td><p>36.0.2</p></td>
 <td><p><em>Firefox 36.0.2</em></p></td>
 <td><p>2015年3月16日</p></td>
-<td><p><em>手機版穩定性更新</em>[323]</p></td>
+<td><p><em>手機版穩定性更新</em>[417]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>36.0.3</p></td>
 <td><p><em>Firefox 36.0.3</em></p></td>
 <td><p>2015年3月20日</p></td>
-<td><p><em>安全性更新</em>[324]</p>
+<td><p><em>安全性更新</em>[418]</p>
 <ul>
 <li>修正在HP Zero Day Initiative的Pwn2Own大賽中揭露的漏洞</li>
 </ul></td>
@@ -5650,7 +4711,7 @@
 <td><p>36.0.4</p></td>
 <td><p><em>Firefox 36.0.4</em></p></td>
 <td><p>2015年3月21日</p></td>
-<td><p><em>安全性更新</em>[325]</p>
+<td><p><em>安全性更新</em>[419]</p>
 <ul>
 <li>修正在HP Zero Day Initiative的Pwn2Own大賽中揭露的漏洞</li>
 </ul></td>
@@ -5730,7 +4791,7 @@
 <td><p>37.0</p></td>
 <td><p><em>Firefox 37.0</em></p></td>
 <td><p>2015年3月31日</p></td>
-<td><p><em>官方版Firefox 37.0釋出</em>[326]</p>
+<td><p><em>官方版Firefox 37.0釋出</em>[420]</p>
 <ul>
 <li>Heartbeat使用者評分系統─收集Firefox使用者回饋</li>
 <li>土耳其語系的預設搜尋引擎改為Yandex</li>
@@ -5758,7 +4819,7 @@
 <td><p>37.0.1</p></td>
 <td><p><em>Firefox 37.0.1</em></p></td>
 <td><p>2015年4月3日</p></td>
-<td><p><em>安全性與穩定性更新</em>[327]</p>
+<td><p><em>安全性與穩定性更新</em>[421]</p>
 <ul>
 <li>停用HTTP/2 AltSvc</li>
 <li>修正顯示硬體及第三方軟體造成的啟動過程當機問題</li>
@@ -5769,7 +4830,7 @@
 <td><p>37.0.2</p></td>
 <td><p><em>Firefox 37.0.2</em></p></td>
 <td><p>2015年4月20日</p></td>
-<td><p><em>安全性與穩定性更新</em>[328]</p>
+<td><p><em>安全性與穩定性更新</em>[422]</p>
 <ul>
 <li>修正Google地圖在某些狀況下的顯示問題</li>
 <li>修正選擇顯示硬體與顯示功能時的穩定性問題</li>
@@ -5878,7 +4939,7 @@
 <td><p>38.0</p></td>
 <td><p><em>Firefox 38.0</em></p></td>
 <td><p>2015月5月12日</p></td>
-<td><p><em>官方版Firefox 38.0釋出</em>[329]</p>
+<td><p><em>官方版Firefox 38.0釋出</em>[423]</p>
 <ul>
 <li>選項畫面改為分頁型式</li>
 <li>支援ruby注釋</li>
@@ -5905,7 +4966,7 @@
 <td><p>38.0.1</p></td>
 <td><p><em>Firefox 38.0.1</em></p></td>
 <td><p>2015年5月14日</p></td>
-<td><p><em>安全性與穩定性更新</em>[330]</p>
+<td><p><em>安全性與穩定性更新</em>[424]</p>
 <ul>
 <li>修正第一代NVidia Optimus顯示卡在啟動時當機的問題</li>
 <li>修正由Google Chrome匯入Cookie時網站無法使用的問題</li>
@@ -5918,112 +4979,112 @@
 <td><p>38.0esr</p></td>
 <td><p><em>Firefox 38.0esr</em></p></td>
 <td><p>2015年5月12日</p></td>
-<td><p><em>官方版Firefox 38.0esr釋出[331]，Firefox第五個企業長期支援（ESR）版本</em></p></td>
+<td><p><em>官方版Firefox 38.0esr釋出[425]，Firefox第五個企業長期支援（ESR）版本</em></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>38.0.1esr</p></td>
 <td><p><em>Firefox 38.0.1esr</em></p></td>
 <td><p>2015年5月14日</p></td>
-<td><p><em>ESR版本安全性與穩定性更新</em>[332]</p></td>
+<td><p><em>ESR版本安全性與穩定性更新</em>[426]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>38.1.0esr</p></td>
 <td><p><em>Firefox 38.1.0esr</em></p></td>
 <td><p>2015年7月2日</p></td>
-<td><p><em>ESR版本安全性與穩定性更新</em>[333]</p></td>
+<td><p><em>ESR版本安全性與穩定性更新</em>[427]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>38.1.1esr</p></td>
 <td><p><em>Firefox 38.1.1esr</em></p></td>
 <td><p>2015年8月6日</p></td>
-<td><p><em>ESR版本安全性更新</em>[334]</p></td>
+<td><p><em>ESR版本安全性更新</em>[428]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>38.2.0esr</p></td>
 <td><p><em>Firefox 38.2.0esr</em></p></td>
 <td><p>2015年8月11日</p></td>
-<td><p><em>ESR版本安全性與穩定性更新</em>[335]</p></td>
+<td><p><em>ESR版本安全性與穩定性更新</em>[429]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>38.2.1esr</p></td>
 <td><p><em>Firefox 38.2.1esr</em></p></td>
 <td><p>2015年8月27日</p></td>
-<td><p><em>ESR版本安全性更新</em>[336]</p></td>
+<td><p><em>ESR版本安全性更新</em>[430]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>38.3.0esr</p></td>
 <td><p><em>Firefox 38.3.0esr</em></p></td>
 <td><p>2015年9月22日</p></td>
-<td><p><em>ESR版本安全性與穩定性更新</em>[337]</p></td>
+<td><p><em>ESR版本安全性與穩定性更新</em>[431]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>38.4.0esr</p></td>
 <td><p><em>Firefox 38.4.0esr</em></p></td>
 <td><p>2015年11月3日</p></td>
-<td><p><em>ESR版本安全性與穩定性更新</em>[338]</p></td>
+<td><p><em>ESR版本安全性與穩定性更新</em>[432]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>38.5.0esr</p></td>
 <td><p><em>Firefox 38.5.0esr</em></p></td>
 <td><p>2015年12月15日</p></td>
-<td><p><em>ESR版本安全性與穩定性更新</em>[339]</p></td>
+<td><p><em>ESR版本安全性與穩定性更新</em>[433]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>38.5.1esr</p></td>
 <td><p><em>Firefox 38.5.0esr</em></p></td>
 <td><p>2015年12月21日</p></td>
-<td><p><em>ESR版本安全性與穩定性更新</em>[340]</p></td>
+<td><p><em>ESR版本安全性與穩定性更新</em>[434]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>38.5.2esr</p></td>
 <td><p><em>Firefox 38.5.2esr</em></p></td>
 <td><p>2015年12月22日</p></td>
-<td><p><em>ESR版本安全性與穩定性更新</em>[341]</p></td>
+<td><p><em>ESR版本安全性與穩定性更新</em>[435]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>38.6.0esr</p></td>
 <td><p><em>Firefox 38.6.0esr</em></p></td>
 <td><p>2016年1月26日</p></td>
-<td><p><em>ESR版本安全性與穩定性更新</em>[342]</p></td>
+<td><p><em>ESR版本安全性與穩定性更新</em>[436]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>38.6.1esr</p></td>
 <td><p><em>Firefox 38.6.1esr</em></p></td>
 <td><p>2016年2月11日</p></td>
-<td><p><em>ESR版本安全性更新</em>[343]</p></td>
+<td><p><em>ESR版本安全性更新</em>[437]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>38.7.0esr</p></td>
 <td><p><em>Firefox 38.7.0esr</em></p></td>
 <td><p>2016年3月8日</p></td>
-<td><p><em>ESR版本安全性更新</em>[344]</p></td>
+<td><p><em>ESR版本安全性更新</em>[438]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>38.7.1esr</p></td>
 <td><p><em>Firefox 38.7.1esr</em></p></td>
 <td><p>2016年3月16日</p></td>
-<td><p><em>ESR版本穩定性更新</em>[345]</p></td>
+<td><p><em>ESR版本穩定性更新</em>[439]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>38.8.0esr</p></td>
 <td><p><em>Firefox 38.8.0esr</em></p></td>
 <td><p>2016年4月26日</p></td>
-<td><p><em>ESR版本安全性更新</em>[346]</p></td>
+<td><p><em>ESR版本安全性更新</em>[440]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -6065,7 +5126,7 @@
 <td><p>38.0.5</p></td>
 <td><p><em>Firefox 38.0.5</em></p></td>
 <td><p>2015年6月2日</p></td>
-<td><p><em>官方版Firefox 38.0.5釋出</em>[347]</p>
+<td><p><em>官方版Firefox 38.0.5釋出</em>[441]</p>
 <ul>
 <li>整合Pocket</li>
 <li>在「閱讀模式」以乾淨格式閱讀文章和部落格</li>
@@ -6171,7 +5232,7 @@
 <td><p>39.0</p></td>
 <td><p><em>Firefox 39.0</em></p></td>
 <td><p>2015年7月2日</p></td>
-<td><p><em>官方版Firefox 39.0釋出</em>[348]</p>
+<td><p><em>官方版Firefox 39.0釋出</em>[442]</p>
 <ul>
 <li>分享Hello通話網址到社交網路</li>
 <li>Silk計畫：更順暢的動畫和捲動（Mac OS X）</li>
@@ -6204,7 +5265,7 @@
 <td><p>39.0.3</p></td>
 <td><p><em>Firefox 39.0.3</em></p></td>
 <td><p>2015年8月6日</p></td>
-<td><p><em>安全性更新</em>''[349]</p></td>
+<td><p><em>安全性更新</em>''[443]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -6217,7 +5278,74 @@
 </tbody>
 </table>
 
-#### 版本40至49
+### 版本40至49
+
+#### Firefox 40.0
+
+Firefox 40.0正式版发布于2015年8月11日。 特性\[444\]
+
+  - 支持Windows10。
+  - 对于潜在附加软件(PUP)的下载提供保护。
+
+#### Firefox 41.0
+
+Firefox 41.0正式版发布于2015年9月22日。 特性\[445\]
+
+  - 可以为你的火狐账号设置头像了。
+
+#### Firefox 42.0
+
+Firefox 42.0正式版发布于2015年11月3日。 特性\[446\]
+
+  - 隐私保护中可以设置浏览跟踪保护。
+
+#### Firefox 43.0
+
+Firefox 43.0正式版发布于2015年12月15日。 特性\[447\]
+
+  - 提供Windows 64位的Firefox。
+
+#### Firefox 44.0
+
+Firefox 44.0正式版发布于2016年1月26日。 特性\[448\]
+
+  - 可以在不支持MP4/H.264的系统中开启H.264和WebM/VP9。
+
+#### Firefox 45.0
+
+Firefox 45.0正式版发布于2016年3月8日。 特性\[449\]
+
+  - 通过Hello共享即时浏览。
+
+#### Firefox 46.0
+
+Firefox 46.0正式版发布于2016年4月26日。 特性\[450\]
+
+  - 改进的JavaScript JIT编译技术。
+  - GTK3集成。
+  - 移除对Android 3.0的支持。
+
+#### Firefox 47.0
+
+Firefox 47.0正式版发布于2016年6月7日。 特性\[451\]
+
+  - 支持Google Widevine CDM，例如Amazon Video可以切换为Silverlight来加密HTML5视频。
+
+#### Firefox 48.0
+
+Firefox 48.0正式版发布于2016年8月2日。 特性\[452\]
+
+  - 增强的下载保护。
+  - 移除Windows Remote Access Service modem Autodial。
+
+#### Firefox 49.0
+
+Firefox 49.0正式版发布于2016年9月20日。 特性\[453\]
+
+  - 更新登录管理器。
+  - 改善视频性能。
+  - HTML5音频视频增加右键菜单可以以1.25倍速播放。
+  - 移除Firefox Hello。
 
 <section begin=color table />
 
@@ -6333,7 +5461,7 @@
 <td><p>40.0</p></td>
 <td><p><em>Firefox 40.0</em></p></td>
 <td><p>2015年8月11日</p></td>
-<td><p><em>官方版Firefox 40.0釋出</em>[350]</p>
+<td><p><em>官方版Firefox 40.0釋出</em>[454]</p>
 <ul>
 <li>支援Windows 10</li>
 <li>增加對不安全軟體下載的防護</li>
@@ -6362,7 +5490,7 @@
 <td><p>40.0.2</p></td>
 <td><p><em>Firefox 40.0.2</em></p></td>
 <td><p>2015年8月13日</p></td>
-<td><p><em>穩定性更新</em>[351]</p>
+<td><p><em>穩定性更新</em>[455]</p>
 <ul>
 <li>啟用Windows 10開啟設定對話框的API</li>
 <li>修正XULRunner封裝缺少mozalloc.lib的問題</li>
@@ -6374,7 +5502,7 @@
 <td><p>40.0.3</p></td>
 <td><p><em>Firefox 40.0.3</em></p></td>
 <td><p>2015年8月27日</p></td>
-<td><p><em>安全性與穩定性更新</em>[352]</p>
+<td><p><em>安全性與穩定性更新</em>[456]</p>
 <ul>
 <li>預設停用非同步外掛程式的初始化</li>
 <li>修正GStreamer支援的記憶體區塊錯誤（僅限Linux）</li>
@@ -6487,7 +5615,7 @@
 <td><p>41.0</p></td>
 <td><p><em>Firefox 41.0</em></p></td>
 <td><p>2015年9月22日</p></td>
-<td><p><em>官方版Firefox 41.0釋出</em>[353]</p>
+<td><p><em>官方版Firefox 41.0釋出</em>[457]</p>
 <ul>
 <li>藉TSF（Text Services Framework）改善Windows（Vista+）IME支援</li>
 <li>可以為Firefox帳號設定個人圖片</li>
@@ -6518,7 +5646,7 @@
 <td><p>41.0.1</p></td>
 <td><p><em>Firefox 41.0.1</em></p></td>
 <td><p>2015年9月30日</p></td>
-<td><p><em>穩定性更新</em>[354]</p>
+<td><p><em>穩定性更新</em>[458]</p>
 <ul>
 <li>修正關於Yandex工具列和Adblock Plus的啟動錯誤</li>
 <li>修正潛在的Flash外掛問題</li>
@@ -6532,7 +5660,7 @@
 <td><p>41.0.2</p></td>
 <td><p><em>Firefox 41.0.2</em></p></td>
 <td><p>2015年10月15日</p></td>
-<td><p><em>安全性更新</em>[355]</p></td>
+<td><p><em>安全性更新</em>[459]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -6630,7 +5758,7 @@
 <td><p>42.0</p></td>
 <td><p><em>Firefox 42.0</em></p></td>
 <td><p>2015年11月3日</p></td>
-<td><p><em>官方版Firefox 42.0釋出</em>[356]</p>
+<td><p><em>官方版Firefox 42.0釋出</em>[460]</p>
 <ul>
 <li>隱私瀏覽模式新增「追蹤保護」功能，封鎖會記錄瀏覽行為的特定元素</li>
 <li>隱私瀏覽新增「控制中心」畫面，包含安全性和隱私控制項目</li>
@@ -6749,7 +5877,7 @@
 <td><p>43.0</p></td>
 <td><p><em>Firefox 43.0</em></p></td>
 <td><p>2015年12月15日</p></td>
-<td><p><em>官方版Firefox 43.0釋出</em>[357]</p>
+<td><p><em>官方版Firefox 43.0釋出</em>[461]</p>
 <ul>
 <li>隱私瀏覽「追蹤保護」可選用包含更多追蹤者的封鎖清單</li>
 <li>改善對m4v影片播放API的支援</li>
@@ -6780,7 +5908,7 @@
 <td><p>43.0.1</p></td>
 <td><p><em>Firefox 43.0.1</em></p></td>
 <td><p>2015年12月18日</p></td>
-<td><p><em>穩定性更新</em>[358]</p>
+<td><p><em>穩定性更新</em>[462]</p>
 <ul>
 <li>為滿足新版Windows簽章要件，準備以SHA-256憑證簽署Windows建置版本</li>
 </ul></td>
@@ -6790,7 +5918,7 @@
 <td><p>43.0.2</p></td>
 <td><p><em>Firefox 43.0.2</em></p></td>
 <td><p>2015年12月22日</p></td>
-<td><p>穩定性與安全性更新[359]</p>
+<td><p>穩定性與安全性更新[463]</p>
 <ul>
 <li>滿足新版Windows簽章要件，以SHA-256憑證簽署Windows建置版本</li>
 </ul></td>
@@ -6800,7 +5928,7 @@
 <td><p>43.0.3</p></td>
 <td><p><em>Firefox 43.0.3</em></p></td>
 <td><p>2015年12月28日</p></td>
-<td><p><em>穩定性更新</em>[360]</p>
+<td><p><em>穩定性更新</em>[464]</p>
 <ul>
 <li>修正使用Nvidia Network Access Manager時的網路問題</li>
 <li>針對特定Windows設定改善YouTube影片解碼功能</li>
@@ -6811,7 +5939,7 @@
 <td><p>43.0.4</p></td>
 <td><p><em>Firefox 43.0.4</em></p></td>
 <td><p>2016年1月6日</p></td>
-<td><p><em>穩定性更新</em>[361]</p>
+<td><p><em>穩定性更新</em>[465]</p>
 <ul>
 <li>修正使用第三方防毒工具時的啟動當機問題</li>
 <li>修正於多使用者環境的GNU／Linux，可能建立錯誤的下載資料夾問題</li>
@@ -6900,7 +6028,7 @@
 <td><p>44.0</p></td>
 <td><p><em>Firefox 44.0</em></p></td>
 <td><p>2016年1月26日</p></td>
-<td><p><em>官方版Firefox 44.0釋出</em>[362]</p>
+<td><p><em>官方版Firefox 44.0釋出</em>[466]</p>
 <ul>
 <li>改善憑證錯誤和連線不受信任的警告頁面</li>
 <li>若系統有可用的解碼器，啟用H.264影片支援</li>
@@ -6942,7 +6070,7 @@
 <td><p>44.0.1</p></td>
 <td><p><em>Firefox 44.0.1</em></p></td>
 <td><p>2016年2月8日</p></td>
-<td><p><em>穩定性與安全性更新</em>[363]</p>
+<td><p><em>穩定性與安全性更新</em>[467]</p>
 <ul>
 <li>修正特定情況下遺失已存密碼的問題</li>
 <li>允許cookie名稱包含空白</li>
@@ -6959,7 +6087,7 @@
 <td><p>44.0.2</p></td>
 <td><p><em>Firefox 44.0.2</em></p></td>
 <td><p>2016年2月11日</p></td>
-<td><p><em>穩定性與安全性更新</em>[364]</p>
+<td><p><em>穩定性與安全性更新</em>[468]</p>
 <ul>
 <li>修正Firefox啟動時的當機問題</li>
 </ul></td>
@@ -7067,7 +6195,7 @@
 <td><p>45.0</p></td>
 <td><p><em>Firefox 45.0</em></p></td>
 <td><p>2016年3月8日</p></td>
-<td><p><em>官方版Firefox 45.0釋出</em>[365]</p>
+<td><p><em>官方版Firefox 45.0釋出</em>[469]</p>
 <ul>
 <li>用Hello分享分頁</li>
 <li>其他裝置上Firefox帳號同步的分頁會出現在網址列搜尋結果中</li>
@@ -7094,7 +6222,7 @@
 <td><p>45.0.1</p></td>
 <td><p><em>Firefox 45.0.1</em></p></td>
 <td><p>2016年3月16日</p></td>
-<td><p><em>穩定性更新</em>[366]</p>
+<td><p><em>穩定性更新</em>[470]</p>
 <ul>
 <li>修正在Youtube等網站的潛在效能問題</li>
 <li>修正特定情況下，遺失搜尋引擎順序、關鍵字設定的問題</li>
@@ -7111,7 +6239,7 @@
 <td><p>45.0.2</p></td>
 <td><p><em>Firefox 45.0.2</em></p></td>
 <td><p>2016年4月11日</p></td>
-<td><p><em>穩定性更新</em>[367]</p>
+<td><p><em>穩定性更新</em>[471]</p>
 <ul>
 <li>修正阻擋第三方cookie時，傳送的cookie header不正確問題</li>
 <li>修正<image>標籤srcset屬性的相容性問題</li>
@@ -7125,98 +6253,98 @@
 <td><p>45.0esr</p></td>
 <td><p><em>Firefox 45.0esr</em></p></td>
 <td><p>2016年3月16日</p></td>
-<td><p><em>官方版Firefox 45.0esr釋出[368]，Firefox第六個企業長期支援（ESR）版本</em></p></td>
+<td><p><em>官方版Firefox 45.0esr釋出[472]，Firefox第六個企業長期支援（ESR）版本</em></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>45.0.1esr</p></td>
 <td><p><em>Firefox 45.0.1esr</em></p></td>
 <td><p>2016年3月16日</p></td>
-<td><p><em>ESR版本安全性與穩定性更新</em>[369]</p></td>
+<td><p><em>ESR版本安全性與穩定性更新</em>[473]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>45.0.2esr</p></td>
 <td><p><em>Firefox 45.0.2esr</em></p></td>
 <td><p>2016年4月12日</p></td>
-<td><p><em>ESR版本安全性更新</em>[370]</p></td>
+<td><p><em>ESR版本安全性更新</em>[474]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>45.1.0esr</p></td>
 <td><p><em>Firefox 45.1.0esr</em></p></td>
 <td><p>2016年4月26日</p></td>
-<td><p><em>ESR版本安全性更新</em>[371]</p></td>
+<td><p><em>ESR版本安全性更新</em>[475]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>45.1.1esr</p></td>
 <td><p><em>Firefox 45.1.1esr</em></p></td>
 <td><p>2016年5月3日</p></td>
-<td><p><em>ESR版本穩定性更新</em>[372]</p></td>
+<td><p><em>ESR版本穩定性更新</em>[476]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>45.2.0esr</p></td>
 <td><p><em>Firefox 45.2.0esr</em></p></td>
 <td><p>2016年6月7日</p></td>
-<td><p><em>ESR版本安全性與穩定性更新</em>[373]</p></td>
+<td><p><em>ESR版本安全性與穩定性更新</em>[477]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>45.3.0esr</p></td>
 <td><p><em>Firefox 45.3.0esr</em></p></td>
 <td><p>2016年8月2日</p></td>
-<td><p><em>ESR版本安全性與穩定性更新</em>[374]</p></td>
+<td><p><em>ESR版本安全性與穩定性更新</em>[478]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>45.4.0esr</p></td>
 <td><p><em>Firefox 45.4.0esr</em></p></td>
 <td><p>2016年9月20日</p></td>
-<td><p><em>ESR版本安全性與穩定性更新</em>[375]</p></td>
+<td><p><em>ESR版本安全性與穩定性更新</em>[479]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>45.5.0esr</p></td>
 <td><p><em>Firefox 45.5.0esr</em></p></td>
 <td><p>2016年11月15日</p></td>
-<td><p><em>ESR版本安全性與穩定性更新</em>[376]</p></td>
+<td><p><em>ESR版本安全性與穩定性更新</em>[480]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>45.5.1esr</p></td>
 <td><p><em>Firefox 45.5.1esr</em></p></td>
 <td><p>2016年11月30日</p></td>
-<td><p><em>ESR版本安全性更新</em>[377]</p></td>
+<td><p><em>ESR版本安全性更新</em>[481]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>45.6.0esr</p></td>
 <td><p><em>Firefox 45.6.0esr</em></p></td>
 <td><p>2016年12月13日</p></td>
-<td><p><em>ESR版本安全性更新</em>[378]</p></td>
+<td><p><em>ESR版本安全性更新</em>[482]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>45.7.0esr</p></td>
 <td><p><em>Firefox 45.7.0esr</em></p></td>
 <td><p>2017年1月24日</p></td>
-<td><p><em>ESR版本安全性更新</em>[379]</p></td>
+<td><p><em>ESR版本安全性更新</em>[483]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>45.8.0esr</p></td>
 <td><p><em>Firefox 45.8.0esr</em></p></td>
 <td><p>2017年3月7日</p></td>
-<td><p><em>ESR版本安全性更新</em>[380]</p></td>
+<td><p><em>ESR版本安全性更新</em>[484]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>45.9.0esr</p></td>
 <td><p><em>Firefox 45.9.0esr</em></p></td>
 <td><p>2017年4月19日</p></td>
-<td><p><em>ESR版本安全性更新</em>[381]</p></td>
+<td><p><em>ESR版本安全性更新</em>[485]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -7335,7 +6463,7 @@
 <td><p>46.0</p></td>
 <td><p><em>Firefox 46.0</em></p></td>
 <td><p>2016年4月26日</p></td>
-<td><p><em>官方版Firefox 46.0釋出</em>[382]</p>
+<td><p><em>官方版Firefox 46.0釋出</em>[486]</p>
 <ul>
 <li>改善JavaScript JIT編譯器安全性</li>
 <li>GTK3整合（限GNU／Linux）</li>
@@ -7354,7 +6482,7 @@
 <td><p>46.0.1</p></td>
 <td><p><em>Firefox 46.0.1</em></p></td>
 <td><p>2016年5月3日</p></td>
-<td><p><em>穩定性更新</em>[383]</p>
+<td><p><em>穩定性更新</em>[487]</p>
 <ul>
 <li>修正附加元件簽署失效的問題</li>
 <li>修正特定情形下的Service Worker更新失敗問題</li>
@@ -7474,7 +6602,7 @@
 <td><p>47.0</p></td>
 <td><p><em>Firefox 47.0</em></p></td>
 <td><p>2016年6月7日</p></td>
-<td><p><em>官方版Firefox 47.0釋出</em>[384]</p>
+<td><p><em>官方版Firefox 47.0釋出</em>[488]</p>
 <ul>
 <li>於Windows、Mac OS X支援Google Widevine CDM，自動將Amazon Video等影片串流服務的Silverlight影片轉為HTML5播放</li>
 <li>在速度較佳的裝置啟用VP9視訊解碼器</li>
@@ -7503,7 +6631,7 @@
 <td><p>47.0.1</p></td>
 <td><p><em>Firefox 47.0.1</em></p></td>
 <td><p>2016年6月28日</p></td>
-<td><p><em>穩定性更新</em>[385]</p>
+<td><p><em>穩定性更新</em>[489]</p>
 <ul>
 <li>修正Selenium WebDriver可能造成Firefox啟動時當機問題</li>
 </ul></td>
@@ -7604,7 +6732,7 @@
 <td><p>48.0</p></td>
 <td><p><em>Firefox 48.0</em></p></td>
 <td><p>2016年8月2日</p></td>
-<td><p><em>官方版Firefox 48.0釋出</em>[386]</p>
+<td><p><em>官方版Firefox 48.0釋出</em>[490]</p>
 <ul>
 <li>改善對有害下載檔案的防護</li>
 <li>開始對部分使用者啟用多程序模式（Electrolysis，e10s）</li>
@@ -7641,7 +6769,7 @@
 <td><p>48.0.1</p></td>
 <td><p><em>Firefox 48.0.1</em></p></td>
 <td><p>2016年8月18日</p></td>
-<td><p><em>穩定性更新</em>[387]</p>
+<td><p><em>穩定性更新</em>[491]</p>
 <ul>
 <li>修正影響數個主要網站的聲音播放問題</li>
 <li>修正一個JavaScript引擎當機問題</li>
@@ -7658,7 +6786,7 @@
 <td><p>48.0.2</p></td>
 <td><p><em>Firefox 48.0.2</em></p></td>
 <td><p>2016年8月24日</p></td>
-<td><p><em>穩定性更新</em>[388]</p>
+<td><p><em>穩定性更新</em>[492]</p>
 <ul>
 <li>修正Websence引起的啟動時當機問題（僅限Windows）</li>
 </ul></td>
@@ -7780,7 +6908,7 @@
 <td><p>49.0</p></td>
 <td><p><em>Firefox 49.0</em></p></td>
 <td><p>2016年9月20日</p></td>
-<td><p><em>官方版Firefox 49.0釋出</em>[389]</p>
+<td><p><em>官方版Firefox 49.0釋出</em>[493]</p>
 <ul>
 <li>允許HTTPS網站使用已儲存的HTTP登入資訊。這是Firefox支持Let’s Encrypt計畫、迎向更安全網路世界的方式之一</li>
 <li>「閱讀模式」視與聽的改善：
@@ -7809,7 +6937,7 @@
 <td><p>49.0.1</p></td>
 <td><p><em>Firefox 49.0.1</em></p></td>
 <td><p>2016年9月23日</p></td>
-<td><p><em>穩定性更新</em>[390]</p>
+<td><p><em>穩定性更新</em>[494]</p>
 <ul>
 <li>修正Websence引起的啟動時當機問題（僅限Windows）</li>
 </ul></td>
@@ -7819,7 +6947,7 @@
 <td><p>49.0.2</p></td>
 <td><p><em>Firefox 49.0.2</em></p></td>
 <td><p>2016年10月20日</p></td>
-<td><p><em>安全性與穩定性更新</em>[391]</p>
+<td><p><em>安全性與穩定性更新</em>[495]</p>
 <ul>
 <li>預設啟用Adobe Flash外掛程式的非同步繪圖功能，改善對應網站效能並減少當機情形</li>
 <li>調整D3D9 fallback預設值</li>
@@ -7841,7 +6969,70 @@
 </tbody>
 </table>
 
-#### 版本50至59
+### 版本50至59
+
+#### Firefox 50.0
+
+Firefox 50.0正式版发布于2016年11月15日。 特性\[496\]
+
+  - 98%的Windows7或更高系统的用户都可以使用[WebGL](../Page/WebGL.md "wikilink")了。
+
+#### Firefox 51.0
+
+Firefox 51.0正式版发布于2017年1月24日。 特性\[497\]
+
+  - 支持[FLAC](../Page/FLAC.md "wikilink")。
+  - 支持WebGL 2。
+
+#### Firefox 52.0
+
+Firefox 52.0正式版發布於2017年3月7日。 特性\[498\]
+
+  - 支持[WebAssembly](../Page/WebAssembly.md "wikilink")。
+
+#### Firefox 53.0
+
+Firefox 53.0正式版發布於2017年4月19日。 特性\[499\]
+
+  - 改善图形稳定性。
+
+#### Firefox 54.0
+
+Firefox 54.0正式版發布於2017年6月13日。 特性\[500\]
+
+  - 下载按钮和面板的精简。
+
+#### Firefox 55.0
+
+Firefox 55.0正式版發布於2017年8月8日。 特性\[501\]
+
+  - 支持[WebVR](../Page/WebVR.md "wikilink")。
+
+#### Firefox 56.0
+
+Firefox 56.0正式版發布於2017年9月28日。 特性\[502\]
+
+  - 设置面板有了新布局。
+
+[Firefox_Logo,_2017.svg](https://zh.wikipedia.org/wiki/File:Firefox_Logo,_2017.svg "fig:Firefox_Logo,_2017.svg")
+
+#### Firefox 57.0
+
+Firefox 57.0正式版發布於2017年11月14日。新版本命名为Firefox Quantum。\[503\] 特性\[504\]
+
+  - 速度提升1倍，内存使用减少30%。
+
+#### Firefox 58.0
+
+Firefox 58.0正式版發布於2018年1月23日。特性\[505\]
+
+  - 加入串流編譯以及分層編譯技術，讓網頁程式執行速度更快。
+
+#### Firefox 59.0
+
+Firefox 58.0正式版發布於2018年3月13日。特性\[506\]
+
+  - 這是一個相對變動較小的版本，除了效能上的改善外，它允許使用者封鎖來自所造訪網站的擾人通知，也移除隱私瀏覽模式中的路徑資訊。
 
 <section begin=color table />
 
@@ -7971,7 +7162,7 @@
 <td><p>50.0</p></td>
 <td><p><em>Firefox 50.0</em></p></td>
 <td><p>2016年11月15日</p></td>
-<td><p><em>官方版Firefox 50.0釋出</em>[392]</p>
+<td><p><em>官方版Firefox 50.0釋出</em>[507]</p>
 <ul>
 <li>Windows和Mac可藉由Widevine的WebM EME支援在更多網站上播放影片，而不需要外掛程式</li>
 <li>改善SDK擴充元件（或使用SDK module loader的擴充元件）效能</li>
@@ -7993,7 +7184,7 @@
 <td><p>50.0.1</p></td>
 <td><p><em>Firefox 50.0.1</em></p></td>
 <td><p>2016年11月28日</p></td>
-<td><p><em>安全性與穩定性更新</em>[393]</p>
+<td><p><em>安全性與穩定性更新</em>[508]</p>
 <ul>
 <li>修正使用第三方中文輸入法編輯器（IME）的當機問題</li>
 </ul></td>
@@ -8003,7 +7194,7 @@
 <td><p>50.0.2</p></td>
 <td><p><em>Firefox 50.0.2</em></p></td>
 <td><p>2016年11月30日</p></td>
-<td><p><em>安全性更新</em>[394]</p></td>
+<td><p><em>安全性更新</em>[509]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -8024,7 +7215,7 @@
 <td><p>50.1.0</p></td>
 <td><p><em>Firefox 50.1.0</em></p></td>
 <td><p>2016年12月13日</p></td>
-<td><p><em>安全性更新</em>[395]</p></td>
+<td><p><em>安全性更新</em>[510]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -8157,7 +7348,7 @@
 <td><p>51.0</p></td>
 <td><p><em>Firefox 51.0</em></p></td>
 <td><p>2017年1月24日</p></td>
-<td><p><em>官方版Firefox 51.0釋出</em>[396]</p>
+<td><p><em>官方版Firefox 51.0釋出</em>[511]</p>
 <ul>
 <li>支援FLAC（Free Lossless Audio Codec）播放</li>
 <li>提升同步功能可靠度</li>
@@ -8184,7 +7375,7 @@
 <td><p>51.0.1</p></td>
 <td><p><em>Firefox 51.0.1</em></p></td>
 <td><p>2017年1月26日</p></td>
-<td><p><em>穩定性更新</em>[397]</p>
+<td><p><em>穩定性更新</em>[512]</p>
 <ul>
 <li>修正部分附加元件無法正確宣告多程序相容性的問題</li>
 <li>修正地理位置定位無法在Windows使用的問題</li>
@@ -8286,7 +7477,7 @@
 <td><p>52.0</p></td>
 <td><p><em>Firefox 52.0</em></p></td>
 <td><p>2017年3月7日</p></td>
-<td><p><em>官方版Firefox 52.0釋出</em>[398]</p>
+<td><p><em>官方版Firefox 52.0釋出</em>[513]</p>
 <ul>
 <li>支援WebAssembly標準，帶來接近原生效能的Web遊戲、App和軟體庫，而不需要外掛程式</li>
 <li>對持有觸控螢幕的Windows使用者啟用多程序Firefox</li>
@@ -8320,147 +7511,147 @@
 <td><p>52.0esr</p></td>
 <td><p><em>Firefox 52.0esr</em></p></td>
 <td><p>2017年3月7日</p></td>
-<td><p><em>官方版Firefox 52.0esr釋出[399]，Firefox第七個企業長期支援（ESR）版本</em></p></td>
+<td><p><em>官方版Firefox 52.0esr釋出[514]，Firefox第七個企業長期支援（ESR）版本</em></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>52.1.0esr</p></td>
 <td><p><em>Firefox 52.1.0esr</em></p></td>
 <td><p>2017年4月19日</p></td>
-<td><p><em>ESR版本穩定性與安全性更新</em>[400]</p></td>
+<td><p><em>ESR版本穩定性與安全性更新</em>[515]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>52.1.1esr</p></td>
 <td><p><em>Firefox 52.1.1esr</em></p></td>
 <td><p>2017年5月19日</p></td>
-<td><p><em>ESR版本安全性更新</em>[401]</p></td>
+<td><p><em>ESR版本安全性更新</em>[516]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>52.1.2esr</p></td>
 <td><p><em>Firefox 52.1.2esr</em></p></td>
 <td><p>2017年5月19日</p></td>
-<td><p><em>ESR版本穩定性更新</em>[402]</p></td>
+<td><p><em>ESR版本穩定性更新</em>[517]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>52.2.0esr</p></td>
 <td><p><em>Firefox 52.2.0esr</em></p></td>
 <td><p>2017年6月13日</p></td>
-<td><p><em>ESR版本穩定性與安全性更新</em>[403]</p></td>
+<td><p><em>ESR版本穩定性與安全性更新</em>[518]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>52.2.1esr</p></td>
 <td><p><em>Firefox 52.2.1esr</em></p></td>
 <td><p>2017年6月29日</p></td>
-<td><p><em>ESR版本穩定性更新</em>[404]</p></td>
+<td><p><em>ESR版本穩定性更新</em>[519]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>52.3.0esr</p></td>
 <td><p><em>Firefox 52.3.0esr</em></p></td>
 <td><p>2017年8月8日</p></td>
-<td><p><em>ESR版本穩定性與安全性更新</em>[405]</p></td>
+<td><p><em>ESR版本穩定性與安全性更新</em>[520]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>52.4.0esr</p></td>
 <td><p><em>Firefox 52.4.0esr</em></p></td>
 <td><p>2017年9月28日</p></td>
-<td><p><em>ESR版本穩定性與安全性更新</em>[406]</p></td>
+<td><p><em>ESR版本穩定性與安全性更新</em>[521]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>52.4.1esr</p></td>
 <td><p><em>Firefox 52.4.1esr</em></p></td>
 <td><p>2017年10月9日</p></td>
-<td><p><em>ESR版本穩定性更新</em>[407]</p></td>
+<td><p><em>ESR版本穩定性更新</em>[522]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>52.5.0esr</p></td>
 <td><p><em>Firefox 52.5.0esr</em></p></td>
 <td><p>2017年11月14日</p></td>
-<td><p><em>ESR版本穩定性與安全性更新</em>[408]</p></td>
+<td><p><em>ESR版本穩定性與安全性更新</em>[523]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>52.5.2esr</p></td>
 <td><p><em>Firefox 52.5.2esr</em></p></td>
 <td><p>2017年12月7日</p></td>
-<td><p><em>ESR版本安全性更新</em>[409]</p></td>
+<td><p><em>ESR版本安全性更新</em>[524]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>52.5.3esr</p></td>
 <td><p><em>Firefox 52.5.3esr</em></p></td>
 <td><p>2017年12月28日</p></td>
-<td><p><em>ESR版本穩定性更新</em>[410]</p></td>
+<td><p><em>ESR版本穩定性更新</em>[525]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>52.6.0esr</p></td>
 <td><p><em>Firefox 52.6.0esr</em></p></td>
 <td><p>2018年1月23日</p></td>
-<td><p><em>ESR版本穩定性與安全性更新</em>[411]</p></td>
+<td><p><em>ESR版本穩定性與安全性更新</em>[526]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>52.7.0esr</p></td>
 <td><p><em>Firefox 52.7.0esr</em></p></td>
 <td><p>2018年3月13日</p></td>
-<td><p><em>ESR版本穩定性與安全性更新</em>[412]</p></td>
+<td><p><em>ESR版本穩定性與安全性更新</em>[527]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>52.7.1esr</p></td>
 <td><p><em>Firefox 52.7.1esr</em></p></td>
 <td><p>2018年3月14日</p></td>
-<td><p><em>ESR版本穩定性更新</em>[413]</p></td>
+<td><p><em>ESR版本穩定性更新</em>[528]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>52.7.2esr</p></td>
 <td><p><em>Firefox 52.7.2esr</em></p></td>
 <td><p>2018年3月16日</p></td>
-<td><p><em>ESR版本安全性更新</em>[414]</p></td>
+<td><p><em>ESR版本安全性更新</em>[529]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>52.7.3esr</p></td>
 <td><p><em>Firefox 52.7.3esr</em></p></td>
 <td><p>2018年3月26日</p></td>
-<td><p><em>ESR版本安全性更新</em>[415]</p></td>
+<td><p><em>ESR版本安全性更新</em>[530]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>52.7.4esr</p></td>
 <td><p><em>Firefox 52.7.4esr</em></p></td>
 <td><p>2018年4月30日</p></td>
-<td><p><em>ESR版本穩定性更新</em>[416]</p></td>
+<td><p><em>ESR版本穩定性更新</em>[531]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>52.8.0esr</p></td>
 <td><p><em>Firefox 52.8.0esr</em></p></td>
 <td><p>2018年5月9日</p></td>
-<td><p><em>ESR版本穩定性與安全性更新</em>[417]</p></td>
+<td><p><em>ESR版本穩定性與安全性更新</em>[532]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>52.8.1esr</p></td>
 <td><p><em>Firefox 52.8.1esr</em></p></td>
 <td><p>2018年6月6日</p></td>
-<td><p><em>ESR版本安全性更新</em>[418]</p></td>
+<td><p><em>ESR版本安全性更新</em>[533]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>52.9.0esr</p></td>
 <td><p><em>Firefox 52.9.0esr</em></p></td>
 <td><p>2018年6月26日</p></td>
-<td><p><em>ESR版本安全性更新</em>[419]</p></td>
+<td><p><em>ESR版本安全性更新</em>[534]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -8579,7 +7770,7 @@
 <td><p>53.0</p></td>
 <td><p><em>Firefox 53.0</em></p></td>
 <td><p>2017年4月19日</p></td>
-<td><p><em>官方版Firefox 53.0釋出</em>[420]</p>
+<td><p><em>官方版Firefox 53.0釋出</em>[535]</p>
 <ul>
 <li>Windows：分離影像合成程序（Quantum Compositor）以改善效能，並減少圖像顯示相關的當機情形</li>
 <li>新增「精簡」亮色、暗色佈景主題（基於Firefox開發者版本的設計）</li>
@@ -8602,7 +7793,7 @@
 <td><p>53.0.2</p></td>
 <td><p><em>Firefox 53.0.2</em></p></td>
 <td><p>2017年5月5日</p></td>
-<td><p><em>穩定性與安全性更新</em>[421]</p>
+<td><p><em>穩定性與安全性更新</em>[536]</p>
 <ul>
 <li>修正表單驗證錯誤和日期選擇元件的顯示問題</li>
 <li><code>window.find</code>現在會忽略非標準的showDialog參數</li>
@@ -8613,7 +7804,7 @@
 <td><p>53.0.3</p></td>
 <td><p><em>Firefox 53.0.3</em></p></td>
 <td><p>2017年5月19日</p></td>
-<td><p><em>穩定性更新</em>[422]</p>
+<td><p><em>穩定性更新</em>[537]</p>
 <ul>
 <li>修正使用NTLM proxy時的當機問題</li>
 <li>修正captive portal偵測服務耗用過多資源的問題</li>
@@ -8751,7 +7942,7 @@
 <td><p>54.0</p></td>
 <td><p><em>Firefox 54.0</em></p></td>
 <td><p>2017年6月13日</p></td>
-<td><p><em>官方版Firefox 54.0釋出</em>[423]</p>
+<td><p><em>官方版Firefox 54.0釋出</em>[538]</p>
 <ul>
 <li>簡化下載按鈕和下載狀態面板</li>
 <li>支援多內容處理程序（e10s-multi）</li>
@@ -8766,7 +7957,7 @@
 <td><p>54.0.1</p></td>
 <td><p><em>Firefox 54.0.1</em></p></td>
 <td><p>2017年6月29日</p></td>
-<td><p><em>穩定性更新</em>[424]</p>
+<td><p><em>穩定性更新</em>[539]</p>
 <ul>
 <li>修正分頁標題顯示問題</li>
 <li>修正開啟新分頁的顯示問題</li>
@@ -8900,7 +8091,7 @@
 <td><p>55.0</p></td>
 <td><p><em>Firefox 55.0</em></p></td>
 <td><p>2017年8月8日</p></td>
-<td><p><em>官方版Firefox 55.0釋出</em>[425]</p>
+<td><p><em>官方版Firefox 55.0釋出</em>[540]</p>
 <ul>
 <li>於Windows平台支援WebVR，帶來身歴其境的網路體驗</li>
 <li>新增效能調校選項：
@@ -8937,7 +8128,7 @@
 <td><p>55.0.1</p></td>
 <td><p><em>Firefox 55.0.1</em></p></td>
 <td><p>2017年8月10日</p></td>
-<td><p><em>穩定性更新</em>[426]</p>
+<td><p><em>穩定性更新</em>[541]</p>
 <ul>
 <li>修正使用部分PKCS#11程式庫時發生的描繪問題</li>
 <li>修正無法顯示「What's new」頁面的問題</li>
@@ -8950,7 +8141,7 @@
 <td><p>55.0.2</p></td>
 <td><p><em>Firefox 55.0.2</em></p></td>
 <td><p>2017年8月16日</p></td>
-<td><p><em>穩定性更新</em>[427]</p>
+<td><p><em>穩定性更新</em>[542]</p>
 <ul>
 <li>修正使用者名稱包含特定字元時，設定檔路徑異常的潛在問題</li>
 <li>修正Sideload附加元件初次安裝時未顯示通知的問題</li>
@@ -8963,7 +8154,7 @@
 <td><p>55.0.3</p></td>
 <td><p><em>Firefox 55.0.3</em></p></td>
 <td><p>2017年8月25日</p></td>
-<td><p><em>穩定性更新</em>[428]</p>
+<td><p><em>穩定性更新</em>[543]</p>
 <ul>
 <li>修正在YouTube等網站的檔案上傳問題</li>
 <li>修正設定檔路徑含有非ascii字元時，附加元件無法啟用問題</li>
@@ -9107,7 +8298,7 @@
 <td><p>56.0</p></td>
 <td><p><em>Firefox 56.0</em></p></td>
 <td><p>2017年9月28日</p></td>
-<td><p><em>官方版Firefox 56.0釋出</em>[429]</p>
+<td><p><em>官方版Firefox 56.0釋出</em>[544]</p>
 <ul>
 <li>Firefox Screenshots，在瀏覽器中拍照、存檔及分享畫面擷圖</li>
 <li>自動填寫表單中的地址資料（目前僅en-US版本提供）</li>
@@ -9133,7 +8324,7 @@
 <td><p>56.0.1</p></td>
 <td><p><em>Firefox 56.0.1</em></p></td>
 <td><p>2017年10月9日</p></td>
-<td><p><em>穩定性更新</em>[430]</p>
+<td><p><em>穩定性更新</em>[545]</p>
 <ul>
 <li>在使用Intel驅動程式部分支援AVX的Windows 7環境，擋下D3D11以避免當機</li>
 <li>建議64位元Windows平台的32位元Firefox使用者轉移至64位元版本，以獲得更佳穩定性和安全性</li>
@@ -9144,7 +8335,7 @@
 <td><p>56.0.2</p></td>
 <td><p><em>Firefox 56.0.2</em></p></td>
 <td><p>2017年10月26日</p></td>
-<td><p><em>穩定性更新</em>[431]</p>
+<td><p><em>穩定性更新</em>[546]</p>
 <ul>
 <li>修正停用表單自動完成時，功能並未完全停止的問題</li>
 <li>正確偵測64位元GSSAPI認證</li>
@@ -9275,7 +8466,7 @@
 <td><p>57.0</p></td>
 <td><p><em>Firefox 57.0</em></p></td>
 <td><p>2017年11月14日</p></td>
-<td><p><em>官方版Firefox 57.0釋出</em>[432]</p>
+<td><p><em>官方版Firefox 57.0釋出</em>[547]</p>
 <ul>
 <li>嶄新的瀏覽器引擎，致力於徹底運用現今電腦的計算能力</li>
 <li>重新設計使用者介面，同時對觸控螢幕進行最佳化</li>
@@ -9301,7 +8492,7 @@
 <td><p>57.0.1</p></td>
 <td><p><em>Firefox 57.0.1</em></p></td>
 <td><p>2017年11月29日</p></td>
-<td><p><em>穩定性與安全性更新</em>[433]</p>
+<td><p><em>穩定性與安全性更新</em>[548]</p>
 <ul>
 <li>修正部分AMD裝置在YouTube等影像網站的色彩失真問題</li>
 <li>修正設定檔路徑含有非ASCII字元時，prefs.js的變更未儲存的問題</li>
@@ -9314,7 +8505,7 @@
 <td><p>57.0.2</p></td>
 <td><p><em>Firefox 57.0.2</em></p></td>
 <td><p>2017年12月7日</p></td>
-<td><p><em>穩定性更新</em>[434]</p>
+<td><p><em>穩定性更新</em>[549]</p>
 <ul>
 <li>停用舊版G Data Endpoint Security以避免Firefox啟動問題（僅限Windows）</li>
 <li>修正更新後產生的WebGL與D3D9問題（僅限Windows）</li>
@@ -9325,7 +8516,7 @@
 <td><p>57.0.3</p></td>
 <td><p><em>Firefox 57.0.3</em></p></td>
 <td><p>2017年12月28日</p></td>
-<td><p><em>穩定性更新</em>[435]</p>
+<td><p><em>穩定性更新</em>[550]</p>
 <ul>
 <li>錯誤地送出背景分頁當機報告，即便使用者未選擇回報</li>
 </ul></td>
@@ -9335,7 +8526,7 @@
 <td><p>57.0.4</p></td>
 <td><p><em>Firefox 57.0.4</em></p></td>
 <td><p>2018年1月4日</p></td>
-<td><p><em>安全性更新</em>[436]</p>
+<td><p><em>安全性更新</em>[551]</p>
 <ul>
 <li>針對Meltdown、Spectre時間差攻擊進行安全性更新</li>
 </ul></td>
@@ -9492,7 +8683,7 @@
 <td><p>58.0</p></td>
 <td><p><em>Firefox 58.0</em></p></td>
 <td><p>2018年1月23日</p></td>
-<td><p><em>官方版Firefox 58.0釋出</em>[437]</p>
+<td><p><em>官方版Firefox 58.0釋出</em>[552]</p>
 <ul>
 <li>效能改善：
 <ul>
@@ -9519,7 +8710,7 @@
 <td><p>58.0.1</p></td>
 <td><p><em>Firefox 58.0.1</em></p></td>
 <td><p>2018年1月29日</p></td>
-<td><p><em>穩定性與安全性更新</em>[438]</p>
+<td><p><em>穩定性與安全性更新</em>[553]</p>
 <ul>
 <li>修正選用特定Windows安全政策（例如Windows Defender惡意探索防護或Webroot）時，Firefox 58.0載入網頁的問題</li>
 </ul></td>
@@ -9529,7 +8720,7 @@
 <td><p>58.0.2</p></td>
 <td><p><em>Firefox 58.0.2</em></p></td>
 <td><p>2018年2月7日</p></td>
-<td><p><em>穩定性更新</em>[439]</p>
+<td><p><em>穩定性更新</em>[554]</p>
 <ul>
 <li>升級macOS時的簽章驗證問題</li>
 <li>避開已知不支援off main thread painting的顯示驅動程式</li>
@@ -9654,7 +8845,7 @@
 <td><p>59.0</p></td>
 <td><p><em>Firefox 59.0</em></p></td>
 <td><p>2018年3月13日</p></td>
-<td><p><em>官方版Firefox 59.0釋出</em>[440]</p>
+<td><p><em>官方版Firefox 59.0釋出</em>[555]</p>
 <ul>
 <li>效能改善：
 <ul>
@@ -9686,14 +8877,14 @@
 <td><p>59.0.1</p></td>
 <td><p><em>Firefox 59.0.1</em></p></td>
 <td><p>2018年3月16日</p></td>
-<td><p><em>安全性更新</em>[441]</p></td>
+<td><p><em>安全性更新</em>[556]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>59.0.2</p></td>
 <td><p><em>Firefox 59.0.2</em></p></td>
 <td><p>2018年3月26日</p></td>
-<td><p><em>穩定性更新</em>[442]</p>
+<td><p><em>穩定性更新</em>[557]</p>
 <ul>
 <li>修正啟用硬體加速時，頁面描繪錯誤的問題</li>
 <li>修正Windows 7輕鬆存取和某些應用程式一起使用時可能造成瀏覽器當機的問題</li>
@@ -9710,7 +8901,7 @@
 <td><p>59.0.3</p></td>
 <td><p><em>Firefox 59.0.3</em></p></td>
 <td><p>2018年4月30日</p></td>
-<td><p><em>穩定性更新</em>[443]</p>
+<td><p><em>穩定性更新</em>[558]</p>
 <ul>
 <li>修正與2018 Windows 10 四月版更新的相容性問題</li>
 </ul></td>
@@ -9726,7 +8917,91 @@
 </tbody>
 </table>
 
-#### 版本60至69
+### 版本60至69
+
+#### Firefox 60.0
+
+Firefox 60.0正式版發布於2018年5月9日。特性\[559\]
+
+  - 它還是全球第一個支援Web Authentication（WebAuthn）的瀏覽器。
+  - 也是首個支援大型企業的Firefox Quantum版本。
+
+#### Firefox 61.0
+
+Firefox 61.0正式版發布於2018年6月26日。特性\[560\]
+
+  - 預設啟用最新 TLS 1.3 標準。
+
+#### Firefox 62.0
+
+Firefox 62.0正式版發布於2018年6月26日。特性\[561\]
+
+  - Firefox 首頁可選擇呈現最多 4 列的熱門網站、Pocket 頁面或精選網站。
+
+#### Firefox 63.0
+
+Firefox 63.0正式版發布於2018年10月23日。特性\[562\]
+
+  - 啟用了增強版追蹤保護（Enhanced Tracking Protection）機制，可封鎖第三方的追蹤，以改善用戶的隱私及改善網頁載入速度。
+
+#### Firefox 64.0
+
+Firefox 64.0正式版發布於2018年12月11日。特性\[563\]
+
+  - 使用多標籤頁選取功能，一次移動多個分頁標籤，方便使用者管理開啟許多頁面的視窗
+  - 終止支援[賽門鐵克](https://zh.wikipedia.org/wiki/賽門鐵克 "wikilink")[憑證](https://zh.wikipedia.org/wiki/憑證 "wikilink")。
+
+#### Firefox 65.0
+
+Firefox 65.0正式版發布於2019年1月29日。特性\[564\]
+
+  - 簡化內容封鎖（Content Blocking）設[定](https://www.ithome.com.tw/news/130806)
+  - 改善對多國語言的支援
+  - 支援開放的串流格式AV1
+  - 相容於macOS的Handoff功能
+
+#### Firefox 66.0
+
+Firefox 66.0正式版發布於2019年3月19日。特性\[565\]
+
+  - 新增自動播放聲音的網頁影片消音
+  - 減少廣告下載導致網頁內容跳動
+  - 允許跨頁籤搜尋與隱私搜尋
+  - 支援Windows Hello
+
+#### Firefox 67.0
+
+Firefox 67.0正式版發布於2019年5月21日。特性\[566\]
+
+  - 用戶可以在其內容阻止首選項的自定義設置中阻止已知的加密器和指紋
+  - Firefox 67通過以下更改實現了性能的提升，例如：
+      - 在頁面加載期間降低`setTimeout`優先級
+      - 延遲組件初始化直到啟動後
+      - 在頁面加載期間更快地繪畫但不常用
+      - 暫停未使用的標籤
+  - 私密瀏覽可以看到可用性和安全性改進 ：
+      - 以隱私瀏覽模式保存密碼
+      - 選擇要從私人標籤中排除的擴展程序
+  - 默認情況下，在具有NVIDIA顯卡的Windows 10桌面上逐步啟用WebRender
+  - 影片編碼格式支援更新為更高效能的版本dav1d
+  - 用戶將無法再通過Firefox屏幕截圖服務器上傳和共享屏幕截圖。 想要保留現有屏幕截圖的用戶需要在服務器在未來幾個月關閉之前將其導出 。
+  - 字體和日期調整，以適應日本新的令和時代
+
+#### Firefox 68.0
+
+Firefox 68.0正式版發布於2019年7月9日。特性\[567\]
+
+  - 閱讀器視圖中的黑暗模式會延伸，因此控件，側邊欄和工具欄上的窗口也會變暗。
+  - 改進了擴展安全性和發現：
+      - about 中的新報告功能：插件允許您報告擴展和主題的安全性和性能問題。
+      - 重新設計的擴展儀表板在<about:addons> 中可以輕鬆訪問有關擴展的信息，包括每個擴展所需的數據和設置訪問權限。
+      - 通過推薦擴展程序在<about:addons> 中找到高質量，安全的擴展，現在顯示每個擴展的用戶數和評級。這些擴展程序的「推薦」徽章也會出現在AMO上。隨著時間的推移，會添加更多擴展程序。
+  - Cryptomining 和指紋識別保護被添加到隱私和安全首選項中的嚴格內容阻止設置。
+  - WebRender 將推出使用AMD顯卡的Windows 10用戶。
+  - Windows後台智能傳輸服務（BITS）更新下載支持，允許在Firefox關閉時繼續Firefox更新下載。
+  - 本地文件無法再訪問同一目錄中的其他文件。
+  - 當檢測到由防病毒軟件引起的HTTPS錯誤時，[Firefox將嘗試自動修復它](https://support.mozilla.org/kb/how-disable-enterprise-roots-preference)
+  - 攝像頭和麥克風訪問[現在需要](https://blog.mozilla.org/webrtc/camera-microphone-require-https-in-firefox-68/)HTTPS連接。
 
 <section begin=color table />
 
@@ -9870,7 +9145,7 @@
 <td><p>60.0</p></td>
 <td><p><em>Firefox 60.0</em></p></td>
 <td><p>2018年5月9日</p></td>
-<td><p><em>官方版Firefox 60.0釋出</em>[444]</p>
+<td><p><em>官方版Firefox 60.0釋出</em>[568]</p>
 <ul>
 <li>以Windows群組原則或跨平台JSON設定檔，自訂部署Firefox企業版時的政策設定</li>
 <li>新分頁／Firefox首頁相關改進</li>
@@ -9892,7 +9167,7 @@
 <td><p>60.0.1</p></td>
 <td><p><em>Firefox 60.0.1</em></p></td>
 <td><p>2018年5月16日</p></td>
-<td><p><em>穩定性更新</em>[445]</p>
+<td><p><em>穩定性更新</em>[569]</p>
 <ul>
 <li>修正安裝某些附加元件後，過度資源回收造成的回應緩慢問題</li>
 <li>修正取消Pocket贊助內容後，「新分頁」未立即移除贊助卡片問題</li>
@@ -9909,147 +9184,147 @@
 <td><p>60.0.2</p></td>
 <td><p><em>Firefox 60.0.2</em></p></td>
 <td><p>2018年6月6日</p></td>
-<td><p><em>安全性與穩定性更新</em>[446]</p></td>
+<td><p><em>安全性與穩定性更新</em>[570]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>60.0esr</p></td>
 <td><p><em>Firefox 60.0esr</em></p></td>
 <td><p>2018年5月9日</p></td>
-<td><p><em>官方版Firefox 60.0esr釋出[447]，Firefox第八個企業長期支援（ESR）版本</em></p></td>
+<td><p><em>官方版Firefox 60.0esr釋出[571]，Firefox第八個企業長期支援（ESR）版本</em></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>60.0.1esr</p></td>
 <td><p><em>Firefox 60.0.1esr</em></p></td>
 <td><p>2018年5月16日</p></td>
-<td><p><em>ESR版本穩定性更新</em>[448]</p></td>
+<td><p><em>ESR版本穩定性更新</em>[572]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>60.0.2esr</p></td>
 <td><p><em>Firefox 60.0.2esr</em></p></td>
 <td><p>2018年6月6日</p></td>
-<td><p><em>ESR版本安全性與穩定性更新</em>[449]</p></td>
+<td><p><em>ESR版本安全性與穩定性更新</em>[573]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>60.1.0esr</p></td>
 <td><p><em>Firefox 60.1.0esr</em></p></td>
 <td><p>2018年6月26日</p></td>
-<td><p><em>ESR版本安全性與穩定性更新</em>[450]</p></td>
+<td><p><em>ESR版本安全性與穩定性更新</em>[574]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>60.2.0esr</p></td>
 <td><p><em>Firefox 60.2.0esr</em></p></td>
 <td><p>2018年9月5日</p></td>
-<td><p><em>ESR版本安全性與穩定性更新</em>[451]</p></td>
+<td><p><em>ESR版本安全性與穩定性更新</em>[575]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>60.2.1esr</p></td>
 <td><p><em>Firefox 60.2.1esr</em></p></td>
 <td><p>2018年9月21日</p></td>
-<td><p><em>ESR版本安全性與穩定性更新</em>[452]</p></td>
+<td><p><em>ESR版本安全性與穩定性更新</em>[576]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>60.2.2esr</p></td>
 <td><p><em>Firefox 60.2.2esr</em></p></td>
 <td><p>2018年10月2日</p></td>
-<td><p><em>ESR版本安全性與穩定性更新</em>[453]</p></td>
+<td><p><em>ESR版本安全性與穩定性更新</em>[577]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>60.3.0esr</p></td>
 <td><p><em>Firefox 60.3.0esr</em></p></td>
 <td><p>2018年10月23日</p></td>
-<td><p><em>ESR版本安全性與穩定性更新</em>[454]</p></td>
+<td><p><em>ESR版本安全性與穩定性更新</em>[578]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>60.4.0esr</p></td>
 <td><p><em>Firefox 60.4.0esr</em></p></td>
 <td><p>2018年12月11日</p></td>
-<td><p><em>ESR版本安全性與穩定性更新</em>[455]</p></td>
+<td><p><em>ESR版本安全性與穩定性更新</em>[579]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>60.5.0esr</p></td>
 <td><p><em>Firefox 60.5.0esr</em></p></td>
 <td><p>2019年1月29日</p></td>
-<td><p><em>ESR版本安全性更新</em>[456]</p></td>
+<td><p><em>ESR版本安全性更新</em>[580]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>60.5.1esr</p></td>
 <td><p><em>Firefox 60.5.1esr</em></p></td>
 <td><p>2019年2月12日</p></td>
-<td><p><em>ESR版本安全性更新</em>[457]</p></td>
+<td><p><em>ESR版本安全性更新</em>[581]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>60.5.2esr</p></td>
 <td><p><em>Firefox 60.5.2esr</em></p></td>
 <td><p>2019年2月22日</p></td>
-<td><p><em>ESR版本穩定性更新</em>[458]</p></td>
+<td><p><em>ESR版本穩定性更新</em>[582]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>60.6.0esr</p></td>
 <td><p><em>Firefox 60.6.0esr</em></p></td>
 <td><p>2019年3月19日</p></td>
-<td><p><em>ESR版本安全性更新</em>[459]</p></td>
+<td><p><em>ESR版本安全性更新</em>[583]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>60.6.1esr</p></td>
 <td><p><em>Firefox 60.6.1esr</em></p></td>
 <td><p>2019年3月22日</p></td>
-<td><p><em>ESR版本安全性更新</em>[460]</p></td>
+<td><p><em>ESR版本安全性更新</em>[584]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>60.6.2esr</p></td>
 <td><p><em>Firefox 60.6.2esr</em></p></td>
 <td><p>2019年5月5日</p></td>
-<td><p><em>ESR版本穩定性更新</em>[461]</p></td>
+<td><p><em>ESR版本穩定性更新</em>[585]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>60.6.3esr</p></td>
 <td><p><em>Firefox 60.6.3esr</em></p></td>
 <td><p>2019年5月8日</p></td>
-<td><p><em>ESR版本穩定性更新</em>[462]</p></td>
+<td><p><em>ESR版本穩定性更新</em>[586]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>60.7.0esr</p></td>
 <td><p><em>Firefox 60.7.0esr</em></p></td>
 <td><p>2019年5月21日</p></td>
-<td><p><em>ESR版本安全性更新</em>[463]</p></td>
+<td><p><em>ESR版本安全性更新</em>[587]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>60.7.1esr</p></td>
 <td><p><em>Firefox 60.7.1esr</em></p></td>
 <td><p>2019年6月18日</p></td>
-<td><p><em>ESR版本安全性更新</em>[464]</p></td>
+<td><p><em>ESR版本安全性更新</em>[588]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>60.7.2esr</p></td>
 <td><p><em>Firefox 60.7.2esr</em></p></td>
 <td><p>2019年6月20日</p></td>
-<td><p><em>ESR版本安全性更新</em>[465]</p></td>
+<td><p><em>ESR版本安全性更新</em>[589]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>60.8.0esr</p></td>
 <td><p><em>Firefox 60.8.0esr</em></p></td>
 <td><p>2019年7月9日</p></td>
-<td><p><em>ESR版本安全性更新</em>[466]</p></td>
+<td><p><em>ESR版本安全性更新</em>[590]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -10168,21 +9443,21 @@
 <td><p>61.0</p></td>
 <td><p><em>Firefox 61.0</em></p></td>
 <td><p>2018年6月26日</p></td>
-<td><p><em>官方版Firefox 61.0釋出</em>[467]</p></td>
+<td><p><em>官方版Firefox 61.0釋出</em>[591]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>61.0.1</p></td>
 <td><p><em>Firefox 61.0.1</em></p></td>
 <td><p>2018年7月5日</p></td>
-<td><p><em>穩定性更新</em>[468]</p></td>
+<td><p><em>穩定性更新</em>[592]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>61.0.2</p></td>
 <td><p><em>Firefox 61.0.2</em></p></td>
 <td><p>2018年8月8日</p></td>
-<td><p><em>穩定性更新</em>[469]</p></td>
+<td><p><em>穩定性更新</em>[593]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -10344,7 +9619,7 @@
 <li>登出 Firefox 账户时询问是否清除同步数据</li>
 <li>Windows 版本支持关机或更新时自动保存浏览会话并在下次启动时恢复</li>
 <li>在汉堡菜单中增加了跟踪保护的开关按钮</li>
-<li>在 macOS 10.14 黑暗模式下自动启用深邃主题。[470][471]</li>
+<li>在 macOS 10.14 黑暗模式下自动启用深邃主题。[594][595]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -10352,21 +9627,21 @@
 <td><p>62.0.1</p></td>
 <td><p><em>Firefox 62.0.1</em></p></td>
 <td><p>2018年9月7日</p></td>
-<td><p><em>穩定性更新</em>（僅Android版本）[472]</p></td>
+<td><p><em>穩定性更新</em>（僅Android版本）[596]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>62.0.2</p></td>
 <td><p><em>Firefox 62.0.2</em></p></td>
 <td><p>2018年9月21日</p></td>
-<td><p><em>安全性與穩定性更新</em>[473]</p></td>
+<td><p><em>安全性與穩定性更新</em>[597]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>62.0.3</p></td>
 <td><p><em>Firefox 62.0.3</em></p></td>
 <td><p>2018年10月2日</p></td>
-<td><p><em>安全性與穩定性更新</em>[474]</p></td>
+<td><p><em>安全性與穩定性更新</em>[598]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -10478,28 +9753,28 @@
 <td><p>63.0</p></td>
 <td><p><em>Firefox 63.0</em></p></td>
 <td><p>2018年10月23日</p></td>
-<td><p><em>官方版Firefox 63.0釋出</em>[475]</p></td>
+<td><p><em>官方版Firefox 63.0釋出</em>[599]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>63.0.1</p></td>
 <td><p><em>Firefox 63.0.1</em></p></td>
 <td><p>2018年10月31日</p></td>
-<td><p><em>穩定性更新</em>[476]</p></td>
+<td><p><em>穩定性更新</em>[600]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>63.0.2</p></td>
 <td><p><em>Firefox 63.0.2</em></p></td>
 <td><p>2018年11月7日</p></td>
-<td><p><em>穩定性更新</em>（僅Android版本）[477]</p></td>
+<td><p><em>穩定性更新</em>（僅Android版本）[601]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>63.0.3</p></td>
 <td><p><em>Firefox 63.0.3</em></p></td>
 <td><p>2018年11月15日</p></td>
-<td><p><em>穩定性更新</em>[478]</p></td>
+<td><p><em>穩定性更新</em>[602]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -10618,21 +9893,21 @@
 <td><p>64.0</p></td>
 <td><p><em>Firefox 64.0</em></p></td>
 <td><p>2018年12月11日</p></td>
-<td><p><em>官方版Firefox 64.0釋出</em>[479]</p></td>
+<td><p><em>官方版Firefox 64.0釋出</em>[603]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>64.0.1</p></td>
 <td><p><em>Firefox 64.0.1</em></p></td>
 <td><p>2018年12月14日</p></td>
-<td><p><em>穩定性更新</em>（僅Android版本）[480]</p></td>
+<td><p><em>穩定性更新</em>（僅Android版本）[604]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>64.0.2</p></td>
 <td><p><em>Firefox 64.0.2</em></p></td>
 <td><p>2019年1月9日</p></td>
-<td><p><em>穩定性更新</em>[481]</p></td>
+<td><p><em>穩定性更新</em>[605]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -10730,21 +10005,21 @@
 <td><p>65.0</p></td>
 <td><p><em>Firefox 65.0</em></p></td>
 <td><p>2019年1月29日</p></td>
-<td><p><em>官方版Firefox 65.0釋出</em>[482]</p></td>
+<td><p><em>官方版Firefox 65.0釋出</em>[606]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>65.0.1</p></td>
 <td><p><em>Firefox 65.0.1</em></p></td>
 <td><p>2019年2月12日</p></td>
-<td><p><em>穩定性與安全性更新</em>[483]</p></td>
+<td><p><em>穩定性與安全性更新</em>[607]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>65.0.2</p></td>
 <td><p><em>Firefox 65.0.2</em></p></td>
 <td><p>2019年2月28日</p></td>
-<td><p><em>穩定性更新</em>[484]</p></td>
+<td><p><em>穩定性更新</em>[608]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -10863,42 +10138,42 @@
 <td><p>66.0</p></td>
 <td><p><em>Firefox 66.0</em></p></td>
 <td><p>2019年3月19日</p></td>
-<td><p><em>官方版Firefox 66.0釋出</em>[485]</p></td>
+<td><p><em>官方版Firefox 66.0釋出</em>[609]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>66.0.1</p></td>
 <td><p><em>Firefox 66.0.1</em></p></td>
 <td><p>2019年3月22日</p></td>
-<td><p><em>安全性更新</em>[486]</p></td>
+<td><p><em>安全性更新</em>[610]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>66.0.2</p></td>
 <td><p><em>Firefox 66.0.2</em></p></td>
 <td><p>2019年3月27日</p></td>
-<td><p><em>穩定性更新</em>[487]</p></td>
+<td><p><em>穩定性更新</em>[611]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>66.0.3</p></td>
 <td><p><em>Firefox 66.0.3</em></p></td>
 <td><p>2019年4月10日</p></td>
-<td><p><em>穩定性更新</em>[488]</p></td>
+<td><p><em>穩定性更新</em>[612]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>66.0.4</p></td>
 <td><p><em>Firefox 66.0.4</em></p></td>
 <td><p>2019年5月5日</p></td>
-<td><p><em>穩定性更新</em>[489]</p></td>
+<td><p><em>穩定性更新</em>[613]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>66.0.5</p></td>
 <td><p><em>Firefox 66.0.5</em></p></td>
 <td><p>2019年5月7日</p></td>
-<td><p><em>穩定性更新</em>[490]</p></td>
+<td><p><em>穩定性更新</em>[614]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -11045,35 +10320,35 @@
 <td><p>67.0</p></td>
 <td><p><em>Firefox 67.0</em></p></td>
 <td><p>2019年5月21日</p></td>
-<td><p><em>官方版Firefox 67.0釋出</em>[491]</p></td>
+<td><p><em>官方版Firefox 67.0釋出</em>[615]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>67.0.1</p></td>
 <td><p><em>Firefox 67.0.1</em></p></td>
 <td><p>2019年6月4日</p></td>
-<td><p><em>穩定性更新</em>[492]</p></td>
+<td><p><em>穩定性更新</em>[616]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>67.0.2</p></td>
 <td><p><em>Firefox 67.0.2</em></p></td>
 <td><p>2019年6月11日</p></td>
-<td><p><em>穩定性與安全性更新</em>[493]</p></td>
+<td><p><em>穩定性與安全性更新</em>[617]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>67.0.3</p></td>
 <td><p><em>Firefox 67.0.3</em></p></td>
 <td><p>2019年6月18日</p></td>
-<td><p><em>安全性更新</em>[494]</p></td>
+<td><p><em>安全性更新</em>[618]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>67.0.4</p></td>
 <td><p><em>Firefox 67.0.4</em></p></td>
 <td><p>2019年6月20日</p></td>
-<td><p><em>安全性更新</em>[495]</p></td>
+<td><p><em>安全性更新</em>[619]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -11192,42 +10467,42 @@
 <td><p>68.0</p></td>
 <td><p><em>Firefox 68.0</em></p></td>
 <td><p>2019年7月9日</p></td>
-<td><p><em>官方版Firefox 68.0釋出</em>[496]</p></td>
+<td><p><em>官方版Firefox 68.0釋出</em>[620]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>68.0.1</p></td>
 <td><p><em>Firefox 68.0.1</em></p></td>
 <td><p>2019年7月18日</p></td>
-<td><p><em>穩定性更新</em>[497]</p></td>
+<td><p><em>穩定性更新</em>[621]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>68.0.2</p></td>
 <td><p><em>Firefox 68.0.2</em></p></td>
 <td><p>2019年8月14日</p></td>
-<td><p><em>穩定性與安全性更新</em>[498]</p></td>
+<td><p><em>穩定性與安全性更新</em>[622]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>68.0esr</p></td>
 <td><p><em>Firefox 68.0esr</em></p></td>
 <td><p>2018年7月9日</p></td>
-<td><p><em>官方版Firefox 68.0esr釋出[499]，Firefox第九個企業長期支援（ESR）版本</em></p></td>
+<td><p><em>官方版Firefox 68.0esr釋出[623]，Firefox第九個企業長期支援（ESR）版本</em></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>68.0.1esr</p></td>
 <td><p><em>Firefox 68.0.1esr</em></p></td>
 <td><p>2018年7月18日</p></td>
-<td><p><em>ESR版本穩定性更新</em>[500]</p></td>
+<td><p><em>ESR版本穩定性更新</em>[624]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>68.0.2esr</p></td>
 <td><p><em>Firefox 68.0.2esr</em></p></td>
 <td><p>2018年8月14日</p></td>
-<td><p><em>ESR版本穩定性與安全性更新</em>[501]</p></td>
+<td><p><em>ESR版本穩定性與安全性更新</em>[625]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -11345,7 +10620,7 @@
 </tbody>
 </table>
 
-#### 版本70至79
+### 版本70至79
 
 <section begin=color table />
 
@@ -11368,86 +10643,98 @@
 | **Firefox 73** | 73.0a1                | *Firefox 73.0 Nightly* | 2019年12月9日           | *第一個Firefox 73.0預覽版* |
 |                |                       |                        |                      |                      |
 
+## 延長支持版本
+
+Firefox延長支持版本（Extended Support Release，简称“ESR”）是向不能或不愿每6周升级一次的用户提供的版本，其每42周更新一次。Firefox 10是继Firefox 3.6后第一个发布的延長支持版本。而Firefox 17則是Firefox 3.6後的第二個延長支持版本。
+
+| 浏览器名   | 版本号  | 发布状态 | 发布日期        |
+| ------ | ---- | ---- | ----------- |
+| ESR 10 | 10.0 | 发布   | 2012年1月31日  |
+| ESR 17 | 17.0 | 发布   | 2012年11月20日 |
+| ESR 24 | 24.0 | 发布   | 2013年9月17日  |
+| ESR 31 | 31.0 | 发布   | 2014年7月22日  |
+| ESR 38 | 38.0 | 发布   | 2015年5月12日  |
+| ESR 45 | 45.0 | 发布   | 2016年3月8日   |
+| ESR 52 | 52.0 | 发布   | 2017年3月7日   |
+| ESR 60 | 60.0 | 发布   | 2018年5月9日   |
+| ESR 68 | 68.0 | 发布   | 2019年7月9日   |
+|        |      |      |             |
+
+ESR版本列表
+
 ## Mozilla Firefox時間線
-
-## 相關條目
-
-  - [Mozilla Firefox歷史](https://zh.wikipedia.org/wiki/Mozilla_Firefox歷史 "wikilink")
 
 ## 參考文獻
 
-[Category:Mozilla_Firefox](https://zh.wikipedia.org/wiki/Category:Mozilla_Firefox "wikilink") [Category:軟體版本列表](https://zh.wikipedia.org/wiki/Category:軟體版本列表 "wikilink")
+[Category:Mozilla_Firefox](https://zh.wikipedia.org/wiki/Category:Mozilla_Firefox "wikilink") [Category:互联网的歷史](https://zh.wikipedia.org/wiki/Category:互联网的歷史 "wikilink") [Category:軟體版本列表](https://zh.wikipedia.org/wiki/Category:軟體版本列表 "wikilink")
 
-1.  <https://wiki.mozilla.org/RapidRelease/Calendar#Future_branch_dates>
+1.
 
 2.
 
 3.
-
 4.
-
 5.
 
 6.
-
 7.
-
 8.
 
 9.
 
 10.
 
-11.
+11. <http://website-archive.mozilla.org/www.mozilla.org/firefox_releasenotes/en-US/firefox/releases/1.0.html>
 
-12.
+12. <https://developer.mozilla.org/devnews/index.php/2006/04/12/sunset-announcement-for-fxtb-10x-and-mozilla-suite-17x/>
 
-13.
+13. <http://mozlinks.moztw.org/2013/06/mozillafirefox.html>
 
 14.
+
 15.
 
 16.
 
-17.
+17. www.mozilla.org/en-US/firefox/2.0.0.20/releasenotes/
 
-18.
+18. [The Internet Explorer team sent us a cake at Mozilla HQ for our release of Firefox 2.0\!](http://www.flickr.com/photos/thunder/278483422/)
 
-19.
+19. <https://developer.mozilla.org/devnews/index.php/2008/06/17/firefox-3-available-today-at-1700-utc-10am-pdt/>
 
-20.
+20. [Mozilla要讓Firefox 3首日下載留名金氏世界紀錄](http://www.ithome.com.tw/itadm/article.php?c=49376)
 
-21.
+21. [al with cake](http://www.flickr.com/photos/robceemoz/2587912633/)
 
-22.
+22. [Firefox 3.5 最後的更新：全新的-{圖示}-](http://mozlinks-zh.blogspot.com/2009/05/firefox-35.html)
 
-23.
+23. [Firefox Icon History and creative brieffor shiretoko refresh](http://people.mozilla.com/~faaborg/files/20090515-creativeBrief/creativeBrief-i1-wm.png_large.png)
 
-24.
+24. [Firefox Logos](http://www.mozilla.org/en-US/firefox/brand/identity/)Firefox brand toolkit
 
-25.
+25. [Firefox/Namoroka](https://zh.wikipedia.org/wiki/:mozillawiki:Firefox/Namoroka "wikilink")
 
-26.
+26. news.cnet.com/8301-30685_3-10433844-264.html
 
 27.
 
-28.
+28. <https://wiki.mozilla.org/Firefox/4.0_Windows_Theme_Mockups>
 
-29.
+29. <https://wiki.mozilla.org/Firefox/4.0_Mac_Theme_Mockups>
 
-30.
+30. <https://wiki.mozilla.org/Firefox/4.0_Linux_Theme_Mockups>
 
-31.
+31. hacks.mozilla.org/2010/03/a-quick-note-on-javascript-engine-components/
 
-32.
+32. <https://support.mozilla.org/en-US/kb/tab-groups-organize-tabs?redirectlocale=en-US&redirectslug=what-are-tab-groups>
 
-33.
+33. <http://www.azarask.in/blog/post/designing-tab-candy/>
 
-34.
+34. <http://www.cnet.com/news/firefox-4-release-plan-the-need-for-speed/>
 
-35.
+35. <http://www.cnet.com/news/mozilla-prepares-coders-for-firefox-4-features/>
 
-36.
+36. [Another version of Firefox, another cake](http://www.openbuddha.com/2011/03/22/another-version-of-firefox-another-cake/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+InPursuitOfMysteries%2FMozilla+%28OpenBuddha+-+Mozilla%29)
 
 37.
 
@@ -11461,15 +10748,15 @@
 
 42.
 
-43.
+43. [cupcake for Firefox 5: Microsoft has some fun with Mozilla's new rapid release](http://www.geekwire.com/2011/cupcake-firefox-5-microsoft-fun-mozillas-rapid-release)
 
-44.
+44. [1](https://archive.is/20120714150809/reviewsmyfavourite.blogspot.com/2011/05/what-is-new-in-firefox-6.html), What is new in Firefox 6
 
-45.
+45. [2](https://bugzilla.mozilla.org/show_bug.cgi?id=634065), Bug 634065 - Implement design for identity block and persistent indicators
 
-46.
+46. [3](http://hacks.mozilla.org/2011/05/aurora-6-is-here/), hacks.mozilla.org -- Aurora 6 is here
 
-47.
+47. <http://www.cnet.com/news/ie-team-pokes-fun-at-rapid-release-firefox-6/>
 
 48.
 
@@ -11479,11 +10766,11 @@
 
 51.
 
-52.
+52. [Firefox 8 for developers](https://developer.mozilla.org/en/Firefox_8_for_developers)
 
-53.
+53. [Microsoft breaks with tradition, no cake for Firefox 8](http://www.winrumors.com/microsoft-breaks-with-tradition-no-cake-for-firefox-8/)  | WinRumors
 
-54.
+54. [Firefox 9 for developers](https://developer.mozilla.org/en/Firefox_9_for_developers)
 
 55.
 
@@ -11507,136 +10794,135 @@
 
 65.
 
-66.
+66. [Firefox 10 for developers](https://developer.mozilla.org/en/Firefox_10_for_developers)
 
-67.
+67. [Firefox Release Notes (10.0)](http://www.mozilla.org/en-US/firefox/10.0/releasenotes/)
 
-68.
+68. [Firefox Release Notes (11.0)](http://www.mozilla.org/en-US/firefox/11.0/releasenotes/)
 
-69.
+69. [Firefox Release Notes (12.0)](http://www.mozilla.org/en-US/firefox/12.0/releasenotes/)
 
-70.
+70. [Firefox Release Notes (13.0)](http://www.mozilla.org/en-US/firefox/13.0/releasenotes/)
 
-71.
+71. [4](http://hacks.mozilla.org/2012/03/firefox-aurora-13-developer-tools-updates/)
 
-72.
+72. [5](https://developer.mozilla.org/en-US/docs/CSS/column-fill)
 
-73.
+73. [6](https://developer.mozilla.org/en-US/docs/JavaScript/Reference/Global_Objects/Map)
 
-74.
+74. [7](https://developer.mozilla.org/en-US/docs/JavaScript/Reference/Global_Objects/Set)
 
-75.
+75. [8](https://developer.mozilla.org/en-US/docs/CSS/background-position)
 
-76.
+76. [9](https://developer.mozilla.org/en-US/docs/CSS/:invalid)
 
-77.
+77. [10](https://developer.mozilla.org/en-US/docs/CSS/angle)
 
 78.
 
-79.
+79. [Firefox Release Notes (14.0.1)](http://www.mozilla.org/en-US/firefox/14.0.1/releasenotes/)
 
-80.
+80. [11](https://bugzilla.mozilla.org/show_bug.cgi?id=639705)
 
-81.
+81. [Opt-in activation for plugins](https://zh.wikipedia.org/wiki/:mozillawiki:Opt-in_activation_for_plugins "wikilink")
 
-82.
+82. [12](https://bugzilla.mozilla.org/show_bug.cgi?id=566489)
 
-83.
+83. [13](http://blog.mozilla.org/ux/2012/06/site-identity-ui-updates/)
 
-84.
+84. [14](https://developer.mozilla.org/en-US/docs/API/Pointer_Lock_API)
 
-85.
+85. [15](https://bugzilla.mozilla.org/show_bug.cgi?id=697132)
 
-86.
+86. [16](https://developer.mozilla.org/en-US/docs/Firefox_14_for_developers)
 
-87.
+87. [17](https://www.mozilla.org/security/known-vulnerabilities/firefox.html)
 
-88.
+88. [18](https://bugzilla.mozilla.org/show_bug.cgi?id=743598)
 
-89.
+89. [19](https://bugzilla.mozilla.org/show_bug.cgi?id=752149)
 
-90.
+90. [20](https://bugzilla.mozilla.org/show_bug.cgi?id=758885)
 
-91.
+91. [Firefox Release Notes (15.0)](http://www.mozilla.org/en-US/firefox/15.0/releasenotes/)
 
-92.
+92. [21](http://www.mozilla.org/en-US/firefox/all.html)
 
-93.
+93. [22](https://developer.mozilla.org/en-US/docs/CSS/word-break)
 
-94.
+94. [23](https://developer.mozilla.org/en-US/docs/HTML/Element/source)
 
-95.
+95. [24](https://developer.mozilla.org/en-US/docs/HTML/Element/audio)
 
-96.
+96. [25](https://developer.mozilla.org/en-US/docs/HTML/Element/video)
 
-97.
+97. [26](https://bugzilla.mozilla.org/show_bug.cgi?id=720987)
 
-98.
+98. [Firefox Release Notes (16.0)](http://www.mozilla.org/en-US/firefox/16.0/releasenotes/)
 
-99.
+99. [27](http://www.marcozehe.de/2012/04/30/initial-voiceover-support-now-in-firefox-nightly-builds-for-mac-os-x/)
 
-100.
+100. [28](https://developer.mozilla.org/en-US/docs/Apps/Getting_Started)
 
-101.
+101. [29](https://blog.mozilla.org/javascript/2012/08/28/incremental-gc-in-firefox-16/)
 
-102.
+102. [30](https://hacks.mozilla.org/2012/07/aurora-16-is-out/)
 
-103.
+103. [31](https://bugzilla.mozilla.org/show_bug.cgi?id=783393)
 
-104.
+104. [32](https://bugzilla.mozilla.org/show_bug.cgi?id=650355)
 
-105.
+105. [33](https://bugzilla.mozilla.org/show_bug.cgi?id=772341)
 
-106.
+106. [34](https://bugzilla.mozilla.org/show_bug.cgi?id=655920)
 
-107.
+107. [35](https://bugzilla.mozilla.org/show_bug.cgi?id=687724)
 
-108.
+108. [36](https://bugzilla.mozilla.org/show_bug.cgi?id=728831)
 
-109.
+109. [Firefox Release Notes (17.0)](http://www.mozilla.org/en-US/firefox/17.0/releasenotes/)
 
-110.
+110. [37](http://blog.mozilla.org/addons/2012/10/11/click-to-play-coming-firefox-17/)
 
-111.
+111. [38](https://blog.mozilla.org/futurereleases/2012/10/04/we-bid-you-adieu-spotted-cat/)
 
-112.
+112. [39](https://developer.mozilla.org/en-US/docs/HTML/Element/iframe#attr-sandbox)
 
-113.
+113. [40](https://bugzilla.mozilla.org/show_bug.cgi?id=769150)
 
-114.
+114. [41](https://bugzilla.mozilla.org/show_bug.cgi?id=780345)
 
-115.
+115. [美、英政府利用Firefox漏洞監聽反追蹤軟體Tor](http://www.ithome.com.tw/itadm/article.php?c=83018) ，即時新聞，[iThome](https://zh.wikipedia.org/wiki/iThome "wikilink") online，文：林妍溱，2013-10-07
 
-116.
+116. [Firefox Release Notes (18.0)](http://www.mozilla.org/en-US/firefox/18.0/releasenotes/)
 
-117.
+117. <https://bugzilla.mozilla.org/show_bug.cgi?id=62178>
 
-118.
+118. <https://bugzilla.mozilla.org/show_bug.cgi?id=769764>
 
-119.
+119. [Firefox Release Notes (19.0)](http://www.mozilla.org/en-US/firefox/19.0/releasenotes/)
 
-120.
+120. <https://hacks.mozilla.org/2012/10/firefox-development-highlights-viewport-percentage-canvas-toblob-and-webrtc/>
 
-121.
+121. <https://bugzilla.mozilla.org/buglist.cgi?quicksearch=715402%2C756313>
 
-122.
+122. <https://developer.mozilla.org/en-US/docs/CSS/@page>
 
-123.
+123. <https://developer.mozilla.org/en-US/docs/CSS/length#Viewport-percentage_lengths>
 
-124.
+124. <https://developer.mozilla.org/en-US/docs/CSS/text-transform>
 
-125.
+125. <https://bugzilla.mozilla.org/show_bug.cgi?id=825205>
 
-126.
+126. <https://bugzilla.mozilla.org/show_bug.cgi?id=802274>
 
-127.
+127. <https://bugzilla.mozilla.org/show_bug.cgi?id=825734>
 
 128.
 
 129.
 
 130.
-
 131.
 
 132.
@@ -11677,13 +10963,13 @@
 
 150.
 
-151.
+151. 不清楚Firefox跳過前面Beta版本，直接跳到14.0b6的原因
 
 152.
 
 153.
 
-154.
+154. 因為手機版Firefox 14.0已於6月26日推出，電腦版Firefox只是做一些安全性更新後釋出，所以版本號是14.0.1
 
 155.
 
@@ -11694,21 +10980,17 @@
 158.
 
 159.
-
 160.
 
 161.
-
 162.
 
 163.
 
 164.
-
 165.
 
 166.
-
 167.
 
 168.
@@ -11731,7 +11013,7 @@
 
 177.
 
-178. <https://wiki.mozilla.org/Platform/2010-03-16#Notices_.2F_Schedule>
+178.
 
 179.
 
@@ -11741,164 +11023,169 @@
 
 182.
 
-183.
+183. [Firefox Release Notes (20.0)](http://www.mozilla.org/en-US/firefox/20.0/releasenotes/)
 
-184.
+184. <https://www.mozilla.org/security/known-vulnerabilities/firefox.html>
 
-185.
+185. <https://support.mozilla.org/en-US/kb/private-browsing-browse-web-without-saving-info#os=win7&browser=fx20>
 
-186.
+186. <https://support.mozilla.org/en-US/kb/find-and-manage-downloaded-files?esab=a&s=download+manager&r=0&as=s#os=mac&browser=fx20>
 
-187.
+187. <https://bugzilla.mozilla.org/show_bug.cgi?id=792438>
 
-188.
+188. <https://bugzilla.mozilla.org/show_bug.cgi?id=789932>
 
-189.
+189. <https://bugzilla.mozilla.org/buglist.cgi?quicksearch=818296%2C818739>
 
-190.
+190. <https://bugzilla.mozilla.org/show_bug.cgi?id=814562>
 
-191.
+191. <https://bugzilla.mozilla.org/show_bug.cgi?id=808148>
 
-192.
+192. <https://hacks.mozilla.org/2012/12/firefox-development-highlights-per-window-private-browsing-canvas-globalcompositeoperation-new-values/>
 
-193.
+193. <http://blog.pearce.org.nz/2012/12/html5-video-playbackrate-and-ogg.html>
 
-194.
+194. <https://bugzilla.mozilla.org/show_bug.cgi?id=793972>
 
-195.
+195. <https://bugzilla.mozilla.org/show_bug.cgi?id=829284>
 
-196.
+196. [Firefox Release Notes (21.0)](http://www.mozilla.org/en-US/firefox/21.0/releasenotes/)
 
-197.
+197. <https://blog.mozilla.org/blog/2013/05/14/stay-social-with-firefox/>
 
-198.
+198. <https://blog.mozilla.org/privacy/2013/01/28/newdntui/>
 
-199.
+199. <https://blog.mozilla.org/futurereleases/2013/05/14/firefox-heal-thyself/>
 
-200.
+200. <https://bugzilla.mozilla.org/show_bug.cgi?id=816298>
 
-201.
+201. <https://bugzilla.mozilla.org/show_bug.cgi?id=809821>
 
-202.
+202. <https://developer.mozilla.org/en-US/docs/E4X>
 
 203.
 
-204.
+204. <https://developer.mozilla.org/en-US/docs/Web/HTML/Element/main?redirectlocale=en-US&redirectslug=HTML%2FElement%2Fmain>
 
-205.
+205. <http://updates.html5rocks.com/2012/03/A-New-Experimental-Feature-style-scoped>
 
-206.
+206. <https://bugzilla.mozilla.org/show_bug.cgi?id=833719>
 
-207.
+207. <https://bugzilla.mozilla.org/show_bug.cgi?id=847627>
 
-208.
+208. <https://www.mozilla.org/security/known-vulnerabilities/firefox.html>
 
-209.
+209. [Firefox Release Notes (22.0)](http://www.mozilla.org/en-US/firefox/22.0/releasenotes/)
 
-210.
-211.
+210. <https://blog.mozilla.org/futurereleases/2013/05/16/firefox-beta-now-includes-webrtc-on-by-default/>
 
-212.
+211. <https://blog.mozilla.org/luke/2013/03/21/asm-js-in-firefox-nightly/>
 
-213.
+212. [Firefox最新29版效能激增的秘密Asm.js](http://www.ithome.com.tw/news/87540)，李建興，ithome，2014-05-09
 
-214.
+213. <https://bugzilla.mozilla.org/buglist.cgi?quicksearch=829747>
 
-215.
+214. <https://bugzilla.mozilla.org/buglist.cgi?quicksearch=716140%2C689623%2C661304>
 
-216.
+215. <https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Flexible_boxes?redirectlocale=en-US&redirectslug=CSS%2FTutorials%2FUsing_CSS_flexible_boxes>
 
-217.
+216. <https://bugzilla.mozilla.org/show_bug.cgi?id=839371>
 
-218.
+217. <https://bugzilla.mozilla.org/show_bug.cgi?id=629801>
 
-219.
+218. <https://bugzilla.mozilla.org/show_bug.cgi?id=829952>
 
-220.
+219. <https://www.mozilla.org/security/known-vulnerabilities/firefox.html>
 
-221.
+220. [Firefox Release Notes (23.0)](http://www.mozilla.org/en-US/firefox/23.0/releasenotes/)
 
-222.
+221. <https://blog.mozilla.org/security/2013/05/16/mixed-content-blocking-in-firefox-aurora/>
 
-223.
+222. <https://bugzilla.mozilla.org/show_bug.cgi?id=838675>
 
-224.
+223. <https://hacks.mozilla.org/2013/05/firefox-developer-tool-features-for-firefox-23/>
 
-225.
+224. <https://www.mozilla.org/security/known-vulnerabilities/firefox.html>
 
-226.
+225. [Firefox Release Notes (24.0)](http://www.mozilla.org/en-US/firefox/24.0/releasenotes/)
 
-227.
+226. <http://msujaws.wordpress.com/2013/06/17/picking-up-the-crumbs/>
 
-228.
+227. <https://bugzilla.mozilla.org/show_bug.cgi?id=577727>
 
-229.
+228. <https://bugzilla.mozilla.org/show_bug.cgi?id=867465>
 
-230.
+229. <https://bugzilla.mozilla.org/show_bug.cgi?id=791670>
 
-231. 不清楚Firefox跳過前面Beta版本，直接跳到14.0b6的原因
+230. <https://bugzilla.mozilla.org/show_bug.cgi?id=600207>
 
-232.
+231. <http://www.robodesign.ro/mihai/blog/the-browser-console-is-replacing-the-error-console>
 
-233.
+232. <https://bugzilla.mozilla.org/show_bug.cgi?id=886886>
 
-234. 因為手機版Firefox 14.0已於6月26日推出，電腦版Firefox只是做一些安全性更新後釋出，所以版本號是14.0.1
+233. <https://www.mozilla.org/security/known-vulnerabilities/firefox.html>
 
-235.
+234. [Firefox Release Notes (25.0)](http://www.mozilla.org/en-US/firefox/25.0/releasenotes/)
 
-236.
+235. <https://bugzilla.mozilla.org/show_bug.cgi?id=483446>
 
-237.
+236. <https://bugzilla.mozilla.org/buglist.cgi?quicksearch=717379%2C866847%2C866849%2C886949>
 
-238.
+237. <https://bugzilla.mozilla.org/show_bug.cgi?id=802895>
 
-239.
-240.
+238. <https://www.mozilla.org/security/known-vulnerabilities/firefox.html>
 
-241.
-242.
+239. [Firefox Release Notes (26.0)](http://www.mozilla.org/en-US/firefox/26.0/releasenotes/)
 
-243.
+240. <https://blog.mozilla.org/futurereleases/2013/09/24/plugin-activation-in-firefox/>
 
-244.
-245.
+241. <https://developer.mozilla.org/en-US/docs/Social_API>
 
-246.
-247.
+242. <https://bugzilla.mozilla.org/show_bug.cgi?id=298619>
+
+243. <https://bugzilla.mozilla.org/show_bug.cgi?id=812695>
+
+244. <https://bugzilla.mozilla.org/show_bug.cgi?id=847223>
+
+245. <https://bugzilla.mozilla.org/show_bug.cgi?id=914479>
+
+246. <https://www.mozilla.org/security/known-vulnerabilities/firefox.html>
+
+247. [Firefox Release Notes (27.0)](http://www.mozilla.org/en-US/firefox/27.0/releasenotes/)
 
 248.
 
-249.
+249. <http://www.ietf.org/rfc/rfc5246.txt>
 
-250.
+250. <http://dev.chromium.org/spdy/spdy-protocol/spdy-protocol-draft3-1>
 
-251.
+251. <http://mcc.id.au/blog/2013/10/all-unset>
 
-252.
+252. <https://bugzilla.mozilla.org/show_bug.cgi?id=762761>
 
-253.
+253. <https://bugzilla.mozilla.org/show_bug.cgi?id=261037>
 
-254.
+254. <https://bugzilla.mozilla.org/show_bug.cgi?id=766282>
 
-255.
+255. <https://bugzilla.mozilla.org/show_bug.cgi?id=880672>
 
-256.
+256. <http://wingolog.org/archives/2013/10/07/es6-generators-and-iteration-in-spidermonkey>
 
-257.
+257. <https://bugzilla.mozilla.org/show_bug.cgi?id=896264>
 
-258.
+258. <https://bugzilla.mozilla.org/show_bug.cgi?id=768067>
 
-259.
+259. <https://bugzilla.mozilla.org/show_bug.cgi?id=740200>
 
-260.
+260. <https://www.mozilla.org/security/known-vulnerabilities/firefox.html>
 
-261.
+261. [Firefox Release Notes (28.0)](http://www.mozilla.org/en-US/firefox/28.0/releasenotes/)
 
-262.
+262. [「Firefox 28」正式版登場、ブラウザをゲームパッドで操作することが可能に | GIGAZINE](http://gigazine.net/news/20140318-firefox-28/)，2014年3月25日最後查閱。
 
-263.
+263. <https://www.mozilla.org/security/known-vulnerabilities/firefox.html>
 
-264.
+264. [Firefox Release Notes (29.0)](http://www.mozilla.org/en-US/firefox/29.0/releasenotes/)
 
 265.
 
@@ -11911,6 +11198,7 @@
 269.
 
 270.
+
 271.
 
 272.
@@ -11926,7 +11214,6 @@
 277.
 
 278.
-
 279.
 
 280.
@@ -11956,6 +11243,7 @@
 292.
 
 293.
+
 294.
 
 295.
@@ -11966,7 +11254,7 @@
 
 298.
 
-299.
+299. [Firefox Release Notes (30.0)](http://www.mozilla.org/en-US/firefox/30.0/releasenotes/)
 
 300.
 
@@ -11976,9 +11264,9 @@
 
 303.
 
-304.
+304. <https://www.mozilla.org/security/known-vulnerabilities/firefox.html>
 
-305.
+305. [Firefox Release Notes (31.0)](http://www.mozilla.org/en-US/firefox/31.0/releasenotes/)
 
 306.
 
@@ -12002,7 +11290,7 @@
 
 316.
 
-317. "Version 35.0a2, first offered to Firefox Developer Edition users on November 10, 2014"
+317.
 
 318.
 
@@ -12018,7 +11306,7 @@
 
 324.
 
-325.
+325. [Firefox Release Notes (32.0)](http://www.mozilla.org/en-US/firefox/32.0/releasenotes/)
 
 326.
 
@@ -12031,6 +11319,7 @@
 330.
 
 331.
+
 332.
 
 333.
@@ -12049,9 +11338,9 @@
 
 340.
 
-341.
+341. <https://www.mozilla.org/security/known-vulnerabilities/firefox.html>
 
-342.
+342. [Firefox Release Notes (33.0)](http://www.mozilla.org/en-US/firefox/33.0/releasenotes/)
 
 343.
 
@@ -12085,13 +11374,13 @@
 
 358.
 
-359.
+359. [Firefox Release Notes (34.0)](http://www.mozilla.org/en-US/firefox/34.0/releasenotes/)
 
 360.
 
-361.
+361. [Firefox 免費通訊服務「Firefox Hello」開放使用者測試](http://technews.tw/2014/10/17/firefox-hello/)，TechNews 科技新報，20114-10-17
 
-362.
+362. [Firefox Hello 即時影音通訊功能測試版上線，瀏覽器直接通話不需外掛](http://www.ithome.com.tw/news/91655)，iThome臺灣，20114-10-17
 
 363.
 
@@ -12104,9 +11393,10 @@
 367.
 
 368.
+
 369.
 
-370.
+370. [Firefox Release Notes (35.0)](https://www.mozilla.org/en-US/firefox/35.0/releasenotes/)
 
 371.
 
@@ -12120,19 +11410,19 @@
 
 376.
 
-377.
+377. [Firefox Release Notes (36.0)](http://www.mozilla.org/en-US/firefox/36.0/releasenotes/)
 
 378.
 
-379.
+379. [Firefox Release Notes (37.0)](http://www.mozilla.org/en-US/firefox/37.0/releasenotes/)
 
 380.
 
-381.
+381. [Firefox Release Notes (38.0)](http://www.mozilla.org/en-US/firefox/38.0/releasenotes/)
 
 382.
 
-383.
+383. [Firefox Release Notes (39.0)](http://www.mozilla.org/en-US/firefox/39.0/releasenotes/)
 
 384.
 
@@ -12141,7 +11431,6 @@
 386.
 
 387.
-
 388.
 
 389.
@@ -12165,6 +11454,7 @@
 398.
 
 399.
+
 400.
 
 401.
@@ -12187,7 +11477,7 @@
 
 410.
 
-411.
+411. "Version 35.0a2, first offered to Firefox Developer Edition users on November 10, 2014"
 
 412.
 
@@ -12216,7 +11506,6 @@
 424.
 
 425.
-
 426.
 
 427.
@@ -12253,24 +11542,25 @@
 
 443.
 
-444.
+444. [42](https://www.mozilla.org/en-US/firefox/40.0/releasenotes/)
 
-445.
+445. [43](https://www.mozilla.org/en-US/firefox/41.0/releasenotes/)
 
-446.
+446. [44](https://www.mozilla.org/en-US/firefox/42.0/releasenotes/)
 
-447.
-448.
+447. [45](https://www.mozilla.org/en-US/firefox/43.0/releasenotes/)
 
-449.
+448. [46](https://www.mozilla.org/en-US/firefox/44.0/releasenotes/)
 
-450.
+449. [47](https://www.mozilla.org/en-US/firefox/45.0/releasenotes/)
 
-451.
+450. [48](https://www.mozilla.org/en-US/firefox/46.0/releasenotes/)
 
-452.
+451. [49](https://www.mozilla.org/en-US/firefox/47.0/releasenotes/)
 
-453.
+452. [50](https://www.mozilla.org/en-US/firefox/48.0/releasenotes/)
+
+453. [51](https://www.mozilla.org/en-US/firefox/49.0/releasenotes/)
 
 454.
 
@@ -12309,7 +11599,6 @@
 471.
 
 472.
-
 473.
 
 474.
@@ -12356,13 +11645,259 @@
 
 495.
 
-496.
+496. [52](https://www.mozilla.org/en-US/firefox/50.0/releasenotes/)
 
-497.
+497. [53](https://www.mozilla.org/en-US/firefox/51.0/releasenotes/)
 
-498.
+498. [54](https://www.mozilla.org/en-US/firefox/52.0/releasenotes/)
 
-499.
-500.
+499. [55](https://www.mozilla.org/en-US/firefox/53.0/releasenotes/)
 
-501.
+500. [56](https://www.mozilla.org/en-US/firefox/54.0/releasenotes/)
+
+501. [57](https://www.mozilla.org/en-US/firefox/55.0/releasenotes/)
+
+502. [58](https://www.mozilla.org/en-US/firefox/56.0/releasenotes/)
+
+503.  Firefox Quantum Browser|website=Mozilla|language=en-US|accessdate=2017-10-09}}
+
+504. [59](https://www.mozilla.org/en-US/firefox/57.0/releasenotes/)
+
+505.
+
+506.
+
+507.
+
+508.
+
+509.
+
+510.
+
+511.
+
+512.
+
+513.
+
+514.
+515.
+
+516.
+
+517.
+
+518.
+
+519.
+
+520.
+
+521.
+
+522.
+
+523.
+
+524.
+
+525.
+
+526.
+
+527.
+
+528.
+
+529.
+
+530.
+
+531.
+
+532.
+
+533.
+
+534.
+
+535.
+
+536.
+
+537.
+
+538.
+
+539.
+
+540.
+
+541.
+
+542.
+
+543.
+
+544.
+
+545.
+
+546.
+
+547.
+
+548.
+
+549.
+
+550.
+
+551.
+
+552.
+
+553.
+
+554.
+
+555.
+
+556.
+
+557.
+
+558.
+
+559.
+
+560.
+
+561.
+
+562.
+
+563.
+
+564.
+
+565.
+
+566.
+
+567.
+
+568.
+
+569.
+
+570.
+
+571.
+572.
+
+573.
+
+574.
+
+575.
+
+576.
+
+577.
+
+578.
+
+579.
+
+580.
+
+581.
+
+582.
+
+583.
+
+584.
+
+585.
+
+586.
+
+587.
+
+588.
+
+589.
+
+590.
+
+591.
+
+592.
+
+593.
+
+594.
+
+595.
+
+596.
+
+597.
+
+598.
+
+599.
+
+600.
+
+601.
+
+602.
+
+603.
+
+604.
+
+605.
+
+606.
+
+607.
+
+608.
+
+609.
+
+610.
+
+611.
+
+612.
+
+613.
+
+614.
+
+615.
+
+616.
+
+617.
+
+618.
+
+619.
+
+620.
+
+621.
+
+622.
+
+623.
+624.
+
+625.

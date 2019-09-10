@@ -2,7 +2,7 @@
 
 小娜在2014年4月2日举行的[微软Build开发者大会上正式展示并发布](../Page/Build_\(开发者大会\).md "wikilink")。2014年中旬，微软发布了“-{小娜}-”这一名字，作为-{Cortana}-在[中国大陆](../Page/中国大陆.md "wikilink")使用的中文名。与这一中文名一起发布的是小娜在中国大陆使用的另一个标志。
 
-2015年12月9日，微软发布了[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android](../Page/Android.md "wikilink")版本的小娜。2019年1月起，[Windows Phone 8.1版的小娜停止服务](../Page/Windows_Phone_8.1.md "wikilink")。而截止2019年2月，在中国大陆\[1\]及港澳地区與台湾暂无法使用移动版小娜，而在1月，iOS/Android的小娜已不可用，现时在Windows端已恢复功能。目前，小娜可以在apkpure上获取（安卓版本3.3.2）\[2\]
+2015年12月9日，微软发布了[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android](../Page/Android.md "wikilink")版本的小娜。2019年1月起，[Windows Phone 8.1版的小娜停止服务](../Page/Windows_Phone_8.1.md "wikilink")。而截止2019年2月，在中国大陆\[1\]及港澳台地区暂无法使用移动版小娜，而在1月，iOS/Android的小娜已不可用，现时在Windows端已恢复功能。目前，小娜可以在apkpure上获取（安卓版本3.3.2）\[2\]
 
 ## 发展历史
 

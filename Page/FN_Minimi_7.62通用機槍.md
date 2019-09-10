@@ -1,4 +1,4 @@
-**FN Minimi 7.62**（又稱：FN Maximi）是一挺由[比利时](../Page/比利时.md "wikilink")槍械製造商[國營赫斯塔爾](https://zh.wikipedia.org/wiki/赫爾斯塔爾國營工廠 "wikilink")（，簡稱：FN）所研製及生產的輕型[可散式彈鏈供彈的](../Page/彈鏈.md "wikilink")[通用機槍](../Page/通用機槍.md "wikilink")，是[FN Minimi輕機槍的](../Page/FN_Minimi輕機槍.md "wikilink")[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[北约](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑版本](https://zh.wikipedia.org/wiki/口徑 "wikilink")。
+**FN Minimi 7.62**（又稱：FN Maximi）是一款由[比利时](../Page/比利时.md "wikilink")槍械製造商[埃斯塔勒国营工厂](../Page/埃斯塔勒国营工厂.md "wikilink")（，簡稱：FN）所研製及生產的輕型[可散式彈鏈供彈的](../Page/彈鏈.md "wikilink")[通用機槍](../Page/通用機槍.md "wikilink")，是[FN Minimi輕機槍的](../Page/FN_Minimi輕機槍.md "wikilink")[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[北约](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑版本](https://zh.wikipedia.org/wiki/口徑 "wikilink")。
 
 ## 歷史
 

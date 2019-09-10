@@ -5,7 +5,7 @@
 《[Dangerous](../Page/Dangerous_\(專輯\).md "wikilink")》
 《[Boyz On Fire](https://zh.wikipedia.org/wiki/Boyz_On_Fire "wikilink")》 }}
 
-**SpeXial**為[可米國際影視旗下的藝人團體](https://zh.wikipedia.org/wiki/可米國際影視 "wikilink")，團名「SpeXial」為「eXtra Special」的變形單字，意指「與眾不同的特別」。SpeXial於2012年12月7日以四人組合\[1\]發行首張同名專輯《[SpeXial](../Page/SpeXial_\(專輯\).md "wikilink")》正式出道，其後經歷數次團員變動\[2\]\[3\]\[4\]\[5\]\[6\]\[7\]\[8\]，現以八人組合活動。成員包括[偉晉](../Page/偉晉.md "wikilink")、[明-{杰}-](https://zh.wikipedia.org/wiki/許名傑 "wikilink")、[子閎](../Page/子閎.md "wikilink")、[Evan](../Page/Evan_\(SpeXial\).md "wikilink")、[Teddy](../Page/Teddy_\(SpeXial\).md "wikilink")、[風田](../Page/風田.md "wikilink")、[易恩](https://zh.wikipedia.org/wiki/易恩 "wikilink")、[Dylan](https://zh.wikipedia.org/wiki/熊梓淇 "wikilink")。
+**SpeXial**為[可米國際影視旗下的藝人團體](https://zh.wikipedia.org/wiki/可米國際影視 "wikilink")，團名「SpeXial」為「eXtra Special」的變形單字，意指「與眾不同的特別」。SpeXial於2012年12月7日以四人組合\[1\]發行首張同名專輯《[SpeXial](../Page/SpeXial_\(專輯\).md "wikilink")》正式出道，其後經歷數次團員變動\[2\]\[3\]\[4\]\[5\]\[6\]\[7\]\[8\]以八人組合。成員包括[偉晉](../Page/偉晉.md "wikilink")、[明-{杰}-](https://zh.wikipedia.org/wiki/許名傑 "wikilink")、[子閎](../Page/子閎.md "wikilink")、[Evan](../Page/Evan_\(SpeXial\).md "wikilink")、[Teddy](../Page/Teddy_\(SpeXial\).md "wikilink")、[風田](../Page/風田.md "wikilink")、[易恩](https://zh.wikipedia.org/wiki/易恩 "wikilink")、[Dylan](https://zh.wikipedia.org/wiki/熊梓淇 "wikilink")。
 
 ## 團體沿革
 
@@ -103,7 +103,7 @@
 
 2019年5月18日，團員[明-{杰}-在Facebook粉絲專頁宣布](https://zh.wikipedia.org/wiki/許名傑 "wikilink")，於7月6日舉辦「音為有你」音樂會。
 
-2019年8月12日，團員[偉晉](../Page/偉晉.md "wikilink")正式退伍。
+2019年8月12日，團員[偉晉](../Page/偉晉.md "wikilink")正式退伍，團體以8人繼續活動。
 
 ## 成員
 

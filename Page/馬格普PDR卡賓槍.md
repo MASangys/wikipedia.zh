@@ -21,7 +21,7 @@
 
   - [馬格普FMG-9衝鋒槍](../Page/馬格普FMG-9衝鋒槍.md "wikilink")
   - [雷明登ACR突擊步槍](../Page/雷明登ACR突擊步槍.md "wikilink")
-  - [AAC蜜獾式PDW突擊步槍](../Page/AAC蜜獾式PDW突擊步槍.md "wikilink")
+  - [蜜獾式突擊步槍](../Page/蜜獾式突擊步槍.md "wikilink")
   - [AO-46個人防衛武器](../Page/AO-46個人防衛武器.md "wikilink")
   - [KAC PDW突擊步槍](https://zh.wikipedia.org/wiki/KAC_PDW突擊步槍 "wikilink")
 

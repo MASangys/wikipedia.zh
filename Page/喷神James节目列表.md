@@ -979,6 +979,12 @@
 <td></td>
 <td><p>2019年6月5日</p></td>
 </tr>
+<tr class="even">
+<td><p>171</p></td>
+<td><p>Chex Quest</p></td>
+<td><p>2019年8月21日</p></td>
+<td><p><strong>《Chex 大冒險》</strong><em>（）</em>（PC、<strong>《<a href="../Page/毀滅戰士_(1993年遊戲).md" title="wikilink">毀滅戰士</a>》</strong><a href="../Page/遊戲模組.md" title="wikilink">遊戲模組</a>）</p></td>
+</tr>
 </tbody>
 </table>
 

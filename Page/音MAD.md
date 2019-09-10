@@ -206,7 +206,7 @@
 
 <!-- end list -->
 
-  - [蔡徐坤](../Page/蔡徐坤.md "wikilink")
+  - [蔡徐坤](../Page/蔡徐坤.md "wikilink")（参见[蔡徐坤打篮球事件](../Page/蔡徐坤打篮球事件.md "wikilink")）
   - [吴亦凡](https://zh.wikipedia.org/wiki/吴亦凡 "wikilink")（[大碗宽麵](https://zh.wikipedia.org/wiki/大碗宽麵 "wikilink")）
   - [香蕉君](https://zh.wikipedia.org/wiki/香蕉君 "wikilink")
   - [李彦宏](../Page/李彦宏.md "wikilink")（参见[李彦宏被泼水事件](../Page/李彦宏被泼水事件.md "wikilink")）
@@ -256,7 +256,7 @@
 <!-- end list -->
 
   - [梁逸峰](../Page/梁逸峰.md "wikilink")
-  - 游泳教练（陈茂盛）
+  - 游泳教练（陈茂蓬）
   - [狄仁傑](https://zh.wikipedia.org/wiki/狄仁傑 "wikilink")
   - [李春姬](../Page/李春姬.md "wikilink")
   - [江南皮革廠](https://zh.wikipedia.org/wiki/江南皮革廠 "wikilink")

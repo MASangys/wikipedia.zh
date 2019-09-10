@@ -23,12 +23,15 @@ BR.20是[第二次世界大戰前由意大利](https://zh.wikipedia.org/wiki/第
 
 1939年2月20日，日本陸軍航空隊第98戰隊17架BR.20和12架[九七式轟炸機轟炸蘭州](https://zh.wikipedia.org/wiki/九七式重爆撃機 "wikilink")，中國空軍第17中隊和[蘇聯志願航空隊駕駛](https://zh.wikipedia.org/wiki/蘇聯志願航空隊 "wikilink")[I-152戰鬥機迎敵](../Page/伊-15戰鬥機.md "wikilink")，第17中隊隊長[岑澤鎏帶領](https://zh.wikipedia.org/wiki/岑澤鎏 "wikilink")9架I-152對日機編隊發動攻擊，立即把作為領隊機的兩架BR.20擊落，日機掉落在[賀蘭山](https://zh.wikipedia.org/wiki/賀蘭山 "wikilink")，當日有9架日機被擊落而中方損失了一架由蘇聯人駕駛的I-152，此戰被稱為**蘭州二.二O空戰**。
 
+一架被缴获的BR.20由[中華民國空軍](../Page/中華民國空軍.md "wikilink")在1939年使用
+
 ### 歐洲戰場
 
 1937年6月參與[西班牙內戰](https://zh.wikipedia.org/wiki/西班牙內戰 "wikilink")，西班牙佛朗哥空軍買了25架，當1940年意大利參戰時有250架BR.20，其中有60架為強化自衛火力的BR.20M(把防衛機槍由7.7毫米口徑[SAFAT機槍](../Page/SAFAT機槍.md "wikilink")強化至12.7毫米口徑)，意大利空軍有75架轟炸英國但被英國戰機迎頭痛擊，之後意軍BR.20轉戰蘇聯戰場也同樣損失慘重，1942年後已算落伍的BR.20改為海上巡邏等次要任務，到1943年意大利向盟軍投降時還剩下81架BR.20。 [Fiat_B.R.20_3-view.svg](https://zh.wikipedia.org/wiki/File:Fiat_B.R.20_3-view.svg "fig:Fiat_B.R.20_3-view.svg")
 
 ## 使用國家
 
+  -
   -
   -
   -

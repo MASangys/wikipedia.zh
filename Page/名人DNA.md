@@ -183,6 +183,10 @@ Alexander Hamilton portrait by John Trumbull 1806.jpg|[汉密尔顿](../Page/亚
   - [曹參](../Page/曹参.md "wikilink")，[西漢丞相](https://zh.wikipedia.org/wiki/西漢 "wikilink")，其子孙測試結果属于O2a2b2b1b類型（O-A16440）\[72\]\[73\]。
   - [马英九](https://zh.wikipedia.org/wiki/马英九 "wikilink")，中华民国第12、13任總統，O2a1c類型（O-IMS-JST002611）。
 
+#### O2b2a
+
+  - [周遇吉](../Page/周遇吉.md "wikilink")，[明朝](../Page/明朝.md "wikilink")山西总兵，辽东锦州卫人，明末名将。宁武关之战，力抗闯军，战死。追赠太保，谥忠武。其子孙高通測試結果属于O2b2a類型 (F3021)。
+
 #### O（猜测对应关系)
 
   - [周文王](../Page/周文王.md "wikilink")，姓姬，名昌，中国商朝末期周氏族首领。多支姬姓来源姓氏的检测结果属于O-M119-F81-F492单倍群，且O-F492占比中国人口5%，约为三千年来中国人口最多的支系，推测周文王很大概率也属于这个单倍群。
@@ -243,6 +247,12 @@ Alexander Hamilton portrait by John Trumbull 1806.jpg|[汉密尔顿](../Page/亚
 **豊間根功智**
 
   - 豊間根功智, 是[朝日新聞](../Page/朝日新聞.md "wikilink")系雜誌《GLOBE》[攝影師](https://zh.wikipedia.org/wiki/攝影師 "wikilink")。其[粒線體DNA測試結果爲B](https://zh.wikipedia.org/wiki/粒線體DNA "wikilink")4a單倍群\[99\]。
+
+### 粒線體DNA C單倍群
+
+**张学良**
+
+  - 张学良，中华民国陆军一级上将，奉系军阀领袖[张作霖](../Page/张作霖.md "wikilink")长子。其两姨表妹后人[粒線體DNA測試結果爲C](https://zh.wikipedia.org/wiki/粒線體DNA "wikilink")1c2。
 
 ### 粒線體DNA D單倍群
 

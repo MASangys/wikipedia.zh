@@ -254,7 +254,7 @@
   - 周昌煜（[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
   - 金敏緒（[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
   - 李協（[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
-  - 李省俊
+  - 李成俊
 
 ## 離開藝人
 

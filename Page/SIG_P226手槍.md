@@ -806,7 +806,7 @@ SIG P226同時出現在不少[电影](../Page/电影.md "wikilink")、[电视剧
   - 1994年—《[這個殺手不太冷](https://zh.wikipedia.org/wiki/終極追殺令 "wikilink")》：型號分別為全黑色底把型和雙色型：
       - 全黑色底把型裝上了鐳射瞄準器，被[美國緝毒局警員本尼所使用](https://zh.wikipedia.org/wiki/美國緝毒局 "wikilink")。
       - 雙色型裝上了[抑制器](../Page/抑制器.md "wikilink")，被主角萊昂所使用。
-  - 1995年—《[-{zh-tw:絕地戰警; zh-hk:重案夢幻組; zh-cn:绝地战警;}-](../Page/絕地戰警.md "wikilink")》：型號為全不鏽鋼底把型P226，被麥克·勞里（Mike Lowrey，[-{zh-hans:威拉德·克里斯托弗·“威尔”·史密斯; zh-hk:韋·史密夫; zh-tw:威拉德·克里斯托弗·“威爾”·史密斯;}-飾演](../Page/威爾·史密斯.md "wikilink")）作為所使用。
+  - 1995年—《[-{zh-tw:絕地戰警; zh-hk:重案夢幻組; zh-cn:绝地战警;}-](../Page/絕地戰警.md "wikilink")》：型號為全不鏽鋼底把型P226，被麥克·勞里（Mike Lowrey，[-{zh-hans:威拉德·克里斯托弗·“威尔”·史密斯; zh-hk:韋·史密夫; zh-tw:威拉德·克里斯托弗·“威爾”·史密斯;}-飾演](../Page/威爾·史密斯.md "wikilink")）用作。
   - 1996年—《[-{zh-hans:冰血暴; zh-hk:雪花高離奇命案; zh-tw:冰血暴;}-](../Page/冰血暴.md "wikilink")》：型號為全不鏽鋼底把型P226，被加特拿·格里姆斯鲁德（Gaear Grimsrud，[彼得·斯特曼](../Page/彼得·斯特曼.md "wikilink")飾演）和卡爾·肖沃爾特（Carl Showalter，[史蒂夫·布西密](../Page/史蒂夫·布西密.md "wikilink")飾演）兩人所使用。
   - 1997年—《[空中監獄](https://zh.wikipedia.org/wiki/空中監獄 "wikilink")》：型號為全不鏽鋼底把型P226，被監獄獄警，美國法警和[美國緝毒局成員所使用](https://zh.wikipedia.org/wiki/美國緝毒局 "wikilink")，其中一把被犯人之一的賽勒斯“病毒”葛瑞森（Cyrus "The Virus" Grissom，[-{zh-hans:约翰·马尔科维奇; zh-hk:尊·麥高維治; zh-hant:約翰·馬克維奇; zh-tw:約翰·馬克維奇; zh-mo:尊·麥高維治;}-飾演](../Page/約翰·馬克維奇.md "wikilink")）所奪取。
   - 1997年—《[-{zh-hk:奪面雙雄; zh-tw:變臉; zh-cn:变脸;}-](../Page/奪面雙雄.md "wikilink")》：型號為黑色底把及不鏽鋼[套筒型P](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")226，裝上霍格橡膠握把被卡斯特·特洛伊／肖恩·阿徹（Castor Troy/Sean Archer，[約翰屈伏塔飾演](https://zh.wikipedia.org/wiki/約翰屈伏塔 "wikilink")）所使用，其後在[殯儀館](../Page/殯儀館.md "wikilink")“墨西哥式對決”失去該槍。
@@ -824,7 +824,7 @@ SIG P226同時出現在不少[电影](../Page/电影.md "wikilink")、[电视剧
   - 2002年—《[2009失去的记忆](../Page/2009失去的记忆.md "wikilink")》：型號為全黑色底把型P226，被京城縣警員和日本調查局人員所使用。
   - 2003年—《[-{zh:烈日風暴; zh-hans:太阳之泪; zh-hant:烈日風暴; zh-cn:太阳之泪; zh-hk:戰鷹一號; zh-tw:烈日風暴; zh-mo:戰鷹一號;}-](../Page/烈日風暴.md "wikilink")》：型號為全黑色底把型P226，被小隊中的醫務兵丹尼·“醫生”·凱利（Danny "Doc" Kelley，[保羅·弗朗西斯飾演](https://zh.wikipedia.org/wiki/保羅·弗朗西斯 "wikilink")）和小隊隊員德米特里“絲綢”歐文斯（Demetrius "Silk" Owens，[查爾斯·英格拉姆飾演](https://zh.wikipedia.org/wiki/查爾斯·英格拉姆 "wikilink")）所使用。
   - 2003年—《[-{zh-cn:绝地战警2; zh-tw:絕地戰警2; zh-hk:重案夢幻組2;}-](../Page/绝地战警2.md "wikilink")》：型號為黑色底把及不鏽鋼套筒型P226和全黑色底把型P226：
-      - 黑色底把及不鏽鋼套筒型P226被主角馬奎斯·巴涅特（Marcus Burnett，[-{zh-hans:马丁·劳伦斯; zh-hant:馬汀·勞倫斯;}-飾演](../Page/馬汀·勞倫斯.md "wikilink")）作為所使用。
+      - 黑色底把及不鏽鋼套筒型P226被主角馬奎斯·巴涅特（Marcus Burnett，[-{zh-hans:马丁·劳伦斯; zh-hant:馬汀·勞倫斯;}-飾演](../Page/馬汀·勞倫斯.md "wikilink")）用作。
       - 全黑色底把型P226被古巴毒梟塔皮亞的左右手卡洛斯（Carlos，[奧托·桑切斯飾演](https://zh.wikipedia.org/wiki/奧托·桑切斯 "wikilink")）在雷區槍戰時所使用。
   - 2003年—《[致命摇篮](../Page/致命摇篮.md "wikilink")》：型號為黑色底把及不鏽鋼套筒型P226，被殺手所使用。
   - 2003年—《[-{zh-cn:速度与激情2; zh-tw:玩命關頭2：飆風再起; zh-hk:狂野時速2;}-](../Page/速度与激情2.md "wikilink")》：型號為不鏽鋼底把及黑色套筒型P226和全不鏽鋼底把型P226：
@@ -835,12 +835,12 @@ SIG P226同時出現在不少[电影](../Page/电影.md "wikilink")、[电视剧
   - 2005年—《[-{zh-tw:限制級戰警2：極限公國; zh-hk:3X之特種叛變; zh-cn:极限特工2;}-](../Page/极限特工2.md "wikilink")》：型號為全黑色底把型P226和P226R：
       - 全黑色底把型P226被橋上企圖阻止托比的警察、托比·李·沙爾（Toby Lee Shavers，[邁克爾·路夫飾演](https://zh.wikipedia.org/wiki/邁克爾·路夫 "wikilink")）和[美國特勤局特工所使用](https://zh.wikipedia.org/wiki/美國特勤局 "wikilink")。
       - P226R裝上[戰術燈](../Page/戰術燈.md "wikilink")並且被凱爾·斯蒂爾（Kyle Steele，[斯科特·斯比德曼](../Page/斯科特·斯比德曼.md "wikilink")飾演）、其他[國家安全局特工和](https://zh.wikipedia.org/wiki/美國國家安全局 "wikilink")[特警隊隊員所使用](../Page/特種武器和戰術部隊.md "wikilink")。
-  - 2005年—《[-{zh-cn:电锯惊魂2; zh-tw:奪魂鋸2; zh-hk:恐懼鬥室2死亡困局;}-](../Page/恐懼鬥室2.md "wikilink")》：型號為全黑色底把型P226，被艾莉森·凱莉（Allison Kerry，[笛娜·梅耶飾演](https://zh.wikipedia.org/wiki/笛娜·梅耶 "wikilink")）警探作為所使用。
+  - 2005年—《[-{zh-cn:电锯惊魂2; zh-tw:奪魂鋸2; zh-hk:恐懼鬥室2死亡困局;}-](../Page/恐懼鬥室2.md "wikilink")》：型號為全黑色底把型P226，被艾莉森·凱莉（Allison Kerry，[笛娜·梅耶飾演](https://zh.wikipedia.org/wiki/笛娜·梅耶 "wikilink")）警探用作。
   - 2005年—《[-{zh-hans:我爱上流; zh-hk:賊壇新人王; zh-tw:我愛上流;}-](../Page/我愛上流.md "wikilink")》：型號為全黑色底把型P226，分別被狄克·哈普（Dick Harper，[占·基利](../Page/占·基利.md "wikilink")飾演）和珍·哈普（Jane Harper，[蒂雅·李歐妮](../Page/蒂雅·李歐妮.md "wikilink")飾演）所使用，其後證實只是[水槍](https://zh.wikipedia.org/wiki/水槍 "wikilink")。
   - 2006年—《[-{zh-hans:寂静岭; zh-cn:寂静岭; zh-hk:鬼魅山房; zh-tw:沉默之丘;}-](../Page/寂静岭_\(电影\).md "wikilink")》：型號為黑色底把及不鏽鋼套筒型P226，被女警西碧兒（Cybil Bennett，[勞瑞·霍登飾演](https://zh.wikipedia.org/wiki/勞瑞·霍登 "wikilink")）所使用。
-  - 2006年—《[-{zh-cn:航班蛇患; zh-hk:毒蛇嚇機; zh-tw:飛機上有蛇; zh-sg:空中蛇灾;}-](../Page/毒蛇嚇機.md "wikilink")》：型號為全黑色底把型P226，被FBI探員漢克·哈里斯（Hank Harris，[鮑比·坎納瓦萊飾演](https://zh.wikipedia.org/wiki/鮑比·坎納瓦萊 "wikilink")）作為所使用。
+  - 2006年—《[-{zh-cn:航班蛇患; zh-hk:毒蛇嚇機; zh-tw:飛機上有蛇; zh-sg:空中蛇灾;}-](../Page/毒蛇嚇機.md "wikilink")》：型號為全黑色底把型P226，被FBI探員漢克·哈里斯（Hank Harris，[鮑比·坎納瓦萊飾演](https://zh.wikipedia.org/wiki/鮑比·坎納瓦萊 "wikilink")）用作。
   - 2006年—《[-{zh:無間道風雲; zh-hans:无间道风云; zh-tw:神鬼無間; zh-hk:無間道風雲;}-](https://zh.wikipedia.org/wiki/神鬼無間 "wikilink")》：型號為全黑色底把型P226，被馬薩諸塞州警察，包括布朗警探（Brown，[安東尼·安德森飾演](https://zh.wikipedia.org/wiki/安東尼·安德森 "wikilink")）所使用。
-  - 2006年—《[-{zh-cn:电锯惊魂3; zh-tw:奪魂鋸3; zh-hk:恐懼鬥室3死神在齒;}-](../Page/恐懼鬥室3.md "wikilink")》：型號為全黑色底把型P226，被艾莉森·凱莉（Allison Kerry，[笛娜·梅耶飾演](https://zh.wikipedia.org/wiki/笛娜·梅耶 "wikilink")）警探作為所使用。
+  - 2006年—《[-{zh-cn:电锯惊魂3; zh-tw:奪魂鋸3; zh-hk:恐懼鬥室3死神在齒;}-](../Page/恐懼鬥室3.md "wikilink")》：型號為全黑色底把型P226，被艾莉森·凱莉（Allison Kerry，[笛娜·梅耶飾演](https://zh.wikipedia.org/wiki/笛娜·梅耶 "wikilink")）警探用作。
   - 2006年—《[-{zh-cn:007：大战皇家赌场; zh-tw:007首部曲：皇家夜總會; zh-hk:新鐵金剛智破皇家賭場; zh-mo:新鐵金剛智破皇家賭場;}-](../Page/007大战皇家赌场.md "wikilink")》（Casino Royale）：型號為全黑色底把型P226，裝上[消聲器並且被格特勒的手下所使用](../Page/抑制器.md "wikilink")。
   - 2006年—《[-{zh-tw:快克殺手; zh-cn:怒火攻心;}-](https://zh.wikipedia.org/wiki/快克殺手 "wikilink")》：型號為全黑色底把型P226，被黑幫成員所使用，亦曾被主角契夫（Chev Chelios，[傑森·史塔森](../Page/傑森·史塔森.md "wikilink")飾演）所繳獲。
   - 2007年—《[死亡客機](../Page/死亡客機.md "wikilink")》：型號為全黑色底把型P226，被空軍元帥保羅·賈德（Paul Judd，[理查德·泰森飾演](https://zh.wikipedia.org/wiki/理查德·泰森 "wikilink")）作為所使用。
@@ -862,7 +862,7 @@ SIG P226同時出現在不少[电影](../Page/电影.md "wikilink")、[电视剧
   - 2011年—《[-{zh-cn:致命黑兰; zh-tw:黑蘭煞; zh-hk:魅影殺機;}-](../Page/黑蘭煞.md "wikilink")》（Colombiana）：型號為全黑色底把型P226，被唐路易派來殺害嘉德麗雅的父母的手下、嘉德麗雅的父親法比奧·雷斯特雷波（Fabio Restrepo，[傑西·博雷戈飾演](https://zh.wikipedia.org/wiki/傑西·博雷戈 "wikilink")）、美國法警及其上級沃倫（Head Marshal Warren，[格雷厄姆·麥塔維什飾演](https://zh.wikipedia.org/wiki/格雷厄姆·麥塔維什 "wikilink")）所使用。
   - 2011年—《[-{zh-cn:惊魂半小时; zh-hk:迫良持槍; zh-tw:菜鳥搶銀行;}-](../Page/驚魂半小時.md "wikilink")》：型號為全黑色底把型P226，被[大急流城警察](../Page/大急流城_\(密歇根州\).md "wikilink")（[賈馬爾·海因斯飾演](https://zh.wikipedia.org/wiki/賈馬爾·海因斯 "wikilink")）所使用。
   - 2011年—《[-{zh-hans:死神来了5;zh-hant:死神來了5;zh-hk:死神5來了;zh-tw:絕命終結站5;zh-mo:死神5來了;}-](../Page/絕命終結站5.md "wikilink")》：型號為全黑色底把型P226，被FBI探員吉姆·布拉克（Agent Jim Block，[寇尼·凡斯飾演](https://zh.wikipedia.org/wiki/寇尼·凡斯 "wikilink")）所使用。
-  - 2011年—《[-{zh-cn:憨豆特工2; zh-tw:凸搥特派員：二度出包; zh-hk:特務戇J之救國大業;}-](../Page/特務戇J之救國大業.md "wikilink")》：型號為全黑色底把型P226，被西蒙·劉漢銓（Simon Ambrose，[多米尼克·西飾演](https://zh.wikipedia.org/wiki/多米尼克·西 "wikilink")）作為所使用。
+  - 2011年—《[-{zh-cn:憨豆特工2; zh-tw:凸搥特派員：二度出包; zh-hk:特務戇J之救國大業;}-](../Page/特務戇J之救國大業.md "wikilink")》：型號為全黑色底把型P226，被西蒙·劉漢銓（Simon Ambrose，[多米尼克·西飾演](https://zh.wikipedia.org/wiki/多米尼克·西 "wikilink")）用作。
   - 2011年—《[-{zh-hk:滅殺鬥; zh-tw:特種精英; zh-cn:铁血精英;}-](../Page/铁血精英.md "wikilink")》：型號為全黑色底把型P226，原來被特工（[阿德沃爾·阿吉紐依-艾格拜吉飾演](https://zh.wikipedia.org/wiki/阿德沃爾·阿吉紐依-艾格拜吉 "wikilink")）所使用，後來被丹尼·布萊斯（Dirk Pitt，[傑森·史塔森](../Page/傑森·史塔森.md "wikilink")飾演）所奪取；同型槍亦被戴維斯（Davies，[多米尼克·珀塞爾飾演](https://zh.wikipedia.org/wiki/多米尼克·珀塞爾 "wikilink")）在沙漠隧道追逐時所使用；奇怪地會在1980年出現。
   - 2011年—《[-{zh-cn:碟中谍：幽灵协议; zh-tw:不可能的任務：鬼影行動; zh-hk:職業特工隊：鬼影約章;}-](https://zh.wikipedia.org/wiki/不可能的任務：鬼影行動 "wikilink")》：型號為P226 E2型和P226 SCT型：
       - P226 E2型原來被伊頓·亨特（Ethan Hunt，[湯姆·克魯斯飾演](https://zh.wikipedia.org/wiki/湯姆·克魯斯 "wikilink")）所使用，一度被IMF新成員威廉·勃蘭特（William Brandt，[杰瑞米·雷纳](../Page/杰瑞米·雷纳.md "wikilink")飾演）所奪取，其後將其歸還。
@@ -875,11 +875,11 @@ SIG P226同時出現在不少[电影](../Page/电影.md "wikilink")、[电视剧
   - 2012年—《[-{zh-cn:超凡蜘蛛侠; zh-hk:蜘蛛俠：驚世現新; zh-tw:蜘蛛人：驚奇再起;}-](https://zh.wikipedia.org/wiki/蜘蛛人：驚奇再起 "wikilink")》：型號為P226R，被喬治·史戴希（George Stacy，[丹尼斯·萊瑞飾演](https://zh.wikipedia.org/wiki/丹尼斯·萊瑞 "wikilink")）所使用。
   - 2012年—《[-{zh-hk:轟天猛將2; zh-tw:浴血任務2; zh-cn:敢死队2;}-](https://zh.wikipedia.org/wiki/敢死队2 "wikilink")》：型號為P226R和P226 SCT型：
       - P226R被海爾·凱撒（[泰瑞·克魯斯飾演](https://zh.wikipedia.org/wiki/泰瑞·克魯斯 "wikilink")）、岡納·詹森（[杜夫·朗格林飾演](https://zh.wikipedia.org/wiki/杜夫·朗格林 "wikilink")）和一名桑族武裝份子所使用。
-      - P226 SCT型被李·聖誕（[傑森·史塔森](../Page/傑森·史塔森.md "wikilink")飾演）作為所使用。
+      - P226 SCT型被李·聖誕（[傑森·史塔森](../Page/傑森·史塔森.md "wikilink")飾演）用作。
   - 2012年—《[-{zh-tw:神鬼認證4; zh-hk:叛諜追擊4：機密逃殺; zh-cn:谍影重重4：伯恩的遗产;}-](../Page/神鬼認證4.md "wikilink")》：型號為P226R，被亞倫·克羅斯（Aaron Cross，[-{zh-hk:謝洛美·維納; zh-tw:傑瑞米·雷納; zh-cn:杰瑞米·雷纳;}-飾演](../Page/杰瑞米·雷纳.md "wikilink")）所使用。
   - 2012年—《[-{zh-cn:生化危机：惩罚; zh-tw:惡靈古堡5：天譴日; zh-hk:生化危機3D：滅絕真相;}-](../Page/生化危机：惩罚.md "wikilink")》：型號為P226R，被[艾莉絲](../Page/艾莉絲_\(惡靈古堡\).md "wikilink")（Alice，[-{zh-cn:米拉·乔沃维奇; zh-tw:蜜拉·喬娃薇琪; zh-hk:米娜·祖華域芝;}-飾演](../Page/米拉·乔沃维奇.md "wikilink")）所使用，會[雙持](../Page/雙持.md "wikilink")；P226R型亦被萊恩·奧甘寶（Rain Ocampo，[米歇尔·罗德里格兹](../Page/米歇尔·罗德里格兹.md "wikilink")飾演）在威脅[艾達·王](../Page/艾達·王.md "wikilink")時所使用。
   - 2012年—《[-{zh:即刻救援; zh-cn:飓风营救; zh-tw:即刻救援; zh-hk:救參96小時;}-2;](../Page/即刻救援2.md "wikilink")》：型號為全黑色底把型P226，被貪污警察所使用。
-  - 2012年—《》：型號為P226E2，被[美國海軍特種作戰研究大隊隊員作為](https://zh.wikipedia.org/wiki/美國海軍特種作戰研究大隊 "wikilink")所使用。
+  - 2012年—《》：型號為P226E2，被[美國海軍特種作戰研究大隊隊員用作](https://zh.wikipedia.org/wiki/美國海軍特種作戰研究大隊 "wikilink")。
   - 2013年—《[-{zh-cn:双龙出手; zh-tw:兩槍斃命; zh-hk:孖Gun雙雄;}-](../Page/双龙出手.md "wikilink")》：型號為全不鏽鋼底把型P226和P226螺紋槍管精英型：
       - 全不鏽鋼底把型P226被美國緝毒局探員羅伯特·“鮑比”·海溝（Robert "Bobby" Trench，[-{zh-hans:丹泽尔·华盛顿; zh-tw:丹佐·華盛頓; zh-hk:丹素·華盛頓; zh-sg:丹泽尔·华盛顿;}-飾演](../Page/丹泽尔·华盛顿.md "wikilink")）在大結局時所使用。
       - P226螺紋槍管精英型被指揮官莊偉茵（Quince，[詹姆斯·馬斯登](../Page/詹姆斯·馬斯登.md "wikilink")飾演）和他的手下所使用。
@@ -887,26 +887,38 @@ SIG P226同時出現在不少[电影](../Page/电影.md "wikilink")、[电视剧
   - 2014年—《[-{zh-tw:美國隊長2：酷寒戰士; zh-hk:美國隊長2; zh-cn:美国队长2;}-](https://zh.wikipedia.org/wiki/美國隊長2：酷寒戰士 "wikilink")》：型號為全黑色底把型P226、全不鏽鋼底把型P226R和超大容量戰術定制型P226：
       - 超大容量戰術定制型P226和全黑色底把型P226被神盾局背叛者布祿·朗姆洛（Brock Rumlow，[法蘭克·葛里洛](../Page/法蘭克·葛里洛.md "wikilink")飾演）所使用，其中超大容量戰術定制型於神盾局監控室對峙過程中丟失。
       - 全不鏽鋼底把型P226R由[「酷寒戰士」(冬兵)](https://zh.wikipedia.org/wiki/巴基_\(漫威漫画\) "wikilink")（James Buchanan "Bucky" Barnes／Winter Soldier，[賽巴斯汀·斯坦](../Page/賽巴斯汀·斯坦.md "wikilink")飾演）所裝備使用，於世界安全理事會秘書長（潛伏於神盾局中的九頭蛇領袖）亞歷山大·皮爾斯（Alexander Pierce，[勞勃·瑞福](../Page/勞勃·瑞福.md "wikilink")飾演）家中，皮爾斯用此槍殺了撞見冬兵的女傭 Renata。
-  - 2014年—《[-{zh-cn:明日边缘; zh-tw:明日邊界; zh-hk:異空戰士;}-](../Page/明日边缘.md "wikilink")》（Edge of Tomorrow）：型號為P226R，被麗塔·弗拉塔斯基中士（Sgt. Rita Vrataski，[愛蜜莉·布朗](../Page/愛蜜莉·布朗.md "wikilink")飾演）和法雷爾軍士長（Master Sergeant Farell，[比爾·派斯頓](../Page/比爾·派斯頓.md "wikilink")飾演）作為所使用。
+  - 2014年—《[-{zh-cn:明日边缘; zh-tw:明日邊界; zh-hk:異空戰士;}-](../Page/明日边缘.md "wikilink")》（Edge of Tomorrow）：型號為P226R，被麗塔·弗拉塔斯基中士（Sgt. Rita Vrataski，[愛蜜莉·布朗](../Page/愛蜜莉·布朗.md "wikilink")飾演）和法雷爾軍士長（Master Sergeant Farell，[比爾·派斯頓](../Page/比爾·派斯頓.md "wikilink")飾演）用作。
   - 2014年—《[-{zh-cn:敢死队3; zh-tw:浴血任務3; zh-hk:轟天猛將3;}-](https://zh.wikipedia.org/wiki/敢死队3 "wikilink")》：型號為黑色底把及不鏽鋼套筒型P226，被浴血幫新成員露娜（Luna，[龙达·鲁西](../Page/龙达·鲁西.md "wikilink")飾演）所使用。
-  - 2014年—《[美國狙擊手](../Page/美國狙擊手_\(電影\).md "wikilink")》：型號為全黑色底把型P226，被馬坦斯上尉（Captain Martens，[山姆·贾格](../Page/山姆·贾格.md "wikilink")飾演）作為所使用。
+  - 2014年—《[美國狙擊手](../Page/美國狙擊手_\(電影\).md "wikilink")》：型號為全黑色底把型P226，被馬坦斯上尉（Captain Martens，[山姆·贾格](../Page/山姆·贾格.md "wikilink")飾演）用作。
   - 2015年—《[-{zh-cn:飓风营救; zh-tw:即刻救援; zh-hk:救參96小時;}-3](../Page/即刻救援3.md "wikilink")》：型號為全黑色底把型P226，被前中情局探員布萊恩·米爾斯（Bryan Mills，[連恩·尼遜](../Page/連恩·尼遜.md "wikilink")飾演）作為兔子洞收藏武器所使用。
   - 2015年—《[-{zh-hk:一夜狂逃;zh-cn:暗夜逐仇;zh-tw:一夜狂奔;}-](../Page/一夜狂奔.md "wikilink")》（Run All Night）：型號為P226海狸型，被一名阿爾巴尼亞黑幫成員所使用。
   - 2015年—《[-{zh-cn:速度与激情7; zh-tw:玩命關頭7; zh-hk:狂野時速7;}-](../Page/玩命關頭7.md "wikilink")》：型號為P226R，被罪犯布萊恩·奧康納（Brian O'Conner，[保羅·沃克](../Page/保羅·沃克.md "wikilink")飾演）所使用。
   - 2015年—《[战狼](../Page/战狼.md "wikilink")》：型号为P226R（實際上為[氣槍](https://zh.wikipedia.org/wiki/輕彈氣槍 "wikilink")），被雇佣兵组织和武吉（[周曉鷗飾演](https://zh.wikipedia.org/wiki/周曉鷗 "wikilink")）所使用。
   - 2015年—《[-{zh-hk:毒裁者;zh-cn:边境杀手;zh-tw:怒火邊界;}-](../Page/毒裁者.md "wikilink")》（Sicario）：型號為P226 DAK，被一名毒販在美墨邊境駁火期間所使用。
   - 2015年—《[-{zh-cn:终结者：创世纪; zh-tw:魔鬼終結者：創世契機; zh-hk:未來戰士：創世智能;}-](https://zh.wikipedia.org/wiki/终结者：创世纪 "wikilink")》：型號為P226 E2型和P226R：
-      - 2017年時，P226 E2型被卡爾·雷斯（Kyle Reese，[傑·寇特尼](../Page/傑·寇特尼.md "wikilink")飾演）和莎拉·康納（Sarah Connor，[艾美莉·克拉克](../Page/艾美莉·克拉克.md "wikilink")飾演）於醫院停車場至賽博坦公司的戰鬥中所使用；也被[三藩市警察局](../Page/三藩市警察局.md "wikilink")警員作為所使用。
+      - 2017年時，P226 E2型被卡爾·雷斯（Kyle Reese，[傑·寇特尼](../Page/傑·寇特尼.md "wikilink")飾演）和莎拉·康納（Sarah Connor，[艾美莉·克拉克](../Page/艾美莉·克拉克.md "wikilink")飾演）於醫院停車場至賽博坦公司的戰鬥中所使用；也被[三藩市警察局](../Page/三藩市警察局.md "wikilink")警員用作。
       - P226R被張警探（Detective Cheung，飾演）所使用。
   - 2015年—《[-{zh-cn:碟中谍5：神秘国度; zh-tw:不可能的任務：失控國度; zh-hk:職業特工隊：叛逆帝國;}-](https://zh.wikipedia.org/wiki/不可能的任務：失控國度 "wikilink")》：型號為P226R，裝上[消聲器](../Page/抑制器.md "wikilink")（圓筒型和魚鷹消聲器）和紅點瞄準器（少數）並且被國際恐怖組織「辛迪加」成員、伊爾莎·浮士德（Ilsa Faust，[丽贝卡·弗格森](../Page/丽贝卡·弗格森.md "wikilink")飾演）和[伊森·韓特](../Page/伊森·韓特.md "wikilink")（Ethan Hunt，[湯姆·克魯斯飾演](https://zh.wikipedia.org/wiki/湯姆·克魯斯 "wikilink")）所使用。
   - 2015年—《[-{zh-cn:007：幽灵党; zh-tw:007：惡魔四伏; zh-hk:007：鬼影帝國;}-](../Page/007：惡魔四伏.md "wikilink")》：型號為P226R，被[-{zh-cn:詹姆斯·邦德;zh-hk:占士·邦;zh-tw:詹姆士·龐德;}-](https://zh.wikipedia.org/wiki/占士·邦 "wikilink")（James Bond，[丹尼尔·克雷格](../Page/丹尼尔·克雷格.md "wikilink")飾演）展示快速卸載武器技能時所使用。
   - 2016年—《[-{zh-cn:13小时; zh-tw:13小時：班加西的秘密士兵; zh-hk:13小時：班加西無名英雄;}-](../Page/13小時：班加西的秘密士兵.md "wikilink")》：型號為P226R，被傑克·席維亞（Jack Da Silva，[約翰·卡拉辛斯基](../Page/約翰·卡拉辛斯基.md "wikilink")飾演）所使用。
   - 2017年—《[-{zh-cn:极寒之城; zh-tw:極凍之城; zh-hk:原子殺姬;}-](../Page/極凍之城.md "wikilink")》：被[德國聯邦警察](../Page/德國聯邦警察.md "wikilink")機構與[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[軍情六處特工蘿琳](https://zh.wikipedia.org/wiki/軍情六處 "wikilink")·布勞頓（[莎莉·賽隆飾演](https://zh.wikipedia.org/wiki/莎莉·賽隆 "wikilink")）所使用。
   - 2017年—《[-{zh-cn:生化危机：复仇; zh-tw:惡靈古堡：血仇; zh-hk:生化危機：血仇殺戮}-](../Page/惡靈古堡：血仇.md "wikilink")》：型號為美國政府針對DSO特工所設計的P226 E2「Sentinel Nine」，被[里昂·S·甘乃迪](../Page/里昂·S·甘乃迪.md "wikilink")所使用。
+  - 2017年—《[-{zh-cn:新木乃伊; zh-tw:神鬼傳奇; zh-hk:盜墓迷城; zh-sg:神鬼传奇;}-2017](https://zh.wikipedia.org/wiki/神鬼傳奇_\(2017年電影\) "wikilink")》：型號為P226戰鬥型TB，被前美國海豹部隊中士尼克·摩頓（Nick Morton，[湯姆·克魯斯飾演](https://zh.wikipedia.org/wiki/湯姆·克魯斯 "wikilink")）所使用。
+  - 2018年—《[移動迷宮：死亡解藥](../Page/移動迷宮：死亡解藥.md "wikilink")》：型號為P226R，被幽地倖存者湯瑪士（Thomas，[狄倫·歐布萊恩](../Page/狄倫·歐布萊恩.md "wikilink")飾演）所使用。
+  - 2018年—《[怒火邊界2：毒刑者](../Page/怒火邊界2：毒刑者.md "wikilink")》：型號為P226 DAK型和P226 TACOPS型：
+      - P226 DAK型被亞歷山卓·吉利克（Alejandro Gillick，[班尼西歐·狄奧·托羅](../Page/班尼西歐·狄奧·托羅.md "wikilink")飾演）用作。
+      - P226 TACOPS型被馬吉爾·赫南德茲（Miguel Hernandez，伊利亞·羅里葛茲\]\]飾演）用作配槍。
+  - 2018年—《[黑豹](../Page/黑豹_\(電影\).md "wikilink")》：型號為P226R，被南非黑市軍火商[尤里西斯·加羅](../Page/克勞_\(漫威漫畫\).md "wikilink")（Ulysses Klaue，[安迪·瑟克斯](../Page/安迪·瑟克斯.md "wikilink")飾演）、美國中情局探員（[馬丁·費里曼](../Page/馬丁·費里曼.md "wikilink")飾演）和其他特工在韓國槍戰期間所使用。
+  - 2018年—《[毀滅大作戰](https://zh.wikipedia.org/wiki/毀滅大作戰 "wikilink")》：型號為全黑色底把型P226，被聖地亞哥警察所使用。
+  - 2018年—《[不可能的任務：全面瓦解](../Page/不可能的任務：全面瓦解.md "wikilink")》：型號為P226R和全黑色底把型P226：
+      - P226R被前軍情六處女特務伊爾莎·佛斯特（Ilsa Faust，[丽贝卡·弗格森](../Page/丽贝卡·弗格森.md "wikilink")\]\]飾演）、伊頓·韓特的手下和不可能任務情報局的資深特務伊頓·韓特（Ethan Hunt，[湯姆·克魯斯飾演](https://zh.wikipedia.org/wiki/湯姆·克魯斯 "wikilink")）所使用。
+      - 全黑色底把型P226被白寡婦的手下們和中央情報局特別行動科主要探員兼刺客奧古斯特·沃克（August Walker，[亨利·卡維爾](../Page/亨利·卡維爾.md "wikilink")飾演，從白寡婦的手下奪槍）所使用。
+  - 2018年—《[-{zh-cn:侏罗纪世界2; zh-tw:侏羅紀世界：殞落國度; zh-hk:侏羅紀世界：迷失國度; zh-sg:侏罗纪世界：殒落国度;}-](../Page/侏羅紀世界：殞落國度.md "wikilink")》：型號為P226R，被僱傭兵、包括前美國海軍中尉兼恐龍馴獸師奧雲·革狄（Owen Grady，[克里斯·普瑞特](../Page/克里斯·普瑞特.md "wikilink")飾演）所使用，其後研究古生物的獸醫琪雅·羅德里奎（Zia Rodriguez，飾演）從奧雲取得一柄。
+  - 2019年—《[-{zh-cn:速度与激情：特别行动;zh-hk:狂野時速：雙雄聯盟;zh-tw:玩命關頭：特別行動;zh-sg:玩命关头：特别行动;}-](../Page/玩命關頭：特別行動.md "wikilink")》：型號為P226R，被狄卡·邵（Deckard Shaw，[傑森·史塔森](../Page/傑森·史塔森.md "wikilink")飾演）所使用。
 
 ### 電視劇
 
-  - 《[極限權利系列](https://zh.wikipedia.org/wiki/極限權利 "wikilink")》（Ultimate Force）：型號為P226，被[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[特種空勤團隊員們作為配槍所使用](https://zh.wikipedia.org/wiki/特種空勤團 "wikilink")。
+  - 《[極限權利系列](https://zh.wikipedia.org/wiki/極限權利 "wikilink")》（Ultimate Force）：型號為P226，被[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[特種空勤團隊員們用作](https://zh.wikipedia.org/wiki/特種空勤團 "wikilink")。
   - 2010年—《[新世紀福爾摩斯](https://zh.wikipedia.org/wiki/新世紀福爾摩斯 "wikilink")》：型号为P226R（實際上為[氣槍](https://zh.wikipedia.org/wiki/輕彈氣槍 "wikilink")），被主要角色約翰·華生（[馬丁·費里曼](../Page/馬丁·費里曼.md "wikilink")饰）和威廉·夏洛克·史葛·福爾摩斯（[班奈狄克·康柏拜區](../Page/班奈狄克·康柏拜區.md "wikilink")饰）所使用。
   - 2010年—《[絕地救援](../Page/絕地救援.md "wikilink")》（Strike Back）：型號為P226，被約翰·波特中士（[李察·阿米塔吉](../Page/李察·阿米塔吉.md "wikilink")飾演）和休·科林森（[安德魯·林肯飾演](https://zh.wikipedia.org/wiki/安德魯·林肯 "wikilink")）所使用。
   - 2011年— 现今—《[疑犯追踪](https://zh.wikipedia.org/wiki/疑犯追踪 "wikilink")》（Person of Interest）：型号为P226R 9mm，被主要角色John Reese（[Jim Caviezel饰](https://zh.wikipedia.org/wiki/Jim_Caviezel "wikilink")）所使用。
@@ -918,7 +930,7 @@ SIG P226同時出現在不少[电影](../Page/电影.md "wikilink")、[电视剧
       - 第6集（播出順序為第198集）“Day 9: 4:00 p.m. – 5:00 p.m.”之中，被主角[-{zh-hans:杰克·鲍尔; zh-hk:包智傑; zh-tw:傑克·鮑爾;}-](../Page/傑克·鮑爾.md "wikilink")（Jack Bauer，[-{zh-cn:基弗·萨瑟兰; zh-tw:基佛·蘇德蘭; zh-hk:基夫·修打蘭;}-飾演](../Page/基夫·修打蘭.md "wikilink")）所使用。
       - 第9集（播出順序為第201集）「Day 9: 7:00 p.m. – 8：00 p.m.」之中，被特勤局特工所使用。
   - 2014年—《[閃電俠](../Page/闪电侠_\(2014年电视剧\).md "wikilink")》（The Flash）：型號為P226和P226R：
-      - 2015年2月3日第1季第12集「為你瘋狂」（），P226被中央市探員韋祖探員（Detective Joe West，[傑西·L·馬丁飾演](https://zh.wikipedia.org/wiki/傑西·L·馬丁 "wikilink")，香港配音：[馮志輝](../Page/馮志輝.md "wikilink")）作為所使用。
+      - 2015年2月3日第1季第12集「為你瘋狂」（），P226被中央市探員韋祖探員（Detective Joe West，[傑西·L·馬丁飾演](https://zh.wikipedia.org/wiki/傑西·L·馬丁 "wikilink")，香港配音：[馮志輝](../Page/馮志輝.md "wikilink")）用作。
       - 2015年4月21日第1季第19集「誰是-{zh-hans:哈里逊·威尔斯; zh-tw:哈里遜·韋爾斯; zh-hk:榮夏利;}-」（），P226被偽裝為韋祖探員的漢尼拔·貝茨（Hannibal Bates）所使用。
       - P226R被中央市警察局便衣警察所使用。
 
@@ -944,7 +956,7 @@ SIG P226同時出現在不少[电影](../Page/电影.md "wikilink")、[电视剧
   - 2013年—《[-{zh-hans:使命召唤：幽灵; zh-hant:決勝時刻：魅影; zh-cn:使命召唤：幽灵; zh-tw:決勝時刻：魅影; zh-hk:決勝時刻：魅影; zh-mo:決勝時刻：魅影;}-](../Page/決勝時刻：魅影.md "wikilink")》：型號為P226R，命名為「P226」，12發（故事模式及滅絕模式）和14發（聯機模式，可使用改裝：延長彈匣增至21發）[彈匣](../Page/彈匣.md "wikilink")，初始攜彈量為42發（聯機模式），最高攜彈量為72發（故事模式）和84發（聯機模式）。故事模式之中為共同開始武器，被美國精銳部隊「魅影」（Ghosts）所使用；聯機模式時可以使用、[消音器](../Page/抑制器.md "wikilink")、[槍口制退器](../Page/砲口制動器.md "wikilink")、[戰術刀](https://zh.wikipedia.org/wiki/戰術刀 "wikilink")、[雙持](../Page/雙持.md "wikilink")、[延長彈匣](../Page/彈匣.md "wikilink")、[穿甲彈](https://zh.wikipedia.org/wiki/穿甲彈 "wikilink")；滅絕模式時為預設武器，有「增加遠距離傷害及配備手槍時移動更快」、「彈匣攜彈量增加50％」、「攜帶手槍和兩款主要武器」以及「腰射兩把手槍令火力和彈藥容量兩倍」的升級。
   - 2015年－《[-{zh-hans:战地：硬仗; zh-hant:戰地風雲：強硬路線;}-](../Page/战地：硬仗.md "wikilink")》：型號為P226R戰術型，命名為「P226」，發射[.40 S\&W子彈](../Page/.40_S&W.md "wikilink")，12+1發[彈匣](../Page/彈匣.md "wikilink")，最高攜彈量為26+13發。在聯機模式時被警方操作者（Operator）所使用，價格為$17,400（罪犯解鎖條件為：以任何陣營進行遊戲使用該槍擊殺1250名敵人後購買武器執照）。可加裝各種進階[照準器](../Page/照準器.md "wikilink")（改進版[機械瞄具](../Page/機械瞄具.md "wikilink")、迷你、德爾塔）、附加配件（[電筒](https://zh.wikipedia.org/wiki/電筒 "wikilink")、戰術燈、[激光瞄準器](https://zh.wikipedia.org/wiki/激光指示器 "wikilink")）及槍口零件（[槍口制退器](../Page/砲口制動器.md "wikilink")、補償器、重[槍管](../Page/槍管.md "wikilink")、[抑制器](../Page/抑制器.md "wikilink")、消焰器）。劇情模式當中則能夠被主角尼古拉斯·門多薩所使用。
   - 2015年—《[虹彩六號：圍攻行動](../Page/虹彩六號：圍攻行動.md "wikilink")》：型號為P226 Mk 25型，被[特种空勤团](../Page/特种空勤团.md "wikilink")所使用。
-  - 2016年—《[少女前線](https://zh.wikipedia.org/wiki/少女前線 "wikilink")》：名稱為P226的少女戰術人形，2017年9月的簽到槍。
+  - 2016年—《[少女前線](https://zh.wikipedia.org/wiki/少女前線 "wikilink")》：名稱為P226的少女戰術人形，2017年9月的簽到槍，在遊戲中被描述為抱著海豹型玩偶的戰術人型而且在台詞當中多度提到將[M9視為競爭對手](../Page/貝瑞塔M9手槍.md "wikilink")。
   - 2016年—《》（Escape From Tarkov）：型號為P226R。
   - 2018年—《[-{zh-hans:孤岛惊魂; zh-hant:極地戰嚎; zh-tw:極地戰嚎;}-5](https://zh.wikipedia.org/wiki/極地戰嚎5 "wikilink")》（Far Cry 5）：型號為P226R，命名為“P226”。
   - 2019年—《[-{zh-hans:孤岛惊魂：新曙光; zh-hant:極地戰嚎：破曉;}-](../Page/孤岛惊魂：新曙光.md "wikilink")》（Far Cry: New Dawn）

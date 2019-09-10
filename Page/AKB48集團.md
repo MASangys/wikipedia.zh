@@ -68,101 +68,94 @@ AKB48集團的成員如果離開團體，與一般的日本偶像團體一樣以
 <td><p><a href="../Page/NGT48.md" title="wikilink">NGT48</a></p></td>
 <td><p>2015年8月 -</p></td>
 <td><p><a href="../Page/新潟市.md" title="wikilink">新潟市</a></p></td>
-<td><p>白色  紅色</p></td>
+<td><p>白色底色與  紅色</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/STU48.md" title="wikilink">STU48</a></p></td>
 <td><p>2017年3月 -</p></td>
 <td><p><a href="../Page/瀨戶內地方.md" title="wikilink">瀨戶內7縣</a></p></td>
-<td><p>水藍色與白色交叉（背景）</p></td>
+<td><p>水藍色與白色交叉（背景） /  藍色（文字）</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>藍色（文字）</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p><a href="../Page/JKT48.md" title="wikilink">JKT48</a></p></td>
 <td><p>2011年11月 -</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/雅加達" title="wikilink">雅加達</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/BNK48.md" title="wikilink">BNK48</a></p></td>
 <td><p>2017年2月 -</p></td>
 <td></td>
 <td><p><a href="../Page/曼谷.md" title="wikilink">曼谷</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><s><a href="https://zh.wikipedia.org/wiki/TPE48" title="wikilink">TPE48</a></s>{{→}}<a href="../Page/AKB48_Team_TP.md" title="wikilink">AKB48 Team TP</a></p></td>
 <td><p>2018年3月 -</p></td>
 <td></td>
 <td><p><a href="../Page/臺北.md" title="wikilink">臺北</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/MNL48" title="wikilink">MNL48</a></p></td>
 <td><p>2018年4月 -</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/馬尼拉" title="wikilink">馬尼拉</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/AKB48_Team_SH.md" title="wikilink">AKB48 Team SH</a></p></td>
-<td><p>2018年 -</p></td>
+<td><p>2018年8月 -</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/上海市" title="wikilink">上海</a></p></td>
 <td><p>白色底色與  淡紅色</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/SGO48.md" title="wikilink">SGO48</a></p></td>
-<td><p>2018年 -</p></td>
+<td><p>2018年11月 -</p></td>
 <td></td>
 <td><p><a href="../Page/胡志明市.md" title="wikilink">胡志明市</a>（西貢）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>活動開始預定</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/CGM48.md" title="wikilink">CGM48</a></p></td>
 <td><p>2019年 -</p></td>
 <td></td>
 <td><p><a href="../Page/清邁.md" title="wikilink">清邁</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/DEL48.md" title="wikilink">DEL48</a></p></td>
 <td><p>2019年末 -</p></td>
 <td></td>
 <td><p><a href="../Page/德里.md" title="wikilink">德里</a></p></td>
-<td><p>橙与白</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/MUB48.md" title="wikilink">MUB48</a></p></td>
-<td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/孟買" title="wikilink">孟買</a></p></td>
-<td><p>緑与白</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="../Page/MUB48.md" title="wikilink">MUB48</a></p></td>
+<td><p>未定</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/孟買" title="wikilink">孟買</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>過去</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/SDN48.md" title="wikilink">SDN48</a></p></td>
 <td><p>2009年8月 - 2012年3月</p></td>
 <td></td>

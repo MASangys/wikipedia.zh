@@ -6,6 +6,7 @@
 
 ## 影響
 
+  - [李斯特改編作管風琴獨奏](https://zh.wikipedia.org/wiki/李斯特 "wikilink")
   - [安東尼奧·卡洛斯·裘賓](../Page/安東尼奧·卡洛斯·裘賓.md "wikilink")曾基於此曲寫了歌曲"Insensatez"。
   - [电台司令](../Page/电台司令.md "wikilink")寫[OK电脑](../Page/OK电脑.md "wikilink")中的歌曲時曾受此曲啟發。
   - 電影[忘了、忘不了](../Page/忘了、忘不了.md "wikilink")和[钢琴家的配樂包括此曲](../Page/钢琴家_\(电影\).md "wikilink")。

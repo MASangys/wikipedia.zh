@@ -359,7 +359,7 @@
   - 特急1號 - [志尊淳](../Page/志尊淳.md "wikilink")『[烈車戰隊特急者](../Page/烈車戰隊特急者.md "wikilink")』（台灣配音：[梁興昌](../Page/梁興昌.md "wikilink")）
   - 特急2號 - [平牧仁](../Page/平牧仁.md "wikilink")『烈車戰隊特急者』（台灣配音：[孟慶府](https://zh.wikipedia.org/wiki/孟慶府 "wikilink")）
   - 特急3號 - [小島梨里杏](../Page/小島梨里杏.md "wikilink")『烈車戰隊特急者』（台灣配音：[傅其慧](../Page/傅其慧.md "wikilink")）
-  - 特急4號 - [橫濱流星](../Page/橫濱流星.md "wikilink")『烈車戰隊特急者』（台灣配音：[孟慶府](https://zh.wikipedia.org/wiki/孟慶府 "wikilink")）
+  - 特急4號 - [橫濱流星](../Page/橫濱流星.md "wikilink")『烈車戰隊特急者』（台灣配音：[孫誠](https://zh.wikipedia.org/wiki/孫誠 "wikilink")）
   - 特急5號 - [森高愛](../Page/森高愛.md "wikilink")『烈車戰隊特急者』（台灣配音：[陳凱莉](https://zh.wikipedia.org/wiki/陳凱莉 "wikilink")）
   - 特急者各種電子音 - [山口勝平](../Page/山口勝平.md "wikilink")『烈車戰隊特急者』
 

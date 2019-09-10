@@ -355,18 +355,18 @@
 <tr class="header">
 <th><p> </p></th>
 <th><p>發售日期</p></th>
-<th><p>タイトル</p></th>
+<th><p>名稱</p></th>
 <th><p>規格</p></th>
 <th><p>規格號</p></th>
 <th><p>Oricon公信榜<br />
-最高排名</p></th>
+週榜最高排名</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
 <td><p>1999年3月18日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/FLAME_VEIN" title="wikilink">FLAME VEIN</a></strong></p></td>
+<td><p><strong></strong></p></td>
 <td><p>CD</p></td>
 <td><p>HLR-004</p></td>
 <td><p>77位</p></td>
@@ -382,7 +382,7 @@
 <tr class="odd">
 <td><p>2nd</p></td>
 <td><p>2000年3月25日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/THE_LIVING_DEAD" title="wikilink">THE LIVING DEAD</a></strong></p></td>
+<td><p><strong></strong></p></td>
 <td><p>CD</p></td>
 <td><p>HLR-011</p></td>
 <td><p>51位</p></td>
@@ -398,7 +398,7 @@
 <tr class="odd">
 <td><p>3rd</p></td>
 <td><p>2002年2月20日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/jupiter_(BUMP_OF_CHICKENのアルバム)" title="wikilink">jupiter</a></strong></p></td>
+<td><p><strong></strong></p></td>
 <td><p>CD</p></td>
 <td><p>TFCC-86101</p></td>
 <td><p>1位</p></td>
@@ -406,7 +406,7 @@
 <tr class="even">
 <td><p>4th</p></td>
 <td><p>2004年8月25日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/ユグドラシル_(アルバム)" title="wikilink">ユグドラシル</a></strong></p></td>
+<td><p><strong></strong></p></td>
 <td><p>CD</p></td>
 <td><p>TFCC-86171</p></td>
 <td><p>1位</p></td>
@@ -414,7 +414,7 @@
 <tr class="odd">
 <td><p>5th</p></td>
 <td><p>2007年12月19日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/orbital_period_(アルバム)" title="wikilink">orbital period</a></strong></p></td>
+<td><p><strong></strong></p></td>
 <td><p>CD</p></td>
 <td><p>TFCC-86245</p></td>
 <td><p>2位</p></td>
@@ -422,7 +422,7 @@
 <tr class="even">
 <td><p>6th</p></td>
 <td><p>2010年12月15日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/COSMONAUT" title="wikilink">COSMONAUT</a></strong></p></td>
+<td><p><strong></strong></p></td>
 <td><p>CD</p></td>
 <td><p>TFCC-86347</p></td>
 <td><p>1位</p></td>
@@ -430,7 +430,7 @@
 <tr class="odd">
 <td><p>7th</p></td>
 <td><p>2014年3月12日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/RAY" title="wikilink">RAY</a></strong></p></td>
+<td><p><strong></strong></p></td>
 <td><p>CD+DVD</p></td>
 <td><p>TFCC-86456（初回限定盤）</p></td>
 <td><p>1位</p></td>
@@ -454,10 +454,10 @@
 <tr class="even">
 <td><p>8th</p></td>
 <td><p>2016年2月10日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Butterflies" title="wikilink">Butterflies</a></strong></p></td>
+<td><p><strong></strong></p></td>
 <td><p>CD+DVD</p></td>
 <td><p>TFCC-86550（初回限定盤A）</p></td>
-<td><p>1位</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>CD+Blu-ray</p></td>
@@ -470,6 +470,30 @@
 <tr class="even">
 <td><p>CD</p></td>
 <td><p>TFCC-86552（通常盤）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>9th</p></td>
+<td><p>2019年7月10日</p></td>
+<td><p><strong></strong></p></td>
+<td><p>CD+DVD</p></td>
+<td><p>TFCC-86679（初回限定盤A）</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>CD+Blu­-ray</p></td>
+<td><p>TFCC-86680（初回限定盤B）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>CD</p></td>
+<td><p>TFCC-86681（通常盤）</p></td>
 <td></td>
 <td></td>
 <td></td>

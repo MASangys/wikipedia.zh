@@ -100,6 +100,7 @@ FNC旗下著名藝人有[FTIsland](../Page/FTIsland.md "wikilink")、[CNBLUE](..
   - 3月14日，FNC正式宣布[崔鍾訓](../Page/崔鍾訓.md "wikilink")退出[FTIsland](../Page/FTIsland.md "wikilink")。
   - 4月26日，FNC正式宣布[HONEYST](../Page/HONEYST.md "wikilink")解散。
   - 5月13日，FNC宣布[權珉娥合約到期不續約](https://zh.wikipedia.org/wiki/權珉娥 "wikilink")，退出[AOA](../Page/AOA.md "wikilink")並離開公司，前成員[草娥也結束合約](https://zh.wikipedia.org/wiki/草娥 "wikilink")，離開公司。
+  - 8月28日，FNC正式宣布[李宗泫](../Page/李宗泫.md "wikilink")退出[CNBLUE](../Page/CNBLUE.md "wikilink")\[8\]。
 
 ## 現有藝人
 
@@ -234,7 +235,7 @@ Solo未出道的狀態</p></td>
 <td><p>2010年1月14日</p></td>
 <td><p>2011年10月19日</p></td>
 <td><p><a href="../Page/CNBLUE.md" title="wikilink">CNBLUE</a></p></td>
-<td><p><strong><a href="../Page/鄭容和.md" title="wikilink">鄭容和</a></strong>{{·}}<a href="../Page/李宗泫.md" title="wikilink">李宗泫</a><br />
+<td><p><strong><a href="../Page/鄭容和.md" title="wikilink">鄭容和</a></strong><br />
 <a href="../Page/姜敏赫.md" title="wikilink">姜敏赫</a>{{·}}<a href="../Page/李正信.md" title="wikilink">李正信</a></p></td>
 <td><p>Boice</p></td>
 <td></td>
@@ -487,7 +488,7 @@ Solo未出道的狀態</p></td>
 
 ### Neoz School
 
-Neoz School是FNC娛樂於2015年12月推出的計劃，可以預先看到預備明星的Pre-Debut Team，讓粉絲們能夠共同參與預備藝人成長以及出道的過程，練習生以「NEOZ」作稱呼。2016年5月11日起，在FNC娛樂及[Mnet](../Page/Mnet.md "wikilink")合作推出的真人選秀節目《d.o.b》（dance or band）中，將一期練習生分為舞團(NEOZ dance)及樂團(NEOZ band)展開競賽\[8\]，節目最終由舞團隊勝出，以[SF9之名在](https://zh.wikipedia.org/wiki/SF9 "wikilink")2016年10月5日出道。\[9\]樂團以[HONEYST](../Page/HONEYST.md "wikilink")之名在2017年5月7日出道。
+Neoz School是FNC娛樂於2015年12月推出的計劃，可以預先看到預備明星的Pre-Debut Team，讓粉絲們能夠共同參與預備藝人成長以及出道的過程，練習生以「NEOZ」作稱呼。2016年5月11日起，在FNC娛樂及[Mnet](../Page/Mnet.md "wikilink")合作推出的真人選秀節目《d.o.b》（dance or band）中，將一期練習生分為舞團(NEOZ dance)及樂團(NEOZ band)展開競賽\[9\]，節目最終由舞團隊勝出，以[SF9之名在](https://zh.wikipedia.org/wiki/SF9 "wikilink")2016年10月5日出道。\[10\]樂團以[HONEYST](../Page/HONEYST.md "wikilink")之名在2017年5月7日出道。
 
 ## 已離開藝人
 
@@ -518,7 +519,7 @@ Neoz School是FNC娛樂於2015年12月推出的計劃，可以預先看到預備
       - J-HYO（[LC9](../Page/LC9.md "wikilink")）
       - [李準](../Page/李準_\(歌手\).md "wikilink")（歌手、演員）
       - 金正優（歌手、演員）
-      - [李東元](../Page/KNK.md "wikilink")（[KNK](../Page/KNK.md "wikilink")）
+      - [李東源](../Page/KNK.md "wikilink")（[KNK](../Page/KNK.md "wikilink")）
       - [鄭因成](../Page/KNK.md "wikilink")（[KNK](../Page/KNK.md "wikilink")）
       - [吳熙俊](../Page/KNK.md "wikilink")（[KNK](../Page/KNK.md "wikilink")）
       - [李東賢](../Page/L.A.U.md "wikilink")（[L.A.U](../Page/L.A.U.md "wikilink")）
@@ -586,5 +587,6 @@ Neoz School是FNC娛樂於2015年12月推出的計劃，可以預先看到預備
 5.  [\[공식](http://www.sedaily.com/NewsView/1RVOS3F4Q9) 배우 정유진, FNC엔터테인먼트와 전속계약..정우· 정해인·정혜성과 한솥밥\]
 6.
 7.
-8.
+8.  [李宗泫「讓大家失望感到抱歉」，宣布退出 CNBLUE](https://www.kpopn.com/2019/08/28/lee-jong-hyun-withdraw-from-cnblue)
 9.
+10.

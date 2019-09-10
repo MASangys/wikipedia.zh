@@ -667,7 +667,7 @@
 <tr class="even">
 <td style="text-align: center;"><p>2006年11月6日－<br />
 2007年4月28日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/順玉啊" title="wikilink">順玉啊</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/順玉" title="wikilink">順玉</a><br />
 </p></td>
 <td style="text-align: center;"><p>150</p></td>
 <td style="text-align: center;"><p><a href="../Page/崔慈慧.md" title="wikilink">崔慈慧</a>、<a href="https://zh.wikipedia.org/wiki/黃東柱" title="wikilink">黃東柱</a>、<a href="../Page/朴俊錦.md" title="wikilink">朴俊錦</a></p></td>

@@ -967,7 +967,7 @@
 <td style="text-align: center;"><p><a href="../Page/拜託了，夏天啊.md" title="wikilink">拜託了，夏天啊</a><br />
 </p></td>
 <td style="text-align: center;"><p>120</p></td>
-<td style="text-align: center;"><p><a href="../Page/李令恩.md" title="wikilink">李令恩</a>、、<a href="../Page/李倸英.md" title="wikilink">李倸英</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/李令恩.md" title="wikilink">李令恩</a>、<a href="../Page/尹善宇.md" title="wikilink">尹善宇</a>、、<a href="../Page/李倸英.md" title="wikilink">李倸英</a>、<a href="../Page/金惠鈺.md" title="wikilink">金惠鈺</a>、<a href="../Page/羅惠美.md" title="wikilink">羅惠美</a></p></td>
 <td style="text-align: center;"><p>成俊海</p></td>
 <td style="text-align: center;"><p>具智元</p></td>
 <td style="text-align: center;"></td>

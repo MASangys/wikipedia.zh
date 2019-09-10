@@ -2,31 +2,6 @@
 
 ## 曲目資料
 
-## MV
-
-<table>
-<thead>
-<tr class="header">
-<th><p>歌曲</p></th>
-<th><p>連結!</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>潛水</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>廢話少說</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>十年如當日</p></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
 ## 派台歌曲成績
 
 | 歌曲   | 903 專業推介 | RTHK 中文歌曲龍虎榜 | 997 勁爆流行榜 | TVB 勁歌金榜 |

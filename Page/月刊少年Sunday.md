@@ -525,7 +525,7 @@
 </tr>
 <tr class="odd">
 <td><p>52</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/札月家的杏子妹妹" title="wikilink">札月家的杏子妹妹</a></p></td>
+<td><p><a href="../Page/札月家的小杏子.md" title="wikilink">札月家的小杏子</a></p></td>
 <td><p><a href="../Page/山本崇一朗.md" title="wikilink">山本崇一朗</a></p></td>
 <td><p>－</p></td>
 <td><p>2013.09</p></td>

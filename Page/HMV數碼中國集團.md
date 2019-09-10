@@ -37,84 +37,72 @@
 （<strong>GME中國</strong>唱片合約代理出品及發行）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/鄭融.md" title="wikilink">鄭　融</a><br />
-（<strong>種星堂娛樂</strong>）</p></td>
+<td><p><a href="../Page/鄒文正.md" title="wikilink">鄒文正</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/鄧健泓.md" title="wikilink">鄧健泓</a></p></td>
-</tr>
-<tr class="even">
 <td><p><strong>組合</strong></p></td>
 </tr>
-<tr class="odd">
-<td><p><a href="../Page/SIS樂印姊妹.md" title="wikilink">SIS樂印姊妹</a><br />
-（<strong>GME中國</strong>）</p></td>
-</tr>
 <tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/Idol_Jr." title="wikilink">Idol Jr.</a></p></td>
+</tr>
+<tr class="odd">
 <td><p><strong>中國創意數碼娛樂</strong></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>歌星</strong></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/鄭欣宜.md" title="wikilink">鄭欣宜</a><br />
 （<strong>Passionfruit Records</strong>）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/陳永馨.md" title="wikilink">陳永馨</a><br />
 （<strong>GME中國</strong>唱片合約代理出品及發行）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/譚順生.md" title="wikilink">譚順生</a><br />
 （<strong>GME中國</strong>唱片合約代理出品及發行）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>藝人</strong></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/陳嘉莉.md" title="wikilink">陳嘉莉</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/白健恩.md" title="wikilink">白健恩</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>GME中國</strong></p></td>
 </tr>
-<tr class="odd">
-<td><p><strong>歌星</strong></p></td>
-</tr>
 <tr class="even">
-<td><p><a href="../Page/駱胤鳴.md" title="wikilink">駱胤鳴</a><br />
-（<a href="../Page/SIS樂印姊妹.md" title="wikilink">SIS樂印姊妹</a>）</p></td>
-</tr>
-<tr class="odd">
 <td><p><strong>組合</strong></p></td>
 </tr>
-<tr class="even">
-<td><p><a href="../Page/SIS樂印姊妹.md" title="wikilink">SIS樂印姊妹</a></p></td>
-</tr>
 <tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/Idol_Jr." title="wikilink">Idol Jr.</a></p></td>
+</tr>
+<tr class="even">
 <td><p><strong>藝人</strong></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/唐紫睿.md" title="wikilink">唐紫睿</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/莉妍" title="wikilink">莉　妍</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/門東毅" title="wikilink">門東毅</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong><a href="../Page/種星堂.md" title="wikilink">種星堂</a>娛樂</strong></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>歌星</strong></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/鄭融.md" title="wikilink">鄭　融</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 </tr>
 </tbody>
@@ -176,7 +164,8 @@
 已加盟<a href="https://zh.wikipedia.org/wiki/星夢娛樂" title="wikilink">星夢娛樂</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/何浩文.md" title="wikilink">何浩文</a><br />
+<td><p><a href="../Page/駱胤鳴.md" title="wikilink">駱胤鳴</a><br />
+（<a href="../Page/SIS樂印姊妹.md" title="wikilink">SIS樂印姊妹</a>）<br />
 （<strong>GME中國</strong>）</p></td>
 </tr>
 <tr class="even">
@@ -244,41 +233,44 @@
 （<a href="https://zh.wikipedia.org/wiki/少女標本_(香港)" title="wikilink">少女標本</a>）</p></td>
 </tr>
 <tr class="even">
+<td><p><a href="../Page/杜德偉.md" title="wikilink">杜德偉</a></p></td>
+</tr>
+<tr class="odd">
 <td><p><strong>組合</strong></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/少女標本_(香港)" title="wikilink">少女標本</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>藝人</strong></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/周秀娜.md" title="wikilink">周秀娜</a><br />
 已轉到個人工作室</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/黄雪瑩" title="wikilink">黄雪瑩</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/李元玲.md" title="wikilink">李元玲</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/范植偉.md" title="wikilink">范植偉</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong><a href="../Page/種星堂.md" title="wikilink">種星堂</a>娛樂</strong></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>藝人</strong></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/周汶錡.md" title="wikilink">周汶錡</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/陳瀅.md" title="wikilink">陳　瀅</a><br />
 已加盟<a href="https://zh.wikipedia.org/wiki/TVB" title="wikilink">TVB</a>／<a href="../Page/邵氏兄弟.md" title="wikilink">邵氏兄弟</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 </tr>
 </tbody>

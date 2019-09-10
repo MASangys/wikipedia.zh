@@ -19,9 +19,7 @@
 ## 外部連結
 
   -
-  - Cecile Licad於[伊莎貝拉嘉納藝術博物館演奏](https://zh.wikipedia.org/wiki/伊莎貝拉嘉納藝術博物館 "wikilink")[Nocturne Op. 48 No. 1](http://cdn2.libsyn.com/gardnermuseum/chopin_op48no1.mp3)及[Nocturne Op. 48 No. 2](http://traffic.libsyn.com/gardnermuseum/chopin_op48no2_licad.mp3)
-
-  - Valentina Igoshina演奏[Op. 48 No. 1](http://www.youtube.com/watch?v=-MzrAGZHDvoNocturne)
+  - Cecile Licad於[伊莎貝拉嘉納藝術博物館演奏](https://zh.wikipedia.org/wiki/伊莎貝拉嘉納藝術博物館 "wikilink")[Op. 48 No. 1](http://cdn2.libsyn.com/gardnermuseum/chopin_op48no1.mp3)及[Op. 48 No. 2](http://traffic.libsyn.com/gardnermuseum/chopin_op48no2_licad.mp3)
 
 [分類:蕭邦作品](https://zh.wikipedia.org/wiki/分類:蕭邦作品 "wikilink")
 

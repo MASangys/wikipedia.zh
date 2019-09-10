@@ -9,11 +9,10 @@ UH-1Y毒液升級了發動機和全數位資料鏈駕駛艙，並加裝[FLIR偵�
 ## 用戶國
 
   - ****
+
       - **[美国海军陆战队](../Page/美国海军陆战队.md "wikilink")**（交货92架）
 
-<!-- end list -->
-
-  - (訂購12架)
+  - (訂購8架)\[3\]
 
 ## 外部链接
 
@@ -26,3 +25,4 @@ UH-1Y毒液升級了發動機和全數位資料鏈駕駛艙，並加裝[FLIR偵�
 
 1.  [DoD 4120-15L, *Model Designation of Military Aerospace Vehicles*](http://www.dtic.mil/whs/directives/corres/pdf/412015l.pdf). US DoD, 12 May 2004.
 2.
+3.  [捷克採購8架UH-1Y、 4架AH-1Z直升機 俗擱大碗](https://www.ydn.com.tw/News/349676?fbclid=IwAR29zpCalt-MmA8hch_E7u5SUAfgqFQhAKmcUkpJiZPWjnRx2vqQiPYVbQY)

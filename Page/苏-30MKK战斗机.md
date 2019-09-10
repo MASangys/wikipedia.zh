@@ -6,12 +6,6 @@ Su-30MKK是俄語Су-30МКК的拉丁轉寫。МКК是модернизиро�
 
 最初的Su-30為一種長程戰鬥轟炸機的構想，是俄國為了回應[F-15E的作品](https://zh.wikipedia.org/wiki/F-15E "wikilink")，能自力深入敵方轟炸並有一定的空戰自我防衛能力，MK型則是其外銷版，由於多功能特性受到許多預算並不充沛又想要升級第四代半戰機的國家青睞，1996年中國解放軍向俄國提出一種更強化的版本需求必須採用更多複合材料和更大載油量，時為俄國經濟極差的年代，於是MKK版誕生以爭取中方訂單。Su-30MKK可以携带大型超音速[反舰导弹切合中國解放軍的需要](https://zh.wikipedia.org/wiki/反舰导弹 "wikilink")，所以中國航太工業從自製[Su-27成功後開始就將研發轉向Su](https://zh.wikipedia.org/wiki/Su-27 "wikilink")-30MKK系列的自製和改良，目前解放軍已經可以自製加強版的[殲-16](https://zh.wikipedia.org/wiki/殲-16 "wikilink")，內載多項中方自製更新科技。
 
-Su-30MK2是MKK型的電子加強版有C4ISTAR能力，可以擔任小型[空中預警機具有空戰管制能力](https://zh.wikipedia.org/wiki/空中預警機 "wikilink")，指揮一小隊戰機（10-15架）接戰，長機會自動資料鏈結[僚機](https://zh.wikipedia.org/wiki/僚機 "wikilink")，且可自動分配目標或由後座武器官手動分配，僚機可在完全不開[雷達情況下進行隱密攻擊](https://zh.wikipedia.org/wiki/雷達 "wikilink")，也就是由長機提供射控資料給僚機，僚機以此資料鏈發射飛彈。
-
-除了機首光電球本身內建[紅外線儀](https://zh.wikipedia.org/wiki/紅外線 "wikilink")、電視攝影機、[雷射測距儀](https://zh.wikipedia.org/wiki/雷射測距儀 "wikilink")，並可外掛多種電子萊艙適應海上反艦作戰，俄製M400偵蒐萊艙和Sapsan-E光學萊艙是常見的MK2配備，中國自行研發了一種電戰萊艙也已經配備海軍航空兵。可具備主（被）動電子反制功能，能使用「交叉注視」型欺騙干擾對抗來襲的先進空對空飛彈。
-
-機身還內建一種最新科技360度紅外線感測裝置，已經達到第五代戰機的技術內涵，讓飛行員有高解析環場紅外線顯像視野外，還可以作為飛彈反制系統，這系統安裝在機背或其他地方，是一種固定於機身上的傳感器陣列，偵測到飛彈來襲資訊會迅速載入機控電腦不只可以躲避，甚至可以發射飛彈攔截敵方飛彈，開拓了空戰新領域。\[1\]
-
 ## 使用國
 
 [PLAAF_Sukhoi_Su-30MKK_at_Lipetsk-2.jpg](https://zh.wikipedia.org/wiki/File:PLAAF_Sukhoi_Su-30MKK_at_Lipetsk-2.jpg "fig:PLAAF_Sukhoi_Su-30MKK_at_Lipetsk-2.jpg")的Su-30MKK\]\]
@@ -20,7 +14,12 @@ Su-30MK2是MKK型的電子加強版有C4ISTAR能力，可以擔任小型[空中�
 
 <!-- end list -->
 
-  - [中國人民解放軍空軍於](https://zh.wikipedia.org/wiki/中國人民解放軍空軍 "wikilink")2010年有73架Su-30MKK\[2\]\[3\]\[4\]。
+  - [中國人民解放軍空軍於](https://zh.wikipedia.org/wiki/中國人民解放軍空軍 "wikilink")2010年有73架Su-30MKK\[1\]\[2\]\[3\]。
+
+## 事故
+
+  - 2001年8月，解放军空军空3师一架苏30MKK在降落时发生起落架故障，导致飞机爆炸，两名飞行员牺牲。
+  - 2002年05月27日，解放军空军某部一架苏30MKK坠毁，两名飞行员跳伞成功。
 
 ## 技術規格
 
@@ -30,7 +29,6 @@ Su-30MK2是MKK型的電子加強版有C4ISTAR能力，可以擔任小型[空中�
 
 [Category:苏霍伊飞机](https://zh.wikipedia.org/wiki/Category:苏霍伊飞机 "wikilink") [Category:蘇聯戰鬥機](https://zh.wikipedia.org/wiki/Category:蘇聯戰鬥機 "wikilink") [Category:俄羅斯戰鬥機](https://zh.wikipedia.org/wiki/Category:俄羅斯戰鬥機 "wikilink") [Category:雙發噴射機](https://zh.wikipedia.org/wiki/Category:雙發噴射機 "wikilink")
 
-1.  [Su-30MKK全歷史](http://www.mdc.idv.tw/mdc/air/su30.htm)
+1.
 2.
 3.
-4.

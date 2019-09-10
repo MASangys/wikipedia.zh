@@ -6,7 +6,7 @@
 
 ## 参考文献
 
-[Category:蒙古国体育](https://zh.wikipedia.org/wiki/Category:蒙古国体育 "wikilink") [Category:乌兰巴托建筑](https://zh.wikipedia.org/wiki/Category:乌兰巴托建筑 "wikilink")
+[Category:蒙古国体育](https://zh.wikipedia.org/wiki/Category:蒙古国体育 "wikilink") [Category:乌兰巴托建筑物](https://zh.wikipedia.org/wiki/Category:乌兰巴托建筑物 "wikilink")
 
 1.
 2.

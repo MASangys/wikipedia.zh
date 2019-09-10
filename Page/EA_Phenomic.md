@@ -1,4 +1,10 @@
-**EA Phenomic**是一家位于[德国](../Page/德国.md "wikilink")的[即时战略游戏](../Page/即时战略游戏.md "wikilink")开发公司。这家公司在1997年创办，叫做**Phenomic Game Development**，在2006年8月23日被[Electronic Arts收购](https://zh.wikipedia.org/wiki/Electronic_Arts "wikilink")。\[1\]
+**EA Phenomic**是一家位于[德国](../Page/德国.md "wikilink")[英格爾海姆的](../Page/英格斯海姆.md "wikilink")[即时战略游戏](../Page/即时战略游戏.md "wikilink")开发公司。
+
+1997年，公司最早由Volker Wertich所创办，名為**Phenomic Game Development**，前者曾在[Blue Byte工作並開發The](../Page/Ubisoft_Blue_Byte.md "wikilink") Settlers和The Settlers III。
+
+在2006年8月23日被[Electronic Arts收购並更名為EA](https://zh.wikipedia.org/wiki/Electronic_Arts "wikilink") Phenomic。\[1\]2013年7月，EA關閉工作室並解雇60名員工。
+
+2013年，Volker Wertich與大部分員工成立**Envision Entertainment。**2015年，接管*Tiberium Alliances*的開發工作。
 
 ## 开发过的游戏
 

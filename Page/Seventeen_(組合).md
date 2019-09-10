@@ -218,6 +218,8 @@
 
 1月21日，第六張迷你專輯《[YOU MADE MY DAWN](https://zh.wikipedia.org/wiki/YOU_MADE_MY_DAWN "wikilink")》發行，主打歌為〈[HOME(홈)](https://www.youtube.com/watch?v=R9VDPMk5ls0) 〉， 發行首週銷量已破了SEVENTEEN的自身記錄，新專輯首週銷量達338,153張，且進入歷年韓國偶像專輯銷量前二十名。2月2日，SEVENTEEN拿下出道以來第一座《[音樂中心](https://zh.wikipedia.org/wiki/音乐中心 "wikilink")》一位，隔日2月3日，SEVENTEEN再度拿到第一座《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》一位，該週也達成韓國五大電視台一位大滿貫，同時該座一位也是繼公司前輩[After School於](../Page/After_School.md "wikilink")2009年拿到[人氣歌謠一位之後](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")，時隔十年[Pledis所屬藝人的第二座](https://zh.wikipedia.org/wiki/Pledis "wikilink")[人氣歌謠一位](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")。主打歌〈[HOME(홈)](https://www.youtube.com/watch?v=R9VDPMk5ls0) 〉成功獲得十個一位，突破《Don't wanna cry》六個一位的記錄。
 
+#### 2019《SEVENTEEN WORLD TOUR ‘ODE TO YOU'》 世界巡回演唱会
+
 ## 成員資料
 
 ### 現任成員
@@ -1170,6 +1172,41 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年11月16日</p></td>
+<td></td>
+<td><p><a href="../Page/雅加达.md" title="wikilink">雅加达</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/史纳延纪念体育馆" title="wikilink">史纳延纪念体育馆</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年11月23日</p></td>
+<td></td>
+<td><p><a href="../Page/曼谷.md" title="wikilink">曼谷</a></p></td>
+<td><p>Thunder Dome at Muang Thong Thani</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年11月24日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2020年2月8日</p></td>
+<td></td>
+<td><p><a href="../Page/马尼拉.md" title="wikilink">馬尼拉</a></p></td>
+<td><p><a href="../Page/亞洲購物中心體育館.md" title="wikilink">亞洲購物中心體育館</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2020年2月22日</p></td>
+<td></td>
+<td><p><a href="../Page/吉隆坡.md" title="wikilink">吉隆坡</a></p></td>
+<td><p><a href="../Page/亚通体育馆.md" title="wikilink">亚通体育馆</a></p></td>
 <td></td>
 </tr>
 </tbody>

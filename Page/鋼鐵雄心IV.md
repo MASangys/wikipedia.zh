@@ -137,6 +137,10 @@ Paradox在發佈會當日公布了遊戲的首部預告片\[2\]。
 <li>新增<a href="../Page/兩棲突擊載具.md" title="wikilink">兩棲突擊載具</a>（於沼澤、堡壘、河流及兩棲地形作戰有攻擊及防禦加成）[30]</li>
 </ul></td>
 </tr>
+<tr class="odd">
+<td><p>未知</p></td>
+<td><p>*爲<a href="https://zh.wikipedia.org/wiki/法蘭西第三共和國" title="wikilink">法國</a>[31]更新獨特國策</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -205,3 +209,5 @@ Paradox在發佈會當日公布了遊戲的首部預告片\[2\]。
 29.
 
 30.
+
+31.

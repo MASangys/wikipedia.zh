@@ -53,7 +53,7 @@ Red Velvet在四人時期以Irene和Seulgi為雙中心，即Joy、Irene、Seulgi
 | Kim Ye-Rim                                              |
 |                                                         |
 
-### 成員變遷
+#### 成員變遷
 
 <timeline> ImageSize = width:1000 height:300 PlotArea = width:600 height:250 left:75 bottom:20 Alignbars = justify DateFormat = mm/dd/yyyy Period = from:2014 till:2019 TimeAxis = orientation:horizontal format:yyyy
 
@@ -111,7 +111,7 @@ LineData =
 
 [141211_레드벨벳_더쇼_in_코엑스_야외무대.jpg](https://zh.wikipedia.org/wiki/File:141211_레드벨벳_더쇼_in_코엑스_야외무대.jpg "fig:141211_레드벨벳_더쇼_in_코엑스_야외무대.jpg")的露天劇場表演\]\] 7月27日，通過SM娛樂官方YouTube公開Red Velvet出道單曲《Happiness》的音樂錄像預告，4名成員IRENE、SEULGI、WENDY和JOY正式露面。\[30\]
 
-8月1日，通過官方[YouTube](../Page/YouTube.md "wikilink")公開出道單曲《Happiness》的MV。MV中，非洲感覺撲面而來，清新歡快的歌曲融合色彩斑斕的的視覺效果，給人帶來清新可人的感受。中毒性極強副歌部分更加凸顯Red Velvet活潑可愛的魅力。並於當天在[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")》舞台上正式出道。\[31\]8月4日，正式發行首張數位單曲《Happiness》的音源。Red Velvet出道當天，SM娛樂股票價格上漲2.22%。\[32\]
+8月1日，通過官方[YouTube](../Page/YouTube.md "wikilink")公開出道單曲《Happiness》的MV。MV中，清新歡快的歌曲融合色彩斑斕的的視覺效果，給人帶來清新可人的感受。中毒性極強副歌部分更加凸顯Red Velvet活潑可愛的魅力。並於當天在[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")》舞台上正式出道。\[31\]8月4日，正式發行首張數位單曲《Happiness》的音源。Red Velvet出道當天，SM娛樂股票價格上漲2.22%。\[32\]
 
 在公開的《Happiness》MV當中，開頭出現了許多身穿不同顏色而不在Red Velvet當中的神秘少女，之後在2015年曾出現在MV裡的少女之一的**YERI**加入了Red Velvet，成為Red Velvet第五名成員。此外，《Happiness》MV登于8月份美國最多人觀看MV第四名、全球8月份最多人觀看MV第二名。\[33\]並借《Happiness》在出道一星期后在[SBS](../Page/SBS_\(韓國\).md "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》位于一位候補，最高排名為第三。
 
@@ -147,13 +147,15 @@ LineData =
 
 ### 2018年：MV破億、正規二輯改版《The Perfect Red Velvet》、日語迷你一輯《\#Cookie Jar》、第二次演唱會《REDMARE》、夏日迷你二輯《Summer Magic》、迷你五輯《RBB》
 
-1月24日，官方公佈回歸照，宣佈于1月29日攜帶新專輯回歸。\[66\]1月27日，《Russian Roulette》歷經508天突破1億YouTube觀看次數，為Red Velvet第一首破億MV。\[67\]\[68\]1月30日，改版專輯《[The Perfect Red Velvet](../Page/Perfect_Velvet.md "wikilink")》的主打曲《Bad Boy》佔據7個音源實時榜，MelOn、Olleh、Genie、Bugs、NAVER Music 與 Soribada 同登一位、Mnet三位。此外，《The Perfect Red Velvet》在荷蘭、芬蘭、斯洛文尼亞、巴西、阿根廷等16個國家和地區的iTunes綜合專輯榜上取得第一，在中國蝦米音樂的綜合榜上同樣位居榜首。\[69\]
+[180902_스카이페스티벌_레드벨벳.jpg](https://zh.wikipedia.org/wiki/File:180902_스카이페스티벌_레드벨벳.jpg "fig:180902_스카이페스티벌_레드벨벳.jpg") 1月24日，官方公佈回歸照，宣佈于1月29日攜帶新專輯回歸。\[66\]1月27日，《Russian Roulette》歷經508天突破1億YouTube觀看次數，為Red Velvet第一首破億MV。\[67\]\[68\]1月30日，改版專輯《[The Perfect Red Velvet](../Page/Perfect_Velvet.md "wikilink")》的主打曲《Bad Boy》佔據7個音源實時榜，MelOn、Olleh、Genie、Bugs、NAVER Music 與 Soribada 同登一位、Mnet三位。此外，《The Perfect Red Velvet》在荷蘭、芬蘭、斯洛文尼亞、巴西、阿根廷等16個國家和地區的iTunes綜合專輯榜上取得第一，在中國蝦米音樂的綜合榜上同樣位居榜首。\[69\]
 
-2月1日，與[Wanna One在](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")「第2屆韓國演藝製作人大賞」中共同奪得了「年度歌手賞」。\[70\]2月26日，Red Velvet日本官網宣佈Red Velvet將于5月至6月期間進行《Red Velvet Hall Tour in JAPAN "Red Room"》的日本巡迴演唱會，並公佈有關巡演時間與地點。\[71\]\[72\]2月28日，憑藉《Red Flavor》獲得大衆的喜愛，Red Velvet于第15屆的[韓國音樂大獎](../Page/韓國音樂大獎.md "wikilink")中奪得「最佳流行歌曲」。\[73\]\[74\]
+2月1日，與[Wanna One在](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")「第2屆韓國演藝製作人大賞」中共同奪得了「年度歌手賞」。\[70\]2月26日，Red Velvet日本官網宣佈Red Velvet將于5月至6月期間進行《Red Velvet Hall Tour in JAPAN "Red Room"》的日本巡迴演唱會，並公佈有關巡演時間與地點。\[71\]\[72\]2月28日，憑藉《Red Flavor》獲得大衆的喜愛，Red Velvet于第15屆的[韓國音樂大獎](../Page/韓國音樂大獎.md "wikilink")中奪得「最佳流行歌曲」。\[73\]\[74\]3月20日，韓國官方宣布Red Velvet將與其他被選定的韓國藝人一起於3月31日至4月3日在[平壤](../Page/平壤.md "wikilink")舉行[韓國音樂會](../Page/春來演唱會.md "wikilink")，使她們成為繼[神話之後](https://zh.wikipedia.org/wiki/神話_\(組合\) "wikilink")，近15年來第一個踏足北韓的SM樂團。\[75\]
 
-3月20日，韓國官方宣布Red Velvet將與其他被選定的韓國藝人一起於3月31日至4月3日在[平壤](../Page/平壤.md "wikilink")舉行[韓國音樂會](../Page/春來演唱會.md "wikilink")，使她們成為繼[神話之後](https://zh.wikipedia.org/wiki/神話_\(組合\) "wikilink")，近15年來第一個踏足北韓的SM樂團。\[75\]5月10日，《Dumb Dumb》歷經975天突破1億YouTube觀看次數，為Red Velvet第二首破億MV。\[76\]5月26日，《Bad Boy》歷經117天突破1億YouTube觀看次數，為Red Velvet第三首破億MV。\[77\]7月4日，发行首张日語迷你專輯《[\#Cookie Jar](../Page/＃Cookie_Jar.md "wikilink")》，正式进军日本。\[78\]8月4日至5日，Red Velvet舉行第二次的單獨演唱會「[REDMARE](../Page/REDMARE.md "wikilink")」。\[79\]
+5月10日，《Dumb Dumb》歷經975天突破1億YouTube觀看次數，為Red Velvet第二首破億MV。\[76\]5月26日，《Bad Boy》歷經117天突破1億YouTube觀看次數，為Red Velvet第三首破億MV。\[77\]7月4日，发行首张日語迷你專輯《[\#Cookie Jar](../Page/＃Cookie_Jar.md "wikilink")》，正式进军日本。\[78\]8月4日至5日，Red Velvet舉行第二次的單獨演唱會「[REDMARE](../Page/REDMARE.md "wikilink")」。\[79\]
 
-8月6日，發表第二張夏日迷你專輯《[Summer Magic](../Page/Summer_Magic.md "wikilink")》。同日8時，主打歌《Power Up》在Melon、Mnet、Soribada、Naver Music、genie、Bugs成功取得七大音樂網站排行榜的一位，達成實時All-Kill。\[80\]\[81\]該成績是[SM娛樂](../Page/SM娛樂.md "wikilink")中第一位達到實時All-Kill的團體。並於8月8日達成Perfect All-Kill。\[82\]\[83\]該專輯除了在韓國拿下佳績，也在台灣、香港、新加坡、馬來西亞、越南、印尼、芬蘭、希臘、西班牙、巴西、墨西哥、智利、泰國、菲律賓等共28個國家和地區的iTunes綜合專輯榜拿下第一名，並於中國的「蝦米音樂」綜合音樂榜摘冠。\[84\]據Gaon排行榜數據顯示,在第32周的排行榜上(2018.08.05\~2018.08.11)<Summer Magic>獲得專輯榜1位、主打曲<Power Up>獲得數字綜合、下載綜合榜1位，獲Gaon Chart第32周三冠王。\[85\] 繼2017年7月的Red Summer迷你專輯獲得先前在美國有史以來最好的週銷量後，此週銷量甚至緊接著被11月的Perfect Velvet正規專輯突破，而這次Summer Magic在兩個告示牌榜單上獲得第3名，分別是世界專輯榜與熱門專輯榜，並且這次在熱門專輯榜的名次打平了到目前為止她們在該榜單上的最佳排名。首次上榜於Billboard專輯暢銷榜的第91名（此榜單是橫跨所有音樂類型，基於銷量排名出前100名的專輯），和數位專輯榜的第21名（此榜單是橫跨所有音樂類型，排名出下載量前25名的專輯）。Red Velvet分別剛好是第10個和第11個進入這兩個榜單的K-POP表演組合。\[86\]
+[Red_Velvet_at_Korea_Popular_Music_Awards_red_carpet_on_December_20,_2018_(2).png](https://zh.wikipedia.org/wiki/File:Red_Velvet_at_Korea_Popular_Music_Awards_red_carpet_on_December_20,_2018_\(2\).png "fig:Red_Velvet_at_Korea_Popular_Music_Awards_red_carpet_on_December_20,_2018_(2).png")\]\] 8月6日，發表第二張夏日迷你專輯《[Summer Magic](../Page/Summer_Magic.md "wikilink")》。同日8時，主打歌《Power Up》在Melon、Mnet、Soribada、Naver Music、genie、Bugs成功取得七大音樂網站排行榜的一位，達成實時All-Kill。\[80\]\[81\]該成績是[SM娛樂](../Page/SM娛樂.md "wikilink")中第一位達到實時All-Kill的團體。並於8月8日達成Perfect All-Kill。\[82\]\[83\]該專輯除了在韓國拿下佳績，也在台灣、香港、新加坡、馬來西亞、越南、印尼、芬蘭、希臘、西班牙、巴西、墨西哥、智利、泰國、菲律賓等共28個國家和地區的iTunes綜合專輯榜拿下第一名，並於中國的「蝦米音樂」綜合音樂榜摘冠。\[84\]據Gaon排行榜數據顯示,在第32周的排行榜上獲得專輯榜1位、主打曲《Power Up》獲得數字綜合、下載綜合榜1位，獲Gaon Chart第32周三冠王。\[85\]
+
+繼2017年7月的《The Red Summer》獲得先前在美國有史以來最好的週銷量後，此週銷量甚至緊接著被11月的《Perfect Velvet》突破，而這次《Summer Magic》在兩個告示牌榜單上獲得第3名，分別是世界專輯榜與熱門專輯榜，並且這次在熱門專輯榜的名次打平了到目前為止她們在該榜單上的最佳排名。首次上榜於Billboard專輯暢銷榜的第91名（此榜單是橫跨所有音樂類型，基於銷量排名出前100名的專輯），和數位專輯榜的第21名（此榜單是橫跨所有音樂類型，排名出下載量前25名的專輯）。Red Velvet分別剛好是第10個和第11個進入這兩個榜單的K-POP表演組合。\[86\]
 
 9月10日，《Peek-A-Boo》歷經297天突破1億YouTube觀看次數，為Red Velvet第四首破億MV。\[87\]同日，《Red Flavor》歷經430天突破1億YouTube觀看次數，為Red Velvet第五首破億MV。\[88\]
 
@@ -425,7 +427,7 @@ Red Velvet於2014年8月1日出道，隔年便摘下了許多韓國大型頒獎�
 <li>「<span style="background:#808080">　</span>」：該段時期未有設立排行榜</li>
 <li>HOT 3：由節目選出當週HOT 3 ，2015年11月21日起至2017年4月15日。</li>
 <li>「(HOT 3)」：兩星期HOT 3</li>
-<li>取得《M! Countdown》、《人氣歌謠》、《Show Champion》及《THE SHOW》三週一位後，排名自動除外</li>
+<li>取得《M! Countdown》、《人氣歌謠》、《Show Champion》、《THE SHOW》三週一位後，排名自動除外</li>
 </ul></td>
 </tr>
 </tbody>
@@ -444,14 +446,14 @@ Red Velvet於2014年8月1日出道，隔年便摘下了許多韓國大型頒獎�
 <td><p><a href="../Page/韓國放送公社.md" title="wikilink">KBS</a></p></td>
 </tr>
 <tr class="even">
-<td><p>14</p></td>
-<td><p>9</p></td>
+<td><p>15</p></td>
+<td><p>10</p></td>
 </tr>
 <tr class="odd">
-<td><p>一位總數：58<br />
+<td><p>一位總數：64<br />
 四台冠軍歌曲總數：3<br />
 五台冠軍歌曲總數：4<br />
-六台冠軍歌曲總數：2</p></td>
+六台冠軍歌曲總數：3</p></td>
 <td><p>HOT3歌曲總數：4</p></td>
 </tr>
 </tbody>

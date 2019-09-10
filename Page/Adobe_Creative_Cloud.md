@@ -1,4 +1,4 @@
-**Adobe Creative Cloud**是一套包含[平面設計](https://zh.wikipedia.org/wiki/平面設計 "wikilink")、[视频编辑](https://zh.wikipedia.org/wiki/视频编辑 "wikilink")、[網頁開發](https://zh.wikipedia.org/wiki/網頁開發 "wikilink")、[摄影](../Page/摄影.md "wikilink")應用的雲端套裝軟體，由[Adobe Systems發行](https://zh.wikipedia.org/wiki/Adobe_Systems "wikilink")，[Microsoft Azure協助託管](../Page/Microsoft_Azure.md "wikilink")。这些[軟體透過雲端提供服務](https://zh.wikipedia.org/wiki/軟體 "wikilink")，消費者並非完整擁有這些軟體，而是透過[雲端服務進行租用](https://zh.wikipedia.org/wiki/雲端 "wikilink")，租用停止時將無法繼續使用所有的應用程式\[1\]。Creative Cloud支持多种语言。
+**Adobe Creative Cloud**是一套包含[平面設計](https://zh.wikipedia.org/wiki/平面設計 "wikilink")、[视频编辑](https://zh.wikipedia.org/wiki/视频编辑 "wikilink")、[網頁開發](https://zh.wikipedia.org/wiki/網頁開發 "wikilink")、[摄影](../Page/摄影.md "wikilink")應用的雲端套裝軟體，由[Adobe Systems發行](https://zh.wikipedia.org/wiki/Adobe_Systems "wikilink")，[Microsoft Azure協助託管](../Page/Microsoft_Azure.md "wikilink")。这些[軟體透過](https://zh.wikipedia.org/wiki/軟體 "wikilink")[雲端提供服務](https://zh.wikipedia.org/wiki/雲端 "wikilink")，消費者並非完整擁有這些軟體，而是透過[軟體即服務進行租用](https://zh.wikipedia.org/wiki/軟體即服務 "wikilink")，租用停止時將無法繼續使用所有的應用程式\[1\]。Creative Cloud支持多种语言。
 
 ## 發展年表
 

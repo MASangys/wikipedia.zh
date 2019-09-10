@@ -9,9 +9,7 @@
   - 2016年曾參加**딩고 dingo《今天也 辛苦了》**
   - 2017年曾與Block B全團員參加**딩고 뮤직 dingo music《祝福你》**
 
-## 作品
-
-### 音樂
+## 音樂作品
 
   -
 
@@ -65,6 +63,18 @@
 </tbody>
 </table>
 
+## 話劇
+
+| 日期               | 名稱             | 擔任    |
+| ---------------- | -------------- | ----- |
+| 2017年6月17日—6月25日 | 《Manitoz》      | 演員、編劇 |
+| 2018年2月3日—2月7日   | 《Superman.com》 | 演員、編劇 |
+| 2019年2月16日—3月3日  | 《少年，去天國》       | 演員    |
+
+## 影視作品
+
+  - 僅列出P.O**個人參與**的綜藝節目，**團體**請參見[Block B](../Page/Block_B.md "wikilink")**。**
+
 ### 電視劇
 
 | 年份    | 電視台                                                 | 名稱                                         | 角色  |
@@ -72,15 +82,7 @@
 | 2017年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | 《[愛情的溫度](../Page/愛情的溫度.md "wikilink")》     | 姜敏浩 |
 | 2018年 | [MBN](https://zh.wikipedia.org/wiki/MBN "wikilink") | 《[心動警報](../Page/心動警報.md "wikilink")》       | 尹柳俊 |
 | 2018年 | [tvN](../Page/TVN.md "wikilink")                    | 《[男朋友](../Page/男朋友_\(電視劇\).md "wikilink")》 | 金振明 |
-| 2019年 | [tvN](../Page/TVN.md "wikilink")                    | 《[德魯納酒店](../Page/德魯納酒店.md "wikilink")》     | 池玄中 |
-
-### 話劇
-
-| 日期               | 名稱             | 擔任    |
-| ---------------- | -------------- | ----- |
-| 2017年6月17日—6月25日 | 《Manitoz》      | 演員、編劇 |
-| 2018年2月3日—2月7日   | 《Superman.com》 | 演員、編劇 |
-| 2019年2月16日—3月3日  | 《少年，去天國》       | 演員    |
+| 2019年 | [tvN](../Page/TVN.md "wikilink")                    | 《[德魯納酒店](../Page/德魯納酒店.md "wikilink")》     | 池賢仲 |
 
 ### 主持
 
@@ -90,49 +92,7 @@
 | 2017年5月16日－8月29日 | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink") 第五季 | 第四組MC，與[正花](../Page/正花.md "wikilink")、                                                                             |
 | 2019年7月3日—至今     | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | [曖昧生存戰1+1](../Page/曖昧生存戰1+1.md "wikilink")                   | 與[李壽根](../Page/李壽根.md "wikilink")、[希澈](../Page/希澈.md "wikilink")、[韶宥](https://zh.wikipedia.org/wiki/韶宥 "wikilink") |
 
-### 影視作品
-
-  - 僅列出P.O**個人參與**的綜藝節目，**團體**請參見[Block B](../Page/Block_B.md "wikilink")**。**
-
-**網路節目**
-
-| 日期          | 節目頻道  | 節目名稱    |
-| ----------- | ----- | ------- |
-| 2016年10月29日 | dingo | 今天也 辛苦了 |
-
-#### 音樂錄影帶
-
-| 日期         | 歌曲名稱                                                               | 備註                                                   |
-| ---------- | ------------------------------------------------------------------ | ---------------------------------------------------- |
-| 2013年9月25日 | Something Special (BUMZU Feat. [Dok2](../Page/Dok2.md "wikilink")) | 與[胤祖出演](https://zh.wikipedia.org/wiki/胤祖 "wikilink") |
-
-#### 綜藝節目
-
-| **日期**          | **電視台**                                               | **名稱**                                                                    | **集數**  |
-| --------------- | ----------------------------------------------------- | ------------------------------------------------------------------------- | ------- |
-| 2013年12月25日     | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | [Weekly Idol](../Page/Weekly_Idol.md "wikilink")                          | EP127   |
-| 2016年2月15日      | [SBS](../Page/SBS_\(韓國\).md "wikilink")               | [同床異夢，沒關係沒關係](../Page/同床異夢，沒關係沒關係.md "wikilink")                          | EP40    |
-| 2016年12月31日     | [OnStyle](../Page/OnStyle.md "wikilink")              | [Laundry Day](../Page/Laundry_Day.md "wikilink")                          | EP11    |
-| 2017年5月5日       | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | [秘密綜藝研修院](../Page/秘密綜藝研修院.md "wikilink")                                  | 試播      |
-| 2017年10月22日     | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")   | [腦性時代：問題男子](https://zh.wikipedia.org/wiki/腦性時代：問題男子 "wikilink")           | EP135   |
-| 2017年10月28日     | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")   | [Master Key](../Page/Master_Key.md "wikilink")                            | EP3     |
-| 2018年7月20日－8月3日 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | [越線的傢伙們](../Page/越線的傢伙們.md "wikilink")                                    | EP13－15 |
-| 2018年10月6日、13日  | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | [意外的Q](../Page/意外的Q.md "wikilink")                                        | EP22、23 |
-| 2018年11月17日     | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")   | [驚人的週六](https://zh.wikipedia.org/wiki/驚人的週六 "wikilink")                   | EP33    |
-| 2018年11月27日     | [JTBC](../Page/JTBC.md "wikilink")                    | [Idol Room](../Page/Idol_Room.md "wikilink")                              | EP29    |
-| 2018年12月8日      | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | [Under Nineteen](https://zh.wikipedia.org/wiki/Under_Nineteen "wikilink") | EP6     |
-| 2019年1月12日      | [JTBC](../Page/JTBC.md "wikilink")                    | [認識的哥哥](../Page/認識的哥哥.md "wikilink")                                      | EP162   |
-| 2019年1月16日      | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | [Radio Star](https://zh.wikipedia.org/wiki/Radio_Star "wikilink")         | EP600   |
-| 2019年1月31日      | [SBS](../Page/SBS_\(韓國\).md "wikilink")               | [俘獲芳心頻道](../Page/俘獲芳心頻道.md "wikilink")                                    | EP12    |
-| 2019年2月12日      | [SBS](../Page/SBS_\(韓國\).md "wikilink")               | [深夜正式演藝](../Page/深夜正式演藝.md "wikilink")                                    | EP96    |
-| 2019年2月17日      | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")   | [喜劇大聯盟](../Page/喜劇大聯盟.md "wikilink")                                      | EP300   |
-| 2019年3月18日      | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink") | [大國民脫口秀-你好](../Page/大國民脫口秀-你好.md "wikilink")                              | EP405   |
-| 2019年3月21日      | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink") | [歡樂在一起](../Page/歡樂在一起.md "wikilink")                                      | EP581   |
-| 2019年4月3日       | [JTBC](../Page/JTBC.md "wikilink")                    | [請給一頓飯Show](https://zh.wikipedia.org/wiki/請給一頓飯Show "wikilink")           | EP121   |
-| 2019年4月4日       | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")   | [人生酒館](https://zh.wikipedia.org/wiki/人生酒館 "wikilink")                     | EP117   |
-| 2019年4月7日       | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | [超人回來了](https://zh.wikipedia.org/wiki/超人回來了 "wikilink")                   | EP280   |
-
-#### 固定綜藝
+### 固定綜藝
 
 <table>
 <thead>
@@ -204,13 +164,46 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/姜食堂3" title="wikilink">姜食堂3</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>2019年6月26日—</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a></p></td>
-<td><p><a href="../Page/曖昧生存戰1+1.md" title="wikilink">曖昧生存戰1+1</a></p></td>
-</tr>
 </tbody>
 </table>
+
+### 綜藝節目
+
+| **日期**          | **電視台**                                               | **名稱**                                                                    | **集數**  |
+| --------------- | ----------------------------------------------------- | ------------------------------------------------------------------------- | ------- |
+| 2013年12月25日     | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | [Weekly Idol](../Page/Weekly_Idol.md "wikilink")                          | EP127   |
+| 2016年2月15日      | [SBS](../Page/SBS_\(韓國\).md "wikilink")               | [同床異夢，沒關係沒關係](../Page/同床異夢，沒關係沒關係.md "wikilink")                          | EP40    |
+| 2016年12月31日     | [OnStyle](../Page/OnStyle.md "wikilink")              | [Laundry Day](../Page/Laundry_Day.md "wikilink")                          | EP11    |
+| 2017年5月5日       | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | [秘密綜藝研修院](../Page/秘密綜藝研修院.md "wikilink")                                  | 試播      |
+| 2017年10月22日     | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")   | [腦性時代：問題男子](https://zh.wikipedia.org/wiki/腦性時代：問題男子 "wikilink")           | EP135   |
+| 2017年10月28日     | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")   | [Master Key](../Page/Master_Key.md "wikilink")                            | EP3     |
+| 2018年7月20日－8月3日 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | [越線的傢伙們](../Page/越線的傢伙們.md "wikilink")                                    | EP13－15 |
+| 2018年10月6日、13日  | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | [意外的Q](../Page/意外的Q.md "wikilink")                                        | EP22、23 |
+| 2018年11月17日     | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")   | [驚人的週六](https://zh.wikipedia.org/wiki/驚人的週六 "wikilink")                   | EP33    |
+| 2018年11月27日     | [JTBC](../Page/JTBC.md "wikilink")                    | [Idol Room](../Page/Idol_Room.md "wikilink")                              | EP29    |
+| 2018年12月8日      | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | [Under Nineteen](https://zh.wikipedia.org/wiki/Under_Nineteen "wikilink") | EP6     |
+| 2019年1月12日      | [JTBC](../Page/JTBC.md "wikilink")                    | [認識的哥哥](../Page/認識的哥哥.md "wikilink")                                      | EP162   |
+| 2019年1月16日      | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | [Radio Star](https://zh.wikipedia.org/wiki/Radio_Star "wikilink")         | EP600   |
+| 2019年1月31日      | [SBS](../Page/SBS_\(韓國\).md "wikilink")               | [俘獲芳心頻道](../Page/俘獲芳心頻道.md "wikilink")                                    | EP12    |
+| 2019年2月12日      | [SBS](../Page/SBS_\(韓國\).md "wikilink")               | [深夜正式演藝](../Page/深夜正式演藝.md "wikilink")                                    | EP96    |
+| 2019年2月17日      | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")   | [喜劇大聯盟](../Page/喜劇大聯盟.md "wikilink")                                      | EP300   |
+| 2019年3月18日      | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink") | [大國民脫口秀-你好](../Page/大國民脫口秀-你好.md "wikilink")                              | EP405   |
+| 2019年3月21日      | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink") | [歡樂在一起](../Page/歡樂在一起.md "wikilink")                                      | EP581   |
+| 2019年4月3日       | [JTBC](../Page/JTBC.md "wikilink")                    | [請給一頓飯Show](https://zh.wikipedia.org/wiki/請給一頓飯Show "wikilink")           | EP121   |
+| 2019年4月4日       | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")   | [人生酒館](https://zh.wikipedia.org/wiki/人生酒館 "wikilink")                     | EP117   |
+| 2019年4月7日       | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | [超人回來了](https://zh.wikipedia.org/wiki/超人回來了 "wikilink")                   | EP280   |
+
+### 網路節目
+
+| 日期          | 節目頻道  | 節目名稱    |
+| ----------- | ----- | ------- |
+| 2016年10月29日 | dingo | 今天也 辛苦了 |
+
+### 音樂錄影帶
+
+| 日期         | 歌曲名稱                                                               | 備註                                                   |
+| ---------- | ------------------------------------------------------------------ | ---------------------------------------------------- |
+| 2013年9月25日 | Something Special (BUMZU Feat. [Dok2](../Page/Dok2.md "wikilink")) | 與[胤祖出演](https://zh.wikipedia.org/wiki/胤祖 "wikilink") |
 
 ## 獎項
 

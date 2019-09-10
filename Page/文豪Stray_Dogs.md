@@ -713,7 +713,7 @@
   -
 
       -
-        出自[愛德格·艾倫·坡](https://zh.wikipedia.org/wiki/愛倫·坡 "wikilink")（Edgar Allan Poe）的短篇推理小說作品《[The Murders in the Rue Morgue](../Page/莫爾格街兇殺案.md "wikilink")》（譯名：《莫爾格街兇殺案》）與《[The Black Cat](https://zh.wikipedia.org/wiki/黑貓_\(短篇小說\) "wikilink")》（譯名：《黑貓》）。[愛倫·坡可謂推理小說界的始祖](https://zh.wikipedia.org/wiki/愛倫·坡 "wikilink")，日本推理小說作家[平井太郎(ひらい たろう)的筆名](../Page/江戶川亂步.md "wikilink")「江戸川 亂歩」（Edogawa Ranpo）就是從[愛德格·愛倫·坡](https://zh.wikipedia.org/wiki/愛倫·坡 "wikilink")（Edgar Allan Poe）的名字而來。
+        出自[埃德加·艾倫·坡](https://zh.wikipedia.org/wiki/愛倫·坡 "wikilink")（Edgar Allan Poe）的短篇推理小說作品《[The Murders in the Rue Morgue](../Page/莫爾格街兇殺案.md "wikilink")》（譯名：《莫爾格街兇殺案》）與《[The Black Cat](https://zh.wikipedia.org/wiki/黑貓_\(短篇小說\) "wikilink")》（譯名：《黑貓》）。[愛倫·坡可謂推理小說界的始祖](https://zh.wikipedia.org/wiki/愛倫·坡 "wikilink")，日本推理小說作家[平井太郎(ひらい たろう)的筆名](../Page/江戶川亂步.md "wikilink")「江戸川 亂歩」（Edogawa Ranpo）就是從[愛德格·愛倫·坡](https://zh.wikipedia.org/wiki/愛倫·坡 "wikilink")（Edgar Allan Poe）的名字而來。
 
 <!-- end list -->
 

@@ -137,7 +137,7 @@
 （）<br />
 </p></td>
 <td><p>D<br />
-（<a href="https://zh.wikipedia.org/wiki/裕時悠示" title="wikilink">裕時悠示</a>）</p></td>
+（<a href="../Page/裕時悠示.md" title="wikilink">裕時悠示</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>獎勵賞</p></td>

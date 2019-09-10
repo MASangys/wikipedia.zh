@@ -2,11 +2,7 @@
 
 ## 历史
 
-设计局内代号为"拉－120"。1943年11月19日首飞。是[La-5改型](../Page/La-5戰鬥機.md "wikilink")，气动外形和几何尺寸与[La-5完全相同](../Page/La-5戰鬥機.md "wikilink")。累计生产了5753架。
-
-蘇聯空軍第一個裝備La-7的是第176近衛戰鬥機航空團，其指揮官是有名的空戰王牌[伊萬·闊日杜布](https://zh.wikipedia.org/wiki/阔日杜布 "wikilink")，他的62個戰果當中有17個就是靠La-7取得的，1945年2月15日，一架德國[Me 262被該團的La](https://zh.wikipedia.org/wiki/Me_262 "wikilink")-7擊落。
-
-1944年9月初駐[立陶宛的第](https://zh.wikipedia.org/wiki/立陶宛 "wikilink")63近衛航空團也得到La-7，該團的La-7主要為轟炸機護航和支援地面部隊前進，該團的La-7總共打了39場空戰，擊落了52架[Fw 190和](https://zh.wikipedia.org/wiki/Fw_190 "wikilink")3架[Bf 109而本身則只損失了](https://zh.wikipedia.org/wiki/Bf_109 "wikilink")4架La-7，從中可看出La-7已成為在東線最厲害的戰鬥機。不過它們也有缺點，初期由於砂塵被吸入發動機而故障的情況很多，致使出勤率不足5成，後來在發動機內追加瀘砂器解決，飛行員也抱怨駕駛艙狹小不便乘坐等問題則難以解決，除此之外，由於製造的木材無經過除蟲和除真菌處理，致使飛機壽命不超過3年，故在1947年，La-7從蘇聯空軍當中退役。
+设计局内代号为"拉－120"。1943年11月19日首飞。是[La-5改型](../Page/La-5戰鬥機.md "wikilink")，气动外形和几何尺寸与La-5完全相同。累计生产了5753架。
 
 ## 設計特點
 
@@ -61,7 +57,15 @@ La-7的轉彎半徑較短而且轉一圈只要20秒，而Fw 190A8卻要26秒。
   - 5000米爬升时间：4.6分钟（加力模式）、5.25分钟（正常功率模式）
   - 武裝:3支20毫米口徑Б－20機炮
 
+## 實戰
+
+[Stamp_of_USSR_1037g.jpg](https://zh.wikipedia.org/wiki/File:Stamp_of_USSR_1037g.jpg "fig:Stamp_of_USSR_1037g.jpg") 蘇聯空軍第一個裝備La-7的是第176近衛戰鬥機航空團，其指揮官是有名的空戰王牌[伊萬·闊日杜布](https://zh.wikipedia.org/wiki/阔日杜布 "wikilink")，他的62個戰果當中有17個就是靠La-7取得的，1945年2月15日，一架德國[Me 262被該團的La](https://zh.wikipedia.org/wiki/Me_262 "wikilink")-7擊落。
+
+1944年9月初駐[立陶宛的第](https://zh.wikipedia.org/wiki/立陶宛 "wikilink")63近衛航空團也得到La-7，該團的La-7主要為轟炸機護航和支援地面部隊前進，該團的La-7總共打了39場空戰，擊落了52架[Fw 190和](https://zh.wikipedia.org/wiki/Fw_190 "wikilink")3架[Bf 109而本身則只損失了](https://zh.wikipedia.org/wiki/Bf_109 "wikilink")4架La-7，從中可看出La-7已成為在東線最厲害的戰鬥機。不過它們也有缺點，初期由於砂塵被吸入發動機而故障的情況很多，致使出勤率不足5成，後來在發動機內追加瀘砂器解決，飛行員也抱怨駕駛艙狹小不便乘坐等問題則難以解決，除此之外，由於製造的木材無經過除蟲和除真菌處理，致使飛機壽命不超過3年，故在1947年，La-7從蘇聯空軍當中退役。
+
 ## 使用國家
+
+[La-7_4_ld.jpg](https://zh.wikipedia.org/wiki/File:La-7_4_ld.jpg "fig:La-7_4_ld.jpg")
 
   -
   -

@@ -71,6 +71,15 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 </tr>
 <tr class="even">
 <td><p>6</p></td>
+<td><p><a href="../Page/德魯納酒店.md" title="wikilink">德魯納酒店</a></p></td>
+<td><p>16</p></td>
+<td><p>12.001%</p></td>
+<td></td>
+<td><p>2019/09/01</p></td>
+<td><p>週末</p></td>
+</tr>
+<tr class="odd">
+<td><p>7</p></td>
 <td><p><a href="../Page/機智牢房生活.md" title="wikilink">機智牢房生活</a></p></td>
 <td><p>16</p></td>
 <td><p>11.195%</p></td>
@@ -78,8 +87,8 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <td><p>2018/01/18</p></td>
 <td><p>水木</p></td>
 </tr>
-<tr class="odd">
-<td><p>7</p></td>
+<tr class="even">
+<td><p>8</p></td>
 <td><p><a href="../Page/成為王的男人.md" title="wikilink">成為王的男人</a></p></td>
 <td><p>16</p></td>
 <td><p>10.851%</p></td>
@@ -87,23 +96,14 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <td><p>2019/03/04</p></td>
 <td><p>月火</p></td>
 </tr>
-<tr class="even">
-<td><p>8</p></td>
+<tr class="odd">
+<td><p>9</p></td>
 <td><p><a href="../Page/請回答1994.md" title="wikilink">請回答1994</a></p></td>
 <td><p>21</p></td>
 <td><p>10.431%</p></td>
 <td></td>
 <td><p>2013/12/28</p></td>
 <td><p>金土</p></td>
-</tr>
-<tr class="odd">
-<td><p>9</p></td>
-<td><p><a href="../Page/德魯納酒店.md" title="wikilink">德魯納酒店</a></p></td>
-<td><p>12</p></td>
-<td><p>10.407%</p></td>
-<td></td>
-<td><p>2019/08/18</p></td>
-<td><p>週末</p></td>
 </tr>
 <tr class="even">
 <td><p>10</p></td>
@@ -1311,10 +1311,17 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <td><p><a href="../Page/街頭美食鬥士.md" title="wikilink">街頭美食鬥士</a></p></td>
 <td><p>2018年4月23日</p></td>
 <td><p>2018年6月11日</p></td>
-<td><p>1</p></td>
+<td><p>2</p></td>
 <td><p>美食節目</p></td>
 </tr>
 <tr class="even">
+<td><p>2019年9月22日</p></td>
+<td><p>播放中</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="../Page/國際通信.md" title="wikilink">國際通信</a><br />
 （間中停播1次）</p></td>
 <td><p>2018年4月29日</p></td>
@@ -1322,161 +1329,161 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <td><p>試播</p></td>
 <td><p>時事教養</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2018年7月20日</p></td>
 <td><p>2018年9月14日</p></td>
 <td><p>1</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2018年11月2日</p></td>
 <td><p>2018年12月28日</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/The_Call.md" title="wikilink">The Call</a></p></td>
 <td><p>2018年5月4日</p></td>
 <td><p>2018年6月29日</p></td>
 <td><p>2</p></td>
 <td><p>競技節目</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2019年7月5日</p></td>
 <td><p>播放中</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/今天_明日.md" title="wikilink">今天 明日</a></p></td>
 <td><p>2018年5月24日</p></td>
 <td><p>2018年7月26日</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/食糧日記.md" title="wikilink">食糧日記</a></p></td>
 <td><p>2018年5月30日</p></td>
 <td><p>2018年8月8日</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/守美的飯饌.md" title="wikilink">守美的飯饌</a></p></td>
 <td><p>2018年6月6日</p></td>
 <td><p>播放中</p></td>
 <td><p>1</p></td>
 <td><p>美食節目</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/吃草的聲音.md" title="wikilink">吃草的聲音</a></p></td>
 <td><p>2018年6月25日</p></td>
 <td><p>2018年7月30日</p></td>
 <td><p>3</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2018年9月17日</p></td>
 <td><p>2018年11月19日</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2019年4月1日</p></td>
 <td><p>2019年6月24日</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/我的數學青春期.md" title="wikilink">我的數學青春期</a></p></td>
 <td><p>2018年6月26日</p></td>
 <td><p>2018年7月17日</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/大逃出.md" title="wikilink">大逃出</a></p></td>
 <td><p>2018年7月1日</p></td>
 <td><p>2018年9月23日</p></td>
 <td><p>2</p></td>
 <td><p>競技節目</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/大逃出2" title="wikilink">大逃出2</a></p></td>
 <td><p>2019年3月17日</p></td>
 <td><p>2019年6月9日</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/伽利略：覺醒的宇宙" title="wikilink">伽利略：覺醒的宇宙</a></p></td>
 <td><p>2018年7月15日</p></td>
 <td><p>2018年9月9日</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/通往伊薩卡之路.md" title="wikilink">通往伊薩卡之路</a></p></td>
 <td><p>2018年7月15日</p></td>
 <td><p>2018年9月23日</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/劉QUIZ_ON_THE_BLOCK.md" title="wikilink">劉QUIZ ON THE BLOCK</a></p></td>
 <td><p>2018年8月29日</p></td>
 <td><p>2018年11月14日</p></td>
 <td><p>2</p></td>
 <td><p>脫口秀節目</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/劉QUIZ_ON_THE_BLOCK_(第二季).md" title="wikilink">劉QUIZ ON THE BLOCK (第二季)</a></p></td>
 <td><p>2019年4月16日</p></td>
 <td><p>播放中</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/一場聲音的戰爭：300.md" title="wikilink">一場聲音的戰爭：300</a></p></td>
 <td><p>2018年8月31日</p></td>
 <td><p>2018年9月28日</p></td>
 <td><p>2</p></td>
 <td><p>競技節目</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2019年5月3日</p></td>
 <td><p>2019年6月21日</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>2018年9月24日</p></td>
 <td><p>2018年9月25日</p></td>
 <td><p>試播</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="http://program.m.tving.com/tvn/imhomemom/">媽媽 我回來了</a></p></td>
 <td><p>2018年9月26日</p></td>
 <td><p>2018年11月8日</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/週末使用說明書.md" title="wikilink">週末使用說明書</a></p></td>
 <td><p>2018年9月30日</p></td>
 <td><p>2019年1月27日</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/驚險的親家練習.md" title="wikilink">驚險的親家練習</a><br />
 （第16集開始變更播放時段）</p></td>
 <td><p>2018年10月5日</p></td>
@@ -1484,210 +1491,210 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2019年1月19日</p></td>
 <td><p>2019年3月9日</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="http://program.m.tving.com/tvn/aparttogether/">分開又一起</a></p></td>
 <td><p>2018年10月7日</p></td>
 <td><p>2019年2月3日</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="http://program.m.tving.com/tvn/tvnshift/">TvN Shift</a></p></td>
 <td><p>2018年10月26日</p></td>
 <td><p>2018年12月7日</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="http://program.m.tving.com/tvn/icansmellyourmoney/">聽見你的錢</a></p></td>
 <td><p>2018年11月20日</p></td>
 <td><p>2018年12月10日</p></td>
 <td><p>1</p></td>
 <td><p>時事教養</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/無國界路邊攤" title="wikilink">無國界路邊攤</a></p></td>
 <td><p>2018年11月21日</p></td>
 <td><p>2019年2月20日</p></td>
 <td><p>1</p></td>
 <td><p>美食節目</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="http://program.m.tving.com/tvn/whataboutmyage/">年齡參差</a></p></td>
 <td><p>2018年11月22日</p></td>
 <td><p>2018年12月13日</p></td>
 <td><p>試播</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2019年2月12日</p></td>
 <td><p>2019年4月2日</p></td>
 <td><p>1</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/令人垂涎的遊輪.md" title="wikilink">令人垂涎的遊輪</a></p></td>
 <td><p>2018年11月24日</p></td>
 <td><p>2019年1月5日</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/Amor_Fati.md" title="wikilink">Amor Fati</a></p></td>
 <td><p>2018年12月9日</p></td>
 <td><p>2019年3月3日</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/Coffee_Friends.md" title="wikilink">Coffee Friends</a></p></td>
 <td><p>2019年1月4日</p></td>
 <td><p>2019年3月8日</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="http://program.m.tving.com/tvn/sang-am-times/">上巖時間</a></p></td>
 <td><p>2019年1月22日</p></td>
 <td><p>2019年4月2日</p></td>
 <td><p>1</p></td>
 <td><p>時事教養</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>2019年2月3日</p></td>
 <td><p>2019年3月10日</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/我手中的侄子tv.md" title="wikilink">我手中的侄子TV</a></p></td>
 <td><p>2019年2月17日</p></td>
 <td><p>2019年3月10日</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/問題性BOSS.md" title="wikilink">問題性BOSS</a></p></td>
 <td><p>2019年3月6日</p></td>
 <td><p>2019年4月24日</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/西班牙寄宿.md" title="wikilink">西班牙寄宿</a></p></td>
 <td><p>2019年3月15日</p></td>
 <td><p>2019年5月24日</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/傻瓜們的監獄生活.md" title="wikilink">傻瓜們的監獄生活</a></p></td>
 <td><p>2019年3月16日</p></td>
-<td><p>播放中</p></td>
+<td><p>2019年9月7日</p></td>
 <td><p>1</p></td>
 <td><p>競技節目</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/Show!_Audio_Jockey.md" title="wikilink">Show! Audio Jockey</a></p></td>
 <td><p>2019年3月17日</p></td>
 <td><p>2019年6月30日</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/Miss_Korea" title="wikilink">Miss Korea</a></p></td>
 <td><p>2019年3月24日</p></td>
 <td><p>2019年5月26日</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="http://program.m.tving.com/tvn/thoughtofchildren/">孩子的想法</a></p></td>
 <td><p>2019年4月9日</p></td>
 <td><p>2019年6月4日</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/工作室_(韓國綜藝).md" title="wikilink">工作室</a></p></td>
 <td><p>2019年5月1日</p></td>
 <td><p>2019年6月19日</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="http://program.m.tving.com/tvn/coverstory/">封面故事</a></p></td>
 <td><p>2019年5月16日</p></td>
-<td><p>播放中</p></td>
+<td><p>2019年7月25日</p></td>
 <td><p>1</p></td>
 <td><p>時事教養</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/孫Sational-打造他的時間.md" title="wikilink">孫Sational-打造他的時間</a></p></td>
 <td><p>2019年5月25日</p></td>
 <td><p>2019年7月5日</p></td>
 <td><p>1</p></td>
 <td><p>時事教養</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/高校供餐王.md" title="wikilink">高校供餐王</a></p></td>
 <td><p>2019年6月8日</p></td>
 <td><p>2019年8月17日</p></td>
 <td><p>1</p></td>
 <td><p>美食節目</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/豐盛的餐桌.md" title="wikilink">豐盛的餐桌</a></p></td>
 <td><p>2019年6月11日</p></td>
 <td><p>2019年6月25日</p></td>
 <td><p>1</p></td>
 <td><p>美食節目</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/Super_Hearer.md" title="wikilink">Super Hearer</a></p></td>
 <td><p>2019年6月16日</p></td>
 <td><p>播放中</p></td>
 <td><p>1</p></td>
 <td><p>競技節目</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/狗屎哲學館.md" title="wikilink">狗屎哲學館</a></p></td>
 <td><p>2019年7月16日</p></td>
 <td><p>播放中</p></td>
 <td><p>1</p></td>
 <td><p>脫口秀節目</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/無論什麼friends.md" title="wikilink">無論什麼friends</a></p></td>
 <td><p>2019年7月17日</p></td>
 <td><p>播放中</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/工作見面的關係.md" title="wikilink">工作見面的關係</a></p></td>
 <td><p>2019年8月24日</p></td>
 <td><p>播放中</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>V-1</p></td>
 <td><p>2019年9月</p></td>
 <td></td>
 <td><p>1</p></td>
 <td><p>競技節目</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>

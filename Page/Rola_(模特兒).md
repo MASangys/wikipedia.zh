@@ -1,4 +1,4 @@
-**Rola**（****、，本命****），[亞歐混血兒](https://zh.wikipedia.org/wiki/亞歐混血 "wikilink")，是出身於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")的女[模特兒](../Page/模特兒.md "wikilink")、[歌手](../Page/歌手.md "wikilink")及[演員](../Page/演員.md "wikilink")。所屬[經紀公司](../Page/經紀公司.md "wikilink")為[LIBERA](https://zh.wikipedia.org/wiki/LIBERA_\(經紀公司\) "wikilink")。父親是[孟加拉人](https://zh.wikipedia.org/wiki/孟加拉 "wikilink")，母親擁有四分之一[俄羅斯血統及四分之三日本血統](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")。\[1\]
+**Rola**（****、，），[亞歐混血兒](https://zh.wikipedia.org/wiki/亞歐混血 "wikilink")，是出身於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")的女[模特兒](../Page/模特兒.md "wikilink")、[歌手](../Page/歌手.md "wikilink")及[演員](../Page/演員.md "wikilink")。所屬[經紀公司](../Page/經紀公司.md "wikilink")為[LIBERA](https://zh.wikipedia.org/wiki/LIBERA_\(經紀公司\) "wikilink")。父親是[孟加拉人](https://zh.wikipedia.org/wiki/孟加拉 "wikilink")，母親擁有四分之一[俄羅斯血統及四分之三日本血統](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")。\[1\]
 
 ## 生平
 

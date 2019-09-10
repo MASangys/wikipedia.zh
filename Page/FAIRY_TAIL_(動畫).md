@@ -3750,6 +3750,24 @@ Kim Ki Yeob</p></td>
 <td><p>323</p></td>
 <td></td>
 <td><p>兇暴的龍之炎</p></td>
+<td><p>十川誠志</p></td>
+<td><p>高橋優也</p></td>
+<td><p>辻𣘺綾佳</p></td>
+<td><p>岡垣優、飯塚正則</p></td>
+</tr>
+<tr class="odd">
+<td><p>324</p></td>
+<td></td>
+<td><p>火焰消失時</p></td>
+<td><p>志茂文彦</p></td>
+<td><p>石平信司</p></td>
+<td><p>秋山宏</p></td>
+<td><p>森本由布希</p></td>
+</tr>
+<tr class="even">
+<td><p>325</p></td>
+<td></td>
+<td><p>世界崩壞</p></td>
 <td></td>
 <td></td>
 <td></td>

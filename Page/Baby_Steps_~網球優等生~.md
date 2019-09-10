@@ -160,8 +160,6 @@
 
 ## 出版書籍
 
-### 單行本
-
 <table>
 <thead>
 <tr class="header">

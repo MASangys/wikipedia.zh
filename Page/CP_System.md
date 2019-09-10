@@ -1,4 +1,4 @@
-**CP system**（简称「**CPS**」）是日本[卡普空](../Page/卡普空.md "wikilink")公司发布于1988年的[街机](../Page/街机.md "wikilink")游戏平台。他的核心是[摩托罗拉68000](https://zh.wikipedia.org/wiki/摩托罗拉68000 "wikilink") CPU，属32位/16位混合系统。此平台获得了高度商业成功，诞生过超过24款风靡世界的游戏。
+**CP system**（简称「**CPS**」）是日本[卡普空](../Page/卡普空.md "wikilink")公司发布于1988年的[街机](../Page/街机.md "wikilink")游戏平台。他的核心是[摩托罗拉68000](../Page/摩托罗拉68000.md "wikilink") CPU，属32位/16位混合系统。此平台获得了高度商业成功，诞生过超过24款风靡世界的游戏。
 
 ## 开发背景
 
@@ -7,7 +7,7 @@ CPS的市场定位是一款成本相对较低的通用游戏平台。所谓通�
 ## CPS-1技术规格
 
 `   CPU:`
-`       主处理器：`[`摩托罗拉68000`](https://zh.wikipedia.org/wiki/摩托罗拉68000 "wikilink")`，主频10MHz (后期有12 MHz的跳线选项)，192KB独占缓存`
+`       主处理器：`[`摩托罗拉68000`](../Page/摩托罗拉68000.md "wikilink")`，主频10MHz (后期有12 MHz的跳线选项)，192KB独占缓存`
 `       协处理器: Zilog `[`Z80`](https://zh.wikipedia.org/wiki/Z80 "wikilink")` @ 3.579 MHz， 2KB独占缓存`
 `       核心内存：64KB`
 `       游戏专用扩展内存：通常12MB - 20MB不等`

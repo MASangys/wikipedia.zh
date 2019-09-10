@@ -58,30 +58,44 @@ tvN Asia大部分節目由Mnet媒體、[CJ E\&M及](https://zh.wikipedia.org/wik
 </tr>
 <tr class="even">
 <td><p>星期三</p></td>
+<td><p>19:50 - 20:30</p></td>
+<td><p>X1 Flash</p></td>
+<td><p>8月28日起</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>23:05 - 00:35</p></td>
 <td><p><a href="../Page/高校供餐王.md" title="wikilink">高校供餐王</a></p></td>
 <td><p>7月24日起</p></td>
 <td></td>
+<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>星期四</p></td>
 <td><p>23:05 - 00:30</p></td>
 <td><p><a href="../Page/The_Call.md" title="wikilink">The Call 2</a></p></td>
 <td><p>8月1日起</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>星期五</p></td>
 <td><p>23:05 - 00:25</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/守美的饭馔" title="wikilink">守美家秘笈：韩式饭饌</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>星期六</p></td>
 <td><p>21:05 - 22:50</p></td>
 <td><p><a href="../Page/一日三餐.md" title="wikilink">一日三餐</a>：山村篇</p></td>
 <td><p>8月17日起</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>22:50 - 00:20</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/工作见面的关系" title="wikilink">工作见面的关系</a></p></td>
+<td><p>8月31日起</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -379,7 +393,7 @@ tvN Asia大部分節目由Mnet媒體、[CJ E\&M及](https://zh.wikipedia.org/wik
 ♤</p></td>
 </tr>
 <tr class="odd">
-<td><p>2019年8月27日 - 2019年10月15日</p></td>
+<td><p>2019年8月27日 - 2019年10月16日</p></td>
 <td><p>星期二、三20:50(<a href="https://zh.wikipedia.org/wiki/UTC+7" title="wikilink">UTC+7</a>)</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/伟大的Show" title="wikilink">伟大的Show</a></p></td>
 <td><p>16</p></td>
@@ -406,6 +420,9 @@ tvN Asia大部分節目由Mnet媒體、[CJ E\&M及](https://zh.wikipedia.org/wik
   - 《[河伯的新娘 2017](../Page/河伯的新娘_2017.md "wikilink")》
   - 《[今生是第一次](../Page/今生是第一次.md "wikilink")》
   - 《[付岩洞复仇者们](https://zh.wikipedia.org/wiki/付岩洞复仇者们 "wikilink")》
+  - 《[小神的孩子們](../Page/小神的孩子們.md "wikilink")》
+  - 《[她愛上了我的謊](../Page/她愛上了我的謊_\(韓國電視劇\).md "wikilink")》
+  - 《[Circle：相連的兩個世界](../Page/Circle：相連的兩個世界.md "wikilink")》
 
 ## 節目
 

@@ -366,7 +366,7 @@
 </tr>
 <tr class="even">
 <td><p>2018年</p></td>
-<td><p>HIGHCUT 223期</p></td>
+<td><p>HIGHCUT Vol.223</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -388,6 +388,11 @@
 <td><p>2019年5月刊</p></td>
 <td><p>Singles</p></td>
 <td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年9月刊</p></td>
+<td><p>HIGHCUT Vol.246</p></td>
+<td><p>封面</p></td>
 </tr>
 </tbody>
 </table>

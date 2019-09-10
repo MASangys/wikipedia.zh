@@ -36,7 +36,7 @@ CHuN與[SDwing](../Page/SDwing.md "wikilink")、[皇宇 (ZECO)等數人组成](.
 
 [风舞结界](http://blog.yam.com/achunchun) - CHuN的-{zh-cn:博客; zh-tw:部落格;}-。
 
-[Category:臺灣漫畫家](https://zh.wikipedia.org/wiki/Category:臺灣漫畫家 "wikilink") [Category:臺灣插畫家](https://zh.wikipedia.org/wiki/Category:臺灣插畫家 "wikilink") [Category:國立臺灣大學校友](https://zh.wikipedia.org/wiki/Category:國立臺灣大學校友 "wikilink") [Category:國立臺灣大學醫學院校友](https://zh.wikipedia.org/wiki/Category:國立臺灣大學醫學院校友 "wikilink") [Category:翁姓](https://zh.wikipedia.org/wiki/Category:翁姓 "wikilink") [Category:1980年出生](https://zh.wikipedia.org/wiki/Category:1980年出生 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
+[Category:臺灣漫畫家](https://zh.wikipedia.org/wiki/Category:臺灣漫畫家 "wikilink") [Category:臺灣插畫家](https://zh.wikipedia.org/wiki/Category:臺灣插畫家 "wikilink") [Category:國立臺灣大學醫學院校友](https://zh.wikipedia.org/wiki/Category:國立臺灣大學醫學院校友 "wikilink") [Category:翁姓](https://zh.wikipedia.org/wiki/Category:翁姓 "wikilink") [Category:1980年出生](https://zh.wikipedia.org/wiki/Category:1980年出生 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
 
 1.
 2.

@@ -291,4 +291,4 @@
   - 世界也能夠感受：於**新城國語力排行榜**上榜最高位置第**1**位
   - 我只想快樂：於**新城國語力排行榜**上榜最高位置第2位
 
-[分类:香港唱片](https://zh.wikipedia.org/wiki/分类:香港唱片 "wikilink")
+[Category:糖兄妹音樂專輯](https://zh.wikipedia.org/wiki/Category:糖兄妹音樂專輯 "wikilink") [Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")

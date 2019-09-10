@@ -544,16 +544,18 @@
 
   - 1月8日，NGT48成員[山口真帆](../Page/山口真帆.md "wikilink")於深夜在個人SHOWROOM直播上公開去年12月初[在自宅玄關處被兩名男子襲擊的事件](https://zh.wikipedia.org/wiki/NGT48#暴行被害骚动 "wikilink")；然而營運方對此事件的後續處理不周，引發日本輿論譁然。NGT48劇場經理今村悅朗於同年1月14日被營運方撤換，山口個人則於同年5月19日畢業。
   - 1月18-19日，於東京巨蛋城表演廳舉行《AKB48集團 重溫時間 最佳曲目100 2019》演唱會，AKB48 Team 8以《[去47個美麗城市](https://zh.wikipedia.org/wiki/去47個美麗城市 "wikilink")》獲得「[重溫時間 最佳曲目100](https://zh.wikipedia.org/wiki/AKB48公演列表#重温时间_最佳曲目100 "wikilink")」的第一名，也是該曲在此活動連續3年獲選前三後首次奪冠。
+  - 1月27日，AKB48與AKB48集團海外6團共同於[曼谷](../Page/曼谷.md "wikilink")近郊的舉行「AKB48 Group Asia Festival 2019 in BANGKOK」\[168\]。
   - 3月7日，AKB48劇場經理細井孝宏被撤換，疑因與前NGT48劇場經理今村悅朗同桌共飲的照片被傳上網路有關。該職務則暫時懸缺。
-  - 3月13日，發行第55張單曲《[回憶上心頭DAYS](../Page/回憶上心頭DAYS.md "wikilink")》。亦在同日，AKB48營運方宣布該年度的選拔總選舉停辦\[168\]\[169\]\[170\]。
+  - 3月13日，發行第55張單曲《[回憶上心頭DAYS](../Page/回憶上心頭DAYS.md "wikilink")》。亦在同日，AKB48營運方宣布該年度的選拔總選舉停辦\[169\]\[170\]\[171\]。
   - 3月24日，《AKB48 SHOW\!》結束播出。
   - 3月27日，《AKB48的All Night Nippon》結束播出。
-  - 4月1日，向井地美音正式接替橫山由依，成為第3任AKB48集團總監督\[171\]\[172\]。
+  - 4月1日，向井地美音正式接替橫山由依，成為第3任AKB48集團總監督\[172\]\[173\]。
   - 4月7日，《AKB48的All Night Nippon》的後繼節目《》開始在日本放送播出。
   - 4月28日，於橫濱球場舉行「指原莉乃畢業演唱會～再見了，指原莉乃～」。
   - 5月2日，即將畢業的Team B隊長[高橋朱里](../Page/高橋朱里.md "wikilink")，於畢業公演上指名岩立沙穗接任隊長職務。
-  - 6月14日，宣布將自同年7月7日至10月22日，舉辦睽違4年、為期10天共20場的全國巡演\[173\]\[174\]\[175\]。
-  - 6月30日，劇場公演新劇目「我的夏天開始了」（）進行初日公演\[176\]。
+  - 6月14日，宣布將自同年7月7日至10月22日，舉辦睽違4年、為期10天共20場的全國巡演\[174\]\[175\]\[176\]。
+  - 6月30日，劇場公演新劇目「我的夏天開始了」（）進行初日公演\[177\]。
+  - 8月24日，AKB48與AKB48集團海外6團共同於[上海](https://zh.wikipedia.org/wiki/上海市 "wikilink")[國家會展中心舉行](../Page/國家會展中心_\(上海\).md "wikilink")「AKB48 Group Asia Festival 2019 in SHANGHAI」\[178\]。
   - 9月18日，預定發行第56張單曲《[Sustainable](../Page/Sustainable.md "wikilink")》。
 
 ## 註釋與參考文獻
@@ -890,7 +892,7 @@
 
 167.
 
-168.
+168. [AKB48 Group Asia Festival 2019 in BANGKOK Presented by SHANDA GAMES](https://www.akb48asiafes.com/bangkok/index.html)
 
 169.
 
@@ -907,3 +909,7 @@
 175.
 
 176.
+
+177.
+
+178. [AKB48 Group Asia Festival 2019 in SHANGHAI](https://www.akb48asiafes.com)

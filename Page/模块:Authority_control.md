@@ -771,7 +771,7 @@ end
 `   { 'CALIS', '`[`CALIS`](https://zh.wikipedia.org/wiki/中国高等教育文献保障系统 "wikilink")`', 270, p.calisLink },`
 `   { 'CBDB', '`[`CBDB`](../Page/中国历代人物传记资料库.md "wikilink")`', 497, p.cbdbLink },    `
 `   { 'CINII', '`[`CiNii`](../Page/CiNii.md "wikilink")`', 271, p.ciniiLink },`
-`    { 'CONOR', '`[`CONOR`](https://zh.wikipedia.org/wiki/CONOR "wikilink")`', 1280, p.conorLink },   `
+`    { 'CONOR', '`[`CONOR`](../Page/CONOR.md "wikilink")`', 1280, p.conorLink },   `
 `   { 'DBLP', '`[`DBLP`](https://zh.wikipedia.org/wiki/DBLP "wikilink")`', 2456, p.dblpLink },`
 `   { 'DDBC', '`[`DILA`](../Page/法鼓文理學院.md "wikilink")`', 1187, p.dilaLink }, --仅人物码，地方码为 1188`
 `   { 'FAST', '`[`FAST`](https://zh.wikipedia.org/wiki/d:Property:P2163 "wikilink")`', 2163, p.fastLink },    `

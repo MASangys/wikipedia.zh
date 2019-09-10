@@ -12,21 +12,27 @@ Kali Linux 是建立在安全的环境中，只有可信的人才可以提交安
 
 ## 需求
 
-1.  安装 Kali Linux 需要至少 10GB 的硬盘空间。
-2.  i386 和 AMD64 架构和至少 512M 的内存。
-3.  可引导的 CD-DVD 光驱或U盘。
+  - 安装 Kali Linux 需要至少 3.8 GB 的硬盘空间。\[3\]
+  - i386 和 AMD64 架构需要至少 512 MB 的内存。
+  - 可引导的 CD-DVD 光驱或U盘。
+
+## 建議
+
+  - 要讓軟體跑得順的硬體規格：
+  - 10.0 GB 硬碟空間，最好是SSD。
+  - 至少有 2048 MB RAM。
 
 ## 特性
 
-Kali Linux 有一个专门用于兼容性和移植到特定的Android设备的项目, 叫做 Kali Linux NetHunter.
+Kali Linux 有一个致力於提升兼容性和移植到特定Android设备的專案, 叫做 Kali Linux NetHunter.
 
-它是第一个针对nexus设备的开源android渗透测试平台，由kali社区成员“binkybear”和Offensive Security共同创建。它支持无线802.11框架注入，一键MANA Evil Access，HID keyboard (Teensy like attacks), 和Bad USB MITM攻击。
+它是第一个针对 Nexus 设备的开源 Android 渗透测试平台，由 Kali 社区成员“binkybear”和Offensive Security 共同创建。它支持无线802.11框架注入，一键MANA Evil Access，HID keyboard (Teensy like attacks), 和Bad USB MITM攻击。
 
-BackTrack（Kali的前身）包含一种被称为取证模式的模式，通过实时引导转移到Kali。这种模式非常受欢迎，原因有很多，部分原因是许多kali用户已经有可携带的kali USB驱动器或CD，并且该选项可以轻松将Kali应用于取证工作。当以取证模式启动时，系统不会触及内部硬盘驱动器或交换空间，并且禁用自动安装。然而，开发人员建议用户在使用Kali进行现实取证之前应该广泛测试这些功能。
+BackTrack（Kali 的前身）包含一种模式称为鑑識模式，已转移到了 Kali 的 live boot。这种模式非常受欢迎，原因有很多，部分原因是许多 Kali 用户已经有可開機 Kali USB 或 CD，并且该选项可以轻松将 Kali 应用于鑑識工作。当以鑑識模式启动时，系统不会触及内部硬盘或交换空间，并且禁用自动掛載。然而，开发人员建议用户在使用 Kali 进行现实鑑識之前应该广泛测试这些功能。
 
 ## 工具
 
-Kali Linux 包含许多的安全工具，比如：\[3\]
+Kali Linux 包含许多的安全工具，比如：\[4\]
 
   - [Aircrack-ng](../Page/Aircrack-NG.md "wikilink")
 
@@ -67,3 +73,4 @@ Kali Linux 包含许多的安全工具，比如：\[3\]
 1.
 2.
 3.
+4.

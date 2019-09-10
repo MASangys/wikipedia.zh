@@ -33,7 +33,7 @@
 ## 外部連結
 
   -
-[Category:2008年电子游戏](https://zh.wikipedia.org/wiki/Category:2008年电子游戏 "wikilink") [Category:Flash游戏](https://zh.wikipedia.org/wiki/Category:Flash游戏 "wikilink") [Category:网页游戏](https://zh.wikipedia.org/wiki/Category:网页游戏 "wikilink") [Category:網路迷因](https://zh.wikipedia.org/wiki/Category:網路迷因 "wikilink") [Category:網路遊戲](https://zh.wikipedia.org/wiki/Category:網路遊戲 "wikilink") [Category:澳大利亚开发电子游戏](https://zh.wikipedia.org/wiki/Category:澳大利亚开发电子游戏 "wikilink")
+[Category:2008年电子游戏](https://zh.wikipedia.org/wiki/Category:2008年电子游戏 "wikilink") [Category:Flash游戏](https://zh.wikipedia.org/wiki/Category:Flash游戏 "wikilink") [Category:网页游戏](https://zh.wikipedia.org/wiki/Category:网页游戏 "wikilink") [Category:網路迷因](https://zh.wikipedia.org/wiki/Category:網路迷因 "wikilink") [Category:網路遊戲](https://zh.wikipedia.org/wiki/Category:網路遊戲 "wikilink") [Category:戲仿遊戲](https://zh.wikipedia.org/wiki/Category:戲仿遊戲 "wikilink") [Category:澳大利亚开发电子游戏](https://zh.wikipedia.org/wiki/Category:澳大利亚开发电子游戏 "wikilink")
 
 1.
 

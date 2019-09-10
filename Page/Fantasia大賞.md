@@ -1028,9 +1028,8 @@
 <td><p>第26回冬期<br />
 （<a href="../Page/2014年.md" title="wikilink">2014年</a>）</p></td>
 <td><p>大賞</p></td>
-<td><p>ニートなボクが魔術の講師になったワケ<br />
-（<a href="https://zh.wikipedia.org/wiki/ロクでなし魔術講師と禁忌教典" title="wikilink">ロクでなし魔術講師と{{読み仮名</a>）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/羊太郎" title="wikilink">羊太郎</a></p></td>
+<td><p><a href="../Page/不正經的魔術講師與禁忌教典.md" title="wikilink">不正經的魔術講師與禁忌教典</a></p></td>
+<td><p><a href="../Page/羊太郎.md" title="wikilink">羊太郎</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>金賞</p></td>

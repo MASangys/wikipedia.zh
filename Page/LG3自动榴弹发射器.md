@@ -172,4 +172,4 @@ LG3配用的弹药主要有新研制的杀伤弹、破甲杀伤弹、训练弹�
 
   - —[PChome 個人新聞台—中國槍榴彈](http://mypaper.pchome.com.tw/souj/post/1306951888)
 
-[Category:40毫米口径武器](https://zh.wikipedia.org/wiki/Category:40毫米口径武器 "wikilink") [Category:榴弹发射器](https://zh.wikipedia.org/wiki/Category:榴弹发射器 "wikilink") [Category:全自動型榴彈發射器](https://zh.wikipedia.org/wiki/Category:全自動型榴彈發射器 "wikilink") [Category:中華人民共和國槍械](https://zh.wikipedia.org/wiki/Category:中華人民共和國槍械 "wikilink")
+[Category:40毫米口径武器](https://zh.wikipedia.org/wiki/Category:40毫米口径武器 "wikilink") [Category:榴弹发射器](https://zh.wikipedia.org/wiki/Category:榴弹发射器 "wikilink") [Category:全自動型榴彈發射器](https://zh.wikipedia.org/wiki/Category:全自動型榴彈發射器 "wikilink") [Category:中華人民共和國槍械](https://zh.wikipedia.org/wiki/Category:中華人民共和國槍械 "wikilink") [Category:需要圖片的槍械條目](https://zh.wikipedia.org/wiki/Category:需要圖片的槍械條目 "wikilink")

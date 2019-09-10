@@ -1,4 +1,4 @@
-<noinclude></noinclude> **GOT7**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JYP娛樂](../Page/JYP娛樂.md "wikilink")於2014年推出的7人男子團體，由四名[韓國成員](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JB](../Page/林在範.md "wikilink")、[珍榮](../Page/朴珍榮.md "wikilink")、[榮宰](../Page/崔榮宰.md "wikilink")、[有謙](../Page/金有謙.md "wikilink")，及三名外籍成員，分別是[台裔美籍的](https://zh.wikipedia.org/wiki/台裔美籍 "wikilink")[Mark](../Page/段宜恩.md "wikilink")、[香港](../Page/香港.md "wikilink")的[Jackson](../Page/王嘉爾.md "wikilink")，以及[泰國的](https://zh.wikipedia.org/wiki/泰國 "wikilink")[BamBam](../Page/BamBam.md "wikilink")組成，由JB擔任隊長。GOT7為JYP娛樂時隔6年再次推出的[男子團體](https://zh.wikipedia.org/wiki/男子團體 "wikilink")，是JYP娛樂的首支[嘻哈](../Page/嘻哈.md "wikilink")團體，由多國籍成員組成，擅長表演「」（又名「MAT」）。 martial arts tricking是以含有武術要素的動作為背景的華麗技術，將踢腿和旋轉動作與[B-boy](../Page/B-boy.md "wikilink")的舞蹈做巧妙結合的表演風格。2014年1月16日以《Girls Girls Girls》正式出道。
+**GOT7**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JYP娛樂](../Page/JYP娛樂.md "wikilink")於2014年推出的7人男子團體，由四名[韓國成員](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JB](../Page/林在範.md "wikilink")、[珍榮](../Page/朴珍榮.md "wikilink")、[榮宰](../Page/崔榮宰.md "wikilink")、[有謙](../Page/金有謙.md "wikilink")，及三名外籍成員，分別是[台裔美籍的](https://zh.wikipedia.org/wiki/台裔美籍 "wikilink")[Mark](../Page/段宜恩.md "wikilink")、[香港](../Page/香港.md "wikilink")的[Jackson](../Page/王嘉爾.md "wikilink")，以及[泰國的](https://zh.wikipedia.org/wiki/泰國 "wikilink")[BamBam](../Page/BamBam.md "wikilink")組成，由JB擔任隊長。GOT7為JYP娛樂時隔6年再次推出的[男子團體](https://zh.wikipedia.org/wiki/男子團體 "wikilink")，是JYP娛樂的首支[嘻哈](../Page/嘻哈.md "wikilink")團體，由多國籍成員組成，擅長表演「」（又名「MAT」）。 martial arts tricking是以含有武術要素的動作為背景的華麗技術，將踢腿和旋轉動作與[B-boy](../Page/B-boy.md "wikilink")的舞蹈做巧妙結合的表演風格。2014年1月16日以《Girls Girls Girls》正式出道。
 
 2017年3月6日，GOT7迷你三輯《Just Right》MV在Youtube觀看人次突破一億，成為K-POP第五個單一MV瀏覽量破億的男子團體\[1\]。
 
@@ -480,24 +480,24 @@ GOT7的寓意為「7個幸運的人聚集在一起直到永遠」，團體問候
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>6月17日- 現在</p></td>
+<td><p>6月17日- 8月2日</p></td>
 <td><p>STARK、U+ Idol Live</p></td>
 <td><p>GOT7 of Golden Key</p></td>
-<td></td>
+<td><p>27</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>7月1日- 現在</p></td>
+<td><p>7月1日- 8月31日</p></td>
 <td><p>Vlive、YouTube</p></td>
 <td><p>GOT2DAY 2019</p></td>
-<td></td>
+<td><p>5</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>7月31日- 現在</p></td>
+<td><p>7月31日- 8月30日</p></td>
 <td><p>Vlive、YouTube</p></td>
 <td><p>GOT7 TOURLOG</p></td>
-<td></td>
+<td><p>17</p></td>
 <td></td>
 </tr>
 </tbody>

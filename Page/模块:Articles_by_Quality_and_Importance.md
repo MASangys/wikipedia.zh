@@ -19,6 +19,11 @@ local classList = {
 `   {'cl', score = 5, enabled = false},`
 `   {'list', score = 3},`
 `   {'sl', score = 1, enabled = false},`
+`   {'sia', score = 2, enabled = false},`
+`   {'current', score = 2, enabled = false},`
+`   {'future', score = 2, enabled = false},`
+`   {'merge', score = 0, enabled = false},`
+`   {'needed', score = 0, enabled = false},`
 `   `
 `   {'category'},`
 `   {'disambig'},`
@@ -26,8 +31,10 @@ local classList = {
 `   {'file'},`
 `   {'portal'},`
 `   {'project'},`
+`   {'redirect'},`
 `   {'template'},`
 `   {'module'},`
+`   {'user'},`
 `   {'na'},`
 `   `
 `   {'unassessed', score = 0},`

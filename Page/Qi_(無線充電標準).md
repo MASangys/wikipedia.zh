@@ -67,18 +67,15 @@ Qi規格第一卷（低功率部份，5W以下）於2010年推出，目前已有
       - [Nexus 5](../Page/Nexus_5.md "wikilink")
       - [Nexus 7 (2013)](../Page/Nexus_7_\(2013\).md "wikilink")
       - [Nexus 6](../Page/Nexus_6.md "wikilink")
+      - [Google Pixel 3](https://zh.wikipedia.org/wiki/Google_Pixel_3 "wikilink")/[Google Pixel 3 XL](https://zh.wikipedia.org/wiki/Google_Pixel_3_XL "wikilink")
   - PHILIPS
       - [S8860](https://zh.wikipedia.org/wiki/S8860 "wikilink")
   - SAMSUNG
-      - [GALAXY NOTE 3](https://zh.wikipedia.org/wiki/Samsung_Galaxy_Note_III "wikilink")
-      - [GALAXY NOTE 4](https://zh.wikipedia.org/wiki/Samsung_Galaxy_Note_4 "wikilink")
       - [GALAXY NOTE 5](https://zh.wikipedia.org/wiki/Samsung_Galaxy_Note_5 "wikilink")
       - [GALAXY NOTE 7](https://zh.wikipedia.org/wiki/Samsung_Galaxy_Note_7 "wikilink")
       - [GALAXY NOTE 8](https://zh.wikipedia.org/wiki/Samsung_Galaxy_Note_8 "wikilink")
       - [GALAXY NOTE 9](https://zh.wikipedia.org/wiki/Samsung_Galaxy_Note_9 "wikilink")
-      - [GALAXY S3](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S_III "wikilink")
-      - [GALAXY S4](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S4 "wikilink")
-      - [GALAXY S5](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S5 "wikilink")
+      - [GALAXY NOTE 10](https://zh.wikipedia.org/wiki/Samsung_Galaxy_Note_10 "wikilink")
       - [GALAXY S6](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S6 "wikilink")/[S6 EDGE](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S6 "wikilink")
       - [GALAXY S7](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S7 "wikilink")/[S7 EDGE](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S7 "wikilink")
       - [GALAXY S8](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S8 "wikilink")/[S8 PLUS](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S8 "wikilink")
@@ -97,8 +94,8 @@ Sony
   - LG
 
       - [LG G3](../Page/LG_G3.md "wikilink")
-      - LG G6 PLUS
-      - LG G7
+      - [LG G6](../Page/LG_G6.md "wikilink") PLUS
+      - [LG G7](https://zh.wikipedia.org/wiki/LG_G7 "wikilink")
 
 ## 其他無線充電標準
 

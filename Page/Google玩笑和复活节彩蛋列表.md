@@ -59,7 +59,7 @@ Google曾在其产品与服务中制作与添加过诸多复活节彩蛋。
   - 搜索“\<city name\> pride”（自豪）显示许多有相同效果的城市名，如[London Pride](https://www.google.com/search?q=london+pride)（伦敦自豪），[Boston Pride](https://www.google.com/search?q=boston+pride)（波士顿自豪），[New York Pride](https://www.google.com/search?q=new+york+pride)（纽约自豪）。
   - [搜索“dreidel”](https://www.google.com/search?q=dreidel)或[搜索“menorah”](https://www.google.com/search?q=menorah)會在搜尋結果頁面左上角顯示一個[光明節陀螺](https://zh.wikipedia.org/wiki/dreidel "wikilink")，右上角顯示一個[猶太教燈臺](https://zh.wikipedia.org/wiki/猶太教燈臺 "wikilink")。
   - [搜索“marquee html”会使搜索结果页面的](https://zh.wikipedia.org/wiki/google:marquee+html "wikilink")“找到约 x 条结果 （用时 y 秒）”水平循环滚动，就像使用了marquee [HTML元素](../Page/HTML元素.md "wikilink")一般。
-  - [搜索“thanos”點擊電腦屏幕右方的無限手套](https://zh.wikipedia.org/wiki/google：thanos "wikilink")，會使一半的搜索結果消失，再點一下即可復原。
+  - [搜索“thanos”點擊電腦屏幕右方的無限手套](https://zh.wikipedia.org/wiki/google:thanos "wikilink")，會使一半的搜索結果消失，再點一下即可復原。
 
 ### Google 计算器
 
@@ -114,7 +114,7 @@ Google曾在其产品与服务中制作与添加过诸多复活节彩蛋。
   - 6.0 （Marshmallow，棉花糖)：同样隐藏了类似一个Flappy Bird的小游戏。
   - 7.0 （Nougat，牛轧糖）：隐藏了一个收集猫的小游戏。
   - 8.0 （Oreo，奥利奥）：隐藏了一只黑色章鱼。
-  - P （P，预览版本）：隐藏了色彩缤纷的英文字母P。
+  - 9.0 （Pie，派）：隐藏了色彩缤纷的英文字母P。
 
 Android Gingerbread.JPG|Gingerbread Android Honeycomb.JPG|Honeycomb Android Ice Cream Sandwich.JPG|Ice Cream Sandwich Android Jelly Bean.JPG|Jelly Bean Android KitKat.JPG|KitKat Android Lollipop.JPG|Lollipop Android Marshmallow.JPG|Marshmallow Android Nougat.JPG|Nougat Android Oreo.JPG|Oreo Android 9.0.jpg|P
 

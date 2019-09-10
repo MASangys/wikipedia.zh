@@ -1,4 +1,4 @@
-**Amazing Summer**是[香港](../Page/香港.md "wikilink")[無綫電視於](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")2012年首次推出的[夏季](../Page/夏季.md "wikilink")[暑期節目宣傳活動](https://zh.wikipedia.org/wiki/暑期 "wikilink")，接替以往暑期的[TVB兒童節](../Page/TVB兒童節.md "wikilink")。起初推出**Amazing Summer**是爲了抗衡競爭對手[有線電視的](../Page/香港有線電視.md "wikilink")[2012年倫敦奧運直播而加强地面频道的节目阵容](https://zh.wikipedia.org/wiki/2012年倫敦奧運 "wikilink")，其後該活動大受歡迎，并作为传统环节在每年暑期延续。
+**Amazing Summer**是[香港](../Page/香港.md "wikilink")[無綫電視由](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")2012年起推出的[暑期節目宣傳活動](https://zh.wikipedia.org/wiki/暑期 "wikilink")，接替以往暑期的[TVB兒童節](../Page/TVB兒童節.md "wikilink")。起初推出**Amazing Summer**是爲了抗衡競爭對手[有線電視的](../Page/香港有線電視.md "wikilink")[2012年倫敦奧運直播而加强地面频道的节目阵容](https://zh.wikipedia.org/wiki/2012年倫敦奧運 "wikilink")，其後該活動大受歡迎，并作为传统环节在每年暑期延续。
 
 此主題系列會推介豐富的[劇集](https://zh.wikipedia.org/wiki/劇集 "wikilink")、[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")、[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")、[綜藝及](../Page/綜藝節目.md "wikilink")[資訊節目予家庭觀眾](https://zh.wikipedia.org/wiki/資訊節目 "wikilink")，使他們足不出戶亦可渡過一個充實的暑假。参与该宣传活动的节目会在开始播映时在画面左上角闪现每年"Amazing Summer"的动画图案。
 
@@ -1531,7 +1531,7 @@
 | 類別                                                                                            | 節目名稱                                                 | 播放日期及時間             | 集數           | 備註  |
 | --------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ------------------- | ------------ | --- |
 | 首播自製劇集                                                                                        | [一屋老友記](../Page/一屋老友記.md "wikilink")                 | 6月27日起 逢星期一至日 21:30 | 31           |     |
-| [完美叛侶](../Page/完美叛侶.md "wikilink")                                                            | 7月4日起 逢星期一至五 20:30-21:30                             |                     |              |     |
+| [完美叛侶](../Page/完美叛侶.md "wikilink")                                                            | 7月4日起 逢星期一至五 20:30-21:30                             | 20                  |              |     |
 | [超能老豆](../Page/超能老豆.md "wikilink")                                                            | 8月1日起 逢星期一至五 20:30                                   | 20                  |              |     |
 | [城寨英雄](../Page/城寨英雄.md "wikilink")                                                            | 8月1日起 逢星期一至日 21:30                                   | 28                  |              |     |
 | 首播綜藝及資訊節目                                                                                     | [區區開伙](../Page/區區開伙.md "wikilink")                   | 6月11日起 逢星期六 20:30   | 12           |     |
@@ -1761,26 +1761,38 @@
 
 ### [翡翠台](../Page/翡翠台.md "wikilink")
 
-| 類別                                                            | 節目名稱                                          | 播放日期及時間               | 集數  | 備註      |
-| ------------------------------------------------------------- | --------------------------------------------- | --------------------- | --- | ------- |
-| 首播自製劇集                                                        | [好日子](../Page/好日子_\(無綫電視劇\).md "wikilink")    | 6月24日 起逢週一至五20:30     | 20  |         |
-| [十二傳說](../Page/十二傳說.md "wikilink")                            | 7月15日 逢星期一至五21:30                             | 25                    |     |         |
-| [包青天再起風雲](../Page/包青天再起風雲.md "wikilink")                      | 7月22日 逢星期一至五20:30                             | 30                    |     |         |
-| 首播綜藝及資訊節目                                                     | [娛樂大家](../Page/娛樂大家_\(無綫電視節目\).md "wikilink") | 6月30日 逢星期日21:30-22:30 | 4   | 3月17日首播 |
-| [識玩旅行團](../Page/識玩旅行團.md "wikilink")                          | 6月30日 逢星期日22:30-23:00                         | 3                     |     |         |
-| [懿想得到](../Page/懿想得到.md "wikilink")                            | 7月1日 逢星期一至五22:30                              | 10                    |     |         |
-| [街市遊樂團](../Page/街市遊樂團.md "wikilink")雙馬篇                       | 7月6日 逢星期六 20:00-20:30                         |                       |     |         |
-| [我的寵物](../Page/我的寵物.md "wikilink")                            | 7月15日 逢星期一至五22:30                             | 10                    |     |         |
-| [Do姐有問題](../Page/Do姐有問題.md "wikilink")                        | 7月21日 逢星期日20:30-21:30                         |                       | 第三輯 |         |
-| [荷蘭好玩](../Page/荷蘭好玩.md "wikilink")                            | 7月21日 逢星期日22:30-23:00                         | 6                     |     |         |
-| [輝哥為食遊II](https://zh.wikipedia.org/wiki/輝哥為食遊II "wikilink")   | 7月21日 逢星期日23:00-23:30                         |                       |     |         |
-| [玩轉獅門娛樂天地](https://zh.wikipedia.org/wiki/玩轉獅門娛樂天地 "wikilink") | 7月28日 逢星期日21:30-22:30                         |                       |     |         |
-| [打工捱世界III](https://zh.wikipedia.org/wiki/打工捱世界III "wikilink") | 7月29日 逢星期一至五22:30                             | 5                     |     |         |
-| [2019香港小姐競選 海外體驗](../Page/2019年度香港小姐競選.md "wikilink")         | 8月4日 逢星期日20:00-20:30                          | 2                     |     |         |
-| [Ben Sir睇樓團](../Page/Ben_Sir睇樓團.md "wikilink")                | 8月5日 逢星期一至五22:30                              | 10                    | 第三輯 |         |
-| [12個夏天](../Page/12個夏天.md "wikilink")                          | 8月19日 逢星期一至五22:30                             | 15                    |     |         |
-| [2019年度香港小姐競選](../Page/2019年度香港小姐競選.md "wikilink")            | 9月8日 星期日20:30-23:00                           | 1                     |     |         |
-|                                                               |                                               |                       |     |         |
+| 類別                                                                    | 節目名稱                                            | 播放日期及時間               | 集數  | 備註  |
+| --------------------------------------------------------------------- | ----------------------------------------------- | --------------------- | --- | --- |
+| 首播自製劇集                                                                | [十二傳說](../Page/十二傳說.md "wikilink")              | 7月15日 逢星期一至五 21:30    | 25  |     |
+| [包青天再起風雲](../Page/包青天再起風雲.md "wikilink")                              | 7月22日 逢星期一至五 20:30                              | 30                    |     |     |
+| [她她她的少女時代](../Page/她她她的少女時代.md "wikilink")                            | 8月19日 起逢週一至五 20:30                              | 20                    |     |     |
+|                                                                       |                                                 |                       |     |     |
+| 首播綜藝及資訊節目                                                             | [懿想得到](../Page/懿想得到.md "wikilink")              | 7月1日 逢星期一至五 22:30     | 10  |     |
+| [街市遊樂團](../Page/街市遊樂團.md "wikilink")雙馬篇                               | 7月6日 逢星期六 20:00-20:30                           |                       |     |     |
+| [我的寵物](../Page/我的寵物.md "wikilink")                                    | 7月15日 逢星期一至五 22:30                              | 10                    |     |     |
+| [Do姐有問題](../Page/Do姐有問題.md "wikilink")                                | 7月21日 逢星期日 20:30-21:30                          |                       | 第三輯 |     |
+| [荷蘭好玩](../Page/荷蘭好玩.md "wikilink")                                    | 7月21日 逢星期日22:30-23:00                           | 6                     |     |     |
+| [輝哥為食遊II](https://zh.wikipedia.org/wiki/輝哥為食遊II "wikilink")           | 7月21日 逢星期日23:00-23:30                           |                       |     |     |
+| [玩轉獅門娛樂天地](https://zh.wikipedia.org/wiki/玩轉獅門娛樂天地 "wikilink")         | 7月28日 逢星期日21:30-22:30                           | 2                     |     |     |
+| [打工捱世界III](https://zh.wikipedia.org/wiki/打工捱世界III "wikilink")         | 7月29日 逢星期一至五 22:30                              | 5                     |     |     |
+| [風味人間](https://zh.wikipedia.org/wiki/風味人間 "wikilink")                 | 8月3日 逢星期六 17:55-18:30                           |                       |     |     |
+| [流行經典50年](../Page/流行經典50年.md "wikilink")                              | 8月3日 逢星期六 20:30-21:30                           |                       |     |     |
+| [我的寵物夏日反斗嘉年華](https://zh.wikipedia.org/wiki/我的寵物夏日反斗嘉年華 "wikilink")   | 8月3日 逢星期六 21:30-22:30                           | 2                     |     |     |
+| [Ben Sir睇樓團](../Page/Ben_Sir睇樓團.md "wikilink")                        | 8月5日 逢星期一至五22:30                                | 10                    | 第三輯 |     |
+| [娛樂大家](../Page/娛樂大家_\(無綫電視節目\).md "wikilink")                         | 8月11日 逢星期日21:30-22:30                           |                       | 第二輯 |     |
+| [香港美食一條街](../Page/香港美食一條街.md "wikilink")                              | 8月17日 逢星期六 21:30-22:30                          |                       |     |     |
+| [12個夏天](../Page/12個夏天.md "wikilink")                                  | 8月19日 逢星期一至五 22:30                              | 15                    |     |     |
+| 香港小姐                                                                  | [香港小姐公爵特訓班](../Page/2019年度香港小姐競選.md "wikilink") | 8月4日 逢星期日 20:00-20:30 | 1   |     |
+| [香港小姐周遊好玩特訓班](../Page/2019年度香港小姐競選.md "wikilink")                     | 8月11日 逢星期日 20:00-20:30                          | 1                     |     |     |
+| [\#後生仔同港姐傾吓偈](https://zh.wikipedia.org/wiki/#後生仔同港姐傾吓偈 "wikilink")    | 9月1日 星期日 22:30-23:30                            | 2                     |     |     |
+| [香港小姐眾星列陣](https://zh.wikipedia.org/wiki/香港小姐眾星列陣 "wikilink")         | 9月8日 星期日 20:00-20:30                            | 1                     |     |     |
+| [2019年度香港小姐競選](../Page/2019年度香港小姐競選.md "wikilink")                    | 9月8日 星期日 20:30-22:30                            | 1                     |     |     |
+| [\#後生仔睇完港姐傾吓偈](https://zh.wikipedia.org/wiki/#後生仔睇完港姐傾吓偈 "wikilink")  | 9月8日 星期日 22:30-23:00                            | 1                     |     |     |
+| 首播外購動畫                                                                | [屁屁偵探](../Page/屁屁偵探.md "wikilink")              | 7月1日 逢星期一 17:20       | 26  | 第1季 |
+| [爆丸 星域爭霸](https://zh.wikipedia.org/wiki/爆丸_星域爭霸 "wikilink")           | 7月7日 逢星期日 16:00                                 | 50                    | 第1季 |     |
+| [花漾精靈](https://zh.wikipedia.org/wiki/花漾精靈 "wikilink")                 | 7月10日 逢星期二, 三 16:00                             | 50                    | 第2季 |     |
+| [閃電十一人 阿瑞斯的天秤](https://zh.wikipedia.org/wiki/閃電十一人_阿瑞斯的天秤 "wikilink") | 8月16日 逢星期四, 五 17:20                             | 26                    | 第5季 |     |
+|                                                                       |                                                 |                       |     |     |
 
 ### [J2](../Page/J2.md "wikilink")
 
@@ -1859,83 +1871,76 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/歐洲鐵騎遊" title="wikilink">歐洲鐵騎遊</a></p></td>
-<td><p>8月10日起 逢星期六20:30</p></td>
-<td><p>3</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/旅行記_-_台北以外" title="wikilink">旅行記 - 台北以外</a></p></td>
 <td><p>8月12日起 逢星期一19:00</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/出走地圖" title="wikilink">出走地圖</a></p></td>
-<td><p>8月31日起 逢星期六20:30</p></td>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/歐洲鐵騎遊" title="wikilink">歐洲鐵騎遊</a></p></td>
+<td><p>8月17日起 逢星期六20:30</p></td>
+<td><p>3</p></td>
 <td></td>
-<td><p>第二輯</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>首播外購動畫</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/進擊的巨人3" title="wikilink">進擊的巨人3</a></p></td>
 <td><p>7月20日起 逢星期六00:05</p></td>
 <td><p>10(#13-22)</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>首播外購動畫劇場版／特別篇</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/熱血自由式" title="wikilink">熱血自由式！友情接力</a></p></td>
 <td><p>7月21日 星期日00:05</p></td>
 <td><p>rowspan="4" </p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/熱血自由式" title="wikilink">熱血自由式！友情約定</a></p></td>
 <td><p>7月28日 星期日00:05</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/機動戰士鋼彈_THE_ORIGIN" title="wikilink">機動戰士高達THE ORIGIN V 激戰 魯姆會戰</a></p></td>
 <td><p>8月4日 星期日00:05</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/機動戰士鋼彈_THE_ORIGIN" title="wikilink">機動戰士高達THE ORIGIN VI 紅彗星的誕生</a></p></td>
 <td><p>8月11日 星期日00:00</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>首播外購劇集</p></td>
 <td><p><a href="../Page/皇后的品格.md" title="wikilink">皇后的品格</a></p></td>
 <td><p>6月24日起 逢星期一至五22:35</p></td>
 <td><p>34</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/馬成的喜悅.md" title="wikilink">愛情失咗憶</a></p></td>
 <td><p>8月9日起 逢星期一至五22:35</p></td>
 <td><p>22</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/我要準時下班.md" title="wikilink">我要準時放工！</a></p></td>
 <td><p>8月10日起 逢星期六22:35</p></td>
 <td><p>10</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/Heaven？.md" title="wikilink">餐廳天團</a></p></td>
 <td><p>8月11日起 逢星期日23:00</p></td>
 <td><p>10</p></td>

@@ -12,14 +12,18 @@
 
 此曲由一平靜的旋律開始，從第28小節開始轉為[升C小調](https://zh.wikipedia.org/wiki/升C小調 "wikilink")，旋律換到左手的低音部，較為厚重、具戲劇性，並且漸強至極強音，與開首形成強烈對比。於第76小節又轉回[降D大調](https://zh.wikipedia.org/wiki/降D大調 "wikilink")，開首旋律重新出現。重複的降A音（在中間段以升G音標記）一直貫穿全曲，但在第二部分該音顯得更為突出，亦使這部分更為陰沉。
 
+## 相關音樂
+
+  - [塔雷加](https://zh.wikipedia.org/wiki/塔雷加 "wikilink") - 改編作吉他獨奏（A大調）
+
 ## 參考
 
 ## 外部連結
 
   -
-  - [Prelude No. 15](http://www.youtube.com/watch?v=ZaUX-BAaiFQ) on YouTube, performed by [Martha Argerich](https://zh.wikipedia.org/wiki/Martha_Argerich "wikilink")
+  - [瑪爾塔·阿赫里奇的演奏](http://www.youtube.com/watch?v=ZaUX-BAaiFQ)（YouTube）
 
-  - [Prelude No. 15](http://www.youtube.com/watch?v=6gV9gUeFHIw) on YouTube, performed by [Valentina Igoshina](https://zh.wikipedia.org/wiki/Valentina_Igoshina "wikilink")
+  - [Valentina Igoshina的演奏](http://www.youtube.com/watch?v=6gV9gUeFHIw)（YouTube）
 
 [分類:蕭邦作品](https://zh.wikipedia.org/wiki/分類:蕭邦作品 "wikilink")
 

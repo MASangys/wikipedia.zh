@@ -1,6 +1,6 @@
 [Shek_Kip_Mei_Park_Sports_Centre.jpg](https://zh.wikipedia.org/wiki/File:Shek_Kip_Mei_Park_Sports_Centre.jpg "fig:Shek_Kip_Mei_Park_Sports_Centre.jpg")[體育館](https://zh.wikipedia.org/wiki/石硤尾公園體育館 "wikilink")\]\]
 
-《**仁心解碼II**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")拍攝製作的時裝懸疑[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，全劇共25集，監製[羅永賢](../Page/羅永賢.md "wikilink")。是由[方中信](../Page/方中信.md "wikilink")、[楊怡](../Page/楊怡.md "wikilink")及[蒙嘉慧](../Page/蒙嘉慧.md "wikilink")領銜主演，並由[黃智賢](../Page/黃智賢_\(香港\).md "wikilink")、[蕭正楠](../Page/蕭正楠.md "wikilink")、[陳茵媺](../Page/陳茵媺.md "wikilink")、[蔣志光](../Page/蔣志光.md "wikilink")、[陳國邦](../Page/陳國邦.md "wikilink")及[李亞男聯合主演](https://zh.wikipedia.org/wiki/李亞男 "wikilink")，監製[羅永賢](../Page/羅永賢.md "wikilink")。此劇為《[仁心解碼](../Page/仁心解碼.md "wikilink")》第二輯。
+《**仁心解碼II**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")拍攝製作的時裝懸疑[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，全劇共25集，監製[羅永賢](../Page/羅永賢.md "wikilink")。是由[謝天華](../Page/謝天華.md "wikilink")、[黃宗澤及](https://zh.wikipedia.org/wiki/黃宗澤 "wikilink")[張智霖](../Page/張智霖.md "wikilink")領銜主演，並由[劉松仁](../Page/劉松仁.md "wikilink")、[馬國明](https://zh.wikipedia.org/wiki/馬國明 "wikilink")、[吳卓羲](../Page/吳卓羲.md "wikilink")、[羅仲謙](../Page/羅仲謙.md "wikilink")、[李天翔](../Page/李天翔.md "wikilink")及[袁偉豪](../Page/袁偉豪.md "wikilink")聯合主演，監製[莊偉健](https://zh.wikipedia.org/wiki/莊偉健 "wikilink")。此劇為《[仁心解碼](../Page/仁心解碼.md "wikilink")》第二輯。
 
 ## 演員表
 
@@ -14,28 +14,26 @@
 <td><p><strong>暱稱／關係</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/張國強_(香港演員).md" title="wikilink">張國強</a></strong></p></td>
+<td><p><strong><a href="../Page/單立文.md" title="wikilink">單立文</a></strong></p></td>
 <td><p><strong>羅永鏗</strong></p></td>
 <td><p><strong>Henry</strong><br />
-院長，於第25集撤職<br />
-陳思家之表舅<br />
-收買杜慧敏陷害高立仁<br />
-於第25集因受賄引致妨礙司法公正，最後被捕</p></td>
+院長<br />
+陳思家之表舅</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/蔣志光.md" title="wikilink">蔣志光</a></strong></p></td>
+<td><p><strong><a href="../Page/劉松仁.md" title="wikilink">劉松仁</a></strong></p></td>
 <td><p><strong>連志森</strong></p></td>
 <td><p><strong>Sam、老森</strong><br />
-精神科私家醫生，於第25集成為院長<br />
+精神科私家醫生，於第25集成為副院長<br />
 參見<a href="https://zh.wikipedia.org/wiki/#瑞愛精神醫療中心" title="wikilink"><strong>瑞愛精神醫療中心</strong></a></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/方中信.md" title="wikilink">方中信</a></strong></p></td>
+<td><p><strong><a href="../Page/謝天華.md" title="wikilink">謝天華</a></strong></p></td>
 <td><p><strong>高立仁</strong></p></td>
 <td><p><strong>高醫生、大杏仁（潔心專用）</strong><br />
 法醫精神科顧問醫生<br />
 莫敏兒之夫<br />
-連志森、鍾國彬、林頌恩之好友<br />
+連志森、江永祥、林頌恩之好友<br />
 梁啟榮之上司兼好友<br />
 卓慧翹之同事，於第25集起為其夫<br />
 盧應奇、王世邦、陳思家、陸日勤、何年月之上司<br />
@@ -43,7 +41,7 @@
 羅永鏗之下屬</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/蒙嘉慧.md" title="wikilink">蒙嘉慧</a></strong></p></td>
+<td><p><strong><a href="../Page/陳法拉.md" title="wikilink">陳法拉</a></strong></p></td>
 <td><p><strong>卓慧翹</strong></p></td>
 <td><p><strong>Lois</strong><br />
 法醫精神科高級醫生→顧問醫生<br />
@@ -52,14 +50,14 @@ Franco前女友<br />
 盧應奇、梁启荣、王世邦、陳思家、陸日勤、何年月之上司</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/李成昌.md" title="wikilink">李成昌</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/黃宗澤" title="wikilink">黃宗澤</a></strong></p></td>
 <td><p><strong>盧應奇</strong></p></td>
 <td><p><strong>Jonthan</strong><br />
 法醫精神科高級醫生<br />
 高立仁、卓慧翹之下屬</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/蕭正楠.md" title="wikilink">蕭正楠</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/馬國明" title="wikilink">馬國明</a></strong></p></td>
 <td><p><strong>梁啟榮</strong></p></td>
 <td><p><strong>Jackson、哨牙仔、唧榮</strong><br />
 法醫精神科醫生<br />
@@ -70,7 +68,7 @@ Franco前女友<br />
 暗戀陳思家，於第14集起為男友，於第21集被发现一脚踏两船而分手</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/梁烈唯" title="wikilink">梁烈唯</a></strong></p></td>
+<td><p><strong><a href="../Page/吳卓羲.md" title="wikilink">吳卓羲</a></strong></p></td>
 <td><p><strong>王世邦</strong></p></td>
 <td><p><strong>Edgar</strong><br />
 精神科醫生<br />
@@ -81,7 +79,7 @@ Franco前女友<br />
 口頭禪「Holy」</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/苟芸慧.md" title="wikilink">苟芸慧</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/胡定欣" title="wikilink">胡定欣</a></strong></p></td>
 <td><p><strong>陳思家</strong></p></td>
 <td><p><strong>Scarlett</strong><br />
 精神科醫生<br />
@@ -98,10 +96,10 @@ Franco前女友<br />
 王世邦、梁啟榮之好友<br />
 高立仁、卓慧翹之下屬<br />
 賴瑤珠之男友，後分手<br />
-杜慧敏之男友，於第24集分手</p></td>
+杜慧敏之男友</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/陳國邦.md" title="wikilink">陳國邦</a></strong></p></td>
+<td><p><strong><a href="../Page/羅仲謙.md" title="wikilink">羅仲謙</a></strong></p></td>
 <td><p><strong>何年月</strong></p></td>
 <td><p><strong>Sunny</strong><br />
 精神科見習醫生<br />
@@ -116,39 +114,12 @@ Franco前女友<br />
 <td><p><strong>Katie</strong><br />
 護士<br />
 王世邦之暗戀對象<br />
-陸日勤之女友，於第24集分手<br />
-被羅永鏗收買，陷害高立仁</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/曾慧雲.md" title="wikilink">曾慧雲</a></p></td>
-<td><p>嫦</p></td>
-<td><p>護士長</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/蔡慧欣.md" title="wikilink">蔡慧欣</a></p></td>
-<td><p>劉兆兒</p></td>
-<td><p><strong>Angel</strong><br />
-護士</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/鍾鈺精" title="wikilink">鍾鈺精</a></p></td>
-<td><p>護　士</p></td>
-<td><p>（第2、15、22集）</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/謝卓言.md" title="wikilink">謝卓言</a></p></td>
-<td><p>男護士</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/陳欣淘" title="wikilink">陳欣淘</a></p></td>
-<td><p>羅永鏗之秘書</p></td>
-<td></td>
+陸日勤之女友</p></td>
 </tr>
 </tbody>
 </table>
 
-### 重案組
+### [警察公共關係科](../Page/警察公共關係科.md "wikilink")
 
 <table>
 <tbody>
@@ -158,62 +129,49 @@ Franco前女友<br />
 <td><p><strong>暱稱／關係</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/黃智賢" title="wikilink">黃智賢</a></strong></p></td>
-<td><p><strong>鍾國彬</strong></p></td>
-<td><p><strong>頭Sir</strong><br />
-<a href="../Page/高級督察.md" title="wikilink">高級督察</a><br />
+<td><p><strong><a href="../Page/張智霖.md" title="wikilink">張智霖</a></strong></p></td>
+<td><p><strong>江永祥</strong></p></td>
+<td><p><strong>江Sir</strong><br />
+<a href="../Page/高級警司.md" title="wikilink">高級警司</a><br />
 高立仁之好友<br />
 林頌恩之上司，並其男友<br />
-於第23集因追逐林颂恩而被車撞至重傷昏迷<br />
-於第25集林頌恩自杀后甦醒</p></td>
+謝振中之上司</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/冼愷晴" title="wikilink">冼愷晴</a>（童年）</p></td>
+<td><p><strong><a href="../Page/楊怡.md" title="wikilink">楊　怡</a></strong></p></td>
 <td><p><strong>林頌恩</strong></p></td>
-<td><p><strong>Apple、大頭恩</strong><br />
-原名<strong>蔣依琳</strong><br />
+<td><p>Apple、大頭恩<strong><br />
+原名</strong>蔣依琳<strong><br />
 <a href="../Page/毒品調查科.md" title="wikilink">毒品調查科</a>卧底（第1-7集）→<a href="../Page/警署警長.md" title="wikilink">警署警長</a>（第8-23集）→<a href="../Page/刑事紀錄科.md" title="wikilink">刑事紀錄科</a>人員（第23集起）<br />
-鍾國彬之下屬兼女友<br />
+江永祥之下屬兼女友<br />
+謝振中之下屬<br />
 高立仁之好友<br />
 患有<a href="https://zh.wikipedia.org/wiki/解離症" title="wikilink">解離性失憶症</a>（於第20集康復）、于第19集被绑架、反绑双手、布條封嘴、放血，導致<a href="https://zh.wikipedia.org/wiki/精神分裂" title="wikilink">精神分裂</a>（於第21集起）<br />
-參見<strong><a href="https://zh.wikipedia.org/wiki/#地下判官（第21集－第25集）" title="wikilink">地下判官（第21集－第25集）</a></strong></p></td>
+于第25集用枪自杀身亡<br />
+參見</strong><a href="https://zh.wikipedia.org/wiki/#地下判官（第21集－第25集）" title="wikilink">地下判官（第21集－第25集）</a>'''</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/莊錠欣.md" title="wikilink">莊錠欣</a>（少年）</p></td>
-<td></td>
-<td></td>
+<td><p><strong><a href="../Page/袁偉豪.md" title="wikilink">袁偉豪</a></strong></p></td>
+<td><p><strong>謝振中</strong></p></td>
+<td><p><strong>謝Sir</strong><br />
+江永祥之下屬<br />
+林頌恩之上司<br />
+<a href="https://zh.wikipedia.org/wiki/CIB" title="wikilink">CIB卧底</a>（第1-10集）→<a href="../Page/警署警長.md" title="wikilink">警署警長</a>（第10-20集）→<a href="../Page/見習督察.md" title="wikilink">見習督察</a>(第20集起）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/沈愛琳" title="wikilink">沈愛琳</a>（青年）</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong><a href="../Page/楊怡.md" title="wikilink">楊　怡</a></strong></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong><a href="../Page/歐瑞偉.md" title="wikilink">歐瑞偉</a></strong></p></td>
-<td><p><strong>謝振東</strong></p></td>
-<td><p><strong>老鬼</strong><br />
-警長<br />
-於鍾國彬昏迷時暫任主管（第23集起）</p></td>
-</tr>
-<tr class="even">
 <td><p><a href="../Page/謝東閔_(香港).md" title="wikilink">謝東閔</a></p></td>
 <td><p>蔣偉文</p></td>
 <td><p><strong>炮仗</strong><br />
 警員</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/林景程.md" title="wikilink">林景程</a></p></td>
 <td><p>李文杰</p></td>
 <td><p><strong>炸蜢</strong><br />
 警員</p></td>
 </tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/黃長興" title="wikilink">黃長興</a></p></td>
+<tr class="odd">
+<td><p><a href="../Page/翟威廉.md" title="wikilink">翟威廉</a></p></td>
 <td><p>孫偉豪</p></td>
 <td><p><strong>黑仔</strong><br />
 警員</p></td>
@@ -231,17 +189,17 @@ Franco前女友<br />
 <td><p><strong>暱稱／關係</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/蔣志光.md" title="wikilink">蔣志光</a></strong></p></td>
+<td><p><strong><a href="../Page/劉松仁.md" title="wikilink">劉松仁</a></strong></p></td>
 <td><p><strong>連志森</strong></p></td>
 <td><p><strong>Sam、老森</strong><br />
-精神科私家醫生，於第25集成為博安醫院院長<br />
+精神科私家醫生，於第25集成為博安醫院副院長<br />
 連曉彤之父<br />
 高立仁之好友<br />
 與唐嘉麗開設精神科診所<br />
 唐嘉麗之暗戀對象</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/李亞男" title="wikilink">李亞男</a></strong></p></td>
+<td><p><strong><a href="../Page/江美儀.md" title="wikilink">江美儀</a></strong></p></td>
 <td><p><strong>唐嘉麗</strong></p></td>
 <td><p><strong>Cara</strong><br />
 心理學家<br />
@@ -249,7 +207,7 @@ Franco前女友<br />
 暗戀連志森</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/陳茵媺.md" title="wikilink">陳茵媺</a></strong></p></td>
+<td><p><strong><a href="../Page/胡杏兒.md" title="wikilink">胡杏兒</a></strong></p></td>
 <td><p><strong>賴瑤珠</strong></p></td>
 <td><p><strong>Jade、瀨尿珠</strong><br />
 心理治療師<br />
@@ -257,19 +215,6 @@ Franco前女友<br />
 梁啟榮之好友，後為女友，於第25集結婚<br />
 賴瑤星之妹<br />
 陸日勤之女友，後分手</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/朱婉儀" title="wikilink">朱婉儀</a></p></td>
-<td><p>文曉晴</p></td>
-<td><p><strong>Mandy</strong><br />
-「瑞愛精神醫療中心」職員</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/陳亭嘉.md" title="wikilink">陳亭嘉</a></p></td>
-<td><p>余杏芝</p></td>
-<td><p><strong>Cindy</strong><br />
-「瑞愛精神醫療中心」職員<br />
-喜歡連志森，後因求愛不遂控告他非禮（第14集）</p></td>
 </tr>
 </tbody>
 </table>
@@ -286,7 +231,7 @@ Franco前女友<br />
 <td><p><strong>暱稱／關係</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/李家聲.md" title="wikilink">李家聲</a></p></td>
+<td><p><a href="../Page/鄧英敏.md" title="wikilink">鄧英敏</a></p></td>
 <td><p><strong>黎繼鵬</strong></p></td>
 <td><p>電訊推銷員、精神病康復者<br />
 黎太之夫<br />
@@ -327,7 +272,7 @@ Franco前女友<br />
 <td><p><strong>暱稱／關係</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/羅樂林.md" title="wikilink">羅樂林</a></p></td>
+<td><p><a href="../Page/古明華.md" title="wikilink">古明華</a></p></td>
 <td><p><strong>朱學禮</strong></p></td>
 <td><p>《地球毀滅論》作者<br />
 患有精神分裂症，醫治七年後康復<br />
@@ -335,7 +280,7 @@ Franco前女友<br />
 卓慧翹之大學哲學教授、病人</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/高鈞賢.md" title="wikilink">高鈞賢</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃長興" title="wikilink">黃長興</a></p></td>
 <td><p><strong>方世均</strong></p></td>
 <td><p><strong>天兄</strong><br />
 蓋亞教教主<br />
@@ -440,7 +385,7 @@ Franco前女友<br />
 <td><p><strong>暱稱／關係</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/黃子恒" title="wikilink">黃子恒</a></p></td>
+<td><p><a href="../Page/郭政鴻.md" title="wikilink">郭政鴻</a></p></td>
 <td><p><strong>司徒風</strong></p></td>
 <td><p><strong>宙斯</strong><br />
 歐文華、司徒慧之私生子<br />
@@ -468,7 +413,7 @@ Franco前女友<br />
 於第8集被梁玉鳳勒死</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/李霖恩.md" title="wikilink">李霖恩</a></p></td>
+<td><p><a href="../Page/何君誠.md" title="wikilink">何君誠</a></p></td>
 <td><p>歐子軒</p></td>
 <td><p>歐文華、梁玉鳳之子<br />
 找張大偉到瑞愛偷電腦病歷<br />
@@ -533,15 +478,14 @@ Franco前女友<br />
 <td><p><strong>暱稱／關係</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/劉江_(香港).md" title="wikilink">劉　江</a></p></td>
+<td><p><a href="../Page/鄧梓峰.md" title="wikilink">鄧梓峰</a></p></td>
 <td><p><strong>馬子安</strong></p></td>
 <td><p><strong>Father</strong><br />
 林頌恩、曹啟超、周國威、施傑文養父<br />
-為曹啟超頂罪<br />
-於第25集去世</p></td>
+為曹啟超頂罪</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/趙永洪.md" title="wikilink">趙永洪</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/周志文" title="wikilink">周志文</a></p></td>
 <td><p><strong>曹啟超</strong></p></td>
 <td><p><strong>大佬超</strong><br />
 孤兒、律師<br />
@@ -552,7 +496,7 @@ Franco前女友<br />
 於第14集墮樓拒救身亡</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/楊證樺.md" title="wikilink">楊證樺</a></p></td>
+<td><p><a href="../Page/郭田葰.md" title="wikilink">郭田葰</a></p></td>
 <td><p><strong>周國威</strong></p></td>
 <td><p><strong>車房威</strong><br />
 孤兒<br />
@@ -676,7 +620,7 @@ Franco前女友<br />
 參見<a href="https://zh.wikipedia.org/wiki/#地下判官（第21集－第25集）" title="wikilink">地下判官（第21集－第25集）</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/黃栢文.md" title="wikilink">黃栢文</a></p></td>
+<td><p><a href="../Page/魯振順.md" title="wikilink">魯振順</a></p></td>
 <td><p>郭誠凱</p></td>
 <td><p>冼鳳英之夫<br />
 郭倩瑩之父<br />
@@ -684,7 +628,7 @@ Franco前女友<br />
 於第15集被潘耀泉刺杀身亡</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/黃梓瑋" title="wikilink">黃梓瑋</a></p></td>
+<td><p><a href="../Page/黃梓瑋.md" title="wikilink">黃梓瑋</a></p></td>
 <td><p>冼鳳英</p></td>
 <td><p>郭誠凱之妻<br />
 郭倩瑩之母<br />
@@ -766,7 +710,7 @@ Franco前女友<br />
 <td><p><strong>暱稱／關係</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/蔣志光.md" title="wikilink">蔣志光</a></strong></p></td>
+<td><p><strong><a href="../Page/劉松仁.md" title="wikilink">劉松仁</a></strong></p></td>
 <td><p><strong>連志森</strong></p></td>
 <td><p><strong>Sam、老森</strong><br />
 精神科私家醫生<br />
@@ -963,10 +907,9 @@ Franco前女友<br />
 於第25集被捕</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/張國強_(香港演員).md" title="wikilink">張國強</a></strong></p></td>
+<td><p><strong><a href="../Page/單立文.md" title="wikilink">單立文</a></strong></p></td>
 <td><p><strong>羅永鏗</strong></p></td>
-<td><p>與盧子俊勾結<br />
-於第25集被林頌恩槍傷<br />
+<td><p>於第25集被林頌恩槍傷<br />
 參見<a href="https://zh.wikipedia.org/wiki/#博安醫院" title="wikilink"><strong>博安醫院</strong></a></p></td>
 </tr>
 <tr class="odd">

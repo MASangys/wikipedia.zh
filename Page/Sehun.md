@@ -49,6 +49,76 @@
 | 2017年 | A GO       | 《[EXOPLANET ＃4 - The EℓyXiOn -](../Page/EXOPLANET_＃4_-_The_EℓyXiOn_-.md "wikilink")》 |                                             |
 | 2018年 | We Young   | 《[STATION X 0](../Page/SM_STATION.md "wikilink")》                                    | 與[Chanyeol](../Page/Chanyeol.md "wikilink") |
 
+### 創作作品
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>年份</p></td>
+<td><p>日期</p></td>
+<td><p>歌曲名稱</p></td>
+<td><p>專輯名稱</p></td>
+<td><p>演唱藝人</p></td>
+<td><p>作曲</p></td>
+<td><p>填詞</p></td>
+</tr>
+<tr class="even">
+<td><p>2019</p></td>
+<td><p>7月22日</p></td>
+<td><p>What A Life</p></td>
+<td><p>《What A Life》</p></td>
+<td><p><a href="../Page/EXO-SC.md" title="wikilink">EXO-SC</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Just Us 2</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Closer To You</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Borderline</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Roller Coaster</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Daydreamin'</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ## 影視作品
 
   -

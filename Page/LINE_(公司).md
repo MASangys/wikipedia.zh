@@ -1,4 +1,4 @@
-**LINE Corporation**是[Naver集團設立於](../Page/Naver_\(公司\).md "wikilink")[日本](../Page/日本.md "wikilink")[東京的資訊服務公司](https://zh.wikipedia.org/wiki/東京 "wikilink")，以開發[LINE即時通訊軟體平台為主要業務](https://zh.wikipedia.org/wiki/LINE_\(應用程式\) "wikilink")，並圍繞LINE平台開發眾多服務，旗下擁有 [LINE FRIENDS](../Page/LINE家族.md "wikilink") 商店販售周邊商品。在台灣入主[一卡通票證公司](../Page/一卡通票證公司.md "wikilink")，也涉足電子金流業務。在日本全資經營[活力門公司](https://zh.wikipedia.org/wiki/活力門公司 "wikilink")，提供入口網站服務。
+**LINE Corporation**是[Naver集團設立於](../Page/Naver_\(公司\).md "wikilink")[日本](../Page/日本.md "wikilink")[東京的資訊服務公司](https://zh.wikipedia.org/wiki/東京 "wikilink")，主要業務為開發[LINE即時通訊軟體平台](https://zh.wikipedia.org/wiki/LINE_\(應用程式\) "wikilink")，並圍繞LINE平台開發眾多服務，旗下擁有 [LINE FRIENDS](../Page/LINE家族.md "wikilink") 商店販售周邊商品。在台灣入主[一卡通票證公司](../Page/一卡通票證公司.md "wikilink")，也涉足電子金流業務。在日本全資經營[活力門公司](https://zh.wikipedia.org/wiki/活力門公司 "wikilink")，提供入口網站服務。
 
 ## 沿革
 
@@ -119,7 +119,7 @@
 ### 台灣
 
   - 票證支付：一卡通票證公司 (最大股東)
-  - 網路銀行：LINE Financial 台灣 (主要股東為[台北富邦銀行](https://zh.wikipedia.org/wiki/台北富邦銀行 "wikilink")、同屬富邦集團之[台灣大哥大](../Page/台灣大哥大.md "wikilink")，外加[遠傳電信](../Page/遠傳電信.md "wikilink")、[中國信託商業銀行](../Page/中國信託商業銀行.md "wikilink")、[渣打國際商業銀行與](https://zh.wikipedia.org/wiki/渣打國際商業銀行 "wikilink")[聯邦銀行等合資](https://zh.wikipedia.org/wiki/聯邦銀行 "wikilink"))\[10\]
+  - 網路銀行：[LINE Financial 台灣](../Page/連線商業銀行.md "wikilink") (主要股東為[台北富邦銀行](https://zh.wikipedia.org/wiki/台北富邦銀行 "wikilink")、同屬富邦集團之[台灣大哥大](../Page/台灣大哥大.md "wikilink")，外加[遠傳電信](../Page/遠傳電信.md "wikilink")、[中國信託商業銀行](../Page/中國信託商業銀行.md "wikilink")、[渣打國際商業銀行與](https://zh.wikipedia.org/wiki/渣打國際商業銀行 "wikilink")[聯邦銀行等合資](https://zh.wikipedia.org/wiki/聯邦銀行 "wikilink"))\[10\]
 
 ### 印尼
 

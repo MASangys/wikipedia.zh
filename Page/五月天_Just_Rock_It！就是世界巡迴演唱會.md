@@ -47,7 +47,7 @@
   - 製作單位：[必應創造](../Page/必應創造.md "wikilink")、Seven Design Works
   - 必應創造製作總監：周佑洋（洋公）
   - 演唱會導演：丁度嵐（BABOO）
-  - 節目編排監督：黃士杰
+  - 節目編排監督：黃士-{杰}-
   - 視訊部工程師：邱煥升（邱董）
   - 音響師：曾我征彥
   - 舞台監督：林欣慧
@@ -734,7 +734,7 @@
 <td><p>2019年5月3日</p></td>
 <td><p>香港</p></td>
 <td><p><a href="../Page/香港迪士尼樂園.md" title="wikilink">香港迪士尼樂園</a>幻想道露天場地</p></td>
-<td><p>蕭秉治</p></td>
+<td><p><a href="../Page/蕭秉治.md" title="wikilink">蕭秉治</a></p></td>
 <td><p>「五月之約」第13年香港開唱</p></td>
 <td></td>
 </tr>
@@ -777,7 +777,9 @@
 <tr class="odd">
 <td><p>72</p></td>
 <td><p>2019年5月12日</p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/木曜4超玩" title="wikilink">木曜4超玩</a><br />
+一日系列第101集<br />
+一日五月天幕後工作人員</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -789,13 +791,13 @@
 <td><p>北京</p></td>
 <td><p>中國大陸</p></td>
 <td><p>北京國家體育場</p></td>
-<td><p>rowspan=3 </p></td>
+<td><p>白安</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>74</p></td>
 <td><p>2019年8月24日</p></td>
-<td></td>
+<td><p>家家</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -804,7 +806,7 @@
 <tr class="even">
 <td><p>75</p></td>
 <td><p>2019年8月25日</p></td>
-<td></td>
+<td><p>蕭秉治</p></td>
 <td></td>
 <td></td>
 <td></td>

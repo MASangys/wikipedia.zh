@@ -759,7 +759,7 @@
 | [NICONICO動畫](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink") | 2014年4月12日－6月28日                                              | 星期六 24時30分 更新                                         |                                                                                                               |                                                       |                                            |
 | [萬代頻道](../Page/萬代頻道.md "wikilink")                                | 2014年4月18日－                                                   | 星期四 24時00分 更新                                         |                                                                                                               |                                                       |                                            |
 
-### 动画Neta
+### 动画引用出處
 
   - 第2话12:42处空说出“异世界的秘密道具”时neta了《[哆啦A梦](https://zh.wikipedia.org/wiki/哆啦A梦 "wikilink")》。13:33处史蒂芙发出了《[JOJO的奇妙冒险](https://zh.wikipedia.org/wiki/JOJO的奇妙冒险 "wikilink")》中的[DIO的叫声](https://zh.wikipedia.org/wiki/DIO "wikilink")。预告部分neta了2010年6月E3游戏大展中，《全能之神 梅塔特隆的升天》的PV中主人公的一句经典死亡FLAG“这样的装备没问题吗”。
   - 第3话中裁判长neta《[逆转裁判](https://zh.wikipedia.org/wiki/逆转裁判 "wikilink")》，2:11处空喊出了《[逆转裁判](https://zh.wikipedia.org/wiki/逆转裁判 "wikilink")》系列名台词“異議あり”（我反对），同时响起的BGM为系列追求曲的变调。8:16处空说出了《[JOJO的奇妙冒险](https://zh.wikipedia.org/wiki/JOJO的奇妙冒险 "wikilink")》第四部角色[岸边露伴的名台词](https://zh.wikipedia.org/wiki/岸边露伴 "wikilink")“”（但是我拒绝），并且画风也变成JOJO画风。

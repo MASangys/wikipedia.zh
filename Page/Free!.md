@@ -1511,7 +1511,7 @@ WEB版預告映像</p></td>
 
 #### 製作人員
 
-  - 原作：「High☆Speed！」（[KA Esuma文庫](../Page/KA_Esuma文庫.md "wikilink")／[京都動畫](../Page/京都動畫.md "wikilink")）
+  - 原作：「High☆Speed\!」（[KA Esuma文庫](../Page/KA_Esuma文庫.md "wikilink")／[京都動畫](../Page/京都動畫.md "wikilink")）
   - 導演：[武本康弘](../Page/武本康弘.md "wikilink")
   - 構成：[横谷昌宏](https://zh.wikipedia.org/wiki/横谷昌宏 "wikilink")
   - 腳本：西岡麻衣子
@@ -1529,25 +1529,38 @@ WEB版預告映像</p></td>
 #### 主題曲
 
   - 「Aching Horns」
-    作詞：YORKE.，作曲：Ta_2，編曲：小山壽，主唱：[OLDCODEX](../Page/OLDCODEX.md "wikilink")
+    作詞：YORKE.；作曲：Ta_2，編曲；小山壽，主唱：[OLDCODEX](../Page/OLDCODEX.md "wikilink")
 
-### 劇場版 Free！ -Timeless Medley- 絆
+### 劇場版 Free\! -Timeless Medley- 絆
 
 2017年4月22日上映\[12\]。香港於2017年9月21日上映\[13\]。
 
 #### 主題曲
 
   - 「RISING FREE」\[14\]
-    作詞：[こだまさおり](https://zh.wikipedia.org/wiki/こだまさおり "wikilink") 作曲、編曲：
+    作詞：[こだまさおり](https://zh.wikipedia.org/wiki/こだまさおり "wikilink")；作曲、編曲：
     主唱：STYLE FIVE［七瀨遙（[島崎信長](../Page/島崎信長.md "wikilink")）、橘真琴（[鈴木達央](../Page/鈴木達央.md "wikilink")）、松岡凜（[宮野真守](../Page/宮野真守.md "wikilink")）、葉月渚（[代永翼](../Page/代永翼.md "wikilink")）、龍崎-{怜}-（[平川大輔](../Page/平川大輔.md "wikilink")）］
 
-### 劇場版 Free！ -Timeless Medley- 約束
+### 劇場版 Free\! -Timeless Medley- 約束
 
-2017年7月1日上映\[15\]。
+  -
+    2017年7月1日上映\[15\]。
 
-### 特別版 Free！ -Take Your Marks-
+### 特別版 Free\! -Take Your Marks-
 
-2017年10月28日上映\[16\]。台灣於2018年4月4日上映\[17\]。香港於2018年4月12日上映
+  -
+    2017年10月28日上映\[16\]。台灣於2018年4月4日上映\[17\]。香港於2018年4月12日上映
+
+### 劇場版 Free\! -Road to the World-夢
+
+  -
+    2019年7月5日上映\[18\]。台灣於2019年8月28日上映。\[19\]。
+
+#### 主題曲
+
+  - 「BRAVE DREAM」
+    作詞：[こだまさおり](https://zh.wikipedia.org/wiki/こだまさおり "wikilink")；作曲、編曲：渡邊泰司
+    主唱：STYLE FIVE［七瀨遙（[島崎信長](../Page/島崎信長.md "wikilink")）、橘真琴（[鈴木達央](../Page/鈴木達央.md "wikilink")）、松岡凜（[宮野真守](../Page/宮野真守.md "wikilink")）、葉月渚（[代永翼](../Page/代永翼.md "wikilink")）、龍崎-{怜}-（[平川大輔](../Page/平川大輔.md "wikilink")）］
 
 ## 参见
 
@@ -1615,6 +1628,10 @@ WEB版預告映像</p></td>
 14.
 
 15.
-16. [「Free！」系列](https://twitter.com/iwatobi_sc/status/843418371924221952)在[Twitter](../Page/Twitter.md "wikilink")的官方網站. 2017-03-19 \[2017-03-22\] （日語）.
+16. [「Free\!」系列](https://twitter.com/iwatobi_sc/status/843418371924221952)在[Twitter](../Page/Twitter.md "wikilink")的官方網站. 2017-03-19 \[2017-03-22\] （日語）.
 
 17.
+
+18.
+
+19.

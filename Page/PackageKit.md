@@ -30,12 +30,9 @@ PackageKit本身是一個稱做 `packagekitd` 的[守护进程](../Page/守护�
 
 許多不同的[软件包管理系统](../Page/软件包管理系统.md "wikilink")（稱為後端）支援多種不同的抽象方法及訊號供前端工具使用\[4\]。支援的後端包括了：
 
-  - [高级包装工具](https://zh.wikipedia.org/wiki/高级包装工具 "wikilink")
+  - [APT](../Page/APT.md "wikilink")
 
-  - [Arch Linux](../Page/Arch_Linux.md "wikilink")[軟體包管理系統](../Page/Pacman.md "wikilink")
-
-  - box
-
+  -
   - [Conary](../Page/Conary.md "wikilink")
 
   - [DNF](../Page/DNF_\(软件\).md "wikilink")
@@ -44,12 +41,14 @@ PackageKit本身是一個稱做 `packagekitd` 的[守护进程](../Page/守护�
 
   - [Opkg](../Page/Opkg.md "wikilink")
 
+  - [Pacman](../Page/Pacman.md "wikilink")
+
   -
   - [poldek](http://poldek.pld-linux.org/)
 
   - [Portage](../Page/Portage.md "wikilink")
 
-  - [razor](http://github.com/krh/razor/tree/master)
+  - [razor](https://github.com/krh/razor)
 
   - [Smart Package Manager](https://zh.wikipedia.org/wiki/Smart_Package_Manager "wikilink")
 

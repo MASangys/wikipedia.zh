@@ -39,7 +39,7 @@ local rv = {} function rv.main(frame)
 `   code=code.."* `[`"..article.."`](https://zh.wikipedia.org/wiki/"..article.." "wikilink")`"`
 `           .."（["..tostring(mw.uri.fullUrl(article,"action=edit")).." 編輯]"`
 `           .." · `[`討論`](https://zh.wikipedia.org/wiki/"..tostring\(mw.title.makeTitle\("",article\).talkPageTitle\).." "wikilink")`"`
-`           .." · ["..tostring(mw.uri.fullUrl("Special:Whatlinkshere/"..article,"limit=999")).." 鏈入]"`
+`           .." · ["..tostring(mw.uri.fullUrl("Special:Whatlinkshere/"..article)).." 鏈入]"`
 `           .." · ["..tostring(mw.uri.fullUrl(article,"action=history&hilight="..table.concat(ids,","))).." 歷史]"`
 `           .." · ["..tostring(mw.uri.fullUrl(article,"action=watch")).." 監視]"`
 `           .." · ["..tostring(mw.uri.fullUrl("Special:Log","page="..mw.uri.encode(article,"PATH"))).." 日志]）".."\n"`

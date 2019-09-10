@@ -1,14 +1,14 @@
-**Neko Jump**（**NEKO JUMP**, **ネコジャンプ**\[1\]、）是[泰國的双胞胎組合](https://zh.wikipedia.org/wiki/泰國 "wikilink")。2006年9月出道。2007年開始進行公演。
+**Neko Jump**（\[1\]、）是[泰國的双胞胎音乐組合](https://zh.wikipedia.org/wiki/泰國 "wikilink")。2006年9月出道。2007年開始進行公演。
 
 ## 成員
 
-  - **ヌーイ**（, 妹、本名：ワラッター・イムラーポン (), 1989年12月10日 - ）
-  - **ジャム**（, 姉、本名：チャラッター・イムラーポン (), 1989年12月10日 - ）
+  - **ヌーイ**（，妹、本名为 ()，）
+  - **ジャム**（，姐，本名为 ()，）
 
 ## 日本的活動
 
-  - 2007年3月4日…[GIRL SINGERS LIVE IN TOKYO 2007](http://www.sawadee-shop.com/sawadeemusic/rs2007concert.htmlRS) （[DUO MUSIC EXCHANGE](https://zh.wikipedia.org/wiki/Shibuya_O-East "wikilink")）
-  - 2008年3月15日…[GIRL SINGERS FESTIVAL 2008](http://www.sawadee-shop.com/sawadeemusic/rs2008concert.htmlRS)（原宿アストロホール）
+  - 2007年3月4日…RS GIRL SINGERS LIVE IN TOKYO 2007 （[DUO MUSIC EXCHANGE](https://zh.wikipedia.org/wiki/Shibuya_O-East "wikilink")）
+  - 2008年3月15日…RS GIRL SINGERS FESTIVAL 2008（原宿アストロホール）
   - 2008年5月26日…[湄公河](../Page/湄公河.md "wikilink")音樂祭前夜祭 （[Shibuya eggman](https://zh.wikipedia.org/wiki/Shibuya_eggman "wikilink")）
   - 2008年5月27日…湄公河川音樂祭（[神奈川縣立音樂堂](https://zh.wikipedia.org/wiki/神奈川縣立音樂堂 "wikilink")）
   - 2009年10月24日…STARCHILD PRESENTSキルミンずぅが来るみんずぅ（[秋葉原UDX](../Page/秋葉原UDX.md "wikilink")）
@@ -16,7 +16,7 @@
   - 2009年12月23日…[日本](../Page/日本.md "wikilink")CD出道
   - 2009年12月23日…日本出道單曲發售記念・トーク&迷你Live&握手会（HMV池袋メトロポリタンプラザ）
   - 2010年5月15日 - 16日… 第11回 タイ・フェスティバル2010 in 代々木公園
-  - 2010年8月1日…[THAI IDOL FESTIVAL 2010 -RS KAMIKAZE WAVE-](http://www.sawadee-shop.com/sawadeemusic/thaiidolfestival2010.html)（東京・渋谷 DUO MUSICEXCHANGE）
+  - 2010年8月1日…THAI IDOL FESTIVAL 2010 -RS KAMIKAZE WAVE-（東京・渋谷 DUO MUSICEXCHANGE）
   - 2010年11月13日… 大人まんがまつりGERU-C閣下 対 オタククロニクル 出演（[クラブチッタ川崎](https://zh.wikipedia.org/wiki/クラブチッタ川崎 "wikilink")）
   - 2011年8月6日… Thaiphoon ～タイフェア特別イベント～ UNICE（東京・代官山）
 

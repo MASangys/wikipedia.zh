@@ -62,13 +62,13 @@ HTC One的中国大陸版本于2013年4月末发行，[中国联通型号为HTC]
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>系統</p></td>
+<td><p>最高系統</p></td>
 <td><p>Android 5.0.2（Lollipop）</p></td>
 <td><p>Android 5.0.2（Lollipop）</p></td>
 <td><p>Android 4.4.2（KitKat）</p></td>
 </tr>
 <tr class="even">
-<td><p>介面</p></td>
+<td><p>最高版本的介面</p></td>
 <td><p><a href="../Page/HTC_Sense.md" title="wikilink">HTC Sense</a> 6、HTC BlinkFeed™ 首頁</p></td>
 <td></td>
 <td></td>

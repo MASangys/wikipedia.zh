@@ -1,4 +1,4 @@
-**ezgo** 是[中華民國](../Page/中華民國.md "wikilink")[教育部](../Page/教育部.md "wikilink")校園[自由軟體數位資源推廣服務中心為校園自由軟體推動](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")，邀集自由軟體社群、老師與學生志工合力製作的一套[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，並包含 [Linux](../Page/Linux.md "wikilink") 及 [Windows](https://zh.wikipedia.org/wiki/Windows "wikilink") 下的自由軟體收錄，藉由ezgo中的各種類別的自由軟體，包含辦公、美工、影音、網路、教育、遊戲......等，以培養學生資訊應用觀念以及以資訊科技 解決問題的能力，與透過自由軟體的推動，縮短數位落差，實現教育機會均等的理想，並推出各版本ezgo免費光碟以提供各縣市教育單位推廣及教學應用。\[1\]\[2\]
+**ezgo** 是[中華民國](../Page/中華民國.md "wikilink")[教育部校園](../Page/中華民國教育部.md "wikilink")[自由軟體數位資源推廣服務中心為校園自由軟體推動](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")，邀集自由軟體社群、老師與學生志工合力製作的一套[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，並包含 [Linux](../Page/Linux.md "wikilink") 及 [Windows](https://zh.wikipedia.org/wiki/Windows "wikilink") 下的自由軟體收錄，藉由ezgo中的各種類別的自由軟體，包含辦公、美工、影音、網路、教育、遊戲......等，以培養學生資訊應用觀念以及以資訊科技 解決問題的能力，與透過自由軟體的推動，縮短數位落差，實現教育機會均等的理想，並推出各版本ezgo免費光碟以提供各縣市教育單位推廣及教學應用。\[1\]\[2\]
 
 ezgo平均每年推出一新版本，早期版本名稱為EzGo，從 ezgo8 起採用全小寫的 ezgo，以示站在巨人肩膀上渺小的我們，對自由軟體巨人之敬意。\[3\]目前最新穩定版本為2018年7月推出的ezgo14，並於被[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[市政府](https://zh.wikipedia.org/wiki/市政府 "wikilink")[教育局採用為新北市](https://zh.wikipedia.org/wiki/教育局 "wikilink")[國中](https://zh.wikipedia.org/wiki/國中 "wikilink")[小學](https://zh.wikipedia.org/wiki/小學 "wikilink")102[學年採購一萬台](https://zh.wikipedia.org/wiki/學年 "wikilink")[電腦的指定](https://zh.wikipedia.org/wiki/電腦 "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")\[4\]。
 
@@ -55,7 +55,7 @@ ezgo 新版本發佈週期大約是一年一個版本。
 | ezgo11 | 2013年11月19日 | ezgo 11正式在台北發佈，同時首次增加64位元版本，並在重慶舉辦中國發佈會。                                                              |
 | ezgo12 | 2015年3月1日   | ezgo 12 正式版推出，有KDE版與Xfce版，也分為推廣版和基本版。                                                                 |
 | ezgo13 | 2017年1月1日   | ezgo13正式版推出，此版僅有64位元版本， 也分為推廣版和基本版。                                                                   |
-| ezgo14 | 2018年7月18日  | ezgo14正式版推出。                                                                                          |
+| ezgo14 | 2018年7月18日  | ezgo14正式版推出。2019年8月26日推出修正部份問題的14.1。                                                                  |
 |        |             |                                                                                                       |
 
 ## 參考文獻

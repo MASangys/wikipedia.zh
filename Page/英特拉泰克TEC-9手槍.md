@@ -1,22 +1,22 @@
-**英特拉泰克TEC-DC9（TEC-9）**是一枝由[喬治·凱爾格倫](https://zh.wikipedia.org/wiki/喬治·凱爾格倫 "wikilink")（）所設計、[英特拉泰克公司](https://zh.wikipedia.org/wiki/英特拉泰克公司 "wikilink")（）生產的[反沖作用操作半自動槍械](../Page/反沖作用_\(槍械\).md "wikilink")，發射[9×19毫米魯格](../Page/9×19mm魯格彈.md "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")，被[美國菸酒槍炮及爆裂物管理局](../Page/美國菸酒槍炮及爆裂物管理局.md "wikilink")（，簡稱：ATF）歸類為手槍。
+**英特拉泰克TEC-DC9（TEC-9）**是一款由所設計、所生產的[反沖作用操作半自動槍械](../Page/反沖作用_\(槍械\).md "wikilink")，發射[9×19毫米魯格](../Page/9×19mm魯格彈.md "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")，被[美國菸酒槍炮及爆裂物管理局](../Page/美國菸酒槍炮及爆裂物管理局.md "wikilink")（，簡稱：ATF）歸類為手槍。
 
-TEC-9由[瑞典國際動力公司](https://zh.wikipedia.org/wiki/瑞典國際動力公司 "wikilink")（）的美國分公司[英特拉泰克公司](https://zh.wikipedia.org/wiki/英特拉泰克公司 "wikilink")（）所設計的。TEC-9、TEC-DC9和AB-10三個型號都可被稱為TEC-9，雖然只有一個型號是根據該名稱向市場出售。
+TEC-9由[瑞典國際動力公司](https://zh.wikipedia.org/wiki/瑞典國際動力公司 "wikilink")（）的美國分公司英特拉泰克公司所設計的。TEC-9、TEC-DC9和AB-10三個型號都可被稱為TEC-9，雖然只有一個型號是根據該名稱向市場出售。
 
 TEC-9是由廉價的模塑成型[聚合物](../Page/聚合物.md "wikilink")和沖壓鋼部件所製成。供彈具為10、20、32、50發[彈匣](../Page/彈匣.md "wikilink")或是更大容量的72發[彈鼓](https://zh.wikipedia.org/wiki/彈鼓 "wikilink")。
 
 ## 概述
 
-瑞典斯德哥爾摩的[瑞典國際動力公司曾經設計過](https://zh.wikipedia.org/wiki/瑞典國際動力公司 "wikilink")[瑞典國際動力MP-9](https://zh.wikipedia.org/wiki/瑞典國際動力MP-9衝鋒槍 "wikilink") [9毫米](../Page/9×19mm魯格彈.md "wikilink")[口徑衝鋒槍](https://zh.wikipedia.org/wiki/口徑 "wikilink")。它本來是基於軍用型[卡爾·古斯塔夫M/45的一枝廉價型衝鋒槍](https://zh.wikipedia.org/wiki/卡爾·古斯塔夫M/45衝鋒槍 "wikilink")，並試圖作為取代它在軍事上的應用，可惜[瑞典國際動力公司並沒有找到任何一個政府買家](https://zh.wikipedia.org/wiki/瑞典國際動力公司 "wikilink")。加上瑞典槍械管理法律非常嚴格，因此它被帶到環境相對地寬鬆的美國市場，變成了[開放式槍栓](../Page/開放式槍栓.md "wikilink")半自動KG-9手槍。但是由於執法機關衝鋒槍市場早已經被[HK MP5冲锋枪系列所壟斷](../Page/HK_MP5冲锋枪.md "wikilink")，結果失去原來銷路的它卻流入[黑幫犯罪分子的手中](https://zh.wikipedia.org/wiki/黑幫 "wikilink")，並成為犯罪分子最喜歡的武器，例如在邁阿密的古巴和牙買加幫派所大量購買並且常常被轉換為全自動型。正因為如此，迫使瑞典國際動力重新設計成封閉式槍機系統，這是更難轉換為全自動。這種衍生型被稱為KG-99。它在1984年[电视剧](../Page/电视剧.md "wikilink")《[-{zh-cn:迈阿密风云; zh-hk:神探勇闖罪惡城; zh-tw:邁阿密天龍; zh-hant:邁阿密風雲; zh-mo:神探勇闖罪惡城;}-](../Page/邁阿密風雲.md "wikilink")》（）頻繁露面，而另一方面並可在法律上被[第二類製造商合法地轉換為全自動型](https://zh.wikipedia.org/wiki/第二類武器 "wikilink")。
+瑞典斯德哥爾摩的[瑞典國際動力公司曾經設計過](https://zh.wikipedia.org/wiki/瑞典國際動力公司 "wikilink")[瑞典國際動力MP-9](https://zh.wikipedia.org/wiki/瑞典國際動力MP-9衝鋒槍 "wikilink") [9毫米](../Page/9×19mm魯格彈.md "wikilink")[口徑衝鋒槍](https://zh.wikipedia.org/wiki/口徑 "wikilink")。它本來是基於軍用型[卡爾·古斯塔夫M/45的廉價型衝鋒槍](https://zh.wikipedia.org/wiki/卡爾·古斯塔夫M/45衝鋒槍 "wikilink")，並且試圖用以取代後者在軍事上的應用，可惜[瑞典國際動力公司並無找到任何一個政府買家](https://zh.wikipedia.org/wiki/瑞典國際動力公司 "wikilink")。加上瑞典槍械管理法律非常嚴格，因此它被帶到環境相對地寬鬆的美國市場，變成了[開放式槍栓](../Page/開放式槍栓.md "wikilink")半自動KG-9手槍。但是由於執法機關衝鋒槍市場早已經被[HK MP5冲锋枪系列所壟斷](../Page/HK_MP5冲锋枪.md "wikilink")，結果失去原來銷路的它卻流入[黑幫犯罪分子的手中](https://zh.wikipedia.org/wiki/黑幫 "wikilink")，並且成為犯罪分子最喜歡的武器，例如在邁阿密的古巴和牙買加幫派所大量購買並且常常被轉換為[全自動型](https://zh.wikipedia.org/wiki/自動火器 "wikilink")。正因為如此，迫使瑞典國際動力重新設計成封閉式槍機系統，使得它難以轉換為全自動型。這種衍生型被稱為KG-99。它在1984年[电视剧](../Page/电视剧.md "wikilink")《[-{zh-cn:迈阿密风云; zh-hk:神探勇闖罪惡城; zh-tw:邁阿密天龍; zh-hant:邁阿密風雲; zh-mo:神探勇闖罪惡城;}-](../Page/邁阿密風雲.md "wikilink")》（）頻繁露面，而另一方面亦可在法律上被[第二類製造商合法地轉換為全自動型](https://zh.wikipedia.org/wiki/第二類武器 "wikilink")。
 
 TEC-9在1985年至1990年間生產。
 
-但是，在[克利夫蘭學校大屠殺](https://zh.wikipedia.org/wiki/克利夫蘭學校大屠殺 "wikilink")（）後，TEC-9被[加利福尼亞州列入違禁武器列表之中](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")。為了規避這一點，[英特拉泰克公司從](https://zh.wikipedia.org/wiki/英特拉泰克公司 "wikilink")1990年至1994年之間將TEC-9重新命名為TEC-DC9（DC，全稱：**D**esigned for **C**alifornia，意為：專為美國加利福尼亞州）。TEC-9和以後的TEC-DC9之間最引人注目的外部的差異是環與從槍身左側轉移到槍身後部的一個可拆卸的沖壓金屬夾子。TEC-9和DC-9在其他方面是相同的。
+但是，在[克利夫蘭學校大屠殺](https://zh.wikipedia.org/wiki/克利夫蘭學校大屠殺 "wikilink")（）以後，TEC-9被[加利福尼亞州列入違禁武器列表之中](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")。為了規避這一點，從1990年至1994年之間將TEC-9重新命名為TEC-DC9（DC，全稱：**D**esigned for **C**alifornia，意為：專為美國加利福尼亞州）。TEC-9和以後的TEC-DC9之間最引人注目的外部的差異是環與從槍身左側轉移到槍身後部的一個可拆卸的沖壓金屬夾子。TEC-9和DC-9在其他方面相同。
 
-TEC-9和其衍生型TEC-DC9其後又被1994年[美国](../Page/美国.md "wikilink")通過了一條名為[聯邦突擊武器禁制法案](https://zh.wikipedia.org/wiki/聯邦突擊武器禁制法案 "wikilink")（，簡稱：AWB）的禁止攻擊武器條款（該條款現已在2004年9月過期）列為19枝違禁槍械的名字。這項禁令幾乎導致其生產停止，並迫使[英特拉泰克公司再推出一個新的型號](https://zh.wikipedia.org/wiki/英特拉泰克公司 "wikilink")，並命名為AB-10。AB-10可說是迷你TEC-9（）的無槍口螺紋版本，並使用被限制於10發的可拆卸式[彈匣](../Page/彈匣.md "wikilink")以取代過去型號所使用的20、32、50發可拆卸式[彈匣](../Page/彈匣.md "wikilink")。不過，它並可使用禁令以前的型號的[彈匣](../Page/彈匣.md "wikilink")。
+TEC-9和其衍生型TEC-DC9其後又被1994年[美国](../Page/美国.md "wikilink")通過了一條名為[聯邦突擊武器禁制法案](https://zh.wikipedia.org/wiki/聯邦突擊武器禁制法案 "wikilink")（，簡稱：AWB）的禁止攻擊武器條款（該條款現已在2004年9月過期）列為19枝違禁槍械的名字。這項禁令幾乎導致其生產停止，並且迫使英特拉泰克公司再推出一款新型號，並且命名為AB-10。AB-10可說是迷你TEC-9（）的無槍口螺紋版本，並且使用被限制於10發的可拆卸式[彈匣](../Page/彈匣.md "wikilink")以取代過去型號所使用的20、32、50發可拆卸式[彈匣](../Page/彈匣.md "wikilink")。不過，它亦可使用禁令以前的型號的[彈匣](../Page/彈匣.md "wikilink")。
 
 然而，在1993年[加利福尼亞街101](https://zh.wikipedia.org/wiki/加利福尼亞街101槍擊案 "wikilink")[槍擊案](https://zh.wikipedia.org/wiki/枪杀 "wikilink")\[1\]\[2\]和後來的1999年[科倫拜高中](../Page/科倫拜校園事件.md "wikilink")[校園槍擊案](https://zh.wikipedia.org/wiki/校園槍擊案 "wikilink")\[3\]\[4\]之中的主兇都使用TEC-9的衍生型犯案過後，這款武器演變成[槍枝暴力的爭論主題](https://zh.wikipedia.org/wiki/美國槍枝暴力問題 "wikilink")。這槍已經在1994年聯邦突擊武器禁制法案之中因其名稱而被禁制。\[5\]加利福尼亞州修訂1989年由[羅伯蒂·魯斯推行的](https://zh.wikipedia.org/wiki/羅伯蒂·魯斯 "wikilink")[攻擊性武器管制法](https://zh.wikipedia.org/wiki/攻擊性武器管制法 "wikilink")（，AWCA），在1999年以後、從2000年1月開始，禁止槍械上具有。\[6\]\[7\]
 
-在2001年，加州最高法院裁定，[英特拉泰克公司不需要為](https://zh.wikipedia.org/wiki/英特拉泰克公司 "wikilink")1993年加利福尼亞街101槍擊案承擔任何責任。\[8\]而在同年，該公司結束業務和AB-10的生產。\[9\]
+在2001年，加州最高法院裁定，英特拉泰克公司不需要為1993年加利福尼亞街101槍擊案承擔任何責任。\[8\]而在同年，該公司結束業務和AB-10的生產。\[9\]
 
 雖然仍然可以被發現在槍械市場上發現TEC-9和類似的衍生型槍械，但在幾個州被禁止，包括紐約州、紐澤西州、馬里蘭州與加利福尼亞州等。
 

@@ -1,4 +1,4 @@
-**Big Hit Entertainment**（）是一間韓國經紀娛樂公司。2005年由韓國知名音樂製作人兼作曲家Hitman Bang（本名：[房時爀](../Page/房時爀.md "wikilink")）於韓國創辦。公司主要從事音樂製作、專輯發行、演藝人員管理、宣傳、規劃、培养等相關活動。
+**Big Hit Entertainment**（）是一間韓國經紀娛樂公司。2005年由韓國知名音樂製作人兼作曲家Hitman Bang（本名：[房時爀](../Page/房時爀.md "wikilink")）於韓國創辦，主要從事音樂製作、專輯發行、演藝人員管理、宣傳、規劃、培养等相關活動。
 
 目前主要藝人有[李賢](../Page/李賢_\(韓國歌手\).md "wikilink")、[防彈少年團](../Page/防彈少年團.md "wikilink")、[TOMORROW X TOGETHER](../Page/TXT_\(組合\).md "wikilink")。
 
@@ -74,7 +74,7 @@
 
   - 孫承德\[19\]
 
-## 獨立品牌子公司
+## 子公司
 
   - [Source Music](../Page/Source_Music.md "wikilink")
 

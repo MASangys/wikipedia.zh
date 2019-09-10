@@ -1,4 +1,4 @@
-**約翰·W·坎貝爾**（John Wood Campbell）（1910年6月8日- 1971年7月11日）是美國[科幻小說](https://zh.wikipedia.org/wiki/科幻小說 "wikilink")[作家和編輯](https://zh.wikipedia.org/wiki/作家 "wikilink")。從1937年底直到他去世，約翰·W·坎貝爾為《驚人的科幻》（後來被稱為《[模擬科幻小說和事實](https://zh.wikipedia.org/wiki/模擬科幻小說和事實 "wikilink")》）主編，他塑造所謂的科幻小說黃金時代。
+**約翰·W·坎貝爾**（John Wood Campbell，）是美國[科幻小說](https://zh.wikipedia.org/wiki/科幻小說 "wikilink")[作家和編輯](https://zh.wikipedia.org/wiki/作家 "wikilink")。從1937年底直到他去世，約翰·W·坎貝爾為《驚人的科幻》（後來被稱為《[模擬科幻小說和事實](https://zh.wikipedia.org/wiki/模擬科幻小說和事實 "wikilink")》）主編，他塑造所謂的科幻小說黃金時代。
 
 [艾薩克·阿西莫夫稱坎貝爾為](https://zh.wikipedia.org/wiki/艾薩克·阿西莫夫 "wikilink")“有史以來最強大的科幻小說力量，他主編的第一個十年，完全佔主導該領域。”
 

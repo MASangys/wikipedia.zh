@@ -19,6 +19,7 @@
 <th><p><a href="../Page/無雙OROCHI_2.md" title="wikilink">2H</a></p></th>
 <th><p><a href="../Page/無雙OROCHI_2.md" title="wikilink">2U</a></p></th>
 <th><p><a href="../Page/無雙OROCHI_蛇魔_3.md" title="wikilink">3</a></p></th>
+<th><p><a href="../Page/無雙OROCHI_蛇魔_3.md" title="wikilink">3U</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -33,9 +34,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/曹操.md" title="wikilink">曹操</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -57,9 +60,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/許褚" title="wikilink">許褚</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -81,9 +86,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/張遼.md" title="wikilink">張遼</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -105,9 +112,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/張郃.md" title="wikilink">張郃</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -129,9 +138,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/曹仁.md" title="wikilink">曹仁</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -153,9 +164,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/龐德.md" title="wikilink">龐德</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -177,9 +190,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/賈詡" title="wikilink">賈詡</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -201,9 +216,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/王異.md" title="wikilink">王異</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -225,9 +242,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/李典.md" title="wikilink">李典</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -249,9 +268,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/荀彧.md" title="wikilink">荀彧</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -273,9 +294,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/滿寵.md" title="wikilink">滿寵</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -297,6 +320,7 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/周瑜.md" title="wikilink">周瑜</a></p></td>
@@ -309,9 +333,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/陸遜.md" title="wikilink">陸遜</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -333,9 +359,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/太史慈.md" title="wikilink">太史慈</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -357,9 +385,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/甘寧" title="wikilink">甘寧</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -381,9 +411,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/孫權" title="wikilink">孫權</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -405,9 +437,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/黄蓋" title="wikilink">黄蓋</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -429,9 +463,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/小喬" title="wikilink">小喬</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -453,9 +489,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/凌統.md" title="wikilink">凌統</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -477,9 +515,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/練師" title="wikilink">練師</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -501,9 +541,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/韓當.md" title="wikilink">韓當</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -525,9 +567,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/程普.md" title="wikilink">程普</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -549,6 +593,7 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/趙雲" title="wikilink">趙雲</a></p></td>
@@ -561,9 +606,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/關羽" title="wikilink">關羽</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -585,9 +632,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/諸葛亮" title="wikilink">諸葛亮</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -609,9 +658,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/馬超" title="wikilink">馬超</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -633,9 +684,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/姜維" title="wikilink">姜維</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -657,9 +710,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/龐統" title="wikilink">龐統</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -681,9 +736,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/關平.md" title="wikilink">關平</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -705,9 +762,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/馬岱.md" title="wikilink">馬岱</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -729,9 +788,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/鮑三娘" title="wikilink">鮑三娘</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -753,9 +814,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/徐庶.md" title="wikilink">徐庶</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -777,9 +840,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/張苞_(蜀漢).md" title="wikilink">張苞</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -801,9 +866,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/法正.md" title="wikilink">法正</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -825,9 +892,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/夏侯氏_(張飛妻).md" title="wikilink">夏侯姬</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -849,9 +918,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/司馬師.md" title="wikilink">司馬師</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -873,9 +944,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/王元姬.md" title="wikilink">王元姬</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -897,9 +970,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/諸葛誕.md" title="wikilink">諸葛誕</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -921,9 +996,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/鍾會.md" title="wikilink">鍾會</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -945,9 +1022,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/張春華.md" title="wikilink">張春華</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -969,9 +1048,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/文鴦.md" title="wikilink">文鴦</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -993,6 +1074,7 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/貂蟬" title="wikilink">貂蟬</a></p></td>
@@ -1005,9 +1087,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/呂布" title="wikilink">呂布</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1029,9 +1113,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/張角.md" title="wikilink">張角</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1053,9 +1139,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/孟獲.md" title="wikilink">孟獲</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1077,9 +1165,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/左慈.md" title="wikilink">左慈</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1101,9 +1191,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/呂玲綺" title="wikilink">呂玲綺</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1125,9 +1217,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/華雄" title="wikilink">華雄</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1149,6 +1243,7 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/八岐大蛇.md" title="wikilink">遠呂智</a></p></td>
@@ -1161,9 +1256,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/妲己.md" title="wikilink">妲己</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1185,9 +1282,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/伏羲.md" title="wikilink">伏羲</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1209,9 +1308,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/平清盛.md" title="wikilink">平清盛</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1233,9 +1334,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/孫悟空" title="wikilink">孫悟空</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1257,9 +1360,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/八岐大蛇.md" title="wikilink">真·遠呂智</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1281,9 +1386,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/弁慶" title="wikilink">弁慶</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1305,9 +1412,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/百百目鬼" title="wikilink">百百目鬼</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1329,9 +1438,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/素戔嗚" title="wikilink">素戔嗚</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1353,9 +1464,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/酒吞童子.md" title="wikilink">酒吞童子</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1377,9 +1490,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/生死格鬥系列#登場人物" title="wikilink">綾音</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1401,9 +1516,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/內枚亞" title="wikilink">內枚亞</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1425,9 +1542,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/安倍晴明.md" title="wikilink">安倍晴明</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1449,9 +1568,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/神農" title="wikilink">神農</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1473,9 +1594,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/玉藻前.md" title="wikilink">玉藻前</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1497,9 +1620,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/應龍.md" title="wikilink">應龍</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1521,9 +1646,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/渾沌" title="wikilink">渾沌</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1545,9 +1672,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/蘇菲提雅·亞歷山卓" title="wikilink">蘇菲提雅·亞歷山卓</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1569,9 +1698,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/蛟" title="wikilink">蛟</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1593,9 +1724,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/雅典娜.md" title="wikilink">雅典娜</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1617,9 +1750,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/阿瑞斯.md" title="wikilink">阿瑞斯</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1641,6 +1776,33 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/盖亚.md" title="wikilink">盖亚</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/神乐" title="wikilink">神乐</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/真田幸村" title="wikilink">真田幸村</a></p></td>
@@ -1653,9 +1815,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/前田慶次" title="wikilink">前田慶次</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1677,9 +1841,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/明智光秀.md" title="wikilink">明智光秀</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1701,9 +1867,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/阿市.md" title="wikilink">阿市</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1725,9 +1893,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/女忍者.md" title="wikilink">女忍者</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1749,9 +1919,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/武田信玄.md" title="wikilink">武田信玄</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1773,9 +1945,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/濃姬.md" title="wikilink">濃姬</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1797,9 +1971,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/森蘭丸.md" title="wikilink">森蘭丸</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1821,9 +1997,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/今川義元.md" title="wikilink">今川義元</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1845,9 +2023,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/稻姬" title="wikilink">稻姬</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1869,9 +2049,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/石田三成.md" title="wikilink">石田三成</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1893,9 +2075,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/島左近.md" title="wikilink">島左近</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1917,9 +2101,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/立花誾千代.md" title="wikilink">立花誾千代</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1941,9 +2127,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/寧寧" title="wikilink">寧寧</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1965,9 +2153,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/宮本武藏.md" title="wikilink">宮本武藏</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1989,9 +2179,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/長宗我部元親.md" title="wikilink">長宗我部元親</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2013,9 +2205,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/佐佐木小次郎.md" title="wikilink">佐佐木小次郎</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2037,6 +2231,7 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/石川五右衛門.md" title="wikilink">石川五右衛門</a></p></td>
@@ -2049,9 +2244,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/加藤清正.md" title="wikilink">加藤清正</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2073,9 +2270,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/立花宗茂.md" title="wikilink">立花宗茂</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2097,9 +2296,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/北條氏康.md" title="wikilink">北條氏康</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2121,9 +2322,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/毛利元就.md" title="wikilink">毛利元就</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2145,9 +2348,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/福島正則.md" title="wikilink">福島正則</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2169,9 +2374,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/井伊直虎.md" title="wikilink">井伊直虎</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2193,9 +2400,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/真田信之.md" title="wikilink">真田信之</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2217,9 +2426,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/松永久秀.md" title="wikilink">松永久秀</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2241,9 +2452,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/上杉景勝.md" title="wikilink">上杉景勝</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2265,9 +2478,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/小少將" title="wikilink">小少將</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2289,9 +2504,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/jp:早川殿" title="wikilink">早川殿</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2313,9 +2530,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/真田昌幸.md" title="wikilink">真田昌幸</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2337,9 +2556,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/猿飛佐助.md" title="wikilink">佐助</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2361,9 +2582,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/德川秀忠.md" title="wikilink">德川秀忠</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2385,6 +2608,7 @@
 <td><p>136</p></td>
 <td><p>145</p></td>
 <td><p>170</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>

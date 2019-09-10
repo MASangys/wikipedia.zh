@@ -17,27 +17,51 @@
 <tr class="header">
 <th><p>姓名</p></th>
 <th><p>英文名</p></th>
-<th><p>出生日期／出生地</p></th>
+<th><p>出生日期</p></th>
+<th><p>出生地</p></th>
+<th><p>代表作品</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/王俊凱" title="wikilink">王俊凱</a></p></td>
-<td><p>Karry Wang</p></td>
-<td><p><br />
-<a href="../Page/重庆市.md" title="wikilink">重庆市</a></p></td>
+<td><p>Karry Wang Jun Kai</p></td>
+<td></td>
+<td><p><a href="../Page/重庆市.md" title="wikilink">重庆市</a></p></td>
+<td><ul>
+<li><a href="https://zh.wikipedia.org/wiki/長城_(電影)" title="wikilink">長城</a></li>
+<li><a href="../Page/解憂雜貨店_(中國電影).md" title="wikilink">解憂雜貨店</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/天坑鷹獵" title="wikilink">天坑鷹獵</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/高能少年團" title="wikilink">高能少年團</a>（第一至二季）</li>
+<li><a href="https://zh.wikipedia.org/wiki/中餐廳" title="wikilink">中餐廳</a>（第二至三季）</li>
+</ul></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/王源_(藝人)" title="wikilink">王源</a></p></td>
 <td><p>Roy Wang</p></td>
-<td><p><br />
-<a href="../Page/重庆市.md" title="wikilink">重庆市</a></p></td>
+<td></td>
+<td><p><a href="../Page/重庆市.md" title="wikilink">重庆市</a></p></td>
+<td><ul>
+<li><a href="https://zh.wikipedia.org/wiki/因為遇見你" title="wikilink">因為遇見你</a></li>
+<li>十七</li>
+<li><a href="https://zh.wikipedia.org/wiki/爵跡" title="wikilink">爵跡</a></li>
+<li><a href="../Page/大主宰.md" title="wikilink">大主宰</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/王牌對王牌" title="wikilink">王牌對王牌</a>（第二至三季）</li>
+</ul></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/易烊千璽" title="wikilink">易烊千璽</a></p></td>
 <td><p>Jackson Yee</p></td>
-<td><p><br />
-<a href="../Page/湖南省.md" title="wikilink">湖南省</a><a href="../Page/怀化市.md" title="wikilink">怀化市</a></p></td>
+<td></td>
+<td><p><a href="../Page/湖南省.md" title="wikilink">湖南省</a><a href="../Page/怀化市.md" title="wikilink">怀化市</a></p></td>
+<td><ul>
+<li><a href="../Page/我樂意沉默釋放內心焰火.md" title="wikilink">我樂意沉默釋放內心焰火</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/長安十二時辰" title="wikilink">長安十二時辰</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/熱血傳奇艷勢番" title="wikilink">熱血傳奇艷勢番</a></li>
+<li><a href="../Page/少年的你.md" title="wikilink">少年的你</a></li>
+<li><a href="../Page/這就是街舞.md" title="wikilink">這就是街舞</a>（第一至二季）</li>
+<li><a href="../Page/大冰小將.md" title="wikilink">大冰小將</a></li>
+</ul></td>
 </tr>
 </tbody>
 </table>
@@ -181,85 +205,57 @@
 <th><p>日期</p></th>
 <th><p>地點</p></th>
 <th><p>直播平台</p></th>
-<th><p>2nd</p></th>
-<th><p>《TFBOYS Fan’s Time》</p></th>
-<th><p>2015年8月15日</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/北京" title="wikilink">北京萬事達中心</a></p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/愛奇藝" title="wikilink">愛奇藝</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
+<td><p>2nd</p></td>
+<td><p>《TFBOYS Fan’s Time》</p></td>
+<td><p>2015年8月15日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/北京" title="wikilink">北京萬事達中心</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/愛奇藝" title="wikilink">愛奇藝</a></p></td>
+</tr>
+<tr class="even">
 <td><p>3rd</p></td>
 <td><p>《三部曲》</p></td>
 <td><p>2016年8月6日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/北京" title="wikilink">北京樂視體育生態中心</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/騰訊視頻" title="wikilink">騰訊視頻</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2016年8月13日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/廣州" title="wikilink">廣州國際體育演藝中心</a></p></td>
 <td><p><a href="../Page/芒果TV.md" title="wikilink">芒果TV</a></p></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>4th</p></td>
 <td><p>《Alive Four》</p></td>
 <td><p>2017年8月11日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/南京" title="wikilink">南京奧體中心體育館</a></p></td>
 <td><p>無</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2017年8月13日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/騰訊視頻" title="wikilink">騰訊視頻</a></p></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>5th</p></td>
 <td><p>《1826+開始•想象》</p></td>
 <td><p>2018年8月24日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/北京工人體育場" title="wikilink">北京工人體育場</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/騰訊視頻" title="wikilink">騰訊視頻</a>、<a href="https://zh.wikipedia.org/wiki/QQ音樂" title="wikilink">QQ音樂</a>、<a href="https://zh.wikipedia.org/wiki/酷狗音樂" title="wikilink">酷狗音樂</a>、<a href="https://zh.wikipedia.org/wiki/酷我音樂" title="wikilink">酷我音樂</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>6th</p></td>
 <td><p>《告白 The Fever》</p></td>
 <td><p>2019年8月10日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/深圳" title="wikilink">深圳</a><a href="https://zh.wikipedia.org/wiki/寶安體育中心" title="wikilink">寶安體育中心</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/酷狗音樂" title="wikilink">酷狗音樂</a>,<a href="https://zh.wikipedia.org/wiki/酷狗直播" title="wikilink">酷狗直播</a>，<a href="https://zh.wikipedia.org/wiki/全民K歌" title="wikilink">全民K歌</a>,<a href="https://zh.wikipedia.org/wiki/QQ音樂" title="wikilink">QQ音樂</a>，<a href="https://zh.wikipedia.org/wiki/酷我音樂" title="wikilink">酷我音樂</a>,<a href="https://zh.wikipedia.org/wiki/騰訊音樂娛樂" title="wikilink">騰訊音樂娛樂</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 </tbody>
 </table>

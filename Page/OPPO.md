@@ -1,4 +1,4 @@
-[缩略图](https://zh.wikipedia.org/wiki/File:Oppo_R7_Plus_smartphone_\(26420357270\).jpg "fig:缩略图") [缩略图](https://zh.wikipedia.org/wiki/File:OPPO_N1_\(15059746038\).jpg "fig:缩略图") **廣東歐珀移動通信有限公司**，品牌名称**OPPO**，是[中國大陸电子设备及智能终端制造公司](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")，总部位于广东省东莞市，成立初期以生产MP3、MP4、DVD等影音播放设备为主，后进军手机市场，推出以快速充电及影像处理为主要卖点的拍照智能手机。\[1\]
+[缩略图](https://zh.wikipedia.org/wiki/File:Oppo_R7_Plus_smartphone_\(26420357270\).jpg "fig:缩略图") [缩略图](https://zh.wikipedia.org/wiki/File:OPPO_N1_\(15059746038\).jpg "fig:缩略图") **广东欧加控股有限公司**、**OPPO广东移动通信有限公司**，品牌名称**OPPO**，是[中國大陸电子设备及智能终端制造公司](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")，总部位于广东省东莞市，成立初期以生产MP3、MP4、DVD等影音播放设备为主，后进军手机市场，推出以快速充电及影像处理为主要卖点的拍照智能手机。\[1\]
 
 ## 发展历程
 
@@ -74,7 +74,7 @@ Find系列為OPPO的雙旗艦系列之一，“旗艦級”的規格著稱。從
 
 ### N系列
 
-N系列為OPPO的雙旗艦系列之一，以相機由可旋轉200度以上的旋轉鏡頭著称，從2013年发布的首支手機[N1開始](../Page/OPPO_N1.md "wikilink")，共出了[N1](../Page/OPPO_N1.md "wikilink")、N1 mini、N3三款手機。N3之後均暫無再推出續作。
+以相機由可旋轉200度以上的旋轉鏡頭著称的系列。從2013年发布的首支手機[N1開始](../Page/OPPO_N1.md "wikilink")，共出了[N1](../Page/OPPO_N1.md "wikilink")、N1 mini、N3三款手機。N3之後均暫無再推出續作。
 
 ### R系列
 

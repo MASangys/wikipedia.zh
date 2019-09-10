@@ -94,11 +94,20 @@ CZ蠍式EVO 3 A1採用了[聚合物](../Page/聚合物.md "wikilink")製成半�
       -
 ## 流行文化
 
-### [電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")
+CZ蠍式EVO 3 A1衝鋒槍及其衍生型自推出後亦出現在不少[电影](../Page/电影.md "wikilink")、[電視劇和](https://zh.wikipedia.org/wiki/電視劇 "wikilink")[电脑游戏](../Page/电脑游戏.md "wikilink")裡，例如：
+
+### 電影
+
+  - 2015年—《[-{zh-cn:海军陆战队员4：移动目标; zh-tw:海陸悍將4; zh-hk:怒火反擊4;}-](../Page/海陸悍將4.md "wikilink")》：首度在銀幕上出現，型號為Evo 3 A1，裝上和武器[戰術燈](../Page/戰術燈.md "wikilink")，被蕾切爾·道斯（Rachel Dawes，[桑瑪·蕾飾演](https://zh.wikipedia.org/wiki/桑瑪·蕾 "wikilink")）所使用。
+  - 2017年—《[-{zh-cn:美国刺客; zh-tw:美國刺客; zh-hk:美國特工; zh-sg:美国刺客;}-](../Page/美國刺客.md "wikilink")》：型號為Evo 3 A1，裝上，被一名恐怖分子所使用，該槍被解除武裝。
+  - 2018年—《[-{zh-cn:摩天营救; zh-tw:摩天大樓 (電影); zh-hk:高凶浩劫; zh-sg:摩天大楼 (电影);}-](https://zh.wikipedia.org/wiki/摩天大樓_\(電影\) "wikilink")》：型號為Evo 3 A1，被來自斯堪的納維亞的恐怖份子首腦寇瑞斯·波薩（Kores Botha，飾演）所使用。
+  - 2019年—《[-{zh-cn:速度与激情：特别行动;zh-hk:狂野時速：雙雄聯盟;zh-tw:玩命關頭：特別行動;zh-sg:玩命关头：特别行动;}-](../Page/玩命關頭：特別行動.md "wikilink")》：型號為Evo 3 A1，被路克·賀斯（Luke Hobbs，[巨石強森](../Page/巨石強森.md "wikilink")飾演）、狄卡·邵（Deckard Shaw，[傑森·史塔森](../Page/傑森·史塔森.md "wikilink")飾演）和俄羅斯女黑道M夫人（Madam M，[艾莎·岡薩雷](../Page/艾莎·岡薩雷.md "wikilink")飾演）所使用，後者將其稱為“蠍式EVO 3”。
+
+### 電視劇
 
   - 2013年—《[-{zh-hans:反击; zh-hk:絕地反擊; zh-tw:勇者逆襲;}-第三季](../Page/勇者逆襲_\(第三季\).md "wikilink")》（Strike Back: Shadow Warfare）：型號為Evo 3 S1，裝有Aimpoint Comp T-1紅點鏡，被金·馬丁內斯特別探員、菲利普·洛克中校和朱莉婭·里奇蒙中士所使用。
 
-### [电子游戏](../Page/电子游戏.md "wikilink")
+### 电子游戏
 
   - 2007年—《[穿越火线](../Page/穿越火线.md "wikilink")》（Crossfire）：于2017年11月9日更新后加入，命名为“EVO Ⅲ”，30发弹匣。无军衔限制，使用18000GP即可购买并永久使用。
   - 2009年—《[-{zh-cn:武裝突襲2; zh-tw:武裝行動2; zh-hk:武裝行動2;}-](../Page/武装突袭2.md "wikilink")》（ArmA II）：2010年6月29日獨立[资料片](https://zh.wikipedia.org/wiki/资料片 "wikilink")《武裝行動2：箭頭行動》（ArmA 2: Operation Arrowhead）的[追加下载内容](https://zh.wikipedia.org/wiki/追加下载内容 "wikilink")《武裝行動2：捷克武裝部隊》（ArmA 2: Army of the Czech Republic），命名為「SCORPION EVO 3」，黑色塗裝。

@@ -354,7 +354,8 @@ Kendy回港後，曾獲得《柏斯琴行原創歌曲大賽》的亞軍，並簽
   - 2015年：[楊千嬅](../Page/楊千嬅.md "wikilink") - 房間號碼（Kendy作曲）
   - 2017年：[馮允謙](../Page/馮允謙.md "wikilink") - 楓葉書籤（作詞）
   - 2017年：[泳兒](../Page/泳兒.md "wikilink") - 愛如雪（Kendy、黃安弘作曲）
-  - 2018年 : [黃紫藍](https://zh.wikipedia.org/wiki/黃紫藍 "wikilink") - 可惜只是男朋友 (Kendy、Cousin Fung作曲)
+  - 2018年：[黃紫藍](https://zh.wikipedia.org/wiki/黃紫藍 "wikilink") - 可惜只是男朋友（Kendy、Cousin Fung作曲）
+  - 2019年：[孫慧雪](../Page/孫慧雪.md "wikilink") - 幸福的錯覺（Robynn、鍾婉芸、佳旺作曲）
 
 ## 派台歌曲成績
 
@@ -1415,6 +1416,10 @@ Kendy回港後，曾獲得《柏斯琴行原創歌曲大賽》的亞軍，並簽
 <tr class="odd">
 <td><p>2019年8月9日</p></td>
 <td><p>灣仔會議展覽中心4樓 君爵廳 Chancellor Room《2019香港高級視聽展》</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年8月25日</p></td>
+<td><p>中環海濱活動空間《The Gaarden X 賞想文創節》</p></td>
 </tr>
 </tbody>
 </table>

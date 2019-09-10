@@ -2,7 +2,7 @@
 
 Docker利用[Linux核心中的資源分離機制](https://zh.wikipedia.org/wiki/Linux核心 "wikilink")，例如[cgroups](https://zh.wikipedia.org/wiki/cgroups "wikilink")，以及Linux核心（namespaces），來建立獨立的[容器](../Page/作業系統層虛擬化.md "wikilink")（containers）。這可以在單一Linux實體下運作，避免啟動一個[虛擬機器](../Page/虛擬機器.md "wikilink")造成的額外負擔\[2\]。Linux核心對命名空間的支援完全隔離了工作環境中應用程式的視野，包括行程樹、[網路](../Page/计算机网络.md "wikilink")、用户ID與掛載檔案系統，而核心的cgroup提供资源隔離，包括[CPU](https://zh.wikipedia.org/wiki/CPU "wikilink")、[記憶體](../Page/電腦記憶體.md "wikilink")、block I/O與網路。從0.9版本起，Dockers在使用抽象虛擬是經由[libvirt的](https://zh.wikipedia.org/wiki/libvirt "wikilink")[LXC](../Page/LXC.md "wikilink")與systemd - nspawn提供界面的基礎上，開始包括libcontainer函式庫做為以自己的方式開始直接使用由Linux核心提供的虛擬化的設施，
 
-依據行業分析公司「451研究」：「Dockers是有能力打包應用程式及其虛擬容器，可以在任何Linux伺服器上執行的依賴性工具，這有助於實現靈活性和便攜性，應用程式在任何地方都可以執行，無論是公有雲、私有雲、單機等。」 \[3\]。
+依據行業分析公司「451研究」：「Dockers是有能力打包應用程式及其虛擬容器，可以在任何Linux伺服器上執行的依賴性工具，這有助於實現靈活性和便攜性，應用程式在任何地方都可以執行，無論是[公用雲](https://zh.wikipedia.org/wiki/公用雲 "wikilink")、[私有雲](https://zh.wikipedia.org/wiki/私有雲 "wikilink")、單機等。」 \[3\]。
 
 ## 参考文献
 

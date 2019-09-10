@@ -1,4 +1,4 @@
-**Telstar**是由[Coleco在](https://zh.wikipedia.org/wiki/Coleco "wikilink")1976到1978年间生产的一系列[电子游戏机](https://zh.wikipedia.org/wiki/电子游戏机 "wikilink")。从1976年使用的[通用仪器的](https://zh.wikipedia.org/wiki/通用仪器 "wikilink")[AY-3-8500芯片的Telstar](https://zh.wikipedia.org/wiki/AY-3-8500 "wikilink")《[乓](../Page/乓.md "wikilink")》克隆机开始，一共有14款游戏机以Telstar品牌发行。Telstar总共销量100万\[1\]。
+**Telstar**是由[Coleco](../Page/Coleco.md "wikilink")在1976到1978年间生产的一系列[电子游戏机](https://zh.wikipedia.org/wiki/电子游戏机 "wikilink")。从1976年使用的[通用仪器的](https://zh.wikipedia.org/wiki/通用仪器 "wikilink")[AY-3-8500芯片的Telstar](https://zh.wikipedia.org/wiki/AY-3-8500 "wikilink")《[乓](../Page/乓.md "wikilink")》克隆机开始，一共有14款游戏机以Telstar品牌发行。Telstar总共销量100万\[1\]。
 
 ## 種類
 

@@ -14,6 +14,11 @@
 
 **Op. 55, No. 2**為[降E大調](https://zh.wikipedia.org/wiki/降E大調 "wikilink")，12/8拍，*lento sostenuto*（連綿的緩板）。全曲並無對比樂段，全曲低音部分以三連音作和，直至結尾時雙手同時彈出和弦。
 
+### 相關樂曲
+
+  - [聖桑](https://zh.wikipedia.org/wiki/聖桑 "wikilink") - 小提琴與鋼琴的改編曲
+  - [海飛茲](https://zh.wikipedia.org/wiki/海飛茲 "wikilink") - 小提琴與鋼琴的改編曲
+
 ## 參考
 
 ## 外部連結
@@ -21,6 +26,6 @@
   -
 [分類:蕭邦作品](https://zh.wikipedia.org/wiki/分類:蕭邦作品 "wikilink")
 
-1.  Allmusic \[\]
+1.  \[ Allmusic\]
 2.  <http://www.gutenberg.org/dirs/etext04/fkchc10.txt>
 3.  \[ Allmusic\]

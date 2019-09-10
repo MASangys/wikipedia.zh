@@ -21,16 +21,17 @@
   - 2016年8月12日，KEYEAST與SM娛樂正式簽訂合約，宣佈為了構建在多領域事業上的合作，雙方將以戰略夥伴關係開始廣泛合作，未來兩大公司將共用雙方的藝人、IP及其他資源，在電視劇、電影、MCN、大眾頻道等方面，進行廣泛地合作，提高作品的行業競爭力。同時SM日本子公司也表示，決定將向KEYEAST子公司DA投資近130億韓元。\[10\]
   - KEYEAST方面在2017年5月26日通过官方立场正式宣布子公司Content Y将于7月1日正式成立，[朴叙俊](https://zh.wikipedia.org/wiki/朴叙俊 "wikilink")、[韩智慧](https://zh.wikipedia.org/wiki/韩智慧 "wikilink")、[李玹雨](../Page/李玹雨.md "wikilink")、[李知勳等](https://zh.wikipedia.org/wiki/李知勳 "wikilink")10余名演员将转签至旗下。KEYEAST方面表示：“此次成立子公司是演艺经纪事业持续及发展战略的一环。”“公司将與演员保持更加紧密的关系，为持续扩张事业发展，建立Content Y艺人经纪新体系，在业界树立新的模式而给予积极支持。”除了转签至Content Y的演员，Content Y还计划签约更多实力演员，并发掘具有多方面才能的新人。\[11\]Content Y的代表由在KEYEAST负责总管management 13年的杨根煥代表担任。\[12\]
   - 2018年3月14日，[SM娛樂](../Page/SM娛樂.md "wikilink")收購Keyeast大股東兼最高戰略負責人(CSO)[裴勇浚](../Page/裴勇浚.md "wikilink")的股份，還包含子公司日本最大韓流放送Contents平台Digital Adventure（簡稱DA），同時[裴勇浚](../Page/裴勇浚.md "wikilink")也購入[SM娛樂](../Page/SM娛樂.md "wikilink")的新股，成為[SM娛樂](../Page/SM娛樂.md "wikilink")的主要股東之一。而5月14日收購程式結束，裴勇俊正式將其所持股份賣給[SM娛樂](../Page/SM娛樂.md "wikilink")。\[13\]
+  - 2019年6月，[Awesome娛樂](../Page/Awesome娛樂.md "wikilink")宣布收購KEYEAST旗下子公司CONTENT Y 100％股份，旗下演員將由Awesome娛樂管理\[14\]。
 
 ## KEYEAST旗下藝人
 
-男藝人
+**男藝人**
 
   - [朱智勳](https://zh.wikipedia.org/wiki/朱智勳 "wikilink")
   - [裴勇浚](../Page/裴勇浚.md "wikilink")
   - [崔權](../Page/崔權.md "wikilink")
   - [崔星俊](../Page/崔星俊.md "wikilink")
-  - [鄭智煥](https://zh.wikipedia.org/wiki/鄭智煥 "wikilink")
+  - 鄭智煥
   - [金東旭](../Page/金東旭.md "wikilink")
   - [金秀賢](../Page/金秀賢_\(男演員\).md "wikilink")
   - [金賢重](../Page/金賢重.md "wikilink")
@@ -38,10 +39,11 @@
   - [孫賢周](../Page/孫賢周.md "wikilink")
   - [禹棹奂](https://zh.wikipedia.org/wiki/禹棹奂 "wikilink")
   - [印喬鎮](../Page/印喬鎮.md "wikilink")
-  - [嚴泰雄](../Page/嚴泰雄.md "wikilink")
-  - [尹亨烈](https://zh.wikipedia.org/wiki/尹亨烈 "wikilink")
+  - 尹亨烈
+  - 申允燮
+  - 黃仁燁
 
-女藝人
+**女藝人**
 
   - 金時恩
   - 金惠仁
@@ -55,38 +57,9 @@
   - [趙宇麗](../Page/趙宇麗.md "wikilink")
   - 趙恩裕
   - [韓寶凜](../Page/韓寶凜.md "wikilink")
-  - [韓藝瑟](../Page/韓藝瑟.md "wikilink")
   - 洪智允
-
-## Content Y旗下藝人
-
-男藝人
-
-  - 白宰祐
-
-  -
-  - 洪勝範
-
-  - 金道煥
-
-  - 金智勳
-
-  - [李玹雨](../Page/李玹雨.md "wikilink")
-
-  - 李康敏
-
-女藝人
-
-  - 金藝智
-  - [韓智慧](../Page/韓智慧.md "wikilink")
-  - 徐孝凜
-  - [洪洙賢](../Page/洪洙賢.md "wikilink")
-  - 張多允
-  - 鄭慧隣
-  - 柳韓菲
-  - 申藝恩
-  - 崔智惠
-  - 楊慧智
+  - [朴河宣](../Page/朴河宣.md "wikilink")
+  - [鄭恩彩](../Page/鄭恩彩.md "wikilink")
 
 ## 離開公司的藝人
 
@@ -121,6 +94,36 @@
   - [安昭熙](../Page/安昭熙.md "wikilink")
   - [具荷拉](https://zh.wikipedia.org/wiki/具荷拉 "wikilink")
   - [嚴正化](../Page/嚴正化.md "wikilink")
+  - [嚴泰雄](../Page/嚴泰雄.md "wikilink")
+  - [韓藝瑟](../Page/韓藝瑟.md "wikilink")
+  - [金智勳](../Page/金智勳.md "wikilink")
+  - 李康敏
+  - [徐孝琳](../Page/徐孝琳.md "wikilink")
+  - 張多允
+  - 申藝恩
+  - 崔智惠
+  - [洪洙賢](../Page/洪洙賢.md "wikilink")
+
+**Content Y**\[15\]
+
+  - [金道烷](../Page/金道烷.md "wikilink")
+
+  - [李玹雨](../Page/李玹雨.md "wikilink")
+
+  - [韓智慧](../Page/韓智慧.md "wikilink")
+
+  -
+  - 洪勝範
+
+  - 楊慧智
+
+  - 鄭慧隣
+
+  - 金藝智
+
+  - 白宰祐
+
+  - 柳韓菲
 
 ## 影視投資或製作
 
@@ -144,12 +147,13 @@
   - 2017年：OCN《[Voice](../Page/Voice.md "wikilink")》
   - 2018年: JTBC 《[經常請吃飯的漂亮姐姐](../Page/經常請吃飯的漂亮姐姐.md "wikilink")》
   - 2018年：OCN《[Voice2](../Page/Voice2.md "wikilink")》
+  - 2020年：SBS《[Hyena](https://zh.wikipedia.org/wiki/Hyena "wikilink")》
 
 參與投資或製作的電影作品：
 
   - 2013年：《[美娜文具店](https://zh.wikipedia.org/wiki/美娜文具店 "wikilink")》(出品公司：Featured Entertainment，發行公司：Lotte Entertainment)
   - 2013年：《[偉大的隱藏者](../Page/偉大的隱藏者.md "wikilink")》(出品公司：MCMC，發行公司：Showbox/Mediaplex, Inc.)
-  - 2016年：《[特別搜查：囚犯的信](https://zh.wikipedia.org/wiki/特別搜查：囚犯的信 "wikilink")》(Content K 首部製作電影\[14\])
+  - 2016年：《[特別搜查：囚犯的信](https://zh.wikipedia.org/wiki/特別搜查：囚犯的信 "wikilink")》(Content K 首部製作電影\[16\])
 
 參與投資或製作的電視節目：
 
@@ -176,4 +180,6 @@
 11. [KEYEAST子公司成立 朴叙俊李玹雨等改签旗下](http://ent.sina.com.cn/s/j/2017-06-26/doc-ifyhmtek7777978.shtml)
 12. [\#朴叙俊\#\#韩智慧\#等从原所属公司KEYEAST迁移至其子公司Content Y](http://www.weibo.com/5641055499/F9A6OtP7w?refer_flag=1001030106_&type=repost#_rnd1498453097354)
 13. [裴勇俊把公司賣給了SM娛樂套現150億，金秀賢退伍後要成SM的人？](https://www.koreastardaily.com/tc/news/105486)
-14. [裴勇俊首次制作电影《从监狱来的信》](http://www.koreastardaily.com/sc/news/50948)
+14.
+15. 隨著公司被收購同時也離開公司。
+16. [裴勇俊首次制作电影《从监狱来的信》](http://www.koreastardaily.com/sc/news/50948)

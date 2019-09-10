@@ -26,7 +26,7 @@
 
 2017年7月，Xiumin與[NCT](../Page/NCT.md "wikilink")成員[Mark為](../Page/李敏亨.md "wikilink")[SM STATION第二季推出合唱歌曲](../Page/SM_STATION.md "wikilink")《Young & Free》\[7\]。8月，Xiumin成為綜藝節目《[被子外面很危險](../Page/被子外面很危險.md "wikilink")》試播的固定成員。\[8\]
 
-2019年5月4日，Xiumin於[首爾綜合運動場](../Page/首爾綜合運動場.md "wikilink")舉辦第一次個人見面會《Xiuweet Time》\[9\]。5月7日，Xiumin入伍，並於9日透過[SM STATION第三季發佈單曲](../Page/SM_STATION.md "wikilink")《理由（You）》\[10\]。
+2019年5月4日，Xiumin於[首爾綜合運動場](../Page/首爾綜合運動場.md "wikilink")舉辦第一次個人見面會《Xiuweet Time》\[9\]。5月7日，Xiumin入伍，並於9日透過[SM STATION第三季發佈單曲](../Page/SM_STATION.md "wikilink")《理由（You）》\[10\]。8月26日，韓國媒體報道Xiumin將與[SHINee](../Page/SHINee.md "wikilink")成員[溫流](../Page/溫流.md "wikilink")以及[尹智聖](../Page/尹智聖.md "wikilink")共同出演陸軍新推出的音樂劇《歸來：那日的約定》。該音樂劇是以發掘6.25戰爭中為了保衛國家甘願犧牲寶貴生命的戰鬥英雄們的遺骸為素材的作品，預計將於10月22日至12月1日在首爾奧林匹克公園友利藝術大廳進行公演\[11\]\[12\]。
 
 ## 音樂作品
 
@@ -75,10 +75,17 @@
 
 ### 電影
 
-|           |                                         |    |                                                                                                    |
-| --------- | --------------------------------------- | -- | -------------------------------------------------------------------------------------------------- |
-| 首映日期      | 電影名稱                                    | 角色 | 合作演員                                                                                               |
-| 2016年7月6日 | 《[鳳伊金先達](../Page/鳳伊_金先達.md "wikilink")》 | 堅兒 | [俞承豪](../Page/俞承豪.md "wikilink")、[高昌錫](../Page/高昌錫.md "wikilink")、[羅美蘭](../Page/羅美蘭.md "wikilink") |
+|           |                                          |    |                                                                                                    |
+| --------- | ---------------------------------------- | -- | -------------------------------------------------------------------------------------------------- |
+| 首映日期      | 電影名稱                                     | 角色 | 合作演員                                                                                               |
+| 2016年7月6日 | 《[鳳伊 金先達](../Page/鳳伊_金先達.md "wikilink")》 | 堅兒 | [俞承豪](../Page/俞承豪.md "wikilink")、[高昌錫](../Page/高昌錫.md "wikilink")、[羅美蘭](../Page/羅美蘭.md "wikilink") |
+
+### 專屬節目
+
+|      |            |                 |                       |    |
+| ---- | ---------- | --------------- | --------------------- | -- |
+| 年份   | 日期         | 電視台             | 節目名稱                  | 集數 |
+| 2019 | 3月25日－5月3日 | Naver TV、V LIVE | 《Heart 4 U - Xiumin篇》 | 18 |
 
 ### 固定出演
 
@@ -87,7 +94,7 @@
 | 年份   | 日期            | 電視臺                                                  | 節目名稱                                         | 備注                                                                                                                                                                                                                         |
 | 2016 | 4月18日－5月6日    | 網絡綜藝                                                 | 沒有經紀人的旅行                                     | 與[Chen](../Page/CHEN_\(EXO\).md "wikilink")                                                                                                                                                                                |
 | 2017 | 8月27日 - 9月10日 | MBC                                                  | [被子外面很危險](../Page/被子外面很危險.md "wikilink")（試播） | 與[龍俊亨](../Page/龍俊亨.md "wikilink")、[姜丹尼爾](../Page/姜丹尼爾.md "wikilink")([Wanna One](https://zh.wikipedia.org/wiki/Wanna_One "wikilink"))、[李尚禹](../Page/李尚禹.md "wikilink")、[朴宰正](https://zh.wikipedia.org/wiki/朴宰正 "wikilink") |
-| 2018 | 4月5日 - 7月12日  | [被子外面很危險](../Page/被子外面很危險.md "wikilink")（正式節目）\[11\] |                                              |                                                                                                                                                                                                                            |
+| 2018 | 4月5日 - 7月12日  | [被子外面很危險](../Page/被子外面很危險.md "wikilink")（正式節目）\[13\] |                                              |                                                                                                                                                                                                                            |
 
 ### 其他參與綜藝節目
 
@@ -247,7 +254,7 @@
 <td><p>3月15日</p></td>
 <td><p>tvN</p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/人生酒館" title="wikilink">人生酒館</a>》</p></td>
-<td><p>與<a href="../Page/沈昌珉.md" title="wikilink">昌珉</a>、<a href="https://zh.wikipedia.org/wiki/Mark_(1999年)" title="wikilink">Mark</a>[12]</p></td>
+<td><p>與<a href="../Page/沈昌珉.md" title="wikilink">昌珉</a>、<a href="https://zh.wikipedia.org/wiki/Mark_(1999年)" title="wikilink">Mark</a>[14]</p></td>
 </tr>
 <tr class="even">
 <td><p>2019</p></td>
@@ -298,13 +305,14 @@
 | ----- | ----------- | ------ | -- |
 | 年份    | 劇名          | 角色     | 性質 |
 | 2015年 | 《School OZ》 | Aquila | 主演 |
+| 2019年 | 《歸來：那日的約定》  |        |    |
 
 ### 配音旁白
 
 |           |             |                    |                                    |
 | --------- | ----------- | ------------------ | ---------------------------------- |
 | 日期        | 電視台         | 節目名稱               | 合作藝人                               |
-| 2017年4月3日 | Mountain TV | 《在天空中遇見大韓民國》\[13\] | [Suho](../Page/Suho.md "wikilink") |
+| 2017年4月3日 | Mountain TV | 《在天空中遇見大韓民國》\[15\] | [Suho](../Page/Suho.md "wikilink") |
 
 ## 其他作品
 
@@ -328,10 +336,10 @@
 | --------- | --------------- | ------------------------------------------- |
 | 期數        | 雜誌名稱            | 備註                                          |
 | 2013年12月刊 | The Celebrity   |                                             |
-| 2015年12月刊 | Singles         | 與[Baekhyun](../Page/伯賢.md "wikilink")\[14\] |
-| 2016年     | 1st Look No.144 | 與[俞承豪](../Page/俞承豪.md "wikilink")\[15\]     |
-| 2016年9月刊  | Vivi            | 日本雜誌\[16\]                                  |
-| 2017年1月刊  | GRAZIA          | 封面\[17\]                                    |
+| 2015年12月刊 | Singles         | 與[Baekhyun](../Page/伯賢.md "wikilink")\[16\] |
+| 2016年     | 1st Look No.144 | 與[俞承豪](../Page/俞承豪.md "wikilink")\[17\]     |
+| 2016年9月刊  | Vivi            | 日本雜誌\[18\]                                  |
+| 2017年1月刊  | GRAZIA          | 封面\[19\]                                    |
 | 2019年4月刊  | 時尚芭莎            |                                             |
 
 ## 個人見面會
@@ -368,7 +376,7 @@
 <td><p>Annual Soompi Awards</p></td>
 <td><p>最佳OST</p></td>
 <td><p>《For You》</p></td>
-<td><p>[18]</p></td>
+<td><p>[20]</p></td>
 </tr>
 </tbody>
 </table>
@@ -384,7 +392,7 @@
 <tr class="even">
 <td><p>2016年</p></td>
 <td><ul>
-<li>K-Pop一百張最帥面孔 第19名[19]</li>
+<li>K-Pop一百張最帥面孔 第19名[21]</li>
 </ul></td>
 </tr>
 </tbody>
@@ -416,3 +424,5 @@
 17.
 18.
 19.
+20.
+21.

@@ -1,4 +1,4 @@
-**DOTA2国际邀请赛**（，简称**TI**）是由[Dota 2](../Page/Dota_2.md "wikilink")[开发商](../Page/游戏开发者.md "wikilink")[维尔福公司](https://zh.wikipedia.org/wiki/Valve_Corporation "wikilink")（Valve）举行的[电子竞技](../Page/电子竞技.md "wikilink")[比赛](https://zh.wikipedia.org/wiki/比赛 "wikilink")，比赛将由十六个受邀请的队伍完成。这项赛事在2011年8月17日[科隆国际游戏展上首次进行](https://zh.wikipedia.org/wiki/科隆国际游戏展 "wikilink")，也是到今为止奖金額度最高的电子竞技比赛。
+**DOTA2国际邀请赛**（，简称**TI**）是由[Dota 2](../Page/Dota_2.md "wikilink")[开发商](../Page/游戏开发者.md "wikilink")[维尔福公司](https://zh.wikipedia.org/wiki/Valve_Corporation "wikilink")（Valve）举行的[电子竞技](../Page/电子竞技.md "wikilink")[比赛](https://zh.wikipedia.org/wiki/比赛 "wikilink")，比赛将由十六个受邀请的队伍完成。这项赛事在2011年5月25日[科隆国际游戏展上首次进行](https://zh.wikipedia.org/wiki/科隆国际游戏展 "wikilink")，也是到今为止奖金額度最高的电子竞技比赛。
 
 ## 赛事历史
 
@@ -316,27 +316,27 @@
 <td><p><strong>奖金额</strong></p></td>
 </tr>
 <tr class="even">
-<td><p>1st</p></td>
+<td><p>冠軍</p></td>
 <td><p></p></td>
 <td><p>$6,616,014</p></td>
 </tr>
 <tr class="odd">
-<td><p>2nd</p></td>
+<td><p>亞軍</p></td>
 <td><p>CDEC Gaming</p></td>
 <td><p>$2,848,562</p></td>
 </tr>
 <tr class="even">
-<td><p>3rd</p></td>
+<td><p>季軍</p></td>
 <td><p><a href="../Page/LGD电子竞技俱乐部.md" title="wikilink">LGD Gaming</a></p></td>
 <td><p>$2,205,338</p></td>
 </tr>
 <tr class="odd">
-<td><p>4th</p></td>
+<td><p>殿軍</p></td>
 <td><p></p></td>
 <td><p>$1,562,114</p></td>
 </tr>
 <tr class="even">
-<td><p>5/6th</p></td>
+<td><p>五、六名</p></td>
 <td><p>Virtus Pro</p></td>
 <td><p>$1,182,011</p></td>
 </tr>
@@ -346,7 +346,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>7/8th</p></td>
+<td><p>七、八名</p></td>
 <td><p>Team Secret</p></td>
 <td><p>$818,316</p></td>
 </tr>
@@ -356,7 +356,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>9-12th</p></td>
+<td><p>九至十二名</p></td>
 <td><p>compLexity Gaming</p></td>
 <td><p>$218,217</p></td>
 </tr>
@@ -376,7 +376,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>13-16th</p></td>
+<td><p>十三至十六名</p></td>
 <td><p><a href="../Page/Newbee电子竞技俱乐部.md" title="wikilink">Newbee电子竞技俱乐部</a></p></td>
 <td><p>$54,554</p></td>
 </tr>
@@ -574,7 +574,7 @@
 <td><p>$2,478,791</p></td>
 </tr>
 <tr class="even">
-<td><p>第四名</p></td>
+<td><p>殿軍</p></td>
 <td><p><a href="../Page/LGD电子竞技俱乐部.md" title="wikilink">LGD Gaming</a></p></td>
 <td><p>$1,735,154</p></td>
 </tr>
@@ -629,7 +629,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Infamous、</p></td>
+<td><p>Infamous</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -795,6 +795,115 @@ V社也首次要求各参赛队伍不得寻求运动博弈网站的赞助。根�
   - Fnatic
   - Team Liquid
   - Ninjas in Pyjamas
+
+賽事結果如下：
+
+<table>
+<thead>
+<tr class="header">
+<th><p>名次</p></th>
+<th><p>隊伍</p></th>
+<th><p>獎金額</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>冠軍</p></td>
+<td><p><a href="../Page/OG_(電子競技).md" title="wikilink">OG</a></p></td>
+<td><p>$15,609,462</p></td>
+</tr>
+<tr class="even">
+<td><p>亞軍</p></td>
+<td></td>
+<td><p>$4,459,846</p></td>
+</tr>
+<tr class="odd">
+<td><p>季軍</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/PSG.LGD" title="wikilink">PSG.LGD</a></p></td>
+<td><p>$3,087,586</p></td>
+</tr>
+<tr class="even">
+<td><p>殿軍</p></td>
+<td></td>
+<td><p>$2,058,391</p></td>
+</tr>
+<tr class="odd">
+<td><p>五、六名</p></td>
+<td></td>
+<td><p>$1,200,728</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>七、八名</p></td>
+<td><p>Infamous</p></td>
+<td><p>$857,663</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/Royal_Never_Give_Up" title="wikilink">Royal Never Give Up</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>九至十二名</p></td>
+<td><p>/ </p></td>
+<td><p>$686,130</p></td>
+</tr>
+<tr class="even">
+<td><p>/ <a href="https://zh.wikipedia.org/wiki/Newbee" title="wikilink">Newbee</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>TNC Predator</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>十三至十六名</p></td>
+<td></td>
+<td><p>$514,598</p></td>
+</tr>
+<tr class="even">
+<td><p>/<a href="../Page/Fnatic.md" title="wikilink">Fnatic</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Keen Gaming</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>十七、十八名</p></td>
+<td></td>
+<td><p>$85,766</p></td>
+</tr>
+<tr class="even">
+<td><p>/<a href="https://zh.wikipedia.org/wiki/Ninjas_in_Pyjamas" title="wikilink">Ninjas in Pyjamas</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 媒体报道
 

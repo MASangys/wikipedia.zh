@@ -2406,7 +2406,7 @@ A12-9720P[27][28]</p></td>
   - 核心面积: 210 mm²
   - [Socket AM4](../Page/Socket_AM4.md "wikilink")
   - [Zen微架构CPU核心](https://zh.wikipedia.org/wiki/Zen微架構 "wikilink")
-  - MMX, [SSE](../Page/SSE.md "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [SSSE3](../Page/SSSE3.md "wikilink"), [SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink"), [SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink"), [SSE4](../Page/SSE4.md "wikilink")a, [AMD64](../Page/X86-64.md "wikilink"), [AMD-V](../Page/X86虚拟化.md "wikilink"), [AES](https://zh.wikipedia.org/wiki/AES "wikilink"), [CLMUL](https://zh.wikipedia.org/wiki/CLMUL "wikilink"), [AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink"), [AVX 1.1](https://zh.wikipedia.org/wiki/AVX_1.1 "wikilink"), [AVX2](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink"), [FMA3](../Page/FMA指令集.md "wikilink"), F16C, ABM, BMI1, BMI2, [RdRand](../Page/RdRand.md "wikilink"), Turbo Core
+  - MMX, [SSE](../Page/SSE.md "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [SSSE3](../Page/SSSE3.md "wikilink"), [SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink"), [SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink"), [SSE4](../Page/SSE4.md "wikilink")a, [AMD64](../Page/X86-64.md "wikilink"), [AMD-V](../Page/X86虚拟化.md "wikilink"), [AES](https://zh.wikipedia.org/wiki/AES "wikilink"), [CLMUL](https://zh.wikipedia.org/wiki/CLMUL "wikilink"), [AVX](../Page/AVX指令集.md "wikilink"), [AVX 1.1](https://zh.wikipedia.org/wiki/AVX_1.1 "wikilink"), [AVX2](../Page/AVX指令集.md "wikilink"), [FMA3](../Page/FMA指令集.md "wikilink"), F16C, ABM, BMI1, BMI2, [RdRand](../Page/RdRand.md "wikilink"), Turbo Core
   - GPU基于第五代GCN
   - VCN 1.0
 

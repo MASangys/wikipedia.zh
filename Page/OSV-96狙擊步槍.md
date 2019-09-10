@@ -4,7 +4,7 @@
 
 ## 歷史
 
-OSV-96是由1990年代初[俄罗斯](../Page/俄罗斯.md "wikilink")[圖拉](../Page/圖拉_\(圖拉州\).md "wikilink")[KBP儀器設計廠研製的](../Page/俄联邦仪器设计局.md "wikilink")12.7毫米（.50英吋）V-94（）試作型反器材步槍改進而成，該槍是以1980年代[阿富汗戰爭經驗而研製的一種大口徑反器材狙擊步槍的原型](../Page/苏联－阿富汗战争.md "wikilink")。OSV-96除了用以出口以外，目前亦已經被[俄罗斯特种部队](../Page/俄罗斯特种部队.md "wikilink")和在[车臣的](../Page/车臣共和国.md "wikilink")[内務部部隊少量採用](https://zh.wikipedia.org/wiki/俄羅斯内務部 "wikilink")。
+OSV-96是由1990年代初[俄罗斯](../Page/俄罗斯.md "wikilink")[圖拉](../Page/圖拉_\(圖拉州\).md "wikilink")[KBP儀器設計廠研製的](../Page/俄联邦仪器设计局.md "wikilink")12.7毫米（.50英吋）V-94（）試作型反器材步槍改進而成，該槍是以1980年代[阿富汗戰爭經驗而研製的一種大口徑反器材狙擊步槍的原型](../Page/苏联－阿富汗战争.md "wikilink")。OSV-96除了用以出口以外，目前亦已經被[俄罗斯特种部队](../Page/俄罗斯特种部队.md "wikilink")和在[车臣的](../Page/车臣共和国.md "wikilink")[内務部部隊少量採用](../Page/俄罗斯联邦内务部.md "wikilink")。
 
 ## 設計細節
 
@@ -85,10 +85,10 @@ OSV-96可以在機匣[機匣左側的](https://zh.wikipedia.org/wiki/機匣 "wik
   - [巴雷特M82](../Page/巴雷特M82狙擊步槍.md "wikilink")
   - [巴雷特XM500](../Page/巴雷特XM500狙擊步槍.md "wikilink")
   - [巴雷特XM109](../Page/巴雷特XM109狙擊榴彈發射器.md "wikilink")
+  - [丹尼爾NTW-20](../Page/丹尼爾NTW-20反器材步槍.md "wikilink")
   - [Gepard](../Page/Gepard狙擊步槍.md "wikilink")
   - [Istiglal](../Page/Istiglal狙擊步槍.md "wikilink")
-  - [NTW-20](../Page/NTW-20.md "wikilink")
-  - [斯泰爾IWS2000](https://zh.wikipedia.org/wiki/斯泰爾IWS2000反坦克步槍 "wikilink")
+  - [斯泰爾IWS 2000](../Page/斯泰爾IWS_2000狙擊步槍.md "wikilink")
   - [PTRS-41](https://zh.wikipedia.org/wiki/PTRS-41反坦克步槍 "wikilink")
   - [Vidhwansak](https://zh.wikipedia.org/wiki/Vidhwansak反器材步槍 "wikilink")
   - [俄羅斯槍械列表](../Page/俄羅斯槍械列表.md "wikilink")

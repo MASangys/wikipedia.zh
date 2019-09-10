@@ -4,7 +4,7 @@
 
 劇中登場角色的姓名，多數源自歷代《假面騎士》系列登場人物，多半是將日語假名重新發音排列組合。
 
-**如月弦太朗（）**（[福士蒼汰](../Page/福士蒼汰.md "wikilink")、石川樹（童年期）飾／香港配音：[林筠翔](../Page/林筠翔.md "wikilink")、[陳琴雲](../Page/陳琴雲.md "wikilink")（童年期）／台灣配音：[鈕凱暘](../Page/鈕凱暘.md "wikilink")）
+**如月弦太朗（）**（[福士蒼汰](../Page/福士蒼汰.md "wikilink")、石川樹（童年期）飾／香港配音：[林筠翔](../Page/林筠翔.md "wikilink")、[陳琴雲](../Page/陳琴雲.md "wikilink")（童年期）／台灣配音：[鈕凱暘](../Page/鈕凱暘.md "wikilink")（本篇）、[蔣鐵城](../Page/蔣鐵城.md "wikilink")（春季電影版）、[宋昱璁](../Page/宋昱璁.md "wikilink")（平成世代FINAL））
 
   -
     **假面騎士Fourze**的變身者，轉學到天之川學園高中的學生。頂著飛機頭髮型並配短袍，看起來雖然像[不良少年](https://zh.wikipedia.org/wiki/Bad_Boy "wikilink")，但其實只有成績不好，而且本人擁有很強的正義感。「要和全校學生成為朋友」是本人一直努力的目標。
@@ -25,6 +25,7 @@
     最終話雖趕及「Rabbit Hutch」爆炸前逃離，但仍然未能接受賢吾消失這個事實。感到挫敗之際，城島讀出賢吾寫給假面騎士部眾人的書信，收到「對我望放下憎恨，助他從絕望中帶出光明」這給自己的訊息後再次振作。為阻止我望而作最後決戰，與部中眾人以畢業禮形式傳送心意，最後終於將其打敗並感化。
     事件後因書信會勾起傷痛回憶，打算丟掉時賢吾突然出現阻止，眼看這好友復活因而喜極而泣。最後向新生的**宇宙假面騎士部**宣言以「和宇宙人成為朋友！」為最大目的。
     於劇場版《[假面騎士×假面騎士 Wizard & Fourze MOVIE大戰Ultimatum](https://zh.wikipedia.org/wiki/假面騎士×假面騎士_Wizard_&_Fourze_MOVIE大戰Ultimatum "wikilink")》中，亦即是五年後擔任天之川學園高中教師及宇宙假面騎士部顧問教師。並於劇情中為了讓「怪人同盟」的那群學生返回正途而將腰帶拋進熔爐毀掉，之後因劇情關係回到過去時空為了拯救學生於是向過去的自己借腰帶救人，卻意外掉落與眾人的合照，因此成為過去的自己立志擔任教師的真正原因。
+    於假面騎士平成Generations FINAL Build & EX-AID with 傳說騎士再度登場。
     著名台詞為「宇宙來了！」（原文為「宇宙キター！」）和「來好好單挑一局吧！」（原文為「タイマンはらせてもらうぜ！」）。
 
 如月弦太朗與對方進行「友情之証」後，表示該角色已建立朋友關係
@@ -139,7 +140,7 @@
     於劇場版《[假面騎士×假面騎士 Wizard & Fourze MOVIE大戰Ultimatum](https://zh.wikipedia.org/wiki/假面騎士×假面騎士_Wizard_&_Fourze_MOVIE大戰Ultimatum "wikilink")》中，亦即是五年後任職國際刑警搜查員。
     在假面騎士部中以見習部員活躍（潛入）。第32話後光明正大地正式承認為真正的部員；最終話因回歸母校而離開。
 
-**風城美羽（）**（[坂田梨香子飾](https://zh.wikipedia.org/wiki/:ja:坂田梨香子 "wikilink")／香港配音：[羅孔柔](../Page/羅孔柔.md "wikilink")、[何寶珊](../Page/何寶珊.md "wikilink")（代配）／台灣配音：[穆宣名](../Page/穆宣名.md "wikilink")）
+**風城美羽（）**（飾／香港配音：[羅孔柔](../Page/羅孔柔.md "wikilink")、[何寶珊](../Page/何寶珊.md "wikilink")（代配）／台灣配音：[穆宣名](../Page/穆宣名.md "wikilink")）
 
   -
     學園裏[美式競技啦啦隊的隊長](../Page/競技啦啦隊.md "wikilink")，假面騎士部的部長。
@@ -162,7 +163,7 @@
     姓名源自於[假面騎士V3](../Page/假面騎士V3.md "wikilink")風見 志郎。
     【名字變化：“風城美羽”的發音Kazashiro Miu為“風見 志郎”的發音Kazami Shirou重組】
 
-**大文字隼（）**（[冨森Justin飾](https://zh.wikipedia.org/wiki/:ja:冨森ジャスティン "wikilink")／香港配音：[李鎮然](../Page/李鎮然.md "wikilink")／台灣配音：[徐偉翔](../Page/B.L..md "wikilink")）
+**大文字隼（）**（飾／香港配音：[李鎮然](../Page/李鎮然.md "wikilink")／台灣配音：[徐偉翔](../Page/B.L..md "wikilink")）
 
   -
     學園裏[美式橄欖球校隊的隊長](../Page/美式足球.md "wikilink")。
@@ -206,7 +207,7 @@
     姓名源自於[假面騎士亞馬遜](../Page/假面騎士AMAZON.md "wikilink")。
     【名字變化：“野座間”的發音Nozama為亞馬遜的英文“Amazon”字母倒過來；“友子”名字源自重視友情的亞馬遜常說的台詞「亞馬遜、朋友（原文為「アマゾン、トモダチ」）」而得來】
 
-**JK（）**（[土屋シオン](https://zh.wikipedia.org/wiki/:ja:土屋シオン "wikilink")、關根航（童年期）飾／香港配音：[鄧港文](../Page/鄧港文.md "wikilink")／台灣配音：待查）
+**JK（）**（、關根航（童年期）飾／香港配音：[鄧港文](../Page/鄧港文.md "wikilink")／台灣配音：待查）
 
   -
     本名神宮海藏（），[腹黑的輕浮男](https://zh.wikipedia.org/wiki/腹黑 "wikilink")，為學園裡的「情報通」（日語為情報屋，泛指掌握了事件發生緣由與經過等相關資訊，並藉由販賣這些資訊來賺取報酬的人)
@@ -227,7 +228,7 @@
     姓名源自於[假面騎士X](../Page/假面騎士X.md "wikilink")的主角神敬介。
     【名字變化：“JK”兩個字母為取自“神 敬介”的發音Jin Kesuke之首字母】
 
-**大杉忠太（）**（[田中卓志飾](https://zh.wikipedia.org/wiki/:ja:田中卓志 "wikilink")／香港配音：[蕭徽勇](../Page/蕭徽勇.md "wikilink")／台灣配音：[李勇](https://zh.wikipedia.org/wiki/李勇 "wikilink")）
+**大杉忠太（）**（飾／香港配音：[蕭徽勇](../Page/蕭徽勇.md "wikilink")／台灣配音：[李勇](https://zh.wikipedia.org/wiki/李勇 "wikilink")）
 
   -
     天之川學園高中的教師。教授的科目是[地理](https://zh.wikipedia.org/wiki/地理 "wikilink")。第30話起成為假面騎士部的顧問教師。
@@ -242,7 +243,7 @@
     第33話透露自己在高中時代分組永遠都是一個人的。
     劇場版《假面騎士Fourze THE MOVIE 大家的宇宙來了\!》中為救弦太朗而幫助去啟動No.32 Freeze Switch。
 
-**黑木蘭（）**（[ほのかりん飾](https://zh.wikipedia.org/wiki/:ja:ほのかりん "wikilink")／香港配音：[何寶珊](../Page/何寶珊.md "wikilink")）
+**黑木蘭（）**（飾／香港配音：[何寶珊](../Page/何寶珊.md "wikilink")）
 
   -
     第29話登場，1年級新生，亦是合氣道高手，其力量能輕易擊倒弦太朗(不論變身成Fourze與否)。
@@ -489,7 +490,7 @@
 
 ## OSTO（外宇宙技術開發機構）
 
-**歌星綠郎（）** （[風間トオル飾](https://zh.wikipedia.org/wiki/:ja:風間トオル "wikilink")、第1話CV：[勇吹輝](https://zh.wikipedia.org/wiki/:ja:勇吹輝 "wikilink")\[14\]／香港配音：[陳欣](https://zh.wikipedia.org/wiki/陳欣 "wikilink")）
+**歌星綠郎（）** （飾、第1話CV：\[14\]／香港配音：[陳欣](https://zh.wikipedia.org/wiki/陳欣 "wikilink")）
 
   -
     歌星賢吾的父親，於十七年前的月面基地爆炸事件中身歿。
@@ -497,12 +498,12 @@
     開發最主要目的是以安全的方法實現穿越至宇宙意志體「Presenter」身處之地，但研究花費時間長，與我望所主張急速令人類肉體強制進化而成為Zodiarts的理念有所分岐。
     直至一天核心裝置自行誕生出嬰孩，發現後把這孩子取名為賢吾並隱瞞著我望。
 
-**我望光明（）** （[鶴見辰吾飾](https://zh.wikipedia.org/wiki/:ja:鶴見辰吾 "wikilink")）
+**我望光明（）** （[鶴見辰吾飾](https://zh.wikipedia.org/wiki/鶴見辰吾 "wikilink")）
 
   -
     詳見「[Horoscope](https://zh.wikipedia.org/wiki/假面騎士Fourze角色列表#Horoscope "wikilink")」一欄
 
-**江本州輝（）** （[山崎一飾](https://zh.wikipedia.org/wiki/:ja:山崎一 "wikilink")）
+**江本州輝（）** （飾）
 
   -
     詳見「[Horoscope](https://zh.wikipedia.org/wiki/假面騎士Fourze角色列表#Horoscope "wikilink")」一欄
@@ -514,7 +515,7 @@
   -
     見上「[假面騎士部](https://zh.wikipedia.org/wiki/假面騎士Fourze角色列表#假面騎士部 "wikilink")」一欄
 
-**立花（）**（CV：[檜山修之](../Page/檜山修之.md "wikilink")／香港配音：[葉振聲](../Page/葉振聲.md "wikilink")、替身演員：[渡邊淳](https://zh.wikipedia.org/wiki/:ja:渡辺淳 "wikilink")）
+**立花（）**（CV：[檜山修之](../Page/檜山修之.md "wikilink")／香港配音：[葉振聲](../Page/葉振聲.md "wikilink")、替身演員：）
 
   -
     協助朔田流星的蒙面人。反Zodiarts同盟成員。
@@ -530,11 +531,11 @@
 
 ## 財團X
 
-**雷姆・神薙（）**（[益-{岡}-徹飾](https://zh.wikipedia.org/wiki/:ja:益岡徹 "wikilink")）
+**雷姆・神薙（）**（飾）
 
-**Catarrh（）**（[Dante Carver飾](https://zh.wikipedia.org/wiki/:ja:ダンテ・カーヴァー "wikilink")）
+**Catarrh（）**（飾）
 
-**Solaris（）**（[人見早苗飾](https://zh.wikipedia.org/wiki/:ja:人見早苗 "wikilink")）
+**Solaris（）**（飾）
 
 ## Alicia聯邦
 
@@ -542,7 +543,7 @@
 
 ## OSTO·Legacy
 
-**冴葉晴海（）** （[-{岡}-田浩暉](https://zh.wikipedia.org/wiki/:ja:岡田浩暉 "wikilink") 飾）
+**冴葉晴海（）** （ 飾）
 
 **白山靜（）** （[木下亞由美](../Page/木下亞由美.md "wikilink")飾）
 
@@ -561,20 +562,20 @@
     因此流星為尋找[白羊座](../Page/白羊座.md "wikilink")Zodiarts的力量救活他，而成為[假面騎士](../Page/假面騎士.md "wikilink")Meteor。
     由於昏迷後天文裝置一直處於開動狀態而無法自行關上，一直被裝置的力量壓制令病情持續惡化。第32話[白羊座](../Page/白羊座.md "wikilink")Zodiarts利用能力令他甦醒，再親手關上裝置才得以無恙。
 
-**大文字高人（）**（[加門良飾](https://zh.wikipedia.org/wiki/:ja:加門良 "wikilink")／香港配音：[劉昭文](../Page/劉昭文.md "wikilink")）
+**大文字高人（）**（飾／香港配音：[劉昭文](../Page/劉昭文.md "wikilink")）
 
   -
     大文字隼的父親。
     為兒子每件事情都安排妥當甚至加以插手他橄欖隊的活動，三浦被趕出隊伍都是他的主意。
     一切反而令隼更想企圖擺脫父親的伽鎖。
 
-**野座間晴子（）**（[しのへけい子飾](https://zh.wikipedia.org/wiki/:ja:しのへけい子 "wikilink")／香港配音：[許盈](../Page/許盈.md "wikilink")）
+**野座間晴子（）**（飾／香港配音：[許盈](../Page/許盈.md "wikilink")）
 
   -
     野座間友子的母親。
     似乎會因女兒的嗜好和結交朋友的問題感到擔心，第9話看見悠木首次登門造訪後卻開心不已。
 
-**如月吾郎（）**（[八名信夫飾](https://zh.wikipedia.org/wiki/:ja:八名信夫 "wikilink")／香港配音：[林保全](../Page/林保全.md "wikilink")→[馮志輝](../Page/馮志輝.md "wikilink")）
+**如月吾郎（）**（飾／香港配音：[林保全](../Page/林保全.md "wikilink")→[馮志輝](../Page/馮志輝.md "wikilink")）
 
   -
     如月弦太朗的爺爺。
@@ -588,7 +589,7 @@
     第31話暗中幫助弦太朗行動。
     於《小說 幪面超人Fourze ～天・高・卒・業～》中再次登場。
 
-**神宮敬藏（）**（[志水正義飾](https://zh.wikipedia.org/wiki/:ja:志水正義 "wikilink")／香港配音：[盧國權](../Page/盧國權.md "wikilink")）
+**神宮敬藏（）**（飾／香港配音：[盧國權](../Page/盧國權.md "wikilink")）
 
   -
     神宮海藏（JK）的父親。
@@ -596,19 +597,19 @@
     第36話教導弦太朗吉他彈奏讓JK找到歌手初衷的曲子。
     十分認同自己的兒子有弦太朗這個好朋友。
 
-**日向千夏（）**（[中村綾飾](https://zh.wikipedia.org/wiki/:ja:中村綾 "wikilink")／香港配音：[曾秀清](../Page/曾秀清.md "wikilink")）
+**日向千夏（）**（飾／香港配音：[曾秀清](../Page/曾秀清.md "wikilink")）
 
   -
     天高宇航員選拔試的審查委員長，城島與艾妮露所憧憬的女性宇航員。於第37話登場。
     弦太朗從其得知悠木暗中藏起機器人組件其實是考試試題之一。
 
-**城島（父）（）**（[神尾佑飾](https://zh.wikipedia.org/wiki/:ja:神尾佑 "wikilink")／香港配音：[麥皓豐](../Page/麥皓豐.md "wikilink")）
+**城島（父）（）**（飾／香港配音：[麥皓豐](../Page/麥皓豐.md "wikilink")）
 
   -
     城島悠木的父親，於第43話登場。
     初登場時穿著[拿破崙式的服裝在廚房做法國菜](https://zh.wikipedia.org/wiki/拿破崙 "wikilink")，一家人似乎喜歡各國文化的Cosplay\[16\]。
 
-**城島（母）（）**（[高橋麻理飾](https://zh.wikipedia.org/wiki/:ja:高橋麻理 "wikilink")／香港配音：[詹健兒](../Page/詹健兒.md "wikilink")）
+**城島（母）（）**（飾／香港配音：[詹健兒](../Page/詹健兒.md "wikilink")）
 
   -
     城島悠木的母親，於第43話登場。
@@ -623,11 +624,11 @@
 
 **風田三郎（）**（[須賀健太](../Page/須賀健太.md "wikilink")飾）
 
-**小牧瑠美（）**（[山谷花純飾](https://zh.wikipedia.org/wiki/:ja:山谷花純 "wikilink")）
+**小牧瑠美（）**（[山谷花純](../Page/山谷花純.md "wikilink")飾）
 
-**近藤大太（）**（[中澤兼利飾](https://zh.wikipedia.org/wiki/:ja:中澤兼利 "wikilink")）
+**近藤大太（）**（[中澤兼利飾](https://zh.wikipedia.org/wiki/中澤兼利 "wikilink")）
 
-**根津誓夫（）**（[原勇彌飾](https://zh.wikipedia.org/wiki/:ja:原勇弥 "wikilink")）
+**根津誓夫（）**（飾）
 
 **土屋未菜（）**
 
@@ -639,7 +640,7 @@
   -
     （某角色標註的班級以最初登場作準，第29話後或許有所變動）
 
-**繁野純（）**（[藤崎亞莉沙飾](https://zh.wikipedia.org/wiki/:ja:藤嵜亜莉沙 "wikilink")／香港配音：[何寶珊](../Page/何寶珊.md "wikilink")）
+**繁野純（）**（飾／香港配音：[何寶珊](../Page/何寶珊.md "wikilink")）
 
   -
     2年級生，風城美羽的跟班之一。
@@ -647,7 +648,7 @@
     美羽在加入假面騎士部後，啦啦隊的事務全部交給她管理。
     劇場版《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.19 Gatling Switch。
 
-**廣田玲子（）**（[橘ゆりか飾](https://zh.wikipedia.org/wiki/:ja:橘ゆりか "wikilink")／香港配音：[凌晞](../Page/凌晞.md "wikilink")）
+**廣田玲子（）**（飾／香港配音：[凌晞](../Page/凌晞.md "wikilink")）
 
   -
     1年級生，第3話被弦太朗邀請參加女王選舉，但將其拒絕。
@@ -655,7 +656,7 @@
     第12話和美羽等同校女學生被[羅盤座Zodiarts挾持](https://zh.wikipedia.org/wiki/羅盤座 "wikilink")，也一同被Fourze所救。
     劇場版《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.27 Screw Switch。
 
-**番長介（）**（[黒石高大飾](https://zh.wikipedia.org/wiki/:ja:黒石高大 "wikilink")）
+**番長介（）**（飾）
 
   -
     2年A班，校園内不良少年的老大，對打架之類的事感興趣。
@@ -663,7 +664,7 @@
     第39話因違反新制定的校規遭學生會處分。
     劇場版《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.35 Giant-foot Switch。
 
-**倉持百合（）**（[今村美步飾](https://zh.wikipedia.org/wiki/:ja:今村美步 "wikilink")）
+**倉持百合（）**（[今村美步飾](https://zh.wikipedia.org/wiki/今村美步 "wikilink")）
 
   -
     與岡村雅美同為超自然集團的社員。
@@ -671,7 +672,7 @@
     被鹈坂律子利用且以超能力對游泳社的人下手造成混乱。
     劇場版《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.28 Hand Switch。
 
-**-{岡}-村雅美（）**（[鈴木米香飾](https://zh.wikipedia.org/wiki/:ja:鈴木米香 "wikilink")／香港配音：[陳琴雲](../Page/陳琴雲.md "wikilink")）
+**-{岡}-村雅美（）**（飾／香港配音：[陳琴雲](../Page/陳琴雲.md "wikilink")）
 
   -
     與倉持百合同為超自然集團的社員。
@@ -679,36 +680,36 @@
     第9話被鹈坂律子利用且以超能力對名古屋雄二報復同時亦將大文字隼困於火場。
     劇場版《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.33 Claw Switch。
 
-**有馬博美\[18\]（）**（[鈴木ふみ奈飾](https://zh.wikipedia.org/wiki/:ja:鈴木ふみ奈 "wikilink")）
+**有馬博美\[18\]（）**（飾）
 
   -
     2年C班，游泳社社員，曾經因欺負倉持百合而遭到報復。
 
-**名古屋雄二（）**（[神前元飾](https://zh.wikipedia.org/wiki/:ja:神前元 "wikilink")／香港配音：[陳灝瑋](../Page/陳灝瑋.md "wikilink")）
+**名古屋雄二（）**（飾／香港配音：[陳灝瑋](../Page/陳灝瑋.md "wikilink")）
 
   -
     橄欖球隊隊員，曾經因抛棄-{岡}-村雅美而遭到報復。
     第9話連同大文字隼困於火場。
 
-**山本麻里（）**（[石橋菜津美飾](https://zh.wikipedia.org/wiki/:ja:石橋菜津美 "wikilink")／香港配音：[何寶珊](../Page/何寶珊.md "wikilink")）
+**山本麻里（）**（飾／香港配音：[何寶珊](../Page/何寶珊.md "wikilink")）
 
   -
     2年級生，攝影社的社員，三浦俊也的女友。因為三浦的影響也喜歡拍照。
     劇場版《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.6 Camera Switch。
 
-**阿部純太（）**（[田邊季正飾](https://zh.wikipedia.org/wiki/:ja:田辺季正 "wikilink")／香港配音：[曹啟謙](../Page/曹啟謙.md "wikilink")）
+**阿部純太（）**（飾／香港配音：[曹啟謙](../Page/曹啟謙.md "wikilink")）
 
   -
     2年級生，清唱社的社長，元山的童年玩伴。
     劇場版《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.12 Beat Switch。
 
-**渡邊伊吹（）**（[吉田伊吹飾](https://zh.wikipedia.org/wiki/:ja:吉田伊吹 "wikilink")／香港配音：[李致林](../Page/李致林.md "wikilink")）
+**渡邊伊吹（）**（飾／香港配音：[李致林](../Page/李致林.md "wikilink")）
 
   -
     2年B班，清唱社的社員。
     第15話由他推薦同班的城島參與清唱社的幼稚園聖誕晚會表演。
 
-**片桐平（）**（[西洋亮飾](https://zh.wikipedia.org/wiki/:ja:西洋亮 "wikilink")／香港配音：[劉奕希](../Page/劉奕希.md "wikilink")）
+**片桐平（）**（飾／香港配音：[劉奕希](../Page/劉奕希.md "wikilink")）
 
   -
     1年C班\[19\]，清唱社的社員。
@@ -720,20 +721,20 @@
 
 **水無瀨京子** （[大串彩佳飾](https://zh.wikipedia.org/wiki/大串彩佳 "wikilink")）
 
-**鳥居崎美紗（）**（[浅野かや飾](https://zh.wikipedia.org/wiki/:ja:浅野かや "wikilink")／香港配音：[魏惠娥](../Page/魏惠娥.md "wikilink")）
+**鳥居崎美紗（）**（飾／香港配音：[魏惠娥](../Page/魏惠娥.md "wikilink")）
 
   -
     「醜小鴨聯會」會長，有用加分，減分以評價一個人的癖好。
     原本是芭蕾社的社員，根據JK的情報，鳥居崎一直處於後段班。
     劇場版《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.16 Winch Switch。
 
-**母部田太朗（）**（[親川優志飾](https://zh.wikipedia.org/wiki/:ja:親川優志 "wikilink")）
+**母部田太朗（）**（[親川優志飾](https://zh.wikipedia.org/wiki/親川優志 "wikilink")）
 
   -
     1年A班\[20\]，「醜小鴨聯會」會員。
     劇場版《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.36 Aero Switch。
 
-**高村優希奈（）**（[秋月三佳飾](https://zh.wikipedia.org/wiki/:ja:秋月三佳 "wikilink")／香港配音：[成瑤孆](../Page/成瑤孆.md "wikilink")）
+**高村優希奈（）**（飾／香港配音：[成瑤孆](../Page/成瑤孆.md "wikilink")）
 
   -
     3年B班，對弦太朗有好感，第33-34話修學旅行時刻意與他同組。
@@ -741,13 +742,13 @@
     劇場版《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.24 Medical Switch。
     於《小說 幪面超人Fourze ～天・高・卒・業～》中擔任畢業舞會實行委員會會長。
 
-**乙川美奈（）**（[村上穗乃佳飾](https://zh.wikipedia.org/wiki/:ja:村上穂乃佳 "wikilink")）
+**乙川美奈（）**（飾）
 
   -
     《Milky Night Carnival》的忠實聽眾之一。
     劇場版《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.34 Board Switch。
 
-**甲田鈴美（）**（[城戶愛莉飾](https://zh.wikipedia.org/wiki/:ja:城戸愛莉 "wikilink")）
+**甲田鈴美（）**（飾）
 
   -
     《Milky Night Carnival》的忠實聽眾之一。
@@ -759,14 +760,14 @@
     風紀委員長。
     第40話因放跑野座間友子而被視為失職，被[金牛座](../Page/金牛座.md "wikilink")Zodiarts奪去心智。
 
-**壬生彩加（）**（[江田結香飾](https://zh.wikipedia.org/wiki/:ja:江田結香 "wikilink")／香港配音：[成瑤孆](../Page/成瑤孆.md "wikilink")）
+**壬生彩加（）**（飾／香港配音：[成瑤孆](../Page/成瑤孆.md "wikilink")）
 
   -
     3年E班，學生會會長。
     被不守秩序的學生恐嚇而造成意外受傷，在黑曜醫院住院中。
     第40話被弦太朗請求以說服實行校規太過苛刻的杉浦。
 
-**矢波敬介（）**（[坂口涼太郎飾](https://zh.wikipedia.org/wiki/:ja:坂口涼太郎 "wikilink")／香港配音：[鄧志堅](../Page/鄧志堅.md "wikilink")）
+**矢波敬介（）**（飾／香港配音：[鄧志堅](../Page/鄧志堅.md "wikilink")）
 
   -
     學生會成員。
@@ -782,7 +783,7 @@
   -
     （某角色標註的班級以最初登場作準，第29話後或許有所變動）
 
-**三浦俊也（）**（[水野真典飾](https://zh.wikipedia.org/wiki/:ja:水野真典 "wikilink")／香港配音：[鍾見麟](../Page/鍾見麟.md "wikilink")）
+**三浦俊也（）**（飾／香港配音：[鍾見麟](../Page/鍾見麟.md "wikilink")）
 
   -
     2年級生，大文字隼的跟班手下。
@@ -791,7 +792,7 @@
     第13話再度出場，因為害怕使用天文裝置而一直曠課，並被[天蠍座Zodiarts盯上強制給予天文裝置](https://zh.wikipedia.org/wiki/天蠍座 "wikilink")，卻又難拒其誘惑。最後克服恐懼回校上課並加入攝影社。
     劇場版《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.2 Launcher Switch。
 
-**佐久間珠惠（）**（[吉川まりあ飾](https://zh.wikipedia.org/wiki/:ja:吉川まりあ "wikilink")／香港配音：[吳羨婷](../Page/吳羨婷.md "wikilink")）
+**佐久間珠惠（）**（飾／香港配音：[吳羨婷](../Page/吳羨婷.md "wikilink")）
 
   -
     3年級生，風城美羽的跟班之一。
@@ -800,14 +801,14 @@
     第25話再度出場，因[蝘蜓座](../Page/蝘蜓座.md "wikilink")Zodiarts再次引起騷亂而含冤，得知是德田彌生變身[后髮座Zodiarts後的所為才得以清白](https://zh.wikipedia.org/wiki/后髮座 "wikilink")。最後與野本仁結伴參加畢業舞會。
     劇場版《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.21 Stealth Switch。
 
-**新田文博（）**（[宇治清高飾](https://zh.wikipedia.org/wiki/:ja:宇治清高 "wikilink")／香港配音：[李安邦](../Page/李安邦.md "wikilink")）
+**新田文博（）**（飾／香港配音：[李安邦](../Page/李安邦.md "wikilink")）
 
   -
     1年C班，西洋劍社的社員，以前曾經被JK利用過而對之有著天大仇恨。
     於第5、6話變成[麒麟座](../Page/麒麟座.md "wikilink")Zodiarts。
     劇場版《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.8 Chainsaw Switch。
 
-**佐竹輝彦（）**\[21\]（[佐藤流司飾](https://zh.wikipedia.org/wiki/:ja:佐藤流司 "wikilink")／香港配音：[黃積權](../Page/黃積權.md "wikilink")）
+**佐竹輝彦（）**\[21\]（飾／香港配音：[黃積權](../Page/黃積權.md "wikilink")）
 
   -
     1年級生，佐竹剛的兒子，現實生活中為資優生，私底下卻是不良少年，平時喜歡隨身帶著鐵鏈。
@@ -824,7 +825,7 @@
     第25話再度出場，因[天壇座Zodiarts再次引起騷亂而含冤](https://zh.wikipedia.org/wiki/天壇座 "wikilink")，得知是德田彌生變身[后髮座Zodiarts後的所為才得以清白](https://zh.wikipedia.org/wiki/后髮座 "wikilink")。最後與受弦太朗們所託的流星結伴參加畢業舞會。
     劇場版《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.5 Magic-hand Switch。
 
-**牧瀨弘樹（）**（[篠原孝文飾](https://zh.wikipedia.org/wiki/:ja:篠原孝文 "wikilink")／香港配音：[李震權](../Page/李震權.md "wikilink")）
+**牧瀨弘樹（）**（飾／香港配音：[李震權](../Page/李震權.md "wikilink")）
 
   -
     2年級生，天文社社長。瘋狂追求悠木的怪咖。
@@ -834,7 +835,7 @@
     劇場版《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.4 Radar Switch。
     於《小說 幪面超人Fourze ～天・高・卒・業～》中再次變身成[羅盤座Zodiarts](https://zh.wikipedia.org/wiki/羅盤座 "wikilink")。
 
-**園田紗理奈（）**（[虎南有香飾](https://zh.wikipedia.org/wiki/:ja:虎南有香 "wikilink")）
+**園田紗理奈（）**（飾）
 
   -
     為[天蠍座Zodiarts](https://zh.wikipedia.org/wiki/天蠍座 "wikilink")。
@@ -846,7 +847,7 @@
     為[天秤座](../Page/天秤座.md "wikilink")Zodiarts。
     詳見「[Horoscope](https://zh.wikipedia.org/wiki/假面騎士Fourze角色列表#Horoscope "wikilink")」一欄
 
-**元山惣帥（）**（[秋元龍太朗飾](https://zh.wikipedia.org/wiki/:ja:秋元龍太朗 "wikilink")／香港配音：[張方正](../Page/張方正.md "wikilink")）
+**元山惣帥（）**（飾／香港配音：[張方正](../Page/張方正.md "wikilink")）
 
   -
     2年C班，美術社社長。
@@ -855,7 +856,7 @@
     第16話被弦太朗說服，卻因為[天秤座](../Page/天秤座.md "wikilink")Zodiarts的電波攻擊而暴走。
     劇場版《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.39 Stamper Switch。
 
-**野野村公夫（）**（[山崎將平飾](https://zh.wikipedia.org/wiki/:ja:山崎将平 "wikilink")）
+**野野村公夫（）**（飾）
 
   -
     2年級生，為了在考試中獲得第一名而變成Zodiarts攻擊優秀學生。
@@ -863,7 +864,7 @@
     於第17、18話變成[天貓座Zodiarts](https://zh.wikipedia.org/wiki/天貓座 "wikilink")，並成功超越了 Last one。
     劇場版《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.7 Parachute Switch。
 
-**野本仁（）**（[安藤龍飾](https://zh.wikipedia.org/wiki/:ja:安藤龍 "wikilink")／香港配音：[陳成港](../Page/陳成港.md "wikilink")）
+**野本仁（）**（飾／香港配音：[陳成港](../Page/陳成港.md "wikilink")）
 
   -
     3年級生，田徑社社長，受[天秤座](../Page/天秤座.md "wikilink")Zodiarts指示，要抹殺Fourze和Meteor而變成Zodiarts攻擊他人。
@@ -871,13 +872,13 @@
     第25話再度出場，因[天龍座Zodiarts再次引起騷亂而含冤](https://zh.wikipedia.org/wiki/天龍座 "wikilink")，得知是德田彌生變身[后髮座Zodiarts後的所為才得以清白](https://zh.wikipedia.org/wiki/后髮座 "wikilink")。最後與佐久間珠惠結伴參加畢業舞會。
     劇場版《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.15 Spike Switch。
 
-**鬼島夏兒（）**（[田本清嵐飾](https://zh.wikipedia.org/wiki/:ja:タモト清嵐 "wikilink")）
+**鬼島夏兒（）**（飾）
 
   -
     為[巨蟹座](../Page/巨蟹座.md "wikilink")Zodiarts。
     詳見「[Horoscope](https://zh.wikipedia.org/wiki/假面騎士Fourze角色列表#Horoscope "wikilink")」一欄
 
-**江口規夫（）**（[永嶋柊吾飾](https://zh.wikipedia.org/wiki/:ja:永嶋柊吾 "wikilink")／香港配音：[黃積權](../Page/黃積權.md "wikilink")）
+**江口規夫（）**（飾／香港配音：[黃積權](../Page/黃積權.md "wikilink")）
 
   -
     心中非常崇拜英雄，得到天文裝置後因為其力量影響而[人格分裂](https://zh.wikipedia.org/wiki/解離性人格疾患 "wikilink")，造成雙重人格。
@@ -894,49 +895,49 @@
     於第25、26話變成[后髮座Zodiarts](https://zh.wikipedia.org/wiki/后髮座 "wikilink")。
     劇場版《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.25 Pen Switch。
 
-**草尾春（）**（[荒木次元飾](https://zh.wikipedia.org/wiki/:ja:荒木次元 "wikilink")）
+**草尾春（）**（飾）
 
   -
     於第29、30話變成[蒼蠅座Zodiarts](https://zh.wikipedia.org/wiki/蒼蠅座 "wikilink")。
     詳見「[假面騎士部](https://zh.wikipedia.org/wiki/假面騎士Fourze角色列表#假面騎士部 "wikilink")」一欄
 
-**山田龍守（）**（[川原一馬飾](https://zh.wikipedia.org/wiki/:ja:川原一馬 "wikilink")）
+**山田龍守（）**（飾）
 
   -
     為[白羊座](../Page/白羊座.md "wikilink")Zodiarts。
     詳見「[Horoscope](https://zh.wikipedia.org/wiki/假面騎士Fourze角色列表#Horoscope "wikilink")」一欄
 
-**立神吼（）** （[横山一敏飾](https://zh.wikipedia.org/wiki/:ja:横山一敏 "wikilink")）
+**立神吼（）** （飾）
 
   -
     為[獅子座Zodiarts](https://zh.wikipedia.org/wiki/獅子座 "wikilink")。
     詳見「[Horoscope](https://zh.wikipedia.org/wiki/假面騎士Fourze角色列表#Horoscope "wikilink")」一欄
 
-**五藤東次郎（）**（[川村亮介飾](https://zh.wikipedia.org/wiki/:ja:川村亮介 "wikilink")）
+**五藤東次郎（）**（飾）
 
   -
     為[摩羯座](../Page/摩羯座.md "wikilink")Zodiarts。
     詳見「[Horoscope](https://zh.wikipedia.org/wiki/假面騎士Fourze角色列表#Horoscope "wikilink")」一欄
 
-**艾妮露須田（）**（[瀧澤Karen飾](https://zh.wikipedia.org/wiki/:ja:滝沢カレン "wikilink")）
+**艾妮露須田（）**（飾）
 
   -
     為[水瓶座Zodiarts](https://zh.wikipedia.org/wiki/水瓶座 "wikilink")。
     詳見「[Horoscope](https://zh.wikipedia.org/wiki/假面騎士Fourze角色列表#Horoscope "wikilink")」一欄
 
-**杉浦雄太（）**（[絲木建太飾](https://zh.wikipedia.org/wiki/:ja:絲木建太 "wikilink")）
+**杉浦雄太（）**（飾）
 
   -
     為[金牛座](../Page/金牛座.md "wikilink")Zodiarts。
     詳見「[Horoscope](https://zh.wikipedia.org/wiki/假面騎士Fourze角色列表#Horoscope "wikilink")」一欄
 
-**江本州輝（）** （[山崎一飾](https://zh.wikipedia.org/wiki/:ja:山崎一 "wikilink")）
+**江本州輝（）** （飾）
 
   -
     為[處女座Zodiarts](https://zh.wikipedia.org/wiki/處女座 "wikilink")。
     詳見「[Horoscope](https://zh.wikipedia.org/wiki/假面騎士Fourze角色列表#Horoscope "wikilink")」一欄
 
-**我望光明（）** （[鶴見辰吾飾](https://zh.wikipedia.org/wiki/:ja:鶴見辰吾 "wikilink")）
+**我望光明（）** （[鶴見辰吾飾](https://zh.wikipedia.org/wiki/鶴見辰吾 "wikilink")）
 
   -
     為[射手座Zodiarts](https://zh.wikipedia.org/wiki/射手座 "wikilink")。
@@ -948,13 +949,13 @@
     為[雙子座Zodiarts](https://zh.wikipedia.org/wiki/雙子座 "wikilink")。
     詳見「[Horoscope](https://zh.wikipedia.org/wiki/假面騎士Fourze角色列表#Horoscope "wikilink")」一欄
 
-**黑木蘭（）** （[ほのかりん飾](https://zh.wikipedia.org/wiki/:ja:ほのかりん "wikilink")）
+**黑木蘭（）** （飾）
 
   -
     為[雙魚座Zodiarts](https://zh.wikipedia.org/wiki/雙魚座 "wikilink")。
     詳見「[假面騎士部](https://zh.wikipedia.org/wiki/假面騎士Fourze角色列表#假面騎士部 "wikilink")」一欄
 
-**番場影人（）**（[遠山俊也飾](https://zh.wikipedia.org/wiki/:ja:遠山俊也 "wikilink")）
+**番場影人（）**（飾）
 
 **平良澄江（）**
 

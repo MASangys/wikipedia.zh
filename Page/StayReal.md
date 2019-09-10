@@ -11,6 +11,8 @@
 
 2016年，「STAYREAL Café」和[李宗盛](../Page/李宗盛.md "wikilink")創立的吉他品牌「Lee Guitar」於[上海新天地開設合作品牌](https://zh.wikipedia.org/wiki/上海新天地 "wikilink")「有練 Sweat & Tears」複合式咖啡店。\[10\] 2019年1月，複合品牌早午餐店「扶瑞號（FULL REAL）」的首間門市於[上海來福士廣場開幕](https://zh.wikipedia.org/wiki/上海來福士廣場 "wikilink")。\[11\]
 
+2019年8月，宣布「StayReal Café」的創始店敦南店將搬遷；同年8月31日，該店以新忠孝店於臺北東區重新開幕。\[12\]
+
 ## 設計師
 
   - [五月天](../Page/五月天.md "wikilink")[阿信](../Page/陳信宏.md "wikilink")
@@ -111,7 +113,7 @@
 
 ; 展覽
 
-  - STAY REAL DREAMS 一克拉的夢想 \[12\]
+  - STAY REAL DREAMS 一克拉的夢想 \[13\]
   - 我是細路
 
 ## 門市
@@ -169,7 +171,7 @@
 
 ### StayReal Café
 
-  - 新忠孝店
+  - 新忠孝店（原敦南店）
   - 上海 iapm 店
   - 杭州湖滨银泰 in77 店
   - 廣州天環店
@@ -239,12 +241,14 @@
 6.
 7.
 
-8.  [美男李洪基才剛離台 阿信馬上啟用FTIsland！](http://www.nownews.com/n/2014/07/01/1302155)
+8.
 
-9.  [五月天阿信+CNBLUE 潮翻全球](http://ent.ltn.com.tw/m/news/breakingnews/1416595)
+9.
 
-10. [越過夢想山丘 Lee Guitars X StayReal Cafe 全球首間跨界概念店「有練」倔強登陸上海新天地](http://tw.istayreal.com/news/1082)
+10.
 
 11.
 
 12.
+
+13.

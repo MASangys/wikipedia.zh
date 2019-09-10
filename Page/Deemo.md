@@ -51,6 +51,30 @@ Deemo具有三种判定，从高到低分别是Charming Hit、Hit与Miss。在�
   -
     Hans的獎牌，在劇情中常常出現。
 
+## 小說版
+
+<table>
+<thead>
+<tr class="header">
+<th><p>書名</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/PONY_CANYON" title="wikilink">PONY CANYON</a></p></th>
+<th><p><a href="../Page/台灣角川.md" title="wikilink">台灣角川</a></p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>發售日期</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
+<td><p>發售日期</p></td>
+</tr>
+<tr class="even">
+<td><p>DEEMO-Last Dream-</p></td>
+<td><p>2015年12月3日</p></td>
+<td><p>ISBN 978-4-8652-9161-2</p></td>
+</tr>
+</tbody>
+</table>
+
 ## 得獎紀錄
 
 獲得 2013 App Store 年度最佳遊戲\[5\]

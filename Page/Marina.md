@@ -46,7 +46,7 @@ marina的单曲《[Crow Song](../Page/Crow_Song.md "wikilink")》于2011年11月
 
   - [](http://ameblo.jp/very-2-happydays-7/) - marina官方博客
 
-[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:宫崎县出身人物](https://zh.wikipedia.org/wiki/Category:宫崎县出身人物 "wikilink") [Category:日本创作歌手](https://zh.wikipedia.org/wiki/Category:日本创作歌手 "wikilink")
+[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:日本创作歌手](https://zh.wikipedia.org/wiki/Category:日本创作歌手 "wikilink") [Category:日本女性搖滾歌手](https://zh.wikipedia.org/wiki/Category:日本女性搖滾歌手 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:宫崎县出身人物](https://zh.wikipedia.org/wiki/Category:宫崎县出身人物 "wikilink")
 
 1.
 2.

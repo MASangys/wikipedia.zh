@@ -85,6 +85,9 @@ Kaby Lake比Skylake擁有更高的時脈，內建Intel第9.5代顯示核心，�
 
 ## 10奈米架構改進版：[Ice Lake](https://zh.wikipedia.org/wiki/Ice_Lake "wikilink")
 
+2019年8月1日，Intel正式对外发表了Ice lake微架构的处理器，采用10nm制程，但是
+使用全新的[sunny cove 微架构](https://zh.wikipedia.org/wiki/sunny_cove_微架构 "wikilink")，而不是Sky Lake微架构的陆续改进（Ice Lake） </br>
+
 ## 10奈米製程優化版：[Tiger Lake](https://zh.wikipedia.org/wiki/Tiger_Lake "wikilink")
 
 面對[IBM](../Page/IBM.md "wikilink")研發的[納米碳管晶片電路](https://zh.wikipedia.org/wiki/納米碳管 "wikilink")，英特爾前[行政總裁](https://zh.wikipedia.org/wiki/CEO "wikilink")[保罗·欧德宁称處理器晶片的基本材料在未來的幾十年內仍然會是](https://zh.wikipedia.org/wiki/保罗·欧德宁 "wikilink")[矽](https://zh.wikipedia.org/wiki/矽 "wikilink")。\[11\]
@@ -1050,7 +1053,9 @@ tray / 盒裝</p></th>
 
 ## 下一代微架構
 
-目前英特爾沒有公佈Skylake/Cannonlake的接任微架構代號，但由英特爾的“Tick-Tock”（鐘擺）時間表可以知道Skylake/Cannonlake下一代的微架構仍會採用14納米製程。\[22\]
+~~目前英特爾沒有公佈Skylake/Cannonlake的接任微架構代號，但由英特爾的“Tick-Tock”（鐘擺）時間表可以知道Skylake/Cannonlake下一代的微架構仍會採用14納米製程。\[22\] ~~
+
+2018年[Intel架构日](https://zh.wikipedia.org/wiki/Intel架构日 "wikilink")（Intel ArchitectureDay）上，Intel公布了下一代微架构--[Sunny Cove 微架构](https://zh.wikipedia.org/wiki/Sunny_Cove_微架构 "wikilink")。\[23\] \[24\]
 
 ## 參考資料
 
@@ -1078,3 +1083,5 @@ tray / 盒裝</p></th>
 20. [Intel封杀也没用！E3-1230 v5首测：彪悍](http://news.mydrivers.com/1/458/458443.htm)
 21.
 22. 詳見[Intel Tick-Tock](../Page/Intel_Tick-Tock.md "wikilink")
+23. <https://www.anandtech.com/show/13699/intel-architecture-day-2018-core-future-hybrid-x86>
+24. <https://m.mydrivers.com/newsview/608645.html>?

@@ -440,6 +440,7 @@ PlotData =
 | 5月11日       |
 | 8月13日       |
 | 8月17日       |
+| 8月24日       |
 
 ## 影音作品
 
@@ -652,7 +653,7 @@ PlotData =
 | 2019年6月29日 | 曼谷站   | N.Flying 2019 Live‘UP ALL NIGHT’in BANGKOK   | ULTRA ARENA HALL - SHOW D.C. |
 | 2019年8月10日 | 香港站   | N.Flying 2019 Live‘UP ALL NIGHT’in Hong Kong | 亞洲國際博覽館                      |
 | 2019年9月01日 | 馬尼拉站  | N.Flying 2019 Live‘UP ALL NIGHT’in MANILA    | New Frontier Theater         |
-| 2019年9月15日 | 台北站   | 2019 N.Flying Live‘UP ALL NIGHT’in TAIPEI    | 大直ATT SHOW BOX               |
+| 2019年9月15日 | 台北站   | N.Flying 2019 Live‘UP ALL NIGHT’in TAIPEI    | 大直ATT SHOW BOX               |
 | 2019年9月22日 | 巴黎站   | N.Flying 2019 Live‘UP ALL NIGHT’in PARIS     | Le Bataclan                  |
 
 ### FNC KINGDOM家族演唱會
@@ -698,6 +699,7 @@ PlotData =
 <td><p>2019</p></td>
 <td><ul>
 <li>2019 韓國年度品牌大獎－年度Idol Band獎</li>
+<li>2019 第3屆<a href="../Page/Soribada最佳音樂大獎.md" title="wikilink">Soribada最佳音樂大獎</a>－Rising Hot Star賞Band部門</li>
 </ul></td>
 </tr>
 </tbody>
