@@ -20,15 +20,13 @@ FLIRT列车最初是为[瑞士联邦铁路设计的](https://zh.wikipedia.org/wi
 
 [SOB_FLIRT_auf_dem_Seedamm.jpg](https://zh.wikipedia.org/wiki/File:SOB_FLIRT_auf_dem_Seedamm.jpg "fig:SOB_FLIRT_auf_dem_Seedamm.jpg") 使用的 Stadler FLIRT 列车\]\]
 
-除了[瑞士联邦铁路](https://zh.wikipedia.org/wiki/瑞士联邦铁路 "wikilink")，瑞士还有两家[瑞士东南铁路拥有](https://zh.wikipedia.org/wiki/瑞士东南铁路 "wikilink")11列型号为「RABe 526」的列车，（transN）拥有3列型号为「RABe 527」的列车。
+除了[瑞士联邦铁路](https://zh.wikipedia.org/wiki/瑞士联邦铁路 "wikilink")，瑞士还有两家[瑞士东南铁路拥有](https://zh.wikipedia.org/wiki/瑞士东南铁路 "wikilink")11列型号为「RABe 526」的列车，（transN）拥有3列型号为「RABe 527」的列车。伯恩BLS鐵路在2017年訂購了58列Stadler Flirt，將於2021-26年上路，包含了[區間快](../Page/區域鐵路.md "wikilink")（RegioExpress）和[S-Bahn](https://zh.wikipedia.org/wiki/S-Bahn "wikilink")。\[4\]
 
 [STA-Flirt_Suedtirol_Bahn.jpg](https://zh.wikipedia.org/wiki/File:STA-Flirt_Suedtirol_Bahn.jpg "fig:STA-Flirt_Suedtirol_Bahn.jpg") FLIRT 列车\]\]
 
 ### 瑞典
 
 自[港鐵公司於](https://zh.wikipedia.org/wiki/港鐵公司 "wikilink")2014年成為第二個瑞典[斯德哥爾摩至](https://zh.wikipedia.org/wiki/斯德哥爾摩 "wikilink")[哥德堡](../Page/哥德堡.md "wikilink")之間運行[城際列車服務營運商後](https://zh.wikipedia.org/wiki/城際列車 "wikilink")，引入本型列車（當地稱為X74型動力分散型動車組）以增強服務。在該線上營運的本型列車，以5卡為一組（3M2T），其中一卡為集電弓動力車卡。
-
-本型列車亦是港鐵公司使用的第一款城際動車組。
 
 ## 图库
 
@@ -57,3 +55,4 @@ FLIRT列车最初是为[瑞士联邦铁路设计的](https://zh.wikipedia.org/wi
 1.   Stadler press release
 2.
 3.
+4.

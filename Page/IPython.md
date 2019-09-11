@@ -2,19 +2,19 @@
 
 ## 魔法命令
 
-  - %bg function把 function 放到后台执行，例如: %bg myfunc(x, y,z=1)，之后可以用jobs将其结果取回。myvar = jobs.result(5) 或 myvar =jobs\[5\].result。另外，jobs.status() 可以查看现有任务的状态。
-  - %ed 或 %edit编辑一个文件并执行，如果只编辑不执行，用 ed -x filename 即可。
-  - %env显示环境变量
-  - %hist 或 %history显示历史记录
-  - %macro name n1-n2 n3-n4 ... n5 .. n6 ...创建一个名称为 name 的宏，执行 name 就是执行 n1-n2 n3-n4 ... n5 .. n6 ...这些代码。
+  - %bg function把function放到后台执行，例如: %bg myfunc(x, y,z=1)，之后可以用jobs将其结果取回。myvar = jobs.result(5) 或 myvar =jobs\[5\].result。另外，jobs.status() 可以查看现有任务的状态。
+  - %ed或%edit编辑一个文件并执行，如果只编辑不执行，用 ed -x filename 即可。
+  - %env显示环境变量。
+  - %hist或%history显示历史记录。
+  - %macro name n1-n2 n3-n4 ... n5 .. n6 ...创建一个名称为name的宏，执行name就是执行n1-n2 n3-n4 ... n5 .. n6 ...这些代码。
   - %pwd显示当前目录
-  - %pycat filename用语法高亮显示一个 python 文件(不用加.py后缀名)
-  - %save filename n1-n2 n3-n4 ... n5 .. n6 ...将执行过多代码保存为文件\* %run命令运行脚本
-  - %timeit命令快速测量代码运行时间
-  - %debug命令在异常点启动调试器
+  - %pycat filename用语法高亮显示一个python文件（不用加.py后缀名）。
+  - %save filename n1-n2 n3-n4 ... n5 .. n6 ...将执行过多代码保存为文件\* %run命令运行脚本。
+  - %timeit命令快速测量代码运行时间。
+  - %debug命令在异常点启动调试器。
   - %pdb命令来激活IPython调试器，这样，每当异常抛出时，调试器就会自动运行。
-  - %pylab命令可以使Numpy和matplotlib中的科学计算功能生效
-  - 用 \! 表示执行 shell 命令，用 $ 将 python 的变量转化成shell 变量。
+  - %pylab命令可以使Numpy和matplotlib中的科学计算功能生效。
+  - 用 \! 表示执行shell命令，用$将python的变量转化成shell变量。
 
 ## 并行计算
 

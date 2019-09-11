@@ -43,7 +43,7 @@
 
   - [udn.com 縱火燒死5人 彭建源死刑定讞](https://web.archive.org/web/20150405225410/http://udn.com/NEWS/SOCIETY/SOC6/8911843.shtml)
 
-[Category:台灣謀殺案](https://zh.wikipedia.org/wiki/Category:台灣謀殺案 "wikilink") [Category:臺灣縱火致死案](https://zh.wikipedia.org/wiki/Category:臺灣縱火致死案 "wikilink") [Category:2012年台灣罪案](https://zh.wikipedia.org/wiki/Category:2012年台灣罪案 "wikilink") [Category:新竹市歷史](https://zh.wikipedia.org/wiki/Category:新竹市歷史 "wikilink") [Category:台灣死刑案件](https://zh.wikipedia.org/wiki/Category:台灣死刑案件 "wikilink") [Category:卡拉OK](https://zh.wikipedia.org/wiki/Category:卡拉OK "wikilink") [Category:2012年3月](https://zh.wikipedia.org/wiki/Category:2012年3月 "wikilink")
+[Category:台灣謀殺案](https://zh.wikipedia.org/wiki/Category:台灣謀殺案 "wikilink") [Category:臺灣縱火致死案](https://zh.wikipedia.org/wiki/Category:臺灣縱火致死案 "wikilink") [Category:2012年台灣罪案](https://zh.wikipedia.org/wiki/Category:2012年台灣罪案 "wikilink") [Category:新竹市歷史](https://zh.wikipedia.org/wiki/Category:新竹市歷史 "wikilink") [Category:台灣死刑案件](https://zh.wikipedia.org/wiki/Category:台灣死刑案件 "wikilink") [Category:卡拉OK](https://zh.wikipedia.org/wiki/Category:卡拉OK "wikilink") [Category:2012年3月](https://zh.wikipedia.org/wiki/Category:2012年3月 "wikilink") [Category:2012年火灾](https://zh.wikipedia.org/wiki/Category:2012年火灾 "wikilink")
 
 1.
 

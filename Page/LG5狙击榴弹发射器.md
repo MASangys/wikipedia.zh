@@ -65,7 +65,7 @@ LG5狙击榴弹发射器**重型状态**是LG5的重型版本，配备光电火�
   - [LG4转轮式榴弹发射器](../Page/LG4转轮式榴弹发射器.md "wikilink")
   - [LG6半自动榴弹发射器](../Page/LG6半自动榴弹发射器.md "wikilink")
   - [巴雷特XM109狙擊榴彈發射器](../Page/巴雷特XM109狙擊榴彈發射器.md "wikilink")
-  - [NTW-20](../Page/NTW-20.md "wikilink")
+  - [丹尼爾NTW-20](../Page/丹尼爾NTW-20反器材步槍.md "wikilink")
   - [反器材步槍](../Page/反器材步槍.md "wikilink")
   - [99式狙击步枪](../Page/99式狙击步枪.md "wikilink")（QBU-99）
   - [10式狙击步枪](../Page/10式狙击步枪.md "wikilink")（QBU-10）
@@ -112,7 +112,7 @@ LG5狙击榴弹发射器**重型状态**是LG5的重型版本，配备光电火�
 
   - —[谁是狙击炮之王? 世界四大狙击炮中国威力第一](http://www.backchina.com/news/2015/05/19/363345.html)
 
-[Category:40毫米口径武器](https://zh.wikipedia.org/wiki/Category:40毫米口径武器 "wikilink") [Category:半自動步槍](https://zh.wikipedia.org/wiki/Category:半自動步槍 "wikilink") [Category:狙击步枪](https://zh.wikipedia.org/wiki/Category:狙击步枪 "wikilink") [Category:反器材步槍](https://zh.wikipedia.org/wiki/Category:反器材步槍 "wikilink") [Category:榴弹发射器](https://zh.wikipedia.org/wiki/Category:榴弹发射器 "wikilink") [Category:半自動榴彈發射器](https://zh.wikipedia.org/wiki/Category:半自動榴彈發射器 "wikilink") [Category:中華人民共和國槍械](https://zh.wikipedia.org/wiki/Category:中華人民共和國槍械 "wikilink")
+[Category:40毫米口径武器](https://zh.wikipedia.org/wiki/Category:40毫米口径武器 "wikilink") [Category:半自動步槍](https://zh.wikipedia.org/wiki/Category:半自動步槍 "wikilink") [Category:狙击步枪](https://zh.wikipedia.org/wiki/Category:狙击步枪 "wikilink") [Category:反器材步槍](https://zh.wikipedia.org/wiki/Category:反器材步槍 "wikilink") [Category:榴弹发射器](https://zh.wikipedia.org/wiki/Category:榴弹发射器 "wikilink") [Category:半自動榴彈發射器](https://zh.wikipedia.org/wiki/Category:半自動榴彈發射器 "wikilink") [Category:中華人民共和國槍械](https://zh.wikipedia.org/wiki/Category:中華人民共和國槍械 "wikilink") [Category:需要圖片的槍械條目](https://zh.wikipedia.org/wiki/Category:需要圖片的槍械條目 "wikilink")
 
 1.  <https://modernfirearms.net/en/grenade-launchers/china-grenade-launchers/norinco-lg5-qlu-11-eng/>
 2.  <http://defence-blog.com/news/middle-eastern-customer-looking-to-buy-new-chinese-sniper-grenade-launcher.html>

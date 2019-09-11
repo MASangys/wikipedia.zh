@@ -58,25 +58,41 @@ RSh-12.7左輪手槍發射的彈藥為12.7×55毫米[亞音速](https://zh.wikip
 ## 參見
 
   - [馬特巴6 Unica自動左輪手槍](../Page/馬特巴6_Unica自動左輪手槍.md "wikilink")
+
   - [齊亞帕犀牛式左輪手槍](../Page/齊亞帕犀牛式左輪手槍.md "wikilink")
-  - [MP412 REX](https://zh.wikipedia.org/wiki/MP412_REX左輪手槍 "wikilink")
+
+  - [MP412 REX](../Page/MP412_REX轉輪手槍.md "wikilink")
+
   - [OTs-01](https://zh.wikipedia.org/wiki/OTs-01左輪手槍 "wikilink")
+
   - [OTs-11](https://zh.wikipedia.org/wiki/OTs-11左輪手槍 "wikilink")
-  - [OTs-20](https://zh.wikipedia.org/wiki/OTs-20左輪手槍 "wikilink")
-  - [OTs-38](https://zh.wikipedia.org/wiki/OTs-38左輪手槍 "wikilink")
-  - [R-92](https://zh.wikipedia.org/wiki/R-92左輪手槍 "wikilink")
-  - [U-94](https://zh.wikipedia.org/wiki/U-94左輪手槍 "wikilink")
+
+  -
+  -
+  - [R-92／U-94](../Page/R-92烏達爾左輪手槍.md "wikilink")
+
   - [俄羅斯槍械列表](../Page/俄羅斯槍械列表.md "wikilink")
+
   - [史密斯威森M500](../Page/史密斯威森M500左輪手槍.md "wikilink")
+
   - [約翰·羅斯／性能中心5英吋.500 S\&W馬格南](https://zh.wikipedia.org/wiki/約翰·羅斯／性能中心5英吋.500_S&W馬格南左輪手槍 "wikilink")
+
   - [BFR左輪手槍](../Page/BFR左輪手槍.md "wikilink")
+
   - [JTL-E .500 S\&W馬格南12英吋](https://zh.wikipedia.org/wiki/JTL-E_.500_S&W馬格南12英吋左輪手槍 "wikilink")
+
   - [金牛座-{zh:憤怒的公牛; zh-hans:愤怒的公牛; zh-tw:蠻牛; zh-hk:狂牛;}-左輪手槍M500](../Page/金牛座憤怒的公牛左輪手槍.md "wikilink")
+
   - [終極500](https://zh.wikipedia.org/wiki/終極500左輪手槍 "wikilink")
+
   - [Pfeifer Zeliska](https://zh.wikipedia.org/wiki/Pfeifer_Zeliska左輪手槍 "wikilink")
+
   - [Thunder 50](../Page/Thunder_50手槍.md "wikilink")
+
   - [.50口徑手槍](https://zh.wikipedia.org/wiki/.50口徑手槍 "wikilink")
+
   - [ASh-12.7突擊步槍](https://zh.wikipedia.org/wiki/ASh-12.7突擊步槍 "wikilink")
+
   - [VKS狙擊步槍](../Page/VKS狙擊步槍.md "wikilink")
 
 ## 外部連結

@@ -171,6 +171,8 @@ YOHO MALL外牆多個部份採用[發光二極管](../Page/發光二極管.md "w
   -
   -
   -
+[Category:2010年完工建築物](https://zh.wikipedia.org/wiki/Category:2010年完工建築物 "wikilink")
+
 [Category:元朗區商場](https://zh.wikipedia.org/wiki/Category:元朗區商場 "wikilink") [Category:新鴻基地產物業](https://zh.wikipedia.org/wiki/Category:新鴻基地產物業 "wikilink")
 
 1.

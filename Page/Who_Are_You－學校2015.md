@@ -131,7 +131,7 @@
 <td><p><strong>介紹</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/曹秀香" title="wikilink">曹秀香</a></p></td>
+<td><p><a href="../Page/曹秀香.md" title="wikilink">曹秀香</a></p></td>
 <td><p>姜素英</p></td>
 <td><p>新來的轉學生，原爲恩菲在統營的舊同學。在統營時經常霸凌恩菲，讓恩菲痛苦到跑到橋邊自殺。然後也無法在統營女高中上課，轉學轉到世江高中。後來，知道恩星就是恩菲的秘密，常加以威逼，企圖揭穿她的真正身份。但在真正的恩星回來後，她的地位逐漸被擊垮，也會有所懼怕。但心有不甘，總找機會報復，證明自己不是恩星口中的弱者。</p></td>
 </tr>

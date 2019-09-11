@@ -282,12 +282,7 @@ function p.processRoute(route_str, gstyle, condition, system, frame)
 
 `   for i, station in ipairs(stations) do`
 `       station = mw.text.trim(station)`
-`       if string.find(station, '^style *=') ~= nil then`
-`           style = mw.text.trim(mw.text.split(station, '=')[2])`
-`           if style == '' then`
-`               style = gstyle`
-`           end`
-`       elseif string.find(station, '^con *=') ~= nil then`
+`       if string.find(station, '^con *=') ~= nil then`
 `           cond_expr = mw.text.trim(mw.text.split(station, '=')[2])`
 `           if cond_expr == '' then`
 `               cond_met = true`
@@ -310,67 +305,74 @@ function p.processRoute(route_str, gstyle, condition, system, frame)
 `                   end`
 `               end`
 `           end`
-`       elseif string.find(station, '^sep *=') ~= nil then`
-`           separator = mw.text.trim(mw.text.split(station, '=')[2])`
-`           if separator == '' then`
-`               separator = p.STATION_SEPARATOR`
-`           else`
-`               separator = ' ' .. separator .. ' '`
-`               for spatt, sep in pairs(p.sep_translate) do`
-`                   separator = string.gsub(separator, spatt, sep)`
-`               end`
-`           end`
-`           next_separator = separator`
-`           user_separator = separator`
-`       elseif station == 'blstart' then`
-`           block_level = block_level + 1`
-`           if station_index > 0 then`
-`               next_separator = string.gsub(p.BLOCK_START, p.BLOCK_ALIGN_PATTERN, 'left')`
-`           else`
-`               next_separator = string.gsub(p.BLOCK_START_PURE, p.BLOCK_ALIGN_PATTERN, 'right')`
-`           end`
-`       elseif string.find(station, '^blstart *=') ~= nil then`
-`           block_level = block_level + 1`
-`           block_align = mw.text.trim(mw.text.split(station, '=')[2])`
-`           if station_index > 0 then`
-`               next_separator = string.gsub(p.BLOCK_START, p.BLOCK_ALIGN_PATTERN, block_align)`
-`           else`
-`               next_separator = string.gsub(p.BLOCK_START_PURE, p.BLOCK_ALIGN_PATTERN, block_align)`
-`           end`
-`       elseif station == 'blline' then`
-`           next_separator = p.BLOCK_LINE_SEPARATOR`
-`       elseif station == 'blend' then`
-`           block_level = block_level - 1`
-`           next_separator = p.BLOCK_END`
-`       elseif station == 'gstart' then`
-`           gray_state = true`
-`       elseif station == 'gend' then`
-`           gray_state = false`
-`       elseif station == 'istart' then`
-`           italic_state = true`
-`       elseif station == 'iend' then`
-`           italic_state = false`
-`       elseif station == 'line' then`
-`           while block_level > 0 do`
-`               block_level = block_level - 1`
-`               output_str = output_str .. p.BLOCK_END_PURE`
-`           end`
-`           next_separator = '`
-`'`
 `       elseif cond_met then`
-`           station_index = station_index + 1`
-`           if station_index > 1 or block_level > 0 then`
-`               output_str = output_str .. next_separator`
+`           if string.find(station, '^style *=') ~= nil then`
+`               style = mw.text.trim(mw.text.split(station, '=')[2])`
+`               if style == '' then`
+`                   style = gstyle`
+`               end`
+`           elseif string.find(station, '^sep *=') ~= nil then`
+`               separator = mw.text.trim(mw.text.split(station, '=')[2])`
+`               if separator == '' then`
+`                   separator = p.STATION_SEPARATOR`
+`               else`
+`                   separator = ' ' .. separator .. ' '`
+`                   for spatt, sep in pairs(p.sep_translate) do`
+`                       separator = string.gsub(separator, spatt, sep)`
+`                   end`
+`               end`
+`               next_separator = separator`
+`               user_separator = separator`
+`           elseif station == 'blstart' then`
+`               block_level = block_level + 1`
+`               if station_index > 0 then`
+`                   next_separator = string.gsub(p.BLOCK_START, p.BLOCK_ALIGN_PATTERN, 'left')`
+`               else`
+`                   next_separator = string.gsub(p.BLOCK_START_PURE, p.BLOCK_ALIGN_PATTERN, 'right')`
+`               end`
+`           elseif string.find(station, '^blstart *=') ~= nil then`
+`               block_level = block_level + 1`
+`               block_align = mw.text.trim(mw.text.split(station, '=')[2])`
+`               if station_index > 0 then`
+`                   next_separator = string.gsub(p.BLOCK_START, p.BLOCK_ALIGN_PATTERN, block_align)`
+`               else`
+`                   next_separator = string.gsub(p.BLOCK_START_PURE, p.BLOCK_ALIGN_PATTERN, block_align)`
+`               end`
+`           elseif station == 'blline' then`
+`               next_separator = p.BLOCK_LINE_SEPARATOR`
+`           elseif station == 'blend' then`
+`               block_level = block_level - 1`
+`               next_separator = p.BLOCK_END`
+`           elseif station == 'gstart' then`
+`               gray_state = true`
+`           elseif station == 'gend' then`
+`               gray_state = false`
+`           elseif station == 'istart' then`
+`               italic_state = true`
+`           elseif station == 'iend' then`
+`               italic_state = false`
+`           elseif station == 'line' then`
+`               while block_level > 0 do`
+`                   block_level = block_level - 1`
+`                   output_str = output_str .. p.BLOCK_END_PURE`
+`               end`
+`               next_separator = '`
+`'`
+`           else`
+`               station_index = station_index + 1`
+`               if station_index > 1 or block_level > 0 then`
+`                   output_str = output_str .. next_separator`
+`               end`
+`               out_style = style`
+`               if gray_state then`
+`                   out_style = p.appendStyle(style, 'color:gray')`
+`               end`
+`               if italic_state then`
+`                   out_style = p.appendStyle(style, 'font-style:italic')`
+`               end`
+`               output_str = output_str .. p.parseStation(station, out_style, system_data, frame)`
+`               next_separator = user_separator`
 `           end`
-`           out_style = style`
-`           if gray_state then`
-`               out_style = p.appendStyle(style, 'color:gray')`
-`           end`
-`           if italic_state then`
-`               out_style = p.appendStyle(style, 'font-style:italic')`
-`           end`
-`           output_str = output_str .. p.parseStation(station, out_style, system_data, frame)`
-`           next_separator = user_separator`
 `       end`
 `   end`
 `   while block_level > 0 do`

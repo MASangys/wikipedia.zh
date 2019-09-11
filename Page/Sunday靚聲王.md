@@ -136,7 +136,7 @@
 <td><p>3月22日</p></td>
 <td><p>粵語金曲 代代傳唱</p></td>
 <td><p><a href="../Page/陳浩德.md" title="wikilink">陳浩德</a>、<a href="../Page/方伊琪.md" title="wikilink">方伊琪</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/鄭錦昌" title="wikilink">鄭錦昌</a>、<a href="../Page/鄭世豪.md" title="wikilink">鄭世豪</a>、<br />
+<a href="../Page/鄭錦昌.md" title="wikilink">鄭錦昌</a>、<a href="../Page/鄭世豪.md" title="wikilink">鄭世豪</a>、<br />
 <a href="../Page/鍾舒祺.md" title="wikilink">鍾舒祺</a>、<a href="../Page/鍾舒漫.md" title="wikilink">鍾舒漫</a></p></td>
 <td><ul>
 <li>幾度夕陽紅—鄭少秋（原唱：鄭錦昌）</li>
@@ -413,7 +413,7 @@
 <li>化蝶—胡鴻鈞（2013年無綫電視劇《<a href="../Page/師父·明白了.md" title="wikilink">師父·明白了</a>》插曲)</li>
 <li>一生何求一李國祥（1989年無綫電視劇《<a href="../Page/義不容情.md" title="wikilink">義不容情</a>》主題曲，原唱：陳百強）</li>
 <li>人在旅途灑淚時一李國祥、文佩玲（1980年麗的電視劇集《<a href="https://zh.wikipedia.org/wiki/人在江湖" title="wikilink">人在江湖</a>》插曲，原唱：關正傑、雷安娜）</li>
-<li>網中人一戴蘊慧、韋綺姍（1979年無綫電視劇《<a href="https://zh.wikipedia.org/wiki/網中人" title="wikilink">網中人</a>》主題曲，原唱：張德蘭）</li>
+<li>網中人一戴蘊慧、韋綺姍（1979年無綫電視劇《<a href="../Page/網中人.md" title="wikilink">網中人</a>》主題曲，原唱：張德蘭）</li>
 <li>無悔愛你一生-李樂詩（1995-1999年無綫電視劇《<a href="../Page/真情.md" title="wikilink">真情</a>》主題曲)</li>
 <li>護航一許廷鏗（2014年電視劇《<a href="../Page/西遊記_(2011年電視劇).md" title="wikilink">西遊記</a>》片尾曲）</li>
 <li>無敵是最寂寞一鄭少秋（1978年無綫電視劇《<a href="https://zh.wikipedia.org/wiki/一劍鎮神州" title="wikilink">一劍鎮神州</a>》主題曲)</li>
@@ -672,7 +672,7 @@
 <td><p>29</p></td>
 <td><p>10月11日</p></td>
 <td><p>懷舊國粵 裊裊餘音</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鄭錦昌" title="wikilink">鄭錦昌</a>、<a href="../Page/麗莎_(新加坡歌手).md" title="wikilink">麗莎</a>、<br />
+<td><p><a href="../Page/鄭錦昌.md" title="wikilink">鄭錦昌</a>、<a href="../Page/麗莎_(新加坡歌手).md" title="wikilink">麗莎</a>、<br />
 <a href="../Page/華娃.md" title="wikilink">華娃</a>、<a href="../Page/李龍基.md" title="wikilink">李龍基</a>、<br />
 <a href="../Page/姚兵.md" title="wikilink">姚兵</a></p></td>
 <td><ul>

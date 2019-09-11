@@ -125,7 +125,7 @@ Peninsula East under construction in August 2015 (viewed from Hong Kong Island).
 ## 外部連結
 
   -
-[Category:油塘](https://zh.wikipedia.org/wiki/Category:油塘 "wikilink") [Category:觀塘區](https://zh.wikipedia.org/wiki/Category:觀塘區 "wikilink") [Category:觀塘區私人屋苑](https://zh.wikipedia.org/wiki/Category:觀塘區私人屋苑 "wikilink") [Category:2017年完工建築物](https://zh.wikipedia.org/wiki/Category:2017年完工建築物 "wikilink") [Category:會德豐地產(香港)物業](https://zh.wikipedia.org/wiki/Category:會德豐地產\(香港\)物業 "wikilink") [Category:香港私人屋苑](https://zh.wikipedia.org/wiki/Category:香港私人屋苑 "wikilink")
+[Category:油塘](https://zh.wikipedia.org/wiki/Category:油塘 "wikilink") [Category:觀塘區私人屋苑](https://zh.wikipedia.org/wiki/Category:觀塘區私人屋苑 "wikilink") [Category:2017年完工建築物](https://zh.wikipedia.org/wiki/Category:2017年完工建築物 "wikilink") [Category:會德豐地產(香港)物業](https://zh.wikipedia.org/wiki/Category:會德豐地產\(香港\)物業 "wikilink") [Category:香港私人屋苑](https://zh.wikipedia.org/wiki/Category:香港私人屋苑 "wikilink")
 
 1.
 2.  [會德豐 新聞稿](http://www.wheelockpropertieshk.com/press/2014.12.23/press%20release_Peninsula%20East_20141223.pdf)

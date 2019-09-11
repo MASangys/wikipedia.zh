@@ -1,4 +1,4 @@
-**FM-7**（Fujitsu Micro 7）是[富士通](../Page/富士通.md "wikilink")制作的[家用电脑](https://zh.wikipedia.org/wiki/家用电脑 "wikilink")，最早于1982年发售，仅面向日本市场。他是之前[FM-8的精简版本](https://zh.wikipedia.org/wiki/FM-8 "wikilink")；在开发中FM-7被称为“初级FM-8”（FM-8 Jr.）。
+**FM-7**（Fujitsu Micro 7）是[富士通](../Page/富士通.md "wikilink")制作的[家用电脑](../Page/家用电脑.md "wikilink")，最早于1982年发售，仅面向日本市场。他是之前[FM-8的精简版本](https://zh.wikipedia.org/wiki/FM-8 "wikilink")；在开发中FM-7被称为“初级FM-8”（FM-8 Jr.）。
 
 虽然以廉价型著称，最明显的是取消了了昂贵的[磁泡存储器](../Page/磁泡存储器.md "wikilink")技术，但FM-7使用了更高级的音效合成器，因此在日本业余电脑市场中反响强烈，称为比FM-8更占主导的系统。
 

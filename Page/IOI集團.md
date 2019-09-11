@@ -1,4 +1,4 @@
-**IOI集團**（，）為[馬來西亞的大型商業集團](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")，由馬來西亞華人[李深靜](../Page/李深靜.md "wikilink")成立於1969年10月31日。創業之初主要產業為工業氣體製造，於1982年跨入[房地產開發產業](https://zh.wikipedia.org/wiki/房地產 "wikilink")，爾後於1985年投入[油棕](../Page/油棕.md "wikilink")農園與[棕櫚油](../Page/棕櫚油.md "wikilink")製油相關事業。IOI集團於[吉隆坡證券交易所上市](https://zh.wikipedia.org/wiki/吉隆坡證券交易所 "wikilink")，子公司包括IOI地產公司及IOI油脂化工公司。時至2009年6月，IOI集團全球員工達30,000人以上。
+**IOI集團**（，）為[馬來西亞的大型商業集團](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")，由馬來西亞華人[李深靜](../Page/李深靜.md "wikilink")成立於1969年10月31日。創業之初主要產業為[工業氣體](../Page/工業氣體.md "wikilink")製造，於1982年跨入[房地產開發產業](https://zh.wikipedia.org/wiki/房地產 "wikilink")，爾後於1985年投入[油棕](../Page/油棕.md "wikilink")農園與[棕櫚油](../Page/棕櫚油.md "wikilink")製油相關事業。IOI集團於[吉隆坡證券交易所上市](https://zh.wikipedia.org/wiki/吉隆坡證券交易所 "wikilink")，子公司包括IOI地產公司及IOI油脂化工公司。時至2009年6月，IOI集團全球員工達30,000人以上。
 
 ## 丑闻
 

@@ -1,4 +1,4 @@
-**朴秀英**\[1\]\[2\]\[3\]（，，），藝名**Joy**（，），[韩国女](https://zh.wikipedia.org/wiki/韩国 "wikilink")[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")，為[SM娛樂](../Page/SM娛樂.md "wikilink")旗下的五人女子組合[Red Velvet的成員](../Page/Red_Velvet.md "wikilink")。
+**朴秀英**\[1\]\[2\]（，，），常見譯名為**朴秀榮**\[3\]，藝名**Joy**（，），[韩国女](https://zh.wikipedia.org/wiki/韩国 "wikilink")[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")，為[SM娛樂](../Page/SM娛樂.md "wikilink")旗下的五人女子組合[Red Velvet的成員](../Page/Red_Velvet.md "wikilink")。
 
 ## 個人生活
 
@@ -25,7 +25,7 @@
 
 2018年1月7日，擔任[JTBC](../Page/JTBC.md "wikilink")《[Two Yoo Project - Sugar Man S2](../Page/Two_Yoo_Project_-_Sugar_Man.md "wikilink")》固定主持之一。
 
-2018年1月，出演[MBC月火連續劇](../Page/MBC月火連續劇.md "wikilink")《[偉大的誘惑者](../Page/偉大的誘惑者.md "wikilink")》，飾演女主角殷泰熙，搭檔[禹棹煥](../Page/禹棹煥.md "wikilink")\[22\]。
+2018年1月，出演[MBC月火連續劇](../Page/MBC月火連續劇.md "wikilink")《[偉大的誘惑者](../Page/偉大的誘惑者.md "wikilink")》，飾演女主角殷太希，搭檔[禹棹煥](../Page/禹棹煥.md "wikilink")\[22\]。
 
 2018年9月15日，與[張允珠](https://zh.wikipedia.org/wiki/張允珠 "wikilink")、[宋智孝](../Page/宋智孝.md "wikilink")、[程瀟作為固定成員共同出演Lifetime綜藝節目](https://zh.wikipedia.org/wiki/程瀟 "wikilink")《[睡衣朋友](../Page/睡衣朋友.md "wikilink")》\[23\]。
 
@@ -68,7 +68,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>4月11日</p></td>
+<td><p>4月10日</p></td>
 <td><p>《<a href="../Page/她愛上了我的謊_(韓國電視劇).md" title="wikilink">她愛上了我的謊OST</a> Part.4》</p></td>
 <td><p>最近的你啊 (Your Days)（요즘 너 말야）</p></td>
 <td><p>rowspan=5 </p></td>
@@ -100,7 +100,7 @@
 <td><p>3月27日</p></td>
 <td><p>《<a href="../Page/偉大的誘惑者.md" title="wikilink">偉大的誘惑者</a>OST Part.2》</p></td>
 <td><p>不像話 (OMG!)<br />
-（말도 안돼 (OMG!)）[24]</p></td>
+（말도 안돼）[24]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -252,9 +252,9 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
+<td><p>9月7日</p></td>
+<td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a>《<a href="../Page/認識的哥哥.md" title="wikilink">認識的哥哥</a>》</p></td>
+<td><p>與<a href="../Page/張允柱.md" title="wikilink">張允柱</a>、<a href="../Page/Irene_(模特).md" title="wikilink">Irene Kim</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -468,7 +468,7 @@
 
 1.
 2.
-3.  官方微博上中文名稱亦有使用**朴秀榮**和**朴首英**（[官方微博網頁證明之一](http://tw.weibo.com/RedVelvetofficial/4218667967752018)）
+3.  官方微博上中文名稱大多使用**朴秀榮**，也曾使用**朴首英**（[官方微博網頁證明之一](http://tw.weibo.com/RedVelvetofficial/4218667967752018)）
 4.
 5.
 6.

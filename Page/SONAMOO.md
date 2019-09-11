@@ -531,6 +531,8 @@ Miracle Girls 成員們</p></td>
   -
   -
   -
+  -
+  -
 [Category:TS娛樂](https://zh.wikipedia.org/wiki/Category:TS娛樂 "wikilink") [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink") [Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink")
 
 1.  [SONAMOO團體介紹](http://kpopn.com/2015/01/01/255295/).kpopn.2015.01.01

@@ -40,8 +40,8 @@ UNIQ是[樂華娛樂推出的中韓男子團體](https://zh.wikipedia.org/wiki/�
 <td><p>曲目</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>1st</strong></p></td>
-<td><p>首張迷你專輯《<strong>EOEO</strong>》</p>
+<td><p>1st</p></td>
+<td><p>《<strong>EOEO</strong>》</p>
 <ul>
 <li>發行日期：2015年4月24日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a>、<a href="https://zh.wikipedia.org/wiki/國語" title="wikilink">國語</a></li>
@@ -61,8 +61,8 @@ UNIQ是[樂華娛樂推出的中韓男子團體](https://zh.wikipedia.org/wiki/�
 <td><p>曲目</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>1st</strong></p></td>
-<td><p>首張數位單曲《<strong>Falling in love</strong>》</p>
+<td><p>1st</p></td>
+<td><p>《<strong>Falling in love</strong>》</p>
 <ul>
 <li>發行日期：2014年10月20日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a>、<a href="https://zh.wikipedia.org/wiki/國語" title="wikilink">國語</a>、<a href="https://zh.wikipedia.org/wiki/英語" title="wikilink">英語</a></li>
@@ -70,8 +70,8 @@ UNIQ是[樂華娛樂推出的中韓男子團體](https://zh.wikipedia.org/wiki/�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong>2nd</strong></p></td>
-<td><p>第二張數位單曲《<strong>Best Friend</strong>》</p>
+<td><p>2nd</p></td>
+<td><p>《<strong>Best Friend</strong>》</p>
 <ul>
 <li>發行日期：2015年10月16日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a>、<a href="https://zh.wikipedia.org/wiki/國語" title="wikilink">國語</a></li>
@@ -79,8 +79,8 @@ UNIQ是[樂華娛樂推出的中韓男子團體](https://zh.wikipedia.org/wiki/�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong>3rd</strong></p></td>
-<td><p>第三張數位單曲《<strong>不曾離開過</strong>》</p>
+<td><p>3rd</p></td>
+<td><p>《<strong>不曾離開過</strong>》</p>
 <ul>
 <li>發行日期：2018年4月19日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a>、<a href="https://zh.wikipedia.org/wiki/國語" title="wikilink">國語</a></li>
@@ -88,8 +88,8 @@ UNIQ是[樂華娛樂推出的中韓男子團體](https://zh.wikipedia.org/wiki/�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong>4th</strong></p></td>
-<td><p>第四張數位單曲《<strong>Monster</strong>》</p>
+<td><p>4th</p></td>
+<td><p>《<strong>Monster</strong>》</p>
 <ul>
 <li>發行日期：2018年12月24日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/國語" title="wikilink">國語</a></li>
@@ -123,8 +123,8 @@ UNIQ是[樂華娛樂推出的中韓男子團體](https://zh.wikipedia.org/wiki/�
 <td><p>曲目</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>1st</strong></p></td>
-<td><p>單曲《<strong>Best Friend (Japanese Ver.)</strong>》</p>
+<td><p>1st</p></td>
+<td><p>《<strong>Best Friend (Japanese Ver.)</strong>》</p>
 <ul>
 <li>發行日期：2015年11月15日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
@@ -132,8 +132,8 @@ UNIQ是[樂華娛樂推出的中韓男子團體](https://zh.wikipedia.org/wiki/�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong>2nd</strong></p></td>
-<td><p>單曲《<strong>Falling In Love(Japanese Ver.)</strong>》</p>
+<td><p>2nd</p></td>
+<td><p>《<strong>Falling In Love(Japanese Ver.)</strong>》</p>
 <ul>
 <li>發行日期：2016年12月10日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
@@ -153,7 +153,7 @@ UNIQ是[樂華娛樂推出的中韓男子團體](https://zh.wikipedia.org/wiki/�
 <td><p>曲目</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>1st</strong></p></td>
+<td><p>1st</p></td>
 <td><p>首張EP《<strong>OS</strong>》</p>
 <ul>
 <li>發行日期：2017年12月27日</li>

@@ -70,7 +70,7 @@
 
 12月5日，公開主打歌《불을 켜(Turn It On)》Official MV，並於當日舉行SHOWCASE。
 
-### 2019年：日本首張專輯《Love Pop Wow\!\!》
+### 2019年：日本首張專輯《Love Pop Wow\!\!》、首張正規專輯《Two Of Us》
 
 2月8日，日本媒體發布消息指出官方確定於4月24日發行日本第一張專輯，同時也公開於2月16至2月24日期間舉行發售活動。\[19\]
 
@@ -80,11 +80,13 @@
 
 8月13日，官方公開一張MV拍攝現場照，並寫上「coming soon 2019. 09 Realese」，預告將於9月回歸。
 
+8月27日，官方宣布於9月19日發行出道後首張正規專輯《Two Of Us》\[21\]，並於30日公開行程表，後陸續公開概念照、曲目表及MV預告。
+
 ## 成員資料
 
 |            |
 | ---------- |
-| 成員列表\[21\] |
+| 成員列表\[22\] |
 | **藝名**     |
 | **漢字**     |
 | 柔廷         |
@@ -150,7 +152,7 @@ PlotData =
 </tr>
 <tr class="even">
 <td><p><strong>1st</strong></p></td>
-<td><p>《<strong>Petit Macaron</strong>》[22]</p>
+<td><p>《<strong>Petit Macaron</strong>》[23]</p>
 <ul>
 <li>發行日期：2014年8月28日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
@@ -304,12 +306,13 @@ PlotData =
 </table>
 
 
-\====電視劇原聲帶====
+
+#### 電視劇原聲帶
 
 |                                                 |                                                          |                 |               |         |
 | ----------------------------------------------- | -------------------------------------------------------- | --------------- | ------------- | ------- |
 | 年份                                              | 電視劇                                                      | 歌曲              | 參與成員          | 備註      |
-| 2015年                                           | KBS《[我們家蜜罈子](../Page/我們家蜜罈子.md "wikilink")》              | 冰冷的愛\[23\]      | 昭娟            |         |
+| 2015年                                           | KBS《[我們家蜜罈子](../Page/我們家蜜罈子.md "wikilink")》              | 冰冷的愛\[24\]      | 昭娟            |         |
 | 2017年                                           | MBC《[醫療船](https://zh.wikipedia.org/wiki/醫療船 "wikilink")》 | I Feel Love     |               |         |
 | KBS《[Jugglers](../Page/Jugglers.md "wikilink")》 | Cosmic                                                   |                 |               |         |
 | 2018年                                           | MBC《[過來抱抱我](../Page/過來抱抱我.md "wikilink")》                | Don't disappear | 柔廷、昭娟         |         |
@@ -328,7 +331,7 @@ PlotData =
 
 
 
-### 日文作品
+### 日語作品
 
 #### 单曲
 
@@ -341,7 +344,7 @@ PlotData =
 </tr>
 <tr class="even">
 <td><p><strong>1st</strong></p></td>
-<td><p>《<strong>Hwi Hwi -Japanese ver-</strong>》</p>
+<td><p>《<strong>Hwi Hwi</strong>》</p>
 <ul>
 <li>發行日期：2018年11月7日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
@@ -374,15 +377,38 @@ PlotData =
 </tbody>
 </table>
 
+#### 數位單曲
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>單曲 #</p></td>
+<td><p>單曲資料</p></td>
+<td><p>曲目</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>1st</strong></p></td>
+<td><p>《<strong>Love Me</strong>》 - LABOUM 日本出道紀念單曲</p>
+<ul>
+<li>發行日期：2019年8月28日</li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
+<li>發行公司：<a href="../Page/日本古倫美亞.md" title="wikilink">日本古倫美亞</a></li>
+<li>規格：數位音樂下載</li>
+</ul></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ## 音樂創作
 
 [社團法人韓國音樂著作權協會(KOMCA)登記之資料](../Page/韓國音樂著作權協會.md "wikilink")
 
 | 成員 | 登記名稱     | 登記編號     | 參與歌曲列表 |
 | -- | -------- | -------- | ------ |
-| 柔廷 | 김유정 / 유정 | 10015269 | \[24\] |
-| 昭娟 | 정소연      | 10017252 | \[25\] |
-| 率濱 | 안솔빈      | 10020214 | \[26\] |
+| 柔廷 | 김유정 / 유정 | 10015269 | \[25\] |
+| 昭娟 | 정소연      | 10017252 | \[26\] |
+| 率濱 | 안솔빈      | 10020214 | \[27\] |
 
 ## 影視作品
 
@@ -390,9 +416,9 @@ PlotData =
 
 | 年份    | 影片名稱       | 參與成員 | 角色  | 性質  | 備註     |
 | ----- | ---------- | ---- | --- | --- | ------ |
-| 2016年 | 《對決》       | 率濱   |     | |配角 | \[27\] |
+| 2016年 | 《對決》       | 率濱   |     | |配角 | \[28\] |
 | 2019年 | 《生存者偏向的錯誤》 | 成智娜  | 女主角 |     |        |
-| 2019年 | 《賭上了一切》    | ZN   | 賽綸  | 配角  | \[28\] |
+| 2019年 | 《賭上了一切》    | ZN   | 賽綸  | 配角  | \[29\] |
 
 ### 電視劇
 
@@ -427,7 +453,7 @@ PlotData =
 <td></td>
 <td><p><a href="../Page/Brown_Eyed_Girls.md" title="wikilink">Brown Eyed Girls</a></p></td>
 <td><p>率濱</p></td>
-<td><p>《The Original》單曲預告[29]</p></td>
+<td><p>《The Original》單曲預告[30]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://www.youtube.com/watch?v=vgBlBFL3CBo">One summer night</a></p></td>
@@ -745,6 +771,7 @@ PlotData =
 | 2月26日－3月21日                                        | KBS                                                                 | 《德華TV》                                                              | 柔廷、ZN、率濱      |            |
 | 3月17日、3月24日                                        | MBC                                                                 | 《[神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")》                    | 昭娟            | 以參賽者身分     |
 | 7月24日                                              | tvN                                                                 | 《[無論什麼friends](../Page/無論什麼friends.md "wikilink")》                  | 率濱            |            |
+| 8月11日                                              | 《[Player (韓國綜藝)](../Page/Player_\(韓國綜藝\).md "wikilink")》            |                                                                     |               |            |
 
 ### 廣播節目
 
@@ -761,7 +788,7 @@ PlotData =
 | 4月3日                    | 全員                                                |                                |       |        |
 | 4月6日、12月7日              | Arirang Radio                                     | 《Sound K》                      | 全員    |        |
 | 4月12日                   | SBS Power FM                                      | 《金昌烈的Old School》               | 柔廷、率濱 |        |
-| 11月30日、12月6日            | SBS Power FM                                      | 兩點出逃 Cultwo Show》              | 全員    |        |
+| 11月30日、12月6日            | SBS Power FM                                      | 《兩點出逃 Cultwo Show》             | 全員    |        |
 | 12月10日                  | 《李國主的Young Street》                                | 柔廷、海仁                          | 公開放送  |        |
 | 2016年                   |                                                   |                                |       |        |
 | 1月26日、9月7日              | MBC FM4U                                          | 《Tei的夢想電台》                     | 率濱    |        |
@@ -1019,18 +1046,20 @@ PlotData =
 
 ## 演唱會
 
-### SHOWCASE
+### 見面會
 
-| 日期          | 名稱                                                 | 舉行地點                  |
-| ----------- | -------------------------------------------------- | --------------------- |
-| 2014年8月27日  | Debut Showcase                                     | 首爾V HALL              |
-| 2016年4月4日   | LABOUM 4th Single Album "Fresh Adventure" Showcase | 首爾Lotte Card中心        |
-| 2017年4月17日  | LABOUM 2nd MINI Album〈MISS THIS KISS〉FAN SHOWCASE  | 首爾ILCHI ART HALL      |
-| 2017年9月23日  | LABOUM SPECIAL TALK\&LIVE "LOVE CHANCE vol. 1"     | 日本東京赤坂BLITZ           |
-| 2018年11月22日 | LABOUM 1st Japan Tour 〜Hwi hwi〜 in 大阪              | 日本umeda TRAD          |
-| 2018年11月24日 | LABOUM 1st Japan Tour〜Hwi hwi〜 in 橫濱               | 日本橫濱BAYHALL           |
-| 2018年12月5日  | LABOUM 6th SINGLE ALBUM 〈I\`M YOURS〉 FAN SHOWCASE  | S-PLEX CENTER 3D電影院   |
-| 2019年4月27日  | LABOUM Japan Fan Meeting 2019～Love Pop Wow～        | 日本橫濱LANDMARK HALL |-} |
+| 日期          | 名稱                                                 | 舉行地點                |
+| ----------- | -------------------------------------------------- | ------------------- |
+| 2014年8月27日  | Debut Showcase                                     | 首爾V HALL            |
+| 2016年4月4日   | LABOUM 4th Single Album "Fresh Adventure" Showcase | 首爾Lotte Card中心      |
+| 2017年4月17日  | LABOUM 2nd MINI Album〈MISS THIS KISS〉FAN SHOWCASE  | 首爾ILCHI ART HALL    |
+| 2017年9月23日  | LABOUM SPECIAL TALK\&LIVE "LOVE CHANCE vol. 1"     | 日本東京赤坂BLITZ         |
+| 2018年11月22日 | LABOUM 1st Japan Tour 〜Hwi hwi〜 in 大阪              | 日本umeda TRAD        |
+| 2018年11月24日 | LABOUM 1st Japan Tour〜Hwi hwi〜 in 橫濱               | 日本橫濱BAYHALL         |
+| 2018年12月5日  | LABOUM 6th SINGLE ALBUM 〈I\`M YOURS〉 FAN SHOWCASE  | S-PLEX CENTER 3D電影院 |
+| 2019年4月27日  | LABOUM Japan Fan Meeting 2019～Love Pop Wow～        | 日本橫濱LANDMARK HALL   |
+| 2019年8月30日  | LABOUM JAPAN TOUR 2019～Love Pop Wow                | ～                   |
+| 2019年9月1日   | 日本横浜ランドマークホール |-}                                  |                     |
 
 ### 日本出道紀念發售活動
 
@@ -1104,6 +1133,7 @@ PlotData =
 | 5月4日   | 《2017 COEX C-FESTIVAL》                | COEX會展中心大廳                    |
 | 5月5日   | 《2017 首爾美食節K-POP Concert》             | 首爾COEX                        |
 | 5月18日  | 《弘益大學校慶公演》                            | 首爾特別市                         |
+| 6月2日   | 《2017 World Friends Music Festival》   | 華城市綜合競技城                      |
 | 8月2日   | 《海洋世界樂園演唱會》                           | 海洋世界波浪舞台                      |
 | 8月26日  | 《第五屆大邱牛小腸慶典》                          | 大邱南區廣場                        |
 | 9月27日  | 《忠南大學校慶公演》                            | 大田廣域市                         |
@@ -1167,6 +1197,8 @@ PlotData =
 | 7月16日  | 《都市再生 29秒電影節頒獎禮》                      | 韓國經濟報社18樓 茶山大廳                |
 | 7月18日  | 《國軍慰問公演》                              | 江原道洪川郡                        |
 | 7月30日  | 《2019 Koya Summer Festival》           | Yangji Pine Ski Resort        |
+| 8月6日   | 《國軍慰問公演》                              | 慶尚北道浦項市                       |
+| 8月22日  | 京畿道坡州市                                |                               |
 
 ## 大型拼盤演唱會
 
@@ -1369,3 +1401,5 @@ PlotData =
 28.
 
 29.
+
+30.

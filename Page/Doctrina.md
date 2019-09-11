@@ -1,4 +1,4 @@
-****，在中文一般翻譯為教義、教條、[主義](https://zh.wikipedia.org/wiki/主義 "wikilink")、[學說等等](https://zh.wikipedia.org/wiki/學說 "wikilink")（但各翻譯都有不完全對應原詞語），指一組被相信是真實無誤的[理念或](https://zh.wikipedia.org/wiki/理念 "wikilink")[信仰](https://zh.wikipedia.org/wiki/信仰 "wikilink")。將信仰內容，或是學說、教導內容、權威性的指示、[原理](../Page/原理.md "wikilink")，加以[法典化](https://zh.wikipedia.org/wiki/法典化 "wikilink")（codification），成文或不成文的成為某個[信仰體系中的基礎部份](https://zh.wikipedia.org/wiki/信仰 "wikilink")，被教導給他人，就稱為教義。
+****，在中文一般翻譯為教義、教條、[主義](https://zh.wikipedia.org/wiki/主義 "wikilink")、[學說等等](https://zh.wikipedia.org/wiki/學說 "wikilink")（但各翻譯都有不完全對應原詞語），指一組被相信是真實無誤的[理念或](https://zh.wikipedia.org/wiki/理念 "wikilink")[信仰](../Page/信仰.md "wikilink")。將信仰內容，或是學說、教導內容、權威性的指示、[原理](../Page/原理.md "wikilink")，加以[法典化](https://zh.wikipedia.org/wiki/法典化 "wikilink")（codification），成文或不成文的成為某個[信仰](../Page/信仰.md "wikilink")體系中的基礎部份，被教導給他人，就稱為教義。
 
 在現代漢語中，教義這個名詞可以被當成與\[1\]，或的譯名\[2\]。
 
@@ -26,7 +26,7 @@ doctrina被應用在拉丁文《新約》的翻譯上。對應到希臘文新約
 
 在天主教會中，以[信理部](../Page/信理部.md "wikilink")（）負責天主教教義的一致與純正。天主教會與新教會之間，也針對於不同教義間進行交流，並發表聯合聲明。例如在1999年發布的《[關於稱義教義的聯合聲明](https://zh.wikipedia.org/wiki/關於稱義教義的聯合聲明 "wikilink")》（）。
 
-[卡爾·巴特](../Page/卡爾·巴特.md "wikilink")認為，教義是一種[信仰的行動](https://zh.wikipedia.org/wiki/信仰 "wikilink")，是基督徒對於上帝啟示的回應。
+[卡爾·巴特](../Page/卡爾·巴特.md "wikilink")認為，教義是一種[信仰](../Page/信仰.md "wikilink")的行動，是基督徒對於上帝啟示的回應。
 
 [喬治·林貝克](../Page/喬治·林貝克.md "wikilink")在《教義的本質》（The Nature of Doctrine）一書中，將各種對於教義的理論歸納為三大類，包括「認知-命題」論（the Cognitive-Propositionalist Theory）、「經驗-表現」論（the Experiential-Expressivist Theory）和「文化-語言」論（the Cultural-Linguistic Theory）。他主張應該將教義視為是宗教文化中的一種文法規則\[16\]，
 

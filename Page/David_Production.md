@@ -434,7 +434,7 @@
   - [副島惠文](../Page/副島惠文.md "wikilink")
   - 加藤敏幸
   - 竹田逸子
-  - 津田尚克
+  - [津田尚克](../Page/津田尚克.md "wikilink")
 
 </div>
 
@@ -462,7 +462,7 @@
   -
   - 田中修一郎
 
-## 來源
+## 參考來源
 
 ## 相關項目
 
@@ -471,6 +471,7 @@
 ## 外部連結
 
   - [株式會社david production公式官網](http://davidproduction.jp/)
+  - [專訪《JoJo》《工作細胞》動畫公司 David Production 讓原作粉絲讚嘆的動畫製作秘訣](https://gnn.gamer.com.tw/detail.php?sn=179513) －[巴哈姆特電玩資訊站](../Page/巴哈姆特電玩資訊站.md "wikilink")官網。
 
 [Category:David_Production](https://zh.wikipedia.org/wiki/Category:David_Production "wikilink") [Category:富士電視台](https://zh.wikipedia.org/wiki/Category:富士電視台 "wikilink") [Category:2007年成立的公司](https://zh.wikipedia.org/wiki/Category:2007年成立的公司 "wikilink") [Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink") [Category:東京都公司](https://zh.wikipedia.org/wiki/Category:東京都公司 "wikilink") [Category:小平市公司](https://zh.wikipedia.org/wiki/Category:小平市公司 "wikilink")
 

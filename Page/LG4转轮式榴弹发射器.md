@@ -126,4 +126,4 @@ LG4可以发射中国內外的各种[40×46毫米系列低速榴彈](../Page/40�
 
   - —[PChome 個人新聞台—中國槍榴彈](http://mypaper.pchome.com.tw/souj/post/1306951888)
 
-[Category:40毫米口径武器](https://zh.wikipedia.org/wiki/Category:40毫米口径武器 "wikilink") [Category:榴弹发射器](https://zh.wikipedia.org/wiki/Category:榴弹发射器 "wikilink") [Category:轉輪式榴彈發射器](https://zh.wikipedia.org/wiki/Category:轉輪式榴彈發射器 "wikilink") [Category:中華人民共和國槍械](https://zh.wikipedia.org/wiki/Category:中華人民共和國槍械 "wikilink")
+[Category:40毫米口径武器](https://zh.wikipedia.org/wiki/Category:40毫米口径武器 "wikilink") [Category:榴弹发射器](https://zh.wikipedia.org/wiki/Category:榴弹发射器 "wikilink") [Category:轉輪式榴彈發射器](https://zh.wikipedia.org/wiki/Category:轉輪式榴彈發射器 "wikilink") [Category:中華人民共和國槍械](https://zh.wikipedia.org/wiki/Category:中華人民共和國槍械 "wikilink") [Category:需要圖片的槍械條目](https://zh.wikipedia.org/wiki/Category:需要圖片的槍械條目 "wikilink")

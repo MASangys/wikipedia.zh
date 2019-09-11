@@ -16,7 +16,7 @@
 
 ### 商業成績
 
-《惠妮》在眾多音樂評論家的眼中評價並沒有超越上一張《惠妮·休斯頓》，但這並不影響到這張專輯狂銷熱賣的程度。畢竟眾多消費者他們選擇的是好聽、耐聽，能一聽再聽的專輯，多數的歌迷們根本不在乎樂評怎麼評論這張專輯，《惠妮》的每首歌曲的確都是高製作水準，專輯在發行之後會造成轟動也是在預期之內的事。《惠妮》於1987年6月2日發行，同月27日首週進入[美國專輯榜旋即空降冠軍位置](https://zh.wikipedia.org/wiki/Billboard_200 "wikilink")，惠妮·休斯頓成為首位空降該榜冠軍的女藝人。《惠妮》連續蟬連榜首位置長達11週的時間，它一直到1988年1月30日才離開TOP 10，它同時是1987年佔據榜首最久的冠軍專輯，迄今為止，這張專輯光在美國一地已經銷售突破9白金的數字了\[6\]。《惠妮》在專輯榜內一共停留了87週，而且連續兩年都進入了告示牌年終專輯榜，1987年名列第23名，1988年晉升至第12名。
+《惠妮》在眾多音樂評論家的眼中評價並沒有超越上一張《惠妮·休斯頓》，但這並不影響到這張專輯狂銷熱賣的程度。多數的歌迷們已經在期待這張專輯的問世，《惠妮》的每首歌曲的確都是高製作水準，專輯在發行之後會造成轟動也是在預期之內的事。《惠妮》於1987年6月2日發行，同月27日首週進入[美國專輯榜旋即空降冠軍位置](https://zh.wikipedia.org/wiki/Billboard_200 "wikilink")，惠妮·休斯頓成為首位空降該榜冠軍的女藝人。《惠妮》連續蟬連榜首位置長達11週的時間，它一直到1988年1月30日才離開TOP 10，它同時是1987年佔據榜首最久的冠軍專輯，迄今為止，這張專輯光在美國一地已經銷售突破9白金的數字了\[6\]。《惠妮》在專輯榜內一共停留了87週，而且連續兩年都進入了告示牌年終專輯榜，1987年名列第23名，1988年晉升至第12名。
 
 《惠妮》所推出的單曲，接連四首依序登上榜首位置，從動感十足熱力四射的〈I Wanna Dance With Somebody (Who Loves Me)〉2週冠軍、激情高亢的〈[Didn't We Almost Have It All](../Page/Didn't_We_Almost_Have_It_All.md "wikilink")〉2週冠軍、節奏分明鏗鏘有力的〈[So Emotional](../Page/So_Emotional.md "wikilink")〉1週冠軍到深情款款的〈[Where Do Broken Hearts Go](../Page/Where_Do_Broken_Hearts_Go.md "wikilink")〉2週冠軍。第五首主打歌曲〈Love Will Save The Day〉也獲得了第9名的好成績。
 
@@ -48,9 +48,7 @@
 
 ## 資料來源
 
-\[
-
-[Category:美國音樂專輯](https://zh.wikipedia.org/wiki/Category:美國音樂專輯 "wikilink") [Category:美國女歌手](https://zh.wikipedia.org/wiki/Category:美國女歌手 "wikilink") [Category:美國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:美國流行音樂歌手 "wikilink") [Category:美國節奏藍調歌手](https://zh.wikipedia.org/wiki/Category:美國節奏藍調歌手 "wikilink") [Category:葛萊美獎獲得者](https://zh.wikipedia.org/wiki/Category:葛萊美獎獲得者 "wikilink") [Category:告示牌二百強專輯榜冠軍專輯](https://zh.wikipedia.org/wiki/Category:告示牌二百強專輯榜冠軍專輯 "wikilink")
+[Category:美國音樂專輯](https://zh.wikipedia.org/wiki/Category:美國音樂專輯 "wikilink") [Category:告示牌二百強專輯榜冠軍專輯](https://zh.wikipedia.org/wiki/Category:告示牌二百強專輯榜冠軍專輯 "wikilink")
 
 1.  [英國排行榜官網惠妮休斯頓專輯單曲資料庫](http://www.officialcharts.com/artist/22775/WHITNEY-HOUSTON/)
 2.  [美國葛萊美獎官網惠妮休斯頓獲獎資料庫](http://www.grammy.com/nominees/search?artist=Whitney+Houston&field_nominee_work_value=&year=All&genre=All)

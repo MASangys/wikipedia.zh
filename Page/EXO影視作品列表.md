@@ -27,7 +27,7 @@
 | 8月10日  | [一齣好戲](https://zh.wikipedia.org/wiki/一齣好戲 "wikilink")                      | Lay                                                             | 小興       |          |    |
 | 9月7日   | 獨孤Rewind\[14\]                                                             | Sehun                                                           | 姜赫       | 主角       |    |
 | 12月19日 | [Swing Kids](../Page/Swing_Kids.md "wikilink") \[15\]                      | D.O.                                                            | 羅奇秀      |          |    |
-| 待上映    |                                                                            | 我在你身邊\[16\]                                                     | Lay      |          |    |
+| 2019   | 9月12日                                                                      | 一切如你（原名：我在你身邊）\[16\]                                            | Lay      |          |    |
 | 待上映    |                                                                            | 我愛喵星人 \[17\]                                                    | Sehun    | 梁渠       | 主角 |
 | 待上映    |                                                                            | 閉嘴！愛吧 \[18\]                                                    | Lay      | 韓彬       |    |
 
@@ -129,7 +129,7 @@
 | 12月1日 - 2019年2月9日 | [騰訊視頻](https://zh.wikipedia.org/wiki/騰訊視頻 "wikilink")          | [即刻電音](https://zh.wikipedia.org/wiki/即刻電音 "wikilink")\[44\]        | Lay                                                             | 全輯                                               |            |
 | 2019              | 1月21日 - 4月6日                                                   | [愛奇藝](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink")                | [青春有你](../Page/青春有你.md "wikilink")                              | 全輯／青春製作人代表                                       |            |
 | 5月12日 - 8月4日      | 東方衛視                                                           | [極限挑戰第五季](https://zh.wikipedia.org/wiki/極限挑戰 "wikilink")           |                                                                 |                                                  |            |
-| 6月21日 -           | KBS2                                                           | 加油吧曼蘇爾                                                             | Kai                                                             |                                                  |            |
+| 6月21日 -           | KBS2                                                           | [加油吧曼蘇爾](../Page/加油吧曼蘇爾.md "wikilink")                             | Kai                                                             |                                                  |            |
 
 ## 綜藝節目
 
@@ -2047,6 +2047,7 @@ Chen、Kai</p></td>
 | 2015年9月4日－11月22日      | In The Heights      | Chen             | Benny        |
 | 2017年12月15日－2018年3月1日 | The Last Kiss       | Suho             | Rudolf       |
 | 2018年7月18日 - 11月1日    | 笑面人                 | Gwynplaine（格溫普蘭） |              |
+| 2019年10月22日 - 12月1日   | 歸來：那日的約定            | Xiumin           |              |
 
 ## 雜誌畫報
 

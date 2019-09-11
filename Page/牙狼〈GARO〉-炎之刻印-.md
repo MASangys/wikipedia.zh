@@ -449,6 +449,15 @@ Park Gi Deok</p></td>
 </tbody>
 </table>
 
+## 相關作品
+
+  - 《[劇場版 牙狼<GARO> \~Divine Flame\~](https://zh.wikipedia.org/wiki/劇場版_牙狼\<GARO\>_~Divine_Flame~ "wikilink")》
+
+<!-- end list -->
+
+  -
+    牙狼10週年紀念作，也是牙狼系列第一部劇場版動畫，時間點設定在TV本篇的四年後。
+
 ## 註釋
 
 ## 外部連結

@@ -155,13 +155,13 @@ PlotData =
 
 ### 2019年
 
-**迷你八輯《No.1》、初一位、數位單曲《ME》**
+**迷你八輯《No.1》、初一位、數位單曲《ME》、第二張數位單曲《Devil》**
 
 1月30日，迷你八輯《[No.1](https://zh.wikipedia.org/wiki/No.1 "wikilink")》回歸。2月7日，CLC首次進入M countdown一位候補。\[60\]。2月9日，迷你八輯《[No.1](https://zh.wikipedia.org/wiki/No.1 "wikilink")》其主打歌《No》登上Billboard's World Albums Chart第五位，
 
 2月12日，CLC於 SBS MTV 的《[THE SHOW](https://zh.wikipedia.org/wiki/THE_SHOW "wikilink")》中，拿下自出道1427天以來的初一位\[61\]\[62\]，為目前獲得一位所花時間最多的女團。 2月13日，宣傳期間首度登上《[Show Champion](../Page/Show_Champion.md "wikilink")》的一位候補。 2月19日，CLC再度於 SBS MTV 的《[THE SHOW](https://zh.wikipedia.org/wiki/THE_SHOW "wikilink")》獲得第二個一位。
 
-5月29日，時隔4個月以《[ME](../Page/Me_\(CLC單曲\).md "wikilink")》回歸，並於韓國時間下午六時公開《ME》MV、音源，在Bugs的排行榜拿下實時7位和Soribada排行榜的93位。
+5月29日，時隔4個月以《[ME](../Page/Me_\(CLC單曲\).md "wikilink")》回歸，並於韓國時間下午六時公開《ME》MV、音源，在Bugs的排行榜拿下實時7位和Soribada排行榜的93位。 8月28日，於官方Instagram透露將於9月6日以第二張數位單曲《Devil》回歸。
 
 ## 音樂作品
 
@@ -183,6 +183,7 @@ PlotData =
   - 2015年：
   - 2018年：
   - 2019年：[ME(美)](../Page/Me_\(CLC單曲\).md "wikilink")
+  - 2019年：[Devil](https://zh.wikipedia.org/wiki/Devil_\(CLC單曲\) "wikilink")
 
 **日語作品**
 
@@ -457,7 +458,10 @@ Berjaya Times Square KL, LG Concourse</p></td>
 | 5月25日        | Seowon Valley Green Concert                      |                                             |                                                                     |
 | 7月28日        | Mid summer Festival - 부산                         |                                             |                                                                     |
 | 8月15日        | Water Bomb Daejeon 2019                          |                                             |                                                                     |
-| 8月16日        | K월드 페스타 K-WORLD FESTA                            |                                             |                                                                     |
+| 8月16日        | K월드 페스타 K-WORLD FESTA                            | 首爾奧林匹克公園                                    |                                                                     |
+| 8月22日        | 2019 SORIBADA BEST K-MUSIC AWARDS                | 首爾奧林匹克公園                                    |                                                                     |
+| 8月25日        | 2019 K-ASIAN FESTIVAL in INCHEON                 | 韓國仁川                                        |                                                                     |
+| 8月31日        | K-CONTENT EXPO RUSSIA 2019                       | 俄羅斯莫斯科                                      |                                                                     |
 
 ## 獎項
 
@@ -482,6 +486,12 @@ Berjaya Times Square KL, LG Concourse</p></td>
 <td><p>2018</p></td>
 <td><ul>
 <li>Daradaily The Great Awards (Thailand) 2018－亞洲飛躍獎</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p>2019</p></td>
+<td><ul>
+<li>第3屆Soribada最佳音樂大獎－Music Star Song Award</li>
 </ul></td>
 </tr>
 </tbody>
@@ -578,6 +588,9 @@ Berjaya Times Square KL, LG Concourse</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td></td>
+</tr>
+<tr class="even">
 <td><ul>
 <li>「*」：打榜中</li>
 <li>「(1)」：兩星期冠軍</li>

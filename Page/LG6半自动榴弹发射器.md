@@ -1,6 +1,6 @@
 **LG6**是一枝由[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[湖南兵器轻武器研究所为满足外贸需求而自行研制和生產](https://zh.wikipedia.org/wiki/湖南兵器轻武器研究所 "wikilink")，并且由[北方工业公司銷售的轻便](../Page/中国兵器工业集团.md "wikilink")[彈鼓供弹式](https://zh.wikipedia.org/wiki/彈鼓 "wikilink")[半自動](https://zh.wikipedia.org/wiki/榴弹发射器#半自动榴弹发射器 "wikilink")[肩射型](https://zh.wikipedia.org/wiki/榴彈發射器#肩射型 "wikilink")[榴彈發射器](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")，主要發射[40×46毫米低速榴彈](../Page/40毫米榴彈.md "wikilink")。
 
-全系统具有重量较轻、精度较高、威力强大、结构紧凑、[人机工效性良好](https://zh.wikipedia.org/wiki/生物力学 "wikilink")、安全可靠、通用性强大、高[性價比](../Page/性價比.md "wikilink")的优点，在国际武器市场上具有较强大的竞争力。
+全系统具有重量较轻、精度较高、威力强大、结构紧凑、[人机工效性良好](../Page/生物力学.md "wikilink")、安全可靠、通用性强大、高[性價比](../Page/性價比.md "wikilink")的优点，在国际武器市场上具有较强大的竞争力。
 
 ## 歷史
 
@@ -49,4 +49,4 @@ LG6主要旨在一人手持式使用，并设有镂空式[槍托](../Page/槍托
 
   - —[The Chinese QLZ87 Automatic Grenade Launcher](https://books.google.com.hk/books?id=HabLBQAAQBAJ&pg=PA19&dq=LG6+grenade+launcher&hl=en&sa=X&ei=98vpVNn5HKSimQXK-ILICg&ved=0CB0Q6AEwAA#v=onepage&q=LG6%20grenade%20launcher&f=false)（有LG6的描述）
 
-[Category:40毫米口径武器](https://zh.wikipedia.org/wiki/Category:40毫米口径武器 "wikilink") [Category:榴弹发射器](https://zh.wikipedia.org/wiki/Category:榴弹发射器 "wikilink") [Category:半自動榴彈發射器](https://zh.wikipedia.org/wiki/Category:半自動榴彈發射器 "wikilink") [Category:中華人民共和國槍械](https://zh.wikipedia.org/wiki/Category:中華人民共和國槍械 "wikilink")
+[Category:40毫米口径武器](https://zh.wikipedia.org/wiki/Category:40毫米口径武器 "wikilink") [Category:榴弹发射器](https://zh.wikipedia.org/wiki/Category:榴弹发射器 "wikilink") [Category:半自動榴彈發射器](https://zh.wikipedia.org/wiki/Category:半自動榴彈發射器 "wikilink") [Category:中華人民共和國槍械](https://zh.wikipedia.org/wiki/Category:中華人民共和國槍械 "wikilink") [Category:需要圖片的槍械條目](https://zh.wikipedia.org/wiki/Category:需要圖片的槍械條目 "wikilink")

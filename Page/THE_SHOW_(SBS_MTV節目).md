@@ -88,7 +88,7 @@
 | 2016年5月10日           | [爀](../Page/VIXX.md "wikilink")                                                                                                                                           |                                                                                                                            |                                      |
 | 2016年5月17日至24日       | [宇信](../Page/UP10TION.md "wikilink")                                                                                                                                      |                                                                                                                            |                                      |
 | 2016年6月21日           | [希澈](../Page/希澈.md "wikilink")、[Momo](../Page/Momo_\(TWICE\).md "wikilink")、[彩瑛](../Page/彩瑛.md "wikilink")                                                                |                                                                                                                            |                                      |
-| 2016年7月12日           | [承俊](https://zh.wikipedia.org/wiki/KNK "wikilink")、[車銀優](https://zh.wikipedia.org/wiki/車銀優_\(韓國歌手\) "wikilink")                                                           |                                                                                                                            |                                      |
+| 2016年7月12日           | [承俊](../Page/KNK.md "wikilink")、[車銀優](https://zh.wikipedia.org/wiki/車銀優_\(韓國歌手\) "wikilink")                                                                              |                                                                                                                            |                                      |
 | 2016年8月2日            | [世正](https://zh.wikipedia.org/wiki/金世正 "wikilink")、宇信                                                                                                                     |                                                                                                                            |                                      |
 | 2016年8月9日            | 車銀優                                                                                                                                                                       |                                                                                                                            |                                      |
 | 2016年8月16日           | 弘彬                                                                                                                                                                        |                                                                                                                            |                                      |
@@ -118,6 +118,8 @@
 | 2018年11月20日、27日      | [普閔](https://zh.wikipedia.org/wiki/崔普閔 "wikilink")                                                                                                                        |                                                                                                                            |                                      |
 | 2018年12月4日           | [道英](../Page/道英.md "wikilink")、[在玹](../Page/在玹.md "wikilink")                                                                                                             |                                                                                                                            |                                      |
 | 2019年8月20日           | [崔秉燦](https://zh.wikipedia.org/wiki/崔秉燦 "wikilink")                                                                                                                       |                                                                                                                            |                                      |
+| 2019年8月27日           | [賢在](https://zh.wikipedia.org/wiki/THE_BOYZ "wikilink")、[張大賢](../Page/張大賢.md "wikilink")                                                                                  |                                                                                                                            |                                      |
+| 2019年9月3日            | [辰樂](https://zh.wikipedia.org/wiki/辰樂 "wikilink")、[產賀](https://zh.wikipedia.org/wiki/產賀 "wikilink")、[宋有彬](https://zh.wikipedia.org/wiki/宋有彬 "wikilink")                   |                                                                                                                            |                                      |
 
 ## 評定基準
 
@@ -851,6 +853,7 @@
   - 08.06 - [NCT Dream](https://zh.wikipedia.org/wiki/NCT_Dream "wikilink")<sup>4th</sup> - Boom<sup>1st</sup> \[9,600分\]
   - 08.13 - [Oh My Girl](https://zh.wikipedia.org/wiki/Oh_My_Girl "wikilink")<sup>4th</sup> - Bungee<sup>1st</sup> \[8,421分\]
   - 08.20 - [NCT Dream](https://zh.wikipedia.org/wiki/NCT_Dream "wikilink")<sup>5th</sup> - Boom<sup>2nd</sup> \[8,020分\]
+  - 08.27 - [Red Velvet](../Page/Red_Velvet.md "wikilink")<sup>8th</sup> - Umpah Umpah<sup>1st</sup> \[7,980分\]
 
 ## 藝人成就
 
@@ -863,9 +866,9 @@
 | 1st                                                               | [VIXX](../Page/VIXX.md "wikilink")                                | 14次 | 2012 |
 | 2nd                                                               | [GFRIEND](../Page/GFRIEND.md "wikilink")                          | 12次 | 2015 |
 | 3rd                                                               | [EXID](https://zh.wikipedia.org/wiki/EXID "wikilink")             | 8次  | 2012 |
+| [Red Velvet](../Page/Red_Velvet.md "wikilink")                    | 2014                                                              |     |      |
 | 4th                                                               | [Apink](../Page/Apink.md "wikilink")                              | 7次  | 2011 |
 | [GOT7](../Page/GOT7.md "wikilink")                                | 2014                                                              |     |      |
-| [Red Velvet](../Page/Red_Velvet.md "wikilink")                    | 2014                                                              |     |      |
 | [MAMAMOO](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")       | 2014                                                              |     |      |
 | 5th                                                               | [Wanna One](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")   | 6次  | 2017 |
 | 6th                                                               | [防彈少年團](../Page/防彈少年團.md "wikilink")                              | 5次  | 2013 |

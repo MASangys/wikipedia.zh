@@ -18,7 +18,7 @@
 
 ### 《青春常駐》
 
-  - **[CASH金帆音樂獎](https://zh.wikipedia.org/wiki/CASH金帆音樂獎 "wikilink") - 最佳男歌手演繹 -《青春常駐》**
+  - **[CASH金帆音樂獎](../Page/CASH金帆音樂獎.md "wikilink") - 最佳男歌手演繹 -《青春常駐》**
   - [無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")2014[勁歌金曲](../Page/勁歌金曲.md "wikilink")優秀選第一回 - 歌曲獎《青春常駐》
   - [無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")2014[勁歌金曲頒獎典禮](https://zh.wikipedia.org/wiki/勁歌金曲頒獎典禮 "wikilink") - 勁歌金曲獎《青春常駐》
   - [新城電台](../Page/新城電台.md "wikilink")2014[新城勁爆頒獎禮](../Page/新城勁爆頒獎禮.md "wikilink") - 新城數碼音樂台我最欣賞歌曲《青春常駐》

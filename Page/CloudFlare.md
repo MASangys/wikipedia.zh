@@ -24,9 +24,9 @@ Cloudflare由三個曾為工作的工程師Matthew Prince, Lee Holloway, and Mic
 
 2014年6月下旬，香港[佔領中環全民投票網站](../Page/讓愛與和平佔領中環.md "wikilink")****于2014年6月14日晚9点至11点及6月15日8点至11点半先后遭受骇客发动分散式阻断服务攻击，Cloudflare作為其服務提供者直接受到波及。攻擊者利用[NTP和](../Page/網路時間協定.md "wikilink")[DNS協議的漏洞讓垃圾流量加以放大](https://zh.wikipedia.org/wiki/DNS "wikilink")，攻擊流量峰值達到400 Gbit/s。\[14\]
 
-2016年4月，台北數據中心正式開放使用。\[15\]
+2014年9月，Cloudflare發布了一种新型加密传输技術——**无密钥SSL**（英文：Keyless SSL）。在該技術的支持下，Cloudflare可以於不持有客戶[私鑰的情況下與訪客建立](https://zh.wikipedia.org/wiki/私钥 "wikilink")[SSL連接](https://zh.wikipedia.org/wiki/SSL "wikilink")，從而令銀行等因故無法交予私鑰的用戶得以享受最大限度的安全服務。\[15\]
 
-2014年8月，Cloudflare發布了一种新型加密传输技術——**无密钥SSL**（英文：Keyless SSL）。在該技術的支持下，Cloudflare可以於不持有客戶[私鑰的情況下與訪客建立](https://zh.wikipedia.org/wiki/私钥 "wikilink")[SSL連接](https://zh.wikipedia.org/wiki/SSL "wikilink")，從而令銀行等因故無法交予私鑰的用戶得以享受最大限度的安全服務。\[16\]
+2016年4月，台北數據中心正式開放使用。\[16\]
 
 ### 併購
 
@@ -66,7 +66,7 @@ Cloudflare 的網路在全球擁有許多連線到網際網路交換點的連線
 
 ### 中国大陆服务
 
-Cloudflare 与[百度](../Page/百度.md "wikilink")及降维安全实验室（johnwick.io）建立合作伙伴关系。Cloudflare 现已推出了中国大陆地区的服务，帮助所有企业改善他们的互联网应用的性能及安全， 扩展其全球业务。Cloudflare 和百度的合作将百度大陆的22个中心地区节点与 Cloudflare 全球的86个节点结合起来。\[25\]
+Cloudflare 与[百度](../Page/百度.md "wikilink")建-{}-立了合作伙伴关系。Cloudflare 现已推出了中国大陆地区的服务，帮助所有企业改善他们的互联网应用的性能及安全， 扩展其全球业务。Cloudflare 和百度的合作将百度大陆的22个中心地区节点与 Cloudflare 全球的86个节点结合起来。\[25\]
 
 ### Project Galileo
 

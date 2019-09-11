@@ -76,6 +76,8 @@ Vivaldi——視同[Google Chrome](../Page/Google_Chrome.md "wikilink")——能
 | 2.3             |
 | 2.4             |
 | 2.5             |
+| 2.6             |
+| 2.7             |
 
 ## 相關
 

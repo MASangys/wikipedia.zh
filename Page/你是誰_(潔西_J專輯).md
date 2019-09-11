@@ -264,7 +264,7 @@
 24.
 25.
 26.
-27. |date=20 April 2011|first=Keith|last=Caulfield|work=[Billboard](../Page/告示牌_\(雜誌\).md "wikilink")|publisher=[Prometheus Global Media](https://zh.wikipedia.org/wiki/Prometheus_Global_Media "wikilink")|accessdate=20 April 2011}}
+27. |date=2011-04-20|first=Keith|last=Caulfield|work=[Billboard](../Page/告示牌_\(雜誌\).md "wikilink")|publisher=[Prometheus Global Media](https://zh.wikipedia.org/wiki/Prometheus_Global_Media "wikilink")|accessdate=2011-04-20}}
 
 28. [Schweizer Jahreshitparade 2011 - hitparade.ch](http://hitparade.ch/year.asp?key=2011)
 
@@ -296,7 +296,7 @@
 42.
 
 43.
-44.  Jessie J:Who You Are|accessdate=8 April 2011}}
+44.  Jessie J:Who You Are|accessdate=2011-04-08}}
 
 45.
 

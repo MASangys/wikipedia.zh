@@ -32,27 +32,31 @@
 
 [Charli_XCX_July_2018.jpg](https://zh.wikipedia.org/wiki/File:Charli_XCX_July_2018.jpg "fig:Charli_XCX_July_2018.jpg")
 
-在2015年7月的採訪中，恰莉表示自己正在製作第3張專輯並將其描述為她做過「最流行，也最電音的東西」，\[31\] 製作人，[BloodPop](../Page/BloodPop.md "wikilink")和，也證實將會參與專輯的製作。2015年10月，她在Beats 1 Radio Show上首次公開新單曲名稱《Vroom Vroom》，並表示它將是第3張專輯中最先發行的歌曲。隔年2月23號，恰莉公布將會設立全新的實驗流行唱片公司，Vroom Vroom Recording。同時她將會於3天後發行全新[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")《》。而同名單曲也將於同天正式發行。.\[32\] 迷你專輯中發行的第二張單曲《Trophy》，發行當晚由在[Beats 1電台節目上首次播放](../Page/Apple_Music.md "wikilink")。並同時宣布恰莉將會在固定時段主持她自己的Beats 1 show。\[33\] 由製作人蘇菲製作的單曲《Vroom Vroom》原本是用於預告第3張錄音室專輯即將發行的宣傳曲。\[34\] 作為一張\[35\] 的迷你專輯，跟前期的專輯比恰莉在風格上出現急遽的變化，並獲得了褒貶不一的評論。同名單曲的音樂影片於2016年4月發布至[Apple Music](../Page/Apple_Music.md "wikilink")。\[36\]
+在2015年7月的採訪中，恰莉表示自己正在製作第3張專輯並將其描述為她做過「最流行，也最電音的東西」，\[31\] 製作人，[BloodPop](../Page/BloodPop.md "wikilink")和，也證實將會參與專輯的製作。2015年10月，她在Beats 1 Radio Show上首次公開新單曲《Vroom Vroom》，並表示它將是第3張專輯中最先發行的歌曲。隔年2月23日，恰莉公布將會設立全新的實驗流行唱片公司，Vroom Vroom唱片。同時她將會於3天後發行全新[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")《》。而同名單曲也將於同天正式發行。\[32\] 迷你專輯中發行的第二張單曲《Trophy》，發行當晚由在[Beats 1電台節目上首次播放](../Page/Apple_Music.md "wikilink")。並同時宣布恰莉將會在固定時段主持她自己的Beats 1電台節目。\[33\] 由製作人蘇菲製作的單曲《Vroom Vroom》原本是用於預告第3張錄音室專輯即將發行的宣傳曲。\[34\] 作為一張\[35\] 的迷你專輯，跟前期的專輯比恰莉在風格上出現急遽的變化，並獲得了褒貶不一的評論。同名單曲的音樂影片於2016年4月發布至[Apple Music](../Page/Apple_Music.md "wikilink")。\[36\]
+
+2016年7月，唱片品牌的創辦人兼英國製作人宣布已簽約成為恰莉的創意總監。\[37\] 10月28日，第三張專輯的首張單曲《[After the Afterparty](https://zh.wikipedia.org/wiki/餘興派對之後 "wikilink")》發行。\[38\]\[39\]\[40\] 兩天後，單曲錄影帶釋出。\[41\] 單曲於[英國單曲榜排行第](https://zh.wikipedia.org/wiki/英國單曲榜 "wikilink")29名，\[42\] 並獲得[英國唱片業協會的銀唱片認證](https://zh.wikipedia.org/wiki/英國唱片業協會 "wikilink")。\[43\] 2017年2月8日，恰莉於[吉米夜現場表演由](https://zh.wikipedia.org/wiki/吉米夜現場 "wikilink")[卡莉怪妞客串的新單曲](https://zh.wikipedia.org/wiki/卡莉怪妞 "wikilink")《Bounce》。\[44\] 她在同月的採訪中表示專輯已經完成並將於9月發行。\[45\] 3月10日，恰莉發行了客串包含[茉兒](../Page/MØ.md "wikilink")、、、、和等一系列女歌手的混音帶《》，混音帶主要由包含，和在內的PC音樂旗下製作人製作。\[46\]
+
+2018年5月，恰莉開始與卡蜜拉·卡貝羅一起擔任[泰勒絲的](https://zh.wikipedia.org/wiki/泰勒絲 "wikilink")[舉世盛名體育場巡迴演唱會](../Page/舉世盛名體育場巡迴演唱會.md "wikilink")的開場嘉賓。\[47\] 在這之後，她開始發行數首單曲。5月31日，於泰勒斯巡演的首場場次表演的單曲《5 in the Morning》發行。\[48\] 6月27日，單曲《》和《》同時發行。\[49\] 7月27日，於先前現場表演並於2017年遭外流的單曲《Girls Night Out》發行。\[50\]
 
 ## 藝術性質
 
 ### 音樂風格
 
-樂評家主要將恰莉的音樂分為[流行舞曲](../Page/流行舞曲.md "wikilink")、\[37\]\[38\]\[39\] [電音流行](https://zh.wikipedia.org/wiki/電音流行 "wikilink")、\[40\]\[41\] 和[另類流行](https://zh.wikipedia.org/wiki/另類搖滾 "wikilink")。\[42\] 她早期的作品被形容是和的混和體。 \[43\] 在自己的事業逐漸步入正軌後，她更是在自己的首張專輯中使用了和[合成器流行](../Page/合成器流行.md "wikilink")等多種曲風，\[44\]\[45\] 她的第二張專輯被媒體稱作融合了[龐克搖滾](https://zh.wikipedia.org/wiki/龐克搖滾 "wikilink")、[新浪潮](../Page/新浪潮.md "wikilink")和[強力流行](../Page/強力流行.md "wikilink")元素的[流行龐克](https://zh.wikipedia.org/wiki/流行龐克 "wikilink")。\[46\].\[47\]\[48\]\[49\] 2016後，她最新的作品《》開始朝的風格發展，\[50\]\[51\] 並同時融合了[歐陸舞曲的元素](https://zh.wikipedia.org/wiki/歐陸舞曲 "wikilink")，\[52\] 而隔年發行的混音帶《》同樣展現出了受[陷阱樂](../Page/陷阱音樂.md "wikilink")、[節奏藍調](https://zh.wikipedia.org/wiki/當代節奏藍調 "wikilink")、[電音流行](https://zh.wikipedia.org/wiki/電音流行 "wikilink")、[合成器流行](../Page/合成器流行.md "wikilink")和等多種曲風影響的多元風格。\[53\]\[54\] 大眾媒體時常以她去和[關·史蒂芬妮](../Page/關·史蒂芬妮.md "wikilink")\[55\] 和[瑪琳娜等歌手的聲線作比較](https://zh.wikipedia.org/wiki/瑪琳娜·戴曼迪斯 "wikilink")。\[56\]
+樂評家主要將恰莉的音樂分為[流行舞曲](../Page/流行舞曲.md "wikilink")、\[51\]\[52\]\[53\] [電音流行](https://zh.wikipedia.org/wiki/電音流行 "wikilink")、\[54\]\[55\] 和[另類流行](https://zh.wikipedia.org/wiki/另類搖滾 "wikilink")。\[56\] 她早期的作品被形容是和的混和體。 \[57\] 在自己的事業逐漸步入正軌後，她更是在自己的首張專輯中使用了和[合成器流行](../Page/合成器流行.md "wikilink")等多種曲風，\[58\]\[59\] 她的第二張專輯被媒體稱作融合了[龐克搖滾](https://zh.wikipedia.org/wiki/龐克搖滾 "wikilink")、[新浪潮](../Page/新浪潮.md "wikilink")和[強力流行](../Page/強力流行.md "wikilink")元素的[流行龐克](https://zh.wikipedia.org/wiki/流行龐克 "wikilink")。\[60\].\[61\]\[62\]\[63\] 2016後，她最新的作品《》開始朝的風格發展，\[64\]\[65\] 並同時融合了[歐陸舞曲的元素](https://zh.wikipedia.org/wiki/歐陸舞曲 "wikilink")，\[66\] 而隔年發行的混音帶《》同樣展現出了受[陷阱樂](../Page/陷阱音樂.md "wikilink")、[節奏藍調](https://zh.wikipedia.org/wiki/當代節奏藍調 "wikilink")、[電音流行](https://zh.wikipedia.org/wiki/電音流行 "wikilink")、[合成器流行](../Page/合成器流行.md "wikilink")和等多種曲風影響的多元風格。\[67\]\[68\] 大眾媒體時常以她去和[關·史蒂芬妮](../Page/關·史蒂芬妮.md "wikilink")\[69\] 和[瑪琳娜等歌手的聲線作比較](https://zh.wikipedia.org/wiki/瑪琳娜·戴曼迪斯 "wikilink")。\[70\]
 
 ### 所受影響
 
-影響恰莉音樂風格的藝人包括[小甜甜布蘭妮](../Page/布蘭妮·斯皮爾斯.md "wikilink")、、[不要懷疑](../Page/不要懷疑.md "wikilink")樂團、[t.A.T.u.](https://zh.wikipedia.org/wiki/t.A.T.u. "wikilink")、、[比基尼殺戮](https://zh.wikipedia.org/wiki/比基尼殺戮 "wikilink")、、、\[57\] [治療樂隊](https://zh.wikipedia.org/wiki/治療樂隊 "wikilink")、、、[唐娜·桑默](../Page/唐娜·桑默.md "wikilink")、\[58\] [瑪莉蓮·曼森](https://zh.wikipedia.org/wiki/瑪莉蓮·曼森 "wikilink")、\[59\]\[60\] 、[辣妹合唱團](../Page/辣妹合唱團.md "wikilink")、、、、[小韋恩](../Page/小韋恩.md "wikilink")、\[61\]\[62\]\[63\][凱特·布希](../Page/凱特·布希.md "wikilink")、美國恐怖劇集《[雙峰](https://zh.wikipedia.org/wiki/雙峰_\(電視劇\) "wikilink")》、\[64\] [芭黎絲·希爾頓](../Page/芭黎絲·希爾頓.md "wikilink")、\[65\] 、、[凱文·哈里斯](../Page/凱文·哈里斯.md "wikilink")、\[66\] [碧玉](../Page/碧玉_\(歌手\).md "wikilink")、以及。\[67\]
+影響恰莉音樂風格的藝人包括[小甜甜布蘭妮](../Page/布蘭妮·斯皮爾斯.md "wikilink")、、[不要懷疑](../Page/不要懷疑.md "wikilink")樂團、[t.A.T.u.](https://zh.wikipedia.org/wiki/t.A.T.u. "wikilink")、、[比基尼殺戮](https://zh.wikipedia.org/wiki/比基尼殺戮 "wikilink")、、、\[71\] [治療樂隊](https://zh.wikipedia.org/wiki/治療樂隊 "wikilink")、、、[唐娜·桑默](../Page/唐娜·桑默.md "wikilink")、\[72\] [瑪莉蓮·曼森](https://zh.wikipedia.org/wiki/瑪莉蓮·曼森 "wikilink")、\[73\]\[74\] 、[辣妹合唱團](../Page/辣妹合唱團.md "wikilink")、、、、[小韋恩](../Page/小韋恩.md "wikilink")、\[75\]\[76\]\[77\][凱特·布希](../Page/凱特·布希.md "wikilink")、美國恐怖劇集《[雙峰](https://zh.wikipedia.org/wiki/雙峰_\(電視劇\) "wikilink")》、\[78\] [芭黎絲·希爾頓](../Page/芭黎絲·希爾頓.md "wikilink")、\[79\] 、、[凱文·哈里斯](../Page/凱文·哈里斯.md "wikilink")、\[80\] [碧玉](../Page/碧玉_\(歌手\).md "wikilink")、以及。\[81\]
 
-恰莉稱蘇西克為她的「英雄」\[68\] 並表示[蕾哈娜](../Page/蕾哈娜.md "wikilink")是她「最愛的pop girl。」\[69\] 在她著手製作第二張專輯時，她開始受到、 [威瑟樂團](../Page/威瑟樂團.md "wikilink")、[雷蒙斯](../Page/雷蒙斯.md "wikilink")和1960年代的音樂影響。\[70\] 恰莉曾表示「最棒的藝術家就是那些不斷變化的人—好比[瑪丹娜和](https://zh.wikipedia.org/wiki/瑪丹娜 "wikilink")[大衛·鮑伊](https://zh.wikipedia.org/wiki/大衛·鮑伊 "wikilink")」\[71\] 並表示自己「夢想著能和碧玉、凱特·布希、甚至這類的歌手合作。」\[72\]
+恰莉稱蘇西克為她的「英雄」\[82\] 並表示[蕾哈娜](../Page/蕾哈娜.md "wikilink")是她「最愛的pop girl。」\[83\] 在她著手製作第二張專輯時，她開始受到、 [威瑟樂團](../Page/威瑟樂團.md "wikilink")、[雷蒙斯](../Page/雷蒙斯.md "wikilink")和1960年代的音樂影響。\[84\] 恰莉曾表示「最棒的藝術家就是那些不斷變化的人—好比[瑪丹娜和](https://zh.wikipedia.org/wiki/瑪丹娜 "wikilink")[大衛·鮑伊](https://zh.wikipedia.org/wiki/大衛·鮑伊 "wikilink")」\[85\] 並表示自己「夢想著能和碧玉、凱特·布希、甚至這類的歌手合作。」\[86\]
 
-在這些影響她的歌手中，恰莉最愛的歌包括的《》、\[73\] 的《》、Uffie的《》、的《》、[賽吉·甘斯柏的](../Page/赛日·甘斯布.md "wikilink")《》、治療樂團的《》、\[74\] 芭黎絲·希爾頓的《》、\[75\] 以及布蘭妮的《[再危險...我也要](../Page/再危險...我也要.md "wikilink")》和《[破碎的我](https://zh.wikipedia.org/wiki/破碎的我 "wikilink")》。\[76\]
+在這些影響她的歌手中，恰莉最愛的歌包括的《》、\[87\] 的《》、Uffie的《》、的《》、[賽吉·甘斯柏的](../Page/赛日·甘斯布.md "wikilink")《》、治療樂團的《》、\[88\] 芭黎絲·希爾頓的《》、\[89\] 以及布蘭妮的《[Gimme More](../Page/再危險...我也要.md "wikilink")》和《[Piece of Me](https://zh.wikipedia.org/wiki/破碎的我 "wikilink")》。\[90\]
 
 ## 個人生活
 
-酷娃恰莉有色彩[聯覺](https://zh.wikipedia.org/wiki/聯覺 "wikilink")。她曾說：「我看到的音樂是彩色的。我喜歡黑色、粉色、紫色或者是紅色的音樂——但我不喜歡綠色、黃色或者是棕色的音樂。」\[77\] 她認為自己是[女權主義者並寫下歌曲](../Page/女性主義.md "wikilink")《自己的身體》作為立場宣言。\[78\] 她同時也製作了有關性別平等的2015年的紀錄片《The F Word and Me》，該片於[英國廣播公司第三台](../Page/英國廣播公司第三台.md "wikilink")首次上映。\[79\]
+酷娃恰莉有色彩[聯覺](https://zh.wikipedia.org/wiki/聯覺 "wikilink")。她曾說：「我看到的音樂是彩色的。我喜歡黑色、粉色、紫色或者是紅色的音樂——但我不喜歡綠色、黃色或者是棕色的音樂。」\[91\] 她認為自己是[女權主義者並寫下歌曲](../Page/女性主義.md "wikilink")《自己的身體》作為立場宣言。\[92\] 她同時也製作了有關性別平等的2015年的紀錄片《The F Word and Me》，該片於[英國廣播公司第三台](../Page/英國廣播公司第三台.md "wikilink")首次上映。\[93\]
 
-酷娃恰莉把自己活動的時間主要劃分成在倫敦、[洛杉磯](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")，跟加州等三個地區。\[80\]
+酷娃恰莉把自己活動的時間主要劃分成在倫敦、[洛杉磯](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")，跟加州等三個地區。\[94\]
 
 ## 音樂作品
 
@@ -107,27 +111,27 @@
 <tbody>
 <tr class="odd">
 <td><p>2016</p></td>
-<td><p>《I, U, US》[81]</p></td>
+<td><p>《I, U, US》[95]</p></td>
 <td></td>
 <td><p>導演</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2017</p></td>
-<td><p>《》[82]</p></td>
+<td><p>《》[96]</p></td>
 <td><p>酷娃恰莉</p></td>
 <td><p>導演、她自己</p></td>
 <td><p>與莎拉·麥克考根聯合執導</p></td>
 </tr>
 <tr class="odd">
-<td><p>《Phases》[83]</p></td>
+<td><p>《Phases》[97]</p></td>
 <td><p>和<a href="https://zh.wikipedia.org/wiki/弗倫奇·蒙塔納" title="wikilink">弗倫奇·蒙塔納</a></p></td>
 <td><p>導演</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>《》[84]</p></td>
+<td><p>《》[98]</p></td>
 <td><p><a href="../Page/大衛·庫塔_(DJ).md" title="wikilink">大衛·庫塔</a>、<a href="../Page/艾佛傑克.md" title="wikilink">艾佛傑克</a>（酷娃恰莉與弗倫奇·蒙塔納客串）</p></td>
 <td><p>導演、她自己</p></td>
 <td><p>與莎拉·麥克考根聯合執導</p></td>
@@ -157,7 +161,7 @@
 <tbody>
 <tr class="odd">
 <td><p>2015</p></td>
-<td><p>《The F-Word and Me》[85]</p></td>
+<td><p>《The F-Word and Me》[99]</p></td>
 <td><p>她自己</p></td>
 <td><p>紀錄片</p></td>
 </tr>
@@ -169,13 +173,13 @@
 </tr>
 <tr class="odd">
 <td><p>2015</p></td>
-<td><p>《》[86]</p></td>
+<td><p>《》[100]</p></td>
 <td><p>她自己</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2016</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/憤怒鳥玩電影" title="wikilink">憤怒鳥玩電影</a>》[87]</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/憤怒鳥玩電影" title="wikilink">憤怒鳥玩電影</a>》[101]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/憤怒鳥玩電影#配音員" title="wikilink">柳</a></p></td>
 <td><p>角色配音</p></td>
 </tr>
@@ -208,13 +212,13 @@
 <tbody>
 <tr class="odd">
 <td><p>2014</p></td>
-<td><p>《<a href="../Page/週六夜現場.md" title="wikilink">週六夜現場</a>》[88]</p></td>
+<td><p>《<a href="../Page/週六夜現場.md" title="wikilink">週六夜現場</a>》[102]</p></td>
 <td><p>她自己</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2014</p></td>
-<td><p>《》[89]</p></td>
+<td><p>《》[103]</p></td>
 <td><p>凡妮莎羅斯柴德夫人</p></td>
 <td><p>第11集</p></td>
 </tr>
@@ -226,7 +230,7 @@
 </tr>
 <tr class="even">
 <td><p>2015</p></td>
-<td><p>《The Ride: Charli XCX》[90]</p></td>
+<td><p>《The Ride: Charli XCX》[104]</p></td>
 <td><p>她自己</p></td>
 <td><p>主角</p></td>
 </tr>
@@ -349,7 +353,7 @@
 
 42.
 
-43.
+43. <https://www.bpi.co.uk/brit-certified/>
 
 44.
 
@@ -366,13 +370,14 @@
 50.
 
 51.
+
 52.
 
 53.
 
 54.
 
-55. [1](http://www.vh1/.com/news/5641/modern-singers-who-sound-like-classic-artists/)
+55.
 
 56.
 
@@ -393,24 +398,26 @@
 64.
 
 65.
-
 66.
 
 67.
 
 68.
 
-69.
+69. [1](http://www.vh1/.com/news/5641/modern-singers-who-sound-like-classic-artists/)
+
 70.
 
 71.
 
 72.
+
 73.
 
 74.
 
 75.
+
 76.
 
 77.
@@ -426,17 +433,42 @@
 82.
 
 83.
-
 84.
 
 85.
 
 86.
-
 87.
 
 88.
 
-89.  Pitchfork|url=[http://pitchfork.com/news/59070-major-lazer-cartoon-gets-premiere-date-charli-xcx-and-riff-raff-to-guest-star/|website=Pitchfork|accessdate=15](http://pitchfork.com/news/59070-major-lazer-cartoon-gets-premiere-date-charli-xcx-and-riff-raff-to-guest-star/%7Cwebsite=Pitchfork%7Caccessdate=15) March 2017|language=en}}
+89.
+90.
 
-90.  Trailer {{\!}} MTV UK|url=[http://www.mtv.co.uk/charli-xcx/videos/charli-xcx-the-ride-promo|website=MTV](http://www.mtv.co.uk/charli-xcx/videos/charli-xcx-the-ride-promo%7Cwebsite=MTV) UK|accessdate=15 March 2017|language=en}}
+91.
+
+92.
+
+93.
+
+94.
+
+95.
+
+96.
+
+97.
+
+98.
+
+99.
+
+100.
+
+101.
+
+102.
+
+103.  Pitchfork|url=[http://pitchfork.com/news/59070-major-lazer-cartoon-gets-premiere-date-charli-xcx-and-riff-raff-to-guest-star/|website=Pitchfork|accessdate=15](http://pitchfork.com/news/59070-major-lazer-cartoon-gets-premiere-date-charli-xcx-and-riff-raff-to-guest-star/%7Cwebsite=Pitchfork%7Caccessdate=15) March 2017|language=en}}
+
+104.  Trailer {{\!}} MTV UK|url=[http://www.mtv.co.uk/charli-xcx/videos/charli-xcx-the-ride-promo|website=MTV](http://www.mtv.co.uk/charli-xcx/videos/charli-xcx-the-ride-promo%7Cwebsite=MTV) UK|accessdate=15 March 2017|language=en}}

@@ -25,7 +25,7 @@
   - 為修改堆疊指針而專用的堆疊引擎（堆疊暫存器），類似英特爾Haswell微架構/Broadwell微架構的設計\[23\]
   - 搬移限制，降低物理資料搬移以降低功耗
   - 高效能硬體隨機數產生器，支援[RDSEED](https://zh.wikipedia.org/wiki/RDSEED "wikilink")。RDSEED是英特爾在Boardwell微架構上實作的硬體隨機數產生器的調取指令\[24\]
-  - 支援x86/AMD64、x87、[MMX](../Page/MMX.md "wikilink")(+)、[SSE](../Page/SSE.md "wikilink")/[SSE2](../Page/SSE2.md "wikilink")/[SSE3](../Page/SSE3.md "wikilink")/[SSSE3](../Page/SSSE3.md "wikilink")/SSE4.1/SSE4.2/SSE4a、[AVX/AVX2](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[FMA3](https://zh.wikipedia.org/wiki/FMA3 "wikilink")、CVT16/F16C、[AES](../Page/AES指令集.md "wikilink")、SHA、ADX等指令集，移除XOP、FMA4、LWP、TBM等甚少使用的指令集支援
+  - 支援x86/AMD64、x87、[MMX](../Page/MMX.md "wikilink")(+)、[SSE](../Page/SSE.md "wikilink")/[SSE2](../Page/SSE2.md "wikilink")/[SSE3](../Page/SSE3.md "wikilink")/[SSSE3](../Page/SSSE3.md "wikilink")/SSE4.1/SSE4.2/SSE4a、[AVX/AVX2](../Page/AVX指令集.md "wikilink")、[FMA3](https://zh.wikipedia.org/wiki/FMA3 "wikilink")、CVT16/F16C、[AES](../Page/AES指令集.md "wikilink")、SHA、ADX等指令集，移除XOP、FMA4、LWP、TBM等甚少使用的指令集支援
   - 支援SMAP、SMEP、XSAVEC/XSAVES/XRSTORS、XSAVES、CLFLUSHOPT、CLZERO以及ADCX指令集\[25\]
   - 支援[AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink")、虛擬化技術
   - 新的[时钟门控](https://zh.wikipedia.org/wiki/时钟门控 "wikilink")

@@ -94,7 +94,7 @@
 <th><p>作品</p></th>
 <th><p>最高集數</p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/AC尼爾森" title="wikilink">AGB</a><br />
-全國平均</p></th>
+全國最高</p></th>
 <th><p>收視排名</p></th>
 <th><p>日期</p></th>
 <th><p>檔期</p></th>
@@ -112,20 +112,20 @@
 </tr>
 <tr class="even">
 <td><p>2</p></td>
+<td><p><a href="../Page/Watcher.md" title="wikilink">Watcher</a></p></td>
+<td><p>16</p></td>
+<td><p><strong>6.585%</strong></p></td>
+<td></td>
+<td><p>2019/08/25</p></td>
+<td><p>週末</p></td>
+</tr>
+<tr class="odd">
+<td><p>3</p></td>
 <td><p><a href="../Page/隧道_(電視劇).md" title="wikilink">隧道</a></p></td>
 <td><p>16</p></td>
 <td><p><strong>6.490%</strong></p></td>
 <td></td>
 <td><p>2017/05/21</p></td>
-<td><p>週末</p></td>
-</tr>
-<tr class="odd">
-<td><p>3</p></td>
-<td><p><a href="../Page/Watcher.md" title="wikilink">Watcher</a></p></td>
-<td><p>12</p></td>
-<td><p><strong>6.094%</strong></p></td>
-<td></td>
-<td><p>2019/08/11</p></td>
 <td><p>週末</p></td>
 </tr>
 <tr class="even">

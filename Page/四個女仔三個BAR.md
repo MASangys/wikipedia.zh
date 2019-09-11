@@ -270,6 +270,7 @@ Lawrence之妻、育有一子</p></td>
 <td><p>范祖賢</p></td>
 <td><p><strong>Joebee、保叔</strong><br />
 范智毅、張慧芸之子<br />
+梁巧茹之男友兼小學同學<br />
 曾看過色情雜誌<br />
 常獨自到法庭聽審、就讀赤柱<a href="https://zh.wikipedia.org/wiki/寄宿學校" title="wikilink">寄宿學校</a><br />
 於第24集被梁巧茹誣告<a href="https://zh.wikipedia.org/wiki/與未成年少女發生性行為" title="wikilink">與未成年少女發生性行為</a></p></td>

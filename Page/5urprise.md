@@ -391,7 +391,7 @@
 </tr>
 <tr class="odd">
 <td><p>JTBC</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/浪漫的體質" title="wikilink">浪漫的體質</a></p></td>
+<td><p><a href="../Page/浪漫的體質.md" title="wikilink">浪漫的體質</a></p></td>
 <td><p><a href="../Page/孔明_(藝人).md" title="wikilink">孔明</a></p></td>
 <td><p>秋宰勳</p></td>
 <td></td>
