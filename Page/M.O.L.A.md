@@ -71,7 +71,7 @@
 <td><p>金豪鉉</p></td>
 <td><p>김호현</p></td>
 <td><p>Kim Ho Hyun</p></td>
-<td><p>-</p></td>
+<td><p>－</p></td>
 <td><p>－</p></td>
 <td><p>Musician/ Guitarist</p></td>
 <td><p>－</p></td>

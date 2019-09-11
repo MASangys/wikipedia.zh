@@ -6,7 +6,7 @@
 ### Pure Palette
 
   -
-    配音員：日：
+    配音員：日：／台：[楊凱凱](../Page/楊凱凱.md "wikilink")
     7月20日出生，[巨蟹座](../Page/巨蟹座.md "wikilink")，血型[O型](https://zh.wikipedia.org/wiki/ABO血型系統 "wikilink")。
     動畫故事的故事主角。
     常用品牌：**Sugar Melody**。
@@ -19,7 +19,7 @@
 <!-- end list -->
 
   -
-    配音員：日：[木戶衣吹](../Page/木戶衣吹.md "wikilink")
+    配音員：日：[木戶衣吹](../Page/木戶衣吹.md "wikilink")／台：[劉如蘋](../Page/劉如蘋.md "wikilink")
     1月6日出生，[魔羯座](https://zh.wikipedia.org/wiki/魔羯座 "wikilink")，血型A型。
     動畫故事的故事主角。
     常用品牌：**MATERIAL COLOR**。
@@ -31,7 +31,7 @@
 ### Honey Cat
 
   -
-    配音員：日：[美山加戀](../Page/美山加戀.md "wikilink")
+    配音員：日：[美山加戀](../Page/美山加戀.md "wikilink")／台：
     8月8日出生，[獅子座](https://zh.wikipedia.org/wiki/獅子座 "wikilink")，血型O型。
     常用品牌：**Dancing Mirage**。
     為專屬服裝品牌**Dancing Mirage**的代表繆斯。
@@ -41,7 +41,7 @@
 <!-- end list -->
 
   -
-    配音員：日：
+    配音員：日：／台：
     3月21日出生，[牡羊座](https://zh.wikipedia.org/wiki/牡羊座 "wikilink")，血型B型。
     常用品牌：**COLORFUL SHAKE**。
     為專屬服裝品牌**COLORFUL SHAKE**的代表繆斯。
@@ -52,7 +52,7 @@
 ### Love Me Tear
 
   -
-    配音員：日：[田所梓](../Page/田所梓.md "wikilink")
+    配音員：日：[田所梓](../Page/田所梓.md "wikilink")／台：楊凱凱
     10月4日出生，[天秤座](../Page/天秤座.md "wikilink")，血型B型。
     街機6彈以中學生的時期登場。
     常用品牌：**Classical Ange**。
@@ -64,7 +64,7 @@
 <!-- end list -->
 
   -
-    配音員：日：[大橋彩香](../Page/大橋彩香.md "wikilink")
+    配音員：日：[大橋彩香](../Page/大橋彩香.md "wikilink")／台：劉如蘋
     5月9日出生，[金牛座](../Page/金牛座.md "wikilink")，血型A型。
     街機6彈以中學生的時期登場。
     常用品牌：**Milky Joker**。
@@ -76,7 +76,7 @@
 ### Reflect Moon
 
   -
-    配音員：日：[陶山惠實里](../Page/陶山惠實里.md "wikilink")
+    配音員：日：[陶山惠實里](../Page/陶山惠實里.md "wikilink")／台：
     6月9日出生，[雙子座](https://zh.wikipedia.org/wiki/雙子座 "wikilink")，血型AB型。
     街機3彈登場玩家。
     常用品牌：**Luna Witch**。
@@ -89,7 +89,7 @@
 <!-- end list -->
 
   -
-    配音員：日：[桑原由氣](../Page/桑原由氣.md "wikilink")
+    配音員：日：[桑原由氣](../Page/桑原由氣.md "wikilink")／台：
     6月9日出生，[雙子座](https://zh.wikipedia.org/wiki/雙子座 "wikilink")，血型AB型。
     街機4彈登場玩家。
     常用品牌：**Moon Maiden**。
@@ -129,7 +129,7 @@
 ### BABY PIRATES
 
   -
-    配音員：日：[田中愛美](https://zh.wikipedia.org/wiki/田中愛美 "wikilink")
+    配音員：日：[田中愛美](https://zh.wikipedia.org/wiki/田中愛美 "wikilink")／台：
     街機5彈登場玩家。
     常用品牌：**Antique Sailor**。
     為去年在鑽石友誼盃獲得第二名的雙人組合「BABY PIRATES」的成員。
@@ -137,7 +137,7 @@
 <!-- end list -->
 
   -
-    配音員：日：[鬼頭明里](../Page/鬼頭明里.md "wikilink")
+    配音員：日：[鬼頭明里](../Page/鬼頭明里.md "wikilink")／台：
     街機5彈登場玩家。
     常用品牌：**Silky Ocean**。
 
@@ -157,7 +157,7 @@
 <!-- end list -->
 
   -
-    配音員：日：[諸星堇](../Page/諸星堇.md "wikilink")
+    配音員：日：[諸星堇](../Page/諸星堇.md "wikilink")／台：
     街機5彈登場玩家。
     導覽系統「Aikatsu Navi」的[AI](https://zh.wikipedia.org/wiki/AI "wikilink")，擔任協助偶像們活動的解說角色。充滿幹勁，感情豐富，偶爾會做出不同於平日的舉動。
 
@@ -166,37 +166,37 @@
 ### 教職員
 
   -
-    配音員：日：[中原麻衣](../Page/中原麻衣.md "wikilink")
+    配音員：日：[中原麻衣](../Page/中原麻衣.md "wikilink")／台：[林沛笭](../Page/林沛笭.md "wikilink")
     星睦學園的所屬經紀人，負責規劃美緒、繪麻、舞花及愛音四人的偶像工作。
 
 <!-- end list -->
 
   -
-    配音員：日：[平川大輔](../Page/平川大輔.md "wikilink")
+    配音員：日：[平川大輔](../Page/平川大輔.md "wikilink")／台：
     星睦學園所屬髮型設計師。
 
 <!-- end list -->
 
   -
-    配音員：日：[佐藤利奈](../Page/佐藤利奈.md "wikilink")
+    配音員：日：[佐藤利奈](../Page/佐藤利奈.md "wikilink")／台：
     星睦學園所屬服裝顧問，也是**Sugar Melody**的服裝設計師。
 
 <!-- end list -->
 
   -
-    配音員：日：[鳥海浩輔](../Page/鳥海浩輔.md "wikilink")
-    「Reflect Moon」的經紀人。
+    配音員：日：[鳥海浩輔](../Page/鳥海浩輔.md "wikilink")／台：
+    「Reflect Moon」的經紀人。與飼養的刺蝟在一起。
 
 ### 學生
 
   -
-    配音員：日：[田中貴子](../Page/田中貴子_\(聲優\).md "wikilink")
+    配音員：日：[田中貴子](../Page/田中貴子_\(聲優\).md "wikilink")／台：
     第1期時就讀中學二年級，普通科的學生，愛音一年級時的同班同學。
 
 <!-- end list -->
 
   -
-    配音員：日：[富岡美沙子](../Page/富岡美沙子.md "wikilink")
+    配音員：日：[富岡美沙子](../Page/富岡美沙子.md "wikilink")／台：
     第1期時就讀中學二年級，普通科的學生，愛音一年級時的同班同學。
 
 ## 家人
@@ -204,73 +204,73 @@
 ### 友希家
 
   -
-    配音員：日：[保村真](../Page/保村真.md "wikilink")
+    配音員：日：[保村真](../Page/保村真.md "wikilink")／台：[歐祖豪](https://zh.wikipedia.org/wiki/歐祖豪 "wikilink")
     愛音的父親。經營喫茶店「企鵝咖啡廳」。
 
 <!-- end list -->
 
   -
-    配音員：日：[增田由紀](../Page/增田由紀.md "wikilink")
+    配音員：日：[增田由紀](../Page/增田由紀.md "wikilink")／台：劉如蘋
     愛音的母親。
 
 <!-- end list -->
 
   -
-    配音員：日：[石谷春貴](../Page/石谷春貴.md "wikilink")、鬼頭明里（9歳）
+    配音員：日：[石谷春貴](../Page/石谷春貴.md "wikilink")、鬼頭明里（9歳）／台：歐祖豪
     愛音的哥哥。
 
 <!-- end list -->
 
   -
-    配音員：日：[福沙奈惠](../Page/福沙奈惠.md "wikilink")
+    配音員：日：[福沙奈惠](../Page/福沙奈惠.md "wikilink")／台：楊凱凱
     愛音的姐姐。
 
 <!-- end list -->
 
   -
-    配音員：日：[高田憂希](../Page/高田憂希.md "wikilink")
+    配音員：日：[高田憂希](../Page/高田憂希.md "wikilink")／台：[林沛笭](../Page/林沛笭.md "wikilink")
     愛音的妹妹。
 
 <!-- end list -->
 
   -
-    配音員：日：[齋藤綾](../Page/齋藤綾.md "wikilink")
+    配音員：日：[齋藤綾](../Page/齋藤綾.md "wikilink")／台：
     愛音的弟弟。
 
 <!-- end list -->
 
   -
-    配音員：日：保村真
-    友希家飼育的企鵝。
+    配音員：日：保村真／台：
+    友希家飼養的企鵝。
 
 ### 湊家
 
   -
-    配音員：日：[甲斐田裕子](../Page/甲斐田裕子.md "wikilink")
-    美緒的母親。時裝設計師。
+    配音員：日：[甲斐田裕子](../Page/甲斐田裕子.md "wikilink")／台：
+    美緒的母親。時裝設計師，設計了鑽石禮服。
 
 <!-- end list -->
 
   -
-    配音員：日：[杉田智和](../Page/杉田智和.md "wikilink")
-    美緒的父親。工業設計師。
+    配音員：日：[杉田智和](../Page/杉田智和.md "wikilink")／台：
+    美緒的父親，工業設計師，強烈喜歡對稱。
 
 ### 蝶乃家
 
   -
-    配音員：日：[諏訪部順一](../Page/諏訪部順一.md "wikilink")
+    配音員：日：[諏訪部順一](../Page/諏訪部順一.md "wikilink")／台：
     舞花的父親。
 
 <!-- end list -->
 
   -
-    配音員：日：[山口由里子](../Page/山口由里子.md "wikilink")
+    配音員：日：[山口由里子](../Page/山口由里子.md "wikilink")／台：
     舞花的母親。
 
 <!-- end list -->
 
   -
-    配音員：日：[小野賢章](../Page/小野賢章.md "wikilink")
+    配音員：日：[小野賢章](../Page/小野賢章.md "wikilink")／台：
     舞花的哥哥。
 
 ### 夏洛特家
@@ -294,8 +294,8 @@
 ## 其他
 
   -
-    配音員：日：[齋賀光希](../Page/齋賀光希.md "wikilink")
-    **Dancing Mirage**的服裝設計師。
+    配音員：日：[齋賀光希](../Page/齋賀光希.md "wikilink")／台：
+    **Dancing Mirage**的服裝設計師。曾經和千春在同一間設計師事務所工作。
 
 <!-- end list -->
 

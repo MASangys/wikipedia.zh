@@ -70,7 +70,7 @@ Tritops的粉絲名稱為「**Tristar**」，無官方代表色。
   - 2010年5月14日，與藝人Van一同推出單曲《Storm / 폭풍》（註︰Van應該是隊長潘炯文的英文名字）
   - 2011年3月17日，推出單曲《負責也做不到 / 책임지지도 못하면서)》(Feat.吳允惠)
   - 2012年︰在[Still PM的單曲](https://zh.wikipedia.org/wiki/Still_PM "wikilink")《Canada Girl》中客串演唱
-  - 2017年︰日君初次出演舞台劇，在喜劇《伊賀の花嫁》中飾演ヨンファ，搭檔為[大國男兒](../Page/大國男兒.md "wikilink")的李仁俊、[Apeace](../Page/Apeace.md "wikilink")的황두환以及前[April成員](https://zh.wikipedia.org/wiki/APRIL_\(女子團體\) "wikilink")[李玹珠](../Page/李玹珠.md "wikilink")。該劇於1月13日至22日在東京銀座博品館劇場上演，共15場。\[12\]
+  - 2017年︰日君初次出演舞台劇，在喜劇《伊賀の花嫁》中飾演ヨンファ，搭檔為[大國男兒](../Page/大國男兒.md "wikilink")的李仁俊、[Apeace](../Page/Apeace.md "wikilink")的황두환以及前[April成員](../Page/APRIL_\(女子團體\).md "wikilink")[李玹珠](../Page/李玹珠.md "wikilink")。該劇於1月13日至22日在東京銀座博品館劇場上演，共15場。\[12\]
   - 2019年3月20日個人日本出道，出版首張日語單曲\[13\]。
 
 <!-- end list -->

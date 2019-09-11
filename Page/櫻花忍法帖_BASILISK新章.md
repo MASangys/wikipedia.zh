@@ -4,11 +4,11 @@
 
 ## 故事簡介
 
-在忍者集團甲賀與伊賀爆發戰爭並最終迎來雙方全滅後十年，寬永三年，天下變得太平。
+在[忍者](../Page/忍者.md "wikilink")[集團甲賀與伊賀爆發](https://zh.wikipedia.org/wiki/集團 "wikilink")[戰爭並最終迎來雙方全滅後十年](https://zh.wikipedia.org/wiki/戰爭 "wikilink")，[寬永](../Page/寬永.md "wikilink")三年，天下變得[太平](../Page/太平.md "wikilink")。
 
-在這個和平的環境下，忍者成為了無用之物，唯有隱藏起來。其後，甲賀與伊賀的族人希望透過雙方幼主進行聯婚，以他們的血脈及力量能鞏固族群的命脈。
+在這個和平的環境下，忍者成為了無用之物，唯有隱藏起來。其後，甲賀與伊賀的族人希望透過雙方幼主進行聯婚，以他們的[血脈及力量能鞏固族群的命脈](https://zh.wikipedia.org/wiki/血脈 "wikilink")。
 
-甲賀五寶連的首領甲賀八郎，以及伊賀五花撰的首領伊賀響，雙方都繼承了祖先的力量而懂得使用瞳術，二人結下契約，然後發動了稱為「櫻」的未知力量。但可惜，在日子漸久後，他們才發現原來他們是親兄妹。\[4\]\[5\]
+甲賀五寶連的首領甲賀八郎，以及伊賀五花撰的[首領伊賀響](https://zh.wikipedia.org/wiki/首領 "wikilink")，雙方都[繼承了](https://zh.wikipedia.org/wiki/繼承 "wikilink")[祖先的力量而懂得使用瞳術](https://zh.wikipedia.org/wiki/祖先 "wikilink")，二人結下[契約](https://zh.wikipedia.org/wiki/契約 "wikilink")，然後發動了稱為「櫻」的未知力量。但可惜，在日子漸久後，他們才發現原來他們是親兄妹。\[4\]\[5\]
 
 ## 登場人物
 

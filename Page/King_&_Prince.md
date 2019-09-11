@@ -40,7 +40,7 @@
 <td></td>
 <td></td>
 <td><p>日本<a href="https://zh.wikipedia.org/wiki/神奈川县" title="wikilink">神奈川縣</a></p></td>
-<td><p>173.5 cm</p></td>
+<td><p>175 cm[6]</p></td>
 <td><p><a href="../Page/ABO血型系统.md" title="wikilink">A型</a></p></td>
 <td><p>向日葵黃</p></td>
 </tr>
@@ -56,7 +56,7 @@
 <th><p>日文原名</p></th>
 <th><p>出生年月</p></th>
 <th><p>出身地</p></th>
-<th><p>身高[6]</p></th>
+<th><p>身高[7]</p></th>
 <th><p>血型</p></th>
 <th><p>代表色</p></th>
 </tr>
@@ -69,7 +69,7 @@
 <td><p>日本<a href="https://zh.wikipedia.org/wiki/琦玉县" title="wikilink">琦玉縣</a></p></td>
 <td><p>167 cm</p></td>
 <td><p>A型</p></td>
-<td><p>紫式部[7]</p></td>
+<td><p>紫式部[8]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/岩橋玄樹.md" title="wikilink">岩橋玄樹</a></p></td>
@@ -347,5 +347,6 @@ UPCJ-9010</p></td>
 3.
 4.
 5.  ジャニーズJr.カレンダーRED 2018/4 - 2019/3 ＜付録＞カレンダー付きジャニーズJr.DATA BOOK (p.34)
-6.
+6.  『Myojo』2019年5月号85ページ
 7.
+8.

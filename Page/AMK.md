@@ -2,7 +2,7 @@
 
 1989年[六四事件](../Page/六四事件.md "wikilink")後，[關勁松和](https://zh.wikipedia.org/wiki/關勁松 "wikilink")[麥海珊在](https://zh.wikipedia.org/wiki/麥海珊 "wikilink")[黑鳥樂隊於](https://zh.wikipedia.org/wiki/黑鳥樂隊 "wikilink")[摩士公園](../Page/摩士公園.md "wikilink")的演出認識，然後再經登報找結他手、鼓手，組成樂隊\[2\]。早期受[龐克與](https://zh.wikipedia.org/wiki/龐克 "wikilink")[後龐克](../Page/後龐克.md "wikilink")影響，由組成直到1991年，不少成員加入和離隊。1992年，Adam Met Karl改名為AMK，核心成員開始穩定，一直維持直到1996年解散\[3\]。後期曲風演變成瞪鞋搖滾、噪音流行、[獨立流行](https://zh.wikipedia.org/wiki/獨立流行 "wikilink")。由組成開始至1994年，AMK曾多次現場演出，包括於[藝穗會](../Page/藝穗會.md "wikilink")劇場（集感Live）\[4\]、[高山劇場](../Page/高山劇場.md "wikilink")（香港國際獨立音樂節）\[5\]、[荃灣大會堂](../Page/荃灣大會堂.md "wikilink")、上環文娛中心、Music Union，1994年最後一次在[修頓球場](../Page/修頓球場.md "wikilink")演出後，同年夏天，他們宣布不再作任何現場演出\[6\]。AMK在1995年為[林海峰電影](../Page/林海峰_\(香港\).md "wikilink")[天空小說插曲一人分飾兩角作曲與編曲](https://zh.wikipedia.org/wiki/天空小說 "wikilink")，由[王菲](../Page/王菲.md "wikilink")主唱。1996年為完成與Music Factory的唱片合約，而推出最後一張唱片《勁歌金曲大雀局》後，樂隊正式解散。
 
-樂隊影響及後的[獨立流行樂隊](https://zh.wikipedia.org/wiki/獨立流行 "wikilink")。2002年6月，在草地上、False Alarm、22 Cats等樂隊自資於藝穗會舉行一場致敬音樂會「燦若繁星」，2004年[維港唱片推出致敬唱片In](https://zh.wikipedia.org/wiki/維港唱片 "wikilink") The Name Of AMK，參與樂隊包括[my little airport](https://zh.wikipedia.org/wiki/my_little_airport "wikilink")、野良犬、粉紅A、咖啡因公園等\[7\]。
+樂隊影響及後的[獨立流行樂隊](https://zh.wikipedia.org/wiki/獨立流行 "wikilink")。2002年6月，在草地上、False Alarm、22 Cats等樂隊自資於藝穗會舉行一場致敬音樂會「燦若繁星」，2004年[維港唱片](../Page/維港唱片.md "wikilink")推出致敬唱片In The Name Of AMK，參與樂隊包括[my little airport](https://zh.wikipedia.org/wiki/my_little_airport "wikilink")、野良犬、粉紅A、咖啡因公園等\[7\]。
 
 ## 名字由來
 

@@ -2,7 +2,7 @@
 
 ## 硬件设计和架构
 
-为了能使Kismet与人类正常地交流互动，它具有[听觉](../Page/听觉.md "wikilink")，[视觉和](https://zh.wikipedia.org/wiki/视觉 "wikilink")[本体感受的能力输入设备](https://zh.wikipedia.org/wiki/本体感受 "wikilink")。 Kismet通过各种面部的表情，会发声和移动来模拟人类的情绪。面部表情则是通过耳朵、眉毛、眼皮、嘴唇、下巴和头部的运动产生的。这些物质材料的成本估计为25,000美元。\[2\] 此外，还有四个[摩托罗拉68332处理器](https://zh.wikipedia.org/wiki/摩托罗拉68000 "wikilink")，九个400兆赫的计算机和一个500兆赫的计算机。 \[3\]
+为了能使Kismet与人类正常地交流互动，它具有[听觉](../Page/听觉.md "wikilink")，[视觉和](https://zh.wikipedia.org/wiki/视觉 "wikilink")[本体感受的能力输入设备](https://zh.wikipedia.org/wiki/本体感受 "wikilink")。 Kismet通过各种面部的表情，会发声和移动来模拟人类的情绪。面部表情则是通过耳朵、眉毛、眼皮、嘴唇、下巴和头部的运动产生的。这些物质材料的成本估计为25,000美元。\[2\] 此外，还有四个[摩托罗拉68332处理器](../Page/摩托罗拉68000.md "wikilink")，九个400兆赫的计算机和一个500兆赫的计算机。 \[3\]
 
 ## 软件系统
 

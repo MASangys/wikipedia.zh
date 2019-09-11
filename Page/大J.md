@@ -1,4 +1,4 @@
-**JASON**，**大J**（，\[1\]），[香港](../Page/香港.md "wikilink")[YouTuber](../Page/YouTuber.md "wikilink")。2002年赴[日本](../Page/日本.md "wikilink")留學，並修讀[工商管理](https://zh.wikipedia.org/wiki/工商管理 "wikilink")。 2012年開始[YouTube](../Page/YouTube.md "wikilink")影音創作，主要拍攝遊戲影片及[影像網誌](https://zh.wikipedia.org/wiki/影像網誌 "wikilink")。2015年6月， 成為香港第一個突破1億觀看次數的YouTuber，年薪亦達到過百萬[港元](../Page/港元.md "wikilink")\[2\]。
+**JASON**，**大J**（，\[1\]），[香港](../Page/香港.md "wikilink")[YouTuber](../Page/YouTuber.md "wikilink")。2002年赴[日本](../Page/日本.md "wikilink")留學，並修讀[工商管理](https://zh.wikipedia.org/wiki/工商管理 "wikilink")。 2012年開始[YouTube](../Page/YouTube.md "wikilink")影音創作，主要拍攝遊戲影片及[影像網誌](https://zh.wikipedia.org/wiki/影像網誌 "wikilink")。2015年6月， 成為香港第一個突破1億觀看次數的YouTuber，年薪亦達到過百萬[港元](../Page/港元.md "wikilink")\[2\]。2019年6月起，大J積極表態支持[反送中](https://zh.wikipedia.org/wiki/反送中 "wikilink")，因此被受大量年輕網民的追捧。
 
 ## 生平
 
@@ -26,13 +26,17 @@ Jason 於1984年8月16日出生於香港，祖籍[廣東](https://zh.wikipedia.o
 
 2017年7月起，大J開始擔任[ViuTV](../Page/ViuTV.md "wikilink")清談節目《[KO KOL](https://zh.wikipedia.org/wiki/KO_KOL "wikilink")》主持。
 
+### 積極表態「反送中」
+
+2019年5月29日起，大J已率先上載〔《逃犯條例》我都不確定我會否成爲「逃犯」〕一片至YouTube\[27\]，率先表態反對[逃犯條例](https://zh.wikipedia.org/wiki/逃犯條例 "wikilink")。其後，大J更多次親身到現場採訪，以直播和影片的方式分享至YouTube，更自稱因表態而失去六位數字代言費。7月22日，大J在[元朗恐襲事件發生後翌日](https://zh.wikipedia.org/wiki/元朗恐襲事件 "wikilink")，開腔表示對事件非常痛心，並表明會對任何可能因表態而遭解約的YouTuber補貼損失，以呼籲更多同行表態。7月25日，他公開表示作為公眾人物，YouTuber亦應發揮影響力，為公義發聲\[28\]。由於他對反送中的積極取態與一直沉默的「達哥」[林慧韡](../Page/林慧韡.md "wikilink")形式極強烈對比，網民認為大J已經取代達哥在[KOL界的地位](https://zh.wikipedia.org/wiki/KOL "wikilink")\[29\]，因後者在事件中一直沉默，其後更於7月24日大罵觀眾為「引戰狗」\[30\]，更反擊質疑他不表態的粉絲取消訂閱及取消關注他的專頁及頻道\[31\]。
+
 ## 個人生活
 
-大J的未婚妻麻衣（，）是日本[神奈川縣](../Page/神奈川縣.md "wikilink")的[橫濱人](https://zh.wikipedia.org/wiki/橫濱 "wikilink")。\[27\]他們於2015年8月23日在[數碼港](../Page/數碼港.md "wikilink")舉行的「YouTube遊戲王打擂台」中訂婚\[28\]。他們亦養有名為的異國短毛貓\[29\]。
+大J的未婚妻麻衣（，）是日本[神奈川縣](../Page/神奈川縣.md "wikilink")的[橫濱人](https://zh.wikipedia.org/wiki/橫濱 "wikilink")。\[32\]他們於2015年8月23日在[數碼港](../Page/數碼港.md "wikilink")舉行的「YouTube遊戲王打擂台」中訂婚\[33\]。他們亦養有名為的異國短毛貓\[34\]。
 
 ## 爭議
 
-大J因為在高登討論區承諾以女性打扮逛街而於高登討論區成名，但他後來與高登討論區會員反目而引發爭議。[香港獨立媒體](../Page/香港獨立媒體.md "wikilink")的[曉高臣於](https://zh.wikipedia.org/wiki/曉高臣 "wikilink")2015年12月4日形容大J有關舉動是過河拆橋的行為\[30\]。他亦抨擊大J是「網絡窮人」和沒有過人之處，只靠網上騙取讚好的「網絡寄生蟲」，並指「網民有能力捧得起你，都自然有能力質死你」\[31\]。
+大J因為在高登討論區承諾以女性打扮逛街而於高登討論區成名，但他後來與高登討論區會員反目而引發爭議。[香港獨立媒體](../Page/香港獨立媒體.md "wikilink")的[曉高臣於](https://zh.wikipedia.org/wiki/曉高臣 "wikilink")2015年12月4日形容大J有關舉動是過河拆橋的行為\[35\]。他亦抨擊大J是「網絡窮人」和沒有過人之處，只靠網上騙取讚好的「網絡寄生蟲」，並指「網民有能力捧得起你，都自然有能力質死你」\[36\]。
 
 ## 著作
 
@@ -98,3 +102,13 @@ Jason 於1984年8月16日出生於香港，祖籍[廣東](https://zh.wikipedia.o
 30.
 
 31.
+
+32.
+
+33.
+
+34.
+
+35.
+
+36.

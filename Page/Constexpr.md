@@ -34,7 +34,7 @@ constexpr double earth_gravitational_acceleration = 9.8;
 constexpr double moon_gravitational_acceleration = earth_gravitational_acceleration / 6.0;
 ```
 
-这些variable必须用常理表达式初始化。
+这些variable必须用常量表达式初始化。
 
 为构造用户定义类型的常量表达式，构造函数必须用`constexpr`声明，函数体仅包含声明或null语句，不能声明变量或定义类型。因此，构造函数的实参值应该是常量表达式，直接初始化类的数据成员。析构函数是平凡的。类型的拷贝构造函数应该也定义为`constexpr`，以允许constexpr函数返回一个该类型的对象。类型的成员函数都应该是`constexpr`。
 

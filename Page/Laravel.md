@@ -42,26 +42,6 @@ Laravel與[Symfony](../Page/Symfony.md "wikilink")、[Zend](../Page/Zend引擎.m
   - Laravel 5.4
     2017年1月24日發佈。此版本提供了許多新功能，像 Laravel Dusk，Laravel Mix，Components & Slots（Blade），Markdown Emails，自動 Facades、路由的優化，collection 的高階函數，還有很多其他功能。\[18\]
 
-<!-- end list -->
-
-  - Laravel 5.5
-    於2017年8月30日發佈。
-
-<!-- end list -->
-
-  - Laravel 5.6
-    於2018年2月7日發佈。
-
-<!-- end list -->
-
-  - Laravel 5.7
-    於2018年9月4日發佈。
-
-<!-- end list -->
-
-  - Laravel 5.8
-    於2019年2月26日發佈。
-
 ### 版本發佈紀錄
 
 Laravel發行版本分為兩類：**一般版本**和**LTS長期支援版本**\[19\]
@@ -76,8 +56,8 @@ Laravel發行版本分為兩類：**一般版本**和**LTS長期支援版本**\[
 <tr class="header">
 <th><p>版本</p></th>
 <th><p>發佈日期</p></th>
-<th><p>錯誤修復至</p></th>
-<th><p>安全修復至</p></th>
+<th><p>錯誤修正至</p></th>
+<th><p>安全性更新至</p></th>
 <th><p>PHP 版本</p></th>
 </tr>
 </thead>

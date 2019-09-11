@@ -620,6 +620,7 @@
 | 8月6日             | Arirang                            | After School Club                                                              |            |         |
 | 8月7日             | Brain-fficial Youtube              | Brain-fficial                                                                  | Hui 洪碩 信源  |         |
 | 8月9日 -           | Mnet                               | [The Call](../Page/The_Call.md "wikilink")                                     | Hui        | EP5 全員  |
+| 8月18日            | Olleh TV Mobile LifeTime           | 아이돌다방 偶像茶坊                                                                     |            |         |
 | 8月21日            | Mnet                               | TMI NEWS                                                                       | 洪碩 Kino    |         |
 
 ## 電台節目

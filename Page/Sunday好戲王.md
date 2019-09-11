@@ -79,7 +79,7 @@
 <td><p>08</p></td>
 <td><p>3月13日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/陳友" title="wikilink">陳　友</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/蔡思貝" title="wikilink">蔡思貝</a>、<a href="../Page/陳瀅.md" title="wikilink">陳瀅</a>、<a href="../Page/陳奐仁.md" title="wikilink">陳奐仁</a>、<a href="../Page/呂慧儀.md" title="wikilink">呂慧儀</a>[2]</p></td>
+<td><p><a href="../Page/蔡思貝.md" title="wikilink">蔡思貝</a>、<a href="../Page/陳瀅.md" title="wikilink">陳瀅</a>、<a href="../Page/陳奐仁.md" title="wikilink">陳奐仁</a>、<a href="../Page/呂慧儀.md" title="wikilink">呂慧儀</a>[2]</p></td>
 <td><p><a href="../Page/陳榮峻.md" title="wikilink">陳榮峻</a><br />
 (公公王)</p></td>
 </tr>
@@ -179,7 +179,7 @@
 <td><p>6月26日</p></td>
 <td><p><a href="../Page/米雪.md" title="wikilink">米雪</a></p></td>
 <td><p><a href="../Page/黎諾懿.md" title="wikilink">黎諾懿</a>、<a href="../Page/孫慧雪.md" title="wikilink">孫慧雪</a>、<a href="../Page/楊潮凱.md" title="wikilink">楊潮凱</a>、<a href="../Page/麥皓兒.md" title="wikilink">麥皓兒</a>[4]<br />
-特別嘉賓：<a href="../Page/張達倫.md" title="wikilink">張達倫</a>、<a href="https://zh.wikipedia.org/wiki/蔡思貝" title="wikilink">蔡思貝</a>、<a href="../Page/譚凱琪.md" title="wikilink">譚凱琪</a></p></td>
+特別嘉賓：<a href="../Page/張達倫.md" title="wikilink">張達倫</a>、<a href="../Page/蔡思貝.md" title="wikilink">蔡思貝</a>、<a href="../Page/譚凱琪.md" title="wikilink">譚凱琪</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/李啟傑" title="wikilink">李啟傑</a><br />
 (衰仔王)</p></td>
 </tr>

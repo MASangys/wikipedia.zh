@@ -90,7 +90,7 @@ The Parkside的廣告宣傳「A Brighter Living」為主題。廣告於[日本](
   -
   - [金門建築項目網頁](https://www.gammonconstruction.com/tc/html/projects/projects-7ae7d39e452b444aada3e4ded37ebc1f.html)
 
-[Category:將軍澳](https://zh.wikipedia.org/wiki/Category:將軍澳 "wikilink") [Category:西貢區](https://zh.wikipedia.org/wiki/Category:西貢區 "wikilink") [Category:西貢區私人屋苑](https://zh.wikipedia.org/wiki/Category:西貢區私人屋苑 "wikilink") [Category:2016年完工建築物](https://zh.wikipedia.org/wiki/Category:2016年完工建築物 "wikilink") [Category:會德豐地產(香港)物業](https://zh.wikipedia.org/wiki/Category:會德豐地產\(香港\)物業 "wikilink") [Category:香港私人屋苑](https://zh.wikipedia.org/wiki/Category:香港私人屋苑 "wikilink")
+[Category:將軍澳](https://zh.wikipedia.org/wiki/Category:將軍澳 "wikilink") [Category:西貢區私人屋苑](https://zh.wikipedia.org/wiki/Category:西貢區私人屋苑 "wikilink") [Category:2016年完工建築物](https://zh.wikipedia.org/wiki/Category:2016年完工建築物 "wikilink") [Category:會德豐地產(香港)物業](https://zh.wikipedia.org/wiki/Category:會德豐地產\(香港\)物業 "wikilink")
 
 1.
 2.

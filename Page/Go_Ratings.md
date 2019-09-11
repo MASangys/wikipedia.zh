@@ -363,6 +363,10 @@
 
 ## 附註
 
+## 參考
+
+  - [CGOS\#與人類對應](https://zh.wikipedia.org/wiki/CGOS#與人類對應 "wikilink")
+
 ## 参考文献
 
 ## 外部連結

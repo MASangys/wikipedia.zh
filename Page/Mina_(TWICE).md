@@ -1,4 +1,4 @@
-**名井南**（，\[1\]；），[藝名](../Page/藝名.md "wikilink")**Mina**（，），現為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JYP娛樂](../Page/JYP娛樂.md "wikilink")旗下[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[TWICE成員之一](https://zh.wikipedia.org/wiki/TWICE "wikilink")。她於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[德克萨斯州](../Page/德克萨斯州.md "wikilink")[比爾縣](../Page/比爾縣_\(德克薩斯州\).md "wikilink")[聖安東尼奧出生](../Page/圣安东尼奥_\(得克萨斯州\).md "wikilink")\[2\]，在[日本](../Page/日本.md "wikilink")[兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")[西宮市](../Page/西宮市.md "wikilink")長大。
+**名井南**（，\[1\]；），[藝名](../Page/藝名.md "wikilink")**Mina**（，），現為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JYP娛樂](../Page/JYP娛樂.md "wikilink")旗下[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[TWICE成員之一](https://zh.wikipedia.org/wiki/TWICE "wikilink")。於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[德克萨斯州](../Page/德克萨斯州.md "wikilink")[比爾縣](../Page/比爾縣_\(德克薩斯州\).md "wikilink")[聖安東尼奧出生](../Page/圣安东尼奥_\(得克萨斯州\).md "wikilink")\[2\]，在[日本](../Page/日本.md "wikilink")[兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")[西宮市](../Page/西宮市.md "wikilink")長大。
 
 ## 早年生活及教育
 
@@ -26,15 +26,15 @@ Mina於1997年3月24日出生於[美國](https://zh.wikipedia.org/wiki/美國 "w
 
 2016年9月15日，Mina在[TWICE Melody Project中成為第一位公開翻唱作品的成員](../Page/TWICE_TV.md "wikilink")\[15\]。
 
-2017年，TWICE参加了第十一屆《[MBC偶像明星運動會](https://zh.wikipedia.org/wiki/MBC偶像明星運動會 "wikilink")》。Mina與[多賢](../Page/多賢.md "wikilink")代表「跑到最後隊」的成员（成員包括[防彈少年團](../Page/防彈少年團.md "wikilink")、[GOT7](../Page/GOT7.md "wikilink")以及[BESTie](../Page/BESTie.md "wikilink")），进行射箭比賽。在分戰時對上張丞延（[CLC](../Page/CLC.md "wikilink")隊長），以9:10落後，跑到最後隊最後敗陣。第十二屆，Mina參加第一屆[韻律體操](../Page/艺术体操.md "wikilink")（圈操），因正式比賽時失誤而屈居第六名，獲得分數為9.8分。后因準備第十三屆錄影和第二屆女子韻律體操，Mina沒有回日本參加[成年禮](https://zh.wikipedia.org/wiki/成年禮 "wikilink")，在第二屆女子韻律體操（球操）上以12.25分（難度分4.05，實施分8.20，扣分0.00）的成绩與[FIESTAR](../Page/FIESTAR.md "wikilink")[曹璐](../Page/曹璐.md "wikilink")並列金牌。此後雙方都沒有再參加比賽。
+2017年，TWICE参加了第十一屆《[MBC偶像明星運動會](https://zh.wikipedia.org/wiki/MBC偶像明星運動會 "wikilink")》。Mina與[多賢](../Page/多賢.md "wikilink")代表「跑到最後隊」的成员。第十二屆，Mina參加第一屆[韻律體操](../Page/艺术体操.md "wikilink")（圈操），因正式比賽時失誤而屈居第六名，獲得分數為9.8分。后因準備第十三屆錄影和第二屆女子韻律體操，Mina沒有回日本參加[成年禮](https://zh.wikipedia.org/wiki/成年禮 "wikilink")，在第二屆女子韻律體操（球操）上以12.25分（難度分4.05，實施分8.20，扣分0.00）的成绩與[FIESTAR](../Page/FIESTAR.md "wikilink")[曹璐](../Page/曹璐.md "wikilink")並列金牌。此後雙方都沒有再參加比賽。
 
 2016年8月，Mina為[Momo在](../Page/Momo_\(TWICE\).md "wikilink")《[Hit The Stage](../Page/Hit_The_Stage.md "wikilink")》比賽提供支援。
 
-2019年7月11日，TWICE所屬公司[JYP發布公告](https://zh.wikipedia.org/wiki/JYP "wikilink")：Mina因對站在舞台上感到突然的極度緊張與不安(未公布準確的診斷名稱)，正向多間專業醫療機構確認中，經本人與成員的充分商議，認為目前Mina的健康狀況需要進一步治療，因此Mina將不參與接下來的世界巡迴演唱會TWICE WORLD TOUR 2019：TWICELIGHTS。
+2019年7月11日，TWICE所屬公司[JYP發布公告](https://zh.wikipedia.org/wiki/JYP "wikilink")：Mina因對站在舞台上感到突然的極度緊張與不安，經本人與成員的充分商議，認為目前Mina的健康狀況需要進一步治療，因此Mina將不參與接下來的世界巡迴演唱會TWICE WORLD TOUR 2019：TWICELIGHTS。8月27日，JYP娛樂透露：Mina被確診為[焦慮症](../Page/焦虑症.md "wikilink")，將不會與其他團員宣傳新專輯，但已為新專輯錄音和拍攝主打歌MV。\[16\]
 
 ## 個人生活
 
-2017年12月27日，即TWICE出道第800天，Mina在TWICE的官方instagram帳號透露已在十天前在韓國註冊成為器官捐贈者，她早於2013年已在日本登記。\[16\]
+2017年12月27日，即TWICE出道第800天，Mina在TWICE的官方instagram帳號透露已在十天前在韓國註冊成為器官捐贈者，她早於2013年已在日本登記。\[17\]
 
 ## 音樂作品
 
@@ -78,9 +78,9 @@ Mina於1997年3月24日出生於[美國](https://zh.wikipedia.org/wiki/美國 "w
 | 5月26日  | KBS2                                                                | 《維他命Vitamin》                                              | 定延、Momo、志效、子瑜                                                       |              |
 | 7月11日  | SBS                                                                 | 《[同床異夢，沒關係沒關係](../Page/同床異夢，沒關係沒關係.md "wikilink")》        | Sana、彩瑛、子瑜                                                          |              |
 | 8月7日   | KBS2                                                                | 《[兩天一夜](../Page/兩天一夜.md "wikilink")》                      | 娜璉、定延、Sana、志效、多賢、彩瑛、子瑜                                              |              |
-| 8月10日  | Mnet                                                                | 《[Hit The Stage](../Page/Hit_The_Stage.md "wikilink")》    | \[17\]                                                              |              |
+| 8月10日  | Mnet                                                                | 《[Hit The Stage](../Page/Hit_The_Stage.md "wikilink")》    | \[18\]                                                              |              |
 | 8月14日  | MBC                                                                 | 《[真正的男人](../Page/真正的男人.md "wikilink")》                    | 娜璉、Momo、Sana、志效、多賢、彩瑛、子瑜                                            |              |
-| 8月17日  | Mnet                                                                | 《[Hit The Stage](../Page/Hit_The_Stage.md "wikilink")》    | \[18\]                                                              |              |
+| 8月17日  | Mnet                                                                | 《[Hit The Stage](../Page/Hit_The_Stage.md "wikilink")》    | \[19\]                                                              |              |
 | 12月14日 | KBS2                                                                | 《[TRICK\&TRUE](../Page/TRICK&TRUE.md "wikilink")》         | 多賢                                                                  |              |
 | 2017年  | 9月7日                                                                | Mnet                                                      | 《[偶像學校](https://zh.wikipedia.org/wiki/偶像學校 "wikilink")》             | Momo         |
 | 2018年  | 4月15日                                                               | MBC                                                       | 《[神秘音乐秀：蒙面歌王](https://zh.wikipedia.org/wiki/神秘音乐秀：蒙面歌王 "wikilink")》 | Momo、彩瑛      |
@@ -142,6 +142,8 @@ Mina於1997年3月24日出生於[美國](https://zh.wikipedia.org/wiki/美國 "w
 
 16.
 
-17. 以“專業舞者”身份支援Momo
+17.
 
 18. 以“專業舞者”身份支援Momo
+
+19. 以“專業舞者”身份支援Momo

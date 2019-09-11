@@ -575,41 +575,32 @@ IU，想你了<br />
 <td><p>因二人都住在<a href="../Page/麻浦區.md" title="wikilink">麻浦區</a>而出現的稱號。</p></td>
 </tr>
 <tr class="even">
-<td><p>全傻頭、池傻腦<br />
-(전어리와 지석바리)<br />
-傻瓜孖寶/全池雙傻<br />
-(어리바리 듀오)</p></td>
-<td><p><a href="../Page/全昭旻.md" title="wikilink">全昭旻</a>、<a href="https://zh.wikipedia.org/wiki/池錫辰" title="wikilink">池錫辰</a></p></td>
-<td><p>出現於第372集提起，李光洙於人體漢堡包遊戲組隊時，特意以兩人傻頭傻腦行為編成同組，由劉在錫所取。</p></td>
-</tr>
-<tr class="odd">
 <td><p>內維斯兄弟<br />
 （네비스 브라더스）</p></td>
 <td><p><a href="../Page/Haha.md" title="wikilink">Haha</a>、<a href="../Page/梁世燦.md" title="wikilink">梁世燦</a></p></td>
 <td><p>第378集開始提起，在<a href="https://zh.wikipedia.org/wiki/紐西蘭" title="wikilink">紐西蘭的內維斯鞦韆</a>(Nevis Arc)接受懲罰，故有這個稱號。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>朋友關係<br />
 （친구사이）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/金鍾國" title="wikilink">金鍾國</a>、<a href="../Page/梁世燦.md" title="wikilink">梁世燦</a></p></td>
 <td><p>第390集開始提起。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>懲罰小隊<br />
 （처벌 팀）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/池錫辰" title="wikilink">池錫辰</a>、<a href="../Page/劉在錫.md" title="wikilink">劉在錫</a>、<a href="../Page/李光洙_(演員).md" title="wikilink">李光洙</a>、<a href="../Page/全昭旻.md" title="wikilink">全昭旻</a></p></td>
-<td><p>在多個國際特輯中同樣需要接受懲罰之四名成員<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/池錫辰" title="wikilink">池錫辰</a>、<a href="../Page/劉在錫.md" title="wikilink">劉在錫</a>、<a href="../Page/李光洙_(演員).md" title="wikilink">李光洙</a></p></td>
+<td><p>在多個國際特輯中同樣需要接受懲罰之三名成員<br />
 國際特輯懲罰包括：<br />
 #危險的觀光：戰悚迷宮<br />
 #半半旅行：鱷魚死亡之籠<br />
 #家族團遊計劃：漫步雲端、幽靈酒店<br />
 因此四人自稱為懲罰小隊，對於出現這狀況連製作組都表示感到非常神奇。</p></td>
 </tr>
-<tr class="even">
-<td><p>國旻兄妹<br />
-（국민 남매）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金鍾國" title="wikilink">金鍾國</a>、<a href="../Page/全昭旻.md" title="wikilink">全昭旻</a></p></td>
-<td><p>第434集開始提起。</p></td>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -623,8 +614,8 @@ IU，想你了<br />
 若該集的最後遊戲為個人賽，該集的所有勝利者會視為於個人競賽勝出。若競賽有單人間諜，勝出的間諜會視為於個人競賽勝出。
 \***雙人/情侶競賽** 若該集的競賽以雙人或情侶為單位，該集的所有勝利雙人或情侶會視為於雙人/情侶競賽勝出。若競賽有雙人間諜，勝出的兩名間諜會視為於雙人/情侶競賽勝出。
 \***團體競賽勝出** 若該集的競賽以團體為單位，該集的所有勝利團體的成員會視為於團體競賽勝出。若競賽有多人間諜，勝出的所有間諜會視為於團體競賽勝出。全員勝出亦計為團體競賽勝出。
-{|class="wikitable sortable" width=100% style="text-align:center;" \!width=20%|姓名 \!width=20%|個人競賽勝出 \!width=20%|雙人/情侶競賽勝出 \!width=20%|團體競賽勝出 \!width=20%|勝出總數 |- \![劉在錫](../Page/劉在錫.md "wikilink") |27 |17 |124 |**168** |- \![池錫辰](https://zh.wikipedia.org/wiki/池錫辰 "wikilink") |15 |6 |118 |**139** |- \![金鍾國](https://zh.wikipedia.org/wiki/金鍾國 "wikilink") |27 |17 |127 |**171** |- \![哈哈](../Page/Haha.md "wikilink") |18 |18 |129 |**165** |- \![宋智孝](../Page/宋智孝.md "wikilink") |25 |16 |128 |**169** |- \![李光洙](../Page/李光洙_\(演員\).md "wikilink") |17 |15 |121 |**153** |- \![全昭旻](../Page/全昭旻.md "wikilink") |9 |4 |20 |**33** |- \![梁世燦](../Page/梁世燦.md "wikilink") |5 |3 |25 |**33** |- \![Gary](../Page/Gary_\(韓國歌手\).md "wikilink") |11 |9 |97 |**117** |- \![宋仲基](../Page/宋仲基.md "wikilink") |0 |0 |19 |**19** |- \![Lizzy](../Page/Lizzy_\(韓國歌手\).md "wikilink") |0 |0 |5 |**5** |- | | | | |- \!此部分最強者 |劉在錫、金鐘國 |哈哈 |哈哈 |金鐘國 |- \!此部分最弱者 |池錫辰 |池錫辰 |池錫辰 |池錫辰 |} (最強者及最弱者計算成員的勝出率，而非勝出次數) ([Gary](../Page/Gary_\(韓國歌手\).md "wikilink")、[宋仲基](../Page/宋仲基.md "wikilink")和[Lizzy已退出](../Page/Lizzy_\(韓國歌手\).md "wikilink")，記錄已完成)
-(，即第440集)
+{|class="wikitable sortable" width=100% style="text-align:center;" \!width=20%|姓名 \!width=20%|個人競賽勝出 \!width=20%|雙人/情侶競賽勝出 \!width=20%|團體競賽勝出 \!width=20%|勝出總數 |- \![劉在錫](../Page/劉在錫.md "wikilink") |27 |20 |135 |**182 |- \![池錫辰](https://zh.wikipedia.org/wiki/池錫辰 "wikilink") |16 |6 |125 |**147 |- \![金鍾國](https://zh.wikipedia.org/wiki/金鍾國 "wikilink") |28 |17 |136 |**181 |- \![哈哈](../Page/Haha.md "wikilink") |21 |19 |134 |**174*' |- \![宋智孝](../Page/宋智孝.md "wikilink") |25 |17 |134 |**176** |- \![李光洙](../Page/李光洙_\(演員\).md "wikilink") |17 |15 |131 |**163'' |- \![全昭旻](../Page/全昭旻.md "wikilink") |9 |5 |27 |**41 |- \![梁世燦](../Page/梁世燦.md "wikilink") |5 |3 |34 |**42 |- \![Gary](../Page/Gary_\(韓國歌手\).md "wikilink") |11 |9 |97 |**117*' |- \![宋仲基](../Page/宋仲基.md "wikilink") |0 |0 |19 |**19** |- \![Lizzy](../Page/Lizzy_\(韓國歌手\).md "wikilink") |0 |0 |5 |**5** |- | | | | |- \!此部分最強者 |金鍾國 |劉在錫 |金鍾國 |劉在錫 |- \!此部分最弱者 |池錫辰 |池錫辰 |池錫辰 |池錫辰 |} (最強者及最弱者計算成員的勝出率，而非勝出次數) ([Gary](../Page/Gary_\(韓國歌手\).md "wikilink")、[宋仲基](../Page/宋仲基.md "wikilink")和[Lizzy已退出](../Page/Lizzy_\(韓國歌手\).md "wikilink")，記錄已完成)
+(，即第465集
 
 ## 註釋
 

@@ -20,7 +20,7 @@ CA集團的直營品牌管理和製造商事務主要是由「**Outvision Group*
 
 ### 拓展合作關係
 
-自從2000年以來，即使公司照著常規路線運作，但是各地的銷售據點依舊顯得逐漸狹窄，於是開始轉換方向以重振這家國內獨立品牌的龍頭企業。像是跟原本屬於「Mr. President」（Mr.プレジデント）後來重組而成的綜合品牌「[MOODYZ](../Page/MOODYZ.md "wikilink")」以及單體系女優品牌「[S1](https://zh.wikipedia.org/wiki/S1_\(AV公司\) "wikilink")」等這些片商接觸。直到2006年5月之前，這些片商都沒外有積極地對外公開表示與北都集團之間的關係，然後同年6月發表聲明，在作品包裝內頁的總部位置已經被統一到「[石川縣](../Page/石川縣.md "wikilink")[加賀市美岬町](https://zh.wikipedia.org/wiki/加賀市 "wikilink")1番-1號AVC活動中心（製造商名稱）」。2007年8月發表聲明，總部位置已變更到「[東京都](../Page/東京都.md "wikilink")[澀谷區](../Page/澀谷區.md "wikilink")[恵比壽](../Page/惠比壽_\(東京都\).md "wikilink")4丁目5番28號惠比壽花園605號（製造商名稱）」。
+自從2000年以來，即使公司照著常規路線運作，但是各地的銷售據點依舊顯得逐漸狹窄，於是開始轉換方向以重振這家國內獨立品牌的龍頭企業。像是跟原本屬於「Mr. President」（Mr.プレジデント）後來重組而成的綜合品牌「[MOODYZ](../Page/MOODYZ.md "wikilink")」以及單體系女優品牌「[S1](https://zh.wikipedia.org/wiki/S1_\(AV公司\) "wikilink")」等片商接觸。直到2006年5月之前，這些片商都沒外有積極地對外公開表示與北都集團之間的關係，然後同年6月發表聲明，在作品包裝內頁的總部位置已經被統一到「[石川縣](../Page/石川縣.md "wikilink")[加賀市美岬町](https://zh.wikipedia.org/wiki/加賀市 "wikilink")1番-1號AVC活動中心（製造商名稱）」。2007年8月發表聲明，總部位置已變更到「[東京都](../Page/東京都.md "wikilink")[澀谷區](../Page/澀谷區.md "wikilink")[恵比壽](../Page/惠比壽_\(東京都\).md "wikilink")4丁目5番28號惠比壽花園605號（製造商名稱）」。
 
 另外集團相關的子公司DMM，也在背後快速的發展著，推動獨立品牌的[圈地運動](https://zh.wikipedia.org/wiki/圈地運動 "wikilink")。先收購了「[Attackers](https://zh.wikipedia.org/wiki/Attackers "wikilink")」、接著從[SOD這個集團旗下片商](../Page/Soft_On_Demand.md "wikilink")「[Dogma](https://zh.wikipedia.org/wiki/Dogma "wikilink")」的獨佔銷售開始，並且與「[馬克思兄弟](https://zh.wikipedia.org/wiki/馬克思兄弟_\(AV商\) "wikilink")」、「」、「」、「Aroma（アロマ企画）」、「AVS」、「[Aurora Project](https://zh.wikipedia.org/wiki/Aurora_Project "wikilink")」等主要的片商加強合作關係，這些片商也成為了組織「Outvision」集團的主要力量。
 

@@ -46,6 +46,7 @@ Ars Technica注意到Fuchsia的很多部分都能工作，尤其是硬件支持\
   - [L4微内核系列](../Page/L4微内核系列.md "wikilink") – L4系列，小而快的开源微内核
   - [貝爾實驗室九號計畫](../Page/貝爾實驗室九號計畫.md "wikilink") – 为了接替UNIX的分布式操作系统
   - [MINIX 3](https://zh.wikipedia.org/wiki/MINIX_3 "wikilink") – [类Unix微内核操作系统](https://zh.wikipedia.org/wiki/类Unix "wikilink")
+  - [鴻蒙 (作業系統)](https://zh.wikipedia.org/wiki/鴻蒙_\(作業系統\) "wikilink") – 華為開發的作業系統。
 
 {{-}}
 

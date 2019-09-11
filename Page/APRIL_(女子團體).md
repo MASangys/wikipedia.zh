@@ -225,7 +225,7 @@ PlotData =
 | 2018年                                               | Playlist                                                        | 《[A-TEEN](../Page/A-TEEN_\(電視劇\).md "wikilink")》 | 娜恩   | 金荷娜    | 女主角 | 網路劇 |
 | 2019年                                               | 《[A-TEEN 2](../Page/A-TEEN_2_\(電視劇\).md "wikilink")》            |                                                  |      |        |     |     |
 | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") | 《嘻哈王》                                                           | 宋河珍                                              | 迷你劇  |        |     |     |
-| Playlist                                            | 《再次遇見你》                                                         | 真率                                               | 河多順  | 女主角    | 網路劇 |     |
+| Playlist                                            | 《再次遇見的你》                                                        | 真率                                               | 河多順  | 女主角    | 網路劇 |     |
 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 《[偶然發現的一天](https://zh.wikipedia.org/wiki/偶然發現的一天 "wikilink")》   | 娜恩                                               | 呂珠多  | 第二女主角  |     |     |
 |                                                     |                                                                 |                                                  |      |        |     |     |
 

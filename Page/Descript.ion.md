@@ -19,7 +19,7 @@
 
 **Descript.ion**注释文件早期见于图片管理软件[ACDSee](../Page/ACDSee.md "wikilink")，如2.4版，在浏览界面为同级文件提供注释列，新建或编辑的快捷方式为Ctrl+D。后被[XnView](../Page/XnView.md "wikilink")等其他[图像浏览器沿用](https://zh.wikipedia.org/wiki/图像浏览器 "wikilink")，在[文件管理器](https://zh.wikipedia.org/wiki/文件管理器 "wikilink") TC、DC 和 [压缩软件](https://zh.wikipedia.org/wiki/压缩软件比较 "wikilink") 7-Zip 中均被支持。
 
-\=== 支持 **Descript.ion**风格文件注释 的软件列表 ==
+\=== 支持 Descript.ion风格文件注释 的软件列表 ==
 
   - [ACDSee](../Page/ACDSee.md "wikilink")
   - [XnView](../Page/XnView.md "wikilink")

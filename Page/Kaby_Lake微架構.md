@@ -2,7 +2,7 @@
 
 Kaby Lake是Intel第一款只支持[Windows 10以及之后版本](../Page/Windows_10.md "wikilink")[Windows作業系統的处理器架构](https://zh.wikipedia.org/wiki/Windows作業系統 "wikilink")\[3\]
 
-Skylake原定继任者是[10纳米](https://zh.wikipedia.org/wiki/10纳米制程 "wikilink")，但2015年7月16日已宣布，Cannonlake被延後到14nm已無法再繼續提供更多性能後才會推出。\[4\]\[5\]
+Skylake原定继任者是[10纳米](../Page/10纳米制程.md "wikilink")，但2015年7月16日已宣布，Cannonlake被延後到14nm已無法再繼續提供更多性能後才會推出。\[4\]\[5\]
 
 ## 特性
 

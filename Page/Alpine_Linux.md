@@ -56,6 +56,18 @@
 </tr>
 <tr class="even">
 <td></td>
+<td><p>2019-01-29</p></td>
+<td><p>2021-01-01</p></td>
+<td><p>4.19.xx</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>2019-06-19</p></td>
+<td><p>2021-05-01</p></td>
+<td><p>4.19.xx</p></td>
+</tr>
+<tr class="even">
+<td></td>
 <td><p>滾動更新</p></td>
 <td></td>
 <td></td>

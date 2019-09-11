@@ -57,7 +57,7 @@
   - [葡萄牙](../Page/葡萄牙.md "wikilink")[塞新布拉](../Page/塞新布拉.md "wikilink")（5）
   - [摩洛哥](https://zh.wikipedia.org/wiki/摩洛哥 "wikilink")[得土安](https://zh.wikipedia.org/wiki/得土安 "wikilink")（6）
   - [意大利](../Page/意大利.md "wikilink")[马扎拉德瓦洛](https://zh.wikipedia.org/wiki/马扎拉德瓦洛 "wikilink")（7）
-  - [希腊](../Page/希腊.md "wikilink")[干尼亚](https://zh.wikipedia.org/wiki/干尼亚 "wikilink")（8）
+  - [希腊](../Page/希腊.md "wikilink")[哈尼亚](../Page/哈尼亚.md "wikilink")（8）
   - [土耳其](../Page/土耳其.md "wikilink")[马尔马里斯港](../Page/马尔马里斯港.md "wikilink")（9）
   - [賽普勒斯](../Page/賽普勒斯.md "wikilink")（10）
 

@@ -170,7 +170,7 @@ end
 `                   :_'\n== 通用說明 ==\n'`
 `                   :_(frame:expandTemplate{title = tStubDoc.text})`
 `                   :_'\n\n'(),`
-`               ['link box'] = Buffer'本文档由`[`Module:Asbox自动生成`](https://zh.wikipedia.org/wiki/Module:Asbox "wikilink")`。'`
+`               ['link box'] = Buffer'本-{zh-cn:文档; zh-tw:文件;}-由`[`Module:Asbox自动生成`](https://zh.wikipedia.org/wiki/Module:Asbox "wikilink")`。'`
 `                   :_in'通用信息嵌入自`[`Template:Stub``   ``documentation`](https://zh.wikipedia.org/wiki/Template:Stub_documentation "wikilink")`。'`
 `                       :_(mw.html.create'span'`
 `                           :cssText'font-size:smaller;font-style:normal;line-height:130%'`

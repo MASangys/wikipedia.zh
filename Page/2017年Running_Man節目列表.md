@@ -74,7 +74,7 @@
 <strong>個人戰</strong><br />
 沒有隊伍</p></td>
 <td><p>個人Running Ball不被抽中</p></td>
-<td><p><a href="../Page/劉在錫.md" title="wikilink">劉在錫</a>、池錫辰、<a href="https://zh.wikipedia.org/wiki/金鐘國" title="wikilink">金鐘國</a>、<a href="../Page/Haha.md" title="wikilink">Haha</a>、<a href="../Page/李光洙.md" title="wikilink">李光洙</a><strong>勝出</strong><br />
+<td><p>劉在錫、池錫辰、金鐘國、Haha、李光洙<strong>勝出</strong><br />
 宋智孝選擇與金鐘國一同接受水炸彈懲罰，兩人分別成為第一位及第二位Member's Week的主人公[12]</p></td>
 </tr>
 <tr class="even">
@@ -86,12 +86,12 @@
 <td><p>無嘉賓</p></td>
 <td><p><br />
 <small>（<a href="https://zh.wikipedia.org/wiki/江原道_(韓國)" title="wikilink">江原道</a><a href="../Page/平昌郡.md" title="wikilink">平昌郡</a>）</small></p></td>
-<td><p><a href="../Page/宋智孝.md" title="wikilink">宋智孝</a></p></td>
+<td><p>宋智孝</p></td>
 <td><p><span style=font-size:110%><strong>連結紐帶MT</strong></span><br />
 <strong>個人戰</strong><br />
 沒有隊伍</p></td>
 <td><p>繩子不被抽中</p></td>
-<td><p>池錫辰、<a href="https://zh.wikipedia.org/wiki/金鍾國" title="wikilink">金鍾國</a>、<a href="../Page/李光洙.md" title="wikilink">李光洙</a><strong>勝出</strong><br />
+<td><p>池錫辰、金鍾國、李光洙<strong>勝出</strong><br />
 劉在錫、Haha須接受冰水沐浴懲罰</p></td>
 </tr>
 <tr class="odd">
@@ -103,12 +103,12 @@
 <td><p>鄭素英（金鐘國相親對象）</p></td>
 <td><p><a href="../Page/漢江_(韓國).md" title="wikilink">漢江</a><br />
 <small>（<a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a>）</small></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金鐘國" title="wikilink">金鐘國</a></p></td>
+<td><p>金鐘國</p></td>
 <td><p><span style=font-size:110%><strong>我家的虎孩子</strong></span><br />
 <strong>團體戰</strong></p></td>
 <td><p>讓相親對象選擇「Yes」</p></td>
 <td><p>全員<strong>勝出</strong><br />
-<a href="https://zh.wikipedia.org/wiki/鄭素英" title="wikilink">鄭素英選擇了</a><a href="https://zh.wikipedia.org/wiki/金鐘國" title="wikilink">金鐘國</a>[13]</p></td>
+鄭素英選擇了金鐘國[13]</p></td>
 </tr>
 <tr class="even">
 <td><p>286</p></td>
@@ -124,7 +124,7 @@
 <strong>團體戰</strong></p></td>
 <td><p>逃出監獄並在下午五時前到達婚禮會場</p></td>
 <td><p>全員<strong>勝出</strong><br />
-池錫辰、<a href="https://zh.wikipedia.org/wiki/柳秀晶" title="wikilink">柳秀晶獲得金戒指兩枚</a>[14]</p></td>
+池錫辰、柳秀晶獲得金戒指兩枚[14]</p></td>
 </tr>
 <tr class="odd">
 <td><p>287</p></td>
@@ -141,8 +141,8 @@
 <strong>個人戰</strong><br />
 沒有隊伍</p></td>
 <td><p>擊敗其餘的Running Man</p></td>
-<td><p><a href="../Page/李光洙.md" title="wikilink">李光洙</a><strong>勝出</strong><br />
-獲得<a href="../Page/金.md" title="wikilink">金</a><a href="https://zh.wikipedia.org/wiki/銅" title="wikilink">銅像</a></p></td>
+<td><p>李光洙<strong>勝出</strong><br />
+獲得金像</p></td>
 </tr>
 <tr class="even">
 <td><p>288</p></td>
@@ -153,7 +153,7 @@
 <td><p>無嘉賓</p></td>
 <td><p>X-GAME Resort<br />
 <small>（<a href="https://zh.wikipedia.org/wiki/江原道_(韓國)" title="wikilink">江原道</a><a href="https://zh.wikipedia.org/wiki/麟蹄郡" title="wikilink">麟蹄郡</a>）</small></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/哈哈" title="wikilink">哈哈</a></p></td>
+<td><p>哈哈</p></td>
 <td><p><span style=font-size:110%><strong>哈哈的選擇</strong></span><br />
 <strong>個人戰</strong><br />
 沒有隊伍</p></td>
@@ -180,8 +180,8 @@
 隱藏身份並完成任務<br />
 <strong>任務隊</strong><br />
 15分鐘內擊敗偷衣賊</p></td>
-<td><p><a href="../Page/劉在錫.md" title="wikilink">劉在錫</a><strong>勝出</strong><br />
-宋智孝因休息比賽第一名獲得<a href="https://zh.wikipedia.org/wiki/東南亞" title="wikilink">東南亞旅行劵</a><br />
+<td><p>劉在錫<strong>勝出</strong><br />
+宋智孝因休息比賽第一名獲得東南亞旅行劵<br />
 而池錫辰、宋智孝因未能取回被劉在錫偷走的衣服，需和落敗的李光洙穿懲罰衣服走到最近的地鐵站作為懲罰[16]</p></td>
 <td></td>
 </tr>
@@ -197,7 +197,7 @@
 <td><p>HALAGO餐廳<br />
 <small>（<a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a><br />
 <a href="../Page/江南區_(首爾).md" title="wikilink">江南區</a><a href="https://zh.wikipedia.org/wiki/狎鷗亭洞" title="wikilink">狎鷗亭洞</a>）</small></p></td>
-<td><p><a href="../Page/劉在錫.md" title="wikilink">劉在錫</a></p></td>
+<td><p>劉在錫</p></td>
 <td><p><span style=font-size:110%><strong>劉在錫盃 － 綜藝體育大會</strong></span><br />
 <span style=color:#FF0000><strong>Running Man隊</strong></span><br />
 池錫辰、金鐘國、哈哈、宋智孝、李光洙<br />
@@ -217,7 +217,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/SBS有限公司" title="wikilink">SBS放送中心</a><br />
 <small>（<a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a><br />
 <a href="https://zh.wikipedia.org/wiki/陽川區" title="wikilink">陽川區</a>）</small></p></td>
-<td><p><a href="../Page/李光洙.md" title="wikilink">李光洙</a></p></td>
+<td><p>李光洙</p></td>
 <td><p><span style=font-size:110%><strong>徹夜旅行</strong></span><br />
 <strong>團體戰</strong></p></td>
 <td><p><strong>團體任務</strong><br />
@@ -623,7 +623,7 @@ Sandara隊獲得旅行券，尹博隊獲得金R銅像，韓載錫隊獲得人蔘
 沒有隊伍</p></td>
 <td><p><strong>獲勝</strong><br />
 將鞋子丟進獲勝格子</p></td>
-<td><p><a href="../Page/劉在錫.md" title="wikilink">劉在錫</a><strong>勝出</strong><br />
+<td><p>劉在錫<strong>勝出</strong><br />
 得到任務費十萬韓圓<br />
 最終啊撒觀光券攻擊後，最終劉在錫、池錫辰、哈哈、李光洙、全昭旻、梁世燦參與極端懲罰任務，並抽出地點。<br />
 地點選定為：日本東京 — 富士急高原樂園戰慄迷宮</p></td>
@@ -832,8 +832,8 @@ Sandara隊獲得旅行券，尹博隊獲得金R銅像，韓載錫隊獲得人蔘
 <span style="color:#0000FF"><strong>智孝隊</strong></span>：宋智孝、池錫辰、梁世燦<br />
 <span style="color:#FF8C00"><strong>惠成隊</strong></span>：鄭惠成、金鐘國、李光洙</p></td>
 <td><p>收集最多1%印章</p></td>
-<td><p><a href="../Page/劉在錫.md" title="wikilink">劉在錫</a><strong>勝出</strong><br />
-擲骰後決定由<a href="https://zh.wikipedia.org/wiki/哈哈" title="wikilink">哈哈</a>、<a href="../Page/全昭旻.md" title="wikilink">全昭旻</a>各獲得一張 I Go觀光券[27]</p></td>
+<td><p>劉在錫<strong>勝出</strong><br />
+擲骰後決定由哈哈、全昭旻各獲得一張 I Go觀光券[27]</p></td>
 <td><p>劉在錫 0<br />
 池錫辰 0<br />
 金鐘國 0<br />
@@ -856,7 +856,7 @@ Sandara隊獲得旅行券，尹博隊獲得金R銅像，韓載錫隊獲得人蔘
 <strong>個人戰</strong><br />
 沒有隊伍</p></td>
 <td><p>擁有最多個人任務資金</p></td>
-<td><p><a href="../Page/宋智孝.md" title="wikilink">宋智孝</a><strong>勝出</strong><br />
+<td><p>宋智孝<strong>勝出</strong><br />
 擲骰後決定由池錫辰獲得一張I Go觀光券[28]</p></td>
 <td><p>劉在錫 0<br />
 <span style="color:red;">池錫辰 1</span><br />
@@ -886,9 +886,9 @@ Sandara隊獲得旅行券，尹博隊獲得金R銅像，韓載錫隊獲得人蔘
 <span style=color:#00CED1>宋智孝、李泰煥</span><br />
 <span style=color:#0000FF>李光洙、李-{zh-cn:先;zh-hk:善;zh-tw:善}-彬</span><br />
 <span style=color:#FF8C00>梁世燦、孫娜恩</strong></p></td>
-<td><p><a href="../Page/宋智孝.md" title="wikilink">宋智孝</a>、李泰煥<strong>勝出</strong><br />
+<td><p>宋智孝、李泰煥<strong>勝出</strong><br />
 李泰煥獲得金戒指<br />
-擲骰後決定由<a href="https://zh.wikipedia.org/wiki/哈哈" title="wikilink">哈哈獲得一張I</a> Go觀光券</p></td>
+擲骰後決定由哈哈獲得一張I Go觀光券</p></td>
 <td><p>劉在錫 0<br />
 池錫辰 1<br />
 金鐘國 0<br />
@@ -934,8 +934,8 @@ Sandara隊獲得旅行券，尹博隊獲得金R銅像，韓載錫隊獲得人蔘
 淘汰保安<br />
 <strong><span style=color:#0000FF>保安</span></strong><br />
 淘汰所有小偷</p></td>
-<td><p><a href="../Page/劉在錫.md" title="wikilink">劉在錫</a>、<a href="https://zh.wikipedia.org/wiki/金鐘國" title="wikilink">金鐘國</a><strong>勝出</strong><br />
-劉在錫、金鐘國決定由池錫辰、<a href="../Page/全昭旻.md" title="wikilink">全昭旻</a>各獲得一張I Go觀光券</p></td>
+<td><p>劉在錫、金鐘國<strong>勝出</strong><br />
+劉在錫、金鐘國決定由池錫辰、全昭旻各獲得一張I Go觀光券</p></td>
 <td><p>劉在錫 0<br />
 <span style="color:red;">池錫辰 2</span><br />
 金鐘國 0<br />
@@ -959,8 +959,9 @@ Sandara隊獲得旅行券，尹博隊獲得金R銅像，韓載錫隊獲得人蔘
 <strong>任務隊（個人戰）</strong><br />
 劉在錫、金鐘國、宋智孝、李光洙、梁世燦</p></td>
 <td><p>與較少咣Man同一隊</p></td>
-<td><p><a href="../Page/劉在錫.md" title="wikilink">劉在錫</a>、<a href="https://zh.wikipedia.org/wiki/池錫辰" title="wikilink">池錫辰</a>、<a href="https://zh.wikipedia.org/wiki/金鐘國" title="wikilink">金鐘國</a>、<a href="../Page/宋智孝.md" title="wikilink">宋智孝</a><strong>勝出</strong><br />
-<a href="https://zh.wikipedia.org/wiki/哈哈" title="wikilink">哈哈</a>、<a href="../Page/全昭旻.md" title="wikilink">全昭旻</a>各獲得一張I Go觀光券</p></td>
+<td><p>劉在錫、池錫辰、金鐘國、宋智孝<strong>勝出</strong><br />
+哈哈、全昭旻各獲得一張I Go觀光券<br />
+李光洙、梁世燦因和咣Man同一隊而自動當選為最多I GO觀光券成員的選擇</p></td>
 <td><p>劉在錫 0<br />
 池錫辰 2<br />
 金鐘國 0<br />
@@ -973,7 +974,7 @@ Sandara隊獲得旅行券，尹博隊獲得金R銅像，韓載錫隊獲得人蔘
 </tr>
 <tr class="odd">
 <td><p>哈哈、全昭旻須接受「觀光」<br />
-和咣Man同一隊的梁世燦、李光洙則自動當選為最多I GO觀光券成員的選擇，經抽選後梁世燦、李光洙分別成為哈哈、全昭旻的「觀光」同伴並前往美國科羅拉多州 — 大峽谷鞦韆及印尼 — 手動木製纜車</p></td>
+梁世燦、李光洙經抽選後分別成為哈哈、全昭旻的「觀光」同伴並分別前往美國科羅拉多州 — 大峽谷鞦韆及印尼 — 手動木製纜車</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1315,7 +1316,7 @@ vs<br />
 <span style=color:#FF0000><strong>製作組</strong></span><br />
 <a href="https://zh.wikipedia.org/wiki/皇后鎮" title="wikilink">皇后鎮</a> — 160米峽谷鞦韆（Nevis Swing）</p></td>
 <td><p><strong>個人任務</strong><br />
-<a href="https://zh.wikipedia.org/wiki/哈哈" title="wikilink">哈哈</a><strong>勝出</strong><br />
+哈哈<strong>勝出</strong><br />
 <strong>團體任務</strong><br />
 製作組<strong>勝出</strong><br />
 候補地點：<a href="https://zh.wikipedia.org/wiki/皇后鎮" title="wikilink">皇后鎮</a> — 160米峽谷鞦韆（Nevis Swing）<br />
@@ -1412,7 +1413,7 @@ vs<br />
 <span style=color:#FF0000><strong>製作組</strong></span><br />
 <a href="../Page/达尔文_(澳大利亚).md" title="wikilink">達爾文</a> — 鱷魚死亡之籠（Cage of Death）</p></td>
 <td><p><strong>個人任務</strong><br />
-<a href="../Page/宋智孝.md" title="wikilink">宋智孝</a><strong>勝出</strong><br />
+宋智孝<strong>勝出</strong><br />
 <strong>團體任務</strong><br />
 製作組<strong>勝出</strong><br />
 選中候補地點：<a href="https://zh.wikipedia.org/wiki/達爾文" title="wikilink">達爾文</a> — 鱷魚死亡之籠（Cage of Death）<br />
@@ -1592,7 +1593,7 @@ Cheongpung Land<br />
 由助手擊敗所有任務隊<br />
 <strong>任務隊</strong><br />
 舉報助手</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金鐘國" title="wikilink">金鐘國</a><strong>勝出</strong><br />
+<td><p>金鐘國<strong>勝出</strong><br />
 獲得陪同觀光懲罰豁免權<br />
 最終李光洙選擇劉在錫一同前往<a href="https://zh.wikipedia.org/wiki/達爾文_(澳大利亞)" title="wikilink">達爾文</a> — 鱷魚死亡之籠（Cage of Death）進行觀光</p></td>
 </tr>
@@ -1877,7 +1878,7 @@ b. 餵飼鱷魚期間完成合照 新西蘭隊：<br />
 <a href="../Page/海雲臺區.md" title="wikilink">海雲臺區</a>）</small></p></td>
 <td><p><span style="font-size:110%"><strong>錢床異夢競賽</strong></span><br />
 <span style=color:#FF0000><strong>漢娜隊</strong></span><br />
-<a href="../Page/姜漢娜.md" title="wikilink">姜漢娜</a>、<a href="../Page/劉在錫.md" title="wikilink">劉在錫</a>、池錫辰、<a href="../Page/宋智孝.md" title="wikilink">宋智孝</a>、<a href="../Page/李光洙.md" title="wikilink">李光洙</a><br />
+姜漢娜、劉在錫、池錫辰、宋智孝、李光洙<br />
 <span style=color:#c0c0c0><strong>收真隊</strong></span><br />
 景收真、金鐘國、哈哈、全昭旻、梁世燦</p></td>
 <td><p><strong>團體任務</strong><br />
@@ -1887,7 +1888,7 @@ b. 餵飼鱷魚期間完成合照 新西蘭隊：<br />
 <td><p><strong>團體任務</strong><br />
 漢娜隊<strong>勝出</strong><br />
 <strong>個人任務</strong><br />
-<a href="../Page/李光洙.md" title="wikilink">李光洙</a><strong>勝出</strong><br />
+李光洙<strong>勝出</strong><br />
 獲得二十萬韓圓<br />
 最終選定池錫辰、哈哈、全昭旻、梁世燦接受水炸彈懲罰</p></td>
 </tr>
@@ -1933,7 +1934,7 @@ b. 餵飼鱷魚期間完成合照 新西蘭隊：<br />
 <strong>鬼隊（個人戰）</strong><br />
 劉在錫、池錫辰、金鐘國、哈哈、宋智孝、李光洙、全昭旻</p></td>
 <td><p>變成人類並於雞鳴時登上判定台</p></td>
-<td><p><a href="../Page/李光洙.md" title="wikilink">李光洙</a><strong>勝出</strong><br />
+<td><p>李光洙<strong>勝出</strong><br />
 可以選擇兩份聖誕禮物</p></td>
 </tr>
 <tr class="even">
@@ -1957,9 +1958,9 @@ b. 餵飼鱷魚期間完成合照 新西蘭隊：<br />
 <span style=color:#000000><strong>黑隊</strong></span><br />
 金鐘國、哈哈、宋智孝、全昭旻、張水院</p></td>
 <td><p>獲得最多的火焰徽章</p></td>
-<td><p><a href="../Page/李光洙.md" title="wikilink">李光洙</a><strong>勝出</strong><br />
+<td><p>李光洙<strong>勝出</strong><br />
 獲得一百萬韓圓<br />
-但由於李光洙同時獲得最多<a href="https://zh.wikipedia.org/wiki/寒冰" title="wikilink">寒冰</a><a href="https://zh.wikipedia.org/wiki/徽章" title="wikilink">徽章而需接受懲罰</a>，並選擇與<a href="https://zh.wikipedia.org/wiki/金鐘國" title="wikilink">金鐘國一同接受水炮彈懲罰</a>，但因天氣嚴寒，懲罰押後進行[37]</p></td>
+但由於李光洙同時獲得最多寒冰徽章而需接受懲罰，並選擇與金鐘國一同接受水炮彈懲罰，但因天氣嚴寒，懲罰押後進行[37]</p></td>
 </tr>
 </tbody>
 </table>
@@ -2578,14 +2579,14 @@ b. 餵飼鱷魚期間完成合照 新西蘭隊：<br />
 14. 柳秀晶（池錫辰妻子）特別出演。
 15. 特別出演。
 16. [Irene](../Page/Irene_\(Red_Velvet\).md "wikilink")、[Seulgi](../Page/瑟琪.md "wikilink")、[Wendy](../Page/Wendy_\(Red_Velvet\).md "wikilink")、[Yeri](../Page/Yeri.md "wikilink")（[Red Velvet](../Page/Red_Velvet.md "wikilink")）特別出演。
-17. [劉在錫](../Page/劉在錫.md "wikilink")於本集以主持身份出演。
+17. 劉在錫於本集以主持身份出演。
 18. [朴寶英驚喜聲演](https://zh.wikipedia.org/wiki/朴寶英 "wikilink")。
 19. 朴成俊（曆術家）特別出演。
 20. 《星期天真好》時段於本集播出後取消。
 21. [洪錫天](https://zh.wikipedia.org/wiki/洪錫天 "wikilink")、[千成文](../Page/千成文.md "wikilink")（宋智孝弟弟）、、、[朴正民](../Page/朴正民.md "wikilink")、[車太鉉](../Page/車太鉉.md "wikilink")特別出演；[李棟旭](../Page/李棟旭.md "wikilink")、李宗浩（李光洙爸爸）、[趙寅成](../Page/趙寅成.md "wikilink")、[宋仲基](../Page/宋仲基.md "wikilink")特別聲演；[孫賢周](../Page/孫賢周.md "wikilink")、[朴寶劍](../Page/朴寶劍.md "wikilink")驚喜出演。
 22. 宣傳電影《》。
-    本集尾段提前播放下集，播放[全昭旻](../Page/全昭旻.md "wikilink")和[梁世燦](../Page/梁世燦.md "wikilink")介紹片段。[梁世炯](../Page/梁世炯.md "wikilink")驚喜出演。
-23. 本集為[全昭旻](../Page/全昭旻.md "wikilink")和[梁世燦](../Page/梁世燦.md "wikilink")開始以成員身份正式參與錄影。
+    本集尾段提前播放下集，播放全昭旻和梁世燦介紹片段。[梁世炯](../Page/梁世炯.md "wikilink")驚喜出演。
+23. 本集為全昭旻和梁世燦開始以成員身份正式參與錄影。
 24. [李瑞鎮](../Page/李瑞鎮.md "wikilink")同在[仁川國際機場](../Page/仁川國際機場.md "wikilink")驚喜出現。
 25. [梁世炯](../Page/梁世炯.md "wikilink")驚喜出演，[李燦赫驚喜聲演](https://zh.wikipedia.org/wiki/樂童音樂家 "wikilink")。
 26. **戰慄迷宮 D-DAY**僅劉在錫、池錫辰、李光洙、全昭旻及梁世燦前往

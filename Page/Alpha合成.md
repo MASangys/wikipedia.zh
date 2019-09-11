@@ -36,6 +36,50 @@
 
 \[\alpha_o = \frac{c_o}{C_o} = \alpha_a + \alpha_b \left(1 - \alpha_a\right)\]
 
+## over 运算符的解析推导
+
+通过研究[正交覆盖](https://zh.wikipedia.org/wiki/正交覆盖 "wikilink")，Porter 和 Buff 给出了 alpha 合成的几何解释。在 1981 年 [Bruce A. Wallace](https://zh.wikipedia.org/wiki/Bruce_A._Wallace "wikilink") 的论文里则给出了另一种基于的[反射率](https://zh.wikipedia.org/wiki/反射率 "wikilink")/[透过率的物理模型的另一种推导](https://zh.wikipedia.org/wiki/透过率 "wikilink")。\[3\]
+
+第三种推导方法通过使用两条简单的假设得到。为了简单起见，我们将 **over** 运算符简记成 \(a \odot b\)。
+
+第一条假设是当背景是不透明（即 \(\alpha_b = 1\)）时，**over** 运算符表示前景颜色与背景颜色的[凸组合](https://zh.wikipedia.org/wiki/凸组合 "wikilink")：
+
+\[C_o = \alpha_a C_a + (1 - \alpha_a) C_b\]
+
+第二条假设是这种运算应该满足[结合律](../Page/结合律.md "wikilink")：
+
+\[(a \odot b) \odot c = a \odot (b \odot c)\]
+
+现在，可以假设 \(a\) 和 \(b\) 包含不透明度分量，而 \(c\) 不包含。考虑中间变量
+
+\[o = a \odot b\].
+
+由于结合律成立，有
+
+\[o \odot c = a \odot (b \odot c)\]
+
+由于 \(c\) 是不透明的，因此 \(b \odot c\) 也是不透明的。由第二条假设，在上面的式子中，上式地每个 \(\odot\) 运算都可以用凸组合表达：
+
+\[\begin{align}
+  \alpha_o C_o + (1 - \alpha_o) C_c &= \alpha_a C_a + (1 - \alpha_a) (\alpha_b C_b + (1 - \alpha_b) C_c) \\
+  &= [\alpha_a C_a + (1 - \alpha_a) \alpha_b C_b] + (1 - \alpha_a) (1 - \alpha_b) C_c
+\end{align}\]
+
+这个式子的两边都满足 \(X_0 + Y_0 C_c = X_1 + Y_1 C_c\) 的形式，令 \(X_0 = X_1\) 且 \(Y_0 = Y_1\)，可以得到：
+
+\[\begin{align}
+  \alpha_o &= 1 - (1 - \alpha_a) (1 - \alpha_b),\\
+  C_o &= \frac{\alpha_a C_a + (1 - \alpha_a)\alpha_b C_b}{\alpha_o},
+\end{align}\]
+
+至此，我们推导出了 \(o = a \odot b\) 的颜色和其 alpha 分量的解析式。
+
+注意到 \((1 - \alpha_a)\alpha_b = \alpha_o - \alpha_a\)，这样，上式可以紧凑地表示成
+
+\[C_o = \frac{\alpha_a}{\alpha_o} C_a + \left(1 - \frac{\alpha_a}{\alpha_o}\right) C_b\]
+
+\(\odot\) 运算符满足[非交换](https://zh.wikipedia.org/wiki/非交换 "wikilink")[幺半群](../Page/幺半群.md "wikilink")的定义。这个群的[单位元](https://zh.wikipedia.org/wiki/单位元 "wikilink") \(e\) 是所有满足 \(\alpha = 0\) 的二元组 \(\langle C,\alpha\rangle\)，这可以通过式子 \(e \odot a = a \odot e = a\) 得到。
+
 ## Alpha混合
 
 **Alpha混合**（）是将半透明的前景色与背景色结合的过程，可以得到混合后的新颜色。前景色的透明度不限，从完全透明到完全不透明都可以。如果前景色完全透明，混合后的颜色就是背景色；如果前景色完全不透明，混合后的颜色就是前景色；如果在这两种极端情况之间，混合后的颜色可以通过前景色和背景色的[加权平均计算](https://zh.wikipedia.org/wiki/加权 "wikilink")。
@@ -98,3 +142,4 @@ Alpha合成后的颜色可以这样计算：
 1.
     （见 [pixar.com.](http://graphics.pixar.com/library/Compositing/) ）
 2.
+3.

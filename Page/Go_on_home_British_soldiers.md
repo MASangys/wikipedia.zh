@@ -1,4 +1,4 @@
-《**Go on home British soldiers**》是一首[愛爾蘭歌曲](https://zh.wikipedia.org/wiki/愛爾蘭 "wikilink")，以[北愛爾蘭問題為題材](https://zh.wikipedia.org/wiki/北愛爾蘭問題 "wikilink")。
+《**Go on home British soldiers**》是一首以[北愛爾蘭問題為題材的](https://zh.wikipedia.org/wiki/北愛爾蘭問題 "wikilink")[愛爾蘭政治歌曲](https://zh.wikipedia.org/wiki/愛爾蘭 "wikilink")。
 
 ## 創作及演唱
 

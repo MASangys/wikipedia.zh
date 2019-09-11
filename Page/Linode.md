@@ -39,7 +39,7 @@ Linode 为顾客提供多样化的服务\[7\]\[8\]。它主要提供各种不同
 
 2016年1月5日，Linode 在发现有用户登陆凭据泄露后，以安全原因重置了所有用户的密码。\[22\]
 
-自2015年圣诞节开始，Linode 正受到大规模、频繁的[DDoS攻击](https://zh.wikipedia.org/wiki/DDoS "wikilink")，根据 Linode 的说法，估计攻击次数达到30次。 Linode 称，这些攻击是由恶意者通过购买大量[僵尸网络容量发起](https://zh.wikipedia.org/wiki/僵尸网络 "wikilink")，以试图使 Linode 的服务严重受损。\[23\]
+自2015年圣诞节开始，Linode 正受到大规模、频繁的[DDoS攻击](https://zh.wikipedia.org/wiki/DDoS "wikilink")，根据 Linode 的说法，估计攻击次数达到30轮。 Linode 称，这些攻击是由恶意者通过购买大量[僵尸网络容量发起](https://zh.wikipedia.org/wiki/僵尸网络 "wikilink")，以试图使 Linode 的服务严重受损。\[23\]
 
 ## 参见
 

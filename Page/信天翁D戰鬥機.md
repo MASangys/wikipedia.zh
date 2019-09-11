@@ -88,7 +88,7 @@
   -
 ### 外國用戶(信天翁D-III戰鬥機)
 
-[Albatros_5_in_Turkish_service.jpg](https://zh.wikipedia.org/wiki/File:Albatros_5_in_Turkish_service.jpg "fig:Albatros_5_in_Turkish_service.jpg")
+[Albatros_D.III_in_Turkish_service.jpg](https://zh.wikipedia.org/wiki/File:Albatros_D.III_in_Turkish_service.jpg "fig:Albatros_D.III_in_Turkish_service.jpg")
 
   -
   -

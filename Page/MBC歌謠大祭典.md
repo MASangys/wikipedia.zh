@@ -2213,7 +2213,7 @@ DNA（原唱：<a href="../Page/防彈少年團.md" title="wikilink">防彈少�
 </tr>
 <tr class="even">
 <td><p>經典歌曲表演</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Wanna_One" title="wikilink">Wanna One</a>（<a href="../Page/河成雲.md" title="wikilink">河成雲</a> × <a href="../Page/黃旼炫.md" title="wikilink">黃旼炫</a> × <a href="../Page/金在奐.md" title="wikilink">金在奐</a> × <a href="../Page/朴佑鎮.md" title="wikilink">朴佑鎮</a> × <a href="https://zh.wikipedia.org/wiki/裴珍映" title="wikilink">裴珍映</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Wanna_One" title="wikilink">Wanna One</a>（<a href="../Page/河成雲.md" title="wikilink">河成雲</a> × <a href="../Page/黃旼炫.md" title="wikilink">黃旼炫</a> × <a href="../Page/金在奐.md" title="wikilink">金在奐</a> × <a href="../Page/朴佑鎮.md" title="wikilink">朴佑鎮</a> × <a href="../Page/裴珍映.md" title="wikilink">裴珍映</a>）</p></td>
 <td><p>Rising Sun（原唱：<a href="../Page/東方神起.md" title="wikilink">東方神起</a>）[170]</p></td>
 </tr>
 <tr class="odd">

@@ -126,7 +126,7 @@ P320 RX型和RX緊湊型則配備原廠提供的SIG Sauer Romeo1[反射式瞄準
 
   - [SIG Sauer官方網站](https://www.sigsauer.com/products/firearms/pistols/p320/)
 
-[Category:半自動手槍](https://zh.wikipedia.org/wiki/Category:半自動手槍 "wikilink") [Category:9毫米魯格彈槍械](https://zh.wikipedia.org/wiki/Category:9毫米魯格彈槍械 "wikilink") [Category:.357_SIG口徑槍械](https://zh.wikipedia.org/wiki/Category:.357_SIG口徑槍械 "wikilink") [Category:.40_S\&W口徑槍械](https://zh.wikipedia.org/wiki/Category:.40_S&W口徑槍械 "wikilink") [Category:.45_ACP口徑槍械](https://zh.wikipedia.org/wiki/Category:.45_ACP口徑槍械 "wikilink") [Category:德國槍械](https://zh.wikipedia.org/wiki/Category:德國槍械 "wikilink")
+[Category:半自動手槍](https://zh.wikipedia.org/wiki/Category:半自動手槍 "wikilink") [Category:9毫米魯格彈槍械](https://zh.wikipedia.org/wiki/Category:9毫米魯格彈槍械 "wikilink") [Category:.357_SIG口徑槍械](https://zh.wikipedia.org/wiki/Category:.357_SIG口徑槍械 "wikilink") [Category:.40_S\&W口徑槍械](https://zh.wikipedia.org/wiki/Category:.40_S&W口徑槍械 "wikilink") [Category:.45_ACP口徑槍械](https://zh.wikipedia.org/wiki/Category:.45_ACP口徑槍械 "wikilink") [Category:德國槍械](https://zh.wikipedia.org/wiki/Category:德國槍械 "wikilink") [Category:模塊化槍械](https://zh.wikipedia.org/wiki/Category:模塊化槍械 "wikilink")
 
 1.
 2.

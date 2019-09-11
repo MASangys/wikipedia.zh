@@ -141,6 +141,30 @@
   -
     作曲：maru，編曲：oku，作詞、歌：野田真理愛
 
+## OVA
+
+<table>
+<thead>
+<tr class="header">
+<th><p>集數</p></th>
+<th><p>標題</p></th>
+<th><p>發售日</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1</p></td>
+<td></td>
+<td><p>2019年5月31日</p></td>
+</tr>
+<tr class="even">
+<td><p>2</p></td>
+<td></td>
+<td><p>2019年8月30日</p></td>
+</tr>
+</tbody>
+</table>
+
 ## CD
 
 原聲帶《姫様LOVEライフ\! ボーカル&サウンドトラックアルバム》是由PB2 RECORDS於2015年9月18日發售，收錄5首主題曲和17首BGM。\[14\]

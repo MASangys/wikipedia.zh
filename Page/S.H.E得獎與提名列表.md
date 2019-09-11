@@ -390,7 +390,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 </tr>
 <tr class="odd">
 <td><p>年度HITO原聲带</p></td>
-<td><p>《》</p></td>
+<td><p>《》[24]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -400,7 +400,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>年度HITO最佳女團體</p></td>
 <td></td>
 <td></td>
-<td><p>[24]</p></td>
+<td><p>[25]</p></td>
 </tr>
 <tr class="odd">
 <td><p>年度HITO十大華語歌曲</p></td>
@@ -414,14 +414,14 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>最受歡迎團體</p></td>
 <td></td>
 <td></td>
-<td><p>[25]</p></td>
+<td><p>[26]</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>2007年</strong></p></td>
 <td><p>年度HITO最佳女團體</p></td>
 <td></td>
 <td></td>
-<td><p>[26]</p></td>
+<td><p>[27]</p></td>
 </tr>
 <tr class="even">
 <td><p>最受歡迎團體</p></td>
@@ -442,7 +442,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>年度HITO最佳女團體</p></td>
 <td></td>
 <td></td>
-<td><p>[27]</p></td>
+<td><p>[28]</p></td>
 </tr>
 <tr class="odd">
 <td><p>HITO年度十大華語歌曲</p></td>
@@ -453,7 +453,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 </tr>
 <tr class="even">
 <td><p>HITO電視原聲帶</p></td>
-<td><p>《》</p></td>
+<td><p>《》[29]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -463,7 +463,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>年度HITO最佳女團體</p></td>
 <td></td>
 <td></td>
-<td><p>[28]</p></td>
+<td><p>[30]</p></td>
 </tr>
 <tr class="even">
 <td><p>年度HITO十大華語歌曲</p></td>
@@ -484,7 +484,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>年度HITO最佳團體</p></td>
 <td></td>
 <td></td>
-<td><p>[29]</p></td>
+<td><p>[31]</p></td>
 </tr>
 <tr class="odd">
 <td><p>最受歡迎團體</p></td>
@@ -512,7 +512,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>最受歡迎數位單曲</p></td>
 <td><p>〈十七〉</p></td>
 <td></td>
-<td><p>[30]</p></td>
+<td><p>[32]</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -544,11 +544,11 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>年度十大藝人</p></td>
 <td></td>
 <td></td>
-<td><p>[31]</p></td>
+<td><p>[33]</p></td>
 </tr>
 <tr class="even">
 <td><p>年度偶像劇原聲帶大賞</p></td>
-<td><p>《》</p></td>
+<td><p>《》[34]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -558,7 +558,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>年度風雲團體</p></td>
 <td></td>
 <td></td>
-<td><p>[32]</p></td>
+<td><p>[35]</p></td>
 </tr>
 <tr class="even">
 <td><p>年度二十大單曲</p></td>
@@ -579,14 +579,14 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>年度十大風雲歌手</p></td>
 <td></td>
 <td></td>
-<td><p>[33]</p></td>
+<td><p>[36]</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>2011年</strong></p></td>
 <td><p>十大風雲歌手</p></td>
 <td></td>
 <td></td>
-<td><p>[34]</p></td>
+<td><p>[37]</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -618,7 +618,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>年度最佳組合獎</p></td>
 <td></td>
 <td></td>
-<td><p>[35]</p></td>
+<td><p>[38]</p></td>
 </tr>
 <tr class="even">
 <td><p>年度華語20大金曲</p></td>
@@ -632,7 +632,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>年度最佳組合獎</p></td>
 <td></td>
 <td></td>
-<td><p>[36]</p></td>
+<td><p>[39]</p></td>
 </tr>
 <tr class="even">
 <td><p>年度最受歡迎組合</p></td>
@@ -653,14 +653,14 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>年度華語20大金曲</p></td>
 <td><p>〈永遠都在〉</p></td>
 <td></td>
-<td><p>[37]</p></td>
+<td><p>[40]</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>2019年</strong></p></td>
 <td><p>年度20大金曲</p></td>
 <td><p>〈<a href="../Page/十七_(S.H.E歌曲).md" title="wikilink">十七</a>〉</p></td>
 <td></td>
-<td><p>[38]</p></td>
+<td><p>[41]</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -692,35 +692,35 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>台灣最受歡迎歌手獎</p></td>
 <td></td>
 <td></td>
-<td><p>[39]</p></td>
+<td><p>[42]</p></td>
 </tr>
 <tr class="even">
 <td><p><strong></strong></p></td>
 <td><p>台灣最受歡迎歌手獎</p></td>
 <td></td>
 <td></td>
-<td><p>[40]</p></td>
+<td><p>[43]</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong></strong></p></td>
 <td><p>台灣最受歡迎歌手獎</p></td>
 <td></td>
 <td></td>
-<td><p>[41]</p></td>
+<td><p>[44]</p></td>
 </tr>
 <tr class="even">
 <td><p><strong></strong></p></td>
 <td><p>台灣最受歡迎歌手獎</p></td>
 <td></td>
 <td></td>
-<td><p>[42]</p></td>
+<td><p>[45]</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/2008年MTV亞洲大獎.md" title="wikilink">2008年</a></strong></p></td>
 <td><p>台灣最受歡迎歌手獎</p></td>
 <td></td>
 <td></td>
-<td><p>[43]</p></td>
+<td><p>[46]</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -752,7 +752,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>港臺最受歡迎組合</p></td>
 <td></td>
 <td></td>
-<td><p>[44]</p></td>
+<td><p>[47]</p></td>
 </tr>
 <tr class="even">
 <td><p>港臺年度十大金曲</p></td>
@@ -766,14 +766,14 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>港臺最受歡迎組合</p></td>
 <td></td>
 <td></td>
-<td><p>[45]</p></td>
+<td><p>[48]</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>2006年</strong></p></td>
 <td><p>港臺最受歡迎組合</p></td>
 <td></td>
 <td></td>
-<td><p>[46]</p></td>
+<td><p>[49]</p></td>
 </tr>
 <tr class="odd">
 <td><p>港臺年度十五大金曲</p></td>
@@ -787,7 +787,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>港臺最佳組合</p></td>
 <td><p>《<a href="../Page/Play_(S.H.E專輯).md" title="wikilink">Play</a>》</p></td>
 <td></td>
-<td><p>[47]</p></td>
+<td><p>[50]</p></td>
 </tr>
 <tr class="odd">
 <td><p>港臺最受歡迎組合</p></td>
@@ -808,7 +808,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>港臺最佳組合</p></td>
 <td></td>
 <td></td>
-<td><p>[48]</p></td>
+<td><p>[51]</p></td>
 </tr>
 <tr class="even">
 <td><p>MusicRadio音乐之声最爱艺人</p></td>
@@ -829,7 +829,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>港臺最佳組合</p></td>
 <td></td>
 <td></td>
-<td><p>[49]</p></td>
+<td><p>[52]</p></td>
 </tr>
 <tr class="odd">
 <td><p>港臺年度最佳金曲</p></td>
@@ -843,7 +843,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>港臺年度最佳組合</p></td>
 <td></td>
 <td></td>
-<td><p>[50]</p></td>
+<td><p>[53]</p></td>
 </tr>
 <tr class="odd">
 <td><p>港台年度最受歡迎組合</p></td>
@@ -896,21 +896,21 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>港臺最受歡迎組合</p></td>
 <td></td>
 <td></td>
-<td><p>[51]</p></td>
+<td><p>[54]</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>2005年</strong></p></td>
 <td><p>港臺最受歡迎組合</p></td>
 <td></td>
 <td></td>
-<td><p>[52]</p></td>
+<td><p>[55]</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>2008年</strong></p></td>
 <td><p>港臺年度最受歡迎組合</p></td>
 <td></td>
 <td></td>
-<td><p>[53]</p></td>
+<td><p>[56]</p></td>
 </tr>
 <tr class="even">
 <td><p>年度金曲</p></td>
@@ -924,7 +924,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>港臺年度最受歡迎組合</p></td>
 <td></td>
 <td></td>
-<td><p>[54]</p></td>
+<td><p>[57]</p></td>
 </tr>
 <tr class="even">
 <td><p>年度金曲</p></td>
@@ -938,7 +938,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>港台最受歡迎组合</p></td>
 <td></td>
 <td></td>
-<td><p>[55]</p></td>
+<td><p>[58]</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -970,42 +970,42 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>年度最佳組合</p></td>
 <td></td>
 <td></td>
-<td><p>[56]</p></td>
+<td><p>[59]</p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/2005年度音樂風雲榜頒獎盛典得獎名單.md" title="wikilink">2005年</a></strong></p></td>
 <td><p>港臺十大金曲</p></td>
 <td><p>〈波斯貓〉</p></td>
 <td></td>
-<td><p>[57]</p></td>
+<td><p>[60]</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/2007年度音樂風雲榜頒獎盛典得獎名單" title="wikilink">2007年</a></strong></p></td>
 <td><p>港臺最受歡迎女歌手</p></td>
 <td></td>
 <td></td>
-<td><p>[58]</p></td>
+<td><p>[61]</p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/2008年度音樂風雲榜頒獎盛典得獎名單" title="wikilink">2008年</a></strong></p></td>
 <td><p>年度最佳組合</p></td>
 <td></td>
 <td></td>
-<td><p>[59]</p></td>
+<td><p>[62]</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>2010年</strong></p></td>
 <td><p>十年最具影響力音樂人物（港臺）</p></td>
 <td></td>
 <td></td>
-<td><p>十年盛典[60]</p></td>
+<td><p>十年盛典[63]</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>2013年</strong></p></td>
 <td><p>流行單元最佳組合／樂隊</p></td>
 <td><p>《花又開好了》</p></td>
 <td></td>
-<td><p>[61]</p></td>
+<td><p>[64]</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -1037,13 +1037,13 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>最受歡迎組合獎</p></td>
 <td></td>
 <td></td>
-<td><p>銀獎[62]</p></td>
+<td><p>銀獎[65]</p></td>
 </tr>
 <tr class="even">
 <td><p>年度20大金曲</p></td>
 <td><p>〈美麗新世界〉</p></td>
 <td></td>
-<td><p>[63]</p></td>
+<td><p>[66]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1051,13 +1051,13 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>最受歡迎組合獎</p></td>
 <td></td>
 <td></td>
-<td><p>[64]</p></td>
+<td><p>[67]</p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/第五屆全球華語歌曲排行榜" title="wikilink">2005年</a></strong></p></td>
 <td></td>
 <td></td>
-<td><p>[65]</p></td>
+<td><p>[68]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1065,7 +1065,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>最受歡迎組合獎</p></td>
 <td></td>
 <td></td>
-<td><p>[66]</p></td>
+<td><p>[69]</p></td>
 </tr>
 <tr class="even">
 <td><p>年度20大金曲</p></td>
@@ -1079,27 +1079,27 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>最受歡迎組合獎</p></td>
 <td></td>
 <td></td>
-<td><p>[67]</p></td>
+<td><p>[70]</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>2008年</strong></p></td>
 <td></td>
 <td></td>
-<td><p>[68]</p></td>
+<td><p>[71]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><strong>2009年</strong></p></td>
 <td></td>
 <td></td>
-<td><p>[69]</p></td>
+<td><p>[72]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/第十屆全球華語歌曲排行榜" title="wikilink">2010年</a></strong></p></td>
 <td></td>
 <td></td>
-<td><p>[70]</p></td>
+<td><p>[73]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1107,7 +1107,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>最受歡迎組合獎</p></td>
 <td></td>
 <td></td>
-<td><p>[71]</p></td>
+<td><p>[74]</p></td>
 </tr>
 <tr class="even">
 <td><p>年度20大金曲</p></td>
@@ -1121,7 +1121,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>最受歡迎組合獎</p></td>
 <td></td>
 <td></td>
-<td><p>[72]</p></td>
+<td><p>[75]</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -1153,7 +1153,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>最佳組合獎</p></td>
 <td><p>《Super Star》</p></td>
 <td></td>
-<td><p>[73]</p></td>
+<td><p>[76]</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -1185,7 +1185,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>港臺最佳組合獎</p></td>
 <td></td>
 <td></td>
-<td><p>[74]</p></td>
+<td><p>[77]</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -1217,7 +1217,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>亞太地區最優秀組合獎</p></td>
 <td></td>
 <td></td>
-<td><p>[75]</p></td>
+<td><p>[78]</p></td>
 </tr>
 <tr class="even">
 <td><p>港臺金曲獎</p></td>
@@ -1231,7 +1231,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>亞太地區最優秀組合獎</p></td>
 <td></td>
 <td></td>
-<td><p>[76]</p></td>
+<td><p>[79]</p></td>
 </tr>
 <tr class="even">
 <td><p>最優秀舞臺演繹獎</p></td>
@@ -1259,7 +1259,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>亞太地區最優秀組合獎</p></td>
 <td></td>
 <td></td>
-<td><p>[77]</p></td>
+<td><p>[80]</p></td>
 </tr>
 <tr class="even">
 <td><p>臺灣地區最優秀專輯獎</p></td>
@@ -1287,7 +1287,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>亞太地區最優秀組合獎</p></td>
 <td></td>
 <td></td>
-<td><p>[78]</p></td>
+<td><p>[81]</p></td>
 </tr>
 <tr class="even">
 <td><p>亞太地區最佳演繹歌手獎</p></td>
@@ -1361,14 +1361,14 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>align="center|十大暢銷金曲</p></td>
 <td><p>align="center|〈不想長大〉</p></td>
 <td></td>
-<td><p>[79]</p></td>
+<td><p>[82]</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>2008年</strong></p></td>
 <td><p>align="center|最高銷量組合</p></td>
 <td></td>
 <td></td>
-<td><p>[80]</p></td>
+<td><p>[83]</p></td>
 </tr>
 <tr class="odd">
 <td><p>align="center|最暢銷說唱金曲</p></td>
@@ -1389,7 +1389,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>align="center|最高銷量組合</p></td>
 <td></td>
 <td></td>
-<td><p>[81]</p></td>
+<td><p>[84]</p></td>
 </tr>
 <tr class="even">
 <td><p>align="center|搜索超人氣組合</p></td>
@@ -1403,20 +1403,20 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>align="center|最高銷量組合</p></td>
 <td></td>
 <td></td>
-<td><p>下載合計：20,708,018 次[82]</p></td>
+<td><p>下載合計：20,708,018 次[85]</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>2011年</strong></p></td>
 <td><p>align="center|年度最暢銷專輯</p></td>
 <td><p>align="center|《SHERO》</p></td>
 <td></td>
-<td><p>下載總量為43,378,300次[83][84]</p></td>
+<td><p>下載總量為43,378,300次[86][87]</p></td>
 </tr>
 <tr class="odd">
 <td><p>align="center|年度最暢銷對唱金曲</p></td>
 <td><p>align="center|〈兩個人的荒島〉（S.H.E/周定緯）</p></td>
 <td></td>
-<td><p>下載總量為18,575,333次[85][86]</p></td>
+<td><p>下載總量為18,575,333次[88][89]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1424,7 +1424,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>align="center|十年十大金曲</p></td>
 <td><p>align="center|〈愛上你〉</p></td>
 <td></td>
-<td><p>下載量：17,427,889次[87]</p></td>
+<td><p>下載量：17,427,889次[90]</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -1456,7 +1456,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>港臺勁爆最佳組合獎</p></td>
 <td></td>
 <td></td>
-<td><p>[88]</p></td>
+<td><p>[91]</p></td>
 </tr>
 <tr class="even">
 <td><p>港臺勁爆十大金曲</p></td>
@@ -1470,7 +1470,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>勁爆最佳MV獎</p></td>
 <td><p>〈中國話〉</p></td>
 <td></td>
-<td><p>[89]</p></td>
+<td><p>[92]</p></td>
 </tr>
 <tr class="even">
 <td><p>勁爆十大金曲</p></td>
@@ -1509,14 +1509,14 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>臺灣地區最佳組合獎</p></td>
 <td></td>
 <td></td>
-<td><p>[90]</p></td>
+<td><p>[93]</p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/第3屆「勁歌王」全球華人樂壇音樂盛典獲獎名單.md" title="wikilink">2006年</a></strong></p></td>
 <td><p>臺灣地區最佳組合獎</p></td>
 <td></td>
 <td></td>
-<td><p>[91]</p></td>
+<td><p>[94]</p></td>
 </tr>
 <tr class="odd">
 <td><p>十大國語金曲獎</p></td>
@@ -1530,7 +1530,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>臺灣地區最佳組合獎</p></td>
 <td></td>
 <td></td>
-<td><p>[92]</p></td>
+<td><p>[95]</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -1583,14 +1583,14 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>全國推崇組合（國）</p></td>
 <td></td>
 <td></td>
-<td><p>[93]</p></td>
+<td><p>[96]</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>2008年</strong></p></td>
 <td><p>全國推崇組合（國）</p></td>
 <td></td>
 <td></td>
-<td><p>[94]</p></td>
+<td><p>[97]</p></td>
 </tr>
 <tr class="even">
 <td><p>全國推崇十大歌曲（國語）</p></td>
@@ -1611,7 +1611,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>全國推崇組合（國語）</p></td>
 <td></td>
 <td></td>
-<td><p>[95]</p></td>
+<td><p>[98]</p></td>
 </tr>
 <tr class="odd">
 <td><p>全國推崇十大歌曲（國語）</p></td>
@@ -1625,7 +1625,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>全國推崇組合（國語）</p></td>
 <td></td>
 <td></td>
-<td><p>[96]</p></td>
+<td><p>[99]</p></td>
 </tr>
 <tr class="odd">
 <td><p>全國推崇十大歌曲（國語）</p></td>
@@ -1664,14 +1664,14 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>新勢力組合</p></td>
 <td></td>
 <td></td>
-<td><p>[97]</p></td>
+<td><p>[100]</p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/2004年度新城國語力頒獎禮得獎名單.md" title="wikilink">2004年</a></strong></p></td>
 <td><p>新城國語力組合</p></td>
 <td></td>
 <td></td>
-<td><p>[98]</p></td>
+<td><p>[101]</p></td>
 </tr>
 <tr class="odd">
 <td><p>亞洲組合大獎</p></td>
@@ -1692,7 +1692,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>亞洲組合大獎</p></td>
 <td></td>
 <td></td>
-<td><p>[99]</p></td>
+<td><p>[102]</p></td>
 </tr>
 <tr class="even">
 <td><p>亞洲人氣偶像組合獎</p></td>
@@ -1713,7 +1713,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>亞洲組合大獎</p></td>
 <td></td>
 <td></td>
-<td><p>[100]</p></td>
+<td><p>[103]</p></td>
 </tr>
 <tr class="odd">
 <td><p>最佳跳唱組合</p></td>
@@ -1741,7 +1741,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>亞洲組合大獎</p></td>
 <td></td>
 <td></td>
-<td><p>[101]</p></td>
+<td><p>[104]</p></td>
 </tr>
 <tr class="odd">
 <td><p>新城國語力舞臺大獎</p></td>
@@ -1762,7 +1762,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>亞洲組合大獎</p></td>
 <td></td>
 <td></td>
-<td><p>[102]</p></td>
+<td><p>[105]</p></td>
 </tr>
 <tr class="even">
 <td><p>亞洲人氣偶像</p></td>
@@ -1822,7 +1822,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>新城全國樂迷投選勁爆組合</p></td>
 <td></td>
 <td></td>
-<td><p>[103]</p></td>
+<td><p>[106]</p></td>
 </tr>
 <tr class="even">
 <td><p>新城勁爆國語歌曲大獎</p></td>
@@ -1836,7 +1836,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>新城勁爆國語組合</p></td>
 <td></td>
 <td></td>
-<td><p>[104]</p></td>
+<td><p>[107]</p></td>
 </tr>
 <tr class="even">
 <td><p>新城勁爆國語專輯</p></td>
@@ -1889,13 +1889,13 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>最佳音樂組合</p></td>
 <td></td>
 <td></td>
-<td><p>銀獎[105]</p></td>
+<td><p>銀獎[108]</p></td>
 </tr>
 <tr class="even">
 <td><p>最佳音樂錄影帶</p></td>
 <td><p>〈Remember〉</p></td>
 <td></td>
-<td><p>[106]</p></td>
+<td><p>[109]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1903,13 +1903,13 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>最佳音樂組合</p></td>
 <td></td>
 <td></td>
-<td><p>金獎[107]</p></td>
+<td><p>金獎[110]</p></td>
 </tr>
 <tr class="even">
 <td><p>年度金曲獎</p></td>
 <td><p>〈Super Star〉</p></td>
 <td></td>
-<td><p>[108]</p></td>
+<td><p>[111]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1917,20 +1917,20 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>年度金曲獎</p></td>
 <td><p>〈波斯貓〉</p></td>
 <td></td>
-<td><p>[109][110]</p></td>
+<td><p>[112][113]</p></td>
 </tr>
 <tr class="even">
 <td><p>金曲金獎</p></td>
 <td><p>〈波斯貓〉</p></td>
 <td></td>
-<td><p>[111][112]</p></td>
+<td><p>[114][115]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>最佳音樂組合</p></td>
 <td></td>
 <td></td>
-<td><p>金獎[113][114]</p></td>
+<td><p>金獎[116][117]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1938,13 +1938,13 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>最佳組合獎</p></td>
 <td></td>
 <td></td>
-<td><p>金獎[115]</p></td>
+<td><p>金獎[118]</p></td>
 </tr>
 <tr class="odd">
 <td><p>金曲獎</p></td>
 <td><p>〈不想長大〉</p></td>
 <td></td>
-<td><p>[116]</p></td>
+<td><p>[119]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1984,28 +1984,28 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>全國最受歡迎組合歌手獎</p></td>
 <td></td>
 <td></td>
-<td><p>銀獎[117]</p></td>
+<td><p>銀獎[120]</p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/第二十七屆十大中文金曲得獎名單.md" title="wikilink">2005年</a></strong></p></td>
 <td><p>全國最受歡迎組合歌手獎</p></td>
 <td></td>
 <td></td>
-<td><p>銅獎[118]</p></td>
+<td><p>銅獎[121]</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/第二十八屆十大中文金曲得獎名單.md" title="wikilink">2006年</a></strong></p></td>
 <td><p>全國最受歡迎組合歌手獎</p></td>
 <td></td>
 <td></td>
-<td><p>銅獎[119]</p></td>
+<td><p>銅獎[122]</p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/第三十一屆十大中文金曲得獎名單.md" title="wikilink">2009年</a></strong></p></td>
 <td><p>全國最佳組合歌手獎</p></td>
 <td></td>
 <td></td>
-<td><p>[120]</p></td>
+<td><p>[123]</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -2019,7 +2019,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 
 ## CASH金帆音樂獎
 
-**[CASH金帆音樂獎](https://zh.wikipedia.org/wiki/CASH金帆音樂獎 "wikilink")**，是由[香港作曲家及作詞家協會](../Page/香港作曲家及作詞家協會.md "wikilink")所舉辦，由2001年起舉辦，是為表揚於過去一年內在香港作首次商業發行或演出之優秀音樂作品及歌曲演繹， 獎項由業內音樂人提名及投票，得獎者必須為香港作曲家及作詞家協會成員。
+**[CASH金帆音樂獎](../Page/CASH金帆音樂獎.md "wikilink")**，是由[香港作曲家及作詞家協會](../Page/香港作曲家及作詞家協會.md "wikilink")所舉辦，由2001年起舉辦，是為表揚於過去一年內在香港作首次商業發行或演出之優秀音樂作品及歌曲演繹， 獎項由業內音樂人提名及投票，得獎者必須為香港作曲家及作詞家協會成員。
 
 <table>
 <thead>
@@ -2037,7 +2037,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>最佳組合或樂隊演繹</p></td>
 <td><p>〈中国话〉</p></td>
 <td></td>
-<td><p>[121]</p></td>
+<td><p>[124]</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -2069,14 +2069,14 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>我最喜愛全國組合獎</p></td>
 <td></td>
 <td></td>
-<td><p>[122]</p></td>
+<td><p>[125]</p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/2007年度SINA_Music樂壇民意指數頒獎禮得獎名單.md" title="wikilink">2008年</a></strong></p></td>
 <td><p>我最喜愛組合獎（全國）</p></td>
 <td></td>
 <td></td>
-<td><p>[123]</p></td>
+<td><p>[126]</p></td>
 </tr>
 <tr class="odd">
 <td><p>我最喜愛至尊國語金曲</p></td>
@@ -2129,13 +2129,13 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>最佳新人</p></td>
 <td></td>
 <td></td>
-<td><p>銀獎[124]</p></td>
+<td><p>銀獎[127]</p></td>
 </tr>
 <tr class="even">
 <td><p>M1特別頒發 "活力四射新人獎"</p></td>
 <td></td>
 <td></td>
-<td><p>[125]</p></td>
+<td><p>[128]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2143,20 +2143,20 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>最佳組合</p></td>
 <td><p>《美麗新世界》</p></td>
 <td></td>
-<td><p>[126]</p></td>
+<td><p>[129]</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>2004年</strong></p></td>
 <td><p>最受歡迎團體</p></td>
 <td></td>
 <td></td>
-<td><p>金獎[127]</p></td>
+<td><p>金獎[130]</p></td>
 </tr>
 <tr class="odd">
 <td><p>Courts 我最喜愛的MV</p></td>
 <td><p>〈波絲貓〉</p></td>
 <td></td>
-<td><p>[128]</p></td>
+<td><p>[131]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2179,7 +2179,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>最佳組合獎</p></td>
 <td><p>《Play》</p></td>
 <td></td>
-<td><p>[129]</p></td>
+<td><p>[132]</p></td>
 </tr>
 <tr class="odd">
 <td><p>最受歡迎團體獎</p></td>
@@ -2221,7 +2221,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>最受歡迎團體獎</p></td>
 <td></td>
 <td></td>
-<td><p>[130]</p></td>
+<td><p>[133]</p></td>
 </tr>
 <tr class="odd">
 <td><p>Y.E.S933醉心龍虎榜年度十大金曲獎</p></td>
@@ -2242,7 +2242,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>最佳組合獎</p></td>
 <td><p>《我的電台 FM S.H.E》</p></td>
 <td></td>
-<td><p>[131][132][133]</p></td>
+<td><p>[134][135][136]</p></td>
 </tr>
 <tr class="even">
 <td><p>海外傑出歌手獎（臺灣）</p></td>
@@ -2277,7 +2277,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>最佳組合獎</p></td>
 <td><p>《SHERO》</p></td>
 <td></td>
-<td><p>[134]</p></td>
+<td><p>[137]</p></td>
 </tr>
 <tr class="odd">
 <td><p>最受歡迎團體獎</p></td>
@@ -2312,7 +2312,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>最佳組合獎</p></td>
 <td><p>《<a href="../Page/花又開好了.md" title="wikilink">花又開好了</a>》</p></td>
 <td></td>
-<td><p>[135]</p></td>
+<td><p>[138]</p></td>
 </tr>
 <tr class="even">
 <td><p>Y.E.S933醉心龍虎榜年度十大金曲</p></td>
@@ -2351,7 +2351,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>年度白金團體歌手獎</p></td>
 <td></td>
 <td></td>
-<td><p>[136]</p></td>
+<td><p>[139]</p></td>
 </tr>
 <tr class="even">
 <td><p>年度十大金碟</p></td>
@@ -2404,7 +2404,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>至尊組合（海外）</p></td>
 <td></td>
 <td></td>
-<td><p>[137]</p></td>
+<td><p>[140]</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -2468,7 +2468,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>年度流行單曲</p></td>
 <td><p>〈<a href="../Page/十七_(S.H.E歌曲).md" title="wikilink">十七</a>〉</p></td>
 <td></td>
-<td><p>[138][139]</p></td>
+<td><p>[141][142]</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -2500,7 +2500,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>年度組合／團體</p></td>
 <td><p>〈<a href="../Page/十七_(S.H.E歌曲).md" title="wikilink">十七</a>〉</p></td>
 <td></td>
-<td><p>[140]</p></td>
+<td><p>[143]</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -2532,7 +2532,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>HITO百大单曲</p></td>
 <td><p>〈戀人未滿〉</p></td>
 <td></td>
-<td><p>第三位[141]</p></td>
+<td><p>第三位[144]</p></td>
 </tr>
 <tr class="even">
 <td><p>大學生心目中年度風雲人物</p></td>
@@ -2579,14 +2579,14 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>最受歡迎演唱團體獎</p></td>
 <td></td>
 <td></td>
-<td><p>金獎[142]</p></td>
+<td><p>金獎[145]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>年度十大紅人金曲獎</p></td>
 <td><p>〈Always on My Mind〉</p></td>
 <td></td>
-<td><p>[143]</p></td>
+<td><p>[146]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -2594,7 +2594,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>樂壇超人氣歌手獎</p></td>
 <td></td>
 <td></td>
-<td><p>銀獎[144]</p></td>
+<td><p>銀獎[147]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -2611,14 +2611,14 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>封神榜TOP20人氣歌手獎</p></td>
 <td></td>
 <td></td>
-<td><p>[145]</p></td>
+<td><p>[148]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>最愛台北精神獎</p></td>
 <td></td>
 <td></td>
-<td><p>特別獎[146]</p></td>
+<td><p>特別獎[149]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -2652,21 +2652,21 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>我最喜愛樂壇組合</p></td>
 <td></td>
 <td></td>
-<td><p>銅獎[147]</p></td>
+<td><p>銅獎[150]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/MTV" title="wikilink">MTV封神榜音樂獎</a></p></td>
 <td><p>最受歡迎團體獎</p></td>
 <td></td>
 <td></td>
-<td><p>特別獎[148][149]</p></td>
+<td><p>特別獎[151][152]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>人氣歌手獎</p></td>
 <td></td>
 <td></td>
-<td><p>[150][151]</p></td>
+<td><p>[153][154]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -2684,14 +2684,14 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>引進版類最佳組合獎</p></td>
 <td></td>
 <td></td>
-<td><p>[152]</p></td>
+<td><p>[155]</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>年度港臺最熱門組合</p></td>
 <td></td>
 <td></td>
-<td><p>[153]</p></td>
+<td><p>[156]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2915,7 +2915,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>歌手類</p></td>
 <td></td>
 <td><p>第一名</p></td>
-<td><p>[154]</p></td>
+<td><p>[157]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2939,7 +2939,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>上半年榜單冠軍金曲</p></td>
 <td><p>〈SHERO〉</p></td>
 <td></td>
-<td><p>[155]</p></td>
+<td><p>[158]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2963,7 +2963,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>最受歡迎團體獎</p></td>
 <td></td>
 <td></td>
-<td><p>[156]</p></td>
+<td><p>[159]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2971,7 +2971,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p><a href="../Page/金鐘獎電臺臺呼獎.md" title="wikilink">電臺臺呼獎</a></p></td>
 <td><p>〈917在一起〉</p></td>
 <td></td>
-<td><p>詞：<a href="../Page/田馥甄.md" title="wikilink">Hebe</a>、曲：<a href="../Page/陳嘉樺.md" title="wikilink">Ella</a>[157]</p></td>
+<td><p>詞：<a href="../Page/田馥甄.md" title="wikilink">Hebe</a>、曲：<a href="../Page/陳嘉樺.md" title="wikilink">Ella</a>[160]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2996,7 +2996,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>華語十大女歌手</p></td>
 <td></td>
 <td></td>
-<td><p>[158]</p></td>
+<td><p>[161]</p></td>
 </tr>
 <tr class="even">
 <td><p>Channel [V] 音樂飆榜 年度頒獎典禮</p></td>
@@ -3011,7 +3011,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>e樂人氣組合</p></td>
 <td></td>
 <td></td>
-<td><p>[159]</p></td>
+<td><p>[162]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -3043,7 +3043,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>最受歡迎十大明星</p></td>
 <td></td>
 <td></td>
-<td><p>[160]</p></td>
+<td><p>[163]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -3052,7 +3052,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>年度華語暢銷歌手</p></td>
 <td><p>《<a href="../Page/花又開好了.md" title="wikilink">花又開好了</a>》</p></td>
 <td><p>第4名</p></td>
-<td><p>[161]</p></td>
+<td><p>[164]</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>2013年</strong></p></td>
@@ -3060,14 +3060,14 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>華流霸主</p></td>
 <td></td>
 <td><p>冠軍</p></td>
-<td><p>[162]</p></td>
+<td><p>[165]</p></td>
 </tr>
 <tr class="even">
 <td><p>音悅V榜年度盛典</p></td>
 <td><p>年度最佳組合獎</p></td>
 <td></td>
 <td></td>
-<td><p>[163]</p></td>
+<td><p>[166]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -3075,7 +3075,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>e樂人氣組合</p></td>
 <td></td>
 <td></td>
-<td><p>[164]</p></td>
+<td><p>[167]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -3083,7 +3083,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>年度至尊組合</p></td>
 <td><p>《花又開好了》</p></td>
 <td></td>
-<td><p>[165]</p></td>
+<td><p>[168]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -3107,7 +3107,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td></td>
 <td></td>
 <td><p>第5名</p></td>
-<td><p>[166]</p></td>
+<td><p>[169]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -3124,7 +3124,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>華流霸主</p></td>
 <td></td>
 <td><p>冠軍</p></td>
-<td><p>[167]</p></td>
+<td><p>[170]</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>2015年</strong></p></td>
@@ -3132,14 +3132,14 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>上半年20大金曲</p></td>
 <td><p>〈<a href="../Page/你曾是少年.md" title="wikilink">你曾是少年</a>〉</p></td>
 <td></td>
-<td><p>[168][169]</p></td>
+<td><p>[171][172]</p></td>
 </tr>
 <tr class="odd">
 <td><p>-{風}--{從}--{東}-方-{來}--{娛}--{樂}-影-{響}-力盛典</p></td>
 <td><p>華-{語}-音-{樂}-天-{團}-</p></td>
 <td></td>
 <td></td>
-<td><p>[170][171]</p></td>
+<td><p>[173][174]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -3148,13 +3148,13 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>年度十大華語歌曲</p></td>
 <td><p>〈<a href="../Page/十七_(S.H.E歌曲).md" title="wikilink">十七</a>〉</p></td>
 <td><p>第4名</p></td>
-<td><p>[172]</p></td>
+<td><p>[175]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/YES_933.md" title="wikilink">YES 933</a><a href="../Page/醉心龍虎榜.md" title="wikilink">醉心龍虎榜</a></p></td>
 <td><p>2018年最喜愛20大歌曲</p></td>
 <td><p>第19名</p></td>
-<td><p>[173]</p></td>
+<td><p>[176]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -3226,7 +3226,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 
 23.
 
-24.
+24. 只獻唱並收錄一首歌曲。
 
 25.
 
@@ -3237,7 +3237,6 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 28.
 
 29.
-
 30.
 
 31.
@@ -3247,7 +3246,6 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 33.
 
 34.
-
 35.
 
 36.
@@ -3305,12 +3303,12 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 62.
 
 63.
+
 64.
 
 65.
 
 66.
-
 67.
 
 68.
@@ -3348,13 +3346,13 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 84.
 
 85.
+
 86.
+
 87.
 
 88.
-
 89.
-
 90.
 
 91.
@@ -3388,28 +3386,28 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 105.
 
 106.
+
 107.
 
 108.
 
 109.
-
 110.
 
 111.
 
 112.
-113.
-114.
-115.
 
+113.
+
+114.
+
+115.
 116.
 117.
-
 118.
 
 119.
-
 120.
 
 121.
@@ -3421,6 +3419,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 124.
 
 125.
+
 126.
 
 127.
@@ -3431,7 +3430,6 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 130.
 
 131.
-
 132.
 
 133.
@@ -3455,25 +3453,25 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 142.
 
 143.
+
 144.
+
 145.
 
 146.
 147.
-
 148.
 
 149.
-
 150.
 
 151.
+
 152.
 
 153.
 
 154.
-
 155.
 
 156.
@@ -3511,3 +3509,9 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 172.
 
 173.
+
+174.
+
+175.
+
+176.

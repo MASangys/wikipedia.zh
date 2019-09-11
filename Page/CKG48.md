@@ -796,7 +796,7 @@ CKG99100118</p></td>
 | 2018年1月16日－4月16日   | [勒是雾都](https://zh.wikipedia.org/wiki/勒是雾都 "wikilink")   | [哔哩哔哩](https://zh.wikipedia.org/wiki/哔哩哔哩 "wikilink") |    |
 | 2018年6月16日－9月30日   | [娱乐新人王](https://zh.wikipedia.org/wiki/娱乐新人王 "wikilink") | [哔哩哔哩](https://zh.wikipedia.org/wiki/哔哩哔哩 "wikilink") |    |
 | 2018年11月22日－12月21日 | [我的下午茶](https://zh.wikipedia.org/wiki/我的下午茶 "wikilink") | [哔哩哔哩](https://zh.wikipedia.org/wiki/哔哩哔哩 "wikilink") |    |
-| 2019年5月28日－        | [密逃少女](https://zh.wikipedia.org/wiki/密逃少女 "wikilink")   | [哔哩哔哩](https://zh.wikipedia.org/wiki/哔哩哔哩 "wikilink") |    |
+| 2019年5月28日－9月3日    | [密逃少女](https://zh.wikipedia.org/wiki/密逃少女 "wikilink")   | [哔哩哔哩](https://zh.wikipedia.org/wiki/哔哩哔哩 "wikilink") |    |
 
 ## 公演
 

@@ -1310,6 +1310,26 @@ National Treasure</p></td>
 <td></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>9月7日</p></td>
+<td><p>18</p></td>
+<td><p>美國</p></td>
+<td><p><a href="../Page/妙女神探.md" title="wikilink">妙女神探</a>（第六季）<br />
+Rizzoli &amp; Isles (season 6)</p></td>
+<td><p>、、<a href="https://zh.wikipedia.org/wiki/喬丹·布里奇斯" title="wikilink">喬丹·布里奇斯</a>、、<a href="https://zh.wikipedia.org/wiki/羅林·布蘭考" title="wikilink">露琳·芭高</a>、</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>9月9日</p></td>
+<td><p>15</p></td>
+<td><p>美國</p></td>
+<td><p><a href="../Page/真相追擊.md" title="wikilink">罪案終結者</a>（第六季）<br />
+The Closer (season 6)</p></td>
+<td><p><a href="../Page/姬娜·薛域.md" title="wikilink">姬娜·薛域</a>、<a href="../Page/J·K·西蒙斯.md" title="wikilink">J·K·西蒙斯</a>、、、、<a href="../Page/安東尼·丹尼生.md" title="wikilink">安東尼·丹尼生</a>、<a href="../Page/米高·保羅·陳.md" title="wikilink">米高·保羅·陳</a>、、、<a href="../Page/喬恩·坦尼.md" title="wikilink">喬恩·坦尼</a></p></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -1351,16 +1371,6 @@ Endeavour (season 6)</p></td>
 </tr>
 <tr class="even">
 <td><p>未定</p></td>
-<td><p>15</p></td>
-<td><p>美國</p></td>
-<td><p><a href="../Page/真相追擊.md" title="wikilink">罪案終結者</a>（第六季）<br />
-The Closer (season 6)</p></td>
-<td><p><a href="../Page/姬娜·薛域.md" title="wikilink">姬娜·薛域</a>、<a href="../Page/J·K·西蒙斯.md" title="wikilink">J·K·西蒙斯</a>、、、、<a href="../Page/安東尼·丹尼生.md" title="wikilink">安東尼·丹尼生</a>、<a href="../Page/米高·保羅·陳.md" title="wikilink">米高·保羅·陳</a>、、、<a href="../Page/喬恩·坦尼.md" title="wikilink">喬恩·坦尼</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>未定</p></td>
 <td><p>21</p></td>
 <td><p>美國</p></td>
 <td><p><a href="../Page/真相追擊.md" title="wikilink">罪案終結者</a>（第七季）<br />
@@ -1369,7 +1379,7 @@ The Closer (season 7)</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>未定</p></td>
 <td><p>8</p></td>
 <td><p>英國</p></td>
@@ -1379,23 +1389,13 @@ Victoria (season 2)</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>未定</p></td>
 <td><p>8</p></td>
 <td><p>英國</p></td>
 <td><p><a href="../Page/維多利亞_(電視劇).md" title="wikilink">維多利亞</a>（第三季）<br />
 Victoria (season 3)</p></td>
 <td><p><a href="../Page/珍娜·科爾曼.md" title="wikilink">珍娜·科爾曼</a>、<a href="https://zh.wikipedia.org/wiki/湯姆·休斯" title="wikilink">湯姆·休斯</a>、、、<a href="https://zh.wikipedia.org/wiki/費迪南德·金斯利" title="wikilink">費迪南德·金斯利</a>、<a href="https://zh.wikipedia.org/wiki/湯米·耐特" title="wikilink">湯米·耐特</a>、、、、<a href="https://zh.wikipedia.org/wiki/安娜·威爾遜-瓊斯" title="wikilink">安娜·威爾遜-瓊斯</a>、、、David Burnett、、<a href="../Page/文生·雷根.md" title="wikilink">文生·雷根</a>、、、<a href="https://zh.wikipedia.org/wiki/勞倫斯·福克斯" title="wikilink">勞倫斯·福克斯</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>未定</p></td>
-<td><p>18</p></td>
-<td><p>美國</p></td>
-<td><p><a href="../Page/妙女神探.md" title="wikilink">妙女神探</a>（第六季）<br />
-Rizzoli &amp; Isles (season 6)</p></td>
-<td><p>、、<a href="https://zh.wikipedia.org/wiki/喬丹·布里奇斯" title="wikilink">喬丹·布里奇斯</a>、、<a href="https://zh.wikipedia.org/wiki/羅林·布蘭考" title="wikilink">露琳·芭高</a>、</p></td>
 <td></td>
 <td></td>
 </tr>

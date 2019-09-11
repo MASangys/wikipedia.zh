@@ -176,7 +176,7 @@
 <tr class="odd">
 <td><p>12</p></td>
 <td></td>
-<td><p>2019年8月20日</p></td>
+<td><p>2019年10月19日</p></td>
 </tr>
 </tbody>
 </table>
@@ -226,6 +226,11 @@
 <td><p>5</p></td>
 <td><p>2018年9月25日</p></td>
 <td><p>ISBN 978-4-04-107363-6</p></td>
+</tr>
+<tr class="even">
+<td><p>6</p></td>
+<td><p>2019年2月25日</p></td>
+<td><p>ISBN 978-4-04-107816-7</p></td>
 </tr>
 </tbody>
 </table>

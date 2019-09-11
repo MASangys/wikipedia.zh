@@ -1,4 +1,4 @@
-本系列是改編自[尾田榮一郎的同名原作漫畫](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")《[ONE PIECE](../Page/ONE_PIECE.md "wikilink")》改編的[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")、[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")、[OVA作品](https://zh.wikipedia.org/wiki/OVA "wikilink")，主要是以原著的著名篇章（東海篇、空島篇、水之七島篇 等）、或是人氣角色（魯夫、娜每、薩波等）的故事，以此為基礎重新製作的特別篇[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")，並將故事濃縮至兩小時內，也有完全原創新故事，於每年的夏季末（偶爾也有冬季）的「週六PREMIUM」（）時間段於電視上播放。
+本系列是改編自[尾田榮一郎的同名原作漫畫](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")《[ONE PIECE](../Page/ONE_PIECE.md "wikilink")》改編的[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")、[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")、[OVA作品](https://zh.wikipedia.org/wiki/OVA "wikilink")，主要是以原著的著名篇章（東海篇、空島篇、水之七島篇 等）、或是人氣角色（魯夫、娜美、薩波等）的故事，以此為基礎重新製作的特別篇[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")，並將故事濃縮至兩小時內，也有完全原創新故事，於每年的夏季末（偶爾也有冬季）的「週六PREMIUM」（）時間段於電視上播放。
 
 此外另有其他衍生特別篇：[草帽劇場](../Page/ONE_PIECE_草帽劇場.md "wikilink")、[喬巴超人](https://zh.wikipedia.org/wiki/喬巴超人 "wikilink")、[海賊時代劇](https://zh.wikipedia.org/wiki/ONE_PIECE_海賊時代劇 "wikilink")。
 

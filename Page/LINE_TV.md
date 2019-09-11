@@ -114,7 +114,7 @@
 
 ## 參見
 
-  - \[\[LINE (yytttge
+  - [LINE](../Page/LINE.md "wikilink") (yytttge
 
 ## 外部連結
 

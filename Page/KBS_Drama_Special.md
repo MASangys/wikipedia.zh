@@ -1445,7 +1445,7 @@
 <td><p>5</p></td>
 <td><p>7月31日</p></td>
 <td><p>鬼神在幹什麼</p></td>
-<td><p><a href="../Page/李準_(歌手).md" title="wikilink">李準</a>、<a href="https://zh.wikipedia.org/wiki/曹秀香" title="wikilink">曹秀香</a>、<a href="../Page/吳尚津.md" title="wikilink">吳尚津</a>、</p></td>
+<td><p><a href="../Page/李準_(歌手).md" title="wikilink">李準</a>、<a href="../Page/曹秀香.md" title="wikilink">曹秀香</a>、<a href="../Page/吳尚津.md" title="wikilink">吳尚津</a>、</p></td>
 <td><p>孫世蘭</p></td>
 <td><p><a href="../Page/車榮勳.md" title="wikilink">車榮勳</a></p></td>
 <td><p>3.2%</p></td>

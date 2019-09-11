@@ -1,6 +1,6 @@
 **SHIHO**（しほ、12月16日 - ），[日本](../Page/日本.md "wikilink")[女性](../Page/女性.md "wikilink")[歌手](../Page/歌手.md "wikilink")。[北海道](../Page/北海道.md "wikilink")[札幌市](../Page/札幌市.md "wikilink")出身。[身高](../Page/人類身高.md "wikilink")161[cm](../Page/厘米.md "wikilink")。[血型为B型](../Page/ABO血型系统.md "wikilink")。
 
-## 唱片
+## 唱片 23232323123234234234
 
 ### I've作品
 

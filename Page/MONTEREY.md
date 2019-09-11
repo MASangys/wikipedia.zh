@@ -114,7 +114,7 @@ MONTEREY Site view 201612.jpg|2016年12月 Monterey under construction in April 
 ## 外部連結
 
   -
-[Category:將軍澳](https://zh.wikipedia.org/wiki/Category:將軍澳 "wikilink") [Category:西貢區](https://zh.wikipedia.org/wiki/Category:西貢區 "wikilink") [Category:西貢區私人屋苑](https://zh.wikipedia.org/wiki/Category:西貢區私人屋苑 "wikilink") [Category:2018年完工建築物](https://zh.wikipedia.org/wiki/Category:2018年完工建築物 "wikilink") [Category:會德豐地產(香港)物業](https://zh.wikipedia.org/wiki/Category:會德豐地產\(香港\)物業 "wikilink") [Category:香港私人屋苑](https://zh.wikipedia.org/wiki/Category:香港私人屋苑 "wikilink")
+[Category:將軍澳](https://zh.wikipedia.org/wiki/Category:將軍澳 "wikilink") [Category:西貢區私人屋苑](https://zh.wikipedia.org/wiki/Category:西貢區私人屋苑 "wikilink") [Category:2018年完工建築物](https://zh.wikipedia.org/wiki/Category:2018年完工建築物 "wikilink") [Category:會德豐地產(香港)物業](https://zh.wikipedia.org/wiki/Category:會德豐地產\(香港\)物業 "wikilink")
 
 1.
 

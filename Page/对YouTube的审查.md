@@ -38,10 +38,6 @@
 
 由于YouTube上的政治及内容问题，网站至少在全球十幾个国家和地區受到过[审查](../Page/审查制度.md "wikilink")，包括[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")、[巴西](../Page/巴西.md "wikilink")、[印尼](../Page/印度尼西亚.md "wikilink")、[伊朗](https://zh.wikipedia.org/wiki/伊朗 "wikilink")、[摩洛哥](https://zh.wikipedia.org/wiki/摩洛哥 "wikilink")、[突尼西亞](../Page/突尼西亞.md "wikilink")、[巴基斯坦](../Page/巴基斯坦.md "wikilink")、[土耳其](../Page/土耳其.md "wikilink")、[沙烏地阿拉伯](../Page/沙特阿拉伯.md "wikilink")、[敘利亞](../Page/叙利亚.md "wikilink")、[泰国](../Page/泰国.md "wikilink")和[阿拉伯聯合大公國](../Page/阿拉伯联合酋长国.md "wikilink")、[塔吉克斯坦](../Page/塔吉克斯坦.md "wikilink")等；YouTube亦被部分地方的教育机构自行封鎖。在2009年9月21日 ，完全无法直接访问YouTube的地区至少包括[中国大陸](https://zh.wikipedia.org/wiki/中国大陸 "wikilink")、[土耳其](../Page/土耳其.md "wikilink")和[利比亚](../Page/利比亚.md "wikilink")。\[2\] 而截至2013年10月時，仍在封鎖YouTube網站的國家和地區有[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")、[伊朗](https://zh.wikipedia.org/wiki/伊朗 "wikilink")、[塔吉克及](../Page/塔吉克斯坦.md "wikilink")[巴基斯坦](../Page/巴基斯坦.md "wikilink")\[3\]。
 
-### 阿拉伯联合酋长国
-
-2006年8月，阿拉伯聯合大公國電信監管當
-
 ### 巴西
 
 2006年YouTube巴西語言版本被巴西[MTV和其主持人](../Page/音樂電視網.md "wikilink")[丹妮埃拉·西卡雷莉](../Page/丹妮埃拉·西卡雷莉.md "wikilink")控告，指出該網站放置了由一名[狗仔隊](../Page/狗仔隊.md "wikilink")偷拍她和她男友在[西班牙](../Page/西班牙.md "wikilink")海灘的性愛影片。這起訴訟導致YouTube被封鎖，直到所有的影片副本皆被刪除。2007年1月6日禮拜六，巴西法院下達一法律強制令命令，在網路伺服器上放置過濾器以防止巴西用戶瀏覽YouTube。該措施在有效性方面受到質疑，因為影片除了可以在YouTube上播放，且隨著[網路快速傳播現象也可以出現在其他類似網站上](https://zh.wikipedia.org/wiki/網路爆紅 "wikilink")。2007年1月9日禮拜二，同一個法院推翻其先前的決定，命令將過濾器刪除。雖然該影片本身仍被禁止，但已沒有技術性的方式來阻止使用戶瀏覽YouTube。

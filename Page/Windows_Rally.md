@@ -4,7 +4,7 @@
 
   - 网络[打印机](../Page/打印机.md "wikilink")、[視頻投影機](../Page/視頻投影機.md "wikilink")、打印机桥、[数码相机](../Page/数码相机.md "wikilink")和[電子遊戲機](../Page/電子遊戲機.md "wikilink")
 
-  - 、网络媒体播放器、[數位視訊轉換盒](https://zh.wikipedia.org/wiki/數位視訊轉換盒 "wikilink")、[数码相框](../Page/数码相框.md "wikilink")和[PDA](../Page/个人数码助理.md "wikilink")
+  - 、网络媒体播放器、[數位視訊轉換盒](../Page/數位視訊轉換盒.md "wikilink")、[数码相框](../Page/数码相框.md "wikilink")和[PDA](../Page/个人数码助理.md "wikilink")
 
 ## Windows Rally技术
 

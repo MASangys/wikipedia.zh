@@ -156,7 +156,7 @@ Vision的中文音譯威神，即命名為威神V。</p></td>
 <td><p><a href="../Page/楷燦.md" title="wikilink">楷燦</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/渽民" title="wikilink">渽民</a></p></td>
+<td><p><a href="../Page/渽民.md" title="wikilink">渽民</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/揚揚" title="wikilink">揚揚</a></p></td>
@@ -308,10 +308,6 @@ BackgroundColors = bars:bars
   - NCT Dream首張單曲專輯《The First》
 
 2月1日，官方公開NCT Dream即將在2月9日發行首張單曲專輯《The First》的消息，並釋出團體概念照。渽民因腰傷而不參與本次專輯活動，暫時以6人體制活動。\[18\]2月2日，公開辰樂的概念照。2月3日，公開志晟的概念照。2月4日，公開仁俊的概念照。2月5日，公開Jeno的概念照。2月6日，公開楷燦和Mark的概念照。2月7日，公開《My First and Last》韓文版與中文版的預告影片。2月9日，發行首張單曲專輯《The First》，主打歌《My First and Last》韓文版與中文版MV公開。2月14日，NCT Dream在SBS《The Show》獲得初一位。
-
-  - Mark參加《高等Rapper》
-
-2月17日，Mark選擇以個人身份，為[首爾公演藝術高中參加Mnet高中生說唱節目](../Page/首尔公演艺术高中.md "wikilink")《[高等Rapper](../Page/高等Rapper.md "wikilink")》，以第6名拿下（[首爾](../Page/首爾.md "wikilink")[漢江](../Page/漢江_\(韓國\).md "wikilink")）江西地區參賽資格，繼而拿下江西地區最後三名代表資格，進入18強，且最終一路挺進決賽，與Red Velvet的Seulgi合作演唱《Drop》獲得第7名。
 
   - NCT 127攜第三張迷你專輯《NCT 127\# Cherry Bomb》回歸
 
@@ -889,367 +885,430 @@ BackgroundColors = bars:bars
 <td></td>
 </tr>
 <tr class="even">
+<td><p>8月9日</p></td>
+<td><p>Spotify On Stage</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/印尼" title="wikilink">印尼</a><a href="https://zh.wikipedia.org/wiki/雅加達" title="wikilink">雅加達JIEXPO</a> Hall C3</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>8月26日</p></td>
 <td><p><a href="../Page/愛貝克思夏日聯合國.md" title="wikilink">愛貝克思夏日聯合國</a>2017</p></td>
 <td><p>日本<a href="https://zh.wikipedia.org/wiki/東京" title="wikilink">東京</a><a href="https://zh.wikipedia.org/wiki/味之素體育場" title="wikilink">味之素體育場</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>8月29日</p></td>
 <td><p>2017雪球計劃演唱會</p></td>
 <td><p>YES24 LIVE HALL</p></td>
 <td><p>Mark、NCT Dream[64]</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>9月15日</p></td>
 <td><p>2017樂天家族演唱會</p></td>
 <td><p>蠶室綜合運動場</p></td>
 <td><p>NCT 127（缺昀昀）[65]</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>10月22日</p></td>
 <td><p>釜山One Asia Festival开幕式</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/釜山亚运会主体育场" title="wikilink">釜山亚运会主体育场</a></p></td>
 <td><p>NCT 127</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>10月28日</p></td>
 <td><p>菲律宾K-POP REPUBLIC 2</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/菲律賓" title="wikilink">菲律賓</a><a href="https://zh.wikipedia.org/wiki/馬尼拉" title="wikilink">馬尼拉Circuit</a> Makati Event Ground</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>11月1日</p></td>
 <td><p>2018平昌冬奧會G-100</p></td>
 <td><p><a href="../Page/首爾.md" title="wikilink">首爾</a><a href="https://zh.wikipedia.org/wiki/光化門廣場" title="wikilink">光化門廣場</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2018年</p></td>
 <td><p>1月13日</p></td>
 <td><p>2018<a href="../Page/超級巨星紅白藝能大賞.md" title="wikilink">超級巨星紅白藝能大賞</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/台北小巨蛋" title="wikilink">台北小巨蛋</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2月12日</p></td>
 <td><p>平昌冬奥会公演</p></td>
 <td><p>平昌奖牌广场</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2月24日</p></td>
 <td><p>K-POP WORLD FESTA PRIME CONCERT</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/江陵原州大學" title="wikilink">江陵原州大學</a></p></td>
 <td><p>NCT U</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2月25日</p></td>
 <td><p>第24回大韩民国演艺艺术奖颁奖典礼</p></td>
 <td><p>富川市民会馆大公演场</p></td>
 <td><p>NCT 127</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>4月15日</p></td>
 <td><p>日韩友谊Festival KPOP 2018 in TOKYO</p></td>
 <td><p>日本东京豊洲PIT</p></td>
 <td><p>NCT Dream</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>4月28日</p></td>
 <td><p>第16届Korea Times Music Festival</p></td>
 <td><p>美國<a href="https://zh.wikipedia.org/wiki/洛杉磯" title="wikilink">洛杉磯</a><a href="../Page/好萊塢露天劇場.md" title="wikilink">好萊塢露天劇場</a></p></td>
 <td><p>NCT 127</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>5月12日</p></td>
 <td><p>2018<a href="../Page/夢想演唱會.md" title="wikilink">夢想演唱會</a></p></td>
 <td><p><a href="../Page/首爾世界盃競技場.md" title="wikilink">首爾世界盃競技場</a></p></td>
 <td><p>NCT U、NCT 127、NCT Dream</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>6月24日</p></td>
 <td><p>KCON 2018 in NEW YORK</p></td>
 <td><p>美國<a href="https://zh.wikipedia.org/wiki/紐約" title="wikilink">紐約</a></p></td>
 <td><p>NCT 127</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>8月25日</p></td>
 <td><p><a href="../Page/愛貝克思夏日聯合國.md" title="wikilink">愛貝克思夏日聯合國</a>2018</p></td>
 <td><p>日本東京<a href="https://zh.wikipedia.org/wiki/味之素體育場" title="wikilink">味之素體育場</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>8月30日</p></td>
 <td><p>Soribada Best K-Music Awards</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/首爾奧林匹克體操競技場" title="wikilink">首爾奧林匹克體操競技場</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>9月2日</p></td>
 <td><p>2018 仁川機場Sky Festival</p></td>
 <td><p>仁川國際機場草地廣場</p></td>
 <td><p>NCT DREAM</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>9月8日</p></td>
 <td><p>MBC Korean Music Wave Festival</p></td>
 <td><p>首爾數碼媒體城</p></td>
 <td><p>NCT U、NCT 127、NCT Dream、NCT 2018</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>9月9日</p></td>
 <td><p>Spectrum Dance Music Festival</p></td>
 <td><p>首爾綜合運動場</p></td>
 <td><p>錕、Ten、廷祐、Lucas</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>9月9日</p></td>
 <td><p>HallyuPopFest 2018 in SINGAPORE</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/新加坡室內體育館" title="wikilink">新加坡室內體育館</a></p></td>
 <td><p>NCT 127</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>9月16日</p></td>
 <td><p>Rakuten Girls Award 2018 Autumn/Winter</p></td>
 <td><p>日本千叶幕张展览馆</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>9月21日</p></td>
 <td><p>Paradise City Festival</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/仁川" title="wikilink">仁川Chroma</a> Square</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>9月27日</p></td>
 <td><p>2018 Korea Sale Festa 'Shopper's Fun Night'</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/首爾廣場" title="wikilink">首爾廣場</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>9月28日</p></td>
 <td><p>2018 Gangnam Festival</p></td>
 <td><p>SMTown Media</p></td>
 <td><p>NCT U（泰容、Ten）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>10月6日</p></td>
 <td></td>
 <td><p>美國<a href="https://zh.wikipedia.org/wiki/洛杉磯" title="wikilink">洛杉磯</a></p></td>
 <td><p>NCT 127</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>10月14日</p></td>
 <td><p>BBQ Super Concert</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/水原世界杯競技場" title="wikilink">水原世界杯競技場</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>10月20日</p></td>
 <td><p>Busan One Asia Festival</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/釜山亞運會主體育場" title="wikilink">釜山亞運會主體育場</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>10月27日</p></td>
 <td><p>MUSICFES in Otsuma Matsuri Festival</p></td>
 <td><p>日本東京<a href="../Page/大妻女子大學.md" title="wikilink">大妻女子大學</a>千代田校園</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>10月28日</p></td>
 <td><p>Busan One Asia Festival</p></td>
 <td><p><a href="../Page/釜山亞運會主競技場.md" title="wikilink">釜山亞運會主競技場</a></p></td>
 <td><p>NCT Dream</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>11月4日</p></td>
 <td><p>2018 Jeju Hallyu Festival</p></td>
 <td><p>濟州綜合競技場</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>11月10日</p></td>
 <td><p>Happy Alliance Day Music Concert</p></td>
 <td><p><a href="../Page/世宗大學.md" title="wikilink">世宗大學</a>Daeyang Hall</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>11月16日</p></td>
 <td><p>APDW 2018 x K-Pop Stars Concert</p></td>
 <td></td>
 <td><p>NCT 127（缺昀昀）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>11月24日</p></td>
 <td><p>2018 K-Concert in MACAO</p></td>
 <td><p>澳門東亞運動會體育館</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>12月9日</p></td>
 <td><p>Maya Music Festival in BANGKOK</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/泰國" title="wikilink">泰國</a><a href="../Page/曼谷.md" title="wikilink">曼谷</a></p></td>
 <td><p>NCT U（泰容、Ten）、NCT 127</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2019年</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2月9日</p></td>
 <td><p>第70届札幌冰雪节 11th K-POP FESTIVAL 2019</p></td>
 <td><p>日本札幌文化艺术剧场hitaru</p></td>
 <td><p>NCT Dream（缺楷灿）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>3月7日</p></td>
 <td><p>2019 K-POP Friendship Concert in Manila</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/菲律賓" title="wikilink">菲律賓</a><a href="https://zh.wikipedia.org/wiki/馬尼拉" title="wikilink">馬尼拉</a><a href="../Page/亞洲購物中心體育館.md" title="wikilink">亞洲購物中心體育館</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>3月24日</p></td>
 <td><p>第25屆大韓民國演藝藝術獎頒獎典禮</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>4月22日</p></td>
 <td><p><a href="../Page/香港亞洲流行音樂節.md" title="wikilink">香港亞洲流行音樂節</a>2019</p></td>
 <td><p><a href="../Page/香港會議展覽中心.md" title="wikilink">香港會議展覽中心</a></p></td>
 <td><p>NCT 127（缺昀昀）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>4月26日</p></td>
-<td><p>KL Jamm “Live for Music” Festival</p></td>
+<td><p>KL Jamm“Live for Music”Festival</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/馬來西亞" title="wikilink">馬來西亞MITEC</a></p></td>
 <td><p>NCT Dream（缺楷灿）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>5月2日</p></td>
 <td><p>C-Festival 2019</p></td>
 <td><p>首爾<a href="../Page/COEX商場.md" title="wikilink">COEX商場</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>5月18日</p></td>
 <td><p>2019<a href="../Page/夢想演唱會.md" title="wikilink">夢想演唱會</a></p></td>
 <td><p><a href="../Page/首爾世界盃競技場.md" title="wikilink">首爾世界盃競技場</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>5月19日</p></td>
 <td><p>K-Pop Entertaining Music Festival</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/台北南港展览馆1馆" title="wikilink">臺北南港展覽館</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>5月25日</p></td>
 <td><p>2019 MoneyToday uClean Youth Culture Concert</p></td>
 <td><p>首爾清溪广场</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>5月31日</p></td>
 <td><p>iHeart Radio Show 93.3 Summer Kick Off Concert</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/美國" title="wikilink">美國</a><a href="../Page/聖地牙哥.md" title="wikilink">聖地牙哥</a>Pechanga Arena</p></td>
 <td><p>NCT 127（缺昀昀）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>6月2日</p></td>
 <td><p>WAZZMATAZZ</p></td>
 <td><p>美國<a href="https://zh.wikipedia.org/wiki/舊金山" title="wikilink">舊金山Shoreline</a> Amphitheatre</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>6月9日</p></td>
 <td><p>K-Pop World Music Festival 2019</p></td>
 <td><p>菲律賓馬尼拉亞洲購物中心體育館</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>6月15日</p></td>
 <td><p>2019 安東韓流演唱會</p></td>
 <td><p>慶尚北道安東市假面舞公園</p></td>
 <td><p>NCT Dream（缺楷灿）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>7月27日</p></td>
 <td><p>第22屆 保寧美容泥漿節 K-POP 超級演唱會</p></td>
 <td><p>保寧大川海水浴場</p></td>
 <td><p>NCT Dream</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>8月16日</p></td>
 <td><p>2019 K-World Festa</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/首爾奧林匹克公園" title="wikilink">首爾奧林匹克公園</a></p></td>
 <td><p>NCT Dream（缺楷灿）</p></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>Spotify On Stage in Midnight Sonic</p></td>
+<td><p>日本東京<a href="../Page/幕張展覽館.md" title="wikilink">幕張展覽館</a></p></td>
+<td><p>NCT 127（缺昀昀、廷祐）</p></td>
+<td></td>
+<td></td>
+</tr>
 <tr class="even">
+<td><p>8月31日</p></td>
+<td><p>2019 仁川機場Sky Festival</p></td>
+<td><p>仁川國際機場草地廣場</p></td>
+<td><p>NCT Dream</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>9月1日</p></td>
+<td><p>2019 浦項韓流演唱會</p></td>
+<td><p>浦項體育場</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>9月10日</p></td>
+<td><p>Konser Korean Wave 2019</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/印尼" title="wikilink">印尼</a><a href="../Page/雅加达.md" title="wikilink">雅加达</a>Ecovention Ancol</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>9月21日</p></td>
 <td><p>2019 K-Flow 2 Concert in Taiwan</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/台灣" title="wikilink">台灣</a><a href="https://zh.wikipedia.org/wiki/桃園市" title="wikilink">桃園市</a><a href="../Page/國立體育大學綜合體育館.md" title="wikilink">國立體育大學綜合體育館</a></p></td>
 <td><p>NCT 127</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>9月22日</p></td>
 <td><p>12th Korean Music Festival 2019 In Japan</p></td>
-<td><p><a href="../Page/东京.md" title="wikilink">东京</a><a href="https://zh.wikipedia.org/wiki/丰州" title="wikilink">丰州PIT</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/東京" title="wikilink">東京</a> <a href="https://zh.wikipedia.org/wiki/豐州" title="wikilink">豐州PIT</a></p></td>
 <td><p>NCT Dream（缺楷灿）</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>9月28日</p></td>
+<td><p>2019 Global Citizen Festival</p></td>
+<td><p>美國紐約<a href="../Page/中央公園.md" title="wikilink">中央公園</a></p></td>
+<td><p>NCT 127</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>10月5日</p></td>
+<td><p>2019 光陽韓流超級演唱會</p></td>
+<td><p><a href="../Page/光陽市.md" title="wikilink">光陽市</a></p></td>
+<td><p>NCT Dream</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>10月25－26日</p></td>
+<td><p>Novus K-pop Festival</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/德國" title="wikilink">德國</a><a href="https://zh.wikipedia.org/wiki/杜塞爾多夫" title="wikilink">杜塞爾多夫ISS</a> Dome</p></td>
+<td><p>NCT Dream</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>11月9日</p></td>
+<td><p>2019 KAMP Global K-Pop Festival</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/新加坡室內體育館" title="wikilink">新加坡室內體育館</a></p></td>
+<td><p>NCT 127</p></td>
 <td></td>
 </tr>
 </tbody>

@@ -1,4 +1,4 @@
-是香港[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")旗下MyTV Super Limited於2016年3月成立的收費[OTT平台](https://zh.wikipedia.org/wiki/OTT "wikilink")，於同月15日起測試，4月18日正式推出\[1\]，初期提供[流動應用程式](../Page/流動應用程式.md "wikilink")版及[解碼器版](https://zh.wikipedia.org/wiki/解碼器 "wikilink")。2017年2月，myTV SUPER推出網上版，惟帳戶與前者並不互通（但可以透過跨屏幕同時睇功能配對手機、平板電腦及網頁觀看）。2017年3月，無綫電視宣佈平台用戶數量達至三百萬；2017年4月17日開始接受香港市民訂購至尊版，除了基本版頻道，也增加9個國際知名娛樂組合（直播連點播）和點播組合加入。；2019年4月1日開始接受香港市民訂購myTV Gold，除了基本版頻道，也增加更多組合（包括TVN Movie、BeIN Sport頻道組合及Discovery頻道組合）和點播組合加入。
+是香港[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")旗下MyTV Super Limited於2016年3月成立的收費[OTT平台](https://zh.wikipedia.org/wiki/OTT "wikilink")，於同月15日起測試，4月18日正式推出\[1\]，初期提供[流動應用程式](../Page/流動應用程式.md "wikilink")版及[解碼器版](https://zh.wikipedia.org/wiki/解碼器 "wikilink")。2017年2月，myTV SUPER推出網上版，惟帳戶與前者並不互通（但可以透過跨屏幕同時睇功能配對手機、平板電腦及網頁觀看）。2017年3月，無綫電視宣佈平台用戶數量達至三百萬；2017年4月17日開始接受香港市民訂購至尊版，除了基本版頻道，也增加9個國際知名娛樂組合（直播連點播）和點播組合加入。；2019年4月1日開始接受香港市民訂購myTV Gold，除了基本版頻道，也增加更多組合（包括TVN Movie、BeIN Sport頻道組合及Discovery頻道組合）和點播組合加入。；2019年9月1日起，myTV SUPER全新頻道myTV SUPER 18台正式登陸，提供全面本地賽馬資訊，從馬圈消息、晨操片段、賽前分析、至賽事直播和賽後檢討都一一涵蓋。myTV SUPER更增設「賽馬」專區，提供貼士、賽事、預測及策略等賽馬資訊。
 
 2017年4月，MyTV SUPER亦向海外地區推出[TVB Anywhere](../Page/TVB_Anywhere.md "wikilink")。因應法律或技術問題，在[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")、[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")、[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、[越南等地未有全面支援](https://zh.wikipedia.org/wiki/越南 "wikilink")。
 
@@ -1850,7 +1850,11 @@ Active Raid－機動強襲室第八係－ 2nd</a></p></td>
 
 <!-- end list -->
 
-  - 7月20日，王者榮耀電競（666頻道）啟播，並免費至8月31日。
+  - 7月20日，王者榮耀電競（666頻道）啟播。
+
+<!-- end list -->
+
+  - 9月1日，myTV SUPER 18台（18頻道）啟播。同日，王者榮耀電競（666頻道）停播。
 
 ## 頻道列表
 
@@ -1873,13 +1877,21 @@ Active Raid－機動強襲室第八係－ 2nd</a></p></td>
 <td><p><strong>連結</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><strong>無綫電視頻道</strong>（8X-9X）</p></td>
+<td><p><strong>無綫電視頻道</strong>（1X、8X-9X）</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>18</p></td>
+<td><p>myTV SUPER 18台*<br />
+</p></td>
+<td><p>2019年9月1日</p></td>
+<td><p>myTV SUPER 18台</p></td>
+<td><p><a href="http://www.mytvsuper.com/tc/epg/C18">myTV SUPER節目表</a></p></td>
+</tr>
+<tr class="even">
 <td><p>81</p></td>
 <td><p><a href="../Page/翡翠台.md" title="wikilink">翡翠台</a>*<br />
 </p></td>
@@ -1887,14 +1899,14 @@ Active Raid－機動強襲室第八係－ 2nd</a></p></td>
 <td><p>基本頻道</p></td>
 <td><p><a href="http://www.mytvsuper.com/tc/epg/J">myTV SUPER節目表</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>82</p></td>
 <td><p><a href="../Page/J2.md" title="wikilink">J2</a>*</p></td>
 <td><p><a href="http://www.mytvsuper.com/tc/epg/B">myTV SUPER節目表</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>83</p></td>
 <td><p><a href="../Page/無綫新聞台.md" title="wikilink">無綫新聞台</a>*<br />
 </p></td>
@@ -1902,7 +1914,7 @@ Active Raid－機動強襲室第八係－ 2nd</a></p></td>
 <td><p><a href="http://www.mytvsuper.com/tc/epg/C">myTV SUPER節目表</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>84</p></td>
 <td><p><a href="../Page/明珠台.md" title="wikilink">明珠台</a>*<br />
 </p></td>
@@ -1910,7 +1922,7 @@ Active Raid－機動強襲室第八係－ 2nd</a></p></td>
 <td><p><a href="http://www.mytvsuper.com/tc/epg/P">myTV SUPER節目表</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>85</p></td>
 <td><p><a href="../Page/無綫財經·資訊台.md" title="wikilink">無綫財經·資-{}-訊台</a>*<br />
 </p></td>
@@ -1918,7 +1930,7 @@ Active Raid－機動強襲室第八係－ 2nd</a></p></td>
 <td><p><a href="http://www.mytvsuper.com/tc/epg/A">myTV SUPER節目表</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>86</p></td>
 <td><p><a href="../Page/TVB經典台.md" title="wikilink">TVB經典台</a><br />
 </p></td>
@@ -1926,7 +1938,7 @@ Active Raid－機動強襲室第八係－ 2nd</a></p></td>
 <td><p><a href="http://www.mytvsuper.com/tc/epg/CTVC">myTV SUPER節目表</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>87</p></td>
 <td><p><a href="../Page/韓劇台.md" title="wikilink">韓劇台</a><br />
 </p></td>
@@ -1934,7 +1946,7 @@ Active Raid－機動強襲室第八係－ 2nd</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>88</p></td>
 <td><p><a href="../Page/日劇台.md" title="wikilink">日劇台</a><br />
 </p></td>
@@ -1942,7 +1954,7 @@ Active Raid－機動強襲室第八係－ 2nd</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>89</p></td>
 <td><p><a href="../Page/華語劇台.md" title="wikilink">華語劇台</a><br />
 </p></td>
@@ -1950,7 +1962,7 @@ Active Raid－機動強襲室第八係－ 2nd</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>91</p></td>
 <td><p><a href="../Page/TVB娛樂新聞台.md" title="wikilink">娛樂新聞台</a><br />
 </p></td>
@@ -1958,7 +1970,7 @@ Active Raid－機動強襲室第八係－ 2nd</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>92</p></td>
 <td><p><a href="../Page/綜藝旅遊台.md" title="wikilink">綜藝旅遊台</a><br />
 </p></td>
@@ -1966,7 +1978,7 @@ Active Raid－機動強襲室第八係－ 2nd</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>93</p></td>
 <td><p><a href="../Page/為食台.md" title="wikilink">為食台</a><br />
 </p></td>
@@ -1974,14 +1986,14 @@ Active Raid－機動強襲室第八係－ 2nd</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>97</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TVB_Radio" title="wikilink">TVB Radio</a></p></td>
 <td><p>2016年6月27日上午6:00</p></td>
 <td><p><a href="http://www.mytvsuper.com/tc/epg/CTVM">myTV SUPER節目表</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>98</p></td>
 <td><p><a href="../Page/TVB戲曲台.md" title="wikilink">戲曲台</a><br />
 </p></td>
@@ -1989,56 +2001,56 @@ Active Raid－機動強襲室第八係－ 2nd</a></p></td>
 <td><p><a href="https://www.mytvsuper.com/tc/epg/CCOC">myTV SUPER節目表</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>幼兒</strong>（1XX）</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>101</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Disney_Junior_(亞洲)" title="wikilink">Disney Junior</a></p></td>
 <td><p>2016年3月15日</p></td>
 <td><p>基本頻道</p></td>
 <td><p><a href="http://www.mytvsuper.com/tc/epg/CDJC">myTV SUPER節目表</a>／<a href="http://disneyjunior.disney.sg/">Disney Junior亞洲官方網站</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>102</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Disney_Channel_(亞洲)" title="wikilink">Disney Channel</a></p></td>
 <td><p><a href="http://www.mytvsuper.com/tc/epg/CDIS">myTV SUPER節目表</a>／<a href="https://web.archive.org/web/20160616100410/http://www.disney.com.hk/DisneyChannel/tv/">Disney Channel香港官方網站</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>103</p></td>
 <td><p><a href="../Page/CBeebies.md" title="wikilink">CBeebies</a></p></td>
 <td><p>2016年11月14日</p></td>
 <td><p>BBC娛樂資訊組合</p></td>
 <td><p><a href="http://www.mytvsuper.com/tc/epg/BBB">myTV SUPER節目表</a>／<a href="http://www.bbcasia.com/channels/cbeebies/">CBeebies官方網站</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>104</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Nickelodeon" title="wikilink">Nickelodeon</a></p></td>
 <td><p>2017年1月1日</p></td>
 <td><p>精選基本頻道</p></td>
 <td><p><a href="http://www.mytvsuper.com/tc/epg/CNIKO">myTV SUPER節目表</a>／<a href="http://www.nick-asia.com/">Nickelodeon亞洲官方網站</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>105</p></td>
 <td></td>
 <td><p>尼克兒童組合</p></td>
 <td><p><a href="http://www.mytvsuper.com/tc/epg/CNIJR">myTV SUPER節目表</a>／<a href="http://www.nick-asia.com/">Nickelodeon亞洲官方網站</a>／<a href="http://www.nickjr.com/">Nick Jr.官方網站</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>電影</strong>（2XX）</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>200</p></td>
 <td><p><a href="../Page/粵語片台.md" title="wikilink">粵語片台</a><br />
 </p></td>
@@ -2046,7 +2058,7 @@ Active Raid－機動強襲室第八係－ 2nd</a></p></td>
 <td><p>基本頻道</p></td>
 <td><p><a href="http://www.mytvsuper.com/tc/epg/CCLM">myTV SUPER節目表</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>201</p></td>
 <td><p><a href="../Page/美亞電影台.md" title="wikilink">美亞電影台</a><br />
 </p></td>
@@ -2054,14 +2066,14 @@ Active Raid－機動強襲室第八係－ 2nd</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>202</p></td>
 <td><p><a href="../Page/Thrill.md" title="wikilink">Thrill</a></p></td>
 <td><p>2017年1月16日</p></td>
 <td><p>動作驚慄影視組合</p></td>
 <td><p><a href="http://www.mytvsuper.com/tc/epg/CTHR">myTV SUPER節目表</a>／<a href="http://www.thrill-tv.com/">Thrill官方網站</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>203</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/天映經典頻道" title="wikilink">天映經典頻道</a><br />
 </p></td>
@@ -2069,42 +2081,42 @@ Active Raid－機動強襲室第八係－ 2nd</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>體育</strong>（3XX）</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>301</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/beIN_Sports" title="wikilink">beIN SPORTS 1</a></p></td>
 <td><p>2019年4月1日</p></td>
 <td><p>beIN SPORTS組合</p></td>
 <td><p><a href="http://www.mytvsuper.com/tc/epg/BE1">myTV SUPER節目表</a>／<a href="http://www.beinsports.com.hk/">beIN SPORTS 1官方網站</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>302</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/beIN_Sports" title="wikilink">beIN SPORTS 2</a></p></td>
 <td><p><a href="http://www.mytvsuper.com/tc/epg/BE2">myTV SUPER節目表</a>／<a href="http://www.beinsports.com.hk/">beIN SPORTS 2官方網站</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>303</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/beIN_Sports" title="wikilink">beIN SPORTS MAX</a></p></td>
 <td><p><a href="http://www.mytvsuper.com/tc/epg/BEM">myTV SUPER節目表</a>／<a href="http://www.beinsports.com.hk/">beIN SPORTS MAX官方網站</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>304</p></td>
 <td></td>
 <td><p>2017年1月16日</p></td>
 <td><p>動作驚慄影視組合</p></td>
 <td><p><a href="http://www.mytvsuper.com/tc/epg/CKIX">myTV SUPER節目表</a>／<a href="http://www.kix-tv.com/">KIX官方網站</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>305</p></td>
 <td><p><br />
 </p></td>
@@ -2112,7 +2124,7 @@ Active Raid－機動強襲室第八係－ 2nd</a></p></td>
 <td><p>Discovery 組合</p></td>
 <td><p><a href="http://www.mytvsuper.com/tc/epg/EUS">myTV SUPER節目表</a>／<a href="https://www.eurosport.com/">歐洲體育台官方網站</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>306</p></td>
 <td><p><a href="../Page/體通天下.md" title="wikilink">體通天下 1 台</a><br />
 </p></td>
@@ -2120,7 +2132,7 @@ Active Raid－機動強襲室第八係－ 2nd</a></p></td>
 <td><p>體通天下組合</p></td>
 <td><p><a href="http://www.mytvsuper.com/tc/epg/SW1">myTV SUPER節目表</a>／<a href="https://www.sports2world.com/">體通天下官方網站</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>307</p></td>
 <td><p><a href="../Page/體通天下.md" title="wikilink">體通天下 2 台</a><br />
 </p></td>
@@ -2128,7 +2140,7 @@ Active Raid－機動強襲室第八係－ 2nd</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>308</p></td>
 <td><p><a href="../Page/體通天下.md" title="wikilink">體通天下 3 台</a><br />
 </p></td>
@@ -2136,35 +2148,35 @@ Active Raid－機動強襲室第八係－ 2nd</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>紀實</strong>（4XX）</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>401</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/BBC_Earth" title="wikilink">BBC Earth</a></p></td>
 <td><p>2016年11月14日</p></td>
 <td><p>BBC娛樂資訊組合</p></td>
 <td><p><a href="http://www.mytvsuper.com/tc/epg/BBE">myTV SUPER節目表</a>／<a href="http://www.bbcasia.com/channels/earth/">BBC Earth頻道亞洲官方網站</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>402</p></td>
 <td></td>
 <td><p>2019年3月11日</p></td>
 <td><p>基本頻道</p></td>
 <td><p><a href="https://www.mytvsuper.com/tc/epg/LNH">myTV SUPER節目表</a>／<a href="https://tv.lovenature.com/">Love Nature官方網站</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>403</p></td>
 <td></td>
 <td><p>Blue Ant娛樂組合</p></td>
 <td><p><a href="https://www.mytvsuper.com/tc/epg/LN4">myTV SUPER節目表</a>／<a href="https://tv.lovenature.com/">Love Nature官方網站</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>404</p></td>
 <td><p><a href="../Page/動物星球頻道.md" title="wikilink">動物星球頻道</a><br />
 </p></td>
@@ -2172,7 +2184,7 @@ Active Raid－機動強襲室第八係－ 2nd</a></p></td>
 <td><p>Discovery 組合</p></td>
 <td><p><a href="http://www.mytvsuper.com/tc/epg/ANP">myTV SUPER節目表</a>／<a href="http://www.discoverychannel.co.uk/animalplanet/">動物星球頻道官方網站</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>405</p></td>
 <td><p><a href="../Page/探索頻道.md" title="wikilink">Discovery頻道</a><br />
 </p></td>
@@ -2180,7 +2192,7 @@ Active Raid－機動強襲室第八係－ 2nd</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>406</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Discovery科學頻道" title="wikilink">Discovery科學頻道</a><br />
 </p></td>
@@ -2188,14 +2200,14 @@ Active Raid－機動強襲室第八係－ 2nd</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>綜藝娛樂</strong>（5XX）</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>500</p></td>
 <td><p><a href="../Page/BLUE_ANT_Extreme.md" title="wikilink">BLUE ANT超極娛樂</a><br />
 </p></td>
@@ -2203,7 +2215,7 @@ Active Raid－機動強襲室第八係－ 2nd</a></p></td>
 <td><p>BLUE ANT 娛樂組合</p></td>
 <td><p><a href="http://www.mytvsuper.com/tc/epg/CRTX">myTV SUPER節目表</a>／</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>501</p></td>
 <td><p><a href="../Page/BLUE_ANT_Entertainment.md" title="wikilink">BLUE ANT綜藝娛樂</a><br />
 </p></td>
@@ -2211,35 +2223,35 @@ Active Raid－機動強襲室第八係－ 2nd</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>502</p></td>
 <td><p><a href="../Page/AXN.md" title="wikilink">AXN</a></p></td>
 <td><p>2016年7月1日上午6:00</p></td>
 <td><p>Sony娛樂組合</p></td>
 <td><p><a href="http://www.mytvsuper.com/tc/epg/CAXN">myTV SUPER節目表</a>／<a href="http://www.axn-asia.com">AXN Asia官方網站</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>504</p></td>
 <td><p><a href="../Page/Animax_Asia.md" title="wikilink">Animax</a></p></td>
 <td><p><a href="http://www.mytvsuper.com/tc/epg/CANI">myTV SUPER節目表</a>／<a href="https://www.animax-asia.com">Animax Asia官方網站</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>505</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/tvN_Asia" title="wikilink">tvN</a></p></td>
 <td><p>2017年4月1日</p></td>
 <td><p>CJ韓國娛樂組合</p></td>
 <td><p><a href="http://www.mytvsuper.com/tc/epg/">myTV SUPER節目表</a>／<a href="http://tvnasia.net/">tvN官方網站</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>生活</strong>（6XX）</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>601</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/無線衛星亞洲台" title="wikilink">無線衛星亞洲台</a><br />
 </p></td>
@@ -2247,7 +2259,7 @@ Active Raid－機動強襲室第八係－ 2nd</a></p></td>
 <td><p>精選基本頻道</p></td>
 <td><p><a href="http://www.mytvsuper.com/tc/epg/CTS1">myTV SUPER節目表</a>／<a href="https://www.tvbs.com.tw/ours/en/tvbsasia">無線衛星亞洲台官方網站</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>602</p></td>
 <td><p><a href="../Page/創世電視.md" title="wikilink">創世電視</a>*<br />
 </p></td>
@@ -2255,42 +2267,34 @@ Active Raid－機動強襲室第八係－ 2nd</a></p></td>
 <td><p>基本組合</p></td>
 <td><p><a href="https://www.mytvsuper.com/tc/epg/CRE">myTV SUPER節目表</a>／<a href="http://www.creation-tv.com/">創世電視官方網站</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>603</p></td>
 <td></td>
 <td><p>2016年3月15日</p></td>
 <td><p>精選基本頻道</p></td>
 <td><p><a href="http://www.mytvsuper.com/tc/epg/CFF1">myTV SUPER節目表</a>／<a href="http://fashionone.com/">Fashion One官方網站</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>604</p></td>
 <td></td>
 <td><p>Mezzo Live HD</p></td>
 <td><p><a href="http://www.mytvsuper.com/tc/epg/CMEZ">myTV SUPER節目表</a>／<a href="http://www.mezzo.tv/">Mezzo TV官方網站</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>605</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/BBC_Lifestyle" title="wikilink">BBC Lifestyle</a></p></td>
 <td><p>2016年11月14日</p></td>
 <td><p>BBC娛樂資訊組合</p></td>
 <td><p><a href="http://www.mytvsuper.com/tc/epg/BBL">myTV SUPER節目表</a>／<a href="http://www.bbcasia.com/channels/lifestyle/">BBC Lifestyle官方網站</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>606</p></td>
 <td><p>策略王電視*<br />
 </p></td>
 <td><p>2018年9月3日上午9:00</p></td>
 <td><p>基本組合</p></td>
 <td><p><a href="http://www.mytvsuper.com/tc/epg/STV">myTV SUPER節目表</a>／<a href="http://www.winmoney.hk/">港股策略王網站</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>666</p></td>
-<td><p>王者榮耀電競<br />
-</p></td>
-<td><p>2019年7月20日</p></td>
-<td><p><a href="http://www.mytvsuper.com/tc/epg/KPL">myTV SUPER節目表</a>／<a href="https://www.vspn.com/">王者榮耀電競網站</a></p></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p><strong>新聞</strong>（7XX）</p></td>
@@ -2662,6 +2666,15 @@ Travel</p></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>666</p></td>
+<td><p>王者榮耀電競<br />
+</p></td>
+<td><p>2019年7月20日</p></td>
+<td><p>2019年9月1日</p></td>
+<td><p>王者榮耀電競與myTV SUPER合約結束</p></td>
 <td></td>
 </tr>
 </tbody>

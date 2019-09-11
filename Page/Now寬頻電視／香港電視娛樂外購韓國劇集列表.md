@@ -2321,13 +2321,13 @@
 <tr class="even">
 <td><p>8月9日</p></td>
 <td><p><a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/先熱情的打掃吧" title="wikilink">先熱情的打掃吧</a></strong></p></td>
+<td><p><strong><a href="../Page/先熱情地打掃吧.md" title="wikilink">先熱情地打掃吧</a></strong></p></td>
 <td><p><a href="../Page/金裕貞.md" title="wikilink">金裕貞</a><br />
 <a href="../Page/尹鈞相.md" title="wikilink">尹鈞相</a><br />
 <a href="../Page/宋再臨.md" title="wikilink">宋再臨</a></p></td>
 <td></td>
 <td><p>16（<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
-（<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>）</p></td>
+24（<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>）</p></td>
 <td><p>[270][271]</p></td>
 </tr>
 <tr class="odd">
@@ -2344,6 +2344,17 @@
 <td><p>[272][273]</p></td>
 </tr>
 <tr class="even">
+<td><p>9月2日</p></td>
+<td><p><a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a></p></td>
+<td><p><strong><a href="../Page/Legal_High_(韓國電視劇).md" title="wikilink">Legal High</a></strong></p></td>
+<td><p><a href="../Page/晉久.md" title="wikilink">晉久</a><br />
+<a href="../Page/徐恩秀.md" title="wikilink">徐恩秀</a></p></td>
+<td></td>
+<td><p>16（<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
+（<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>）</p></td>
+<td><p>[274][275]</p></td>
+</tr>
+<tr class="odd">
 <td><p>9月24日</p></td>
 <td><p><a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a></p></td>
 <td><p><strong><a href="../Page/附身_(電視劇).md" title="wikilink">附身</a></strong></p></td>
@@ -2354,7 +2365,7 @@
 <td></td>
 <td><p>16（<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
 21（<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>）</p></td>
-<td><p>[274][275]</p></td>
+<td><p>[276][277]</p></td>
 </tr>
 </tbody>
 </table>
@@ -2686,3 +2697,5 @@
 273.
 274.
 275.
+276.
+277.

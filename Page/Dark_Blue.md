@@ -44,7 +44,7 @@
 
 ## 主題歌
 
-  - fractale\[5\]
+  - 片頭曲「fractale」\[5\]
     作詞：市松椿　作曲：Syrufit　歌：ひうらまさこ
 
 ## OVA
@@ -90,15 +90,14 @@
 
 ## 相關條目
 
-  - [Dearest Blue](../Page/Dearest_Blue.md "wikilink")：BLUE系列的第8個作品。
+  - [Dearest Blue](../Page/Dearest_Blue.md "wikilink")：BLUE系列的第8部作品。
+  - [White Blue](../Page/White_Blue.md "wikilink")：BLUE系列的第9部作品。
 
 ## 參考來源
 
-<references />
-
 ## 外部連結
 
-  - [LiliM](http://s-digi.jp/lilim/)
+  - [官方網站](https://s-digi.jp/lilim/02_soft/02_darkness/05_db/db00.html)
 
 [Category:2009年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2009年日本成人遊戲 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:DVDPG](https://zh.wikipedia.org/wiki/Category:DVDPG "wikilink") [Category:2012年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2012年日本成人動畫 "wikilink") [Category:獵奇作品](https://zh.wikipedia.org/wiki/Category:獵奇作品 "wikilink")
 

@@ -187,7 +187,7 @@ Baseball Team）</p></td>
 <td><p>현대 유니콘스</p></td>
 <td><p><a href="../Page/仁川廣域市.md" title="wikilink">仁川廣域市</a><br />
 →<a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/仁川公設運動場棒球場" title="wikilink">仁川公設運動場棒球場</a>→<br />
+<td><p><a href="../Page/仁川公設運動場棒球場.md" title="wikilink">仁川公設運動場棒球場</a>→<br />
 <a href="https://zh.wikipedia.org/wiki/水原棒球場" title="wikilink">水原棒球場</a></p></td>
 <td><p>14,000人</p></td>
 <td><p>1982年</p></td>

@@ -795,8 +795,7 @@ World</a><br />
 <td><p>1月27日</p></td>
 <td><p>|<a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p>《<a href="../Page/生意之神－客主2015.md" title="wikilink">生意之神－客主2015</a>》</p></td>
-<td><p>因為你<br />
-（단 한 사람）</p></td>
+<td><p>因為你（단 한 사람）</p></td>
 <td><p>泰一</p></td>
 <td></td>
 </tr>
@@ -813,8 +812,7 @@ World</a><br />
 <td><p>10月25日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p>《<a href="../Page/住在我家的男人.md" title="wikilink">住在我家的男人</a>》</p></td>
-<td><p>我要走進你的心<br />
-（니 맘에 들어갈래）</p></td>
+<td><p>我要走進你的心（니 맘에 들어갈래）</p></td>
 <td><p>Mark</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/刘宪华" title="wikilink">Henry</a></p></td>
 <td></td>
@@ -858,10 +856,9 @@ Drama X</p></td>
 </tr>
 <tr class="even">
 <td><p>10月17日</p></td>
-<td><p>KBS 2TV</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a></p></td>
 <td><p>《今天的偵探》</p></td>
-<td><p>名為我的夢<br />
-（나라는 꿈 가사）</p></td>
+<td><p>名為我的夢（나라는 꿈 가사）</p></td>
 <td><p>Mark</p></td>
 <td><p><a href="../Page/Joy_(Red_Velvet).md" title="wikilink">Joy</a></p></td>
 <td></td>
@@ -881,8 +878,9 @@ Drama X</p></td>
 <td><p>《<a href="../Page/奔跑吧.md" title="wikilink">奔跑吧</a>3》</p></td>
 <td><p>造億萬噸光芒</p></td>
 <td><p>Lucas</p></td>
-<td><p><a href="../Page/李晨_(演员).md" title="wikilink">李晨</a>、<a href="../Page/Angelababy.md" title="wikilink">Angelababy</a>、<a href="https://zh.wikipedia.org/wiki/鄭愷" title="wikilink">鄭愷</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/朱亞文" title="wikilink">朱亞文</a>、<a href="https://zh.wikipedia.org/wiki/王彥霖" title="wikilink">王彥霖</a>、<a href="../Page/宋雨琦.md" title="wikilink">宋雨琦</a></p></td>
+<td><p><a href="../Page/李晨_(演员).md" title="wikilink">李晨</a>、<a href="../Page/Angelababy.md" title="wikilink">Angelababy</a>、<br />
+<a href="https://zh.wikipedia.org/wiki/鄭愷" title="wikilink">鄭愷</a>、<a href="https://zh.wikipedia.org/wiki/朱亞文" title="wikilink">朱亞文</a>、<br />
+<a href="https://zh.wikipedia.org/wiki/王彥霖" title="wikilink">王彥霖</a>、<a href="../Page/宋雨琦.md" title="wikilink">宋雨琦</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -892,6 +890,15 @@ Drama X</p></td>
 <td><p>New Love</p></td>
 <td><p>道英、在玹</p></td>
 <td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>8月24日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a></p></td>
+<td><p>《<a href="../Page/德魯納酒店.md" title="wikilink">德魯納酒店</a>》</p></td>
+<td><p>德魯納愛情（러브 델루나）</p></td>
+<td><p>泰容</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Punch" title="wikilink">Punch</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -941,6 +948,477 @@ Drama X</p></td>
 | 2019年  | 3月5日                                                                | [Rocoberry](https://zh.wikipedia.org/wiki/Rocoberry "wikilink") | 《Don't say goodbye》                                                                | Don't say goodbye | 道英    |
 | 3月30日  | [SOHLHEE](https://zh.wikipedia.org/wiki/SOHLHEE "wikilink")         | 《Purple》                                                        | Purple                                                                             | 泰一                |       |
 | 7月3日   | [Ava Max](../Page/阿瓦·麦克斯.md "wikilink")                             | 《 (feat. NCT 127) - Single》                                     | So Am I                                                                            | NCT 127           |       |
+
+## 音樂創作
+
+<table>
+<thead>
+<tr class="header">
+<th><p>年份</p></th>
+<th><p>發佈日期</p></th>
+<th><p>歌曲名稱</p></th>
+<th><p>歌手/組合</p></th>
+<th><p>專輯名稱</p></th>
+<th><p>參與成員</p></th>
+<th><p>作詞</p></th>
+<th><p>作曲</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2016年</p></td>
+<td><p>4月9日</p></td>
+<td><p>일곱 번째 감각（The 7th Sense）</p></td>
+<td><p>NCT U</p></td>
+<td><p>《<a href="../Page/The_7th_Sense.md" title="wikilink">The 7th Sense</a>》</p></td>
+<td><p>泰容、Mark</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>7月10日</p></td>
+<td><p>소방차（Fire Truck）</p></td>
+<td><p>NCT 127</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/NCT_#127" title="wikilink">NCT #127</a>》</p></td>
+<td><p>泰容、在玹、Mark</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Mad City</p></td>
+<td><p>泰容、Mark</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>8月27日</p></td>
+<td><p>Chewing Gum</p></td>
+<td><p>NCT Dream</p></td>
+<td><p>《<a href="../Page/Chewing_Gum.md" title="wikilink">Chewing Gum</a>》</p></td>
+<td><p>Mark</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2017年</p></td>
+<td><p>1月6日</p></td>
+<td><p>Good Thing</p></td>
+<td><p>NCT 127</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/NCT_#127_Limitless" title="wikilink">NCT #127 Limitless</a>》</p></td>
+<td><p>泰容、Mark</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Back 2 U（AM 01:27）</p></td>
+<td><p>泰容</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Baby Don't Like It（나쁜 짓）</p></td>
+<td><p>泰容、Mark</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Angel</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2月9日</p></td>
+<td><p>마지막 첫사랑（My First and Last）</p></td>
+<td><p>NCT Dream</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/The_First_(NCT_Dream单曲)" title="wikilink">The First</a>》</p></td>
+<td><p>Mark</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>6月14日</p></td>
+<td><p>Cherry Bomb</p></td>
+<td><p>NCT 127</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/NCT_＃127_Cherry_Bomb" title="wikilink">NCT #127 Cherry Bomb</a>》</p></td>
+<td><p>泰容、Mark</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Running 2 U</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>0 Mile</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Whiplash</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Summer 127</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Cherry Bomb（Performance ver.）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>3月15日</p></td>
+<td><p>Trigger The Fever</p></td>
+<td><p>NCT Dream</p></td>
+<td><p><a href="../Page/2017年國際足協U-20世界盃.md" title="wikilink">FIFA U-20 世界盃 KOREA 2017</a> 主题曲</p></td>
+<td><p>Mark</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>8月17日</p></td>
+<td><p>La La Love</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/We_Young" title="wikilink">We Young</a>》</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>같은 시간 같은 자리（Walk You Home）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>My Page</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Trigger the Fever（Bonus Track）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2018年</p></td>
+<td><p>3月14日</p></td>
+<td><p>BOSS</p></td>
+<td><p>NCT U</p></td>
+<td><p>《<a href="../Page/NCT_2018_Empathy.md" title="wikilink">NCT 2018 Empathy</a>》</p></td>
+<td><p>泰容、Mark</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Baby Don't Stop</p></td>
+<td><p>泰容</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Go</p></td>
+<td><p>NCT Dream</p></td>
+<td><p>Mark</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>YESTODAY</p></td>
+<td><p>NCT U</p></td>
+<td><p>泰容、Mark</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Black On Black</p></td>
+<td><p>NCT</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>5月23日</p></td>
+<td><p>Chain</p></td>
+<td><p>NCT 127</p></td>
+<td><p>《<a href="../Page/Chain.md" title="wikilink">Chain</a>》</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>9月3日</p></td>
+<td><p>We Go Up</p></td>
+<td><p>NCT Dream</p></td>
+<td><p>《<a href="../Page/We_Go_Up.md" title="wikilink">We Go Up</a>》</p></td>
+<td><p>Mark</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>너와 나（Beautiful Time）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Drippin'</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Dear Dream</p></td>
+<td><p>Mark、Jeno、<br />
+渽民、志晟</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>10月12日</p></td>
+<td><p>지금 우리（City 127）</p></td>
+<td><p>NCT 127</p></td>
+<td><p>《<a href="../Page/Regular-Irregular.md" title="wikilink">NCT #127 Regular-Irregular</a>》</p></td>
+<td><p>泰容、Mark</p></td>
+<td><p><br />
+<small>僅泰容</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Regular</p></td>
+<td><p>泰容</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>내 Van（My Van）</p></td>
+<td><p>泰容、Mark</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>악몽（Come Back）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Regular（English Ver.）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>11月23日</p></td>
+<td><p>Welcome to My Playground</p></td>
+<td><p>《<a href="../Page/Regular-Irregular.md" title="wikilink">NCT #127 Regulate</a>》</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Chain（Korean Ver.）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>12月27日</p></td>
+<td><p>사랑한단 뜻이야（Candle Light）</p></td>
+<td><p>NCT Dream</p></td>
+<td><p><a href="../Page/SM_STATION.md" title="wikilink">SM STATION</a> S3</p></td>
+<td><p>Mark</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年</p></td>
+<td><p>4月17日</p></td>
+<td><p>Lips</p></td>
+<td><p>NCT 127</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/Awaken" title="wikilink">Awaken</a>》</p></td>
+<td><p>泰容、Mark</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>5月24日</p></td>
+<td><p>시차（Jet Lag）</p></td>
+<td><p>《》</p></td>
+<td><p>Mark</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>7月18日</p></td>
+<td><p>Long Flight</p></td>
+<td><p>泰容</p></td>
+<td><p><a href="../Page/SM_STATION.md" title="wikilink">SM STATION</a> S3</p></td>
+<td><p>泰容</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>7月26日</p></td>
+<td><p>119</p></td>
+<td><p>NCT Dream</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/We_Boom" title="wikilink">We Boom</a>》</p></td>
+<td><p>Jeno、渽民</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>사랑이 좀 어려워（Bye My First...）</p></td>
+<td><p>Jeno、渽民、志晟</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Best Friend</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Dream Run</p></td>
+<td><p>Jeno</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 其他
 

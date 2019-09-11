@@ -38,4 +38,4 @@
 
   - [HANABI](http://www.sonymusic.co.jp/artist/Ikimonogakari/discography/ESCL-2823) - Sony Music
 
-[Category:生物股長歌曲](https://zh.wikipedia.org/wiki/Category:生物股長歌曲 "wikilink") [Category:2006年單曲](https://zh.wikipedia.org/wiki/Category:2006年單曲 "wikilink") [Category:煙火題材歌曲](https://zh.wikipedia.org/wiki/Category:煙火題材歌曲 "wikilink") [Category:BLEACH歌曲](https://zh.wikipedia.org/wiki/Category:BLEACH歌曲 "wikilink") [Category:東京電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:東京電視台動畫主題曲 "wikilink")
+[Category:生物股長歌曲](https://zh.wikipedia.org/wiki/Category:生物股長歌曲 "wikilink") [Category:2006年單曲](https://zh.wikipedia.org/wiki/Category:2006年單曲 "wikilink") [Category:煙火題材歌曲](https://zh.wikipedia.org/wiki/Category:煙火題材歌曲 "wikilink") [Category:BLEACH歌曲](https://zh.wikipedia.org/wiki/Category:BLEACH歌曲 "wikilink") [Category:東京電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:東京電視台動畫主題曲 "wikilink") [Category:在线图表工具产品](https://zh.wikipedia.org/wiki/Category:在线图表工具产品 "wikilink")

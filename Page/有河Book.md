@@ -12,6 +12,10 @@
 
 有河Book頻繁舉辦各類活動，諸如讀詩會、獨樂樂團表演、電影欣賞會等來建立讀者社群。\[13\]在書店中也因為對於街貓友善的環境，經常會看到流浪貓在店中歇息。\[14\]\[15\]同時因為書店僅臨淡水河出海口，可以遠眺海景。\[16\]\[17\]因為上述特色，有河Book曾被[孤獨星球](../Page/孤獨星球.md "wikilink")中國版評為台灣最有特色的六家「咖啡店」之一的書店\[18\]，但書店主人隱匿並不喜歡有河被稱作咖啡店。\[19\]
 
+## 相關條目
+
+  - [台灣獨立書店列表](../Page/台灣獨立書店列表.md "wikilink")
+
 ## 參考文獻
 
 [Category:臺灣的獨立書店](https://zh.wikipedia.org/wiki/Category:臺灣的獨立書店 "wikilink") [Category:台灣已結業書店](https://zh.wikipedia.org/wiki/Category:台灣已結業書店 "wikilink") [Category:2006年台灣建立](https://zh.wikipedia.org/wiki/Category:2006年台灣建立 "wikilink") [Category:2006年成立的公司](https://zh.wikipedia.org/wiki/Category:2006年成立的公司 "wikilink") [Category:2017年結業公司](https://zh.wikipedia.org/wiki/Category:2017年結業公司 "wikilink") [Category:總部位於新北市的工商業機構](https://zh.wikipedia.org/wiki/Category:總部位於新北市的工商業機構 "wikilink") [Category:淡水區](https://zh.wikipedia.org/wiki/Category:淡水區 "wikilink")

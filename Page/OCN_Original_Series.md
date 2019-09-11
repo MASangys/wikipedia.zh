@@ -1252,7 +1252,7 @@
 <td><p><a href="../Page/臨時制先生.md" title="wikilink">臨時制先生</a><br />
 </p></td>
 <td><p>16</p></td>
-<td><p><a href="../Page/尹鈞相.md" title="wikilink">尹鈞相</a>、<a href="https://zh.wikipedia.org/wiki/琴世祿" title="wikilink">琴世祿</a>、<a href="../Page/李濬榮.md" title="wikilink">李濬榮</a>、<a href="../Page/崔有華.md" title="wikilink">崔有華</a></p></td>
+<td><p><a href="../Page/尹鈞相.md" title="wikilink">尹鈞相</a>、<a href="../Page/琴世祿.md" title="wikilink">琴世祿</a>、<a href="../Page/李濬榮.md" title="wikilink">李濬榮</a>、<a href="../Page/崔有華.md" title="wikilink">崔有華</a></p></td>
 <td><p>張洪哲</p></td>
 <td><p>成勇日</p></td>
 <td></td>

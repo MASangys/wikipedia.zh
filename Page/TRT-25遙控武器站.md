@@ -20,7 +20,7 @@
   - [GIAT M811](../Page/GIAT_M811機炮.md "wikilink")
   - [厄利孔KBA](../Page/歐瑞康KBA機炮.md "wikilink")
   - [拉斐爾車頂武器站](../Page/拉斐爾車頂武器站.md "wikilink")
-  - [拉斐爾颱風武器站](https://zh.wikipedia.org/wiki/拉斐爾颱風武器站 "wikilink")
+  - [拉斐爾颱風武器站](../Page/拉斐爾颱風武器站.md "wikilink")
   - [M230鏈炮](../Page/M230鏈炮.md "wikilink")
   - [Mk 44巨蝮二式鏈炮](../Page/Mk_44巨蝮二式鏈炮.md "wikilink")
 

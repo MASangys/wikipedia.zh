@@ -1,4 +1,4 @@
-[非揮發性SRAM](https://zh.wikipedia.org/wiki/非揮發性SRAM "wikilink")（Non-volatile SRAM，nvSRAM)是一種[非揮發性隨機儲存記憶體](https://zh.wikipedia.org/wiki/非揮發性隨機儲存記憶體 "wikilink")，他的操作方法和普通的[靜態隨機存取記憶體](https://zh.wikipedia.org/wiki/靜態隨機存取記憶體 "wikilink")(Static Random-Access Memory，SRAM)大同小異，但卻不需要供電來維持記憶體內部的值。雖然[非揮發性SRAM在結構上跟一般的SRAM是相同的](https://zh.wikipedia.org/wiki/非揮發性SRAM "wikilink")，但是一般的SRAM只能做讀和寫，而非揮發性SRAM則可以做出讀(read)、寫(write)、儲存(store)、召回(restore)等動作。
+[非揮發性SRAM](../Page/非揮發性SRAM.md "wikilink")（Non-volatile SRAM，nvSRAM)是一種[非揮發性隨機儲存記憶體](https://zh.wikipedia.org/wiki/非揮發性隨機儲存記憶體 "wikilink")，他的操作方法和普通的[靜態隨機存取記憶體](https://zh.wikipedia.org/wiki/靜態隨機存取記憶體 "wikilink")(Static Random-Access Memory，SRAM)大同小異，但卻不需要供電來維持記憶體內部的值。雖然[非揮發性SRAM](../Page/非揮發性SRAM.md "wikilink")在結構上跟一般的SRAM是相同的，但是一般的SRAM只能做讀和寫，而非揮發性SRAM則可以做出讀(read)、寫(write)、儲存(store)、召回(restore)等動作。
 
 而要做出非揮發性SRAM的方法有很多種，其中一種方法是整個區塊或整個模組要斷電之前，把非揮發性SRAM內部的值藉由store來把值轉移到非揮發性記憶體上，等到區塊或模組上點後，在藉由restore來把之前存入的值取出來，此方法為使用硬體來做儲存的方法。還有許多其他種類的方法，如自動儲存(AutoStore)和軟體儲存(Software Store)皆是儲存的方法。
 

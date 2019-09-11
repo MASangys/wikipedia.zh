@@ -2,7 +2,7 @@
 
 ## 源起
 
-網絡和[手機的流行改變新一代觀眾的收視習慣](https://zh.wikipedia.org/wiki/手機 "wikilink")，加上[社交網絡平台興起](https://zh.wikipedia.org/wiki/社交網絡 "wikilink")，藝人（特別是非一二線藝人）需要爭取更多曝光率，因此熱衷於社交平台如[Facebook](../Page/Facebook.md "wikilink")和[Instagram](../Page/Instagram.md "wikilink")以及充當[Youtuber作自我宣傳](https://zh.wikipedia.org/wiki/Youtube "wikilink")，個别藝人更身兼[意見領袖](../Page/意見領袖.md "wikilink")角色甚至經營産品代言和網購賺取外快。故TVB特意開拓此板塊，讓旗下藝人於此平台直接接觸粉絲，另外亦會邀請不同知識面（如[美容](../Page/美容.md "wikilink")、[餐飲](https://zh.wikipedia.org/wiki/餐飲 "wikilink")）的KOL（受歡迎之網絡明星）於此平台開設帳號發帖。
+網絡和[手機的流行改變新一代觀眾的收視習慣](https://zh.wikipedia.org/wiki/手機 "wikilink")，加上[社交網絡平台興起](https://zh.wikipedia.org/wiki/社交網絡 "wikilink")，藝人（特別是非一二線藝人）需要爭取更多曝光率，因此熱衷於社交平台如[Facebook](../Page/Facebook.md "wikilink")和[Instagram](../Page/Instagram.md "wikilink")以及充當[Youtuber作自我宣傳](https://zh.wikipedia.org/wiki/Youtube "wikilink")，個别藝人更身兼[意見領袖](../Page/意見領袖.md "wikilink")角色甚至經營產品代言和網購賺取外快。故TVB特意開拓此板塊，讓旗下藝人於此平台直接接觸粉絲，另外亦會邀請不同知識面（如[美容](../Page/美容.md "wikilink")、[餐飲](https://zh.wikipedia.org/wiki/餐飲 "wikilink")）的KOL（受歡迎之網絡明星）於此平台開設帳號發帖。
 
 ## 正式推出
 
@@ -118,7 +118,7 @@ big big channel於2017年6月23日推出[iOS和](https://zh.wikipedia.org/wiki/i
 <td style="text-align: center;"><p>2019/04/30</p></td>
 <td style="text-align: center;"><p><a href="../Page/機動部隊2019.md" title="wikilink">機動部隊2019</a></p></td>
 <td style="text-align: center;"><p>4</p></td>
-<td style="text-align: center;"><p><a href="../Page/楊明.md" title="wikilink">楊　明</a>、<a href="https://zh.wikipedia.org/wiki/蔡思貝" title="wikilink">蔡思貝</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/楊明.md" title="wikilink">楊　明</a>、<a href="../Page/蔡思貝.md" title="wikilink">蔡思貝</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>
@@ -168,7 +168,7 @@ big big channel於2017年6月23日推出[iOS和](https://zh.wikipedia.org/wiki/i
 <td><p>「最噴血女團獎」</p></td>
 <td><p>《到此一遊》港姐跳舞版ＭＶ</p></td>
 <td><p>《2017年度勁歌金曲頒獎典禮》<br />
-<a href="../Page/黃心穎.md" title="wikilink">黃心穎</a>、<a href="https://zh.wikipedia.org/wiki/蔡思貝" title="wikilink">蔡思貝</a>、<a href="../Page/馮盈盈.md" title="wikilink">馮盈盈</a>、<a href="https://zh.wikipedia.org/wiki/邵佩詩" title="wikilink">邵佩詩</a>、<a href="../Page/張寶兒.md" title="wikilink">張寶兒</a></p></td>
+<a href="../Page/黃心穎.md" title="wikilink">黃心穎</a>、<a href="../Page/蔡思貝.md" title="wikilink">蔡思貝</a>、<a href="../Page/馮盈盈.md" title="wikilink">馮盈盈</a>、<a href="https://zh.wikipedia.org/wiki/邵佩詩" title="wikilink">邵佩詩</a>、<a href="../Page/張寶兒.md" title="wikilink">張寶兒</a></p></td>
 <td><p><a href="../Page/陸浩明.md" title="wikilink">陸浩明</a></p></td>
 <td><p>1,110,593</p></td>
 </tr>

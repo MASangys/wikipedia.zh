@@ -11,7 +11,7 @@
 <!-- end list -->
 
   - [葉山郁美](../Page/葉山郁美.md "wikilink")（原自由身，2015年4月1日加入\[1\]）
-  - [春日望](https://zh.wikipedia.org/wiki/春日望 "wikilink")
+  - [春日望](../Page/春日望.md "wikilink")
 
 <!-- end list -->
 

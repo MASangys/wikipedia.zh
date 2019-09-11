@@ -124,9 +124,9 @@
 | 4月    | 梓寧 | 4月  |       |    |     |
 | 5月    | 振緯 | 5月  |       |    |     |
 | 6月    | 仕偉 | 6月  | 宇慶    |    |     |
-| 7月    | 梓寧 | 7月  | 梓寧    |    |     |
+| 7月    | 振緯 | 7月  | 梓寧    |    |     |
 | 8月    | 梓鑫 | 8月  | 梓鑫    |    |     |
-| 9月    |    | 9月  | 仕偉    |    |     |
+| 9月    | 振緯 | 9月  | 仕偉    |    |     |
 | 10月   |    | 10月 | 薛恩    |    |     |
 | 11月   |    | 11月 | 振緯    |    |     |
 | 12月   |    | 12月 | 振緯    |    |     |
@@ -255,38 +255,40 @@
 
 ### 綜藝節目
 
-|                                                               |                                                                                               |         |
-| ------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ------- |
-| 日期                                                            | 節目名稱                                                                                          | 演出成員    |
-| 2018年7月6日                                                     | 明星鍵盤手 LIVE                                                                                    | C.T.O全員 |
-| 2018年7月13日                                                    | [娛樂百分百](https://zh.wikipedia.org/wiki/娛樂百分百 "wikilink")(二年八班開學了)                              | C.T.O全員 |
-| 2018年7月13日                                                    | 黃氏兄弟                                                                                          | C.T.O全員 |
-| 2018年7月14日                                                    | [17好聰明](../Page/17好聰明.md "wikilink") LIVE                                                     | C.T.O全員 |
-| 2018年7月18日                                                    | [娛樂百分百](https://zh.wikipedia.org/wiki/娛樂百分百 "wikilink") LIVE                                  | C.T.O全員 |
-| [完全娛樂](https://zh.wikipedia.org/wiki/完全娛樂 "wikilink") LIVE    | C.T.O全員                                                                                       |         |
-| 2018年7月19日                                                    | 小姐搞事情 LIVE                                                                                    | C.T.O全員 |
-| 2018年7月28日                                                    | [完全娛樂](https://zh.wikipedia.org/wiki/完全娛樂 "wikilink")(小賴舞蹈教室)                                 | C.T.O全員 |
-| 2018年7月30日                                                    | [娛樂百分百](https://zh.wikipedia.org/wiki/娛樂百分百 "wikilink")(粉MEETING)                             | C.T.O全員 |
-| 2018年8月9日                                                     | MTV我愛偶像                                                                                       | C.T.O全員 |
-| 2018年8月24日                                                    | [完全娛樂](https://zh.wikipedia.org/wiki/完全娛樂 "wikilink")(我們上床吧)                                  | C.T.O全員 |
-| 2018年9月7日                                                     | [中國音樂公告牌](../Page/中國音樂公告牌.md "wikilink")([愛奇藝](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink")) | C.T.O全員 |
-| 2018年9月9日                                                     | 天天向上                                                                                          | C.T.O全員 |
-| 2019年6月26日                                                    | [娛樂百分百](https://zh.wikipedia.org/wiki/娛樂百分百 "wikilink") LIVE                                  | C.T.O全員 |
-| 2019年7月7日                                                     | [極限挑戰第五季](https://zh.wikipedia.org/wiki/極限挑戰 "wikilink") 第九集                                  | C.T.O全員 |
-| 2019年7月11日                                                    | [完全娛樂](https://zh.wikipedia.org/wiki/完全娛樂 "wikilink")(就是要John玩)                               | C.T.O全員 |
-| 2019年7月12日                                                    | [娛樂百分百](https://zh.wikipedia.org/wiki/娛樂百分百 "wikilink")(粉MEETING)                             | C.T.O全員 |
-| 2019年7月17日                                                    | [完全娛樂](https://zh.wikipedia.org/wiki/完全娛樂 "wikilink") LIVE                                    | C.T.O全員 |
-| 2019年7月18日                                                    | [完全娛樂](https://zh.wikipedia.org/wiki/完全娛樂 "wikilink")(就是要John賭)                               | C.T.O全員 |
-| 呵Bar LIVE                                                     | C.T.O全員                                                                                       |         |
-| 2019年7月19日                                                    | MTV [我愛偶像LULU LAND](https://zh.wikipedia.org/wiki/我愛偶像LULU_LAND "wikilink")                   | C.T.O全員 |
-| 2019年7月25日                                                    | [娛樂百分百](https://zh.wikipedia.org/wiki/娛樂百分百 "wikilink")(玩豬格格)                                 | C.T.O全員 |
-| 2019年8月5日                                                     | 黃氏兄弟                                                                                          | C.T.O全員 |
-| 2019年8月8日                                                     | [娛樂百分百](https://zh.wikipedia.org/wiki/娛樂百分百 "wikilink")(凹嗚狼人殺)                                | C.T.O全員 |
-| 2019年8月9日                                                     | [娛樂百分百](https://zh.wikipedia.org/wiki/娛樂百分百 "wikilink")(凹嗚狼人殺)                                | C.T.O全員 |
-| 2019年8月15日                                                    | [型男大主廚](../Page/型男大主廚.md "wikilink")                                                          | C.T.O全員 |
-| 2019年8月16日                                                    | 佼心食堂 LIVE                                                                                     | C.T.O全員 |
-| [完全娛樂](https://zh.wikipedia.org/wiki/完全娛樂 "wikilink")(小賴舞蹈教室) | C.T.O全員                                                                                       |         |
-| 2019年8月18日                                                    | [娛樂壹級棒](../Page/娛樂壹級棒.md "wikilink")                                                          | C.T.O全員 |
+|                                                               |                                                                                               |
+| ------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| 日期                                                            | 節目名稱                                                                                          |
+| 2018年7月6日                                                     | 明星鍵盤手 LIVE                                                                                    |
+| 2018年7月13日                                                    | [娛樂百分百](https://zh.wikipedia.org/wiki/娛樂百分百 "wikilink")(二年八班開學了)                              |
+| 2018年7月13日                                                    | 黃氏兄弟                                                                                          |
+| 2018年7月14日                                                    | [17好聰明](../Page/17好聰明.md "wikilink") LIVE                                                     |
+| 2018年7月18日                                                    | [娛樂百分百](https://zh.wikipedia.org/wiki/娛樂百分百 "wikilink") LIVE                                  |
+| [完全娛樂](https://zh.wikipedia.org/wiki/完全娛樂 "wikilink") LIVE    |                                                                                               |
+| 2018年7月19日                                                    | 小姐搞事情 LIVE                                                                                    |
+| 2018年7月28日                                                    | [完全娛樂](https://zh.wikipedia.org/wiki/完全娛樂 "wikilink")(小賴舞蹈教室)                                 |
+| 2018年7月30日                                                    | [娛樂百分百](https://zh.wikipedia.org/wiki/娛樂百分百 "wikilink")(粉MEETING)                             |
+| 2018年8月9日                                                     | MTV我愛偶像                                                                                       |
+| 2018年8月24日                                                    | [完全娛樂](https://zh.wikipedia.org/wiki/完全娛樂 "wikilink")(我們上床吧)                                  |
+| 2018年9月7日                                                     | [中國音樂公告牌](../Page/中國音樂公告牌.md "wikilink")([愛奇藝](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink")) |
+| 2018年9月9日                                                     | 天天向上                                                                                          |
+| 2019年6月26日                                                    | [娛樂百分百](https://zh.wikipedia.org/wiki/娛樂百分百 "wikilink") LIVE                                  |
+| 2019年7月7日                                                     | [極限挑戰第五季](https://zh.wikipedia.org/wiki/極限挑戰 "wikilink") 第九集                                  |
+| 2019年7月11日                                                    | [完全娛樂](https://zh.wikipedia.org/wiki/完全娛樂 "wikilink")(就是要John玩)                               |
+| 2019年7月12日                                                    | [娛樂百分百](https://zh.wikipedia.org/wiki/娛樂百分百 "wikilink")(粉MEETING)                             |
+| 2019年7月17日                                                    | [完全娛樂](https://zh.wikipedia.org/wiki/完全娛樂 "wikilink") LIVE                                    |
+| 2019年7月18日                                                    | [完全娛樂](https://zh.wikipedia.org/wiki/完全娛樂 "wikilink")(就是要John賭)                               |
+| 呵Bar LIVE                                                     |                                                                                               |
+| 2019年7月19日                                                    | MTV [我愛偶像LULU LAND](https://zh.wikipedia.org/wiki/我愛偶像LULU_LAND "wikilink")                   |
+| 2019年7月25日                                                    | [娛樂百分百](https://zh.wikipedia.org/wiki/娛樂百分百 "wikilink")(玩豬格格)                                 |
+| 2019年8月5日                                                     | 黃氏兄弟                                                                                          |
+| 2019年8月8日                                                     | [娛樂百分百](https://zh.wikipedia.org/wiki/娛樂百分百 "wikilink")(凹嗚狼人殺)                                |
+| 2019年8月9日                                                     | [娛樂百分百](https://zh.wikipedia.org/wiki/娛樂百分百 "wikilink")(凹嗚狼人殺)                                |
+| 2019年8月15日                                                    | [型男大主廚](../Page/型男大主廚.md "wikilink")                                                          |
+| 2019年8月16日                                                    | 佼心食堂 LIVE                                                                                     |
+| [完全娛樂](https://zh.wikipedia.org/wiki/完全娛樂 "wikilink")(小賴舞蹈教室) |                                                                                               |
+| 2019年8月18日                                                    | [娛樂壹級棒](../Page/娛樂壹級棒.md "wikilink")                                                          |
+| 2019年8月20日                                                    | [娛樂百分百](https://zh.wikipedia.org/wiki/娛樂百分百 "wikilink")(誰是瞎掰王)                                |
+| 2019年8月29日                                                    | [娛樂百分百](https://zh.wikipedia.org/wiki/娛樂百分百 "wikilink")(大腦開機吧)                                |
 
 ### 電台節目
 

@@ -88,6 +88,10 @@
 
   - 2018年6月30日，旗下男子團體[B1A4](../Page/B1A4.md "wikilink")成員[振永](../Page/振永.md "wikilink")、[Baro](../Page/Baro.md "wikilink")合約到期不續約，離開公司。
 
+<!-- end list -->
+
+  - 2019年8月23日，旗下男子團體[ONF成員](https://zh.wikipedia.org/wiki/ONF "wikilink")[Laun因私人原因和公司解約並退出團體](https://zh.wikipedia.org/wiki/Laun "wikilink")。
+
 ## 旗下藝人
 
 ### 組合
@@ -126,8 +130,8 @@
 <td><p>2017年8月2日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONF" title="wikilink">ONF</a></p></td>
 <td><p>男</p></td>
-<td><p>Hyojin{{·}}E-TION{{·}}J-US{{·}}Wyatt<br />
-MK{{·}}U{{·}}Laun</p></td>
+<td><p>Hyojin{{·}}E-TION{{·}}J-US<br />
+Wyatt{{·}}MK{{·}}U</p></td>
 <td><p>ON：Hyojin<br />
 OFF：J-US</p></td>
 <td><p>Fuse</p></td>
@@ -247,6 +251,17 @@ OFF：J-US</p></td>
 <td><p>2017年</p></td>
 <td><p>2018年</p></td>
 <td><p>—</p></td>
+</tr>
+<tr class="even">
+<td><p>2017年</p></td>
+<td><p>Laun</p></td>
+<td><p>男</p></td>
+<td><p>1999</p></td>
+<td><p>Fuse</p></td>
+<td><p>—</p></td>
+<td><p>2017年</p></td>
+<td><p>2019年</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ONF" title="wikilink">ONF</a></p></td>
 </tr>
 </tbody>
 </table>

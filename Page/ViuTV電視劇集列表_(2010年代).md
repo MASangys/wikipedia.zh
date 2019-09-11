@@ -1779,7 +1779,7 @@
 <td><p><a href="../Page/大叔的愛.md" title="wikilink">大叔的愛 特別篇</a></p></td>
 <td><p><a href="../Page/田中圭.md" title="wikilink">田中圭</a></p></td>
 <td></td>
-<td></td>
+<td><p>因臨時插播《特別新聞報道》，該劇集播出幾分鐘後被腰斬。</p></td>
 </tr>
 <tr class="odd">
 <td><p>9月2日</p></td>

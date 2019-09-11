@@ -1,4 +1,4 @@
-**RANIA**（，全寫為**R**egener**A**tio**N** **I**dol of **A**sia）是韓國DR Music所推出的女子流行音樂團體，2016年12月28日至2017年9月曾更名為**BP RANIA**（），出道時的七位成員包括、[Riko](../Page/Riko.md "wikilink")、[Saem](https://zh.wikipedia.org/wiki/黃以娜 "wikilink")、[珠伊](../Page/Cosmic_Girl.md "wikilink")、[Di](../Page/金多萊.md "wikilink")、[T-ae](../Page/李太恩.md "wikilink")、[Xia](../Page/張真詠.md "wikilink")，並在[2011年](../Page/2011年.md "wikilink")[4月](../Page/4月.md "wikilink")以首張單曲《Teddy Riley, The First Expansion In Asia》正式出道。在經過了成員的變遷後，現任成員為[志恩](../Page/康志恩.md "wikilink")、[惠美](https://zh.wikipedia.org/wiki/惠美_\(1995年\) "wikilink")。
+**RANIA**（，全寫為**R**egener**A**tio**N** **I**dol of **A**sia）是韓國DR Music所推出的女子流行音樂團體，2016年12月28日至2017年9月曾更名為**BP RANIA**（），出道時的七位成員包括、[Riko](../Page/Riko.md "wikilink")、[Saem](https://zh.wikipedia.org/wiki/黃以娜 "wikilink")、[珠伊](../Page/Cosmic_Girl.md "wikilink")、[Di](../Page/金多萊.md "wikilink")、[T-ae](../Page/李太恩.md "wikilink")、[Xia](../Page/張真詠.md "wikilink")，並在[2011年](../Page/2011年.md "wikilink")[4月](../Page/4月.md "wikilink")以首張單曲《Teddy Riley, The First Expansion In Asia》正式出道。在經過了成員的變遷後，現任成員為[惠美](https://zh.wikipedia.org/wiki/惠美_\(1995年\) "wikilink")、Namfon、瑛欣、丞泫、Larissa。
 
 ## 經歷
 
@@ -78,11 +78,15 @@ RANIA為原[Baby V.O.X製作人培養四年的組合](../Page/Baby_V.O.X.md "wik
 
 ### 2019年：成員變動
 
-3月21日，Zi.U和Namfon在各自的[Instagram](../Page/Instagram.md "wikilink")帳戶上刪除有關**RANIA**的照片，可推測已退出\[45\]。
+3月21日，Zi.U在[Instagram](../Page/Instagram.md "wikilink")帳戶上刪除有關**RANIA**的照片，可推測已退出\[45\]。
+
+8月18日，DR Music公布RANIA將會在9月4日至9月5日到[羅馬尼亞](../Page/羅馬尼亞.md "wikilink")參與演出\[46\]，但當時官方尚未公布志恩、Zi.U、Ttabo的退出。
+
+8月28日，RANIA透過粉絲站的YouTube帳戶上傳了有關[羅馬尼亞](../Page/羅馬尼亞.md "wikilink")演出和加入三位新成員的影片，三位新成員包括瑛欣、丞泫和Larissa，當中瑛欣為前[Stellar](../Page/Stellar.md "wikilink")成員，Larissa為日本和巴西混血兒，RANIA重回五人體制活動。同時，官方立場也證實了志恩、Zi.U和Ttabo已正式退出\[47\]。
 
 ## 粉絲團
 
-《STYLE》的宣傳活動開始的同時，RANIA的官方粉絲團正式成立。其粉絲團名稱為A1st（讀音：A first），其意思是**A**sia No.**1** \<**S**EXY\>,<SHINE>,**T**eam RANIA Surpporter。其應援色為葡萄柚色\[46\]。
+《STYLE》的宣傳活動開始的同時，RANIA的官方粉絲團正式成立。其粉絲團名稱為A1st（讀音：A first），其意思是**A**sia No.**1** \<**S**EXY\>,<SHINE>,**T**eam RANIA Surpporter。其應援色為葡萄柚色\[48\]。
 
 ## 成員資料
 
@@ -91,8 +95,11 @@ RANIA為原[Baby V.O.X製作人培養四年的組合](../Page/Baby_V.O.X.md "wik
 | 現任成員列表                                                          |
 | 藝名                                                              |
 | 藝名                                                              |
-| **[志恩](../Page/康志恩.md "wikilink")**                             |
+| **瑛欣**                                                          |
 | **[惠美](https://zh.wikipedia.org/wiki/惠美_\(1995年\) "wikilink")** |
+| **丞泫**                                                          |
+| **Larissa**                                                     |
+| **Namfon**                                                      |
 | 已退出成員列表                                                         |
 | ****                                                            |
 | ****                                                            |
@@ -101,16 +108,16 @@ RANIA為原[Baby V.O.X製作人培養四年的組合](../Page/Baby_V.O.X.md "wik
 | **[Di](../Page/金多萊.md "wikilink")**                             |
 | **[T-ae](../Page/李太恩.md "wikilink")**                           |
 | **[Xia](../Page/張真詠.md "wikilink")**                            |
-| **[以娜](https://zh.wikipedia.org/wiki/黃以娜 "wikilink")**\[47\]    |
+| **[以娜](https://zh.wikipedia.org/wiki/黃以娜 "wikilink")**\[49\]    |
 |                                                                 |
 | ****                                                            |
 | **[Alex](../Page/亞歷珊德拉·里德.md "wikilink")**                      |
 | ****                                                            |
-| ****\[48\]                                                      |
+| ****\[50\]                                                      |
 | **[俞敏](../Page/俞敏.md "wikilink")**                              |
 | **[Ttabo](../Page/Ttabo.md "wikilink")**                        |
 | **[Zi.U](../Page/Zi.U.md "wikilink")**                          |
-| Namfon                                                          |
+| **[志恩](../Page/康志恩.md "wikilink")**                             |
 | 出道前已退出成員列表                                                      |
 | ****                                                            |
 | **[景淑](../Page/金景淑.md "wikilink")**                             |
@@ -121,58 +128,45 @@ RANIA為原[Baby V.O.X製作人培養四年的組合](../Page/Baby_V.O.X.md "wik
 
 ### 成員變動時間表
 
-<timeline> ImageSize = width:650 height:350 PlotArea = width:500 height:300 left:125 bottom:35 Alignbars = justify DateFormat = mm/dd/yyyy Period = from:2011 till:2019 TimeAxis = orientation:horizontal format:mm/yyyy
+<timeline> ImageSize = width:650 height:250 PlotArea = width:475 height:225 left:75 bottom:20 Alignbars = justify DateFormat = mm/dd/yyyy Period = from:04/06/2011 till:12/31/2019 TimeAxis = orientation:horizontal format:yyyy
 
 Colors =
 
-` id:Inactive value:rgb(0,0,0) legend:Inactive`
-` id:lightgrey value:gray(0.9)`
-` id:grey  value:gray(0.5)`
-` id:darkgrey  value:gray(0.1)`
+`id:a value:rgb(1,0,0) legend:FirstGeneration`
+`id:b value:rgb(1,0.5,0) legend:SecondGeneration`
+`id:c value:rgb(1,1,0) legend:ThirdGeneration`
+`id:d value:rgb(0,1,0) legend:FourthGeneration`
+`id:e value:rgb(0,0,1) legend:FifthGeneration`
+`id:f value:rgb(1,0,1) legend:SixthGeneration`
 
-ScaleMajor = unit:year increment:1 start:2011 gridcolor:black
+Legend = orientation:horizontal position:bottom ScaleMajor = unit:year increment:1 start:2012 gridcolor:black
 
 PlotData =
 
-` fontsize:S`
-` color:blue width:10 textcolor:black align:left anchor:from`
-` bar:YiNa from:04/06/2011 till:04/30/2014`
-` color:blue width:10 textcolor:black align:left anchor:from`
-` bar:YiNa from:12/28/2016 till:06/08/2017`
-` color:blue width:10 textcolor:black align:left anchor:from`
-` bar:YiJo from:04/06/2011 till:04/30/2011`
-` color:blue width:10 textcolor:black align:left anchor:from`
-` bar:Riko from:04/06/2011 till:03/08/2013`
-` color:blue width:10 textcolor:black align:left anchor:from`
-` bar:JooYi from:04/06/2011 till:12/01/2014`
-` color:darkblue width:10 textcolor:black align:left anchor:from`
-` bar:Alexandra from:11/04/2015 till:08/19/2017`
-` color:blue width:10 textcolor:black align:left anchor:from`
-` bar:Joy from:04/06/2011 till:06/12/2012`
-` color:blue width:10 textcolor:black align:left anchor:from`
-` bar:JiHyun from:06/26/2016 till:09/01/2016`
-` color:blue width:10 textcolor:black align:left anchor:from`
-` bar:Di from:04/06/2011 till:05/26/2016`
-` color:blue width:10 textcolor:black align:left anchor:from`
-` bar:Sharon from:04/30/2014 till:04/01/2015`
-` color:blue width:10 textcolor:black align:left anchor:from`
-` bar:T-ae from:04/06/2011 till:05/26/2016`
-` color:skyblue width:10 textcolor:black align:left anchor:from`
-` bar:JiEun from:06/26/2016 till:end`
-` color:blue width:10 textcolor:black align:left anchor:from`
-` bar:Xia from:04/06/2011 till:05/26/2016`
-` color:blue width:10 textcolor:black align:left anchor:from`
-` bar:Crystal from:06/26/2016 till:09/01/2016`
-` color:skyblue width:10 textcolor:black align:left anchor:from`
-` bar:YuMin from:12/28/2016 till:05/30/2018`
-` color:darkblue width:10 textcolor:black align:left anchor:from`
-` bar:Zi.U from:11/03/2015 till:03/21/2019`
-` color:skyblue width:10 textcolor:black align:left anchor:from`
-` bar:Ttabo from:10/25/2016 till:11/07/2018`
-` color:darkblue width:10 textcolor:black align:left anchor:from`
-` bar:HyeMe from:12/01/2014 till:end`
-` color:skyblue width:10 textcolor:black align:left anchor:from`
-` bar:Namfon from:05/31/2018 till:03/21/2019`
+`color:a width:7 textcolor:black align:left anchor:from`
+`bar:Yijo         from:start      till:04/30/2011`
+`bar:Joy          from:start      till:06/12/2012`
+`bar:Riko         from:start      till:03/08/2013`
+`bar:Jooyi        from:start      till:01/15/2015`
+`bar:Di           from:start      till:05/26/2016`
+`bar:T-ae         from:start      till:05/26/2016`
+`bar:Xia          from:start      till:05/26/2016`
+`bar:Yina         from:start      till:05/12/2014`
+`bar:Yina         from:12/27/2016 till:06/08/2017`
+`color:b width:7 textcolor:black align:left anchor:from`
+`bar:Alex         from:11/03/2015 till:08/19/2017`
+`bar:Zi.U         from:11/03/2015 till:03/19/2019        `
+`bar:Hyeme        from:11/03/2015 till:end       `
+`color:c width:7 textcolor:black align:left anchor:from`
+`bar:Yumin        from:12/25/2016 till:05/30/2018`
+`bar:Ttabo        from:12/26/2016 till:11/07/2018        `
+`bar:Jieun        from:12/24/2016 till:08/28/2019     `
+`color:d width:7 textcolor:black align:left anchor:from`
+`bar:Namfon       from:06/28/2018 till:end`
+`color:e width:7 textcolor:black align:left anchor:from`
+`bar:Youngheun    from:08/28/2019 till:end    `
+`bar:Seonghyun      from:08/28/2019 till:end`
+`bar:Larissa    from:08/28/2019 till:end`
 
 </timeline>
 
@@ -187,8 +181,9 @@ PlotData =
 | 第一任 | [以娜](https://zh.wikipedia.org/wiki/黃以娜 "wikilink") | 2011年至2014年4月         |
 | 第二任 | [珠伊](../Page/Cosmic_Girl.md "wikilink")            | 2014年5月至2014年10月      |
 | 第三任 | [Di](../Page/金多萊.md "wikilink")                    | 2014年12月至2016年5月      |
-| 第四任 | [Alexandra](../Page/亞歷珊德拉·里德.md "wikilink")\[49\]  | 2016年8月15日至2017年8月19日 |
-| 第五任 | [志恩](../Page/康志恩.md "wikilink")                    | 2016年12月30日至今         |
+| 第四任 | [Alexandra](../Page/亞歷珊德拉·里德.md "wikilink")\[51\]  | 2016年8月15日至2017年8月19日 |
+| 第五任 | [志恩](../Page/康志恩.md "wikilink")                    | 2016年12月30日至2019年8月   |
+| 第六任 | 瑛欣                                                 | 2019年8月至今             |
 
 ## 音樂作品
 
@@ -425,7 +420,9 @@ PlotData =
 43.
 44.
 45.
-46. [For those asking here is a sketch of the light stick that Dr Music approved](http://twitter.com/A1STSherlock/status/772165761808859136)
-47. [**이나**在新浪微博上正名](http://tw.weibo.com/5623157712)
-48. 退出後，曾以本名加入[O My Jewel](../Page/O_My_Jewel.md "wikilink")
-49. [Alex在8月15日發布的Twitter貼文](http://twitter.com/thealexreid/status/764879171663241217)
+46. [RANIA的官方Instagram於2019年8月18日發佈的貼文](https://www.instagram.com/p/B1Utn0Unkkf/)
+47.
+48. [For those asking here is a sketch of the light stick that Dr Music approved](http://twitter.com/A1STSherlock/status/772165761808859136)
+49. [**이나**在新浪微博上正名](http://tw.weibo.com/5623157712)
+50. 退出後，曾以本名加入[O My Jewel](../Page/O_My_Jewel.md "wikilink")
+51. [Alex在8月15日發布的Twitter貼文](http://twitter.com/thealexreid/status/764879171663241217)

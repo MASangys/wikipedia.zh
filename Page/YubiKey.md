@@ -24,6 +24,8 @@ Yubico已使用闭源代码替换了YubiKey 4中全部开源组件，这使得�
 
   - Bitbucket
 
+  - Bitwarden
+
   - Compose
 
   - Dashlane

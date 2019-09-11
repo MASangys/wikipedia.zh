@@ -502,7 +502,7 @@
 <tr class="even">
 <td><p>15</p></td>
 <td><p>3月30日</p></td>
-<td><p><strong><a href="../Page/張曦雯.md" title="wikilink">張曦雯</a>、<a href="https://zh.wikipedia.org/wiki/蔡思貝" title="wikilink">蔡思貝</a></strong><br />
+<td><p><strong><a href="../Page/張曦雯.md" title="wikilink">張曦雯</a>、<a href="../Page/蔡思貝.md" title="wikilink">蔡思貝</a></strong><br />
 <a href="https://zh.wikipedia.org/wiki/陳嘉寶" title="wikilink">陳嘉寶</a>、<a href="../Page/賴慰玲.md" title="wikilink">賴慰玲</a></p></td>
 <td><p><strong>1500</strong><br />
 2000</p></td>
@@ -765,7 +765,7 @@
 <td><p>04</p></td>
 <td><p>8月11日</p></td>
 <td><p><strong><a href="../Page/袁偉豪.md" title="wikilink">袁偉豪</a>、<a href="../Page/王君馨.md" title="wikilink">王君馨</a></strong><br />
-<a href="https://zh.wikipedia.org/wiki/蔡思貝" title="wikilink">蔡思貝</a>、<a href="../Page/余德丞.md" title="wikilink">余德丞</a></p></td>
+<a href="../Page/蔡思貝.md" title="wikilink">蔡思貝</a>、<a href="../Page/余德丞.md" title="wikilink">余德丞</a></p></td>
 <td><p><strong>2100</strong><br />
 1500</p></td>
 <td><p><a href="../Page/經濟艙.md" title="wikilink">經濟艙</a></p></td>
@@ -794,15 +794,76 @@
 <tr class="even">
 <td><p>06</p></td>
 <td><p>8月25日</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p><strong><a href="../Page/黎耀祥.md" title="wikilink">黎耀祥</a>、<a href="https://zh.wikipedia.org/wiki/胡定欣" title="wikilink">胡定欣</a></strong><br />
+<a href="../Page/李思捷.md" title="wikilink">李思捷</a>、<a href="../Page/田蕊妮.md" title="wikilink">田蕊妮</a></p></td>
+<td><p><strong>2400</strong><br />
+1400</p></td>
+<td><p><a href="../Page/商務艙.md" title="wikilink">商務艙</a></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/夏洛特阿馬利亞" title="wikilink">夏洛特阿馬利亞</a></strong><br />
+<a href="https://zh.wikipedia.org/wiki/聖弗朗西斯科德馬科里斯" title="wikilink">聖弗朗西斯科德馬科里斯</a></p></td>
+<td><p><strong><a href="../Page/美元.md" title="wikilink">美元</a></strong><br />
+<a href="https://zh.wikipedia.org/wiki/多明尼加披索" title="wikilink">多明尼加披索</a></p></td>
+<td><p><strong>18816</strong><br />
+210</p></td>
+</tr>
+<tr class="odd">
+<td><p>07</p></td>
+<td><p>9月1日</p></td>
+<td><p><a href="../Page/周柏豪.md" title="wikilink">周柏豪</a>、<a href="https://zh.wikipedia.org/wiki/連詩雅" title="wikilink">連詩雅</a><br />
+<strong><a href="https://zh.wikipedia.org/wiki/謝東閔" title="wikilink">謝東閔</a>、<a href="../Page/戴祖儀.md" title="wikilink">戴祖儀</a></strong></p></td>
+<td><p>1700<br />
+<strong>2500</strong></p></td>
+<td><p><a href="../Page/商務艙.md" title="wikilink">商務艙</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/馬德普拉塔" title="wikilink">馬德普拉塔</a><br />
+<strong><a href="../Page/威廉斯塔德.md" title="wikilink">威廉斯塔德</a></strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/阿根廷披索" title="wikilink">阿根廷披索</a><br />
+<strong><a href="../Page/荷屬安的列斯盾.md" title="wikilink">荷屬安的列斯盾</a></strong></p></td>
+<td><p>289<br />
+<strong>10950</strong></p></td>
 </tr>
 </tbody>
 </table>
+
+## 問題專員拍攝地區
+
+  - 第一輯
+
+<!-- end list -->
+
+  - [張秀文](../Page/張秀文.md "wikilink")（ [台北](../Page/臺北市.md "wikilink")、[高雄](https://zh.wikipedia.org/wiki/高雄 "wikilink")）
+  - [周奕瑋](../Page/周奕瑋.md "wikilink")（ [東京](https://zh.wikipedia.org/wiki/東京 "wikilink")）
+  - [鄭金鈴](../Page/鄭金鈴.md "wikilink")（ [首爾](../Page/首爾.md "wikilink")）
+  - [梁芷珮](../Page/梁芷珮.md "wikilink")（ [三藩市](https://zh.wikipedia.org/wiki/三藩市 "wikilink")、[洛杉磯](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")、[聖地牙哥](../Page/聖地牙哥_\(加利福尼亞州\).md "wikilink")、[西雅圖](../Page/西雅圖.md "wikilink")、 [溫哥華](../Page/溫哥華.md "wikilink")、 [利馬](../Page/利馬.md "wikilink")）
+  - [胡慧冲](../Page/胡慧冲.md "wikilink")（ [曼谷](../Page/曼谷.md "wikilink")、[清邁](../Page/清邁.md "wikilink")）
+
+<!-- end list -->
+
+  - 第二輯
+
+<!-- end list -->
+
+  - [梁芷珮](../Page/梁芷珮.md "wikilink")（ [亞利桑那](https://zh.wikipedia.org/wiki/亞利桑那 "wikilink")、[拉斯維加斯](https://zh.wikipedia.org/wiki/拉斯維加斯 "wikilink")、 [溫哥華](../Page/溫哥華.md "wikilink")、 [馬賽](https://zh.wikipedia.org/wiki/馬賽 "wikilink")、[里昂](../Page/里昂.md "wikilink")、[波爾多](https://zh.wikipedia.org/wiki/波爾多 "wikilink")、[巴黎](../Page/巴黎.md "wikilink")）
+  - [鄺潔楹](../Page/鄺潔楹.md "wikilink")（ [東京](https://zh.wikipedia.org/wiki/東京 "wikilink")）
+  - [陳婉衡](../Page/陳婉衡.md "wikilink")（ [北海道](../Page/北海道.md "wikilink")）
+  - [葉韋彤](../Page/葉韋彤.md "wikilink")（ [首爾](../Page/首爾.md "wikilink")）
+  - [陳雅思](../Page/陳雅思.md "wikilink")、[潘梓鋒](../Page/潘梓鋒.md "wikilink")（ [濟州島](https://zh.wikipedia.org/wiki/濟州島 "wikilink")）
+  - [胡慧冲](../Page/胡慧冲.md "wikilink")（ [曼谷](../Page/曼谷.md "wikilink")、[佛丕府](https://zh.wikipedia.org/wiki/佛丕府 "wikilink")、[北柳府](https://zh.wikipedia.org/wiki/北柳府 "wikilink")）
+  - [梁凱晴](../Page/梁凱晴.md "wikilink")（ [台北](../Page/臺北市.md "wikilink")、[台中](https://zh.wikipedia.org/wiki/台中 "wikilink")、[台南](https://zh.wikipedia.org/wiki/台南 "wikilink")、[高雄](https://zh.wikipedia.org/wiki/高雄 "wikilink")、[屏東](../Page/屏東縣.md "wikilink")、[鹿港](https://zh.wikipedia.org/wiki/鹿港 "wikilink")、[松山](https://zh.wikipedia.org/wiki/松山區_\(臺北市\) "wikilink")、[西門町](../Page/西門町.md "wikilink")）
+
+<!-- end list -->
+
+  - 第三輯
+
+<!-- end list -->
+
+  - [梁芷珮](../Page/梁芷珮.md "wikilink")（、、、）
+  - [潘梓鋒](../Page/潘梓鋒.md "wikilink")（ [吉隆坡](../Page/吉隆坡.md "wikilink")）
+  - [胡慧冲](../Page/胡慧冲.md "wikilink")（）
+  - [梁凱晴](../Page/梁凱晴.md "wikilink")（）
+  - [陳貝兒](../Page/陳貝兒.md "wikilink")（）
+  - [何廣沛](../Page/何廣沛.md "wikilink")（ [夏威夷](https://zh.wikipedia.org/wiki/夏威夷 "wikilink")）
+  - [鄺潔楹](../Page/鄺潔楹.md "wikilink")（ [東京](https://zh.wikipedia.org/wiki/東京 "wikilink")）
+  - [周奕瑋](../Page/周奕瑋.md "wikilink")（ [關西](https://zh.wikipedia.org/wiki/關西 "wikilink")）
 
 ## 收視
 

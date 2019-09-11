@@ -22,8 +22,10 @@
 
 ## 使用國
 
-  - ：被[德國聯邦國防軍](../Page/德國聯邦國防軍.md "wikilink")的[特種部隊](../Page/特種部隊.md "wikilink")[指挥部和](https://zh.wikipedia.org/wiki/特种部队指挥部 "wikilink")所採用。
+  -   - [德國聯邦國防軍](../Page/德國聯邦國防軍.md "wikilink")
+          - [特種部隊](../Page/特種部隊.md "wikilink")[指挥部](https://zh.wikipedia.org/wiki/特种部队指挥部 "wikilink")
 
+          -
 ## 參見
 
   - [黑內爾RS8狙擊步槍](https://zh.wikipedia.org/wiki/黑內爾RS8狙擊步槍 "wikilink")，原型槍

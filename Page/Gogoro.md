@@ -1,4 +1,4 @@
-[Caowu_Square_gogoro_2019.jpg](https://zh.wikipedia.org/wiki/File:Caowu_Square_gogoro_2019.jpg "fig:Caowu_Square_gogoro_2019.jpg")草悟廣場分店\]\] **睿能創意股份有限公司**（）為僑外資，由Gogoro Inc.持有，代表人為陸學森（Horace Luke），於2011年8月29日在[中華民國](../Page/中華民國.md "wikilink")核可設立，在台灣持有兩座工廠，位於桃園市龜山區大華里頂湖路33號1、2樓，以及桃園市龜山區大華里頂湖路20號1、2、3樓（睿能創意股份有限公司二廠），工廠負責人皆為[陸學森](../Page/陸學森.md "wikilink")，負責製造Gogoro Smartscooter。
+[Caowu_Square_gogoro_2019.jpg](https://zh.wikipedia.org/wiki/File:Caowu_Square_gogoro_2019.jpg "fig:Caowu_Square_gogoro_2019.jpg")草悟廣場分店\]\] **睿能創意股份有限公司**（）為外商公司，由Gogoro Inc.持有，代表人為陸學森（Horace Luke），於2011年8月29日在[中華民國](../Page/中華民國.md "wikilink")核可設立，在台灣持有兩座工廠，位於桃園市龜山區大華里頂湖路33號1、2樓，以及桃園市龜山區大華里頂湖路20號1、2、3樓（睿能創意股份有限公司二廠），工廠負責人皆為[陸學森](../Page/陸學森.md "wikilink")，負責製造Gogoro Smartscooter。
 
 睿能創意股份有限公司持有**睿能創意營銷股份有限公司**（Gogoro Taiwan Sales And Services Limited），負責在台的銷售及服務。
 
@@ -72,6 +72,8 @@
 
 2019年7月22日，Gogoro 宣布將 Gogoro Energy Network 以 Gogoro Network 為名，為其成立獨立事業體，將專注於提供開放式的智慧電池交換平台及智慧移動服務。\[41\]\[42\]
 
+2019年8月21日，Gogoro 發表旗下第一台搭載ABS的車種 Gogoro S2 ABS
+
 ## 產品
 
 ### Smartscooter 智慧雙輪
@@ -80,7 +82,7 @@
 
 目前已經推出了Gogoro、Gogoro Plus、Gogoro S1（舊稱 Gogoro S ）與 2 人座級距的 Gogoro 2 、 Gogoro 2 Plus 、 Gogoro 2 Deluxe 、 Gogoro 2 Delight 、 Gogoro S2 八種車款，較低價的 Gogoro Lite 則在 Gogoro 2 系列上市後停產，可依照客戶要求改變外觀或是加購配件滿足不同消費者的需求，車體顏色部分以Gogoro Plus有6種車色供顧客選擇最為多樣。而Gogoro S1（舊稱Gogoro S）則是Gogoro 旗下加速性能最為優異的車款，官方宣稱從靜止狀態直線加速，能在3.7 秒內加速到50 km/h。
 
-#### Gogoro 1 Series **前所未有的騎乘體驗 A Ride Like No Other**
+#### Gogoro 1 Series 前所未有的騎乘體驗 A Ride Like No Other
 
 [替代= Gogoro 1 Series首次在CES 2015上亮相](https://zh.wikipedia.org/wiki/File:Gogoro_Smartscooter_\(16837566776\).jpg "fig:替代= Gogoro 1 Series首次在CES 2015上亮相") [缩略图](https://zh.wikipedia.org/wiki/File:Gogoro_1_Plus_Blue.jpg "fig:缩略图") [缩略图](https://zh.wikipedia.org/wiki/File:Gogoro_1_Series_可換式面板展示.jpg "fig:缩略图")
 
@@ -172,11 +174,17 @@ Gogoro Smartscooter全車採用了多項智慧科技，全車80個感應器（�
 
 2018年9月19日，Gogoro 發表了 iQ System® 5.0，提供 Gogoro 1 Series 及 Gogoro S1 搶先體驗，搭載「智慧感應鎖 Smart Keyless Lock (Beta)」，並為車輛新增快捷鍵，更為2018年式之前的 Gogoro 1 Series 及 Gogoro S1 帶來了期待已久的「按鈕回充開關」\[62\]\[63\]。
 
+###### iQ 5.1
+
+2019年8月24日，Gogoro 再次發佈 iQ System® 5.1，更新了新版的低速提示音並導入緊急煞車警示燈，在騎乘車速在一定時速下進行緊急煞車的情況下，左右方向燈會同時快速閃爍，以提醒後方用路人注意。
+
+另外在電池取出並關閉坐墊的情況下，將會有 30 秒左右的緩衝時間，車主可以按壓車廂開啟鍵再次開啟車廂。
+
 ##### 煞車系統
 
 Gogoro 1 Series採用前後碟煞設計，卡鉗形式為：前對向雙活塞（Gogoro S1為對向四活塞）、後單活塞。並於2018年式導入同步煞車系統（Synchronized Braking System，SBS），能夠分散煞車力道至前後輪，協助騎士更容易將車輛煞停，但會造成煞車時另一拉桿一起作動，被戲稱為「翹翹板」。Gogoro在1 Series上同樣有特殊的煞車系統設計，除了將煞車油壺隱藏在龍頭下方，且在Gogoro Plus上也有指示燈，可以在不拆卸龍頭的情況下以磁鐵靠近特定位置點亮煞車油量檢視燈快速判斷煞車油量（此項配備已在2017年式以煞車油量為每次維修保養檢測項目為由移除）\[64\]，有別於普通機車設計，Gogoro 1的煞車系統設計為前後煞車共用油壺，也因此一特殊設計，導致某些情況下造成煞車油壓異常，再加上煞車卡鉗、碟盤附著髒汙的情況下有機會發生異常煞車阻力過大的情形，情形嚴重者，會造成耗電上升、可能在行駛中讓ECU判定車輛處於高負載狀況而強制進入SMART智慧保護模式，更甚者在行駛過程中發現前煞車碟盤高溫冒煙，此一狀況不論在2015年式或2017年式的Gogoro 1上皆有機率發生，值得注意的是，此狀況似乎好發於前煞車，後煞車阻力過大情形則不多見。Gogoro官方初期針對此事件願意以較寬鬆的態度給予出保更換新品煞車，但也有車主在更換後依然遇到煞車阻力異常，隨著越來越多的車主反映此情況後，在2017年9月、10月Gogoro發出的車主通知信宣布決定將前輪轉動阻力檢查列入定期保養的項目，並免費更換透氣螺絲（過保者亦享有免費更換），適度釋放壓力，此一措施實施後，即便仍有部分車主反映煞車阻力過大，案例反應已逐漸下降。Gogoro針對前煞車阻力異常的處理方式，除了確認來令片、清理卡鉗碟盤部位以外，針對較嚴重者，會重新調整煞車油壓，以上方法不適用者，視情況予以出保固更換新品。
 
-#### Gogoro 2 Series **誰騎都適合 A Gogoro For Everyone**
+#### Gogoro 2 Series 誰騎都適合 A Gogoro For Everyone
 
 [左](https://zh.wikipedia.org/wiki/File:Gogoro_2_Series.jpg "fig:左")
 

@@ -48,7 +48,7 @@ IMAX中國有三个全资附属公司\[6\]
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>BEA IMAX @ <a href="https://zh.wikipedia.org/wiki/娱艺" title="wikilink">UA</a> <a href="../Page/MegaBox.md" title="wikilink">MegaBox</a></p></td>
+<td><p>IMAX @ <a href="https://zh.wikipedia.org/wiki/娱艺" title="wikilink">UA</a> <a href="../Page/MegaBox.md" title="wikilink">MegaBox</a></p></td>
 <td><p>IMAX數碼</p></td>
 <td><p>2007年6月-2010年（IMAX MPX）<br />
 2010-2017年7月11日（IMAX数码 5.1聲道音響系統）<br />
@@ -60,17 +60,6 @@ IMAX中國有三个全资附属公司\[6\]
 <td><p>中港台第一家設有12聲道音響系統的影院[10]</p></td>
 </tr>
 <tr class="even">
-<td><p>BEA IMAX @ <a href="https://zh.wikipedia.org/wiki/娱艺" title="wikilink">UA</a> <a href="https://zh.wikipedia.org/wiki/iSQUARE" title="wikilink">iSQUARE</a></p></td>
-<td><p>IMAX數碼</p></td>
-<td><p>2009年12月17日</p></td>
-<td><p>21.3</p></td>
-<td><p>11.8</p></td>
-<td><p>251.34</p></td>
-<td><p>2D：448<br />
-3D：380</p></td>
-<td><p>(可播放IMAX HFR)</p></td>
-</tr>
-<tr class="odd">
 <td><p><a href="../Page/機場UA_IMAX影院.md" title="wikilink">機場UA IMAX影院</a></p></td>
 <td><p>IMAX數碼</p></td>
 <td><p>2012年7月5日<br />
@@ -82,8 +71,8 @@ IMAX中國有三个全资附属公司\[6\]
 3D：324</p></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>BEA IMAX @ <a href="https://zh.wikipedia.org/wiki/娱艺" title="wikilink">UA</a> Cine Moko</p></td>
+<tr class="odd">
+<td><p>IMAX @ <a href="https://zh.wikipedia.org/wiki/娱艺" title="wikilink">UA</a> Cine Moko</p></td>
 <td><p>IMAX數碼</p></td>
 <td><p>2014年1月28日</p></td>
 <td><p>16.3[12]</p></td>
@@ -93,7 +82,7 @@ IMAX中國有三个全资附属公司\[6\]
 3D：220</p></td>
 <td><p>(可播放IMAX HFR)</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/百老匯院線.md" title="wikilink">MY CINEMA YOHO MALL</a></p></td>
 <td><p>IMAX數碼</p></td>
 <td><p>2017年7月21日</p></td>
@@ -104,7 +93,7 @@ IMAX中國有三个全资附属公司\[6\]
 367（前两排不开售）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -119,11 +108,11 @@ IMAX中國有三个全资附属公司\[6\]
 
 #### 新一代IMAX鐳射影院
 
-| 影城名称                                                                                           | 放映系统      | 開幕時間      | 寬度 | 高度 | 面積 | 座位数 | 備注 |
-| ---------------------------------------------------------------------------------------------- | --------- | --------- | -- | -- | -- | --- | -- |
-| [UA](https://zh.wikipedia.org/wiki/娱艺 "wikilink") [K11 MUSEA](../Page/K11_MUSEA.md "wikilink") | 新一代IMAX鐳射 | 预计2019年8月 |    |    |    |     |    |
-| 英皇戏院iSQUARE                                                                                    | 新一代IMAX鐳射 | 预计2020年   |    |    |    |     |    |
-|                                                                                                |           |           |    |    |    |     |    |
+| 影城名称                 | 放映系统      | 開幕時間       | 寬度   | 高度    | 面積      | 座位数 | 備注       |
+| -------------------- | --------- | ---------- | ---- | ----- | ------- | --- | -------- |
+| IMAX @ K11 Art House | 新一代IMAX鐳射 | 2019年8月26日 | 20.7 | 11.77 | 243.639 | 368 | 12聲道音響系統 |
+| 英皇戏院iSQUARE          | 新一代IMAX鐳射 | 预计2020年    |      |       |         |     |          |
+|                      |           |            |      |       |         |     |          |
 
 ### 臨時性IMAX影院
 
@@ -131,6 +120,46 @@ IMAX中國有三个全资附属公司\[6\]
 | -------------------------------------- | ------ | ---------- | ----- | ----- | -------- | --- | ----------------------------- |
 | [香港文化中心](../Page/香港文化中心.md "wikilink") | IMAX數碼 | 2014年6月19日 | 18.29 | 10.36 | 189.4844 |     | 《變形金剛：殲滅世紀》全球首映禮專用，已经拆除\[14\] |
 |                                        |        |            |       |       |          |     |                               |
+
+### IMAX數碼影院（已结业影城）
+
+<table>
+<thead>
+<tr class="header">
+<th><p>影城名称</p></th>
+<th><p>放映系统</p></th>
+<th><p>開幕時間</p></th>
+<th><p>寬度</p></th>
+<th><p>高度</p></th>
+<th><p>面積</p></th>
+<th><p>座位数</p></th>
+<th><p>備注</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>IMAX @ <a href="https://zh.wikipedia.org/wiki/娱艺" title="wikilink">UA</a> <a href="https://zh.wikipedia.org/wiki/iSQUARE" title="wikilink">iSQUARE</a></p></td>
+<td><p>IMAX數碼</p></td>
+<td><p>2009年12年17日-2019年8月25日</p></td>
+<td><p>21.3</p></td>
+<td><p>11.8</p></td>
+<td><p>251.34</p></td>
+<td><p>448（2D电影）<br />
+380（3D电影）</p></td>
+<td><p>(可播放IMAX HFR)撤场关闭，后续英皇戏院接手经营</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## [中國大陆的IMAX影院](https://zh.wikipedia.org/wiki/中國大陆 "wikilink")
 
@@ -3407,9 +3436,9 @@ IMAX中國有三个全资附属公司\[6\]
 <td><p>昆明万达影城（南亚光魔店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>预计2019年</p></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>17.33</p></td>
+<td><p>8.95</p></td>
+<td><p>155.1035</p></td>
 <td></td>
 <td><p>-</p></td>
 </tr>
@@ -6856,7 +6885,7 @@ IMAX中國有三个全资附属公司\[6\]
 <td><p>贵阳卢米埃影城<br />
 （花溪店）</p></td>
 <td><p>IMAX数字</p></td>
-<td><p>预计2019年6月22日</p></td>
+<td><p>2019年8月24日</p></td>
 <td><p>19.09</p></td>
 <td><p>10.02</p></td>
 <td><p>191.2818</p></td>
@@ -7559,7 +7588,7 @@ IMAX公司全球第1000家IMAX®影院[76]</p></td>
 （西山万达广场店）</p></td>
 <td><p>新一代IMAX激光</p></td>
 <td><p>2014年10月31日-2019年8月10日(IMAX数字)<br />
-预计2019年8月23日</p></td>
+2019年8月23日</p></td>
 <td><p>21.3<br />
 22.13</p></td>
 <td><p>11.91<br />
@@ -7574,7 +7603,7 @@ IMAX公司全球第1000家IMAX®影院[76]</p></td>
 （哈西万达广场店）</p></td>
 <td><p>新一代IMAX激光</p></td>
 <td><p>2013年9月13日-2019年8月8日(IMAX数字)<br />
-预计2019年8月25日</p></td>
+2019年8月25日</p></td>
 <td><p>20.54</p></td>
 <td><p>11.49</p></td>
 <td><p>236.0046</p></td>
@@ -7590,6 +7619,48 @@ IMAX公司全球第1000家IMAX®影院[76]</p></td>
 <td><p>11.76</p></td>
 <td><p>268.716</p></td>
 <td><p>368</p></td>
+<td><p>12聲道音響系統</p></td>
+</tr>
+<tr class="even">
+<td><p>济南万达影城(高新万达广场店)</p></td>
+<td><p>新一代IMAX激光</p></td>
+<td><p>2016年6月18日<br />
+预计2019年9月</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>360</p></td>
+<td><p>12聲道音響系統</p></td>
+</tr>
+<tr class="odd">
+<td><p>桂林万象影城（万象城IMAX激光店）</p></td>
+<td><p>新一代IMAX激光</p></td>
+<td><p>预计2019年9月25日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>5.1聲道音響系統</p></td>
+</tr>
+<tr class="even">
+<td><p>济南万象影城（万象城IMAX店）</p></td>
+<td><p>新一代IMAX激光</p></td>
+<td><p>预计2019年9月28日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>5.1聲道音響系統</p></td>
+</tr>
+<tr class="odd">
+<td><p>北京万达影城（石景山万达广场店）</p></td>
+<td><p>新一代IMAX激光</p></td>
+<td><p>2009年1月1日<br />
+预计2019年9月30日</p></td>
+<td><p>21.3</p></td>
+<td><p>12.6</p></td>
+<td><p>268</p></td>
+<td><p>433</p></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
 <tr class="even">
@@ -7629,17 +7700,6 @@ IMAX公司全球第1000家IMAX®影院[76]</p></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
 <tr class="odd">
-<td><p>济南万象影城<br />
-（万象城IMAX店）</p></td>
-<td><p>新一代IMAX激光</p></td>
-<td><p>预计2019年</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p>5.1聲道音響系統</p></td>
-</tr>
-<tr class="even">
 <td><p>北京万达影城<br />
 （通州万达广场店）</p></td>
 <td><p>新一代IMAX激光</p></td>
@@ -7654,30 +7714,7 @@ IMAX公司全球第1000家IMAX®影院[76]</p></td>
 <td><p>424</p></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
-<tr class="odd">
-<td><p>桂林万象影城<br />
-（万象城IMAX店）</p></td>
-<td><p>新一代IMAX激光</p></td>
-<td><p>预计2019年9月30日</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p>5.1聲道音響系統</p></td>
-</tr>
 <tr class="even">
-<td><p>北京万达影城<br />
-（石景山万达广场店）</p></td>
-<td><p>新一代IMAX激光</p></td>
-<td><p>2009年1月1日<br />
-预计2019年10月</p></td>
-<td><p>21.3</p></td>
-<td><p>12.6</p></td>
-<td><p>268</p></td>
-<td><p>433</p></td>
-<td><p>12聲道音響系統</p></td>
-</tr>
-<tr class="odd">
 <td><p>天津万达影城<br />
 （河东万达广场店）</p></td>
 <td><p>新一代IMAX激光</p></td>
@@ -7690,7 +7727,7 @@ IMAX公司全球第1000家IMAX®影院[76]</p></td>
 <td><p>398</p></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>石家庄万达影城<br />
 （裕华万达广场店）</p></td>
 <td><p>新一代IMAX激光</p></td>
@@ -7703,7 +7740,7 @@ IMAX公司全球第1000家IMAX®影院[76]</p></td>
 <td><p>385</p></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>长沙万达影城<br />
 （解放路悦荟广场店）</p></td>
 <td><p>新一代IMAX激光</p></td>
@@ -7716,7 +7753,7 @@ IMAX公司全球第1000家IMAX®影院[76]</p></td>
 <td><p>12聲道音響系統<br />
 IMAX中國第8家IMAX影院</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>青岛万达影城<br />
 （CBD万达广场店）</p></td>
 <td><p>新一代IMAX激光</p></td>
@@ -7732,7 +7769,7 @@ IMAX中國第8家IMAX影院</p></td>
 <td><p>374</p></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>北京UME国际影城<br />
 （华星店）</p></td>
 <td><p>新一代IMAX激光</p></td>
@@ -7747,7 +7784,7 @@ IMAX中國第8家IMAX影院</p></td>
 <td><p>IMAX中國第4家IMAX影院<br />
 12聲道音響系統</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>厦门万达影城<br />
 （湖里万达广场店）</p></td>
 <td><p>新一代IMAX激光</p></td>
@@ -7759,7 +7796,7 @@ IMAX中國第8家IMAX影院</p></td>
 <td><p>291</p></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>北京万达影城<br />
 （CBD万达广场店）</p></td>
 <td><p>新一代IMAX激光</p></td>
@@ -7772,7 +7809,7 @@ IMAX中國第8家IMAX影院</p></td>
 328</p></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>昆明园博园影城</p></td>
 <td><p>新一代IMAX激光</p></td>
 <td><p>待定</p></td>
@@ -7782,7 +7819,7 @@ IMAX中國第8家IMAX影院</p></td>
 <td></td>
 <td><p>聲道音響系統</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>

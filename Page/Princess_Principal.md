@@ -1,4 +1,4 @@
-《**Princess Principal**》（）是一部由[Studio 3Hz及](../Page/3Hz.md "wikilink")[Actas](../Page/Actas.md "wikilink")聯合製作的原創動畫，於2017年7月9日首播\[1\]。另外，以動畫為題的手機遊戲《Princess Principal: GAME OF MISSION》亦同時展開，預定於同年6月開始進行事前登錄\[2\]。2018年4月29日，官方宣布製作動畫續篇，預計總共六章，並於2019年在劇院公開\[3\]。另外，因為Principal與Principle發音相同，也被稱為公主代理人。
+《**Princess Principal**》（）是一部由[Studio 3Hz及](../Page/3Hz.md "wikilink")[Actas](../Page/Actas.md "wikilink")聯合製作的原創動畫，於2017年7月9日首播\[1\]。另外，以動畫為題的手機遊戲《Princess Principal: GAME OF MISSION》亦同時展開，預定於同年6月開始進行事前登錄\[2\]。(已於2018年12月28日15點閉服)2018年4月29日，官方宣布製作動畫續篇，預計總共六章，並於2019年冬季在劇院公開第一章\[3\]。另外，因為Principal與Principle發音相同，也被稱為公主代理人。
 
 ## 故事簡介
 

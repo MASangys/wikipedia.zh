@@ -6,7 +6,7 @@
 
 [CyanogenMod](../Page/CyanogenMod.md "wikilink")（常简称为“CM”）是一个非常流行的\[5\]基於Android行動裝置平台，為智慧型手機和平板電腦而設的免费[開放原始碼](../Page/开放源代码.md "wikilink")-{zh-hans:操作系统; zh-hant:作業系统; zh-cn:操作系统; zh-tw:作業系统; zh-hk:作業系统; zh-mo:作業系统; zh-my:操作系统; zh-sg:操作系统}-。虽然只有部分CyanogenMod使用者选择回報使用該系統，\[6\]但截至2015年3月23日，一些报告指出已有超过5000万人在他们的手机上裝載CyanogenMod。\[7\]\[8\]它也常被其他ROM的开发者作为二次訂製新系统的基础。
 
-2013年，CM的创始人史蒂夫·科迪克获得名为[Cyanogen公司的](https://zh.wikipedia.org/wiki/Cyanogen "wikilink")，使這項計畫得以商业化。\[9\]\[10\]但他認為公司没能成功地運用、發展這項計畫，於是他在2016年（可能被迫）離職\[11\]\[12\]。作为公司的一部分，这涉及到更换[首席执行長（CEO）](../Page/首席执行官.md "wikilink")、关闭辦事處，停止計畫及相關服务。\[13\]不過由於代碼本身屬於[开放原始码並極為熱門](https://zh.wikipedia.org/wiki/开放原始码 "wikilink")，因此很快地得以延續並被更名为LineageOS，其社群也开始努力復原這項計劃的发展。
+2013年，CM的创始人史蒂夫·科迪克获得名为[Cyanogen公司的](https://zh.wikipedia.org/wiki/Cyanogen "wikilink")，使這項計劃得以商业化。\[9\]\[10\]但他認為公司没能成功地運用、發展這項計畫，於是他在2016年（可能被迫）離職\[11\]\[12\]。作为公司的一部分，这涉及到更换[首席执行長（CEO）](../Page/首席执行官.md "wikilink")、关闭辦事處，停止計畫及相關服务。\[13\]不過由於代碼本身屬於[开放原始码並極為熱門](https://zh.wikipedia.org/wiki/开放原始码 "wikilink")，因此很快地得以延續並被更名为LineageOS，其社群也开始努力復原這項計劃的发展。
 
 CyanogenMod及继任者LineageOS会提供裝置製造商搭載的官方[韌體](../Page/韌體.md "wikilink")中尚未內建/開放的功能选项，它支援的功能特色包含：
 

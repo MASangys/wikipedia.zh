@@ -48,6 +48,10 @@ Sphero公司是在2014年Disney Accelerator Program中獲選的公司，從迪�
 
 Sphero公司在2017年6月將其先進機器人部門獨立成為新公司Misty Robotics\[46\]。
 
+2018年6月，Sphero收購Specdrums ，
+
+2019年8月，Sphero收購同業LittleBits， Sphero和LittleBits 合共售出超過 5 億美元的機器人和電子玩具產品，全球接觸到的學生數超過 600 萬，合共擁有超過 140 項在機器人、電子、軟體和 IoT 的專利。
+
 ## 參考資料
 
 ## 相關條目

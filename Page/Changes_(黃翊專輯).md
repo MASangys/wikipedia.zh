@@ -16,4 +16,4 @@
   - iTunes上的[《黃翊》](https://itunes.apple.com/hk/album/changes/id1290728576?l=zh)
   - 環球唱片網上商店UShop上的[《黃翊》](http://ushop.umwebzine.com/5793500.html)
 
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:1991年音樂專輯](https://zh.wikipedia.org/wiki/Category:1991年音樂專輯 "wikilink")
+[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:香港流行音乐专辑](https://zh.wikipedia.org/wiki/Category:香港流行音乐专辑 "wikilink") [Category:1991年音樂專輯](https://zh.wikipedia.org/wiki/Category:1991年音樂專輯 "wikilink")

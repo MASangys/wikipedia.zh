@@ -23,7 +23,7 @@
 <td><p>1</p></td>
 <td></td>
 <td><p><a href="../Page/T-Series.md" title="wikilink">T-Series</a>[9]</p></td>
-<td><p>108</p></td>
+<td><p>110</p></td>
 <td><p>T-Series[10]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/印地语" title="wikilink">印地语</a>[11]<ref>{{cite web |title=T-Series Rules YouTube's Airwaves, but Bhushan Kumar Is Not Stopping Here |url=<a href="https://economictimes.com/magazines/panache/t-series-rules-youtubes-airwaves-but-bhushan-kumar-is-not-stopping-here/articleshow/56748220.cms">https://economictimes.com/magazines/panache/t-series-rules-youtubes-airwaves-but-bhushan-kumar-is-not-stopping-here/articleshow/56748220.cms</a> |website={{tsl|en|The Economic Times</p></td>
 <td><p>The Economic Times}} |publisher={{tsl|en|Bennett, Coleman &amp; Co.</p></td>
@@ -32,7 +32,7 @@
 <td><p>2</p></td>
 <td></td>
 <td><p><a href="../Page/PewDiePie.md" title="wikilink">PewDiePie</a>[12]</p></td>
-<td><p>99</p></td>
+<td><p>100</p></td>
 <td><p><ref>{{cite web |title=Disney, Google Cut Ties with YouTube Star PewDiePie for Posting Anti-Semitic Content |url=<a href="https://www.entrepreneur.com/article/289207">https://www.entrepreneur.com/article/289207</a> |website={{tsl|en|Entrepreneur (magazine)</p></td>
 <td><p>Entrepreneur}} |accessdate=2018-08-05 |archiveurl=<a href="https://web.archive.org/web/20170214221207/https://www.entrepreneur.com/article/289207">https://web.archive.org/web/20170214221207/https://www.entrepreneur.com/article/289207</a> |deadurl=no |archivedate=2017-02-14}}</ref>[13]</p></td>
 <td><p><a href="../Page/英语.md" title="wikilink">英语</a>[14]</p></td>
@@ -42,7 +42,7 @@
 <td></td>
 <td><p>{{tsl|en|5-Minute Crafts</p></td>
 <td><p>5-Minute Crafts}}[15]</p></td>
-<td><p>59</p></td>
+<td><p>60</p></td>
 <td><p>{{tsl|en|Channel Frederator</p></td>
 <td><p>Channel Frederator}}[16]</p></td>
 </tr>
@@ -51,7 +51,7 @@
 <td></td>
 <td><p>{{tsl|en|Cocomelon - Nursery Rhymes</p></td>
 <td><p>Cocomelon - Nursery Rhymes}}[17]</p></td>
-<td><p>57</p></td>
+<td><p>58</p></td>
 <td><p>{{tsl|en|Fullscreen (company)</p></td>
 <td><p>Fullscreen}}[18]</p></td>
 </tr>
@@ -60,7 +60,7 @@
 <td></td>
 <td><p>{{tsl|en|SET India</p></td>
 <td><p>SET India}}[19]</p></td>
-<td><p>53</p></td>
+<td><p>54</p></td>
 <td><p>[20]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/印地语" title="wikilink">印地语</a><ref>{{cite web |title=SET India – About |url=<a href="https://www.youtube.com/user/setindia/about">https://www.youtube.com/user/setindia/about</a> |website=YouTube |publisher={{tsl|en|Sony Pictures Networks India</p></td>
 </tr>

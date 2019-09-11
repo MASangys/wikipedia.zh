@@ -1,4 +1,4 @@
-**李昕**（）[藝名](../Page/藝名.md "wikilink")**Amis艾蜜絲**曾在[中華職棒](https://zh.wikipedia.org/wiki/中華職棒 "wikilink")[Lamigirls與](https://zh.wikipedia.org/wiki/Lamigirls "wikilink")[Fubon Angels擔任](../Page/Fubon_Angels.md "wikilink")[啦啦隊](../Page/啦啦隊.md "wikilink")，在[臉書粉絲擁有超過](https://zh.wikipedia.org/wiki/臉書 "wikilink")30萬名粉絲且有「啦啦隊女神」美稱！\[1\]
+**李昕**（），[藝名](../Page/藝名.md "wikilink")**Amis艾蜜絲**曾在[中華職棒](https://zh.wikipedia.org/wiki/中華職棒 "wikilink")[Lamigirls與](https://zh.wikipedia.org/wiki/Lamigirls "wikilink")[Fubon Angels擔任](../Page/Fubon_Angels.md "wikilink")[啦啦隊](../Page/啦啦隊.md "wikilink")，在[臉書粉專擁有超過](https://zh.wikipedia.org/wiki/臉書 "wikilink")30萬名粉絲，且有「啦啦隊女神」美稱！\[1\]
 
 ## 經歷
 

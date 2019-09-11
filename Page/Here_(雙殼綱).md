@@ -13,8 +13,6 @@
 
 ## 外部連結
 
-[sv:Here](https://zh.wikipedia.org/wiki/sv:Here "wikilink")
-
 [Category:满月蛤科](https://zh.wikipedia.org/wiki/Category:满月蛤科 "wikilink")
 
 1.

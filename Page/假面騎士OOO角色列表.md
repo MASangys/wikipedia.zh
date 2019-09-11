@@ -22,7 +22,7 @@
     在48話得到了最初的TATOBA聯組，成為真正的OOO，但該硬幣於使用後即損毀。
     擊敗真木後，帶著Ankh的硬幣碎片，重新開始旅行。
     於\<[假面騎士×假面騎士 Fourze & OOO Movie大戰 Mega Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wikilink")\>中因Ankh的幫助而取回所有（除恐龍系硬幣以外，因在48話擊敗真木後，恐龍系硬幣吸進黑洞全被破壞）變身使用的硬幣，可以再次變身成**假面騎士OOO**。得以對抗來自40年後的**假面騎士波賽頓**，並救出湊海遙。事件過後，從海遙手上得到未來的Taka，Tora，Batta硬幣，變成Super TATOBA COMBA，與幪面超人Fourze擊敗超銀河王。
-    [假面騎士平成Generations FINAL Build & EX-AID with 傳說騎士](../Page/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士.md "wikilink") [假面騎士ZI-O中再次登場](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")
+    [假面騎士平成Generations FINAL Build & EX-AID with 傳說騎士](../Page/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士.md "wikilink") [假面騎士ZI-O第](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")9至10話中再次登場
 
 **伊達明（だて あきら）**（30）（[岩永洋昭](../Page/岩永洋昭.md "wikilink")飾/香港配音：[鄧志堅](../Page/鄧志堅.md "wikilink")、[張裕東](https://zh.wikipedia.org/wiki/張裕東 "wikilink")（代配））
 
@@ -87,6 +87,7 @@
     於吸收所有Medal後暴走，並開始穿越時空以滿足其對於戰鬥的慾望。
     波賽頓在映司與Ankh的計劃之下與海遙的身體脫離，最後被克服恐懼的海遙以AQUA的必殺技**Oceaning Break**擊敗，海遙在戰鬥結束後回到未來。
     在Movie大戰Mega Max最後一段歸來，將Super TaToBa變身用Medal交給映司。並與Stronger等七位幪面超人一起阻擋財團X的再生怪人，支援Fourze & OOO 去追擊超銀河王。
+    於[假面騎士ZI-O第](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")44至46話登場
 
 ## 主要人物
 
@@ -142,7 +143,7 @@
     擁有寂寞的一面，雖然對Ankh很不爽，面對他時都沒有好臉色。但因為一在他身旁就有懷念哥哥的感覺，所以一同冒險。
     因為不想讓自私的Ankh復原其身體而拿走KUJAKU，結果被Ankh捉著。
     第32話阻止映司因受五枚硬幣的影響組成了PuToTyra聯組的暴走。
-    假面騎士ZI-O中再次登場
+    [假面騎士ZI-O第](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")9至10話中再次登場。
 
 **白石千世子（しらいし ちよこ）**（30）（飾／香港配音：[林元春](https://zh.wikipedia.org/wiki/林元春 "wikilink")、[曾佩儀](https://zh.wikipedia.org/wiki/曾佩儀 "wikilink")（代配）／台灣配音：[高嘉鎂](https://zh.wikipedia.org/wiki/高嘉鎂 "wikilink")）
 

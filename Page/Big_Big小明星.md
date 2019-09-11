@@ -134,7 +134,9 @@
 | 109    | [7月27日](https://zh.wikipedia.org/wiki/7月27日 "wikilink") | 「Big Big KIDs」－小明星合力贏驕傲的GM    |
 | 110    | [8月3日](../Page/8月3日.md "wikilink")                      | 「Big Big KIDs」－GM、小明星合作鬥Linus |
 | 111    | [8月10日](../Page/8月10日.md "wikilink")                    | 「Big Big KIDs」－小明星的交友之道       |
-| 112    | [8月17日](../Page/8月17日.md "wikilink")                    | 「Big Big KIDs」－小明星            |
+| 112    | [8月17日](../Page/8月17日.md "wikilink")                    | 「Big Big KIDs」－小明星的消暑點子       |
+| 113    | [8月24日](../Page/8月24日.md "wikilink")                    | 「Big Big KIDs」－小明星談住處         |
+| 114    | [8月31日](../Page/8月31日.md "wikilink")                    |                               |
 
 ## 主持
 

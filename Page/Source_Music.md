@@ -1,4 +1,4 @@
-**Source Music**（）是[韓國的一間娛樂公司](https://zh.wikipedia.org/wiki/韓國 "wikilink")。過去曾與[Big Hit娛樂共同製作女團](../Page/Big_Hit娛樂.md "wikilink")[GLAM](../Page/GLAM.md "wikilink")，當前藝人包括女子組合[GFRIEND](../Page/GFRIEND.md "wikilink")以及歌手[簡美妍](../Page/簡美妍.md "wikilink")等。
+**Source Music**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Big Hit娛樂旗下全資娛樂公司](../Page/Big_Hit娛樂.md "wikilink")。目前經營策略為自主經營管理，曾與[Big Hit娛樂共同製作女團](../Page/Big_Hit娛樂.md "wikilink")[GLAM](../Page/GLAM.md "wikilink")，當前藝人包括女子組合[GFRIEND](../Page/GFRIEND.md "wikilink")以及歌手[簡美妍](../Page/簡美妍.md "wikilink")等。
 
 ## 歷史
 

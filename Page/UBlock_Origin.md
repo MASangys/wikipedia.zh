@@ -6,33 +6,31 @@ uBlock Origin已获得多家技术网站的赞誉，其内存占用比其他同�
 
 ## 历史
 
-uBlock Origin最初名为“μBlock”。名称后来被更改为“uBlock”以避免“µBlock”中“µ”的发音引致混乱。开发从[复刻](https://zh.wikipedia.org/wiki/复刻_\(软件工程\) "wikilink")（fork）开始，它基于和另一个为高级用户设计的名为uMatrix的拦截扩展的。\[9\]uBlock Origin是为利用社区维护的（又稱為「屏蔽列表」）而开发，\[10\]同时增加功能和将[代码质量纳入到](https://zh.wikipedia.org/wiki/软件质量 "wikilink")标准。\[11\]
+### uBlock
+
+[替代=uBlock Logo](https://zh.wikipedia.org/wiki/File:Ublock_2015.svg "fig:替代=uBlock Logo") uBlock Origin最初名为“μBlock”。名称后来被更改为“uBlock”以避免“µBlock”中“µ”的发音引致混乱。开发从[复刻](https://zh.wikipedia.org/wiki/复刻_\(软件工程\) "wikilink")（fork）开始，它基于和另一个为高级用户设计的名为uMatrix的拦截扩展的。\[9\]uBlock Origin是为利用社区维护的（又稱為「屏蔽列表」）而开发，\[10\]同时增加功能和将[代码质量纳入到](https://zh.wikipedia.org/wiki/软件质量 "wikilink")标准。\[11\]
 
 截至2015年4月和5月，uBlock项目演变为两个独立的代码库和扩展。uBlock以ublock.org为代表，而uBlock Origin反映了原开发者的持续努力。\[12\]
 
+在项目分裂后不久，Chris Aljoudi创建了ublock.org用以托管uBlock、宣传该扩展和请求捐助。對此，uBlock的创始人Raymond Hill表示“ublock.org所寻求的捐款不会使那些对创建uBlock Origin贡献最大的人受益。”\[13\]
+
+2015年10月，Aljoudi宣布uBlock for Safari不再开发。\[14\]
+
+该项目最后的源代码提交发生在2015年8月。\[15\]网站的安全证书已于2016年5月过期，并于2016年6月30日续订。2018年7月，uBlock被[AdBlock](../Page/AdBlock.md "wikilink")開發商收購。\[16\]
+
 ### uBlock Origin
 
-[替代=uBlock Origin Logo](https://zh.wikipedia.org/wiki/File:UBlock_Origin.svg "fig:替代=uBlock Origin Logo") Raymond Hill是uBlock的创始人和原始作者，它目前继续在名为uBlock Origin的扩展上工作，这有时被缩写（风格化）为「uBlock₀」。\[13\]截至2016年12月，uBlock Origin Chrome extension拥有700万活跃用户，Firefox版本有250万活跃用户。\[14\]\[15\]
+[替代=uBlock Origin Logo](https://zh.wikipedia.org/wiki/File:UBlock_Origin.svg "fig:替代=uBlock Origin Logo") Raymond Hill是uBlock的创始人和原始作者，它目前继续在名为uBlock Origin的扩展上工作，这有时被缩写（风格化）为「uBlock₀」。\[17\]截至2016年12月，uBlock Origin Chrome extension拥有700万活跃用户，Firefox版本有250万活跃用户。\[18\]\[19\]
 
-一则Sourcepoint与的联合调查报告说，在截至2015年8月的10个月跟踪期内，它的增长率为833%，在已列出软件中增长最快。\[16\]该报告将增长归因于用户对纯粹屏蔽软件的需求，而不想要有“[可接受广告](../Page/Adblock_Plus.md "wikilink")”的程序。\[17\]
+一则Sourcepoint与的联合调查报告说，在截至2015年8月的10个月跟踪期内，它的增长率为833%，在已列出软件中增长最快。\[20\]该报告将增长归因于用户对纯粹屏蔽软件的需求，而不想要有“[可接受广告](../Page/Adblock_Plus.md "wikilink")”的程序。\[21\]
 
-2016年1月，uBlock Origin被加入到[Debian](../Page/Debian.md "wikilink") 9和[Ubuntu](../Page/Ubuntu.md "wikilink") 16.04的代码库\[18\]\[19\]。2016年5月，该扩展被Mozilla选为“本月精选”。\[20\]
+2016年1月，uBlock Origin被加入到[Debian](../Page/Debian.md "wikilink") 9和[Ubuntu](../Page/Ubuntu.md "wikilink") 16.04的代码库\[22\]\[23\]。2016年5月，该扩展被Mozilla选为“本月精选”。\[24\]
 
-Ellis Tsung (el1t)於2016年12月9日發布了用於[MacOS Safari瀏覽器的uBlock](../Page/Safari.md "wikilink") Origin。\[21\]
+Ellis Tsung (el1t)於2016年12月9日發布了用於[MacOS Safari瀏覽器的uBlock](../Page/Safari.md "wikilink") Origin。\[25\]
 
-Nik Rolls于2016年12月11日正式发布了用于[微软Edge浏览器的uBlock](../Page/Microsoft_Edge.md "wikilink") Origin。\[22\]
+Nik Rolls于2016年12月11日正式发布了用于[微软Edge浏览器的uBlock](../Page/Microsoft_Edge.md "wikilink") Origin。\[26\]
 
-此项目特别的拒绝捐款。\[23\]
-
-### uBlock (ublock.org)
-
-[替代=uBlock Logo](https://zh.wikipedia.org/wiki/File:Ublock_2015.svg "fig:替代=uBlock Logo") 在项目分裂后不久，Chris Aljoudi创建了ublock.org用以托管uBlock、宣传该扩展和请求捐助。對此，uBlock的创始人Raymond Hill表示“ublock.org所寻求的捐款不会使那些对创建uBlock Origin贡献最大的人受益。”\[24\]
-
-在分裂之前，[Safari](../Page/Safari.md "wikilink")和[Firefox](../Page/Firefox.md "wikilink")的支持已随0.8.5.4和0.8.5.5版本（由开发者“Deathamns”）引入。Firefox代码库在Hill的要求下转让给Alex Vallat。Vallat随后也向uBlock Origin贡献了代码。
-
-2015年10月，Aljoudi宣布uBlock for Safari不再开发。\[25\]
-
-该项目最后的源代码提交发生在2015年8月。\[26\]网站的安全证书已于2016年5月过期，并于2016年6月30日续订。2018年7月，uBlock被[AdBlock](../Page/AdBlock.md "wikilink")開發商收購。\[27\]
+此项目特别的拒绝捐款。\[27\]
 
 ## 功能
 

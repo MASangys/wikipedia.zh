@@ -1,4 +1,4 @@
-**YouTuber**，是指YouTube[網路紅人或](https://zh.wikipedia.org/wiki/網路紅人 "wikilink")[YouTube](../Page/YouTube.md "wikilink")影片創作者。若只為於[社群媒體](https://zh.wikipedia.org/wiki/社群媒體 "wikilink")（[YouTube](../Page/YouTube.md "wikilink")）分享個人之人、事、時、地及物者，較宜以「創作者」稱呼。若為專業的官方頻道則不適合使用此一稱呼，雖然專業的官方頻道會產生較多的[影片](https://zh.wikipedia.org/wiki/影片 "wikilink")，但是使用者用戶的內容卻更受到歡迎。\[1\]熱門的頻道會佔據絕大多數的觀看次數。\[2\]
+**YouTuber**，是指YouTube[網路紅人或](https://zh.wikipedia.org/wiki/網路紅人 "wikilink")[YouTube](../Page/YouTube.md "wikilink")影片創作者。若只為在[社群媒體](https://zh.wikipedia.org/wiki/社群媒體 "wikilink")（[YouTube](../Page/YouTube.md "wikilink")）分享個人之人、事、時、地及物者，較宜以「創作者」稱呼。若為專業的官方頻道則不適合使用此一稱呼，雖然專業的官方頻道會發佈較多的[影片](https://zh.wikipedia.org/wiki/影片 "wikilink")，但是使用者用戶的內容卻更受到歡迎。\[1\]熱門的頻道會佔據絕大多數的觀看次數。\[2\]
 
 ## 定义
 

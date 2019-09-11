@@ -756,7 +756,7 @@
 <tr class="even">
 <td><p>89</p></td>
 <td><p>3月20日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/兪世潤" title="wikilink">兪世潤</a>、<a href="../Page/神童_(藝人).md" title="wikilink">神童</a> (<a href="../Page/Super_Junior.md" title="wikilink">Super Junior</a>)、、<a href="../Page/趙正治.md" title="wikilink">趙正治</a>、<a href="https://zh.wikipedia.org/wiki/張大賢" title="wikilink">張大賢</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/兪世潤" title="wikilink">兪世潤</a>、<a href="../Page/神童_(藝人).md" title="wikilink">神童</a> (<a href="../Page/Super_Junior.md" title="wikilink">Super Junior</a>)、、<a href="../Page/趙正治.md" title="wikilink">趙正治</a>、<a href="../Page/張大賢.md" title="wikilink">張大賢</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -782,11 +782,11 @@
 <table>
 <thead>
 <tr class="header">
-<th><p>集数</p></th>
+<th><p>集數</p></th>
 <th><p>播放日期</p></th>
-<th><p>嘉宾</p></th>
-<th><p>主题</p></th>
-<th><p>备注</p></th>
+<th><p>嘉賓</p></th>
+<th><p>主題</p></th>
+<th><p>備註</p></th>
 </tr>
 </thead>
 <tbody>
@@ -1032,13 +1032,20 @@
 </table>
 
 <table>
+<colgroup>
+<col style="width: 18%" />
+<col style="width: 18%" />
+<col style="width: 18%" />
+<col style="width: 18%" />
+<col style="width: 25%" />
+</colgroup>
 <thead>
 <tr class="header">
-<th><p>集数</p></th>
+<th><p>集數</p></th>
 <th><p>播放日期</p></th>
-<th><p>嘉宾</p></th>
-<th><p>主题</p></th>
-<th><p>备注</p></th>
+<th><p>嘉賓</p></th>
+<th><p>主題</p></th>
+<th><p>備註</p></th>
 </tr>
 </thead>
 <tbody>
@@ -1059,7 +1066,7 @@
 <tr class="odd">
 <td><p>130</p></td>
 <td><p>2月5日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Tony_An" title="wikilink">Tony An</a>、<a href="../Page/金伊娜.md" title="wikilink">金伊娜</a>、<a href="../Page/皇甫惠貞.md" title="wikilink">皇甫</a>、<a href="https://zh.wikipedia.org/wiki/JeA" title="wikilink">JeA</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Tony_An" title="wikilink">Tony An</a>（<a href="../Page/H.O.T..md" title="wikilink">H.O.T.</a>）、<a href="../Page/金伊娜.md" title="wikilink">金伊娜</a>、<a href="../Page/皇甫惠貞.md" title="wikilink">皇甫</a>、<a href="https://zh.wikipedia.org/wiki/JeA" title="wikilink">JeA</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Dara" title="wikilink">Dara加入固定主持</a>。</p></td>
 </tr>
@@ -1080,8 +1087,57 @@
 <tr class="even">
 <td><p>151</p></td>
 <td><p>7月2日</p></td>
-<td><p><a href="../Page/朴春.md" title="wikilink">Bom</a>、<a href="https://zh.wikipedia.org/wiki/宥斌" title="wikilink">宥斌</a>、<a href="../Page/孫知賢.md" title="wikilink">智賢</a>、<a href="../Page/宋枝恩.md" title="wikilink">宋枝恩</a></p></td>
-<td><p>2代組合特輯 請回答2009</p></td>
+<td><p><a href="../Page/朴春.md" title="wikilink">朴春</a>、<a href="https://zh.wikipedia.org/wiki/宥斌" title="wikilink">宥斌</a>、<a href="../Page/孫知賢.md" title="wikilink">智賢</a>、<a href="../Page/宋枝恩.md" title="wikilink">宋枝恩</a></p></td>
+<td><p>請回答2009！我們喜愛的少女們</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>152</p></td>
+<td><p>7月9日</p></td>
+<td><p><a href="../Page/金章勳.md" title="wikilink">金章勳</a>、、姜波、<a href="../Page/任恩頃.md" title="wikilink">任恩頃</a></p></td>
+<td><p>開拓者特輯！電視界哥倫布的再臨</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>153</p></td>
+<td><p>7月16日</p></td>
+<td><p><a href="../Page/全秀卿.md" title="wikilink">全秀卿</a>、、、<a href="../Page/李濬榮.md" title="wikilink">Jun</a>（<a href="../Page/U-KISS.md" title="wikilink">U-KISS</a>）</p></td>
+<td><p>技生技死！天生演員技藝鬼們來了</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>154</p></td>
+<td><p>7月23日</p></td>
+<td><p><a href="../Page/李鉉雨.md" title="wikilink">李鉉雨</a>、<a href="../Page/朴俊勉.md" title="wikilink">朴俊勉</a>、、、</p></td>
+<td><p>Dore Dore~瘋子們特輯</p></td>
+<td><p><a href="../Page/朴娜勑.md" title="wikilink">朴娜勑</a>缺席，<a href="../Page/黃寶羅.md" title="wikilink">黃寶羅</a>作為特別MC主持。</p></td>
+</tr>
+<tr class="even">
+<td><p>155</p></td>
+<td><p>7月30日</p></td>
+<td><p>、<a href="../Page/李詩媛.md" title="wikilink">李詩媛</a>、楊致勝、、孫京伊</p></td>
+<td><p>VS學校！2019夏季特講</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>156</p></td>
+<td><p>8月6日</p></td>
+<td><p><a href="../Page/鄭埻夏.md" title="wikilink">鄭埻夏</a>、<a href="../Page/Tei.md" title="wikilink">Tei</a>、、崔載林</p></td>
+<td><p>無~限！升級特輯</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>157</p></td>
+<td><p>8月13日</p></td>
+<td><p>、李智安、、金世妍</p></td>
+<td><p><a href="../Page/韓國小姐.md" title="wikilink">韓國小姐</a>特輯</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>158</p></td>
+<td><p>8月20日</p></td>
+<td><p><a href="../Page/水晶男孩.md" title="wikilink">水晶男孩</a>（<a href="../Page/金在德.md" title="wikilink">金在德</a>、<a href="../Page/張水院.md" title="wikilink">張水院</a>）、<a href="../Page/SS501.md" title="wikilink">SS501</a>（<a href="../Page/許永生.md" title="wikilink">許永生</a>、<a href="../Page/朴政珉.md" title="wikilink">朴政珉</a>）</p></td>
+<td><p>動搖的友情！商業至親特輯</p></td>
 <td></td>
 </tr>
 </tbody>

@@ -32,14 +32,14 @@
 
 ## 相關條目
 
-  - [Dark Blue](../Page/Dark_Blue.md "wikilink")：BLUE系列的第5個作品。
+  - [Dark Blue](../Page/Dark_Blue.md "wikilink")：BLUE系列的第5部作品。
+  - [White Blue](../Page/White_Blue.md "wikilink")：BLUE系列的第9部作品。
 
 ## 參考來源
 
 ## 外部連結
 
-  - [LiLiM](http://s-digi.jp/lilim/)
-  - [Dearest Blue](http://s-digi.jp/lilim/02_soft/02_darkness/08_deb/deb01.html)LiLiM DARKNESS
+  - [官方網站](http://s-digi.jp/lilim/02_soft/02_darkness/08_deb/deb01.html)
 
 [Category:2016年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2016年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:偶像題材電子遊戲](https://zh.wikipedia.org/wiki/Category:偶像題材電子遊戲 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:DVDPG](https://zh.wikipedia.org/wiki/Category:DVDPG "wikilink")
 

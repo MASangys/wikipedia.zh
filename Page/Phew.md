@@ -32,7 +32,7 @@ Aunt Sally在发行一张唱片之后便解散。1980年起她开始以个人身
   -
   - [1995年的采访](http://www.theblackeditions.com/thing-care-toneseptember-1995-interview-phew-g-modern-9-3-album-reviews/)
 
-[Category:1959年出生](https://zh.wikipedia.org/wiki/Category:1959年出生 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:实验音乐家](https://zh.wikipedia.org/wiki/Category:实验音乐家 "wikilink")
+[Category:1959年出生](https://zh.wikipedia.org/wiki/Category:1959年出生 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:日本女性搖滾歌手](https://zh.wikipedia.org/wiki/Category:日本女性搖滾歌手 "wikilink") [Category:实验音乐家](https://zh.wikipedia.org/wiki/Category:实验音乐家 "wikilink")
 
 1.
 2.

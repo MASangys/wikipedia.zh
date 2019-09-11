@@ -1,4 +1,4 @@
-' **SMG戰隊**（SMG Team）（英文全名：**Still Moving Under Gunfire**，**大意是指槍林彈雨中繼續前行，鼓勵人們在逆境中永不言敗**) 是一支[台灣的職業](../Page/臺灣.md "wikilink")[電子競技隊伍](https://zh.wikipedia.org/wiki/電子競技 "wikilink")，是知名歌手[林俊傑成立的電競隊伍](../Page/林俊杰.md "wikilink")，目前專注於[GCS職業聯賽](https://zh.wikipedia.org/wiki/GCS職業聯賽 "wikilink")[傳說對決](../Page/傳說對決.md "wikilink")的賽事，在2017年傳說對決AIC亞洲盃國際錦標賽中奪得冠軍。
+**SMG戰隊**（SMG Team）（英文全名：**Still Moving Under Gunfire**，**大意是指槍林彈雨中繼續前行，鼓勵人們在逆境中永不言敗**) 是一支[台灣的職業](../Page/臺灣.md "wikilink")[電子競技隊伍](https://zh.wikipedia.org/wiki/電子競技 "wikilink")，是知名歌手[林俊傑成立的電競隊伍](../Page/林俊杰.md "wikilink")，目前專注於[GCS職業聯賽](https://zh.wikipedia.org/wiki/GCS職業聯賽 "wikilink")[傳說對決](../Page/傳說對決.md "wikilink")的賽事，在2017年傳說對決AIC亞洲盃國際錦標賽中奪得冠軍。
 
 ## 傳說對決(Arena of Valor)
 

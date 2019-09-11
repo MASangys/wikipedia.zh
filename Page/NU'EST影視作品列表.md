@@ -383,17 +383,17 @@
 <td><p>JR</p></td>
 </tr>
 <tr class="even">
-<td><p>2019年5月23日-</p></td>
+<td><p>2019年5月23日-2019年7月18日</p></td>
 <td><p>Mnet</p></td>
 <td><p>留學少女</p></td>
 <td><p>故事講述者</p></td>
-<td><p>EP1-10</p></td>
+<td><p>EP1-9</p></td>
 <td><p>JR、旼炫</p></td>
 </tr>
 <tr class="odd">
 <td><p>2019年6月21日-</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a></p></td>
-<td><p>加油吧萬秀路</p></td>
+<td><p><a href="../Page/加油吧曼蘇爾.md" title="wikilink">加油吧曼秀路</a></p></td>
 <td><p>固定成員</p></td>
 <td><p>EP1-16</p></td>
 <td><p>白虎</p></td>
@@ -783,6 +783,7 @@
 | 8月14日-8月15日 | MTV Taiwan | 我愛偶像 Idols of Asia                                                                            |                        |        |
 | 8月18日       | KBS 2      | [我的超人爸爸](https://zh.wikipedia.org/wiki/超人回來了 "wikilink")                                      | EP291                  |        |
 | 8月23日-      | Mnet、tvN   | [The Call](../Page/The_Call.md "wikilink") 2                                                  | 白虎                     | EP6    |
+| 8月23日       | KBS2       | [演藝家中介](../Page/演藝家中介.md "wikilink")                                                          | 旼炫                     | EP1775 |
 
 ## 網路節目
 
@@ -1545,6 +1546,11 @@
 | 8月7日                                                   | \[瑪麗安東尼音樂劇\] 角色動態海報ㅣFersen伯爵 Ver. 🌹         |          |                                                                                           |                           |
 | 8月13日                                                  | Dispatch                                    | Vlive    | \[ⓓxV\] "Ronny JazzBar② Aron的煩惱諮商室"（Aron：NU'EST）                                          | Aron                      |
 | 8月20日                                                  | \[ⓓxV\] "GOOD LOVE（jazz ver.）"（Aron：NU'EST） |          |                                                                                           |                           |
+| 8月20日                                                  | K Auction                                   | Youtube  | \[K Auction\] 2019年8月慈善+額外拍賣ㅣ採訪ㅣDouble K戲劇學校                                              | 白虎                        |
+| 8月21日                                                  | sportschosun                                | NAVER TV | "要去看海嗎？"... JR，卡咪龜撒嬌大放出                                                                   | JR                        |
+| "今天也要夢到我哦"... 旼炫，皇帝的溫柔問候                               | 旼炫                                          |          |                                                                                           |                           |
+| 8月22日                                                  | NENE CHICKEN                                | Youtube  | 和NU'EST W一起 NENE STAR DAY 現場 Sketch                                                       | NU'EST W                  |
+| 8月23日                                                  | emkmusical                                  | Youtube  | \[瑪麗安東尼音樂劇\] 練習室花絮 Part2                                                                  | 旼炫                        |
 
 ## 電影及戲劇
 

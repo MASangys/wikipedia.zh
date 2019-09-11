@@ -310,6 +310,16 @@
 </thead>
 <tbody>
 <tr class="odd">
+<td><p>第1期</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>第1話</p></td>
 <td></td>
 <td><p>本能解放，狂野白獅</p></td>
@@ -320,7 +330,7 @@
 <td><p>岡田繪里香、<a href="https://zh.wikipedia.org/wiki/宮井加奈" title="wikilink">宮井加奈</a></p></td>
 <td><p>高橋瑞香</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>第2話</p></td>
 <td></td>
 <td><p>來襲，死亡金屬</p></td>
@@ -331,7 +341,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>第3話</p></td>
 <td></td>
 <td><p>覺醒吧，-{索斯獸}-之王的驕傲</p></td>
@@ -341,7 +351,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>第4話</p></td>
 <td></td>
 <td><p>強敵！死亡金屬四天王</p></td>
@@ -351,7 +361,7 @@
 <td><p>宍戸久美子</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>第5話</p></td>
 <td></td>
 <td><p>抓緊寶藏，蠍子之女</p></td>
@@ -362,7 +372,7 @@
 門智昭</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>第6話</p></td>
 <td></td>
 <td><p>祭典中的決鬥！狂野白獅對長頸巨龍</p></td>
@@ -372,7 +382,7 @@
 <td><p>田內亞矢子</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>第7話</p></td>
 <td></td>
 <td><p>怪龜，他是-{索斯獸}-博士</p></td>
@@ -383,7 +393,7 @@
 岡田繪里香</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>第8話</p></td>
 <td></td>
 <td><p>激鬥！再戰殺戮速龍</p></td>
@@ -394,7 +404,7 @@
 宍戸久美子</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>第9話</p></td>
 <td></td>
 <td><p>神秘，能夠治癒-{索斯獸}-的少年</p></td>
@@ -406,7 +416,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>第10話</p></td>
 <td></td>
 <td><p>強烈！搞氣氛和賺錢和突擊三角龍</p></td>
@@ -417,7 +427,7 @@
 漢人寬子</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>第11話</p></td>
 <td></td>
 <td><p>突擊，恐怖都市監獄</p></td>
@@ -428,7 +438,7 @@
 Jumondou Soul</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>第12話</p></td>
 <td></td>
 <td><p>狡猾的陷阱！狂野白獅的危機</p></td>
@@ -438,7 +448,7 @@ Jumondou Soul</p></td>
 <td><p>In Tae Sun、Kim Dae Hoon</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>第13話</p></td>
 <td></td>
 <td><p>史上最狂-{索斯獸}-，死亡暴龍</p></td>
@@ -448,7 +458,7 @@ Jumondou Soul</p></td>
 <td><p>|岡田繪里香、宮井加奈</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>第14話</p></td>
 <td></td>
 <td><p>失控！阿嵐的怒吼</p></td>
@@ -458,7 +468,7 @@ Jumondou Soul</p></td>
 <td><p>田内亞矢子</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>第15話</p></td>
 <td></td>
 <td><p>對手？天才-{索斯獸}-獵人</p></td>
@@ -468,7 +478,7 @@ Jumondou Soul</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>第16話</p></td>
 <td></td>
 <td><p>阿嵐的危機！悲哀的獎金獵人</p></td>
@@ -479,7 +489,7 @@ Jumondou Soul</p></td>
 小菅和久、黑田和也</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>第17話</p></td>
 <td></td>
 <td><p>原始的恐怖，站起來，沙漠赤蠍</p></td>
@@ -490,7 +500,7 @@ Jumondou Soul</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>第18話</p></td>
 <td></td>
 <td><p>守護！尋寶大作戰</p></td>
@@ -501,7 +511,7 @@ Jumondou Soul</p></td>
 漢人寬子、小川一郎</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>第19話</p></td>
 <td></td>
 <td><p>決戰，襲擊蓋勒格</p></td>
@@ -511,7 +521,7 @@ Jumondou Soul</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>第20話</p></td>
 <td></td>
 <td><p>強制解放！死亡暴龍</p></td>
@@ -522,7 +532,7 @@ Anihouse Sun</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>第21話</p></td>
 <td></td>
 <td><p>傳說中的仙人！恐怖的入門考試</p></td>
@@ -532,7 +542,7 @@ Anihouse Sun</p></td>
 <td><p>田內亞矢子</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>第22話</p></td>
 <td></td>
 <td><p>飛吧，狂野白獅 打起精神繼續修行</p></td>
@@ -545,7 +555,7 @@ Anihouse Sun</p></td>
 宮井加奈</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>第23話</p></td>
 <td></td>
 <td><p>慟哭 被雨沾濕的龍爪</p></td>
@@ -557,7 +567,7 @@ Jo Young Joo</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>第24話</p></td>
 <td></td>
 <td><p>重遇歡樂的拜金男</p></td>
@@ -571,7 +581,7 @@ Jo Young Joo</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>第25話</p></td>
 <td></td>
 <td><p>妹妹！三角龍的怒吼</p></td>
@@ -584,7 +594,7 @@ Jo Young Joo</p></td>
 宮井加奈</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>第26話</p></td>
 <td></td>
 <td><p>在廣闊的世界勇往直前</p></td>
@@ -594,7 +604,7 @@ Jo Young Joo</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>第27話</p></td>
 <td></td>
 <td><p>燃燒吧！速遞員的尊嚴</p></td>
@@ -606,7 +616,7 @@ Jo Young Joo</p></td>
 本田隆</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>第28話</p></td>
 <td></td>
 <td><p>高傲的少年在大地上奔馳</p></td>
@@ -616,7 +626,7 @@ Jo Young Joo</p></td>
 <td><p>田內亞矢子</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>第29話</p></td>
 <td></td>
 <td><p>驚訝！第二形態</p></td>
@@ -628,7 +638,7 @@ Jo Young Joo</p></td>
 宮井加奈</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>第30話</p></td>
 <td></td>
 <td><p>心中的痛楚，過去與毒針</p></td>
@@ -639,7 +649,7 @@ Jo Young Joo</p></td>
 川口弘明</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>第31話</p></td>
 <td></td>
 <td><p>爭奪！大遺跡的秘寶</p></td>
@@ -651,7 +661,7 @@ Jo Yong Joo</p></td>
 <td><p>本田隆</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>第32話</p></td>
 <td></td>
 <td><p>男人的志氣！不可以輸的兩個人</p></td>
@@ -663,7 +673,7 @@ Jo Yong Joo</p></td>
 漢人寬子</p></td>
 <td><p>高橋瑞香</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>第33話</p></td>
 <td></td>
 <td><p>隨波逐流 瞬間攻擊與-{索斯獸}-博士</p></td>
@@ -674,7 +684,7 @@ Jo Yong Joo</p></td>
 村上李香</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>第34話</p></td>
 <td></td>
 <td><p>動搖，二人之間的情誼</p></td>
@@ -690,7 +700,7 @@ Kwon Yong Sang<br />
 本田隆</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>第35話</p></td>
 <td></td>
 <td><p>奇怪的眼睛 操縱絲線的美女</p></td>
@@ -703,7 +713,7 @@ Kwon Yong Sang<br />
 <td><p>田內亞矢子</p></td>
 <td><p>村上李香</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>第36話</p></td>
 <td></td>
 <td><p>齊集，死亡金屬帝國四天王</p></td>
@@ -715,7 +725,7 @@ Kwon Yong Sang<br />
 岡田繪里香</p></td>
 <td><p>高橋瑞香</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>第37話</p></td>
 <td></td>
 <td><p>激鬥，戰友的回歸</p></td>
@@ -727,7 +737,7 @@ Kwon Yong Sang</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>第38話</p></td>
 <td></td>
 <td><p>四天王！暫時休息</p></td>
@@ -737,7 +747,7 @@ Kwon Yong Sang</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>第39話</p></td>
 <td></td>
 <td><p>訣別，再見了，朋友</p></td>
@@ -750,7 +760,7 @@ Kwon Yong Sang</p></td>
 宇都木勇</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>第40話</p></td>
 <td></td>
 <td><p>奔跑吧！膽小鬼的自豪</p></td>
@@ -763,10 +773,10 @@ Kwon Yong Sang</p></td>
 宇都木勇</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>第41話</p></td>
 <td></td>
-<td></td>
+<td><p>兩個女人，最強的一對</p></td>
 <td><p>赤尾凸</p></td>
 <td><p>澤井幸次</p></td>
 <td><p>中野彰子</p></td>
@@ -779,17 +789,17 @@ Kwon Yong Sang</p></td>
 <td><p>村上李香<br />
 本田隆</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>第42話</p></td>
 <td></td>
-<td></td>
+<td><p>強襲！黎明的Drake</p></td>
 <td><p>十川誠志</p></td>
 <td><p>飯島正勝</p></td>
 <td><p>粟井重紀</p></td>
 <td><p>田內亞矢子</p></td>
 <td><p>高橋瑞香</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>第43話</p></td>
 <td></td>
 <td></td>
@@ -805,7 +815,7 @@ Won Eun Sook<br />
 田中康勝</p></td>
 <td><p>村上李香</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>第44話</p></td>
 <td></td>
 <td></td>
@@ -816,7 +826,7 @@ Won Eun Sook<br />
 <td><p>高橋瑞香</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>第45話</p></td>
 <td></td>
 <td></td>
@@ -831,7 +841,7 @@ Joung Jin Young</p></td>
 本田隆</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>第46話</p></td>
 <td></td>
 <td></td>
@@ -843,7 +853,7 @@ Joung Jin Young</p></td>
 宇都木勇</p></td>
 <td><p>高橋瑞香</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>第47話</p></td>
 <td></td>
 <td></td>
@@ -856,7 +866,7 @@ Joung Jin Young</p></td>
 宇都木勇</p></td>
 <td><p>村上李香</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>第48話</p></td>
 <td></td>
 <td></td>
@@ -868,7 +878,7 @@ Joung Jin Young</p></td>
 村上李香</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>第49話</p></td>
 <td></td>
 <td></td>
@@ -878,7 +888,7 @@ Joung Jin Young</p></td>
 <td><p>田內亞矢子</p></td>
 <td><p>村上李香</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>第50話</p></td>
 <td></td>
 <td></td>
@@ -892,6 +902,16 @@ Joung Jin Young</p></td>
 本田隆</p></td>
 <td><p>村上李香<br />
 高橋瑞香</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>第2期（ZERO）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>

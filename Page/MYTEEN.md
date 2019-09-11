@@ -1,4 +1,4 @@
-**MYTEEN**（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Music Works將於](../Page/The_Music_Works.md "wikilink")2017年7月26日推出的[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")，成員包括恩洙、泰彬、天真、[國憲](../Page/金國憲.md "wikilink")、準燮、、漢瑟。出道前就已累積許多人氣。在2018年官方宣布更換隊長由國憲接任。官方粉絲名為Youth。
+**MYTEEN**（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Music Works於](../Page/The_Music_Works.md "wikilink")2017年7月26日推出的[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")，成員包括恩洙、泰彬、天真、[國憲](../Page/金國憲.md "wikilink")、準燮、、漢瑟。出道前就已累積許多人氣。在2018年官方宣布更換隊長由國憲接任。官方粉絲名為Youth。
 
 2018年12月31日，官方宣布泰彬退出組合\[1\]。
 

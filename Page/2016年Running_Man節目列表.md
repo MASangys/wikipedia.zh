@@ -58,7 +58,7 @@
 <strong>個人戰</strong><br />
 沒有隊伍</p></td>
 <td><p>奪得個人Running Ball</p></td>
-<td><p><a href="../Page/劉在錫.md" title="wikilink">劉在錫</a>、池錫辰、<a href="https://zh.wikipedia.org/wiki/金鐘國" title="wikilink">金鐘國</a>、Gary、<a href="https://zh.wikipedia.org/wiki/哈哈" title="wikilink">哈哈及</a><a href="../Page/宋智孝.md" title="wikilink">宋智孝</a><strong>勝出</strong><br />
+<td><p>劉在錫、池錫辰、金鐘國、Gary、哈哈及宋智孝<strong>勝出</strong><br />
 李光洙須於翌日穿猴子裝從家裡走到最近的地鐵站與經紀人會合並派發所有猴子玩偶</p></td>
 </tr>
 <tr class="even">
@@ -98,7 +98,7 @@
 高我星、劉在錫、池錫辰、Gary、李熙俊</p></td>
 <td><p><span style=font-size:110%><strong>最終任務</strong></span><br />
 <span style=color:#0000FF><strong>魔女</strong></span><br />
-<a href="../Page/洪允和.md" title="wikilink">洪允和</a></span><br />
+洪允和</span><br />
 <strong>任務隊</strong><br />
 <span style=color:#00008B><strong>智孝家</strong></span><br />
 宋智孝、金鐘國、哈哈、李光洙、任時完</span><br />
@@ -172,7 +172,7 @@ Running Man 冠軍聯賽</strong></span><br />
 <strong>個人戰</strong><br />
 沒有隊伍</p></td>
 <td><p>擊敗其餘的Running Man</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/哈哈" title="wikilink">哈哈</a><strong>勝出</strong><br />
+<td><p>哈哈<strong>勝出</strong><br />
 獲得英國旅行劵</p></td>
 </tr>
 <tr class="odd">
@@ -219,7 +219,7 @@ Running Man 冠軍聯賽</strong></span><br />
 <span style=color:#0000FF>宋智孝、金元海</span><br />
 <span style=color:#FF8C00>李光洙、金朝漢</p></td>
 <td><p>不被輪盤選中</p></td>
-<td><p><a href="../Page/劉在錫.md" title="wikilink">劉在錫</a>、柳列，池錫辰、李洪烈，<a href="https://zh.wikipedia.org/wiki/金鐘國" title="wikilink">金鐘國</a>、<a href="https://zh.wikipedia.org/wiki/金度均" title="wikilink">金度均</a>，Gary、安吉強，<a href="../Page/宋智孝.md" title="wikilink">宋智孝</a>、<a href="https://zh.wikipedia.org/wiki/金元海" title="wikilink">金元海</a>，<a href="../Page/李光洙.md" title="wikilink">李光洙</a>、金朝漢<strong>勝出</strong><br />
+<td><p>劉在錫、柳列，池錫辰、李洪烈，金鐘國、金度均，Gary、安吉強，宋智孝、金元海，李光洙、金朝漢<strong>勝出</strong><br />
 哈哈、朴美善需替所有人的餐費結賬，而每位嘉賓均獲得黃金社員證一張[8]</p></td>
 </tr>
 <tr class="odd">
@@ -252,7 +252,7 @@ Running Man 冠軍聯賽</strong></span><br />
 <strong>個人戰</strong><br />
 沒有隊伍</p></td>
 <td><p>收集十個印章</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金鐘國" title="wikilink">金鐘國</a>、Gary、<a href="../Page/宋智孝.md" title="wikilink">宋智孝</a>、<a href="../Page/李多海.md" title="wikilink">李多海</a>、<a href="../Page/丁一宇.md" title="wikilink">丁一宇</a><strong>勝出</strong><br />
+<td><p>金鐘國、Gary、宋智孝、李多海、丁一宇<strong>勝出</strong><br />
 獲得高級旅館住宿權<br />
 劉在錫、池錫辰、哈哈、李光洙須在沙漠上宿營</p></td>
 </tr>
@@ -265,7 +265,7 @@ Running Man 冠軍聯賽</strong></span><br />
 <small>（<a href="https://zh.wikipedia.org/wiki/阿拉伯聯合酋長國" title="wikilink">阿拉伯聯合酋長國</a><br />
 <a href="../Page/杜拜.md" title="wikilink">杜拜</a>）</small></p></td>
 <td><p><span style=font-size:110%><strong>杜拜傳說的秘密</strong></span><br />
-<span style=color:#c0c0c0><strong>在錫隊</strong></span>：<a href="../Page/劉在錫.md" title="wikilink">劉在錫</a>、<a href="https://zh.wikipedia.org/wiki/池錫辰" title="wikilink">池錫辰</a>、<a href="../Page/李多海.md" title="wikilink">李多海</a><br />
+<span style=color:#c0c0c0><strong>在錫隊</strong></span>：劉在錫、池錫辰、李多海<br />
 <span style=color:#000000><strong>哈哈隊</strong></span>：哈哈、金鐘國、丁一宇<br />
 <span style=color:#FF8C00><strong>光洙隊</strong></span>：李光洙、Gary、宋智孝</p></td>
 <td><p>擊敗其餘的隊伍</p></td>
@@ -464,9 +464,9 @@ Running Man 冠軍聯賽</strong></span><br />
 <span style=color:#808080>宋智孝、Zico</span><br />
 <span style=color:#FF1493>李光洙、嚴賢璟</p></td>
 <td><p>獲得最高分數</p></td>
-<td><p><a href="../Page/宋智孝.md" title="wikilink">宋智孝</a>、<a href="https://zh.wikipedia.org/wiki/Zico" title="wikilink">Zico</a><strong>勝出</strong><br />
+<td><p>宋智孝、Zico<strong>勝出</strong><br />
 獲得金冠<br />
-其餘的隊伍須在藍布幕前穿上藍色衣服，排名最後的兩隊則額外以藍色顏料畫臉懲罰[17]</p></td>
+其餘的隊伍須在藍布幕前穿上藍色衣服，排名最後的劉在錫、柳仁英及哈哈、Stephanie Lee則額外以藍色顏料畫臉懲罰[17]</p></td>
 </tr>
 <tr class="odd">
 <td><p>252</p></td>
@@ -481,7 +481,7 @@ Running Man 冠軍聯賽</strong></span><br />
 <td><p><span style=font-size:110%><strong>7 VS 300（上）</strong></span><br />
 <strong>團體戰</strong></p></td>
 <td><p>最先到達成員的重量總計不超過300kg</p></td>
-<td><p><a href="../Page/劉在錫.md" title="wikilink">劉在錫</a>、Gary、<a href="../Page/宋智孝.md" title="wikilink">宋智孝</a>、<a href="../Page/李光洙.md" title="wikilink">李光洙</a><strong>勝出</strong><br />
+<td><p>劉在錫、Gary、宋智孝、李光洙<strong>勝出</strong><br />
 可以乘坐逃出車輛離開<br />
 池錫辰、金鐘國、哈哈須步行往<a href="https://zh.wikipedia.org/wiki/楊平站" title="wikilink">楊平站與經紀人會合</a>[18]</p></td>
 </tr>
@@ -586,9 +586,9 @@ vs<br />
 <td><p><span style=font-size:110%><strong>最終任務<br />
 守護女神撕名牌</strong></span><span style=color:#FFBF00><br />
 <strong>真女神｜神聖經隊</strong></span><br />
-<a href="../Page/李聖經.md" title="wikilink">李聖經</a>｜池錫辰、<a href="https://zh.wikipedia.org/wiki/金鐘國" title="wikilink">金鐘國</a>、<a href="https://zh.wikipedia.org/wiki/哈哈" title="wikilink">哈哈</a>、<a href="../Page/李光洙.md" title="wikilink">李光洙</a>、尹鈞相<br />
+李聖經｜池錫辰、金鐘國、哈哈、李光洙、尹鈞相<br />
 <span style=color:#FF1493><strong>神信惠隊</strong></span><br />
-<a href="https://zh.wikipedia.org/wiki/朴信惠" title="wikilink">朴信惠</a>、<a href="../Page/劉在錫.md" title="wikilink">劉在錫</a>、Gary、<a href="https://zh.wikipedia.org/wiki/金玟錫" title="wikilink">金玟錫</a><br />
+朴信惠、劉在錫、Gary、金玟錫<br />
 <span style=color:#00CED1><strong>神智孝隊</strong></span><br />
 宋智孝</p></td>
 <td><p>擊敗其餘的隊伍</p></td>
@@ -612,9 +612,9 @@ vs<br />
 <a href="../Page/江西區_(首爾).md" title="wikilink">江西區</a>）</small></p></td>
 <td><p><span style=font-size:110%><strong>Running Man VS 綜藝Avengers</strong></span><br />
 <span style=color:#808080><strong>Running Man隊</strong></span><br />
-<a href="../Page/劉在錫.md" title="wikilink">劉在錫</a>、池錫辰、<a href="https://zh.wikipedia.org/wiki/金鐘國" title="wikilink">金鐘國</a>、Gary、<a href="https://zh.wikipedia.org/wiki/哈哈" title="wikilink">哈哈</a>、<a href="../Page/宋智孝.md" title="wikilink">宋智孝</a>、<a href="../Page/李光洙.md" title="wikilink">李光洙</a><br />
+劉在錫、池錫辰、金鐘國、Gary、哈哈、宋智孝、李光洙<br />
 <span style=color:#FF8C00><strong>Avengers隊</strong></span><br />
-<a href="../Page/李敬揆.md" title="wikilink">李敬揆</a>、<a href="../Page/李廷鎮.md" title="wikilink">李廷鎮</a>、<a href="https://zh.wikipedia.org/wiki/金俊鉉" title="wikilink">金俊鉉</a>、<a href="../Page/金東炫.md" title="wikilink">金東炫</a>、<a href="https://zh.wikipedia.org/wiki/曹世鎬" title="wikilink">曹世鎬</a>、<a href="https://zh.wikipedia.org/wiki/劉在煥" title="wikilink">劉在煥</a>、<a href="https://zh.wikipedia.org/wiki/李秀敏" title="wikilink">李秀敏</a></p></td>
+李敬揆、李廷鎮、金俊鉉、金東炫、曹世鎬、劉在煥、李秀敏</p></td>
 <td><p>Running Man隊<strong>勝出</strong><br />
 獲得金徽章七個[23]</p></td>
 <td></td>
@@ -654,15 +654,15 @@ vs<br />
 <small>（<a href="https://zh.wikipedia.org/wiki/江原道_(韓國)" title="wikilink">江原道</a><a href="../Page/春川市.md" title="wikilink">春川市</a><br />
 <a href="https://zh.wikipedia.org/wiki/西面" title="wikilink">西面</a>）</small></p></td>
 <td><p><span style=font-size:110%><strong>夏日MT特輯 － 按讚情侶競賽</strong></span><br />
-<strong><span style=color:#FF8C00><a href="../Page/劉在錫.md" title="wikilink">劉在錫</a>、<a href="../Page/多順.md" title="wikilink">多順</a></span><br />
-<span style=color:#FF0000><a href="https://zh.wikipedia.org/wiki/金鐘國" title="wikilink">金鐘國</a>、<a href="https://zh.wikipedia.org/wiki/韶宥" title="wikilink">韶宥</a></span><br />
-<span style=color:#9400D3>Gary、<a href="../Page/孝琳.md" title="wikilink">孝琳</a></span><br />
-<span style=color:#008000><a href="https://zh.wikipedia.org/wiki/哈哈" title="wikilink">哈哈</a>、池錫辰</span></strong>[25]<strong><br />
-<span style="color:#00008B"><a href="../Page/李光洙.md" title="wikilink">李光洙</a>、<a href="https://zh.wikipedia.org/wiki/寶拉" title="wikilink">寶拉</a></span><br />
-<span style="color:#FFBF00"><a href="https://zh.wikipedia.org/wiki/Shownu" title="wikilink">Shownu</a>、<a href="../Page/宋智孝.md" title="wikilink">宋智孝</a></strong></p></td>
+<strong><span style=color:#FF8C00>劉在錫、多順</span><br />
+<span style=color:#FF0000>金鐘國、韶宥</span><br />
+<span style=color:#9400D3>Gary、孝琳</span><br />
+<span style=color:#008000>哈哈、池錫辰</span></strong>[25]<strong><br />
+<span style="color:#00008B">李光洙、寶拉</span><br />
+<span style="color:#FFBF00">Shownu、宋智孝</strong></p></td>
 <td><p>擊敗其餘的隊伍</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Shownu" title="wikilink">Shownu</a>、<a href="../Page/宋智孝.md" title="wikilink">宋智孝</a><strong>勝出</strong><br />
-獲得<a href="https://zh.wikipedia.org/wiki/鑽石" title="wikilink">鑽石情侶戒指</a></p></td>
+<td><p>Shownu、宋智孝<strong>勝出</strong><br />
+獲得鑽石情侶戒指</p></td>
 </tr>
 <tr class="even">
 <td><p>259</p></td>
@@ -764,8 +764,8 @@ vs<br />
 <strong>個人戰</strong><br />
 沒有隊伍</p></td>
 <td><p>到達最終場所並撕掉一名成員的姓名牌</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金鐘國" title="wikilink">金鐘國</a><strong>勝出</strong><br />
-獲得特級<a href="../Page/金.md" title="wikilink">金</a>徽章兩個及<a href="../Page/匈牙利.md" title="wikilink">匈牙利</a>餐券，但由於金鐘國遺失了特級金徽章，所以它將放置於下一期並由該勝出隊伍獲得[26]</p></td>
+<td><p>金鐘國<strong>勝出</strong><br />
+獲得特級金徽章兩個及匈牙利餐券，但由於金鐘國遺失了特級金徽章，所以它將放置於下一期並由該勝出隊伍獲得[26]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -811,8 +811,8 @@ vs<br />
 <span style=color:#9400D3>哈哈、河在淑</span><br />
 <span style=color:#008000>李光洙、李美珠</strong></p></td>
 <td><p>擊敗其餘的隊伍</p></td>
-<td><p>Gary、<a href="../Page/宋智孝.md" title="wikilink">宋智孝</a><strong>勝出</strong><br />
-獲得<a href="../Page/金.md" title="wikilink">金</a>徽章及<a href="../Page/金.md" title="wikilink">金</a>后冠[28]</p></td>
+<td><p>Gary、宋智孝<strong>勝出</strong><br />
+獲得金徽章及金后冠[28]</p></td>
 </tr>
 <tr class="odd">
 <td><p>265</p></td>
@@ -829,7 +829,7 @@ vs<br />
 <strong>個人戰</strong><br />
 沒有隊伍</p></td>
 <td><p>擊敗其餘的Running Man</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金鐘國" title="wikilink">金鐘國</a><strong>勝出</strong>[29]</p></td>
+<td><p>金鐘國<strong>勝出</strong>[29]</p></td>
 </tr>
 <tr class="even">
 <td><p>266</p></td>
@@ -865,7 +865,8 @@ vs<br />
 <strong>個人戰</strong><br />
 沒有隊伍</p></td>
 <td><p>到達監獄前逃離監獄列車</p></td>
-<td><p>全員<strong>勝出</strong>[30]</p></td>
+<td><p>全員<strong>勝出</strong><br />
+<a href="../Page/GOT7.md" title="wikilink">GOT7</a>、<a href="https://zh.wikipedia.org/wiki/金孝靜" title="wikilink">孝琳</a>（<a href="../Page/SISTAR.md" title="wikilink">SISTAR</a>）特別出演[30]</p></td>
 </tr>
 <tr class="even">
 <td><p>268</p></td>
@@ -909,7 +910,7 @@ vs<br />
 偷取所有任務隊的一隻鞋子以獲得瀏覽量<br />
 <strong>任務隊</strong><br />
 擊敗劉姆斯龐德並獲得最高瀏覽量</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金鐘國" title="wikilink">金鐘國</a><strong>勝出</strong><br />
+<td><p>金鐘國<strong>勝出</strong><br />
 獲得下一期較少Huntermon的權利[31]</p></td>
 </tr>
 <tr class="even">
@@ -999,7 +1000,7 @@ vs<br />
 擁有Blackmon<br />
 <strong>Huntermon隊</strong><br />
 按顏色分組撕掉三次Running Man隊的姓名牌</p></td>
-<td><p>曹在顯、<a href="../Page/蔡秀彬.md" title="wikilink">蔡秀彬</a><strong>勝出</strong><br />
+<td><p>曹在顯、蔡秀彬<strong>勝出</strong><br />
 獲得31萬韓圓<br />
 所有嘉賓獲得紀念品一份[32]</p></td>
 <td></td>
@@ -1102,7 +1103,7 @@ vs<br />
 <span style=color:#808080>哈哈、金俊鉉</span><br />
 <span style=color:#FF1493>宋智孝、李光洙</p></td>
 <td><p>前四名找到兩個金箱子</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金鐘國" title="wikilink">金鐘國</a>、<a href="../Page/張度練.md" title="wikilink">張度練</a>，Gary、<a href="../Page/珉豪.md" title="wikilink">珉豪</a>，<a href="https://zh.wikipedia.org/wiki/哈哈" title="wikilink">哈哈</a>、<a href="https://zh.wikipedia.org/wiki/金俊鉉" title="wikilink">金俊鉉</a>，<a href="../Page/宋智孝.md" title="wikilink">宋智孝</a>、<a href="../Page/李光洙.md" title="wikilink">李光洙</a><strong>勝出</strong><br />
+<td><p>金鐘國、張度練，Gary、珉豪，哈哈、金俊鉉，宋智孝、李光洙<strong>勝出</strong><br />
 劉在錫、徐智慧及池錫辰、梁世燦經最終測試後由擁有炸彈箱子的池錫辰、梁世燦接受麵粉炸彈懲罰[[34]</p></td>
 </tr>
 <tr class="even">
@@ -1260,7 +1261,7 @@ Gary獲得由Running Man成員們贈送的紀念品[36]</p></td>
 <strong>個人戰</strong><br />
 沒有隊伍</p></td>
 <td><p>完成5個害人玩笑任務</p></td>
-<td><p><a href="../Page/劉在錫.md" title="wikilink">劉在錫</a>、<a href="https://zh.wikipedia.org/wiki/金鐘國" title="wikilink">金鐘國</a>、<a href="../Page/李光洙.md" title="wikilink">李光洙</a><strong>勝出</strong><br />
+<td><p>劉在錫、金鐘國、李光洙<strong>勝出</strong><br />
 獲得100萬(李光洙則為200萬）捐贈券，並以個人名義捐獻到有困難的家庭<br />
 池錫辰、哈哈、宋智孝，經抽選後由池錫辰進入懲罰箱作懲罰[38]</p></td>
 </tr>
@@ -1670,14 +1671,14 @@ Gary獲得由Running Man成員們贈送的紀念品[36]</p></td>
 27. 在八月期間，如果Running Man成員比賽期間違規（背叛或使用犯規手段阻止對方勝出）三次，該成員將會禁止拍攝Running Man節目一日，、[韓惠軫](../Page/韓惠軫.md "wikilink")、、[金伊娜](../Page/金伊娜.md "wikilink")特別出演。
 28. [安吉強](../Page/安吉強.md "wikilink")與他的兩名女兒特別出演。
 29. 宣傳[SBS月火劇](../Page/SBS月火連續劇.md "wikilink")《[月之戀人－步步驚心：麗](../Page/月之戀人－步步驚心：麗.md "wikilink")》
-30. 概念來自電影《[屍殺列車](../Page/屍速列車.md "wikilink")》，[GOT7](../Page/GOT7.md "wikilink")、[孝琳](https://zh.wikipedia.org/wiki/金孝靜 "wikilink")（[SISTAR](../Page/SISTAR.md "wikilink")）特別出演。
+30. 概念來自電影《[-{zh-hk:屍殺列車;zh-cn:釜山行;zh-tw:屍速列車}-](../Page/屍速列車.md "wikilink")》
 31. 、[朴詩妍](https://zh.wikipedia.org/wiki/朴詩妍 "wikilink")、[Mikey](https://zh.wikipedia.org/wiki/趙明翼 "wikilink")（[Turbo](../Page/Turbo_\(韓國男子團體\).md "wikilink")）、[Sleepy](https://zh.wikipedia.org/wiki/Sleepy "wikilink")（[Untouchable](https://zh.wikipedia.org/wiki/Untouchable_\(南韓組合\) "wikilink")）、、[韓昇延](../Page/韓昇延.md "wikilink")、[燦盛](../Page/黃燦盛.md "wikilink")（[2PM](https://zh.wikipedia.org/wiki/2PM "wikilink")）、[宋枝恩](../Page/宋枝恩.md "wikilink")（[Secret](../Page/Secret_\(組合\).md "wikilink")）、[林智妍](../Page/林智妍.md "wikilink")、[Crush](../Page/Crush_\(歌手\).md "wikilink")（VV:D）、[Mark](../Page/段宜恩.md "wikilink")、[珍榮](../Page/朴珍榮.md "wikilink")（[GOT7](../Page/GOT7.md "wikilink")）、[李善彬](../Page/李善彬.md "wikilink")、[金昭希](https://zh.wikipedia.org/wiki/金昭希_\(歌手\) "wikilink")（[I.B.I](../Page/I.B.I.md "wikilink")）特別出演，[文瑾瑩](../Page/文瑾瑩.md "wikilink")、[鄭恩地](../Page/鄭恩地.md "wikilink")（[Apink](../Page/Apink.md "wikilink")）驚喜聲演。
 32. 宣傳舞台劇《黑鳥》，[宋在喜](../Page/宋在喜.md "wikilink")、、[沈志浩](../Page/沈志浩.md "wikilink")、[李莞](../Page/李莞.md "wikilink")、、[宋再臨](../Page/宋再臨.md "wikilink")、[金玟錫](https://zh.wikipedia.org/wiki/金玟錫 "wikilink")、[宋枝恩](../Page/宋枝恩.md "wikilink")（[Secret](../Page/Secret_\(組合\).md "wikilink")）、[孔昇延](https://zh.wikipedia.org/wiki/孔昇延 "wikilink")、[定延](../Page/定延.md "wikilink")（[TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")）、[宇宙少女驚喜出演](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")，[景收真](../Page/景收真.md "wikilink")驚喜聲演。概念來自遊戲《[精靈寶可夢GO](../Page/精靈寶可夢GO.md "wikilink")》。
 33. 特別出演。
 34. 概念來自電影《[阿凡達](https://zh.wikipedia.org/wiki/阿凡達 "wikilink")》
 35. 本集為[Gary最後一次以成員身份參與錄影](../Page/Gary_\(韓國歌手\).md "wikilink")。
-36. 本集為[Gary離隊後首次以嘉賓身份參與錄影](../Page/Gary_\(韓國歌手\).md "wikilink")。
+36. 本集為Gary離隊後首次以嘉賓身份參與錄影。
 37. 宣傳電影《[哥哥](../Page/哥哥_\(電影\).md "wikilink")》。
-38. [金所泫](../Page/金所泫.md "wikilink")於本集以嘉賓主持身份出演。
+38. 金所泫於本集以嘉賓主持身份出演。
 39. 由此週開始收視調查公司改為分別公佈星期天真好1部跟2部收視。
 40. 此週開始[MBC同時段播放新節目](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")《[隱秘而偉大](https://zh.wikipedia.org/wiki/隱秘而偉大_\(綜藝節目\) "wikilink")》，取代《[真正的男人](../Page/真正的男人.md "wikilink")》。

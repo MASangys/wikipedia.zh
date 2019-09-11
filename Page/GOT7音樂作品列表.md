@@ -1,8 +1,40 @@
-**[GOT7](../Page/GOT7.md "wikilink")**是韓國[JYP娛樂](../Page/JYP娛樂.md "wikilink")旗下男子組合，於2014年正式出道。GOT7迄今共發行3張正規專輯、7張迷你專輯及4張單曲，唱片企劃公司均為JYP娛樂，發行商分別為[Genie音樂](../Page/Genie音樂.md "wikilink")及[史詩唱片日本](https://zh.wikipedia.org/wiki/史詩唱片日本 "wikilink")。
+**[GOT7](../Page/GOT7.md "wikilink")**是韓國[JYP娛樂](../Page/JYP娛樂.md "wikilink")旗下男子組合，於2014在年正式出道。GOT7在韓迄今共發行4張正規專輯、4張改版專輯及11張迷你專輯。而在日本發行了1張正規專輯、4張迷你專輯及7張單曲。
+
+唱片企劃公司均為JYP娛樂，發行商分別為[Genie音樂](../Page/Genie音樂.md "wikilink")及[史詩唱片日本](https://zh.wikipedia.org/wiki/史詩唱片日本 "wikilink")。
 
 2016年至2017年間推出「飛行日誌（FLIGHT LOG）」系列三部曲，2016上半年，首部曲《[FLIGHT LOG : DEPARTURE](https://zh.wikipedia.org/wiki/FLIGHT_LOG_:_DEPARTURE "wikilink")》正式發行，主打歌為《Fly》、《Home Run》；2016下半年，二部曲《[FLIGHT LOG : TURBULENCE](https://zh.wikipedia.org/wiki/FLIGHT_LOG_:_TURBULENCE "wikilink")》發行，主打歌為《Hard Carry》；2017年則推出了最終曲《[FLIGHT LOG : ARRIVAL](https://zh.wikipedia.org/wiki/FLIGHT_LOG_:_ARRIVAL "wikilink")》，主打歌為《Never Ever》。
 
-GOT7韓語專輯中，在Gaon Chart紀錄上除了《[Got it?](../Page/Got_it?_\(GOT7迷你專輯\).md "wikilink")》及《[Just right](../Page/Just_right_\(GOT7迷你專輯\).md "wikilink")》外，均取得週榜冠軍，其中《[GOT♡](../Page/Got_Love_\(GOT7迷你專輯\).md "wikilink")》是首次得到排行榜冠軍作品；飛行日誌最終曲《FLIGHT LOG : ARRIVAL》則為銷量最高之專輯。日語專輯中，在[Oricon](../Page/Oricon.md "wikilink")紀錄上《[翻天↑覆地](../Page/翻天↑覆地.md "wikilink")》是上榜次數最多的專輯。
+GOT7於荷蘭鹿特丹舉辦的《MTV Europe Music Awards》獲頒「全球藝人獎（Best Worldwide Act）」，成為繼BIG BANG及PSY後第三位獲得獎項的韓國藝人。
+
+專輯《FLIGHT LOG : TURBULENCE》再次登上Billboard世界專輯榜的首位。
+
+GOT7的MV《Just Right》- Youtube觀看人次突破一億，成為K-POP第5個單一MV瀏覽量破億的男子團體。
+
+《Never Ever》專輯發行隔日即佔據香港、印尼、馬來西亞、泰國等六個國家中iTunes專輯榜冠軍。而在台灣、新加坡、芬蘭、挪威則有iTunes專輯榜的第2位，在美國上了iTunes專輯榜的第5位成績。
+
+而《FLIGHT LOG : ARRIVAL》專輯也再次登上了美國Billborad告示牌世界專輯排行榜的第一名。
+
+GOT7《FLIGHT LOG : ARRIVAL》專輯以278103張銷量，登上韓國Gaon排行榜2017年3月專輯榜第一名。而在美國Billboard告示牌公開「Twitter熱門歌曲」的4月22周榜單，GOT7首次入榜。《Never Ever》獲得第二名的成績。
+
+下一次主打歌《You Are》的音源公佈後登上了香港、巴西、芬蘭等17個國家和地區的iTunes專輯排行榜一位。
+
+《7 for 7》專輯在H榜銷售量賣出30萬張，是GOT7首張H榜銷量達到30萬的專輯，GOT7也是第四個單張專輯銷量破30萬的男子團體。
+
+GOT7於VLIVE進行「2018 GLOBAL VLIVE TOP10」直播，節目開播前愛心達8億多，直播結束之前突破10億1千萬，寫下當時VLIVE的直播愛心最高紀錄。
+
+《Eyes On You》主打歌《LOOK》在韓國數個音源排行榜登上實時榜首。而專輯也在海外20個國家的iTunes專輯排行榜中獲得第1名，隔天空降iTunes世界專輯榜1位，成為首個擁有了兩張登頂該榜單的K-Pop團體。
+
+紐約巴克萊中心（巴克萊中心）開唱的KPOP團體，透過社群網站與當地媒體推廣，吸引美國「J-14雜誌，“「BuzzFeed」，「廣告牌」，「人民電視」，「福布斯」等知名新聞娛樂媒體採訪，並演出美國紐約「FOX5頻道」最大的晨間新聞節目。展示了全球Kpop國際偶像的地位。
+
+Billboard公佈最新季度熱門巡演排行榜，GOT7憑藉7月6日在洛杉磯The Forum場次上榜，票房估計為130萬美金，GOT7於首次登上此排行榜。
+
+《Lullaby》成為第四個MV觀看數首日突破千萬的KPOP團體以及第二個MV觀看數首日突破千萬的KPOP男子團體。
+
+《SPINNING TOP》發行當天即登上了iTunes世界專輯榜冠軍，是繼"7 for 7 "及"Eyes On You "後的第3張。GOT7成為KPOP史上第2個擁有3張iTunes冠軍專輯的KPOP團體。
+
+韓國H榜首日銷量令GOT7成為JYPE旗下首個H榜專輯銷量累計超過200萬張的團體。而迷你九輯發行一周也登上Hanteo及Gaon專輯週榜冠軍，拿下5月份專輯月榜的雙料冠軍。7月11日，迷你九輯獲得Gaon專輯榜「白金唱片」認證，成為了GOT7史上第三張的白金唱片。
+
+
 
 ## 韓語作品
 
@@ -467,6 +499,37 @@ GOT7韓語專輯中，在Gaon Chart紀錄上除了《[Got it?](../Page/Got_it?_\
 <li>韓國：60,602[2]</li>
 </ul></td>
 <td><p><a href="../Page/7_for_7_(GOT7迷你專輯).md" title="wikilink">7 for 7</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>Look</p></td>
+<td><p>2018 年</p></td>
+<td><p>1</p></td>
+<td><p>未知</p></td>
+<td><p>韓國: 332,580</p>
+<p>Gaon Chart認證白金專輯</p></td>
+</tr>
+<tr class="even">
+<td><p>Lullaby</p></td>
+<td><p>1</p></td>
+<td><p>未知</p></td>
+<td><p>韓國: 301,916</p>
+<p>Gaon專輯榜「白金唱片」認證</p></td>
+<td><p>Present: You</p></td>
+</tr>
+<tr class="odd">
+<td><p>Miracle</p></td>
+<td><p>2019 年</p></td>
+<td><p>1</p></td>
+<td><p>未知</p></td>
+<td><p>韓國: 196,034</p></td>
+</tr>
+<tr class="even">
+<td><p>ECLIPSE</p></td>
+<td><p>1</p></td>
+<td><p>未知</p></td>
+<td><p>韓國: 252,826</p>
+<p>Gaon專輯榜「白金唱片」認證</p></td>
+<td><p><strong>SPINNING TOP : BETWEEN SECURITY &amp; INSECURITY;</strong></p></td>
 </tr>
 <tr class="odd">
 <td></td>

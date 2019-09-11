@@ -213,13 +213,13 @@
 
 ### 注釋
 
-### 來源
+### 參考來源
 
 ## 外部連結
 
   - [東京俳優生活協同組合公式官網的聲優簡介](http://haikyo.co.jp/profile/profile.php?ActorID=11988)
 
-[Category:日本廣播主持人](https://zh.wikipedia.org/wiki/Category:日本廣播主持人 "wikilink") [Category:日本男性配音員](https://zh.wikipedia.org/wiki/Category:日本男性配音員 "wikilink") [Category:旁白](https://zh.wikipedia.org/wiki/Category:旁白 "wikilink") [Category:東京俳優生活協同組合](https://zh.wikipedia.org/wiki/Category:東京俳優生活協同組合 "wikilink") [Category:1956年出生](https://zh.wikipedia.org/wiki/Category:1956年出生 "wikilink") [Category:鹿兒島縣出身人物](https://zh.wikipedia.org/wiki/Category:鹿兒島縣出身人物 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
+[Category:日本廣播主持人](https://zh.wikipedia.org/wiki/Category:日本廣播主持人 "wikilink") [Category:日本男性配音員](https://zh.wikipedia.org/wiki/Category:日本男性配音員 "wikilink") [Category:旁白](https://zh.wikipedia.org/wiki/Category:旁白 "wikilink") [Category:東京俳優生活協同組合](https://zh.wikipedia.org/wiki/Category:東京俳優生活協同組合 "wikilink") [Category:鹿兒島縣出身人物](https://zh.wikipedia.org/wiki/Category:鹿兒島縣出身人物 "wikilink")
 
 1.
 2.

@@ -2,7 +2,7 @@
 
 ## 棋力
 
-根据电王战三场比赛的结果，Go Ratings网站计算出DeepZenGo的Elo等级分为3060\[5\]。其对应的配置为
+根据电王战三场比赛的结果，[Go Ratings网站计算出DeepZenGo的Elo等级分为](../Page/Go_Ratings.md "wikilink")3060\[5\]。其对应的配置为
 
   - CPU：2个E5-2699v4，共44核88线程，主频2.20GHz。
   - GPU：4个基于Pascal架构的NVIDIA TITAN X，每个GPU拥有3584个CUDA。\[6\]

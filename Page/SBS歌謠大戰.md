@@ -489,7 +489,7 @@ No oh oh + Winter Story[11]</p></td>
 </tr>
 <tr class="even">
 <td><p>男團熱門歌曲串燒</p></td>
-<td><p><a href="../Page/Pentagon_(男子組合).md" title="wikilink">PENTAGON</a> × <a href="https://zh.wikipedia.org/wiki/SF9" title="wikilink">SF9</a> × <a href="https://zh.wikipedia.org/wiki/KNK" title="wikilink">KNK</a> × <a href="https://zh.wikipedia.org/wiki/ASTRO" title="wikilink">ASTRO</a> × <a href="../Page/Snuper.md" title="wikilink">SNUPER</a> × <a href="../Page/HALO_(韓國組合).md" title="wikilink">HALO</a></p></td>
+<td><p><a href="../Page/Pentagon_(男子組合).md" title="wikilink">PENTAGON</a> × <a href="https://zh.wikipedia.org/wiki/SF9" title="wikilink">SF9</a> × <a href="../Page/KNK.md" title="wikilink">KNK</a> × <a href="https://zh.wikipedia.org/wiki/ASTRO" title="wikilink">ASTRO</a> × <a href="../Page/Snuper.md" title="wikilink">SNUPER</a> × <a href="../Page/HALO_(韓國組合).md" title="wikilink">HALO</a></p></td>
 <td><p>Can You Feel It + Fanfare + KNOCK + Confession + It's raining + Mariya</p></td>
 </tr>
 <tr class="odd">

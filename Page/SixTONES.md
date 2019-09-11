@@ -34,7 +34,7 @@ SixTONES的意思是解作六個不同的音階，代表著六人每人也有各
 
 同年10月29日，在東京JR線的品川站内揭載了六人的海報「ジャニーズをデジタルに放つ新世代。」 並宣布參與世界各地展開的「YouTube Artist Promotion」活動，成為日本第一組參與這個活動的藝人。 11月5日在YouTube頻道上公開為了該活動拍攝的Music Video \< JAPONICA STYLE \>，該MV由[瀧澤秀明](../Page/瀧澤秀明.md "wikilink")執導。 12月11日參加在幕張展覽館舉行的「YouTube FanFest Music」
 
-2019年8月8日在東京巨蛋舉行的「小傑尼斯大祭〜從東京巨蛋啟程〜」中與同為小傑尼斯組合的[Snow Man一起宣佈將於](../Page/Snow_Man.md "wikilink")2020年發行CD出道。 同時宣佈將從小傑尼斯共有的YouTube頻道畢業、開設獨立YouTube頻道以及公式Instagram。
+2019年8月8日在東京巨蛋舉行的「小傑尼斯大祭〜從東京巨蛋啟程〜」中與同為小傑尼斯組合的[Snow Man一起宣佈將於](../Page/Snow_Man.md "wikilink")2020年發行CD出道。 同時宣佈8月9日起從小傑尼斯共有的YouTube頻道畢業、開設獨立[Artist YouTube頻道](https://www.youtube.com/channel/UCwjAKjycHHT1QzHrQN5Stww)以及[公式Instagram](https://www.instagram.com/sixtones_official/)。
 
 ## 原創歌曲
 
@@ -178,7 +178,9 @@ SixTONES的意思是解作六個不同的音階，代表著六人每人也有各
   - 御台場 踊り場 土日の遊び場（2017年12月9日 - 10日、東京・御台場特設会場 富士電視台港灣棚）
   - Johnny's Jr.祭り 2018（2018年2月23日 - 25日、大阪城Hall / 3月24日・27日〔合同公演〕・26日〔單獨公演〕、橫濱體育館）
   - Summer Paradise 2018（2018年7月28日 - 8月4日、28日、29日、TOKYO DOME CITY HALL)
-  - CHANGE the ERA -201ix-（2019年3月21 - 23日橫濱體育館 / 4月20日宮城·Sekisui Heim Super Arena〔追加公演〕 / 5月1 - 2日大阪城Hall）
+  - CHANGE the ERA -201ix-（2019年3月21 - 23日、橫濱體育館 / 4月20日、宮城·Sekisui Heim Super Arena〔追加公演〕 / 5月1 - 2日、大阪城Hall）
+  - Johnny's Jr. 8・8祭り〜從東京巨蛋開始〜（2019年8月8日、東京巨蛋）
+  - Rough"xxxxxx"（2019年10月9日 - 12月23日、兵庫．京都．愛知．長野．廣島．大阪．岐阜．石川．富山．東京．福島．宮城．香川．沖繩 / 2020年、神奈川．福岡．大阪．靜岡．宮城）
 
 ### 舞台劇
 
@@ -191,6 +193,7 @@ SixTONES的意思是解作六個不同的音階，代表著六人每人也有各
   - 少年們 LIVE（2017年10月7日 - 10月17日、愛知・兵庫・和歌山・廣島）
   - Johnny's Happy New Year Island（2018年1月1日 - 1月27日、帝國劇場）
   - 少年們 然後、在那之後・・・（2018年9月7日 - 9月28日、日生劇場)
+  - 少年們 To be\!（2019年9月7日 - 9月28日、日生劇場）
 
 ### 綜藝節目
 
@@ -200,7 +203,7 @@ SixTONES的意思是解作六個不同的音階，代表著六人每人也有各
 
   - [傑尼斯大運動会](https://zh.wikipedia.org/wiki/傑尼斯大運動会 "wikilink")（2017年4月16日、東京巨蛋）
   - [YouTube FanFest](https://zh.wikipedia.org/wiki/YouTube_FanFest "wikilink") Music（2018年12月11日、幕張展覽館）
-  - KANSAI COLLECTION 2019 SPRING／SUMMER（2019年3月17日、京瓷巨蛋大阪） - Secret Guest
+  - [KANSAI COLLECTION 2019 SPRING／SUMMER](https://ja.wikipedia.org/wiki/関西コレクション)（2019年3月17日、京瓷巨蛋大阪） - Secret Guest
 
 ### 電影
 

@@ -760,6 +760,43 @@
   - [陽明山美軍宿舍](https://zh.wikipedia.org/wiki/陽明山 "wikilink")
   - [汐止區](../Page/汐止區.md "wikilink")新山夢湖
 
+## 獎項
+
+<table>
+<thead>
+<tr class="header">
+<th><p>年度</p></th>
+<th><p>大獎</p></th>
+<th><p>獎項</p></th>
+<th><p>入圍者</p></th>
+<th><p>結果</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2019年</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/第54屆金鐘獎" title="wikilink">第54屆金鐘獎</a></p></td>
+<td><p>戲劇節目男主角獎</p></td>
+<td><p><a href="../Page/王識賢.md" title="wikilink">王識賢</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>戲劇節目女主角獎</p></td>
+<td><p><a href="../Page/蔡淑臻.md" title="wikilink">蔡淑臻</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ## 製作團隊
 
   - 輔助製作：[行政院科技部](https://zh.wikipedia.org/wiki/中華民國科技部 "wikilink")、[文化部影視及流行音樂產業局](https://zh.wikipedia.org/wiki/文化部影視及流行音樂產業局 "wikilink")
@@ -772,10 +809,10 @@
   - 執行監製：
   - 企劃 / 宣傳：
   - 科學顧問：
-  - 導演：[張佳賢](https://zh.wikipedia.org/wiki/張佳賢 "wikilink")、[陳嘉鴻](https://zh.wikipedia.org/wiki/陳嘉鴻 "wikilink")、[許肇任](https://zh.wikipedia.org/wiki/許肇任 "wikilink")
-  - 執行導演：[洪子桓](https://zh.wikipedia.org/wiki/洪子桓 "wikilink")
+  - 導演：[張佳賢](https://zh.wikipedia.org/wiki/張佳賢 "wikilink")、[陳嘉鴻](https://zh.wikipedia.org/wiki/陳嘉鴻 "wikilink")、[許肇任](https://zh.wikipedia.org/wiki/許肇任 "wikilink") [姜秉辰](https://zh.wikipedia.org/wiki/姜秉辰 "wikilink")
+  - 執行導演：[洪子烜](https://zh.wikipedia.org/wiki/洪子烜 "wikilink")
   - 武術導演：[吳仁建](https://zh.wikipedia.org/wiki/吳仁建 "wikilink")
-  - 編劇：[吳毓青](https://zh.wikipedia.org/wiki/吳毓青 "wikilink")、[鄧莉芬](https://zh.wikipedia.org/wiki/鄧莉芬 "wikilink")、[費工怡](https://zh.wikipedia.org/wiki/費工怡 "wikilink")、[李登雅](https://zh.wikipedia.org/wiki/李登雅 "wikilink")、[陳萱](https://zh.wikipedia.org/wiki/陳萱 "wikilink")、[張文綺](https://zh.wikipedia.org/wiki/張文綺 "wikilink")、[洪子桓](https://zh.wikipedia.org/wiki/洪子桓 "wikilink")
+  - 編劇：[吳毓青](https://zh.wikipedia.org/wiki/吳毓青 "wikilink")、[鄧莉芬](https://zh.wikipedia.org/wiki/鄧莉芬 "wikilink")、[費工怡](https://zh.wikipedia.org/wiki/費工怡 "wikilink")、[李登雅](https://zh.wikipedia.org/wiki/李登雅 "wikilink")、[陳萱](https://zh.wikipedia.org/wiki/陳萱 "wikilink")、[張文綺](https://zh.wikipedia.org/wiki/張文綺 "wikilink")、[洪子烜](https://zh.wikipedia.org/wiki/洪子烜 "wikilink")
 
 ## 參考資料
 

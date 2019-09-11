@@ -529,12 +529,23 @@ KOKORO<sup>1st</sup>、粼粼<sup>1st</sup>(<a href="../Page/Cherry_Bullet.md" t
 | 素嬉                                                                     | A                                                   |                                                                                                                      |                                                                       |              |            |
 | 多玹                                                                     | A                                                   |                                                                                                                      |                                                                       |              |            |
 | 特別出演：[INFINITE](../Page/INFINITE.md "wikilink")                        | [南優鉉](https://zh.wikipedia.org/wiki/南優鉉 "wikilink") | AAFFFFF                                                                                                              |                                                                       |              |            |
-| 64                                                                     | 8月20日                                               | 漂亮的95s<sup>1st</sup>                                                                                                 | [陸星材](../Page/陸星材.md "wikilink") ([BTOB](../Page/BTOB.md "wikilink")) | 甚麼都多         | **陸星材**    |
+| 64                                                                     | 8月20日                                               | [漂亮的95s](../Page/漂亮的95s.md "wikilink")<sup>1st</sup>                                                                 | [陸星材](../Page/陸星材.md "wikilink") ([BTOB](../Page/BTOB.md "wikilink")) | 甚麼都多         | **陸星材**    |
 | Ricky ([TEEN TOP](https://zh.wikipedia.org/wiki/TEEN_TOP "wikilink"))‬ | 大部分是F                                               |                                                                                                                      |                                                                       |              |            |
 | 趙榮旻                                                                    | F                                                   |                                                                                                                      |                                                                       |              |            |
 | 趙光旻                                                                    | AA                                                  |                                                                                                                      |                                                                       |              |            |
 | 白敬道                                                                    | F                                                   |                                                                                                                      |                                                                       |              |            |
-| 65                                                                     | 8月27日                                               | [吳夏榮](../Page/吳夏榮.md "wikilink")<sup>2nd</sup>([Apink](../Page/Apink.md "wikilink"))                                 | 吳夏榮                                                                   |              |            |
+| 65                                                                     | 8月27日                                               | [吳夏榮](../Page/吳夏榮.md "wikilink")<sup>2nd</sup>([Apink](../Page/Apink.md "wikilink"))                                 | 吳夏榮                                                                   | FFFF         | **吳夏榮**    |
+|                                                                        |                                                     | [X1](../Page/X1_\(組合\).md "wikilink")<sup>1st</sup>                                                                  | [韓勝宇](../Page/韓勝宇.md "wikilink")                                      |              |            |
+| [曹承衍](../Page/曹承衍.md "wikilink")                                       |                                                     |                                                                                                                      |                                                                       |              |            |
+| [金宇碩](../Page/金宇碩.md "wikilink")                                       |                                                     |                                                                                                                      |                                                                       |              |            |
+| [金曜漢](../Page/金曜漢.md "wikilink")                                       |                                                     |                                                                                                                      |                                                                       |              |            |
+| [李翰潔](../Page/李翰潔.md "wikilink")                                       |                                                     |                                                                                                                      |                                                                       |              |            |
+| [車俊昊](../Page/車俊昊.md "wikilink")                                       |                                                     |                                                                                                                      |                                                                       |              |            |
+| [孫東杓](../Page/孫東杓.md "wikilink")                                       |                                                     |                                                                                                                      |                                                                       |              |            |
+| [姜敏熙](https://zh.wikipedia.org/wiki/姜敏熙 "wikilink")                    |                                                     |                                                                                                                      |                                                                       |              |            |
+| [李垠尚](../Page/李垠尚.md "wikilink")                                       |                                                     |                                                                                                                      |                                                                       |              |            |
+| [宋亨俊](../Page/宋亨俊.md "wikilink")                                       |                                                     |                                                                                                                      |                                                                       |              |            |
+| [南道賢](../Page/南道賢.md "wikilink")                                       |                                                     |                                                                                                                      |                                                                       |              |            |
 |                                                                        |                                                     |                                                                                                                      |                                                                       |              |            |
 
 ## Idol 999
@@ -561,6 +572,8 @@ KOKORO<sup>1st</sup>、粼粼<sup>1st</sup>(<a href="../Page/Cherry_Bullet.md" t
 | 13      |
 | 14      |
 | 15      |
+| 16      |
+| 17      |
 |         |
 
 ## 收視率
@@ -920,9 +933,14 @@ KOKORO<sup>1st</sup>、粼粼<sup>1st</sup>(<a href="../Page/Cherry_Bullet.md" t
 <tr class="even">
 <td><p>65</p></td>
 <td><p>8月27日</p></td>
-<td><p>%</p></td>
+<td><p>0.554%</p></td>
 </tr>
 <tr class="odd">
+<td><p>66</p></td>
+<td><p>9月3日</p></td>
+<td><p>%</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>

@@ -102,7 +102,7 @@ Raising The Bar</p></td>
 Young Charioteers</p></td>
 <td style="text-align: center;"><p>20</p></td>
 <td style="text-align: center;"><p><a href="../Page/羅仲謙.md" title="wikilink">羅仲謙</a>、<a href="../Page/沈震軒.md" title="wikilink">沈震軒</a>、<a href="https://zh.wikipedia.org/wiki/林夏薇" title="wikilink">林夏薇</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/蔡思貝" title="wikilink">蔡思貝</a>、<a href="../Page/米雪.md" title="wikilink">米　雪</a>、<a href="../Page/陳奐仁.md" title="wikilink">陳奐仁</a></p></td>
+<a href="../Page/蔡思貝.md" title="wikilink">蔡思貝</a>、<a href="../Page/米雪.md" title="wikilink">米　雪</a>、<a href="../Page/陳奐仁.md" title="wikilink">陳奐仁</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/關永忠.md" title="wikilink">關永忠</a></p></td>
 <td style="text-align: center;"><p>主：美好的時光（<a href="../Page/吳若希.md" title="wikilink">吳若希</a>）</p></td>
 <td style="text-align: center;"></td>
@@ -219,7 +219,7 @@ Elite Brigade III</p></td>
 <a href="https://zh.wikipedia.org/wiki/張雷" title="wikilink">張　雷</a>、<a href="https://zh.wikipedia.org/wiki/李逸朗" title="wikilink">李逸朗</a>、<a href="../Page/何華超.md" title="wikilink">何華超</a>、<br />
 <a href="../Page/吳嘉龍.md" title="wikilink">吳嘉龍</a>、<a href="../Page/蔡明思.md" title="wikilink">蔡明思</a>、<a href="../Page/林嘉華.md" title="wikilink">林嘉華</a>、<br />
 <a href="../Page/王志安.md" title="wikilink">王志安</a>、<a href="../Page/何浩文.md" title="wikilink">何浩文</a>、<a href="../Page/徐偉棟.md" title="wikilink">徐偉棟</a>、<br />
-<a href="../Page/蔡穎恩.md" title="wikilink">蔡穎恩</a>、<a href="../Page/廖子妤.md" title="wikilink">廖子妤</a>、<a href="https://zh.wikipedia.org/wiki/王喜" title="wikilink">王　喜</a>、<br />
+<a href="../Page/蔡穎恩.md" title="wikilink">蔡穎恩</a>、<a href="../Page/廖子妤.md" title="wikilink">廖子妤</a>、<a href="../Page/王喜.md" title="wikilink">王　喜</a>、<br />
 <a href="../Page/宣萱.md" title="wikilink">宣　萱</a>、<a href="../Page/陳國邦.md" title="wikilink">陳國邦</a>、<a href="../Page/周家怡.md" title="wikilink">周家怡</a>、<br />
 <a href="../Page/金興賢.md" title="wikilink">金興賢</a>、<a href="../Page/陳健朗.md" title="wikilink">陳健朗</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/鄭惠芳" title="wikilink">鄭惠芳</a></p></td>

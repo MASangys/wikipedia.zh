@@ -365,7 +365,7 @@ Jackie</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/王喜" title="wikilink">王　喜</a><br />
+<td><p><a href="../Page/王喜.md" title="wikilink">王　喜</a><br />
 <a href="https://zh.wikipedia.org/wiki/陳鎮東" title="wikilink">陳鎮東</a>（青年）</p></td>
 <td><p>鍾向華</p></td>
 <td><p>啟德消防局消防隊長</p></td>

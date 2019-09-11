@@ -60,8 +60,6 @@
 
 5月20日於《[人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")》中以6,972分獲得**第十個一位**。
 
-## 內容物
-
 ## 曲目
 
 《Time for the Moon Night》共收錄了不同曲風的8首歌曲，除了專輯同名主打歌《Time for the Moon Night (밤)》之外，專輯中還收錄了表現春天的溫暖氣息與 GFRIEND 的清新午後時光的序幕曲《INTRO (DAYTIME)》、以昆蟲來比喻陷入愛情的心情的《LOVE BUG》、具有 GFRIEND 特有的童話氛圍的《FLOWER GARDEN (휘리휘리)》、歌詞有趣的 Nudisco 風歌曲《TIK TIK (틱틱)》、唱出離別之痛的抒情曲《BYE》、描寫了成員們在舞台上與粉絲們視線交會的瞬間，向粉絲們傳達心意的歌曲《YOU ARE MY STAR (별)》，以及《Time for the Moon Night》的純音樂版本等以「夜晚」為主題的歌曲。

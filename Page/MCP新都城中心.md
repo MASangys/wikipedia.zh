@@ -36,7 +36,7 @@ MCP Fresh Entrance.jpg|入口 MCP Fresh (2).jpg|家品、雜貨、服裝及凍�
 
 ## MCP Discovery
 
-[MCP_discovery.png](https://zh.wikipedia.org/wiki/File:MCP_discovery.png "fig:MCP_discovery.png") [於寶琳港鐵站內的MCP DISCOVERY入口](https://zh.wikipedia.org/wiki/File:Mcp3.jpg "fig:於寶琳港鐵站內的MCP DISCOVERY入口") [Metro_City_Phase_3_2014.jpg](https://zh.wikipedia.org/wiki/File:Metro_City_Phase_3_2014.jpg "fig:Metro_City_Phase_3_2014.jpg") [Metro_City_Phase_3_Main_Atrium_201405.jpg](https://zh.wikipedia.org/wiki/File:Metro_City_Phase_3_Main_Atrium_201405.jpg "fig:Metro_City_Phase_3_Main_Atrium_201405.jpg")
+[MCP_Discovery_logo.svg](https://zh.wikipedia.org/wiki/File:MCP_Discovery_logo.svg "fig:MCP_Discovery_logo.svg") [於寶琳港鐵站內的MCP DISCOVERY入口](https://zh.wikipedia.org/wiki/File:Mcp3.jpg "fig:於寶琳港鐵站內的MCP DISCOVERY入口") [Metro_City_Phase_3_2014.jpg](https://zh.wikipedia.org/wiki/File:Metro_City_Phase_3_2014.jpg "fig:Metro_City_Phase_3_2014.jpg") [Metro_City_Phase_3_Main_Atrium_201405.jpg](https://zh.wikipedia.org/wiki/File:Metro_City_Phase_3_Main_Atrium_201405.jpg "fig:Metro_City_Phase_3_Main_Atrium_201405.jpg")
 
 **MCP Discovery**（原稱：新都城中心三期，Metro City Plaza Phase 3）位於貿業路8號，於1999年11月落成，於2000年5月開幕，商場樓高三層，總面積達280,000平方呎。
 

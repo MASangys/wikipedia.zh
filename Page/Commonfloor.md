@@ -32,7 +32,7 @@ CommonFloor的移动端应用程序支持在[Android](../Page/Android.md "wikili
 
   -
   -
-[Category:房地产](https://zh.wikipedia.org/wiki/Category:房地产 "wikilink") [Category:2007年成立的公司](https://zh.wikipedia.org/wiki/Category:2007年成立的公司 "wikilink")
+[Category:印度公司](https://zh.wikipedia.org/wiki/Category:印度公司 "wikilink") [Category:2007年成立的公司](https://zh.wikipedia.org/wiki/Category:2007年成立的公司 "wikilink")
 
 1.
 2.

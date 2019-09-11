@@ -58,7 +58,7 @@
   - 瀏覽器路線：
       - 目前各大瀏覽器偏向自行吸收flash swf檔案，再經由自家的系統轉換成HTML，並高速化，藉以彰顯自家技術高超和維持市場占有率
       - 原player路線　持續增加3D和效能支持
-  - 行動裝置路線：由Adobe推行多年已經漸漸成熟的的Adobe AIR成為國際app開發新寵，同時省略維護和跨平台成本。詳見[Adobe AIR相關介紹](../Page/Adobe_AIR.md "wikilink")
+  - 行動裝置路線：由Adobe推行多年已經漸漸成熟的的Adobe AIR成為國際app開發新寵，同時省略維護和跨平台成本。詳見[Adobe AIR相關介紹](../Page/Adobe_AIR.md "wikilink")。
 
 ## 版本歷史
 

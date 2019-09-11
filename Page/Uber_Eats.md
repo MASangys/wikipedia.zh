@@ -6,6 +6,10 @@ Uber Eats与世界各地城市的当地餐廳合作，并讓使用者可以使�
 
 Uber Technologies Inc于2014年8月首次进军食品交易市场，在圣莫尼卡推出UberFRESH。
 
+## 相關條目
+
+  - [Foodpanda](../Page/Foodpanda.md "wikilink")
+
 ## 参考资料
 
 ## 外部連結

@@ -13,33 +13,276 @@
 
 ## 電視 / 網絡劇
 
-| 首播日期        | 频道                                                       | 電視劇名稱                                                                              | 成員         | 角色                                              | 出现集数                  |
-| ----------- | -------------------------------------------------------- | ---------------------------------------------------------------------------------- | ---------- | ----------------------------------------------- | --------------------- |
-| 2016年       |                                                          |                                                                                    |            |                                                 |                       |
-| 9月5日        | TvN                                                      | 《[獨酒男女](../Page/獨酒男女.md "wikilink")》                                               | 彩妍         | 鄭彩妍                                             | 全集                    |
-| 11月4日       | 《[Entourage](../Page/Entourage_\(韓國電視劇\).md "wikilink")》 | 娜榮、請夏                                                                              | （客串）       | Ep1                                             |                       |
-| 11月7日、12月9日 | NAVER TV、KBS2                                            | 《[心裡的聲音](../Page/心裡的聲音.md "wikilink")》                                             | 世正         | [李光洙鄰家新媳](../Page/李光洙_\(演員\).md "wikilink")（客串） | Ep2（網絡版）、Ep4（電視版）     |
-| 2017年       |                                                          |                                                                                    |            |                                                 |                       |
-| 2月1日        | NAVER TV、V LIVE                                          | 《109次特別的事》                                                                         | 彩妍         | 申紀元（女主角）                                        | 全集（網絡版）               |
-| 3月6日、3月9日   | NAVER TV、MBC                                             | 《[三色幻想](../Page/三色幻想.md "wikilink") - [女王的戒指](../Page/戒指女王.md "wikilink")》         | 素慧         | （客串）                                            | Ep1（網絡版）、Ep1（電視版）     |
-| 4月10日       | NAVER TV、YOUTUBE                                         | 《诗Story》                                                                           | （女主角）      | 全集                                              |                       |
-| 6月25日       | NAVER TV、V LIVE                                          | 《只走花路》                                                                             | 昭彌         | Somi（女主角）                                       |                       |
-| 請夏          | （客串）                                                     | Ep5、6                                                                              |            |                                                 |                       |
-| 7月7日        | 《偶像權限代理》                                                 | 度延 、有情（女主角）                                                                        | 全集         |                                                 |                       |
-| 7月17日       | KBS                                                      | 《[學校2017](../Page/學校2017.md "wikilink")》                                           | 世正         | 羅恩好（女主角）                                        |                       |
-| 7月19日       | SBS                                                      | 《[再次重逢的世界](https://zh.wikipedia.org/wiki/再次重逢的世界_\(電視劇\) "wikilink")》              | 彩妍         | 嚴賢秀（青年时期的女主角）                                   | Ep 1、2、4、5、8、11、16、40 |
-| 7月24日       | NAVER TV                                                 | 《I Am》                                                                             | 機械人艾妮（女主角） | 全集 （網絡版）                                        |                       |
-| 10月5日       | KBS                                                      | 《[Drama Special](https://zh.wikipedia.org/wiki/Drama_Special "wikilink")－姜德順愛情變遷史》 | 素慧         | 姜德順（女主角）                                        | 共一集                   |
-| 10月9日       | MBC                                                      | 《[20世紀少男少女](../Page/20世紀少男少女.md "wikilink")》                                       | 美娜         | 史珍珍 （少年時期）                                      |                       |
-| 12月16日      | tvN                                                      | 《[直立行走的歷史](https://zh.wikipedia.org/wiki/直立行走的歷史 "wikilink")》                      | （女主角）      | 共一集                                             |                       |
-| 12月18日      | Naver tvcast                                             | 意外的英雄們                                                                             | 素慧         | 李允智（女主角）                                        | 全集 （網絡版）              |
-| 12月23日      | tvN                                                      | 和遊記                                                                                | 璉靜         | 李多仁（客串）                                         | Ep1                   |
-| **2018年**   |                                                          |                                                                                    |            |                                                 |                       |
-| 2月20日       | Olleh TV (網絡版） OCN (電視版）                                 | 《[SHORT 冰上爭鋒](../Page/Short_\(電視劇\).md "wikilink")》                                | 度延         | 劉智娜 (女主角)                                       | 全劇                    |
-| 3月17日－4月15日 | [KBS](../Page/韓國放送公社.md "wikilink")                      | 《[一起生活吧](../Page/一起生活吧.md "wikilink")》                                             | 彩妍         | 李美妍（青年時期）                                       | EP1、4 - 10            |
-| 4月5日        | Naver TV、Youtube、Facebook                                | 戀愛路邊攤                                                                              | 客串         | EP5、8                                           |                       |
-| 4月21日       | 請夏                                                       | EP10                                                                               |            |                                                 |                       |
-| 待播          | NAVER TV、YOUTUBE                                         | 《是初戀啊》                                                                             | 素慧         | （女主角）                                           | 全集                    |
+<table>
+<thead>
+<tr class="header">
+<th><p>首播日期</p></th>
+<th><p>频道</p></th>
+<th><p>電視劇名稱</p></th>
+<th><p>成員</p></th>
+<th><p>角色</p></th>
+<th><p>出现集数</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2016年</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>9月5日</p></td>
+<td><p>TvN</p></td>
+<td><p>《<a href="../Page/獨酒男女.md" title="wikilink">獨酒男女</a>》</p></td>
+<td><p>彩妍</p></td>
+<td><p>鄭彩妍</p></td>
+<td><p>全集</p></td>
+</tr>
+<tr class="odd">
+<td><p>11月4日</p></td>
+<td><p>《<a href="../Page/Entourage_(韓國電視劇).md" title="wikilink">Entourage</a>》</p></td>
+<td><p>娜榮、請夏</p></td>
+<td><p>（客串）</p></td>
+<td><p>Ep1</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>11月7日、12月9日</p></td>
+<td><p>NAVER TV、KBS2</p></td>
+<td><p>《<a href="../Page/心裡的聲音.md" title="wikilink">心裡的聲音</a>》</p></td>
+<td><p>世正</p></td>
+<td><p><a href="../Page/李光洙_(演員).md" title="wikilink">李光洙鄰家新媳</a>（客串）</p></td>
+<td><p>Ep2（網絡版）、Ep4（電視版）</p></td>
+</tr>
+<tr class="odd">
+<td><p>2017年</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2月1日</p></td>
+<td><p>NAVER TV、V LIVE</p></td>
+<td><p>《109次特別的事》</p></td>
+<td><p>彩妍</p></td>
+<td><p>申紀元（女主角）</p></td>
+<td><p>全集（網絡版）</p></td>
+</tr>
+<tr class="odd">
+<td><p>3月6日、3月9日</p></td>
+<td><p>NAVER TV、MBC</p></td>
+<td><p>《<a href="../Page/三色幻想.md" title="wikilink">三色幻想</a> - <a href="../Page/戒指女王.md" title="wikilink">女王的戒指</a>》</p></td>
+<td><p>素慧</p></td>
+<td><p>（客串）</p></td>
+<td><p>Ep1（網絡版）、Ep1（電視版）</p></td>
+</tr>
+<tr class="even">
+<td><p>4月10日</p></td>
+<td><p>NAVER TV、YOUTUBE</p></td>
+<td><p>《诗Story》</p></td>
+<td><p>（女主角）</p></td>
+<td><p>全集</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>6月25日</p></td>
+<td><p>NAVER TV、V LIVE</p></td>
+<td><p>《只走花路》</p></td>
+<td><p>昭彌</p></td>
+<td><p>Somi（女主角）</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>請夏</p></td>
+<td><p>（客串）</p></td>
+<td><p>Ep5、6</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>7月7日</p></td>
+<td><p>《偶像權限代理》</p></td>
+<td><p>度延 、有情（女主角）</p></td>
+<td><p>全集</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>7月17日</p></td>
+<td><p>KBS</p></td>
+<td><p>《<a href="../Page/學校2017.md" title="wikilink">學校2017</a>》</p></td>
+<td><p>世正</p></td>
+<td><p>羅恩好（女主角）</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>7月19日</p></td>
+<td><p>SBS</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/再次重逢的世界_(電視劇)" title="wikilink">再次重逢的世界</a>》</p></td>
+<td><p>彩妍</p></td>
+<td><p>嚴賢秀（青年时期的女主角）</p></td>
+<td><p>Ep 1、2、4、5、8、11、16、40</p></td>
+</tr>
+<tr class="even">
+<td><p>7月24日</p></td>
+<td><p>NAVER TV</p></td>
+<td><p>《I Am》</p></td>
+<td><p>機械人艾妮（女主角）</p></td>
+<td><p>全集 （網絡版）</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>10月5日</p></td>
+<td><p>KBS</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/Drama_Special" title="wikilink">Drama Special</a>－姜德順愛情變遷史》</p></td>
+<td><p>素慧</p></td>
+<td><p>姜德順（女主角）</p></td>
+<td><p>共一集</p></td>
+</tr>
+<tr class="even">
+<td><p>10月9日</p></td>
+<td><p>MBC</p></td>
+<td><p>《<a href="../Page/20世紀少男少女.md" title="wikilink">20世紀少男少女</a>》</p></td>
+<td><p>美娜</p></td>
+<td><p>史珍珍 （少年時期）</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>12月16日</p></td>
+<td><p>tvN</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/直立行走的歷史" title="wikilink">直立行走的歷史</a>》</p></td>
+<td><p>（女主角）</p></td>
+<td><p>共一集</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>12月18日</p></td>
+<td><p>Naver tvcast</p></td>
+<td><p>意外的英雄們</p></td>
+<td><p>素慧</p></td>
+<td><p>李允智（女主角）</p></td>
+<td><p>全集 （網絡版）</p></td>
+</tr>
+<tr class="odd">
+<td><p>12月23日</p></td>
+<td><p>tvN</p></td>
+<td><p>和遊記</p></td>
+<td><p>璉靜</p></td>
+<td><p>李多仁（客串）</p></td>
+<td><p>Ep1</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>2018年</strong></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2月20日</p></td>
+<td><p>Olleh TV (網絡版） OCN (電視版）</p></td>
+<td><p>《<a href="../Page/Short_(電視劇).md" title="wikilink">SHORT 冰上爭鋒</a>》</p></td>
+<td><p>度延</p></td>
+<td><p>劉智娜 (女主角)</p></td>
+<td><p>全劇</p></td>
+</tr>
+<tr class="even">
+<td><p>3月17日－4月15日</p></td>
+<td><p><a href="../Page/韓國放送公社.md" title="wikilink">KBS</a></p></td>
+<td><p>《<a href="../Page/一起生活吧.md" title="wikilink">一起生活吧</a>》</p></td>
+<td><p>彩妍</p></td>
+<td><p>李美妍（青年時期）</p></td>
+<td><p>EP1、4 - 10</p></td>
+</tr>
+<tr class="odd">
+<td><p>4月5日</p></td>
+<td><p>Naver TV、Youtube、Facebook</p></td>
+<td><p>戀愛路邊攤</p></td>
+<td><p>客串</p></td>
+<td><p>EP5、8</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>4月21日</p></td>
+<td><p>請夏</p></td>
+<td><p>EP10</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>待播</p></td>
+<td><p>NAVER TV、YOUTUBE</p></td>
+<td><p>《是初戀啊》</p></td>
+<td><p>素慧</p></td>
+<td><p>（女主角）</p></td>
+<td><p>全集</p></td>
+</tr>
+<tr class="even">
+<td><table>
+<thead>
+<tr class="header">
+<th><p><strong>2019年</strong></p></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>4月18日</p></td>
+<td><p><a href="../Page/Netflix.md" title="wikilink">Netflix</a></p></td>
+<td><p>《<strong>因為初戀是第一次</strong>》第一季</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄭彩娟" title="wikilink">彩妍</a></p></td>
+<td><p>韓松伊(女主角)</p></td>
+<td><p>全集</p></td>
+</tr>
+<tr class="even">
+<td><p>7月13日</p></td>
+<td><p>tvN</p></td>
+<td><p>《<strong>德魯納酒店</strong>》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/康美娜" title="wikilink">美娜</a></p></td>
+<td><p>金宥娜(配角)</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>7月26日</p></td>
+<td><p><a href="../Page/Netflix.md" title="wikilink">Netflix</a></p></td>
+<td><p>《<strong>因為初戀是第一次</strong>》第二季</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄭彩娟" title="wikilink">彩妍</a></p></td>
+<td><p>韓松伊(女主角)</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>8月5日-9月24日</p></td>
+<td><p>KBS2</p></td>
+<td><p>《<a href="../Page/讓我聆聽你的歌.md" title="wikilink">讓我聆聽你的歌</a>》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金世正" title="wikilink">世正</a></p></td>
+<td><p>洪怡英(女主角)</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>8月10日</p></td>
+<td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a></p></td>
+<td><p>《<strong>浪漫的體質</strong>》</p></td>
+<td><p><a href="../Page/金度延.md" title="wikilink">度延</a></p></td>
+<td><p><a href="../Page/金度延.md" title="wikilink">度延</a>(客串)</p></td>
+<td><p>EP2</p></td>
+</tr>
+</tbody>
+</table>
 
 ## 電影
 
@@ -1526,6 +1769,10 @@ MBC Music</p></td>
 | 5月24日                                               |
 | 5月25日、6月1日                                          |
 | 5月26日、6月2日                                          |
+| 6月5日                                                |
+| 6月8日                                                |
+| 6月18日                                               |
+| 8月17日8月24日                                          |
 
 ## 主持
 

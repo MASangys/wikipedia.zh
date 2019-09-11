@@ -1,6 +1,6 @@
 **Irene Kim**（；），[藝名](../Page/藝名.md "wikilink")：**Irene**（），[韓國知名](https://zh.wikipedia.org/wiki/韓國 "wikilink")[超級名模](../Page/超級名模.md "wikilink")。知名潮模、部落客、街拍人物，因特殊又時尚的妝髮衣著而大受歡迎\[1\]
 
-### 出道經歷
+## 出道經歷
 
   - 2012年：Steve J & Yoni P模特兒
 
@@ -17,6 +17,7 @@
   - 2016年：[On Style](https://zh.wikipedia.org/wiki/On_Style "wikilink") 《[Lipstick Prince](../Page/Lipstick_Prince.md "wikilink")》
   - 2017年：[YouTube](../Page/YouTube.md "wikilink") 《Irene X Amber New York Story》
   - 2018年: [myTV SUPER](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")、[CJ E\&M HK及](https://zh.wikipedia.org/wiki/CJ_E&M_HK "wikilink")[tvN Originals](https://zh.wikipedia.org/wiki/tvN_Originals "wikilink") [《走出韓妝教室》香港篇](../Page/《走出韓妝教室》香港篇.md "wikilink")\[2\]
+  - 2019年：[On Style](https://zh.wikipedia.org/wiki/On_Style "wikilink")《[Get It Beauty](https://zh.wikipedia.org/wiki/Get_It_Beauty "wikilink")》、[JTBC](../Page/JTBC.md "wikilink")《[認識的哥哥](../Page/認識的哥哥.md "wikilink")》
 
 ### MV
 

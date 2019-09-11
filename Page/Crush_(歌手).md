@@ -813,6 +813,8 @@ Crush作为的一员，于2012年12月7日以作曲兼作词的R\&B歌手的身�
 
   -
   -
+  - [Crush的YouTube頻道](https://www.youtube.com/channel/UCEU3spVQMmXrU0Nqhw00Gpg)
+
 [Category:韓國饒舌歌手](https://zh.wikipedia.org/wiki/Category:韓國饒舌歌手 "wikilink") [Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink") [Category:Mnet亞洲音樂大獎獲得者](https://zh.wikipedia.org/wiki/Category:Mnet亞洲音樂大獎獲得者 "wikilink")
 
 1.  [經本人確認正名為申效涉](https://wx4.sinaimg.cn/mw1024/006XxwIFly1ftioirt739j30yi1a0q8j.jpg)

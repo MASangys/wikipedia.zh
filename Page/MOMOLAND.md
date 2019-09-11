@@ -241,7 +241,7 @@ LineData =
 <ul>
 <li>發行日期：2016年11月10日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
-<li>銷量：1,915</li>
+<li>銷量：2,915</li>
 </ul></td>
 <td></td>
 </tr>
@@ -251,7 +251,7 @@ LineData =
 <ul>
 <li>發行日期：2017年8月22日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
-<li>銷量：3,664</li>
+<li>銷量：4,664</li>
 </ul></td>
 <td></td>
 </tr>
@@ -261,7 +261,7 @@ LineData =
 <ul>
 <li>發行日期：2018年1月3日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
-<li>銷量： 21,285+</li>
+<li>銷量： 41,285+</li>
 </ul></td>
 <td></td>
 </tr>
@@ -271,7 +271,7 @@ LineData =
 <ul>
 <li>發行日期：2018年6月26日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
-<li>銷量：14,498[16]</li>
+<li>銷量：24,498[16]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -281,7 +281,7 @@ LineData =
 <ul>
 <li>發行日期：2019年3月20日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
-<li>銷量：9,153</li>
+<li>銷量：13,153</li>
 </ul></td>
 <td></td>
 </tr>
@@ -527,6 +527,13 @@ LineData =
 <td><p>第33屆<a href="https://zh.wikipedia.org/wiki/金唱片獎" title="wikilink">金唱片獎</a></p></td>
 <td><p>音源本賞</p></td>
 <td><p>BBoom BBoom</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第3屆<a href="../Page/Soribada最佳音樂大獎.md" title="wikilink">Soribada最佳音樂大獎</a></p></td>
+<td><p>本賞</p></td>
+<td><p>MOMOLAND</p></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>

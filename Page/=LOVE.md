@@ -32,7 +32,7 @@
 <td></td>
 <td></td>
 <td><p>東京都</p></td>
-<td><p>曾為アキシブproject的成員</p></td>
+<td><p>曾為（）的成員</p></td>
 </tr>
 <tr class="even">
 <td><p>大場花菜</p></td>
@@ -54,7 +54,7 @@
 <td></td>
 <td></td>
 <td><p>栃木縣</p></td>
-<td><p>曾為<a href="https://zh.wikipedia.org/wiki/amorecarina" title="wikilink">amorecarina</a>（）的成员<br />
+<td><p>曾為amorecarina東京（）的成员<br />
 最年少</p></td>
 </tr>
 <tr class="odd">
@@ -71,7 +71,7 @@
 <td></td>
 <td></td>
 <td><p>愛知縣</p></td>
-<td><p>曾為的成員</p></td>
+<td><p>曾為穗之國少女（）的成員</p></td>
 </tr>
 <tr class="odd">
 <td><p>佐竹音乃<br />
@@ -86,7 +86,8 @@
 <td></td>
 <td></td>
 <td><p>東京都</p></td>
-<td></td>
+<td><p>第1－5張單曲的Center（中心成員）<br />
+2019年9月12日起因健康因素暫停活動[11]</p></td>
 </tr>
 <tr class="odd">
 <td><p>瀧脇笙古</p></td>
@@ -114,7 +115,7 @@
 <td></td>
 <td></td>
 <td><p>廣島縣</p></td>
-<td><p>曾為SPL∞ASH的成員<br />
+<td><p>曾為的成員<br />
 =LOVE隊長</p></td>
 </tr>
 </tbody>
@@ -122,7 +123,7 @@
 
 ## 作品
 
-※「最高位」为单曲或专辑在[Oricon週榜的最高名次](../Page/Oricon公信榜.md "wikilink")\[11\]。
+※「最高位」为单曲或专辑在[Oricon週榜的最高名次](../Page/Oricon公信榜.md "wikilink")\[12\]。
 
 ### 单曲
 
@@ -143,6 +144,10 @@
 | 5      | 2019年4月24日   | 《[去尋找鑽石百合](../Page/去尋找鑽石百合.md "wikilink")》                           | CD+DVD                                                                                      | VVCL-1435/6 | 初回生產限定盤 Type-A | 2位  |
 | CD+DVD | VVCL-1437/8  | 初回仕様限定盤 Type-B                                                       |                                                                                             |             |                |     |
 | CD     | VVCL-1439    | 通常盤（Type-C）                                                          |                                                                                             |             |                |     |
+| 6      | 2019年10月30日  | （題名未定）                                                               | CD+DVD                                                                                      |             | 初回生產限定盤 Type-A | （）  |
+| CD+DVD |              | 初回生產限定盤 Type-B                                                       |                                                                                             |             |                |     |
+| CD+DVD |              | 初回生產限定盤 Type-C                                                       |                                                                                             |             |                |     |
+| CD     |              | 通常盤 Type-D                                                           |                                                                                             |             |                |     |
 
 ## 参考文献
 
@@ -189,3 +194,5 @@
 10.
 
 11.
+
+12.

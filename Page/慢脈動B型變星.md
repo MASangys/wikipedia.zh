@@ -530,7 +530,7 @@
 14. 同時是[仙王座β型變星](../Page/仙王座β型變星.md "wikilink")
 
 15.
-16. 同時是[大陵五型變星](https://zh.wikipedia.org/wiki/大陵五型變星 "wikilink")
+16. 同時是[大陵五型變星](../Page/大陵五型變星.md "wikilink")
 
 17.
 18.

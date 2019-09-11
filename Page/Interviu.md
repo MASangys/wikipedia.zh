@@ -726,7 +726,7 @@
 <tr class="even">
 <td><p>56</p></td>
 <td><p>6月4日</p></td>
-<td><p><a href="../Page/陳志雲.md" title="wikilink">陳志雲</a>、<a href="https://zh.wikipedia.org/wiki/葉童" title="wikilink">葉童</a>、<a href="../Page/石修.md" title="wikilink">石修</a>、<a href="https://zh.wikipedia.org/wiki/王喜" title="wikilink">王喜</a></p></td>
+<td><p><a href="../Page/陳志雲.md" title="wikilink">陳志雲</a>、<a href="https://zh.wikipedia.org/wiki/葉童" title="wikilink">葉童</a>、<a href="../Page/石修.md" title="wikilink">石修</a>、<a href="../Page/王喜.md" title="wikilink">王喜</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/廖嘉輝" title="wikilink">廖嘉輝</a></p></td>
 </tr>
 <tr class="odd">
@@ -814,7 +814,7 @@
 <td><p>羅沛琪</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/王喜" title="wikilink">王喜</a>、<a href="../Page/黃百鳴.md" title="wikilink">黃百鳴</a>、<a href="../Page/陳心遙.md" title="wikilink">陳心遙</a></p></td>
+<td><p><a href="../Page/王喜.md" title="wikilink">王喜</a>、<a href="../Page/黃百鳴.md" title="wikilink">黃百鳴</a>、<a href="../Page/陳心遙.md" title="wikilink">陳心遙</a></p></td>
 <td></td>
 <td></td>
 <td></td>

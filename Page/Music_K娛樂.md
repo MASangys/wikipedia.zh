@@ -1,13 +1,6 @@
-**MusicK娛樂**（）是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")\[1\]。成立在2014年，之前為[Keyeast](../Page/Keyeast.md "wikilink")的旗下子公司。2016年，脫離Keyeast，成爲獨立管理。當前藝人包括Solo歌手[洪真英](../Page/洪真英.md "wikilink")、組合[IZ](https://zh.wikipedia.org/wiki/IZ "wikilink")。
+**MusicK娛樂**（）是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")\[1\]。成立在2014年，之前為[Keyeast](../Page/Keyeast.md "wikilink")的旗下子公司。2016年，脫離Keyeast，成爲獨立管理。當前藝人包括組合[IZ](https://zh.wikipedia.org/wiki/IZ "wikilink")。
 
 ## 旗下藝人
-
-### Solo 歌手
-
-| 出道年份       | 名稱                               |
-| ---------- | -------------------------------- |
-| 2009年6月19日 | [洪真英](../Page/洪真英.md "wikilink") |
-|            |                                  |
 
 ### 组合
 
@@ -26,6 +19,7 @@
       - [漢拏](../Page/李绣至.md "wikilink")（2016年作爲[Real Girls Project其中一員出道](../Page/Real_Girls_Project.md "wikilink")，2017年簽署[A.O.E](../Page/APPLE_OF_THE_EYE.md "wikilink")，並參加[The Unit偶像選秀節目](../Page/The_Unit.md "wikilink")，成功以[UNI.T](../Page/UNI.T.md "wikilink")限定組合出道）
       - [Jane](https://zh.wikipedia.org/wiki/載寅_\(1999年\) "wikilink")（2016年作爲[Real Girls Project其中一員出道](../Page/Real_Girls_Project.md "wikilink")，2017年簽署[A.O.E](../Page/APPLE_OF_THE_EYE.md "wikilink")）
   - [金珠娜](../Page/金珠娜.md "wikilink")
+  - [洪真英](../Page/洪真英.md "wikilink")
 
 ## 參考文獻
 

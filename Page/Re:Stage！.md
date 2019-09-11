@@ -137,7 +137,7 @@
 <td><p>2017年12月20日</p></td>
 <td></td>
 <td><p>KiRaRe</p></td>
-<td><p>KiRaRe 第3張單曲</p></td>
+<td><p>KiRaRe 第4張單曲</p></td>
 <td><p>[11]</p></td>
 </tr>
 <tr class="odd">
@@ -239,8 +239,18 @@
   - 片頭曲「Don't think,\!\!」
     作詞：高瀨愛虹，作曲、編曲：伊藤翼，主唱：[KiRaRe](https://zh.wikipedia.org/wiki/#KiRaRe "wikilink")
 
-  - 片尾曲「憧れFuture Sign（Piano Strings Arrange）」
-    作詞：，作曲、編曲：伊藤翼，主唱：KiRaRe
+  - 片尾曲
+
+:;「憧れFuture Sign」（第1－7話）
+
+:: 作詞：，作曲、編曲：伊藤翼，主唱：KiRaRe
+
+:;「」（第8話）
+
+  -
+
+      -
+        作詞：高瀨愛虹，作曲、編曲：伊藤翼，主唱：KiRaRe
 
   - 插入曲
 
@@ -256,7 +266,7 @@
 
 :: 作詞、作曲、編曲：，主唱：長谷川美依（[空見雪](../Page/空見雪.md "wikilink")）
 
-:; 「CЯY」（第4話）
+:; 「CЯY」（第4、9話）
 
 :: 作詞：Soflan Daichi，作曲、編曲：伊藤翼，主唱：市杵島瑞葉（[田澤茉純](../Page/田澤茉純.md "wikilink")）、長谷川美依（空見雪）
 
@@ -264,16 +274,28 @@
 
 :: 作詞：高瀨愛虹，作曲、編曲：伊藤翼，主唱：KiRaRe
 
-:; 「Yes. We Are\!\!\!」（第6話）
+:; 「Yes. We Are\!\!\!」（第6、8話）
 
 :: 作詞、作曲、編曲：，主唱：[ortensia](https://zh.wikipedia.org/wiki/#ortensia "wikilink")
 
 :; 「Purple Rays」（第6話）
 
+:: 作詞、作曲、編曲：Hige Driver，主唱：ortensia
+
+:; 「Like the Sun, Like the Moon」（第8話）
+
+:: 作詞、作曲：[俊龍](../Page/俊龍.md "wikilink")，編曲：Sizuk，主唱：Stellamaris
+
+:; 「」（第9話）
+
+:: 作詞：kyo haneda，作曲、編曲：伊藤翼，主唱：柊香惠（[立花芽惠夢](../Page/立花芽惠夢.md "wikilink")）、本城香澄（[岩橋由佳](../Page/岩橋由佳.md "wikilink")）
+
+:; 「」（第9話）
+
   -
 
       -
-        作詞、作曲、編曲：Hige Driver，主唱：ortensia
+        作詞：Soflan Daichi，作曲、編曲：伊藤翼，主唱：式宮舞菜（[牧野天音](../Page/牧野天音.md "wikilink")）、月坂紗由（[鬼頭明里](../Page/鬼頭明里.md "wikilink")）
 
 ### 各話列表
 
@@ -361,13 +383,25 @@
 <td><p>牛島希、鞠野黃英</p></td>
 </tr>
 <tr class="even">
+<td><p>#08</p></td>
 <td></td>
+<td><p>沒酬勞誰要做</p></td>
+<td><p>加茂靖子</p></td>
+<td><p>原博</p></td>
+<td><p>名取孝浩</p></td>
+<td><p>野田智弘、原田練氣<br />
+江口麻里、北條裕之<br />
+鈴木彩乃、東美帆</p></td>
+</tr>
+<tr class="odd">
+<td><p>#09</p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>對方的家長就由我來聯絡吧</p></td>
+<td><p>富田賴子</p></td>
+<td><p>葛谷直行</p></td>
+<td><p>上田慎一郎</p></td>
+<td><p>藪田裕希、辻村步<br />
+梶浦紳一郎</p></td>
 </tr>
 </tbody>
 </table>

@@ -153,7 +153,7 @@ OpenJDK 在 2019 年 9 月停止免费更新</p></td>
 
 代號為**Kestrel**。在的版本中最著名的改變包括：\[9\]\[10\]
 
-  - 包含了[HotSpot](https://zh.wikipedia.org/wiki/HotSpot "wikilink") JVM（HotSpot JVM第一次被發布是在1999年4月，名為J2SE 1.2 JVM）
+  - 包含了[HotSpot](../Page/HotSpot.md "wikilink") JVM（HotSpot JVM第一次被發布是在1999年4月，名為J2SE 1.2 JVM）
   - 為了支援與[CORBA](../Page/CORBA.md "wikilink")的選擇相容性而修改了[RMI](https://zh.wikipedia.org/wiki/Java远程方法调用 "wikilink")
   - Java命名和目錄接口（Java Naming and Directory Interface，縮寫JNDI）包含在主程式庫中（先前為擴充元件的形式）
   - [Java Platform Debugger Architecture](https://zh.wikipedia.org/wiki/JPDA "wikilink") (JPDA)
@@ -303,7 +303,7 @@ JAVA 6釋出後，Sun和後來的Oracle之後，釋出了幾個更新，而不�
 <tr class="odd">
 <td><p>Java SE 6 Update 4</p></td>
 <td><p>2008-01-14</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/HotSpot" title="wikilink">HotSpot</a> VM 10</p></td>
+<td><p><a href="../Page/HotSpot.md" title="wikilink">HotSpot</a> VM 10</p></td>
 </tr>
 <tr class="even">
 <td><p>Java SE 6 Update 5</p></td>
@@ -609,7 +609,7 @@ Oracle 在每季度發布 Java 7 家族每季的公開更新，至2015年4月產
 
 | 版本                         | 釋出日期       | 重點                                                                                                                                                                                        |
 | -------------------------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Java SE 7\[130\]           | 2011-07-28 | 初始版本；[HotSpot](https://zh.wikipedia.org/wiki/HotSpot "wikilink") VM 21                                                                                                                    |
+| Java SE 7\[130\]           | 2011-07-28 | 初始版本；[HotSpot](../Page/HotSpot.md "wikilink") VM 21                                                                                                                                       |
 | Java SE 7 Update 1\[131\]  | 2011-10-18 | 20個安全漏洞修補；其它漏洞修補                                                                                                                                                                          |
 | Java SE 7 Update 2\[132\]  | 2011-12-12 | 沒有安全漏洞修補；HotSpot VM 22；可靠性和性能改進；支援 Solaris 11 和 Firefox 5 之後的版本；[JavaFX](../Page/JavaFX.md "wikilink") 包含 Java SE JDK, 改善了網頁部屬的應用程式。                                                      |
 | Java SE 7 Update 3\[133\]  | 2012-02-14 | 14個安全漏洞修補\[134\]                                                                                                                                                                          |

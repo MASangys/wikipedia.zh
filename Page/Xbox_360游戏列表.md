@@ -5947,7 +5947,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>[[科纳米经典合集 Vol.1]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/科纳米经典合集_Vol.1" title="wikilink">科纳米经典合集 Vol.1</a></p></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Konami_Classics#Vol._1" title="wikilink">Konami Classics Vol. 1</a></em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Konami" title="wikilink">Konami</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Konami" title="wikilink">Konami</a></p></td>
@@ -5958,7 +5958,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>[[科纳米经典合集 Vol.2]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/科纳米经典合集_Vol.2" title="wikilink">科纳米经典合集 Vol.2</a></p></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Konami_Classics#Vol._2" title="wikilink">Konami Classics Vol. 2</a></em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Konami" title="wikilink">Konami</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Konami" title="wikilink">Konami</a></p></td>
@@ -7476,7 +7476,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>[[马儿与我 2]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/马儿与我_2" title="wikilink">马儿与我 2</a></p></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/My_Horse_&amp;_Me_2" title="wikilink">My Horse &amp; Me 2</a></em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Atari" title="wikilink">Atari</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Atari" title="wikilink">Atari</a></p></td>
@@ -7630,7 +7630,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>[[云斯顿赛车 2011]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/云斯顿赛车_2011" title="wikilink">云斯顿赛车 2011</a></p></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/NASCAR_The_Game:_2011" title="wikilink">NASCAR The Game: 2011</a></em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Eutechnyx" title="wikilink">Eutechnyx</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Activision" title="wikilink">Activision</a></p></td>
@@ -8939,7 +8939,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>[[世界足球 胜利十一人2012]}</p></td>
+<td><p><a href="../Page/世界足球_胜利十一人2012.md" title="wikilink">世界足球 胜利十一人2012</a>}</p></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Pro_Evolution_Soccer_2012" title="wikilink">Pro Evolution Soccer 2012</a></em>[73]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Konami" title="wikilink">Konami</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Konami" title="wikilink">Konami</a></p></td>

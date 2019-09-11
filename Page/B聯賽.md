@@ -57,20 +57,20 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/仙台89人" title="wikilink">仙台89人</a></p></td>
-<td><p><a href="../Page/宮城縣.md" title="wikilink">宮城縣</a><a href="../Page/仙台市.md" title="wikilink">仙台市</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/仙台市體育館" title="wikilink">仙台市體育館</a></p></td>
-<td><p>bj聯盟</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/澀谷陽光搖滾" title="wikilink">澀谷陽光搖滾</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a><a href="https://zh.wikipedia.org/wiki/渋谷区" title="wikilink">渋谷区</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/青山學院紀念館" title="wikilink">青山學院紀念館</a></p></td>
+<td><p>NBL</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>中區</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/澀谷陽光搖滾" title="wikilink">澀谷陽光搖滾</a></p></td>
-<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a><a href="https://zh.wikipedia.org/wiki/渋谷区" title="wikilink">渋谷区</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/青山学院記念館" title="wikilink">青山学院記念館</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/三河海馬" title="wikilink">三河海馬</a></p></td>
+<td><p><a href="../Page/愛知縣.md" title="wikilink">愛知縣</a><a href="https://zh.wikipedia.org/wiki/刈谷市" title="wikilink">刈谷市</a></p></td>
+<td></td>
 <td><p>NBL</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/日立陽光搖滾" title="wikilink">日立陽光搖滾</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/愛信海馬三河" title="wikilink">愛信海馬三河</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/新潟天鵝王者BB" title="wikilink">新潟天鵝王者BB</a></p></td>
@@ -145,8 +145,8 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/三河海馬" title="wikilink">三河海馬</a></p></td>
-<td><p><a href="../Page/愛知縣.md" title="wikilink">愛知縣</a><a href="https://zh.wikipedia.org/wiki/刈谷市" title="wikilink">刈谷市</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/島根素戔嗚魔力" title="wikilink">島根素戔嗚魔力</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/島根縣" title="wikilink">島根縣</a><a href="../Page/松江市.md" title="wikilink">松江市</a></p></td>
 <td></td>
 <td><p>NBL</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/愛信海馬三河" title="wikilink">愛信海馬三河</a></p></td>
@@ -181,9 +181,9 @@
 <td><p>東區</p></td>
 <td><p><a href="../Page/青森熱力.md" title="wikilink">青森熱力</a></p></td>
 <td><p><a href="../Page/青森縣.md" title="wikilink">青森縣</a><a href="../Page/青森市.md" title="wikilink">青森市</a></p></td>
-<td><p><em>TBA</em></p></td>
+<td><p>{{ill|ja</p></td>
+<td><p>マエダアリーナ|}}</p></td>
 <td><p>bj-league</p></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/茨城機器人" title="wikilink">茨城機器人</a></p></td>
@@ -202,16 +202,16 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/群馬雷鶴" title="wikilink">群馬雷鶴</a></p></td>
-<td><p><a href="../Page/群馬縣.md" title="wikilink">群馬縣</a><a href="../Page/前橋市.md" title="wikilink">前橋市</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/仙台89人" title="wikilink">仙台89人</a></p></td>
+<td><p><a href="../Page/宮城縣.md" title="wikilink">宮城縣</a><a href="../Page/仙台市.md" title="wikilink">仙台市</a></p></td>
 <td></td>
 <td><p>bj-league</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/岩手大公牛.md" title="wikilink">岩手大公牛</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/岩手縣" title="wikilink">岩手縣</a><a href="../Page/盛岡市.md" title="wikilink">盛岡市</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/群馬雷鶴" title="wikilink">群馬雷鶴</a></p></td>
+<td><p><a href="../Page/群馬縣.md" title="wikilink">群馬縣</a><a href="../Page/前橋市.md" title="wikilink">前橋市</a></p></td>
 <td></td>
 <td><p>bj-league</p></td>
 <td></td>
@@ -220,18 +220,18 @@
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/山形飛龍" title="wikilink">山形飛龍</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/山形縣" title="wikilink">山形縣</a><a href="../Page/天童市.md" title="wikilink">天童市</a></p></td>
-<td><p><em>TBA</em></p></td>
+<td><p>{{ill|ja</p></td>
+<td><p>山形県総合運動公園}}</p></td>
 <td><p>NBDL</p></td>
-<td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>中區</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/奈良雄心" title="wikilink">奈良雄心</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/奈良縣" title="wikilink">奈良縣</a><a href="../Page/奈良市.md" title="wikilink">奈良市</a></p></td>
-<td></td>
-<td><p>bj-league</p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大塚商會越谷阿爾法" title="wikilink">大塚商會越谷阿爾法</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/琦玉縣" title="wikilink">琦玉縣</a><a href="../Page/越谷市.md" title="wikilink">越谷市</a></p></td>
+<td><p>{{ill|ja</p></td>
+<td><p>越谷市立総合体育館メインアリーナ}}</p></td>
+<td><p>NBDL</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/東京地球之友" title="wikilink">東京地球之友</a></p></td>
@@ -277,9 +277,9 @@
 <td><p>西區</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/愛媛維京人" title="wikilink">愛媛維京人</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/愛媛縣" title="wikilink">愛媛縣</a><a href="../Page/松山市.md" title="wikilink">松山市</a></p></td>
-<td><p><em>TBA</em></p></td>
+<td><p>{{ill|ja</p></td>
+<td><p>松山市総合コミュニティセンター}}</p></td>
 <td><p>bj-league</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大分愛媛熱魔" title="wikilink">大分愛媛熱魔</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/廣島蜻蜓" title="wikilink">廣島蜻蜓</a></p></td>
@@ -298,12 +298,12 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/鹿兒島列布尼斯" title="wikilink">鹿兒島列布尼斯</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鹿兒島縣" title="wikilink">鹿兒島縣</a><a href="https://zh.wikipedia.org/wiki/鹿兒島市" title="wikilink">鹿兒島市</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Kagoshima_Arena" title="wikilink">Kagoshima Arena</a></p></td>
-<td><p>NBDL</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/福岡新銳" title="wikilink">福岡新銳</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/福岡縣" title="wikilink">福岡縣</a><a href="../Page/福岡市.md" title="wikilink">福岡市</a></p></td>
+<td><p>{{ill|ja</p></td>
+<td><p>照葉積水ハウスアリーナ}}</p></td>
+<td><p>NBL</p></td>
 <td><p>Renova Kagoshima</p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/熊本火山" title="wikilink">熊本火山</a></p></td>
@@ -314,30 +314,33 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/島根素戔嗚魔力" title="wikilink">島根素戔嗚魔力</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/島根縣" title="wikilink">島根縣</a><a href="../Page/松江市.md" title="wikilink">松江市</a></p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/奈良雄心" title="wikilink">奈良雄心</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/奈良縣" title="wikilink">奈良縣</a><a href="../Page/奈良市.md" title="wikilink">奈良市</a></p></td>
+<td><p>{{ill|ja</p></td>
+<td><p>奈良市中央体育館}}</p></td>
 <td><p>bj-league</p></td>
-<td></td>
 <td></td>
 </tr>
 </tbody>
 </table>
 
-### 第三級 (9隊)
+### 第三級 (12隊)
 
-| Team                                                                    | City, Prefecture                                                                           | 2015-16 League |
-| ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | -------------- |
-| [安城AISHIN AW神馬](https://zh.wikipedia.org/wiki/安城AISHIN_AW神馬 "wikilink") | [愛知縣](../Page/愛知縣.md "wikilink")[安城市](https://zh.wikipedia.org/wiki/安城市_\(日本\) "wikilink") | NBDL           |
-| [金澤武士團](https://zh.wikipedia.org/wiki/金澤武士團 "wikilink")                 | [石川縣](../Page/石川縣.md "wikilink")[金澤市](../Page/金澤市.md "wikilink")                           | bj-league      |
-| [大塚商會越谷阿爾法](https://zh.wikipedia.org/wiki/大塚商會越谷阿爾法 "wikilink")         | [埼玉縣](../Page/埼玉縣.md "wikilink")[越谷市](../Page/越谷市.md "wikilink")                           | NBDL           |
-| [福岡新銳](https://zh.wikipedia.org/wiki/福岡新銳 "wikilink")                   | [福岡縣](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")                                        | bj-league      |
-| [埼玉野馬](https://zh.wikipedia.org/wiki/埼玉野馬 "wikilink")                   | [埼玉縣](../Page/埼玉縣.md "wikilink")[所澤市](../Page/所澤市.md "wikilink")                           | bj-league      |
-| [東京海上日動大藍鯊](https://zh.wikipedia.org/wiki/東京海上日動大藍鯊 "wikilink")         | [東京都](../Page/東京都.md "wikilink")[練馬區](https://zh.wikipedia.org/wiki/練馬區 "wikilink")        | NBDL           |
-| [東京五夢](https://zh.wikipedia.org/wiki/東京五夢 "wikilink")                   | [東京都](../Page/東京都.md "wikilink")                                                           | bj-league      |
-| [東京八王子快車](https://zh.wikipedia.org/wiki/東京八王子快車 "wikilink")             | [東京都](../Page/東京都.md "wikilink")[八王子市](../Page/八王子市.md "wikilink")                         | NBDL           |
-| [豐田合成天蠍](https://zh.wikipedia.org/wiki/豐田合成天蠍 "wikilink")               | [愛知縣](../Page/愛知縣.md "wikilink")[清須市](../Page/清須市.md "wikilink")                           | NBDL           |
-| [岐阜猛撲](https://zh.wikipedia.org/wiki/岐阜猛撲 "wikilink")                   | [岐阜縣](https://zh.wikipedia.org/wiki/岐阜縣 "wikilink")[岐阜市](../Page/岐阜市.md "wikilink")        |                |
+| Team                                                                    | City, Prefecture                                                                                           | 2015-16 League |
+| ----------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | -------------- |
+| [安城AISHIN AW神馬](https://zh.wikipedia.org/wiki/安城AISHIN_AW神馬 "wikilink") | [愛知縣](../Page/愛知縣.md "wikilink")[安城市](https://zh.wikipedia.org/wiki/安城市_\(日本\) "wikilink")                 | NBDL           |
+| [金澤武士團](https://zh.wikipedia.org/wiki/金澤武士團 "wikilink")                 | [石川縣](../Page/石川縣.md "wikilink")[金澤市](../Page/金澤市.md "wikilink")                                           | bj-league      |
+| [鹿兒島列布尼斯](https://zh.wikipedia.org/wiki/鹿兒島列布尼斯 "wikilink")             | [鹿兒島縣](https://zh.wikipedia.org/wiki/鹿兒島縣 "wikilink")[鹿兒島市](https://zh.wikipedia.org/wiki/鹿兒島市 "wikilink") | NBDL           |
+| [ベルテックス静岡](https://zh.wikipedia.org/wiki/ベルテックス静岡 "wikilink")           | [静岡縣](https://zh.wikipedia.org/wiki/静岡縣 "wikilink")[靜岡市](../Page/靜岡市.md "wikilink")                        | \-             |
+| [埼玉野馬](https://zh.wikipedia.org/wiki/埼玉野馬 "wikilink")                   | [埼玉縣](../Page/埼玉縣.md "wikilink")[所澤市](../Page/所澤市.md "wikilink")                                           | bj-league      |
+| [岩手大公牛](../Page/岩手大公牛.md "wikilink")                                    | [岩手縣](https://zh.wikipedia.org/wiki/岩手縣 "wikilink")[盛岡市](../Page/盛岡市.md "wikilink")                        | TKbjLeague     |
+| [東京五夢](https://zh.wikipedia.org/wiki/東京五夢 "wikilink")                   | [東京都](../Page/東京都.md "wikilink")                                                                           | bj-league      |
+| [東京八王子快車](https://zh.wikipedia.org/wiki/東京八王子快車 "wikilink")             | [東京都](../Page/東京都.md "wikilink")[八王子市](../Page/八王子市.md "wikilink")                                         | NBDL           |
+| [豐田合成天蠍](https://zh.wikipedia.org/wiki/豐田合成天蠍 "wikilink")               | [愛知縣](../Page/愛知縣.md "wikilink")[清須市](../Page/清須市.md "wikilink")                                           | NBDL           |
+| [岐阜猛撲](https://zh.wikipedia.org/wiki/岐阜猛撲 "wikilink")                   | [岐阜縣](https://zh.wikipedia.org/wiki/岐阜縣 "wikilink")[岐阜市](../Page/岐阜市.md "wikilink")                        |                |
+| [佐贺バルーナーズ](https://zh.wikipedia.org/wiki/佐贺バルーナーズ "wikilink")           | [佐賀縣](https://zh.wikipedia.org/wiki/佐賀縣 "wikilink")[佐賀市](https://zh.wikipedia.org/wiki/佐賀市 "wikilink")     |                |
+| [ドライフープ岡山](https://zh.wikipedia.org/wiki/ドライフープ岡山 "wikilink")           | [岡山縣](../Page/岡山縣.md "wikilink")[岡山市](../Page/岡山市.md "wikilink")                                           |                |
+|                                                                         |                                                                                                            |                |
 
 ## 參考資料
 

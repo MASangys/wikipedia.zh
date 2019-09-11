@@ -1,6 +1,6 @@
 **GTP**'（GTP prime）是一个用于[GSM](../Page/GSM.md "wikilink")和[UMTS通信网络的基于](https://zh.wikipedia.org/wiki/UMTS "wikilink")[IP网络的协议](https://zh.wikipedia.org/wiki/IP "wikilink")。它可以使用[UDP或](https://zh.wikipedia.org/wiki/UDP "wikilink")[TCP的传输](https://zh.wikipedia.org/wiki/TCP "wikilink")。尽管GTP'协议的消息结构与[GTP相同](../Page/GPRS隧道协议.md "wikilink")（包括控制面的GTP-C和用户面的GTP-U），它仍是一个独立协议。GTP'协议使用UDP/TCP端口3386。
 
-GTP'的功能是在GSM和UMTS网络中将计费数据从计费数据功能（）传输到计费网关功能（）。计费数据功能是对计费功能的抽象，以具体网元为例，通常是GGSN或SGSN等。而计费网关功能通常是一台中心服务器，收集各网元的计费数据，再统一传输给网络运营商的计费中心（）最终生成账单。
+GTP'的功能是在GSM、UMTS和[LTE核心网中将计费数据从计费数据功能](../Page/系统架构演进.md "wikilink")（）传输到计费网关功能（）。计费数据功能是对“计费”这一功能的抽象，以具体网元为例，通常是GGSN或SGSN等。而计费网关功能通常是一台中心服务器，收集各网元的计费数据，再统一传输给网络运营商的计费中心（）最终生成账单。
 
 在3GPP定义的[GPRS核心网](../Page/GPRS核心网.md "wikilink")的[Ga接口上使用的是GTP](https://zh.wikipedia.org/wiki/GPRS核心网#.E5.9C.A8GPRS.E7.BD.91.E7.BB.9C.E4.B8.AD.E7.9A.84.E6.8E.A5.E5.8F.A3 "wikilink")'协议。
 
@@ -70,18 +70,17 @@ Sequence Number</p></td>
 
 ## 消息类型
 
-GTP'协议重用了GTP协议的Version Not Supported、Echo Request和Echo Response这3种消息，此外还定义了如下6种独有的消息。
+GTP'协议重用了GTP协议的Version Not Supported、Echo Request和Echo Response这3种消息，此外还定义了如下3对消息。
 
-  - Node Alive Request
-  - Node Alive Response
-  - Redirection Request
-  - Redirection Response
-  - Data Record Transfer Request
-  - Data Record Transfer Response
+  - Node Alive Request/Response
+  - Redirection Request/Response
+  - Data Record Transfer Request/Response
 
 ### Node Alive Request/Response
 
-Node Alive消息对用于通知其他网元，本网元已经正常工作。Node Alive Request在网元启动完成时发送，与Echo消息对所提供的60秒间隔的轮询机制相比，该消息对能够及时通知对端网元继续之前中断的传输。Node Alive Request也可以用于将其他网元的状态恢复通知给对端网元。
+Node Alive消息对用于通知其他网元，本网元已经正常工作。Node Alive Request在网元启动完成时发送，与Echo消息对所提供的通常维60秒间隔的握手机制相比，该消息对能够及时通知对端网元继续之前中断的传输。Node Alive Request也可以用于将其他网元的状态恢复通知给对端网元。
+
+在GTP' version 2中，Node Alive Request支持IPv6地址。
 
 ### Redirection Request/Response
 
@@ -100,10 +99,10 @@ Data Record Transfer消息对提供了对CDR的可靠传输机制。
 
 Data Record Transfer Request可以有以下4种功能。
 
-1.  发送数据记录（）：该消息可以携带0条至数条CDR。CDR应以ASN.1编码，通常使用编码规则，也可以使用编码规则。
+1.  发送数据记录（）：该消息可以携带0条至数条CDR。CDR应以ASN.1编码，通常使用编码规则，也可以使用[PER编码规则](https://zh.wikipedia.org/wiki/ASN.1#PER_範例（未對齊） "wikilink")。
 2.  发送“可能重复”（）的数据记录：该消息可以携带1条至数条已经向其他CGF发送过的CDR。
 3.  取消数据记录：该消息通知一个CGF从其“可能重复”缓存中清除1条或多条CDR。
-4.  释放数据记录：该消息通知一个CGF处理1条或多条CDR，并从“可能重复”缓存中移除。
+4.  释放数据记录：该消息通知一个CGF处理（使之生效）1条或多条CDR，并从“可能重复”缓存中移除。
 
 Data Record Transfer消息对提供了一套防止丢失或重复计算CDR的机制。其大致机理为，CDF为每一条CDR编制序列号，CGF必须在Data Record Transfer Response消息中逐一对每一个序列号进行确认，未得到确认的CDR将被重传。正常的CDR在被收到后会被转存到非易失性存储设备（例如硬盘）中，但重传的CDR会被标记为“可能重复”，CGF接收到这样的CDR，会存入一个专用的队列中。只有得到CDF的再度确认，才会写入非易失性存储设备。数据记录。此机制细节可以参看3GPP TS 32.295。
 

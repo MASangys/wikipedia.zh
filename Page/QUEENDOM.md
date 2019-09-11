@@ -1,4 +1,4 @@
-《**QUEENDOM**》是日本[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink") [ALI PROJECT](../Page/ALI_PROJECT.md "wikilink") 的第七張[精選專輯](https://zh.wikipedia.org/wiki/精選專輯 "wikilink")，由[MellowHead](../Page/Lantis.md "wikilink")\[1\]於2011年5月25日發行，\[2\]以「限定生產盤」和「通常盤」兩種形態同步發售，\[3\]\[4\]限定盤內含的DVD收錄新曲《Troubadour》的[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")和攝製特典。\[5\]
+《**QUEENDOM**》是日本[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[ALI PROJECT](../Page/ALI_PROJECT.md "wikilink") 的第七張[精選專輯](https://zh.wikipedia.org/wiki/精選專輯 "wikilink")，由[MellowHead](../Page/Lantis.md "wikilink")\[1\]於2011年5月25日發行，\[2\]以「限定生產盤」和「通常盤」兩種形態同步發售，\[3\]\[4\]限定盤內含的DVD收錄新曲《Troubadour》的[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")和攝製特典。\[5\]
 
 ## 概要
 

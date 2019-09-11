@@ -40,7 +40,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/金志洙.md" title="wikilink">金志洙</a></p></td>
-<td><p>金相昱</p></td>
+<td><p>金相旭</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/蔡威賢" title="wikilink">蔡威賢</a></p></td>
 <td><p>完美帥氣，卻從沒談過戀愛的律師，直到他遇到了白雪後，擦出了愛的火花。</p></td>
 </tr>

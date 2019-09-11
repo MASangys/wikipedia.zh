@@ -154,7 +154,7 @@
   -
   -
   -
-[Category:臺灣YouTuber](https://zh.wikipedia.org/wiki/Category:臺灣YouTuber "wikilink") [Category:YouTube頻道](https://zh.wikipedia.org/wiki/Category:YouTube頻道 "wikilink") [Category:朱姓](https://zh.wikipedia.org/wiki/Category:朱姓 "wikilink") [Category:高雄市人](https://zh.wikipedia.org/wiki/Category:高雄市人 "wikilink")
+[Category:臺灣YouTuber](https://zh.wikipedia.org/wiki/Category:臺灣YouTuber "wikilink") [Category:YouTube頻道](https://zh.wikipedia.org/wiki/Category:YouTube頻道 "wikilink") [Category:朱姓](https://zh.wikipedia.org/wiki/Category:朱姓 "wikilink") [Category:新北市人](https://zh.wikipedia.org/wiki/Category:新北市人 "wikilink")
 
 1.
 2.

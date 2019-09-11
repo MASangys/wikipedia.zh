@@ -2,7 +2,7 @@
 
 **英伟达Shield**（又称：英伟达Shield TV、英伟达Shield Gaming Edition、英伟达Shield Smart Home Edition、英伟达神盾，前称：英伟达Shield Android TV、英伟达Shield Pro、英伟达Shield影游一体机；）是于2015年5月由[英伟达](../Page/英伟达.md "wikilink")发布的[微型游戏机](https://zh.wikipedia.org/wiki/微型游戏机 "wikilink")。
 
-它作为[Android TV的](../Page/Android_TV.md "wikilink")[数字媒体播放器推向市场](https://zh.wikipedia.org/wiki/數位視訊轉換盒 "wikilink")，其能够在本地网络上通过兼容PC播放下载的游戏和流游戏，或通过[GeForce Now订阅服务](../Page/GeForce_Now.md "wikilink")。与所有其他Android TV设备一样，也可以使用应用程序从各种来源流式传输内容，还支持4K分辨率视频\[1\]。
+它作为[Android TV的](../Page/Android_TV.md "wikilink")[数字媒体播放器推向市场](../Page/數位視訊轉換盒.md "wikilink")，其能够在本地网络上通过兼容PC播放下载的游戏和流游戏，或通过[GeForce Now订阅服务](../Page/GeForce_Now.md "wikilink")。与所有其他Android TV设备一样，也可以使用应用程序从各种来源流式传输内容，还支持4K分辨率视频\[1\]。
 
 ## 规格
 

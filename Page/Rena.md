@@ -3,7 +3,7 @@
 
 ## 練習生時期
 
-姜藝彬喜歡表演和唱歌，得到父母的支持，成為一名練習生\[4\]。
+Rena喜歡表演和唱歌，得到父母的支持，成為一名練習生\[4\]。
 
 2015年，參與《[Show Me The Money 4](../Page/Show_Me_The_Money_4.md "wikilink")》\[5\]，並與[洁琼](../Page/周潔瓊.md "wikilink")、[银雨出演了](../Page/鄭銀雨.md "wikilink")[SEVENTEEN](https://zh.wikipedia.org/wiki/SEVENTEEN "wikilink")〈MANSAE〉的MV。
 
@@ -11,7 +11,7 @@
 
 ### 出道前：PRODUCE 101
 
-2015年12月，姜艺彬以[Pledis娛樂](../Page/Pledis娛樂.md "wikilink")練習生的身份參演了《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》。在首輪分級任務中，姜藝彬以穩定的實力取得A級。在首次分組任務中，取得壓倒性的勝利\[8\]。在節目中展現出優秀的英語實力\[9\]。最終排名為第二十九名。
+2015年12月，Rena以[Pledis娛樂](../Page/Pledis娛樂.md "wikilink")練習生的身份參演了《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》。在首輪分級任務中，Rena以穩定的實力取得A級。在首次分組任務中，取得壓倒性的勝利\[8\]。在節目中展現出優秀的英語實力\[9\]。最終排名為第二十九名。
 
 ## PRISTIN
 

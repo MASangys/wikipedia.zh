@@ -8,13 +8,15 @@
 
 ## 劇情
 
-1975年，8岁的[琴·葛雷](../Page/琴·葛雷.md "wikilink")的特异功能[念力](../Page/念力.md "wikilink")意外爆发，引发车祸造成父母双亡。不久后，[查尔斯·賽维尔教授把她带到](../Page/X教授.md "wikilink")，将父母车祸身亡的记忆从她身上抹去，帮助她磨练自己的心灵能力。
+1975年，8歲的[琴·葛雷](../Page/琴·葛雷.md "wikilink")陪父母兜風過程中，因體內的強大[念力](../Page/念力.md "wikilink")失控而不慎引發車禍，在醫院醒後被告知父母雙亡，無依無靠的她被[查爾斯·賽維爾收養至](../Page/X教授.md "wikilink")。1992年，琴加入的[X戰警自從](https://zh.wikipedia.org/wiki/X戰警 "wikilink")[九年前消滅](../Page/X戰警：天啟.md "wikilink")[天启後被世人譽為英雄](../Page/天啟_\(漫威漫畫\).md "wikilink")，他們這次受[美國總統傳喚去拯救](https://zh.wikipedia.org/wiki/美國總統 "wikilink")[航天飛機](https://zh.wikipedia.org/wiki/航天飛機 "wikilink")[奮進號](../Page/奮進號.md "wikilink")，其飛離[大氣層執行](https://zh.wikipedia.org/wiki/大氣層 "wikilink")[STS-49](../Page/STS-49.md "wikilink")任務時遭受不明[太阳耀斑衝擊而嚴重受損](https://zh.wikipedia.org/wiki/太阳耀斑 "wikilink")。眾X戰警搭乘戰機前去營救，琴進入奮進號用念力暫時阻止飛機解體，為[寇特爭取疏散太空人的時間](https://zh.wikipedia.org/wiki/藍魔鬼 "wikilink")，但唯獨留下的她直接受到太陽耀斑衝擊，自身吸收進全部耀斑能量，最後被寇特救回戰機後還是奇跡倖存。
 
-1992年，[天启](../Page/天啟_\(漫威漫畫\).md "wikilink")[彻底毁灭地球九年后](../Page/X戰警：天啟.md "wikilink")，[X战警](../Page/X战警.md "wikilink")接收到遭到[太阳耀斑能量损毁的](https://zh.wikipedia.org/wiki/太阳耀斑 "wikilink")[航天飞机](../Page/航天飞机.md "wikilink")“[奋进号](https://zh.wikipedia.org/wiki/奮進號太空梭 "wikilink")”的遇险求救信号。X战警虽然救下了所有宇航员，但琴将所有能量吸收进体内。琴在事件中幸存，心灵能力大大增强。就在这时候，X教授设置的心灵封印被破解，琴精神崩溃，突然袭击了X学院的变种人庆祝仪式后逃之夭夭。之后，她回到家乡纽约[雷德胡克](../Page/雷德胡克.md "wikilink")，寻找依然在世的父亲。X战警想把琴带回去，琴挣扎时弄伤了[彼得·马克希莫夫并误杀](https://zh.wikipedia.org/wiki/快银 "wikilink")[瑞雯·达克霍后又逃了](../Page/魔形女.md "wikilink")。
+X戰警再次完成一件壯舉，即使[瑞雯不滿查爾斯透過她們出力以在政府面前建立](../Page/魔形女.md "wikilink")[變種人的形象](https://zh.wikipedia.org/wiki/變種人 "wikilink")，琴自從任務後感覺到身體裡的力量飆升，逐漸開始失去自我，險些傷害到其他學生。查爾斯照看琴時坦白自當初在她腦中安置[精神](../Page/精神.md "wikilink")層面以避免她受到傷害，如今層面已在琴力量增強時摧毀，使她的兒時創傷再次開始湧現，其中還夾雜著悲憤、不安以及渴望的情緒。查爾斯試圖用腦波強化機修復層面卻遭到琴反制，琴隨即不由自主地離開學院，回去她在[雷德胡克](../Page/雷德胡克.md "wikilink")的老家找到本應死去多年的父親。琴原本欣喜地見到父親，但從父親回憶中得知他當年有意將她交託給查爾斯撫養，加上仍然自責是自己導致母親身亡，使她開始出現嚴重[精神創傷](https://zh.wikipedia.org/wiki/精神創傷 "wikilink")。當X戰警及時趕到試圖將她帶回時，琴開始不聽勸阻，擊退身後的警察，重傷行動最快的[彼得](../Page/快銀.md "wikilink")，最後還不慎誤殺瑞雯後逃離現場。
 
-琴去安置变种人难民的，要[埃里克·蓝歇尔帮她控制身体的能量](../Page/萬磁王.md "wikilink")，但埃里克说琴和美国军方打过，正在被追捕，不愿接收她。琴又找到了变形外星种族的领导者武科。武科解释称她的体内有一股[鳳凰之力](../Page/鳳凰之力.md "wikilink")，这股力量几年前曾把迪巴利的行星家园摧毁。凤凰之力所到之处都将所有事物一并吞噬，直到进入琴的体内。在这时候，[汉克·麦考伊知道賽维尔操纵琴的记忆](../Page/野獸_\(漫畫\).md "wikilink")，觉得遭到背叛，便连同埃里克及其变种人难民合作把琴带回纽约。X战警和埃里克两派兵戎相见，直到埃里克被琴的新超能力压倒。琴迫使賽维尔坦承读过她的记忆，同意还她自由的个性。琴非常懊悔，她让武科拿走她身上的超能力，好让自己就此离去。但是賽维尔和[斯科特·桑玛斯不愿意](../Page/獨眼龍_\(漫威漫畫\).md "wikilink")，连忙上前阻止武科吸走琴的能量，最终两派变种人都被美国政府军队俘获，乘火车前往一处秘密收容所。
+琴隨後來到[艾瑞克·藍歇爾在](../Page/萬磁王.md "wikilink")建立的變種人[難民家園尋求庇護](https://zh.wikipedia.org/wiki/難民 "wikilink")，不敢如實講述她來之前做的事，當美軍前來搜捕琴時，琴開始用能力大肆破壞直升機，艾瑞克及时救下這些美軍，但他很快就將琴逐出家園。瑞雯的死讓整間學院的人悲痛不已，[漢克·麥考伊將其身亡怪罪於查爾斯](../Page/野獸_\(漫畫\).md "wikilink")，而琴兩度造成的危害也使查爾斯長期以來建立的一切崩塌。與此同時，一群具有[變形能力的外星種族](https://zh.wikipedia.org/wiki/變形 "wikilink")入侵地球，其領袖武科以一名銀髮女子的形象收留無處可去的琴，講解琴身體中吸收的是一種強大，介紹該力量曾經毀滅過迪巴利人的母星以及所經過的所有星球。武科希望琴能與之聯手，接受指引學會運用這股力量來造福，琴因此選擇投靠她的勢力。但她不知道迪巴利人只是想利用她，企圖用地球重塑其母星，甚至對琴做好“兔死狗烹”的準備。
 
-武科带着迪巴利大军前来营救，这时变种人也前来击败所有士兵，获得解脱的变异人们立刻应对眼前的变种人威胁。賽维尔通过意识和琴交流，接触了琴的个性封印，让她去控制自己的能力。武科再一次尝试抹杀琴的能力，但琴将她所有的潜能爆发出来，杀死了武科，逃到了外太空。事件过后，学校更名为琴·格蕾天才青少年学校。汉克出任新校长，几十年来都在为变种人权利而抗争的賽维尔正式退休。在巴黎，埃里克和賽维尔重聚，两人相邀下象棋，化成一道火焰的凤凰出现在空中。
+受悲憤驅使的漢克將瑞雯的死訊告知艾瑞克，兩人聯手追蹤琴至[紐約市的一棟樓準備殺她來為瑞雯報仇](https://zh.wikipedia.org/wiki/紐約市 "wikilink")，但決心補救局勢的查爾斯帶著[史考特和](../Page/獨眼龍_\(漫威漫畫\).md "wikilink")[奧羅羅前來阻止他們](../Page/暴風女.md "wikilink")。兩派兵戎相見時，艾瑞克趁亂獨自進入樓內，卻無法對敵強大的琴而被扔出去摔昏。查爾斯靠寇特[瞬間移動](../Page/瞬間移動.md "wikilink")至樓內，懇請琴閱讀自己當初收養她的記憶，因此喚回琴的一部分良知。由於琴開始對自己感到懊悔，武科開始自行吸收琴的力量，查爾斯得知此過程會殺死琴，而史考特前來干預導致武科未能吸收全部力量。這時，隸屬政府的變種人管制隊前來抓獲所有變種人，將他們集體送上火車運往秘密收容所。查爾斯認同局面是自己一手造成而致歉，但火車轉眼間受到武科與其他迪巴利人襲擊。大部分守衛都被殺，其中一位守衛被迫解鎖釋放所有變種人聯合阻止敵人，但他們仍然敵不過強大的武科。
+
+查爾斯用[心電感應給予琴安慰](https://zh.wikipedia.org/wiki/心電感應 "wikilink")，使她終於能控制住這股力量，並原諒查爾斯的過錯。琴拯救眾人免受火車衝撞傷害後，釋放出潛能、活用能力粉碎周圍剩餘的迪巴利人。正當她面對武科時，琴深知一旦釋放力量會牽連周圍的夥伴，於是將武科帶至大氣層外，吸收回武科先前從她身體裡奪去的力量，最後將武科徹底消滅。查爾斯等人目睹力量隨即以“[鳳凰](https://zh.wikipedia.org/wiki/鳳凰 "wikilink")”的形狀在外太空爆炸，琴一同消失在爆炸之中而被認為英勇犧牲。事後，學院更名為琴·葛雷天才青少年學院作為紀念她，多年抗爭變種人權利的查爾斯決定退休，讓漢克接任校長職位。查爾斯在[巴黎](../Page/巴黎.md "wikilink")安頓下來後，艾瑞克找到他決定跟他再下一盤棋，讓他們兩位曾經的好友再次重聚。而下棋的過程中，天上出現一道火焰化的鳳凰。
 
 ## 演員
 
@@ -26,131 +28,86 @@
 <td><p><strong>詮釋</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/詹姆斯·麥艾維.md" title="wikilink">詹姆斯·麥艾維</a><br />
+<td><p><a href="../Page/詹姆斯·麥艾維.md" title="wikilink">詹姆斯·麥艾維</a>[1]<br />
 James McAvoy</p></td>
 <td><p>「<a href="../Page/X教授.md" title="wikilink">X教授</a>」查爾斯·賽維爾<br />
-Professor X／Charles Xavier[1]</p></td>
+Professor X／Charles Xavier</p></td>
 <td><p>阿爾法級的變種人，擁有地球上最強大的心靈能力，創立了專門教導變種人的學校，並在學校內訓練及領導X戰警團隊。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/麥可·法斯賓達.md" title="wikilink">麥可·法斯賓達</a><br />
+<td><p><a href="../Page/麥可·法斯賓達.md" title="wikilink">麥可·法斯賓達</a>[2]<br />
 Michael Fassbender</p></td>
 <td><p>「<a href="../Page/萬磁王.md" title="wikilink">萬磁王</a>」艾瑞克·藍歇爾<br />
-Magneto／Erik Lehnsherr[2]</p></td>
+Magneto／Erik Lehnsherr</p></td>
 <td><p>阿爾法級的變種人，可以控制金屬及磁場。他是X教授最親密的摯友，同時也是最強勁的對手。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/珍妮佛·勞倫斯.md" title="wikilink">珍妮佛·勞倫斯</a><br />
+<td><p><a href="../Page/珍妮佛·勞倫斯.md" title="wikilink">珍妮佛·勞倫斯</a>[3]<br />
 Jennifer Lawrence</p></td>
 <td><p>「<a href="../Page/魔形女.md" title="wikilink">魔形女</a>」瑞雯·達克霍<br />
-Mystique／Raven Darkhölme[3]</p></td>
+Mystique／Raven Darkhölme</p></td>
 <td><p>變種人，能自由變換外型和聲音，查爾斯的義妹，X戰警的隊長，同時也是變種人的英雄。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/尼可拉斯·霍特" title="wikilink">尼可拉斯·霍特</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/尼可拉斯·霍特" title="wikilink">尼可拉斯·霍特</a>[4]<br />
 Nicholas Hoult</p></td>
 <td><p>「<a href="../Page/野獸_(漫畫).md" title="wikilink">野獸</a>」漢克·麥考伊<br />
-Beast／Hank McCoy[4]</p></td>
+Beast／Hank McCoy</p></td>
 <td><p>變種人，具有藍色-{野獸}-的外表及超人的體能，在X教授創立的變種人學校擔任老師，與查爾斯，瑞雯出生入死的伙伴。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/蘇菲·特納.md" title="wikilink">蘇菲·特納</a><br />
+<td><p><a href="../Page/蘇菲·特納.md" title="wikilink">蘇菲·特納</a>[5]<br />
 Sophie Turner</p></td>
 <td><p>「<a href="../Page/琴·葛雷.md" title="wikilink">黑鳳凰</a>」琴·葛雷<br />
-Dark Phoenix／Jean Grey[5]</p></td>
-<td><p>變種人，具有非常強大的心靈感應能力及念力，體內蘊藏著鳳凰之力，是X教授最喜愛的學生之一。</p></td>
+Dark Phoenix／Jean Grey</p></td>
+<td><p>變種人，具有非常強大的心靈感應能力及念力，體內蘊藏著鳳凰之力，身為X教授最喜愛的學生之一。這次因小小的意外而增強能力，受兒時創傷影響而精神失控。<br />
+桑默·豐塔納（Summer Fontana）飾演年幼的琴。</p></td>
 </tr>
 <tr class="odd">
-<td><p>桑默·豐塔納<br />
-Summer Fontana</p></td>
-<td><p>年幼的琴。</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/泰·謝里丹.md" title="wikilink">泰·謝里丹</a><br />
+<td><p><a href="../Page/泰·謝里丹.md" title="wikilink">泰·謝里丹</a>[6]<br />
 Tye Sheridan</p></td>
 <td><p>「<a href="../Page/獨眼龍_(漫威漫畫).md" title="wikilink">獨眼龍</a>」史考特·桑瑪斯<br />
-Cyclops／Scott Summers[6]</p></td>
-<td><p>變種人，能從雙眼發射具破壞性的能量光束，與琴為情侶，教授的左右手。</p></td>
+Cyclops／Scott Summers</p></td>
+<td><p>變種人，能從雙眼發射具破壞性的能量光束，與琴為多年情侶關係。</p></td>
 </tr>
-<tr class="odd">
-<td><p><a href="../Page/雅莉珊卓·希普.md" title="wikilink">雅莉珊卓·希普</a><br />
+<tr class="even">
+<td><p><a href="../Page/雅莉珊卓·希普.md" title="wikilink">雅莉珊卓·希普</a>[7]<br />
 Alexandra Shipp</p></td>
 <td><p>「<a href="../Page/暴風女.md" title="wikilink">暴風女</a>」奧羅羅·夢洛<br />
-Storm／Ororo Munroe[7]</p></td>
-<td><p>變種人，來自非洲的孤兒，擁有飛行及控制天氣的能力，十分崇拜魔形女。</p></td>
+Storm／Ororo Munroe</p></td>
+<td><p>變種人，來自埃及的孤兒，擁有飛行及控制天氣的能力，十分崇拜魔形女。</p></td>
 </tr>
-<tr class="even">
-<td><p><a href="../Page/寇帝·史密-麥菲.md" title="wikilink">寇帝·史密-麥菲</a><br />
+<tr class="odd">
+<td><p><a href="../Page/寇帝·史密-麥菲.md" title="wikilink">寇帝·史密-麥菲</a>[8]<br />
 Kodi Smit-McPhee</p></td>
 <td><p>「<a href="https://zh.wikipedia.org/wiki/藍魔鬼" title="wikilink">藍魔鬼</a>」寇特·華格納<br />
-Nightcrawler／Kurt Wagner[8]</p></td>
+Nightcrawler／Kurt Wagner</p></td>
 <td><p>變種人，擁有瞬間移動的能力，但僅止於他看得到或曾經去過的地方。</p></td>
 </tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/伊凡·彼得斯" title="wikilink">伊凡·彼得斯</a><br />
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/伊凡·彼得斯" title="wikilink">伊凡·彼得斯</a>[9]<br />
 Evan Peters</p></td>
 <td><p>「<a href="../Page/快銀.md" title="wikilink">快銀</a>」彼得·馬克希莫夫<br />
-Quicksilver／Pietro Maximoff[9]</p></td>
+Quicksilver／Pietro Maximoff</p></td>
 <td><p>變種人，萬磁王的兒子，擁有超越音速的移動能力。</p></td>
 </tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/潔西卡·雀絲坦" title="wikilink">潔西卡·雀絲坦</a><br />
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/潔西卡·雀絲坦" title="wikilink">潔西卡·雀絲坦</a>[10]<br />
 Jessica Chastain</p></td>
 <td><p>武科<br />
-Vuk[10]</p></td>
-<td><p>變形外星種族的領導者，可施展心靈控制，企圖操縱琴，並利用鳳凰毀天滅地的力量。</p></td>
+Vuk</p></td>
+<td><p>外星種族領袖，具有<a href="https://zh.wikipedia.org/wiki/變形" title="wikilink">變形能力</a>，可施展心靈控制，企圖操縱住琴來掌握住她足以毀天滅地的強大力量。</p></td>
 </tr>
-<tr class="odd">
-<td><p>玛格丽特<br />
-Margaret</p></td>
-<td><p>一位平凡的人类，因去查看后院的奇声而被外星能力者杀死，之后成为武科的宿-{}-主。</p></td>
+<tr class="even">
+<td><p>瑪格莉特·史密斯<br />
+Margaret Smith</p></td>
+<td><p>一位銀髮人類女子，全家被入侵地球的迪巴利人殺害，作為武科的人類形象。</p></td>
 <td></td>
-</tr>
-<tr class="even">
-<td><p><br />
-Ato Essandoh</p></td>
-<td><p>瓊斯<br />
-Jones</p></td>
-<td><p>被外星能力者占位宿-{}-主的人类。</p></td>
-</tr>
-<tr class="odd">
-<td><p><br />
-Lamar Johnson</p></td>
-<td><p>「」班·漢米爾<br />
-Match／Ben Hamill[11]</p></td>
-<td><p>變種人，能操縱及製造火焰。</p></td>
-</tr>
-<tr class="even">
-<td><p>科塔·埃伯哈特<br />
-Kota Eberhardt</p></td>
-<td><p>「」塞勒涅·加里歐<br />
-Selene／Selene Gallio[12]</p></td>
-<td><p>变种人，效忠与艾瑞克，能使用心靈能力，帮助X战警抵抗武科和她的军队。</p></td>
-</tr>
-<tr class="odd">
-<td><p><br />
-Andrew Stehlin</p></td>
-<td><p>「」保羅·哈爾克<br />
-Red Lotus／Paul Hark[13]</p></td>
-<td><p>变种人，效忠与艾瑞克，拥有增强的力量，速度，反应能力和耐力，帮助X战警抵抗武科和她的军队。</p></td>
-</tr>
-<tr class="even">
-<td><p><br />
-Halston Sage</p></td>
-<td><p>「」愛麗森·布萊爾<br />
-Dazzler／Alison Blaire</p></td>
-<td><p>变种人，可以將聲波能量轉換成各種類型的光能，在營火派對時表演。</p></td>
-</tr>
-<tr class="odd">
-<td><p><br />
-Scott Shepherd</p></td>
-<td><p>约翰·葛雷<br />
-John Grey</p></td>
-<td><p>琴的父亲，因不喜欢琴而丢下她且交托给X教授抚养，后被武科杀死。</p></td>
 </tr>
 </tbody>
 </table>
+
+其他演員包括科塔·埃伯哈特（）飾演，一位能夠心靈感應、效忠於艾瑞克的女變種人\[11\]。飾演「」保羅·哈爾克，同效忠於艾瑞克的變種人\[12\]。和漢娜·安德森（）飾演琴的父母約翰和伊蓮·葛雷（）。飾演瓊斯（），一位由迪巴利人變形而成的政府人員，擔任武科的左右手。飾演「」班·漢米爾，能操縱及製造火焰的變種人\[13\]，而飾演「」愛麗森·布萊爾，一位能將聲波能量轉換成各種類型的光能的變種人，該角色首次在電影系列中現身。《》系列作者客串一位在查爾斯頒獎典禮上的一位貴賓。
 
 ## 製作
 
@@ -188,7 +145,7 @@ John Grey</p></td>
 
 ### 評價
 
-本片獲得了普遍負面的評價。[爛番茄](../Page/爛番茄.md "wikilink")根據345條評論，持有23%的新鮮度，平均得分4.64／10，觀眾投票則給出64%的分數，平均得分為3.63／5\[54\]。在[Metacritic](../Page/Metacritic.md "wikilink")上，電影獲得了43分\[55\]。
+本片獲得了普遍負面的評價。[爛番茄](../Page/爛番茄.md "wikilink")根據346條評論，持有23%的新鮮度，平均得分4.64／10，觀眾投票則給出64%的分數，平均得分為3.63／5\[54\]。在[Metacritic](../Page/Metacritic.md "wikilink")上，電影獲得了43分\[55\]。
 
 ### 票房
 
@@ -196,7 +153,7 @@ John Grey</p></td>
 
 ## 未來
 
-2016年5月，金柏格表示，他希望《X戰警：黑鳳凰》能成為全新的X戰警電影三部曲的首部曲\[61\]。2017年12月，[華特迪士尼公司](https://zh.wikipedia.org/wiki/華特迪士尼公司 "wikilink")[收購了二十一世紀福斯](../Page/迪士尼收購21世紀福斯.md "wikilink")，迪士尼CEO[勞勃·艾格表示](https://zh.wikipedia.org/wiki/勞勃·艾格 "wikilink")，[X戰警系列電影將與迪士尼旗下的](https://zh.wikipedia.org/wiki/X戰警系列電影 "wikilink")[漫威電影宇宙結合](https://zh.wikipedia.org/wiki/漫威電影宇宙 "wikilink")\[62\]。
+2016年5月，金柏格表示，他希望《X戰警：黑鳳凰》能成為全新的X戰警電影三部曲的首部曲\[61\]。2017年12月，[華特迪士尼公司](https://zh.wikipedia.org/wiki/華特迪士尼公司 "wikilink")[收購了二十一世紀福斯](../Page/迪士尼收購21世紀福斯.md "wikilink")，迪士尼CEO[勞勃·艾格表示](https://zh.wikipedia.org/wiki/勞勃·艾格 "wikilink")，[X戰警系列電影將與迪士尼旗下的](https://zh.wikipedia.org/wiki/X戰警系列電影 "wikilink")[漫威電影宇宙結合](https://zh.wikipedia.org/wiki/漫威電影宇宙 "wikilink")\[62\]。目前除[萊恩·雷諾斯](../Page/萊恩·雷諾斯.md "wikilink")飾演的「[死侍](../Page/死侍.md "wikilink")」外，其餘全數將重啟製作。
 
 ## 備註
 

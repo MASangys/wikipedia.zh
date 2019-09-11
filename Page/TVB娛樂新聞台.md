@@ -1,6 +1,6 @@
 [HK_Peak_徐淑敏_Suki_Chui_無綫娛樂新聞台_TVB_Entertainment_News_2-Dec-2012.JPG](https://zh.wikipedia.org/wiki/File:HK_Peak_徐淑敏_Suki_Chui_無綫娛樂新聞台_TVB_Entertainment_News_2-Dec-2012.JPG "fig:HK_Peak_徐淑敏_Suki_Chui_無綫娛樂新聞台_TVB_Entertainment_News_2-Dec-2012.JPG")正在[採訪藝人](https://zh.wikipedia.org/wiki/採訪 "wikilink")[徐淑敏](https://zh.wikipedia.org/wiki/徐淑敏 "wikilink")\]\] **娛樂新聞台**（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")旗下一條娛樂新聞頻道。2006年6月25日晚上7時於[無綫收費電視啟播](https://zh.wikipedia.org/wiki/無綫收費電視 "wikilink")。
 
-其主要競爭對手為[有線娛樂台](../Page/有線娛樂台.md "wikilink")。
+其主要競爭對手為由[香港開電視](../Page/香港開電視.md "wikilink")製作的娛樂頭條。
 
 ## 發展歷史
 

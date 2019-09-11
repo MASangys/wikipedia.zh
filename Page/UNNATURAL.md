@@ -1,5 +1,5 @@
 《**Unnatural**》（，）是日本[TBS電視台](../Page/TBS電視台.md "wikilink")2018年1月12日至3月16日於[週五連續劇時段播出的電視劇](../Page/TBS週五連續劇.md "wikilink")，由[石原聰美](../Page/石原聰美.md "wikilink")主演\[1\]，編劇為[野木亞紀子](../Page/野木亞紀子.md "wikilink")\[2\]。
-台灣在[KKTV](../Page/KKTV.md "wikilink")於每週日24:00提供台灣正體字幕且與日本同步進行當週網路連載\[3\]，而[bilibili則於每週三提供僅限台灣IP觀看的簡體字幕版本](https://zh.wikipedia.org/wiki/bilibili "wikilink")\[4\]；香港於[myTV SUPER緊貼日本更新](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")\[5\]；中国大陆自4月25日16:00起在bilibili开始播出\[6\]。電視方面，台灣由[緯來日本台](../Page/緯來日本台.md "wikilink")自2018年5月15日起于晚間23:15播映。
+台灣在[KKTV](../Page/KKTV.md "wikilink")於每週日24:00提供繁體字幕且與日本同步進行當週網路連載\[3\]，而[bilibili則於每週三提供僅限台灣IP觀看的簡體字幕版本](https://zh.wikipedia.org/wiki/bilibili "wikilink")\[4\]；香港於[myTV SUPER緊貼日本更新](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")\[5\]；中国大陆自4月25日16:00起在bilibili开始播出\[6\]。電視方面，台灣由[緯來日本台](../Page/緯來日本台.md "wikilink")自2018年5月15日起于晚間23:15播映。
 
 ## 故事簡介
 

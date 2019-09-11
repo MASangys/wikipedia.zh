@@ -36,7 +36,7 @@
 
 中國大陸簡體中文版由-{谷}-米中國（又稱Gumi中國）及上海晨之科信息技术有限公司(簡稱晨之科)共同營運，中國大陸版（簡稱陸版）因營運問題已於2016年8月31日結束營運。
 
-2015年7月23日，由COLOPL NI Inc.正式發行\[13\]的英語版向[菲律賓](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")、[泰國及](https://zh.wikipedia.org/wiki/泰國 "wikilink")[印度](../Page/印度.md "wikilink")地區用戶開放\[14\]，其後於8月13日在[加拿大](../Page/加拿大.md "wikilink")推出\[15\]。2015年10月21日及22日，英語版分別在Android和iOS平台對世界各國開放\[16\]\[17\]。
+2015年7月23日，由COLOPL NI Inc.正式發行\[13\]的英語版向[菲律賓](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")、[泰國及](https://zh.wikipedia.org/wiki/泰國 "wikilink")[印度](../Page/印度.md "wikilink")地區用戶開放\[14\]，其後於8月13日在[加拿大](../Page/加拿大.md "wikilink")推出\[15\]。2015年10月21日及22日，英語版分別在Android和iOS平台對世界各國開放\[16\]\[17\]。全球版已於2016年10月7日停運。
 
 ## 歌曲
 

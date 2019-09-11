@@ -8,7 +8,7 @@
 
 AirPods的外型類似於原本随[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")、[iPad及](https://zh.wikipedia.org/wiki/iPad "wikilink")[iPod附送的EarPods](https://zh.wikipedia.org/wiki/iPod "wikilink")，但该耳机需单独购买。其左右侧耳機不是互相有線連接，而是各自獨立。AirPods使用[藍牙](../Page/藍牙.md "wikilink")协议傳輸，内置光学传感器及加速仪，配對完成後戴上即自動啟動，拿下後自動停止播放。
 
-完全充电后具有5小时的续航时间，配合充电盒可达24小时续航。其中，15分钟的充电可延长3小时的续航时间。
+完全充电后具有4\~5小时的续航时间，配合充电盒可达24小时超强续航。其中，15分钟的充电可延长3小时的续航时间。
 
 其[麦克风](../Page/麦克风.md "wikilink")采用[波束赋形](../Page/波束赋形.md "wikilink")技术，對著任意一邊耳機輕點2下，即可直接對[Siri](../Page/Siri.md "wikilink")說話并下達指令。在 [iOS 11操作系统中](https://zh.wikipedia.org/wiki/iOS_11 "wikilink")，可以分别設定左右耳机的轻点两下的功能。轻点两下支持的功能包括：
 

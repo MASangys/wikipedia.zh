@@ -41,6 +41,8 @@ iOS和Android版本有三種操作方式：「经典」，蛇跟隨著玩家的�
 ## 外部連結
 
   -
+  - [官方維基](https://slitherio.fandom.com/wiki/Slither.io_Wiki)
+
 [Category:2016年电子游戏](https://zh.wikipedia.org/wiki/Category:2016年电子游戏 "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink") [Category:战略游戏](https://zh.wikipedia.org/wiki/Category:战略游戏 "wikilink") [Category:基于浏览器的多人在线游戏](https://zh.wikipedia.org/wiki/Category:基于浏览器的多人在线游戏 "wikilink") [Category:.io遊戲](https://zh.wikipedia.org/wiki/Category:.io遊戲 "wikilink")
 
 1.

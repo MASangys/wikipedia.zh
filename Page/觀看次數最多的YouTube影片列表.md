@@ -16,7 +16,7 @@
 <th><p>排名</p></th>
 <th><p>影片名稱</p></th>
 <th><p>影片名稱中譯</p></th>
-<th><p>上傳者/歌手</p></th>
+<th><p>歌手/頻道</p></th>
 <th><p>觀看次數（單位：億）</p></th>
 <th><p>上傳日期</p></th>
 </tr>
@@ -27,7 +27,7 @@
 <td><p><a href="../Page/慢慢來_(路易斯·方辛歌曲).md" title="wikilink">Despacito</a>[4]</p></td>
 <td><p><a href="../Page/慢慢來_(路易斯·方辛歌曲).md" title="wikilink">慢慢來</a></p></td>
 <td><p><a href="../Page/路易斯·馮西.md" title="wikilink">路易斯·馮西</a><small>（<a href="../Page/洋基老爹.md" title="wikilink">洋基老爹</a>伴唱）</small></p></td>
-<td><p>63.88</p></td>
+<td><p>64.07</p></td>
 <td><p>2017年1月13日</p></td>
 </tr>
 <tr class="even">
@@ -36,7 +36,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/妳的樣子_(歌曲)" title="wikilink">妳的樣子</a></p></td>
 <td><p><a href="../Page/紅髮艾德.md" title="wikilink">紅髮艾德</a><br />
 </p></td>
-<td><p>43.54</p></td>
+<td><p>43.63</p></td>
 <td><p>2017年1月30日</p></td>
 </tr>
 <tr class="odd">
@@ -52,7 +52,7 @@
 <td><p><a href="../Page/瑪莎與熊.md" title="wikilink">Masha and the Bear: Recipe for disaster</a>[7]</p></td>
 <td><p><a href="../Page/瑪莎與熊.md" title="wikilink">瑪莎與熊</a>：瑪莎與麥片粥</p></td>
 <td><p>Get Movies</p></td>
-<td><p>41.06</p></td>
+<td><p>41.08</p></td>
 <td><p>2012年1月31日</p></td>
 </tr>
 <tr class="odd">
@@ -73,10 +73,10 @@
 </tr>
 <tr class="odd">
 <td><p>7</p></td>
-<td><p>[10]</p></td>
-<td></td>
-<td><p><a href="../Page/Pinkfong.md" title="wikilink">Pinkfong</a></p></td>
-<td><p>32.23</p></td>
+<td><p><a href="../Page/Baby_Shark.md" title="wikilink">Baby Shark Dance</a>[10]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鯊魚寶寶" title="wikilink">鯊魚寶寶</a></p></td>
+<td><p><a href="../Page/碰碰狐.md" title="wikilink">碰碰狐</a></p></td>
+<td><p>33.23</p></td>
 <td><p>2016年6月17日</p></td>
 </tr>
 <tr class="even">
@@ -840,7 +840,7 @@
 
 ### 十億觀看次數
 
-本區列出所有YouTube上達到10億次觀看次數的影片，20、30、40、50、60億次的也一併列出。在2015年6月之前，只有兩部影片達到10億觀看次數的里程碑（分別是《[Gangnam Style](../Page/江南Style.md "wikilink")》和《[Baby](https://zh.wikipedia.org/wiki/Baby_\(歌曲\) "wikilink")》）。但截至2015年10月，有十支影片達到10億觀看次數\[104\]。截到2018年2月14日，觀看次數達到10億的影片突破100部。直到今日，已有178支影片超過10億觀看次數，其中23支影片為非音樂影片；37支影片超過20億觀看次數\[105\]；9支影片超過30億觀看次數；4支影片超過40億觀看次數；1支影片超過50、60億觀看次數。到目前為止，利用最少天數達到10億觀看次數的影片為《[Hello](https://zh.wikipedia.org/wiki/你好_\(阿黛爾歌曲\) "wikilink")》（88天），利用最少天數達到20億（155天）、30億（204天）、40億（272天）、50億（447天）、60億觀看次數（772天）的影片為《[Despacito](https://zh.wikipedia.org/wiki/Despacito "wikilink")》。
+本區列出所有YouTube上達到10億次觀看次數的影片，20、30、40、50、60億次的也一併列出。在2015年6月之前，只有兩部影片達到10億觀看次數的里程碑（分別是《[Gangnam Style](../Page/江南Style.md "wikilink")》和《[Baby](https://zh.wikipedia.org/wiki/Baby_\(歌曲\) "wikilink")》）。但截至2015年10月，有十支影片達到10億觀看次數\[104\]。截到2018年2月14日，觀看次數達到10億的影片突破100部。直到今日，已有181支影片超過10億觀看次數，其中25支影片為非音樂影片；38支影片超過20億觀看次數\[105\]；9支影片超過30億觀看次數；4支影片超過40億觀看次數；1支影片超過50、60億觀看次數。到目前為止，利用最少天數達到10億觀看次數的影片為《[Hello](https://zh.wikipedia.org/wiki/你好_\(阿黛爾歌曲\) "wikilink")》（88天），利用最少天數達到20億（155天）、30億（204天）、40億（272天）、50億（447天）、60億觀看次數（772天）的影片為《[Despacito](https://zh.wikipedia.org/wiki/Despacito "wikilink")》。
 
 <table>
 <thead>
@@ -2099,6 +2099,34 @@
 <td><p>2019年8月9日</p></td>
 <td><p>1290</p></td>
 </tr>
+<tr class="odd">
+<td><p>179</p></td>
+<td><p>Hush a Bye Baby</p></td>
+<td><p>2017年9月16日</p></td>
+<td><p>2019年8月22日</p></td>
+<td><p>705</p></td>
+</tr>
+<tr class="even">
+<td><p>180</p></td>
+<td></td>
+<td><p>2017年4月24日</p></td>
+<td><p>2019年8月25日</p></td>
+<td><p>853</p></td>
+</tr>
+<tr class="odd">
+<td><p>181</p></td>
+<td><p>Talking Angela Summer Fun at the Beach with Talking Tom</p></td>
+<td><p>2017年6月30日</p></td>
+<td><p>2019年8月25日</p></td>
+<td><p>786</p></td>
+</tr>
+<tr class="even">
+<td><p>182</p></td>
+<td></td>
+<td><p>2018年5月29日</p></td>
+<td><p>2019年8月31日</p></td>
+<td><p>459</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -2371,6 +2399,13 @@
 <td><p>2018年5月2日</p></td>
 <td><p>2019年8月20日</p></td>
 <td><p>475</p></td>
+</tr>
+<tr class="even">
+<td><p>38</p></td>
+<td><p>Johny Johny Yes Papa THE BEST Song for Children</p></td>
+<td><p>2016年10月8日</p></td>
+<td><p>2019年9月1日</p></td>
+<td><p>1058</p></td>
 </tr>
 </tbody>
 </table>

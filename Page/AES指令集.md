@@ -104,7 +104,7 @@ IBM z9或更晚的主机处理器支持AES作为单操作码（KM、KMC）AES EC
   - [Cryptography API: Next Generation (CNG)](../Page/Cryptographic_API.md "wikilink")（需要Windows）\[28\]
 
   -
-  - [Java](../Page/Java.md "wikilink") 7 [HotSpot](https://zh.wikipedia.org/wiki/HotSpot "wikilink")
+  - [Java](../Page/Java.md "wikilink") 7 [HotSpot](../Page/HotSpot.md "wikilink")
 
   - [Network Security Services](https://zh.wikipedia.org/wiki/Network_Security_Services "wikilink")（NSS）3.13及更高版本 \[29\]（被[Firefox](../Page/Firefox.md "wikilink")和[Google Chrome使用](../Page/Google_Chrome.md "wikilink")）
 
@@ -118,7 +118,7 @@ IBM z9或更晚的主机处理器支持AES作为单操作码（KM、KMC）AES EC
 
 ## 参考
 
-  - [高级矢量扩展](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")（AVX）
+  - [高级矢量扩展](../Page/AVX指令集.md "wikilink")（AVX）
 
   -
   - [FMA指令集](https://zh.wikipedia.org/wiki/熔合乘法累积指令集 "wikilink")（FMA3、FMA4）

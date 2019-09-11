@@ -12,7 +12,7 @@
   - 以發行同人專輯為主要活動，2016年1月8日和[そらる組成音樂團體](https://zh.wikipedia.org/wiki/そらる "wikilink")「[After the Rain](../Page/After_the_Rain.md "wikilink")」，2016年4月13日發售專輯『クロクレストストーリー』，於[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")獲得第2名\[1\]。。
   - 現在也以[niconico動畫](https://zh.wikipedia.org/wiki/niconico動畫 "wikilink")、[niconico直播為中心活動](https://zh.wikipedia.org/wiki/niconico直播 "wikilink")。此外還參加了Live、夏季Comic Market等活動。
   - 第一人稱是"僕（boku）"。在[Twitter](../Page/Twitter.md "wikilink")談論時以"ボク"為居多，有時候會用"俺（ore）"。
-  - 守護神是叫做まふてる的[晴天娃娃](https://zh.wikipedia.org/wiki/晴天娃娃 "wikilink")。
+  - 守護神是叫做まふてる的[晴天娃娃](../Page/晴天娃娃.md "wikilink")。
   - 2017年10月18日發售的專輯『明日色ワールドエンド』於Oricon公信榜獲得第2名\[2\]，首週售出71,325張。
 
 ## 軼事

@@ -1,4 +1,4 @@
-**AIMA预言**是[拜占庭皇帝](https://zh.wikipedia.org/wiki/拜占庭皇帝 "wikilink")[曼努埃尔一世统治期间](https://zh.wikipedia.org/wiki/曼努埃尔一世_\(拜占庭\) "wikilink")（1143年-1180年）流行的一个有关科穆宁皇帝姓名[首字母缩略字的预言](https://zh.wikipedia.org/wiki/首字母缩略字 "wikilink")。这个预言宣称按统治时间先后排列[科穆宁王朝](../Page/科穆宁王朝.md "wikilink")的皇帝的姓名首字母会正好是ΑΙΜΑ（小写：αιμα），即希腊语中的“血”。
+**AIMA预言**是[拜占庭皇帝](https://zh.wikipedia.org/wiki/拜占庭皇帝 "wikilink")[曼努埃尔一世统治期间](https://zh.wikipedia.org/wiki/曼努埃尔一世_\(拜占庭\) "wikilink")（1143年-1180年）至[安德洛尼卡一世统治期间](../Page/安德洛尼卡一世_\(拜占庭\).md "wikilink")（1183年－1185年）流行的一个有关科穆宁皇帝姓名[首字母缩略字的预言](https://zh.wikipedia.org/wiki/首字母缩略字 "wikilink")。这个预言宣称按统治时间先后排列[科穆宁王朝](../Page/科穆宁王朝.md "wikilink")的皇帝的姓名首字母会正好是ΑΙΜΑ（小写：αιμα），即希腊语中的“血”。
 
 在姓名首字母是Μ的曼努埃尔之前，他的祖父[阿莱克修斯一世的姓名首字母是Α](https://zh.wikipedia.org/wiki/阿莱克修斯一世 "wikilink")，他的父亲[约翰二世的姓名首字母是Ι](../Page/约翰二世_\(拜占庭\).md "wikilink")，而曼努埃尔在约翰统治期间并不被认为可能继承皇位，因为他是约翰的第四子（幼子）。约翰的长子和次子安德洛尼卡·科穆宁于1142年先后去世之后约翰没有确立新的继承人，1143年约翰临终前却没有立第三子为继承人而是指定曼努埃尔为继承人。这可能是因为[别的原因](https://zh.wikipedia.org/wiki/约翰二世_\(拜占庭\)#去世与继任者 "wikilink")，\[1\]\[2\]但在当时被认为是AIMA预言的选择。
 

@@ -24,7 +24,7 @@
 ### 2017年
 
   - 3月16日，睿隣與[曹璐](../Page/曹璐.md "wikilink")、Kisum合作歌曲《Spring again》
-  - 4月13日，睿隣與[所願參加On](https://zh.wikipedia.org/wiki/所願 "wikilink") Style美妝綜藝節目《Lipstick Prince 2》
+  - 4月13日，睿隣與[所願參加On](../Page/Sowon.md "wikilink") Style美妝綜藝節目《Lipstick Prince 2》
   - 12月24日，睿隣與Monsta X民赫主持2017 Jeju Love Sharing K-Pop Concert
   - 12月29日，睿隣與Wanna One [姜丹尼爾](../Page/姜丹尼爾.md "wikilink"),TWICE [sana和Red](https://zh.wikipedia.org/wiki/sana "wikilink") Velvet [Irene主持](https://zh.wikipedia.org/wiki/裴柱現 "wikilink")2017 KBS 歌謠大戰
 

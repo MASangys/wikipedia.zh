@@ -12,7 +12,7 @@ Agar.io的遊戲目標是透過操縱自己的細胞來吞噬隨機產生的小�
 
 ### 團隊模式
 
-團隊模式（），共分成三色紅、藍、綠不同隊伍，由系統分發玩家到隨機一色隊伍裡（其實不一定，要看各隊隊員數量），一樣是吃其他玩家來壯大自己，但不能吃自己隊友（同色玩家），而且還會阻礙去路。 但是2019年，這個團隊模式變成了時間競爭，當計時器結束時， 就統計紅、藍、綠三組吞噬細胞所得的分，得分最多的一隊勝出。
+團隊模式（），共分成三色紅、藍、綠不同隊伍，由系統分發玩家到隨機一色隊伍裡（其實不一定，要看各隊隊員數量），一樣是吃其他玩家來壯大自己，但不能吃自己隊友（同色玩家），而且還會阻礙去路。 但2019年，這個團隊模式變成了時間競爭，當計時器結束時， 就統計紅、藍、綠三組吞噬細胞所得的分，得分最多的一隊勝出。
 
 ### 實驗模式
 
@@ -49,6 +49,8 @@ Agar.io的遊戲目標是透過操縱自己的細胞來吞噬隨機產生的小�
 ## 外部連結
 
   -
+  - [官方維基（英語）](https://agario.fandom.com/wiki/Agar.io_Wiki)
+
 [Category:2015年电子游戏](https://zh.wikipedia.org/wiki/Category:2015年电子游戏 "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink") [Category:動作遊戲](https://zh.wikipedia.org/wiki/Category:動作遊戲 "wikilink") [Category:基于浏览器的多人在线游戏](https://zh.wikipedia.org/wiki/Category:基于浏览器的多人在线游戏 "wikilink") [Category:2015年建立的网站](https://zh.wikipedia.org/wiki/Category:2015年建立的网站 "wikilink") [Category:.io遊戲](https://zh.wikipedia.org/wiki/Category:.io遊戲 "wikilink")
 
 1.

@@ -1,4 +1,4 @@
-**Spyglass公司**（）（前那斯達克股票代碼SPYG）是位於[伊利諾州](https://zh.wikipedia.org/wiki/伊利諾州 "wikilink")[香檳的網際網路軟體公司](https://zh.wikipedia.org/wiki/香檳_\(伊利諾州\) "wikilink")。該公司成立於1990年，是[伊利諾大學厄巴納香檳分校一個分支](https://zh.wikipedia.org/wiki/伊利諾大學厄巴納香檳分校 "wikilink")，旨在將[國家超級電腦應用中心](https://zh.wikipedia.org/wiki/國家超級電腦應用中心 "wikilink")（NCSA）的技術商業化。以其開發的[Mosaic](../Page/Mosaic.md "wikilink")網頁瀏覽器而聞名\[1\]。
+**Spyglass公司**（）是位於[伊利諾州](https://zh.wikipedia.org/wiki/伊利諾州 "wikilink")[香檳的網際網路軟體公司](https://zh.wikipedia.org/wiki/香檳_\(伊利諾州\) "wikilink")。該公司成立於1990年，是[伊利諾大學厄巴納香檳分校一個分支](https://zh.wikipedia.org/wiki/伊利諾大學厄巴納香檳分校 "wikilink")，旨在將[國家超級電腦應用中心](https://zh.wikipedia.org/wiki/國家超級電腦應用中心 "wikilink")（NCSA）的技術商業化。以其開發的[Mosaic](../Page/Mosaic.md "wikilink")網頁瀏覽器而聞名\[1\]。
 
 ## Mosaic
 

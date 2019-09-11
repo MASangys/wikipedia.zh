@@ -129,8 +129,15 @@
 <tr class="even">
 <td><p>2019</p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/憤怒鳥玩電影2：冰的啦！" title="wikilink">憤怒鳥玩電影2：冰的啦！</a>》</p></td>
+<td><p>蓋瑞（Garry）</p></td>
 <td></td>
-<td></td>
+<td><p>配音</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019</p></td>
+<td><p>《<a href="../Page/冰雪奇緣2.md" title="wikilink">冰雪奇緣2</a>》</p></td>
+<td><p>馬蒂亞斯中尉（Lieutenant Matthias）</p></td>
+<td><p><a href="../Page/珍妮佛·李.md" title="wikilink">珍妮佛·李</a>與<a href="../Page/克里斯·巴克.md" title="wikilink">克里斯·巴克</a></p></td>
 <td><p>配音</p></td>
 </tr>
 </tbody>

@@ -72,7 +72,7 @@
 <tr class="odd">
 <td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a></p></td>
 <td><p>《<a href="../Page/無子無懮.md" title="wikilink">-{zh-hans:无子无忧;zh-hant:無子無懮;zh-tw:無子無憂;zh-hk:無子無憂}-</a>》</p></td>
-<td></td>
+<td><p>孫娜恩</p></td>
 <td><p>吳秀媚</p></td>
 <td><p>配角</p></td>
 <td></td>
@@ -82,7 +82,7 @@
 <td><p>2013年</p></td>
 <td><p>SBS</p></td>
 <td><p>《<a href="../Page/那年冬天風在吹.md" title="wikilink">-{zh-hans:那年冬天风在吹;zh-hant:那年冬天風在吹;zh-cn:那年冬天风在吹;zh-tw:看見你的愛;zh-hk:那年冬天 風在吹;zh-sg:那年冬天风在吹}-</a>》</p></td>
-<td></td>
+<td><p>鄭恩地</p></td>
 <td><p>文希善</p></td>
 <td><p>第二主角</p></td>
 <td><p>全集</p></td>
@@ -90,7 +90,7 @@
 <tr class="odd">
 <td><p>tvN</p></td>
 <td><p>《<a href="../Page/請回答1994.md" title="wikilink">請回答1994</a>》</p></td>
-<td></td>
+<td><p>鄭恩地</p></td>
 <td><p>成詩媛</p></td>
 <td><p>客串</p></td>
 <td><p>第16、17、21集</p></td>
@@ -100,7 +100,7 @@
 <td><p>2014年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS第2頻道" title="wikilink">KBS2</a></p></td>
 <td><p>《<a href="../Page/Trot戀人.md" title="wikilink">Trot戀人</a>》</p></td>
-<td></td>
+<td><p>鄭恩地</p></td>
 <td><p>崔春喜</p></td>
 <td><p>主角</p></td>
 <td><p>全集</p></td>
@@ -224,7 +224,7 @@
 | 2012年 | 《》                                       | 孫娜恩   | 殷熙宰   | 配角      |    |
 | 2013年 | 《》                                       | 鄭恩地   | Shiny | 動畫，韓國配音 |    |
 | 2017年 | 《》                                       | Kelly |       |         |    |
-| 2018年 | 《[女哭聲](../Page/女哭聲.md "wikilink")》       | 孫娜恩   |       | 女主角     |    |
+| 2018年 | 《[女哭聲](../Page/女哭聲.md "wikilink")》       | 孫娜恩   | 玉芬    | 女主角     |    |
 | 2019年 | 《[0.0MHz](../Page/0.0MHz.md "wikilink")》 | 鄭恩地   | 禹素姬   |         |    |
 
 ## 網絡劇

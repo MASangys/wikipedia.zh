@@ -319,6 +319,7 @@ TWICE TV "Dance The Night Away"於2018年7月9日起，不定時在[Naver](https
 | 01♥ 04 | 2018年9月20日  | 娜璉、彩瑛      |
 | 02     | 2018年10月3日  | 娜璉、定延、Momo |
 | EP味增湯  | 2018年12月28日 | 娜璉         |
+| 不一樣的娜璉 | 2019年08月23日 | 娜璉         |
 
 ### TWICE TV "YES or YES"
 
@@ -380,6 +381,8 @@ TWICE TV "YES or YES" Special 於2019年1月13日起，不定時在[Naver](https
 | 2019年5月24日 | FANCY SHOWCASE          |          |
 | 2019年8月2日  | ALLURE                  |          |
 | 2019年8月9日  | ESTEE LAUDER            |          |
+| 2019年8月16日 | AKARAKA                 |          |
+| 2019年8月30日 | MGMA                    |          |
 
 ### TWICE "Star Road"
 

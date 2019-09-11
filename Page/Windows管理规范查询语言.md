@@ -1,4 +1,4 @@
-**Windows管理规范查询语言**（**Windows Management Instrumentation Query Language**，缩写**WQL**）是[微软](../Page/微软.md "wikilink")对（CQL）的实现，该语言是（DMTF）之[通用信息模型](../Page/通用信息模型.md "wikilink")（CIM）标准的一种查询语言。它是[ANSI标准](https://zh.wikipedia.org/wiki/美國國家標準協會 "wikilink")[SQL](../Page/SQL.md "wikilink")的一个子集，小幅改变语义。\[1\]
+**Windows管理规范查询语言**（**Windows Management Instrumentation Query Language**，缩写**WQL**）是[微软](../Page/微软.md "wikilink")对（CQL）的实现，该语言是（DMTF）之[通用信息模型](../Page/通用信息模型.md "wikilink")（CIM）标准的一种查询语言。它是[ANSI标准](../Page/美國國家標準協會.md "wikilink")[SQL](../Page/SQL.md "wikilink")的一个子集，小幅改变语义。\[1\]
 
 WQL专用于[WMI](https://zh.wikipedia.org/wiki/WMI "wikilink")，旨在针对[CIM存储库执行查询](../Page/通用信息模型.md "wikilink")，以检索信息或获取事件通知。
 

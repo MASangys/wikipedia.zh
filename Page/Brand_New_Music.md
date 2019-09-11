@@ -36,7 +36,7 @@ BRANDNEW MUSIC於2013年1月推出網絡節目"Brand New Live"。\[10\]同年夏
 
   - Taewan
 
-  - 이강(LEE KANG)(原名:Candle)
+  - 이강（LEE KANG）（原名:Candle）
 
   - HENNEY （原名: Champagne）
 
@@ -62,6 +62,8 @@ BRANDNEW MUSIC於2013年1月推出網絡節目"Brand New Live"。\[10\]同年夏
   - TROY（,Changwoo, 和[KANTO](https://zh.wikipedia.org/wiki/KANTO "wikilink")）
 
   - Eluphant（Kebee和Minos）
+
+  - [MXM](https://zh.wikipedia.org/wiki/MXM "wikilink")
 
   - [AB6IX](../Page/AB6IX.md "wikilink")
 

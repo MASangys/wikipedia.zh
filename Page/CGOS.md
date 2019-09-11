@@ -2,7 +2,7 @@
 
 ## 簡介
 
-CGOS提供圍棋軟體在各式棋盤上使用[GTP](https://zh.wikipedia.org/wiki/GTP "wikilink")（Go Text Protocol）對弈（目前支援9x9、13x13以及標準19x19棋盤\[2\]），系統會自動配對對手進行對弈，並提供[等級分計算排行榜](https://zh.wikipedia.org/wiki/等級分 "wikilink")\[3\]，讓圍棋軟體的開發者可以了解軟體的實力。
+CGOS提供圍棋軟體在各式棋盤上使用[GTP](https://zh.wikipedia.org/wiki/GTP "wikilink")（）對弈（目前支援9x9、13x13以及標準19x19棋盤\[2\]），系統會自動配對對手進行對弈，並提供[等級分計算排行榜](https://zh.wikipedia.org/wiki/等級分 "wikilink")\[3\]，讓圍棋軟體的開發者可以了解軟體的實力。
 
 ## 規則
 

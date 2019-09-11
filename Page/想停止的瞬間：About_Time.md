@@ -51,7 +51,7 @@
 <tr class="odd">
 <td></td>
 <td><p>李道彬</p></td>
-<td><p>MK集團酒店分部代表，道河的哥哥。</p></td>
+<td><p>MK集團酒店分部代表，道河的哥 哥。</p></td>
 <td></td>
 </tr>
 <tr class="even">

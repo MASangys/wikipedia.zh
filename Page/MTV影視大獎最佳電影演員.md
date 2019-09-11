@@ -37,7 +37,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/吉娜·戴維斯" title="wikilink">吉娜·戴維斯</a> ‡</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/末路狂花" title="wikilink">末路狂花</a></p></td>
+<td><p><a href="../Page/塞尔玛与路易丝.md" title="wikilink">末路狂花</a></p></td>
 <td><p><a href="../Page/羅賓·威廉斯.md" title="wikilink">羅賓·威廉斯</a> ‡</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/天涯淪落兩心知" title="wikilink">天涯淪落兩心知</a></p></td>
 <td></td>

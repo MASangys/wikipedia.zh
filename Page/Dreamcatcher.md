@@ -54,15 +54,11 @@ Dreamcatcher的官方應援色為**[彩通](../Page/彩通.md "wikilink")Black 6
 
 9月11日，[Happy Face娛樂](../Page/Happy_Face娛樂.md "wikilink") 表示 Dreamcatcher 即將在巴西舉行的簽名會在開放售票10分鐘內全數售罄。\[13\]
 
-9月29日至30日， 在日本大阪舉行了首場演唱會。
-
 10月3日，[Happy Face娛樂](../Page/Happy_Face娛樂.md "wikilink") 發出聲明表示 Dreamcatcher 將出演由韓國電視台 [JTBC](../Page/JTBC.md "wikilink") 以及知名經紀公司 [YG娛樂](../Page/YG娛樂.md "wikilink") 合辦的選秀節目 [MIXNINE](https://zh.wikipedia.org/wiki/MIX_NINE "wikilink") 。\[14\]
 
 10月19日，Dreamcatcher 入圍 2017 MAMA 女子新人獎。
 
 10月28日，[MIXNINE](https://zh.wikipedia.org/wiki/MIX_NINE "wikilink") 通過 V LIVE 直播首場 SHOWCASE ，並表演首個 [MIXNINE](https://zh.wikipedia.org/wiki/MIX_NINE "wikilink") 曲目《JUST DANCE》。在 SHOWCASE 中[裕賢為預備出道組的成員](https://zh.wikipedia.org/wiki/裕賢 "wikilink")，排在第8名；而[始娟](https://zh.wikipedia.org/wiki/始娟 "wikilink")、[多美以及](https://zh.wikipedia.org/wiki/多美 "wikilink")[祉攸則為](https://zh.wikipedia.org/wiki/祉攸 "wikilink") B Class 的成員，分别排在第44、50及56名。
-
-10月30日，在日本東京舉行演唱會。
 
 11月13日，Dreamcatcher 入圍 2017 MMA 新人獎。
 
@@ -72,11 +68,11 @@ Dreamcatcher的官方應援色為**[彩通](../Page/彩通.md "wikilink")Black 6
 
 **<big>2018年</big>**
 
-#### 出道一週年特別單曲《Full Moon》
+#### 出道一週年特別單曲《Full Moon》、公佈官方粉絲名
 
 1月12日，公開出道一週年特別單曲《Full Moon》數字音源，並預告將於三月回歸。
 
-2月14日至25日，舉行歐洲巡回演唱會《1st Tour "Fly High"》。(地點：2/14 英國 倫敦、2/16 葡萄牙 里斯本、2/18 西班牙 馬德里、2/21 荷蘭 阿姆斯特丹、2/22 德國 柏林、2/23 波蘭 華沙、2/25 法國 巴黎)
+2月14日至25日，舉行首次歐洲巡迴演唱會《1st Tour "Fly High"》。
 
 3月10日，舉行首場韓國演唱會《WELCOME TO THE DREAM WORLD》，並在演唱會上公佈了官方粉絲名的影片。
 
@@ -88,11 +84,9 @@ Dreamcatcher的官方應援色為**[彩通](../Page/彩通.md "wikilink")Black 6
 
 5月10日，于韩国时间下午6时公开主打曲MV《YOU AND I》及專輯音源。
 
-6月21日，舉行首場台北演唱會《WELCOME TO THE DREAM WORLD In TAIPEI》，地點在華山Legacy Taipei，韓東因入台證審核"不同意訪台"而無法參與演出，除韓東外的六名成員如期來台順利完成演唱會。
+6月21日，舉行首場台北演唱會《WELCOME TO THE DREAM WORLD In TAIPEI》，韓東因入台證審核"不同意訪台"而無法參與演出，除韓東外的六名成員如期來台順利完成演唱會。
 
-7月14日，在日本東京舉行演唱會。
-
-7月27日至8月5日，舉行南美洲巡迴演唱會《WELCOME TO THE DREAMWORLD In Latin America》。(地點：7/27 阿根廷 、7/29 智利、8/1 秘魯、8/3 哥倫比亞、8/5 巴拿馬)
+7月27日至8月5日，舉行南美洲巡迴演唱會《WELCOME TO THE DREAMWORLD In Latin America》。
 
 **迷你三輯《Alone In The City》、日本出道**
 
@@ -116,7 +110,7 @@ Dreamcatcher的官方應援色為**[彩通](../Page/彩通.md "wikilink")Black 6
 
 3月13日，Dreamcatcher發行第二張日本單曲《PIRI～笛を吹け～-Japanese ver.-》。
 
-3月20日至9月6日，舉行巡迴演唱會《DREAMCATCHER CONCERT : Invitation From Nightmare City》。(地點：3/20 印尼 雅加達、3/23 新加坡、3/24 菲律賓 馬尼拉、4/6-4/7 韓國 首爾、5/2 日本 東京、5/4 日本 神戶、8/29 澳洲 雪梨、9/1 澳洲 墨爾本、9/6 馬來西亞 吉隆坡)
+3月22日，舉行巡迴演唱會《DREAMCATCHER CONCERT : Invitation From Nightmare City》從新加坡站開始，後陸續到亞洲、澳洲、歐洲等國家演出。
 
 7月12日，Dreamcatcher在官方SNS宣佈將於9月11日發售日本正規一輯《The Beginning Of The End》，並於8月22日先行公開「YOU AND I -Japanese ver.-」音源。\[17\]
 
@@ -622,6 +616,38 @@ feat. <a href="https://zh.wikipedia.org/wiki/Jason_Derulo" title="wikilink">Jaso
 <td></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>《<strong>Taki Taki</strong>》</p>
+<ul>
+<li>發行日期： 2019年8月16日</li>
+<li>語言：英語</li>
+</ul></td>
+<td><p>祉攸、秀雅、裕賢</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/DJ_Snake" title="wikilink">DJ Snake</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>《<strong>Eraser</strong>》</p>
+<ul>
+<li>發行日期： 2019年8月29日</li>
+<li>語言：韓語</li>
+</ul></td>
+<td><p>始娟</p></td>
+<td><p><a href="../Page/太妍.md" title="wikilink">太妍</a></p></td>
+</tr>
+<tr class="even">
+<td><p>《<strong>Remember Me</strong>》</p>
+<ul>
+<li>發行日期： 2018年4月10日</li>
+<li>語言：韓語</li>
+</ul></td>
+<td><p>祉攸、韓東</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Coco" title="wikilink">Coco</a></p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -752,6 +778,127 @@ Real MINX Ver.[31]</p></td>
 | 2018年11月3日              | [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")          | [不朽的名曲：傳說在歌唱](../Page/不朽的名曲：傳說在歌唱.md "wikilink")                  | 致DJ (尹詩奈)\[55\]                  |
 | 2019年3月2日               | [Viu](../Page/Viu.md "wikilink")                                  | Viu Beauty                                                        | 只能選1款化妝包必備品！ (by 女團Dreamcatcher) |
 | 2019年4月6日               | [KBS2](../Page/KBS第2频道.md "wikilink")                             | [不朽的名曲：傳說在歌唱](../Page/不朽的名曲：傳說在歌唱.md "wikilink")                  | 猶如印地安玩偶 (羅美)\[56\]               |
+
+## 廣播節目
+
+| <big>2017年廣播列表</big> |
+| -------------------- |
+| **<big>日期</big>**    |
+| 1月15日                |
+| 1月16日、4月10日、7月31日    |
+| 2月9日                 |
+| 2月12日                |
+| 2月13日                |
+| 4月19日                |
+| 5月4日                 |
+| 5月13日                |
+| 8月16日                |
+| 8月21日                |
+
+| <big>2018年廣播列表</big> |
+| -------------------- |
+| **<big>日期</big>**    |
+| 1月17日、18日            |
+| 5月21日                |
+| 10月1日                |
+| 10月10日               |
+| 10月11日               |
+| 10月18日               |
+| 12月17日               |
+
+| <big>2019年廣播列表</big> |
+| -------------------- |
+| **<big>日期</big>**    |
+| 2月5日                 |
+| 2月13日                |
+| 2月18日                |
+| 2月25日                |
+| 3月5日                 |
+| 4月25日                |
+
+## 演唱會
+
+### 演唱會
+
+  - DREAMCATCHER 1st CONCERT “Fly high” in JAPAN
+
+| 日期         | 站次  | 舉行地點        |
+| ---------- | --- | ----------- |
+| 2017年9月30日 | 大阪站 | BIGCAT      |
+| 2017年10月9日 | 東京站 | 東京原宿クエストホール |
+
+  - 2018 DREAMCATCHER 1ST TOUR "FLY HIGH"
+
+| 日期         | 站次     | 舉行地點                 |
+| ---------- | ------ | -------------------- |
+| 2018年2月14日 | 倫敦站    | ULU Live             |
+| 2018年2月16日 | 里斯本站   | LAV - Lisboa ao Vivo |
+| 2018年2月18日 | 馬德里站   | Sala Riviera         |
+| 2018年2月21日 | 阿姆斯特丹站 | Melkweg              |
+| 2018年2月22日 | 柏林站    | Columbia Theater     |
+| 2018年2月23日 | 華沙站    | Palladium            |
+| 2018年2月25日 | 巴黎站    | Le Trianon           |
+
+  - WELCOME TO THE DREAM WORLD
+
+| 日期         | 站次       | 舉行地點                  |
+| ---------- | -------- | --------------------- |
+| 2018年3月10日 | 首爾站      | 서울중구 신세계 메사홀          |
+| 2018年6月21日 | 台北站      | Legacy Taipei         |
+| 2018年7月14日 | 東京站      | 赤坂 BLITZ              |
+| 2018年7月27日 | 布宜諾斯艾利斯站 | El Teatro de Flores   |
+| 2018年7月29日 | 聖地牙哥站    | Club Chocolate        |
+| 2018年8月1日  | 利馬站      | Maracaná              |
+| 2018年8月3日  | 波哥大站     | Teatro ECCI El Dorado |
+| 2018年8月5日  | 巴拿馬站     | Teatro La Huaca       |
+
+  - DREAMCATCHER CONCERT : Invitation From Nightmare City
+
+| 日期             | 站次     | 舉行地點                  |
+| -------------- | ------ | --------------------- |
+| 2019年3月22日     | 新加坡站   | Gateway Theatre       |
+| 2019年3月24日     | 馬尼拉站   | SM North Edsa Skydome |
+| 2019年4月6日、4月7日 | 首爾站    | 신한카드 판스퀘어 라이브홀        |
+| 2019年5月2日      | 東京站    | キネマ倶楽部                |
+| 2019年5月4日      | 神戶站    | 神戸Harbor Studio       |
+| 2019年8月29日     | 雪梨站    | Factory Theatre       |
+| 2019年9月1日      | 墨爾本站   | 170 Russell           |
+| 2019年9月6日      | 吉隆坡站   | KL LIVE               |
+| 2019年10月24日    | 倫敦站    | ULU Live              |
+| 2019年10月27日    | 米蘭站    | Magazzini Generali    |
+| 2019年10月30日    | 柏林站    | Kesselhaus            |
+| 2019年11月1日     | 華沙站    | Palladium             |
+| 2019年11月3日     | 巴黎站    | Élysée Montmartre     |
+| 2019年11月5日     | 阿姆斯特丹站 | Melkweg               |
+| 2019年11月7日     | 赫爾辛基站  | Nosturi               |
+
+### 見面會
+
+| 日期         | 活動名稱                                                                   | 舉行地點             |
+| ---------- | ---------------------------------------------------------------------- | ---------------- |
+| 2017年4月5日  | Dreamcatcher <Good Night> Comeback Showcase                            | 신한카드 판스퀘어 라이브홀   |
+| 2017年7月30日 | Dreamcatcher 1st Fanmeeting <Welcome to the dreamworld>                | 일지아트홀            |
+| 2017年12月9日 | Dreamcatcher 1st Tour in Brazil Showcase                               | Tropical Butantã |
+| 2018年1月13日 | DREAMCATCHER 1st ANNIVERSARY FANMEETING                                | 서강대학교 메리홀 대극장    |
+| 2018年5月10日 | Dreamcatcher SECOND MINI ALBUM \[악몽·Escape the ERA\] Comeback Showcase | 홍대 MUV HALL      |
+| 2019年4月6日  | Dreamcatcher 3rd MINI ALBUM \[Alone In The City\] Comeback Showcase    | 홍대 MUV HALL      |
+| 2019年9月12日 | “The Beginning Of The End” SHOWCASE                                    | マイナビBLITZ赤坂      |
+
+### 其他公演
+
+| 日期          | 活動名稱                                | 舉行地點                     |
+| ----------- | ----------------------------------- | ------------------------ |
+| 2017年6月2日   | 2017 World Friends Music Festival   | 華城市綜合競技城                 |
+| 2017年8月5日   | 2017 Jeonju Ultimate Music Festival | 全州綜合體育場                  |
+| 2017年9月27日  | 2017 MU:CON SHOWCASE                | 上岩MBC公開HALL              |
+| 2018年8月12日  | KCON 2018 LA                        | STAPLES CENTER           |
+| 2018年9月9日   | Hallyu Pop Fest 2018                | SINGAPORE INDOOR STADIUM |
+| 2018年11月4日  | 2018 Jeju Hallyu Festival           | Jeju Stadium             |
+| 2018年9月12日  | 2018 MU:CON x AMIN SHOWCASE         | 上岩MBC公開HALL              |
+| 2018年11月11日 | K-GIRLS FES 2018 IN TOKYO           | SHINAGAWA STELLA BALL    |
+| 2019年3月1日   | 2019 ONE K CONCERT                  | 汝矣島國會議事堂草坪廣場             |
+| 2019年7月30日  | 2019 Koya Summer Festival           | Yangji Pine Ski Resort   |
+| 2019年8月15日  | 2019 K-WORLD FEST                   | 首爾奧林匹克公園                 |
 
 ## 獎項
 

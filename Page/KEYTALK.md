@@ -117,7 +117,7 @@ TGMX ()企劃製作</p></td>
 </tbody>
 </table>
 
-#### 配信限定單曲
+#### 限期發佈單曲
 
   - **[Last Christmas](../Page/Last_Christmas_\(歌曲\).md "wikilink")（[WHAM！COVER](../Page/威猛樂隊.md "wikilink")）**（2011年12月14日）
   - ****（2012年2月29日）
@@ -453,7 +453,7 @@ VICL-37309（通常盤）</p></td>
 </tbody>
 </table>
 
-#### 配信限定
+#### 限期發佈
 
 <table>
 <thead>

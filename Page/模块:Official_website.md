@@ -89,9 +89,15 @@ end
 \-- Render the URL link, plus other visible output. local function renderUrl(options)
 
 `   if not options.url and not options.wikidataurl then`
-`       return '`<strong class="error">`' ..`
+`       local entity = mw.wikibase.getEntityObject() or {}`
+`       local qid = entity.id`
+`       local result = '`<strong class="error">`' ..`
 `           '找不到URL。请在此处指定URL或在维基数据上添加。' ..`
 `           '`</strong>`'`
+`       if qid then`
+`           result = result.. ' `[`OOjs_UI_icon_edit-ltr-progressive.svg`](https://zh.wikipedia.org/wiki/File:OOjs_UI_icon_edit-ltr-progressive.svg "fig:OOjs_UI_icon_edit-ltr-progressive.svg")`'`
+`       end`
+`       return result`
 `   end`
 `   local ret = {}`
 `   ret[#ret + 1] = string.format(`

@@ -88,7 +88,7 @@ APX以[擊針擊發](../Page/撞針.md "wikilink")。當待擊時，上膛指示
 
   - —[Debutta la pistola Beretta Apx](http://www.armietiro.it/debutta-la-pistola-beretta-apx-armi-6319), Armietiro. URL consultato il 2 gennaio 2016.
 
-[Category:半自動手槍](https://zh.wikipedia.org/wiki/Category:半自動手槍 "wikilink") [Category:意大利半自动手枪](https://zh.wikipedia.org/wiki/Category:意大利半自动手枪 "wikilink") [Category:貝瑞塔](https://zh.wikipedia.org/wiki/Category:貝瑞塔 "wikilink") [Category:貝瑞塔手槍](https://zh.wikipedia.org/wiki/Category:貝瑞塔手槍 "wikilink") [Category:9毫米魯格彈槍械](https://zh.wikipedia.org/wiki/Category:9毫米魯格彈槍械 "wikilink") [Category:9×21_IMI口徑槍械](https://zh.wikipedia.org/wiki/Category:9×21_IMI口徑槍械 "wikilink") [Category:.40_S\&W口徑槍械](https://zh.wikipedia.org/wiki/Category:.40_S&W口徑槍械 "wikilink")
+[Category:模塊化槍械](https://zh.wikipedia.org/wiki/Category:模塊化槍械 "wikilink") [Category:半自動手槍](https://zh.wikipedia.org/wiki/Category:半自動手槍 "wikilink") [Category:意大利半自动手枪](https://zh.wikipedia.org/wiki/Category:意大利半自动手枪 "wikilink") [Category:貝瑞塔](https://zh.wikipedia.org/wiki/Category:貝瑞塔 "wikilink") [Category:貝瑞塔手槍](https://zh.wikipedia.org/wiki/Category:貝瑞塔手槍 "wikilink") [Category:9毫米魯格彈槍械](https://zh.wikipedia.org/wiki/Category:9毫米魯格彈槍械 "wikilink") [Category:9×21_IMI口徑槍械](https://zh.wikipedia.org/wiki/Category:9×21_IMI口徑槍械 "wikilink") [Category:.40_S\&W口徑槍械](https://zh.wikipedia.org/wiki/Category:.40_S&W口徑槍械 "wikilink")
 
 1.
 2.

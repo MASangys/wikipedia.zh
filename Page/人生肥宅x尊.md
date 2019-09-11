@@ -33,7 +33,7 @@
   -
   -
   -
-[Category:臺灣YouTuber](https://zh.wikipedia.org/wiki/Category:臺灣YouTuber "wikilink") [Category:YouTube頻道](https://zh.wikipedia.org/wiki/Category:YouTube頻道 "wikilink") [Category:1998年出生](https://zh.wikipedia.org/wiki/Category:1998年出生 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:朱姓](https://zh.wikipedia.org/wiki/Category:朱姓 "wikilink") [Category:國立羅東高級商業職業學校校友](https://zh.wikipedia.org/wiki/Category:國立羅東高級商業職業學校校友 "wikilink") [Category:國立臺北大學校友](https://zh.wikipedia.org/wiki/Category:國立臺北大學校友 "wikilink") [Category:高雄市人](https://zh.wikipedia.org/wiki/Category:高雄市人 "wikilink")
+[Category:臺灣YouTuber](https://zh.wikipedia.org/wiki/Category:臺灣YouTuber "wikilink") [Category:YouTube頻道](https://zh.wikipedia.org/wiki/Category:YouTube頻道 "wikilink") [Category:1998年出生](https://zh.wikipedia.org/wiki/Category:1998年出生 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:朱姓](https://zh.wikipedia.org/wiki/Category:朱姓 "wikilink") [Category:國立羅東高級商業職業學校校友](https://zh.wikipedia.org/wiki/Category:國立羅東高級商業職業學校校友 "wikilink") [Category:國立臺北大學校友](https://zh.wikipedia.org/wiki/Category:國立臺北大學校友 "wikilink") [Category:新北市人](https://zh.wikipedia.org/wiki/Category:新北市人 "wikilink")
 
 1.  [人生肥宅x尊 Youtube頻道](https://www.youtube.com/channel/UC6VKHP606ee6ffKwKmBHSig)
 2.  [人生肥宅x尊 登「全台最嫩百萬YT訂閱主」全靠這招 | 熱門星聞 | 噓！星聞](https://stars.udn.com/star/story/10091/3326045)

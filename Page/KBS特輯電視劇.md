@@ -2303,7 +2303,7 @@
 2015年3月1日</p></td>
 <td style="text-align: center;"><p><a href="../Page/雪路_(電視劇).md" title="wikilink">雪路</a><br />
 [7]</p></td>
-<td style="text-align: center;"><p><small><a href="../Page/金香起.md" title="wikilink">金香起</a>、<a href="../Page/金賽綸.md" title="wikilink">金賽綸</a>、<a href="../Page/金英玉.md" title="wikilink">金英玉</a>、<a href="https://zh.wikipedia.org/wiki/曹秀香" title="wikilink">曹秀香</a></small></p></td>
+<td style="text-align: center;"><p><small><a href="../Page/金香起.md" title="wikilink">金香起</a>、<a href="../Page/金賽綸.md" title="wikilink">金賽綸</a>、<a href="../Page/金英玉.md" title="wikilink">金英玉</a>、<a href="../Page/曹秀香.md" title="wikilink">曹秀香</a></small></p></td>
 <td style="text-align: center;"><p><a href="../Page/李娜靜.md" title="wikilink">李娜靜</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/劉寶拉" title="wikilink">劉寶拉</a></p></td>
 <td style="text-align: center;"><p>光復70週年特輯電視劇</p></td>

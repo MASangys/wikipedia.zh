@@ -112,6 +112,17 @@
       -
         作詞 ：真崎 ERIKA，作曲・編曲 ：，主唱：正木郁、（[Lantis](../Page/Lantis.md "wikilink")）
 
+<!-- end list -->
+
+  - 插入曲
+
+:;「Open My Dream」（第39集）
+
+  -
+
+      -
+        主唱：七瀨千春（熊田茜音）
+
 ## 各話標題
 
 <table>
@@ -973,7 +984,7 @@
 <td><p>河野仁美<br />
 志村隆行</p></td>
 <td><p>東海林康和</p></td>
-<td><p>2019年8月15日&lt;!--</p></td>
+<td><p>2019年8月15日</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -985,7 +996,7 @@
 <td><p>桑原麻衣<br />
 土信田和幸<br />
 平良哲朗</p></td>
-<td></td>
+<td><p>大野美葉</p></td>
 <td><p>2019年8月22日</p></td>
 <td></td>
 </tr>
@@ -995,18 +1006,20 @@
 <td><p>茨茨米米琪琪 魔法之旅</p></td>
 <td><p>竹内利光</p></td>
 <td><p>寺田和男<br />
-大原實</p></td>
+<a href="https://zh.wikipedia.org/wiki/大原実" title="wikilink">大原実</a></p></td>
 <td><p>沼山茉由</p></td>
-<td><p>大河しのぶ<br />
-東海林康和<br />
+<td><p>東海林康和<br />
 永島昭子<br />
-奥田聖美</p></td>
-<td></td>
+奥田聖美<br />
+大河しのぶ<br />
+河野仁美</p></td>
+<td><p>東海林康和<br />
+大河しのぶ</p></td>
 <td><p>2019年8月29日</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p>神仙精靈小鎮大混亂</p></td>
+<td><p>神仙精靈小鎮大混亂&lt;!--</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1034,10 +1047,11 @@
 
 ### CD
 
-| 標題                                      | 收錄話数    | 發售日       |
-| --------------------------------------- | ------- | --------- |
-| キラキラハッピー★ ひらけ\! ここたま DVD BOX vol.1\[1\] | 第1－16話  | 2019/5/29 |
-| キラキラハッピー★ ひらけ\! ここたま DVD BOX vol.2\[2\] | 第17－32話 | 2019/8/23 |
+| 標題                                      | 收錄話数    | 發售日        |
+| --------------------------------------- | ------- | ---------- |
+| キラキラハッピー★ ひらけ\! ここたま DVD BOX vol.1\[1\] | 第1－16話  | 2019/5/29  |
+| キラキラハッピー★ ひらけ\! ここたま DVD BOX vol.2\[2\] | 第17－32話 | 2019/8/23  |
+| キラキラハッピー★ ひらけ\! ここたま DVD BOX vol.3\[3\] | 第33－44話 | 2019/11/27 |
 
 ### DVD
 
@@ -1052,7 +1066,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>[3]</p></td>
+<td><p>[4]</p></td>
 <td><p>第1－4話</p></td>
 <td><p>2019/1/9</p></td>
 <td><p>星之川遙<br />
@@ -1170,4 +1184,5 @@
 
 1.  [1](https://coco-tama.com/hirake/goods/cd/details.php?detail=item15)
 2.  [2](https://coco-tama.com/hirake/goods/cd/details.php?detail=item20)
-3.  [3](https://coco-tama.com/hirake/goods/cd/details.php?detail=item9)
+3.  [3](https://coco-tama.com/hirake/goods/cd/details.php?detail=item25)
+4.  [4](https://coco-tama.com/hirake/goods/cd/details.php?detail=item9)

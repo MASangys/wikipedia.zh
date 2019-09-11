@@ -33,7 +33,7 @@ MLG 27可在[德國海軍的幾乎所有主要單位](https://zh.wikipedia.org/w
 
   - [萊茵金屬RMK30無后座力轉輪式機炮](../Page/萊茵金屬RMK30無后座力轉輪式機炮.md "wikilink")
 
-  - [拉斐爾颱風武器站](https://zh.wikipedia.org/wiki/拉斐爾颱風武器站 "wikilink")
+  - [拉斐爾颱風武器站](../Page/拉斐爾颱風武器站.md "wikilink")
 
 ## 資料來源
 

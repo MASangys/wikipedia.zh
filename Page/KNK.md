@@ -1130,12 +1130,12 @@ PlotData =
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/SBS人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/SBS株式會社" title="wikilink">SBS</a></p></td>
-<td><p>7月21日、8月4日、8月11日</p></td>
+<td><p>7月21日、7月28日、8月4日、8月11日</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/阿里郎電視台" title="wikilink">Arirang TV</a></p></td>
-<td><p>7月26日、8月2日、8月9日</p></td>
+<td><p>7月26日、8月2日、8月9日、8月16日</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -1311,6 +1311,8 @@ PlotData =
 | 2016年                           | 第24屆韓國文化藝術大賞 K-POP歌手獎                   |
 | 2017年                           | 2017 GLOBAL ROOKIE TOP10 Award Ceremony |
 | 2017 SOBA最佳音樂大賞 新韓流 Music Star獎 |                                         |
+| 第23屆大韓民國演藝藝術賞 Netizen賞          |                                         |
+| 2019年                           | 第25屆大韓民國演藝藝術賞 最佳團體賞                     |
 |                                 |                                         |
 
 | 年份    | 名稱              | 項目       | 獎項 | 參賽成員        |

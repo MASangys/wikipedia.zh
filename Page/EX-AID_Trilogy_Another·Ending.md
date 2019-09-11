@@ -138,7 +138,7 @@ Trilogy Another・Ending</p></td>
 <td><p><strong>必殺技</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><font color=gold><strong>Perfect Knock Out Gamer</strong><br />
+<td><p><strong>Perfect Knock Out Gamer</strong><br />
 <strong>完美擊倒玩家</strong></font></p></td>
 <td><p>原文：<br />
 使用「Gamer Driver」時搭配「Gashat Gear Dual Another」卡帶狀態時變身的形態<br />

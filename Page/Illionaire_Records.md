@@ -29,6 +29,7 @@ Dok2和The Quiett代表Illionaire Records錄製Hiphop選秀節目[Show Me The Mo
   - ASH ISLAND
   - Leellamarz
   - Way Ched
+  - ZENE THE ZILLA
 
 ## 参考文献
 

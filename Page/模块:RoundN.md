@@ -8,7 +8,7 @@ local p = {
 `       '決賽',`
 `       '季軍戰'`
 `   },`
-`   bgColor = {head = '#f2f2f2', 'gold', 'silver', '#CD7F32', '#f9f9f9'},`
+`   bgColor = {head = '#F2F2F2', 'gold', 'silver', '#CD7F32', '#F9F9F9'},`
 `   reuseStr = {},`
 `   saveStr = function(self, name, ...)`
 `       if not self.reuseStr[name] then`

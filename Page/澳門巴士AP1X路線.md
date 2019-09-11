@@ -53,20 +53,18 @@
 
 ### 服務時間及班距
 
-<table style="width:160%;">
+<table style="width:120%;">
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 45%" />
-<col style="width: 45%" />
-<col style="width: 20%" />
+<col style="width: 30%" />
+<col style="width: 30%" />
+<col style="width: 30%" />
+<col style="width: 30%" />
 </colgroup>
 <thead>
 <tr class="header">
 <th><p><strong>服務時間</strong></p></th>
-<th><p>星期一至六<br />
-(除強制性假日)</p></th>
-<th><p>星期日<br />
-(除強制性假日)</p></th>
+<th><p>平日(星期一至五)</p></th>
+<th><p>例假日(不含強制性假日)</p></th>
 <th><p>強制性假日</p></th>
 </tr>
 </thead>
@@ -80,23 +78,19 @@
 </tr>
 <tr class="even">
 <td><p><strong>班距</strong></p></td>
-<td><p>06:00-10:00</p></td>
-<td><p>6-10分鐘</p></td>
-<td><p>10-15分鐘</p></td>
+<td><p>上午6-10分鐘<br />
+下午8-12分鐘</p></td>
+<td><p>上午10-15分鐘<br />
+下午12-15分鐘</p></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td><p>15:00-20:00</p></td>
-<td><p>8-12分鐘</p></td>
-<td><p>12-15分鐘</p></td>
+<td><p><strong>末班車發車時間：懸掛8號風球後30分鐘。</strong></p></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong>懸掛8號風球後30分鐘開出尾班車</strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

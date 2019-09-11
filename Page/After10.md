@@ -269,21 +269,21 @@ featuring 康 on Backing Vocal</p></td>
 <td><p>2017</p></td>
 <td><p>老佛爺</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Yellow!" title="wikilink">Yellow!主唱</a><br />
-featuring 康 on Guitar</p></td>
+featuring 康 on Guitar/2nd Voice</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
 <td><p>2017</p></td>
 <td><p>嫌小姐</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Yellow!" title="wikilink">Yellow!主唱</a><br />
-featuring 康 on Guitar</p></td>
+featuring 康 on Guitar/2nd Voice</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
 <td><p>2018</p></td>
 <td><p>男兒當入_</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Yellow!" title="wikilink">Yellow!主唱</a><br />
-featuring 康 on Guitar</p></td>
+featuring 康 on Guitar/2nd Voice</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -291,6 +291,13 @@ featuring 康 on Guitar</p></td>
 <td><p>行行重行行</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/YuE" title="wikilink">YuE主唱</a><br />
 曲/編/監製/結他/和音 by 康</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
+<td><p>2018</p></td>
+<td><p>新類型人的愛</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Yellow!" title="wikilink">Yellow!主唱</a><br />
+featuring 康 on Guitar/2nd Voice</p></td>
 <td><p>-</p></td>
 </tr>
 </tbody>
@@ -344,6 +351,9 @@ featuring 康 on Guitar</p></td>
   - [Yellow\!](https://zh.wikipedia.org/wiki/Yellow! "wikilink")[《老佛爺》](https://www.youtube.com/watch?v=aCfWHpSffKI) - 康飾太監
   - [Yellow\!](https://zh.wikipedia.org/wiki/Yellow! "wikilink")[《嫌小姐》](https://www.youtube.com/watch?v=QovcxapXF2k) - 康飾專家
   - [Yellow\!](https://zh.wikipedia.org/wiki/Yellow! "wikilink")[《男兒當入_》](https://www.youtube.com/watch?v=45a1zDTb_fE) - 康飾Bell Boy、麵檔老闆、紋身師、三輪車司機
+  - [Yellow\!](https://zh.wikipedia.org/wiki/Yellow! "wikilink")[《新類型人的愛》](https://www.youtube.com/watch?v=XJFPMQilkqI) - 康飾入錶路人
+  - [After10](../Page/After10.md "wikilink")[《Happy Hour》](https://www.youtube.com/watch?v=EU3W67EfRhs) - After10 飾 After10
+  - [After10](../Page/After10.md "wikilink")[《不許於這旅途嬉戲》](https://www.youtube.com/watch?v=R8JZnJWS0K8) - 偉飾男友
 
 ### 舞台劇
 
@@ -372,6 +382,17 @@ featuring 康 on Guitar</p></td>
   - TVB Music Cafe —— [After10](../Page/After10.md "wikilink") 樂隊訪問及《朝幸福前行》介紹
   - TVB 樂勢力 —— [After10](../Page/After10.md "wikilink") 樂隊訪問及《Happy Hour》介紹
   - TVB Music Cafe —— [After10](../Page/After10.md "wikilink") 樂隊訪問及《Happy Hour》介紹
+
+### 網上節目
+
+2014年
+
+  - [《組BAND起義》-EP047-After10](http://www.sourcewadio.com/program_detail.php?rid=1304&cid=31)
+
+2019年
+
+  - [Big Big Channel —— After10 勁歌金曲優秀選2019拉票 / After10 Band房Tour 直播](https://www.bigbigchannel.com.hk/tc/cat_music/nav_451/98944/after-10-after-10%E6%8B%89%E7%A5%A8)
+  - [閱評流「60秒鐘音樂雜誌」與After10夜半Men Talk 分享男人心事](https://vocus.cc/mymusicselection/5d188575fd89780001f9a88a)
 
 ## 音樂會
 
@@ -555,7 +576,14 @@ featuring 康 on Guitar</p></td>
   - 6月29日：**After10** - Live In TAIWAN \#1 [女巫店](https://zh.wikipedia.org/wiki/女巫店 "wikilink")
   - 6月30日：**After10** - Live In TAIWAN \#2 [新銳咖啡](https://zh.wikipedia.org/wiki/新銳咖啡 "wikilink") 台中惠中店 開幕嘉賓
   - 6月30日：**After10** - Live In TAIWAN \#3 [河岸留言](https://zh.wikipedia.org/wiki/河岸留言 "wikilink")
+  - 7月19日: Kis x Mr Little Cat x Yim K - TRI-A-GAIN LIVE 2019（偉擔任鼓手）
   - 7月25日: [黎瑞恩](../Page/黎瑞恩.md "wikilink") - Facebook Live（康擔任結他手，偉擔任鼓手）
+  - 8月16日: [李志剛](https://zh.wikipedia.org/wiki/李志剛 "wikilink"), 張樹強, 孟耀祖, 蔡惠玲, 李伊琳, 蕭綺雯, 吳少芳, 馮佩芬, 何德強 - 我們都是十大音樂會2019（偉擔任鼓手）
+  - 8月16日: [章尾而](../Page/章尾而.md "wikilink") - Friday Vibe @ 1563 at the east（康擔任結他手）
+  - 8月17日：**After10** - GIMME LIVE 2019
+  - 8月24日：[方皓玟](../Page/方皓玟.md "wikilink") - GIMME LIVE 2019（偉擔任鼓手）
+  - 8月27日：**After10** - 做好音樂 Goodest Music Kool Kitchen Acoustic Live
+  - 8月27日：**After10** - 繁花音樂祭
 
 ## WHF Home Music
 
@@ -585,6 +613,10 @@ WHF Home Music 是他們位於葵芳的私人Band 房。
   - [【馮仁昭四圍超】After 10唱好在職爸爸](https://hk.entertainment.appledaily.com/entertainment/daily/article/20180802/20466349)蘋果日報. 2018-08-02
   - [樂隊After10新歌唱出男性心聲](https://news.mingpao.com/pns/dailynews/web_tc/article/20180802/s00016/1533146469033)明報. 2018-08-02
   - [After 10儲夠10隻歌出大碟](https://hk.on.cc/hk/bkn/cnt/entertainment/20181126/bkn-20181126034736123-1126_00862_001.html?fbclid=IwAR2-SLyMrp1H9UFWcmbSVoCykyWhvZBZxQuLwKjsuJmhMXobnrqKcMQSVMM)on.cc 東網.2018-11-26
+  - [走出低谷！After10新歌為香港打氣](https://today.line.me/hk/pc/article/%E8%B5%B0%E5%87%BA%E4%BD%8E%E8%B0%B7%EF%BC%81After10%E6%96%B0%E6%AD%8C%E7%82%BA%E9%A6%99%E6%B8%AF%E6%89%93%E6%B0%A3-P2ZzD8)LINE TODAY. 2019-06-13
+  - [走出低谷！After10新歌為香港打氣](https://hk.on.cc/hk/bkn/cnt/entertainment/20190613/bkn-20190613211352933-0613_00862_001.html)on.cc 東網. 2019-06-13
+  - [閱評流「60秒鐘音樂雜誌」與After10夜半Men Talk 分享男人心事](https://vocus.cc/mymusicselection/5d188575fd89780001f9a88a)閱評流. 2019-06-30
+  - [老婆逆來順受　阿偉@After10背正印滾床單](https://hk.on.cc/hk/bkn/cnt/entertainment/20190701/mobile/bkn-20190701051050046-0701_00862_001.html)on.cc 東網. 2019-07-01
 
 ## 參考資料
 
@@ -593,6 +625,7 @@ WHF Home Music 是他們位於葵芳的私人Band 房。
   - [After10 Facebook專頁](http://www.facebook.com/after10hk)
   - [After10 YouTube頻道](http://www.youtube.com/after10hk)
   - [After10 Instagram](http://www.instagram.com/after10hk)
+  - [After10 Apple Music](https://music.apple.com/hk/artist/after10/985607789)
   - [After10 新浪微博](http://weibo.com/after10hk)
   - [After10 Streetvoice專頁](http://tw.streetvoice.com/after10)
   - [After10 INDIEVOX專頁](https://www.indievox.com/after10hk)

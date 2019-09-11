@@ -659,6 +659,26 @@
 <td></td>
 <td></td>
 </tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>56th</p></td>
+<td><p>2019年9月18日</p></td>
+<td><p><a href="../Page/Sustainable.md" title="wikilink">Sustainable</a></p></td>
+<td><p>Sustainable</p></td>
+<td></td>
+<td><p>全版本</p></td>
+<td><p>★</p></td>
+<td><p>A面曲</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -809,8 +829,7 @@
 
   -
   -
-  - [田中 美久（HKT48 TeamH）](https://www.showroom-live.com/48_MIKU_TANAKA)的[SHOWROOM](../Page/SHOWROOM.md "wikilink")專頁。
-
+  -
   - [田中美久©](http://love-berry.net/model/tanaka-miku.html) -
 
 [Category:HKT48成員](https://zh.wikipedia.org/wiki/Category:HKT48成員 "wikilink") [Category:日本女性偶像](https://zh.wikipedia.org/wiki/Category:日本女性偶像 "wikilink") [Category:熊本縣出身人物](https://zh.wikipedia.org/wiki/Category:熊本縣出身人物 "wikilink")

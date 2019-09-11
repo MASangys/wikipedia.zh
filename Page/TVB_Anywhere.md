@@ -1,4 +1,4 @@
-**TVB Anywhere**是[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")一個收費[OTT服務平台](https://zh.wikipedia.org/wiki/OTT服務 "wikilink")，2014年4月或2015年2月1日正式於歐洲或澳洲推出，2016年9月15日全球啟動，相当于[myTV SUPER的海外版](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")，讓觀眾在電視、[網絡電視盒子及](https://zh.wikipedia.org/wiki/網絡電視盒子 "wikilink")[智能電話收看超過](https://zh.wikipedia.org/wiki/智能電話 "wikilink")50條頻道，以及重溫[無綫電視節目](../Page/無綫電視節目.md "wikilink")。同公司同類服務有encore TVB。\[1\]\[2\]\[3\]
+<noinclude></noinclude>**TVB Anywhere**是[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")一個收費[OTT服務平台](https://zh.wikipedia.org/wiki/OTT服務 "wikilink")，2014年4月或2015年2月1日正式於歐洲或澳洲推出，2016年9月15日全球啟動，相当于[myTV SUPER的海外版](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")，讓觀眾在電視、[網絡電視盒子及](https://zh.wikipedia.org/wiki/網絡電視盒子 "wikilink")[智能電話收看超過](https://zh.wikipedia.org/wiki/智能電話 "wikilink")50條頻道，以及重溫[無綫電視節目](../Page/無綫電視節目.md "wikilink")。同公司同類服務有encore TVB。\[1\]\[2\]\[3\]
 
 本服務現不適用於[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")、[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")、[台灣和](https://zh.wikipedia.org/wiki/台灣 "wikilink")[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")。
 

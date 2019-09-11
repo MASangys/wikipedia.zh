@@ -15,7 +15,7 @@
   - [泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")：[TrueMove](https://zh.wikipedia.org/wiki/TrueMove "wikilink")
   - [菲律賓](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")：[SMART](https://zh.wikipedia.org/wiki/SMART "wikilink")
   - [越南](https://zh.wikipedia.org/wiki/越南 "wikilink")：[VNPT](https://zh.wikipedia.org/wiki/VNPT "wikilink") - [VinaPhone](https://zh.wikipedia.org/wiki/VinaPhone "wikilink")
-  - [中國](../Page/中國.md "wikilink")[香港](../Page/香港.md "wikilink")：[和記電訊](../Page/和記電訊香港控股.md "wikilink") - [3 (電訊)](../Page/3_\(電訊\).md "wikilink")
+  - [香港](../Page/香港.md "wikilink")：[和記電訊](../Page/和記電訊香港控股.md "wikilink") - [3 (電訊)](../Page/3_\(電訊\).md "wikilink")
   - [臺灣](../Page/臺灣.md "wikilink")：[遠傳電信](../Page/遠傳電信.md "wikilink")
   - [南韓](https://zh.wikipedia.org/wiki/南韓 "wikilink")：[韓國通訊](https://zh.wikipedia.org/wiki/韓國通訊 "wikilink")
 

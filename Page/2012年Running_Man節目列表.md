@@ -1102,7 +1102,7 @@ Gary、哈哈</p></td>
 <td><p>11月18日<br />
 <small>(<em>11月12日</em>)</small></p></td>
 <td><p><a href="../Page/李昇基.md" title="wikilink">李昇基</a>、<a href="https://zh.wikipedia.org/wiki/朴信惠" title="wikilink">朴信惠</a></p></td>
-<td><p><a href="http://yicf.or.kr/main/?skin=guide010101.htm">圃隱藝術廳</a><br />
+<td><p><a href="https://web.archive.org/web/20170606184951/https://yicf.or.kr/main/?skin=guide010101.htm">圃隱藝術廳</a><br />
 <small>(<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/龍仁市.md" title="wikilink">龍仁市</a><br />
 )</small></p></td>
 <td><p><span style=font-size:110%><strong>007特輯(上) － 水槍狙擊手</strong></span><br />

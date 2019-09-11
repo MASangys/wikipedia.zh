@@ -1,4 +1,4 @@
-**MALIBU**是一個[香港](../Page/香港.md "wikilink")[新界](../Page/新界.md "wikilink")[將軍澳](../Page/將軍澳.md "wikilink")東南部的臨海豪華私人屋苑，是港鐵大型臨海住宅區[日出康城](../Page/日出康城.md "wikilink")第5期，亦為[會德豐地產](../Page/會德豐地產.md "wikilink")O' East系列首個臨海住宅項目，由[會德豐地產](../Page/會德豐地產.md "wikilink")及[港鐵公司共同發展](https://zh.wikipedia.org/wiki/港鐵公司 "wikilink")，建築師為[呂元祥建築師事務所](../Page/呂元祥建築師事務所.md "wikilink")，承建商為[協興建築](../Page/協興建築.md "wikilink")，將於2020年5月落成及入伙。MALIBU以The Touch of Urban Nature為主題，命名源自[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加州海濱滑浪城市](https://zh.wikipedia.org/wiki/加州 "wikilink")[馬利布](https://zh.wikipedia.org/wiki/馬利布 "wikilink")，配合日出康城這個全新海濱住宅區。MALIBU層樓最高達71層(1A、1B座)，落成後將成為新界區第二高的住宅大樓(僅次於日出康城2B期[領峯](https://zh.wikipedia.org/wiki/領峯 "wikilink"))。
+**MALIBU**是一個[香港](../Page/香港.md "wikilink")[新界](../Page/新界.md "wikilink")[將軍澳](../Page/將軍澳.md "wikilink")東南部的臨海豪華私人屋苑，是港鐵大型臨海住宅區[日出康城](../Page/日出康城.md "wikilink")第5期，亦為[會德豐地產](../Page/會德豐地產.md "wikilink")O' East系列首個臨海住宅項目，由[會德豐地產](../Page/會德豐地產.md "wikilink")及[港鐵公司共同發展](https://zh.wikipedia.org/wiki/港鐵公司 "wikilink")，建築師為[呂元祥建築師事務所](../Page/呂元祥建築師事務所.md "wikilink")，承建商為[協興建築](../Page/協興建築.md "wikilink")，將於2020年5月落成及入伙。MALIBU以The Touch of Urban Nature為主題，命名源自[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加州海濱滑浪城市](https://zh.wikipedia.org/wiki/加州 "wikilink")[馬利布](https://zh.wikipedia.org/wiki/馬利布 "wikilink")，配合日出康城這個全新海濱住宅區。MALIBU層樓最高達71層（1A、1B座），落成後將成為新界區第二高的住宅大樓（僅次於日出康城2B期[領峯](https://zh.wikipedia.org/wiki/領峯 "wikilink")）。
 
 MALIBU共提供1,600伙，面積介乎356至1,344平方呎。MALIBU首批單位折實平均呎價14,347元，較2017年10月同區晉海II首批均價14,598元略低約2%。其中有70-72樓頂層連空中平台特色戶以招標推出，實用呎價達26,700元，創[日出康城](../Page/日出康城.md "wikilink")新高。\[1\]項目於2018年3月1日開售，示範單位設於[尖沙咀](../Page/尖沙咀.md "wikilink")[港威大廈](../Page/港威大廈.md "wikilink")一座十樓。
 
@@ -35,7 +35,7 @@ LOHAS Park Phase 5 20090801.jpg|日出康城第5期基座（2009年8月） Malib
 
 O'East是會德豐地產在[日出康城](../Page/日出康城.md "wikilink")的臨海豪華私人物業組合，位於港鐵康城站及48萬平方呎的大型商場THE LOHAS上蓋，享有優越臨海地段，能飽覽臨海景致，區內的綠化休憩園地超過100萬呎。
 
-  - 日出康城V期：[MALIBU](../Page/MALIBU.md "wikilink")
+  - 日出康城V期：**MALIBU**
   - 日出康城VIIA期：[MONTARA](../Page/MONTARA.md "wikilink")
   - 日出康城VIIB期：GRAND MONTARA
   - 日出康城IXA期： MARINI
@@ -65,7 +65,7 @@ O'East是會德豐地產在[日出康城](../Page/日出康城.md "wikilink")的
 
   - [MALIBU](http://www.malibu.com.hk)
 
-[Category:小赤沙](https://zh.wikipedia.org/wiki/Category:小赤沙 "wikilink") [Category:將軍澳](https://zh.wikipedia.org/wiki/Category:將軍澳 "wikilink") [Category:西貢區](https://zh.wikipedia.org/wiki/Category:西貢區 "wikilink") [Category:西貢區私人屋苑](https://zh.wikipedia.org/wiki/Category:西貢區私人屋苑 "wikilink") [Category:會德豐地產(香港)物業](https://zh.wikipedia.org/wiki/Category:會德豐地產\(香港\)物業 "wikilink") [Category:港鐵公司物業](https://zh.wikipedia.org/wiki/Category:港鐵公司物業 "wikilink") [Category:香港私人屋苑](https://zh.wikipedia.org/wiki/Category:香港私人屋苑 "wikilink") [Category:日出康城](https://zh.wikipedia.org/wiki/Category:日出康城 "wikilink") [Category:200米至249米高的摩天大樓](https://zh.wikipedia.org/wiki/Category:200米至249米高的摩天大樓 "wikilink")
+[Category:小赤沙](https://zh.wikipedia.org/wiki/Category:小赤沙 "wikilink") [Category:將軍澳](https://zh.wikipedia.org/wiki/Category:將軍澳 "wikilink") [Category:西貢區私人屋苑](https://zh.wikipedia.org/wiki/Category:西貢區私人屋苑 "wikilink") [Category:會德豐地產(香港)物業](https://zh.wikipedia.org/wiki/Category:會德豐地產\(香港\)物業 "wikilink") [Category:港鐵公司物業](https://zh.wikipedia.org/wiki/Category:港鐵公司物業 "wikilink") [Category:日出康城](https://zh.wikipedia.org/wiki/Category:日出康城 "wikilink") [Category:200米至249米高的摩天大樓](https://zh.wikipedia.org/wiki/Category:200米至249米高的摩天大樓 "wikilink")
 
 1.
 2.

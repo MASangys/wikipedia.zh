@@ -20,7 +20,7 @@ HAPPY GO擁有超過16,000家特約商，也可以在[中國大陸](https://zh.w
   - [全家便利商店](../Page/全家便利商店.md "wikilink")
   - [7-ELEVEN](https://zh.wikipedia.org/wiki/7-ELEVEN "wikilink")
   - [台灣大車隊](../Page/台灣大車隊.md "wikilink")
-  - [Foodpanda](https://zh.wikipedia.org/wiki/Foodpanda "wikilink")[空腹熊貓](https://zh.wikipedia.org/wiki/空腹熊貓 "wikilink")
+  - [Foodpanda](../Page/Foodpanda.md "wikilink")[空腹熊貓](https://zh.wikipedia.org/wiki/空腹熊貓 "wikilink")
   - [威秀影城](../Page/威秀影城.md "wikilink")
   - [金石堂書店](../Page/金石堂書店.md "wikilink")
   - [花旗銀行](https://zh.wikipedia.org/wiki/花旗銀行 "wikilink")

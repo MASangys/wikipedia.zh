@@ -1,6 +1,6 @@
 **OK K.O.\!英雄讚**（全名：OK K.O.\! Let's Be Heroes﹚\[1\]是[Cartoon Network旗下](../Page/卡通頻道.md "wikilink")，由Ian Jones-Quartey創作的美國超級英雄喜劇動畫。該系列於2016年2月4日在Cartoon Network的YouTube頻道上首播\[2\]\[3\]。
 
-2017年3月9日Cartoon Network正式宣佈推出其動畫系列，片头曲故事板由Studio Trigger的聯合創始人日本藝術家[Hiroyuki Imaishi绘制](https://zh.wikipedia.org/wiki/Hiroyuki_Imaishi "wikilink")。
+2017年3月9日Cartoon Network正式宣佈推出其動畫系列，片头曲故事板由Studio Trigger的聯合創始人日本藝術家[今石洋之](../Page/今石洋之.md "wikilink")绘制。
 
 ## 故事簡介
 
@@ -19,20 +19,20 @@
     喜歡收集戰力卡(Pow Cards)。
     和Turbo K.O.和解後能使用其一部份能力。
 
-**DJ Enid**(DJ·帥妮)
+**DJ Enid**(帥妮唱片骑师)
 
   -
     配音： Mena Suvari , Ashly Burch
     英雄等級：3(第三季第一集升級為5級)
-    全名Enid "Fireball-E.Nid" Reverie-Nid。紫色頭髮的人類女生，於英雄供應店嘎樂福擔任收銀員。平時使用忍術戰鬥，聲稱自己父母是偉大的忍者。其實父母是狼人和吸血鬼，而本身實際則是女巫。
+    全名Enid "Fireball-E." Reverie-Nid。紫色頭髮的人類女生，於英雄供應店嘎樂福擔任收銀員。平時使用忍術戰鬥，聲稱自己父母是偉大的忍者。其實父母是狼人和吸血鬼，而本身實際則是女巫。
     "Point to the Plaza"中被邀請加入威猛局。
 
-**Radicles X.**(阿肌·X.)
+**Radicles X**(阿肌·X)
 
   -
     配音： Ian Jones-Quartey, Sterling Jarvis ﹙"Rad Likes Robots"中主唱﹚
     英雄等級： 2(第三季第一集升級為4級)
-    全名Radicles "Rad" X.。於英雄供應店嘎樂福工作，專門負上貨的藍色外星人，能力是令物件懸浮。
+    全名Radicles "Rad" X。於英雄供應店嘎樂福工作，專門負上貨的藍色外星人，能力是令物件懸浮。
 
 **Mr. Gar**(主要:嘎先生)(其他翻譯:格先生)
 

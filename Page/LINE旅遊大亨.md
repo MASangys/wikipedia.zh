@@ -47,7 +47,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/台灣" title="wikilink">台灣</a></p></td>
-<td><p>LINE 旅遊大亨</p></td>
+<td><p>LINE 旅遊大亨 LINE Everybody's Marble</p></td>
 <td><p><a href="../Page/LINE.md" title="wikilink">LINE</a></p></td>
 <td><p>2014年10月22日[9]</p></td>
 <td><p>營運中</p></td>
@@ -121,7 +121,7 @@
 
 ## 評價
 
-LINE旅遊大亨的評價在[Google play商店達到](../Page/Google_Play.md "wikilink")4星以上\[20\]。不過有網友指出：遊戲中台灣地圖的嘉義地標「北迴歸線塔」被誤植為花蓮瑞穗的同類型建築\[21\]，還有得到八神庵覺醒版送八尺瓊勾玉道具的活動臨時被官方下架，導致[臉書網友紛紛議論](../Page/Facebook.md "wikilink")。
+LINE旅遊大亨的評價在[Google play商店達到](../Page/Google_Play.md "wikilink")4星以上\[20\]。不過有網友指出：遊戲中台灣地圖的嘉義地標「北迴歸線塔」被誤植為花蓮瑞穗的同類型建築\[21\]，還有得到八神庵覺醒版送八尺瓊勾玉道具的活動臨時被官方下架，導致[臉書網友議論紛紛](../Page/Facebook.md "wikilink")。
 
 ## 爭議
 

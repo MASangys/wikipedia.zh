@@ -6,7 +6,7 @@
 
 ## 症狀
 
-年輕男性最經常受到這種病的影響，女性也有類似的症狀，但會伴有[白帶和](https://zh.wikipedia.org/wiki/白帶 "wikilink")[陰道分泌物分泌過多的抱怨](https://zh.wikipedia.org/wiki/陰道分泌物 "wikilink")\[8\]，其也被認為是一種“重要的體液”。
+年輕男性最經常受到這種病的影響，女性也有類似的症狀，但會伴有[白帶和](../Page/白帶_\(生理\).md "wikilink")[陰道分泌物分泌過多的抱怨](https://zh.wikipedia.org/wiki/陰道分泌物 "wikilink")\[8\]，其也被認為是一種“重要的體液”。
 
 [早洩及](https://zh.wikipedia.org/wiki/早洩 "wikilink")[陽痿都是本病常見的症狀](../Page/勃起功能障碍.md "wikilink")。患者亦常出現其他軀體症狀，比如乏力、易疲勞、[心悸](../Page/心悸.md "wikilink")、[失眠](../Page/失眠.md "wikilink")、情緒低落、內疚和[焦慮](../Page/焦慮.md "wikilink")等，男性有時會主訴他們的[陰莖縮短了](https://zh.wikipedia.org/wiki/陰莖 "wikilink")，但沒有客觀的證明。這些症狀通常與[焦慮](../Page/焦慮.md "wikilink")和[煩躁的](https://zh.wikipedia.org/wiki/煩躁 "wikilink")[情緒相關](https://zh.wikipedia.org/wiki/情緒 "wikilink")\[9\]
 

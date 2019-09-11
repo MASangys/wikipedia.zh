@@ -1,10 +1,10 @@
 《**偶像活動Friends！**》（）是[BANDAI於](../Page/萬代.md "wikilink")2018年4月發售的「」系統[街機卡片遊戲](https://zh.wikipedia.org/wiki/街機 "wikilink")，《[偶像活動](../Page/Aikatsu！偶像活動！.md "wikilink")》系列的第3作。
 
-電視動畫第1期於2018年4月5日在[東京電視網](../Page/東京電視網.md "wikilink")開始播放。第2期於2019年4月4日起在東京電視網播放。
+電視動畫第1期於2018年4月5日在[東京電視網](../Page/東京電視網.md "wikilink")開始播放。第2期於2019年4月4日起在東京電視網播放。[台灣從](https://zh.wikipedia.org/wiki/台灣 "wikilink")2019年9月1日開始在[MOMO親子台](../Page/MOMO親子台.md "wikilink")播出第一季。
 
 ## 遊戲概要
 
-從2012年開始推出第1作《偶像活動！》系列，繼2016年推出的第2作《偶像活動Stars！》後推出。本作與前作《偶像活動Stars！》同樣使用**DATA CARDDASS T**型機台進行遊戲。
+從2012年開始推出第1作《偶像活動》系列，繼2016年推出的第2作《[偶像活動Stars！](https://zh.wikipedia.org/wiki/偶像活動Stars！ "wikilink")》後推出。本作與前作《偶像活動Stars！》同樣使用**DATA CARDDASS T**型機台進行遊戲。
 
 《偶像活動Friends！》的主題是「**與朋友一起進行偶像-{}-活動！**」，組成雙人組合的組合以頂級偶像稱號「**鑽石友誼**」為目標\[1\]。
 
@@ -102,7 +102,7 @@
 
   - 第1期（第1話 - 第50話）
 
-以**鑽石友誼**為目標，一起偶像-{}-活動吧！ 為了進行偶像-{}-活動，展現偶像們之間努力與友情以及成長的故事，**『偶像學園Friends！』** 就讀於**星睦學園**普通科的**友希愛音**，是一位喜歡交朋友的女孩。 與學校裡頂級偶像**湊美緒**成為朋友，一起出現在舞臺上！？ 等待她們的是**蝶乃舞花**、**日向繪麻**等與富有個性的偶像們相遇，還接到藝能界的工作，每天過著忙碌的校園生活！ 2 人組成**Friends**組合，目標是頂級偶像獲得的閃耀光芒的稱號**鑽石友誼**！**神城凱倫**、**明日香未來**，她們兩位穿上的服裝所發出的光芒簡直就是鑽石級！ 每張收集到的卡片都是有它的故事！快使用「偶像-{}-活動卡片」來裝扮吧！ 粉絲是朋友，卡片也是朋友！朋友多多，夢想滿天！ **『偶像學園Friends！』**開始了！
+以**鑽石友誼**為目標，一起偶像-{}-活動吧！ 為了進行偶像-{}-活動，展現偶像們之間努力與友情以及成長的故事，**『偶像活動Friends！』** 就讀於**星睦學園**普通科的**友希愛音**，是一位喜歡交朋友的女孩。 與學校裡頂級偶像**湊美緒**成為朋友，一起出現在舞臺上！？ 等待她們的是**蝶乃舞花**、**日向繪麻**等與富有個性的偶像們相遇，還接到藝能界的工作，每天過著忙碌的校園生活！ 2 人組成**Friends**組合，目標是頂級偶像獲得的閃耀光芒的稱號**鑽石友誼**！**神城凱倫**、**明日香未來**，她們兩位穿上的服裝所發出的光芒簡直就是鑽石級！ 每張收集到的卡片都是有它的故事！快使用「偶像-{}-活動卡片」來裝扮吧！ 粉絲是朋友，卡片也是朋友！朋友多多，夢想滿天！ **『偶像活動Friends！』**開始了！
 
   - 第2期（第51話 - ）
 
@@ -148,13 +148,15 @@
 
 ## 電視動畫
 
+2018年4月5日在[東京電視網](../Page/東京電視網.md "wikilink")開始播放。
+
 ### 製作人員
 
-  - 企劃、原作：BN Pictures
-  - 原案：萬代
+  - 企劃、原作：
+  - 原案：[萬代](../Page/萬代.md "wikilink")
   - 導演：五十嵐達也
   - 總監督：[木村隆一](../Page/木村隆一.md "wikilink")
-  - 系列構成：柿原優子
+  - 系列構成：[柿原優子](../Page/柿原優子.md "wikilink")
   - 角色設計：渡部里美
   - 設計協力：森田岳士、石川佳代子、宮谷里沙
   - 美術監督：田尻健一
@@ -164,10 +166,10 @@
   - 編輯：坂本久美子
   - 音響監督：
   - 音樂：DIGZ MOTION SOUNDS
-  - 音樂製作人：鈴木雄貴、臼倉竜太郎
-  - 音樂製作：[日昇音樂出版](../Page/日昇動畫.md "wikilink")、[Lantis](../Page/Lantis.md "wikilink")
-  - 製作人：細谷伸之→福田浩平、嵯峨隼人、伊藤貴憲
-  - 製作：東京電視台、電通、BN Pictures
+  - 音樂製作人：鈴木雄貴、臼倉龍太郎
+  - 音樂製作：日昇音樂（原[日昇音樂出版](../Page/日昇動畫.md "wikilink")）、[Lantis](../Page/Lantis.md "wikilink")
+  - 製作人：細谷伸之（第1話 - 第54話）→福田浩平（第55話以後）、嵯峨隼人（第1話 - 第63話）→荒木めぐみ（第64話以後）、伊藤貴憲
+  - 製作：[東京電視台](../Page/東京電視台.md "wikilink")、[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")、BN Pictures
 
 ### 主題曲
 
@@ -201,7 +203,7 @@
 
 :; 「プライド」（第26話 - 第50話）
 
-:: 作詞：松原さらり（onetrap），作曲：片山將太、藤末樹，編曲：片山將太，主唱：カレン（神城凱倫）、ミライ（明日香未來） from BEST FRIENDS！（第41、49話插入曲）
+:: 作詞：松原さらり（onetrap），作曲：片山將太、藤末樹，編曲：片山將太，主唱：カレン（神城凱倫）、ミライ（明日香未來） from BEST FRIENDS！（第41、49、72話插入曲）
 
 :; 「Be Star」（第51話 - ）
 
@@ -210,9 +212,7 @@
       -
         作詞：松原さらり（onetrap），作曲、編曲：Maozon、YUKI FUNAKOSHI（Digz, Inc. Group），主唱：[ひびき](../Page/日笠陽子.md "wikilink")（天翔響） from BEST FRIENDS！（第51、56、60話插入曲）
 
-<!-- end list -->
-
-  - 插入曲
+### 插入曲
 
 :; 「アイカツフレンズ\!」（第1、5、11、21、31、50、53、58話）
 
@@ -280,9 +280,9 @@
 
 :: 主唱：あいね（友希愛音）、みお（湊美緒） from BEST FRIENDS！（第43、47話）
 
-:; 「Have a Dream」（第46、62話）
+:; 「Have a Dream」（第46、62、71話）
 
-:: 作詞：松原さらり（onetrap），作曲：藤末樹，編曲：片山將太，主唱：さくや（白百合咲夜）、かぐや（白百合輝夜） from BEST FRIENDS！（第46、62話）
+:: 作詞：松原さらり（onetrap），作曲：藤末樹，編曲：片山將太，主唱：さくや（白百合咲夜）、かぐや（白百合輝夜） from BEST FRIENDS！（第46、62、71話）
 
 :; 「セカイは廻る」（第52、55話）
 
@@ -339,11 +339,13 @@
 <th><p>演出</p></th>
 <th><p>作畫監督</p></th>
 <th><p>日本放送日</p></th>
+<th><p>台灣放送日</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>第1期</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -362,6 +364,8 @@
 <td><p>宮谷里沙</p></td>
 <td><p><strong>2018年</strong><br />
 4月5日</p></td>
+<td><p><strong>2019年</strong><br />
+9月1日</p></td>
 </tr>
 <tr class="odd">
 <td><p>第2話</p></td>
@@ -373,6 +377,7 @@
 <td><p>橋本能理子</p></td>
 <td></td>
 <td><p>4月12日</p></td>
+<td><p>9月8日</p></td>
 </tr>
 <tr class="even">
 <td><p>第3話</p></td>
@@ -385,6 +390,7 @@
 <td><p>橋口隼人<br />
 吉田和香子</p></td>
 <td><p>4月19日</p></td>
+<td><p>9月15日</p></td>
 </tr>
 <tr class="odd">
 <td><p>第4話</p></td>
@@ -397,6 +403,7 @@
 小川玖理周<br />
 大谷里惠</p></td>
 <td><p>4月26日</p></td>
+<td><p>9月22日</p></td>
 </tr>
 <tr class="even">
 <td><p>第5話</p></td>
@@ -408,6 +415,7 @@
 <td><p>大川貴大<br />
 中島里惠</p></td>
 <td><p>5月3日</p></td>
+<td><p>9月29日</p></td>
 </tr>
 <tr class="odd">
 <td><p>第6話</p></td>
@@ -418,6 +426,7 @@
 <td><p>山地光人</p></td>
 <td><p>高橋晃</p></td>
 <td><p>5月10日</p></td>
+<td><p>10月6日</p></td>
 </tr>
 <tr class="even">
 <td><p>第7話</p></td>
@@ -428,6 +437,7 @@
 <td><p>渡邊舞<br />
 西島加奈</p></td>
 <td><p>5月17日</p></td>
+<td><p>10月13日</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -441,6 +451,7 @@
 <td><p>竹森由加<br />
 橋口隼人</p></td>
 <td><p>5月24日</p></td>
+<td><p>10月20日</p></td>
 </tr>
 <tr class="even">
 <td><p>第9話</p></td>
@@ -451,6 +462,7 @@
 <td><p>藤井康晶</p></td>
 <td><p>三橋櫻子</p></td>
 <td><p>5月31日</p></td>
+<td><p>10月27日</p></td>
 </tr>
 <tr class="odd">
 <td><p>第10話</p></td>
@@ -460,6 +472,7 @@
 <td><p>イムガヒ</p></td>
 <td><p>高橋晃</p></td>
 <td><p>6月7日</p></td>
+<td><p>11月3日</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -472,6 +485,7 @@
 <td><p>宮谷里沙<br />
 中島里惠</p></td>
 <td><p>6月14日</p></td>
+<td><p>11月10日</p></td>
 </tr>
 <tr class="odd">
 <td><p>第12話</p></td>
@@ -485,6 +499,7 @@
 野崎麗子<br />
 白石悟</p></td>
 <td><p>6月21日</p></td>
+<td><p>11月17日</p></td>
 </tr>
 <tr class="even">
 <td><p>第13話</p></td>
@@ -495,6 +510,7 @@
 <td><p>小川玖理周<br />
 石田智子</p></td>
 <td><p>6月28日</p></td>
+<td><p>11月24日</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -506,6 +522,7 @@
 <td><p>倉富康平</p></td>
 <td><p>高橋晃</p></td>
 <td><p>7月5日</p></td>
+<td><p>12月1日</p></td>
 </tr>
 <tr class="even">
 <td><p>第15話</p></td>
@@ -517,6 +534,7 @@
 <td><p>大川貴大<br />
 秋津達哉</p></td>
 <td><p>7月19日</p></td>
+<td><p>12月8日</p></td>
 </tr>
 <tr class="odd">
 <td><p>第16話</p></td>
@@ -528,6 +546,7 @@
 <td><p>竹森由加<br />
 西島加奈</p></td>
 <td><p>7月26日</p></td>
+<td><p>12月15日</p></td>
 </tr>
 <tr class="even">
 <td><p>第17話</p></td>
@@ -538,6 +557,7 @@
 <td><p>三橋櫻子<br />
 小川玖理周</p></td>
 <td><p>8月2日</p></td>
+<td><p>12月22日</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -549,6 +569,7 @@
 <td><p>山地光人</p></td>
 <td><p>高橋晃</p></td>
 <td><p>8月9日</p></td>
+<td><p>12月29日</p></td>
 </tr>
 <tr class="even">
 <td><p>第19話</p></td>
@@ -559,6 +580,8 @@
 <td><p>藤井康晶</p></td>
 <td><p>橋口隼人</p></td>
 <td><p>8月16日</p></td>
+<td><p><strong>2020年</strong><br />
+1月5日</p></td>
 </tr>
 <tr class="odd">
 <td><p>第20話</p></td>
@@ -571,6 +594,7 @@
 渡邊健一<br />
 宮谷里沙</p></td>
 <td><p>8月23日</p></td>
+<td><p>1月12日</p></td>
 </tr>
 <tr class="even">
 <td><p>第21話</p></td>
@@ -581,6 +605,7 @@
 <td><p>山村俊了<br />
 中島里惠</p></td>
 <td><p>8月30日</p></td>
+<td><p>1月19日</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -592,6 +617,7 @@
 <td><p>倉富康平</p></td>
 <td><p>高橋晃</p></td>
 <td><p>9月6日</p></td>
+<td><p>1月26日</p></td>
 </tr>
 <tr class="even">
 <td><p>第23話</p></td>
@@ -600,6 +626,7 @@
 <td><p>京極尚彦</p></td>
 <td><p>秋津達哉</p></td>
 <td><p>9月13日</p></td>
+<td><p>2月2日</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -613,6 +640,7 @@
 <td><p>竹森由加<br />
 大川貴大</p></td>
 <td><p>9月20日</p></td>
+<td><p>2月9日</p></td>
 </tr>
 <tr class="even">
 <td><p>第25話</p></td>
@@ -623,6 +651,7 @@
 <td><p>德本善信</p></td>
 <td><p>三橋櫻子</p></td>
 <td><p>9月27日</p></td>
+<td><p>2月16日</p></td>
 </tr>
 <tr class="odd">
 <td><p>第26話</p></td>
@@ -632,6 +661,7 @@
 <td><p>山地光人</p></td>
 <td><p>高橋晃</p></td>
 <td><p>10月4日</p></td>
+<td><p>2月23日</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -643,6 +673,7 @@
 石川惠理<br />
 渡邊健一</p></td>
 <td><p>10月11日</p></td>
+<td><p>3月1日</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -656,6 +687,7 @@
 <td><p>中島里惠<br />
 小川玖理周</p></td>
 <td><p>10月18日</p></td>
+<td><p>3月8日</p></td>
 </tr>
 <tr class="even">
 <td><p>第29話</p></td>
@@ -668,6 +700,7 @@
 山村俊了<br />
 小川玖理周</p></td>
 <td><p>10月25日</p></td>
+<td><p>3月15日</p></td>
 </tr>
 <tr class="odd">
 <td><p>第30話</p></td>
@@ -678,6 +711,7 @@
 <td><p>鈴木萌</p></td>
 <td><p>高橋晃</p></td>
 <td><p>11月1日</p></td>
+<td><p>3月22日</p></td>
 </tr>
 <tr class="even">
 <td><p>第31話</p></td>
@@ -689,6 +723,7 @@
 <td><p>岩崎成希<br />
 秋津達哉</p></td>
 <td><p>11月8日</p></td>
+<td><p>3月29日</p></td>
 </tr>
 <tr class="odd">
 <td><p>第32話</p></td>
@@ -700,6 +735,7 @@
 <td><p>竹森由加<br />
 宮谷里沙</p></td>
 <td><p>11月15日</p></td>
+<td><p>4月5日</p></td>
 </tr>
 <tr class="even">
 <td><p>第33話</p></td>
@@ -709,6 +745,7 @@
 <td><p>山本惠</p></td>
 <td><p>三橋櫻子</p></td>
 <td><p>11月22日</p></td>
+<td><p>4月12日</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -720,6 +757,7 @@
 <td><p>倉富康平</p></td>
 <td><p>高橋晃</p></td>
 <td><p>11月29日</p></td>
+<td><p>4月19日</p></td>
 </tr>
 <tr class="even">
 <td><p>第35話</p></td>
@@ -730,6 +768,7 @@
 <td><p>鈴木萌</p></td>
 <td></td>
 <td><p>12月6日</p></td>
+<td><p>4月26日</p></td>
 </tr>
 <tr class="odd">
 <td><p>第36話</p></td>
@@ -741,6 +780,7 @@
 <td><p>橋口隼人<br />
 小川玖理周</p></td>
 <td><p>12月13日</p></td>
+<td><p>5月3日</p></td>
 </tr>
 <tr class="even">
 <td><p>第37話</p></td>
@@ -753,6 +793,7 @@
 大庭小枝<br />
 毛應星</p></td>
 <td><p>12月20日</p></td>
+<td><p>5月10日</p></td>
 </tr>
 <tr class="odd">
 <td><p>第38話</p></td>
@@ -764,6 +805,7 @@
 <td><p>山地光人</p></td>
 <td><p>高橋晃</p></td>
 <td><p>12月27日</p></td>
+<td><p>5月17日</p></td>
 </tr>
 <tr class="even">
 <td><p>第39話</p></td>
@@ -775,6 +817,7 @@
 中島里惠</p></td>
 <td><p><strong>2019年</strong><br />
 1月10日</p></td>
+<td><p>5月24日</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -787,6 +830,7 @@
 <td><p>岩崎成希<br />
 秋津達哉</p></td>
 <td><p>1月17日</p></td>
+<td><p>5月31日</p></td>
 </tr>
 <tr class="even">
 <td><p>第41話</p></td>
@@ -797,6 +841,7 @@
 <td><p>倉富康平</p></td>
 <td><p>高橋晃</p></td>
 <td><p>1月24日</p></td>
+<td><p>6月7日</p></td>
 </tr>
 <tr class="odd">
 <td><p>第42話</p></td>
@@ -807,6 +852,7 @@
 <td><p>德本善信</p></td>
 <td><p>三橋櫻子</p></td>
 <td><p>1月31日</p></td>
+<td><p>6月14日</p></td>
 </tr>
 <tr class="even">
 <td><p>第43話</p></td>
@@ -816,6 +862,7 @@
 <td><p>大島克也</p></td>
 <td><p>しんぼたくろう</p></td>
 <td><p>2月7日</p></td>
+<td><p>6月21日</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -829,6 +876,7 @@
 石川惠理<br />
 橋口隼人</p></td>
 <td><p>2月14日</p></td>
+<td><p>6月28日</p></td>
 </tr>
 <tr class="even">
 <td><p>第45話</p></td>
@@ -839,6 +887,7 @@
 <td><p>進藤陽平</p></td>
 <td><p>高橋晃</p></td>
 <td><p>2月21日</p></td>
+<td><p>7月5日</p></td>
 </tr>
 <tr class="odd">
 <td><p>第46話</p></td>
@@ -851,6 +900,7 @@
 石川惠理<br />
 渡邊健一</p></td>
 <td><p>2月28日</p></td>
+<td><p>7月12日</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -863,6 +913,7 @@
 <td><p>竹森由加<br />
 小川玖理周</p></td>
 <td><p>3月7日</p></td>
+<td><p>7月19日</p></td>
 </tr>
 <tr class="odd">
 <td><p>第48話</p></td>
@@ -873,6 +924,7 @@
 <td><p>藤澤志織<br />
 中島里惠</p></td>
 <td><p>3月14日</p></td>
+<td><p>7月26日</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -884,6 +936,7 @@
 <td><p>倉富康平</p></td>
 <td><p>高橋晃</p></td>
 <td><p>3月21日</p></td>
+<td><p>8月2日</p></td>
 </tr>
 <tr class="odd">
 <td><p>第50話</p></td>
@@ -897,9 +950,11 @@
 岩崎成希<br />
 三橋櫻子</p></td>
 <td><p>3月28日</p></td>
+<td><p>8月9日</p></td>
 </tr>
 <tr class="even">
 <td><p>第2期</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -917,6 +972,7 @@
 <td><p>秋津達哉</p></td>
 <td><p>4月4日</p></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>第52話</p></td>
@@ -927,6 +983,7 @@
 <td><p>蓮井隆弘</p></td>
 <td><p>しんぼたくろう</p></td>
 <td><p>4月11日</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>第53話</p></td>
@@ -936,6 +993,7 @@
 <td><p>山地光人</p></td>
 <td><p>高橋晃</p></td>
 <td><p>4月18日</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -948,6 +1006,7 @@
 <td><p>竹森由加<br />
 橋口隼人</p></td>
 <td><p>4月25日</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>第55話</p></td>
@@ -958,6 +1017,7 @@
 <td><p>志賀祐香<br />
 三橋妙子</p></td>
 <td><p>5月2日</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -972,6 +1032,7 @@
 石川惠理<br />
 前原薫</p></td>
 <td><p>5月9日</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>第57話</p></td>
@@ -982,6 +1043,7 @@
 <td><p>大川貴大</p></td>
 <td><p>高橋晃</p></td>
 <td><p>5月16日</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>第58話</p></td>
@@ -991,6 +1053,7 @@
 <td><p>大島克也</p></td>
 <td><p>中島里惠</p></td>
 <td><p>5月23日</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1002,6 +1065,7 @@
 <td><p>倉富康平</p></td>
 <td><p>しんぼたくろう</p></td>
 <td><p>5月30日</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>第60話</p></td>
@@ -1013,6 +1077,7 @@
 <td><p>竹森由加<br />
 岩崎成希</p></td>
 <td><p>6月6日</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>第61話</p></td>
@@ -1023,6 +1088,7 @@
 <td><p>大川貴大</p></td>
 <td><p>高橋晃</p></td>
 <td><p>6月13日</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>第62話</p></td>
@@ -1035,6 +1101,7 @@
 渡邊健一</p></td>
 <td><p>6月20日</p></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>第63話</p></td>
@@ -1046,6 +1113,7 @@
 <td><p>小川玖理周<br />
 志賀祐香</p></td>
 <td><p>6月27日</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>第64話</p></td>
@@ -1057,6 +1125,7 @@
 <td><p>細田沙織<br />
 三橋妙子</p></td>
 <td><p>7月4日</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>第65話</p></td>
@@ -1067,6 +1136,7 @@
 <td><p>大川貴大</p></td>
 <td><p>高橋晃</p></td>
 <td><p>7月11日</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>第66話</p></td>
@@ -1077,6 +1147,7 @@
 <td><p>竹森由加<br />
 西島加奈</p></td>
 <td><p>7月18日</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1089,6 +1160,7 @@
 <td><p>中村沙由貴<br />
 中島里惠</p></td>
 <td><p>7月25日</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>第68話</p></td>
@@ -1099,6 +1171,7 @@
 <td><p>倉富康平</p></td>
 <td><p>志賀祐香</p></td>
 <td><p>8月1日</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>第69話</p></td>
@@ -1109,6 +1182,7 @@
 <td><p>進藤陽平</p></td>
 <td><p>しんぼたくろう</p></td>
 <td><p>8月8日</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>第70話</p></td>
@@ -1120,6 +1194,7 @@
 <td><p>橋口隼人<br />
 志賀祐香</p></td>
 <td><p>8月15日</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>第71話</p></td>
@@ -1129,28 +1204,32 @@
 <td><p>山地光人</p></td>
 <td><p>三橋妙子<br />
 細田沙織</p></td>
-<td><p>8月22日 &lt;!--</p></td>
+<td><p>8月22日</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>第72話</p></td>
 <td></td>
 <td><p>LOVE ME TEAR</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>千葉美鈴</p></td>
+<td><p>藤井康晶</p></td>
+<td><p>倉富康平</p></td>
+<td><p>高橋晃</p></td>
 <td><p>8月29日</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>第73話</p></td>
 <td></td>
-<td><p>Jeweling Festival前夕</p></td>
+<td><p>Jeweling Festival前夜祭</p></td>
+<td><p>守護このみ</p></td>
+<td><p>兒玉兼嗣</p></td>
+<td><p>中込健人</p></td>
+<td><p>中村沙由貴<br />
+竹森由加</p></td>
+<td><p>9月5日</p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p>9月5日 --&gt;</p></td>
 </tr>
 </tbody>
 </table>
@@ -1206,7 +1285,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/TVQ九州放送.md" title="wikilink">TVQ九州放送</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/福岡縣" title="wikilink">福岡縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/福岡縣" title="wikilink">福岡縣</a>、<a href="https://zh.wikipedia.org/wiki/佐賀縣" title="wikilink">佐賀縣</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1214,7 +1293,7 @@
 <tr class="odd">
 <td><p>2018年4月9日 －</p></td>
 <td><p>星期一 17:00－17:29</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/BS_JAPAN" title="wikilink">BS JAPAN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BS東視" title="wikilink">BS東視</a></p></td>
 <td><p>日本全國</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/衛星電視" title="wikilink">衛星電視</a></p></td>
 </tr>
@@ -1238,7 +1317,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/WONDER!SCHOOL" title="wikilink">WONDER!SCHOOL</a></p></td>
+<td><p>WONDER！SCHOOL</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1261,18 +1340,27 @@
 <td><p><a href="../Page/富士電視網.md" title="wikilink">富士電視網</a></p></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>2018年8月27日 －</p></td>
 <td><p>星期一 17:30－18:00</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/和歌山電視台" title="wikilink">和歌山電視台</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/和歌山縣" title="wikilink">和歌山縣</a></p></td>
 <td><p>獨立UHF局</p></td>
 </tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<tr class="odd">
+<td><p>2019年9月1日 －</p></td>
+<td><p>星期日 18:30－19:00（第一季）</p></td>
+<td><p><a href="../Page/MOMO親子台.md" title="wikilink">MOMO親子台</a></p></td>
+<td><p>台灣</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/有線電視" title="wikilink">有線電視</a><br />
+<a href="https://zh.wikipedia.org/wiki/UTC+8" title="wikilink">UTC+8</a><br />
+國語配音，中文字幕</p></td>
 </tr>
 </tbody>
 </table>
@@ -1299,14 +1387,15 @@
 | 第2期  |              |             |                                        |
 | BOX5 | 2019年10月2日預定 | 第51話 - 第63話 | BIXA-9055                              |
 | BOX6 | 2020年1月8日預定  | 第64話 - 第76話 | BIXA-9056                              |
-| 10   | 2019年9月3日預定  | 第51話 - 第56話 |                                        |
+| 10   | 2019年9月3日    | 第51話 - 第56話 |                                        |
 | 11   | 2019年10月2日預定 | 第57話 - 第62話 | BIBA-3311                              |
-
-## 註解
+| 12   | 2019年12月3日預定 | 第63話 - 第68話 | BIBA-3312                              |
+| 13   | 2020年1月8日預定  | 第69話 - 第74話 | BIBA-3313                              |
+| 14   | 2020年2月4日預定  | 第75話 - 第76話 | BIBA-3314                              |
 
 ## 參考資料
 
-## 相關網站
+## 外部連結
 
   - [BANDAI《偶像活動Friends！》公式官網](https://www.aikatsu.com/friends/)
 
@@ -1318,6 +1407,7 @@
 
   - [電視動畫《偶像活動Friends！》東京電視台官網](https://www.tv-tokyo.co.jp/anime/aikatsufriends/)
 
+  -
   -
   -
   - [台灣《偶像-{}-學園Friends！》遊戲官網](http://www.aikatsu.com.tw)

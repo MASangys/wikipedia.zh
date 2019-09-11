@@ -18,13 +18,13 @@
 <thead>
 <tr class="header">
 <th><p>時間</p></th>
-<th><p>星期一<small>（05日）</small></p></th>
-<th><p>星期二<small>（06日）</small></p></th>
-<th><p>星期三<small>（07日）</small></p></th>
-<th><p>星期四<small>（08日）</small></p></th>
-<th><p>星期五<small>（02日）</small></p></th>
-<th><p>星期六<small>（03日）</small></p></th>
-<th><p>星期日<small>（04日）</small></p></th>
+<th><p>星期一<small>（02日）</small></p></th>
+<th><p>星期二<small>（03日）</small></p></th>
+<th><p>星期三<small>（04日）</small></p></th>
+<th><p>星期四<small>（05日）</small></p></th>
+<th><p>星期五<small>（06日）</small></p></th>
+<th><p>星期六<small>（07日）</small></p></th>
+<th><p>星期日<small>（08日）</small></p></th>
 </tr>
 </thead>
 <tbody>
@@ -51,7 +51,7 @@
 <tr class="odd">
 <td><p>20:00</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/娛樂風雲" title="wikilink">娛樂風雲</a></p></td>
-<td><p><a href="../Page/中醫「症」解.md" title="wikilink">中醫「症」解</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/餸情" title="wikilink">餸情</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/富士山朝聖之旅" title="wikilink">富士山朝聖之旅</a></p></td>
 <td></td>
 <td></td>
@@ -60,8 +60,8 @@
 </tr>
 <tr class="even">
 <td><p>20:30</p></td>
-<td><p><a href="../Page/男朋友_(電視劇).md" title="wikilink">男朋友</a></p></td>
-<td><p>周六好戲勢: <a href="../Page/車手_(電影).md" title="wikilink">車手</a></p></td>
+<td><p><a href="../Page/我的ID是江南美人.md" title="wikilink">我的ID是江南美人</a></p></td>
+<td><p>周六好戲勢：<a href="../Page/1987：黎明到來的那一天.md" title="wikilink">1987：逆權公民</a></p></td>
 <td><p><a href="../Page/恐怖醫學_(2010年).md" title="wikilink">恐怖醫學</a></p></td>
 <td></td>
 <td></td>
@@ -70,8 +70,8 @@
 </tr>
 <tr class="odd">
 <td><p>21:30</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/理想國_(電視劇)" title="wikilink">理想國</a></p></td>
-<td><p><a href="../Page/仇老爺爺.md" title="wikilink">仇老爺爺</a></p></td>
+<td><p><a href="../Page/Sky_Castle.md" title="wikilink">天空城堡</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -79,9 +79,9 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>22:00</p></td>
-<td></td>
-<td></td>
+<td><p>22:30</p></td>
+<td><p><a href="../Page/估你唔到.md" title="wikilink">估你唔到</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mirror_Go" title="wikilink">Mirror Go</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -89,18 +89,18 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>22:30</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/估你唔到" title="wikilink">估你唔到</a></p></td>
+<td><p>23:00</p></td>
+<td><p><a href="../Page/花姐ERROR遊.md" title="wikilink">花姐ERROR遊 2</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蠟筆小新" title="wikilink">蠟筆小新</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mirror_Go" title="wikilink">Mirror Go</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>23:00</p></td>
-<td><p><a href="../Page/對不起_標籤你.md" title="wikilink">對不起 標籤你 II</a></p></td>
+<td><p>23:15</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -115,15 +115,15 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/女學生·吹水班" title="wikilink">女學生·吹水班</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/又要威_又要戴頭盔" title="wikilink">又要威 又要戴頭盔</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/總有一瓣喺左近" title="wikilink">總有一瓣喺左近</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/今鋪搞電了" title="wikilink">今鋪搞電了</a></p></td>
-<td><p><a href="../Page/鬼燈的冷徹.md" title="wikilink">鬼燈的冷徹</a>2</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/首爾十人" title="wikilink">首爾十人</a></p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>00:00</p></td>
 <td><p><a href="../Page/一拳超人.md" title="wikilink">一拳超人</a><sup>R</sup></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/暗殺教室" title="wikilink">暗殺教室</a><sup>R</sup></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鮮浪潮。語2019" title="wikilink">鮮浪潮。語2019</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE_(動畫)" title="wikilink">海賊王</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/遊戲三人娘" title="wikilink">遊戲三人娘</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -135,6 +135,7 @@
   - <sup>R</sup>：重播節目
   - <sup>P</sup>：普通話原聲播映
   - <sup>^</sup>：非[高清製作節目](https://zh.wikipedia.org/wiki/高清製作 "wikilink")
+  - 8月22日至9月6日期間，逢星期一至五21:30-21:31：《貼地城堡》
 
 ### 實況娛樂
 
@@ -151,12 +152,12 @@
 <td><p><strong>實況娛樂</strong></p></td>
 <td><p><strong>逢星期一至五</strong></p></td>
 <td><p>22:30 - 23:00</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/估你唔到" title="wikilink">估你唔到</a></p></td>
+<td><p><a href="../Page/估你唔到.md" title="wikilink">估你唔到</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>23:00 - 23:30</p></td>
-<td><p><a href="../Page/對不起_標籤你.md" title="wikilink">對不起 標籤你 II</a></p></td>
+<td><p><a href="../Page/花姐ERROR遊.md" title="wikilink">花姐ERROR遊 2</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -183,8 +184,8 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>23:30 - 00:00</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/今鋪搞電了" title="wikilink">今鋪搞電了</a></p></td>
+<td><p>20:00 - 20:30</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/餸情" title="wikilink">餸情</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -211,29 +212,29 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>15:00 - 15:30</p></td>
+<td><p><a href="../Page/熟女在野.md" title="wikilink">熟女在野</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>20:00 - 20:30</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/富士山朝聖之旅" title="wikilink">富士山朝聖之旅</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>21:30 - 22:30</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>22:30 - 23:00</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Mirror_Go" title="wikilink">Mirror Go</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>23:00 - 23:30</p></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -274,7 +275,7 @@
 <tr class="odd">
 <td><p>逢星期六</p></td>
 <td><p>14:00 - 15:30</p></td>
-<td><p><a href="../Page/SUPER_TV.md" title="wikilink">Super TV</a> 第一季</p></td>
+<td><p><a href="../Page/Crime_Scene_犯罪現場_(第三季).md" title="wikilink">犯罪現場 3</a></p></td>
 <td><p>外購節目<br />
 每集播放兩次</p></td>
 <td></td>
@@ -399,13 +400,6 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>健康資訊節目</p></td>
-<td><p>逢星期六</p></td>
-<td><p>20:00 - 20:30</p></td>
-<td><p><a href="../Page/中醫「症」解.md" title="wikilink">中醫「症」解</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>生活資訊節目</p></td>
 <td><p>逢星期六</p></td>
 <td><p>22:30 - 23:30</p></td>
@@ -430,7 +424,7 @@
 <td><p><strong>首播外購劇集</strong></p></td>
 <td><p><strong>逢星期一至五</strong></p></td>
 <td><p>20:30 - 21:30</p></td>
-<td><p><a href="../Page/男朋友_(電視劇).md" title="wikilink">男朋友</a></p></td>
+<td><p><a href="../Page/我的ID是江南美人.md" title="wikilink">我的ID是江南美人</a></p></td>
 <td><p>韓國劇集<br />
 每集播放兩次</p></td>
 </tr>
@@ -442,74 +436,67 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p><strong>逢星期一至五</strong></p></td>
+<td><p>21:30 - 22:30</p></td>
+<td><p><a href="../Page/Sky_Castle.md" title="wikilink">天空城堡</a></p></td>
+<td><p>韓國劇集</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><strong>首播自製劇集</strong></p></td>
 <td><p><strong>逢星期一至五</strong></p></td>
 <td><p>20:00 - 20:30</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/娛樂風雲" title="wikilink">娛樂風雲</a></p></td>
 <td><p>每集播放三次</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>逢星期二至六</p></td>
 <td><p>04:00 - 04:30</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>逢星期二至五及下星期一</p></td>
 <td><p>10:30 - 11:00</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p><strong>逢星期一至五</strong></p></td>
-<td><p>21:30 - 22:00</p></td>
-<td><p><a href="../Page/仇老爺爺.md" title="wikilink">仇老爺爺</a></p></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="even">
-<td><p>22:00 - 22:30</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>非黃金時段劇集</p></td>
 <td><p>逢星期一至五</p></td>
 <td><p>13:30 - 14:45</p></td>
-<td><p><a href="../Page/推理的女王.md" title="wikilink">推理的女王</a></p></td>
+<td><p><a href="../Page/Cross_(電視劇).md" title="wikilink">Cross：復仇之刃</a></p></td>
 <td><p><strong>熱捧劇站</strong><br />
 重播韓國劇集<br />
 每集播放兩次</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>逢星期二至六</p></td>
 <td><p>04:30 - 05:45</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>逢星期二至五</p></td>
 <td><p>00:30 - 01:30</p></td>
-<td><p><a href="../Page/購物王路易.md" title="wikilink">購物王路易</a></p></td>
+<td><p><a href="../Page/任意依戀.md" title="wikilink">任意依戀</a></p></td>
 <td><p>重播韓國劇集</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>逢星期六</p></td>
 <td><p>01:00 - 02:00</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/刑事弓神" title="wikilink">刑事弓神</a></p></td>
 <td><p>重播日本劇集</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>逢星期日</p></td>
 <td><p>12:30 - 13:30</p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黑色筆記本" title="wikilink">黑色筆記本</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -539,11 +526,11 @@
 <tr class="odd">
 <td><p>16:30 - 17:00</p></td>
 <td><p>星期一至三：<a href="../Page/Battle_Spirits_Sword_Eyes.md" title="wikilink">Battle Spirits – 劍之眼</a><br />
-星期四至五： 2<br />
+星期四至五：<br />
 星期六：<a href="https://zh.wikipedia.org/wiki/超級飛俠" title="wikilink">超級飛俠</a> 3<br />
 星期日：<a href="../Page/魔物獵人物語.md" title="wikilink">魔物獵人物語 RIDE ON</a></p></td>
 <td><p>日本動畫<br />
-韓國動畫<br />
+日本動畫<br />
 韓國動畫<br />
 日本動畫</p></td>
 <td></td>
@@ -553,12 +540,12 @@
 <td><p>17:00 - 17:30</p></td>
 <td><p>星期一：<br />
 星期二至三：<br />
-星期四至五：<a href="../Page/龍族拼圖X.md" title="wikilink">龍族拼圖X</a><br />
+星期四至五：<br />
 星期六：<a href="../Page/飛天小女警_(2016年動畫).md" title="wikilink">飛天小女警 2</a><br />
 星期日：<a href="https://zh.wikipedia.org/wiki/PJ_Masks" title="wikilink">PJ Masks</a></p></td>
 <td><p>韓國動畫<br />
 韓國動畫<br />
-日本動畫<br />
+韓國動畫<br />
 美國動畫<br />
 英法合作動畫</p></td>
 <td></td>
@@ -598,8 +585,8 @@
 <tr class="odd">
 <td><p>逢星期日</p></td>
 <td><p>10:30 - 11:00</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/PAPA_DOG" title="wikilink">我的狗爸爸</a></p></td>
-<td><p>重播韓國動畫</p></td>
+<td><p><a href="../Page/史帝芬宇宙.md" title="wikilink">寶石戰士 Steven</a></p></td>
+<td><p>重播美國動畫</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -618,25 +605,34 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>非兒童類動畫</p></td>
-<td><p>&lt;!--逢星期二至六</p></td>
+<td><p>逢星期日</p></td>
 <td><p>00:00 - 00:30</p></td>
-<td><p>星期二至三：<a href="../Page/一拳超人.md" title="wikilink">一拳超人</a><br />
-星期四至六：<a href="https://zh.wikipedia.org/wiki/暗殺教室" title="wikilink">暗殺教室</a></p></td>
-<td><p>重播日本動畫</p></td>
+<td><p><a href="../Page/足球小將.md" title="wikilink">隊長小翼</a></p></td>
+<td><p>日本動畫</p></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td><p>--&gt;rowspan="2"|逢星期日</p></td>
+<td><p>非兒童類動畫</p></td>
+<td><p>逢星期一至六</p></td>
 <td><p>00:00 - 00:30</p></td>
+<td><p>星期一：<a href="https://zh.wikipedia.org/wiki/遊戲三人娘" title="wikilink">遊戲三人娘</a><br />
+星期二至三：<a href="../Page/一拳超人.md" title="wikilink">一拳超人</a><br />
+星期四至六：<a href="https://zh.wikipedia.org/wiki/暗殺教室" title="wikilink">暗殺教室</a></p></td>
+<td><p>日本動畫<br />
+重播日本動畫<br />
+重播日本動畫</p></td>
+</tr>
+<tr class="even">
+<td><p>逢星期日</p></td>
+<td><p>00:30 - 01:00</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE_(動畫)" title="wikilink">海賊王</a></p></td>
 <td><p>日本動畫</p></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>23:30 - 00:30</p></td>
-<td><p><a href="../Page/鬼燈的冷徹.md" title="wikilink">鬼燈的冷徹</a>2</p></td>
-<td><p>日本動畫<br />
-每次播放兩集</p></td>
+<tr class="odd">
+<td><p>23:00 - 23:30</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蠟筆小新" title="wikilink">蠟筆小新</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -686,16 +682,16 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>15:00 - 15:30</p></td>
+<td><p>15:30 - 16:00</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/活匠當下_2" title="wikilink">活匠當下 2</a></p></td>
 <td></td>
-<td><p>外購節目</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>&lt;!--逢星期六至日</p></td>
-<td><p>--&gt;15:30 - 16:00</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/活匠當下_2" title="wikilink">活匠當下 2</a></p></td>
+<td><p>23:30 - 00:00</p></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -718,7 +714,7 @@
 <td><p>逢星期五</p></td>
 <td><p>12:30 - 13:00</p></td>
 <td></td>
-<td><p>重播節目 &lt;!--|-</p></td>
+<td><p>重播節目</p></td>
 </tr>
 <tr class="odd">
 <td><p>本地及國際流行音樂</p></td>
@@ -732,12 +728,12 @@
 
 ### 體育
 
-|                                                               |                                                                 |                                     |        |    |
-| ------------------------------------------------------------- | --------------------------------------------------------------- | ----------------------------------- | ------ | -- |
-| 時段                                                            | 播放日                                                             | 時間                                  | 現時播放節目 | 備註 |
-| 體育節目                                                          | 不定時播放                                                           | [NBA](../Page/NBA.md "wikilink")季後賽 |        |    |
-| 不定期播放                                                         | [西班牙甲組足球聯賽](https://zh.wikipedia.org/wiki/西班牙甲組足球聯賽 "wikilink") | 賽季期內每月播放一場賽事                        |        |    |
-| [英格蘭超級聯賽](https://zh.wikipedia.org/wiki/英格蘭足球超級聯賽 "wikilink") |                                                                 |                                     |        |    |
+|                                                               |                                                                 |                                  |              |    |
+| ------------------------------------------------------------- | --------------------------------------------------------------- | -------------------------------- | ------------ | -- |
+| 時段                                                            | 播放日                                                             | 時間                               | 現時播放節目       | 備註 |
+| 體育節目                                                          | \<\!--colspan="2" align=center|不定時播放                            | [NBA](../Page/NBA.md "wikilink") | 賽季期內每週播放一場賽事 |    |
+| \--\>rowspan="2" colspan="2" align=center|不定期播放               | [西班牙甲組足球聯賽](https://zh.wikipedia.org/wiki/西班牙甲組足球聯賽 "wikilink") | 賽季期內每月播放一場賽事                     |              |    |
+| [英格蘭超級聯賽](https://zh.wikipedia.org/wiki/英格蘭足球超級聯賽 "wikilink") |                                                                 |                                  |              |    |
 
 ### 香港電台節目
 
@@ -754,7 +750,7 @@
 <td><p>香港電台節目</p></td>
 <td><p>逢星期一至五</p></td>
 <td><p>18:30 - 19:00</p></td>
-<td><p>星期一至四：<a href="https://zh.wikipedia.org/wiki/運輸背後" title="wikilink">運輸背後</a><br />
+<td><p>星期一至四：<a href="https://zh.wikipedia.org/wiki/大鑼大鼓好戲派" title="wikilink">大鑼大鼓好戲派</a><br />
 星期五：<a href="../Page/警訊.md" title="wikilink">警訊</a></p></td>
 <td><p>除《警訊》以外其他節目曾於<a href="../Page/港台電視31、31A.md" title="wikilink">港台電視31、31A</a>播出</p></td>
 </tr>
@@ -1125,15 +1121,6 @@ The Menu</p></td>
 </tr>
 <tr class="even">
 <td><p>2019年8月17日</p></td>
-<td><p>20:30-22:30</p></td>
-<td style="text-align: center;"><p><a href="../Page/神鎗手_(香港電影).md" title="wikilink">神鎗手</a><br />
-The Sniper</p></td>
-<td><p><a href="../Page/任賢齊.md" title="wikilink">任賢齊</a>、<a href="https://zh.wikipedia.org/wiki/黃曉明" title="wikilink">黃曉明</a>、<a href="../Page/陳冠希.md" title="wikilink">陳冠希</a></p></td>
-<td><p>2009年</p></td>
-<td><p>周六好戲勢系列</p></td>
-</tr>
-<tr class="odd">
-<td><p>2019年8月24日</p></td>
 <td><p>20:30-23:15</p></td>
 <td style="text-align: center;"><p><a href="../Page/破風_(電影).md" title="wikilink">破風</a><br />
 To The Fore</p></td>
@@ -1142,13 +1129,22 @@ To The Fore</p></td>
 <td><p>周六好戲勢系列<br />
 普通話對白</p></td>
 </tr>
-<tr class="even">
-<td><p>2019年8月31日</p></td>
+<tr class="odd">
+<td><p>2019年8月24日</p></td>
 <td><p>20:30-23:00</p></td>
 <td style="text-align: center;"><p><a href="../Page/放·逐.md" title="wikilink">放·逐</a><br />
 Exiled</p></td>
 <td><p><a href="../Page/黃秋生.md" title="wikilink">黃秋生</a>、<a href="../Page/吳鎮宇.md" title="wikilink">吳鎮宇</a>、<a href="../Page/任達華.md" title="wikilink">任達華</a>、<a href="../Page/張家輝.md" title="wikilink">張家輝</a>、<a href="../Page/張耀揚.md" title="wikilink">張耀揚</a></p></td>
 <td><p>2006年</p></td>
+<td><p>周六好戲勢系列</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年9月28日</p></td>
+<td><p>20:30-23:00</p></td>
+<td style="text-align: center;"><p><a href="../Page/猛龍特囧.md" title="wikilink">猛龍特囧</a><br />
+Undercover Duet</p></td>
+<td><p><a href="../Page/鄭中基.md" title="wikilink">鄭中基</a>、<a href="https://zh.wikipedia.org/wiki/胡耀輝" title="wikilink">胡耀輝</a>、<a href="../Page/雨僑.md" title="wikilink">雨　僑</a>、<a href="https://zh.wikipedia.org/wiki/楊建平" title="wikilink">楊建平</a>、<a href="https://zh.wikipedia.org/wiki/王傳君" title="wikilink">王傳君</a>、<a href="../Page/張繼聰.md" title="wikilink">張繼聰</a>、<a href="../Page/蘇民峰.md" title="wikilink">蘇民峰</a></p></td>
+<td><p>2015年</p></td>
 <td><p>周六好戲勢系列 &lt;!--</p></td>
 </tr>
 <tr class="odd">
@@ -1239,6 +1235,51 @@ Deranged</p></td>
 No Tears for the Dead</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/張東健" title="wikilink">張東健</a>、<a href="../Page/金敏喜.md" title="wikilink">金敏喜</a></p></td>
 <td><p>2014年</p></td>
+<td><p>周六好戲勢系列</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年9月7日</p></td>
+<td><p>20:30-23:15</p></td>
+<td style="text-align: center;"><p><a href="../Page/1987：黎明到來的那一天.md" title="wikilink">1987：逆權公民</a><br />
+1987: When the Day Comes</p></td>
+<td><p><a href="../Page/金允錫.md" title="wikilink">金允錫</a>、<a href="../Page/河正宇.md" title="wikilink">河正宇</a>、<a href="../Page/柳海真.md" title="wikilink">柳海真</a>、<a href="../Page/金泰梨.md" title="wikilink">金泰梨</a>、<a href="../Page/朴喜洵.md" title="wikilink">朴喜洵</a>、<a href="../Page/李熙俊.md" title="wikilink">李熙俊</a></p></td>
+<td><p>2017年</p></td>
+<td><p>周六好戲勢系列</p></td>
+</tr>
+</tbody>
+</table>
+
+### 日本
+
+<table>
+<thead>
+<tr class="header">
+<th><p>首播日期</p></th>
+<th><p>播映時間</p></th>
+<th style="text-align: center;"><p><strong>電影名稱（中文）</strong><br />
+（英文）</p></th>
+<th><p>演員</p></th>
+<th><p>發行年份</p></th>
+<th><p>備註</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2019年9月14日</p></td>
+<td><p>20:30-23:00</p></td>
+<td style="text-align: center;"><p><a href="../Page/家族之苦.md" title="wikilink">嫲煩家族</a><br />
+What a Wonderful Family!</p></td>
+<td><p>、、<a href="../Page/西村雅彥.md" title="wikilink">西村雅彥</a>、<a href="../Page/夏川結衣.md" title="wikilink">夏川結衣</a>、<a href="https://zh.wikipedia.org/wiki/中島朋子" title="wikilink">中島朋子</a>、、<a href="../Page/妻夫木聰.md" title="wikilink">妻夫木聰</a>、<a href="../Page/蒼井優.md" title="wikilink">蒼井優</a></p></td>
+<td><p>2016年</p></td>
+<td><p>周六好戲勢系列</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年9月21日</p></td>
+<td><p>20:30-23:00</p></td>
+<td style="text-align: center;"><p><a href="../Page/家族之苦.md" title="wikilink">嫲煩家族2</a><br />
+What a Wonderful Family! 2</p></td>
+<td><p>、、<a href="../Page/西村雅彥.md" title="wikilink">西村雅彥</a>、<a href="../Page/夏川結衣.md" title="wikilink">夏川結衣</a>、<a href="https://zh.wikipedia.org/wiki/中島朋子" title="wikilink">中島朋子</a>、、<a href="../Page/妻夫木聰.md" title="wikilink">妻夫木聰</a>、<a href="../Page/蒼井優.md" title="wikilink">蒼井優</a></p></td>
+<td><p>2017年</p></td>
 <td><p>周六好戲勢系列</p></td>
 </tr>
 </tbody>
@@ -2372,6 +2413,17 @@ ViuTV 4.29 Program Parade</p></td>
 <td></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>8月18日</p></td>
+<td><p>22:30-01:00</p></td>
+<td><p>選美</p></td>
+<td><p><a href="../Page/2019年度澳門小姐競選.md" title="wikilink">澳門小姐競選 2019</a><br />
+Miss Macau 2019</p></td>
+<td><p>主持：<a href="../Page/林曉峰.md" title="wikilink">林曉峰</a>、、、<a href="../Page/戴顯揚.md" title="wikilink">戴顯揚</a><br />
+演出：<a href="https://zh.wikipedia.org/wiki/Supper_Moment" title="wikilink">Supper Moment</a>、<a href="../Page/Dear_Jane.md" title="wikilink">Dear Jane</a>、<a href="../Page/陳慧敏_(歌手).md" title="wikilink">陳慧敏</a>、<a href="../Page/龍世傑.md" title="wikilink">龍世傑</a>、<a href="../Page/祖絲.md" title="wikilink">祖絲</a>、<a href="https://zh.wikipedia.org/wiki/AJ" title="wikilink">AJ</a>、<a href="https://zh.wikipedia.org/wiki/馬曼莉" title="wikilink">馬曼莉</a>、<a href="../Page/杜俊瑋.md" title="wikilink">杜俊瑋</a></p></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -2619,7 +2671,7 @@ Jun Kung Just A Concert 2016</p></td>
 ViuTV錄影廠主持：<a href="../Page/陳俞希.md" title="wikilink">陳俞希</a></p></td>
 <td><p><a href="http://viu.tv/encore/2-01-6-mnet-asian-music-awards">ViuTV網頁</a></p></td>
 <td><p><strong>現場直播</strong><br />
-外購節目（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a>）／即時粵語現場翻譯／2017年1月28日11:00-15:25重播</p></td>
+外購節目（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="../Page/Mnet.md" title="wikilink">Mnet</a>）／即時粵語現場翻譯／2017年1月28日11:00-15:25重播</p></td>
 </tr>
 <tr class="even">
 <td><p>12月17日</p></td>
@@ -2648,7 +2700,7 @@ Busan One Asia Festival</p></td>
 、<a href="../Page/SHINee.md" title="wikilink">SHINee</a>、<a href="https://zh.wikipedia.org/wiki/AOA_(韓國)" title="wikilink">AOA</a>、<a href="../Page/防彈少年團.md" title="wikilink">防彈少年團</a>、<a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a><br />
 、<a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a>、<a href="../Page/GOT7.md" title="wikilink">GOT7</a>、<a href="https://zh.wikipedia.org/wiki/MAMAMOO" title="wikilink">MAMAMOO</a><br />
 、<a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a>、<a href="../Page/BTOB.md" title="wikilink">BTOB</a>、<a href="https://zh.wikipedia.org/wiki/MONSTA_X" title="wikilink">MONSTA X</a>、<a href="../Page/NC.A.md" title="wikilink">NC.A</a>、<a href="https://zh.wikipedia.org/wiki/SF9" title="wikilink">SF9</a><br />
-、<a href="https://zh.wikipedia.org/wiki/KNK" title="wikilink">KNK</a>、<a href="https://zh.wikipedia.org/wiki/HALO" title="wikilink">HALO</a>、<a href="../Page/MIXX.md" title="wikilink">MIXX</a>、<a href="https://zh.wikipedia.org/wiki/Big_Brain" title="wikilink">Big Brain</a></p></td>
+、<a href="../Page/KNK.md" title="wikilink">KNK</a>、<a href="https://zh.wikipedia.org/wiki/HALO" title="wikilink">HALO</a>、<a href="../Page/MIXX.md" title="wikilink">MIXX</a>、<a href="https://zh.wikipedia.org/wiki/Big_Brain" title="wikilink">Big Brain</a></p></td>
 <td></td>
 <td><p>外購節目（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a>）／不設粵語配音／重播<a href="https://zh.wikipedia.org/wiki/now觀星台" title="wikilink">now觀星台節目</a></p></td>
 </tr>
@@ -2811,7 +2863,7 @@ Youth Concert for People's Republic of China National Day 2017</p></td>
 粵語現場翻譯：Suzuki Hon、Dean Chan</p></td>
 <td><p><a href="http://viu.tv/encore/2-01-7-mnet-asian-music-awards">ViuTV網頁</a></p></td>
 <td><p><strong>現場直播</strong><br />
-外購節目（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a>）／即時粵語現場翻譯／2018年2月19日12:00-16:00重播</p></td>
+外購節目（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="../Page/Mnet.md" title="wikilink">Mnet</a>）／即時粵語現場翻譯／2018年2月19日12:00-16:00重播</p></td>
 </tr>
 </tbody>
 </table>
@@ -2849,7 +2901,7 @@ Youth Concert for People's Republic of China National Day 2017</p></td>
 <td><p>主持：<a href="../Page/朴寶劍.md" title="wikilink">朴寶劍</a><br />
 演出：<a href="https://zh.wikipedia.org/wiki/BoA" title="wikilink">BoA</a>、<a href="https://zh.wikipedia.org/wiki/Wanna_One" title="wikilink">Wanna One</a>、<a href="../Page/I.O.I.md" title="wikilink">I.O.I</a>、<a href="https://zh.wikipedia.org/wiki/MONSTA_X" title="wikilink">MONSTA X</a>、<a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a>、<a href="../Page/EXO-CBX.md" title="wikilink">EXO-CBX</a>、<a href="https://zh.wikipedia.org/wiki/SEVENTEEN" title="wikilink">SEVENTEEN</a>、<a href="https://zh.wikipedia.org/wiki/fromis_9" title="wikilink">fromis_9</a>、<a href="https://zh.wikipedia.org/wiki/NU&#39;EST_W" title="wikilink">NU'EST W</a>、<a href="https://zh.wikipedia.org/wiki/PRISTIN" title="wikilink">PRISTIN</a>、<a href="https://zh.wikipedia.org/wiki/金請夏" title="wikilink">金請夏</a>、<a href="../Page/Weki_Meki.md" title="wikilink">Weki Meki</a>、<a href="https://zh.wikipedia.org/wiki/ZICO" title="wikilink">ZICO</a>、<a href="../Page/AKB48.md" title="wikilink">AKB48</a></p></td>
 <td><p><a href="http://viu.tv/encore/2-01-7-mnet-asian-music-awards">ViuTV網頁</a></p></td>
-<td><p>外購節目（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a>）／重播<a href="../Page/ViuTVsix.md" title="wikilink">ViuTVsix</a>節目</p></td>
+<td><p>外購節目（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="../Page/Mnet.md" title="wikilink">Mnet</a>）／重播<a href="../Page/ViuTVsix.md" title="wikilink">ViuTVsix</a>節目</p></td>
 </tr>
 <tr class="even">
 <td><p>1月1日</p></td>
@@ -2946,7 +2998,7 @@ The World Sings Danny Chan Concert</p></td>
 <td><p>國慶</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/中華人民共和國成立69周年國慶青年音樂會" title="wikilink">中華人民共和國成立69周年國慶青年音樂會</a><br />
 Youth Concert for People's Republic of China National Day 2018</p></td>
-<td><p>演出：<a href="../Page/CLC.md" title="wikilink">CLC</a>、<a href="../Page/李起光.md" title="wikilink">李起光</a>、<a href="../Page/BTOB.md" title="wikilink">BTOB</a>、<a href="../Page/黃山怡.md" title="wikilink">糖妹</a>、<a href="../Page/Pentagon_(男子組合).md" title="wikilink">Pentagon</a>、<a href="../Page/沈震軒.md" title="wikilink">沈震軒</a>、<a href="https://zh.wikipedia.org/wiki/BOY_STORY" title="wikilink">BOY STORY</a></p></td>
+<td><p>演出：<a href="../Page/CLC.md" title="wikilink">CLC</a>、<a href="../Page/李起光.md" title="wikilink">李起光</a>、<a href="../Page/BTOB.md" title="wikilink">BTOB</a>、<a href="../Page/黃山怡.md" title="wikilink">糖妹</a>、<a href="../Page/Pentagon_(男子組合).md" title="wikilink">Pentagon</a>、<a href="../Page/沈震軒.md" title="wikilink">沈震軒</a>、<a href="../Page/BOY_STORY.md" title="wikilink">BOY STORY</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -2961,7 +3013,7 @@ Youth Concert for People's Republic of China National Day 2018</p></td>
 粵語現場翻譯：李珮珊、周嘉欣</p></td>
 <td><p><a href="http://viu.tv/encore/2-01-8-mnet-asian-music-awards-in-hong-kong">ViuTV網頁</a></p></td>
 <td><p><strong>現場直播</strong><br />
-外購節目（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a>）／即時粵語現場翻譯／2019年2月5日00:30-05:00重播</p></td>
+外購節目（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="../Page/Mnet.md" title="wikilink">Mnet</a>）／即時粵語現場翻譯／2019年2月5日00:30-05:00重播</p></td>
 </tr>
 </tbody>
 </table>
@@ -3024,7 +3076,7 @@ ViuTV錄影廠主持：</p></td>
 演出：<a href="../Page/防彈少年團.md" title="wikilink">防彈少年團</a>、<a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a>、<a href="https://zh.wikipedia.org/wiki/Wanna_One" title="wikilink">Wanna One</a>、<a href="../Page/IZ*ONE.md" title="wikilink">IZ*ONE</a>、<a href="https://zh.wikipedia.org/wiki/Stray_Kids" title="wikilink">Stray Kids</a>、<a href="https://zh.wikipedia.org/wiki/NU&#39;EST_W" title="wikilink">NU'EST W</a>、<a href="https://zh.wikipedia.org/wiki/MONSTA_X" title="wikilink">MONSTA X</a>、<a href="https://zh.wikipedia.org/wiki/MAMAMOO" title="wikilink">MAMAMOO</a>、<a href="../Page/張赫_(韓國).md" title="wikilink">張赫</a>、<a href="../Page/李聖經.md" title="wikilink">李聖經</a>、<a href="../Page/庭沼珉.md" title="wikilink">庭沼珉</a>、<a href="https://zh.wikipedia.org/wiki/2PM" title="wikilink">2PM</a><br />
 粵語現場翻譯：Bonny Yim、Nichol Chau、Suzuki Hon、SK Lam</p></td>
 <td><p><a href="https://viu.tv/encore/2-01-8-mnet-asian-music-awards-in-japan">ViuTV網頁</a></p></td>
-<td><p>外購節目（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a>）／重播<a href="../Page/ViuTVsix.md" title="wikilink">ViuTVsix</a>節目</p></td>
+<td><p>外購節目（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="../Page/Mnet.md" title="wikilink">Mnet</a>）／重播<a href="../Page/ViuTVsix.md" title="wikilink">ViuTVsix</a>節目</p></td>
 </tr>
 <tr class="even">
 <td><p>2月6日</p></td>
@@ -3047,7 +3099,7 @@ The 41st Top Ten Chinese Gold Songs Concert - Feel the Music</p></td>
 演出：<a href="https://zh.wikipedia.org/wiki/Stray_Kids" title="wikilink">Stray Kids</a>、<a href="../Page/IZ*ONE.md" title="wikilink">IZ*ONE</a>、<a href="https://zh.wikipedia.org/wiki/Wanna_One" title="wikilink">Wanna One</a>、<a href="https://zh.wikipedia.org/wiki/欅坂46" title="wikilink">欅坂46</a><br />
 粵語現場翻譯：Bonny Yim、Nichol Chau</p></td>
 <td><p><a href="https://viu.tv/encore/2-01-8-mnet-asian-music-awards-in-korea">ViuTV網頁</a></p></td>
-<td><p>外購節目（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a>）／重播<a href="../Page/ViuTVsix.md" title="wikilink">ViuTVsix</a>節目</p></td>
+<td><p>外購節目（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="../Page/Mnet.md" title="wikilink">Mnet</a>）／重播<a href="../Page/ViuTVsix.md" title="wikilink">ViuTVsix</a>節目</p></td>
 </tr>
 <tr class="even">
 <td><p>2月7日</p></td>
@@ -3475,7 +3527,7 @@ Good Game Bro</p></td>
 <td><p>2</p></td>
 <td><p>20:00-20:30</p></td>
 <td><p>體育</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Record_Rides" title="wikilink">Record Rides</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/燃動創巔峰" title="wikilink">燃動創巔峰</a><br />
 Record Rides</p></td>
 <td><p>主持：</p></td>
 <td><p><a href="../Page/加德士.md" title="wikilink">加德士</a></p></td>
@@ -3589,13 +3641,14 @@ Record Rides</p></td>
 
 ### [英格蘭超級聯賽](https://zh.wikipedia.org/wiki/英格蘭足球超級聯賽 "wikilink")
 
-|                                                        |                                                                                                                   |                                                                                                         |                                                                                                              |                                                                     |
-| ------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------- |
-| 賽季                                                     | 播放日                                                                                                               | 時間                                                                                                      | 播放賽事                                                                                                         | 備註                                                                  |
-| [2018-19年](../Page/2018年至2019年英格蘭足球超級聯賽.md "wikilink") | 2019年2月23日                                                                                                        | 22:50-01:00                                                                                             | [般尼茅夫](https://zh.wikipedia.org/wiki/般尼茅夫足球會 "wikilink") 對 [狼隊](https://zh.wikipedia.org/wiki/狼隊 "wikilink") | 與[Now英超2台同步播出](https://zh.wikipedia.org/wiki/Now_Sports "wikilink") |
-| 2019年3月30日                                             | [白禮頓](https://zh.wikipedia.org/wiki/布萊頓足球俱樂部 "wikilink") 對 [修咸頓](https://zh.wikipedia.org/wiki/修咸頓足球會 "wikilink") | 與[Now英超4台同步播出](https://zh.wikipedia.org/wiki/Now_Sports "wikilink")                                     |                                                                                                              |                                                                     |
-| 2019年4月27日                                             | 21:50-00:00                                                                                                       | [屈福特](https://zh.wikipedia.org/wiki/屈福特 "wikilink") 對 [狼隊](https://zh.wikipedia.org/wiki/狼隊 "wikilink") |                                                                                                              |                                                                     |
-|                                                        |                                                                                                                   |                                                                                                         |                                                                                                              |                                                                     |
+|                                                        |                                                                                                                   |                                                                                                         |                                                                                                                    |                                                                             |
+| ------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------- |
+| 賽季                                                     | 播放日                                                                                                               | 時間                                                                                                      | 播放賽事                                                                                                               | 備註                                                                          |
+| [2018-19年](../Page/2018年至2019年英格蘭足球超級聯賽.md "wikilink") | 2019年2月23日                                                                                                        | 22:50-01:00                                                                                             | [般尼茅夫](https://zh.wikipedia.org/wiki/般尼茅夫足球會 "wikilink") 對 [狼隊](https://zh.wikipedia.org/wiki/狼隊 "wikilink")       | 與[Now Sports 英超2台同步播出](https://zh.wikipedia.org/wiki/Now_Sports "wikilink") |
+| 2019年3月30日                                             | [白禮頓](https://zh.wikipedia.org/wiki/布萊頓足球俱樂部 "wikilink") 對 [修咸頓](https://zh.wikipedia.org/wiki/修咸頓足球會 "wikilink") | 與[Now Sports 英超4台同步播出](https://zh.wikipedia.org/wiki/Now_Sports "wikilink")                             |                                                                                                                    |                                                                             |
+| 2019年4月27日                                             | 21:50-00:00                                                                                                       | [屈福特](https://zh.wikipedia.org/wiki/屈福特 "wikilink") 對 [狼隊](https://zh.wikipedia.org/wiki/狼隊 "wikilink") |                                                                                                                    |                                                                             |
+| [2019-20年](../Page/2019年至2020年英格蘭足球超級聯賽.md "wikilink") | 2019年8月31日                                                                                                        | 21:30-00:00                                                                                             | [曼城](https://zh.wikipedia.org/wiki/曼徹斯特城足球會 "wikilink") 對 [白禮頓](https://zh.wikipedia.org/wiki/布萊頓足球俱樂部 "wikilink") | 與[Now Sports 英超2台同步播出](https://zh.wikipedia.org/wiki/Now_Sports "wikilink") |
+|                                                        |                                                                                                                   |                                                                                                         |                                                                                                                    |                                                                             |
 
 ### [英格蘭足總盃](../Page/英格蘭足總盃.md "wikilink")
 

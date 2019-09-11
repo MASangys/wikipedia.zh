@@ -189,7 +189,7 @@
 </tr>
 <tr class="even">
 <td><p><strong>螢幕</strong></p></td>
-<td><p>6.59 吋 <a href="../Page/AMOLED.md" title="wikilink">AMOLED</a> 顯示器、2340x1080 <a href="../Page/Full_HD.md" title="wikilink">Full HD+</a> <a href="https://zh.wikipedia.org/wiki/解析度" title="wikilink">解析度</a></p></td>
+<td><p>6.59 吋 <a href="../Page/AMOLED.md" title="wikilink">AMOLED</a> 顯示器、2340x1080 <a href="../Page/Full_HD.md" title="wikilink">Full HD+</a> <a href="https://zh.wikipedia.org/wiki/解析度" title="wikilink">解析度</a> 天馬微電子製造</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>CPU</strong></p></td>

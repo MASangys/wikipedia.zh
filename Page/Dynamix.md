@@ -599,7 +599,7 @@ C：該局最高連打數(Combo)
 <td><p>7</p></td>
 <td><p>11</p></td>
 <td><p>14</p></td>
-<td><p>-</p></td>
+<td><p>15</p></td>
 <td><p>Rank 100</p></td>
 </tr>
 <tr class="odd">
@@ -1494,7 +1494,7 @@ C：該局最高連打數(Combo)
 <td><p>完成段位後使用Frag購買</p></td>
 </tr>
 <tr class="even">
-<td><p>Wave Test 01</p></td>
+<td><p>Wave Test 02</p></td>
 <td><p>Evils Was Coming</p></td>
 <td><p>dwi kashiwagi</p></td>
 <td><p>-</p></td>
@@ -1505,7 +1505,7 @@ C：該局最高連打數(Combo)
 <td><p>取得段位後使用Frag購買</p></td>
 </tr>
 <tr class="odd">
-<td><p>Wave Test 01</p></td>
+<td><p>Wave Test 03</p></td>
 <td><p>Ornament</p></td>
 <td><p>SLT</p></td>
 <td><p>-</p></td>
@@ -1516,7 +1516,7 @@ C：該局最高連打數(Combo)
 <td><p>取得段位後使用Frag購買</p></td>
 </tr>
 <tr class="even">
-<td><p>Wave Test 01</p></td>
+<td><p>Wave Test 04</p></td>
 <td><p>.reversive</p></td>
 <td><p>SECTION</p></td>
 <td><p>-</p></td>
@@ -1527,7 +1527,7 @@ C：該局最高連打數(Combo)
 <td><p>取得段位後使用Frag購買</p></td>
 </tr>
 <tr class="odd">
-<td><p>Wave Test 01</p></td>
+<td><p>Wave Test 05</p></td>
 <td><p>Utopia</p></td>
 <td><p>typeMARS</p></td>
 <td><p>-</p></td>
@@ -1538,7 +1538,7 @@ C：該局最高連打數(Combo)
 <td><p>取得段位後使用Frag購買</p></td>
 </tr>
 <tr class="even">
-<td><p>Wave Test 01</p></td>
+<td><p>Wave Test 06</p></td>
 <td><p>bewitched</p></td>
 <td><p>Cashew</p></td>
 <td><p>-</p></td>
@@ -1549,7 +1549,7 @@ C：該局最高連打數(Combo)
 <td><p>取得段位後使用Frag購買</p></td>
 </tr>
 <tr class="odd">
-<td><p>Wave Test 01</p></td>
+<td><p>Wave Test 07</p></td>
 <td><p>Crocus</p></td>
 <td><p>RiraN</p></td>
 <td><p>-</p></td>
@@ -1560,7 +1560,7 @@ C：該局最高連打數(Combo)
 <td><p>取得段位後使用Frag購買</p></td>
 </tr>
 <tr class="even">
-<td><p>Wave Test 01</p></td>
+<td><p>Wave Test 08</p></td>
 <td><p>Gleam Stone</p></td>
 <td><p>adaptor</p></td>
 <td><p>-</p></td>
@@ -1571,7 +1571,7 @@ C：該局最高連打數(Combo)
 <td><p>取得段位後使用Frag購買</p></td>
 </tr>
 <tr class="odd">
-<td><p>Wave Test 01</p></td>
+<td><p>Wave Test 09</p></td>
 <td><p>Energy</p></td>
 <td><p>Tada</p></td>
 <td><p>-</p></td>
@@ -1582,7 +1582,7 @@ C：該局最高連打數(Combo)
 <td><p>取得段位後使用Frag購買</p></td>
 </tr>
 <tr class="even">
-<td><p>Wave Test 01</p></td>
+<td><p>Wave Test 10</p></td>
 <td><p>Prime</p></td>
 <td><p>Pokku'n</p></td>
 <td><p>-</p></td>
@@ -1593,7 +1593,7 @@ C：該局最高連打數(Combo)
 <td><p>取得段位後使用Frag購買</p></td>
 </tr>
 <tr class="odd">
-<td><p>Wave Test 01</p></td>
+<td><p>Wave Test 11</p></td>
 <td><p>Worldwide RAVE-Attack</p></td>
 <td></td>
 <td><p>Ryazan</p></td>

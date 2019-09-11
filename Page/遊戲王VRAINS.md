@@ -34,7 +34,7 @@
 
 LINK VRAINS關閉維修期間，SOL技術社為了挽救聲譽而開發了全新的人工智能管家SOLtis，這普遍取得了大眾的歡迎。伊格尼斯們全數陣亡後，傷心的Ai帶著機器嗶自行離開，而擁有人形外表的兩人則暗自襲擊了SOL技術社的皇后，並奪走了代碼密鑰。為此，財前晃帶著蒼藍少女集結了Playmaker、Revolver、Soulburner、Go鬼塚、魅影嬌娃、血色牧羊人及Unnamed（草薙翔一），想藉此守護晃手中的另一把密鑰。另一方面，也打算協助晃的漢諾騎士則製造了用於對付Ai的潘朵兒。在現實中，遊作向晃及葵透露了自己Playmaker的身份。
 
-Ai帶著機器嗶入侵了SOL，並在相繼擊敗了亡靈、三騎士、魅影嬌娃、血色牧羊人、Go鬼塚、潘朵兒、蒼藍少女和財前晃後成功奪得了代碼密鑰。
+Ai帶著機器嗶入侵了SOL，並在相繼擊敗了亡靈、三騎士、魅影嬌娃、血色牧羊人、Go鬼塚、潘朵兒、蒼藍少女和財前晃後成功奪得了代碼密鑰，而整個SOL也遭到SOLtis佔領。在Soulburner擊敗機器嗶後獲得了關於Ai的線索，但左輪則現身爭奪，而使兩人展開決鬥。最後左輪敗給了Soulburner，以完成對他的「懺悔」。
 
 ## 登場人物
 
@@ -1629,6 +1629,27 @@ Hwang Seong-won</p></td>
 <td><p>115</p></td>
 <td></td>
 <td><p>一切的起點</p></td>
+<td><p>廣田光毅</p></td>
+<td><p>ルーチェ・ヤギ</p></td>
+<td><p>佐藤道拓<br />
+Go Sung-un</p></td>
+<td><p>Kang Hyeon-guk<br />
+Jeong Yong-un<br />
+Hwang Seong-won</p></td>
+</tr>
+<tr class="even">
+<td><p>116</p></td>
+<td></td>
+<td><p>完全燃燒</p></td>
+<td><p>山本隆太</p></td>
+<td><p>Noh Gil-bo</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>117</p></td>
+<td></td>
+<td><p>平行的前途</p></td>
 <td></td>
 <td></td>
 <td></td>

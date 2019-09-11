@@ -13,7 +13,7 @@
   - 2012年3月，推出部落格服務，提供網友自行建立部落格\[4\]。
   - 2013年1月，獲得[日本](../Page/日本.md "wikilink")的 [CyberAgent](../Page/CyberAgent.md "wikilink") Ventures 公司投資，並透過旗下的 CA-JAIC China Internet Fund II 完成相關投資作業。\[5\]
   - 2017年1月，與[中國](../Page/中國.md "wikilink")[抹茶美妝](https://zh.wikipedia.org/wiki/抹茶美妝 "wikilink")，[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Powderroom三方成立TAB亞洲美妝大賞](https://zh.wikipedia.org/wiki/Powderroom "wikilink")，挑選出意見領袖，經過試用後，發出「TAB台灣」、「TAB中國」、「TAB韓國」標章\[6\]。
-  - 2018年5月，推出驗真相服務，主動收集時下熱門商品，送[SGS檢測](https://zh.wikipedia.org/wiki/SGS "wikilink")，公佈檢驗結果，替網友把關商品品質\[7\]。
+  - 2018年5月，推出驗真相服務，主動收集時下熱門商品，送[SGS](../Page/SGS.md "wikilink")檢測，公佈檢驗結果，替網友把關商品品質\[7\]。
   - 2018年7月，2018 第11屆美妝大賞活動開跑，集結網友最愛 FG 評鑑美妝與人氣時尚品牌參與票選年度 Top1。FashionGuide 以\#美力覺醒主題為主題，邀請人氣網紅 Dora [謝雨芝](../Page/謝雨芝.md "wikilink")、[紀卜心](../Page/紀卜心.md "wikilink")擔任美力大使、Youtuber及百大部落客擔任美妝大賞評鑑客座評審，並串聯[美麗華百貨](https://zh.wikipedia.org/wiki/美麗華 "wikilink")，享有[屈臣氏](https://zh.wikipedia.org/wiki/屈臣氏 "wikilink")、[寶雅熱銷商品獨家優惠](https://zh.wikipedia.org/wiki/寶雅 "wikilink")。\[8\]\[9\]\[10\]。
 
 ## 參考資料

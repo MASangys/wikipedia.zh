@@ -246,21 +246,27 @@
 <td><p>2019年2月13日</p></td>
 <td><p><strong>Endless Notes</strong></p></td>
 <td><p>EYCA-12282/B</p></td>
-<td><p>EYCA-12281 EYCA-12283</p></td>
+<td><p>EYCA-12281</p>
+<hr />
+<p>EYCA-12283（初回生産限定盤）</p></td>
 </tr>
 <tr class="odd">
 <td><p>18th</p></td>
 <td><p>2019年5月22日</p></td>
 <td><p><strong>アルティメット☆MAGIC</strong></p></td>
 <td><p>EYCA-12510/B</p></td>
-<td><p>EYCA-12509 EYCA-12511</p></td>
+<td><p>EYCA-12511</p>
+<hr />
+<p>EYCA-12509（初回生産限定盤）</p></td>
 </tr>
 <tr class="even">
 <td><p>19th</p></td>
-<td><p>2019年8月28日(預計)</p></td>
+<td><p>2019年8月28日</p></td>
 <td><p><strong>FANTASTIC ILLUSION</strong></p></td>
 <td><p>EYCA-12608/B</p></td>
-<td><p>EYCA-12609 EYCA-12607</p></td>
+<td><p>EYCA-12609</p>
+<hr />
+<p>EYCA-12607（初回生産限定盤）</p></td>
 </tr>
 </tbody>
 </table>
@@ -324,17 +330,25 @@
 </tbody>
 </table>
 
-**<big>影像作品</big>**
+### 影像作品
 
-| <small>編號</small>      | <small>發售日</small>          | <small>標題</small>                                              | <small>銷售形態</small>       | <small>規格編號</small>       | <small>最高位</small> <small>(音樂)</small> | <small>最高位</small> <small>(綜合)</small> |
-| ---------------------- | --------------------------- | -------------------------------------------------------------- | ------------------------- | ------------------------- | -------------------------------------- | -------------------------------------- |
-| **<small>1st</small>** | <small>2014年3月26日</small>   | **<small>i☆Ris 1ST ANNIVERSARY LIVE-THANK YOU ALL-</small>**   | <small>DVD</small>        | <small>AVBA-73271</small> |                                        | <small>71位</small>                     |
-| **<small>2nd</small>** | <small>2015年9月16日</small>   | '''<small>i☆Ris 1st Live Tour 2015 〜We are i☆Ris               | \!〜@Zepp Tokyo</small>''' | <small>Blu-ray</small>    | <small>EYXA-10616</small>              | <small>7位</small>                      |
-| <small>DVD</small>     | <small>EYBA-10614/5</small> |                                                                | <small>116位</small>       |                           |                                        |                                        |
-| **<small>3rd</small>** | <small>2016年10月26日</small>  | **<small>i☆Ris 結成4周年Live〜foooour〜@i☆RisTELLARTHEATER</small>** | <small>Blu-ray</small>    | <small>EYXA-11197</small> | 45位                                    |                                        |
-| <small>DVD</small>     | <small>EYBA-11195/6</small> | 111位                                                           |                           |                           |                                        |                                        |
-| **<small>4th</small>** | <small>2017年4月5日</small>    | **<small>i☆Ris 4th Anniversary Live〜418〜</small>**             | <small>Blu-ray</small>    | <small>EYXA-11347</small> |                                        |                                        |
-| <small>DVD</small>     | <small>EYBA-11345/6</small> |                                                                |                           |                           |                                        |                                        |
+| <small>編號</small>                      | <small>發售日</small>               | <small>標題</small>                                                               | <small>銷售形態</small>       | <small>規格編號</small>              | <small>[Oricon](../Page/Oricon.md "wikilink")周榜</small> |
+| -------------------------------------- | -------------------------------- | ------------------------------------------------------------------------------- | ------------------------- | -------------------------------- | ------------------------------------------------------- |
+| **<small>1st</small>**                 | <small>2014年3月26日</small>        | **<small>i☆Ris 1ST ANNIVERSARY LIVE-THANK YOU ALL-</small>**                    | <small>DVD</small>        | <small>AVBA-73271</small>        | <small>71位</small>                                      |
+| **<small>2nd</small>**                 | <small>2015年9月16日</small>        | '''<small>i☆Ris 1st Live Tour 2015 〜We are i☆Ris                                | \!〜@Zepp Tokyo</small>''' | <small>Blu-ray</small>           | <small>EYXA-10616</small>                               |
+| <small>DVD</small>                     | <small>EYBA-10614/5</small>      | <small>116位</small>                                                             |                           |                                  |                                                         |
+| **<small>3rd</small>**                 | <small>2016年10月26日</small>       | **<small>i☆Ris 結成4周年Live〜foooour〜@i☆RisTELLARTHEATER</small>**                  | <small>Blu-ray</small>    | <small>EYXA-11197</small>        | <small>45位</small>                                      |
+| <small>DVD</small>                     | <small>EYBA-11195/6</small>      | <small>111位</small>                                                             |                           |                                  |                                                         |
+| **<small>4th</small>**                 | <small>2017年4月5日</small>         | **<small>i☆Ris 4th Anniversary Live〜418〜</small>**                              | <small>Blu-ray</small>    | <small>EYXA-11347</small>        | <small>34位</small>                                      |
+| <small>DVD</small>                     | <small>EYBA-11345/6</small>      | <small>76位</small>                                                              |                           |                                  |                                                         |
+| **<small>5th</small>**                 | <small>2018年8月29日</small>        | **<small>i☆Ris 5th Anniversary Live～Go～</small>**                               | <small>Blu-ray</small>    | <small>EYXA-12051/2</small>      | <small>42位</small>                                      |
+| <small>DVD</small>                     | <small>EYBA-12047/50</small>     | <small>138位</small>                                                             |                           |                                  |                                                         |
+| **<small>6th</small>**                 | <small>2019年3月6日</small>         | **<small>『i☆Ris 6th Anniversary Live～Lock on(白抜きハート記号)無理なんて言わせないっ\!～』</small>** | <small>Blu-ray</small>    | <small>EYBA-12286/7（通常版）</small> | <small>35位</small>                                      |
+| <small>EYXA-12288/B（初回生産限定盤）</small>   |                                  |                                                                                 |                           |                                  |                                                         |
+| <small>DVD</small>                     | <small>EYBA-12286/7（通常版）</small> | <small>109位</small>                                                             |                           |                                  |                                                         |
+| <small>EYBA-12284/5/B（初回生産限定盤）</small> |                                  |                                                                                 |                           |                                  |                                                         |
+| **<small>7th</small>**                 | <small>2019年10月16日</small>       | **<small>i☆Ris 5th Live Tour 2019 ～FEVER～</small>**                             | <small>Blu-ray</small>    | <small>EYXA-12679</small>        | <small>TBA</small>                                      |
+| <small>DVD</small>                     | <small>EYBA-12677/8</small>      | <small>TBA</small>                                                              |                           |                                  |                                                         |
 
 ## 參考資料
 

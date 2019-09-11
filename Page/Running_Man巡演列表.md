@@ -381,6 +381,29 @@ HKD480</p></td>
 </tbody>
 </table>
 
+### 2019年：Running Man 9週年特別企劃—RM区（9）计划
+
+<table>
+<thead>
+<tr class="header">
+<th><p>日期</p></th>
+<th><p>國家或地區</p></th>
+<th><p>場地</p></th>
+<th><p>出席之節目成員</p></th>
+<th><p>票價</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>8月26日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/首尔" title="wikilink">首尔</a></p></td>
+<td></td>
+<td><p>(全體成員)</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ## 表演
 
 ### 2013年："RACE START\!" Running Man Fan Meeting Asia Tour 2013
@@ -1371,13 +1394,13 @@ HKD480</p></td>
 | 劉在錫、HAHA         | I'm so sexy                                                               | [JYP](../Page/朴軫永.md "wikilink")&[劉在錫](../Page/劉在錫.md "wikilink")              |
 | HAHA             | Rosa                                                                      | [HAHA](../Page/Haha.md "wikilink")                                             |
 | HAHA             | DANGDIGGIBANG                                                             | [HAHA](../Page/Haha.md "wikilink")\&Beenie Man                                 |
-| 梁世贊、全昭旻          | New Face                                                                  | [PSY](../Page/PSY.md "wikilink")                                               |
+| 梁世燦、全昭旻          | New Face                                                                  | [PSY](../Page/PSY.md "wikilink")                                               |
 | 金鐘國              | 信                                                                         | [金鐘國](https://zh.wikipedia.org/wiki/金鍾國 "wikilink")                            |
 | 金鐘國              | 一個男人                                                                      | [金鐘國](https://zh.wikipedia.org/wiki/金鍾國 "wikilink")                            |
 | 金鐘國              | I'm not the only one                                                      |                                                                                |
 | 金鐘國              | 恨幸福來過                                                                     | [金鐘國](https://zh.wikipedia.org/wiki/金鍾國 "wikilink")                            |
 | 池錫辰、全昭旻          | 你最珍貴                                                                      | [張學友](../Page/张学友.md "wikilink")                                               |
-| 劉在錫、池錫辰、李光洙、梁世贊  | Bang Bang Bang                                                            | [BIGBANG](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")                    |
+| 劉在錫、池錫辰、李光洙、梁世燦  | Bang Bang Bang                                                            | [BIGBANG](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")                    |
 | 宋智孝、全昭旻、金鐘國、HAHA | Bboom Bboom                                                               | [MOMOLAND](../Page/MOMOLAND.md "wikilink")                                     |
 | 全體出席人員           | Fire                                                                      | [BTS](../Page/防彈少年團.md "wikilink")                                             |
 | 全體出席人員           | Fantastic Baby                                                            | [BIGBANG](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")                    |

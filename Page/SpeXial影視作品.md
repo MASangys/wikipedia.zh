@@ -442,8 +442,8 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/台視" title="wikilink">台視</a><br />
 <a href="../Page/Vidol.md" title="wikilink">Vidol</a></p></td>
 <td><p><a href="../Page/風田.md" title="wikilink">風田</a></p></td>
-<td><p>-</p></td>
-<td><p>客串（第集）</p></td>
+<td><p>苗愛子兒子</p></td>
+<td><p>客串（第18集）</p></td>
 </tr>
 <tr class="odd">
 <td><p>5月6日</p></td>
@@ -935,7 +935,7 @@
 <tr class="odd">
 <td><p>3月14日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/拜見宮主大人" title="wikilink">拜見宮主大人第二季</a></p></td>
-<td><p><a href="../Page/搜狐视频.md" title="wikilink">搜狐视频</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/搜狐視頻" title="wikilink">搜狐視頻</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/易恩" title="wikilink">易恩</a></p></td>
 <td><p>景天</p></td>
 <td><p>客串（第6、7、8、9集）</p></td>
@@ -960,6 +960,37 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p>8月21日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/星座值守戀人" title="wikilink">星座值守戀人</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/騰訊視頻" title="wikilink">騰訊視頻</a><br />
+<a href="https://zh.wikipedia.org/wiki/火鍋視頻" title="wikilink">火鍋視頻</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/易恩" title="wikilink">易恩</a></p></td>
+<td><p>陳家佳<br />
+(獅子男假巨蟹)</p></td>
+<td><p>單元主角（第5、6集）</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/Evan_(SpeXial).md" title="wikilink">Evan</a></p></td>
+<td><p>何青<br />
+(天蠍男)</p></td>
+<td><p>單元主角（第7、8集）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/Teddy_(SpeXial).md" title="wikilink">Teddy</a></p></td>
+<td><p>譚笑<br />
+(天秤男)</p></td>
+<td><p>單元主角（第21、22集）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>待播</p></td>
 <td></td>
 <td></td>
@@ -968,7 +999,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/音為愛上你" title="wikilink">音為愛上你</a></p></td>
 <td></td>
 <td><p><a href="../Page/子閎.md" title="wikilink">子閎</a></p></td>
@@ -977,7 +1008,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/墓王之王.md" title="wikilink">墓王之王</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/易恩" title="wikilink">易恩</a></p></td>
@@ -986,7 +1017,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/Evan_(SpeXial).md" title="wikilink">Evan</a></p></td>
 <td><p>樓滿風</p></td>
 <td><p>第二男主角</p></td>
@@ -995,7 +1026,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/麻辣高校" title="wikilink">麻辣高校</a></p></td>
 <td></td>
 <td><p><a href="../Page/Evan_(SpeXial).md" title="wikilink">Evan</a></p></td>
@@ -1004,7 +1035,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/易恩" title="wikilink">易恩</a></p></td>
 <td></td>
 <td></td>
@@ -1013,7 +1044,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/108異人錄" title="wikilink">108異人錄</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/易恩" title="wikilink">易恩</a></p></td>
@@ -1022,7 +1053,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/恨君不似江樓月" title="wikilink">恨君不似江樓月</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/易恩" title="wikilink">易恩</a></p></td>
@@ -1031,7 +1062,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/一夜新娘" title="wikilink">一夜新娘</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/易恩" title="wikilink">易恩</a></p></td>
@@ -1040,7 +1071,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/天醒之路" title="wikilink">天醒之路</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/優酷網" title="wikilink">優酷網</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/熊梓淇" title="wikilink">Dylan</a></p></td>
@@ -1049,7 +1080,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/國民老公_(網絡劇)" title="wikilink">國民老公第二季</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/騰訊視頻" title="wikilink">騰訊視頻</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/熊梓淇" title="wikilink">Dylan</a></p></td>
@@ -1058,7 +1089,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>拍攝中</p></td>
 <td><p><a href="../Page/奈何BOSS要娶我.md" title="wikilink">奈何BOSS要娶我</a>第二季</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/搜狐視頻" title="wikilink">搜狐視頻</a></p></td>
@@ -1067,7 +1098,7 @@
 <td><p>第二男主角</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>停拍中</p></td>
 <td><p><a href="../Page/破網時刻.md" title="wikilink">破網時刻</a></p></td>
 <td></td>
@@ -1076,7 +1107,7 @@
 <td><p>男主角</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/許名傑" title="wikilink">明-{杰}-</a></p></td>
 <td><p>熊威</p></td>
 <td><p>第二男主角</p></td>
@@ -2098,7 +2129,8 @@
 2019年2月26日<br />
 2019年4月23日<br />
 2019年4月30日<br />
-2019年5月21日}}</p></td>
+2019年5月21日<br />
+2019年8月20日}}</p></td>
 <td><p><a href="https://www.youtube.com/user/PlayStationTaiwan">YouTube</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/宏正" title="wikilink">宏正</a>、<a href="../Page/偉晉.md" title="wikilink">偉晉</a>、<a href="https://zh.wikipedia.org/wiki/許名傑" title="wikilink">明-{杰}-</a>、<a href="../Page/子閎.md" title="wikilink">子閎</a>、<a href="../Page/Evan_(SpeXial).md" title="wikilink">Evan</a>、<a href="../Page/Teddy_(SpeXial).md" title="wikilink">Teddy</a>、<a href="../Page/風田.md" title="wikilink">風田</a>、<a href="https://zh.wikipedia.org/wiki/以綸" title="wikilink">以綸</a></p></td>
 </tr>
@@ -2177,7 +2209,8 @@
 2019年6月3日<br />
 2019年7月1日<br />
 2019年7月8日<br />
-2019年8月5日}}</p></td>
+2019年8月5日<br />
+2019年8月19日}}</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/17app" title="wikilink">17app</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/許名傑" title="wikilink">明-{杰}-</a></p></td>
 </tr>

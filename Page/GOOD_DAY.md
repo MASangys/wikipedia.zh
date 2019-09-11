@@ -151,14 +151,14 @@
 
 ### 音樂錄影帶(MV)
 
-| 發佈日期       | MV名稱                                                                       | 參與人員                                                   | 備註                                                         |
-| ---------- | -------------------------------------------------------------------------- | ------------------------------------------------------ | ---------------------------------------------------------- |
-| 2017年7月17日 | [GOODDAY 굿데이 - 나야나 PICK ME](https://www.youtube.com/watch?v=96XkaRBCpv0d)  | VIVA/CHERRY                                            | PICK ME Dance Cover                                        |
-| 2017年7月19日 | [GOOD DAY 굿데이 - 굿보이 GOOD BOY](https://www.youtube.com/watch?v=ufJjhy8VxWM) | VIVA/CHERRY                                            | GOOD BOY Dance Cover                                       |
-| 2017年7月22日 | [굿데이 - 아주 NICE](https://www.youtube.com/watch?v=f_LKeZm_bPs)               | NAYOON/CHERRY/HAEUN/VIVA/LUCKY                         | 아주 NICE Dance Cover                                        |
-| 2017年8月5日  | [굿데이 - FREAK](https://www.youtube.com/watch?v=2kdxOw_Jfcc)                 | 全員                                                     | FREAK Dance Cover                                          |
-| 2017年8月30日 | [GOOD DAY (굿데이) - Rolly](https://www.youtube.com/watch?v=p1c6eDSVGLA)      | 全員、[裴珍映](https://zh.wikipedia.org/wiki/裴珍映 "wikilink") | [裴珍映參與MV男主角](https://zh.wikipedia.org/wiki/裴珍映 "wikilink") |
-|            |                                                                            |                                                        |                                                            |
+| 發佈日期       | MV名稱                                                                       | 參與人員                                | 備註                                      |
+| ---------- | -------------------------------------------------------------------------- | ----------------------------------- | --------------------------------------- |
+| 2017年7月17日 | [GOODDAY 굿데이 - 나야나 PICK ME](https://www.youtube.com/watch?v=96XkaRBCpv0d)  | VIVA/CHERRY                         | PICK ME Dance Cover                     |
+| 2017年7月19日 | [GOOD DAY 굿데이 - 굿보이 GOOD BOY](https://www.youtube.com/watch?v=ufJjhy8VxWM) | VIVA/CHERRY                         | GOOD BOY Dance Cover                    |
+| 2017年7月22日 | [굿데이 - 아주 NICE](https://www.youtube.com/watch?v=f_LKeZm_bPs)               | NAYOON/CHERRY/HAEUN/VIVA/LUCKY      | 아주 NICE Dance Cover                     |
+| 2017年8月5日  | [굿데이 - FREAK](https://www.youtube.com/watch?v=2kdxOw_Jfcc)                 | 全員                                  | FREAK Dance Cover                       |
+| 2017年8月30日 | [GOOD DAY (굿데이) - Rolly](https://www.youtube.com/watch?v=p1c6eDSVGLA)      | 全員、[裴珍映](../Page/裴珍映.md "wikilink") | [裴珍映](../Page/裴珍映.md "wikilink")參與MV男主角 |
+|            |                                                                            |                                     |                                         |
 
 ## 主要音樂節目榜單排名
 

@@ -102,7 +102,7 @@
 <td></td>
 <td><p>2003年6月20日</p></td>
 <td><p>花都開好了</p></td>
-<td><p>電視劇《<a href="../Page/薔薇之戀.md" title="wikilink">薔薇之戀</a>》主題曲，之後另收錄於《<a href="https://zh.wikipedia.org/wiki/Forever_(S.H.E專輯)" title="wikilink">Forever 新歌+精選</a>》；〈花都開好了〉在2003年Hit Fm年度百首單曲中為第29位</p></td>
+<td><p>電視劇《<a href="../Page/薔薇之戀.md" title="wikilink">薔薇之戀</a>》主題曲，之後另收錄於《<a href="https://zh.wikipedia.org/wiki/Forever_(S.H.E專輯)" title="wikilink">Forever 新歌+精選</a>》；〈花都開好了〉在2003年Hit Fm年度百首單曲中為第29位[8]</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -126,7 +126,7 @@
 <td></td>
 <td><p>2006年12月1日</p></td>
 <td><p>怎麼辦</p></td>
-<td><p>電視劇《<a href="../Page/花樣少年少女_(2006年電視劇).md" title="wikilink">花樣少年少女</a>》片頭曲；原聲帶在推出後四個星期衝至台灣<a href="https://zh.wikipedia.org/wiki/G-music" title="wikilink">G-music音樂榜第三名</a>[8]，之後還持續在榜上超過十個星期[9]</p></td>
+<td><p>電視劇《<a href="../Page/花樣少年少女_(2006年電視劇).md" title="wikilink">花樣少年少女</a>》片頭曲；原聲帶在推出後四個星期衝至台灣<a href="https://zh.wikipedia.org/wiki/G-music" title="wikilink">G-music音樂榜第三名</a>[9]，之後還持續在榜上超過十個星期[10]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/鬥牛，要不要.md" title="wikilink">鬥牛，要不要</a>電視原聲帶</p></td>
@@ -173,7 +173,7 @@
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/少年班_(電影)" title="wikilink">少年班電影原聲帶</a></p></td>
 <td><p>2015年5月20日</p></td>
-<td><p><a href="../Page/你曾是少年.md" title="wikilink">你曾是少年</a>[10]</p></td>
+<td><p><a href="../Page/你曾是少年.md" title="wikilink">你曾是少年</a>[11]</p></td>
 <td><p>數位發行，電影《少年班》主題曲</p></td>
 </tr>
 <tr class="even">
@@ -225,7 +225,7 @@
 | 專輯名稱                                                                           | 發行日期        | 演唱曲目   | 備註                                  |
 | ------------------------------------------------------------------------------ | ----------- | ------ | ----------------------------------- |
 | 洪一峰《戀花》紀念專輯                                                                    | 2010年10月22日 | 老唱盤    | 與[洪敬堯](../Page/洪敬堯.md "wikilink")合唱 |
-| 《[女也 Herstory with Mayday](../Page/女也_Herstory_with_Mayday.md "wikilink")》概念專輯 | 2015年6月26日  | 離開地球表面 | \[11\]                              |
+| 《[女也 Herstory with Mayday](../Page/女也_Herstory_with_Mayday.md "wikilink")》概念專輯 | 2015年6月26日  | 離開地球表面 | \[12\]                              |
 |                                                                                |             |        |                                     |
 
 ## 合唱歌曲
@@ -245,7 +245,7 @@
 
 ## 單曲/其它歌曲
 
-  - **註：以下屬於S.H.E團體但未正式收錄於原聲帶、專輯或成員創作（獻唱）給另一成員的歌曲、與S.H.E無直接相關之音樂作品（包括附送單曲、廣告歌曲、群星合唱曲、影劇單曲、數位單曲）皆列入此類，收錄於其他藝人的正規或非正規之專輯、合輯中的歌曲或與他人合唱之歌曲，則不列入此類\[12\]。**
+  - **註：以下屬於S.H.E團體但未正式收錄於原聲帶、專輯或成員創作（獻唱）給另一成員的歌曲、與S.H.E無直接相關之音樂作品（包括附送單曲、廣告歌曲、群星合唱曲、影劇單曲、數位單曲）皆列入此類，收錄於其他藝人的正規或非正規之專輯、合輯中的歌曲或與他人合唱之歌曲，則不列入此類\[13\]。**
 
 <!-- end list -->
 
@@ -637,12 +637,14 @@
 
 7.  其中有兩張是S.H.E的精選集。
 
-8.  [台湾G-MUSIC风云排行榜06年第四十八期](http://ent.sina.com.cn/y/2006-12-31/14501394261.html)
+8.  [Hit Fm2003年度百首單曲](http://www.hitoradio.com/newweb/chart_2.php?ch_year=2003&pageNum_rsList=0)
 
-9.  [台湾G-MUSIC排行榜07年第五期](http://ent.sina.com.cn/y/2007-02-09/20461445496.html)
+9.  [台湾G-MUSIC风云排行榜06年第四十八期](http://ent.sina.com.cn/y/2006-12-31/14501394261.html)
 
-10. [S.H.E唱《少年班》電影主題曲 打動韓寒](http://www.chinatimes.com/realtimenews/20150520004076-260404)
+10. [台湾G-MUSIC排行榜07年第五期](http://ent.sina.com.cn/y/2007-02-09/20461445496.html)
 
-11.
+11. [S.H.E唱《少年班》電影主題曲 打動韓寒](http://www.chinatimes.com/realtimenews/20150520004076-260404)
 
 12.
+
+13.

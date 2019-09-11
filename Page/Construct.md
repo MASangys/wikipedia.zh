@@ -6,7 +6,7 @@
 
 ### 事件系統與行為
 
-在Construct 2中，編輯遊戲的主要方法是透過「事件表」，作用與[程式語言相近](https://zh.wikipedia.org/wiki/程式語言 "wikilink")。每個事件分類中都有許多事件，其中包含[條件運算式或觸發動作](https://zh.wikipedia.org/wiki/條件運算式 "wikilink")。一旦滿足條件，就可以開始運行\[4\]。不必去學習如[OR](https://zh.wikipedia.org/wiki/邏輯或 "wikilink")、[AND以及](https://zh.wikipedia.org/wiki/及閘 "wikilink")[作用域](../Page/作用域.md "wikilink")等複雜的邏輯\[5\]\[6\]。人們可以透過啟用或停用事件，來製作一個事件組合。
+在Construct 2中，編輯遊戲的主要方法是透過「事件表」，作用與[程式語言相近](https://zh.wikipedia.org/wiki/程式語言 "wikilink")。每個事件分類中都有許多事件，其中包含[條件運算式](../Page/條件運算式.md "wikilink")或觸發動作。一旦滿足條件，就可以開始運行\[4\]。不必去學習如[OR](https://zh.wikipedia.org/wiki/邏輯或 "wikilink")、[AND以及](https://zh.wikipedia.org/wiki/及閘 "wikilink")[作用域](../Page/作用域.md "wikilink")等複雜的邏輯\[5\]\[6\]。人們可以透過啟用或停用事件，來製作一個事件組合。
 
 ## 支持平台
 

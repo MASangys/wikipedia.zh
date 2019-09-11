@@ -65,7 +65,7 @@ local list = {
 `   { 'Blackangle', 3 },`
 `   { 'Bmwman', 10 },`
 `   { 'Bowen9314', 7 },`
-`   { 'Bowleerin', 47 },`
+`   { 'Bowleerin', 52 },`
 `   { 'Brianlai', 1 },`
 `   { 'BrockF5', 17 },`
 `   { 'Brookqi', 12 },`
@@ -136,7 +136,7 @@ local list = {
 `   { 'Domon', 3 },`
 `   { 'Dreamcrosser', 5 },`
 `   { 'Driger', 4 },`
-`   { 'Dqwyy', 99 },`
+`   { 'Dqwyy', 104 },`
 `   { 'Dyliu714', 4 },`
 `   { 'Ed cracker', 2 },`
 `   { 'EdmanHK', 5 },`
@@ -150,7 +150,7 @@ local list = {
 `   { 'Eky', 160 },`
 `   { 'Ellery', 8 },`
 `   { 'ER145545', 4 },  `
-`   { 'Ericliu1912', 151},`
+`   { 'Ericliu1912', 170},`
 `   { 'Eternalwind2005', 3 },`
 `   { 'Eternity Traveler', 4 },`
 `   { 'Ex20636', 1 },`
@@ -223,7 +223,7 @@ local list = {
 `   { 'IT DoNT', 1 },`
 `   { 'Itemx', 3 },`
 `   { 'Ivysia', 45, nickname = '艾薇希亞' },`
-`   { 'Jacklamf1d14', 294 },`
+`   { 'Jacklamf1d14', 298 },`
 `   { 'Jackyang721', 3 },`
 `   { 'Jacueni', 2 },`
 `   { 'Jasonforce', 6 },`
@@ -402,7 +402,7 @@ local list = {
 `   { 'Roviury', 2 },`
 `   { 'Ruukka', 2 },`
 `   { 'Ry1808', 2 },`
-`   { 'Ryokie38', 26 },`
+`   { 'Ryokie38', 29 },`
 `   { 'Ryujiwataruse', 3 },`
 `   { 'S. Peter', 5 },`
 `   { 'S19991002', 4 },`

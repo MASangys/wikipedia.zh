@@ -112,8 +112,15 @@
 
 ### 子團
 
-  - [gugudan SEMINA](https://zh.wikipedia.org/wiki/gugudan_SEMINA "wikilink")
+·[gugudan SEMINA](https://zh.wikipedia.org/wiki/gugudan_SEMINA "wikilink")
+
+  -
     成員：[金世正](https://zh.wikipedia.org/wiki/金世正 "wikilink")、[康美娜](https://zh.wikipedia.org/wiki/康美娜 "wikilink")、[金娜英](../Page/娜英.md "wikilink")，2018年7月10日出道，出道專輯為《SEMINA - SINGLE》，而主打曲為《SEMINA》。
+
+·[gugudan OGUOGU](https://zh.wikipedia.org/wiki/gugudan_OGUOGU "wikilink")（已解散）
+
+  -
+    成員:[康美娜](https://zh.wikipedia.org/wiki/康美娜 "wikilink")、[HYEYEON](https://zh.wikipedia.org/wiki/HYEYEON "wikilink")
 
 ### 成員變遷表
 

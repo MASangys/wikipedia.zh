@@ -172,7 +172,7 @@ Oculus認為，長期來看，社交應用程式將成變最受歡迎的虛擬�
 
 2015年初，[奧迪開始在在專賣店使用Rift](https://zh.wikipedia.org/wiki/奧迪 "wikilink") DK2，以協助其客戶配置他們感興趣的車子，並觀看賽車時車子裡看到的景象\[79\]\[80\]。
 
-[挪威陸軍已開始利用Rift](https://zh.wikipedia.org/wiki/挪威陸軍 "wikilink") DK2進行實驗，以讓裝甲車輛駕駛員與指揮官能有最好的[状态意识](../Page/状态意识.md "wikilink")能力\[81\]。
+[挪威陸軍](../Page/挪威陸軍.md "wikilink")已開始利用Rift DK2進行實驗，以讓裝甲車輛駕駛員與指揮官能有最好的[状态意识](../Page/状态意识.md "wikilink")能力\[81\]。
 
 ## 另見
 

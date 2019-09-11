@@ -1,4 +1,4 @@
-**[CASH金帆音樂獎最佳合唱演繹](https://zh.wikipedia.org/wiki/CASH金帆音樂獎 "wikilink")**每年由香港作曲家及作詞家協會所舉辦頒發，表揚年度最出色的合唱演繹。
+**[CASH金帆音樂獎](../Page/CASH金帆音樂獎.md "wikilink")最佳合唱演繹**每年由香港作曲家及作詞家協會所舉辦頒發，表揚年度最出色的合唱演繹。
 
 最佳合唱演繹於2006年創立，至今獲獎最多的歌手是[陳奕迅](../Page/陳奕迅.md "wikilink")、[張敬軒及](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")[王菀之](https://zh.wikipedia.org/wiki/王菀之 "wikilink")，各獲2次。
 

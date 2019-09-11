@@ -509,11 +509,11 @@
 
 ## 那年夏天的梦
 
-《**那年夏天的梦**》（）是中國偶像組合[SNH48的第](https://zh.wikipedia.org/wiki/SNH48 "wikilink")24張EP。
+《**那年夏天的梦**》是中國偶像組合[SNH48的第](https://zh.wikipedia.org/wiki/SNH48 "wikilink")24張EP。
 
 ### 簡介
 
-《那年夏天的梦》是[SNH48](https://zh.wikipedia.org/wiki/SNH48 "wikilink") Group于2019年夏季EP。该张EP的同名曲目由来自SNH48、BEJ48、GNZ48三团组成选拔组共20名成员演绎，且以新生代成员为主，并赴[泰国](../Page/泰国.md "wikilink")[普吉岛取景拍摄MV](https://zh.wikipedia.org/wiki/普吉岛 "wikilink")。EP附有2019年7月27日舉辦的[SNH48 Group第六屆總選舉投票券](https://zh.wikipedia.org/wiki/SNH48_Group第六屆總選舉 "wikilink")。\[16\]
+《那年夏天的梦》是[SNH48](https://zh.wikipedia.org/wiki/SNH48 "wikilink") Group于2019年夏季EP。该张EP的同名曲目由来自SNH48、BEJ48、GNZ48三团组成选拔组共20名成员演绎，且以新生代成员为主，并赴[泰国](../Page/泰国.md "wikilink")[普吉岛取景拍摄MV](https://zh.wikipedia.org/wiki/普吉岛 "wikilink")。EP附有2019年7月27日舉辦的[SNH48 Group第六屆总决选投票券](https://zh.wikipedia.org/wiki/SNH48_Group第六屆总决选 "wikilink")。\[16\]
 
 ### 收錄曲目
 
@@ -538,7 +538,7 @@
 <!-- end list -->
 
   -
-    孙珍妮首次擔任選拔Center。张茜、青钰雯、张梦慧、彭嘉敏、张怀瑾、高源婧、唐莉佳、农燕萍首次參與選拔。
+    孙珍妮首次擔任選拔Center。张茜、青钰雯、张梦慧、彭嘉敏、张怀瑾、高源婧、唐莉佳、农燕萍首次參與選拔。最初李丽满曾被选为选拔成员，但她随后宣布离团，选拔由彭嘉敏代替。
     MV在[泰国](../Page/泰国.md "wikilink")[普吉拍摄](https://zh.wikipedia.org/wiki/普吉 "wikilink")。
 
 
@@ -562,6 +562,75 @@
   - Team G：
   - Team NIII：
   - Team Z：
+
+## 时间的歌
+
+《**时间的歌**》是中國偶像組合[SNH48的第](https://zh.wikipedia.org/wiki/SNH48 "wikilink")25張EP。
+
+### 簡介
+
+《时间的歌》是[SNH48](https://zh.wikipedia.org/wiki/SNH48 "wikilink") Group于2019年秋季发行的EP。本张EP反映了[SNH48 Group第六届总决选的结果](https://zh.wikipedia.org/wiki/SNH48_Group第六届总决选 "wikilink")。
+
+### 收錄曲目
+
+### 選拔成員
+
+  - 括号内为[SNH48 Group第六届总决选的排名](https://zh.wikipedia.org/wiki/SNH48_Group第六届总决选 "wikilink")。
+
+<!-- end list -->
+
+  -
+    **时间的歌**
+
+（Center：李艺彤）
+
+  - Team SII：戴萌（\#9）、孔肖吟（\#6）、莫寒（\#2）、孙芮（\#13）、吴哲晗（\#5）、许佳琪（\#7），张语格（\#4）
+  - Team HII：费沁源（\#15）、李艺彤（\#1）、沈梦瑶（\#16）
+  - Team X：宋昕冉（\#8）
+  - BEJ48 Team B：段艺璇（\#3）
+  - BEJ48 Team E：苏杉杉（\#14）
+  - GNZ48 Team G：陈珂（\#10）
+  - GNZ48 Team NIII：刘力菲（\#12）、唐莉佳（\#11）
+
+<!-- end list -->
+
+  -
+    沈梦瑶首次參與選拔。
+    MV在[日本](../Page/日本.md "wikilink")[札幌拍摄](https://zh.wikipedia.org/wiki/札幌 "wikilink")。
+
+
+:**勇不勇敢** （Center：钱蓓婷）
+
+  - Team SII：刘增艳（\#30）、钱蓓婷（\#17）
+  - Team NII：周诗雨（\#27）、张雨鑫（\#32）
+  - Team HII：姜杉（\#31）、许杨玉琢（\#22）、袁一琦（\#21）、张昕（\#20）
+  - Team X：冯晓菲（\#24）、王晓佳（\#29）
+  - BEJ48 Team B：胡晓慧（\#28）、刘姝贤（\#26）
+  - BEJ48 Team J：张怀瑾（\#25）
+  - GNZ48 Team G：谢蕾蕾（\#23）
+  - GNZ48 Team NIII：郑丹妮（\#19）、左婧媛（\#18）
+
+<!-- end list -->
+
+  -
+    MV在[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[首尔拍摄](https://zh.wikipedia.org/wiki/首尔 "wikilink")。歌曲于2019年8月23日在首尔[Soribada最佳音乐大奖上首秀](https://zh.wikipedia.org/wiki/Soribada最佳音乐大奖 "wikilink")。
+
+
+:**（未公开）** （Center：杨冰怡）
+
+  - Team SII：徐子轩（\#36）
+  - Team HII：宋雨珊（\#43）
+  - Team X：李星羽（\#42）、汪佳翎（\#40）、杨冰怡（\#33）
+  - BEJ48 Team E：陈倩楠（\#48）、刘胜男（\#35）
+  - BEJ48 Team J：黄恩茹（\#41）
+  - GNZ48 Team G：曾艾佳（\#37）、张琼予（\#38）、朱怡欣（\#45）
+  - GNZ48 Team NIII：卢静（\#47）
+  - GNZ48 Team Z：方琪（\#34）、杨媛媛（\#46）
+
+<!-- end list -->
+
+  -
+    MV在[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[北京拍摄](https://zh.wikipedia.org/wiki/北京 "wikilink")。
 
 ## 相關條目
 

@@ -30,6 +30,9 @@ SIG設計的上機匣可在裝上適配器以後與標準的[AR-15和](../Page/A
 
   -   - ，SIG MCX短管步槍型\[35\]
 
+  -   - [薩斯喀徹溫省護理人員](https://zh.wikipedia.org/wiki/薩斯喀徹溫省 "wikilink")
+
+  -   -
   -   - 愛沙尼亞刑事警察
 
   -   -
@@ -42,7 +45,9 @@ SIG設計的上機匣可在裝上適配器以後與標準的[AR-15和](../Page/A
   -   -
   -   - \[38\]\[39\]
 
-  -   - [荷蘭海軍陸戰隊水上特種作戰部隊](https://zh.wikipedia.org/wiki/荷蘭海軍陸戰隊 "wikilink")\[40\]
+  -   - [荷蘭海軍陸戰隊海上特種作戰部隊](https://zh.wikipedia.org/wiki/荷蘭海軍陸戰隊 "wikilink")\[40\]
+
+  -   - [波蘭武裝力量](../Page/波蘭軍事.md "wikilink")[行動應變及機動組](../Page/行動應變及機動組.md "wikilink")
 
   -   - [特别行动组](../Page/特别行动组_\(葡萄牙\).md "wikilink")，SIG MCX 5.56毫米口徑\[41\]
 

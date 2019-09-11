@@ -1,5 +1,7 @@
 《**Free Fire - 我要活下去**》（，或稱作）是一款[大逃殺生存](https://zh.wikipedia.org/wiki/大逃殺遊戲 "wikilink")[射擊遊戲](https://zh.wikipedia.org/wiki/射擊遊戲 "wikilink")，由[Garena推出](https://zh.wikipedia.org/wiki/Garena "wikilink")，[2017年](../Page/2017年.md "wikilink")11月17日至12月3日間進行封測，同年12月4日正式開放下載，後又每隔1個[月](../Page/月.md "wikilink")至2個月進行了多次大改版。至今在Google play商店中已超過一億次下載次數。\[1\]一局時間約為十五分鐘，可以使用[Facebook](../Page/Facebook.md "wikilink")或[VKontakte](../Page/VKontakte.md "wikilink")帳號登入遊玩，亦可使用遊客帳戶登入遊玩，玩家名稱不得重複。\[2\]
 
+本次改版內容新增部分轉蛋機率調整，由原傳奇轉蛋幸運值50保證中獎改為隨機中獎。
+
 ## 玩法
 
 遊戲會將玩家置於一個荒島場景，玩家則要在場景內尋找各種武器、裝備，使用各種遊戲技巧使他人失敗，以成為最後倖存者。通關後會顯示字樣「大吉大利，今晚吃雞」。
@@ -33,6 +35,7 @@
   - 島田隼：武士道，血量越低、護甲穿透傷害越高。
   - 柔拉：開鏡時精準提升。
   - 拉斐爾:開槍後可隱藏聲音（小地圖不會出現紅點，與消音器相似）。
+  - A124:將ep值轉25點為hp值
 
 ## 其他
 

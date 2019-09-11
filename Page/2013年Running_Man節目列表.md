@@ -67,7 +67,7 @@
 或<br />
 保護「蛇」</p></td>
 <td><p>智孝女王隊<strong>勝出</strong><br />
-「蛇」：<a href="../Page/宋智孝.md" title="wikilink">宋智孝</a><br />
+「蛇」：宋智孝<br />
 以智孝隊名義捐贈一噸大米<br />
 </p></td>
 </tr>
@@ -115,8 +115,8 @@
 <span style=color:#FF0000><strong>偶像隊</strong></span><br />
 珉豪、L、李準、鄭容和、李宗泫、光熙、Sulli</p></td>
 <td><p>擊敗其餘的隊伍</p></td>
-<td><p><a href="../Page/Running_Man.md" title="wikilink">Running Man隊</a><strong>勝出</strong><br />
-獲得<a href="../Page/金.md" title="wikilink">金</a>色名牌</p></td>
+<td><p>Running Man隊<strong>勝出</strong><br />
+獲得金色名牌</p></td>
 </tr>
 <tr class="even">
 <td><p>101</p></td>
@@ -132,8 +132,8 @@
 <strong>個人戰</strong><br />
 沒有隊伍</p></td>
 <td><p>尋找寶箱</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/哈哈" title="wikilink">哈哈</a><strong>勝出</strong><br />
-獲得<a href="../Page/金.md" title="wikilink">金</a>條一箱</p></td>
+<td><p>哈哈<strong>勝出</strong><br />
+獲得金條一箱</p></td>
 </tr>
 <tr class="odd">
 <td><p>102</p></td>
@@ -242,7 +242,7 @@ Gary、宋智孝、李棟旭</p></td>
 <span style=color:#008000><strong>綠隊</strong></span>：池錫辰、哈哈、李光洙</p></td>
 <td><p>飛鏢投中靶心</p></td>
 <td><p>紅隊<strong>勝出</strong><br />
-獲得<a href="https://zh.wikipedia.org/wiki/黃金" title="wikilink">黃金靴</a>、並轉送<a href="../Page/成龍.md" title="wikilink">成龍</a><br />
+獲得黃金靴、並轉送成龍<br />
 <em><strong>註：</strong>宣傳電影《<a href="../Page/十二生肖_(電影).md" title="wikilink">十二生肖</a>》</em></p></td>
 </tr>
 <tr class="even">
@@ -258,8 +258,8 @@ Gary、宋智孝、李棟旭</p></td>
 <strong>個人戰</strong><br />
 沒有隊伍</p></td>
 <td><p>擊敗其餘的Running Man</p></td>
-<td><p><a href="../Page/宋智孝.md" title="wikilink">宋智孝</a><strong>勝出</strong><br />
-獲得絕對<a href="../Page/金.md" title="wikilink">金</a>劍並還給傳說的烏龜使世界太平</p></td>
+<td><p>宋智孝<strong>勝出</strong><br />
+獲得絕對金劍並還給傳說的烏龜使世界太平</p></td>
 </tr>
 <tr class="odd">
 <td><p>107</p></td>
@@ -278,7 +278,7 @@ Gary、宋智孝、李棟旭</p></td>
 <span style=color:#0000FF><strong>藍溫達隊</strong></span>：Gary、哈哈、宋智孝</p></td>
 <td><p>擊敗其餘的隊伍</p></td>
 <td><p>綠溫達隊<strong>勝出</strong><br />
-獲得<a href="../Page/金.md" title="wikilink">金</a>戒指一對、<a href="https://zh.wikipedia.org/wiki/U-ie" title="wikilink">U-ie選擇與</a><a href="../Page/李光洙.md" title="wikilink">李光洙</a>分享<br />
+獲得金戒指一對、U-ie選擇與李光洙分享<br />
 <em><strong>註：</strong><a href="../Page/朴敏荷.md" title="wikilink">朴敏荷</a>特別出演</em></p></td>
 </tr>
 <tr class="even">
@@ -348,7 +348,7 @@ Gary、宋智孝、李棟旭</p></td>
 <strong>任務隊（個人戰）</strong><br />
 池錫辰、金鐘國、Gary、哈哈</p></td>
 <td><p>尋找笑容疫苗</p></td>
-<td><p><a href="../Page/劉在錫.md" title="wikilink">劉在錫</a><strong>勝出</strong><br />
+<td><p>劉在錫<strong>勝出</strong><br />
 '<strong>'註：</strong>特別出演</p></td>
 </tr>
 <tr class="odd">
@@ -365,8 +365,8 @@ Gary、宋智孝、李棟旭</p></td>
 <strong>個人戰</strong><br />
 沒有隊伍</p></td>
 <td><p>擊敗其餘的Running Man</p></td>
-<td><p><a href="../Page/李光洙.md" title="wikilink">李光洙</a><strong>勝出</strong><br />
-獲得<a href="../Page/金.md" title="wikilink">金</a>王冠</p></td>
+<td><p>李光洙<strong>勝出</strong><br />
+獲得金王冠</p></td>
 </tr>
 <tr class="even">
 <td><p>112</p></td>
@@ -411,12 +411,12 @@ Gary、宋智孝、李相侖<br />
 <a href="../Page/中區_(首爾).md" title="wikilink">中區</a><a href="https://zh.wikipedia.org/wiki/太平路_(首爾)" title="wikilink">太平路</a>）</small></p></td>
 <td><p><span style=font-size:110%><strong>超能力練歌廳</strong></span><br />
 <span style=color:#FF8C00><strong>橙隊</strong></span><br />
-<a href="../Page/劉在錫.md" title="wikilink">劉在錫</a>、<a href="https://zh.wikipedia.org/wiki/池錫辰" title="wikilink">池錫辰</a>、<a href="../Page/宋智孝.md" title="wikilink">宋智孝</a>、<a href="../Page/李光洙.md" title="wikilink">李光洙</a>、<a href="../Page/李敬揆.md" title="wikilink">李敬揆</a><br />
+劉在錫、池錫辰、宋智孝、李光洙、李敬揆<br />
 <span style=color:#0000FF><strong>藍隊</strong></span><br />
 金鐘國、Gary、哈哈、金吝勸、柳賢慶</p></td>
 <td><p>擊敗其餘的隊伍</p></td>
 <td><p>橙隊<strong>勝出</strong><br />
-獲得<a href="https://zh.wikipedia.org/wiki/黃金" title="wikilink">黃金獎盃</a>、並轉送<a href="../Page/柳賢慶.md" title="wikilink">柳賢慶</a><br />
+獲得黃金獎盃、並轉送柳賢慶<br />
 '<strong>'註：</strong>宣傳電影《<a href="../Page/全國歌唱比賽.md" title="wikilink">全國歌唱比賽</a>》<br />
 <a href="../Page/朴玄彬.md" title="wikilink">朴玄彬</a>特別出演</p></td>
 </tr>
@@ -440,8 +440,8 @@ Gary、宋智孝、李相侖<br />
 <span style=color:#FFBF00>金鐘國、Ricky Kim</span><br />
 <span style=color:#008000>Gary、宋智孝</span><br />
 <span style=color:#FF0000>哈哈、徐章勳</span></strong></p></td>
-<td><p><a href="../Page/劉在錫.md" title="wikilink">劉在錫</a>、<a href="../Page/車仁杓.md" title="wikilink">車仁杓</a><strong>勝出</strong><br />
-以<a href="../Page/劉在錫.md" title="wikilink">劉在錫</a>、<a href="https://zh.wikipedia.org/wiki/車仁" title="wikilink">車仁杓名義捐贈一千雙</a><a href="https://zh.wikipedia.org/wiki/運動鞋" title="wikilink">運動鞋予</a><a href="https://zh.wikipedia.org/wiki/江原道" title="wikilink">江原道</a><a href="https://zh.wikipedia.org/wiki/兒童福利協會" title="wikilink">兒童福利協會及江原道</a><a href="https://zh.wikipedia.org/wiki/社會福利協議會" title="wikilink">社會福利協議會</a></p></td>
+<td><p>劉在錫、車仁杓<strong>勝出</strong><br />
+以劉在錫、車仁杓名義捐贈一千雙運動鞋予江原道兒童福利協會及江原道社會福利協議會</p></td>
 </tr>
 <tr class="odd">
 <td><p>115</p></td>
@@ -460,8 +460,8 @@ Gary、宋智孝、李相侖<br />
 劉在錫、池錫辰、金鐘國、Gary、宋智孝、李光洙<br />
 <span style=color:#FF0000><strong>叢林的法則隊</strong></span><br />
 哈哈、金炳萬、盧宇振、朴正哲、全慧彬、鄭珍雲</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/叢林的法則" title="wikilink">叢林的法則隊</a><strong>勝出</strong><br />
-獲得六隻<a href="../Page/金.md" title="wikilink">金</a>戒指<br />
+<td><p>叢林的法則隊<strong>勝出</strong><br />
+獲得六隻金戒指<br />
 '<strong>'註：</strong><a href="https://zh.wikipedia.org/wiki/孫藝珍" title="wikilink">孫藝珍驚喜聲演</a></p></td>
 <td></td>
 </tr>
@@ -479,7 +479,7 @@ Gary、宋智孝、李相侖<br />
 <strong>背叛者俱樂部</strong><br />
 池錫辰、哈哈、李光洙<br />
 <span style=color:#0000FF><strong>刑警1隊</strong></span><br />
-<a href="../Page/劉在錫.md" title="wikilink">劉在錫</a>、<a href="../Page/宋智孝.md" title="wikilink">宋智孝</a>、<a href="https://zh.wikipedia.org/wiki/金相慶" title="wikilink">金相慶</a><br />
+劉在錫、宋智孝、金相慶<br />
 <span style=color:#FF8C00><strong>刑警2隊</strong></span><br />
 金鐘國、Gary、嚴正化</p></td>
 <td><p><strong>背叛者俱樂部</strong><br />
@@ -487,8 +487,8 @@ Gary、宋智孝、李相侖<br />
 <strong>刑警</strong><br />
 擊敗背叛者俱樂部並奪得「未來筆記」，在「未來筆記」簽名。</p></td>
 <td><p>刑警1隊<strong>勝出</strong><br />
-獲得<a href="../Page/金.md" title="wikilink">金</a>勳章<br />
-<a href="../Page/宋智孝.md" title="wikilink">宋智孝</a>奪得「未來筆記」，將獲劇組製作以她為主角的特輯<br />
+獲得金勳章<br />
+宋智孝奪得「未來筆記」，將獲劇組製作以她為主角的特輯<br />
 其特輯於163集播出<br />
 '<strong>'註：</strong>宣傳電影《<a href="https://zh.wikipedia.org/wiki/模犯母親" title="wikilink">重罪犯</a>》</p></td>
 </tr>
@@ -527,7 +527,7 @@ Gary、宋智孝、李相侖<br />
 <span style=color:#0000FF><strong>藍隊</strong></span>：Gary、哈哈、宋智孝</p></td>
 <td><p>完成多米諾骨牌遊戲</p></td>
 <td><p>紅隊<strong>勝出</strong><br />
-獲得3把<a href="../Page/金.md" title="wikilink">金</a>湯匙<br />
+獲得3把金湯匙<br />
 <em><strong>註：</strong>概念來自電影《<a href="../Page/逃出魔幻紀.md" title="wikilink">逃出魔幻紀</a>》</em></p></td>
 </tr>
 <tr class="odd">
@@ -550,8 +550,8 @@ Gary、宋智孝、李相侖<br />
 <span style=color:#0000FF>宋智孝、池錫辰</span><br />
 <span style=color:#808080>權梨世、李光洙</span></strong></p></td>
 <td><p>收集九條狐狸尾巴</p></td>
-<td><p><a href="../Page/宋恩伊.md" title="wikilink">宋恩伊</a>、<a href="https://zh.wikipedia.org/wiki/哈哈" title="wikilink">哈哈</a><strong>勝出</strong><br />
-宋恩伊獲得<a href="../Page/金.md" title="wikilink">金</a>如意珠</p></td>
+<td><p>宋恩伊、哈哈<strong>勝出</strong><br />
+宋恩伊獲得金如意珠</p></td>
 </tr>
 <tr class="even">
 <td><p>120</p></td>
@@ -658,7 +658,7 @@ Sulli｜朴智星、劉在錫、Gary、哈哈<br />
 埃夫拿、池錫辰、金鐘國、宋智孝、李光洙</p></td>
 <td><p>擊敗其餘的隊伍</p></td>
 <td><p>-{zh-hans:埃弗拉;zh-hk:艾夫拿;zh-tw:埃夫拉}-隊<strong>勝出</strong><br />
-獲得兩個<a href="https://zh.wikipedia.org/wiki/亞洲夢想盃" title="wikilink">亞洲夢想盃出賽權</a><br />
+獲得兩個亞洲夢想盃出賽權<br />
 朴智星選擇劉在錫及哈哈、-{zh-hans:埃弗拉;zh-hk:艾夫拿;zh-tw:埃夫拉}-選擇金鐘國及李光洙</p></td>
 <td></td>
 <td></td>
@@ -702,12 +702,12 @@ Sulli｜朴智星、劉在錫、Gary、哈哈<br />
 <a href="https://zh.wikipedia.org/wiki/永登浦區" title="wikilink">永登浦區</a>）<br />
 </small></p></td>
 <td><p><span style=font-size:110%><strong>外星人</strong></span><br />
-<span style=color:#FF1493><strong>粉隊</strong></span>：<a href="../Page/劉在錫.md" title="wikilink">劉在錫</a>、<a href="../Page/李光洙.md" title="wikilink">李光洙</a>、<a href="../Page/朴春.md" title="wikilink">朴春</a>、<a href="../Page/孔旻智.md" title="wikilink">孔旻智</a><br />
+<span style=color:#FF1493><strong>粉隊</strong></span>：劉在錫、李光洙、朴春、孔旻智<br />
 <span style=color:#FF8C00><strong>橙隊</strong></span>：Gary、哈哈、CL、Sandara Park<br />
 <span style=color:#008000><strong>綠隊</strong></span>：池錫辰、金鐘國、宋智孝、太陽[8]</p></td>
 <td><p>收集21公升水</p></td>
 <td><p>粉隊<strong>勝出</strong><br />
-獲得<a href="https://zh.wikipedia.org/wiki/黃金" title="wikilink">黃金飛碟</a>、並轉送2NE1<br />
+獲得黃金飛碟、並轉送2NE1<br />
 '<strong>'註：</strong><br />
 <a href="../Page/太陽_(歌手).md" title="wikilink">太陽</a>（<a href="https://zh.wikipedia.org/wiki/BIGBANG" title="wikilink">BIGBANG</a>）、<a href="../Page/李遐怡.md" title="wikilink">李遐怡</a>、<a href="https://zh.wikipedia.org/wiki/樂童音樂家" title="wikilink">樂童音樂家特別出演</a></p></td>
 </tr>
@@ -731,7 +731,7 @@ Sulli｜朴智星、劉在錫、Gary、哈哈<br />
 劉在錫｜李光洙、鄭雄仁、安吉強、金希沅</p></td>
 <td><p>打贏官司</p></td>
 <td><p>疑犯隊<strong>勝出</strong><br />
-犯人：<a href="../Page/鄭雄仁.md" title="wikilink">鄭雄仁</a></p></td>
+犯人：鄭雄仁</p></td>
 </tr>
 <tr class="even">
 <td><p>126</p></td>
@@ -777,10 +777,10 @@ Sulli｜朴智星、劉在錫、Gary、哈哈<br />
 <span style=color:#FF1493>李光洙、John Park</span><br />
 <span style=color:#00CED1>趙正治、鄭仁</span></strong></p></td>
 <td><p>收集最多金條</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Gary" title="wikilink">Gary</a>、<a href="../Page/宋智孝.md" title="wikilink">宋智孝</a>、<a href="../Page/趙正治.md" title="wikilink">趙正治</a>、<a href="../Page/鄭仁.md" title="wikilink">鄭仁</a><strong>勝出</strong><br />
+<td><p>Gary、宋智孝、趙正治、鄭仁<strong>勝出</strong><br />
 但由於趙正治、鄭仁的選擇不同<br />
-<a href="https://zh.wikipedia.org/wiki/Gary" title="wikilink">Gary</a>、<a href="../Page/宋智孝.md" title="wikilink">宋智孝</a>共獲得<a href="../Page/金.md" title="wikilink">金</a>條8條<br />
-<a href="../Page/趙正治.md" title="wikilink">趙正治</a>單獨獲得<a href="../Page/金.md" title="wikilink">金</a>條4條</p></td>
+Gary、宋智孝共獲得金條8條<br />
+趙正治單獨獲得金條4條</p></td>
 </tr>
 <tr class="even">
 <td><p>128</p></td>
@@ -798,8 +798,8 @@ Sulli｜朴智星、劉在錫、Gary、哈哈<br />
 <strong>個人戰</strong><br />
 沒有隊伍</p></td>
 <td><p>取得雙方「不死者」之姓名牌並放置於寶箱上，於詛咒解除後獲得金幣。</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/神話" title="wikilink">神話隊</a><strong>勝出</strong><br />
-獲得<a href="https://zh.wikipedia.org/wiki/金幣" title="wikilink">金幣</a>84個<br />
+<td><p>神話隊<strong>勝出</strong><br />
+獲得金幣84個<br />
 <em><strong>註：</strong>嘉賓於本集僅特別出演<br />
 概念來自電影《<a href="https://zh.wikipedia.org/wiki/雪國列車" title="wikilink">雪國列車</a>》</em></p></td>
 </tr>
@@ -845,10 +845,10 @@ vs<br />
 <span style=color:#FF8C00>宋智孝、尹斗俊、李起光</span><br />
 <span style=color:#0000FF>李光洙、昇昊、李準</span></strong></p></td>
 <td><p>拔出旗幟</p></td>
-<td><p><a href="../Page/宋智孝.md" title="wikilink">宋智孝</a>、<a href="../Page/尹斗俊.md" title="wikilink">尹斗俊</a>、<a href="../Page/李起光.md" title="wikilink">李起光</a><strong>勝出</strong><br />
+<td><p>宋智孝、尹斗俊、李起光<strong>勝出</strong><br />
 獲得獎盃<br />
 <em><strong>註：</strong>宣傳清州國際工藝雙年展<br />
-<a href="https://zh.wikipedia.org/wiki/Yura_(歌手)" title="wikilink">Yura</a>、<a href="https://zh.wikipedia.org/wiki/方珉雅" title="wikilink">珉雅因海外行程未能參與最終任務</a></em></p></td>
+Yura、珉雅因海外行程未能參與最終任務</em></p></td>
 </tr>
 <tr class="odd">
 <td><p>130</p></td>
@@ -868,8 +868,8 @@ vs<br />
 <span style=color:#0000FF><strong>勝利隊</strong></span>：勝利、池錫辰、哈哈</p></td>
 <td><p>撲克牌點數<br />
 總和最大</p></td>
-<td><p><a href="../Page/宋智孝.md" title="wikilink">宋智孝</a><strong>勝出</strong><br />
-獲得<a href="../Page/金.md" title="wikilink">金</a>條6條</p></td>
+<td><p>宋智孝<strong>勝出</strong><br />
+獲得金條6條</p></td>
 </tr>
 <tr class="even">
 <td><p>131</p></td>
@@ -885,10 +885,10 @@ vs<br />
 <span style=color:#FF8C00><strong>海淑家</strong></span><br />
 金海淑、劉在錫、池錫辰、金鐘國<br />
 <span style=color:#008000><strong>智孝家</strong></span><br />
-<a href="../Page/宋智孝.md" title="wikilink">宋智孝</a>、<a href="https://zh.wikipedia.org/wiki/Gary" title="wikilink">Gary</a>、<a href="https://zh.wikipedia.org/wiki/哈哈" title="wikilink">哈哈</a>、<a href="../Page/李光洙.md" title="wikilink">李光洙</a>、<a href="../Page/劉亞仁.md" title="wikilink">劉亞仁</a></span></p></td>
+宋智孝、Gary、哈哈、李光洙、劉亞仁</span></p></td>
 <td><p>製作絕代料理</p></td>
 <td><p>智孝家<strong>勝出</strong><br />
-獲得<a href="https://zh.wikipedia.org/wiki/黃金" title="wikilink">黃金絕代</a><a href="https://zh.wikipedia.org/wiki/湯勺" title="wikilink">湯勺</a><br />
+獲得黃金絕代湯勺<br />
 '<strong>'註</strong>：宣傳電影《<a href="../Page/強哲.md" title="wikilink">強哲</a>》<br />
 特別出演</p></td>
 </tr>
@@ -1029,7 +1029,7 @@ vs<br />
 劉在錫、金鐘國、Gary、哈哈、宋智孝、李光洙、尹帝文、T.O.P、金有貞</p></td>
 <td><p>擊敗魔法師</p></td>
 <td><p>桃樂絲遠征隊<strong>勝出</strong><br />
-<a href="../Page/尹帝文.md" title="wikilink">尹帝文</a>、<a href="https://zh.wikipedia.org/wiki/T.O.P" title="wikilink">T.O.P</a>、<a href="https://zh.wikipedia.org/wiki/金有貞" title="wikilink">金有貞獲得</a><a href="../Page/金.md" title="wikilink">金</a>戒指<br />
+尹帝文、T.O.P、金有貞獲得金戒指<br />
 <em><strong>註：</strong>宣傳電影《<a href="../Page/同窗生.md" title="wikilink">同窗生</a>》<br />
 本集尾段提前播放下集</em></p></td>
 </tr>
@@ -1084,7 +1084,7 @@ vs<br />
 <strong>個人戰</strong><br />
 沒有隊伍</p></td>
 <td><p>尋找枕頭並在被褥上枕好</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金鐘國" title="wikilink">金鐘國</a>、<a href="https://zh.wikipedia.org/wiki/哈哈" title="wikilink">哈哈</a>、<a href="../Page/宋智孝.md" title="wikilink">宋智孝</a>、<a href="../Page/李光洙.md" title="wikilink">李光洙</a>、<a href="../Page/柳賢振.md" title="wikilink">柳賢振</a>、<a href="../Page/秀智.md" title="wikilink">秀智</a><strong>勝出</strong><br />
+<td><p>金鐘國、哈哈、宋智孝、李光洙、柳賢振、秀智<strong>勝出</strong><br />
 劉在錫、池錫辰、Gary清洗晚餐餐具<br />
 <em><strong>註：</strong>本集首段承接播放上集</em></p></td>
 <td></td>
@@ -1101,10 +1101,10 @@ vs<br />
 <span style=color:#FF0000><strong>在錫隊</strong></span><br />
 劉在錫、哈哈、宋智孝、李光洙、李炳圭、金賢洙<br />
 <span style=color:#0000FF><strong>賢振隊</strong></span><br />
-<a href="../Page/柳賢振.md" title="wikilink">柳賢振</a>、<a href="https://zh.wikipedia.org/wiki/池錫辰" title="wikilink">池錫辰</a>、<a href="https://zh.wikipedia.org/wiki/金鐘國" title="wikilink">金鐘國</a>、<a href="https://zh.wikipedia.org/wiki/Gary" title="wikilink">Gary</a>、<a href="../Page/秀智.md" title="wikilink">秀智</a>、<a href="https://zh.wikipedia.org/wiki/申炅賢" title="wikilink">申炅賢</a></p></td>
+柳賢振、池錫辰、金鐘國、Gary、秀智、申炅賢</p></td>
 <td><p>擊敗其餘的隊伍</p></td>
 <td><p>賢振隊<strong>勝出</strong><br />
-每人獲得<a href="../Page/金.md" title="wikilink">金</a>戒指1個<br />
+每人獲得金戒指1個<br />
 <em><strong>註：</strong>本集首段承接播放上集<br />
 、特別出演</em></p></td>
 <td></td>
@@ -1128,8 +1128,8 @@ vs<br />
 <span style=color:#FF1493>Gary、宋智孝</span><br />
 <span style=color:#008000>李光洙、李昇基</span></strong></p></td>
 <td><p>猜出最終數字</p></td>
-<td><p><a href="../Page/李光洙.md" title="wikilink">李光洙</a>、<a href="../Page/李昇基.md" title="wikilink">李昇基</a><strong>勝出</strong><br />
-獲得<a href="../Page/金.md" title="wikilink">金</a>條5條'''<br />
+<td><p>李光洙、李昇基<strong>勝出</strong><br />
+獲得金條5條'''<br />
 答案:14358</p></td>
 </tr>
 <tr class="even">
@@ -1170,20 +1170,20 @@ vs<br />
 <strong>團體戰</strong></p></td>
 <td><p>猜對最終順序</p></td>
 <td><p>全員<strong>勝出</strong><br />
-每人獲得<a href="https://zh.wikipedia.org/wiki/金幣" title="wikilink">金幣</a>1個<br />
+每人獲得金幣1個<br />
 排序：<br />
-1. <a href="../Page/劉在錫.md" title="wikilink">劉在錫</a><br />
-2. <a href="https://zh.wikipedia.org/wiki/Gary" title="wikilink">Gary</a><br />
-3. <a href="https://zh.wikipedia.org/wiki/張基河" title="wikilink">張基河</a><br />
-4. <a href="../Page/李笛.md" title="wikilink">李笛</a><br />
-5. <a href="https://zh.wikipedia.org/wiki/金鐘國" title="wikilink">金鐘國</a><br />
-6. <a href="../Page/李光洙.md" title="wikilink">李光洙</a><br />
-7. <a href="https://zh.wikipedia.org/wiki/全炫茂" title="wikilink">全炫茂</a><br />
-8. <a href="../Page/金光奎.md" title="wikilink">金光奎</a><br />
-9. <a href="https://zh.wikipedia.org/wiki/哈哈" title="wikilink">哈哈</a><br />
-10. <a href="https://zh.wikipedia.org/wiki/Muzie" title="wikilink">Muzie</a><br />
-11. <a href="https://zh.wikipedia.org/wiki/池錫辰" title="wikilink">池錫辰</a><br />
-<em><strong>註：</strong><a href="../Page/宋智孝.md" title="wikilink">宋智孝</a>於本集以主持身份出演</em></p></td>
+1. 劉在錫<br />
+2. Gary<br />
+3. 張基河<br />
+4. 李笛<br />
+5. 金鐘國<br />
+6. 李光洙<br />
+7. 全炫茂<br />
+8. 金光奎<br />
+9. 哈哈<br />
+10. Muzie<br />
+11. 池錫辰<br />
+<em><strong>註：</strong>宋智孝於本集以主持身份出演</em></p></td>
 </tr>
 <tr class="even">
 <td><p>142</p></td>
@@ -1197,14 +1197,14 @@ vs<br />
 <a href="../Page/盆唐區.md" title="wikilink">盆唐區</a>）</small></p></td>
 <td><p><span style=font-size:110%><strong>聖誕節的噩夢－Gary綁架事件</strong></span><br />
 <strong>共犯</strong></span><br />
-<a href="https://zh.wikipedia.org/wiki/Gary" title="wikilink">Gary</a>、<a href="https://zh.wikipedia.org/wiki/吉" title="wikilink">吉</a><br />
+Gary、吉<br />
 <strong>任務隊</strong></span><br />
 <span style=color:#0000FF><strong>劉在錫、池錫辰</strong><br />
 <span style=color:#FF0000><strong>金鐘國、哈哈</strong></span><br />
 <span style=color:#FFBF00><strong>宋智孝、李光洙</strong></p></td>
 <td><p>與Gary一起登上頒獎台</p></td>
 <td><p>共犯<strong>勝出</strong><br />
-獲得7塊<a href="https://zh.wikipedia.org/wiki/金塊" title="wikilink">金塊</a><br />
+獲得7塊金塊<br />
 <em><strong>註：</strong><a href="../Page/趙正治.md" title="wikilink">趙正治</a>、<a href="../Page/鄭仁.md" title="wikilink">鄭仁</a>、、（<a href="../Page/Dynamic_Duo.md" title="wikilink">Dynamic Duo</a>）、<a href="../Page/朴初瓏.md" title="wikilink">朴初瓏</a>、<a href="../Page/尹普美.md" title="wikilink">尹普美</a>、<a href="../Page/鄭恩地.md" title="wikilink">鄭恩地</a>（<a href="https://zh.wikipedia.org/wiki/A_Pink" title="wikilink">A Pink</a>）特別出演</em></p></td>
 </tr>
 <tr class="odd">
@@ -1223,7 +1223,7 @@ vs<br />
 <span style=color:#008000><strong>製作組</strong></span></p></td>
 <td><p>奪得隊伍<br />
 Running Ball</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/製作組" title="wikilink">製作組</a><strong>勝出</strong><br />
+<td><p>製作組<strong>勝出</strong><br />
 由於人為錯誤，製作組最後被水澆。<br />
 <em><strong>註：</strong>特別出演</em></p></td>
 </tr>

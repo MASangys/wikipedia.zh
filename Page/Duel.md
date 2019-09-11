@@ -142,7 +142,7 @@
 <td><p>延邊出身，私人賽馬組織老闆。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/曹秀香" title="wikilink">曹秀香</a></p></td>
+<td><p><a href="../Page/曹秀香.md" title="wikilink">曹秀香</a></p></td>
 <td><p>朴淑珍</p></td>
 <td><p><a href="../Page/鄭家蕙.md" title="wikilink">鄭家蕙</a></p></td>
 <td><p>會長的女兒。</p></td>

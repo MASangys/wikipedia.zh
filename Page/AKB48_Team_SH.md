@@ -1,4 +1,4 @@
-**AKB48 Team SH**為以[中國](../Page/中國.md "wikilink")[上海為活動據點的女子偶像團體](https://zh.wikipedia.org/wiki/上海 "wikilink")，同時也是[日本偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[AKB48](../Page/AKB48.md "wikilink")的第6個海外姐妹團。總製作人由作詞家[秋元康](../Page/秋元康.md "wikilink")擔任。現時共有21名成員。
+**AKB48 Team SH**為以[中國](../Page/中國.md "wikilink")[上海為活動據點的女子偶像團體](https://zh.wikipedia.org/wiki/上海 "wikilink")，同時也是[日本偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[AKB48](../Page/AKB48.md "wikilink")的第6個海外姐妹團。總製作人由作詞家[秋元康](../Page/秋元康.md "wikilink")擔任。現時共有43名成員。
 
 ## 簡介
 
@@ -23,21 +23,22 @@
 
   - 3月27日，毛唯嘉與劉念兩人以预备成员身分加入AKB48 CHINA\[5\]。
   - 4月10日，AKB48於官方部落格正式公布中國新的官方姐妹團體名稱為「**AKB48 Team SH**」，同時發表一期生徵選活動相關事宜，徵選網站於當日上線\[6\]。
-  - 7月24日，一期生招募决赛举行，共34名成員合格。預備成員毛唯嘉與劉念亦作為一期生正式加入Team SH\[7\]。
-  - 8月8日，官方自微博公布一期生名单，共有23人进入组合\[8\]。
-  - 10月27日，在“天猫亚洲偶像嘉年华”中，AKB48 Team SH首次公开亮相并表演\[9\]。
-  - 12月3日，举行出道新闻发布会\[10\]，以数字单曲《Love Trip》（AKB48《[LOVE TRIP](https://zh.wikipedia.org/wiki/LOVE_TRIP "wikilink")》中文版）正式出道。
-  - 12月27日，官方宣布自10月起未参加活动的刘绘和刘奕含两名成员因身体原因与组合正式解约\[11\]。
+  - 7月24日，一期生招募决赛举行，共34名成員合格。預備成員毛唯嘉與劉念亦作為一期生正式加入Team SH\[7\]\[8\]。
+  - 8月8日，官方自微博公布一期生名单，共有23人进入组合\[9\]。
+  - 10月27日，在“天猫亚洲偶像嘉年华”中，AKB48 Team SH首次公开亮相并表演\[10\]。
+  - 12月3日，举行出道新闻发布会\[11\]，以数字单曲《Love Trip》（AKB48《[LOVE TRIP](https://zh.wikipedia.org/wiki/LOVE_TRIP "wikilink")》中文版）正式出道。
+  - 12月27日，官方宣布自10月起未参加活动的刘绘和刘奕含两名成员因身体原因与组合正式解约\[12\]。
 
 ### 2019年
 
-  - 1月14日，首张EP《初日》发行\[12\]。
-  - 1月24日，运营方公布因屡次违反相关守则，暂停成员施可妍及万芳舟的活动\[13\]。二人在自省后，于3月2日起正式归队\[14\]。
-  - 5月24日，第2张EP《So long\!》发行\[15\]。
-  - 5月27日，二期生招募开始\[16\]。
-  - 7月4日，运营方公布因违反艺人管理规定，暂停研修生管天天的活动至8月1日\[17\]。
-  - 7月10日，运营方公布因严重违反艺人管理规定，暂停成員徐依婷的通告，並降格為練習生\[18\]。
-  - 7月29日、第3张EP《冲吧\!少女们》发行\[19\]。
+  - 1月14日，首张EP《初日》发行\[13\]。
+  - 1月24日，运营方公布因屡次违反相关守则，暂停成员施可妍及万芳舟的活动\[14\]。二人在自省后，于3月2日起正式归队\[15\]。
+  - 5月24日，第2张EP《So long\!》发行\[16\]。
+  - 5月27日，二期生招募开始\[17\]\[18\]。
+  - 7月4日，运营方公布因违反艺人管理规定，暂停研修生管天天的活动至8月1日\[19\]。
+  - 7月10日，运营方公布因严重违反艺人管理规定，暂停成員徐依婷的通告，並降格為練習生\[20\]\[21\]。
+  - 7月29日，第3张EP《冲吧！少女们》发行\[22\]。
+  - 8月25日，在《冲吧！少女们》握手会上，二期生22人首度亮相\[23\]。
 
 ## 成員
 
@@ -220,7 +221,183 @@
 <td></td>
 <td><p>上海</p></td>
 <td><p>練習生<br />
-2019年7月10日降格并暂停活动[20]</p></td>
+2019年7月10日降格并暂停活动[24]</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>程安子</p></td>
+<td><p>Cheng Anzi</p></td>
+<td><p>&lt;!--{{Birth date and age</p></td>
+<td><p>|}}--&gt;</p></td>
+<td></td>
+<td><p>2期</p></td>
+</tr>
+<tr class="odd">
+<td><p>龚露雯</p></td>
+<td><p>Gong Luwen</p></td>
+<td><p>&lt;!--{{Birth date and age</p></td>
+<td><p>|}}--&gt;</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>桂楚楚</p></td>
+<td><p>Gui Chuchu</p></td>
+<td><p>&lt;!--{{Birth date and age</p></td>
+<td><p>|}}--&gt;</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>胡馨尹</p></td>
+<td><p>Hu Xinyin</p></td>
+<td><p>&lt;!--{{Birth date and age</p></td>
+<td><p>|}}--&gt;</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>渐蔷薇</p></td>
+<td><p>Jian Qiangwei</p></td>
+<td><p>&lt;!--{{Birth date and age</p></td>
+<td><p>|}}--&gt;</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>孔珂昕</p></td>
+<td><p>Kong Kexin</p></td>
+<td><p>&lt;!--{{Birth date and age</p></td>
+<td><p>|}}--&gt;</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>李于淼</p></td>
+<td><p>Li Yumiao</p></td>
+<td><p>&lt;!--{{Birth date and age</p></td>
+<td><p>|}}--&gt;</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>莉莎</p></td>
+<td><p>Lisha</p></td>
+<td><p>&lt;!--{{Birth date and age</p></td>
+<td><p>|}}--&gt;</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>梁时安</p></td>
+<td><p>Liang Shian</p></td>
+<td><p>&lt;!--{{Birth date and age</p></td>
+<td><p>|}}--&gt;</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>刘柳</p></td>
+<td><p>Liu Liu</p></td>
+<td><p>&lt;!--{{Birth date and age</p></td>
+<td><p>|}}--&gt;</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>潘秋怡</p></td>
+<td><p>Pan Qiuyi</p></td>
+<td><p>&lt;!--{{Birth date and age</p></td>
+<td><p>|}}--&gt;</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>蒲祉颖</p></td>
+<td><p>Pu Zhiying</p></td>
+<td><p>&lt;!--{{Birth date and age</p></td>
+<td><p>|}}--&gt;</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>施蔼倍</p></td>
+<td><p>Shi Aibei</p></td>
+<td><p>&lt;!--{{Birth date and age</p></td>
+<td><p>|}}--&gt;</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>谭珺兮</p></td>
+<td><p>Tan Junxi</p></td>
+<td><p>&lt;!--{{Birth date and age</p></td>
+<td><p>|}}--&gt;</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>王俞然</p></td>
+<td><p>Wang Yuran</p></td>
+<td><p>&lt;!--{{Birth date and age</p></td>
+<td><p>|}}--&gt;</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>吴怡婷</p></td>
+<td><p>Wu Yiting</p></td>
+<td><p>&lt;!--{{Birth date and age</p></td>
+<td><p>|}}--&gt;</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>熊芳妮</p></td>
+<td><p>Xiong Fangni</p></td>
+<td><p>&lt;!--{{Birth date and age</p></td>
+<td><p>|}}--&gt;</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>曾鸶淳</p></td>
+<td><p>Zeng Sichun</p></td>
+<td><p>&lt;!--{{Birth date and age</p></td>
+<td><p>|}}--&gt;</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>张倩霏</p></td>
+<td><p>Zhang Qianfei</p></td>
+<td><p>&lt;!--{{Birth date and age</p></td>
+<td><p>|}}--&gt;</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>张乔瑜</p></td>
+<td><p>Zhang Qiaoyu</p></td>
+<td><p>&lt;!--{{Birth date and age</p></td>
+<td><p>|}}--&gt;</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>张樱璐</p></td>
+<td><p>Zhang Yinglu</p></td>
+<td><p>&lt;!--{{Birth date and age</p></td>
+<td><p>|}}--&gt;</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>邹若男</p></td>
+<td><p>Zou Ruonan</p></td>
+<td><p>&lt;!--{{Birth date and age</p></td>
+<td><p>|}}--&gt;</p></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>
@@ -230,12 +407,12 @@
 
 | 姓名  | 读音        | 出生日期   | 出生地 | 加入期別 | 最终在籍日         | 备注       |
 | --- | --------- | ------ | --- | ---- | ------------- | -------- |
-| 刘绘  | Liu Hui   | 10月18日 | 江苏  | 1期   | 2018年12月27日公布 | 解约\[21\] |
+| 刘绘  | Liu Hui   | 10月18日 | 江苏  | 1期   | 2018年12月27日公布 | 解约\[25\] |
 | 刘奕含 | Liu YiHan |        | 江苏  | 1期   |               |          |
 
 ### 成員招募活動
 
-  - 招募事項\[22\]
+  - 招募事項\[26\]
 
 <!-- end list -->
 
@@ -256,7 +433,7 @@
 <!-- end list -->
 
   -
-    一次審査－書面審核，報名人數38066人\[23\]
+    一次審査－書面審核，報名人數38066人\[27\]
     二次審査－面試，于成都、广州、武汉、北京、沈阳及上海六地举行
     三次審査－面試（上海）：合格者62名
     最終審查－面試（上海[梅賽德斯-奔馳文化中心音乐俱乐部](https://zh.wikipedia.org/wiki/梅賽德斯-奔馳文化中心 "wikilink")）：合格者34名
@@ -268,15 +445,20 @@
 
 #### 二期生
 
-  - 報名期間：2019年5月27日\[24\]至7月17日\[25\]
+  - 報名期間：2019年5月27日\[28\]至7月17日\[29\]
   - 招募過程：
 
 <!-- end list -->
 
   -
     一次審査－書面審核
-    二次審査－面試
-    最終審查－面試
+    二次審査－面試：广州（6月30日）、成都（7月7日）、北京（7月14日）、上海（7月21日）
+    最終審查－面試（2019年7月27日）
+
+**最终合格者（22名）**（粗體字者為在籍成員）
+
+  -
+    **程安子、龚露雯、桂楚楚、胡馨尹、渐蔷薇、孔珂昕、李于淼、莉莎、梁时安、刘柳、潘秋怡、蒲祉颖、施蔼倍、谭珺兮、王俞然、吴怡婷、熊芳妮、曾鸶淳、张倩霏、张乔瑜、张樱璐、邹若男**
 
 ## 成員變化
 
@@ -315,10 +497,24 @@
 </tr>
 <tr class="even">
 <td><p>12月27日</p></td>
-<td><p>一期生 刘绘、刘奕含解约离团[26]</p></td>
+<td><p>一期生 刘绘、刘奕含解约离团[30]</p></td>
 <td><p>-2</p></td>
 <td><p>21</p></td>
 <td><p><strong>1期生</strong>23人→<strong>21人</strong></p></td>
+</tr>
+<tr class="odd">
+<td><p>2019年</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>8月25日</p></td>
+<td><p>二期生首度亮相</p></td>
+<td><p>+22</p></td>
+<td><p>43</p></td>
+<td><p><strong>2期生22人</strong></p></td>
 </tr>
 </tbody>
 </table>
@@ -377,13 +573,13 @@ Type-B（CD+DVD）</p></td>
 ### 网络综艺
 
   - 《[創造101](https://zh.wikipedia.org/wiki/創造101 "wikilink")》（[腾讯视频](../Page/腾讯视频.md "wikilink")，2018年4月21日 - 6月23日）毛唯嘉、劉念作以参赛者身分出演
-  - 《AKB少女90天的挑战》（腾讯视频、Bilibili、优酷、YouTube，2019年3月16日 - 6月15日，每周二、四、六更新）魏新及袁瑞希为主角\[27\]
-  - 《SH第二现场》（腾讯视频、Bilibili、优酷、AcFun、YouTube，2019年3月11日 - 、不定期更新）\[28\]
-  - 《Say Hi》（Bilibili，2019年5月8日 - 、每周三更新）\[29\]
+  - 《AKB少女90天的挑战》（腾讯视频、Bilibili、优酷、YouTube，2019年3月16日 - 6月15日，每周二、四、六更新）魏新及袁瑞希为主角\[31\]
+  - 《SH第二现场》（腾讯视频、Bilibili、优酷、AcFun、YouTube，2019年3月11日 - 、不定期更新）\[32\]
+  - 《Say Hi》（Bilibili，2019年5月8日 - 、每周三更新）\[33\]
 
 ### 广告代言
 
-  - [资生堂跨境形象大使](https://zh.wikipedia.org/wiki/资生堂 "wikilink")（2019年4月）：刘念、毛唯嘉、朱苓、吴安琪、魏新\[30\]
+  - [资生堂跨境形象大使](https://zh.wikipedia.org/wiki/资生堂 "wikilink")（2019年4月）：刘念、毛唯嘉、朱苓、吴安琪、魏新\[34\]
 
 ## 註釋
 
@@ -441,18 +637,26 @@ Type-B（CD+DVD）</p></td>
 19.
 
 20.
+
 21.
+
 22.
 
 23.
+
 24.
 25.
-
 26.
+
 27.
-
 28.
-
 29.
 
 30.
+31.
+
+32.
+
+33.
+
+34.

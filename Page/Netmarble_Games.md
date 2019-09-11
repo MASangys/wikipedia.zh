@@ -23,6 +23,7 @@
   - [迪士尼魔法骰子](https://zh.wikipedia.org/wiki/迪士尼魔法骰子 "wikilink")
   - [釣魚大亨](https://zh.wikipedia.org/wiki/釣魚大亨 "wikilink")
   - [BTS WORLD](https://zh.wikipedia.org/wiki/BTS_WORLD "wikilink")
+  - *未命名[BTS的BU](https://zh.wikipedia.org/wiki/防弹少年团 "wikilink")(平行宇宙)故事设定的游戏* （待定)
 
 ## 相關條目
 

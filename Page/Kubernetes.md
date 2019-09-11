@@ -8,7 +8,7 @@
 
 Kubernetes v1.0于2015年7月21日发布。\[8\] 随着v1.0版本发布，谷歌与[Linux 基金会合作组建了Cloud](https://zh.wikipedia.org/wiki/Linux_基金会 "wikilink") Native Computing Foundation (CNCF)\[9\]并將Kubernetes作为种子技术来提供。
 
-Rancher Labs在其Rancher容器管理平台中包含了Kubernetes的发布版。\[10\]Kubernetes也在很多其他公司的产品中被使用，例如[Red HatOpenShift](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")，\[11\]\[12\] CoreOS的Tectonic， [IBM](../Page/IBM.md "wikilink")的IBM私有雲产品，\[13\]，精灵云的EcOS\[14\]，以及 VMware的PKS等等。
+Rancher Labs在其Rancher容器管理平台中包含了Kubernetes的发布版。\[10\]Kubernetes也在很多其他公司的产品中被使用，例如[Red Hat的](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")[OpenShift](../Page/OpenShift.md "wikilink")，\[11\]\[12\] CoreOS的Tectonic， [IBM](../Page/IBM.md "wikilink")的IBM私有雲产品，\[13\]，精灵云的EcOS\[14\]，以及 VMware的PKS等等。
 
 ## 设计
 

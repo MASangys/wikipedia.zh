@@ -26,7 +26,7 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 
 ### 2019-2020球季
 
-6月簽入香港年青前鋒來自[中西區足球隊](../Page/中西區足球隊.md "wikilink")[陳嘉寶](https://zh.wikipedia.org/wiki/陳嘉寶 "wikilink")、[傑志體育會](../Page/傑志體育會.md "wikilink")中場[林柱機](../Page/林柱機.md "wikilink")、[大埔足球會](../Page/大埔足球會.md "wikilink")前鋒[伊高沙托尼](../Page/伊高·沙托尼.md "wikilink")。 7月簽入2名新外援，龍門[謝家榮](https://zh.wikipedia.org/wiki/謝家榮 "wikilink")，後衛[方柏倫及](https://zh.wikipedia.org/wiki/方柏倫 "wikilink")[林衍廷](../Page/林衍廷.md "wikilink")，中場[林樂勤](../Page/林樂勤.md "wikilink")。 7月31日(星期三)下午開記者會。8月6日(星期二)去[葡萄牙](../Page/葡萄牙.md "wikilink")集訓正式開操。
+6月簽入香港年青前鋒來自[中西區足球隊](../Page/中西區足球隊.md "wikilink")[陳嘉寶](https://zh.wikipedia.org/wiki/陳嘉寶 "wikilink")、[傑志體育會](../Page/傑志體育會.md "wikilink")中場[林柱機](../Page/林柱機.md "wikilink")、[大埔足球會](../Page/大埔足球會.md "wikilink")前鋒[伊高沙托尼](../Page/伊高·沙托尼.md "wikilink")。 7月簽入2名新外援，龍門[謝家榮](https://zh.wikipedia.org/wiki/謝家榮 "wikilink")，後衛[方柏倫及](https://zh.wikipedia.org/wiki/方柏倫 "wikilink")[林衍廷](../Page/林衍廷.md "wikilink")，中場[林樂勤](../Page/林樂勤.md "wikilink")。 7月31日(星期三)下午開記者會。8月6日(星期二)去[葡萄牙](../Page/葡萄牙.md "wikilink")集訓正式開操。 2019年8月31日作客[大埔運動場](../Page/大埔運動場.md "wikilink")，憑上半場38分鐘[堤亞高·利安高](../Page/堤亞高·利安高.md "wikilink")，下半場57分鐘[基奥雲尼](https://zh.wikipedia.org/wiki/基奥雲尼 "wikilink")、77分鐘[林志堅](https://zh.wikipedia.org/wiki/林志堅 "wikilink")、83分鐘[梁諾恒四個入球](https://zh.wikipedia.org/wiki/梁諾恒 "wikilink")，以四比一擊敗[和富大埔](https://zh.wikipedia.org/wiki/和富大埔 "wikilink")，取得本季首勝。
 
 ## 歷年球隊名字變更
 
@@ -66,38 +66,42 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p><a href="https://zh.wikipedia.org/wiki/郭能培" title="wikilink">郭能培</a></p></td>
 </tr>
 <tr class="even">
+<td><p>富力競賽部專員</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/許世競" title="wikilink">許世競</a></p></td>
+</tr>
+<tr class="odd">
 <td><p><font color="black"> 教 練 團</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>主教練</p></td>
 <td><p><a href="../Page/楊正光.md" title="wikilink">楊正光</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>助理教練</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/吳偉安" title="wikilink">吳偉安</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>守門員教練</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/孫策" title="wikilink">孫策</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>預備組教練</p></td>
 <td><p><a href="../Page/蘇來強.md" title="wikilink">蘇來強</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>隊醫</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/劉益豪" title="wikilink">劉益豪</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>翻譯</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/羅希" title="wikilink">羅希</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>隊務</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/劉志興" title="wikilink">劉志興</a></p></td>
 </tr>
@@ -106,16 +110,16 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 
 ### 球員名單（一隊）（2019 / 20）
 
-<table style="width:173%;">
+<table style="width:194%;">
 <colgroup>
-<col style="width: 40%" />
-<col style="width: 55%" />
-<col style="width: 23%" />
-<col style="width: 11%" />
-<col style="width: 9%" />
-<col style="width: 9%" />
-<col style="width: 9%" />
-<col style="width: 13%" />
+<col style="width: 45%" />
+<col style="width: 63%" />
+<col style="width: 26%" />
+<col style="width: 12%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 15%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -415,13 +419,13 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 
 ### 外借球員（2019／20）
 
-<table style="width:112%;">
+<table style="width:126%;">
 <colgroup>
-<col style="width: 40%" />
-<col style="width: 32%" />
-<col style="width: 8%" />
-<col style="width: 16%" />
-<col style="width: 16%" />
+<col style="width: 45%" />
+<col style="width: 36%" />
+<col style="width: 9%" />
+<col style="width: 18%" />
+<col style="width: 18%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -459,13 +463,13 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 
 ### 離隊一隊球員，管理層及職員名單（2019 / 20）
 
-<table style="width:112%;">
+<table style="width:126%;">
 <colgroup>
+<col style="width: 45%" />
 <col style="width: 40%" />
-<col style="width: 36%" />
-<col style="width: 8%" />
-<col style="width: 12%" />
-<col style="width: 16%" />
+<col style="width: 9%" />
+<col style="width: 13%" />
+<col style="width: 18%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -517,7 +521,7 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p><a href="../Page/伊達_(足球運動員).md" title="wikilink">伊達</a>（"Ita", Manoel dos Santos Filho, Itaparica）</p></td>
 <td><p>中場</p></td>
 <td><p>1980年7月8日</p></td>
-<td></td>
+<td><p>退役</p></td>
 </tr>
 <tr class="odd">
 <td></td>

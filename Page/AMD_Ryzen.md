@@ -12,7 +12,7 @@ AMD Zen是AMD於2016年中發表的[x86-64微架構](https://zh.wikipedia.org/wi
 
   - 主流效能級平台使用[μPGA封裝](https://zh.wikipedia.org/wiki/插针网格阵列封装 "wikilink")，[Socket AM4插座](../Page/Socket_AM4.md "wikilink")。\[7\]\[8\]極致效能型號採用與[Epyc相同的LGA封裝](../Page/AMD_Epyc.md "wikilink")，與[Socket SP3相同規格的](../Page/Socket_SP3.md "wikilink")[Socket TR4](../Page/Socket_TR4.md "wikilink")。
   - 僅支援[DDR4記憶體](https://zh.wikipedia.org/wiki/DDR4 "wikilink")，支援DDR4-2666單面（Rank）記憶體模組規格或DDR4-2400雙面記憶體模組規格、DDR4-2133單面模組或DDR4-1866雙面模組，\[9\]\[10\]不過，2017年3月下旬開始新推出的AM4主機板、更新舊AM4主機板的BIOS修正檔以後能支援至最高DDR4-3200之規格。\[11\]
-  - 保留大部分[AMD FX時代的指令集支援](../Page/AMD_FX.md "wikilink")，包括[x87](https://zh.wikipedia.org/wiki/x87 "wikilink")、[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")/[SSE2](../Page/SSE2.md "wikilink")/[SSE3](../Page/SSE3.md "wikilink")/[SSSE3](../Page/SSSE3.md "wikilink")/SSE4.1/SSE4.2、[AES](../Page/AES指令集.md "wikilink")、CLMUL、[AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")/AVX2、[FMA3](https://zh.wikipedia.org/wiki/FMA3 "wikilink")、CVT16/F16C、ABM、BMI1/BMI2、SHA。\[12\]
+  - 保留大部分[AMD FX時代的指令集支援](../Page/AMD_FX.md "wikilink")，包括[x87](https://zh.wikipedia.org/wiki/x87 "wikilink")、[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")/[SSE2](../Page/SSE2.md "wikilink")/[SSE3](../Page/SSE3.md "wikilink")/[SSSE3](../Page/SSSE3.md "wikilink")/SSE4.1/SSE4.2、[AES](../Page/AES指令集.md "wikilink")、CLMUL、[AVX](../Page/AVX指令集.md "wikilink")/AVX2、[FMA3](https://zh.wikipedia.org/wiki/FMA3 "wikilink")、CVT16/F16C、ABM、BMI1/BMI2、SHA。\[12\]
   - 8核心處理器的晶片面積最大為192平方毫米，48億個晶體管，\[13\]\[14\]\[15\]\[16\]8核心型號的正式產品[步進版本為B](../Page/步進等級.md "wikilink")1。\[17\]而8核心以上的處理器型號採用[多晶片模組](../Page/多晶片模組.md "wikilink")的方式，將兩顆8核心的晶片拼接在一塊[PCB基板上](https://zh.wikipedia.org/wiki/PCB板 "wikilink")。
   - 最初的Ryzen Threadripper、Ryzen 7、Ryzen 5、Ryzen 3系列皆為無內建GPU的設計，需要搭配獨立[顯示卡方能組建PC](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")。後來推出的行動型AMD APU產品線以Ryzen品牌行銷，內建有GPU。
   - 全系列不鎖定倍頻設定。\[18\]
@@ -2170,10 +2170,11 @@ YD2600BBAFBOX</p></td>
 <td><p>4/8</p></td>
 <td><p>3.7</p></td>
 <td><p>4.2</p></td>
-<td></td>
-<td><p>6</p></td>
-<td></td>
-<td></td>
+<td><p>4×</p>
+<p>512</p></td>
+<td><p>4</p></td>
+<td><p>DDR4-2933</p></td>
+<td><p>65</p></td>
 <td><p>12</p></td>
 <td></td>
 </tr>
@@ -2235,10 +2236,10 @@ YD2600BBAFBOX</p></td>
 <td><p>4/4</p></td>
 <td><p>3.6</p></td>
 <td><p>4.0</p></td>
-<td></td>
-<td><p>6</p></td>
-<td></td>
-<td></td>
+<td><p>4×512</p></td>
+<td><p>4</p></td>
+<td><p>DDR4-2933</p></td>
+<td><p>65</p></td>
 <td><p>12</p></td>
 <td></td>
 </tr>

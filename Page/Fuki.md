@@ -41,7 +41,7 @@
 
   - [官方部落格](http://ameblo.jp/fuki-official/)
 
-[Category:東京都出身人物](https://zh.wikipedia.org/wiki/Category:東京都出身人物 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:日本作詞家](https://zh.wikipedia.org/wiki/Category:日本作詞家 "wikilink") [Category:Amuleto](https://zh.wikipedia.org/wiki/Category:Amuleto "wikilink") [Category:勝利娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:勝利娛樂旗下藝人 "wikilink")
+[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:日本女性搖滾歌手](https://zh.wikipedia.org/wiki/Category:日本女性搖滾歌手 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:東京都出身人物](https://zh.wikipedia.org/wiki/Category:東京都出身人物 "wikilink") [Category:日本作詞家](https://zh.wikipedia.org/wiki/Category:日本作詞家 "wikilink") [Category:Amuleto](https://zh.wikipedia.org/wiki/Category:Amuleto "wikilink") [Category:勝利娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:勝利娛樂旗下藝人 "wikilink")
 
 1.   Fuki|newspaper=ORICON NEWS|accessdate=2018-03-10|language=ja}}
 2.   Fuki|newspaper=ORICON NEWS|accessdate=2018-03-10|language=ja}}

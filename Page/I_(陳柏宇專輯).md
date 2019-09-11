@@ -20,4 +20,4 @@
   - [YAHOO\!人氣大獎2017 頒獎典禮](../Page/2017年度YAHOO!搜尋人氣大獎得獎名單.md "wikilink") - 人氣歌曲《霸氣情歌》
   - [第四十屆十大中文金曲頒獎典禮](../Page/第四十屆十大中文金曲得獎名單.md "wikilink") - 十大中文金曲《霸氣情歌》
 
-[Category:陳柏宇音樂專輯](https://zh.wikipedia.org/wiki/Category:陳柏宇音樂專輯 "wikilink") [Category:2017年音樂專輯](https://zh.wikipedia.org/wiki/Category:2017年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
+[Category:陳柏宇音樂專輯](https://zh.wikipedia.org/wiki/Category:陳柏宇音樂專輯 "wikilink") [Category:2017年音樂專輯](https://zh.wikipedia.org/wiki/Category:2017年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:香港流行音乐专辑](https://zh.wikipedia.org/wiki/Category:香港流行音乐专辑 "wikilink")

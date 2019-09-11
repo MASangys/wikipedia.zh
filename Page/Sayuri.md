@@ -320,7 +320,7 @@ BVCL-795（通常盤）</p></td>
 
   - [酸欠少女さユり的Instagram帳戶](https://www.instagram.com/sayuri149cm/)
 
-[Category:福岡市出身人物](https://zh.wikipedia.org/wiki/Category:福岡市出身人物 "wikilink") [Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink")
+[Category:福岡市出身人物](https://zh.wikipedia.org/wiki/Category:福岡市出身人物 "wikilink") [Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink") [Category:日本女性搖滾歌手](https://zh.wikipedia.org/wiki/Category:日本女性搖滾歌手 "wikilink")
 
 1.
 2.

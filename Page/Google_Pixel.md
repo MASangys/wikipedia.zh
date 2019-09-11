@@ -18,6 +18,8 @@
 <th><p><a href="../Page/Pixel_2.md" title="wikilink">Pixel 2 XL</a></p></th>
 <th><p><a href="../Page/Pixel_3.md" title="wikilink">Pixel 3</a></p></th>
 <th><p><a href="../Page/Pixel_3.md" title="wikilink">Pixel 3 XL</a></p></th>
+<th><p><a href="../Page/Pixel_3a.md" title="wikilink">Pixel 3a</a></p></th>
+<th><p><strong><a href="https://zh.wikipedia.org/wiki/Pixel_3a_XL" title="wikilink">Pixel 3a XL</a></strong></p></th>
 </tr>
 </thead>
 <tbody>
@@ -26,6 +28,8 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/HTC" title="wikilink">HTC</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/LG" title="wikilink">LG</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/富士康" title="wikilink">富士康</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/富士康" title="wikilink">富士康</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -35,6 +39,8 @@
 <td><p>2016年10月5日</p></td>
 <td><p>2017年10月5日</p></td>
 <td><p>2018年10月9日</p></td>
+<td><p>2019年5月7日</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -59,6 +65,11 @@
 <td><p>6.3英寸 OLED<br />
 2960x1440 解像度<br />
 523 ppi</p></td>
+<td><p>5.6英寸 OLED<br />
+2220x1080 解像度<br />
+441 ppi</p></td>
+<td><p>6.0英寸 OLED 2160×1080 解像度<br />
+523 ppi</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/系统芯片.md" title="wikilink">系统芯片</a>（SoC）</p></td>
@@ -66,6 +77,8 @@
 2.15 GHz + 1.65 GHz 四核64位ARMv8-A</p></td>
 <td><p>高通<a href="https://zh.wikipedia.org/wiki/高通驍龍元件列表#Snapdragon_835" title="wikilink">驍龍 835</a></p></td>
 <td><p>高通<a href="https://zh.wikipedia.org/wiki/高通驍龍元件列表#Snapdragon_845/850" title="wikilink">驍龍 845</a></p></td>
+<td><p>高通<a href="https://zh.wikipedia.org/wiki/高通驍龍元件列表#Snapdragon_670/675" title="wikilink">驍龍 670</a>[6]</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -75,6 +88,8 @@
 <td><p>Adreno 530</p></td>
 <td><p>Adreno 540</p></td>
 <td><p>Adreno 630</p></td>
+<td><p>Adreno 615</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -87,11 +102,15 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>容量</p></td>
 <td><p>32/128 GB</p></td>
 <td><p>64/128 GB</p></td>
+<td><p>64 GB</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -105,6 +124,8 @@
 <td><p>3520mAh</p></td>
 <td><p>2915mAh</p></td>
 <td><p>3430mAh</p></td>
+<td><p>3000mAh</p></td>
+<td><p>3700mAh</p></td>
 </tr>
 <tr class="odd">
 <td><p>相机</p></td>
@@ -112,6 +133,8 @@
 1230万像素（后置）</p></td>
 <td><p>800万像素（前置）<br />
 1220万像素（后置）</p></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -125,10 +148,14 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>支持的最新操作系统</p></td>
 <td><p><a href="../Page/Android_Q.md" title="wikilink">Android Q beta 10.0.0</a></p></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -143,8 +170,12 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -180,11 +211,11 @@
 
 ### Pixel Buds
 
-在谷歌2017年10月的硬件活動中，一系列無線耳機與Pixel 2智能手機一同亮相。耳機專為運行Android Marshmallow或更高級別的手機而設計，並可與Google智能助理配合使用。\[6\]除了音頻播放和接聽電話，耳機支持40種語言的翻譯通過[Google翻譯](https://zh.wikipedia.org/wiki/Google翻譯 "wikilink")\[7\] ，耳機可以與[Pixel 2自動配對後](../Page/Pixel_2.md "wikilink")，可以[Pixel 2內置應用程式裏的](../Page/Pixel_2.md "wikilink")[Google智能助理和Google](https://zh.wikipedia.org/wiki/Google智能助理 "wikilink") Nearby功能\[8\]。Pixel Buds顏色有Just Black,Clearly White和Kinda Blue。耳機的電池容量為120 mAh，而Pixel Buds附帶的充電盒的電池容量為620 mAh。這款耳機的售價為159美元。\[9\]
+在谷歌2017年10月的硬件活動中，一系列無線耳機與Pixel 2智能手機一同亮相。耳機專為運行Android Marshmallow或更高級別的手機而設計，並可與Google智能助理配合使用。\[7\]除了音頻播放和接聽電話，耳機支持40種語言的翻譯通過[Google翻譯](https://zh.wikipedia.org/wiki/Google翻譯 "wikilink")\[8\] ，耳機可以與[Pixel 2自動配對後](../Page/Pixel_2.md "wikilink")，可以[Pixel 2內置應用程式裏的](../Page/Pixel_2.md "wikilink")[Google智能助理和Google](https://zh.wikipedia.org/wiki/Google智能助理 "wikilink") Nearby功能\[9\]。Pixel Buds顏色有Just Black,Clearly White和Kinda Blue。耳機的電池容量為120 mAh，而Pixel Buds附帶的充電盒的電池容量為620 mAh。這款耳機的售價為159美元。\[10\]
 
 ### Pixelbook Pen
 
-除了2017年10月發布的Pixelbook外，Google還宣布推出了與Pixelbook 一起使用的手寫筆 Pixelbook Pen 。它具有壓力敏感度以及對[Google智能助理的支持](https://zh.wikipedia.org/wiki/Google智能助理 "wikilink")。該筆由可更換的AAAA電池供電，售價為99美元。\[10\]
+除了2017年10月發布的Pixelbook外，Google還宣布推出了與Pixelbook 一起使用的手寫筆 Pixelbook Pen 。它具有壓力敏感度以及對[Google智能助理的支持](https://zh.wikipedia.org/wiki/Google智能助理 "wikilink")。該筆由可更換的AAAA電池供電，售價為99美元。\[11\]
 
 ## 参考文献
 
@@ -204,3 +235,4 @@
 8.
 9.
 10.
+11.

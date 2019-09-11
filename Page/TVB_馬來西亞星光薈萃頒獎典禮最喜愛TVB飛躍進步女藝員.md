@@ -115,7 +115,7 @@
 <td><p>四個女仔三個BAR / 張保仔</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/蔡思貝" title="wikilink">蔡思貝</a></p></td>
+<td><p><a href="../Page/蔡思貝.md" title="wikilink">蔡思貝</a></p></td>
 <td><p>八卦神探 / 衝線</p></td>
 </tr>
 <tr class="odd">

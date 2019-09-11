@@ -939,7 +939,7 @@
 <td><p>姚　瑤</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/蔡思貝" title="wikilink">蔡思貝</a></p></td>
+<td><p><a href="../Page/蔡思貝.md" title="wikilink">蔡思貝</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/潮流教主" title="wikilink">潮流教主</a></p></td>
 <td><p>張逸寧</p></td>
 </tr>
@@ -1077,7 +1077,7 @@
 <td><p>王勵凡</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/蔡思貝" title="wikilink">蔡思貝</a></p></td>
+<td><p><a href="../Page/蔡思貝.md" title="wikilink">蔡思貝</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/踩過界" title="wikilink">踩過界</a></p></td>
 <td><p>趙正妹</p></td>
 </tr>

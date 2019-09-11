@@ -176,7 +176,7 @@ A區與B區之間的轉角（東南角）是服務台與投幣式置物櫃，與
 
   - 上州湯巡號：往[澀川站](../Page/澀川站.md "wikilink")、[伊香保溫泉](https://zh.wikipedia.org/wiki/伊香保溫泉 "wikilink")、[草津溫泉](https://zh.wikipedia.org/wiki/草津溫泉 "wikilink")（JR巴士關東）
 
-  - 伊勢崎LINER：往本庄沼和田、[伊勢崎市役所](https://zh.wikipedia.org/wiki/伊勢崎市 "wikilink")、[伊勢崎站](https://zh.wikipedia.org/wiki/伊勢崎站 "wikilink")、（JR巴士關東）
+  - 伊勢崎LINER：往本庄沼和田、[伊勢崎市](../Page/伊勢崎市.md "wikilink")役所、[伊勢崎站](https://zh.wikipedia.org/wiki/伊勢崎站 "wikilink")、（JR巴士關東）
 
   - 尾瀨號：往尾瀨戶倉、大清水（季節運行）（）
 

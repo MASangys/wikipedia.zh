@@ -15,7 +15,7 @@ AMD從此代GPU開始又進行了一次商品名的調整。原來「Radeon Rv x
 
 ## 新功能特性
 
-本代是GCN顯示核心架構的第4個版本。本次架構修訂中，更換了新的硬體排程器、改進CU的執行效率、顯示信號輸出單元（支援[DisplayPort](../Page/DisplayPort.md "wikilink") 1.4 HBR、[HDMI 2.0b](https://zh.wikipedia.org/wiki/HDMI#Version_2.0 "wikilink")、[HDR10色域](https://zh.wikipedia.org/wiki/HDR10 "wikilink")）、新版UVD等等。其中新版UVD的加入使本系列GPU擁有[HEVC影片硬體加速能力](https://zh.wikipedia.org/wiki/HEVC "wikilink")，最高支援到 60FPS @ 4K解析度並且每個顏色通道擁有10位元的顏色深度。\[5\]\[6\]早期的資料顯示這個UVD也可對VP9格式進行硬體加速，不過在驅動程式中並沒有該功能的介面可供使用。\[7\]而在2016年12月中，AMD發表了16.12.1版驅動程式，由此GCN架構的GPU全部開放[4K解析度](../Page/4K解析度.md "wikilink")的[VP9](../Page/VP9.md "wikilink")解碼硬體加速（支援杜比系統、HDR 10），此外，還新增了Relive遊戲內視訊編碼功能，支援遊戲直播以及遊戲視訊錄製。\[8\]\[9\]在17版深紅驅動程式以後，支援[雙聯結DVI-D和DVI-I輸出最高](../Page/DVI.md "wikilink") 4096 × 2304 的解析度。
+本代是GCN顯示核心架構的第4個版本。本次架構修訂中，更換了新的硬體排程器、改進CU的執行效率、顯示信號輸出單元（支援[DisplayPort](../Page/DisplayPort.md "wikilink") 1.4 HBR、[HDMI 2.0b](https://zh.wikipedia.org/wiki/HDMI#Version_2.0 "wikilink")、[HDR10色域](https://zh.wikipedia.org/wiki/HDR10 "wikilink")）、新版UVD等等。其中新版UVD的加入使本系列GPU擁有[HEVC影片硬體加速能力](https://zh.wikipedia.org/wiki/HEVC "wikilink")，最高支援到 60FPS @ 4K解析度並且每個顏色通道擁有10位元的顏色深度。\[5\]\[6\]早期的資料顯示這個UVD也可對VP9格式進行硬體加速，不過在驅動程式中並沒有該功能的介面可供使用。\[7\]而在2016年12月中，AMD發表了16.12.1版驅動程式，由此GCN架構的GPU全部開放[4K解析度](../Page/4K解析度.md "wikilink")的[VP9](../Page/VP9.md "wikilink")解碼硬體加速(混合硬解)（支援杜比系統、HDR 10）不過後面因為使用混合硬解上有穩定性問題，後面又把VP9混合硬解選項去除，此外，還新增了Relive遊戲內視訊編碼功能，支援遊戲直播以及遊戲視訊錄製。\[8\]\[9\]在17版深紅驅動程式以後，支援[雙聯結DVI-D和DVI-I輸出最高](../Page/DVI.md "wikilink") 4096 × 2304 的解析度。
 
 ## 產品
 

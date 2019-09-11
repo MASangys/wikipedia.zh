@@ -36,7 +36,7 @@
 
 ### [Soribada最佳音樂大獎](../Page/Soribada最佳音樂大獎.md "wikilink")
 
-|- |2017年 |rowspan="2" |本賞 |rowspan="3" |MONSTA X | |- |rowspan="2" |2018年 | |- |新韓流藝人賞 | |}
+|- |2017年 |rowspan="2" |本賞 |rowspan="5" |MONSTA X | |- |rowspan="2" |2018年 | |- |新韓流藝人賞 | |- |rowspan="2" |2019年 |rowspan="1" |本賞 | |- |rowspan="1" |NEW WAVE賞 | |}
 
 ## 外部連結
 

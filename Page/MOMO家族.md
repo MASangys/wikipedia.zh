@@ -154,4 +154,4 @@
 
 <!-- end list -->
 
-1.  <https://star.ettoday.net/news/1442493>
+1.  劉宜庭.[「焦糖哥哥、焦糖」都不能用！momo親子台列3點聲明　陳嘉行回應了](https://star.ettoday.net/news/1442493).ETtoday新聞雲.2019-05-11

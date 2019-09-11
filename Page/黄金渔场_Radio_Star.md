@@ -4783,6 +4783,20 @@
 <td><p>“有经验者优待”特輯</p></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>631</p></td>
+<td><p>8月21日</p></td>
+<td><p>() 、、 ()、Jonathan Thona</p></td>
+<td><p>“越線的傢伙們”特輯</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>632</p></td>
+<td><p>8月28日</p></td>
+<td><p>、<a href="../Page/鄭泰祐.md" title="wikilink">鄭泰祐</a>、 (<a href="https://zh.wikipedia.org/wiki/Oh_My_Girl" title="wikilink">Oh My Girl</a>)、韩泰雄</p></td>
+<td><p>“从小就干得好”特輯</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

@@ -454,7 +454,7 @@
 
   -
   -
-[Category:電子遊戲音樂家](https://zh.wikipedia.org/wiki/Category:電子遊戲音樂家 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink") [Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink")
+[Category:電子遊戲音樂家](https://zh.wikipedia.org/wiki/Category:電子遊戲音樂家 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink") [Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:日本女性搖滾歌手](https://zh.wikipedia.org/wiki/Category:日本女性搖滾歌手 "wikilink")
 
 1.  [お知らせです](http://ameblo.jp/marikaofficial/entry-11947060688.html) 真里歌のブログ
 2.

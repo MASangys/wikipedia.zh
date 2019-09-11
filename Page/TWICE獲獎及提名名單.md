@@ -506,7 +506,7 @@
 </tbody>
 </table>
 
-### [Gaon Chart K-POP大獎（Gaon Chart K-POP Awards）](../Page/Gaon_Chart_K-POP大獎.md "wikilink")
+### [Gaon Chart Music Awards](../Page/Gaon_Chart_Music_Awards.md "wikilink")
 
 <table>
 <tbody>
@@ -588,41 +588,48 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a></p></td>
+<td><p>女子部門人氣獎</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>第8屆</p></td>
 <td><p>2018年</p></td>
 <td><p><a href="../Page/What_is_Love?.md" title="wikilink">What is Love?</a></p></td>
 <td><p>音源部門年度歌手獎（4月）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/Summer_Nights.md" title="wikilink">Dance The Night Away</a></p></td>
 <td><p>音源部門年度歌手獎（7月）</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/YES_or_YES" title="wikilink">YES or YES</a></p></td>
 <td><p>音源部門年度歌手獎（11月）</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/What_is_Love?.md" title="wikilink">What is Love?</a></p></td>
 <td><p>專輯部門年度歌手獎（第二季）</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/Summer_Nights.md" title="wikilink">Summer Nights</a></p></td>
 <td><p>專輯部門年度歌手獎（第三季）</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/YES_or_YES" title="wikilink">YES or YES</a></p></td>
 <td><p>專輯部門年度歌手獎（第四季）</p></td>
 <td></td>
@@ -728,7 +735,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td></td>
+<td><p><strong>音源大賞</strong></p></td>
 <td></td>
 <td></td>
 <td></td>

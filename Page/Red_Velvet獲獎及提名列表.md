@@ -756,6 +756,22 @@
 <td></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>第3屆</p></td>
+<td><p>2019年</p></td>
+<td><p>本賞</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>年度舞台(大賞)</strong></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -1288,19 +1304,20 @@
 
 ### [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")》
 
-|       |            |                            |                            |        |
-| ----- | ---------- | -------------------------- | -------------------------- | ------ |
-| 年份    | 日期         | 獲獎歌曲                       | 專輯                         | 來源     |
-| 2015  | 3月27日      | Ice Cream Cake             | 《Ice Cream Cake》           | \[47\] |
-| 2016  | 3月25日      | 7월7일 (One Of These Nights) | 《The Velvet》               | \[48\] |
-| 2017  | 2月10日      | Rookie                     | 《Rookie》                   | \[49\] |
-| 2月17日 |            |                            |                            |        |
-| 7月21日 | Red Flavor | 《The Red Summer》           | \[50\]                     |        |
-| 2018  | 2月9日       | Bad Boy                    | 《The Perfect Red Velvet》   | \[51\] |
-| 8月17日 | Power Up   | 《Summer Magic》             |                            |        |
-| 8月24日 |            |                            |                            |        |
-| 2019  | 6月28日      | Zimzalabim                 | 《The ReVe Festival: Day 1》 |        |
-|       |            |                            |                            |        |
+|       |             |                            |                            |        |
+| ----- | ----------- | -------------------------- | -------------------------- | ------ |
+| 年份    | 日期          | 獲獎歌曲                       | 專輯                         | 來源     |
+| 2015  | 3月27日       | Ice Cream Cake             | 《Ice Cream Cake》           | \[47\] |
+| 2016  | 3月25日       | 7월7일 (One Of These Nights) | 《The Velvet》               | \[48\] |
+| 2017  | 2月10日       | Rookie                     | 《Rookie》                   | \[49\] |
+| 2月17日 |             |                            |                            |        |
+| 7月21日 | Red Flavor  | 《The Red Summer》           | \[50\]                     |        |
+| 2018  | 2月9日        | Bad Boy                    | 《The Perfect Red Velvet》   | \[51\] |
+| 8月17日 | Power Up    | 《Summer Magic》             |                            |        |
+| 8月24日 |             |                            |                            |        |
+| 2019  | 6月28日       | Zimzalabim                 | 《The ReVe Festival: Day 1》 |        |
+| 8月30日 | Umpah Umpah | 《The ReVe Festival: Day 2》 |                            |        |
+|       |             |                            |                            |        |
 
 ### [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")》
 
@@ -1320,20 +1337,22 @@
 | 8月19日  | Power Up         | 《Summer Magic》             |                            |        |
 | 8月26日  |                  |                            |                            |        |
 | 2019   | 6月30日            | Zimzalabim                 | 《The ReVe Festival: Day 1》 |        |
+| 9月1日   | Umpah Umpah      | 《The ReVe Festival: Day 2》 |                            |        |
 |        |                  |                            |                            |        |
 
 ### 《[THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")》
 
-|       |                  |                            |                  |        |
-| ----- | ---------------- | -------------------------- | ---------------- | ------ |
-| 年份    | 日期               | 獲獎歌曲                       | 專輯               | 來源     |
-| 2015  | 3月31日            | Ice Cream Cake             | 《Ice Cream Cake》 | \[61\] |
-| 9月15日 | Dumb Dumb        | 《The Red》                  | \[62\]           |        |
-| 2016  | 3月22日            | 7월7일 (One Of These Nights) | 《The Velvet》     | \[63\] |
-| 9月13日 | Russian Roulette | 《Russian Roulette》         | \[64\]           |        |
-| 9月20日 |                  |                            |                  |        |
-| 2017  | 2月7日             | Rookie                     | 《Rookie》         | \[65\] |
-| 2018  | 8月21日            | Power Up                   | 《Summer Magic》   |        |
+|       |                  |                            |                            |        |
+| ----- | ---------------- | -------------------------- | -------------------------- | ------ |
+| 年份    | 日期               | 獲獎歌曲                       | 專輯                         | 來源     |
+| 2015  | 3月31日            | Ice Cream Cake             | 《Ice Cream Cake》           | \[61\] |
+| 9月15日 | Dumb Dumb        | 《The Red》                  | \[62\]                     |        |
+| 2016  | 3月22日            | 7월7일 (One Of These Nights) | 《The Velvet》               | \[63\] |
+| 9月13日 | Russian Roulette | 《Russian Roulette》         | \[64\]                     |        |
+| 9月20日 |                  |                            |                            |        |
+| 2017  | 2月7日             | Rookie                     | 《Rookie》                   | \[65\] |
+| 2018  | 8月21日            | Power Up                   | 《Summer Magic》             |        |
+| 2019  | 8月27日            | Umpah Umpah                | 《The ReVe Festival: Day 2》 |        |
 
 ### 《[Show Champion](../Page/Show_Champion.md "wikilink")》
 
@@ -1351,6 +1370,7 @@
 | 8月15日 | Power Up         | 《Summer Magic》             |                            |        |
 | 8月22日 |                  |                            |                            |        |
 | 2019  | 6月26日            | Zimzalabim                 | 《The ReVe Festival: Day 1》 |        |
+| 8月28日 | Umpah Umpah      | 《The ReVe Festival: Day 2》 |                            |        |
 |       |                  |                            |                            |        |
 
 ### [Mnet](../Page/Mnet媒體.md "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》
@@ -1372,18 +1392,18 @@
 | 8月23日 | Power Up         | 《Summer Magic》             |                            |        |
 | 8月30日 |                  |                            |                            |        |
 | 2019  | 6月27日            | Zimzalabim                 | 《The ReVe Festival: Day 1》 |        |
-|       |                  |                            |                            |        |
+| 8月29日 | Umpah Umpah      | 《The ReVe Festival: Day 2》 |                            |        |
 
 ### [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")《[Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")》
 
-|      |       |                |                            |        |
-| ---- | ----- | -------------- | -------------------------- | ------ |
-| 年份   | 日期    | 獲獎歌曲           | 專輯                         | 來源     |
-| 2015 | 4月4日  | Ice Cream Cake | 《Ice Cream Cake》           | \[81\] |
-| 2017 | 7月22日 | Red Flavor     | 《The Red Summer》           | \[82\] |
-| 2018 | 8月18日 | Power Up       | 《Summer Magic》             |        |
-| 2019 | 6月29日 | Zimzalabim     | 《The ReVe Festival: Day 1》 |        |
-|      |       |                |                            |        |
+|       |             |                            |                            |        |
+| ----- | ----------- | -------------------------- | -------------------------- | ------ |
+| 年份    | 日期          | 獲獎歌曲                       | 專輯                         | 來源     |
+| 2015  | 4月4日        | Ice Cream Cake             | 《Ice Cream Cake》           | \[81\] |
+| 2017  | 7月22日       | Red Flavor                 | 《The Red Summer》           | \[82\] |
+| 2018  | 8月18日       | Power Up                   | 《Summer Magic》             |        |
+| 2019  | 6月29日       | Zimzalabim                 | 《The ReVe Festival: Day 1》 |        |
+| 8月31日 | Umpah Umpah | 《The ReVe Festival: Day 2》 |                            |        |
 
 ## 參考資料
 

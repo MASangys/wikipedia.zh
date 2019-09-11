@@ -1,4 +1,4 @@
-**三星Galaxy**（**SAMSUNG Galaxy**，其中國官網譯名為三星蓋-{}-樂世）是由[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[三星集团其下的](https://zh.wikipedia.org/wiki/三星集团 "wikilink")[三星電子](../Page/三星電子.md "wikilink")設計，製造和銷售的一系列移動計算設備。產品線中較為知名的包括高端智能電話的[Galaxy S和](../Page/三星Galaxy_S系列.md "wikilink")[Galaxy Note](../Page/三星Galaxy_Note系列.md "wikilink")，而及平板的[三星Galaxy Tab S系列](https://zh.wikipedia.org/wiki/三星Galaxy_Tab_S系列 "wikilink")/[A系列](https://zh.wikipedia.org/wiki/三星Galaxy_Tab_A系列 "wikilink")。智能手錶的[三星Galaxy Watch](https://zh.wikipedia.org/wiki/三星Galaxy_Watch "wikilink")。
+**三星Galaxy**（**SAMSUNG Galaxy**，其中國官網譯名為三星蓋-{}-樂世）是由[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[三星集团其下的](https://zh.wikipedia.org/wiki/三星集团 "wikilink")[三星電子](../Page/三星電子.md "wikilink")設計，製造和銷售的一系列移動設備品牌。產品線中較為知名的包括高端智能電話的[Galaxy S和](../Page/三星Galaxy_S系列.md "wikilink")[Galaxy Note](../Page/三星Galaxy_Note系列.md "wikilink")，而及平板的[三星Galaxy Tab S系列](https://zh.wikipedia.org/wiki/三星Galaxy_Tab_S系列 "wikilink")/[A系列](https://zh.wikipedia.org/wiki/三星Galaxy_Tab_A系列 "wikilink")。智能手錶的[三星Galaxy Watch](https://zh.wikipedia.org/wiki/三星Galaxy_Watch "wikilink")。
 
 ## 生產中的系列
 
@@ -26,7 +26,14 @@
   - [三星Galaxy R](../Page/三星Galaxy_R.md "wikilink")
   - [三星Galaxy 3](https://zh.wikipedia.org/wiki/三星Galaxy_3 "wikilink")
 
+## "Over the horizon"
+
+Over The Horizon是[Samsung Galaxy S2推出之後所有三星手機皆配備的鈴聲](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S2 "wikilink")。它由Joong-sam Yun開發。雖然六音符曲調的基本組成自成立以來沒有改變，但隨著產品線的發展，現時已經有多種版本。 \[1\]\[2\]
+
 ## 外部連結
 
   -
 [分類:三星Galaxy](https://zh.wikipedia.org/wiki/分類:三星Galaxy "wikilink") [分類:智慧型手機](https://zh.wikipedia.org/wiki/分類:智慧型手機 "wikilink") [分類:多點觸控手機](https://zh.wikipedia.org/wiki/分類:多點觸控手機 "wikilink") [分類:觸控手機](https://zh.wikipedia.org/wiki/分類:觸控手機 "wikilink")
+
+1.
+2.

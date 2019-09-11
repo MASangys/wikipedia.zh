@@ -1,8 +1,8 @@
-**WirForce**是由[4Gamers](../Page/4Gamers.md "wikilink")於[臺北](../Page/臺北.md "wikilink")所舉辦的[Lan Party網路電競派對](../Page/LAN_party.md "wikilink")，第一屆在2014年8月29-31日舉行。活動參與者通常分為BYOC\[1\]玩家以及一般玩家，BYOC 玩家可自行攜帶電腦配備至會場，將其電腦配備以[區域網路連結](../Page/局域网.md "wikilink")，多人一同玩[網路遊戲](../Page/网络游戏.md "wikilink")；而BYOC玩家與一般玩家則皆可參與BYOC區以外之活動，如單機遊戲試玩、遊戲設備體驗、現場實體遊戲同樂、社群活動參與、觀看電子競技比賽、音樂會等等。目前全球最大型且公認最具指標性的Lan Party數位電競派對，為源自於[瑞典](../Page/瑞典.md "wikilink")的\[2\]。
+**WirForce**是由[4Gamers](../Page/4Gamers.md "wikilink")於[臺北市](../Page/臺北市.md "wikilink")舉辦的[Lan Party](../Page/LAN_party.md "wikilink")[電競派對](https://zh.wikipedia.org/wiki/電競 "wikilink")，第一屆在2014年8月29-31日舉行。活動參與者通常分為[自攜設備](../Page/自攜設備.md "wikilink")（BYOC）\[1\]玩家及一般玩家。BYOC玩家可自行攜帶電腦配備至會場，將其電腦配備以[區域網路連結](../Page/局域网.md "wikilink")，多人一同玩[網路遊戲](../Page/网络游戏.md "wikilink")；而BYOC玩家與一般玩家則皆可參與BYOC區以外之活動，如[單機遊戲試玩](https://zh.wikipedia.org/wiki/單機遊戲 "wikilink")、遊戲設備體驗、現場實體遊戲同樂、社群活動參與、觀看電競比賽、[音樂會等等](https://zh.wikipedia.org/wiki/音樂會 "wikilink")。
 
 WirForce \[waɪˈrfors\] 為一個由4Gamers創辦人暨執行長黃智仁所創之[複合字](../Page/合成词.md "wikilink")，讀音以及[意譯即英文字的](https://zh.wikipedia.org/wiki/意譯 "wikilink") [wire](https://zh.wikipedia.org/wiki/wikt:en:wire "wikilink")（[英語](../Page/英语.md "wikilink")：[動詞](../Page/动词.md "wikilink")，連線） 加上 [force](https://zh.wikipedia.org/wiki/wikt:en:force "wikilink")（[英語](../Page/英语.md "wikilink")：[名詞](../Page/名詞.md "wikilink")，力量）；因此WirForce代表的涵義為連線的力量。
 
-2016年11月10日至13日於臺北花博公園[爭艷館](../Page/爭艷館.md "wikilink")所舉行的 \[WirForce 2016\]，為2014年首屆以來規模最大之網路連線派對活動\[3\]：除主辦單位[4Gamers 就肆電競與](../Page/4Gamers.md "wikilink") InFamous 原英行銷，[臺北市政府](../Page/臺北市政府.md "wikilink")也在【電競三重奏】\[4\]的活動規劃下以協辦、指導單位的身分\[5\] 力挺 WirForce 2016。\[6\]
+2016年11月10日至13日於臺北市[花博公園](../Page/花博公園.md "wikilink")[爭艷館](../Page/爭艷館.md "wikilink")所舉行的WirForce 2016，為2014年首屆以來規模最大之網路連線派對活動\[2\]：除主辦單位[就肆電競（4Gamers）與](../Page/4Gamers.md "wikilink")[原英行銷](https://zh.wikipedia.org/wiki/原英行銷 "wikilink")（InFamous），[臺北市政府](../Page/臺北市政府.md "wikilink")也在【電競三重奏】\[3\]的活動規劃下以協辦、指導單位的身分\[4\]力挺WirForce 2016。\[5\]
 
 ## WirForce 2016
 
@@ -11,19 +11,19 @@ WirForce \[waɪˈrfors\] 為一個由4Gamers創辦人暨執行長黃智仁所創
   - 日期
     2016/11/10-11/13（四天三夜）
   - 地點
-    [臺北市](../Page/臺北市.md "wikilink")臺北花博公園爭艷館
+    臺北市花博公園爭艷館
   - 入場說明
     <u>一般民眾免費入場-日間</u>：除 BYOC 區，民眾可於日間自由進出會場
     <u>一般民眾免費入場-夜間</u>：除 BYOC 區，年滿 18 歲之民眾可於夜間（21:00 後）自由進出會場
     <u>BYOC 玩家</u>：可自由進出會場全區
 
-### \[活動分區與內容\]
+### 活動分區與內容
 
-  - **BYOC**區：Bring Your Own Computer，收費區域 6 區共 600 個座位，事先報名的玩家可攜帶電腦配備（如[桌上型電腦](../Page/桌上型電腦.md "wikilink")、[筆記型電腦](../Page/筆記型電腦.md "wikilink")與[電視遊戲主機等](../Page/家用游戏机.md "wikilink")）至該區域玩各種遊戲、參與各式社群活動、進行直播、或與現場實況主互動。
+  - **BYOC區**：Bring Your Own Computer，收費區域6區共600個座位，事先報名的玩家可攜帶電腦配備（如[桌上型電腦](../Page/桌上型電腦.md "wikilink")、[筆記型電腦](../Page/筆記型電腦.md "wikilink")與[電視遊戲主機等](../Page/家用游戏机.md "wikilink")）至該區域玩各種遊戲、參與各式社群活動、進行直播、或與現場實況主互動。
 
 <!-- end list -->
 
-  - **攤位區**\[7\]：電競電腦硬體品牌廠現場互動、遊戲開發廠商遊戲試玩、桌遊遊玩、遊戲直播平台大型溜滑梯 & 知名實況主現場直播、銀行、食品廠商食品試吃、量販百貨現場販售、經濟部數位內容產業推動辦公室推廣國內自製遊戲、[密室逃脫](../Page/密室逃脱.md "wikilink")、飛鏢機、[VR體驗](../Page/虚拟现实.md "wikilink")、Wirforce 勇者村。
+  - **攤位區**\[6\]：電競電腦硬體品牌廠現場互動、遊戲開發廠商遊戲試玩、桌遊遊玩、遊戲直播平台大型溜滑梯 & 知名實況主現場直播、銀行、食品廠商食品試吃、量販百貨現場販售、經濟部數位內容產業推動辦公室推廣國內自製遊戲、[密室逃脫](../Page/密室逃脱.md "wikilink")、飛鏢機、[VR體驗](../Page/虚拟现实.md "wikilink")、Wirforce 勇者村。
   - **主舞台**：於主要舞台上所執行的活動。
 
 <!-- end list -->
@@ -38,8 +38,8 @@ WirForce \[waɪˈrfors\] 為一個由4Gamers創辦人暨執行長黃智仁所創
   -
 
       -
-        <u>賽事競賽項目</u>\[8\]：WirForce 國際邀請賽《[CS:GO](../Page/反恐精英：全球攻势.md "wikilink")》、WirForce 邀請賽《[鬥陣特攻](../Page/鬥陣特攻.md "wikilink")》Powered by [GeForce® GTX](https://zh.wikipedia.org/wiki/NVIDIA_GeForce "wikilink")、4Gamers 大專聯賽 - 《[英雄聯盟](https://zh.wikipedia.org/wiki/英雄聯盟 "wikilink")》Final、WirForce 國際邀請賽《[爐石戰記](https://zh.wikipedia.org/wiki/炉石传说：魔兽英雄传 "wikilink")》Semi-Final & Final
-        <u>大會成就獎項</u>\[9\]： 首殺 First Blood（最早到場的 BYOC 玩家）、情比金堅（上台還幫 [Xargon](../Page/Xargon.md "wikilink") 宣傳訂閱特價，根本真愛）、您佈置系？（最特別的佈置玩家）等等
+        <u>賽事競賽項目</u>\[7\]：WirForce 國際邀請賽《[CS:GO](../Page/反恐精英：全球攻势.md "wikilink")》、WirForce 邀請賽《[鬥陣特攻](../Page/鬥陣特攻.md "wikilink")》Powered by [GeForce® GTX](https://zh.wikipedia.org/wiki/NVIDIA_GeForce "wikilink")、4Gamers 大專聯賽 - 《[英雄聯盟](https://zh.wikipedia.org/wiki/英雄聯盟 "wikilink")》Final、WirForce 國際邀請賽《[爐石戰記](https://zh.wikipedia.org/wiki/炉石传说：魔兽英雄传 "wikilink")》Semi-Final & Final
+        <u>大會成就獎項</u>\[8\]： 首殺 First Blood（最早到場的 BYOC 玩家）、情比金堅（上台還幫 [Xargon](../Page/Xargon.md "wikilink") 宣傳訂閱特價，根本真愛）、您佈置系？（最特別的佈置玩家）等等
 
 <!-- end list -->
 
@@ -50,7 +50,7 @@ WirForce \[waɪˈrfors\] 為一個由4Gamers創辦人暨執行長黃智仁所創
   -
 
       -
-        <u>社群成就獎項</u>\[10\]：最爛電腦大賽、喝什麼什麼大賽、WirForce 大胃王熱狗大賽 II、最炫電腦大賽、WirForce 知識王、WirForce [Just Dance](../Page/舞力全开_\(游戏\).md "wikilink") 熱舞大賽 III、收垃圾大作戰
+        <u>社群成就獎項</u>\[9\]：最爛電腦大賽、喝什麼什麼大賽、WirForce 大胃王熱狗大賽 II、最炫電腦大賽、WirForce 知識王、WirForce [Just Dance](../Page/舞力全开_\(游戏\).md "wikilink") 熱舞大賽 III、收垃圾大作戰
 
 <!-- end list -->
 
@@ -67,7 +67,7 @@ WirForce \[waɪˈrfors\] 為一個由4Gamers創辦人暨執行長黃智仁所創
 
 <!-- end list -->
 
-  - **賽事競賽結果**\[11\]：
+  - **賽事競賽結果**\[10\]：
 
 <table>
 <caption><a href="../Page/反恐精英：全球攻势.md" title="wikilink">CS:GO</a></caption>
@@ -166,10 +166,10 @@ WirForce \[waɪˈrfors\] 為一個由4Gamers創辦人暨執行長黃智仁所創
 
 | 名稱       | WirForce 2015 A.V.A TOURNAMENT         |
 | -------- | -------------------------------------- |
-| 賽制\[12\] | 三戰兩勝（32強）、五戰三勝（8強）                     |
+| 賽制\[11\] | 三戰兩勝（32強）、五戰三勝（8強）                     |
 | 名次       | 1st                                    |
-| 隊伍\[13\] | 細雨帶風                                   |
-| 選手       | JiKai、pEyou、ResidueM、Clpan、Ka1cC\[14\] |
+| 隊伍\[12\] | 細雨帶風                                   |
+| 選手       | JiKai、pEyou、ResidueM、Clpan、Ka1cC\[13\] |
 |          |                                        |
 
 [A.V.A 戰地之王](../Page/戰地之王.md "wikilink")
@@ -184,7 +184,7 @@ WirForce \[waɪˈrfors\] 為一個由4Gamers創辦人暨執行長黃智仁所創
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>賽制[15]</p></td>
+<td><p>賽制[14]</p></td>
 <td><p>執政官模式 BO7 表演賽</p></td>
 </tr>
 <tr class="even">
@@ -200,9 +200,9 @@ WirForce \[waɪˈrfors\] 為一個由4Gamers創辦人暨執行長黃智仁所創
 
 | 名稱       | 2015《爐石戰記》世界盃聯賽台港澳資格賽決賽                                                                  |
 | -------- | ---------------------------------------------------------------------------------------- |
-| 賽制\[16\] | 五戰三勝（線上賽：40強淘汰賽、16強選拔賽、8強賽、4強準決賽；決賽線下賽）、BO5 征服戰[單淘汰賽](../Page/单败淘汰制.md "wikilink")（最後一杯） |
+| 賽制\[15\] | 五戰三勝（線上賽：40強淘汰賽、16強選拔賽、8強賽、4強準決賽；決賽線下賽）、BO5 征服戰[單淘汰賽](../Page/单败淘汰制.md "wikilink")（最後一杯） |
 | 名次       | 1st                                                                                      |
-| 選手\[17\] | 齊力斷金                                                                                     |
+| 選手\[16\] | 齊力斷金                                                                                     |
 
 [爐石戰記](https://zh.wikipedia.org/wiki/炉石传说：魔兽英雄传 "wikilink")
 
@@ -228,7 +228,7 @@ WirForce \[waɪˈrfors\] 為一個由4Gamers創辦人暨執行長黃智仁所創
 <td><p>4Gamers Team</p></td>
 </tr>
 <tr class="even">
-<td><p>選手[18]</p></td>
+<td><p>選手[17]</p></td>
 <td><p>小鬼、懶貓、<a href="../Page/Xargon.md" title="wikilink">Xargon</a>、古拉、QQ</p></td>
 </tr>
 </tbody>
@@ -236,16 +236,16 @@ WirForce \[waɪˈrfors\] 為一個由4Gamers創辦人暨執行長黃智仁所創
 
 | 名稱       | eGamers 暴雪英霸公開賽冠亞軍賽                                                                                                                        |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| 賽制\[19\] | 16 強與 8 強為 BO3 [雙敗淘汰制](../Page/双败淘汰制.md "wikilink")，小組[循環賽](../Page/循环赛.md "wikilink")；4 強賽與季殿軍賽為 BO3 [單敗淘汰制](../Page/单败淘汰制.md "wikilink") |
+| 賽制\[18\] | 16 強與 8 強為 BO3 [雙敗淘汰制](../Page/双败淘汰制.md "wikilink")，小組[循環賽](../Page/循环赛.md "wikilink")；4 強賽與季殿軍賽為 BO3 [單敗淘汰制](../Page/单败淘汰制.md "wikilink") |
 | 名次       | 1st                                                                                                                                        |
-| 隊伍\[20\] | GIA                                                                                                                                        |
+| 隊伍\[19\] | GIA                                                                                                                                        |
 | 選手       | Blueway、Lulumi、Alpha、GoDDog、Rival                                                                                                          |
 
 [暴雪英霸](../Page/风暴英雄.md "wikilink")
 
 ## 爭議
 
-[4Gamers](../Page/4Gamers.md "wikilink")於2017年8月21日，於其官方Facebook粉絲專頁上發表WirForce 2017 BYOC售票資訊\[21\]。然而多名群眾在其貼文下方留言表示，官方宣佈9月4日開賣，但是8月31日至官網查詢時，原訂1000個BYOC座位僅剩300多個位置可供選購，引發實況主及觀眾們反彈。 \[22\]
+[4Gamers](../Page/4Gamers.md "wikilink")於2017年8月21日，於其官方Facebook粉絲專頁上發表WirForce 2017 BYOC售票資訊\[20\]。然而多名群眾在其貼文下方留言表示，官方宣佈9月4日開賣，但是8月31日至官網查詢時，原訂1000個BYOC座位僅剩300多個位置可供選購，引發實況主及觀眾們反彈。 \[21\]
 
 ## 資料來源
 
@@ -267,7 +267,7 @@ WirForce \[waɪˈrfors\] 為一個由4Gamers創辦人暨執行長黃智仁所創
 
 2.
 
-3.   即時新聞 {{\!}} 20161110 {{\!}} 蘋果日報|newspaper=蘋果日報|accessdate=2016-12-29|language=zh-TW}}
+3.
 
 4.
 
@@ -275,18 +275,18 @@ WirForce \[waɪˈrfors\] 為一個由4Gamers創辦人暨執行長黃智仁所創
 
 6.
 
-7.
+7.   4Gamers|accessdate=2016-12-29|last=4Gamers|work=4Gamers 官方網站}}
 
-8.   4Gamers|accessdate=2016-12-29|last=4Gamers|work=4Gamers 官方網站}}
+8.   4Gamers|accessdate=2016-12-27|work=4Gamers 官方網站}}
 
-9.   4Gamers|accessdate=2016-12-27|work=4Gamers 官方網站}}
+9.
+10.  4Gamers|accessdate=2017-01-04|last=4Gamers|work=4Gamers 官方網站}}
 
-10.
-11.  4Gamers|accessdate=2017-01-04|last=4Gamers|work=4Gamers 官方網站}}
+11.
 
-12.
+12.  WirForce 2015 A.V.A TOURNAMENT|accessdate=2016-12-28|work=dev.4gamers.com.tw|deadurl=yes|archiveurl=[https://archive.is/20161228101709/http://dev.4gamers.com.tw/tourney/stage_knockout/3104|archivedate=2016-12-28](https://archive.is/20161228101709/http://dev.4gamers.com.tw/tourney/stage_knockout/3104%7Carchivedate=2016-12-28)}}
 
-13.  WirForce 2015 A.V.A TOURNAMENT|accessdate=2016-12-28|work=dev.4gamers.com.tw|deadurl=yes|archiveurl=[https://archive.is/20161228101709/http://dev.4gamers.com.tw/tourney/stage_knockout/3104|archivedate=2016-12-28](https://archive.is/20161228101709/http://dev.4gamers.com.tw/tourney/stage_knockout/3104%7Carchivedate=2016-12-28)}}
+13.
 
 14.
 
@@ -296,12 +296,10 @@ WirForce \[waɪˈrfors\] 為一個由4Gamers創辦人暨執行長黃智仁所創
 
 17.
 
-18.
+18.  英霸指南針|accessdate=2016-12-29|work=暴雪英霸 {{\!}} 英霸指南針}}
 
-19.  英霸指南針|accessdate=2016-12-29|work=暴雪英霸 {{\!}} 英霸指南針}}
+19.
 
 20.
 
 21.
-
-22.

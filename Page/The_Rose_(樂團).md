@@ -20,7 +20,7 @@
 
 2018年2月16日，The Rose展開首次的歐洲巡迴演唱會《THE ROSE Paint it Rose Tour in Europe》，以比利時[布魯塞爾為首站](https://zh.wikipedia.org/wiki/布魯塞爾 "wikilink")，依序在俄羅斯、土耳其、英國、匈牙利共五國開唱。\[11\]4月16日發行首張迷你專輯《Void》，主打歌為《Baby》，去年所發行的兩張單曲《Sorry》、《Like We Used To》也收錄其中。 2018年5月12日、5月13日舉辦韓國國內演唱會《The Rose Day: Long Drive》。
 
-10月5日發行第二張迷你專輯《Dawn》,主打歌為《She\`s In The Rain》,(MV因為受到爭議而從YOUTUBE下架(因MV裡有使用到SHINee金鐘炫Instagram的圖片,上架前未經其家人授權同意)
+10月5日發行第二張迷你專輯《Dawn》,主打歌為《She\`s In The Rain》,(MV因為受到爭議而從YOUTUBE下架(因MV裡有使用到SHINee金鐘鉉Instagram的圖片)
 
 **<big>2019年: 第三張單曲《RED》回歸</big>**
 

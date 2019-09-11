@@ -157,7 +157,7 @@
 <td><p>前半</p></td>
 <td><p><a href="../Page/興梠里美.md" title="wikilink">興梠里美</a></p></td>
 <td><p><a href="../Page/矢島晶子.md" title="wikilink">矢島晶子</a></p></td>
-<td><p><strong>《<a href="https://zh.wikipedia.org/wiki/蠟筆小新" title="wikilink">蠟筆小新</a>》</strong>中<a href="https://zh.wikipedia.org/wiki/野原向日葵" title="wikilink">野原向日葵和</a><a href="../Page/野原新之助.md" title="wikilink">野原新之助</a>的声優[20]。<br />
+<td><p><strong>《<a href="https://zh.wikipedia.org/wiki/蠟筆小新" title="wikilink">蠟筆小新</a>》</strong>中<a href="https://zh.wikipedia.org/wiki/野原向日葵" title="wikilink">野原向日葵和</a><a href="../Page/野原新之助.md" title="wikilink">野原新之助</a>（初代）的声優[20]。<br />
 此外曾在<strong>《<a href="../Page/少女革命.md" title="wikilink">少女革命</a>》</strong>、<strong>《<a href="../Page/VS騎士檸檬汽水&amp;40炎.md" title="wikilink">VS騎士檸檬汽水&amp;40炎</a>》</strong>等作品中共演。</p></td>
 </tr>
 <tr class="even">

@@ -1,4 +1,4 @@
-**Kōki,**（）本名**木村光希**（），是[日本](../Page/日本.md "wikilink")一名[模特儿](https://zh.wikipedia.org/wiki/模特儿 "wikilink")、[作曲家](https://zh.wikipedia.org/wiki/作曲家 "wikilink")。為演員[木村拓哉](../Page/木村拓哉.md "wikilink")与歌手[工藤静香的次女](https://zh.wikipedia.org/wiki/工藤静香 "wikilink")。\[1\]\[2\]身高170cm\[3\]。
+**Kōki,**（），本名**木村光希**（），是[日本](../Page/日本.md "wikilink")一名[模特儿](https://zh.wikipedia.org/wiki/模特儿 "wikilink")、[作曲家](https://zh.wikipedia.org/wiki/作曲家 "wikilink")。為演員[木村拓哉](../Page/木村拓哉.md "wikilink")与歌手[工藤静香的次女](https://zh.wikipedia.org/wiki/工藤静香 "wikilink")。\[1\]\[2\]身高170cm\[3\]。
 
 ## 來歷
 
@@ -15,12 +15,28 @@
 
   - 《[ELLE Japon](../Page/ELLE.md "wikilink")》（发行{{\\}}[讲谈社](../Page/讲谈社.md "wikilink")发售）－2018年7月号封面，由日本知名攝影師拍攝\[9\]。
 
+### 廣告
+
+  - [大塚製藥](../Page/大塚製藥.md "wikilink")
+      - 『ボディメンテ ドリンク』「海外挑戦/駅」篇（2018年10月）\[10\]
+      - 『ボディメンテ ドリンク』「海外挑戦/レッスン」篇（2018年11月）
+  - [三星電子](../Page/三星電子.md "wikilink")
+      - 『[Galaxy S10/S10+](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S10 "wikilink")』「Instagram mode編」(2019年5月)
+
+## 歌曲提供
+
+以下全部為作曲作品。
+
+  - [工藤靜香](../Page/工藤靜香.md "wikilink")：鋼の森、カスミ草、Time after time
+  - [中島美嘉](../Page/中島美嘉.md "wikilink")：夢
+  - [三浦大知](../Page/三浦大知.md "wikilink")：片隅、Corner
+
 ## 参考资料
 
 ## 外部链接
 
   -
-[Category:日本女性模特兒](https://zh.wikipedia.org/wiki/Category:日本女性模特兒 "wikilink") [Category:東京都出身人物](https://zh.wikipedia.org/wiki/Category:東京都出身人物 "wikilink")
+[Category:日本女性模特兒](https://zh.wikipedia.org/wiki/Category:日本女性模特兒 "wikilink") [Category:日本作曲家](https://zh.wikipedia.org/wiki/Category:日本作曲家 "wikilink") [Category:東京都出身人物](https://zh.wikipedia.org/wiki/Category:東京都出身人物 "wikilink")
 
 1.
 
@@ -37,3 +53,5 @@
 
 8.
 9.
+
+10.

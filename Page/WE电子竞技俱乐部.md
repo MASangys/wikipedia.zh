@@ -14,7 +14,7 @@ WE英雄联盟分部成立于2011年，为中国英雄联盟职业化初期的�
 
 ### 英雄联盟分部（2019年夏季赛）
 
-WE俱乐部目前有两支英雄联盟战队，分别为参加顶级联赛LPL的Team WE与次级联赛LDL的Mighty Eagle。此外，WE曾有一支名为**"Team WE Academy"**的战队，但由于Riot Games在2014年增加了同级联赛同俱乐部只允许一个战队参赛的规定，WE俱乐部将其出售并改名为"Masters 3"。
+WE俱乐部目前有两支英雄联盟战队，分别为参加顶级联赛LPL的Team WE与次级联赛LDL的WE Academy。
 
 #### Team WE
 

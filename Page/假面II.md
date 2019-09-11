@@ -1,4 +1,4 @@
-《**假面II**》（[英文](../Page/英语.md "wikilink")：），是[馬來西亞磐石制作公司制作的侦探推理电视剧](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")，由[吴俐璇](https://zh.wikipedia.org/wiki/吴俐璇 "wikilink")、[吕爱琼](https://zh.wikipedia.org/wiki/吕爱琼 "wikilink")、[庄仲维](../Page/庄仲维.md "wikilink")、[黄启铭](https://zh.wikipedia.org/wiki/黄启铭 "wikilink")、[陈子颖](https://zh.wikipedia.org/wiki/陈子颖 "wikilink")、[吕志勤](https://zh.wikipedia.org/wiki/吕志勤 "wikilink")\[1\]领衔主演。此剧为《[假面](../Page/假面_\(马来西亚电视剧\).md "wikilink")》之续集，原为[ntv7](https://zh.wikipedia.org/wiki/ntv7 "wikilink") 2018年重头剧，后因"7势如虹"时段迁档至[八度空间而改至在该台播出](https://zh.wikipedia.org/wiki/八度空间 "wikilink")。\[2\]监制为[周以勤](https://zh.wikipedia.org/wiki/周以勤 "wikilink")。\[3\]
+《**假面II**》（[英文](../Page/英语.md "wikilink")：），是[馬來西亞磐石制作公司制作的侦探推理电视剧](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")，由[吴俐璇](https://zh.wikipedia.org/wiki/吴俐璇 "wikilink")、[庄仲维](../Page/庄仲维.md "wikilink")、[黄启铭](https://zh.wikipedia.org/wiki/黄启铭 "wikilink")、[吕爱琼](https://zh.wikipedia.org/wiki/吕爱琼 "wikilink")、[陈子颖](https://zh.wikipedia.org/wiki/陈子颖 "wikilink")、[吕志勤](https://zh.wikipedia.org/wiki/吕志勤 "wikilink")\[1\]领衔主演。此剧为《[假面](../Page/假面_\(马来西亚电视剧\).md "wikilink")》之续集，原为[ntv7](https://zh.wikipedia.org/wiki/ntv7 "wikilink") 2018年重头剧，后因"7势如虹"时段迁档至[八度空间而改至在该台播出](https://zh.wikipedia.org/wiki/八度空间 "wikilink")。\[2\]监制为[周以勤](https://zh.wikipedia.org/wiki/周以勤 "wikilink")。\[3\]
 
 ## 播出时间
 
@@ -125,7 +125,7 @@ DOGO侦探社探员<br />
 卢慧璇之青梅竹马<br />
 于第3集到英国深造犯罪心理学<br />
 于第18集因听闻杜月馨失踪而回国调查<br />
-(特別出演1-3,16(聲演),18-20)<br />
+(特別演出第1-3,16(聲演),18-20集)<br />
 参见<a href="https://zh.wikipedia.org/wiki/#绝地复仇案(17-20)" title="wikilink">绝地复仇案(17-20)</a></p></td>
 </tr>
 <tr class="even">

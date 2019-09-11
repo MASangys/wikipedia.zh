@@ -251,7 +251,7 @@
   - (2014) [偶弦](http://onira.lofter.com/post/3391f6_108430d)，作者：Onion rabbit
   - (2014) [永恆的賽妮亞](http://senia.ftp.cc/)，作者：聖堂祭司
   - (2016) 私塾，作者：貓咪學園
-  - (2017) [幻想的交響曲](../Page/幻想的交響曲.md "wikilink")，作者：Z\&S
+  - (2017) [幻想的交響曲](../Page/幻想的交響曲.md "wikilink")，作者：Z\&S、
 
 ## [RPG Maker MV](../Page/RPG_Maker_MV.md "wikilink")
 

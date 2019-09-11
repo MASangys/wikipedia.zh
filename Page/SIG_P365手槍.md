@@ -45,8 +45,8 @@ SIG P365比P290稍微龐大一些，而其5.5至6.5磅力（24至29牛頓）的�
   - [HK P30SK](../Page/HK_P30手槍.md "wikilink")
   - [HK VP9SK／SFP9-SK](../Page/HK_VP9手槍.md "wikilink")
   - [HS2000袖珍型](../Page/HS2000手槍.md "wikilink")
-  - [Kel-Tec P-11手槍](https://zh.wikipedia.org/wiki/Kel-Tec_P-11手槍 "wikilink")
-  - [斯泰爾S9-A1](../Page/斯泰爾M手槍.md "wikilink")
+  - [Kel-Tec P-11半自動手槍](https://zh.wikipedia.org/wiki/Kel-Tec_P-11半自動手槍 "wikilink")
+  - [斯泰爾S9-A1](../Page/斯泰爾M半自動手槍.md "wikilink")
 
 ## 註釋和資料來源
 

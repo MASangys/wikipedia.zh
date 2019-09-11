@@ -5,7 +5,7 @@
 ### 登場角色
 
   - 吉川菜緒 - [德光由禾](https://zh.wikipedia.org/wiki/德光由禾 "wikilink")
-  - 上原久志 - [森山榮治](https://zh.wikipedia.org/wiki/森山榮治 "wikilink")
+  - 上原久志 - [白石隼也](../Page/白石隼也.md "wikilink")
   - 上原百合 - [根谷美智子](../Page/根谷美智子.md "wikilink")
   - 浅井健嗣 - [菊池正美](../Page/菊池正美.md "wikilink")
 

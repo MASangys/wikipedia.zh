@@ -65,7 +65,7 @@ DAY6首場世界巡迴演唱會「Youth」由6月22日至24日首爾站次揭開
 
 ### 成員變遷表
 
-<timeline> ImageSize = width:600 height:275 PlotArea = width:400 height:200 left:60 bottom:65 Alignbars = justify DateFormat = mm/dd/yyyy Period = from:2015 till:2017 TimeAxis = orientation:horizontal format:yyyy
+<timeline> ImageSize = width:600 height:275 PlotArea = width:400 height:200 left:60 bottom:65 Alignbars = justify DateFormat = mm/dd/yyyy Period = from:2015 till:2019 TimeAxis = orientation:horizontal format:yyyy
 
 Colors =
 
@@ -893,7 +893,7 @@ DAY6成員於韓國音樂著作權協會之登記編號分別是Jae：10010558\[
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Letting Go</p></td>
+<td><p>Letting Go (놓아 놓아 놓아)</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/DAYDREAM" title="wikilink">DAYDREAM</a></p></td>
 <td><p>9</p></td>
 </tr>
@@ -903,22 +903,22 @@ DAY6成員於韓國音樂著作權協會之登記編號分別是Jae：10010558\[
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>I Wait</p></td>
+<td><p>I Wait (아 왜)</p></td>
 <td><p><a href="../Page/Sunrise_(Day6專輯).md" title="wikilink">Sunrise</a></p></td>
 <td><p>/</p></td>
 </tr>
 <tr class="even">
-<td><p>You Were Beautiful</p></td>
+<td><p>You Were Beautiful (예뻤어)</p></td>
 <td><p>/</p></td>
 <td><p>/</p></td>
 </tr>
 <tr class="odd">
-<td><p>How Can I Say</p></td>
+<td><p>How Can I Say (어떻게 말해)</p></td>
 <td><p>9</p></td>
 <td><p>/</p></td>
 </tr>
 <tr class="even">
-<td><p>I'm Serious</p></td>
+<td><p>I'm Serious (장난 아닌데)</p></td>
 <td><p>9</p></td>
 <td><p>/</p></td>
 </tr>
@@ -928,7 +928,7 @@ DAY6成員於韓國音樂著作權協會之登記編號分別是Jae：10010558\[
 <td><p>/</p></td>
 </tr>
 <tr class="even">
-<td><p>I Smile</p></td>
+<td><p>I Smile (반드시 웃는다)</p></td>
 <td><p>6</p></td>
 <td><p>37</p></td>
 </tr>
@@ -938,7 +938,7 @@ DAY6成員於韓國音樂著作權協會之登記編號分別是Jae：10010558\[
 <td><p>/</p></td>
 </tr>
 <tr class="even">
-<td><p>What Can I Do</p></td>
+<td><p>What Can I Do (좋은걸 뭐 어떻게)</p></td>
 <td><p>/</p></td>
 <td><p>28</p></td>
 </tr>
@@ -948,17 +948,17 @@ DAY6成員於韓國音樂著作權協會之登記編號分別是Jae：10010558\[
 <td><p>/</p></td>
 </tr>
 <tr class="even">
-<td><p>When You Love Someone</p></td>
+<td><p>When You Love Someone (그렇더라고요)</p></td>
 <td><p>/</p></td>
 <td><p>/</p></td>
 </tr>
 <tr class="odd">
-<td><p>All Alone</p></td>
+<td><p>All Alone (혼자야)</p></td>
 <td><p>/</p></td>
 <td><p>/</p></td>
 </tr>
 <tr class="even">
-<td><p>I Like You</p></td>
+<td><p>I Like You (좋아합니다)</p></td>
 <td><p>/</p></td>
 <td><p>28</p></td>
 </tr>
@@ -973,7 +973,7 @@ DAY6成員於韓國音樂著作權協會之登記編號分別是Jae：10010558\[
 <td><p>6</p></td>
 </tr>
 <tr class="odd">
-<td><p>행복했던 날들이었다</p></td>
+<td><p>행복했던 날들이었다 (days gone by)</p></td>
 <td><p><a href="../Page/Remember_Us_:_Youth_Part_2.md" title="wikilink">Remember Us : Youth Part 2</a></p></td>
 <td><p>/</p></td>
 </tr>
@@ -983,7 +983,7 @@ DAY6成員於韓國音樂著作權協會之登記編號分別是Jae：10010558\[
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Time of Our Life(한 페이지가 될 수 있게)</p></td>
+<td><p>Time of Our Life (한 페이지가 될 수 있게)</p></td>
 <td><p><a href="../Page/The_Book_of_Us_:_Gravity.md" title="wikilink">The Book of Us : Gravity</a></p></td>
 <td><p>*<strong>1</strong></p></td>
 </tr>

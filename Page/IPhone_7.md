@@ -2,7 +2,7 @@
 
 ## 特色
 
-蘋果的iPhone 7的設計与iPhone 6S相比較為簡單幹練，天線的框線得以減少，而提供新的暗色品種經鏡面處理「-{zh-cn:亮黑色;zh-hk:亮黑色;zh-tw:曜石黑}-」及「黑色」，太空灰被取消，其他舊有配色「銀色」、「金色」、「玫瑰金色」則維持不變，從6S開始就有[三维触控的設計](https://zh.wikipedia.org/wiki/三维触控 "wikilink")，還有回到主畫面（Home）的按鍵也提高了灵敏度\[2\]，同时采用固态按键取代原来的按动式按键，並利用新的Taptic Engine震動來模擬按壓。iPhone 7 擁有[iPhone歷來最大的儲存容量](https://zh.wikipedia.org/wiki/iPhone "wikilink")，可選32GB、128GB、256GB，但「-{zh-cn:亮黑色;zh-hk:亮黑色;zh-tw:曜石黑}-」只能選擇128GB或256GB。iPhone 7还移除了連接耳機的傳統3.5mm [TRS端子](../Page/TRS端子.md "wikilink")，除了帶動音訊由類比傳輸朝數位化演進，這一改動也讓手機得以直接供電耳機降噪單元，免電池降噪變成可能，隨機附送的[EarPods耳機亦由](https://zh.wikipedia.org/wiki/EarPods "wikilink")3.5mm耳機接口改為[Lightning接頭](https://zh.wikipedia.org/wiki/Lightning接頭 "wikilink")（不具降噪），另外亦附上Lightning 至 3.5毫米耳筒插口轉換器，但用戶想要同時充電的話只能使用採用蘋果的無線蓝牙耳機[AirPods](../Page/AirPods.md "wikilink")，或是使用蘋果專用底座。此外首次引入了雙立體聲外放，喇叭播放效果也顯著增加。
+蘋果的iPhone 7的設計与iPhone 6S相比較為簡單幹練，天線的框線得以減少，而提供新的暗色品種經鏡面處理「-{zh-cn:亮黑色;zh-hk:亮黑色;zh-tw:曜石黑}-」及「黑色」，太空灰被取消，其他舊有配色「銀色」、「金色」、「玫瑰金色」則維持不變，從6S開始就有[三维触控的設計](https://zh.wikipedia.org/wiki/三维触控 "wikilink")，還有回到主畫面（Home）的按鍵也提高了灵敏度\[2\]，同时采用固态按键取代原来的按动式按键，並利用新的Taptic Engine震動來模擬按壓。iPhone 7 擁有[iPhone歷來最大的儲存容量](https://zh.wikipedia.org/wiki/iPhone "wikilink")，可選32GB、128GB、256GB，但「-{zh-cn:亮黑色;zh-hk:亮黑色;zh-tw:曜石黑}-」只能選擇128GB或256GB。iPhone 7还移除了連接耳機的傳統3.5mm [TRS端子](../Page/TRS端子.md "wikilink")，除了帶動音訊由類比傳輸朝數位化演進，這一改動也讓手機得以直接供電耳機降噪單元，免電池降噪變成可能，隨機附送的[EarPods耳機亦由](https://zh.wikipedia.org/wiki/EarPods "wikilink")3.5mm耳機接口改為[Lightning接頭](https://zh.wikipedia.org/wiki/Lightning接頭 "wikilink")（不具降噪），另外亦附上Lightning 至 3.5毫米耳筒插口轉換器，但用戶想要同時充電的話只能使用採用蘋果的無線蓝牙耳機[AirPods](../Page/AirPods.md "wikilink")，或是使用蘋果專用底座。此外首次引入了雙立體聲外放，喇叭播放效果也顯著改善。
 
 ## 技术规格
 

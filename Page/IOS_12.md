@@ -112,6 +112,7 @@ News 獲得了新設計（News僅限於美國、澳洲及英國）。
 ### iPod Touch
 
   - [iPod touch 6](https://zh.wikipedia.org/wiki/iPod_touch_6 "wikilink") （此iOS版本為最後一個支援此裝置的版本）
+  - [iPod touch 7](https://zh.wikipedia.org/wiki/iPod_touch_7 "wikilink")
 
 ### iPad
 

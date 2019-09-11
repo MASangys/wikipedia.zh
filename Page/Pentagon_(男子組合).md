@@ -256,7 +256,7 @@ E'Dawn、Kino、Hui(2013年10月)、Yeo One(2013年11月)、信源、禹奭、Yu
 
 1月起，首次日本巡演「The First Japan Zepp tour - Dear Cosmo 」。\[141\] 2月，日本Major Debut 首張單曲《Cosmo》，由[GLAY](../Page/GLAY.md "wikilink")成員[TERU所製作](https://zh.wikipedia.org/wiki/TERU "wikilink")，Oricon單曲日榜最高排名一位，週榜排名四位。\[142\]
 
-3月27日，迷你八輯《[Genie:us](../Page/Genie:us.md "wikilink")》，主打《Sha La La》回歸。4月27至28日，演唱會「2019 PRISM CONCERT」，並計劃「2019 PRISM WORLD TOUR」。7月17日，迷你九輯《SUM(ME:R)》，主打《接近禁止》回歸。 8月21日日，日本單曲《Happiness/ Sha La La (ha La La》。
+3月27日，迷你八輯《[Genie:us](../Page/Genie:us.md "wikilink")》，主打《Sha La La》回歸。4月27至28日，演唱會「2019 PRISM CONCERT」，並計劃「2019 PRISM WORLD TOUR」。7月17日，迷你九輯《SUM(ME:R)》，主打《接近禁止》回歸。 8月21日日，日本單曲《Happiness/ Sha La La》。
 
 ## 音樂作品
 

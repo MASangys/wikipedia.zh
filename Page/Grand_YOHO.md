@@ -1,16 +1,16 @@
-[Grand_YOHO_GF_Drop_off_area_2017.jpg](https://zh.wikipedia.org/wiki/File:Grand_YOHO_GF_Drop_off_area_2017.jpg "fig:Grand_YOHO_GF_Drop_off_area_2017.jpg") '''Grand YOHO ''' 是[新鴻基地產](../Page/新鴻基地產.md "wikilink")發展的綜合城市［[YOHO series](../Page/YOHO系列.md "wikilink")］ 的第三期大型住宅項目，連接[港鐵](../Page/港鐵.md "wikilink")[元朗站](../Page/元朗站_\(西鐵綫\).md "wikilink")。屋苑共有9座住宅，備有整個系列中最大面積的私人會所，基座[YOHO MALL 形點為新界西北區最大旗艦商場](../Page/YOHO_MALL_形點.md "wikilink")。
+[Grand_YOHO_GF_Drop_off_area_2017.jpg](https://zh.wikipedia.org/wiki/File:Grand_YOHO_GF_Drop_off_area_2017.jpg "fig:Grand_YOHO_GF_Drop_off_area_2017.jpg") '''Grand YOHO ''' 是[新鴻基地產](../Page/新鴻基地產.md "wikilink")發展的綜合城市「[YOHO series](../Page/YOHO系列.md "wikilink")」的第三期大型住宅項目，連接[港鐵](../Page/港鐵.md "wikilink")[元朗站](../Page/元朗站_\(西鐵綫\).md "wikilink")。屋苑共有9座住宅，備有整個系列中最大面積的私人會所，基座[YOHO MALL 形點為新界西北區最大旗艦商場](../Page/YOHO_MALL_形點.md "wikilink")。
 
 住宅樓面約180萬方呎，項目在2010年4月起動工，2016年8月以預售樓花形式首次開售。
 
-本物業由[新鴻基地產](../Page/新鴻基地產.md "wikilink")旗下的[啟勝管理服務有限公司負責管理](https://zh.wikipedia.org/wiki/啟勝管理服務有限公司 "wikilink")，管理費為每月每實用平方呎$3.95。Grand YOHO是YOHO系列中首次引入禮賓式服務的屋苑。據資料顯示，物業於2010年3月完成71億元補地價，每平方呎樓面補地價約2,900元。\[1\]
+本物業由[創智建築師有限公司設計](https://zh.wikipedia.org/wiki/創智建築師有限公司 "wikilink")\[1\] ，[新鴻基地產](../Page/新鴻基地產.md "wikilink")旗下的[啟勝管理服務有限公司負責管理](https://zh.wikipedia.org/wiki/啟勝管理服務有限公司 "wikilink")，是該系列中首次引入禮賓式服務的屋苑，管理費為每月每實用平方呎$3.95。據資料顯示，物業於2010年3月完成71億元補地價，每平方呎樓面補地價約2,900元。\[2\]
 
 ## 間隔用料
 
 [缩略图](https://zh.wikipedia.org/wiki/File:Night_in_Grand_YOHO.jpg "fig:缩略图") Grand YOHO以二房至四房單位為主，全設獨立廚房，廳房分明，間隔實用。大部分戶數也設有對流雙露台，通風優良。單位樓底特高，約9.5呎至11呎，令住戶享有高採光度及震撼景觀，飽覽米埔，南生圍，大帽山和錦田的翠綠山巒河川及內園園林池畔。
 
-新地表示非常重視YOHO發展，是歷來最花心機時間的大型項目，用料為集團最高級別，例如：所有單位窗戶採用 IGU 雙層中空玻璃，提高隔音和隔熱效果。露台門為新型「提升式趟門」，比舊式設計更易推拉和固定。\[2\]
+新地表示非常重視YOHO發展，是歷來最花心機時間的大型項目，用料為集團最高級別，例如：所有單位窗戶採用 IGU 雙層中空玻璃，提高隔音和隔熱效果。露台門為新型「提升式趟門」，比舊式設計更易推拉和固定。\[3\]
 
-第一期4座住宅項目涉及約1,128伙單位，位於第1、2、9及10座，單位實用面積491至1,734平方呎。1，2座主打2房戶和細3房戶，可快速來回港鐵站和巴士站。9，10座主打3房套，向東單位可以飽覽米埔，南生圍，錦田，和大帽山的180度極佳開陽景觀。\[3\]
+第一期4座住宅項目涉及約1,128伙單位，位於第1、2、9及10座，單位實用面積491至1,734平方呎。1，2座主打2房戶和細3房戶，可快速來回港鐵站和巴士站。9，10座主打3房套，向東單位可以飽覽米埔，南生圍，錦田，和大帽山的180度極佳開陽景觀。\[4\]
 
 第2期住宅項目（3、5及8座）主打大單位，3-4房單位佔約60%。3，5座向南和8座向東共有數列千多呎特大單位，8座亦特設有一列1房單位。
 
@@ -18,7 +18,7 @@
 
 ## 會所園林
 
-[缩略图](https://zh.wikipedia.org/wiki/File:Grand_yoho_pool.jpg "fig:缩略图") 會所Grand YOHO Club佔地逾13萬平方呎，連園林面積逾21萬平方呎，是元朗市及西鐵沿線最大私人會所。康文署在2018年［最佳園林大獎］中頒發Grand YOHO為全港屋苑第一名，表揚其傑出園景設計。\[4\]
+[缩略图](https://zh.wikipedia.org/wiki/File:Grand_yoho_pool.jpg "fig:缩略图") 會所Grand YOHO Club佔地逾13萬平方呎，連園林面積逾21萬平方呎，是元朗市及西鐵沿線最大私人會所。康文署在2018年［最佳園林大獎］中頒發Grand YOHO為全港屋苑第一名，表揚其傑出園景設計。\[5\]
 
 水上園區包括：戶外水上樂園、50米戶外泳池，30米室內恆溫泳池、3個主題游泳園區及兒童嬉水池。
 
@@ -34,17 +34,17 @@
 
 ## 公共空間及設施
 
-[缩略图](https://zh.wikipedia.org/wiki/File:Grand_YOHO_Bus_Stop_201707.jpg "fig:缩略图") Grand YOHO地下設公共交通總匯，基座形點商場一樓設通道連接西鐵元朗站及[輕鐵](../Page/香港輕鐵.md "wikilink")[元朗總站](https://zh.wikipedia.org/wiki/元朗總站 "wikilink")。基座亦另設元朗市東社區會堂及只提供68個豪華宿位的老人院舍「松齡雅苑」。\[5\]而在項目基座中央，則設有一個小型封閉式中庭，以容納一戶收地時堅持不肯出售土地的「[釘子戶](https://zh.wikipedia.org/wiki/釘子戶 "wikilink")」（批地條款中稱為「被困地段」）。
+[缩略图](https://zh.wikipedia.org/wiki/File:Grand_YOHO_Bus_Stop_201707.jpg "fig:缩略图") Grand YOHO地下設公共交通總匯，基座形點商場一樓設通道連接西鐵元朗站及[輕鐵](../Page/香港輕鐵.md "wikilink")[元朗總站](https://zh.wikipedia.org/wiki/元朗總站 "wikilink")。基座亦另設元朗市東社區會堂及只提供68個豪華宿位的老人院舍「松齡雅苑」。\[6\]而在項目基座中央，則設有一個小型封閉式中庭，以容納一戶收地時堅持不肯出售土地的「[釘子戶](https://zh.wikipedia.org/wiki/釘子戶 "wikilink")」（批地條款中稱為「被困地段」）。
 
 ## 銷售情況
 
-2016年8月，Grand YOHO 首批樓花價單公布，共接獲約17000張入票，超額54倍。入票數打破了香港塵封20年的紀錄，成為1997年後入票人數最多的屋苑，更成為香港歷史上入票人數第三多的屋苑，震撼全港樓市。而展銷廳運作首天已罕有錄得逾萬人排隊參觀，令[環球貿易廣場](../Page/環球貿易廣場.md "wikilink")人潮擁擠。\[6\]
+2016年8月，Grand YOHO 首批樓花價單公布，共接獲約17000張入票，超額54倍。入票數打破了香港塵封20年的紀錄，成為1997年後入票人數最多的屋苑，更成為香港歷史上入票人數第三多的屋苑，震撼全港樓市。而展銷廳運作首天已罕有錄得逾萬人排隊參觀，令[環球貿易廣場](../Page/環球貿易廣場.md "wikilink")人潮擁擠。\[7\]
 
-首批過後，Grand Yoho價格加幅極為驚人，每兩星期加價11-20%。有部份上下層同戶型單位出現隔2週加價180多萬元的誇張現像。\[7\]
+首批過後，Grand Yoho價格加幅極為驚人，每兩星期加價11-20%。有部份上下層同戶型單位出現隔2週加價180多萬元的誇張現像。\[8\]
 
-Grand Yoho 的普通戶和特色戶呎價均破了新界西和新界北的最高記錄。特色戶以$4076萬賣出，呎價$24437，大幅打破了[屯門站上蓋](https://zh.wikipedia.org/wiki/屯門站 "wikilink")[瓏門](../Page/瓏門.md "wikilink")的紀錄，成為新界西北區呎價最高單位。兩週後，另一天台戶又以呎價$25751成交，刷新自身記錄。而普通戶呎價也高達$19750，貴絕新界。\[8\]
+Grand Yoho 的普通戶和特色戶呎價均破了新界西和新界北的最高記錄。特色戶以$4076萬賣出，呎價$24437，大幅打破了[屯門站上蓋](https://zh.wikipedia.org/wiki/屯門站 "wikilink")[瓏門](../Page/瓏門.md "wikilink")的紀錄，成為新界西北區呎價最高單位。兩週後，另一天台戶又以呎價$25751成交，刷新自身記錄。而普通戶呎價也高達$19750，貴絕新界。\[9\]
 
-第2期項目於2017年1月以高價開售，新地表示惜售單位，只推售少量低層細單位。\[9\]其後，新地一直不肯開售其餘約550伙單位。到2018年6月，政府研究開徵住宅物業空置稅，發展商才決定把少量單位以招標形式出售，意向呎價$20000。\[10\]最終更勝預期，普通戶平均呎價$22000，最高呎價$28,836，再創新界標準戶紀錄\[11\]，亦創首個新界一房單位千萬成交\[12\]。
+第2期項目於2017年1月以高價開售，新地表示惜售單位，只推售少量低層細單位。\[10\]其後，新地一直不肯開售其餘約550伙單位。到2018年6月，政府研究開徵住宅物業空置稅，發展商才決定把少量單位以招標形式出售，意向呎價$20000。\[11\]最終更勝預期，普通戶平均呎價$22000，最高呎價$28,836，再創新界標準戶紀錄\[12\]，亦創首個新界一房單位千萬成交\[13\]。
 
 現時新鴻基地產再次暫停了單位出售。
 
@@ -67,7 +67,7 @@ Grand Yoho 的普通戶和特色戶呎價均破了新界西和新界北的最高
   - 的士站
   - 過境巴士：往返[深圳灣口岸](../Page/深圳灣口岸.md "wikilink")、[前海](https://zh.wikipedia.org/wiki/前海 "wikilink")、高鐵[福田站及深圳](https://zh.wikipedia.org/wiki/福田站 "wikilink")[寶安國際機場](https://zh.wikipedia.org/wiki/寶安國際機場 "wikilink")。
 
-商場一樓設候車區域，可代購機票，高鐵車票，提供行李儲物櫃、手機充電站及舒適座位供乘客使用。\[13\]
+商場一樓設候車區域，可代購機票，高鐵車票，提供行李儲物櫃、手機充電站及舒適座位供乘客使用。\[14\]
 
 ## 景觀
 
@@ -101,20 +101,22 @@ Grand Yoho 的普通戶和特色戶呎價均破了新界西和新界北的最高
 
 ## 外部連結
 
-  - [Grand YOHO官方網站](http://www.grandyoho.com.hk)
+  -
+[Category:_2017年完工建築物](https://zh.wikipedia.org/wiki/Category:_2017年完工建築物 "wikilink")
 
-[Category:元朗區私人屋苑](https://zh.wikipedia.org/wiki/Category:元朗區私人屋苑 "wikilink") [Category:元朗市中心](https://zh.wikipedia.org/wiki/Category:元朗市中心 "wikilink") [Category:新鴻基地產物業](https://zh.wikipedia.org/wiki/Category:新鴻基地產物業 "wikilink")
+[Category:元朗區私人屋苑](https://zh.wikipedia.org/wiki/Category:元朗區私人屋苑 "wikilink") [Category:元朗市中心](https://zh.wikipedia.org/wiki/Category:元朗市中心 "wikilink") [Category:新鴻基地產物業](https://zh.wikipedia.org/wiki/Category:新鴻基地產物業 "wikilink") [Category:2018年完工建築物](https://zh.wikipedia.org/wiki/Category:2018年完工建築物 "wikilink")
 
-1.  新地區內3項目 6000伙待售 《香港經濟日報》 2014年2月6日
-2.
+1.  [YOHO MIDTOWN & GRAND YOHO](https://www.agcdesign.com.hk/zh-hant/projects/details/14/12/). AGC Design.
+2.  新地區內3項目 6000伙待售 《香港經濟日報》 2014年2月6日
 3.
 4.
 5.
 6.
-7.  <https://hk.mobi.yahoo.com/finance/grand-yoho三周加價達183萬-215612996.html>
-8.
+7.
+8.  <https://hk.mobi.yahoo.com/finance/grand-yoho三周加價達183萬-215612996.html>
 9.
 10.
 11.
 12.
-13. [新地「Grand YOHO」盡享鐵路網優勢 擁西鐵沿綫基座交通總匯 令中港各地無遠弗屆 2016年8月4日](http://shkp.com.hk/Content/Uploads/GrandYOHO_Transportation_PressRelease_TC-b4d88a1a-9e98-44f5-b610-feba31f18375.pdf)
+13.
+14. [新地「Grand YOHO」盡享鐵路網優勢 擁西鐵沿綫基座交通總匯 令中港各地無遠弗屆 2016年8月4日](http://shkp.com.hk/Content/Uploads/GrandYOHO_Transportation_PressRelease_TC-b4d88a1a-9e98-44f5-b610-feba31f18375.pdf)

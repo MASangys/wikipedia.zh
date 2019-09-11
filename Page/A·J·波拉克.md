@@ -1,4 +1,4 @@
-**艾倫·洛倫茨·帕利克**（，），[美國棒球選手](https://zh.wikipedia.org/wiki/美國 "wikilink")，守備位置為[外野手](https://zh.wikipedia.org/wiki/外野手 "wikilink")，目前效力於[亞利桑那響尾蛇隊](https://zh.wikipedia.org/wiki/亞利桑那響尾蛇隊 "wikilink")。
+**艾倫·洛倫茨·帕利克**（，），[美國棒球選手](https://zh.wikipedia.org/wiki/美國 "wikilink")，守備位置為[外野手](https://zh.wikipedia.org/wiki/外野手 "wikilink")，目前效力於[洛杉磯道奇隊](https://zh.wikipedia.org/wiki/洛杉磯道奇隊 "wikilink")。
 
 ## 經歷
 

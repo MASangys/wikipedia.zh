@@ -23,6 +23,7 @@
   - 2010年 9月 *你(그대)*
   - 2013年 10月 *Always Be There*
   - 2013年 12月 *Thank Your Soul*
+  - 2019年 9月 *Right*(Feat. SOLE)
 
 ## 外部連結
 

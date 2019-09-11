@@ -345,7 +345,7 @@ Sachiya Hanami</p></td>
 <td><p>Nawaporn Chansuk</p></td>
 <td></td>
 <td><p>2期</p></td>
-<td></td>
+<td><p>預定畢業</p></td>
 <td></td>
 </tr>
 <tr class="even">

@@ -172,7 +172,7 @@
 <td style="text-align: center;"><p>12</p></td>
 <td><p>3月21日</p></td>
 <td><p>雙胞胎的人生 也是複製貼上？</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/BY2" title="wikilink">BY2</a>、<a href="../Page/雙胞胎依依佩佩.md" title="wikilink">依依</a>&amp;<a href="../Page/雙胞胎依依佩佩.md" title="wikilink">佩佩</a></p></td>
+<td><p><a href="../Page/BY2.md" title="wikilink">BY2</a>、<a href="../Page/雙胞胎依依佩佩.md" title="wikilink">依依</a>&amp;<a href="../Page/雙胞胎依依佩佩.md" title="wikilink">佩佩</a></p></td>
 <td><p>|- style="background-color: #FFFFFF;" |</p></td>
 <td style="text-align: center;"><p>13</p></td>
 <td><p>3月22日</p></td>
