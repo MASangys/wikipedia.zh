@@ -82,7 +82,7 @@
 於第36集回港，並代替黎國柱</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/黃梓瑋" title="wikilink">黃梓瑋</a></p></td>
+<td><p><a href="../Page/黃梓瑋.md" title="wikilink">黃梓瑋</a></p></td>
 <td><p>Janet</p></td>
 <td><p>急診室護士</p></td>
 </tr>

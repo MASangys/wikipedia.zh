@@ -70,7 +70,7 @@ SMS在欧洲地区最后一个发行的游戏是[Infogrames在](https://zh.wikip
 
 ### 其他
 
-Master System在2006年末又被设计成小型的手持版本。这部掌上游戏机用3节AAA电池供电，有一个更明亮的活动矩阵屏幕，以及内建20个[Game Gear和Master](../Page/Game_Gear.md "wikilink") System游戏。它挂了几个牌子发行，包括[Coleco](https://zh.wikipedia.org/wiki/Coleco "wikilink") and [PlayPal](https://zh.wikipedia.org/wiki/PlayPal "wikilink").\[6\]\[7\]
+Master System在2006年末又被设计成小型的手持版本。这部掌上游戏机用3节AAA电池供电，有一个更明亮的活动矩阵屏幕，以及内建20个[Game Gear和Master](../Page/Game_Gear.md "wikilink") System游戏。它挂了几个牌子发行，包括[Coleco](../Page/Coleco.md "wikilink") and [PlayPal](https://zh.wikipedia.org/wiki/PlayPal "wikilink").\[6\]\[7\]
 
 ### 纵观
 

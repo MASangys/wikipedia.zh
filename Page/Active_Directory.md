@@ -82,7 +82,7 @@ Active Directory極度依賴[DNS](https://zh.wikipedia.org/wiki/DNS "wikilink")�
 
 ### 實體儲存
 
-Active Directory使用強化過的[Microsoft Jet Database Engine](https://zh.wikipedia.org/wiki/Microsoft_Jet_Database_Engine "wikilink")（基於Microsoft Jet Blue計畫），即[Extensible Storage Engine](https://zh.wikipedia.org/wiki/Extensible_Storage_Engine "wikilink")（ESE98），可儲存16TB的資料量，理論上可容納十億個網域物件，檔案名稱為NTDS.dit，它儲存在%system_root%\\NTDS目錄中（這個目錄所在的磁碟也必須要是[NTFS](../Page/NTFS.md "wikilink")格式），內含了物件資料表以及連結資料表，在Windows Server 2003中加入了一個描述安全資訊的新資料表。
+Active Directory使用強化過的[Microsoft Jet Database Engine](../Page/Microsoft_Jet_Database_Engine.md "wikilink")（基於Microsoft Jet Blue計畫），即[Extensible Storage Engine](https://zh.wikipedia.org/wiki/Extensible_Storage_Engine "wikilink")（ESE98），可儲存16TB的資料量，理論上可容納十億個網域物件，檔案名稱為NTDS.dit，它儲存在%system_root%\\NTDS目錄中（這個目錄所在的磁碟也必須要是[NTFS](../Page/NTFS.md "wikilink")格式），內含了物件資料表以及連結資料表，在Windows Server 2003中加入了一個描述安全資訊的新資料表。
 
 而在AD更新資料時的記錄，都被儲存在edb\*.log，預設的名稱為edb.log，其他的檔案使用"edb" +數字 + ".log"來記錄，另搭配了edb.chk作為檢查點記錄檔，以及Res1.log和Res2.log作為系統的保留檔案。
 

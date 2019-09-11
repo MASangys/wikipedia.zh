@@ -34,7 +34,7 @@ Skype於2005年9月12日被網路拍賣巨擘eBay公司以26億美元（約新�
 
 在2008年4月，公司推出了用於[Windows Mobile的Skype軟體](../Page/Windows_Mobile.md "wikilink")。此軟體建基於[Java](../Page/Java.md "wikilink")，可以接收Skype和SkypeIn的呼叫，亦可以收發即時訊息\[21\]。
 
-2010年12月，出现过一次全球宕機事件\[22\]。
+2010年12月，出现过一次全球停機事件\[22\]。
 
 2011年5月10日，微軟宣布以85億美元現金併購了Skype\[23\]。
 

@@ -16,23 +16,23 @@
   - [月家的一族](https://zh.wikipedia.org/wiki/月家的一族 "wikilink")（司書房）
   - 雛（）（司書房、短編集）
   - 西瓜、海、太陽（）（司書房）
-  - [ちまちまはいすくーる](https://zh.wikipedia.org/wiki/ちまちまはいすくーる "wikilink")（少年畫報社）
-  - [痛快すずらん通り](https://zh.wikipedia.org/wiki/痛快すずらん通り "wikilink")（少年畫報社）
+  - [ちまちまはいすくーる](https://zh.wikipedia.org/wiki/ちまちまはいすくーる "wikilink")（少年画報社）
+  - [痛快すずらん通り](https://zh.wikipedia.org/wiki/痛快すずらん通り "wikilink")（少年画報社）
   - [The☆花Q World](https://zh.wikipedia.org/wiki/The☆花Q_World "wikilink")（）（司書房、付[CD-ROM](../Page/CD-ROM.md "wikilink")的短編集）
-  - [HoneyBlue](https://zh.wikipedia.org/wiki/HoneyBlue "wikilink")（少年畫報社）
+  - [HoneyBlue](https://zh.wikipedia.org/wiki/HoneyBlue "wikilink")（少年画報社）
   - [冒険どきの私達伝説](https://zh.wikipedia.org/wiki/冒険どきの私達伝説 "wikilink")（[集英社](../Page/集英社.md "wikilink")）
-  - 白色月光（）（少年畫報社、全2集）
+  - 白色月光（）（少年画報社、全2集）
   - おひさま（司書房、短編集）
-  - [桃色三悟](https://zh.wikipedia.org/wiki/桃色三悟 "wikilink")（）（Young King連載、少年畫報社、1～11卷發售中）
+  - [桃色三悟](https://zh.wikipedia.org/wiki/桃色三悟 "wikilink")（）（Young King連載、少年画報社、1～11卷發售中）
   - [BWH](https://zh.wikipedia.org/wiki/BWH "wikilink")（集英社、全3集）
   - [電動侍](https://zh.wikipedia.org/wiki/電動侍 "wikilink")（[大都社](https://zh.wikipedia.org/wiki/大都社 "wikilink")）
   - 花ごよみ（司書房、短編集（「雛」、「おひさま」再收錄））
   - 西瓜、海、太陽（大都社、新裝版）
   - 月家一族（）（大都社、新裝版）
   - [REC](../Page/REC.md "wikilink")（「月刊Sunday GENE-X連載」、小學館、1～14卷發售中）
-  - [NAGI](https://zh.wikipedia.org/wiki/NAGI "wikilink")（少年畫報社）
-  - ちますず（少年畫報社、「ちまちまはいすくーる」、「痛快すずらん通り」新裝版）
-  - 白色月光 完全版（少年畫報社、新裝版）
+  - [NAGI](https://zh.wikipedia.org/wiki/NAGI "wikilink")（少年画報社）
+  - ちますず（少年画報社、「ちまちまはいすくーる」、「痛快すずらん通り」新裝版）
+  - 白色月光 完全版（少年画報社、新裝版）
   - 花見澤Q太郎 THE WORLD earlytime collection（司書房、付[CD-ROM](../Page/CD-ROM.md "wikilink")的短編、插畫集（含再收錄））
   - 少年啊、要胸懷大志！（2011年8月 - 2013年7月、少年画報社、『月刊ヤングキングアワーズGH』連載、全4巻）
 

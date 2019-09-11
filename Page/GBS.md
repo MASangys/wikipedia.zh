@@ -1,6 +1,6 @@
 **GBS**可以指：
 
-  - [Geneva Business School日内瓦商学院](https://zh.wikipedia.org/wiki/Geneva_Business_School "wikilink")
+  - [日内瓦商学院（Geneva Business School)](https://zh.wikipedia.org/wiki/日内瓦商学院（Geneva_Business_School\) "wikilink")
   - [Game Boy音樂格式](../Page/Game_Boy.md "wikilink")（Game Boy Sound System）
   - [胃繞道手術](https://zh.wikipedia.org/wiki/胃繞道手術 "wikilink")（gastric bypass surgery）：一種[減肥](https://zh.wikipedia.org/wiki/減肥 "wikilink")[手術](https://zh.wikipedia.org/wiki/手術 "wikilink")。
   - [蕭伯納](https://zh.wikipedia.org/wiki/蕭伯納 "wikilink")（George Bernard Shaw）：[愛爾蘭](https://zh.wikipedia.org/wiki/愛爾蘭 "wikilink")[劇作家](https://zh.wikipedia.org/wiki/劇作家 "wikilink")。

@@ -54,9 +54,11 @@
   - 《[晚間台語新聞](https://zh.wikipedia.org/wiki/晚間台語新聞 "wikilink")》：[蘇逸洪](../Page/蘇逸洪.md "wikilink")、[詹慶齡](../Page/詹慶齡.md "wikilink")、[蘇宗怡](https://zh.wikipedia.org/wiki/蘇宗怡 "wikilink")、[張婯嬅](../Page/張婯嬅.md "wikilink")、[陳雅琳](../Page/陳雅琳.md "wikilink")播報。
   - 《[午間台語新聞](https://zh.wikipedia.org/wiki/午間台語新聞 "wikilink")》：[蘇逸洪](../Page/蘇逸洪.md "wikilink")、[詹慶齡](../Page/詹慶齡.md "wikilink")、[蘇宗怡](https://zh.wikipedia.org/wiki/蘇宗怡 "wikilink")、[張婯嬅](../Page/張婯嬅.md "wikilink")、[陳雅琳](../Page/陳雅琳.md "wikilink")播報。
   - 《[TVBS創富新聞](https://zh.wikipedia.org/wiki/TVBS創富新聞 "wikilink")》：[黃斐瑜](../Page/黃斐瑜.md "wikilink")、[蔡宜靜播報](https://zh.wikipedia.org/wiki/蔡宜靜 "wikilink")。
+  - 《[周末熊新聞](../Page/周末熊新聞.md "wikilink")》：2013年6月29日開播，由[郭子乾](../Page/郭子乾.md "wikilink")、[九孔](../Page/九孔_\(藝人\).md "wikilink")、[陳漢典](../Page/陳漢典.md "wikilink")主持。
   - 《[台灣是我家](../Page/台灣是我家.md "wikilink")》：2014年4月5日開播，由[吳安琪](../Page/吳安琪.md "wikilink")、[李文儀](../Page/李文儀.md "wikilink")主持。
   - 《[背包客來尞](https://zh.wikipedia.org/wiki/背包客來尞 "wikilink")》：2015年10月24日開播，由[劉道玄](../Page/劉道玄.md "wikilink")主持。
   - 《[宅男的世界](https://zh.wikipedia.org/wiki/宅男的世界 "wikilink")》：2016年3月14日開播，由[蘇宗怡主持](https://zh.wikipedia.org/wiki/蘇宗怡 "wikilink")。
+  - 《[星鮮話](https://zh.wikipedia.org/wiki/星鮮話 "wikilink")》：2017年8月14日開播，由[郭靜](../Page/郭靜.md "wikilink")主持。
 
 ### 談話節目
 
@@ -65,10 +67,11 @@
   - 《[2100全民開講](../Page/2100全民開講.md "wikilink")》：[李濤主持](https://zh.wikipedia.org/wiki/李濤 "wikilink")。
   - 《[2100黑白相對論](../Page/2100黑白相對論.md "wikilink")》
   - 《[TVBS創富人生](https://zh.wikipedia.org/wiki/TVBS創富人生 "wikilink")》：[林婉婷](https://zh.wikipedia.org/wiki/林婉婷 "wikilink")、[王慧文主持](https://zh.wikipedia.org/wiki/王慧文 "wikilink")。（轉型為創富新聞）
+  - 《[TVBS特別企劃](https://zh.wikipedia.org/wiki/TVBS特別企劃 "wikilink")》由[趙少康](../Page/趙少康.md "wikilink")、[鄭麗文](../Page/鄭麗文.md "wikilink")主持
   - 《[麗文正經話](../Page/麗文正經話.md "wikilink")》：2014年3月17日開播（前身為《Today正經話》），由[鄭麗文](../Page/鄭麗文.md "wikilink")固定主持。
   - 《[少康會客室](../Page/少康會客室.md "wikilink")》：2015年9月28日開播，由[趙少康](../Page/趙少康.md "wikilink")主持。
   - 《[讚聲大國民](../Page/讚聲大國民.md "wikilink")》：2015年7月13日開播，由[鄭凱云](../Page/鄭凱云.md "wikilink")固定主持，2016年2月1日起改成[TVBS主播](../Page/TVBS_\(頻道\).md "wikilink")[蘇宗怡固定主持](https://zh.wikipedia.org/wiki/蘇宗怡 "wikilink")。
-  - 《[TVBS特別企劃](https://zh.wikipedia.org/wiki/TVBS特別企劃 "wikilink")》由[趙少康](../Page/趙少康.md "wikilink")、[鄭麗文](../Page/鄭麗文.md "wikilink")主持
+  - 《[小燕有約](../Page/小燕有約_\(TVBS\).md "wikilink")》：2017年3月6日開播，由[張小燕主持](../Page/張小燕_\(臺灣\).md "wikilink")。
 
 ## 美國版本播放
 

@@ -1,10 +1,14 @@
-[Minami_Kuribayashi,_Kimi_ga_Nozomu_Eien_20100701.jpg](https://zh.wikipedia.org/wiki/File:Minami_Kuribayashi,_Kimi_ga_Nozomu_Eien_20100701.jpg "fig:Minami_Kuribayashi,_Kimi_ga_Nozomu_Eien_20100701.jpg") **Minami**（）是[日本](../Page/日本.md "wikilink")[靜岡縣](../Page/靜岡縣.md "wikilink")[静冈市](https://zh.wikipedia.org/wiki/静冈市 "wikilink")[葵區](../Page/葵區.md "wikilink")出身的女[歌手](../Page/歌手.md "wikilink")、[作詞家及](https://zh.wikipedia.org/wiki/作詞家 "wikilink")[作曲家](https://zh.wikipedia.org/wiki/作曲家 "wikilink")，她除了正職歌手以外還做兼職[聲優](../Page/聲優.md "wikilink")。舊名為「-{栗}-林美奈實」。暱稱「」，[血型AB型](https://zh.wikipedia.org/wiki/血型 "wikilink")。
+[Minami_Kuribayashi,_Kimi_ga_Nozomu_Eien_20100701.jpg](https://zh.wikipedia.org/wiki/File:Minami_Kuribayashi,_Kimi_ga_Nozomu_Eien_20100701.jpg "fig:Minami_Kuribayashi,_Kimi_ga_Nozomu_Eien_20100701.jpg") **栗林 美奈实**（）是[日本](../Page/日本.md "wikilink")[靜岡縣](../Page/靜岡縣.md "wikilink")[静冈市](https://zh.wikipedia.org/wiki/静冈市 "wikilink")[葵區](../Page/葵區.md "wikilink")出身的女[歌手](../Page/歌手.md "wikilink")、[作詞家及](https://zh.wikipedia.org/wiki/作詞家 "wikilink")[作曲家](https://zh.wikipedia.org/wiki/作曲家 "wikilink")，她除了正職歌手以外還做兼職[聲優](../Page/聲優.md "wikilink")。舊名為「Minami」。暱稱「」，[血型AB型](https://zh.wikipedia.org/wiki/血型 "wikilink")。
 
 ## 人物
 
 常葉学園橘高等学校音樂科、[代代木動畫學院](../Page/代代木動畫學院.md "wikilink")声優人才科（[特待生](https://zh.wikipedia.org/wiki/特待生 "wikilink")）畢業。幼稚園到[短期大學畢業都在學習鋼琴](https://zh.wikipedia.org/wiki/短期大學 "wikilink")，短大還專攻[声樂](https://zh.wikipedia.org/wiki/声樂 "wikilink")。從短大入学到2000年頃曾組過樂團，演唱、作詞、作曲一手包辦，當時拔擢為廣播節目助手，製作[廣播劇](../Page/廣播劇.md "wikilink")主題曲為契機\[1\]，以本名**村上久美子**名義從事音樂活動，但不順遂；直到改[藝名](../Page/藝名.md "wikilink")為-{栗}-林美奈實，參與成人遊戲《[你所期望的永遠](../Page/你所期望的永遠.md "wikilink")》配音並演唱主題曲才聲名大噪。2016年以出道15週年為由，宣布改用現在藝名Minami\[2\]。
 
 2015年宣佈已育有一男\[3\]。
+
+2016年、艺名从「**栗林みな実**」改为「**Minami**」。
+
+2019年8月3日、在个人官网宣布艺名改回「**栗林みな実**」\[4\]。
 
 ## 出演作品
 
@@ -563,3 +567,4 @@ CD2
 1.  [](http://www45.tok2.com/home/minami/index_rekishi2125.htm)
 2.   Minamiオフィシャルブログ|accessdate=2016-07-31|last=m-kuribayashi}}
 3.   Minamiオフィシャルブログ|accessdate=2016-07-31|last=m-kuribayashi}}
+4.

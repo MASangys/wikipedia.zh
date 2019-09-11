@@ -1,6 +1,6 @@
 [Tap.a330-200.cs-toe.arp.jpg](https://zh.wikipedia.org/wiki/File:Tap.a330-200.cs-toe.arp.jpg "fig:Tap.a330-200.cs-toe.arp.jpg")
 
-**TAP葡萄牙航空**（），中文簡稱**葡航**，是[葡萄牙](../Page/葡萄牙.md "wikilink")的[國家航空公司](../Page/國家航空公司.md "wikilink")。该公司為[星空聯盟](../Page/星空聯盟.md "wikilink")的成員之一，以-{[里斯本](../Page/里斯本.md "wikilink")}-為該公司基地，葡萄牙航空的主要業務是經營[歐洲](https://zh.wikipedia.org/wiki/歐洲 "wikilink")、[非洲](../Page/非洲.md "wikilink")、[美洲](../Page/美洲.md "wikilink")的業務。
+**TAP葡萄牙航空**（），常見的非正式中文名稱為**葡萄牙航空**，中文簡稱**葡航**，是[葡萄牙](../Page/葡萄牙.md "wikilink")的[國家航空公司](../Page/國家航空公司.md "wikilink")。该公司為[星空聯盟](../Page/星空聯盟.md "wikilink")的成員之一，以-{[里斯本](../Page/里斯本.md "wikilink")}-為該公司基地，葡萄牙航空的主要業務是經營[歐洲](https://zh.wikipedia.org/wiki/歐洲 "wikilink")、[非洲](../Page/非洲.md "wikilink")、[美洲](../Page/美洲.md "wikilink")的業務。
 
 ## 歷史
 
@@ -33,7 +33,7 @@ TAP葡萄牙航空曾持有下列航空公司的股份：
 | [空中巴士A319-111](https://zh.wikipedia.org/wiki/空中客车A320 "wikilink")       | 21                         | －   | 60  | 84  |
 | [空中巴士A320-214](https://zh.wikipedia.org/wiki/空中巴士A320 "wikilink")       | 21                         | －   | 42  | 132 |
 | [空中巴士A320neo](https://zh.wikipedia.org/wiki/空中巴士A320neo系列 "wikilink")   | 1                          | 18  | 42  | 132 |
-| [空中巴士空中巴士A321-211](https://zh.wikipedia.org/wiki/空中巴士A320系列 "wikilink") | 4                          | －   | 12  | 204 |
+| [空中巴士A321-211](https://zh.wikipedia.org/wiki/空中巴士A320系列 "wikilink")     | 4                          | －   | 12  | 204 |
 | [空中巴士A321neo](https://zh.wikipedia.org/wiki/空中巴士A320neo系列 "wikilink")   | 3                          | 16  | 12  | 204 |
 | [空中巴士A321neoLR](https://zh.wikipedia.org/wiki/空中巴士A320neo系列 "wikilink") | －                          | 14  | 16  | 152 |
 | [空中巴士A330-202／-223](../Page/空中客车A330.md "wikilink")                     | 12                         | －   | 25  | 244 |

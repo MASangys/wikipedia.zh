@@ -35,9 +35,9 @@
 
 ## 發展歷程
 
-**Raidas**成立於1986年6月，以原創作品《[吸煙的女人](https://zh.wikipedia.org/wiki/吸煙的女人 "wikilink")》参加「[亞太流行歌曲創作大賽香港區決賽](https://zh.wikipedia.org/wiki/亞太流行歌曲創作大賽 "wikilink")」，獲得亞軍而成名並加入樂壇。
+**Raidas**成立於1986年6月，以原創作品《[吸煙的女人](../Page/吸煙的女人.md "wikilink")》参加「[亞太流行歌曲創作大賽香港區決賽](https://zh.wikipedia.org/wiki/亞太流行歌曲創作大賽 "wikilink")」，獲得亞軍而成名並加入樂壇。
 
-Raidas的兩位成員，[黄耀光負責作曲和編曲](https://zh.wikipedia.org/wiki/黄耀光 "wikilink")，[陳德彰則負責主唱](https://zh.wikipedia.org/wiki/陳德彰 "wikilink")。而自《吸煙的女人》開始，他們的歌詞大多數都由同時出道的填詞人[林夕](../Page/林夕.md "wikilink")所包辦，不少人都視他為組合的第三位成員。現時無線電視藝員[蔣志光當時是Raidas的隱形成員](https://zh.wikipedia.org/wiki/蔣志光_\(藝員\) "wikilink")，當年[黃耀光參加創作比賽](https://zh.wikipedia.org/wiki/黃耀光 "wikilink")，原先打算找蔣志光作伙伴，但[蔣志光](../Page/蔣志光.md "wikilink")跟[寶麗金](../Page/寶麗金.md "wikilink")唱片公司簽了約，黃耀光才找陳德彰搭檔，Raidas推出的唱片中，蔣志光全部有參與製作，但沒有出名（僅以筆名小光的名義）。
+Raidas的兩位成員，[黄耀光負責作曲和編曲](https://zh.wikipedia.org/wiki/黄耀光 "wikilink")，[陳德彰則負責主唱](https://zh.wikipedia.org/wiki/陳德彰 "wikilink")。而自《吸煙的女人》開始，他們的歌詞大多數都由同時出道的填詞人[林夕](../Page/林夕.md "wikilink")所包辦，不少人都視他為組合的第三位成員。現時[無綫電視藝員](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[蔣志光當時是Raidas的隱形成員](https://zh.wikipedia.org/wiki/蔣志光_\(藝員\) "wikilink")，當年[黃耀光參加創作比賽](https://zh.wikipedia.org/wiki/黃耀光 "wikilink")，原先打算找蔣志光作伙伴，但[蔣志光](../Page/蔣志光.md "wikilink")跟[寶麗金](../Page/寶麗金.md "wikilink")唱片公司簽了約，黃耀光才找陳德彰搭檔，Raidas推出的唱片中，蔣志光全部有參與製作，但沒有出名（僅以筆名小光的名義）。
 
 Raidas的作品，深受80年代英倫[電子音樂](../Page/電子音樂.md "wikilink")的影响，著重旋律的節奏感。當中較流行的有《[傳說](../Page/傳說_\(Raidas專輯\).md "wikilink")》、《[傾心](../Page/傳說_\(Raidas專輯\).md "wikilink")》、《[別人的歌](../Page/傳說_\(Raidas專輯\).md "wikilink")》、《[某月某日](../Page/傳說_\(Raidas專輯\).md "wikilink")》、《危險遊戲》和《沒有路人的都市》等多首。
 
@@ -49,7 +49,7 @@ Raidas出版了一張[EP和兩張大碟後](https://zh.wikipedia.org/wiki/EP "wi
 
 | 專輯 \# | 專輯名稱                                                                        | 發行日期       |
 | :---- | :-------------------------------------------------------------------------- | :--------- |
-| 1st   | [吸煙的女人](https://zh.wikipedia.org/wiki/吸煙的女人 "wikilink")                     | 1986年6月    |
+| 1st   | [吸煙的女人](../Page/吸煙的女人.md "wikilink")                                        | 1986年6月    |
 | 2nd   | [傳說](../Page/傳說_\(Raidas專輯\).md "wikilink")                                 | 1987年3月16日 |
 | 3rd   | [Raidas 87](https://zh.wikipedia.org/wiki/Raidas_87 "wikilink")             | 1987年12月   |
 | 4th   | [陳德彰．Raidas新曲+精選](https://zh.wikipedia.org/wiki/陳德彰．Raidas新曲+精選 "wikilink") | 1989年9月    |

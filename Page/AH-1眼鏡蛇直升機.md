@@ -145,6 +145,8 @@ AH-1系列事实上可看作是UH-1（[贝尔204](https://zh.wikipedia.org/wiki/
   - ****
       - AH-1F（24架在役）
   - ****
+      - AH-1Z（訂購4架，該型機第一個買主國）\[9\]
+  - ****
       - AH-1J（交货202架）
       - [Panha 2091](https://zh.wikipedia.org/wiki/Panha_2091 "wikilink")（在运用[逆向工程](../Page/逆向工程.md "wikilink")学研究AH-1J后，非法仿造的版本）
   - ****
@@ -269,3 +271,5 @@ AH-1Z蝰蛇在[电脑游戏](https://zh.wikipedia.org/wiki/电脑 "wikilink")[�
 7.  （2004）International Air Power Review, Volume 12. AIRtime Publishing. ISBN 978-1-880588-77-2.
 
 8.  Frawley, Gerard: The International Directory of Military Aircraft, page 148. Aerospace Publications Pty Ltd, 2002. ISBN 978-1-875671-55-7
+
+9.  [捷克採購8架UH-1Y、 4架AH-1Z直升機 俗擱大碗](https://www.ydn.com.tw/News/349676?fbclid=IwAR29zpCalt-MmA8hch_E7u5SUAfgqFQhAKmcUkpJiZPWjnRx2vqQiPYVbQY)

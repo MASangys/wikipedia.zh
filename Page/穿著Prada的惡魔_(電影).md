@@ -31,13 +31,13 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/艾蜜莉·布朗" title="wikilink">艾蜜莉·布朗</a></p></td>
-<td><p>艾米丽·查尔顿<br />
+<td><p>愛蜜莉·查尔顿<br />
 </p></td>
 <td><p>現任米兰达的第一助理。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/史丹利·特治.md" title="wikilink">史丹利·特治</a></p></td>
-<td><p>奈杰尔<br />
+<td><p>奈吉<br />
 </p></td>
 <td><p>时尚杂志《伸展台》艺术总监。</p></td>
 </tr>
@@ -111,7 +111,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p>杰奎琳·福利特<br />
+<td><p>賈桂琳·福利特<br />
 </p></td>
 <td><p>《伸展台》法国版主编。</p></td>
 </tr>

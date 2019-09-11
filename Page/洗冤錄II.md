@@ -248,6 +248,7 @@
 <td><p><a href="../Page/劉錦玲.md" title="wikilink">劉錦玲</a></p></td>
 <td><p><strong>紫霞郡主</strong></p></td>
 <td><p>夏侯國棟之妻<br />
+趙遠材之妹<br />
 為替夏侯國棟報仇，而展開一連串的行動陷害<a href="../Page/宋慈.md" title="wikilink">宋慈</a><br />
 殺害陳明、王秀嫻、何淑蘭、王七以及江州大牢25條人命的幕後主使<br />
 于第22集喝下毒藥而死</p></td>
@@ -410,7 +411,8 @@
 <tr class="odd">
 <td><p><a href="../Page/曹永廉.md" title="wikilink">曹永廉</a></p></td>
 <td><p>馬伯豪</p></td>
-<td><p>鎮國少將軍</p></td>
+<td><p>鎮國少將軍<br />
+驍騎大將軍之子</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/李國麟_(演員).md" title="wikilink">李國麟</a></p></td>

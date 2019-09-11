@@ -74,7 +74,7 @@ CD技術其後被用作儲存資料，稱為[CD-ROM](../Page/CD-ROM.md "wikilink
 
 ## 参考文献及注释
 
-[Category:光碟](https://zh.wikipedia.org/wiki/Category:光碟 "wikilink") [Category:1982年初次投入使用](https://zh.wikipedia.org/wiki/Category:1982年初次投入使用 "wikilink") [Category:聲音儲存](https://zh.wikipedia.org/wiki/Category:聲音儲存 "wikilink") [Category:數位音訊](https://zh.wikipedia.org/wiki/Category:數位音訊 "wikilink") [Category:高端音频](https://zh.wikipedia.org/wiki/Category:高端音频 "wikilink") [Category:影像儲存](https://zh.wikipedia.org/wiki/Category:影像儲存 "wikilink") [Category:荷兰发明](https://zh.wikipedia.org/wiki/Category:荷兰发明 "wikilink") [Category:日本发明](https://zh.wikipedia.org/wiki/Category:日本发明 "wikilink")
+[Category:光碟](https://zh.wikipedia.org/wiki/Category:光碟 "wikilink") [Category:1982年面世](https://zh.wikipedia.org/wiki/Category:1982年面世 "wikilink") [Category:聲音儲存](https://zh.wikipedia.org/wiki/Category:聲音儲存 "wikilink") [Category:數位音訊](https://zh.wikipedia.org/wiki/Category:數位音訊 "wikilink") [Category:高端音频](https://zh.wikipedia.org/wiki/Category:高端音频 "wikilink") [Category:影像儲存](https://zh.wikipedia.org/wiki/Category:影像儲存 "wikilink") [Category:荷兰发明](https://zh.wikipedia.org/wiki/Category:荷兰发明 "wikilink") [Category:日本发明](https://zh.wikipedia.org/wiki/Category:日本发明 "wikilink")
 
 1.  [Sony Japan | Sony History　第8章　「レコードに代わるものはこれだ」](http://www.sony.co.jp/SonyInfo/CorporateInfo/History/SonyHistory/2-08.html)
 2.  [Optical Recording: Beethoven's Ninth Symphony of greater importance than technology (cache)](https://web.archive.org/web/20080129201342/http://www.research.philips.com/newscenter/dossier/optrec/beethoven.html), Philips

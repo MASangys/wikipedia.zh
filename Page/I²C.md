@@ -1,4 +1,4 @@
-[I2C.svg](https://zh.wikipedia.org/wiki/File:I2C.svg "fig:I2C.svg") **I²C**（**Inter-Integrated Circuit**）字面上的意思是**積體電路之間**，中国大陆译为“集成电路之间”，它其實是**I²C Bus**簡稱，所以中文應該叫**積體電路匯流排**，在中国大陆被称作为“集成电路总线”，它是一種-{zh:串列;zh-hant:串列;zh-hans:串行}-通訊匯流排，使用多主從架構，由[飛利浦](../Page/飛利浦.md "wikilink")公司在1980年代為了讓[主機板](https://zh.wikipedia.org/wiki/主機板 "wikilink")、[嵌入式系統或](https://zh.wikipedia.org/wiki/嵌入式系統 "wikilink")[手機用以連接低速週邊裝置而發展](https://zh.wikipedia.org/wiki/手機 "wikilink")。I²C的正確讀法為“I平方C”（"I-squared-C"），而“I二C”（"I-two-C"）則是另一種錯誤但被廣泛使用的讀法。自2006年10月1日起，使用I²C協定已經不需要支付專利費，但製造商仍然需要付費以取得I²C從屬裝置位址。
+[I2C.svg](https://zh.wikipedia.org/wiki/File:I2C.svg "fig:I2C.svg") **I²C**（**Inter-Integrated Circuit**）字面上的意思是**積體電路之間**，它其實是**I²C Bus**簡稱，所以中文應該叫**-{zh-hant:積體電路匯流排;zh-hans:集成电路总线}-**，它是一種-{zh:串列;zh-hant:串列;zh-hans:串行}-通訊匯流排，使用多主從架構，由[飛利浦](../Page/飛利浦.md "wikilink")公司在1980年代為了讓[主機板](https://zh.wikipedia.org/wiki/主機板 "wikilink")、[嵌入式系統或](https://zh.wikipedia.org/wiki/嵌入式系統 "wikilink")[手機用以連接低速週邊裝置而發展](https://zh.wikipedia.org/wiki/手機 "wikilink")。I²C的正確讀法為“I平方C”（"I-squared-C"），而“I二C”（"I-two-C"）則是另一種錯誤但被廣泛使用的讀法。自2006年10月1日起，使用I²C協定已經不需要支付專利費，但製造商仍然需要付費以取得I²C從屬裝置位址。
 
 ## 設計概說
 

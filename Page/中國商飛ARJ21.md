@@ -352,7 +352,7 @@ ARJ21使用了1960年代[麦克唐纳·道格拉斯轉移的](https://zh.wikiped
 
 37. [3](http://news.qq.com/a/20131230/012392.htm)
 
-38. [中國商飛ARJ21飛機完成自然結冰試飛，總[航程](https://zh.wikipedia.org/wiki/航程 "wikilink")3萬公里（2014年4月28日，airpress）](http://mshandong.com/ex/2014/04/28/arj21-700-finished-natural-icing-flight-test-in-canada/6450/)
+38. [中國商飛ARJ21飛機完成自然結冰試飛，總航程3萬公里（2014年4月28日，airpress）](http://mshandong.com/ex/2014/04/28/arj21-700-finished-natural-icing-flight-test-in-canada/6450/)
 
 39. [4](http://news.163.com/14/1030/11/A9Q4OJ6R00014AED.html)
 

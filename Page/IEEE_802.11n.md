@@ -4,9 +4,8 @@
 
 ## 技術特點
 
-  - 802.11n增加了对于[MIMO](../Page/MIMO.md "wikilink")的标准，使用多个发射和[接收天线来允许更高的数据传输率](https://zh.wikipedia.org/wiki/接收天线 "wikilink")，并使用了Alamouti于1998年提出的[空时分组码来增加传输范围](https://zh.wikipedia.org/wiki/空时分组码 "wikilink")。
-  - 802.11n支持在标准带宽（20MHz）上的速率包括有（单位Mbit/s）：7.2, 14.4, 21.7, 28.9, 43.3, 57.8, 65, 72.2（短保护间隔，单数据流）。使用4xMIMO时速度最高为300Mbit/s。
-  - 802.11n也支持双倍带宽（40MHz），当使用40MHz带宽和4\*MIMO时，速度最高可达600Mbit/s。
+  - 802.11n增加了对于[MIMO](../Page/MIMO.md "wikilink")的标准，使用多个[天线](../Page/天线.md "wikilink")来允许更高的数据传输率，并使用了Alamouti于1998年提出的[空时分组码来增加传输范围](https://zh.wikipedia.org/wiki/空时分组码 "wikilink")。
+  - 802.11n的最高速率為450 Mbps\[3\]。
 
 ## 限制
 
@@ -26,3 +25,4 @@
 
 1.
 2.
+3.  <https://www.intel.com.tw/content/www/tw/zh/support/articles/000005725/network-and-io/wireless-networking.html>

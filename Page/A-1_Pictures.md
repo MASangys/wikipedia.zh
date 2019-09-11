@@ -443,6 +443,10 @@
 
   - [劇場版 FAIRY TAIL -DRAGON CRY-](https://zh.wikipedia.org/wiki/FAIRY_TAIL "wikilink")（）（2017年）
 
+  - [歌之王子殿下 真愛王國](../Page/歌之王子殿下.md "wikilink")（）（2019年）
+
+  - [劇場版 高校艦隊](../Page/高校艦隊.md "wikilink")（）（2020年）
+
 ### 遊戲動畫
 
   - [王牌投手 振臂高揮 或許能成為真正的王牌](../Page/王牌投手_振臂高揮.md "wikilink") （）（[任天堂DS](../Page/任天堂DS.md "wikilink")，2007年）－動畫、CG製作。

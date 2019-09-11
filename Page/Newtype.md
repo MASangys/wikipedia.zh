@@ -96,7 +96,7 @@ Newtype 不能窮盡系列的新人類的概念，因為新人類並不是首先
 
 特指在[GUNDAM系列作品](../Page/GUNDAM系列作品.md "wikilink")使用的無人兵器，通常有一個新人類的[駕駛員或](https://zh.wikipedia.org/wiki/駕駛員 "wikilink")[指揮官](https://zh.wikipedia.org/wiki/指揮官 "wikilink")，在專用的[機動戰士或](https://zh.wikipedia.org/wiki/機動戰士 "wikilink")[機動裝甲](../Page/機動裝甲.md "wikilink")上控制的，少數可以在[宇宙戰艦](../Page/宇宙戰艦.md "wikilink")和固定基地操作。以新人類的心靈感應透過駕駛艙用特別的儀器(精神感應系統)來指揮，可以從多個方位包圍攻擊少數集合的或單個的敵人的戰術，稱為All-Range Attacks。唯[GUNDAM W和](https://zh.wikipedia.org/wiki/GUNDAM_W "wikilink")[鐵血的孤兒並未出現類似的武器](https://zh.wikipedia.org/wiki/鐵血的孤兒 "wikilink")。
 
-  - 感應炮, 全寫精神感應炮，也有時稱作浮遊炮，是一組從主機發射的帶小型光束[無人戰鬥航空載具](../Page/無人戰鬥航空載具.md "wikilink")，一般大小和[空對空導彈](https://zh.wikipedia.org/wiki/空對空導彈 "wikilink")，無線控制和自帶電源用[火箭](../Page/火箭.md "wikilink")推進。原始設計是在太空使用但間有在地球表面使用的戰例。是[宇宙世紀](../Page/宇宙世紀.md "wikilink")0080年代中後期起，和一部分其他相似設定的作品中([GUNDAM X](https://zh.wikipedia.org/wiki/GUNDAM_X "wikilink")、[GUNDAM 00](https://zh.wikipedia.org/wiki/GUNDAM_00 "wikilink")、[GUNDAM AGE](https://zh.wikipedia.org/wiki/GUNDAM_AGE "wikilink"))的武器，是一種利用新人類(含NEWTYPE、INNOVATOR、X-ROUNDER)的強大精神力,以及對米諾夫斯基或GN粒子的影響對遠距離的無人武裝子機作出控制的兵器，這種兵裝在宇宙世紀中稱為Funnel在其他系列(GUNDAM X/00/AGE)稱為Bit，機制是不使用傳統頻道而是以放大[腦波](../Page/腦波.md "wikilink")傳通信號。雖然在純理論上是仍然屬於無線電控制，但因為腦波的波長極大，同一時間用可以傳送的信息較傳統無線電波少，所以需要在極短時間作出正確的指令，所以通常是用心靈感應的方式控制。缺點:一是只有新人類(含強化人)才可以用，二是會洩漏信息而被敵人截聽到主機所在或其對感應炮的指令，三是因為火箭燃料儲存量的限制實際上不易回收。所以即使是NEWTYPE專用機也不一定配備，但在宇宙世紀0090年代出現了大幅度改良的**翼狀感應炮**，才成為了聯邦的NEWTYPE專用機動戰士[RX-93系列機動戰士和](https://zh.wikipedia.org/wiki/RX-93系列機動戰士 "wikilink")[RX-0 獨角獸GUNDAM等經常性配備](../Page/RX-0_獨角獸GUNDAM.md "wikilink")。
+  - 感應炮, 全寫精神感應炮，也有時稱作浮遊炮，是一組從主機發射的帶小型光束炮的[無人戰鬥航空載具](../Page/無人戰鬥航空載具.md "wikilink")，一般大小和[空對空導彈相似](https://zh.wikipedia.org/wiki/空對空導彈 "wikilink")，無線控制和自帶電源用[火箭](../Page/火箭.md "wikilink")推進。原始設計是在太空使用但間有在地球表面使用的戰例。是[宇宙世紀](../Page/宇宙世紀.md "wikilink")0080年代中後期起，和一部分其他相似設定的作品中([GUNDAM X](https://zh.wikipedia.org/wiki/GUNDAM_X "wikilink")、[GUNDAM 00](https://zh.wikipedia.org/wiki/GUNDAM_00 "wikilink")、[GUNDAM AGE](https://zh.wikipedia.org/wiki/GUNDAM_AGE "wikilink"))的武器，是一種利用新人類(含NEWTYPE、INNOVATOR、X-ROUNDER)的強大精神力,以及對米諾夫斯基或GN粒子的影響對遠距離的無人武裝子機作出控制的兵器，這種兵裝在宇宙世紀中稱為Funnel在其他系列(GUNDAM X/00/AGE)稱為Bit，機制是不使用傳統頻道而是以放大[腦波](../Page/腦波.md "wikilink")傳通信號。雖然在純理論上是仍然屬於無線電控制，但因為腦波的波長極大，同一時間用可以傳送的信息較傳統無線電波少，所以需要在極短時間作出正確的指令，所以通常是用心靈感應的方式控制。缺點:一是只有新人類(含強化人)才可以用，二是會洩漏信息而被敵人截聽到主機所在或其對感應炮的指令，三是因為火箭燃料儲存量的限制實際上不易回收。所以即使是NEWTYPE專用機也不一定配備，但在宇宙世紀0090年代出現了大幅度改良的**翼狀感應炮**，才成為了聯邦的NEWTYPE專用機動戰士[RX-93系列機動戰士和](https://zh.wikipedia.org/wiki/RX-93系列機動戰士 "wikilink")[RX-0 獨角獸GUNDAM等經常性配備](../Page/RX-0_獨角獸GUNDAM.md "wikilink")。
 
 <!-- end list -->
 
@@ -112,7 +112,7 @@ Newtype 不能窮盡系列的新人類的概念，因為新人類並不是首先
 
 <!-- end list -->
 
-  - G-BIT或BIT-MS,GUNDAM X獨有的是NEWTYPE專用的無人機動戰士，可以由一台由新人類的隊長機(通常是鋼彈)或母艦或基地上，也是少數不以機動戰士或機動裝甲搭載，只可以在宇宙戰艦(或在大氣層中[飛行戰艦](../Page/飛行戰艦.md "wikilink")或陸上行駛的巨大[氣墊船](../Page/氣墊船.md "wikilink"))或固定基地配備的類感應炮武器。經過稱為閃影系統(FLASH SYSTEM)的中央指揮多台無人機。算是所有類似系統中最難駕馭，但因為事實使用過擁有小[當量核彈級威力的](https://zh.wikipedia.org/wiki/當量 "wikilink")[太陽能衛星炮和原則上可以使用](https://zh.wikipedia.org/wiki/太陽能 "wikilink")[核彈](https://zh.wikipedia.org/wiki/核彈 "wikilink")，也可以說是威力最大的感應炮類武器。缺點是需要有相當指揮經驗的新人類指揮官，所以僅為聯邦方面使用，甚至人工新人類或生手的天然新人類也無法使用。而戰時重傷的新人類指揮官們也事實喪失控制的能力，實際唯一可以用的是女主角蒂法。而在[GUNDAM W和](https://zh.wikipedia.org/wiki/GUNDAM_W "wikilink")[G-Saviour](../Page/G-Saviour.md "wikilink")雖然有無人機動戰士但並不是用感應的方式控制，作戰效率亦遠遜於G-BIT。
+  - G-BIT或BIT-MS，GUNDAM X獨有的是NEWTYPE專用的無人機動戰士，可以由一台由新人類的隊長機(通常是鋼彈)或母艦或基地上，也是少數不以機動戰士或機動裝甲搭載，只可以在宇宙戰艦(或在大氣層中[飛行戰艦](../Page/飛行戰艦.md "wikilink")或陸上行駛的巨大[氣墊船](../Page/氣墊船.md "wikilink"))或固定基地配備的類感應炮武器。經過稱為閃影系統(FLASH SYSTEM)的中央指揮多台無人機。算是所有類似系統中最難駕馭，但因為事實使用過擁有小[當量核彈級威力的](https://zh.wikipedia.org/wiki/當量 "wikilink")[太陽能衛星炮和原則上可以使用](https://zh.wikipedia.org/wiki/太陽能 "wikilink")[核彈](https://zh.wikipedia.org/wiki/核彈 "wikilink")，也可以說是威力最大的感應炮類武器。缺點是需要有相當指揮經驗的新人類指揮官，所以僅為聯邦方面使用，甚至人工新人類或生手的天然新人類也無法使用。而戰時重傷的新人類指揮官們也事實喪失控制的能力，實際唯一可以用的是女主角蒂法。而在[GUNDAM W和](https://zh.wikipedia.org/wiki/GUNDAM_W "wikilink")[G-Saviour](../Page/G-Saviour.md "wikilink")雖然有無人機動戰士但並不是用感應的方式控制，作戰效率亦遠遜於G-BIT。
 
 <!-- end list -->
 
@@ -132,7 +132,7 @@ Newtype 不能窮盡系列的新人類的概念，因為新人類並不是首先
 
 而在[機動戰士GUNDAM UC中](../Page/機動戰士GUNDAM_UC.md "wikilink")，羅森·祖魯和獨角獸鋼彈也有使用過具備同樣效果的機能。前者是透過施放和目標的感應波相反之波形來抵銷掉對方的感應波，進而阻礙精神感應裝置的運作；後者則是透過全身的精神感應框體將駕駛員的感應波增幅並直接蓋掉對方的感應波，並且拜全身的精神感應框體所擁有的高度運算能力所賜，還能反過來駭入對方的精神感應裝置或是劫持感應砲等精神感應武器。
 
-### 精神感應框架
+### 精神感應框架（Psycho Frame）
 
 在機動戰士-{zh-hans:高达 逆襲的夏亞; zh-hk:高達 馬沙反擊戰; zh-tw:鋼彈 逆襲的夏亞;}-中開始使用，精神感應框架是把駕駛員的腦電波直接傳輸給機械部份的微型機械。這個框架被建在機動戰士的骨架上，使得新人類駕駛員機乎能把機動戰士當為自己的身體一樣操作。傳統的精神感應裝備都需要獨立的大型系統才能支援，但是精神感應框架則小型化得能裝備在機體骨架內。甚至還能夠同時使用來控制感應炮。
 

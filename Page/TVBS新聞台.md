@@ -20,14 +20,14 @@ TVBS新聞部位於TVBS「[內湖大樓](../Page/TVBS企業總部.md "wikilink")
   - 2006年5月21日起：原來在[TVBS首播的](../Page/TVBS_\(頻道\).md "wikilink")「[一步一腳印 發現新台灣](../Page/一步一腳印_發現新台灣.md "wikilink")」專題性節目，改至TVBS-NEWS每周日22:00-23:00首播。
   - 2009年5月30日起：早上七點播報，搬遷「[內湖大樓](../Page/TVBS企業總部.md "wikilink")」的第一節新聞「早安台灣」，並啟用新攝影棚同步更換新聞報導的開頭[畫面](../Page/電視新聞鏡面.md "wikilink")。
   - 2009年6月9日：更名「**TVBS新聞台**」。
-  - 2013年1月1日：TVBS新聞台進行大改革，啟用新動畫和新聞開場音樂。
+  - 2013年1月1日：TVBS新聞台進行大改革，啟用新動畫和新聞開場音樂，但開場音樂捨棄掉前半段的內容。
   - 2013年5月14日：TVBS新聞台的高畫質版本開始播放，但新聞帶仍為普通畫質，並只有部分有線電視系統業者提供。
   - 2014年1月1日：TVBS新聞台的高畫質版本陸續在各大有線電視系統上架，截至2014年8月，已經有99.57%的系統業者提供高畫質版本的TVBS新聞台。
   - 2014年1月中旬：TVBS新聞台的標準畫質（SD）版本的採訪帶逐漸改為高畫質（HD）。
   - 2014年9月29日：TVBS新聞台鏡面設計進行更動，解除4:3的安全框限制，而改用適用於16:9的鏡面。
   - 2015年3月10日，[TVB賣出持有的TVBS全部股權](https://zh.wikipedia.org/wiki/TVB "wikilink")。
   - 2016年1月11日至2016年1月17日：啟用新虛實合一的攝影棚且有一、二樓。
-  - 2016年12月21日14點：更換台標和各節新聞的音樂。\[3\]
+  - 2016年12月21日14點：更換台標和各節新聞的音樂，不再使用[TVB的開場音樂](https://zh.wikipedia.org/wiki/TVB "wikilink")。\[3\]
   - 2018年11月24日起：啟用新虛實合一的超大攝影棚並擁有雙電視牆及超大主播台。
   - 2018年11月26日起：TVBS新聞YouTube線上直播正式上線。
 
@@ -104,7 +104,7 @@ TVBS新聞部位於TVBS「[內湖大樓](../Page/TVBS企業總部.md "wikilink")
 | :-------------------------------------------------: |
 | [葉佳蓉](https://zh.wikipedia.org/wiki/葉佳蓉 "wikilink") |
 |                      **新聞記者**                       |
-| [曾奕慈](https://zh.wikipedia.org/wiki/曾奕慈 "wikilink") |
+|          [黃怡文](../Page/黃怡文.md "wikilink")           |
 | [柳采葳](https://zh.wikipedia.org/wiki/柳采葳 "wikilink") |
 | [謝宜倫](https://zh.wikipedia.org/wiki/謝宜倫 "wikilink") |
 | [畢倩涵](https://zh.wikipedia.org/wiki/畢倩涵 "wikilink") |
@@ -134,7 +134,7 @@ TVBS新聞部位於TVBS「[內湖大樓](../Page/TVBS企業總部.md "wikilink")
   - [李登文](https://zh.wikipedia.org/wiki/李登文 "wikilink")（現職[華視新聞](../Page/華視新聞.md "wikilink")國際中心）
   - [許甫](../Page/許甫.md "wikilink")（現[中天新聞台](../Page/中天新聞台.md "wikilink")主播）
   - 邱顯辰（現任[大愛電視](../Page/大愛電視.md "wikilink")《全球視野》主持人）
-  - [王博麟](https://zh.wikipedia.org/wiki/王博麟 "wikilink")（前[FOX體育台](../Page/FOX體育台.md "wikilink")主播）
+  - [王博麟](https://zh.wikipedia.org/wiki/王博麟 "wikilink")（現[FOX體育台](../Page/FOX體育台.md "wikilink")主播）
   - 蔡祐吉（現任亞泥公關經理）
 
 <!-- end list -->
@@ -183,9 +183,10 @@ TVBS新聞部位於TVBS「[內湖大樓](../Page/TVBS企業總部.md "wikilink")
   - [張愛晶](https://zh.wikipedia.org/wiki/張愛晶 "wikilink")
   - [鍾沛君](../Page/鍾沛君.md "wikilink")（現任台北市議員）
   - [林婉婷](https://zh.wikipedia.org/wiki/林婉婷 "wikilink")
-  - [華舜嘉](https://zh.wikipedia.org/wiki/華舜嘉 "wikilink")
+  - [華舜嘉](https://zh.wikipedia.org/wiki/華舜嘉 "wikilink")(現為[三立新聞台](../Page/三立新聞台.md "wikilink")記者)
   - [廖芳潔](https://zh.wikipedia.org/wiki/廖芳潔 "wikilink")（現任[三立新聞台](../Page/三立新聞台.md "wikilink")《[台灣大頭條](../Page/台灣大頭條.md "wikilink")》主播）
   - [許儷齡](https://zh.wikipedia.org/wiki/許儷齡 "wikilink")(現任[客家電視台](../Page/客家電視台.md "wikilink")主播)
+  - [曾奕慈](https://zh.wikipedia.org/wiki/曾奕慈 "wikilink")(現為[三立新闻台记者](https://zh.wikipedia.org/wiki/三立新闻台 "wikilink"))
 
 ## 爭議
 

@@ -250,24 +250,24 @@
 <td><p>張小燕</p></td>
 <td><p>Daisy<br />
 舞小姐<br />
-於第8集在<a href="https://zh.wikipedia.org/wiki/大陸" title="wikilink">大陸被孫海基用刀殺死</a></p></td>
+於第8集在<a href="../Page/中國.md" title="wikilink">中國</a>被孫海基用刀殺死</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/張鴻昌.md" title="wikilink">張鴻昌</a></p></td>
 <td><p>孫海基</p></td>
-<td><p>於第8集在<a href="https://zh.wikipedia.org/wiki/大陸" title="wikilink">大陸用刀殺死周少聰</a>、張小燕<br />
+<td><p>於第8集在<a href="../Page/中國.md" title="wikilink">中國</a>用刀殺死周少聰、張小燕<br />
 後於第10集在<a href="../Page/中國.md" title="wikilink">中國</a>被判死刑</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/黃偉森" title="wikilink">黃偉森</a></p></td>
 <td><p>許天霖</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大陸" title="wikilink">大陸</a><a href="https://zh.wikipedia.org/wiki/公安" title="wikilink">公安</a></p></td>
+<td><p><a href="../Page/中國.md" title="wikilink">中國</a><a href="https://zh.wikipedia.org/wiki/公安" title="wikilink">公安</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/魏惠文.md" title="wikilink">魏惠文</a></p></td>
 <td><p>楊　安</p></td>
 <td><p>李彤之夫<br />
-後於第10集因在<a href="https://zh.wikipedia.org/wiki/大陸" title="wikilink">大陸屢犯盜竊而被判死刑</a></p></td>
+後於第10集因在<a href="../Page/中國.md" title="wikilink">中國</a>屢犯盜竊而被判死刑</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/王啟德" title="wikilink">王啟德</a></p></td>

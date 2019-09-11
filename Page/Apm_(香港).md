@@ -138,7 +138,7 @@ apm前身是[東九龍廣場](https://zh.wikipedia.org/wiki/東九龍廣場 "wik
   - [apm官方網頁](http://www.apm-millenniumcity.com/chi/index.php)
   - [創紀之城官方網頁](http://www.millenniumcity.hk/mmc/c_index.html)
 
-[Category:觀塘道](https://zh.wikipedia.org/wiki/Category:觀塘道 "wikilink") [Category:觀塘](https://zh.wikipedia.org/wiki/Category:觀塘 "wikilink") [Category:觀塘區](https://zh.wikipedia.org/wiki/Category:觀塘區 "wikilink") [Category:觀塘區商場](https://zh.wikipedia.org/wiki/Category:觀塘區商場 "wikilink") [Category:2005年完工建築物](https://zh.wikipedia.org/wiki/Category:2005年完工建築物 "wikilink") [Category:新鴻基地產物業](https://zh.wikipedia.org/wiki/Category:新鴻基地產物業 "wikilink")
+[Category:觀塘道](https://zh.wikipedia.org/wiki/Category:觀塘道 "wikilink") [Category:觀塘](https://zh.wikipedia.org/wiki/Category:觀塘 "wikilink") [Category:觀塘區商場](https://zh.wikipedia.org/wiki/Category:觀塘區商場 "wikilink") [Category:2005年完工建築物](https://zh.wikipedia.org/wiki/Category:2005年完工建築物 "wikilink") [Category:新鴻基地產物業](https://zh.wikipedia.org/wiki/Category:新鴻基地產物業 "wikilink")
 
 1.  [apm下月谷郵輪客](http://paper.wenweipo.com/2014/08/29/ME1408290009.htm)，文匯報，2014-08-29
 2.  [地產多聲道：漾日居帶記者沖上雲霄 (2003年11月26日)](http://hk.apple.nextmedia.com/financeestate/art/20031126/3687302)

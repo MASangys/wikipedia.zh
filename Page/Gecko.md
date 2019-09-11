@@ -46,7 +46,7 @@ Gecko也被[Sugar用於](../Page/Sugar_\(用戶界面\).md "wikilink")[OLPC XO-1
 
 歷史上使用Gecko的產品包括[Songbird](../Page/Songbird.md "wikilink")、[Epiphany](https://zh.wikipedia.org/wiki/Web_\(瀏覽器\) "wikilink")（現在稱為GNOME Web，使用WebKitGTK+）、[Sunbird](../Page/Mozilla_Sunbird.md "wikilink")，以及其他網頁瀏覽器，包括、[Flock](../Page/Flock.md "wikilink")、[Galeon](../Page/Galeon.md "wikilink")、[Camino](../Page/Camino.md "wikilink")、[Minimo](../Page/Minimo.md "wikilink")、[Beonex Communicator](../Page/Beonex_Communicator.md "wikilink")、和。
 
-在Netscape時代，由於糟糕的技術和管理決策導致了Gecko的\[11\]\[12\]\[13\]。因此，2001年，[Apple選擇了](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[KHTML](../Page/KHTML.md "wikilink")分支而不是Gecko，來為其[Safari](../Page/Safari.md "wikilink")瀏覽器建構[WebKit](../Page/WebKit.md "wikilink")引擎\[14\]\[15\]。然而，到2008年，Mozilla已經解決了一些膨脹問題，導致Gecko的性能大幅的提升\[16\]。
+在Netscape時代，由於糟糕的技術和管理決策導致了Gecko的\[11\]\[12\]\[13\]。因此，2001年，[Apple選擇了](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[KHTML](../Page/KHTML.md "wikilink")分支而不是Gecko，來為其[Safari](../Page/Safari.md "wikilink")瀏覽器建構[WebKit](../Page/WebKit.md "wikilink")引擎\[14\]\[15\]。不過，到2008年，Mozilla已經解決了一些膨脹問題，使得Gecko的性能大幅的提升\[16\]。
 
 ## 參考資料
 

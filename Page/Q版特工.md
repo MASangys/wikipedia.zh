@@ -414,7 +414,7 @@
 
 ## 書中的[武功](https://zh.wikipedia.org/wiki/武功 "wikilink")
 
-  - **[楊式太極拳](https://zh.wikipedia.org/wiki/楊式太極拳 "wikilink")**
+  - **[楊式太極拳](../Page/楊式太極拳.md "wikilink")**
   - **[梯雲縱](https://zh.wikipedia.org/wiki/梯雲縱 "wikilink")**
   - **[降龍十八掌](../Page/降龍十八掌.md "wikilink")**
   - **[彈指神通](https://zh.wikipedia.org/wiki/彈指神通 "wikilink")**

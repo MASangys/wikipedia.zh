@@ -199,7 +199,7 @@ TeenPower及香港電台第二台視像頻道，聽眾可進入[TPTV網頁](http
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/尋常事_認真做" title="wikilink">尋常事 認真做</a></p></td>
-<td><p><a href="../Page/黃冠斌.md" title="wikilink">斌仔</a>#、<a href="../Page/彭詠儀.md" title="wikilink">Morle</a>#、<a href="https://zh.wikipedia.org/wiki/黃天頤" title="wikilink">黃天頤</a>#、<a href="../Page/尹子龍.md" title="wikilink">紫龍</a>、<a href="https://zh.wikipedia.org/wiki/凌梓維" title="wikilink">梓維</a>、<a href="https://zh.wikipedia.org/wiki/吳學斌" title="wikilink">司勳</a>、<a href="https://zh.wikipedia.org/wiki/崔潔彤" title="wikilink">崔潔彤</a></p></td>
+<td><p><a href="../Page/黃冠斌.md" title="wikilink">斌仔</a>#、<a href="../Page/彭詠儀.md" title="wikilink">Morle</a>#、<a href="https://zh.wikipedia.org/wiki/黃天頤" title="wikilink">黃天頤</a>#、<a href="../Page/尹子龍.md" title="wikilink">紫龍</a>、<a href="../Page/凌梓維.md" title="wikilink">梓維</a>、<a href="https://zh.wikipedia.org/wiki/吳學斌" title="wikilink">司勳</a>、<a href="https://zh.wikipedia.org/wiki/崔潔彤" title="wikilink">崔潔彤</a></p></td>
 </tr>
 <tr class="even">
 <td><p>大學站</p></td>
@@ -510,7 +510,7 @@ TeenPower及香港電台第二台視像頻道，聽眾可進入[TPTV網頁](http
 </tr>
 <tr class="even">
 <td><p>噏in the air</p></td>
-<td><p>樂、<a href="https://zh.wikipedia.org/wiki/凌梓維" title="wikilink">梓維</a>、<a href="https://zh.wikipedia.org/wiki/吳學斌" title="wikilink">Stephen</a></p></td>
+<td><p>樂、<a href="../Page/凌梓維.md" title="wikilink">梓維</a>、<a href="https://zh.wikipedia.org/wiki/吳學斌" title="wikilink">Stephen</a></p></td>
 <td><p>2010-06-02</p></td>
 <td><p>2011-01-28</p></td>
 <td><p><a href="https://web.archive.org/web/20100613145420/http://teenpower.rthk.org.hk/program/up_in_the_air/index_new.htm">節目網頁</a></p></td>
@@ -561,7 +561,7 @@ TeenPower及香港電台第二台視像頻道，聽眾可進入[TPTV網頁](http
 </tr>
 <tr class="even">
 <td><p>好冏茶餐廳</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/林鎮威" title="wikilink">Jan</a>#、<a href="../Page/蔣祖曼.md" title="wikilink">Joman</a>#、<a href="https://zh.wikipedia.org/wiki/凌梓維" title="wikilink">梓維</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/林鎮威" title="wikilink">Jan</a>#、<a href="../Page/蔣祖曼.md" title="wikilink">Joman</a>#、<a href="../Page/凌梓維.md" title="wikilink">梓維</a></p></td>
 <td><p>2010-02-15</p></td>
 <td><p>2011-11-14</p></td>
 <td><p><a href="https://web.archive.org/web/20100801225109/http://teenpower.rthk.org.hk/program/restaurant/index_new.htm">節目網頁</a></p></td>
@@ -628,7 +628,7 @@ TeenPower及香港電台第二台視像頻道，聽眾可進入[TPTV網頁](http
 </tr>
 <tr class="even">
 <td><p>地厚天高</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/陳頴洪" title="wikilink">Bear</a>、<a href="https://zh.wikipedia.org/wiki/梁學曦" title="wikilink">阿希</a>、<a href="https://zh.wikipedia.org/wiki/吳學斌" title="wikilink">Stephen</a>、<a href="https://zh.wikipedia.org/wiki/凌梓維" title="wikilink">梓維</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳頴洪" title="wikilink">Bear</a>、<a href="https://zh.wikipedia.org/wiki/梁學曦" title="wikilink">阿希</a>、<a href="https://zh.wikipedia.org/wiki/吳學斌" title="wikilink">Stephen</a>、<a href="../Page/凌梓維.md" title="wikilink">梓維</a></p></td>
 <td><p>2012-04-28</p></td>
 <td><p>2012-06-16</p></td>
 <td><p>*<a href="https://web.archive.org/web/20120510173029/http://teenpower.rthk.hk/program/teensky/index_new.htm">TP節目網頁</a><br />
@@ -654,7 +654,7 @@ Verdy @ Roundtable</p></td>
 </tr>
 <tr class="odd">
 <td><p>爵士迷</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/凌梓維" title="wikilink">梓維</a></p></td>
+<td><p><a href="../Page/凌梓維.md" title="wikilink">梓維</a></p></td>
 <td><p>2012-04-19</p></td>
 <td><p>2013-03-28</p></td>
 <td><p><a href="https://web.archive.org/web/20120510172925/http://teenpower.rthk.hk/program/jazz/index_new.htm">節目網頁</a></p></td>
@@ -662,7 +662,7 @@ Verdy @ Roundtable</p></td>
 </tr>
 <tr class="even">
 <td><p>0923</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/楊芷瑩" title="wikilink">Gabby</a>#、<a href="https://zh.wikipedia.org/wiki/林鎮威" title="wikilink">Jan</a>#、<a href="https://zh.wikipedia.org/wiki/凌梓維" title="wikilink">梓維</a>、<a href="https://zh.wikipedia.org/wiki/楊螢映" title="wikilink">Anna</a>#、Kylie#</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/楊芷瑩" title="wikilink">Gabby</a>#、<a href="https://zh.wikipedia.org/wiki/林鎮威" title="wikilink">Jan</a>#、<a href="../Page/凌梓維.md" title="wikilink">梓維</a>、<a href="https://zh.wikipedia.org/wiki/楊螢映" title="wikilink">Anna</a>#、Kylie#</p></td>
 <td><p>2010-02-16</p></td>
 <td><p>2013-03-26</p></td>
 <td><p><a href="https://web.archive.org/web/20100801224553/http://teenpower.rthk.org.hk/program/0923/index_new.htm">節目網頁</a></p></td>
@@ -744,7 +744,7 @@ Verdy @ Roundtable</p></td>
 </tr>
 <tr class="even">
 <td><p>男生圍</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/凌梓維" title="wikilink">梓維</a>、<a href="https://zh.wikipedia.org/wiki/吳學斌" title="wikilink">Stephen</a>、龍仔#、波盛、Brian Chu</p></td>
+<td><p><a href="../Page/凌梓維.md" title="wikilink">梓維</a>、<a href="https://zh.wikipedia.org/wiki/吳學斌" title="wikilink">Stephen</a>、龍仔#、波盛、Brian Chu</p></td>
 <td><p>2011-11-26</p></td>
 <td><p>2016-06-04</p></td>
 <td><p>星期六</p></td>

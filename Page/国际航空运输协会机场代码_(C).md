@@ -1260,8 +1260,8 @@
 <tr class="odd">
 <td><p>CHQ</p></td>
 <td><p>LGSA</p></td>
-<td><p><a href="../Page/干尼亞揚尼斯·達斯卡洛伊安尼斯國際機場.md" title="wikilink">干尼亞揚尼斯·達斯卡洛伊安尼斯國際機場</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/干尼亞" title="wikilink">干尼亞</a>，<a href="../Page/克里特.md" title="wikilink">克里特</a></p></td>
+<td><p><a href="../Page/哈尼亞揚尼斯·達斯卡洛伊安尼斯國際機場.md" title="wikilink">哈尼亞揚尼斯·達斯卡洛伊安尼斯國際機場</a></p></td>
+<td><p><a href="../Page/哈尼亚.md" title="wikilink">哈尼亚</a>，<a href="../Page/克里特.md" title="wikilink">克里特</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2073,7 +2073,7 @@
 <td><p>CMV</p></td>
 <td><p>NZCX</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/科羅曼德" title="wikilink">科羅曼德</a>，<a href="https://zh.wikipedia.org/wiki/懷卡托" title="wikilink">懷卡托</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/科羅曼德" title="wikilink">科羅曼德</a>，<a href="../Page/懷卡托.md" title="wikilink">懷卡托</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

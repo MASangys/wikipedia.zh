@@ -1,4 +1,4 @@
-《**哆啦A夢**》是一部改编自[藤子·F·不二雄](../Page/藤子·F·不二雄.md "wikilink")的[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")《[哆啦A夢](../Page/哆啦A夢.md "wikilink")》的國民級[日本动画](../Page/日本动画.md "wikilink")，於[日本電視台](../Page/日本電視台.md "wikilink")（1973年4月1日 - 9月30日）及[朝日電視台](../Page/朝日電視台.md "wikilink")（1979年4月2日至今尚播放中）首播。
+《**哆啦A夢**》是一部改编自[藤子·F·不二雄](../Page/藤子·F·不二雄.md "wikilink")的[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")《[哆啦A夢](../Page/哆啦A夢.md "wikilink")》的國民級[日本动画](../Page/日本动画.md "wikilink")，於[日本電視台](../Page/日本電視台.md "wikilink")（1973年4月1日 - 9月30日）及[朝日電視台](../Page/朝日電視台.md "wikilink")（1979年4月2日至今尚播放中）首播。自2019年10月5日起，更改38年來首次播出時段，將調整至每週六下午5點播出（[蠟筆小新也一同更至每週六下午](https://zh.wikipedia.org/wiki/蠟筆小新 "wikilink")4點30分播出）
 
 ## 日本電視台版本（1973年）
 
@@ -30,6 +30,8 @@
 ## 朝日電視台版本（1979年—）
 
 [日本電視台](../Page/日本電視台.md "wikilink")忽然宣告停止播放六年後，1979年4月2日終於在[朝日電視台](../Page/朝日電視台.md "wikilink")重新再度於-{zh-cn:小屏幕;zh-hant:螢光幕}-上播出《哆啦A夢》。初期是每週一到週五以十分鐘的小節目由朝日電視台（播映區域只在[關東](../Page/關東地方.md "wikilink")）開始放送。六天後（4月8日）才正式順次由朝日電視台全國[聯播網](../Page/聯播網.md "wikilink")各成員電視台播放，時間是在每週日上午8時30分以每次30分鐘的動畫節目播放。而這個版本又因製作群、[聲優](../Page/聲優.md "wikilink")和畫風的不同，分為兩個時期，詳細請參見[大山羨代時期和](https://zh.wikipedia.org/wiki/哆啦A夢_\(電視動畫\)#大山羨代時期（1979年～2005年） "wikilink")[水田山葵時期的介紹](https://zh.wikipedia.org/wiki/哆啦A夢_\(電視動畫\)#水田山葵時期（2005年至今） "wikilink")。水田山葵版由[楠葉宏三](../Page/楠葉宏三.md "wikilink")總監督執導，製作公司是由[東映動畫所獨立出來的](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")「[SHIN-EI動畫](https://zh.wikipedia.org/wiki/SHIN-EI動畫 "wikilink")」（/，Shinei）（新鋭動畫株式會社）所擔任。
+
+  - 朝日電視台在週六另闢動畫時段，自2019年10月5日起，更改38年來首次播出時段，將調整至每週六下午5點播出（[蠟筆小新也一同更至每週六下午](https://zh.wikipedia.org/wiki/蠟筆小新 "wikilink")4點30分播出）
 
 ### 大山羨代時期（1979年—2005年）
 

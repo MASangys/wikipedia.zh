@@ -796,7 +796,7 @@ F.I.R. Live Band目前的團員由F.I.R.第五張專輯開始加入，成員包�
 <td><p>2012年2月25日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/台北" title="wikilink">台北</a><a href="../Page/這牆音樂藝文展演空間.md" title="wikilink">這牆音樂藝文展演空間</a></p></td>
 <td><p>售票</p></td>
-<td><p>嘉賓：R.I.F.樂團、<a href="https://zh.wikipedia.org/wiki/李佳薇" title="wikilink">李佳薇</a></p></td>
+<td><p>嘉賓：R.I.F.樂團、<a href="https://zh.wikipedia.org/wiki/李佳薇_(歌手)" title="wikilink">李佳薇</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>《光合之旅》<br />

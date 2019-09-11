@@ -1,4 +1,4 @@
-**Bash**，[Unix shell的一種](../Page/Unix_shell.md "wikilink")，在1987年由[布萊恩·福克斯為了](https://zh.wikipedia.org/wiki/布萊恩·福克斯 "wikilink")[GNU計劃](../Page/GNU計劃.md "wikilink")而编写。1989年釋出第一個正式版本，原先是計劃用在[GNU](../Page/GNU.md "wikilink")作業系統上，但能运行于大多数[类Unix系统](../Page/类Unix系统.md "wikilink")的操作系统之上，包括[Linux](../Page/Linux.md "wikilink")與[Mac OS X v10.4都將它作為預設shell](https://zh.wikipedia.org/wiki/Mac_OS_X_v10.4 "wikilink")。
+**Bash**，[Unix shell的一種](../Page/Unix_shell.md "wikilink")，在1987年由[布萊恩·福克斯](../Page/布萊恩·福克斯.md "wikilink")為了[GNU計劃](../Page/GNU計劃.md "wikilink")而编写。1989年釋出第一個正式版本，原先是計劃用在[GNU](../Page/GNU.md "wikilink")作業系統上，但能运行于大多数[类Unix系统](../Page/类Unix系统.md "wikilink")的操作系统之上，包括[Linux](../Page/Linux.md "wikilink")與[Mac OS X v10.4都將它作為預設shell](https://zh.wikipedia.org/wiki/Mac_OS_X_v10.4 "wikilink")。
 
 Bash是[Bourne shell的後繼相容版本與開放原始碼版本](../Page/Bourne_shell.md "wikilink")，它的名稱來自[Bourne shell](../Page/Bourne_shell.md "wikilink")（sh）的一个双关语（*Bourne again* / born again）：**B**ourne-**A**gain **SH**ell。
 

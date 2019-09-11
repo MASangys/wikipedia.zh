@@ -1089,7 +1089,7 @@ DVD內容：</p>
 
   - [YUI香港官方網站](https://web.archive.org/web/20070927092739/http://www.sonybmg.com.hk/yui/)
 
-[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink") [Category:日本流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日本流行音樂歌手 "wikilink") [Category:日本女演員](https://zh.wikipedia.org/wiki/Category:日本女演員 "wikilink") [Category:日本電影演員](https://zh.wikipedia.org/wiki/Category:日本電影演員 "wikilink") [Category:福岡縣出身人物](https://zh.wikipedia.org/wiki/Category:福岡縣出身人物 "wikilink") [Category:日本電影學院獎新人獎得主](https://zh.wikipedia.org/wiki/Category:日本電影學院獎新人獎得主 "wikilink") [Category:日本女性作曲家](https://zh.wikipedia.org/wiki/Category:日本女性作曲家 "wikilink")
+[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink") [Category:日本流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日本流行音樂歌手 "wikilink") [Category:日本女性搖滾歌手](https://zh.wikipedia.org/wiki/Category:日本女性搖滾歌手 "wikilink") [Category:日本女演員](https://zh.wikipedia.org/wiki/Category:日本女演員 "wikilink") [Category:日本電影演員](https://zh.wikipedia.org/wiki/Category:日本電影演員 "wikilink") [Category:福岡縣出身人物](https://zh.wikipedia.org/wiki/Category:福岡縣出身人物 "wikilink") [Category:日本電影學院獎新人獎得主](https://zh.wikipedia.org/wiki/Category:日本電影學院獎新人獎得主 "wikilink") [Category:日本女性作曲家](https://zh.wikipedia.org/wiki/Category:日本女性作曲家 "wikilink")
 
 1.
 

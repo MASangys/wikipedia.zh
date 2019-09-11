@@ -239,7 +239,7 @@ R327及R328為樣辦車。<br />
 
 新福利：**[9](../Page/澳門巴士9路線.md "wikilink")**、**[15](../Page/澳門巴士15路線.md "wikilink")**、**[16](../Page/澳門巴士16路線.md "wikilink")**、**[17](../Page/澳門巴士17路線.md "wikilink")**、**[28C](../Page/澳門巴士28C路線.md "wikilink")**、**[37](../Page/澳門巴士37路線.md "wikilink")**、**[H3](../Page/澳門巴士H3路線.md "wikilink")**
 
-澳巴：**[28B](../Page/澳門巴士28B路線.md "wikilink")**、**[29](../Page/澳門巴士29路線.md "wikilink")**、**[35](../Page/澳門巴士35路線.md "wikilink")**
+澳巴：**[28B](../Page/澳門巴士28B路線.md "wikilink")**、**[29](../Page/澳門巴士29路線.md "wikilink")**
 
 ## 曾使用此車路線
 
@@ -247,7 +247,7 @@ R327及R328為樣辦車。<br />
 
 現今新福利路線：**[1A](../Page/澳門巴士1A路線.md "wikilink")**、**[4](../Page/澳門巴士4路線.md "wikilink")**、**[5](../Page/澳門巴士5路線.md "wikilink")**、**[9A](../Page/澳門巴士9A路線.md "wikilink")**、**[26](../Page/澳門巴士26路線.md "wikilink")**、**[26A](../Page/澳門巴士26A路線.md "wikilink")**、**[32](../Page/澳門巴士32路線.md "wikilink")**、**[33](../Page/澳門巴士33路線.md "wikilink")**、**[34](../Page/澳門巴士34路線.md "wikilink")**、**[39](../Page/澳門巴士39路線.md "wikilink")**、**[AP1](../Page/澳門巴士AP1路線.md "wikilink")**、**[AP1X](../Page/澳門巴士AP1X路線.md "wikilink")**
 
-新時代路線：**[8](../Page/澳門巴士8路線.md "wikilink")**、**[8A](../Page/澳門巴士8A路線.md "wikilink")**、**[28B](../Page/澳門巴士28B路線.md "wikilink")**、**[29](../Page/澳門巴士29路線.md "wikilink")**、**[35](../Page/澳門巴士35路線.md "wikilink")**
+新時代路線：**[8](../Page/澳門巴士8路線.md "wikilink")**、**[8A](../Page/澳門巴士8A路線.md "wikilink")**、**[28B](../Page/澳門巴士28B路線.md "wikilink")**、**[29](../Page/澳門巴士29路線.md "wikilink")**、**[35](../Page/澳門巴士35路線.md "wikilink")**、**[H1](../Page/澳門巴士H1路線.md "wikilink")**
 
 澳巴路線：**[6B](https://zh.wikipedia.org/wiki/澳門巴士6B路線 "wikilink")**、**[7](../Page/澳門巴士7路線.md "wikilink")**、**[7A](https://zh.wikipedia.org/wiki/澳門巴士7A路線 "wikilink")**
 

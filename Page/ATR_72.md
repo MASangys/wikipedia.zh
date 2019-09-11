@@ -1,4 +1,4 @@
-[缩略图](https://zh.wikipedia.org/wiki/File:Air_Nostrum_ATR_72-600.jpg "fig:缩略图")ATR 72-600\]\] [缩略图](https://zh.wikipedia.org/wiki/File:ATR-72-500_Precision_Air_Services_\(PRF\)_F-WWEW_-_MSN_923_-_Named_Kilimandjaro_-_Will_be_5H-PWG_\(5000147631\).jpg "fig:缩略图") [UNI_AIR_ATR_72-600_IN_RCSS.jpg](https://zh.wikipedia.org/wiki/File:UNI_AIR_ATR_72-600_IN_RCSS.jpg "fig:UNI_AIR_ATR_72-600_IN_RCSS.jpg")ATR 72-600\]\] **ATR 72**為[法國航太商法國航太](https://zh.wikipedia.org/wiki/法國 "wikilink")（現空中巴士）與[義大利航太商](https://zh.wikipedia.org/wiki/義大利 "wikilink")（現李奧納多）合資的[飛機製造商](https://zh.wikipedia.org/wiki/飛機 "wikilink")[ATR](../Page/ATR.md "wikilink")製造的雙螺旋槳[民航機](https://zh.wikipedia.org/wiki/民航機 "wikilink")，結構上與[ATR 42製一樣](https://zh.wikipedia.org/wiki/ATR_42 "wikilink")，但機身加長4.5米，載客數提升至72人，油箱容量更大，航程更遠。目前ATR 72型已經出售超過1,000架。 [缩略图](https://zh.wikipedia.org/wiki/File:ATRv1.0.png "fig:缩略图")
+**ATR 72**為[法國航太商法國航太](https://zh.wikipedia.org/wiki/法國 "wikilink")（現[空中巴士](https://zh.wikipedia.org/wiki/空中巴士 "wikilink")）與[義大利航太商](https://zh.wikipedia.org/wiki/義大利 "wikilink")（現李奧納多）合資的[飛機製造商](https://zh.wikipedia.org/wiki/飛機 "wikilink")[ATR](../Page/ATR.md "wikilink")製造的雙螺旋槳[民航機](https://zh.wikipedia.org/wiki/民航機 "wikilink")，結構上與[ATR 42製一樣](https://zh.wikipedia.org/wiki/ATR_42 "wikilink")，但機身加長4.5米，載客數提升至72人，油箱容量更大，航程更遠。目前ATR 72型已經出售超過1,000架。 [缩略图](https://zh.wikipedia.org/wiki/File:ATRv1.0.png "fig:缩略图")
 
 ## 發展
 
@@ -44,11 +44,11 @@ ATR公司曾計劃發展ATR 82型，載客量提升為78人，速度提高至610
 
 #### ATR 72-500型
 
-原始名稱即為ATR 72-212A型，於1997年1月完成認證。
+[TNA_ATR72.jpg](https://zh.wikipedia.org/wiki/File:TNA_ATR72.jpg "fig:TNA_ATR72.jpg")（已倒閉）的ATR 72-500型\]\] [Jet_Airways_ATR.jpg](https://zh.wikipedia.org/wiki/File:Jet_Airways_ATR.jpg "fig:Jet_Airways_ATR.jpg")的ATR 72-500\]\] [缩略图](https://zh.wikipedia.org/wiki/File:ATR-72-500_Precision_Air_Services_\(PRF\)_F-WWEW_-_MSN_923_-_Named_Kilimandjaro_-_Will_be_5H-PWG_\(5000147631\).jpg "fig:缩略图") 原始名稱即為ATR 72-212A型，於1997年1月完成認證。
 
 #### ATR 72-600型
 
-2007年10月2日，ATR公司宣佈會研發新版的ATR 72-212A，並計畫在2010年下半年開始交付。2009年7月24日，由ATR 72-500改裝而成的ATR 72-600原型機完成首航。
+[UNI_AIR_ATR_72-600_IN_RCSS.jpg](https://zh.wikipedia.org/wiki/File:UNI_AIR_ATR_72-600_IN_RCSS.jpg "fig:UNI_AIR_ATR_72-600_IN_RCSS.jpg")ATR 72-600\]\] [缩略图](https://zh.wikipedia.org/wiki/File:Air_Nostrum_ATR_72-600.jpg "fig:缩略图")ATR 72-600\]\] 2007年10月2日，ATR公司宣佈會研發新版的ATR 72-212A，並計劃在2010年下半年開始交付。2009年7月24日，由ATR 72-500改裝而成的ATR 72-600原型機完成首航。
 
 作為ATR 72-500型的改良型號\[2\]，ATR 72-600型的提升之處如下：採用PW127M引擎，新增「加速功能」可提升額外5%起飛動力；改良駕駛艙儀器，把傳統的電子儀器改為[液晶顯示器](https://zh.wikipedia.org/wiki/液晶顯示器 "wikilink")\[3\]；多功能電腦系統可提升飛航安全和操縱性能；新採用Thales公司的[航空電子提供了](../Page/航空电子.md "wikilink")[所需導航性能](https://zh.wikipedia.org/wiki/所需导航性能 "wikilink")；輕質座椅；更大的客艙置物空間；也增加了起飛重量。2015年12月，[歐洲航空安全局核准了新的高密度座位配置](../Page/欧洲航空安全局.md "wikilink")，載客量可由74人提高至78人。
 

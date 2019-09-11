@@ -294,7 +294,7 @@
 
 ## 2009年2月14日
 
-[China_Airlines_747-400_at_HKG.jpg](https://zh.wikipedia.org/wiki/File:China_Airlines_747-400_at_HKG.jpg "fig:China_Airlines_747-400_at_HKG.jpg") **中華航空股份有限公司**（China Airlines），簡稱中華航空、華航，為[中華民國](../Page/中華民國.md "wikilink")的[國家航空公司](../Page/國家航空公司.md "wikilink")，也是[台灣最大的](https://zh.wikipedia.org/wiki/台灣 "wikilink")[航空公司](../Page/航空公司.md "wikilink")，總部位於[台北市](https://zh.wikipedia.org/wiki/台北市 "wikilink")，主要的營運中心和轉運站是[台灣桃園國際機場](https://zh.wikipedia.org/wiki/台灣桃園國際機場 "wikilink")，提供客運和貨運的服務，航點遍佈[亞洲](https://zh.wikipedia.org/wiki/亞洲 "wikilink")、[大洋洲](../Page/大洋洲.md "wikilink")、[中東](https://zh.wikipedia.org/wiki/中東 "wikilink")、[歐洲和](https://zh.wikipedia.org/wiki/歐洲 "wikilink")[北美洲](../Page/北美洲.md "wikilink")。其子公司[華信航空](../Page/華信航空.md "wikilink")負責國內和區域性航線。
+[China_Airlines_B747-409_(B-18275)_at_Hong_Kong_International_Airport.jpg](https://zh.wikipedia.org/wiki/File:China_Airlines_B747-409_\(B-18275\)_at_Hong_Kong_International_Airport.jpg "fig:China_Airlines_B747-409_(B-18275)_at_Hong_Kong_International_Airport.jpg") **中華航空股份有限公司**（China Airlines），簡稱中華航空、華航，為[中華民國](../Page/中華民國.md "wikilink")的[國家航空公司](../Page/國家航空公司.md "wikilink")，也是[台灣最大的](https://zh.wikipedia.org/wiki/台灣 "wikilink")[航空公司](../Page/航空公司.md "wikilink")，總部位於[台北市](https://zh.wikipedia.org/wiki/台北市 "wikilink")，主要的營運中心和轉運站是[台灣桃園國際機場](https://zh.wikipedia.org/wiki/台灣桃園國際機場 "wikilink")，提供客運和貨運的服務，航點遍佈[亞洲](https://zh.wikipedia.org/wiki/亞洲 "wikilink")、[大洋洲](../Page/大洋洲.md "wikilink")、[中東](https://zh.wikipedia.org/wiki/中東 "wikilink")、[歐洲和](https://zh.wikipedia.org/wiki/歐洲 "wikilink")[北美洲](../Page/北美洲.md "wikilink")。其子公司[華信航空](../Page/華信航空.md "wikilink")負責國內和區域性航線。
 
 [了解更多...](../Page/中華航空.md "wikilink")
 

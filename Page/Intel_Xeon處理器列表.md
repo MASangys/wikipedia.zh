@@ -1785,7 +1785,7 @@ G0</p></td>
 
 ### "Gladden" (32 nm)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel VT-x/VT-d](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX](../Page/AVX指令集.md "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel VT-x/VT-d](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
   - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、[EPT](https://zh.wikipedia.org/wiki/EPT "wikilink")、*
 
 #### Xeon E3-1100系列 (單路處理器)
@@ -1854,7 +1854,7 @@ G0</p></td>
 
 ### "Sandy Bridge" (32 nm)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel VT-x/VT-d](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX](../Page/AVX指令集.md "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel VT-x/VT-d](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
   - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、[EPT](https://zh.wikipedia.org/wiki/EPT "wikilink")、、*
   - 只有Xeon E3-1220 及 Xeon E3-1225不支援超執行緒。
   - 與[NVIDIA Quadro](../Page/NVIDIA_Quadro.md "wikilink") 及 [AMD FirePro一樣](../Page/AMD_FirePro.md "wikilink")，內建的[Intel HD Graphics](../Page/Intel_HD_Graphics.md "wikilink") P3000也使用[驅動程式優化工作供專業用途](https://zh.wikipedia.org/wiki/驅動程式 "wikilink")。
@@ -2062,7 +2062,7 @@ G0</p></td>
 
 ### "Sandy Bridge-EN" (32 nm) Entry (入門級)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel VT-x/VT-d/VT-c](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX](../Page/AVX指令集.md "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel VT-x/VT-d/VT-c](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
   - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、[EPT](https://zh.wikipedia.org/wiki/EPT "wikilink")、、、*
   - 只有Xeon E5-2403 及 Xeon E5-2407不支援超執行緒。
   - 只有Xeon E5-1428L、Xeon E5-2403 及 Xeon E5-2407不支援渦輪加速技術。
@@ -2340,7 +2340,7 @@ G0</p></td>
 
 ### "Sandy Bridge-EP" (32 nm) Efficient Performance (效能級)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel VT-x/VT-d/VT-c](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX](../Page/AVX指令集.md "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel VT-x/VT-d/VT-c](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
   - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、[EPT](https://zh.wikipedia.org/wiki/EPT "wikilink")、、、*
   - 只有Xeon E5-1603、Xeon E5-1607、Xeon E5-2603、Xeon E5-2609及 Xeon E5-4617不支援超執行緒。
   - 只有Xeon E5-1603、Xeon E5-1607、Xeon E5-2603、Xeon E5-2609、Xeon E5-4603 及 Xeon E5-4607不支援渦輪加速技術。
@@ -2882,7 +2882,7 @@ G0</p></td>
 
 ### "Gladden" (22 nm)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel VT-x/VT-d](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX](../Page/AVX指令集.md "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel VT-x/VT-d](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
   - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、[EPT](https://zh.wikipedia.org/wiki/EPT "wikilink")、*
 
 #### Xeon E3-1100 v2系列 (單路處理器)
@@ -2962,7 +2962,7 @@ G0</p></td>
 
 ### "Ivy Bridge" (22 nm)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel VT-x/VT-d](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")、*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX](../Page/AVX指令集.md "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel VT-x/VT-d](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")、*
   - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、[EPT](https://zh.wikipedia.org/wiki/EPT "wikilink")、、[ECC](https://zh.wikipedia.org/wiki/糾錯內存 "wikilink")、*
   - 只有Xeon E3-1220 v2 及 Xeon E3-1225 v2不支援超執行緒。
   - 與[NVIDIA Quadro](../Page/NVIDIA_Quadro.md "wikilink") 及 [AMD FirePro一樣](../Page/AMD_FirePro.md "wikilink")，內建的[Intel HD Graphics](../Page/Intel_HD_Graphics.md "wikilink") P4000也使用[驅動程式優化工作供專業用途](https://zh.wikipedia.org/wiki/驅動程式 "wikilink")。
@@ -3158,7 +3158,7 @@ G0</p></td>
 
 ### "Ivy Bridge-EN" (22 nm) Entry (入門級)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel VT-x/VT-d/VT-c](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")、*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX](../Page/AVX指令集.md "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel VT-x/VT-d/VT-c](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")、*
   - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、[EPT](https://zh.wikipedia.org/wiki/EPT "wikilink")、、、*
   - 只有Xeon E5-2403 v2 及 Xeon E5-2407 v2不支援超執行緒。
   - 只有Xeon E5-2403 v2、Xeon E5-2407 v2 及 Xeon E5-2418L v2不支援渦輪加速技術。
@@ -3426,7 +3426,7 @@ G0</p></td>
 
 ### "Ivy Bridge-EP" (22 nm) Efficient Performance (效能級)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel VT-x/VT-d/VT-c](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")、*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX](../Page/AVX指令集.md "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel VT-x/VT-d/VT-c](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")、*
   - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、[EPT](https://zh.wikipedia.org/wiki/EPT "wikilink")、、、*
   - 只有Xeon E5-1607 v2、Xeon E5-2603 v2、Xeon E5-2609 v2 及 Xeon E5-4627 v2不支援超執行緒。
   - 只有Xeon E5-1607 v2、Xeon E5-2603 v2、Xeon E5-2609 v2、Xeon E5-2618L v2、Xeon E5-4603 v2 及 Xeon E5-4607 v2不支援渦輪加速技術。
@@ -4022,7 +4022,7 @@ G0</p></td>
 
 ### "Ivy Bridge-EX" (22 nm) Expandable (擴展級)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel VT-x/VT-d/VT-c](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")、*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX](../Page/AVX指令集.md "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel VT-x/VT-d/VT-c](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")、*
   - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、[EPT](https://zh.wikipedia.org/wiki/EPT "wikilink")、、、*
   - 只有Xeon E7-8857 v2不支援超執行緒。
   - 只有Xeon E7-4809 v2不支援渦輪加速技術。
@@ -4400,7 +4400,7 @@ G0</p></td>
 
 ### "Haswell-WS" (22 nm)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX/AVX2](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel VT-x/VT-d](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")、、[FMA3](../Page/FMA指令集.md "wikilink")、、BMI2*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX/AVX2](../Page/AVX指令集.md "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel VT-x/VT-d](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")、、[FMA3](../Page/FMA指令集.md "wikilink")、、BMI2*
   - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、[ECC](https://zh.wikipedia.org/wiki/糾錯內存 "wikilink")、、[EPT](https://zh.wikipedia.org/wiki/EPT "wikilink")、、、2.0、[Intel vPro](https://zh.wikipedia.org/wiki/Intel_vPro "wikilink")、*
   - 只有Xeon E3-1220 v3、Xeon E3-1225 v3 及 Xeon E3-1226 v3不支援超執行緒。
 
@@ -4787,7 +4787,7 @@ G0</p></td>
 
 ### "Haswell-EN" (22 nm) Entry (入門級)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX/AVX2](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel VT-x/VT-d/VT-c](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")、*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX/AVX2](../Page/AVX指令集.md "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel VT-x/VT-d/VT-c](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")、*
   - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、[EPT](https://zh.wikipedia.org/wiki/EPT "wikilink")、、、2.0、[Intel vPro](https://zh.wikipedia.org/wiki/Intel_vPro "wikilink")、*
   - 只有Xeon E5-2408L v3 及 Xeon E5-2418L v3不支援渦輪加速技術。
   - 全部型號對應的CPU插座能支援最多6條DIMM的[DDR3記憶體](https://zh.wikipedia.org/wiki/DDR3 "wikilink")。
@@ -4933,7 +4933,7 @@ G0</p></td>
 
 ### "Haswell-EP" (22 nm) Efficient Performance (效能級)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX/AVX2](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel VT-x/VT-d](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")、、[FMA3](../Page/FMA指令集.md "wikilink")*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX/AVX2](../Page/AVX指令集.md "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel VT-x/VT-d](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")、、[FMA3](../Page/FMA指令集.md "wikilink")*
   - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、2.0*
   - 只有Xeon E5-1603 v3、Xeon E5-1607 v3、Xeon E5-2603 v3、Xeon E5-2609 v3、Xeon E5-2628 v3、Xeon E5-2663 v3、Xeon E5-2685 v3 及Xeon E5-4627 v3不支援超執行緒。
   - 只有Xeon E5-1603 v3、Xeon E5-1607 v3、Xeon E5-2603 v3、Xeon E5-2608L v3、Xeon E5-2609 v3 及 Xeon E5-4610 v3不支援渦輪加速技術2.0。
@@ -5804,7 +5804,7 @@ G0</p></td>
 
 ### "Haswell-EX" (22 nm) Expandable (擴展級)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX/AVX2](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel VT-x/VT-d](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")、、[FMA3](../Page/FMA指令集.md "wikilink")*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX/AVX2](../Page/AVX指令集.md "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel VT-x/VT-d](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")、、[FMA3](../Page/FMA指令集.md "wikilink")*
   - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、2.0*
   - 只有Xeon E7-4809 v3 及 Xeon E7-4820 v3不支援渦輪加速技術2.0。
   - 全部型號對應的CPU插座能支援最多24條DIMM的 DDR3 或 DDR4記憶體。
@@ -6054,7 +6054,7 @@ G0</p></td>
 
 ### "Broadwell-DE" (14 nm)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX/AVX2](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel VT-x/VT-d](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")、*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX/AVX2](../Page/AVX指令集.md "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel VT-x/VT-d](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")、*
   - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、[EPT](https://zh.wikipedia.org/wiki/EPT "wikilink")、[ECC](https://zh.wikipedia.org/wiki/糾錯內存 "wikilink")、、2.0*
   - 只有Xeon D-1518 及 Xeon D-1529不支援渦輪加速技術2.0。
   - 全部型號對應的CPU插座能支援最多4條DIMM的[DDR3L或](https://zh.wikipedia.org/wiki/DDR3L "wikilink")[DDR4記憶體](https://zh.wikipedia.org/wiki/DDR4 "wikilink")。
@@ -6368,7 +6368,7 @@ G0</p></td>
 
 ### "Broadwell-H" (14 nm)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX/AVX2](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel VT-x/VT-d](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")、*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX/AVX2](../Page/AVX指令集.md "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel VT-x/VT-d](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")、*
   - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、[EPT](https://zh.wikipedia.org/wiki/EPT "wikilink")、[ECC](https://zh.wikipedia.org/wiki/糾錯內存 "wikilink")、、2.0*
   - 全部型號對應的CPU插座能支援最多4條DIMM的[DDR3L記憶體](https://zh.wikipedia.org/wiki/DDR3L "wikilink")。
 
@@ -6515,7 +6515,7 @@ G0</p></td>
 
 ### "Broadwell-EP" (14 nm)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX/AVX2](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel VT-x/VT-d](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")、、[FMA3](https://zh.wikipedia.org/wiki/FMA3 "wikilink")*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX/AVX2](../Page/AVX指令集.md "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel VT-x/VT-d](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")、、[FMA3](https://zh.wikipedia.org/wiki/FMA3 "wikilink")*
   - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、2.0*
   - 只有Xeon E5-1603 v4、Xeon E5-1607 v4、Xeon E5-2603 v4、Xeon E5-2609 v4 及 Xeon E5-4627 v4不支援超執行緒。
   - 只有Xeon E5-1603 v4、Xeon E5-1607 v4、Xeon E5-2603 v4、Xeon E5-2609 v4 及 Xeon E5-4610 v4不支援渦輪加速技術2.0。
@@ -7254,7 +7254,7 @@ G0</p></td>
 
 ### "Broadwell-EX" (14 nm)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX/AVX2](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel VT-x/VT-d](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")、、[FMA3](https://zh.wikipedia.org/wiki/FMA3 "wikilink")*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX/AVX2](../Page/AVX指令集.md "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel VT-x/VT-d](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")、、[FMA3](https://zh.wikipedia.org/wiki/FMA3 "wikilink")*
   - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、2.0*
   - 全部型號對應的CPU插座能支援最多12條DIMM的[DDR4記憶體](https://zh.wikipedia.org/wiki/DDR4 "wikilink")。
 

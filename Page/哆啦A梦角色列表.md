@@ -907,7 +907,7 @@
 
 <!-- end list -->
 
-  - 日本配音員：[茶風林](../Page/茶風林.md "wikilink")（1990.6）→[櫻井敏治](https://zh.wikipedia.org/wiki/櫻井敏治 "wikilink")（1990.9-）
+  - 日本配音員：[茶風林](../Page/茶風林.md "wikilink")（1990.6）→[櫻井敏治](../Page/櫻井敏治.md "wikilink")（1990.9-）
 
 <!-- end list -->
 

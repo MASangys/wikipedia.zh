@@ -1553,7 +1553,7 @@ Snoopy 65週年巡迴特展紀念一卡通</p></td>
 
 <!-- end list -->
 
-  - [大台南公車](../Page/大台南公車.md "wikilink")(台南市公車)
+  - [大台南公車](../Page/大台南公車.md "wikilink")
   - [屏東縣市區公車](../Page/屏東縣市區公車.md "wikilink")
   - [宜蘭縣市區公車](../Page/宜蘭縣市區公車.md "wikilink")
   - [花蓮縣市區公車](../Page/花蓮縣市區公車.md "wikilink")
@@ -1576,7 +1576,7 @@ Snoopy 65週年巡迴特展紀念一卡通</p></td>
 <!-- end list -->
 
   - [嘉義縣市區公車](../Page/嘉義縣市區公車.md "wikilink")
-  - [大台南公車](../Page/大台南公車.md "wikilink")(興南、新營)
+  - [大台南公車](../Page/大台南公車.md "wikilink")
 
 <!-- end list -->
 
@@ -1682,9 +1682,9 @@ Snoopy 65週年巡迴特展紀念一卡通</p></td>
   - 新竹市：[YouBike微笑單車](../Page/新竹市公共自行車租賃系統.md "wikilink")
   - 臺中市：[i Bike微笑單車](../Page/臺中市公共自行車租賃系統.md "wikilink")
   - 彰化縣：[Changhua YouBike微笑單車](../Page/彰化縣公共自行車租賃系統.md "wikilink")
-  - 臺南市：[T-Bike](../Page/臺南市公共自行車租賃系統.md "wikilink")／[Tainan Tour Bike](../Page/臺南市觀光自行車租賃系統.md "wikilink")
+  - 臺南市：[T-Bike](../Page/臺南市公共自行車租賃系統.md "wikilink")
   - 高雄市：[City Bike](../Page/高雄市公共腳踏車租賃系統.md "wikilink")
-  - 屏東縣：[P Bike](https://zh.wikipedia.org/wiki/屏東公共自行車租賃系統 "wikilink")
+  - 屏東縣：[P Bike](../Page/屏東公共自行車租賃系統.md "wikilink")
   - 金門縣：[K Bike](../Page/金門縣公共自行車租賃系統.md "wikilink")
 
 ### 停車場
@@ -1913,7 +1913,7 @@ Snoopy 65週年巡迴特展紀念一卡通</p></td>
       - 持一卡通租借City Bike，前30分鐘內免費騎乘。若逾半小時，30\~60分鐘費率為5元，60\~90分鐘費率為10元，之後仍維持每30分鐘20元。
       - 搭乘高雄捷運後，1小時以內騎乘公共腳踏車，仍維持第1小時內免費，若逾1小時，未超過90分鐘費率為10元，之後仍維持每30分鐘20元。
       - 騎乘腳踏車後，1小時以內轉乘捷運，補助捷運費用4元。
-  - [P Bike](https://zh.wikipedia.org/wiki/屏東公共自行車租賃系統 "wikilink")、[iBike微笑單車](https://zh.wikipedia.org/wiki/臺中市公共腳踏車租賃系統 "wikilink")、Youbike微笑單車([新北市](../Page/新北市公共自行車租賃系統.md "wikilink")、[桃園市](../Page/桃園市公共自行車租賃系統.md "wikilink"))：
+  - [P Bike](../Page/屏東公共自行車租賃系統.md "wikilink")、[iBike微笑單車](https://zh.wikipedia.org/wiki/臺中市公共腳踏車租賃系統 "wikilink")、Youbike微笑單車([新北市](../Page/新北市公共自行車租賃系統.md "wikilink")、[桃園市](../Page/桃園市公共自行車租賃系統.md "wikilink"))：
       - 持一卡通租借前30分鐘免費，之後每半小時10元。
   - YouBike微笑單車([臺北市](https://zh.wikipedia.org/wiki/臺北市公共腳踏車租賃系統 "wikilink")、[彰化縣](../Page/彰化縣公共自行車租賃系統.md "wikilink"))：
       - 持一卡通租借前30分鐘僅收費5元，之後每半小時10元。
@@ -1938,9 +1938,8 @@ Snoopy 65週年巡迴特展紀念一卡通</p></td>
   - [大台南公車](../Page/大台南公車.md "wikilink")
       - 於[幹支線公車刷卡上下車即可享](https://zh.wikipedia.org/wiki/大台南公車#幹線公車 "wikilink")8公里區間免費（即優惠26元）。
       - 搭乘公車4小時內轉乘公車，優惠9元。
-      - 搭乘台鐵4小時內轉乘折9元優惠。
+      - 搭乘台鐵4小時內轉乘公車折9元優惠。
       - 持大台南公車認同卡，可享[幹支線公車票價](https://zh.wikipedia.org/wiki/大台南公車#幹線公車 "wikilink")85折優惠。
-      - 自2018年8月1日起至2019年3月31日止，持臺南市民卡搭乘府城客運及四方客運（0～99路），第一趟僅9元，當日爾後再搭乘市區公車路線可享免費優惠。（下車時需刷卡，否則下趟上車時仍需扣款9元）
   - [高雄市公車](../Page/高雄市公車.md "wikilink")
       - 每年冬季時期(空污時期)，段次路線、公路客運、就醫公車、國道快捷公車免費搭乘。
       - 持一卡通數位學生證、高雄學生認同卡搭乘段次計費路線，每段次僅收費10元。

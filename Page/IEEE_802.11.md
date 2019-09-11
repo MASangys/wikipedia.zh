@@ -24,7 +24,7 @@
   - [IEEE 802.11k](https://zh.wikipedia.org/wiki/IEEE_802.11k "wikilink")，该协议规范规定了无线局域网络频谱测量规范。该规范的制订体现了无线局域网络对频谱资源智能化使用的需求。
   - [IEEE 802.11l](https://zh.wikipedia.org/wiki/IEEE_802.11l "wikilink")，预留及准备不使用。
   - [IEEE 802.11m](https://zh.wikipedia.org/wiki/IEEE_802.11m "wikilink")，维护标准；互斥及极限。
-  - [IEEE 802.11n](../Page/IEEE_802.11n.md "wikilink")，更高传输速率的改善，基础速率提升到72.2Mbit/s，可以使用双倍带宽40MHz，此时速率提升到150Mbit/s。支持多输入多输出技术（Multi-Input Multi-Output，[MIMO](../Page/MIMO.md "wikilink")）。
+  - [IEEE 802.11n](../Page/IEEE_802.11n.md "wikilink")，又被稱為Wi-Fi 4。基础速率提升到72.2Mbit/s，最大速率達到450Mbit/s。\[2\]支持多输入多输出技术（Multi-Input Multi-Output，[MIMO](../Page/MIMO.md "wikilink")）。
   - [IEEE 802.11o](https://zh.wikipedia.org/wiki/IEEE_802.11o "wikilink")，针对VOWLAN（Voice over WLAN）而制订，更快速的无限跨区切换，以及读取语音（voice）比数据（Data）有更高的传输优先权。
   - [IEEE 802.11p](../Page/IEEE_802.11p.md "wikilink")，這個通訊協定主要用在車用電子的無線通訊上。它設定上是從IEEE 802.11來擴充延伸，來符合[智慧型運輸系統](../Page/智慧型運輸系統.md "wikilink")（Intelligent Transportation Systems，ITS）的相關應用。
   - [IEEE 802.11q](https://zh.wikipedia.org/wiki/IEEE_802.11q "wikilink")
@@ -40,7 +40,7 @@
   - IEEE 802.11-2012：A new release of the standard that includes amendments k, n, p, r, s, u, v, w, y and z (March 2012)
   - [IEEE 802.11aa](https://zh.wikipedia.org/wiki/IEEE_802.11aa "wikilink")：Robust streaming of Audio Video Transport Streams (June 2012)
   - [IEEE 802.11ab](https://zh.wikipedia.org/wiki/IEEE_802.11ab "wikilink")
-  - [IEEE 802.11ac](../Page/IEEE_802.11ac.md "wikilink")，802.11n的潜在继承者，更高传输速率的改善，当使用多基站时将无线速率提高到至少1Gbps，将单信道速率提高到至少500Mbps。使用更高的无线带宽（80MHz-160MHz，802.11n只有40MHz），更多的MIMO流（最多8条流），更好的调制方式（QAM256）。目前是草案标准（draft），预计正式标准于2012年晚些时间推出。Quantenna公司在2011年11月15日推出了世界上第一只采用802.11ac的无线路由器。Broadcom公司于2012年1月5日也发布了它的第一支支持802.11ac的芯片。
+  - [IEEE 802.11ac](../Page/IEEE_802.11ac.md "wikilink")，又被稱為Wi-Fi 5。802.11ac Wave1於2014年1月發布，支援最高866MBit/s的速率。802.11ac Wave2於2016年6月發布，支援最高1.73GBit/s的速率。\[3\]
   - [IEEE 802.11ad](https://zh.wikipedia.org/wiki/IEEE_802.11ad "wikilink")：Very High Throughput 60 GHz (December 2012) - see [WiGig](https://zh.wikipedia.org/wiki/WiGig "wikilink")
   - [IEEE 802.11ae](https://zh.wikipedia.org/wiki/IEEE_802.11ae "wikilink")：Prioritization of Management Frames（2012年3月）
   - [IEEE 802.11af](https://zh.wikipedia.org/wiki/IEEE_802.11af "wikilink")：運用過往電視白區（TV White Space，TVWS）的頻段所訂立標準，由於使用白區頻段（VHS的54MHz～216MHz及UHF的470MHz～698MHz），有時IEEE 802.11af也稱為White-Fi（取Wi-Fi一詞的衍生變化）。
@@ -48,7 +48,7 @@
   - [IEEE 802.11ai](https://zh.wikipedia.org/wiki/IEEE_802.11ai "wikilink")：為IEEE 802.11的修正案，新增部分機制，以及加速建立網路連線的等待時間。
   - [IEEE 802.11aj](https://zh.wikipedia.org/wiki/IEEE_802.11aj "wikilink")：為[IEEE 802.11ad的增補標準](https://zh.wikipedia.org/wiki/IEEE_802.11ad "wikilink")，開放45GHz的未授權頻寬帶使世界上部分地區可以使用。
   - [IEEE 802.11aq](https://zh.wikipedia.org/wiki/IEEE_802.11aq "wikilink")：為IEEE 802.11的修正案，增加網路探索的效率，以加快網路傳輸速度。
-  - [IEEE 802.11ax](../Page/IEEE_802.11ax.md "wikilink")：以現行的[IEEE 802.11ac做為基底的草案](../Page/IEEE_802.11ac.md "wikilink")，以提供比現行的傳輸速率加快4倍為目標。
+  - [IEEE 802.11ax](../Page/IEEE_802.11ax.md "wikilink")：又被稱為Wi-Fi 6。\[4\]
 
 除了上面的IEEE标准，另外有一个被称为IEEE 802.11b+的技术，通过PBCC技术（Packet Binary Convolutional Code）在IEEE 802.11b（2.4GHz频段）基础上提供22Mbit/s的数据传输速率。但这事实上并不是一个IEEE的公开标准，而是一项产权私有的技术，产权属于[德州仪器](../Page/德州仪器.md "wikilink")。
 
@@ -60,13 +60,11 @@
 
 ## IEEE 802.11b
 
-[IEEE 802.11b是](https://zh.wikipedia.org/wiki/IEEE_802.11b "wikilink")[无线局域网](../Page/无线局域网.md "wikilink")的一个标准。其载波的频率为2.4GHz，可提供1、2、5.5及11Mbit/s的多重传送速度\[2\]。在2.4-GHz的[ISM频段](../Page/ISM频段.md "wikilink")共有11个频宽为22MHz的频道可供使用，它是11个相互重叠的频段。IEEE 802.11b的后继标准是[IEEE 802.11g](https://zh.wikipedia.org/wiki/IEEE_802.11g "wikilink")。
+[IEEE 802.11b是](https://zh.wikipedia.org/wiki/IEEE_802.11b "wikilink")[无线局域网](../Page/无线局域网.md "wikilink")的一个标准。其载波的频率为2.4GHz，可提供1、2、5.5及11Mbit/s的多種傳輸速度\[5\]。在2.4-GHz的[ISM频段](../Page/ISM频段.md "wikilink")共有11个频宽为22MHz的频道可供使用，它是11个相互重叠的频段。IEEE 802.11b的后继标准是[IEEE 802.11g](https://zh.wikipedia.org/wiki/IEEE_802.11g "wikilink")。
 
 ## IEEE 802.11g
 
-[IEEE 802.11g在](https://zh.wikipedia.org/wiki/IEEE_802.11g "wikilink")[2003年7月](../Page/2003年7月.md "wikilink")被通過。其载波的频率为2.4GHz（跟802.11b相同），共14个频段，原始传送速度为54Mbit/s，净传输速度约为24.7Mbit/s（跟802.11a相同）。802.11g的设备向下与802.11b兼容。
-
-其后有些无线路由器厂商因应市场需要而在IEEE 802.11g的标准上另行开发新标准，并将理论传输速度提升至108Mbit/s或125Mbit/s。
+[IEEE 802.11g在](https://zh.wikipedia.org/wiki/IEEE_802.11g "wikilink")[2003年7月](../Page/2003年7月.md "wikilink")被通過。其载波的频率为2.4GHz（跟802.11b相同），共14个频段，最大传送速度为54Mbit/s。802.11g的设备向下与802.11b兼容。
 
 ## IEEE 802.11i
 
@@ -76,19 +74,17 @@
 
 ## IEEE 802.11k
 
-IEEE 802.11k阐述了无线局域网中频谱测量所能提供的服务，并以协议方式规定了测量的类型及接收发送的格式。此协议制定了几种有测量价值的频谱资源信息，并建立了一种请求／报告机制，使测量的需求和结果在不同终端之间进行通信。协议制定小组的工作目标是要使终端设备能够通过对测量信息的量读做出相应的传输调整，为此，协议制定小组定义了测量类型\[3\]。
+IEEE 802.11k阐述了无线局域网中频谱测量所能提供的服务，并以协议方式规定了测量的类型及接收发送的格式。此协议制定了几种有测量价值的频谱资源信息，并建立了一种请求／报告机制，使测量的需求和结果在不同终端之间进行通信。协议制定小组的工作目标是要使终端设备能够通过对测量信息的量读做出相应的传输调整，为此，协议制定小组定义了测量类型\[6\]。
 
 这些测量报告使在IEEE 802.11规范下的无线网络终端可以收集临近AP的信息（信标报告）和临近终端链路性质信息（帧报告，隐藏终端报告和终端统计报告）。测量终端还可以提供信道干扰水平（噪声柱状报告）和信道使用情况（信道负荷报告和媒介感知柱状图）。
 
 ## IEEE 802.11n
 
-**IEEE 802.11n**，是由IEEE在组成的一个新的工作组在802.11-2007的基础上发展出来的标准，于[2009年9月](../Page/2009年9月.md "wikilink")正式批准。该标准增加了对[MIMO](../Page/MIMO.md "wikilink")的支持，允许40MHz的无线频宽，最大传输速度理論值為600Mbit/s。同时，通过使用Alamouti提出的[空时分组码](https://zh.wikipedia.org/wiki/空时分组码 "wikilink")，该标准扩大了数据传输范围。
+**IEEE 802.11n**（又被稱為Wi-Fi 4），于[2009年9月](../Page/2009年9月.md "wikilink")正式批准。该标准增加了对[MIMO](../Page/MIMO.md "wikilink")的支持，最大传输速度為450Mbit/s。同时，通过使用Alamouti提出的[空时分组码](https://zh.wikipedia.org/wiki/空时分组码 "wikilink")，该标准扩大了数据传输范围。
 
 ## IEEE 802.11ac
 
-IEEE 802.11ac是一個正在發展中的802.11無線[計算機網路通信標準](https://zh.wikipedia.org/wiki/計算機網路 "wikilink")，它透過6GHz頻帶（也就是一般所說的5GHz頻帶）進行[無線區域網](https://zh.wikipedia.org/wiki/無線區域網 "wikilink")（WLAN）通信。理論上，它能夠提供最少每秒1 Gigabit頻寬進行多站式[無線區域網](https://zh.wikipedia.org/wiki/無線區域網 "wikilink")（WLAN）通訊，或是最少每秒500 megabits（500 Mbit/s）的單一連線傳輸頻寬。
-
-它採用並擴展了源自[802.11n的空中接口](https://zh.wikipedia.org/wiki/#802.11n "wikilink")（air interface）概念，包括：更寬的RF頻寬（提升至160 MHz），更多的[MIMO](../Page/MIMO.md "wikilink")[空間串流](https://zh.wikipedia.org/wiki/空間串流 "wikilink")（spatial streams，增加到8），MU-MIMO，以及高密度的[解調變](https://zh.wikipedia.org/wiki/解調變 "wikilink")（modulation，最高可達到256 [QAM](https://zh.wikipedia.org/wiki/QAM "wikilink")）。它是IEEE 802.11n的繼任者。
+IEEE 802.11ac又被稱為Wi-Fi 5，802.11ac Wave1支援的最大速率為866MBit/s，802.11ac Wave2支援的最大速率為1.73GBit/s。
 
 ## IEEE 802.11ad
 
@@ -96,7 +92,7 @@ IEEE 802.11ac是一個正在發展中的802.11無線[計算機網路通信標準
 
 ## IEEE 802.11ax
 
-2017年,Broadcom率先推出802.11ax無線晶片，由於先前802.11ad主要在於60GHZ頻段，雖然增長了傳輸速度，但是其覆蓋範圍受到限制，便成為輔助802.11ac的功能性技術。 依照IEEE的官方計畫，繼承802.11ac的第六代Wifi為802.11ax，自2018年起推出支援的分享器。
+又稱為Wi-Fi 6\[7\]
 
 ## 各国适用频道
 
@@ -112,17 +108,17 @@ IEEE 802.11ac是一個正在發展中的802.11無線[計算機網路通信標準
 
 ### 总结
 
-| 协议       | 发布年/月   | Op.标准频宽                              | 实际速度（標準）                              | 实际速度（最大）                                                        | 半径范围（室内）         | 半径范围（室外）  |
-| -------- | ------- | ------------------------------------ | ------------------------------------- | --------------------------------------------------------------- | ---------------- | --------- |
-| Legacy   | 1997    | 2.4-2.5 GHz                          | 1 Mbit/s                              | 2 Mbit/s                                                        | ?                | ?         |
-| 802.11a  | 1999    | 5.15-5.35/5.47-5.725/5.725-5.875 GHz | 25 Mbit/s                             | 54 Mbit/s                                                       | 约30米             | 約45米\[4\] |
-| 802.11b  | 1999    | 2.4-2.5 GHz                          | 6.5 Mbit/s                            | 11 Mbit/s                                                       | 约30米             | 约100米     |
-| 802.11g  | 2003    | 2.4-2.5 GHz                          | 25 Mbit/s                             | 54 Mbit/s                                                       | 约30米             | 约100米     |
-| 802.11n  | 2009    | 2.4 GHz or 5 GHz bands               | 300 Mbit/s（20MHz\*4 MIMO）             | 600 Mbit/s（40MHz\*4 MIMO）                                       | 约70米             | 约250米     |
-| 802.11p  | 2009    | 5.86-5.925 GHz                       | 3 Mbit/s                              | 27 Mbit/s                                                       | 约300米            | 约1000米    |
-| 802.11ac | 2011.11 | 5 GHz                                | 433Mbit/s, 867Mbit/s（80MHz，160MHz为可选） | 867Mbit/s, 1.73 Gbit/s, 3.47 Gbit/s, 6.93 Gbit/s（8 MIMO，160MHz） | 約35米\[5\]        |           |
-| 802.11ad | 2012.12 | 2.4/5/60 GHz                         | 4620Mbps                              | 7Gbps(6756.75Mbps)                                              | 約1-10米\[6\]\[7\] |           |
-| 802.11ax | 2018.12 | 2.4/5 GHz                            |                                       | 10.53Gbps                                                       | 10米              | 100米\[8\] |
+| 协议       | 发布年/月   | Op.标准频宽                              | 实际速度（標準）                              | 实际速度（最大）                                                        | 半径范围（室内）           | 半径范围（室外）   |
+| -------- | ------- | ------------------------------------ | ------------------------------------- | --------------------------------------------------------------- | ------------------ | ---------- |
+| Legacy   | 1997    | 2.4-2.5 GHz                          | 1 Mbit/s                              | 2 Mbit/s                                                        | ?                  | ?          |
+| 802.11a  | 1999    | 5.15-5.35/5.47-5.725/5.725-5.875 GHz | 25 Mbit/s                             | 54 Mbit/s                                                       | 约30米               | 約45米\[8\]  |
+| 802.11b  | 1999    | 2.4-2.5 GHz                          | 6.5 Mbit/s                            | 11 Mbit/s                                                       | 约30米               | 约100米      |
+| 802.11g  | 2003    | 2.4-2.5 GHz                          | 25 Mbit/s                             | 54 Mbit/s                                                       | 约30米               | 约100米      |
+| 802.11n  | 2009    | 2.4 GHz or 5 GHz bands               | 300 Mbit/s（20MHz\*4 MIMO）             | 600 Mbit/s（40MHz\*4 MIMO）                                       | 约70米               | 约250米      |
+| 802.11p  | 2009    | 5.86-5.925 GHz                       | 3 Mbit/s                              | 27 Mbit/s                                                       | 约300米              | 约1000米     |
+| 802.11ac | 2011.11 | 5 GHz                                | 433Mbit/s, 867Mbit/s（80MHz，160MHz为可选） | 867Mbit/s, 1.73 Gbit/s, 3.47 Gbit/s, 6.93 Gbit/s（8 MIMO，160MHz） | 約35米\[9\]          |            |
+| 802.11ad | 2012.12 | 2.4/5/60 GHz                         | 4620Mbps                              | 7Gbps(6756.75Mbps)                                              | 約1-10米\[10\]\[11\] |            |
+| 802.11ax | 2018.12 | 2.4/5 GHz                            |                                       | 10.53Gbps                                                       | 10米                | 100米\[12\] |
 
 ## 標準及延伸標準
 
@@ -144,16 +140,14 @@ IEEE 802.11ac是一個正在發展中的802.11無線[計算機網路通信標準
 [Category:Wi-Fi](https://zh.wikipedia.org/wiki/Category:Wi-Fi "wikilink") [Category:无线网络](https://zh.wikipedia.org/wiki/Category:无线网络 "wikilink") [Category:IEEE_802.11](https://zh.wikipedia.org/wiki/Category:IEEE_802.11 "wikilink")
 
 1.  《无线区域网络技术白皮书》 ISBN 986-125-599-0
-
-2.
-3.  IEEE 802.11 WORKING GROUP (2003) Draft Supplement to STANDARD FOR Telecommunications and Information Exchange Between Systems-LAN/MAN Specific Requirements-Part 11：Wireless Medium Access Control (MAC) and Physical Layer (PHY)specifications：Specification for Radio Resource Measurement,IEEE 802.11k/D0.7.New York USA：The Institute of Electrical and Electronics Engineers,Inc.
-
-4.  802.11a uses the 5GHz frequency to communicate. It can communicate at 54Mbps, which is fast for wireless, but it has a short range of 150 feet.
-
-5.  <http://www.digitimes.com.tw/tw/showimg.asp?source=0000259572_WOQ6HN646RRBQ93CFVH4D&filename=259572-2-FVH4D.jpg&Sourcetype=1>
-
-6.  <http://www.radio-electronics.com/info/wireless/wi-fi/ieee-802-11ad-microwave.php>
-
-7.  <https://en.wikipedia.org/wiki/Wireless_Gigabit_Alliance>
-
-8.  <http://www.ni.com/white-paper/53150/zht/>
+2.  <https://www.intel.com.tw/content/www/tw/zh/support/articles/000005725/network-and-io/wireless-networking.html>
+3.  <https://www.intel.com.tw/content/www/tw/zh/support/articles/000005725/network-and-io/wireless-networking.html>
+4.  <https://www.intel.com.tw/content/www/tw/zh/support/articles/000005725/network-and-io/wireless-networking.html>
+5.  <https://www.intel.com.tw/content/www/tw/zh/support/articles/000005725/network-and-io/wireless-networking.html>
+6.  IEEE 802.11 WORKING GROUP (2003) Draft Supplement to STANDARD FOR Telecommunications and Information Exchange Between Systems-LAN/MAN Specific Requirements-Part 11：Wireless Medium Access Control (MAC) and Physical Layer (PHY)specifications：Specification for Radio Resource Measurement,IEEE 802.11k/D0.7.New York USA：The Institute of Electrical and Electronics Engineers,Inc.
+7.  <https://www.intel.com.tw/content/www/tw/zh/support/articles/000005725/network-and-io/wireless-networking.html>
+8.  802.11a uses the 5GHz frequency to communicate. It can communicate at 54Mbps, which is fast for wireless, but it has a short range of 150 feet.
+9.  <http://www.digitimes.com.tw/tw/showimg.asp?source=0000259572_WOQ6HN646RRBQ93CFVH4D&filename=259572-2-FVH4D.jpg&Sourcetype=1>
+10. <http://www.radio-electronics.com/info/wireless/wi-fi/ieee-802-11ad-microwave.php>
+11. <https://en.wikipedia.org/wiki/Wireless_Gigabit_Alliance>
+12. <http://www.ni.com/white-paper/53150/zht/>

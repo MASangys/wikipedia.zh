@@ -6,7 +6,7 @@
 
 直至1990年代，這個品牌正面對來自海外其他品牌及較便宜產品的競爭。在[美國及](https://zh.wikipedia.org/wiki/美國 "wikilink")[加拿大](../Page/加拿大.md "wikilink")的生產設施已關閉而製成品的供應則來自[中國大陆](https://zh.wikipedia.org/wiki/中國大陆 "wikilink")、[香港](../Page/香港.md "wikilink")、[莱索托](../Page/莱索托.md "wikilink")、[巴基斯坦](../Page/巴基斯坦.md "wikilink")、[多明尼加共和國](https://zh.wikipedia.org/wiki/多明尼加共和國 "wikilink")、[哥倫比亞](https://zh.wikipedia.org/wiki/哥倫比亞 "wikilink")、[菲律賓](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")、[越南及](https://zh.wikipedia.org/wiki/越南 "wikilink")[墨西哥](../Page/墨西哥.md "wikilink")等地。
 
-今日，利惠公司的零售業務分割成多個地區性的根據地：
+2019年3月21日Levi's今日重新在[紐約証券交易所掛牌上市](https://zh.wikipedia.org/wiki/紐約証券交易所 "wikilink")，每股招股價17美元，發行3670萬股，集資6.233億美元，其中[李維·史特勞斯家族成員出售](https://zh.wikipedia.org/wiki/李維·史特勞斯 "wikilink")1960萬股，估將進帳3.334億美元
 
   -
   -

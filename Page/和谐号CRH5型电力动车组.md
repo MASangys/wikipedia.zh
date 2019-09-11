@@ -228,13 +228,16 @@ CRH5型[电力动车组采用](https://zh.wikipedia.org/wiki/电力动车组 "wi
 
 <!-- end list -->
 
-  - ZY：一等座车（First Class Coach）
-  - ZE：二等座车（Second Class Coach）
-  - ZEC：二等座车／餐车（Second Class Coach／Dining Car）
+  - ZY：一等座車（First Class Coach）
+  - ZE：二等座車（Second Class Coach）
+  - ZYE：一等／二等座車（First／Second Class Coach）
+  - ZEC：二等座車／餐車（Second Class Coach／Dining Car）
+  - CA：餐車（Dining Car）
+  - WR：软卧车〔Soft Sleeper）
 
 <!-- end list -->
 
-  - [拉丁字母](../Page/拉丁字母.md "wikilink")意思
+  - 拉丁字母意思
 
 <!-- end list -->
 
@@ -242,6 +245,10 @@ CRH5型[电力动车组采用](https://zh.wikipedia.org/wiki/电力动车组 "wi
   - Y：Yi（[拼音](../Page/汉语拼音.md "wikilink")），一，一等
   - E：Er（[拼音](../Page/汉语拼音.md "wikilink")），二，二等
   - C/CA：Can（[拼音](../Page/汉语拼音.md "wikilink")），餐，餐车
+  - W：Wo（[拼音](../Page/汉语拼音.md "wikilink")），卧，卧车
+  - R：Ruan（[拼音](../Page/汉语拼音.md "wikilink")），软，软卧
+
+### CRH5A / CRH5G
 
 <table>
 <thead>
@@ -389,6 +396,117 @@ ZE 5xxx00</p></td>
 </table>
 
   - xx：列车编号（5001—5200、5206—5229）
+
+### CRH5E
+
+<table>
+<thead>
+<tr class="header">
+<th><p>车厢号</p></th>
+<th><p>1</p></th>
+<th><p>2</p></th>
+<th><p>3</p></th>
+<th><p>4</p></th>
+<th><p>5</p></th>
+<th><p>6</p></th>
+<th><p>7</p></th>
+<th><p>8</p></th>
+<th><p>9</p></th>
+<th><p>10</p></th>
+<th><p>11</p></th>
+<th><p>12</p></th>
+<th><p>13</p></th>
+<th><p>14</p></th>
+<th><p>15</p></th>
+<th><p>16</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>车型<br />
+</p></td>
+<td><p>二等座车</p></td>
+<td><p>软卧车</p></td>
+<td><p>餐車软卧合造车</p></td>
+<td><p>软卧车</p></td>
+<td><p>二等座车</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>动力配置</p></td>
+<td><p>有动力，带驾驶室（Mc）</p></td>
+<td><p>有动力（Mp）</p></td>
+<td><p>无动力，带<a href="../Page/集電弓.md" title="wikilink">受电弓</a>（Tp）</p></td>
+<td><p>有动力（M）</p></td>
+<td><p>无动力（T）</p></td>
+<td><p>无动力，带<a href="../Page/集電弓.md" title="wikilink">受电弓</a>（Tp）</p></td>
+<td><p>有动力（M）</p></td>
+<td><p>无动力，带<a href="../Page/集電弓.md" title="wikilink">受电弓</a>（Tp）</p></td>
+<td><p>无动力（T）</p></td>
+<td><p>有动力（M）</p></td>
+<td><p>无动力，带<a href="../Page/集電弓.md" title="wikilink">受电弓</a>（Tp）</p></td>
+<td><p>有动力（M）</p></td>
+<td><p>有动力，带驾驶室（Mc）</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>定员<br />
+</p></td>
+<td><p>49</p></td>
+<td><p>40</p></td>
+<td><p>40</p></td>
+<td><p>40</p></td>
+<td><p>40</p></td>
+<td><p>40</p></td>
+<td><p>40</p></td>
+<td><p>40</p></td>
+<td><p>12</p></td>
+<td><p>40</p></td>
+<td><p>40</p></td>
+<td><p>40</p></td>
+<td><p>40</p></td>
+<td><p>40</p></td>
+<td><p>40</p></td>
+<td><p>49</p></td>
+</tr>
+<tr class="even">
+<td><p>车辆编号<br />
+</p></td>
+<td><p>CRH5E-5xxx<br />
+ZE 5xxx01</p></td>
+<td><p>WR 5xxx02</p></td>
+<td><p>WR 5xxx03</p></td>
+<td><p>WR 5xxx04</p></td>
+<td><p>WR 5xxx05</p></td>
+<td><p>WR 5xxx06</p></td>
+<td><p>WR 5xxx07</p></td>
+<td><p>WR 5xxx08</p></td>
+<td><p>WRC 5xxx09</p></td>
+<td><p>WR 5xxx10</p></td>
+<td><p>WR 5xxx11</p></td>
+<td><p>WR 5xxx12</p></td>
+<td><p>WR 5xxx13</p></td>
+<td><p>WR 5xxx14</p></td>
+<td><p>WR 5xxx15</p></td>
+<td><p>CRH5E-5xxx<br />
+ZE 5xxx00</p></td>
+</tr>
+</tbody>
+</table>
+
+  - xxx：列車編號（5201～5202）
 
 ## 技术数据
 

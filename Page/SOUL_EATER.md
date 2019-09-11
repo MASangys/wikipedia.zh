@@ -4,13 +4,19 @@
 
 於《月刊少年GANGAN》2011年度2月號開始連載外傳作品《**[SOUL EATER NOT\!](../Page/Soul_Eater_Not!.md "wikilink")**》。
 
-## 故事背景
+## 故事大綱
 
-舞臺為死神武器職人專門學校，俗稱「死武專」。故事以稱為「鐮刀-{zh-hant:職人;zh-hk:工匠;zh-tw:職人;zh-hans:職人;zh-mo:職人;}-」瑪嘉·亞爾班（マカ/ Maka）與「魔鐮刀」Soul（ソウル=イーター/ Soul=Eater）為主線展開，而其餘各主角總共分為三組：分別是「暗殺者」Black Star（ブラック☆スター/ Black☆Star），「魔暗器」中務椿，和死神之子奇多（Death The Kid），「魔鎗」莉絲湯普森＆帕蒂湯普森（リズ/ Liz & パティー/ Patty）。
+### 設定
 
-這所學校是訓練培育「-{zh-hant:職人;zh-hk:工匠;zh-tw:職人;zh-hans:職人;zh-mo:職人;}-」和「武器」為目標，「-{zh-hant:職人;zh-hk:工匠;zh-tw:職人;zh-hans:職人;zh-mo:職人;}-」與「武器」需要組成一組行動。最終目標是要收集99個「死神名單」上的靈魂與1個魔女的靈魂，這樣「武器」就能成為死神大人專用的「Death Scythe」……
+故事發生在美國內州的虛構城市「死亡城市」內的死神武器-{zh-hant:職人;zh-hk:工匠;zh-tw:職人;zh-hans:職人;zh-mo:職人;}-專門學校（死武專），死武專由死神經營管理，學生分成可以變身成武器的人「魔武器」，以及他們的持有者「職人」。故事聚焦在摩訶及她的鐮刀搭檔噬魂、死神之子奇多及其雙槍夥伴莉絲和帕蒂、刺客黑暗之星及他的搭檔、可變身成忍具的椿。他們的目標是讓武器吸收99個惡人及一個魔女的的靈魂，藉此變成強大的死神武器。
 
-## 登場人物
+### 劇情
+
+魔女梅杜莎逼迫她的兒子可樂那和魔劍拉格納羅克蒐集惡人以外的靈魂，希望藉此使之成為邪惡的「鬼神」，摩訶和噬魂因此與梅杜莎為敵。梅杜莎和同夥襲擊死武專，企圖解除最初鬼神「阿修羅」的封印，他曾經危害世界、後來被死神封印在死武專地底。儘管摩訶等人盡全力對抗，但阿修羅仍被復活並逃離了死神的掌控。
+
+受到阿修羅的狂氣波長影響，梅杜莎的姐姐亞拉克涅自800年的沉睡中甦醒，籌建「恐怖蜘蛛」組織，對死武專造成威脅。死神召集世界各地的職人和死神武器商量對策。在此期間，梅杜莎的靈魂竊據了某個平凡女童的身體，她煽動可樂那在死武專當臥底，並假意向死武專投誠，暫時結盟對抗恐怖蜘蛛。梅杜莎率領同夥和死武專的學生潛入敵營，摩訶殺死亞拉克涅，但梅杜莎背叛了眾人，她奪走亞拉克涅的身體，並對可樂那洗腦、讓他重新成為自己的部下。另一方面，奇多被諾亞用伊波恩之書捉住，伊波恩之書是魔導師伊波恩的著作，而諾亞是該書的〈貪婪〉一章具象化的產物。之後，噬魂吸收了亞拉克涅的靈魂，進化成死神之鐮，他倆和其他同伴組成Spartoi團隊，救回奇多後擊敗諾亞。
+
+可樂那的精神狀況越加崩潰，他摧毀了俄羅斯的小鎮和當地的死神武器， 還刺殺了梅杜莎。死神命令摩訶等人緝捕可樂那，摩訶運用能力搜尋可樂那時，意外發現月亮上散發出阿修羅的狂氣，奇多說服魔女、讓她們和死武專組成臨時同盟，一起乘飛艇向月亮出擊。但可樂那中途攔截了死神的狂氣，將其盡數吸收。摩訶、黑暗之星和奇多最終擊敗了阿修羅，可樂那自己的血將阿修羅封印在月球上，摩訶與可樂那約好終有一天會回來救他，之後便返回地球。奇多在死神去世之後繼任為新死神，並與魔女締約，共同維持和平。
 
 ## 用語
 
@@ -827,6 +833,6 @@ Soul與瑪嘉的靈魂頻率有問題</p></td>
 
   - [東森電影台官方部落格](https://web.archive.org/web/20090511001322/http://blog.nownews.com/souleater/)
 
-[Category:SOUL_EATER](https://zh.wikipedia.org/wiki/Category:SOUL_EATER "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:月刊少年GANGAN連載作品](https://zh.wikipedia.org/wiki/Category:月刊少年GANGAN連載作品 "wikilink") [Category:2008年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2008年東京電視網動畫 "wikilink") [Category:死神題材作品](https://zh.wikipedia.org/wiki/Category:死神題材作品 "wikilink") [Category:魔女题材作品](https://zh.wikipedia.org/wiki/Category:魔女题材作品 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
+[Category:SOUL_EATER](https://zh.wikipedia.org/wiki/Category:SOUL_EATER "wikilink") [Category:月刊少年GANGAN連載作品](https://zh.wikipedia.org/wiki/Category:月刊少年GANGAN連載作品 "wikilink") [Category:2008年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2008年東京電視網動畫 "wikilink") [Category:死神題材作品](https://zh.wikipedia.org/wiki/Category:死神題材作品 "wikilink") [Category:魔女题材作品](https://zh.wikipedia.org/wiki/Category:魔女题材作品 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
 
 1.

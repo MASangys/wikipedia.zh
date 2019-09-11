@@ -157,7 +157,7 @@ MAN在香港的譯名為「德國猛-{}-獅」。
   - [MAN DWE有限公司](https://web.archive.org/web/20060211200958/http://www.dwe.de/)
   - [MAN Ferrostaal股份公司](http://www.manferrostaal.de/)
   - [RENK股份公司](http://www.renk.biz/)
-  - [中国MAN网站](http://www.man-mn.cn/cn/)
+  - [中国MAN网站](http://www.manchina.com.cn/)
 
 {{-}}
 

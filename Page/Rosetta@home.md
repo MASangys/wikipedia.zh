@@ -40,7 +40,7 @@ Rosetta的另一个组件RosettaDock\[32\]\[33\]\[34\]与实验方法相结合�
 
 ### 单纯疱疹病毒1型
 
-RosettaDock还被用来构造一种[抗体](https://zh.wikipedia.org/wiki/抗体 "wikilink")（免疫球蛋白G）与能够使抗病毒抗体退化的[单纯疱疹病毒1型](https://zh.wikipedia.org/wiki/单纯疱疹病毒 "wikilink")（[HSV-1](https://zh.wikipedia.org/wiki/HSV-1 "wikilink")）表面蛋白之间的对接模型。RosettaDock预测的蛋白质复合体与极难得到的实验模型近乎一致。研究人员总结说，这种对接方法可望解决X射线结晶学方法构造蛋白质-蛋白质界面模型所遇到的一些问题。\[37\]
+RosettaDock还被用来构造一种[抗体](https://zh.wikipedia.org/wiki/抗体 "wikilink")（免疫球蛋白G）与能够使抗病毒抗体退化的[单纯疱疹病毒](../Page/单纯疱疹病毒.md "wikilink")1型（[HSV-1](https://zh.wikipedia.org/wiki/HSV-1 "wikilink")）表面蛋白之间的对接模型。RosettaDock预测的蛋白质复合体与极难得到的实验模型近乎一致。研究人员总结说，这种对接方法可望解决X射线结晶学方法构造蛋白质-蛋白质界面模型所遇到的一些问题。\[37\]
 
 ### HIV
 

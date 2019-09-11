@@ -4,7 +4,7 @@
 
 在一個不知名星球上，人們自稱其生活的世界為「大空陸」。每個人都是以[女性](../Page/女性.md "wikilink")（又稱為「未定性」）的身分出生。大陸的國家以宮國（シムラークルム宮國）為中心，其周圍則有嶺國（プルンブム嶺國）與礁國（アルゲントゥム礁國）。
 
-在宮國裡，司政院負責行政，司兵院掌管軍事，宮守掌管宗教祭祀。人民以[農耕為主](https://zh.wikipedia.org/wiki/農耕 "wikilink")，安居樂業。[宗教](../Page/宗教.md "wikilink")[遺跡](../Page/遺跡.md "wikilink")亦在宮國境內。宮國作為全大陸的[信仰中心](https://zh.wikipedia.org/wiki/信仰 "wikilink")，擁有「泉」，[未成年人](https://zh.wikipedia.org/wiki/未成年人 "wikilink")17歲時便前往「泉」，以自己決定自己的[性別](https://zh.wikipedia.org/wiki/性別 "wikilink")，之後才算成年。十七歲這個時點是固定的，有人對定性感到不安，有人則是期待，但幾乎沒有人去質疑；這是宮國文化的一部份。
+在宮國裡，司政院負責行政，司兵院掌管軍事，宮守掌管宗教祭祀。人民以[農耕為主](https://zh.wikipedia.org/wiki/農耕 "wikilink")，安居樂業。[宗教](../Page/宗教.md "wikilink")[遺跡](../Page/遺跡.md "wikilink")亦在宮國境內。宮國作為全大陸的[信仰](../Page/信仰.md "wikilink")中心，擁有「泉」，[未成年人](https://zh.wikipedia.org/wiki/未成年人 "wikilink")17歲時便前往「泉」，以自己決定自己的[性別](https://zh.wikipedia.org/wiki/性別 "wikilink")，之後才算成年。十七歲這個時點是固定的，有人對定性感到不安，有人則是期待，但幾乎沒有人去質疑；這是宮國文化的一部份。
 
 很久很久以前，宮國從地底掘出名為「Simoun」的[飛行器](https://zh.wikipedia.org/wiki/飛行器 "wikilink")，並將它視為不可褻瀆的「神之座騎」。「Simoun」只有未定性的少女可以搭乘，她們被宮國人民視為[巫女](../Page/巫女.md "wikilink")，稱呼她們為「Simoun西貝拉」；Simoun西貝拉們能藉著Simoun，在天空中以光之[航跡繪出](https://zh.wikipedia.org/wiki/航跡 "wikilink")「紋章」，作為獻給神的[祈禱](https://zh.wikipedia.org/wiki/祈禱 "wikilink")，這也是巫女們最重要的工作。
 

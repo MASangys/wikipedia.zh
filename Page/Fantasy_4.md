@@ -25,8 +25,8 @@ Fantasy 4與因為演出《[流星花園](https://zh.wikipedia.org/wiki/流星�
     生日：1986年2月4日（歲）
     學校：[國立岡山高中](https://zh.wikipedia.org/wiki/國立岡山高中 "wikilink")
     身高：168公分
-    體重：50 公斤
-    三圍：34 C.24.38
+    體重：50公斤
+    三圍：34C.24.38
 
 #### 李梅瑄
 

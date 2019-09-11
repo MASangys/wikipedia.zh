@@ -15,22 +15,22 @@
 ## 登場角色
 
   -
-    [聲](../Page/配音員.md "wikilink") - [櫻井智](../Page/櫻井智.md "wikilink")（日本）、[許淑嬪](../Page/許淑嬪.md "wikilink")（台灣）、[吳小藝](../Page/吳小藝.md "wikilink")（香港）
+    [聲](../Page/配音員.md "wikilink") - [櫻井智](../Page/櫻井智.md "wikilink")（日本）、[許淑嬪](../Page/許淑嬪.md "wikilink")（台灣）、[吳小藝](../Page/吳小藝.md "wikilink")（香港）、[李曄](https://zh.wikipedia.org/wiki/李曄_\(配音員\) "wikilink")（中國大陸）
     9月29日出生。[天秤座](https://zh.wikipedia.org/wiki/天秤宮 "wikilink")。[A型](https://zh.wikipedia.org/wiki/ABO血型系統 "wikilink")。主角，聖波利亞學院中學部學生，精於魔術，為了幫助有需要的人而成為聖少女。喜歡飛鳥，並於最後答應飛鳥的求婚。
   -
-    聲 - [井上喜久子](../Page/井上喜久子.md "wikilink")（日）、[楊凱凱](../Page/楊凱凱.md "wikilink")（台）、[周文瑛](../Page/周文瑛.md "wikilink")（香港）
+    聲 - [井上喜久子](../Page/井上喜久子.md "wikilink")（日）、[楊凱凱](../Page/楊凱凱.md "wikilink")（台）、[周文瑛](../Page/周文瑛.md "wikilink")（香港）、姚培華（中國大陸）
     7月3日出生。[巨蟹座](https://zh.wikipedia.org/wiki/巨蟹宮 "wikilink")。B型。實習修女，芽美的同班同學及好友，為聖少女（芽美）提供行動情報，也可以說是聖少女的同黨。
   -
-    聲 - [岡野浩介](https://zh.wikipedia.org/wiki/岡野浩介 "wikilink")（日）、[于正昌](../Page/于正昌.md "wikilink")（台）、[陳廷軒](../Page/陳廷軒.md "wikilink")（香港）
+    聲 - [岡野浩介](https://zh.wikipedia.org/wiki/岡野浩介 "wikilink")（日）、[于正昌](../Page/于正昌.md "wikilink")（台）、[陳廷軒](../Page/陳廷軒.md "wikilink")（香港）、武向彤（中國大陸）
     8月12日出生。[獅子座](https://zh.wikipedia.org/wiki/獅子宮 "wikilink")。AB型。芽美的同班同學，飛鳥探長之子。與芽美是一對歡喜冤家。在追逐聖少女的過程中，漸漸喜歡上芽美，並告白成為情侶，不過後來發現聖少女的真實身分，並將她抓住。八年後成為一個偵探，並向芽美求婚。
   -
     聲 - [興梠里美](../Page/興梠里美.md "wikilink")（日）
     芽美的寵物，是一隻[刺猬](../Page/刺猬.md "wikilink")。
   -
-    聲 - [永島由子](../Page/永島由子.md "wikilink")（日）、[楊凱凱](../Page/楊凱凱.md "wikilink")（台）、[曾秀清](../Page/曾秀清.md "wikilink")（香港）
+    聲 - [永島由子](../Page/永島由子.md "wikilink")（日）、[楊凱凱](../Page/楊凱凱.md "wikilink")（台）、[曾秀清](../Page/曾秀清.md "wikilink")（香港）、黃笑嬿（中國大陸）
     5月19日出生。[金牛座](https://zh.wikipedia.org/wiki/金牛宮 "wikilink")。B型。聖華市市長的姪女，因轉到聖波利亞學院讀書而成為芽美的同學，志願是成為女警，也很想捉到聖少女。喜歡飛鳥。
   -
-    聲 - [森川智之](../Page/森川智之.md "wikilink")（日）、[魏伯勤](../Page/魏伯勤.md "wikilink")（台）、[霍波](../Page/霍波.md "wikilink")（香港）
+    聲 - [森川智之](../Page/森川智之.md "wikilink")（日）、[魏伯勤](../Page/魏伯勤.md "wikilink")（台）、[霍波](../Page/霍波.md "wikilink")（香港）、張欣（中國大陸）
     12月8日出生。[射手座](https://zh.wikipedia.org/wiki/人馬宮 "wikilink")。O型。為學校新聞社的社員，在學校頗受女孩子歡迎。喜歡芽美，後來轉而追求聖良。
   -
     聲 - [岩男潤子](../Page/岩男潤子.md "wikilink")（日）、[楊凱凱](../Page/楊凱凱.md "wikilink")（台）、[龍德瓊](../Page/龍德瓊.md "wikilink")（香港）
@@ -39,16 +39,16 @@
     聲 - 興梠里美（日）、[朱憶華](../Page/朱憶華.md "wikilink")（台）、[徐愛貞](../Page/徐愛貞.md "wikilink")（香港）
     芽美的同班同學，留著黑色短髮。
   -
-    聲 - [井上和彥](../Page/井上和彥.md "wikilink")（日）、[-{于}-正昇](../Page/于正昇.md "wikilink")（台）、[曾秉輝](../Page/曾秉輝.md "wikilink")（香港）
+    聲 - [井上和彥](../Page/井上和彥.md "wikilink")（日）、[-{于}-正昇](../Page/于正昇.md "wikilink")（台）、[曾秉輝](../Page/曾秉輝.md "wikilink")（香港）、李丹青（中國大陸）
     3月1日出生。[雙魚座](https://zh.wikipedia.org/wiki/雙魚宮 "wikilink")。A型。芽美的父親，魔術師。
   -
-    聲 - [榎本智惠子](https://zh.wikipedia.org/wiki/榎本智惠子 "wikilink")（日）、[朱憶華](../Page/朱憶華.md "wikilink")（台）、[徐愛貞](../Page/徐愛貞.md "wikilink")（香港）
+    聲 - [榎本智惠子](https://zh.wikipedia.org/wiki/榎本智惠子 "wikilink")（日）、[朱憶華](../Page/朱憶華.md "wikilink")（台）、[徐愛貞](../Page/徐愛貞.md "wikilink")（香港）、王蘇（中國大陸）
     10月27日出生。[天蠍座](https://zh.wikipedia.org/wiki/天蠍宮 "wikilink")。A型。芽美的母親，以前也是怪盜，曾經以「怪盜露西法」之名犯案。
   -
-    聲 - [大塚明夫](../Page/大塚明夫.md "wikilink")（日）、[黃志明](https://zh.wikipedia.org/wiki/黃志明 "wikilink")（香港）
+    聲 - [大塚明夫](../Page/大塚明夫.md "wikilink")（日）、[黃志明](https://zh.wikipedia.org/wiki/黃志明 "wikilink")（香港）、李傳纓（中國大陸）
     大貴的父親，聖華市警隊的探長。
   -
-    聲 - [金井美香](../Page/金井美香.md "wikilink")（日）、[姜麗儀](../Page/姜麗儀.md "wikilink")（香港）
+    聲 - [金井美香](../Page/金井美香.md "wikilink")（日）、[姜麗儀](../Page/姜麗儀.md "wikilink")（香港）、[馮駿驊](https://zh.wikipedia.org/wiki/馮駿驊 "wikilink")（中國大陸）
     「潘朵拉」占卜館館主的養女，是聖少女的勁敵，與其養母利用催眠術偷取顧客的財物。性格機靈。外觀上的年紀好像比芽美她們都小。占卦和催眠術的使用者。
   -
     聲 - [幸田直子](https://zh.wikipedia.org/wiki/幸田直子 "wikilink")（日）、[朱憶華](../Page/朱憶華.md "wikilink")（台）、[譚淑英](../Page/譚淑英.md "wikilink")（香港）
@@ -383,6 +383,21 @@
   - 製作人 - 依田正和、大野逸雄\[1\]（ABC） / 中村重喜\[2\]、渡邊哲也（[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")） / 尾崎穩通（[TMS](https://zh.wikipedia.org/wiki/東京電影 "wikilink")）
   - 製作協力 - 電通
   - 製作 - ABC、東京電影新社→KYOKUICHI東京電影
+
+### 配音團隊
+
+  - 中国大陆普通话版
+
+<!-- end list -->
+
+  - 监制 - 萧红、李黄成、尹炜
+  - 制片·发行总监 - 严勇
+  - 责任编辑 - 郝建华
+  - 编辑 - 李涛、蔣蓓蓓
+  - 本片由[上海东方电视台](../Page/上海东方电视台.md "wikilink")引进
+  - 本片由上海富尔亿广告传播有限公司独家发行
+  - 特别鸣谢 - 上海凯利特实业有限公司
+  - 广社动画审字（2001）第024号
 
 ### 主題曲
 

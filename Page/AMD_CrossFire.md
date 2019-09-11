@@ -120,7 +120,8 @@ R520高達2048 x 1536@70+的CrossFire模式，相信就是改用比Silicon Image
 
 <!-- end list -->
 
-  - R9 290 Series 及以后（不需主卡，现时的英特尔芯片组主板不提供AMD Crossfire桥接器，可以直接用两只AMD R9 290(X)/295X2显卡组建Crossfire）
+  - R9 290 Series 及以后（不需主卡，现时的英特尔芯片组主板不提供AMD CrossFire
+  - RX 5700与RX 5700XT之后的显卡不支持CrossFire
 
 ## \-{zh-hans:支持;zh-hant:支援;}-晶片組
 

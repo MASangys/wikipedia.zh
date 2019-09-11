@@ -2,7 +2,9 @@
 
 Exchange Server是个消息与协作系统，Exchange server可以被用来构架应用于企业、学校的邮件系统甚至于免费邮件系统。也可以用于开发[工作流](https://zh.wikipedia.org/wiki/工作流 "wikilink")、[知识管理系统](https://zh.wikipedia.org/wiki/知识管理系统 "wikilink")、Web系统或者是其他消息系统。
 
-Microsoft Exchange Server ==版本==
+## 版本
+
+Microsoft Exchange Server
 
   - Exchange 1.0
   - Exchange Server 4.0

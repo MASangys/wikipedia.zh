@@ -51,7 +51,7 @@ Mozilla的專案通常交給Mozilla.org的委员会來管理，这些委员会�
 
 2014年11月，Mozilla與Yahoo\!簽署五年合作協議，[Yahoo\!搜尋成為北美Firefox的預設搜尋引擎](../Page/Yahoo!_Search.md "wikilink")，俄羅斯的預設搜尋引擎是[Yandex](../Page/Yandex.md "wikilink")，在中國是[百度](../Page/百度.md "wikilink")\[14\]。同时也被外界认为Mozilla和Google两家公司之间的矛盾激化，在关键产品上进入全面竞争关系。
 
-然而，在2017年11月，Mozilla宣布\[15\]將重新使用Google作為預設搜尋引擎。這代表Yahoo的合作關係提前結束\[16\]。
+然而，在2017年11月，Mozilla宣布\[15\]將重新使用Google作為預設搜尋引擎，意味著Yahoo的合作關係提前結束\[16\]。
 
 ## 捐款
 

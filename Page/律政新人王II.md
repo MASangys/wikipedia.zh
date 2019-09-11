@@ -286,7 +286,7 @@ Zenbi之徒弟</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/黃梓瑋" title="wikilink">黃梓瑋</a></p></td>
+<td><p><a href="../Page/黃梓瑋.md" title="wikilink">黃梓瑋</a></p></td>
 <td><p>寶老師</p></td>
 <td><p>-</p></td>
 </tr>

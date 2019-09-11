@@ -2,7 +2,7 @@
 
 Office 2007還包括了新的應用程序和伺服器端工具。其中最主要的是[Groove](https://zh.wikipedia.org/wiki/Microsoft_Office_Groove "wikilink")，一個適用於小型企業的協作和通訊套裝。Groove原本由[Groove Networks開發](https://zh.wikipedia.org/wiki/Groove_Networks "wikilink")，後來在2005年被微軟收購。另外，也包含了Office Sharepoint Server 2007，一個Office應用程序伺服器平台的主要修訂版，提供「Excel Services」，用來支持在多台機器上實時共享Excel工作表，並可在網頁上查看和編輯的客戶-伺服器架構。雖然Office 2007包含許多新的特性，但[Microsoft FrontPage被完全移除](../Page/Microsoft_FrontPage.md "wikilink")，不再開發，將由[Microsoft Office SharePoint Designer和](https://zh.wikipedia.org/wiki/Microsoft_Office_SharePoint_Designer "wikilink")[Microsoft Expression Web取代](https://zh.wikipedia.org/wiki/Microsoft_Expression_Studio#應用程式 "wikilink")。
 
-Office 2007需裝載在[Windows XP](../Page/Windows_XP.md "wikilink")[SP](../Page/服務包.md "wikilink") 2/3、[Windows Server 2003](../Page/Windows_Server_2003.md "wikilink") SP1之後的版本或是主要作業系統是**[Windows Vista](../Page/Windows_Vista.md "wikilink")**\[2\]以及**[Windows 7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")**。
+Office 2007需裝載在[Windows XP](../Page/Windows_XP.md "wikilink")[SP](../Page/服務包.md "wikilink") 2/3、[Windows Server 2003](../Page/Windows_Server_2003.md "wikilink") SP1之後的版本或是主要作業系統是[Windows Vista](../Page/Windows_Vista.md "wikilink")\[2\]以及[Windows 7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")。
 
 Office 2007在2017年10月10日，停止支援及更新。\[3\]
 

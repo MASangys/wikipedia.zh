@@ -14,7 +14,7 @@ Dash 8型螺旋槳飛機除了可以滿足嚴苛作業環境外，更非常適�
 
 ## 性能
 
-[De_Havilland_Canada_DHC-8-400_(ANA)_with_Co-Pilot.jpg](https://zh.wikipedia.org/wiki/File:De_Havilland_Canada_DHC-8-400_\(ANA\)_with_Co-Pilot.jpg "fig:De_Havilland_Canada_DHC-8-400_(ANA)_with_Co-Pilot.jpg") [Dash8_402Q_2006-04-07.jpg](https://zh.wikipedia.org/wiki/File:Dash8_402Q_2006-04-07.jpg "fig:Dash8_402Q_2006-04-07.jpg")Q400\]\] [Dash_8.jpg](https://zh.wikipedia.org/wiki/File:Dash_8.jpg "fig:Dash_8.jpg") [Scandinavian_Commuter_Dash_8_Q400_interior.jpg](https://zh.wikipedia.org/wiki/File:Scandinavian_Commuter_Dash_8_Q400_interior.jpg "fig:Scandinavian_Commuter_Dash_8_Q400_interior.jpg")
+[De_Havilland_Canada_DHC-8-400_(ANA)_with_Co-Pilot.jpg](https://zh.wikipedia.org/wiki/File:De_Havilland_Canada_DHC-8-400_\(ANA\)_with_Co-Pilot.jpg "fig:De_Havilland_Canada_DHC-8-400_(ANA)_with_Co-Pilot.jpg")Q400\]\] [Dash8_402Q_2006-04-07.jpg](https://zh.wikipedia.org/wiki/File:Dash8_402Q_2006-04-07.jpg "fig:Dash8_402Q_2006-04-07.jpg")Q400\]\] [Dash_8.jpg](https://zh.wikipedia.org/wiki/File:Dash_8.jpg "fig:Dash_8.jpg") [Scandinavian_Commuter_Dash_8_Q400_interior.jpg](https://zh.wikipedia.org/wiki/File:Scandinavian_Commuter_Dash_8_Q400_interior.jpg "fig:Scandinavian_Commuter_Dash_8_Q400_interior.jpg")
 
   - 特殊的連體懸梯式登機門，使旅客上下機便捷迅速。
   - 特殊的機身結構設計，具有最少8萬飛行小時或6萬航次之耐用性。
@@ -77,7 +77,7 @@ Dash 8型螺旋槳飛機除了可以滿足嚴苛作業環境外，更非常適�
   - [Type certificate](https://web.archive.org/web/20090224014111/http://www.tc.gc.ca/aviation/applications/nico-celn/en/getfile_inc.asp?x_lang=e&AFCflag=Y&doc_type=pdf&aprv_num=A-142&isu_num=30&isu_dt_start=2007%2D04%2D12+00%3A00%3A00&proj_num=070037)
   - [Project information on the Bombardier Q400 Dash 8 Turboprop Regional Airliner](http://www.aerospace-technology.com/projects/dash8/)
 
-[Category:支线客机](https://zh.wikipedia.org/wiki/Category:支线客机 "wikilink") [Category:加拿大航空器](https://zh.wikipedia.org/wiki/Category:加拿大航空器 "wikilink")
+[Category:支线客机](https://zh.wikipedia.org/wiki/Category:支线客机 "wikilink") [Category:庞巴迪宇航公司飞机](https://zh.wikipedia.org/wiki/Category:庞巴迪宇航公司飞机 "wikilink") [Category:德哈維蘭加拿大飛機](https://zh.wikipedia.org/wiki/Category:德哈維蘭加拿大飛機 "wikilink")
 
 1.
 

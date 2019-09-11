@@ -15,7 +15,7 @@
 
 ## 医疗
 
-  - 家禽霍亂病源（Pasteurella multocida）
+  - 家禽霍亂病源（Pasteurella multocida）q
 
 ## 职业
 

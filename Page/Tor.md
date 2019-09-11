@@ -210,7 +210,7 @@ Tor Messenger於2018年4月因數據必然洩露至社交網站、人手不足�
 
 ### 側重安全的作業系統
 
-一些側重安全的GNU/Linux發行版會廣泛使用Tor，包括[Linux From Scratch](../Page/Linux_From_Scratch.md "wikilink")、、Liberté Linux、[Qubes OS](../Page/Qubes_OS.md "wikilink")、、[Tails](../Page/Tails_\(操作系统\).md "wikilink")、、[Whonix](https://zh.wikipedia.org/wiki/Whonix "wikilink")\[193\]。
+一些側重安全的GNU/Linux發行版會廣泛使用Tor，包括[Linux From Scratch](../Page/Linux_From_Scratch.md "wikilink")、、Liberté Linux、[Qubes OS](../Page/Qubes_OS.md "wikilink")、、[Tails](../Page/Tails_\(操作系统\).md "wikilink")、、[Whonix](../Page/Whonix.md "wikilink")\[193\]。
 
 ## 影響及反應
 

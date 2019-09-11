@@ -10,7 +10,7 @@ Allmovie上的資料可透過網路於allmovie.com網站存取，亦可經由可
 
 2011年，Allmovie与Allmusic被整合至[Rovi公司创办的](https://zh.wikipedia.org/wiki/Rovi公司 "wikilink")**Allrovi**。
 
-## 參考資料
+## 参考文献
 
 ## 外部連結
 

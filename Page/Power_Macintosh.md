@@ -62,8 +62,6 @@ Power Macintosh產品以使用的CPU及主機板配置差異，可粗略分為�
 
 最後一款的 [Power Mac G5](../Page/Power_Mac_G5.md "wikilink") 產品於2005年10月上市，於2006年8月停產；所有由蘋果設計生產的 Power Macintosh 系列產品也正式走入歷史，同時接替上市的新產品系列命名為“[Mac Pro](../Page/Mac_Pro.md "wikilink")”。
 
-註：
-
 　
 
 ## 各產品 時間 型號

@@ -793,7 +793,7 @@ X自正式出道以來的樂曲，原創樂曲共34首由多家唱片公司發�
 
 ### 錄音室專輯
 
-  - （1988年4月14日）
+  - [Vanishing Vision](../Page/Vanishing_Vision.md "wikilink")（1988年4月14日）
 
   - [BLUE BLOOD](../Page/BLUE_BLOOD.md "wikilink")（1989年4月21日）
 

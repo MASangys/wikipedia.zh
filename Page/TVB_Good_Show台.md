@@ -16,7 +16,7 @@
 
 自公布成立生活台以後，無綫電視多次為此頻道宣傳，在2006年5月初宣布生活台將播放《[志雲飯局](../Page/志雲飯局.md "wikilink")》\[1\]。
 
-在2006年5月27日，藝員[王喜攀登](https://zh.wikipedia.org/wiki/王喜 "wikilink")[珠穆朗瑪峰](../Page/珠穆朗瑪峰.md "wikilink")，並為無綫生活台拍攝節目\[2\]。5月31日[端午節](https://zh.wikipedia.org/wiki/端午節 "wikilink")，無綫派出的龍舟隊以「無綫生活台」名義、取代多年以「無綫電視」的名義在[沙田](https://zh.wikipedia.org/wiki/沙田 "wikilink")[龍舟](../Page/龍舟.md "wikilink")競渡出賽，當天出賽的健兒包括無綫生活台的主持，而電視廣播有限公司總經理[陳志雲](../Page/陳志雲.md "wikilink")也到場支持。
+在2006年5月27日，藝員[王喜](../Page/王喜.md "wikilink")攀登[珠穆朗瑪峰](../Page/珠穆朗瑪峰.md "wikilink")，並為無綫生活台拍攝節目\[2\]。5月31日[端午節](https://zh.wikipedia.org/wiki/端午節 "wikilink")，無綫派出的龍舟隊以「無綫生活台」名義、取代多年以「無綫電視」的名義在[沙田](https://zh.wikipedia.org/wiki/沙田 "wikilink")[龍舟](../Page/龍舟.md "wikilink")競渡出賽，當天出賽的健兒包括無綫生活台的主持，而電視廣播有限公司總經理[陳志雲](../Page/陳志雲.md "wikilink")也到場支持。
 
 2006年6月1日[香港時間](../Page/香港時間.md "wikilink")晚上8時開始在[無綫收費電視第](https://zh.wikipedia.org/wiki/無綫收費電視 "wikilink")10頻道和[now寬頻電視的無綫收費電視特選組合第](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")810頻道播出，每日約有三小時首播時間，其餘時間重播當日或早一天的電視節目。
 

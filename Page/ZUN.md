@@ -1,14 +1,12 @@
 **ZUN**（，\[1\]），男，本名**太田顺也**\[2\]，是一位[日本](../Page/日本.md "wikilink")[游戏制作員](https://zh.wikipedia.org/wiki/游戏制作 "wikilink")、程序員、[編劇](../Page/編劇.md "wikilink")、[繪畫藝術家和](https://zh.wikipedia.org/wiki/繪畫藝術 "wikilink")[遊戲音樂](../Page/遊戲音樂.md "wikilink")[作曲家](https://zh.wikipedia.org/wiki/作曲家 "wikilink")，畢業于[東京電機大學](https://zh.wikipedia.org/wiki/東京電機大學 "wikilink")。
 
-## 概述
-
 《[東方Project](https://zh.wikipedia.org/wiki/東方Project "wikilink")》的大部份編程、編劇、繪畫和作曲工作都是由ZUN負責。
 
-[日本](../Page/日本.md "wikilink")[同人遊戲](../Page/同人遊戲.md "wikilink")社團[上海愛麗絲幻樂團基本上爲ZUN一人所有](https://zh.wikipedia.org/wiki/上海愛麗絲幻樂團 "wikilink")\[3\]，以《東方Project》系列聞名，並且是[金氏記錄上最多同人射擊遊戲作品的作者](https://zh.wikipedia.org/wiki/金氏記錄 "wikilink")\[4\]。
+[日本](../Page/日本.md "wikilink")[同人遊戲](../Page/同人遊戲.md "wikilink")社團[上海愛麗絲幻樂團](../Page/上海愛麗絲幻樂團.md "wikilink")基本上爲ZUN一人所有\[3\]，以《東方Project》系列聞名，並且是[金氏記錄上最多同人射擊遊戲作品的作者](https://zh.wikipedia.org/wiki/金氏記錄 "wikilink")\[4\]。
 
-[幻樂團作品的愛好者都慣稱呼ZUN為](https://zh.wikipedia.org/wiki/上海愛麗絲幻樂團 "wikilink")**神主**（意思是神道教之男性[神職人員](https://zh.wikipedia.org/wiki/神職人員 "wikilink")）、**博麗神主**以及**博麗神社的神主**。\[5\]
+## 名字
 
-ZUN本人曾指出，「ZUN」此名由街机厅的成绩榜姓名只能输入三个字母而来。\[6\]
+[幻樂團作品的愛好者慣稱呼ZUN為](../Page/上海愛麗絲幻樂團.md "wikilink")**神主**（意思是神道教之男性[神職人員](https://zh.wikipedia.org/wiki/神職人員 "wikilink")）、**博麗神主**以及**博麗神社的神主**。\[5\] ZUN本人曾称，「ZUN」此名由街机厅的成绩榜姓名只能输入三个字母而来。\[6\]
 
 ## 生平
 
@@ -36,15 +34,15 @@ ZUN也是日本[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")[公司]
 
 ZUN於2012年5月27日結婚，當天正好是例大祭時。結婚對象是位幫忙他製作遊戲的電腦工程師，大約從2004年8月開始交往與同居。\[25\]
 
-## 性格
+## 个人生活
 
-ZUN愛好飲酒，而其網誌內有不少與酒相關的主題。\[26\]另外，當ZUN被人提問他對人生的觀點時，會說：「不要悲觀地想會比較好吧…因為人生只有一次而已。無論發生甚麼事，只要做就行了。」（）\[27\]
+ZUN愛好飲酒，其網誌內有不少與酒相關的主題。\[26\]另外，當ZUN被人提問他對人生的觀點時，會說：「不要悲觀地想會比較好吧…因為人生只有一次而已。無論發生甚麼事，只要做就行了。」（）\[27\]
 
 ## 參考文獻
 
 ## 參見
 
-  - [上海愛麗絲幻樂團](https://zh.wikipedia.org/wiki/上海愛麗絲幻樂團 "wikilink")
+  - [上海愛麗絲幻樂團](../Page/上海愛麗絲幻樂團.md "wikilink")
   - [東方Project](https://zh.wikipedia.org/wiki/東方Project "wikilink")
 
 ## 外部連結

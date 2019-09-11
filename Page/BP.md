@@ -64,7 +64,7 @@ BP最近已经注意到通过加大开发如前苏联等边区来增加其未来
 
 墨西哥灣漏油事件，又稱英国石油漏油事故，是2010年4月20日發生的一起[墨西哥灣外海油污外漏事件](https://zh.wikipedia.org/wiki/墨西哥灣 "wikilink")。起因是英國石油公司所屬一個名為「[深水地平線](https://zh.wikipedia.org/wiki/深水地平線鑽油平臺 "wikilink")」（Deepwater Horizon）的外海[鑽油平臺故障並爆炸](https://zh.wikipedia.org/wiki/鑽油平臺 "wikilink")，導致了此次漏油事故。爆炸同时導致了11名工作人員死亡及17人受傷。
 
-據估計每天平均有12,000到100,000[桶原油漏到墨西哥灣](https://zh.wikipedia.org/wiki/桶_\(单位\) "wikilink")，導致至少2,500[平方公里的海水被石油覆蓋着](https://zh.wikipedia.org/wiki/平方公里 "wikilink")。專家們擔心此次漏油会導致一场環境災难影響多種[生物](../Page/生物.md "wikilink")。此次漏油还影響了當地的漁業和旅游業。
+據估計每天平均有60,000[桶原油漏到墨西哥灣](https://zh.wikipedia.org/wiki/桶_\(单位\) "wikilink")，導致至少2,500[平方公里的海水被石油覆蓋着](https://zh.wikipedia.org/wiki/平方公里 "wikilink")。專家們擔心此次漏油会導致一场環境災难影響多種[生物](../Page/生物.md "wikilink")。此次漏油还影響了當地的漁業和旅游業。
 
 ## 引用
 

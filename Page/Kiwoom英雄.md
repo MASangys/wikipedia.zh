@@ -1,4 +1,4 @@
-**Kiwoom英雄**（韓文：키움 히어로즈）是一支[韓國棒球委員會](../Page/韓國棒球委員會.md "wikilink")的球隊，母企業為[韓國的投資公司](https://zh.wikipedia.org/wiki/韓國 "wikilink")**Centennial Investment**，成立於2008年，為[現代獨角獸](../Page/現代獨角獸.md "wikilink")宣布解散後，由投資公司**Centennial Investment**獲邀組隊，成員大多來自原[現代獨角獸](../Page/現代獨角獸.md "wikilink")隊，目前該隊以出售冠名贊助權為隊名，成立之初由[我們煙草公司](https://zh.wikipedia.org/wiki/我們煙草公司 "wikilink")（韓文：우리담배）取得冠名贊助權，後由[耐克森輪胎](../Page/耐克森輪胎.md "wikilink")取得，2018年底改和[Kiwoom證券簽約](https://zh.wikipedia.org/wiki/Kiwoom證券 "wikilink")，並更為現名。
+**Kiwoom英雄**（、），是[KBO聯賽](../Page/KBO聯賽.md "wikilink")的球隊之一，母企業為[韓國的投資公司](https://zh.wikipedia.org/wiki/韓國 "wikilink")**Centennial Investment**，成立於2008年，為[現代獨角獸](../Page/現代獨角獸.md "wikilink")宣布解散後，由投資公司**Centennial Investment**獲邀組隊，成員大多來自原[現代獨角獸](../Page/現代獨角獸.md "wikilink")隊，目前該隊以出售冠名贊助權為隊名，成立之初由[我們煙草公司](https://zh.wikipedia.org/wiki/我們煙草公司 "wikilink")（韓文：우리담배）取得冠名贊助權，後由[耐克森輪胎](../Page/耐克森輪胎.md "wikilink")取得，2018年底改和[Kiwoom證券簽約](https://zh.wikipedia.org/wiki/Kiwoom證券 "wikilink")，並更為現名。
 
 ## 球隊歷史
 
@@ -16,7 +16,21 @@
 | 廉京燁 | [2013年](../Page/2013年.md "wikilink") | [2016年](../Page/2016年.md "wikilink") |     |    |
 | 張正錫 | [2017年](../Page/2017年.md "wikilink") |                                      |     | 現任 |
 
-<noinclude></noinclude>
+## 歷年戰績
+
+| 年份   | 排名 | 場次  | 勝  | 敗  | 和 | 勝率    | 備註 |
+| ---- | -- | --- | -- | -- | - | ----- | -- |
+| 2008 | 7  | 126 | 50 | 76 | 0 | 0.397 |    |
+| 2009 | 6  | 133 | 60 | 72 | 1 | 0.451 |    |
+| 2010 | 7  | 133 | 52 | 78 | 3 | 0.391 |    |
+| 2011 | 8  | 133 | 51 | 80 | 2 | 0.389 |    |
+| 2012 | 6  | 133 | 61 | 69 | 3 | 0.469 |    |
+| 2013 | 4  | 128 | 72 | 54 | 2 | 0.571 |    |
+| 2014 | 2  | 128 | 78 | 48 | 2 | 0.619 |    |
+| 2015 | 4  | 144 | 78 | 65 | 1 | 0.545 |    |
+| 2016 | 3  | 144 | 77 | 66 | 1 | 0.538 |    |
+| 2017 | 7  | 144 | 69 | 73 | 2 | 0.486 |    |
+| 2018 | 4  | 144 | 75 | 69 | 0 | 0.521 |    |
 
 ## 現役成員
 
@@ -27,4 +41,4 @@
   - [Kiwoom英雄官方YouTube](https://www.youtube.com/channel/UC_MA8-XEaVmvyayPzG66IKg)
   - [Kiwoom英雄官方IG](https://www.instagram.com/heroesbaseballclub/)
 
-[Category:紀錄模板](https://zh.wikipedia.org/wiki/Category:紀錄模板 "wikilink") [Category:韓國職棒球隊](https://zh.wikipedia.org/wiki/Category:韓國職棒球隊 "wikilink")
+[Category:韓國職棒球隊](https://zh.wikipedia.org/wiki/Category:韓國職棒球隊 "wikilink")

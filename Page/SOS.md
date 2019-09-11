@@ -4,7 +4,7 @@
 
 ## 历史
 
-[Thesos.jpg](https://zh.wikipedia.org/wiki/File:Thesos.jpg "fig:Thesos.jpg")正在向外发送信号\]\] ，並于1906年11月3日成为国际标准（之前国际常用[CQD](../Page/CQD.md "wikilink")求救信号，但并未成为标准）。在1908年7月1日后被广泛采用。
+[Thesos.jpg](https://zh.wikipedia.org/wiki/File:Thesos.jpg "fig:Thesos.jpg") ，並于1906年11月3日成为国际标准（之前国际常用[CQD](../Page/CQD.md "wikilink")求救信号，但并未成为标准）。在1908年7月1日后被广泛采用。
 
 之所以制订新遇难信号为，是因为当时的抗[干扰技术很差](https://zh.wikipedia.org/wiki/干扰 "wikilink")，之前常用的CQD信号，由于发送码长，而且电码的符号不一致，而S与O是摩斯电码中少有的连续码而且对操作员来说较易使用。而在之后也成为一个易记、实用的求救方式。
 

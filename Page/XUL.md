@@ -22,7 +22,7 @@ XUL是一个[开放標準](https://zh.wikipedia.org/wiki/开放標準 "wikilink"
 XUL定義了一套豐富的元素。它們大致上可分為以下幾種：
 
   - 基層元素: 例如[視窗](../Page/視窗.md "wikilink")、page、[對話框](https://zh.wikipedia.org/wiki/對話框 "wikilink")、[精靈](https://zh.wikipedia.org/wiki/精靈_\(軟件\) "wikilink")
-    Widget: 例如標籤、[按鈕](https://zh.wikipedia.org/wiki/按钮_\(计算机\) "wikilink")、[文字方塊](https://zh.wikipedia.org/wiki/文本框 "wikilink")、條列式選單、[下拉式方塊](../Page/组合框.md "wikilink")、[選擇鈕](https://zh.wikipedia.org/wiki/選擇鈕 "wikilink")、[核取方塊](https://zh.wikipedia.org/wiki/核取方塊 "wikilink")、[樹](https://zh.wikipedia.org/wiki/樹狀檢視 "wikilink")、[選單](https://zh.wikipedia.org/wiki/选单 "wikilink")、[工具列](../Page/工具栏.md "wikilink")、分组框、[标签页](https://zh.wikipedia.org/wiki/分頁瀏覽器 "wikilink")、色彩選擇器、spacer、splitter
+    Widget: 例如標籤、[按鈕](https://zh.wikipedia.org/wiki/按钮_\(计算机\) "wikilink")、[文字方塊](https://zh.wikipedia.org/wiki/文本框 "wikilink")、條列式選單、[下拉式方塊](../Page/组合框.md "wikilink")、[選擇鈕](https://zh.wikipedia.org/wiki/選擇鈕 "wikilink")、[核取方塊](../Page/核取方塊.md "wikilink")、[樹](https://zh.wikipedia.org/wiki/樹狀檢視 "wikilink")、[選單](https://zh.wikipedia.org/wiki/选单 "wikilink")、[工具列](../Page/工具栏.md "wikilink")、分组框、[标签页](https://zh.wikipedia.org/wiki/分頁瀏覽器 "wikilink")、色彩選擇器、spacer、splitter
     排版: 例如方框、網格、堆疊、疊
     事件和腳本: 例如[腳本](../Page/脚本语言.md "wikilink")、[命令](https://zh.wikipedia.org/wiki/命令 "wikilink")、key、broadcaster、observer
     資料來源: 例如template、rule

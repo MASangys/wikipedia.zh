@@ -96,7 +96,7 @@ AMD也開發了屬於自己的[SSE4a多媒體指令集](https://zh.wikipedia.org
 
 ### AVX
 
-[AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")（Advanced Vector Extensions）是Intel的SSE延伸架構，如IA16至IA32般的把暫存器XMM 128bit提升至YMM 256bit，以增加一倍的運算效率。
+[AVX](../Page/AVX指令集.md "wikilink")（Advanced Vector Extensions）是Intel的SSE延伸架構，如IA16至IA32般的把暫存器XMM 128bit提升至YMM 256bit，以增加一倍的運算效率。
 
 ### FMA
 

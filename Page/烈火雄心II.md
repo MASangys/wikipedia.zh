@@ -1,4 +1,4 @@
-《**烈火雄心II**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")製作的時裝[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，全劇共35集，由[王喜](../Page/王喜.md "wikilink")、[方中信](../Page/方中信.md "wikilink")、[張可頤](https://zh.wikipedia.org/wiki/張可頤 "wikilink")、[蒙嘉慧](../Page/蒙嘉慧.md "wikilink")、[陳慧珊](../Page/陳慧珊.md "wikilink")、[歐錦棠](../Page/歐錦棠.md "wikilink")及[文頌嫻](../Page/文頌嫻.md "wikilink")領銜主演，由[鄭嘉穎](../Page/鄭嘉穎.md "wikilink")、[元華](../Page/元華.md "wikilink")、[蔣志光](../Page/蔣志光.md "wikilink")、[蔡子健](../Page/蔡子健.md "wikilink")、[成珈瑩](../Page/成珈瑩.md "wikilink")及[唐寧聯合主演](../Page/唐寧_\(香港\).md "wikilink")，並由[宣萱](../Page/宣萱.md "wikilink")特別演出，監製[王心慰](../Page/王心慰.md "wikilink")。此劇為《[烈火雄心](https://zh.wikipedia.org/wiki/烈火雄心 "wikilink")》系列作，但在劇情上與上輯完全沒有關連。
+《**烈火雄心II**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")製作的時裝[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，全劇共35集，由[王喜](../Page/王喜.md "wikilink")、[方中信](../Page/方中信.md "wikilink")、[張可頤](https://zh.wikipedia.org/wiki/張可頤 "wikilink")、[蒙嘉慧](../Page/蒙嘉慧.md "wikilink")、[陳慧珊](../Page/陳慧珊.md "wikilink")、[歐錦棠](../Page/歐錦棠.md "wikilink")及[文頌嫻](../Page/文頌嫻.md "wikilink")領銜主演，由[鄭嘉穎](../Page/鄭嘉穎.md "wikilink")、[元華](../Page/元華.md "wikilink")、[唐寧](../Page/唐寧_\(香港\).md "wikilink")、[蔣志光](../Page/蔣志光.md "wikilink")、[蔡子健](../Page/蔡子健.md "wikilink")及[成珈瑩](../Page/成珈瑩.md "wikilink")聯合主演，並由[宣萱](../Page/宣萱.md "wikilink")特別演出，監製[王心慰](../Page/王心慰.md "wikilink")。此劇為《[烈火雄心](https://zh.wikipedia.org/wiki/烈火雄心 "wikilink")》系列作，但在劇情上與上輯完全沒有關連。
 
 ## 劇情大綱
 
@@ -539,7 +539,6 @@
 <td><p><strong>葉向陽</strong></p></td>
 <td><p><strong>Sunnie、師母、陽陽</strong><br />
 消防隊目（控制）<br />
-雷國彪之前未婚妻<br />
 蔡南豐之女友<br />
 江逸雅之好友<br />
 於第11集和蔡南豐發生關係<br />
@@ -589,8 +588,9 @@
 <tr class="odd">
 <td><p><strong><a href="../Page/文頌嫻.md" title="wikilink">文頌嫻</a></strong></p></td>
 <td><p><strong>葉向陽</strong></p></td>
-<td><p><strong>Sunnie、師母、陽陽、消防隊目（控制）<br />
-參見</strong><a href="https://zh.wikipedia.org/wiki/#消防控制中心（Fire_Control_Centre）" title="wikilink">消防控制中心</a>'''</p></td>
+<td><p><strong>Sunnie、師母、陽陽</strong><br />
+雷國彪之前未婚妻<br />
+參見<strong><a href="https://zh.wikipedia.org/wiki/#消防控制中心（Fire_Control_Centre）" title="wikilink">消防控制中心</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/歐錦棠.md" title="wikilink">歐錦棠</a></strong></p></td>
@@ -654,7 +654,7 @@
 唐明前女友<br />
 江逸雅之上司兼好友<br />
 Gary之前女友<br />
-於第29集知道自己是江逸雅婚姻的第三者<br />
+於第28集知道自己是江逸雅婚姻的第三者<br />
 於第30集把公司轉移到加拿大，並且到加拿大生活</p></td>
 </tr>
 <tr class="odd">
@@ -728,7 +728,7 @@ Gary之前女友<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/黃梓瑋" title="wikilink">黃梓瑋</a></p></td>
+<td><p><a href="../Page/黃梓瑋.md" title="wikilink">黃梓瑋</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1387,7 +1387,7 @@ Gary之前女友<br />
 
 ## 小趣事
 
-本劇中奇怪地亦同上集《[烈火雄心](https://zh.wikipedia.org/wiki/烈火雄心 "wikilink")》一樣近半 角色的名字均取自香港的公共屋邨、居屋及私人屋苑的名稱。較明顯的例子包括紀德田－[德田邨](../Page/德田邨.md "wikilink")、紀興田－[興田邨](../Page/興田邨.md "wikilink")、唐明－[唐明苑](https://zh.wikipedia.org/wiki/唐明苑 "wikilink")、 鍾茵怡－ [茵怡花園](../Page/茵怡花園.md "wikilink")、關安蔭－[安蔭邨](../Page/安蔭邨.md "wikilink")、蔡南豐－[南豐新邨](../Page/南豐新邨.md "wikilink")等等。
+本劇中奇怪地亦同上集《[烈火雄心](https://zh.wikipedia.org/wiki/烈火雄心 "wikilink")》一樣近半角色的名字均取自香港的公共屋邨、居屋及私人屋苑的名稱。較明顯的例子包括紀德田－[德田邨](../Page/德田邨.md "wikilink")、紀興田－[興田邨](../Page/興田邨.md "wikilink")、唐明－[唐明苑](https://zh.wikipedia.org/wiki/唐明苑 "wikilink")、 鍾茵怡－ [茵怡花園](../Page/茵怡花園.md "wikilink")、關安蔭－[安蔭邨](../Page/安蔭邨.md "wikilink")、蔡南豐－[南豐新邨](../Page/南豐新邨.md "wikilink")等等。
 
 此外，本劇的消防局《鰂魚涌消防局》、《火炭消防局》、《碧瑤消防局》、及《蝴蝶灣滅火輪消防局》全是虛構出來，劇中的「碧瑤消防局」現實名稱為「薄扶林消防局」，與碧瑤灣約有一公里距離。而劇中早期部份取景就用「北角消防局」去替代「鰂魚涌消防局」。「火炭消防局」現實名稱為「沙田消防局」。而蝴蝶灣滅火輪消防局則取景於屯門滅火輪消防局。
 

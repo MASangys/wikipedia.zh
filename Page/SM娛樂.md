@@ -114,7 +114,7 @@
 ## 現有藝人
 
   - 斜體為目前已暫停活動。
-  - 公司僅負責[Victoria](../Page/宋茜.md "wikilink")、[Lay及](../Page/張藝興.md "wikilink")[Amber韓國活動](https://zh.wikipedia.org/wiki/劉逸雲 "wikilink")。
+  - 公司僅負責[Victoria](../Page/宋茜.md "wikilink")、[Lay韓國活動](../Page/張藝興.md "wikilink")。
 
 ### Solo歌手
 
@@ -147,7 +147,6 @@
   - [J-Min](../Page/J-Min.md "wikilink")
   - *[喜悅Dana](../Page/喜悅Dana.md "wikilink")*
   - *智聲Sunday*
-  - [Amber](https://zh.wikipedia.org/wiki/劉逸雲 "wikilink")
   - [太妍](../Page/太妍.md "wikilink")
   - [Luna](../Page/朴善英.md "wikilink")
   - [孝淵](https://zh.wikipedia.org/wiki/孝淵 "wikilink")
@@ -571,6 +570,8 @@
   - [強藝元](../Page/強藝元.md "wikilink")<small>（2013-2018）</small>
   - [Super Junior-M](../Page/Super_Junior-M.md "wikilink")
       - [Henry](../Page/劉憲華.md "wikilink")<small>（2008-2018）</small>
+  - [f(x)](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")
+      - [Amber](https://zh.wikipedia.org/wiki/劉逸雲 "wikilink")<small>（2009-2019）</small>
 
 <!-- end list -->
 
@@ -675,36 +676,32 @@
 
 ## 外部連結
 
-  - [SMTOWN 韓國官方網站](http://www.smtown.com)
+  - 官方网站
+      - [SMTOWN 韓國官方網站](http://www.smtown.com)
+      - [SMTOWN 日本官方網站](https://smtown.jp/)
+      - [SM Entertainment 集團官網](http://www.smentertainment.com/)
+      - [S.M. Culture& Contents 官網](http://www.smcultureandcontents.com/)
+  - 官方影像频道
+      - [SM Entertainment Naver Tvcast](http://tvcast.naver.com/smtown)
 
-  - [SMTOWN 日本官方網站](https://smtown.jp/)
+      -
+      -
+      -
+      - [SMTOWN](https://channels.vlive.tv/FD53B/video)的V LIVE頻道
 
-  - [SM Entertainment 集團官網](http://www.smentertainment.com/)
-
-  - [S.M. Culture& Contents 官網](http://www.smcultureandcontents.com/)
-
-  - [SM Entertainment Naver Tvcast](http://tvcast.naver.com/smtown)
-
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  - [SMTOWN](https://channels.vlive.tv/FD53B/video)的V LIVE頻道
-
-  - [SM CCC LAB](https://channels.vlive.tv/CDF627/video)的V LIVE頻道
-
-  - [SM娛樂演員-BLOG](https://post.naver.com/my.nhn?memberNo=22324545)
-
+      - [SM CCC LAB](https://channels.vlive.tv/CDF627/video)的V LIVE頻道
+  - 官方社交媒体
+      -
+      -
+      -
+      -
+      -
+      -
+      -
+      -
+      -
+      -
+      -
 [Category:1989年成立的公司](https://zh.wikipedia.org/wiki/Category:1989年成立的公司 "wikilink") [Category:韓國證券交易所上市公司](https://zh.wikipedia.org/wiki/Category:韓國證券交易所上市公司 "wikilink") [Category:韓國藝人經紀公司](https://zh.wikipedia.org/wiki/Category:韓國藝人經紀公司 "wikilink")
 
 1.
