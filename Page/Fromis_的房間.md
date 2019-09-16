@@ -98,8 +98,8 @@
 5.
 6.  宿舍有兩層樓，根據事前官方twitter投票，決定成員透過俄羅斯輪盤的方式(捅海盜，把他的頭拔出)來選定房間。
     最終房間分配為：
-    一樓為[宋河英](https://zh.wikipedia.org/wiki/宋河英 "wikilink")（單人床）、[朴池原](https://zh.wikipedia.org/wiki/朴池原 "wikilink")（雙層床下鋪）、[李采映](https://zh.wikipedia.org/wiki/李采映 "wikilink")（雙層床上鋪）同一間大房；
-    一樓另一間雙人房則為[張奎悧](https://zh.wikipedia.org/wiki/張圭悧 "wikilink")（下鋪）、[盧知宣](https://zh.wikipedia.org/wiki/盧知宣 "wikilink")（上鋪）兩人房；
+    一樓為[宋河英](../Page/宋河英.md "wikilink")（單人床）、[朴池原](../Page/朴池原.md "wikilink")（雙層床下鋪）、[李采映](https://zh.wikipedia.org/wiki/李采映 "wikilink")（雙層床上鋪）同一間大房；
+    一樓另一間雙人房則為[張奎悧](../Page/張圭悧.md "wikilink")（下鋪）、[盧知宣](https://zh.wikipedia.org/wiki/盧知宣 "wikilink")（上鋪）兩人房；
     2樓四人房間則為[李賽綸](https://zh.wikipedia.org/wiki/李賽倫 "wikilink")（向窗，上鋪）、白知憲（向門，上鋪）、[李瑞淵](https://zh.wikipedia.org/wiki/李瑞淵 "wikilink")（向窗，下鋪）、[李娜炅](https://zh.wikipedia.org/wiki/李娜炅 "wikilink")（向門，下鋪）四人共用，連衛浴。
 7.  由李賽倫、李瑞淵模仿軍隊號角樂，因為那是在楊平時的鬧鐘音樂。
 8.  在學中學生（李彩煐、白知憲）會如常搭公交上學。

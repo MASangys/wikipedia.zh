@@ -1055,7 +1055,7 @@ No oh oh + Winter Story[11]</p></td>
 <tr class="odd">
 <td><p>限定合作舞台</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MONSTA_X" title="wikilink">MONSTA X</a>（<a href="../Page/孫賢祐.md" title="wikilink">Shownu</a> × <a href="../Page/李虎錫.md" title="wikilink">元虎</a>）× <a href="../Page/Seventeen_(組合).md" title="wikilink">SEVENTEEN</a>（<a href="https://zh.wikipedia.org/wiki/權順榮" title="wikilink">Hoshi</a> × <a href="../Page/金珉奎.md" title="wikilink">珉奎</a>）×<br />
-<a href="https://zh.wikipedia.org/wiki/Wanna_One" title="wikilink">Wanna One</a>（<a href="../Page/朴佑鎮.md" title="wikilink">佑鎮</a> × <a href="https://zh.wikipedia.org/wiki/裴珍映" title="wikilink">珍映</a>）</p></td>
+<a href="https://zh.wikipedia.org/wiki/Wanna_One" title="wikilink">Wanna One</a>（<a href="../Page/朴佑鎮.md" title="wikilink">佑鎮</a> × <a href="../Page/裴珍映.md" title="wikilink">珍映</a>）</p></td>
 <td><p>Again &amp; Again（原唱：<a href="https://zh.wikipedia.org/wiki/2PM" title="wikilink">2PM</a>）</p></td>
 </tr>
 <tr class="even">

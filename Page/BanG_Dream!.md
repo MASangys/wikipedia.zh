@@ -54,7 +54,7 @@
 </tr>
 <tr class="odd">
 <td><p>6月14日</p></td>
-<td><p>舉辦第二場LIVE，揭露<a href="https://zh.wikipedia.org/wiki/大塚紗英" title="wikilink">大塚紗英加入樂團</a>，並宣佈在8月15日舉辦第三場LIVE、9月26日舉辦關西遠征LIVE<ref name="gs0629">{{Cite web|url=<a href="http://gs.dengeki.com/news/30751/%7Ctitle=新メンバー">http://gs.dengeki.com/news/30751/|title=新メンバー</a>！ 新曲</p></td>
+<td><p>舉辦第二場LIVE，揭露<a href="../Page/大塚紗英.md" title="wikilink">大塚紗英</a>加入樂團，並宣佈在8月15日舉辦第三場LIVE、9月26日舉辦關西遠征LIVE<ref name="gs0629">{{Cite web|url=<a href="http://gs.dengeki.com/news/30751/%7Ctitle=新メンバー">http://gs.dengeki.com/news/30751/|title=新メンバー</a>！ 新曲</p></td>
 </tr>
 <tr class="even">
 <td><p>8月15日</p></td>
@@ -477,13 +477,13 @@
 
 #### 成員
 
-|                                                       | 角色       | 聲部                                                     | 樂器                                                                                             | 其他                                                                                                |
-| ----------------------------------------------------- | -------- | ------------------------------------------------------ | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| [愛美](../Page/愛美.md "wikilink")                        | 戶山香澄     | 主唱、[吉他](../Page/吉他.md "wikilink")                      | [Les Paul Special](../Page/Gibson_Les_Paul.md "wikilink")、 RANDOM STAR\[23\]                   | Les Paul為自有。在[偶像大師 百萬人演唱會！的LIVE和單獨LIVE中也會使用](../Page/偶像大師_百萬人演唱會！.md "wikilink")，對粉絲來說是很熟悉的吉他。    |
-| [伊藤彩沙](../Page/伊藤彩沙.md "wikilink")                    | 市谷有咲     | [鍵盤](../Page/電子琴.md "wikilink")                        | [Roland](https://zh.wikipedia.org/wiki/樂蘭公司 "wikilink") JUNO-Di、[鈴鼓](../Page/鈴鼓.md "wikilink") | 從沒有樂器經驗，從頭學起。                                                                                     |
-| [西本梨美](../Page/西本梨美.md "wikilink")                    | 牛込-{里}-美 | [貝斯](../Page/電貝斯.md "wikilink")                        | 紅色貝斯、ESP VP-B\[24\]                                                                            | 紅色貝斯為自有，但並未公佈廠牌。樂器經驗豐富，在[少女福爾摩斯姐妹搜索甄選會的決賽中展示了吉他自彈自唱](../Page/侦探歌剧_少女福尔摩斯.md "wikilink")。當時的吉他是紅色。 |
-| [大塚紗英](https://zh.wikipedia.org/wiki/大塚紗英 "wikilink") | 花園多惠     | [主音吉他](https://zh.wikipedia.org/wiki/主音吉他手 "wikilink") | ESP SNAPPER\[25\]                                                                              | 有演奏[原聲吉他](../Page/原聲吉他.md "wikilink")的經驗。                                                         |
-| [大橋彩香](../Page/大橋彩香.md "wikilink")                    | 山吹沙綾     | [爵士鼓](../Page/爵士鼓.md "wikilink")                       | Pearl                                                                                          | 本人表示打鼓是她的嗜好之一。                                                                                    |
+|                                    | 角色       | 聲部                                                     | 樂器                                                                                             | 其他                                                                                                |
+| ---------------------------------- | -------- | ------------------------------------------------------ | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| [愛美](../Page/愛美.md "wikilink")     | 戶山香澄     | 主唱、[吉他](../Page/吉他.md "wikilink")                      | [Les Paul Special](../Page/Gibson_Les_Paul.md "wikilink")、 RANDOM STAR\[23\]                   | Les Paul為自有。在[偶像大師 百萬人演唱會！的LIVE和單獨LIVE中也會使用](../Page/偶像大師_百萬人演唱會！.md "wikilink")，對粉絲來說是很熟悉的吉他。    |
+| [伊藤彩沙](../Page/伊藤彩沙.md "wikilink") | 市谷有咲     | [鍵盤](../Page/電子琴.md "wikilink")                        | [Roland](https://zh.wikipedia.org/wiki/樂蘭公司 "wikilink") JUNO-Di、[鈴鼓](../Page/鈴鼓.md "wikilink") | 從沒有樂器經驗，從頭學起。                                                                                     |
+| [西本梨美](../Page/西本梨美.md "wikilink") | 牛込-{里}-美 | [貝斯](../Page/電貝斯.md "wikilink")                        | 紅色貝斯、ESP VP-B\[24\]                                                                            | 紅色貝斯為自有，但並未公佈廠牌。樂器經驗豐富，在[少女福爾摩斯姐妹搜索甄選會的決賽中展示了吉他自彈自唱](../Page/侦探歌剧_少女福尔摩斯.md "wikilink")。當時的吉他是紅色。 |
+| [大塚紗英](../Page/大塚紗英.md "wikilink") | 花園多惠     | [主音吉他](https://zh.wikipedia.org/wiki/主音吉他手 "wikilink") | ESP SNAPPER\[25\]                                                                              | 有演奏[原聲吉他](../Page/原聲吉他.md "wikilink")的經驗。                                                         |
+| [大橋彩香](../Page/大橋彩香.md "wikilink") | 山吹沙綾     | [爵士鼓](../Page/爵士鼓.md "wikilink")                       | Pearl                                                                                          | 本人表示打鼓是她的嗜好之一。                                                                                    |
 
 #### 音樂作品
 
@@ -669,7 +669,7 @@
 <td><p>BRMM-10031</p></td>
 </tr>
 <tr class="odd">
-<td><p>花園多惠 (聲.<a href="https://zh.wikipedia.org/wiki/大塚紗英" title="wikilink">大塚紗英</a>)</p></td>
+<td><p>花園多惠 (聲.<a href="../Page/大塚紗英.md" title="wikilink">大塚紗英</a>)</p></td>
 <td><p>2017年6月21日</p></td>
 <td><p><strong></strong></p></td>
 <td><p>BRMM-10080</p></td>
@@ -1377,7 +1377,7 @@
 
 :; 「****」（第7話**、第10話**）
 
-:: 作詞：中村航，作曲・編曲：藤田淳平，主唱：花園多惠（[大塚紗英](https://zh.wikipedia.org/wiki/大塚紗英 "wikilink")）×LAYER（）
+:: 作詞：中村航，作曲・編曲：藤田淳平，主唱：花園多惠（[大塚紗英](../Page/大塚紗英.md "wikilink")）×LAYER（）
 
 :; 「****」（第8話、第9話）
 

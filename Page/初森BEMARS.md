@@ -298,7 +298,7 @@
 
 <!-- end list -->
 
-  - 片桐琴子（）- [佐佐木琴子](https://zh.wikipedia.org/wiki/佐佐木琴子 "wikilink")
+  - 片桐琴子（）- [佐佐木琴子](../Page/佐佐木琴子.md "wikilink")
 
 ##### 特別客串
 

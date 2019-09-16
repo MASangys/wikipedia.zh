@@ -2749,7 +2749,7 @@ The 男子漢</p></td>
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/裴珍映" title="wikilink">裴珍映</a></p></td>
+<td><p><a href="../Page/裴珍映.md" title="wikilink">裴珍映</a></p></td>
 <td><p>배진영</p></td>
 <td><p><a href="../Page/C9娱乐.md" title="wikilink">C9</a></p></td>
 <td></td>

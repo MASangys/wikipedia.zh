@@ -101,7 +101,7 @@ WannaCry被认为利用了[美国国家安全局](../Page/美国国家安全局.
 ## 参见
 
   - [知名病毒及蠕蟲的歷史年表](../Page/知名病毒及蠕蟲的歷史年表.md "wikilink")
-  - [Petya](https://zh.wikipedia.org/wiki/Petya "wikilink")
+  - [Petya](../Page/Petya.md "wikilink")
 
 ## 参考资料
 

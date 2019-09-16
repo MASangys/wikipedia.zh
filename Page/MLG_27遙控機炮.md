@@ -2,7 +2,7 @@
 
 ## 概述
 
-MLG 27搭载一门机构的[BK-27机炮](https://zh.wikipedia.org/wiki/BK-27机炮 "wikilink")，可作為打擊無裝甲或輕裝甲的海上目標、飛機、導彈，以至地面目標的輕型火炮。选择搭载BK-27机炮的原因是，[歐洲戰機公司所生產的](https://zh.wikipedia.org/wiki/歐洲戰機公司 "wikilink")[龍捲風戰鬥轟炸機](../Page/龍捲風戰鬥轟炸機.md "wikilink")和[颱風戰鬥機](../Page/颱風戰鬥機.md "wikilink")（歐洲戰鬥機）都使用該型機炮，證明其設計成功。MLG 27為電動和遙控操作[砲塔](../Page/砲塔.md "wikilink")。該舰载機炮的一個設計優點，就是因為不需要「甲板穿透」（在甲板下方需要適量的安裝空間），所以可以很輕易地整合到現有的[戰艦](../Page/戰艦.md "wikilink")以上（比如直接[焊接](../Page/焊接.md "wikilink")在甲板的任何部位並且像[插件](../Page/插件.md "wikilink")一樣使用）。該武器系統具有全天候的戰鬥能力，其目標跟踪旁邊是白光攝像機和[熱成像儀設備](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")。機炮還內置了整個[火控系統](https://zh.wikipedia.org/wiki/火控系統 "wikilink")。[激光測距儀可作手動和自動的距離測量](https://zh.wikipedia.org/wiki/激光測距儀 "wikilink")。彈藥存儲在機炮右側的以內，藉由[彈鏈](../Page/彈鏈.md "wikilink")經以柔性輸彈槽供彈。
+MLG 27搭载一门机构的[BK-27机炮](https://zh.wikipedia.org/wiki/BK-27机炮 "wikilink")，可作為打擊無裝甲或輕裝甲的海上目標、飛機、導彈，以至地面目標的輕型火炮。选择搭载BK-27机炮的原因是，[歐洲戰機公司](../Page/歐洲戰機公司.md "wikilink")所生產的[龍捲風戰鬥轟炸機](../Page/龍捲風戰鬥轟炸機.md "wikilink")和[颱風戰鬥機](../Page/颱風戰鬥機.md "wikilink")（歐洲戰鬥機）都使用該型機炮，證明其設計成功。MLG 27為電動和遙控操作[砲塔](../Page/砲塔.md "wikilink")。該舰载機炮的一個設計優點，就是因為不需要「甲板穿透」（在甲板下方需要適量的安裝空間），所以可以很輕易地整合到現有的[戰艦](../Page/戰艦.md "wikilink")以上（比如直接[焊接](../Page/焊接.md "wikilink")在甲板的任何部位並且像[插件](../Page/插件.md "wikilink")一樣使用）。該武器系統具有全天候的戰鬥能力，其目標跟踪旁邊是白光攝像機和[熱成像儀設備](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")。機炮還內置了整個[火控系統](https://zh.wikipedia.org/wiki/火控系統 "wikilink")。[激光測距儀可作手動和自動的距離測量](https://zh.wikipedia.org/wiki/激光測距儀 "wikilink")。彈藥存儲在機炮右側的以內，藉由[彈鏈](../Page/彈鏈.md "wikilink")經以柔性輸彈槽供彈。
 
 ## 使用國
 
