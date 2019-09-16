@@ -24,7 +24,7 @@ Lisp语言的主要现代版本包括[Common Lisp](../Page/Common_Lisp.md "wikil
 
 ### 西元2000年迄今
 
-在20世紀90年代衰退之後，Lisp最近十年來因一些關注而逐漸復甦。大多數新活動都集中在Common Lisp，Clojure，Racket，Scheme和Emacs Lisp的實作上，包括開發新的跨平台函式庫和應用。當其他人認為Lisp已經是過時陳舊的，如[保羅·格雷厄姆和](https://zh.wikipedia.org/wiki/保羅·格雷厄姆 "wikilink")[埃里克·雷蒙](../Page/埃里克·雷蒙.md "wikilink")等人繼續出版有關於Lisp編程的著作，一些新的開發人員受到這些作者啟發，經常將Lisp這種語言描述為令人大開眼界的經驗，並聲稱在本質上比較其它編程語言更有生產效率。這種意識的提高可對比於，如同Lisp在90年代中期“[人工智能冬季](https://zh.wikipedia.org/wiki/人工智慧低谷 "wikilink")”的短暫增長。
+在20世紀90年代衰退之後，Lisp最近十年來因一些關注而逐漸復甦。大多數新活動都集中在Common Lisp，Clojure，Racket，Scheme和Emacs Lisp的實作上，包括開發新的跨平台函式庫和應用。當其他人認為Lisp已經是過時陳舊的，如[保羅·格雷厄姆和](https://zh.wikipedia.org/wiki/保羅·格雷厄姆 "wikilink")[埃里克·雷蒙](../Page/埃里克·雷蒙.md "wikilink")等人繼續出版有關於Lisp編程的著作，一些新的開發人員受到這些作者啟發，經常將Lisp這種語言描述為令人大開眼界的經驗，並聲稱在本質上比較其它編程語言更有生產效率。這種意識的提高可對比於，如同Lisp在90年代中期“[人工智能冬季](../Page/人工智慧低谷.md "wikilink")”的短暫增長。
 
 Dan Weinreb在他的調查中，列出了11個積極維護中的Common Lisp實作。Scieneer Common Lisp是一個新的實作商業化產品，由CMUCL於2002年首次發布。
 
