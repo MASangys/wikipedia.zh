@@ -108,7 +108,7 @@ Girl's Day在剛出道時不但沒有受到大眾的關注，甚至還有成員�
 
   - 1月11日，DreamT娛樂宣佈全員與DreamT娛樂的專屬合約結束後都不續約，但不會退出Girl's Day及組合不會解散。
   - 3月19日，素珍與[Noon Company簽約](https://zh.wikipedia.org/wiki/Noon_Company "wikilink")。
-  - 3月20日，Yura與[Awesome娛樂簽約](https://zh.wikipedia.org/wiki/Awesome娛樂 "wikilink")。
+  - 3月20日，Yura與[Awesome娛樂](../Page/Awesome娛樂.md "wikilink")簽約。
   - 3月29日，珉雅與[Yooborn Company簽約](https://zh.wikipedia.org/wiki/Yooborn_Company "wikilink")。
   - 4月24日，惠利與[Creative Group ING簽約](https://zh.wikipedia.org/wiki/Creative_Group_ING "wikilink")。
 

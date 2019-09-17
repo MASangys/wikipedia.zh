@@ -803,7 +803,7 @@ Han Shin Young</p></td>
 
   - [fromis_9](https://zh.wikipedia.org/wiki/fromis_9 "wikilink")
 
-      - [朴池原](https://zh.wikipedia.org/wiki/朴池原 "wikilink")
+      - [朴池原](../Page/朴池原.md "wikilink")
       - [李采映](https://zh.wikipedia.org/wiki/李采映 "wikilink")
 
   - [IZ\*ONE](../Page/IZ*ONE.md "wikilink")

@@ -2,7 +2,7 @@
 
 ## 起源及標準化
 
-LonWorks系統的許多技術都是源自[埃施朗公司](../Page/埃施朗公司.md "wikilink")，包括晶片設計、雙絞線及電力線的通訊、[LonTalk通訊協定](https://zh.wikipedia.org/wiki/LonTalk "wikilink")、[路由器](../Page/路由器.md "wikilink")、網路管理軟體等。在1999年其通訊協定LonTalk提交給[ANSI認可](https://zh.wikipedia.org/wiki/美國國家標準協會 "wikilink")，成為控制網路的標準ANSI/CEA-709.1-B。其雙絞線及電力線的通訊也成為ANSI的標準。
+LonWorks系統的許多技術都是源自[埃施朗公司](../Page/埃施朗公司.md "wikilink")，包括晶片設計、雙絞線及電力線的通訊、[LonTalk通訊協定](https://zh.wikipedia.org/wiki/LonTalk "wikilink")、[路由器](../Page/路由器.md "wikilink")、網路管理軟體等。在1999年其通訊協定LonTalk提交給[ANSI認可](../Page/美國國家標準協會.md "wikilink")，成為控制網路的標準ANSI/CEA-709.1-B。其雙絞線及電力線的通訊也成為ANSI的標準。
 
 此後，ANSI/CEA-709.1成為許多標準的基礎，例如用在火車控制的IEEE 1473-L、[美國鐵路協會](https://zh.wikipedia.org/wiki/美國鐵路協會 "wikilink")（）針對貨運列車的電動氣動剎車系統、歐洲的加油站控制協會[IFSF](https://zh.wikipedia.org/wiki/IFSF "wikilink")（）、[國際半導體和材料](https://zh.wikipedia.org/wiki/國際半導體和材料 "wikilink")（）等。在2005年時LonWorks系統成為歐洲智能建筑標準EN 14908。LonTalk協定也是[美國冷凍空調協會](https://zh.wikipedia.org/wiki/美國冷凍空調協會 "wikilink")（[ASHRAE](https://zh.wikipedia.org/wiki/美国采暖、制冷与空调工程师学会 "wikilink")）定義的智能建築通訊協定[BACnet](../Page/BACnet.md "wikilink")中，六種資料連結層及物理層中的一種。
 

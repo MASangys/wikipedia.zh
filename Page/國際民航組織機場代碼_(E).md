@@ -177,7 +177,7 @@
   - **EECL**：[林納哈爾直升機場](https://zh.wikipedia.org/wiki/林納哈爾直升機場 "wikilink")（[塔林](../Page/塔林.md "wikilink")）
   - **EEEI**：[阿馬里空軍基地](https://zh.wikipedia.org/wiki/阿馬里空軍基地 "wikilink")（[阿馬里](https://zh.wikipedia.org/wiki/阿馬里 "wikilink")）
   - **EEKA**：[凱爾德拉機場](https://zh.wikipedia.org/wiki/凱爾德拉機場 "wikilink")（[希烏馬島](https://zh.wikipedia.org/wiki/希烏馬島 "wikilink")[凱爾德拉](https://zh.wikipedia.org/wiki/凱爾德拉 "wikilink")）
-  - **EEKE**：[庫雷薩雷機場](https://zh.wikipedia.org/wiki/庫雷薩雷機場 "wikilink")（[薩列馬島](https://zh.wikipedia.org/wiki/薩列馬島 "wikilink")[庫雷薩雷](https://zh.wikipedia.org/wiki/庫雷薩雷 "wikilink")）
+  - **EEKE**：[庫雷薩雷機場](../Page/庫雷薩雷機場.md "wikilink")（[薩列馬島](https://zh.wikipedia.org/wiki/薩列馬島 "wikilink")[庫雷薩雷](https://zh.wikipedia.org/wiki/庫雷薩雷 "wikilink")）
   - **EEKU**：[Kihnu機場](https://zh.wikipedia.org/wiki/Kihnu機場 "wikilink")（[Kihnu](https://zh.wikipedia.org/wiki/Kihnu "wikilink")）
   - **EENI**：[Nurmsi機場](https://zh.wikipedia.org/wiki/Nurmsi機場 "wikilink")（[Nurmsi](https://zh.wikipedia.org/wiki/Nurmsi "wikilink")）
   - **EENA**：[納爾瓦機場](https://zh.wikipedia.org/wiki/納爾瓦機場 "wikilink")（[納爾瓦](https://zh.wikipedia.org/wiki/納爾瓦 "wikilink")）
@@ -516,7 +516,7 @@
   - **EHTW**：[恩斯赫德－特文特機場](https://zh.wikipedia.org/wiki/恩斯赫德－特文特機場 "wikilink")（[恩斯赫德](../Page/恩斯赫德.md "wikilink")）
   - **EHTX**：[特塞爾國際機場](https://zh.wikipedia.org/wiki/特塞爾國際機場 "wikilink")（[特塞爾](https://zh.wikipedia.org/wiki/特塞爾 "wikilink")）
   - **EHVB**：[Valkenburg空軍基地](https://zh.wikipedia.org/wiki/Valkenburg空軍基地 "wikilink")（[Valkenburg](https://zh.wikipedia.org/wiki/Valkenburg "wikilink")）
-  - **EHWO**：[翁斯德雷赫特空軍基地](https://zh.wikipedia.org/wiki/翁斯德雷赫特空軍基地 "wikilink")（[翁斯德雷赫特](https://zh.wikipedia.org/wiki/翁斯德雷赫特 "wikilink")）
+  - **EHWO**：[翁斯德雷赫特空軍基地](https://zh.wikipedia.org/wiki/翁斯德雷赫特空軍基地 "wikilink")（[翁斯德雷赫特](../Page/翁斯德雷赫特.md "wikilink")）
   - **EHYP**：[伊彭堡空軍基地](https://zh.wikipedia.org/wiki/伊彭堡空軍基地 "wikilink")（[海牙](../Page/海牙.md "wikilink")）-(已於1991年關閉)
 
 ## EI：[愛爾蘭](https://zh.wikipedia.org/wiki/愛爾蘭 "wikilink")

@@ -1,4 +1,4 @@
-**TEP60型柴油机车**（）是[苏联](../Page/苏联.md "wikilink")的一种干线客运[柴油机车车型](https://zh.wikipedia.org/wiki/柴油机车 "wikilink")，由[科洛姆纳内燃机车制造厂设计制造](https://zh.wikipedia.org/wiki/科洛姆纳内燃机车制造厂 "wikilink")，1960年至1985年间累计生产了超过1200台，曾经是苏联国内运用最广泛的客运用柴油机车，[苏联解体](../Page/苏联解体.md "wikilink")以后TEP60型机车分别被各[前加盟共和国的铁道部门接收](https://zh.wikipedia.org/wiki/苏联加盟共和国 "wikilink")，至今已经基本被全部淘汰，但在[白俄罗斯](../Page/白俄罗斯.md "wikilink")仍然有少量TEP60型机车仍在运用。
+**TEP60型柴油机车**（）是[苏联](../Page/苏联.md "wikilink")的一种干线客运[柴油机车车型](https://zh.wikipedia.org/wiki/柴油机车 "wikilink")，由[科洛姆纳内燃机车制造厂设计制造](https://zh.wikipedia.org/wiki/科洛姆纳内燃机车制造厂 "wikilink")，1960年至1985年间累计生产了超过1200台，曾经是苏联国内运用最广泛的客运用柴油机车，[苏联解体](../Page/苏联解体.md "wikilink")以后TEP60型机车分别被各[前加盟共和国的铁道部门接收](../Page/苏联加盟共和国.md "wikilink")，至今已经基本被全部淘汰，但在[白俄罗斯](../Page/白俄罗斯.md "wikilink")仍然有少量TEP60型机车仍在运用。
 
 TEP60型机车是苏联的第二代柴油机车车型之一，也是苏联第一种准高速柴油机车。机车装用一台3000马力的二冲程柴油机，轴式[Co-Co](https://zh.wikipedia.org/wiki/Co-Co "wikilink")，最高运行速度为160公里/小时。
 

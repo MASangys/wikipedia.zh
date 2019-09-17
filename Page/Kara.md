@@ -306,7 +306,7 @@ PlotData =
 | 2012年5月16-17日    | 東京站  | 東京國立代代木競技場 |
 | 2012年5月26-27日    | 埼玉站  | 埼玉超級競技場    |
 
-  - 日本东京巨蛋演唱會（[KARASIA 2013 HAPPY NEW YEAR in Tokyo Dome](https://zh.wikipedia.org/wiki/KARASIA_2013_HAPPY_NEW_YEAR_in_Tokyo_Dome "wikilink")）
+  - 日本东京巨蛋演唱會（[KARASIA 2013 HAPPY NEW YEAR in Tokyo Dome](../Page/KARASIA_2013_HAPPY_NEW_YEAR_in_Tokyo_Dome.md "wikilink")）
 
 |           |     |      |
 | --------- | --- | ---- |
@@ -339,7 +339,7 @@ PlotData =
 | 2014年11月14-15日 | 大阪站  | 大阪市中央体育館           |
 | 2014年11月18-19日 | 横濱站  | 橫濱體育館              |
 
-  - Kara 4th日本巡迴演唱會（[KARA 4th JAPAN TOUR 2015 KARASIA](https://zh.wikipedia.org/wiki/KARA_4th_JAPAN_TOUR_2015_KARASIA "wikilink")）
+  - Kara 4th日本巡迴演唱會（[KARA 4th JAPAN TOUR 2015 KARASIA](../Page/KARA_4th_JAPAN_TOUR_2015_KARASIA.md "wikilink")）
 
 |                      |     |                  |
 | -------------------- | --- | ---------------- |

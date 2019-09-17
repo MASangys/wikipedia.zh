@@ -3411,7 +3411,7 @@ Fe<sub>2</sub>TiO<sub>4</sub></p></td>
 | WCl<sub>5</sub>              | [五氯化钨](https://zh.wikipedia.org/wiki/五氯化钨 "wikilink")               | 13470-14-9 |
 | WCl<sub>6</sub>              | [六氯化钨](https://zh.wikipedia.org/wiki/六氯化钨 "wikilink")               | 13283-01-7 |
 | WF<sub>4</sub>               | [四氟化钨](https://zh.wikipedia.org/wiki/四氟化钨 "wikilink")               | 13766-47-7 |
-| WF<sub>5</sub>               | [五氟化钨](https://zh.wikipedia.org/wiki/五氟化钨 "wikilink")               | 19357-83-6 |
+| WF<sub>5</sub>               | [五氟化钨](../Page/五氟化钨.md "wikilink")                                  | 19357-83-6 |
 | WF<sub>6</sub>               | [六氟化钨](../Page/六氟化钨.md "wikilink")                                  | 7783-82-6  |
 | WI<sub>2</sub>               | [二碘化钨](https://zh.wikipedia.org/wiki/二碘化钨 "wikilink")               | 13470-17-2 |
 | WI<sub>3</sub>               | [三碘化钨](https://zh.wikipedia.org/wiki/三碘化钨 "wikilink")               | 15513-69-6 |

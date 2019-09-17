@@ -28,7 +28,7 @@ Dance Flow舞蹈作品風格富[創意與](https://zh.wikipedia.org/wiki/創意 
 <td></td>
 <td><p>粉紅色</p></td>
 <td><p>Free Style、New Jazz</p></td>
-<td><p>台灣人，團員Sam的表姊，<a href="../Page/南投縣.md" title="wikilink">南投縣</a><a href="https://zh.wikipedia.org/wiki/仁愛鄉" title="wikilink">仁愛鄉</a><a href="../Page/泰雅族.md" title="wikilink">泰雅族</a><a href="https://zh.wikipedia.org/wiki/馬烈霸部落" title="wikilink">馬烈霸部落</a><a href="../Page/原住民.md" title="wikilink">原住民</a></p></td>
+<td><p>台灣人，團員Sam的表姊，<a href="../Page/南投縣.md" title="wikilink">南投縣</a><a href="https://zh.wikipedia.org/wiki/仁愛鄉" title="wikilink">仁愛鄉</a><a href="../Page/泰雅族.md" title="wikilink">泰雅族</a><a href="../Page/馬烈霸部落.md" title="wikilink">馬烈霸部落</a><a href="../Page/原住民.md" title="wikilink">原住民</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Lin</p></td>

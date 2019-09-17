@@ -127,7 +127,7 @@
 
   - [M1911](../Page/M1911手槍.md "wikilink")
 
-  - [蜜獾冲锋枪](https://zh.wikipedia.org/wiki/蜜獾式突擊步槍 "wikilink")
+  - [蜜獾冲锋枪](../Page/蜜獾式突擊步槍.md "wikilink")
 
   - [AR-15自動步槍](../Page/AR-15自動步槍.md "wikilink")（将民用半自动加装伸缩枪托变成全自动）
 

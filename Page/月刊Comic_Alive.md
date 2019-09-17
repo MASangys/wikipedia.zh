@@ -68,7 +68,7 @@
 
 :\* [我的朋友很少](../Page/我的朋友很少.md "wikilink")日和（原作：[平坂讀](../Page/平坂讀.md "wikilink")・角色原案：ブリキ・作畫：bomi・[木瓜庵](https://zh.wikipedia.org/wiki/木瓜庵 "wikilink")）
 
-  - [機巧少女不會受傷](../Page/機巧少女不會受傷.md "wikilink")（原作：[海冬レイジ](../Page/海冬零兒.md "wikilink")・角色原案：[るろお](https://zh.wikipedia.org/wiki/LLO "wikilink")・作畫：[高城計](https://zh.wikipedia.org/wiki/高城計 "wikilink")）
+  - [機巧少女不會受傷](../Page/機巧少女不會受傷.md "wikilink")（原作：[海冬レイジ](../Page/海冬零兒.md "wikilink")・角色原案：[るろお](../Page/LLO.md "wikilink")・作畫：[高城計](https://zh.wikipedia.org/wiki/高城計 "wikilink")）
   - [Robotics;Notes -Pleiades Ambition-](../Page/ROBOTICS;NOTES.md "wikilink")（原作：[MAGES.](https://zh.wikipedia.org/wiki/MAGES. "wikilink")・作畫：[空十雲](https://zh.wikipedia.org/wiki/空十雲 "wikilink")）
   - [魔技科的劍士與召喚魔王](../Page/魔技科的劍士與召喚魔王.md "wikilink")（原作：三原みつき・角色原案：[CHuN](../Page/CHuN.md "wikilink")・作畫：孟倫）
   - [尋找失去的未來](../Page/尋找失去的未來.md "wikilink")（原作：內濱學園天文學會）
@@ -143,7 +143,7 @@
 
   - [BONE CRUSHER —碎骨俠—](https://zh.wikipedia.org/wiki/BONE_CRUSHER_—碎骨俠— "wikilink")（）2006年8月號 - 2007年6月號、全11話
 
-  - [未來少女 emo-motion](https://zh.wikipedia.org/wiki/未來少女_emo-motion "wikilink")（原作：[海冬レイジ](../Page/海冬零兒.md "wikilink")・服裝設計：[るろお](https://zh.wikipedia.org/wiki/LLO "wikilink")・作畫：[飯田のぎ](https://zh.wikipedia.org/wiki/飯田のぎ "wikilink")）
+  - [未來少女 emo-motion](https://zh.wikipedia.org/wiki/未來少女_emo-motion "wikilink")（原作：[海冬レイジ](../Page/海冬零兒.md "wikilink")・服裝設計：[るろお](../Page/LLO.md "wikilink")・作畫：[飯田のぎ](https://zh.wikipedia.org/wiki/飯田のぎ "wikilink")）
 
   - （）2006年8月號 - 2007年6月號、全10話
 

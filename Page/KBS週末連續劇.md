@@ -1162,7 +1162,7 @@ KBS週末劇時段是該電視台的「王牌時段」，歷年曾播出不少�
 </p></td>
 <td style="text-align: center;"><p>54</p></td>
 <td style="text-align: center;"><p><a href="../Page/安在旭.md" title="wikilink">安在旭</a>、<a href="../Page/蘇有珍.md" title="wikilink">蘇有珍</a>、<a href="../Page/沈宜英.md" title="wikilink">沈宜英</a>、<a href="../Page/沈亨倬.md" title="wikilink">沈亨倬</a>、<a href="../Page/林秀香.md" title="wikilink">林秀香</a>、<a href="https://zh.wikipedia.org/wiki/權五中" title="wikilink">權五中</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金正奎" title="wikilink">金正奎</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/金正奎.md" title="wikilink">金正奎</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/鄭賢貞" title="wikilink">鄭賢貞</a></p></td>
 <td style="text-align: center;"></td>
 </tr>

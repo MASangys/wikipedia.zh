@@ -950,7 +950,7 @@
 </p></td>
 <td style="text-align: center;"><p>48</p></td>
 <td style="text-align: center;"><p><a href="../Page/裴宗玉.md" title="wikilink">裴宗玉</a>、<a href="../Page/鄭糠雲.md" title="wikilink">鄭糠雲</a>、<a href="../Page/鄭柔美.md" title="wikilink">鄭柔美</a>、<a href="../Page/金知碩.md" title="wikilink">金知碩</a>、<a href="../Page/李珉宇.md" title="wikilink">李珉宇</a>、<a href="../Page/李清娥.md" title="wikilink">李清娥</a>、<a href="../Page/柳仁英.md" title="wikilink">柳仁英</a>、<a href="../Page/朴寶劍.md" title="wikilink">朴寶劍</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/尹柳海" title="wikilink">尹柳海</a>、<a href="https://zh.wikipedia.org/wiki/安吉鎬" title="wikilink">安吉鎬</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/尹柳海.md" title="wikilink">尹柳海</a>、<a href="https://zh.wikipedia.org/wiki/安吉鎬" title="wikilink">安吉鎬</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/朴賢珠.md" title="wikilink">朴賢珠</a></p></td>
 <td style="text-align: center;"></td>
 </tr>

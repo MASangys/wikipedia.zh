@@ -1,4 +1,4 @@
-**TEP70型柴油机车**（）是[苏联](../Page/苏联.md "wikilink")铁路的准高速干线客运[柴油机车车型之一](https://zh.wikipedia.org/wiki/柴油机车 "wikilink")，也是苏联第一种单机功率达到4000马力并投入批量生产的柴油机车，由[科洛姆纳内燃机车制造厂设计制造](https://zh.wikipedia.org/wiki/科洛姆纳内燃机车制造厂 "wikilink")，于1973年研制成功，被广泛运用于前苏联各[加盟共和国](https://zh.wikipedia.org/wiki/苏联加盟共和国 "wikilink")。
+**TEP70型柴油机车**（）是[苏联](../Page/苏联.md "wikilink")铁路的准高速干线客运[柴油机车车型之一](https://zh.wikipedia.org/wiki/柴油机车 "wikilink")，也是苏联第一种单机功率达到4000马力并投入批量生产的柴油机车，由[科洛姆纳内燃机车制造厂设计制造](https://zh.wikipedia.org/wiki/科洛姆纳内燃机车制造厂 "wikilink")，于1973年研制成功，被广泛运用于前苏联各[加盟共和国](../Page/苏联加盟共和国.md "wikilink")。
 
 ## 发展历史
 

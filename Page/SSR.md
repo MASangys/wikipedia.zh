@@ -30,7 +30,7 @@
 
   - [斯洛伐克社会主义共和国](../Page/斯洛伐克社会主义共和国.md "wikilink")（1969–1990）（Slovak Socialist Republic）
 
-  - [苏维埃社会主义共和国](https://zh.wikipedia.org/wiki/苏联加盟共和国 "wikilink")（Soviet Socialist Republic）
+  - [苏维埃社会主义共和国](../Page/苏联加盟共和国.md "wikilink")（Soviet Socialist Republic）
 
   - (1919)（Slovak Soviet Republic）\<\!--
 

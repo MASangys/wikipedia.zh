@@ -1067,7 +1067,7 @@
 <td><p>16</p></td>
 <td><p>泥棒とサイマの卵</p></td>
 <td><p>小偷和災魔蛋</p></td>
-<td><p>ご褒美サイマ獣ガラガ（獎賞災魔獸，<a href="https://zh.wikipedia.org/wiki/櫻井敏治" title="wikilink">櫻井敏治</a> 聲）</p>
+<td><p>ご褒美サイマ獣ガラガ（獎賞災魔獸，<a href="../Page/櫻井敏治.md" title="wikilink">櫻井敏治</a> 聲）</p>
 <ul>
 <li>ゴレムガラガ</li>
 </ul></td>

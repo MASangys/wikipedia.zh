@@ -2322,7 +2322,7 @@
 <td><p>トレビアンな夏祭り</p></td>
 <td><p>美好的夏之祭会</p></td>
 <td><ul>
-<li>【米達棉花糖】（<a href="https://zh.wikipedia.org/wiki/櫻井敏治" title="wikilink">櫻井敏治</a>／）
+<li>【米達棉花糖】（<a href="../Page/櫻井敏治.md" title="wikilink">櫻井敏治</a>／）
 <ul>
 <li>ワタアメゾード</li>
 </ul></li>

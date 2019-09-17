@@ -784,7 +784,7 @@
 <td style="text-align: center;"><p><a href="../Page/說出你的願望.md" title="wikilink">說出你的願望</a><br />
 </p></td>
 <td style="text-align: center;"><p>122</p></td>
-<td style="text-align: center;"><p><a href="../Page/吳知恩.md" title="wikilink">吳知恩</a>、<a href="../Page/奇太映.md" title="wikilink">奇太映</a>、<a href="../Page/劉浩琳.md" title="wikilink">劉浩琳</a>、<a href="../Page/金美京.md" title="wikilink">金美京</a>、<a href="../Page/朴載正.md" title="wikilink">朴載正</a>、<a href="../Page/車和娟.md" title="wikilink">車和娟</a>、<a href="https://zh.wikipedia.org/wiki/李德姬" title="wikilink">李德姬</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/吳知恩.md" title="wikilink">吳知恩</a>、<a href="../Page/奇太映.md" title="wikilink">奇太映</a>、<a href="../Page/劉浩琳.md" title="wikilink">劉浩琳</a>、<a href="../Page/金美京.md" title="wikilink">金美京</a>、<a href="../Page/朴載正.md" title="wikilink">朴載正</a>、<a href="../Page/車和娟.md" title="wikilink">車和娟</a>、<a href="../Page/李德姬.md" title="wikilink">李德姬</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/崔元錫" title="wikilink">崔元錫</a>、<a href="../Page/李在珍_(導演).md" title="wikilink">李在珍</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/朴言熙" title="wikilink">朴言熙</a></p></td>
 <td style="text-align: center;"></td>
