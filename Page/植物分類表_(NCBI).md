@@ -896,7 +896,7 @@ NCBI是[美国国家生物技术信息中心](../Page/美国国家生物技术�
   - [千屈菜科](../Page/千屈菜科.md "wikilink")（Lythraceae）
   - [野牡丹科](../Page/野牡丹科.md "wikilink")（Melastomataceae）
   - [穀木科](https://zh.wikipedia.org/wiki/穀木科 "wikilink")（Memecylaceae）
-  - [桃金孃科](https://zh.wikipedia.org/wiki/桃金孃科 "wikilink")（Myrtaceae）
+  - [桃金孃科](../Page/桃金孃科.md "wikilink")（Myrtaceae）
   - [方枝樹科](https://zh.wikipedia.org/wiki/方枝樹科 "wikilink")（Oliniaceae）
   - [柳葉菜科](../Page/柳葉菜科.md "wikilink")（Onagraceae）
   - [管萼木科](https://zh.wikipedia.org/wiki/管萼木科 "wikilink")（Penaeaceae）
