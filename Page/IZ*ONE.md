@@ -42,9 +42,9 @@ IZ\*ONE是通過2018年6月15日至8月31日在Mnet播出的生存[實境節目]
 
 7月31日 , 出道歌曲MV《La Vie en Rose》於官方[Youtube帳號公開後](https://zh.wikipedia.org/wiki/Youtube "wikilink")9個月突破了1億點擊量 , 此為组合第一支破億MV。
 
-  - 日本巡回演唱会及第三张单曲《[Vampire](https://zh.wikipedia.org/wiki/Vampire_\(單曲\) "wikilink")》
+  - 日本巡回演唱会及第三张单曲《[Vampire](../Page/Vampire_\(單曲\).md "wikilink")》
 
-​​​​在完成了香港的演唱会之后，组合于8月25日开始在日本举行巡回演唱会\[36\]。8月10日，在《布宜諾斯艾利斯》的发行纪念活动中，公布了组合将于9月25日（日巡最终场举行日）发行第三张单曲《[Vampire](https://zh.wikipedia.org/wiki/Vampire_\(單曲\) "wikilink")》的消息\[37\]\[38\]。
+​​​​在完成了香港的演唱会之后，组合于8月25日开始在日本举行巡回演唱会\[36\]。8月10日，在《布宜諾斯艾利斯》的发行纪念活动中，公布了组合将于9月25日（日巡最终场举行日）发行第三张单曲《[Vampire](../Page/Vampire_\(單曲\).md "wikilink")》的消息\[37\]\[38\]。
 
 ## 成員列表
 
@@ -83,7 +83,7 @@ IZ\*ONE是通過2018年6月15日至8月31日在Mnet播出的生存[實境節目]
 
   - 《[想要你說喜歡我](../Page/想要你說喜歡我.md "wikilink")》（）（2019年2月6日）
   - 《[布宜諾斯艾利斯](../Page/布宜諾斯艾利斯_\(單曲\).md "wikilink")》（Buenos Aires）（2019年6月26日）
-  - 《[Vampire](https://zh.wikipedia.org/wiki/Vampire_\(單曲\) "wikilink")》（2019年9月25日）
+  - 《[Vampire](../Page/Vampire_\(單曲\).md "wikilink")》（2019年9月25日）
 
 ### 参加作品
 

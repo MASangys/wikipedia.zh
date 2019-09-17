@@ -39,13 +39,13 @@
 
 ### 特別出演
 
-|                                                                                            |        |
-| ------------------------------------------------------------------------------------------ | ------ |
-| **演員**                                                                                     | **角色** |
-| [鄭乾柱](../Page/鄭乾柱.md "wikilink")                                                           | 體育老師   |
-| Ddotty                                                                                     | 遊戲解說員  |
-| [Jeno](../Page/Jeno.md "wikilink") ([NCT Dream](../Page/NCT.md "wikilink"))                | 學生     |
-| [渽民](https://zh.wikipedia.org/wiki/渽民 "wikilink") ([NCT Dream](../Page/NCT.md "wikilink")) | 學生     |
+|                                                                             |        |
+| --------------------------------------------------------------------------- | ------ |
+| **演員**                                                                      | **角色** |
+| [鄭乾柱](../Page/鄭乾柱.md "wikilink")                                            | 體育老師   |
+| Ddotty                                                                      | 遊戲解說員  |
+| [Jeno](../Page/Jeno.md "wikilink") ([NCT Dream](../Page/NCT.md "wikilink")) | 學生     |
+| [渽民](../Page/渽民.md "wikilink") ([NCT Dream](../Page/NCT.md "wikilink"))     | 學生     |
 
 ## 各集標題
 

@@ -14,7 +14,7 @@ Under [Linux](../Page/Linux内核.md "wikilink") and other [Unix-like](../Page/�
 
 ## On ANSI-compatible terminals
 
-[American National Standards Institute](https://zh.wikipedia.org/wiki/美國國家標準協會 "wikilink") (ANSI) standard [ANSI X3.64](../Page/ANSI转义序列.md "wikilink") defines a standard set of [escape sequences](https://zh.wikipedia.org/wiki/转义序列 "wikilink") that can be used to drive terminals to create TUIs (see [ANSI escape code](https://zh.wikipedia.org/wiki/ANSI_escape_code "wikilink")). Escape sequences may be supported for all three cases mentioned in the above section, allowing random [cursor](https://zh.wikipedia.org/wiki/游標 "wikilink") movements and color changes. However, not all terminals follow this standard, and many non-compatible but functionally equivalent sequences exist.
+[American National Standards Institute](../Page/美國國家標準協會.md "wikilink") (ANSI) standard [ANSI X3.64](../Page/ANSI转义序列.md "wikilink") defines a standard set of [escape sequences](https://zh.wikipedia.org/wiki/转义序列 "wikilink") that can be used to drive terminals to create TUIs (see [ANSI escape code](https://zh.wikipedia.org/wiki/ANSI_escape_code "wikilink")). Escape sequences may be supported for all three cases mentioned in the above section, allowing random [cursor](https://zh.wikipedia.org/wiki/游標 "wikilink") movements and color changes. However, not all terminals follow this standard, and many non-compatible but functionally equivalent sequences exist.
 
 ## Under DOS and Microsoft Windows
 

@@ -2,7 +2,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Text-x-generic_with_pencil.svg" title="fig:File:Text-x-generic_with_pencil.svg"><a href="File:Text-x-generic_with_pencil.svg">File:Text-x-generic_with_pencil.svg</a></a></p></td>
-<td><p>这个草稿页面是因为<a href="https://zh.wikipedia.org/wiki/瑞岩部落" title="wikilink">瑞岩部落可能</a><a href="https://zh.wikipedia.org/wiki/wikipedia:COPYVIO" title="wikilink">侵犯著作权而临时建立的</a>。可在<a href="https://zh.wikipedia.org/wiki/Draft_talk:瑞岩部落" title="wikilink">討論頁對草稿內容進行討論</a>。<br />
+<td><p>这个草稿页面是因为<a href="../Page/瑞岩部落.md" title="wikilink">瑞岩部落</a>可能<a href="https://zh.wikipedia.org/wiki/wikipedia:COPYVIO" title="wikilink">侵犯著作权而临时建立的</a>。可在<a href="https://zh.wikipedia.org/wiki/Draft_talk:瑞岩部落" title="wikilink">討論頁對草稿內容進行討論</a>。<br />
 当您重写草稿完成后，您可以在<a href="https://zh.wikipedia.org/wiki/wikipedia:CV#瑞岩部落" title="wikilink">此处请求移动到条目-{zh-hans:名字; zh-hant:命名}-空间</a>。</p></td>
 </tr>
 </tbody>

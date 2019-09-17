@@ -15,7 +15,7 @@
 
 ## Poppin' Party
 
-由主唱暨節奏吉他手**戸山香澄**（[聲優](../Page/聲優.md "wikilink")－[愛美](../Page/愛美.md "wikilink")），鍵盤手**市谷有咲**（聲優－[伊藤彩沙](../Page/伊藤彩沙.md "wikilink")）、貝斯手**牛込里美**（聲優－[西本梨美](../Page/西本梨美.md "wikilink")）、主要吉他手**花園多惠**（聲優－[大塚紗英](https://zh.wikipedia.org/wiki/大塚紗英 "wikilink")），鼓手**山吹沙綾**（聲優－[大橋彩香](../Page/大橋彩香.md "wikilink")）組成的高中樂隊，為了創造令人閃耀與心動的音樂而歌唱。
+由主唱暨節奏吉他手**戸山香澄**（[聲優](../Page/聲優.md "wikilink")－[愛美](../Page/愛美.md "wikilink")），鍵盤手**市谷有咲**（聲優－[伊藤彩沙](../Page/伊藤彩沙.md "wikilink")）、貝斯手**牛込里美**（聲優－[西本梨美](../Page/西本梨美.md "wikilink")）、主要吉他手**花園多惠**（聲優－[大塚紗英](../Page/大塚紗英.md "wikilink")），鼓手**山吹沙綾**（聲優－[大橋彩香](../Page/大橋彩香.md "wikilink")）組成的高中樂隊，為了創造令人閃耀與心動的音樂而歌唱。
 
 ### 單曲CD
 
@@ -42,7 +42,7 @@ Poppin' Party的首張單曲。[2015年](../Page/2015年.md "wikilink")[10月11�
     5.  Voice Track〜戸山香澄〜<sup>▲</sup>\[1:14\]
           - 主演：戸山香澄（[愛美](../Page/愛美.md "wikilink")）
     6.  Voice Track〜花園多惠〜<sup>▲</sup>\[1:49\]
-          - 主演：花園多惠（[大塚紗英](https://zh.wikipedia.org/wiki/大塚紗英 "wikilink")）
+          - 主演：花園多惠（[大塚紗英](../Page/大塚紗英.md "wikilink")）
     7.  Voice Track〜牛込里美〜<sup>▲</sup>\[2:20\]
           - 主演：牛込里美（[西本梨美](../Page/西本梨美.md "wikilink")）
     8.  Voice Track〜山吹沙綾〜<sup>▲</sup>\[1:58\]
@@ -1210,7 +1210,7 @@ Afterglow的第五張單曲。預計在2019年10月23日發售。 為動畫「Ba
 
 ## RAISE A SUILEN
 
-最初以「THE THIRD（仮）」為名，作為「BanG Dream！」企劃中的伴奏樂隊活動，初次登場是2018年1月13、14日的Garupa Live上，為佐倉綾音、前島亞美、伊藤美來三位主唱伴奏，Poppin' Party的吉他手[大塚紗英當時作為支援吉他手參與演出](https://zh.wikipedia.org/wiki/大塚紗英 "wikilink")，直到1st Live宣布由[小原莉子](../Page/小原莉子.md "wikilink")擔當正式吉他手；並於2018年7月17日的2nd Live中，正式揭露「RAISE A SUILEN」的樂隊名稱，也公布第五位成員：擔當DJ的[紡木吏佐](../Page/紡木吏佐.md "wikilink")。RAISE A SUILEN的意思是「拉開垂廉（すいれん）」。
+最初以「THE THIRD（仮）」為名，作為「BanG Dream！」企劃中的伴奏樂隊活動，初次登場是2018年1月13、14日的Garupa Live上，為佐倉綾音、前島亞美、伊藤美來三位主唱伴奏，Poppin' Party的吉他手[大塚紗英](../Page/大塚紗英.md "wikilink")當時作為支援吉他手參與演出，直到1st Live宣布由[小原莉子](../Page/小原莉子.md "wikilink")擔當正式吉他手；並於2018年7月17日的2nd Live中，正式揭露「RAISE A SUILEN」的樂隊名稱，也公布第五位成員：擔當DJ的[紡木吏佐](../Page/紡木吏佐.md "wikilink")。RAISE A SUILEN的意思是「拉開垂廉（すいれん）」。
 
 五位成員為主唱暨貝斯手**Layer**（聲優－[Raychell](https://zh.wikipedia.org/wiki/SHAZNA#メンバー "wikilink")），吉他手**Lock**（聲優－[小原莉子](../Page/小原莉子.md "wikilink")），鼓手**Masking**（聲優－[夏芽](https://zh.wikipedia.org/wiki/SHAZNA#メンバー "wikilink")），鍵盤手**Pareo**（聲優－[倉知玲鳳](../Page/倉知玲鳳.md "wikilink")），DJ **CHU<sup>2</sup>**（聲優－[紡木吏佐](../Page/紡木吏佐.md "wikilink")）。
 
@@ -1315,7 +1315,7 @@ RAISE A SUILEN的第三張單曲。2019年6月19日發售。
 
 RAISE A SUILEN以「THE THIRD（仮）」為名義發售的第一張專輯。[2018年](../Page/2018年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")發售。
 
-CD音源收錄了在2018年3月25天於shimokitazawa GARDEN舉行的演唱會樂曲，並且是現場收音的版本。當時未加入樂隊的[紡木吏佐](../Page/紡木吏佐.md "wikilink")並未參與，且[大塚紗英以嘉賓吉他手身分參與演出](https://zh.wikipedia.org/wiki/大塚紗英 "wikilink")。除了原創樂曲〈R‧I‧O‧T〉以外，其餘收錄曲皆為Afterglow、Pastel\*Palettes、Hello Happy World！、Glitter\*Green的歌曲。
+CD音源收錄了在2018年3月25天於shimokitazawa GARDEN舉行的演唱會樂曲，並且是現場收音的版本。當時未加入樂隊的[紡木吏佐](../Page/紡木吏佐.md "wikilink")並未參與，且[大塚紗英](../Page/大塚紗英.md "wikilink")以嘉賓吉他手身分參與演出。除了原創樂曲〈R‧I‧O‧T〉以外，其餘收錄曲皆為Afterglow、Pastel\*Palettes、Hello Happy World！、Glitter\*Green的歌曲。
 
   - 收錄內容
 
@@ -1399,7 +1399,7 @@ Glitter\*Green的歌曲，在[BanG Dream\!動畫第一季的原聲帶中](../Pag
 
 #### Vol.2 花園電気ギター\!\!\!
 
-第二張單曲。[2017年](../Page/2017年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink")發售\[91\]。演唱者與Drama CD出演角色為花園多惠（[大塚紗英](https://zh.wikipedia.org/wiki/大塚紗英 "wikilink")）。
+第二張單曲。[2017年](../Page/2017年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink")發售\[91\]。演唱者與Drama CD出演角色為花園多惠（[大塚紗英](../Page/大塚紗英.md "wikilink")）。
 
   - 收錄取
     全作詞：[中村航](https://zh.wikipedia.org/wiki/中村航 "wikilink")

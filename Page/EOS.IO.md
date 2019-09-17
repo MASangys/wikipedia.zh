@@ -27,7 +27,7 @@ EOS.IO以[分散式操作系統與](../Page/分布式操作系统.md "wikilink")
 
 ## 技術說明
 
-EOS.IO平台的目標是提供分散式應用程序托管﹑智能合約功能與分散式儲存的企業方案，解決[比特幣和](https://zh.wikipedia.org/wiki/比特幣 "wikilink")[以太坊](../Page/以太坊.md "wikilink")等[區塊鏈的可擴展性問題](../Page/区块链.md "wikilink")，並消除用戶的交易費用。EOS.IO通過[多線程](../Page/多线程.md "wikilink")（可以在多個[計算機核上運行](../Page/計算機硬體歷史.md "wikilink")）及使用[代理持有量証明作為](../Page/持有量證明.md "wikilink")[共識算法以達成以上目標](https://zh.wikipedia.org/wiki/共識機制 "wikilink")。EOS.IO為[分散式應用程序提供了開發環境](../Page/分散式應用程式.md "wikilink")，可以開發如Steemit的對用戶提供獎勵的社交平台，或者如[比特股等的分散式加密貨幣交易所](https://zh.wikipedia.org/wiki/比特股 "wikilink")。
+EOS.IO平台的目標是提供分散式應用程序托管﹑智能合約功能與分散式儲存的企業方案，解決[比特幣和](https://zh.wikipedia.org/wiki/比特幣 "wikilink")[以太坊](../Page/以太坊.md "wikilink")等[區塊鏈的可擴展性問題](../Page/区块链.md "wikilink")，並消除用戶的交易費用。EOS.IO通過[多線程](../Page/多线程.md "wikilink")（可以在多個[計算機核上運行](../Page/計算機硬體歷史.md "wikilink")）及使用[代理持有量証明作為](../Page/持有量證明.md "wikilink")[共識算法以達成以上目標](../Page/共識機制.md "wikilink")。EOS.IO為[分散式應用程序提供了開發環境](../Page/分散式應用程式.md "wikilink")，可以開發如Steemit的對用戶提供獎勵的社交平台，或者如[比特股等的分散式加密貨幣交易所](https://zh.wikipedia.org/wiki/比特股 "wikilink")。
 
 基於EOS.IO軟件上發行的主要代幣EOS提供了[區塊鏈上的](../Page/区块链.md "wikilink")[頻寬和內存](https://zh.wikipedia.org/wiki/頻寬 "wikilink")，用戶將按其抵押的EOS代幣數量獲資源分發（持有並抵押1%的EOS將獲分發總[頻寬](https://zh.wikipedia.org/wiki/頻寬 "wikilink")1%的使用權）。按照用戶抵押的EOS代幣數量，用戶可以獲得投票權及參與對[區塊鏈管治](../Page/区块链.md "wikilink")。EOS.IO平台啟用時，將會投票選出21名區塊產生者（節點），負責於每500[毫秒區塊時間產生及驗證區塊](https://zh.wikipedia.org/wiki/毫秒 "wikilink")。EOS.IO軟件及其智能合約所用的[編程語言為](https://zh.wikipedia.org/wiki/編程語言 "wikilink")[WebAssembly](../Page/WebAssembly.md "wikilink") ([RUST](../Page/Rust.md "wikilink")， [C](https://zh.wikipedia.org/wiki/C语言 "wikilink"), [C++](../Page/C++.md "wikilink"))。\[12\]
 

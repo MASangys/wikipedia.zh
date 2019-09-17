@@ -2,7 +2,7 @@
 
 ## 假面騎士
 
-****（[高橋文哉](https://zh.wikipedia.org/wiki/高橋文哉 "wikilink")（飾）、[中野遙斗](https://zh.wikipedia.org/wiki/中野遙斗 "wikilink")（幼年期）飾）
+****（[高橋文哉](../Page/高橋文哉.md "wikilink")（飾）、[中野遙斗](https://zh.wikipedia.org/wiki/中野遙斗 "wikilink")（幼年期）飾）
 
   -
     **假面騎士ZERO-ONE**的變身者，22歲，飛電Intelligence的現任社長。
@@ -35,7 +35,7 @@
 
 ## 飛電Intelligence
 
-****（[高橋文哉飾](https://zh.wikipedia.org/wiki/高橋文哉 "wikilink")）  ****（兒嶋一哉飾）
+****（[高橋文哉](../Page/高橋文哉.md "wikilink")飾）  ****（兒嶋一哉飾）
 
   -
     飛電Intelligence的副社長，本身是個野心家。

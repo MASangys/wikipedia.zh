@@ -23,7 +23,7 @@ SCAMP的彈藥後來被追加凸緣，讓該彈藥可用於[左輪手槍以上](
   - [AR-57 PDW型](../Page/AR-57卡賓槍.md "wikilink")
 
   -
-  - [蜜獾式突擊步槍](https://zh.wikipedia.org/wiki/蜜獾式突擊步槍 "wikilink")
+  - [蜜獾式突擊步槍](../Page/蜜獾式突擊步槍.md "wikilink")
 
   - [KAC PDW突击步枪](../Page/KAC_PDW突击步枪.md "wikilink")
 

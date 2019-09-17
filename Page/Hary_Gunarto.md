@@ -2,7 +2,7 @@
 
 ## 外部連結
 
-  - [[Hary Gunarto](https://zh.wikipedia.org/wiki/Hary_Gunarto "wikilink") & Y. Paul Chiang, An Industrial [彈性製造系統](../Page/彈性製造系統.md "wikilink") (FMS) Communication Protocol, ACM (Association for Computing Machinery) Digital Library & in Google-books. Retrieved on 2019-7-27](https://dl.acm.org/citation.cfm?id=914774)。
+  - [[Hary Gunarto](../Page/Hary_Gunarto.md "wikilink") & Y. Paul Chiang, An Industrial [彈性製造系統](../Page/彈性製造系統.md "wikilink") (FMS) Communication Protocol, ACM (Association for Computing Machinery) Digital Library & in Google-books. Retrieved on 2019-7-27](https://dl.acm.org/citation.cfm?id=914774)。
   - [Hary Gunarto, FMS Abstract, Retrieved on 2019-7-29](http://geogateway.utp.edu.my/find/Record/ids-ugm-repo.51512/Details).
   - [Hary Gunarto, Ethical Issues in Cyberspace and IT Society, Retrieved on 2019-7-30](https://www.apu.ac.jp/~gunarto/it1.pdf).
 

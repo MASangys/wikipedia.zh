@@ -21,7 +21,7 @@
   - 1985年5月22日，PSY·S與音樂製作人一起共同企劃製作，推出專輯《Different View》單曲「Teenage」，兩者都選在同一天發行（現[Sony Music Entertainment](../Page/日本索尼音樂娛樂.md "wikilink")），從此以CBS Sony旗下藝人正式步入樂壇而出道。此外，「Teenage」的[Music Video導演由](../Page/音樂錄影帶.md "wikilink")擔任。出道當時，PSY·S音樂經紀公司設在「SD關西」（後來的CS Artists、Sony Music Artists）。這一年之間，PSY·S活動的方式並非一開始舉辦LIVE演唱會，而是直接前往錄音室進行音樂的錄製。
   - 出道以來，PSY·S的音樂風格當初並不是在LIVE活動中使用合成器同步演奏的風格，而是以幕後樂隊「Live PSY·S」幫（<small>日文：／英文：Band Sound</small>）合音。而參加LIVE演出的人有、、、、[新居昭乃](../Page/新居昭乃.md "wikilink")、、等人。
   - 1987年，PSY·S單曲「Mind Check」獲得同年在[NHK教育頻道](../Page/NHK教育頻道.md "wikilink")開播的《》主題歌曲使用。
-  - 1988年4月21日，PSY·S單曲「[Angel Night ～天使所在之處～](https://zh.wikipedia.org/wiki/Angel_Night_～天使所在之處～ "wikilink")」獲選為讀賣電視台電視動畫《[城市獵人2](https://zh.wikipedia.org/wiki/城市獵人 "wikilink")》（第1話～第26話）片頭主題曲使用而一躍成名，讓該樂團的名氣就此盛傳開來。
+  - 1988年4月21日，PSY·S單曲「[Angel Night ～天使所在之處～](../Page/Angel_Night_～天使所在之處～.md "wikilink")」獲選為讀賣電視台電視動畫《[城市獵人2](https://zh.wikipedia.org/wiki/城市獵人 "wikilink")》（第1話～第26話）片頭主題曲使用而一躍成名，讓該樂團的名氣就此盛傳開來。
   - 進入1990年之後，PSY·S開始改變不一樣的音樂錄製方式，不再使用。像1991年專輯《SIGNAL》收錄的同名歌曲則是完全專注於現場表演模擬錄製的方式完成；次年1991年專輯《HOLIDAY》收錄的同名歌曲則是使用家中每位音樂家錄製的聲音材料，沒有前往錄音室進行錄音所完成；1993年專輯《WINDOW》收錄的歌曲「The Seven Colors」則是使用[麥金塔](../Page/麥金塔.md "wikilink")的多媒體CD-ROM完成；PSY·S自身翻唱歌曲「HOME MADE」使用原聲吉他楽器。每一次不斷改變錄製的方式般大幅變化是PSY･S的風格和特色。
   - 1996年，松浦於雜誌專訪中發佈PSY·S解散的消息\[1\]。同年8月1日於發行該樂團的精選專輯《》之後的當天正式解散。
 
@@ -90,7 +90,7 @@
 <tr class="odd">
 <td><p>7th</p></td>
 <td><p>1988年4月21日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Angel_Night_～天使所在之處～" title="wikilink">Angel Night ～天使所在之處～</a></strong>（Angel Night ～～）</p></td>
+<td><p><strong><a href="../Page/Angel_Night_～天使所在之處～.md" title="wikilink">Angel Night ～天使所在之處～</a></strong>（Angel Night ～～）</p></td>
 <td><p><a href="../Page/讀賣電視台.md" title="wikilink">讀賣電視台</a>、<a href="../Page/日本電視網協議會.md" title="wikilink">日本電視網電視動畫</a>《<a href="https://zh.wikipedia.org/wiki/城市獵人" title="wikilink">城市獵人2</a>》片頭主題曲</p></td>
 <td><p>PSY·S的代表歌曲。</p></td>
 </tr>

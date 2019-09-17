@@ -53,7 +53,7 @@ X1是通過2019年5月3日至7月19日，[Mnet](../Page/Mnet.md "wikilink")選�
 <td><p>2019年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/飛翔：QUANTUM_LEAP" title="wikilink">飛翔：QUANTUM LEAP</a></p></td>
+<td><p><a href="../Page/飛翔：QUANTUM_LEAP.md" title="wikilink">飛翔：QUANTUM LEAP</a></p></td>
 </tr>
 <tr class="even">
 <td><ul>

@@ -37,7 +37,7 @@ Nebula Graph 包括四个主要的功能模块，分别是**存储层**、**[元
 
 #### 存储层 Storage
 
-在 [Nebula Graph](https://zh.wikipedia.org/wiki/Nebula_Graph "wikilink") 中存储层对应进程是 `nebula-storaged` ，其核心为基于 [Raft](../Page/Raft.md "wikilink")（用来管理日志复制的一致性算法） 协议的分布式 `Key-valueStorage` 。
+在 [Nebula Graph](../Page/Nebula_Graph.md "wikilink") 中存储层对应进程是 `nebula-storaged` ，其核心为基于 [Raft](../Page/Raft.md "wikilink")（用来管理日志复制的一致性算法） 协议的分布式 `Key-valueStorage` 。
 
 目前支持的主要存储引擎为「[Rocksdb](https://zh.wikipedia.org/wiki/Rocksdb "wikilink")」和「[HBase](https://zh.wikipedia.org/wiki/HBase "wikilink")」。
 

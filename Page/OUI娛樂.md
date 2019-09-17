@@ -1,4 +1,4 @@
-**OUI娛樂**（韓語：**위 엔터테인먼트**；英語：'''OUI Entertainment '''），是一間韓國娛樂經紀公司。創立於2014年，旗下藝人包含[金東漢](https://zh.wikipedia.org/wiki/金東漢 "wikilink")、[張大賢](https://zh.wikipedia.org/wiki/張大賢 "wikilink")、[劉勇河](https://zh.wikipedia.org/wiki/劉勇河 "wikilink")、[金俊抒](https://zh.wikipedia.org/wiki/金俊抒 "wikilink")、[金曜漢](../Page/金曜漢.md "wikilink")、[趙晟旭](https://zh.wikipedia.org/wiki/趙晟旭 "wikilink")、[薛仁雅](../Page/薛仁雅.md "wikilink")。
+**OUI娛樂**（韓語：**위 엔터테인먼트**；英語：'''OUI Entertainment '''），是一間韓國娛樂經紀公司。創立於2014年，旗下藝人包含[金東漢](https://zh.wikipedia.org/wiki/金東漢 "wikilink")、[張大賢](../Page/張大賢.md "wikilink")、[劉勇河](https://zh.wikipedia.org/wiki/劉勇河 "wikilink")、[金俊抒](https://zh.wikipedia.org/wiki/金俊抒 "wikilink")、[金曜漢](../Page/金曜漢.md "wikilink")、[趙晟旭](https://zh.wikipedia.org/wiki/趙晟旭 "wikilink")、[薛仁雅](../Page/薛仁雅.md "wikilink")。
 
 ## OUI娛樂
 
@@ -18,7 +18,7 @@
 ### 個人歌手
 
   - [金東漢](https://zh.wikipedia.org/wiki/金東漢 "wikilink")
-  - [張大賢](https://zh.wikipedia.org/wiki/張大賢 "wikilink")
+  - [張大賢](../Page/張大賢.md "wikilink")
 
 ### 簽約藝人
 
@@ -28,7 +28,7 @@
 
 ### 練習生
 
-  - [姜錫華](https://zh.wikipedia.org/wiki/姜錫華 "wikilink")（[YG宝石盒](https://zh.wikipedia.org/wiki/YG宝石盒 "wikilink")、[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）\[1\]
+  - [姜錫華](../Page/姜錫華.md "wikilink")（[YG宝石盒](https://zh.wikipedia.org/wiki/YG宝石盒 "wikilink")、[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）\[1\]
   - [日高真寻](https://zh.wikipedia.org/wiki/日高真寻 "wikilink")（[YG宝石盒](https://zh.wikipedia.org/wiki/YG宝石盒 "wikilink")、[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）\[2\]
 
 ## 參考資料

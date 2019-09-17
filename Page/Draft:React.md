@@ -124,7 +124,7 @@ The example above will render
 
   - Conditional statements
 
-[If–else statements](https://zh.wikipedia.org/wiki/條件運算式 "wikilink") cannot be used inside JSX but conditional expressions can be used instead. The example below will render `{ i === 1 ? 'true' : 'false' }` as the string `'true'` because `i` is equal to 1.
+[If–else statements](../Page/條件運算式.md "wikilink") cannot be used inside JSX but conditional expressions can be used instead. The example below will render `{ i === 1 ? 'true' : 'false' }` as the string `'true'` because `i` is equal to 1.
 
 ``` js numberLines
 class App extends React.Component {

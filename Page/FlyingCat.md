@@ -27,7 +27,7 @@
   - 跨境/跨國：
       - 港澳[珠江口航線](https://zh.wikipedia.org/wiki/珠江口 "wikilink")（主要為香港[海天客運碼頭](../Page/海天客運碼頭.md "wikilink")至澳門[外港客運碼頭](https://zh.wikipedia.org/wiki/外港客運碼頭 "wikilink")）
       - 穗港珠江口航線（香港[中港碼頭至廣州](https://zh.wikipedia.org/wiki/中港碼頭 "wikilink")[南沙客運港](https://zh.wikipedia.org/wiki/南沙客運港 "wikilink")，由[珠江客運](../Page/珠江客運.md "wikilink")經營，並由噴射飛航的「宇航五號」承運）
-      - [小三通](../Page/小三通.md "wikilink")航線（[廈門市至](https://zh.wikipedia.org/wiki/廈門市 "wikilink")[金門縣](../Page/金門縣.md "wikilink")[水頭碼頭](https://zh.wikipedia.org/wiki/水頭碼頭 "wikilink")）
+      - [小三通](../Page/小三通.md "wikilink")航線（[廈門市至](https://zh.wikipedia.org/wiki/廈門市 "wikilink")[金門縣](../Page/金門縣.md "wikilink")[水頭碼頭](../Page/水頭碼頭.md "wikilink")）
       - [新加坡海峽航線](https://zh.wikipedia.org/wiki/新加坡海峽 "wikilink")（[新加坡樟宜機場至印尼](https://zh.wikipedia.org/wiki/新加坡樟宜機場 "wikilink")[民丹島](../Page/民丹島.md "wikilink")）
   - 境內：
       - 香港[中環碼頭](../Page/中環碼頭.md "wikilink")至[長洲](https://zh.wikipedia.org/wiki/長洲 "wikilink")

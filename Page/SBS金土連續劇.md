@@ -78,7 +78,7 @@
 <tr class="odd">
 <td style="text-align: center;"><p>2019年月日－<br />
 2020年月日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Stove_League" title="wikilink">Stove League</a><br />
+<td style="text-align: center;"><p><a href="../Page/Stove_League.md" title="wikilink">Stove League</a><br />
 </p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><a href="../Page/南宮珉.md" title="wikilink">南宮珉</a>、<a href="../Page/朴恩玭.md" title="wikilink">朴恩玭</a></p></td>

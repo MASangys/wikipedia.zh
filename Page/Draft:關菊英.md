@@ -27,7 +27,7 @@
 | **首播**                                                    | **劇名**                                                              | **角色**                 |
 | 1976年                                                     | [狂潮](../Page/狂潮.md "wikilink")                                      | \-                     |
 | 1978年                                                     | [強人](../Page/強人_\(電視劇\).md "wikilink")                              | 香若梅                    |
-| 1979年                                                     | [網中人](https://zh.wikipedia.org/wiki/網中人 "wikilink")                 | 方淑華                    |
+| 1979年                                                     | [網中人](../Page/網中人.md "wikilink")                                    | 方淑華                    |
 | [女人三十](https://zh.wikipedia.org/wiki/女人三十 "wikilink")     | \-                                                                  |                        |
 | 1980年                                                     | [親情](../Page/親情_\(電視劇\).md "wikilink")                              | 馮秋雯                    |
 | 1981年                                                     | [過客](../Page/過客.md "wikilink")                                      | \-                     |

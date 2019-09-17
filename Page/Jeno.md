@@ -4,7 +4,7 @@
 
 2000年4月23日出生於[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[仁川](https://zh.wikipedia.org/wiki/仁川 "wikilink")。四歲以廣告童星出道，拍攝過多支[廣告](https://www.youtube.com/watch?v=y6hkqjPpRIw)，其中最爲人熟知的是首爾牛奶的廣告，也常在節目上重演廣告畫面。本來媽媽想拒絕[SM娛樂](../Page/SM娛樂.md "wikilink")的邀請，後來和Jeno談過後說了想去才去SM面試，通過面試從而成為旗下練習生。
 
-曾就讀於[首爾公演藝術高中](../Page/首尔公演艺术高中.md "wikilink")，與同組合成員[渽民及](https://zh.wikipedia.org/wiki/渽民 "wikilink")[楷燦](../Page/楷燦.md "wikilink")是同學，後因活動忙碌退學。擁有驚人的學習能力，曾只用了三日溫習就取得了97分及全校第十的排名。Jeno並未參加韓國的大學入學考試，但通過了韓國高中學歷檢定考試。
+曾就讀於[首爾公演藝術高中](../Page/首尔公演艺术高中.md "wikilink")，與同組合成員[渽民](../Page/渽民.md "wikilink")及[楷燦](../Page/楷燦.md "wikilink")是同學，後因活動忙碌退學。擁有驚人的學習能力，曾只用了三日溫習就取得了97分及全校第十的排名。Jeno並未參加韓國的大學入學考試，但通過了韓國高中學歷檢定考試。
 
 ### SM ROOKIES時期
 
