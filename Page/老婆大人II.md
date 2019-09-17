@@ -775,7 +775,7 @@ Ling之前男友<br />
 <td><p><strong>全記</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/黃梓瑋" title="wikilink">黃梓瑋</a></p></td>
+<td><p><a href="../Page/黃梓瑋.md" title="wikilink">黃梓瑋</a></p></td>
 <td><p>師　奶</p></td>
 <td><p>劉全<a href="../Page/臭豆腐.md" title="wikilink">臭豆腐</a>攤樓上住戶（第3集）<br />
 對劉全的<a href="../Page/臭豆腐.md" title="wikilink">臭豆腐</a>忍無可忍而告上法庭</p></td>

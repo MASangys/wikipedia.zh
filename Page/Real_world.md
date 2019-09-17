@@ -27,7 +27,7 @@
       - 作詞：Kenn Kato / 作曲：山口寛雄 / 編曲：YUKIYOSHI
     <!-- end list -->
       -
-        纯音樂。加入了日本音樂樂器樂隊[ZAN的演奏](https://zh.wikipedia.org/wiki/ZAN "wikilink")。
+        纯音樂。加入了日本音樂樂器樂隊[ZAN](../Page/ZAN.md "wikilink")的演奏。
 4.  **real world（Instrumental）**
 5.  **ありがとう（伴唱版）**
 

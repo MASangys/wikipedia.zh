@@ -7,7 +7,7 @@ OLE DB用一组抽象概念（包括数据源、会话、命令和行集）将�
 ## 常見的OLE DB Provider
 
   - [SQL Server](https://zh.wikipedia.org/wiki/SQL_Server "wikilink") OLE DB Provider，以SQL Server為主的OLE DB資料提供者。
-  - [Microsoft Jet](https://zh.wikipedia.org/wiki/Microsoft_Jet_Database_Engine "wikilink") OLE DB Provider，以Access, Excel, dBase等檔案型資料庫為主的OLE DB資料提供者。
+  - [Microsoft Jet](../Page/Microsoft_Jet_Database_Engine.md "wikilink") OLE DB Provider，以Access, Excel, dBase等檔案型資料庫為主的OLE DB資料提供者。
   - OLE DB Provider for Internet Publishing，支援WebDAV（Web Distributed Authoring and Versioning）發布的OLE DB資料提供者。
   - OLE DB Provider for ODBC，呼叫ODBC的OLE DB資料提供者。
   - OLE DB Provider for Oracle Client，呼叫Oracle資料庫的OLE DB資料提供者，通常由Oracle原廠提供。

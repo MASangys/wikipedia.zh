@@ -19,7 +19,7 @@
 | [哆啦小子](https://zh.wikipedia.org/wiki/哆啦A梦七小子#哆啦小子（ドラ・ザ・キッド，美國） "wikilink")       | [難波圭一](../Page/難波圭一.md "wikilink")                    |
 | [哆啦王](https://zh.wikipedia.org/wiki/哆啦A梦七小子#哆啦王（王ドラ，中国） "wikilink")              | [林原惠](../Page/林原惠.md "wikilink")                      |
 | [耶鲁马他多啦](https://zh.wikipedia.org/wiki/哆啦A梦七小子#耶鲁马他哆啦（エル・マタドーラ，西班牙） "wikilink")  | [中尾隆聖](../Page/中尾隆聖.md "wikilink")                    |
-| [哆啦尼可夫](https://zh.wikipedia.org/wiki/哆啦A梦七小子#哆啦尼可夫（ドラニコフ，俄罗斯） "wikilink")       | [櫻井敏治](https://zh.wikipedia.org/wiki/櫻井敏治 "wikilink") |
+| [哆啦尼可夫](https://zh.wikipedia.org/wiki/哆啦A梦七小子#哆啦尼可夫（ドラニコフ，俄罗斯） "wikilink")       | [櫻井敏治](../Page/櫻井敏治.md "wikilink")                    |
 | [哆啦A梦](https://zh.wikipedia.org/wiki/哆啦A梦 "wikilink")                            | [大山羡代](https://zh.wikipedia.org/wiki/大山羡代 "wikilink") |
 | [怪盗哆啦邦](https://zh.wikipedia.org/wiki/哆啦A梦七小子#相關角色 "wikilink")                   | [神谷明](../Page/神谷明.md "wikilink")                      |
 | [寺尾台校長](https://zh.wikipedia.org/wiki/哆啦A梦七小子#相關角色 "wikilink")                   | [永井一郎](../Page/永井一郎.md "wikilink")                    |

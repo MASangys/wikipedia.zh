@@ -369,7 +369,7 @@ Norman之前女友</p></td>
 <td><p>「萬華書店」職員</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/黃梓瑋" title="wikilink">黃梓瑋</a></p></td>
+<td><p><a href="../Page/黃梓瑋.md" title="wikilink">黃梓瑋</a></p></td>
 <td><p>阿　娥</p></td>
 <td></td>
 </tr>

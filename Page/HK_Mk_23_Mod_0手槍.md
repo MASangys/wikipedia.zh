@@ -162,7 +162,7 @@ HK Mk 23 Mod 0和Mark 23亦登場於多部[电影](../Page/电影.md "wikilink")
   - [SIG M11](../Page/SIG_P228手槍.md "wikilink")，SIG P228的美軍型號
   - [Mk 25 Mod 0](../Page/SIG_P226手槍.md "wikilink")，SIG P226的[美國海軍](../Page/美國海軍.md "wikilink")[海豹部隊](../Page/海豹部隊.md "wikilink")型號
   - [HK45](../Page/HK45手槍.md "wikilink")，衍生型HK45C裝上的[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")，裝備在[美國海軍特種作戰司令部並且命名為Mk](https://zh.wikipedia.org/wiki/美國海軍特種作戰司令部 "wikilink") 24 Mod 0
-  - [柯爾特滑軌半自動手槍](https://zh.wikipedia.org/wiki/柯爾特滑軌半自動手槍 "wikilink")，被[美國海軍陸戰隊武裝偵察部隊](../Page/美國海軍陸戰隊武裝偵察部隊.md "wikilink")和美國海軍陸戰隊特種作戰部隊司令部所使用並命名為M45A1近身距離作戰手槍
+  - [柯爾特滑軌半自動手槍](../Page/柯爾特滑軌半自動手槍.md "wikilink")，被[美國海軍陸戰隊武裝偵察部隊](../Page/美國海軍陸戰隊武裝偵察部隊.md "wikilink")和美國海軍陸戰隊特種作戰部隊司令部所使用並命名為M45A1近身距離作戰手槍
 
 ## 資料來源
 

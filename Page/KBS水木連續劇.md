@@ -2404,7 +2404,7 @@
 </p></td>
 <td style="text-align: center;"><p>24</p></td>
 <td style="text-align: center;"><p><a href="../Page/金賢重.md" title="wikilink">金賢重</a>、<a href="../Page/林秀香.md" title="wikilink">林秀香</a>、<a href="../Page/陳世娫.md" title="wikilink">陳世娫</a>、<a href="../Page/宋再臨.md" title="wikilink">宋再臨</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金正奎" title="wikilink">金正奎</a>、安俊勇</p></td>
+<td style="text-align: center;"><p><a href="../Page/金正奎.md" title="wikilink">金正奎</a>、安俊勇</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/蔡承代" title="wikilink">蔡承代</a>、<a href="https://zh.wikipedia.org/wiki/朴繼玉" title="wikilink">朴繼玉</a>、<br />
 金鎮守、高永吾、<br />
 李潤煥</p></td>
@@ -2908,7 +2908,7 @@
 </p></td>
 <td style="text-align: center;"><p>2</p></td>
 <td style="text-align: center;"><p><a href="../Page/全昭旻.md" title="wikilink">全昭旻</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金正奎" title="wikilink">金正奎</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/金正奎.md" title="wikilink">金正奎</a></p></td>
 <td style="text-align: center;"><p>白素延</p></td>
 <td style="text-align: center;"><p><strong>（獨幕劇）</strong></p></td>
 </tr>

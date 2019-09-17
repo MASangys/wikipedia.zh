@@ -3744,7 +3744,7 @@
 
 :\# [Startear](../Page/Startear.md "wikilink")（電視動畫《[刀劍神域Ⅱ](https://zh.wikipedia.org/wiki/刀劍神域 "wikilink")》片尾曲）／春奈露娜
 
-:\# [多愁善感的瞬間](../Page/多愁善感的瞬間.md "wikilink")（電視動畫《[鋼之鍊金術師FA](https://zh.wikipedia.org/wiki/鋼之鍊金術師FA "wikilink")》片尾曲）／[黑崎真音](../Page/黑崎真音.md "wikilink")×春奈露娜 feat. [大塚紗英](https://zh.wikipedia.org/wiki/大塚紗英 "wikilink")&[西本梨美](../Page/西本梨美.md "wikilink") from Poppin'Party
+:\# [多愁善感的瞬間](../Page/多愁善感的瞬間.md "wikilink")（電視動畫《[鋼之鍊金術師FA](https://zh.wikipedia.org/wiki/鋼之鍊金術師FA "wikilink")》片尾曲）／[黑崎真音](../Page/黑崎真音.md "wikilink")×春奈露娜 feat. [大塚紗英](../Page/大塚紗英.md "wikilink")&[西本梨美](../Page/西本梨美.md "wikilink") from Poppin'Party
 
 :\# décadence --（電視動畫《[罪人與龍共舞](../Page/罪人與龍共舞.md "wikilink")》片尾曲）／黑崎真音
 
@@ -4161,7 +4161,7 @@
 
 :\# Bitter Sweet Harmony（電視動畫《[春原莊的管理員小姐](../Page/春原莊的管理員小姐.md "wikilink")》片頭曲）／中島愛
 
-:\# [Love Dramatic](https://zh.wikipedia.org/wiki/Love_Dramatic_feat._伊原六花 "wikilink")（電視動畫《[輝夜姬想讓人告白\~天才們的戀愛頭腦戰\~](../Page/輝夜姬想讓人告白~天才們的戀愛頭腦戰~.md "wikilink")》片頭曲）／ feat. sphere
+:\# [Love Dramatic](../Page/Love_Dramatic_feat._伊原六花.md "wikilink")（電視動畫《[輝夜姬想讓人告白\~天才們的戀愛頭腦戰\~](../Page/輝夜姬想讓人告白~天才們的戀愛頭腦戰~.md "wikilink")》片頭曲）／ feat. sphere
 
 :\# 混合曲：／鈴木雅之 feat. sphere
 

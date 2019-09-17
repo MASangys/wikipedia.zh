@@ -2,7 +2,7 @@
 
 ## 生平
 
-安芬森出生於[賓夕法尼亞州的莫內森](https://zh.wikipedia.org/wiki/賓夕法尼亞州 "wikilink")，美國籍挪威移民家庭，父親是一名[機械工程師](https://zh.wikipedia.org/wiki/機械工程師 "wikilink")\[3\] ，他們全家在1920年代時搬到[費城](../Page/費城.md "wikilink")。他在1937年於[斯沃斯莫爾學院獲得了學士學位](https://zh.wikipedia.org/wiki/斯沃斯莫爾學院 "wikilink")，在他就讀斯沃斯莫爾學院期間，他加入了[橄欖球](../Page/橄欖球.md "wikilink")校隊。
+安芬森出生於[賓夕法尼亞州的莫內森](https://zh.wikipedia.org/wiki/賓夕法尼亞州 "wikilink")，美國籍挪威移民家庭，父親是一名[機械工程師](https://zh.wikipedia.org/wiki/機械工程師 "wikilink")\[3\] ，他們全家在1920年代時搬到[費城](../Page/費城.md "wikilink")。他在1937年於[斯沃斯莫爾學院](../Page/斯沃斯莫爾學院.md "wikilink")獲得了學士學位，在他就讀斯沃斯莫爾學院期間，他加入了[橄欖球](../Page/橄欖球.md "wikilink")校隊。
 
 1939年，安芬森於[賓州大學獲得了](https://zh.wikipedia.org/wiki/賓州大學 "wikilink")[有機化學專業的碩士學位](https://zh.wikipedia.org/wiki/有機化學 "wikilink")。同年，美國的斯堪地納維亞基金會提供安芬森獎學金，請他在[哥本哈根嘉士伯實驗室分析複雜的](https://zh.wikipedia.org/wiki/哥本哈根 "wikilink")[蛋白質](https://zh.wikipedia.org/wiki/蛋白質 "wikilink")，也就是[酵素的化學結構](https://zh.wikipedia.org/wiki/酵素 "wikilink")。1941年，安芬森在[哈佛醫學院攻讀](https://zh.wikipedia.org/wiki/哈佛醫學院 "wikilink")[生物化學專業的博士學位](https://zh.wikipedia.org/wiki/生物化學 "wikilink")，哈佛醫學院同時提供給他獎學金，並且他在1943年順利獲得博士學位。1979年，他戒菸並皈依[猶太教](https://zh.wikipedia.org/wiki/猶太教 "wikilink")。
 

@@ -128,7 +128,7 @@ A线从[楠泰尔行政区向西的A](https://zh.wikipedia.org/wiki/楠泰尔行
 <td><p><strong><a href="../Page/塞尔吉高地站.md" title="wikilink">塞尔吉高地站</a><br />
 <small>Cergy — Le Haut</small></strong> <a href="https://zh.wikipedia.org/wiki/File:Feature_accessible.svg" title="fig:Feature_accessible.svg">Feature_accessible.svg</a></p></td>
 <td><p>5</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/塞尔吉" title="wikilink">塞尔吉</a><br />
+<td><p><a href="../Page/塞尔吉.md" title="wikilink">塞尔吉</a><br />
 <a href="https://zh.wikipedia.org/wiki/周日庭院" title="wikilink">周日庭院</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Logo_train_transilien.svg" title="fig:Logo_train_transilien.svg">Logo_train_transilien.svg</a><a href="https://zh.wikipedia.org/wiki/File:Logo_Paris_Transilien_ligneL.svg" title="fig:Logo_Paris_Transilien_ligneL.svg">Logo_Paris_Transilien_ligneL.svg</a></p></td>
 <td></td>
@@ -141,7 +141,7 @@ A线从[楠泰尔行政区向西的A](https://zh.wikipedia.org/wiki/楠泰尔行
 <td><p><a href="../Page/塞尔吉圣克里斯多夫站.md" title="wikilink">塞尔吉圣克里斯多夫</a><br />
 <small>Cergy — Saint-Christophe</small> <a href="https://zh.wikipedia.org/wiki/File:Feature_accessible.svg" title="fig:Feature_accessible.svg">Feature_accessible.svg</a></p></td>
 <td><p>5</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/塞尔吉" title="wikilink">塞尔吉</a></p></td>
+<td><p><a href="../Page/塞尔吉.md" title="wikilink">塞尔吉</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Logo_train_transilien.svg" title="fig:Logo_train_transilien.svg">Logo_train_transilien.svg</a><a href="https://zh.wikipedia.org/wiki/File:Logo_Paris_Transilien_ligneL.svg" title="fig:Logo_Paris_Transilien_ligneL.svg">Logo_Paris_Transilien_ligneL.svg</a></p></td>
 <td></td>
 <td></td>
@@ -153,7 +153,7 @@ A线从[楠泰尔行政区向西的A](https://zh.wikipedia.org/wiki/楠泰尔行
 <td><p><a href="https://zh.wikipedia.org/wiki/塞尔吉省府站" title="wikilink">塞尔吉省府站</a><br />
 <small>Cergy — Préfecture</small> <a href="https://zh.wikipedia.org/wiki/File:Feature_accessible.svg" title="fig:Feature_accessible.svg">Feature_accessible.svg</a></p></td>
 <td><p>5</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/塞尔吉" title="wikilink">塞尔吉</a></p></td>
+<td><p><a href="../Page/塞尔吉.md" title="wikilink">塞尔吉</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Logo_train_transilien.svg" title="fig:Logo_train_transilien.svg">Logo_train_transilien.svg</a><a href="https://zh.wikipedia.org/wiki/File:Logo_Paris_Transilien_ligneL.svg" title="fig:Logo_Paris_Transilien_ligneL.svg">Logo_Paris_Transilien_ligneL.svg</a></p></td>
 <td></td>
 <td></td>
@@ -856,7 +856,7 @@ MI 2N最高时速达140公里，MI09可达120公里. 但基于路网的多样性
 
 3\. 从[托尔西站](../Page/托尔西站.md "wikilink")开往[吕埃马勒梅松站](../Page/吕埃马勒梅松站.md "wikilink")的区间车**YCAR**, 除[诺瓦榭勒站](https://zh.wikipedia.org/wiki/诺瓦榭勒站 "wikilink"), [讷伊普莱桑斯站](../Page/讷伊普莱桑斯站.md "wikilink")和[楠泰尔警局站之外每站都停靠](https://zh.wikipedia.org/wiki/楠泰尔警局站 "wikilink"), 10分钟一班, 7时32分发出第一班车, 8时22分发出最后一班车.
 
-4\. 从[马恩拉瓦雷-谢西站开往](https://zh.wikipedia.org/wiki/马恩拉瓦雷-谢西站 "wikilink")[塞尔吉的全程车](https://zh.wikipedia.org/wiki/塞尔吉 "wikilink")**UVAR**, 除[罗涅站](https://zh.wikipedia.org/wiki/罗涅站 "wikilink"), [马恩河畔布里站](../Page/马恩河畔布里站.md "wikilink"), [乌邑－塞纳河石矿站和](https://zh.wikipedia.org/wiki/乌邑－塞纳河石矿站 "wikilink")[拉菲特居站](../Page/拉菲特居站.md "wikilink")之外每站都停靠, 10分钟一班, 7时14分发出第一班车, 7时54分发出最后一班车. 之前亦有两班**UMID**与之相近, 时间间隔同为10分钟, 不过增停[洛涅站](../Page/洛涅站.md "wikilink").
+4\. 从[马恩拉瓦雷-谢西站开往](https://zh.wikipedia.org/wiki/马恩拉瓦雷-谢西站 "wikilink")[塞尔吉](../Page/塞尔吉.md "wikilink")的全程车**UVAR**, 除[罗涅站](https://zh.wikipedia.org/wiki/罗涅站 "wikilink"), [马恩河畔布里站](../Page/马恩河畔布里站.md "wikilink"), [乌邑－塞纳河石矿站和](https://zh.wikipedia.org/wiki/乌邑－塞纳河石矿站 "wikilink")[拉菲特居站](../Page/拉菲特居站.md "wikilink")之外每站都停靠, 10分钟一班, 7时14分发出第一班车, 7时54分发出最后一班车. 之前亦有两班**UMID**与之相近, 时间间隔同为10分钟, 不过增停[洛涅站](../Page/洛涅站.md "wikilink").
 
 5\. 从[马恩拉瓦雷-谢西站开往](https://zh.wikipedia.org/wiki/马恩拉瓦雷-谢西站 "wikilink")[普瓦西站](../Page/普瓦西站.md "wikilink")的全程车**TNOR**, 除[欧罗巴河谷站](https://zh.wikipedia.org/wiki/欧罗巴河谷站 "wikilink"), [比西圣乔治站](../Page/比西圣乔治站.md "wikilink"), [诺瓦西-尚站和](https://zh.wikipedia.org/wiki/诺瓦西-尚站 "wikilink")[萨图维尔站](../Page/萨图维尔站.md "wikilink")之外每站都停靠, 10分钟一班, 7时20分发出第一班车, 7时50分发出最后一班车. 之后有两班**UKRA**与之对应, 从[马恩拉瓦雷-谢西站开往](https://zh.wikipedia.org/wiki/马恩拉瓦雷-谢西站 "wikilink")[塞尔吉高地站](../Page/塞尔吉高地站.md "wikilink"), 时间间隔同为10分钟, 不过增停[萨图维尔站](../Page/萨图维尔站.md "wikilink").
 

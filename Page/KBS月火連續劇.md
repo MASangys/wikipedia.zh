@@ -482,7 +482,7 @@
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/韓智慧.md" title="wikilink">韓智慧</a>、<a href="../Page/李東健.md" title="wikilink">李東健</a>、<a href="../Page/李多海.md" title="wikilink">李多海</a>、<a href="https://zh.wikipedia.org/wiki/朴亨才" title="wikilink">朴亨才</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金正奎" title="wikilink">金正奎</a>、<a href="https://zh.wikipedia.org/wiki/金明旭" title="wikilink">金明旭</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/金正奎.md" title="wikilink">金正奎</a>、<a href="https://zh.wikipedia.org/wiki/金明旭" title="wikilink">金明旭</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/金銀姬.md" title="wikilink">金銀姬</a>、<a href="https://zh.wikipedia.org/wiki/尹恩景" title="wikilink">尹恩景</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -808,7 +808,7 @@
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/梁東根.md" title="wikilink">梁東根</a>、<a href="https://zh.wikipedia.org/wiki/朴敏英" title="wikilink">朴敏英</a>、<a href="https://zh.wikipedia.org/wiki/孫泰英" title="wikilink">孫泰英</a>、<a href="../Page/朴俊奎.md" title="wikilink">朴俊奎</a>、<a href="../Page/T.O.P..md" title="wikilink">T.O.P.</a>、<a href="https://zh.wikipedia.org/wiki/朴彩京" title="wikilink">朴彩京</a>、<a href="../Page/朴載正.md" title="wikilink">朴載正</a></p></td>
-<td style="text-align: center;"><p>|<a href="https://zh.wikipedia.org/wiki/金正奎" title="wikilink">金正奎</a></p></td>
+<td style="text-align: center;"><p>|<a href="../Page/金正奎.md" title="wikilink">金正奎</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李鎮梅" title="wikilink">李鎮梅</a></p></td>
 <td style="text-align: center;"><p>原作：<a href="../Page/岡田和人.md" title="wikilink">岡田和人</a>《<a href="../Page/教科書沒教的事.md" title="wikilink">教科書沒教的事</a>》</p></td>
 </tr>
@@ -974,7 +974,7 @@
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/池珍熙.md" title="wikilink">池珍熙</a>、<a href="../Page/嚴正化.md" title="wikilink">嚴正化</a>、<a href="https://zh.wikipedia.org/wiki/金素恩" title="wikilink">金素恩</a>、<a href="../Page/梁瀞疋.md" title="wikilink">梁瀞疋</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金正奎" title="wikilink">金正奎</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/金正奎.md" title="wikilink">金正奎</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/余志娜" title="wikilink">余志娜</a></p></td>
 <td style="text-align: center;"><p>原作：<a href="https://zh.wikipedia.org/wiki/尾崎將也" title="wikilink">尾崎將也</a>《<a href="../Page/不能結婚的男人_(日本電視劇).md" title="wikilink">不能結婚的男人</a>》</p></td>
 </tr>
@@ -1068,7 +1068,7 @@
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/李水京.md" title="wikilink">李水京</a>、<a href="https://zh.wikipedia.org/wiki/金相慶" title="wikilink">金相慶</a>、<a href="../Page/柳鎮_(韓國).md" title="wikilink">柳鎮</a>、<a href="https://zh.wikipedia.org/wiki/蝴瓓" title="wikilink">蝴瓓</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金正奎" title="wikilink">金正奎</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/金正奎.md" title="wikilink">金正奎</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/崔伊朗" title="wikilink">崔伊朗</a>、<a href="https://zh.wikipedia.org/wiki/李珍梅" title="wikilink">李珍梅</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -1526,7 +1526,7 @@
 <td style="text-align: center;"><p><a href="../Page/Who_Are_You－學校2015.md" title="wikilink">Who Are You－學校2015</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
-<td style="text-align: center;"><p>|<a href="../Page/金所泫.md" title="wikilink">金所泫</a>、<a href="../Page/陸星材.md" title="wikilink">陸星材</a>、<a href="https://zh.wikipedia.org/wiki/南柱赫" title="wikilink">南柱赫</a>、<a href="../Page/全美善.md" title="wikilink">全美善</a>、<a href="../Page/李必模.md" title="wikilink">李必模</a>、<a href="https://zh.wikipedia.org/wiki/曹秀香" title="wikilink">曹秀香</a>、<a href="https://zh.wikipedia.org/wiki/金希珍" title="wikilink">金希珍</a>、<a href="../Page/李礎熙.md" title="wikilink">李礎熙</a>、<a href="../Page/李大衛_(演員).md" title="wikilink">李大衛</a></p></td>
+<td style="text-align: center;"><p>|<a href="../Page/金所泫.md" title="wikilink">金所泫</a>、<a href="../Page/陸星材.md" title="wikilink">陸星材</a>、<a href="https://zh.wikipedia.org/wiki/南柱赫" title="wikilink">南柱赫</a>、<a href="../Page/全美善.md" title="wikilink">全美善</a>、<a href="../Page/李必模.md" title="wikilink">李必模</a>、<a href="../Page/曹秀香.md" title="wikilink">曹秀香</a>、<a href="https://zh.wikipedia.org/wiki/金希珍" title="wikilink">金希珍</a>、<a href="../Page/李礎熙.md" title="wikilink">李礎熙</a>、<a href="../Page/李大衛_(演員).md" title="wikilink">李大衛</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/白尚勳" title="wikilink">白尚勳</a>、<a href="https://zh.wikipedia.org/wiki/金成允" title="wikilink">金成允</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金賢貞" title="wikilink">金賢貞</a>、<a href="https://zh.wikipedia.org/wiki/金敏貞_(編劇)" title="wikilink">金敏貞</a></p></td>
 <td style="text-align: center;"></td>

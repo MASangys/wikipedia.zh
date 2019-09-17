@@ -2,7 +2,7 @@
 
 ## 遊戲簡介
 
-  - 這是個「殘酷純愛」的故事，製作人員聲稱「沒有[萌](../Page/萌.md "wikilink")、沒有[後宮](https://zh.wikipedia.org/wiki/後宮型作品 "wikilink")、沒有熱血、沒有正義」的「由現實到夢幻真愛悲傷電子小說」\[2\]\[3\]，是充滿灰暗感的「[泣game](https://zh.wikipedia.org/wiki/泣game "wikilink")」或「[鬱game](https://zh.wikipedia.org/wiki/鬱game "wikilink")」\[4\]，《beyond》的壞結局更被製作人稱為「殘酷純愛的[阿鼻地獄](../Page/阿鼻地獄.md "wikilink")\[5\]」。
+  - 這是個「殘酷純愛」的故事，製作人員聲稱「沒有[萌](../Page/萌.md "wikilink")、沒有[後宮](../Page/後宮型作品.md "wikilink")、沒有熱血、沒有正義」的「由現實到夢幻真愛悲傷電子小說」\[2\]\[3\]，是充滿灰暗感的「[泣game](https://zh.wikipedia.org/wiki/泣game "wikilink")」或「[鬱game](https://zh.wikipedia.org/wiki/鬱game "wikilink")」\[4\]，《beyond》的壞結局更被製作人稱為「殘酷純愛的[阿鼻地獄](../Page/阿鼻地獄.md "wikilink")\[5\]」。
   - 故事分為「in the realm of reality」、「in the realm of truth」、「in the realm of dream」三部分。《towards》收錄「reality」和「truth」序章，《beyond》收錄「truth」、「dream」。《towards》和《beyond》是兩個沒有關連的平行世界（但人物沒有太大差別）。
   - 《[想君：秋之回憶](https://zh.wikipedia.org/wiki/想君：秋之回憶 "wikilink")》和《[真月譚月姬](../Page/月姬.md "wikilink")》影響本作甚深，《河原崎2》也影響了程式設計方面\[6\]。
   - 遊戲背景是實境拍攝、2002年的香港，人物造型取香港風格，如旗袍校服。畫風不採用一般[美少女遊戲](../Page/美少女遊戲.md "wikilink")的[萌](../Page/萌.md "wikilink")風格，因ss-square認為《To New》的故事比較現實，萌反而會顯得不自然\[7\]，然而卻受到一些批評\[8\]。

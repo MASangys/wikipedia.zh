@@ -454,7 +454,7 @@
 </p></td>
 <td style="text-align: center;"><p>20</p></td>
 <td style="text-align: center;"><p><a href="../Page/金烔完.md" title="wikilink">金烔完</a>、<a href="https://zh.wikipedia.org/wiki/韓恩廷" title="wikilink">韓恩廷</a>、<a href="../Page/趙東赫.md" title="wikilink">趙東赫</a>、<a href="https://zh.wikipedia.org/wiki/黃正音" title="wikilink">黃正音</a>、<a href="../Page/朴恩惠.md" title="wikilink">朴恩惠</a>、<a href="https://zh.wikipedia.org/wiki/洪敬民" title="wikilink">洪敬民</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/鄭世浩" title="wikilink">鄭世浩</a>、<a href="https://zh.wikipedia.org/wiki/金弘善" title="wikilink">金弘善</a>、<a href="https://zh.wikipedia.org/wiki/尹柳海" title="wikilink">尹柳海</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/鄭世浩" title="wikilink">鄭世浩</a>、<a href="https://zh.wikipedia.org/wiki/金弘善" title="wikilink">金弘善</a>、<a href="../Page/尹柳海.md" title="wikilink">尹柳海</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/崔允晶.md" title="wikilink">崔允晶</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -526,7 +526,7 @@
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/安在旭.md" title="wikilink">安在旭</a>、<a href="https://zh.wikipedia.org/wiki/徐智慧" title="wikilink">徐智慧</a>、<a href="https://zh.wikipedia.org/wiki/黄伦硕" title="wikilink">黄伦硕</a>、<a href="../Page/孔炯軫.md" title="wikilink">孔炯軫</a>、<a href="../Page/趙美玲.md" title="wikilink">趙美玲</a>、<a href="https://zh.wikipedia.org/wiki/朴惠英" title="wikilink">朴惠英</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李昌漢" title="wikilink">李昌漢</a>、<a href="https://zh.wikipedia.org/wiki/成道俊" title="wikilink">成道俊</a>、<a href="https://zh.wikipedia.org/wiki/尹柳海" title="wikilink">尹柳海</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李昌漢" title="wikilink">李昌漢</a>、<a href="https://zh.wikipedia.org/wiki/成道俊" title="wikilink">成道俊</a>、<a href="../Page/尹柳海.md" title="wikilink">尹柳海</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/鄭賢貞" title="wikilink">鄭賢貞</a>、<a href="../Page/崔秀珍.md" title="wikilink">崔秀珍</a></p></td>
 <td style="text-align: center;"><p>原作：<a href="https://zh.wikipedia.org/wiki/許英萬" title="wikilink">許英萬</a>、<a href="https://zh.wikipedia.org/wiki/金世榮" title="wikilink">金世榮</a>《我愛你》</p></td>
 </tr>
@@ -1035,7 +1035,7 @@
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/李順載.md" title="wikilink">李順載</a>、<a href="https://zh.wikipedia.org/wiki/鄭英淑" title="wikilink">鄭英淑</a>、<a href="https://zh.wikipedia.org/wiki/金浩英" title="wikilink">金浩英</a>、<a href="https://zh.wikipedia.org/wiki/趙陽子" title="wikilink">趙陽子</a>、<a href="../Page/鄭仁基_(演員).md" title="wikilink">鄭仁基</a>、<a href="../Page/金亨俊.md" title="wikilink">金亨俊</a>、<a href="../Page/金允書.md" title="wikilink">金允書</a>、<a href="../Page/金光奎.md" title="wikilink">金光奎</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/尹柳海" title="wikilink">尹柳海</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/尹柳海.md" title="wikilink">尹柳海</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金明浩" title="wikilink">金明浩</a></p></td>
 <td style="text-align: center;"><p>原作：<a href="https://zh.wikipedia.org/wiki/姜草" title="wikilink">姜草</a>《愛你》</p></td>
 </tr>

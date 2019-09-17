@@ -159,7 +159,7 @@ MF文庫J近年來積極進行電子出版。比較新的書籍，有發行價�
   - [遊戲人生](https://zh.wikipedia.org/wiki/遊戲人生 "wikilink")（[榎宮祐](../Page/榎宮祐.md "wikilink")）
   - [我被女生倒追，惹妹妹生气了？](https://zh.wikipedia.org/wiki/我被女生倒追，惹妹妹生气了？ "wikilink")（[野島けんじ](https://zh.wikipedia.org/wiki/野島けんじ "wikilink")／[武藤此史](https://zh.wikipedia.org/wiki/武藤此史 "wikilink")）
   - [月神来我家](../Page/月神來我家！.md "wikilink")（[後藤祐迅](https://zh.wikipedia.org/wiki/後藤祐迅 "wikilink")／[梱枝Riko](../Page/梱枝Riko.md "wikilink")）
-  - [机巧少女不受伤](../Page/機巧少女不會受傷.md "wikilink")（[海冬零兒](../Page/海冬零兒.md "wikilink")／[LLO](https://zh.wikipedia.org/wiki/LLO "wikilink")）
+  - [机巧少女不受伤](../Page/機巧少女不會受傷.md "wikilink")（[海冬零兒](../Page/海冬零兒.md "wikilink")／[LLO](../Page/LLO.md "wikilink")）
   - [其中一个是妹妹](../Page/其中1個是妹妹！.md "wikilink")（[田口一](https://zh.wikipedia.org/wiki/田口一 "wikilink")／[CUTEG](https://zh.wikipedia.org/wiki/CUTEG "wikilink")）
   - [星刻的龙骑士](https://zh.wikipedia.org/wiki/星刻龙骑士 "wikilink")（[瑞智士記](../Page/瑞智士記.md "wikilink")／[染鲭小鳍](https://zh.wikipedia.org/wiki/染鲭小鳍 "wikilink")）
 

@@ -250,7 +250,7 @@
 </p></td>
 <td style="text-align: center;"><p>20</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/秋相微" title="wikilink">秋相微</a>、<a href="../Page/趙東赫.md" title="wikilink">趙東赫</a>、<a href="../Page/朴潭熙.md" title="wikilink">朴潭熙</a>、<a href="../Page/柳太準.md" title="wikilink">柳太準</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/尹柳海" title="wikilink">尹柳海</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/尹柳海.md" title="wikilink">尹柳海</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/馬珠熙" title="wikilink">馬珠熙</a></p></td>
 <td style="text-align: center;"></td>
 </tr>

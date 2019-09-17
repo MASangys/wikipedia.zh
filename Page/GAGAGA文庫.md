@@ -44,7 +44,7 @@
   - [罪人與龍共舞](../Page/罪人與龍共舞.md "wikilink")（[浅井ラボ](https://zh.wikipedia.org/wiki/浅井ラボ "wikilink")／[宮城](https://zh.wikipedia.org/wiki/宮城 "wikilink")）
   - [獻給某飛行員的戀歌](../Page/獻給某飛行員的戀歌.md "wikilink")（犬村小六／森澤晴行）
   - [邪神大沼](https://zh.wikipedia.org/wiki/邪神大沼 "wikilink")（[川岸毆魚](https://zh.wikipedia.org/wiki/川岸毆魚 "wikilink")／[Ixy](https://zh.wikipedia.org/wiki/Ixy "wikilink")）
-  - [綻放花朵的飛行兵器](../Page/綻放花朵的飛行兵器.md "wikilink")（[杉井光](../Page/杉井光.md "wikilink")／[LLO](https://zh.wikipedia.org/wiki/LLO "wikilink")）
+  - [綻放花朵的飛行兵器](../Page/綻放花朵的飛行兵器.md "wikilink")（[杉井光](../Page/杉井光.md "wikilink")／[LLO](../Page/LLO.md "wikilink")）
   - [死亡倒數遊戲～他能在當天免於一死嗎～](https://zh.wikipedia.org/wiki/死亡倒數遊戲～他能在當天免於一死嗎～ "wikilink")（[小木君人](https://zh.wikipedia.org/wiki/小木君人 "wikilink")／[植田亮](../Page/植田亮.md "wikilink")）
   - [鋼鐵之翼](https://zh.wikipedia.org/wiki/鋼鐵之翼 "wikilink")（[虛淵玄](../Page/虛淵玄.md "wikilink")／[中央東口](https://zh.wikipedia.org/wiki/中央東口 "wikilink")）
   - [果然我的青春戀愛喜劇搞錯了。](../Page/果然我的青春戀愛喜劇搞錯了。.md "wikilink")（[渡航](../Page/渡航.md "wikilink")／[ぽんかん⑧](https://zh.wikipedia.org/wiki/ぽんかん⑧ "wikilink")）

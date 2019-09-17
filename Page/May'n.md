@@ -241,7 +241,7 @@
   - May'n SUMMER TOUR 2009 "LOVE\&JOY"
       - [2009年](../Page/2009年.md "wikilink")7月26日/[福岡縣](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")・Zepp Fukuoka
       - 2009年7月31日/[仙台市](../Page/仙台市.md "wikilink")・Zepp Sendai
-      - 2009年8月2日/[札幌縣](https://zh.wikipedia.org/wiki/札幌縣 "wikilink")・Zepp Sapporo
+      - 2009年8月2日/[札幌縣](../Page/札幌縣.md "wikilink")・Zepp Sapporo
       - 2009年8月7日/[大阪市](../Page/大阪市.md "wikilink")・Zepp Osaka
       - [2009年](../Page/2009年.md "wikilink")8月8日/[名古屋市](../Page/名古屋市.md "wikilink")・Zepp Nagoya
       - 2009年8月12日・8月13日/[東京都](../Page/東京都.md "wikilink")・Zepp Tokyo

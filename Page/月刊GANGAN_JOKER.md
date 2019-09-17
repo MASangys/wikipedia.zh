@@ -389,7 +389,7 @@ Avra（原作、劇本）</p></td>
 <td><p><a href="../Page/我女友與青梅竹馬的慘烈修羅場.md" title="wikilink">-{zh-hans:我女友和青梅竹马的各种修罗场;zh-hant:我女友與青梅竹馬的慘烈修羅場;}-</a></p></td>
 <td><p>七介（作畫）</p></td>
 <td><p>裕時悠示（原作）<br />
-<a href="https://zh.wikipedia.org/wiki/LLO" title="wikilink">LLO</a>（角色原案）</p></td>
+<a href="../Page/LLO.md" title="wikilink">LLO</a>（角色原案）</p></td>
 <td><p>2011.07</p></td>
 <td><p>2014.04</p></td>
 <td></td>

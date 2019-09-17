@@ -15,7 +15,7 @@
 </tr>
 <tr class="odd">
 <td><p>&lt;span style=color:#&gt;<strong>南行</strong></span></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-1.svg" title="fig:纽约地铁1号线">纽约地铁1号线</a> 往<a href="https://zh.wikipedia.org/wiki/南碼頭-白廳街車站" title="wikilink">南碼頭</a><small>（<a href="https://zh.wikipedia.org/wiki/191街車站" title="wikilink">191街</a>）</small></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-1.svg" title="fig:纽约地铁1号线">纽约地铁1号线</a> 往<a href="https://zh.wikipedia.org/wiki/南碼頭-白廳街車站" title="wikilink">南碼頭</a><small>（<a href="../Page/191街車站.md" title="wikilink">191街</a>）</small></p></td>
 </tr>
 <tr class="even">
 <td><p><small><a href="../Page/側式月台.md" title="wikilink">側式月台</a>，右側開門</small></p></td>

@@ -391,7 +391,7 @@ B隊主管<br />
 <td><p>入境事務主任</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/黃梓瑋" title="wikilink">黃梓瑋</a></p></td>
+<td><p><a href="../Page/黃梓瑋.md" title="wikilink">黃梓瑋</a></p></td>
 <td><p>廖可秀</p></td>
 <td><p><strong>Jenny</strong><br />
 入境事務助理</p></td>

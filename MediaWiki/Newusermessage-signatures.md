@@ -263,7 +263,7 @@
   - [<span style="color:#04b7ff;">채진</span>](https://zh.wikipedia.org/wiki/U:Jane9306 "wikilink")[<span style="color:#55d8a8;">이야</span>](https://zh.wikipedia.org/wiki/UT:Jane9306 "wikilink")·[<span style="color: #Ff5fa2;">TWICE❤</span>](https://zh.wikipedia.org/wiki/TWICE "wikilink")·[<span style="color: #fcc89b;">One In A Million \!</span>](https://zh.wikipedia.org/wiki/U:Jane9306/Sign "wikilink")
   - [<span style="background:purple;padding:0 12px;color:gold"> KMB☆ATENU139 </span>](https://zh.wikipedia.org/wiki/U:SH6188 "wikilink") <small><span style="color: black;">**反送中**</span></small>
   - [<span style="color:#FD99DB;font-family:Ink Free"><big><big>Catherine</big></big></span>](https://zh.wikipedia.org/wiki/User:Catherine_Laurence "wikilink") [<span style="color:#FD99DB;font-family:Ink Free"><big><big>Laurence</big></big></span>](https://zh.wikipedia.org/wiki/User_talk:Catherine_Laurence "wikilink")
-  - [<span style="font-family: Book Antiqua;color:#D200D2;"> **Vikarna**</span>](https://zh.wikipedia.org/wiki/User_talk:Vikarna "wikilink") <sup>呼吁中央政府放弃对[郑文杰事件之](https://zh.wikipedia.org/wiki/郑文杰失踪事件 "wikilink")「嫖娼」定性，并严惩[付国豪](../Page/付国豪.md "wikilink")非法找打之行径</sup>
+  - [<span style="font-family: Book Antiqua;color:#D200D2;"> **Vikarna**</span>](https://zh.wikipedia.org/wiki/User_talk:Vikarna "wikilink") <sup>呼吁中央政府放弃对[郑文杰事件之](../Page/郑文杰失踪事件.md "wikilink")「嫖娼」定性，并严惩[付国豪](../Page/付国豪.md "wikilink")非法找打之行径</sup>
   - —<span style="text-shadow:0 1px 5px #66F9CF;">[Rowing](https://zh.wikipedia.org/wiki/U:Rowingbohe "wikilink")[bohe♬](https://zh.wikipedia.org/wiki/UT:Rowingbohe "wikilink")</span> <font color="grey"><small>祝贺[高铭暄](../Page/高铭暄.md "wikilink")被公示为[国家荣誉称号获得者](../Page/荣誉称号_\(中华人民共和国\).md "wikilink")</small></font>
 
 <!-- end list -->

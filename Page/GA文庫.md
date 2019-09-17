@@ -29,9 +29,9 @@ GA文库出版了相當多原創作品。創刊一年來，主力作品只有《
   - [襲來！美少女邪神](../Page/襲來！美少女邪神.md "wikilink")（[逢空萬太](https://zh.wikipedia.org/wiki/逢空萬太 "wikilink")／[狐印](https://zh.wikipedia.org/wiki/狐印 "wikilink")）
   - [妹妹x殺手x宅配便](../Page/妹妹x殺手x宅配便.md "wikilink")（[九邊健二](https://zh.wikipedia.org/wiki/九邊健二 "wikilink")／[鶴崎貴大](../Page/鶴崎貴大.md "wikilink")）
   - [深山家的蓓兒汀](https://zh.wikipedia.org/wiki/深山家的蓓兒汀 "wikilink")（逢空萬太／[七](https://zh.wikipedia.org/wiki/七 "wikilink")）
-  - [我女友與青梅竹馬的慘烈修羅場](../Page/我女友與青梅竹馬的慘烈修羅場.md "wikilink")（[裕時悠示](https://zh.wikipedia.org/wiki/裕時悠示 "wikilink")／[LLO](https://zh.wikipedia.org/wiki/LLO "wikilink")）
+  - [我女友與青梅竹馬的慘烈修羅場](../Page/我女友與青梅竹馬的慘烈修羅場.md "wikilink")（[裕時悠示](../Page/裕時悠示.md "wikilink")／[LLO](../Page/LLO.md "wikilink")）
   - [農林](../Page/農林.md "wikilink")（[白鳥士郎](../Page/白鳥士郎.md "wikilink")／[切符](../Page/切符.md "wikilink")）
-  - [舞星灑落的雷涅席庫爾](https://zh.wikipedia.org/wiki/舞星灑落的雷涅席庫爾 "wikilink")（[裕時悠示](https://zh.wikipedia.org/wiki/裕時悠示 "wikilink")／[たかやKi](https://zh.wikipedia.org/wiki/たかやKi "wikilink")）
+  - [舞星灑落的雷涅席庫爾](https://zh.wikipedia.org/wiki/舞星灑落的雷涅席庫爾 "wikilink")（[裕時悠示](../Page/裕時悠示.md "wikilink")／[たかやKi](https://zh.wikipedia.org/wiki/たかやKi "wikilink")）
   - [你的侍奉只有這種程度嗎?](https://zh.wikipedia.org/wiki/你的侍奉只有這種程度嗎? "wikilink")（[森田季節](../Page/森田季節.md "wikilink")／[尾崎弘宜](https://zh.wikipedia.org/wiki/尾崎弘宜 "wikilink")）
   - [BOY‧MEETS‧HEART \!](https://zh.wikipedia.org/wiki/BOY‧MEETS‧HEART_! "wikilink")（[鳥羽徹](https://zh.wikipedia.org/wiki/鳥羽徹 "wikilink")／[H2SO4](https://zh.wikipedia.org/wiki/H2SO4 "wikilink")）
   - [雙胞胎與青梅竹馬的四人命案](https://zh.wikipedia.org/wiki/雙胞胎與青梅竹馬的四人命案 "wikilink")（[森田陽一](https://zh.wikipedia.org/wiki/森田陽一 "wikilink")／[saitom](https://zh.wikipedia.org/wiki/saitom "wikilink")）
@@ -69,7 +69,7 @@ GA文库出版了相當多原創作品。創刊一年來，主力作品只有《
 
 ### 小多文化
 
-  - [我女友和青梅竹马的各种修罗场](https://zh.wikipedia.org/wiki/我女友和青梅竹马的各种修罗场 "wikilink")（裕时悠示／[LLO](https://zh.wikipedia.org/wiki/LLO "wikilink")）
+  - [我女友和青梅竹马的各种修罗场](https://zh.wikipedia.org/wiki/我女友和青梅竹马的各种修罗场 "wikilink")（裕时悠示／[LLO](../Page/LLO.md "wikilink")）
   - 舞星散落的雷涅西库尔（裕时悠示／TakayaKi）
 
 ## 註解

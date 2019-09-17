@@ -89,7 +89,7 @@
 
   - （/[水野良](../Page/水野良.md "wikilink")/[春日歩](https://zh.wikipedia.org/wiki/春日歩 "wikilink")）
 
-  - [不正經的魔術講師與禁忌教典](../Page/不正經的魔術講師與禁忌教典.md "wikilink")（[羊太郎](https://zh.wikipedia.org/wiki/羊太郎 "wikilink")/[三嶋くろね](https://zh.wikipedia.org/wiki/三嶋くろね "wikilink")）
+  - [不正經的魔術講師與禁忌教典](../Page/不正經的魔術講師與禁忌教典.md "wikilink")（[羊太郎](../Page/羊太郎.md "wikilink")/[三嶋くろね](https://zh.wikipedia.org/wiki/三嶋くろね "wikilink")）
 
   - [对魔导学园35试验小队](https://zh.wikipedia.org/wiki/对魔导学园35试验小队 "wikilink")
 
