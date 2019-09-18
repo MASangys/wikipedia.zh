@@ -311,7 +311,7 @@ J联赛每个赛季结束后，会颁布一系列奖项，统称为“[J联赛�
  <a href="../Page/青山敏弘.md" title="wikilink">青山敏弘</a>（<a href="https://zh.wikipedia.org/wiki/广岛三箭队" title="wikilink">广岛</a>）</p></td>
 <td><p><a href="../Page/大迫勇也.md" title="wikilink">大迫勇也</a>（<a href="https://zh.wikipedia.org/wiki/鹿岛鹿角队" title="wikilink">鹿岛</a>）<br />
  <a href="../Page/大久保嘉人.md" title="wikilink">大久保嘉人</a>（<a href="https://zh.wikipedia.org/wiki/川崎前锋队" title="wikilink">川崎</a>）<br />
- <a href="https://zh.wikipedia.org/wiki/川又堅碁" title="wikilink">川又堅碁</a>（<a href="https://zh.wikipedia.org/wiki/新泻天鹅队" title="wikilink">新泻</a>）</p></td>
+ <a href="../Page/川又堅碁.md" title="wikilink">川又堅碁</a>（<a href="https://zh.wikipedia.org/wiki/新泻天鹅队" title="wikilink">新泻</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/2014年度J联赛" title="wikilink">2014</a></p></td>

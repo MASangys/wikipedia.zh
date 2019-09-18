@@ -13,7 +13,7 @@
 ## 歷史
 
   - 1998年3月 - [宇和島道路](https://zh.wikipedia.org/wiki/宇和島道路 "wikilink")[宇和島坂下津IC](../Page/宇和島坂下津IC.md "wikilink")至宇和島南IC之間開通，此交流道也同時啟用。
-  - 2010年3月27日 - 宇和島道路宇和島南IC至[津島高田IC之間開通](https://zh.wikipedia.org/wiki/津島高田IC "wikilink")。
+  - 2010年3月27日 - 宇和島道路宇和島南IC至[津島高田IC](../Page/津島高田IC.md "wikilink")之間開通。
 
 ## 交流道周邊
 
@@ -22,7 +22,7 @@
 ## 鄰近設施
 
   - [宇和島道路](https://zh.wikipedia.org/wiki/宇和島道路 "wikilink")
-    (27)[宇和島別當IC](../Page/宇和島別當IC.md "wikilink") - (28)**宇和島南IC** - (29)[津島高田IC](https://zh.wikipedia.org/wiki/津島高田IC "wikilink")
+    (27)[宇和島別當IC](../Page/宇和島別當IC.md "wikilink") - (28)**宇和島南IC** - (29)[津島高田IC](../Page/津島高田IC.md "wikilink")
 
 ## 相關項目
 

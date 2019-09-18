@@ -1504,7 +1504,7 @@
 </p></td>
 <td style="text-align: center;"><p>123</p></td>
 <td style="text-align: center;"><p><a href="../Page/申高恩.md" title="wikilink">申高恩</a>、<a href="../Page/林允浩.md" title="wikilink">林允浩</a>、<a href="../Page/徐道永.md" title="wikilink">徐道永</a>、、<a href="../Page/方銀姬.md" title="wikilink">方銀姬</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/尹柳海" title="wikilink">尹柳海</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/尹柳海.md" title="wikilink">尹柳海</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/朴慧漣" title="wikilink">朴慧漣</a></p></td>
 <td style="text-align: center;"></td>
 </tr>

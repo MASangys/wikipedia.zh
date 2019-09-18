@@ -27,7 +27,7 @@
 #### 男演員
 
   - 권영민
-  - [金永宰](https://zh.wikipedia.org/wiki/金永宰 "wikilink")
+  - [金永宰](../Page/金永宰.md "wikilink")
   - [金宇彬](../Page/金宇彬.md "wikilink")
   - [朴健泰](../Page/朴健泰.md "wikilink")
   - [朴宣浩](../Page/朴宣浩.md "wikilink")

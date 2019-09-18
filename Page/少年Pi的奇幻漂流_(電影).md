@@ -124,7 +124,7 @@ Buddhist Sailor</p></td>
 
 影片于2012年9月在[纽约电影节首映后](https://zh.wikipedia.org/wiki/纽约电影节 "wikilink")，收获了不少好评，主要集中在故事叙述与视觉效果上。\[5\]正式上映后，美国媒体综评78分，《完全电影》、《[环球邮报](../Page/环球邮报.md "wikilink")》、《[芝加哥太阳报](https://zh.wikipedia.org/wiki/芝加哥太阳报 "wikilink")》、《[洛杉矶时报](https://zh.wikipedia.org/wiki/洛杉矶时报 "wikilink")》、《纽约杂志》、《[时代周刊](https://zh.wikipedia.org/wiki/时代周刊 "wikilink")》、《[好莱坞报道者](https://zh.wikipedia.org/wiki/好莱坞报道者 "wikilink")》等多家媒体给出满分；《[烂番茄](https://zh.wikipedia.org/wiki/烂番茄 "wikilink")》新鲜度达88%，收获广泛赞誉\[6\]。影片被《[时代周刊](https://zh.wikipedia.org/wiki/时代周刊 "wikilink")》列为年度十佳电影之一。\[7\]
 
-媒体代表性评价：“2012年度最佳影片之一，一次关于真实的拷问，一首关于人性选择的挽歌，影片的每一分每一秒都是如此真实”，“[李安](../Page/李安.md "wikilink")最好的作品总是有这样一种倾向，在平静而美好的外表下，奔腾着汹涌的道德暗流”，“堪称哲学史诗的3D技术映画，让银幕上的世界呼之欲出。甚至不是我等站在银幕外，而是融入世界中”，“从一开始多种宗教主义的探讨和融合就能看出，这部影片的主题其实与[宗教](../Page/宗教.md "wikilink")并无关系，甚至已经横亙幻想与现实的壁垒”，“绝对的大师手笔，[达尔文](https://zh.wikipedia.org/wiki/达尔文 "wikilink")[演化論](../Page/演化論.md "wikilink")、宗教[人本主义](https://zh.wikipedia.org/wiki/人本主义 "wikilink")、[信仰与心境的互动](https://zh.wikipedia.org/wiki/信仰 "wikilink")，无数理念在这部影片中水乳交融混合为一”。\[8\]
+媒体代表性评价：“2012年度最佳影片之一，一次关于真实的拷问，一首关于人性选择的挽歌，影片的每一分每一秒都是如此真实”，“[李安](../Page/李安.md "wikilink")最好的作品总是有这样一种倾向，在平静而美好的外表下，奔腾着汹涌的道德暗流”，“堪称哲学史诗的3D技术映画，让银幕上的世界呼之欲出。甚至不是我等站在银幕外，而是融入世界中”，“从一开始多种宗教主义的探讨和融合就能看出，这部影片的主题其实与[宗教](../Page/宗教.md "wikilink")并无关系，甚至已经横亙幻想与现实的壁垒”，“绝对的大师手笔，[达尔文](https://zh.wikipedia.org/wiki/达尔文 "wikilink")[演化論](../Page/演化論.md "wikilink")、宗教[人本主义](https://zh.wikipedia.org/wiki/人本主义 "wikilink")、[信仰](../Page/信仰.md "wikilink")与心境的互动，无数理念在这部影片中水乳交融混合为一”。\[8\]
 
 ## 票房
 

@@ -214,8 +214,8 @@
 23. GNU FriBidi – 实现[Unicode](https://zh.wikipedia.org/wiki/Unicode "wikilink")[双向算法的库](https://zh.wikipedia.org/wiki/双向文稿 "wikilink")
 24. [MIT/GNU Scheme](https://zh.wikipedia.org/wiki/MIT/GNU_Scheme "wikilink") – [麻省理工学院](../Page/麻省理工学院.md "wikilink")[Scheme](../Page/Scheme.md "wikilink")语言的解释器、编译器及库。
 25. [SmartEiffel](https://zh.wikipedia.org/wiki/SmartEiffel "wikilink") – GNU [Eiffel](../Page/Eiffel.md "wikilink")编译器
-26. [GNU Smalltalk](https://zh.wikipedia.org/wiki/GNU_Smalltalk "wikilink") – [ANSI](https://zh.wikipedia.org/wiki/美國國家標準協會 "wikilink") [Smalltalk](../Page/Smalltalk.md "wikilink")-98实现（解释器和类库）。
-27. [CLISP](https://zh.wikipedia.org/wiki/CLISP "wikilink") – [ANSI](https://zh.wikipedia.org/wiki/美國國家標準協會 "wikilink") [Common Lisp实现](../Page/Common_Lisp.md "wikilink")（编译器、调试器和解释器）
+26. [GNU Smalltalk](https://zh.wikipedia.org/wiki/GNU_Smalltalk "wikilink") – [ANSI](../Page/美國國家標準協會.md "wikilink") [Smalltalk](../Page/Smalltalk.md "wikilink")-98实现（解释器和类库）。
+27. [CLISP](https://zh.wikipedia.org/wiki/CLISP "wikilink") – [ANSI](../Page/美國國家標準協會.md "wikilink") [Common Lisp实现](../Page/Common_Lisp.md "wikilink")（编译器、调试器和解释器）
 28. [GNU Common Lisp](https://zh.wikipedia.org/wiki/GNU_Common_Lisp "wikilink") – [Common Lisp的实现](../Page/Common_Lisp.md "wikilink")
 29. [Gawk](https://zh.wikipedia.org/wiki/AWK#Versions_and_implementations "wikilink") – GNU awk实现
 30. [GNU Fontutils](https://zh.wikipedia.org/wiki/GNU_Fontutils "wikilink") – 字体管理实用程序
