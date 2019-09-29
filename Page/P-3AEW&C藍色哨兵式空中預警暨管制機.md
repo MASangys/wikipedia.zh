@@ -18,6 +18,11 @@
 
 也有部分飛機銷往加拿大，由加拿大航空司令部管轄，但是從事海上的偵察任務。
 
+## 參看
+
+  - [P-3獵戶座海上巡邏機](../Page/P-3獵戶座海上巡邏機.md "wikilink")
+  - [EP-3偵察機](../Page/EP-3偵察機.md "wikilink")
+
 ## 外部連結
 
   - [P-3系列衍生型簡介](http://home.planet.nl/~p3orion/variants.html)

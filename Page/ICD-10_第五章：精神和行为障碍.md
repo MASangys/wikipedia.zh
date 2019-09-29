@@ -109,7 +109,7 @@
       - () [青春型思覺失調症](https://zh.wikipedia.org/wiki/青春型思覺失調症 "wikilink")
       - () [紧张型思覺失調症](https://zh.wikipedia.org/wiki/紧张型思覺失調症 "wikilink")
       - () [混合型思覺失調症](https://zh.wikipedia.org/wiki/混合型思覺失調症 "wikilink")
-      - () [精神分裂症后抑郁症](https://zh.wikipedia.org/wiki/精神分裂症后抑郁症 "wikilink")
+      - () [思覺失調症后抑郁症](https://zh.wikipedia.org/wiki/思覺失調症后抑郁症 "wikilink")
       - () [残余型思覺失調症](https://zh.wikipedia.org/wiki/残余型思覺失調症 "wikilink")
       - () [单纯型思覺失調症](https://zh.wikipedia.org/wiki/单纯型思覺失調症 "wikilink")
       - () 其他[思覺失調症](https://zh.wikipedia.org/wiki/思覺失調症 "wikilink")

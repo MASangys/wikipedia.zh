@@ -29,7 +29,7 @@
 
   - [Röyksopp 的官方网站](http://www.royksopp.com)
 
-[Category:挪威乐团](https://zh.wikipedia.org/wiki/Category:挪威乐团 "wikilink") [Category:电子音乐团体](https://zh.wikipedia.org/wiki/Category:电子音乐团体 "wikilink") [Category:挪威電子音樂團體](https://zh.wikipedia.org/wiki/Category:挪威電子音樂團體 "wikilink") [Category:流行電音團體](https://zh.wikipedia.org/wiki/Category:流行電音團體 "wikilink") [Category:挪威舞曲團體](https://zh.wikipedia.org/wiki/Category:挪威舞曲團體 "wikilink") [Category:1998年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1998年成立的音樂團體 "wikilink") [Category:日本富士搖滾音樂祭參加歌手](https://zh.wikipedia.org/wiki/Category:日本富士搖滾音樂祭參加歌手 "wikilink")
+[Category:挪威乐团](https://zh.wikipedia.org/wiki/Category:挪威乐团 "wikilink") [Category:电子音乐团体](https://zh.wikipedia.org/wiki/Category:电子音乐团体 "wikilink") [Category:流行電音團體](https://zh.wikipedia.org/wiki/Category:流行電音團體 "wikilink") [Category:挪威舞曲團體](https://zh.wikipedia.org/wiki/Category:挪威舞曲團體 "wikilink") [Category:1998年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1998年成立的音樂團體 "wikilink") [Category:日本富士搖滾音樂祭參加歌手](https://zh.wikipedia.org/wiki/Category:日本富士搖滾音樂祭參加歌手 "wikilink")
 
 1.  [Senior is forthcoming 13th September on Wall Of Sound UK, PIAS Europe, EMI Scandinavia & Japan, USA TBA.](http://royksopp.com/senior)
 2.  [Our third installment, called “Junior”, will be out on the 23rd of March 2009.](http://royksopp.com/hello-world-2)

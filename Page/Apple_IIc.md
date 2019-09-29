@@ -184,7 +184,7 @@ Apple IIc在1984年4月至1988年8月的生产期间有些微小的修改，包�
 
   - [PCB pictures of the Apple II](https://web.archive.org/web/20060118092118/http://www.8bit-museum.de/?page=docs%2Fapple3b.htm)
 
-  - [Apple2clones has information on Apple II clones](http://www.apple2clones.com/)
+  - [Apple2clones has information on Apple II clones](https://web.archive.org/web/20061129123923/http://www.apple2clones.com/)
 
   - [ReactiveMicro.com](http://www.reactivemicro.com/)—The last remaining Apple II hardware production company (cloned items)
 
@@ -203,6 +203,6 @@ Apple IIc在1984年4月至1988年8月的生产期间有些微小的修改，包�
 4.  受限于画素位置限制，实际上彩色模式只有140×192
 
 5.
-6.  [Apple IIc (白金版):鼠标自Slot 4移动至Slot 7](http://docs.info.apple.com/article.html?artnum=790)
+6.
 
 7.  *Apple IIC Technical Reference Manual* New York: Addison-Wesley, 1987, pp. xxiii-xxv / ISBN 0-201-17752-8 / OCLC

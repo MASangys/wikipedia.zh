@@ -7,20 +7,13 @@
 <!-- end list -->
 
   - [望見青空之丘](https://zh.wikipedia.org/wiki/望見青空之丘 "wikilink")（）（[feng](https://zh.wikipedia.org/wiki/feng "wikilink")、2006年4月21日）
-
   - [染紅的街道](https://zh.wikipedia.org/wiki/染紅的街道 "wikilink")（）（feng、2007年7月27日）
-
   - [純白交響曲](../Page/純白交響曲.md "wikilink")（）（[Palette](https://zh.wikipedia.org/wiki/Palette "wikilink")、2009年10月30日）
-
   - [戀花綻放櫻飛時](../Page/戀花綻放櫻飛時.md "wikilink")（）（Palette、2014年6月27日）
-
-  - （Palette、2017年4月28日）
-
-  - （Palette、2018年4月27日）
-
+  - [9-nine-九次九日九重色](https://zh.wikipedia.org/wiki/9-nine- "wikilink")（）（Palette、2017年4月28日）
+  - 9-nine-天色天歌天籟音（）（Palette、2018年4月27日）
   - [Summer Pockets](../Page/Summer_Pockets.md "wikilink")（）（[Key](https://zh.wikipedia.org/wiki/Key "wikilink")、2018年6月29日）
-
-  - （Palette、2019年4月26日）
+  - 9-nine-春色春戀春之風（）（Palette、2019年4月26日）
 
 <!-- end list -->
 

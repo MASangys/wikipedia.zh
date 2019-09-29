@@ -76,6 +76,13 @@
 <td><p>이상은</p></td>
 <td><p>언젠가는</p></td>
 </tr>
+<tr class="even">
+<td><p>2019</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/Time_Slip" title="wikilink">Time Slip</a>》</p></td>
+<td><p>Show</p></td>
+<td><p><a href="../Page/金元俊.md" title="wikilink">金元俊</a></p></td>
+<td><p>Show</p></td>
+</tr>
 </tbody>
 </table>
 

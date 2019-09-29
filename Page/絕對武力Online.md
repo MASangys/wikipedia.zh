@@ -41,23 +41,29 @@
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><p>／</p></td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;"><p><br />
+ (三次代理)</p></td>
 <td style="text-align: left;"><p>首次代理：IAHGames<br />
-二次代理：Megaxus</p></td>
+二次代理：Megaxus<br />
+三次代理：NEXON</p></td>
 <td style="text-align: left;"><p>營運日期：2010年5月<br />
 結束營運：2015年6月30日</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"><p>Megaxus</p></td>
+<td style="text-align: left;"><p><br />
+ (二次代理)</p></td>
+<td style="text-align: left;"><p>首次代理：Megaxus<br />
+二次代理：NEXON</p></td>
 <td style="text-align: left;"><p>營運日期：2011年7月22日<br />
 結束營運：2019年8月1日</p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"><p>PlayFPS</p></td>
+<td style="text-align: left;"><p><br />
+ (二次代理)</p></td>
+<td style="text-align: left;"><p>首次代理: PlayFPS<br />
+二次代理：NEXON</p></td>
 <td style="text-align: left;"><p>營運日期：2012年8月<br />
 結束營運：2013年12月19日</p></td>
 </tr>
@@ -70,8 +76,10 @@
 </tr>
 <tr class="odd">
 <td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"><p>GoPlay</p></td>
+<td style="text-align: left;"><p><br />
+ (二次代理)</p></td>
+<td style="text-align: left;"><p>首次代理: GoPlay<br />
+二次代理：NEXON</p></td>
 <td style="text-align: left;"><p>營運日期：2015年3月26日<br />
 結束營運：2016年8月15日</p></td>
 </tr>
@@ -84,7 +92,7 @@
 </tbody>
 </table>
 
-本遊戲在[台灣及](../Page/臺灣.md "wikilink")[香港](../Page/香港.md "wikilink")地區由[gamania遊戲橘子代理發行](../Page/遊戲橘子.md "wikilink")\[2\]，[中國大陸地區則由](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[世紀天成代理](https://zh.wikipedia.org/wiki/世紀天成 "wikilink")\[3\]。 另外，本游戏在歐美地區以《Counter-Strike Nexon:Zombies》的名称加入[Steam](../Page/Steam.md "wikilink")，但只對歐美地區開放，並由[Nexon Europe經營](https://zh.wikipedia.org/wiki/Nexon#歐洲 "wikilink")\[4\]
+本遊戲在[台灣及](../Page/臺灣.md "wikilink")[香港](../Page/香港.md "wikilink")地區由[gamania遊戲橘子代理發行](../Page/遊戲橘子.md "wikilink")\[2\]，[中國大陸地區則由](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[世紀天成代理](https://zh.wikipedia.org/wiki/世紀天成 "wikilink")\[3\]。 另外，本游戏在歐美地區以《Counter-Strike Nexon:Zombies》的名称加入[Steam](../Page/Steam.md "wikilink"), 並由[Nexon Europe經營](https://zh.wikipedia.org/wiki/Nexon#歐洲 "wikilink")\[4\]。
 
 ## 遊戲內容
 
@@ -92,37 +100,38 @@
 
 ***常規遊戲模式(＊代表已關閉的模式)***
 
-| 遊戲模式名稱                              | 動態 | 備註 |
-| :---------------------------------- | :- | :- |
-| 团队决战模式                              |    |    |
-| \-{zh-cn:竞技模式 ; zh-tw:經典模式}-        |    |    |
-| 枪王之王                                |    |    |
-| 團隊死鬥                                |    |    |
-| 團隊死鬥(虛擬對手)                          |    |    |
-| 悠遊模式                                |    |    |
-| 軍階排位戰                               |    |    |
-| 国际大赛模式                              |    |    |
-| \-{zh-tw:災厄之章 ; zh-cn:大災變}-         |    |    |
-| \-{zh-tw:殭屍經典 ; zh-cn:生化模式}-        |    |    |
-| \-{zh-tw:殭屍異變 ; zh-cn:生化2(異變)}-     |    |    |
-| \-{zh-tw:殭屍英雄 ; zh-cn:生化3(英雄)}-     |    |    |
-| \-{zh-tw:無界煉獄 ; zh-cn:生化4(暗夜)}-     |    |    |
-| \-{zh-tw:\[殭屍\]模式 ;zh-cn:生化危機(人機)}- |    |    |
-| 殭屍大逃殺                               |    |    |
-| \-{zh-tw:殭屍Z ; zh-cn:生化z}-          |    |    |
-| \-{zh-cn:晝夜求生2 ; zh-tw:新夜襲生存戰}-     |    |    |
-| \-{zh-tw:厄鬥擂台 ; zh-cn:機甲風暴}-        |    |    |
-| 明星鬥陣                                |    |    |
-| 機甲爭霸                                | ＊  |    |
-| \-{zh-cn:道具戰 ; zh-tw:趣味奪寶戰}-        |    |    |
-| \-{zh-tw:挑戰模式 ; zh-cn:極限模式}-        |    |    |
-| 足球模式                                |    |    |
-| 怪獸亂鬥                                |    |    |
-| \-{zh-tw:戰神之章 ; zh-cn:戰慄之章}-        |    |    |
-| \-{zh-tw:偵查事件簿 ; zh-cn:絕命檔案}-       |    |    |
-| 秘密基地                                |    |    |
-| \-{zh-tw:STUDIO創世者 ; zh-cn:締造者模式}-  |    |    |
-| 殭屍直直撞                               |    |    |
+| 遊戲模式名稱                              | 動態 | 備註            |
+| :---------------------------------- | :- | :------------ |
+| 团队决战模式                              |    |               |
+| \-{zh-cn:竞技模式 ; zh-tw:經典模式}-        |    |               |
+| 枪王之王                                |    |               |
+| 團隊死鬥                                |    |               |
+| 團隊死鬥(虛擬對手)                          |    |               |
+| 悠遊模式                                |    |               |
+| 軍階排位戰                               |    |               |
+| 国际大赛模式                              |    |               |
+| \-{zh-tw:災厄之章 ; zh-cn:大災變}-         |    |               |
+| \-{zh-tw:殭屍經典 ; zh-cn:生化模式}-        |    |               |
+| \-{zh-tw:殭屍異變 ; zh-cn:生化2(異變)}-     |    |               |
+| \-{zh-tw:殭屍英雄 ; zh-cn:生化3(英雄)}-     |    |               |
+| \-{zh-tw:無界煉獄 ; zh-cn:生化4(暗夜)}-     |    |               |
+| \-{zh-tw:\[殭屍\]模式 ;zh-cn:生化危機(人機)}- |    |               |
+| 殭屍大逃殺                               |    |               |
+| \-{zh-tw:殭屍Z ; zh-cn:生化z}-          |    |               |
+| \-{zh-cn:晝夜求生2 ; zh-tw:新夜襲生存戰}-     |    |               |
+| \-{zh-tw:厄鬥擂台 ; zh-cn:機甲風暴}-        |    |               |
+| 明星鬥陣                                |    |               |
+| 機甲爭霸                                | ＊  |               |
+| \-{zh-cn:道具戰 ; zh-tw:趣味奪寶戰}-        |    |               |
+| \-{zh-tw:挑戰模式 ; zh-cn:極限模式}-        |    |               |
+| 足球模式                                |    |               |
+| 怪獸亂鬥                                |    |               |
+| \-{zh-tw:戰神之章 ; zh-cn:戰慄之章}-        |    |               |
+| \-{zh-tw:偵查事件簿 ; zh-cn:絕命檔案}-       |    |               |
+| 秘密基地                                |    |               |
+| \-{zh-tw:STUDIO創世者 ; zh-cn:締造者模式}-  |    |               |
+| 殭屍直直撞                               |    |               |
+| 躲貓貓                                 |    | STUDIO創世者限定模式 |
 
   - 軍階排位戰遊戲模式玩法：玩家可利用自動匹配選擇適當的遊戲模式來進行與其他玩家對戰並且累計積分，此時系統也會在每期的軍階戰結束時派獎給予玩家遊戲獎勵
 
@@ -166,13 +175,13 @@
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p>劇情</p></td>
-<td style="text-align: left;"><p>可讓玩家了解遊戲的操作及玩法</p></td>
+<td style="text-align: left;"><p>可讓玩家了解遊戲的操作及玩法(新手教學等)</p></td>
 <td style="text-align: left;"></td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;"><p>密碼箱</p></td>
-<td style="text-align: left;"><p>可讓玩家於商城購買芯片並且可以從密碼箱隨機扭出各種不同的道具</p></td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;"><p>密碼箱(C-BOX)</p></td>
+<td style="text-align: left;"><p>可讓玩家於商城購買芯片(解碼器)並且可以從密碼箱隨機扭出各種不同的道具</p></td>
+<td style="text-align: left;"><p>現在沒有C-BOX系統，只需解碼器即可</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p>紅利商城</p></td>
@@ -191,7 +200,7 @@
 <tr class="even">
 <td style="text-align: left;"><p>特權</p></td>
 <td style="text-align: left;"><p>可以讓玩家享受更多不同的遊戲特色系統優惠 (如：試用遊戲道具)</p></td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;"><p>台服：VIP Pass或VVIP Pass</p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><p>每日簽到</p></td>
@@ -262,8 +271,7 @@ Counter-Strike: Global Offensive（CS:GO）
   - [台灣官方網站](http://tw.beanfun.com/cso/)
   - [香港官方網站](http://hk.beanfun.com/cso/)(網頁已停止更新)
   - [中國官方網站](http://csol.tiancity.com/)
-  - [印尼官方網站](http://www.csonline.co.id/)
-  - [Counter-Strike Nexon: Zombies 官方網站](http://store.steampowered.com/app/273110/)（CSO分支，遊戲內容相同)<small>（附属于[Steam](../Page/Steam.md "wikilink")，仅限欧美用户使用）</small>
+  - [Counter-Strike Nexon: Zombies 官方網站](http://store.steampowered.com/app/273110/)（CSO分支，遊戲內容相同)<small>
 
 <!-- end list -->
 

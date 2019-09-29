@@ -10,7 +10,7 @@ G蛋白偶联受体的下游信号通路有多种。与配体结合的G蛋白偶
 
 [GPCR_classification.svg](https://zh.wikipedia.org/wiki/File:GPCR_classification.svg "fig:GPCR_classification.svg")/信息素）, 其他 (Adhesion (33), Frizzled (11), Taste type-2 (25), unclassified (23)).\[7\]\]\]
 
-G蛋白偶联受体组成了一个非常庞大的（protein superfamily）。这个超家族的具体大小尚未知晓，不过依据DNA序列的相似性，人们预测人类基因组中有约800个基因（约占整个基因组中编码蛋白质的部分的4%）会编码G蛋白偶联受体超家族的成员蛋白。\[8\]\[9\] 这些G蛋白偶联受体可以被大致划分为六个类型，分属其中的G蛋白偶联受体的[基因序列之间没有显著的](https://zh.wikipedia.org/wiki/基因序列 "wikilink")[同源](../Page/同源.md "wikilink")关系。\[10\]\[11\]\[12\]\[13\]
+G蛋白偶联受体组成了一个非常庞大的[蛋白质超家族](../Page/蛋白质超家族.md "wikilink")（protein superfamily）。这个超家族的具体大小尚未知晓，不过依据DNA序列的相似性，人们预测人类基因组中有约800个基因（约占整个基因组中编码蛋白质的部分的4%）会编码G蛋白偶联受体超家族的成员蛋白。\[8\]\[9\] 这些G蛋白偶联受体可以被大致划分为六个类型，分属其中的G蛋白偶联受体的[基因序列之间没有显著的](https://zh.wikipedia.org/wiki/基因序列 "wikilink")[同源](../Page/同源.md "wikilink")关系。\[10\]\[11\]\[12\]\[13\]
 
   - A 类（或 第一类）（）
   - B 类（或 第二类）（）

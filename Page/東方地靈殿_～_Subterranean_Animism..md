@@ -255,7 +255,7 @@
 ### 古明地 覺
 
   - ，Komeiji Satori
-    **種族**：[覺](https://zh.wikipedia.org/wiki/覺 "wikilink")
+    **種族**：[覺](https://zh.wikipedia.org/wiki/覺_\(日本妖怪\) "wikilink")
     **能力**：有讀心術的能力
     **別名**：
       - 　連怨靈也為之所懼的少女（《地靈殿》）
@@ -346,7 +346,7 @@ Extra中頭目。看見靈夢們來到守矢神社，於是就展開了對決。
 ### 古明地 戀
 
   - ，Komeiji Koishi
-    **種族**：[覺](https://zh.wikipedia.org/wiki/覺 "wikilink")
+    **種族**：[覺](https://zh.wikipedia.org/wiki/覺_\(日本妖怪\) "wikilink")
     **能力**：操控無意識的能力
     **別名**：
       - 　封閉的戀之眼（《地靈殿》）

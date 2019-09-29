@@ -42,7 +42,7 @@
   - [HMV 衛蘭 JANICE - MORNING](http://www.hmv.com.hk/ch/product/canto.asp?sku=626278)
   - [新浪-衛蘭《Morning》新碟專訪(I)](https://web.archive.org/web/20160305035820/http://tv.sina.com.hk/cgi-bin/nw/show.cgi?id=c8110e59d86dc1a8)
 
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink") [Category:衛蘭音樂專輯](https://zh.wikipedia.org/wiki/Category:衛蘭音樂專輯 "wikilink")
+[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:香港流行音乐专辑](https://zh.wikipedia.org/wiki/Category:香港流行音乐专辑 "wikilink") [Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink") [Category:衛蘭音樂專輯](https://zh.wikipedia.org/wiki/Category:衛蘭音樂專輯 "wikilink")
 
 1.
 2.

@@ -75,7 +75,7 @@ Hadoop框架透明地為應用提供可靠性和數據移動。它實現了名�
 [Category:Hadoop](https://zh.wikipedia.org/wiki/Category:Hadoop "wikilink") [Category:Java](https://zh.wikipedia.org/wiki/Category:Java "wikilink") [Category:Apache软件基金会](https://zh.wikipedia.org/wiki/Category:Apache软件基金会 "wikilink") [Category:文件系统](https://zh.wikipedia.org/wiki/Category:文件系统 "wikilink") [Category:分散式檔案系統](https://zh.wikipedia.org/wiki/Category:分散式檔案系統 "wikilink")
 
 1.  [Yahoo\! Launches World's Largest Hadoop Production Application (Hadoop and Distributed Computing at Yahoo\!)](http://developer.yahoo.com/blogs/hadoop/2008/02/yahoo-worlds-largest-production-hadoop.html)
-2.  [PoweredBy](http://wiki.apache.org/hadoop/PoweredBy)
+2.
 3.
 4.
 5.

@@ -403,7 +403,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/统一着色器模型" title="wikilink">统一着色器模型</a><br />
 <a href="https://zh.wikipedia.org/wiki/共享内存" title="wikilink">统一内存</a></p></td>
 <td></td>
-<td></td>
+<td><p>14</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -413,7 +413,7 @@
 <tr class="even">
 <td><p>Adreno 610</p></td>
 <td></td>
-<td></td>
+<td><p>11</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -424,8 +424,8 @@
 <tr class="odd">
 <td><p>Adreno 612</p></td>
 <td></td>
-<td></td>
-<td></td>
+<td><p>11</p></td>
+<td><p>845</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -436,47 +436,58 @@
 <td><p>Adreno 615</p></td>
 <td><p>128</p></td>
 <td><p>10</p></td>
+<td><p>700</p></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td><p>358.4</p></td>
 <td><p>QCS603, QCS605, Snapdragon 670</p></td>
 </tr>
 <tr class="odd">
 <td><p>Adreno 616</p></td>
 <td><p>128</p></td>
 <td><p>10</p></td>
-<td><p>500</p></td>
+<td><p>750</p></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td><p>Snapdragon 710 / 730</p></td>
+<td><p>384</p></td>
+<td><p>Snapdragon 710,712,730</p></td>
 </tr>
 <tr class="even">
 <td><p>Adreno 630</p></td>
-<td><p>256x2</p></td>
+<td><p>256x2(HT)</p></td>
 <td><p>10</p></td>
 <td><p>710</p></td>
 <td><p>&gt;500</p></td>
 <td><p>&gt;12</p></td>
 <td><p>15.4[19][20]</p></td>
-<td></td>
+<td><p>727</p></td>
 <td><p>Snapdragon 845 / 850</p></td>
 </tr>
 <tr class="odd">
 <td><p>Adreno 640</p></td>
-<td><p>256x2</p></td>
+<td><p>384[21]</p></td>
+<td><p>7</p></td>
+<td><p>585</p></td>
+<td></td>
+<td><p>9.4</p></td>
+<td><p>28.1</p></td>
+<td><p>954.7[22]</p></td>
+<td><p>Snapdragon 855 / 855+</p></td>
+</tr>
+<tr class="even">
+<td><p>Adreno 680</p></td>
+<td><p>?</p></td>
+<td><p>?</p></td>
 <td><p>7</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td><p>Snapdragon 855 / 855+</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>名称</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/微架构" title="wikilink">微架构</a></p></td>
 <td><p>制程 (<a href="../Page/纳米.md" title="wikilink">nm</a>)</p></td>
@@ -487,7 +498,7 @@
 <td><p>高通芯片中的应用</p></td>
 <td><p>引用</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>架构类型</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/算术逻辑单元" title="wikilink">ALU</a></p></td>
 <td><p>百万三角形/s</p></td>
@@ -597,3 +608,7 @@ Imageon 被设计为[SoC](../Page/系统芯片.md "wikilink")。它于2002年发
 19.
 
 20.
+
+21.
+
+22.

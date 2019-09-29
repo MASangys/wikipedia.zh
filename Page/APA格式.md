@@ -157,7 +157,7 @@ Nix, G. (2002). Lirael, Daughter of the Clayr \[Cassette Recording No. 1999-1999
   - [APA格式文獻引用精靈](http://citationmachine.net/)
   - [APA研究論文撰寫準則](http://www.uwsp.edu/psych/apa4b.htm#II)。
   - [APA style template for tex](https://web.archive.org/web/20070927000937/http://www.ilsp.gr/homepages/protopapas/apacls.html) (.cls)
-  - [How to write footnotes, endnotes, electronic references and bibliographies in a proper format (including APA Style)](http://www.imperialtometric.com/footnote)
+  - [How to write footnotes, endnotes, electronic references and bibliographies in a proper format (including APA Style)](https://web.archive.org/web/20110619074035/http://imperialtometric.com/footnote)
   - [A BibTeX style](http://www.dante.de/CTAN//help/Catalogue/entries/apacite.html) closely following APA style citations (APA Manual 5th ed.), providing a very good match.
   - [APA格式摘要（pdf）](https://web.archive.org/web/20070928082224/http://www.thewritedirection.net/apaguide.net/apaguide.pdf)
 

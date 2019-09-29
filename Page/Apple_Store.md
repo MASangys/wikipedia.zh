@@ -271,7 +271,7 @@ Apple也会在公司发布会宣传零售店的开幕信息，同时在零售店
 | [Apple Festival Walk](https://www.apple.com/hk/retail/festivalwalk/)  | [九龍塘](../Page/九龍塘.md "wikilink")                  | [九龍塘](../Page/九龍塘.md "wikilink")達之路 80 號（又一城）                            | 2012年9月29日  |
 | [Apple Canton Road](https://www.apple.com/hk/retail/cantonroad/)      | [尖沙咀](../Page/尖沙咀.md "wikilink")                  | [尖沙咀](../Page/尖沙咀.md "wikilink")廣東道 100 號                                | 2015年7月30日  |
 | [Apple New Town Plaza](https://www.apple.com/hk/retail/newtownplaza/) | [沙田](https://zh.wikipedia.org/wiki/沙田 "wikilink") | [沙田沙田正街](https://zh.wikipedia.org/wiki/沙田 "wikilink") 18 號（新城市廣場 1 期 L4） | 2016年6月30日  |
-| [Apple apm Hong Kong](https://www.apple.com/hk/retail/apmhongkong/)   | [觀塘](../Page/觀塘.md "wikilink")                    | [觀塘](../Page/觀塘.md "wikilink")觀塘道 418 號                                  | 2016年9月22日  |
+| [Apple apm Hong Kong](https://www.apple.com/hk/retail/apmhongkong/)   | [觀塘](../Page/觀塘.md "wikilink")                    | [觀塘](../Page/觀塘.md "wikilink")觀塘道 418 號（apm）                             | 2016年9月22日  |
 | [Apple Causeway Bay](https://www.apple.com/hk/retail/causewaybay/)    | [銅鑼灣](../Page/銅鑼灣.md "wikilink")                  | [銅鑼灣](../Page/銅鑼灣.md "wikilink")軒尼詩道 500 號（希慎廣場）                         | 2012年12月15日 |
 
 店舖一覽表
@@ -377,7 +377,7 @@ Apple现在已经有超过100家新设计零售店。同时Apple也在将非新�
 3.
 4.
 5.  [ifo Apple Store - Retail Store Hiring](http://www.ifoapplestore.com/stores/hiring.html)
-6.  [Vintage or Bbsolete](http://docs.info.apple.com/article.html?artnum=304210)（蘋果公司官方文件）
+6.  [Vintage or Bbsolete](http://docs.info.apple.com/article.html?artnum=304210) （蘋果公司官方文件）
 7.
 8.
 9.

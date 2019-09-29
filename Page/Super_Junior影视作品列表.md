@@ -850,6 +850,14 @@
 <td><p>利特、希澈、神童、銀赫、東海、始源、厲旭</p></td>
 <td><p>46</p></td>
 </tr>
+<tr class="even">
+<td><p>2019年9月9日 - 至今</p></td>
+<td><p><a href="http://tv.naver.com/sjreturns">NAVER TV</a><br />
+<a href="http://channels.vlive.tv/D744FD">V LIVE</a></p></td>
+<td><p><a href="../Page/SJ_returns_3.md" title="wikilink">SJ Returns 3</a></p></td>
+<td><p>利特、希澈、藝聲、神童、銀赫、東海、始源、厲旭、圭賢</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -868,7 +876,7 @@
 <tbody>
 <tr class="odd">
 <td><p>2008年1月26日－3月29日</p></td>
-<td></td>
+<td><p>Comedy TV</p></td>
 <td><p>了不起的外出第三季</p></td>
 <td><p><a href="../Page/利特.md" title="wikilink">利特</a>、<a href="../Page/藝聲.md" title="wikilink">藝聲</a>、<a href="../Page/強仁.md" title="wikilink">強仁</a>、<br />
 <a href="../Page/神童_(藝人).md" title="wikilink">神童</a>、<a href="../Page/晟敏.md" title="wikilink">晟敏</a>、<a href="../Page/銀赫.md" title="wikilink">銀赫</a>、<a href="https://zh.wikipedia.org/wiki/東海" title="wikilink">東海</a></p></td>
@@ -1037,10 +1045,24 @@ SMG頻道（中國）</p></td>
 <td><p>13</p></td>
 </tr>
 <tr class="odd">
+<td><p>2019年7月5日 - 8月2日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a></p></td>
+<td><p><a href="../Page/姜食堂_(第三季).md" title="wikilink">姜食堂3</a></p></td>
+<td><p><a href="../Page/圭賢.md" title="wikilink">圭賢</a></p></td>
+<td><p>5</p></td>
+</tr>
+<tr class="even">
 <td><p>2019年7月13日－至今</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TV朝鲜" title="wikilink">TV朝鲜</a></p></td>
 <td><p>社区专辑</p></td>
 <td><p><a href="../Page/厲旭.md" title="wikilink">厲旭</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年8月17日－至今</p></td>
+<td><p><a href="../Page/Channel_A.md" title="wikilink">Channel A</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/給狗糧的男人_-_狗貓的旅行" title="wikilink">給狗糧的男人 - 狗貓的旅行</a></p></td>
+<td><p><a href="../Page/希澈.md" title="wikilink">希澈</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -2189,7 +2211,7 @@ SMG頻道（中國）</p></td>
 <td><p>MBC</p></td>
 <td><p><a href="../Page/哥哥的想法.md" title="wikilink">哥哥的想法</a></p></td>
 <td><p>银赫</p></td>
-<td><p><a href="../Page/李尚敏.md" title="wikilink">李尚敏</a>、、<a href="../Page/俞世潤.md" title="wikilink">俞世潤</a>、<a href="https://zh.wikipedia.org/wiki/許景煥" title="wikilink">許景煥</a>、、<a href="../Page/李奎翰.md" title="wikilink">李奎翰</a></p></td>
+<td><p><a href="../Page/李尚敏.md" title="wikilink">李尚敏</a>、<a href="../Page/卓在勳.md" title="wikilink">卓在勳</a>、<a href="../Page/俞世潤.md" title="wikilink">俞世潤</a>、<a href="https://zh.wikipedia.org/wiki/許景煥" title="wikilink">許景煥</a>、、<a href="../Page/李奎翰.md" title="wikilink">李奎翰</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2017年10月2日－2018年1月12日</p></td>
@@ -2295,6 +2317,20 @@ SMG頻道（中國）</p></td>
 <td><p><a href="../Page/一場聲音的戰爭：300.md" title="wikilink">一場聲音的戰爭：300</a>（第二季）</p></td>
 <td><p>神童</p></td>
 <td><p><a href="../Page/姜鎬童.md" title="wikilink">姜鎬童</a>、<a href="https://zh.wikipedia.org/wiki/Boom" title="wikilink">Boom</a></p></td>
+</tr>
+<tr class="even">
+<td><p>2019年6月23日 - 至今</p></td>
+<td><p>JTBC2</p></td>
+<td><p><a href="../Page/RUN.wav.md" title="wikilink">RUN.wav</a></p></td>
+<td><p>圭賢</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年9月12日、13日</p></td>
+<td><p>MBC</p></td>
+<td><p><a href="../Page/偶像明星運動會.md" title="wikilink">偶像明星運動會</a>（中秋特輯）</p></td>
+<td><p>利特</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/全炫茂" title="wikilink">全炫茂</a>、<a href="../Page/多賢.md" title="wikilink">多賢</a></p></td>
 </tr>
 </tbody>
 </table>

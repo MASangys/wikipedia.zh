@@ -55,7 +55,8 @@
   - 2017年5月26日－
   - 2017年12月22日－
   - 2018年5月25日－
-  - 2019年2月28日－SPIRAL\!\!
+  - 2019年2月28日－[SPIRAL\!\!](https://zh.wikipedia.org/wiki/SPIRAL!! "wikilink")
+  - 未定－SHUFFLE\! episode2
 
 <!-- end list -->
 

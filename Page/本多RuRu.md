@@ -1,4 +1,4 @@
-**本多RuRu**，[日本华裔](https://zh.wikipedia.org/wiki/日本华裔 "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")，活躍於日本及華語流行樂壇。出生於[中國](https://zh.wikipedia.org/wiki/中華人民共和國 "wikilink")[遼寧省](https://zh.wikipedia.org/wiki/遼寧省 "wikilink")[瀋陽市](https://zh.wikipedia.org/wiki/瀋陽市 "wikilink")，曾為[日本](../Page/日本.md "wikilink")女子組合[太陽與月亮](../Page/太陽與月亮.md "wikilink")的成員之一。
+**本多RuRu**，原名**郭嘉露**，[日本华裔](https://zh.wikipedia.org/wiki/日本华裔 "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")，活躍於日本及華語流行樂壇。出生於[中國](https://zh.wikipedia.org/wiki/中華人民共和國 "wikilink")[遼寧省](https://zh.wikipedia.org/wiki/遼寧省 "wikilink")[瀋陽市](https://zh.wikipedia.org/wiki/瀋陽市 "wikilink")，曾為[日本](../Page/日本.md "wikilink")女子組合[太陽與月亮](../Page/太陽與月亮.md "wikilink")的成員之一。
 
 ## 出道過程
 

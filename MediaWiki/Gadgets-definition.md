@@ -24,7 +24,6 @@
   - link-ts\[ResourceLoader\]|link-ts.js
   - easy-archive\[ResourceLoader\]|easy-archive.js
   - edit-count\[ResourceLoader\]|edit-count.js
-  - dcparticipant\[ResourceLoader|dependencies=ext.gadget.site-lib,jquery.ui.dialog,mediawiki.util,jquery.cookie,oojs-ui-core,oojs-ui-windows|default|rights=autoconfirmed\]|dcparticipant.js
 
 ## editbutton
 
@@ -37,7 +36,7 @@
 ## browser
 
   - Navigation_popups\[ResourceLoader|dependencies=ext.gadget.site-lib|type=general\]|popups.js|popups.css
-  - removeAccessKeys\[ResourceLoader|dependencies=jquery.accessKeyLabel\]|removeAccessKeys.js
+  - removeAccessKeys\[ResourceLoader|dependencies=mediawiki.util\]|removeAccessKeys.js
   - UTCLiveClock\[ResourceLoader\]|UTCLiveClock.js
   - contribsrange\[ResourceLoader|dependencies=mediawiki.util,jquery.spinner,ext.gadget.site-lib\]|contribsrange.js
   - shareTool\[ResourceLoader|dependencies=ext.gadget.site-lib\]|shareTool.js|shareTool.css

@@ -43,7 +43,7 @@ ACE的第二个实现是，由艾伦·库姆斯（Allen Coombs）和威廉·钱�
   -
 ## 外部链接
 
-  - [Events in the history of NPL — ACE computer](http://www.npl.co.uk/server.php?show=nav.296)
+  - [Events in the history of NPL — ACE computer](http://webarchive.nationalarchives.gov.uk/20080710161217/http%3A//www.npl.co.uk/server.php?show%3Dnav.296)
 
 ## 参见
 

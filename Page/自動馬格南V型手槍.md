@@ -37,7 +37,7 @@
 
   - [沙漠之鷹](../Page/沙漠之鷹手槍.md "wikilink")（Desert Eagle）
 
-  - [灰熊V型](../Page/灰熊溫徹斯特馬格南手槍.md "wikilink")（）
+  - [灰熊V型](https://zh.wikipedia.org/wiki/灰熊溫徹斯特馬格南半自動手槍 "wikilink")（）
 
   - [史密斯威森M500](../Page/史密斯威森M500左輪手槍.md "wikilink")（）
 

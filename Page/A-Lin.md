@@ -122,7 +122,7 @@
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>10</p></td>
-<td style="text-align: center;"><p><strong>悲傷過後</strong></p></td>
+<td style="text-align: center;"><p><strong>籌備中</strong></p></td>
 <td style="text-align: center;"><p>預計2020</p></td>
 <td style="text-align: center;"><p><a href="../Page/台灣索尼音樂娛樂.md" title="wikilink">台灣索尼音樂娛樂</a></p></td>
 <td style="text-align: center;"></td>

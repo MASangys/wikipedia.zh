@@ -13,6 +13,10 @@
   - 本作為第二張原創專輯《[LOVEppears](../Page/LOVEppears.md "wikilink")》實質的先行單曲。
   - 本作發行時，與當時聲勢如日中天的歌姬[宇多田光](../Page/宇多田光.md "wikilink")發行的單曲《[Addicted To You](../Page/Addicted_To_You.md "wikilink")》對打，宇多田挾著首張原創專輯《[First Love](https://zh.wikipedia.org/wiki/First_Love "wikilink")》大賣765萬張的氣勢，單曲發行後首週大破106萬，使濱崎步的《**appears**》屈居第二（此作完全限定生產30萬張）。
 
+## 二十周年紀念復刻版
+
+本作與《[LOVEppears](../Page/LOVEppears.md "wikilink")》發行後於二十週年，再次於2019年11月10日發行紀念復刻版《LOVEppears / appears -20th Anniversary Edition-》。
+
 ## 收錄歌曲
 
 全曲作詞：濱崎步

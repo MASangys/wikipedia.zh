@@ -833,7 +833,9 @@ Anastasia</strong></p></td>
 <td><p><strong>李時謙</strong></p></td>
 <td><p>《隨時一叮》主持<br />
 徐詠虹之夫<br />
-林家希之情敌</p></td>
+林家希之情敌<br />
+杀害徐咏虹之真兇<br />
+于第10集被捕</p></td>
 <td></td>
 </tr>
 <tr class="odd">

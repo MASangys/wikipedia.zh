@@ -2,9 +2,9 @@ Astro頻道|Astro{{\!}}Astro頻道\]\]}}  **Astro AOD**是[马來西亚](https:/
 
 ## 簡介
 
-**Astro On Demand劇集首映**于2007年7月16日正式启播，该频道的标语是**「港剧潮流，顶级享受」**，该频道与香港同步播出最新、最热播的香港TVB剧集。此外**Astro On Demand HD**于2013年6月3日正式启播，该频道备有[粤语](../Page/粤语.md "wikilink")及[华语双声道服务](https://zh.wikipedia.org/wiki/华语 "wikilink")，同时也备有[中文及](https://zh.wikipedia.org/wiki/中文 "wikilink")[马来语](../Page/马来语.md "wikilink")字幕服务。
+Astro On Demand劇集首映于2007年7月16日正式启播，该频道的标语是「港剧潮流，顶级享受」，该频道与香港同步播出最新、最热播的香港TVB剧集。此外Astro On Demand HD'''于2013年6月3日正式启播，该频道备有[粤语](../Page/粤语.md "wikilink")及[华语双声道服务](https://zh.wikipedia.org/wiki/华语 "wikilink")，同时也备有[中文及](https://zh.wikipedia.org/wiki/中文 "wikilink")[马来语](../Page/马来语.md "wikilink")字幕服务。
 
-**Astro On Demand劇集首映**于2017年5月，正式改名為「**Astro AOD**」。
+Astro On Demand劇集首映于2017年5月，正式改名為「Astro AOD」。
 
 另一方面，该公司另一产品亦是相同名称"Astro On Demand"（亦称 Astro Go），为网络点播服务。该台所有戏剧将在首播时间同步更新相关集数。
 
@@ -46,8 +46,8 @@ Astro頻道|Astro{{\!}}Astro頻道\]\]}}  **Astro AOD**是[马來西亚](https:/
 | [財神駕到](https://zh.wikipedia.org/wiki/財神駕到 "wikilink")         | 2017年1月9日   | 2017年1月9日   | 由[Astro華麗台](../Page/Astro華麗台.md "wikilink")、[Astro華麗台HD首播](https://zh.wikipedia.org/wiki/Astro華麗台HD "wikilink")   | 已播畢    |
 | [愛·回家之開心速遞](../Page/愛·回家之開心速遞.md "wikilink")                  | 2017年2月20日  | 2017年2月20日  | 由[Astro華麗台](../Page/Astro華麗台.md "wikilink")、[Astro華麗台HD首播](https://zh.wikipedia.org/wiki/Astro華麗台HD "wikilink")   | 播放中    |
 | [愛情沒有來的時候](https://zh.wikipedia.org/wiki/愛情沒有來的時候 "wikilink") | 2018年8月5日   | 2019年2月5日   | 由[Astro華麗台](../Page/Astro華麗台.md "wikilink")、[Astro華麗台HD首播](https://zh.wikipedia.org/wiki/Astro華麗台HD "wikilink")   | 已播畢    |
-| [廉政行動2019](../Page/廉政行動2019.md "wikilink")                    | 2019年4月6日   | 2019年5月12日  | 由[Astro華麗台](../Page/Astro華麗台.md "wikilink")、[Astro華麗台HD首播](https://zh.wikipedia.org/wiki/Astro華麗台HD "wikilink")   | 播放中    |
-| [機動部隊2019](../Page/機動部隊2019.md "wikilink")                    | 2019年5月12日  | 2019年5月19日  | 由[Astro華麗台](../Page/Astro華麗台.md "wikilink")、[Astro華麗台HD首播](https://zh.wikipedia.org/wiki/Astro華麗台HD "wikilink")   | 播放中    |
+| [廉政行動2019](../Page/廉政行動2019.md "wikilink")                    | 2019年4月6日   | 2019年5月12日  | 由[Astro華麗台](../Page/Astro華麗台.md "wikilink")、[Astro華麗台HD首播](https://zh.wikipedia.org/wiki/Astro華麗台HD "wikilink")   | 已播畢    |
+| [機動部隊2019](../Page/機動部隊2019.md "wikilink")                    | 2019年5月12日  | 2019年5月19日  | 由[Astro華麗台](../Page/Astro華麗台.md "wikilink")、[Astro華麗台HD首播](https://zh.wikipedia.org/wiki/Astro華麗台HD "wikilink")   | 已播畢    |
 
 ## Astro AOD電視劇集列表
 

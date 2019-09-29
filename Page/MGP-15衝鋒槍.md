@@ -4,7 +4,7 @@
 
 ## 歷史
 
-MGP-15在1990年開始生產。\[3\] 在裝備MGP-15後的[秘鲁](https://zh.wikipedia.org/wiki/秘鲁軍隊 "wikilink")[特種部隊](../Page/特種部隊.md "wikilink")後不久就開始取代[白朗寧大威力](../Page/白朗寧大威力手槍.md "wikilink")[手枪](../Page/手枪.md "wikilink")（Browning Hi-Power）。\[4\]
+MGP-15在1990年開始生產。\[3\] 在裝備MGP-15後的[秘鲁](https://zh.wikipedia.org/wiki/秘鲁軍隊 "wikilink")[特種部隊](../Page/特種部隊.md "wikilink")後不久就開始取代[白朗寧大威力](https://zh.wikipedia.org/wiki/白朗寧大威力半自動手槍 "wikilink")[半自動](../Page/半自動手槍.md "wikilink")[手枪](../Page/手枪.md "wikilink")（Browning Hi-Power）。\[4\]
 
 ## 設計
 

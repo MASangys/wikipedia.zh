@@ -40,37 +40,13 @@ Astro華麗台自2004年起的每一年都會舉辦《[Astro華麗台電視劇�
 
 ## Astro自製（本地圈節目）及合拍粵語節目/電視劇
 
-### 正在播出電視節目
+### 即將播出電視節目
 
-<table style="width:140%;">
-<colgroup>
-<col style="width: 17%" />
-<col style="width: 18%" />
-<col style="width: 70%" />
-<col style="width: 35%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><p><strong>節目名稱</strong></p></td>
-<td><p><strong>主持人</strong></p></td>
-<td><p><strong>最新一季</strong></p></td>
-<td><p><strong>節目內容</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>旅神ON CALL</p></td>
-<td><p>彭嘉伊、張吟、劉愷欣、林震前</p></td>
-<td><p>2019年5月19日</p></td>
-<td><p>《ASTRO國際華裔小姐2018》三甲彭嘉伊、張吟和劉愷欣3位女神量身定做的旅遊節目，與嘉賓團友林震前一起介紹韓國旅遊景點<br />
-</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+|                                                                             |                                                                                                                                                                           |             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **節目名稱**                                                                    | **主持人**                                                                                                                                                                   | **最新一季**    | **節目內容**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| 仨心友行                                                                        | [龔嘉欣](https://zh.wikipedia.org/wiki/龔嘉欣 "wikilink")、[陳敏之](../Page/陳敏之.md "wikilink")、[高海寧](../Page/高海寧.md "wikilink")、[陳凱琳](https://zh.wikipedia.org/wiki/陳凱琳 "wikilink") | 2019年11月17日 | [Astro與](https://zh.wikipedia.org/wiki/Astro "wikilink")[TVB合作拍攝的旅遊節目](https://zh.wikipedia.org/wiki/TVB "wikilink")，拍攝地點包括[雪蘭莪](../Page/雪蘭莪.md "wikilink")、[彭亨](../Page/彭亨.md "wikilink")、[登嘉樓](../Page/登嘉樓.md "wikilink")和[吉蘭丹](https://zh.wikipedia.org/wiki/吉蘭丹 "wikilink")。節目共有8集，[龔嘉欣和](https://zh.wikipedia.org/wiki/龔嘉欣 "wikilink")[陳敏之](../Page/陳敏之.md "wikilink")將主持全集，而高[高海寧](../Page/高海寧.md "wikilink")負責第1集至第4集主持，第5集至第8集由[陳凱琳主持](https://zh.wikipedia.org/wiki/陳凱琳 "wikilink")。除此之外，[黎諾懿](../Page/黎諾懿.md "wikilink")將會擔任此旅遊節目嘉賓。節目將於2019年11月17日晚上9:00播出。\[2\] |
+| [Astro國際華裔小姐競選2019](https://zh.wikipedia.org/wiki/Astro國際華裔小姐競選 "wikilink") |                                                                                                                                                                           | 2019年       | 8強佳麗名單包括(排名不分先後)：陈丽璇、马琳溦、方歆儿、陈葭晏 、陈俐瑜、张简宁、廖贝仪和刘丝儿。\[3\]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 
 ### 暫時播畢電視節目
 
@@ -256,7 +232,7 @@ Astro華麗台自2004年起的每一年都會舉辦《[Astro華麗台電視劇�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>[2]</p></td>
+<td><p>[4]</p></td>
 <td><p><a href="../Page/王貽興.md" title="wikilink">王貽興</a>、<a href="https://zh.wikipedia.org/wiki/:yue:劉翁" title="wikilink">劉　翁</a>、<a href="../Page/陳國邦.md" title="wikilink">陳國邦</a>、<br />
 <a href="../Page/江若琳.md" title="wikilink">江若琳</a>、<a href="../Page/艾威.md" title="wikilink">艾　威</a>、<a href="../Page/詹瑞文.md" title="wikilink">詹瑞文</a>、<br />
 <a href="../Page/楊淇_(香港演員).md" title="wikilink">楊　淇</a>、<a href="../Page/樓南光.md" title="wikilink">樓南光</a>、<a href="../Page/岑珈其.md" title="wikilink">岑珈其</a>、<br />
@@ -269,7 +245,7 @@ Astro華麗台自2004年起的每一年都會舉辦《[Astro華麗台電視劇�
 <td><p><a href="http://www.xuan.com.my/channels/wlt/article/20695/%E9%98%B3%E5%85%B3%E9%81%93">網頁</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/蝕日風暴" title="wikilink">蝕日風暴</a>[3]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蝕日風暴" title="wikilink">蝕日風暴</a>[5]</p></td>
 <td><p><a href="../Page/張智霖.md" title="wikilink">張智霖</a>、<a href="https://zh.wikipedia.org/wiki/薛凱琪" title="wikilink">薛凱琪</a>、<a href="https://zh.wikipedia.org/wiki/王陽明" title="wikilink">王陽明</a>、<br />
 <a href="https://zh.wikipedia.org/wiki/梁漢文" title="wikilink">梁漢文</a>、<a href="https://zh.wikipedia.org/wiki/陳瑾如" title="wikilink">陳瑾如</a>、<a href="https://zh.wikipedia.org/wiki/李思函" title="wikilink">李思函</a>、<br />
 <a href="../Page/梁靖琪.md" title="wikilink">梁靖琪</a>、<a href="../Page/秦沛.md" title="wikilink">秦　沛</a>、<a href="../Page/劉兆銘.md" title="wikilink">劉兆銘</a>、<br />
@@ -442,7 +418,7 @@ Astro華麗台自2004年起的每一年都會舉辦《[Astro華麗台電視劇�
 <td><p>堪輿百子櫃</p></td>
 <td><p>葉威明（Joey Yap）、王翠玲</p></td>
 <td><p>2014年</p></td>
-<td><p>|本地圈全新堪輿節目。本節目將分為三個環節：“大馬之窗”、“师傅赠两句”和“相由心生”。“大馬之窗”探討<a href="../Page/巴生谷.md" title="wikilink">巴生谷</a>一代的重點發展地區，並探討風水對這些地方的影響。“师傅赠两句”則專注講解室內風水，而“相由心生”則探討個人風水，如：面相和掌紋。[4]</p></td>
+<td><p>|本地圈全新堪輿節目。本節目將分為三個環節：“大馬之窗”、“师傅赠两句”和“相由心生”。“大馬之窗”探討<a href="../Page/巴生谷.md" title="wikilink">巴生谷</a>一代的重點發展地區，並探討風水對這些地方的影響。“师傅赠两句”則專注講解室內風水，而“相由心生”則探討個人風水，如：面相和掌紋。[6]</p></td>
 <td><p><a href="https://www.facebook.com/bendiquan/">網站</a></p></td>
 </tr>
 <tr class="even">
@@ -476,7 +452,7 @@ Astro華麗台自2004年起的每一年都會舉辦《[Astro華麗台電視劇�
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/TVB_馬來西亞星光薈萃頒獎典禮" title="wikilink">TVB 馬來西亞星光薈萃頒獎典禮</a></p></td>
 <td><p>（2013年）<a href="../Page/黎芷珊.md" title="wikilink">黎芷珊</a>、<a href="../Page/王祖藍.md" title="wikilink">王祖藍</a>、<a href="../Page/周奕瑋.md" title="wikilink">周奕瑋</a><br />
-（2014年）<a href="../Page/黎芷珊.md" title="wikilink">黎芷珊</a>、<a href="../Page/周奕瑋.md" title="wikilink">周奕瑋</a>、<a href="../Page/林盛斌.md" title="wikilink">林盛斌</a>、<a href="../Page/黃曉明_(香港).md" title="wikilink">黃曉明</a>[5]<br />
+（2014年）<a href="../Page/黎芷珊.md" title="wikilink">黎芷珊</a>、<a href="../Page/周奕瑋.md" title="wikilink">周奕瑋</a>、<a href="../Page/林盛斌.md" title="wikilink">林盛斌</a>、<a href="../Page/黃曉明_(香港).md" title="wikilink">黃曉明</a>[7]<br />
 （2015年）<a href="../Page/黎芷珊.md" title="wikilink">黎芷珊</a>、<a href="../Page/林盛斌.md" title="wikilink">林盛斌</a>、<a href="../Page/周奕瑋.md" title="wikilink">周奕瑋</a>、<a href="../Page/朱智賢.md" title="wikilink">朱智賢</a><br />
 （2016年）<a href="../Page/鄭裕玲.md" title="wikilink">鄭裕玲</a>、<a href="../Page/農夫_(組合).md" title="wikilink">農 夫</a>、<a href="../Page/周奕瑋.md" title="wikilink">周奕瑋</a>、<a href="../Page/朱智賢.md" title="wikilink">朱智賢</a><br />
 （2017年）<a href="../Page/鄭裕玲.md" title="wikilink">鄭裕玲</a>、<a href="../Page/農夫_(組合).md" title="wikilink">農夫</a>、<a href="../Page/周奕瑋.md" title="wikilink">周奕瑋</a>、<a href="../Page/麥美恩.md" title="wikilink">麥美恩</a>、<a href="../Page/陸浩明.md" title="wikilink">陸浩明</a></p></td>
@@ -511,6 +487,14 @@ Astro華麗台自2004年起的每一年都會舉辦《[Astro華麗台電視劇�
 <td><p><a href="https://web.facebook.com/WahLaiToi/">網頁</a></p></td>
 </tr>
 <tr class="even">
+<td><p>旅神ON CALL</p></td>
+<td><p>彭嘉伊、張吟、劉愷欣、林震前</p></td>
+<td><p>2019年</p></td>
+<td><p>《ASTRO國際華裔小姐2018》三甲彭嘉伊、張吟和劉愷欣3位女神量身定做的旅遊節目，與嘉賓團友林震前一起介紹韓國旅遊景點<br />
+</p></td>
+<td><p><a href="https://web.facebook.com/WahLaiToi/">網頁</a></p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -737,7 +721,9 @@ Astro華麗台自2004年起的每一年都會舉辦《[Astro華麗台電視劇�
 [Category:Astro](https://zh.wikipedia.org/wiki/Category:Astro "wikilink") [Category:電視廣播有限公司電視頻道](https://zh.wikipedia.org/wiki/Category:電視廣播有限公司電視頻道 "wikilink") [Category:馬來西亞電視台](https://zh.wikipedia.org/wiki/Category:馬來西亞電視台 "wikilink") [Category:粵語電視頻道](https://zh.wikipedia.org/wiki/Category:粵語電視頻道 "wikilink")
 
 1.
-2.  [Astro跨国投资拍港剧《阳关道》！请出陈国邦、江若琳参与演出！](http://www.xuan.com.my/entertainment/article/18545/Astro%E8%B7%A8%E5%9B%BD%E6%8A%95%E8%B5%84%E6%8B%8D%E6%B8%AF%E5%89%A7-%E9%98%B3%E5%85%B3%E9%81%93-%E8%AF%B7%E5%87%BA%E9%99%88%E5%9B%BD%E9%82%A6-%E6%B1%9F%E8%8B%A5%E7%90%B3%E5%8F%82%E4%B8%8E%E6%BC%94%E5%87%BA)
-3.  [【港剧《蚀日风暴》来马取景】 张智霖剧内坎坷戏外享受 薛凯琪“太甜”被令不准笑](http://www.kwongwah.com.my/?p=464577)
-4.
-5.
+2.  [1](https://www.sinchew.com.my/content/content_2117645.html%7C大赞我国男生纯朴‧龚嘉欣要当大马媳妇)
+3.  \[<http://www.xuan.com.my/2019/macip/news/article/30959/Astro%E5%9B%BD%E9%99%85%E5%8D%8E%E8%A3%94%E5%B0%8F%E5%A7%902019-%E5%85%AB%E5%BC%BA%E5%A5%B3%E7%A5%9E%E8%AF%9E%E7%94%9F-%E5%A4%9A%E4%BD%8D%E4%B8%93%E4%B8%9A%E9%A2%86%E5%9F%9F%E5%A5%B3%E7%A5%9E%E5%8D%B3%E5%B0%86%E5%B1%95%E5%BC%80%E7%BE%8E%E4%B8%BD%E4%BA%89%E5%A4%BA>|【Astro国际华裔小姐2019】八强女神诞生！多位专业领域女神即将展开美丽争夺\]
+4.  [Astro跨国投资拍港剧《阳关道》！请出陈国邦、江若琳参与演出！](http://www.xuan.com.my/entertainment/article/18545/Astro%E8%B7%A8%E5%9B%BD%E6%8A%95%E8%B5%84%E6%8B%8D%E6%B8%AF%E5%89%A7-%E9%98%B3%E5%85%B3%E9%81%93-%E8%AF%B7%E5%87%BA%E9%99%88%E5%9B%BD%E9%82%A6-%E6%B1%9F%E8%8B%A5%E7%90%B3%E5%8F%82%E4%B8%8E%E6%BC%94%E5%87%BA)
+5.  [【港剧《蚀日风暴》来马取景】 张智霖剧内坎坷戏外享受 薛凯琪“太甜”被令不准笑](http://www.kwongwah.com.my/?p=464577)
+6.
+7.

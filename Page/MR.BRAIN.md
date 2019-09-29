@@ -23,7 +23,7 @@
 
 ### 科學警察研究所（I.P.S）
 
-  - 九十九龍介 - （[木村拓哉](../Page/木村拓哉.md "wikilink")（[SMAP](../Page/SMAP.md "wikilink")）飾）（粵語配音：[蘇強文](../Page/蘇強文.md "wikilink")）
+  - 九十九龍介 - （[木村拓哉](../Page/木村拓哉.md "wikilink")（[SMAP](../Page/SMAP.md "wikilink")）飾）（粵語配音：[蘇強文](../Page/蘇強文.md "wikilink")（TVB）、[羅偉傑](../Page/羅偉傑.md "wikilink")（有線））
 
 <!-- end list -->
 
@@ -80,7 +80,7 @@
 
 <!-- end list -->
 
-  - 夏目光男 - （（[爆笑問題](https://zh.wikipedia.org/wiki/爆笑問題 "wikilink")）飾）（粵語配音：[陳永信](../Page/陳永信.md "wikilink")）
+  - 夏目光男 - （（[爆笑問題](https://zh.wikipedia.org/wiki/爆笑問題 "wikilink")）飾）（粵語配音：[陳永信](../Page/陳永信.md "wikilink")（TVB）、[鄧肇基](../Page/鄧肇基.md "wikilink")（有線））
 
 <!-- end list -->
 
@@ -89,7 +89,7 @@
 
 <!-- end list -->
 
-  - 難波丈太郎 - （（[Ulfuls](https://zh.wikipedia.org/wiki/Ulfuls "wikilink")）飾）（粵語配音：[陳欣](https://zh.wikipedia.org/wiki/陳欣 "wikilink")）
+  - 難波丈太郎 - （（[Ulfuls](https://zh.wikipedia.org/wiki/Ulfuls "wikilink")）飾）（粵語配音：[陳欣](https://zh.wikipedia.org/wiki/陳欣 "wikilink")（TVB）、[黃志明](../Page/黃志明_\(香港\).md "wikilink")（有線））
 
 <!-- end list -->
 
@@ -98,7 +98,7 @@
 
 <!-- end list -->
 
-  - 大内浩一 - （飾）（粵語配音：[黃榮璋](../Page/黃榮璋.md "wikilink")）
+  - 大内浩一 - （飾）（粵語配音：[黃榮璋](../Page/黃榮璋.md "wikilink")（TVB）、[鄧肇基](../Page/鄧肇基.md "wikilink")（有線））
 
 <!-- end list -->
 
@@ -107,7 +107,7 @@
 
 <!-- end list -->
 
-  - 真理子 - （飾）（粵語配音：[朱妙蘭](../Page/朱妙蘭.md "wikilink")）
+  - 真理子 - （飾）（粵語配音：[朱妙蘭](../Page/朱妙蘭.md "wikilink")（TVB）、[鄭家蕙](../Page/鄭家蕙.md "wikilink")（有線））
 
 <!-- end list -->
 
@@ -138,7 +138,7 @@
 
 ### 警視廳
 
-  - 林田虎之助 - （[水嶋宏飾](https://zh.wikipedia.org/wiki/水嶋宏 "wikilink")）（粵語配音：[李致林](../Page/李致林.md "wikilink")）
+  - 林田虎之助 - （[水嶋宏飾](https://zh.wikipedia.org/wiki/水嶋宏 "wikilink")）（粵語配音：[李致林](../Page/李致林.md "wikilink")（TVB）、[鄧肇基](../Page/鄧肇基.md "wikilink")（有線））
 
 <!-- end list -->
 
@@ -174,7 +174,7 @@
 
 #### 第一集
 
-  - 女客人 - [戶田惠子](../Page/戶田惠子.md "wikilink")（粵語配音：[黃鳳英](../Page/黃鳳英.md "wikilink")）
+  - 女客人 - [戶田惠子](../Page/戶田惠子.md "wikilink")（粵語配音：[黃鳳英](../Page/黃鳳英.md "wikilink")（TVB）、[顧詠雪](../Page/顧詠雪.md "wikilink")（有線））
   - 女子 - [廣末涼子](../Page/廣末涼子.md "wikilink")（粵語配音：[林芷筠](../Page/林芷筠.md "wikilink")）
   - 船田勉 - （粵語配音：[張錦江](../Page/張錦江.md "wikilink")）
 
@@ -285,7 +285,7 @@
 
 #### 第四集～第五集（前半）
 
-  - 中川優 - [佐藤健](../Page/佐藤健.md "wikilink")（粵語配音：[李凱傑](../Page/李凱傑.md "wikilink")）
+  - 中川優 - [佐藤健](../Page/佐藤健.md "wikilink")（粵語配音：[李凱傑](../Page/李凱傑.md "wikilink")（TVB）、[杜景煜](../Page/杜景煜.md "wikilink")（有線））
   - 中川純 - [木村多江](../Page/木村多江.md "wikilink")（粵語配音：[梁少霞](https://zh.wikipedia.org/wiki/梁少霞 "wikilink")）
   - 八木仁 - [東儀秀樹](../Page/東儀秀樹.md "wikilink")（粵語配音：[招世亮](../Page/招世亮.md "wikilink")）
   - 木下莊治 - （粵語配音：[陳永信](../Page/陳永信.md "wikilink")）

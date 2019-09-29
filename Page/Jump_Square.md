@@ -18,9 +18,9 @@
 
 ## 連載漫畫
 
-|  |                          |
-|  | ------------------------ |
-|  | 2019年3月4日（2019年4月號）現在連載中 |
+|  |                           |
+|  | ------------------------- |
+|  | 2019年9月4日（2019年10月號）現在連載中 |
 
 <table>
 <thead>
@@ -1135,11 +1135,11 @@
 </tr>
 <tr class="odd">
 <td><p>109</p></td>
-<td><p><strong></strong></p></td>
+<td></td>
 <td></td>
 <td><p>－</p></td>
 <td><p>2018.11</p></td>
-<td><p>連載中</p></td>
+<td><p>2019.09</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1307,12 +1307,12 @@
 </tr>
 <tr class="odd">
 <td><p>11</p></td>
-<td><p><strong><a href="../Page/刀劍亂舞.md" title="wikilink">活擊 刀劍亂舞</a></strong></p></td>
+<td><p><a href="../Page/刀劍亂舞.md" title="wikilink">活擊 刀劍亂舞</a></p></td>
 <td><p>津田穗波（作畫）</p></td>
 <td><p>「<a href="../Page/刀劍亂舞.md" title="wikilink">刀劍亂舞 -ONLINE-</a>」<br />
 <small>（<a href="../Page/DMM.com.md" title="wikilink">DMM GAMES</a>／<a href="https://zh.wikipedia.org/wiki/Nitroplus" title="wikilink">Nitroplus</a>）</small>（原案）</p></td>
 <td><p>2018.01</p></td>
-<td><p>連載中</p></td>
+<td><p>2019.07</p></td>
 <td><p>←本誌</p></td>
 </tr>
 </tbody>

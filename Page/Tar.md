@@ -2,17 +2,15 @@
 
 ## 概览
 
-[Unix和](https://zh.wikipedia.org/wiki/Unix "wikilink")[类Unix系统](../Page/类Unix系统.md "wikilink")上的压缩打包工具，可以将多个[文件合并为一个文件](https://zh.wikipedia.org/wiki/文件 "wikilink")，打包后的[文件名亦为](https://zh.wikipedia.org/wiki/文件名 "wikilink")“tar”。目前，tar文件格式已经成为[POSIX标准](https://zh.wikipedia.org/wiki/POSIX "wikilink")，最初是POSIX.1-1988，目前是POSIX.1-2001。本程序最初的设计目的是将文件备份到[磁带](../Page/磁带.md "wikilink")上（**t**ape **ar**chive），因而得名tar。
+[Unix和](https://zh.wikipedia.org/wiki/Unix "wikilink")[类Unix系统](../Page/类Unix系统.md "wikilink")上的归档打包工具，可以将多个[文件合并为一个文件](https://zh.wikipedia.org/wiki/文件 "wikilink")，打包后的[文件名亦为](https://zh.wikipedia.org/wiki/文件名 "wikilink")“tar”。目前，tar文件格式已经成为[POSIX标准](https://zh.wikipedia.org/wiki/POSIX "wikilink")，最初是POSIX.1-1988，目前是POSIX.1-2001。本程序最初的设计目的是将文件备份到[磁带](../Page/磁带.md "wikilink")上（**t**ape **ar**chive），因而得名tar。
 
 ## 版本
 
-常用的tar是[自由软件基金会](../Page/自由软件基金会.md "wikilink")开发的[GNU](../Page/GNU.md "wikilink")版，目前的稳定版本是1.28，发布于
-
-同时，它有多个压缩率不同的版本，如tar.xz和tar.gz，前者的压缩率更高，但可能有兼容性问题。
+常用的tar是[自由软件基金会](../Page/自由软件基金会.md "wikilink")开发的[GNU](../Page/GNU.md "wikilink")版，目前的稳定版本是1.32，发布于。
 
 ## 缩写
 
-[Targzip.svg](https://zh.wikipedia.org/wiki/File:Targzip.svg "fig:Targzip.svg")，来生成压缩文档。如图所示，结合档案中的文件被压缩为一个单位。\]\] tar代表未压缩的tar文件。已压缩的tar文件则附加[压缩文件的](https://zh.wikipedia.org/wiki/压缩文件 "wikilink")[扩展名](https://zh.wikipedia.org/wiki/扩展名 "wikilink")，如经过gzip压缩后的tar文件，扩展名为“.tar.gz”。由于受到[DOS](../Page/DOS.md "wikilink")8.3文件名格式的限制，常使用下列缩写：
+[Targzip.svg](https://zh.wikipedia.org/wiki/File:Targzip.svg "fig:Targzip.svg")，来生成压缩文档。如图所示，结合档案中的文件被压缩为一个单位。\]\] tar代表未压缩的tar文件。已压缩的tar文件则附加[数据压缩](../Page/数据压缩.md "wikilink")格式的[扩展名](https://zh.wikipedia.org/wiki/扩展名 "wikilink")，如经过gzip压缩后的tar文件，扩展名为“.tar.gz”。由于受到[DOS](../Page/DOS.md "wikilink")8.3文件名格式的限制，常使用下列缩写：
 
   - .tgz等价于.tar.gz
   - .tbz与tb2等价于.tar.bz2

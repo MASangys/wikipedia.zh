@@ -714,15 +714,15 @@ LifeTV网络投选我最喜爱佳丽獎: <a href="https://zh.wikipedia.org/wiki/
 <td></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p><strong>2019年</strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陈丽璇" title="wikilink">陈丽璇</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/马琳溦" title="wikilink">马琳溦</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/方歆儿" title="wikilink">方歆儿</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陈葭晏" title="wikilink">陈葭晏</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陈俐瑜" title="wikilink">陈俐瑜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/张简宁" title="wikilink">张简宁</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/廖贝仪" title="wikilink">廖贝仪</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/刘丝儿" title="wikilink">刘丝儿</a></p></td>
 <td></td>
 <td></td>
 <td></td>

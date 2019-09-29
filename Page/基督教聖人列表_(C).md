@@ -609,7 +609,7 @@
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/:en:Pope_Cornelius" title="wikilink">Pope Cornelius</a></p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/教宗科尔乃略" title="wikilink">教宗科尔乃略</a></p></td>
+<td><p><a href="../Page/教宗科尔乃略.md" title="wikilink">教宗科尔乃略</a></p></td>
 <td><p> </p></td>
 <td><p> </p></td>
 <td><p>253</p></td>

@@ -1,4 +1,4 @@
-**Internet Download Manager**（簡稱**IDM**）是一個用於[Windows繫統的](https://zh.wikipedia.org/wiki/Windows "wikilink")[下載管理器](https://zh.wikipedia.org/wiki/下載管理程序 "wikilink")。
+**Internet Download Manager**（簡稱**IDM**）是一個用於[Windows系統的](https://zh.wikipedia.org/wiki/Windows "wikilink")[下載管理器](https://zh.wikipedia.org/wiki/下載管理程序 "wikilink")。
 
 IDM可以讓用戶自動下載某些類型的文件，可將文件劃分為多個下載點以更快下載，並列出最近的下載，方便存取文件。相對於其他下載管理器，具有獨特的動態檔案分割技術。
 

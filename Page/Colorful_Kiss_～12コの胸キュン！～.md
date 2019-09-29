@@ -18,14 +18,6 @@
 
 [KOTOKO主唱](https://zh.wikipedia.org/wiki/KOTOKO "wikilink")、作詞、[C.G mix作曲](https://zh.wikipedia.org/wiki/C.G_mix "wikilink")、[I've](../Page/I've.md "wikilink")製作的主題曲「」是網上「惹笑的[電波歌曲](https://zh.wikipedia.org/wiki/電波歌曲 "wikilink")」的代表之一。
 
-## 參見
-
-  - [戲畫](../Page/戲畫_\(遊戲品牌\).md "wikilink")
-
-  - （Colorful系列第二作）
-
-  - （Colorful系列第三作）
-
 ## 外部連結
 
   - [戲畫](http://www.web-giga.com/top/top.html)

@@ -78,6 +78,11 @@ Chrome是2010年提供給[歐洲經濟區](../Page/歐洲經濟區.md "wikilink"
   - 自動更新（Auto-updates）
     為確保受到最新版安全性更新的保護，「Google Chrome」會定期檢查更新，以確保更新永遠為最新版本。更新檢查可確保會使用最新版的安全性功能與修正程式，瀏覽器自動更新新的版本，不需要使用者採取任何動作，更新後會在下一次啟動中自動使用。
 
+<!-- end list -->
+
+  - 列印／匯出PDF
+    當使用者要列印無法為Google帶來顯著利益的內容時，Google Chrome將會阻止用戶列印。
+
 ## 隱私權
 
   - 無痕模式（Incognito mode）
@@ -238,10 +243,15 @@ Chrome是2010年提供給[歐洲經濟區](../Page/歐洲經濟區.md "wikilink"
   - HTML5支援
     Chrome长期在[The HTML5 Test](http://html5test.com)的测试结果中居于高位。
 
+<!-- end list -->
+
+  - 停止Flash支持
+    Chrome宣布2020年停止Flash在其浏览器上的应用。\[63\]
+
 ### 擴充功能与應用程式
 
   - 使用者自訂擴充功能
-    2009年9月6日，「Google Chrome」首次預設啟用擴充功能，並提供數款擴充功能\[63\]。在官方擴充功能中心中當使用者找到喜歡的擴充功能時，按一下網頁上的「安裝」，擴充功能便會安裝到使用者的「Google Chrome」。整個過程無需重新啟動瀏覽器。
+    2009年9月6日，「Google Chrome」首次預設啟用擴充功能，並提供數款擴充功能\[64\]。在官方擴充功能中心中當使用者找到喜歡的擴充功能時，按一下網頁上的「安裝」，擴充功能便會安裝到使用者的「Google Chrome」。整個過程無需重新啟動瀏覽器。
     2010年8月20日，「Chromium」開始支持側邊欄擴充功能API。
     2010年8月25日，測試版「Google Chrome」開始支持右鍵菜單API、Omnibox API、Infobars API。
       - 右鍵菜單API：擴充功能可以指定菜單在點擊圖片或影片後才顯示，而非所有右鍵菜單都顯示。
@@ -257,14 +267,14 @@ Chrome是2010年提供給[歐洲經濟區](../Page/歐洲經濟區.md "wikilink"
 
   - [Chrome Web Store](https://zh.wikipedia.org/wiki/Chrome_Web_Store "wikilink")
     **Chrome Web Store**，前稱「Google Chrome擴充功能中心」。
-    2009年12月9日，官方「Google Chrome擴充功能中心」（測試版）已有超過300款擴充功能\[64\]。
-    隨著4.0穩定版本發佈，官方「Google Chrome擴充功能中心」\[65\]在2010年1月25日正式上線，並擁有超過1500款擴充套件\[66\]。
+    2009年12月9日，官方「Google Chrome擴充功能中心」（測試版）已有超過300款擴充功能\[65\]。
+    隨著4.0穩定版本發佈，官方「Google Chrome擴充功能中心」\[66\]在2010年1月25日正式上線，並擁有超過1500款擴充套件\[67\]。
     2010年5月19日，[Google](../Page/Google.md "wikilink")在[Google I/O宣布](https://zh.wikipedia.org/wiki/Google_I/O "wikilink")「Chrome Web Store」。
-    截至2010年6月22日，官方擴充功能中心已有超過5000款擴充功能\[67\]，其中25款為Google官方開發的擴充功能\[68\]。
-    2010年8月19日，[Google](../Page/Google.md "wikilink")宣布官方「Google Chrome擴充功能中心」向開發者註冊費用為一次性收取5美元。開發者在發布擴充功能、主題，以及未來的Web Apps之前必須繳納這筆費用。不過如果你在太平洋時間8月19日11:00前已經註冊了開發者帳號的話，可以不用繳交這US$5，不但之前上傳的擴充功能可以繼續維護，新上傳的也是沒有問題的。另外，「Google Chrome擴充功能中心」加入**域名驗證系統**（類似[Twitter](../Page/Twitter.md "wikilink")官方驗證帳號），在新上傳的擴充功能開發者須將他們的作品與[Webmaster Tools中的域名關聯](https://zh.wikipedia.org/wiki/Google網站管理員 "wikilink")\[69\]。
-    2010年8月19日，[Google](../Page/Google.md "wikilink")宣布官方「Google Chrome擴充功能中心」將被「[Chrome Web Store](https://zh.wikipedia.org/wiki/Chrome_Web_Store "wikilink")」取代，而中心內的擴充功能將連同官方主題庫內的主題移到「Chrome Web Store」\[70\]。
+    截至2010年6月22日，官方擴充功能中心已有超過5000款擴充功能\[68\]，其中25款為Google官方開發的擴充功能\[69\]。
+    2010年8月19日，[Google](../Page/Google.md "wikilink")宣布官方「Google Chrome擴充功能中心」向開發者註冊費用為一次性收取5美元。開發者在發布擴充功能、主題，以及未來的Web Apps之前必須繳納這筆費用。不過如果你在太平洋時間8月19日11:00前已經註冊了開發者帳號的話，可以不用繳交這US$5，不但之前上傳的擴充功能可以繼續維護，新上傳的也是沒有問題的。另外，「Google Chrome擴充功能中心」加入**域名驗證系統**（類似[Twitter](../Page/Twitter.md "wikilink")官方驗證帳號），在新上傳的擴充功能開發者須將他們的作品與[Webmaster Tools中的域名關聯](https://zh.wikipedia.org/wiki/Google網站管理員 "wikilink")\[70\]。
+    2010年8月19日，[Google](../Page/Google.md "wikilink")宣布官方「Google Chrome擴充功能中心」將被「[Chrome Web Store](https://zh.wikipedia.org/wiki/Chrome_Web_Store "wikilink")」取代，而中心內的擴充功能將連同官方主題庫內的主題移到「Chrome Web Store」\[71\]。
     2010年12月7日，「Chrome Web Store」正式上線。
-    2011年12月9日，官方「Chrome Web Store」上線一年後，宣布擁有超過8500款擴充套件及超過1500款主題，超過三分之一使用者安裝至少一個擴充功能，同時共有超過7000萬擴充功能和主題被安裝\[71\]。
+    2011年12月9日，官方「Chrome Web Store」上線一年後，宣布擁有超過8500款擴充套件及超過1500款主題，超過三分之一使用者安裝至少一個擴充功能，同時共有超過7000萬擴充功能和主題被安裝\[72\]。
 
 <!-- end list -->
 
@@ -275,7 +285,7 @@ Chrome是2010年提供給[歐洲經濟區](../Page/歐洲經濟區.md "wikilink"
   -
 
       -
-        從4.1版本起，只要您瀏覽的網頁語言與選取的瀏覽器介面語言不同，就可以使用網頁頂端的藍色翻譯列。此功能目前可翻譯52種語言。\[72\]
+        從4.1版本起，只要您瀏覽的網頁語言與選取的瀏覽器介面語言不同，就可以使用網頁頂端的藍色翻譯列。此功能目前可翻譯52種語言。\[73\]
 
 :;同步功能
 
@@ -314,7 +324,7 @@ Chrome是2010年提供給[歐洲經濟區](../Page/歐洲經濟區.md "wikilink"
 
 ### <Chrome://flags（研究室>）
 
-從7.0版本的開發版本起，「Google Chrome」（除正式版本外）加入研究室功能，將未完成或未完善的功能收集供使用者測試，此前所有測試功能都需要使用指令碼啟用。 由7.0至8.0（62681）版本，使用者可經「about:labs」進入研究室。從8.0（62682）版本起易名為「about:flags」或「chrome://flags」\[73\]。
+從7.0版本的開發版本起，「Google Chrome」（除正式版本外）加入研究室功能，將未完成或未完善的功能收集供使用者測試，此前所有測試功能都需要使用指令碼啟用。 由7.0至8.0（62681）版本，使用者可經「about:labs」進入研究室。從8.0（62682）版本起易名為「about:flags」或「chrome://flags」\[74\]。
 
 ### 正在開發的獨立項目
 
@@ -329,10 +339,10 @@ Chrome是2010年提供給[歐洲經濟區](../Page/歐洲經濟區.md "wikilink"
 
 [Chromium-3.0.192.0-19918.png](https://zh.wikipedia.org/wiki/File:Chromium-3.0.192.0-19918.png "fig:Chromium-3.0.192.0-19918.png")
 
-  - 2008年9月3日發佈的「Google Chrome」第一個測試版已順利通過[Acid1](../Page/Acid1.md "wikilink")及[Acid2](../Page/Acid2.md "wikilink")測試。同時在[Acid3](../Page/Acid3.md "wikilink")中取得78分\[74\]。其後在Google Chrome 3.0正式版通過[Acid3](../Page/Acid3.md "wikilink")測試取得滿分100分。（2011年9月版本）\[75\]。
-  - 完全通過「[CSS3 Selectors Test](http://tools.css3.info/selectors-test/test.html)（2010/06/30版本）」中574項測試\[76\]。
-  - 在「[The CSS3 Test](http://css3test.com/)」中取得64%的分數（通過1521項，共2400項）\[77\]。
-  - 「Google Chrome」在「[THE HTML5 TEST](https://beta.html5test.com)」中\[78\]
+  - 2008年9月3日發佈的「Google Chrome」第一個測試版已順利通過[Acid1](../Page/Acid1.md "wikilink")及[Acid2](../Page/Acid2.md "wikilink")測試。同時在[Acid3](../Page/Acid3.md "wikilink")中取得78分\[75\]。其後在Google Chrome 3.0正式版通過[Acid3](../Page/Acid3.md "wikilink")測試取得滿分100分。（2011年9月版本）\[76\]。
+  - 完全通過「[CSS3 Selectors Test](http://tools.css3.info/selectors-test/test.html)（2010/06/30版本）」中574項測試\[77\]。
+  - 在「[The CSS3 Test](http://css3test.com/)」中取得64%的分數（通過1521項，共2400項）\[78\]。
+  - 「Google Chrome」在「[THE HTML5 TEST](https://beta.html5test.com)」中\[79\]
 
 <!-- end list -->
 
@@ -341,7 +351,7 @@ Chrome是2010年提供給[歐洲經濟區](../Page/歐洲經濟區.md "wikilink"
       -
         {| class="wikitable"
 
-|- \! 差異對照 \! 版本 \! 分數 |- style="background-color:Salmon;" | 上個舊版本 | 73.0.3683.103 | 535 |- style="background-color:LawnGreen;" | 目前版本 | 74.0.3729.169 | 535 |} chrome在部分windows10系统中可能会出现网页打开十分缓慢的问题，但将系统升级之后，该问题会得到修复。
+|- \! 差異對照 \! 版本 \! 分數 |- style="background-color:Salmon;" | 上個舊版本 | 76.0.3809.132 | 535 |- style="background-color:LawnGreen;" | 目前版本 | 77.0.3865.90 | 535 |} chrome在部分windows10系统中可能会出现网页打开十分缓慢的问题，但将系统升级之后，该问题会得到修复。
 
 ## 参考文献
 
@@ -477,30 +487,32 @@ Chrome是2010年提供給[歐洲經濟區](../Page/歐洲經濟區.md "wikilink"
 
 64.
 
-65. [官方Google Chrome擴充功能中心](https://chrome.google.com/extensions/)
+65.
 
-66.
+66. [官方Google Chrome擴充功能中心](https://chrome.google.com/extensions/)
 
-67. [Google Docs Blog](http://googledocs.blogspot.com/2010/06/chrome-extensions-for-google-docs.html)
+67.
 
-68. [Google官方開發的擴充功能](https://chrome.google.com/extensions/featured/by_google)
+68. [Google Docs Blog](http://googledocs.blogspot.com/2010/06/chrome-extensions-for-google-docs.html)
 
-69. <http://blog.chromium.org/2010/08/security-improvements-and-registration.html>
+69. [Google官方開發的擴充功能](https://chrome.google.com/extensions/featured/by_google)
 
-70. <http://blog.chromium.org/2010/08/get-your-apps-ready-for-chrome-web.html>
+70. <http://blog.chromium.org/2010/08/security-improvements-and-registration.html>
 
-71. <http://blog.chromium.org/2010/12/year-of-extensions.html>
+71. <http://blog.chromium.org/2010/08/get-your-apps-ready-for-chrome-web.html>
 
-72. [網頁：自動網頁翻譯](http://www.google.com/support/chrome/bin/answer.py?answer=173424)
+72. <http://blog.chromium.org/2010/12/year-of-extensions.html>
 
-73.
+73. [網頁：自動網頁翻譯](http://www.google.com/support/chrome/bin/answer.py?answer=173424)
 
-74. <http://news.cnet.com/8301-17939_109-10030962-2.html>
+74.
 
-75. [華軍資訊](http://news.newhua.com/news1/news/2009/527/09527142551IF4ECABB69JGDB6FFAJFDGD4B2A1G5FFEGG1H9EFDCIG2.html)
+75. <http://news.cnet.com/8301-17939_109-10030962-2.html>
 
-76. <http://tools.css3.info/selectors-test/test.html>
+76. [華軍資訊](http://news.newhua.com/news1/news/2009/527/09527142551IF4ECABB69JGDB6FFAJFDGD4B2A1G5FFEGG1H9EFDCIG2.html)
 
-77. <http://css3test.com/>
+77. <http://tools.css3.info/selectors-test/test.html>
 
-78. [THE HTML5 TEST官方統計](https://beta.html5test.com/results/desktop.html)
+78. <http://css3test.com/>
+
+79. [THE HTML5 TEST官方統計](https://beta.html5test.com/results/desktop.html)

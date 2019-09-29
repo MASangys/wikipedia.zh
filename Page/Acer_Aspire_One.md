@@ -114,7 +114,7 @@
 
 7.  <https://help.ubuntu.com/community/AspireOne110L>
 
-8.  <http://eeepc.itrunsonlinux.com/the-news/1-latest-news/242-linux4one-ubuntu-for-the-acer-aspire-one-> Linux4one Ubuntu for the Acer Aspire One
+8.  <http://eeepc.itrunsonlinux.com/the-news/1-latest-news/242-linux4one-ubuntu-for-the-acer-aspire-one->  Linux4one Ubuntu for the Acer Aspire One
 
 9.  <http://www.seagate.com/staticfiles/support/disc/manuals/notebook/momentus/5400.4/SATA/100468842a.pdf>
 

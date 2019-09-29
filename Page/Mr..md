@@ -609,6 +609,10 @@ Mr.的大部分作品均由譚健文或[譚傑明填詞](https://zh.wikipedia.or
 
   - [周殷廷](../Page/周殷廷.md "wikilink")《Gonna Be Alright》
 
+## 爭議
+
+互聯網上，不乏指控Mr.樂隊抄襲其他歌曲的傳聞，例子有《假使》、與[譚詠麟](../Page/譚詠麟.md "wikilink")合作的歌曲《Mr. Tam》等，但Mr.樂隊一直都否認抄襲的傳聞。
+
 ## 獲獎記錄
 
   - **2008年**

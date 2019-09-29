@@ -2,7 +2,7 @@
 
 ## 公司發展
 
-  - 1983年1月 - **冠軍軟體**成立於[奈良縣](https://zh.wikipedia.org/wiki/奈良縣 "wikilink")[橿原市](https://zh.wikipedia.org/wiki/橿原市 "wikilink")。
+  - 1983年1月 - **冠軍軟體**成立於[奈良縣](https://zh.wikipedia.org/wiki/奈良縣 "wikilink")[橿原市](../Page/橿原市.md "wikilink")。
   - 1989年4月 - 設立成人遊戲廠牌**ALICESOFT**。
   - 1989年7月 - 發行處女作**Intruder**、****與**[Rance](https://zh.wikipedia.org/wiki/Rance "wikilink")**。
   - 1990年10月 - 成立[玩家](../Page/玩家.md "wikilink")俱樂部。
@@ -14,8 +14,6 @@
 ## 概述
 
 冠軍軟體在成立初期主要制作於[PC-88和](https://zh.wikipedia.org/wiki/NEC_PC-8801 "wikilink")[PC-98平台上的遊戲](https://zh.wikipedia.org/wiki/NEC_PC-9801 "wikilink")。隨著年號由[昭和](../Page/昭和.md "wikilink")變更為[平成](../Page/平成.md "wikilink")，冠軍軟體於1989年成立ALICESOFT，並發行了**Intruder**、****與**[Rance](https://zh.wikipedia.org/wiki/Rance "wikilink")**兩款遊戲。之後，冠軍軟體開始著手製作[硬碟遊戲](https://zh.wikipedia.org/wiki/硬碟 "wikilink")，並將平台轉向[Microsoft Windows發展](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。在1990年代曾與[élf齊名](https://zh.wikipedia.org/wiki/ELF_\(公司\) "wikilink")，並稱為「東有élf，西有Alice」。
-
-九十年代中期曾一度面临业绩不佳将要倒闭的困境。然而由于孤注一掷的作品**鬼畜王兰斯**的巨大成功，扭转局面。
 
 ALICESOFT至今（2008年）為止每年都有發行至少一部的作品。而在競爭激烈且盛衰無常的成人遊戲業界中，ALICESOFT是少數自1980年代成立至今仍舊繼續營運的廠牌之一。
 
@@ -188,7 +186,7 @@ ALICESOFT於2003年提出自由散佈宣言，至今已經包括了28款遊戲�
 <li>2002年8月2日 <a href="../Page/超昂天使Escalayer.md" title="wikilink">超昂天使Escalayer</a></li>
 <li>2008年2月29日 <a href="https://zh.wikipedia.org/wiki/超昂閃忍遙" title="wikilink">超昂閃忍遙</a></li>
 <li>2014年7月25日 <a href="https://zh.wikipedia.org/wiki/超昂天使_Escalayer" title="wikilink">超昂天使 Escalayer R</a></li>
-<li>2017年7月28日 </li>
+<li>2017年7月28日 <a href="https://zh.wikipedia.org/wiki/超昂神騎愛克希爾" title="wikilink">超昂神騎愛克希爾</a></li>
 </ul></li>
 </ul>
 <ul>
@@ -264,12 +262,10 @@ ALICESOFT於2003年提出自由散佈宣言，至今已經包括了28款遊戲�
 
   -
   -
-  - [自由散佈宣言](https://web.archive.org/web/20090101025938/http://www.alicesoft.com/annai.html#free)
-
-  - [AliceSoft Archives](http://retropc.net/alice/menu.html)
+  - [Alice Soft Archives](http://retropc.net/alice/menu.html)
 
   - [The AliceSoftWiki](https://zh.wikipedia.org/wiki/wikia:AliceSoft "wikilink")
 
-[Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink") [Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink") [Category:1989年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1989年開業電子遊戲公司 "wikilink") [Category:大阪府公司](https://zh.wikipedia.org/wiki/Category:大阪府公司 "wikilink") [Category:1989年日本建立](https://zh.wikipedia.org/wiki/Category:1989年日本建立 "wikilink")
+[Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink") [Category:1989年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1989年開業電子遊戲公司 "wikilink") [Category:大阪府公司](https://zh.wikipedia.org/wiki/Category:大阪府公司 "wikilink")
 
 1.  [大手ギャルゲーブランドのアリスソフトが東京支社を閉鎖 エルフに続きアリスもやばい？](http://getnews.jp/archives/623053)ガジェット通信

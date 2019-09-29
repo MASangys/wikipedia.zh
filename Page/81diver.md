@@ -1,10 +1,8 @@
-《**81diver**》（****）是[日本](../Page/日本.md "wikilink")漫畫家[柴田ヨクサル一部以](https://zh.wikipedia.org/wiki/柴田ヨクサル "wikilink")[日本將棋為主題的](https://zh.wikipedia.org/wiki/日本將棋 "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，並且於2008年改編為同名[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")。
+《**81diver**》（****）是[日本](../Page/日本.md "wikilink")漫畫家[柴田ヨクサル的作品](https://zh.wikipedia.org/wiki/柴田ヨクサル "wikilink")，是[集英社](../Page/集英社.md "wikilink")《[週刊Young Jump](https://zh.wikipedia.org/wiki/週刊Young_Jump "wikilink")》在2006年所連載的第41部漫畫作品，以[日本將棋為主題](https://zh.wikipedia.org/wiki/日本將棋 "wikilink")。並且於2008年改編為同名[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")。將棋監修是[鈴木大介八段棋士](https://zh.wikipedia.org/wiki/鈴木大介 "wikilink")。
 
 ## 概要
 
-這部作品是[集英社](../Page/集英社.md "wikilink")《[週刊Young Jump](https://zh.wikipedia.org/wiki/週刊Young_Jump "wikilink")》在2006年所連載的第41部漫畫作品，內容以[將棋為主](https://zh.wikipedia.org/wiki/日本將棋 "wikilink")。原[獎勵會青年菅田](https://zh.wikipedia.org/wiki/新進棋士獎勵會 "wikilink")，受到[秋葉原](../Page/秋葉原.md "wikilink")防禦師所引導，參與的[真劍師之間的戰爭](https://zh.wikipedia.org/wiki/真劍師 "wikilink")。將棋監修是[鈴木大介八段棋士](https://zh.wikipedia.org/wiki/鈴木大介 "wikilink")。
-
-[單行本到](https://zh.wikipedia.org/wiki/單行本 "wikilink")[2012年2月](../Page/2012年2月.md "wikilink")為止，在日本已出版23集，目前繼續連載中。
+原[獎勵會青年菅田](https://zh.wikipedia.org/wiki/新進棋士獎勵會 "wikilink")，受到[秋葉原](../Page/秋葉原.md "wikilink")防禦師所引導，參與的[真劍師之間的戰爭](https://zh.wikipedia.org/wiki/真劍師 "wikilink")。
 
 ## 劇情綱要
 

@@ -648,14 +648,15 @@ Hey\! Say\! 7的「**7**」是2007年結成的意思，Hey\! Say\! BEST的「**B
 
 ### 專輯
 
-| ＃ | 發售日        | 名稱                                                                               | 銷售數量               | 週間最高位 | 備註       |
-| - | ---------- | -------------------------------------------------------------------------------- | ------------------ | ----- | -------- |
-| 1 | 2010年7月7日  | **[JUMP NO.1](../Page/JUMP_NO.1.md "wikilink")**                                 | 首周 15.6萬張          | 1位    |          |
-| 2 | 2012年6月6日  | **[JUMP WORLD](../Page/JUMP_WORLD.md "wikilink")**                               | 首周 12.7萬張          | 1位    |          |
-| 3 | 2014年6月18日 | **[smart](https://zh.wikipedia.org/wiki/smart_\(Hey!_Say!_JUMP專輯\) "wikilink")** | 首周 12.7萬張          | 1位    |          |
-| 4 | 2015年6月24日 | **[JUMPing CAR](../Page/JUMPing_CAR.md "wikilink")**                             | 首周 17.7萬張          | 1位    |          |
-| 5 | 2016年7月27日 | '''[DEAR.](../Page/DEAR..md "wikilink")                                          | 首周 25.8萬張 次周 1.7萬張 | 1位    | 初次連續兩週首位 |
-| 6 | 2018年8月22日 | '''[SENSE OR LOVE](https://zh.wikipedia.org/wiki/SENSE_OR_LOVE "wikilink")       | 首周20.9萬張           | 1位    |          |
+| ＃ | 發售日         | 名稱                                                                               | 銷售數量               | 週間最高位 | 備註       |
+| - | ----------- | -------------------------------------------------------------------------------- | ------------------ | ----- | -------- |
+| 1 | 2010年7月7日   | **[JUMP NO.1](../Page/JUMP_NO.1.md "wikilink")**                                 | 首周 15.6萬張          | 1位    |          |
+| 2 | 2012年6月6日   | **[JUMP WORLD](../Page/JUMP_WORLD.md "wikilink")**                               | 首周 12.7萬張          | 1位    |          |
+| 3 | 2014年6月18日  | **[smart](https://zh.wikipedia.org/wiki/smart_\(Hey!_Say!_JUMP專輯\) "wikilink")** | 首周 12.7萬張          | 1位    |          |
+| 4 | 2015年6月24日  | **[JUMPing CAR](../Page/JUMPing_CAR.md "wikilink")**                             | 首周 17.7萬張          | 1位    |          |
+| 5 | 2016年7月27日  | '''[DEAR.](../Page/DEAR..md "wikilink")                                          | 首周 25.8萬張 次周 1.7萬張 | 1位    | 初次連續兩週首位 |
+| 6 | 2018年8月22日  | '''[SENSE OR LOVE](https://zh.wikipedia.org/wiki/SENSE_OR_LOVE "wikilink")       | 首周20.9萬張           | 1位    |          |
+| 7 | 2019年10月30日 | PARADE                                                                           |                    |       |          |
 
 ### 精選輯
 

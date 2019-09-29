@@ -116,10 +116,10 @@ KKBOX曾經發生數位音樂使用著作權爭議事件，由於傳統唱片市
 1.
 2.
 3.  [工商時報- 華人音樂俏 KDDI花18億買KKBOX](http://money.chinatimes.com/news/news-content.aspx?id=20101216000115&cid=1211)
-4.  [NOWnews- 又見台企業被收購！KKBOX嫁入日電信公司KDDI](http://www.nownews.com/2010/12/16/91-2673645.htm)
-5.  [KKBOX西進香港 海外市場佈局第一站！台灣線上音樂霸主KKBOX於香港開台 明年將全面前進海外市場](http://www.kkbox-inc.com/tc/news/news-155-5-1.html)
-6.  [KKBOX六月正式進軍日本，推出雲端音樂服務](http://www.kkbox-inc.com/tc/news/news-155-135-1.html)
-7.  [KKBOX 2013搶灘新馬 亞洲版圖再下一城](http://www.kkbox-inc.com/tc/news/news-155-169-1.html)
-8.  [KKBOX 星主權基金31億入股](http://www.chinatimes.com/newspapers/20140829000097-260202)
-9.  [KKBOX 將於 2017 年 6 月 30 日起停止提供「KKBOX音樂商店」單曲購買服務，2017 年 7 月15 日起關閉「KKBOX音樂商店」之下載功能](https://help.kkbox.com/tw/zh-tw/news/279)
-10. [工商時報- 遭控侵權KKBOX獲判無罪](http://www.is-law.com/post/4/271)
+4.
+5.
+6.
+7.
+8.
+9.
+10.

@@ -1,6 +1,6 @@
-**f(x)**（，）是[SM娛樂](../Page/SM娛樂.md "wikilink")於2009年推出的[韓國女子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")，初時由五名不同國籍的成員組成，成員包括有中國籍[Victoria](../Page/宋茜.md "wikilink")、台裔美籍[Amber](https://zh.wikipedia.org/wiki/劉逸雲 "wikilink")、韓國籍[Luna](../Page/朴善英.md "wikilink")、[Sulli及美韓雙籍](../Page/崔真理.md "wikilink")[Krystal](../Page/鄭秀晶.md "wikilink")，由Victoria擔任隊長。f(x)是SM旗下擁有最多國籍的女子組合。2009年9月5日以首張數位單曲《[LA chA TA](https://zh.wikipedia.org/wiki/LA_chA_TA "wikilink")》正式出道。
+**f(x)**（，）是[SM娛樂](../Page/SM娛樂.md "wikilink")於2009年推出的[韓國女子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")，初時由五名不同國籍的成員組成，成員包括有中國籍[Victoria](../Page/宋茜.md "wikilink")、台湾裔美籍[Amber](https://zh.wikipedia.org/wiki/劉逸雲 "wikilink")、韓國籍[Luna](../Page/朴善英.md "wikilink")、[Sulli及美韓雙籍](../Page/崔真理.md "wikilink")[Krystal](../Page/鄭秀晶.md "wikilink")，由Victoria擔任隊長。f(x)是SM旗下擁有最多國籍的女子組合。2009年9月5日以首張數位單曲《[LA chA TA](https://zh.wikipedia.org/wiki/LA_chA_TA "wikilink")》正式出道。
 
-2015年8月7日，成員[Sulli退出f](../Page/崔真理.md "wikilink")(x)組合，組合以四人形式繼續活動。2019年9月1日，[Amber於個人Instagram帳號發表手寫信宣布與SM娛樂合約到期並不續約](https://zh.wikipedia.org/wiki/劉逸雲 "wikilink")，離開公司，但未宣佈離開組合。
+2015年8月7日，成員[Sulli退出f](../Page/崔真理.md "wikilink")(x)組合，組合以四人形式繼續活動。2019年9月，[Victoria](../Page/宋茜.md "wikilink")、[Amber](https://zh.wikipedia.org/wiki/劉逸雲 "wikilink")、[Luna相繼與SM娛樂約滿離開公司](../Page/朴善英.md "wikilink")，但均未宣布離開組合。
 
 ## 組合資料
 
@@ -15,12 +15,6 @@
 ### 粉絲名稱
 
 2016年1月31日，f(x)在首次單獨演唱會《[f(x) the 1st concert DIMENSION 4–Docking Station](https://zh.wikipedia.org/wiki/f\(x\)_the_1st_concert_DIMENSION_4–Docking_Station "wikilink")》上公布韓國官方粉絲名稱為「미유（MeU）」，英文有著我和你的意思。2016年6月2日，f(x)日本官方網站公開招募f(x)日本官方歌迷會會員，粉絲名稱為「me(you) JAPAN」。\[4\]
-
-### 固定隊形
-
-f(x)在五人時期的基本隊形為（從左到右）Victoria、Amber、Krystal、Sulli、Luna
-
-f(x)在四人時期的隊形則為（從左到右） Victoria、Amber、Krystal、Luna
 
 ## 成員列表
 
@@ -49,8 +43,11 @@ PlotData =
 
 `color:blue width:7 textcolor:black align:left anchor:from`
 `bar:Victoria宋茜   from:09/05/2009 till:end Color:skyblue`
-`bar:Amber安貝兒   from:09/05/2009 till:end Color:skyblue`
+`bar:Victoria宋茜 from:09/05/2019 till:end Color:blue`
+`bar:Amber安貝兒   from:09/05/2009 till:09/01/2019 Color:skyblue`
+`bar:Amber安貝兒 from:09/01/2019 till:end Color:blue`
 `bar:Luna露娜   from:09/05/2009 till:end Color:skyblue`
+`bar:Luna露娜 from:09/05/2019 till:end Color:blue`
 `bar:Sulli雪莉   from:09/05/2009 till:08/07/2015 Color:skyblue`
 `bar:Krystal水晶   from:09/05/2009 till:end Color:skyblue`
 
@@ -71,6 +68,8 @@ LineData =
 **注：**
 
   - 專輯發行。
+
+  - 未與SM娛樂續約但仍以組合名義活動。
 
 ## 生涯與音樂事業
 
@@ -136,9 +135,13 @@ LineData =
 
 11月3日，f(x)以在橫濱體育館舉行的《f(x) the 1st concert DIMENSION 4 – Docking Station in JAPAN \[Encore\]》正式結束首場日本單獨巡迴演唱會，此次演唱會共造訪5個縣市，動員超過7萬餘人，正式為日本巡迴演唱會畫下完美句點。
 
-2018年1月5日，成员 Amber 及 Luna通过SM STATION发行了单曲《Lower》。4月24日，成员Luna发行数位单曲《Night Reminiscin'》。
+2018年1月5日，成員Amber及Luna通過SM STATION發行單曲《Lower》。4月24日，成員Luna發行數位單曲《Night Reminiscin'》。
 
-2019年9月1日成員Amber於個人Instagram宣布與S.M. Entertainment 合約到期，離開公司，並未宣布離開團體。
+2019年9月1日，成員Amber於個人Instagram宣布與SM娛樂合約到期，離開公司，但未宣布離開團體。
+
+2019年9月5日，成員Victoria於個人Weibo及Instagram宣布與SM娛樂合約到期，離開公司，但未宣布離開團體。
+
+2019年9月5日，SM娛樂正式發表聲明：「成員Amber、Luna合約期滿不續約並離開公司，Victoria合約期滿，則會討論新的合作方式，Krystal合約未到期將會作為演員繼續活動。」而團體部分並未表明會解散團體。
 
 ## 音樂作品
 

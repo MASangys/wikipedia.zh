@@ -212,7 +212,7 @@ CD+DVD：SRCL-8812 ～ SRCL-8813</p></td>
 </tr>
 <tr class="odd">
 <td><p>10th</p></td>
-<td><p>2019年9月11日予定</p></td>
+<td><p>2019年9月11日</p></td>
 <td><p><strong>#Love</strong></p></td>
 <td><p>完全生産限定盤（CD+Blu-ray）：SRCL-11270 ～ SRCL-11272<br />
 初回生産限定盤A（CD+Blu-ray）：SRCL-11273 ～ SRCL-11275<br />

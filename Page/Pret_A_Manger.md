@@ -29,8 +29,6 @@
 
   - ：1間
 
-  - ：[1間](http://www.pret.cn/find_us.html)
-
 ## 外部參考
 
   - Pret A Manger 官方網站

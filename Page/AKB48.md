@@ -90,10 +90,10 @@ AKB48的成員人數眾多，是《[吉尼斯世界纪录](../Page/吉尼斯世�
 18. HKT48 研究生
 19. NGT48
 20. NGT48 研究生
-21. STU48
-22. STU48 研究生
+21. STU48\<\!--
+22. STU48 研究生--\>
 
-依照上述原則，目前（2018年4月起）在整個48集團中名單排列順序最優先的，是隸屬於AKB48 Team A的[入山杏奈](../Page/入山杏奈.md "wikilink")（；Iriyama Anna，其姓氏拼音首字「」是五十音中排序第二的字母）。如果在特定的演出或作品中入山並沒有參與，則由順位排第二的[冈部麟優先](https://zh.wikipedia.org/wiki/冈部麟 "wikilink")，依此類推。至於集團全員中排序最末尾的，則是STU48的研究生[由良朱合](https://zh.wikipedia.org/wiki/由良朱合 "wikilink")（），而在涉及到海外分团时，也会将组合按成立时间依序排列，而成员方面则以姓名的首字母顺序（JKT48、AKB48 Team SH、SGO48）、艺名（昵称）的首字母顺序（BNK48、MNL48）或年龄顺（AKB48 Team TP）决定先后。
+依照上述原則，目前（2018年4月起）在整個48集團中名單排列順序最優先的，是隸屬於AKB48 Team A的[入山杏奈](../Page/入山杏奈.md "wikilink")（；Iriyama Anna，其姓氏拼音首字「」是五十音中排序第二的字母）。如果在特定的演出或作品中入山並沒有參與，則由順位排第二的[冈部麟優先](https://zh.wikipedia.org/wiki/冈部麟 "wikilink")，依此類推。至於集團全員中排序最末尾的，則是STU48的[薮下楓](https://zh.wikipedia.org/wiki/薮下楓 "wikilink")（），而在涉及到海外分团时，也会将组合按成立时间依序排列，而成员方面则以姓名的首字母顺序（JKT48、AKB48 Team SH、SGO48）、艺名（昵称）的首字母顺序（BNK48、MNL48）或年龄顺（AKB48 Team TP）决定先后。
 
 ### 成員名單
 
@@ -149,6 +149,16 @@ AKB48的分組曾歷經過兩次大規模的異動（稱為「組閣」與「再
 <td><p>21名</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/佐藤美波" title="wikilink">佐藤美波</a></p></td>
+<td></td>
+<td></td>
+<td><p>16期</p></td>
+<td><p>AKS</p></td>
+<td><p>2019年9月12日</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><a href="../Page/篠崎彩奈.md" title="wikilink">篠崎彩奈</a></p></td>
 <td></td>
 <td></td>
@@ -159,7 +169,7 @@ AKB48的分組曾歷經過兩次大規模的異動（稱為「組閣」與「再
 峯岸Team K</p></td>
 <td><p>78名</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/鈴木久留美" title="wikilink">鈴木久留美</a><br />
 （）</p></td>
 <td></td>
@@ -170,7 +180,7 @@ AKB48的分組曾歷經過兩次大規模的異動（稱為「組閣」與「再
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/田口愛佳" title="wikilink">田口愛佳</a></p></td>
 <td></td>
 <td></td>
@@ -180,7 +190,7 @@ AKB48的分組曾歷經過兩次大規模的異動（稱為「組閣」與「再
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/千葉惠里" title="wikilink">千葉惠里</a></p></td>
 <td></td>
 <td></td>
@@ -192,7 +202,7 @@ AKB48的分組曾歷經過兩次大規模的異動（稱為「組閣」與「再
 高橋朱里Team 4</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/西川怜" title="wikilink">西川怜</a></p></td>
 <td></td>
 <td></td>
@@ -204,7 +214,7 @@ AKB48的分組曾歷經過兩次大規模的異動（稱為「組閣」與「再
 木崎Team B</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/前田彩佳" title="wikilink">前田彩佳</a></p></td>
 <td></td>
 <td></td>
@@ -212,6 +222,16 @@ AKB48的分組曾歷經過兩次大規模的異動（稱為「組閣」與「再
 <td><p>AKS</p></td>
 <td><p>2018年4月2日</p></td>
 <td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/道枝咲" title="wikilink">道枝咲</a></p></td>
+<td></td>
+<td></td>
+<td><p>16期</p></td>
+<td><p>AKS</p></td>
+<td><p>2019年9月12日</p></td>
+<td><p>曾為AKB48第二屆選秀會議候補生</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -301,7 +321,7 @@ AKB48的分組曾歷經過兩次大規模的異動（稱為「組閣」與「再
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>岡田梨奈</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/岡田梨奈" title="wikilink">岡田梨奈</a></p></td>
 <td></td>
 <td></td>
 <td><p>選秀<br />
@@ -312,7 +332,7 @@ AKB48的分組曾歷經過兩次大規模的異動（稱為「組閣」與「再
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>小林蘭</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/小林蘭" title="wikilink">小林蘭</a></p></td>
 <td></td>
 <td></td>
 <td><p>選秀<br />
@@ -478,6 +498,19 @@ Team B隊長</p></td>
 <td><p>22名</p></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/大竹瞳" title="wikilink">大竹瞳</a><br />
+（）</p></td>
+<td></td>
+<td></td>
+<td><p>選秀<br />
+3期</p></td>
+<td><p>AKS</p></td>
+<td><p>2019年9月7日</p></td>
+<td><p>第三屆選秀會議Team B第四輪指名<br />
+2019年8月6日起因健康因素暫停部分活動[25]</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/大盛真步" title="wikilink">大盛真步</a></p></td>
 <td></td>
 <td></td>
@@ -488,7 +521,7 @@ Team B隊長</p></td>
 <td><p>第三屆選秀會議Team B第五輪指名</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/大家志津香.md" title="wikilink">大家志津香</a></p></td>
 <td></td>
 <td></td>
@@ -499,7 +532,7 @@ Team B隊長</p></td>
 高橋、橫山Team A</p></td>
 <td><p>29名</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/柏木由紀.md" title="wikilink">柏木由紀</a></p></td>
 <td></td>
 <td></td>
@@ -511,7 +544,7 @@ Team B隊長</p></td>
 AKB48集團最年長</p></td>
 <td><p>2名</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/北澤早紀.md" title="wikilink">北澤早紀</a></p></td>
 <td></td>
 <td></td>
@@ -521,7 +554,7 @@ AKB48集團最年長</p></td>
 <td><p>高橋朱里Team 4</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/久保怜音" title="wikilink">久保怜音</a></p></td>
 <td></td>
 <td></td>
@@ -532,6 +565,17 @@ AKB48集團最年長</p></td>
 <td><p>於第二屆AKB48選秀會議加入<br />
 峯岸Team K</p></td>
 <td><p>47名</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/齋藤陽菜" title="wikilink">齋藤陽菜</a></p></td>
+<td></td>
+<td></td>
+<td><p>選秀<br />
+3期</p></td>
+<td><p>AKS</p></td>
+<td><p>2019年9月7日</p></td>
+<td><p>第三屆選秀會議Team B第一輪指名</p></td>
+<td><p>-</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/佐佐木優佳里.md" title="wikilink">佐佐木優佳里</a></p></td>
@@ -705,7 +749,7 @@ AKB48集團最年長</p></td>
 <td><p>梅田Team B<br />
 倉持Team B<br />
 於第一屆AKB48選秀會議加入<br />
-2018年9月15日－10月19日於JKT48 Team T進行短期留學[25]</p></td>
+2018年9月15日－10月19日於JKT48 Team T進行短期留學[26]</p></td>
 <td><p>27名</p></td>
 </tr>
 <tr class="even">
@@ -714,7 +758,7 @@ AKB48集團最年長</p></td>
 <td></td>
 <td><p>16期</p></td>
 <td><p>AKS</p></td>
-<td><p>2019年5月13日[26]</p></td>
+<td><p>2019年5月13日[27]</p></td>
 <td></td>
 <td><p>-</p></td>
 </tr>
@@ -800,11 +844,11 @@ AKB48集團最年長</p></td>
 
 ##### Team 8
 
-「Team 8」於2014年4月3日正式組成，是AKB48第5個分隊，自2014年5月開始在日本全國活動、並在同年夏季起在AKB48劇場進行公演。Team 8由[豐田汽車贊助](https://zh.wikipedia.org/wiki/豐田汽車 "wikilink")，是AKB48第一個由外部廠商全面贊助的分隊，因此Team 8的個別活動多與豐田汽車的銷售部門異業合作\[27\]，在其隊伍所屬的歌曲MV中也常見到豐田汽車的產品入鏡。
+「Team 8」於2014年4月3日正式組成，是AKB48第5個分隊，自2014年5月開始在日本全國活動、並在同年夏季起在AKB48劇場進行公演。Team 8由[豐田汽車贊助](https://zh.wikipedia.org/wiki/豐田汽車 "wikilink")，是AKB48第一個由外部廠商全面贊助的分隊，因此Team 8的個別活動多與豐田汽車的銷售部門異業合作\[28\]，在其隊伍所屬的歌曲MV中也常見到豐田汽車的產品入鏡。
 
 與前面四個分隊不同，Team 8的成員是自日本全國47個[都道府縣各遴選一名代表所組成](https://zh.wikipedia.org/wiki/都道府縣 "wikilink")，因此成員人數在常態上均為47人；當遇到有成員離隊時，會在當地補辦甄選會以盡快選出替補人選。鑒於贊助商的政策，Team 8是AKB48中唯一沒有設置隊長職位的隊伍，但在分隊的集体活动中，會由京都府代表擔任临时隊長來帶領。
 
-由於Team 8特有的組成方式，因此在團體運作上偏向是AKB48的「子團體」而非分隊，存有許多與其他分隊相異之處。成員平時在自己所出身的都道府縣活動或就學，也無法經常待在AKB48根據地所在的東京（[關東地方](../Page/關東地方.md "wikilink")成員除外），因此在參加AKB48全團的活動時（握手會、演唱會等）很難全員到齊，劇場公演也必須選在[週末](https://zh.wikipedia.org/wiki/週末 "wikilink")、[例假日或](../Page/假日.md "wikilink")[長假時間](https://zh.wikipedia.org/wiki/長假 "wikilink")（例如[寒](../Page/寒假.md "wikilink")[春](../Page/春假.md "wikilink")[暑假](../Page/暑假.md "wikilink")）舉行，無法與其他分隊一樣每日輪值。成員的制服並不採用AKB48全團的通用設計，而是另有專屬款式。相對的，成員們從事演藝活動時，除了是AKB48的一員外，還會強調「Team 8」這個身分，尤其是在出身地的場合；而Team 8的歌迷對於「Team 8」這個招牌也擁有高度的認同感\[28\]。
+由於Team 8特有的組成方式，因此在團體運作上偏向是AKB48的「子團體」而非分隊，存有許多與其他分隊相異之處。成員平時在自己所出身的都道府縣活動或就學，也無法經常待在AKB48根據地所在的東京（[關東地方](../Page/關東地方.md "wikilink")成員除外），因此在參加AKB48全團的活動時（握手會、演唱會等）很難全員到齊，劇場公演也必須選在[週末](https://zh.wikipedia.org/wiki/週末 "wikilink")、[例假日或](../Page/假日.md "wikilink")[長假時間](https://zh.wikipedia.org/wiki/長假 "wikilink")（例如[寒](../Page/寒假.md "wikilink")[春](../Page/春假.md "wikilink")[暑假](../Page/暑假.md "wikilink")）舉行，無法與其他分隊一樣每日輪值。成員的制服並不採用AKB48全團的通用設計，而是另有專屬款式。相對的，成員們從事演藝活動時，除了是AKB48的一員外，還會強調「Team 8」這個身分，尤其是在出身地的場合；而Team 8的歌迷對於「Team 8」這個招牌也擁有高度的認同感\[29\]。
 
 Team 8成员所屬經紀公司皆为AKS。下列未特别备注加入日期者為Team 8起始成員。
 
@@ -866,7 +910,7 @@ Team 8成员所屬經紀公司皆为AKS。下列未特别备注加入日期者�
 <td><p><a href="../Page/佐藤七海.md" title="wikilink">佐藤七海</a></p></td>
 <td></td>
 <td></td>
-<td><p>預定於2019年9月30日畢業[29]</p></td>
+<td><p>預定於2019年9月30日畢業[30]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -931,7 +975,7 @@ AKB48最年少</p></td>
 <td><p><a href="../Page/本田仁美.md" title="wikilink">本田仁美</a></p></td>
 <td></td>
 <td></td>
-<td><p>2018年10月29日起專任<a href="../Page/IZ*ONE.md" title="wikilink">IZ*ONE</a>成員[30]<br />
+<td><p>2018年10月29日起專任<a href="../Page/IZ*ONE.md" title="wikilink">IZ*ONE</a>成員[31]<br />
 曾兼任Team B（高橋朱里）</p></td>
 <td><p>82名</p></td>
 </tr>
@@ -1187,8 +1231,8 @@ AKB48最年少</p></td>
 <td></td>
 <td></td>
 <td><p>2017年11月19日加入<br />
-前成員[31]<br />
-前廣島演藝學校學員[32]</p></td>
+前成員[32]<br />
+前廣島演藝學校學員[33]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1300,7 +1344,7 @@ AKB48最年少</p></td>
 <td></td>
 <td></td>
 <td><p>|2016年6月25日加入<br />
-預定畢業[33]</p></td>
+預定畢業[34]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1368,33 +1412,6 @@ AKB48最年少</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>Team A</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/佐藤美波" title="wikilink">佐藤美波</a></p></td>
-<td></td>
-<td></td>
-<td><p>16期</p></td>
-<td><p>AKS</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/道枝咲" title="wikilink">道枝咲</a></p></td>
-<td></td>
-<td></td>
-<td><p>曾為AKB48第二屆選秀會議候補生</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>Team 4</p></td>
 <td></td>
 <td></td>
@@ -1403,7 +1420,7 @@ AKB48最年少</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/本間麻衣" title="wikilink">本間麻衣</a></p></td>
 <td></td>
 <td></td>
@@ -1412,7 +1429,7 @@ AKB48最年少</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1508,36 +1525,6 @@ AKB48最年少</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Team B</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>大竹瞳<br />
-（）</p></td>
-<td></td>
-<td></td>
-<td><p>選秀<br />
-3期</p></td>
-<td><p>AKS</p></td>
-<td><p>第三屆選秀會議Team B第四輪指名<br />
-2019年8月6日起因健康因素暫停部分活動[34]</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="even">
-<td><p>齋藤陽菜</p></td>
-<td></td>
-<td></td>
-<td><p>第三屆選秀會議Team B第一輪指名</p></td>
-<td><p>-</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>Team 4</p></td>
 <td></td>
 <td></td>
@@ -1546,7 +1533,7 @@ AKB48最年少</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>石綿星南</p></td>
 <td></td>
 <td></td>
@@ -1556,7 +1543,7 @@ AKB48最年少</p></td>
 <td><p>第三屆選秀會議Team 4第一輪指名</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>藏本美結</p></td>
 <td></td>
 <td></td>
@@ -1565,7 +1552,7 @@ AKB48最年少</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>吉橋柚花</p></td>
 <td></td>
 <td></td>
@@ -2677,9 +2664,9 @@ AKB48×日本電視台 3夜連續特別劇集『So long !』主題歌</p></td>
 
 27.
 
-28. 紀錄片《》
+28.
 
-29.
+29. 紀錄片《》
 
 30.
 

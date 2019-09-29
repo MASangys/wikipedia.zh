@@ -83,7 +83,7 @@
 
   - 由[KBS 2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")《[Gag Concert](../Page/搞笑演唱會.md "wikilink")》喜劇演員模仿的〈Gee〉令現場觀眾哄堂大笑。\[27\]
 
-  - 超級新人歌手[IU在](https://zh.wikipedia.org/wiki/IU_\(歌手\) "wikilink")[KBS 2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")《－生存》唱出〈Gee〉Acoustic版本。\[28\]
+  - 超級新人歌手[IU在](https://zh.wikipedia.org/wiki/IU_\(歌手\) "wikilink")[KBS 2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")《[明星金鐘](../Page/明星金鐘.md "wikilink")－生存》唱出〈Gee〉Acoustic版本。\[28\]
 
   - 、[張允瀞](../Page/張允瀞.md "wikilink")、[申奉仙](../Page/申奉仙.md "wikilink")在[SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")《[黃金美女出擊](https://zh.wikipedia.org/wiki/星期天真好#黃金美女出擊 "wikilink")》中模仿〈Gee〉音樂錄影帶。\[29\]
 

@@ -2,9 +2,7 @@
 
 ## 圖集
 
-<File:Smart> Fortwo II Cabrio.JPG <File:Joeys> smart.jpg <File:Smart.city.coupe.unionflag.arp.jpg>
-
-<File:Smart> fortwo 1.JPG <File:Smart> Fortwo (w450).jpg <File:Smart> fortwo.jpg <File:Smart> Fortwo Brabus.JPG
+<File:Smart> Fortwo II Cabrio.JPG <File:Joeys> smart.jpg <File:Smart.city.coupe.unionflag.arp.jpg> <File:Smart> fortwo 1.JPG <File:Smart> Fortwo (w450).jpg <File:Smart> fortwo.jpg <File:Smart> Fortwo Brabus.JPG <File:Smart> Fortwo; Dnipro, Ukraine; 01.09.19.jpg
 
 ## 各地的情形
 

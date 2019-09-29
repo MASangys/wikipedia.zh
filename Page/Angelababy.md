@@ -1,4 +1,4 @@
-**Angelababy**（），[本名](https://zh.wikipedia.org/wiki/本名 "wikilink")**楊穎**（），出生於[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")，是[香港](../Page/香港.md "wikilink")女[模特兒](../Page/模特兒.md "wikilink")、[女演員](https://zh.wikipedia.org/wiki/女演員 "wikilink")，14歲以[模特兒](../Page/模特兒.md "wikilink")出道。目前為[华谊兄弟](../Page/华谊兄弟.md "wikilink")艺人、[風尚國際](https://zh.wikipedia.org/wiki/風尚國際 "wikilink")（Style International Management）之旗下模特兒。2014年因參加中国大陸綜藝節目《[奔跑吧兄弟](../Page/奔跑吧兄弟.md "wikilink")》而上演藝事業高峰。其个人演艺事业在[日本](../Page/日本.md "wikilink")、[韓國和](https://zh.wikipedia.org/wiki/韓國 "wikilink")[香港](../Page/香港.md "wikilink")都有非常不错的成绩。\[1\]。
+**Angelababy**（），[本名](https://zh.wikipedia.org/wiki/本名 "wikilink")**楊穎**（），出生於[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")，是[香港](../Page/香港.md "wikilink")女[模特兒](../Page/模特兒.md "wikilink")、[女演員](https://zh.wikipedia.org/wiki/女演員 "wikilink")，14歲以[模特兒](../Page/模特兒.md "wikilink")出道。目前為[华谊兄弟](../Page/华谊兄弟.md "wikilink")艺人、[風尚國際](https://zh.wikipedia.org/wiki/風尚國際 "wikilink")（Style International Management）之旗下模特兒。2014年因參加中国大陸綜藝節目《[奔跑吧兄弟](../Page/奔跑吧兄弟.md "wikilink")》而上演藝事業高峰。其个人演艺事业在[日本](../Page/日本.md "wikilink")、[韓國和](https://zh.wikipedia.org/wiki/韓國 "wikilink")[香港](../Page/香港.md "wikilink")都有非常不错的成绩\[1\]。
 
 ## 名字
 
@@ -99,6 +99,8 @@ Angelababy自從影以來，演技均受到不少爭議，甚至被冠以「爛�
 |         [封神傳奇](https://zh.wikipedia.org/wiki/封神傳奇 "wikilink")         |                            蓝蝶                             |          |    |
 |    [擺渡人](https://zh.wikipedia.org/wiki/擺渡人_\(2016年電影\) "wikilink")    |                            小玉                             |          |    |
 |            [微微一笑很傾城](../Page/微微一笑很傾城_\(電影\).md "wikilink")            |                            貝微微                            |          |    |
+|                                 2019年                                 |   [中國機長](https://zh.wikipedia.org/wiki/中國機長 "wikilink")   |          |    |
+|                                                                       |                                                           |          |    |
 
 ### 電視劇
 
@@ -239,9 +241,9 @@ Angelababy自從影以來，演技均受到不少爭議，甚至被冠以「爛�
 9.
 
 10.
-11. [Angelababy正式签约华谊兄弟 成立工作室](http://ent.sina.com.cn/s/h/2012-06-28/09133670304.shtml)2012年06月28日
+11. [Angelababy正式签约华谊兄弟 成立工作室](http://ent.sina.com.cn/s/h/2012-06-28/09133670304.shtml) 2012年06月28日
 
-12. [Baby開咖啡店 客串侍應送驚喜](http://ol.mingpao.com/cfm/star5.cfm?File=20111028/saa01/mch1.txt)，明報 2011年10月28日
+12. [Baby開咖啡店 客串侍應送驚喜](http://ol.mingpao.com/cfm/star5.cfm?File=20111028/saa01/mch1.txt) ，明報 2011年10月28日
 
 13. [Angelababy的美甲店Mini Nail開張喇](http://www.thenailworld.com.hk/nail-salon/salon-interview/301-nail-salon-angelababy-mininail)
 
@@ -253,9 +255,9 @@ Angelababy自從影以來，演技均受到不少爭議，甚至被冠以「爛�
 
 17.
 
-18. [Angelababy陳偉霆分手原因真相曝光](http://jx.people.com.cn/BIG5/n2/2016/0125/c186330-27619325-2.html)
+18.
 
-19. [親Angelababy照外流！](http://www.ettoday.net/news/20140303/330518.htm)[黃曉明](https://zh.wikipedia.org/wiki/黃曉明 "wikilink")：我會把女友當公主般寵愛
+19. [親Angelababy照外流！](http://www.ettoday.net/news/20140303/330518.htm) [黃曉明](https://zh.wikipedia.org/wiki/黃曉明 "wikilink")：我會把女友當公主般寵愛
 
 20.
 
@@ -275,25 +277,25 @@ Angelababy自從影以來，演技均受到不少爭議，甚至被冠以「爛�
 
 28.
 
-29. [Baby曝产后现身照：运动服遮肚 脸上满是喜悦(图) 凤凰财经](http://finance.ifeng.com/a/20170117/15150681_0.shtml)
+29.
 
-30. [Angelababy黃曉明驚爆簽字離婚！ 經紀公司回應了 - 東森新聞](https://news.ebc.net.tw/News/entertainment/142697)
+30.
 
-31. [Angelababy、黃曉明遭爆「官宣離婚」　4年神仙婚姻網驚：好久沒互動](https://star.ettoday.net/news/1480690)
+31.
 
-32. [深夜發文吐實情再傳婚變Angelababy首發聲 - TVBS新聞網](https://news.tvbs.com.tw/entertainment/1167672)
+32.
 
-33. [中國第一狗仔再爆！baby婚後偷吃陳赫「關係超親密」 - 自由娛樂](https://ent.ltn.com.tw/news/breakingnews/2036249)
+33.
 
-34. [Angelababy被爆車震男星！ 他揭出軌驚人內幕](https://news.ebc.net.tw/News/entertainment/160275)
+34.
 
-35. [傳因補稅而離婚Angelababy：別碰我兒子就行](http://www.epochtimes.com/b5/19/1/6/n10957936.htm)
+35.
 
-36. [婚變？Baby夜奔黃曉明公寓　現身機場「表情洩心情」](https://www.setn.com/News.aspx?NewsID=572542)
+36.
 
-37. [恩愛形象攏係假！Baby黃曉明「眼神閃躲」…台下零互動](https://www.setn.com/News.aspx?NewsID=555104)
+37.
 
-38. [黄晓明baby出席活动零交流，夫妻对视都没有了！ - 腾讯新闻](https://new.qq.com/omn/20190604/20190604A0HFRP.html)
+38.
 
 39.
 
@@ -305,36 +307,36 @@ Angelababy自從影以來，演技均受到不少爭議，甚至被冠以「爛�
 
 43.
 
-44. [Angelababy成烂片女王，几部作品败光好感，已无力回天](http://k.sina.com.cn/article_6074514381_16a11bbcd00100fqt1.html?cre=tianyi&mod=pcpager_focus&loc=20&r=9&rfunc=100&tj=none&tr=9)
+44.
 
-45. [“Angelababy”这个符号，已经成为鉴别垃圾片的重要参考](https://www.twoeggz.com/news/13489055.html)
+45.
 
-46. [Angelababy演技被女二吊打？ 杨颖回应演技争议：接受批评--时尚--人民网](http://fashion.people.com.cn/n1/2018/1019/c1014-30350150.html)
+46.
 
-47. \[<https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/350920/%E9%AD%AF%E8%B1%AB%E6%9C%89%E7%B4%84-%E5%8A%89%E5%BE%B7%E8%8F%AF%E9%9B%A3%E6%98%8E%E6%96%B0%E4%BA%BA%E6%BC%94%E5%93%A1%E6%A8%99%E6%BA%96-angelababy%E5%96%8A%E6%88%B2%E6%9C%80%E9%9B%A3%E5%BF%98>。【魯豫有約】劉德華難明新人演員標準　Angelababy喊戲爛演技最難忘\]
+47.
 
-48. [演技如过街老鼠的Angelababy，却为何频繁拿下顶级影视资源？](http://m.jushuo.com/bagua/2018/0129/163889.html)
+48.
 
-49. [杨颖：我的演技配得上8000万片酬，冯小刚炮轰垃圾演员](https://www.youtube.com/watch?v=hFkWtQ16AVE)
+49.
 
-50. [张国立吐槽天价片酬的明星, 网友们纷纷喊话angelababy_演技 - 搜狐](http://www.sohu.com/a/259005619_100115140)
+50.
 
-51. [高片酬烂演技，Angelababy靠颜值吃饭，他另谋出路_网易订阅](https://dy.163.com/v2/article/detail/EJPE9TJ105373K32.html)
+51.
 
-52. [2016年十大演技遭吐槽女星，Angelababy排第六蔡思貝第二, 第一果然 ...](https://blog.xuite.net/unold_lin/twblog/502481586-2016%E5%B9%B4%E5%8D%81%E5%A4%A7%E6%BC%94%E6%8A%80%E9%81%AD%E5%90%90%E6%A7%BD%E5%A5%B3%E6%98%9F%EF%BC%8CAngelababy%E6%8E%92%E7%AC%AC%E5%85%AD+%E8%94%A1%E6%80%9D%E8%B2%9D%E7%AC%AC%E4%BA%8C+%2C+%E7%AC%AC%E4%B8%80%E6%9E%9C%E7%84%B6%E6%98%AF%22%E5%A5%B9%22+%21)
+52.
 
-53. [《创业时代》豆瓣评分3.7，收视扑街，Angelababy责任占几分？](https://www.twoeggz.com/news/11954630.html)
+53.
 
-54. [Angelababy拍新劇被批演技影響質素恐拖垮男主角黃軒](https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/124627/angelababy%E6%8B%8D%E6%96%B0%E5%8A%87%E8%A2%AB%E6%89%B9%E6%BC%94%E6%8A%80%E5%BD%B1%E9%9F%BF%E8%B3%AA%E7%B4%A0-%E6%81%90%E6%8B%96%E5%9E%AE%E7%94%B7%E4%B8%BB%E8%A7%92%E9%BB%83%E8%BB%92)
+54.
 
 55.
 
-56. [今年的百花奖，争议最大的是这三位-观察者网](http://www.guancha.cn/art/2016_09_25_375377_s.shtml)
+56.
 
-57. [李易峰Baby拿獎惹議被爆有黑幕-中時電子報](https://www.chinatimes.com/newspapers/20161004000910-260308?chdtv)
+57.
 
-58. [Angelababy玩instagram玩出禍，廣告公司或賠款千萬](http://unwire.hk/2012/07/03/angelababy-instagram/news/)
+58.
 
-59. [穿山甲神奇療效可通乳？　Angelababy公益保育廣告遭批反效果](https://pets.ettoday.net/news/1364010#ixzz5dXrKLIHz)
+59.
 
 60.

@@ -166,7 +166,7 @@
 <td style="text-align: center;"><p><a href="../Page/我也要去.md" title="wikilink">我也要去</a><br />
 </p></td>
 <td style="text-align: center;"><p>21</p></td>
-<td style="text-align: center;"><p><a href="../Page/金美淑.md" title="wikilink">金美淑</a>、<a href="../Page/鄭普碩.md" title="wikilink">鄭普碩</a>、<a href="../Page/李清娥.md" title="wikilink">李清娥</a>、<a href="../Page/鄭善敬.md" title="wikilink">鄭善敬</a>、<a href="../Page/吳大奎.md" title="wikilink">吳大奎</a>、<a href="https://zh.wikipedia.org/wiki/劉瑞珍" title="wikilink">劉瑞珍</a>、<a href="https://zh.wikipedia.org/wiki/金正鉉" title="wikilink">金正鉉</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/金美淑.md" title="wikilink">金美淑</a>、<a href="../Page/鄭普碩.md" title="wikilink">鄭普碩</a>、<a href="../Page/李清娥.md" title="wikilink">李清娥</a>、<a href="../Page/鄭善敬.md" title="wikilink">鄭善敬</a>、<a href="../Page/吳大奎.md" title="wikilink">吳大奎</a>、<a href="https://zh.wikipedia.org/wiki/劉瑞珍" title="wikilink">劉瑞珍</a>、<a href="../Page/金正鉉_(1976年).md" title="wikilink">金正鉉</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金慶浩" title="wikilink">金慶浩</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/河清玉" title="wikilink">河清玉</a></p></td>
 <td style="text-align: center;"></td>

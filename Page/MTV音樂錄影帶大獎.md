@@ -101,21 +101,22 @@ R\&B組合[新版本合唱團](../Page/新版本合唱團.md "wikilink")的各�
 ### 现在所设的奖项
 
   - [Video of the Year](https://zh.wikipedia.org/wiki/MTV_Video_Music_Award_for_Video_of_the_Year "wikilink")
-  - [Best Male Video](https://zh.wikipedia.org/wiki/MTV_Video_Music_Award_for_Best_Male_Video "wikilink")
-  - [Best Female Video](https://zh.wikipedia.org/wiki/MTV_Video_Music_Award_for_Best_Female_Video "wikilink")
   - [Best New Artist](https://zh.wikipedia.org/wiki/MTV_Video_Music_Award_for_Best_New_Artist "wikilink")
   - [Best Pop Video](https://zh.wikipedia.org/wiki/MTV_Video_Music_Award_for_Best_Pop_Video "wikilink")
   - [Best Rock Video](https://zh.wikipedia.org/wiki/MTV_Video_Music_Award_for_Best_Rock_Video "wikilink")
   - [Best Hip-Hop Video](https://zh.wikipedia.org/wiki/MTV_Video_Music_Award_for_Best_Hip_Hop_Video "wikilink")
+  - [Best K-Pop Video](https://zh.wikipedia.org/wiki/MTV_Video_Music_Award_for_Best_K-Pop_Video "wikilink")
+  - [Best R\&B Video](https://zh.wikipedia.org/wiki/MTV_Video_Music_Award_for_Best_R&B_Video "wikilink")
   - [Best Collaboration](https://zh.wikipedia.org/wiki/MTV_Video_Music_Award_for_Best_Collaboration "wikilink")
-  - [Best Direction in a Video](https://zh.wikipedia.org/wiki/MTV_Video_Music_Award_for_Best_Direction "wikilink")
-  - [Best Choreography in a Video](https://zh.wikipedia.org/wiki/MTV_Video_Music_Award_for_Best_Choreography "wikilink")
-  - [Best Special Effects in a Video](https://zh.wikipedia.org/wiki/MTV_Video_Music_Award_for_Best_Special_Effects "wikilink")
-  - [Best Art Direction in a Video](https://zh.wikipedia.org/wiki/MTV_Video_Music_Award_for_Best_Art_Direction "wikilink")
-  - [Best Editing in a Video](https://zh.wikipedia.org/wiki/MTV_Video_Music_Award_for_Best_Editing "wikilink")
-  - [Best Cinematography in a Video](https://zh.wikipedia.org/wiki/MTV_Video_Music_Award_for_Best_Cinematography "wikilink")
-  - Best Video with a Message
-  - [MTV Video Vanguard Award](https://zh.wikipedia.org/wiki/MTV_Video_Vanguard_Award "wikilink")
+  - [Best Direction](https://zh.wikipedia.org/wiki/MTV_Video_Music_Award_for_Best_Direction "wikilink")
+  - [Best Choreography](https://zh.wikipedia.org/wiki/MTV_Video_Music_Award_for_Best_Choreography "wikilink")
+  - [Best Visual Effects](https://zh.wikipedia.org/wiki/MTV_Video_Music_Award_for_Best_Visual_Effects "wikilink")
+  - [Best Art Direction](https://zh.wikipedia.org/wiki/MTV_Video_Music_Award_for_Best_Art_Direction "wikilink")
+  - [Best Editing](https://zh.wikipedia.org/wiki/MTV_Video_Music_Award_for_Best_Editing "wikilink")
+  - [Best Cinematography](https://zh.wikipedia.org/wiki/MTV_Video_Music_Award_for_Best_Cinematography "wikilink")
+  - Video of Good
+  - Song of Summer
+  - [Michael Jackson Video Vanguard Award](https://zh.wikipedia.org/wiki/Michael_Jackson_Video_Vanguard_Award "wikilink")
 
 ### 以前曾有的奖项
 
@@ -146,15 +147,112 @@ R\&B組合[新版本合唱團](../Page/新版本合唱團.md "wikilink")的各�
 
 ## 获奖最多
 
+### 获奖最多的歌手
+
+<table>
+<thead>
+<tr class="header">
+<th><p>歌手</p></th>
+<th><p>獲獎次數[11]</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="../Page/碧昂絲.md" title="wikilink">碧昂絲</a></p></td>
+<td><p>24</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/瑪丹娜" title="wikilink">瑪丹娜</a></p></td>
+<td><p>20</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/女神卡卡" title="wikilink">女神卡卡</a></p></td>
+<td><p>13</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/彼得·蓋布瑞爾.md" title="wikilink">彼得·蓋布瑞爾</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/R.E.M..md" title="wikilink">R.E.M.</a></p></td>
+<td><p>12</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/阿姆.md" title="wikilink">阿姆</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/賈斯汀·提姆布萊克" title="wikilink">賈斯汀·提姆布萊克</a></p></td>
+<td><p>11</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/年輕歲月.md" title="wikilink">綠日樂團</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/泰勒·斯威夫特.md" title="wikilink">泰勒絲</a></p></td>
+<td><p>10</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/史密斯飞船" title="wikilink">史密斯飞船</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>流线胖小子</p></td>
+<td><p>9</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/珍娜·傑克森" title="wikilink">珍娜·傑克森</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>a-ha</p></td>
+<td><p>8</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/嗆辣紅椒.md" title="wikilink">嗆辣紅椒</a>合唱團</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/麥可·傑克森" title="wikilink">麥可·傑克森</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/超級男孩.md" title="wikilink">超級男孩</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/碎南瓜乐队.md" title="wikilink">碎南瓜乐队</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/杰斯.md" title="wikilink">杰斯</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/粉红佳人.md" title="wikilink">粉红佳人</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>En Vogue</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ### 单次颁奖典礼上获奖最多
 
 <table>
 <thead>
 <tr class="header">
-<th><p>Artist</p></th>
-<th><p>Year</p></th>
-<th><p>Number of awards</p></th>
-<th><p>Music video</p></th>
+<th><p>歌手</p></th>
+<th><p>年份</p></th>
+<th><p>獲獎次數</p></th>
+<th><p>音樂錄影帶</p></th>
 </tr>
 </thead>
 <tbody>
@@ -204,103 +302,6 @@ R\&B組合[新版本合唱團](../Page/新版本合唱團.md "wikilink")的各�
 <td><p><a href="https://zh.wikipedia.org/wiki/Fatboy_Slim" title="wikilink">Fatboy Slim</a></p></td>
 <td></td>
 <td><p>"<a href="https://zh.wikipedia.org/wiki/Star_69_/_Weapon_of_Choice" title="wikilink">Weapon of Choice</a>" (6)</p></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-### 获奖最多的歌手
-
-<table>
-<thead>
-<tr class="header">
-<th><p>Artist</p></th>
-<th><p>Number of awards[11]</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><a href="../Page/碧昂絲.md" title="wikilink">碧昂絲</a></p></td>
-<td><p>24</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/瑪丹娜" title="wikilink">瑪丹娜</a></p></td>
-<td><p>20</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/女神卡卡" title="wikilink">女神卡卡</a></p></td>
-<td><p>13</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/彼得·蓋布瑞爾.md" title="wikilink">彼得·蓋布瑞爾</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/R.E.M..md" title="wikilink">R.E.M.</a></p></td>
-<td><p>12</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/阿姆.md" title="wikilink">阿姆</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/賈斯汀·提姆布萊克" title="wikilink">賈斯汀·提姆布萊克</a></p></td>
-<td><p>11</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/年輕歲月.md" title="wikilink">綠日樂團</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/史密斯飞船" title="wikilink">史密斯飞船</a></p></td>
-<td><p>10</p></td>
-</tr>
-<tr class="even">
-<td><p>流线胖小子</p></td>
-<td><p>9</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/珍娜·傑克森" title="wikilink">珍娜·傑克森</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>a-ha</p></td>
-<td><p>8</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/嗆辣紅椒.md" title="wikilink">嗆辣紅椒</a>合唱團</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/麥可·傑克森" title="wikilink">麥可·傑克森</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/泰勒·斯威夫特.md" title="wikilink">泰勒絲</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/超級男孩.md" title="wikilink">超級男孩</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/碎南瓜乐队.md" title="wikilink">碎南瓜乐队</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/杰斯.md" title="wikilink">杰斯</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/粉红佳人.md" title="wikilink">粉红佳人</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>En Vogue</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
 <td></td>
 </tr>
 </tbody>

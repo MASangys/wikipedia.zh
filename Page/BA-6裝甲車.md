@@ -4,7 +4,7 @@ BA-6參加了早期[東線的戰鬥](https://zh.wikipedia.org/wiki/東線 "wikil
 
 ## 外部链接
 
-  - [thetankmaster.com-BA-6](http://www.thetankmaster.com/english/afv/BA6_01.asp)
+  - [thetankmaster.com-BA-6](https://web.archive.org/web/20081015203627/http://www.thetankmaster.com/english/afv/ba6_01.asp)
   - [armchairgeneral.com-BA-6介紹](http://www.armchairgeneral.com/rkkaww2/galleries/armored_cars/BA_6.htm)
 
 [Category:裝甲偵察車](https://zh.wikipedia.org/wiki/Category:裝甲偵察車 "wikilink")

@@ -382,4 +382,4 @@ UH-1N主旋翼由兩個[加拿大普惠PT6T-3渦輪軸發動機的推動](https:
 
 ## 相關
 
-[Category:美國軍用直升機](https://zh.wikipedia.org/wiki/Category:美國軍用直升機 "wikilink")
+[Category:美國軍用直升機](https://zh.wikipedia.org/wiki/Category:美國軍用直升機 "wikilink") [Category:貝爾航空器](https://zh.wikipedia.org/wiki/Category:貝爾航空器 "wikilink")

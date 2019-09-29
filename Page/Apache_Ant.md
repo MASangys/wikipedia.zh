@@ -34,7 +34,7 @@
 ## 外部链接
 
   - [Official website of Apache Ant](http://ant.apache.org/)
-  - [Apache Ant wiki](http://wiki.apache.org/ant/FrontPage)
+  - [Apache Ant wiki](https://web.archive.org/web/20151213155753/http://wiki.apache.org/ant/FrontPage)
   - [WinAnt - Windows installer for Apache Ant](http://code.google.com/p/winant/)
   - [Introduction to Ant](https://web.archive.org/web/20100131063201/http://www.exubero.com/ant/antintro-s5.html) (slide show)
   - [Linguine Maps visualization library will automatically produce easy to read diagrams from Ant build files.](https://web.archive.org/web/20070612182856/http://www.softwaresecretweapons.com/jspwiki/Wiki.jsp?page=LinguineMapsForApacheAnt)

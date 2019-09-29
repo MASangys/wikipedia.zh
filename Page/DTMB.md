@@ -40,27 +40,31 @@ DTMB有多重（簡稱「多載波」）與單一副載波（簡稱「單載波�
 
   - DTMB-A用于4K/8K超高清电视广播
 
-4月1日，清华大学北京信息科学与技术国家研究中心宋健团队负责的中国首次地面数字电视4K频道技术试验试点项目在嘉兴市广播电视中心成功通过验收。 在嘉兴开展的地面数字电视4K频道技术试验，经国家广电总局立项批复，由国家广电总局设计院设计、国家广电总局广科院论证、国家广电总局规划院检测。项目采用了清华大学自主创新的DTMB-A地面数字电视传输技术和中国传媒大学超高清视频节目IP切换系统，验证了地面数字广播传输4K甚至8K超高清视频的可行性，为探索结合区块链技术支持可管可控安全播出，支持4K、8K、VR、多屏直播等需求的新型宽带信息网络架构打下了良好基础。一周前，该项目成果在日内瓦召开的国际电信联盟相关会议报告中引起了关注，进展列入了对应的报告书中。
+2019年4月1日，清华大学北京信息科学与技术国家研究中心宋健团队负责的中国首次地面数字电视4K频道技术试验试点项目在嘉兴市广播电视中心成功通过验收。
+
+在嘉兴开展的地面数字电视4K频道技术试验，经国家广电总局立项批复，由国家广电总局设计院设计、国家广电总局广科院论证、国家广电总局规划院检测。项目采用清华大学自主创新的DTMB-A地面数字电视传输技术和中国传媒大学超高清视频节目IP切换系统，验证了地面数字广播传输4K甚至8K超高清视频的可行性，为探索结合区块链技术支持可管可控安全播出，支持4K、8K、VR、多屏直播等需求的新型宽带信息网络架构打下了良好基础。
+
+DTMB-A系统于2015年成为国际电联标准。采用多项自主研发的创新技术，提出一种灵活帧结构，实现多种数据业务动态复用，满足多媒体信息传输灵活和高效的要求；创新编码调制方式和纠错编码方法，在提升传输系统的频谱效率的同时降低了数字电视接收终端的实现复杂度；增强单频组网能力，有利于实现地面数字电视广播系统更好的信号覆盖。\[6\]
 
 ### 香港
 
 香港在2007年12月31日晚上7時，正式開啟[慈雲山](../Page/慈雲山.md "wikilink")發射站的數碼地面電視信号，覆蓋香港總面積的40至50%，包括港島北部、九龍半島、沙田部分地區、大嶼山東部。而在2008年，[飛鵝山](../Page/飛鵝山.md "wikilink")、[金山](https://zh.wikipedia.org/wiki/金山_\(香港\) "wikilink")、[青山](../Page/青山_\(香港\).md "wikilink")、[九龍坑山和](https://zh.wikipedia.org/wiki/九龍坑山 "wikilink")[南丫島](../Page/南丫島.md "wikilink")的發射站將會完成興建，屆時覆蓋率將會逹75%。在2009至2011年，其餘23個發射站相繼啟用後，數碼地面電視廣播將覆蓋香港99%人口。
 
-在DTMB的基礎上，香港在啟播時選用了[MPEG-2](../Page/MPEG-2.md "wikilink")和[H.264分別作模擬同步播放頻道和新數位頻道的影像編碼](https://zh.wikipedia.org/wiki/H.264 "wikilink")，以[MPEG-1 Audio Layer II和](../Page/MPEG-1_Audio_Layer_II.md "wikilink")[AC-3作聲音編碼](../Page/杜比数字.md "wikilink")，[字幕](../Page/字幕.md "wikilink")系統和[電子節目指南](https://zh.wikipedia.org/wiki/電子節目指南 "wikilink")（EPG）則採用[DVB](../Page/DVB.md "wikilink")制式\[6\]，互動功能由廣播商自行決定，[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")選用了[MHEG-5](../Page/MHEG-5.md "wikilink")制式\[7\]。2012年10月28日起，所有播放頻道均以H.264影像編碼格式廣播\[8\]。
+在DTMB的基礎上，香港在啟播時選用了[MPEG-2](../Page/MPEG-2.md "wikilink")和[H.264分別作模擬同步播放頻道和新數位頻道的影像編碼](https://zh.wikipedia.org/wiki/H.264 "wikilink")，以[MPEG-1 Audio Layer II和](../Page/MPEG-1_Audio_Layer_II.md "wikilink")[AC-3作聲音編碼](../Page/杜比数字.md "wikilink")，[字幕](../Page/字幕.md "wikilink")系統和[電子節目指南](https://zh.wikipedia.org/wiki/電子節目指南 "wikilink")（EPG）則採用[DVB](../Page/DVB.md "wikilink")制式\[7\]，互動功能由廣播商自行決定，[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")選用了[MHEG-5](../Page/MHEG-5.md "wikilink")制式\[8\]。2012年10月28日起，所有播放頻道均以H.264影像編碼格式廣播\[9\]。
 
 #### 接收儀器
 
 [Basic.jpg](https://zh.wikipedia.org/wiki/File:Basic.jpg "fig:Basic.jpg") [Receiver2.jpg](https://zh.wikipedia.org/wiki/File:Receiver2.jpg "fig:Receiver2.jpg") 在香港，數碼地面廣播可以外置接收器（[機頂盒](https://zh.wikipedia.org/wiki/機頂盒 "wikilink")）或者一體式電視機（綜合數碼電視機）接收。
 
-接收器分為基本版及升級版，前者僅能接收4條以數碼模式同步廣播的[現有免費頻道](https://zh.wikipedia.org/wiki/香港電視廣播#電視頻道 "wikilink")；後者可接收所有高清電視和標清電視節目頻道，以及提供額外的文字資訊等功能，初時售價為二千多港元或以上，但其後價格下降至最低約700港元。[電訊管理局已提供認證服務](https://zh.wikipedia.org/wiki/電訊管理局 "wikilink")，機頂盒生產商可分別在所屬機頂盒，貼上「基本版接收器」或「升級版接收器」標籤，供消費者識別\[9\]。由於原有的4條同步廣播頻道已經改用H.264編碼格式，所以技術上只能處理以MPEG-2視訊格式編碼頻道的基本版接收器已經無法收看任何香港數碼電視頻道。[通訊事務管理局](../Page/通訊事務管理局.md "wikilink")已將「基本版接收器」從標籤計劃移除，而直至移除之前，仍未有一部合格的基本版接收器推出市面。
+接收器分為基本版及升級版，前者僅能接收4條以數碼模式同步廣播的[現有免費頻道](https://zh.wikipedia.org/wiki/香港電視廣播#電視頻道 "wikilink")；後者可接收所有高清電視和標清電視節目頻道，以及提供額外的文字資訊等功能，初時售價為二千多港元或以上，但其後價格下降至最低約700港元。[電訊管理局已提供認證服務](https://zh.wikipedia.org/wiki/電訊管理局 "wikilink")，機頂盒生產商可分別在所屬機頂盒，貼上「基本版接收器」或「升級版接收器」標籤，供消費者識別\[10\]。由於原有的4條同步廣播頻道已經改用H.264編碼格式，所以技術上只能處理以MPEG-2視訊格式編碼頻道的基本版接收器已經無法收看任何香港數碼電視頻道。[通訊事務管理局](../Page/通訊事務管理局.md "wikilink")已將「基本版接收器」從標籤計劃移除，而直至移除之前，仍未有一部合格的基本版接收器推出市面。
 
-不過香港現有建築物的公共天線系統，需要經過微調才能接收數位廣播，否則公共天線使用者將未能接收新的數位廣播頻道\[10\]。
+不過香港現有建築物的公共天線系統，需要經過微調才能接收數位廣播，否則公共天線使用者將未能接收新的數位廣播頻道\[11\]。
 
-另外，要使用[TVB的互動功能](https://zh.wikipedia.org/wiki/TVB "wikilink")，需要購買符合[MHEG-5](../Page/MHEG-5.md "wikilink")標準的中間件規格的解碼器，TVB亦自行推出了名為「[TVB互動功能](http://www.tvb.com/affairs/faq/press/images/TVB_Interactive_logo.jpg)」的標籤計畫\[11\]。
+另外，要使用[TVB的互動功能](https://zh.wikipedia.org/wiki/TVB "wikilink")，需要購買符合[MHEG-5](../Page/MHEG-5.md "wikilink")標準的中間件規格的解碼器，TVB亦自行推出了名為「[TVB互動功能](http://www.tvb.com/affairs/faq/press/images/TVB_Interactive_logo.jpg)」的標籤計畫\[12\]。
 
 ### 澳門
 
-[澳廣視於](https://zh.wikipedia.org/wiki/澳廣視 "wikilink")2008年7月15日開始以DTMB制式進行[數碼電視廣播](https://zh.wikipedia.org/wiki/數碼電視 "wikilink")。目前澳门地面数码电视广播共有15个频道，其中71-78频道为转播中国内地电视频道，91-97频道为澳广视自办频道。\[12\]。
+[澳廣視於](https://zh.wikipedia.org/wiki/澳廣視 "wikilink")2008年7月15日開始以DTMB制式進行[數碼電視廣播](https://zh.wikipedia.org/wiki/數碼電視 "wikilink")。目前澳门地面数码电视广播共有15个频道，其中71-78频道为转播中国内地电视频道，91-97频道为澳广视自办频道。\[13\]。
 
 ## 採用國家和地區
 
@@ -88,7 +92,7 @@ DTMB有多重（簡稱「多載波」）與單一副載波（簡稱「單載波�
 
 ### 北美
 
-  - \[13\]
+  - \[14\]
 
 ## 參考資料
 
@@ -125,11 +129,13 @@ DTMB有多重（簡稱「多載波」）與單一副載波（簡稱「單載波�
 
 8.
 
-9.  [數位廣播Q\&A](http://hk.news.yahoo.com/071127/12/2kajq.html) ，原載香港《[明報](../Page/明報.md "wikilink")》，2007-11-28。
+9.
 
-10. [供應商憂公共天線未升級 得物無所用](http://hk.news.yahoo.com/071127/12/2kajp.html) , 原載香港《[明報](../Page/明報.md "wikilink")》，2007-11-28。
+10. [數位廣播Q\&A](http://hk.news.yahoo.com/071127/12/2kajq.html) ，原載香港《[明報](../Page/明報.md "wikilink")》，2007-11-28。
 
-11.
+11. [供應商憂公共天線未升級 得物無所用](http://hk.news.yahoo.com/071127/12/2kajp.html) , 原載香港《[明報](../Page/明報.md "wikilink")》，2007-11-28。
+
 12.
+13.
 
-13. [CNTV English](http://english.cntv.cn/program/newsupdate/20130320/100031.shtml)  2013年3月21日檢索
+14. [CNTV English](http://english.cntv.cn/program/newsupdate/20130320/100031.shtml)  2013年3月21日檢索

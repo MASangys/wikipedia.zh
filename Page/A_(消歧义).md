@@ -131,7 +131,7 @@
   - [A股](https://zh.wikipedia.org/wiki/A股 "wikilink")
   - a，[十二小时制中](https://zh.wikipedia.org/wiki/十二小时制 "wikilink")[上午](https://zh.wikipedia.org/wiki/上午 "wikilink")（am）的简称
   - 在[香港](../Page/香港.md "wikilink")[俚语中](https://zh.wikipedia.org/wiki/俚语 "wikilink")，“**A**货”（名词）即“仿真度甚高的[冒牌货](https://zh.wikipedia.org/wiki/冒牌货 "wikilink")”
-  - 在[台湾](https://zh.wikipedia.org/wiki/台湾 "wikilink")[俚语中](https://zh.wikipedia.org/wiki/俚语 "wikilink")，“**A**”（动词）同粵语“[呃](https://zh.wikipedia.org/wiki/呃 "wikilink")”，即“[騙](https://zh.wikipedia.org/wiki/騙 "wikilink")”或“[欺騙](https://zh.wikipedia.org/wiki/欺騙 "wikilink")”。
+  - 在[台湾](https://zh.wikipedia.org/wiki/台湾 "wikilink")[俚语中](https://zh.wikipedia.org/wiki/俚语 "wikilink")，“**A**”（动词）同粵语“[呃](https://zh.wikipedia.org/wiki/呃 "wikilink")”，即“[騙](https://zh.wikipedia.org/wiki/騙 "wikilink")”或“[欺騙](../Page/欺騙.md "wikilink")”。
 
 ## 参见
 

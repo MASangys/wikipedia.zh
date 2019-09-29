@@ -114,7 +114,7 @@ Academi由下列子公司與獨立部門組成如下：
 
   - [Official website](http://academi.com/)
   - [U.S. Training Center's official website](https://web.archive.org/web/20090802030954/http://www.ustraining.com/)
-  - [Greystone Limited's website (international division)](http://www.greystone-ltd.com/)
+  - [Greystone Limited's website (international division)](https://web.archive.org/web/20110126101703/http://greystone-ltd.com/)
 
 [Category:美國公司](https://zh.wikipedia.org/wiki/Category:美國公司 "wikilink") [Category:1997年成立的公司](https://zh.wikipedia.org/wiki/Category:1997年成立的公司 "wikilink") [Category:私人军事服务公司](https://zh.wikipedia.org/wiki/Category:私人军事服务公司 "wikilink") [Category:美国雇佣兵](https://zh.wikipedia.org/wiki/Category:美国雇佣兵 "wikilink") [Category:1997年美國建立](https://zh.wikipedia.org/wiki/Category:1997年美國建立 "wikilink")
 

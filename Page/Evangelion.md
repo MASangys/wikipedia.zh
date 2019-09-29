@@ -54,7 +54,7 @@ EVA需要选出[適格者来操纵](https://zh.wikipedia.org/wiki/新世纪福�
 
 ### 初號機
 
-試驗初號機（EVA-01 TEST TYPE）
+[缩略图](https://zh.wikipedia.org/wiki/File:Evangelion_Test_Type-01_at_the_site_of_Shanghai_Metallurgical_&_Mine_Machinery_Factory.jpg "fig:缩略图") 試驗初號機（EVA-01 TEST TYPE）
 
 寄宿著碇唯靈魂的EVA。塗裝為紫色，駕駛者是第三適格者[碇真嗣](../Page/碇真嗣.md "wikilink")。
 

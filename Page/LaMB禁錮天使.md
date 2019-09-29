@@ -64,6 +64,12 @@
   - 禁錮天使無法說話，但可聆聽及思考。
   - 假如禁錮天使攻擊人類，他們會遭受[電擊](https://zh.wikipedia.org/wiki/電擊 "wikilink")。
 
+## 獎項
+
+### 金鐘獎
+
+|- |rowspan="1"|2009年 |《LaMB禁錮天使》 | [第44屆金鐘獎](https://zh.wikipedia.org/wiki/第44屆金鐘獎 "wikilink") [動畫節目獎](../Page/金鐘獎動畫節目獎得獎列表.md "wikilink") |  |- |}
+
 ## 播放電視台
 
 ## 外部連結

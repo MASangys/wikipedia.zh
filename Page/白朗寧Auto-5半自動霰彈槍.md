@@ -22,7 +22,7 @@ Auto-5在[第一次世界大战](../Page/第一次世界大战.md "wikilink")至
 
 1902年1月8日，白朗寧來到[雷明登武器公司](../Page/雷明登武器公司.md "wikilink")並且洽談相關事宜。但是更不幸的是，白朗寧等待他們提供槍械製造技術期間，雷明登公司的總裁哈特利突然[心臟病病發猝逝](https://zh.wikipedia.org/wiki/心臟病 "wikilink")，合作協議再一次無法達成。這事件迫使白朗寧必需尋找海外的[槍械製造商來生產該款半自動霰彈槍](https://zh.wikipedia.org/wiki/槍械製造商 "wikilink")。
 
-這時，白朗寧轉而又想到了正在與其合作生產手枪的[國營赫斯塔爾公司](https://zh.wikipedia.org/wiki/赫爾斯塔爾國營工廠 "wikilink")（，簡稱：FN，該公司目前仍然大規模生產由白朗寧所設計的手槍）。國營赫斯塔爾公司高層對白朗寧Auto-5半自動霰彈槍設計十分感到興趣，而且同意只獲授權特許生產，並於同年3月24日與白朗寧簽訂了生產合同。最後，它最先交由國營赫斯塔爾公司開始生產。
+這時，白朗寧轉而又想到了正在與其合作生產手枪的[國營埃斯塔勒公司](https://zh.wikipedia.org/wiki/埃斯塔勒國營工廠 "wikilink")（，簡稱：FN，該公司目前仍然大規模生產由白朗寧所設計的手槍）。國營赫斯塔爾公司高層對白朗寧Auto-5半自動霰彈槍設計十分感到興趣，而且同意只獲授權特許生產，並於同年3月24日與白朗寧簽訂了生產合同。最後，它最先交由國營赫斯塔爾公司開始生產。
 
 [Browning_auto_5_catalog.png](https://zh.wikipedia.org/wiki/File:Browning_auto_5_catalog.png "fig:Browning_auto_5_catalog.png")圖以上的Auto-5。\]\]
 

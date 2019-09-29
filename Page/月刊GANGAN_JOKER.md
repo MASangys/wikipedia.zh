@@ -479,7 +479,7 @@ tanu（角色原案）<br />
 </tr>
 <tr class="even">
 <td><p>46</p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ROSE_GUNS_DAYS" title="wikilink">ROSE GUNS DAYS Season1</a></p></td>
 <td><p>宗一郎（作畫）</p></td>
 <td><p><a href="../Page/龍騎士07.md" title="wikilink">龍騎士07</a>（原作、監修）</p></td>
 <td><p>2012.09</p></td>

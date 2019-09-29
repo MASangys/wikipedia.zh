@@ -12,11 +12,11 @@ M468使用了新的[6.8毫米雷明顿SPC](https://zh.wikipedia.org/wiki/6.8毫�
 
 ### REC7
 
-REC7步槍為短行程活塞設計，其活塞為一體式設計，而可調節導氣座上方設有一段[皮卡汀尼導軌](../Page/皮卡汀尼導軌.md "wikilink")，可供安裝機械瞄具等附件。護木則由最初的Daniel Defense Omega X 9.0改為自行生產的[M-LOK](../Page/M-LOK.md "wikilink")護木。配件方面則大量采用第三方生產的配件，如握把及槍托為[馬格普的產品](../Page/馬格普工業公司.md "wikilink")，而槍機拉柄及快慢機選擇鈕則選用[Radian的產品](../Page/Radian_Weapons.md "wikilink")。扳機方面則選用ALG Defense或Geissele的產品。\[1\]
+REC7步槍為短行程活塞設計，其活塞為一體式設計，而可調節導氣座上方設有一段[皮卡汀尼導軌](../Page/皮卡汀尼導軌.md "wikilink")，可供安裝機械瞄具等附件。護木則由最初的Daniel Defense Omega X 9.0改為自行生產的[M-LOK](../Page/M-LOK.md "wikilink")護木。配件方面則大量采用第三方生產的配件，如握把及槍托為[馬格普的產品](../Page/馬格普工業公司.md "wikilink")，而槍機拉柄及快慢機選擇鈕則選用[Radian的產品](../Page/Radian_Weapons.md "wikilink")。扳機方面則選用ALG Defense或[Geissele的產品](https://zh.wikipedia.org/wiki/Geissele_Automatics "wikilink")。\[1\]
 
 ### REC7 DI
 
-REC7 DI為REC7的直接導氣式版本，其導氣座後方設有定位凸點，並於前方由一螺母鎖緊。此設計方便用家拆下導氣座作清潔或檢查。其餘配置則與REC7相似，分別為REC7采用[馬格普的MBUS](../Page/馬格普工業公司.md "wikilink") PRO金屬機械瞄具及Geissele SSA扳機，而REC7 DI則采用[馬格普的MBUS聚合物機械瞄具及ALG](../Page/馬格普工業公司.md "wikilink") Defense QMS扳機。\[2\]
+REC7 DI為REC7的直接導氣式版本，其導氣座後方設有定位凸點，並於前方由一螺母鎖緊。此設計方便用家拆下導氣座作清潔或檢查。其餘配置則與REC7相似，分別為REC7采用[馬格普的MBUS](../Page/馬格普工業公司.md "wikilink") PRO金屬機械瞄具及[Geissele](https://zh.wikipedia.org/wiki/Geissele_Automatics "wikilink") SSA扳機，而REC7 DI則采用[馬格普的MBUS聚合物機械瞄具及ALG](../Page/馬格普工業公司.md "wikilink") Defense QMS扳機。\[2\]
 
 | 型號      | 口徑                                                                             | 長度                                                                   | 槍管長度   | 重量    |
 | ------- | ------------------------------------------------------------------------------ | -------------------------------------------------------------------- | ------ | ----- |

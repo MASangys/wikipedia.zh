@@ -1152,6 +1152,7 @@ P90的首次實戰紀錄是[比利時的特種部隊用於](https://zh.wikipedia
   - [AR-57](../Page/AR-57卡賓槍.md "wikilink")
   - [HK MP7衝鋒槍](https://zh.wikipedia.org/wiki/HK_MP7衝鋒槍 "wikilink")
   - [新科動力CPW衝鋒槍](../Page/新科動力CPW衝鋒槍.md "wikilink")
+  - [FN PS90半自動卡賓槍](../Page/FN_PS90半自動卡賓槍.md "wikilink")
   - [FN F2000突擊步槍](../Page/FN_F2000突擊步槍.md "wikilink")
   - [XM29 OICW](../Page/XM29_OICW.md "wikilink")
 

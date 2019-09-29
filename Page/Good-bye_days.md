@@ -1,6 +1,8 @@
-『**Good-bye days**』是[日本](../Page/日本.md "wikilink")唱作女歌手[YUI](../Page/YUI.md "wikilink")的第五張單曲碟，於2006年6月14日所推出的單曲碟。 本單曲碟為配合電影「[太陽之歌](../Page/太陽之歌.md "wikilink")」，以「YUI for 雨音薫」的名義推出。這是首張由 [STUDIOSEVEN Recordings](https://zh.wikipedia.org/wiki/STUDIOSEVEN_Recordings "wikilink") 發行的單曲碟。簡介：實力創作女新人YUI去年以一曲「feel my soul」而備受注目。歌而優則演的她將會首次主演電影，與塚本高史合演純愛電影《太陽之歌》。電影講述患有[著色性乾皮症](../Page/著色性乾皮症.md "wikilink")（Xeroderma Pigmentosum，簡稱XP），不能被陽光照射的少女雨音薰與陽光男孩的愛情故事。由YUI主唱的主題曲「Good-bye days」的歌詞更是在她拍攝時以電影的內容寫下的。
+《**Good-bye days**》是[日本](../Page/日本.md "wikilink")唱作女歌手[YUI](../Page/YUI.md "wikilink")的第五張單曲碟，於2006年6月14日所推出的單曲碟。
 
-大碟另收錄電影插曲「Skyline」和「It's Happy Line」。
+本單曲碟為配合電影《[太陽之歌](../Page/太陽之歌.md "wikilink")》，以「YUI for 雨音薫」的名義推出。這是首張由 [STUDIOSEVEN Recordings](https://zh.wikipedia.org/wiki/STUDIOSEVEN_Recordings "wikilink") 發行的單曲碟。簡介：實力創作女新人YUI去年以一曲「feel my soul」而備受注目。歌而優則演的她將會首次主演電影，與塚本高史合演純愛電影《太陽之歌》。電影講述患有[著色性乾皮症](../Page/著色性乾皮症.md "wikilink")（Xeroderma Pigmentosum，簡稱XP），不能被陽光照射的少女雨音薰與陽光男孩的愛情故事。由YUI主唱的主題曲《Good-bye days》的歌詞更是在她拍攝時以電影的內容寫下的。
+
+大碟另收錄電影插曲《Skyline》和《It's Happy Line》。
 
 ## 收錄歌曲
 
@@ -24,7 +26,7 @@
 ## 銷售紀錄
 
   - 累積發售量：241,873
-  - [Oricon](../Page/Oricon.md "wikilink")最高排名：第3名（11次）
+  - [Oricon](../Page/Oricon.md "wikilink")最高排名：第3名
   - [Oricon](../Page/Oricon.md "wikilink")上榜次數：44次
 
 \[1\]

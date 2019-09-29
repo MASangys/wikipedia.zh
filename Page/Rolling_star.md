@@ -1,4 +1,8 @@
-『**Rolling star**』是日本唱作女歌手[YUI](../Page/YUI.md "wikilink")，於2007年1月17日所推出的單曲碟。由 [STUDIOSEVEN Recordings](https://zh.wikipedia.org/wiki/STUDIOSEVEN_Recordings "wikilink") 發行。初回版本附送印有「[死神](../Page/BLEACH.md "wikilink")」插圖的貼紙。唱作女歌手YUI以其自然純淨的嗓音迷倒不少歌迷，去年推出的首張個人大碟《FROM ME TO YOU》好評如潮，主演的純愛電影《太陽之歌》和主唱主題曲「Good-bye Days」均取得不俗成績，令她人氣急升。渡過了豐收的一年之後，致力音樂創作的YUI為大家帶來最新單曲《Rolling Star》。 「Rolling Star」與YUI一直以來的形象大為不同，是一首情緒高昂的搖滾樂曲。此歌也是YUI特別寫給每天都在努力奮鬥的人的打氣歌。而另一首新歌「Winter Hot Music」則是一首非常適合冬日的情歌。
+《**Rolling star**》是日本唱作女歌手[YUI](../Page/YUI.md "wikilink")於2007年1月17日所推出的單曲碟。由[STUDIOSEVEN Recordings發行](https://zh.wikipedia.org/wiki/STUDIOSEVEN_Recordings "wikilink")。初回版本附送印有「[死神](../Page/BLEACH.md "wikilink")」插圖的貼紙。
+
+唱作女歌手YUI以其自然純淨的嗓音迷倒不少歌迷，去年推出的首張個人大碟《FROM ME TO YOU》好評如潮，主演的純愛電影《太陽之歌》和主唱主題曲「Good-bye Days」均取得不俗成績，令她人氣急升。渡過了豐收的一年之後，致力音樂創作的YUI為大家帶來最新單曲《Rolling Star》。
+
+「Rolling Star」與YUI一直以來的形象大為不同，是一首情緒高昂的搖滾樂曲。此歌也是YUI特別寫給每天都在努力奮鬥的人的打氣歌。而另一首新歌「Winter Hot Music」則是一首非常適合冬日的情歌。
 
 ## 收錄歌曲
 

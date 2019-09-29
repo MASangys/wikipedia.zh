@@ -1,4 +1,6 @@
-**Adobe Shockwave**（前为Macromedia Shockwave）是Macromedia在[Flash之前最成功的](../Page/Adobe_Flash.md "wikilink")[多媒体播放器](https://zh.wikipedia.org/wiki/多媒体播放器 "wikilink")。它能将[Adobe Director制作的](../Page/Adobe_Director.md "wikilink")[应用程序](../Page/应用程序.md "wikilink")发布到[互联网](../Page/互联网.md "wikilink")上，被安装有Shockwave[插件](../Page/插件.md "wikilink")的[浏览器浏览](https://zh.wikipedia.org/wiki/浏览器 "wikilink")。
+**Adobe Shockwave**（前为Macromedia Shockwave） 是一個基於[網頁瀏覽器的多媒體平台](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")，用於交互式應用程式和視頻遊戲。 它是Macromedia在[Flash之前最成功的](../Page/Adobe_Flash.md "wikilink")[多媒体播放器](https://zh.wikipedia.org/wiki/多媒体播放器 "wikilink")。它能将[Adobe Director制作的](../Page/Adobe_Director.md "wikilink")[应用程序](../Page/应用程序.md "wikilink")发布到[互联网](../Page/互联网.md "wikilink")上，被安装有Shockwave[插件](../Page/插件.md "wikilink")的[浏览器浏览](https://zh.wikipedia.org/wiki/浏览器 "wikilink")。Adobe Shockwave是一個基於瀏覽器的多媒體平台，用於交互式應用程序和視頻遊戲。
+
+自2019年4月9日起，Adobe Shockwave將停止營運，Windows的Shockwave播放器將不再可供下載。\[1\]
 
 ## 描述
 
@@ -51,19 +53,20 @@ Afterburner作为一个Xtra被集成到了Director 5.0中。
 
 在1990年代末，[Macromedia](../Page/Macromedia.md "wikilink")为了提升Shockwave的知名度，将其名下的所有多媒体播放器都冠以了“Shockwave”的前缀。虽然此举達到了预期的效果，但Shockwave和[Flash变得越来越难区分](../Page/Adobe_Flash.md "wikilink")。在2005年，Macromedia发布了三款浏览器插件：[Macromedia Authorware](https://zh.wikipedia.org/wiki/Macromedia_Authorware "wikilink")、Macromedia Shockwave和[Macromedia Flash](https://zh.wikipedia.org/wiki/Macromedia_Flash "wikilink")。
 
-Macromedia还发布了一款在线查看[Macromedia FreeHand的插件名叫Macromedia](https://zh.wikipedia.org/wiki/Macromedia_FreeHand "wikilink") Shockwave for FreeHand。 \[1\]
+Macromedia还发布了一款在线查看[Macromedia FreeHand的插件名叫Macromedia](https://zh.wikipedia.org/wiki/Macromedia_FreeHand "wikilink") Shockwave for FreeHand。 \[2\]
 
 [Adobe](../Page/Adobe.md "wikilink")收购Macromedia后，Adobe开始缓慢地为与Shockwave相关的[多媒体播放器重新命名](https://zh.wikipedia.org/wiki/多媒体播放器 "wikilink")。
 
 ## 市场占有率
 
-根据[Adobe的数据](https://zh.wikipedia.org/wiki/Adobe_Systems "wikilink")，Adobe Shockwave Player在52.3%的PC上安装。\[2\]
+根据[Adobe的数据](https://zh.wikipedia.org/wiki/Adobe_Systems "wikilink")，Adobe Shockwave Player在52.3%的PC上安装。\[3\]
 
 ## 參考文獻
 
 {{-}}
 
-[Category:Adobe软件](https://zh.wikipedia.org/wiki/Category:Adobe软件 "wikilink") [Category:媒体播放器](https://zh.wikipedia.org/wiki/Category:媒体播放器 "wikilink")
+[Category:已停止開發的Adobe軟體](https://zh.wikipedia.org/wiki/Category:已停止開發的Adobe軟體 "wikilink") [Category:媒体播放器](https://zh.wikipedia.org/wiki/Category:媒体播放器 "wikilink")
 
 1.
 2.
+3.

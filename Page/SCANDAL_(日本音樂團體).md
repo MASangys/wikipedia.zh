@@ -173,17 +173,19 @@ SCANDAL的《Satisfaction》（）於同年10月被採用為[Windows 8的廣告�
 
 3月2日SCANDAL發行了第7張原創專輯《[YELLOW](../Page/YELLOW_\(SCANDAL專輯\).md "wikilink")》，該專輯收錄了《[Stamp\!](https://zh.wikipedia.org/wiki/Stamp! "wikilink")》，《Sisters》，《Love Me Do》及《SUKI-SUKI》等主打歌曲，亦收錄了SCANDAL首次嘗試創作的純音樂作品《Room No.7》，止專輯亦是首張所有作品皆由SCANDAL團員全權負責創作的專輯。該專輯取得了Oricon公信榜第2名，刷新了樂團有史以來公信榜的最高紀錄\[74\]。另外截至當時為止樂團全部七張原創專輯及兩張精選專輯都獲得Oricon公信榜5名以內。
 
-2016年4月開始，SCANDAL以樂團結成十週年的氣勢，舉辦了「YELLOW」世界巡回演唱會(亞洲站)，除了在日本多個地區進行公演外，也去了不少國家如新加坡，泰國，台灣和香港等地巡回演出。
+2016年4月開始，SCANDAL以樂團結成十週年的氣勢，舉辦了「YELLOW」世界巡回演唱會(亞洲站)，除了在日本多個地區進行公演外，也在新加坡，泰國，台灣和香港等國家巡回演出。
 
-5月14日，結他手MAMI在東京公演完結後，感到身體不適，要送院十天接受檢查及休養，原本於5月19日及20日在大阪舉行的兩場公演也因此要延期\[75\]。
+5月14日，結他手MAMI在東京公演完結後，感到身體不適，要送院十天接受檢查及休養，原本於5月19日及20日在大阪舉行的兩場公演也因此延期\[75\]。
+
+### 2018-2019年
+
+在2018年的聖誕節特別演唱會上，SCANDAL宣布即將成立新的獨立音樂廠牌「her」\[76\]，以達到更高的創作自由度。在2019年3月27日，發行新的雙A面單曲「Masterpiece/瞬間」。並在2019年6至7月，展開新的巡迴演唱「FUZZY SUMMER MOOD」。
 
 ## 風格
 
-樂風可說是顏值搖滾。
+「[校服](https://zh.wikipedia.org/wiki/日本學生服 "wikilink")」是SCANDAL甫出道時的一個重大特色。雖然如此，她們並非為打造一支「校服樂團」而這樣做。據她們所講，組成樂團時全部成員都還是學生，經常穿著校服練習，因此於正式演出時仍穿上校服，減輕自己的緊張\[77\]。由於服裝上予人相當強烈的[偶像形象](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")，剛開始的技術也不夠，所以曾引來「是否真的在演奏」等的質疑\[78\]\[79\]。現時樂團的服裝不再以校服為主調。她們由第9張單曲《[Pride](../Page/Pride_\(SCANDAL單曲\).md "wikilink")》（2011年2月）起開始不留黑長直髮\[80\]。她們表示不希望人們只看見校服的部分，故不在意因此流失一些歌迷\[81\]。
 
-「[校服](https://zh.wikipedia.org/wiki/日本學生服 "wikilink")」是SCANDAL甫出道時的一個重大特色。雖然如此，她們並非為打造一支「校服樂團」而這樣做。據她們所講，組成樂團時全部成員都還是學生，經常穿著校服練習，因此於正式演出時仍穿上校服，減輕自己的緊張\[76\]。由於服裝上予人相當強烈的[偶像形象](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")，剛開始的技術也不夠，所以曾引來「是否真的在演奏」等的質疑\[77\]\[78\]。現時樂團的服裝不再以校服為主調。她們由第9張單曲《[Pride](../Page/Pride_\(SCANDAL單曲\).md "wikilink")》（2011年2月）起開始不留黑長直髮\[79\]。她們表示不希望人們只看見校服的部分，故不在意因此流失一些歌迷\[80\]。
-
-SCANDAL曾說過她們受到一些[美國樂團的影響](https://zh.wikipedia.org/wiki/美國 "wikilink")，包括[嗆辣紅椒](../Page/嗆辣紅椒.md "wikilink")和[超脫樂團等等](https://zh.wikipedia.org/wiki/超脫樂團 "wikilink")\[81\]。在2008年一次訪問中，當她們被問及受到哪些藝人影響時，HARUNA舉出[YUI](../Page/YUI.md "wikilink")、[艾薇兒·拉維尼](../Page/艾薇兒·拉維尼.md "wikilink")、[麥莉·希拉](../Page/麥莉·希拉.md "wikilink")等女歌手，RINA舉出[Maximum The Hormone的鼓手](../Page/Maximum_The_Hormone.md "wikilink")和美國音樂人[Steve Gadd](https://zh.wikipedia.org/wiki/Steve_Gadd "wikilink")，TOMOMI則舉出[討伐體制樂團](../Page/討伐體制樂團.md "wikilink")\[82\]。
+SCANDAL曾說過她們受到一些[美國樂團的影響](https://zh.wikipedia.org/wiki/美國 "wikilink")，包括[嗆辣紅椒](../Page/嗆辣紅椒.md "wikilink")和[超脫樂團等等](https://zh.wikipedia.org/wiki/超脫樂團 "wikilink")\[82\]。在2008年一次訪問中，當她們被問及受到哪些藝人影響時，HARUNA舉出[YUI](../Page/YUI.md "wikilink")、[艾薇兒·拉維尼](../Page/艾薇兒·拉維尼.md "wikilink")、[麥莉·希拉](../Page/麥莉·希拉.md "wikilink")等女歌手，RINA舉出[Maximum The Hormone的鼓手](../Page/Maximum_The_Hormone.md "wikilink")和美國音樂人[Steve Gadd](https://zh.wikipedia.org/wiki/Steve_Gadd "wikilink")，TOMOMI則舉出[討伐體制樂團](../Page/討伐體制樂團.md "wikilink")\[83\]。
 
 ## 音樂作品
 
@@ -197,7 +199,7 @@ SCANDAL曾說過她們受到一些[美國樂團的影響](https://zh.wikipedia.o
 <th><p>名稱</p></th>
 <th><p>發行日期</p></th>
 <th><p><a href="../Page/Oricon公信榜.md" title="wikilink">Oricon公信榜</a><br />
-周榜最高排名[83]</p></th>
+周榜最高排名[84]</p></th>
 </tr>
 </thead>
 <tbody>
@@ -1206,7 +1208,7 @@ SCANDAL曾說過她們受到一些[美國樂團的影響](https://zh.wikipedia.o
 
 ## 獎項
 
-  - 第51屆[日本唱片大獎](../Page/日本唱片大獎.md "wikilink") 新人獎\[84\]
+  - 第51屆[日本唱片大獎](../Page/日本唱片大獎.md "wikilink") 新人獎\[85\]
 
 ## 參考資料
 
@@ -1366,8 +1368,8 @@ SCANDAL曾說過她們受到一些[美國樂團的影響](https://zh.wikipedia.o
 76.
 
 77.
-78.
 
+78.
 79.
 
 80.
@@ -1379,3 +1381,5 @@ SCANDAL曾說過她們受到一些[美國樂團的影響](https://zh.wikipedia.o
 83.
 
 84.
+
+85.

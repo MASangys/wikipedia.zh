@@ -6762,7 +6762,7 @@
 </tr>
 <tr class="even">
 <td><p>696</p></td>
-<td><p>'''<a href="https://zh.wikipedia.org/wiki/御靈保全公司" title="wikilink">御靈保全公司</a> '''</p></td>
+<td><p>'''<a href="https://zh.wikipedia.org/wiki/除靈保鏢" title="wikilink">除靈保鏢</a> '''</p></td>
 <td></td>
 <td><p>－</p></td>
 <td><p>2019.40</p></td>

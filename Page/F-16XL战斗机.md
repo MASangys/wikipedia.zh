@@ -2,6 +2,8 @@
 
 ## 開發經歷
 
+[F-16XL_loaded_with_500lb_bombs.jpg](https://zh.wikipedia.org/wiki/File:F-16XL_loaded_with_500lb_bombs.jpg "fig:F-16XL_loaded_with_500lb_bombs.jpg") [F-16_and_F-16XL_aerial_top_down_view.jpg](https://zh.wikipedia.org/wiki/File:F-16_and_F-16XL_aerial_top_down_view.jpg "fig:F-16_and_F-16XL_aerial_top_down_view.jpg")
+
 F-16XL隨後參與[美國空軍的](https://zh.wikipedia.org/wiki/美國空軍 "wikilink")「提升型戰術戰鬥機」（Enhanced Tactical Fighter，ETF）計畫，作為強化對地攻擊能力的打擊戰鬥機候選機型，但是最後敗給了由F-15B提升的[F-15E打擊鷹式戰鬥轟炸機](../Page/F-15E打擊鷹式戰鬥轟炸機.md "wikilink")。之後，F-16XL的發展計劃遭到擱置，已完成的原型機則被轉往[美國國家航空暨太空總署進行航空學的研究](https://zh.wikipedia.org/wiki/美國國家航空暨太空總署 "wikilink")。
 
 [阿拉伯聯合大公國採購F](https://zh.wikipedia.org/wiki/阿拉伯聯合大公國 "wikilink")-16時，洛克希德馬丁公司曾計劃以F-16XL的設計為基礎，開發F-16 Block60，但由於設計風險過高，最後F-16 Block60還是繼續沿用F-16傳統外型設計，並搭配CFTs[適型油箱延伸戰機打擊半徑](https://zh.wikipedia.org/wiki/適型油箱 "wikilink")。
@@ -12,6 +14,11 @@ F-16XL隨後參與[美國空軍的](https://zh.wikipedia.org/wiki/美國空軍 "
 
 ## F-16XL諸元
 
-[F-16XL_afg-041110-016.jpg](https://zh.wikipedia.org/wiki/File:F-16XL_afg-041110-016.jpg "fig:F-16XL_afg-041110-016.jpg") [F-16XL_loaded_with_500lb_bombs.jpg](https://zh.wikipedia.org/wiki/File:F-16XL_loaded_with_500lb_bombs.jpg "fig:F-16XL_loaded_with_500lb_bombs.jpg") [F-16_and_F-16XL_aerial_top_down_view.jpg](https://zh.wikipedia.org/wiki/File:F-16_and_F-16XL_aerial_top_down_view.jpg "fig:F-16_and_F-16XL_aerial_top_down_view.jpg")
+[F-16XL_afg-041110-016.jpg](https://zh.wikipedia.org/wiki/File:F-16XL_afg-041110-016.jpg "fig:F-16XL_afg-041110-016.jpg")
 
-[Category:美國戰鬥機](https://zh.wikipedia.org/wiki/Category:美國戰鬥機 "wikilink")
+## 相關條目
+
+  - [F-15E打擊鷹式戰鬥轟炸機](../Page/F-15E打擊鷹式戰鬥轟炸機.md "wikilink")
+  - [FB-22戰鬥轟炸機](https://zh.wikipedia.org/wiki/FB-22轟炸機 "wikilink")
+
+[Category:美國戰鬥機](https://zh.wikipedia.org/wiki/Category:美國戰鬥機 "wikilink") [Category:已取消研發飛機](https://zh.wikipedia.org/wiki/Category:已取消研發飛機 "wikilink")

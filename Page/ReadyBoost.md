@@ -44,12 +44,12 @@
 <!-- end list -->
 
   -
-    请不要因为下面這個建议而产生混淆： 例如，如果使用16GB的容量并且格式化为 FAT32，儘管系统内存为10GB，仍会有以下提示：“Windows 建议预留 4094 MB 作为性能提升空间”，
-    原因是 4094 MB 是 FAT 32 文件系统允许的最大文件存储空间；如果将设备重新格式化为 NTFS 或者 exFAT，提示将改为：“Windows 建议设置为 15180MB”。
+    请勿因为下面這個建议而产生混淆： 例如，如果使用16GB的容量并且格式化为 FAT32，儘管系统内存为10GB，仍会有以下提示：*“Windows 建议预留 4094 MB 作为性能提升空间”*，
+    原因是 4094 MB 是 FAT 32 文件系统允许的最大文件存储空间；如果将设备重新格式化为 NTFS 或者 exFAT，提示将改为：*“Windows 建议设置为 15180MB”*。
 
 <!-- end list -->
 
-  - 如果系统驱动器采用的[固态硬盘](../Page/固态硬盘.md "wikilink")（SSD），ReadyBoost 将不可用。
+  - 如果系统驱动器采用[固态硬盘](../Page/固态硬盘.md "wikilink")（SSD），ReadyBoost 将不可用，其设置界面将会提示：*“此计算机的运行速度已足够快，ReadyBoost不太可能提供其他益处”*。
   - [Windows Server 2008](../Page/Windows_Server_2008.md "wikilink") 不支持 ReadyBoost。
 
 [Category:Windows_Vista](https://zh.wikipedia.org/wiki/Category:Windows_Vista "wikilink") [Category:Windows_7](https://zh.wikipedia.org/wiki/Category:Windows_7 "wikilink") [Category:Windows_8](https://zh.wikipedia.org/wiki/Category:Windows_8 "wikilink") [Category:Windows组件](https://zh.wikipedia.org/wiki/Category:Windows组件 "wikilink")

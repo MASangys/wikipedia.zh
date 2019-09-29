@@ -162,7 +162,7 @@ Hau Tak Shopping Centre.jpg|俯瞰前厚德商場（2006年） TKOview1 20070621
   - [厚德商場地圖](http://www.centamap.com/gc/centamaplocation.aspx?x=845484&y=819767&sx=845484.57855&sy=819767.83858&z=4)
   - [TKO Gateway 官方網站](http://www.linkhk.com/_layouts/CustomerSite_ShopCentreDetail.aspx?lng=tc&shopping_id=113&type=false)
 
-[Category:坑口](https://zh.wikipedia.org/wiki/Category:坑口 "wikilink") [Category:西貢區商場](https://zh.wikipedia.org/wiki/Category:西貢區商場 "wikilink") [Category:領展商場及停車場](https://zh.wikipedia.org/wiki/Category:領展商場及停車場 "wikilink")
+[Category:坑口](https://zh.wikipedia.org/wiki/Category:坑口 "wikilink") [Category:西貢區商場](https://zh.wikipedia.org/wiki/Category:西貢區商場 "wikilink") [Category:領展商場及停車場](https://zh.wikipedia.org/wiki/Category:領展商場及停車場 "wikilink") [Category:1994年完工建築物](https://zh.wikipedia.org/wiki/Category:1994年完工建築物 "wikilink")
 
 1.
 2.  [辦活動谷消費 商場丁財皆旺](http://life.mingpao.com/cfm/dailynews3b.cfm?File=20070219/nalgc/gca2.txt)，明報，2007年2月19日

@@ -56,7 +56,7 @@
 
 塔沃爾步槍有在[巴西](../Page/巴西.md "wikilink")、[印度](../Page/印度.md "wikilink")、[烏克蘭等部分國家及一些小廠都獲授權生產或私自仿製及使用](https://zh.wikipedia.org/wiki/烏克蘭 "wikilink")。
 
-  - [阿爾巴尼亞](https://zh.wikipedia.org/wiki/阿爾巴尼亞 "wikilink")：邊防警衛和[特種部隊](../Page/特種部隊.md "wikilink")，自2008年4月，合共有5,000會先被分發塔沃爾系列步槍並預計在2009年年初會開始交付
+  - [阿爾巴尼亞](https://zh.wikipedia.org/wiki/阿爾巴尼亞 "wikilink")：邊防警衛和[特種部隊](../Page/特種部隊.md "wikilink")，自2008年4月，合共有5,000會先被分發塔沃爾系列步槍並預計在2009年年初開始交付
   - [亞塞拜然](https://zh.wikipedia.org/wiki/亞塞拜然 "wikilink")〔港：阿塞拜疆〕：特種部隊的制式步槍，但政府亦同時計劃以大量塔沃爾步槍來取代其標準型[AK-74突击步枪](../Page/AK-74突击步枪.md "wikilink")。\[9\]
   - [巴西](../Page/巴西.md "wikilink")：[金牛座軍事工業公司取得IMI授權特許生產塔沃爾系列步槍](https://zh.wikipedia.org/wiki/金牛座軍事工業公司 "wikilink")\[10\]
   - [查德](https://zh.wikipedia.org/wiki/查德 "wikilink")〔港：乍得〕：陸軍，自2006年起開始列裝

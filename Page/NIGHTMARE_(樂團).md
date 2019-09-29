@@ -8,12 +8,12 @@
         YOMI （ヨミ，黃泉）
         本名：千葉 淳
         1981年7月14日，宮城縣大崎市出生
-    **[吉他](../Page/吉他.md "wikilink")**
+    **[節奏結他](https://zh.wikipedia.org/wiki/節奏結他 "wikilink")**
       -
         柩 （ヒツギ）
         本名：豬狩 光雄
         1982年3月5日,東京都出生
-    **[吉他](../Page/吉他.md "wikilink") - 合音**
+    **[主音結他](https://zh.wikipedia.org/wiki/主音結他 "wikilink") - 合音**
       -
         [咲人](../Page/咲人.md "wikilink") （サキト）
         本名：阪口 貴浩

@@ -18,13 +18,16 @@ if (mw.config.get('wgAction') === 'edit' && $("span.oo-ui-fieldLayout-header")) 
 
 $(function() {
     //在提交新段落時，讓主題欄在特定情況下失效
-    if (document.getElementById('no-new-title') && document.editform.wpSection.value == "new") {
-        if (summaryinput = document.getElementById("wpSummary")) {
-            summaryinput.disabled = true;
-            summaryinput.value = '';
+
+    if ($('#no-new-title').length) {
+        if ($('#editform input[name=wpSection]').val() === 'new') {
+            // 傳統文本編輯器
+            $('#wpSummary').attr('disabled', true);
+            $('#wpSummary').val('');
         }
     }
 
+    // 視覺化編輯器 / 新 wikitext 模式
     var noSectionTitlePages = [
         'Wikipedia:防滥用过滤器/错误报告',
     ];
@@ -36,13 +39,6 @@ $(function() {
 
 (function($, mw) {
     $(function() {
-        if ($('#editform input[name=wpSection]').val() === 'new') {
-            if ($('#no-new-title').length) {
-                $('#wpSummary').attr('disabled', true);
-                $('#wpSummary').val('');
-            }
-            return;
-        }
         $('#wpSummaryLabel .mw-summary-preset').on('click', '.mw-summary-preset-item a', function(e) {
             e.preventDefault();
             var $this = $(this), summary = $('#wpSummary').val();

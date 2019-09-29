@@ -59,6 +59,6 @@ arXiv的存在是造就[科學出版業中所謂](https://zh.wikipedia.org/wiki/
 5.
 6.
 
-7.  [Computing Research repository FAQs, Cornell University](http://arxiv.org/corr/faqs)
+7.
 
 8.  [archivefreedom.org](http://www.archivefreedom.org/)

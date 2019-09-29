@@ -61,7 +61,7 @@ S/mileage時期代表色為<font color = #007ec7>水色</font>。</p></td>
 <td></td>
 <td><p>O</p></td>
 <td><p><strong>藍</strong></p></td>
-<td><p>隊長<br />
+<td><p>第二代隊長<br />
 S/mileage時期代表色為<font color = #f00>紅色</font>。</p></td>
 <td></td>
 <td></td>
@@ -75,7 +75,7 @@ S/mileage時期代表色為<font color = #f00>紅色</font>。</p></td>
 <td></td>
 <td><p>A</p></td>
 <td><p><strong>橙</strong></p></td>
-<td><p>S/mileage時期代表色為<span style="color:#ffff33; background-color:#000000">黃色</span>、畢業預定。</p></td>
+<td><p>S/mileage時期代表色為<span style="color:#ffff33; background-color:#000000">黃色</span>、畢業預定是25/9/2019。</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -302,7 +302,7 @@ S/mileage時期代表色為<font color = #f00>紅色</font>。</p></td>
 <td></td>
 <td><p>2019年6月18日</p></td>
 <td><p><strong>紅</strong></p></td>
-<td><p>隊長<br />
+<td><p>第一代隊長<br />
 S/mileage時期代表色為<font color = #0f2f9e>藍色</font>。</p></td>
 <td></td>
 </tr>
@@ -478,6 +478,7 @@ S/mileage時期代表色為<font color = #0f2f9e>藍色</font>。</p></td>
 ### 2019
 
   - 5月25日，於「ANGERME Concert Tour 春 \~輪迴轉生\~」千葉午場公演宣布在[和田彩花](../Page/和田彩花.md "wikilink")畢業後由二期成員[竹內朱莉擔任隊長](https://zh.wikipedia.org/wiki/竹內朱莉 "wikilink")。另外，由同樣也是二期成員的[中西香菜](../Page/中西香菜.md "wikilink")續任副隊長及六期成員[川村文乃擔任新副隊長](https://zh.wikipedia.org/wiki/川村文乃 "wikilink")。
+  - 6月26日，二期成員[勝田里奈於Hello](https://zh.wikipedia.org/wiki/勝田里奈 "wikilink")\!Project官方網頁中發表，以因「希望從事時妝有關的工作」為由，於同年9月25日在パシフィコ横浜で的演唱會中,從Angerme和Hello\!Project畢業。畢業後的演藝活動仍是未定。
 
 ## 作品
 

@@ -28,7 +28,7 @@ PEST分析與外部總體環境的因素互相結合就可歸納出[SWOT分析�
   - [PEST analysis method and examples](http://www.businessballs.com/pestanalysisfreetemplate.htm) from Businessballs.com
   - [PESTLE analysis history and application](http://www.cipd.co.uk/subjects/corpstrtgy/general/pestle-analysis.htm) from the CIPD
 
-[Category:市場營銷](https://zh.wikipedia.org/wiki/Category:市場營銷 "wikilink") [Category:管理學](https://zh.wikipedia.org/wiki/Category:管理學 "wikilink")
+[Category:市場營銷](https://zh.wikipedia.org/wiki/Category:市場營銷 "wikilink") [Category:企業管理](https://zh.wikipedia.org/wiki/Category:企業管理 "wikilink")
 
 1.
 2.

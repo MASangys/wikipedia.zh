@@ -15,6 +15,6 @@
 
 ### DVD
 
-1.  **親親（Music Clip）**
+1.  親親（Music Clip）
 
 [Category:2007年单曲](https://zh.wikipedia.org/wiki/Category:2007年单曲 "wikilink") [Category:富士月九劇主題曲](https://zh.wikipedia.org/wiki/Category:富士月九劇主題曲 "wikilink") [Category:KOH+](https://zh.wikipedia.org/wiki/Category:KOH+ "wikilink") [Category:日劇學院賞最佳電視劇歌曲](https://zh.wikipedia.org/wiki/Category:日劇學院賞最佳電視劇歌曲 "wikilink") [Category:日本環球唱片歌曲](https://zh.wikipedia.org/wiki/Category:日本環球唱片歌曲 "wikilink") [Category:親吻題材歌曲](https://zh.wikipedia.org/wiki/Category:親吻題材歌曲 "wikilink")

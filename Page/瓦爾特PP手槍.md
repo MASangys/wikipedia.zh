@@ -10,7 +10,7 @@
 
 在瓦爾特公司被迫停止生產PP及PPK手槍後，便允許進行仿製。[法國的Manurhin](https://zh.wikipedia.org/wiki/法國 "wikilink")、[美國的Ranger](https://zh.wikipedia.org/wiki/美國 "wikilink") Manufacturing、Interarms、[史密斯威森](https://zh.wikipedia.org/wiki/史密斯威森 "wikilink")、[東德](../Page/東德.md "wikilink")、[巴基斯坦](../Page/巴基斯坦.md "wikilink")、[羅馬尼亞](../Page/羅馬尼亞.md "wikilink")及[土耳其](../Page/土耳其.md "wikilink")都曾獲授權生產或私自仿製瓦爾特PP/PPK手槍，其中部分國家及一些小廠的生產至今仍然進行中。
 
-[苏联](../Page/苏联.md "wikilink")的[马卡洛夫PM手槍](https://zh.wikipedia.org/wiki/马卡洛夫PM手槍 "wikilink")、[中国的](https://zh.wikipedia.org/wiki/中国 "wikilink")[64式手枪](../Page/64式手枪.md "wikilink")、[匈牙利](../Page/匈牙利.md "wikilink")的[FEG PA-63手槍](../Page/FEG_PA-63手槍.md "wikilink")、[捷克斯洛伐克的CA](https://zh.wikipedia.org/wiki/捷克斯洛伐克 "wikilink")50在设计过程中都受到PP的影响\[3\]，而部份[第三世界國家至今仍採用PP或PPK型作為警察用的佩枪](https://zh.wikipedia.org/wiki/第三世界國家 "wikilink")。
+[苏联](../Page/苏联.md "wikilink")的[马卡洛夫PM手槍](https://zh.wikipedia.org/wiki/马卡洛夫PM手槍 "wikilink")、[中国的](https://zh.wikipedia.org/wiki/中国 "wikilink")[64式手枪](../Page/64式手枪.md "wikilink")、[匈牙利](../Page/匈牙利.md "wikilink")的[FEG PA-63](https://zh.wikipedia.org/wiki/FEG_PA-63半自動手槍 "wikilink")、[捷克斯洛伐克的CA](https://zh.wikipedia.org/wiki/捷克斯洛伐克 "wikilink")50在设计过程中都受到PP的影响\[3\]，而部份[第三世界國家至今仍採用PP或PPK型作為警察用的佩枪](https://zh.wikipedia.org/wiki/第三世界國家 "wikilink")。
 
 ## 流行文化
 

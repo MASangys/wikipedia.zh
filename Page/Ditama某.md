@@ -1,4 +1,4 @@
-**DITAMA（某）**（"（某）"的部分原本是在圓圈內有個「某」字）是[日本](../Page/日本.md "wikilink")的[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")。[愛知縣](../Page/愛知縣.md "wikilink")[稻澤市出身](https://zh.wikipedia.org/wiki/稻澤市 "wikilink")。男性。
+**DITAMA（某）**（"（某）"的部分原本是在圓圈內有個「某」字）是[日本](../Page/日本.md "wikilink")男性[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")，[愛知縣](../Page/愛知縣.md "wikilink")[稻澤市出身](https://zh.wikipedia.org/wiki/稻澤市 "wikilink")。
 
 ## 人物介紹
 
@@ -50,4 +50,4 @@
   -
   - [2011-12-22：長篇專訪18禁大手漫畫家「」，大小隱私一次公開！](http://ccsx.tw/2011/12/22/ditamabow-interview/)
 
-[Category:日本漫画家](https://zh.wikipedia.org/wiki/Category:日本漫画家 "wikilink") [Category:愛知縣出身人物](https://zh.wikipedia.org/wiki/Category:愛知縣出身人物 "wikilink") [Category:成人漫画家](https://zh.wikipedia.org/wiki/Category:成人漫画家 "wikilink")
+[Category:日本男性漫画家](https://zh.wikipedia.org/wiki/Category:日本男性漫画家 "wikilink") [Category:愛知縣出身人物](https://zh.wikipedia.org/wiki/Category:愛知縣出身人物 "wikilink") [Category:日本成人漫画家](https://zh.wikipedia.org/wiki/Category:日本成人漫画家 "wikilink")

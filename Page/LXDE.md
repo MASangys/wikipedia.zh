@@ -52,7 +52,7 @@ LXDE專案包括以下的獨立元件\[13\]\[14\]：
 以下為預設使用LXDE的[Linux發行版](https://zh.wikipedia.org/wiki/Linux發行版 "wikilink")\[15\]：
 
   - [Greenie](https://zh.wikipedia.org/wiki/Greenie "wikilink")：基於Ubuntu的發行版，特別為[斯洛伐克](../Page/斯洛伐克.md "wikilink")和[捷克](../Page/捷克.md "wikilink")使用者所設計。
-  - [Linux Mint](../Page/Linux_Mint.md "wikilink"):基於Linux Mint的LXDE發行版。
+  - [Linux Mint](../Page/Linux_Mint.md "wikilink")：基於Linux Mint的LXDE發行版。
   - [Myah OS](https://zh.wikipedia.org/wiki/Myah_OS "wikilink") 3.0 Box edition：使用LXDE的Myah OS發行版。
   - [Parted Magic](../Page/Parted_Magic.md "wikilink")：硬碟分割工具的Live系統。
   - [PUD GNU/Linux](https://zh.wikipedia.org/wiki/PUD_GNU/Linux "wikilink")：基於[Ubuntu](../Page/Ubuntu.md "wikilink")的[Live CD](../Page/Live_CD.md "wikilink")。

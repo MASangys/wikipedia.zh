@@ -68,7 +68,7 @@ Oじろー、フレーム</p></td>
 <td><p>2012年10月26日</p></td>
 </tr>
 <tr class="even">
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/星之聲的聖殿" title="wikilink">星之聲的聖殿</a></p></td>
 <td><p>鳴瀬ひろふみ</p></td>
 <td><p>吉川芳佳、北川晴</p></td>
 <td><p>solfa</p></td>

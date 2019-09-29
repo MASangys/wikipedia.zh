@@ -64,7 +64,7 @@
       - [臺北捷運](../Page/臺北捷運.md "wikilink")各車站服務台
       - [桃園捷運各車站服務台](https://zh.wikipedia.org/wiki/桃園捷運 "wikilink")
       - [統一超商](../Page/統一超商.md "wikilink")（7-11）
-      - [21世紀風味館](https://zh.wikipedia.org/wiki/21世紀風味館 "wikilink")
+      - [21風味館](../Page/21風味館.md "wikilink")
       - [統一多拿滋](../Page/統一多拿滋.md "wikilink")
   - 個性化icash2.0卡販售特約機構
       - [博客來](../Page/博客來網路書店.md "wikilink")
@@ -100,7 +100,7 @@ icash損壞後可向愛金卡公司申請換卡，需掛號郵寄至愛金卡客
   - [康是美](https://zh.wikipedia.org/wiki/康是美 "wikilink")
   - [酷聖石](https://zh.wikipedia.org/wiki/酷聖石 "wikilink")
   - [統一多拿滋](../Page/統一多拿滋.md "wikilink")
-  - [21世紀風味館](https://zh.wikipedia.org/wiki/21世紀風味館 "wikilink")
+  - [21風味館](../Page/21風味館.md "wikilink")
   - [聖娜多堡](https://zh.wikipedia.org/wiki/聖娜多堡 "wikilink")
   - [星巴克](https://zh.wikipedia.org/wiki/星巴克 "wikilink")
   - [統一精工速邁樂](https://zh.wikipedia.org/wiki/統一精工 "wikilink")

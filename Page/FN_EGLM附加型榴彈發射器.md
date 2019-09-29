@@ -1,8 +1,8 @@
-**FN EGLM**（，意為：增強型榴弹发射器組件；執法機關型正式名稱：**FN40GL**，軍用型正式名稱：**Mk 13 EGLM**）是一款由[國營赫斯塔爾](https://zh.wikipedia.org/wiki/赫爾斯塔爾國營工廠 "wikilink")（，簡稱：FN）原本為[FN F2000而研發的單發下掛式](../Page/FN_F2000突擊步槍.md "wikilink")[榴弹发射器](../Page/榴弹发射器.md "wikilink")，發射[40×46毫米低速榴彈](../Page/40毫米榴彈.md "wikilink")。設計上是提供給FN F2000及[FN SCAR裝備](../Page/FN_SCAR突擊步槍.md "wikilink")，也可通過增加及[槍托](../Page/槍托.md "wikilink")配件改裝成一個獨立的肩射型榴彈發射器武器系統。
+**FN EGLM**（，意為：增強型榴弹发射器組件；執法機關型正式名稱：**FN40GL**，軍用型正式名稱：**Mk 13 EGLM**）是一款由[比利时](../Page/比利时.md "wikilink")[埃斯塔勒](../Page/埃斯塔勒.md "wikilink")[國營工廠](https://zh.wikipedia.org/wiki/埃斯塔勒國營工廠 "wikilink")（，簡稱：FN）原本為[FN F2000而研發的單發下掛式](../Page/FN_F2000突擊步槍.md "wikilink")[榴弹发射器](../Page/榴弹发射器.md "wikilink")，發射[40×46毫米低速榴彈](../Page/40毫米榴彈.md "wikilink")。設計上是提供給FN F2000及[FN SCAR裝備](../Page/FN_SCAR突擊步槍.md "wikilink")，也可通過增加及[槍托](../Page/槍托.md "wikilink")配件改裝成一個獨立的肩射型榴彈發射器武器系統。
 
 ## 歷史
 
-1995年，[國營赫斯塔爾公司推出採用模塊化設計的](https://zh.wikipedia.org/wiki/赫爾斯塔爾國營工廠 "wikilink")[FN F2000](../Page/FN_F2000突擊步槍.md "wikilink")，其槍管下方可以加裝GL1下掛式榴彈發射器模塊，其顏色及外觀設計與F2000融為一體，並且命名為**GL1**。
+1995年，埃斯塔勒國營工廠公司推出採用模塊化設計的[FN F2000](../Page/FN_F2000突擊步槍.md "wikilink")，其槍管下方可以加裝GL1下掛式榴彈發射器模塊，其顏色及外觀設計與F2000融為一體，並且命名為**GL1**。
 
 到了2004年，[FN SCAR-L和SCAR](../Page/FN_SCAR突擊步槍.md "wikilink")-H也採用模塊化設計，並加裝有下掛式榴彈發射器組件，這個榴彈發射器正是以GL1為藍本並且改進而成的，國營赫斯塔爾公司內部命名為“增強型榴彈發射器組件（EGLM）”，對外稱為FN40GL。FN40GL的顏色及外觀設計同樣與掛載它的SCAR-L及SCAR-H融為一體，這種融合性比之GL1與F2000的融合性還要更強。與SCAR-L與SCAR-H有褐色及沙漠色兩種塗裝一樣，FN40GL也有相應的兩種顏色與之對應。其競爭對手是[黑克勒&科赫](../Page/黑克勒&科赫.md "wikilink")的[XM320](../Page/M320榴彈發射器.md "wikilink")。其後[美國特種作戰司令部正式將FN](https://zh.wikipedia.org/wiki/美國特種作戰司令部 "wikilink")40GL命名為Mk 13 Mod 0下掛式榴彈發射器，而XM320則移除「X」字以後改稱為M320並且被[美国陆军](../Page/美国陆军.md "wikilink")所採用。
 
@@ -40,7 +40,7 @@ FN40GL可下掛使用，也可單獨使用。下掛使用時，通過其也是�
 
 ### 與其他榴彈發射器比較
 
-FN40GL比與美國著名的[M203系統的槍管前推打開膛室方式有著數個優勢](../Page/M203榴彈發射器.md "wikilink")，包括：可直接由持槍之手的[食指按發扳機](https://zh.wikipedia.org/wiki/食指 "wikilink")（只是下掛的步槍的扳機的下方），如果榴彈沒有發射時只要再扣下扳機即可進行再擊發動作而無需回到待擊狀態，不同長度榴彈的兼容性更好，尤其是可以對應較長的榴彈，因此可發射的榴彈類型可以有進一步的擴展。而與[黑克勒-科赫公司的](https://zh.wikipedia.org/wiki/黑克勒-科赫 "wikilink")[HK AG36](../Page/HK_AG36附加型榴彈發射器.md "wikilink")、[AG-C/EGLM及](https://zh.wikipedia.org/wiki/HK_AG-C/EGLM附加型榴彈發射器 "wikilink")[M320榴彈發射器](../Page/M320榴彈發射器.md "wikilink")槍管尾端只能向左側擺出的結構相比，FN40GL的膛室打開方式更方便，無論何種射擊姿勢或何種射擊位置，均可方便地以自己順手的方式打開膛室。在激烈的戰場環境中，無論以任何射擊姿勢都可以輕易地從膛室裝彈和退彈，這種兩側都能擺動的側擺式結構具有十分明顯的優勢。但相對的，M203、AG-C/EGLM和M320都可下掛於M4卡賓槍和其他北約國家的步槍上使用，而目前FN40GL只能下掛於SCAR-L或SCAR-H上。
+FN40GL比與美國著名的[M203系統的槍管前推打開膛室方式有著數個優勢](../Page/M203榴彈發射器.md "wikilink")，包括：可直接由持槍之手的[食指按發扳機](https://zh.wikipedia.org/wiki/食指 "wikilink")（只是下掛的步槍的扳機的下方），如果榴彈沒有發射時只要再扣下扳機即可進行再擊發動作而無需回到待擊狀態，不同長度榴彈的兼容性更好，尤其是可以對應較長的榴彈，因此可發射的榴彈類型可以有進一步的擴展。而與[黑克勒&科赫](../Page/黑克勒&科赫.md "wikilink")公司的[HK AG36](../Page/HK_AG36附加型榴彈發射器.md "wikilink")、[AG-C/EGLM及](https://zh.wikipedia.org/wiki/HK_AG-C/EGLM附加型榴彈發射器 "wikilink")[M320榴彈發射器](../Page/M320榴彈發射器.md "wikilink")槍管尾端只能向左側擺出的結構相比，FN40GL的膛室打開方式更方便，無論何種射擊姿勢或何種射擊位置，均可方便地以自己順手的方式打開膛室。在激烈的戰場環境中，無論以任何射擊姿勢都可以輕易地從膛室裝彈和退彈，這種兩側都能擺動的側擺式結構具有十分明顯的優勢。但相對的，M203、AG-C/EGLM和M320都可下掛於M4卡賓槍和其他北約國家的步槍上使用，而目前FN40GL只能下掛於SCAR-L或SCAR-H上。
 
 ## 衍生型
 

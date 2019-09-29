@@ -2,7 +2,7 @@
 
 YG是韓國[R\&B和](https://zh.wikipedia.org/wiki/R&B "wikilink")[Hip hop音樂最具代表性的娛樂公司](https://zh.wikipedia.org/wiki/Hip_hop "wikilink")。CEO梁鉉錫曾是1992年出道的[徐太志與孩子們的成员](../Page/徐太志和孩子們.md "wikilink")，该组合被稱為韓國K-pop与Hip-Hop的開山鼻祖。YG旗下藝人擁有龐大人氣，[Youtube共有](https://zh.wikipedia.org/wiki/Youtube "wikilink")3000萬人追蹤、200億點擊率，[Instagram](../Page/Instagram.md "wikilink")追蹤者7000萬人、[Facebook](../Page/Facebook.md "wikilink")8000萬人。
 
-YG整套造星團隊包括：音樂錄製、發行、藝人包裝等；同時還具有頂尖[製作人](https://zh.wikipedia.org/wiki/製作人 "wikilink")、實力派創作歌手和極具創造力的策劃團隊。YG現旗下藝人有唱片歌手[BIGBANG](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")、[CL](https://zh.wikipedia.org/wiki/李彩麟 "wikilink")、[Dara](https://zh.wikipedia.org/wiki/Dara "wikilink")、[李遐怡](../Page/李遐怡.md "wikilink")、[樂童音樂家](https://zh.wikipedia.org/wiki/樂童音樂家 "wikilink")、[WINNER](../Page/WINNER.md "wikilink")、[iKON](https://zh.wikipedia.org/wiki/iKON "wikilink")、[BLACKPINK](../Page/BLACKPINK.md "wikilink")、[水晶男孩](../Page/水晶男孩.md "wikilink")、[ONE](https://zh.wikipedia.org/wiki/鄭帝元 "wikilink")、[TREASURE 13](../Page/TREASURE_13.md "wikilink")，獨立廠牌的[Zion.T](../Page/Zion.T.md "wikilink")、[hyukoh](https://zh.wikipedia.org/wiki/hyukoh "wikilink")、等，演員[車勝元](../Page/車勝元.md "wikilink")、[姜棟元](https://zh.wikipedia.org/wiki/姜棟元 "wikilink")、[金喜愛](../Page/金喜愛.md "wikilink")、[崔智友](https://zh.wikipedia.org/wiki/崔智友 "wikilink")、[劉寅娜](../Page/劉寅娜.md "wikilink")、[南柱赫](https://zh.wikipedia.org/wiki/南柱赫 "wikilink")、[李聖經](../Page/李聖經.md "wikilink")等。
+YG整套造星團隊包括：音樂錄製、發行、藝人包裝等；同時還具有頂尖[製作人](https://zh.wikipedia.org/wiki/製作人 "wikilink")、實力派創作歌手和極具創造力的策劃團隊。YG現旗下藝人有唱片歌手[BIGBANG](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")、[CL](https://zh.wikipedia.org/wiki/李彩麟 "wikilink")、[Dara](https://zh.wikipedia.org/wiki/Dara "wikilink")、[李遐怡](../Page/李遐怡.md "wikilink")、[樂童音樂家](https://zh.wikipedia.org/wiki/樂童音樂家 "wikilink")、[WINNER](../Page/WINNER.md "wikilink")、[iKON](https://zh.wikipedia.org/wiki/iKON "wikilink")、[BLACKPINK](../Page/BLACKPINK.md "wikilink")、[水晶男孩](../Page/水晶男孩.md "wikilink")、[TREASURE 13](../Page/TREASURE_13.md "wikilink")，獨立廠牌的[Zion.T](../Page/Zion.T.md "wikilink")、[hyukoh](https://zh.wikipedia.org/wiki/hyukoh "wikilink")、等，演員[車勝元](../Page/車勝元.md "wikilink")、[姜棟元](https://zh.wikipedia.org/wiki/姜棟元 "wikilink")、[金喜愛](../Page/金喜愛.md "wikilink")、[崔智友](https://zh.wikipedia.org/wiki/崔智友 "wikilink")、[劉寅娜](../Page/劉寅娜.md "wikilink")、[南柱赫](https://zh.wikipedia.org/wiki/南柱赫 "wikilink")、[李聖經](../Page/李聖經.md "wikilink")等。
 
 ## 歷史
 
@@ -194,7 +194,7 @@ Ella Gross(模特儿）
   - [黃勝妍](../Page/黃勝妍.md "wikilink")
   - [景收真](../Page/景收真.md "wikilink")
   - [李夏恩](https://zh.wikipedia.org/wiki/李夏恩 "wikilink")（YGKPlus）
-  - 裴正南（YGKPlus）
+  - [裴正南](https://zh.wikipedia.org/wiki/裴正南 "wikilink")（YGKPlus）
   - 李皓京（YGKPlus）
   - 李賢旭（YGKPlus）
   - 池依秀（YGKPlus）
@@ -228,7 +228,6 @@ Ella Gross(模特儿）
 <!-- end list -->
 
   - [金宗燮](../Page/金宗燮.md "wikilink")\[33\]（[K-pop Star 6](../Page/K-pop_Star_6.md "wikilink")、[YG寶石盒](../Page/YG寶石盒.md "wikilink")）
-  - [王君豪](../Page/王君豪.md "wikilink")（[YG寶石盒](../Page/YG寶石盒.md "wikilink")、[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
   - 李仁宏（[YG寶石盒](../Page/YG寶石盒.md "wikilink")）
   - 鄭俊赫（[YG寶石盒](../Page/YG寶石盒.md "wikilink")）
   - 尹施允（[YG寶石盒](../Page/YG寶石盒.md "wikilink")）
@@ -391,6 +390,7 @@ Ella Gross(模特儿）
       - [金成淵](../Page/金成淵.md "wikilink")（《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》、《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》）
       - 張尹瑞
       - 吉道煥
+      - 王君豪（《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》）
       - 日高 真尋（《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》）
       - 岡本 太郎
       - 寺園 啟太

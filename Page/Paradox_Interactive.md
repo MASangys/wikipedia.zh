@@ -18,7 +18,7 @@
 
 2007年1月23日，在Europa Universalis III推出遊戲引擎Clausewitz Engine。
 
-2007年7月3日，從[Cyber​​lore Studios收購Majesty](https://zh.wikipedia.org/wiki/:en:Cyberlore_Studios "wikilink")(IP)。\[2\]
+2007年7月3日，從[Cyberlore Studios收購Majesty](https://zh.wikipedia.org/wiki/:en:Cyberlore_Studios "wikilink")(IP)。\[2\]
 
 2009年2月12日，成立Mezmer Games。\[3\]
 

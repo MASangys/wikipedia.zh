@@ -453,12 +453,6 @@ Dive1與Dive2都需依照一定順序進行劇情，才能開啟其他女主角�
 
 Baldr Sky Another Days，於2010年9月24日與DiveX同時發售，由[HARVEST出版](../Page/HARVEST出版.md "wikilink")發行，執筆作家同樣為遊戲劇本家[卑影ムラサキ](https://zh.wikipedia.org/wiki/卑影ムラサキ "wikilink")。內容為沒有發生灰色聖誕節事件後的故事。
 
-## 關聯項目
-
-  - [戲畫 (遊戲品牌)](../Page/戲畫_\(遊戲品牌\).md "wikilink")
-  - [BALDR FORCE](../Page/BALDR_FORCE.md "wikilink")
-  - [機甲戰線](../Page/機甲戰線.md "wikilink")
-
 ## 参考資料
 
 <references/>

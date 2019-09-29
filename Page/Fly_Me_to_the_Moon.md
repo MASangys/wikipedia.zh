@@ -64,7 +64,7 @@
   - [ASCAP Foundation: Bart Howard Provides A Musical Gift](http://www.ascapfoundation.org/playback/2011/06/foundation/bart_howard.aspx?presentation=foundation)
 
   -
-[Category:美國音樂](https://zh.wikipedia.org/wiki/Category:美國音樂 "wikilink") [Category:魔兵驚天錄](https://zh.wikipedia.org/wiki/Category:魔兵驚天錄 "wikilink") [Category:1954年歌曲](https://zh.wikipedia.org/wiki/Category:1954年歌曲 "wikilink") [Category:西城男孩歌曲](https://zh.wikipedia.org/wiki/Category:西城男孩歌曲 "wikilink") [Category:法蘭·仙納杜拉歌曲](https://zh.wikipedia.org/wiki/Category:法蘭·仙納杜拉歌曲 "wikilink") [Category:EVANGELION的音樂](https://zh.wikipedia.org/wiki/Category:EVANGELION的音樂 "wikilink") [Category:月球題材作品](https://zh.wikipedia.org/wiki/Category:月球題材作品 "wikilink") [Category:1962年單曲](https://zh.wikipedia.org/wiki/Category:1962年單曲 "wikilink")
+[Category:美國音樂](https://zh.wikipedia.org/wiki/Category:美國音樂 "wikilink") [Category:1954年歌曲](https://zh.wikipedia.org/wiki/Category:1954年歌曲 "wikilink") [Category:西城男孩歌曲](https://zh.wikipedia.org/wiki/Category:西城男孩歌曲 "wikilink") [Category:法蘭·仙納杜拉歌曲](https://zh.wikipedia.org/wiki/Category:法蘭·仙納杜拉歌曲 "wikilink") [Category:EVANGELION的音樂](https://zh.wikipedia.org/wiki/Category:EVANGELION的音樂 "wikilink") [Category:月球題材作品](https://zh.wikipedia.org/wiki/Category:月球題材作品 "wikilink") [Category:1962年單曲](https://zh.wikipedia.org/wiki/Category:1962年單曲 "wikilink")
 
 1.
 2.

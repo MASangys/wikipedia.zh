@@ -81,7 +81,7 @@ TOW ITAS包括三種新的可替換配件，目標獲取次系統（TAS）、火
 <li></li>
 <li></li>
 <li></li>
-<li><p><a href="http://www.mil.fi/maavoimat/kalustoesittely/00048_en.dsp">2</a></p></li>
+<li><p><a href="https://web.archive.org/web/20070515055248/http://www.mil.fi/maavoimat/kalustoesittely/00048_en.dsp">2</a></p></li>
 </ul></td>
 <td><ul>
 <li></li>

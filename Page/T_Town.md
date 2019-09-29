@@ -35,6 +35,8 @@
 
   - [759阿信屋](../Page/759阿信屋.md "wikilink")
 
+  - [7-11便利店](https://zh.wikipedia.org/wiki/7-11便利店 "wikilink")
+
 ## T Town North
 
 [T_Town_North_GF_201901.jpg](https://zh.wikipedia.org/wiki/File:T_Town_North_GF_201901.jpg "fig:T_Town_North_GF_201901.jpg") [T_Town_North_Level_1_201901.jpg](https://zh.wikipedia.org/wiki/File:T_Town_North_Level_1_201901.jpg "fig:T_Town_North_Level_1_201901.jpg") T Town North（原名頌富商場／廣場二期）由[五洋建設](../Page/五洋建設.md "wikilink")興建\[5\]，於2000年落成，位於天華路33號，主要為[天富苑](../Page/天富苑.md "wikilink")和[天悅邨](../Page/天悅邨.md "wikilink")居民服務。由於進行「資產提升工程」的關係，除了T Town街市，T Town North其他部分都已在2016年4月被封閉，只保留行人通道，有街市商戶更指管理公司談及續約時未有提及商場即將進行裝修，指空氣不流通和多個出入口臨時封閉下，人流與生意大不如前。\[6\]翻新工程於2017年4月完工。
@@ -72,7 +74,7 @@
 
 ### 街市
 
-[T_Market_Fishmonger.jpg](https://zh.wikipedia.org/wiki/File:T_Market_Fishmonger.jpg "fig:T_Market_Fishmonger.jpg") [T_MARKET_Food_Street_201901.jpg](https://zh.wikipedia.org/wiki/File:T_MARKET_Food_Street_201901.jpg "fig:T_MARKET_Food_Street_201901.jpg") 頌富街市原由現代管理公司負責管理，到2018年10月1日由新承辦商[建華集團以](https://zh.wikipedia.org/wiki/建華集團 "wikilink")「香港街市」品牌營辦，進行三個月裝修後在同年12月30日開幕，命名為「T MARKET 頌富市場」。街市以日本無印木系為主題，其中小食街引入超過10間的食店，營業至凌晨1點。
+[T_MARKET_Interior_201901.jpg](https://zh.wikipedia.org/wiki/File:T_MARKET_Interior_201901.jpg "fig:T_MARKET_Interior_201901.jpg") [T_MARKET_Food_Street_201901.jpg](https://zh.wikipedia.org/wiki/File:T_MARKET_Food_Street_201901.jpg "fig:T_MARKET_Food_Street_201901.jpg") 頌富街市原由現代管理公司負責管理，到2018年10月1日由新承辦商[建華集團以](https://zh.wikipedia.org/wiki/建華集團 "wikilink")「香港街市」品牌營辦，進行三個月裝修後在同年12月30日開幕，命名為「T MARKET 頌富市場」。街市以日本無印木系為主題，其中小食街引入超過10間的食店，營業至凌晨1點。
 
 ## 圖集
 
@@ -123,7 +125,7 @@ HK ChungFuShoppingCentre Interior1.jpg|翻新前頌富商場入口中庭（2008�
   - [T Town](http://www.linkhk.com/_layouts/CustomerSite_ShopCentreDetail.aspx?lng=tc&shopping_id=135&type=false)
 
   -
-[Category:天水圍](https://zh.wikipedia.org/wiki/Category:天水圍 "wikilink") [Category:元朗區商場](https://zh.wikipedia.org/wiki/Category:元朗區商場 "wikilink") [Category:香港建築小作品](https://zh.wikipedia.org/wiki/Category:香港建築小作品 "wikilink")
+{{-}}  [Category:天水圍](https://zh.wikipedia.org/wiki/Category:天水圍 "wikilink") [Category:元朗區商場](https://zh.wikipedia.org/wiki/Category:元朗區商場 "wikilink") [Category:香港建築小作品](https://zh.wikipedia.org/wiki/Category:香港建築小作品 "wikilink")
 
 [Category:領展商場及停車場](https://zh.wikipedia.org/wiki/Category:領展商場及停車場 "wikilink") [Category:1999年完工建築物](https://zh.wikipedia.org/wiki/Category:1999年完工建築物 "wikilink") [Category:2000年完工建築物](https://zh.wikipedia.org/wiki/Category:2000年完工建築物 "wikilink")
 

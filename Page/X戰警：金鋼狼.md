@@ -100,7 +100,7 @@ Chris Bradley</p></td>
 <td><p>X小隊成員，具备能夠自由地操縱電力和任何電器的能力。</p></td>
 </tr>
 <tr class="even">
-<td><p><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/提姆·波科克" title="wikilink">提姆·波科克</a><br />
 Tim Pocock</p></td>
 <td><p><a href="../Page/獨眼龍_(漫威漫畫).md" title="wikilink">史考特·薩默斯</a><br />
 Scott Summers</p></td>

@@ -156,4 +156,4 @@ AMR-2与巴雷特的枪机开闭锁原理基本一样，但巴雷特的三枝手
 
 [Category:栓動式步槍](https://zh.wikipedia.org/wiki/Category:栓動式步槍 "wikilink") [Category:狙击步枪](https://zh.wikipedia.org/wiki/Category:狙击步枪 "wikilink") [Category:反器材步槍](https://zh.wikipedia.org/wiki/Category:反器材步槍 "wikilink") [Category:12.7×108毫米槍械](https://zh.wikipedia.org/wiki/Category:12.7×108毫米槍械 "wikilink") [Category:中華人民共和國槍械](https://zh.wikipedia.org/wiki/Category:中華人民共和國槍械 "wikilink") [Category:需要圖片的槍械條目](https://zh.wikipedia.org/wiki/Category:需要圖片的槍械條目 "wikilink")
 
-1.  [国产大口径反器材狙击步枪 1公里内精确打击](http://mil.chinaiiss.com/html/20135/20/a5e9ac_1.html)
+1.

@@ -2408,7 +2408,7 @@
 2019年9月6日</p></td>
 <td style="text-align: center;"><p><a href="../Page/偵探醫生.md" title="wikilink">偵探醫生</a><br />
 </p></td>
-<td style="text-align: center;"><p>32</p></td>
+<td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/朴真熙.md" title="wikilink">朴真熙</a>、<a href="../Page/奉太奎.md" title="wikilink">奉太奎</a>、<a href="../Page/李己雨.md" title="wikilink">李己雨</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/朴俊宇" title="wikilink">朴俊宇</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/宋允熙" title="wikilink">宋允熙</a></p></td>
@@ -2420,22 +2420,10 @@
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p>-{<a href="https://zh.wikipedia.org/wiki/Secret_Boutique" title="wikilink">Secret Boutique</a>}-<br />
 </p></td>
-<td style="text-align: center;"><p>32</p></td>
+<td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/金宣兒.md" title="wikilink">金宣兒</a>、<a href="../Page/金宰英.md" title="wikilink">金宰英</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/朴亨基" title="wikilink">朴亨基</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/河善熙" title="wikilink">河善熙</a></p></td>
-<td style="text-align: center;"></td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;"><p>2019年11月－<br />
-2020年1月</p></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"><p>-{<a href="https://zh.wikipedia.org/wiki/Good_Casting" title="wikilink">Good Casting</a>}-<br />
-</p></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"><p><a href="../Page/崔江姬.md" title="wikilink">崔江姬</a>、<a href="../Page/李相燁.md" title="wikilink">李相燁</a>、<a href="../Page/金志映_(1974年).md" title="wikilink">金志映</a>、<a href="../Page/柳仁英.md" title="wikilink">柳仁英</a>、<a href="../Page/李鐘赫.md" title="wikilink">李鐘赫</a>、<a href="../Page/李濬榮.md" title="wikilink">李濬榮</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/崔英勳" title="wikilink">崔英勳</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/朴智河" title="wikilink">朴智河</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>
@@ -2470,7 +2458,29 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p>2020年1月－<br />
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>2020年3月－<br />
+2020年月</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"><p>-{<a href="https://zh.wikipedia.org/wiki/Good_Casting" title="wikilink">Good Casting</a>}-<br />
+</p></td>
+<td style="text-align: center;"><p>16</p></td>
+<td style="text-align: center;"><p><a href="../Page/崔江姬.md" title="wikilink">崔江姬</a>、<a href="../Page/李相燁.md" title="wikilink">李相燁</a>、<a href="../Page/金志映_(1974年).md" title="wikilink">金志映</a>、<a href="../Page/柳仁英.md" title="wikilink">柳仁英</a>、<a href="../Page/李鐘赫.md" title="wikilink">李鐘赫</a>、<a href="../Page/李濬榮.md" title="wikilink">李濬榮</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/崔英勳" title="wikilink">崔英勳</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/朴智河" title="wikilink">朴智河</a></p></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>2020年月－<br />
 2020年</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p>-{<a href="https://zh.wikipedia.org/wiki/無人知曉_(韓國電視劇)" title="wikilink">無人知曉</a>}-<br />

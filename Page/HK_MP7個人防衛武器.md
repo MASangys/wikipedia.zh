@@ -175,6 +175,7 @@ Image:BundeswehrMP7.JPG|
   - 2010年—《[-{zh-hans:危情谍战; zh-hk:戀戰特務王; zh-hant:騎士出任務;}-](https://zh.wikipedia.org/wiki/危情谍战 "wikilink")》
   - 2011年—《》：型號為MP7A1，[愛爾蘭和平衛隊緊急應變單位所使用](../Page/爱尔兰.md "wikilink")。
   - 2013年—《[-{zh-hans:特种部队2：正面对决; zh-hk:義勇群英之毒蛇反擊戰; zh-hant:特種部隊2：正面對決;}-](https://zh.wikipedia.org/wiki/特种部队2：正面对决 "wikilink")》：被蛇眼（[雷·帕克](../Page/雷·帕克.md "wikilink")飾演）[雙持](../Page/雙持.md "wikilink")所使用。
+  - 2014年—《》：型號為MP7A1，被[美國特勤局特勤人員使用](https://zh.wikipedia.org/wiki/美國特勤局 "wikilink")，其中一個後來被（[山繆·傑克森飾演](https://zh.wikipedia.org/wiki/山繆·傑克森 "wikilink")）[美國總統繳獲](https://zh.wikipedia.org/wiki/美國總統 "wikilink")，用來保護自己。
 
 ### 電子遊戲
 

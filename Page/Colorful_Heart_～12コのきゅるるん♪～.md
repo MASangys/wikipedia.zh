@@ -17,14 +17,6 @@
 
     （聲：[森野花梨](https://zh.wikipedia.org/wiki/森野花梨 "wikilink")）
 
-## 參見
-
-  - [戲畫](../Page/戲畫_\(遊戲品牌\).md "wikilink")
-
-  - （Colorful系列第一作）
-
-  - （Colorful系列第三作）
-
 ## 外部連結
 
 （以下為年齡限制網站）

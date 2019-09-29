@@ -1,4 +1,4 @@
-**STARCAMP EP**（）是[水樹奈奈](../Page/水樹奈奈.md "wikilink")第17首的[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2008年2月6日發售。
+**STARCAMP EP**（）是[日本](../Page/日本.md "wikilink")女歌手[水樹奈奈](../Page/水樹奈奈.md "wikilink")第17首的[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2008年2月6日發售。
 
 ## 解說
 

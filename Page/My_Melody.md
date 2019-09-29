@@ -8,8 +8,6 @@ My Melody的誕生靈感來自[童話故事](https://zh.wikipedia.org/wiki/童�
 
 ## 資料
 
-[My_melody_in_the_show.jpg](https://zh.wikipedia.org/wiki/File:My_melody_in_the_show.jpg "fig:My_melody_in_the_show.jpg")
-
   - 名稱: My Melody（日語全名：マイメロディ，暱稱マイメロ（My Melo））
   - 生日: 1975年1月18日
   - 生肖: 兔兔
@@ -33,7 +31,7 @@ My Melody的誕生靈感來自[童話故事](https://zh.wikipedia.org/wiki/童�
 
 ## 朋友
 
-  - Flat （老鼠 弗蘭多） 美乐蒂的男朋友 ，有些害羞。
+  - Flat （老鼠 弗蘭多） 美乐蒂的朋友 ，有些害羞。
   - Risu （松鼠）老鼠弗蘭多的最好的朋友，有些小小的害羞 喜歡親女孩
   - Piano （綿羊，英文：My Sweet Piano、日文：マイスウィートピアノ，台譯：彼安諾/必愛諾/皮亞諾）生日是7月6號，是一位個性溫柔、喜歡撒嬌的女孩子。
 

@@ -67,4 +67,4 @@
   -
   - [山崎まさよし 官方網站](http://www.universal-music.co.jp/yamazaki_masayoshi/)
 
-[Category:1997年單曲](https://zh.wikipedia.org/wiki/Category:1997年單曲 "wikilink") [Category:日语歌曲](https://zh.wikipedia.org/wiki/Category:日语歌曲 "wikilink") [Category:電影主題曲](https://zh.wikipedia.org/wiki/Category:電影主題曲 "wikilink") [Category:動畫電影主題曲](https://zh.wikipedia.org/wiki/Category:動畫電影主題曲 "wikilink") [Category:山崎將義歌曲](https://zh.wikipedia.org/wiki/Category:山崎將義歌曲 "wikilink")
+[Category:1997年單曲](https://zh.wikipedia.org/wiki/Category:1997年單曲 "wikilink") [Category:日语歌曲](https://zh.wikipedia.org/wiki/Category:日语歌曲 "wikilink") [Category:電影主題曲](https://zh.wikipedia.org/wiki/Category:電影主題曲 "wikilink") [Category:動畫電影主題曲](https://zh.wikipedia.org/wiki/Category:動畫電影主題曲 "wikilink") [Category:山崎將義歌曲](https://zh.wikipedia.org/wiki/Category:山崎將義歌曲 "wikilink") [Category:失戀題材歌曲](https://zh.wikipedia.org/wiki/Category:失戀題材歌曲 "wikilink")

@@ -128,7 +128,7 @@ DJ MAG杂志的Trance DJ排名(1998 至 2010)
   - <small>2015: Gouryella – Anahera</small>
   - <small>2016: The Thrillseekers pres. Hydra – Amber</small>
   - <small>2016: Nhato – ibuki</small>
-  - <small>2018: Armin van Buuren - Blah Blah Blah</small>
+  - <small>2018: Armin van Buuren - Lifting You Higher</small>
 
 ## 制作
 

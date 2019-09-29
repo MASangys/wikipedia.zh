@@ -771,6 +771,48 @@
     第六（最終）關頭目、Extra關頭目，是這次異變的元兇，有着諸多個神的名號，在主人公的背後打開門，令主人公不得不在處於劣勢的情況下與之對抗。
     種族：秘神
 
+## 《鬼形獸》中首次登場
+
+  - [戎瓔花](https://zh.wikipedia.org/wiki/東方鬼形獸_～_Wily_Beast_and_Weakest_Creature.#戎_瓔花 "wikilink")（，Ebisu Youka/Eika）
+    第一關頭目兼中頭目，河原的偶像水子。
+    種族：水子之靈
+
+<!-- end list -->
+
+  - [牛崎潤美](https://zh.wikipedia.org/wiki/東方鬼形獸_～_Wily_Beast_and_Weakest_Creature.#牛崎_潤美 "wikilink")（，Ushizaki Urumi）
+    第二關頭目兼中頭目，古代魚的攜子護衛。
+    種族：牛鬼
+
+<!-- end list -->
+
+  - [庭渡久侘歌](https://zh.wikipedia.org/wiki/東方鬼形獸_～_Wily_Beast_and_Weakest_Creature.#庭渡_久侘歌 "wikilink")（，Niwatari Kutaka）
+    第三關頭目兼中頭目，Extra關中頭目，地獄口岸的守護神。
+    種族：神明
+
+<!-- end list -->
+
+  - [吉弔八千慧](https://zh.wikipedia.org/wiki/東方鬼形獸_～_Wily_Beast_and_Weakest_Creature.#吉弔_八千慧 "wikilink")（，Kitcho Yachie）
+    第四關頭目兼中頭目，鬼傑組組長。
+    種族：吉弔
+
+<!-- end list -->
+
+  - [杖刀偶磨弓](https://zh.wikipedia.org/wiki/東方鬼形獸_～_Wily_Beast_and_Weakest_Creature.#杖刀偶_磨弓 "wikilink")（，Joutougu Mayumi）
+    第五關頭目兼中頭目，第六關中頭目，埴輪兵長。
+    種族：埴輪
+
+<!-- end list -->
+
+  - [埴安神袿姫](https://zh.wikipedia.org/wiki/東方鬼形獸_～_Wily_Beast_and_Weakest_Creature.#埴安神_袿姫 "wikilink")（，Haniyasushin Keiki）
+    第六關頭目，孤立無援造就的造形神。
+    種族：神明
+
+<!-- end list -->
+
+  - [驪駒早鬼](https://zh.wikipedia.org/wiki/東方鬼形獸_～_Wily_Beast_and_Weakest_Creature.#驪駒_早鬼 "wikilink")（，Kurokoma Saki）
+    Extra關頭目，勁牙組組長。
+    種族：驪駒
+
 ## 《香霖堂》中首次登場
 
   - [森近霖之助](https://zh.wikipedia.org/wiki/森近霖之助 "wikilink")（，Morichika Rinnosuke）

@@ -277,7 +277,7 @@
 <td><p>9月27日</p></td>
 <td><p>Animals</p></td>
 <td><p>《<a href="../Page/One_More_Time_(Super_Junior迷你專輯).md" title="wikilink">One More Time</a>》</p></td>
-<td><p><a href="https://m.youtube.com/watch?v=b7VReS2tMsI">Visual Park</a></p></td>
+<td><p><a href="https://m.youtube.com/watch?v=b7VReS2tMsI">Visual Pack</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -288,6 +288,27 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>2019年</p></td>
+<td><p>3月1日</p></td>
+<td><p>Ahora Te Puedes Marchar</p></td>
+<td><p>《<a href="../Page/One_More_Time_(Super_Junior迷你專輯).md" title="wikilink">One More Time</a>》</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=aNcgx832uMM">Special Video</a></p></td>
+</tr>
+<tr class="even">
+<td><p>9月10日</p></td>
+<td><p>Show</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/Time_Slip" title="wikilink">Time_Slip</a>》</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=VRuLUt-Pz88">Special Video</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>9月17日</p></td>
+<td><p>Somebody New</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/Time_Slip" title="wikilink">Time_Slip</a>》</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=eM5XiXrBu74">Special Video</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -387,17 +408,104 @@
 
 ### Super Junior-Donghae & Eunhyuk
 
-| 年份     | 日期              | 歌曲名                                                                                             | 專輯名                                                                                  | 官方視頻                                                                    |
-| ------ | --------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------- |
-| 2011年  | 12月21日          | Oppa, Oppa<small>（韓語版，銀赫、東海主演，神童執導）</small>                                                     | 《[Oppa, Oppa](../Page/Oppa,_Oppa.md "wikilink")》                                     | [Music Video](https://www.youtube.com/watch?v=pmBkoy3uDLM)              |
-| 2012年  | 4月4日            | Oppa, Oppa<small>（日語版，銀赫、東海主演，神童、晟敏客串）</small>                                                  | 《[Oppa, Oppa](https://zh.wikipedia.org/wiki/Oppa,_Oppa#日文單曲《Oppa,_Oppa》 "wikilink")》 | [Music Video (short ver.)](https://www.youtube.com/watch?v=JknI4Xw1kdQ) |
-| 2013年  | 6月19日           | I Wanna Dance                                                                                   | 《[I Wanna Dance](../Page/I_Wanna_Dance.md "wikilink")》                               | [Music Video (short ver.)](https://www.youtube.com/watch?v=gaT8j1yIbCg) |
-| 12月18日 | Still You       | 《[Still You](../Page/Still_You.md "wikilink")》                                                  | [Music Video](https://www.youtube.com/watch?v=IQAu_QX6hVE)                           |                                                                         |
-| 2014年  | 2月26日           | Motorcycle                                                                                      | 《[Ride Me](../Page/Ride_Me.md "wikilink")》                                           |                                                                         |
-| 8月6日   | Skeleton        | 《[Skeleton](../Page/Skeleton_\(Donghae_&_Eunhyuk單曲\).md "wikilink")》                            | [Music Video (short ver.)](https://www.youtube.com/watch?v=SIlHRbslWAI)              |                                                                         |
-| 2015年  | 3月9日            | Growing Pains                                                                                   | 《[The Beat Goes On](../Page/The_Beat_Goes_On.md "wikilink")》                         | [Music Video](https://www.youtube.com/watch?v=Zs2NibgZgR4)              |
-| 4月1日   | Saturday Night  | 《[Present](https://zh.wikipedia.org/wiki/Present_\(迷你專輯\) "wikilink")》                          | [Music Video (short ver.)](https://www.youtube.com/watch?v=LL9tctL0E9E)              |                                                                         |
-| 9月30日  | Let's Get It On | 《[Let's Get It On](../Page/Let's_Get_It_On_\(Super_Junior_Donghae_&_Eunhyuk單曲\).md "wikilink")》 |                                                                                      |                                                                         |
+<table>
+<thead>
+<tr class="header">
+<th><p>年份</p></th>
+<th><p>日期</p></th>
+<th><p>歌曲名</p></th>
+<th><p>專輯名</p></th>
+<th><p>官方視頻</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2011年</p></td>
+<td><p>12月21日</p></td>
+<td><p>Oppa, Oppa<small>（韓語版，銀赫、東海主演，神童執導）</small></p></td>
+<td><p>《<a href="../Page/Oppa,_Oppa.md" title="wikilink">Oppa, Oppa</a>》</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=pmBkoy3uDLM">Music Video</a></p></td>
+</tr>
+<tr class="even">
+<td><p>2012年</p></td>
+<td><p>4月4日</p></td>
+<td><p>Oppa, Oppa<small>（日語版，銀赫、東海主演，神童、晟敏客串）</small></p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/Oppa,_Oppa#日文單曲《Oppa,_Oppa》" title="wikilink">Oppa, Oppa</a>》</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=JknI4Xw1kdQ">Music Video (short ver.)</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>2013年</p></td>
+<td><p>6月19日</p></td>
+<td><p>I Wanna Dance</p></td>
+<td><p>《<a href="../Page/I_Wanna_Dance.md" title="wikilink">I Wanna Dance</a>》</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=gaT8j1yIbCg">Music Video (short ver.)</a></p></td>
+</tr>
+<tr class="even">
+<td><p>12月18日</p></td>
+<td><p>Still You</p></td>
+<td><p>《<a href="../Page/Still_You.md" title="wikilink">Still You</a>》</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=IQAu_QX6hVE">Music Video</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2014年</p></td>
+<td><p>2月26日</p></td>
+<td><p>Motorcycle</p></td>
+<td><p>《<a href="../Page/Ride_Me.md" title="wikilink">Ride Me</a>》</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>8月6日</p></td>
+<td><p>Skeleton</p></td>
+<td><p>《<a href="../Page/Skeleton_(Donghae_&amp;_Eunhyuk單曲).md" title="wikilink">Skeleton</a>》</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=SIlHRbslWAI">Music Video (short ver.)</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2015年</p></td>
+<td><p>3月9日</p></td>
+<td><p>Growing Pains</p></td>
+<td><p>《<a href="../Page/The_Beat_Goes_On.md" title="wikilink">The Beat Goes On</a>》</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=Zs2NibgZgR4">Music Video</a></p></td>
+</tr>
+<tr class="even">
+<td><p>4月1日</p></td>
+<td><p>Saturday Night</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/Present_(迷你專輯)" title="wikilink">Present</a>》</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=LL9tctL0E9E">Music Video (short ver.)</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>9月30日</p></td>
+<td><p>Let's Get It On</p></td>
+<td><p>《<a href="../Page/Let&#39;s_Get_It_On_(Super_Junior_Donghae_&amp;_Eunhyuk單曲).md" title="wikilink">Let's Get It On</a>》</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=BiFX5067tUw">Music Video (short ver.)</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2018年</p></td>
+<td><p>7月23日</p></td>
+<td><p>SUNRISE</p></td>
+<td><p>《<a href="../Page/Style_(Super_Junior_Donghae_&amp;_Eunhyuk专辑).md" title="wikilink">Style</a>》</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=3auavb5f0bw">Music Video</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>8月16日</p></td>
+<td><p>'Bout You</p></td>
+<td><p>《<a href="../Page/&#39;Bout_You.md" title="wikilink">'Bout You</a>》</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=6GBbTqsFog8">Music Video</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年</p></td>
+<td><p>4月14日</p></td>
+<td><p>Danger</p></td>
+<td><p>《<a href="../Page/Danger_(Super_Junior-D&amp;E迷你專輯).md" title="wikilink">Danger</a>》</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=5672cZAxRMw">Music Video</a> <a href="https://www.youtube.com/watch?v=AlcjCF9JyAw">Concert Version</a></p>
+<p><a href="https://www.youtube.com/watch?v=BJ_T_Avi32U">Performance Version</a></p></td>
+</tr>
+</tbody>
+</table>
 
 ## 合作MV
 
@@ -739,5 +847,9 @@
 | 2015年2月25日  | E.L.F Japan Festival 2013                                                   |                                                                               |
 | 2015年3月11日  | Super Junior World Tour Super Show 6 in Japan                               |                                                                               |
 | 2016年1月8日   | [Super Junior世界巡回演唱会 - Super Show 6](../Page/Super_Show_6.md "wikilink")    | SM Entertainment                                                              |
+| 2016年9月23日  | Super Junior - K.R.Y - Asia Tour Phonograph in Seoul                        |                                                                               |
+| 2019年2月13日  | Super Junior D\&E Japan Tour 2018 \~Style\~                                 | Avex Trax                                                                     |
+| 2019年3月6日   | Super Junior World Tour Super Show 7 in Japan                               |                                                                               |
+| 2019年6月21日  | [Super Junior世界巡回演唱会 - Super Show 7](../Page/Super_Show_7.md "wikilink")    | SM Entertainment                                                              |
 
 [Category:Super_Junior](https://zh.wikipedia.org/wiki/Category:Super_Junior "wikilink")

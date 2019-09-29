@@ -23,6 +23,11 @@ Gen1和Gen2的PS90因扳机组可以相对容易的被别有用心者非法改�
 
   - ：[德州的Addison警隊](https://zh.wikipedia.org/wiki/德州 "wikilink") (PS90 TR)
 
+## 相關條目
+
+  - [FN P90衝鋒槍](../Page/FN_P90衝鋒槍.md "wikilink")
+  - [FN F2000突擊步槍](../Page/FN_F2000突擊步槍.md "wikilink")
+
 ## 外部參考
 
   - [FNH USA](https://web.archive.org/web/20070701175325/http://www.fnhusa.com/products/firearms/family.asp?fid=FNF009&gid=FNG006)

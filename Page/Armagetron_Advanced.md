@@ -44,7 +44,7 @@
 
   - [主页](http://armagetronad.net)
   - [社区](https://web.archive.org/web/20090303154532/http://forums.armagetronad.net/)
-  - [Armagetron游戏指导](http://armagetron.co.uk)
+  - [Armagetron游戏指导](https://web.archive.org/web/20170530070533/http://armagetron.co.uk/)
 
 [Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink") [Category:Linux游戏](https://zh.wikipedia.org/wiki/Category:Linux游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:網路遊戲](https://zh.wikipedia.org/wiki/Category:網路遊戲 "wikilink") [Category:开源游戏](https://zh.wikipedia.org/wiki/Category:开源游戏 "wikilink") [Category:免费游戏](https://zh.wikipedia.org/wiki/Category:免费游戏 "wikilink") [Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink")
 

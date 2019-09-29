@@ -8,7 +8,7 @@
 
 由於體積小重量輕，每架戰機將能攜帶更多的炸彈，每個飛行架次中攻擊多個目標。現役戰機中首先具備攜帶小直徑炸彈能力的是[F-15E打擊鷹（Strike Eagle）式](../Page/F-15E打擊鷹式戰鬥轟炸機.md "wikilink")，將能夠攜帶20枚；未來將逐步整合到[F-16戰隼（Fighting Falcon）式](../Page/F-16戰隼戰鬥機.md "wikilink")、[F-22猛禽（Raptor）式](../Page/F-22猛禽戰鬥機.md "wikilink")、[F-35閃電Ⅱ（Lightning Ⅱ）式](https://zh.wikipedia.org/wiki/F-35閃電II攻擊戰鬥機 "wikilink")、[A-10雷霆Ⅱ（Thunderbolt Ⅱ）式](../Page/A-10雷霆二式攻擊機.md "wikilink")、[B-1槍騎兵（Lancer）式](../Page/B-1槍騎兵戰略轟炸機.md "wikilink")、[B-2幽靈（Spirit）式以及](https://zh.wikipedia.org/wiki/B-2幽靈隱形戰略轟炸機 "wikilink")[B-52同溫層堡壘（Stratofortress）式](../Page/B-52同溫層堡壘轟炸機.md "wikilink")。其他飛機，例如發展中的[聯合無人戰機系統](https://zh.wikipedia.org/wiki/聯合無人戰機系統 "wikilink")（J-UCAS），在經過必要的修改後也能攜帶和投擲。
 
-小直徑炸彈僅內含約50磅（23公斤）的高爆炸藥，這是因為小直徑炸彈的設計穿透能力與2,000磅[BLU-109炸彈相當](https://zh.wikipedia.org/wiki/BLU-109炸彈 "wikilink")。在展示時，小直徑炸彈成功的穿透6呎（1.8公尺）厚的強化[混凝土](../Page/混凝土.md "wikilink")。它也藉由安裝钻石背（DiamondBack）套件來延伸投擲後的飛行距離，以獲得更長的有效射程。
+小直徑炸彈僅內含約50磅（23公斤）的高爆炸藥，這是因為小直徑炸彈的設計穿透能力與2,000磅[BLU-109硬化穿透炸弹](../Page/BLU-109硬化穿透炸弹.md "wikilink")相當。在展示時，小直徑炸彈成功的穿透6呎（1.8公尺）厚的強化[混凝土](../Page/混凝土.md "wikilink")。它也藉由安裝钻石背（DiamondBack）套件來延伸投擲後的飛行距離，以獲得更長的有效射程。
 
 ## 性能（GBU-39/B Block 1）
 

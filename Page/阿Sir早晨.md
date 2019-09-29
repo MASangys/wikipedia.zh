@@ -1,4 +1,4 @@
-《**阿Sir早晨**》（[英文](https://zh.wikipedia.org/wiki/英語 "wikilink")：），（中國大陸譯名：**老師早上好**；前名：**春風化雨**；原名：**阿Sir早安**）是[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，1994年首播，由[黎明](../Page/黎明.md "wikilink")、[李綺虹](https://zh.wikipedia.org/wiki/李綺虹 "wikilink")、[宣萱](../Page/宣萱.md "wikilink")、[李影](https://zh.wikipedia.org/wiki/李影 "wikilink")、[黃霑](../Page/黃霑.md "wikilink")、[羅家英](../Page/羅家英.md "wikilink")、[古天樂](../Page/古天樂.md "wikilink")、[伍文生](../Page/伍文生.md "wikilink")、[蔣克](../Page/蔣克.md "wikilink")、[吳家樂](../Page/吳家樂.md "wikilink")主演。以一個個感人小故事為基礎，慢慢演變出廣大的劇情，劇情感人。[主題曲](../Page/主題曲.md "wikilink")和[插曲皆是由](https://zh.wikipedia.org/wiki/插曲 "wikilink")[黎明](../Page/黎明.md "wikilink")主唱。
+《**阿Sir早晨**》（[英文](https://zh.wikipedia.org/wiki/英語 "wikilink")：），（中國大陸譯名：**老師早上好**；前名：**春風化雨**；原名：**阿Sir早安**）是[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，1994年首播，由[黎明](https://zh.wikipedia.org/wiki/黎明_\(香港歌手\) "wikilink")、[李綺虹](https://zh.wikipedia.org/wiki/李綺虹 "wikilink")、[宣萱](../Page/宣萱.md "wikilink")、[李影](https://zh.wikipedia.org/wiki/李影 "wikilink")、[黃霑](../Page/黃霑.md "wikilink")、[羅家英](../Page/羅家英.md "wikilink")、[古天樂](../Page/古天樂.md "wikilink")、[伍文生](../Page/伍文生.md "wikilink")、[蔣克](../Page/蔣克.md "wikilink")、[吳家樂](../Page/吳家樂.md "wikilink")主演。以一個個感人小故事為基礎，慢慢演變出廣大的劇情，劇情感人。[主題曲](../Page/主題曲.md "wikilink")和[插曲皆是由](https://zh.wikipedia.org/wiki/插曲 "wikilink")[黎明](../Page/黎明.md "wikilink")主唱。
 
 此劇為黎明在TVB所拍的最後一套電視劇。 此劇於2009年10月在[無綫收費電視](https://zh.wikipedia.org/wiki/無綫收費電視 "wikilink")[經典台我們的](https://zh.wikipedia.org/wiki/無綫經典台 "wikilink")...[黎明](../Page/黎明.md "wikilink")每周六至日連續播映四集。
 
@@ -12,8 +12,8 @@
 
 ### 祝家
 
-  - [黎　明](../Page/黎明.md "wikilink") 飾 祝大保（大煲粥；方同心男友；唐寶珊前男友）
-  - [簡珮筠](https://zh.wikipedia.org/wiki/簡珮筠 "wikilink") 飾 祝中平（陸建材女友）
+  - [黎　明](https://zh.wikipedia.org/wiki/黎明_\(香港歌手\) "wikilink") 飾 祝大保（大煲粥；方同心男友；唐寶珊前男友）
+  - [簡佩筠](../Page/簡佩筠.md "wikilink") 飾 祝中平（陸建材女友）
   - [周文淇](https://zh.wikipedia.org/wiki/周文淇 "wikilink") 飾 祝小安（包可媚男友）
   - [黃　霑](../Page/黃霑.md "wikilink") 飾 祝華年（沈婷之夫）
   - [李　影](https://zh.wikipedia.org/wiki/李影 "wikilink") 飾 沈　婷（祝華年之妻）

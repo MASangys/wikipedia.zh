@@ -31,7 +31,7 @@
   - [傀儡師神樂](https://zh.wikipedia.org/wiki/傀儡師神樂 "wikilink")（[賽目和七](https://zh.wikipedia.org/wiki/賽目和七 "wikilink")／[マニャ子](https://zh.wikipedia.org/wiki/マニャ子 "wikilink")）
   - [人生](https://zh.wikipedia.org/wiki/人生_\(輕小說\) "wikilink")（[川岸毆魚](https://zh.wikipedia.org/wiki/川岸毆魚 "wikilink")／[ななせめるち](https://zh.wikipedia.org/wiki/ななせめるち "wikilink")）
   - [如果有妹妹就好了。](../Page/如果有妹妹就好了。.md "wikilink")（[平坂讀](../Page/平坂讀.md "wikilink")／[カントク](../Page/監督_\(插畫家\).md "wikilink")）
-  - [4 cours after 四季之後](https://zh.wikipedia.org/wiki/4_cours_after_四季之後 "wikilink")（／bun150）
+  - [4 cours after 四季之後](https://zh.wikipedia.org/wiki/4_cours_after_四季之後 "wikilink")（[水澤夢](https://zh.wikipedia.org/wiki/水澤夢 "wikilink")／bun150）
 
 ### 尖端出版
 

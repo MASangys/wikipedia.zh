@@ -1,4 +1,4 @@
-**EuroSprinter**，或稱“**歐洲短跑手**”，是[德国](../Page/德国.md "wikilink")[西门子交通集团及](https://zh.wikipedia.org/wiki/西门子交通集团 "wikilink")[克劳斯-玛菲公司開發的](https://zh.wikipedia.org/wiki/克劳斯-玛菲公司 "wikilink")[電力機車](../Page/電力機車.md "wikilink")車系之一，主要為[歐洲市場而設](https://zh.wikipedia.org/wiki/歐洲 "wikilink")。其內部型號以**ES 64**起首，當中64代表其整車輸出功率可達6,400 kW，而64後的字母及數字則代表其用途及適用供電格式數目。
+**EuroSprinter**，或稱“**歐洲短跑手**”，是[德国](../Page/德国.md "wikilink")[西门子交通集团及](https://zh.wikipedia.org/wiki/西门子交通集团 "wikilink")[克劳斯-玛菲公司開發的](https://zh.wikipedia.org/wiki/克劳斯-玛菲公司 "wikilink")[電力機車](../Page/電力機車.md "wikilink")車系之一，主要為[歐洲市場而設](https://zh.wikipedia.org/wiki/歐洲 "wikilink")。其內部型號以**ES 64**起首，當中64代表其整車輸出功率可達6,400 kW，而64後的字母及數字則代表其用途及適用供電格式數目。目前除HXD1及HXD1B（但改用由[中車株洲電機及](https://zh.wikipedia.org/wiki/中車株洲電機 "wikilink")[中車時代電氣製牽引系統](https://zh.wikipedia.org/wiki/中車時代電氣 "wikilink")）兩款機車外，所有同系機車均已停產，並由下一代的[西門子Vectron車系取代](https://zh.wikipedia.org/wiki/西門子Vectron "wikilink")。
 
 ## 開發
 

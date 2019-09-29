@@ -1,4 +1,4 @@
-**feel my soul**是[日本](../Page/日本.md "wikilink")唱作女[歌手](../Page/歌手.md "wikilink") [YUI](../Page/YUI.md "wikilink")，於2005年2月23日所推出的單曲碟。
+《**feel my soul**》是[日本](../Page/日本.md "wikilink")唱作女[歌手](../Page/歌手.md "wikilink") [YUI](../Page/YUI.md "wikilink")，於2005年2月23日所推出的單曲碟。
 
 ## 收錄歌曲
 

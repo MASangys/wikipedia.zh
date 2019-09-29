@@ -18,26 +18,26 @@
 <tbody>
 <tr class="odd">
 <td><p>1989年</p></td>
-<td><p><em><a href="https://zh.wikipedia.org/wiki/Quinty" title="wikilink">Quinty</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Quinty" title="wikilink">Quinty</a></p></td>
 <td><p>日本：<a href="../Page/南梦宫.md" title="wikilink">南梦宫</a> 北美：<a href="../Page/Hudson_Soft.md" title="wikilink">Hudson Soft</a></p></td>
 <td><p>FC</p></td>
 </tr>
 <tr class="even">
 <td><p>1991年</p></td>
-<td><p><em><a href="https://zh.wikipedia.org/wiki/Jerry_Boy" title="wikilink">Jerry Boy</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Jerry_Boy" title="wikilink">Jerry Boy</a></p></td>
 <td><p><a href="../Page/索尼.md" title="wikilink">索尼</a></p></td>
 <td><p>超级任天堂</p></td>
 </tr>
 <tr class="odd">
 <td><p>1991年</p></td>
-<td><p><em><a href="https://zh.wikipedia.org/wiki/耀西的蛋" title="wikilink">耀西的蛋</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/耀西的蛋" title="wikilink">耀西的蛋</a></p></td>
 <td><p>任天堂</p></td>
 <td><p>FC<br />
 Game Boy</p></td>
 </tr>
 <tr class="even">
 <td><p>1992年</p></td>
-<td><p><em><a href="../Page/神通小精靈.md" title="wikilink">神通小精靈</a></em></p></td>
+<td><p><a href="../Page/神通小精靈.md" title="wikilink">神通小精靈</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Sega" title="wikilink">Sega</a></p></td>
 <td><p>Mega Drive</p></td>
 </tr>
@@ -49,25 +49,25 @@ Game Boy</p></td>
 </tr>
 <tr class="even">
 <td><p>1994年</p></td>
-<td><p><em>Nontan to Issho! Kuru-Kuru Puzzle</em></p></td>
+<td><p>Nontan to Issho! Kuru-Kuru Puzzle</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Victor_Interactive" title="wikilink">Victor Interactive</a></p></td>
 <td><p>Game Boy</p></td>
 </tr>
 <tr class="odd">
 <td><p>1994年</p></td>
-<td><p><em><a href="https://zh.wikipedia.org/wiki/Pulseman" title="wikilink">Pulseman</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Pulseman" title="wikilink">Pulseman</a></p></td>
 <td><p>世嘉</p></td>
 <td><p>Mega Drive</p></td>
 </tr>
 <tr class="even">
 <td><p>1994年</p></td>
-<td><p><em>Smart Ball 2</em></p></td>
+<td><p>Smart Ball 2</p></td>
 <td><p>索尼</p></td>
 <td><p>超级任天堂</p></td>
 </tr>
 <tr class="odd">
 <td><p>1994年</p></td>
-<td><p><em>Nontan to Issho: Kuru Kuru Puzzle</em></p></td>
+<td><p>Nontan to Issho: Kuru Kuru Puzzle</p></td>
 <td><p>Victor Interactive</p></td>
 <td><p>超级任天堂</p></td>
 </tr>
@@ -91,13 +91,13 @@ Game Boy</p></td>
 </tr>
 <tr class="odd">
 <td><p>1996年</p></td>
-<td><p><em>Bazaar de Gosāru no Game de Gosāru</em></p></td>
+<td><p>Bazaar de Gosāru no Game de Gosāru</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/NEC" title="wikilink">NEC</a></p></td>
 <td><p>PC Engine</p></td>
 </tr>
 <tr class="even">
 <td><p>1997年</p></td>
-<td><p><em>Bushi Seiryūden: Futari no Yūsha</em></p></td>
+<td><p>Bushi Seiryūden: Futari no Yūsha</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/T&amp;E_Soft" title="wikilink">T&amp;E Soft</a></p></td>
 <td><p>超级任天堂</p></td>
 </tr>
@@ -121,7 +121,7 @@ Game Boy</p></td>
 </tr>
 <tr class="even">
 <td><p>1999年</p></td>
-<td><p><em>Click Medic</em></p></td>
+<td><p>Click Medic</p></td>
 <td><p>索尼</p></td>
 <td><p>PlayStation</p></td>
 </tr>
@@ -151,7 +151,7 @@ Game Boy</p></td>
 </tr>
 <tr class="odd">
 <td><p>2005年</p></td>
-<td><p><em><a href="https://zh.wikipedia.org/wiki/Drill_Dozer" title="wikilink">Drill Dozer</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Drill_Dozer" title="wikilink">Drill Dozer</a></p></td>
 <td><p>任天堂</p></td>
 <td><p>Game Boy Advance</p></td>
 </tr>
@@ -187,13 +187,13 @@ Game Boy</p></td>
 </tr>
 <tr class="odd">
 <td><p>2012年</p></td>
-<td><p><em><a href="https://zh.wikipedia.org/wiki/HarmoKnight" title="wikilink">HarmoKnight</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/HarmoKnight" title="wikilink">HarmoKnight</a></p></td>
 <td><p>任天堂</p></td>
 <td><p>Nintendo 3DS</p></td>
 </tr>
 <tr class="even">
 <td><p>2013年</p></td>
-<td><p><em>Pocket Card Jockey</em></p></td>
+<td><p>Pocket Card Jockey</p></td>
 <td><p>日本：Game Freak 全球：任天堂[2]</p></td>
 <td><p>Nintendo 3DS<br />
 iOS<br />
@@ -252,6 +252,12 @@ Android</p></td>
 <td><p>Nintendo Switch</p></td>
 </tr>
 <tr class="odd">
+<td><p>2019年</p></td>
+<td><p>Little Town Hero</p></td>
+<td><p>任天堂</p></td>
+<td><p>Nintendo Switch</p></td>
+</tr>
+<tr class="even">
 <td><p>2019年</p></td>
 <td><p><a href="../Page/寶可夢_劍／盾.md" title="wikilink">寶可夢 劍／盾</a></p></td>
 <td><p>任天堂</p></td>

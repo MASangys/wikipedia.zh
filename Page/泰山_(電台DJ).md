@@ -1,4 +1,4 @@
-（10月26日－），原名曾匡民，前[香港商業電台](../Page/香港商業電台.md "wikilink")[節目主持](https://zh.wikipedia.org/wiki/節目主持 "wikilink")。他有[牙買加血統](https://zh.wikipedia.org/wiki/牙買加 "wikilink")。前商台主持[曾路得](../Page/曾路得.md "wikilink")是其姑姐。於2011年1月28日離開[香港商業電台](../Page/香港商業電台.md "wikilink")，同年4月1日轉任世界宣明會公共傳訊及推廣主任。
+**泰山**（，），原名**曾匡民**，前[香港商業電台](../Page/香港商業電台.md "wikilink")[節目主持](https://zh.wikipedia.org/wiki/節目主持 "wikilink")。他有[牙買加血統](https://zh.wikipedia.org/wiki/牙買加 "wikilink")。前商台主持[曾路得](../Page/曾路得.md "wikilink")是其姑姐。於2011年1月28日離開[香港商業電台](../Page/香港商業電台.md "wikilink")，同年4月1日轉任世界宣明會公共傳訊及推廣主任。
 
 ## 簡歷
 

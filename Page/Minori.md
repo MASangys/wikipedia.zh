@@ -20,7 +20,7 @@
       - 2010年9月17日－
   - 2009年9月18日－[eden\*](https://zh.wikipedia.org/wiki/eden* "wikilink")
   - 2011年12月29日 -  - NICE TO MEET YOU！
-  - 2012年5月18日 -  - Alice the magical conductor. STORY\#01 Spring Has Come \!
+  - 2012年5月18日 - [すぴぱら - Alice the magical conductor.](../Page/Supipara_-_Alice_the_magical_conductor..md "wikilink") STORY\#01 Spring Has Come \!
   - 2012年12月21日 - [夏空的英仙座](../Page/夏空的英仙座.md "wikilink")（）
   - 2014年1月31日 -
   - 2015年2月27日 - [永不落幕的前奏詩](https://zh.wikipedia.org/wiki/永不落幕的前奏詩 "wikilink")（）

@@ -1,6 +1,6 @@
-《**Linux From Scratch**》（**LFS**）是等人编写的安装[Linux](../Page/Linux.md "wikilink")的教科书，描述了从[源代码](../Page/源代码.md "wikilink")编译Linux系统的方法。这本书可以从在Linux From Scratch网站上免费下载到，当前最新的版本为8.3\[1\]。
+《**Linux From Scratch**》（**LFS**）是等人编写的安装[Linux](../Page/Linux.md "wikilink")的教科书，描述了从[源代码](../Page/源代码.md "wikilink")编译Linux系统的方法。这本书可以从在Linux From Scratch网站上免费下载到。
 
-为了保持LFS的基本性和专注性，另一本书《[Beyond Linux From Scratch](https://zh.wikipedia.org/wiki/BLFS "wikilink")》（BLFS）提供了在LFS的基础上，进一步完善Linux基本系统的指引。在BLFS中，读者可以学习到如何为系统增加网络、[X桌面](https://zh.wikipedia.org/wiki/X_Window系统 "wikilink")、声音、打印机和扫描仪支持。从5.0版开始，BLFS开始与LFS的版本号保持同步。\[2\]
+为了保持LFS的基本性和专注性，另一本书《[Beyond Linux From Scratch](https://zh.wikipedia.org/wiki/BLFS "wikilink")》（BLFS）提供了在LFS的基础上，进一步完善Linux基本系统的指引。在BLFS中，读者可以学习到如何为系统增加网络、[X桌面](https://zh.wikipedia.org/wiki/X_Window系统 "wikilink")、声音、打印机和扫描仪支持。从5.0版开始，BLFS开始与LFS的版本号保持同步。\[1\]
 
 除了LFS和BLFS，还有描述[交叉编译的](https://zh.wikipedia.org/wiki/交叉编译 "wikilink")《[Cross Linux from Scratch](https://zh.wikipedia.org/wiki/CLFS "wikilink")》（CLFS）以及专注于安全的《[Hardened Linux From Scratch](https://zh.wikipedia.org/wiki/HLFS "wikilink")》（HLFS）。
 
@@ -32,7 +32,7 @@
   - Automated Linux From Scratch（ALFS）:标准LFS只是一本书，用户需要根据书上的指引下载软件包并手动输入指令进行编译。ALFS子项目提供了把这一切自动化的脚本。
     Hardened Linux From Scratch（HLFS）:这个子项目致力于打造在安全性上无懈可击的Linux系统。
     Hints:收集一些解释性、增强性的文档，以协助用户
-    LiveCD:利用LFS的方法生成可以自行启动并安装了足够软件的CD，可以用来在空机器上安装LFS，或者直接在其上运行应用，已经停止维护 \[3\]
+    LiveCD:利用LFS的方法生成可以自行启动并安装了足够软件的CD，可以用来在空机器上安装LFS，或者直接在其上运行应用，已经停止维护 \[2\]
     Patches:由于软件之间的依赖关系，在升级软件包之后可能会导致LFS的过程出现故障。Patch项目致力于研究最新版本的软件之间的互动，并提供一些补丁修复这些故障。
 
 除此之外，该项目另有一个名为CBLFS（Community Driven BLFS）的项目，该项目实际是一个Wiki网站，依靠网友的自发贡献来提交各种软件包的安装方式。
@@ -133,6 +133,5 @@
 
 [Category:自由軟體](https://zh.wikipedia.org/wiki/Category:自由軟體 "wikilink") [Category:Linux](https://zh.wikipedia.org/wiki/Category:Linux "wikilink")
 
-1.
-2.  Gerard Beekmans: Beyond Linux From Scratch, Version 6.3 (August 2008)
-3.  。
+1.  Gerard Beekmans: Beyond Linux From Scratch, Version 6.3 (August 2008)
+2.  。

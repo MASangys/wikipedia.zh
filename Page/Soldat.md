@@ -83,7 +83,7 @@
       - （6）[Ruger-77](../Page/儒格M77步槍.md "wikilink") [美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[儒格公司製](https://zh.wikipedia.org/wiki/儒格-斯特姆 "wikilink")[手動步槍](../Page/手動槍機.md "wikilink")
       - （7）[M79](../Page/M79榴彈發射器.md "wikilink") [美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[春田兵工廠製](https://zh.wikipedia.org/wiki/春田兵工廠 "wikilink")[榴彈發射器](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")
       - （8）[Barrett M82A1](../Page/巴雷特M82狙擊步槍.md "wikilink") [美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[巴雷特製](../Page/巴雷特槍械公司.md "wikilink")[狙击步枪](https://zh.wikipedia.org/wiki/狙击步枪 "wikilink")（[反器材步槍](../Page/反器材步槍.md "wikilink")）
-      - （9）[FN Minimi](../Page/FN_Minimi輕機槍.md "wikilink") [比利时](../Page/比利时.md "wikilink")[FN製](https://zh.wikipedia.org/wiki/Fabrique_Nationale "wikilink")[轻机枪](../Page/轻机枪.md "wikilink")（[M249班用機槍](../Page/M249班用自動武器.md "wikilink")）
+      - （9）[FN Minimi](../Page/FN_Minimi輕機槍.md "wikilink") [比利时](../Page/比利时.md "wikilink")[FN製](../Page/埃斯塔勒国营工厂.md "wikilink")[轻机枪](../Page/轻机枪.md "wikilink")（[M249班用機槍](../Page/M249班用自動武器.md "wikilink")）
       - （0）[XM214 Mini gun](../Page/XM214微型砲機槍.md "wikilink") [美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[-{zh-cn:通用电气; zh-tw:奇異; zh-hk:通用電氣;}-製](../Page/通用电气.md "wikilink")[加特林机枪](../Page/加特林机枪.md "wikilink")
   - 附屬武器（無法使用鍵盤選擇鍵選擇，但可在Player中的Secondary Weapon預設）
       - [USSCOM](../Page/HK_Mk_23_Mod_0手槍.md "wikilink")（HK MK23 Mod 0）[德国](../Page/德国.md "wikilink")[黑克勒-科赫](https://zh.wikipedia.org/wiki/黑克勒-科赫 "wikilink")[手枪](../Page/手枪.md "wikilink")

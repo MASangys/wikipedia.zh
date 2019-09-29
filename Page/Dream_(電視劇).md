@@ -7,7 +7,7 @@
   - [朱鎮模](../Page/朱鎮模.md "wikilink") 飾 南杰一（台灣配音：[吳文民](../Page/吳文民.md "wikilink")）（粵語配音：[潘文柏](../Page/潘文柏.md "wikilink")）
   - [金汎](../Page/金汎.md "wikilink") 飾 李長石（台灣配音：[于正昇](../Page/于正昇.md "wikilink")）（粵語配音：[黃榮璋](../Page/黃榮璋.md "wikilink")）
   - [孫淡妃](../Page/孫淡妃.md "wikilink") 飾 朴素妍（台灣配音：[許淑嬪](../Page/許淑嬪.md "wikilink")）（粵語配音：[鄭麗麗](../Page/鄭麗麗.md "wikilink")）
-  - [朴相元](../Page/朴相元.md "wikilink") 飾 姜景澤
+  - [朴相元](../Page/朴相元.md "wikilink") 飾 姜景澤（粵語配音：[張炳強](../Page/張炳強.md "wikilink")）
   - [崔汝珍](../Page/崔汝珍.md "wikilink") 飾 張秀珍（粵語配音：[朱妙蘭](../Page/朱妙蘭.md "wikilink")）
 
 ### F.F（Flower Fighters）010格鬥團

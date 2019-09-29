@@ -164,7 +164,7 @@ ZUN認為，本作的一個主要目標就是「回歸原點」，因此簡化�
 
 《東方風神錄》因其難度與東方其他作品一致而受到好評。然而，[4Gamer.net的佐佐山薰](https://zh.wikipedia.org/wiki/4Gamer.net "wikilink")-{郁}-注意到本作的彈幕排布顯得比以往作品還要難，不過每種排布的持續時間變得更短，這樣玩家實際上能夠更容易地存活\[13\]。他還稱遊戲屬於「符卡中心」，鼓勵玩家在非符卡攻擊中使用BOMB \[14\]。
 
-遊戲使得很多日本[長野縣以外的愛好者來到了](https://zh.wikipedia.org/wiki/長野縣 "wikilink")[諏訪大社](../Page/諏訪大社.md "wikilink")——激發《東方風神錄》創作靈感的地方。從2008年7月開始諏訪大社逐漸出現了[日本漫畫風格的](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")[繪馬](../Page/繪馬.md "wikilink")。長野縣[茅野市的神長官守矢史料館數據顯示](https://zh.wikipedia.org/wiki/茅野市 "wikilink")，2008年的遊客數量已經能與2007年相比。在2007年，隨著[NHK大河劇](../Page/NHK大河劇.md "wikilink")《[風林火山](../Page/風林火山_\(大河劇\).md "wikilink")》的播出，諏訪大社的遊客數量也有所增長。一些當地人希望能借助遊戲形成一種新的吸引遊客的方式，就像《[幸運☆星](../Page/幸運☆星.md "wikilink")》播出使得大量遊客參訪[埼玉縣](../Page/埼玉縣.md "wikilink")[鷲宮神社](../Page/鷲宮神社.md "wikilink")那樣\[15\]。
+遊戲使得很多日本[長野縣以外的愛好者來到了](https://zh.wikipedia.org/wiki/長野縣 "wikilink")[諏訪大社](../Page/諏訪大社.md "wikilink")——激發《東方風神錄》創作靈感的地方。從2008年7月開始諏訪大社逐漸出現了[日本漫畫風格的](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")[繪馬](../Page/繪馬.md "wikilink")。長野縣[茅野市](../Page/茅野市.md "wikilink")的神長官守矢史料館數據顯示，2008年的遊客數量已經能與2007年相比。在2007年，隨著[NHK大河劇](../Page/NHK大河劇.md "wikilink")《[風林火山](../Page/風林火山_\(大河劇\).md "wikilink")》的播出，諏訪大社的遊客數量也有所增長。一些當地人希望能借助遊戲形成一種新的吸引遊客的方式，就像《[幸運☆星](../Page/幸運☆星.md "wikilink")》播出使得大量遊客參訪[埼玉縣](../Page/埼玉縣.md "wikilink")[鷲宮神社](../Page/鷲宮神社.md "wikilink")那樣\[15\]。
 
 ## 外部連結
 

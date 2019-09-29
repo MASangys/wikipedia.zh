@@ -130,7 +130,7 @@ Jaŋalif (1928–1940)
 
 ## 西里尔化
 
-[Crimea_propaganda.png](https://zh.wikipedia.org/wiki/File:Crimea_propaganda.png "fig:Crimea_propaganda.png")使用了拉丁字母和阿拉伯字母来宣传，没有使用西里尔字母。[克里米亚鞑靼语当年也采用](https://zh.wikipedia.org/wiki/克里米亚鞑靼语 "wikilink") Jaŋalif\]\] 在1930年代，土耳其成了苏联的其中一个潜在敌人。即使土耳其的[阿塔土克字母不同于](https://zh.wikipedia.org/wiki/穆斯塔法·凯末尔·阿塔土克 "wikilink") Jaŋalif，在苏联官员眼中，拉丁字母是一个外在的、资产阶级的世界。在1939年，苏联实行西里尔化。正如[斯大林所言](https://zh.wikipedia.org/wiki/约瑟夫·斯大林 "wikilink")，[俄罗斯人是社会主义人民的领导者](https://zh.wikipedia.org/wiki/俄罗斯族 "wikilink")，所以苏联国内的所有人民，必须晓俄语和同化到俄罗斯去。而字母亦“应工人的要求”而转到西里尔。
+在1930年代，土耳其成了苏联的其中一个潜在敌人。即使土耳其的[阿塔土克字母不同于](https://zh.wikipedia.org/wiki/穆斯塔法·凯末尔·阿塔土克 "wikilink") Jaŋalif，在苏联官员眼中，拉丁字母是一个外在的、资产阶级的世界。在1939年，苏联实行西里尔化。正如[斯大林所言](https://zh.wikipedia.org/wiki/约瑟夫·斯大林 "wikilink")，[俄罗斯人是社会主义人民的领导者](https://zh.wikipedia.org/wiki/俄罗斯族 "wikilink")，所以苏联国内的所有人民，必须晓俄语和同化到俄罗斯去。而字母亦“应工人的要求”而转到西里尔。
 
 曾经有几套西里尔化的方案。早在1938年，M. Fazlullin 教授引入了修改自[俄语字母的](https://zh.wikipedia.org/wiki/俄语字母 "wikilink")[塔塔尔字母](https://zh.wikipedia.org/wiki/塔塔尔字母 "wikilink")，没有使用任何附加符号。特定的塔塔尔字母应使用二合字母来书写，包含相近的俄语字母加上 [Ъ](../Page/Ъ.md "wikilink") 和 [Ь](../Page/Ь.md "wikilink")。\[1\]
 

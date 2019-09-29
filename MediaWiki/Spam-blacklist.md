@@ -11,6 +11,9 @@
  #   * Everything from a "#" character to the end of the line is a comment
  #   * Every non-blank line is a regex fragment which will only match hosts inside URL
 
+\bwww\.ss819\.com\b # 89.187.178.54, 89.187.178.23
+\bwww\.bv885\.com\b
+\bwww\.taoyunhome\.org\b
 \bricebeantri\.com\b # [[special:contribs/O930386957|special:contribs/O930386957]]
 \bencoretvb\.com\b
 \bcn\.investing\.com\b

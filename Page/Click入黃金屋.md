@@ -17,14 +17,16 @@
 <td><p>「萬華書店」職員<br />
 顏如玉之夫<br />
 方心明、方心正、方心美之父<br />
-「開卷有益」書店老闆</p></td>
+「開卷有益」書店老闆<br />
+宋书琦之旧同学兼暗恋对象</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/韓馬利.md" title="wikilink">韓馬利</a></strong></p></td>
 <td><p><strong>顏如玉</strong></p></td>
 <td><p>家庭主妇<br />
 方學文之妻<br />
-方心明、方心正、方心美之母</p></td>
+方心明、方心正、方心美之母<br />
+宋书琦之情敌</p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/黎耀祥.md" title="wikilink">黎耀祥</a></strong></p></td>
@@ -44,6 +46,7 @@ INSS网络保安公司职员<br />
 方心美之兄<br />
 雷婉儀之男友，後分手，最後復合<br />
 徐希敏之男友，後分手<br />
+雷树培之未来堂姑丈<br />
 童年由<a href="https://zh.wikipedia.org/wiki/马俊荣" title="wikilink">马俊荣饰演</a></p></td>
 </tr>
 <tr class="even">
@@ -117,10 +120,11 @@ INSS网络保安公司职员<br />
 <td><p><strong>雷婉儀</strong></p></td>
 <td><p><strong>Abbie、鴨髀</strong><br />
 營養師<br />
-錢淑芬之長女<br />
+雷文生、錢淑芬之長女<br />
 方心正之女友，後分手，最後復合<br />
-雷樹培之姑姐<br />
+雷樹培之堂姑姐<br />
 徐希敏同母異父之姊<br />
+于第20集被宋书琦刺伤，后康复<br />
 童年由<a href="https://zh.wikipedia.org/wiki/鄭可琳" title="wikilink">鄭可琳飾演</a></p></td>
 </tr>
 <tr class="odd">
@@ -136,7 +140,7 @@ INSS网络保安公司职员<br />
 <td><p><strong>雷樹培</strong></p></td>
 <td><p><strong>Patrick</strong><br />
 樓上咖啡店東主<br />
-雷婉儀之姪<br />
+雷婉儀之堂姪<br />
 方心美之好友，後為男友</p></td>
 </tr>
 </tbody>
@@ -170,7 +174,8 @@ INSS网络保安公司职员<br />
 <td><p>唐琪琪</p></td>
 <td><p>高中學生<br />
 唐文豪之女<br />
-方心美、史盈盈、高詠欣之天敵</p></td>
+方心美、史盈盈、高詠欣之天敵<br />
+于第18集涉嫌盗用他人电脑户口偷窃试卷而被捕</p></td>
 </tr>
 </tbody>
 </table>
@@ -313,9 +318,11 @@ INSS网络保安公司职员<br />
 <td><p><strong><a href="../Page/林漪娸.md" title="wikilink">林漪娸</a></strong></p></td>
 <td><p><strong>宋書琦</strong></p></td>
 <td><p>精神病患者<br />
-暗戀方學文<br />
+方学文之旧同学，并暗戀其<br />
+颜如玉之情敌<br />
 陸知賢之母<br />
-於第20集刺傷雷婉儀</p></td>
+于第18集登场<br />
+於第20集刺傷雷婉儀，后被捕</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/陳美詩.md" title="wikilink">陳美詩</a></p></td>

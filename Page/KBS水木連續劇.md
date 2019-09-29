@@ -203,7 +203,7 @@
 <td style="text-align: center;"><p><a href="../Page/光與影.md" title="wikilink">光與影</a><br />
 </p></td>
 <td style="text-align: center;"><p>76</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/徐仁錫" title="wikilink">徐仁錫</a>、<a href="../Page/車和娟.md" title="wikilink">車和娟</a>、、</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/徐仁錫" title="wikilink">徐仁錫</a>、<a href="../Page/車和娟.md" title="wikilink">車和娟</a>、<a href="../Page/李德姬.md" title="wikilink">李德姬</a>、</p></td>
 <td style="text-align: center;"><p>崔志民</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>

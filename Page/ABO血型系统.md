@@ -152,7 +152,7 @@ AB型 25%</p></td>
 
 ### 世界人群
 
-从世界角度来看，*I<sup>B</sup>*等位基因的频率最低，约为16%，在[中亚](../Page/中亚.md "wikilink")一带的阿爾泰民族最常见，而在美洲和[澳大利亚](../Page/澳大利亚.md "wikilink")原住民中最为罕见。*I<sup>A</sup>*等位基因较*I<sup>B</sup>*更为常见，约21%的世界人口携带*I<sup>A</sup>*，但相对高频率的区域比较分散，如北美印第安人黑脚族（30-35%），澳大利亚一些原住民族群（40-53%），[斯堪的納維亞地區北部的](https://zh.wikipedia.org/wiki/斯堪的納維亞地區 "wikilink")[拉普人](https://zh.wikipedia.org/wiki/拉普人 "wikilink")，或者[薩米人](https://zh.wikipedia.org/wiki/薩米人 "wikilink")（50－90%）等，而在中南美的印第安人中，*I<sup>A</sup>*几乎无分布。由于*I<sup>A</sup>*、*I<sup>B</sup>*两种等位基因型频率不高，O血型称为世界上最常見的血型，平均频率达63%，特别是在中南美洲印第安人中，O型血频率接近100%，O血型在澳大利亚原住民和[西歐人群](https://zh.wikipedia.org/wiki/西歐 "wikilink")（特别是[凯尔特人](../Page/凯尔特人.md "wikilink")）中也很常见，在[東歐和中亚的频率则相对较低](https://zh.wikipedia.org/wiki/東歐 "wikilink")。\[11\] A型在北欧西欧与日本、湖南最多。
+从世界角度来看，*I<sup>B</sup>*等位基因的频率最低，约为16%，在[中亚](../Page/中亚.md "wikilink")一带的阿爾泰民族最常见，而在美洲和[澳大利亚](../Page/澳大利亚.md "wikilink")原住民中最为罕见。*I<sup>A</sup>*等位基因较*I<sup>B</sup>*更为常见，约21%的世界人口携带*I<sup>A</sup>*，但相对高频率的区域比较分散，如北美印第安人黑脚族（30-35%），澳大利亚一些原住民族群（40-53%），[斯堪的納維亞地區北部的](https://zh.wikipedia.org/wiki/斯堪的納維亞地區 "wikilink")[薩米人](https://zh.wikipedia.org/wiki/薩米人 "wikilink")（50－90%）等，而在中南美的印第安人中，*I<sup>A</sup>*几乎无分布。由于*I<sup>A</sup>*、*I<sup>B</sup>*两种等位基因型频率不高，O血型称为世界上最常見的血型，平均频率达63%，特别是在中南美洲印第安人中，O型血频率接近100%，O血型在澳大利亚原住民和[西歐人群](https://zh.wikipedia.org/wiki/西歐 "wikilink")（特别是[凯尔特人](../Page/凯尔特人.md "wikilink")）中也很常见，在[東歐和中亚的频率则相对较低](https://zh.wikipedia.org/wiki/東歐 "wikilink")。\[11\] A型在北欧西欧与日本、湖南最多。
 
 <center>
 

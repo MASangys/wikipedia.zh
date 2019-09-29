@@ -1,4 +1,4 @@
-**RISINGPRODUCTION**（），簡稱**RISINGPRO**，舊名**VISION FACTORY‎**（），是[日本](../Page/日本.md "wikilink")一家大型[演藝](https://zh.wikipedia.org/wiki/演藝 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")，旗下擁有眾多[歌舞系的歌手與音樂組合](https://zh.wikipedia.org/wiki/歌舞系 "wikilink")。
+**RISINGPRODUCTION**（），簡稱**RISINGPRO**，舊名**VISION FACTORY**（），是[日本](../Page/日本.md "wikilink")一家大型[演藝](https://zh.wikipedia.org/wiki/演藝 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")，旗下擁有眾多[歌舞系的歌手與音樂組合](https://zh.wikipedia.org/wiki/歌舞系 "wikilink")。
 
 ## 公司简介
 
@@ -41,8 +41,6 @@
 
   - [觀月亞里莎](../Page/觀月亞里莎.md "wikilink")
   - [國仲涼子](../Page/國仲涼子.md "wikilink")
-
-## PALETTE移籍艺人
 
 ## 曾属艺人
 

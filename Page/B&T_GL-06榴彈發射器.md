@@ -115,7 +115,7 @@ B\&T GL-06榴彈發射器同時出現在多個[电影](../Page/电影.md "wikili
 
 <references />
 
-  - —[LL-06 Single Shot Weapon](http://www.bt-ag.ch/en/manufacturing/lesslethalsystem/ll-06_weapon.php?navanchor=2110057)
+  - —[LL-06 Single Shot Weapon](https://web.archive.org/web/20101206011418/http://www.bt-ag.ch/en/manufacturing/lesslethalsystem/ll-06_weapon.php?navanchor=2110057)
 
   - —[LL-06 Technical Specifications ans Manual](http://www.bt-ag.ch/pdf/TS-2889-1.pdf)
 

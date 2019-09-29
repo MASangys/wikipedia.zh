@@ -75,6 +75,7 @@ Beyond City中发生的各种奇怪现象、杀人事件是叫做「幸福的虫
   - [Genius Party](https://zh.wikipedia.org/wiki/Genius_Party "wikilink")（2007年）
   - [Genius Party Beyond](https://zh.wikipedia.org/wiki/Genius_Party_Beyond "wikilink")（2008年）
   - [和諧](../Page/和諧_\(小說\).md "wikilink")（2015年）
+  - [海兽之子](https://zh.wikipedia.org/wiki/海兽之子 "wikilink")（2019年）
   - SACHIKO（公映时间未定）
 
 ### OVA

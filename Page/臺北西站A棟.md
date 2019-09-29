@@ -73,7 +73,7 @@ R7：[館前路](../Page/館前路.md "wikilink")\]\]
 <td><p>5</p></td>
 <td><p><a href="../Page/國光客運.md" title="wikilink">國光客運</a></p></td>
 <td><p>1819（直達<a href="https://zh.wikipedia.org/wiki/臺灣桃園國際機場" title="wikilink">臺灣桃園國際機場</a>）</p></td>
-<td><p>臺北車站東三門上下客</p></td>
+<td><p>原臺北車站東三門上下客，國光客運台北車站完工後改入該站內上下客</p></td>
 </tr>
 <tr class="odd">
 <td><p>6</p></td>
@@ -92,14 +92,14 @@ R7：[館前路](../Page/館前路.md "wikilink")\]\]
 <tr class="odd">
 <td><p>8</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:EasyCard_Color_Sample.svg" title="fig:EasyCard_Color_Sample.svg">EasyCard_Color_Sample.svg</a>1815（往安樂社區、武聖街、野柳、金山、法鼓山）</p></td>
-<td><p>臺北車站東三門上下客</p></td>
+<td><p>原臺北車站東三門上下客，國光客運台北車站完工後改入該站內上下客</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>9</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:EasyCard_Color_Sample.svg" title="fig:EasyCard_Color_Sample.svg">EasyCard_Color_Sample.svg</a>1813（往基隆）<br />
 <a href="https://zh.wikipedia.org/wiki/File:EasyCard_Color_Sample.svg" title="fig:EasyCard_Color_Sample.svg">EasyCard_Color_Sample.svg</a>1814（來自基隆、安樂社區方向之單向路線）</p></td>
-<td><p>臺北車站東三門上下客</p></td>
+<td><p>原均在臺北車站東三門上下客，國光客運台北車站完工後1813改入該站內上下客</p></td>
 <td></td>
 </tr>
 <tr class="odd">

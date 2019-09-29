@@ -131,7 +131,7 @@ An Cafe乐团不仅在日本流行，甚至在欧洲，亚洲的韩国、[中国
 
 ## 外部链接
 
-  - [官方网站](http://www.ancafe-web.com)
+  - [官方网站](https://web.archive.org/web/20080925112128/http://www.ancafe-web.com/)
   - [官方博客](http://blog.livedoor.jp/antic_cafe)
 
 [Category:日本乐团](https://zh.wikipedia.org/wiki/Category:日本乐团 "wikilink") [Category:視覺系](https://zh.wikipedia.org/wiki/Category:視覺系 "wikilink") [Category:日本索尼音樂娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂旗下藝人 "wikilink") [Category:Being旗下藝人](https://zh.wikipedia.org/wiki/Category:Being旗下藝人 "wikilink")

@@ -2,7 +2,9 @@
 
 ## 歷史
 
-AKABEiSOFT2的前身是創作[同人誌](../Page/同人誌.md "wikilink")及[同人遊戲](../Page/同人遊戲.md "wikilink")的團體「**AKABEiSOFT**」（），作品多有《[校園迷糊大王](../Page/校園迷糊大王.md "wikilink")》的[戲仿](https://zh.wikipedia.org/wiki/戲仿 "wikilink")。2004年冬季，把[一次和](https://zh.wikipedia.org/wiki/原創 "wikilink")[二次創作](../Page/二次創作.md "wikilink")物的發行分別分拆為「**AKABEiSOFT**」和「****」，翌年把前者[法人](../Page/法人.md "wikilink")化，社名登記為「有限公司AKABEiSOFT2」，品牌名稱則為「（一樣的意思和讀法）」。伴隨法人化，同人團體的「AKABEiSOFT」合併至「有葉與愉快的夥伴們」，而負責原畫的有葉（）則自成個人團體，亦結束開發同人遊戲，同人創作只剩下同人誌方面。2007年，再設立****、**曉WORKS**兩品牌。社內公司株式會社エフォルダム旗下品牌エフォルダムソフト於2014年4月16日解散。\[1\]
+AKABEiSOFT2的前身是創作[同人誌](../Page/同人誌.md "wikilink")及[同人遊戲](../Page/同人遊戲.md "wikilink")的團體「**AKABEiSOFT**」（），作品多有《[校園迷糊大王](../Page/校園迷糊大王.md "wikilink")》的[戲仿](https://zh.wikipedia.org/wiki/戲仿 "wikilink")。2004年冬季，把[一次和](https://zh.wikipedia.org/wiki/原創 "wikilink")[二次創作](../Page/二次創作.md "wikilink")物的發行分別分拆為「**AKABEiSOFT**」和「****」，翌年把前者[法人](../Page/法人.md "wikilink")化，社名登記為「有限公司AKABEiSOFT2」，品牌名稱則為「（一樣的意思和讀法）」。伴隨法人化，同人團體的「AKABEiSOFT」合併至「有葉與愉快的夥伴們」，而負責原畫的有葉（）則自成個人團體，亦結束開發同人遊戲，同人創作只剩下同人誌方面。[社內公司株式會社エフォルダム於](../Page/分公司制.md "wikilink")2014年4月16日解散。\[1\]
+
+2019年3月31日AKABEiSOFT2宣布承接[Greenwood公司旗下的遊戲品牌](https://zh.wikipedia.org/wiki/light_\(遊戲品牌\) "wikilink")「Campus」之後的遊戲發行與網頁營運\[2\]\[3\]。
 
 ## 作品列表
 
@@ -85,7 +87,7 @@ AKABEiSOFT2的前身是創作[同人誌](../Page/同人誌.md "wikilink")及[同
 <tr class="even">
 <td><p>2 FD</p></td>
 <td><p>2007年1月26日</p></td>
-<td><p><strong></strong>[2]</p></td>
+<td><p><strong></strong>[4]</p></td>
 <td><p>るーすぼーい</p></td>
 <td><p>車輪之國，悠久的少年少女</p></td>
 <td></td>
@@ -133,7 +135,7 @@ AKABEiSOFT2的前身是創作[同人誌](../Page/同人誌.md "wikilink")及[同
 <tr class="even">
 <td><p>7 FD</p></td>
 <td><p>2009年9月24日</p></td>
-<td><p><strong></strong>[3]</p></td>
+<td><p><strong></strong>[5]</p></td>
 <td><p>W.L.O.世界戀愛機構L.L.S. -LOVE LOVE SHOW-</p></td>
 <td></td>
 <td></td>
@@ -165,7 +167,7 @@ AKABEiSOFT2的前身是創作[同人誌](../Page/同人誌.md "wikilink")及[同
 <tr class="even">
 <td><p>8 FD</p></td>
 <td><p>2011年11月25日</p></td>
-<td><p><strong></strong>[4]</p></td>
+<td><p><strong></strong>[6]</p></td>
 <td><p>有葉、ikki</p></td>
 <td><p>健速</p></td>
 <td></td>
@@ -255,6 +257,7 @@ AKABEiSOFT2的前身是創作[同人誌](../Page/同人誌.md "wikilink")及[同
   - 2017年4月28日 - [新妻LOVELY×CATION](../Page/新妻LOVELY×CATION.md "wikilink")
   - 2017年12月22日 -
   - 2018年4月27日 -
+  - 2019年4月26日 - ALL×CATION
 
 ### WHEEL
 
@@ -286,7 +289,7 @@ AKABEiSOFT2的前身是創作[同人誌](../Page/同人誌.md "wikilink")及[同
   - 2012年7月27日 -
   - 2014年2月28日 -
   - 2014年8月29日 - [できない私が、くり返す。](https://zh.wikipedia.org/wiki/できない私が、くり返す。 "wikilink")
-  - 2015年9月18日 -
+  - 2015年9月18日 - [聖騎士 Melty☆Lovers](https://zh.wikipedia.org/wiki/聖騎士_Melty☆Lovers "wikilink")
   - 2015年12月11日 -
   - 2016年1月29日 -
   - 2016年3月25日 -
@@ -304,6 +307,7 @@ AKABEiSOFT2的前身是創作[同人誌](../Page/同人誌.md "wikilink")及[同
   - 2018年7月27日 -
   - 2018年9月28日 -
   - 2018年10月26日 -
+  - 2018年11月30日 -
 
 ### COSMIC CUTE
 
@@ -311,6 +315,7 @@ AKABEiSOFT2的前身是創作[同人誌](../Page/同人誌.md "wikilink")及[同
   - 2013年7月26日 -
   - 2015年5月29日 - love,VAMPIRE FLOWERS
   - 2016年10月28日 -
+  - 2018年3月23日 -
 
 ### CollaborationS
 
@@ -324,14 +329,110 @@ AKABEiSOFT2的前身是創作[同人誌](../Page/同人誌.md "wikilink")及[同
 ### CD
 
   - 2007年2月23日 -
-      -
-        由[Five Records的精選CD](../Page/5pb..md "wikilink")，但AKABEiSOFT2沒有在自己的網站作出任何告知。
+
+<!-- end list -->
+
+  -
+    由[Five Records的精選CD](../Page/5pb..md "wikilink")，但AKABEiSOFT2沒有在自己的網站作出任何告知。
+
+<!-- end list -->
+
   - 2008年8月15日 -
-      -
-        由ArielWave發售角色歌
+
+<!-- end list -->
+
+  -
+    由ArielWave發售角色歌
+
+<!-- end list -->
+
   - 2009年4月24日 -
-      -
-        由Five Records發售[原聲音樂](https://zh.wikipedia.org/wiki/原聲音樂 "wikilink")
+
+<!-- end list -->
+
+  -
+    由Five Records發售[原聲音樂](https://zh.wikipedia.org/wiki/原聲音樂 "wikilink")
+
+## エフォルダム
+
+エフォルダム公司解散後除了あっぷりけ外，其他品牌的部分遊戲轉移給あかべぇそふとすりぃ發售。
+
+  - あっぷりけ
+
+AKABEiSOFT2的姊妹品牌。
+
+  - 2007年3月23日 - 見上げた空におちていく
+  - 2008年10月23日 - コンチェルトノート
+  - 2010年7月22日 - [黄昏のシンセミア](https://zh.wikipedia.org/wiki/黄昏のシンセミア "wikilink")
+  - 2012年9月28日 - Re:birth colony -Lost azurite-
+  - 2012年12月14日 - 黄昏の先にのぼる明日 -あっぷりけFanDisc-
+  - 2015年3月27日 - 花の野に咲くうたかたの
+  - 2016年3月25日 - 時を紡ぐ約束
+  - 2016年10月1日 - 月影のシミュラクル
+  - 2017年1月27日 - 月影のシミュラクル-解放の羽
+  - 2019年10月25日 - クロスコンチェルト
+
+<!-- end list -->
+
+  - ぴんくはてな
+
+<!-- end list -->
+
+  - 2006年8月25日 - 聖騎士産卵記
+  - 2007年2月23日 - 魔法少女ナユタ
+  - 2008年1月25日 - 姫∽神1/2
+
+<!-- end list -->
+
+  - あっぷりけ -妹-
+
+<!-- end list -->
+
+  - 2009年1月22日 - 才気煥発才色兼備の君たちへ
+  - 2009年12月17日 - フェイクアズール・アーコロジー
+  - 2011年2月24日 - アルテミスブルー
+  - 2011年9月22日 - オトミミ∞インフィニティー
+
+<!-- end list -->
+
+  - team IT's
+
+<!-- end list -->
+
+  - 開発中止 - 孕戦姫 〜堕王の聖母〜
+
+<!-- end list -->
+
+  - team it'sみんと
+
+<!-- end list -->
+
+  - 2009年4月30日 - ガチ乙女クインテット
+
+<!-- end list -->
+
+  - Shallot
+
+<!-- end list -->
+
+  - 2010年3月25日 - Happy Wardrobe
+
+<!-- end list -->
+
+  - エフォルダムソフト
+
+<!-- end list -->
+
+  - 2011年9月30日 - [恋騎士 Purely☆Kiss](https://zh.wikipedia.org/wiki/恋騎士_Purely☆Kiss "wikilink")
+  - 2014年3月28日 - 銃騎士 Cutie☆Bullet
+
+<!-- end list -->
+
+  - エフォルダムソフトcrown
+
+<!-- end list -->
+
+  - 2013年9月27日 - 夢か現かマトリョーシカ
 
 ## 主要的工作人員
 
@@ -379,6 +480,8 @@ AKABEiSOFT2的前身是創作[同人誌](../Page/同人誌.md "wikilink")及[同
 [Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink") [Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink") [Category:福岡縣公司](https://zh.wikipedia.org/wiki/Category:福岡縣公司 "wikilink")
 
 1.
-2.  同人展（[Comic Market](../Page/Comic_Market.md "wikilink")）・廠商限定商品。
-3.  同人展（[Comic Market](../Page/Comic_Market.md "wikilink")）・廠商限定商品。
+2.
+3.
 4.  同人展（[Comic Market](../Page/Comic_Market.md "wikilink")）・廠商限定商品。
+5.  同人展（[Comic Market](../Page/Comic_Market.md "wikilink")）・廠商限定商品。
+6.  同人展（[Comic Market](../Page/Comic_Market.md "wikilink")）・廠商限定商品。

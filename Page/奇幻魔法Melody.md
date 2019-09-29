@@ -26,6 +26,19 @@
 
 ## 登場人物
 
+## 道具介紹
+
+  - 奇幻魔法Melody：Kirara
+
+<!-- end list -->
+
+  - 星之吊墜（擁有者：星月きらら及Melody）
+
+<!-- end list -->
+
+  -
+    是國王送給2人的變身工具，方便用來收集流星碎片之用，但是在正常情況下也能使用。
+
 ## 各話列表
 
 ### 第一輯
@@ -175,15 +188,6 @@
   - 動畫制作：[STUDIO COMET](../Page/STUDIO_COMET.md "wikilink")
   - 製作：大阪電視台、讀賣廣告社、-{My Melody}-[製作委員會](https://zh.wikipedia.org/wiki/製作委員會方式 "wikilink")
 
-## おねがい♪マイメロディ きららっ★道具介紹
-
-  - 星之吊墜（擁有者：星月きらら及Melody）
-
-<!-- end list -->
-
-  -
-    是國王送給2人的變身工具，方便用來收集流星碎片之用，但是在正常情況下也能使用。
-
 ## 主題曲
 
 ### 第一輯
@@ -247,6 +251,16 @@
       -
         作詞 - [山田ひろし](https://zh.wikipedia.org/wiki/山田ひろし "wikilink") / 編曲 - 渡部チェル / 歌 - マリーランドのなかまたち
 
+## 播放電視台
+
+  - 第一輯
+
+<!-- end list -->
+
+  - 第四輯
+
+## 資料來源
+
 ## 外部連結
 
   - [第一季官方網站](http://www.tv-osaka.co.jp/mymelo/index.html)
@@ -254,7 +268,5 @@
   - [第三季官方網站](http://www.tv-osaka.co.jp/animelobby/story_chara_m.html)
   - [第四季官方網站](http://www.tv-osaka.co.jp/ip4/mymelo_kirara/)
   - [Melody Of Dream 夢之旋律](http://www.all4free.com.tw/?gb-seashell)（非官網）
-
-## 節目的變遷
 
 [Category:2005年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2005年東京電視網動畫 "wikilink") [Category:2007年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2007年東京電視網動畫 "wikilink") [Category:2008年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2008年東京電視網動畫 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:魔法少女](https://zh.wikipedia.org/wiki/Category:魔法少女 "wikilink") [Category:奇幻動畫](https://zh.wikipedia.org/wiki/Category:奇幻動畫 "wikilink") [Category:三麗鷗](https://zh.wikipedia.org/wiki/Category:三麗鷗 "wikilink") [Category:以兔子為主角的故事](https://zh.wikipedia.org/wiki/Category:以兔子為主角的故事 "wikilink") [Category:STUDIO_COMET](https://zh.wikipedia.org/wiki/Category:STUDIO_COMET "wikilink")

@@ -6,6 +6,8 @@ YGM貿易有一個有名品牌——[馬獅龍](https://zh.wikipedia.org/wiki/�
 
 2017年3月2日YGM貿易以1.17億美元(約9.31億港元)，向獨立第三方給山東如意科技控股公司濟寧如意投資有限公司悉售旗下從事製銷經營成衣品牌業務「Aquascutum」（[雅格狮丹](https://zh.wikipedia.org/wiki/雅格狮丹 "wikilink")）
 
+2019年9月9日YGM貿易向獨立第三方Ashworth, LLC購買「Ashworth」品牌相關的全球商標及若干相關知識產權資產
+
 ## 其他品牌時裝
 
   - Harmont ＆ Blaine

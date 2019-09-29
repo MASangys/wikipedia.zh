@@ -70,7 +70,7 @@ AcFun创立于2007年6月6日，取意“Anime Comic Fun”\[3\]，初创时期�
 
 2019年7月5日，AcFun独家引进7月新番动画《[满月之战GRANBELM](../Page/滿月之戰.md "wikilink")》。\[57\]
 
-2019年7月10日，AcFun独家引进《[瑞克和莫蒂](../Page/瑞克和莫蒂.md "wikilink")》\[58\]和7月新番动画《[普通攻击是全体二连击，这样的妈妈你喜欢吗？](../Page/普通攻擊是全體二連擊，這樣的媽媽你喜歡嗎？.md "wikilink")》\[59\]。
+2019年7月10日，AcFun独家引进《[瑞克和莫蒂](../Page/瑞克和莫蒂.md "wikilink")》1，2，3季\[58\]和7月新番动画《[普通攻击是全体二连击，这样的妈妈你喜欢吗？](../Page/普通攻擊是全體二連擊，這樣的媽媽你喜歡嗎？.md "wikilink")》\[59\]。
 
 2019年8月8日，AcFun购买《[NEW GAME\!](https://zh.wikipedia.org/wiki/NEW_GAME! "wikilink")》播放版-{}-权。\[60\]
 

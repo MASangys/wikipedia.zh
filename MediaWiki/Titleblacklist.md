@@ -17,6 +17,8 @@
 `# 請注意 newaccountonly 在本地不再有效，請加入至`[`Special:滥用过滤器/194`](https://zh.wikipedia.org/wiki/Special:滥用过滤器/194 "wikilink")
 
 `#未整理`
+`\d+ <autoconfirmed|noedit|errmsg=Titleblacklist-semiprotected>`
+`.*春池玻璃.* <autoconfirmed|errmsg=Titleblacklist-semiprotected>`
 `^[^:]*((\d{1,3}\.){3}\d{1,3}|([0-9a-f]{1,4}:){7}[0-9a-f]{1,4}).* <autoconfirmed|errmsg=Titleblacklist-semiprotected>`
 `.*(國瑜|換瑜).* <autoconfirmed|errmsg=Titleblacklist-semiprotected> # 破壞`
 `.*王[則则]翠慈善基金.* <autoconfirmed|errmsg=Titleblacklist-semiprotected> # 持续绕过存废讨论删除决定`
@@ -159,7 +161,6 @@
 `.*丝.*袜.* `<autoconfirmed>
 `.*旧.*房.* `<autoconfirmed>
 `.*二.*手.*[房车].* `<autoconfirmed>
-`.*[动動]漫.* `<autoconfirmed>
 `.*免.*费.*上.*网.* `<autoconfirmed>
 `.*水.*电.*改.*造.* `<autoconfirmed>
 `.*回.*收.*利.*用.* `<autoconfirmed>

@@ -11,7 +11,7 @@
 此計劃由幾個元件組成：
 
   - *ffmpeg*——一個命令列工具，用來對視訊檔案轉換格式，也支援對電視卡即時編碼
-  - *ffserver*——一個HTTP多媒體即時廣播串流伺服器，支援時光平移
+  - *ffserver*——一個HTTP多媒體即時廣播串流伺服器，支援回溯
   - *ffplay*——一個簡單的播放器，基於SDL與FFmpeg函式庫
   - *libavcodec*——包含全部FFmpeg音訊/視訊編解碼函式庫
   - *libavformat*——包含demuxers和muxer函式庫

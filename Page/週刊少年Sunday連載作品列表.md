@@ -694,7 +694,7 @@
 
   - （原作：[野岛伸司](https://zh.wikipedia.org/wiki/野岛伸司 "wikilink")、作画：） 2013年16号～2014年50号
 
-  - **（[田边伊卫郎](https://zh.wikipedia.org/wiki/田边伊卫郎 "wikilink")） 2013年33号～**
+  - **[BIRDMEN](https://zh.wikipedia.org/wiki/BIRDMEN "wikilink")（[田边伊卫郎](https://zh.wikipedia.org/wiki/田边伊卫郎 "wikilink")） 2013年33号～**
 
   - [競女\!\!\!\!\!\!\!\!](../Page/競女!!!!!!!!.md "wikilink")（[空詠大智](https://zh.wikipedia.org/wiki/空詠大智 "wikilink")） 2013年34号～2017年22・23合并号
 

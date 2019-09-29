@@ -149,22 +149,22 @@
 <td></td>
 <td><p>広本瑠璃</p></td>
 <td><p>ひろもと るり</p></td>
+<td><p>広島県</p></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td><p>B</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>橋田歩果</p></td>
 <td><p>はしだ ほのか</p></td>
+<td><p>東京都</p></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td><p>B</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -173,11 +173,11 @@
 <tr class="even">
 <td><p>西﨑美空</p></td>
 <td><p>にしざき みく</p></td>
+<td><p>岡山県</p></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td><p>O</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -186,11 +186,11 @@
 <tr class="odd">
 <td><p>平山遊季</p></td>
 <td><p>ひらやま ゆき</p></td>
+<td><p>神奈川県</p></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td><p>A</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -199,11 +199,11 @@
 <tr class="even">
 <td><p>北原もも</p></td>
 <td><p>きたはら もも</p></td>
+<td><p>東京都</p></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td><p>A</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -212,11 +212,11 @@
 <tr class="odd">
 <td><p>江端妃咲</p></td>
 <td><p>えばた きさき</p></td>
+<td><p>京都府</p></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td><p>A</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -225,37 +225,37 @@
 <tr class="even">
 <td><p>豫風瑠乃</p></td>
 <td><p>よふう るの</p></td>
+<td><p>大阪府</p></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td><p>O</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>村越彩菜</p></td>
-<td><p>むらこし あやな</p></td>
+<td><p>植村葉純</p></td>
+<td><p>うえむら はすみ</p></td>
+<td><p>大阪府</p></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td><p>不明</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>植村葉純</p></td>
-<td><p>うえむら はすみ</p></td>
+<td><p>村越彩菜</p></td>
+<td><p>むらこし あやな</p></td>
+<td><p>千葉県</p></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td><p>B</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -320,7 +320,7 @@
 <td><p>はしもと りりか</p></td>
 <td></td>
 <td></td>
-<td></td>
+<td><p>A型</p></td>
 <td></td>
 </tr>
 <tr class="even">

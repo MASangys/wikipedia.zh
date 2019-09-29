@@ -42,7 +42,7 @@
 ## 外部链接
 
   - [官方网站](http://tkool.jp/products/act/index.html)
-  - [非官方关注区](http://www.igmakers.com/)
+  - [非官方关注区](https://web.archive.org/web/20090913071843/http://www.igmakers.com/)
   - [官方网页相关翻译](http://hi.baidu.com/nekopaper/blog/item/cd24c738d3f77a2497ddd8a9.html)
 
 [Category:电子游戏研发](https://zh.wikipedia.org/wiki/Category:电子游戏研发 "wikilink") [Category:动作游戏](https://zh.wikipedia.org/wiki/Category:动作游戏 "wikilink") [Category:遊戲製作軟件](https://zh.wikipedia.org/wiki/Category:遊戲製作軟件 "wikilink")

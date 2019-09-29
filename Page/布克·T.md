@@ -8,7 +8,7 @@
 
 ## 著名口號
 
-  - 「Can you dig it,Sucka?」（進場時）
+  - 「Can you dig it,Sucker?」（進場時）
   - 「Tell me you just didn t say that！」
   - 「Damn skippy hippy」
   - 「5 time,5 time ... WCW Champion"“suckaaaaaaaa\~\~」

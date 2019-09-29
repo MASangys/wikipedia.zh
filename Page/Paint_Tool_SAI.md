@@ -1,4 +1,4 @@
-**SAI**（，）是由[日本](../Page/日本.md "wikilink")[SYSTEMAX公司销售的一款](https://zh.wikipedia.org/wiki/SYSTEMAX "wikilink")[绘图软件](https://zh.wikipedia.org/wiki/绘图软件 "wikilink")，其图标是两支画笔和一片[青柠檬](https://zh.wikipedia.org/wiki/青柠檬 "wikilink")。
+**SAI**（，）是由[日本](../Page/日本.md "wikilink")[SYSTEMAX公司销售的一款](https://zh.wikipedia.org/wiki/SYSTEMAX "wikilink")[绘图软件](https://zh.wikipedia.org/wiki/绘图软件 "wikilink")，其图标是一支[铅笔](https://zh.wikipedia.org/wiki/铅笔 "wikilink")、一支和一片[青柠檬](https://zh.wikipedia.org/wiki/青柠檬 "wikilink")。
 
 ## 名称
 
@@ -16,7 +16,7 @@ SAI于2004年8月2日开始[制作](https://zh.wikipedia.org/wiki/制作 "wikili
 
 ## 功能
 
-画板可以360度旋转、翻转[画布](https://zh.wikipedia.org/wiki/画布 "wikilink")，可以以任意角度旋转画布，在一边作画时可随时旋转画布。缩放时[反锯齿](https://zh.wikipedia.org/wiki/反锯齿 "wikilink")，以及[墨线功能](https://zh.wikipedia.org/wiki/墨线 "wikilink")。包含[喷枪](https://zh.wikipedia.org/wiki/喷枪 "wikilink")、[水彩笔](https://zh.wikipedia.org/wiki/水彩 "wikilink")、[马克笔等栅格化绘图工具](https://zh.wikipedia.org/wiki/马克笔 "wikilink")，以及矢量绘图工具。此外，可设置在绘图时不读取鼠标坐标，直接使用[數位绘图板坐标进行定位](https://zh.wikipedia.org/wiki/數位绘图板 "wikilink")。
+[Keine_pointing.png](https://zh.wikipedia.org/wiki/File:Keine_pointing.png "fig:Keine_pointing.png") 画板可以360度旋转、翻转[画布](https://zh.wikipedia.org/wiki/画布 "wikilink")，可以以任意角度旋转画布，在一边作画时可随时旋转画布。缩放时[反锯齿](https://zh.wikipedia.org/wiki/反锯齿 "wikilink")，以及[墨线功能](https://zh.wikipedia.org/wiki/墨线 "wikilink")。包含[喷枪](https://zh.wikipedia.org/wiki/喷枪 "wikilink")、[水彩笔](https://zh.wikipedia.org/wiki/水彩 "wikilink")、[马克笔等栅格化绘图工具](https://zh.wikipedia.org/wiki/马克笔 "wikilink")，以及矢量绘图工具。此外，可设置在绘图时不读取鼠标坐标，直接使用[數位绘图板坐标进行定位](https://zh.wikipedia.org/wiki/數位绘图板 "wikilink")。
 
 抖动修正功能改善用手绘方式在數位繪圖板上画图时对线条的影响。
 

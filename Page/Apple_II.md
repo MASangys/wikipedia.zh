@@ -185,7 +185,7 @@ Apple II带来的一个宝贵教训是开放式电脑系统平台的重要性。
   - [Software written by Apple-II pioneer, Bob Bishop](http://archive.wikiwix.com/cache/20111010211021/http://bob-bishop.awardspace.com/softlist.html) – (Including the *very **first** four Hi-Res graphics games* ever written for the Apple.)
   - [Dmoz.org - Apple II](https://web.archive.org/web/20070701140518/http://dmoz.org/Computers/Systems/Apple/Apple_II/)
   - [PCB pictures of the Apple II](https://web.archive.org/web/20060118092118/http://www.8bit-museum.de/?page=docs%2Fapple3b.htm)
-  - [Apple II clones Information on Apple2clones](http://www.apple2clones.com/)
+  - [Apple II clones Information on Apple2clones](https://web.archive.org/web/20061129123923/http://www.apple2clones.com/)
   - [Old footage filmed in 1992](http://www.youtube.com/watch?v=lrB-z1-9Kz4) by Alfred DiBlasi of an Apple II visualizing music fed in through the cassette port
   - [Virtual GS](https://web.archive.org/web/20071018113654/http://virtualgs.larwe.com/) Apple IIGS程序设计网站
 

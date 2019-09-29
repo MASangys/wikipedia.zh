@@ -41,6 +41,48 @@
   - 2015年2月8日起：五洲龍FDG6101CNG、[宇通ZK](../Page/宇通客車.md "wikilink")6128HNGE
   - 2018年8月23日起：[宇通ZK](../Page/宇通客車.md "wikilink")6128HNGE、[宇通ZK](../Page/宇通客車.md "wikilink")6125HNG
 
+<table>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"><p><strong>澳門巴士MT3路线使用車輛列表</strong><br />
+(只記錄掛牌車輛)</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>align="center" width="25%" bgcolor="silver" color:black" | 所屬公司</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>澳巴</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>6025</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>6026</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>6027</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>6034</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>6038</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>6039</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>6044</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>6048</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"></td>
+</tr>
+</tbody>
+</table>
+
 ## 路線資料
 
 ### 收費

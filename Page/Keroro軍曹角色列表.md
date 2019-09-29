@@ -41,7 +41,7 @@
 
   -
     配音：日本：[平松晶子](../Page/平松晶子.md "wikilink")；台灣：[龍顯蕙](../Page/龍顯蕙.md "wikilink")；香港：[曾月娥](../Page/曾月娥.md "wikilink")（有線電視）／[黃玉娟](../Page/黃玉娟.md "wikilink")、[沈小蘭](../Page/沈小蘭.md "wikilink") <small>（代配）</small>（無綫電視）
-    日向家的女主人，冬樹和夏美的媽媽，現職為漫畫雜誌「少年ALPHA」[編輯](https://zh.wikipedia.org/wiki/編輯 "wikilink")。為一輕熟女，擁有**肉彈級**的火辣性感身材和過人的膽識，有個絕招名為「愛的特別擁抱」，可讓病懨懨的人在一夕之間恢復朝氣，曾以此治癒了冬樹。非常重視自己的工作以及身邊的可得題材，但十分討厭小動物。因為工作太忙常常不能返家，總是希望Keroro等人有什麼爆炸性的行動可以讓她樂一下，對於侵略的事情反而不太擔心。被Keroro等人評為「全地球最強的女人」。
+    日向家的女主人，冬樹和夏美的媽媽，現職為[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")《少年ALPHA》[編輯](https://zh.wikipedia.org/wiki/編輯 "wikilink")。為一[輕熟女](https://zh.wikipedia.org/wiki/輕熟女 "wikilink")，擁有**肉彈級**的火辣性感身材和過人的膽識，有個絕招「愛的特別擁抱」，可讓病懨懨的人在一夕之間恢復朝氣，曾以此治癒了冬樹。非常重視自己的工作以及身邊的可得題材，但十分討厭小動物。因為工作太忙常常不能返家，總是希望Keroro等人有什麼爆炸性的行動可以讓她樂一下，對於侵略的事情反而不太擔心。被Keroro等人評為「全地球最強的女人」。
 
 <!-- end list -->
 
@@ -68,7 +68,7 @@
 <!-- end list -->
 
   -
-    動畫原創人物，冬樹和夏美的爸爸，日向秋的丈夫。由於任職探險家，一直長期不在家中，直到第357集回家。
+    動畫原創人物，冬樹和夏美的爸爸，日向秋的丈夫。由於是[探險家](https://zh.wikipedia.org/wiki/探險家 "wikilink")，長期不在家中，直到第357集回家。
 
 ## 主要人物
 
@@ -318,7 +318,7 @@
 
 <!-- end list -->
 
-  - **恐怖大王**（配音：[角田信朗](https://zh.wikipedia.org/wiki/角田信朗 "wikilink")；台灣：[劉傑](https://zh.wikipedia.org/wiki/劉傑 "wikilink")；香港：[譚炳文](../Page/譚炳文.md "wikilink")）
+  - **恐怖大王**（配音：[角田信朗](https://zh.wikipedia.org/wiki/角田信朗 "wikilink")；台灣：[劉傑](https://zh.wikipedia.org/wiki/劉傑_\(配音員\) "wikilink")；香港：[譚炳文](../Page/譚炳文.md "wikilink")）
 
 <!-- end list -->
 
@@ -1153,7 +1153,7 @@
 
 ### [劇場版4 龍勇士的逆襲](../Page/超劇場版_Keroro軍曹_4_逆襲的龍勇士.md "wikilink")
 
-  - **希恩**（　 配音：日本：[水樹奈奈](../Page/水樹奈奈.md "wikilink")；台灣：[林美秀](https://zh.wikipedia.org/wiki/林美秀 "wikilink")；香港：[張紋嘉](../Page/張紋嘉.md "wikilink")、[張頌欣](../Page/張頌欣.md "wikilink")（動畫版））
+  - **希恩**（　 配音：日本：[水樹奈奈](../Page/水樹奈奈.md "wikilink")；台灣：[林美秀](../Page/林美秀_\(配音員\).md "wikilink")；香港：[張紋嘉](../Page/張紋嘉.md "wikilink")、[張頌欣](../Page/張頌欣.md "wikilink")（動畫版））
 
 <!-- end list -->
 
@@ -1228,7 +1228,7 @@
 
 ### [劇場版5 反轉復活島](../Page/超劇場版_Keroro軍曹_5_誕生！究極Keroro奇蹟的時空之島！！.md "wikilink")
 
-  - **伊歐與拉娜**（ 配音：日本：[本城雄太郎](https://zh.wikipedia.org/wiki/本城雄太郎 "wikilink")（イオ）／[松元環季](https://zh.wikipedia.org/wiki/松元環季 "wikilink")（ラナ））
+  - **伊歐與拉娜**（ 配音：日本：[本城雄太郎](https://zh.wikipedia.org/wiki/本城雄太郎 "wikilink")（イオ）／[松元環季](https://zh.wikipedia.org/wiki/松元環季 "wikilink")（ラナ）；台灣：[林美秀](../Page/林美秀_\(配音員\).md "wikilink")／[龍顯蕙](../Page/龍顯蕙.md "wikilink")）
 
 <!-- end list -->
 
@@ -1237,7 +1237,7 @@
 
 <!-- end list -->
 
-  - **惡客惡客**（ 配音：日本：[千葉繁](../Page/千葉繁.md "wikilink")）
+  - **惡客惡客**（ 配音：日本：[千葉繁](../Page/千葉繁.md "wikilink")；台灣：[劉傑](https://zh.wikipedia.org/wiki/劉傑_\(配音員\) "wikilink")）
 
 <!-- end list -->
 

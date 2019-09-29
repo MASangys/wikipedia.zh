@@ -2,7 +2,7 @@
 
 多媒體電腦剛問世時，外接式裝置的傳輸介面各不相同，如印表機只能接[LPT](https://zh.wikipedia.org/wiki/並列埠 "wikilink")、數據機只能接[RS232](https://zh.wikipedia.org/wiki/RS-232 "wikilink")、滑鼠鍵盤只能接[PS/2等](https://zh.wikipedia.org/wiki/PS/2接口 "wikilink")。繁雜的介面系統，加上必須安裝驅動程式並重新開機才能使用的限制，都會造成使用者的困擾。因此，創造出一個統一且支援易插拔的外接式傳輸介面，便成為無可避免的趨勢，USB應運而生。
 
-最新一代的USB是USB 3.2，傳輸速度為20Gbit/s，三段式電壓5V/12V/20V，最大供電100W。另外僅有個別的USB Type-A、Micro-B以及新型[USB Type-C接頭不再分正反](../Page/USB_Type-C.md "wikilink")。\[1\]\[2\]
+最新一代的USB是USB4，傳輸速度為40Gbit/s。另外僅有個別的USB Type-A、Micro-B以及新型[USB Type-C接頭不再分正反](../Page/USB_Type-C.md "wikilink")。\[1\]\[2\]
 
 ## 概述
 
@@ -826,7 +826,7 @@ USB-IF規範1.1版定義USB埠最高供電可達到1.5A/1500mA，而最新的1.2
 
 在市面也可以找到USB 3.0 Dongle\[20\]此類小型可插拔式的行動裝置，尺寸如同[隨身碟一樣迷你](https://zh.wikipedia.org/wiki/隨身碟 "wikilink")，有廠商推出USB介面的[Wi-Fi](../Page/Wi-Fi.md "wikilink")/[藍芽無線Dongle](https://zh.wikipedia.org/wiki/藍芽 "wikilink")，只要將此Dongle插入液晶電視上，即可透過無線連接方式，將使用者手機、平板、筆電中的影片、照片分享到液晶電視上觀看，市面上已有廠商將Android作業系統直接寫入Dongle，成為多功能電視棒的產品。
 
-相关存储产品包括：[主机板](https://zh.wikipedia.org/wiki/主机板 "wikilink")、[磁碟阵列卡](https://zh.wikipedia.org/wiki/磁碟阵列 "wikilink")、[硬碟外接盒](https://zh.wikipedia.org/wiki/硬碟外接盒 "wikilink")、[磁碟阵列系统](https://zh.wikipedia.org/wiki/磁碟阵列 "wikilink"),、[NAS网路储存设备](https://zh.wikipedia.org/wiki/网路附加储存 "wikilink")、[硬碟外接座等等](https://zh.wikipedia.org/wiki/硬碟外接座 "wikilink")。
+相关存储产品包括：[主机板](https://zh.wikipedia.org/wiki/主机板 "wikilink")、[磁碟阵列卡](https://zh.wikipedia.org/wiki/磁碟阵列 "wikilink")、[硬碟外接盒](https://zh.wikipedia.org/wiki/硬碟外接盒 "wikilink")、[磁碟阵列系统](https://zh.wikipedia.org/wiki/磁碟阵列 "wikilink")、[NAS网路储存设备](https://zh.wikipedia.org/wiki/网路附加储存 "wikilink")、[硬碟外接座等等](https://zh.wikipedia.org/wiki/硬碟外接座 "wikilink")。
 
 ### 人机接口设备（HID）
 

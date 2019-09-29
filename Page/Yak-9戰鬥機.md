@@ -24,7 +24,7 @@ Yak-9是**蘇聯**在[二次世界大戰後期主要的戰鬥機之](https://zh.
 
 因為蘇聯官方一貫保密態度對本機忌深如諱，所以在退役前鮮為非社會主義國家所認識。而在退役後全面解禁時，因[冷戰時期英美也有意貶低本機的戰果與價值](https://zh.wikipedia.org/wiki/冷戰 "wikilink")，而誇大了兩國援蘇戰鬥機的作用。然而若考慮到本機研制時的惡劣條件與輕量型結構，實際上無論蘇德雙方都對本機有相當高的評價。
 
-本機真正的缺點是防彈和抗損能力較為遜色，不同於綜合性能較Yak-9低的英美援蘇[P-39和](https://zh.wikipedia.org/wiki/P-39 "wikilink")[P-40或是與本機相似採似鋼骨架結構與布製蒙皮的](https://zh.wikipedia.org/wiki/P-40 "wikilink")[颶風戰鬥機](../Page/颶風戰鬥機.md "wikilink")。雖然後三者很難擊落綜合性能優越的[Bf 109和](https://zh.wikipedia.org/wiki/Bf_109 "wikilink")[Fw 190中後期型](https://zh.wikipedia.org/wiki/Fw_190 "wikilink")，但也較粗壯不易擊落，而幫助駕駛它們的生手飛行員養成經驗，待日後轉飛Yak-9時打下基礎。所以實際上操作本機的飛行員，多是先有外援的舊式機種駕駛經驗再轉派至本型機單位。
+本機真正的缺點是防彈和抗損能力較為遜色，不同於綜合性能較Yak-9低的英美援蘇[P-39和](https://zh.wikipedia.org/wiki/P-39 "wikilink")[P-40或是與本機相似採似鋼骨架結構與布製蒙皮的](https://zh.wikipedia.org/wiki/P-40 "wikilink")[颶風戰鬥機](../Page/颶風戰鬥機.md "wikilink")。雖然後三者很難擊落綜合性能優越的[Bf 109和](https://zh.wikipedia.org/wiki/Bf_109 "wikilink")[Fw 190中後期型](https://zh.wikipedia.org/wiki/Fw_190 "wikilink")，但也因較粗壯不易遭擊落，而幫助駕駛它們的生手飛行員養成經驗，待日後轉飛Yak-9時打下基礎。所以實際上操作本機的飛行員，多是先有外援的舊式機種駕駛經驗再轉派至本型機單位。
 
 ## 結構和參數
 

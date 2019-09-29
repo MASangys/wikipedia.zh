@@ -76,7 +76,7 @@
 林沛沛之妹<br />
 古澤琛之妻<br />
 許立仁之小姨<br />
-于一年前车祸身亡</p></td>
+于第4集為救梁小柔遭炸弹炸至重伤，後伤重身亡</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/鄭俊弘.md" title="wikilink">鄭俊弘</a></p></td>
@@ -1483,7 +1483,7 @@ David Leung之顧客<br />
 <td><p><strong>關係／職業</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/刘敏仪" title="wikilink">刘敏仪</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陈敏之" title="wikilink">陈敏之</a></p></td>
 <td><p>巢沛麗</p></td>
 <td><p>古澤琛支持者<br />
 與林汀汀相似的一名女子<br />

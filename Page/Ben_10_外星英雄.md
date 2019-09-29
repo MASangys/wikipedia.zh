@@ -37,7 +37,7 @@
 
 <!-- end list -->
 
-  - **田馬克／馬克爺爺**（Max Tennyson/Grandpa Max）（初次登場-第6集）（[配音](../Page/配音.md "wikilink")：[徐健春](../Page/徐健春.md "wikilink")（台）[たてかべ和也](https://zh.wikipedia.org/wiki/たてかべ和也 "wikilink")（日））
+  - **田馬克／馬克爺爺**（Max Tennyson/Grandpa Max）（初次登場-第6集）（[配音](../Page/配音.md "wikilink")：[徐健春](../Page/徐健春.md "wikilink")（台）[たてかべ和也](https://zh.wikipedia.org/wiki/たてかべ和也 "wikilink")（日））（謝孟恩）
 
 <!-- end list -->
 

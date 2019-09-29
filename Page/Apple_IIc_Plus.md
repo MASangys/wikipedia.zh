@@ -130,7 +130,7 @@ Apple IIc Plus的生命周期相对较短，它只生产了两年(在1990年11�
 
   - [PCB pictures of the Apple II](https://web.archive.org/web/20060118092118/http://www.8bit-museum.de/?page=docs%2Fapple3b.htm)
 
-  - [Apple2clones has information on Apple II clones](http://www.apple2clones.com/)
+  - [Apple2clones has information on Apple II clones](https://web.archive.org/web/20061129123923/http://www.apple2clones.com/)
 
   - [ReactiveMicro.com](http://www.reactivemicro.com/) - 硕果仅存的Apple II硬件生产商(复制品)
 

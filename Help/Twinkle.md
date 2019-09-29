@@ -56,7 +56,7 @@ Twinkle被设计成基于模块的工具，每个模块都对特定的任务提�
 
 ### 速刪
 
-[Twinkle-csd-dialog.png](https://zh.wikipedia.org/wiki/File:Twinkle-csd-dialog.png "fig:Twinkle-csd-dialog.png")
+[Twinkle-CSD.png](https://zh.wikipedia.org/wiki/File:Twinkle-CSD.png "fig:Twinkle-CSD.png")
 
 **速刪**代表**快速删除（CSD，Criteria for Speedy Deletion）**。如果您认为文章符合快速删除的标准之一，您可以使用 Twinkle 的这个功能来提请速删。
 
@@ -105,7 +105,7 @@ Twinkle被设计成基于模块的工具，每个模块都对特定的任务提�
 
 ### 提刪
 
-XfD（**Anything for Deletion**）是维基百科内用来讨论某个页面是否应该被删除的场所的总称。您可以使用 Twinkle 工具对任何页面快速地发起一个删除讨论。
+[Twinkle-AFD.png](https://zh.wikipedia.org/wiki/File:Twinkle-AFD.png "fig:Twinkle-AFD.png") XfD（**Anything for Deletion**）是维基百科内用来讨论某个页面是否应该被删除的场所的总称。您可以使用 Twinkle 工具对任何页面快速地发起一个删除讨论。
 
 请参阅 [WP:XFD\#特别情况](https://zh.wikipedia.org/wiki/WP:XFD#特别情况 "wikilink") 來选择一个適合的討論空間。
 

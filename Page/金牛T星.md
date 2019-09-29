@@ -8,7 +8,7 @@
 
 有證據顯示有巨大的[星斑](../Page/星斑.md "wikilink")覆蓋在表面，並且有強烈和易變的[X射線和](https://zh.wikipedia.org/wiki/X射線 "wikilink")[電波輻射](https://zh.wikipedia.org/wiki/電波 "wikilink")（強度約為太陽的1,000倍），許多還都有強烈的[恆星風](https://zh.wikipedia.org/wiki/恆星風 "wikilink")。造成光度變化的另一個原因是環繞在金牛T星周圍的團塊（[原行星](../Page/原行星.md "wikilink")和[微行星](../Page/微行星.md "wikilink")）。
 
-它們的光譜顯示有比太陽和其他主序星更高的[鋰豐度](https://zh.wikipedia.org/wiki/鋰 "wikilink")，而鋰在2,500,000K的溫度上就會被毀壞。從對53顆金牛T星的研究，發現鋰的損耗與大小有強烈的關係，認為[鋰燃燒](../Page/鋰燃燒.md "wikilink")是由[PP鏈完成的](https://zh.wikipedia.org/wiki/質子-質子鏈反應 "wikilink")，當在[前主序帶的最後階段會有強烈的對流和不穩定階段](https://zh.wikipedia.org/wiki/主序前星 "wikilink")，之後的[林收縮可能是金牛T星主要的能量來源之一](https://zh.wikipedia.org/wiki/林軌跡 "wikilink")。快速的自轉有助於將鋰混合和輸送至更深處，而在哪兒造成毀壞。因為角動量的守恆，金牛T星通常隨著年齡，經由收縮而加快自轉速度。這導致鋰的損耗也隨著年齡增長而增加，鋰的燃燒也會使溫度和質量上升，持續的時間大約是一億年上下（100,000,000年）。
+它們的光譜顯示有比太陽和其他主序星更高的[鋰豐度](https://zh.wikipedia.org/wiki/鋰 "wikilink")，而鋰在2,500,000K的溫度上就會被毀壞。從對53顆金牛T星的研究，發現鋰的損耗與大小有強烈的關係，認為[鋰燃燒](../Page/鋰燃燒.md "wikilink")是由[PP鏈完成的](https://zh.wikipedia.org/wiki/質子-質子鏈反應 "wikilink")，當在[前主序帶的最後階段會有強烈的對流和不穩定階段](https://zh.wikipedia.org/wiki/主序前星 "wikilink")，之後的[林收縮可能是金牛T星主要的能量來源之一](https://zh.wikipedia.org/wiki/林軌跡 "wikilink")。快速的自轉有助於將鋰混合和輸送至更深處，而在哪兒造成毀壞。因為角動量的守恆，金牛T星通常隨著年齡，經由收縮而加快自轉速度。這導致鋰的損耗也隨著年齡增長而增加，鋰的燃燒也會使溫度和質量上升，持續的時間大約是十京年上下（100,000,000,000,000,000年）。
 
 在P-P鏈中鋰的燃燒如下式：
 

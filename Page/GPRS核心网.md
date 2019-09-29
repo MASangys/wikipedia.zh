@@ -23,21 +23,21 @@ GPRS隧道协议（GPRS Tunnelling Protocol，简称GTP）是GPRS核心网目前
 
   - [GTP'](../Page/GTP'.md "wikilink"):用于从各个[GSN向计费功能](https://zh.wikipedia.org/wiki/#GPRS支撑节点\(GSN\) "wikilink")（charging function）传输计费数据。
 
-[GGSN和](https://zh.wikipedia.org/wiki/#网关GPRS支撑节点（GGSN） "wikilink")[SGSN](https://zh.wikipedia.org/wiki/#业务GPRS支撑节点（SGSN） "wikilink")（合称“GSNs”）在[UDP端口](../Page/用户数据报协议.md "wikilink")2123上监听GTP-C消息，而在端口2152上监听GTP-U消息。这个通信直接在一个单独的网络中进行，或者在国际漫游的有情况下，通过一个[GRX](../Page/GPRS漫游交换.md "wikilink")（GPRS漫游交换，英文：GPRS Roaming Exchange）进行。
+[GGSN和](https://zh.wikipedia.org/wiki/#网关GPRS支撑节点（GGSN） "wikilink")[SGSN](https://zh.wikipedia.org/wiki/#业务GPRS支撑节点（SGSN） "wikilink")（合称“GSNs”）在[UDP端口](../Page/用户数据报协议.md "wikilink")2123上监听GTP-C消息，而在端口2152上监听GTP-U消息。这个通信直接在一个单独的网络中进行，或者在漫游的情况下，通过一个[GRX](../Page/GPRS漫游交换.md "wikilink")（GPRS漫游交换，英文：GPRS Roaming Exchange）进行。
 
-计费网关功能（Charging Gateway Function）在[TCP或](../Page/传输控制协议.md "wikilink")[UDP端口](../Page/用户数据报协议.md "wikilink")3386上监听发送自各个[GSN的GTP](https://zh.wikipedia.org/wiki/#GPRS支撑节点\(GSN\) "wikilink")'消息。核心网向CGF发送的计费信息，通常包含[PDP上下文激活次数和最终用户所传输的数据的质量](https://zh.wikipedia.org/wiki/#PDP上下文 "wikilink")。然而，GTP'通信仅发生在同一个运营商网络内部，并没有充分的标准化，根据供应商和配置选项的不同，可能使用私有的编码甚至完全私有的系统。
+计费网关功能（Charging Gateway Function）在[TCP或](../Page/传输控制协议.md "wikilink")[UDP端口](../Page/用户数据报协议.md "wikilink")3386上监听发送自各个[GSN的GTP](https://zh.wikipedia.org/wiki/#GPRS支撑节点\(GSN\) "wikilink")'消息。核心网向CGF发送的计费信息，通常包含[PDP上下文激活次数和最终用户所传输的数据的使用量和](https://zh.wikipedia.org/wiki/#PDP上下文 "wikilink")[QoS等信息](https://zh.wikipedia.org/wiki/QoS "wikilink")。然而，GTP'通信仅发生在同一个运营商网络内部，可能不完全与标准相符，根据供应商和配置选项的不同，可能使用私有的编码甚至完全私有的系统。
 
 GTP版本0支持在同一个消息头下面同时包含信令（signalling）和用户数据（user data）。它可以在已注册的3386端口上同时和[UDP或](../Page/用户数据报协议.md "wikilink")[TCP一起使用](../Page/传输控制协议.md "wikilink")。GTP版本1仅在UDP上使用。控制平面协议（Control Plane Protocol）GTP-C（Control）使用已注册的2123端口，而用户平面协议（User Plane Protocol）GTP-U（User）使用已注册的2152端口。
 
 ## GPRS支撑节点（GSN）
 
-一个GSN是一个网络节点，它支持在GSM核心网中对GPRS的使用。所有的GSN都应当拥有一个[Gn接口](https://zh.wikipedia.org/wiki/#在GPRS网络中的接口 "wikilink")，并支持GPRS隧道协议。GSN有两个关键的变种，即网关（gateway）和业务（service）GPRS支撑节点。
+一个GSN是一个网络节点，它支持在GSM核心网中对GPRS的使用。所有的GSN都应当拥有一个[Gn/Gp接口](https://zh.wikipedia.org/wiki/#在GPRS网络中的接口 "wikilink")，并支持GPRS隧道协议。GSN有两个关键的变种，即网关（gateway）和业务（service）GPRS支撑节点。
 
 ### 网关GPRS支撑节点（GGSN）
 
-网关GPRS支撑节点（Gateway GPRS Support Node，简称GGSN）是[GPRS网络的一个主要组件](https://zh.wikipedia.org/wiki/通用分组无线服务 "wikilink")。GGSN负责GPRS网络和[因特网或](../Page/互联网.md "wikilink")[X.25](../Page/X.25.md "wikilink")网络等外部包交换网络之间的互联。
+网关GPRS支撑节点（Gateway GPRS Support Node，简称GGSN）是[GPRS网络的一个主要组件](https://zh.wikipedia.org/wiki/通用分组无线服务 "wikilink")。GGSN负责GPRS网络和IP网络或[X.25](../Page/X.25.md "wikilink")网络等外部包交换网络之间的互联。
 
-从外部网络的角度来看，GGSN是一个到某个“子网”（sub-network）的[路由器](../Page/路由器.md "wikilink")（router），因为GGSN对外部网络“隐藏”了GPRS基础设施（infrastructure）。当GGSN收到一个目的地址为某个特定用户的数据后，它检查该用户是否仍处活跃状态（active）。如果是的，则GGSN将该数据转发到当前正在为该移动用户提供服务的SGSN；如果该移动用户不处于活跃状态，则该数据被丢弃。换句话说，面向移动（mobile-originated）的数据包被GGSN路由到正确的网络。
+从外部网络的角度来看，GGSN是一个到某个“子网”（sub-network）的[路由器](../Page/路由器.md "wikilink")（router）。GGSN作为GPRS隧道的终点，对外部网络“隐藏”了整个3GPP的核心网结构。当GGSN收到一个目的地址为某个特定用户的数据（下行数据）后，它检查该用户是否仍处活跃状态（active）。如果是的，则GGSN将该数据转发到当前正在为该移动用户提供服务的SGSN；如果该移动用户不处于活跃状态，则该数据被丢弃。而针对从用户设备发出的上行数据，GGSN将其路由到正确的网络。
 
 GGSN是一个锚点（anchor point），它使得在[GPRS](https://zh.wikipedia.org/wiki/通用分组无线服务 "wikilink")/[UMTS网络中的用户终端具有可移动性](../Page/通用移动通讯系统.md "wikilink")（mobility）。在GPRS中，它扮演与[移动IP](../Page/移动IP.md "wikilink")中的归属代理（home agent）相同的角色。它维持与当前正在为一个特定[MS](../Page/移动台.md "wikilink")（移动台，英文：Mobile Station）提供服务的SGSN之间进行[协议数据单元](https://zh.wikipedia.org/wiki/协议数据单元 "wikilink")（Protocol Data Units，简称PDU）隧道连接所必须的路由。
 
@@ -96,10 +96,10 @@ GGSN将来自SGSN的GPRS数据包转换成合适的的包数据协议（Packet D
 
 包数据协议（Packet Data Protocol，简称PDP，例如：[IP](../Page/网际协议.md "wikilink")、[X.25](../Page/X.25.md "wikilink")、[帧中继](../Page/帧中继.md "wikilink")）上下文（context）是一个[数据结构](../Page/数据结构.md "wikilink")，在[SGSN和](https://zh.wikipedia.org/wiki/#业务GPRS支撑节点（SGSN） "wikilink")[GGSN上都会出现](https://zh.wikipedia.org/wiki/#网关GPRS支撑节点（GGSN） "wikilink")。当签约用户拥有一个活跃的会话时，它会包含该签约用户的会话信息。当一个移动电话想要使用GPRS的时候，它必须首先附着（attach）并随后激活一个PDP上下文。这会在签约用户当前正在拜访的[SGSN中](https://zh.wikipedia.org/wiki/#网关GPRS支撑节点（SGSN） "wikilink")，以及正在为该签约用户的接入点提供服务的[GGSN中分配一个PDP上下文数据结构](https://zh.wikipedia.org/wiki/#网关GPRS支撑节点（GGSN） "wikilink")。该数据记录包括：
 
-  - 签约用户的[IP地址](../Page/IP地址.md "wikilink")
-  - 签约用户的[IMSI](../Page/国际移动用户识别码.md "wikilink")
-  - 签约用户的
-      - 在[GGSN上的](https://zh.wikipedia.org/wiki/#网关GPRS支撑节点（GGSN） "wikilink")[隧道端点ID](https://zh.wikipedia.org/wiki/GPRS隧道协议#一般特性 "wikilink")（TEID）
+  - （用户可见）签约用户的[IP地址](../Page/IP地址.md "wikilink")
+  - （用户可见）签约用户的[IMSI](../Page/国际移动用户识别码.md "wikilink")
+  - （仅在核心网可见）签约用户的
+      - 在[GGSN上的](https://zh.wikipedia.org/wiki/#网关GPRS支撑节点（GGSN） "wikilink")[隧道端点ID](https://zh.wikipedia.org/wiki/GPRS隧道协议#GTP版本1 "wikilink")（TEID）
       - 在[SGSN上的隧道端点ID](https://zh.wikipedia.org/wiki/#业务GPRS支撑节点（SGSN） "wikilink") (TEID)
 
 隧道端点[IP是一个由](../Page/网际协议.md "wikilink")[GSN分配的号码](https://zh.wikipedia.org/wiki/#GPRS支撑节点\(GSN\) "wikilink")，它标识关联到一个特定的PDP上下文的已隧道化的数据（tunnelled data）。
