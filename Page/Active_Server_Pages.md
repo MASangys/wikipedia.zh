@@ -2,7 +2,7 @@
 
 ## ASP的特色
 
-ASP隱藏了[網頁伺服器](../Page/網頁伺服器.md "wikilink")與瀏覽者之間溝通的繁瑣機制的同時也基於[script base的特性](https://zh.wikipedia.org/wiki/script_base "wikilink")，網頁撰寫員可以專心撰寫應用的程式的邏輯部份，再者ASP也像[HTML](../Page/HTML.md "wikilink")般透過撰寫程序來即時測試網頁是否安全地運行，而不必擔心程式和伺服器不能溝通的問題，另外因為那些[script是於發送前於伺服器中先行轉譯處理成為HTML後再而發送至代理伺服器邊的動態網頁技術](https://zh.wikipedia.org/wiki/script "wikilink")，不必擔心瀏覽器的支援性及，網頁撰寫員的程式邏輯像[client-side script會被盜用](https://zh.wikipedia.org/wiki/client-side_script "wikilink")，因此最終瀏覽者只會是使用[HTML](../Page/HTML.md "wikilink")來瀏覽。
+ASP隱藏了[網頁伺服器](../Page/網頁伺服器.md "wikilink")與瀏覽者之間溝通的繁瑣機制的同時也基於[script base的特性](https://zh.wikipedia.org/wiki/script_base "wikilink")，網頁撰寫員可以專心撰寫應用的程式的邏輯部份，再者ASP也像[HTML](../Page/HTML.md "wikilink")般透過撰寫程序來即時測試網頁是否安全地運行，而不必擔心程式和伺服器不能溝通的問題，另外因為那些[script是於發送前於伺服器中先行轉譯處理成為HTML後再而發送至代理伺服器邊的動態網頁技術](https://zh.wikipedia.org/wiki/script "wikilink")，不必擔心瀏覽器的支援性，以及網頁撰寫員的程式邏輯像[client-side script會被盜用](https://zh.wikipedia.org/wiki/client-side_script "wikilink")，因此最終瀏覽者只會是使用[HTML](../Page/HTML.md "wikilink")來瀏覽。
 
 利用ASP程序最常用的是[Cookie](../Page/Cookie.md "wikilink")s，它利用Session组件实现的。同時还可以利用[第三方组件延伸ASP的作用](https://zh.wikipedia.org/wiki/第三方 "wikilink")，如利用MailSender组件发送[电子邮件](../Page/电子邮件.md "wikilink")。
 
@@ -21,7 +21,7 @@ ASP隱藏了[網頁伺服器](../Page/網頁伺服器.md "wikilink")與瀏覽者
 ASP對[COM的支援會允許撰寫員使用](https://zh.wikipedia.org/wiki/COM "wikilink")[server component](https://zh.wikipedia.org/wiki/server_component "wikilink")（或[OLE Automation server](https://zh.wikipedia.org/wiki/OLE_Automation_server "wikilink")）。透過它撰寫員可以發展自己的物件，或將把程式轉成[Web-base的介面](https://zh.wikipedia.org/wiki/Web-base "wikilink")。
 
   - 透過[ADO](../Page/ADO.md "wikilink")提供對於資料庫的應用。
-  - 透過ActiveX的Scripting.FileSystemObject提供對於檔案的操作。
+  - 透過[ActiveX](../Page/ActiveX.md "wikilink")的Scripting.FileSystemObject提供對於檔案的操作。
 
 ### 狀態（State）的管理
 

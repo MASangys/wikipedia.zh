@@ -2,7 +2,7 @@
 
 ## 歷史
 
-1982年，Microsoft推出了它的第一款電子制表軟件──[Multiplan](https://zh.wikipedia.org/wiki/Multiplan "wikilink")，並在[CP/M系統上大獲成功](https://zh.wikipedia.org/wiki/CP/M "wikilink")，但在[MS-DOS](../Page/MS-DOS.md "wikilink")系統上，Multiplan敗給了[Lotus 1-2-3](../Page/Lotus_1-2-3.md "wikilink")。這個事件促使了Excel的誕生，正如Excel研發代號Doug Klunder：做Lotus 1-2-3能做的，並且做的更好。1985年，第一款Excel誕生，它只用於Mac系統；1987年11月，第一款適用於Windows系統的Excel也產生了（與Windows環境直接捆綁，在Mac中的版本號為2.0）。Lotus1-2-3遲遲不能適用於Windows系統，到了1988年，Excel的銷量超過了Lotus ，使得Microsoft站在了[PC](../Page/PC.md "wikilink")軟件商的領先位置。這次的事件，促成了軟件王國霸主的更替，Microsoft鞏固了它強有力的競爭者地位，並從中找到了發展圖形軟件的方向。此后大約每兩年，Microsoft就會推出新的版本來擴大自身的優勢，目前Excel的最新版本為16，也被稱作Microsoft Office Excel 2016。
+1982年，Microsoft推出了它的第一款電子制表軟件──[Multiplan](https://zh.wikipedia.org/wiki/Multiplan "wikilink")，並在[CP/M系統上大獲成功](https://zh.wikipedia.org/wiki/CP/M "wikilink")，但在[MS-DOS](../Page/MS-DOS.md "wikilink")系統上，Multiplan敗給了[Lotus 1-2-3](../Page/Lotus_1-2-3.md "wikilink")。這個事件促使了Excel的誕生，正如Excel研發代號Doug Klunder：做Lotus 1-2-3能做的，並且做的更好。1985年，第一款Excel誕生，它只用於Mac系統；1987年11月，第一款適用於Windows系統的Excel也產生了（與Windows環境直接捆綁，在Mac中的版本號為2.0）。Lotus1-2-3遲遲不能適用於Windows系統，到了1988年，Excel的銷量超過了Lotus ，使得Microsoft站在了[PC](../Page/PC.md "wikilink")軟件商的領先位置。這次的事件，促成了軟件王國霸主的更替，Microsoft鞏固了它強有力的競爭者地位，並從中找到了發展圖形軟件的方向。此后大約每兩年，Microsoft就會推出新的版本來擴大自身的優勢，目前Excel的最新版本為19，也被稱作Microsoft Office Excel 2019。
 
 早期，由於和另一家公司出售的名為Excel的軟件同名，Excel曾成為了商標法的目標，經過審判，Microsoft被要求在它的正式文件和法律文檔中以Microsoft Excel來命名這個軟件。但是，隨著時間的過去，這個慣例也就逐漸消逝了。
 

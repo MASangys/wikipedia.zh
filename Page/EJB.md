@@ -1,4 +1,4 @@
-企业级JavaBean（Enterprise JavaBean, **EJB**）是一个用来构筑企业级应用的服务器端可被管理组件。
+**企业级JavaBean**（Enterprise JavaBean, **EJB**）是一个用来构筑企业级应用的服务器端可被管理组件。
 
 [Java](../Page/Java.md "wikilink")企业版API（Java Enterprise Edition）中提供了对EJB的规范。EJB是一个封装有某个应用程序之业务逻辑服务器端组件。EJB最早于1997年由IBM提出，旋即被[太阳微系统采用并形成标准](https://zh.wikipedia.org/wiki/升阳公司 "wikilink")（EJB 1.0 和EJB 1.1）。其后在Java社区进程（Java Community Process）支持下陆续有一些[JSR被制订来定义新的EJB标准](https://zh.wikipedia.org/wiki/JSR "wikilink")，分别是JSR 19 (EJB 2.0), JSR 153 (EJB 2.1) 以及最新的JSR 220 (EJB 3.0)。
 

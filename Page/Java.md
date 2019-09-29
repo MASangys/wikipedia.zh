@@ -1,6 +1,6 @@
 ****是一種廣泛使用的電腦[程式設計語言](https://zh.wikipedia.org/wiki/程式設計語言 "wikilink")，擁有[跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink")、[物件導向](https://zh.wikipedia.org/wiki/物件導向 "wikilink")、[泛型程式設計的特性](https://zh.wikipedia.org/wiki/泛型程式設計 "wikilink")，广泛应用于企业级Web应用开发和移动应用开发。
 
-任職於[昇陽電腦](../Page/昇陽電腦.md "wikilink")的[詹姆斯·高斯林](../Page/詹姆斯·高斯林.md "wikilink")等人于1990年代初开发Java語言的雛形，最初被命名为Oak，目標設定在[家用电器](../Page/家用电器.md "wikilink")等小型系統的[程式语言](https://zh.wikipedia.org/wiki/程式语言 "wikilink")，應用在[电视机](../Page/电视机.md "wikilink")、[电话](../Page/电话.md "wikilink")、[闹钟](https://zh.wikipedia.org/wiki/闹钟 "wikilink")、[烤面包机等家用电器的控制和通訊](https://zh.wikipedia.org/wiki/烤面包机 "wikilink")。由于这些[智能化家电的市场需求没有预期的高](https://zh.wikipedia.org/wiki/智能化 "wikilink")，Sun公司放弃了该项计划。随着1990年代[網際網路的发展](https://zh.wikipedia.org/wiki/網際網路 "wikilink")，Sun公司看見Oak在[網際網路上应用的前景](https://zh.wikipedia.org/wiki/網際網路 "wikilink")，于是改造了Oak，於1995年5月以Java的名称正式发布。Java伴随着互联网的迅猛发展而发展，逐渐成为重要的网络编程语言。
+任職於[昇陽電腦](../Page/昇陽電腦.md "wikilink")的[詹姆斯·高斯林](../Page/詹姆斯·高斯林.md "wikilink")等人于1990年代初开发Java語言的雛形，最初被命名为Oak，目標設定在[家用电器](../Page/家用电器.md "wikilink")等小型系統的[程式语言](https://zh.wikipedia.org/wiki/程式语言 "wikilink")，應用在[电视机](../Page/电视机.md "wikilink")、[电话](../Page/电话.md "wikilink")、[闹钟](https://zh.wikipedia.org/wiki/闹钟 "wikilink")、[烤面包机等家用电器的控制和通訊](https://zh.wikipedia.org/wiki/烤面包机 "wikilink")。由于这些[智能化家电的市场需求没有预期的高](https://zh.wikipedia.org/wiki/智能化 "wikilink")，[太阳计算机系统](https://zh.wikipedia.org/wiki/太阳计算机系统 "wikilink")([Sun公司](https://zh.wikipedia.org/wiki/Sun公司 "wikilink"))放弃了该项计划。随着1990年代[網際網路的发展](https://zh.wikipedia.org/wiki/網際網路 "wikilink")，[Sun公司看見Oak在](https://zh.wikipedia.org/wiki/Sun公司 "wikilink")[網際網路上应用的前景](https://zh.wikipedia.org/wiki/網際網路 "wikilink")，于是改造了Oak，於1995年5月以Java的名称正式发布。Java伴随着互联网的迅猛发展而发展，逐渐成为重要的网络编程语言。
 
 Java编程语言的风格十分接近[C++](../Page/C++.md "wikilink")语言。继承了[C++](../Page/C++.md "wikilink")语言面向对象技术的核心，舍弃了容易引起错误的[-{zh-hans:指针; zh-hant:指標;}-](https://zh.wikipedia.org/wiki/指针_\(信息学\) "wikilink")，以[-{zh-hans:引用; zh-hant:參照;}-取代](../Page/參照.md "wikilink")；移除了C++中的-{zh-hans:[运算符重载](../Page/运算符重载.md "wikilink"); zh-hant:[運算子多载](https://zh.wikipedia.org/wiki/運算子多载 "wikilink");}-和[多重继承特性](https://zh.wikipedia.org/wiki/继承_\(计算机科学\) "wikilink")，用[接口取代](../Page/接口_\(Java\).md "wikilink")；增加[垃圾回收器功能](../Page/垃圾回收_\(計算機科學\).md "wikilink")。在Java SE 1.5版本中引入了[泛型](../Page/泛型.md "wikilink")编程、[类型安全的枚举](https://zh.wikipedia.org/wiki/类型安全 "wikilink")、不定长参数和自动装/拆箱特性。昇陽電腦对Java语言的解释是：「Java编程语言是个简单、面向对象、分布式、解释性、健壮、安全与系统无关、可移植、高性能、多线程和动态的语言」
 
@@ -284,9 +284,7 @@ public void deleteAll（Deleteable [] list）{
 
 ## Hello World
 
-下面这个程序显示“Hello, world\!”然后结束运行，注意`java.lang`
-
-`ng`套件是自動載入的，所以不需要在程式之前加入`import java.lang.*;`
+下面这个程序显示“Hello, world\!”然后结束运行，注意`java.lang`套件是自動載入的，所以不需要在程式之前加入`import java.lang.*;`
 
 ``` java
 public class HelloWorld {

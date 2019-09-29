@@ -1,22 +1,32 @@
-**SAP公司**是总部位于德国[巴登符腾堡州](https://zh.wikipedia.org/wiki/巴登符腾堡州 "wikilink")[瓦尔多夫](../Page/瓦尔多夫.md "wikilink")的软件企业，主营业务为[企业资源管理软件](https://zh.wikipedia.org/wiki/企业资源管理 "wikilink")，是歐洲最大的軟件企業，在130个国家设有地区办事处，在190个国家拥有超过335,000名客户\[1\]。该公司股票是欧洲[Stoxx 50股票市场指数的成分股](https://zh.wikipedia.org/wiki/Stoxx_50 "wikilink")。\[2\]
+**SAP公司**是德国一家软件企业，总部位于德国[巴登符腾堡州](https://zh.wikipedia.org/wiki/巴登符腾堡州 "wikilink")[瓦尔多夫](../Page/瓦尔多夫.md "wikilink")，主营[企业资源管理软件](https://zh.wikipedia.org/wiki/企业资源管理 "wikilink")，在130个国家设有办事处，在190个国家拥有超过335,000名客户\[1\]。该公司股票是欧洲[Stoxx 50股票市场指数的成分股](https://zh.wikipedia.org/wiki/Stoxx_50 "wikilink")。\[2\]
 
-## 公司歷史
+## 歷史
 
-[SAP_AG_Headquarter_1200.jpg](https://zh.wikipedia.org/wiki/File:SAP_AG_Headquarter_1200.jpg "fig:SAP_AG_Headquarter_1200.jpg") SAP公司於1972年在[德國創立](https://zh.wikipedia.org/wiki/德國 "wikilink")。五位創始人（Dietmar Hopp、Hans-Werner Hector、Hasso Plattner（[哈索·普拉特納](../Page/哈索·普拉特納.md "wikilink")）、Klaus Tschira與Claus Wellenreuther）於德國[魏恩海姆](../Page/魏恩海姆.md "wikilink")（）初創時，公司名為「」（系統分析與程式開發），後根據「」（資料處理的系統、應用與產品）將公司名稱縮寫為SAP。
+[SAP_AG_Headquarter_1200.jpg](https://zh.wikipedia.org/wiki/File:SAP_AG_Headquarter_1200.jpg "fig:SAP_AG_Headquarter_1200.jpg") SAP於1972年在[德國創立](https://zh.wikipedia.org/wiki/德國 "wikilink")。五位創始人（Dietmar Hopp、Hans-Werner Hector、Hasso Plattner（[哈索·普拉特納](../Page/哈索·普拉特納.md "wikilink")）、Klaus Tschira與Claus Wellenreuther）於德國[魏恩海姆](../Page/魏恩海姆.md "wikilink")（）初創時，公司名為「」（系統分析與程式開發），後根據「」（資料處理的系統、應用與產品）將公司名稱縮寫為SAP。
 
-1976年，「SAP [GmbH](https://zh.wikipedia.org/wiki/GmbH "wikilink")」成立，並於次年將總部搬遷至[沃爾多夫](https://zh.wikipedia.org/wiki/沃爾多夫 "wikilink")。在2005年的公司年會上，SAP AG成為了公司的官方名稱。在2007年，SAP宣佈將以47億歐元現金收購商務智能軟件公司Business Objects，正式進軍商務智能領域。　在2010年，SAP宣佈將以58億美元現金收購商業軟件開發商[Sybase](../Page/Sybase.md "wikilink")。2014年9月19日SAP以每股129美元斥資83億美元收購旅遊和支付軟件提供商Concur Technologies，2018年11月11日SAP斥資80億美元現金，收購軟體公司Qualtrics
+1976年，「SAP [GmbH](https://zh.wikipedia.org/wiki/GmbH "wikilink")」成立，並於次年將總部搬遷至[沃爾多夫](https://zh.wikipedia.org/wiki/沃爾多夫 "wikilink")。
+
+在2005年公司年會上，SAP AG成為公司的官方名稱。
+
+在2007年，SAP宣佈將以47億歐元現金收購商務智能軟件公司Business Objects，正式進軍商務智能領域。　
+
+在2010年，SAP宣佈將以58億美元現金收購商業軟件開發商[Sybase](../Page/Sybase.md "wikilink")。
+
+2014年9月19日SAP以每股129美元斥資83億美元收購旅遊和支付軟件提供商Concur Technologies。
+
+2018年11月11日SAP斥資80億美元現金，收購軟體公司Qualtrics
 
 ## 业务与市場
 
 根据富比士杂志的排名，截至2016年，SAP是世界第三大软件公司。\[3\]
 
-公司在世界各地开展业务：欧洲，中东和非洲（EMEA）（欧洲，中东，非洲），中欧和东欧（包括中东欧，中东欧和独联体分区域），美国和加拿大，拉丁美洲和加勒比），大中华区（中国大陆及台湾）和APJ（亚太地区和日本）。\[4\]
+公司在世界各地开展业务：欧洲、中东、非洲（EMEA）、大中华区（中国大陆及台湾）和APJ（亚太地区和日本）。\[4\]
 
-SAP的业务侧重于25个行业和六大产业：制造行业，物流行业，消费行业，服务行业，金融服务和公共服务。\[5\]它为大型企业，中型公司和小型企业提供集成产品集。\[6\]
+SAP的业务侧重于25个行业和六大产业：制造、物流、消费行业、服务业、金融和公共服务。\[5\]它为大型企业、中小企业提供集成产品集。\[6\]
 
 ## 商業解決方案的里程碑事件
 
-1972年，SAP R/1開始投放市場。\[7\] 6年後的1979年，SAP發佈了SAP R/2。1982年，SAP完全重新設計了商業解決方案。在1992年從SAP R/2到SAP R/3，SAP順應發展趨勢實現了從大型主機計算到客戶-伺服器架構的轉變。SAP基於因特網的mySAP.com重新定義了商業處理概念。在1999年，SAP被Industry Week's授予了Best Managed Companies。\[8\]
+1972年，SAP R/1開始投放市場。\[7\] 6年後的1979年，SAP發佈了SAP R/2。1982年，SAP重新設計了商業解決方案。在1992年從SAP R/2到SAP R/3，SAP順應發展趨勢實現了從大型主機計算到客戶-伺服器架構的轉變。SAP基於因特網的mySAP.com重新定義了商業處理概念。在1999年，SAP被Industry Week's授予了Best Managed Companies。\[8\]
 
 2011年3月，SAP正式發佈新一代的商務分析解決方案：[BusinessObjects 4.0](https://web.archive.org/web/20150511030511/http://www.bestsapchina.com/bi_4.aspx)。SAP BusinessObjects 4.0採用了統一的通用架構，提供良好的用戶體驗，特別突顯了社交網絡工具的友好使用界面。這些創新正在塑造商務分析軟件的未來——基於內存計算，實現實時商務分析。它讓用戶手中瞬間擁有強大商務智能能力，並且能夠得到比以往任何時候都多的移動終端的支持；借助準確的企業和社交數據，SAP BusinessObjects 4.0結合結構化和非結構化信息，提供信息管理工具；另外，SAP BusinessObjects 4.0提供最適合的工具，可以通過任何方式立即展開部署，無論是通過企業預置型（On-Premise）、按需隨選型（On-Demand）、嵌入業務運營的方式，還是完全「混合」的形式。
 

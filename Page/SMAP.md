@@ -1665,7 +1665,7 @@ SMAP早在1988年和1999年就以光GENJI的伴舞身份参加了《NHK红白歌
 <td><p><br />
 应该没问题（二度演出）→→</p></td>
 <td><p>8/25</p></td>
-<td></td>
+<td><p><a href="../Page/森高千里.md" title="wikilink">森高千里</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -2362,8 +2362,7 @@ SMAP初次出演“[FNS歌谣祭](https://zh.wikipedia.org/wiki/FNS歌谣祭 "wi
 
 ### 电视剧
 
-  - （1988年10月12日-1989年3月29日，[东京电视台](https://zh.wikipedia.org/wiki/东京电视台 "wikilink")）
-
+  - [危险少年3](https://zh.wikipedia.org/wiki/危险少年3 "wikilink")（1988年10月12日-1989年3月29日，[东京电视台](https://zh.wikipedia.org/wiki/东京电视台 "wikilink")）
       - SMAP的电视剧处女作，全体成员在剧中饰演本尊。
 
 <!-- end list -->

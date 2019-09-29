@@ -77,7 +77,7 @@ STI 將 Cell 應用於[高畫質數位影音家電](https://zh.wikipedia.org/wik
 ## 參見
 
   - [走鵑 (超級電腦)](https://zh.wikipedia.org/wiki/走鵑_\(超級電腦\) "wikilink")
-  - [PlayStation 3](../Page/PlayStation_3.md "wikilink")
+  - [PlayStation3](https://zh.wikipedia.org/wiki/PlayStation3 "wikilink")
 
 ## 參考資料
 
@@ -173,4 +173,4 @@ STI 將 Cell 應用於[高畫質數位影音家電](https://zh.wikipedia.org/wik
 
 37. [東芝Cell電視可將數字視頻轉換為3D視頻](http://financenews.sina.com/sinacn/304-000-106-109/2010-01-07/00481227166.html)
 
-38. [商刊：东芝欲借Cell电视机提高品牌知名度](http://news.ccidnet.com/art/1032/20091007/1902565_1.html)
+38. [商：东芝欲借Cell电视机提高品牌知名度](http://news.ccidnet.com/art/1032/20091007/1902565_1.html)

@@ -185,7 +185,7 @@ Google 於其官方[部落格回應稱](https://zh.wikipedia.org/wiki/部落格 
 
 ### 中国大陆
 
-  - 2010年3月，Google因不满中华人民共和国政府攻击和入侵Gmail，宣布关闭中国大陸服务器上网页搜索等服务，并且开始强制全球所有Gmail用户默认打开[Https](https://zh.wikipedia.org/wiki/Https "wikilink")（[SSL](https://zh.wikipedia.org/wiki/SSL "wikilink")，443端口）加密连接，以减少帐号被入侵的机会。由于Https具有加密防窃听的功能，并且可以防止[防火长城](../Page/防火长城.md "wikilink")的监视和过滤，当局开始长时间封锁大部分Google服务的443端口（如[Google文件](../Page/Google文件.md "wikilink")、[Google网上论坛和](https://zh.wikipedia.org/wiki/Google网上论坛 "wikilink")[加密](https://zh.wikipedia.org/wiki/加密 "wikilink")[搜索等](https://zh.wikipedia.org/wiki/搜索 "wikilink")）。不过由于Gmail在中国大陆使用者众多，长时间封锁会造成Gmail完全无法直接访问，为此从2011年3月起，按时段对www.google.com（登录用户时需此域名验证）和mail.google.com服务器的443端口实施自动封锁，具体是每10到15分钟可以连通，接着断开，10到15分钟后再连通，再断开，如此循环，令中国大陆用户和Google主机之间的连接出现间歇性中断。由于网页版[Gtalk也是利用加密功能进行通讯](https://zh.wikipedia.org/wiki/Gtalk "wikilink")，故此服务一样会间歇性中断\[53\]。另外，所有需要用户验证的Google服务也一样出现经常不能登录的情况。
+  - 2010年3月，Google因不满中华人民共和国政府攻击和入侵Gmail，宣布关闭中国大陸服务器上网页搜索等服务，并且开始强制全球所有Gmail用户默认打开[Https](https://zh.wikipedia.org/wiki/Https "wikilink")（[SSL](https://zh.wikipedia.org/wiki/SSL "wikilink")，443端口）加密连接，以减少帐号被入侵的机会。由于Https具有加密防窃听的功能，并且可以防止[防火长城](../Page/防火长城.md "wikilink")的监视和过滤，当局开始长时间封锁大部分Google服务的443端口（如[Google文件](../Page/Google文件.md "wikilink")、[Google网上论坛和](https://zh.wikipedia.org/wiki/Google网上论坛 "wikilink")[加密](../Page/加密.md "wikilink")[搜索等](https://zh.wikipedia.org/wiki/搜索 "wikilink")）。不过由于Gmail在中国大陆使用者众多，长时间封锁会造成Gmail完全无法直接访问，为此从2011年3月起，按时段对www.google.com（登录用户时需此域名验证）和mail.google.com服务器的443端口实施自动封锁，具体是每10到15分钟可以连通，接着断开，10到15分钟后再连通，再断开，如此循环，令中国大陆用户和Google主机之间的连接出现间歇性中断。由于网页版[Gtalk也是利用加密功能进行通讯](https://zh.wikipedia.org/wiki/Gtalk "wikilink")，故此服务一样会间歇性中断\[53\]。另外，所有需要用户验证的Google服务也一样出现经常不能登录的情况。
 
 <!-- end list -->
 

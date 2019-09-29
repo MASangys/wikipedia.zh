@@ -10,23 +10,19 @@ J並非[馮諾曼程式語言](https://zh.wikipedia.org/wiki/馮諾曼程式語�
 
 ## 例子
 
-J是極強大的語言，它的程式可以非常簡潔，但以人類的b 常用溝通語言而言通常會變得像密碼。以下是個[快速排序](../Page/快速排序.md "wikilink")的[單行小程kl式](https://zh.wikipedia.org/wiki/單行小程kl式 "wikilink")：
+J是極強大的語言，它的程式可以非常簡潔，但以人類的常用溝通語言而言通常會變得像密碼。以下是個[快速排序](../Page/快速排序.md "wikilink")的[單行小程式](https://zh.wikipedia.org/wiki/單行小程式 "wikilink")：
 
-`  `**`qsort`**`` =: ]`(($:@:((}.<:{.)#}.)),{.,($:@:((}.>{.)#}.)))@.(*@#)lnhj``
+`  `**`qsort`**`` =: ]`(($:@:((}.<:{.)#}.)),{.,($:@:((}.>{.)#}.)))@.(*@#)``
 
 但是如果我们定义一些中间记忆名称的话，（NB.为注释）:
 
-`  id        hj=: ]                                 NB. 定义函数ugh`
-
+`  id        =: ]                                 NB. 定义函数`
 `  choose    =: @.                                NB. 条件执行`
 `  first     =: {.                                NB. 集合首元素`
 `  rest      =: }.                                NB. 除首元素之外的其他元素`
 `  o         =: @:                                NB. 函数撰写:  f o g (x)  =   f(g(x))`
 `  void      =: [:`
-`  sign      =: * : void                          NB. monadic only, void .my `
-
-dyadic
-
+`  sign      =: * : void                          NB. monadic only, void dyadic`
 `  length    =: # : void                          NB. monadic only, void dyadic`
 `  selfrom   =: void : #                          NB. dyadic only, void monadic`
 `  notEmpty  =: sign o length                     NB. sign 0 = 0`

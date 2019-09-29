@@ -76,4 +76,4 @@ SD娃娃的推出刺激了其他公司，特別是南韓公司。2003年，球�
   - [Super Dollfie/VOLKS官方網站](https://web.archive.org/web/20090712053143/http://www.volks.co.jp/jp/superdollfie/index_superdollfie.aspx)
   - [VOLKS的玩偶 Super Dollfie/VOLKS官方推廣網站](http://www.superdollfie.net/)
 
-[Category:日本人偶](https://zh.wikipedia.org/wiki/Category:日本人偶 "wikilink") [Category:1998年日本建立‎](https://zh.wikipedia.org/wiki/Category:1998年日本建立‎ "wikilink")
+[Category:日本人偶](https://zh.wikipedia.org/wiki/Category:日本人偶 "wikilink") [Category:1998年日本建立](https://zh.wikipedia.org/wiki/Category:1998年日本建立 "wikilink")

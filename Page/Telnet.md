@@ -6,7 +6,7 @@ Telnet在1969年開發出來，在 RFC 15 定義， RFC 854 定義了擴充功�
 
 使用者首先在電腦執行Telnet程序，連線至目的地[伺服器](https://zh.wikipedia.org/wiki/伺服器 "wikilink")，然後輸入帳號和密碼以驗證身份。使用者可以在本地主機輸入命令，然後讓已連接的遠端主機執行，就像直接在對方的控制台上輸入一樣。
 
-傳統Telnet會話所傳輸的資料並未[加密](https://zh.wikipedia.org/wiki/加密 "wikilink")，帳號和密碼等敏感資料容易會被竊聽，因此很多伺服器都會封鎖Telnet服務，改用更安全的[SSH](../Page/Secure_Shell.md "wikilink")。
+傳統Telnet會話所傳輸的資料並未[加密](../Page/加密.md "wikilink")，帳號和密碼等敏感資料容易會被竊聽，因此很多伺服器都會封鎖Telnet服務，改用更安全的[SSH](../Page/Secure_Shell.md "wikilink")。
 
 ## 應用
 

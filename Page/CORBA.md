@@ -27,7 +27,7 @@ CORBA的数据（整数、浮点数、结构、枚举等）是通过值传递。
 GIOP是用于ORB间数据传输的抽象协议，通用ORB间协议（GIOP）用来为这个由不同计算机及其各种体系结构组成的世界中传送消息定义结构和格式。如果使用GIOP的结构和格式，并将它们应用于TCP/IP，那么就得到IIOP。GIOP有两个版本：1.0和1.1。相关协议标准由[Object Management Group](https://zh.wikipedia.org/wiki/Object_Management_Group "wikilink")（OMG）管理. GIOP架构提供了如下具体协议：
 
 1.  因特网ORB间协议（IIOP）—定义了基于因特网的GIOP实现，提供了TCP/IP到GIOP的映射。
-2.  加密ORB间协议（SSLIOP）—SSLIOP是基于SSL加密层的IIOP，提供了[加密和](https://zh.wikipedia.org/wiki/加密 "wikilink")[认证](https://zh.wikipedia.org/wiki/认证 "wikilink")。
+2.  加密ORB间协议（SSLIOP）—SSLIOP是基于SSL加密层的IIOP，提供了[加密](../Page/加密.md "wikilink")和[认证](https://zh.wikipedia.org/wiki/认证 "wikilink")。
 3.  超文本ORB间协议（HTIOP）—HTIOP是基于[HTTP的IIOP](https://zh.wikipedia.org/wiki/HTTP "wikilink")，提供了透明代理穿越。
 4.  还有很多……
 

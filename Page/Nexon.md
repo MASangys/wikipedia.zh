@@ -1,4 +1,4 @@
-**NEXON**（；；中文：**納-{}-克森**）是一家韩国[電腦遊戲股控公司](https://zh.wikipedia.org/wiki/電腦遊戲 "wikilink")。
+**NEXON**（；；中文：**納-{}-克森**）是一家韓國[電腦遊戲股控公司](https://zh.wikipedia.org/wiki/電腦遊戲 "wikilink")。
 
 ## 历史
 

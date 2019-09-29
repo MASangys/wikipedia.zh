@@ -142,6 +142,7 @@ Joe Junior聲線嘹亮，[音域廣闊](https://zh.wikipedia.org/wiki/音域 "wi
   - [籠民](../Page/籠民.md "wikilink") (1992)
   - [新不了情](https://zh.wikipedia.org/wiki/新不了情 "wikilink") (1993)
   - [愛的種籽](https://zh.wikipedia.org/wiki/愛的種籽 "wikilink") (1994)
+  - 霓虹光管高高掛之女子公寓(1994)
   - [運財智叻星](https://zh.wikipedia.org/wiki/運財智叻星 "wikilink") 飾 神仙
   - [橫紋刀劈扭紋柴](https://zh.wikipedia.org/wiki/橫紋刀劈扭紋柴_\(電影\) "wikilink") 飾 羅家英(1995)
   - [新與龍共舞之偷偷愛你](https://zh.wikipedia.org/wiki/新與龍共舞之偷偷愛你 "wikilink")(1996)

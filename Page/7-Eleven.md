@@ -318,7 +318,7 @@
 
   - 臺灣在門市總數上僅次於美國、日本、韩国與泰國，但在土地平均分店密度方面，臺灣遙遙領先在美日之前，在人口平均分店密度方面，自2012年以來都較南韓低上許多，南韓便利商店密集度居全球之冠（2017年每店1,291人），2018年台灣和日本則依次為每店2,148及2,235人。\[40\]
   - 在臺灣，從[車站](https://zh.wikipedia.org/wiki/車站 "wikilink")、[街道](https://zh.wikipedia.org/wiki/街道 "wikilink")、[體育場](https://zh.wikipedia.org/wiki/體育場 "wikilink")、[學校](https://zh.wikipedia.org/wiki/學校 "wikilink")、[醫院](../Page/醫院.md "wikilink")、[百貨公司](../Page/百貨公司.md "wikilink")、[國道休息站到公司行號都有](https://zh.wikipedia.org/wiki/中華民國國道服務區列表 "wikilink")7-Eleven的蹤跡，店面大小差異也很大，相較日本近幾年才跨入特殊通路店鋪，臺灣7-Eleven店型變化之大可以堪稱全球之最。現今臺灣的7-Eleven也向有車流的道路旁展店，該型店面具有可容納汽機車的停車空間。
-  - 2000年開始與[臺鐵合作](https://zh.wikipedia.org/wiki/臺鐵 "wikilink")，在火車站站內新開「Express」門市，後來有其他業者跟進；目前臺鐵[臺北車站站內擁有](https://zh.wikipedia.org/wiki/臺北車站 "wikilink")6間「Express」門市（其中兩間位於付費區內）和2間高鐵門市（也在付費區內），因應車站重新裝修，各店鋪也將輪流整修\[41\]。
+  - 2000年開始與[臺鐵合作](https://zh.wikipedia.org/wiki/臺鐵 "wikilink")，在火車站站內新開「Express」門市，後來有其他業者跟進；在臺鐵[臺北車站站內一度擁有](https://zh.wikipedia.org/wiki/臺北車站 "wikilink")6間「Express」門市（其中兩間位於付費區內）和2間高鐵門市（也在付費區內）\[41\]，還有1間捷運門市，當時成為最多7-Eleven的車站，但台鐵高鐵門市全數在2019年換約時被全家便利商店得標。
   - 是臺灣第一個完成臺灣本島各縣市全面展店與第一個跨入離島展店的便利商店業者，但仍有部份較偏遠鄉鎮尚未展店。
   - 店內提供的代收業務，可以讓消費者直接在店內繳交水電等多達上百種費用。\[42\]
   - [自動提款機](../Page/自動櫃員機.md "wikilink")（ATM）與[臺灣中國信託商業銀行獨家簽約](../Page/中國信託商業銀行.md "wikilink")，機臺數超過3,000台以上，並於2007年4月起雙方合作發行兼具[電子錢包與](https://zh.wikipedia.org/wiki/電子錢包 "wikilink")[信用卡](../Page/信用卡.md "wikilink")功能的「icashwave」卡\[43\]。

@@ -44,6 +44,7 @@ Steam客户端的第一个测试版本于2003年1月[CS 1.6公测时发布](../P
   - 2017年12月16日起，Steam社区域名在中国大陆地区疑似遭到[防火长城](../Page/防火长城.md "wikilink")关键字屏蔽和DNS污染，原因未知。\[35\]但根据[百度贴吧](../Page/百度贴吧.md "wikilink")一名吧友的说法，steam社区功能被屏蔽之前，steam官方在2017年6月强制解散了一个名叫“[中国共产党](../Page/中国共产党.md "wikilink")”的群组。有可能是被屏蔽的原因之一。
   - 2018年6月12日，中国[完美世界股份有限公司获得](https://zh.wikipedia.org/wiki/完美世界股份有限公司 "wikilink")[維爾福公司的授权](https://zh.wikipedia.org/wiki/維爾福公司 "wikilink")，代理Steam中国。\[36\]
   - 2018年11月28日，Steam中国正式落户上海浦东。\[37\]
+  - 2019年8月21日，在[完美世界发布会上](../Page/完美世界_\(公司\).md "wikilink")，“Steam中国”正式定名为“蒸汽平台”。蒸汽平台几乎完全独立于Steam，游戏库将不断扩充，包含VR游戏。首批上线的包含40款游戏，且并非全部获得中国游戏版号。
 
 ## 地區內容限制
 
@@ -97,15 +98,15 @@ SteamOS包括了Linux的架构以及为大屏幕模式设计的游戏体验。St
 
 2014年11月，Steam商店页面曾被短暂封锁。
 
-2017年12月16日开始， 因疑似被[防火长城](../Page/防火长城.md "wikilink")[封锁steamcommunity](../Page/中华人民共和国被封锁网站列表.md "wikilink").com域名下的steam社区内容，导致在中国大陆的用户除了商店外无法访问其他任何功能，需要修改[hosts或使用加速器等相关工具才能绕过封锁](https://zh.wikipedia.org/wiki/hosts "wikilink")。\[43\]
+2017年12月16日开始， 因疑似被[防火长城](../Page/防火长城.md "wikilink")[封锁steamcommunity](../Page/中华人民共和国被封锁网站列表.md "wikilink").com域名下的Steam社区内容，导致在中国大陆的用户除了商店外无法访问社區相關功能，需要修改[hosts或使用翻墙软件等相关工具才能绕过封锁](https://zh.wikipedia.org/wiki/hosts "wikilink")。\[43\]
 
-2019年6月，[维尔福與上海的遊戲公司完美世界合作](https://zh.wikipedia.org/wiki/维尔福 "wikilink")，推出中國大陆版steam，並定名為「蒸汽平台」和獨立於現有的steam。而首批上架的遊戲將有約 40 款，其中包含《[Dota 2](../Page/Dota_2.md "wikilink")》、《Dota 霸業》等。\[44\]\[45\]
+2019年6月，[维尔福與上海的遊戲公司完美世界合作](https://zh.wikipedia.org/wiki/维尔福 "wikilink")，推出中國大陆版Steam，並定名為「蒸汽平台」和獨立於現有的Steam。而首批上架的遊戲將有約 40 款，其中包含《[Dota 2](../Page/Dota_2.md "wikilink")》、《Dota 霸業》等。\[44\]\[45\]据维尔福的業務人員透露，現有的Steam不会放弃中国大陆市场。\[46\]
 
 ## 默认启用https链接
 
-2018年4月28日起，steam在全球除中国大陆地区以外启用默认https链接代替之前的默认http链接，此举被认为可以降低用户数据被ISP劫持分析的可能性。\[46\]中国大陆地区此时只有商店采用默认https链接，社区仍然是默认http链接。
+2018年4月28日起，steam在全球除中国大陆地区以外启用默认https链接代替之前的默认http链接，此举被认为可以降低用户数据被ISP劫持分析的可能性。\[47\]中国大陆地区此时只有商店采用默认https链接，社区仍然是默认http链接。
 
-2018年6月2日，steam在中国大陆地区也采用社区默认https链接，之后防火长城也针对此提升了封锁强度，玩家仍需要不断修改hosts或使用加速器等工具才能访问社区。\[47\]
+2018年6月2日，steam在中国大陆地区也采用社区默认https链接，之后防火长城也针对此提升了封锁强度，玩家仍需要不断修改hosts或使用加速器等工具才能访问社区。\[48\]
 
 ## 参考资料
 
@@ -203,12 +204,14 @@ SteamOS包括了Linux的架构以及为大屏幕模式设计的游戏体验。St
 
 42.
 
-43. [Steam社区被关键字屏蔽](http://www.williamlong.info/archives/5191.html?utm_medium=website)
+43.
 
 44.
 
 45.
 
-46. [Steam 开始默认启用加密，但中国区除外](https://www.solidot.org/story?sid=56316)
+46.
 
-47.
+47. [Steam 开始默认启用加密，但中国区除外](https://www.solidot.org/story?sid=56316)
+
+48.

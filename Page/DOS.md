@@ -109,7 +109,7 @@ Digital Research曾試圖挽回CP/M-86錯失的市場。一開始是發行了[DO
 
   - [Arachne](https://zh.wikipedia.org/wiki/Arachne_\(web_browser\) "wikilink")；一套DOS版的[網路瀏覽器](https://zh.wikipedia.org/wiki/網路瀏覽器 "wikilink")
 
-  - , [gcc的DOS移植版](https://zh.wikipedia.org/wiki/GNU_Compiler_Collection "wikilink")
+  - [DJGPP](../Page/DJGPP.md "wikilink"), [gcc的DOS移植版](https://zh.wikipedia.org/wiki/GNU_Compiler_Collection "wikilink")
 
   - ，取代原本的[命令列界面的軟體](../Page/命令行界面.md "wikilink")
 

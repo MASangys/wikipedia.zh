@@ -1013,7 +1013,7 @@ AC米蘭進球 \![600px_Nero_e_azzurro_strisciato_con_stella.png](https://zh.wik
 <tr class="odd">
 <td><p><strong>4</strong></p></td>
 <td></td>
-<td><p>'''<a href="../Page/伊斯美·賓拿沙.md" title="wikilink">-{zh-hans:本内瑟;zh-hk:賓拿沙;zh-tw:本内瑟;;}-</a>（Ismaël Bennacer）</p></td>
+<td><p>'''<a href="../Page/伊斯美·賓拿沙.md" title="wikilink">-{zh-hans:本内瑟;zh-hk:賓拿沙;zh-tw:本内瑟;}-</a>（Ismaël Bennacer）</p></td>
 <td><p>中場</p></td>
 <td></td>
 <td><p>2019年</p></td>
@@ -1081,26 +1081,6 @@ AC米蘭進球 \![600px_Nero_e_azzurro_strisciato_con_stella.png](https://zh.wik
 <td><p>2,400萬歐元</p></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>93</strong></p></td>
-<td></td>
-<td><p><a href="../Page/迭戈·拉克索爾特.md" title="wikilink">-{zh-hans:拉克索尔特;zh-hk:拿索特;zh-tw:拉克索爾特}-</a>（Diego Laxalt）</p></td>
-<td><p>中場</p></td>
-<td></td>
-<td><p>2018年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/热那亚板球与足球俱樂部" title="wikilink">-{zh-hans:热那亚;zh-hk:熱拿亞;zh-tw:熱那亞}-</a></p></td>
-<td><p>1,400萬歐元</p></td>
-</tr>
-<tr class="even">
 <td><p><font color="#FF0000"><strong>前 鋒</strong></p></td>
 <td></td>
 <td></td>
@@ -1161,14 +1141,14 @@ AC米蘭進球 \![600px_Nero_e_azzurro_strisciato_con_stella.png](https://zh.wik
 <td><p>3,000萬歐元</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>27</strong></p></td>
+<td><p><strong>18</strong></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/安德烈·席尔瓦" title="wikilink">-{zh-hans:安德烈·席尔瓦;zh-hk:安達·施華}-</a>（André Silva）</p></td>
-<td><p>中鋒</p></td>
+<td><p>'''<a href="../Page/安特·雷比奇.md" title="wikilink">-{zh-hans:雷比奇;zh-hk:列比錫;zh-tw:雷比奇}-</a>（Ante Rebić）</p></td>
+<td><p>前鋒、右边锋</p></td>
 <td></td>
-<td><p>2017年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/波爾圖足球俱樂部" title="wikilink">-{zh-hans:波爾圖;zh-hk:波圖;}-</a></p></td>
-<td><p>3,800萬歐元</p></td>
+<td><p>2019年</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/法蘭克福足球會" title="wikilink">-{zh-hans:法兰克福; zh-hk:法蘭克福;zh-tw:法蘭克福;}-</a></p></td>
+<td><p>500萬歐元（一季租借費）</p></td>
 </tr>
 </tbody>
 </table>
@@ -1213,6 +1193,16 @@ AC米蘭進球 \![600px_Nero_e_azzurro_strisciato_con_stella.png](https://zh.wik
 <td></td>
 </tr>
 <tr class="even">
+<td><p><strong>27</strong></p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/安德烈·席尔瓦" title="wikilink">-{zh-hans:安德烈·席尔瓦;zh-hk:安達·施華}-</a>（André Silva）</p></td>
+<td><p>中鋒</p></td>
+<td></td>
+<td><p>2017年</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/法蘭克福足球會" title="wikilink">-{zh-hans:法兰克福; zh-hk:法蘭克福;zh-tw:法蘭克福;}-</a></p></td>
+<td><p>19/20球季</p></td>
+</tr>
+<tr class="odd">
 <td><p><strong>35</strong></p></td>
 <td></td>
 <td><p><a href="../Page/亚历山德罗·普利扎里.md" title="wikilink">-{zh-hk:比利沙尼;zh-cn:普利扎里;zh-tw:普利扎里}-</a>（Alessandro Plizzari）</p></td>
@@ -1222,17 +1212,37 @@ AC米蘭進球 \![600px_Nero_e_azzurro_strisciato_con_stella.png](https://zh.wik
 <td><p><a href="https://zh.wikipedia.org/wiki/利沃诺体育俱乐部" title="wikilink">-{zh-hans:利沃诺;zh-hk:利禾奴;zh-tw:利佛諾;}-</a></p></td>
 <td><p>19/20球季</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>77</strong></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/阿倫·夏利洛域" title="wikilink">-{zh-hans:哈利洛维奇; zh-hk:夏利洛域}-</a>（Alen Halilović）</p></td>
 <td><p>進攻中場</p></td>
 <td></td>
 <td><p>2018年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/标准列日" title="wikilink">标准列日</a></p></td>
-<td><p>18/20球季</p></td>
+<td><p><a href="../Page/海倫芬體育會.md" title="wikilink">海倫芬</a></p></td>
+<td><p>19/20球季</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
+<td><p><strong>93</strong></p></td>
+<td></td>
+<td><p><a href="../Page/迭戈·拉克索爾特.md" title="wikilink">-{zh-hans:拉克索尔特;zh-hk:拿索特;zh-tw:拉克索爾特}-</a>（Diego Laxalt）</p></td>
+<td><p>中場</p></td>
+<td></td>
+<td><p>2018年</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/都灵足球俱乐部" title="wikilink">-{zh-hans:都灵;zh-hk:拖連奴;zh-tw:杜里諾;}-</a></p></td>
+<td><p>19/20球季</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1392,6 +1402,16 @@ AC米蘭進球 \![600px_Nero_e_azzurro_strisciato_con_stella.png](https://zh.wik
 <td><p>自由轉會</p></td>
 </tr>
 <tr class="odd">
+<td><p><strong>23</strong></p></td>
+<td></td>
+<td><p><a href="../Page/伊萬·斯特里尼奇.md" title="wikilink">-{zh-hans:斯特里尼奇;zh-hk:史卓歷;}-</a>（Ivan Strinić）</p></td>
+<td><p>左后卫</p></td>
+<td></td>
+<td><p>2018年</p></td>
+<td><p>'''待定</p></td>
+<td><p>自由轉會</p></td>
+</tr>
+<tr class="even">
 <td><p><strong>63</strong></p></td>
 <td></td>
 <td><p><a href="../Page/帕特里克·库特罗内.md" title="wikilink">-{zh-cn:库特罗内; zh-hk:古度尼;}-</a>（Patrick Cutrone）</p></td>
@@ -1401,7 +1421,7 @@ AC米蘭進球 \![600px_Nero_e_azzurro_strisciato_con_stella.png](https://zh.wik
 <td><p><a href="https://zh.wikipedia.org/wiki/狼隊" title="wikilink">狼隊</a></p></td>
 <td><p>1,800萬歐元</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>73</strong></p></td>
 <td></td>
 <td><p><a href="../Page/曼努埃尔·洛卡特利.md" title="wikilink">-{zh-cn:洛卡特利;zh-hk:盧卡迪利;zh-tw:洛卡特利;}-</a>（Manuel Locatelli）</p></td>
@@ -1410,16 +1430,6 @@ AC米蘭進球 \![600px_Nero_e_azzurro_strisciato_con_stella.png](https://zh.wik
 <td><p>2016年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/萨索罗足球俱乐部" title="wikilink">-{zh-hans:萨索洛;zh-hk:薩斯索羅;}-</a></p></td>
 <td><p>1,000萬歐元</p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>23</strong></p></td>
-<td></td>
-<td><p><a href="../Page/伊萬·斯特里尼奇.md" title="wikilink">-{zh-hans:斯特里尼奇;zh-hk:史卓歷;}-</a>（Ivan Strinić）</p></td>
-<td><p>左后卫</p></td>
-<td></td>
-<td><p>2018年</p></td>
-<td><p>待定</p></td>
-<td><p>自由轉會</p></td>
 </tr>
 </tbody>
 </table>

@@ -30,25 +30,25 @@ RFC文件是由Internet Society審核後給定編號並發行。雖然經過審�
 
 ## 常见互联网协议的RFC编号
 
-  - [IP](https://zh.wikipedia.org/wiki/IP "wikilink")：791
+  - [IP](../Page/网际协议.md "wikilink")：791
   - [TCP](https://zh.wikipedia.org/wiki/TCP "wikilink")：793
-  - [UDP](https://zh.wikipedia.org/wiki/UDP "wikilink")：768
+  - [UDP](../Page/用户数据报协议.md "wikilink")：768
   - [ICMP](https://zh.wikipedia.org/wiki/ICMP "wikilink")：792
   - [FTP](https://zh.wikipedia.org/wiki/FTP "wikilink")：959
   - [SOCK5](https://zh.wikipedia.org/wiki/SOCKS#SOCKS5 "wikilink")：1928
   - [CHAP](https://zh.wikipedia.org/wiki/CHAP "wikilink")：1994
   - [SMTP](https://zh.wikipedia.org/wiki/SMTP "wikilink")：2821 5321
   - [POP3](https://zh.wikipedia.org/wiki/POP3 "wikilink")：1957
-  - [NTP](https://zh.wikipedia.org/wiki/NTP "wikilink")：1305
+  - [NTP](../Page/網路時間協定.md "wikilink")：1305
   - [HTTP](https://zh.wikipedia.org/wiki/HTTP "wikilink")1.1：2616
   - [IMAP](https://zh.wikipedia.org/wiki/IMAP "wikilink")：2060
-  - [PPP](../Page/PPP.md "wikilink")：1661－1663
+  - [PPP](../Page/点对点协议.md "wikilink")：1661－1663
   - [DHCP](https://zh.wikipedia.org/wiki/DHCP "wikilink")：2131
   - [OSPF](https://zh.wikipedia.org/wiki/OSPF "wikilink")：2328
   - [IPSec](https://zh.wikipedia.org/wiki/IPSec "wikilink")：2401－2412
   - [IPv6](../Page/IPv6.md "wikilink")：2460
-  - [SIP](https://zh.wikipedia.org/wiki/SIP "wikilink")：3261
-  - [RTP](https://zh.wikipedia.org/wiki/RTP "wikilink")：3550
+  - [SIP](../Page/對話啟動協定.md "wikilink")：3261
+  - [RTP](../Page/实时传输协议.md "wikilink")：3550
   - [RADIUS](https://zh.wikipedia.org/wiki/RADIUS "wikilink")：3575，3576，3579，3580
   - [L2TP](https://zh.wikipedia.org/wiki/L2TP "wikilink")：3931
   - [Segment Routing](https://zh.wikipedia.org/wiki/Segment_Routing "wikilink")：8402

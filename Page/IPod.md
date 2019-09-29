@@ -433,7 +433,7 @@ iTunes音乐商店最近售出了超过10亿首歌曲\[16\]。至2007年8月1日
 
 [Category:iPod](https://zh.wikipedia.org/wiki/Category:iPod "wikilink") [Category:ITunes](https://zh.wikipedia.org/wiki/Category:ITunes "wikilink") [Category:数字音频播放器](https://zh.wikipedia.org/wiki/Category:数字音频播放器 "wikilink") [Category:2001年面世的產品](https://zh.wikipedia.org/wiki/Category:2001年面世的產品 "wikilink") [Category:蘋果公司](https://zh.wikipedia.org/wiki/Category:蘋果公司 "wikilink")
 
-1.  [苹果公司宣布部分视频iPod约有1%感染病毒](http://news.xinhuanet.com/tech/2006-10/20/content_5226665.htm)，新华网
+1.  [苹果公司宣布部分视频iPod约有1%感染病毒](http://news.xinhuanet.com/tech/2006-10/20/content_5226665.htm) ，新华网
 
 2.  [Apple Unveils New iPods](http://www.apple.com/pr/library/2002/jul/17ipod.html) ，Apple Computer, Inc.
 
@@ -458,7 +458,7 @@ iTunes音乐商店最近售出了超过10亿首歌曲\[16\]。至2007年8月1日
 
 13. [$10 from every iPod nano (PRODUCT) RED sold goes directly to the Global Fund to fight AIDS in Africa.](http://www.apple.com/ipodnano/red/) ，Apple Inc.
 
-14. [iPod爆炸噴火花](http://hk.apple.nextmedia.com/template/apple/art_main.php?iss_id=20101108&sec_id=4104&subsec_id=11867&art_id=14637629) 香港蘋果日報 2010年11月08日
+14. [iPod爆炸噴火花](http://hk.apple.nextmedia.com/news/art/20101108/14637629) 香港蘋果日報 2010年11月08日
 
 15. [英國：蘋果要我封口！](http://opinions.sinchew-i.com/node/10997?tid=12)  光明日報，2009年8月4日
 

@@ -2,7 +2,7 @@
 
 在運作中，取決於 RAID 層級不同，資料會以多種模式分散於各個硬碟，RAID 層級的命名會以 RAID 開頭並帶數字，例如.RAID 0，RAID 1，RAID 5，RAID 6，RAID 7，RAID 01，RAID 10，RAID 50，RAID 60。每種等級都有其理論上的優缺點，不同的等級在兩個目標間取得平衡，分別是增加資料可靠性以及增加存储器（群）读写效能。
 
-簡單來說，RAID把多個[硬碟組合成為一個邏輯硬碟](https://zh.wikipedia.org/wiki/硬碟 "wikilink")，因此，[作業系統只會把它當作一個硬碟](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。RAID常被用在[伺服器電腦上](https://zh.wikipedia.org/wiki/伺服器 "wikilink")，並且常使用完全相同的硬碟作為組合。由於硬碟價格的不斷下降與RAID功能更加有效地與[主機板整合](https://zh.wikipedia.org/wiki/主機板 "wikilink")，它也成為普通用户的一個選擇，特別是需要大容量儲存空間的工作，如：視訊與音訊製作。
+簡單來說，RAID把多個[硬碟組合成為一個邏輯硬碟](https://zh.wikipedia.org/wiki/硬碟 "wikilink")，因此，[作業系統只會把它當作一個實體硬碟](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。RAID常被用在[伺服器電腦上](https://zh.wikipedia.org/wiki/伺服器 "wikilink")，並且常使用完全相同的硬碟作為組合。由於硬碟價格的不斷下降與RAID功能更加有效地與[主機板整合](https://zh.wikipedia.org/wiki/主機板 "wikilink")，它也成為普通用户的一個選擇，特別是需要大容量儲存空間的工作，如：視訊與音訊製作。
 
 
 

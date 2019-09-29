@@ -76,28 +76,145 @@ Debian主要分三个版本：稳定版本（stable）、测试版本（testing�
 
 目前的稳定版本为Debian Buster，上一个稳定版本是Stretch，不稳定版本永远为[Debian sid](https://zh.wikipedia.org/wiki/Debian_sid "wikilink")。到目前為止所有開發代號均出自[Pixar的電影](https://zh.wikipedia.org/wiki/Pixar "wikilink")[-{zh-hans:玩具总动员;zh-hk:反斗奇兵;zh-tw:玩具總動員;}-](../Page/玩具总动员.md "wikilink")。
 
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
+<table>
+<thead>
+<tr class="header">
+<th><p>版本</p></th>
+<th><p>代號</p></th>
+<th><p>發佈日期</p></th>
+<th><p><a href="../Page/玩具总动员.md" title="wikilink">-{zh-hans:玩具总动员;zh-hk:反斗奇兵;zh-tw:玩具總動員;}-</a></p></th>
+<th><p>註腳</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1.1</p></td>
+<td><p>Buzz</p></td>
+<td><p>1996年6月17日</p></td>
+<td><p><a href="../Page/巴斯光年.md" title="wikilink">巴斯光年</a>，電影主角之一的太空人</p></td>
+<td><p>使用Linux內核2.0</p></td>
+</tr>
+<tr class="even">
+<td><p>1.2</p></td>
+<td><p>Rex</p></td>
+<td><p>1996年12月12日</p></td>
+<td><p>-{zh-hant:暴龍;zh-hans:抱抱龙}-</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1.3</p></td>
+<td><p>Bo</p></td>
+<td><p>1997年6月2日</p></td>
+<td><p>放羊的女孩“宝贝”</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2.0</p></td>
+<td><p><a href="http://www.debian.org/releases/hamm/">Hamm</a></p></td>
+<td><p>1998年7月24日</p></td>
+<td><p>小豬-{zh-hant:撲滿;zh-hans:储蓄罐“火腿”}-</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2.1</p></td>
+<td><p><a href="http://www.debian.org/releases/slink/">Slink</a></p></td>
+<td><p>1999年3月9日</p></td>
+<td><p>-{zh-hant:玩具狗;zh-hans:弹簧狗}-</p></td>
+<td><p>APT面世</p></td>
+</tr>
+<tr class="even">
+<td><p>2.2</p></td>
+<td><p><a href="http://www.debian.org/releases/potato/">Potato</a></p></td>
+<td><p>2000年8月15日</p></td>
+<td><p>-{zh-hant:Potato Head先生;zh-hans:蛋头先生}-</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>3.0</p></td>
+<td><p><a href="http://www.debian.org/releases/woody/">Woody</a></p></td>
+<td><p>2002年7月19日</p></td>
+<td><p>胡迪，電影主角之一的牛仔</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>3.1</p></td>
+<td><p><a href="http://www.debian.org/releases/sarge/">Sarge</a></p></td>
+<td><p>2005年6月6日</p></td>
+<td><p>綠色塑膠玩具士兵的首領“队长”</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>4.0</p></td>
+<td><p><a href="http://www.debian.org/releases/etch/">Etch</a></p></td>
+<td><p>2007年4月8日</p></td>
+<td><p>-{zh-hant:玩具黑板;zh-hans:画板}-</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>5.0</p></td>
+<td><p><a href="http://www.debian.org/releases/lenny/">Lenny</a></p></td>
+<td><p>2009年2月14日</p></td>
+<td><p>望遠鏡</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>6.0</p></td>
+<td><p><a href="http://www.debian.org/releases/squeeze/">Squeeze</a></p></td>
+<td><p>2011年2月6日</p></td>
+<td><p>三只眼的外星人</p></td>
+<td><p>其<a href="https://zh.wikipedia.org/wiki/i386" title="wikilink">i386及</a><a href="https://zh.wikipedia.org/wiki/amd64" title="wikilink">amd64架構為</a><a href="../Page/長期支援.md" title="wikilink">長期支援</a>版本，是第一個包含長期支援的Debian版本，支援到2016年2月[21] 。</p></td>
+</tr>
+<tr class="even">
+<td><p>7</p></td>
+<td><p><a href="http://www.debian.org/releases/wheezy/">Wheezy</a></p></td>
+<td><p>2013年5月5日</p></td>
+<td><p>吱吱（第二部玩具總動員的一個角色，是一只帶著领结的玩具企鵝）</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>8</p></td>
+<td><p><a href="http://www.debian.org/releases/jessie/">Jessie</a></p></td>
+<td><p>2015年4月25日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/翠丝_(玩具总动员)" title="wikilink">翠絲</a>（第二部玩具總動員的一個角色，是一個為虛擬的電視劇 Woody's Roundup 而塑造的女牛仔人物）</p></td>
+<td><p>預設<a href="https://zh.wikipedia.org/wiki/init" title="wikilink">init系統切換為</a><a href="https://zh.wikipedia.org/wiki/systemd" title="wikilink">systemd</a></p></td>
+</tr>
+<tr class="even">
+<td><p>9</p></td>
+<td><p><a href="https://www.debian.org/releases/stretch/">Stretch</a></p></td>
+<td><p>2017年6月17日</p></td>
+<td><p>在第三部玩具總動員中的一隻紫色章魚</p></td>
+<td><p>上一个稳定版本，移除對<a href="https://zh.wikipedia.org/wiki/i686" title="wikilink">i686之前的</a><a href="https://zh.wikipedia.org/wiki/x86" title="wikilink">x86處理器支援</a>，另外也移除了對32位元<a href="../Page/PowerPC.md" title="wikilink">PowerPC</a>架構的支援</p></td>
+</tr>
+<tr class="odd">
+<td><p>10</p></td>
+<td><p><a href="https://www.debian.org/releases/buster/">Buster</a></p></td>
+<td><p>2019年7月6日</p></td>
+<td><p>安弟一家養的小狗</p></td>
+<td><p>当前稳定版本，支援<a href="https://zh.wikipedia.org/wiki/UEFI" title="wikilink">UEFI安全啟動</a>，預設啟用<a href="../Page/AppArmor.md" title="wikilink">AppArmor</a></p></td>
+</tr>
+<tr class="even">
+<td><p>11</p></td>
+<td><p><a href="https://www.debian.org/releases/bullseye/">Bullseye</a></p></td>
+<td></td>
+<td><p>胡迪騎的馬</p></td>
+<td><p>目前測試版本</p></td>
+</tr>
+<tr class="odd">
+<td><p>12</p></td>
+<td><p>Bookworm</p></td>
+<td></td>
+<td><p>熊抱哥的手下</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p><a href="http://www.debian.org/releases/sid/">Sid</a></p></td>
+<td></td>
+<td><p>阿薛（第二部-{zh-hant:裡;zh-hans:里}-译为“席德”），隔壁的男孩，玩具終結者</p></td>
+<td><p>Sid常被误认为是<a href="https://zh.wikipedia.org/wiki/英語" title="wikilink">英語</a>（仍在開發）的縮寫</p></td>
+</tr>
+</tbody>
+</table>
 
 ### Debian sid
 
@@ -105,13 +222,13 @@ Debian sid也称为Debian unstable，即不稳定版本，凡是Debian要收录�
 
 ### 生命周期
 
-Debian 稳定版通常每隔两年发布一个版本，自发行后会得到为期约三年的正式支持，期间会不定期得到小版本更新与持续的安全更新以修复发现的重要问题。\[21\]
+Debian 稳定版通常每隔两年发布一个版本，自发行后会得到为期约三年的正式支持，期间会不定期得到小版本更新与持续的安全更新以修复发现的重要问题。\[22\]
 
-自Debian 6开始，Debian开始了长期支持计划，在每个稳定版三年支持期结束后由长期支持团队提供额外的两年安全更新支持，但不会发布小版本。故目前的稳定版可以得到总计五年的安全更新支持。\[22\]
+自Debian 6开始，Debian开始了长期支持计划，在每个稳定版三年支持期结束后由长期支持团队提供额外的两年安全更新支持，但不会发布小版本。故目前的稳定版可以得到总计五年的安全更新支持。\[23\]
 
 ## 使用領域
 
-Debian以穩定性聞名，所以很多[伺服器都使用Debian作為其作業系統](https://zh.wikipedia.org/wiki/伺服器 "wikilink")；而很多Linux的[LiveCD亦以Debian為基礎改寫](https://zh.wikipedia.org/wiki/LiveCD "wikilink")，最為著名的例子為[Knoppix](../Page/Knoppix.md "wikilink")。而在桌面領域，Debian的一個修改版[Ubuntu Linux就獲得了很多Linux使用者的支持](../Page/Ubuntu.md "wikilink")，在 [DistroWatch.com瀏覽排名](https://web.archive.org/web/20160601200956/http://distrowatch.com/) 裡排名一直很前面。而很多信息學競賽亦採用Debian作為操作系统\[23\]。
+Debian以穩定性聞名，所以很多[伺服器都使用Debian作為其作業系統](https://zh.wikipedia.org/wiki/伺服器 "wikilink")；而很多Linux的[LiveCD亦以Debian為基礎改寫](https://zh.wikipedia.org/wiki/LiveCD "wikilink")，最為著名的例子為[Knoppix](../Page/Knoppix.md "wikilink")。而在桌面領域，Debian的一個修改版[Ubuntu Linux就獲得了很多Linux使用者的支持](../Page/Ubuntu.md "wikilink")，在 [DistroWatch.com瀏覽排名](https://web.archive.org/web/20160601200956/http://distrowatch.com/) 裡排名一直很前面。而很多信息學競賽亦採用Debian作為操作系统\[24\]。
 
 對比[Ubuntu](../Page/Ubuntu.md "wikilink")、[Fedora](../Page/Fedora.md "wikilink")、[CentOS](../Page/CentOS.md "wikilink")等Linux發行版，Debian stable（稳定版）以三年为更新周期，
 
@@ -139,9 +256,9 @@ Debian對[GNU](../Page/GNU.md "wikilink")和[UNIX](../Page/UNIX.md "wikilink")�
   - Debian擁有一些支援較舊版本套件的套件庫，例如 [backports.org](http://www.backports.org/) 和 [apt-get.org](https://web.archive.org/web/20140211162509/http://www.apt-get.org/) 的套件庫。但有時候這些套件在更新的時候未能很好地融合在系統中。
   - Debian的“測試”分支常包含了一些其實已經相當穩定的、已更新的套件。但當新的穩定版本發佈後，“測試”分支可能變得混亂。
 
-另一個批評是一些軟體和文件因為未符合Debian對自由軟體的嚴格要求，並未出現在Debian的官方套件庫中，[mplayer曾经沒有被加入為Debian的套件](https://zh.wikipedia.org/wiki/mplayer "wikilink")。\[24\] 另外也有人批評Debian把一些專有軟體放到“非自由”套件庫，而非完全把這些軟體拒諸門外。相似地，Debian曾把自由與非自由的套件同時放在其“主要”（）套件庫內，但現在已把非自由的軟體，例如專有的驅動程序，分置於不同的套件庫。
+另一個批評是一些軟體和文件因為未符合Debian對自由軟體的嚴格要求，並未出現在Debian的官方套件庫中，[mplayer曾经沒有被加入為Debian的套件](https://zh.wikipedia.org/wiki/mplayer "wikilink")。\[25\] 另外也有人批評Debian把一些專有軟體放到“非自由”套件庫，而非完全把這些軟體拒諸門外。相似地，Debian曾把自由與非自由的套件同時放在其“主要”（）套件庫內，但現在已把非自由的軟體，例如專有的驅動程序，分置於不同的套件庫。
 
-Debian的管理也被批評為過於混亂，導致開發進度緩慢，決策過程也被無止境的討論拖延。在2006年9月，同時正參與[Ubuntu](../Page/Ubuntu.md "wikilink")開發的Debian開發者離開了Debian，並批評Debian對開發者太不客氣。\[25\]
+Debian的管理也被批評為過於混亂，導致開發進度緩慢，決策過程也被無止境的討論拖延。在2006年9月，同時正參與[Ubuntu](../Page/Ubuntu.md "wikilink")開發的Debian開發者離開了Debian，並批評Debian對開發者太不客氣。\[26\]
 
 ## 衍生Linux發行版
 
@@ -225,8 +342,10 @@ Debian的管理也被批評為過於混亂，導致開發進度緩慢，決策�
 
 22.
 
-23. [IOI: All contest machines will be installed to dual-boot in Windows XP and Debian GNU/Linux 3.1.](http://ioinformatics.org/locations/ioi05/contest/rules.shtml)
+23.
 
-24. Debian網站，2006年11月1日，[The Debian and mplayer FAQ](http://people.debian.org/~mjr/legal/mplayer.html)
+24. [IOI: All contest machines will be installed to dual-boot in Windows XP and Debian GNU/Linux 3.1.](http://ioinformatics.org/locations/ioi05/contest/rules.shtml)
 
-25. [Maintainer's resignation highlights problems in Debian project](http://www.linux.com/article.pl?sid=06/09/01/149211)
+25. Debian網站，2006年11月1日，[The Debian and mplayer FAQ](http://people.debian.org/~mjr/legal/mplayer.html)
+
+26. [Maintainer's resignation highlights problems in Debian project](http://www.linux.com/article.pl?sid=06/09/01/149211)

@@ -318,7 +318,7 @@ _starling.start();
   - [Gotoandplay：一些Flash範例](http://www.gotoandplay.com/)：Flash應用（英）
   - [Flashplayer](http://www.flashplayer.com/) - 一個免費站點讓使用者可以張貼Flash動畫、遊戲、或檢視其他人作品（英）
   - [UnitZeroOne](http://www.unitzeroone.com) - 一個給Flash開發相關的博客（英）
-  - [Ioji.it](http://www.ioji.it/) - 一個Flash遊戲設計師擁有的站點；該站有Flash與ActionScript專屬論壇（英）
+  - [Ioji.it](https://web.archive.org/web/20060303150405/http://www.ioji.it/) - 一個Flash遊戲設計師擁有的站點；該站有Flash與ActionScript專屬論壇（英）
   - [CodeDrive](http://www.codedrive.com/) - Flash/ActionScript 3 IDE
   - <https://www.facebook.com/AdobeAnimateCC/?fref=ts> (Adobe Animate CC官方臉書)
   - <https://www.facebook.com/FlashDaily/?fref=ts> (FlashDaily.net官方臉書)

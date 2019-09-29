@@ -2,6 +2,8 @@
 
 VAIO的全稱是Video Audio Integrated Operation（數碼影音整合操作系統），而VAIO這四個字母，V和A組成的波浪型象徵模擬時代的波形，而I和O象徵數碼時代的1和0，以示模擬和數碼技術的完美結合，也可以理解為影音技術和信息技術的融合。2008年之後VAIO品牌全稱升級為Visual Audio Intelligent Organizer，意在將更多智慧與匠心應用於產品之中，給顧客帶來更加非凡的體驗\[1\]\[2\]\[3\]。
 
+2014年7月1日，隨著索尼的個人電腦部門接受[日本產業夥伴投資](https://zh.wikipedia.org/wiki/日本產業夥伴 "wikilink")，而脫離索尼成為VAIO公司，VAIO品牌商標也移轉為VAIO公司所擁有。
+
 ## 产品
 
 ### VAIO T/Mini Tower

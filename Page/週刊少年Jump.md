@@ -251,7 +251,7 @@ JUMP多部知名大作（[暗殺教室](https://zh.wikipedia.org/wiki/暗殺教�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/御靈保全公司" title="wikilink">御靈保全公司</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/除靈保鏢" title="wikilink">除靈保鏢</a></p></td>
 <td></td>
 <td></td>
 <td><p>－</p></td>

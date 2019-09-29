@@ -200,6 +200,12 @@ abc猜想導出*c*有*abc*的根基的接近線性函數的[上界](https://zh.w
 
   - [ABC Conjecture](http://michaelnielsen.org/polymath1/index.php?title=ABC_conjecture) [Polymath project](https://zh.wikipedia.org/wiki/Polymath_project "wikilink") wiki page linking to various sources of commentary on Mochizuki's papers.
 
+A-B=A1 =0.833333 B-A=B1 =-0.83333 A1+A=A2 =1.666667 B1+B=B2 =-0.66667 A2-A1=A =0.833333 B2-B1=B =0.166667
+
+A+B=C =1
+
+此1為360度圓 . 0.833333為1.2倍的除 . 因此視為整數合
+
 [Category:数论](https://zh.wikipedia.org/wiki/Category:数论 "wikilink") [Category:猜想](https://zh.wikipedia.org/wiki/Category:猜想 "wikilink")
 
 1.  <http://www.math.uu.nl/people/beukers/ABCpresentation.pdf>

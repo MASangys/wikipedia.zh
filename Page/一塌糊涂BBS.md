@@ -2,8 +2,6 @@
 
 **一塌糊涂BBS**（YTHT BBS），是一个完全民间性质的[BBS](../Page/BBS.md "wikilink")站点，1999年9月17日開設，曾是[中国大陆](../Page/中国大陆.md "wikilink")非常具有影响力的一个BBS，在2004年9月關站前也是[教育网内平均在线人数最多的BBS](https://zh.wikipedia.org/wiki/教育网 "wikilink")。在其管理理念的影响下，BBS上的[言论自由程度较高](https://zh.wikipedia.org/wiki/言论自由 "wikilink")，民主氛围较浓，受此影响，一塌糊涂多次面临共产党政权的政治压力，曾多次被要求局部版面整顿和设为只读状态，并于2004年9月13日下午被[北京市通信管理局](../Page/北京市通信管理局.md "wikilink")执行关站，當時北大部分教授对此次关站的合法性提出了质疑，\[1\]2007年1月重新開放。
 
-一塌糊涂BBS站名取其“一、塔、湖、图”谐音。这是对[北京大学](../Page/北京大学.md "wikilink")校园内著名地点的一个概括，即[博雅塔](https://zh.wikipedia.org/wiki/博雅塔 "wikilink")、[未名湖和](https://zh.wikipedia.org/wiki/未名湖 "wikilink")[北京大学图书馆](../Page/北京大学图书馆.md "wikilink")。
-
 ## 简史
 
 一塌糊涂BBS最初是1999年9月17日由[北京大学物理系研究生lepton架设](https://zh.wikipedia.org/wiki/北京大学物理系 "wikilink")，主要面向於北京大学学生的小型BBS，最初的域名为lepton.dhs.org。后来逐渐发展为中国大陆[教育网内最大的BBS之一](https://zh.wikipedia.org/wiki/教育网 "wikilink")。

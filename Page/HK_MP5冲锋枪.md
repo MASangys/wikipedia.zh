@@ -314,7 +314,8 @@ MP5現今在[土耳其](../Page/土耳其.md "wikilink")、[希臘](https://zh.w
       -
   -
   -   -
-      -
+      - [摩洛哥皇家海軍](../Page/摩洛哥皇家海軍.md "wikilink")
+
       -
   -
   -   - [荷蘭軍隊](../Page/荷蘭軍隊.md "wikilink")

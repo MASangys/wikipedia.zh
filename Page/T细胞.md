@@ -1,11 +1,3 @@
-（/
-
-{Infobox anatomy
-
-| Name = T细胞(KILL) | Latin = lymphocytus T | GraySubject = | GrayPage = | Image = Healthy Human T Cell.jpg | Caption = 人类T细胞的扫描电子显微镜图= | Image2 = Red White Blood cells.jpg | Caption2 = T淋巴细胞（右）（有异议）、[血小板](../Page/血小板.md "wikilink")（中）和[红细胞](https://zh.wikipedia.org/wiki/红细胞 "wikilink")（左）的扫描电子显微镜图片 | ImageMap = | MapCaption = | Precursor = | System = 免疫系统 | Artery = | Vein = | Nerve = | Lymph = | MeshName = | MeshNumber = | Code =  | Dorlands = | DorlandsID =
-
-}}
-
 **T细胞**（、T淋巴細胞/）是[淋巴细胞的一种](https://zh.wikipedia.org/wiki/淋巴细胞 "wikilink")，在[免疫反應中扮演着重要的角色](https://zh.wikipedia.org/wiki/免疫反應 "wikilink")。T细胞再被製造出來之後，在胸腺内進行「新兵訓練」分化成熟為不同類型的免疫細胞，成熟后就移居于周围[淋巴组织中開始工作](https://zh.wikipedia.org/wiki/淋巴组织 "wikilink")。T是“[胸腺](../Page/胸腺.md "wikilink")”（thymus）而不是[甲狀腺](https://zh.wikipedia.org/wiki/甲狀腺 "wikilink")（thyroid）的[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")[缩写](https://zh.wikipedia.org/wiki/缩写 "wikilink")。T细胞膜表面分子与T细胞的功能相关，也是T细胞的[表面标志](https://zh.wikipedia.org/wiki/表面标志 "wikilink")（cell-surface marker），可以用以分离、鉴定不同亚群的T细胞。
 
 ## 分类

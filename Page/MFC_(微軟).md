@@ -171,7 +171,9 @@ BOOL (CWnd::*)(WPARAM, LPARAM lParam) => void (CWnd::*)() => void (CCmdTarget::*
 
 ## CString
 
-CString是MFC中最常见的类之一，用于封装字符串数据结构。它只有一个数据成员m_pszData，其值为字符串的首地址，其数据类型为wchar_t\*或char\*。但是在m_pszData的前面实际还分配了CSringData数据块，包含了`IAtlStringMgr* pStringMgr; int nDataLength; int nAllocLength; int nRefs;`等管理数据。因此，每次为CString动态分配地址空间，实际分配长度为:`(nChars+1)*nCharSize+sizeof(CStringData)`。当执行CString的默认构造函数生成一个空串时，实际上都是构造一个CnilStringData对象。
+CString是MFC中最常见的类之一，用于封装字符串数据结构。它只有一个数据成员m_pszData，其值为字符串的首地址，其数据类型为wchar_t\*或char\*。在CString的m_pszData的前面实际还分配了CSringData数据块，包含了`IAtlStringMgr* pStringMgr; int nDataLength; int nAllocLength; int nRefs;`等管理数据。CAtlStringMgr提供内存管理，CStringData提供共享管理。而更上层的CString提供字符串操作。CAtlStringMgr的一个成员是IAtlMemMgr接口，这是[策略模式](../Page/策略模式.md "wikilink")，可以引用某个内存管理类。CAtlStringMgr的另一个成员是CNilStringData。
+
+因此，每次为CString动态分配地址空间，实际分配长度为:`(nChars+1)*nCharSize+sizeof(CStringData)`。当执行CString的默认构造函数生成一个空串时，实际上都是构造一个CnilStringData对象。
 
 部分编译器对std::string放弃了[写时复制](https://zh.wikipedia.org/wiki/写时复制 "wikilink")（Copy On Write）机制。但是，CString一直采取这一机制。GetString方法返回的是只读的字符串地址；而GetBuffer方法返回的是**可写**的字符串地址，如果修改了字符串内容，这时需要调用ReleaseBuffer方法把新的字符串长度修改到元数据中。
 

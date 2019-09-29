@@ -10,7 +10,7 @@
   - 分卷压缩：压缩后分割为多个文件。
   - 固实压缩：把要压缩的视为同一个文件以加大压缩比，代价是取用包中任何文件需解压整个压缩包。
   - 恢复记录：加入冗余数据用于修复，在压缩包本身损坏但恢复记录够多时可对损坏压缩包进行恢复。
-  - [加密](https://zh.wikipedia.org/wiki/加密 "wikilink")：RAR 2.0使用[AES-128-cbc](../Page/高级加密标准.md "wikilink")，（rar5.0以后为AES-256CBC）。之前RAR的加密算法为私有。目前均未被直接攻破（至少没有公开），没有密码时-{只}-有[暴力破解](https://zh.wikipedia.org/wiki/暴力破解法 "wikilink")。
+  - [加密](../Page/加密.md "wikilink")：RAR 2.0使用[AES-128-cbc](../Page/高级加密标准.md "wikilink")，（rar5.0以后为AES-256CBC）。之前RAR的加密算法为私有。目前均未被直接攻破（至少没有公开），没有密码时-{只}-有[暴力破解](https://zh.wikipedia.org/wiki/暴力破解法 "wikilink")。
 
 ## 外部链接
 

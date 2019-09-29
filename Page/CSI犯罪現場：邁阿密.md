@@ -48,7 +48,7 @@
 
 <!-- end list -->
 
-  - **卡莉·杜肯（）**：[艾蜜莉·普克特](https://zh.wikipedia.org/wiki/艾蜜莉·普克特 "wikilink")（）飾演，[彈道學專家](https://zh.wikipedia.org/wiki/彈道 "wikilink")，出生於[路易西安那州](https://zh.wikipedia.org/wiki/路易西安那州 "wikilink")[達尼爾](https://zh.wikipedia.org/wiki/達尼爾 "wikilink")（），[西班牙語十分流利](https://zh.wikipedia.org/wiki/西班牙語 "wikilink")，曾在[圖蘭大學](https://zh.wikipedia.org/wiki/圖蘭大學 "wikilink")（）獲得[物理學學士學位](https://zh.wikipedia.org/wiki/物理學 "wikilink")。在紐奧爾良警察局工作的時候，她有個綽號叫「子彈女孩」，後來調到邁阿密警局。父親是個多次戒酒失敗的酗酒律師，母親據信應該還住在路易西安那。跟父親感情很好，她爸爸叫她的小名是"Lamb"。第七季在办案中遭遇突发火灾，生命遇险，幸好在医院得到Alexx的抢救脱险。第八季則因演員艾蜜莉·波克特本人懷孕待產，而暫時未能參與演出。
+  - **卡莉·杜肯（）**：[艾蜜莉·普克特](https://zh.wikipedia.org/wiki/艾蜜莉·普克特 "wikilink")（）飾演，[彈道學專家](https://zh.wikipedia.org/wiki/彈道 "wikilink")，出生於[路易西安那州](https://zh.wikipedia.org/wiki/路易西安那州 "wikilink")[達尼爾](https://zh.wikipedia.org/wiki/達尼爾 "wikilink")（），[西班牙語十分流利](https://zh.wikipedia.org/wiki/西班牙語 "wikilink")，曾在[圖蘭大學](https://zh.wikipedia.org/wiki/圖蘭大學 "wikilink")（）獲得[物理學學士學位](https://zh.wikipedia.org/wiki/物理學 "wikilink")。在紐奧爾良警察局工作的時候，她有個綽號叫「子彈女孩」，後來調到邁阿密警局。父親是個多次戒酒失敗的酗酒律師，母親據信應該還住在路易西安那。跟父親感情很好，她爸爸叫她的小名是"Lamb"。第七季在办案中遭遇突发火灾，生命遇险，幸好在医院得到Alexx的抢救脱险。第九季則因演員艾蜜莉·波克特本人懷孕待產，而多數鏡頭都是坐著，避開肚子。
 
 <!-- end list -->
 

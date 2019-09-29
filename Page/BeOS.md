@@ -12,22 +12,22 @@
 
 ### 版本歷史
 
-| 版本                                                                      | 發佈日期             | 平台                                                                                                           |
-| ----------------------------------------------------------------------- | ---------------- | ------------------------------------------------------------------------------------------------------------ |
-| DR1–DR5                                                                 | October 1995     | [AT\&T Hobbit](https://zh.wikipedia.org/wiki/AT&T_Hobbit "wikilink")                                         |
-| DR6 (developer release)                                                 | January 1996     | [PowerPC](../Page/PowerPC.md "wikilink")                                                                     |
-| DR7                                                                     | April 1996       |                                                                                                              |
-| DR8                                                                     | September 1996   |                                                                                                              |
-| Advanced Access Preview Release                                         | May 1997         |                                                                                                              |
-| PR1 (preview release)                                                   | June 1997        |                                                                                                              |
-| PR2                                                                     | October 1997     |                                                                                                              |
-| R3                                                                      | March 1998       | [PowerPC](../Page/PowerPC.md "wikilink") and [Intel x86](https://zh.wikipedia.org/wiki/Intel_x86 "wikilink") |
-| R3.1                                                                    | June 1998        |                                                                                                              |
-| R3.2                                                                    | July 1998        |                                                                                                              |
-| R4                                                                      | November 4, 1998 |                                                                                                              |
-| R4.5 ("Genki")                                                          | June 1999        |                                                                                                              |
-| [R5 PE/Pro ("Maui")](https://zh.wikipedia.org/wiki/BeOS_R5 "wikilink")  | March 2000       |                                                                                                              |
-| [R5.1 ("Dano")](https://zh.wikipedia.org/wiki/Dano_\(BeOS\) "wikilink") | November 2001    | [Intel x86](https://zh.wikipedia.org/wiki/Intel_x86 "wikilink")                                              |
+| 版本                                                                      | 發佈日期       | 平台                                                                                                           |
+| ----------------------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------ |
+| DR1–DR5                                                                 | 1995年10月   | [AT\&T Hobbit](https://zh.wikipedia.org/wiki/AT&T_Hobbit "wikilink")                                         |
+| DR6 (developer release)                                                 | 1996年1月    | [PowerPC](../Page/PowerPC.md "wikilink")                                                                     |
+| DR7                                                                     | 1996年4月    |                                                                                                              |
+| DR8                                                                     | 1996年9月    |                                                                                                              |
+| Advanced Access Preview Release                                         | 1997年5月    |                                                                                                              |
+| PR1 (preview release)                                                   | 1997年6月    |                                                                                                              |
+| PR2                                                                     | 1997年10月   |                                                                                                              |
+| R3                                                                      | 1998年3月    | [PowerPC](../Page/PowerPC.md "wikilink") and [Intel x86](https://zh.wikipedia.org/wiki/Intel_x86 "wikilink") |
+| R3.1                                                                    | 1998年6月    |                                                                                                              |
+| R3.2                                                                    | 1998年7月    |                                                                                                              |
+| R4                                                                      | 1998年12月4日 |                                                                                                              |
+| R4.5 ("Genki")                                                          | 1999年6月    |                                                                                                              |
+| [R5 PE/Pro ("Maui")](https://zh.wikipedia.org/wiki/BeOS_R5 "wikilink")  | 2000年3月    |                                                                                                              |
+| [R5.1 ("Dano")](https://zh.wikipedia.org/wiki/Dano_\(BeOS\) "wikilink") | 2001年11月   | [Intel x86](https://zh.wikipedia.org/wiki/Intel_x86 "wikilink")                                              |
 
 ## 特征
 
@@ -48,11 +48,11 @@ BeOS的設計理念是專門用於多媒體處理的“多媒體作業系統”�
 
 ### 缺点
 
-  - 有限的硬件支援
-  - 有限的可选应用程式
-  - 有限的办公文档相容性
-  - 系统的维护勉强
-  - 非标准的web浏览器
+  - 硬體支援不佳
+  - 應用程式選擇不多
+  - 對文件格式支援有限
+  - 系统维护不佳
+  - 未完全遵循網路標準
 
 ## 衍生版本及現況
 

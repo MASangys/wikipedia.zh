@@ -4,7 +4,7 @@
 
 [macOS Server](https://zh.wikipedia.org/wiki/macOS_Server "wikilink") 也同时于2001年发售，架构上来说与工作站（客户端）版本相同，只有在包含的工作群组管理和管理软件工具上有所差异，提供对于关键网络服务的简化存取，像是邮件传输服务器、[Samba](../Page/Samba.md "wikilink") 软件、[轻型目录访问协议](../Page/轻型目录访问协议.md "wikilink")服务器以及[域名系统](../Page/域名系统.md "wikilink")。同时它也有不同的授权类型。
 
-其包含两个主要的部分：[核心名为](../Page/内核.md "wikilink") [Darwin](https://zh.wikipedia.org/wiki/Apple_Darwin "wikilink")，是以 [BSD](../Page/BSD.md "wikilink") 源代码和 [Mach](../Page/Mach.md "wikilink") 微核心为基础，由苹果公司和独立开发者社群合作开发；及一个由苹果公司开发，名为 [Aqua](../Page/Aqua_\(GUI\).md "wikilink") 的[专利](../Page/专利.md "wikilink")的图形用户界面。
+其包含两个主要的部分：[核心名为](../Page/内核.md "wikilink") [Darwin](https://zh.wikipedia.org/wiki/Apple_Darwin "wikilink")，是以 [BSD](../Page/BSD.md "wikilink") 源代码和 [Mach](../Page/Mach.md "wikilink") 微核心为基础，由苹果公司和独立开发者社群合作开发；及一个由苹果公司开发，名为 [Aqua](../Page/Aqua_\(GUI\).md "wikilink") 的[专利](../Page/专利.md "wikilink")的[圖形使用者介面](https://zh.wikipedia.org/wiki/圖形使用者介面 "wikilink")。
 
 ## 歷史
 
@@ -55,7 +55,7 @@ macOS包含了自家的軟體開發程式，其重大的特色是名為[Xcode](.
 
 ### 兼容性
 
-儘管蘋果官方聲稱，macOS只能在使用G3或更高階的微處理器的電腦上運行。但實際上，透過修改，macOS亦能成功安裝並運行在較早期的Power PC 604e上；甚至有人\[5\]透過[PearPC](../Page/PearPC.md "wikilink")模擬器Linux版，在更早期的Centris 650（25MHz）上安裝Mac OS X 10.3，只是以此方式安裝的macOS，沒有多大的實用價值可言。（僅系統自我檢測便得花上數天時間）
+儘管蘋果官方聲稱，macOS只能在使用G3或更高階的微處理器的電腦上運行。但實際上，透過修改，macOS亦能成功安裝並運行在較早期的Power PC 604e上；甚至有人\[5\]透過[PearPC](../Page/PearPC.md "wikilink")[模擬器Linux版](https://zh.wikipedia.org/wiki/模擬器 "wikilink")，在更早期的Centris 650（25MHz）上安裝Mac OS X 10.3，只是以此方式安裝的macOS，沒有多大的實用價值可言。（僅系統自我檢測便得花上數天時間）
 
 macOS透過提供一種稱為[Classic环境的模擬環境](https://zh.wikipedia.org/wiki/Classic环境 "wikilink")，保留了與較舊的[Mac OS應用程式的相容性](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")，允許使用者在macOS中把[Mac OS 9當作一個程式行程來執行](../Page/Mac_OS_9.md "wikilink")，使大部分舊的應用程式就像在舊的作業系統下執行一樣。另外，給Mac OS 9和macOS的[Carbon](https://zh.wikipedia.org/wiki/Carbon "wikilink") API可以創造出允許在兩種系統執行的程式碼。OpenStep的API也依然可以使用，但是蘋果現在把它稱為[Cocoa](../Page/Cocoa.md "wikilink")技術。（這個遺留下來的傳統可以在Cocoa API中看到，大部分的類別名稱都是以NeXTSTEP的縮寫"NS"開頭。）給開發者的第四個選項是可以在macOS當作"第一等公民"一樣的[Java](../Page/Java.md "wikilink")平台上寫應用程式—事實上這就是說Java應用程式儘可能的與作業系統合適地搭配而仍然能夠""，以及他的[GUI](https://zh.wikipedia.org/wiki/GUI "wikilink")，是以[Swing撰寫的](../Page/Swing_\(Java\).md "wikilink")，看起來幾乎完全地與天生的Cocoa介面類似。
 
@@ -63,7 +63,7 @@ macOS透過提供一種稱為[Classic环境的模擬環境](https://zh.wikipedia
 
 對於早期的macOS版本，有支援的標準硬體平台是以[PowerPC](../Page/PowerPC.md "wikilink") G3、G4、G5處理器的麥金塔電腦產品線（膝上型、桌上型、或是伺服器）。後期的macOS版本不再支援某些老舊的硬體、舉例來說，Panther不支援"米黃色" G3，以及Tiger不支援蘋果在推出[FireWire之前的系統](https://zh.wikipedia.org/wiki/FireWire "wikilink")。然而，免費的工具像是[XPostFacto可以使得蘋果官方宣稱不支援的某些舊系統可以安裝macOS](https://zh.wikipedia.org/wiki/XPostFacto "wikilink")，包含某些G3之前的系統。作業系統針對所有支援的硬體提供相同的功能，除了基本硬體的限制之外（例如，CD-ROM不能燒錄CD）以及在更多先進配備上盡量增快效能（例如圖形加速）。
 
-於2005年6月6日，[史蒂夫·乔布斯](../Page/史蒂夫·乔布斯.md "wikilink")在蘋果每年的[蘋果公司全球軟體開發者年會中發表演說](https://zh.wikipedia.org/wiki/蘋果公司全球軟體開發者年會 "wikilink")，表示接下來的兩年間蘋果將會從[PowerPC](../Page/PowerPC.md "wikilink")轉換到[英特尔](../Page/英特尔.md "wikilink")的微處理器\[6\]，而且在這個轉變的期間，macOS都會支援兩種平台。對於PowerPC平台的支援會一直持續到10.5版，但是同時支援兩種平台多久的時間並不清楚（Mac OS對於[摩托罗拉](../Page/摩托罗拉.md "wikilink")[68k架構的支援一直持續到PowerPC系統推出後的約四年](https://zh.wikipedia.org/wiki/68k "wikilink")）。新版的[Xcode](../Page/Xcode.md "wikilink")支援建造[通用二进制](../Page/通用二进制.md "wikilink")，可以在兩種架構執行。PowerPC程式碼在Intel為基礎的Mac會使用稱為[Rosetta的模擬器來提供支援](https://zh.wikipedia.org/wiki/Rosetta_\(軟體\) "wikilink")。賈伯斯也證實先前的謠言，就是蘋果之前每一版的macOS開發週期都有Intel微處理器的版本。像是跨平台的能力已經早就存在macOS的血統中 - 就是macOS的前身，OPENSTEP，已經被移植到很多個架構下，包含Intel的x86，以及macOS的核心作業系統[Apple Darwin也移植到x](https://zh.wikipedia.org/wiki/Apple_Darwin "wikilink")86，早在macOS第一次推出就可以免費下載。然而，蘋果聲明x86平台的macOS將不會支援Classic環境。
+於2005年6月6日，[史蒂夫·乔布斯](../Page/史蒂夫·乔布斯.md "wikilink")在蘋果每年的[蘋果公司全球軟體開發者年會中發表演說](https://zh.wikipedia.org/wiki/蘋果公司全球軟體開發者年會 "wikilink")，表示接下來的兩年間蘋果將會從[PowerPC](../Page/PowerPC.md "wikilink")轉換到[英特尔](../Page/英特尔.md "wikilink")的微處理器\[6\]，而且在這個轉變的期間，macOS都會支援兩種平台。對於PowerPC平台的支援會一直持續到10.5版，但是同時支援兩種平台多久的時間並不清楚（Mac OS對於[摩托罗拉](../Page/摩托罗拉.md "wikilink")[68k架構的支援一直持續到PowerPC系統推出後的約四年](https://zh.wikipedia.org/wiki/68k "wikilink")）。新版的[Xcode](../Page/Xcode.md "wikilink")支援建造[通用二进制](../Page/通用二进制.md "wikilink")，可以在兩種架構執行。PowerPC程式碼在Intel為基礎的Mac會使用稱為[Rosetta的](https://zh.wikipedia.org/wiki/Rosetta_\(軟體\) "wikilink")[模擬器來提供支援](https://zh.wikipedia.org/wiki/模擬器 "wikilink")。賈伯斯也證實先前的謠言，就是蘋果之前每一版的macOS開發週期都有Intel微處理器的版本。像是跨平台的能力已經早就存在macOS的血統中 - 就是macOS的前身，OPENSTEP，已經被移植到很多個架構下，包含Intel的x86，以及macOS的核心作業系統[Apple Darwin也移植到x](https://zh.wikipedia.org/wiki/Apple_Darwin "wikilink")86，早在macOS第一次推出就可以免費下載。然而，蘋果聲明x86平台的macOS將不會支援Classic環境。
 
 ## 版本
 

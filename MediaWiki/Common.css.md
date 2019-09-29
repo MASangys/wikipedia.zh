@@ -572,6 +572,7 @@ Messagebox templates
 `  width: 80%;`
 `  margin: 0 auto 1em auto;`
 `  padding: .2em;`
+`  display: inherit; /* 臨時抑制 `<https://phabricator.wikimedia.org/T232553>` 及 `<https://gerrit.wikimedia.org/r/535738>` 的修改 */`
 
 } .messagebox.merge {
 

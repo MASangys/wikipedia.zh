@@ -578,7 +578,7 @@ AT&amp;T Center[31]</p></td>
 
 ## 劳资关系
 
-NBA球员工会称作**国家篮球球员协会**（**[NBPA](../Page/美國國家籃球協會球員工會.md "wikilink")**），由前[波士顿凯尔特人](../Page/波士顿凯尔特人.md "wikilink")球星[鲍勃·库锡](../Page/鲍勃·库锡.md "wikilink")于1954年建立\[36\]，负责代表球员与球队老板进行谈判，并维护球员们的利益。工会执行主管是，工会现任主席是来自[休斯顿火箭队的](https://zh.wikipedia.org/wiki/休斯顿火箭队 "wikilink")[克里斯·保罗](https://zh.wikipedia.org/wiki/克里斯·保罗 "wikilink")。劳资协议（Collective Bargaining Agreement，简称**[CBA](https://zh.wikipedia.org/wiki/NBA劳资协议 "wikilink")**）是NBPA和NBA达成的一个合约，是所有球员合同的基础。
+NBA球员工会称作**国家篮球球员协会**（**[NBPA](../Page/美國國家籃球協會球員工會.md "wikilink")**），由前[波士顿凯尔特人](../Page/波士顿凯尔特人.md "wikilink")球星[鲍勃·库锡](../Page/鲍勃·库锡.md "wikilink")于1954年建立\[36\]，负责代表球员与球队老板进行谈判，并维护球员们的利益。工会执行主管是，工会现任主席是来自[俄克拉馬雷霆的](https://zh.wikipedia.org/wiki/俄克拉馬雷霆 "wikilink")[克里斯·保罗](https://zh.wikipedia.org/wiki/克里斯·保罗 "wikilink")。劳资协议（Collective Bargaining Agreement，简称**[CBA](https://zh.wikipedia.org/wiki/NBA劳资协议 "wikilink")**）是NBPA和NBA达成的一个合约，是所有球员合同的基础。
 
 [1998年](https://zh.wikipedia.org/wiki/1998年体育 "wikilink")，由于NBPA拒绝NBA提出的将球员工资由占**[BRI](https://zh.wikipedia.org/wiki/BRI "wikilink")**的57%降到48%和设立硬[工资帽的提议](https://zh.wikipedia.org/wiki/工资帽 "wikilink")，NBA从7月1日起关闭球馆并停止一切商业活动，直到第二年的1月20日双方达成协议签订了新的CBA。这次长达7个月191天的停摆是NBA历史上最长的一次停止运作，[1998-99赛季常规赛最终被压缩到](https://zh.wikipedia.org/wiki/1998-99_NBA赛季 "wikilink")50场，同时[全明星周末亦停办](../Page/NBA全明星周末.md "wikilink")；球员损失工资达到四亿美元，而球队及NBA联盟损失接近十亿美元\[37\]。
 

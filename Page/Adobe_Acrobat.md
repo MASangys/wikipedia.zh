@@ -491,7 +491,7 @@ Adobe從未推出Adobe Writer或Acrobat Writer，儘管Adobe曾有一個稱為PD
 
 ### Reader Touch
 
-Reader Touch是Adobe爲Windows 8/8.1/RT/RT8.1/10系統中提供的Metro版Reader應用程序
+Reader Touch是Adobe爲Windows 8/8.1/RT/RT8.1/10系統中提供的Metro版Reader應用程序，包括MacOS也有支持。
 
 特色（自Windows Store）
 

@@ -1,6 +1,6 @@
 2000年[微软公司收购同名公司后](https://zh.wikipedia.org/wiki/微软公司 "wikilink")，**Visio**成为微软公司的产品。
 
-**Microsoft Visio**（，）是[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink") [操作系统](../Page/操作系统.md "wikilink")下运行的流程图软件，它现在是[Microsoft Office软件的一个部分](../Page/Microsoft_Office.md "wikilink")。Visio可以制作的图表范围十分广泛，有些人利用Visio的强大绘图功能绘制地图、企业标志等，同时Visio支持将档案保存为svg、dwg等[矢量图形](../Page/矢量图形.md "wikilink")通用格式，因此受到广泛欢迎。它的最新版本为2016。
+**Microsoft Visio**（，）是[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink") [操作系统](../Page/操作系统.md "wikilink")下运行的流程图软件，它现在是[Microsoft Office软件的一个部分](../Page/Microsoft_Office.md "wikilink")。Visio可以制作的图表范围十分广泛，有些人利用Visio的强大绘图功能绘制地图、企业标志等，同时Visio支持将档案保存为svg、dwg等[矢量图形](../Page/矢量图形.md "wikilink")通用格式，因此受到广泛欢迎。它的最新版本为2019。
 
 ## 版本
 
@@ -21,6 +21,8 @@
   - Office Visio 2010 (14.0; Standard, Professional, Premium)
   - Office Visio 2013 (15.0; Standard, Professional)
   - Office Visio 2016 (16.0; Standard, Professional)
+  - Visio Online Plan 1 (Web based editor), Visio Online Plan 2 (Desktop, Office 365)
+  - Office Visio 2019 (16.0; Standard, Professional)
 
 ## 档案格式
 
@@ -36,7 +38,7 @@
 
 ## 外部链接
 
-  - [Microsoft Office Online: Visio 2016](http://www.visio.com)
+  - [Microsoft Office Online: Visio 2019](http://www.visio.com)
   - [Visio Stencil and Template for UML 2.0](http://www.phruby.com/stencildownload.html) by Pavel Hruby
 
 [Category:Microsoft_Office](https://zh.wikipedia.org/wiki/Category:Microsoft_Office "wikilink") [Category:流程图软件](https://zh.wikipedia.org/wiki/Category:流程图软件 "wikilink")

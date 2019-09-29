@@ -11,11 +11,11 @@
 Blender可以運行於不同的平台，而且安裝後佔很少空間。雖然它經常不支援說明文檔或範例發佈，但其擁有極豐富的功能，而且絕大部份是高端模組塑造軟體。其特性有：
 
   - 支持不同的幾何圖元，包括多邊形網紋，快速表層塑模，曲線及向量字元。
-  - 多用途的內部渲染及整合[YafRay這個開源的射線追蹤套件](https://zh.wikipedia.org/wiki/YafRay "wikilink")。
+  - 內建[cycle光線追蹤渲染引擎](https://zh.wikipedia.org/wiki/cycle "wikilink")，可提供真實的畫面
+  - 同時也有[eevee實時渲染引擎](https://zh.wikipedia.org/wiki/eevee "wikilink")(類似遊戲引擎)，可即時提供極佳的預覽畫面
   - 動畫工具，包括了[反向動作組件](https://zh.wikipedia.org/wiki/反向動作 "wikilink")，可設定骨幹，結構變形，關鍵影格，時間線，非線性動畫，系統規定參數，頂點量重及柔化動量組件，包括網孔碰撞偵察和一個具有偵察碰撞的粒子系統。
   - 使用[Python](../Page/Python.md "wikilink")語言來創作及製作遊戲及工作自動化腳本。\[2\]
   - 基本的非線性影像編輯及製作功能。
-  - [Game Blender](../Page/Game_Blender.md "wikilink")，一個子計劃，用以製作實時的[電腦遊戲](https://zh.wikipedia.org/wiki/電腦遊戲 "wikilink")。
 
 [Engine_movingparts.jpg](https://zh.wikipedia.org/wiki/File:Engine_movingparts.jpg "fig:Engine_movingparts.jpg")渲染完成的[光线跟踪和环境光吸收特效的图象](https://zh.wikipedia.org/wiki/光线跟踪 "wikilink")\]\] [Physics-Fluid-Simulation-Blender.gif](https://zh.wikipedia.org/wiki/File:Physics-Fluid-Simulation-Blender.gif "fig:Physics-Fluid-Simulation-Blender.gif")
 

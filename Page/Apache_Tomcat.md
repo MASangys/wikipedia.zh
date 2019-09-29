@@ -6,7 +6,7 @@ Tomcat提供了一个Jasper[编译器用以将JSP编译成对应的Servlet](http
 
 Tomcat的Servlet引擎通常与[Apache或者其他Web服务器一起工作](https://zh.wikipedia.org/wiki/Apache "wikilink")。除了用于开发过程中的调试以及那些对速度和事务处理只有很小要求的用户，很少会将Tomcat单独作为Web服务器。但随着版本的更新，正有越来越多的用户将其单独作为Web服务器用以那些对速度和可靠性有较高要求的环境中。
 
-## 开發状况
+## 开发状况
 
 和其他Apache软件基金会旗下的项目一样，Tomcat是由该基金会的会员和其他志愿者开发与维护的，并且是一个被置于[Apache协议之下的](https://zh.wikipedia.org/wiki/Apache协议 "wikilink")[开源软件](../Page/开源软件.md "wikilink")。用户可以根据该协议免费获得其源代码及可执行文件。最初被发布出来的版本是Tomcat 3.0.x。
 

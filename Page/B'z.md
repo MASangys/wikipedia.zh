@@ -162,7 +162,7 @@ B'z首次在觀眾面前披露現場表演，是1989年在TM NETWORK及[FENCE OF
 
 2001年，31st單曲「[ultra soul](https://zh.wikipedia.org/wiki/ultra_soul "wikilink")」發售後舉辦了『B'z LIVE-GYM 2001 "ELEVEN"』，在首次舉辦音樂會的[札幌巨蛋](../Page/札幌巨蛋.md "wikilink")拍攝了32nd單曲「[GOLD](../Page/GOLD_\(B'z單曲\).md "wikilink")」的Music Video。此外，這年在[臺北與](../Page/臺北市.md "wikilink")[香港](../Page/香港.md "wikilink")舉辦了B'z的首次海外公演。2002年，在伴隨著舉辦『[2002年國際足總世界盃](https://zh.wikipedia.org/wiki/2002年國際足總世界盃 "wikilink")』所發售的[合輯](https://zh.wikipedia.org/wiki/合輯 "wikilink")『[2002 FIFA World Cup Official Album](https://zh.wikipedia.org/wiki/w:_The_Official_Album_of_the_2002_FIFA_World_Cup "wikilink")』Songs of KOREA/JAPAN盤，以「DEVIL」參加，並在[東京體育場](../Page/東京體育場.md "wikilink")舉辦的國際足球聯盟（*FIFA*）首次出演官方音樂會『2002 FIFA World Cup KOREA/JAPAN Official Concert International Day』。在世界盃與[Aerosmith一起披露了](https://zh.wikipedia.org/wiki/史密斯飛船 "wikilink")「Train Kept A Rollin」。此外，12th專輯『[GREEN](../Page/GREEN_\(B'z專輯\).md "wikilink")』發售後除了舉辦了『B'z LIVE-GYM 2002 "GREEN 〜GO★FIGHT★WIN〜"』以外，在[聖地牙哥](../Page/聖地牙哥.md "wikilink")與[洛杉磯舉辦了首次](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")[美國公演](https://zh.wikipedia.org/wiki/美國 "wikilink")『B'z LIVE-GYM 2002 "Rock n' California Roll"』。並且，這年的支援樂手成員，[Billy Sheehan參加了](https://zh.wikipedia.org/wiki/Billy_Sheehan "wikilink")[貝斯](https://zh.wikipedia.org/wiki/貝斯 "wikilink")。冬季發售了首張抒情精選輯『[The Ballads 〜Love & B'z〜](../Page/The_Ballads_〜Love_&_B'z〜.md "wikilink")』。
 
-2003年，在34th單曲「[IT'S SHOWTIME\!\!](../Page/IT'S_SHOWTIME!!.md "wikilink")」發售的同時，將自「[BE THERE](../Page/BE_THERE.md "wikilink")」起至「[裸足の女神](https://zh.wikipedia.org/wiki/裸足の女神 "wikilink")」為止的單曲10作品Maxi Single化重新發售，在Oricon公信榜週間單曲榜TOP 10內上榜了9作品 。『B'z LIVE-GYM The Final Pleasure "IT'S SHOWTIME\!\!"』最終公演是睽違10年舉辦在（静岡縣弁天島海濱公園），迎來出道15週年。之後，繼去年的海外公演，在美國與[加拿大](../Page/加拿大.md "wikilink")西岸5座都市舉辦了『B'z LIVE-GYM 2003 "BANZAI IN NORTH AMERICA"』，在日本國內則是舉辦了包含5大巨蛋的巡演『B'z LIVE-GYM 2003 "BIG MACHINE"』。
+2003年，在34th單曲「[IT'S SHOWTIME\!\!](../Page/IT'S_SHOWTIME!!.md "wikilink")」發售的同時，將自「[BE THERE](../Page/BE_THERE.md "wikilink")」起至「[裸足の女神](https://zh.wikipedia.org/wiki/裸足の女神 "wikilink")」為止的單曲10作品Maxi Single化重新發售，在Oricon公信榜週間單曲榜TOP 10內上榜了9作品 『B'z LIVE-GYM The Final Pleasure "IT'S SHOWTIME\!\!"』最終公演是睽違10年舉辦在（静岡縣弁天島海濱公園），迎來出道15週年。之後，繼去年的海外公演，在美國與[加拿大](../Page/加拿大.md "wikilink")西岸5座都市舉辦了『B'z LIVE-GYM 2003 "BANZAI IN NORTH AMERICA"』，在日本國內則是舉辦了包含5大巨蛋的巡演『B'z LIVE-GYM 2003 "BIG MACHINE"』。
 
 ### 2004年 - 2008年
 
@@ -221,12 +221,12 @@ B'z成為第176組獲獎者，作為亞洲圈音樂家則為首次壯舉。主�
 
 **[日本金唱片大獎](../Page/日本金唱片大獎.md "wikilink")**
 
-  - 『第5屆日本金唱片大獎』5位最佳藝人獎（*Best 5 Artist Awards*）\[102\]
-  - 『第6屆日本金唱片大獎』5位最佳藝人獎\[103\]、5張最佳單曲獎（*Best 5 Single Award*）「[LADY NAVIGATION](../Page/LADY_NAVIGATION.md "wikilink")」\[104\]、音樂影片獎（*Music Video Award*）『』\[105\]
-  - 『第7屆日本金唱片大獎』5位最佳藝人獎\[106\]、5張最佳單曲獎「[BLOWIN'](../Page/BLOWIN'.md "wikilink")」\[107\]
-  - 『第8屆日本金唱片大獎』5張最佳單曲獎「[愛のままにわがままに 僕は君だけを傷つけない](https://zh.wikipedia.org/wiki/愛のままにわがままに_僕は君だけを傷つけない "wikilink")」\[108\]、音樂影片獎『』\[109\]
-  - 『第9屆日本金唱片大獎』5位最佳藝人獎\[110\]、5張最佳單曲獎「[Don't Leave Me](../Page/Don't_Leave_Me.md "wikilink")」\[111\]
-  - 『第10屆日本金唱片大獎』5位最佳藝人獎\[112\]、5張最佳單曲獎「[LOVE PHANTOM](../Page/LOVE_PHANTOM.md "wikilink")」\[113\]、Grand Prix專輯獎（*Grand Prix Album Award*）『[LOOSE](https://zh.wikipedia.org/wiki/LOOSE_\(B'z專輯\) "wikilink")』\[114\]、專輯獎 [民謠搖滾部門](https://zh.wikipedia.org/wiki/民謠搖滾 "wikilink")（男性）『LOOSE』\[115\]、音樂影片獎『』\[116\]
+  - 『第5屆日本金唱片大獎』最佳5位藝人獎（*Best 5 Artist Awards*）\[102\]
+  - 『第6屆日本金唱片大獎』最佳5位藝人獎\[103\]、最佳5張單曲獎（*Best 5 Single Award*）「[LADY NAVIGATION](../Page/LADY_NAVIGATION.md "wikilink")」\[104\]、音樂影片獎（*Music Video Award*）『』\[105\]
+  - 『第7屆日本金唱片大獎』最佳5位藝人獎\[106\]、最佳5張單曲獎「[BLOWIN'](../Page/BLOWIN'.md "wikilink")」\[107\]
+  - 『第8屆日本金唱片大獎』最佳5位藝人獎「[愛のままにわがままに 僕は君だけを傷つけない](https://zh.wikipedia.org/wiki/愛のままにわがままに_僕は君だけを傷つけない "wikilink")」\[108\]、音樂影片獎『』\[109\]
+  - 『第9屆日本金唱片大獎』最佳5位藝人獎\[110\]、最佳5張單曲獎「[Don't Leave Me](../Page/Don't_Leave_Me.md "wikilink")」\[111\]
+  - 『第10屆日本金唱片大獎』最佳5位藝人獎\[112\]、最佳5張單曲獎「[LOVE PHANTOM](../Page/LOVE_PHANTOM.md "wikilink")」\[113\]、Grand Prix專輯獎（*Grand Prix Album Award*）『[LOOSE](https://zh.wikipedia.org/wiki/LOOSE_\(B'z專輯\) "wikilink")』\[114\]、專輯獎 [民謠搖滾部門](https://zh.wikipedia.org/wiki/民謠搖滾 "wikilink")（男性）『LOOSE』\[115\]、音樂影片獎『』\[116\]
   - 『第12屆日本金唱片大獎』年度最佳搖滾專輯（*Rock Album of the year*）『[SURVIVE](../Page/SURVIVE.md "wikilink")』\[117\]
   - 『第13屆日本金唱片大獎』年度最佳藝人（*Artist of the Year*）\[118\]、年度最佳搖滾專輯『[B'z The Best "Pleasure"](../Page/B'z_The_Best_"Pleasure".md "wikilink")』『[B'z The Best "Treasure"](../Page/B'z_The_Best_"Treasure".md "wikilink")』\[119\]、年度最佳歌曲（*Song of the Year*）「[HOME](../Page/HOME_\(B'z單曲\).md "wikilink")」\[120\]
   - 『第14屆日本金唱片大獎』年度最佳搖滾專輯『[Brotherhood](https://zh.wikipedia.org/wiki/Brotherhood_\(B'z專輯\) "wikilink")』\[121\]
@@ -235,9 +235,9 @@ B'z成為第176組獲獎者，作為亞洲圈音樂家則為首次壯舉。主�
   - 『第18屆日本金唱片大獎』年度最佳歌曲（*Song of the Year*）「[IT'S SHOWTIME\!\!](../Page/IT'S_SHOWTIME!!.md "wikilink")」「[野性のENERGY](https://zh.wikipedia.org/wiki/野性のENERGY "wikilink")」\[126\]、年度最佳搖滾＆流行專輯『[BIG MACHINE](../Page/BIG_MACHINE.md "wikilink")』\[127\]
   - 『第19屆日本金唱片大獎』年度最佳音樂影片（*Music Video of the Year*）『[Typhoon No.15 〜B'z LIVE-GYM The Final Pleasure "IT'S SHOWTIME\!\!" in 渚園〜](https://zh.wikipedia.org/wiki/Typhoon_No.15_〜B'z_LIVE-GYM_The_Final_Pleasure_"IT'S_SHOWTIME!!"_in_渚園〜 "wikilink")』\[128\]
   - 『第20屆日本金唱片大獎』年度最佳歌曲「[OCEAN](../Page/OCEAN_\(B'z單曲\).md "wikilink")」\[129\]、年度最佳搖滾＆流行專輯『[THE CIRCLE](../Page/THE_CIRCLE.md "wikilink")』『[B'z The Best "Pleasure II"](../Page/B'z_The_Best_"Pleasure_II".md "wikilink")』\[130\]
-  - 『第23屆日本金唱片大獎』10張最佳專輯（*The Best 10 Album*）『[B'z The Best "ULTRA Pleasure"](../Page/B'z_The_Best_"ULTRA_Pleasure".md "wikilink")』\[131\]
-  - 『第24屆日本金唱片大獎』5張最佳單曲（*The Best 5 Songs*）「[イチブトゼンブ](https://zh.wikipedia.org/wiki/イチブトゼンブ "wikilink")」\[132\]
-  - 『第28屆日本金唱片大獎』5張最佳專輯（*The Best 5 Album*）『[B'z The Best XXV 1988-1998](../Page/B'z_The_Best_XXV_1988-1998.md "wikilink")』\[133\]
+  - 『第23屆日本金唱片大獎』最佳10張專輯（*The Best 10 Album*）『[B'z The Best "ULTRA Pleasure"](../Page/B'z_The_Best_"ULTRA_Pleasure".md "wikilink")』\[131\]
+  - 『第24屆日本金唱片大獎』最佳5張單曲（*The Best 5 Songs*）「[イチブトゼンブ](https://zh.wikipedia.org/wiki/イチブトゼンブ "wikilink")」\[132\]
+  - 『第28屆日本金唱片大獎』最佳5張專輯（*The Best 5 Album*）『[B'z The Best XXV 1988-1998](../Page/B'z_The_Best_XXV_1988-1998.md "wikilink")』\[133\]
 
 **[World Music Awards](../Page/世界音樂獎.md "wikilink")**
 
@@ -271,14 +271,14 @@ B'z成為第176組獲獎者，作為亞洲圈音樂家則為首次壯舉。主�
   - 單曲獲得百萬銷量數：15作（歴代第2位）
   - 單曲連續獲得百萬銷量數：13作（歴代第2位）\[139\]
   - 單曲連續獲得百萬銷量年數：6年（歴代第1位）
-  - 由同一藝人在單曲週榜TOP10內佔榜數：9作（歴代第1位）\[140\]
+  - 由同一藝人在單曲週榜TOP10內佔榜數：9作（歴代第1位）\[140\]\[141\]
 
 **專輯紀錄**
 
-  - 專輯總銷量張數：約4,687.2萬張（歴代第1位）\[141\]
-  - 專輯獲得冠軍數：29作（歴代第1位）\[142\]
+  - 專輯總銷量張數：約4,687.2萬張（歴代第1位）\[142\]
+  - 專輯獲得冠軍數：29作（歴代第1位）\[143\]
   - 專輯連續獲得冠軍年數：8年（截至1996年至2003年。歴代5位平手）
-  - 專輯獲得百萬銷量數：19作（歴代第1位）\[143\]
+  - 專輯獲得百萬銷量數：19作（歴代第1位）\[144\]
   - 專輯連續獲得百萬銷量數：8作（歴代第2位，歴代第1位是[ZARD](../Page/ZARD.md "wikilink")的9作）
   - 專輯獲得首週百萬銷量數：10作（歴代第1位）
 
@@ -289,13 +289,13 @@ B'z成為第176組獲獎者，作為亞洲圈音樂家則為首次壯舉。主�
   - 音樂VHS作品銷售張數：30.1萬張（歴代第3位）
   - 獲得在音樂DVD作品的DVD綜合排行榜冠軍作品數：8作（歴代第3位平手）
   - 獲得在音樂DVD作品的DVD綜合排行榜連續冠軍作品數：8作（歴代第1位）
-  - 音樂Blu-ray Disc作品獲得年間排行榜冠軍數：2作（歴代第1位）\[144\]
+  - 音樂Blu-ray Disc作品獲得年間排行榜冠軍數：2作（歴代第1位）\[145\]
   - 獲得在音樂Blu-ray Disc作品的Blu-ray Disc綜合排行榜冠軍作品數：3作（歴代第1位平手）
 
 ### 其他
 
   - 進入名人堂「[Hollywood's Rock Walk](https://zh.wikipedia.org/wiki/吉他中心#好萊塢搖滾大道 "wikilink")」
-  - [金氏世界紀錄](https://zh.wikipedia.org/wiki/金氏世界紀錄 "wikilink")「日本專輯最暢銷藝人」（*日本でもっともアルバムを売り上げたアーティスト*）\[145\]\[146\]
+  - [金氏世界紀錄](https://zh.wikipedia.org/wiki/金氏世界紀錄 "wikilink")「日本專輯最暢銷藝人」（*日本でもっともアルバムを売り上げたアーティスト*）\[146\]\[147\]
 
 ## 作品
 
@@ -546,7 +546,7 @@ LIVE-GYM\#B'z公演列表}}
 
 ### Z'b
 
-Z'b是在『B'z LIVE-GYM '91-'92 "IN THE LIFE"』開始前準備活動中玩心大發創造的樂團名，以[翻唱西洋樂曲為中心在日本國內](https://zh.wikipedia.org/wiki/翻唱 "wikilink")4間[LIVE HOUSE舉行了](https://zh.wikipedia.org/wiki/展演空間 "wikilink")『Z'b LIVE HOUSE TOUR』。之後Z'b成員亦登場過演唱會上的環節之一，對於來自粉絲的詢問「不會再做Z'b了嗎{{\#tag:ref||group="原文"}}」松本回答表示「大概不會再做了{{\#tag:ref||group="原文"}}」\[147\]。
+Z'b是在『B'z LIVE-GYM '91-'92 "IN THE LIFE"』開始前準備活動中玩心大發創造的樂團名，以[翻唱西洋樂曲為中心在日本國內](https://zh.wikipedia.org/wiki/翻唱 "wikilink")4間[LIVE HOUSE舉行了](https://zh.wikipedia.org/wiki/展演空間 "wikilink")『Z'b LIVE HOUSE TOUR』。之後Z'b成員亦登場過演唱會上的環節之一，對於來自粉絲的詢問「不會再做Z'b了嗎{{\#tag:ref||group="原文"}}」松本回答表示「大概不會再做了{{\#tag:ref||group="原文"}}」\[148\]。
 
 <table>
 <caption>Z'b成員</caption>
@@ -606,27 +606,27 @@ Z'b是在『B'z LIVE-GYM '91-'92 "IN THE LIFE"』開始前準備活動中玩心�
 
   - BSデジタル5局 開局3周年共同特別番組『B'z LIVE-GYM 2003 "BANZAI IN NORTH AMERICA" LIVE\&DOCUMENT』（2003年12月23日）
 
-  - [NHK綜合](../Page/NHK綜合頻道.md "wikilink")『NHKスペシャル 「メガヒットの秘密 〜20年目のB'z〜」』（2008年10月6日\[148\]、2018年9月17日）
+  - [NHK綜合](../Page/NHK綜合頻道.md "wikilink")『NHKスペシャル 「メガヒットの秘密 〜20年目のB'z〜」』（2008年10月6日\[149\]、2018年9月17日）
 
   - [NHK BS2](https://zh.wikipedia.org/wiki/NHK衛星第2頻道 "wikilink")『RUN 〜B'z・20年の軌跡〜』（2009年1月1日）
 
   - [WOWOW](../Page/WOWOW.md "wikilink")『B'z 25th Anniversary Special 「Only Two」』（2012年12月9日）
 
-  - [niconico直播](https://zh.wikipedia.org/wiki/ニコニコ生放送 "wikilink")『B'z 25th Anniversary DIGEST 1988-2013』（2013年6月8日）\[149\]
+  - [niconico直播](https://zh.wikipedia.org/wiki/ニコニコ生放送 "wikilink")『B'z 25th Anniversary DIGEST 1988-2013』（2013年6月8日）\[150\]
 
-  - B'z Official YouTube Channel『B'z 25th Anniversary YouTube Special Program』（2013年6月16日、2013年6月19日 -）\[150\]\[151\]
+  - B'z Official YouTube Channel『B'z 25th Anniversary YouTube Special Program』（2013年6月16日、2013年6月19日 -）\[151\]\[152\]
 
   - WOWOW『WOWOW×B'z スペシャル番組』（2018年4月11日、5月26日、6月30日、7月21日、8月18日）
 
-  - WOWOW『B'z LIVE-GYM Pleasure 2018 -HINOTORI-』（2018年11月24日）\[152\]
+  - WOWOW『B'z LIVE-GYM Pleasure 2018 -HINOTORI-』（2018年11月24日）\[153\]
 
 **CM**
 
   - [百事可樂](../Page/百事可樂.md "wikilink")「Pepsi NEX」
-      - エフェクト篇・荒野篇（2011年3月1日 - ）\[153\]
-      - People篇（2011年7月16日 - ）\[154\]
+      - エフェクト篇・荒野篇（2011年3月1日 - ）\[154\]
+      - People篇（2011年7月16日 - ）\[155\]
       - Xmas Lover篇（2011年12月3日 - ）
-      - Tshirts Live篇（2012年2月28日 - ）\[155\]
+      - Tshirts Live篇（2012年2月28日 - ）\[156\]
       - Summer Line篇（2012年7月14日 - ）
 
 ## 商業搭配一覽
@@ -923,11 +923,11 @@ Z'b是在『B'z LIVE-GYM '91-'92 "IN THE LIFE"』開始前準備活動中玩心�
 <tr class="odd">
 <td><p>2002年</p></td>
 <td><p><a href="../Page/GREEN_(B&#39;z專輯).md" title="wikilink">SIGNAL</a></p></td>
-<td><p><a href="../Page/科樂美數位娛樂.md" title="wikilink">科樂美</a>『<a href="https://zh.wikipedia.org/wiki/純愛手札_Girl&#39;s_Side" title="wikilink">-{zh-tw:純愛手札;zh-cn:心跳回忆;zh-hk:心跳回憶;}- Girl's Side</a>』片頭曲[156]</p></td>
+<td><p><a href="../Page/科樂美數位娛樂.md" title="wikilink">科樂美</a>『<a href="https://zh.wikipedia.org/wiki/純愛手札_Girl&#39;s_Side" title="wikilink">-{zh-tw:純愛手札;zh-cn:心跳回忆;zh-hk:心跳回憶;}- Girl's Side</a>』片頭曲[157]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/GREEN_(B&#39;z專輯).md" title="wikilink">美しき世界</a></p></td>
-<td><p>科樂美『-{zh-tw:純愛手札;zh-cn:心跳回忆;zh-hk:心跳回憶;}- Girl's Side』片尾曲[157]</p></td>
+<td><p>科樂美『-{zh-tw:純愛手札;zh-cn:心跳回忆;zh-hk:心跳回憶;}- Girl's Side』片尾曲[158]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1011,7 +1011,7 @@ Z'b是在『B'z LIVE-GYM '91-'92 "IN THE LIFE"』開始前準備活動中玩心�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/B&#39;z_The_Best_&quot;Pleasure_II&quot;.md" title="wikilink">いつかのメリークリスマス 〜「恋するハニカミ!」Version〜</a>[158]</p></td>
+<td><p><a href="../Page/B&#39;z_The_Best_&quot;Pleasure_II&quot;.md" title="wikilink">いつかのメリークリスマス 〜「恋するハニカミ!」Version〜</a>[159]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1078,11 +1078,11 @@ Z'b是在『B'z LIVE-GYM '91-'92 "IN THE LIFE"』開始前準備活動中玩心�
 <tr class="even">
 <td><p>2007年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/永遠の翼" title="wikilink">永遠の翼</a></p></td>
-<td><p>東映系電影『』主題歌[159]</p></td>
+<td><p>東映系電影『』主題歌[160]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/永遠の翼" title="wikilink">ロンリースターズ</a></p></td>
-<td><p>電影『<a href="../Page/北斗神拳.md" title="wikilink">真救世主傳說 北斗神拳 拉歐傳 激鬥之章</a>』主題歌[160]</p></td>
+<td><p>電影『<a href="../Page/北斗神拳.md" title="wikilink">真救世主傳說 北斗神拳 拉歐傳 激鬥之章</a>』主題歌[161]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1132,13 +1132,13 @@ Z'b是在『B'z LIVE-GYM '91-'92 "IN THE LIFE"』開始前準備活動中玩心�
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/B&#39;z_The_Best_&quot;ULTRA_Treasure&quot;.md" title="wikilink">いつかまたここで</a></p></td>
-<td><p>朝日電視台系週四連續劇『』主題歌[161]</p></td>
+<td><p>朝日電視台系週四連續劇『』主題歌[162]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2009年</p></td>
 <td><p><a href="../Page/ZERO_(B&#39;z單曲).md" title="wikilink">ZERO</a></p></td>
-<td><p><a href="../Page/麒麟啤酒.md" title="wikilink">麒麟啤酒</a>「麒麟ZERO」廣告曲[162]</p></td>
+<td><p><a href="../Page/麒麟啤酒.md" title="wikilink">麒麟啤酒</a>「麒麟ZERO」廣告曲[163]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/一部分與全部/DIVE" title="wikilink">DIVE</a></p></td>
@@ -1157,13 +1157,13 @@ Z'b是在『B'z LIVE-GYM '91-'92 "IN THE LIFE"』開始前準備活動中玩心�
 </tr>
 <tr class="even">
 <td><p><a href="../Page/MAGIC_(B&#39;z專輯).md" title="wikilink">PRAY</a></p></td>
-<td><p>東急系電影『』主題歌[163]</p></td>
+<td><p>東急系電影『』主題歌[164]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2010年</p></td>
 <td><p><a href="../Page/MAGIC_(B&#39;z專輯).md" title="wikilink">long time no see</a></p></td>
-<td><p>朝日電視台系<a href="../Page/朝日電視台週五晚間連續劇.md" title="wikilink">週五晚間連續劇</a>『』主題歌[164]</p></td>
+<td><p>朝日電視台系<a href="../Page/朝日電視台週五晚間連續劇.md" title="wikilink">週五晚間連續劇</a>『』主題歌[165]</p></td>
 </tr>
 <tr class="even">
 <td><p>2011年</p></td>
@@ -1172,27 +1172,27 @@ Z'b是在『B'z LIVE-GYM '91-'92 "IN THE LIFE"』開始前準備活動中玩心�
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/Don&#39;t_Wanna_Lie.md" title="wikilink">Don't Wanna Lie</a></p></td>
-<td><p>東寶系電影『<a href="https://zh.wikipedia.org/wiki/名偵探柯南：沉默的15分鐘" title="wikilink">名偵探柯南：沉默的15分鐘</a>』主題歌[165]</p></td>
+<td><p>東寶系電影『<a href="https://zh.wikipedia.org/wiki/名偵探柯南：沉默的15分鐘" title="wikilink">名偵探柯南：沉默的15分鐘</a>』主題歌[166]</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>讀賣電視台・日本電視台系動畫『名偵探柯南』片頭曲[166]</p></td>
+<td><p>讀賣電視台・日本電視台系動畫『名偵探柯南』片頭曲[167]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/Don&#39;t_Wanna_Lie.md" title="wikilink">Homebound</a></p></td>
-<td><p>TBS系『』片尾曲[167]</p></td>
+<td><p>TBS系『』片尾曲[168]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/C&#39;mon.md" title="wikilink">ultra soul 2011</a></p></td>
-<td><p>朝日電視台系『<a href="https://zh.wikipedia.org/wiki/2011年世界游泳錦標賽" title="wikilink">2011年上海世界游泳錦標賽</a>』主題曲[168]</p></td>
+<td><p>朝日電視台系『<a href="https://zh.wikipedia.org/wiki/2011年世界游泳錦標賽" title="wikilink">2011年上海世界游泳錦標賽</a>』主題曲[169]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/C&#39;mon.md" title="wikilink">C'mon</a></p></td>
-<td><p>百事可樂「Pepsi NEX」People篇 廣告曲[169]</p></td>
+<td><p>百事可樂「Pepsi NEX」People篇 廣告曲[170]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1208,11 +1208,11 @@ Z'b是在『B'z LIVE-GYM '91-'92 "IN THE LIFE"』開始前準備活動中玩心�
 <tr class="even">
 <td><p>2012年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/さまよえる蒼い弾丸" title="wikilink">Into Free -Dangan-</a></p></td>
-<td><p><a href="../Page/卡普空.md" title="wikilink">卡普空</a>『<a href="../Page/龍族教義.md" title="wikilink">Dragon's Dogma</a>』主題歌[170]</p></td>
+<td><p><a href="../Page/卡普空.md" title="wikilink">卡普空</a>『<a href="../Page/龍族教義.md" title="wikilink">Dragon's Dogma</a>』主題歌[171]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/GO_FOR_IT,_BABY_-記憶的山脈-.md" title="wikilink">GO FOR IT, BABY -キオクの山脈-</a></p></td>
-<td><p>百事可樂「Pepsi NEX」Tshirts Live篇 廣告曲[171]</p></td>
+<td><p>百事可樂「Pepsi NEX」Tshirts Live篇 廣告曲[172]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1223,11 +1223,11 @@ Z'b是在『B'z LIVE-GYM '91-'92 "IN THE LIFE"』開始前準備活動中玩心�
 <tr class="odd">
 <td><p>2013年</p></td>
 <td><p><a href="../Page/B&#39;z_The_Best_XXV_1988-1998.md" title="wikilink">核心</a></p></td>
-<td><p>日本電視台系<a href="../Page/日本電視台週三連續劇.md" title="wikilink">週三連續劇</a>『<a href="../Page/白雲階梯_(日本電視劇).md" title="wikilink">白雲階梯</a>』主題歌[172]</p></td>
+<td><p>日本電視台系<a href="../Page/日本電視台週三連續劇.md" title="wikilink">週三連續劇</a>『<a href="../Page/白雲階梯_(日本電視劇).md" title="wikilink">白雲階梯</a>』主題歌[173]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/B&#39;z_The_Best_XXV_1999-2012.md" title="wikilink">Q&amp;A</a></p></td>
-<td><p>讀賣電視台・日本電視台系動畫『名偵探柯南』片頭曲[173]</p></td>
+<td><p>讀賣電視台・日本電視台系動畫『名偵探柯南』片頭曲[174]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1237,7 +1237,7 @@ Z'b是在『B'z LIVE-GYM '91-'92 "IN THE LIFE"』開始前準備活動中玩心�
 </tr>
 <tr class="even">
 <td><p><a href="../Page/B&#39;z_The_Best_XXV_1999-2012.md" title="wikilink">ユートピア</a></p></td>
-<td><p>朝日電視台系週四連續劇『<a href="../Page/最強名醫.md" title="wikilink">DOCTORS 2〜最強名醫〜</a>』主題歌[174]</p></td>
+<td><p>朝日電視台系週四連續劇『<a href="../Page/最強名醫.md" title="wikilink">DOCTORS 2〜最強名醫〜</a>』主題歌[175]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1252,12 +1252,12 @@ Z'b是在『B'z LIVE-GYM '91-'92 "IN THE LIFE"』開始前準備活動中玩心�
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/EPIC_DAY.md" title="wikilink">Exit To The Sun</a></p></td>
-<td><p>NHK連續劇『』主題歌[175]</p></td>
+<td><p>NHK連續劇『』主題歌[176]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/EPIC_DAY.md" title="wikilink">NO EXCUSE</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/斯米諾伏特加" title="wikilink">Smirnoff</a>／麒麟啤酒「<a href="../Page/斯米诺伏特加.md" title="wikilink">斯米诺伏特加</a>」廣告曲[176]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/斯米諾伏特加" title="wikilink">Smirnoff</a>／麒麟啤酒「<a href="../Page/斯米诺伏特加.md" title="wikilink">斯米诺伏特加</a>」廣告曲[177]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1282,7 +1282,7 @@ Z'b是在『B'z LIVE-GYM '91-'92 "IN THE LIFE"』開始前準備活動中玩心�
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/RED.md" title="wikilink">RED</a></p></td>
-<td><p><a href="../Page/SKY_PerfecTV!.md" title="wikilink">SKY PerfecTV!</a> 「もっと、ドキドキな毎日『黒田篇』」廣告曲[177]</p></td>
+<td><p><a href="../Page/SKY_PerfecTV!.md" title="wikilink">SKY PerfecTV!</a> 「もっと、ドキドキな毎日『黒田篇』」廣告曲[178]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1298,7 +1298,7 @@ Z'b是在『B'z LIVE-GYM '91-'92 "IN THE LIFE"』開始前準備活動中玩心�
 <tr class="even">
 <td><p>2016年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/世界はあなたの色になる" title="wikilink">世界はあなたの色になる</a></p></td>
-<td><p>東寶系電影『<a href="https://zh.wikipedia.org/wiki/名偵探柯南：純黑的惡夢" title="wikilink">名偵探柯南：純黑的惡夢</a>』主題歌[178]</p></td>
+<td><p>東寶系電影『<a href="https://zh.wikipedia.org/wiki/名偵探柯南：純黑的惡夢" title="wikilink">名偵探柯南：純黑的惡夢</a>』主題歌[179]</p></td>
 </tr>
 <tr class="odd">
 <td><p>讀賣電視台・日本電視台系動畫『名偵探柯南』片頭曲</p></td>
@@ -1307,13 +1307,13 @@ Z'b是在『B'z LIVE-GYM '91-'92 "IN THE LIFE"』開始前準備活動中玩心�
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/聲明/Still_Alive" title="wikilink">フキアレナサイ</a></p></td>
-<td><p>東映系電影『<a href="https://zh.wikipedia.org/wiki/疾風迴旋曲#電影" title="wikilink">疾風迴旋曲</a>』主題歌[179]</p></td>
+<td><p>東映系電影『<a href="https://zh.wikipedia.org/wiki/疾風迴旋曲#電影" title="wikilink">疾風迴旋曲</a>』主題歌[180]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2017年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/聲明/Still_Alive" title="wikilink">Still Alive</a></p></td>
-<td><p>TBS系<a href="https://zh.wikipedia.org/wiki/週日劇場" title="wikilink">週日劇場</a>『<a href="../Page/A_LIFE～深愛的人～.md" title="wikilink">A LIFE〜深愛之人〜</a>』主題歌[180]</p></td>
+<td><p>TBS系<a href="https://zh.wikipedia.org/wiki/週日劇場" title="wikilink">週日劇場</a>『<a href="../Page/A_LIFE～深愛的人～.md" title="wikilink">A LIFE〜深愛之人〜</a>』主題歌[181]</p></td>
 </tr>
 <tr class="even">
 <td><p>TBS系『』6・7月度片尾曲<ref name="still">{{Cite web |url=<a href="https://bz-vermillion.com/news/170601.html">https://bz-vermillion.com/news/170601.html</a> |title=B'z「Still Alive」TBS各番組 6・7月度テーマソングに決定</p></td>
@@ -1321,18 +1321,18 @@ Z'b是在『B'z LIVE-GYM '91-'92 "IN THE LIFE"』開始前準備活動中玩心�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>TBS『イベントGO！』6月度片頭曲[181]</p></td>
+<td><p>TBS『イベントGO！』6月度片頭曲[182]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>TBS系『』6・7月度片頭曲[182]</p></td>
+<td><p>TBS系『』6・7月度片頭曲[183]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/聲明/Still_Alive" title="wikilink">声明</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/UCC上島咖啡" title="wikilink">UCC上島咖啡</a>「UCC BLACK無糖黑咖啡」電視廣告曲[183]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/UCC上島咖啡" title="wikilink">UCC上島咖啡</a>「UCC BLACK無糖黑咖啡」電視廣告曲[184]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1353,11 +1353,11 @@ Z'b是在『B'z LIVE-GYM '91-'92 "IN THE LIFE"』開始前準備活動中玩心�
 <tr class="odd">
 <td><p>2018年</p></td>
 <td><p><a href="../Page/DINOSAUR.md" title="wikilink">Dinosaur</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/華納兄弟" title="wikilink">華納兄弟電影</a>『<a href="../Page/氣象戰_(電影).md" title="wikilink">氣象戰</a>』日語配音版主題歌[184]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/華納兄弟" title="wikilink">華納兄弟電影</a>『<a href="../Page/氣象戰_(電影).md" title="wikilink">氣象戰</a>』日語配音版主題歌[185]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/DINOSAUR.md" title="wikilink">King Of The Street</a></p></td>
-<td><p><a href="../Page/光榮特庫摩遊戲.md" title="wikilink">KOEI TECMO GAMES</a>『<a href="../Page/真·三國無雙8.md" title="wikilink">真・三國無雙8</a>』主題曲[185]</p></td>
+<td><p><a href="../Page/光榮特庫摩遊戲.md" title="wikilink">KOEI TECMO GAMES</a>『<a href="../Page/真·三國無雙8.md" title="wikilink">真・三國無雙8</a>』主題曲[186]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1367,22 +1367,22 @@ Z'b是在『B'z LIVE-GYM '91-'92 "IN THE LIFE"』開始前準備活動中玩心�
 </tr>
 <tr class="even">
 <td><p><a href="../Page/NEW_LOVE.md" title="wikilink">マジェスティック</a></p></td>
-<td><p><a href="../Page/江崎固力果.md" title="wikilink">江崎固力果</a>『<a href="https://zh.wikipedia.org/wiki/Pocky" title="wikilink">Pocky</a>』廣告主題歌[186][187]</p></td>
+<td><p><a href="../Page/江崎固力果.md" title="wikilink">江崎固力果</a>『<a href="https://zh.wikipedia.org/wiki/Pocky" title="wikilink">Pocky</a>』廣告主題歌[187][188]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/NEW_LOVE.md" title="wikilink">WOLF</a></p></td>
-<td><p>富士電視台系週一晚間9點連續劇『』主題歌[188]</p></td>
+<td><p>富士電視台系週一晚間9點連續劇『』主題歌[189]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>WOLF -Ballad Version-</p></td>
-<td><p>富士電視台系週一晚間9點連續劇『SUITS/スーツ』插入曲[189]</p></td>
+<td><p>富士電視台系週一晚間9點連續劇『SUITS/スーツ』插入曲[190]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/NEW_LOVE.md" title="wikilink">兵、走る</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大正製藥" title="wikilink">大正製藥</a>「<a href="https://zh.wikipedia.org/wiki/力保美達" title="wikilink">-{zh-tw:力保美達;zh-cn:心跳回忆;zh-hk:力保健}-</a>」<a href="../Page/日本國家橄欖球隊.md" title="wikilink">日本國家橄欖球隊</a>應援歌「最強の自分」篇 廣告曲[190]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大正製藥" title="wikilink">大正製藥</a>「<a href="https://zh.wikipedia.org/wiki/力保美達" title="wikilink">-{zh-tw:力保美達;zh-cn:心跳回忆;zh-hk:力保健}-</a>」<a href="../Page/日本國家橄欖球隊.md" title="wikilink">日本國家橄欖球隊</a>應援歌「最強の自分」篇 廣告曲[191]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1397,7 +1397,7 @@ Z'b是在『B'z LIVE-GYM '91-'92 "IN THE LIFE"』開始前準備活動中玩心�
 </tr>
 <tr class="even">
 <td><p><a href="../Page/NEW_LOVE.md" title="wikilink">デウス</a></p></td>
-<td><p><a href="../Page/鈴木_(公司).md" title="wikilink">鈴木</a>「<a href="../Page/鈴木Escudo.md" title="wikilink">-{zh-hk:Vitara;zh-tw:Escudo;}-</a>」妥協なきSUV篇 電視廣告曲[191]</p></td>
+<td><p><a href="../Page/鈴木_(公司).md" title="wikilink">鈴木</a>「<a href="../Page/鈴木Escudo.md" title="wikilink">-{zh-hk:Vitara;zh-tw:Escudo;}-</a>」妥協なきSUV篇 電視廣告曲[192]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1407,7 +1407,7 @@ Z'b是在『B'z LIVE-GYM '91-'92 "IN THE LIFE"』開始前準備活動中玩心�
 </tr>
 <tr class="even">
 <td><p>きみとなら</p></td>
-<td><p>朝日電視台系『』主題歌[192]</p></td>
+<td><p>朝日電視台系『』主題歌[193]</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -1685,10 +1685,9 @@ Z'b是在『B'z LIVE-GYM '91-'92 "IN THE LIFE"』開始前準備活動中玩心�
 
 140.
 141.
-
 142.
-143.
 
+143.
 144.
 
 145.
@@ -1713,12 +1712,12 @@ Z'b是在『B'z LIVE-GYM '91-'92 "IN THE LIFE"』開始前準備活動中玩心�
 
 155.
 
-156. 雖在Being的行動網站內，B'z的[音樂唱片分類表記為](https://zh.wikipedia.org/wiki/音樂唱片分類 "wikilink")[南夢宮](https://zh.wikipedia.org/wiki/南夢宮 "wikilink")（[萬代南夢宮娛樂](https://zh.wikipedia.org/wiki/萬代南夢宮娛樂 "wikilink")），但該處為誤記。
+156.
 
-157.
-158. 商業搭配時的標題表記為「いつかのメリークリスマス アンプラグド ver.」。
+157. 雖在Being的行動網站內，B'z的[音樂唱片分類表記為](https://zh.wikipedia.org/wiki/音樂唱片分類 "wikilink")[南夢宮](https://zh.wikipedia.org/wiki/南夢宮 "wikilink")（[萬代南夢宮娛樂](https://zh.wikipedia.org/wiki/萬代南夢宮娛樂 "wikilink")），但該處為誤記。
 
-159.
+158.
+159. 商業搭配時的標題表記為「いつかのメリークリスマス アンプラグド ver.」。
 
 160.
 
@@ -1733,8 +1732,8 @@ Z'b是在『B'z LIVE-GYM '91-'92 "IN THE LIFE"』開始前準備活動中玩心�
 165.
 
 166.
-167.
 
+167.
 168.
 
 169.
@@ -1762,9 +1761,9 @@ Z'b是在『B'z LIVE-GYM '91-'92 "IN THE LIFE"』開始前準備活動中玩心�
 180.
 
 181.
+
 182.
 183.
-
 184.
 
 185.
@@ -1782,3 +1781,5 @@ Z'b是在『B'z LIVE-GYM '91-'92 "IN THE LIFE"』開始前準備活動中玩心�
 191.
 
 192.
+
+193.

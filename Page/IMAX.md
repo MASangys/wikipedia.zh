@@ -673,7 +673,7 @@ IMAX公司全球第1000家IMAX®影院</p></td>
 <tr class="odd">
 <td><p>深圳CGV影城(One Avenue卓悦中心店)</p></td>
 <td><p>新一代IMAX激光</p></td>
-<td><p>预计2019年9月12日</p></td>
+<td><p>2019年9月18日</p></td>
 <td><p>22.85</p></td>
 <td><p>11.76</p></td>
 <td><p>268.716</p></td>
@@ -835,6 +835,16 @@ IMAX中國第8家IMAX影院</p></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
 <tr class="odd">
+<td><p>英皇戏院iSQUARE</p></td>
+<td><p>新一代IMAX激光</p></td>
+<td><p>预计2019年12月</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>12聲道音響系統</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>

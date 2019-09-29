@@ -19,7 +19,7 @@ Mozilla社群由來自全球的積極貢獻者支持，部分志工参与運作�
 Mozilla社群也指一个非嚴密組織。其成员使用、開發、推廣並支持Mozilla相關計畫及Mozilla宣言開放網路理念\[10\]，名為「**Mozillians**」（）\[11\]。 具體的行動包括：
 
   - 翻譯在地化Mozilla的軟體及網站成為其他語言。
-  - 在[部落格或各相關活動進行](https://zh.wikipedia.org/wiki/部落格 "wikilink")[網頁標準](../Page/網頁標準.md "wikilink")傳教，有時是獨立行動、有時以更具組織的形式諸如“Mozilla Reps”專案呈現\[12\]\[13\]。
+  - 在[部落格或各相關活動進行](https://zh.wikipedia.org/wiki/部落格 "wikilink")[網頁標準](../Page/網頁標準.md "wikilink")宣導，有時是獨立行動、有時以更具組織的形式諸如“Mozilla Reps”專案呈現\[12\]\[13\]。
   - 組織在地及國際相關Mozilla會議，例如：Mozilla Camp、Mozilla Summit及Drumbeat。
   - 透過[網路論壇及](https://zh.wikipedia.org/wiki/網路論壇 "wikilink")[IRC等管道提供Mozilla產品使用者支援](https://zh.wikipedia.org/wiki/Internet_relay_chat "wikilink")。
   - 為學童組織教育活動，透過如“Hackasaurus”\[14\]等專案傳授全球資訊網及如何製作網路內容等知識。

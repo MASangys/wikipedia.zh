@@ -10,7 +10,7 @@ Prolog一直在北美和欧洲被广泛使用。日本政府曾经为了建造�
 
 ## 特點
 
-有別於一般的[函数式语言](https://zh.wikipedia.org/wiki/函数式语言 "wikilink")，prolog的程式是基於謂詞邏輯的理論。最基本的寫法是定立[物件與物件之間的關係](https://zh.wikipedia.org/wiki/物件_\(電腦科學\) "wikilink")，之後可以用詢問目標的方式來查詢各種物件之間的關係。系統會自動進行匹配及[回溯](https://zh.wikipedia.org/wiki/回溯法 "wikilink")，找出所詢問的答案。
+有別於一般的[函数式语言](https://zh.wikipedia.org/wiki/函数式语言 "wikilink")，prolog的程式是基於謂詞邏輯的理論。最基本的寫法是定义[物件與物件之間的關係](https://zh.wikipedia.org/wiki/物件_\(電腦科學\) "wikilink")，之後可以用詢問目標的方式來查詢各種物件之間的關係。系統會自動進行匹配及[回溯](https://zh.wikipedia.org/wiki/回溯法 "wikilink")，找出所詢問的答案。
 
 Prolog代码中以大写字母开头的元素是**变量**，[字符串](../Page/字符串.md "wikilink")、数字或以小写字母开头的元素是**常量**。下划线（_）被称为匿名变量。
 

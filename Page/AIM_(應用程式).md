@@ -10,4 +10,4 @@
 
 [Category:即时通讯软件](https://zh.wikipedia.org/wiki/Category:即时通讯软件 "wikilink") [Category:美國線上公司](https://zh.wikipedia.org/wiki/Category:美國線上公司 "wikilink") [Category:Mac_OS即時通訊客戶端](https://zh.wikipedia.org/wiki/Category:Mac_OS即時通訊客戶端 "wikilink") [Category:Mac_OS_X即時通訊](https://zh.wikipedia.org/wiki/Category:Mac_OS_X即時通訊 "wikilink") [Category:Windows即時通訊客戶端](https://zh.wikipedia.org/wiki/Category:Windows即時通訊客戶端 "wikilink")
 
-1.  [1](https://help.aol.com/articles/aim-discontinued)
+1.

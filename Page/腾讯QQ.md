@@ -1,4 +1,4 @@
-**腾讯QQ**是深圳市腾讯计算机股份有限公司于1999年2月11日推出的一款的[多平台](../Page/操作系统.md "wikilink")[即时通信软件](https://zh.wikipedia.org/wiki/即时通信软件 "wikilink")，从支持文字、语音和视频聊天，发展到带有文件共享、网络硬盘、邮箱、游戏、论坛，甚至是網購、租房與找工作等等廣泛服务的平台。
+**腾讯QQ**是深圳市腾讯计算机股份有限公司于1999年2月11日推出的一款的[多平台](../Page/操作系统.md "wikilink")[即时通信软件](https://zh.wikipedia.org/wiki/即时通信软件 "wikilink")，从支持文字、语音和视频聊天，发展到带有文件共享、网络硬盘、邮箱、游戏、论坛、網購、租房與找工作等廣泛服务的平台。
 
 ## 历史
 
@@ -50,7 +50,7 @@ QQ推出接近两年后（2001年2月10日），腾讯QQ最高同时在线用户
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>定位为企业办公用户</p></td>
+<td></td>
 <td><p>2.11</p></td>
 <td></td>
 <td><p><a href="../Page/英语.md" title="wikilink">英语</a>、<a href="../Page/法语.md" title="wikilink">法语</a>、<a href="../Page/德语.md" title="wikilink">德语</a>、<a href="../Page/西班牙语.md" title="wikilink">西班牙语</a>、<a href="../Page/日语.md" title="wikilink">日语</a>、<a href="https://zh.wikipedia.org/wiki/韩语" title="wikilink">韩语</a>、<a href="https://zh.wikipedia.org/wiki/繁体中文" title="wikilink">繁体中文</a></p></td>
@@ -683,7 +683,7 @@ QQ推出接近两年后（2001年2月10日），腾讯QQ最高同时在线用户
 <td><p>1.02beta</p></td>
 <td><p>2012年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/简体中文" title="wikilink">简体中文</a></p></td>
-<td><p>iQQ是一项开源项目，源码托管在google code上，基于腾讯WebQQ 3.0网络协议。<a href="https://code.google.com/p/iqq/">项目</a>使用Java语言跨平台开发，作者基于Linux（Ubuntu 12.04）系统，使用IDE NetBeans开发。</p></td>
+<td><p>iQQ是一项开源项目，源码托管在google code上，基于腾讯WebQQ 3.0网络协议。<a href="https://github.com/im-qq/iqq">项目</a>使用Java语言跨平台开发，作者基于Linux（Ubuntu 12.04）系统，使用IDE NetBeans开发。</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1010,7 +1010,7 @@ QQ号码由[数字组成](https://zh.wikipedia.org/wiki/数字 "wikilink")，在
 
 ### 轉賬和紅包
 
-要更新至最新的手机QQ5.4版本\[85\]\[86\]。2018年1月8日起，qq红包做出服务变更，如果用户将qq钱包余额提现到[银行卡](../Page/银行卡.md "wikilink")上，将收取服务费。每位用户获得1000元的免费提现额度，超过将被收取0.1%的费用，每次提现至少收取1角钱。如不够1角钱，系统将会禁止提现，其他支付功能，如红包和转账保持免费。
+要更新至最新的手机QQ5.4版本\[85\]\[86\]。2018年1月8日起，QQ红包做出服务变更，如果用户将QQ钱包余额提现到[银行卡](../Page/银行卡.md "wikilink")上，将收取服务费。每位用户获得1000元的免费提现额度，超过将被收取0.1%的费用，每次提现至少收取1角钱。如不够1角钱，系统将会禁止提现，其他支付功能，如红包和转账保持免费。
 
 ## 相关事件
 

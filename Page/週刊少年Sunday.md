@@ -73,7 +73,7 @@
 <td><p>不定期連載</p></td>
 </tr>
 <tr class="odd">
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BIRDMEN" title="wikilink">BIRDMEN</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/田边伊卫郎" title="wikilink">田边伊卫郎</a></p></td>
 <td><p>data-sort-value="2013.33" | 2013年33号</p></td>

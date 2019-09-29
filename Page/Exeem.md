@@ -8,7 +8,7 @@
 
 大家公認eXeem應有的功能（但不一定有）：
 
-  - 即時[加密與解密](https://zh.wikipedia.org/wiki/加密 "wikilink")
+  - 即時[加密](../Page/加密.md "wikilink")與解密
   - 透過檔案hash（雜湊）進行搜尋
   - QoS功能
   - 應有的通用隨插即用支援

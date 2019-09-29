@@ -6,7 +6,7 @@
 
 ## 使用
 
-[IBM](../Page/IBM.md "wikilink")经常在其主机和服务器上使用虚拟机来尽可能发挥其性能，并类似[chroot监禁那样将程序置于隔离的虚拟OS中以增强安全性](https://zh.wikipedia.org/wiki/chroot "wikilink")。除此之外，它还能使不同和不兼容的OS运行在同一台计算机上。Xen支持在运行时进行迁移，保证正常运行并且避免宕机。
+[IBM](../Page/IBM.md "wikilink")经常在其主机和服务器上使用虚拟机来尽可能发挥其性能，并类似[chroot监禁那样将程序置于隔离的虚拟OS中以增强安全性](https://zh.wikipedia.org/wiki/chroot "wikilink")。除此之外，它还能使不同和不兼容的OS运行在同一台计算机上。Xen支持在运行时进行迁移，保证正常运行并且避免宕机
 
 ## Xen的半虚拟化
 

@@ -12,13 +12,11 @@
 
 大部分AV女優皆屬於[AV經紀公司簽約](https://zh.wikipedia.org/wiki/AV事務所 "wikilink")，與[AV片商拍片後以拍片類型給不同的演出費](https://zh.wikipedia.org/wiki/成人视频制造商 "wikilink")。雖然也有自己與片商接片的女優，但是數量佔少數。
 
-[身材與](https://zh.wikipedia.org/wiki/身材 "wikilink")[相貌是經紀人與](https://zh.wikipedia.org/wiki/相貌 "wikilink")[經紀公司僱用AV女優的大前提](https://zh.wikipedia.org/wiki/AV事務所 "wikilink")，因為體型不能用[化妝和服裝掩饰](https://zh.wikipedia.org/wiki/化妝 "wikilink")。有別於普通的[情色電影或](https://zh.wikipedia.org/wiki/情色電影 "wikilink")[電視劇演員](../Page/日本电视剧.md "wikilink")，AV女優在片中僅需[裸體](https://zh.wikipedia.org/wiki/裸體 "wikilink")、表演[性行為姿勢](../Page/性交体位.md "wikilink")，劇情也不需表現出色。若要受市場長期青睞，不只需在姿色上突出，尚要有獨特之風格。姿容稍差的二線AV女優很難在新人輩出的业界存活，有時片商也會對較冷門的AV女優以群體合作演出（日本稱[企劃女優](https://zh.wikipedia.org/wiki/#企劃女優 "wikilink")）。
+身材與相貌是經紀人與[經紀公司僱用AV女優的大前提](https://zh.wikipedia.org/wiki/AV事務所 "wikilink")，因為體型不能用[化妝和服裝掩饰](https://zh.wikipedia.org/wiki/化妝 "wikilink")。有別於普通的[情色電影或](https://zh.wikipedia.org/wiki/情色電影 "wikilink")[電視劇演員](../Page/日本电视剧.md "wikilink")，AV女優在片中僅需[裸體](https://zh.wikipedia.org/wiki/裸體 "wikilink")、表演[性行為姿勢](../Page/性交体位.md "wikilink")，劇情也不需表現出色。若要受市場長期青睞，不只需在姿色上突出，尚要有獨特之風格。姿容稍差的二線AV女優很難在新人輩出的业界存活，有時片商也會對較冷門的AV女優以群體合作演出（日本稱[企劃女優](https://zh.wikipedia.org/wiki/#企劃女優 "wikilink")）。
 
 1980年後，[成人視訊於日本普及化](https://zh.wikipedia.org/wiki/色情片#日本成人視訊 "wikilink")。早期的成人視訊，片商可以利用拍攝角度及分鏡等手法避免女優實際性交\[3\]。如已故知名女優[飯島愛](../Page/飯島愛.md "wikilink")（1972年10月31日－2008年12月）曾在《[柏拉圖式性愛](../Page/柏拉圖式性愛.md "wikilink")》一書透露拍攝色情電影時的造假情形。后来業界競爭激烈，AV女優需要學習且具備一些技能\[4\]，拍攝時不能只對著[AV男優](https://zh.wikipedia.org/wiki/AV男優 "wikilink")，眼睛還要看著攝影機表演。
 
-片商絕不能違法拍攝，但有時為促銷而鼓勵AV女優契約同意拍攝一些特殊題材如[強暴](https://zh.wikipedia.org/wiki/強暴 "wikilink")、[變態等](../Page/變態_\(色情用語\).md "wikilink")\[5\]。正式出版前也需要透過[映畫倫理委員會](../Page/映畫倫理委員會.md "wikilink")的[審查階段](../Page/审查制度.md "wikilink")，并在[字幕](../Page/字幕.md "wikilink")說明「這不是發生於現實的事」。若非經合法審查即違法出售，片商與經紀公司皆要被告而[逮捕](../Page/逮捕.md "wikilink")、[監禁](https://zh.wikipedia.org/wiki/監禁 "wikilink")。
-
-。
+片商絕不能違法拍攝，但有時為促銷而鼓勵AV女優契約同意拍攝一些特殊題材如[強暴](https://zh.wikipedia.org/wiki/強暴 "wikilink")、[變態等](../Page/變態_\(色情用語\).md "wikilink")\[5\]。正式出版前也需要透過[映畫倫理委員會](../Page/映畫倫理委員會.md "wikilink")的[審查階段](../Page/审查制度.md "wikilink")，并在[字幕](../Page/字幕.md "wikilink")說明「這不是發生於現實的事」。若非經合法審查即違法出售，片商與經紀公司皆要被告而[逮捕](../Page/逮捕.md "wikilink")、[監禁](https://zh.wikipedia.org/wiki/監禁 "wikilink")。女優的另一工作是開攝影會 。
 
 ### 從初亮相到引退
 

@@ -29,7 +29,7 @@
 <!-- end list -->
 
   - 安全性
-      - [FileVault](https://zh.wikipedia.org/wiki/FileVault "wikilink")：直接針對使用者的目錄作[加密和解密](https://zh.wikipedia.org/wiki/加密 "wikilink")。
+      - [FileVault](https://zh.wikipedia.org/wiki/FileVault "wikilink")：直接針對使用者的目錄作[加密](../Page/加密.md "wikilink")和解密。
 
 <!-- end list -->
 

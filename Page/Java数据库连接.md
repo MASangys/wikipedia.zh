@@ -109,29 +109,29 @@ JDBC API主要位于JDK中的java.sql包中（之后扩展的内容位于javax.s
 
 ## 例子
 
-利用Class.forName()方法来加载JDBC驱动程序（*Driver*）至DriverManager：
+利用Class.forName()方法來加载JDBC驅動程序（*Driver*）至DriverManager：
 
 ``` java
 Class.forName( "com.somejdbcvendor.TheirJdbcDriver" );
 ```
 
-然后，从DriverManager中，通过JDBC [URL](https://zh.wikipedia.org/wiki/URL "wikilink")，用户名，密码来获取相应的数据库连接（*Connection*）：
+然後，从DriverManager中，通過JDBC [URL](https://zh.wikipedia.org/wiki/URL "wikilink")，用户名，密碼來獲取相應的資料庫連接（*Connection*）：
 
 ``` java
 Connection conn = DriverManager.getConnection(
       "jdbc:somejdbcvendor:other data needed by some jdbc vendor", // URL
       "myLogin", // 用户名
-      "myPassword" ); // 密码
+      "myPassword" ); // 密碼
 ```
 
-不同的JDBC驱动程序的URL是不同的，它永远以“jdbc：”开始，但后面的内容依照驱动程序类型不同而各异。在获取*Connection*之后，便可以建立*Statement*用以执行SQL语句。下面是一个插入（INSERT）的例子：
+不同的JDBC驅動程序的URL是不同的，它永遠以“jdbc：”開始，但後面的内容依照驅動程序類型不同而各異。在獲取*Connection*之后，便可以建立*Statement*用以執行SQL语句。下面是一个插入（INSERT）的例子：
 
 ``` java
  Statement stmt = conn.createStatement();
  stmt.executeUpdate( "INSERT INTO MyTable( name ) VALUES ( 'my name' ) " );
 ```
 
-查询（SELECT）的结果存放于结果集（*ResultSet*）中，可以按照顺序依次访问：
+查詢（SELECT）的结果存放于结果集（*ResultSet*）中，可以按照顺序依次訪問：
 
 ``` java
  Statement stmt = conn.createStatement();
@@ -139,8 +139,8 @@ Connection conn = DriverManager.getConnection(
  while ( rs.next() ) {
      int numColumns = rs.getMetaData().getColumnCount();
      for ( int i = 1 ; i <= numColumns ; i++ ) {
-        // 与大部分Java API中下标的使用方法不同，字段的下标从1开始
-        // 当然，还有其他很多的方式（ResultSet.getXXX()）获取数据
+        // 與大部分Java API中下標的使用方法不同，字段的下標從1開始
+        // 當然，還有其他很多的方式（ResultSet.getXXX()）獲取數據
         System.out.println( "COLUMN " + i + " = " + rs.getObject(i) );
      }
  }
@@ -148,7 +148,7 @@ Connection conn = DriverManager.getConnection(
  stmt.close();
 ```
 
-但是，通常，Java[程序员](../Page/程序员.md "wikilink")们更倾向于使用*PreparedStatement*。下面的例子使用上例中的conn对象：
+但是，通常，Java[程序员](../Page/程序员.md "wikilink")们更倾向于使用*PreparedStatement*。下面的例子使用上例中的conn對象：
 
 ``` java
  PreparedStatement ps = null;
@@ -156,11 +156,11 @@ Connection conn = DriverManager.getConnection(
  try {
  ps = conn.prepareStatement( "SELECT i.*, j.* FROM Omega i, Zappa j
       WHERE i = ? AND j = ?" );
- // 使用问号作为参数的标示
+ // 使用問號作为參數的標示
 
- // 进行参数设置
- // 与大部分Java API中下标的使用方法不同，字段的下标从1开始，1代表第一个问号
- // 当然，还有其他很多针对不同类型的类似的PreparedStatement.setXXX()方法
+ // 進行參數設置
+ // 與大部分Java API中下标的使用方法不同，字段的下標從1開始，1代表第一个問號
+ // 當然，還有其他很多針對不同類型的類似的PreparedStatement.setXXX()方法
  ps.setString(1, "Poor Yorick");
  ps.setInt(2, 8008);
 
@@ -169,33 +169,33 @@ Connection conn = DriverManager.getConnection(
  while ( rs.next() ) {
      int numColumns = rs.getMetaData().getColumnCount();
      for ( int i = 1 ; i <= numColumns ; i++ ) {
-        // 与大部分Java API中下标的使用方法不同，字段的下标从1开始
-        // 当然，还有其他很多的方式（ResultSet.getXXX()）获取数据
+        // 與大部分Java API中下标的使用方法不同，字段的下標從1開始
+        // 當然，還有其他很多的方式（ResultSet.getXXX()）獲取數據
         System.out.println( "COLUMN " + i + " = " + rs.getObject(i) );
      }
 
  }
  catch (SQLException e) {
-  // 异常处理
+  // 異常處理
  }
  finally { // 使用finally进行资源释放
   try {
    rs.close();
    ps.close();
-  } catch( SQLException e){} // 异常处理：忽略close()时的错误
+  } catch( SQLException e){} // 异常處理：忽略close()时的错误
  }
 ```
 
-如果数据库操作失败，JDBC将抛出一个[SQLException](https://zh.wikipedia.org/wiki/SQLException "wikilink")。一般来说，此类异常很少能够恢复，唯一能做的就是尽可能详细的打印异常日记。推荐的做法是将SQLException翻译成应用程序领域相关的异常（非强制处理异常）并最终回滚数据库和通知用户。
+如果数据库操作失败，JDBC将抛出一个[SQLException](https://zh.wikipedia.org/wiki/SQLException "wikilink")。一般来说，此類異常很少能夠恢復，唯一能做的就是盡可能詳細的打印異常日記。推薦的做法是将SQLException翻譯成應用程序领域相關的異常（非强制處理異常）並最终回滚數據庫和通知用户。
 
-一个[数据库事务](../Page/数据库事务.md "wikilink")代码如下：
+一個[數據庫事務代碼如下](https://zh.wikipedia.org/wiki/數據庫事務 "wikilink")：
 
 ``` java
 boolean autoCommitDefault = conn.getAutoCommit();
 try {
     conn.setAutoCommit(false);
 
-    /* 在此基于有事务控制的conn执行你的代码 */
+    /* 在此基于有事務控制的conn執行你的代碼 */
 
     conn.commit();
 } catch (Throwable e) {

@@ -16,7 +16,7 @@ LGPL有一特點是LGPL軟體可以被轉換成GPL（參見[Section 3](https://z
 
 ## 编程语言要求
 
-LGPL 协议主要是面向使用 [C语言](https://zh.wikipedia.org/wiki/C语言 "wikilink") 以及类 C 语言。Franz Inc. 发布了 LLGPL 协议，增加了序言部分以澄清 [LISP](../Page/LISP.md "wikilink") 语言中的上下文问题。\[1\]
+LGPL 协议主要是面向使用 [C语言](https://zh.wikipedia.org/wiki/C语言 "wikilink") 以及[类C语言](https://zh.wikipedia.org/wiki/类C语言 "wikilink")。Franz Inc. 发布了 LLGPL 协议，增加了序言部分以澄清 [LISP](../Page/LISP.md "wikilink") 语言中的上下文问题。\[1\]
 
 另外 [Ada](../Page/Ada.md "wikilink") 语言还有一个特殊的特性——泛型，所以需要使用 LGPL 的另一个变种 [GNAT Modified General Public License](../Page/GMGPL.md "wikilink")：允许代码链接一些特殊情况，以避免被 GPL 所覆盖。
 

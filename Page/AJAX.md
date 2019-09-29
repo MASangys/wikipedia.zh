@@ -134,6 +134,6 @@ Ajax是以异步的方式向服务器提交需求。对服务器而言，其与�
 3.  [Web设计10大错误（1999年）](http://www.useit.com/alertbox/990530.html)—Jakob Nielsen著
 4.  [Remote Scripting with AJAX, Part 2](http://www.xml.com/pub/a/2005/08/22/ajax.html)
 5.  [延遲必死：預讀資料以降低延遲](http://www.jonathanboutelle.com/mt/archives/2004/08/latency_must_di.html)—JonathanBoutelle.com
-6.  [不可靠網路下的非同步要求](http://ajaxblog.com/archives/2005/06/01/async-requests-over-an-unreliable-network)—Harry Fuecks著，2005年2月
+6.  [不可靠網路下的非同步要求](http://ajaxblog.com/archives/2005/06/01/async-requests-over-an-unreliable-network) —Harry Fuecks著，2005年2月
 7.  [小朋友們聽著, AJAX不怎麼酷](http://www.lastcraft.com/blog/index.php?p=19) —Marcus Baker著，2005年6月3日
 8.  [Opera 9支援的網頁規格](http://www.opera.com/docs/specs/)—XSLT, XPath, and XSL-FO部分論及不支持XSL-FO與XSLT，最近存取日2007年11月7日

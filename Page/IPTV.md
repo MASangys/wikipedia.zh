@@ -28,6 +28,10 @@
 
 2013年，[中国中央电视台](../Page/中国中央电视台.md "wikilink")下属[央视网](../Page/央视网.md "wikilink")与[百视通](../Page/百视通.md "wikilink")合资成立[爱上电视传媒](../Page/爱上电视传媒.md "wikilink")公司，作为唯一中国大陆IPTV总平台。
 
+## 版权限制
+
+因IPTV仍属于网络电视，故一些只拥有传统电视播映权的节目或频道可能无法在IPTV观看。例如，中国大陆的IPTV平台普遍没有CCTV-3、5、6、8四个频道，台湾[中华电信MOD也经常出现因授权问题被迫以其他同类节目覆盖无线台原节目内容的情况](https://zh.wikipedia.org/wiki/中华电信MOD "wikilink")。
+
 ## 相關條目
 
   - [類比電視](../Page/類比電視.md "wikilink")
