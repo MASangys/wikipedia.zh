@@ -1,26 +1,32 @@
-[Peninsula_East.jpg](https://zh.wikipedia.org/wiki/File:Peninsula_East.jpg "fig:Peninsula_East.jpg") **Peninsula East**，位處於[香港](../Page/香港.md "wikilink")[九龍](../Page/九龍.md "wikilink")[油塘](../Page/油塘.md "wikilink")崇耀街9號，是[會德豐](../Page/會德豐.md "wikilink")旗下在油塘的首個住宅項目，部分單位可飽覽維港海景及[東九龍](https://zh.wikipedia.org/wiki/東九龍 "wikilink")[啟德郵輪碼頭](../Page/啟德郵輪碼頭.md "wikilink")景致。 項目鄰近油塘灣「綜合發展區」及港鐵油塘站，僅一站往來香港島鰂魚涌。
+[Peninsula_East.jpg](https://zh.wikipedia.org/wiki/File:Peninsula_East.jpg "fig:Peninsula_East.jpg") **Peninsula East**，位處於[香港](../Page/香港.md "wikilink")[九龍](../Page/九龍.md "wikilink")[油塘](../Page/油塘.md "wikilink")崇耀街9號，是[會德豐](../Page/會德豐.md "wikilink")旗下在油塘的首個住宅項目，部分單位可飽覽維港海景及[東九龍](https://zh.wikipedia.org/wiki/東九龍 "wikilink")[啟德郵輪碼頭](../Page/啟德郵輪碼頭.md "wikilink")景致。項目鄰近油塘灣「綜合發展區」及港鐵油塘站，僅一站往來香港島鰂魚涌。於入伙後，Peninsula East增加多項增值服務，包括24小時健身室、設有駐場[家務助理](https://zh.wikipedia.org/wiki/家務助理 "wikilink")，為住戶提供上門清潔服務等。
 
 Peninsula East，據發展商指出是喻意項目位處九龍半島的東面。 屋苑的入口設於崇耀街9號，但東源街3、5、7、9、11號和崇德圍3號也屬Peninsula East的正確地址。
 
-屋苑由兩座45層高的住宅大廈組成（不設4、13、14、24、34及44樓），共提供256個住宅單位。兩座大樓排列成「凹」字形，全部單位可望園林景致，大單位同時享有開揚的維港海景。
+屋苑由兩座45層高的住宅大廈組成（不設4、13、14、24、34及44樓），共提供256個住宅單位。兩座大樓排列成「凹」字形，全部單位可望園林景致，大單位同時享有開揚的維港海景。總承建商是[興勝建築有限公司](../Page/興勝創建.md "wikilink")\[1\]。
 
 每座每層四伙單位，住宅樓底高達3.15米，標準單位面積由約517至1033平方呎，主打兩至四房佈局，當中兩房單位佔約50%，三及四房單位各佔約38%及12%，連天台或連平台的特色單位有12伙，僅佔4.7%
 
-Peninsula East 2015年4月開售，在2017年8月入伙。物業基座共8層，地下至2樓設有商舖，2至5樓為停車場，6樓為住客會所，7樓為室內恆溫游泳池，8樓為空中花園。最低的住宅樓層亦比項目前臨的地面也高出43.55米，相當於一般住宅超過15層高的高度。 \[1\]\[2\]
+Peninsula East 2015年4月開售，在2017年8月入伙。物業基座共8層，地下至2樓設有商舖，2至5樓為停車場，6樓為住客會所，7樓為室內恆溫游泳池，8樓為空中花園。最低的住宅樓層亦比項目前臨的地面也高出43.55米，相當於一般住宅超過15層高的高度。 \[2\]\[3\]
 
 ## 記錄
 
 **一手物業銷售條例後，最快全數售罄的項目**
-第一晚開售3小時售出首批全數150伙; 第二晚開售，餘下106伙於2.5小時內沽清。 換言之，Peninsula East 當時平均不足78秒就售出一伙\[3\]。
+第一晚開售3小時售出首批全數150伙; 第二晚開售，餘下106伙於2.5小時內沽清。 換言之，Peninsula East 當時平均不足78秒就售出一伙\[4\]。
 
 **油塘首個室內恆溫游泳池**
 作為油塘第4個新發展項目，Peninsula East是第一個擁有室內恆溫游泳池的住宅項目，游泳池長度達35米（一般住宅普遍只有25米）。
 
 **油塘面積最大的標準戶**
-2座A室的實用面積高達1,033（以新例前標準，約1,400呎建築），四房間隔另加工人套房，截至2015年，是油塘最大的一般分層單位(非特色戶)。
+2座A室的實用面積高達1,033（以新例前標準，約1,400呎建築），四房間隔另加工人套房，截至2019年，是油塘最大的一般分層單位(非特色戶)。
 
 **油塘最大戶外空間的平台特色戶**
-項目設有8個平台特色戶，平台戶外空間面積高達825呎。
+項目設有8個平台特色戶，個別平台戶外空間面積高達825呎。
+
+**油塘首個24小時開放的會所健身室**
+於2018年8月起延長健身室開放時間，PENINSULA EAST成為油塘首個24小時開放的健身室。
+
+**油塘首個「[服務式住宅](https://zh.wikipedia.org/wiki/服務式住宅 "wikilink")」概念住宅，提供駐場家務肋理服務**
+於2019年8月起，PENINSULA EAST提供駐場家務肋理服務，供兩座住戶可以低廉價錢使用屋苑提供的上門家居清潔。
 
 ## 工程圖像
 
@@ -29,8 +35,8 @@ Peninsula East under construction in August 2015 (viewed from Hong Kong Island).
 ## 知名業主/住客
 
   - [陳煒](../Page/陳煒.md "wikilink")
-  - [高海寧](../Page/高海寧.md "wikilink")\[4\]
-  - [顏卓靈](../Page/顏卓靈.md "wikilink")\[5\]
+  - [高海寧](../Page/高海寧.md "wikilink")\[5\]
+  - [顏卓靈](../Page/顏卓靈.md "wikilink")\[6\]
 
 ## 鄰近地標
 
@@ -127,8 +133,9 @@ Peninsula East under construction in August 2015 (viewed from Hong Kong Island).
   -
 [Category:油塘](https://zh.wikipedia.org/wiki/Category:油塘 "wikilink") [Category:觀塘區私人屋苑](https://zh.wikipedia.org/wiki/Category:觀塘區私人屋苑 "wikilink") [Category:2017年完工建築物](https://zh.wikipedia.org/wiki/Category:2017年完工建築物 "wikilink") [Category:會德豐地產(香港)物業](https://zh.wikipedia.org/wiki/Category:會德豐地產\(香港\)物業 "wikilink") [Category:香港私人屋苑](https://zh.wikipedia.org/wiki/Category:香港私人屋苑 "wikilink")
 
-1.
-2.  [會德豐 新聞稿](http://www.wheelockpropertieshk.com/press/2014.12.23/press%20release_Peninsula%20East_20141223.pdf)
-3.
+1.  <https://www.hanison.com/hccl/chi/Portfolio/Residential.aspx?sm=c23>
+2.
+3.  [會德豐 新聞稿](http://www.wheelockpropertieshk.com/press/2014.12.23/press%20release_Peninsula%20East_20141223.pdf)
 4.
-5.  [藝人愛磚頭　熱捧東九新盤](http://hk.apple.nextmedia.com/financeestate/art/20150417/19115558)
+5.
+6.  [藝人愛磚頭　熱捧東九新盤](http://hk.apple.nextmedia.com/financeestate/art/20150417/19115558)

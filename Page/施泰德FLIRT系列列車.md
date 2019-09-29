@@ -50,7 +50,7 @@ FLIRT列车最初是为[瑞士联邦铁路设计的](https://zh.wikipedia.org/wi
 
   - [Stadler 网站](https://web.archive.org/web/20091212175956/http://www.stadlerrail.com/en/vehicles/flirt/)
 
-[Category:瑞士电力动车组](https://zh.wikipedia.org/wiki/Category:瑞士电力动车组 "wikilink") [Category:15千伏16.7赫兹交流电力动车组](https://zh.wikipedia.org/wiki/Category:15千伏16.7赫兹交流电力动车组 "wikilink") [Category:25千伏50赫兹交流电力动车组](https://zh.wikipedia.org/wiki/Category:25千伏50赫兹交流电力动车组 "wikilink") [Category:1500伏直流电力动车组](https://zh.wikipedia.org/wiki/Category:1500伏直流电力动车组 "wikilink") [Category:3000伏直流电力动车组](https://zh.wikipedia.org/wiki/Category:3000伏直流电力动车组 "wikilink") [Category:香港電力動車組](https://zh.wikipedia.org/wiki/Category:香港電力動車組 "wikilink")
+[Category:瑞士电力动车组](https://zh.wikipedia.org/wiki/Category:瑞士电力动车组 "wikilink") [Category:15千伏16.7赫兹交流电力动车组](https://zh.wikipedia.org/wiki/Category:15千伏16.7赫兹交流电力动车组 "wikilink") [Category:25千伏50赫兹交流电力动车组](https://zh.wikipedia.org/wiki/Category:25千伏50赫兹交流电力动车组 "wikilink") [Category:1500伏直流电力动车组](https://zh.wikipedia.org/wiki/Category:1500伏直流电力动车组 "wikilink") [Category:3000伏直流电力动车组](https://zh.wikipedia.org/wiki/Category:3000伏直流电力动车组 "wikilink")
 
 1.   Stadler press release
 2.

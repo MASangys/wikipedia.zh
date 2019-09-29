@@ -3496,41 +3496,34 @@ JoJo的奇妙冒險: 黃金之風</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>9月8日</p></td>
-<td><p>第二季</p></td>
-<td><p>48</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p><a href="../Page/鎖鏈戰記.md" title="wikilink">鎖鏈戰記 赫克瑟塔斯之光</a></p></td>
 <td><p>5月30日</p></td>
 <td></td>
 <td><p>12</p></td>
 <td><p>星期一至二 22:00－23:00</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/強襲魔女.md" title="wikilink">無畏魔女</a></p></td>
 <td><p>6月7日</p></td>
 <td><p>第三季</p></td>
 <td><p>12</p></td>
 <td><p>星期一至五18:30－19:30</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/吸血鬼僕人.md" title="wikilink">吸血鬼僕人</a></p></td>
 <td><p>6月15日</p></td>
 <td></td>
 <td><p>12</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/Hand_Shakers.md" title="wikilink">Hand Shakers</a></p></td>
 <td><p>6月15日</p></td>
 <td></td>
 <td><p>12</p></td>
 <td><p>星期三至四 20:00－21:00</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/火星異種.md" title="wikilink">火星任務：復仇<br />
 火星任務</a></p></td>
 <td><p>6月20日</p></td>
@@ -3540,56 +3533,56 @@ JoJo的奇妙冒險: 黃金之風</a></p></td>
 7月起 星期一22:00－23:00[55]<br />
 7月24日、9月25日 22:00－22:30</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>8月14日</p></td>
 <td><p>第一季</p></td>
 <td><p>13</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/Urara迷路帖" title="wikilink">URARA迷路帖</a></p></td>
 <td><p>6月23日</p></td>
 <td></td>
 <td><p>12</p></td>
 <td><p>週一至五18:30－19:30</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/戀愛與謊言" title="wikilink">戀愛與謊言</a></strong></p></td>
 <td><p>7月4日</p></td>
 <td></td>
 <td><p>12</p></td>
 <td><p>星期二22:00-22:30</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/悠久持有者" title="wikilink">悠久持有者!</a></strong></p></td>
 <td><p>10月3日</p></td>
 <td></td>
 <td><p>13</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/斯特拉的魔法.md" title="wikilink">斯特拉的魔法</a></p></td>
 <td><p>10月4日</p></td>
 <td></td>
 <td><p>12</p></td>
 <td><p>星期三至四 20:00－21:00</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/歡迎來到實力至上主義的教室.md" title="wikilink">歡迎來到實力至上主義的教室</a></p></td>
 <td><p>11月20日</p></td>
 <td></td>
 <td><p>12</p></td>
 <td><p>星期一至二 20:00－21:00</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/覆面系NOISE.md" title="wikilink">假面Noise</a></p></td>
 <td><p>12月11日</p></td>
 <td></td>
 <td><p>12</p></td>
 <td><p>星期一至二 20:00－21:00</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>註釋:</strong></p>
 <references group="註" /></td>
 <td></td>
@@ -3885,6 +3878,13 @@ JoJo的奇妙冒險: 黃金之風</a></p></td>
 <td><p>星期四 20:30－21:00</p></td>
 </tr>
 <tr class="even">
+<td><p><em><a href="../Page/爆肝工程師的異世界狂想曲.md" title="wikilink">爆肝工程師的異世界狂想曲</a></em></p></td>
+<td><p>9月24日</p></td>
+<td></td>
+<td><p>12</p></td>
+<td><p>星期二 20:30－21:00</p></td>
+</tr>
+<tr class="odd">
 <td><p><strong>註釋:</strong></p>
 <references group="註" /></td>
 <td></td>

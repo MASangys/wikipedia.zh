@@ -40,7 +40,7 @@ iPad Mini 3獲得了比其前身[iPad Mini 2更好的讚譽](https://zh.wikipedi
 
 ## 繼任
 
-[Category:IPad](https://zh.wikipedia.org/wiki/Category:IPad "wikilink") [Category:2014年面世的平板電腦](https://zh.wikipedia.org/wiki/Category:2014年面世的平板電腦 "wikilink")
+[Category:IPad](https://zh.wikipedia.org/wiki/Category:IPad "wikilink") [Category:2014年面世的平板電腦](https://zh.wikipedia.org/wiki/Category:2014年面世的平板電腦 "wikilink") [Category:IPad_mini](https://zh.wikipedia.org/wiki/Category:IPad_mini "wikilink")
 
 1.
 2.

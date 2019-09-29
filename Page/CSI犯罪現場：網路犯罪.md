@@ -71,7 +71,7 @@ FBI特別探員→FBI副處長</p></td>
 （Diebenkorn "D.B." Russell）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/特德·丹森" title="wikilink">特德·丹森</a><br />
 （Ted Danson）</p></td>
-<td><p>三級調查員</p></td>
+<td><p>次时代网络取证总监</p></td>
 <td></td>
 <td><p><font color=black>主角</p></td>
 </tr>

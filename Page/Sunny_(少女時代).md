@@ -437,9 +437,7 @@
   - 9月11日 [SBS](../Page/SBS_\(韓國\).md "wikilink") 《[同床異夢2 - 你是我的命運](../Page/同床異夢2_-_你是我的命運.md "wikilink")》
   - 9月16日 [SBS](../Page/SBS_\(韓國\).md "wikilink") 《[朴軫永的Party People](https://zh.wikipedia.org/wiki/朴軫永的Party_People "wikilink")》
   - 9月29日 [Channel A](../Page/Channel_A.md "wikilink") 《[我們也是國家代表](../Page/我們也是國家代表.md "wikilink")》
-  - 9月30日 [KBS 2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")《[戰鬥旅行](../Page/戰鬥旅行.md "wikilink")》與[孝淵共同出演](https://zh.wikipedia.org/wiki/金孝淵 "wikilink")
-  - 10月7日 [KBS 2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")《[戰鬥旅行](../Page/戰鬥旅行.md "wikilink")》與[孝淵共同出演](https://zh.wikipedia.org/wiki/金孝淵 "wikilink")
-  - 10月14日 [KBS 2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")《[戰鬥旅行](../Page/戰鬥旅行.md "wikilink")》與[孝淵共同出演](https://zh.wikipedia.org/wiki/金孝淵 "wikilink")
+  - 9月30日、10月7日、10月14日 [KBS 2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")《[戰鬥旅行](../Page/戰鬥旅行.md "wikilink")》與[孝淵共同出演](https://zh.wikipedia.org/wiki/金孝淵 "wikilink")
   - 10月31日 FashionN 《[拜託了梳妝台](../Page/拜託了梳妝台.md "wikilink")3》
 
 <!-- end list -->
@@ -450,12 +448,13 @@
   - 5月5日 [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") 《[意外的Q](../Page/意外的Q.md "wikilink")》
   - 7月15日  《今天吃什麼 - 全能料理教室》
   - 8月30日 [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") 《[公司食堂](https://zh.wikipedia.org/wiki/公司食堂 "wikilink")》
-  - 11月17日 Lifetime 《[睡衣朋友](../Page/睡衣朋友.md "wikilink")》代班主持
-  - 11月24日 Lifetime 《[睡衣朋友](../Page/睡衣朋友.md "wikilink")》代班主持
+  - 11月17日、11月24日 Lifetime 《[睡衣朋友](../Page/睡衣朋友.md "wikilink")》代班主持
 
 <!-- end list -->
 
+  - 7月7日 [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") 《[Super Hearer](../Page/Super_Hearer.md "wikilink")》
   - 8月10日 [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") 《[驚人的星期六](../Page/驚人的星期六.md "wikilink")》與[太妍](../Page/太妍.md "wikilink")共同出演
+  - 9月1日、9月8日 [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") 《[Running Man](../Page/Running_Man.md "wikilink")》(8月20日錄製)
 
 ### 旁白配音
 
@@ -547,7 +546,7 @@
 <td><p>2018年1月11日－ 2月15日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBN" title="wikilink">MBN</a></p></td>
 <td><p><a href="../Page/現實男女.md" title="wikilink">現實男女</a></p></td>
-<td><p>與、<a href="../Page/梁世炯.md" title="wikilink">梁世炯</a>、<a href="../Page/申成宇.md" title="wikilink">申成宇</a>、<a href="../Page/崔鍾訓.md" title="wikilink">崔鍾訓</a>、<a href="https://zh.wikipedia.org/wiki/韓銀貞" title="wikilink">韓銀貞</a>、<a href="../Page/孔賢珠.md" title="wikilink">孔賢珠</a>、<a href="https://zh.wikipedia.org/wiki/金請夏" title="wikilink">金請夏主持</a></p></td>
+<td><p>與<a href="../Page/尹正秀.md" title="wikilink">尹正秀</a>、<a href="../Page/梁世炯.md" title="wikilink">梁世炯</a>、<a href="../Page/申成宇.md" title="wikilink">申成宇</a>、<a href="../Page/崔鍾訓.md" title="wikilink">崔鍾訓</a>、<a href="https://zh.wikipedia.org/wiki/韓銀貞" title="wikilink">韓銀貞</a>、<a href="../Page/孔賢珠.md" title="wikilink">孔賢珠</a>、<a href="https://zh.wikipedia.org/wiki/金請夏" title="wikilink">金請夏主持</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2018年2月12日－ 4月5日</p></td>
@@ -565,7 +564,7 @@
 <td><p>2018年8月10日 - 10月26日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBN" title="wikilink">MBN</a></p></td>
 <td><p><a href="../Page/現實男女.md" title="wikilink">現實男女</a>2</p></td>
-<td><p>與、<a href="../Page/梁世炯.md" title="wikilink">梁世炯</a>、<a href="../Page/利特.md" title="wikilink">利特</a>、<a href="../Page/徐恩光.md" title="wikilink">徐恩光</a>、<a href="https://zh.wikipedia.org/wiki/韓銀貞" title="wikilink">韓銀貞</a>、<a href="https://zh.wikipedia.org/wiki/張度妍" title="wikilink">張度妍</a>、<a href="https://zh.wikipedia.org/wiki/金請夏" title="wikilink">金請夏主持</a></p></td>
+<td><p>與<a href="../Page/尹正秀.md" title="wikilink">尹正秀</a>、<a href="../Page/梁世炯.md" title="wikilink">梁世炯</a>、<a href="../Page/利特.md" title="wikilink">利特</a>、<a href="../Page/徐恩光.md" title="wikilink">徐恩光</a>、<a href="https://zh.wikipedia.org/wiki/韓銀貞" title="wikilink">韓銀貞</a>、<a href="https://zh.wikipedia.org/wiki/張度妍" title="wikilink">張度妍</a>、<a href="https://zh.wikipedia.org/wiki/金請夏" title="wikilink">金請夏主持</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2019年5月12日 - 7月14日</p></td>

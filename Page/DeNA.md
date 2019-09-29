@@ -2,7 +2,7 @@
 
 2011年12月2日，[東京放送控股](../Page/東京放送控股.md "wikilink")賣出[日本職棒](https://zh.wikipedia.org/wiki/日本職棒 "wikilink")[橫濱海灣之星過半股權給DeNA](https://zh.wikipedia.org/wiki/橫濱海灣之星 "wikilink")，橫濱海灣之星改為[橫濱DeNA海灣之星](../Page/橫濱DeNA海灣之星.md "wikilink")。\[3\]
 
-2015年3月17日，與[任天堂](../Page/任天堂.md "wikilink")合作，並交換股權。DeNA獲得任天堂1.24%的股權，而任天堂則取得DeNA 10%的股權\[4\]
+2015年3月17日，與[任天堂](../Page/任天堂.md "wikilink")合作，並交換股權。DeNA獲得任天堂1.24%的股權，而任天堂則取得DeNA 10%的股權\[4\]。
 
 ## 參考資料
 

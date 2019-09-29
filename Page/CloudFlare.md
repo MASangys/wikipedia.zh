@@ -94,7 +94,7 @@ Cloudflare 對言論自由價值的支持一直為人所傳頌，執行長 Matth
 
 ## 参考文献
 
-[Category:内容分发网络](https://zh.wikipedia.org/wiki/Category:内容分发网络 "wikilink") [Category:加利福尼亞州公司](https://zh.wikipedia.org/wiki/Category:加利福尼亞州公司 "wikilink") [Category:美国互联网公司](https://zh.wikipedia.org/wiki/Category:美国互联网公司 "wikilink") [Category:2009年成立的公司](https://zh.wikipedia.org/wiki/Category:2009年成立的公司 "wikilink") [Category:網絡安全公司](https://zh.wikipedia.org/wiki/Category:網絡安全公司 "wikilink") [Category:2009年加利福尼亞州建立](https://zh.wikipedia.org/wiki/Category:2009年加利福尼亞州建立 "wikilink")
+[Category:内容分发网络](https://zh.wikipedia.org/wiki/Category:内容分发网络 "wikilink") [Category:旧金山公司](https://zh.wikipedia.org/wiki/Category:旧金山公司 "wikilink") [Category:美国互联网公司](https://zh.wikipedia.org/wiki/Category:美国互联网公司 "wikilink") [Category:2009年成立的公司](https://zh.wikipedia.org/wiki/Category:2009年成立的公司 "wikilink") [Category:计算机安全公司](https://zh.wikipedia.org/wiki/Category:计算机安全公司 "wikilink") [Category:2009年加利福尼亞州建立](https://zh.wikipedia.org/wiki/Category:2009年加利福尼亞州建立 "wikilink") [Category:2019年IPO](https://zh.wikipedia.org/wiki/Category:2019年IPO "wikilink")
 
 1.
 2.

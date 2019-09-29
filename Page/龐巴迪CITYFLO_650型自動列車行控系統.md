@@ -50,4 +50,4 @@ CITYFLO 650被實際應用於全世界多個國家，截至2014年2月底，共�
 
   - [大眾運輸解決方案](http://www.bombardier.com/en/transportation/products-services/rail-control-solutions/mass-transit-solutions.html)（龐巴迪官方網站）
 
-[Category:龐巴迪集團](https://zh.wikipedia.org/wiki/Category:龐巴迪集團 "wikilink") [Category:鐵路訊號系統](https://zh.wikipedia.org/wiki/Category:鐵路訊號系統 "wikilink")
+[Category:龐巴迪集團](https://zh.wikipedia.org/wiki/Category:龐巴迪集團 "wikilink") [Category:鐵路訊號系統](https://zh.wikipedia.org/wiki/Category:鐵路訊號系統 "wikilink") [Category:車載資訊系統](https://zh.wikipedia.org/wiki/Category:車載資訊系統 "wikilink")

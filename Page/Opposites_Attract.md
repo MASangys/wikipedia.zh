@@ -26,7 +26,7 @@
 
 ## 參考資料
 
-[Category:美國冠軍單曲](https://zh.wikipedia.org/wiki/Category:美國冠軍單曲 "wikilink") [Category:告示牌百強單曲榜冠軍單曲](https://zh.wikipedia.org/wiki/Category:告示牌百強單曲榜冠軍單曲 "wikilink")
+[Category:美國冠軍單曲](https://zh.wikipedia.org/wiki/Category:美國冠軍單曲 "wikilink") [Category:告示牌百強單曲榜冠軍單曲](https://zh.wikipedia.org/wiki/Category:告示牌百強單曲榜冠軍單曲 "wikilink") [Category:1989年單曲](https://zh.wikipedia.org/wiki/Category:1989年單曲 "wikilink")
 
 1.  [美國告示牌官網2014-10-06音樂報導](http://www.billboard.com/articles/columns/pop-shop/6273788/1990-best-musical-1990s)
 2.  [美國滾石雜誌官網音樂資料](http://www.rollingstone.com/music/pictures/the-greatest-animated-music-videos-20120131/paula-abdul-opposites-attract-0150526)

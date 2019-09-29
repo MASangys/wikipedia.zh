@@ -6,7 +6,7 @@
 
 ## 點題歌曲
 
-《Get Up and Dance》雖是一首「新歌」，但實際上卻是一首串燒歌曲，包含歌曲包括《[人生何處不相逢](../Page/人生何處不相逢.md "wikilink")》、《[傻女](../Page/傻女.md "wikilink")》、《不羈戀人》、《幾時再見》、《[千千闕歌](https://zh.wikipedia.org/wiki/千千闕歌 "wikilink")》及《[跳舞街](../Page/跳舞街.md "wikilink")》\[2\]。由[甘志偉及Patrick](https://zh.wikipedia.org/wiki/甘志偉 "wikilink") Delay重新編曲。
+《Get Up and Dance》雖是一首「新歌」，但實際上卻是一首串燒歌曲，包含歌曲包括《[人生何處不相逢](../Page/人生何處不相逢.md "wikilink")》、《[傻女](../Page/傻女.md "wikilink")》、《不羈戀人》、《幾時再見》、《[千千闕歌](../Page/千千闕歌.md "wikilink")》及《[跳舞街](../Page/跳舞街.md "wikilink")》\[2\]。由[甘志偉及Patrick](https://zh.wikipedia.org/wiki/甘志偉 "wikilink") Delay重新編曲。
 
 ## 参考資料
 

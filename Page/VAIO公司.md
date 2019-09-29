@@ -1,8 +1,8 @@
-**VAIO公司**（、）是[日本](../Page/日本.md "wikilink")的一家[消費電子產品](../Page/消費電子產品.md "wikilink")製造商。總部及生產基地位於日本長野縣安曇野市，業務包括電腦及電子專業製造服務，集合規劃、設計、開發、製造、銷售及輔助服務\[1\]。
+**VAIO公司**（、）是[日本](../Page/日本.md "wikilink")的一家[消費電子產品](../Page/消費電子產品.md "wikilink")製造商。總部及生產基地位於[長野縣](https://zh.wikipedia.org/wiki/長野縣 "wikilink")[安曇野市](https://zh.wikipedia.org/wiki/安曇野市 "wikilink")，業務包括電腦及電子專業製造服務，集合規劃、設計、開發、製造、銷售及輔助服務\[1\]。
 
 ## 歷史
 
-2014年7月1日，[索尼](../Page/索尼.md "wikilink")拆售[VAIO](../Page/VAIO.md "wikilink")個人電腦業務部門，VAIO公司創立。
+2014年7月1日，[索尼](../Page/索尼.md "wikilink")拆售[VAIO](../Page/VAIO.md "wikilink")個人電腦業務部門，接受[日本產業夥伴的投資成立VAIO公司](https://zh.wikipedia.org/wiki/日本產業夥伴 "wikilink")，並持有VAIO品牌商標而繼續推出產品。
 
 ## 參考文獻
 

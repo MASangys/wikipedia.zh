@@ -514,13 +514,37 @@
 <td style="text-align: center;"><p>改編自電影《<a href="../Page/二十行不行.md" title="wikilink">二十行不行</a>》</p></td>
 </tr>
 <tr class="odd">
+<td style="text-align: center;"><p>2019年10月4日–<br />
+2019年11月23日</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/我的國家_(韓國電視劇)" title="wikilink">我的國家</a><br />
+</p></td>
+<td style="text-align: center;"><p>16</p></td>
+<td style="text-align: center;"><p><a href="../Page/梁世宗_(韓國).md" title="wikilink">梁世宗</a>、<a href="../Page/禹棹煥.md" title="wikilink">禹棹煥</a>、<a href="../Page/雪炫.md" title="wikilink">雪炫</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金鎮元" title="wikilink">金鎮元</a></p></td>
+<td style="text-align: center;"><p>蔡承代</p></td>
 <td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>2019年12月6日–<br />
+2020年</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/巧克力（韓國電視劇）" title="wikilink">巧克力</a><br />
+</p></td>
+<td style="text-align: center;"><p>16</p></td>
+<td style="text-align: center;"><p><a href="../Page/尹啟相.md" title="wikilink">尹啟相</a>、<a href="../Page/河智苑.md" title="wikilink">河智苑</a>、<a href="../Page/張勝祖.md" title="wikilink">張勝祖</a>、<a href="../Page/閔鎮雄.md" title="wikilink">閔鎮雄</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/李亨民.md" title="wikilink">李亨民</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/李慶熙.md" title="wikilink">李慶熙</a></p></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>2020年–<br />
+2020年</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/梨泰院CLASS" title="wikilink">梨泰院CLASS</a><br />
+</p></td>
+<td style="text-align: center;"><p>16</p></td>
+<td style="text-align: center;"><p><a href="../Page/朴敘俊.md" title="wikilink">朴敘俊</a>、金多美、<a href="../Page/權娜拉.md" title="wikilink">權娜拉</a>、<a href="../Page/劉在明.md" title="wikilink">劉在明</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金成允" title="wikilink">金成允</a></p></td>
+<td style="text-align: center;"><p>趙光鎮</p></td>
+<td style="text-align: center;"><p>原作同名網漫《梨泰院CLASS》</p></td>
 </tr>
 </tbody>
 </table>

@@ -360,8 +360,8 @@
 
 ### 争议角色
 
-  -
-    第6章（网络配信版第25话）中，[泉光子郎在向其他被选召的孩子们解释数码世界重启时候](https://zh.wikipedia.org/wiki/泉光子郎 "wikilink")，大部分数码兽数据资料备份进了缅因猫兽体内，此时插入了剧场版《[数码宝贝大冒险 我们的战争游戏](https://zh.wikipedia.org/wiki/数码宝贝大冒险 "wikilink")》里观战的几组世界各地孩子们6年后相貌的定格画面。而在剧场上映版第6章1小时6分48秒左右（网络配信版第6章第25话10分30秒左右），出现了疑似[秋山辽手持Digivice的画面](https://zh.wikipedia.org/wiki/秋山辽 "wikilink")，该定格画面是致敬《我们的战争游戏》里秋山辽在深山中使用笔记本电脑观战并向泉光子郎发送应援邮件。\[2\][元永庆太郎团队并不清楚当年](https://zh.wikipedia.org/wiki/元永庆太郎 "wikilink")[细田守团队将秋山辽在该画面登场的用意](https://zh.wikipedia.org/wiki/细田守 "wikilink")，甚至不清楚秋山辽的角色设定，以为该画面只是路人角色，导致出现较为严重破坏设定的致敬失误。
+  - \[2\]
+    第6章（网络配信版第25话）中，[泉光子郎在向其他被选召的孩子们解释数码世界重启时候](https://zh.wikipedia.org/wiki/泉光子郎 "wikilink")，大部分数码兽数据资料备份进了缅因猫兽体内，此时插入了剧场版《[数码宝贝大冒险 我们的战争游戏](https://zh.wikipedia.org/wiki/数码宝贝大冒险 "wikilink")》里观战的几组世界各地孩子们6年后相貌的定格画面。而在剧场上映版第6章1小时6分48秒左右（网络配信版第6章第25话10分30秒左右），出现了疑似[秋山辽手持Digivice的画面](https://zh.wikipedia.org/wiki/秋山辽 "wikilink")，该定格画面是致敬《我们的战争游戏》里秋山辽在深山中使用笔记本电脑观战并向泉光子郎发送应援邮件。\[3\][元永庆太郎团队并不清楚当年](https://zh.wikipedia.org/wiki/元永庆太郎 "wikilink")[细田守团队将秋山辽在该画面登场的用意](https://zh.wikipedia.org/wiki/细田守 "wikilink")，甚至不清楚秋山辽的角色设定，以为该画面只是路人角色，导致出现较为严重破坏设定的致敬失误。
 
 ### 主角群伙伴数码兽
 
@@ -531,7 +531,7 @@
     :;
 
       -
-        必殺技：尖尖碰碰拳（Needle Spray\[3\]，）
+        必殺技：尖尖碰碰拳（Needle Spray\[4\]，）
       - 超進化形態
 
         必殺技：花仙砲（Flower Cannon，）
@@ -941,5 +941,6 @@
 [Category:數碼寶貝系列角色](https://zh.wikipedia.org/wiki/Category:數碼寶貝系列角色 "wikilink") [Category:日本動漫角色列表](https://zh.wikipedia.org/wiki/Category:日本動漫角色列表 "wikilink") [Category:虛構事物列表](https://zh.wikipedia.org/wiki/Category:虛構事物列表 "wikilink")
 
 1.
-2.
-3.  Tingling Bambang
+2.  稱號上是歷代最多的，“第九位被選召的孩子”、“1999年最後的被選召的孩子”、“特異的驯兽师”、“D-1驯兽师”、“勇敢的驯兽师”、“流浪的驯兽师”、“最强的驯兽师”、“傳說中的驯兽师”等。
+3.
+4.  Tingling Bambang

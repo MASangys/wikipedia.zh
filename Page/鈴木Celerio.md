@@ -8,7 +8,7 @@
 
 2009年 - 4月開始從印度外銷，[歐洲大半](https://zh.wikipedia.org/wiki/歐洲 "wikilink")[國家稱作](https://zh.wikipedia.org/wiki/國家 "wikilink")「鈴木Alto」，[菲律賓](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")、[拉丁美洲](../Page/拉丁美洲.md "wikilink")、[北非等部份市場稱為](https://zh.wikipedia.org/wiki/北部非洲 "wikilink")「鈴木Celerio」。同年6月1日起替[日產汽車](../Page/日產汽車.md "wikilink")OEM代工，以[換牌形式製造](https://zh.wikipedia.org/wiki/換牌工程 "wikilink")，主要亦外銷至[歐洲各國](https://zh.wikipedia.org/wiki/歐洲 "wikilink")。日產Pixo和Celerio的差別在於頭燈及進氣壩的造型，其餘部位則大同小異。
 
-Image:Suzuki A-Star Concept.JPG|A-Star概念車車頭 Image:Suzuki A-Star Concept Heck.JPG|A-Star概念車車尾 Image:Suzuki Celerio 1.0 GA 2012 (13475825794).jpg Image:Suzuki Celerio 1.0 GA 2013 (9453593931).jpg Image:Suzuki Celerio GA 2011 (14860205921).jpg Image:Suzuki Celerio 1.0 GA 2013 (12844270935).jpg Image:Nissan Pixo 20090809 front.JPG|兄弟車車頭 Image:Nissan Pixo 20090809 rear.JPG|日產Pixo車尾
+Image:Suzuki A-Star Concept.JPG|A-Star概念車車頭 Image:Suzuki A-Star Concept Heck.JPG|A-Star概念車車尾 Image:Suzuki Celerio 1.0 GA 2012 (13475825794).jpg Image:Suzuki Celerio 1.0 GA 2013 (9453593931).jpg Image:Suzuki Celerio GA 2011 (14860205921).jpg Image:Suzuki Celerio 1.0 GA 2013 (12844270935).jpg Image:Nissan Pixo front 20100815.jpg|兄弟車車頭 Image:Nissan Pixo rear 20100815.jpg|日產Pixo車尾
 
 {{-}}
 

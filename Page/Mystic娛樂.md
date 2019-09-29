@@ -343,42 +343,16 @@ ALL I KNOW MUSIC(簡稱：AIKM)是旗下嘻哈音樂廠牌。
 
 ### 離開的藝人
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>藝人</strong></p></td>
-<td><p><strong>出道時間</strong></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p>1995年</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/金正憲" title="wikilink">金正憲</a></p></td>
-<td><p>2006年</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/朴志胤.md" title="wikilink">朴志胤</a></p></td>
-<td><p>1997年</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/張少妍" title="wikilink">張少妍</a></p></td>
-<td><p>2001年</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/申素律.md" title="wikilink">申素律</a></p></td>
-<td><p>2007年</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/金藝琳.md" title="wikilink">金藝琳</a></p></td>
-<td><p>2011年</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/嚴正化.md" title="wikilink">嚴正化</a></p></td>
-<td><p>1993年</p></td>
-</tr>
-</tbody>
-</table>
+|                                                     |          |
+| --------------------------------------------------- | -------- |
+| **藝人**                                              | **出道時間** |
+| [金煙雨](../Page/金煙雨.md "wikilink")                    | 1995年    |
+| [金正憲](https://zh.wikipedia.org/wiki/金正憲 "wikilink") | 2006年    |
+| [朴志胤](../Page/朴志胤.md "wikilink")                    | 1997年    |
+| [張少妍](https://zh.wikipedia.org/wiki/張少妍 "wikilink") | 2001年    |
+| [申素律](../Page/申素律.md "wikilink")                    | 2007年    |
+| [金藝琳](../Page/金藝琳.md "wikilink")                    | 2011年    |
+| [嚴正化](../Page/嚴正化.md "wikilink")                    | 1993年    |
 
 ## 参考資料
 

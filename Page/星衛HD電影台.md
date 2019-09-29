@@ -2,11 +2,11 @@
 
 ## 概述
 
-星卫HD電影台由[新闻集团](../Page/新闻集团_\(1979－2013年\).md "wikilink")（News Corp, NC）旗下[星空传媒创立](https://zh.wikipedia.org/wiki/星空传媒 "wikilink")，后并入福斯国际电视网的「STAR系列频道」。
+星卫HD電影台由[新闻集团](../Page/新闻集团_\(1979－2013年\).md "wikilink")（News Corp, NC）旗下[星空传媒创立](https://zh.wikipedia.org/wiki/星空传媒 "wikilink")，后并入[福斯国际电视网的](https://zh.wikipedia.org/wiki/福斯国际电视网 "wikilink")「STAR系列频道」。
 
 ## 節目
 
-節目內容和編排不同於衛視電影台。該頻道與衛視電影台共享電影和電視劇集。
+節目內容和編排不同於[衛視電影台](../Page/衛視電影台.md "wikilink")。該頻道與[衛視電影台](../Page/衛視電影台.md "wikilink")共享電影和電視劇集。
 
 ## 参考资料
 

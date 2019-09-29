@@ -4,7 +4,7 @@
 
 MAMAMOO於2014年6月19日正式透過[M Countdown以歌曲](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")《Mr.曖昧模糊》出道，官方粉絲名為「MOO MOO」，官方應援物為蘿蔔造型手燈「MOO棒」(蘿蔔韓文為，音似Moo)，無代表色。
 
-MAMAMOO有一個固定站位，由左至右依序是[玟星](https://zh.wikipedia.org/wiki/文星伊 "wikilink")、[頌樂](https://zh.wikipedia.org/wiki/金容仙 "wikilink")、[輝人及](https://zh.wikipedia.org/wiki/丁輝人 "wikilink")[華莎](https://zh.wikipedia.org/wiki/安惠真 "wikilink")。在問候時，隊長[頌樂會先說](https://zh.wikipedia.org/wiki/金容仙 "wikilink")「一、二、三，I Say\~」，所有成員便以[無伴奏合唱](../Page/無伴奏合唱.md "wikilink")的方式唱出「MAMA MAMA MOO\~，大家好，我們是MAMAMOO。」和聲時四人會依序互看彼此的眼睛，最後將食指放在人中前當作鬍子。
+MAMAMOO有一個固定站位，由左至右依序是[玟星](https://zh.wikipedia.org/wiki/文星伊 "wikilink")、[頌樂](https://zh.wikipedia.org/wiki/金容仙 "wikilink")、[輝人及](https://zh.wikipedia.org/wiki/丁輝人 "wikilink")[華莎](https://zh.wikipedia.org/wiki/安惠真 "wikilink")。在問候時，隊長[頌樂會先說](https://zh.wikipedia.org/wiki/金容仙 "wikilink")「二、三，I Say\~」，所有成員便以[無伴奏合唱](../Page/無伴奏合唱.md "wikilink")的方式唱出「MAMA MAMA MOO\~，大家好，我們是MAMAMOO。」和聲時四人會依序互看彼此的眼睛，最後將食指放在人中前當作鬍子。
 
 ## 成員列表
 
@@ -43,7 +43,7 @@ MAMAMOO於2014年1月以與知名饒舌歌手合作之作品《不要幸福》�
 
 ### 2015年：迷你三輯《Pink Funky》回歸、首次粉絲見面會MOO PARTY
 
-[마마무(MAMAMOO)_이상미의뮤직닷컴_공개방송_화성시_우정읍.jpg](https://zh.wikipedia.org/wiki/File:마마무\(MAMAMOO\)_이상미의뮤직닷컴_공개방송_화성시_우정읍.jpg "fig:마마무(MAMAMOO)_이상미의뮤직닷컴_공개방송_화성시_우정읍.jpg")[華城市](../Page/華城市.md "wikilink")舉行演唱會\]\] 1月10日，MAMAMOO首次參與《[不朽的名曲](https://zh.wikipedia.org/wiki/不朽的名曲 "wikilink")》的演出，初試啼聲，就打敗前輩獲得高分，並且開始受到注目，由此開始，MAMAMOO成為該節目最常出演的偶像團體之一。4月2日，與同公司的實力派歌手合作單曲《AHH OOP\!》回歸。6月19日，發行迷你專輯《[Pink Funky](../Page/Pink_Funky_\(Mamamoo迷你專輯\).md "wikilink")》，並以《Um Oh Ah Yeh》為主打歌回歸，其中[華莎](../Page/華莎.md "wikilink")、[玟星](../Page/玟星.md "wikilink")及[輝人](../Page/輝人.md "wikilink")在MV特別以男裝出演，而華莎及玟星曾在SBS音樂節目《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》中以男裝表演造成轟動\[3\]；此外在MBC MUSIC音樂節目《[Show Champion](../Page/Show_Champion.md "wikilink")》中主唱[頌樂](../Page/頌樂.md "wikilink")、輝人和說唱玟星互換一部份。\[4\]8月23日，於首爾舉辦首場韓國粉絲見面會「1st MOO Party」。\[5\]10月4日，於[洛杉磯舉辦首場美國粉絲見面會](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")「2nd MOO Party」。\[6\]
+[마마무(MAMAMOO)_이상미의뮤직닷컴_공개방송_화성시_우정읍.jpg](https://zh.wikipedia.org/wiki/File:마마무\(MAMAMOO\)_이상미의뮤직닷컴_공개방송_화성시_우정읍.jpg "fig:마마무(MAMAMOO)_이상미의뮤직닷컴_공개방송_화성시_우정읍.jpg")[華城市](../Page/華城市.md "wikilink")舉行演唱會\]\] 1月10日，MAMAMOO首次參與《[不朽的名曲](https://zh.wikipedia.org/wiki/不朽的名曲 "wikilink")》的演出，初試啼聲，就打敗前輩獲得高分，並且開始受到注目，由此開始，MAMAMOO成為該節目最常出演的偶像團體之一。4月2日，與同公司的實力派歌手合作單曲《AHH OOP\!》回歸。6月19日，發行迷你專輯《[Pink Funky](../Page/Pink_Funky_\(Mamamoo迷你專輯\).md "wikilink")》，並以《Um Oh Ah Yeh》為主打歌回歸，其中華莎、玟星及輝人在MV特別以男裝出演，而華莎及玟星曾在SBS音樂節目《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》中以男裝表演造成轟動\[3\]；此外在MBC MUSIC音樂節目《[Show Champion](../Page/Show_Champion.md "wikilink")》中主唱頌樂、輝人和說唱玟星互換一部份。\[4\]8月23日，於首爾舉辦首場韓國粉絲見面會「1st MOO Party」。\[5\]10月4日，於[洛杉磯舉辦首場美國粉絲見面會](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")「2nd MOO Party」。\[6\]
 
 ### 2016年：正規一輯《Melting》回歸、音放獲得初一位、首場演唱會《MOOSICAL》、迷你四輯《Memory》回歸
 
@@ -51,43 +51,43 @@ MAMAMOO於2014年1月以與知名饒舌歌手合作之作品《不要幸福》�
 
 ### 2017年：首次海外巡迴見面會、MOOSICAL 安可演唱會、迷你五輯《Purple》回歸
 
-[170719_Mamamoo_마마무_02_(cropped).jpg](https://zh.wikipedia.org/wiki/File:170719_Mamamoo_마마무_02_\(cropped\).jpg "fig:170719_Mamamoo_마마무_02_(cropped).jpg") 1月6日到8日，在[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[品川區](../Page/品川區.md "wikilink")舉辦首次見面會，在7日「K-POP LOVERS\! SHOWCASE Vol.5」進行表演。3月3日至5日，MAMAMOO將在[首爾](../Page/首爾.md "wikilink")[奧林匹克公園奧林匹克大廳舉行第二次演唱會](../Page/奧林匹克公園_\(首爾\).md "wikilink")「2017 MAMAMOO CONCERT MOOSICAL CURTAIN CALL」\[13\]。在1月23及25日的會員及非會員預售，總達10,000席座位都在僅僅一分鐘內瞬殺，見證了MAMAMOO的超高人氣。\[14\]6月7日，[RBW正式公布回歸消息](../Page/Rainbow_Bridge_World.md "wikilink")，並公布第五張迷你專輯名稱為《[Purple](../Page/Purple_\(Mamamoo迷你專輯\).md "wikilink")》。6月9日，釋出首波先行曲《Aze Gag》（大叔玩笑）的精彩片段。6月13日，公布《Purple》專輯收錄的五首歌曲名稱，包含此次的主打歌《Yes I Am》（說起我的話），以及《Aze Gag》外，還有[玟星](../Page/玟星.md "wikilink")的自作曲《Love & Hate》（好卑微）及[輝人](../Page/輝人.md "wikilink")與、B.O.的合作曲《Da Ra Da》。6月21日，釋出《Aze Gag》MV。6月22日，釋出主打歌《Yes I Am》MV，音源方面大破自身記錄，於兩小時內就登上各大排行榜的首位。6月23日，主打歌《Yes I Am》在[Melon](../Page/Melon.md "wikilink")音樂網站首日收聽人數為940,435人次，曾創下女團首日收聽人數第一的記錄。\[15\]\[16\]6月27日，主打歌《Yes I Am》在《THE SHOW》獲得此次回歸首個一位，而在《[M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》更連續三週拿下三冠王，此次於各大音樂節目共拿下7座一位獎座。7月5日，憑藉著《Purple》MAMAMOO首次登上了美國[Billboard全球專輯榜第](../Page/告示牌_\(雜誌\).md "wikilink")1位。\[17\]\[18\]8月19、20日，MAMAMOO於[釜山舉行安可演唱會](https://zh.wikipedia.org/wiki/釜山 "wikilink")「2017 MAMAMOO CONCERT MOOSICAL CURTAIN CALL IN BUSAN」，在7月17日的一般預售，門票僅一分鐘內遭粉絲瞬殺，再次見證了MAMAMOO的超高人氣。\[19\]10月，MAMAMOO開始進行「2017 MAMAMOO Purple Party」海外巡迴見面會，與海外的粉絲見面。10月1日，MAMAMOO首次在[台北國際會議中心](../Page/台北國際會議中心.md "wikilink")舉辦海外首場「2017 MAMAMOO Purple Party in Taiwan」，另於10月2日到[香港](../Page/香港.md "wikilink")[九龍灣國際展貿中心](../Page/九龍灣國際展貿中心.md "wikilink")3號展貿廳舉行「MAMAMOO 1ST Party in Hong Kong」。\[20\]\[21\] 10月22日，MAMAMOO前往日本東京舉辦「2017 MAMAMOO Purple Party in TOKYO」。\[22\]10月28日，於首爾舉辦「2017 MAMAMOO FAN MEETING 『MOO LUCK MOO LUCK PICNIC』」，同時也是官方2期粉絲會的創團式，此為MAMAMOO出道以來規模最大的粉絲見面會。12月29日，RBW官方公布單曲《Paint Me》預告照，並公告MAMAMOO將以此單曲來開啟2018年活動。12月30日，RBW官方釋出《Paint Me》預告影片，第一波預告影片為華莎，且公告《Paint Me》將於2018年1月4日韓國標準時間(KST)晚上6點釋出，而後3日依序釋出輝人、頌樂、玟星三人的預告影片。\[23\]
+[170719_Mamamoo_마마무_02_(cropped).jpg](https://zh.wikipedia.org/wiki/File:170719_Mamamoo_마마무_02_\(cropped\).jpg "fig:170719_Mamamoo_마마무_02_(cropped).jpg") 1月6日到8日，在[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[品川區](../Page/品川區.md "wikilink")舉辦首次見面會，在7日「K-POP LOVERS\! SHOWCASE Vol.5」進行表演。3月3日至5日，MAMAMOO將在[首爾](../Page/首爾.md "wikilink")[奧林匹克公園奧林匹克大廳舉行第二次演唱會](../Page/奧林匹克公園_\(首爾\).md "wikilink")「2017 MAMAMOO CONCERT MOOSICAL CURTAIN CALL」\[13\]。在1月23及25日的會員及非會員預售，總達10,000席座位都在僅僅一分鐘內瞬殺，見證了MAMAMOO的超高人氣。\[14\]6月7日，[RBW正式公布回歸消息](../Page/Rainbow_Bridge_World.md "wikilink")，並公布第五張迷你專輯名稱為《[Purple](../Page/Purple_\(Mamamoo迷你專輯\).md "wikilink")》。6月9日，釋出首波先行曲《Aze Gag》（大叔玩笑）的精彩片段。6月13日，公布《Purple》專輯收錄的五首歌曲名稱，包含此次的主打歌《Yes I Am》（說起我的話），以及《Aze Gag》外，還有玟星的自作曲《Love & Hate》（好卑微）及輝人與、B.O.的合作曲《Da Ra Da》。6月21日，釋出《Aze Gag》MV。6月22日，釋出主打歌《Yes I Am》MV，音源方面大破自身記錄，於兩小時內就登上各大排行榜的首位。6月23日，主打歌《Yes I Am》在[Melon](../Page/Melon.md "wikilink")音樂網站首日收聽人數為940,435人次，曾創下女團首日收聽人數第一的記錄。\[15\]\[16\]6月27日，主打歌《Yes I Am》在《THE SHOW》獲得此次回歸首個一位，而在《[M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》更連續三週拿下三冠王，此次於各大音樂節目共拿下7座一位獎座。7月5日，憑藉著《Purple》MAMAMOO首次登上了美國[Billboard全球專輯榜第](../Page/告示牌_\(雜誌\).md "wikilink")1位。\[17\]\[18\]8月19、20日，MAMAMOO於[釜山舉行安可演唱會](https://zh.wikipedia.org/wiki/釜山 "wikilink")「2017 MAMAMOO CONCERT MOOSICAL CURTAIN CALL IN BUSAN」，在7月17日的一般預售，門票僅一分鐘內遭粉絲瞬殺，再次見證了MAMAMOO的超高人氣。\[19\]10月，MAMAMOO開始進行「2017 MAMAMOO Purple Party」海外巡迴見面會，與海外的粉絲見面。10月1日，MAMAMOO首次在[台北國際會議中心](../Page/台北國際會議中心.md "wikilink")舉辦海外首場「2017 MAMAMOO Purple Party in Taiwan」，另於10月2日到[香港](../Page/香港.md "wikilink")[九龍灣國際展貿中心](../Page/九龍灣國際展貿中心.md "wikilink")3號展貿廳舉行「MAMAMOO 1ST Party in Hong Kong」。\[20\]\[21\] 10月22日，MAMAMOO前往日本東京舉辦「2017 MAMAMOO Purple Party in TOKYO」。\[22\]10月28日，於首爾舉辦「2017 MAMAMOO FAN MEETING 『MOO LUCK MOO LUCK PICNIC』」，同時也是官方2期粉絲會的創團式，此為MAMAMOO出道以來規模最大的粉絲見面會。12月29日，RBW官方公布單曲《Paint Me》預告照，並公告MAMAMOO將以此單曲來開啟2018年活動。12月30日，RBW官方釋出《Paint Me》預告影片，第一波預告影片為華莎，且公告《Paint Me》將於2018年1月4日韓國標準時間(KST)晚上6點釋出，而後3日依序釋出輝人、頌樂、玟星三人的預告影片。\[23\]
 
 ### 2018年：發行單曲《Paint Me》、迷你六輯《Yellow Flower》、頌樂個人演唱會「頌樂感性演唱會 BLOSSOM」、輝人個人單曲專輯《magnolia》、玟星個人專輯《SELFISH》、迷你七輯《Red Moon》、「4season S/S」巡迴演唱會、日本出道、迷你八輯《BLUE;S》
 
 1月4日，韓國標準時間(KST)晚上6點，MAMAMOO發行單曲《Paint Me》並公開MV。2月20日，RBW官方宣布回歸消息，MAMAMOO將於3月7日發行第六張迷你專輯《Yellow Flower》，且以此專輯作為本年度四季四色專輯計畫的開頭。3月7日，官方釋出頌樂自創曲《Star Wind Flower Sun》（星星 風 花朵 太陽）MV；同日，MAMAMOO發行第六張迷你專輯《Yellow Flower》，且公開主打歌《Starry Night》（星星閃耀的夜晚）MV。3月12日，迷你六輯主打歌《Starry Night》於《THE SHOW》獲得此次回歸首個一位，於3月25日《人氣歌謠》出演結束迷你六輯的宣傳，宣傳期間在《THE SHOW》、《M COUNTDOWN》、《人氣歌謠》皆連續兩週拿下一位。宣傳結束後，主打歌《Starry Night》在各大音樂節目的排名仍處於上游圈，且於4月1日人氣歌謠獲得一位，達成《人氣歌謠》三冠王的佳績，此次回歸共拿下了9座一位獎座，為全部回歸裡一位最多的歌曲。3月8日，諾貝爾和平獎得主[馬拉拉·優素福扎伊親自替國際婦女節精心選擇出一連串的歌曲播放清單](https://zh.wikipedia.org/wiki/馬拉拉·優素福扎伊 "wikilink")，並且特地在推特上感謝「這些激勵人心的女性藝術家們」。引人注目的是，其中唯一一首韓文歌曲就是實力女團MAMAMOO的《Yes I Am》，其歌曲鼓勵女生要勇敢做自己，並且大方表現出真正自我個性、意識的一首歌，因此當它被選上「[國際婦女節](https://zh.wikipedia.org/wiki/國際婦女節 "wikilink")」的播放清單時，許多網友們也都相當認同。\[24\]3月30日，MAMAMOO發行代言特別單曲《[Everyday](../Page/Everyday_\(MAMAMOO單曲\).md "wikilink")》並公開MV，此次特別單曲同時是為了報答粉絲們的支持而準備的禮物。\[25\]4月17日，輝人發行個人單曲專輯《magnolia》並公開收錄曲《EASY》。\[26\]4月27－29日，頌樂在[梨花女子大學](../Page/梨花女子大學.md "wikilink")三星廳，舉行個人首場演唱會「頌樂感性演唱會 BLOSSOM」。\[27\]5月23日，玟星發行個人專輯《SELFISH》。\[28\]\[29\]6月16、17日，頌樂在釜山Sohyang Theater Shinhancard Hall，舉行個人演唱會「頌樂感性演唱會 BLOSSOM─釜山」。\[30\]7月1日，官方無預警宣布MAMAMOO於同日韓國時間晚上6點，發行先行曲《Rainy Season》（梅雨），且在無宣傳的情況下，獲得韓國Gaon等多個主要音源榜的一位\[31\]\[32\]，還創下了女團首次以先行曲獲得音源榜一位的記錄。\[33\]7月14日，MAMAMOO公開與遊戲公司ICARUS M合作拍攝的MV，名為《Sky\! Sky\!》（輕飄飄 "清純"），為《Red Moon》其中一首收錄曲；同日中午12點，MAMAMOO首場台灣演唱會門票開賣，且5千張門票在5分鐘內被搶購一空。\[34\]7月16日，發行以玟星為概念的第七張迷你專輯《[Red Moon](../Page/Red_Moon_\(Mamamoo迷你專輯\).md "wikilink")》，主打歌為《Egotistic》。7月18日，MAMAMOO在美國告示牌所公布的「Social 50」榜單中位居第47位，這也是MAMAMOO首次進入該榜單。\[35\]之後，又再度躍至26名，為MAMAMOO於該榜單之最佳成績。\[36\]8月18、19日，MAMAMOO將於[SK奧林匹克手球館](../Page/SK奧林匹克手球館.md "wikilink")舉行「2018 MAMAMOO CONCERT 4season S/S」。\[37\]9月1日，MAMAMOO在[新莊體育館](../Page/新莊體育館.md "wikilink")舉行臺灣首場演唱會「2018 MAMAMOO 4season S/S CONCERT TOUR IN TAIWAN」。\[38\]9月2日，MAMAMOO在[亞洲國際博覽館](../Page/亞洲國際博覽館.md "wikilink")舉行香港首場演唱會「2018 MAMAMOO 4season S/S CONCERT TOUR IN HONG KONG」。\[39\]10月3日，MAMAMOO發行日文版《Décalcomanie》，並以此單曲宣布正式於日本出道。\[40\]10月5、7、9日，舉辦日本首次巡迴演唱會，地點分別為[大阪](../Page/大阪市.md "wikilink")[難波](../Page/難波.md "wikilink")、[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[品川](../Page/品川區.md "wikilink")、[名古屋](../Page/名古屋市.md "wikilink")。\[41\]11月8日，官方宣布MAMAMOO將於29日發行以頌樂為概念的第八張迷你專輯《BLUE;S》，此專輯為本年度四季四色計畫中的第三項計畫。\[42\]11月29日，韓國標準時間(KST)晚上6點，MAMAMOO發行第八張迷你專輯《[BLUE;S](../Page/BLUE;S_\(Mamamoo迷你專輯\).md "wikilink")》，主打歌為《Wind Flower》。
 
-### 2019年：日本第二張單曲《Wind Flower》、華莎個人單曲《TWIT》、迷你九輯《White Wind》、「4season F/W」演唱會、日本第一張正規專輯《4colors》
+### 2019年：日本第二張單曲《Wind Flower》、華莎個人單曲《TWIT》、迷你九輯《White Wind》、「4season F/W」演唱會、日本第一張正規專輯《4colors》、主演綜藝[Queendom](../Page/Queendom_\(韓國綜藝\).md "wikilink")、輝人solo二輯《soar》
 
-2月6日，MAMAMOO發行第二張日文單曲《Wind Flower》。\[43\]2月7日，RBW官方公開華莎首張個人數位單曲《TWIT》的首波預告影片，且同時宣佈將於2月13日發行。\[44\]2月28日，官方宣布MAMAMOO於3月14日白色情人節當天，發表迷你九輯《[White Wind](../Page/White_Wind.md "wikilink")》，將以輝人的代表色的「白色」作為專輯主要風格，為「四人四色」企劃的最後一張專輯，主打歌為《gogobebe》。\[45\]3月29日，《gogobebe》在告示牌的「世界數位歌曲暢銷榜」（World Digital Song Sales Chart）拿下第二名，超越了自身於2016年發行的《You’re the best》第三名成績，在該榜拿下自身最高紀錄。\[46\]4月19－21日，MAMAMOO在首爾[獎忠體育館舉辦為期](https://zh.wikipedia.org/wiki/獎忠體育館 "wikilink")3天的「2019 MAMAMOO CONCERT 4season F/W」演唱會，為四季的企劃畫下完美的句點。\[47\]6月15、16日，MAMAMOO在[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[新莊體育館](../Page/新莊體育館.md "wikilink")舉辦為期兩天的「2019 MAMAMOO CONCERT 4season F/W IN TAIWAN」演唱會，台灣也成為MAMAMOO此次亞洲巡演的海外首站。\[48\]6月22、23日，MAMAMOO在[建國大學](../Page/建國大學.md "wikilink")入口站的樂天電影院 8 館舉行出道五週年紀念放映會《SIX NINETEEN》。\[49\]6月24日，迷你六輯《Yellow Flower》中主打歌《Starry Night》在MAMAMOO官方頻道與[1theK頻道點閱率合計破億](../Page/Kakao_M.md "wikilink")，成為MAMAMOO首支破億MV。7月13日，MAMAMOO於[高麗大學](../Page/高麗大學.md "wikilink")化汀體育館舉辦粉絲見面會「MOOMOO傳：狀元爭奪記」（）。\[50\]\[51\]7月24日，MAMAMOO發行代言特別單曲《[Gleam](../Page/Gleam_\(MAMAMOO單曲\).md "wikilink")》（）並公開MV\[52\]，迅速登上包括Mnet、Bugs、Naver音樂流行榜的冠軍位置，並在其他韓國網上音樂流行榜的上位圈。\[53\]7月27、28日，MAMAMOO於[大邱舉辦](../Page/大邱廣域市.md "wikilink")「2019 MAMAMOO CONCERT 4season F/W」安可演唱會。\[54\]8月7日，MAMAMOO於日本發行第一張正規專輯《4colors》。8月11日、13日，分別於日本東京、大阪舉行「MAMAMOO 2nd CONCERT TOUR in JAPAN ：4season Final」。\[55\]9月28日，MAMAMOO在香港[亞洲國際博覽館](../Page/亞洲國際博覽館.md "wikilink")Arena舉辦「2019 MAMAMOO 4season F/W CONCERT IN HONG KONG」演唱會。\[56\]
+2月6日，MAMAMOO發行第二張日文單曲《Wind Flower》。\[43\]2月7日，RBW官方公開華莎首張個人數位單曲《TWIT》的首波預告影片，且同時宣佈將於2月13日發行。\[44\]2月28日，官方宣布MAMAMOO於3月14日白色情人節當天，發表迷你九輯《[White Wind](../Page/White_Wind.md "wikilink")》，將以輝人的代表色的「白色」作為專輯主要風格，為「四人四色」企劃的最後一張專輯，主打歌為《gogobebe》。\[45\]3月29日，《gogobebe》在告示牌的「世界數位歌曲暢銷榜」（World Digital Song Sales Chart）拿下第二名，超越了自身於2016年發行的《You’re the best》第三名成績，在該榜拿下自身最高紀錄。\[46\]4月19－21日，MAMAMOO在首爾[獎忠體育館舉辦為期](https://zh.wikipedia.org/wiki/獎忠體育館 "wikilink")3天的「2019 MAMAMOO CONCERT 4season F/W」演唱會，為四季的企劃畫下完美的句點。\[47\]6月15、16日，MAMAMOO在[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[新莊體育館](../Page/新莊體育館.md "wikilink")舉辦為期兩天的「2019 MAMAMOO CONCERT 4season F/W IN TAIWAN」演唱會，台灣也成為MAMAMOO此次亞洲巡演的海外首站。\[48\]6月22、23日，MAMAMOO在[建國大學](../Page/建國大學.md "wikilink")入口站的樂天電影院 8 館舉行出道五週年紀念放映會《SIX NINETEEN》。\[49\]6月24日，迷你六輯《Yellow Flower》中主打歌《Starry Night》在MAMAMOO官方頻道與[1theK頻道點閱率合計破億](../Page/Kakao_M.md "wikilink")，成為MAMAMOO首支破億MV。7月13日，MAMAMOO於[高麗大學](../Page/高麗大學.md "wikilink")化汀體育館舉辦粉絲見面會「MOOMOO傳：狀元爭奪記」（）。\[50\]\[51\]7月24日，MAMAMOO發行代言特別單曲《[Gleam](../Page/Gleam_\(MAMAMOO單曲\).md "wikilink")》（）並公開MV\[52\]，迅速登上包括Mnet、Bugs、Naver音樂流行榜的冠軍位置，並在其他韓國網上音樂流行榜的上位圈。\[53\]7月27、28日，MAMAMOO於[大邱](../Page/大邱廣域市.md "wikilink")舉辦「2019 MAMAMOO CONCERT 4season F/W IN DAEGU」安可演唱會。\[54\]8月7日，MAMAMOO於日本發行第一張正規專輯《4colors》。8月11日、13日，分別於日本東京、大阪舉行「MAMAMOO 2nd CONCERT TOUR in JAPAN ：4season Final」。9月4日，輝人發行第二張迷你專輯《soar》，主打歌《Good Bye》登上各大音源榜一位，獲得亮眼的成績。9月28日，MAMAMOO在香港[亞洲國際博覽館](../Page/亞洲國際博覽館.md "wikilink")Arena舉辦「2019 MAMAMOO 4season F/W CONCERT IN HONG KONG」演唱會。\[55\]
 
 ## 重大事件
 
 ### 官咖人數紀錄
 
-2016年8月23日MAMAMOO官方粉絲團正式突破77,777人，正式成為韓國女團官咖排名第三的團體。MAMAMOO為了慶祝會員數突破77,777人，驚喜地公開了[玟星在演唱會MOOSICAL中的solo表演](https://zh.wikipedia.org/wiki/文星伊 "wikilink")「不要忘記Don't Forget」。\[57\]
+2016年8月23日MAMAMOO官方粉絲團正式突破77,777人，正式成為韓國女團官咖排名第三的團體。MAMAMOO為了慶祝會員數突破77,777人，驚喜地公開了[玟星在演唱會MOOSICAL中的solo表演](https://zh.wikipedia.org/wiki/文星伊 "wikilink")《不要忘記 Don't Forget》。\[56\]
 
 2017年4月21日MAMAMOO官方粉絲團正式突破100,000人。
 
 ### 車禍
 
-2016年10月13日，前往行程的路上，由於高速公路交通擁擠而釀成意外，當下成員們被立即送往醫院檢查，經檢查後RBW發表公開聲明，說明成員身體並無大礙，而原本的行程以最終時間趕不上為由取消表演。\[58\]事後兩天，雖然全員都出席了被安排的演出，但在場的粉絲們都看得出成員的臉色並不好，表演中在跳舞時都避免了大動作，甚至在上臺時及下臺後，有玟星被攙扶的影片。
+2016年10月13日，前往行程的路上，由於高速公路交通擁擠而釀成意外，當下成員們被立即送往醫院檢查，經檢查後RBW發表公開聲明，說明成員身體並無大礙，而原本的行程以最終時間趕不上為由取消表演。\[57\]事後兩天，雖然全員都出席了被安排的演出，但在場的粉絲們都看得出成員的臉色並不好，表演中在跳舞時都避免了大動作，甚至在上臺時及下臺後，有玟星被攙扶的影片。
 
-2017年9月13日，前往天安參加活動途中，發生輕微交通事故，但成員們的表演熱情不受影響，仍堅持抵達活動場地，完成所有表演後才就醫，公司發表聲明，說明成員們都只是輕微擦傷，並無大礙。\[59\]
+2017年9月13日，前往天安參加活動途中，發生輕微交通事故，但成員們的表演熱情不受影響，仍堅持抵達活動場地，完成所有表演後才就醫，公司發表聲明，說明成員們都只是輕微擦傷，並無大礙。\[58\]
 
 ### 青龍電影獎
 
-2016年11月25日MAMAMOO全員受邀為2016[青龍電影獎](../Page/青龍電影獎.md "wikilink")表演，表演中成員自然地將電影臺詞融入歌中，讓原本氣氛凝重的觀眾席傳出陣陣笑聲，其中最令人印象深刻的片段，為[玟星對著台下的來賓](https://zh.wikipedia.org/wiki/文星伊 "wikilink")[鄭雨盛](../Page/鄭雨盛.md "wikilink")說出他出演的作品的台詞：「鄭雨盛！要是我乾了這杯，你要和我交往嗎？」，而在表演結束後主打歌Décalcomanie在[Melon](../Page/Melon.md "wikilink")音源榜上逆行，並於當日23:00整點達到第一位，讓原本在打歌期就遲遲不上升的排名，瞬間爆衝至一位。成員們稱這次的逆行「青龍獎效應」。\[60\] 2017年MAMAMOO再次受邀擔任第38屆青龍電影獎表演嘉賓。\[61\]
+2016年11月25日MAMAMOO全員受邀為2016[青龍電影獎](../Page/青龍電影獎.md "wikilink")表演，表演中成員自然地將電影臺詞融入歌中，讓原本氣氛凝重的觀眾席傳出陣陣笑聲，其中最令人印象深刻的片段，為[玟星對著台下的來賓](https://zh.wikipedia.org/wiki/文星伊 "wikilink")[鄭雨盛](../Page/鄭雨盛.md "wikilink")說出他出演的作品的台詞：「鄭雨盛！要是我乾了這杯，你要和我交往嗎？」，而在表演結束後主打歌《Décalcomanie》在[Melon](../Page/Melon.md "wikilink")音源榜上逆行，並於當日23:00整點達到第一位，讓原本在打歌期就遲遲不上升的排名，瞬間爆衝至一位。成員們稱這次的逆行「青龍獎效應」。\[59\] 2017年MAMAMOO再次受邀擔任第38屆青龍電影獎表演嘉賓。\[60\]
 
 ### 成員受傷
 
-2015年8月23日，[輝人](../Page/輝人.md "wikilink")在1st MOO Party首爾見面會中不慎扭傷腳踝，但事後仍敬業的參與[MAMAMOO各項演出](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")。
+2015年8月23日，輝人在1st MOO Party首爾見面會中不慎扭傷腳踝，但事後仍敬業的參與[MAMAMOO各項演出](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")。
 
-2018年1月13日，[MAMAMOO前往](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")[馬來西亞參加K](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")-WAVE MUSIC FESTIVAL，[頌樂](../Page/頌樂.md "wikilink")在彩排時腰部不慎受傷，不過仍敬業的參與表演。1月15日，[頌樂](../Page/頌樂.md "wikilink")因嚴重腰傷，需由經紀人攙扶才能行走，回到韓國後，立即被送往醫院治療。RBW官方也發表聲明表示，[頌樂](../Page/頌樂.md "wikilink")因腰傷需靜養，將暫停所有活動，因此由其他3位團員代表參加16日的[平昌冬奧聖火傳遞與表演](https://zh.wikipedia.org/wiki/平昌冬奧 "wikilink")。\[62\]而預定1月15日出演的《偶像運動會》保齡球項目，也因傷勢考量決定放棄參加。\[63\]1月25日，頌樂經治療靜養後恢復活動，參與27屆首爾音樂大賞表演與領獎。\[64\]
+2018年1月13日，[MAMAMOO前往](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")[馬來西亞參加K](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")-WAVE MUSIC FESTIVAL，頌樂在彩排時腰部不慎受傷，不過仍敬業的參與表演。1月15日，頌樂因嚴重腰傷，需由經紀人攙扶才能行走，回到韓國後，立即被送往醫院治療。RBW官方也發表聲明表示，頌樂因腰傷需靜養，將暫停所有活動，因此由其他3位團員代表參加16日的[平昌冬奧聖火傳遞與表演](https://zh.wikipedia.org/wiki/平昌冬奧 "wikilink")。\[61\]而預定1月15日出演的《偶像運動會》保齡球項目，也因傷勢考量決定放棄參加。\[62\]1月25日，頌樂經治療靜養後恢復活動，參與27屆首爾音樂大賞表演與領獎。\[63\]
 
-2018年6月23日，RBW發表公開聲明，內容為[玟星](../Page/玟星.md "wikilink")在練習回歸舞蹈時感覺腰背部疼痛，當下立即送至醫院檢查。官方表示只要接受適當的治療和肌肉運動，[玟星](../Page/玟星.md "wikilink")便能康復。在與當事人討論過後，[玟星](../Page/玟星.md "wikilink")仍敬業的以坐在椅子上的方式進行各項活動演出。\[65\]\[66\]
+2018年6月23日，RBW發表公開聲明，內容為玟星在練習回歸舞蹈時感覺腰背部疼痛，當下立即送至醫院檢查。官方表示只要接受適當的治療和肌肉運動，玟星便能康復。在與當事人討論過後，玟星仍敬業的以坐在椅子上的方式進行各項活動演出。\[64\]\[65\]
 
-2018年12月28日，RBW發表聲明，[輝人](../Page/輝人.md "wikilink")在27日當日行程結束後不慎在樓梯間摔倒，導致腳踝扭傷。[MAMAMOO於](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")28日在越南舉辦的見面會，可以看到[輝人](../Page/輝人.md "wikilink")坐在椅子上敬業完成演出。\[67\]29日則坐著輪椅返韓，當晚參與「MBC演藝大賞」也是坐在椅子上完成演出。\[68\]
+2018年12月28日，RBW發表聲明，輝人在27日當日行程結束後不慎在樓梯間摔倒，導致腳踝扭傷。[MAMAMOO於](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")28日在越南舉辦的見面會，可以看到輝人坐在椅子上敬業完成演出。\[66\]29日則坐著輪椅返韓，當晚參與「MBC演藝大賞」也是坐在椅子上完成演出。\[67\]
 
 ### MV點閱率紀錄
 
@@ -450,17 +450,16 @@ MAMAMOO於2014年1月以與知名饒舌歌手合作之作品《不要幸福》�
 52. [超驚喜！MAMAMOO 公開單曲《GLEAM》MV！](https://www.kpopn.com/2019/07/24/mamamoo-surprise-single-gleam)
 53. [MAMAMOO《Gleam》於兩大音源榜摘得冠軍](http://www.epochtimes.com/b5/19/7/25/n11409281.htm)
 54. [MAMAMOO 的《四季四色》還沒完　安可演唱會 7 月登場！](https://www.koreastardaily.com/tc/news/117552)
-55. [MAMAMOO、日本ファーストアルバム『4colors』](https://tower.jp/article/feature_item/2019/06/08/0101)
-56. [MAMAMOO連續兩年來港舉行演唱會～MOOMOO記下日期：9月28日！](https://www.koreastardaily.com/tc/news/118489)
-57. [MAMAMOO吸引力強大　官方粉絲已破77777人](http://www.koreastardaily.com/tc/news/83262)
-58. [MAMAMOO車禍](http://m.nownews.com/news/2271327)
-59. [MAMAMOO超敬業！發生交通事故仍堅持表演完畢才就醫](https://www.koreastardaily.com/tc/news/98080)
-60. [2016青龍電影獎 MAMAMOO表演引起笑聲](http://m.nownews.com/news/2319034) 。
-61. [「調戲鄭雨盛」太經典！ MAMAMOO鐵肺再唱青龍獎](https://star.ettoday.net/news/1053463)
-62. [RBW：[頌樂](../Page/頌樂.md "wikilink")因腰傷未癒，將缺席平昌冬奧的聖火傳遞](https://www.kpopn.com/2018/01/16/rbw%EF%BC%9A%E9%A0%8C%E6%A8%82%E5%9B%A0%E8%85%B0%E5%82%B7%E6%9C%AA%E7%99%92%EF%BC%8C%E5%B0%87%E7%BC%BA%E5%B8%AD%E5%B9%B3%E6%98%8C%E5%86%AC%E5%A5%A7%E7%9A%84%E8%81%96%E7%81%AB%E5%82%B3%E9%81%9E/)
-63. [MAMAMOO Solar彩排時腰部受傷 恐難參加《偶運會》](https://www.koreastardaily.com/tc/news/101772)
-64. [2018 서울가요대상 마마무 솔라 부상 투혼 "칠해줘+나로 말할 것 같으면"](http://www.munhwanews.com/news/articleView.html?idxno=110027)
-65. [MAMAMOO’s Agency Releases Statement Regarding Moonbyul’s Recent Injury](https://www.soompi.com/2018/06/23/mamamoos-agency-releases-statement-regarding-moonbyuls-recent-injury/)
-66. [허리 다쳐 잘 못 걷는데도 팬들에게 인사하기위해 '쩔뚝쩔뚝' 걸어오는 마마무 문별](http://m.insight.co.kr/news/162905)
-67. [MAMAMOO輝人韌帶受傷仍心繫粉絲執意演出](http://www.epochtimes.com/b5/18/12/28/n10937490.htm29)
-68. [【MBC演藝大賞2018】MAMAMOO輝人負傷上陣　金所炫車太鉉得優秀獎](https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/276753/mbc%E6%BC%94%E8%97%9D%E5%A4%A7%E8%B3%9E2018-mamamoo%E8%BC%9D%E4%BA%BA%E8%B2%A0%E5%82%B7%E4%B8%8A%E9%99%A3-%E9%87%91%E6%89%80%E7%82%AB%E8%BB%8A%E5%A4%AA%E9%89%89%E5%BE%97%E5%84%AA%E7%A7%80%E7%8D%8E)
+55. [MAMAMOO連續兩年來港舉行演唱會～MOOMOO記下日期：9月28日！](https://www.koreastardaily.com/tc/news/118489)
+56. [MAMAMOO吸引力強大　官方粉絲已破77777人](http://www.koreastardaily.com/tc/news/83262)
+57. [MAMAMOO車禍](http://m.nownews.com/news/2271327)
+58. [MAMAMOO超敬業！發生交通事故仍堅持表演完畢才就醫](https://www.koreastardaily.com/tc/news/98080)
+59. [2016青龍電影獎 MAMAMOO表演引起笑聲](http://m.nownews.com/news/2319034) 。
+60. [「調戲鄭雨盛」太經典！ MAMAMOO鐵肺再唱青龍獎](https://star.ettoday.net/news/1053463)
+61. [RBW：頌樂因腰傷未癒，將缺席平昌冬奧的聖火傳遞](https://www.kpopn.com/2018/01/16/rbw%EF%BC%9A%E9%A0%8C%E6%A8%82%E5%9B%A0%E8%85%B0%E5%82%B7%E6%9C%AA%E7%99%92%EF%BC%8C%E5%B0%87%E7%BC%BA%E5%B8%AD%E5%B9%B3%E6%98%8C%E5%86%AC%E5%A5%A7%E7%9A%84%E8%81%96%E7%81%AB%E5%82%B3%E9%81%9E/)
+62. [MAMAMOO Solar彩排時腰部受傷 恐難參加《偶運會》](https://www.koreastardaily.com/tc/news/101772)
+63. [2018 서울가요대상 마마무 솔라 부상 투혼 "칠해줘+나로 말할 것 같으면"](http://www.munhwanews.com/news/articleView.html?idxno=110027)
+64. [MAMAMOO’s Agency Releases Statement Regarding Moonbyul’s Recent Injury](https://www.soompi.com/2018/06/23/mamamoos-agency-releases-statement-regarding-moonbyuls-recent-injury/)
+65. [허리 다쳐 잘 못 걷는데도 팬들에게 인사하기위해 '쩔뚝쩔뚝' 걸어오는 마마무 문별](http://m.insight.co.kr/news/162905)
+66. [MAMAMOO輝人韌帶受傷仍心繫粉絲執意演出](http://www.epochtimes.com/b5/18/12/28/n10937490.htm29)
+67. [【MBC演藝大賞2018】MAMAMOO輝人負傷上陣　金所炫車太鉉得優秀獎](https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/276753/mbc%E6%BC%94%E8%97%9D%E5%A4%A7%E8%B3%9E2018-mamamoo%E8%BC%9D%E4%BA%BA%E8%B2%A0%E5%82%B7%E4%B8%8A%E9%99%A3-%E9%87%91%E6%89%80%E7%82%AB%E8%BB%8A%E5%A4%AA%E9%89%89%E5%BE%97%E5%84%AA%E7%A7%80%E7%8D%8E)

@@ -86,7 +86,7 @@ CD共收錄了兩首歌曲、其純音樂版以及「LoveLive\!」中九人各�
   - 企画：[日昇動畫](../Page/日昇動畫.md "wikilink")
   - 原作：[矢立肇](https://zh.wikipedia.org/wiki/矢立肇 "wikilink")
   - 原案：[公野櫻子](https://zh.wikipedia.org/wiki/公野櫻子 "wikilink")
-  - 監督：
+  - 監督：[京極尚彥](../Page/京極尚彥.md "wikilink")
   - 動畫導演：井村学
   - 故事情節・演出：井村学、京極尚彦
   - 角色設計：室田雄平

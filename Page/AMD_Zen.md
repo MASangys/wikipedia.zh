@@ -149,7 +149,7 @@ Zen+微架構的處理器使用了[GlobalFoundries的](https://zh.wikipedia.org/
 
 19.
 
-20.  PC Perspective|url=[https://www.pcper.com/reviews/Processors/AMD-Zen-Architecture-Overview-Focus-Ryzen|website=PC](https://www.pcper.com/reviews/Processors/AMD-Zen-Architecture-Overview-Focus-Ryzen%7Cwebsite=PC) Perspective|accessdate=13 March 2017|language=en}}
+20.  PC Perspective|url=[https://www.pcper.com/reviews/Processors/AMD-Zen-Architecture-Overview-Focus-Ryzen|website=PC](https://www.pcper.com/reviews/Processors/AMD-Zen-Architecture-Overview-Focus-Ryzen%7Cwebsite=PC) Perspective|accessdate=13 March 2017|language=en|archive-url=[https://web.archive.org/web/20171012094351/https://www.pcper.com/reviews/Processors/AMD-Zen-Architecture-Overview-Focus-Ryzen|archive-date=2017-10-12|dead-url=yes](https://web.archive.org/web/20171012094351/https://www.pcper.com/reviews/Processors/AMD-Zen-Architecture-Overview-Focus-Ryzen%7Carchive-date=2017-10-12%7Cdead-url=yes)}}
 
 21.
 

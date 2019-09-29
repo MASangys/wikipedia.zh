@@ -22,7 +22,7 @@ T-X的双手皆可以变成不同型態的強大武器，主要武器为等离�
 
 <references />
 
-[Category:终结者系列](https://zh.wikipedia.org/wiki/Category:终结者系列 "wikilink") [Category:虛構人形機器人](https://zh.wikipedia.org/wiki/Category:虛構人形機器人 "wikilink") [Category:虛構人工智能](https://zh.wikipedia.org/wiki/Category:虛構人工智能 "wikilink") [Category:虛構刺客](https://zh.wikipedia.org/wiki/Category:虛構刺客 "wikilink") [Category:虛構超級士兵](https://zh.wikipedia.org/wiki/Category:虛構超級士兵 "wikilink") [Category:虛構變身者](https://zh.wikipedia.org/wiki/Category:虛構變身者 "wikilink") [Category:虛構時間旅行者](https://zh.wikipedia.org/wiki/Category:虛構時間旅行者 "wikilink")
+[Category:终结者系列](https://zh.wikipedia.org/wiki/Category:终结者系列 "wikilink") [Category:虛構人形機器人](https://zh.wikipedia.org/wiki/Category:虛構人形機器人 "wikilink") [Category:虛構人工智能](https://zh.wikipedia.org/wiki/Category:虛構人工智能 "wikilink") [Category:虛構刺客](https://zh.wikipedia.org/wiki/Category:虛構刺客 "wikilink") [Category:虛構超級士兵](https://zh.wikipedia.org/wiki/Category:虛構超級士兵 "wikilink") [Category:虛構變身者](https://zh.wikipedia.org/wiki/Category:虛構變身者 "wikilink") [Category:虛構時間旅行者](https://zh.wikipedia.org/wiki/Category:虛構時間旅行者 "wikilink") [Category:魔鬼終結者角色](https://zh.wikipedia.org/wiki/Category:魔鬼終結者角色 "wikilink")
 
 1.
 

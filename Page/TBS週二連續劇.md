@@ -228,7 +228,7 @@
 
 <!-- end list -->
 
-  - 7月9日－9月：**[Heaven？](../Page/Heaven？.md "wikilink")**（）
+  - 7月9日－9月10日：**[Heaven？](../Page/Heaven？.md "wikilink")**（）
 
 <!-- end list -->
 
@@ -239,7 +239,7 @@
 
 <!-- end list -->
 
-  - 10月－：**[G弦上的你和我](https://zh.wikipedia.org/wiki/G弦上的你和我 "wikilink")**（）
+  - 10月15日－：**[G弦上的你和我](https://zh.wikipedia.org/wiki/G弦上的你和我 "wikilink")**（）
 
 <!-- end list -->
 

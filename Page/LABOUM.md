@@ -1,6 +1,23 @@
 **LABOUM**（韓語：**라붐**、日語：**ラブーム**）是[NH Media與](../Page/NH_Media.md "wikilink")[Nega Network合作於](https://zh.wikipedia.org/wiki/NEGANETWORK "wikilink")2014年推出的[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，最初由6名成員組成，分别为[金柔廷](../Page/金柔廷.md "wikilink")、[鄭昭娟](https://zh.wikipedia.org/wiki/鄭昭娟 "wikilink")、[ZN](../Page/ZN_\(LABOUM\).md "wikilink")、廉海仁、[安率濱](https://zh.wikipedia.org/wiki/安率濱 "wikilink")、[金律喜](../Page/金律喜.md "wikilink")。團名「LABOUM」在法文則是代表「派對」的意思，配合團名的意義，LABOUM 將展現有別於性感風的魅力，開創屬於她們自己的獨特風格。官方粉絲名由官咖網路票選為Latte(拿鐵)。\[1\]\[2\]成员[金律喜](../Page/金律喜.md "wikilink")于2017年11月3日退队\[3\]，現任成員为[金柔廷](../Page/金柔廷.md "wikilink")、[鄭昭娟](https://zh.wikipedia.org/wiki/鄭昭娟 "wikilink")、[ZN](../Page/ZN_\(LABOUM\).md "wikilink")、廉海仁、[安率濱](https://zh.wikipedia.org/wiki/安率濱 "wikilink")。2018年2月11日，在选秀節目《The Unit》的最後一集中，ZN獲得第8名，進入期間限定團體出道。
 
-## 經歷
+## 團體資料
+
+**團名由來**
+
+「LABOUM」在法文則是代表「派對 (Party)」的意思，配合團名的意義，LABOUM 將展現有別於性感風的魅力，開創屬於她們自己的獨特風格。\[4\]
+
+**問候口號**
+
+「2,3 \! 반해 버렸어\~안녕하세요, 라붐입니다\!」
+
+**粉絲名稱**
+
+由官咖網路票選為라떼(Latte)
+
+LABOUM (라붐)的"LA (**라**)"和法文中意為美麗的人"beauté (보**떼**)"合成的名字。
+
+此粉絲名代表LABOUM是美麗的人+喜愛美麗的人們的意思。\[5\]
+\==經歷==
 
 ### 2014年：出道、單曲《Petit Macaron》、舉行粉絲名投票、公佈粉絲名、首張Repackage單曲《Petit Macaron Data Pack》
 
@@ -16,39 +33,39 @@
 
 ### 2015年：第二張單曲《SUGAR SUGAR》、第三張單曲《AALOW AALOW》
 
-3月16日，官方公開第二張單曲《SUGAR SUGAR》成員概念照，22日，公開第二張單曲《SUGAR SUGAR》MV預告。\[4\]\[5\]
+3月16日，官方公開第二張單曲《SUGAR SUGAR》成員概念照，22日，公開第二張單曲《SUGAR SUGAR》MV預告。\[6\]\[7\]
 
 3月26日，官方公開《SUGAR SUGAR》全輯音源和主打歌《SUGAR SUGAR》MV，並於《M\! Countdown》舉行首次回歸Showcase。
 
-11月25日，官方公開第三張單曲《AALOW AALOW》MV預告與概念照。\[6\]
+11月25日，官方公開第三張單曲《AALOW AALOW》MV預告與概念照。\[8\]
 
 12月6日，官方公開第三張單曲《AALOW AALOW》全輯音源和主打歌《AALOW AALOW》MV。
 
 ### 2016年：第四張單曲《Fresh Adventure》、首張迷你專輯《LOVE SIGN》、冬日特別專輯《Winter Story》
 
-3月21日，官方公開第四張單曲《Fresh Adventure》回歸日程，並陸續公開成員們的專輯概念照、曲目表及MV預告。\[7\]
+3月21日，官方公開第四張單曲《Fresh Adventure》回歸日程，並陸續公開成員們的專輯概念照、曲目表及MV預告。\[9\]
 
 4月6日，官方公開第四張單曲《Fresh Adventure》全輯音源和主打歌《상상더하기》MV。
 
-8月9日，官方公開首張迷你專輯《LOVE SIGN》概念照，後陸續公開專輯相關資訊。\[8\]
+8月9日，官方公開首張迷你專輯《LOVE SIGN》概念照，後陸續公開專輯相關資訊。\[10\]
 
 8月23日，官方公開首張迷你專輯《LOVE SIGN》全輯音源和主打歌《푱푱(Shooting Love)》MV。
 
-11月28日，官方公開冬日特別專輯主打曲《Winter Story》MV預告與概念照。12月1日公開《Winter Story》MV。\[9\]
+11月28日，官方公開冬日特別專輯主打曲《Winter Story》MV預告與概念照。12月1日公開《Winter Story》MV。\[11\]
 
 ### 2017年：第二張迷你專輯《MISS THIS KISS》、首次得到音樂節目一位、第二張數位單曲《LABOUM Summer Special》、進軍日本、律喜退出
 
-4月10日，官方公開第二張迷你專輯《MISS THIS KISS》回歸日程，並陸續公開成員們的專輯概念照、曲目表及MV預告。\[10\]
+4月10日，官方公開第二張迷你專輯《MISS THIS KISS》回歸日程，並陸續公開成員們的專輯概念照、曲目表及MV預告。\[12\]
 
 4月17日，發行第二張迷你專輯《MISS THIS KISS》，公開主打歌曲《Hwi hwi (휘휘)》MV， 並於當天舉辦Showcase。
 
 4月28日，憑《Hwi hwi (휘휘)》一曲，於[Music Bank獲得出道以來首個一位](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")。
 
-7月19日，官方公開第二張數位單曲專輯《LABOUM Summer Special》概念照，於25日公開《Only U(두바둡)》MV。\[11\]
+7月19日，官方公開第二張數位單曲專輯《LABOUM Summer Special》概念照，於25日公開《Only U(두바둡)》MV。\[13\]
 
-8月29日，官方開通日本官方Twitter帳號，並在其中發布LABOUM即將在9月23日在日本出道的消息\[12\]\[13\]，隨後陸續發布成員們的個人介紹視頻。
+8月29日，官方開通日本官方Twitter帳號，並在其中發布LABOUM即將在9月23日在日本出道的消息\[14\]\[15\]，隨後陸續發布成員們的個人介紹視頻。
 
-11月3日，官方表示成員律喜確定退出组合。律喜曾多次向公司表示她對演藝界的活動没有興趣，在與公司進行了長時間的商議後，最終决定尊重她本人的意見结束合约。\[14\]
+11月3日，官方表示成員律喜確定退出组合。律喜曾多次向公司表示她對演藝界的活動没有興趣，在與公司進行了長時間的商議後，最終决定尊重她本人的意見结束合约。\[16\]
 
 ### 2018年：ZN獲勝《The Unit》、第五張單曲《Between Us》、日本首張單曲《Hwi hwi》、第六張單曲《I'M YOURS》
 
@@ -56,37 +73,39 @@
 
 7月10日，官方 Facebook 上公開了一張預告照，將以五人體制於7月24日發行單曲專輯《Between Us》回歸，照片以粉紅色為底，並以白色字體寫上「LABOUM」、「Between Us」及「coming soon 07.24」字樣。
 
-7月14日，原定於7月24日睽違一年的以五人體制發行單曲專輯《Between Us》回歸的 LABOUM宣布專輯將延至27日發行，並陸續公開成員的專輯概念照。\[15\]
+7月14日，原定於7月24日睽違一年的以五人體制發行單曲專輯《Between Us》回歸的 LABOUM宣布專輯將延至27日發行，並陸續公開成員的專輯概念照。\[17\]
 
 7月22日，官方公開《Between Us》Official MV Teaser，7月25日公開《Between Us》Performance MV Teaser。
 
-7月25日，官方公開《Between Us》Official MV，並於7月26日開始上音樂節目打歌。
+7月25日，官方公開《Between Us》MV，並於7月26日開始上音樂節目打歌。
 
-8月21日，官方發布即將在11月7日發行日本首張單曲《Hwi hwi》，裡頭收錄《Hwi hwi》、《Shooting Love》日文版，以及兩首日本原創歌曲《Sugar Pop》、《killer killer Tune》；發行後登上日本公信榜第9名。\[16\]\[17\]
+8月21日，官方發布即將在11月7日發行日本首張單曲《Hwi hwi》，裡頭收錄《Hwi hwi》、《Shooting Love》日文版，以及兩首日本原創歌曲《Sugar Pop》、《killer killer Tune》；發行後登上日本公信榜第9名。\[18\]\[19\]
 
 11月27日，公司向媒體表示將於12月6日發行第六張單曲專輯《I'M YOURS》，並陸續公開成員們的專輯概念照。
 
-11月30日，原定12月6日發行第六張單曲專輯《I'M YOURS》，官方說明應內部情況而改以12月5日發行。\[18\]
+11月30日，原定12月6日發行第六張單曲專輯《I'M YOURS》，官方說明應內部情況而改以12月5日發行。\[20\]
 
-12月5日，公開主打歌《불을 켜(Turn It On)》Official MV，並於當日舉行SHOWCASE。
+12月5日，公開主打歌《불을 켜(Turn It On)》MV，並於當日舉行SHOWCASE。
 
 ### 2019年：日本首張專輯《Love Pop Wow\!\!》、首張正規專輯《Two Of Us》
 
-2月8日，日本媒體發布消息指出官方確定於4月24日發行日本第一張專輯，同時也公開於2月16至2月24日期間舉行發售活動。\[19\]
+2月8日，日本媒體發布消息指出官方確定於4月24日發行日本第一張專輯，同時也公開於2月16至2月24日期間舉行發售活動。\[21\]
 
-4月1日，日本官方公開首張日本專輯《Love Pop Wow\!\!》發行詳細內容，也公開4月27日見面會詳細資訊。\[20\]
+4月1日，日本官方公開首張日本專輯《Love Pop Wow\!\!》發行詳細內容，也公開4月27日見面會詳細資訊。\[22\]
 
 4月24日，首張日本專輯《Love Pop Wow\!\!》正式发布，並於4月24日至5月6日期間舉行發售活動。
 
 8月13日，官方公開一張MV拍攝現場照，並寫上「coming soon 2019. 09 Realese」，預告將於9月回歸。
 
-8月27日，官方宣布於9月19日發行出道後首張正規專輯《Two Of Us》\[21\]，並於30日公開行程表，後陸續公開概念照、曲目表及MV預告。
+8月27日，官方宣布於9月19日發行出道後首張正規專輯《Two Of Us》\[23\]，並於30日公開行程表，後陸續公開概念照、曲目表及MV預告。
+
+9月19日，公開主打歌《Firework(불꽃놀이) 》 MV和全輯音源。
 
 ## 成員資料
 
 |            |
 | ---------- |
-| 成員列表\[22\] |
+| 成員列表\[24\] |
 | **藝名**     |
 | **漢字**     |
 | 柔廷         |
@@ -99,7 +118,7 @@
 
 ### 成員變遷表
 
-<timeline> ImageSize = width:650 height:350 PlotArea = width:500 height:300 left:125 bottom:35 Alignbars = justify DateFormat = mm/dd/yyyy Period = from:2014 till:2018 TimeAxis = orientation:horizontal format:mm/yyyy
+<timeline> ImageSize = width:650 height:350 PlotArea = width:500 height:300 left:125 bottom:35 Alignbars = justify DateFormat = mm/dd/yyyy Period = from:2014 till:2019 TimeAxis = orientation:horizontal format:mm/yyyy
 
 Colors =
 
@@ -141,6 +160,80 @@ PlotData =
 
 ### 韩语作品
 
+#### 正規專輯
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>專輯</p></td>
+<td><p>專輯資料</p></td>
+<td><p>曲目</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>1st</strong></p></td>
+<td><p>《<strong>Two Of Us</strong>》</p>
+<ul>
+<li>發行日期：2019年9月19日</li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
+<li>發行公司: NH Media、Nega Network</li>
+<li>規格: CD、數位音樂下載</li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+#### 迷你專輯
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>專輯</p></td>
+<td><p>專輯資料</p></td>
+<td><p>曲目</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>1st</strong></p></td>
+<td><p>《<strong>LOVE SIGN</strong>》</p>
+<ul>
+<li>發行日期：2016年8月23日</li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
+<li>發行公司: NH Media、Nega Network</li>
+<li>規格: CD、數位音樂下載</li>
+<li>專輯銷量:3,333</li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>2nd</strong></p></td>
+<td><p>《<strong><a href="../Page/MISS_THIS_KISS.md" title="wikilink">MISS THIS KISS</a></strong>》</p>
+<ul>
+<li>發行日期：2017年4月17日</li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
+<li>發行公司: NH Media、Nega Network</li>
+<li>規格: CD、數位音樂下載</li>
+<li>專輯銷量:31,472</li>
+</ul></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 #### 單曲
 
 <table>
@@ -152,7 +245,7 @@ PlotData =
 </tr>
 <tr class="even">
 <td><p><strong>1st</strong></p></td>
-<td><p>《<strong>Petit Macaron</strong>》[23]</p>
+<td><p>《<strong>Petit Macaron</strong>》[25]</p>
 <ul>
 <li>發行日期：2014年8月28日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
@@ -230,47 +323,6 @@ PlotData =
 </tbody>
 </table>
 
-#### 迷你專輯
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p>專輯</p></td>
-<td><p>專輯資料</p></td>
-<td><p>曲目</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>1st</strong></p></td>
-<td><p>《<strong>LOVE SIGN</strong>》</p>
-<ul>
-<li>發行日期：2016年8月23日</li>
-<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
-<li>發行公司: NH Media、Nega Network</li>
-<li>規格: CD、數位音樂下載</li>
-<li>專輯銷量:3,333</li>
-</ul></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>2nd</strong></p></td>
-<td><p>《<strong><a href="../Page/MISS_THIS_KISS.md" title="wikilink">MISS THIS KISS</a></strong>》</p>
-<ul>
-<li>發行日期：2017年4月17日</li>
-<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
-<li>發行公司: NH Media、Nega Network</li>
-<li>規格: CD、數位音樂下載</li>
-<li>專輯銷量:31,472</li>
-</ul></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
 #### 數位單曲
 
 <table>
@@ -312,7 +364,7 @@ PlotData =
 |                                                 |                                                          |                 |               |         |
 | ----------------------------------------------- | -------------------------------------------------------- | --------------- | ------------- | ------- |
 | 年份                                              | 電視劇                                                      | 歌曲              | 參與成員          | 備註      |
-| 2015年                                           | KBS《[我們家蜜罈子](../Page/我們家蜜罈子.md "wikilink")》              | 冰冷的愛\[24\]      | 昭娟            |         |
+| 2015年                                           | KBS《[我們家蜜罈子](../Page/我們家蜜罈子.md "wikilink")》              | 冰冷的愛\[26\]      | 昭娟            |         |
 | 2017年                                           | MBC《[醫療船](https://zh.wikipedia.org/wiki/醫療船 "wikilink")》 | I Feel Love     |               |         |
 | KBS《[Jugglers](../Page/Jugglers.md "wikilink")》 | Cosmic                                                   |                 |               |         |
 | 2018年                                           | MBC《[過來抱抱我](../Page/過來抱抱我.md "wikilink")》                | Don't disappear | 柔廷、昭娟         |         |
@@ -406,9 +458,9 @@ PlotData =
 
 | 成員 | 登記名稱     | 登記編號     | 參與歌曲列表 |
 | -- | -------- | -------- | ------ |
-| 柔廷 | 김유정 / 유정 | 10015269 | \[25\] |
-| 昭娟 | 정소연      | 10017252 | \[26\] |
-| 率濱 | 안솔빈      | 10020214 | \[27\] |
+| 柔廷 | 김유정 / 유정 | 10015269 | \[27\] |
+| 昭娟 | 정소연      | 10017252 | \[28\] |
+| 率濱 | 안솔빈      | 10020214 | \[29\] |
 
 ## 影視作品
 
@@ -416,9 +468,9 @@ PlotData =
 
 | 年份    | 影片名稱       | 參與成員 | 角色  | 性質  | 備註     |
 | ----- | ---------- | ---- | --- | --- | ------ |
-| 2016年 | 《對決》       | 率濱   |     | |配角 | \[28\] |
+| 2016年 | 《對決》       | 率濱   |     | |配角 | \[30\] |
 | 2019年 | 《生存者偏向的錯誤》 | 成智娜  | 女主角 |     |        |
-| 2019年 | 《賭上了一切》    | ZN   | 賽綸  | 配角  | \[29\] |
+| 2019年 | 《賭上了一切》    | ZN   | 賽綸  | 配角  | \[31\] |
 
 ### 電視劇
 
@@ -453,7 +505,7 @@ PlotData =
 <td></td>
 <td><p><a href="../Page/Brown_Eyed_Girls.md" title="wikilink">Brown Eyed Girls</a></p></td>
 <td><p>率濱</p></td>
-<td><p>《The Original》單曲預告[30]</p></td>
+<td><p>《The Original》單曲預告[32]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://www.youtube.com/watch?v=vgBlBFL3CBo">One summer night</a></p></td>
@@ -644,6 +696,13 @@ PlotData =
 <td></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p><a href="https://www.youtube.com/watch?v=bz_BR3baCkA">불꽃놀이 (Firework)</a></p></td>
+<td><p>LABOUM</p></td>
+<td><p>全員</p></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -772,6 +831,10 @@ PlotData =
 | 3月17日、3月24日                                        | MBC                                                                 | 《[神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")》                    | 昭娟            | 以參賽者身分     |
 | 7月24日                                              | tvN                                                                 | 《[無論什麼friends](../Page/無論什麼friends.md "wikilink")》                  | 率濱            |            |
 | 8月11日                                              | 《[Player (韓國綜藝)](../Page/Player_\(韓國綜藝\).md "wikilink")》            |                                                                     |               |            |
+| 9月7日                                               | JTBC2                                                               | 《[RUN.wav](../Page/RUN.wav.md "wikilink")》                          | 全員            |            |
+| 9月17日                                              | MBC                                                                 | 《浪漫CLUB》                                                            | 率濱            |            |
+| 9月18日                                              | JTBC2                                                               | 《今天的運勢》                                                             |               |            |
+| Arirang TV                                         | 《Showbiz Korea》                                                     | ZN                                                                  |               |            |
 
 ### 廣播節目
 
@@ -846,6 +909,8 @@ PlotData =
 | 1月3日                    | MBC標準FM                                           | 《燦多的星光閃耀的夜晚 》                  | 全員    | 看得見的廣播 |
 | 1月10日                   | 《[IDOL RADIO](../Page/IDOL_RADIO.md "wikilink") 》 | ZN                             |       |        |
 | 3月17日                   | SBS Power FM                                      | 《裴晟宰的 TEN》                     | 率濱    | 錄音放送   |
+| 9月19日                   | MBC FM4U                                          | 《朴經的夢想電台》                      | 全員    |        |
+| 9月20日                   | SBS Love FM                                       | 《Kim Sang Hyuk,DinDin 哥哥的廣播》   |       |        |
 
 ## 主持
 
@@ -888,7 +953,7 @@ PlotData =
 | [Show Champion](../Page/Show_Champion.md "wikilink")                   |
 | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") |
 | Simply K-Pop                                                           |
-| [Music Bank](https://zh.wikipedia.org/wiki/KBS音樂銀行 "wikilink")         |
+| Music Bank                                                             |
 | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     |
 | [人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")               |
 | What about you                                                         |
@@ -1018,6 +1083,17 @@ PlotData =
 | Simply K-Pop     |
 | Show\! 音樂中心      |
 | 人氣歌謠             |
+| Satellite        |
+| M\! Countdown    |
+| Music Bank       |
+| Firework(불꽃놀이)   |
+| THE SHOW         |
+| Show Champion    |
+| M\! Countdown    |
+| Music Bank       |
+| Simply K-Pop     |
+| Show\! 音樂中心      |
+| 人氣歌謠             |
 |                  |
 
 ### 其他特别舞台
@@ -1097,108 +1173,112 @@ PlotData =
 
 ### 其他公演
 
-| 日期     | 活動名稱                                  | 舉行地點                          |
-| ------ | ------------------------------------- | ----------------------------- |
-| 2014年  |                                       |                               |
-| 10月17日 | 《蘆原區陸軍士官慰問公演》                         | 首爾                            |
-| 10月18日 | 《分享希望天使演唱會》                           | 首爾廣場                          |
-| 10月21日 | 《果川國軍慰問公演》                            | 京畿道                           |
-| 11月27日 | 《國軍慰問公演》                              | 全羅南道潭陽                        |
-| 2015年  |                                       |                               |
-| 2月13日  | 《培材大學校慶公演》                            | 大田廣域市                         |
-| 4月22日  | 《KISPinoy in Philippines》             | SM MOA Music Hall             |
-| 5月12日  | 《國軍慰問公演》                              | 大田                            |
-| 5月22日  | 《高麗大學校慶公演》                            | 首爾特別市                         |
-| 7月3日   | 《同心國軍慰問CBS Loving U Concert》          | 京畿道                           |
-| 7月21日  | 《民軍官和諧慰問公演》                           | 慶尚南道咸安區                       |
-| 9月8日   | 《國軍慰問公演》                              | 龍仁市                           |
-| 10月17日 | 《2015 Mega Concert》                   | 忠北大學 大運動場                     |
-| 10月31日 | 《2015 石村湖水秋季音樂會》                      | 石村西湖水邊舞台                      |
-| 12月21日 | 《無限挑戰 EXPO祝賀舞台》                       | 一山KINTEX                      |
-| 2016年  |                                       |                               |
-| 3月3日   | 《國軍慰問公演》                              | 益山                            |
-| 5月28日  | 《Asia Idol Billboard (AiBB亞洲偶像榜)》     | 中國上海                          |
-| 10月3日  | 《大韓民國人參慶典》                            | 市政府廣場                         |
-| 10月7日  | 《ASIA MUSIC NETWORK SHOWCASE》         | 上岩MBC公開HALL                   |
-| 10月8日  | 《K-STAR公開放送》                          | 江原道麟蹄公立體育場                    |
-| 10月9日  | 《善良演唱會》                               | 東大門十字口特設舞台                    |
-| 10月15日 | 《KBS分享大慶典》                            | 汝矣島公園                         |
-| 10月22日 | 《KBS青少年音樂會》                           | KINTEX                        |
-| 10月29日 | 《第一屆無文化差異慶典》                          | 韓國                            |
-| 11月11日 | 《韓越美食文化節》                             | 越南河內                          |
-| 11月19日 | 《SBS LoveFM 20周年公開放送》                 | SBS Prism Tower               |
-| 2017年  |                                       |                               |
-| 2月18日  | 《K-Drama FESTA in平昌》                  | 江原道平昌                         |
-| 3月26日  | 《越南圖書捐贈紀念K-POP Concert》               | 越南河內                          |
-| 5月4日   | 《2017 COEX C-FESTIVAL》                | COEX會展中心大廳                    |
-| 5月5日   | 《2017 首爾美食節K-POP Concert》             | 首爾COEX                        |
-| 5月18日  | 《弘益大學校慶公演》                            | 首爾特別市                         |
-| 6月2日   | 《2017 World Friends Music Festival》   | 華城市綜合競技城                      |
-| 8月2日   | 《海洋世界樂園演唱會》                           | 海洋世界波浪舞台                      |
-| 8月26日  | 《第五屆大邱牛小腸慶典》                          | 大邱南區廣場                        |
-| 9月27日  | 《忠南大學校慶公演》                            | 大田廣域市                         |
-| 9月28日  | 《國軍慰問公演》                              | 光州                            |
-| 9月29日  | 《第38屆鎮川文化慶典》                          | 鎮川文化館                         |
-| 11月18日 | 《2017 軍樂隊演奏會》                         | 汝矣島KBS                        |
-| 11月19日 | 《金浦青少年慶典》                             | 金浦市                           |
-| 12月14日 | 《國軍慰問公演》                              | 京畿道平澤                         |
-| 2018年  |                                       |                               |
-| 3月1日   | 《與市民一起的慶祝音樂會》                         | 梁山綜合室內體育館                     |
-| 3月8日   | 《新韓銀行2017\~2018 韓國女子專業籃球正規聯合賽 頒獎典禮》   | 首爾良才洞THE K HALL               |
-| 3月20日  | 《國軍慰問公演》                              | 江原道高城                         |
-| 4月6日   | 《井邑櫻花慶典》                              | 井邑兒童足球場                       |
-| 4月27日  | 《希望2018\!分享幸福演唱會》                     | 南陽州文化中心館                      |
-| 5月10日  | 《國軍慰問公演》                              | 元州                            |
-| 5月15日  | 《第12屆全國殘疾學生運動會 開幕式》                   | 忠州體育館                         |
-| 5月19日  | 《花園福音慶典》                              | 花園教會                          |
-| 5月20日  | 《善良演唱會》                               | 狎鷗亭羅德奧街                       |
-| 5月24日  | 《國軍慰問公演》                              | 江原道楊口                         |
-| 5月30日  | 《2018大邱Catholic大學 大同祭慶典》              | 大邱                            |
-| 6月17日  | 《2018 法聖浦端午節活動》                       | 法聖浦New Town特設舞台               |
-| 6月19日  | 《國軍慰問公演》                              | 全南道長城                         |
-| 6月26日  | 江原道華川                                 |                               |
-| 7月15日  | 《2018 保寧泥漿節》                          | 大川海水浴場                        |
-| 7月21日  | 《2018 U-12全國青少年棒球大會 開幕式》              | 華城夢想公園                        |
-| 8月2日   | 《國軍慰問公演》                              | 仁川                            |
-| 8月14日  | 京畿道華城                                 |                               |
-| 8月20日  | 《Fight！2018 in 台場》                    | 日本東京Symbol promenade park     |
-| 8月30日  | 《國軍慰問公演》                              | 忠州                            |
-| 9月7日   | 《The 29th USER GROUP CONFERENCE》      | 慶洲河白會議中心                      |
-| 9月8日   | 《第17屆國際觀光首爾馬拉松大會》                     | 汝矣島廣場                         |
-| 9月11日  | 《國軍慰問公演》                              | 釜山                            |
-| 9月13日  | 《食藥廳25秒電影節 頒獎典禮》                      | 韓國經濟報社                        |
-| 9月14日  | 《KBS 趙勝延的Good Morning Pops 30周年公開放送》  | KBS藝術廳                        |
-| 9月29日  | 《Bonghwa Pine Mushroom Festival 2018》 | 奉化邑體育公園                       |
-| 10月2日  | 《2018 Sung Kyul大學社團慶典》                | 京畿道安養市                        |
-| 10月5日  | 《2018 慶尚北道保健大學 校慶》                    | 慶尚北道                          |
-| 10月6日  | 《2018 任實N起士開幕慶典》                      | 任實區廣場                         |
-| 10月7日  | 《2018 Asian Music Festival》           | 安養市Gtower                     |
-| 10月12日 | 《第34屆 Yanggu Rok節》                    | Yanggu綜合運動場                   |
-| 10月13日 | 《2018 海洋安全節》                          | 平澤市振威川遊樂園                     |
-| 10月15日 | 《仙岩寺世界文化遺產紀念音樂會》                      | 朝禮湖水公園                        |
-| 10月17日 | 《SAMSUNG 電子夢想Talk》                    | 保寧綜合體育館                       |
-| 10月18日 | 《第99屆全國體育大會 閉幕式》                      | 益山公共運動場                       |
-| 11月11日 | 《K-GIRLS FES 2018 IN TOKYO》           | 日本SHINAGAWA STELLA HALL       |
-| 11月15日 | 《2018 Hong seong國際短片電影節》              | Hong Ju 文化中心                  |
-| 11月20日 | 《國軍慰問公演》                              | 江原道鐵原                         |
-| 12月4日  | 鎮海                                    |                               |
-| 12月11日 | 《2018 WINTER CONCERT》                 | 天安藝術殿堂                        |
-| 2019年  |                                       |                               |
-| 3月1日   | 《2019 One K Concert》                  | 汝矣島國會議事堂草坪廣場                  |
-| 3月16日  | 《德華TV Special Concert》                | KBS 新館TV公開HALL                |
-| 3月21日  | 《國軍慰問公演》                              | 京畿道富川市                        |
-| 4月4日   | 京畿道南楊州市                               |                               |
-| 4月20日  | 《啊哈\! 家族演唱會》                          | 益山綜合體育公園                      |
-| 5月11日  | 《第五屆Gyeomjae文化藝術節》                    | Gyeomjae Jeongseon Art Museum |
-| 5月16日  | 《國軍慰問公演》                              | 忠清北道曾坪郡                       |
-| 5月25日  | 《第14屆 東豆川藝術節》                         | 中央公園野外舞台                      |
-| 5月31日  | 《松坡區區民和諧大會》                           | 松坡書籍博物館 特設舞台                  |
-| 6月8日   | 《國軍慰問公演》                              | 京畿道西南部平澤市                     |
-| 7月16日  | 《都市再生 29秒電影節頒獎禮》                      | 韓國經濟報社18樓 茶山大廳                |
-| 7月18日  | 《國軍慰問公演》                              | 江原道洪川郡                        |
-| 7月30日  | 《2019 Koya Summer Festival》           | Yangji Pine Ski Resort        |
-| 8月6日   | 《國軍慰問公演》                              | 慶尚北道浦項市                       |
-| 8月22日  | 京畿道坡州市                                |                               |
+| 日期        | 活動名稱                                  | 舉行地點                          |
+| --------- | ------------------------------------- | ----------------------------- |
+| 2014年     |                                       |                               |
+| 10月17日    | 《蘆原區陸軍士官慰問公演》                         | 首爾                            |
+| 10月18日    | 《分享希望天使演唱會》                           | 首爾廣場                          |
+| 10月21日    | 《果川國軍慰問公演》                            | 京畿道                           |
+| 11月27日    | 《國軍慰問公演》                              | 全羅南道潭陽                        |
+| 2015年     |                                       |                               |
+| 2月13日     | 《培材大學校慶公演》                            | 大田廣域市                         |
+| 4月22日     | 《KISPinoy in Philippines》             | SM MOA Music Hall             |
+| 5月12日     | 《國軍慰問公演》                              | 大田                            |
+| 5月22日     | 《高麗大學校慶公演》                            | 首爾特別市                         |
+| 7月3日      | 《同心國軍慰問CBS Loving U Concert》          | 京畿道                           |
+| 7月21日     | 《民軍官和諧慰問公演》                           | 慶尚南道咸安區                       |
+| 9月8日      | 《國軍慰問公演》                              | 龍仁市                           |
+| 10月17日    | 《2015 Mega Concert》                   | 忠北大學 大運動場                     |
+| 10月31日    | 《2015 石村湖水秋季音樂會》                      | 石村西湖水邊舞台                      |
+| 12月21日    | 《無限挑戰 EXPO祝賀舞台》                       | 一山KINTEX                      |
+| 2016年     |                                       |                               |
+| 3月3日      | 《國軍慰問公演》                              | 益山                            |
+| 5月28日     | 《Asia Idol Billboard (AiBB亞洲偶像榜)》     | 中國上海                          |
+| 10月3日     | 《大韓民國人參慶典》                            | 市政府廣場                         |
+| 10月7日     | 《ASIA MUSIC NETWORK SHOWCASE》         | 上岩MBC公開HALL                   |
+| 10月8日     | 《K-STAR公開放送》                          | 江原道麟蹄公立體育場                    |
+| 10月9日     | 《善良演唱會》                               | 東大門十字口特設舞台                    |
+| 10月15日    | 《KBS分享大慶典》                            | 汝矣島公園                         |
+| 10月22日    | 《KBS青少年音樂會》                           | KINTEX                        |
+| 10月29日    | 《第一屆無文化差異慶典》                          | 韓國                            |
+| 11月11日    | 《韓越美食文化節》                             | 越南河內                          |
+| 11月19日    | 《SBS LoveFM 20周年公開放送》                 | SBS Prism Tower               |
+| 2017年     |                                       |                               |
+| 2月18日     | 《K-Drama FESTA in平昌》                  | 江原道平昌                         |
+| 3月26日     | 《越南圖書捐贈紀念K-POP Concert》               | 越南河內                          |
+| 5月4日      | 《2017 COEX C-FESTIVAL》                | COEX會展中心大廳                    |
+| 5月5日      | 《2017 首爾美食節K-POP Concert》             | 首爾COEX                        |
+| 5月18日     | 《弘益大學校慶公演》                            | 首爾特別市                         |
+| 6月2日      | 《2017 World Friends Music Festival》   | 華城市綜合競技城                      |
+| 8月2日      | 《海洋世界樂園演唱會》                           | 海洋世界波浪舞台                      |
+| 8月26日     | 《第五屆大邱牛小腸慶典》                          | 大邱南區廣場                        |
+| 9月27日     | 《忠南大學校慶公演》                            | 大田廣域市                         |
+| 9月28日     | 《國軍慰問公演》                              | 光州                            |
+| 9月29日     | 《第38屆鎮川文化慶典》                          | 鎮川文化館                         |
+| 11月18日    | 《2017 軍樂隊演奏會》                         | 汝矣島KBS                        |
+| 11月19日    | 《金浦青少年慶典》                             | 金浦市                           |
+| 12月14日    | 《國軍慰問公演》                              | 京畿道平澤                         |
+| 2018年     |                                       |                               |
+| 3月1日      | 《與市民一起的慶祝音樂會》                         | 梁山綜合室內體育館                     |
+| 3月8日      | 《新韓銀行2017\~2018 韓國女子專業籃球正規聯合賽 頒獎典禮》   | 首爾良才洞THE K HALL               |
+| 3月20日     | 《國軍慰問公演》                              | 江原道高城                         |
+| 4月6日      | 《井邑櫻花慶典》                              | 井邑兒童足球場                       |
+| 4月27日     | 《希望2018\!分享幸福演唱會》                     | 南陽州文化中心館                      |
+| 5月10日     | 《國軍慰問公演》                              | 元州                            |
+| 5月15日     | 《第12屆全國殘疾學生運動會 開幕式》                   | 忠州體育館                         |
+| 5月19日     | 《花園福音慶典》                              | 花園教會                          |
+| 5月20日     | 《善良演唱會》                               | 狎鷗亭羅德奧街                       |
+| 5月24日     | 《國軍慰問公演》                              | 江原道楊口                         |
+| 5月30日     | 《2018大邱Catholic大學 大同祭慶典》              | 大邱                            |
+| 6月17日     | 《2018 法聖浦端午節活動》                       | 法聖浦New Town特設舞台               |
+| 6月19日     | 《國軍慰問公演》                              | 全南道長城                         |
+| 6月26日     | 江原道華川                                 |                               |
+| 7月15日     | 《2018 保寧泥漿節》                          | 大川海水浴場                        |
+| 7月21日     | 《2018 U-12全國青少年棒球大會 開幕式》              | 華城夢想公園                        |
+| 8月2日      | 《國軍慰問公演》                              | 仁川                            |
+| 8月14日     | 京畿道華城                                 |                               |
+| 8月20日     | 《Fight！2018 in 台場》                    | 日本東京Symbol promenade park     |
+| 8月30日     | 《國軍慰問公演》                              | 忠州                            |
+| 9月7日      | 《The 29th USER GROUP CONFERENCE》      | 慶洲河白會議中心                      |
+| 9月8日      | 《第17屆國際觀光首爾馬拉松大會》                     | 汝矣島廣場                         |
+| 9月11日     | 《國軍慰問公演》                              | 釜山                            |
+| 9月13日     | 《食藥廳25秒電影節 頒獎典禮》                      | 韓國經濟報社                        |
+| 9月14日     | 《KBS 趙勝延的Good Morning Pops 30周年公開放送》  | KBS藝術廳                        |
+| 9月29日     | 《Bonghwa Pine Mushroom Festival 2018》 | 奉化邑體育公園                       |
+| 10月2日     | 《2018 Sung Kyul大學社團慶典》                | 京畿道安養市                        |
+| 10月5日     | 《2018 慶尚北道保健大學 校慶》                    | 慶尚北道                          |
+| 10月6日     | 《2018 任實N起士開幕慶典》                      | 任實區廣場                         |
+| 10月7日     | 《2018 Asian Music Festival》           | 安養市Gtower                     |
+| 10月12日    | 《第34屆 Yanggu Rok節》                    | Yanggu綜合運動場                   |
+| 10月13日    | 《2018 海洋安全節》                          | 平澤市振威川遊樂園                     |
+| 10月15日    | 《仙岩寺世界文化遺產紀念音樂會》                      | 朝禮湖水公園                        |
+| 10月17日    | 《SAMSUNG 電子夢想Talk》                    | 保寧綜合體育館                       |
+| 10月18日    | 《第99屆全國體育大會 閉幕式》                      | 益山公共運動場                       |
+| 11月11日    | 《K-GIRLS FES 2018 IN TOKYO》           | 日本SHINAGAWA STELLA HALL       |
+| 11月15日    | 《2018 Hong seong國際短片電影節》              | Hong Ju 文化中心                  |
+| 11月20日    | 《國軍慰問公演》                              | 江原道鐵原                         |
+| 12月4日     | 鎮海                                    |                               |
+| 12月11日    | 《2018 WINTER CONCERT》                 | 天安藝術殿堂                        |
+| 2019年     |                                       |                               |
+| 3月1日      | 《2019 One K Concert》                  | 汝矣島國會議事堂草坪廣場                  |
+| 3月16日     | 《德華TV Special Concert》                | KBS 新館TV公開HALL                |
+| 3月21日     | 《國軍慰問公演》                              | 京畿道富川市                        |
+| 4月4日      | 京畿道南楊州市                               |                               |
+| 4月20日     | 《啊哈\! 家族演唱會》                          | 益山綜合體育公園                      |
+| 5月11日     | 《第五屆Gyeomjae文化藝術節》                    | Gyeomjae Jeongseon Art Museum |
+| 5月16日     | 《國軍慰問公演》                              | 忠清北道曾坪郡                       |
+| 5月25日     | 《第14屆 東豆川藝術節》                         | 中央公園野外舞台                      |
+| 5月31日     | 《松坡區區民和諧大會》                           | 松坡書籍博物館 特設舞台                  |
+| 6月8日      | 《國軍慰問公演》                              | 京畿道西南部平澤市                     |
+| 7月16日     | 《都市再生 29秒電影節頒獎禮》                      | 韓國經濟報社18樓 茶山大廳                |
+| 7月18日     | 《國軍慰問公演》                              | 江原道洪川郡                        |
+| 7月30日     | 《2019 Koya Summer Festival》           | Yangji Pine Ski Resort        |
+| 8月6日      | 《國軍慰問公演》                              | 慶尚北道浦項市                       |
+| 8月22日     | 京畿道坡州市                                |                               |
+| 9月20日     | 《2019 Daeco Beer Festival》            | 比來洞行政福利中心                     |
+| 9月21日     | 《首爾韓醫師會 Family Concert》               | Seoul Land                    |
+| 《義王白雲藝術節》 | 白雲湖堤停車場                               |                               |
+| 9月30日     | 《MU：CON 2019 Showcase》                | COEX SQUARE                   |
 
 ## 大型拼盤演唱會
 
@@ -1336,6 +1416,8 @@ PlotData =
   -
   -
   -
+  - 的V LIVE頻道
+
 **成员SNS**
 
   -
@@ -1370,11 +1452,11 @@ PlotData =
 
 13.
 
-14.  Soompi|accessdate=2017-11-03|work=www.soompi.com|language=en-US}}
+14.
 
 15.
 
-16.
+16.  Soompi|accessdate=2017-11-03|work=www.soompi.com|language=en-US}}
 
 17.
 
@@ -1382,11 +1464,11 @@ PlotData =
 
 19.
 
-20.  LABOUM(ラブーム) {{\!}} 日本コロムビアオフィシャルサイト|url=[https://columbia.jp/artist-info/laboum/info/64970.html|work=日本コロムビア公式サイト|accessdate=2019-04-05|language=ja](https://columbia.jp/artist-info/laboum/info/64970.html%7Cwork=日本コロムビア公式サイト%7Caccessdate=2019-04-05%7Clanguage=ja)}}
+20.
 
 21.
 
-22.
+22.  LABOUM(ラブーム) {{\!}} 日本コロムビアオフィシャルサイト|url=[https://columbia.jp/artist-info/laboum/info/64970.html|work=日本コロムビア公式サイト|accessdate=2019-04-05|language=ja](https://columbia.jp/artist-info/laboum/info/64970.html%7Cwork=日本コロムビア公式サイト%7Caccessdate=2019-04-05%7Clanguage=ja)}}
 
 23.
 
@@ -1403,3 +1485,7 @@ PlotData =
 29.
 
 30.
+
+31.
+
+32.

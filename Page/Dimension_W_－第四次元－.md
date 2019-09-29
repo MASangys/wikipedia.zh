@@ -526,6 +526,12 @@
 <td><p>ISBN 978-4-7575-5924-0</p></td>
 <td><p>2019年6月12日</p></td>
 </tr>
+<tr class="odd">
+<td><p>16</p></td>
+<td><p>2019年8月24日</p></td>
+<td><p>ISBN 978-4-7575-6259-2</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

@@ -176,6 +176,8 @@ Battle Course 4</p></td>
   -
   - [《马里奥赛车Advance》](http://www.nintendo.co.jp/nom/0108/soft01/interv/index.html)在 任天堂在线杂志 的开发者访谈
 
+  - [瑪利奧賽車Advance影片](https://www.youtube.com/watch?v=4kzPav96ZoM)
+
 [Category:2001年电子游戏](https://zh.wikipedia.org/wiki/Category:2001年电子游戏 "wikilink") [Category:瑪利歐賽車系列](https://zh.wikipedia.org/wiki/Category:瑪利歐賽車系列 "wikilink") [Category:Intelligent_Systems游戏](https://zh.wikipedia.org/wiki/Category:Intelligent_Systems游戏 "wikilink") [Category:Game_Boy_Advance遊戲](https://zh.wikipedia.org/wiki/Category:Game_Boy_Advance遊戲 "wikilink") [Category:Wii_Virtual_Console游戏](https://zh.wikipedia.org/wiki/Category:Wii_Virtual_Console游戏 "wikilink") [Category:任天堂3DS_Virtual_Console游戏](https://zh.wikipedia.org/wiki/Category:任天堂3DS_Virtual_Console游戏 "wikilink") [Category:Wii_U_Virtual_Console游戏](https://zh.wikipedia.org/wiki/Category:Wii_U_Virtual_Console游戏 "wikilink")
 
 1.

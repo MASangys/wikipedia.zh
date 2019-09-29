@@ -4,35 +4,31 @@
 
 麥可·B·喬丹出生於[加利福尼亞州](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")，母親唐娜·戴維絲（Donna Davis）是在藝術學校就職，而父親麥可·A·喬丹則是在經營餐飲業\[1\]。喬丹的中間名在[斯瓦希里語中有著](https://zh.wikipedia.org/wiki/斯瓦希里語 "wikilink")「高貴的承諾」的意思\[2\]。他們家中有三個孩子，姐姐潔米拉（Jamila）的職業為製造業，弟弟哈里德（Khalid）則在[霍華德大學裡作為一名足球員](https://zh.wikipedia.org/wiki/霍華德大學 "wikilink")\[3\]。喬丹在加州住了兩年\[4\]，之後他們搬至[紐澤西州的](https://zh.wikipedia.org/wiki/紐澤西州 "wikilink")[紐華克生活](https://zh.wikipedia.org/wiki/紐華克_\(紐澤西州\) "wikilink")\[5\]。他畢業於[紐瓦克藝術高中](https://zh.wikipedia.org/wiki/紐瓦克藝術高中 "wikilink")，喬丹曾在那參加過籃球隊\[6\]。他並無計劃要去參加演戲，而在當地的一間模型公司工作\[7\]，他做的模型專提供給[Modell's和](https://zh.wikipedia.org/wiki/Modell's "wikilink")[玩具反斗城](../Page/玩具反斗城.md "wikilink")\[8\]。然而，當《[勝利之光](https://zh.wikipedia.org/wiki/勝利之光_\(電視劇\) "wikilink")》在他[奧斯汀](../Page/奧斯汀.md "wikilink")的公寓拍攝時喬丹也有參與演出\[9\]。
 
-## 事業
+## 職業生涯
 
-**早期工作（1999-2012）**
+### 早期工作（1999年至2012年）
 
-在決定開始演員生涯之前，喬丹曾為多家公司和品牌工作，包括Modell的體育用品和Toys“R”Us。他在1999年開始了他作為演員的職業生涯，當時他短暫出現在電視連續劇“寇司比”和“[黑道家族](../Page/黑道家族.md "wikilink")”的單劇集中。他的第一個主要電影角色出現在2001年，當時他出演了由[基努·李維主演的](https://zh.wikipedia.org/wiki/基努·李維 "wikilink")“追夢高手”(Hardball)。在2002年，他扮演在HBO的[火線重案組](https://zh.wikipedia.org/wiki/火線重案組 "wikilink")(The Wire)的第一季中小而重要的角色華萊士而獲得了更多的關注。2003年3月，他加入了我的孩子們(All My Children)的劇組演出Reggie Montgomery，取代[查德威克·鮑斯曼](https://zh.wikipedia.org/wiki/查德威克·鮑斯曼 "wikilink")，直到2006年6月喬丹被解除合同。喬丹的其他作品包括客串主演[CSI犯罪現場](../Page/CSI犯罪現場.md "wikilink")單集：「Poppin' Tags」。此後，他曾在助理飾演Nate Warren 。2008年，喬丹出現在R＆B藝術家Pleasure P的音樂錄影帶“ 你錯了 ”中。2009年，他出演了客串演出在“ [火線警告](https://zh.wikipedia.org/wiki/火線警告 "wikilink") ”Hot Spot劇集中，扮演一名參加爭鬥的高中足球運動員並被當地黑幫追捕。2010年，他演出法網遊龍：犯案動機，[謊言終結者等](https://zh.wikipedia.org/wiki/謊言終結者 "wikilink")。
+在決定開始演員生涯之前，喬丹曾為多家公司和品牌工作，包括Modell的體育用品和Toys“R”Us。他在1999年開始了他作為演員的職業生涯，當時他短暫出現在電視連續劇《寇司比》和《[黑道家族](../Page/黑道家族.md "wikilink")》的單劇集中。他的第一個主要電影角色出現在2001年，當時他出演了由[基努·李維主演的](https://zh.wikipedia.org/wiki/基努·李維 "wikilink")《追夢高手》。在2002年，他扮演在HBO的《[火線重案組](https://zh.wikipedia.org/wiki/火線重案組 "wikilink")》的第一季中小而重要的角色華萊士而獲得了更多的關注。2003年3月，他加入了《我的孩子們》的劇組演出Reggie Montgomery，取代[查德威克·鮑斯曼](https://zh.wikipedia.org/wiki/查德威克·鮑斯曼 "wikilink")，直到2006年6月喬丹被解除合同。喬丹的其他作品包括客串主演《[CSI犯罪現場](../Page/CSI犯罪現場.md "wikilink")》的「Poppin' Tags」一集。2008年，喬丹出現在R＆B藝術家Pleasure P的音樂錄影帶《你錯了》中。2009年，他出演了客串演出在《[火線警告](https://zh.wikipedia.org/wiki/火線警告 "wikilink")》的「Hot Spot」一集中，扮演一名參加爭鬥的高中足球運動員並被當地黑幫追捕。
 
-2009年，喬丹開始主演NBC電視劇“勝利之光”，飾演范斯·霍華。他飾演兩季，直到2011年影集結束。2010年，他在NBC節目“[為人父母](https://zh.wikipedia.org/wiki/為人父母 "wikilink")”中飾演亞歷克斯(Alex)。BuddyTV在“2011年電視最性感男人”名單中排名第80位。喬丹在Xbox 360遊戲“[戰爭機器3](../Page/戰爭機器3.md "wikilink")”中配音傑森·史特拉頓。
+2009年，喬丹開始主演NBC電視劇《勝利之光》，飾演范斯·霍華。他飾演兩季，直到2011年影集結束。2010年，他在NBC節目《[為人父母](https://zh.wikipedia.org/wiki/為人父母 "wikilink")》中飾演亞歷克斯。BuddyTV在“2011年電視最性感男人”名單中排名第80位。喬丹在Xbox 360遊戲《[戰爭機器3](../Page/戰爭機器3.md "wikilink")》中配音傑森·史特拉頓。
 
-2012年，喬丹出現在喬治盧卡斯製作的電影“[紅色尾翼](../Page/紅色尾翼.md "wikilink")” 中，並在“[超能失控](../Page/超能失控.md "wikilink")”中飾演主角史蒂夫·蒙哥馬利，這是一部關於三個青少年男孩發展超能力的電影。他還出演了[怪醫豪斯的最後一季的一集](https://zh.wikipedia.org/wiki/怪醫豪斯 "wikilink")，扮演一個盲人病人Will Westwood。
+2012年，喬丹出現在喬治盧卡斯製作的電影《[紅色尾翼](../Page/紅色尾翼.md "wikilink")》中，並在《[超能失控](../Page/超能失控.md "wikilink")》中飾演主角史蒂夫·蒙哥馬利，這是一部關於三個青少年男孩發展超能力的電影。他還出演了《[怪醫豪斯](https://zh.wikipedia.org/wiki/怪醫豪斯 "wikilink")》的最後一季的一集，扮演一個盲人病人Will Westwood。
 
-**突破（2013年至今）**
+### 突破（2013年至今）
 
-在2013年，喬丹主演由[瑞恩·庫格勒編劇並執導的真實事件](https://zh.wikipedia.org/wiki/瑞恩·庫格勒 "wikilink")“《[奧斯卡的一天](../Page/奧斯卡的一天.md "wikilink")》”中的男主角奧斯卡·格蘭特（Oscar Grant）。他的表現為他贏得了讚譽; 好萊塢報導評論家托德麥卡錫寫道，“一個年輕的丹佐·華盛頓 ”，本片描述著，22歲黑人男子奧斯卡·格蘭特（Oscar Grant）於2009年新年狂歡後，自舊金山返家途中於舊金山灣區捷運列車上與人發生衝突，爾後在福祿維爾車站月台被捷運警察拘留上銬時，遭到其中一名白人警察Johannes Mehserle槍殺（據其發言是誤將手槍當作泰瑟槍使用）。奧斯卡·格蘭特於送醫七小時後過世，因而引起美國社會很大的反響。
+在2013年，喬丹主演由[瑞恩·庫格勒編劇並執導的真實事件](https://zh.wikipedia.org/wiki/瑞恩·庫格勒 "wikilink")《[奧斯卡的一天](../Page/奧斯卡的一天.md "wikilink")》中的男主角奧斯卡·格蘭特（Oscar Grant）。他的表現為他贏得了讚譽; 好萊塢報導評論家托德麥卡錫寫道，“一個年輕的丹佐·華盛頓 ”，本片描述著，22歲黑人男子奧斯卡·格蘭特於2009年新年狂歡後，自舊金山返家途中於舊金山灣區捷運列車上與人發生衝突，爾後在福祿維爾車站月台被捷運警察拘留上銬時，遭到其中一名白人警察Johannes Mehserle槍殺（據其發言是誤將手槍當作泰瑟槍使用）。奧斯卡·格蘭特於送醫七小時後過世，因而引起美國社會很大的反響。
 
-2015年，他出演了“《[驚奇4超人](https://zh.wikipedia.org/wiki/驚奇4超人 "wikilink")》”中的「霹靂火」強尼·史東(「The Human Torch」Johnny Storm) 。影片被評論家普遍批評，在爛番茄持只有9％的支持率，並且票房悽慘。
+2015年，他出演了《[驚奇4超人](https://zh.wikipedia.org/wiki/驚奇4超人 "wikilink")》中的「霹靂火」強尼·史東。影片被評論家普遍批評，在爛番茄持只有9％的支持率，並且票房悽慘。
 
-但是，後來在2015年，他主演“《金牌拳手》”的男主角阿丹尼斯·「唐尼」·強森·克德（Adonis "Donnie" Johnson Creed），並與[席維斯·史特龍](../Page/席維斯·史特龍.md "wikilink")合作演出，喬丹通過一年嚴格的體能訓練和嚴格的低脂飲食，為他在《金牌拳手》 的拳擊手做準備。他在拍攝期間拍攝戰鬥場景時“經常流血，擦傷，頭暈”。
+但是，後來在2015年，他主演《[金牌拳手](../Page/金牌拳手.md "wikilink")》的男主角阿丹尼斯·「唐尼」·強森·克德（Adonis "Donnie" Johnson Creed），並與[席維斯·史特龍](../Page/席維斯·史特龍.md "wikilink")合作演出，喬丹通過一年嚴格的體能訓練和嚴格的低脂飲食，為他在《金牌拳手》 的拳擊手做準備。他在拍攝期間拍攝戰鬥場景時“經常流血，擦傷，頭暈”。
 
-2017年10月，宣布喬丹在即將到來的Netflix超級英雄系列Raising Dion中飾演Mark Reese 。
+2017年10月，宣布喬丹在即將到來的Netflix超級英雄系列《Raising Dion》中飾演Mark Reese 。
 
-2018年二月，喬丹主演“《黑豹》”（Black Panther）的反派「齊爾蒙格」艾瑞克·史蒂文斯(Killmonger / Erik Stevens)，這也是喬丹與導演[瑞恩·庫格勒的第三次合作](https://zh.wikipedia.org/wiki/瑞恩·庫格勒 "wikilink")，喬丹在《黑豹》的表現獲得了好評，喬丹讓「齊爾蒙格」成為了漫威電影中經典迷人的反派角色。
+2018年二月，喬丹主演《黑豹》的反派「齊爾蒙格」艾瑞克·史蒂文斯，這也是喬丹與導演[瑞恩·庫格勒的第三次合作](https://zh.wikipedia.org/wiki/瑞恩·庫格勒 "wikilink")，喬丹在《黑豹》的表現獲得了好評，喬丹讓「齊爾蒙格」成為了漫威電影中經典迷人的反派角色。
 
 在2018年底，喬丹與[麥可·夏儂和](https://zh.wikipedia.org/wiki/麥可·夏儂 "wikilink")[蘇菲亞·波提拉](../Page/蘇菲亞·波提拉.md "wikilink")一起出演電視電影《華氏451度》，而喬丹也將擔任執行製片人的角色，定於2018年5月19日在HBO首播。
 
-同年，喬丹回歸演出“《[金牌拳手：父仇](../Page/金牌拳手：父仇.md "wikilink")》”(Creed II)於2018年11月21日由Metro-Goldwyn-Mayer在美國發行。這部電影得到了評論家的普遍好評，並在開幕週末首次亮相至3530萬美元（五天總計5580萬美元）。他還在Rooster Teeth的動畫系列節目“《情報：鎖定》(Gen：Lock) ”中配音Julian Chase與他的製片公司Outlier Society Productions合作製作的。
-
-計劃中的電影演出
-
-喬丹將在一部名為Just Mercy的傳記片中演出Bryan Stevenson，他同時也是製作，這部電影計劃於2020年1月上映。接下來，他將演出湯姆克蘭西的《虹彩六號》真人電影的男主角約翰克拉克。這部電影將於2020年9月18日上映。
+同年，喬丹回歸演出《[金牌拳手：父仇](../Page/金牌拳手：父仇.md "wikilink")》於2018年11月21日由Metro-Goldwyn-Mayer在美國發行。這部電影得到了評論家的普遍好評，並在開幕週末首次亮相至3530萬美元（五天總計5580萬美元）。他還在Rooster Teeth的動畫系列節目《情報：鎖定》中配音Julian Chase與他的製片公司Outlier Society Productions合作製作的。
 
 ## 個人生活
 
@@ -135,6 +131,12 @@
 <td><p><a href="../Page/金牌拳手：父仇.md" title="wikilink">金牌拳手：父仇</a></p></td>
 <td><p>阿多尼斯·克里德</p></td>
 <td></td>
+</tr>
+<tr class="odd">
+<td><p>2019</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/不完美的正義" title="wikilink">不完美的正義</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/布萊恩·史蒂文森" title="wikilink">布萊恩·史蒂文森</a></p></td>
+<td><p>兼監製</p></td>
 </tr>
 </tbody>
 </table>

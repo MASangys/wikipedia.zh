@@ -18,7 +18,7 @@
 
 2016年2月，Chen為電視劇《[太陽的後裔](../Page/太陽的後裔.md "wikilink")》演唱OST《Everytime》\[5\]。4月，Chen與[Heize合唱由柳宰賢擔任製作人的](https://zh.wikipedia.org/wiki/Heize "wikilink")《Lil' Something》。《Lil' Something》是[SM STATION企劃中的第九首歌曲](../Page/SM_STATION.md "wikilink")，歌曲自公開後人氣火爆，橫掃Melon、Box、alleh Music、Genie、Mnet五大音樂榜榜首，還在Naver Music、音海、Monkey3等榜當中榮獲第二、三名\[6\]。5月，Chen與成員[Xiumin](../Page/Xiumin.md "wikilink")一起出演網絡綜藝《沒有經紀人的旅行》。該節目是以沒有經紀人的情況下展開旅行為概念，嘉賓將進行只有他們的旅行\[7\]。7月6日，Chen與成員[Suho](../Page/Suho.md "wikilink")共同為中國電影《[美好的意外](../Page/美好的意外.md "wikilink")》獻唱的同名主題曲《美好的意外》公開完整版MV，兩人在錄音室熱唱的情景與電影情節穿插相扣，愉悅悠揚的旋律和貼近劇情的歌詞相得益彰\[8\]。8月，Chen與[伯賢](../Page/伯賢.md "wikilink")、[Xiumin](../Page/Xiumin.md "wikilink")共同為電視劇《[月之戀人－步步驚心：麗](../Page/月之戀人－步步驚心：麗.md "wikilink")》獻唱OST《For You》。《For You》在各大音源榜佔據了上游位置。截至8月25日上午9點，這首歌獲得了Mnet第二名、Olleh Music第二名、Genie Music第二名、NAVER第二名、Bugs第二名、Melon第四名等等\[9\]。10月，Chen與成員Xiumin、伯賢組成[EXO](../Page/EXO.md "wikilink")第一個子團[EXO-CBX](../Page/EXO-CBX.md "wikilink")並發行首張迷你專輯《[Hey Mama\!](https://zh.wikipedia.org/wiki/Hey_Mama! "wikilink")》。
 
-2019年3月8日，SM娛樂證實Chen即將于4月推出Solo專輯，成爲EXO裏繼[Lay后的另一個Solo成員](https://zh.wikipedia.org/wiki/Lay "wikilink")。\[10\]。4月1日，Chen推出首張Solo專輯《April, and a flower》，MV於4月1日零時公開，所有音源於當天下午六時發行。專輯不僅拿下 33 國的 iTunes 綜合專輯榜冠軍，主打歌也襲捲了國內音源網站、中國的 QQ 音樂、酷狗音樂等的即時榜首。此外，專輯在 Synarra Record、HOTTRACKS等韓國各大唱片行的銷量榜上均拿下了單週第一名\[11\]。6月，Chen為JTBC劇集《[輔佐官–改變世界的人們](../Page/輔佐官–改變世界的人們.md "wikilink")》演唱OST《Rainfall》\[12\]。8月29日，SM娛樂宣佈Chen將於10月攜第二張solo專輯回歸歌壇\[13\]。
+2019年3月8日，SM娛樂證實Chen即將于4月推出Solo專輯，成爲EXO裏繼[Lay后的另一個Solo成員](https://zh.wikipedia.org/wiki/Lay "wikilink")。\[10\]。4月1日，Chen推出首張Solo專輯《April, and a flower》，MV於4月1日零時公開，所有音源於當天下午六時發行。專輯不僅拿下 33 國的 iTunes 綜合專輯榜冠軍，主打歌也襲捲了國內音源網站、中國的 QQ 音樂、酷狗音樂等的即時榜首。此外，專輯在 Synarra Record、HOTTRACKS等韓國各大唱片行的銷量榜上均拿下了單週第一名\[11\]。6月，Chen為JTBC劇集《[輔佐官–改變世界的人們](../Page/輔佐官–改變世界的人們.md "wikilink")》演唱OST《Rainfall》\[12\]。8月29日，SM娛樂宣佈Chen將於10月攜第二張solo專輯回歸歌壇\[13\]。9月11日，SM娛樂宣佈Chen將於10月1日携第二張迷你專輯《致親愛的你（Dear My Dear）》回歸秋季歌謠界\[14\]。
 
 ## 音樂作品
 
@@ -37,7 +37,16 @@
 <ul>
 <li>發行日期：2019年4月1日</li>
 <li>語言：韓語</li>
-<li>專輯銷量:210,189+[14]</li>
+<li>專輯銷量：210,189+[15]</li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2nd</p></td>
+<td><p>《<strong>致親愛的你（Dear My Dear）</strong>》</p>
+<ul>
+<li>發行日期：2019年10月1日</li>
+<li>語言：韓語</li>
 </ul></td>
 <td></td>
 </tr>
@@ -124,7 +133,7 @@
 </tr>
 <tr class="odd">
 <td><p>2018年10月16日</p></td>
-<td><p>《<a href="../Page/百日的郎君.md" title="wikilink">百日的郎君</a>》[15]</p></td>
+<td><p>《<a href="../Page/百日的郎君.md" title="wikilink">百日的郎君</a>》[16]</p></td>
 <td><p>櫻花戀歌（Cherry Blossom Love Song）</p></td>
 <td></td>
 </tr>
@@ -417,7 +426,7 @@
 <td><p>4月10日</p></td>
 <td><p>MBC</p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/黃金漁場_Radio_Star" title="wikilink">黃金漁場 Radio Star</a>》</p></td>
-<td><p>[16]</p></td>
+<td><p>[17]</p></td>
 </tr>
 <tr class="odd">
 <td><p>4月13日</p></td>
@@ -477,10 +486,10 @@
 | --------- | ------- | --------------------------------------------------------------------------------------------------------------- |
 | 期數        | 雜誌名稱    | 備注                                                                                                              |
 | 2014年9月刊  | Nylon   |                                                                                                                 |
-| 2015年8月刊  | star1   | 與[Baekhyun](../Page/伯賢.md "wikilink")、Suho\[17\]                                                                |
-| 2015年12月刊 | Vogue   | 與[Suho](../Page/Suho.md "wikilink")、[Kai](../Page/Kai.md "wikilink")、[Sehun](../Page/Sehun.md "wikilink")\[18\] |
-| 2016年10月刊 | Vivi    | 日本雜誌\[19\]                                                                                                      |
-| 2017年3月刊  | Singles | 封面\[20\]                                                                                                        |
+| 2015年8月刊  | star1   | 與[Baekhyun](../Page/伯賢.md "wikilink")、Suho\[18\]                                                                |
+| 2015年12月刊 | Vogue   | 與[Suho](../Page/Suho.md "wikilink")、[Kai](../Page/Kai.md "wikilink")、[Sehun](../Page/Sehun.md "wikilink")\[19\] |
+| 2016年10月刊 | Vivi    | 日本雜誌\[20\]                                                                                                      |
+| 2017年3月刊  | Singles | 封面\[21\]                                                                                                        |
 | 2019年6月刊  | Star1   | 封面                                                                                                              |
 
 ## 其他演出
@@ -557,7 +566,7 @@
 <td><p>Annual Soompi Awards</p></td>
 <td><p>最佳OST</p></td>
 <td><p>《For You》</p></td>
-<td><p>[21]</p></td>
+<td><p>[22]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -576,7 +585,7 @@
 </tr>
 <tr class="even">
 <td><p>2019年</p></td>
-<td><p><a href="../Page/M2_X_Genie音樂獎.md" title="wikilink">M2 X Genie音樂獎</a>[22]</p></td>
+<td><p><a href="../Page/M2_X_Genie音樂獎.md" title="wikilink">M2 X Genie音樂獎</a>[23]</p></td>
 <td><p>最佳男藝人獎</p></td>
 <td><p>Chen</p></td>
 <td></td>
@@ -602,7 +611,7 @@
 <tr class="even">
 <td><p>2016</p></td>
 <td><ul>
-<li>K-Pop一百張最帥面孔 第63名[23]</li>
+<li>K-Pop一百張最帥面孔 第63名[24]</li>
 </ul></td>
 </tr>
 </tbody>
@@ -735,9 +744,9 @@
 
 13.
 
-14. [2019.04](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=04&hitYear=2019&termGbn=month)
+14.
 
-15.
+15. [2019.04](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=04&hitYear=2019&termGbn=month)
 
 16.
 
@@ -754,3 +763,5 @@
 22.
 
 23.
+
+24.

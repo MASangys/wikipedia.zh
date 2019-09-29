@@ -94,7 +94,7 @@
 <th><p>作品</p></th>
 <th><p>最高集數</p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/AC尼爾森" title="wikilink">AGB</a><br />
-全國最高</p></th>
+全國平均</p></th>
 <th><p>收視排名</p></th>
 <th><p>日期</p></th>
 <th><p>檔期</p></th>
@@ -184,12 +184,12 @@
 </tr>
 <tr class="even">
 <td><p>10</p></td>
-<td><p><a href="../Page/38師機動隊.md" title="wikilink">38師機動隊</a></p></td>
+<td><p><a href="../Page/臨時制先生.md" title="wikilink">臨時制先生</a></p></td>
 <td><p>16</p></td>
-<td><p>4.559%</p></td>
+<td><p>4.781%</p></td>
 <td></td>
-<td><p>2016/08/06</p></td>
-<td><p>金土</p></td>
+<td><p>2019/09/05</p></td>
+<td><p>水木</p></td>
 </tr>
 <tr class="odd">
 <td></td>

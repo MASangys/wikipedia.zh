@@ -9,7 +9,7 @@
   - 主持人
       - 第一季：阿吉，另每集伙拍一位SNH48成員任主持
       - 第二季：[陆婷](https://zh.wikipedia.org/wiki/陆婷 "wikilink")、翔哥
-  - 固定出演者：[SNH48](https://zh.wikipedia.org/wiki/SNH48 "wikilink") Group成员
+  - 固定出演者：[SNH48](../Page/SNH48.md "wikilink") Group成员
 
 ## 播出日期、企划
 

@@ -24,8 +24,8 @@
 、
 [翰林演藝藝術高等學校](../Page/翰林演藝藝術高等學校.md "wikilink") 演藝科 |rowspan=2|🍓
 草莓 |rowspan=2|兔 |rowspan=2|副唱
-領舞
- |- |崔有鎭  |- |rowspan=2|丞延 |rowspan=2| |rowspan=2|Seung Yeon |張丞延  |rowspan=2| |rowspan=2|Chang Seung Yeon |rowspan=2|
+副領舞
+门面 |- |崔有鎭  |- |rowspan=2|丞延 |rowspan=2| |rowspan=2|Seung Yeon |張丞延  |rowspan=2| |rowspan=2|Chang Seung Yeon |rowspan=2|
 [京畿道](../Page/京畿道.md "wikilink")[城南市](../Page/城南市.md "wikilink") |rowspan=2|、
 [首爾公演藝術高等學校](https://zh.wikipedia.org/wiki/首爾公演藝術高等學校 "wikilink") |rowspan=2|🍊
 香橙 |rowspan=2|猴 |rowspan=2|隊長
@@ -45,7 +45,7 @@
 主Rapper
  |- |[Elkie](../Page/莊錠欣.md "wikilink") | |Elkie |莊錠欣 \[18\] | |Chong Ting Yan | [新界](../Page/新界.md "wikilink")[大埔區](../Page/大埔區.md "wikilink") |大埔崇德黃建常紀念學校
 [迦密柏雨中學](../Page/迦密柏雨中學.md "wikilink")（肄業） |🍒
-櫻桃 |鹿 |領唱 |- |恩彬 | |Eun Bin |權恩彬 \[19\] | |Kwon Eun Bin |
+櫻桃 |鹿 |領唱 领舞 形象 |- |恩彬 | |Eun Bin |權恩彬 \[19\] | |Kwon Eun Bin |
 [首爾特別市](https://zh.wikipedia.org/wiki/首爾特別市 "wikilink") |、
 、
 、
@@ -56,7 +56,7 @@
 
 ### 成員變動
 
-<timeline> ImageSize = width:650 height:350 PlotArea = width:500 height:300 left:125 bottom:35 Alignbars = justify DateFormat = mm/dd/yyyy Period = from:2015 till:2018 TimeAxis = orientation:horizontal format:mm/yyyy
+<timeline> ImageSize = width:650 height:350 PlotArea = width:500 height:300 left:125 bottom:35 Alignbars = justify DateFormat = mm/dd/yyyy Period = from:2015 till:2019 TimeAxis = orientation:horizontal format:mm/yyyy
 
 Colors =
 
@@ -131,37 +131,59 @@ PlotData =
 
 ### 2015年
 
-**出道迷你專輯《First Love》、特別單曲《Eighteen》、迷你二輯《Question》** [CLC_in_Ttukseom_Hangang_Park,_3_June_2015_02.jpg](https://zh.wikipedia.org/wiki/File:CLC_in_Ttukseom_Hangang_Park,_3_June_2015_02.jpg "fig:CLC_in_Ttukseom_Hangang_Park,_3_June_2015_02.jpg")表演\]\] 3月9日，出道預告宣布3月19日出道\[31\]。 3月18日，出道公演\[32\] ，《First Love》主打曲《Pepe》和收錄曲《初戀》，3月19日，[Mnet](../Page/Mnet媒體.md "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》正式出道。4月16日，特別單曲《Eighteen》。\[33\] 5月28日，第二張迷你專輯《Question》，主打歌《Like》 MV。\[34\]
+**出道迷你專輯《First Love》、特別單曲《Eighteen》、迷你二輯《Question》** [CLC_in_Ttukseom_Hangang_Park,_3_June_2015_02.jpg](https://zh.wikipedia.org/wiki/File:CLC_in_Ttukseom_Hangang_Park,_3_June_2015_02.jpg "fig:CLC_in_Ttukseom_Hangang_Park,_3_June_2015_02.jpg")表演\]\] 3月9日，出道預告宣布3月19日出道\[31\]。3月18日，出道公演\[32\]，《First Love》主打曲《Pepe》和收錄曲《初戀》。3月19日，[Mnet](../Page/Mnet媒體.md "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》正式出道。4月16日，特別單曲《Eighteen》。\[33\]
+
+5月28日，第二張迷你專輯《Question》，主打歌《Like》 MV。\[34\]
 
 ### 2016年
 
-**新成員加入、迷你三輯《REFRESH》、隊長變更、日本一輯《High Heels》、迷你四輯《NU.CLEAR》、日本二輯《Chamisma》** [160903_CLC_Asia_Music_Stage.jpg](https://zh.wikipedia.org/wiki/File:160903_CLC_Asia_Music_Stage.jpg "fig:160903_CLC_Asia_Music_Stage.jpg") 2月15日，網絡劇《Choco Bank》原聲帶《撲通撲通LOVE》。 2月24日，於2月29日以第三張迷你專輯《Refresh》回歸，加入兩位新成員\[35\]。 2月25日，第一位新成員Elkie\[36\] \[37\]\[38\]。 2月26日，第二位新成員恩彬\[39\]。
+**新成員加入、迷你三輯《REFRESH》、隊長變更、日本一輯《High Heels》、迷你四輯《NU.CLEAR》、日本二輯《Chamisma》** [160903_CLC_Asia_Music_Stage.jpg](https://zh.wikipedia.org/wiki/File:160903_CLC_Asia_Music_Stage.jpg "fig:160903_CLC_Asia_Music_Stage.jpg") 2月15日，網絡劇《Choco Bank》原聲帶《撲通撲通LOVE》。
 
-3月3日，Mnet《M\! Countdown》正式回歸。由於恩彬參加選秀節目《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》，暫不參與活動。\[40\] 3月4日，於電台節目表示承姬卸任隊長，改由丞延擔任。3月6日，承姬及丞延於官方Fan Cafe確認。\[41\] 4月13日，首張日本迷你專輯《High Heels》出道\[42\]。 4月17日，日本First Step Showcase。\[43\]
+2月24日，於2月29日以第三張迷你專輯《Refresh》回歸，加入兩位新成員\[35\]。2月25日，第一位新成員Elkie\[36\]\[37\]\[38\]。2月26日，第二位新成員恩彬\[39\]。
 
-5月，恩彬完成《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》，開始參與團體行程，檸檬為代表水果。 \[44\] 5月30日，迷你4輯《NU.CLEAR》，以[新沙洞老虎](../Page/新沙洞老虎.md "wikilink")作品回歸\[45\]，主打歌《아니야 (No oh oh)》MV。\[46\] 6月18日，恩彬因健康問題暫停活動。\[47\] 6月22日，恩彬治療好轉繼續行程。\[48\] 7月27日，第二張日本迷你專輯《Chamisma》，也是首張日本原創專輯\[49\]，得到公信榜單日排名第9位。\[50\]
+3月3日，Mnet《M\! Countdown》正式回歸。由於恩彬參加選秀節目《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》，暫不參與活動。\[40\] 3月4日，於電台節目表示承姬卸任隊長，改由丞延擔任。3月6日，承姬及丞延於官方Fan Cafe確認。\[41\]
+
+4月13日，首張日本迷你專輯《High Heels》出道。\[42\]4月17日，日本First Step Showcase。\[43\]
+
+5月，恩彬完成《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》，開始參與團體行程，檸檬為代表水果。\[44\] 5月30日，迷你4輯《NU.CLEAR》，以[新沙洞老虎](../Page/新沙洞老虎.md "wikilink")作品回歸\[45\]，主打歌《아니야 (No oh oh)》MV。\[46\]
+
+6月18日，恩彬因健康問題暫停活動。\[47\]6月22日，恩彬治療好轉繼續行程。\[48\]
+
+7月27日，第二張日本迷你專輯《Chamisma》，也是首張日本原創專輯，\[49\]得到公信榜單日排名第9位。\[50\]
 
 ### 2017年
 
 **迷你五輯《CRYSTYLE》、迷你六輯《FREE'SM》**
 
-1月17日，迷你五輯《CRYSTYLE》。\[51\]\[52\]主打歌《鬼怪（Hobgoblin）》MV獲得[Gaon榜之社交媒體榜](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink")2017年第三週冠軍。\[53\]　此外《CRYSTYLE》和其主打歌《Hobgoblin》登上世界专辑榜（World Albums Charts）第六名，同星期在美国Billboard获世界电子歌曲销售量第四名（World Digital Songs Sales）。\[54\] 8月3日，迷你六輯《FREE'SM》，主打歌《在哪裡》。\[55\] 12月13日，正式開設官方Instagram，此前為假冒帳號。\[56\]
+1月17日，迷你五輯《CRYSTYLE》。\[51\]\[52\]主打歌《鬼怪（Hobgoblin）》MV獲得[Gaon榜之社交媒體榜](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink")2017年第三週冠軍。\[53\]此外《CRYSTYLE》和其主打歌《鬼怪（Hobgoblin）》登上世界專輯榜（World Albums Charts）第六名，同星期在美國Billboard獲世界電子歌曲銷售量第四名（World Digital Songs Sales）。\[54\] 8月3日，迷你六輯《FREE'SM》，主打歌《在哪裡》。\[55\]
+
+12月13日，正式開設官方Instagram，此前為假冒帳號。\[56\]
 
 ### 2018年
 
-**單曲《To The Sky》、迷你七輯《Black Dress》、Elkie Solo 《I dream》**
+**第二張特別單曲《To The Sky》、迷你七輯《Black Dress》、Elkie SoLo 《I Dream》**
 
-2月1日，數位單曲《To The Sky》發行。2月22日，迷你七輯《Black Dress》回歸。\[57\] 3月10日，参与师兄[BTOB](../Page/BTOB.md "wikilink")的[郑镒勋的首张迷你专辑](../Page/鄭鎰勳.md "wikilink")《[Big Wave](../Page/Big_Wave_\(專輯\).md "wikilink")》回归舞台。4月3日，公開收录曲《Distance》MV。 5月22日，睿恩成为[SBS MTV电视台音乐节目](https://zh.wikipedia.org/wiki/SBS_MTV "wikilink")《[The Show](https://zh.wikipedia.org/wiki/The_Show "wikilink")》固定主持人。 11月23日，Elkie首張Solo單曲 《I dream》發行。\[58\] 12月，Billboard's The 20 Best K-pop Songs of 2018，《Black Dress》排名14位。 \[59\]
+2月1日，數位單曲《To The Sky》發行。2月22日，迷你七輯《Black Dress》回歸。\[57\]
+
+3月10日，參與師兄[BTOB](../Page/BTOB.md "wikilink")的[鄭鎰勳](../Page/鄭鎰勳.md "wikilink")的首張迷你專輯《[Big Wave](../Page/Big_Wave_\(專輯\).md "wikilink")》回歸舞台。4月3日，公開收錄曲《Distance》MV。
+
+5月22日，睿恩成為[SBS MTV電視台音樂節目](https://zh.wikipedia.org/wiki/SBS_MTV "wikilink")《[The Show](https://zh.wikipedia.org/wiki/The_Show "wikilink")》固定主持人。
+
+11月23日，Elkie首張Solo單曲 《I dream》發行。\[58\]
+
+12月，Billboard's The 20 Best K-pop Songs of 2018，《Black Dress》排名14位。\[59\]
 
 ### 2019年
 
 **迷你八輯《No.1》、初一位、數位單曲《ME》、第二張數位單曲《Devil》**
 
-1月30日，迷你八輯《[No.1](https://zh.wikipedia.org/wiki/No.1 "wikilink")》回歸。2月7日，CLC首次進入M countdown一位候補。\[60\]。2月9日，迷你八輯《[No.1](https://zh.wikipedia.org/wiki/No.1 "wikilink")》其主打歌《No》登上Billboard's World Albums Chart第五位，
+1月30日，迷你八輯《[No.1](https://zh.wikipedia.org/wiki/No.1 "wikilink")》回歸。2月7日，CLC首次進入M countdown一位候補。\[60\]。2月9日，迷你八輯《[No.1](https://zh.wikipedia.org/wiki/No.1 "wikilink")》其主打歌《No》登上Billboard's World Albums Chart第五位。
 
-2月12日，CLC於 SBS MTV 的《[THE SHOW](https://zh.wikipedia.org/wiki/THE_SHOW "wikilink")》中，拿下自出道1427天以來的初一位\[61\]\[62\]，為目前獲得一位所花時間最多的女團。 2月13日，宣傳期間首度登上《[Show Champion](../Page/Show_Champion.md "wikilink")》的一位候補。 2月19日，CLC再度於 SBS MTV 的《[THE SHOW](https://zh.wikipedia.org/wiki/THE_SHOW "wikilink")》獲得第二個一位。
+2月12日，CLC於 SBS MTV 的《[THE SHOW](https://zh.wikipedia.org/wiki/THE_SHOW "wikilink")》中，拿下自出道1427天以來的初一位\[61\]\[62\]，為目前獲得一位所花時間最多的女團。2月13日，宣傳期間首度登上《[Show Champion](../Page/Show_Champion.md "wikilink")》的一位候補。2月19日，CLC再度於 SBS MTV 的《[THE SHOW](https://zh.wikipedia.org/wiki/THE_SHOW "wikilink")》獲得第二個一位。
 
-5月29日，時隔4個月以《[ME](../Page/Me_\(CLC單曲\).md "wikilink")》回歸，並於韓國時間下午六時公開《ME》MV、音源，在Bugs的排行榜拿下實時7位和Soribada排行榜的93位。 8月28日，於官方Instagram透露將於9月6日以第二張數位單曲《Devil》回歸。
+5月29日，時隔4個月以《[ME](../Page/Me_\(CLC單曲\).md "wikilink")》回歸，並於韓國時間下午六時公開《ME》MV、音源，在Bugs的排行榜拿下實時7位和Soribada排行榜的93位。
+
+8月28日，於官方Instagram透露將於9月6日以第二張數位單曲《[Devil](https://zh.wikipedia.org/wiki/Devil_\(CLC單曲\) "wikilink")》回歸。9月6日，韓國時間下午六時公開MV及音源，在Bugs排行榜拿下實時6位，Soribada排行榜實時84位。9月14日，於Billboard Social 50榜獲得第47位。
 
 ## 音樂作品
 
@@ -462,6 +484,7 @@ Berjaya Times Square KL, LG Concourse</p></td>
 | 8月22日        | 2019 SORIBADA BEST K-MUSIC AWARDS                | 首爾奧林匹克公園                                    |                                                                     |
 | 8月25日        | 2019 K-ASIAN FESTIVAL in INCHEON                 | 韓國仁川                                        |                                                                     |
 | 8月31日        | K-CONTENT EXPO RUSSIA 2019                       | 俄羅斯莫斯科                                      |                                                                     |
+| 9月22日        | K CRUSH 2019                                     | 泰國曼谷                                        |                                                                     |
 
 ## 獎項
 

@@ -23,8 +23,8 @@ BG集團曾在[倫敦證券交易所上市](https://zh.wikipedia.org/wiki/倫敦
 
 [Category:1997年成立的公司](https://zh.wikipedia.org/wiki/Category:1997年成立的公司 "wikilink") [Category:英國能源公司](https://zh.wikipedia.org/wiki/Category:英國能源公司 "wikilink") [Category:總部位於雷丁的公司](https://zh.wikipedia.org/wiki/Category:總部位於雷丁的公司 "wikilink") [Category:总部在英国的跨国公司](https://zh.wikipedia.org/wiki/Category:总部在英国的跨国公司 "wikilink") [Category:倫敦證券交易所已除牌公司](https://zh.wikipedia.org/wiki/Category:倫敦證券交易所已除牌公司 "wikilink") [Category:2016年併購](https://zh.wikipedia.org/wiki/Category:2016年併購 "wikilink")
 
-1.  "[General contacts](http://www.bg-group.com/ContactUs/Pages/pgContactUs.aspx)." BG Group. Retrieved on 5 November 2010. "Address: BG Group plc Thames Valley Park, Reading, Berkshire, RG6 1PT United Kingdom"
-2.  "[Directions to BG Reading](http://www.bg-group.com/ContactUs/Pages/pgDirectionstoBGReading.aspx)." BG Group. Retrieved on 5 November 2010. [PDF Map](http://www.bg-group.com/ContactUs/Documents/BG_Map_TVP_May09.pdf).
+1.  "[General contacts](http://www.bg-group.com/ContactUs/Pages/pgContactUs.aspx) ." BG Group. Retrieved on 5 November 2010. "Address: BG Group plc Thames Valley Park, Reading, Berkshire, RG6 1PT United Kingdom"
+2.  "[Directions to BG Reading](http://www.bg-group.com/ContactUs/Pages/pgDirectionstoBGReading.aspx) ." BG Group. Retrieved on 5 November 2010. [PDF Map](http://www.bg-group.com/ContactUs/Documents/BG_Map_TVP_May09.pdf) .
 3.
 4.
 5.

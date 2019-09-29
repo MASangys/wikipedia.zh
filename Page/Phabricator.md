@@ -8,7 +8,7 @@ Phabricator的部分用户有：\[8\]
 
   - [Blender](../Page/Blender.md "wikilink")\[9\]
   - [Bloomberg](https://zh.wikipedia.org/wiki/Bloomberg_L.P. "wikilink")
-  - [DeviantArt](https://zh.wikipedia.org/wiki/DeviantArt "wikilink")
+  - [DeviantArt](../Page/DeviantArt.md "wikilink")
   - [Dropbox](../Page/Dropbox.md "wikilink")
   - [Enlightenment](../Page/Enlightenment.md "wikilink")窗口管理器
   - [Facebook](../Page/Facebook.md "wikilink")\[10\]

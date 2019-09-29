@@ -161,8 +161,9 @@ NGT48的營運者、以及大部分成員所屬的經紀公司為[AKS](../Page/A
 <td><p>1期</p></td>
 <td><p>AKS</p></td>
 <td><p>-</p></td>
-<td><p>預定畢業[61]</p></td>
-<td><p>-</p></td>
+<td><p>預定於2019年9月30日畢業<br />
+2019年9月29日畢業公演[61]<ref>{{Cite web|url=<a href="https://ngt48.jp/news/detail/100003464%7Cscript-title=ja:NGT48">https://ngt48.jp/news/detail/100003464|script-title=ja:NGT48</a> 佐藤杏樹の最終活動日に関しまして|work=NGT48 Offcial site|publisher=AKS</p></td>
+<td><p>accessdate=2019-09-05}}</ref></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/清司麗菜" title="wikilink">清司麗菜</a></p></td>

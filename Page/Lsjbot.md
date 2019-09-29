@@ -18,7 +18,7 @@ Lsjbot的另一项工作是在瑞典语维基百科创建与[菲律宾有关的�
 
 ## 参考
 
-[Category:维基百科](https://zh.wikipedia.org/wiki/Category:维基百科 "wikilink") [Category:网络软件](https://zh.wikipedia.org/wiki/Category:网络软件 "wikilink") [Category:瑞典互聯網](https://zh.wikipedia.org/wiki/Category:瑞典互聯網 "wikilink")
+[Category:维基百科](https://zh.wikipedia.org/wiki/Category:维基百科 "wikilink") [Category:网络机器人](https://zh.wikipedia.org/wiki/Category:网络机器人 "wikilink") [Category:瑞典互聯網](https://zh.wikipedia.org/wiki/Category:瑞典互聯網 "wikilink")
 
 1.
 2.

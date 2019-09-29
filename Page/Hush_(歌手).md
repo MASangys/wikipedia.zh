@@ -1,4 +1,4 @@
-**Hush**（1985年1月15日－），本名**陳家偉**，是臺灣男歌手與詞曲作家，曾是[Hush\!](../Page/Hush!.md "wikilink") 樂團的主唱。Hush在大學攻讀[哲學系](../Page/哲學系.md "wikilink")，對[星象](../Page/星座.md "wikilink")、[塔羅等充滿神祕事物也感興趣](https://zh.wikipedia.org/wiki/塔羅 "wikilink")，因此在他的詞曲創作中經常以哲學角度為出發點詮釋生命與愛情\[1\]。Hush曾為[張惠妹](../Page/張惠妹.md "wikilink")、[孫燕姿](https://zh.wikipedia.org/wiki/孫燕姿 "wikilink")、[A-Lin](../Page/A-Lin.md "wikilink")、[徐佳瑩](../Page/徐佳瑩.md "wikilink")、[丁噹](../Page/丁噹.md "wikilink")、[林宥嘉](../Page/林宥嘉.md "wikilink")等歌手創作，因合作的歌手過多而被稱為「集郵天王」\[2\]。
+**Hush**（），本名**陳家偉**，是臺灣男歌手與詞曲作家，曾是[Hush\!](../Page/Hush!.md "wikilink") 樂團的主唱。Hush在大學攻讀[哲學系](../Page/哲學系.md "wikilink")，對[星象](../Page/星座.md "wikilink")、[塔羅等充滿神祕事物也感興趣](https://zh.wikipedia.org/wiki/塔羅 "wikilink")，因此在他的詞曲創作中經常以哲學角度為出發點詮釋生命與愛情\[1\]。Hush曾為[張惠妹](../Page/張惠妹.md "wikilink")、[孫燕姿](https://zh.wikipedia.org/wiki/孫燕姿 "wikilink")、[A-Lin](../Page/A-Lin.md "wikilink")、[徐佳瑩](../Page/徐佳瑩.md "wikilink")、[丁噹](../Page/丁噹.md "wikilink")、[林宥嘉](../Page/林宥嘉.md "wikilink")等歌手創作，因合作的歌手過多而被稱為「集郵天王」\[2\]。
 
 ## 生平
 
@@ -367,6 +367,14 @@ HUSH在2017年12月23日在五月天[人生無限公司巡迴演唱會](../Page/
 <td><p><a href="../Page/林宥嘉.md" title="wikilink">林宥嘉</a></p></td>
 </tr>
 <tr class="odd">
+<td><p>易碎的吻</p></td>
+<td></td>
+<td></td>
+<td><p>『<a href="https://zh.wikipedia.org/wiki/源" title="wikilink">源</a>』</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/王源" title="wikilink">王源</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -461,7 +469,7 @@ HUSH在2017年12月23日在五月天[人生無限公司巡迴演唱會](../Page/
   -
   - [相知音樂](https://www.facebook.com/betweenint/)
 
-[Category:1985年出生](https://zh.wikipedia.org/wiki/Category:1985年出生 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:陳姓](https://zh.wikipedia.org/wiki/Category:陳姓 "wikilink") [Category:屏東人](https://zh.wikipedia.org/wiki/Category:屏東人 "wikilink") [Category:台灣作曲家](https://zh.wikipedia.org/wiki/Category:台灣作曲家 "wikilink") [Category:台灣作詞家](https://zh.wikipedia.org/wiki/Category:台灣作詞家 "wikilink")
+[Category:陳姓](https://zh.wikipedia.org/wiki/Category:陳姓 "wikilink") [Category:屏東人](https://zh.wikipedia.org/wiki/Category:屏東人 "wikilink") [Category:台灣作曲家](https://zh.wikipedia.org/wiki/Category:台灣作曲家 "wikilink") [Category:台灣作詞家](https://zh.wikipedia.org/wiki/Category:台灣作詞家 "wikilink")
 
 [Category:台灣華語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:台灣華語流行音樂歌手 "wikilink") [Category:華語流行音樂創作歌手](https://zh.wikipedia.org/wiki/Category:華語流行音樂創作歌手 "wikilink") [Category:台灣創作歌手](https://zh.wikipedia.org/wiki/Category:台灣創作歌手 "wikilink") [Category:台灣男歌手](https://zh.wikipedia.org/wiki/Category:台灣男歌手 "wikilink") [Category:LGBT歌手](https://zh.wikipedia.org/wiki/Category:LGBT歌手 "wikilink") [Category:台灣LGBT音樂家](https://zh.wikipedia.org/wiki/Category:台灣LGBT音樂家 "wikilink") [Category:台灣男同性戀者](https://zh.wikipedia.org/wiki/Category:台灣男同性戀者 "wikilink")
 

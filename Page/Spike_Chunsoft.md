@@ -315,6 +315,13 @@ Xbox One<br />
 Windows</p></td>
 <td><p>由萬代南夢宮娛樂發行</p></td>
 </tr>
+<tr class="even">
+<td><p>AI: The Somnium Files</p></td>
+<td></td>
+<td></td>
+<td><p>PlayStation 4</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

@@ -130,6 +130,7 @@
 | 2019              | 1月21日 - 4月6日                                                   | [愛奇藝](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink")                | [青春有你](../Page/青春有你.md "wikilink")                              | 全輯／青春製作人代表                                       |            |
 | 5月12日 - 8月4日      | 東方衛視                                                           | [極限挑戰第五季](https://zh.wikipedia.org/wiki/極限挑戰 "wikilink")           |                                                                 |                                                  |            |
 | 6月21日 -           | KBS2                                                           | [加油吧曼蘇爾](../Page/加油吧曼蘇爾.md "wikilink")                             | Kai                                                             |                                                  |            |
+| 9月12日 -           | JTBC                                                           | 怪癖的五兄弟                                                             | Baekhyun                                                        | 試播                                               |            |
 
 ## 綜藝節目
 
@@ -925,6 +926,9 @@
 </tr>
 <tr class="odd">
 <td><p>8月2日</p></td>
+</tr>
+<tr class="even">
+<td><p>9月12日</p></td>
 </tr>
 </tbody>
 </table>

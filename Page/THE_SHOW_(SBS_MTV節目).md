@@ -8,7 +8,7 @@
 <th><p>頻道</p></th>
 <th><p>所在地</p></th>
 <th><p>播映日期</p></th>
-<th><p>播出時間</p></th>
+<th><p>播出時間（<a href="https://zh.wikipedia.org/wiki/UTC+9" title="wikilink">UTC+9</a>）</p></th>
 </tr>
 </thead>
 <tbody>
@@ -57,9 +57,9 @@
 | 2015年10月13日－12月8日      | 芝妍、周覓                                                                                                                                       |                                                       |                                                                        |
 | 第5季                    | 2016年2月2日－8月2日                                                                                                                              | [睿隣](https://zh.wikipedia.org/wiki/鄭睿隣 "wikilink")、周覓 |                                                                        |
 | 2016年8月9日－9月6日         | 睿隣                                                                                                                                          |                                                       |                                                                        |
-| 2016年10月11日－2017年4月25日 | [昭彌](https://zh.wikipedia.org/wiki/全昭彌 "wikilink")、[宇信](../Page/UP10TION.md "wikilink")\[8\]                                                |                                                       |                                                                        |
+| 2016年10月11日－2017年4月25日 | [昭彌](https://zh.wikipedia.org/wiki/全昭彌 "wikilink")、[宇碩](../Page/金宇碩.md "wikilink")\[8\]                                                     |                                                       |                                                                        |
 | 2017年5月16日－8月29日       | | [正花](../Page/正花.md "wikilink")、[P.O](../Page/P.O.md "wikilink")、[妍雨](../Page/MOMOLAND.md "wikilink")                                      |                                                       |                                                                        |
-| 2017年10月17日－2018年5月8日  | | [永才](https://zh.wikipedia.org/wiki/永才 "wikilink")、[珠伊](../Page/MOMOLAND.md "wikilink")、[浩賢](../Page/TRCNG.md "wikilink")                  |                                                       |                                                                        |
+| 2017年10月17日－2018年5月8日  | | [永才](https://zh.wikipedia.org/wiki/永才 "wikilink")、[珠伊](../Page/JooE.md "wikilink")、[浩賢](../Page/TRCNG.md "wikilink")                      |                                                       |                                                                        |
 | 2018年5月22日－2018年10月23日 | | [張睿恩](https://zh.wikipedia.org/wiki/張睿恩 "wikilink")、[Jeno](../Page/NCT.md "wikilink")、[金龍國](https://zh.wikipedia.org/wiki/金龍國 "wikilink") |                                                       |                                                                        |
 | 2018年10月30日－至今         | | [張睿恩](https://zh.wikipedia.org/wiki/張睿恩 "wikilink")、[Jeno](../Page/NCT.md "wikilink")                                                     |                                                       |                                                                        |
 
@@ -120,6 +120,7 @@
 | 2019年8月20日           | [崔秉燦](https://zh.wikipedia.org/wiki/崔秉燦 "wikilink")                                                                                                                       |                                                                                                                            |                                      |
 | 2019年8月27日           | [賢在](https://zh.wikipedia.org/wiki/THE_BOYZ "wikilink")、[張大賢](../Page/張大賢.md "wikilink")                                                                                  |                                                                                                                            |                                      |
 | 2019年9月3日            | [辰樂](https://zh.wikipedia.org/wiki/辰樂 "wikilink")、[產賀](https://zh.wikipedia.org/wiki/產賀 "wikilink")、[宋有彬](https://zh.wikipedia.org/wiki/宋有彬 "wikilink")                   |                                                                                                                            |                                      |
+| 2019年9月10日           | 宇碩                                                                                                                                                                        |                                                                                                                            |                                      |
 
 ## 評定基準
 
@@ -855,6 +856,16 @@
   - 08.20 - [NCT Dream](https://zh.wikipedia.org/wiki/NCT_Dream "wikilink")<sup>5th</sup> - Boom<sup>2nd</sup> \[8,020分\]
   - 08.27 - [Red Velvet](../Page/Red_Velvet.md "wikilink")<sup>8th</sup> - Umpah Umpah<sup>1st</sup> \[7,980分\]
 
+<!-- end list -->
+
+  - 九月
+
+<!-- end list -->
+
+  - 09.03 - [X1](../Page/X1.md "wikilink")<sup>1st</sup> - Flash<sup>1st</sup>＜浦項特輯＞
+  - 09.10 - [X1](../Page/X1.md "wikilink")<sup>2nd</sup> - Flash<sup>2nd</sup> \[9,500分\]
+  - 09.17 - 停播
+
 ## 藝人成就
 
 ### 獲獎最多的歌手
@@ -899,6 +910,7 @@
 | [Highlight](../Page/Highlight_\(韓國組合\).md "wikilink")             | 2017                                                              |     |      |
 | [金聖圭](../Page/金聖圭.md "wikilink")                                  | 2012                                                              |     |      |
 | [CLC](../Page/CLC.md "wikilink")                                  | 2015                                                              |     |      |
+| [X1](../Page/X1.md "wikilink")                                    | 2019                                                              |     |      |
 |                                                                   |                                                                   |     |      |
 
 ### 獲得最高分數的歌曲
@@ -919,6 +931,7 @@
 | [SHINee](../Page/SHINee.md "wikilink")                          | Good Evening                                                    | 2018/06/05              |        |            |
 | 7th                                                             | [NCT Dream](https://zh.wikipedia.org/wiki/NCT_Dream "wikilink") | Boom                    | 9,600  | 2019/08/06 |
 | 8th                                                             | [MAMAMOO](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")     | Egotistic               | 9,500  | 2018/07/24 |
+| [X1](../Page/X1.md "wikilink")                                  | Flash                                                           | 2019/09/10              |        |            |
 | 9th                                                             | [MONSTA X](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")   | Alligator               | 9,480  | 2019/02/26 |
 | 10th                                                            | [VIXX LR](../Page/VIXX_LR.md "wikilink")                        | Beautiful Liar          | 9,464  | 2015/09/21 |
 

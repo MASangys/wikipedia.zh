@@ -268,7 +268,7 @@
 <tr class="odd">
 <td><p><a href="../Page/魔術學姐.md" title="wikilink">魔術學姐</a></p></td>
 <td></td>
-<td><p>7月－<strong>播出中</strong></p></td>
+<td><p>7月－9月</p></td>
 <td><p>臼井文明</p></td>
 <td></td>
 <td></td>
@@ -284,6 +284,15 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="../Page/天華百劍-斬-.md" title="wikilink">天華百劍 ～歡迎來到明治館！～</a></p></td>
+<td></td>
+<td><p>橋本大輔</p></td>
+<td><p>遊戲</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>2020年</p></td>
 <td><p>啄木鳥偵探處</p></td>
 <td></td>

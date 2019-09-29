@@ -40,11 +40,11 @@ AI于2006年发售的第一张单曲〈Believe〉同样是一张[叙事单曲](h
 
 2013年4月1日，日本环球音乐将日本EMI吸收合并且加以统合，将其改为日本环球音乐旗下厂牌“EMI Records Japan”\[46\]。而AI也由此成为了该唱片公司旗下的“EMI Records Japan”的艺人。同年7月，AI的第10张专辑《MORIAGARO》正式发售\[47\]，该专辑在2013年7月29日公布的Oricon周榜中排名第5\[48\]。2014年10月，单曲〈Story〉的英语版正式发行，该曲是电影《[超能陆战队](https://zh.wikipedia.org/wiki/超能陆战队 "wikilink")》日本版的片尾曲\[49\]。
 
-2014年1月至2015年上半年，AI由于结婚以及怀孕暂停了音乐活动。2015年8月底，她产下一女后，宣布重返乐坛。\[50\]11月25日，她发布了重返乐坛后的第一张专辑《THE BEST》\[51\]。2016年1月，AI发布了仅限[数位音乐下载的单曲](https://zh.wikipedia.org/wiki/数位音乐下载 "wikilink")〈[每个人都是英雄](../Page/每个人都是英雄.md "wikilink")〉\[52\]，引起热烈反响，截止同年4月1日共收获大约40万次下载次数，之后该单曲收录于同年5月4日发售的精选辑《THE BEST》的DELUXE EDITION版中\[53\]。同年12月31日，AI参演了[第67届红白歌会](https://zh.wikipedia.org/wiki/第67回NHK红白歌合战 "wikilink")，这是她时隔11年再度在红白歌会中亮相，而她在歌会中演唱的正是〈每个人都是英雄〉\[54\]。
+2014年1月至2015年上半年，AI由于结婚以及怀孕暂停了音乐活动。2015年8月底，她产下一女后，宣布重返乐坛。\[50\]11月25日，她发布了重返乐坛后的第一张专辑《THE BEST》\[51\]。2016年1月，AI发布了仅限[数位音乐下载的单曲](https://zh.wikipedia.org/wiki/数位音乐下载 "wikilink")〈[每个人都是英雄](../Page/每个人都是英雄.md "wikilink")〉\[52\]，引起热烈反响，截止同年4月1日共收获大约40万次下载次数，之后该单曲收录于同年5月4日发售的精选辑《THE BEST》的DELUXE EDITION版中\[53\]。同年12月31日，AI参演了[第67届红白歌会](https://zh.wikipedia.org/wiki/第67回NHK红白歌合战 "wikilink")，这是她时隔11年再度在红白歌会中亮相，而她在歌会中演唱的正是〈每个人都是英雄〉\[54\]。一年后，她再度参演[红白歌会](https://zh.wikipedia.org/wiki/第68回NHK红白歌合战 "wikilink")，与[渡边直美共同演唱](https://zh.wikipedia.org/wiki/渡边直美 "wikilink")〈闪闪发光〉（）\[55\]。
 
 ## 个人生活
 
-2013年3月6日，AI宣布将在年内和乐队的主唱HIRO结婚，此前他们已经交往了10年\[55\]。2014年1月6日，两人正式结婚\[56\]。2015年4月1日，AI在其社交媒体上表示自己已经怀有5个月身孕\[57\]。同年8月28日，她产下一名女婴\[58\]。
+2013年3月6日，AI宣布将在年内和乐队的主唱HIRO结婚，此前他们已经交往了10年\[56\]。2014年1月6日，两人正式结婚\[57\]。2015年4月1日，AI在其社交媒体上表示自己已经怀有5个月身孕\[58\]。同年8月28日，她产下一名女婴\[59\]。2018年7月24日，她宣布自己已怀上第二胎\[60\]，同年年底，她产下一名男婴\[61\]。
 
 ## 作品
 
@@ -58,7 +58,7 @@ AI于2006年发售的第一张单曲〈Believe〉同样是一张[叙事单曲](h
 <th><p>名称</p></th>
 <th><p>規格</p></th>
 <th><p>规格品号</p></th>
-<th><p>最高位[59]</p></th>
+<th><p>最高位[62]</p></th>
 </tr>
 </thead>
 <tbody>
@@ -381,7 +381,8 @@ au「三太郎系列」<a href="../Page/廣告.md" title="wikilink">廣告</a>�
 <tr class="odd">
 <td><p>2017年8月1日</p></td>
 <td><p><strong>キラキラ feat. カンナ</strong></p></td>
-<td><p>电视剧《<a href="../Page/神奈小姐.md" title="wikilink">神奈小姐</a>》主题歌 与该剧主演<a href="../Page/渡邊直美.md" title="wikilink">渡边直美共同演唱</a></p></td>
+<td><p>电视剧《<a href="../Page/神奈小姐.md" title="wikilink">神奈小姐</a>》主题歌<br />
+与该剧主演<a href="../Page/渡邊直美.md" title="wikilink">渡边直美共同演唱</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -766,7 +767,8 @@ TYXT-10008</p></td>
 <td><p><strong>AI THE BEST TOUR</strong></p></td>
 <td><p>DVD<br />
 Blu-ray</p></td>
-<td><p>UPXH-20055 UPBH-20188/9</p></td>
+<td><p>UPXH-20055<br />
+UPBH-20188/9</p></td>
 <td><p>4位</p></td>
 </tr>
 </tbody>
@@ -797,7 +799,7 @@ Blu-ray</p></td>
 <tr class="even">
 <td><p>2016年/<a href="../Page/第67回NHK紅白歌合戰.md" title="wikilink">第67回</a></p></td>
 <td><p>2</p></td>
-<td></td>
+<td><p><a href="../Page/每个人都是英雄.md" title="wikilink">每个人都是英雄</a></p></td>
 <td><p>15/23</p></td>
 <td><p><a href="../Page/桐谷健太.md" title="wikilink">桐谷健太</a></p></td>
 <td></td>
@@ -937,3 +939,9 @@ Blu-ray</p></td>
 58.
 
 59.
+
+60.
+
+61.
+
+62.
