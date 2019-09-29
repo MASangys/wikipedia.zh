@@ -36,14 +36,14 @@ Julia拥有[垃圾回收机制](../Page/垃圾回收_\(計算機科學\).md "wik
 ``` julia
 function mandel(z)
     c = z
-    maxiter = 80
-    for n = 1:maxiter
+    max = 80
+    for n = 1:max
         if abs(z) > 2
             return n-1
         end
         z = z^2 + c
     end
-    return maxiter
+    return max
 end
 ```
 

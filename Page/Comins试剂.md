@@ -10,7 +10,7 @@
 
   - [Comins' Reagent at PubChem](http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?sid=24865208&viewopt=Deposited)
 
-[Category:有机化学试剂](https://zh.wikipedia.org/wiki/Category:有机化学试剂 "wikilink")
+[Category:有机化学试剂](https://zh.wikipedia.org/wiki/Category:有机化学试剂 "wikilink") [Category:三氟甲基化合物](https://zh.wikipedia.org/wiki/Category:三氟甲基化合物 "wikilink") [Category:有机氯化合物](https://zh.wikipedia.org/wiki/Category:有机氯化合物 "wikilink") [Category:叔胺](https://zh.wikipedia.org/wiki/Category:叔胺 "wikilink") [Category:1990年代发现的物质](https://zh.wikipedia.org/wiki/Category:1990年代发现的物质 "wikilink")
 
 1.
 2.

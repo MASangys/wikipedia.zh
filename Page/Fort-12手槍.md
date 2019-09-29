@@ -54,8 +54,8 @@ Fort-12唯一比較顯眼的缺陷就是缺乏一個安全的退彈系統。
   - [QSZ-92](../Page/92式手槍.md "wikilink")
   - [馬卡洛夫手槍](../Page/馬卡洛夫手槍.md "wikilink")
   - [扎斯塔瓦CZ 99半自動手槍](../Page/扎斯塔瓦CZ_99半自動手槍.md "wikilink")
-  - [WIST-94手槍](../Page/WIST-94手槍.md "wikilink")
-  - [MAG-95手槍](../Page/MAG-95手槍.md "wikilink")
+  - [WIST-94半自動手槍](https://zh.wikipedia.org/wiki/WIST-94半自動手槍 "wikilink")
+  - [MAG-95半自動手槍](https://zh.wikipedia.org/wiki/MAG-95半自動手槍 "wikilink")
 
 ## 參考文獻
 

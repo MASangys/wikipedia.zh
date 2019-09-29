@@ -2,7 +2,7 @@
 
 ## 简介
 
-为了应对[复八线的开通](https://zh.wikipedia.org/wiki/北京地铁复八线 "wikilink")，北京地铁于1996年开始订购DKZ4型电动客车。(DKZ4型电动车组由DK28、DK29、DK30、DK31组成)DKZ4型一共186辆，于1998年生产，其中有114辆（编号S401-S419）在[长春轨道客车生产](https://zh.wikipedia.org/wiki/長春軌道客車股份有限公司 "wikilink")，72辆（编号S420-S431）在[北京地铁车辆厂生产](https://zh.wikipedia.org/wiki/北京地铁车辆厂 "wikilink")，已于1999年开始运行于[复八线](https://zh.wikipedia.org/wiki/北京地铁复八线 "wikilink")，后在2000年全程运行于[1号线](../Page/北京地铁1号线.md "wikilink")，本系列列车为北京地铁的第1款[VVVF控制的列车](https://zh.wikipedia.org/wiki/VVVF "wikilink")。目前，列车配属于[四惠车辆段和](https://zh.wikipedia.org/wiki/四惠车辆段 "wikilink")[古城车辆段](https://zh.wikipedia.org/wiki/古城车辆段 "wikilink")。
+为了应对[复八线的开通](https://zh.wikipedia.org/wiki/北京地铁复八线 "wikilink")，北京地铁于1996年开始订购DKZ4型电动客车。(DKZ4型电动车组由DK28、DK29、DK30、DK31组成)DKZ4型一共186辆，于1998年生产，其中有114辆（编号S401-S419）在[长春轨道客车生产](https://zh.wikipedia.org/wiki/長春軌道客車股份有限公司 "wikilink")，72辆（编号S420-S431）在[北京地铁车辆厂生产](https://zh.wikipedia.org/wiki/北京地铁车辆厂 "wikilink")，已于1999年开始运行于[复八线](https://zh.wikipedia.org/wiki/北京地铁复八线 "wikilink")，后在2000年全程运行于[1号线](../Page/北京地铁1号线.md "wikilink")，本系列列车为北京地铁的第1款[VVVF控制的列车](https://zh.wikipedia.org/wiki/VVVF "wikilink")。目前，列车配属于[四惠车辆段和](https://zh.wikipedia.org/wiki/四惠车辆段 "wikilink")[古城车辆段](../Page/古城车辆段.md "wikilink")。
 
 ## 列车内部
 

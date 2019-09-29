@@ -436,7 +436,7 @@ Mali显示芯片组改进自Falanx公司研发生产的显示技术芯片组，�
 <td></td>
 <td></td>
 <td></td>
-<td><p>Kirin980、Exynos 9820、Helio G90</p></td>
+<td><p>Kirin 980、Kirin 990、Exynos 9820、Helio G90</p></td>
 <td></td>
 <td></td>
 </tr>

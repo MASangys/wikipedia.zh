@@ -2,11 +2,11 @@
 
 ## 简介
 
-[G115_at_Xidan.JPG](https://zh.wikipedia.org/wiki/File:G115_at_Xidan.JPG "fig:G115_at_Xidan.JPG")（2010年）\]\] BD2型一共72辆，于1994年生产，在[1号线运营](../Page/北京地铁1号线.md "wikilink")，每节车厢共4对车门，为[内藏门](https://zh.wikipedia.org/wiki/内藏门 "wikilink")，列车两端拥有[紧急出口](https://zh.wikipedia.org/wiki/紧急出口 "wikilink")。早期外部为白色涂装，后经过在[北京地铁车辆厂的翻新之后](https://zh.wikipedia.org/wiki/北京地铁车辆厂 "wikilink")，列车变为银灰色涂装，并加装了LED显示屏。部分列车曾作为[9号线的冷滑试验用车](../Page/北京地铁9号线.md "wikilink")，列车在退出运营前，配属于[古城车辆段](https://zh.wikipedia.org/wiki/古城车辆段 "wikilink")。
+[G115_at_Xidan.JPG](https://zh.wikipedia.org/wiki/File:G115_at_Xidan.JPG "fig:G115_at_Xidan.JPG")（2010年）\]\] BD2型一共72辆，于1994年生产，在[1号线运营](../Page/北京地铁1号线.md "wikilink")，每节车厢共4对车门，为[内藏门](https://zh.wikipedia.org/wiki/内藏门 "wikilink")，列车两端拥有[紧急出口](https://zh.wikipedia.org/wiki/紧急出口 "wikilink")。早期外部为白色涂装，后经过在[北京地铁车辆厂的翻新之后](https://zh.wikipedia.org/wiki/北京地铁车辆厂 "wikilink")，列车变为银灰色涂装，并加装了LED显示屏。部分列车曾作为[9号线的冷滑试验用车](../Page/北京地铁9号线.md "wikilink")，列车在退出运营前，配属于[古城车辆段](../Page/古城车辆段.md "wikilink")。
 
 ## 列车停用
 
-2012年4月12日上午10时25分，最后一列编号为G124的BD2型列车缓缓驶入[古城车辆段](https://zh.wikipedia.org/wiki/古城车辆段 "wikilink")，标志着BD2型与[DK20型列车一同正式退出了运营](../Page/北京地铁DK20型电动车组.md "wikilink")，至此北京地铁正在运营的列车全部为空调车\[1\]。部分列车则被送至广州和长春的地铁技校作为教学工具使用，其他部分列车则作为[14号线的冷滑试验用车](../Page/北京地铁14号线.md "wikilink")。
+2012年4月12日上午10时25分，最后一列编号为G124的BD2型列车缓缓驶入[古城车辆段](../Page/古城车辆段.md "wikilink")，标志着BD2型与[DK20型列车一同正式退出了运营](../Page/北京地铁DK20型电动车组.md "wikilink")，至此北京地铁正在运营的列车全部为空调车\[1\]。部分列车则被送至广州和长春的地铁技校作为教学工具使用，其他部分列车则作为[14号线的冷滑试验用车](../Page/北京地铁14号线.md "wikilink")。
 
 ## 编组
 
