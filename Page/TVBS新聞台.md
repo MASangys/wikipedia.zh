@@ -78,7 +78,7 @@ TVBS新聞部位於TVBS「[內湖大樓](../Page/TVBS企業總部.md "wikilink")
 | :-------------------------------------------------: |
 |          [夏嘉璐](../Page/夏嘉璐.md "wikilink")           |
 |          [吳安琪](../Page/吳安琪.md "wikilink")           |
-| [張靖玲](https://zh.wikipedia.org/wiki/張靖玲 "wikilink") |
+|          [黃斐瑜](../Page/黃斐瑜.md "wikilink")           |
 | [蔡孟樺](https://zh.wikipedia.org/wiki/蔡孟樺 "wikilink") |
 
 ### 氣象主播
@@ -110,11 +110,11 @@ TVBS新聞部位於TVBS「[內湖大樓](../Page/TVBS企業總部.md "wikilink")
 | [畢倩涵](https://zh.wikipedia.org/wiki/畢倩涵 "wikilink") |
 |        \-{[藍于洺](../Page/藍于洺.md "wikilink")}-        |
 | [呂蓓君](https://zh.wikipedia.org/wiki/呂蓓君 "wikilink") |
-| [韋家齊](https://zh.wikipedia.org/wiki/韋家齊 "wikilink") |
+|                                                     |
 
 ## 前任TVBS新聞部人員
 
-  - [李四端](../Page/李四端.md "wikilink")（現職[東森新聞台](../Page/東森新聞台.md "wikilink")《李四端的雲端世界》節目主持人）及MOMOTV董事長
+  - [李四端](../Page/李四端.md "wikilink")（現職[東森新聞台](../Page/東森新聞台.md "wikilink")《李四端的雲端世界》節目主持人、MOMOTV董事長）
   - [何啟聖](../Page/何啟聖.md "wikilink")（現職1111人力銀行副總）
   - [王浩](../Page/王浩_\(台灣主播\).md "wikilink")（現任[台北市議員](https://zh.wikipedia.org/wiki/台北市議員 "wikilink")）
   - [姚崑崙](https://zh.wikipedia.org/wiki/姚崑崙 "wikilink")（曾任[中天新聞台](../Page/中天新聞台.md "wikilink")主播，現任LV中山旗艦店經理）
@@ -128,20 +128,20 @@ TVBS新聞部位於TVBS「[內湖大樓](../Page/TVBS企業總部.md "wikilink")
   - [李金萬](https://zh.wikipedia.org/wiki/李金萬 "wikilink")（氣象預報擔任）
   - [謝維權](../Page/謝維權.md "wikilink")（氣象預報擔任）
   - [李御榮](https://zh.wikipedia.org/wiki/李御榮 "wikilink")（曾任[年代新聞](https://zh.wikipedia.org/wiki/年代新聞 "wikilink")、[中天新聞台](../Page/中天新聞台.md "wikilink")主播，現任職於[中國信託文教基金會](https://zh.wikipedia.org/wiki/中國信託 "wikilink")）
-  - [岑永康](../Page/岑永康.md "wikilink")（曾任[壹電視新聞台](../Page/壹電視新聞台.md "wikilink")當家主播，現任[寰宇新聞](https://zh.wikipedia.org/wiki/寰宇新聞 "wikilink")《寰宇全視界》主持人）
-  - [蕭子新](../Page/蕭子新.md "wikilink")（現職[年代電視新聞部及](https://zh.wikipedia.org/wiki/年代電視 "wikilink")[壹電視](../Page/壹電視.md "wikilink")新聞部國際中心主任&[壹電視](../Page/壹電視.md "wikilink")[無碼的世界](../Page/無碼的世界.md "wikilink")主持人。)
+  - [岑永康](../Page/岑永康.md "wikilink")（曾任[壹電視新聞台](../Page/壹電視新聞台.md "wikilink")當家主播，現任[寰宇新聞台](../Page/寰宇新聞台.md "wikilink")《寰宇全視界》主持人）
+  - [蕭子新](../Page/蕭子新.md "wikilink")（現職[年代電視新聞部及](https://zh.wikipedia.org/wiki/年代電視 "wikilink")[壹電視](../Page/壹電視.md "wikilink")新聞部國際中心主任、《[無碼的世界](../Page/無碼的世界.md "wikilink")》主持人。)
   - [薩文](https://zh.wikipedia.org/wiki/薩文 "wikilink")（前[鳳凰衛視主播](https://zh.wikipedia.org/wiki/鳳凰衛視 "wikilink")）
   - [李登文](https://zh.wikipedia.org/wiki/李登文 "wikilink")（現職[華視新聞](../Page/華視新聞.md "wikilink")國際中心）
-  - [許甫](../Page/許甫.md "wikilink")（現[中天新聞台](../Page/中天新聞台.md "wikilink")主播）
+  - [許甫](../Page/許甫.md "wikilink")（現[中天新聞台](../Page/中天新聞台.md "wikilink")主播、《[大政治大爆卦](../Page/大政治大爆卦.md "wikilink")》主持人）
   - 邱顯辰（現任[大愛電視](../Page/大愛電視.md "wikilink")《全球視野》主持人）
   - [王博麟](https://zh.wikipedia.org/wiki/王博麟 "wikilink")（現[FOX體育台](../Page/FOX體育台.md "wikilink")主播）
   - 蔡祐吉（現任亞泥公關經理）
 
 <!-- end list -->
 
-  - [張雅琴](../Page/張雅琴.md "wikilink")（現任[1800年代晚報主播](https://zh.wikipedia.org/wiki/1800年代晚報-挑戰新聞 "wikilink")）
-  - [陳雅琳](../Page/陳雅琳.md "wikilink")（現任[壹電視新聞台](../Page/壹電視新聞台.md "wikilink")總編輯、10點上新聞主播、新聞深呼吸主持人）
-  - [黃寶慧](https://zh.wikipedia.org/wiki/黃寶慧 "wikilink")（現任[ETtoday新聞雲](../Page/ETtoday新聞雲.md "wikilink")慧眼看天下 節目主持人)
+  - [張雅琴](../Page/張雅琴.md "wikilink")（現任《[1800年代晚報](https://zh.wikipedia.org/wiki/1800年代晚報-挑戰新聞 "wikilink")》主播）
+  - [陳雅琳](../Page/陳雅琳.md "wikilink")（現任[壹電視新聞台](../Page/壹電視新聞台.md "wikilink")總編輯、《10點上新聞》主播、《新聞深呼吸》主持人）
+  - [黃寶慧](https://zh.wikipedia.org/wiki/黃寶慧 "wikilink")（現任[ETtoday新聞雲](../Page/ETtoday新聞雲.md "wikilink")《慧眼看天下》節目主持人）
   - [趙薇](../Page/趙薇_\(台灣主播\).md "wikilink")（2001年擔任[年代MUCH台](../Page/年代MUCH台.md "wikilink")《[台灣人在大陸](https://zh.wikipedia.org/wiki/台灣人在大陸 "wikilink")》節目主持人）
   - [鍾佩玲](../Page/鍾佩玲.md "wikilink")（現任台北市議員）
   - [張婯嬅](../Page/張婯嬅.md "wikilink")（現任[壹電視](../Page/壹電視.md "wikilink")主播）
@@ -150,8 +150,8 @@ TVBS新聞部位於TVBS「[內湖大樓](../Page/TVBS企業總部.md "wikilink")
   - [黃凱聖](https://zh.wikipedia.org/wiki/黃凱聖 "wikilink")
   - [王雅麗](https://zh.wikipedia.org/wiki/王雅麗 "wikilink")
   - [張恆芝](https://zh.wikipedia.org/wiki/張恆芝 "wikilink")
-  - [李晶玉](../Page/李晶玉.md "wikilink")（現任網路節目[政經關不了](../Page/政經關不了.md "wikilink")主持人)
-  - [王淑麗](../Page/王淑麗.md "wikilink")（現任[東森新聞台](../Page/東森新聞台.md "wikilink")當家氣象主播）
+  - [李晶玉](../Page/李晶玉.md "wikilink")（現任網路節目《[政經關不了](../Page/政經關不了.md "wikilink")》主持人）
+  - [王淑麗](../Page/王淑麗.md "wikilink")（現任[東森新聞台](../Page/東森新聞台.md "wikilink")氣象主播）
   - [王薇](../Page/王薇_\(台灣主播\).md "wikilink")（前[華視](https://zh.wikipedia.org/wiki/華視 "wikilink")、[三立](https://zh.wikipedia.org/wiki/三立 "wikilink")、[東森主播](https://zh.wikipedia.org/wiki/東森 "wikilink")）
   - [蔡郁潔](https://zh.wikipedia.org/wiki/蔡郁潔 "wikilink")（前華視、東森主播）
   - [蔡郁璇](../Page/蔡郁璇.md "wikilink")（前華視、東森主播）
@@ -160,10 +160,10 @@ TVBS新聞部位於TVBS「[內湖大樓](../Page/TVBS企業總部.md "wikilink")
   - [王怡仁](../Page/王怡仁.md "wikilink")（曾轉任[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")）
   - [潘彥妃](https://zh.wikipedia.org/wiki/潘彥妃 "wikilink")（在台北街頭賣咖啡）
   - [丁靜怡](../Page/丁靜怡.md "wikilink")（曾任[鴻海集團公共關係室主任](https://zh.wikipedia.org/wiki/鴻海集團 "wikilink")）
-  - [葉宸安](https://zh.wikipedia.org/wiki/葉宸安 "wikilink")（2007年6月29日離職赴英進修後已退出新聞界）
+  - [葉宸安](https://zh.wikipedia.org/wiki/葉宸安 "wikilink")（2007年6月29日離職赴英進修，後已退出新聞界）
   - [黃逸卿](../Page/黃逸卿.md "wikilink")（現為茶飲品牌總監）
   - [洪麗萍](../Page/洪麗萍.md "wikilink")（現為[東森購物](../Page/東森購物.md "wikilink")的[購物專家](https://zh.wikipedia.org/wiki/購物專家 "wikilink")）
-  - [邱沁宜](../Page/邱沁宜.md "wikilink")（現專職東風衛視《單身行不行》主持人)
+  - [邱沁宜](../Page/邱沁宜.md "wikilink")（現專職東風衛視《單身行不行》主持人）
   - [王之梅](https://zh.wikipedia.org/wiki/王之梅 "wikilink")
   - [洪玟琴](https://zh.wikipedia.org/wiki/洪玟琴 "wikilink")
   - [黃靜雪](https://zh.wikipedia.org/wiki/黃靜雪 "wikilink")
@@ -173,20 +173,20 @@ TVBS新聞部位於TVBS「[內湖大樓](../Page/TVBS企業總部.md "wikilink")
   - [蔣家宜](https://zh.wikipedia.org/wiki/蔣家宜 "wikilink")
   - [張珮珊](../Page/張珮珊.md "wikilink")（前[三立新聞台](../Page/三立新聞台.md "wikilink")《新聞54珊》主播）
   - [拉娃谷幸](https://zh.wikipedia.org/wiki/拉娃谷幸 "wikilink")（曾任財團法人原住民族文化事業基金會執行長）
-  - [顧名儀](https://zh.wikipedia.org/wiki/顧名儀 "wikilink")（前[年代新聞台](../Page/年代新聞台.md "wikilink")主播，[中天新聞](https://zh.wikipedia.org/wiki/中天新聞 "wikilink")《選戰暴風眼》主持人）
+  - [顧名儀](https://zh.wikipedia.org/wiki/顧名儀 "wikilink")（前[年代新聞台](../Page/年代新聞台.md "wikilink")主播、[中天新聞台](../Page/中天新聞台.md "wikilink")《選戰暴風眼》主持人）
   - [李文儀](../Page/李文儀.md "wikilink")（現任[三立新聞台](../Page/三立新聞台.md "wikilink")《[新聞深一度](https://zh.wikipedia.org/wiki/新聞深一度 "wikilink")》主播、《[我們一家人](https://zh.wikipedia.org/wiki/我們一家人 "wikilink")》主持人）
   - [詹慶齡](../Page/詹慶齡.md "wikilink")（曾任[ETtoday新聞雲](../Page/ETtoday新聞雲.md "wikilink")《[史瑪特過生活](https://zh.wikipedia.org/wiki/史瑪特過生活 "wikilink")》節目主持人）
-  - [廖盈婷](../Page/廖盈婷.md "wikilink")（現任Super Snow Show 網路節目主持人兼製作人)
+  - [廖盈婷](../Page/廖盈婷.md "wikilink")（現任Super Snow Show 網路節目主持人兼製作人）
   - [簡懿佳](../Page/簡懿佳.md "wikilink")
   - [谷庭](https://zh.wikipedia.org/wiki/谷庭 "wikilink")
   - [林秉儀](https://zh.wikipedia.org/wiki/林秉儀 "wikilink")
   - [張愛晶](https://zh.wikipedia.org/wiki/張愛晶 "wikilink")
   - [鍾沛君](../Page/鍾沛君.md "wikilink")（現任台北市議員）
   - [林婉婷](https://zh.wikipedia.org/wiki/林婉婷 "wikilink")
-  - [華舜嘉](https://zh.wikipedia.org/wiki/華舜嘉 "wikilink")(現為[三立新聞台](../Page/三立新聞台.md "wikilink")記者)
+  - [華舜嘉](https://zh.wikipedia.org/wiki/華舜嘉 "wikilink")（現為[三立新聞台](../Page/三立新聞台.md "wikilink")記者）
   - [廖芳潔](https://zh.wikipedia.org/wiki/廖芳潔 "wikilink")（現任[三立新聞台](../Page/三立新聞台.md "wikilink")《[台灣大頭條](../Page/台灣大頭條.md "wikilink")》主播）
-  - [許儷齡](https://zh.wikipedia.org/wiki/許儷齡 "wikilink")(現任[客家電視台](../Page/客家電視台.md "wikilink")主播)
-  - [曾奕慈](https://zh.wikipedia.org/wiki/曾奕慈 "wikilink")(現為[三立新闻台记者](https://zh.wikipedia.org/wiki/三立新闻台 "wikilink"))
+  - [許儷齡](https://zh.wikipedia.org/wiki/許儷齡 "wikilink")（現任[客家電視台](../Page/客家電視台.md "wikilink")主播）
+  - [曾奕慈](https://zh.wikipedia.org/wiki/曾奕慈 "wikilink")（現為[三立新闻台记者](https://zh.wikipedia.org/wiki/三立新闻台 "wikilink")）
 
 ## 爭議
 

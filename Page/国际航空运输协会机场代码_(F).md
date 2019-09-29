@@ -687,7 +687,7 @@
 <td><p>FLA</p></td>
 <td><p>SKFL</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/弗洛倫西亞" title="wikilink">弗洛倫西亞</a>，<a href="https://zh.wikipedia.org/wiki/卡克塔省" title="wikilink">卡克塔省</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/弗洛倫西亞" title="wikilink">弗洛倫西亞</a>，<a href="../Page/卡克塔省.md" title="wikilink">卡克塔省</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1352,7 +1352,7 @@
 <td><p>FST</p></td>
 <td><p>KFST</p></td>
 <td></td>
-<td><p>，<a href="https://zh.wikipedia.org/wiki/德克薩斯州" title="wikilink">德克薩斯州</a></p></td>
+<td><p><a href="../Page/斯托克頓堡_(德克薩斯州).md" title="wikilink">斯托克頓堡</a>，<a href="https://zh.wikipedia.org/wiki/德克薩斯州" title="wikilink">德克薩斯州</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

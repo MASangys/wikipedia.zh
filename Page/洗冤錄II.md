@@ -83,7 +83,7 @@
 何淑蘭之夫<br />
 阮玉珠、阮玉寶之父<br />
 王秀嫻之前夫<br />
-關萬福之岳父</p></td>
+宋慈、關萬福之岳父</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/陳嘉儀.md" title="wikilink">陳嘉儀</a></p></td>
@@ -91,6 +91,8 @@
 <td><p><strong>珠媽</strong><br />
 王記紙紮舖老闆娘<br />
 阮丞昌前妻<br />
+阮玉珠之母<br />
+宋慈之岳母<br />
 於第18集因紙紮舖大火吸入濃煙身亡</p></td>
 </tr>
 <tr class="even">

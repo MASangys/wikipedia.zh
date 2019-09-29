@@ -650,7 +650,7 @@
 
   - [薩爾達傳說 大地汽笛](../Page/薩爾達傳說_大地汽笛.md "wikilink")（2009年）
 
-  - [星際火狐64 3D](https://zh.wikipedia.org/wiki/星際火狐64 "wikilink")（2011年）
+  - [星際火狐64 3D](../Page/星際火狐64_3D.md "wikilink")（2011年）
 
   - [最終幻想 零式](../Page/最終幻想_零式.md "wikilink")（2011年）
 

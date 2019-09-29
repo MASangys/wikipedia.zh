@@ -16,10 +16,10 @@
   - 通过[7-Zip](../Page/7-Zip.md "wikilink")支持压缩文件
   - 支持插件功能
   - 通过DLL支持本地化界面
-
-缺点
-
-  - 不支持手动对齐文本
+  - 支持手动对齐文本 (Syncronization points\]\[1\])
+  - 可將比較畫面結果產生HTML報告(Create HTML reports from file compare)
+  - 支援三方比較(3-Way Compare)
+  - 支援圖片比較(Image compare), 資料夾比較(Folder compare) 檔案比較(File compare)
 
 ## 外部链接
 
@@ -27,3 +27,5 @@
   - [SourceForge](../Page/SourceForge.md "wikilink")上的[WinMerge 项目页面](http://sourceforge.net/projects/winmerge/)
 
 [Category:SourceForge专案](https://zh.wikipedia.org/wiki/Category:SourceForge专案 "wikilink") [Category:檔案比較工具](https://zh.wikipedia.org/wiki/Category:檔案比較工具 "wikilink")
+
+1.  [Syncronization points](https://winmerge.org/docs/releasenotes.php?lang=en)

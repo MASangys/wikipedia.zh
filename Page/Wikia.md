@@ -43,6 +43,7 @@ Wikia 亦會對提出撤出 Wikia 的用戶進行報復，通常會以撤銷其�
   - [wikkii](https://zh.wikipedia.org/wiki/wikkii "wikilink")
   - [editthis.info](https://zh.wikipedia.org/wiki/editthis.info "wikilink")
   - [WikiHoster](https://zh.wikipedia.org/wiki/WikiHoster "wikilink")
+  - [網路百科 (Fandom)](https://zh.wikipedia.org/wiki/網路百科_\(Fandom\) "wikilink")
 
 ## 参考文献
 

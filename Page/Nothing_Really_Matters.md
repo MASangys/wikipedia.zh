@@ -2,7 +2,7 @@
 
 ## 專輯簡介
 
-此乃陳奕迅於[華星唱片時期的最後一張錄音室專輯](https://zh.wikipedia.org/wiki/華星唱片 "wikilink")，因推出大碟後不久便轉簽[英皇娛樂](../Page/英皇娛樂.md "wikilink")，這專輯並沒有獲得足夠宣傳。然而陳奕迅在這專輯嘗試了多種曲風，例如《Made In Hong Kong》的重型[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")、《美麗有罪》的[Techno Music等](https://zh.wikipedia.org/wiki/鐵克諾 "wikilink")，均為Eason 首次嘗試的曲風。另外，這專輯亦收錄了Eason 一首廣為人知的歌曲《黑夜不再來》，此曲其後被[容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")、[蘇永康](../Page/蘇永康.md "wikilink")等歌手翻唱。
+此乃陳奕迅於[華星唱片時期的最後一張錄音室專輯](https://zh.wikipedia.org/wiki/華星唱片 "wikilink")，因推出大碟後不久便轉簽[英皇娛樂](../Page/英皇娛樂.md "wikilink")，這專輯並沒有獲得足夠宣傳。然而陳奕迅在這專輯嘗試了多種曲風，例如《Made In Hong Kong》的重型[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")、《美麗有罪》的[Techno Music等](https://zh.wikipedia.org/wiki/鐵克諾 "wikilink")，均為Eason 首次嘗試的曲風。另外，這專輯亦收錄了Eason 一首廣為人知的歌曲《黑夜不再來》，此曲其後被[容祖兒](../Page/容祖兒.md "wikilink")、[蘇永康](../Page/蘇永康.md "wikilink")等歌手翻唱。
 
 ## 曲目
 

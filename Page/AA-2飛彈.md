@@ -78,6 +78,6 @@ AA-2第一次的實戰紀錄是在[越戰時期](https://zh.wikipedia.org/wiki/�
 
 ## 外部連結
 
-  - [Chinese PL-2 air-to-air missile](http://www.airforceworld.com/pla/j-6-mig-19-fighter-china-pl-2-missile.htm)
+  - [Chinese PL-2 air-to-air missile](https://web.archive.org/web/20160304002942/http://www.airforceworld.com/pla/j-6-mig-19-fighter-china-pl-2-missile.htm)
 
 [Category:空對空飛彈](https://zh.wikipedia.org/wiki/Category:空對空飛彈 "wikilink") [Category:蘇聯飛彈](https://zh.wikipedia.org/wiki/Category:蘇聯飛彈 "wikilink")

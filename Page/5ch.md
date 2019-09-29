@@ -155,7 +155,7 @@
 
       - [4-ch.net](http://4-ch.net/2chportal/)（2ch各板的英文名單和導覽）
 
-      - [stats.2ch.net](http://stats.2ch.net/suzume.cgi?yes)（2ch每日的投稿數量）
+      - [stats.2ch.net](https://web.archive.org/web/20130502120750/http://stats.2ch.net/suzume.cgi?yes)（2ch每日的投稿數量）
 
   - [Jane Style](http://janesoft.net/janestyle/)
 

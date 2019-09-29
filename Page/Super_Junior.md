@@ -126,13 +126,13 @@ Super Junior自2008年2月22日開始至2014年2月22日，透過3次亞洲巡�
 
 2019年1月26日，Super Junior受邀前往[台北參加](https://zh.wikipedia.org/wiki/台北 "wikilink")[第14屆KKBOX風雲榜](../Page/KKBOX風雲榜.md "wikilink")，成為首位非華語歌手獲獎年度風雲歌手\[105\]。3月2日，Super Junior於首爾展開世界巡演安可場《[Super Show 7S](../Page/Super_Show_7.md "wikilink")》，意為[SS7的特別版演唱會](../Page/Super_Show_7.md "wikilink")。
 
-### 2019年至今：晉升全員役畢偶像組合、籌備第九張正規專輯、強仁離隊
+### 2019年至今：晉升全員役畢偶像組合、Time Slip、世界巡演Super Show 8、強仁離隊
 
-2019年5月7日，成員[圭賢](../Page/圭賢.md "wikilink")完成兵役退伍歸隊，也是組合內最後一位完成服兵役的成員，Super Junior長達九年的兵役期正式結束，成為韓國全員役畢偶像組合之一。6月3日，[Label SJ公布SJ將為下半年回歸歌壇準備](../Page/Label_SJ.md "wikilink")，該作品為全員結束兵役後的首張專輯，而[強仁](../Page/強仁.md "wikilink")及[晟敏](../Page/晟敏.md "wikilink")確定不參與組合的第九張正規專輯活動。7月12日，Super Junior於[吉達舉行](https://zh.wikipedia.org/wiki/吉達 "wikilink")《[Super Show 7S](../Page/Super_Show_7.md "wikilink")》，成為首個在[沙烏地阿拉伯舉行單獨演唱會的亞洲藝人](https://zh.wikipedia.org/wiki/沙烏地阿拉伯 "wikilink")。
+2019年5月7日，成員[圭賢](../Page/圭賢.md "wikilink")完成兵役退伍歸隊，也是組合內最後一位完成服兵役的成員，Super Junior長達九年的兵役期正式結束，成為韓國全員役畢偶像組合之一。6月3日，[Label SJ公布SJ將為下半年回歸歌壇準備](../Page/Label_SJ.md "wikilink")，該作品為全員結束兵役後的首張專輯，而[強仁](../Page/強仁.md "wikilink")及[晟敏](../Page/晟敏.md "wikilink")確定不參與組合的第九張正規專輯活動。7月12日，Super Junior於[吉達舉行](https://zh.wikipedia.org/wiki/吉達 "wikilink")《[Super Show 7S](../Page/Super_Show_7.md "wikilink")》，成為首個在[沙烏地阿拉伯舉行單獨演唱會的亞洲藝人](https://zh.wikipedia.org/wiki/沙烏地阿拉伯 "wikilink")。9月2日凌晨3點，官方宣布Super Junior進入回歸倒數999小時，將於10月14日攜正規九輯回歸韓國歌壇。9月9日，SJ推出正規九輯回歸真人秀節目《[SJ Returns 3](../Page/SJ_returns_3.md "wikilink")》正式播出，播出內容是紀錄正規九輯的準備過程。9月10日，公開第九張正規專輯《[Time Slip](https://zh.wikipedia.org/wiki/Time_Slip "wikilink")》收錄曲〈Show〉的Special Video，此曲為翻唱[金元俊](../Page/金元俊.md "wikilink")的同名歌曲。
 
 2019年7月11日，早於2016年5月因二度酒駕而暫停演藝活動的[強仁](../Page/強仁.md "wikilink")於[Instagram](../Page/Instagram.md "wikilink")中表示，自己為組合帶來不少負面影響，一直對成員和粉絲感到抱歉，宣布退出團體。所屬公司[Label SJ方面表示](../Page/Label_SJ.md "wikilink")：「決定尊重強仁的退出意向，但本人與SM娛樂公司專屬合約不變」\[106\]。
 
-2019年8月12日，成員[神童](../Page/神童.md "wikilink")因健康問題，決定專心休養，暫停參與接下來的所有活動。
+2019年8月12日，成員[神童](../Page/神童.md "wikilink")因健康問題，決定專心休養，暫停參與所有的活動，所主持的節目由成員[銀赫](../Page/銀赫.md "wikilink")代班，同年9月18日宣布恢復健康復工。
 
 ## 組合特色
 
@@ -256,7 +256,8 @@ PlotData =
 `bar:Shindong   from:11/06/2005 till:03/24/2015 Color:blue`
 `bar:Shindong   from:03/24/2015 till:12/23/2016 Color:yellow`
 `bar:Shindong   from:12/23/2016 till:end Color:blue`
-`bar:Shindong   from:12/08/2019 till:end Color:black`
+`bar:Shindong   from:08/12/2019 till:09/18/2019 Color:black`
+`bar:Shindong   from:09/18/2019 till:end Color:blue`
 `bar:Sungmin  from:11/06/2005 till:03/31/2015 Color:blue`
 `bar:Sungmin  from:03/31/2015 till:12/30/2016 Color:yellow`
 `bar:Sungmin  from:12/30/2016 till:07/06/2017 Color:blue`
@@ -323,6 +324,7 @@ LineData =
   - 2012：[Sexy, Free & Single / SPY](../Page/Sexy,_Free_&_Single.md "wikilink")
   - 2014：[Mamacita / This Is Love](../Page/Mamacita.md "wikilink")
   - 2017 / 2018：[Play / Replay](../Page/Play_\(Super_Junior專輯\).md "wikilink")
+  - 2019：[Time Slip](https://zh.wikipedia.org/wiki/Time_Slip "wikilink")
 
 <!-- end list -->
 
@@ -405,7 +407,7 @@ LineData =
   - 2017：NAVER TV、V LIVE、JTBC《[SJ returns](../Page/SJ_returns.md "wikilink")》
   - 2018：XtvN《[Super TV](../Page/SUPER_TV.md "wikilink")》
   - 2018：NAVER TV、V LIVE《[SJ Returns 2：E.L.F.的飯桌](../Page/SJ_Returns_2：E.L.F.的飯桌.md "wikilink")》
-  - 2019: NAVER TV、V LIVE《[SJ returns 3](../Page/SJ_returns_3.md "wikilink")》
+  - 2019：NAVER TV、V LIVE《[SJ returns 3](../Page/SJ_returns_3.md "wikilink")》
 
 <!-- end list -->
 

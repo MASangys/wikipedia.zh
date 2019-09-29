@@ -78,7 +78,7 @@
 
 ::\*B025 唯物辩证法诸范畴
 
-:::\*B025.1 [现象与](https://zh.wikipedia.org/wiki/现象 "wikilink")[本质](https://zh.wikipedia.org/wiki/本质 "wikilink")
+:::\*B025.1 [现象与](https://zh.wikipedia.org/wiki/现象 "wikilink")[本质](../Page/本质.md "wikilink")
 
 :::\*B025.2 [形式与](../Page/形式_\(哲學\).md "wikilink")[内容](https://zh.wikipedia.org/wiki/内容 "wikilink")
 

@@ -44,4 +44,4 @@ K線的長短取決於價差，若开盘价和收盘价的差距越大，則實�
 
 [de:Chartanalyse\#Candlestick-Chart (Kerzenchart)](https://zh.wikipedia.org/wiki/de:Chartanalyse#Candlestick-Chart_\(Kerzenchart\) "wikilink")
 
-[Category:技术分析](https://zh.wikipedia.org/wiki/Category:技术分析 "wikilink") [Category:统计图表](https://zh.wikipedia.org/wiki/Category:统计图表 "wikilink")
+[Category:技术分析](https://zh.wikipedia.org/wiki/Category:技术分析 "wikilink") [Category:统计图表](https://zh.wikipedia.org/wiki/Category:统计图表 "wikilink") [Category:日本發明](https://zh.wikipedia.org/wiki/Category:日本發明 "wikilink")

@@ -114,6 +114,8 @@
 
   - [台灣角川 YOUNG GUNS](http://www.kadokawa.com.tw/youngguns/)
 
+[分類:棒球漫畫](https://zh.wikipedia.org/wiki/分類:棒球漫畫 "wikilink")
+
 [Category:臺灣漫畫作品](https://zh.wikipedia.org/wiki/Category:臺灣漫畫作品 "wikilink") [Category:日本OVA動畫](https://zh.wikipedia.org/wiki/Category:日本OVA動畫 "wikilink") [Category:臺灣動畫](https://zh.wikipedia.org/wiki/Category:臺灣動畫 "wikilink") [Category:星期漫畫](https://zh.wikipedia.org/wiki/Category:星期漫畫 "wikilink") [Category:高中背景漫畫](https://zh.wikipedia.org/wiki/Category:高中背景漫畫 "wikilink") [Category:高中背景動畫](https://zh.wikipedia.org/wiki/Category:高中背景動畫 "wikilink") [Category:臺灣青少年題材作品](https://zh.wikipedia.org/wiki/Category:臺灣青少年題材作品 "wikilink")
 
 1.

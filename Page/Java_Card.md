@@ -14,7 +14,7 @@ Java Card虛擬機（Java Card Virtual Machine，也可簡稱為Java Card VM或J
 
 Java Card技術在研發初衷就是為了保護[智慧卡](../Page/智慧卡.md "wikilink")內的私密、敏感性資料。
 
-由於Java Card的應用程式是在Java Card VM具隔離性的環境下執行，所以程式對卡片資料的寫入、讀取、修改也受到權限機制的控制保護，無論使用何種讀卡設備、[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")、應用程式都不能跨越權限去存取不屬於自己的卡片內資料，等於具有小型應用程式的防火牆的功效。 Java Card能支援絕大多數的常用[加密](https://zh.wikipedia.org/wiki/加密 "wikilink")[演算法](https://zh.wikipedia.org/wiki/演算法 "wikilink")，包括[橢圓曲線加密法](https://zh.wikipedia.org/wiki/橢圓曲線加密法 "wikilink")。
+由於Java Card的應用程式是在Java Card VM具隔離性的環境下執行，所以程式對卡片資料的寫入、讀取、修改也受到權限機制的控制保護，無論使用何種讀卡設備、[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")、應用程式都不能跨越權限去存取不屬於自己的卡片內資料，等於具有小型應用程式的防火牆的功效。 Java Card能支援絕大多數的常用[加密](../Page/加密.md "wikilink")[演算法](https://zh.wikipedia.org/wiki/演算法 "wikilink")，包括[橢圓曲線加密法](https://zh.wikipedia.org/wiki/橢圓曲線加密法 "wikilink")。
 
 無論是[電信方面還是金融方面的智慧片應用](https://zh.wikipedia.org/wiki/電信業 "wikilink")，現在都運用Java Card技術來防護卡內所儲存的資訊資料。
 

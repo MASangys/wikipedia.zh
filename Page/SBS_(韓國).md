@@ -149,7 +149,8 @@
 
   - [SBS晨間連續劇](../Page/SBS晨間連續劇.md "wikilink")
   - [SBS月火連續劇](../Page/SBS月火連續劇.md "wikilink")
-  - [SBS特別劇](../Page/SBS特別劇.md "wikilink")
+  - [SBS水木連續劇](../Page/SBS水木連續劇.md "wikilink")
+  - [SBS金土連續劇](../Page/SBS金土連續劇.md "wikilink")
 
 #### 過去時段
 

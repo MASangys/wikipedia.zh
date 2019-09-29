@@ -15,9 +15,9 @@ OGLE-2005-BLG-390L目前已知有一顆行星，這顆行星被編為**OGLE-05-3
 
 ## 外部連結
 
-  - [**OGLE**: 2005-BLG-390 Event](http://www.astrouw.edu.pl/~ogle/ogle3/ews/2005/blg-390.html)
+  - [**OGLE**: 2005-BLG-390 Event](http://www.astrouw.edu.pl/~ogle/ogle3/ews/2005/blg-390.html)，
 
-  - [Small Rocky Planet Found Orbiting Normal Star](http://www.space.com/scienceastronomy/060125_smallest_planet.html)
+  - [Small Rocky Planet Found Orbiting Normal Star](http://www.space.com/scienceastronomy/060125_smallest_planet.html)，
 
   -
 [Category:天蠍座](https://zh.wikipedia.org/wiki/Category:天蠍座 "wikilink") [Category:紅矮星](https://zh.wikipedia.org/wiki/Category:紅矮星 "wikilink") [Category:重力透鏡](https://zh.wikipedia.org/wiki/Category:重力透鏡 "wikilink") [Category:行星系](https://zh.wikipedia.org/wiki/Category:行星系 "wikilink")

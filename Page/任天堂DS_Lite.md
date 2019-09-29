@@ -88,6 +88,8 @@ NDSL有多種主機顏色可供選擇，分別是：
       - 北美地区：2007年11月23日
   - **中國龍限定版**：以紅黑雙色設計，機面印有中國龍圖案。
       - 中国大陆：2008年1月26日
+  - **[帝牙盧卡](https://zh.wikipedia.org/wiki/帝牙盧卡 "wikilink")&[帕路奇亞限定版](https://zh.wikipedia.org/wiki/帕路奇亞 "wikilink")**:機面印有該2隻[寶可夢圖案](https://zh.wikipedia.org/wiki/寶可夢 "wikilink")。
+      - 日本:隨[精靈寶可夢 鑽石&珍珠動畫以抽獎型式送出](https://zh.wikipedia.org/wiki/精靈寶可夢_鑽石&珍珠 "wikilink")。
 
 ## 本機缺點
 

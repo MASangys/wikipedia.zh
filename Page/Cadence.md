@@ -1,30 +1,24 @@
-**益華電腦股份有限公司**（Cadence Design Systems, Inc）成立於1988年，是EDA(電子設計自動化)軟體與工程服務的重要廠商，主要提供設計積體電路(IC)、系統單晶片(SoC)、以及印刷電路板(PCB)所需的軟體工具與矽智財(IP)，涵蓋類比/數位/混合電路設計、驗證、封裝/PCB設計等各領域。
+**益華電腦股份有限公司**（Cadence Design Systems, Inc）成立於1988年，是[電子設計自動化](../Page/電子設計自動化.md "wikilink")（EDA）軟體與工程服務的重要廠商，主要提供[積體電路設計](https://zh.wikipedia.org/wiki/積體電路設計 "wikilink")（IC Design）、[系統單晶片](https://zh.wikipedia.org/wiki/系統單晶片 "wikilink")（SoC）、以及[印刷電路板](https://zh.wikipedia.org/wiki/印刷電路板 "wikilink")（PCB）所需的軟體工具與[矽智財](https://zh.wikipedia.org/wiki/矽智財 "wikilink")（IP），涵蓋類比/數位/混合電路設計、驗證、封裝/PCB設計等各領域。
 
 ## 历史
 
 ### 公司起源
 
-1988年，SDA Systems和ECAD兩家公司於此年合併組成’’’益華電腦股份有限公司（Cadence Design Systems, Inc）’’’。同年還收購了Ambit Design System。
-
-自1990年代起，透過內部開發以及多項併購行動，逐步建構包含佈線、合成、以及硬體模擬等完整的設計解決方案。
+1988年，SDA Systems和ECAD兩家公司於此年合併組成**益華電腦股份有限公司**，同年還收購了Ambit Design System。自1990年代起，透過內部開發以及多項併購行動，逐步建構包含佈線、合成、以及硬體模擬等完整的設計解決方案。
 
 ### 併購計劃
 
-1999年，公司收購了Quickturn。
+1999年，公司收購了Quickturn。2002年，收購[IBM](../Page/IBM.md "wikilink")的硬體模擬業務；2003年，又收購了Get2Chip等業務。
 
-2002年，收購IBM的硬體模擬業務；2003年，又收購了Get2Chip等業務。
-
-2009年，陳立武(Lip-Bu Tan)成為現任的執行長。
-
-2010年起，公司開始強化IP業務，當年度收購片上記憶體IP領先廠商Denali。
+2009年，陳立武（Lip-Bu Tan）成為現任執行長。2010年起，公司開始強化IP業務，當年度收購片上記憶體IP領先廠商Denali。
 
 ### 近年發展
 
 2013年，收購可配置處理器IP廠商Tensilica最為重要，後陸續收購包括Cosmic Circuits、Evatronix的IP部門、以及Transwitch的HIS部門，建立完整IP產品組合。
 
-因應智慧聯網系統的快速發展，Cadence近年積極朝系統實現(System Design Enablement)方向移轉，於2014年收購高階合成(HLS)業者Forte Design System以及形式驗證業者Jasper Design Automation。
+因應智慧聯網系統的快速發展，Cadence近年積極朝系統實現（System Design Enablement）方向移轉，於2014年收購高階合成（HLS）業者Forte Design System以及形式驗證業者Jasper Design Automation。
 
-2015年起，公司連續三年，被[財星雜誌列為](https://zh.wikipedia.org/wiki/財星雜誌 "wikilink")「百大最佳職場」。
+2015年起，公司連續三年被[財星雜誌列為](https://zh.wikipedia.org/wiki/財星雜誌 "wikilink")「百大最佳職場」。
 
 ## 產品
 

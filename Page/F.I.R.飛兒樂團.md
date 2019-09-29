@@ -14,17 +14,19 @@ F.I.R.於2004年出道，推出首張專輯《[F.I.R.飛兒樂團 同名專輯](
 
 2015年6月16日宣布加盟[華研國際音樂](../Page/華研國際音樂.md "wikilink")\[5\]。
 
-2018年2月22日主唱Faye對於F.I.R.即將發新專輯卻未告知她，且她也未參與專輯製作，因此在臉書發文表示已是F.I.R.局外人，發出聲明避免混淆 \[6\]；團員阿沁對主唱飛「被退團」表示自己不知情 \[7\]。
+2018年2月22日 前主唱Faye確定離開飛兒樂團，單飛發展，也在退團風波後不久表示私下仍是音樂上的盟友，未來彼此祝福。
 
-2018年8月22日發表鬥魚電影主題曲（星火），MV突破3000萬點閱。
+2018年8月22日發表鬥魚電影主題曲（星火），MV突破4000萬點閱。
 
-2018年10月24日前樂團主唱Faye宣布以本名詹雯婷加盟亞神音樂 \[8\]。
+2018年10月24日前樂團主唱Faye宣布以本名詹雯婷加盟亞神音樂 \[6\]。
 
-2018年10月25日 飛兒樂團在北京舉辦記者會，公佈由22歲的中國籍新人韓睿（Lydia）接棒擔任樂團新主唱\[9\]。
+2018年10月25日 飛兒樂團在北京舉辦記者會，公佈由22歲的新人韓睿（Lydia）接棒擔任樂團新主唱\[7\]。
 
 2019年4月1日 飛兒樂團發布睽違近六年的新專輯首支影片，預告回歸樂壇。
 
-2019年5月3日 發行第八張專輯《[末日青春 : 補完計劃](../Page/末日青春_:_補完計劃.md "wikilink")》。
+2019年5月3日 發行第八張專輯《[末日青春 : 補完計劃](../Page/末日青春_:_補完計劃.md "wikilink")》，並同時率領華研國際藝人(郁可唯、文慧如、Karencici、閰奕格、李友廷等)展開「造夢者校園巡迴演唱會」
+
+2019年9月10日 宣布與日本知名樂團Do As Infinity大無限樂團 合作推出 單曲 《無限青春 Forever Young》
 
 ## 音樂特色
 
@@ -442,7 +444,7 @@ F.I.R. Live Band目前的團員由F.I.R.第五張專輯開始加入，成員包�
 <tr class="odd">
 <td><p>2011</p></td>
 <td><p><strong>Believe（相信愛）</strong></p></td>
-<td><p><a href="../Page/馬英九.md" title="wikilink">馬英九</a>旁白，其他群星合唱。[10]</p></td>
+<td><p><a href="../Page/馬英九.md" title="wikilink">馬英九</a>旁白，其他群星合唱。[8]</p></td>
 <td><ul>
 <li>《相信希望fight &amp; smile》日本311大地震募款賑災晚會主題曲。</li>
 <li>陳建寧、謝宥慧作詞，陳建寧作曲</li>
@@ -495,6 +497,14 @@ F.I.R. Live Band目前的團員由F.I.R.第五張專輯開始加入，成員包�
 <td><p>F.I.R.飛兒樂團</p></td>
 <td><ul>
 <li>北京交通廣播25週年推廣曲</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p>2019</p></td>
+<td><p><strong>無限青春 Forever Young</strong></p></td>
+<td><p>F.I.R.飛兒樂團、Do Aa Infinity大無限樂團</p></td>
+<td><ul>
+<li>兩大天團世紀合作 大無限樂團20週年紀念</li>
 </ul></td>
 </tr>
 </tbody>
@@ -590,6 +600,10 @@ F.I.R. Live Band目前的團員由F.I.R.第五張專輯開始加入，成員包�
 12月
 
   - [中國國際電視廣告藝術金椰子獎](https://zh.wikipedia.org/wiki/中國國際電視廣告藝術金椰子獎 "wikilink") - 最佳電視廣告價值人物獎
+
+1月
+
+  - 加拿大中文電台至HIT中文歌曲排行榜 - 全國推崇組合（國）
 
 2月
 
@@ -1111,7 +1125,7 @@ Light Up The Way<br />
 
   - 06.22 華山文創園區 造夢者公益園遊會
 
-## 廣告代言\[11\]
+## 廣告代言\[9\]
 
   - 台灣啤酒（2012）
   - 勁王休閒鞋（2011）
@@ -1146,9 +1160,7 @@ Light Up The Way<br />
 3.  [F.I.R. 創‧世紀世界巡迴演唱會CF](https://www.youtube.com/watch?v=OwPHpnJrjBM)
 4.  [光合之旅 Light Up The Way 世界巡迴演唱會](https://www.youtube.com/watch?v=jym7FEUodRk)
 5.  [F.I.R.加盟華研 飛兒樂團全方位發展拓展](http://www.him.com.tw/newscon.php?nid=280)
-6.  [飛自爆被踢出F.I.R. 出新歌被瞞鼓裡](https://tw.appledaily.com/new/realtime/20180222/1302333)
-7.  [主唱飛慘遭退團 阿沁：我也不知道](https://today.line.me/TW/article/WGKvrL)
-8.  [Faye詹雯婷花落亞神 搖滾女王楊乃文驚喜現身](http://www.asiamuse.com.tw/news.php?id=163)
-9.  [1](https://stars.udn.com/star/story/10092/3441677)
-10. [陳建寧創作主題曲 江蕙金嗓幫腔慰災民](http://www.warnermusic.com.tw/node/38)
-11. [F.I.R星檔案|udn 聯合追星網](http://stars.udn.com/newstars/star/StarPage.do?sid=1406#ixzz1SngiAJbW)
+6.  [Faye詹雯婷花落亞神 搖滾女王楊乃文驚喜現身](http://www.asiamuse.com.tw/news.php?id=163)
+7.  [1](https://stars.udn.com/star/story/10092/3441677)
+8.  [陳建寧創作主題曲 江蕙金嗓幫腔慰災民](http://www.warnermusic.com.tw/node/38)
+9.  [F.I.R星檔案|udn 聯合追星網](http://stars.udn.com/newstars/star/StarPage.do?sid=1406#ixzz1SngiAJbW)

@@ -12,6 +12,10 @@ Technos的[版權自破產後由當年的開發團隊新成立的](https://zh.wi
 
 ## 註腳
 
+## 外部連結
+
+  - [Technōs Japan特設頁面（Arc System Works）](http://www.arcsystemworks.jp/technos/)
+
 [Category:Technōs_Japan](https://zh.wikipedia.org/wiki/Category:Technōs_Japan "wikilink") [Category:日本已結業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本已結業電子遊戲公司 "wikilink") [Category:1981年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1981年開業電子遊戲公司 "wikilink") [Category:1996年結業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1996年結業電子遊戲公司 "wikilink") [Category:中野區歷史](https://zh.wikipedia.org/wiki/Category:中野區歷史 "wikilink")
 
 1.

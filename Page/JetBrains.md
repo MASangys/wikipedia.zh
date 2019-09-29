@@ -78,7 +78,7 @@ JetBrains成立於2000年，是一家[私人持股的公司](https://zh.wikipedi
 
 <!-- end list -->
 
-  - [YouTrack](https://zh.wikipedia.org/wiki/YouTrack "wikilink") - 一款用于代码审查，团队协作项目分析的工具。
+  - [Upsource](https://zh.wikipedia.org/wiki/Upsource "wikilink") - 一款用于代码审查，团队协作项目分析的工具。
 
 <!-- end list -->
 

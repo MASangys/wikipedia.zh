@@ -28,7 +28,7 @@ Centroliner採用車身車陣一體化的設計，由於無大樑底盤須要車
 
 在1997年，德國Neoplan車廠把一輛長達15米的[Neoplan Megashuttle四軸雙層巴士運到香港供](https://zh.wikipedia.org/wiki/Neoplan_Megaliner "wikilink")[城巴](../Page/城巴.md "wikilink")及[九巴進行實地測試](https://zh.wikipedia.org/wiki/九巴 "wikilink")。雖然該款15米長的雙層巴士具有12米長巴士的迴轉半徑，可是基於香港法例對車輛長度的限制而未能購買這款巴士，於是Neoplan便向香港的巴士公司推介12米長的Centroliner雙層巴士，並獲得九巴及新巴採購，當時被巴士公司以最先進的雙層巴士宣傳。由於底盤是配用原廠設計的單一連體不鏽鋼車身，但其並不適應香港夏季炎熱潮濕的海洋性氣候，以及香港經常超載及多變的運用情況，故相對其他車款在維修和保養方面都比較困難。
 
-Neoplan Centroliner是[香港](../Page/香港.md "wikilink")第3款德國製雙層巴士（之前兩款為[平治O305及](https://zh.wikipedia.org/wiki/平治O305 "wikilink")[猛獅24.350](../Page/猛獅24.350.md "wikilink")／[猛獅24.310](../Page/猛獅24.310.md "wikilink")），為數193輛。香港的Centroliner共有3種版本，分別是N4026/3、N4026/3 Series 2，以及N4426/3，分別由[九龍巴士](../Page/九龍巴士.md "wikilink")（九巴）及[新世界第一巴士](../Page/新世界第一巴士.md "wikilink")（新巴）購入，並根據香港的需求進行修改。巴士全高由德國版的4米增加為4.35米，引擎改用[康明斯](../Page/康明斯.md "wikilink")的產品，只有最後32輛用回原廠的MAN引擎。
+Neoplan Centroliner是[香港](../Page/香港.md "wikilink")第3款德國製雙層巴士（之前兩款為[平治O305及](https://zh.wikipedia.org/wiki/平治O305 "wikilink")[猛獅24.350](../Page/猛獅24.350.md "wikilink")／[猛獅24.310](../Page/猛獅24.310.md "wikilink")），為數193輛。香港的Centroliner共有3種版本，分別是N4026/3、N4026/3 Series 2，以及N4426/3，分別由[九龍巴士](../Page/九龍巴士.md "wikilink")（九巴）及[新世界第一巴士](../Page/新世界第一巴士.md "wikilink")（新巴）購入，並根據香港的需求進行修改。巴士高度由德國版的4米增加到4.35米，引擎改用[康明斯](../Page/康明斯.md "wikilink")的產品，只有最後32輛用回原廠的MAN引擎。
 
 ### 香港版引擎
 

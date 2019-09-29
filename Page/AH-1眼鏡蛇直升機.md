@@ -256,7 +256,7 @@ AH-1Z蝰蛇在[电脑游戏](https://zh.wikipedia.org/wiki/电脑 "wikilink")[�
 
 [分類:美國售台軍事裝備](https://zh.wikipedia.org/wiki/分類:美國售台軍事裝備 "wikilink")
 
-[Category:美國軍用直升機](https://zh.wikipedia.org/wiki/Category:美國軍用直升機 "wikilink") [Category:中華民國陸軍航空器](https://zh.wikipedia.org/wiki/Category:中華民國陸軍航空器 "wikilink")
+[Category:美國軍用直升機](https://zh.wikipedia.org/wiki/Category:美國軍用直升機 "wikilink") [Category:中華民國陸軍航空器](https://zh.wikipedia.org/wiki/Category:中華民國陸軍航空器 "wikilink") [Category:貝爾航空器](https://zh.wikipedia.org/wiki/Category:貝爾航空器 "wikilink")
 
 1.  Donald, David: *Modern Battlefield Warplanes*, page 165. AIRtime Publishing Inc, 2004. ISBN 978-1-880588-76-5
 

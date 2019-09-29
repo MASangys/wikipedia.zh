@@ -40,4 +40,4 @@
 
   - [花見沢Ｑ太郎純正ＨＰ](https://web.archive.org/web/20070227142359/http://www009.upp.so-net.ne.jp/hanaQ-2nd/)
 
-[Category:日本漫畫家](https://zh.wikipedia.org/wiki/Category:日本漫畫家 "wikilink") [Category:新潟縣出身人物](https://zh.wikipedia.org/wiki/Category:新潟縣出身人物 "wikilink") [Category:日本成人漫畫家](https://zh.wikipedia.org/wiki/Category:日本成人漫畫家 "wikilink")
+[Category:日本男性漫畫家](https://zh.wikipedia.org/wiki/Category:日本男性漫畫家 "wikilink") [Category:新潟縣出身人物](https://zh.wikipedia.org/wiki/Category:新潟縣出身人物 "wikilink") [Category:日本成人漫畫家](https://zh.wikipedia.org/wiki/Category:日本成人漫畫家 "wikilink")

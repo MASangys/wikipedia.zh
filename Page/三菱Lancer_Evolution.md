@@ -1,6 +1,6 @@
-**三菱Lancer Evolution**，俗稱**EVO**、**LanEVO**，是於1990年代初由[三菱汽車為參加](https://zh.wikipedia.org/wiki/三菱汽車工業有限公司 "wikilink")[世界拉力錦標賽](https://zh.wikipedia.org/wiki/世界拉力錦標賽 "wikilink")，以其前輪驅動的小型四門家用轎車[Lancer為藍本](https://zh.wikipedia.org/wiki/三菱Lancer "wikilink")，開發出的四門[高性能轎車](../Page/高性能轎車.md "wikilink")。迄今為止總共開發了10代，每代均由[羅馬數字作輔助標記](https://zh.wikipedia.org/wiki/羅馬數字 "wikilink")，均配備2公升[渦輪增壓](https://zh.wikipedia.org/wiki/渦輪增壓 "wikilink")[引擎和全時](https://zh.wikipedia.org/wiki/引擎 "wikilink")[四輪驅動系統](https://zh.wikipedia.org/wiki/四輪驅動 "wikilink")。在其進化過程中，三菱Lancer Evolution不負眾望，在車手[湯米 麥肯南的駕馭下](https://zh.wikipedia.org/wiki/湯米_麥肯南 "wikilink")，連續四年勇奪世界拉力錦標賽的年度車手冠軍寶座，三菱Lancer Evolution的名字因此而紅遍全球，成為諸多追求高性能車迷們追捧的愛車之一。
+**三菱Lancer Evolution**，俗稱**EVO**、**LanEVO**，是於1990年代初由[三菱汽車為參加](https://zh.wikipedia.org/wiki/三菱汽車工業有限公司 "wikilink")[世界拉力錦標賽](https://zh.wikipedia.org/wiki/世界拉力錦標賽 "wikilink")，以其前輪驅動的小型四門家用轎車[Lancer為藍本](https://zh.wikipedia.org/wiki/三菱Lancer "wikilink")，開發出的四門[高性能轎車](../Page/高性能轎車.md "wikilink")。迄今為止總共開發了10代，每代均由[羅馬數字作輔助標記](https://zh.wikipedia.org/wiki/羅馬數字 "wikilink")，均配備2公升[渦輪增壓](https://zh.wikipedia.org/wiki/渦輪增壓 "wikilink")[引擎和全時](https://zh.wikipedia.org/wiki/引擎 "wikilink")[四輪驅動系統](https://zh.wikipedia.org/wiki/四輪驅動 "wikilink")，因其連續四年勇奪世界拉力錦標賽的年度車手冠軍寶座，三菱Lancer Evolution的名字因此而紅遍全球，成為諸多追求高性能車迷們追捧的愛車之一。
 
-三菱Lancer Evolution最初只在日本本土以及同為右駕的香港發售，到1997年，三菱Lancer Evolution由於在[世界拉力錦標賽的佳績而名聲大振](https://zh.wikipedia.org/wiki/世界拉力錦標賽 "wikilink")，才開始生產左駕版銷往歐洲市場。繼而直到2003年，三菱汽車看到了其競爭對手[速霸陸](../Page/速霸陸.md "wikilink")的[速霸陸WRX](../Page/速霸陸WRX.md "wikilink")在美國市場獲得了成功，才決心從第8代三菱Lancer Evolution開始，將其出口至北美市場。
+三菱Lancer Evolution最初只在日本本土和香港發售，到1997年，三菱Lancer Evolution由於在[世界拉力錦標賽的佳績而名聲大振](https://zh.wikipedia.org/wiki/世界拉力錦標賽 "wikilink")，才開始生產左駕版銷往歐洲市場。繼而直到2003年，三菱汽車看到了其競爭對手[速霸陸](../Page/速霸陸.md "wikilink")的[速霸陸WRX](../Page/速霸陸WRX.md "wikilink")在美國市場獲得了成功，才決心從第8代Lancer Evolution開始，將其出口至北美市場。
 
 ## Lancer Evolution I（第1代）
 
@@ -74,11 +74,13 @@ Lancer Evolution推出的當時在日本當地造成了轟動，在短短3天內
 
 三菱汽車在2003年對Lancer Evolution再一次進行了革新，此代Lancer Evolution VIII標配了17寸的Enkei輪圈以及Brembo的剎車系統進一步的強調其操控性能，外觀上在水箱護罩前設計了一中央鼻柱為最大的特徵。引擎動力輸出依然維持在280匹並搭配5前速手動變速器，不過，三菱汽車這一次為了將三菱Lancer Evolution成功導入美國市場，並與[富士的](https://zh.wikipedia.org/wiki/富士 "wikilink")[Impreza WRX STI在北美市場一決高下](../Page/速霸陸Impreza.md "wikilink")，將一款全新設計的6前速手排引入到了主要針對北美市場的MR版本中。原來的GSR與RS版本依然維持以往的配置標準，而MR版本的配置可謂更極端的運動化，除開搭配6前速手動變速器，17寸的BBS輪圈，鋁合金車頂，Bilstein的避震器以及前橋的限滑差速器令其性能得到極盡的發揮。
 
-此代Lancer Evolution更在英國市場發售了多個特別版本，包括FQ300,FQ320,FQ340,以及FQ400。坊間流傳FQ代表英文"F\*\*king Quick"，雖然這種說法沒有得到三菱汽車的官方回應，但由各個FQ版本帶來的300匹，320匹，340匹，以及400匹的馬力來看，三菱的4G63T引擎已然開發到了極致完美的境地。特別是FQ400的引擎輸出[升功率達到了大約每公升輸出](https://zh.wikipedia.org/wiki/升功率 "wikilink")200匹（151.3千瓦）馬力。這款只在英國發售，並且售價高達4萬7千英鎊的FQ400，可以輕易的在3.5秒內將重量達1450公斤的整車加速至60英里。當年英國的著名汽車電視節目Top Gear曾對這款FQ400做了賽道測試，1分24秒8的成績僅僅落後[藍寶基尼Murciélago約](https://zh.wikipedia.org/wiki/藍寶基尼Murciélago "wikilink")1.1秒。
+此代Lancer Evolution更在英國市場發售了多個特別版本，包括FQ300,FQ320,FQ340,FQ400。有流言称FQ代表英文"F\*\*king Quick"，雖然這種說法沒有得到三菱汽車的官方回應，但由各個FQ版本帶來的300匹，320匹，340匹，以及400匹的馬力來看，三菱的4G63T引擎已然開發到了極致完美的境地。特別是FQ400的引擎輸出[升功率達到了大約每公升輸出](https://zh.wikipedia.org/wiki/升功率 "wikilink")200匹（151.3千瓦）馬力。這款只在英國發售，並且售價高達4萬7千英鎊的FQ400，可以輕易的在3.5秒內將重量達1450公斤的整車加速至60英里。當年英國的著名汽車電視節目Top Gear曾對這款FQ400做了賽道測試，1分24秒8的成績僅僅落後[藍寶基尼Murciélago約](https://zh.wikipedia.org/wiki/藍寶基尼Murciélago "wikilink")1.1秒。
 
 作為第一代出口至美國的三菱Lancer Evolution，三菱Lancer Evolution VIII與其宿敵速霸陸Impreza WRX STI的競爭擴大至北美市場，競爭局面也進一步白熱化。
 
 順帶一提,HKS把三菱Lancer Evolution VIII大幅度改裝成三菱CT230R EvoVIII,並打破了多個賽道的舊有記錄。
+
+台灣市場曾由[中華汽車旗下的](https://zh.wikipedia.org/wiki/中華汽車 "wikilink")[華菱汽車](../Page/華菱汽車.md "wikilink")少量引進約60部，然而因售價高達182萬，市場反應差的情況降價求售。
 
 ## Lancer Evolution IX（第9代）
 
@@ -102,15 +104,13 @@ Lancer Evolution推出的當時在日本當地造成了轟動，在短短3天內
 
 ## Lancer Evolution X（第10代）
 
-2005年，一款名為三菱Concept-X的概念車在第39屆東京車展車展亮相，這款由著名汽車設計師[奧默·哈里霍季奇在三菱汽車歐洲設計中心設計的概念車](https://zh.wikipedia.org/wiki/奧默·哈里霍季奇 "wikilink")，即是日後第10代三菱Lancer Evolution——三菱Lancer Evolution X的藍本車。三菱Lancer Evolution X，就是經過修改隨後於2007年亮相北美國際車展的三菱Prototype-X概念車而來的
+2005年，一款名為三菱Concept-X的概念車在第39屆東京車展車展亮相，這款由著名汽車設計師[奧默·哈里霍季奇在三菱汽車歐洲設計中心設計的概念車](https://zh.wikipedia.org/wiki/奧默·哈里霍季奇 "wikilink")，即是日後第10代三菱Lancer Evolution的藍本車。經過修改後於2007年亮相北美國際車展并更名为Prototype-X。
 
 這代EVO使用了三菱汽車全新設計的，型號為4B11T的2.0公升全鋁直列四缸渦輪增壓引擎，引擎輸出由市場不同和調校得略有區別。另外，由於三菱汽車銷售業績在市場上節節敗退，此代EVO提供的各個版本較少，北美市場最初只提供了GSR和MR兩個版本。
 
-Lancer Evolution X較上一代EVO，改動頗大，其中包括MR版本的Lancer Evolution X搭載了一款名為"TC-SST"的雙離合半自動變速器（GSR版本仍然搭載密齒比5前速手動變速器），三菱汽車RISE安全車體的使用，以及採用了三菱汽車進一步改良的四輪驅動系統——S-AWC。通過三菱汽車公佈的S-AWC的技術信息來看，S-AWC四輪驅動系統可以將引擎輸出的扭力以需要的比例在任何時候傳送至任何一個輪胎上。
+第10代EVO較上一代EVO，改動頗大，其中包括MR版本的Lancer Evolution X搭載了一款名為"TC-SST"的雙離合半自動變速器（GSR版本仍然搭載密齒比5前速手動變速器），三菱汽車RISE安全車體的使用，以及採用了三菱汽車進一步改良的四輪驅動系統——S-AWC。通過三菱汽車公佈的S-AWC的技術信息來看，S-AWC四輪驅動系統可以將引擎輸出的扭力以需要的比例在任何時候傳送至任何一個輪胎上。
 
-三菱Lancer Evolution X於2007年10月1日在日本本土發售，2008年1月在美國發售，同年2月在加拿大發售，隨後5月與英國發售。
-
-Lancer Evolution X的評價不俗，可是銷量不斷下跌，加上三菱汽車有意淡出性能車市場，於近年已經傳出停產後不會再有新型號的消息。2014年，Lancer Evolution X不再提供雙離合半自動變速器版本。2015年，發表Lancer Evolution Final Edition，並計劃於2016年完成交車，當第1000台日規、第1600台美規、第150台澳規Lancer Evolution Final Edition出廠後，Lancer Evolution正式完成歷史任務。
+第10代EVO於2007年10月1日在日本本土發售，2008年1月在美國發售，同年2月在加拿大發售，隨後5月與英國發售。该车的評價不俗，可是銷量不斷下跌，加上三菱汽車有意淡出性能車市場，於近年已經傳出停產後不會再有新型號的消息。2014年起不再提供雙離合半自動變速器版本。2015年推出Final Edition，並計劃於2016年完成交車，當第1000台日規、第1600台美規、第150台澳規Final Edition出廠後，EVO淡出了舞台。
 
 ### 日規版本
 

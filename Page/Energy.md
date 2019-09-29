@@ -166,12 +166,22 @@
   - 《[幸福兌換券](../Page/幸福兌換券.md "wikilink")》（2014.09）：坤達 飾演 史博海
   - 《[舞吧舞吧在一起](../Page/舞吧舞吧在一起.md "wikilink")》（2015）：小剛 飾演 李修齊（Mike）
   - 《[甘味人生](../Page/甘味人生.md "wikilink")》（2015）：阿弟 飾演 戴勤生
+  - 《[星座愛情雙魚女](../Page/星座愛情雙魚女.md "wikilink")》（2015）：坤達 飾演 郭勝雄
+  - 《[原來1家人](../Page/原來1家人.md "wikilink")》（2016）：坤達 飾演 詹士邦
+  - 《[紅色氣球](../Page/紅色氣球.md "wikilink")》（2017）：坤達 飾演 李向晚
+  - 《[稍息立正我愛你](../Page/稍息立正我愛你.md "wikilink")》（2017）：坤達 飾演 子祥 (客串)
+  - 《[機密訊號](../Page/機密訊號.md "wikilink")》（2018）：坤達 飾演 張晉
+  - 《[1006的房客](../Page/1006的房客.md "wikilink")》（2018）：坤達 飾演 慕思明
+  - 《[月村歡迎你](../Page/月村歡迎你.md "wikilink")》（2019）：坤達 飾演 畢國建
+  - 《[網紅的瘋狂世界](../Page/網紅的瘋狂世界.md "wikilink")》（2019）：坤達 飾演 畢國建(客串)
 
 電影
 
   - 《[巧克力重擊](https://zh.wikipedia.org/wiki/巧克力重擊 "wikilink") [Chocolate Rap](https://zh.wikipedia.org/wiki/Chocolate_Rap "wikilink")》（2006）：小剛
   - 《[當我們同在一起](../Page/當我們同在一起.md "wikilink") [GO GO G-BOYS](https://zh.wikipedia.org/wiki/GO_GO_G-BOYS "wikilink")》（2006）：小剛
   - 《[一席之地](../Page/一席之地.md "wikilink") [A Place of One’s Own](https://zh.wikipedia.org/wiki/A_Place_of_One’s_Own "wikilink")》（2009）：小剛
+  - 《[他媽²的藏寶圖](../Page/他媽²的藏寶圖.md "wikilink")》（2016）：TORO 飾演張永昌
+  - 《[姐姐好餓劇場版之御廚大作戰](https://zh.wikipedia.org/wiki/姐姐好餓劇場版之御廚大作戰 "wikilink")》（2017）：坤達 飾演李進喜
 
 ## 主持
 

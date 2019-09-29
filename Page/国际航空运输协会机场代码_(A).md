@@ -267,7 +267,7 @@
 <td><p>ABK</p></td>
 <td><p>HAKD</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/索馬里州" title="wikilink">索馬里州</a></p></td>
+<td><p><a href="../Page/索馬里州.md" title="wikilink">索馬里州</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -477,7 +477,7 @@
 <td><p>ACR</p></td>
 <td><p>SKAC</p></td>
 <td></td>
-<td><p>阿拉拉夸拉，<a href="https://zh.wikipedia.org/wiki/卡克塔省" title="wikilink">卡克塔省</a></p></td>
+<td><p>阿拉拉夸拉，<a href="../Page/卡克塔省.md" title="wikilink">卡克塔省</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1233,7 +1233,7 @@
 <td><p>AIA</p></td>
 <td><p>KAIA</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/內布拉斯加州" title="wikilink">內布拉斯加州</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/內布拉斯加州" title="wikilink">內布拉斯加州</a><a href="../Page/阿萊恩斯_(內布拉斯加州).md" title="wikilink">阿萊恩斯</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1681,7 +1681,7 @@
 <td><p>ALE</p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/德克薩斯州" title="wikilink">德克薩斯州</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/德克薩斯州" title="wikilink">德克薩斯州</a><a href="../Page/阿爾派恩_(德克薩斯州).md" title="wikilink">阿爾派恩</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2367,7 +2367,7 @@
 <td><p>API</p></td>
 <td><p>SKAP</p></td>
 <td></td>
-<td><p>Apiay，<a href="https://zh.wikipedia.org/wiki/梅塔省" title="wikilink">梅塔省</a></p></td>
+<td><p>Apiay，<a href="../Page/梅塔省.md" title="wikilink">梅塔省</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2591,7 +2591,7 @@
 <td><p>ARF</p></td>
 <td></td>
 <td><p>阿加里瓜拉機場</p></td>
-<td><p>，<a href="https://zh.wikipedia.org/wiki/沃佩斯省" title="wikilink">沃佩斯省</a></p></td>
+<td><p>，<a href="../Page/沃佩斯省.md" title="wikilink">沃佩斯省</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -3606,7 +3606,7 @@
 <td><p>AYA</p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/科爾多瓦省_(哥倫比亞)" title="wikilink">科爾多瓦省</a><a href="https://zh.wikipedia.org/wiki/阿亞佩爾" title="wikilink">阿亞佩爾</a></p></td>
+<td><p><a href="../Page/科爾多瓦省_(哥倫比亞).md" title="wikilink">科爾多瓦省</a><a href="https://zh.wikipedia.org/wiki/阿亞佩爾" title="wikilink">阿亞佩爾</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

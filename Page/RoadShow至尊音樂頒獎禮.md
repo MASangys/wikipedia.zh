@@ -34,7 +34,7 @@ RoadShow至尊音樂頒獎禮的前身為[RoadShow MV直選](https://zh.wikipedi
 </tr>
 <tr class="even">
 <td><p>RoadShow至尊歌曲</p></td>
-<td><p>《逃》 ──<a href="https://zh.wikipedia.org/wiki/容祖兒" title="wikilink">容祖兒</a><br />
+<td><p>《逃》 ──<a href="../Page/容祖兒.md" title="wikilink">容祖兒</a><br />
 《化》 ──<a href="../Page/楊千嬅.md" title="wikilink">楊千嬅</a><br />
 《男人KTV》 ──<a href="../Page/側田.md" title="wikilink">側田</a><br />
 《電燈膽》 ──<a href="../Page/鄧麗欣.md" title="wikilink">鄧麗欣</a><br />
@@ -118,7 +118,7 @@ RoadShow至尊音樂頒獎禮的前身為[RoadShow MV直選](https://zh.wikipedi
 </tr>
 <tr class="even">
 <td><p>RoadShow至尊華語女歌手</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/容祖兒" title="wikilink">容祖兒</a></p></td>
+<td><p><a href="../Page/容祖兒.md" title="wikilink">容祖兒</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>RoadShow至尊華語組合樂隊</p></td>
@@ -126,7 +126,7 @@ RoadShow至尊音樂頒獎禮的前身為[RoadShow MV直選](https://zh.wikipedi
 </tr>
 <tr class="even">
 <td><p>RoadShow至尊華語金曲</p></td>
-<td><p>《小小》 ──<a href="https://zh.wikipedia.org/wiki/容祖兒" title="wikilink">容祖兒</a></p></td>
+<td><p>《小小》 ──<a href="../Page/容祖兒.md" title="wikilink">容祖兒</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>RoadShow至尊男歌手</p></td>
@@ -134,7 +134,7 @@ RoadShow至尊音樂頒獎禮的前身為[RoadShow MV直選](https://zh.wikipedi
 </tr>
 <tr class="even">
 <td><p>RoadShow至尊女歌手</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/容祖兒" title="wikilink">容祖兒</a>、<a href="../Page/楊千嬅.md" title="wikilink">楊千嬅</a>、<a href="https://zh.wikipedia.org/wiki/何韻詩" title="wikilink">何韻詩</a></p></td>
+<td><p><a href="../Page/容祖兒.md" title="wikilink">容祖兒</a>、<a href="../Page/楊千嬅.md" title="wikilink">楊千嬅</a>、<a href="https://zh.wikipedia.org/wiki/何韻詩" title="wikilink">何韻詩</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>RoadShow至尊組合樂隊</p></td>

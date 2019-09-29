@@ -1,4 +1,4 @@
-[通用](https://zh.wikipedia.org/wiki/通用汽车公司 "wikilink")[EMD的](https://zh.wikipedia.org/wiki/EMD "wikilink")[EMD GP40型柴電機車](https://zh.wikipedia.org/wiki/EMD_GP40型柴電機車 "wikilink")，在其“标准”配置中，主要是用于货运。但是它的基本[底盘](https://zh.wikipedia.org/wiki/底盘 "wikilink")，也很让人有兴致将其开发成能用于客运服务的改型。但是这需要额外的组件来提供[蒸气或者](https://zh.wikipedia.org/wiki/蒸气 "wikilink")[列车供电](../Page/列车供电.md "wikilink")(HEP)来给旅客车厢提供暖气与照明。
+[通用](https://zh.wikipedia.org/wiki/通用汽车公司 "wikilink")[EMD的](https://zh.wikipedia.org/wiki/EMD "wikilink")[EMD GP40型柴電機車](https://zh.wikipedia.org/wiki/EMD_GP40型柴電機車 "wikilink")，原本主要用于货运。但後來有不少鐵路将其改造于客运服务；这需要加裝提供[蒸气或者](https://zh.wikipedia.org/wiki/蒸气 "wikilink")[列车供电](../Page/列车供电.md "wikilink")（HEP）設備已變提供暖氣予電力给旅客车厢。也有少數機車出廠時就作為客運用途。
 
 ## GP40P
 

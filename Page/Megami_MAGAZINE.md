@@ -250,7 +250,7 @@
   - 230号：噬血狂袭Ⅲ（姬柊雪菜）画：[佐野隆雄](https://zh.wikipedia.org/wiki/佐野隆雄 "wikilink")
   - 231号：剧场版 [青春猪头少年不会梦到怀梦美少女](https://zh.wikipedia.org/wiki/青春猪头少年不会梦到怀梦美少女 "wikilink")（樱岛麻衣）画：[安野将人](https://zh.wikipedia.org/wiki/安野将人 "wikilink")
   - 232号：
-  - 233号：战姬绝唱SYMPHOGEAR XV（玛丽亚·卡登扎夫娜·伊芙、月读调、晓切歌）
+  - 233号：战姬绝唱SYMPHOGEAR XV（玛丽亚·卡登扎夫娜·伊芙、月读调、晓切歌）画：原田大基
 
 ## 增刊號
 

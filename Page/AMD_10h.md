@@ -259,7 +259,7 @@ AMD將在2009年開始試產下一代處理器核心架構**[Bulldozer](../Page/
 
   - [Software Optimization Guide for AMD Family 10h Processors](http://www.amd.com/us-en/assets/content_type/white_papers_and_tech_docs/40546.pdf)
 
-  - [TechReport: AMD outlines Future Goals](http://techreport.com/etc/2005q4/amd-direction/index.x?pg=1)
+  - [TechReport: AMD outlines Future Goals](https://web.archive.org/web/20061230235342/http://techreport.com/etc/2005q4/amd-direction/index.x?pg=1)
 
   - [DarkVision Hardware: AMD talks about K9, K10 future innovations](http://www.dvhardware.net/article2023.html)
 

@@ -575,7 +575,7 @@
 <td><p>DGC</p></td>
 <td></td>
 <td><p>Degeh Bur機場</p></td>
-<td><p>，<a href="https://zh.wikipedia.org/wiki/索馬里州" title="wikilink">索馬里州</a></p></td>
+<td><p>，<a href="../Page/索馬里州.md" title="wikilink">索馬里州</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -799,7 +799,7 @@
 <td><p>DIN</p></td>
 <td><p>VVDB</p></td>
 <td><p><a href="../Page/奠邊府機場.md" title="wikilink">奠邊府機場</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/奠邊府市" title="wikilink">奠邊府市</a>，<a href="https://zh.wikipedia.org/wiki/奠邊省" title="wikilink">奠邊省</a></p></td>
+<td><p><a href="../Page/奠邊府市.md" title="wikilink">奠邊府市</a>，<a href="https://zh.wikipedia.org/wiki/奠邊省" title="wikilink">奠邊省</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

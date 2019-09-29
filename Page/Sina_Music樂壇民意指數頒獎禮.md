@@ -19,7 +19,7 @@
 <tr class="odd">
 <td><p>SINA Music 最高收聽率二十大歌曲</p></td>
 <td><p>《重口味》——<a href="../Page/陳奕迅.md" title="wikilink">陳奕迅</a><br />
-《連續劇》——<a href="https://zh.wikipedia.org/wiki/容祖兒" title="wikilink">容祖兒</a><br />
+《連續劇》——<a href="../Page/容祖兒.md" title="wikilink">容祖兒</a><br />
 《大過天》——<a href="https://zh.wikipedia.org/wiki/Twins" title="wikilink">Twins</a><br />
 《爛命鴛鴦》——<a href="../Page/劉浩龍.md" title="wikilink">劉浩龍</a><br />
 《人非草木》——<a href="../Page/吳雨霏.md" title="wikilink">吳雨霏</a><br />
@@ -42,12 +42,12 @@
 <tr class="even">
 <td><p>SINA Music 電視劇主題曲大獎</p></td>
 <td><p>《此時此刻》——<a href="https://zh.wikipedia.org/wiki/薛凱琪" title="wikilink">薛凱琪</a><br />
-《連續劇》——<a href="https://zh.wikipedia.org/wiki/容祖兒" title="wikilink">容祖兒</a><br />
+《連續劇》——<a href="../Page/容祖兒.md" title="wikilink">容祖兒</a><br />
 《一生一心》——<a href="https://zh.wikipedia.org/wiki/胡鴻鈞" title="wikilink">胡鴻鈞</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>SINA Music 合唱歌曲大獎</p></td>
-<td><p>《雙子情歌》——<a href="https://zh.wikipedia.org/wiki/容祖兒" title="wikilink">容祖兒</a>、<a href="../Page/羅力威.md" title="wikilink">羅力威</a></p></td>
+<td><p>《雙子情歌》——<a href="../Page/容祖兒.md" title="wikilink">容祖兒</a>、<a href="../Page/羅力威.md" title="wikilink">羅力威</a></p></td>
 </tr>
 <tr class="even">
 <td><p>SINA Music 對唱演繹金曲大獎</p></td>
@@ -179,7 +179,7 @@
 </tr>
 <tr class="even">
 <td><p>我最喜愛全國女歌手</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/容祖兒" title="wikilink">容祖兒</a></p></td>
+<td><p><a href="../Page/容祖兒.md" title="wikilink">容祖兒</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>我最喜愛全國組合</p></td>
@@ -191,7 +191,7 @@
 </tr>
 <tr class="odd">
 <td><p>我最喜愛全國國語專輯</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Moment" title="wikilink">Moment</a>》——<a href="https://zh.wikipedia.org/wiki/容祖兒" title="wikilink">容祖兒</a></p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/Moment" title="wikilink">Moment</a>》——<a href="../Page/容祖兒.md" title="wikilink">容祖兒</a></p></td>
 </tr>
 <tr class="even">
 <td><p>我最喜愛至尊國語金曲</p></td>

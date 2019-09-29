@@ -119,7 +119,8 @@ vivo已经在马来西亚建成接近2000家销售点，售后服务中心也达
       - [vivo Y95](https://zh.wikipedia.org/wiki/vivo_Y95 "wikilink")
       - [vivo Y97](https://zh.wikipedia.org/wiki/vivo_Y97 "wikilink")
       - [vivo Y3](https://zh.wikipedia.org/wiki/vivo_Y3 "wikilink")
-      - [vivo Y7s](https://zh.wikipedia.org/wiki/vivo_Y7s "wikilink") (中國以外的地方稱為S1，俄羅斯稱則為V17 Neo)
+      - [vivo Y7s](https://zh.wikipedia.org/wiki/vivo_Y7s "wikilink")（中國以外的地方稱為S1，俄羅斯稱則為V17 Neo）
+      - [vivo Y90](https://zh.wikipedia.org/wiki/vivo_Y90 "wikilink")
   - V系列
       - [vivo V7](https://zh.wikipedia.org/wiki/vivo_V7 "wikilink")
       - [vivo V7 Plus](https://zh.wikipedia.org/wiki/vivo_V7_Plus "wikilink")
@@ -127,9 +128,10 @@ vivo已经在马来西亚建成接近2000家销售点，售后服务中心也达
       - [vivo V9 青春版](https://zh.wikipedia.org/wiki/vivo_V9_青春版 "wikilink")
       - [vivo V11](https://zh.wikipedia.org/wiki/vivo_V11 "wikilink")
       - [vivo V11i](https://zh.wikipedia.org/wiki/vivo_V11i "wikilink")
-      - [vivo V15](https://zh.wikipedia.org/wiki/vivo_V15 "wikilink") (中國內地稱為S1)
-      - [vivo V15 Pro](https://zh.wikipedia.org/wiki/vivo_V15_Pro "wikilink") (中國內地稱為S1 Pro)
-      - [vivo V17 Neo](https://zh.wikipedia.org/wiki/vivo_V17_Neo "wikilink") (俄羅斯版Y7s/S1)
+      - [vivo V15](https://zh.wikipedia.org/wiki/vivo_V15 "wikilink")（中國內地稱為S1）
+      - [vivo V15 Pro](https://zh.wikipedia.org/wiki/vivo_V15_Pro "wikilink")（中國內地稱為S1 Pro）
+      - [vivo V17 Neo](https://zh.wikipedia.org/wiki/vivo_V17_Neo "wikilink")（俄羅斯版Y7s/S1）
+      - [vivo V17 Pro](https://zh.wikipedia.org/wiki/vivo_V17_Pro "wikilink")
   - X系列
       - [vivo X1](https://zh.wikipedia.org/wiki/vivo_X1 "wikilink")
       - [vivo X1S](https://zh.wikipedia.org/wiki/vivo_X1S "wikilink")
@@ -169,20 +171,22 @@ vivo已经在马来西亚建成接近2000家销售点，售后服务中心也达
       - [vivo Z3X](https://zh.wikipedia.org/wiki/vivo_Z3X "wikilink")
       - [vivo Z3i](https://zh.wikipedia.org/wiki/vivo_Z3i "wikilink")
       - [vivo Z3i标準版](https://zh.wikipedia.org/wiki/vivo_Z3i标準版 "wikilink")
-      - [vivo Z5X](https://zh.wikipedia.org/wiki/vivo_Z5X "wikilink") (中國以外的地方稱為Z1 Pro)
-      - [vivo Z5](https://zh.wikipedia.org/wiki/vivo_Z5 "wikilink")
+      - [vivo Z5X](https://zh.wikipedia.org/wiki/vivo_Z5X "wikilink")（中國以外的地方稱為Z1 Pro）
+      - [vivo Z5](https://zh.wikipedia.org/wiki/vivo_Z5 "wikilink")（中國以外的地方稱為Z1x）
   - U系列
       - [vivo U1](https://zh.wikipedia.org/wiki/vivo_U1 "wikilink")
+      - [vivo U10](https://zh.wikipedia.org/wiki/vivo_U10 "wikilink")
   - S系列
-      - [vivo S1](https://zh.wikipedia.org/wiki/vivo_S1 "wikilink") (中國以外的地方本原型為Y7s/V17 Neo)
-      - [vivo S1 pro](https://zh.wikipedia.org/wiki/vivo_S1_pro "wikilink")
+      - [vivo S1](https://zh.wikipedia.org/wiki/vivo_S1 "wikilink")（中國以外的地方版本原型為Y7s/V17 Neo）
+      - [vivo S1 pro](https://zh.wikipedia.org/wiki/vivo_S1_pro "wikilink")（中國以外的地方稱為V15 Pro）
   - NEX系列
       - [vivo NEX](https://zh.wikipedia.org/wiki/vivo_NEX "wikilink")
       - [vivo NEX 雙屏版](https://zh.wikipedia.org/wiki/vivo_NEX_雙屏版 "wikilink")
+      - [vivo NEX 3/NEX 3 5G](https://zh.wikipedia.org/wiki/vivo_NEX_3/NEX_3_5G "wikilink")
   - iQOO
-      - [vivo iQOO](https://zh.wikipedia.org/wiki/vivo_iQOO "wikilink")
-      - [vivo iQOO Neo](https://zh.wikipedia.org/wiki/vivo_iQOO_Neo "wikilink")
-      - [vivo IQOO Pro/Pro 5G](https://zh.wikipedia.org/wiki/vivo_IQOO_Pro/Pro_5G "wikilink")
+      - [iQOO](https://zh.wikipedia.org/wiki/iQOO "wikilink")
+      - [iQOO Neo](https://zh.wikipedia.org/wiki/iQOO_Neo "wikilink")
+      - [IQOO Pro/Pro 5G](https://zh.wikipedia.org/wiki/IQOO_Pro "wikilink")
 
 ## 參考文獻
 

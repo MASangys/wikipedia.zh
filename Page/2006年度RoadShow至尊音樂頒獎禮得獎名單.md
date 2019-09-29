@@ -4,7 +4,7 @@
 
 ### 至尊歌曲
 
-  - 《華麗邂逅》 ——[容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")
+  - 《華麗邂逅》 ——[容祖兒](../Page/容祖兒.md "wikilink")
   - 《熱浪假期》 ——[Twins](https://zh.wikipedia.org/wiki/Twins "wikilink")
   - 《紅綠燈》 ——[鄭融](../Page/鄭融.md "wikilink")
   - 《在你遙遠的附近》 ——[方力申](../Page/方力申.md "wikilink")
@@ -83,7 +83,7 @@
 
 ## 至尊女歌手
 
-  - [容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")
+  - [容祖兒](../Page/容祖兒.md "wikilink")
   - [何韻詩](https://zh.wikipedia.org/wiki/何韻詩 "wikilink")
   - [衛蘭](../Page/衛蘭.md "wikilink")
 
@@ -99,7 +99,7 @@
 
 ## 至尊歌曲累積票數最高女歌手
 
-  - [容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")
+  - [容祖兒](../Page/容祖兒.md "wikilink")
 
 ## 至尊榮譽大獎
 

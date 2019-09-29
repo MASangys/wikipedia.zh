@@ -44,7 +44,7 @@ ATR公司曾計劃發展ATR 82型，載客量提升為78人，速度提高至610
 
 #### ATR 72-500型
 
-[TNA_ATR72.jpg](https://zh.wikipedia.org/wiki/File:TNA_ATR72.jpg "fig:TNA_ATR72.jpg")（已倒閉）的ATR 72-500型\]\] [Jet_Airways_ATR.jpg](https://zh.wikipedia.org/wiki/File:Jet_Airways_ATR.jpg "fig:Jet_Airways_ATR.jpg")的ATR 72-500\]\] [缩略图](https://zh.wikipedia.org/wiki/File:ATR-72-500_Precision_Air_Services_\(PRF\)_F-WWEW_-_MSN_923_-_Named_Kilimandjaro_-_Will_be_5H-PWG_\(5000147631\).jpg "fig:缩略图") 原始名稱即為ATR 72-212A型，於1997年1月完成認證。
+[TNA_ATR72.jpg](https://zh.wikipedia.org/wiki/File:TNA_ATR72.jpg "fig:TNA_ATR72.jpg")（已倒閉）的ATR 72-500型\]\] [Jet_Airways_ATR.jpg](https://zh.wikipedia.org/wiki/File:Jet_Airways_ATR.jpg "fig:Jet_Airways_ATR.jpg")（已倒閉）的ATR 72-500\]\] [缩略图](https://zh.wikipedia.org/wiki/File:ATR-72-500_Precision_Air_Services_\(PRF\)_F-WWEW_-_MSN_923_-_Named_Kilimandjaro_-_Will_be_5H-PWG_\(5000147631\).jpg "fig:缩略图") 原始名稱即為ATR 72-212A型，於1997年1月完成認證。
 
 #### ATR 72-600型
 

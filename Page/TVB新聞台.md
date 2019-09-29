@@ -2,8 +2,6 @@
 
 該頻道的主要競爭對手為[香港有線電視](../Page/香港有線電視.md "wikilink")擁有的[有線新聞台](../Page/有線新聞台.md "wikilink")及[now寬頻電視擁有的](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")[now新聞台](https://zh.wikipedia.org/wiki/now新聞台 "wikilink")。
 
-雖然無綫網絡電視已交還香港收費電視牌照，但香港nowTV仍會繼續播放並接受用戶申請包括本頻道在內的無綫收費頻道。另外，以海外觀眾為收視群的TVB Anywhere依然播放本頻道。
-
 ## 節目內容
 
 TVB新聞台節目內容基本上與無綫新聞台無異，一些分別如下：

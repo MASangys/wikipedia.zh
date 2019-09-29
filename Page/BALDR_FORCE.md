@@ -1158,11 +1158,6 @@ TEAM BALDRHEAD其後的作品《[DUEL SAVIOR](../Page/DUEL_SAVIOR.md "wikilink")
 
 ## 註釋
 
-## 關聯項目
-
-  - [BALDR FORCE EXE RESOLUTION](../Page/BALDR_FORCE_EXE_RESOLUTION.md "wikilink")
-  - [I've Sound](../Page/I've.md "wikilink")
-
 ## 参考資料
 
 <div class="references-small">

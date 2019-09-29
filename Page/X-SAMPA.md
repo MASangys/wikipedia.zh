@@ -1449,4 +1449,4 @@
   - [X-SAMPA to IPA comparison chart](http://www.conmicro.cx/~kturtle/language/xsamchart.gif)
   - [Online converter between IPA and X-Sampa](http://www.theiling.de/ipa/)
 
-[Category:音標](https://zh.wikipedia.org/wiki/Category:音標 "wikilink")
+[Category:音標](https://zh.wikipedia.org/wiki/Category:音標 "wikilink") [Category:SAMPA](https://zh.wikipedia.org/wiki/Category:SAMPA "wikilink")

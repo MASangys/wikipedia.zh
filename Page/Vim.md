@@ -165,7 +165,6 @@ Neovim项目从2014年发起，有许多来自Vim社区的开源开发者为其�
   - [vim.org](http://www.vim.org)（官方主页）
   - [Vim Chinese Documentation](http://vimcdoc.sourceforge.net/)（Vim中文文档）
   - [spanish passion](https://web.archive.org/web/20061017100558/http://www15.ocn.ne.jp/~tusr/index.html)
-  - [VimWiki](http://vimwiki.net/)
   - [大家來學VIM（一個歷久彌新的編輯器）](http://www.study-area.org/tips/vim/index.html)
   - [碎碎念](https://web.archive.org/web/20061209122328/http://blah.blogsome.com/)（HQ零零E的Vim进阶blog）
 

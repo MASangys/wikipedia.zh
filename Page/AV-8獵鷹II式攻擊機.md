@@ -75,12 +75,16 @@ TAV-8B是[美國海軍陸戰隊的雙座獵鷹II式攻擊機](https://zh.wikiped
 
 [McDONNELL_DOUGLAS,_BAe_AV-8B_HARRIER_II.png](https://zh.wikipedia.org/wiki/File:McDONNELL_DOUGLAS,_BAe_AV-8B_HARRIER_II.png "fig:McDONNELL_DOUGLAS,_BAe_AV-8B_HARRIER_II.png")
 
+## 流行文化
+
+  - 1994年，美國荷里活電影[真實的謊言裡有AV](https://zh.wikipedia.org/wiki/真實的謊言 "wikilink")-8B獵鷹II式出場。
+  - 1996年，美國[百事可樂](../Page/百事可樂.md "wikilink")竟然拿AV-8B作為積分大獎的終極獎品，而當有人真的中獎，百事可樂又反口話祇是廣告。
+
 ## 類似機種
 
   - [Yak-38](https://zh.wikipedia.org/wiki/Yak-38 "wikilink")
   - [Yak-141](https://zh.wikipedia.org/wiki/Yak-141 "wikilink")
   - [XFV-12](https://zh.wikipedia.org/wiki/XFV-12 "wikilink")
-  - [JAS-39](https://zh.wikipedia.org/wiki/JAS-39 "wikilink")
   - [F-35](../Page/F-35閃電II戰鬥機.md "wikilink")
 
 ## 參考文獻
@@ -93,6 +97,7 @@ TAV-8B是[美國海軍陸戰隊的雙座獵鷹II式攻擊機](https://zh.wikiped
   - [McDonnell Douglas/British Aerospace AV-8B Harrier II Attack Fighter page](http://www.aerospaceweb.org/aircraft/attack/av8/) on Aerospaceweb.org
   - [RTP-TV AeroSpace Show: Video of Harrier Hovering](http://www.rtptv.homestead.com/rtpharrier.html)
   - [3D view of Harrier AV-8B](http://www.virtualusmcmuseum.com/3-D_Models2.asp?pc_strURL=Tower_3&strModel=VR_Harrier) at the National Museum of the Marines Corps site
+  - [1996 Pepsi Points](https://www.youtube.com/watch?v=YJtBECMvaig)
 
 [Category:美國攻擊機](https://zh.wikipedia.org/wiki/Category:美國攻擊機 "wikilink") [Category:垂直起降機](https://zh.wikipedia.org/wiki/Category:垂直起降機 "wikilink") [Category:艦載機](https://zh.wikipedia.org/wiki/Category:艦載機 "wikilink") [Category:美國海軍陸戰隊裝備](https://zh.wikipedia.org/wiki/Category:美國海軍陸戰隊裝備 "wikilink")
 

@@ -10,13 +10,13 @@
 
 但是，在那个组织3大首领中，有间谍。并想统治世界。
 
-主角（男／女）
+主角（男；葛雷/女；雅雪）
 
 <table>
 <thead>
 <tr class="header">
-<th><p>男</p></th>
-<th><p>女</p></th>
+<th><p>葛雷</p></th>
+<th><p>雅雪</p></th>
 </tr>
 </thead>
 <tbody>

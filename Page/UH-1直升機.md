@@ -196,7 +196,7 @@ UH-1直升機大量装备美军，在越南战争中成为美军不可或缺的�
   - [UH-1 Huey](https://web.archive.org/web/20110405092751/http://www.vectorsite.net/avhuey.html)
   - [AF.mil-UH-1N HUEY](https://web.archive.org/web/20070613004018/http://www.af.mil/factsheets/factsheet.asp?id=130)
 
-[Category:美國軍用直升機](https://zh.wikipedia.org/wiki/Category:美國軍用直升機 "wikilink") [Category:越戰武器](https://zh.wikipedia.org/wiki/Category:越戰武器 "wikilink") [Category:中華民國陸軍航空器](https://zh.wikipedia.org/wiki/Category:中華民國陸軍航空器 "wikilink")
+[Category:美國軍用直升機](https://zh.wikipedia.org/wiki/Category:美國軍用直升機 "wikilink") [Category:越戰武器](https://zh.wikipedia.org/wiki/Category:越戰武器 "wikilink") [Category:中華民國陸軍航空器](https://zh.wikipedia.org/wiki/Category:中華民國陸軍航空器 "wikilink") [Category:輕型直升機](https://zh.wikipedia.org/wiki/Category:輕型直升機 "wikilink") [Category:貝爾航空器](https://zh.wikipedia.org/wiki/Category:貝爾航空器 "wikilink")
 
 1.  [Canadian DND Bell CH-118 Iroquois webpage（於2007年8月30日存取）](http://www.airforce.forces.gc.ca/equip/historical/iroquoislst_e.asp)
 2.  [UH-1H直昇機（1969\~1976）](http://www.aidc.com.tw/tw/services-1-1.asp?NumberID=s107) ，漢翔公司

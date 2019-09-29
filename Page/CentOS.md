@@ -1,4 +1,4 @@
-****（）是發行版之一，它是來自於依照[開放原始碼規定釋出的原始碼所編譯而成](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")。由於出自同樣的原始碼，因此有些要求高度穩定性的伺服器以CentOS替代商業版的[Red Hat Enterprise Linux使用](../Page/Red_Hat_Enterprise_Linux.md "wikilink")。兩者的不同，在於CentOS並不包含封闭原始碼軟體。CentOS 对上游代码的主要修改是为了移除不能自由使用的商标。\[1\]2014年，CentOS宣布与Red Hat合作\[2\]，但CentOS将会在新的委员会下继续运作，并不受RHEL的影响\[3\]。
+****（）是[Linux发行版](../Page/Linux发行版.md "wikilink")之一，它是來自於(RHEL)依照[開放原始碼規定釋出的原始碼所編譯而成](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")。由於出自同樣的原始碼，因此有些要求高度穩定性的伺服器以CentOS替代商業版的[Red Hat Enterprise Linux使用](../Page/Red_Hat_Enterprise_Linux.md "wikilink")。兩者的不同，在於CentOS並不包含封闭原始碼軟體。CentOS 对上游代码的主要修改是为了移除不能自由使用的商标。\[1\]2014年，CentOS宣布与Red Hat合作\[2\]，但CentOS将会在新的委员会下继续运作，并不受RHEL的影响\[3\]。
 
 CentOS和[RHEL一样](https://zh.wikipedia.org/wiki/RHEL "wikilink")，都可以使用[Fedora EPEL来补足软件](https://zh.wikipedia.org/wiki/Fedora#发行 "wikilink")。
 
@@ -90,6 +90,7 @@ CentOS 5和RHEL 5已经在2017年3月31日结束生命周期。\[7\]
 | 7-1708          | x86-64                                                            | 7.4     | 2017-09-13\[89\]                                       | 2017-08-01\[90\]                                                             |
 | 7-1804          | x86-64                                                            | 7.5     | 2018-05-10\[91\]                                       | 2018-04-10\[92\]                                                             |
 | 7-1810          | x86-64                                                            | 7.6     | 2018-12-03\[93\]                                       | 2018-10-30\[94\]                                                             |
+| 7-1908          | x86-64                                                            | 7.7     | 2019-09-17\[95\]                                       | 2019-08-06\[96\]                                                             |
 
 按照CentOS 5和6 RHEL的生命週期策略與上游供應商的改變也將支持為10年。
 
@@ -300,3 +301,7 @@ CentOS 5和RHEL 5已经在2017年3月31日结束生命周期。\[7\]
 93.
 
 94.
+
+95.
+
+96.

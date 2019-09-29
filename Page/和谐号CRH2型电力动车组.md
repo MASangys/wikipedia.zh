@@ -42,7 +42,7 @@ CRH2A在中国高铁列车里最先应用的纯平窗台、采用前后分隔的
 
 ### 衍生多种车型
 
-[缩略图](https://zh.wikipedia.org/wiki/File:CRH2B型电力动车组行驶在萧甬铁路上.jpg "fig:缩略图") [CRH2-090C_at_xian.jpg](https://zh.wikipedia.org/wiki/File:CRH2-090C_at_xian.jpg "fig:CRH2-090C_at_xian.jpg")\]\] [CRH2-126E_in_Ningbo_Railway_Station.JPG](https://zh.wikipedia.org/wiki/File:CRH2-126E_in_Ningbo_Railway_Station.JPG "fig:CRH2-126E_in_Ningbo_Railway_Station.JPG")\]\] 在国产化之后，CRH2系列亦衍生了多组类别车型，如长大编组型、高速型以及卧鋪型等系列。后来又在CRH2系列上研制了新型高速动车组及通勤列车。
+[CRH2-090C_at_xian.jpg](https://zh.wikipedia.org/wiki/File:CRH2-090C_at_xian.jpg "fig:CRH2-090C_at_xian.jpg")\]\] [CRH2-126E_in_Ningbo_Railway_Station.JPG](https://zh.wikipedia.org/wiki/File:CRH2-126E_in_Ningbo_Railway_Station.JPG "fig:CRH2-126E_in_Ningbo_Railway_Station.JPG")\]\] 在国产化之后，CRH2系列亦衍生了多组类别车型，如长大编组型、高速型以及卧鋪型等系列。后来又在CRH2系列上研制了新型高速动车组及通勤列车。
 
 2005年6月至9月，原中华人民共和国铁道部展開時速300公里級別的第二輪高速動車組招標，这一次招标形式与第一次时速200公里级别动车组招标明显不同，当时中国大陆刚刚发生了广泛的[反日示威活动](../Page/2005年中国反日示威活动.md "wikilink")，为避免引起反日情绪，原中华人民共和国铁道部和其代理中技国际招标公司并未发布招标公告，而是采用了“竞争性谈判”（政府采购方式的一种，即小范围内地展开报价和谈判）的方式；铁道部更一度否认与日本进行订购谈判，中国南车青岛四方机车车辆股份有限公司与日本川崎重工也没有公开明确表态\[14\]。结果继德国[西门子及](https://zh.wikipedia.org/wiki/西门子 "wikilink")[唐山軌道客車联合中标后](https://zh.wikipedia.org/wiki/唐山軌道客車 "wikilink")，[四方机车车辆股份有限公司和](https://zh.wikipedia.org/wiki/中国南车集团 "wikilink")“日本企业联合体”再次联合成功中标。\[15\] 并获得60列**CRH2C型**动车组的订单，其中包括了**CRH2C第一阶段**和**CRH2C第二阶段**，合同金额总值95亿元人民币。根据合同要求，CRH2C（第一阶段）的设计指标为：持续运营时速280公里，最高营运时速为300公里（实际最高营运速度为350公里），最高实验时速350公里，标称时速300公里，列车装有两副[集電弓](../Page/集電弓.md "wikilink")。运用于新建的[高速城际铁路及客运专线](https://zh.wikipedia.org/wiki/中國高速鐵路 "wikilink")。
 

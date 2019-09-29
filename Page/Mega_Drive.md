@@ -44,7 +44,7 @@ Mega Drive的游戏库最初较小，但是最终成长成为含有各种游戏�
 
 1991年，CD作为音乐和软件的[儲存裝置](../Page/儲存裝置.md "wikilink")开始流行。由于见到CD对于其竞争者具有巨大优势，世嘉开始与[JVC](../Page/JVC.md "wikilink")合作，开始为Mega Drive制作一款附加的CD-ROM设备。
 
-銷售量600萬部\[5\])
+銷售量600萬部\[5\]
 
 ### 32X
 
@@ -83,7 +83,7 @@ Mega Drive通常被认为是最为出色的游戏机中的一个。2009年，IGN
 
 ## Mega Drive Mini
 
-2018年4月14日，世嘉於「SEGA Fes」活動上宣布推出「Mega Drive Mini」版，紀念此系列主機推出30週年，內置多款如《[音速小子](https://zh.wikipedia.org/wiki/音速小子 "wikilink")》等以往經典遊戲\[8\]\[9\]，並將於2019年9月19日在全球發行\[10\]。
+2018年4月14日，世嘉於「SEGA Fes」活動上宣布推出「Mega Drive Mini」版\[8\]\[9\]，紀念此系列主機推出30週年，內置多款如《[音速小子](https://zh.wikipedia.org/wiki/音速小子 "wikilink")》等42款經典遊戲，於2019年9月19日在全球發行\[10\]。
 
 ## 参考资料
 

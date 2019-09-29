@@ -108,7 +108,7 @@
 
 2014年11月，發展商斥資數千萬元翻新商場入口及其他設施工程，已陸續完工。\[10\]
 
-到2019年初，將來往地下至2樓其中兩條的扶手電梯移除。
+到2019年初，發展商將來往地下至2樓其中兩條的扶手電梯移除以增加AEON百貨的面積。
 
 ## 停車場
 
@@ -140,7 +140,10 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>港鐵</p>
+<td><dl>
+<dt>港鐵</dt>
+
+</dl>
 <ul>
 <li>九龍灣站 A 出口（步行8-10分鐘）或在德福廣場乘搭免費接駁巴士前往 MegaBox</li>
 <li>環保連接系統九龍灣商貿區站（擬建）</li>
@@ -150,10 +153,7 @@
 
 </dl>
 <ul>
-<li><a href="https://zh.wikipedia.org/wiki/MegaBox免費穿梭巴士" title="wikilink">MegaBox免費穿梭巴士</a>[13]
-<ul>
-<li>MegaBox ↔︎ <a href="../Page/德福廣場公共運輸交匯處.md" title="wikilink">九龍灣港鐵站</a></li>
-</ul></li>
+<li>MegaBox免費穿梭巴士（<a href="../Page/德福廣場公共運輸交匯處.md" title="wikilink">九龍灣站</a> ⇄ MegaBox）[13]</li>
 </ul>
 <dl>
 <dt><a href="../Page/九龍灣公共運輸交匯處.md" title="wikilink">九龍灣公共運輸交匯處</a></dt>
@@ -168,15 +168,21 @@
 
 </dl>
 <dl>
-<dt><a href="../Page/臨豐街.md" title="wikilink">臨豐街</a><br />
-<a href="https://zh.wikipedia.org/wiki/紅色小巴" title="wikilink">紅色小巴</a></dt>
+<dt><a href="../Page/臨豐街.md" title="wikilink">臨豐街</a></dt>
 
 </dl>
+<div class="NavFrame" style="clear:no; margin:0 auto">
+<div class="NavHead">
+<p><strong>紅色小巴</strong></p>
+</div>
+<div class="NavContent">
 <ul>
 <li>九龍灣至旺角線[14]</li>
 <li>九龍灣至荃灣線 (上午及下午服務)[15]</li>
 <li>九龍灣至柴灣線 (上午及下午服務)[16]</li>
 </ul>
+</div>
+</div>
 <dl>
 <dt><a href="../Page/啟福道.md" title="wikilink">啟福道</a></dt>
 
@@ -199,18 +205,18 @@
 
 商場「MegaBox」於2007年6月1日正式開幕。商場為吸引更多市民前往該商場，管理公司委托[陽光巴士](../Page/陽光巴士.md "wikilink")設立6條免費穿梭巴士路線，包括：
 
-  - MegaBox↔[九龍灣站](../Page/九龍灣站.md "wikilink")
-  - MegaBox↔[九龍灣站](../Page/九龍灣站.md "wikilink")、宏天廣場及企業廣場2期 (已停辦)
-  - MegaBox↔[觀塘](../Page/觀塘.md "wikilink")[裕民坊](../Page/裕民坊.md "wikilink")及[巧明街](https://zh.wikipedia.org/wiki/巧明街 "wikilink") (已停辦)
-  - MegaBox↔[鑽石山](../Page/鑽石山.md "wikilink")[鳳德道](https://zh.wikipedia.org/wiki/鳳德道 "wikilink") (已停辦)
-  - MegaBox↔[九龍塘站](../Page/九龍塘站_\(香港\).md "wikilink") (已停辦)
-  - MegaBox→[鯉魚門廣場](../Page/鯉魚門廣場.md "wikilink")→[麗港城](../Page/麗港城.md "wikilink")(已停辦)
+  - MegaBox ⇄ [九龍灣站](../Page/九龍灣站.md "wikilink")
+  - MegaBox ⇄ [九龍灣站](../Page/九龍灣站.md "wikilink")、宏天廣場及企業廣場2期 (已停辦)
+  - MegaBox ⇄ [觀塘](../Page/觀塘.md "wikilink")[裕民坊](../Page/裕民坊.md "wikilink")及[巧明街](https://zh.wikipedia.org/wiki/巧明街 "wikilink") (已停辦)
+  - MegaBox ⇄ [鑽石山](../Page/鑽石山.md "wikilink")[鳳德道](https://zh.wikipedia.org/wiki/鳳德道 "wikilink") (已停辦)
+  - MegaBox ⇄ [九龍塘站](../Page/九龍塘站_\(香港\).md "wikilink") (已停辦)
+  - MegaBox → [鯉魚門廣場](../Page/鯉魚門廣場.md "wikilink") → [麗港城](../Page/麗港城.md "wikilink")(已停辦)
 
-但2008年至2013年5月，MegaBox免費穿梭巴士只剩下來往九龍灣港鐵站的路線。 直至2013年6月12日，[啟德郵輪碼頭](../Page/啟德郵輪碼頭.md "wikilink")啟用，曾設MegaBox↔[啟德郵輪碼頭的路線方便遊客觀光](https://zh.wikipedia.org/wiki/啟德郵輪碼頭地面運輸交匯處 "wikilink")。(已停辦)
+但2008年至2013年5月，MegaBox免費穿梭巴士只剩下來往九龍灣港鐵站的路線。 直至2013年6月12日，[啟德郵輪碼頭](../Page/啟德郵輪碼頭.md "wikilink")啟用，曾設MegaBox ⇄ [啟德郵輪碼頭的路線方便遊客觀光](https://zh.wikipedia.org/wiki/啟德郵輪碼頭地面運輸交匯處 "wikilink")。(已停辦)
 
-|- |1||[九龍灣](../Page/九龍灣.md "wikilink")||||[九龍灣站](../Page/德福廣場公共運輸交匯處.md "wikilink")|| |- |2||[九龍灣](../Page/九龍灣.md "wikilink")||||**MegaBox**||
+|- |1||[九龍灣](../Page/九龍灣.md "wikilink")||||[九龍灣站](../Page/德福廣場公共運輸交匯處.md "wikilink")|| |- |2||[九龍灣](../Page/九龍灣.md "wikilink")||||MegaBox||
 
-|- |1||[九龍灣](../Page/九龍灣.md "wikilink")||||**MegaBox**|| |- |2||[九龍灣](../Page/九龍灣.md "wikilink")||||[九龍灣站](../Page/德福廣場公共運輸交匯處.md "wikilink")||
+|- |1||[九龍灣](../Page/九龍灣.md "wikilink")||||MegaBox|| |- |2||[九龍灣](../Page/九龍灣.md "wikilink")||||[九龍灣站](../Page/德福廣場公共運輸交匯處.md "wikilink")||
 
 ## 鄰近
 

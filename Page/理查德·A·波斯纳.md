@@ -1,4 +1,4 @@
-**理查德·艾倫·波斯纳**（**Richard Allen Posner**，），[美国联邦第七巡回上诉法院](../Page/美国联邦第七巡回上诉法院.md "wikilink")法官、前首席法官，[芝加哥大学](../Page/芝加哥大学.md "wikilink")法学院高级讲师（Senior Lecturer），[法律经济学](../Page/法律经济学.md "wikilink")运动的重要人物。\[1\]
+**理查德·艾倫·波斯纳**（**Richard Allen Posner**，），[美国联邦第七巡回上诉法院](../Page/美国联邦第七巡回上诉法院.md "wikilink")法官、前首席法官，[芝加哥大学](../Page/芝加哥大学.md "wikilink")法学院高级讲师（Senior Lecturer），[法律经济学](../Page/法律经济学.md "wikilink")的创始人之一。\[1\]\[2\]
 
 ## 人物生平
 
@@ -8,13 +8,13 @@
 
 ### 学术生涯
 
-1968年，任教于[史丹佛大学法学院](https://zh.wikipedia.org/wiki/史丹佛大学 "wikilink")。1969年起，任教于[芝加哥大学](../Page/芝加哥大学.md "wikilink")法学院，是[法律经济学](../Page/法律经济学.md "wikilink")运动的重要人物。\[2\]
+1968年，任教于[史丹佛大学法学院](https://zh.wikipedia.org/wiki/史丹佛大学 "wikilink")。1969年起，任教于[芝加哥大学](../Page/芝加哥大学.md "wikilink")法学院，是[法律经济学](../Page/法律经济学.md "wikilink")运动的重要人物。\[3\]
 
 ### 法官生涯
 
 1981年，美国总统[罗纳德·里根](../Page/罗纳德·里根.md "wikilink")任命波斯纳为[美国联邦第七巡回上诉法院](../Page/美国联邦第七巡回上诉法院.md "wikilink")法官。1993-2000年间任首席法官。
 
-2017年9月1日，波斯納宣佈從第七巡回区退休，次日生效。\[3\] [Richard-A-Posner.jpg](https://zh.wikipedia.org/wiki/File:Richard-A-Posner.jpg "fig:Richard-A-Posner.jpg")
+2017年9月1日，波斯納宣佈從第七巡回区退休，次日生效。\[4\] [Richard-A-Posner.jpg](https://zh.wikipedia.org/wiki/File:Richard-A-Posner.jpg "fig:Richard-A-Posner.jpg")
 
 ## 人物著作
 
@@ -33,4 +33,6 @@
 1.
 
 2.
+
 3.
+4.

@@ -24,6 +24,10 @@
 
 [2008年12月](../Page/2008年12月.md "wikilink")，策劃縱火案的主謀，綽號「上帝」的蔡錦輝在[深圳被公安拘捕](https://zh.wikipedia.org/wiki/深圳 "wikilink")，於同年12月19日被引渡返回香港\[2\]\[3\]。於2010年4月15日，案件於高等法院開審，同年5月3日，蔡錦輝被裁定[謀殺](../Page/謀殺.md "wikilink")罪名成立\[4\]，判處終身監禁。
 
+## 改編影視作品
+
+  - 1997年[香港電影](https://zh.wikipedia.org/wiki/香港電影 "wikilink")《[猛鬼卡拉OK](http://hkmdb.com/db/movies/view.mhtml?id=8304&display_set=big5)》
+
 ## 參考資料
 
 ## 外部連結

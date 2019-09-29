@@ -71,7 +71,7 @@ Foxy目前的最新版本Foxy.1.9.10.TC.Setup.exe被懷疑夾帶木馬，可能�
   - [Foxy官方網址](http://www.gofoxy.net/)
   - [Linux layer 7 packet classifier](http://sourceforge.net/projects/l7-filter/)
 
-[Category:下載工具](https://zh.wikipedia.org/wiki/Category:下載工具 "wikilink") [Category:免費軟體](https://zh.wikipedia.org/wiki/Category:免費軟體 "wikilink") [Category:檔案分享程式](https://zh.wikipedia.org/wiki/Category:檔案分享程式 "wikilink") [Category:广告软件](https://zh.wikipedia.org/wiki/Category:广告软件 "wikilink") [Category:P2P](https://zh.wikipedia.org/wiki/Category:P2P "wikilink") [Category:下載工具](https://zh.wikipedia.org/wiki/Category:下載工具 "wikilink") [Category:免費軟體](https://zh.wikipedia.org/wiki/Category:免費軟體 "wikilink") [Category:檔案分享](https://zh.wikipedia.org/wiki/Category:檔案分享 "wikilink") [Category:P2P](https://zh.wikipedia.org/wiki/Category:P2P "wikilink")
+[Category:下載工具](https://zh.wikipedia.org/wiki/Category:下載工具 "wikilink") [Category:免費軟體](https://zh.wikipedia.org/wiki/Category:免費軟體 "wikilink") [Category:檔案分享程式](https://zh.wikipedia.org/wiki/Category:檔案分享程式 "wikilink") [Category:广告软件](https://zh.wikipedia.org/wiki/Category:广告软件 "wikilink") [Category:P2P](https://zh.wikipedia.org/wiki/Category:P2P "wikilink")
 
 1.  此情況為Foxy遭有心人士串改發佈，而非原程式含木馬。
 2.  [港入境個資外洩機密檔曝光{{〈}}大紀元時報{{〉}} 2008年5月10日](http://news.epochtimes.com.tw/8/5/10/84026.htm)

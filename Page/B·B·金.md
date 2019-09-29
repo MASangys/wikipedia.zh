@@ -6,7 +6,7 @@
 
 1947年，B·B·金开始为位于[洛杉矶](../Page/洛杉矶.md "wikilink")的RPM唱片录制歌曲。金的很多早期作品都是由[山姆·菲利普斯](https://zh.wikipedia.org/wiki/山姆·菲利普斯 "wikilink")（Sam Phillips）制作，后来他为太阳唱片工作。他还是[孟菲斯的一个唱片音乐节目主持人](https://zh.wikipedia.org/wiki/孟菲斯 "wikilink")，节目播出时称他为「比尔街布鲁斯男孩」（Beale Street Blues Boy），后来直接称为「布鲁斯男孩」，缩写B.B.。\[3\]
 
-1950年代，B·B·金成为[节奏布鲁斯](../Page/节奏布鲁斯.md "wikilink")音乐重要的一分子。他的作品包括《你知道我爱你》（*You Know I Love You*）、《早晨醒来》（*Woke Up This Morning*）、《请爱我》（*Please Love Me*）、《当我心如锤般跳动》（*When My Heart Beats like a Hammer*）、《你让我不安，宝贝》（*You Upset Me Baby*）、《每天我都拥有布鲁斯》（*Every Day I Have the Blues*）、《逃走》（*Sneakin' Around*）、《十年》（*Ten Long Years*）、，《坏运气》（*Bad Luck*）、《可爱的小安琪儿》（*Sweet Little Angel*）和《请接受我的爱》（*Please Accept My Love*）等。
+1950年代，B·B·金成为[节奏布鲁斯](../Page/节奏布鲁斯.md "wikilink")音乐重要的一分子。他的作品包括《你知道我爱你》（*You Know I Love You*）、《早晨醒来》（*Woke Up This Morning*）、《请爱我》（*Please Love Me*）、《当我心如锤般跳动》（*When My Heart Beats like a Hammer*）、《你让我不安，宝贝》（*You Upset Me Baby*）、《每天我都拥有布鲁斯》（*Every Day I Have the Blues*）、《逃走》（*Sneakin' Around*）、《十年》（*Ten Long Years*）、《坏运气》（*Bad Luck*）、《可爱的小安琪儿》（*Sweet Little Angel*）和《请接受我的爱》（*Please Accept My Love*）等。
 
 1962年，他签约ABC唱片公司。
 
@@ -56,6 +56,7 @@
   - 1995年，B·B·金荣获[肯尼迪中心荣誉奖](../Page/肯尼迪中心荣誉奖.md "wikilink")\[12\]。
   - 2004年，[密西西比大学](../Page/密西西比大学.md "wikilink")授予B·B·金荣誉博士学位，[瑞典皇家音乐学会由于B](https://zh.wikipedia.org/wiki/瑞典皇家音乐学会 "wikilink")·B·金在布鲁斯音乐的杰出贡献，授予他[保拉音乐奖](../Page/保拉音乐奖.md "wikilink")\[13\]。
   - 2006年12月15日，[乔治·沃克·布什](../Page/乔治·沃克·布什.md "wikilink")[总统授予B](https://zh.wikipedia.org/wiki/总统 "wikilink")·B·金[总统自由勋章](https://zh.wikipedia.org/wiki/总统自由勋章 "wikilink")\[14\]。
+  - 2019年9月16日，為了紀念B·B·金94歲誕辰，搜尋引擎[谷歌推出了](https://zh.wikipedia.org/wiki/谷歌 "wikilink")[Google塗鴉紀念B](https://zh.wikipedia.org/wiki/Google塗鴉 "wikilink")·B·金。
 
 ### 葛莱美奖
 

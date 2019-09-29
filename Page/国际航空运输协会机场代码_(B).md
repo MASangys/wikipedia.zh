@@ -43,7 +43,7 @@
 <td><p>BAC</p></td>
 <td></td>
 <td><p>巴蘭卡德烏皮亞機場</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/梅塔省" title="wikilink">梅塔省</a><a href="https://zh.wikipedia.org/wiki/巴蘭卡德烏皮亞" title="wikilink">巴蘭卡德烏皮亞</a></p></td>
+<td><p><a href="../Page/梅塔省.md" title="wikilink">梅塔省</a><a href="https://zh.wikipedia.org/wiki/巴蘭卡德烏皮亞" title="wikilink">巴蘭卡德烏皮亞</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -204,14 +204,14 @@
 <td><p>BBC</p></td>
 <td><p>KBYY</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/德克薩斯州" title="wikilink">德克薩斯州</a>" "</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/德克薩斯州" title="wikilink">德克薩斯州</a>" <a href="../Page/貝城_(德克薩斯州).md" title="wikilink">貝城</a>"</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>BBD</p></td>
 <td><p>KBBD</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/德克薩斯州" title="wikilink">德克薩斯州</a>" "</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/德克薩斯州" title="wikilink">德克薩斯州</a>" <a href="../Page/布雷迪_(德克薩斯州).md" title="wikilink">布雷迪</a>"</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -337,7 +337,7 @@
 <td><p>BBW</p></td>
 <td><p>KBBW</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/內布拉斯加州" title="wikilink">內布拉斯加州</a>" "</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/內布拉斯加州" title="wikilink">內布拉斯加州</a>" <a href="../Page/布羅肯鮑_(內布拉斯加州).md" title="wikilink">布羅肯鮑</a>"</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1478,7 +1478,7 @@
 <td><p>BIE</p></td>
 <td><p>KBIE</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/內布拉斯加州" title="wikilink">內布拉斯加州</a>" "</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/內布拉斯加州" title="wikilink">內布拉斯加州</a>" <a href="../Page/比阿特麗斯_(內布拉斯加州).md" title="wikilink">比阿特麗斯</a>"</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1842,7 +1842,7 @@
 <td><p>BKD</p></td>
 <td><p>KBKD</p></td>
 <td><p>斯蒂芬斯縣機場</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/德克薩斯州" title="wikilink">德克薩斯州</a>" "</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/德克薩斯州" title="wikilink">德克薩斯州</a>" <a href="../Page/布雷肯里奇_(德克薩斯州).md" title="wikilink">布雷肯里奇</a>"</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2388,7 +2388,7 @@
 <td><p>BNC</p></td>
 <td><p>FZNP</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/北基伍省" title="wikilink">北基伍省</a>" "</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/北基伍省" title="wikilink">北基伍省</a>" <a href="../Page/貝尼_(剛果民主共和國).md" title="wikilink">貝尼</a>"</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -3501,7 +3501,7 @@
 <td><p>BUB</p></td>
 <td><p>KBUB</p></td>
 <td><p>Cram飛行場</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/內布拉斯加州" title="wikilink">內布拉斯加州</a>" "</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/內布拉斯加州" title="wikilink">內布拉斯加州</a>" <a href="../Page/布韋爾_(內布拉斯加州).md" title="wikilink">布韋爾</a>"</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -3837,7 +3837,7 @@
 <td><p>BWD</p></td>
 <td><p>KBWD</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/德克薩斯州" title="wikilink">德克薩斯州</a>" "</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/德克薩斯州" title="wikilink">德克薩斯州</a>" <a href="../Page/布朗伍德_(德克薩斯州).md" title="wikilink">布朗伍德</a>"</p></td>
 <td></td>
 </tr>
 <tr class="even">

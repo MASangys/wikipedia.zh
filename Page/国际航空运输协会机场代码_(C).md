@@ -407,7 +407,7 @@
 <td><p>CCG</p></td>
 <td></td>
 <td><p>克倫縣機場</p></td>
-<td><p>，<a href="https://zh.wikipedia.org/wiki/德克薩斯州" title="wikilink">德克薩斯州</a></p></td>
+<td><p><a href="../Page/克倫_(德克薩斯州).md" title="wikilink">克倫</a>，<a href="https://zh.wikipedia.org/wiki/德克薩斯州" title="wikilink">德克薩斯州</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -463,7 +463,7 @@
 <td><p>CCO</p></td>
 <td><p>SKCI</p></td>
 <td><p>Carimagua機場</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛佩斯港_(梅塔省)" title="wikilink">洛佩斯港</a>，<a href="https://zh.wikipedia.org/wiki/梅塔省" title="wikilink">梅塔省</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/洛佩斯港_(梅塔省)" title="wikilink">洛佩斯港</a>，<a href="../Page/梅塔省.md" title="wikilink">梅塔省</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -652,7 +652,7 @@
 <td><p>CDS</p></td>
 <td><p>KCDS</p></td>
 <td></td>
-<td><p>，<a href="https://zh.wikipedia.org/wiki/德克薩斯州" title="wikilink">德克薩斯州</a></p></td>
+<td><p><a href="../Page/柴爾德里斯_(德克薩斯州).md" title="wikilink">柴爾德里斯</a>，<a href="https://zh.wikipedia.org/wiki/德克薩斯州" title="wikilink">德克薩斯州</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2430,7 +2430,7 @@
 <td><p>COT</p></td>
 <td><p>KCOT</p></td>
 <td></td>
-<td><p>，<a href="https://zh.wikipedia.org/wiki/德克薩斯州" title="wikilink">德克薩斯州</a></p></td>
+<td><p><a href="../Page/科圖拉_(德克薩斯州).md" title="wikilink">科圖拉</a>，<a href="https://zh.wikipedia.org/wiki/德克薩斯州" title="wikilink">德克薩斯州</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -3242,7 +3242,7 @@
 <td><p>CUI</p></td>
 <td></td>
 <td><p>庫里略機場</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/庫里略" title="wikilink">庫里略</a>，<a href="https://zh.wikipedia.org/wiki/卡克塔省" title="wikilink">卡克塔省</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/庫里略" title="wikilink">庫里略</a>，<a href="../Page/卡克塔省.md" title="wikilink">卡克塔省</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -3284,7 +3284,7 @@
 <td><p>CUO</p></td>
 <td><p>SKCR</p></td>
 <td><p>卡魯魯機場</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卡魯魯" title="wikilink">卡魯魯</a>，<a href="https://zh.wikipedia.org/wiki/沃佩斯省" title="wikilink">沃佩斯省</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/卡魯魯" title="wikilink">卡魯魯</a>，<a href="../Page/沃佩斯省.md" title="wikilink">沃佩斯省</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

@@ -4,7 +4,7 @@ PGP的主要开发者是[菲尔·齐默曼](https://zh.wikipedia.org/wiki/菲尔
 
 ## PGP加密如何工作
 
-PGP[加密由一系列](https://zh.wikipedia.org/wiki/加密 "wikilink")[散列](https://zh.wikipedia.org/wiki/加密散列函数 "wikilink")、[数据压缩](../Page/数据压缩.md "wikilink")、[对称密钥加密](https://zh.wikipedia.org/wiki/对称密钥加密 "wikilink")，以及[公钥加密的算法组合而成](https://zh.wikipedia.org/wiki/公钥加密 "wikilink")。每个步骤均支持几种[算法](../Page/算法.md "wikilink")，用户可以选择一个使用。每个公钥均绑定一个用户名和/或者[E-mail地址](https://zh.wikipedia.org/wiki/E-mail "wikilink")。该系统的最初版本通常称为可信网或[X.509](../Page/X.509.md "wikilink")系统；[X.509](../Page/X.509.md "wikilink")系统使用的是基于[数字证书认证机构的分层方案](https://zh.wikipedia.org/wiki/数字证书认证机构 "wikilink")，该方案后来被加入到PGP的实现中。当前的PGP加密版本通过一个自动密钥管理服务器来进行密钥的可靠存放。\[1\]
+PGP[加密](../Page/加密.md "wikilink")由一系列[散列](https://zh.wikipedia.org/wiki/加密散列函数 "wikilink")、[数据压缩](../Page/数据压缩.md "wikilink")、[对称密钥加密](https://zh.wikipedia.org/wiki/对称密钥加密 "wikilink")，以及[公钥加密的算法组合而成](https://zh.wikipedia.org/wiki/公钥加密 "wikilink")。每个步骤均支持几种[算法](../Page/算法.md "wikilink")，用户可以选择一个使用。每个公钥均绑定一个用户名和/或者[E-mail地址](https://zh.wikipedia.org/wiki/E-mail "wikilink")。该系统的最初版本通常称为可信网或[X.509](../Page/X.509.md "wikilink")系统；[X.509](../Page/X.509.md "wikilink")系统使用的是基于[数字证书认证机构的分层方案](https://zh.wikipedia.org/wiki/数字证书认证机构 "wikilink")，该方案后来被加入到PGP的实现中。当前的PGP加密版本通过一个自动密钥管理服务器来进行密钥的可靠存放。\[1\]
 
 ### 兼容性
 

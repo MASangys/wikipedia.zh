@@ -3,7 +3,7 @@
 ## 功能
 
   - 完全支援[RAR](../Page/RAR.md "wikilink")與[ZIP壓縮檔案](https://zh.wikipedia.org/wiki/ZIP_\(檔案格式\) "wikilink")，並且能解壓縮[CAB](../Page/CAB.md "wikilink")、[ARJ](https://zh.wikipedia.org/wiki/ARJ "wikilink")、[LZH](../Page/LHA_\(檔案格式\).md "wikilink")、[TAR](https://zh.wikipedia.org/wiki/tar_\(檔案格式\) "wikilink")，[GZ](../Page/Gzip.md "wikilink")、[ACE](../Page/ACE_\(文件格式\).md "wikilink")、[UUE](https://zh.wikipedia.org/wiki/uuencode "wikilink")、[BZ2](https://zh.wikipedia.org/wiki/bzip2 "wikilink")、[JAR](https://zh.wikipedia.org/wiki/Jar_\(檔案格式\) "wikilink")，[ISO](../Page/ISO_9660.md "wikilink")、[7z](../Page/7z.md "wikilink") 和 [ZIP壓縮檔案](https://zh.wikipedia.org/wiki/ZIP_\(檔案格式\) "wikilink")。
-  - 可使用[AES进行](../Page/高级加密标准.md "wikilink")128位[加密](https://zh.wikipedia.org/wiki/加密 "wikilink")。
+  - 可使用[AES进行](../Page/高级加密标准.md "wikilink")128位[加密](../Page/加密.md "wikilink")。
   - 文件最高支持8,589,000,000TB的大小。
   - 可以制作[-{zh-hans:自解压;zh-tw:自解壓縮檔;}-文件](https://zh.wikipedia.org/wiki/自解压 "wikilink")。
   - 可进行数据修复。

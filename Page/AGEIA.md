@@ -6,7 +6,7 @@
 
 ## 外部連結
 
-  - [AGEIA产品支持网站](http://devsupport.ageia.com/)
+  - [AGEIA产品支持网站](https://web.archive.org/web/20120113073921/http://devsupport.ageia.com/)
 
 [Category:英伟达](https://zh.wikipedia.org/wiki/Category:英伟达 "wikilink") [Category:美國電腦公司](https://zh.wikipedia.org/wiki/Category:美國電腦公司 "wikilink") [Category:電腦硬件公司](https://zh.wikipedia.org/wiki/Category:電腦硬件公司 "wikilink") [Category:已結業電腦公司](https://zh.wikipedia.org/wiki/Category:已結業電腦公司 "wikilink") [Category:聖塔克拉拉公司](https://zh.wikipedia.org/wiki/Category:聖塔克拉拉公司 "wikilink") [Category:2002年加利福尼亞州建立](https://zh.wikipedia.org/wiki/Category:2002年加利福尼亞州建立 "wikilink")
 

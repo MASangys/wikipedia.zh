@@ -16,7 +16,7 @@
 
 SD/MMC卡已经替代[东芝](../Page/东芝.md "wikilink")开发的[SM卡](../Page/SmartMedia.md "wikilink")，成为了便携式数码相机使用最广泛的数字存储卡格式。2001年，SM卡的[市场占有率超过](https://zh.wikipedia.org/wiki/市场占有率 "wikilink")50%，但到了2005年下降到了40%左右，并且还在快速滑落。在2010年，SD卡的市占率已超过90%，绝大部分的数码相机生产商都提供了SD卡的支持，包括[佳能](../Page/佳能.md "wikilink")、[尼康](../Page/尼康.md "wikilink")、[柯达](https://zh.wikipedia.org/wiki/柯达 "wikilink")、[松下及](https://zh.wikipedia.org/wiki/松下 "wikilink")[柯尼卡美能达等](https://zh.wikipedia.org/wiki/柯尼卡美能达 "wikilink")。之前仍然在坚持使用自己的专利格式的三大主要厂商：[奥林巴斯](https://zh.wikipedia.org/wiki/Olympus "wikilink")、[富士](https://zh.wikipedia.org/wiki/Fujifilm "wikilink")（[xD卡](https://zh.wikipedia.org/wiki/xD圖像卡 "wikilink")）、[索尼](https://zh.wikipedia.org/wiki/Sony "wikilink")（[Memory Stick](https://zh.wikipedia.org/wiki/Memory_Stick "wikilink")），也开始转而使用SD卡（或提供双卡支持）。
 
-SD卡是東芝在MMC卡技術中加入[加密技術硬件而成](https://zh.wikipedia.org/wiki/加密 "wikilink")，由於MMC卡可能會較易讓使用者複製數碼[音樂](https://zh.wikipedia.org/wiki/音樂 "wikilink")，東芝便加入這些技術希望令音樂業界安心。類似的技術包括[索尼](../Page/索尼.md "wikilink")的[MagicGate](https://zh.wikipedia.org/wiki/MagicGate "wikilink")，理論上加密技術可引入一些數位版權管理措施，但這功能甚少被應用。
+SD卡是東芝在MMC卡技術中加入[加密](../Page/加密.md "wikilink")技術硬件而成，由於MMC卡可能會較易讓使用者複製數碼[音樂](https://zh.wikipedia.org/wiki/音樂 "wikilink")，東芝便加入這些技術希望令音樂業界安心。類似的技術包括[索尼](../Page/索尼.md "wikilink")的[MagicGate](https://zh.wikipedia.org/wiki/MagicGate "wikilink")，理論上加密技術可引入一些數位版權管理措施，但這功能甚少被應用。
 
 用户可以使用一个USB的[读卡器](https://zh.wikipedia.org/wiki/读卡器 "wikilink")，在个人电脑上使用SD卡。某些电脑上已经内置了读卡装置。
 

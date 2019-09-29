@@ -8,6 +8,10 @@
 
 而專輯末的〈Who...〉是濱崎步獻給聽眾的感謝曲，自此後成為她演唱會結尾的固定歌曲。
 
+## 二十周年紀念復刻版
+
+本作與《[appears](https://zh.wikipedia.org/wiki/appears "wikilink")》發行後於二十週年，再次於2019年11月10日發行紀念復刻版《LOVEppears / appears -20th Anniversary Edition-》。
+
 ## 收錄歌曲
 
 ## 統計

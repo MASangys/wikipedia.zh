@@ -434,13 +434,15 @@ YouTube自成立以來，其[短片曾被不少機構和公司批評為侵犯版
 
 2008年7月，維亞康姆贏得法院的裁決，並要求YouTube交出數據，數據上需詳細附上每個用戶的瀏覽紀錄，以讓公司了解誰在網站上看過這些侵權影片。此舉令有瀏覽習慣的個人用戶擔心，因為可藉由這些紀錄透過組合確定其[IP位址和登錄名](https://zh.wikipedia.org/wiki/IP位址 "wikilink")。[電子前哨基金會批評這次的法院裁決令](https://zh.wikipedia.org/wiki/電子前哨基金會 "wikilink")「隱私權受到侵犯」。\[34\]美國地方法院法官Louis Stanton認為這是一「投機」行為，駁回這次有隱私權爭議的裁決，並要求YouTube交出約12[TB的相關數據以供判決](https://zh.wikipedia.org/wiki/TB "wikilink")。Louis Stanton亦駁回維亞康姆要求YouTube交出[搜尋引擎的](../Page/搜索引擎.md "wikilink")[原始碼](../Page/源代码.md "wikilink")，且表示說並沒有任何證據表明，YouTube的影片處理侵犯版權。\[35\]
 
+2019年9月，YouTube因侵犯儿童隐私被[美国联邦贸易委员会罚款](https://zh.wikipedia.org/wiki/联邦贸易委员会 "wikilink")1.36亿美元。此外，YouTube还将向[纽约州](../Page/纽约州.md "wikilink")支付3400万美元以了结类似指控\[36\]。
+
 ### 其他
 
 2006年6月1日，[英國獨立電視台](https://zh.wikipedia.org/wiki/英國獨立電視台 "wikilink")（ITV）批評YouTube及近似的網站鼓吹暴力，因為這些網站上傳由手機拍攝的打鬥影片。雖然YouTube禁止過份暴力和色情的影片，但ITV指與這些網站溝通時有一定困難。
 
-2007年11月7日一位芬蘭高中生在YouTube上預告後犯下[校園槍擊案](https://zh.wikipedia.org/wiki/約凱拉校園槍擊事件 "wikilink")。\[36\]
+2007年11月7日一位芬蘭高中生在YouTube上預告後犯下[校園槍擊案](https://zh.wikipedia.org/wiki/約凱拉校園槍擊事件 "wikilink")。\[37\]
 
-2018年4月3日，[YouTuber](../Page/YouTuber.md "wikilink")纳森·阿格达姆（Nasin Aghdam）认为YouTube封杀她上传到Youtube上的视频，并進到[YouTube总部枪击](../Page/YouTube總部槍擊案.md "wikilink")，在打伤三人后自尽\[37\]\[38\]。
+2018年4月3日，[YouTuber](../Page/YouTuber.md "wikilink")纳森·阿格达姆（Nasin Aghdam）认为YouTube封杀她上传到Youtube上的视频，并進到[YouTube总部枪击](../Page/YouTube總部槍擊案.md "wikilink")，在打伤三人后自尽\[38\]\[39\]。
 
 ## 審查
 
@@ -452,7 +454,7 @@ YouTube表示，平台是許多熱門挑戰和惡作劇的搖籃，因此必須�
 
 YouTube將禁止用戶分享類似「可能導致死亡」的冒險影片，包含矇眼開車、歐美青少年流行的Tide Pod挑戰（吃洗衣粉）和自燃。除了人身安全，「可能導致痛苦」的惡作劇亦不允許，尤其是以孩童為對象的玩笑，例如父母裝死或假裝遺棄孩子，可能留下終生心理陰影。
 
-違反安全政策的影片將被刪除，上傳者帳戶將被停止部分功能90天；這段期間若二次違規，可使用的功能會再度縮限。違規第三次，該帳戶將被停權。\[39\]
+違反安全政策的影片將被刪除，上傳者帳戶將被停止部分功能90天；這段期間若二次違規，可使用的功能會再度縮限。違規第三次，該帳戶將被停權。\[40\]
 
 ## 彩蛋
 
@@ -463,18 +465,18 @@ YouTube自2008年開始，每年都會在網站上發布[愚人節玩笑](../Pag
   - 2008年4月1日：所有在首頁上的特色影片連結都被重新定向到[理察·艾斯利的音樂錄影帶](../Page/理查德·艾斯利.md "wikilink")「Never Gonna Give You Up」。
   - 2009年4月1日：當在首頁點擊一個特色影片時，整個頁面將會顛倒過來。YouTube開玩笑的聲稱說這是一個新的網頁設計。
   - 2010年4月1日：YouTube在此日公布一個叫做「TEXTp」模式，按下後會在影片將改以英文字母、符號拼湊成影片內容，YouTube開玩笑的聲稱這樣做是為了減少成本。
-  - 2011年4月1日：YouTube在此日公布一個叫做「重返1911年」的模式，按下後會在影片將把影片聲音改成牛仔音樂；影片內容變成「懷舊化影片」，YouTube聲稱：「今天，為了慶祝YouTube 100歲生日，讓我們溫故知新，重新回味1911年的第一篇部落格文章。除此之外，今天的YouTube首頁更是特別重現100年前YouTube的模樣來紀念這個里程碑。我們將帶您穿越時光隧道，回到YouTube網站草創之初。」\[40\]
-  - 2012年4月1日和2013年4月1日：YouTube標題旁出現CD圖案，點進去之後會秀出一段影片，告訴你每月可以免費送來你想要的影片DVD多少都可以，根據自己想看的內容，錄製成光碟，還有貨運海運選項，甚至可以燒錄成雷射光碟。不过，這全都是假的，因為當你勾選完選項後，它會顯示說您的貨物將在2045年6月16日送達，這部影片的演員大多是網上名人。\[41\]
-  - 2013年4月1日：YouTube在3月31日指，他們在2005年的成立，其實是為了選出世界上最佳的影片。在2013年3月31日午夜，YouTube將會停止影片上載，截止報名，並利用10年時間，在過去8年上載的影片中選出最佳影片。在未來2年，YouTube每天均利用12個小時時間讀出提名名單。結果將在2023年，YouTube重新上線時公佈。4月1日當日，YouTube於網上直播第一日，長達12小時，製作認真的｢提名公佈典禮｣。\[42\]\[43\]
-  - 2014年4月1日：YouTube在此日宣布，病毒影片發展趨勢已開始，以及用戶被允許提交想法的趨勢或模因\[44\]\[45\]。
+  - 2011年4月1日：YouTube在此日公布一個叫做「重返1911年」的模式，按下後會在影片將把影片聲音改成牛仔音樂；影片內容變成「懷舊化影片」，YouTube聲稱：「今天，為了慶祝YouTube 100歲生日，讓我們溫故知新，重新回味1911年的第一篇部落格文章。除此之外，今天的YouTube首頁更是特別重現100年前YouTube的模樣來紀念這個里程碑。我們將帶您穿越時光隧道，回到YouTube網站草創之初。」\[41\]
+  - 2012年4月1日和2013年4月1日：YouTube標題旁出現CD圖案，點進去之後會秀出一段影片，告訴你每月可以免費送來你想要的影片DVD多少都可以，根據自己想看的內容，錄製成光碟，還有貨運海運選項，甚至可以燒錄成雷射光碟。不过，這全都是假的，因為當你勾選完選項後，它會顯示說您的貨物將在2045年6月16日送達，這部影片的演員大多是網上名人。\[42\]
+  - 2013年4月1日：YouTube在3月31日指，他們在2005年的成立，其實是為了選出世界上最佳的影片。在2013年3月31日午夜，YouTube將會停止影片上載，截止報名，並利用10年時間，在過去8年上載的影片中選出最佳影片。在未來2年，YouTube每天均利用12個小時時間讀出提名名單。結果將在2023年，YouTube重新上線時公佈。4月1日當日，YouTube於網上直播第一日，長達12小時，製作認真的｢提名公佈典禮｣。\[43\]\[44\]
+  - 2014年4月1日：YouTube在此日宣布，病毒影片發展趨勢已開始，以及用戶被允許提交想法的趨勢或模因\[45\]\[46\]。
 
 ### Harlem Shake
 
-使用YouTube搜尋“do the harlem shake”則頁面中的元素搖晃並播放音樂。（新版 Youtube 網頁版無法使用）\[46\]
+使用YouTube搜尋“do the harlem shake”則頁面中的元素搖晃並播放音樂。（新版 Youtube 網頁版無法使用）\[47\]
 
 ## 網站癱瘓
 
-  - YouTube曾於2018年10月17日發生當機事件\[47\]，約09:16（UTC+8）開始，全球各地大量用戶反應YouTube網站當機，電腦版網頁、手機版網頁、手機版APP皆無法連線，並出現[500服务器错误以及维修猴圖案](https://zh.wikipedia.org/wiki/HTTP状态码#5xx服务器错误 "wikilink")\[48\]，最後於當天約10:40（UTC+8）回復正常。當中亦有全似是含有陰謀論，含有多項存疑問題，但YouTube官方堅稱只是系統錯誤\[49\]。
+  - YouTube曾於2018年10月17日發生當機事件\[48\]，約09:16（UTC+8）開始，全球各地大量用戶反應YouTube網站當機，電腦版網頁、手機版網頁、手機版APP皆無法連線，並出現[500服务器错误以及维修猴圖案](https://zh.wikipedia.org/wiki/HTTP状态码#5xx服务器错误 "wikilink")\[49\]，最後於當天約10:40（UTC+8）回復正常。當中亦有全似是含有陰謀論，含有多項存疑問題，但YouTube官方堅稱只是系統錯誤\[50\]。
 
 ## 参見
 
@@ -589,30 +591,32 @@ YouTube自2008年開始，每年都會在網站上發布[愚人節玩笑](../Pag
 
 35. [YouTube運用“避風港”原則勝訴](http://ip.people.com.cn/BIG5/12626580.html)
 
-36.
+36. [谷歌旗下YouTube因侵犯儿童隐私被罚款1.7亿美元](https://www.voachinese.com/a/googles-youtube-video-site-fined-170-million-dollars-20190904/5070052.html)
 
-37. [YouTube枪击案嫌犯动机曝光：怨恨平台将其视频降级](http://tech.sina.com.cn/it/2018-04-04/doc-ifysuuya4551165.shtml) .新浪科技.\[2018-04-04\].
+37.
 
-38.
+38. [YouTube枪击案嫌犯动机曝光：怨恨平台将其视频降级](http://tech.sina.com.cn/it/2018-04-04/doc-ifysuuya4551165.shtml) .新浪科技.\[2018-04-04\].
 
 39.
 
-40. [YouTube Taiwan Blog：歡慶YouTube 100歲！](http://youtubetwblog.blogspot.com/2011/04/youtube-100.html)
+40.
 
-41. [Youtube Collection](http://www.youtube.com/theyoutubecollection)
+41. [YouTube Taiwan Blog：歡慶YouTube 100歲！](http://youtubetwblog.blogspot.com/2011/04/youtube-100.html)
 
-42. [YouTube's ready to select a winner](http://www.youtube.com/watch?v=H542nLTTbu0) ，YouTube
+42. [Youtube Collection](http://www.youtube.com/theyoutubecollection)
 
-43. [YouTube Announces The Nominees For Best Video (Day 1)](http://www.youtube.com/watch?v=HGeMGqVKD6A) ，YouTube
+43. [YouTube's ready to select a winner](http://www.youtube.com/watch?v=H542nLTTbu0) ，YouTube
 
-44. [YouTube Reveals Its Viral Secrets In April Fools' Day Video](http://www.huffingtonpost.com/2014/04/01/youtube-april-fools_n_5068694.html)
+44. [YouTube Announces The Nominees For Best Video (Day 1)](http://www.youtube.com/watch?v=HGeMGqVKD6A) ，YouTube
 
-45. [YouTube Announces Upcoming Viral Video Trends](http://www.youtube.com/watch?v=0YUbYohGMOg)
+45. [YouTube Reveals Its Viral Secrets In April Fools' Day Video](http://www.huffingtonpost.com/2014/04/01/youtube-april-fools_n_5068694.html)
 
-46.
+46. [YouTube Announces Upcoming Viral Video Trends](http://www.youtube.com/watch?v=0YUbYohGMOg)
 
 47.
 
 48.
 
 49.
+
+50.

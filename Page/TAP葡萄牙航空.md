@@ -38,7 +38,7 @@ TAP葡萄牙航空曾持有下列航空公司的股份：
 | [空中巴士A321neoLR](https://zh.wikipedia.org/wiki/空中巴士A320neo系列 "wikilink") | －                          | 14  | 16  | 152 |
 | [空中巴士A330-202／-223](../Page/空中客车A330.md "wikilink")                     | 12                         | －   | 25  | 244 |
 | [空中巴士A330-300](../Page/空中客车A330.md "wikilink")                          | 4                          | －   | 30  | 255 |
-| [空中巴士A330-900neo](https://zh.wikipedia.org/wiki/空中客车A330neo "wikilink") | 4                          | 19  | 34  | 264 |
+| [空中巴士A330-900neo](https://zh.wikipedia.org/wiki/空中客车A330neo "wikilink") | 9                          | 19  | 34  | 264 |
 | [空中巴士A340-300](../Page/空中客车A340.md "wikilink")                          | 4                          | －   | 36  | 232 |
 | 總數                                                                      | 71                         | 68  |     |     |
 

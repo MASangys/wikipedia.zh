@@ -361,7 +361,7 @@
 <td><p>10月6日－播放中</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/小野學" title="wikilink">小野學</a></p></td>
 <td><p>輕小說</p></td>
-<td><p>第3期</p></td>
+<td><p>第3期前半篇</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/FAIRY_TAIL_(動畫).md" title="wikilink">FAIRY TAIL</a></p></td>
@@ -387,6 +387,14 @@
 <td><p>畠山守</p></td>
 <td><p>漫畫</p></td>
 <td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/刀劍神域" title="wikilink">刀劍神域 Alicization War of Underworld</a></p></td>
+<td></td>
+<td><p>10月－</p></td>
+<td><p>小野學</p></td>
+<td><p>輕小說</p></td>
+<td><p>第3期後半篇</p></td>
 </tr>
 </tbody>
 </table>

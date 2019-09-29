@@ -227,6 +227,7 @@ SOCKS5请求格式（以字节为单位）：
 | **[Super Socks5Cap](http://www.networktunnel.net/)**                                                                   | \-                                                  | 1.5.3  | \-      | Windows                                  | \-     |
 | **[tsocks](http://tsocks.sourceforge.net/about.php)**                                                                  | GPL                                                 | 1.8    | 10/2002 | \-                                       | \-     |
 | **[nylon](https://web.archive.org/web/20051106034218/http://monkey.org/~marius/pages/?page=nylon)**                    | \-                                                  | \-     | 06/2003 | [OpenBSD](../Page/OpenBSD.md "wikilink") | \-     |
+| [Win2Socks](https://win2socks.com)                                                                                     | \-                                                  | 1.1    | 09/2019 | Windows                                  | v5     |
 
 ## 注释
 

@@ -60,7 +60,7 @@ AVS標準是《信息技術 先進音影片編碼》系列標準的簡稱，AVS�
 
   - [AVS產業聯盟](http://www.avsa.org.cn)（簡體中文）
   - [新浪網專題-AVS標準挑戰國際音影片編解碼標準](http://tech.sina.com.cn/focus/AVS_05_CN/index.shtml)
-  - [大陸無意跟進MPEG-4/H.264、WMV-9　另拱AVS Codec成市場標準](http://www.hicc.org.cn/ShowNews.asp?id=3087)
+  - [大陸無意跟進MPEG-4/H.264、WMV-9　另拱AVS Codec成市場標準](https://web.archive.org/web/20141209083808/http://www.hicc.org.cn/ShowNews.asp?id=3087)
   - [谁将引领新一代视频编码标准：HEVC、AVS2和AV1性能对比报告 – 北京大学数字媒体研究中心](http://media.pkusz.edu.cn/achievements/?p=138)
 
 [Category:标准](https://zh.wikipedia.org/wiki/Category:标准 "wikilink") [Category:影片和電影技術](https://zh.wikipedia.org/wiki/Category:影片和電影技術 "wikilink")

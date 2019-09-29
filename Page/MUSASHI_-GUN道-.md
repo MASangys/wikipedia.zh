@@ -36,7 +36,7 @@
 <!-- end list -->
 
   - 辉夜(カグヤ)：[河原木志穂](https://zh.wikipedia.org/wiki/河原木志穂 "wikilink")
-    [豐臣秀吉養女於大阪城居住的姫](https://zh.wikipedia.org/wiki/豐臣秀吉 "wikilink")。
+    [豐臣秀吉的養女於大阪城居住](https://zh.wikipedia.org/wiki/豐臣秀吉 "wikilink")。
 
 <!-- end list -->
 

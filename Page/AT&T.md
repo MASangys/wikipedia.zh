@@ -72,7 +72,7 @@ AT\&T收購[時代華納案在美國司法部敗訴後](https://zh.wikipedia.org
 
 ### 以貝爾名義運作的公司
 
-[At\&tPhone.JPG](https://zh.wikipedia.org/wiki/File:At&tPhone.JPG "fig:At&tPhone.JPG") Of the twenty-two [Bell Operating Companies](https://zh.wikipedia.org/wiki/Bell_Operating_Companies "wikilink") which AT\&T owned prior to the 1984 agreement to divest, eleven (BellSouth Telecommunications combines two former BOCs) have become a part of the new AT\&T Inc. with the completion of their acquisition of [BellSouth Corporation](https://zh.wikipedia.org/wiki/BellSouth_Corporation "wikilink") on December 29, 2006:\[24\]
+[At\&tPhone.JPG](https://zh.wikipedia.org/wiki/File:At&tPhone.JPG "fig:At&tPhone.JPG") 在1984年协议剥离之前，AT＆T拥有的22家贝尔运营公司中有11家（BellSouth Telecommunications结合了两家前BOC）已成为新AT＆T公司的一部分，并于2006年12月29日完成了对BellSouth公司的收购。\[24\]
 
   - （原[南方貝爾](../Page/南方貝爾.md "wikilink")及）
 
@@ -88,13 +88,13 @@ AT\&T收購[時代華納案在美國司法部敗訴後](https://zh.wikipedia.org
 
   - （原威斯康星電話）
 
-  - — Now wholly owned; the original [AT\&T](https://zh.wikipedia.org/wiki/American_Telephone_&_Telegraph "wikilink") held 16.8% interest prior to 1984.
+  - — 目前已完全拥有，最初的AT＆T在1984年之前持有16.8％的股权。
 
 #### 前營運公司
 
 由SBC或AT\&T旗下，但已停止營運。
 
-  - \- a separate operating company created by SBC and merged back into SWBT on December 30, 2001.
+  - \-一家由SBC通信公司独立运营并在2001年12月30日合并回SWBT公司的企业。
 
   - \- 2007年6月1日與南部新英格蘭電話合併。
 

@@ -1,6 +1,8 @@
 **Rain**（），本名**鄭智薰**（），為[韓國著名男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")、[演員](../Page/演員.md "wikilink")、製作人，出生於[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[忠清南道](../Page/忠清南道.md "wikilink")[瑞山市](../Page/瑞山市.md "wikilink")，是韓國樂壇天王級歌手、演員、音樂製作人。以高熱度動作舞蹈最為著名。
 
-2002年以藝名Rain發行個人首張專輯《First Drop》。其後發行了《Rain 2》、《It's Raining》、《Rain's World》、《Rainism》等專輯，榮獲Mnet亞洲音樂大獎、首爾歌謠大賞、金唱片大賞等韓國音樂獎項 。 2005年成為首位獲得中、日、泰三國的亞洲MTV韓國最佳藝人獎的亞洲歌手。 2006年起在中、美、日、澳、泰等多個國家開啟了首個世界巡迴演唱會。2006年2月2日，Rain在紐約[麥迪遜廣場花園劇場舉行了首次北美個人演唱會](https://zh.wikipedia.org/wiki/麥迪遜廣場花園 "wikilink")，並參加錄製紐約時代廣場MTV演播中心特別節目《Rain在紐約》。 同年獲選美國《[時代 (雜誌)](https://zh.wikipedia.org/wiki/時代_\(雜誌\) "wikilink")》選為全球最具影響力100人，成為[時代百大人物](https://zh.wikipedia.org/wiki/時代百大人物 "wikilink")。是韓國目前唯一入過此榜單的藝人。2007年1月，Rain繼韓國、美國世界巡演後，乘坐由大韓航空全程贊助並印有自身肖像的飛機，先後飛往新加坡、馬來西亞、泰國、中國、澳洲、日本等多個國家舉行世界巡迴演唱會，更成為首位登上日本[東京巨蛋](../Page/東京巨蛋.md "wikilink")開個人演唱會的韓國藝人。2008年擔任北京奧運會閉幕式表演嘉賓 。同年榮獲韓國形象基石獎，並以Rain之名被寫入大英百科全書網絡版。2010年擔任廣州亞運會閉幕式表演嘉賓 。 2011年再度獲選美國《[時代 (雜誌)](https://zh.wikipedia.org/wiki/時代_\(雜誌\) "wikilink")》全球最具影響力100人，並成為目前唯一一個入選過兩次[時代百大人物的亞洲藝人](https://zh.wikipedia.org/wiki/時代百大人物 "wikilink") 。
+## 演藝事業
+
+2002年，以藝名「Rain」發行個人首張專輯《First Drop》。其後發行了《Rain 2》、《It's Raining》、《Rain's World》、《Rainism》等專輯，榮獲Mnet亞洲音樂大獎、首爾歌謠大賞、金唱片大賞等韓國音樂獎項 。 2005年成為首位獲得中、日、泰三國的亞洲MTV韓國最佳藝人獎的亞洲歌手。2006年起在中、美、日、澳、泰等多個國家開啟了首個世界巡迴演唱會。2006年2月2日，Rain在紐約[麥迪遜廣場花園劇場舉行了首次北美個人演唱會](https://zh.wikipedia.org/wiki/麥迪遜廣場花園 "wikilink")，並參加錄製紐約時代廣場MTV演播中心特別節目《Rain在紐約》。 同年獲選美國《[時代](https://zh.wikipedia.org/wiki/時代_\(雜誌\) "wikilink")》雜誌選為全球最具影響力100人，成為[時代百大人物](https://zh.wikipedia.org/wiki/時代百大人物 "wikilink")。是韓國目前唯一入過此榜單的藝人。2007年1月，Rain繼韓國、美國世界巡演後，乘坐由[大韓航空](../Page/大韓航空.md "wikilink")全程贊助並印有自身肖像的飛機，先後飛往新加坡、馬來西亞、泰國、中國、澳洲、日本等多個國家舉行世界巡迴演唱會，更成為首位登上日本[東京巨蛋](../Page/東京巨蛋.md "wikilink")開個人演唱會的韓國藝人。2008年擔任[北京奧運閉幕式表演嘉賓](../Page/2008年夏季奧林匹克運動會閉幕式.md "wikilink")。同年榮獲韓國形象基石獎，並以Rain之名被寫入大英百科全書網絡版。2010年擔任廣州亞運會閉幕式表演嘉賓。2011年再度獲選美國《時代》雜誌全球最具影響力100人，並成為目前唯一一個入選過兩次[時代百大人物的亞洲藝人](https://zh.wikipedia.org/wiki/時代百大人物 "wikilink")。
 
 Rain的影視事業開始於2003年，當年憑藉電視劇《[小爸爸上學去](../Page/小爸爸上學去.md "wikilink")》獲得[KBS演技大賞的男子新人賞](https://zh.wikipedia.org/wiki/KBS演技大賞 "wikilink")。2004年，Rain與[宋慧喬](../Page/宋慧喬.md "wikilink")主演的電視劇《[浪漫滿屋](https://zh.wikipedia.org/wiki/浪漫滿屋 "wikilink")》獲得[KBS演技大賞的男子優秀演技賞](https://zh.wikipedia.org/wiki/KBS演技大賞 "wikilink")。與[金思朗](../Page/金思朗.md "wikilink")、[新慜娥](../Page/新慜娥.md "wikilink")出演電視劇《[這該死的愛情](../Page/這該死的愛情.md "wikilink")》之後，Rain出演了他的首部韓國電影《賽柏格之戀》，並獲得了[柏林國際電影節的](https://zh.wikipedia.org/wiki/柏林國際電影節 "wikilink")[亞佛雷德鮑爾獎](../Page/亞佛雷德鮑爾獎.md "wikilink")。Rain之後出演了美國電影《[駭速快手](https://zh.wikipedia.org/wiki/駭速快手 "wikilink")》和《[忍者刺客](../Page/忍者刺客.md "wikilink")》，成為首位擔任好萊塢主流電影主角的韓星。 《[忍者刺客](../Page/忍者刺客.md "wikilink")》更讓他成為首位獲得美國本土電影獎獎項[MTV電影大獎的韓國藝人](https://zh.wikipedia.org/wiki/MTV電影大獎 "wikilink")。Rain之後出演了另一部韓國電影《R2B：獵鷹行動》，該片於2012年8月上映。
 
@@ -10,13 +12,7 @@ Rain的影視事業開始於2003年，當年憑藉電視劇《[小爸爸上學�
 
 2013年1月，網絡媒體Dispatch公開Rain與韓國女藝人[金泰希](../Page/金泰希.md "wikilink")的約會照片。之後，金泰希方面承認與Rain已經交往了一個多月的事實。
 
-2017年1月17日，Rain透過個人Twitter公開親筆信，宣布與女友金泰希即將步入禮堂的消息\[1\]。1月18日，新聞媒體報導兩人將於1月19日舉行非公開婚禮\[2\]。
-
-2017年5月23日，其妻金泰希宣佈懷孕15週。\[3\]
-
-2017年10月25日，其妻金泰希產下一女。
-
-2019年2月26日，其妻金泰希宣布懷上第二胎，預產期為9月。
+2017年1月17日，Rain透過個人[Twitter](../Page/Twitter.md "wikilink")公開親筆信，宣布與女友金泰希即將步入禮堂的消息\[1\]。1月18日，新聞媒體報導兩人將於1月19日舉行非公開婚禮\[2\]。
 
 ## 音樂作品
 
@@ -155,6 +151,7 @@ Rain的影視事業開始於2003年，當年憑藉電視劇《[小爸爸上學�
   - 2005年 王力宏《完美的互動》(中韓英語言混和歌曲)
   - 2011年 金泰宇《Brothers＆Me》 (還有JYP合作)
   - 2018年 ASTER《CHAMPAGNE》
+  - 2019年 [韶宥](https://zh.wikipedia.org/wiki/韶宥 "wikilink")《THE LOVE OF AUTUMN》([PEPSIx](../Page/百事可樂.md "wikilink")[STARSHIP企劃合作曲](../Page/STARSHIP娛樂.md "wikilink"))
 
 ## 影視作品
 
@@ -1075,4 +1072,3 @@ Rain的影視事業開始於2003年，當年憑藉電視劇《[小爸爸上學�
 
 1.  [비, 손편지로 직접 결혼 발표 "김태희, 최고의 선물"](http://sports.chosun.com/news/ntype.htm?id=201701180100133670009192&servicedate=20170117)朝鮮體育
 2.  [祝賀！17日剛宣佈婚訊的Rain＆金泰希19日大婚](http://www.koreastardaily.com/tc/news/89900)韓星網
-3.

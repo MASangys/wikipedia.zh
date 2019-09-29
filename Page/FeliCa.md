@@ -104,7 +104,7 @@ Felica 芯片除了使用在IC卡的IC芯片上，也使用在手机或手錶上
 
   - [Sony Japan | FeliCaウェブサイト](http://www.sony.co.jp/Products/felica/)
 
-[Category:索尼](https://zh.wikipedia.org/wiki/Category:索尼 "wikilink") [Category:電子貨幣](https://zh.wikipedia.org/wiki/Category:電子貨幣 "wikilink") [Category:行動支付](https://zh.wikipedia.org/wiki/Category:行動支付 "wikilink")
+[Category:索尼](https://zh.wikipedia.org/wiki/Category:索尼 "wikilink") [Category:電子貨幣](https://zh.wikipedia.org/wiki/Category:電子貨幣 "wikilink") [Category:行動支付](https://zh.wikipedia.org/wiki/Category:行動支付 "wikilink") [Category:日本發明](https://zh.wikipedia.org/wiki/Category:日本發明 "wikilink")
 
 1.
 2.  <http://facta.co.jp/article/200609061.html> FACTA記事2006年9月号

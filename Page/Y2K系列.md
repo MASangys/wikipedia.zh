@@ -170,6 +170,10 @@
 
 ## 參考資料
 
+## 另見
+
+  - 《[CYC家族](https://zh.wikipedia.org/wiki/CYC家族 "wikilink")》:香港電台另一系列青春單元劇電視劇集
+
 ## 外部連結
 
   - [Y2K前的暑假](http://www.rthk.org.hk/classicschannel/pop_tv90s_0052.htm) 重溫 - 香港電台（[簡介](http://www.rthk.org.hk/classicschannel/90s_tv_0052_158.htm)）
@@ -178,6 +182,6 @@
   - [過渡青春](http://rthk.hk/special/awardpro/award07/tv12.htm) 重溫 - 香港電台（[簡介](http://programme.rthk.org.hk/rthk/tv/programme.php?p=3559)）
   - [DIY2K](http://rthk.hk/diy2k) 香港電台特備網頁
 
-[Category:香港電台電視劇集系列](https://zh.wikipedia.org/wiki/Category:香港電台電視劇集系列 "wikilink") [Category:青春劇](https://zh.wikipedia.org/wiki/Category:青春劇 "wikilink")
+[Category:香港電台電視劇集系列](https://zh.wikipedia.org/wiki/Category:香港電台電視劇集系列 "wikilink") [Category:青春劇](https://zh.wikipedia.org/wiki/Category:青春劇 "wikilink") [Category:香港背景电视剧](https://zh.wikipedia.org/wiki/Category:香港背景电视剧 "wikilink") [Category:單元劇](https://zh.wikipedia.org/wiki/Category:單元劇 "wikilink") [Category:1999年香港電視劇集](https://zh.wikipedia.org/wiki/Category:1999年香港電視劇集 "wikilink") [Category:2000年香港電視劇集](https://zh.wikipedia.org/wiki/Category:2000年香港電視劇集 "wikilink") [Category:2001年香港電視劇集](https://zh.wikipedia.org/wiki/Category:2001年香港電視劇集 "wikilink") [Category:2006年香港電視劇集](https://zh.wikipedia.org/wiki/Category:2006年香港電視劇集 "wikilink") [Category:2012年香港電視劇集](https://zh.wikipedia.org/wiki/Category:2012年香港電視劇集 "wikilink")
 
 1.  [港台青春劇捲土重來新推【過渡青春】 人氣偶像衛蘭演繹主題曲「孁眼嬌」](http://www.rthk.org.hk/press/chi/20061002_66_121145.html)，香港電台新聞發佈，2006年10月2日

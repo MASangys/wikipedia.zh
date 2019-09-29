@@ -94,4 +94,6 @@
   - [Sinc滤波器](https://zh.wikipedia.org/wiki/Sinc滤波器 "wikilink")
 
   -
+  - [波尔文积分](https://zh.wikipedia.org/wiki/波尔文积分 "wikilink")
+
 [Category:信号处理](https://zh.wikipedia.org/wiki/Category:信号处理 "wikilink") [Category:基本特殊函数](https://zh.wikipedia.org/wiki/Category:基本特殊函数 "wikilink")

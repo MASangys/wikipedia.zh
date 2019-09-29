@@ -85,7 +85,7 @@
 
   - [PrimeFaces](http://www.primefaces.org) Official site PrimeFaces
 
-[Category:Java企业平台](https://zh.wikipedia.org/wiki/Category:Java企业平台 "wikilink") [Category:Java规范请求](https://zh.wikipedia.org/wiki/Category:Java规范请求 "wikilink") [Category:網站開發](https://zh.wikipedia.org/wiki/Category:網站開發 "wikilink")
+[Category:Java企业平台](https://zh.wikipedia.org/wiki/Category:Java企业平台 "wikilink") [Category:Java规范请求](https://zh.wikipedia.org/wiki/Category:Java规范请求 "wikilink") [Category:網站開發](https://zh.wikipedia.org/wiki/Category:網站開發 "wikilink") [Category:JavaServer_Faces](https://zh.wikipedia.org/wiki/Category:JavaServer_Faces "wikilink")
 
 1.  [JavaServer Faces Technology](http://www.oracle.com/technetwork/java/javaee/javaserverfaces-139869.html)
 2.

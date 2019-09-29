@@ -2,7 +2,7 @@
 
 Tor不會阻止在線網站判斷用戶是否通過Tor訪問該網站。儘管它保護用戶的私隱，但卻不會掩飾用戶正在使用Tor這一事實。有些網站會對使用Tor的用戶進行限制。[MediaWiki](../Page/MediaWiki.md "wikilink")的擴充功能Torblock便是其中一個例子，其能自動地限制透過Tor進行的編輯。而使用了Torblock的[維基百科則容許用戶在某些情況下透過Tor编辑其內容](https://zh.wikipedia.org/wiki/維基百科 "wikilink")\[5\]。
 
-Tor透過在传输协议栈中的[應用層進行](https://zh.wikipedia.org/wiki/应用层 "wikilink")[加密](https://zh.wikipedia.org/wiki/加密 "wikilink")，從而實現[洋葱路由](../Page/洋葱路由.md "wikilink")這一種技術。Tor會對包括下一個節點的[IP地址](../Page/IP地址.md "wikilink")在內的數據，進行多次加密，並透過[虛擬電路](https://zh.wikipedia.org/wiki/虛擬電路 "wikilink")（包括隨機選擇的Tor节点）將其送出。每個中繼都會對一層加密的數據進行解密，以知道數據的下一個傳送目的地，然後將剩餘的加密數據傳送給它。最後的中繼會解密最內層的加密數據，並在不會洩露或得知源IP地址的情況下，將原始數據發送至目標地址。\[6\]
+Tor透過在传输协议栈中的[應用層進行](https://zh.wikipedia.org/wiki/应用层 "wikilink")[加密](../Page/加密.md "wikilink")，從而實現[洋葱路由](../Page/洋葱路由.md "wikilink")這一種技術。Tor會對包括下一個節點的[IP地址](../Page/IP地址.md "wikilink")在內的數據，進行多次加密，並透過[虛擬電路](https://zh.wikipedia.org/wiki/虛擬電路 "wikilink")（包括隨機選擇的Tor节点）將其送出。每個中繼都會對一層加密的數據進行解密，以知道數據的下一個傳送目的地，然後將剩餘的加密數據傳送給它。最後的中繼會解密最內層的加密數據，並在不會洩露或得知源IP地址的情況下，將原始數據發送至目標地址。\[6\]
 
 攻擊者可能會嘗試透過某些手段來使Tor用戶去匿名化。包括利用Tor用戶電腦上的軟件[漏洞](https://zh.wikipedia.org/wiki/漏洞利用 "wikilink")\[7\]。美国国家安全-{}-局擁有針對Tor安裝包中所綑綁的舊版本Firefox漏洞的技術（代號「EgotisticalGiraffe」）\[8\]，並曾利用[XKeyscore系統來密切監控Tor用戶](https://zh.wikipedia.org/wiki/XKeyscore "wikilink")\[9\]。不少學者亦就如何破解Tor網絡進行過學術研究\[10\]\[11\]，此一行為受到Tor项目公司所肯定\[12\]。
 
@@ -52,7 +52,7 @@ Tor項目的常見問題解答頁面上寫道：
 
 [Tor-onion-network-zh.jpg](https://zh.wikipedia.org/wiki/File:Tor-onion-network-zh.jpg "fig:Tor-onion-network-zh.jpg")（由电子前哨基金会創作）\]\]
 
-Tor的設計原意在於保障用戶的個人私隱，以及不受監控地進行秘密通訊的自由和能力。它能夠實現[洋葱路由](../Page/洋葱路由.md "wikilink")這一種使通訊加密，和在由全球志願者運行的中繼中隨機跳轉的技術。該些洋葱路由器會對信息進行多層[加密](https://zh.wikipedia.org/wiki/加密 "wikilink")（因此以洋葱來比喻），由此確保中繼間的[完美前向安全性](https://zh.wikipedia.org/wiki/前向安全性 "wikilink")，使用戶的網絡位置得以匿名化。這種匿名性也使得Tor可以寄存規避審查的匿名服務\[79\]。此外其把一部分的入口中繼保密，這能使依賴封鎖Tor公開節點的[互联网审查](../Page/互联网审查.md "wikilink")失效\[80\]。
+Tor的設計原意在於保障用戶的個人私隱，以及不受監控地進行秘密通訊的自由和能力。它能夠實現[洋葱路由](../Page/洋葱路由.md "wikilink")這一種使通訊加密，和在由全球志願者運行的中繼中隨機跳轉的技術。該些洋葱路由器會對信息進行多層[加密](../Page/加密.md "wikilink")（因此以洋葱來比喻），由此確保中繼間的[完美前向安全性](https://zh.wikipedia.org/wiki/前向安全性 "wikilink")，使用戶的網絡位置得以匿名化。這種匿名性也使得Tor可以寄存規避審查的匿名服務\[79\]。此外其把一部分的入口中繼保密，這能使依賴封鎖Tor公開節點的[互联网审查](../Page/互联网审查.md "wikilink")失效\[80\]。
 
 由於接收者和發信者的[IP位址在任何中繼中不是通過](https://zh.wikipedia.org/wiki/IP位址 "wikilink")[明文傳輸](https://zh.wikipedia.org/wiki/明文 "wikilink")，所以若有人在中繼路徑中的任何一點竊聽，都無法同時識別兩端。此外對於發送者而言，接收者的出口節點正是其入口節點。
 

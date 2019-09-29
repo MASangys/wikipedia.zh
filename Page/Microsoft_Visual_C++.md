@@ -139,6 +139,11 @@ MSC    1.0  _MSC_VER == 100 基于{{tsl|en|Lattice C}}，发布于1983年。
 
 ## 工具链生态环境
 
+  - Universal CRT (UCRT)包含了[C99运行时库的函数与全局变量](https://zh.wikipedia.org/wiki/C99 "wikilink")。UCRT现在是Windows component，随Windows 10安装。UCRT的静态库、DLL的导入库、头文件是Windows 10 SDK的一部分。
+  - vcruntime库包含Visual C++ CRT实现相关的代码，如[异常处理](../Page/异常处理.md "wikilink")、调试支持、运行时检查、类型信息、实现细节与特定扩展库函数。 vcruntime库相关于特定编译器。
+  - CRT初始化库处理进程启动（CRT startup）、内部的逐线程的初始化、终止。CRT初始化库相关于特定编译器。CRT初始化库总是静态链接，即使使用了动态链接的UCRT.
+  - 对于本地代码与受管代码混合的情形，使用/clr编译选项，这会动态链接 UCRT与vcruntime，静态链接msvcmrt.lib或msvcmrtd.lib；svcmrt.lib或msvcmrtd.lib提供了受管代码与本地CRT之间的proxy。对于纯受管代码情形，使用/clr:pure编译选项，这会静态链接msvcurt.lib或msvcurtd.lib。
+
 编译时，根据项目是调试版还是发布版，动态还是静态链接[运行时库](../Page/运行时库.md "wikilink")，编译器可自动使用默认库。如果使用编译选项/nodefaultlib，需要显式指定使用的库。对于VC++2015，所有下述库均为多线程：\[31\]
 
 <table>
@@ -203,16 +208,52 @@ MSC    1.0  _MSC_VER == 100 基于{{tsl|en|Lattice C}}，发布于1983年。
 <td><p>None</p></td>
 <td><p>LIBCPMTD.LIB</p></td>
 </tr>
+<tr class="odd">
+<td><p>Mixed Release Static</p></td>
+<td><p>/clr</p></td>
+<td><p>_MT</p></td>
+<td><p>msvcmrt.lib</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Mixed Debug Static</p></td>
+<td><p>/clr</p></td>
+<td><p>_MT</p></td>
+<td><p>msvcmrtd.lib</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Pure Release Static(过时)</p></td>
+<td><p>/clr:pure</p></td>
+<td><p>_MT</p></td>
+<td><p>msvcurt.lib</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Pure Debug Static(过时)</p></td>
+<td><p>/clr:pure</p></td>
+<td><p>_MT</p></td>
+<td><p>msvcurtd.lib</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
-
-Universal CRT (UCRT)包含了[C99运行时库的函数与全局变量](https://zh.wikipedia.org/wiki/C99 "wikilink")。UCRT现在是Windows component，随Windows 10安装。UCRT的静态库、DLL的导入库、头文件是Windows 10 SDK的一部分。
-
-vcruntime库包含Visual C++ CRT实现相关的代码，如[异常处理](../Page/异常处理.md "wikilink")、调试支持、运行时检查、类型信息、实现细节与特定扩展库函数。 vcruntime库相关于特定编译器。
-
-CRT初始化库处理进程启动（CRT startup）、内部的逐线程的初始化、终止。CRT初始化库相关于特定编译器。CRT初始化库总是静态链接，即使使用了动态链接的UCRT.
-
-对于本地代码与受管代码混合的情形，使用/clr编译选项，这会动态链接 UCRT与vcruntime，静态链接msvcmrt.lib或msvcmrtd.lib；svcmrt.lib或msvcmrtd.lib提供了受管代码与本地CRT之间的proxy。对于纯受管代码情形，使用/clr:pure编译选项，这会静态链接msvcurt.lib或msvcurtd.lib。
 
 ### Visual C++运行时库
 

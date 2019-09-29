@@ -2,7 +2,7 @@
 
 ## 概要
 
-自1996年脫離傳統AV片商的[映畫倫理委員會](../Page/映畫倫理委員會.md "wikilink")以來，SOD一直是成長最快與表現最好的片商之一，並設立與吸引不少子公司加盟，近年來與擁有[MOODYZ](../Page/MOODYZ.md "wikilink")與[S1的](https://zh.wikipedia.org/wiki/S1_\(AV公司\) "wikilink")[北都集團被視為日本成人映像業界的兩大勢力](https://zh.wikipedia.org/wiki/北都集團 "wikilink")，2006年，SOD集合日本數家成人片商舉辦「AV OPEN」作品競賽，並集合500位男女集體性愛拍攝成作品，同時也積極和西洋成人片商合作，受到很多業界觀察家注目。
+自1996年脫離傳統AV片商的[映畫倫理委員會](../Page/映畫倫理委員會.md "wikilink")以來，SOD一直是成長最快與表現最好的片商之一，並設立與吸引不少子公司加盟，其創造性內容受視聽者關愛，近年來與擁有[MOODYZ](../Page/MOODYZ.md "wikilink")與[S1的](https://zh.wikipedia.org/wiki/S1_\(AV公司\) "wikilink")[北都集團被視為日本成人映像業界的兩大勢力](https://zh.wikipedia.org/wiki/北都集團 "wikilink")，2006年，SOD集合日本數家成人片商舉辦「AV OPEN」作品競賽，並集合500位男女集體性愛拍攝成作品，同時也積極和西洋成人片商合作，受到很多業界觀察家注目。
 
 2010年舉辦挑戰「世界做愛最久」的企劃，由女優[新垣聖那](../Page/新垣聖那.md "wikilink")與男優[川本英雄以連續做愛十小時](https://zh.wikipedia.org/wiki/川本英雄 "wikilink")，打破[金氏世界紀錄](https://zh.wikipedia.org/wiki/金氏世界紀錄 "wikilink")。\[3\]
 

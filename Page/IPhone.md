@@ -1,8 +1,8 @@
-**iPhone**是[蘋果公司研发及销售的](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[智能手机](../Page/智能手机.md "wikilink")系列，它搭載蘋果公司研發的[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")[移动操作系统](../Page/行動作業系統.md "wikilink")\[1\]。[第一代iPhone於](https://zh.wikipedia.org/wiki/iPhone_\(第一代\) "wikilink")2007年1月9日由时任蘋果公司[CEO](https://zh.wikipedia.org/wiki/CEO "wikilink")[史蒂夫·乔布斯](../Page/史蒂夫·乔布斯.md "wikilink")發布\[2\]，並在同年6月29日正式發售\[3\]\[4\]。最新型号的iPhone是发布于2018年9月初的iPhone XS、XS Max和XR。
+**iPhone**是[蘋果公司研发及销售的](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[智能手机](../Page/智能手机.md "wikilink")系列，搭載蘋果公司研發的[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")[移动操作系统](../Page/行動作業系統.md "wikilink")\[1\]。[第一代iPhone於](https://zh.wikipedia.org/wiki/iPhone_\(第一代\) "wikilink")2007年1月9日由时任蘋果公司[CEO](https://zh.wikipedia.org/wiki/CEO "wikilink")[史蒂夫·乔布斯](../Page/史蒂夫·乔布斯.md "wikilink")發布\[2\]，並在同年6月29日正式發售\[3\]\[4\]。最新型号的iPhone是发布于2019年9月10日的[iPhone 11](https://zh.wikipedia.org/wiki/iPhone_11 "wikilink")、[iPhone 11 Pro 和 iPhone 11 Pro Max](https://zh.wikipedia.org/wiki/iPhone_11_Pro "wikilink")。
 
-iPhone运行由蘋果公司研發的iOS作業系统（前身稱為iPhone OS）\[5\]\[6\]\[7\]，它是由[Apple Darwin的核心發展出來的變體](https://zh.wikipedia.org/wiki/Apple_Darwin "wikilink")，程式也可見於[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，iPhone自带苹果开发的应用程序，并支持通过App Store来下载第三方程序。苹果通过无线或iTunes为iPhone搭载的iOS提供免费更新。\[8\]
+iPhone 运行由蘋果公司研發的 iOS 作業系统（原名 iPhone OS）\[5\]\[6\]\[7\]，它是由 [Apple Darwin](https://zh.wikipedia.org/wiki/Apple_Darwin "wikilink") 的核心發展出來的變體，程式也可見於 [Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，iPhone自带苹果开发的应用程序，并支持通过 App Store 来下载第三方程序。苹果通过无线或 iTunes 为 iPhone 搭载的 iOS 提供免费更新。\[8\]
 
-iPhone所採用的多點觸控技術和它友好的用戶界面被認為是其成功的決定性因素，同時也對其他製造商的智能手機設計產生了深遠影響。美國的時代周刊將iPhone称為“2007年的年度發明”。截止到2017年，iPhone的銷量超過了12億。 iPhone的成功有助於蘋果公司成為全球最有價值的[上市公司](../Page/上市公司.md "wikilink")之一。
+iPhone 所採用的多點觸控技術和它友好的用戶界面被認為是其成功的決定性因素，同時也對其他製造商的智能手機設計產生了深遠影響。美國的時代周刊將 iPhone 称為“2007年的年度發明”。截止到2017年，iPhone 的銷量超過了12億。 iPhone 的成功有助於蘋果公司成為全球最有價值的[上市公司](../Page/上市公司.md "wikilink")之一。
 
 ## 歷史
 
@@ -53,7 +53,10 @@ iPhone所採用的多點觸控技術和它友好的用戶界面被認為是其�
 2017年9月12日（当地时间）苹果公司在美国加州圣何塞的乔布斯剧院发布了iPhone 8、iPhone 8 Plus和iPhone X。
 
 2018年9月12日，Apple推出了三款新设备：iPhone XR，iPhone XS和iPhone XS Max。这三款设备都配备了新款处理器Apple A12 Bionic。与之前的iPhone X相比，iPhone XS没有太多视觉上的变化。iPhone XR是三款新机型中最便宜的。它配备较少，没有双摄像头，并配有LCD屏幕。
-\==硬件==
+
+2019年9月10日，Apple推出了三款新设备：[iPhone 11](https://zh.wikipedia.org/wiki/iPhone_11 "wikilink")，[iPhone 11 Pro和iPhone 11 Pro Max](https://zh.wikipedia.org/wiki/iPhone_11_Pro "wikilink")。这三款设备都配备了新款处理器Apple A13 Bionic。
+
+## 硬件
 
 ### 螢幕與按键
 
@@ -63,7 +66,7 @@ iPhone的[多點觸控](../Page/多點觸控.md "wikilink")和手勢操控是基
 
 [IPhone_3G_S_sides.jpg](https://zh.wikipedia.org/wiki/File:IPhone_3G_S_sides.jpg "fig:IPhone_3G_S_sides.jpg")
 
-iPhone正面有一个叫做“home键”的圆形按键（除iPhone X、XS、XS Max和XR外)，它主要用於關閉使用中的應用程式，導航到主螢幕界面，或是喚醒手機。iPhone還有額外5個按鈕：開關按鈕 - 位於電話的頂部（iPhone 6、6 Plus、6S、6S Plus、7、7 Plus、8、8 Plus、X、XS、XS Max和XR位于电话右侧），作為電源按鈕，它亦能作為控制來電的控制，當接到來電時，按一次開關按鈕可讓來電鈴聲消失，按兩次讓來電轉駁至語言信箱，長按會顯示關機選項，關機後長按會開啟手機；位於機身左側是靜音和音量控制鍵，iPhone 4擁有兩個圓形按鍵來增加或減少音量，靜音鍵能使電話鈴聲、提示音、推送通知、相機快門等快速轉換為靜音，這鍵不會停止鬧鈴應用程式，在一些國家或地區，它不會把相機快門聲、語音備忘錄音等音效關閉。
+iPhone正面有一个叫做“home键”的圆形按键（除iPhone X、XS、XS Max、XR、11、11 Pro和11 Pro Max外)，它主要用於關閉使用中的應用程式，導航到主螢幕界面，或是喚醒手機。iPhone還有額外5個按鈕：開關按鈕 - 位於電話的頂部（iPhone 6、6 Plus、6S、6S Plus、7、7 Plus、8、8 Plus、X、XS、XS Max和XR位于电话右侧），作為電源按鈕，它亦能作為控制來電的控制，當接到來電時，按一次開關按鈕可讓來電鈴聲消失，按兩次讓來電轉駁至語言信箱，長按會顯示關機選項，關機後長按會開啟手機；位於機身左側是靜音和音量控制鍵，iPhone 4擁有兩個圓形按鍵來增加或減少音量，靜音鍵能使電話鈴聲、提示音、推送通知、相機快門等快速轉換為靜音，這鍵不會停止鬧鈴應用程式，在一些國家或地區，它不會把相機快門聲、語音備忘錄音等音效關閉。
 
 在第一代iPhone上，除Home Button外，其他按鈕均為塑膠材料；但自iPhone 3G起，除Home Button外，按鈕全由金屬製\[50\]。
 
@@ -595,8 +598,8 @@ iPhone為不同人士提供一個[無障礙環境](../Page/無障礙環境.md "w
 <td><p>iOS 9.3.6</p></td>
 <td><p>iOS 10.3.4</p></td>
 <td><p>iOS 10.3.3</p></td>
-<td><p>iOS 12.4</p></td>
-<td><p>iOS 12.4 預計可升級至<a href="https://zh.wikipedia.org/wiki/iOS_13" title="wikilink">iOS 13</a></p></td>
+<td><p>iOS 12.4.1</p></td>
+<td><p>iOS 12.4.1</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1894,7 +1897,7 @@ iPhone的研發同時也激發一些領先高科技仿製電腦\[256\]品牌，�
 
 ## 秘密追蹤
 
-從2011年4月20日，傳媒廣泛談論iPhone和其他iOS裝置中的一個隱藏已[加密的檔案](https://zh.wikipedia.org/wiki/加密 "wikilink")\[264\]\[265\]。據稱該檔案標示著“consolidated.db”，會不斷儲存由手機訊號塔發出的用戶移動位置定位，但此技術被證明有時候是不準確的\[266\]。此檔案是在2010年6月與蘋果公司更新的iOS 4一同發布，並可能載有接近一年的數據價值。以往版本的iOS儲存類似的訊息於一個稱為"h-cells.plist"的檔案中\[267\]。
+從2011年4月20日，傳媒廣泛談論iPhone和其他iOS裝置中的一個隱藏已[加密](../Page/加密.md "wikilink")的檔案\[264\]\[265\]。據稱該檔案標示著“consolidated.db”，會不斷儲存由手機訊號塔發出的用戶移動位置定位，但此技術被證明有時候是不準確的\[266\]。此檔案是在2010年6月與蘋果公司更新的iOS 4一同發布，並可能載有接近一年的數據價值。以往版本的iOS儲存類似的訊息於一個稱為"h-cells.plist"的檔案中\[267\]。
 
 [F-Secure公司發現一天兩次把數據傳送到蘋果公司](https://zh.wikipedia.org/wiki/F-Secure "wikilink")，推測蘋果公司正利用這些資料來建構他們的全球定位數據庫，類似於通過[戰爭駕駛來建構的](https://zh.wikipedia.org/wiki/戰爭駕駛 "wikilink")[谷歌和](../Page/Google.md "wikilink")\[268\]。然而，不像[谷歌的應用程式](../Page/Google.md "wikilink")"Latitude"，它執行類似[Android](../Page/Android.md "wikilink")手機的任務，此檔案是不依賴一個特定的[最終使用者協議（EULA）](https://zh.wikipedia.org/wiki/最终用户许可协议 "wikilink")，或甚至是在用戶不知情的情況下進行，但它已在iPhone的合約條款中以15,200字訂明，「蘋果公司跟他們的合作伙伴及持牌人可能會收集、使用和分享這些精確的位置數據，包括用戶的蘋果電腦或裝置的實時地理位置\[269\]。」
 
@@ -1967,6 +1970,8 @@ iPhone一般會阻擋其他媒體播放器和網絡功能，除非是受到認�
 
 ## 事件
 
+## iPhone型號的時間表
+
 ## 參見
 
   - [iPhone (第一代)](https://zh.wikipedia.org/wiki/iPhone_\(第一代\) "wikilink")
@@ -1985,6 +1990,8 @@ iPhone一般會阻擋其他媒體播放器和網絡功能，除非是受到認�
   - [iPhone X](https://zh.wikipedia.org/wiki/iPhone_X "wikilink")
   - [iPhone XS](https://zh.wikipedia.org/wiki/iPhone_XS "wikilink")/[iPhone XS Max](https://zh.wikipedia.org/wiki/iPhone_XS_Max "wikilink")
   - [iPhone XR](https://zh.wikipedia.org/wiki/iPhone_XR "wikilink")
+  - [iPhone 11](https://zh.wikipedia.org/wiki/iPhone_11 "wikilink")
+  - [iPhone 11 Pro](https://zh.wikipedia.org/wiki/iPhone_11_Pro "wikilink")/[iPhone 11 Pro Max](https://zh.wikipedia.org/wiki/iPhone_11_Pro_Max "wikilink")
   - [iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")
   - [苹果公司](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")
   - [iOS設備清單](https://zh.wikipedia.org/wiki/iOS設備清單 "wikilink")

@@ -152,6 +152,7 @@ De Beers Diamond Jewellers成立於2001年，由全球最大的精品集團LVMH�
       - [Jardin d'Acclimatation法國第一家休閒娛樂公園](https://zh.wikipedia.org/wiki/Jardin_d'Acclimatation "wikilink")。1860年開放，目前每年迎接150萬名遊客
       - [24 Sèvres](https://zh.wikipedia.org/wiki/24_Sèvres "wikilink")
       - [Belmond持有](https://zh.wikipedia.org/wiki/Belmond "wikilink")36間主打高檔市場的酒店
+      - [Princess Yachts](https://zh.wikipedia.org/wiki/Princess_Yachts "wikilink")
 
 ## 海外投資
 

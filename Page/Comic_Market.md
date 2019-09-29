@@ -8,7 +8,7 @@
 
 隨著Comic Market的知名度越來越大，現時有一些職業[漫畫家以及](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[遊戲公司](https://zh.wikipedia.org/wiki/遊戲 "wikilink")（一般而言售賣[美少女遊戲](../Page/美少女遊戲.md "wikilink")的公司較多）也會參加Comic Market。以「公司名義」參加的機構會被安置到特定的場館，即「企業攤」。
 
-雖然Comic Market是以[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")、[動畫的](https://zh.wikipedia.org/wiki/動畫 "wikilink")[同人作品為主](https://zh.wikipedia.org/wiki/同人 "wikilink")，但其實一些鐵道愛好者、[哥德蘿莉衣服的設計師](https://zh.wikipedia.org/wiki/哥德蘿莉 "wikilink")、業餘歌手甚至業餘畫家都會到Comic Market發售他們的作品。
+雖然Comic Market是以[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")、[動畫的](https://zh.wikipedia.org/wiki/動畫 "wikilink")[同人作品為主](https://zh.wikipedia.org/wiki/同人 "wikilink")，但其實一些[鐵道愛好者](../Page/鐵道迷.md "wikilink")、[哥德蘿莉衣服的設計師](https://zh.wikipedia.org/wiki/哥德蘿莉 "wikilink")、業餘歌手甚至業餘畫家都會到Comic Market發售他們的作品。
 
 在東京國際展示場的場外設有[Cosplay](../Page/Cosplay.md "wikilink")區可供Cosplay愛好者拍照。
 
@@ -366,7 +366,7 @@
 
 ## 參考資料
 
-## 參見
+## 相關
 
   - [同人誌即賣會](../Page/同人誌即賣會.md "wikilink")
   - [同人 (ACG)](../Page/同人_\(ACG\).md "wikilink")

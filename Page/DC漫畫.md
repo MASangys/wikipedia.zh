@@ -18,8 +18,6 @@ DC漫画公司有两大主要分销商：[兰登书屋](../Page/兰登书屋.md 
 
 ## DC宇宙
 
-Ho
-
 ## DC娱乐
 
 [电视节目](../Page/电视节目.md "wikilink"){{\\}}[电子游戏](../Page/电子游戏.md "wikilink") | owner = [时代华纳集团](https://zh.wikipedia.org/wiki/时代华纳集团 "wikilink") | parent = [华纳兄弟](../Page/华纳兄弟.md "wikilink")娱乐公司 | divisions =  | homepage =  }}

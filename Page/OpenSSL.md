@@ -1,6 +1,6 @@
 在-{zh-tw:[電腦網路](https://zh.wikipedia.org/wiki/電腦網路 "wikilink");zh-cn:[计算机网络](../Page/计算机网络.md "wikilink")}-上，**OpenSSL**是一個[開放原始碼的](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")[軟體](https://zh.wikipedia.org/wiki/軟體 "wikilink")[函式庫](../Page/函式庫.md "wikilink")套件，應用程式可以使用這個套件來進行安全通訊，避免竊聽，同時確認另一端連線者的身份。這個套件廣泛被應用在網際網路的網頁伺服器上。
 
-其主要[函式庫](../Page/函式庫.md "wikilink")是以[C語言所寫成](https://zh.wikipedia.org/wiki/C語言 "wikilink")，實作了基本的[加密功能](https://zh.wikipedia.org/wiki/加密 "wikilink")，實作了[SSL與TLS協定](https://zh.wikipedia.org/wiki/傳輸層安全協議 "wikilink")。OpenSSL可以運行在[OpenVMS](https://zh.wikipedia.org/wiki/OpenVMS "wikilink")、 [Microsoft Windows以及絕大多數](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[類Unix作業系統上](https://zh.wikipedia.org/wiki/類Unix "wikilink")（包括[Solaris](../Page/Solaris.md "wikilink")，[Linux](../Page/Linux.md "wikilink")，[Mac OS X與各種版本的開放原始碼](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[BSD](../Page/BSD.md "wikilink")作業系統）。它也提供了一個移植版本，可以在[IBM i](https://zh.wikipedia.org/wiki/IBM_i "wikilink")（OS/400）上運作。
+其主要[函式庫](../Page/函式庫.md "wikilink")是以[C語言所寫成](https://zh.wikipedia.org/wiki/C語言 "wikilink")，實作了基本的[加密](../Page/加密.md "wikilink")功能，實作了[SSL與TLS協定](https://zh.wikipedia.org/wiki/傳輸層安全協議 "wikilink")。OpenSSL可以運行在[OpenVMS](https://zh.wikipedia.org/wiki/OpenVMS "wikilink")、 [Microsoft Windows以及絕大多數](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[類Unix作業系統上](https://zh.wikipedia.org/wiki/類Unix "wikilink")（包括[Solaris](../Page/Solaris.md "wikilink")，[Linux](../Page/Linux.md "wikilink")，[Mac OS X與各種版本的開放原始碼](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[BSD](../Page/BSD.md "wikilink")作業系統）。它也提供了一個移植版本，可以在[IBM i](https://zh.wikipedia.org/wiki/IBM_i "wikilink")（OS/400）上運作。
 
 雖然此軟體是開放原始碼的，但其授權書條款與[GPL有衝突之處](https://zh.wikipedia.org/wiki/GPL "wikilink")，故GPL軟體使用OpenSSL時（如[Wget](../Page/Wget.md "wikilink")）必須對OpenSSL給予例外。
 
@@ -21,7 +21,7 @@ OpenSSL管理委員會目前由7人組成\[1\] 有13個開發人員\[2\]具有�
 <th><p>版本</p></th>
 <th><p>发布时间</p></th>
 <th><p>备注</p></th>
-<th><p>最后一个更新</p></th>
+<th><p>最近更新版本</p></th>
 </tr>
 </thead>
 <tbody>
@@ -131,11 +131,11 @@ OpenSSL管理委員會目前由7人組成\[1\] 有13個開發人員\[2\]具有�
 <li>支持<a href="../Page/应用层协议协商.md" title="wikilink">应用层协议协商</a></li>
 <li>CMS支持、、<a href="https://zh.wikipedia.org/wiki/ECDH" title="wikilink">ECDH及X</a>9.42 DH</li>
 </ul></td>
-<td><p>1.0.2q（）</p></td>
+<td><p>1.0.2t（）</p></td>
 </tr>
 <tr class="even">
 <td><p>[8]</p></td>
-<td><p>2016年8月25日</p></td>
+<td></td>
 <td><ul>
 <li>取代1.0.2h</li>
 <li>預計維護到2019年9月[9]</li>
@@ -151,7 +151,7 @@ OpenSSL管理委員會目前由7人組成\[1\] 有13個開發人員\[2\]具有�
 <li>将DSS、SEED、IDEA、CAMELLIA以及AES-CCM从DEFAULT密碼套件中移除</li>
 <li>将40和56位密码从libssl中移除</li>
 </ul></td>
-<td><p>1.1.0j（）</p></td>
+<td><p>1.1.0l（）</p></td>
 </tr>
 <tr class="odd">
 <td><p>[10]</p></td>
@@ -168,7 +168,7 @@ OpenSSL管理委員會目前由7人組成\[1\] 有13個開發人員\[2\]具有�
 <li>移除<a href="../Page/心脏出血漏洞.md" title="wikilink">Heartbleed</a></li>
 <li>移除对QNX支持的支持</li>
 </ul></td>
-<td><p>1.1.1b（）</p></td>
+<td><p>1.1.1d（）</p></td>
 </tr>
 <tr class="even">
 <td><p><small></small></p></td>
@@ -183,7 +183,7 @@ OpenSSL管理委員會目前由7人組成\[1\] 有13個開發人員\[2\]具有�
 
 OpenSSL支持许多不同的加密算法：
 
-  - [加密](https://zh.wikipedia.org/wiki/加密 "wikilink"):
+  - [加密](../Page/加密.md "wikilink"):
     [AES](../Page/高级加密标准.md "wikilink")、[Blowfish](https://zh.wikipedia.org/wiki/Blowfish_\(密码学\) "wikilink")、[Camellia](../Page/Camellia.md "wikilink")、[Chacha20](https://zh.wikipedia.org/wiki/Salsa20#ChaCha20 "wikilink")、[Poly1305](../Page/Poly1305.md "wikilink")、、、[DES](../Page/資料加密標準.md "wikilink")、[IDEA](../Page/國際資料加密演算法.md "wikilink")、、[RC4](../Page/RC4.md "wikilink")、[RC5](../Page/RC5.md "wikilink")、[TDES](https://zh.wikipedia.org/wiki/三重資料加密演算法 "wikilink")、\[14\]、[SM4](../Page/SM4.md "wikilink")
   - [密碼雜湊函數](https://zh.wikipedia.org/wiki/密碼雜湊函數 "wikilink"):
     [MD5](../Page/MD5.md "wikilink")、[MD4](https://zh.wikipedia.org/wiki/MD4 "wikilink")、、[SHA-1](../Page/SHA-1.md "wikilink")、[SHA-2](../Page/SHA-2.md "wikilink")、[SHA-3](../Page/SHA-3.md "wikilink")、[RIPEMD-160](https://zh.wikipedia.org/wiki/RIPEMD-160 "wikilink")、、\[15\]、[BLAKE2](https://zh.wikipedia.org/wiki/BLAKE#BLAKE2 "wikilink")、\[16\]、[SM3](../Page/SM3.md "wikilink")
@@ -216,7 +216,7 @@ OpenSSL 1.0.1版本（不含1.0.1g）含有一个严重漏洞，可允许攻击�
 
 ## 参见
 
-  - [加密](https://zh.wikipedia.org/wiki/加密 "wikilink")
+  - [加密](../Page/加密.md "wikilink")
   - [OpenSSH](../Page/OpenSSH.md "wikilink")
 
 ## 参考

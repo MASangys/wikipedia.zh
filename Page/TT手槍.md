@@ -184,6 +184,7 @@ TT-33成為了[二戰中廣為蘇軍使用的手槍](https://zh.wikipedia.org/wi
 
 ### 動畫
 
+  - 2004年—《[雲之彼端，約定的地方](../Page/雲之彼端，約定的地方.md "wikilink")》：型號為TT-33。
   - 2006年—《[BLOOD+](https://zh.wikipedia.org/wiki/BLOOD+ "wikilink")》：型號為TT-33。
   - 2006年—《[暮蟬悲鳴時](../Page/暮蟬悲鳴時_\(動畫\).md "wikilink")》：型號為TT-33。
   - 2006年—《[-{zh-cn:黑礁; zh-tw:企業傭兵;}-](../Page/企業傭兵.md "wikilink")》（BLACK LAGOON）：型號為TT-33，被莫斯科酒店成員、[真主黨成員伊布拉哈等多個陣營和角色所使用](https://zh.wikipedia.org/wiki/真主黨 "wikilink")，也被萊薇在日本活動期間短暫地用作配槍。

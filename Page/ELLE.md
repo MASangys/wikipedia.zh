@@ -28,36 +28,12 @@
 
 ## 外部链接
 
-  - [ELLE 法国](http://www.elle.fr/)
-
-  - [ELLE美国](http://www.elle.com/)
-
-  - [ELLE英国](http://www.elleuk.com/)
-
-  - [ELLE 巴西](http://www.elle.com.br/)
-
-  - [ELLE 德国](http://www.elle.de/)
-
-  - [ELLE 荷兰](http://www.elle.nl/)
-
-  - [ELLE 捷克](http://www.elle.cz/)
-
-  - [ELLE 比利时](http://www.elle.be/)
-
-  - [ELLE 中国](http://www.ellechina.com/)
-
-  - [ELLE 香港](http://www.elle.com.hk/)
-
   - [ELLE 台灣](http://www.elle.com.tw/)
 
   -
   -
-  - [ELLE Taiwan](https://plus.google.com/+ELLETW2013/posts)在[google+頁面](https://zh.wikipedia.org/wiki/google+ "wikilink")
-
   -
   -
-  - [ELLE 台灣](https://itunes.apple.com/tw/app/elle-tai-wan/id572068168?mt=8)在[iTunes頁面](https://zh.wikipedia.org/wiki/iTunes "wikilink")
-
 [Category:月刊](https://zh.wikipedia.org/wiki/Category:月刊 "wikilink") [Category:時尚雜誌](https://zh.wikipedia.org/wiki/Category:時尚雜誌 "wikilink") [Category:法國雜誌](https://zh.wikipedia.org/wiki/Category:法國雜誌 "wikilink")
 
 1.

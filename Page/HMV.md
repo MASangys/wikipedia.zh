@@ -16,11 +16,11 @@ HMV在1994年登陸香港，首間分店設於[銅鑼灣](../Page/銅鑼灣.md "
 
 HMV曾經有中文名「音樂無限」，於2000年代在香港全線分店播放[香港商業電台](../Page/香港商業電台.md "wikilink")的英語頻道[豁達864](https://zh.wikipedia.org/wiki/豁達864 "wikilink")，並曾將該頻道冠名為「HMV864」。
 
-目前HMV在香港設有5間分店，包括[中環](../Page/中環.md "wikilink")[萬年大廈](../Page/萬年大廈.md "wikilink")、[銅鑼灣](../Page/銅鑼灣.md "wikilink")[翡翠明珠廣場](../Page/翡翠明珠廣場.md "wikilink")、[旺角](../Page/旺角.md "wikilink")[The Forest](../Page/SKYPARK.md "wikilink")、[尖沙咀](../Page/尖沙咀.md "wikilink")[iSquare及](https://zh.wikipedia.org/wiki/iSquare "wikilink")[九龍灣](../Page/九龍灣.md "wikilink")[德福廣場](../Page/德福廣場.md "wikilink")；並於[紅磡](../Page/紅磡.md "wikilink")[黃埔新天地開設hmv](https://zh.wikipedia.org/wiki/黃埔新天地 "wikilink") kids兒童學習中心。
+HMV在曾香港設有5間分店，包括[中環](../Page/中環.md "wikilink")[萬年大廈](../Page/萬年大廈.md "wikilink")、[銅鑼灣](../Page/銅鑼灣.md "wikilink")[翡翠明珠廣場](../Page/翡翠明珠廣場.md "wikilink")、[旺角](../Page/旺角.md "wikilink")[The Forest](../Page/SKYPARK.md "wikilink")、[尖沙咀](../Page/尖沙咀.md "wikilink")[iSquare及](https://zh.wikipedia.org/wiki/iSquare "wikilink")[九龍灣](../Page/九龍灣.md "wikilink")[德福廣場](../Page/德福廣場.md "wikilink")；並於[紅磡](../Page/紅磡.md "wikilink")[黃埔新天地開設hmv](https://zh.wikipedia.org/wiki/黃埔新天地 "wikilink") kids兒童學習中心。
 
 匯友資本2013年2月28日宣布，以5,680萬元全資收購HMV在香港、新加坡的全部業務以及中國內地、台灣及澳門的永久經營權。其後將唱片影碟店轉型成為多元化生活概念店，並加入咖啡店、小型書店、時裝、黑膠碟銷售及兒童閱讀區等新元素。中環[娛樂行](../Page/娛樂行.md "wikilink")總店，在2014年8月完成翻新後以「HMVideal」品牌重新登場，到2016年結業。\[3\]
 
-原[銅鑼灣](../Page/銅鑼灣.md "wikilink")柏寧酒店[潮流觸覺分店已於](https://zh.wikipedia.org/wiki/潮流觸覺 "wikilink")2015年8月6日起關閉，到同年11月在明珠廣場2樓至4樓設HMV香港旗艦店，以「音樂。時尚。餐飲」三大主題，佔地接近四萬平方尺。而原[黃埔新天地分店亦已於](https://zh.wikipedia.org/wiki/黃埔新天地 "wikilink")2015年11月22日起關閉。
+原[銅鑼灣](../Page/銅鑼灣.md "wikilink")柏寧酒店[潮流觸覺分店已於](https://zh.wikipedia.org/wiki/潮流觸覺 "wikilink")2015年8月6日起關閉，到同年11月在明珠廣場2樓至4樓設HMV香港旗艦店，以「音樂。時尚。餐飲」三大主題，佔地接近4萬平方尺。而原[黃埔新天地分店亦已於](https://zh.wikipedia.org/wiki/黃埔新天地 "wikilink")2015年11月22日起關閉。
 
 2016年3月21日，[中國3D數碼娛樂有限公司收購HMV香港](../Page/HMV數碼中國集團.md "wikilink")，並位於香港[銅鑼灣](../Page/銅鑼灣.md "wikilink")旗艦店舉行「本土文化，國際視野」併購記者會\[4\]。
 

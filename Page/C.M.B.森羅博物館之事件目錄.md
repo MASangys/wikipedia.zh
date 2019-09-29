@@ -888,6 +888,64 @@
 <td></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>Op.106</p></td>
+<td><p>會動的岩石 ()</p></td>
+<td><p>2016年5月号</p></td>
+<td><p>33卷</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Op.107</p></td>
+<td><p>總有一天的文學全集 ()</p></td>
+<td><p>2016年6月号</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Op.108</p></td>
+<td><p>角蟬 ()</p></td>
+<td><p>2016年7月号</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Op.109</p></td>
+<td><p>看不見的弓箭手 ()</p></td>
+<td><p>2016年9月号</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Op.110</p></td>
+<td><p>消失的飛行 ()</p></td>
+<td><p>2016年8月号</p></td>
+<td><p>34卷</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Op.111</p></td>
+<td><p>瑪莉亞娜的幻境 ()<br />
+〈前篇、後篇〉</p></td>
+<td><p>2016年10月号<br />
+2016年11月号</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Op.112</p></td>
+<td><p>舊房子 ()</p></td>
+<td><p>2016年12月号</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

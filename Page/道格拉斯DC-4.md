@@ -1,4 +1,4 @@
-**[道格拉斯DC](https://zh.wikipedia.org/wiki/道格拉斯 "wikilink")-4**是道格拉斯飛機公司研發四[發動機螺旋槳客機](https://zh.wikipedia.org/wiki/發動機 "wikilink")，其軍用型[C-54運輸機在](https://zh.wikipedia.org/wiki/C-54運輸機 "wikilink")[第二次世界大戰期間廣泛地使用](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")。二戰結束後，一部分C-54改裝回民航客機投入民間市場，其優良的設計成為後來[DC-6及](https://zh.wikipedia.org/wiki/DC-6 "wikilink")[DC-7的設計基礎](https://zh.wikipedia.org/wiki/DC-7 "wikilink")。
+**道格拉斯DC-4**是[道格拉斯飛機公司研發的四](https://zh.wikipedia.org/wiki/道格拉斯飛機公司 "wikilink")[發動機螺旋槳飛機](https://zh.wikipedia.org/wiki/發動機 "wikilink")，其軍用型[C-54運輸機在](https://zh.wikipedia.org/wiki/C-54運輸機 "wikilink")[第二次世界大戰期間廣泛地使用](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")。二戰結束後，一部分C-54改裝回民航客機投入民間市場，其優良的設計成為後來[DC-6及](https://zh.wikipedia.org/wiki/DC-6 "wikilink")[DC-7的設計基礎](https://zh.wikipedia.org/wiki/DC-7 "wikilink")。
 
 ## 簡介
 

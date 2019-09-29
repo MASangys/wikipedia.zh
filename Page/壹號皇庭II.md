@@ -40,13 +40,14 @@
 <td><p>余在春</p></td>
 <td><p>Ben<br />
 大律師<br />
-喜歡丁柔</p></td>
+丁柔之男友</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/陳秀雯.md" title="wikilink">陳秀雯</a></p></td>
 <td><p>丁　柔</p></td>
 <td><p>Michelle<br />
-高級检控官</p></td>
+高級检控官<br />
+余在春之女友</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/陶大宇.md" title="wikilink">陶大宇</a></p></td>
@@ -83,19 +84,23 @@
 <td><p>周志輝</p></td>
 <td><p>Raymond<br />
 律師<br />
+唐毓文之男友<br />
 與唐毓文、關靜曖昧不明</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/王靖雯" title="wikilink">王靖雯</a></p></td>
 <td><p>唐毓文</p></td>
 <td><p>Man／Mandy<br />
-检控官</p></td>
+检控官<br />
+周志輝之女友</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/林漪娸.md" title="wikilink">林漪娸</a></p></td>
 <td><p>林學宜</p></td>
 <td><p>Doris<br />
-高級督察</p></td>
+高級督察<br />
+曾為Wilson女友，後分手<br />
+被趙天雄強姦(蹂躪案第二位受害人)</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/鄧梓峰.md" title="wikilink">鄧梓峰</a></p></td>
@@ -108,6 +113,7 @@
 <td><p>周少聰</p></td>
 <td><p>Eric<br />
 大律師<br />
+失聰人士<br />
 喜歡江承宙，後成男友</p></td>
 </tr>
 <tr class="odd">
@@ -115,6 +121,7 @@
 <td><p>關　靜</p></td>
 <td><p>Jessica<br />
 律師<br />
+Alex之女友<br />
 喜歡周志輝</p></td>
 </tr>
 <tr class="even">

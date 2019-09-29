@@ -8,7 +8,7 @@ OpenID最初由[LiveJournal的](https://zh.wikipedia.org/wiki/LiveJournal "wikil
 
 为了推动OpenID的应用，2006年8月，赞助设立了OpenID奖励计划，对前10位满足要求的软件项目各奖励5000美元。
 
-2007年12月5日，OpenID验证规范2.0和属性交换规范1.0发布。
+2007年12月5日，OpenID验证规范9.0和属性交换规范9.0发布。
 
 ## 使用OpenID
 

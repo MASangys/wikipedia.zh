@@ -48,7 +48,7 @@
 
 HomePlug產品是利用家中現有的電力線路形成網路，並在有效的傳輸封包下，提供穩定的音訊及視訊，因而成為家中各處提供高畫質電視串流影片的理想選擇。
 
-在[智慧電網](../Page/智慧電網.md "wikilink")應用方面，HPA已完成HomePlug GP規格，針對成本最佳化的低耗電解決方案，例如冷凍空調系統（HVAC）溫度控制器、智慧型電錶、家用電器，以及充電式混合動力電動車（PEHV）。
+在[智慧電網](../Page/智慧電網.md "wikilink")應用方面，HPA已完成HomePlug GP規格，針對成本最佳化的低耗電解決方案，例如冷凍空調系統（HVAC）溫度控制器、智慧型電錶、家用電器，以及充電式混合動力電動車（PHEV）。
 
 2010年，HomePlug Powerline Alliance與[Wi-Fi联盟](../Page/Wi-Fi联盟.md "wikilink")宣布結盟，將聯手推動無死角的[無線家庭](https://zh.wikipedia.org/wiki/無線家庭 "wikilink")。兩個聯盟將合作進行Wi-Fi與HomePlug規格與相關標準的技術審查，以確保在[智慧電網](../Page/智慧電網.md "wikilink")應用領域的互通性。他們也將推動Smart Energy 2應用規範（Applications Profile），實現能橫跨無線與有線網路的應用。
 

@@ -8,7 +8,7 @@ Coda具有以下的特性：
 2.  免費，可自由取得
 3.  利用Client端的[快取](https://zh.wikipedia.org/wiki/快取 "wikilink")，達到高效能
 4.  複製[伺服器端資料](https://zh.wikipedia.org/wiki/伺服器 "wikilink")
-5.  安全的授權方式與[加密過的傳輸協定](https://zh.wikipedia.org/wiki/加密 "wikilink")
+5.  安全的授權方式與[加密](../Page/加密.md "wikilink")過的傳輸協定
 6.  [伺服器斷線時](https://zh.wikipedia.org/wiki/伺服器 "wikilink")，仍能維持大部分的操作
 7.  依照網路頻寬自動調整操作方式
 8.  擴展性高

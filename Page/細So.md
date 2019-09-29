@@ -78,7 +78,7 @@
 ### 作曲
 
   - 月球上的人（[陳奕迅](../Page/陳奕迅.md "wikilink")）
-  - 兒歌（[容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")）
+  - 兒歌（[容祖兒](../Page/容祖兒.md "wikilink")）
   - 差不多先生（[EO2](../Page/EO2.md "wikilink")）
   - 給愛惜的人（[吳浩康](../Page/吳浩康.md "wikilink")）
   - 一天（EO2）
@@ -96,6 +96,7 @@
   - 你是你（[許志安](../Page/許志安.md "wikilink")）
   - 逆風速遞（[林海峰](../Page/林海峰_\(香港\).md "wikilink")）
   - 五十路（[李克勤](../Page/李克勤.md "wikilink")）
+  - 碎紙機的告白（[李靖筠](../Page/李靖筠.md "wikilink")）
 
 ### 作詞
 

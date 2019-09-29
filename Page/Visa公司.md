@@ -6,7 +6,7 @@ VISA在2015年後是全世界規模第二大的信用卡与借记卡支付机构
 
 ## VISA标志
 
-<File:Old> Visa Logo.svg|第一代VISA标志：1992年7月1日至2000年 <File:Former> Visa (company) logo.svg|第二代VISA标志：1998年8月至2006年 <File:Visa> Inc. logo.svg|第三代VISA标志：2005年至2015年5月 <File:Visa> 2014 logo detail.svg|第四代VISA标志：2014年1月起至今 [File:Visa.svg|現今VISA验证标志：2015年起（used](File:Visa.svg%7C現今VISA验证标志：2015年起（used) only in certain Asian, American and European markets）
+<File:Old> Visa Logo.svg|第一代VISA标志：1992年7月1日至2000年 <File:Former> Visa (company) logo.svg|第二代VISA标志：1998年8月至2006年 <File:Visa> Inc. logo.svg|第三代VISA标志：2005年至2015年5月 <File:Visa> 2014 logo detail.svg|第四代VISA标志：2014年1月起至今 [File:Visa.svg|現今VISA验证标志：2015年起](File:Visa.svg%7C現今VISA验证标志：2015年起)
 
 ## VISA卡
 

@@ -1,4 +1,4 @@
-**GUNDAM系機動戰士**的起源是為[機動戰士GUNDAM](../Page/機動戰士GUNDAM.md "wikilink")中出現的[RX-78-2](https://zh.wikipedia.org/wiki/RX-78系列機動戰士 "wikilink")。這機體使用-{**GUNDAM**}-作為名稱，是因為原作者[富野由悠季](../Page/富野由悠季.md "wikilink")原來的企劃想把作品名稱稱為GUNBOY（槍小子）然後在看到英文的DAM（水壩）後覺得有著能夠堅強不屈的精神，所以更改作品名稱為GUNDAM\[1\]，而主角所使用的機體（RX-78-2）名稱亦跟隨著改變。
+**GUNDAM系機動戰士**的起源是為[機動戰士GUNDAM](../Page/機動戰士GUNDAM.md "wikilink")中出現的[RX-78-2](https://zh.wikipedia.org/wiki/RX-78系列機動戰士 "wikilink")。這[機動戰士使用](https://zh.wikipedia.org/wiki/機動戰士 "wikilink")-{**GUNDAM**}-作為名稱，是因為原作者[富野由悠季](../Page/富野由悠季.md "wikilink")原來的企劃想把作品名稱稱為GUNBOY（槍小子）然後在看到英文的DAM（水壩）後覺得有著能夠堅強不屈的精神，所以更改作品名稱為GUNDAM\[1\]，而主角所使用的機體（RX-78-2）名稱亦跟隨著改變。
 
 ## 定義
 

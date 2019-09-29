@@ -10,7 +10,7 @@ Bash是一个命令处理器，通常运行于文本窗口中，并能执行用�
 
 由于[理查德·斯托曼](../Page/理查德·斯托曼.md "wikilink")对于之前一位开发者的进度不满，布莱恩·福克斯从1988年1月10日开始开发Bash。斯托曼和[自由软件基金会](../Page/自由软件基金会.md "wikilink")希望到一个能够运行已有的shell脚本的自由软件。他们把这看作是建成一个基于BSD和GNU的完全自由的操作系统的战略的重要部分。这是他们自己注资的几个项目之一。福克斯作为自由软件基金会的雇员承担了这项工作。1989年6月8日，福克斯发布了Bash的beta版本，版本号为.99。在福克斯离开于1992年中期到1994年中期的某个时候离开自由软件基金会之前，他一直担任Bash的主要维护者。之后，他的工作被传递给另一个早期贡献者，切特·雷米（Chet Ramey）。
 
-从那时起，在Linux用户当中sh在很大度上成为了最流行的shell，并成为许多Linux发行版默认的交互式shell（不过[Almquist shell可能是默认的脚本shell](../Page/Almquist_shell.md "wikilink")）。在苹果公司的 OS X 操作系统上也是如此。Bash 也被移植到 Microsoft Windows（通过[Cygwin](../Page/Cygwin.md "wikilink")和[MinGW](../Page/MinGW.md "wikilink")）。通过项目，Bash被移植到了[DOS](../Page/DOS.md "wikilink")。通过许多终端模拟软件，Bash被移植到[Novell NetWare和](../Page/Novell_NetWare.md "wikilink")[Android](../Page/Android.md "wikilink")。微软在2016年的Build大会上宣布，Windows 10 添加了一个Linux子系统，完全支持Bash和其他Ubuntu下的二进制程序。
+从那时起，在Linux用户当中sh在很大度上成为了最流行的shell，并成为许多Linux发行版默认的交互式shell（不过[Almquist shell可能是默认的脚本shell](../Page/Almquist_shell.md "wikilink")）。在苹果公司的 OS X 操作系统上也是如此。Bash 也被移植到 Microsoft Windows（通过[Cygwin](../Page/Cygwin.md "wikilink")和[MinGW](../Page/MinGW.md "wikilink")）。通过[DJGPP](../Page/DJGPP.md "wikilink")项目，Bash被移植到了[DOS](../Page/DOS.md "wikilink")。通过许多终端模拟软件，Bash被移植到[Novell NetWare和](../Page/Novell_NetWare.md "wikilink")[Android](../Page/Android.md "wikilink")。微软在2016年的Build大会上宣布，Windows 10 添加了一个Linux子系统，完全支持Bash和其他Ubuntu下的二进制程序。
 
 2014年9月24日，Stephane Chazelas，一位工作于英国，致力于Unix/Linux和网络通信方面的专家，发现了Bash的一个安全漏洞。这个漏洞被命名为Shellshock，并被分配了编号 CVE-2014-6271、CVE-2014-6277、CVE-2014-7169。这个漏洞非常严重，因为使用Bash的[CGI脚本会变得脆弱](../Page/通用网关接口.md "wikilink")，使得攻击者可以执行任意的代码。这个漏洞与Bash通过环境变量把函数定义传递给shell子进程的方式有关。
 

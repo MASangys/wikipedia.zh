@@ -114,7 +114,7 @@
 ## 現有藝人
 
   - 斜體為目前已暫停活動。
-  - 公司僅負責[Victoria](../Page/宋茜.md "wikilink")、[Lay韓國活動](../Page/張藝興.md "wikilink")。
+  - 公司僅負責[Lay韓國活動](../Page/張藝興.md "wikilink")。
 
 ### Solo歌手
 
@@ -148,10 +148,8 @@
   - *[喜悅Dana](../Page/喜悅Dana.md "wikilink")*
   - *智聲Sunday*
   - [太妍](../Page/太妍.md "wikilink")
-  - [Luna](../Page/朴善英.md "wikilink")
   - [孝淵](https://zh.wikipedia.org/wiki/孝淵 "wikilink")
   - [潤娥](https://zh.wikipedia.org/wiki/潤娥 "wikilink")
-  - [Victoria](../Page/宋茜.md "wikilink")
   - [俞利](../Page/俞利.md "wikilink")
   - [Sulli](../Page/崔真理.md "wikilink")
 
@@ -174,8 +172,8 @@
 <!-- end list -->
 
   - *[天上智喜](../Page/天上智喜.md "wikilink")*
-  - [少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")
-  - [f(x)](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")
+  - *[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")*
+  - *[f(x)](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")*
   - [Red Velvet](../Page/Red_Velvet.md "wikilink")
 
 ### 子團組合
@@ -353,8 +351,6 @@
   - [金秀路](../Page/金秀路.md "wikilink")
 
   - 姜弼錫
-
-  - [金時厚](../Page/金時厚.md "wikilink")
 
   - 林炳根
 
@@ -568,10 +564,13 @@
   - [SHINee](../Page/SHINee.md "wikilink")
       - [鐘鉉](https://zh.wikipedia.org/wiki/金鐘鉉_\(歌手\) "wikilink")<small>（2008-2018）</small>
   - [強藝元](../Page/強藝元.md "wikilink")<small>（2013-2018）</small>
+  - [金時厚](../Page/金時厚.md "wikilink")<small>（2013-2018）</small>
   - [Super Junior-M](../Page/Super_Junior-M.md "wikilink")
       - [Henry](../Page/劉憲華.md "wikilink")<small>（2008-2018）</small>
   - [f(x)](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")
       - [Amber](https://zh.wikipedia.org/wiki/劉逸雲 "wikilink")<small>（2009-2019）</small>
+      - [Luna](../Page/朴善英.md "wikilink")<small>（2009-2019）</small>
+      - [Victoria](../Page/宋茜.md "wikilink")<small>（2009-2019）</small>
 
 <!-- end list -->
 

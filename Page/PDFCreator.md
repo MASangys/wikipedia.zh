@@ -14,7 +14,7 @@ PDFCreator可以转化以下格式：PDF（含[PDF/A](https://zh.wikipedia.org/w
 
 从0.8.1 RC9（2005年）版起PDFCreator支持通过[ActiveX](../Page/ActiveX.md "wikilink")界面访问其功能，允许任意启用COM的程序利用其功能。\[5\]
 
-PDFCreator允许用户禁用打印、复制文本或图像及修改原有文档。用户也可以在两种类型的密码、用户与所有者之间做选择，以限制PDF文件。前者在打开PDF文件的时候是需要的，而后者在更改权限及密码的时候是必需的。[加密可以采用](https://zh.wikipedia.org/wiki/加密 "wikilink")40位，兼容[Adobe Acrobat](../Page/Adobe_Acrobat.md "wikilink") 3.0或4.0，或者128位，兼容Acrobat 5.0或更高版本。
+PDFCreator允许用户禁用打印、复制文本或图像及修改原有文档。用户也可以在两种类型的密码、用户与所有者之间做选择，以限制PDF文件。前者在打开PDF文件的时候是需要的，而后者在更改权限及密码的时候是必需的。[加密](../Page/加密.md "wikilink")可以采用40位，兼容[Adobe Acrobat](../Page/Adobe_Acrobat.md "wikilink") 3.0或4.0，或者128位，兼容Acrobat 5.0或更高版本。
 
 从0.9.6版起，PDFCreator完全支持[Windows Vista](../Page/Windows_Vista.md "wikilink")，而且0.9.7版支持[Windows 7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")。\[6\] \[7\]
 

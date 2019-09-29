@@ -16,7 +16,7 @@ WinZip的官方網站上提供為期30天的免费试用版本。然而，一些
 
   - 创建或加入文件到ZIP压缩包、解压[ZIP压缩包](../Page/ZIP格式.md "wikilink")，还可解压部分其他格式压缩包。
   - 可配置的[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink") Shell整合。
-  - 128位和256位[AES](https://zh.wikipedia.org/wiki/AES "wikilink")[加密](https://zh.wikipedia.org/wiki/加密 "wikilink")。\[3\]这种加密方式替代了较早版本较不安全的PKZIP 2.0加密方式。加密的执行使用了[Brian Gladman的代码](https://zh.wikipedia.org/wiki/Brian_Gladman "wikilink")，2003年3月27日被FIPS-197认证。\[4\]
+  - 128位和256位[AES](https://zh.wikipedia.org/wiki/AES "wikilink")[加密](../Page/加密.md "wikilink")。\[3\]这种加密方式替代了较早版本较不安全的PKZIP 2.0加密方式。加密的执行使用了[Brian Gladman的代码](https://zh.wikipedia.org/wiki/Brian_Gladman "wikilink")，2003年3月27日被FIPS-197认证。\[4\]
     版本9加入了64位PKZIP文件格式，消灭了压缩文件个数65,535的[上限和](https://zh.wikipedia.org/wiki/16位元 "wikilink")4GB的压缩文件／被压缩文件大小[上限](../Page/32位元.md "wikilink")。
   - 支持[bzip2](https://zh.wikipedia.org/wiki/bzip2 "wikilink")（9.0），[PPMd](https://zh.wikipedia.org/wiki/PPM_compression_algorithm "wikilink")（10.0），[WavPack](../Page/WavPack.md "wikilink")（11.0），使压缩文件能更小，但压缩/解压时间会更长（特别是当采用PPMd时）。
   - 支持解压.bz2和.[rar文件](https://zh.wikipedia.org/wiki/rar "wikilink")。

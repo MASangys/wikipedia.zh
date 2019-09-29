@@ -50,9 +50,29 @@ McFLY熱心公益，參與各種慈善活動的演出，包括: [喜劇救濟](h
 
 《Above the Noise》於2010年11月15日推出他們第五張專輯。第一首单曲叫做《*Party Girl*》獲得英国排行榜第六名的成績。第二首單曲《*Shine A Light*》与 [泰歐·克魯斯](https://zh.wikipedia.org/wiki/泰歐·克魯斯 "wikilink") Taio Cruz合作，更獲得英国排行榜第四名的成績。其後樂隊首次舉行了28場的世界巡迴演唱會。
 
-### *2011-現在：第六張錄音室專輯*
+### *2011-2012：Memory Lane: The Best of McFly*
 
 2011年8月，McFly聲明他們將在2012年的3-4月在英國進行全國巡演。11月1日McFly聯手Gioia Jewellery發行了印有每個樂隊成員的SuperCity Logo的珠寶。12月4日，Dougie贏得了第十一季的我是名人…放我出去！/I’m a Celebrity…Get Me Out of Here\!的冠軍。12月7日，Harry贏得第九季的舞動奇跡/Strictly Come Dancing冠軍。 現在正在進行的巡演命名為Keep Calm and Play Louder Tour。他們並演唱了樂隊的三首新歌，“Do What You Want（也記作Do Whatcha）”，“Red”和“Touch the Rain”。這三首歌將被收錄于第六張錄音室專輯中。Tom在推特上說下一支發行的單曲應是“Red”。 此張專輯在2012年6月10日開始錄製。 McFly想在九月份到美國舉辦幾次專場。“我們想到美國去，告訴那邊的粉絲我們沒有忘記他們。”湯姆說，“我們一直一直都想這樣做，但我們總是沒有機會，要不然就是別的一些事情會找上門來。”“我們在美國的有些粉絲，已經喜歡我們八九年了——就是我們剛剛組團的時候——他們有的還專程跑到英國去看我們。他們這麼熱情，讓我們感到很驚訝。所以我想這是我們欠他們的。”
+
+2012年11月,發行了新精選Memory Lane: The Best of McFly,收錄3首新歌 "Love Is Easy", "Do Whatcha" "Cherry Cola",同月也宣布了將在2013年4月到5月將舉行18場巡演來宣傳精選。
+
+### 2013-2015 籌備中的第六張專輯\&McBusted
+
+McFly為第6張專輯寫了許多新歌如"Love Is Easy", "Do Watcha", "Cherry Cola" ,"Hyperion", "Break Me", "Red", "Love Is on the Radio" and "Touch the Rain". 前三首後來被收錄在精選Memory Lane,"Red" & "Touch the Rain" 則在2012的巡演演唱過。2013年9月19\~21日在[皇家阿爾伯特音樂廳](../Page/皇家阿爾伯特音樂廳.md "wikilink")開了4場慶祝成軍10周年的演唱會，也演唱了新單曲 "Love Is on the Radio"， "Love Is on the Radio"隨後也在11月正式發行做為第6張專輯的首張單曲，專輯預計在2014年春天發行,但之後從來沒有實際發行過，未發行的原因則是因為McFly與另一樂團Busted組成的新團McBusted有關。
+
+2014年4月到6月，McFly與Busted以McBusted名義舉辦了36場McBusted Tour演唱會。11月以McBusted名義發行了"Air Guitar"單曲,12月第二張單曲"Get Over It"與新樂團首張同名專輯*McBusted* 也發行。
+
+2015年3月\~4月也舉行了21場McBusted's Most Excellent Adventure Tour演唱會。
+
+### 2016 回歸McFly & The Anthology
+
+2016年9月在四個場地舉辦了共12場的The Anthology演唱會,演唱會曲目特別的是4個場地各唱三天,正式曲目都是照5張專輯的CD曲目排序去唱,第一天演唱第1張專輯全部的歌之後安可才唱其他歌曲,第二天是第2張接第3張專輯+安可，第三天則是第4張接第5張專輯+安可,歌迷若三場看完幾乎5張專輯全部都聽完。
+
+隨後12月發行了Anthology Tour The Hits Live 現場專輯,單CD版是收錄第一天曲目,豪華版6CD才有收錄3天五張專輯全部現場演唱+一張30分鐘DVD巡演紀錄片。
+
+### 2019 *The Lost Songs*
+
+2019年9月10日 McFly在各官方社交網站宣布11月20日在[倫敦](https://zh.wikipedia.org/wiki/倫敦 "wikilink")[O2體育館](../Page/O2體育館.md "wikilink")的演唱會，隨後也宣布將會發行睽違9年的McFly新專輯*The Lost Songs,* 9月15日正式數位發行Red”和“Touch the Rain”兩首單曲。隨著11月O2演唱會門票全數售完,18日樂團宣布再加開10場2020年的正式復出演唱會。
 
 ## 音乐风格
 

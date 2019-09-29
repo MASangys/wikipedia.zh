@@ -20,7 +20,7 @@
   - 最强人气偶像王：[胡杏儿](https://zh.wikipedia.org/wiki/胡杏儿 "wikilink")、[吴卓羲](../Page/吳卓羲.md "wikilink")
   - 最强人气主持人：[郑裕玲](../Page/鄭裕玲.md "wikilink")、[曾志伟](../Page/曾志偉.md "wikilink")
   - 最强人气古装王：[吴卓羲](../Page/吳卓羲.md "wikilink")、[黎姿](../Page/黎姿.md "wikilink")
-  - 最强人气潮人王：[容祖儿](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")、[司徒瑞祈](../Page/司徒瑞祈.md "wikilink")
+  - 最强人气潮人王：[容祖儿](../Page/容祖兒.md "wikilink")、[司徒瑞祈](../Page/司徒瑞祈.md "wikilink")
   - 最强人气型格王：[黄子华](../Page/黃子華.md "wikilink")
   - 最强人气动作王：[元华](../Page/元華.md "wikilink")
   - 最强人气喜剧王：[黄子华](../Page/黃子華.md "wikilink")
@@ -89,7 +89,7 @@
 
 成名藝人：
 
-  - 2000（第二屆）：[陳文靜](https://zh.wikipedia.org/wiki/陳文靜 "wikilink")（冠軍）、[陳素瑩](https://zh.wikipedia.org/wiki/陳素瑩 "wikilink")（最上鏡小姐）、[潘冠霖](../Page/潘冠霖.md "wikilink")、[鍾子敏](https://zh.wikipedia.org/wiki/鍾子敏 "wikilink")、
+  - 2000（第二屆）：[陳文靜](https://zh.wikipedia.org/wiki/陳文靜 "wikilink")（冠軍）、[陳素瑩](../Page/陳素瑩.md "wikilink")（最上鏡小姐）、[潘冠霖](../Page/潘冠霖.md "wikilink")、[鍾子敏](https://zh.wikipedia.org/wiki/鍾子敏 "wikilink")、
   - 2001（第三屆）：[胡定欣](https://zh.wikipedia.org/wiki/胡定欣 "wikilink")（冠軍）
   - 2003（第四屆）：[沈卓盈](../Page/沈卓盈.md "wikilink")（冠軍）、[王從希](https://zh.wikipedia.org/wiki/王從希 "wikilink")\[3\]
   - 2004（第五屆）：[梁寶賢](https://zh.wikipedia.org/wiki/梁寶賢 "wikilink")（冠軍）、[梁麗瑩](../Page/梁麗瑩.md "wikilink")（季軍）\[4\]

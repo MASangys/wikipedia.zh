@@ -442,7 +442,7 @@
 <td><p>GDE</p></td>
 <td><p>HAGO</p></td>
 <td></td>
-<td><p><a href="../Page/戈德.md" title="wikilink">戈德</a>，<a href="https://zh.wikipedia.org/wiki/索馬里州" title="wikilink">索馬里州</a></p></td>
+<td><p><a href="../Page/戈德.md" title="wikilink">戈德</a>，<a href="../Page/索馬里州.md" title="wikilink">索馬里州</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -533,7 +533,7 @@
 <td><p>GDW</p></td>
 <td><p>KGDW</p></td>
 <td></td>
-<td><p>，<a href="../Page/密歇根州.md" title="wikilink">密歇根州</a></p></td>
+<td><p><a href="../Page/格拉德溫_(密歇根州).md" title="wikilink">格拉德溫</a>，<a href="../Page/密歇根州.md" title="wikilink">密歇根州</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -967,7 +967,7 @@
 <td><p>GIR</p></td>
 <td><p>SKGI</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/吉拉爾多特" title="wikilink">吉拉爾多特</a>，<a href="https://zh.wikipedia.org/wiki/昆迪納馬卡省" title="wikilink">昆迪納馬卡省</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/吉拉爾多特" title="wikilink">吉拉爾多特</a>，<a href="../Page/昆迪納馬卡省.md" title="wikilink">昆迪納馬卡省</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1142,7 +1142,7 @@
 <td><p>GLC</p></td>
 <td></td>
 <td><p>格拉迪機場</p></td>
-<td><p>，<a href="https://zh.wikipedia.org/wiki/索馬里州" title="wikilink">索馬里州</a></p></td>
+<td><p>，<a href="../Page/索馬里州.md" title="wikilink">索馬里州</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1156,7 +1156,7 @@
 <td><p>GLE</p></td>
 <td><p>KGLE</p></td>
 <td></td>
-<td><p>，<a href="https://zh.wikipedia.org/wiki/德克薩斯州" title="wikilink">德克薩斯州</a></p></td>
+<td><p><a href="../Page/蓋恩斯維爾_(德克薩斯州).md" title="wikilink">蓋恩斯維爾</a>，<a href="https://zh.wikipedia.org/wiki/德克薩斯州" title="wikilink">德克薩斯州</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1233,7 +1233,7 @@
 <td><p>GLR</p></td>
 <td><p>KGLR</p></td>
 <td></td>
-<td><p>，<a href="../Page/密歇根州.md" title="wikilink">密歇根州</a></p></td>
+<td><p><a href="../Page/蓋洛德_(密歇根州).md" title="wikilink">蓋洛德</a>，<a href="../Page/密歇根州.md" title="wikilink">密歇根州</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

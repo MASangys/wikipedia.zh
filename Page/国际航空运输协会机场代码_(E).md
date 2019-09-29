@@ -1422,7 +1422,7 @@
 <td><p>ERV</p></td>
 <td><p>KERV</p></td>
 <td></td>
-<td><p>，<a href="https://zh.wikipedia.org/wiki/德克薩斯州" title="wikilink">德克薩斯州</a></p></td>
+<td><p><a href="../Page/克爾維爾_(德克薩斯州).md" title="wikilink">克爾維爾</a>，<a href="https://zh.wikipedia.org/wiki/德克薩斯州" title="wikilink">德克薩斯州</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1618,7 +1618,7 @@
 <td><p>ETN</p></td>
 <td><p>KETN</p></td>
 <td><p>伊斯特蘭市立機場</p></td>
-<td><p>，<a href="https://zh.wikipedia.org/wiki/德克薩斯州" title="wikilink">德克薩斯州</a></p></td>
+<td><p><a href="../Page/伊斯特蘭_(德克薩斯州).md" title="wikilink">伊斯特蘭</a>，<a href="https://zh.wikipedia.org/wiki/德克薩斯州" title="wikilink">德克薩斯州</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1703,7 +1703,7 @@
 <td><p>EUO</p></td>
 <td></td>
 <td><p>帕拉特布埃諾機場</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/帕拉特布埃諾" title="wikilink">帕拉特布埃諾</a>，<a href="https://zh.wikipedia.org/wiki/昆迪納馬卡省" title="wikilink">昆迪納馬卡省</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/帕拉特布埃諾" title="wikilink">帕拉特布埃諾</a>，<a href="../Page/昆迪納馬卡省.md" title="wikilink">昆迪納馬卡省</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

@@ -38,6 +38,8 @@
 
 2018年3月2日至3日，於[紅磡](../Page/紅磡.md "wikilink")[香港體育館](../Page/香港體育館.md "wikilink")舉行第二次紅館演唱會《Shine Moments Live 2018》。並邀得[許志安](../Page/許志安.md "wikilink")(3月2日)、[楊千嬅](../Page/楊千嬅.md "wikilink")(3月2日)[at17](https://zh.wikipedia.org/wiki/at17 "wikilink")(3月3日)、[Twins](https://zh.wikipedia.org/wiki/Twins "wikilink")(3月3日) 擔任嘉賓。
 
+2019年9月9日，一直支持[反對逃犯條例修訂草案運動](../Page/反對逃犯條例修訂草案運動.md "wikilink")的徐天佑於其個人[Facebook](../Page/Facebook.md "wikilink")專頁上回覆網民留言時，有言「no more shine」，惹來Shine再度拆夥疑雲。Shine之經理人其後澄清此事，否認二人拆夥。\[3\]
+
 ### 名稱由來
 
 因為Shine很喜歡電影《[閃亮的風采](https://zh.wikipedia.org/wiki/閃亮的風采 "wikilink")》，而唱片公司亦覺得這名字很正面，所以決定用「Shine」這個電影英文名稱作為組合名稱。
@@ -703,3 +705,4 @@ Essentials</p></td>
 
 1.  [\*\~Shine in\~\*](http://www.shinein.net/)
 2.  [Shine 專輯列表 共有 7張專輯 85首歌詞 魔鏡歌詞網](http://tw.mojim.com/twh102169.htm)
+3.
