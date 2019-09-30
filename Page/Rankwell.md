@@ -10,6 +10,8 @@
 
 ## 参考资料
 
+[Category:法國公司](https://zh.wikipedia.org/wiki/Category:法國公司 "wikilink") [Category:搜索引擎最佳化](https://zh.wikipedia.org/wiki/Category:搜索引擎最佳化 "wikilink")
+
 1.
 2.
 3.

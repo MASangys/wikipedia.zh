@@ -206,7 +206,16 @@ MV 1take Ver.[29]</p></td>
 
 ## 影視作品
 
-### 電視劇/網路劇
+### 電影/短片
+
+| 年份    | 劇名                                   | 演出成員 | 角色 | 備註  |
+| ----- | ------------------------------------ | ---- | -- | --- |
+| 2016年 | 《[再見單身](../Page/再見單身.md "wikilink")》 | 澯熙   | 賢彬 | 男配角 |
+| 2017年 | 《陛下的事件手冊》                            | 青年睿宗 |    |     |
+| 2019年 | 《創刊號》                                | 賢俊   | 主演 |     |
+| 拍攝中   | 《White Day》                          | 希民   |    |     |
+
+### 電視劇
 
 <table>
 <thead>
@@ -327,6 +336,15 @@ MV 1take Ver.[29]</p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>組合正式出道後</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>2017年</p></td>
 <td><p>KBS2</p></td>
 <td><p><a href="../Page/學校2017.md" title="wikilink">學校2017</a></p></td>
@@ -335,7 +353,7 @@ MV 1take Ver.[29]</p></td>
 <td><p>男配角</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>MBC</p></td>
 <td><p><a href="../Page/20世紀少男少女.md" title="wikilink">20世紀少男少女</a></p></td>
 <td><p>仁誠</p></td>
@@ -344,7 +362,7 @@ MV 1take Ver.[29]</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2018年</p></td>
 <td><p>tvN</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/想暫停的瞬間：About_Time" title="wikilink">想暫停的瞬間：About Time</a></p></td>
@@ -353,7 +371,7 @@ MV 1take Ver.[29]</p></td>
 <td><p>女主角的弟弟</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Amarin TV</p></td>
 <td><p>Coffee House 4.0</p></td>
 <td><p>輝映、澯熙</p></td>
@@ -362,7 +380,7 @@ MV 1take Ver.[29]</p></td>
 <td><p>泰國情境劇</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>SBS</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/狐狸新娘星" title="wikilink">狐狸新娘星</a></p></td>
 <td><p>路雲</p></td>
@@ -371,7 +389,7 @@ MV 1take Ver.[29]</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>JTBC</p></td>
 <td><p><a href="../Page/Sky_Castle.md" title="wikilink">Sky Castle</a></p></td>
 <td><p>澯熙</p></td>
@@ -380,33 +398,23 @@ MV 1take Ver.[29]</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>2019年</p></td>
-<td><p>대나무숲TV</p></td>
-<td><p>照著你口味來的戀愛</p></td>
-<td><p>澯熙</p></td>
-<td><p>尹檀</p></td>
-<td><p>男主角</p></td>
-<td></td>
-</tr>
 <tr class="odd">
 <td><p>2019年</p></td>
 <td><p>MBC</p></td>
-<td><p>偶然發現的一天</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/意外發現的一天" title="wikilink">意外發現的一天</a></p></td>
 <td><p>路雲</p></td>
 <td><p>河路</p></td>
-<td><p>男主角</p></td>
+<td><p>第一男主角</p></td>
 <td></td>
 </tr>
 </tbody>
 </table>
 
-### 電影/短片
+### 網路劇
 
-| 年份    | | 劇名                                 | | 演出成員 | | 角色 | |備註 |
-| ----- | ------------------------------------ | ------ | ---- | --- |
-| 2016年 | 《[再見單身](../Page/再見單身.md "wikilink")》 | 澯熙     | 賢彬   | 男配角 |
-| 2017年 | 《陛下的事件手冊》                            | 青年睿宗   |      |     |
+| 年份    | | 電視台  | | 劇名      | | 演出成員 | | 角色 | | 性質 | | 備註 |
+| ----- | ------ | --------- | ------ | ---- | ---- | ---- |
+| 2019年 | 대나무숲TV | 照著你口味來的戀愛 | 澯熙     | 尹檀   | 男主角  |      |
 
 ### 綜藝/訪談節目
 
@@ -470,7 +478,7 @@ MV 1take Ver.[29]</p></td>
 | ---------------------- | --------------------------------------------------- | ------------------------------------------------------------------ | ---- | -- |
 | 日期                     | 電視台                                                 | 節目名稱                                                               | 參與成員 | 備註 |
 | 2018年2月23日－2018年3月2日   | [Mnet](../Page/Mnet媒體.md "wikilink")                | 《[高等rapper第二季](https://zh.wikipedia.org/wiki/高等rapper "wikilink")》 | 輝映   |    |
-| 2018年3月2日－2018年4月6日    | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | 《[叢林的法則](https://zh.wikipedia.org/wiki/叢林的法則 "wikilink")》          | 路雲   |    |
+| 2018年3月2日－2018年4月6日    | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | 《[叢林的法則](../Page/叢林的法則.md "wikilink")》                             | 路雲   |    |
 | 2018年4月1日－2018年6月24日   | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") | 《[善茶坊](https://zh.wikipedia.org/wiki/善茶坊 "wikilink")》              | 路雲   |    |
 | 2018年5月29日－2018年6月5日   | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") | 《逃離巢穴3》                                                            | 澯熙   |    |
 | 2018年7月22日             | [MBC](../Page/文化廣播公司.md "wikilink")                 | 《[神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")》                   | 路雲   |    |

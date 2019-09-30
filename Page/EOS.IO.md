@@ -7,7 +7,7 @@ EOS.IO以[分散式操作系統與](../Page/分布式操作系统.md "wikilink")
 ## 歷史
 
   - 根據2017年所發佈的[白皮書](../Page/白皮书.md "wikilink")，EOS.IO平台由一家私人公司[block.one](https://block.one/)開發，並以[開源軟件的形式於](../Page/开源软件.md "wikilink")2018年6月1日推出。為確保於當[區塊鏈上線前](../Page/区块链.md "wikilink")，其代幣可以廣泛分發，block.one將一億個代幣以[ERC-20的形式發放](https://zh.wikipedia.org/wiki/ERC-20 "wikilink")。基於是次分發，所有代幣持有人都有權於EOS.IO軟件推出時啟動主網。
-  - Block.one的首席執行官[布蘭登·布魯默](../Page/布蘭登·布魯默.md "wikilink")宣佈，EOS的[首次代幣發行共籌得超過](https://zh.wikipedia.org/wiki/首次代幣發行 "wikilink")4億美金，當中超過一億美金將用以支持EOS.IO[區塊鏈](../Page/区块链.md "wikilink")。\[1\]後來有外界質疑[block.one](https://block.one/)公司所籌集的鉅額資金，對於該區塊鏈的開發並非必要。而事實上，block.one公司亦未有交代資金的去向，EOS代幣的價錢更是自從高位$22.89美元一直下滑。\[2\]
+  - Block.one的首席執行官[布蘭登·布魯默](../Page/布蘭登·布魯默.md "wikilink")宣佈，EOS的[首次代幣發行共籌得超過](https://zh.wikipedia.org/wiki/首次代幣發行 "wikilink")4億美金，當中超過一億美金將用以支持EOS.IO[區塊鏈](../Page/区块链.md "wikilink")。\[1\]後來有外界質疑[block.one](https://block.one/)公司所籌集的巨額資金，對於該區塊鏈的開發並非必要。而事實上，block.one公司亦未有交代資金的去向，EOS代幣的價錢更是自從高位$22.89美元一直下滑。\[2\]
   - EOS.IO最初的測試網Dawn 1.0於2017年9月3日推出，版本Dawn 2.0於同年12月4日推出；版本Dawn 3.0於2018年1月25日推出，版本Dawn 4.0於同年5月7日推出。
   - EOS.IO的Dawn 1.0版本在2018年6月1日於主網發，至2019年1月，目前運行中的版本為1.6.0。\[3\]\[4\]
 

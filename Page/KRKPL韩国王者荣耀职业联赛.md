@@ -136,7 +136,7 @@
 <td><p>向阳</p></td>
 <td><p>SLT</p></td>
 <td></td>
-<td><p>辅助</p></td>
+<td><p>边路</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -156,6 +156,14 @@
 <td><p>转至青训</p></td>
 </tr>
 <tr class="odd">
+<td><p>Chen</p></td>
+<td><p>伍智鹏</p></td>
+<td><p>GOG</p></td>
+<td></td>
+<td><p>中路</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>Yilian</p></td>
 <td><p>王家豪</p></td>
 <td><p>GOG</p></td>
@@ -163,12 +171,36 @@
 <td><p>边路</p></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>Orange</p></td>
+<td><p>黄仕鱼</p></td>
+<td><p>EMC</p></td>
+<td></td>
+<td><p>边路</p></td>
+<td></td>
+</tr>
 <tr class="even">
+<td><p>Moon</p></td>
+<td><p>夏兆锋</p></td>
+<td><p>EMC</p></td>
+<td></td>
+<td><p>辅助</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>Cola</p></td>
 <td><p>李泳钊</p></td>
 <td><p>EMC</p></td>
 <td></td>
 <td><p>辅助</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>DAWR</p></td>
+<td><p>肖量</p></td>
+<td><p>EMC</p></td>
+<td></td>
+<td><p>中路</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -192,11 +224,43 @@
 <td><p>朱斌</p></td>
 <td><p>Nova</p></td>
 <td></td>
+<td><p>边路</p></td>
 <td></td>
+</tr>
+<tr class="even">
+<td><p>Vincen</p></td>
+<td><p>尹国帅</p></td>
+<td><p>ESC</p></td>
 <td></td>
+<td><p>边路</p></td>
+<td><p>前id.浩然</p></td>
 </tr>
 </tbody>
 </table>
+
+## 2019秋季赛
+
+**积分榜**
+
+|  |       |
+|  | ----- |
+|  | 常规赛冠军 |
+|  | 晋级季后赛 |
+
+**图示:**
+
+| 战队   | 胜 | 负 | 积分 | 净胜局  |
+| ---- | - | - | -- | ---- |
+| GOG  | 5 | 0 | 5  | 14   |
+| ESC  | 4 | 1 | 4  | 5    |
+| ROX  | 4 | 1 | 4  | 5    |
+| CW   | 3 | 2 | 3  | 2    |
+| EMC  | 3 | 2 | 3  | \-1  |
+| Nova | 2 | 2 | 2  | 2    |
+| SLT  | 2 | 2 | 2  | 1    |
+| DRX  | 1 | 4 | 0  | \-5  |
+| MVP  | 0 | 5 | 0  | \-10 |
+| VSG  | 0 | 5 | 0  | \-13 |
 
 ## 水平问题／赛制改进
 

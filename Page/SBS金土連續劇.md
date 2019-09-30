@@ -37,7 +37,7 @@
 <td style="text-align: center;"><p><a href="../Page/熱血祭司.md" title="wikilink">熱血祭司</a><br />
 </p></td>
 <td style="text-align: center;"><p>40</p></td>
-<td style="text-align: center;"><p><a href="../Page/金南佶.md" title="wikilink">金南佶</a>、<a href="https://zh.wikipedia.org/wiki/李荷妮" title="wikilink">李荷妮</a>、<a href="../Page/金成均.md" title="wikilink">金成均</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/金南佶.md" title="wikilink">金南佶</a>、<a href="../Page/李荷妮.md" title="wikilink">李荷妮</a>、<a href="../Page/金成均.md" title="wikilink">金成均</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李明佑" title="wikilink">李明佑</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/朴才範" title="wikilink">朴才範</a></p></td>
 <td style="text-align: center;"></td>
@@ -65,11 +65,11 @@
 <td style="text-align: center;"><p>原作：<a href="https://zh.wikipedia.org/wiki/久坂部羊" title="wikilink">久坂部羊</a>《<a href="https://zh.wikipedia.org/wiki/神之手" title="wikilink">神之手</a>》</p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p>2019年9月27日－<br />
+<td style="text-align: center;"><p>2019年9月20日－<br />
 2019年11月16日</p></td>
 <td style="text-align: center;"><p><a href="../Page/VAGABOND_(電視劇).md" title="wikilink">VAGABOND</a><br />
 </p></td>
-<td style="text-align: center;"><p>32</p></td>
+<td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/李昇基.md" title="wikilink">李昇基</a>、<a href="https://zh.wikipedia.org/wiki/裴秀智" title="wikilink">裴秀智</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/劉仁植.md" title="wikilink">劉仁植</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/張英哲.md" title="wikilink">張英哲</a>、<a href="https://zh.wikipedia.org/wiki/鄭景順" title="wikilink">鄭景順</a></p></td>

@@ -178,7 +178,7 @@ Cross</p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>13/09-<br />
-11/10</p></td>
+14/10</p></td>
 <td style="text-align: center;"><p><a href="../Page/Misty.md" title="wikilink">謎霧殺機</a><br />
 Misty</p></td>
 <td style="text-align: center;"><p>20</p></td>
@@ -187,6 +187,20 @@ Misty</p></td>
 </div></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/now劇集台" title="wikilink">now劇集台播出時名為</a>《Misty》<br />
 外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="../Page/JTBC.md" title="wikilink">JTBC</a>）</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>15/10-<br />
+06/11</p></td>
+<td style="text-align: center;"><p><a href="../Page/Two_Cops.md" title="wikilink">雙面靈探</a><br />
+Two Cops</p></td>
+<td style="text-align: center;"><p>17</p></td>
+<td style="text-align: center;"><div style="text-align: center;">
+<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/ViuTV電視劇集列表_(2018年).md" title="wikilink">2018年ViuTV劇集</a></span></p>
+</div></td>
+<td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a>）</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
@@ -271,7 +285,7 @@ Showman's Show</p></td>
 <a href="../Page/陳凱詠.md" title="wikilink">陳凱詠</a>、、<a href="../Page/黃奕晨.md" title="wikilink">黃奕晨</a>、<br />
 、<a href="../Page/盧覓雪.md" title="wikilink">盧覓雪</a>、<a href="https://zh.wikipedia.org/wiki/邱士縉" title="wikilink">邱士縉</a>、<br />
 <a href="https://zh.wikipedia.org/wiki/李駿傑" title="wikilink">李駿傑</a>、<a href="https://zh.wikipedia.org/wiki/梁業" title="wikilink">梁　業</a>、<a href="../Page/郭嘉駿.md" title="wikilink">郭嘉駿</a></p></td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><p><a href="../Page/南方舞廳_(作家).md" title="wikilink">南方舞廳</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p>主：娛樂風雲主題音樂（<a href="https://zh.wikipedia.org/wiki/黃偉年" title="wikilink">黃偉年作曲</a>）<br />
 主：困獸鬥（<a href="../Page/陳凱詠.md" title="wikilink">陳凱詠</a> Feat. <a href="https://zh.wikipedia.org/wiki/梁業" title="wikilink">梁　業</a> @ <a href="../Page/ERROR_(香港男子組合).md" title="wikilink">ERROR</a>）（第31集起）</p></td>
@@ -436,10 +450,24 @@ Encounter</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>02/09-<br />
-30/09</p></td>
+02/10</p></td>
 <td style="text-align: center;"><p><a href="../Page/我的ID是江南美人.md" title="wikilink">我的ID是江南美人</a><br />
 My ID is Gangnam Beauty</p></td>
-<td style="text-align: center;"><p>21</p></td>
+<td style="text-align: center;"><p>23</p></td>
+<td style="text-align: center;"><div style="text-align: center;">
+<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/Now劇集台電視劇集列表_(2019年).md" title="wikilink">2019年now劇集台劇集</a></span></p>
+</div></td>
+<td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="../Page/JTBC.md" title="wikilink">JTBC</a>）</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>03/10-<br />
+</p></td>
+<td style="text-align: center;"><p><a href="../Page/先熱情地打掃吧.md" title="wikilink">先熱情地打掃吧</a><br />
+Clean with Passion for Now</p></td>
+<td style="text-align: center;"></td>
 <td style="text-align: center;"><div style="text-align: center;">
 <p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/Now劇集台電視劇集列表_(2019年).md" title="wikilink">2019年now劇集台劇集</a></span></p>
 </div></td>
@@ -491,7 +519,7 @@ Being an Actor</p></td>
 <td style="text-align: center;"><p><a href="../Page/何啟華.md" title="wikilink">何啟華</a>、、、<br />
 <a href="../Page/廖碧兒.md" title="wikilink">廖碧兒</a>、<a href="../Page/劉錫賢.md" title="wikilink">劉錫賢</a>、<a href="https://zh.wikipedia.org/wiki/李駿傑" title="wikilink">李駿傑</a>、<br />
 <a href="../Page/郭嘉駿.md" title="wikilink">郭嘉駿</a></p></td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><p><a href="../Page/南方舞廳_(作家).md" title="wikilink">南方舞廳</a></p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/being-an-actor">網頁</a></p></td>
 <td style="text-align: center;"><p>主：共你覓理想（<a href="../Page/何啟華.md" title="wikilink">何啟華</a>、、<a href="../Page/劉錫賢.md" title="wikilink">劉錫賢</a>、<a href="https://zh.wikipedia.org/wiki/李駿傑" title="wikilink">李駿傑</a>、<a href="../Page/郭嘉駿.md" title="wikilink">郭嘉駿</a>）</p></td>
 <td style="text-align: center;"><p>1月1日暫停播映，第9集於1月5日（星期六）23:30-00:30播出</p></td>
@@ -504,7 +532,7 @@ Till Death Do Us Part</p></td>
 <td style="text-align: center;"><p>31</p></td>
 <td style="text-align: center;"><p><a href="../Page/鄧萃雯.md" title="wikilink">鄧萃雯</a>、<a href="../Page/陳錦鴻.md" title="wikilink">陳錦鴻</a>、<a href="../Page/廖碧兒.md" title="wikilink">廖碧兒</a>、<br />
 <a href="../Page/林德信.md" title="wikilink">林德信</a>、<a href="../Page/談善言.md" title="wikilink">談善言</a>、<a href="../Page/許博文.md" title="wikilink">強　尼</a></p></td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><p><a href="../Page/南方舞廳_(作家).md" title="wikilink">南方舞廳</a></p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/till-death-do-us-part">網頁</a></p></td>
 <td style="text-align: center;"><p>主：快樂到死（<a href="../Page/黃耀明.md" title="wikilink">黃耀明</a>、<a href="../Page/關淑怡.md" title="wikilink">關淑怡</a>）</p></td>
 <td style="text-align: center;"><p>第31集於6月9日（星期日）22:00-23:00播出</p></td>
@@ -565,9 +593,38 @@ Sky Castle</p></td>
 <td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="../Page/JTBC.md" title="wikilink">JTBC</a>）<br />
 8月22日至9月6日期間每集播映前，將會播映由ViuTV製作的前奏節目《貼地城堡》<br />
 （主演：<br />
-<a href="../Page/岑珈其.md" title="wikilink">岑珈其</a>、<a href="../Page/唐浩然.md" title="wikilink">唐浩然</a>、<a href="../Page/周漢寧.md" title="wikilink">周漢寧</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/程仁富" title="wikilink">程仁富</a>、<a href="https://zh.wikipedia.org/wiki/鍾雪瑩" title="wikilink">鍾雪瑩</a>、<a href="https://zh.wikipedia.org/wiki/鄧麗英" title="wikilink">鄧麗英</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/盧蓁宜" title="wikilink">盧蓁宜</a>、<a href="https://zh.wikipedia.org/wiki/麥可怡" title="wikilink">麥可怡</a>、<a href="../Page/余家溢.md" title="wikilink">余家溢</a>）</p></td>
+<a href="../Page/岑珈其.md" title="wikilink">岑珈其</a>、<a href="../Page/周漢寧.md" title="wikilink">周漢寧</a>、<a href="https://zh.wikipedia.org/wiki/程仁富" title="wikilink">程仁富</a>、<br />
+<a href="https://zh.wikipedia.org/wiki/鄧麗英" title="wikilink">鄧麗英</a>、<a href="https://zh.wikipedia.org/wiki/盧蓁宜" title="wikilink">盧蓁宜</a>、<a href="../Page/余家溢.md" title="wikilink">余家溢</a>）</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>03/10-<br />
+23/10</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/假設性無罪" title="wikilink">假設性無罪</a><br />
+Me Too</p></td>
+<td style="text-align: center;"><p>15</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/梁漢文" title="wikilink">梁漢文</a>、<a href="../Page/王敏奕.md" title="wikilink">王敏奕</a>、<a href="../Page/張慧儀.md" title="wikilink">張慧儀</a>、<br />
+<a href="../Page/樓南光.md" title="wikilink">樓南光</a>、<a href="../Page/許博文.md" title="wikilink">強　尼</a>、<a href="../Page/陳俞希.md" title="wikilink">陳俞希</a>、<br />
+、、<a href="../Page/陳子豐.md" title="wikilink">陳子豐</a>、<br />
+<a href="../Page/邵仲衡.md" title="wikilink">邵仲衡</a>、<a href="../Page/董敏莉.md" title="wikilink">董敏莉</a>、</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"><p>前奏節目《假設性無罪-性甚明誰》於9月28日至10月2日23:25-23:30播出</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>24/10-<br />
+</p></td>
+<td style="text-align: center;"><p><a href="../Page/漢摩拉比小姐.md" title="wikilink">逆權法官</a><br />
+Miss Hammurabi</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"><div style="text-align: center;">
+<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/Now劇集台電視劇集列表_(2019年).md" title="wikilink">2019年now劇集台劇集</a></span></p>
+</div></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/now劇集台" title="wikilink">now劇集台播出時名為</a>《漢摩拉比小姐》<br />
+外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="../Page/JTBC.md" title="wikilink">JTBC</a>）</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
@@ -840,6 +897,20 @@ Single Wife</p></td>
 <p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/ViuTV電視劇集列表_(2018年).md" title="wikilink">2018年ViuTV劇集</a></span></p>
 </div></td>
 <td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a>）</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>09/10-<br />
+15/11</p></td>
+<td style="text-align: center;"><p><a href="../Page/她愛上了我的謊_(韓國電視劇).md" title="wikilink">她愛上了我的謊</a><br />
+The Liar &amp; His Lover</p></td>
+<td style="text-align: center;"><p>23</p></td>
+<td style="text-align: center;"><div style="text-align: center;">
+<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/Now劇集台電視劇集列表_(2017年).md" title="wikilink">2017年now觀星台劇集</a></span></p>
+</div></td>
+<td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a>），於<a href="https://zh.wikipedia.org/wiki/now觀星台" title="wikilink">now觀星台首播時不設粵語配音</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
@@ -1291,7 +1362,33 @@ Ossan's Love 2016</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
 <p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/Now劇集台電視劇集列表_(2018年).md" title="wikilink">2018年now劇集台劇集</a></span></p>
 </div></td>
-<td style="text-align: center;"><p>外購劇（<a href="../Page/日本.md" title="wikilink">日本</a><a href="../Page/朝日電視台.md" title="wikilink">朝日電視台</a>），播映時間為20:30-21:30（因臨時插播新聞報道而腰斬）</p></td>
+<td style="text-align: center;"><p>外購劇（<a href="../Page/日本.md" title="wikilink">日本</a><a href="../Page/朝日電視台.md" title="wikilink">朝日電視台</a>），播映時間為20:30-21:30（開始播映後因臨時插播新聞報道而被腰斬）</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>02/10</p></td>
+<td style="text-align: center;"><p><br />
+Professor Eco</p></td>
+<td style="text-align: center;"><p>1</p></td>
+<td style="text-align: center;"><div style="text-align: center;">
+<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/ViuTV電視劇集列表_(2017年).md" title="wikilink">2017年ViuTV劇集</a></span></p>
+</div></td>
+<td style="text-align: center;"><p>外購劇（<a href="../Page/日本.md" title="wikilink">日本</a><a href="../Page/朝日電視台.md" title="wikilink">朝日電視台</a>），播映時間為03:30-05:45</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>08/10</p></td>
+<td style="text-align: center;"><p><br />
+Detective Katherine 2</p></td>
+<td style="text-align: center;"><p>1</p></td>
+<td style="text-align: center;"><div style="text-align: center;">
+<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/ViuTV電視劇集列表_(2018年).md" title="wikilink">2018年ViuTV劇集</a></span></p>
+</div></td>
+<td style="text-align: center;"><p>外購劇（<a href="../Page/日本.md" title="wikilink">日本</a><a href="../Page/朝日電視台.md" title="wikilink">朝日電視台</a>），播映時間為03:30-05:45</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>

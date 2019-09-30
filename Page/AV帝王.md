@@ -95,7 +95,7 @@
 
 <!-- end list -->
 
-  - 飾演 Poseidon企劃社長
+  - 飾演 Poseidon企劃社長‧池澤
 
 <!-- end list -->
 

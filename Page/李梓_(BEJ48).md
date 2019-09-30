@@ -1,4 +1,4 @@
-**李梓**（），中国大型女子偶像团体[BEJ48成员](https://zh.wikipedia.org/wiki/BEJ48 "wikilink")，所属队伍为Team E。她于2016年1月18日加入[SNH48六期生](https://zh.wikipedia.org/wiki/SNH48 "wikilink")，并于同年4月20日移籍BEJ48 Team E\[1\]，及于该月30日的[BEJ48 Team E 1st Stage“不眠之夜”公演出道](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage“睡衣兜风”#BEJ48_Team_E_1st_Stage「不眠之夜」公演 "wikilink")\[2\]。
+**李梓**（），中国大型女子偶像团体[BEJ48成员](https://zh.wikipedia.org/wiki/BEJ48 "wikilink")，所属队伍为Team E。她于2016年1月18日加入[SNH48](../Page/SNH48.md "wikilink")六期生，并于同年4月20日移籍BEJ48 Team E\[1\]，及于该月30日的[BEJ48 Team E 1st Stage“不眠之夜”公演出道](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage“睡衣兜风”#BEJ48_Team_E_1st_Stage「不眠之夜」公演 "wikilink")\[2\]。
 
 ## 经历
 
@@ -8,12 +8,12 @@
 
 2018年2月3日，参与了[SNH48 Group第四届年度金曲大赏BEST 50](https://zh.wikipedia.org/wiki/SNH48_Group第四届年度金曲大赏BEST_50 "wikilink")。6月5日，其主演的网络电影《[少女侦探社](https://zh.wikipedia.org/wiki/少女侦探社 "wikilink")》上线播放\[19\]。6月23日，出席网络电影《[暴走萌妹特攻队](https://zh.wikipedia.org/wiki/萌妹特攻队 "wikilink")》开机礼\[20\]。7月28日，于[SNH48 Group第五届总选举获得第](https://zh.wikipedia.org/wiki/SNH48_Group第五届总选举 "wikilink")57名\[21\]。
 
-2019年3月9日，其主演的网络电影《萌妹特攻队》上线播放\[22\]。
+2019年3月9日，其主演的网络电影《萌妹特攻队》上线播放\[22\]。7月27日，于[SNH48 Group第六届总决选获得BEJ](https://zh.wikipedia.org/wiki/SNH48_Group第六届总决选 "wikilink")48第14名，但未能入圈\[23\]。9月15日，其于[新浪微博](../Page/新浪微博.md "wikilink")发文称“还是微笑着到达终点，感谢有你”，暗指其已离开BEJ48\[24\]。
 
 ## 人物
 
-  - 个人特长为舞蹈、咏春拳及绘画。\[23\]
-  - 兴趣爱好为绘画、Cosplay及宅舞。\[24\]
+  - 个人特长为舞蹈、咏春拳及绘画。\[25\]
+  - 兴趣爱好为绘画、Cosplay及宅舞。\[26\]
   - 其早期的微博内容时常以“晚上早”作问候。
 
 ## 音乐作品
@@ -179,3 +179,7 @@
 23.
 
 24.
+
+25.
+
+26.

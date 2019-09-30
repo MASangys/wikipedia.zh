@@ -35,7 +35,7 @@
 
 ## 節目概要
 
-以「笑的那一瞬間，出演费就要减少了！七个男人的笑声陷阱逃脱記。」為標語，每一次錄影都以不同場景及主題為中心\[2\]，出演成員亦會配合主題裝扮不同角色。成員需要忍著笑完成多個任務，笑的瞬間，成員頭上的裝置會噴出水柱作為懲罰，同時成員的出演費亦會減少一萬韓圓\[3\]。
+以「笑的那一瞬間，出演费就要减少了！七个男人的笑声陷阱逃脱記。」為標語，每一次錄影都以不同場景及主題為中心\[2\]，出演成員亦會配合主題裝扮不同角色。成員需要忍著笑完成多個任務，笑的瞬間，成員頭上的裝置會噴出水柱作為懲罰，同時成員的出演費亦會減少一萬韓圓\[3\]。同時節目亦會因應主題而邀請不同嘉賓，有些環節嘉賓亦會參與「不準笑任務」，製作組強大的邀請能力亦受到注目\[4\]。
 
 ## 播放时间
 
@@ -139,7 +139,7 @@
 <td><p>3</p></td>
 <td><p>7月28日</p></td>
 <td><p>Player 101 + 禁止詞出道記者會</p></td>
-<td><p>、、<a href="../Page/張東民.md" title="wikilink">張東民</a>、<a href="../Page/黃倫碩.md" title="wikilink">煥熙</a>(<a href="../Page/Fly_to_the_Sky.md" title="wikilink">Fly to the Sky</a>)、<a href="../Page/神童_(藝人).md" title="wikilink">神童</a>(<a href="../Page/Super_Junior.md" title="wikilink">Super Junior</a>)、<a href="../Page/BewhY.md" title="wikilink">BewhY</a>、</p></td>
+<td><p>、<a href="../Page/金煙雨.md" title="wikilink">金煙雨</a>、<a href="../Page/張東民.md" title="wikilink">張東民</a>、<a href="../Page/黃倫碩.md" title="wikilink">煥熙</a>(<a href="../Page/Fly_to_the_Sky.md" title="wikilink">Fly to the Sky</a>)、<a href="../Page/神童_(藝人).md" title="wikilink">神童</a>(<a href="../Page/Super_Junior.md" title="wikilink">Super Junior</a>)、<a href="../Page/BewhY.md" title="wikilink">BewhY</a>、</p></td>
 </tr>
 <tr class="even">
 <td><p>4</p></td>
@@ -169,7 +169,19 @@
 <td><p>8</p></td>
 <td><p>9月1日</p></td>
 <td><p>不要笑家族娛樂館 (Part 2) + 真的危險的邀請 + Show Me The Play</p></td>
-<td><p>、<a href="../Page/吳英實.md" title="wikilink">吳英實</a>、<a href="../Page/朴美善.md" title="wikilink">朴美善</a>、<a href="../Page/申智.md" title="wikilink">申智</a>(<a href="../Page/高耀太.md" title="wikilink">高耀太</a>)、<a href="../Page/李秀智.md" title="wikilink">李秀智</a>、<a href="../Page/吳夏榮.md" title="wikilink">吳夏榮</a>(<a href="../Page/Apink.md" title="wikilink">Apink</a>)、<a href="../Page/秀斌.md" title="wikilink">秀斌</a>(<a href="https://zh.wikipedia.org/wiki/宇宙少女" title="wikilink">宇宙少女</a>)、<a href="../Page/朴瑟琪.md" title="wikilink">朴瑟琪</a>、<a href="../Page/李聖經.md" title="wikilink">李聖經</a>、<a href="../Page/梁東根.md" title="wikilink">梁東根</a>、<a href="../Page/張東民.md" title="wikilink">張東民</a>、<a href="../Page/金鍾旼.md" title="wikilink">金鍾旼</a>(<a href="../Page/高耀太.md" title="wikilink">高耀太</a>)、<a href="../Page/Dynamic_Duo.md" title="wikilink">Dynamic Duo</a>、、<a href="../Page/DinDin.md" title="wikilink">DinDin</a>、<a href="../Page/金元植.md" title="wikilink">Ravi</a>(<a href="../Page/VIXX.md" title="wikilink">VIXX</a>)、<a href="../Page/趙旴燦.md" title="wikilink">趙旴燦</a></p></td>
+<td><p>、<a href="../Page/吳英實.md" title="wikilink">吳英實</a>、<a href="../Page/朴美善.md" title="wikilink">朴美善</a>、<a href="../Page/申智.md" title="wikilink">申智</a>(<a href="../Page/高耀太.md" title="wikilink">高耀太</a>)、<a href="../Page/李秀智.md" title="wikilink">李秀智</a>、<a href="../Page/吳夏榮.md" title="wikilink">吳夏榮</a>(<a href="../Page/Apink.md" title="wikilink">Apink</a>)、<a href="../Page/秀斌.md" title="wikilink">秀斌</a>(<a href="https://zh.wikipedia.org/wiki/宇宙少女" title="wikilink">宇宙少女</a>)、<a href="../Page/朴瑟琪.md" title="wikilink">朴瑟琪</a>、<a href="../Page/李聖經.md" title="wikilink">李聖經</a>、<a href="../Page/張東民.md" title="wikilink">張東民</a>、<a href="../Page/金鍾旼.md" title="wikilink">金鍾旼</a>(<a href="../Page/高耀太.md" title="wikilink">高耀太</a>)(實習Player)、、<a href="../Page/John_Park.md" title="wikilink">John Park</a>、<a href="../Page/金元植.md" title="wikilink">Ravi</a>(<a href="../Page/VIXX.md" title="wikilink">VIXX</a>)</p></td>
+</tr>
+<tr class="odd">
+<td><p>9</p></td>
+<td><p>9月8日</p></td>
+<td><p>Show Me The Play + Diss Battle</p></td>
+<td><p>、 (<a href="../Page/Jinusean.md" title="wikilink">Jinusean</a>)、<a href="../Page/梁東根.md" title="wikilink">梁東根</a>、<a href="../Page/張東民.md" title="wikilink">張東民</a>、<a href="../Page/金鍾旼.md" title="wikilink">金鍾旼</a>(<a href="../Page/高耀太.md" title="wikilink">高耀太</a>)(實習Player)、<a href="../Page/Dynamic_Duo.md" title="wikilink">Dynamic Duo</a>、、<a href="../Page/John_Park.md" title="wikilink">John Park</a>、<a href="../Page/DinDin.md" title="wikilink">DinDin</a>、<a href="../Page/趙旴燦.md" title="wikilink">趙旴燦</a></p></td>
+</tr>
+<tr class="even">
+<td><p>10</p></td>
+<td><p>9月22日</p></td>
+<td><p>Show Me The Play決賽</p></td>
+<td><p>、 (<a href="../Page/Jinusean.md" title="wikilink">Jinusean</a>)、<a href="../Page/梁東根.md" title="wikilink">梁東根</a>、<a href="../Page/張東民.md" title="wikilink">張東民</a>、<a href="../Page/金鍾旼.md" title="wikilink">金鍾旼</a>(<a href="../Page/高耀太.md" title="wikilink">高耀太</a>)(實習Player)、<a href="../Page/Dynamic_Duo.md" title="wikilink">Dynamic Duo</a>、、<a href="../Page/DinDin.md" title="wikilink">DinDin</a>、<a href="../Page/趙旴燦.md" title="wikilink">趙旴燦</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -189,7 +201,7 @@
 <tr class="header">
 <th><p>集數</p></th>
 <th><p>播出日期</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/AC尼爾森" title="wikilink">AGB尼爾森收視率</a>[4][5]</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/AC尼爾森" title="wikilink">AGB尼爾森收視率</a>[5][6]</p></th>
 </tr>
 </thead>
 <tbody>
@@ -257,6 +269,7 @@
 <p>2019年8月25日</p>
 </center></td>
 <td><center>
+<p>1.4%</p>
 </center></td>
 </tr>
 <tr class="odd">
@@ -265,7 +278,6 @@
 <p>2019年9月1日</p>
 </center></td>
 <td><center>
-<p>%</p>
 </center></td>
 </tr>
 <tr class="even">
@@ -274,13 +286,13 @@
 <p>2019年9月8日</p>
 </center></td>
 <td><center>
-<p>%</p>
+<p>1.4%</p>
 </center></td>
 </tr>
 <tr class="odd">
 <td><p>10</p></td>
 <td><center>
-<p>2019年9月15日</p>
+<p>2019年9月22日</p>
 </center></td>
 <td><center>
 <p>%</p>
@@ -311,3 +323,4 @@
 3.
 4.
 5.
+6.

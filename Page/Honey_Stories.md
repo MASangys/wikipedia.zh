@@ -93,6 +93,6 @@
 
 <references />
 
-[Category:2019年的專輯](https://zh.wikipedia.org/wiki/Category:2019年的專輯 "wikilink") [Category:Avex_Group的專輯](https://zh.wikipedia.org/wiki/Category:Avex_Group的專輯 "wikilink")
+[Category:2019年音乐专辑](https://zh.wikipedia.org/wiki/Category:2019年音乐专辑 "wikilink") [Category:宇野實彩子](https://zh.wikipedia.org/wiki/Category:宇野實彩子 "wikilink") [Category:愛貝克思音樂專輯](https://zh.wikipedia.org/wiki/Category:愛貝克思音樂專輯 "wikilink") [Category:处女作专辑](https://zh.wikipedia.org/wiki/Category:处女作专辑 "wikilink")
 
 1.  [宇野実彩子 (AAA)1stアルバム『Honey Stories』が7/17（水）に発売決定！](https://avex.jp/aaa/news/detail.php?id=1072623)

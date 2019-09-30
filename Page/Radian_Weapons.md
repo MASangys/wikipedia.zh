@@ -10,9 +10,11 @@ Radian Weapons除以自家品牌名義銷售外，亦有為不少如Faxon Firear
 
 ## 產品
 
+參見：[Radian Weapons產品列表](https://zh.wikipedia.org/wiki/Radian_Weapons產品列表 "wikilink")
+
 ### 配件
 
-Radian Weapons的主要商品為[AR-10](https://zh.wikipedia.org/wiki/AR-10 "wikilink")/[SR-25及](https://zh.wikipedia.org/wiki/SR-25 "wikilink")[AR-15](https://zh.wikipedia.org/wiki/AR-15 "wikilink")/[M16的雙邊操作配件](https://zh.wikipedia.org/wiki/M16 "wikilink")，如RAPTOR™雙邊槍機拉柄系列、TALON™快慢機選擇鈕系列等。由於Radian的產品多選用7075-T6鋁加工生產，並配以軍規硬膜陽極氧化處理（少數產品設有Cerakote或NP3塗層供用家選擇），因此其產品既耐用又輕量，受用戶喜愛。
+Radian Weapons的主要商品為[AR-10](https://zh.wikipedia.org/wiki/AR-10 "wikilink")/[SR-25及](https://zh.wikipedia.org/wiki/SR-25 "wikilink")[AR-15](https://zh.wikipedia.org/wiki/AR-15 "wikilink")/[M16的雙邊操作配件](../Page/M16突擊步槍.md "wikilink")，如RAPTOR™雙邊槍機拉柄系列、TALON™快慢機選擇鈕系列等。由於Radian的產品多選用7075-T6鋁加工生產，並配以軍規硬膜陽極氧化處理（少數產品設有Cerakote或NP3塗層供用家選擇），因此其產品既耐用又輕量，受用戶喜愛。
 
 在SIG推出其[MPX和](../Page/SIG_MPX衝鋒槍.md "wikilink")[MCX系列步槍後](../Page/SIG_MCX突擊步槍.md "wikilink")，由於為AR-15設計的配件並不相容，Radian順勢推出為其設計的配件，現階段僅推出RAPTOR™雙邊槍機拉柄。
 
@@ -33,7 +35,7 @@ Radian Weapons推出了AX556下機匣和Model 1上機匣，也有銷售完整的
 
 
 
-[Category:美國槍械製造商](https://zh.wikipedia.org/wiki/Category:美國槍械製造商 "wikilink")
+[Category:美國槍械製造商](https://zh.wikipedia.org/wiki/Category:美國槍械製造商 "wikilink") [Category:2010年成立的公司](https://zh.wikipedia.org/wiki/Category:2010年成立的公司 "wikilink")
 
 1.
 2.

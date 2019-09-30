@@ -53,11 +53,48 @@ iPhone X的[面容 ID透过点阵投影器将三万余个肉眼不可见光点�
 
 发布时，iPhone XR的价格为：
 
-| 内存        | 美國   | 中国大陆   | 香港       | 澳門        | 台灣        | 新加坡     |
-| --------- | ---- | ------ | -------- | --------- | --------- | ------- |
-| **64GB**  | $749 | ¥6,499 | HK$6,499 | MOP$6,599 | NT$26,900 | S$1,129 |
-| **128GB** | $799 | ¥6,999 | HK$6,899 | MOP$6,999 | NT$28,900 | S$1,299 |
-| **256GB** | $899 | ¥7,899 | HK$7,799 | MOP$7,899 | NT$32,500 | S$1,469 |
+<table>
+<thead>
+<tr class="header">
+<th><p>内存</p></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><strong>64GB</strong></p></td>
+<td><p>$749</p></td>
+<td><p>¥6,499</p></td>
+<td><p>HK$6,499</p></td>
+<td><p>MOP$6,599</p></td>
+<td><p>NT$26,900</p></td>
+<td><p>S$1,129</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>128GB</strong></p></td>
+<td><p>$799</p></td>
+<td><p>¥6,999</p></td>
+<td><p>HK$6,899</p></td>
+<td><p>MOP$6,999</p></td>
+<td><p>NT$28,900</p></td>
+<td><p>S$1,299</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>256GB</strong></p></td>
+<td><p>$899</p></td>
+<td><p>¥7,899</p></td>
+<td><p>HK$7,799</p></td>
+<td><p>MOP$7,899</p></td>
+<td><p>NT$32,500</p></td>
+<td><p>S$1,469</p></td>
+</tr>
+</tbody>
+</table>
 
 由于iPhone XR销量不佳，苹果在2018年底开始向日本的运营商提供补贴以降低透过运营商渠道销售的iPhone XR价格。\[13\]在苹果美国和中国大陆官方网站，苹果推出了针对iPhone XR的较大力度的以旧换新折扣优惠。\[14\]2019年1月，苹果开始向中国大陆经销商提供补贴，部分第三方渠道如[京东](https://zh.wikipedia.org/wiki/京东 "wikilink")、[拼多多](../Page/拼多多.md "wikilink")销售的iPhone XR价格下降近千元人民币。\[15\]
 

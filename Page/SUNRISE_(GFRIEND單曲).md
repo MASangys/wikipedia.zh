@@ -10,7 +10,7 @@
 
 ## 發行版本
 
-此張單曲專輯發行三個版本 初回限定盤A：CD+DVD 初回限定盤B：CD+Photo Book 通常盤：CD
+此張單曲發行三個版本 初回限定盤A：CD+DVD 初回限定盤B：CD+Photo Book 通常盤：CD
 
 ## 曲目
 

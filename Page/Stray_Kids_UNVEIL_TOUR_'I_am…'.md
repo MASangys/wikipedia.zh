@@ -326,6 +326,7 @@
   - [\[Stray Kids : SKZ-TALKER GO\!(슼즈토커 고\!)\] SYDNEY](https://www.youtube.com/watch?v=BPbiILNohjw)
   - [\[Stray Kids : SKZ-TALKER GO\!(슼즈토커 고\!)\] MANILA](https://www.youtube.com/watch?v=cxt_yYBq694)
   - [\[Stray Kids : SKZ-TALKER GO\!(슼즈토커 고\!)\] USA](https://www.youtube.com/watch?v=APA8T-4srQg)
+  - [\[Stray Kids : SKZ-TALKER GO\!(슼즈토커 고\!)\] EUROPE](https://www.youtube.com/watch?v=lvn2lQfYewk)
 
 <!-- end list -->
 

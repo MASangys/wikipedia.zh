@@ -259,6 +259,27 @@
 <td></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>9月9日</p></td>
+<td><p>4.8</p></td>
+<td><p>[31]</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>9月16日</p></td>
+<td><p>6.8</p></td>
+<td><p>[32]</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>9月23日</p></td>
+<td><p>7.4</p></td>
+<td><p>[33]</p></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -301,3 +322,6 @@
 28. [RADWIMPS、デジタルSg\&Alが4週連続同時1位【オリコンランキング】](https://www.oricon.co.jp/news/2142255/full/)
 29. [米津玄師『ノーサイド・ゲーム』主題歌がデジタル1位 「通算1位獲得数」歴代単独1位【オリコンランキング】](https://www.oricon.co.jp/news/2142698/full/)
 30. [米津玄師『ノーサイド・ゲーム』主題歌が2週連続1位【オリコンランキング】](https://www.oricon.co.jp/rank/dis/w/2019-09-02/)
+31. [米津玄師『ノーサイド・ゲーム』主題歌が3週連続1位 back numberに続き史上2組目【オリコンランキング】](https://www.oricon.co.jp/news/2143680/full/)
+32. [米津玄師『ノーサイド・ゲーム』主題歌が4週連続1位 デジタルSG初の「同一アーティストによる通算2作の4週連続1位」【オリコンランキング】](https://www.oricon.co.jp/news/2144171/full/)
+33. [米津玄師、ソロアーティスト今年度最高売上 デジタルシングルは5週連続1位【オリコンランキング】](https://www.oricon.co.jp/news/2144555/full/)

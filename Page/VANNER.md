@@ -37,6 +37,28 @@
 </tbody>
 </table>
 
+### 迷你專輯
+
+<table>
+<tbody>
+<tr class="odd">
+<td></td>
+<td><p>內容</p></td>
+<td><p>曲目</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>1st</strong></p></td>
+<td><p>《<strong>5CEAN: V</strong>》</p>
+<ul>
+<li>發行日期：2019年9月5日</li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
+<li>銷量：</li>
+</ul></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ## 參考資料
 
 ## 外部連結

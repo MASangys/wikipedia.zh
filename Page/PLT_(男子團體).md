@@ -108,7 +108,7 @@
 
 2018/08/11 《PLT 1st Label Concert Poppin DOME》- SEOUL
 
-**<big>2019年</big>**
+### 2019年
 
 2019/02/08 PLT 1st Tour《We Go Holic》in Moscow
 
@@ -119,6 +119,16 @@
 2019/02/15 PLT 1st Tour《We Go Holic》in Berlin
 
 2019/02/17 PLT 1st Tour《We Go Holic》in London
+
+2019/10/18 PLT 1st Tour《We Go Holic》in New Jersey
+
+2019/10/20 PLT 1st Tour《We Go Holic》in Atlanta
+
+2019/10/22 PLT 1st Tour《We Go Holic》in Dallas
+
+2019/10/23 PLT 1st Tour《We Go Holic》in Los Angeles
+
+2019/10/26 PLT 1st Tour《We Go Holic》in Chicago
 
 ## 參演節目
 

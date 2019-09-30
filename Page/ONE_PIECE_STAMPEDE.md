@@ -1,10 +1,10 @@
-《**航海王：奪寶爭霸戰**》（），於2019年8月9日在日本上映的[動畫電影](https://zh.wikipedia.org/wiki/動畫電影 "wikilink")。為漫畫系列《[ONE PIECE](../Page/ONE_PIECE.md "wikilink")》改編電視動畫的[劇場版系列的第](https://zh.wikipedia.org/wiki/劇場版 "wikilink")14部作品，同時是電視動畫20周年紀念作品\[1\]\[2\]\[3\]。
+《**航海王：奪寶爭霸戰**》（）是一部於2019年上映的[日本](../Page/日本.md "wikilink")[動畫電影](https://zh.wikipedia.org/wiki/動畫電影 "wikilink")，故事改編自[尾田榮一郎創作的漫畫](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")《[ONE PIECE](../Page/ONE_PIECE.md "wikilink")》。該片為「[ONE PIECE劇場版系列](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\)#電影版 "wikilink")」的第14部電影，同時是電視動畫20周年紀念作品\[1\]\[2\]\[3\]。電影於2019年8月9日在日本上映。
 
 ## 劇情
 
-草帽海賊團收到「海賊萬博會」主辦人布埃納·費斯塔的請柬前往該世界頂尖的祭典。萬博會上的主打是「尋找[「海賊王」哥爾·D·羅傑所遺留的寶藏](../Page/哥爾·D·羅傑.md "wikilink")」。然而，在萬博會的背後，外號「最惡的戰爭發動者」的費斯塔的凶行，與想把海賊一網打盡的海軍也展開行動，左右時代霸權的財寶爭奪戰拉開序幕。
+草帽海賊團收到「海賊萬博會」主辦人布埃納·費斯塔的請柬前往該世界頂尖的祭典。萬博會上的主打是尋找[「海賊王」哥爾·羅傑所遺留的寶藏](../Page/哥爾·D·羅傑.md "wikilink")。然而，在萬博會的背後，外號「最惡戰爭發動者」的布埃納·費斯塔的凶行，與想把海賊一網打盡的海軍也展開行動，左右時代霸權的財寶爭奪戰拉開序幕。
 
-突然，原羅傑海賊團船員，外號「"鬼"之繼承者」的道格拉斯·巴雷特闖入並擋在一眾海賊面前。海賊、海軍、王下七武海以及革命軍等眾多角色也將亂入發展成混亂的戰鬥\[4\]。
+突然，原羅傑海賊團船員，外號「鬼之繼承者」的道格拉斯·巴雷特闖入並擋在一眾海賊面前。海賊、海軍、王下七武海、革命軍以及CP-0等眾多角色也將亂入發展成混亂的戰鬥\[4\]。
 
 ## 登場人物
 
@@ -143,20 +143,20 @@
 <td><p><a href="../Page/大場真人.md" title="wikilink">大場真人</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/海軍_(ONE_PIECE)#達絲琪" title="wikilink">達絲琪</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/野田順子" title="wikilink">野田順子</a></p></td>
-</tr>
-<tr class="odd">
 <td><p><a href="../Page/波爾薩利諾.md" title="wikilink">黃猿／波爾薩利諾</a></p></td>
 <td><p><a href="../Page/置鮎龍太郎.md" title="wikilink">置鮎龍太郎</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/海軍_(ONE_PIECE)#藤虎" title="wikilink">藤虎／一笑</a></p></td>
 <td><p><a href="../Page/澤木郁也.md" title="wikilink">澤木郁也</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/盃_(ONE_PIECE).md" title="wikilink">赤犬／盃</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/立木文彥" title="wikilink">立木文彥</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/海軍_(ONE_PIECE)#達絲琪" title="wikilink">達絲琪</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/野田順子" title="wikilink">野田順子</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/海軍_(ONE_PIECE)#希娜" title="wikilink">希娜</a></p></td>
@@ -308,11 +308,13 @@
 
 ### 發展
 
-[ONE_PIECE_STAMPEDE_Eiichiro_Oda_Poster.jpg](https://zh.wikipedia.org/wiki/File:ONE_PIECE_STAMPEDE_Eiichiro_Oda_Poster.jpg "fig:ONE_PIECE_STAMPEDE_Eiichiro_Oda_Poster.jpg")繪製的海報。\]\]
+[ONE_PIECE_STAMPEDE.jpg](https://zh.wikipedia.org/wiki/File:ONE_PIECE_STAMPEDE.jpg "fig:ONE_PIECE_STAMPEDE.jpg")
 
-2018年8月25日，在《[ONE PIECE 空島特別篇](https://zh.wikipedia.org/wiki/ONE_PIECE特別篇#空島特別篇 "wikilink")》播出後，宣布新的劇場版將於2019年夏季上映\[19\]。12月11日發布首條預告片及公佈電影片名為《ONE PIECE STAMPEDE》\[20\]。12月，[集英社](../Page/集英社.md "wikilink")在[Jump Festa 2019公佈由](../Page/Jump_Festa.md "wikilink")[尾田榮一郎設計的新服裝和角色設計](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")。
+2018年8月25日，在《[ONE PIECE 空島特別篇](https://zh.wikipedia.org/wiki/ONE_PIECE特別篇#空島特別篇 "wikilink")》播出後，宣布新的劇場版將於2019年夏季上映\[19\]。12月11日發布首條預告片及公佈電影片名為《ONE PIECE STAMPEDE》\[20\]。同年12月，[集英社](../Page/集英社.md "wikilink")在[Jump Festa 2019公佈由](../Page/Jump_Festa.md "wikilink")[尾田榮一郎設計的新服裝和角色設計](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")。
 
-2019年2月21日，發布第二條預告片，發表登場角色和故事大綱，並宣布尾田榮一郎為電影的創意總監，而且擔任巴雷特和費斯塔的角色設計\[21\]。同年4月11日，發布第三條預告片和第二張視覺海報\[22\]。6月4日，原作者繪製的海報公布\[23\]。6月14日，公佈主題曲將由[WANIMA](../Page/WANIMA.md "wikilink")演唱\[24\]。6月27日，發布正式預告片\[25\]。7月31日，[大塚隆史](../Page/大塚隆史.md "wikilink")在[Twitter](../Page/Twitter.md "wikilink")上透露電影已經完成製作\[26\]。
+2019年2月21日，發布第二條預告片，發表登場角色和故事大綱，並宣布尾田榮一郎為電影的創意總監，而且擔任巴雷特和費斯塔的角色設計\[21\]。同年4月11日，發布第三條預告片和第二張視覺海報\[22\]。
+
+2019年6月4日，原作者繪製的海報公布\[23\]。同年6月14日，公佈主題曲將由[WANIMA](../Page/WANIMA.md "wikilink")演唱\[24\]。6月27日，發布正式預告片\[25\]。7月31日，[大塚隆史](../Page/大塚隆史.md "wikilink")在[Twitter](../Page/Twitter.md "wikilink")上透露電影已經完成製作\[26\]。
 
 ### 製作團隊
 
@@ -335,7 +337,7 @@
 
 2019年6月14日，宣布本作電影主題曲「**GONG**」，由[WANIMA](../Page/WANIMA.md "wikilink")主唱、KENTA作詞作曲，2019年7月17日發行專輯。
 
-電影配樂由田中公平創作，包含40多首曲目的原聲帶，預計於2019年10月30日由[Avex trax發行](../Page/Avex_trax.md "wikilink")。
+電影配樂由[田中公平](../Page/田中公平.md "wikilink")創作，包含40多首曲目的原聲帶，預計於2019年10月30日由[Avex trax發行](../Page/Avex_trax.md "wikilink")。
 
 ## 宣傳
 
@@ -349,9 +351,13 @@
 
 2019年8月，[PUMA](../Page/PUMA.md "wikilink")宣佈與《ONE PIECE》合作，並在《ONE PIECE STAMPEDE》的上映日期8月9日公開發售有關商品\[29\]。
 
-## 連動特別篇
+## 電影連動特別篇
 
-電視系列於2019年7月28日至8月4日（第895-896話）播放電影連動特別篇\[30\]\[31\]。
+電視動畫系列於2019年7月28日至8月4日兩週播放電影連動特別篇（第895至896話），故事描寫了本作電影的前日譚\[30\]\[31\]。
+
+  - 登場人物
+
+<!-- end list -->
 
   -
     聲優：（日本）
@@ -368,13 +374,17 @@
 
 ## 上映
 
-電影於2019年8月1日在大阪車站城市電影院舉行世界最速上映會\[32\]\[33\]，並於2019年8月9日在各大院線上映。
+電影於2019年8月1日在日本大阪車站城市電影院舉行世界最速上映會\[32\]\[33\]，並於2019年8月9日在日本各大院線上映。
+
+海外方面，台灣於2019年8月9日舉行4DX試片會，並於2019年8月21日在台灣各大院線上映。香港於2019年8月22日上映。
 
 ### 票房
 
-日本方面，首日票房破5億日圓，觀影人次約35萬人，創下日本2019年最高的單日人次記錄\[34\]。截至8月25日，票房累計至41億日圓\[35\]。
+日本方面，首日票房破5億日圓，觀影人次約35萬人，創下日本2019年最高的單日人次記錄\[34\]。2019年9月9日，為紀念票房突破50億日圓，原作者[尾田榮一郎送上親自簽繪和留言的圖片](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")，並在[YouTube](../Page/YouTube.md "wikilink")上傳由尾田榮一郎監修的特別影像\[35\]。截至9月17日，票房累計至52億日圓\[36\]。
 
-台灣方面，首週五天票房為新台幣2700萬元\[36\]\[37\]。
+台灣方面，首週五天票房為新台幣2743萬元\[37\]；次週票房累計至新台幣4438萬元\[38\]；第三週票房累計至新台幣5020萬元\[39\]；第四週票房累計至新台幣5276萬元\[40\]。
+
+香港方面，截至9月8日，票房累計至359萬港元\[41\]。
 
 ## 參考資料
 
@@ -449,3 +459,10 @@
 36.
 
 37.
+
+38.
+39.
+
+40.
+
+41.

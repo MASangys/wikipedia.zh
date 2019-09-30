@@ -1,14 +1,14 @@
 [Magpul_MOE_M-LOK_handguard_on_a_privatly_assembled_AR-15.jpg](https://zh.wikipedia.org/wiki/File:Magpul_MOE_M-LOK_handguard_on_a_privatly_assembled_AR-15.jpg "fig:Magpul_MOE_M-LOK_handguard_on_a_privatly_assembled_AR-15.jpg")上的马格普M-LOK[护木](https://zh.wikipedia.org/wiki/护木 "wikilink")\]\]
 
-**M-LOK**（“模块化锁定”**M**odular **Lo**c**k**的简写）是美国[马格普工业公司研发并注册专利的一款免费许可](https://zh.wikipedia.org/wiki/马格普工业公司 "wikilink")\[1\]的“负空间”（凹洞式）枪械导轨界面系统，用来部分取代现今被广泛使用的[皮卡汀尼导轨](https://zh.wikipedia.org/wiki/皮卡汀尼导轨 "wikilink")，是马格普推出用来与复仇者武器公司（VLTOR Weapon Systems）研发的[KeyMod系统进行市场竞争的产品](https://zh.wikipedia.org/wiki/KeyMod "wikilink")。与皮轨相比，配有M-LOK和KeyMod的[护木和](https://zh.wikipedia.org/wiki/护木 "wikilink")[前托都更轻](https://zh.wikipedia.org/wiki/枪托 "wikilink")、更紧凑，枪管通风性也更好，而且不像皮轨那样有凸出的尖锐棱角\[2\]。
+**M-LOK**（“模块化锁定”**M**odular **Lo**c**k**的简写）是美国[马格普工业公司研发并注册专利的一款免费许可](../Page/馬格普工業公司.md "wikilink")\[1\]的“负空间”（凹洞式）枪械导轨界面系统，用来部分取代现今被广泛使用的[皮卡汀尼导轨](../Page/皮卡汀尼導軌.md "wikilink")，是马格普推出用来与复仇者武器公司（VLTOR Weapon Systems）研发的[KeyMod系统进行市场竞争的产品](https://zh.wikipedia.org/wiki/KeyMod "wikilink")。与皮轨相比，配有M-LOK和KeyMod的[护木和](https://zh.wikipedia.org/wiki/護木 "wikilink")[前托都更轻](https://zh.wikipedia.org/wiki/枪托 "wikilink")、更紧凑，枪管通风性也更好，而且不像皮轨那样有凸出的尖锐棱角\[2\]。
 
 M-LOK系统可以被看做是借鉴了之前失败的“马格普原创器材”（Magpul Original Equipment，简称MOE）的改进设计，但是两者不完全兼容。M-LOK可以依赖转换部件在老式的MOE护木上使用，但是MOE附件完全没有M-LOK转换部件。
 
 ## 研发历史
 
-[M110A1_SDMR.jpg](https://zh.wikipedia.org/wiki/File:M110A1_SDMR.jpg "fig:M110A1_SDMR.jpg")[精确射手步枪](https://zh.wikipedia.org/wiki/精确射手步枪 "wikilink")\]\] 马格普在2007年底在[马沙达概念步枪上就公开了MOE凹孔的原型设计](https://zh.wikipedia.org/wiki/雷明登ACR突击步枪 "wikilink")，并于2009年正式推出了MOE护木和皮轨转换条、战术灯安装件、握把、两脚架安装件等匹配产品。但是MOE设计有着必须能够进入护木内侧才能安装的缺点，使其无法在浮置式护木上使用。而且MOE凹孔的间隔太宽而且不够统一，限制了附件安装位置的选择面。在这种情况下，马格普开启了备用方案，重新设计了M-LOK系统并于2014年全面取代了MOE设计。M-LOK导轨完全用[公制取代了](https://zh.wikipedia.org/wiki/公制 "wikilink")[英制指标](https://zh.wikipedia.org/wiki/英制 "wikilink")，使用只能旋转90度的T形螺母进行固定，使其能够方便的安装在浮置式护木上，而且可以在金属或聚合物材料的护木上使用。
+[M110A1_SDMR.jpg](https://zh.wikipedia.org/wiki/File:M110A1_SDMR.jpg "fig:M110A1_SDMR.jpg")牌M-LOK护木的[M110A1](https://zh.wikipedia.org/wiki/HK_G28狙擊步槍#衍生型 "wikilink")[精确射手步枪](../Page/精確射手步槍.md "wikilink")\]\] 马格普在2007年底在[马沙达概念步枪上就公开了MOE凹孔的原型设计](../Page/雷明登ACR突擊步槍.md "wikilink")，并于2009年正式推出了MOE护木和皮轨转换条、战术灯安装件、握把、两脚架安装件等匹配产品。但是MOE设计有着必须能够进入护木内侧才能安装的缺点，使其无法在浮置式护木上使用。而且MOE凹孔的间隔太宽而且不够统一，限制了附件安装位置的选择面。在这种情况下，马格普开启了备用方案，重新设计了M-LOK系统并于2014年全面取代了MOE设计。M-LOK导轨完全用[公制取代了](https://zh.wikipedia.org/wiki/公制 "wikilink")[英制指标](https://zh.wikipedia.org/wiki/英制 "wikilink")，使用只能旋转90度的T形螺母进行固定，使其能够方便的安装在浮置式护木上，而且可以在金属或聚合物材料的护木上使用。
 
-M-LOK比KeyMod晚两年推出，因此在初期具有劣势。2016年，[加拿大柯尔特研发并推出了使用配有M](https://zh.wikipedia.org/wiki/加拿大柯尔特 "wikilink")-LOK系统的一体化机匣的“模块化导轨步枪”（Modular Rail Rifle，简称MRR）\[3\]。2017年开始，许多之前生产KeyMod的厂家都开始改去生产M-LOK产品，使得M-LOK在销售量方面后来者居上，在一些厂商中甚至超过KeyMod三倍之多\[4\]。
+M-LOK比KeyMod晚两年推出，因此在初期具有劣势。2016年，[加拿大柯尔特研发并推出了使用配有M](https://zh.wikipedia.org/wiki/加拿大柯爾特 "wikilink")-LOK系统的一体化机匣的“模块化导轨步枪”（Modular Rail Rifle，简称MRR）\[3\]。2017年开始，许多之前生产KeyMod的厂家都开始改去生产M-LOK产品，使得M-LOK在销售量方面后来者居上，在一些厂商中甚至超过KeyMod三倍之多\[4\]。
 
 2017年4月初，海军地面武器研制中心（Naval Surface Warfare Center - Crane Division）对M-LOK和KeyMod等导轨系统的性能进行了测试。在NSWC Crane的测试中， Aero Precision、Midwest Industries和Seekins三家附件公司分别提供了三种KeyMod和三种M-LOK产品。所有的导轨系统都通过了耐久性和极限条件试验，但是在其它试验中M-LOK总体优于其它系统。例如：
 
@@ -18,7 +18,7 @@ M-LOK比KeyMod晚两年推出，因此在初期具有劣势。2016年，[加拿�
   - 在破坏载荷测试中，M-LOK的平均载荷是KeyMod的三倍多；
   - 在冲击测试中，两种系统都出现了裂痕，但是KeyMod的表现要差很多，甚至一部分钥匙孔开口出现断裂导致准直度丧失。
 
-在参考了测试结果以后，[美国特种作战司令部](../Page/美国特种作战司令部.md "wikilink")（USSOCOM）决定将M-LOK导轨系统作为下一代特种部队的武器模块化导轨系统。之前在2015年底就，[加拿大陆军就已经宣布采用M](https://zh.wikipedia.org/wiki/加拿大陆军 "wikilink")-LOK系统作为步兵标准导轨平台，原因是加拿大柯尔特的态度起了决定性因素。
+在参考了测试结果以后，[美国特种作战司令部](../Page/美国特种作战司令部.md "wikilink")（USSOCOM）决定将M-LOK导轨系统作为下一代特种部队的武器模块化导轨系统。之前在2015年底就，[加拿大陆军就已经宣布采用M](../Page/加拿大陸軍.md "wikilink")-LOK系统作为步兵标准导轨平台，原因是加拿大柯尔特的态度起了决定性因素。
 
 ## 技术指标
 
@@ -43,7 +43,7 @@ M-LOK不是[开源设计](https://zh.wikipedia.org/wiki/开源 "wikilink")，如
   - [导轨界面系统](https://zh.wikipedia.org/wiki/导轨界面系统 "wikilink")
   - [国际射联导轨](https://zh.wikipedia.org/wiki/国际射联导轨 "wikilink")（UIT rail，也称安舒茨导轨）：一种用来为竞赛枪械安装背带的老式导轨系统
   - [韦弗式导轨](https://zh.wikipedia.org/wiki/韦弗式导轨 "wikilink")（Weaver rail）：由韦弗光学公司在50年代推出的导轨系统，是皮卡汀尼导轨的前身
-  - [皮卡汀尼导轨](https://zh.wikipedia.org/wiki/皮卡汀尼导轨 "wikilink")（Picatinny rail）：也称MIL-STD-1913导轨或[STANAG](../Page/标准化协议.md "wikilink") 2324导轨，目前主流的导轨系统
+  - [皮卡汀尼导轨](../Page/皮卡汀尼導軌.md "wikilink")（Picatinny rail）：也称MIL-STD-1913导轨或[STANAG](../Page/标准化协议.md "wikilink") 2324导轨，目前主流的导轨系统
   - [北约附件导轨](https://zh.wikipedia.org/wiki/北约附件导轨 "wikilink")（NATO Accessory Rail，简称NAR）：也称STANAG 4694导轨，在皮卡汀尼导轨基础上研发的公制化改进系统
   - [KeyMod](https://zh.wikipedia.org/wiki/KeyMod "wikilink")：由复仇者公司（VLTOR）开发的[开源](https://zh.wikipedia.org/wiki/开源 "wikilink")“负空间”导轨系统，M-LOK的主要竞争对手
 

@@ -22,7 +22,7 @@
 <td><p><a href="../Page/宋承憲.md" title="wikilink">宋承憲</a><br />
 </p></td>
 <td><p>魏大韓</p></td>
-<td><p>前國會議員，是一位希望體現「正義社會」的政治圈新人。擁有快速的頭腦運轉，青山流水的口才，厚臉皮的性格，還有能夠淨化國民眼球的外貌，未料仕途因多舛的家族命運而亮起紅燈。某天，有位自稱是他女兒的18歲少女和四位"無血緣關係"的兄弟姐妹找上門來，他們便聯手對全國民上演一場「偉大的Show」。</p></td>
+<td><p>前國會議員，是一位希望體現「正義社會」的政治圈新人。擁有快速的頭腦運轉，青山流水的口才，厚臉皮的性格，還有能夠淨化國民眼球的外貌，未料仕途因多舛的家族命運而亮起紅燈。某天，有位自稱是他女兒的18歲少女和三位"無血緣關係"的兄弟姐妹找上門來，他們便聯手對全國民上演一場「偉大的Show」。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/李善彬.md" title="wikilink">李善彬</a></p></td>
@@ -59,22 +59,22 @@
 <tr class="even">
 <td><p><a href="../Page/盧正義.md" title="wikilink">盧正義</a></p></td>
 <td><p>韓多情</p></td>
-<td><p>四兄弟中的老大。因為爽朗的性格，在任何不幸面前都能找到積極的一面。</p></td>
+<td><p>四兄弟姐妹中的老大。因為爽朗的性格，在任何不幸面前都能找到積極的一面。</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>韓卓</p></td>
-<td><p>四兄弟中的老二。經常玩手機遊戲，毫無顧忌地說出一些帶刺的話。</p></td>
+<td><p>四兄弟姐妹中的老二。經常玩手機遊戲，毫無顧忌地說出一些帶刺的話。</p></td>
 </tr>
 <tr class="even">
 <td><p>金俊</p></td>
 <td><p>韓大風</p></td>
-<td><p>四兄弟中的老三，和松伊是異卵雙胞胎。</p></td>
+<td><p>四兄弟姐妹中的老三，和松伊是異卵雙胞胎。</p></td>
 </tr>
 <tr class="odd">
 <td><p>朴藝娜</p></td>
 <td><p>韓松伊</p></td>
-<td><p>四兄妹中的老么，和大風是異卵雙胞胎。</p></td>
+<td><p>四兄弟姐妹中的老么，和大風是異卵雙胞胎。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/韓相爀" title="wikilink">韓相爀</a></p></td>
@@ -189,6 +189,8 @@
 
 ## 原聲帶
 
+  - Part.1（發行日期：2019年9月9日）
+
 ## 收視率
 
 <table>
@@ -196,6 +198,7 @@
 <tr class="header">
 <th><p>集數</p></th>
 <th><p>播出日期</p></th>
+<th><p>標題</p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/AC尼爾森" title="wikilink">AGB收視率</a>[5]</p></th>
 </tr>
 </thead>
@@ -204,89 +207,107 @@
 <td><p>大韓民國（全國）</p></td>
 <td><p>首爾（首都圈）</p></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>
 <td><p>2019/08/26</p></td>
-<td><p>3.056%</p></td>
+<td><p>國民不孝子的誕生</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
 <td><p>2019/08/27</p></td>
+<td><p>選擇的重量</p></td>
 <td><p>2.941%</p></td>
 </tr>
 <tr class="even">
 <td><p>3</p></td>
 <td><p>2019/09/02</p></td>
-<td><p>%</p></td>
+<td><p>家人的價格</p></td>
+<td><p>3.037%</p></td>
 </tr>
 <tr class="odd">
 <td><p>4</p></td>
 <td><p>2019/09/03</p></td>
-<td><p>%</p></td>
+<td><p>需要超人</p></td>
+<td><p>2.966%</p></td>
 </tr>
 <tr class="even">
 <td><p>5</p></td>
 <td><p>2019/09/09</p></td>
-<td><p>%</p></td>
+<td><p>假如你遇到那種事的話</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>6</p></td>
 <td><p>2019/09/10</p></td>
-<td><p>%</p></td>
+<td><p>家人的八卦消息</p></td>
+<td><p>2.779%</p></td>
 </tr>
 <tr class="even">
 <td><p>7</p></td>
 <td><p>2019/09/16</p></td>
-<td><p>%</p></td>
+<td><p>秘密與謊言</p></td>
+<td><p>2.529%</p></td>
 </tr>
 <tr class="odd">
 <td><p>8</p></td>
 <td><p>2019/09/17</p></td>
-<td><p>%</p></td>
+<td></td>
+<td><p>2.708%</p></td>
 </tr>
 <tr class="even">
 <td><p>9</p></td>
 <td><p>2019/09/23</p></td>
+<td></td>
 <td><p>%</p></td>
 </tr>
 <tr class="odd">
 <td><p>10</p></td>
 <td><p>2019/09/24</p></td>
+<td></td>
 <td><p>%</p></td>
 </tr>
 <tr class="even">
 <td><p>11</p></td>
 <td><p>2019/09/30</p></td>
+<td></td>
 <td><p>%</p></td>
 </tr>
 <tr class="odd">
 <td><p>12</p></td>
 <td><p>2019/10/01</p></td>
+<td></td>
 <td><p>%</p></td>
 </tr>
 <tr class="even">
 <td><p>13</p></td>
 <td><p>2019/10/07</p></td>
+<td></td>
 <td><p>%</p></td>
 </tr>
 <tr class="odd">
 <td><p>14</p></td>
 <td><p>2019/10/08</p></td>
+<td></td>
 <td><p>%</p></td>
 </tr>
 <tr class="even">
 <td><p>15</p></td>
 <td><p>2019/10/14</p></td>
+<td></td>
 <td><p>%</p></td>
 </tr>
 <tr class="odd">
 <td><p>16</p></td>
 <td><p>2019/10/15</p></td>
+<td></td>
 <td><p>%</p></td>
 </tr>
 <tr class="even">
 <td><p>平均收視率</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -300,7 +321,7 @@
 ## 同時段作品
 
   - [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink") [月火連續劇](../Page/KBS月火連續劇.md "wikilink")：《[讓我聆聽你的歌](../Page/讓我聆聽你的歌.md "wikilink")》、《[朝鮮浪漫喜劇–綠豆傳](../Page/朝鮮浪漫喜劇–綠豆傳.md "wikilink")》
-  - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") [月火連續劇](../Page/MBC月火連續劇.md "wikilink")：《[Welcome 2 Life](../Page/Welcome_2_Life.md "wikilink")》
+  - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") [月火連續劇](../Page/MBC月火連續劇.md "wikilink")：《[Welcome 2 Life](../Page/Welcome_2_Life.md "wikilink")》（至2019年9月24日）
   - [JTBC](../Page/JTBC.md "wikilink") [月火連續劇](../Page/JTBC月火連續劇.md "wikilink")：《[18歲的瞬間](../Page/18歲的瞬間.md "wikilink")》、《[花黨：朝鮮婚姻介紹所](../Page/花黨：朝鮮婚姻介紹所.md "wikilink")》
 
 ## 參考資料

@@ -8,19 +8,7 @@
 
 ### 連載漫畫
 
-  - （[SQUARE ENIX](https://zh.wikipedia.org/wiki/SQUARE_ENIX "wikilink")2010年6月號－2014年9月號）
-
-  - （SQUARE ENIX2015年4月號－2015年6月號）
-
-  - （[KADOKAWA](../Page/KADOKAWA.md "wikilink")2015年9月號－2019年3月號）
-
-  - （SQUARE ENIX2017年12月號－**連載中**）
-
 ### 單篇漫畫
-
-  - （[SQUARE ENIX](https://zh.wikipedia.org/wiki/SQUARE_ENIX "wikilink")）
-
-  - （[芳文社](../Page/芳文社.md "wikilink")）
 
 ## 參考文獻
 

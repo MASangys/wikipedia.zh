@@ -2,7 +2,7 @@
 
 ## 歷史
 
-ATFX成立於2017年7月，總辦事處設於英國。目前ATFX已拓展業務至[歐洲](https://zh.wikipedia.org/wiki/歐洲 "wikilink")，[阿聯酋](https://zh.wikipedia.org/wiki/阿聯酋 "wikilink")，[北美和亞洲](https://zh.wikipedia.org/wiki/北美 "wikilink")。\[3\] 公司目前以李曉强 (ATFX 英國董事長)為首領導的公司高級管理層團隊。\[4\]\[5\]
+ATFX成立於2017年7月，總辦事處設於英國。目前ATFX已拓展業務至[歐洲](https://zh.wikipedia.org/wiki/歐洲 "wikilink")，[阿聯酋](https://zh.wikipedia.org/wiki/阿聯酋 "wikilink")，[拉丁美洲](../Page/拉丁美洲.md "wikilink")和亞洲。\[3\] 公司目前以李曉强 (ATFX 英國董事長)為首領導的公司高級管理層團隊。\[4\]\[5\]
 
 2019年6月，ATFX贊助並參加了[意大利](../Page/意大利.md "wikilink")里米尼的投資交易論壇。\[6\] 2019年6月，ATFX參加了在[馬德里舉行的大型外匯活動](https://zh.wikipedia.org/wiki/馬德里 "wikilink") - The Forex Day。\[7\]\[8\]
 

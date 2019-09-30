@@ -1,8 +1,8 @@
-**FN HMP**（HMP全寫：，意為：重機槍筴艙）是一款由[比利时](../Page/比利时.md "wikilink")[赫爾斯塔爾國營工廠研製和生產的](https://zh.wikipedia.org/wiki/赫爾斯塔爾國營工廠 "wikilink")系統，筴艙以內搭載著一挺[FN M3P](../Page/白朗寧M2重機槍.md "wikilink") [12.7×99毫米](../Page/12.7×99mm_NATO.md "wikilink")（.50 BMG）[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[航空型](../Page/航空机关枪.md "wikilink")[重機槍](https://zh.wikipedia.org/wiki/重機槍 "wikilink")。
+**FN HMP**（HMP全寫：，意為：重機槍筴艙）是一款由[比利时](../Page/比利时.md "wikilink")[埃斯塔勒](../Page/埃斯塔勒.md "wikilink")[國營工廠所研製和生產的](https://zh.wikipedia.org/wiki/埃斯塔勒國營工廠 "wikilink")系統，筴艙以內搭載著一挺[FN M3P](../Page/白朗寧M2重機槍.md "wikilink") [12.7×99毫米](../Page/12.7×99mm_NATO.md "wikilink")（.50 BMG）[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[航空型](../Page/航空机关枪.md "wikilink")[重機槍](https://zh.wikipedia.org/wiki/重機槍 "wikilink")。
 
 ## 概述
 
-1970年代，赫爾斯塔爾國營工廠研製HMP，並在多年來一直穩步改進。該武器系統的第一個版本，即**HMP250**，能夠裝填250發.50 BMG[彈藥](https://zh.wikipedia.org/wiki/彈藥 "wikilink")，並且架接在北約14英吋標準以下。這使得該武器可適用於北約的所有常見的[亞音速](https://zh.wikipedia.org/wiki/空气动力学#亚音速空气动力学 "wikilink")[固定翼](https://zh.wikipedia.org/wiki/固定翼飛機 "wikilink")[戰鬥机和](https://zh.wikipedia.org/wiki/戰鬥机 "wikilink")[旋翼機系統以上](https://zh.wikipedia.org/wiki/自轉旋翼機 "wikilink")。該武器系統採用電子控制擊發及保險系統，主要用於[密接空中支援](https://zh.wikipedia.org/wiki/密接空中支援 "wikilink")。
+1970年代，埃斯塔勒國營工廠研製HMP，並且在多年來一直穩步改進。該武器系統的第一個版本，即**HMP250**，能夠裝填250發.50 BMG[彈藥](https://zh.wikipedia.org/wiki/彈藥 "wikilink")，並且架接在北約14英吋標準以下。這使得該武器可適用於北約的所有常見的[亞音速](https://zh.wikipedia.org/wiki/空气动力学#亚音速空气动力学 "wikilink")[固定翼](https://zh.wikipedia.org/wiki/固定翼飛機 "wikilink")[戰鬥机和](https://zh.wikipedia.org/wiki/戰鬥机 "wikilink")[旋翼機系統以上](https://zh.wikipedia.org/wiki/自轉旋翼機 "wikilink")。該武器系統採用電子控制擊發及保險系統，主要用於[密接空中支援](https://zh.wikipedia.org/wiki/密接空中支援 "wikilink")。
 
 在接下來的十多年當中，隨後推出了不同的版本，不同之處僅在於其他版本可裝填更多的彈藥、在筴艙以下裝有附加的收集箱，或是裝填250發彈藥和三枚[70毫米非制導火箭彈的RMP](../Page/火蛇70航空火箭彈.md "wikilink")（全寫：，意為：火箭及機槍筴艙）版本。
 
@@ -209,7 +209,7 @@
 
 ## 參見
 
-  - [FN ETNA TMP-5機槍筴艙](https://zh.wikipedia.org/wiki/FN_ETNA_TMP-5機槍筴艙 "wikilink")，[FN搭載兩挺](https://zh.wikipedia.org/wiki/赫爾斯塔爾國營工廠 "wikilink")[FN MAG的](../Page/FN_MAG通用機槍.md "wikilink")
+  - [FN ETNA TMP-5機槍筴艙](https://zh.wikipedia.org/wiki/FN_ETNA_TMP-5機槍筴艙 "wikilink")，[FN搭載兩挺](https://zh.wikipedia.org/wiki/埃斯塔勒國營工廠 "wikilink")[FN MAG的](../Page/FN_MAG通用機槍.md "wikilink")
   - [FN M3P](../Page/白朗寧M2重機槍.md "wikilink")[航空型](../Page/航空机关枪.md "wikilink")[重機槍](https://zh.wikipedia.org/wiki/重機槍 "wikilink")
   - [火蛇70航空火箭彈](../Page/火蛇70航空火箭彈.md "wikilink")
 

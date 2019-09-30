@@ -40,19 +40,19 @@
 
 ### 首次登場角色
 
-  -
+  - <span id="戎 瓔花"></span>
     在賽之河原壘石的們的領袖。
-  -
+  - <span id="牛崎 潤美"></span>
     在[三途川](../Page/三途川.md "wikilink")以漁業維生的牛鬼。
-  -
+  - <span id="庭渡 久侘歌"></span>
     野生雞的神明 二羽渡神。異界的口岸的護衛。
-  -
+  - <span id="吉弔 八千慧"></span>
     吉弔。畜生界的四大组織之一，鬼傑組的組長。
-  -
+  - <span id="杖刀偶 磨弓"></span>
     袿姬制作的[埴輪兵團的兵長](https://zh.wikipedia.org/wiki/埴輪 "wikilink")。
-  -
+  - <span id="埴安神 袿姫"></span>
     支配著靈長園，保護裡面的人類靈的神明。
-  -
+  - <span id="驪駒 早鬼"></span>
     驪駒。勁牙組的組長。
 
 ## 關卡流程
@@ -154,6 +154,6 @@ Beastly Storm</p></td>
 
   - [Steam上的《東方鬼形獸 ～ Wily Beast and Weakest Creature.》](https://store.steampowered.com/app/1079160/__Wily_Beast_and_Weakest_Creature/)
 
-[Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink") [Category:未来电子游戏](https://zh.wikipedia.org/wiki/Category:未来电子游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
+[Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
 
 1.

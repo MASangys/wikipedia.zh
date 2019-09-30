@@ -8,7 +8,7 @@ EVERGLOW團名是“EVER”与“GLOW”的合成语，寓意“无论是在太�
 
 ### 問候語
 
-問候語為：「All，Light！大家好，我們是EVERGLOW。」同時单手伸出三根手指另外两根手指扣在一起，比出希腊字母sigma“∑”和希腊字母delta“δ”形态的手勢。
+問候語為：「Ready?All Light！大家好，我們是EVERGLOW。」同時单手伸出三根手指另外两根手指扣在一起，比出希腊字母sigma“∑”和希腊字母delta“δ”形态的手勢。
 
 ### 粉絲名稱
 
@@ -88,7 +88,7 @@ EVERGLOW團名是“EVER”与“GLOW”的合成语，寓意“无论是在太�
 <ul>
 <li>發行日期 ：2019年8月19日</li>
 <li>語言：韓語</li>
-<li>專輯銷量：</li>
+<li>專輯銷量：12,199+[14]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -118,17 +118,17 @@ EVERGLOW團名是“EVER”与“GLOW”的合成语，寓意“无论是在太�
 <td><p>3月18日</p></td>
 <td><p>《<a href="../Page/ARRIVAL_OF_EVERGLOW.md" title="wikilink">ARRIVAL OF EVERGLOW</a>》</p></td>
 <td><p>봉봉쇼콜라(Bon Bon Chocolat)</p></td>
-<td><p><a href="https://www.youtube.com/watch?v=TDpqrZKKBEA">봉봉쇼콜라 (Bon Bon Chocolat)</a>[14]</p></td>
-<td><p>봉봉쇼콜라(Bon Bon Chocolat)[15]<br />
-봉봉쇼콜라(Bon Bon Chocolat)（Choreography with EVERGLOW Ver.）[16] 봉봉쇼콜라(Bon Bon Chocolat)（Special Dance Practice Ver.）[17]</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=TDpqrZKKBEA">봉봉쇼콜라 (Bon Bon Chocolat)</a>[15]</p></td>
+<td><p>봉봉쇼콜라(Bon Bon Chocolat)[16]<br />
+봉봉쇼콜라(Bon Bon Chocolat)（Choreography with EVERGLOW Ver.）[17] 봉봉쇼콜라(Bon Bon Chocolat)（Special Dance Practice Ver.）[18]</p></td>
 </tr>
 <tr class="even">
 <td><p>8月19日</p></td>
 <td><p>《<a href="../Page/HUSH_(EVERGLOW單曲).md" title="wikilink">HUSH</a>》</p></td>
 <td><p>Adios</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=tFRcEOmkDM8">Adios MV (Performance Ver.)</a><br />
-<a href="https://www.youtube.com/watch?v=c4T6LSN0O5M">Adios</a>[18]</p></td>
-<td><p>Adios[19]</p></td>
+<a href="https://www.youtube.com/watch?v=c4T6LSN0O5M">Adios</a>[19]</p></td>
+<td><p>Adios[20] Adios | Fo.D | Choreography[21]</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -147,7 +147,7 @@ EVERGLOW團名是“EVER”与“GLOW”的合成语，寓意“无论是在太�
 | 日期                 | 電視台                                              | 節目名稱                                                        | 參與成員 | 備註        |
 | ------------------ | ------------------------------------------------ | ----------------------------------------------------------- | ---- | --------- |
 | 2016年1月22日 - 4月1日  | [Mnet](../Page/Mnet媒體.md "wikilink")             | 《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》          | 施賢   | 出道前       |
-| 2017年2月27日 - 6月27日 | [SBS](../Page/SBS_\(韓國\).md "wikilink")          | 《[美味的烹飪課](https://zh.wikipedia.org/wiki/美味的烹飪課 "wikilink")》 | E:U  | 出道前\[20\] |
+| 2017年2月27日 - 6月27日 | [SBS](../Page/SBS_\(韓國\).md "wikilink")          | 《[美味的烹飪課](https://zh.wikipedia.org/wiki/美味的烹飪課 "wikilink")》 | E:U  | 出道前\[22\] |
 | 2017年7月13日 - 9月29日 | [Mnet](../Page/Mnet媒體.md "wikilink")             | 《[偶像學校](https://zh.wikipedia.org/wiki/偶像學校 "wikilink")》     | Onda | 出道前       |
 | 2018年6月15日 - 8月31日 | 《[PRODUCE 48](../Page/PRODUCE_48.md "wikilink")》 | 施賢、怡人                                                       | 出道前  |           |
 
@@ -159,13 +159,15 @@ EVERGLOW團名是“EVER”与“GLOW”的合成语，寓意“无论是在太�
 | 播放日期                                           |
 | 4月25日                                          |
 | 5月21日                                          |
+| 9月4日                                           |
+| 9月10日                                          |
 
 ## 廣告代言
 
 | 年份        | 商品名稱    | 參與成員 | 合作藝人                             | 來源     |
 | --------- | ------- | ---- | -------------------------------- | ------ |
-| 2019年     | Gmarket | 施贤   | [吳娜拉](../Page/吳娜拉.md "wikilink") | \[21\] |
-| COTTINY珠宝 | 全員      |      | \[22\]                           |        |
+| 2019年     | Gmarket | 施贤   | [吳娜拉](../Page/吳娜拉.md "wikilink") | \[23\] |
+| COTTINY珠宝 | 全員      |      | \[24\]                           |        |
 
 ## 演唱會及其他演出
 
@@ -174,7 +176,7 @@ EVERGLOW團名是“EVER”与“GLOW”的合成语，寓意“无论是在太�
 | 日期         | 名称                | 城市 | 舉行地點            | 备注                                |
 | ---------- | ----------------- | -- | --------------- | --------------------------------- |
 | 2019年3月18日 | DEBUT SHOWCASE    | 首尔 | YES24 LIVE HALL | 第一張单曲專輯《ARRIVAL OF EVERGLOW》出道抢听会 |
-| 2019年8月19日 | Comeback SHOWCASE | 首尔 | YES24 LIVE HALL | 第二張单曲專輯《HUSH》抢听会\[23\]            |
+| 2019年8月19日 | Comeback SHOWCASE | 首尔 | YES24 LIVE HALL | 第二張单曲專輯《HUSH》抢听会\[25\]            |
 
 ## 獎項與榮耀
 
@@ -279,6 +281,8 @@ EVERGLOW團名是“EVER”与“GLOW”的合成语，寓意“无论是在太�
 18.
 19.
 20.
-21.
+21.  Fo.D {{\!}} Choreography|url=[https://www.youtube.com/watch?v=_YKCzszJumI|accessdate=2019-09-12|language=zh](https://www.youtube.com/watch?v=_YKCzszJumI%7Caccessdate=2019-09-12%7Clanguage=zh)}}
 22.
 23.
+24.
+25.

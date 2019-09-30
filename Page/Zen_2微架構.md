@@ -4,6 +4,17 @@ Zen 2 计划从硬件根本上修复[Spectre 安全漏洞](https://zh.wikipedia.
 
 ## 架构设计
 
+  - 改用 256bit Single-Op 浮點單元
+  - μOps Cache 容量倍增至 4096 byte
+  - 全新的 TAGE 預測分支設計
+  - 增至 3 組 AGU 單元
+  - 增加 Load/Store Bandwidth
+  - L3 Cache 容量提升 1 倍
+  - 改良 Fetch 及 Pre-Fetch 能力
+  - 改良 ALU 及 AGU Schedulers
+  - 增加 Register File 容量
+  - IMC 控制器改良、提升至 DDR4-3200+
+
 ## 处理器列表
 
 2019年5月26日,AMD 宣布了6款 Zen 2 桌面处理器，包括： 6核 Ryzen 5 和 8核 Ryzen 7 产品线，以及新产品线第一条12核和16核 Ryzen 9 主流桌面处理器。 2019年8月8日，AMD第二代[EPYC处理器](https://zh.wikipedia.org/wiki/EPYC "wikilink") （Rome）发布。

@@ -147,10 +147,9 @@ end
 
 end
 
-\-- 生成一条线路的一列简单表格内容 function p._internalSimpList(no, loc, vehicle)
+\-- 生成一条线路的一列简单表格内容 function p._internalSimpList(no, loc)
 
 `   local d = _loadSystemData(loc)`
-`   `
 `   if d[no] == nil then`
 `       a = `[`align=center`](https://zh.wikipedia.org/wiki/ "wikilink")`..no..`[](https://zh.wikipedia.org/wiki/''' "wikilink")`..'`[`Module:HZBUS中未包含这条`](https://zh.wikipedia.org/wiki/Module:HZBUS "wikilink")[`"..loc.."的线路`](https://zh.wikipedia.org/wiki/'..loc.."巴士路线列表 "wikilink")`）''"`
 `   elseif d[no].note == "已停办" or d[no].note == "已停辦" then`
@@ -187,6 +186,30 @@ end
 `   local loc = ss.loc`
 `   if loc == "" or loc == nil then loc = "惠州" end`
 `   local ret = p._internalSimpList(ss.code, loc)`
+`   return ret`
+
+end
+
+\-- 输出线路单项资料 function p._internalCode(no, loc)
+
+`   local d = _loadSystemData(loc)`
+`   if d[no] == nil then`
+`       a = "`*`（错误：`[`Module:HZBUS中无`](https://zh.wikipedia.org/wiki/Module:HZBUS "wikilink")`"..no.."线路）`*`"`
+`   elseif d[no].note == "已停办" or d[no].note == "已停辦" then`
+`       a = `[`''（错误：`](https://zh.wikipedia.org/wiki/''（错误： "wikilink")`..d[no].code..`[`已停办或暂停服务，请移除）''`](https://zh.wikipedia.org/wiki/已停办或暂停服务，请移除）'' "wikilink")
+`   else`
+`       a = d[no].code`
+`   end`
+`   return a`
+
+end
+
+\--  function p.code(frame)
+
+`   local ss = frame.args`
+`   local loc = ss.loc`
+`   if loc == "" or loc == nil then loc = "惠州" end`
+`   local ret = p._internalCode(ss.code, loc)`
 `   return ret`
 
 end

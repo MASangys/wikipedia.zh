@@ -10,7 +10,7 @@ ADSS業務領域包括基於自主多資產交易技術的交易和經紀服務�
 
 ## 地區辦事處
 
-ADSS在倫敦和香港設有兩個主要辦事處，分別是ADS Securities London Limited (ADSS London) \[23\]和 ADS Securities Hong Kong Limited (ADSS Hong Kong)\[43\]。ADSS London在英國獲得金融行為監管局授權及監管(FRN 577453)，持有IFPRU 730K牌照。 \[44\]該公司註冊地址為9th Floor, 125 Old Broad Street, London, EC2N 1AR，公司註冊號： 07785265。 \[45\] ADSS Hong Kong經香港證監會授權並接受其監管(CE No. AXC847)，可依照香港證券及期貨條例作為金融中介開展證券、期貨合約、槓桿式外匯買賣經紀業務，以及提供公司融資咨詢。\[46\] ADSS Hong Kong持有證監會第一類、第二類、第三類和第六類牌照。\[47\]
+ADSS在倫敦和香港設有兩個主要辦事處，分別是ADS Securities London Limited (ADSS London) \[23\]和 ADS Securities Hong Kong Limited (ADSS Hong Kong)\[43\]。ADSS London在英國獲得金融行為監管局授權及監管(FRN 577453)，持有IFPRU 730K牌照。 \[44\]該公司註冊地址為9th Floor, 125 Old Broad Street, London, EC2N 1AR，公司註冊號： 07785265。 \[45\] ADSS Hong Kong經香港證監會授權並接受其監管(CE No. AXC847)，可依照香港證券及期貨條例作為金融中介開展證券、期貨合約、槓桿式外匯買賣經紀業務，以及提供公司融資咨詢。\[46\] ADSS Hong Kong持有證監會第一類、第二類和第三類牌照。\[47\]
 
 ## 參考資料
 

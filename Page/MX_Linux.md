@@ -109,7 +109,11 @@ MX-18系列中，MX Tools得到进一步发展，并引入了全新[内核](../P
 
 MX Linux通过发布一套名为MX Tools的面向用户的工具集而从Linux发行版中脱颖而出。\[33\]在MX Tools中，许多工具都是专为MX Linux开发的，而有些则是从[应用程序](../Page/应用程序.md "wikilink")中分离出来的，有些是antiX上现有的应用程序，少数工具经许可而被引入。\[34\]例如，工具集中一个基于[图形用户界面](../Page/图形用户界面.md "wikilink")的工具MX-snapshot可用于将当前系统[快照保存为](https://zh.wikipedia.org/wiki/快照_\(電腦儲存\) "wikilink")[ISO映像](../Page/ISO映像.md "wikilink")，这种系统映像可以从[磁盘或U盘启动](https://zh.wikipedia.org/wiki/磁盘 "wikilink")，同时保留设置及有用的文件，可作为方便而快速的[备份](../Page/备份.md "wikilink")。\[35\]\[36\]\[37\]
 
-## 參考資料
+## 脚注
+
+<references group="註"/>
+
+## 参考文献
 
 ## 外部链接
 

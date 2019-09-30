@@ -18,7 +18,7 @@ HBO Max提供的節目除原創之外，還包括[HBO](../Page/HBO.md "wikilink"
 
 原創節目將在片頭標記為「Max原創節目」（Max Originals）\[7\]。
 
-#### 真人節目
+#### 電視
 
 <table>
 <thead>
@@ -34,61 +34,7 @@ HBO Max提供的節目除原創之外，還包括[HBO](../Page/HBO.md "wikilink"
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><em>Dune: The Sisterhood</em></p></td>
-<td><p>《<a href="../Page/沙丘：姐妹會.md" title="wikilink">沙丘：姐妹會</a>》</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/科幻片" title="wikilink">科幻</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><em>The Flight Attendant</em></p></td>
-<td><p>《<a href="../Page/空中小姐_(美國電視劇).md" title="wikilink">空中小姐</a>》</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/劇情片" title="wikilink">劇情</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><em>Circe</em></p></td>
-<td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/奇幻片" title="wikilink">奇幻</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><em>Love Life</em></p></td>
-<td></td>
-<td><p><a href="../Page/喜劇.md" title="wikilink">喜劇</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><em>Made for Love</em></p></td>
-<td><p>《因愛之名》</p></td>
-<td><p><a href="../Page/喜劇.md" title="wikilink">喜劇</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><em>Station Eleven</em></p></td>
-<td><p>《如果我們的世界消失了》</p></td>
-<td><p><a href="../Page/末日幻想.md" title="wikilink">末日幻想</a></p></td>
-<td></td>
-<td><p>1</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><em>Tokyo Vice</em></p></td>
+<td><p><em>Americanah</em></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/劇情片" title="wikilink">劇情</a></p></td>
 <td></td>
@@ -97,7 +43,88 @@ HBO Max提供的節目除原創之外，還包括[HBO](../Page/HBO.md "wikilink"
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Untitled <em>Gossip Girl</em> reboot[9]</p></td>
+<td><p><em>Circe</em></p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/奇幻片" title="wikilink">奇幻</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><em>Drama Queen</em>[9]</p></td>
+<td></td>
+<td><p><a href="../Page/喜劇.md" title="wikilink">喜劇</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><em>Dune: The Sisterhood</em></p></td>
+<td><p>《<a href="../Page/沙丘：姐妹會.md" title="wikilink">沙丘：姐妹會</a>》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/科幻片" title="wikilink">科幻</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><em>The Flight Attendant</em></p></td>
+<td><p>《<a href="../Page/空中小姐_(美國電視劇).md" title="wikilink">空中小姐</a>》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/劇情片" title="wikilink">劇情</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><em>Gremlins: Secrets of the Mogwai</em></p></td>
+<td></td>
+<td><p><a href="../Page/喜劇.md" title="wikilink">喜劇</a>／<a href="https://zh.wikipedia.org/wiki/奇幻片" title="wikilink">奇幻</a></p></td>
+<td></td>
+<td><p>1（10集）</p></td>
+<td></td>
+<td><p>整季預訂</p></td>
+</tr>
+<tr class="odd">
+<td><p><em>Love Life</em></p></td>
+<td></td>
+<td><p><a href="../Page/喜劇.md" title="wikilink">喜劇</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><em>Made for Love</em></p></td>
+<td><p>《因愛之名》</p></td>
+<td><p><a href="../Page/喜劇.md" title="wikilink">喜劇</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><em>Station Eleven</em></p></td>
+<td><p>《如果我們的世界消失了》</p></td>
+<td><p><a href="../Page/末日幻想.md" title="wikilink">末日幻想</a></p></td>
+<td></td>
+<td><p>1</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><em>Tokyo Vice</em></p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/劇情片" title="wikilink">劇情</a></p></td>
+<td></td>
+<td><p>1（10集）</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Untitled <em>Gossip Girl</em> reboot[10]</p></td>
 <td><p>未定名《<a href="../Page/花邊教主_(電視劇).md" title="wikilink">花邊教主</a>》重啟劇集</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/劇情片" title="wikilink">劇情</a></p></td>
 <td></td>
@@ -108,38 +135,32 @@ HBO Max提供的節目除原創之外，還包括[HBO](../Page/HBO.md "wikilink"
 </tbody>
 </table>
 
-#### 動畫節目
+#### 電影
 
 <table>
 <thead>
 <tr class="header">
-<th><p>標題[10]</p></th>
+<th><p>標題</p></th>
 <th><p>譯名</p></th>
 <th><p>類型</p></th>
-<th><p>首播日期</p></th>
-<th><p>季數</p></th>
-<th><p>長度</p></th>
+<th><p>首映日期</p></th>
 <th><p>狀態</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><em>Gremlins: Secrets of the Mogwai</em></p></td>
+<td><p><em>Let Them All Talk</em></p></td>
 <td></td>
-<td><p><a href="../Page/喜劇.md" title="wikilink">喜劇</a>／<a href="https://zh.wikipedia.org/wiki/奇幻片" title="wikilink">奇幻</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/劇情片" title="wikilink">劇情</a></p></td>
 <td></td>
-<td><p>1（10集）</p></td>
-<td></td>
-<td><p>整季預訂</p></td>
+<td><p>拍攝中[11]</p></td>
 </tr>
 <tr class="even">
-<td><p>Untitled <em>The Flinstones</em> reboot[11]</p></td>
-<td><p>未定名《<a href="../Page/摩登原始人.md" title="wikilink">摩登原始人</a>》重啟系列</p></td>
-<td><p><a href="../Page/喜劇.md" title="wikilink">喜劇</a></p></td>
+<td><p><em>UNpregnant</em></p></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td><p>前期製作[12]</p></td>
 </tr>
 </tbody>
 </table>
@@ -168,4 +189,7 @@ HBO Max提供的節目除原創之外，還包括[HBO](../Page/HBO.md "wikilink"
 9.
 
 10.
+
 11.
+
+12.

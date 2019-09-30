@@ -297,6 +297,30 @@
 <td><p>精選</p></td>
 <td><p>32.7</p></td>
 </tr>
+<tr class="even">
+<td><p>9月9日</p></td>
+<td></td>
+<td><p><a href="../Page/泰民.md" title="wikilink">泰民</a></p></td>
+<td><p>原創</p></td>
+<td><p>5.0</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="odd">
+<td><p>9月16日</p></td>
+<td></td>
+<td></td>
+<td><p>原創</p></td>
+<td><p>11.1</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="even">
+<td><p>9月23日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Turntable_(竹內瑪莉亞專輯)" title="wikilink">Turntable</a></p></td>
+<td><p><a href="../Page/竹內瑪莉亞.md" title="wikilink">竹內瑪莉亞</a></p></td>
+<td><p>原創</p></td>
+<td><p>3.1</p></td>
+<td><p>1</p></td>
+</tr>
 </tbody>
 </table>
 

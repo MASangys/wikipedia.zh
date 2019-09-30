@@ -2,19 +2,19 @@
 
 ## 简介
 
-[Rocket_Punch_logo.png](https://zh.wikipedia.org/wiki/File:Rocket_Punch_logo.png "fig:Rocket_Punch_logo.png") 團名意義為在單調的日常生活中飛來新鮮的一擊，蘊含著希望努力用新音樂和舞臺給大衆日常生活帶來明亮能量。
+團名意義為在單調的日常生活中飛來新鮮的一擊，蘊含著希望努力用新音樂和舞臺給大衆日常生活帶來明亮能量。
 
 ## 經歷
 
 ### 出道前
 
   - 2018年5月 - 8月，[高橋朱里](../Page/高橋朱里.md "wikilink")以AKB48成员身份、[金素嬉](https://zh.wikipedia.org/wiki/金素嬉 "wikilink")、[金秀潤以](https://zh.wikipedia.org/wiki/金秀潤 "wikilink")[Woollim娛樂](../Page/Woollim娛樂.md "wikilink")練習生的身分參加[Mnet](../Page/Mnet.md "wikilink")生存選拔實境節目《[PRODUCE 48](../Page/PRODUCE_48.md "wikilink")》\[2\]，三人均未成功出道，分别以第16名、43名、47名结束比赛。
-  - 2019年3月4日，[高橋朱里](../Page/高橋朱里.md "wikilink")在她的生诞祭公演中宣布于2019年5月6日自AKB48毕业，并签约[Woollim娱乐于韩国活动](https://zh.wikipedia.org/wiki/Woollim娱乐 "wikilink")\[3\]。
+  - 2019年3月4日，[高橋朱里](../Page/高橋朱里.md "wikilink")在她的生诞祭公演中宣布于2019年5月6日自AKB48毕业，并與[Woollim娱乐签约于韩国發展](https://zh.wikipedia.org/wiki/Woollim娱乐 "wikilink")\[3\]。
 
 ### 2019：出道
 
   - 7月21日，[Woollim娛樂](../Page/Woollim娛樂.md "wikilink")公布團體Logo。22－30日，[Woollim娛樂](../Page/Woollim娛樂.md "wikilink")依序公布團體、多玹、秀潤、素嬉、蓮熙、胤卿、朱里的概念影像，宣布將於8月7日正式出道。31日，公開全員概念照。
-  - 8月7日，公開首張迷你專輯《[Pink Punch](../Page/Pink_Punch.md "wikilink")》及主打歌《빔밤붐(BIM BAM BUM)》MV，並舉行出道Showcase。
+  - 8月7日，公開首張迷你專輯《[Pink Punch](../Page/Pink_Punch.md "wikilink")》及主打歌《빔밤붐(BIM BAM BUM)》MV，並於首爾 Yes24 Live Hall舉行出道Showcase。
 
 ## 成員資料
 
@@ -50,6 +50,7 @@
 <ul>
 <li>發行日期：2019年8月7日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
+<li>銷量：16,006+[5]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -177,10 +178,12 @@
 
 ### 綜藝節目
 
-| 日期         | 播放平台                                                | 節目名稱                                                                               | 成員  | 性質 | 備註                                                                                                   |
-| ---------- | --------------------------------------------------- | ---------------------------------------------------------------------------------- | --- | -- | ---------------------------------------------------------------------------------------------------- |
-| 2019年8月13日 | JTBC                                                | 《[Idol Room](../Page/Idol_Room.md "wikilink")》                                     | 全員  | 嘉賓 | 與[南優鉉](https://zh.wikipedia.org/wiki/南優鉉 "wikilink")（[INFINITE](../Page/INFINITE.md "wikilink")）共同出演 |
-| 2019年8月24日 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 《[My Little Television (第二季)](../Page/My_Little_Television_\(第二季\).md "wikilink")》 | 金蓮熙 | 嘉賓 |                                                                                                      |
+| 日期         | 播放平台                                                              | 節目名稱                                                                               | 成員  | 性質 | 備註                                                                                                   |
+| ---------- | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------- | --- | -- | ---------------------------------------------------------------------------------------------------- |
+| 2019年8月13日 | [JTBC](../Page/JTBC.md "wikilink")                                | 《[Idol Room](../Page/Idol_Room.md "wikilink")》                                     | 全員  | 嘉賓 | 與[南優鉉](https://zh.wikipedia.org/wiki/南優鉉 "wikilink")（[INFINITE](../Page/INFINITE.md "wikilink")）共同出演 |
+| 2019年8月24日 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")               | 《[My Little Television (第二季)](../Page/My_Little_Television_\(第二季\).md "wikilink")》 | 金蓮熙 | 嘉賓 |                                                                                                      |
+| 2019年8月27日 | [Arirang TV](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink") | 《[After School Club](../Page/After_School_Club.md "wikilink")》                     | 全員  | 嘉賓 |                                                                                                      |
+| 2019年8月31日 | [JTBC](../Page/JTBC.md "wikilink")2                               | 《[RUN.wav](../Page/RUN.wav.md "wikilink")》                                         | 全員  | 嘉賓 |                                                                                                      |
 
 ### 電台節目
 
@@ -306,3 +309,4 @@
 2.
 3.
 4.
+5.

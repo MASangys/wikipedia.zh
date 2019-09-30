@@ -9,6 +9,12 @@
 | 2019年6月26日 | (G)I-DLE《Uh-Oh》Showcase\[1\]                                                | 首尔Blue Square                                                          |    |
 | 2019年7月23日 | (G)I-DLE日本出道Showcase                                                        | [东京](../Page/东京.md "wikilink")[赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink") |    |
 
+## 粉絲見面會
+
+| 演出日期       | 演唱会名称                                                | 举行地点             | 备注 |
+| ---------- | ---------------------------------------------------- | ---------------- | -- |
+| 2019年9月22日 | (G)I-DLE 1ST FANMEETING \[Welcome to the NEVERLAND\] | YES 24 LIVE HALL |    |
+
 ## 参与演唱会
 
 | 2016年  |

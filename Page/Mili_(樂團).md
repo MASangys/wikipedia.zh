@@ -124,6 +124,7 @@ Mili当前由以下六名成员组成：\[4\]
 <th><p>版权号</p></th>
 <th><p><a href="../Page/Oricon.md" title="wikilink">Oricon</a>最高排名[37]</p></th>
 <th><p>官方网站</p></th>
+<th><p>曲目</p></th>
 </tr>
 </thead>
 <tbody>
@@ -133,25 +134,6 @@ Mili当前由以下六名成员组成：\[4\]
 <td><p>SNCL-00020~00021（特别版）<br />
 SNCL-00022~00023（限定版）</p></td>
 <td><p>7</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>曲目列表</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><ol>
-<li>Rightfully (动畫《<a href="https://zh.wikipedia.org/wiki/哥布林杀手" title="wikilink">哥布林杀手</a>》的开场主题曲)</li>
-<li>Mob Mentality</li>
-<li>Region</li>
-<li>Through Our Paths May Diverge</li>
-<li>Rightfully (instrumental)</li>
-</ol></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -168,6 +150,7 @@ SNCL-00022~00023（限定版）</p></td>
 <th><p>版权号</p></th>
 <th><p><a href="../Page/Oricon.md" title="wikilink">Oricon</a>最高排名[38]</p></th>
 <th><p>官方网站</p></th>
+<th><p>曲目</p></th>
 </tr>
 </thead>
 <tbody>
@@ -178,33 +161,6 @@ SNCL-00022~00023（限定版）</p></td>
 SIHT-1002（普通版）</p></td>
 <td><p>31</p></td>
 <td></td>
-</tr>
-<tr class="even">
-<td><p>专辑曲目</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><ol>
-<li>A Turtle's Heart</li>
-<li>Nine Point Eight</li>
-<li>Utopiosphere</li>
-<li>Friction</li>
-<li>Chocological</li>
-<li>YUBIKIRI-GENMAN</li>
-<li>Sacramentum:Unaccompanied Hymn for Torino</li>
-<li>Ephemeral</li>
-<li>Imagined Flight</li>
-<li>Fable</li>
-<li>Rosetta</li>
-<li>Maroma Samsa</li>
-<li>Witch's Invitation</li>
-</ol></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -212,38 +168,6 @@ SIHT-1002（普通版）</p></td>
 <td><p>Miracle Milk</p></td>
 <td><p>SIHT-1004（限定版）</p></td>
 <td><p>12</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>专辑曲目</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><ol>
-<li>Red Dahlia</li>
-<li>Ga1ahad and Scientific Witchery</li>
-<li>RTRT</li>
-<li>Unidentified Flavourful Object</li>
-<li>Meatball Submarine</li>
-<li>Vulnerability</li>
-<li>与我共鳴-NENTEN-</li>
-<li>Bathtub Mermaid</li>
-<li>Cerebrite</li>
-<li>Space Colony　</li>
-<li>world.execute(me);</li>
-<li>Utopiosphere -Platonism-</li>
-<li>Painful Death for the Lactose Intolerant</li>
-<li>YUBIKIRI-GENMAN -special edit-</li>
-<li>Sl0t</li>
-<li>Past the Stargazing Season　</li>
-<li>Colorful</li>
-<li><a href="https://zh.wikipedia.org/wiki/Komm,_süsser_Tod" title="wikilink">Komm, susser Tod</a>（动画电影《<a href="https://zh.wikipedia.org/wiki/新世纪福音战士剧场版：THE_END_OF_EVANGELION" title="wikilink">新世纪福音战士剧场版：THE END OF EVANGELION</a>》插入曲）</li>
-</ol></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -253,40 +177,6 @@ SIHT-1002（普通版）</p></td>
 <td><p>SNCL-00016~00017 (限定版)<br />
 SNCL-00018(通常版)</p></td>
 <td><p>4</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>专辑曲目</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><ol>
-<li>Boys in Kaleidosphere</li>
-<li>Camelia</li>
-<li>Summoning 101</li>
-<li>Vitamins feat. world's end girlfriend</li>
-<li>Lemonade</li>
-<li>奶水</li>
-<li>world.search(you);</li>
-<li>Mushrooms</li>
-<li>Gertrauda</li>
-<li>TOKYO NEON</li>
-<li>Extensions of You</li>
-<li>Mirror Mirror</li>
-<li>With a Billion Worldful of &lt;3 feat. DE DE MOUSE</li>
-<li>Every Other Ghost</li>
-<li>Fossil</li>
-<li>Rubber Human　</li>
-<li>Excαlibur</li>
-<li>Let the Maggots Sing</li>
-<li>Nine Point Eight -special edit-</li>
-<li><a href="https://zh.wikipedia.org/wiki/仍然活着" title="wikilink">Still Alive</a>（电子游戏《<a href="https://zh.wikipedia.org/wiki/传送门" title="wikilink">传送门</a>》片尾曲）</li>
-</ol></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -303,6 +193,7 @@ SNCL-00018(通常版)</p></td>
 <th><p>版权号</p></th>
 <th><p><a href="../Page/Oricon.md" title="wikilink">Oricon</a>最高排名[39]</p></th>
 <th><p>官方网站</p></th>
+<th><p>曲目</p></th>
 </tr>
 </thead>
 <tbody>
@@ -311,26 +202,6 @@ SNCL-00018(通常版)</p></td>
 <td><p>Hue</p></td>
 <td><p>SNCL-00001</p></td>
 <td><p>25</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>专辑曲目</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><ol>
-<li>Rubber Human</li>
-<li>world.search(you);</li>
-<li>DK</li>
-<li>幾年月</li>
-<li>Opium</li>
-<li>Excαlibur</li>
-</ol></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 </tr>

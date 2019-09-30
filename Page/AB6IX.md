@@ -84,7 +84,7 @@ AB6IX的打招呼方式為一邊講「Salute\!大家好\!我們是AB6IX\!」（�
 <li>發行日期 ：2019年5月22日</li>
 <li>語言：韓語</li>
 <li>類型：Ballad, Dance</li>
-<li>銷量：163,466+[20]</li>
+<li>銷量：165,163+[20]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -117,7 +117,7 @@ AB6IX的打招呼方式為一邊講「Salute\!大家好\!我們是AB6IX\!」（�
 <tr class="odd">
 <td><p>2019年5月11日-6月8日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/SBS" title="wikilink">SBS</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/叢林的法則" title="wikilink">叢林的法則</a></p></td>
+<td><p><a href="../Page/叢林的法則.md" title="wikilink">叢林的法則</a></p></td>
 <td><p>朴佑鎭</p></td>
 <td><p>共5集</p></td>
 </tr>

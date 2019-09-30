@@ -255,7 +255,7 @@ CIS SGL</small></p></td>
 5.  [2](https://www.armyrecognition.com/november_2017_global_defense_security_news_industry/slovakia_to_purchase_finnish_patria_amv_8x8_armoured_vehicles.html) Army recognition
 6.
 7.  [3](http://www.ts.fi/uutiset/kotimaa/386700/Patrian+kauppa+Sloveniaan+kutistui+100+ajoneuvolla) Turun Sanomat
-8.  [Engineering News 1.6.2007](http://engineeringnews.co.za/article.php?a_id=109524)
+8.
 9.  [DefenceWeb: *Denel orders Saab computers for Hoefyster*, 26.6.2009](http://www.defenceweb.co.za/index.php?option=com_content&task=view&id=2663&Itemid=362)
 10. [Sweden Receives First Batch of AMV 8×8 Wheeled Armored Vehicles](http://www.deagel.com/news/Sweden-Receives-First-Batch-of-AMV-8x8-Wheeled-Armored-Vehicles_n000011275.aspx) - Deagel.com, March 5, 2013
 11.

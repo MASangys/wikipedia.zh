@@ -24,7 +24,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/金東希.md" title="wikilink">金東希</a></p></td>
-<td><p>河玟</p></td>
+<td><p>夏旼</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/申承浩.md" title="wikilink">申承浩</a></p></td>
@@ -44,6 +44,7 @@
 | **演員**                                                                      | **角色** |
 | [鄭乾柱](../Page/鄭乾柱.md "wikilink")                                            | 體育老師   |
 | Ddotty                                                                      | 遊戲解說員  |
+| 崔元明                                                                         | 元明     |
 | [Jeno](../Page/Jeno.md "wikilink") ([NCT Dream](../Page/NCT.md "wikilink")) | 學生     |
 | [渽民](../Page/渽民.md "wikilink") ([NCT Dream](../Page/NCT.md "wikilink"))     | 學生     |
 

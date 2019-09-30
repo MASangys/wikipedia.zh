@@ -10,7 +10,7 @@
   - [超負荷](https://www.twitch.tv/sam1268)的Twitch
 
   -
-[Category:台灣電玩家](https://zh.wikipedia.org/wiki/Category:台灣電玩家 "wikilink") [Category:英雄聯盟玩家](https://zh.wikipedia.org/wiki/Category:英雄聯盟玩家 "wikilink") [Category:張姓](https://zh.wikipedia.org/wiki/Category:張姓 "wikilink")
+\[\[Category:台灣電玩家|Category:台灣電玩家\]\] \[\[Category:英雄聯盟玩家|Category:英雄聯盟玩家\]\] \[\[Category:張姓|Category:張姓\]\]
 
 1.  [「超負荷」加盟閃電狼！人氣實況主竟成「奴役」？](https://newtalk.tw/news/view/2017-07-16/92407)
 2.

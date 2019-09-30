@@ -259,6 +259,27 @@
 <td><p>22.3</p></td>
 <td><p>1</p></td>
 </tr>
+<tr class="even">
+<td><p>9月9日</p></td>
+<td></td>
+<td><p>King &amp; Prince</p></td>
+<td><p>39.8</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="odd">
+<td><p>9月16日</p></td>
+<td><p><a href="../Page/黎明來臨前無須逞強.md" title="wikilink">黎明來臨前無須逞強</a></p></td>
+<td><p>乃木坂46</p></td>
+<td><p>96.4</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="even">
+<td><p>9月23日</p></td>
+<td></td>
+<td><p><a href="../Page/嵐.md" title="wikilink">嵐</a></p></td>
+<td><p>66.7</p></td>
+<td><p>1</p></td>
+</tr>
 </tbody>
 </table>
 

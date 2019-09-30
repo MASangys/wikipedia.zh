@@ -1,4 +1,4 @@
-**Apple Watch Series 4**，是第四代的[Apple Watch](https://zh.wikipedia.org/wiki/Apple_Watch "wikilink")，在2018年9月12日发布。相较于前三代的机种，第四代新增了跌落感应和[心电图](../Page/心电图.md "wikilink")绘制功能，但心電圖功能僅限在美國註冊的APPLE ID適用。另外Apple watch series 4 銀色亦被重新命名為貝殼白色。\[1\]
+**Apple Watch Series 4**，是第四代的[Apple Watch](https://zh.wikipedia.org/wiki/Apple_Watch "wikilink")，在2018年9月12日发布。相较于前三代的机种，第四代新增了跌落感应和[心电图](../Page/心电图.md "wikilink")绘制功能。另外Apple watch series 4 銀色亦被重新命名為貝殼白色。\[1\]
 
 ## 发售时间
 

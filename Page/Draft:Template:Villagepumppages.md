@@ -26,7 +26,7 @@
 <div class="noprint plainlinksneverexpand" id="VillageDesc" style="font-size: 1em; padding: 2px; margin-left: 70px;">
 
 
-'''請注重[礼仪及遵守](https://zh.wikipedia.org/wiki/Wikipedia:礼仪 "wikilink")[方針與指引](https://zh.wikipedia.org/wiki/Wikipedia:方針與指引 "wikilink")，一般問題請至[互助客栈其他版或](https://zh.wikipedia.org/wiki/Wikipedia:互助客栈/其他 "wikilink")[知识问答提出](https://zh.wikipedia.org/wiki/Wikipedia:知识问答 "wikilink")，留言后请务必[签名](https://zh.wikipedia.org/wiki/Help:签名 "wikilink")（点击 [Signature_icon_april_2018.png](https://zh.wikipedia.org/wiki/File:Signature_icon_april_2018.png "fig:Signature_icon_april_2018.png") ）。 <inputbox> type=comment hidden=yes preload=Template:Sign editintro=Template:SignNotice default= buttonlabel=-{zh-hans:立即发表新议题; zh-hant:立即發表新議題;}- </inputbox>
+'''請注重[礼仪及遵守](https://zh.wikipedia.org/wiki/Wikipedia:礼仪 "wikilink")[方針與指引](https://zh.wikipedia.org/wiki/Wikipedia:方針與指引 "wikilink")，一般問題請至[互助客棧其他區或](https://zh.wikipedia.org/wiki/Wikipedia:互助客栈/其他 "wikilink")[知识问答提出](https://zh.wikipedia.org/wiki/Wikipedia:知识问答 "wikilink")，留言后请务必[签名](https://zh.wikipedia.org/wiki/Help:签名 "wikilink")（点击 [Signature_icon_april_2018.png](https://zh.wikipedia.org/wiki/File:Signature_icon_april_2018.png "fig:Signature_icon_april_2018.png") ）。 <inputbox> type=comment hidden=yes preload=Template:Sign editintro=Template:SignNotice default= buttonlabel=-{zh-hans:立即发表新议题; zh-hant:立即發表新議題;}- </inputbox>
 
 </div>
 
@@ -49,12 +49,6 @@
 </div>
 
 <div id="mw-customcollapsible-bulletin" class="mw-collapsible mw-collapsed plainlinks">
-
-<div style="text-align:right;font-size:85%;">
-
-\[ 編\] | [檔](https://zh.wikipedia.org/wiki/Wikipedia:公告欄/存檔 "wikilink") | [查](https://zh.wikipedia.org/wiki/Template:Bulletin "wikilink")
-
-</div>
 
 </div>
 

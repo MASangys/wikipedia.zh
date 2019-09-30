@@ -2,6 +2,12 @@
 
 ## 歷程
 
+**出道前**
+
+**• 2016年**：李彩璘參加[PRODUCE 101以MIDAS練習生參加](../Page/PRODUCE_101.md "wikilink") 最終以87淘汰
+
+**• 2018年**：金鍍我參加[PRODUCE 48](../Page/PRODUCE_48.md "wikilink") 最終以23淘汰
+
 **2018年：小分隊[FLAVOR](../Page/FLAVOR.md "wikilink")率先出道**
 
   - 11月15日，於FANATICS官方[Instagram](../Page/Instagram.md "wikilink")、[Twitter](../Page/Twitter.md "wikilink")及[Facebook](../Page/Facebook.md "wikilink")專頁公開小分隊[FLAVOR](../Page/FLAVOR.md "wikilink")專輯單曲及《MILKSHAKE》之照片。
@@ -23,12 +29,12 @@
 | ------------------------------- |
 | 藝名                              |
 | 漢字                              |
-| SIKA                            |
-| 彩璘                              |
 | 度伊                              |
+| **斯嘉**                          |
+| 彩璘                              |
 | [家儀](../Page/李家儀.md "wikilink") |
 | 允惠                              |
-| **鍍我**                          |
+| 鍍我                              |
 |                                 |
 
 ## 音樂作品
@@ -83,6 +89,7 @@
 <ul>
 <li>發行日期：2019年8月6日</li>
 <li>語言：韓語、國語</li>
+<li>銷量：2026+[5]</li>
 </ul></td>
 <td><ol>
 <li><strong>SUNDAY</strong></li>
@@ -133,3 +140,4 @@
 2.
 3.
 4.
+5.

@@ -31,10 +31,10 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2018年11月5日－2019年6月11日</p></td>
+<td><p>2018年11月5日－</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Naver" title="wikilink">Naver V App</a>、<a href="../Page/YouTube.md" title="wikilink">YouTube</a></p></td>
 <td><p>《ENOZI Cam》</p></td>
-<td><p>幕後花絮，第一季</p></td>
+<td><p>幕後花絮</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -89,7 +89,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2019年5月8日－</p></td>
+<td><p>2019年5月8日－9月11日</p></td>
 <td><p>YouTube</p></td>
 <td><p>《IZ*One Arcade》</p></td>
 <td><p>[7]</p></td>
@@ -107,6 +107,13 @@
 <td></td>
 <td><p>《IZ*ONE 日本2nd单曲发行纪念 特别脱口秀》</p></td>
 <td><p>[8]</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年9月17日</p></td>
+<td><p>M2</p></td>
+<td><p>《IZ*ONE StyleVlog in LA》</p></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>
@@ -348,6 +355,14 @@
 <td></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>9月3日</p></td>
+<td><p>JTBC</p></td>
+<td><p>《Idol Room》</p></td>
+<td><p>未放送影像特輯</p></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -400,11 +415,25 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p>2019年9月11日、18日、25日</p></td>
+<td><p>宮脇咲良、崔叡娜、张员瑛、李彩演、矢吹奈子、安兪真、金玟周[11]</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>2019年2月2日</p></td>
 <td></td>
 <td><p>JJANG! KOREA</p></td>
 <td><p>全員</p></td>
-<td><p>[11]</p></td>
+<td><p>[12]</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年9月14日</p></td>
+<td><p>[13]</p></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2019年2月7日</p></td>
@@ -473,3 +502,5 @@
 9.
 10.
 11.
+12.
+13.

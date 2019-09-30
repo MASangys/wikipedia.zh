@@ -6,9 +6,13 @@ X1是通過2019年5月3日至7月19日，[Mnet](../Page/Mnet.md "wikilink")選�
 
 7月22日，官方公佈8月27日正式出道，並在首爾高尺天空巨蛋舉辦出道SHOW-CON。8月2日，公佈出道專輯名稱《飛翔：QUANTUM LEAP》。
 
-8月28日，Hanteo銷量榜首日銷量結算為268,008張。\[1\]\[2\]
+8月28日，Hanteo銷量榜的首日銷量結算為268,008張。\[1\]\[2\]
 
-8月30日，Hanteo銷量榜第4天累計銷量為422,736張，刷新現時“新人團體出道專輯首週銷量”紀錄。\[3\]\[4\]\[5\]
+8月30日，Hanteo銷量榜的第4天累計銷量為422,736張，刷新當下“新人團體出道專輯首週銷量”紀錄。\[3\]\[4\]\[5\]
+
+9月1日，以出道曲《FLASH》在《[The Show](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")》浦項特輯公演現場，獲得初一位。
+
+9月2日，Hanteo銷量榜的第7天累計銷量為524,007張，刷新當下“新人出道專輯首週銷量”紀錄、首次超過50萬。以及當下“2019年首週銷量”第2名、“歷年來首週銷量”第7名。\[6\]\[7\]
 
 ## 收錄曲目
 
@@ -33,9 +37,9 @@ X1是通過2019年5月3日至7月19日，[Mnet](../Page/Mnet.md "wikilink")選�
 
 ### 銷售及認證
 
-| style="background: color:black |排行榜                         | 銷量 | 來源 |
-| ----------------------------------------------------------- | -- | -- |
-| [Gaon音樂榜](https://zh.wikipedia.org/wiki/Gaon音樂榜 "wikilink") |    |    |
+| style="background: color:black |排行榜                         | 銷量      | 來源    |
+| ----------------------------------------------------------- | ------- | ----- |
+| [Gaon音樂榜](https://zh.wikipedia.org/wiki/Gaon音樂榜 "wikilink") | 462,733 | \[8\] |
 
 ### 主要音樂節目榜單排名
 
@@ -47,13 +51,13 @@ X1是通過2019年5月3日至7月19日，[Mnet](../Page/Mnet.md "wikilink")選�
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>專輯</p></td>
+<td><p>歌曲</p></td>
 </tr>
 <tr class="even">
 <td><p>2019年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/飛翔：QUANTUM_LEAP.md" title="wikilink">飛翔：QUANTUM LEAP</a></p></td>
+<td><p>FLASH</p></td>
 </tr>
 <tr class="even">
 <td><ul>
@@ -75,10 +79,13 @@ X1是通過2019年5月3日至7月19日，[Mnet](../Page/Mnet.md "wikilink")選�
 
 ## 外部連結
 
-[Category:X1_(組合)](https://zh.wikipedia.org/wiki/Category:X1_\(組合\) "wikilink") [Category:2019年音樂專輯](https://zh.wikipedia.org/wiki/Category:2019年音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
+[Category:X1_(組合)](https://zh.wikipedia.org/wiki/Category:X1_\(組合\) "wikilink") [Category:2019年迷你專輯](https://zh.wikipedia.org/wiki/Category:2019年迷你專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:2019年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Gaon數位下載週榜冠軍作品 "wikilink") [Category:2019年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Gaon專輯週榜冠軍作品 "wikilink") [Category:2019年Gaon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Gaon專輯月榜冠軍作品 "wikilink")
 
 1.
 2.
 3.
 4.
 5.
+6.
+7.
+8.  [2019년 08월 Album Chart](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=08&hitYear=2019&termGbn=month)

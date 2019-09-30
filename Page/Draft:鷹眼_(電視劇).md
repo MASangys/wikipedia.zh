@@ -1,8 +1,12 @@
 《**鷹眼**》（）是一部[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[劇情](https://zh.wikipedia.org/wiki/劇情片 "wikilink")[超級英雄類型的](https://zh.wikipedia.org/wiki/超級英雄 "wikilink")[網路劇集](../Page/網路劇集.md "wikilink")，改編自[漫威漫畫](../Page/漫威漫畫.md "wikilink")的角色[「鷹眼」克林頓·巴頓和](../Page/鷹眼_\(漫畫\).md "wikilink")[凱特·畢夏普](../Page/鷹眼_\(凱特·畢夏普\).md "wikilink")。劇集屬於[漫威電影宇宙的系列作品之一](https://zh.wikipedia.org/wiki/漫威電影宇宙 "wikilink")，與[漫威電影宇宙系列電影處於同一](https://zh.wikipedia.org/wiki/漫威電影宇宙系列電影 "wikilink")[架空世界和](https://zh.wikipedia.org/wiki/架空世界 "wikilink")[共同世界](../Page/共同世界.md "wikilink")。劇集由[漫威影業製作](https://zh.wikipedia.org/wiki/漫威影業 "wikilink")，預定於線上[串流媒體平台](https://zh.wikipedia.org/wiki/串流媒體 "wikilink")[迪士尼+](../Page/迪士尼+.md "wikilink")首播。
 
-2019年4月，[傑瑞米·雷納確認在劇集中繼續出演在漫威電影宇宙系列電影中的角色克林頓](https://zh.wikipedia.org/wiki/傑瑞米·雷納 "wikilink")·巴頓。劇集計劃於2021年秋播出。
+[傑瑞米·雷納繼續出演在漫威電影宇宙系列電影中的角色](https://zh.wikipedia.org/wiki/傑瑞米·雷納 "wikilink")「鷹眼」克林頓·巴頓。2018年9月，漫威影業宣佈為[迪士尼旗下的在線流媒體平台](https://zh.wikipedia.org/wiki/華特迪士尼公司 "wikilink")[迪士尼+](../Page/迪士尼+.md "wikilink")開發數個限定劇集，以[漫威電影宇宙中的](https://zh.wikipedia.org/wiki/漫威電影宇宙 "wikilink")「二級核心」人物為主角，比如「鷹眼」克林頓·巴頓。2019年4月，劇集進入前期開發階段，傑瑞米·雷納有望出演。7月，該劇集正式確定製作。
+
+《鷹眼》計劃於2021年秋播出。
 
 ## 演員與角色
+
+[Jeremy_Renner_by_Gage_Skidmore.jpg](https://zh.wikipedia.org/wiki/File:Jeremy_Renner_by_Gage_Skidmore.jpg "fig:Jeremy_Renner_by_Gage_Skidmore.jpg")在2019年[聖地牙哥國際漫畫展](https://zh.wikipedia.org/wiki/聖地牙哥國際漫畫展 "wikilink")\]\]
 
   - [傑瑞米·雷納](https://zh.wikipedia.org/wiki/傑瑞米·雷納 "wikilink") 飾演 [克林頓·巴頓／鷹眼](../Page/鷹眼_\(漫畫\).md "wikilink")（）
 
@@ -11,13 +15,23 @@
   -
     箭術高超，前[復仇者組織和](../Page/復仇者_\(漫畫\).md "wikilink")[神盾局](../Page/神盾局.md "wikilink")成員\[1\]。
 
-## 開發
+## 製作
 
-2017年11月，迪士尼宣佈為其旗下即將在2019年底正式運行的在線流媒體平台[迪士尼+](../Page/迪士尼+.md "wikilink")開發漫威系列電視劇\[2\]。2018年9月，報道稱[漫威影業正在為該平台開發幾個限定劇集](https://zh.wikipedia.org/wiki/漫威影業 "wikilink")，以[漫威電影宇宙中的](https://zh.wikipedia.org/wiki/漫威電影宇宙 "wikilink")「二級核心」人物為主角，比如[洛基](../Page/洛基_\(漫威漫畫\).md "wikilink")、[幻視](../Page/幻視_\(漫畫\).md "wikilink")、[「緋紅女巫」汪達·馬克希莫夫](../Page/緋紅女巫.md "wikilink")、[「獵鷹」山姆·威爾遜和](https://zh.wikipedia.org/wiki/獵鷹_\(漫畫\) "wikilink")[「酷寒戰士」巴基·巴恩斯等](https://zh.wikipedia.org/wiki/巴奇_\(漫威漫畫\) "wikilink")\[3\]，因為漫威不太可能製作以他們為主角的個人電影。在限定劇集中將爭取啟用在電影中出演相應角色的演員\[4\]。2019年4月，漫威宣佈開發以[「鷹眼」克林頓·巴頓／鷹眼為主角的劇集](../Page/鷹眼_\(漫畫\).md "wikilink")，劇情將涉及[凱特·畢夏普](../Page/鷹眼_\(凱特·畢夏普\).md "wikilink")\[5\]。
+### 開發
+
+2017年11月，迪士尼宣佈為其旗下即將在2019年底正式運行的在線流媒體平台[迪士尼+](../Page/迪士尼+.md "wikilink")開發漫威系列電視劇\[2\]。2018年9月，報道稱[漫威影業正在為該平台開發幾個限定劇集](https://zh.wikipedia.org/wiki/漫威影業 "wikilink")，以[漫威電影宇宙中的](https://zh.wikipedia.org/wiki/漫威電影宇宙 "wikilink")「二級核心」人物為主角，比如[洛基](../Page/洛基_\(漫威漫畫\).md "wikilink")、[幻視](../Page/幻視_\(漫畫\).md "wikilink")、[「緋紅女巫」汪達·馬克希莫夫](../Page/緋紅女巫.md "wikilink")、[「獵鷹」山姆·威爾遜和](https://zh.wikipedia.org/wiki/獵鷹_\(漫畫\) "wikilink")[「酷寒戰士」巴基·巴恩斯等](https://zh.wikipedia.org/wiki/巴奇_\(漫威漫畫\) "wikilink")\[3\]，因為漫威不太可能製作以他們為主角的個人電影。在限定劇集中將爭取啟用在電影中出演相應角色的演員\[4\]。2019年4月，漫威宣佈開發以[「鷹眼」克林頓·巴頓為主角的劇集](../Page/鷹眼_\(漫畫\).md "wikilink")，劇情將涉及[凱特·畢夏普](../Page/鷹眼_\(凱特·畢夏普\).md "wikilink")\[5\]。2019年7月20日，漫威影業總裁[凱文·費吉](../Page/凱文·費吉.md "wikilink")在[聖地牙哥國際漫畫展上宣佈劇集正式確定製作](https://zh.wikipedia.org/wiki/聖地牙哥國際漫畫展 "wikilink")\[6\]。8月，編劇透露，漫威已經選定自己的一位朋友擔當劇集的[節目統籌](../Page/節目統籌.md "wikilink")\[7\]\[8\]。9月，喬納森·伊格拉（Jonathan Igla）正式被選定為節目統籌\[9\]。
+
+### 劇本
+
+2019年7月，漫威影業總裁凱文·費吉和主演傑瑞米·雷納在聖地牙哥國際漫畫展上表示，劇集講述「鷹眼」克林頓·巴頓將凱特·畢夏普訓練成為「沒有超能力的超級英雄」，並描繪克林頓·巴頓在2019年電影《[復仇者聯盟4：終局之戰](https://zh.wikipedia.org/wiki/復仇者聯盟4：終局之戰 "wikilink")》中成為義警[浪人期間發生的故事](../Page/浪人_\(漫威漫畫\).md "wikilink")\[10\]。
+
+### 選角
+
+2019年7月，隨著劇集正式宣佈製作，傑瑞米·雷納確認繼續出演在漫威電影宇宙系列電影中的角色「鷹眼」克林頓·巴頓\[11\]。9月，《[綜藝](../Page/綜藝_\(雜誌\).md "wikilink")》雜誌報道稱漫威有意選擇[海莉·史坦菲德出演凱特](https://zh.wikipedia.org/wiki/海莉·史坦菲德 "wikilink")·畢夏普\[12\]。
 
 ## 宣傳與發行
 
-2019年7月20日，漫威在[聖地牙哥國際漫畫展上表示](https://zh.wikipedia.org/wiki/聖地牙哥國際漫畫展 "wikilink")《鷹眼》將在2021年秋首播\[6\]。
+2019年7月20日，漫威在[聖地牙哥國際漫畫展上表示](https://zh.wikipedia.org/wiki/聖地牙哥國際漫畫展 "wikilink")《鷹眼》將於2021年秋在[迪士尼+](../Page/迪士尼+.md "wikilink")首播\[13\]，每週播出一集\[14\]。
 
 ## 資料來源
 
@@ -27,3 +41,11 @@
 4.
 5.
 6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.

@@ -38,7 +38,7 @@
 <ul>
 <li>發行日期：2019年7月22日</li>
 <li>語言：韓語</li>
-<li>專輯銷量: 364,589+[7]</li>
+<li>專輯銷量: 388,552+[7]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -125,4 +125,4 @@
 4.
 5.
 6.
-7.  [2019.07](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=07&hitYear=2019&termGbn=month)
+7.  [2019.08](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=08&hitYear=2019&termGbn=month)

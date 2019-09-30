@@ -139,19 +139,85 @@ nano-SIM 與 eSIM（其余版本）</p></td>
 发布时，iPhone XS/XS MAX的价格为：
 1 . XS：
 
-| 存储        | 美國     | 中国大陆   | 香港        | 台灣        | 新加坡     |
-| --------- | ------ | ------ | --------- | --------- | ------- |
-| **64GB**  | $999   | ¥6,735 | HK$8,599  | NT$35,900 | S$1,355 |
-| **256GB** | $1,149 | ¥7,747 | HK$9,899  | NT$41,500 | S$1,558 |
-| **512GB** | $1,349 | ¥9,095 | HK$11,599 | NT$48,900 | S$1,829 |
+<table>
+<thead>
+<tr class="header">
+<th><p>存储</p></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><strong>64GB</strong></p></td>
+<td><p>$999</p></td>
+<td><p>¥6,735</p></td>
+<td><p>HK$8,599</p></td>
+<td><p>NT$35,900</p></td>
+<td><p>S$1,355</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>256GB</strong></p></td>
+<td><p>$1,149</p></td>
+<td><p>¥7,747</p></td>
+<td><p>HK$9,899</p></td>
+<td><p>NT$41,500</p></td>
+<td><p>S$1,558</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>512GB</strong></p></td>
+<td><p>$1,349</p></td>
+<td><p>¥9,095</p></td>
+<td><p>HK$11,599</p></td>
+<td><p>NT$48,900</p></td>
+<td><p>S$1,829</p></td>
+</tr>
+</tbody>
+</table>
 
 2 . XS MAX：
 
-| 存储        | 美國     | 中国大陆   | 香港        | 台灣        | 新加坡     |
-| --------- | ------ | ------ | --------- | --------- | ------- |
-| **64GB**  | $1,099 | ¥7,410 | HK$9,499  | NT$39,900 | S$1,490 |
-| **256GB** | $1,249 | ¥8,421 | HK$10,799 | NT$45,500 | S$1,694 |
-| **512GB** | $1,449 | ¥9,769 | HK$12,499 | NT$52,900 | S$1,965 |
+<table>
+<thead>
+<tr class="header">
+<th><p>存储</p></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><strong>64GB</strong></p></td>
+<td><p>$1,099</p></td>
+<td><p>¥7,410</p></td>
+<td><p>HK$9,499</p></td>
+<td><p>NT$39,900</p></td>
+<td><p>S$1,490</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>256GB</strong></p></td>
+<td><p>$1,249</p></td>
+<td><p>¥8,421</p></td>
+<td><p>HK$10,799</p></td>
+<td><p>NT$45,500</p></td>
+<td><p>S$1,694</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>512GB</strong></p></td>
+<td><p>$1,449</p></td>
+<td><p>¥9,769</p></td>
+<td><p>HK$12,499</p></td>
+<td><p>NT$52,900</p></td>
+<td><p>S$1,965</p></td>
+</tr>
+</tbody>
+</table>
 
 ## 问题与争议
 
@@ -182,8 +248,7 @@ iPhone X/X Max 改进了自拍算法，会将用户自拍照片中的毛孔、�
 
 ## 參考文獻
 
-{{S-ttl | title = [iPhone X{{Smallcaps all](../Page/IPhone_XS.md "wikilink")
-\[\[IPhone_XR|iPhone X
+{{S-ttl | title = \[\[IPhone_XS|iPhone X
 
 [Category:IPhone](https://zh.wikipedia.org/wiki/Category:IPhone "wikilink") [Category:IOS](https://zh.wikipedia.org/wiki/Category:IOS "wikilink") [Category:全螢幕手機](https://zh.wikipedia.org/wiki/Category:全螢幕手機 "wikilink") [Category:2018年面世的手機](https://zh.wikipedia.org/wiki/Category:2018年面世的手機 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
 

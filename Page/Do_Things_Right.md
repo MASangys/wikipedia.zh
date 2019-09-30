@@ -6,7 +6,17 @@
 
 並透露2018年10月28日中午12時MV於[Youtube公開MV首播](https://zh.wikipedia.org/wiki/Youtube "wikilink")，晚上8時柯P也會再訪顏社，屆時將會開直播聊天\[5\]\[6\]\[7\]。
 
+| 歌名                                                                           | 執導                                          | 首播日期        |
+| ---------------------------------------------------------------------------- | ------------------------------------------- | ----------- |
+| [柯文哲 feat. 春艷【Do Things Right】](https://www.youtube.com/watch?v=gwxdh4JX9e4) | [柯文哲](../Page/柯文哲.md "wikilink")2018年行動競選總部 | 2018年10月27日 |
+
 ## 各方反應
+
+| 名稱                                                                                                                       | 團隊                                                                            | 首播日期        |
+| ------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------- | ----------- |
+| [柯文哲 feat. 春豔【Do Things Right】反應影片 Official Reaction Video](https://www.youtube.com/watch?v=uq3JjyoXl7Y)                 | [『鬧張派』Tingting23](https://zh.wikipedia.org/wiki/『鬧張派』Tingting23 "wikilink")   | 2018年10月28日 |
+| [各國老外試聽《柯文哲 Do Things Right 怪怪的》 Foreigners React to Mayor of Taipei's Rap](https://www.youtube.com/watch?v=ydha8Dk3Vs4) | [Stopkiddinstudio](https://zh.wikipedia.org/wiki/Stopkiddinstudio "wikilink") | 2018年10月30日 |
+| [韓國年輕人看柯文哲(feat. 春豔)【Do Things Right】反應會是??](https://www.youtube.com/watch?v=Q23Akd1Wjzg)                                | [韓國年輕人 요즘한국애들](https://zh.wikipedia.org/wiki/韓國年輕人_요즘한국애들 "wikilink")         | 2019年3月8日   |
 
 ## 參見
 

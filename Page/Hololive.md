@@ -6,13 +6,13 @@
 
 ## 在虚拟YouTuber界的发展
 
-2018年年5月2日至13日，hololive官方进行了出演者招募，并于5月9日至18日开展选拔，最终“hololive一期生”于6月1日正式出道。\[3\]\[4\]截至2019年8月，hololive在日本共举办了三期VTuber选拔活动，在中国也举办了两次。
+[Hololive_1st_character_design.jpg](https://zh.wikipedia.org/wiki/File:Hololive_1st_character_design.jpg "fig:Hololive_1st_character_design.jpg") 2018年年5月2日至13日，hololive官方进行了出演者招募，并于5月9日至18日开展选拔，最终“hololive一期生”于6月1日正式出道。\[3\]\[4\]截至2019年8月，hololive在日本共举办了三期VTuber选拔活动，在中国也举办了两次。
 
 2019年1月7日，COVER与上海宽娱签订合同，hololive旗下所有Vtuber进驻bilibili\[5\]\[6\]。至2019年8月，hololive旗下Vtuber频道在bilibili的总订阅量超过200万，远多于在Youtube的总订阅量\[7\]。同时，hololive也将出展bilibili主办的“BILIBILI WORLD 2019”。
 
 2019年7月18至22日，hololive的中国运营负责人石巍斌被曝出一系列负面消息，引起轰动，但最终圆满解决，详见下文的“争议”。
 
-2019年8月9日，hololive在[C96发布其第一首公式歌曲](../Page/Comic_Market.md "wikilink")“Shiny Smily Story”，作为“HOLOLIVE SUMMER '19”活动的一环，并公布试听PV。随后试听PV于8月15日19时（日本时间）在YouTube发布\[8\]，完整版也将择日发布。
+2019年8月9日，hololive在[C96发布其第一首公式歌曲](../Page/Comic_Market.md "wikilink")“Shiny Smily Story”，作为“HOLOLIVE SUMMER '19”活动的一环，并公布试听PV。随后试听PV于8月15日19时（日本时间）在YouTube发布\[8\]，完整版也于9月16日开售。
 
 ## 所属VTuber
 

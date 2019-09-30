@@ -28,7 +28,7 @@
 
 <!-- end list -->
 
-  - ***[跑車浪漫旅競速(GTS)](../Page/跑車浪漫旅系列.md "wikilink")***（365万）
+  - ***[跑車浪漫旅競速(GTS)](../Page/跑車浪漫旅系列.md "wikilink")***（800万）
 
 <!-- end list -->
 
@@ -196,7 +196,7 @@
 
 <!-- end list -->
 
-  - ***[蜘蛛俠 (2018年遊戲)](../Page/蜘蛛俠_\(2018年遊戲\).md "wikilink")***（1000万）
+  - ***[蜘蛛俠 (2018年遊戲)](../Page/蜘蛛俠_\(2018年遊戲\).md "wikilink")***（1320万）
 
 <!-- end list -->
 
@@ -229,6 +229,10 @@
 <!-- end list -->
 
   - [Final Fantasy XV](https://zh.wikipedia.org/wiki/Final_Fantasy_XV "wikilink")（510万）
+
+<!-- end list -->
+
+  - [Final Fantasy XII：黃道年代](https://zh.wikipedia.org/wiki/Final_Fantasy_XII "wikilink")（100万）
 
 <!-- end list -->
 

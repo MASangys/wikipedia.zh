@@ -1,4 +1,4 @@
-《**超越國境新概念語學堂——訓MAN正音**》（），簡稱《**訓MAN正音**》（；），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBN的教育](https://zh.wikipedia.org/wiki/每日廣播 "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，由[金聖柱主持](https://zh.wikipedia.org/wiki/金聖柱_\(主持人\) "wikilink")，[朴俊炯](../Page/朴俊炯.md "wikilink")（[g.o.d](https://zh.wikipedia.org/wiki/g.o.d "wikilink")）、[殷志源](https://zh.wikipedia.org/wiki/殷志源 "wikilink")（[水晶男孩](../Page/水晶男孩.md "wikilink")）、、[曹璐](../Page/曹璐.md "wikilink")、及固定出演\[1\]，自2019年4月27日至7月13日逢星期六[韓國時間晚上](https://zh.wikipedia.org/wiki/韓國時間 "wikilink")8時20分播出。每集均會邀請最少兩名嘉賓出演，出演者多是不論時長，曾於外國打工或留學，或有在國外出道的[韓國藝人](https://zh.wikipedia.org/wiki/韓國 "wikilink")。
+《**超越國境新概念語學堂——訓MAN正音**》（），簡稱《**訓MAN正音**》（；），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBN的教育](https://zh.wikipedia.org/wiki/每日廣播 "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，由[金聖柱主持](https://zh.wikipedia.org/wiki/金聖柱_\(主持人\) "wikilink")，[朴俊炯](../Page/朴俊炯.md "wikilink")（[g.o.d](https://zh.wikipedia.org/wiki/g.o.d "wikilink")）、[殷志源](https://zh.wikipedia.org/wiki/殷志源 "wikilink")（[水晶男孩](../Page/水晶男孩.md "wikilink")）、[黃帝聖](../Page/黃帝聖.md "wikilink")、[曹璐](../Page/曹璐.md "wikilink")、[奧斯丁·姜及](https://zh.wikipedia.org/wiki/奧斯丁·姜 "wikilink")固定出演\[1\]，自2019年4月27日至7月13日逢星期六[韓國時間晚上](https://zh.wikipedia.org/wiki/韓國時間 "wikilink")8時20分播出。每集均會邀請最少兩名嘉賓出演，出演者多是不論時長，曾於外國打工或留學，或有在國外出道的[韓國藝人](https://zh.wikipedia.org/wiki/韓國 "wikilink")。
 
 節目設定為通過多樣的環節簡單有趣地學習[韓語的新概念韓語學堂](https://zh.wikipedia.org/wiki/韓語 "wikilink")，節目初期並沒有特定的分組形式，自第七集起將固定成員及嘉賓分成兩班（[朴俊炯](../Page/朴俊炯.md "wikilink")班、[殷志源班](https://zh.wikipedia.org/wiki/殷志源 "wikilink")），於三個環節後分數較高的一班屬勝出，節目組將會以優勝班名義向世界各地教授韓語的教育團體捐出獎學金。
 
@@ -82,7 +82,7 @@
 <td><p>E01－E12</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Austin_Kang.md" title="wikilink">Austin Kang</a>（）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/奧斯丁·姜" title="wikilink">奧斯丁·姜</a>（）</p></td>
 <td></td>
 <td></td>
 <td><p><a href="../Page/廚師.md" title="wikilink">廚師</a>、<a href="../Page/模特兒.md" title="wikilink">模特兒</a></p></td>
@@ -90,13 +90,13 @@
 </tr>
 <tr class="odd">
 <td><p>（）</p></td>
-<td><p>2001年3月2日（18歲）</p></td>
+<td></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/學生" title="wikilink">學生</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>（）</p></td>
+<td><p><a href="../Page/黃帝聖.md" title="wikilink">黃帝聖</a>（）</p></td>
 <td></td>
 <td></td>
 <td><p><a href="../Page/喜劇演員.md" title="wikilink">喜劇演員</a></p></td>
@@ -189,8 +189,6 @@ E05－E12</p></td>
 </tr>
 </tbody>
 </table>
-
-## 註釋
 
 ## 參考資料
 

@@ -20,7 +20,7 @@
 
 ### 葬禮
 
-昂弗莱的公開葬禮於6月27日在佛羅里達州日出的BB＆T中心舉行，粉絲們可以在那裡表達敬意。他的私人葬禮則於6月28日舉行，著名[饶舌歌手](../Page/饒舌.md "wikilink")和[利尔·亚蒂](../Page/利尔·亚蒂.md "wikilink")以及歌手亦有出席。他被埋葬在[佛羅里達州](../Page/佛罗里达州.md "wikilink")[博卡拉頓](../Page/博卡拉頓.md "wikilink")的博卡拉頓紀念公園的一座陵墓中。
+昂弗莱的公開葬禮於6月27日在佛羅里達州日出的BB＆T中心舉行，粉絲們可以在那裡表達敬意。他的私人葬禮則於6月28日舉行，著名[饶舌歌手](../Page/饒舌.md "wikilink")[Lil Uzi Vert和](https://zh.wikipedia.org/wiki/Lil_Uzi_Vert "wikilink")[利尔·亚蒂](../Page/利尔·亚蒂.md "wikilink")以及歌手亦有出席。他被埋葬在[佛羅里達州](../Page/佛罗里达州.md "wikilink")[博卡拉頓](../Page/博卡拉頓.md "wikilink")的博卡拉頓紀念公園的一座陵墓中。
 
 ## 參考資料
 

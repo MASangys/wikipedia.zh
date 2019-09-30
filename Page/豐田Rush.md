@@ -16,9 +16,19 @@
 
 2018年10月18日起，Rush TRD正式量產并开始基于的平台，位于車身机箱上，跟其前辈相比，设计更加精简：具提升式的后车门而不是侧开式后门，并且不在后门上安装备用轮胎。这款车仅以一种轴距版本销售。
 
+## 第三代 (F800/F850; 2017–现在)
+
+### 发售市场
+
+#### 马来西亚
+
+##### Perodua Aruz
+
+**Perodua Aruz**于2019年1月15日被发布。 "Aruz"起源于马来语"*arus*"这个词, 即 "气流".\[5\] 原厂于2018年12月进行媒体预览而2019年1月3日起开放预定，发布时已有2,200个预购.\[6\]\[7\] Perodua Aruz有7人座版本，仅限4速自动变速箱于分为2个等级: 1.5 X和1.5 AV (Advance)。 2019年3月，Perodua已累计14,000预购和交付4000台Aruz\[8\] 。20196月起, 大略13,000Aruz已被交付，预购数量为25,000。\[9\]
+
 ## 各地市場
 
-豐田Rush目前分佈於[東南亞](https://zh.wikipedia.org/wiki/東南亞 "wikilink")、[非洲](../Page/非洲.md "wikilink")、[拉丁美洲](../Page/拉丁美洲.md "wikilink")、[中東地區](https://zh.wikipedia.org/wiki/中東地區 "wikilink")、[南亞及](https://zh.wikipedia.org/wiki/南亞 "wikilink")[東亞等地](https://zh.wikipedia.org/wiki/東亞 "wikilink")。\[5\]\[6\]\[7\]\[8\]\[9\]\[10\]\[11\]\[12\]
+豐田Rush目前分佈於[東南亞](https://zh.wikipedia.org/wiki/東南亞 "wikilink")、[非洲](../Page/非洲.md "wikilink")、[拉丁美洲](../Page/拉丁美洲.md "wikilink")、[中東地區](https://zh.wikipedia.org/wiki/中東地區 "wikilink")、[南亞及](https://zh.wikipedia.org/wiki/南亞 "wikilink")[東亞等地](https://zh.wikipedia.org/wiki/東亞 "wikilink")。\[10\]\[11\]\[12\]\[13\]\[14\]\[15\]\[16\]\[17\]
 
 ## 圖集
 
@@ -34,11 +44,16 @@
 2.
 3.
 4.
-5.
-6.  <https://www.wheels24.co.za/NewModels/toyota-debuts-stylish-rush-suv-heres-how-much-the-baby-fortuner-costs-in-sa-20180704>
-7.  <http://jamaica-gleaner.com/article/auto/20180708/toyota-jamaica-expecting-drivers-rush-new-vehicle>
-8.  <http://www.eluniversal.com.co/autos/toyota-lanza-en-cartagena-una-nueva-propuesta-rush-283728>
-9.  <https://indianautosblog.com/2018/08/india-waits-toyota-rush-heads-colombia-312875>
-10. <https://www.thenews.com.pk/print/361717-imc-unveils-new-toyota-rush>
-11. <https://www.pakwheels.com/blog/toyota-rush-2018-3-variants/>
-12. <https://www.researchsnipers.com/toyota-rush-launched-in-pakistan-with-three-variants/>
+5.  <https://paultan.org/2019/01/03/perodua-aruz-suv-explanation-behind-the-new-name/>
+6.
+7.  <https://paultan.org/2019/01/15/perodua-aruz-2200-bookings-received-since-jan-3/>
+8.
+9.
+10.
+11. <https://www.wheels24.co.za/NewModels/toyota-debuts-stylish-rush-suv-heres-how-much-the-baby-fortuner-costs-in-sa-20180704>
+12. <http://jamaica-gleaner.com/article/auto/20180708/toyota-jamaica-expecting-drivers-rush-new-vehicle>
+13. <http://www.eluniversal.com.co/autos/toyota-lanza-en-cartagena-una-nueva-propuesta-rush-283728>
+14. <https://indianautosblog.com/2018/08/india-waits-toyota-rush-heads-colombia-312875>
+15. <https://www.thenews.com.pk/print/361717-imc-unveils-new-toyota-rush>
+16. <https://www.pakwheels.com/blog/toyota-rush-2018-3-variants/>
+17. <https://www.researchsnipers.com/toyota-rush-launched-in-pakistan-with-three-variants/>

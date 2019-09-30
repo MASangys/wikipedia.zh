@@ -259,6 +259,27 @@
 <td><p>0.8</p></td>
 <td><p>[31]</p></td>
 </tr>
+<tr class="even">
+<td><p>9月9日</p></td>
+<td></td>
+<td><p><a href="../Page/YORUSHIKA.md" title="wikilink">YORUSHIKA</a></p></td>
+<td><p>0.8</p></td>
+<td><p>[32]</p></td>
+</tr>
+<tr class="odd">
+<td><p>9月16日</p></td>
+<td><p><a href="../Page/黎明來臨前無須逞強.md" title="wikilink">黎明來臨前無須逞強 (Special Edition)</a></p></td>
+<td><p>乃木坂46</p></td>
+<td><p>0.2</p></td>
+<td><p>[33]</p></td>
+</tr>
+<tr class="even">
+<td><p>9月23日</p></td>
+<td><p>SHADOWBRINGERS: FINAL FANTASY XIV Original Soundtrack</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/祖堅正慶" title="wikilink">祖堅正慶</a></p></td>
+<td><p>0.3</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -302,3 +323,5 @@
 29. [RADWIMPS、デジタルSg\&Alが4週連続同時1位【オリコンランキング】](https://www.oricon.co.jp/news/2142255/full/)
 30. [RADWIMPS『天気の子』5週連続1位 連続獲得週数『グレイテスト・ショーマン』に次ぐ歴代2位タイ【オリコンランキング】](https://www.oricon.co.jp/news/2142697/full/)
 31. [桜井和寿とGAKU-MCによるウカスカジー、初のデジタルランキング1位【オリコンランキング】](https://www.oricon.co.jp/news/2143215/full/)
+32. [ヨルシカ、自身初のデジタルランキング1位【オリコンランキング】](https://www.oricon.co.jp/news/2143681/full/)
+33. [乃木坂46、通算2作目の合算シングル1位【オリコンランキング】](https://www.oricon.co.jp/news/2144169/full/)

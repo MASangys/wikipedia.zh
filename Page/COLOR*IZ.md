@@ -1,4 +1,4 @@
-《**COLOR\*IZ**》是[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[IZ\*ONE](../Page/IZ*ONE.md "wikilink")作為[韓國出道作品的首張迷你專輯](https://zh.wikipedia.org/wiki/韓國 "wikilink")，由[Off The Record娛樂製作](https://zh.wikipedia.org/wiki/Off_The_Record娛樂 "wikilink")，發行，於2018年10月29日推出，主打歌曲為〈La Vie en Rose〉。
+《**COLOR\*IZ**》是[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[IZ\*ONE](../Page/IZ*ONE.md "wikilink")作為[韓國出道作品的首張迷你專輯](https://zh.wikipedia.org/wiki/韓國 "wikilink")，由[Off The Record娛樂製作](https://zh.wikipedia.org/wiki/Off_The_Record娛樂 "wikilink")，[Stone Music娛樂發行](https://zh.wikipedia.org/wiki/Stone_Music娛樂 "wikilink")，於2018年10月29日推出，主打歌曲為〈La Vie en Rose〉。
 
 ## 簡介
 
@@ -195,24 +195,9 @@
 
 ## 發行歷史
 
-<table>
-<thead>
-<tr class="header">
-<th><p>發行地區</p></th>
-<th><p>發行日期</p></th>
-<th><p>發行方式</p></th>
-<th><p>唱片公司</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>南韓</p></td>
-<td><p>2018年10月29日</p></td>
-<td><p><a href="../Page/CD.md" title="wikilink">CD</a>、<a href="../Page/數位音樂下載.md" title="wikilink">數位音樂下載</a>、KIHNO智能專輯</p></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| 發行地區 | 發行日期        | 發行方式                                                                            | 唱片公司                                                                    |
+| ---- | ----------- | ------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| 南韓   | 2018年10月29日 | [CD](../Page/CD.md "wikilink")、[數位音樂下載](../Page/數位音樂下載.md "wikilink")、KIHNO智能專輯 | [Stone Music娛樂](https://zh.wikipedia.org/wiki/Stone_Music娛樂 "wikilink") |
 
 ## 備註
 

@@ -47,6 +47,28 @@
 </tbody>
 </table>
 
+### 數位單曲
+
+<table>
+<tbody>
+<tr class="odd">
+<td></td>
+<td><p>內容</p></td>
+<td><p>曲目</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>1st</strong></p></td>
+<td><p>《<strong>Imaginary You</strong>》</p>
+<ul>
+<li>發行日期：2019年9月10日</li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
+<li>銷量：</li>
+</ul></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ## 活動經歷
 
 ### 出道前
@@ -58,6 +80,8 @@
 2019年4月24日，以單曲《NOM》正式出道，在音樂節目進行舞台表演。
 
 2019年7月22日，推出第二首單曲《Blockbuster》。
+
+2019年9月10日，推出數位單曲《Imaginary You》。
 
 ## 參考文獻
 

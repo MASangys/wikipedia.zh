@@ -101,7 +101,7 @@
 <td><p>KU集團會長，宋佳京婆婆。</p></td>
 </tr>
 <tr class="odd">
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/卞宇錫" title="wikilink">卞宇錫</a></p></td>
 <td><p>韓敏圭</p></td>
 <td><p>當紅明星</p></td>
 </tr>
@@ -118,12 +118,12 @@
 <tr class="even">
 <td><p><a href="../Page/李泰利.md" title="wikilink">李泰利</a></p></td>
 <td><p>高道里/五隻鳥</p></td>
-<td><p>網路作家。(客串)</p></td>
+<td><p>網路作家。(第7集客串)</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/李棟旭.md" title="wikilink">李棟旭</a></p></td>
 <td></td>
-<td><p>裴塔美的前男友(客串)</p></td>
+<td><p>裴塔美的前男友(第7集客串)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/李多寅_(演員).md" title="wikilink">李多寅</a></p></td>

@@ -192,6 +192,18 @@ University Secrets</p></td>
 8月6日暫停播映</p></td>
 <td style="text-align: center;"></td>
 </tr>
+<tr class="odd">
+<td style="text-align: center;"><p>15/10-<br />
+17/12</p></td>
+<td style="text-align: center;"><p><br />
+Professional Agent</p></td>
+<td style="text-align: center;"><p>10</p></td>
+<td style="text-align: center;"><div style="text-align: center;">
+<p><span style="font-size:larger;"><strong>重播節目：</strong><a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">2017年ViuTV節目</a></span></p>
+</div></td>
+<td style="text-align: center;"><p><strong>資訊節目</strong></p></td>
+<td style="text-align: center;"></td>
+</tr>
 </tbody>
 </table>
 
@@ -257,6 +269,19 @@ Home</p></td>
 </div></td>
 <td style="text-align: center;"><p><strong>文化節目</strong><br />
 外購節目（<a href="../Page/新加坡.md" title="wikilink">新加坡</a><a href="https://zh.wikipedia.org/wiki/媒體發展管理局" title="wikilink">媒體發展管理局</a>）</p></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>16/10-<br />
+01/01<br />
+<a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2020年)" title="wikilink">續20年</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/文化交叉" title="wikilink">文化交叉</a><br />
+Culture X</p></td>
+<td style="text-align: center;"><p>12</p></td>
+<td style="text-align: center;"><div style="text-align: center;">
+<p><span style="font-size:larger;"><strong>重播節目：</strong><a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">2017年ViuTV節目</a></span></p>
+</div></td>
+<td style="text-align: center;"><p><strong>文化節目</strong></p></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>
@@ -376,6 +401,19 @@ Local Gingers</p></td>
 </div></td>
 <td style="text-align: center;"><p><strong>音樂節目</strong><br />
 4月5日、19日及6月14日暫停播映</p></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>18/10-<br />
+10/01<br />
+<a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2020年)" title="wikilink">續20年</a></p></td>
+<td style="text-align: center;"><p><br />
+Chi Chung's Clouds</p></td>
+<td style="text-align: center;"><p>13</p></td>
+<td style="text-align: center;"><div style="text-align: center;">
+<p><span style="font-size:larger;"><strong>重播節目</strong>：<a href="../Page/ViuTV電視節目列表_(2018年).md" title="wikilink">2018年ViuTV節目</a></span></p>
+</div></td>
+<td style="text-align: center;"><p><strong>文化節目</strong></p></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>
@@ -724,7 +762,7 @@ Good Night Show - Raise Our Voice</p></td>
 
 ### 22:30時段
 
-[香港時間](../Page/香港時間.md "wikilink")逢星期一至五22:30-23:00播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期一至五22:30-23:00播出；9月30日起改為22:30-23:30播出
 
 <table style="width:240%;">
 <colgroup>
@@ -866,13 +904,23 @@ Mastermind</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>09/09-<br />
-</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/旅行唔只食買玩" title="wikilink">旅行唔只食買玩</a><br />
+27/09</p></td>
+<td style="text-align: center;"><p><br />
 Tokyo Quest</p></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/蘇麗珊.md" title="wikilink">蘇麗珊</a>、<a href="https://zh.wikipedia.org/wiki/林小美" title="wikilink">林小美</a></p></td>
+<td style="text-align: center;"><p>15</p></td>
+<td style="text-align: center;"><p>主持：<a href="../Page/蘇麗珊.md" title="wikilink">蘇麗珊</a>、</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p>|<strong>旅遊節目</strong></p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>30/09-<br />
+</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Good_Night_Show_全民造星" title="wikilink">全民造星II</a><br />
+King Maker II</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"><p>主持：<a href="../Page/許博文.md" title="wikilink">強尼</a></p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"><p><strong>真人秀</strong></p></td>
 </tr>
 </tbody>
 </table>
@@ -958,7 +1006,7 @@ Tagger 2</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>12/08-<br />
 30/08</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/臺灣文西_Only_You" title="wikilink">臺灣文西 Only You</a><br />
+<td style="text-align: center;"><p><br />
 Taiwan Meimei</p></td>
 <td style="text-align: center;"><p>15</p></td>
 <td style="text-align: center;"><p>主持：<a href="../Page/羅家英.md" title="wikilink">羅家英</a>、<a href="https://zh.wikipedia.org/wiki/呂爵安" title="wikilink">呂爵安</a></p></td>
@@ -967,10 +1015,10 @@ Taiwan Meimei</p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>02/09-<br />
-</p></td>
+27/09</p></td>
 <td style="text-align: center;"><p><a href="../Page/花姐ERROR遊.md" title="wikilink">花姐ERROR遊 2</a><br />
 ERROR Crazy Trip 2</p></td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><p>20</p></td>
 <td style="text-align: center;"><p>主持：、<a href="../Page/ERROR_(香港男子組合).md" title="wikilink">ERROR</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>旅遊節目</strong></p></td>
@@ -1336,7 +1384,7 @@ Girls' Talk</p></td>
 
 #### 星期五
 
-[香港時間](../Page/香港時間.md "wikilink")逢星期六<small>（星期五深夜）</small>00:30-01:00播出；5月18日起改為01:00-02:30播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期六<small>（星期五深夜）</small>00:30-01:00播出；5月18日起改為01:00-02:30播出；10月5日起改為01:00-02:00播出
 
 <table style="width:240%;">
 <colgroup>
@@ -1383,6 +1431,18 @@ Crime Scene Season 1</p></td>
 外購節目（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="../Page/JTBC.md" title="wikilink">JTBC</a>），原名《》</p></td>
 <td style="text-align: center;"></td>
 </tr>
+<tr class="odd">
+<td style="text-align: center;"><p>05/10-<br />
+21/12</p></td>
+<td style="text-align: center;"><p><a href="../Page/真PK_Trip.md" title="wikilink">真PK Trip</a><br />
+PK Trip</p></td>
+<td style="text-align: center;"><p>12</p></td>
+<td style="text-align: center;"><div style="text-align: center;">
+<p><span style="font-size:larger;"><strong>重播節目</strong>：<a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">2017年ViuTV節目</a></span></p>
+</div></td>
+<td style="text-align: center;"><p><strong>旅遊/真人秀</strong></p></td>
+<td style="text-align: center;"></td>
+</tr>
 </tbody>
 </table>
 
@@ -1414,11 +1474,11 @@ Crime Scene Season 1</p></td>
 <tbody>
 <tr class="odd">
 <td style="text-align: center;"><p>24/08-<br />
-</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/北海道是咁Look" title="wikilink">北海道是咁Look</a><br />
+29/09</p></td>
+<td style="text-align: center;"><p><br />
 Cycling Around Hokkaido</p></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"><p>主持：</p></td>
+<td style="text-align: center;"><p>12</p></td>
+<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/黃可盈" title="wikilink">黃可盈</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>旅遊節目</strong></p></td>
 </tr>
@@ -1689,6 +1749,18 @@ Time Traveler</p></td>
 外判節目（Workshop 404）</p></td>
 <td style="text-align: center;"></td>
 </tr>
+<tr class="even">
+<td style="text-align: center;"><p>05/10-<br />
+07/12</p></td>
+<td style="text-align: center;"><p><br />
+Sudden Tour</p></td>
+<td style="text-align: center;"><p>10</p></td>
+<td style="text-align: center;"><div style="text-align: center;">
+<p><span style="font-size:larger;"><strong>重播節目</strong>：<a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">2017年ViuTV節目</a></span></p>
+</div></td>
+<td style="text-align: center;"><p><strong>旅遊/真人秀節目</strong></p></td>
+<td style="text-align: center;"></td>
+</tr>
 </tbody>
 </table>
 
@@ -1755,6 +1827,19 @@ Challenge 1996</p></td>
 外判節目（505Media Ltd）</p></td>
 <td style="text-align: center;"></td>
 </tr>
+<tr class="even">
+<td style="text-align: center;"><p>05/10-<br />
+21/12</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/挑戰1997" title="wikilink">挑戰1997</a><br />
+Challenge 1997</p></td>
+<td style="text-align: center;"><p>12</p></td>
+<td style="text-align: center;"><div style="text-align: center;">
+<p><span style="font-size:larger;"><strong>重播節目</strong>：<a href="../Page/ViuTV電視節目列表_(2018年).md" title="wikilink">2018年ViuTV節目</a></span></p>
+</div></td>
+<td style="text-align: center;"><p><strong>真人秀</strong><br />
+外判節目（505Media Ltd）</p></td>
+<td style="text-align: center;"></td>
+</tr>
 </tbody>
 </table>
 
@@ -1812,6 +1897,19 @@ Thailand 72 Hours</p></td>
 26/10</p></td>
 <td style="text-align: center;"><p><a href="../Page/歐遊全細界.md" title="wikilink">歐遊全細界</a><br />
 Le Petit Paradis</p></td>
+<td style="text-align: center;"><p>14</p></td>
+<td style="text-align: center;"><div style="text-align: center;">
+<p><span style="font-size:larger;"><strong>重播節目：</strong><a href="../Page/ViuTV電視節目列表_(2016年).md" title="wikilink">2016年ViuTV節目</a></span></p>
+</div></td>
+<td style="text-align: center;"><p><strong>旅遊節目</strong></p></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>02/11-<br />
+01/02<br />
+<a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2020年)" title="wikilink">續20年</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/404不存在的國落.md" title="wikilink">404不存在的國落</a><br />
+404 Countries Not Found</p></td>
 <td style="text-align: center;"><p>14</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
 <p><span style="font-size:larger;"><strong>重播節目：</strong><a href="../Page/ViuTV電視節目列表_(2016年).md" title="wikilink">2016年ViuTV節目</a></span></p>
@@ -1952,7 +2050,7 @@ Put Your Hands Up</p></td>
 <td style="text-align: center;"><p><br />
 Fashion Interns</p></td>
 <td style="text-align: center;"><p>5<br />
-()</p></td>
+(26)</p></td>
 <td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/Sarona_Lo" title="wikilink">Sarona Lo</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>文化節目</strong></p></td>
@@ -1968,6 +2066,16 @@ All About Love</p></td>
 </div></td>
 <td style="text-align: center;"><p><strong>資訊節目</strong></p></td>
 <td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>26/10-<br />
+</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/老點你" title="wikilink">老點你</a><br />
+</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"><p>主持：</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"><p><strong>文化節目</strong></p></td>
 </tr>
 </tbody>
 </table>
@@ -2094,13 +2202,13 @@ Knowing Chinese Medicine</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>24/08-<br />
 </p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/餸情" title="wikilink">餸情</a><br />
+<td style="text-align: center;"><p><br />
 The Gifts Of Cooking</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p>主持：</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>飲食節目</strong><br />
-8月31日暫停播映</p></td>
+8月31日及9月28日暫停播映</p></td>
 </tr>
 </tbody>
 </table>
@@ -2140,6 +2248,15 @@ Insider Scoop!</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>資訊節目</strong><br />
 外購節目（<a href="../Page/日本.md" title="wikilink">日本</a><a href="../Page/朝日放送.md" title="wikilink">朝日放送</a>），原名《》，1月26日暫停播映</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>21/09</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/MIRROR" title="wikilink">姜濤 x 陳卓賢《戀愛要在生日前》音樂電影</a><br />
+Keung To x Ian Chan Music Movie</p></td>
+<td style="text-align: center;"><p>1</p></td>
+<td style="text-align: center;"><p>演出：<a href="../Page/姜濤.md" title="wikilink">姜濤</a>、<a href="https://zh.wikipedia.org/wiki/陳卓賢" title="wikilink">陳卓賢</a></p></td>
+<td style="text-align: center;"><p><a href="https://viu.tv/encore/keung-to-x-ian-chan-music-movie">網頁</a></p></td>
+<td style="text-align: center;"><p><strong>音樂/微電影節目</strong></p></td>
 </tr>
 </tbody>
 </table>
@@ -2186,7 +2303,7 @@ Why did you come to Japan? S2</p></td>
 
 ### 22:30/23:00時段
 
-[香港時間](../Page/香港時間.md "wikilink")逢星期六22:30-23:00播出；5月11日起改為23:00-00:00播出；8月3日起改為22:30-23:30播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期六22:30-23:00播出；5月11日起改為23:00-00:00播出
 
 <table style="width:240%;">
 <colgroup>
@@ -2240,7 +2357,7 @@ Tokuson: Life Hacks!</p></td>
 <td style="text-align: center;"><p>主持：<a href="../Page/後藤輝基.md" title="wikilink">後藤輝基</a>、（日語原聲）</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>資訊節目</strong><br />
-外購節目（<a href="../Page/日本.md" title="wikilink">日本</a><a href="../Page/日本電視台.md" title="wikilink">NTV</a>），原名《》，8月3日改為22:45-23:45播出，8月17日及31日暫停播映，8月24日、9月14日至28日改為23:00-00:00播出，9月7日改為23:15-00:15播出</p></td>
+外購節目（<a href="../Page/日本.md" title="wikilink">日本</a><a href="../Page/日本電視台.md" title="wikilink">NTV</a>），原名《》，8月3日及11月2日改為22:45-23:45播出，8月10日改為22:30-23:30播出，8月17日、31日、9月21日、28日及10月19日暫停播映，9月7日及10月12日改為23:15-00:15播出</p></td>
 </tr>
 </tbody>
 </table>
@@ -2366,7 +2483,7 @@ E-sport</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>18/08-<br />
-24/11</p></td>
+01/12</p></td>
 <td style="text-align: center;"><p><br />
 Chubby Honey</p></td>
 <td style="text-align: center;"><p>13</p></td>
@@ -2374,7 +2491,7 @@ Chubby Honey</p></td>
 <p><span style="font-size:larger;"><strong>重播節目：</strong><a href="../Page/ViuTV電視節目列表_(2018年).md" title="wikilink">2018年ViuTV節目</a></span></p>
 </div></td>
 <td style="text-align: center;"><p><strong>真人秀</strong><br />
-8月18日及25日改為00:30-01:00播出，9月1日及8日暫停播映</p></td>
+8月18日及25日改為00:30-01:00播出，9月1日、8日及10月13日暫停播映，11月2日改為00:45-01:15播出</p></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>
@@ -2511,16 +2628,28 @@ Elderly Volunteers</p></td>
 <td style="text-align: center;"><p>20/01-<br />
 10/02,<br />
 21/04-<br />
-</p></td>
+27/10</p></td>
 <td style="text-align: center;"><p><br />
 Dream Job</p></td>
-<td style="text-align: center;"><p><br />
-(30)</p></td>
+<td style="text-align: center;"><p>30</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
 <p><span style="font-size:larger;"><strong>重播節目</strong>：<a href="../Page/ViuTV電視節目列表_(2016年).md" title="wikilink">2016年ViuTV節目</a></span></p>
 </div></td>
 <td style="text-align: center;"><p><strong>資訊節目</strong><br />
 2月3日及5月26日暫停播映</p></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>03/11-<br />
+26/01<br />
+<a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2020年)" title="wikilink">續20年</a></p></td>
+<td style="text-align: center;"><p><br />
+Pets</p></td>
+<td style="text-align: center;"><p>13</p></td>
+<td style="text-align: center;"><div style="text-align: center;">
+<p><span style="font-size:larger;"><strong>重播節目</strong>：<a href="../Page/ViuTV電視節目列表_(2016年).md" title="wikilink">2016年ViuTV節目</a></span></p>
+</div></td>
+<td style="text-align: center;"><p><strong>寵物資訊節目</strong></p></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>
@@ -2606,7 +2735,7 @@ Taiwan Minsu 2</p></td>
 <tbody>
 <tr class="odd">
 <td style="text-align: center;"><p>21/07-<br />
-29/09</p></td>
+13/10</p></td>
 <td style="text-align: center;"><p><a href="../Page/世界盃稀客.md" title="wikilink">世界盃稀客</a><br />
 The New Challengers</p></td>
 <td style="text-align: center;"><p>10</p></td>
@@ -2614,7 +2743,78 @@ The New Challengers</p></td>
 <p><span style="font-size:larger;"><strong>重播節目</strong>：<a href="../Page/ViuTV電視節目列表_(2018年).md" title="wikilink">2018年ViuTV節目</a></span></p>
 </div></td>
 <td style="text-align: center;"><p><strong>體育節目</strong><br />
-7月28日暫停播映</p></td>
+7月28日、9月15日及29日暫停播映</p></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>15/09</p></td>
+<td style="text-align: center;"><p><a href="../Page/Go!_Japan_TV_日本大放送.md" title="wikilink">Go! Japan TV 日本大放送</a>（第五輯）<br />
+Go! Japan TV (V)</p></td>
+<td style="text-align: center;"><p>1</p></td>
+<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/理惠" title="wikilink">理惠</a>、<a href="https://zh.wikipedia.org/wiki/邱忠業" title="wikilink">邱忠業</a>（日語原聲）；<a href="../Page/石梓晴.md" title="wikilink">石梓晴</a>、<a href="../Page/李家傑_(配音員).md" title="wikilink">李家傑</a>（粵語配音）</p></td>
+<td style="text-align: center;"><p><a href="http://viu.tv/encore/go-japan-tv">網頁</a></p></td>
+<td style="text-align: center;"><p><strong>旅遊/文化節目</strong><br />
+外購節目（<a href="../Page/香港.md" title="wikilink">香港</a>R by R Production）</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>29/09</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/大分·旅遊時光" title="wikilink">大分·旅遊時光</a><br />
+</p></td>
+<td style="text-align: center;"><p>1</p></td>
+<td style="text-align: center;"><p>主持：<a href="../Page/和泉素行.md" title="wikilink">和泉素行</a></p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"><p><strong>旅遊節目</strong><br />
+外購節目（<a href="../Page/日本.md" title="wikilink">日本</a><a href="https://zh.wikipedia.org/wiki/大分朝日放送" title="wikilink">大分朝日放送</a>）</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>20/10-<br />
+29/12</p></td>
+<td style="text-align: center;"><p><a href="../Page/阿美利堅無肉飯堂.md" title="wikilink">阿美利堅無肉飯堂</a><br />
+Go Green USA</p></td>
+<td style="text-align: center;"><p>11</p></td>
+<td style="text-align: center;"><div style="text-align: center;">
+<p><span style="font-size:larger;"><strong>重播節目</strong>：<a href="../Page/ViuTV電視節目列表_(2016年).md" title="wikilink">2016年ViuTV節目</a></span></p>
+</div></td>
+<td style="text-align: center;"><p><strong>飲食節目</strong></p></td>
+<td style="text-align: center;"></td>
+</tr>
+</tbody>
+</table>
+
+### 12:30時段
+
+[香港時間](../Page/香港時間.md "wikilink")逢星期日12:30-13:30播出
+
+<table style="width:240%;">
+<colgroup>
+<col style="width: 70%" />
+<col style="width: 21%" />
+<col style="width: 40%" />
+<col style="width: 28%" />
+<col style="width: 60%" />
+<col style="width: 20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: center;"><p>播放日期</p></th>
+<th style="text-align: center;"><p>電視節目名稱</p></th>
+<th style="text-align: center;"><p>集數</p></th>
+<th style="text-align: center;"><p>主持/演出/旁白</p></th>
+<th style="text-align: center;"><p>網頁</p></th>
+<th style="text-align: center;"><p>備-{注}-</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"><p>20/10-<br />
+15/12</p></td>
+<td style="text-align: center;"><p><a href="../Page/回憶備份.md" title="wikilink">回憶備份</a><br />
+Backup Memory</p></td>
+<td style="text-align: center;"><p>9</p></td>
+<td style="text-align: center;"><div style="text-align: center;">
+<p><span style="font-size:larger;"><strong>重播節目</strong>：<a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">2017年ViuTV節目</a></span></p>
+</div></td>
+<td style="text-align: center;"><p><strong>真人秀</strong></p></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>
@@ -2738,14 +2938,28 @@ Marco Fu And Friends</p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>02/06-<br />
-</p></td>
+20/10</p></td>
 <td style="text-align: center;"><p><br />
 Fashion Interns</p></td>
-<td style="text-align: center;"><p><br />
-()</p></td>
+<td style="text-align: center;"><p>21<br />
+(26)</p></td>
 <td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/Sarona_Lo" title="wikilink">Sarona Lo</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>文化節目</strong></p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>27/10-<br />
+12/01<br />
+<a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2020年)" title="wikilink">續20年</a></p></td>
+<td style="text-align: center;"><p><br />
+Station Stories</p></td>
+<td style="text-align: center;"><p>12<br />
+(15)</p></td>
+<td style="text-align: center;"><div style="text-align: center;">
+<p><span style="font-size:larger;"><strong>重播節目</strong>：<a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">2017年ViuTV節目</a></span></p>
+</div></td>
+<td style="text-align: center;"><p><strong>旅遊節目</strong></p></td>
+<td style="text-align: center;"></td>
 </tr>
 </tbody>
 </table>
@@ -2798,6 +3012,30 @@ Business Run</p></td>
 </div></td>
 <td style="text-align: center;"><p><strong>真人秀</strong></p></td>
 <td style="text-align: center;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>06/10-<br />
+20/10</p></td>
+<td style="text-align: center;"><p><br />
+Station Stories</p></td>
+<td style="text-align: center;"><p>3<br />
+(15)</p></td>
+<td style="text-align: center;"><div style="text-align: center;">
+<p><span style="font-size:larger;"><strong>重播節目</strong>：<a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">2017年ViuTV節目</a></span></p>
+</div></td>
+<td style="text-align: center;"><p><strong>旅遊節目</strong></p></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>27/10-<br />
+17/11</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/玩轉鳥取星·童·行" title="wikilink">玩轉鳥取星·童·行</a><br />
+</p></td>
+<td style="text-align: center;"><p>4</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"><p><strong>旅遊節目</strong><br />
+外購節目（<a href="../Page/日本.md" title="wikilink">日本</a><a href="https://zh.wikipedia.org/wiki/日本海電視台" title="wikilink">日本海電視台</a>）</p></td>
 </tr>
 </tbody>
 </table>
@@ -2873,15 +3111,26 @@ Seoul Ten</p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>08/09-<br />
-01/12</p></td>
+27/10</p></td>
 <td style="text-align: center;"><p><a href="../Page/熟女在野.md" title="wikilink">熟女在野</a><br />
 Wonder Lady Wonderland</p></td>
-<td style="text-align: center;"><p>13</p></td>
+<td style="text-align: center;"><p>8<br />
+(13)</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
 <p><span style="font-size:larger;"><strong>重播節目：</strong><a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">2017年ViuTV節目</a></span></p>
 </div></td>
 <td style="text-align: center;"><p><strong>真人秀</strong></p></td>
 <td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>03/11-<br />
+</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/本地設計師" title="wikilink">本地設計師</a><br />
+</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"><p><strong>文化節目</strong></p></td>
 </tr>
 </tbody>
 </table>
@@ -2946,9 +3195,9 @@ Craft a Live 2</p></td>
 <td style="text-align: center;"><p>15/09-<br />
 </p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/藝術團睇" title="wikilink">藝術團睇</a><br />
-</p></td>
+Art Hospitality Group</p></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><p>主持：、、</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>文化節目</strong></p></td>
 </tr>
@@ -2998,7 +3247,7 @@ HK Team Up</p></td>
 STEM</p></td>
 <td style="text-align: center;"><p>26</p></td>
 <td style="text-align: center;"><p>主持：、、、、</p></td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><p><a href="http://viu.tv/encore/stem">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>兒童節目</strong><br />
 4月14日改為12:30-13:00播出</p></td>
 </tr>
@@ -3095,6 +3344,16 @@ A Wanderlust for Fuji</p></td>
 <td style="text-align: center;"><p><a href="https://viu.tv/encore/a-wanderlust-for-fuji">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>旅遊節目</strong></p></td>
 </tr>
+<tr class="even">
+<td style="text-align: center;"><p>27/10-<br />
+</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/職時交換" title="wikilink">職時交換</a><br />
+</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"><p>主持：<a href="../Page/李達仁.md" title="wikilink">李達仁</a></p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"><p><strong>真人秀</strong></p></td>
+</tr>
 </tbody>
 </table>
 
@@ -3186,14 +3445,24 @@ Happy Sunday</p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>21/07-<br />
-</p></td>
+20/10</p></td>
 <td style="text-align: center;"><p><br />
 Your Face Your Fate II</p></td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><p>13</p></td>
 <td style="text-align: center;"><p>主持：-{<a href="https://zh.wikipedia.org/wiki/皓云師傅" title="wikilink">皓云師傅</a>}-、<a href="https://zh.wikipedia.org/wiki/盤菜瑩子" title="wikilink">盤菜瑩子</a>、、<a href="../Page/黃冠斌.md" title="wikilink">黃冠斌</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>玄學節目</strong><br />
 7月21日因中途播出特別新聞報道關係改為21:30-22:20及翌日01:05-01:15播出，7月28日暫停播映</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>27/10-<br />
+</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Chill_Club" title="wikilink">Chill Club</a><br />
+Chill Club</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"><p>主持：</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"><p><strong>綜藝節目</strong></p></td>
 </tr>
 </tbody>
 </table>
@@ -3224,15 +3493,25 @@ Your Face Your Fate II</p></td>
 <tbody>
 <tr class="odd">
 <td style="text-align: center;"><p>26/05-<br />
-</p></td>
+29/09</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Good_Night_Show_Mirror_Go" title="wikilink">Mirror Go</a><br />
 Mirror Go</p></td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><p>14</p></td>
 <td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/MIRROR" title="wikilink">MIRROR</a><br />
 旁白：</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>真人秀</strong><br />
 6月9日、16日、7月21日、28日及8月18日暫停播映</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>06/10-<br />
+</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/港男入贅手冊" title="wikilink">港男入贅手冊</a><br />
+</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"><p>主持：<a href="../Page/岑珈其.md" title="wikilink">岑珈其</a>、<a href="../Page/張建聲.md" title="wikilink">張建聲</a>、<a href="../Page/陳健安.md" title="wikilink">陳健安</a>、<a href="../Page/郭嘉駿.md" title="wikilink">郭嘉駿</a>、<a href="https://zh.wikipedia.org/wiki/吳保錡" title="wikilink">吳保錡</a>、</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"><p><strong>真人秀</strong></p></td>
 </tr>
 </tbody>
 </table>
@@ -3307,6 +3586,16 @@ Seoul Ten</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>文化節目</strong></p></td>
 </tr>
+<tr class="odd">
+<td style="text-align: center;"><p>03/11-<br />
+</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/旅巫" title="wikilink">旅巫</a><br />
+</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"><p>主持：、</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"><p><strong>真人秀</strong></p></td>
+</tr>
 </tbody>
 </table>
 
@@ -3314,7 +3603,7 @@ Seoul Ten</p></td>
 
 ### 00:00/00:30時段
 
-[香港時間](../Page/香港時間.md "wikilink")逢星期一<small>（星期日深夜）</small>00:00-01:00播出；5月20日起改為逢星期一<small>（星期日深夜）</small>00:30-01:00播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期一<small>（星期日深夜）</small>00:00-01:00播出；5月20日起改為00:30-01:00播出
 
 <table style="width:240%;">
 <colgroup>
@@ -3442,15 +3731,29 @@ Medicine Must Know</p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>17/06-<br />
-09/09</p></td>
+23/09</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/輝哥的饌賞" title="wikilink">輝哥的饌賞</a><br />
 Fai Gor appreciation of Bistro</p></td>
-<td style="text-align: center;"><p>9</p></td>
+<td style="text-align: center;"><p>12<br />
+(13)</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
 <p><span style="font-size:larger;"><strong>重播節目：</strong><a href="../Page/ViuTV電視節目列表_(2016年).md" title="wikilink">2016年ViuTV節目</a></span></p>
 </div></td>
 <td style="text-align: center;"><p><strong>飲食節目</strong><br />
 重播<a href="../Page/Now_101台.md" title="wikilink">Now 101台節目</a>，6月17日改為01:30-02:45播出，7月1日、8月5日及12日暫停播映</p></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>30/09-<br />
+23/12</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/輝哥的饌賞貳" title="wikilink">輝哥的饌賞貳</a><br />
+Fai Gor appreciation of Bistro S2</p></td>
+<td style="text-align: center;"><p>13</p></td>
+<td style="text-align: center;"><div style="text-align: center;">
+<p><span style="font-size:larger;"><strong>重播節目：</strong><a href="../Page/ViuTV電視節目列表_(2016年).md" title="wikilink">2016年ViuTV節目</a></span></p>
+</div></td>
+<td style="text-align: center;"><p><strong>飲食節目</strong><br />
+重播<a href="../Page/Now_101台.md" title="wikilink">Now 101台節目</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>

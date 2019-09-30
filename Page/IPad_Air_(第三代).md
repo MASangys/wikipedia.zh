@@ -1,4 +1,4 @@
-**第三代iPad Air**（正式名称仅为**iPad Air**，而**iPad Air 3**为俗称）是[苹果在](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")2019年3月18日在其官网更新发布的10.5英吋螢幕中端[iPad](https://zh.wikipedia.org/wiki/iPad "wikilink")[平板电脑](../Page/平板電腦.md "wikilink")，有不同的称呼（**第三代iPad Air**，或者**iPad Air 2019**）。虽然名属Air系列，但它与iPad Air的[第一代和](../Page/IPad_Air.md "wikilink")[第二代并无技术上的直接继承关系](../Page/IPad_Air_2.md "wikilink")。相反，第三代iPad Air使用[iPad Pro](../Page/IPad_Pro.md "wikilink") 10.5英寸版本的外形（但厚度依然与前代iPad Air相同，同时苹果下架[iPad Pro](https://zh.wikipedia.org/wiki/iPad_Pro "wikilink")10.5英寸版本），搭载[Apple A12 Bionic处理器](../Page/Apple_A12_Bionic.md "wikilink")，10.5英寸的[Retina显示螢幕支援P](../Page/Retina显示屏.md "wikilink")3广色域和原彩显示，但不具备ProMotion自适应螢幕刷新率技术。第三代[iPad Air支援](https://zh.wikipedia.org/wiki/iPad_Air "wikilink")[Apple Pencil第一代和聰穎键盘保护盖](../Page/Apple_Pencil.md "wikilink")。
+**第三代iPad Air**（正式名称仅为**iPad Air**，而**iPad Air 3**为俗称）是[苹果于](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")2019年3月18日在其官网更新发布的 10.5 英寸屏幕中端[iPad](https://zh.wikipedia.org/wiki/iPad "wikilink")[平板电脑](../Page/平板電腦.md "wikilink")，有不同的称呼（**第三代iPad Air**，或者**iPad Air 2019**）。虽然名属Air系列，但它与iPad Air的[第一代和](../Page/IPad_Air.md "wikilink")[第二代并无技术上的直接继承关系](../Page/IPad_Air_2.md "wikilink")。相反，第三代iPad Air使用[iPad Pro](../Page/IPad_Pro.md "wikilink") 10.5英寸版本的外形（但厚度依然与前代iPad Air相同，同时苹果下架[iPad Pro](https://zh.wikipedia.org/wiki/iPad_Pro "wikilink") 10.5英寸版本），它搭载[Apple A12 Bionic处理器](../Page/Apple_A12_Bionic.md "wikilink")，采用原彩显示技术的 10.5 英寸[视网膜显示屏](https://zh.wikipedia.org/wiki/视网膜显示屏 "wikilink")，但不具备ProMotion自适应屏幕刷新率技术。此外，第三代[iPad Air还支持第一代](https://zh.wikipedia.org/wiki/iPad_Air "wikilink")[Apple Pencil和智能键盘](../Page/Apple_Pencil.md "wikilink")。
 
 ## 大事记
 
@@ -231,7 +231,7 @@ Wi-Fi + 4G model: </p></td>
 
 ## 外部連結
 
-[Category:IPad](https://zh.wikipedia.org/wiki/Category:IPad "wikilink") [Category:平板電腦](https://zh.wikipedia.org/wiki/Category:平板電腦 "wikilink") [Category:2019年面世的平板電腦](https://zh.wikipedia.org/wiki/Category:2019年面世的平板電腦 "wikilink")
+[Category:IPad](https://zh.wikipedia.org/wiki/Category:IPad "wikilink") [Category:平板電腦](https://zh.wikipedia.org/wiki/Category:平板電腦 "wikilink") [Category:2019年面世的平板電腦](https://zh.wikipedia.org/wiki/Category:2019年面世的平板電腦 "wikilink") [Category:2019年面世的產品](https://zh.wikipedia.org/wiki/Category:2019年面世的產品 "wikilink") [Category:IOS](https://zh.wikipedia.org/wiki/Category:IOS "wikilink") [Category:蘋果公司](https://zh.wikipedia.org/wiki/Category:蘋果公司 "wikilink")
 
 1.  [全新 iPad 功能特色](http://www.apple.com/hk/ipad/features/)
 2.

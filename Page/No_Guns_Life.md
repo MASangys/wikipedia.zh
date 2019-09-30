@@ -130,7 +130,7 @@
 
 ## 参考文献
 
-[Category:日本漫画](https://zh.wikipedia.org/wiki/Category:日本漫画 "wikilink") [Category:青年漫画](https://zh.wikipedia.org/wiki/Category:青年漫画 "wikilink") [Category:赛博朋克](https://zh.wikipedia.org/wiki/Category:赛博朋克 "wikilink") [Category:赛博格题材漫画](https://zh.wikipedia.org/wiki/Category:赛博格题材漫画 "wikilink") [Category:Madhouse](https://zh.wikipedia.org/wiki/Category:Madhouse "wikilink")
+[Category:日本漫画](https://zh.wikipedia.org/wiki/Category:日本漫画 "wikilink") [Category:青年漫画](https://zh.wikipedia.org/wiki/Category:青年漫画 "wikilink") [Category:赛博朋克](https://zh.wikipedia.org/wiki/Category:赛博朋克 "wikilink") [Category:赛博格题材漫画](https://zh.wikipedia.org/wiki/Category:赛博格题材漫画 "wikilink") [Category:2019年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2019年日本電視動畫 "wikilink") [Category:TBS深夜動畫](https://zh.wikipedia.org/wiki/Category:TBS深夜動畫 "wikilink")
 
 1.
 2.

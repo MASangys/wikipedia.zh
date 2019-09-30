@@ -34,15 +34,16 @@
 
 ## 音樂節目
 
-| 2016年音樂節目現場                                                     |
-| --------------------------------------------------------------- |
-| 電視台                                                             |
-| colspan=6 style="background:\#9be6ff | SUGAR RUSH (Korean Ver.) |
-| [MBC Music](../Page/MBC_Plus_Media.md "wikilink")               |
-| [Mnet](../Page/Mnet.md "wikilink")                              |
-| [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")             |
-| [TVBS](https://zh.wikipedia.org/wiki/TVBS "wikilink")           |
-| 最高名次：                                                           |
+| 2016年音樂節目現場                                                      |
+| ---------------------------------------------------------------- |
+| 電視台                                                              |
+| colspan=6 style="background:\#98e8da | SUGAR RUSH (Korean Ver.)  |
+| [MBC Music](../Page/MBC_Plus_Media.md "wikilink")                |
+| [Mnet](../Page/Mnet.md "wikilink")                               |
+| [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")              |
+| colspan=6 style="background:\#98e8da | SUGAR RUSH (Chinese Ver.) |
+| [TVBS歡樂台](../Page/TVBS歡樂台.md "wikilink")                         |
+| 最高名次：                                                            |
 
 ## 參考文獻
 

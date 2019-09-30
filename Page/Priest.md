@@ -118,7 +118,7 @@
 <td><p>對秘密運營的 634 鳳凰會進行監督的管理者，也是負責和<a href="https://zh.wikipedia.org/wiki/教皇" title="wikilink">教皇廳聯絡與驅魔相關事項的人物</a>。</p></td>
 </tr>
 <tr class="even">
-<td><p>文　淑</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/文淑_(演員)" title="wikilink">文淑</a></p></td>
 <td><p>李海旻</p></td>
 <td><p>頗富盛名的<a href="https://zh.wikipedia.org/wiki/修女" title="wikilink">修女</a>，雖然世人都稱呼她為東方的聖女，但作為 634 鳳凰會的創團成員的她，是一位非常出色的驅魔師，也是文神父的導師。</p></td>
 </tr>

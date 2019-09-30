@@ -30,8 +30,8 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p>05/02-28/02<br />
-</p></td>
+<td style="text-align: center;"><p>05/02-<br />
+28/02</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/賭城群英會" title="wikilink">賭城群英會</a><br />
 Bet Hur</p></td>
 <td style="text-align: center;"><p>35</p></td>
@@ -196,16 +196,16 @@ Always And Ever</p></td>
 <tbody>
 <tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/2018年Astro華麗台電視劇集列表#8.00港劇時段" title="wikilink">續18年</a><br />
-全年-<br />
-29/11</p></td>
+全年<br />
+<a href="https://zh.wikipedia.org/wiki/2020年Astro華麗台電視劇集列表#8.00港劇時段" title="wikilink">續20年</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/愛·回家之開心速遞.md" title="wikilink">愛·回家之開心速遞</a><br />
 Come Home Love：Lo And Behold</p></td>
-<td style="text-align: center;"><p>720（暫定）</p></td>
+<td style="text-align: center;"><p>900（暫定）</p></td>
 <td style="text-align: center;"><p><a href="../Page/劉丹_(香港).md" title="wikilink">劉　丹</a>、<a href="../Page/單立文.md" title="wikilink">單立文</a>、<a href="../Page/湯盈盈.md" title="wikilink">湯盈盈</a>、<br />
 <a href="../Page/呂慧儀.md" title="wikilink">呂慧儀</a>、<a href="../Page/陳浚霆.md" title="wikilink">陳浚霆</a>、<a href="../Page/蘇韻姿.md" title="wikilink">蘇韻姿</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/羅鎮岳.md" title="wikilink">羅鎮岳</a></p></td>
-<td style="text-align: center;"><p>主：在心中（<a href="../Page/黃心穎.md" title="wikilink">黃心穎</a>）（第225～558集）<br />
-主：在心中（純音樂）（第558集起）</p></td>
+<td style="text-align: center;"><p>主：在心中（<a href="../Page/黃心穎.md" title="wikilink">黃心穎</a>）（第225～557集）<br />
+主：開心速遞（群星）（第606集起）</p></td>
 <td style="text-align: center;"><p>外購劇（<a href="../Page/香港.md" title="wikilink">香港</a><a href="../Page/電視廣播有限公司.md" title="wikilink">TVB</a>），2月5日及6日暫停播映</p></td>
 </tr>
 </tbody>
@@ -347,6 +347,22 @@ Birth Of A Hero</p></td>
 <td style="text-align: center;"><p>外購劇（<a href="../Page/香港.md" title="wikilink">香港</a><a href="../Page/電視廣播有限公司.md" title="wikilink">TVB</a>）</p></td>
 </tr>
 <tr class="odd">
+<td style="text-align: center;"><p>13/09-<br />
+01/11</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/再創世紀" title="wikilink">再創世紀</a><br />
+Another Era</p></td>
+<td style="text-align: center;"><p>36</p></td>
+<td style="text-align: center;"><p><a href="../Page/郭晉安.md" title="wikilink">郭晉安</a>、<a href="../Page/周勵淇.md" title="wikilink">周勵淇</a>、<a href="../Page/林文龍.md" title="wikilink">林文龍</a>、<br />
+<a href="../Page/楊怡.md" title="wikilink">楊　怡</a>、<a href="https://zh.wikipedia.org/wiki/鍾嘉欣" title="wikilink">鍾嘉欣</a>、<a href="../Page/袁偉豪.md" title="wikilink">袁偉豪</a>、<br />
+<a href="../Page/周柏豪.md" title="wikilink">周柏豪</a>、<a href="https://zh.wikipedia.org/wiki/王振_(演員)" title="wikilink">王　振</a>、<a href="https://zh.wikipedia.org/wiki/余芷慧" title="wikilink">余芷慧</a>、<br />
+<a href="../Page/潘志文.md" title="wikilink">潘志文</a>、<a href="../Page/胡楓.md" title="wikilink">胡　楓</a>、<a href="../Page/鄧佩儀.md" title="wikilink">鄧佩儀</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/關樹明.md" title="wikilink">關樹明</a></p></td>
+<td style="text-align: center;"><p>主：烏托邦（<a href="../Page/周柏豪.md" title="wikilink">周柏豪</a>）<br />
+尾：只想與你再一起（<a href="../Page/菊梓喬.md" title="wikilink">菊梓喬</a>）<br />
+插：為何你要背叛我（<a href="../Page/吳若希.md" title="wikilink">吳若希</a>）</p></td>
+<td style="text-align: center;"><p>外購劇（<a href="../Page/香港.md" title="wikilink">香港</a><a href="../Page/電視廣播有限公司.md" title="wikilink">TVB</a>）</p></td>
+</tr>
+<tr class="even">
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
@@ -474,6 +490,19 @@ Flying Tiger</p></td>
 <td style="text-align: center;"><p>中港合拍網絡劇<br />
 外購劇（<a href="https://zh.wikipedia.org/wiki/優酷" title="wikilink">優酷</a>、<a href="../Page/邵氏兄弟.md" title="wikilink">邵氏兄弟</a>國際影業有限公司）</p></td>
 </tr>
+<tr class="odd">
+<td style="text-align: center;"><p>18/09-<br />
+25/10</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/天命_(無綫電視劇)" title="wikilink">天命</a><br />
+Succession War</p></td>
+<td style="text-align: center;"><p>28</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/陳展鵬" title="wikilink">陳展鵬</a>、<a href="../Page/譚俊彥.md" title="wikilink">譚俊彥</a>、<a href="../Page/李施嬅.md" title="wikilink">李施嬅</a>、<br />
+<a href="https://zh.wikipedia.org/wiki/唐詩詠" title="wikilink">唐詩詠</a>、<a href="https://zh.wikipedia.org/wiki/姚子羚" title="wikilink">姚子羚</a>、<a href="../Page/陳山聰.md" title="wikilink">陳山聰</a>、<br />
+<a href="../Page/張頴康.md" title="wikilink">張頴康</a>、<a href="../Page/何廣沛.md" title="wikilink">何廣沛</a>、<a href="https://zh.wikipedia.org/wiki/何雁詩" title="wikilink">何雁詩</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/莊偉建.md" title="wikilink">莊偉建</a></p></td>
+<td style="text-align: center;"><p>主：悔別離（<a href="https://zh.wikipedia.org/wiki/陳展鵬" title="wikilink">陳展鵬</a>）</p></td>
+<td style="text-align: center;"><p>外購劇（<a href="../Page/香港.md" title="wikilink">香港</a><a href="../Page/電視廣播有限公司.md" title="wikilink">TVB</a>）</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -525,7 +554,7 @@ Elite Brigade IV</p></td>
 
 ### 周末4.00港劇時段
 
-[馬來西亞時間逢星期六](https://zh.wikipedia.org/wiki/馬來西亞標準時間 "wikilink")、日16:00-18:00播出（**每次播映兩集**），1月12日至8月18日改為逢星期六、日16:00-19:00播出（**每次播映三集**）。
+[馬來西亞時間逢星期六](https://zh.wikipedia.org/wiki/馬來西亞標準時間 "wikilink")、日16:00-18:00播出（**每次播映兩集**）；1月12日至8月18日、9月22日起改為逢星期六、日16:00-19:00播出（**每次播映三集**）。
 
 <table style="width:274%;">
 <colgroup>
@@ -646,6 +675,18 @@ Wife, Interrupted</p></td>
 每集兩小時</p></td>
 </tr>
 <tr class="even">
+<td style="text-align: center;"><p>22/09-<br />
+13/10</p></td>
+<td style="text-align: center;"><p><a href="../Page/收規華.md" title="wikilink">收規華</a><br />
+Momentary Lapse Of Reason</p></td>
+<td style="text-align: center;"><p>20</p></td>
+<td style="text-align: center;"><p><a href="../Page/楊怡.md" title="wikilink">楊　怡</a>、<a href="../Page/張繼聰.md" title="wikilink">張繼聰</a>、<a href="https://zh.wikipedia.org/wiki/林夏薇" title="wikilink">林夏薇</a>、<br />
+<a href="../Page/楊明.md" title="wikilink">楊　明</a>、<a href="../Page/劉江_(香港).md" title="wikilink">劉　江</a>、<a href="../Page/鄭子誠.md" title="wikilink">鄭子誠</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/方駿釗" title="wikilink">方駿釗</a></p></td>
+<td style="text-align: center;"><p>主：月無聲（<a href="../Page/張繼聰.md" title="wikilink">張繼聰</a>）</p></td>
+<td style="text-align: center;"><p>外購劇（<a href="../Page/香港.md" title="wikilink">香港</a><a href="../Page/電視廣播有限公司.md" title="wikilink">TVB</a>），第19至20集（大結局）於10月13日16:00-18:00播出（只播放两集）</p></td>
+</tr>
+<tr class="odd">
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
@@ -657,11 +698,11 @@ Wife, Interrupted</p></td>
 </tbody>
 </table>
 
-## 星期六（黃金時段）
+## 星期六、日（黃金時段）
 
 ### 周末9.30港劇時段
 
-[馬來西亞時間逢星期六](https://zh.wikipedia.org/wiki/馬來西亞標準時間 "wikilink")21:30-22:30播出。
+[馬來西亞時間逢星期六](https://zh.wikipedia.org/wiki/馬來西亞標準時間 "wikilink")21:30-22:30播出；8月31日起改為逢星期六、日21:30-22:30播出。
 
 <table style="width:274%;">
 <colgroup>
@@ -701,6 +742,21 @@ ICAC Investigators 2019</p></td>
 <a href="https://zh.wikipedia.org/wiki/羅香蘭" title="wikilink">羅香蘭</a></p></td>
 <td style="text-align: center;"><p>主=廉政行動劇集背景音樂</p></td>
 <td style="text-align: center;"><p>外購劇（<a href="../Page/香港.md" title="wikilink">香港</a><a href="../Page/電視廣播有限公司.md" title="wikilink">TVB</a>）</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>31/08-<br />
+29/12</p></td>
+<td style="text-align: center;"><p><a href="../Page/守護神之保險調查.md" title="wikilink">守護神之保險調查</a><br />
+Guardian Angel</p></td>
+<td style="text-align: center;"><p>36</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/苗僑偉" title="wikilink">苗僑偉</a>、<a href="https://zh.wikipedia.org/wiki/黃宗澤" title="wikilink">黃宗澤</a>、<a href="../Page/劉心悠.md" title="wikilink">劉心悠</a>、<br />
+<a href="../Page/徐子珊.md" title="wikilink">徐子珊</a>、<a href="../Page/吳岱融.md" title="wikilink">吳岱融</a>、<a href="../Page/許紹雄.md" title="wikilink">許紹雄</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/鍾澍佳.md" title="wikilink">鍾澍佳</a></p></td>
+<td style="text-align: center;"><p>主：世世（<a href="../Page/A-Lin.md" title="wikilink">A-Lin</a>）<br />
+尾：守護人（<a href="../Page/吳業坤.md" title="wikilink">吳業坤</a>）<br />
+插：靈魂伴侶（男／女獨唱版）（<a href="https://zh.wikipedia.org/wiki/黃品冠" title="wikilink">品　冠</a>／<a href="https://zh.wikipedia.org/wiki/黃齡" title="wikilink">黃　齡</a>）</p></td>
+<td style="text-align: center;"><p>中港合拍網絡劇<br />
+外購劇（<a href="https://zh.wikipedia.org/wiki/愛奇藝" title="wikilink">愛奇藝</a>、<a href="../Page/邵氏兄弟.md" title="wikilink">邵氏兄弟</a>國際影業有限公司）</p></td>
 </tr>
 </tbody>
 </table>

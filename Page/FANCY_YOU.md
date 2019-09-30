@@ -1,4 +1,4 @@
-《**FANCY YOU**》是由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[TWICE於](https://zh.wikipedia.org/wiki/TWICE "wikilink")2019年4月22日推出的第七張韓語迷你專輯\[1\]\[2\]，主打歌〈FANCY〉由先前創作〈[Like OOH-AHH](https://zh.wikipedia.org/wiki/The_Story_Begins "wikilink")〉和〈[CHEER UP](https://zh.wikipedia.org/wiki/Page_Two_\(TWICE迷你專輯\) "wikilink")〉的[黑眼必勝](../Page/黑眼必勝.md "wikilink")製作，除了黑眼必勝，和[查莉·XCX](../Page/查莉·XCX.md "wikilink")也參與了專輯製作\[3\]\[4\]。
+《**FANCY YOU**》是由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[TWICE於](https://zh.wikipedia.org/wiki/TWICE "wikilink")2019年4月22日推出的第七張韓語迷你專輯\[1\]\[2\]，主打歌〈FANCY〉由先前創作〈[Like OOH-AHH](https://zh.wikipedia.org/wiki/The_Story_Begins "wikilink")〉和〈[CHEER UP](https://zh.wikipedia.org/wiki/Page_Two_\(TWICE迷你專輯\) "wikilink")〉和〈[TT](../Page/TWICEcoaster:_LANE_1.md "wikilink")〉的[黑眼必勝](../Page/黑眼必勝.md "wikilink")製作，除了黑眼必勝，和[查莉·XCX](../Page/查莉·XCX.md "wikilink")也參與了專輯製作\[3\]\[4\]。
 
 《FANCY YOU》在商業上取得相當亮眼的成績，在韓國首週銷量超過15萬份，是首個有此紀錄的韓國女子團體\[5\]\[6\]。
 

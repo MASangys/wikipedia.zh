@@ -6,7 +6,7 @@
 
 1983年4月，加入[日本唱片協會](../Page/日本唱片協會.md "wikilink")，成為協會會員\[2\]。
 
-該公司的取名之由來，是用全名**V**ideo **A**udio **P**roject英文頭銜的縮寫。創業以來，VAP生產過許多CD、[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")、[藍光光碟](../Page/藍光光碟.md "wikilink")、[VHS等等錄影和錄音商品](https://zh.wikipedia.org/wiki/錄影帶 "wikilink")。並有進行藝人的經營管理，儘管由該公司為歌手或動畫企劃製作的音樂作品目前大多已經停產，但近年仍用系列的形式重新錄製再發售\[3\]。
+VAP取名之由來，是用全名**V**ideo **A**udio **P**roject英文頭銜的縮寫。創業以來，VAP生產過許多[CDDA](../Page/CDDA.md "wikilink")、[DVD-Video](../Page/DVD-Video.md "wikilink")、[藍光光碟](../Page/藍光光碟.md "wikilink")、[VHS](../Page/VHS.md "wikilink")[錄影帶等等錄影和錄音商品](https://zh.wikipedia.org/wiki/錄影帶 "wikilink")。並有進行藝人的經營管理，儘管由該公司為歌手或動畫企劃製作的音樂作品目前大多已經停產，但近年仍用系列的形式重新錄製再發售\[3\]。
 
 影像相關方面，VAP至今一直為日本電視網播出的[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")、[動畫等等許多節目](https://zh.wikipedia.org/wiki/動畫 "wikilink")\[4\]，和日本電視台製作關連的[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")、和球團[讀賣巨人](../Page/讀賣巨人.md "wikilink")進行DVD與藍光的促銷販售。除了國內的電影跟電視劇之外，VAP更積極為曾經在國內[NHK電視台播出的](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")《[冬季戀歌](../Page/冬季戀歌.md "wikilink")》等許多[韓國電視劇錄製成DVD進行販售](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")\[5\]。此外，2000年代前半以前，VAP也曾經販售過[電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")。
 

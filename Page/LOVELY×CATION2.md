@@ -51,13 +51,6 @@ VisualFanBook由[enterbrain發售共兩冊](https://zh.wikipedia.org/wiki/enterb
 
 LOVELY×CATION2於[萌系遊戲大賞](../Page/萌系遊戲大賞.md "wikilink")2013中獲得角色設計獎的金獎。\[8\]由Getchu.com舉辦的美少女遊戲大獎2013中獲得綜合部門第2名、系統部門第1名、繪圖部門第2名、音樂部門第2名、影片部門第1名、角色部門出水和琴第4名和成川姬第14名、色情部門第3名。\[9\]《[ファミ通](https://zh.wikipedia.org/wiki/ファミ通 "wikilink")》1380號的クロスレビュー對PlayStation Vita版給於29/40評分。\[10\]
 
-## 相關條目
-
-  - [LOVELY×CATION](../Page/LOVELY×CATION.md "wikilink")
-  - [PRETTY×CATION](../Page/PRETTY×CATION.md "wikilink")
-  - [PRETTY×CATION2](../Page/PRETTY×CATION2.md "wikilink")
-  - [新妻LOVELY×CATION](../Page/新妻LOVELY×CATION.md "wikilink")
-
 ## 參考資料
 
 ## 外部連結

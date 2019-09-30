@@ -83,16 +83,17 @@
 
 ## THE LIVE
 
-| 年份    | 日期                           | 參與成員                                                                  | 翻唱歌曲名稱                                                   |
-| ----- | ---------------------------- | --------------------------------------------------------------------- | -------------------------------------------------------- |
-| 2018年 | 6月5日                         | 周燦                                                                    | 바람 (Wind)\[7\]\[8\]                                      |
-| 7月23日 | 밤편지 (Through the Night)\[9\] |                                                                       |                                                          |
-| 9月8日  | Y                            | 너만 괜찮다면 (If only you are fine)\[10\]                                  |                                                          |
-| 2019年 | 6月25日                        | 周燦                                                                    | [Attention](https://www.youtube.com/watch?v=E7pwAz-GlCM) |
-| 7月16日 | 長埈                           | [Stay Cool](https://www.youtube.com/watch?v=Thp-bOo15RM)              |                                                          |
-| 7月30日 | TAG                          | [행복(Happiness)](https://www.youtube.com/watch?v=Kqp7bexARG4)          |                                                          |
-| 8月6日  | Y                            | [In My Blood](https://www.youtube.com/watch?v=nxPexbRpHuM)            |                                                          |
-| 8月20日 | 勝民                           | [As Long As You Love Me](https://www.youtube.com/watch?v=FNmaJYJ23vA) |                                                          |
+| 年份    | 日期                           | 參與成員                                                                  | 翻唱歌曲名稱                                                                       | 原唱歌手                                                  |
+| ----- | ---------------------------- | --------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ----------------------------------------------------- |
+| 2018年 | 6月5日                         | 周燦                                                                    | 바람 (Wind)\[7\]\[8\]                                                          | [鄭承煥](../Page/鄭承煥.md "wikilink")                      |
+| 7月23日 | 밤편지 (Through the Night)\[9\] | [IU](https://zh.wikipedia.org/wiki/IU "wikilink")                     |                                                                              |                                                       |
+| 9月8日  | Y                            | 너만 괜찮다면 (If only you are fine)\[10\]                                  | [優鉉](../Page/南優賢.md "wikilink") ([INFINITE](../Page/INFINITE.md "wikilink")) |                                                       |
+| 2019年 | 6月25日                        | 周燦                                                                    | [Attention](https://www.youtube.com/watch?v=E7pwAz-GlCM)                     | [CP查理](https://zh.wikipedia.org/wiki/CP查理 "wikilink") |
+| 7月16日 | 長埈                           | [Stay Cool](https://www.youtube.com/watch?v=Thp-bOo15RM)              | [Simon D](../Page/Simon_D.md "wikilink")                                     |                                                       |
+| 7月30日 | TAG                          | [행복(Happiness)](https://www.youtube.com/watch?v=Kqp7bexARG4)          | OVAN                                                                         |                                                       |
+| 8月6日  | Y                            | [In My Blood](https://www.youtube.com/watch?v=nxPexbRpHuM)            | [尚恩·曼德斯](../Page/尚恩·曼德斯.md "wikilink")                                       |                                                       |
+| 8月20日 | 勝民                           | [As Long As You Love Me](https://www.youtube.com/watch?v=FNmaJYJ23vA) | [小賈斯汀](https://zh.wikipedia.org/wiki/小賈斯汀 "wikilink")                        |                                                       |
+| 9月17日 | 宰鉉                           | [너를 만나 (Me After You)](https://www.youtube.com/watch?v=b1Mj3NsM7eA)   | Paul Kim                                                                     |                                                       |
 
 ## 原聲帶
 

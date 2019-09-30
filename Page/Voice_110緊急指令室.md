@@ -56,7 +56,7 @@
 <tr class="odd">
 <td><p>森下栞</p></td>
 <td><p>石橋菜津美</p></td>
-<td></td>
+<td><p>本來是縣警本部教養課的中心人員，後來因妹妹森下葵的案件被ECU解決，感受到ECU的重要性，最終決定加入ECU擔任巡査部長。精通多國語言。</p></td>
 </tr>
 </tbody>
 </table>
@@ -201,14 +201,138 @@
 | 明日香    | 白山瑠衣   | 會員制高級俱樂部“幻覺”的女主人，同時也是沖原隆志不小心掉入真兇[仙人跳計畫的幫手之一](https://zh.wikipedia.org/wiki/仙人跳 "wikilink")。                                                                       |
 | 沖原楓    | 平澤瑠菜   | 沖原隆志的女兒，正在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[留學學習](https://zh.wikipedia.org/wiki/留學 "wikilink")[音樂中](https://zh.wikipedia.org/wiki/音樂 "wikilink")。 |
 
+### 第7集
+
+<table style="width:60%;">
+<colgroup>
+<col style="width: 12%" />
+<col style="width: 12%" />
+<col style="width: 36%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p><strong>角色</strong></p></td>
+<td><p><strong>演員</strong></p></td>
+<td><p><strong>介紹</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>高木道夫</p></td>
+<td><p>芹澤興人</p></td>
+<td><p>由「三葉草朋友」派遣公司介紹至「DM建設」的土木工程師。<br />
+原本無業，在社會救助方案啽而被錄用，但情緒不穩定。</p></td>
+</tr>
+<tr class="odd">
+<td><p>高木道夫的女兒</p></td>
+<td><p>見上愛</p></td>
+<td><p>高木道夫的女兒。</p></td>
+</tr>
+</tbody>
+</table>
+
+### 第8集
+
+<table style="width:60%;">
+<colgroup>
+<col style="width: 12%" />
+<col style="width: 12%" />
+<col style="width: 36%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p><strong>角色</strong></p></td>
+<td><p><strong>演員</strong></p></td>
+<td><p><strong>介紹</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>滝沢浩一郎</p></td>
+<td><p>村杉蝉之介</p></td>
+<td><p>橫濱地區檢察廳之特別偵查組的檢察官。<br />
+本郷辰夫指示其阻擾ECU的行動，並不公正的對待石川透和樋口彰吾。</p></td>
+</tr>
+<tr class="odd">
+<td><p>鳥山加奈<br />
+[6]</p></td>
+<td><p>矢崎由紗</p></td>
+<td><p>本鄉控股所涉及的隧道坍塌事件中，隧道工地現場監督鳥山聰的女兒。</p></td>
+</tr>
+</tbody>
+</table>
+
+### 第9集
+
+<table style="width:60%;">
+<colgroup>
+<col style="width: 12%" />
+<col style="width: 12%" />
+<col style="width: 36%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p><strong>角色</strong></p></td>
+<td><p><strong>演員</strong></p></td>
+<td><p><strong>介紹</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>石川義和</p></td>
+<td><p>斉藤暁</p></td>
+<td><p>石川透的爸爸，在本鄉控股的下游<a href="https://zh.wikipedia.org/wiki/承包商" title="wikilink">承包商</a>「港區第一工廠」中擔任作業員。</p></td>
+</tr>
+<tr class="odd">
+<td><p>鳥山敦</p></td>
+<td><p>土井よしお</p></td>
+<td><p>本鄉控股所涉及的隧道坍塌事件中，工地的現場監督。</p></td>
+</tr>
+<tr class="even">
+<td><p>相馬孝彦</p></td>
+<td><p>金子清文</p></td>
+<td><p>「磯丸建設」的社長，享年41歲。<br />
+27年前，因和本鄉建設有利益衝突，而被本郷辰夫抓到自家地下室，並被本郷辰夫虐待後殺害，當時警察被買通以意外事故結案。</p></td>
+</tr>
+<tr class="odd">
+<td><p>本郷千尋</p></td>
+<td><p>河井青葉</p></td>
+<td><p>本郷辰夫的妻子，同時也是本郷雫的媽媽，享年35歲。<br />
+當年無意間在地下室看到丈夫虐待並殺人的現場，欲向警察舉報卻被警察與大眾誤認為精神異常（實際上是本郷辰夫已經買通警察）。最後因不堪壓力而上吊自殺。</p></td>
+</tr>
+</tbody>
+</table>
+
+### 第10集
+
+<table style="width:60%;">
+<colgroup>
+<col style="width: 12%" />
+<col style="width: 12%" />
+<col style="width: 36%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p><strong>角色</strong></p></td>
+<td><p><strong>演員</strong></p></td>
+<td><p><strong>介紹</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>児島浩紀</p></td>
+<td><p>河屋秀俊</p></td>
+<td><p>工業事故醫院的院長。</p></td>
+</tr>
+<tr class="odd">
+<td><p>石田大輔</p></td>
+<td><p>おかやまはじめ</p></td>
+<td><p>取代田所賢一上任的新任神奈川県警港東警察署署長。<br />
+同時也同意讓港東署ECU緊急出動班，正式成為港東警察署的一部份。</p></td>
+</tr>
+</tbody>
+</table>
+
 ### 其他角色
 
-|        |        |                                                                                      |
-| ------ | ------ | ------------------------------------------------------------------------------------ |
-| **角色** | **演員** | **介紹**                                                                               |
-| 上杉渉    | 手塚とおる  | [不動産公司的社長](https://zh.wikipedia.org/wiki/不動産公司 "wikilink")。以硫酸殺害新田。說話時下顎會有特殊的咖咖聲。    |
-| 本郷辰夫   | 伊武雅刀   | 本鄉[控股公司](../Page/控股公司.md "wikilink")的董事長，本郷雫的爸爸。計劃在港東地區建立一個綜合度假設施，並偷偷計畫在度假設施中建立賭場營利。 |
-| 本郷雫    | 伊勢谷友介  | 本鄉[控股公司](../Page/控股公司.md "wikilink")的總經理，三年前用鐵球殺害樋口未希和橘修二的真凶。說話時下顎會有特殊的咖咖聲。          |
+|        |        |                                                                                                             |
+| ------ | ------ | ----------------------------------------------------------------------------------------------------------- |
+| **角色** | **演員** | **介紹**                                                                                                      |
+| 上杉渉    | 手塚とおる  | [不動産公司的社長](https://zh.wikipedia.org/wiki/不動産 "wikilink")。以硫酸殺害新田。說話時下顎會有特殊的咖咖聲。                             |
+| 本郷辰夫   | 伊武雅刀   | 本鄉[控股公司](../Page/控股公司.md "wikilink")的董事長，本郷雫的爸爸。計劃在港東地區建立一個綜合度假設施，並偷偷計畫在度假設施中建立賭場營利。                        |
+| 本郷雫    | 伊勢谷友介  | 本鄉[控股公司](../Page/控股公司.md "wikilink")的總經理，三年前用鐵球殺害樋口未希和橘修二的真凶。說話時下顎會有特殊的咖咖聲。小時候無意間在地下室看到爸爸虐待並殺人的現場，因此產生心理障礙。 |
 
 ## 註釋與參考資料
 
@@ -229,3 +353,4 @@
 3.
 4.
 5.
+6.  第九集亦出演。

@@ -184,8 +184,9 @@ Feral Interactive发行的游戏作品会在[Steam](../Page/Steam.md "wikilink")
 
 ### iOS
 
-  - '
+  - [英雄连](../Page/英雄连.md "wikilink")(只有[iPad版](https://zh.wikipedia.org/wiki/iPad "wikilink"))
 
+  -
   - [Rome: Total War](../Page/罗马：全面战争.md "wikilink")
 
   -
@@ -199,6 +200,8 @@ Feral Interactive发行的游戏作品会在[Steam](../Page/Steam.md "wikilink")
   - [罗马：全面战争](../Page/罗马：全面战争.md "wikilink")
 
   - [羅馬：全軍破敵 - 蠻族入侵](../Page/罗马：全面战争.md "wikilink")
+
+  - [海岛大亨](https://zh.wikipedia.org/wiki/海岛大亨_\(游戏\) "wikilink")
 
 ### Nintendo Switch
 

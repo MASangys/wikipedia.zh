@@ -1,0 +1,61 @@
+[G.T._(Ellen_Yeung)_College_2018_05_part1.jpg](https://zh.wikipedia.org/wiki/File:G.T._\(Ellen_Yeung\)_College_2018_05_part1.jpg "fig:G.T._(Ellen_Yeung)_College_2018_05_part1.jpg") **優才（楊殷有娣）書院**（），位於香港[將軍澳](../Page/將軍澳.md "wikilink")[調景嶺](../Page/調景嶺.md "wikilink")[嶺光街](../Page/嶺光街.md "wikilink")10號及香港[九龍](../Page/九龍.md "wikilink")[旺角](../Page/旺角.md "wikilink")[洗衣街](../Page/洗衣街.md "wikilink")，乃為一間[直資學校](https://zh.wikipedia.org/wiki/直資學校 "wikilink")。學校為男女校，佔地7,000平方米，設有家長教師會，學生會。
+
+優才（楊殷有娣）書院創辦於1996年，最初為私立小學，2003年成為直資小學，2005年改名為優才書院。
+
+## 設施
+
+  - 大約40間課室
+  - 視覺藝術室
+  - 音樂室
+  - 會議室
+  - 科學實驗室
+  - 圖書館
+  - 多用途室
+  - 電腦室
+  - 籃球場
+  - 室内操場（鴻館）
+  - 足球場
+  - 健身單車區
+  - 舞蹈室
+  - 活動室
+  - 好學室
+  - 自然閣
+  - 自然教室
+  - 禮堂
+  - 欣園
+  - 新園
+  - 活力草地
+  - 大堂
+
+## 鄰近
+
+  - [彩明苑](../Page/彩明苑.md "wikilink")
+  - [健明邨](../Page/健明邨.md "wikilink")
+  - [真道書院](https://zh.wikipedia.org/wiki/真道書院 "wikilink")
+  - [善明邨](../Page/善明邨.md "wikilink")
+  - [將軍澳香島中學](../Page/將軍澳香島中學.md "wikilink")
+  - [匯知中學](../Page/匯知中學.md "wikilink")
+  - [嶺光街](../Page/嶺光街.md "wikilink")
+  - [彩明街](https://zh.wikipedia.org/wiki/彩明街 "wikilink")
+  - [城中駅](https://zh.wikipedia.org/wiki/城中駅 "wikilink")
+  - [都會駅](https://zh.wikipedia.org/wiki/都會駅 "wikilink")
+
+## 參見
+
+  - [天才教育協會](http://www.giftedcouncil.edu.hk/)
+  - [將軍澳新市鎮](../Page/將軍澳新市鎮.md "wikilink")
+  - [調景嶺](../Page/調景嶺.md "wikilink")
+  - [西貢區](../Page/西貢區.md "wikilink")
+
+## 圖片集
+
+<File:G.T>. (Ellen Yeung) College.jpg|優才書院已加蓋帳篷防止高空擲物 <File:G.T>. (Ellen Yeung) College 2013.JPG|優才書院露天籃球場改建為課室 <File:G.T>. Ellen Yeung College 2012 part1.JPG|優才書院正門，嶺光街入口 <File:G.T>. Ellen Yeung College 2012 part2.JPG|優才書院側門，設有樓梯
+
+## 參考資料
+
+## 外部連結
+
+  -
+  - [優才志潔學校官方網站](http://www.gtschool.edu.hk/)
+
+[Category:調景嶺](https://zh.wikipedia.org/wiki/Category:調景嶺 "wikilink") [Category:西貢區中學](https://zh.wikipedia.org/wiki/Category:西貢區中學 "wikilink") [Category:香港直資學校](https://zh.wikipedia.org/wiki/Category:香港直資學校 "wikilink") [Category:2005年創建的教育機構](https://zh.wikipedia.org/wiki/Category:2005年創建的教育機構 "wikilink") [Category:香港英文授課中學](https://zh.wikipedia.org/wiki/Category:香港英文授課中學 "wikilink")

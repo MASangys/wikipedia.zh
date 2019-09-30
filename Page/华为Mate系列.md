@@ -1,4 +1,4 @@
-**华为Mate系列**是中国通讯设备制造商[华为](../Page/华为.md "wikilink")面向消费者发售的[平板手机](../Page/平板手机.md "wikilink")系列，也是华为旗舰级别[智能手机](../Page/智能手机.md "wikilink")系列之一。自2016年，Mate系列搭载有后置[徕卡鏡頭](../Page/徕卡相机.md "wikilink")。
+**华为Mate系列**是中国通讯设备制造商[华为](../Page/华为.md "wikilink")面向消费者发售的高階[平板手机](../Page/平板手机.md "wikilink")系列，也是华为旗舰级别[智能手机](../Page/智能手机.md "wikilink")系列之一。自2016年，Mate系列搭载有后置[徕卡鏡頭](../Page/徕卡相机.md "wikilink")。
 
 ## 型号
 
@@ -46,6 +46,10 @@
 
 华为第一款带有[5G](../Page/5G.md "wikilink")网络并[可摺疊式智能手機](../Page/可摺疊式智能手機.md "wikilink")，于2019年2月24日在伦敦MWC2019发布，预计将于2019年中期发售。
 
+### 华为Mate 30
+
+华为Mate 20系列的换代产品，欧洲版本于2019年9月19日在[德国](../Page/德国.md "wikilink")[慕尼黑](../Page/慕尼黑.md "wikilink")发布。\[1\]Mate 30系列搭載[5G](../Page/5G.md "wikilink")。由於受到華為列入美國實體清單限制，Mate 30系列無法預裝[Google系列應用](../Page/Google流動服務.md "wikilink")\[2\]，但是華為允許Mate 30系列解鎖[BootLoader](../Page/啟動程式.md "wikilink")\[3\]。
+
 ## 参考资料
 
 ## 参见
@@ -61,3 +65,7 @@
   - [华为手机官网](https://consumer.huawei.com/cn/phones/)
 
 [Category:Android设备](https://zh.wikipedia.org/wiki/Category:Android设备 "wikilink") [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:华为手机](https://zh.wikipedia.org/wiki/Category:华为手机 "wikilink")
+
+1.
+2.  [Mate 30，华为的“悲壮旗舰”](https://m.huxiu.com/article/318734.html)
+3.  [可安装谷歌GMS！华为Mate30/Pro确认支持Bootloader解锁](https://m.ithome.com/html/446481.htm)

@@ -262,7 +262,7 @@
       -
 ## 節目變遷
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:醫療漫画](https://zh.wikipedia.org/wiki/Category:醫療漫画 "wikilink") [Category:放射線學](https://zh.wikipedia.org/wiki/Category:放射線學 "wikilink") [Category:2019年開播的日本電視劇集‎](https://zh.wikipedia.org/wiki/Category:2019年開播的日本電視劇集‎ "wikilink") [Category:日本漫畫改編日本電視劇](https://zh.wikipedia.org/wiki/Category:日本漫畫改編日本電視劇 "wikilink") [Category:醫學題材電視劇](https://zh.wikipedia.org/wiki/Category:醫學題材電視劇 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:醫療漫画](https://zh.wikipedia.org/wiki/Category:醫療漫画 "wikilink") [Category:放射線學](https://zh.wikipedia.org/wiki/Category:放射線學 "wikilink") [Category:2019年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2019年開播的日本電視劇集 "wikilink") [Category:日本漫畫改編日本電視劇](https://zh.wikipedia.org/wiki/Category:日本漫畫改編日本電視劇 "wikilink") [Category:日本醫學劇](https://zh.wikipedia.org/wiki/Category:日本醫學劇 "wikilink") [Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
 
 1.
 

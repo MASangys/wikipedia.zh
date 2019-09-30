@@ -2,7 +2,7 @@ local WSU = {} --\[=\[ 回傳成員人數 \]=\]-- function WSU.member(frame)
 
 `   local page = frame:expandTemplate{title = "Wikipedia:維基學生會/成員"}`
 `   local count = 0`
-`   for i in string.gmatch(page, "%*") do`
+`   for i in string.gmatch(page, "class=\"wsu_member") do`
 `       count = count + 1`
 `   end`
 `   return count`
@@ -11,14 +11,21 @@ end --\[=\[ 回傳委員人數 找不到蛤好用，先用管理員admin了 \]=\
 
 `   local page = frame:expandTemplate{title = "Wikipedia:維基學生會/成員"}`
 `   local count = 0`
-`   for i in string.gmatch(page, "class=\"wsu_admin\"") do`
+`   for i in string.gmatch(page, "class=\"wsu_member wsu_admin\"") do`
 `       count = count + 1`
 `   end`
 `   return count`
 
-end
+end --\[=\[ 回傳退出成員人數 \]=\]-- function WSU.withdraw_member(frame)
 
-\--\[=\[ 警告 此模組函式bulletin_item需搭配[Template:维基学生会/公布栏/styles.css使用](https://zh.wikipedia.org/wiki/Template:维基学生会/公布栏/styles.css "wikilink")！ 使用方式：
+`   local page = frame:expandTemplate{title = "Wikipedia:維基學生會/成員"}`
+`   local count = 0`
+`   for i in string.gmatch(page, "class=\"withdraw_member\"") do`
+`       count = count + 1`
+`   end`
+`   return count`
+
+end --\[=\[ 警告 此模組函式bulletin_item需搭配[Template:维基学生会/公布栏/styles.css使用](https://zh.wikipedia.org/wiki/Template:维基学生会/公布栏/styles.css "wikilink")！ 使用方式：
 
     <templatestyles src="Template:维基学生会/公布栏/styles.css" />
     {{维基学生会/公布栏/公告/item|公告|文字}}
@@ -82,7 +89,7 @@ function WSU.bulletin_item( frame )
 `       end`
 `       i = i + 1`
 `   end`
-`   return '`<span class="WSU_bulletin_'..WSU._bulletin_getclass(type)..'">`\'\'\'`<span class="bulletin-type module.bulletin-type WSUb_'..WSU._bulletin_getclass(type)..'">`[' .. type .. ']`</span>`\'\'\' ' ..`
+`   return '`<span class="WSU_bulletin_'..WSU._bulletin_getclass(type)..'"><b><span class="bulletin-type module.bulletin-type WSUb_'..WSU._bulletin_getclass(type)..'">`[' .. type .. ']`</span></b>`' ..`
 `       '`<span class="bulletin-prefix">`' .. prefix .. "`</span>`" ..`
 `       '`<span class="bulletin-item">`' .. mw.text.listToText(`
 `           items,`

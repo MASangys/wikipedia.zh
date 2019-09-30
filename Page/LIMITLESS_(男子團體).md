@@ -41,7 +41,7 @@
 | 2017年4月7日－6月16日 | Mnet | [PRODUCE 101 第二季](../Page/PRODUCE_101_第二季.md "wikilink")    | 文福、玹祐、熙錫 | 组合对抗评价中同组     |
 | 2017年10月29日     | JTBC | [MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink") | 輝燦       |               |
 | 2019年8月11日      | MBC  | [神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")              | 文福       | \[10\] \[11\] |
-| 2019年9月日(待播)    | MBC  | [偶像明星運動會](../Page/偶像明星運動會.md "wikilink")                    | 文福、熙錫    |               |
+| 2019年9月12日      | MBC  | [偶像明星運動會](../Page/偶像明星運動會.md "wikilink")                    | 文福、熙錫    |               |
 
 ## 參考資料
 

@@ -142,7 +142,7 @@
 <tr class="odd">
 <td></td>
 <td><p>都賢真</p></td>
-<td><p>原都在煥與鄭素妍的女兒，已過逝。</p></td>
+<td><p>原都在煥與鄭素妍的女兒，已逝。</p></td>
 </tr>
 <tr class="even">
 <td><p>趙正源</p></td>

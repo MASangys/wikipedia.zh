@@ -67,7 +67,7 @@ WiFi+行動網路版：
 
   - – 官方網站
 
-[Category:IPad](https://zh.wikipedia.org/wiki/Category:IPad "wikilink") [Category:平板电脑](https://zh.wikipedia.org/wiki/Category:平板电脑 "wikilink") [Category:IPad_mini](https://zh.wikipedia.org/wiki/Category:IPad_mini "wikilink") [Category:2019年面世的平板電腦](https://zh.wikipedia.org/wiki/Category:2019年面世的平板電腦 "wikilink")
+[Category:IPad_mini](https://zh.wikipedia.org/wiki/Category:IPad_mini "wikilink") [Category:IPad](https://zh.wikipedia.org/wiki/Category:IPad "wikilink") [Category:平板電腦](https://zh.wikipedia.org/wiki/Category:平板電腦 "wikilink") [Category:2019年面世的平板電腦](https://zh.wikipedia.org/wiki/Category:2019年面世的平板電腦 "wikilink") [Category:2019年面世的產品](https://zh.wikipedia.org/wiki/Category:2019年面世的產品 "wikilink") [Category:IOS](https://zh.wikipedia.org/wiki/Category:IOS "wikilink") [Category:蘋果公司](https://zh.wikipedia.org/wiki/Category:蘋果公司 "wikilink")
 
 1.
 2.

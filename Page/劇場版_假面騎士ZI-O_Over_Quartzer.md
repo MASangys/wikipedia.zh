@@ -121,7 +121,7 @@
     **假面騎士Zonjis**的變身者，Quartzer的成員。
     最後被假面騎士ZERO-ONE給擊敗。
 
-****（聲）
+****（[高橋文哉](../Page/高橋文哉.md "wikilink")聲）
 
   -
     **假面騎士ZERO-ONE**的變身者。

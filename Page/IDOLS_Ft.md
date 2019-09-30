@@ -1,10 +1,10 @@
-**IDOLS Ft**，全称**Idol Studio Ft**，简称**IDFT**，为[上海丝芭文化传媒集团有限公司旗下于](../Page/丝芭传媒.md "wikilink")2019年成立的一个基于互联网的偶像养成女团，其定义为「大型网络偶像养成女团」。IDOLS Ft成立于2019年1月19日，该团体现有成员84名，均为[SNH48 Group成员移籍而来](https://zh.wikipedia.org/wiki/SNH48#SNH48_Group "wikilink")。
+**IDOLS Ft**，全称**Idol Studio Ft**，简称**IDFT**，为[上海丝芭文化传媒集团有限公司旗下于](../Page/丝芭传媒.md "wikilink")2019年成立的一个基于互联网的偶像养成女团，其定义为「大型网络偶像养成女团」。IDOLS Ft成立于2019年1月19日，该团体现有成员85名，均为[SNH48 Group成员移籍而来](https://zh.wikipedia.org/wiki/SNH48#SNH48_Group "wikilink")。
 
 ## 概要
 
 IDOLS Ft为[SNH48 Group的运营公司](https://zh.wikipedia.org/wiki/SNH48#SNH48_Group "wikilink")[丝芭传媒](../Page/丝芭传媒.md "wikilink")旗下的一个基于互联网的偶像养成女团，亦是SNH48 Group的组成部分。该团成员会透过运营商自有的渠道及其他第三方合作平台，对其粉丝进行互动与个性展示，以求实现完全基于互联网的偶像养成运营模式\[1\]。
 
-此外，运营方亦将设置粉丝及“互联网全民制作人”选拔及选择制度，以使合资格成员加入或重新加入[SNH48及其姐妹团的正式成员队伍](https://zh.wikipedia.org/wiki/SNH48 "wikilink")。\[2\]
+此外，运营方亦将设置粉丝及“互联网全民制作人”选拔及选择制度，以使合资格成员加入或重新加入[SNH48](../Page/SNH48.md "wikilink")及其姐妹团的正式成员队伍。\[2\]
 
 ## 沿革
 
@@ -17,7 +17,7 @@ IDOLS Ft为[SNH48 Group的运营公司](https://zh.wikipedia.org/wiki/SNH48#SNH4
 
 ## 成员
 
-该团现时有84名成员\[4\]，其中8人原属[SNH48](https://zh.wikipedia.org/wiki/SNH48 "wikilink")，14人原属[BEJ48](https://zh.wikipedia.org/wiki/BEJ48 "wikilink")，9人原属[GNZ48](https://zh.wikipedia.org/wiki/GNZ48 "wikilink")，27人原属[SHY48](../Page/SHY48.md "wikilink")，26人原属[CKG48](../Page/CKG48.md "wikilink")。
+该团现时有84名成员\[4\]，其中8人原属[SNH48](../Page/SNH48.md "wikilink")，14人原属[BEJ48](https://zh.wikipedia.org/wiki/BEJ48 "wikilink")，10人原属[GNZ48](https://zh.wikipedia.org/wiki/GNZ48 "wikilink")，27人原属[SHY48](../Page/SHY48.md "wikilink")，26人原属[CKG48](../Page/CKG48.md "wikilink")。
 
 | SNH48 | BEJ48    | GNZ48 | SHY48    | CKG48 |
 | ----- | -------- | ----- | -------- | ----- |
@@ -866,17 +866,28 @@ IDOLS Ft为[SNH48 Group的运营公司](https://zh.wikipedia.org/wiki/SNH48#SNH4
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>G</p></td>
+<td><p>周倩玉</p></td>
+<td></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/四川" title="wikilink">四川</a> <a href="https://zh.wikipedia.org/wiki/內江" title="wikilink">內江</a></p></td>
+<td><p>SNH48 6期</p></td>
+<td><p>2019年9月7日</p></td>
+<td><p>同时为CKG48成员</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>K</p></td>
 <td><p>周桐冉</p></td>
 <td></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/山东" title="wikilink">山东</a></p></td>
 <td><p>CKG48 2期</p></td>
+<td><p>2019年1月19日</p></td>
 <td><p>IDOLS Ft最年长</p></td>
 <td></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>C</p></td>
 <td><p>左欣</p></td>
 <td></td>
@@ -887,7 +898,7 @@ IDOLS Ft为[SNH48 Group的运营公司](https://zh.wikipedia.org/wiki/SNH48#SNH4
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Z</p></td>
 <td><p>赵欣雨</p></td>
 <td></td>
@@ -898,7 +909,7 @@ IDOLS Ft为[SNH48 Group的运营公司](https://zh.wikipedia.org/wiki/SNH48#SNH4
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>E</p></td>
 <td><p>郑一凡</p></td>
 <td></td>
@@ -909,7 +920,7 @@ IDOLS Ft为[SNH48 Group的运营公司](https://zh.wikipedia.org/wiki/SNH48#SNH4
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>HIII</p></td>
 <td><p>张幼柠</p></td>
 <td></td>
@@ -921,7 +932,7 @@ IDOLS Ft为[SNH48 Group的运营公司](https://zh.wikipedia.org/wiki/SNH48#SNH4
 官网无资料</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>BEJ预</p></td>
 <td><p>张语倩</p></td>
 <td></td>
@@ -932,7 +943,7 @@ IDOLS Ft为[SNH48 Group的运营公司](https://zh.wikipedia.org/wiki/SNH48#SNH4
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>K</p></td>
 <td><p>赵泽慧</p></td>
 <td></td>
@@ -943,7 +954,7 @@ IDOLS Ft为[SNH48 Group的运营公司](https://zh.wikipedia.org/wiki/SNH48#SNH4
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>GNZ预</p></td>
 <td><p>章泽婷</p></td>
 <td></td>
@@ -954,7 +965,7 @@ IDOLS Ft为[SNH48 Group的运营公司](https://zh.wikipedia.org/wiki/SNH48#SNH4
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>GNZ预</p></td>
 <td><p>张紫颖</p></td>
 <td></td>
@@ -1149,6 +1160,12 @@ IDOLS Ft为[SNH48 Group的运营公司](https://zh.wikipedia.org/wiki/SNH48#SNH4
 <td><p>张丹三移籍SNH48 Team X</p></td>
 <td><p>-1</p></td>
 <td><p>84</p></td>
+</tr>
+<tr class="even">
+<td><p>9月7日</p></td>
+<td><p>原GNZ48 Team G周倩玉加入</p></td>
+<td><p>+1</p></td>
+<td><p>85</p></td>
 </tr>
 </tbody>
 </table>

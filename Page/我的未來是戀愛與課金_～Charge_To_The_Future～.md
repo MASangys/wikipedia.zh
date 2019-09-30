@@ -7,7 +7,8 @@
 ## 角色
 
   -
-    本作的男主角，二年級學生，遊戲暱稱「」，放學後在便利商店打工。
+    生日：8月1日，血型：A型，身高：180cm
+    本作的男主角，二年級學生，遊戲暱稱「」，放學後在便利商店打工，用打工的錢買到了智能手機。身為一名為兼職打工努力的學生而成為無課金玩家，但經常在課金的誘惑面前動搖。
   -
     生日：12月13日，血型：A型，身高：165cm，三圍：88（F）/59/87
     恭也的同學，遊戲暱稱「[軟玉](https://zh.wikipedia.org/wiki/軟玉 "wikilink")」（）。在師生眼中的優秀學生，為了保持形像因此都是暗中獨自玩遊戲。
@@ -36,6 +37,7 @@
 ## 外部連結
 
   - [官方網站](http://www.cuffs.co.jp/products/koi-kakin/index.php)
+  - [誠也の部屋 攻略](http://seiya-saiga.com/game/sonora/koikakin.html)
 
 [Category:2019年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2019年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:CUFFS](https://zh.wikipedia.org/wiki/Category:CUFFS "wikilink")
 

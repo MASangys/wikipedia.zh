@@ -14,6 +14,6 @@ Off-White与众多品牌进行过合作，其中较为知名的有与[Nike合作
 
 </references>
 
-[Category:2010年代時尚](https://zh.wikipedia.org/wiki/Category:2010年代時尚 "wikilink") [Category:2012年成立的公司](https://zh.wikipedia.org/wiki/Category:2012年成立的公司 "wikilink") [Category:潮牌](https://zh.wikipedia.org/wiki/Category:潮牌 "wikilink") [Category:潮流](https://zh.wikipedia.org/wiki/Category:潮流 "wikilink") [Category:奢侈品牌](https://zh.wikipedia.org/wiki/Category:奢侈品牌 "wikilink") [Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink")
+[Category:2010年代時尚](https://zh.wikipedia.org/wiki/Category:2010年代時尚 "wikilink") [Category:2012年成立的公司](https://zh.wikipedia.org/wiki/Category:2012年成立的公司 "wikilink") [Category:潮牌](https://zh.wikipedia.org/wiki/Category:潮牌 "wikilink") [Category:奢侈品牌](https://zh.wikipedia.org/wiki/Category:奢侈品牌 "wikilink") [Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink") [Category:義大利公司](https://zh.wikipedia.org/wiki/Category:義大利公司 "wikilink")
 
 1.

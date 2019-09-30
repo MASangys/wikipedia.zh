@@ -3,8 +3,15 @@
 ## 歷史
 
   - Namoo Actors成立於2004年，由金鍾道成立。首批加入公司演員為[金志秀](../Page/金志秀.md "wikilink")、[金柱赫](../Page/金柱赫.md "wikilink")、[都知嫄](../Page/都知嫄.md "wikilink")、[文瑾瑩](../Page/文瑾瑩.md "wikilink")、[李恩宙](../Page/李恩宙.md "wikilink")、[洪銀姬](../Page/洪銀姬.md "wikilink")\[1\]。
+  - 2014年3月，[李準基](../Page/李準基.md "wikilink")正式加入公司。\[2\]
+  - 2016年9月，[文彩元](../Page/文彩元.md "wikilink")正式簽約Namoo Actors，10月起成為公司專屬演員。\[3\]同年12月，[Rainbow出身的](https://zh.wikipedia.org/wiki/Rainbow "wikilink")[金栽經](../Page/金栽經.md "wikilink")正式加入Namoo Actors。\[4\]
+  - 2017年4月，[李準基](../Page/李準基.md "wikilink")與Namoo Actors續約，承諾給予最大的支援。\[5\]同年12月，[朴敏英與Namoo](https://zh.wikipedia.org/wiki/朴敏英 "wikilink") Actors簽訂專屬合約。\[6\]
+  - 2018年2月，Namoo Actors宣佈與[池晟](../Page/池晟.md "wikilink")已完成續約。\[7\]
+  - 2019年3月，Namoo Actors宣佈與[徐玄簽署專屬合約](https://zh.wikipedia.org/wiki/徐玄 "wikilink")，正式加入公司。\[8\]同年7月，CEO兼放送人金秀美正式簽約Namoo Actors，成為公司「第一號」的放送人。\[9\]
 
 ## 旗下藝人
+
+### 演員
 
   - [金志秀](../Page/金志秀.md "wikilink")（2004年－現今）
   - [都知嫄](../Page/都知嫄.md "wikilink")（2004年－現今）
@@ -39,10 +46,15 @@
   - 徐藝華（2018年－現今）
   - [徐玄](../Page/徐朱玄.md "wikilink")（2019年－現今）
 
+### 放送人
+
+  - 金秀美（2019年－現今）
+
 ## 已離開藝人
 
   - [李恩宙](../Page/李恩宙.md "wikilink") (已故)（2004年－2005年）
   - [權敏](../Page/權敏.md "wikilink")
+  - [金玟廷](../Page/金玟廷.md "wikilink")（2004年－2008年）
   - [金泰希](../Page/金泰希.md "wikilink")（2005年－2010年）
   - [宋智孝](../Page/宋智孝.md "wikilink")（2005年－2011年）
   - [趙東赫](../Page/趙東赫.md "wikilink")（2004年－2014年）
@@ -90,3 +102,11 @@
 [Category:韓國藝人經紀公司](https://zh.wikipedia.org/wiki/Category:韓國藝人經紀公司 "wikilink")
 
 1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.

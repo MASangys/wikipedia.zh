@@ -32,8 +32,8 @@
 <!-- end list -->
 
   -
-    瑟瑪尼世界法爾巴尼王國派駐到聖德雷沙市的見習騎士。是個外表看似只有十多歲的少女，實際上在瑟瑪尼世界已經是27歲，用地球上的算法則是18歲。
-    全名是「**緹拉娜·巴爾休·米爾窩·拉達·伊姆瑟達莉·耶·德貝雷納·德瓦爾·涅拉諾·尼爾·艾克瑟迪利卡**」（），意為「艾克瑟迪利卡家的女兒、賽亞的長女、擁有德瓦爾大公的[血統](https://zh.wikipedia.org/wiki/血統 "wikilink")，榮耀的米爾瓦騎士，緹拉娜」。
+    瑟瑪尼世界法爾巴尼王國派駐到聖德雷沙市的見習騎士。是個外表看似只有十多歲的少女，實際上在瑟瑪尼世界已經是27歲，用地球上的算法則是20歲。
+    全名是「**緹拉娜·巴爾休·米爾窩·拉達·伊姆瑟達莉·耶·德貝雷納·德瓦爾·涅拉諾·賽亞·尼爾·艾克瑟迪利卡**」（），意為「艾克瑟迪利卡家的女兒、賽亞的長女、擁有德瓦爾大公的[血統](https://zh.wikipedia.org/wiki/血統 "wikilink")，榮耀的米爾瓦騎士，緹拉娜」。
     為了找回被綁架的妖精而來到地球，並與的場組成搭檔，剛開始時對的場放過部分犯罪者的行為有所不滿，不過在相處過一段時間後有所改觀，甚至還住到他的家中。
     雖然與的場組成了搭檔，卻對地球上的文化與常識一知半解，因此有關推理的部分全依靠的場處理，自己則靠著瑟瑪尼人的戰鬥天性出手對付犯罪者，但因為總是造成犯人傷殘而惹來警方高層的關注與指責。
 
@@ -140,8 +140,19 @@
 
   - 片頭曲「」\[2\]
     填詞：[大石昌良](../Page/大石昌良.md "wikilink")，作曲、編曲：大石昌良、扇谷研人，主唱：[大石昌良](../Page/大石昌良.md "wikilink")
-  - 片尾曲「Connected」
-    填詞、作曲、編曲：安野勇太，主唱：緹拉娜·艾克澤蒂利卡（[吉岡茉祐](../Page/吉岡茉祐.md "wikilink")）
+
+  - 片尾曲
+
+:;「Connected」（第1～9話、第10話）
+
+:: 填詞、作曲、編曲：安野勇太，主唱：緹拉娜·艾克澤蒂利卡（[吉岡茉祐](../Page/吉岡茉祐.md "wikilink")）
+
+:;「Nonficition」（第9.5話）
+
+  -
+
+      -
+        填詞、作曲：RIRIKO，編曲：藤 代佑太郎，主唱：緹拉娜·艾克澤蒂利卡（吉岡茉祐）
 
 ### 各話列表
 
@@ -149,7 +160,8 @@
 <thead>
 <tr class="header">
 <th><p>話數</p></th>
-<th><p>標題</p></th>
+<th><p>日文標題</p></th>
+<th><p>中文標題</p></th>
 <th><p>劇本</p></th>
 <th><p>分鏡</p></th>
 <th><p>演出</p></th>
@@ -166,10 +178,12 @@
 <td><p>播摩優</p></td>
 <td><p>木村博美</p></td>
 <td><p>第一卷</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>第2話</p></td>
 <td><p>DRAGNET MIRAGE</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -184,24 +198,29 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>第4話</p></td>
 <td><p>IN THE AIR TONIGHT</p></td>
-<td><p>板垣伸、播摩優</p></td>
+<td><p>板垣伸<br />
+播摩優</p></td>
 <td><p>播摩優</p></td>
 <td><p>小林大地</p></td>
 <td><p>第二卷</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>第5話</p></td>
 <td><p>LONESOME VAMPIRE</p></td>
-<td><p>田边慎吾、板垣伸</p></td>
-<td><p>田边慎吾</p></td>
+<td><p>田邊慎吾<br />
+板垣伸</p></td>
+<td><p>田邊慎吾</p></td>
 <td><p>、岡正信、吉田智裕<br />
 小林大地、内田利明、木村博美<br />
 板垣伸</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -210,8 +229,9 @@
 <td><p>NEED FOR SPEED</p></td>
 <td><p>板垣伸</p></td>
 <td><p>森義博</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/山内則康" title="wikilink">山内則康</a>、糸島雅彦、猿渡聖加<br />
-梶浦紳一郎</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/山内則康" title="wikilink">山内則康</a>、糸島雅彦<br />
+猿渡聖加、梶浦紳一郎</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -223,16 +243,61 @@
 <td><p>第三卷</p></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>第8話</p></td>
 <td><p>SMELLS LIKE TOON SPIRITS</p></td>
+<td><p>永井真吾</p></td>
 <td><p>田邊慎吾</p></td>
 <td><p>成松義人、田之上慎、EverGreen<br />
-黑皇映画 &lt;!--|-</p></td>
+黑皇映画</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>第9話</p></td>
+<td><p>A KING MAKER</p></td>
+<td><p>播摩優</p></td>
+<td><p>内田利明、小林大地、吉田智裕<br />
+木村博美、Park Sang-ho、Seo Jeong-ha<br />
+Mun Hui、Jeong Yong-un</p></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>第9.5話</p></td>
+<td><p>特別編:美しき女騎士！<br />
+とらわれの妖精を追え！</p></td>
+<td><p>特別篇 美女騎士！<br />
+追逐被囚禁的妖精</p></td>
+<td><p>賀東招二<br />
+永井真吾</p></td>
+<td><p>板垣伸<br />
+播摩優</p></td>
+<td><p>播摩優<br />
+田邊慎吾<br />
+森義博</p></td>
+<td><p>木村博美、田之上慎、小林大地<br />
+内田利明、吉田智裕、山內則康<br />
+猿渡聖加、成松義人、糸島雅彦<br />
+梶浦紳一郎、西田美彌子</p></td>
+<td><p>無<br />
+（第1～9話總集篇）</p></td>
+</tr>
+<tr class="odd">
+<td><p>第10話</p></td>
+<td><p>COCK ROBIN, JOHN DOE</p></td>
+<td><p>永井真吾</p></td>
+<td><p>板垣伸</p></td>
+<td><p>田邊慎吾</p></td>
+<td><p>木村博美、吉田智裕<br />
+板垣伸、白素一二三</p></td>
+<td><p>第四卷 &lt;!--|-</p></td>
+<td><p>第11話</p></td>
 </tr>
 </tbody>
 </table>

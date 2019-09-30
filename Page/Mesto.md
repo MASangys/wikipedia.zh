@@ -4,7 +4,7 @@
 
 ### 早期的生活
 
-Mesto於1999年9月30日出生於[荷蘭](../Page/荷兰.md "wikilink") [Amstelveen](../Page/阿姆斯特尔芬.md "wikilink")，6歲開始學習小提琴。 11歲開始學習打鼓，並對製作音樂充滿興趣。 當他聽到的發現自己對  和  的興趣，也使他學習到使用[YouTube](../Page/YouTube.md "wikilink")推廣自己音樂的方法。 在他14歲時在一次因緣下他第一次觸碰到DJ器材，促使他下載了[FL Studio並開始了他的音樂創作](../Page/FL_Studio.md "wikilink")。並在同年開始製作 並慢慢開始嘗試製作。他也在就讀。（同時為 [Martin garrix的母校](../Page/馬汀·蓋瑞克斯.md "wikilink")）
+Mesto於1999年9月30日出生於[荷蘭](../Page/荷兰.md "wikilink") [Amstelveen](../Page/阿姆斯特尔芬.md "wikilink")，6歲開始學習小提琴。 11歲開始學習打鼓，並對製作音樂充滿興趣。 當他聽到的發現自己對 [deep house](https://zh.wikipedia.org/wiki/deep_house "wikilink") 和 [future house](https://zh.wikipedia.org/wiki/future_house "wikilink") 的興趣，也使他學習到使用[YouTube](../Page/YouTube.md "wikilink")推廣自己音樂的方法。 在他14歲時在一次因緣下他第一次觸碰到DJ器材，促使他下載了[FL Studio並開始了他的音樂創作](../Page/FL_Studio.md "wikilink")。並在同年開始製作[deep house](https://zh.wikipedia.org/wiki/deep_house "wikilink") 並慢慢開始嘗試製作[future house](https://zh.wikipedia.org/wiki/future_house "wikilink")。他也在就讀。（同時為 [Martin garrix的母校](../Page/馬汀·蓋瑞克斯.md "wikilink")）
 
 ### 音樂生涯
 

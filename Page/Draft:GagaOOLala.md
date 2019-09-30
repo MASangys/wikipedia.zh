@@ -28,7 +28,7 @@
 
 ### GOL STUDIOS
 
-[GOL_STUDIOS_logo.png](https://zh.wikipedia.org/wiki/File:GOL_STUDIOS_logo.png "fig:GOL_STUDIOS_logo.png") GagaOOLala在2019年的5月建立國際影視資源媒合平台GOL STUDIOS，功能是補助、協助製作及發行世界各地的LGBT電影。 GOL STUDIO開放給所有影片創作者，以便上傳他們正在製作的項目並請求資源，甚至能和其他專業電影人士交流。該平台嘗試為GagaOOLala注入更多原創內容，創立第一年，GOL STUDIO就與11項海內外作品合作，且預計在2019至2020年間釋出，而這些被選中的作品如香港獨立電影製作人洪榮杰Kit Hung最新作品《Forever 17》、[周美玲](../Page/周美玲.md "wikilink")最新網路劇集《帥T空姐》及電影《愛情殺人紀事》，以及2019年即將在美國[PBS電視台](https://zh.wikipedia.org/wiki/PBS "wikilink")[Independent Lens單元舉行全球首映的紀錄片](https://zh.wikipedia.org/wiki/Independent_Lens "wikilink")《Made in Boise》等優秀影視作品\[21\]\[22\]。
+GagaOOLala在2019年的5月建立國際影視資源媒合平台GOL STUDIOS，功能是補助、協助製作及發行世界各地的LGBT電影。 GOL STUDIO開放給所有影片創作者，以便上傳他們正在製作的項目並請求資源，甚至能和其他專業電影人士交流。該平台嘗試為GagaOOLala注入更多原創內容，創立第一年，GOL STUDIO就與11項海內外作品合作，且預計在2019至2020年間釋出，而這些被選中的作品如香港獨立電影製作人洪榮杰Kit Hung最新作品《Forever 17》、[周美玲](../Page/周美玲.md "wikilink")最新網路劇集《帥T空姐》及電影《愛情殺人紀事》，以及2019年即將在美國[PBS電視台](https://zh.wikipedia.org/wiki/PBS "wikilink")[Independent Lens單元舉行全球首映的紀錄片](https://zh.wikipedia.org/wiki/Independent_Lens "wikilink")《Made in Boise》等優秀影視作品\[21\]\[22\]。
 
 ## 服務地區
 

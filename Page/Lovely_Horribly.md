@@ -104,12 +104,18 @@
 <td><p><a href="../Page/麥皓豐.md" title="wikilink">麥皓豐</a></p></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td><p>徐敏俊</p></td>
+<td><p>頂級明星，前Jump Five成員敏俊。</p></td>
+<td><p><a href="../Page/梁偉德.md" title="wikilink">梁偉德</a></p></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/鄭順元" title="wikilink">鄭順元</a></p></td>
 <td><p>衷烈</p></td>
 <td><p>經營麵包店，前Jump Five成員烈利。</p></td>
 <td><p><a href="../Page/李致林.md" title="wikilink">李致林</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>基順</p></td>
 <td><p>健美操講師，前Jump Five成員JJ。</p></td>

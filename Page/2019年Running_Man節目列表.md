@@ -2,7 +2,7 @@
 
 ## 節目主持
 
-  - 固定主持
+  - [固定主持](../Page/Running_Man成員列表.md "wikilink")
 
 <!-- end list -->
 
@@ -61,7 +61,7 @@
 <span style="color:gold;">全昭旻 6</span>
 <span style="color:red;">梁世燦 2</span> |- \!370 \!435 |1月20日<small>
 （1月8日）</small> |[柳承龍](../Page/柳承龍.md "wikilink")、、
-[李荷妮](https://zh.wikipedia.org/wiki/李荷妮 "wikilink")、[李東輝](../Page/李東輝_\(演員\).md "wikilink")、
+[李荷妮](../Page/李荷妮.md "wikilink")、[李東輝](../Page/李東輝_\(演員\).md "wikilink")、
 [孔明](../Page/孔明_\(藝人\).md "wikilink")
 ([5urprise](../Page/5urprise.md "wikilink")) |[SBS炭峴製作中心](../Page/SBS_\(韓國\).md "wikilink")
 <small>（[京畿道](../Page/京畿道.md "wikilink")[高陽市](../Page/高陽市.md "wikilink")
@@ -245,7 +245,7 @@
 <td><p>3月10日<small><br />
 （2月25日）</small></p></td>
 <td><p><a href="../Page/韓多感.md" title="wikilink">韓多感</a>、<a href="../Page/洪真英.md" title="wikilink">洪真英</a>、<br />
-</p></td>
+<a href="../Page/琴世祿.md" title="wikilink">琴世祿</a></p></td>
 <td><p><br />
 <small>（<br />
 ）</small></p></td>
@@ -464,7 +464,7 @@
 哈哈、金鐘國、全昭旻</p></td>
 <td><p>最先尋找名字牌</p></td>
 <td><p>哈哈隊（素人隊）<strong>勝出</strong><br />
-最後一名的錫辰隊（這傢伙隊）經選擇去除名字後由劉在錫及池錫辰互相接受撥水懲罰[14]</p></td>
+最後一名的錫辰隊（這傢伙隊）經選擇去除名字後由劉在錫及池錫辰互相接受潑水懲罰[14]</p></td>
 </tr>
 <tr class="odd">
 <td><p>385</p></td>
@@ -647,13 +647,13 @@ Nucksal、Code Kunst、宋智孝、梁世燦 |- \!459 |7月14日<small>
 <td><p>三小時內在特别任務中獲勝</p></td>
 <td><p>哈哈<strong>勝出</strong><br />
 哈哈選擇與宋智孝一同享受三分鐘吃飯<br />
-其他成員經抽卡抽選後由池錫辰接受在見面會內當嘉賓出演時進行裝扮懲罰[20]</p></td>
+其他成員經抽卡抽選後由池錫辰接受在錄影第465集期間當嘉賓出演時進行裝扮懲罰[20]</p></td>
 </tr>
 <tr class="even">
 <td><p>396</p></td>
 <td><p>463</p></td>
 <td><p>8月11日<small><br />
-（7月30日）</small></p></td>
+（7月29日及30日）</small></p></td>
 <td><p><a href="../Page/成東鎰.md" title="wikilink">成東鎰</a>、<a href="https://zh.wikipedia.org/wiki/裴晟佑" title="wikilink">裴晟佑</a>、<br />
 <a href="../Page/金慧峻.md" title="wikilink">金慧峻</a>、<a href="../Page/趙怡賢.md" title="wikilink">趙怡賢</a></p></td>
 <td><p><br />
@@ -718,15 +718,16 @@ Nucksal、Code Kunst、宋智孝、梁世燦 |- \!459 |7月14日<small>
 <td><p>累積最多"R"幣並數目不達負數</p></td>
 <td><p>劉在錫、金鐘國、梁世燦、崔有華及林智妍<strong>勝出</strong><br />
 獲得"R"幣最多的首兩名金鐘國、林智妍獲得綠汁套裝，而劉在錫、梁世燦及崔有華各獲得迷你風扇一把<br />
-"R"幣負數分別最少的宋智孝、李光洙及朴正民和最多的池錫辰、哈哈及全昭旻經手提袋抽選後由李光洙接受奶油炮彈及哈哈、全昭旻接受水炸彈懲罰[22]</p></td>
+"R"幣負數分別最少的宋智孝、李光洙及朴正民和最多的池錫辰、哈哈及全昭旻經手提袋抽選後由李光洙接受奶油炮彈及哈哈、全昭旻接受水炸彈懲罰[22][23]</p></td>
 </tr>
 <tr class="odd">
 <td><p>399</p></td>
 <td><p>466</p></td>
 <td><p>9月1日<small><br />
 （8月20日）</small></p></td>
-<td><p><a href="../Page/金叡園.md" title="wikilink">金叡園</a>、、<a href="https://zh.wikipedia.org/wiki/宣美" title="wikilink">宣美</a>、<br />
-<a href="../Page/Sunny_(少女時代).md" title="wikilink">Sunny</a>(<a href="https://zh.wikipedia.org/wiki/少女時代" title="wikilink">少女時代</a>)</p></td>
+<td><p><a href="../Page/金叡園.md" title="wikilink">金叡園</a>、、<br />
+<a href="../Page/Sunny_(少女時代).md" title="wikilink">Sunny</a>(<a href="https://zh.wikipedia.org/wiki/少女時代" title="wikilink">少女時代</a>)、<br />
+<a href="https://zh.wikipedia.org/wiki/宣美" title="wikilink">宣美</a></p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS炭峴製作中心</a><br />
 <small>（<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/高陽市.md" title="wikilink">高陽市</a><br />
 <a href="../Page/一山西區.md" title="wikilink">一山西區</a>）</small></p></td>
@@ -737,25 +738,24 @@ Nucksal、Code Kunst、宋智孝、梁世燦 |- \!459 |7月14日<small>
 <strong><span style=color:#000000>哈哈、張睿元</strong><br />
 <strong><span style=color:#CCCCFF>李光洙、宣美</strong><br />
 <strong><span style=color:#c0c0c0>全昭旻、梁世燦</strong></p></td>
-<td><p><strong>黑暗之神</strong><br />
+<td><p><strong>黑暗之神及預言者</strong><br />
 隱藏身份並擊敗光明之神<br />
-<strong>光明之神及預言者</strong><br />
-隱藏身份<br />
+<strong>光明之神</strong><br />
+隱藏身份並不被黑暗之神淘汰出局<br />
 <strong>人類隊</strong><br />
-在不擊敗預言者及光明之神不被淘汰出局的情況下擊敗黑暗之神</p></td>
-<td><p><strong>勝出</strong></p></td>
+在光明之神不被淘汰出局的情況下擊敗黑暗之神及預言者</p></td>
+<td><p>光明之神及人類隊<strong>勝出</strong><br />
+獲得水蜜桃套裝禮物</p></td>
 </tr>
 <tr class="even">
 <td><p>467</p></td>
 <td><p>9月8日<small><br />
 （同上）</small></p></td>
 <td><p><strong>最終任務</strong><br />
-<strong>黑暗之神</strong><br />
-<br />
-<strong>預言者</strong><br />
-<br />
+<strong>黑暗之神及預言者</strong><br />
+哈哈<br />
 <strong>光明之神 | 人類隊</strong><br />
-|</p></td>
+Sunny | 劉在錫、池錫辰、金鐘國、宋智孝、李光洙、全昭旻、梁世燦、金叡園、張睿元、宣美</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -784,6 +784,9 @@ Nucksal、Code Kunst、宋智孝、梁世燦 |- \!459 |7月14日<small>
 <col style="width: 6%" />
 <col style="width: 1%" />
 <col style="width: 1%" />
+<col style="width: 3%" />
+<col style="width: 0%" />
+<col style="width: 0%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -793,6 +796,9 @@ Nucksal、Code Kunst、宋智孝、梁世燦 |- \!459 |7月14日<small>
 <small>（錄影日期）</small></p></th>
 <th><p>嘉賓</p></th>
 <th><p>最終地點</p></th>
+<th><p>隊伍</p></th>
+<th><p>勝利條件</p></th>
+<th><p>結果及備註</p></th>
 </tr>
 </thead>
 <tbody>
@@ -800,21 +806,102 @@ Nucksal、Code Kunst、宋智孝、梁世燦 |- \!459 |7月14日<small>
 <td><p>400</p></td>
 <td><p>467</p></td>
 <td><p>9月8日<small><br />
-（8月26日）</small></p></td>
-<td><p><a href="../Page/Gummy_(歌手).md" title="wikilink">Gummy</a>、<a href="../Page/Skull_(歌手).md" title="wikilink">Skull</a>、、、<a href="../Page/洪真英.md" title="wikilink">洪真英</a>、、、<a href="../Page/Apink.md" title="wikilink">Apink</a>、<a href="../Page/ITZY.md" title="wikilink">ITZY</a></p></td>
+（7月8日及8月26日）</small></p></td>
+<td><p><a href="../Page/Apink.md" title="wikilink">Apink</a>、、、、<a href="../Page/Gummy_(歌手).md" title="wikilink">Gummy</a></p></td>
 <td><p><a href="../Page/梨花女子大學.md" title="wikilink">梨花女子大學</a><br />
 <small>（<a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a><br />
 <a href="../Page/西大門區.md" title="wikilink">西大門區</a>大峴洞）</small></p></td>
+<td><p><span style="font-size:110%"><strong>總決賽－間諜遊戲</strong></span><br />
+<strong>間諜</strong><br />
+<br />
+<strong>任務隊（個人戰）</strong><br />
+</p></td>
+<td><p><strong>間諜</strong><br />
+隱藏身份<br />
+<strong>任務隊</strong><br />
+在最終投票期間逮捕間諜</p></td>
+<td><p><strong>勝出</strong>[24]</p></td>
 </tr>
 <tr class="even">
 <td><p>468</p></td>
 <td><p>9月15日<small><br />
-（同上）</small></p></td>
+（8月26日）</small></p></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>469</p></td>
+<td><p>9月22日<small><br />
+（同上）</small></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 常规节目（9月至）
+
+<table style="width:10%;">
+<colgroup>
+<col style="width: 0%" />
+<col style="width: 0%" />
+<col style="width: 6%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 3%" />
+<col style="width: 0%" />
+<col style="width: 0%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>次數</p></th>
+<th><p>集數</p></th>
+<th><p>播放日期<br />
+<small>（錄影日期）</small></p></th>
+<th><p>嘉賓</p></th>
+<th><p>最終地點</p></th>
+<th><p>隊伍</p></th>
+<th><p>勝利條件</p></th>
+<th><p>結果及備註</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>401</p></td>
+<td><p>470</p></td>
+<td><p>9月29日<small><br />
+（9月9日）</small></p></td>
+<td><p>無嘉賓</p></td>
+<td><p><br />
+<small>（<br />
+）</small></p></td>
+<td><p><span style="font-size:110%"></span><br />
+</p></td>
+<td></td>
+<td><p><strong>勝出</strong></p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -834,9 +921,9 @@ Nucksal、Code Kunst、宋智孝、梁世燦 |- \!459 |7月14日<small>
 <th><p>集數</p></th>
 <th><p>播放日期</p></th>
 <th><p>TNmS全國<br />
-收視率[23]</p></th>
+收視率[25]</p></th>
 <th><p>AGB全國<br />
-收視率[24]</p></th>
+收視率[26]</p></th>
 </tr>
 </thead>
 <tbody>
@@ -1053,20 +1140,20 @@ Nucksal、Code Kunst、宋智孝、梁世燦 |- \!459 |7月14日<small>
 <tr class="even">
 <td><p>466</p></td>
 <td><p>9月1日</p></td>
-<td><p>%</p></td>
+<td><p>7.0%</p></td>
 <td><p>4.3%</p></td>
 </tr>
 <tr class="odd">
 <td><p>467</p></td>
 <td><p>9月8日</p></td>
-<td><p>% </p></td>
-<td><p>%</p></td>
+<td><p>8.0% </p></td>
+<td><p>4.7%</p></td>
 </tr>
 <tr class="even">
 <td><p>468</p></td>
 <td><p>9月15日</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>7.3%</p></td>
+<td><p>5.4%</p></td>
 </tr>
 <tr class="odd">
 <td><p>469</p></td>
@@ -1099,7 +1186,7 @@ Nucksal、Code Kunst、宋智孝、梁世燦 |- \!459 |7月14日<small>
 <td><p>%</p></td>
 </tr>
 <tr class="even">
-<td><p>444</p></td>
+<td><p>474</p></td>
 <td><p>10月27日</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
@@ -1184,7 +1271,7 @@ Nucksal、Code Kunst、宋智孝、梁世燦 |- \!459 |7月14日<small>
 4.  宣傳電影《[-{zh-hk:炸雞特攻隊;zh-cn:极限职业;zh-tw:雞不可失}-](../Page/雞不可失.md "wikilink")》。
 5.  [洪真英](../Page/洪真英.md "wikilink")特別出演。
 6.  即6264張日本軍閥監視對象任務卡片
-7.  [南昶熙](../Page/南昶熙.md "wikilink")、[朴寶英](https://zh.wikipedia.org/wiki/朴寶英 "wikilink")、特別出演。
+7.  [南昶熙](../Page/南昶熙.md "wikilink")、[朴寶英](https://zh.wikipedia.org/wiki/朴寶英 "wikilink")、[黄帝聖特別出演](https://zh.wikipedia.org/wiki/黄帝聖 "wikilink")。
 8.  曹正錫以主持人的身份出演，[崔成民](../Page/崔成民.md "wikilink")、[文世潤](../Page/文世潤.md "wikilink")、[吳昶錫](../Page/吳昶錫.md "wikilink")、[李相燁](../Page/李相燁.md "wikilink")、[MONSTA X](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")、[SF9特別出演](https://zh.wikipedia.org/wiki/SF9 "wikilink")。
 9.  河錫辰、李伊庚只參演第447集。
 10. 姜世娜、金鎮雄及J Black & Mmary特別出演。
@@ -1199,6 +1286,8 @@ Nucksal、Code Kunst、宋智孝、梁世燦 |- \!459 |7月14日<small>
 19. 宣傳電影《[-{zh-hk:EXIT：極限逃生;zh-tw:極限逃生;zh-cn:EXIT}-](../Page/EXIT_\(電影\).md "wikilink")》。
 20. 、選手崔秀仁特別出演。
 21. 宣傳電影《變身》。
-22. 宣傳電影《老千3：獨眼傑克》。
-23. [Naver: TNmS 收視數據表](https://m.search.naver.com/search.naver?sm=mtb_hty.top&where=m&query=TNMS++%EC%8B%9C%EC%B2%AD%EB%A5%A0&oquery=05%EC%9B%9413%EC%9D%BC++TNMS++%EC%8B%9C%EC%B2%AD%EB%A5%A0&tqi=TYBhglpVuowssuf%2BZewsssssscC-394882)
-24. [AGB Nielsen Media Research 收視數據表](http://www.nielsenkorea.co.kr/tv_terrestrial_day.asp?menu=Tit_1&sub_menu=1_1&area=00)
+22. 池錫辰及全昭旻分別因為於第462集中落敗及於第452集以當男嘉賓出演時以最奇怪的妝容進行開場3次作為抵押而須接受裝扮懲罰。
+23. 宣傳電影《》。
+24. 、[Skull](../Page/Skull_\(歌手\).md "wikilink")、[ITZY](../Page/ITZY.md "wikilink")、[尹未來](../Page/尹未來.md "wikilink")、[洪真英](../Page/洪真英.md "wikilink")特別出演。
+25. [Naver: TNmS 收視數據表](https://m.search.naver.com/search.naver?sm=mtb_hty.top&where=m&query=TNMS++%EC%8B%9C%EC%B2%AD%EB%A5%A0&oquery=05%EC%9B%9413%EC%9D%BC++TNMS++%EC%8B%9C%EC%B2%AD%EB%A5%A0&tqi=TYBhglpVuowssuf%2BZewsssssscC-394882)
+26. [AGB Nielsen Media Research 收視數據表](http://www.nielsenkorea.co.kr/tv_terrestrial_day.asp?menu=Tit_1&sub_menu=1_1&area=00)

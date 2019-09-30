@@ -14,7 +14,7 @@
       - 若类型为`M`，则可执行文件格式通过文件中的`offset`的（默认为0）[`magic`数字识别](../Page/檔案格式.md "wikilink")；`mask`是全默认为[`0xFF`](../Page/十六进制.md "wikilink")的[bitmask](https://zh.wikipedia.org/wiki/掩码 "wikilink")，其用于指示数字中存在意义的二进制位。
   - `interpreter`是将匹配文件作为参数运行的程序（解释器）。
   - `flags`（可选）是一系列的字符串，每个控制着`interpreter`调用的特定方面：
-      - `P`用于保存用户于命令行中输入的原程序名（通过将程序名添加到）；`interpreter`必须知悉到此标记才能正确将此额外函数作为其`argv[0]`传递至解释程序。
+      - `P`用于保存用户于命令行中输入的原程序名（通过将程序名添加到[`argv`](../Page/入口点.md "wikilink")）；`interpreter`必须知悉到此标记才能正确将此额外函数作为其`argv[0]`传递至解释程序。
       - `O`用于打开程序文件并将其文档描述符传递至`interpreter`以读取用户无法读取的文件（对于无读取[权限的用户而言](https://zh.wikipedia.org/wiki/文件系统权限 "wikilink")）。
       - `C`用于根据程序文件而非`interpreter`文件决定新进程凭证（参见）；此值默认为`O`。
       - `F`用于使内核在配置时间而非启动时间打开二进制文件以使其在其他挂载的用户空间和chroot中可用。

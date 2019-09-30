@@ -53,7 +53,7 @@ Lily之男友，后结婚并成为她的丈夫，还有一个儿子，名叫Joey
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong>Jasmine Suraya Chin</strong></p></td>
+<td><p><strong>Jasmine Suraya Chin（陈香郿）</strong></p></td>
 <td><p><strong>Elizabeth Lily Tan</strong></p></td>
 <td><p><strong>Lily</strong><br />
 </p></td>
@@ -103,7 +103,7 @@ Lily之男友，后结婚并成为她的丈夫，还有一个儿子，名叫Joey
   -
 ## 参考来源
 
-[Category:馬來西亞電影](https://zh.wikipedia.org/wiki/Category:馬來西亞電影 "wikilink")
+[Category:马来西亚导演电影](https://zh.wikipedia.org/wiki/Category:马来西亚导演电影 "wikilink") [Category:2018年电影](https://zh.wikipedia.org/wiki/Category:2018年电影 "wikilink") [Category:軍事題材電影](https://zh.wikipedia.org/wiki/Category:軍事題材電影 "wikilink") [Category:马来西亚特种部队](https://zh.wikipedia.org/wiki/Category:马来西亚特种部队 "wikilink")
 
 1.
 2.

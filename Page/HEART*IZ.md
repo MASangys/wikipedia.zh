@@ -1,4 +1,4 @@
-《**HEART\*IZ**》是[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[IZ\*ONE](../Page/IZ*ONE.md "wikilink")第二張韩语迷你專輯，由Off The Record娛樂製作，發行，於2019年4月1日推出，主打歌曲為《Violeta》。
+《**HEART\*IZ**》是[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[IZ\*ONE](../Page/IZ*ONE.md "wikilink")第二張韩语迷你專輯，由Off The Record娛樂製作，[Stone Music娛樂發行](https://zh.wikipedia.org/wiki/Stone_Music娛樂 "wikilink")，於2019年4月1日推出，主打歌曲為《Violeta》。
 
 ## 背景
 
@@ -157,10 +157,10 @@
 
 ## 發行歷史
 
-| 發行地區                                                  | 發行日期      | 發行方式                           | 廠牌                                                                             |
-| ----------------------------------------------------- | --------- | ------------------------------ | ------------------------------------------------------------------------------ |
-| 南韓                                                    | 2019年4月1日 | [CD](../Page/CD.md "wikilink") | [Off The Record娛樂](https://zh.wikipedia.org/wiki/Off_The_Record娛樂 "wikilink")、 |
-| [數位下載](https://zh.wikipedia.org/wiki/數位下載 "wikilink") |           |                                |                                                                                |
+| 發行地區                                                  | 發行日期      | 發行方式                           | 廠牌                                                                                                                                                    |
+| ----------------------------------------------------- | --------- | ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 南韓                                                    | 2019年4月1日 | [CD](../Page/CD.md "wikilink") | [Off The Record娛樂](https://zh.wikipedia.org/wiki/Off_The_Record娛樂 "wikilink")、[Stone Music娛樂](https://zh.wikipedia.org/wiki/Stone_Music娛樂 "wikilink") |
+| [數位下載](https://zh.wikipedia.org/wiki/數位下載 "wikilink") |           |                                |                                                                                                                                                       |
 
 ## 備註
 

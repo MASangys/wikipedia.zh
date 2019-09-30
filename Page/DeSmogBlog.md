@@ -1,3 +1,5 @@
+<noinclude></noinclude>
+
 **DeSmogBlog**是一个关注[全球变暖](../Page/全球变暖.md "wikilink")相关话题的[博客](https://zh.wikipedia.org/wiki/博客 "wikilink")，成立于2006年1月。DeSmogBlog反对所谓的“资金充足、组织严密的公共关系运动”和[全球暖化否定说](../Page/全球暖化否定說.md "wikilink")，称其正在“毒害”[地球暖化的争议](../Page/地球暖化爭議.md "wikilink")。\[1\]\[2\]该网站由[加拿大](../Page/加拿大.md "wikilink")[不列颠哥伦比亚省](https://zh.wikipedia.org/wiki/不列颠哥伦比亚省 "wikilink")[温哥华一家](https://zh.wikipedia.org/wiki/温哥华 "wikilink")[公关公司的总裁](https://zh.wikipedia.org/wiki/公关 "wikilink")[詹姆斯·霍根联合创办](../Page/詹姆斯·霍根_\(公共关系专家\).md "wikilink")。
 
 ## 内容

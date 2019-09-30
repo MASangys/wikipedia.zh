@@ -25,4 +25,4 @@
 | 哈克雅（CV：[早見沙織](../Page/早見沙織.md "wikilink")） | 《[「只有神知道的世界」CHARACTER COVER ALBUM ～選曲：若木民喜～](../Page/只有神知道的世界音樂作品.md "wikilink")》 | 2011年                             |                               |
 | [鹿野優以](../Page/鹿野優以.md "wikilink")         | 《動畫神曲+》（）                                                                         | 2014年                             |                               |
 
-[Category:1988年單曲](https://zh.wikipedia.org/wiki/Category:1988年單曲 "wikilink") [Category:讀賣電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:讀賣電視台動畫主題曲 "wikilink") [Category:天使題材樂曲](https://zh.wikipedia.org/wiki/Category:天使題材樂曲 "wikilink")
+[Category:1988年單曲](https://zh.wikipedia.org/wiki/Category:1988年單曲 "wikilink") [Category:讀賣電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:讀賣電視台動畫主題曲 "wikilink") [Category:天使題材樂曲](https://zh.wikipedia.org/wiki/Category:天使題材樂曲 "wikilink") [Category:Sony_Music_Records歌曲](https://zh.wikipedia.org/wiki/Category:Sony_Music_Records歌曲 "wikilink") [Category:城市猎人](https://zh.wikipedia.org/wiki/Category:城市猎人 "wikilink")

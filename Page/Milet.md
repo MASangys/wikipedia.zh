@@ -1,4 +1,4 @@
-**milet**，[日本](../Page/日本.md "wikilink")女性[创作歌手](https://zh.wikipedia.org/wiki/创作歌手 "wikilink")，个人-{zh-cn:信息;zh-tw:資訊;}-均不公开\[1\]，2019年出道。为[日本索尼音乐旗下艺人](https://zh.wikipedia.org/wiki/日本索尼音乐 "wikilink")。
+**milet**，[日本](../Page/日本.md "wikilink")女性[创作歌手](https://zh.wikipedia.org/wiki/创作歌手 "wikilink")\[1\]，2019年出道。为[日本索尼音乐旗下艺人](https://zh.wikipedia.org/wiki/日本索尼音乐 "wikilink")。
 
 ## 经历
 

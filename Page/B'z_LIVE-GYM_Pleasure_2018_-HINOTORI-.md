@@ -14,6 +14,8 @@
 
 被每日替換演奏的「[ZERO](../Page/ZERO_\(B'z單曲\).md "wikilink")」\[6\]，未收錄於本作中\[7\]。
 
+在附屬的小冊子中，刊登了「HINOTORI」的歌詞，但除此以外的樂曲之歌詞皆無登載。
+
 在Oricon影像榜(綜合・2019年3月25日)上，以首週銷量紀錄44,613張DVD、70,725張Blu-ray，超越了前作『[B'z LIVE-GYM 2017-2018 "LIVE DINOSAUR"](../Page/B'z_LIVE-GYM_2017-2018_"LIVE_DINOSAUR".md "wikilink")』的銷量紀錄，並達成雙項冠軍。
 
 ## 演奏

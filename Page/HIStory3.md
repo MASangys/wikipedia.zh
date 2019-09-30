@@ -83,15 +83,15 @@
 <td><center>
 <p><a href="../Page/卞慶華.md" title="wikilink">卞慶華</a></p></td>
 <td><center>
-<p>Jack 方亮典</p></td>
-<td><p>唐毅的得力左右手，也是唐毅的貼身保鑣，協助唐毅進行行天盟的漂白工作。真相是國際刑警科隊員臥底，個性亦正亦邪，當過傭兵的他，利益絕對是優先考量，無謂生死，只想享受當下，看盡人性的黑暗，為達目的在所不惜。 由於少飛糾纏著唐毅，因此認識被自己一騙再騙還是上當的傻子趙立安，他很好奇身為刑警的趙子，在看過這麼多現實險惡之後，居然還能抱持著人性本善的初衷？因此被他的單純吸引，為了守護這份純真，因此開始有定下來的念頭。在第19集如願跟趙子交往</p></td>
+<p>Jack (方亮典)</p></td>
+<td><p>唐毅的得力左右手，也是唐毅的貼身保鑣，協助唐毅進行行天盟的漂白工作。真相是國際刑警科隊員臥底，個性亦正亦邪，當過傭兵的他，利益絕對是優先考量，無謂生死，只想享受當下，看盡人性的黑暗，為達目的在所不惜。 由於少飛糾纏著唐毅，因此認識被自己一騙再騙還是上當的傻子趙立安，他很好奇身為刑警的趙子，在看過這麼多現實險惡之後，居然還能抱持著人性本善的初衷？因此被他的單純吸引，為了守護這份純真，因此開始有定下來的念頭。</p></td>
 </tr>
 <tr class="odd">
 <td><center>
 <p><a href="../Page/陳廷軒_(演員).md" title="wikilink">陳廷軒</a></p></td>
 <td><center>
 <p>趙立安</p></td>
-<td><p>綽號趙子，偵三隊隊員，孟少飛的搭檔。外表無害的柴犬系男子。個性有點迷糊但天真樂觀，凡事看得開、善良過頭的老實人。功夫一般般，但擅長數位科技，跟少飛搭擋，一個用腦一個用武，合作無間。 就算身為刑警，看盡人性的黑暗面，雖會失落會受傷，但仍堅信著人性本善，每個人都有苦衷才會犯錯。有著純良性格之外，本身還是個大吃貨，被Jack的廚技深深吸引，成功圈走了他的胃也套住他的心。 在第19集跟Jack坦白心意，進而交往</p></td>
+<td><p>綽號趙子，偵三隊隊員，孟少飛的搭檔。外表無害的柴犬系男子。個性有點迷糊但天真樂觀，凡事看得開、善良過頭的老實人。功夫一般般，但擅長數位科技，跟少飛搭擋，一個用腦一個用武，合作無間。 就算身為刑警，看盡人性的黑暗面，雖會失落會受傷，但仍堅信著人性本善，每個人都有苦衷才會犯錯。有著純良性格之外，本身還是個大吃貨，被Jack的廚技深深吸引，成功圈走了他的胃也套住他的心。</p></td>
 </tr>
 <tr class="even">
 <td><center>
@@ -310,18 +310,6 @@
 <p>偵三班底</p></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><center>
-<p><a href="../Page/邱志宇.md" title="wikilink">邱志宇</a></p></td>
-<td><center>
-<p>江兆鵬</p></td>
-<td><p>是奕杰的好朋友，江勁堂的小叔公，目前正在馬里考古。</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
 </tbody>
 </table>
 
@@ -407,7 +395,7 @@
   - 導演：李青蓉
   - 製作公司：巧克科技新媒體
 
-## 那一天
+## 那一天（Make Our Days Count）
 
 ### 劇情大綱
 
@@ -429,28 +417,28 @@
 <td><center>
 <p><a href="../Page/宋緯恩.md" title="wikilink">宋緯恩</a></p></td>
 <td><center>
-<p>向豪廷</p></td>
-<td><p>個性不羈，是很多女生喜歡的學校風雲人物</p></td>
+<p>項豪廷</p></td>
+<td><p>個性不羈，是很多女生喜歡的學校風雲人物。 與于希顧的個性截然相反，他想盡辦法做出幼稚的事情只為了想看個性冷淡如冰的于希顧臉上的笑容。</p></td>
 </tr>
 <tr class="odd">
 <td><center>
 <p>黃雋智</p></td>
 <td><center>
 <p>-{于}-希顧</p></td>
-<td><p>個性內斂的獨行俠</p></td>
+<td><p>個性內斂的獨行俠。 與項豪廷為了一個叫李思妤的女孩而不打不相識，從此有了緣分。</p></td>
 </tr>
 <tr class="even">
-<td><center>
-<p>劉韋辰</p></td>
-<td><center>
-<p>孫博翔</p></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><center>
 <p><a href="../Page/張瀚元.md" title="wikilink">張瀚元</a></p></td>
 <td><center>
 <p>盧志剛</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><center>
+<p>劉韋辰</p></td>
+<td><center>
+<p>孫博翔</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -467,43 +455,62 @@
 </tr>
 <tr class="even">
 <td><center>
+<p>王真琳</p></td>
+<td><center>
+<p>李思妤</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><center>
 <p>何禹賢</p></td>
 <td><center></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><center>
 <p>蔡曜仲</p></td>
 <td><center></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><center>
 <p><a href="../Page/陳如山.md" title="wikilink">陳如山</a></p></td>
 <td><center></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><center>
 <p>石承鎬</p></td>
 <td><center></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><center>
 <p><a href="../Page/紀欣伶.md" title="wikilink">紀欣伶</a></p></td>
 <td><center></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><center>
 <p>孫英豪</p></td>
 <td><center></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><center>
 <p>-{<a href="https://zh.wikipedia.org/wiki/于子育" title="wikilink">于子育</a>}-</p></td>
+<td><center></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><center>
+<p>-{<a href="../Page/陳禕倫.md" title="wikilink">陳禕倫</a>}-</p></td>
+<td><center></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><center>
+<p>-{<a href="../Page/明杰.md" title="wikilink">明杰</a>}-</p></td>
 <td><center></td>
 <td></td>
 </tr>
@@ -524,9 +531,9 @@
 
   - 出品人：
   - 導演：蔡宓洁
-  - 編劇：林珮瑜
-  - 監製：
-  - 製作人：
+  - 編劇：邵慧婷
+  - 監製：張庭斐
+  - 製作人：葉昱呈
   - 製作公司：巧克科技新媒體
 
 ## 紀事
@@ -540,7 +547,10 @@
   - 2019年5月16日《那一天》開鏡。
   - 2019年6月12日《圈套》完結篇。
   - 2019年6月29日《圈套》臺北場見面會。
-  - 2019年6月29日《那一天》殺青。
+  - 2019年6月29日《那一天》殺青。哈哈
+
+<!-- end list -->
+
   - 2019年7月14日《圈套》成都場見面會。
   - 2019年7月21日《圈套》杭州場見面會。
   - 2019年8月10日《圈套》曼谷場見面會。

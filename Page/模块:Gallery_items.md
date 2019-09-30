@@ -32,7 +32,6 @@ function p.main(frame)
 `               item`
 `                   :tag('div')`
 `                   :addClass('gallerytext')`
-`                   :css('width', (args['width' .. k] or width) .. 'px')`
 `                   :css('text-align', args['captionalign'])`
 `                   :wikitext('`
 

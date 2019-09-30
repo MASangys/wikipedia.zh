@@ -113,7 +113,7 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>2019/07/17</p></td>
-<td><p>1.128%</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
@@ -148,7 +148,7 @@
 <tr class="even">
 <td><p>8</p></td>
 <td><p>2019/09/04</p></td>
-<td><p>%</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td></td>

@@ -80,16 +80,47 @@
 <tr class="odd">
 <td><p>5th</p></td>
 <td><p>2019年9月4日</p></td>
-<td><p><strong>RUST / 雲雀 / 光芒</strong></p></td>
+<td></td>
 <td><p>VVCL-1505/1506</p></td>
 <td><p>VVCL-1507</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>雲雀 / RUST / 光芒</strong></p></td>
+<td><p>雲雀/RUST/光芒</p></td>
 <td></td>
 <td></td>
 <td><p>VVCL-1508/1509</p></td>
 <td></td>
+</tr>
+</tbody>
+</table>
+
+### 单曲 
+
+<table>
+<thead>
+<tr class="header">
+<th></th>
+<th><p>发售日</p></th>
+<th><p>标题</p></th>
+<th><p>编号</p></th>
+<th><p>最高位</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>首发限量盘</p></td>
+<td><p>通常盘</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1st</p></td>
+<td><p>2019年11月6日</p></td>
+<td><p>百歌繚乱</p></td>
+<td><p>MATO-1323（初回限定盤A）<br />
+MATO-1324（初回限定盤B）</p></td>
+<td><p>MATO-1325</p></td>
 </tr>
 </tbody>
 </table>

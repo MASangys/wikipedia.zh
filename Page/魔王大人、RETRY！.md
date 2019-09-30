@@ -38,7 +38,7 @@
   -
     女戰士，總是和雪風一起行動。
   -
-    魔法師，雖做女性裝扮，實際上是男性。
+    魔法師，雖做女性裝扮，實際上是男性，最喜歡引誘魔王。
   -
     S級的冒險者，職業是僧侶。有著中二病氣質。
   -
@@ -263,11 +263,53 @@ Chotanan Pipobworachai<br />
 <td></td>
 </tr>
 <tr class="even">
+<td><p>第8話</p></td>
 <td></td>
+<td><p>魔王的躍動</p></td>
+<td><p>富永恒雄</p></td>
+<td><p>粟井重紀</p></td>
+<td><p>J.S.PARK、C.G.LIM<br />
+G.S.CHOI</p></td>
 <td></td>
+</tr>
+<tr class="odd">
+<td><p>第9話</p></td>
 <td></td>
+<td><p>活躍的詐欺師和大金幣</p></td>
+<td><p>木村寬</p></td>
+<td><p>飯田崇</p></td>
+<td><p>葛西良信</p></td>
+<td><p>青木真理子、齊藤香織<br />
+大谷理惠、古川博之<br />
+宮曉秀</p></td>
+</tr>
+<tr class="even">
+<td><p>第10話</p></td>
 <td></td>
+<td><p>夫人，咆哮</p></td>
+<td><p>舛田弦太郎</p></td>
 <td></td>
+<td><p>赤井倍人</p></td>
+<td><p>服部益實、古川博之<br />
+宮曉秀、rere、Cerberus<br />
+Suwarin Promjutikanon<br />
+Chotanan Pipobworachai</p></td>
+</tr>
+<tr class="odd">
+<td><p>第11話</p></td>
+<td></td>
+<td><p>雪風來襲</p></td>
+<td><p>佐佐木勅嘉</p></td>
+<td><p>伊藤文雄</p></td>
+<td><p>H.W.JOO、S.K.LIM</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>第12話</p></td>
+<td></td>
+<td><p>白天使與魔王大人</p></td>
+<td><p>木村寬、大島美穗</p></td>
+<td><p>佐佐木綾香、齋藤和也</p></td>
 <td></td>
 <td></td>
 </tr>

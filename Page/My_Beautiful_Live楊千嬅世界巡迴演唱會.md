@@ -138,7 +138,7 @@
 <td><p>2019年8月10日</p></td>
 <td><p><a href="../Page/杭州市.md" title="wikilink">杭州</a></p></td>
 <td><p><a href="../Page/黄龙体育中心.md" title="wikilink">黃龍體育館</a></p></td>
-<td><p>6000</p></td>
+<td><p>6500</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -165,7 +165,7 @@
 <td><p>2019年8月31日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/长沙市" title="wikilink">大連</a></p></td>
 <td><p><a href="../Page/大连体育中心.md" title="wikilink">大連體育中心體育館</a></p></td>
-<td></td>
+<td><p>10000</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -174,7 +174,7 @@
 <td><p>2019年9月7日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/上海市" title="wikilink">上海</a></p></td>
 <td><p><a href="../Page/虹口足球场.md" title="wikilink">虹口足球場</a></p></td>
-<td></td>
+<td><p>18000</p></td>
 <td><p><small>室外體育場</small></p></td>
 <td></td>
 </tr>
@@ -183,21 +183,12 @@
 <td><p>2019年9月14日</p></td>
 <td><p><a href="../Page/汕头市.md" title="wikilink">汕頭</a></p></td>
 <td><p>汕頭歡樂世界·藍水星主題公園室外停車場</p></td>
-<td></td>
+<td><p>15000</p></td>
 <td><p><small>室外</small></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>18</p></td>
-<td><p>2019年</p></td>
-<td><p><a href="../Page/重庆市.md" title="wikilink">長沙</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>19</p></td>
 <td><p>2019年10月3日</p></td>
 <td></td>
 <td><p><a href="../Page/墨尔本.md" title="wikilink">墨爾本</a></p></td>
@@ -205,8 +196,8 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>20</p></td>
+<tr class="odd">
+<td><p>19</p></td>
 <td><p>2019年10月6日</p></td>
 <td><p><a href="../Page/悉尼.md" title="wikilink">悉尼</a></p></td>
 <td><p>The Star Event Centre</p></td>
@@ -214,8 +205,8 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>21</p></td>
+<tr class="even">
+<td><p>20</p></td>
 <td><p>2019年10月9日</p></td>
 <td></td>
 <td><p><a href="../Page/奧克蘭_(紐西蘭).md" title="wikilink">奧克蘭</a></p></td>
@@ -223,48 +214,75 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>22</p></td>
-<td><p>2019年10月26日</p></td>
+<tr class="odd">
+<td><p>21</p></td>
+<td><p>2019年11月2日</p></td>
 <td></td>
-<td><p><a href="../Page/江门市.md" title="wikilink">江門</a></p></td>
-<td><p>江門濱江體育中心體育場</p></td>
+<td><p><a href="../Page/南宁市.md" title="wikilink">南寧</a></p></td>
+<td><p>廣西體育中心主體育場</p></td>
 <td></td>
 <td><p><small>室外體育場</small></p></td>
 </tr>
+<tr class="even">
+<td><p>22</p></td>
+<td><p>2019年11月9日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/武漢市" title="wikilink">武漢</a></p></td>
+<td><p>光谷國際網球中心</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 <tr class="odd">
 <td><p>23</p></td>
-<td><p>2019年</p></td>
-<td><p><a href="../Page/昆明市.md" title="wikilink">昆明</a></p></td>
-<td></td>
+<td><p>2019年11月16日</p></td>
+<td><p><a href="../Page/成都市.md" title="wikilink">成都</a></p></td>
+<td><p>五粮液成都金融城演藝中心</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>24</p></td>
-<td><p>2019年11月2日</p></td>
-<td><p><a href="../Page/南宁市.md" title="wikilink">南寧</a></p></td>
-<td><p>廣西體育中心主體育場</p></td>
+<td><p>2019年11月22日</p></td>
 <td></td>
-<td><p><small>室外體育場</small></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/多倫多" title="wikilink">多倫多</a></p></td>
+<td><p>Coca-Cola Coliseum</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>25</p></td>
-<td><p>2019年11月16日</p></td>
-<td><p><a href="../Page/成都市.md" title="wikilink">成都</a></p></td>
+<td><p>2019年11月27日</p></td>
 <td></td>
-<td></td>
+<td><p><a href="../Page/大西洋城.md" title="wikilink">大西洋城</a></p></td>
+<td><p>Hard Rock Live at Etess Arena</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>26</p></td>
-<td><p>2019年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/武漢" title="wikilink">武漢</a></p></td>
+<td><p>2019年11月30日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/拉斯維加斯" title="wikilink">拉斯維加斯</a></p></td>
+<td><p>Grand Garden Arena</p></td>
 <td></td>
 <td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>27</p></td>
+<td><p>2019年12月2日</p></td>
+<td></td>
+<td><p><a href="../Page/溫哥華.md" title="wikilink">溫哥華</a></p></td>
+<td><p><a href="../Page/奧芬劇院.md" title="wikilink">奧芬劇院</a> The Orpheum</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>28</p></td>
+<td><p>2019年12月29日</p></td>
+<td></td>
+<td><p><a href="../Page/天津市.md" title="wikilink">天津</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/天津體育館" title="wikilink">天津體育館</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -281,7 +299,7 @@
 
 **廣州站2019年3月30日**
 
-**珠海站2019年4月13日**  **𦘦慶站2019年5月11日****湛江站2019年5月18日****深圳站2019年5月24日/25日****佛山站2019年6月14日/15日****澳門站2019年6月22日/23日****北京站2019年6月29日****杭州站2019年8月10日**
+**珠海站2019年4月13日**  **𦘦慶站2019年5月11日****湛江站2019年5月18日****深圳站2019年5月24日/25日****佛山站2019年6月14日/15日****澳門站2019年6月22日/23日****北京站2019年6月29日****杭州站2019年8月10日****南京站2019年8月17日** **惠州站2019年8月24日** **大連站2019年8月31日** **上海站2019年9月7日****汕頭站2019年9月14日**
 
 ## 參考資料
 

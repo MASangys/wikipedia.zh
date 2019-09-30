@@ -27,7 +27,7 @@
 <tr class="even">
 <td><p><a href="../Page/只要長得可愛，即使是變態你也喜歡嗎？.md" title="wikilink">只要長得可愛，即使是變態你也喜歡嗎？</a></p></td>
 <td></td>
-<td><p>2019年7月8日－播放中</p></td>
+<td><p>2019年7月8日－9月23日</p></td>
 <td><p>轻小说</p></td>
 <td><p>12</p></td>
 <td></td>

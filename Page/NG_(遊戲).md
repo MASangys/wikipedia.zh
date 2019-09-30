@@ -1,4 +1,4 @@
-是由公司製作的[恐怖](../Page/恐怖遊戲.md "wikilink")[冒險遊戲](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")，2018年9月13日於[PlayStation Vita平台發售](../Page/PlayStation_Vita.md "wikilink")，2019年2月21日於[PlayStation 4發售](../Page/PlayStation_4.md "wikilink")。本作是「心靈驚悚系列」的第二部作品，系列前作是《[死印](../Page/死印.md "wikilink")》。
+是由公司製作的[恐怖](../Page/恐怖遊戲.md "wikilink")[冒險遊戲](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")，2018年9月13日於[PlayStation Vita平台發售](../Page/PlayStation_Vita.md "wikilink")，2019年2月21日於[PlayStation 4發售](../Page/PlayStation_4.md "wikilink")，2019年10月於[任天堂Switch](../Page/任天堂Switch.md "wikilink")與[Windows平台發售](https://zh.wikipedia.org/wiki/Windows "wikilink")。本作是「心靈驚悚系列」的第二部作品，系列前作是《[死印](../Page/死印.md "wikilink")》。
 
 ## 故事背景
 

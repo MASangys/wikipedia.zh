@@ -2,7 +2,7 @@
 
 ## 簡介
 
-張志祺（ 1991 年 6 月 1 日－），圖文不符、簡訊設計、志祺七七共同創辦人，台灣著名資訊設計師、社群行銷企劃師、青年創業家，與時事評論型YouTuber。
+張志祺（1991年6月1日－），圖文不符、簡訊設計、志祺七七共同創辦人，台灣著名資訊設計師、社群行銷企劃師、青年創業家，與時事評論型YouTuber。
 
 簡訊設計成立早期主要以[圖文不符為名義](https://zh.wikipedia.org/wiki/圖文不符 "wikilink")，製作關於[公共議題與](https://zh.wikipedia.org/wiki/公共議題 "wikilink")[政策](../Page/政策.md "wikilink")介紹的「懶人包」，後期發展成中大型設計行銷公司（40人以上），以讓資訊變得有趣、資訊變得好懂為目標，提供懶人包、解釋型動畫、互動網頁、社群行銷⋯等服務。同時也設計多項線上課程，包含了資訊設計思考力、百萬 YouTuber 的攻心剪輯術、社群力、接案學⋯等等。
 
@@ -30,24 +30,6 @@
 
 
 
-## 軼事
-
-腳趾：經營個人 IG 初期，團隊成員歡歡不知道要發什麼文而一直偷拍志祺的腳趾，最後意外受到歡迎，慢慢變成了志祺七七的頻道內梗。
-
-酸苦：喜愛很酸跟帶點苦味的食物。
-
-阿宅：非常熱愛風之谷跟驚爆危機這兩部作品，多次在個人 IG 上展示自己包含舊海報、模型、簽名、原畫⋯等收藏。曾經看過 7 次你的名字。
-
-大撒幣：有著到哪裡都會掉零錢的神奇被動技能。
-
-全身黑：從 2018/09/01 至今都穿著全身黑，自稱是因為這樣早上起床不用動腦想穿搭，很方便。
-
-生活實驗家：私底下是愛用飲料當培養皿的生活實驗家。
-
-雜亂：桌子很亂，亂到員工都受不了，但自從志祺開始把模型放到桌子上佈置後，有變乾淨的趨勢。
-
-
-
 ## 相關條目
 
   - [台灣YouTuber訂閱人數排行榜](https://zh.wikipedia.org/wiki/台灣YouTuber訂閱人數排行榜 "wikilink")
@@ -64,7 +46,7 @@
 
   -
 
-[Category:臺灣YouTuber](https://zh.wikipedia.org/wiki/Category:臺灣YouTuber "wikilink") [Category:YouTube頻道](https://zh.wikipedia.org/wiki/Category:YouTube頻道 "wikilink") [Category:國立成功大學校友](https://zh.wikipedia.org/wiki/Category:國立成功大學校友 "wikilink") [Category:張姓](https://zh.wikipedia.org/wiki/Category:張姓 "wikilink")
+[Category:臺灣YouTuber](https://zh.wikipedia.org/wiki/Category:臺灣YouTuber "wikilink") [Category:YouTube頻道](https://zh.wikipedia.org/wiki/Category:YouTube頻道 "wikilink") [Category:國立成功大學校友](https://zh.wikipedia.org/wiki/Category:國立成功大學校友 "wikilink") [Category:張姓](https://zh.wikipedia.org/wiki/Category:張姓 "wikilink") [Category:新竹人](https://zh.wikipedia.org/wiki/Category:新竹人 "wikilink") [Category:1991年出生](https://zh.wikipedia.org/wiki/Category:1991年出生 "wikilink")
 
 1.
 2.

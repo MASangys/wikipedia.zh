@@ -1,4 +1,4 @@
-《**少年悍將GO！大戰少年悍將**》 (***Teen Titans Go\! Vs. Teen Titans***) 是一部2019年[非影院首映的美國超級英雄動畫電影](https://zh.wikipedia.org/wiki/錄影帶首映 "wikilink")，基於《[少年悍將GO！](../Page/少年悍將GO！.md "wikilink")》的[同名漫畫改編](https://zh.wikipedia.org/wiki/少年悍將GO！_\(漫畫\) "wikilink")。華納兄弟宣布推出TTGO和原版2003版《[少年悍將](../Page/少年悍將_\(動畫\).md "wikilink")》的交叉版本\[1\]。2019年6月26日，IGN在YouTube上發布了獨家官方預告片\[2\] 。它於2019年7月21日在聖地亞哥動漫展首播，隨後於2019年9月24日發布數位版，10月15日發行DVD和藍光版\[3\]。
+《**少年悍將GO！大戰少年悍將**》（） 是一部2019年[非影院首映的美國超級英雄動畫電影](https://zh.wikipedia.org/wiki/錄影帶首映 "wikilink")，基於《[少年悍將GO！](../Page/少年悍將GO！.md "wikilink")》的[同名漫畫改編](https://zh.wikipedia.org/wiki/少年悍將GO！_\(漫畫\) "wikilink")。華納兄弟宣布推出TTGO和原版2003版《[少年悍將](../Page/少年悍將_\(動畫\).md "wikilink")》的交叉版本\[1\]。2019年6月26日，IGN在YouTube上發布了獨家官方預告片\[2\] 。它於2019年7月21日在聖地亞哥動漫展首播，隨後於2019年9月24日發布數位版，10月15日發行DVD和藍光版\[3\]。
 
 ## 角色
 
@@ -24,7 +24,7 @@
   -
 [分類:2019年非戲院首映電影](https://zh.wikipedia.org/wiki/分類:2019年非戲院首映電影 "wikilink") [分類:動畫跨界作品](https://zh.wikipedia.org/wiki/分類:動畫跨界作品 "wikilink") [分類:電影跨界作品](https://zh.wikipedia.org/wiki/分類:電影跨界作品 "wikilink") [分類:少年泰坦](https://zh.wikipedia.org/wiki/分類:少年泰坦 "wikilink")
 
-[Category:2010年代美國動畫電影](https://zh.wikipedia.org/wiki/Category:2010年代美國動畫電影 "wikilink") [Category:2019年美國電影](https://zh.wikipedia.org/wiki/Category:2019年美國電影 "wikilink") [Category:2019年動畫電影](https://zh.wikipedia.org/wiki/Category:2019年動畫電影 "wikilink") [Category:美國電影](https://zh.wikipedia.org/wiki/Category:美國電影 "wikilink") [Category:英語電影](https://zh.wikipedia.org/wiki/Category:英語電影 "wikilink") [Category:DC漫畫動畫](https://zh.wikipedia.org/wiki/Category:DC漫畫動畫 "wikilink")
+[Category:2010年代美國動畫電影](https://zh.wikipedia.org/wiki/Category:2010年代美國動畫電影 "wikilink") [Category:2019年美國動畫電影](https://zh.wikipedia.org/wiki/Category:2019年美國動畫電影 "wikilink") [Category:美國電影作品](https://zh.wikipedia.org/wiki/Category:美國電影作品 "wikilink") [Category:英語電影](https://zh.wikipedia.org/wiki/Category:英語電影 "wikilink") [Category:DC漫畫動畫](https://zh.wikipedia.org/wiki/Category:DC漫畫動畫 "wikilink")
 
 1.
 2.

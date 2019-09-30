@@ -27,7 +27,7 @@
 
 ### 第一屆（2019年）
 
-  - 年度風雲歌手：[AGA](../Page/江海迦.md "wikilink")、[C AllStar](../Page/C_AllStar.md "wikilink")、[陳奕迅](../Page/陳奕迅.md "wikilink")（沒有出席）、[Gin Lee](../Page/李幸倪.md "wikilink")、[HANA菊梓喬](../Page/菊梓喬.md "wikilink")、[張敬軒](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")、[胡鴻鈞](https://zh.wikipedia.org/wiki/胡鴻鈞 "wikilink")、[陳柏宇](../Page/陳柏宇.md "wikilink")、[容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")、[楊千嬅](../Page/楊千嬅.md "wikilink")（沒有出席）
+  - 年度風雲歌手：[AGA](../Page/江海迦.md "wikilink")、[C AllStar](../Page/C_AllStar.md "wikilink")、[陳奕迅](../Page/陳奕迅.md "wikilink")（沒有出席）、[Gin Lee](../Page/李幸倪.md "wikilink")、[HANA菊梓喬](../Page/菊梓喬.md "wikilink")、[張敬軒](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")、[胡鴻鈞](https://zh.wikipedia.org/wiki/胡鴻鈞 "wikilink")、[陳柏宇](../Page/陳柏宇.md "wikilink")、[容祖兒](../Page/容祖兒.md "wikilink")、[楊千嬅](../Page/楊千嬅.md "wikilink")（沒有出席）
   - 年度新人：[曾樂彤](../Page/曾樂彤.md "wikilink")
   - 年度編輯推薦歌手：[鄧小巧](https://zh.wikipedia.org/wiki/鄧小巧 "wikilink")
   - 風雲大使：[盧廣仲](../Page/盧廣仲.md "wikilink")、[謝安琪](../Page/謝安琪.md "wikilink")、[Supper Moment](https://zh.wikipedia.org/wiki/Supper_Moment "wikilink")、[蔡健雅](https://zh.wikipedia.org/wiki/蔡健雅 "wikilink")

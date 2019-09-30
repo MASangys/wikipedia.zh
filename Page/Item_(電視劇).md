@@ -21,7 +21,7 @@
 |                                  |        |                                                                                |                                                     |
 | -------------------------------- | ------ | ------------------------------------------------------------------------------ | --------------------------------------------------- |
 | **演員**                           | **角色** | **介紹**                                                                         | **香港配音**                                            |
-| [申隣雅](../Page/申隣雅.md "wikilink") | 姜多仁    | 姜坤的侄女，個性內向、喜歡讀書的十歲女孩。四歲時因交通意外失去雙親受到打擊因而罹患「緘口症」有口難言，與叔叔姜坤住在一起。後來被趙世皇設計成為植物人及去世。 |                                                     |
+| [申隣雅](../Page/申隣雅.md "wikilink") | 姜多仁    | 姜坤的侄女，個性內向、喜歡讀書的十歲女孩。四歲時因交通意外失去雙親受到打擊因而罹患「緘口症」有口難言，與叔叔姜坤住在一起。後來被趙世皇設計成為植物人及去世。 | [姜嘉蕾](../Page/姜嘉蕾.md "wikilink")                    |
 | [李承俊](../Page/李承俊.md "wikilink") |        | 姜坤的哥哥，與妻子在車禍中逝世，將女兒托付姜坤。                                                       | [蔡威賢](https://zh.wikipedia.org/wiki/蔡威賢 "wikilink") |
 |                                  |        |                                                                                |                                                     |
 
@@ -91,7 +91,7 @@
 <td></td>
 <td><p>河勝木</p></td>
 <td><p>前消防員, 對往事有一陣愧疚。</p></td>
-<td></td>
+<td><p><a href="../Page/杜景煜.md" title="wikilink">杜景煜</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/尹宥善.md" title="wikilink">尹宥善</a></p></td>
@@ -121,7 +121,7 @@
 <td><p><a href="../Page/崔權.md" title="wikilink">崔權</a></p></td>
 <td><p>金大洪</p></td>
 <td><p>廣域搜查隊刑警。</p></td>
-<td><p><a href="../Page/馮瀚輝.md" title="wikilink">馮瀚輝</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蔡威賢" title="wikilink">蔡威賢</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>林英植</p></td>
@@ -145,7 +145,7 @@
 <td><p><a href="../Page/金炳基.md" title="wikilink">金炳基</a></p></td>
 <td><p>趙觀</p></td>
 <td><p>趙世皇之父。</p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃志明" title="wikilink">黃志明</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/李正賢" title="wikilink">李正賢</a></p></td>
@@ -167,17 +167,23 @@
 </tr>
 <tr class="even">
 <td></td>
-<td></td>
+<td><p>尹素熙</p></td>
 <td><p>刑警影像分析官。</p></td>
 <td><p><a href="../Page/王綺婷.md" title="wikilink">王綺婷</a></p></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td><p>金京熙</p></td>
+<td><p>法醫。</p></td>
+<td><p><a href="../Page/黃鳳英.md" title="wikilink">黃鳳英</a></p></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/李主儐" title="wikilink">李主儐</a></p></td>
 <td></td>
 <td><p>會變身的女殺手。</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

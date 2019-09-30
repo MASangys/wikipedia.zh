@@ -43,7 +43,7 @@ end
 
 local tamplateAlias = {
 
-`   '[Ww]iki[Pp]roject[ _][Vv]ideo[ _]games',`
+`   '[Ww]iki[Pp]roject[ _][Vv]ideo[ _][Gg]ames',`
 `   '[电電]子[游遊][戏戲][专專][题題]',`
 `   '[电電]子[游遊][戏戲]',`
 `   'WPVG',`

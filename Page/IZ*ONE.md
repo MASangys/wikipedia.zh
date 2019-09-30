@@ -10,7 +10,7 @@
 
   - 出道前：組合轉由新公司負責活動營運、三位日本成員暫停AKB48家族活動並以專任組合活動
 
-IZ\*ONE是通過2018年6月15日至8月31日在Mnet播出的生存[實境節目](../Page/真人實境秀.md "wikilink")《[PRODUCE 48](../Page/PRODUCE_48.md "wikilink")》而成立的。由12名成員組成為期兩年半的限定女子團體\[6\]，组合于韩国的唱片公司为。节目播出期間，Pledis娛樂曾表示将负责组合在韩国的營運，但於9月21日时，组合公告其韩國營運方轉由新成立的Off The Record娛樂担任\[7\]。而AKB48營運方則在9月24日公告IZ\*ONE日本成員宮脇咲良、矢吹奈子、本田仁美三人將在参加由宮脇担任Center、其余两人担任前排站位的AKB48第54张单曲《[NO WAY MAN](../Page/NO_WAY_MAN.md "wikilink")》后暫停AKB48家族活動，專注IZ\*ONE團體活動\[8\]。
+IZ\*ONE是通過2018年6月15日至8月31日在Mnet播出的生存[實境節目](../Page/真人實境秀.md "wikilink")《[PRODUCE 48](../Page/PRODUCE_48.md "wikilink")》而成立的。由12名成員組成為期兩年半的限定女子團體\[6\]，组合于韩国的唱片公司为[Stone Music娛樂](https://zh.wikipedia.org/wiki/Stone_Music娛樂 "wikilink")。节目播出期間，Pledis娛樂曾表示将负责组合在韩国的營運，但於9月21日时，组合公告其韩國營運方轉由新成立的Off The Record娛樂担任\[7\]。而AKB48營運方則在9月24日公告IZ\*ONE日本成員宮脇咲良、矢吹奈子、本田仁美三人將在参加由宮脇担任Center、其余两人担任前排站位的AKB48第54张单曲《[NO WAY MAN](../Page/NO_WAY_MAN.md "wikilink")》后暫停AKB48家族活動，專注IZ\*ONE團體活動\[8\]。
 
   - 正式出道：首張迷你專輯《[COLOR\*IZ](../Page/COLOR*IZ.md "wikilink")》、出道團綜 、女團最快一位紀錄
 
@@ -94,18 +94,19 @@ IZ\*ONE是通過2018年6月15日至8月31日在Mnet播出的生存[實境節目]
 
 #### 音樂錄影帶
 
-| 年份          | 發佈日期                                                        | 收录于                                                           | 歌曲             | 備註     |
-| ----------- | ----------------------------------------------------------- | ------------------------------------------------------------- | -------------- | ------ |
-| 2018年       | 10月29日                                                      | 《[COLOR\*IZ](../Page/COLOR*IZ.md "wikilink")》                 | La Vie en Rose | \[43\] |
-| 11月8日       | Performance Ver\[44\]                                       |                                                               |                |        |
-| 2019年       | 1月25日                                                       | 《[想让你说喜欢我](https://zh.wikipedia.org/wiki/想让你说喜欢我 "wikilink")》 | 想让你说喜欢我        | \[45\] |
-| 2月6日        | 好心情莎哟娜啦                                                     | 只收录于单曲附属DVD\[46\]                                             |                |        |
-| 想变成一只猫      |                                                             |                                                               |                |        |
-| 4月1日        | 《[HEART\*IZ](../Page/HEART*IZ.md "wikilink")》               | Violeta                                                       | \[47\]         |        |
-| 7月19日       | Flower Ver.\[48\]                                           |                                                               |                |        |
-| 6月13日       | 《[Buenos Aires](../Page/Buenos_Aires_\(单曲\).md "wikilink")》 | Buenos Aires                                                  | \[49\]         |        |
-| 6月26日       | Target                                                      | 只收录于单曲附属DVD\[50\]                                             |                |        |
-| 年下Boyfriend |                                                             |                                                               |                |        |
+| 年份          | 發佈日期                                                                 | 收录于                                                           | 歌曲             | 備註     |
+| ----------- | -------------------------------------------------------------------- | ------------------------------------------------------------- | -------------- | ------ |
+| 2018年       | 10月29日                                                               | 《[COLOR\*IZ](../Page/COLOR*IZ.md "wikilink")》                 | La Vie en Rose | \[43\] |
+| 11月8日       | Performance Ver\[44\]                                                |                                                               |                |        |
+| 2019年       | 1月25日                                                                | 《[想让你说喜欢我](https://zh.wikipedia.org/wiki/想让你说喜欢我 "wikilink")》 | 想让你说喜欢我        | \[45\] |
+| 2月6日        | 好心情莎哟娜啦                                                              | 只收录于单曲附属DVD\[46\]                                             |                |        |
+| 想变成一只猫      |                                                                      |                                                               |                |        |
+| 4月1日        | 《[HEART\*IZ](../Page/HEART*IZ.md "wikilink")》                        | Violeta                                                       | \[47\]         |        |
+| 7月19日       | Flower Ver.\[48\]                                                    |                                                               |                |        |
+| 6月13日       | 《[Buenos Aires](../Page/Buenos_Aires_\(单曲\).md "wikilink")》          | Buenos Aires                                                  | \[49\]         |        |
+| 6月26日       | Target                                                               | 只收录于单曲附属DVD\[50\]                                             |                |        |
+| 年下Boyfriend |                                                                      |                                                               |                |        |
+| 9月13日       | 《[Vampire](https://zh.wikipedia.org/wiki/Vampire_\(单曲\) "wikilink")》 | Vampire                                                       | \[51\]         |        |
 
 #### 练习室舞蹈影音
 
@@ -124,13 +125,13 @@ IZ\*ONE是通過2018年6月15日至8月31日在Mnet播出的生存[實境節目]
 <td><p>2018年</p></td>
 <td><p>10月5日</p></td>
 <td><p>《<a href="../Page/是我的_(PICK_ME).md" title="wikilink">是我的 (PICK ME)</a>》</p></td>
-<td><p>내꺼야 (PICK ME)[51]</p></td>
+<td><p>내꺼야 (PICK ME)[52]</p></td>
 <td><p>音源為<a href="../Page/PRODUCE_48.md" title="wikilink">PRODUCE 48版本</a></p></td>
 </tr>
 <tr class="even">
 <td><p>10月19日</p></td>
 <td><p>《<a href="../Page/30_Girls_6_Concepts.md" title="wikilink">30 Girls 6 Concepts</a>》</p></td>
-<td><p>Rumor[52]</p></td>
+<td><p>Rumor[53]</p></td>
 <td><p>權恩妃、崔叡娜、李彩演、金采源、金玟周出演<br />
 出道Show-Con特别版</p></td>
 <td></td>
@@ -138,13 +139,13 @@ IZ\*ONE是通過2018年6月15日至8月31日在Mnet播出的生存[實境節目]
 <tr class="odd">
 <td><p>11月3日</p></td>
 <td><p>《<a href="../Page/COLOR*IZ.md" title="wikilink">COLOR*IZ</a>》</p></td>
-<td><p>라비앙로즈 (La Vie en Rose)[53]</p></td>
+<td><p>라비앙로즈 (La Vie en Rose)[54]</p></td>
 <td><p>|</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>11月7日</p></td>
-<td><p>O' My![54]</p></td>
+<td><p>O' My![55]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -152,7 +153,7 @@ IZ\*ONE是通過2018年6月15日至8月31日在Mnet播出的生存[實境節目]
 <tr class="odd">
 <td><p>2019年</p></td>
 <td><p>1月4日</p></td>
-<td><p>라비앙로즈 (La Vie en Rose)[55]</p></td>
+<td><p>라비앙로즈 (La Vie en Rose)[56]</p></td>
 <td><p>2018 <a href="../Page/Mnet亞洲音樂大獎.md" title="wikilink">MAMA</a> 表演版本</p></td>
 <td></td>
 </tr>
@@ -160,12 +161,12 @@ IZ\*ONE是通過2018年6月15日至8月31日在Mnet播出的生存[實境節目]
 <td><p>4月7日</p></td>
 <td><p>《<a href="../Page/HEART*IZ.md" title="wikilink">HEART*IZ</a>》</p></td>
 <td><p>Violeta</p></td>
-<td><p>[56]</p></td>
+<td><p>[57]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>4月25日</p></td>
-<td><p>Close up Ver.[57]</p></td>
+<td><p>Close up Ver.[58]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -173,7 +174,7 @@ IZ\*ONE是通過2018年6月15日至8月31日在Mnet播出的生存[實境節目]
 <tr class="even">
 <td><p>5月18日</p></td>
 <td><p>Up</p></td>
-<td><p>[58]</p></td>
+<td><p>[59]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -220,7 +221,7 @@ IZ\*ONE是通過2018年6月15日至8月31日在Mnet播出的生存[實境節目]
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2018年11月5日－2019年6月10日</p></td>
+<td><p>2018年11月5日－</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Naver" title="wikilink">Naver V App</a>、<a href="../Page/YouTube.md" title="wikilink">YouTube</a></p></td>
 <td><p>《ENOZI Cam》</p></td>
 <td><p>全員</p></td>
@@ -236,15 +237,15 @@ IZ\*ONE是通過2018年6月15日至8月31日在Mnet播出的生存[實境節目]
 <tr class="even">
 <td><p>2019年1月6日、13日</p></td>
 <td><p><a href="../Page/AbemaTV.md" title="wikilink">AbemaTV</a></p></td>
-<td><p>《初次见面 IZ*ONE的第一步 in 日本》</p></td>
-<td><p>[59]</p></td>
+<td><p>《初次見面 IZ*ONE的第一步 in 日本》</p></td>
+<td><p>[60]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2019年1月18日/2月1日</p></td>
 <td><p>POOQ/SBS Mobidic</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Fandom_School_IZ*ONE_City" title="wikilink">Fandom School IZ*ONE City</a>》</p></td>
-<td><p>[60]</p></td>
+<td><p>《Fandom School IZ*ONE City》</p></td>
+<td><p>[61]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -259,34 +260,34 @@ IZ\*ONE是通過2018年6月15日至8月31日在Mnet播出的生存[實境節目]
 <td><p><a href="../Page/SHOWROOM.md" title="wikilink">SHOWROOM</a></p></td>
 <td><p>《IZ*ONE 1st单曲《想让你说喜欢我》发行纪念特番》</p></td>
 <td><p>全員</p></td>
-<td><p>[61]</p></td>
+<td><p>[62]</p></td>
 </tr>
 <tr class="even">
 <td><p>2019年2月10日</p></td>
 <td><p>AbemaTV</p></td>
 <td><p>《IZ*ONE 日本出道纪念！Talk&amp;Performance SP》</p></td>
-<td><p>[62]</p></td>
+<td><p>[63]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2019年3月21日－4月11日</p></td>
 <td><p>Mnet</p></td>
 <td><p>《<a href="../Page/IZ*ONE_CHU.md" title="wikilink">IZ*ONE CHU</a> 秘密的朋友》</p></td>
-<td><p>[63]</p></td>
+<td><p>[64]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2019年4月1日</p></td>
 <td><p>Mnet、M2、YouTube</p></td>
 <td><p>《 HEART TO 『HEART*IZ』》</p></td>
-<td><p>[64]</p></td>
+<td><p>[65]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2019年5月8日－</p></td>
+<td><p>2019年5月8日－9月11日</p></td>
 <td><p>YouTube</p></td>
 <td><p>《IZ*One Arcade》</p></td>
-<td><p>[65]</p></td>
+<td><p>[66]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -300,7 +301,7 @@ IZ\*ONE是通過2018年6月15日至8月31日在Mnet播出的生存[實境節目]
 <td><p>2019年6月27日</p></td>
 <td></td>
 <td><p>《IZ*ONE 日本2nd单曲发行纪念 特别脱口秀》</p></td>
-<td><p>[66]</p></td>
+<td><p>[67]</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -330,40 +331,46 @@ IZ\*ONE是通過2018年6月15日至8月31日在Mnet播出的生存[實境節目]
 <td><p>2018年</p></td>
 <td><p>手機遊戲“OVERHIT”</p></td>
 <td><p>全員</p></td>
-<td><p>[67]</p></td>
+<td><p>[68]</p></td>
 </tr>
 <tr class="even">
 <td><p>SALEWA 羽绒服</p></td>
-<td><p>[68]</p></td>
+<td><p>[69]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>SKOOLOOKS校服</p></td>
-<td><p>[69]</p></td>
+<td><p>[70]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2019年</p></td>
 <td><p>G Market</p></td>
-<td><p>[70]</p></td>
+<td><p>[71]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>游戏“FEVER BASKET”</p></td>
-<td><p>[71]</p></td>
+<td><p>[72]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p>[72]</p></td>
+<td><p>[73]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/突击风暴.md" title="wikilink">突击风暴</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/MAC_(化妆品)" title="wikilink">MAC</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -387,12 +394,12 @@ IZ\*ONE是通過2018年6月15日至8月31日在Mnet播出的生存[實境節目]
 <td><p>2019年2月5日〜24日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/109百货" title="wikilink">SHIBUYA109</a>“IZ*ONE 109 Valentine”</p></td>
 <td><p>全員</p></td>
-<td><p>[73]</p></td>
+<td><p>[74]</p></td>
 </tr>
 <tr class="even">
 <td><p>2019年3月5日〜18日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/罗森_(便利店)" title="wikilink">罗森</a>“IZ*ONE campaign”</p></td>
-<td><p>[74]</p></td>
+<td><p>[75]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -408,27 +415,27 @@ IZ\*ONE是通過2018年6月15日至8月31日在Mnet播出的生存[實境節目]
 
 ### 写真集
 
-  - IZ\*ONE PHOTOBOOK Secret Time（2019年3月22日发行、Stone Music Entertainment）\[75\]
+  - IZ\*ONE PHOTOBOOK Secret Time（2019年3月22日发行、Stone Music Entertainment）\[76\]
   - IZ\*ONE X IZE PHOTOBOOK 『ONE DAY』 (2019年9月2日发行、ize magazine)
 
 ### 杂志
 
   - 画报
 
-| 年份                                       | 名稱                                                          | 期數   | 參與成員 | 備註 |
-| ---------------------------------------- | ----------------------------------------------------------- | ---- | ---- | -- |
-| 2018年                                    | 《NYLON KOREA》                                               | 12月号 | 全體   |    |
-| 2019年                                    | 《[non-no](https://zh.wikipedia.org/wiki/non-no "wikilink")》 | 1月号  |      |    |
-| 《》                                       | 2月号                                                         |      |      |    |
-| 《non-no》                                 | 3月号                                                         |      |      |    |
-| 《[ViVi](../Page/ViVi.md "wikilink")》     |                                                             |      |      |    |
-| 《[CanCam](../Page/CanCam.md "wikilink")》 |                                                             |      |      |    |
+| 年份                                                         | 名稱                                                          | 期數   | 參與成員 | 備註 |
+| ---------------------------------------------------------- | ----------------------------------------------------------- | ---- | ---- | -- |
+| 2018年                                                      | 《NYLON KOREA》                                               | 12月号 | 全體   |    |
+| 2019年                                                      | 《[non-no](https://zh.wikipedia.org/wiki/non-no "wikilink")》 | 1月号  |      |    |
+| 《[JJ](https://zh.wikipedia.org/wiki/JJ_\(杂志\) "wikilink")》 | 2月号                                                         |      |      |    |
+| 《non-no》                                                   | 3月号                                                         |      |      |    |
+| 《[ViVi](../Page/ViVi.md "wikilink")》                       |                                                             |      |      |    |
+| 《[CanCam](../Page/CanCam.md "wikilink")》                   |                                                             |      |      |    |
 
   - 连载
 
 | 名稱                                                                           | 时间         | 參與成員 | 備註     |
 | ---------------------------------------------------------------------------- | ---------- | ---- | ------ |
-| 《[non-no](https://zh.wikipedia.org/wiki/non-no "wikilink")》“EYES ON IZ\*ONE” | 2019年3月号 - | 全體   | \[76\] |
+| 《[non-no](https://zh.wikipedia.org/wiki/non-no "wikilink")》“EYES ON IZ\*ONE” | 2019年3月号 - | 全體   | \[77\] |
 
 ## 演唱會
 
@@ -448,27 +455,27 @@ IZ\*ONE是通過2018年6月15日至8月31日在Mnet播出的生存[實境節目]
 <td><p>2018年10月29日</p></td>
 <td><p>IZ*ONE 'COLOR*IZ' SHOW-CON</p></td>
 <td></td>
-<td><p>[77]<br />
+<td><p>[78]<br />
 有直播</p></td>
 </tr>
 <tr class="even">
 <td><p>2019年1月20日</p></td>
 <td><p>《想让你说喜欢》Showcase</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MEETS_PORT#东京巨蛋城表演厅" title="wikilink">Tokyo Dome City Hall</a></p></td>
-<td><p>[78]<br />
+<td><p>[79]<br />
 2月6日于播出晚场录播</p></td>
 </tr>
 <tr class="odd">
 <td><p>2019年5月2、3日</p></td>
 <td><p>MX节「IZ*ONE JAPAN 1st Fan Meeting」</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/日本武道馆" title="wikilink">日本武道馆</a></p></td>
-<td><p>[79]</p></td>
+<td><p>[80]</p></td>
 </tr>
 <tr class="even">
 <td><p>2019年6月7-9日</p></td>
 <td><p>IZ*ONE 1ST CONCERT [EYES ON ME]</p></td>
 <td><p>首尔<a href="https://zh.wikipedia.org/wiki/首尔综合运动场" title="wikilink">蚕室室内体育馆</a></p></td>
-<td><p>[80]</p></td>
+<td><p>[81]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2019年6月16日</p></td>
@@ -491,13 +498,13 @@ IZ\*ONE是通過2018年6月15日至8月31日在Mnet播出的生存[實境節目]
 <tr class="even">
 <td><p>2019年8月21日</p></td>
 <td><p>千叶<a href="https://zh.wikipedia.org/wiki/幕张展览馆" title="wikilink">幕张展览馆</a></p></td>
-<td><p>[81]​​​​[82]</p></td>
+<td><p>[82]​​​​[83]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2019年9月1日</p></td>
 <td><p>兵庫</p></td>
-<td><p>昼夜两公演​​​​[83]</p></td>
+<td><p>昼夜两公演​​​​[84]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -519,17 +526,17 @@ IZ\*ONE是通過2018年6月15日至8月31日在Mnet播出的生存[實境節目]
 
 | 演出日期           | 活動名稱                                                                                        | 舉行地點                                                                                                                     | 備註           |
 | -------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ------------ |
-| 2018年11月28日    | [亞洲明星盛典](../Page/亞洲明星盛典.md "wikilink")                                                      | 韓国仁川南洞体育館                                                                                                                | \[84\]       |
-| 2018年12月10日    | [2018 MAMA PREMIERE in KOREA](https://zh.wikipedia.org/wiki/2018年Mnet亚洲音乐大奖 "wikilink")     | 韓国首尔[东大门设计广场](../Page/东大门设计广场.md "wikilink")                                                                             | \[85\]       |
-| 2018年12月12日    | [2018 MAMA FAN'S CHOICE in JAPAN](https://zh.wikipedia.org/wiki/2018年Mnet亚洲音乐大奖 "wikilink") | 日本[埼玉超级竞技场](https://zh.wikipedia.org/wiki/埼玉超级竞技场 "wikilink")                                                            | \[86\]       |
-| 2018年12月14日    | [2018 MAMA in HONG KONG](https://zh.wikipedia.org/wiki/2018年Mnet亚洲音乐大奖 "wikilink")          | [香港](../Page/香港.md "wikilink")[亚洲国际博览馆](https://zh.wikipedia.org/wiki/亚洲国际博览馆 "wikilink")                                | \[87\]       |
-| 2019年1月6日      | 第33届[金唱片獎](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")                                   | 韓国首尔[高尺巨蛋](https://zh.wikipedia.org/wiki/高尺巨蛋 "wikilink")                                                                | \[88\]       |
-| 2019年1月15日     | 第28届[首爾歌謠大賞](https://zh.wikipedia.org/wiki/首爾歌謠大賞 "wikilink")                               | \[89\]                                                                                                                   |              |
-| 2019年1月23日     | 第8届[Gaon Chart 音樂大獎](../Page/Gaon_Chart_K-POP大獎.md "wikilink")                              | 韓国首尔[蚕室室内体育館](https://zh.wikipedia.org/wiki/蚕室体育館 "wikilink")                                                            | \[90\]       |
-| 2019年4月4日      | [不朽的名曲：传说在歌唱](https://zh.wikipedia.org/wiki/不朽的名曲：传说在歌唱 "wikilink") 400回纪念特别演唱会 in Japan    | 日本千叶[幕张展览馆](https://zh.wikipedia.org/wiki/幕张展览馆 "wikilink")                                                              | \[91\]       |
-| 2019年4月28日     | SBS[人气歌谣](../Page/人气歌谣.md "wikilink")Super Concert                                          | [光州世界杯竞技场](https://zh.wikipedia.org/wiki/光州世界杯竞技场 "wikilink")                                                            | \[92\]       |
-| 2019年5月17、19日  | [KCON](https://zh.wikipedia.org/wiki/KCON "wikilink") 2019 JAPAN                            | 日本千叶幕张展览馆                                                                                                                | \[93\]\[94\] |
-| 2019年7月6日      | KCON 2019 NY                                                                                | [美国](../Page/美国.md "wikilink")[纽约](https://zh.wikipedia.org/wiki/纽约市 "wikilink")[麦迪逊广场花园](../Page/麦迪逊广场花园.md "wikilink") | \[95\]       |
+| 2018年11月28日    | [亞洲明星盛典](../Page/亞洲明星盛典.md "wikilink")                                                      | 韓国仁川南洞体育館                                                                                                                | \[85\]       |
+| 2018年12月10日    | [2018 MAMA PREMIERE in KOREA](https://zh.wikipedia.org/wiki/2018年Mnet亚洲音乐大奖 "wikilink")     | 韓国首尔[东大门设计广场](../Page/东大门设计广场.md "wikilink")                                                                             | \[86\]       |
+| 2018年12月12日    | [2018 MAMA FAN'S CHOICE in JAPAN](https://zh.wikipedia.org/wiki/2018年Mnet亚洲音乐大奖 "wikilink") | 日本[埼玉超级竞技场](https://zh.wikipedia.org/wiki/埼玉超级竞技场 "wikilink")                                                            | \[87\]       |
+| 2018年12月14日    | [2018 MAMA in HONG KONG](https://zh.wikipedia.org/wiki/2018年Mnet亚洲音乐大奖 "wikilink")          | [香港](../Page/香港.md "wikilink")[亚洲国际博览馆](https://zh.wikipedia.org/wiki/亚洲国际博览馆 "wikilink")                                | \[88\]       |
+| 2019年1月6日      | 第33届[金唱片獎](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")                                   | 韓国首尔[高尺巨蛋](https://zh.wikipedia.org/wiki/高尺巨蛋 "wikilink")                                                                | \[89\]       |
+| 2019年1月15日     | 第28届[首爾歌謠大賞](https://zh.wikipedia.org/wiki/首爾歌謠大賞 "wikilink")                               | \[90\]                                                                                                                   |              |
+| 2019年1月23日     | 第8届[Gaon Chart 音樂大獎](../Page/Gaon_Chart_K-POP大獎.md "wikilink")                              | 韓国首尔[蚕室室内体育館](https://zh.wikipedia.org/wiki/蚕室体育館 "wikilink")                                                            | \[91\]       |
+| 2019年4月4日      | [不朽的名曲：传说在歌唱](https://zh.wikipedia.org/wiki/不朽的名曲：传说在歌唱 "wikilink") 400回纪念特别演唱会 in Japan    | 日本千叶[幕张展览馆](https://zh.wikipedia.org/wiki/幕张展览馆 "wikilink")                                                              | \[92\]       |
+| 2019年4月28日     | SBS[人气歌谣](../Page/人气歌谣.md "wikilink")Super Concert                                          | [光州世界杯竞技场](https://zh.wikipedia.org/wiki/光州世界杯竞技场 "wikilink")                                                            | \[93\]       |
+| 2019年5月17、19日  | [KCON](https://zh.wikipedia.org/wiki/KCON "wikilink") 2019 JAPAN                            | 日本千叶幕张展览馆                                                                                                                | \[94\]\[95\] |
+| 2019年7月6日      | KCON 2019 NY                                                                                | [美国](../Page/美国.md "wikilink")[纽约](https://zh.wikipedia.org/wiki/纽约市 "wikilink")[麦迪逊广场花园](../Page/麦迪逊广场花园.md "wikilink") | \[96\]       |
 | 2019年8月1日      | [M2 X Genie音樂獎](../Page/M2_X_Genie音樂獎.md "wikilink")                                        | [首尔奥林匹克体操竞技场](../Page/首尔奥林匹克体操竞技场.md "wikilink")                                                                         |              |
 | 2019年8月3日      | 2019 [KB国民銀行](https://zh.wikipedia.org/wiki/国民银行 "wikilink") Liiv Concert                   |                                                                                                                          |              |
 | 2019年8月17日     | KCON 2019 LA                                                                                | [美国](../Page/美国.md "wikilink")[洛杉矶](../Page/洛杉矶.md "wikilink")[斯台普斯中心](../Page/斯台普斯中心.md "wikilink")                     |              |
@@ -540,12 +547,12 @@ IZ\*ONE是通過2018年6月15日至8月31日在Mnet播出的生存[實境節目]
 
 | 演出日期        | 活動名稱                                                                          | 舉行地點                                                        | 備註           |
 | ----------- | ----------------------------------------------------------------------------- | ----------------------------------------------------------- | ------------ |
-| 2018年10月6日  | 2018[韓國職棒聯賽](../Page/韓國職棒聯賽.md "wikilink")                                    | [蠶室棒球場](https://zh.wikipedia.org/wiki/蠶室棒球場 "wikilink")     | \[96\]\[97\] |
+| 2018年10月6日  | 2018[韓國職棒聯賽](../Page/韓國職棒聯賽.md "wikilink")                                    | [蠶室棒球場](https://zh.wikipedia.org/wiki/蠶室棒球場 "wikilink")     | \[97\]\[98\] |
 | 2018年11月7日  | CJ ONLYONE CAMP                                                               |                                                             |              |
-| 2018年12月6日  | 職業棒球年度頒獎禮                                                                     |                                                             | \[98\]       |
+| 2018年12月6日  | 職業棒球年度頒獎禮                                                                     |                                                             | \[99\]       |
 | 2018年12月20日 | Webtoonist Day                                                                |                                                             |              |
-| 2019年7月27日  | [TGC TOYAMA 2019 by TOKYO GIRLS COLLECTION](../Page/東京女孩展演.md "wikilink")     | 富山市综合体育館                                                    | \[99\]       |
-| 2019年9月7日   | [第29届 東京女孩展演 2019 AUTUMN/WINTER](../Page/東京女孩展演.md "wikilink")                | [琦玉超级竞技场](https://zh.wikipedia.org/wiki/琦玉超级竞技场 "wikilink") | \[100\]      |
+| 2019年7月27日  | [TGC TOYAMA 2019 by TOKYO GIRLS COLLECTION](../Page/東京女孩展演.md "wikilink")     | 富山市综合体育館                                                    | \[100\]      |
+| 2019年9月7日   | [第29届 東京女孩展演 2019 AUTUMN/WINTER](../Page/東京女孩展演.md "wikilink")                | [琦玉超级竞技场](https://zh.wikipedia.org/wiki/琦玉超级竞技场 "wikilink") | \[101\]      |
 | 2019年10月5日  | [TGC KITAKYUSHU 2019 by TOKYO GIRLS COLLECTION](../Page/東京女孩展演.md "wikilink") | 西日本综合展示場新館                                                  |              |
 
 ## 獎項
@@ -570,20 +577,20 @@ IZ\*ONE是通過2018年6月15日至8月31日在Mnet播出的生存[實境節目]
 <td><p>新人獎</p></td>
 <td><p>IZ*ONE</p></td>
 <td></td>
-<td><p>[101]</p></td>
+<td><p>[102]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/2018年Mnet亚洲音乐大奖" title="wikilink">第20屆Mnet亞洲音樂大獎</a></p></td>
 <td><p>最佳女子新人奖</p></td>
 <td></td>
-<td><p>[102]</p></td>
+<td><p>[103]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>亞洲新人獎</p></td>
 <td></td>
-<td><p>[103]</p></td>
+<td><p>[104]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -593,14 +600,14 @@ IZ\*ONE是通過2018年6月15日至8月31日在Mnet播出的生存[實境節目]
 <td><p>第33届<a href="https://zh.wikipedia.org/wiki/金唱片獎" title="wikilink">金唱片獎</a></p></td>
 <td><p>唱片部門新人獎</p></td>
 <td></td>
-<td><p>[104]</p></td>
+<td><p>[105]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>第28届<a href="https://zh.wikipedia.org/wiki/首爾歌謠大賞" title="wikilink">首爾歌謠大賞</a></p></td>
 <td><p>新人賞</p></td>
 <td></td>
-<td><p>[105]</p></td>
+<td><p>[106]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -608,7 +615,7 @@ IZ\*ONE是通過2018年6月15日至8月31日在Mnet播出的生存[實境節目]
 <td><p>第8届<a href="../Page/Gaon_Chart_K-POP大獎.md" title="wikilink">Gaon Chart 音樂大獎</a></p></td>
 <td><p>專輯部門年度新人獎</p></td>
 <td></td>
-<td><p>[106]</p></td>
+<td><p>[107]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -657,13 +664,13 @@ IZ\*ONE是通過2018年6月15日至8月31日在Mnet播出的生存[實境節目]
 <td><p>YouTube Top 10 Rising Stars</p></td>
 <td><p>IZ*ONE</p></td>
 <td></td>
-<td><p>[107]</p></td>
+<td><p>[108]</p></td>
 </tr>
 <tr class="even">
 <td><p>2018年</p></td>
 <td><p>第三屆 <a href="https://zh.wikipedia.org/wiki/东亚日报" title="wikilink">dongA.com's</a> PICK⑦ 玫瑰色花路賞</p></td>
 <td></td>
-<td><p>[108]</p></td>
+<td><p>[109]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -914,27 +921,27 @@ IZ\*ONE是通過2018年6月15日至8月31日在Mnet播出的生存[實境節目]
 
 75.
 
-76. [non-no官方Twitter（2019年2月19日）](https://twitter.com/nonno_staff/status/1097672611604004864)
+76.
 
 77.
 
 78.
+
 79.
 80.
 81.
 82.
-
 83.
+
 84.
 85.
 86.
-
 87.
+
 88.
 89.
 90.
 91.
-
 92.
 
 93.
@@ -968,3 +975,5 @@ IZ\*ONE是通過2018年6月15日至8月31日在Mnet播出的生存[實境節目]
 107.
 
 108.
+
+109.

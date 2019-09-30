@@ -33,3 +33,5 @@
   - *[加州灣尖隆頭魚](https://zh.wikipedia.org/wiki/加州灣尖隆頭魚 "wikilink")*, 通稱為 *señorita 的魚*
 
   - , 美國外輪船，亦被稱為 *Señorita*
+
+[Category:非中文名称消歧义](https://zh.wikipedia.org/wiki/Category:非中文名称消歧义 "wikilink")

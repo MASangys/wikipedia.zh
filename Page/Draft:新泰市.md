@@ -1,0 +1,40 @@
+**新泰市**，位于[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[山东省中部](https://zh.wikipedia.org/wiki/山东省 "wikilink")[泰安市](../Page/泰安市.md "wikilink")、[泰沂山脉中段](https://zh.wikipedia.org/wiki/泰沂山脉 "wikilink")，是山东省辖县级市。新泰市是中国全国百强县，也是山东省县域实力30强之一的城市，是山东省确定的试点建设十个现代化大城市首批入选城市。京沪高速贯穿全境，交通发达。现有一个省级经济开发区。新泰市也是“中国优秀旅游城市”、“国家园林城市”，境内有4A级景区莲花山。新泰历史悠久，人杰地灵，物产丰富。古有[柳下惠](../Page/柳下惠.md "wikilink")、[羊祜](../Page/羊祜.md "wikilink")、[鲍叔牙](../Page/鲍叔牙.md "wikilink")。离平阳市区西北四十里有莲花山，又称“新甫山”，“小泰山”。天宝的樱桃、楼德的煎饼都是远近驰名的。
+
+## 历史
+
+1966年，新泰市刘杜乌珠台村南丘陵山区凤凰山与玉皇山之间的沟壑中曾发现距今5万年前的[智人](../Page/智人.md "wikilink")牙齿。说明了早在5万年以前，新泰就有人类在此生息、繁衍。
+
+[春秋时](../Page/春秋时期.md "wikilink")[杞国迁于此地](https://zh.wikipedia.org/wiki/杞国 "wikilink")，后为[齐](https://zh.wikipedia.org/wiki/齐国 "wikilink")、[鲁两国频繁争夺](https://zh.wikipedia.org/wiki/鲁国 "wikilink")。[曹魏](../Page/曹魏.md "wikilink")设[东平阳县](https://zh.wikipedia.org/wiki/东平阳县 "wikilink")，[晋改称新泰县](../Page/晋朝.md "wikilink")，地名沿用至今。1983年撤县设市。
+
+## 行政区划
+
+新泰市下辖21个乡级行政区，其中3个[街道办事处](../Page/街道办事处.md "wikilink")、17个[行政建制镇](../Page/行政建制镇.md "wikilink")，1个[乡](https://zh.wikipedia.org/wiki/乡 "wikilink")。共计下辖917个行政村。\[1\]
+
+新泰市下辖的乡镇有：。
+
+## 气候
+
+属暖温带半湿润大陆性季风气候，四季分明，雨热同季。春季干燥多风，夏季高温多雨，秋季天高气爽，冬季冷而少雪，全市年平均气温13℃。
+
+## 经济
+
+2013年新泰市实现生产总值（GDP）765亿元。山东省粮油、蔬菜重要产区，著名特产有煎饼、芹菜、黄花菜等。
+
+矿产资源以煤居多。已探明的煤炭地质储量16亿吨，其他矿产包括石英、石灰石和粘土等。全市形成能源、化工、机械、建材为主的工业体系，有工矿企业1000多家。
+
+## 交通
+
+[磁莱铁路](../Page/磁莱铁路.md "wikilink")贯通全市，、[博徐高速公路交汇于此](https://zh.wikipedia.org/wiki/博徐高速公路 "wikilink")。、过境。
+
+## 参考
+
+## 外部链接
+
+  - [新泰政府网](http://www.xintai.gov.cn/)
+  - [新泰社区网](http://www.xintaishequ.com/)
+
+-----
+
+以下为导航模板和分类
+
+1.

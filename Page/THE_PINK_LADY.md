@@ -24,11 +24,11 @@
 
 ## 外部連結
 
-  - \[<https://www.instagram.com/odent_thepinklady/>| THE PINK LADY 官方Instagram\]
-  - \[<https://mobile.twitter.com/od_thepinklady/>| THE PINK LADY 官方Twitter\]
-  - \[<https://m.youtube.com/channel/UC9HySj-XtB02oYA2SWLRIwQ/>| THE PINK LADY 官方Youtube\]
-  - \[<https://www.facebook.com/officialodent>| OD娛樂官方facebook\]
-  - \[<http://www.odentgroup.com/thetbird>| OD娛樂官方網頁\]
+  - [| THE PINK LADY 官方Instagram](https://www.instagram.com/odent_thepinklady/)
+  - [| THE PINK LADY 官方Twitter](https://mobile.twitter.com/od_thepinklady/)
+  - [| THE PINK LADY 官方Youtube](https://m.youtube.com/channel/UC9HySj-XtB02oYA2SWLRIwQ/)
+  - [| OD娛樂官方facebook](https://www.facebook.com/officialodent)
+  - [| OD娛樂官方網頁](http://www.odentgroup.com/thetbird)
 
 [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2019年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2019年成立的音樂團體 "wikilink") [Category:2019年韓國建立](https://zh.wikipedia.org/wiki/Category:2019年韓國建立 "wikilink")
 

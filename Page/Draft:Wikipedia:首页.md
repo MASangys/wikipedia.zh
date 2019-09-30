@@ -1,233 +1,47 @@
-__NOTOC__ __NOEDITSECTION__ <templatestyles src="Wikipedia:首頁/styles.css" />
+**WeTV**
 
-<div id="mp-2012">
+## 簡介
 
-<div id="mp-2012-body">
+WeTV 是騰訊推出的海外線上影片媒體平台，提供全面互聯網產品，在2019年4月率先在臺灣推出後，陸續於泰國、印度、印尼等地開放服務，後於2019年7月退出越南市場。WeTV亦有首播一些網絡劇，並有獨佔播出部分綜藝節目。
 
-<div id="mp-2012-column-left">
+## 摘要
 
-<div>
+台灣雖有2380多萬人口，但4G普及率已經超過百分百，同時電信業者競爭激烈，低價吃到飽價格戰也帶動台灣用戶普遍使用吃到飽費率，最愛看線上影音串流，因此台灣用戶是OTT影音平台重度使用者，成為各OTT業者最愛搶進的市場，大陸OTT業者在政府政策大力支持下積極搶進海外市場，台灣就是最重要的第一個灘頭堡。除愛奇藝以外，日前便傳出騰訊、優酷、芒果TV等業者都將挾大筆資金來台。大陸騰訊就透過旗下香港投資公司Image Future Investment（HK）Limited的名義，在台灣的蘋果App Store 和 CH Play 平台上架 [WeTV](https://zh.wikipedia.org/wiki/WeTV "wikilink") \[1\] 。 WeTV不到一個月的時間，保守估計下載量應該超過100萬人次。 初期，WeTV用戶可選擇訂閱1個月、3個月、1年等服務週期。其中，包月費用為新台幣190元、優惠價90元，包季前3個月250元，試用結束後一季560元，並提供繁體中文介面。
 
-<div id="mp-2012-column-feature-block" class="mp-2012-column-left-block">
+## 電視劇/網絡劇（首播)
 
-<h2>
+  - 2019年 [《致我們暖暖的小時光》](https://zh.wikipedia.org/wiki/《致我們暖暖的小時光》 "wikilink") \[2\]
 
-{{\#ifeq:|1|特色列表|典範條目}}
+是中國大陸網絡劇，改編自趙乾乾所著的同名小說。由祝東寧執導，邢菲、林一、唐曉天、鄭英辰、周峻緯等主演。 WeTV平台於2019年5月15日播出。男主角是物理系的天才怪咖「顧未易」（林一飾演），女主角則是充滿了活力陽光的氧氣少女「司徒末」（邢菲飾演），兩人因為意外進而展開了同居生活。不知不覺中司徒末就搞定了帥氣學霸顧未易，顧未易默默喜歡司徒末的心情也急速升溫，兩人一起生活的各種小細節和小互動都甜到不行！
 
-</h2>
+  - 2019年 [《陳情令》](https://zh.wikipedia.org/wiki/《陳情令》 "wikilink") \[3\]
 
-  - <span class="column-feature-more-header">[其他特色列表](https://zh.wikipedia.org/wiki/Wikipedia:特色列表 "wikilink")</span>：{{\#invoke:首頁2|list|title=Wikipedia:特色列表/列表|pattern=%\[%\[:(.-)%\]%\]}}
+2019年中國古裝劇。由肖戰、王一博 領銜主演。根據墨香銅臭男男小說《魔道祖師》改編而成。陳情令將「俠」的本心本真引入劇中，用年輕人易於接受的方式和姿態，展現年輕一代不懼世艱、不忘初心的本質，展現少年傲骨風姿。騰訊視頻於2019年6月27日首播。台灣由WeTV獨家播出。
 
-</div>
+  - 2019年 [《全職高手》](https://zh.wikipedia.org/wiki/《全職高手》 "wikilink") \[4\]
 
-<div class="mp-2012-block-nav-footer hlist">
+由楊洋主演的WeTV新劇《全職高手》，開播4小時後就突破億萬人次點擊，更是首部陸劇全球同步零時差上線，楊洋、江疏影等主要演員為了宣傳不遺餘力，首播當天更把微博暱稱改為劇中戰隊的名字興欣戰隊葉修，一舉造成轟動。《全職高手》透過各種先進的視覺技術，傳遞楊洋飾演的主角葉修不屈不饒、歸零重返「榮耀」的青春勵志故事，每週三四五晚上8點WeTV全網獨播。
 
-  - [典範條目](https://zh.wikipedia.org/wiki/Wikipedia:典範條目 "wikilink")（[候選](https://zh.wikipedia.org/wiki/Wikipedia:典範條目評選 "wikilink")）
-  - [特色列表](https://zh.wikipedia.org/wiki/Wikipedia:特色列表 "wikilink")（[候選](https://zh.wikipedia.org/wiki/Wikipedia:特色列表評選 "wikilink")）
-  - [存檔](https://zh.wikipedia.org/wiki/Wikipedia:典範條目/存檔 "wikilink")
+  - 2019年9 [《魔道祖師》](https://zh.wikipedia.org/wiki/《魔道祖師》 "wikilink") \[5\]
 
-</div>
+作為國風動漫《魔道祖師》的出品方希望無論是在畫面、節奏、劇情上都是以中國化形式將故事內容傳遞給用戶，以古風美學元素將作品提升到藝術品的層面，充分展現了中國特有的美感。此外，在《魔道祖師》製作過程中，主創團隊抱持對原著的尊重，精準掌握作品改編的平衡，保有原著的核心精神，並且在動畫上以全面、完整的方式去將故事用畫面呈現出來，不但滿足粉絲的期望，也得到其他用戶的喜愛。
 
-|}}
+## 綜藝節目 (首播)
 
-</div>
+  - 2019年 [《明日之子水晶时代》](https://zh.wikipedia.org/wiki/《明日之子水晶时代》 "wikilink") \[6\]（又称明日之子3）
 
-<div id="mp-2012-column-dyk-block" class="mp-2012-column-left-block">
+是騰訊視頻、哇唧唧哇聯合推出的打造未來音樂榜樣類節目。台灣由WeTV獨家播出。本季是繼《明日之子》、《明日之子2》後第一季“女生季”，由孫燕姿、孟美岐、華晨宇、毛不易、宋丹丹和龍丹妮等人，擔任導師。本賽季不同於以往，將取消三大賽道和九大廠牌的賽制。星推官將為明日之子的表現按星級評定，1-6星，6星為最高級別。讓選手們進入類似車廂的星級房等待下個階段。節目將明日之子以舞台經驗分為 start 和 restart 賽道。最終將打造唯一最強廠牌。
 
-<h2>
+  - 2019年 [《我們是真正的朋友》](https://zh.wikipedia.org/wiki/《我們是真正的朋友》 "wikilink") \[7\]
 
-你知道嗎？
+是騰訊視頻推出的中國首檔以原生朋友關係為切入點聚焦友情的體驗式真人秀，共有10期。徐熙媛（大S）、徐熙娣（小S）、柳翰雅、范曉萱四人擁有長達二十年的原生友情，通過展現四姐妹的一次集體出行，以四人曾經未完成的心愿清單為線索，全方位呈現四人深入陌生國度，同吃同住，一起實現曾經有的心愿，體驗一次只有親密朋友在一起的旅行意義。在過程中，展現相互了解、相互支撐的純粹友情，探索有關朋友、友情、女性成長、個人價值實現等話題，在展現友情真實樣貌之外更具思考與社會價值，引發用戶的深度共鳴。
 
-</h2>
+## 參考文獻
 
-</div>
-
-<div id="mp-2012-column-good-block" class="mp-2012-column-left-block">
-
-<h2>
-
-優良條目
-
-</h2>
-
-</div>
-
-<div id="mp-2012-column-featurepic-block" class="mp-2012-column-left-block nomobile">
-
-<h2>
-
-每日圖片
-
-</h2>
-
-</div>
-
-</div>
-
-</div>
-
-<div id="mp-2012-column-right">
-
-<div>
-
-<div id="mp-2012-column-right-block-a" class="mp-2012-column-right-block">
-
-<div id="mp-2012-column-itn-block" class="mp-2012-column-right-subblock">
-
-<h2>
-
-新聞動態
-
-</h2>
-
-</div>
-
-<div id="mp-2012-column-otd-block" class="mp-2012-column-right-subblock">
-
-<h2>
-
-歷史上的今天
-
-</h2>
-
-</div>
-
-<div id="mp-2012-column-uptrends-block" class="mp-2012-column-right-subblock nomobile">
-
-<h2>
-
-動態熱門
-
-</h2>
-
-<div id="column-uptrends" class="hlist mp-2012-text">
-
-</div>
-
-</div>
-
-</div>
-
-<div id="mp-2012-column-right-block-b" class="mp-2012-column-right-block nomobile">
-
-<div id="mp-2012-column-participate-block" class="mp-2012-column-right-subblock nomobile">
-
-<h2>
-
-參與維基百科
-
-</h2>
-
-<div id="column-participate" class="mp-2012-text">
-
-[Applications-office.svg](https://zh.wikipedia.org/wiki/File:Applications-office.svg "fig:Applications-office.svg") **[維基百科](https://zh.wikipedia.org/wiki/Wikipedia:關於 "wikilink")**是一個[多語言](https://zh.wikipedia.org/wiki/維基百科:維基百科語言列表 "wikilink")、[内容自由](https://zh.wikipedia.org/wiki/Wikipedia:版權訊息 "wikilink")、[任何人都能参與的協作計劃](https://zh.wikipedia.org/wiki/Wikipedia:誰在寫維基百科 "wikilink")，其目標是建立一個完整、準確且中立的百科全書。
-
-中文維基百科的成長依靠您的参與，無論是[創建新條目](https://zh.wikipedia.org/wiki/幫助:創建新頁面 "wikilink")、[編輯現有條目](https://zh.wikipedia.org/wiki/幫助:編輯頁面 "wikilink")，或者[為條目增加插圖](https://zh.wikipedia.org/wiki/Wikipedia:圖片教程 "wikilink")，您都可以為維基百科做出貢獻。
-
-<div id="column-participate-button">
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div id="mp-2012-column-right-block-c" class="mp-2012-column-right-block nomobile">
-
-<div id="mp-2012-column-tips-block" class="mp-2012-column-right-subblock nomobile">
-
-<h2>
-
-維基百科提醒您
-
-</h2>
-
-<div id="column-tips" class="plainlinks mp-2012-text">
-
-[Dialog-information_on.svg](https://zh.wikipedia.org/wiki/File:Dialog-information_on.svg "fig:Dialog-information_on.svg") {{\#invoke:首頁|tips_show}}
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div id="mp-2012-links" class="nomobile">
-
-<table>
-
-<tr>
-
-<td>
-
-<h3>
-
-站點-{zh-cn:链接;zh-hant:連結}-
-
-</h3>
-
-  - [-{zh-cn:移动访问;zh-tw:行動瀏覽;zh-hk:流動瀏覽}-](https://zh.wikipedia.org/wiki/Wikipedia:WAP存取 "wikilink")
-  - [站點新聞](https://zh.wikipedia.org/wiki/Wikipedia:新聞 "wikilink")
-  - [聯絡我們](https://zh.wikipedia.org/wiki/Wikipedia:聯絡我們 "wikilink")
-  - [{{lang](https://zh.wikipedia.org/wiki/Wikipedia:聯合供稿 "wikilink")
-  - [{{lang](https://zh.wikipedia.org/wiki/Wikipedia_talk:Guestbook_for_non-Chinese_speakers "wikilink")
-
-</td>
-
-<td>
-
-<h3>
-
-認識維基百科
-
-</h3>
-
-  - [誰在撰寫](https://zh.wikipedia.org/wiki/Wikipedia:誰在寫維基百科 "wikilink")
-  - [五大支柱](https://zh.wikipedia.org/wiki/Wikipedia:五大支柱 "wikilink")
-  - [常見問題](https://zh.wikipedia.org/wiki/Wikipedia:常見問題解答 "wikilink")
-  - [常見-{zh-cn:误区; zh-hant:誤解;}-](https://zh.wikipedia.org/wiki/Wikipedia:維基百科不是什麼 "wikilink")
-  - [簡要規則集](https://zh.wikipedia.org/wiki/Wikipedia:簡要規則集 "wikilink")
-
-</td>
-
-<td>
-
-<h3>
-
-常用工具
-
-</h3>
-
-  - [備忘單](https://zh.wikipedia.org/wiki/Wikipedia:備忘單 "wikilink")
-  - [版權守則](https://zh.wikipedia.org/wiki/Wikipedia:簡明版權訊息 "wikilink")
-  - [格式手冊](https://zh.wikipedia.org/wiki/Wikipedia:格式手冊 "wikilink")
-  - [版面指南](https://zh.wikipedia.org/wiki/Wikipedia:版面指南 "wikilink")
-  - [術語表](https://zh.wikipedia.org/wiki/Wikipedia:術語表 "wikilink")
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
-<div id="mp-2012-sisters" class="nomobile">
-
-<div>
-
-[Wikimedia-logo_black.svg](https://zh.wikipedia.org/wiki/File:Wikimedia-logo_black.svg "fig:Wikimedia-logo_black.svg")
-
-</div>
-
-</div>
-
-</div>
-
-</div>
+1.  [騰訊WeTV透過港商登台](https://udn.com/news/story/11316/3808863)
+2.  [致我們暖暖的小時光](https://www.cosmopolitan.com/tw/entertainment/hot-guys/g27121466/put-your-head-on-my-shoulder-actors/)
+3.  [陳情令](https://zh.wikipedia.org/zh-hk/陈情令)
+4.  [楊洋扮電競大神-落難時竟撞臉無尾熊](https://tw.news.yahoo.com/楊洋扮電競大神-落難時竟撞臉無尾熊-041412162.html)
+5.  [魔道祖師](http://www.xinhuanet.com/ent/2019-08/08/c_1124852495.htm)
+6.  [明日之子水晶时代](https://zh.wikipedia.org/wiki/明日之子水晶时代)
+7.  [我們是真正的朋友](https://www.mirrormedia.mg/story/20190524ent004/)

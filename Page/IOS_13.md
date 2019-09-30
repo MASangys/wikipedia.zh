@@ -1,4 +1,4 @@
-**iOS 13**是[苹果公司开发的](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[iOS的第](https://zh.wikipedia.org/wiki/iOS "wikilink")13个版本，于2019年6月4日召开的[WWDC](../Page/苹果全球开发者大会.md "wikilink")2019首日公布，是[iOS 12的后继版本](https://zh.wikipedia.org/wiki/iOS_12 "wikilink")\[1\]。iOS 13 的 应用程序启动将快 2 倍、[Face ID](https://zh.wikipedia.org/wiki/Face_ID "wikilink") 解锁也快 30%、将支持 [iPhone 6s](https://zh.wikipedia.org/wiki/iPhone_6s "wikilink") 及以上型号。iOS13 还带来了多项更新，包括：更省电及护眼的 Dark Mode 黑暗模式、街景地图（暂时只有纽约市）、重新设计并强化编辑功能的「照片」app、重新设计的「提醒事项」app；增强的安全功能，如可以使用[Apple ID登入](https://zh.wikipedia.org/wiki/Apple_ID "wikilink")「使用 Apple 登入（Sign in with Apple）」。\[2\] \[3\]此外，一些细节功能也得到改善：音量控制显示效果被改为左上角音量悬浮栏从而避免遮挡屏幕；iPhone支持同时连接两副[AirPods](../Page/AirPods.md "wikilink")无线耳机以分享歌曲；[Apple Music应用的歌曲播放页被重新设计](../Page/Apple_Music.md "wikilink")，支持滚动歌词；[Siri](../Page/Siri.md "wikilink")朗读支持了自然语义识别；內建键盘支持滑动输入；可向通讯录好友分享自己的[iMessage大头照和个人信息](https://zh.wikipedia.org/wiki/iMessage "wikilink")；照片分享页面得到改进；截图标记工具设计风格回归拟物化；[Memoji](https://zh.wikipedia.org/wiki/Memoji "wikilink") 拟我表情支持妆容选择并可以存储在键盘表情栏用于第三方app，等等。
+**iOS 13**是[苹果公司开发的](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[iOS的第](https://zh.wikipedia.org/wiki/iOS "wikilink")13个版本，于2019年6月4日召开的[WWDC](../Page/苹果全球开发者大会.md "wikilink")2019首日公布，是[iOS 12的后继版本](https://zh.wikipedia.org/wiki/iOS_12 "wikilink")\[1\]。iOS 13 的 应用程序启动将快 2 倍、[Face ID](https://zh.wikipedia.org/wiki/Face_ID "wikilink") 解锁也快 30%、将支持 [iPhone 6s](https://zh.wikipedia.org/wiki/iPhone_6s "wikilink") 及以上型号。iOS13 还带来了多项更新，包括：更省电及护眼的 Dark Mode 黑暗模式、街景地图（暂时只有纽约市）、重新设计并强化编辑功能的「照片」app、重新设计的「提醒事项」app；增强的安全功能，如可以使用[Apple ID登入](https://zh.wikipedia.org/wiki/Apple_ID "wikilink")「使用 Apple 登入（Sign in with Apple）」。\[2\]\[3\]此外，一些细节功能也得到改善：音量控制显示效果被改为左上角音量悬浮栏从而避免遮挡屏幕；iPhone支持同时连接两副[AirPods](../Page/AirPods.md "wikilink")无线耳机以分享歌曲；[Apple Music应用的歌曲播放页被重新设计](../Page/Apple_Music.md "wikilink")，支持滚动歌词；[Siri](../Page/Siri.md "wikilink")朗读支持了自然语义识别；內建键盘支持滑动输入；可向通讯录好友分享自己的[iMessage大头照和个人信息](https://zh.wikipedia.org/wiki/iMessage "wikilink")；照片分享页面得到改进；截图标记工具设计风格回归拟物化；[Memoji](https://zh.wikipedia.org/wiki/Memoji "wikilink") 拟我表情支持妆容选择并可以存储在键盘表情栏用于第三方app，等等。
 
 在iOS 13內，「寻找我的朋友」和「寻找 iPhone」app也被合并为「寻找」app。
 
@@ -25,7 +25,7 @@ iOS 13中，苹果地图针对美国境內推出了类似竞争对手[Google Map
 ### 隐私
 
   - iOS 13新增了“通过 Apple 登录”功能，可让用户不提供过多个人信息，仅通过[Face ID或](https://zh.wikipedia.org/wiki/Face_ID "wikilink")[Touch ID确认即可登录](https://zh.wikipedia.org/wiki/Touch_ID "wikilink")。登录后，Apple还会创建随机邮箱来保护用户邮箱安全。
-  - iOS 13提供了全新的定位控制和透明度功能，可以查看各app和网站对隐私数据的使用情况。此外，iOS 13中可以授权app仅访问位置信息一次，以
+  - iOS 13提供了全新的定位控制和透明度功能，可以查看各app和网站对隐私数据的使用情况。此外，iOS 13中可以授權僅可訪問位置訊息一次。
 
 ### HomeKit
 
@@ -59,20 +59,32 @@ Memoji 新增了更多设计，从头发、嘴唇、帽子、耳环、甚至可�
 
 ### 3D Touch to Haptic Touch
 
-[3D觸控於iOS](https://zh.wikipedia.org/wiki/3D觸控 "wikilink") 13中正式廢除，取而代之的是蘋果專為iPhone XR所開發的觸控操作方式—Haptic Touch。在舊有的，仍具備有3D觸控面板設計的機型上(iPhone 6s-iPhone Xs)，3D 觸控仍有相較於Haptic Touch更快的反應，雖然兩者相差僅不到一秒。
+[3D觸控於](https://zh.wikipedia.org/wiki/3D觸控 "wikilink") iOS 13 中正式廢除，取而代之的是蘋果專為 iPhone Xʀ 以及后续 iPhone 11 系列所開發的觸控操作方式—Haptic Touch。在舊有的，仍具備有3D觸控面板設計的機型上（iPhone 6S～iPhone Xs)，3D觸控仍有相較於Haptic Touch更快的反應，但兩者相差僅不到一秒。
 
 ## 支持设备
 
-  - **[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink"):**
-      - [6S/6S Plus](https://zh.wikipedia.org/wiki/iPhone_6S "wikilink")
-      - [SE](https://zh.wikipedia.org/wiki/iPhone_SE "wikilink")
-      - [7/7 Plus](https://zh.wikipedia.org/wiki/iPhone_7 "wikilink")
-      - [8/8 Plus](https://zh.wikipedia.org/wiki/iPhone_8 "wikilink")
-      - [X](https://zh.wikipedia.org/wiki/iPhone_X "wikilink")
-      - [XS/XS Max](https://zh.wikipedia.org/wiki/iPhone_XS "wikilink")
-      - [XR](https://zh.wikipedia.org/wiki/iPhone_XR "wikilink")
-  - **[iPod touch](https://zh.wikipedia.org/wiki/iPod_touch "wikilink"):**
-      - [第七代](https://zh.wikipedia.org/wiki/iPod_touch_\(第七代\) "wikilink")
+由於iOS 13 僅支持2GB RAM以上機型，且iPad系列設備所使用的操作系統被[iPadOS所代替](https://zh.wikipedia.org/wiki/iPadOS "wikilink")。因此iPhone 5S、iPhone 6、iPhone 6 Plus和iPod touch 6均無法升級到iOS 13。這也是蘋果第一次淘汰部分搭載[64位元](../Page/64位元.md "wikilink")處理器的手機。雖然[iPad mini 4使用於iPhone](https://zh.wikipedia.org/wiki/iPad_mini_4 "wikilink") 6及iPhone 6 Plus一樣的Apple A8處理器，但由於iPad mini 4搭載了2GB RAM，因此得以升級至[iPadOS](https://zh.wikipedia.org/wiki/iPadOS "wikilink")。
+
+### iPhone
+
+  - [iPhone 6S](https://zh.wikipedia.org/wiki/iPhone_6S "wikilink")
+  - [iPhone 6S Plus](https://zh.wikipedia.org/wiki/iPhone_6S "wikilink")
+  - [iPhone SE](https://zh.wikipedia.org/wiki/iPhone_SE "wikilink")
+  - [iPhone 7](https://zh.wikipedia.org/wiki/iPhone_7 "wikilink")
+  - [iPhone 7 Plus](https://zh.wikipedia.org/wiki/iPhone_7 "wikilink")
+  - [iPhone 8](https://zh.wikipedia.org/wiki/iPhone_8 "wikilink")
+  - [iPhone 8 Plus](https://zh.wikipedia.org/wiki/iPhone_8 "wikilink")
+  - [iPhone X](https://zh.wikipedia.org/wiki/iPhone_X "wikilink")
+  - [iPhone XR](https://zh.wikipedia.org/wiki/iPhone_XR "wikilink")
+  - [iPhone XS](https://zh.wikipedia.org/wiki/iPhone_XS "wikilink")
+  - [iPhone XS Max](https://zh.wikipedia.org/wiki/iPhone_XS_Max "wikilink")
+  - [iPhone 11](https://zh.wikipedia.org/wiki/iPhone_11 "wikilink")
+  - [iPhone 11 Pro](https://zh.wikipedia.org/wiki/iPhone_11_Pro "wikilink")
+  - [iPhone 11 Pro Max](https://zh.wikipedia.org/wiki/iPhone_11_Pro_Max "wikilink")
+
+### iPod Touch
+
+  - [第七代](https://zh.wikipedia.org/wiki/iPod_touch_\(第七代\) "wikilink")
 
 ## 版本历史
 
@@ -129,7 +141,7 @@ Memoji 新增了更多设计，从头发、嘴唇、帽子、耳环、甚至可�
 <tr class="odd">
 <td><p>Developer beta 4</p></td>
 <td><p><small>17A5534f</small></p></td>
-<td><p>2019年7月18日</p></td>
+<td><p>2019年7 月18日</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -187,15 +199,45 @@ Memoji 新增了更多设计，从头发、嘴唇、帽子、耳环、甚至可�
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>Golden Master</p></td>
+<td><p><small>17A577</small></p></td>
+<td><p>2019年9月11日</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>13.1</p></td>
 <td><p>Developer beta 1</p></td>
 <td><p><small>17A5821e</small></p></td>
 <td><p>2019年8月28日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Public beta 1</p></td>
 <td><p>2019年8月29日</p></td>
 <td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Developer beta 2</p></td>
+<td><p><small>17A5831c</small></p></td>
+<td><p>2019年9月5日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Public beta 2</p></td>
+<td><p>2019年9月5日</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Developer beta 3</p></td>
+<td><p><small>17A5837a</small></p></td>
+<td><p>2019年9月11日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Developer beta 4</p></td>
+<td><p>17A5844a</p></td>
+<td><p>2019年9月19日</p></td>
 <td></td>
 </tr>
 </tbody>

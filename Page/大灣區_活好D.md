@@ -88,7 +88,7 @@
 <td><p>5月5日</p></td>
 <td><p>發掘東莞隱世玩樂</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/東莞" title="wikilink">東莞</a>：萬江龍灣公園、<a href="https://zh.wikipedia.org/wiki/隱賢山莊" title="wikilink">隱賢山莊</a>、<a href="https://zh.wikipedia.org/wiki/龍鳳山莊" title="wikilink">龍鳳山莊</a></p></td>
-<td><p><a href="../Page/鄧以婷.md" title="wikilink">鄧以婷</a>、<a href="../Page/區永權.md" title="wikilink">區永權</a></p></td>
+<td><p>鄧以婷、<a href="../Page/區永權.md" title="wikilink">區永權</a></p></td>
 </tr>
 <tr class="even">
 <td><p>08</p></td>
@@ -102,21 +102,21 @@
 <td><p>5月19日</p></td>
 <td><p>深圳尋找驚喜</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/深圳" title="wikilink">深圳</a>：<a href="https://zh.wikipedia.org/wiki/深圳灣體育中心" title="wikilink">深圳灣體育中心</a>、<a href="https://zh.wikipedia.org/wiki/地王大廈" title="wikilink">地王大廈</a>、<a href="../Page/平安金融中心.md" title="wikilink">平安金融中心</a>、<a href="https://zh.wikipedia.org/wiki/蓮花山公園" title="wikilink">蓮花山公園</a></p></td>
-<td><p><a href="../Page/黃美棋.md" title="wikilink">黃美棋</a>、<a href="../Page/胡諾言.md" title="wikilink">胡諾言</a>、<a href="../Page/肥媽.md" title="wikilink">肥媽</a></p></td>
+<td><p><a href="../Page/黃美棋.md" title="wikilink">黃美棋</a>、<a href="../Page/胡諾言.md" title="wikilink">胡諾言</a>、肥媽</p></td>
 </tr>
 <tr class="even">
 <td><p>10</p></td>
 <td><p>5月26日</p></td>
 <td><p>不一樣深圳度假 老友記好介紹</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/深圳" title="wikilink">深圳</a>：<a href="https://zh.wikipedia.org/wiki/大鵬新區" title="wikilink">大鵬新區</a><a href="https://zh.wikipedia.org/wiki/金沙灣" title="wikilink">金沙灣</a>、<a href="https://zh.wikipedia.org/wiki/楊梅坑" title="wikilink">楊梅坑</a><a href="https://zh.wikipedia.org/wiki/鹿嘴山莊" title="wikilink">鹿嘴山莊</a>、<a href="https://zh.wikipedia.org/wiki/較場尾" title="wikilink">較場尾</a>、<a href="https://zh.wikipedia.org/wiki/大鵬半島" title="wikilink">大鵬半島國家地質公園博物館</a>、<a href="https://zh.wikipedia.org/wiki/玫瑰海岸" title="wikilink">玫瑰海岸</a>、<a href="../Page/香港賽馬會.md" title="wikilink">香港賽馬會</a>深圳复康會頤康院</p></td>
-<td><p><a href="../Page/黃美棋.md" title="wikilink">黃美棋</a>、<a href="../Page/胡諾言.md" title="wikilink">胡諾言</a>、<a href="../Page/肥媽.md" title="wikilink">肥媽</a>、<a href="../Page/李麗霞.md" title="wikilink">李麗霞</a>（嘉賓）</p></td>
+<td><p>黃美棋、胡諾言、肥媽、<a href="../Page/李麗霞.md" title="wikilink">李麗霞</a>（嘉賓）</p></td>
 </tr>
 <tr class="odd">
 <td><p>11</p></td>
 <td><p>6月2日</p></td>
 <td><p>深圳遊主題麵包店 中山品嚐最鮮美食</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/深圳" title="wikilink">深圳</a>：麪包烘焙工坊、<a href="https://zh.wikipedia.org/wiki/觀瀾湖" title="wikilink">觀瀾湖</a>；<a href="../Page/中山市.md" title="wikilink">中山</a>：偉丰生態農場、<a href="https://zh.wikipedia.org/wiki/神灣" title="wikilink">神灣</a><a href="../Page/菠蘿.md" title="wikilink">菠蘿</a>果場</p></td>
-<td><p><a href="../Page/黃美棋.md" title="wikilink">黃美棋</a>、<a href="../Page/胡諾言.md" title="wikilink">胡諾言</a>、<a href="../Page/謝㺭圻.md" title="wikilink">謝㺭圻</a>、<a href="../Page/鄭衍峰.md" title="wikilink">鄭衍峰</a></p></td>
+<td><p>黃美棋、胡諾言、<a href="../Page/謝㺭圻.md" title="wikilink">謝㺭圻</a>、<a href="../Page/鄭衍峰.md" title="wikilink">鄭衍峰</a></p></td>
 </tr>
 <tr class="even">
 <td><p>12</p></td>

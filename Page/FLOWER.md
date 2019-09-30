@@ -1,4 +1,4 @@
-《**FLOWER**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[GFRIEND](../Page/GFRIEND.md "wikilink")2019年3月13日在[日本](../Page/日本.md "wikilink")發行第二張日語單曲，由[Source Music製作](../Page/Source_Music.md "wikilink")，[King Records發行](../Page/國王唱片.md "wikilink")，於2019年3月13日推出，主打歌為〈FLOWER〉。
+《**FLOWER**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[GFRIEND](../Page/GFRIEND.md "wikilink")2019年3月13日在[日本](../Page/日本.md "wikilink")發行第三張日語單曲，由[Source Music製作](../Page/Source_Music.md "wikilink")，[King Records發行](../Page/國王唱片.md "wikilink")，於2019年3月13日推出，主打歌為〈FLOWER〉。
 
 ## 背景
 
@@ -10,7 +10,7 @@
 
 ## 發行版本
 
-此張單曲專輯發行三個版本 初回限定盤A：CD+DVD 初回限定盤B：CD+Photo Book 通常盤：CD\[5\]
+此張單曲發行三個版本 初回限定盤A：CD+DVD 初回限定盤B：CD+Photo Book 通常盤：CD\[5\]
 
 ## 曲目
 

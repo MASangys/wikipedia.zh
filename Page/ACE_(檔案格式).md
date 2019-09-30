@@ -14,7 +14,7 @@
 
 ## 外部链接
 
-  - [winace.com](http://web.archive.org/web/20170714193504/http://winace.com)
+  - [winace.com](https://web.archive.org/web/20170714193504/http://winace.com/)
 
 [Category:归档格式](https://zh.wikipedia.org/wiki/Category:归档格式 "wikilink")
 

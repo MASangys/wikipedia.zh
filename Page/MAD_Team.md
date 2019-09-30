@@ -18,29 +18,15 @@
 <td><p>備註</p></td>
 </tr>
 <tr class="even">
-<td><p>Liang</p></td>
-<td><p>吳亮德</p></td>
-<td><p>上路</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>Rock</p></td>
 <td><p>蔡忠廷</p></td>
 <td><p>上路</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Benny</p></td>
 <td><p>連修琪</p></td>
-<td><p>打野</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Kongyue</p></td>
-<td><p>蕭任佐</p></td>
 <td><p>打野</p></td>
 <td></td>
 <td></td>
@@ -53,13 +39,6 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Breeze</p></td>
-<td><p>黃建源</p></td>
-<td><p>下路</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>K</p></td>
 <td><p>柯凱盛</p></td>
 <td><p>輔助</p></td>
@@ -107,16 +86,37 @@
 <tr class="odd">
 <td><p>ID</p></td>
 <td><p>本名</p></td>
-<td><p>地区</p></td>
 <td><p>位置</p></td>
+<td><p>地区</p></td>
 <td><p>備註</p></td>
 </tr>
 <tr class="even">
 <td><p>Greentea</p></td>
 <td><p><a href="../Page/蔡尚精.md" title="wikilink">蔡尚精</a></p></td>
-<td></td>
 <td><p>主教練</p></td>
-<td><p>加入<a href="https://zh.wikipedia.org/wiki/Royal_Never_Give_Up" title="wikilink">Royal Never Give Up</a></p></td>
+<td></td>
+<td><p>加入<a href="https://zh.wikipedia.org/wiki/RNG" title="wikilink">RNG</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>Liang</p></td>
+<td><p>吳亮德</p></td>
+<td><p>上路</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Breeze</p></td>
+<td><p>黃建源</p></td>
+<td><p>下路</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Kongyue</p></td>
+<td><p>蕭任佐</p></td>
+<td><p>打野</p></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -159,7 +159,7 @@
 <tr class="even">
 <td><p>陳柏成</p></td>
 <td><p>OM</p></td>
-<td><p>中路、魔龍輔助</p></td>
+<td><p>魔龍路、魔龍輔助</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -180,25 +180,18 @@
 <tr class="odd">
 <td><p>張竣盛</p></td>
 <td><p>Neil</p></td>
-<td><p>打野</p></td>
+<td><p>打野，魔龍路</p></td>
 <td></td>
 <td><p>原<a href="../Page/J戰隊.md" title="wikilink">JT打野</a></p></td>
 </tr>
 <tr class="even">
-<td><p>陳廷睿</p></td>
-<td><p>Winds</p></td>
-<td><p>魔龍路</p></td>
-<td></td>
-<td><p>原<a href="../Page/J戰隊.md" title="wikilink">JT魔龍路</a></p></td>
-</tr>
-<tr class="odd">
 <td><p>洪振哲</p></td>
 <td><p>03.27</p></td>
 <td><p>打野</p></td>
 <td></td>
 <td><p>S6城市賽亞軍，原二軍選手</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>郭冠緯</p></td>
 <td><p>03.22</p></td>
 <td><p>魔龍輔助</p></td>
@@ -210,14 +203,66 @@
 
 ### 過往成員
 
-|     |       |         |    |                                                               |
-| --- | ----- | ------- | -- | ------------------------------------------------------------- |
-| 本名  | 本名ID  | 位置      | 地區 | 備註                                                            |
-| 林溫雄 | Joey  | 魔龍輸出、凱撒 | 臺灣 | 前SMG凱撒                                                        |
-| 藍逸哲 | Ronin | 魔龍輔助    | 臺灣 |                                                               |
-| 鄭宇翔 | Soar  | 打野      | 臺灣 | 回鍋NVM，今NVM打野                                                  |
-| 郭展希 | Xinyi | 中路      | 香港 | 今[FW中路](../Page/閃電狼.md "wikilink")                            |
-| 陳建廷 | Benny | 輔助      | 臺灣 | 原[JT輔助](../Page/J戰隊.md "wikilink")，2019/8/6因生涯規劃，宣佈離隊，目前轉任實況主 |
+<table>
+<tbody>
+<tr class="odd">
+<td><p>本名</p></td>
+<td><p>本名ID</p></td>
+<td><p>位置</p></td>
+<td><p>地區</p></td>
+<td><p>備註</p></td>
+</tr>
+<tr class="even">
+<td><p>林溫雄</p></td>
+<td><p>Joey</p></td>
+<td><p>凱撒路，魔龍路</p></td>
+<td></td>
+<td><p>前SMG凱撒</p></td>
+</tr>
+<tr class="odd">
+<td><p>藍逸哲</p></td>
+<td><p>Ronin</p></td>
+<td><p>魔龍輔助</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>鄭宇翔</p></td>
+<td><p>Soar</p></td>
+<td><p>打野</p></td>
+<td></td>
+<td><p>回鍋NVM，今NVM打野</p></td>
+</tr>
+<tr class="odd">
+<td><p>郭展希</p></td>
+<td><p>Xinyi</p></td>
+<td><p>中路</p></td>
+<td></td>
+<td><p>今<a href="../Page/閃電狼.md" title="wikilink">FW中路</a></p></td>
+</tr>
+<tr class="even">
+<td><p>陳廷睿</p></td>
+<td><p>Winds</p></td>
+<td><p>魔龍路</p></td>
+<td></td>
+<td><p>原<a href="../Page/J戰隊.md" title="wikilink">JT魔龍路</a> 現為泰國BZ魔龍路</p></td>
+</tr>
+<tr class="odd">
+<td><p>陳建廷</p></td>
+<td><p>Benny</p></td>
+<td><p>輔助</p></td>
+<td></td>
+<td><p>原<a href="../Page/J戰隊.md" title="wikilink">JT輔助</a>，2019/8/6因生涯規劃，宣佈離隊，目前轉任實況主</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## [絕地求生](../Page/絕地求生.md "wikilink") (PlayerUnknown's Battlegrounds)
 

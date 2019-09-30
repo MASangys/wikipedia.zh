@@ -2,6 +2,8 @@ Edmodo 是一家教育技術公司，為 K-12學校和教師提供一個交流�
 
 Edmodo是由Nic Borg，Jeff O'Hara和Crystal Hutter 在2008年 設立。它由Index Ventures, Benchmark, Greylock Partners, Learn Capital, New Enterprise Associates, Union Square Ventures, Glynn Capital Management, Tenaya Capital, SingTel Innov8, and KDDI 支持。2017年，Edmodo坐擁過78,000,000 世界各地的用戶。大約一半的這些用戶是在美國，其餘180個國家分佈全世界。其餘主要存在新加坡、印度尼西亞、烏拉圭和意大利。約10%的這些用戶是教師、Edmodo 最受歡迎的地方是課室。
 
+## 歷史
+
 2013年，Edmodo 被“PC雜誌”評為“教師最好應用程序”。\[1\] 同年，Edmodo收購了一家創業公司Root-1，打算成為教育應用商店 \[2\]\[3\] Root-1聯合創始人兼首席執行Vibhu Mittal於次年成為Edmodo的首席執行官。\[4\]
 
 2014年，Edmodo 發布了 Snapshot ——一套評估工具，用來衡量學生在教育標準方面的進步。 Edmodo Snapshot獲得 Edtech digest 最佳評估解決方案獎。該公司已與英國兩家主要出版商合作，牛津大學出版社和劍橋大學出版社提供訪問 Edmodo 平台上的教育內容，並將 Edmodo Snapshot 帶到英國。\[5\]\[6\]

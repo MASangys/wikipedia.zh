@@ -129,22 +129,119 @@
 
 #### Copy Track
 
-| Vol. | 發布日期       | 曲目             | 備註                 |
-| ---- | ---------- | -------------- | ------------------ |
-| 1    | 2017年1月18日 | The Dreamz     |                    |
-| 2    | 2017年2月1日  | COMPLAIN       |                    |
-| 3    | 2017年2月15日 | 100만원          |                    |
-| 4    | 2017年3月1日  | 42             |                    |
-| 5    | 2017年3月15日 | Cloud-9        |                    |
-| 6    | 2017年3月29日 | 건들지마           |                    |
-| 7    | 2017年4月12日 | Bucket List    |                    |
-| 8    | 2017年5月10日 | 그림자도 빛이 있어야 존재 | 原曲：멀어（）            |
-| 9    | 2017年5月24日 | 깨              |                    |
-| 10   | 2017年6月7日  | ID:a           |                    |
-| 11   | 2017年6月21日 | Subway Pt.II   |                    |
-| －    | 2017年7月5日  | Cypher Ⅰ       |                    |
-| －    | 2017年7月19日 | 지갑방            |                    |
-| －    | 2017年8月2日  | Alchemistry    | Beat Prod. By Cxdy |
+<table>
+<thead>
+<tr class="header">
+<th><p>Vol.</p></th>
+<th><p>發布日期</p></th>
+<th><p>曲目</p></th>
+<th><p>原曲</p></th>
+<th><p>備註</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1</p></td>
+<td><p>2017年1月18日</p></td>
+<td><p>The Dreamz</p></td>
+<td><p>Wet Dreamz（<a href="https://zh.wikipedia.org/wiki/J._Cole" title="wikilink">J. Cole</a>）</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2</p></td>
+<td><p>2017年2月1日</p></td>
+<td><p>COMPLAIN</p></td>
+<td><p>Who I Am（<a href="https://zh.wikipedia.org/wiki/Pusha_T" title="wikilink">Pusha T</a> Feat. <a href="https://zh.wikipedia.org/wiki/2_Chainz" title="wikilink">2 Chainz</a> &amp; <a href="https://zh.wikipedia.org/wiki/Big_Sean" title="wikilink">Big Sean</a>）</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>3</p></td>
+<td><p>2017年2月15日</p></td>
+<td><p>100만원</p></td>
+<td><p>Senile（Young Money Feat. <a href="https://zh.wikipedia.org/wiki/Tyga" title="wikilink">Tyga</a> &amp; <a href="https://zh.wikipedia.org/wiki/Nicki_Minaj" title="wikilink">Nicki Minaj</a> &amp; <a href="https://zh.wikipedia.org/wiki/Lil_Wayne" title="wikilink">Lil Wayne</a>）</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>4</p></td>
+<td><p>2017年3月1日</p></td>
+<td><p>42</p></td>
+<td><p>Too Young（<a href="https://zh.wikipedia.org/wiki/Post_Malone" title="wikilink">Post Malone</a>）</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>5</p></td>
+<td><p>2017年3月15日</p></td>
+<td><p>Cloud-9</p></td>
+<td><p>Killas（Ca$hfromtheb Feat. Lilyoungstunnal）</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>6</p></td>
+<td><p>2017年3月29日</p></td>
+<td><p>건들지마</p></td>
+<td><p>Hip Hop Is Dead（<a href="https://zh.wikipedia.org/wiki/納斯" title="wikilink">Nas</a> Feat. <a href="https://zh.wikipedia.org/wiki/Will.i.am" title="wikilink">Will.i.am</a>）</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>7</p></td>
+<td><p>2017年4月12日</p></td>
+<td><p>Bucket List</p></td>
+<td><p>Fresh（Taisto Tapulist &amp; Ällä）</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>8</p></td>
+<td><p>2017年5月10日</p></td>
+<td><p>그림자도 빛이 있어야 존재</p></td>
+<td><p>멀어（）</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>9</p></td>
+<td><p>2017年5月24日</p></td>
+<td><p>깨</p></td>
+<td><p>Caroline（<a href="https://zh.wikipedia.org/wiki/Aminé" title="wikilink">Aminé</a>）</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>10</p></td>
+<td><p>2017年6月7日</p></td>
+<td><p>ID:a</p></td>
+<td><p>Fade Away（<a href="https://zh.wikipedia.org/wiki/Logic_(饒舌歌手)" title="wikilink">Logic</a>）</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>11</p></td>
+<td><p>2017年6月21日</p></td>
+<td><p>Subway Pt.II</p></td>
+<td><p>After Surgery Thoughts－Cole Summer Remix（JeterCt）</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>－</p></td>
+<td><p>2017年7月5日</p></td>
+<td><p>Cypher Ⅰ</p></td>
+<td><p>Yonkers（<a href="https://zh.wikipedia.org/wiki/Tyler,_The_Creator" title="wikilink">Tyler, The Creator</a>）<br />
+BUTTERFLY EFFECT（<a href="https://zh.wikipedia.org/wiki/Travis_Scott" title="wikilink">Travis Scott</a>）<br />
+Soliloquy（）</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>－</p></td>
+<td><p>2017年7月19日</p></td>
+<td><p>지갑방</p></td>
+<td><p>44 Bars（<a href="https://zh.wikipedia.org/wiki/Logic_(饒舌歌手)" title="wikilink">Logic</a>）</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>－</p></td>
+<td><p>2017年8月2日</p></td>
+<td><p>Alchemistry</p></td>
+<td><p>Tokyo Drift（Kaseem）</p></td>
+<td><p>Beat Prod. By Cxdy</p></td>
+</tr>
+</tbody>
+</table>
 
 ### 其它作品
 

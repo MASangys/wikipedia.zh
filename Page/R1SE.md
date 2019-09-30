@@ -9,7 +9,7 @@
 
 ### 團名念法
 
-團名念法為「R．One．S．E」，也可以以**RISE**(上升之意)發音。
+團名念法為「R．One．S．E」，也可以**RISE**（上升之意）發音。
 
 ### 粉絲名
 
@@ -17,7 +17,7 @@ R1SE的官方粉絲名是「**十二**」，於2019年7月8日正式公開，意
 
 ### 應援色
 
-官方團體應援色是**破曉色(紅橙藍漸變色)**(\#FF3200)(\#FF6D34)(\#0DCAEF)，破曉色是海平面太陽升起的顏色，諧音赤乘，意指乘風破浪去迎接赤子之心。
+官方團體應援色是**破曉色（紅橙藍漸變色）**(\#FF3200)(\#FF6D34)(\#0DCAEF)，破曉色是海平面太陽升起的顏色，諧音赤乘，意指乘風破浪去迎接赤子之心。
 
 ## 演藝經歷
 
@@ -43,20 +43,26 @@ R1SE的官方粉絲名是「**十二**」，於2019年7月8日正式公開，意
 
 8月22日，專輯《就要擲地有聲的炸裂》第三主打歌《十二》發佈；首支團員參與作詞歌曲。
 
+8月29日，專輯《就要擲地有聲的炸裂》同名主打歌《就要擲地有聲的炸裂》發佈。
+
+9月3日，专辑第一主打歌《谁都别吝啬》MV发布；首支团体MV。
+
+9月16日，專輯《就要擲地有聲的炸裂》同名主打歌《就要擲地有聲的炸裂》MV发布。
+
 ## 成員介紹
 
-<table style="width:348%;">
+<table style="width:341%;">
 <colgroup>
+<col style="width: 42%" />
+<col style="width: 6%" />
+<col style="width: 10%" />
+<col style="width: 35%" />
+<col style="width: 63%" />
+<col style="width: 35%" />
+<col style="width: 42%" />
+<col style="width: 35%" />
 <col style="width: 55%" />
-<col style="width: 8%" />
-<col style="width: 13%" />
-<col style="width: 40%" />
-<col style="width: 72%" />
-<col style="width: 40%" />
-<col style="width: 55%" />
-<col style="width: 40%" />
-<col style="width: 8%" />
-<col style="width: 14%" />
+<col style="width: 15%" />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -125,7 +131,8 @@ Center</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/重慶" title="wikilink">重慶</a></p></td>
 <td></td>
 <td><p>182cm</p></td>
-<td><p>泛領文化(JYP娱乐中国分公司)</p></td>
+<td><p>泛領文化<br />
+(JYP娱乐分公司)</p></td>
 <td><p>5</p></td>
 <td><p>Dancer Rapper</p></td>
 <td><p>Cookies</p></td>
@@ -235,46 +242,15 @@ Center</p></td>
 
 ### 單曲
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>發佈日期</strong></p></td>
-<td><p><strong>曲目</strong></p></td>
-<td><p>備註</p></td>
-</tr>
-<tr class="even">
-<td><p>2019年8月6日</p></td>
-<td><p>R.1.S.E</p></td>
-<td><p>R1SE成團曲、專輯《就要掷地有声的炸裂》第二支單曲</p></td>
-</tr>
-<tr class="odd">
-<td><p>喊出我的名字</p></td>
-<td><p>專輯《就要掷地有声的炸裂》第一支單曲</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2019年8月8日</p></td>
-<td><p>誰都別吝嗇</p></td>
-<td><p>專輯《就要掷地有声的炸裂》第一支主打歌</p></td>
-</tr>
-<tr class="odd">
-<td><p>2019年8月15日</p></td>
-<td><p>WORLD WORLD WORLD</p></td>
-<td><p>專輯《就要掷地有声的炸裂》第二支主打歌</p></td>
-</tr>
-<tr class="even">
-<td><p>2019年8月22日</p></td>
-<td><p>十二</p></td>
-<td><p>專輯《就要掷地有声的炸裂》第三支主打歌</p></td>
-</tr>
-<tr class="odd">
-<td><p>2019年8月29日</p></td>
-<td><p>就要擲地有聲的炸裂</p></td>
-<td><p>專輯《就要掷地有声的炸裂》第四支主打歌</p>
-<p><code>-</code></p></td>
-</tr>
-</tbody>
-</table>
+|            |                    |                            |
+| ---------- | ------------------ | -------------------------- |
+| **發佈日期**   | **曲目**             | 備註                         |
+| 2019年8月6日  | R.1.S.E            | R1SE成團曲、專輯《就要掷地有声的炸裂》第二支單曲 |
+| 喊出我的名字     | 專輯《就要掷地有声的炸裂》第一支單曲 |                            |
+| 2019年8月8日  | 誰都別吝嗇              | 專輯《就要掷地有声的炸裂》第一支主打歌        |
+| 2019年8月15日 | WORLD WORLD WORLD  | 專輯《就要掷地有声的炸裂》第二支主打歌        |
+| 2019年8月22日 | 十二                 | 專輯《就要掷地有声的炸裂》第三支主打歌        |
+| 2019年8月29日 | 就要擲地有聲的炸裂          | 專輯《就要掷地有声的炸裂》同名主打歌         |
 
 ### OST
 
@@ -316,65 +292,88 @@ Center</p></td>
 </tbody>
 </table>
 
+### 合作單曲
+
+|            |    |           |                                                                                                                                                                                             |                   |
+| ---------- | -- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| **發佈日期**   | 曲目 | 參與成員      | 合作演唱者                                                                                                                                                                                       | **備註**            |
+| 2019年8月26日 | 無限 | 周震南、劉也、趙磊 | [胡彥斌](../Page/胡彥斌.md "wikilink")、[迪麗熱巴](https://zh.wikipedia.org/wiki/迪麗熱巴 "wikilink")、[孟美岐](../Page/孟美岐.md "wikilink")、[段奧娟](../Page/段奧娟.md "wikilink")、[Yamy](../Page/Yamy.md "wikilink") | 收錄於原創愛國歌曲專輯《聲在中國》 |
+
 ## 綜藝節目
 
 ### 專屬綜藝
 
-|            |                                                                  |                  |         |
-| ---------- | ---------------------------------------------------------------- | ---------------- | ------- |
-| **播出日期**   | 播出平台                                                             | **節目名稱**         | **備註**  |
-| 2019年8月11日 | [騰訊視頻](https://zh.wikipedia.org/wiki/騰訊視頻 "wikilink")            | 《Super R1SE·蓄能季》 | R1SE小團綜 |
-| 2019年      | 《[我+](https://zh.wikipedia.org/wiki/我+ "wikilink")》              | 專屬團綜；國內首檔陪伴式互動綜藝 |         |
-| 2019年      | 《[橫沖直撞20歲第二季](https://zh.wikipedia.org/wiki/橫沖直撞20歲 "wikilink")》 | R1SE專屬大團綜        |         |
+|            |                                                       |                  |         |
+| ---------- | ----------------------------------------------------- | ---------------- | ------- |
+| **播出日期**   | 播出平台                                                  | **節目名稱**         | **備註**  |
+| 2019年8月11日 | [騰訊視頻](https://zh.wikipedia.org/wiki/騰訊視頻 "wikilink") | 《Super R1SE·蓄能季》 | R1SE小團綜 |
+| 2019年      | 《我+》                                                  | 專屬團綜；國內首檔陪伴式互動綜藝 |         |
+| 2019年      | 《橫沖直撞20歲<rb>第二季》                                      | R1SE專屬大團綜        |         |
 
 ### 嘉賓出演
-
-|            |                                                                 |                                                             |      |
-| ---------- | --------------------------------------------------------------- | ----------------------------------------------------------- | ---- |
-| **播出日期**   | 播出平台                                                            | **節目名稱**                                                    | 參與成員 |
-| 2019年8月4日  | [騰訊視頻](https://zh.wikipedia.org/wiki/騰訊視頻 "wikilink")           | 《[合唱吧300](https://zh.wikipedia.org/wiki/合唱吧300 "wikilink")》 | 全員   |
-| 2019年8月10日 | 《[明日之子水晶時代](https://zh.wikipedia.org/wiki/明日之子水晶時代 "wikilink")》 |                                                             |      |
-| 2019年8月13日 | 《[我們長大了](https://zh.wikipedia.org/wiki/我們長大了 "wikilink")》       | 焉栩嘉、翟瀟聞                                                     |      |
-| 2019年8月20日 |                                                                 |                                                             |      |
-| 2019年      | 《超新星全運會 第二季》                                                    | 全員                                                          |      |
-
-## 雜誌寫真
 
 <table>
 <tbody>
 <tr class="odd">
-<td><p><strong>年份</strong></p></td>
-<td><p><strong>期數</strong></p></td>
-<td><p><strong>雜誌名稱</strong></p></td>
-<td><p><strong>備註</strong></p></td>
+<td><p><strong>播出日期</strong></p></td>
+<td><p>播出平台</p></td>
+<td><p><strong>節目名稱</strong></p></td>
+<td><p>參與成員</p></td>
 </tr>
 <tr class="even">
-<td><p>2019</p></td>
-<td><p>6月15日</p></td>
-<td><p>《南都娛樂周刊》</p></td>
-<td><p>團體及成員單人封面</p></td>
+<td><p>2019年8月4日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/騰訊視頻" title="wikilink">騰訊視頻</a></p></td>
+<td><p>《合唱吧300》</p></td>
+<td><p>全員</p></td>
 </tr>
 <tr class="odd">
-<td><p>7月號</p></td>
-<td><p>《城市畫報 CITY ZINE》</p></td>
-<td><p>團體封面</p></td>
+<td><p>2019年9月1日</p></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>ISSUE 20</p></td>
-<td><p>《時尚芭莎》<br />
-電子刊</p></td>
-<td><p>團體及成員單人封面</p></td>
+<td><p>2019年8月10日</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/明日之子水晶時代" title="wikilink">明日之子水晶時代</a>》</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>ISSUES 5</p></td>
-<td><p>《ELLEidol》</p></td>
+<td><p>2019年8月13日</p></td>
+<td><p>《我們長大了》</p></td>
+<td><p>焉栩嘉、翟瀟聞</p></td>
 <td></td>
+</tr>
+<tr class="even">
+<td><p>2019年8月20日</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年</p></td>
+<td><p>《超新星全運會<br />
+第二季》</p></td>
+<td><p>全員</p></td>
 <td></td>
 </tr>
 </tbody>
 </table>
+
+## 雜誌寫真
+
+|          |                  |          |      |         |
+| -------- | ---------------- | -------- | ---- | ------- |
+| **年份**   | **期數**           | **雜誌名稱** | 參與成員 | 備註      |
+| 2019     | 6月15日            | 《南都娛樂周刊》 | 全員   | 團體及個人封面 |
+| 7月號      | 《城市畫報 CITY ZINE》 | 團體封面     |      |         |
+| ISSUE 20 | 《時尚芭莎》           | 團體及個人封面  |      |         |
+| ISSUES 5 | 《ELLEidol》       |          |      |         |
+|          | 《Super ELLE》     | 個人       |      |         |
+|          | 《VogueMe》        | 團體       |      |         |
+| 十周年紀念刊   | 《智族GQ》           |          |      |         |
+|          | 《時尚COSMOPOLITAN》 | 周震南      | 單人   |         |
+|          | 《時尚芭莎》           |          |      |         |
 
 ## 廣告代言及推廣
 
@@ -383,25 +382,38 @@ Center</p></td>
 | **年份**              | 形式                    | 參與成員                    | 產品名稱         |
 | 2019                | 團體                    | 全員                      | 蒙牛純甄小蠻腰品牌代言人 |
 | 電視劇《全職高手》高手劇推官      |                       |                         |              |
-| 小分隊                 | 周震南、何洛洛、夏之光           | 康師傅冰紅茶品牌代言人             |              |
-| 周震南、何洛洛、焉栩嘉         | 騰訊視頻VIP品牌代言人          |                         |              |
-| 周震南、何洛洛、張顏齊、趙讓      | 必勝客品牌代言人              |                         |              |
-| 周震南、張顏齊             | 百事可樂品牌代言人             |                         |              |
+| 《王者榮耀》無限王者團友團       |                       |                         |              |
+| 小分隊                 | 周震南、張顏齊               | 百事可樂無糖勁爽實驗室推廣大使         |              |
 | 何洛洛、翟瀟聞             | 麥吉麗護膚及面膜系列代言人         |                         |              |
 | 焉栩嘉、夏之光             | 麥吉麗彩妝系列代言人            |                         |              |
 | 焉栩嘉、劉也              | Olay 超A系列品牌大使         |                         |              |
+| 翟瀟聞、任豪              | 潘婷推廣合作                |                         |              |
+| 周震南、何洛洛、夏之光         | 康師傅冰紅茶燃戰隊             |                         |              |
+| 周震南、何洛洛、焉栩嘉         | 騰訊視頻VIP品牌代言人          |                         |              |
+| 焉栩嘉、姚琛、翟瀟聞          | M豆品牌大使                |                         |              |
+| 周震南、何洛洛、張顏齊、趙讓      | 必勝客品牌代言人              |                         |              |
 | 單人                  | 周震南                   | Innisfree悅詩風吟品牌中國區護膚代言人 |              |
 | MAX FACTOR蜜斯佛陀底妝代言人 |                       |                         |              |
+| Benefil貝玲妃眉眼部品牌大使   |                       |                         |              |
 | 夏之光                 | 東方季道品牌代言人             |                         |              |
 | 姚琛                  | Paparecipe春雨面膜 星推官    |                         |              |
 | 趙磊                  | MASHAIRI「Hey，鳳梨」系列代言人 |                         |              |
+
+## 獎項與榮譽
+
+### 大型頒獎禮獎項
+
+|        |            |        |
+| ------ | ---------- | ------ |
+| **年份** | **頒獎典禮**   | **獎項** |
+| 2019   | 智族GQ年度人物盛典 | 年度团体   |
 
 ## 參考資料
 
 ## 外部連結
 
   -
-[Category:期間限定團體](https://zh.wikipedia.org/wiki/Category:期間限定團體 "wikilink") [Category:中國男子演唱團體](https://zh.wikipedia.org/wiki/Category:中國男子演唱團體 "wikilink") [Category:2019年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2019年成立的音樂團體 "wikilink")
+[Category:期間限定團體](https://zh.wikipedia.org/wiki/Category:期間限定團體 "wikilink") [Category:中國男子演唱團體](https://zh.wikipedia.org/wiki/Category:中國男子演唱團體 "wikilink") [Category:2019年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2019年成立的音樂團體 "wikilink") [Category:R1SE](https://zh.wikipedia.org/wiki/Category:R1SE "wikilink")
 
 1.
 2.

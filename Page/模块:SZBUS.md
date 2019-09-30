@@ -149,6 +149,49 @@ end
 
 end
 
+\-- 生成一条线路的一列简单表格内容 function p._internalSimpList(no, loc)
+
+`   local d = _loadSystemData(loc)`
+`   if d[no] == nil then`
+`       a = `[`align=center`](https://zh.wikipedia.org/wiki/ "wikilink")`..no..`[](https://zh.wikipedia.org/wiki/''' "wikilink")`..'`[`Module:SZBUS中未包含这条`](https://zh.wikipedia.org/wiki/Module:SZBUS "wikilink")[`"..loc.."的线路`](https://zh.wikipedia.org/wiki/'..loc.."巴士路线列表 "wikilink")`）''"`
+`   elseif d[no].note == "已停办" or d[no].note == "已停辦" then`
+`       a = `[`align=center`](https://zh.wikipedia.org/wiki/ "wikilink")`..d[no].code..`[](https://zh.wikipedia.org/wiki/''' "wikilink")
+`   else`
+`       e1 = p.tsllink(d[no].endpoint1)                         -- 处理起讫点1可能出现的`
+`       e2 = p.tsllink(d[no].endpoint2)                         -- 处理起讫点2可能出现的`
+`       -- 部分双向高峰快线（两列）：`
+`       if (d[no].direction1 ~= nil) then`
+`           a = `[`rowspan="2"``   ``align=center`](https://zh.wikipedia.org/wiki/ "wikilink")`..d[no].code..`[](https://zh.wikipedia.org/wiki/''' "wikilink")`..e1..`[](https://zh.wikipedia.org/wiki/ "wikilink")`..d[no].direction`
+`           if (d[no].endpoint3 ~= nil) then                    -- 部分双向高峰快线：去程终点和返程起点不同`
+`               a = a..`[](https://zh.wikipedia.org/wiki/ "wikilink")`..e2`
+`           else                                                -- 部分双向高峰快线：去程终点和返程起点相同`
+`               a = a..`[](https://zh.wikipedia.org/wiki/ "wikilink")`..e2`
+`           end`
+`           a = a..`[](https://zh.wikipedia.org/wiki/ "wikilink")`.."\n|-\n"..`[`align=center`](https://zh.wikipedia.org/wiki/ "wikilink")`..d[no].direction1`
+`           if (d[no].endpoint3 ~= nil) then                    -- 部分双向高峰快线：去程终点和返程起点不同`
+`               a = a..`[](https://zh.wikipedia.org/wiki/ "wikilink")`..d[no].endpoint3`
+`           else                                                -- 部分双向高峰快线：去程终点和返程起点相同`
+`               a = a`
+`           end         `
+`       -- 其他（一列）：`
+`       else`
+`           a = `[`'''`](https://zh.wikipedia.org/wiki/ "wikilink")`..d[no].code..`[](https://zh.wikipedia.org/wiki/''' "wikilink")`..e1..`[](https://zh.wikipedia.org/wiki/ "wikilink")`..d[no].direction..`[](https://zh.wikipedia.org/wiki/ "wikilink")`..e2..`[](https://zh.wikipedia.org/wiki/ "wikilink")
+`       end`
+`   end`
+`   return a`
+
+end
+
+\--  function p.simplelist(frame)
+
+`   local ss = frame.args`
+`   local loc = ss.loc`
+`   if loc == "" or loc == nil then loc = "深圳" end`
+`   local ret = p._internalSimpList(ss.code, loc)`
+`   return ret`
+
+end
+
 \-- 生成表格首列 function p._internalTitle(style, loc)
 
 `   if loc == "" or loc == nil then loc = "深圳" end`

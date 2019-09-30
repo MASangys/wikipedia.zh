@@ -1,4 +1,4 @@
-《**HANN**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[(G)I-DLE](../Page/\(G\)I-DLE.md "wikilink") 首張數位單曲，於2018年8月14日推出。
+《**HANN (Alone)**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[(G)I-DLE](../Page/\(G\)I-DLE.md "wikilink") 首張數位單曲，於2018年8月14日推出。
 
 ## 簡介
 
@@ -8,21 +8,21 @@
 
 8月5日，官方社群帳號發佈Whistle版本預告。\[2\]
 
-8月6日，官方社群帳號宣布，確定將於8月14日攜首張數位單曲《HANN》回歸。\[3\]
+8月6日，官方社群帳號宣布，確定將於8月14日攜首張數位單曲《HANN (Alone)》回歸。\[3\]
 
 ### 正式發行
 
-8月14日，韓國時間下午6點，公開首張數位單曲《HANN》。
+8月14日，韓國時間下午6點，公開首張數位單曲《HANN (Alone)》。
 
 ## 曲目
 
 ## 音樂錄影帶
 
-| 歌曲                                                  | 發表日期                                                                                    | 媒體                                                                   | 備註                          |
-| --------------------------------------------------- | --------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | --------------------------- |
-| [HANN](https://www.youtube.com/watch?v=3K38Fc1SV5c) | 2018年8月14日                                                                              | [1theK 官方YouTube频道](https://www.youtube.com/user/LOENENT)            |                             |
-| [HANN](https://www.youtube.com/watch?v=OKNXn2qCEws) | [(G)I-DLE 官方YouTube频道](https://www.youtube.com/channel/UCritGVo7pLJLUS8wEu32vow/videos) |                                                                      |                             |
-| [HANN](https://www.youtube.com/watch?v=EGuuBE7xjBk) | 2018年8月20日                                                                              | [CUBE官方YouTube频道](https://www.youtube.com/user/theunitedcube/videos) | Choreography Practice Video |
+| 歌曲                                                          | 發表日期                                                                                    | 媒體                                                                   | 備註                          |
+| ----------------------------------------------------------- | --------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | --------------------------- |
+| [HANN (Alone)](https://www.youtube.com/watch?v=3K38Fc1SV5c) | 2018年8月14日                                                                              | [1theK 官方YouTube频道](https://www.youtube.com/user/LOENENT)            |                             |
+| [HANN (Alone)](https://www.youtube.com/watch?v=OKNXn2qCEws) | [(G)I-DLE 官方YouTube频道](https://www.youtube.com/channel/UCritGVo7pLJLUS8wEu32vow/videos) |                                                                      |                             |
+| [HANN (Alone)](https://www.youtube.com/watch?v=EGuuBE7xjBk) | 2018年8月20日                                                                              | [CUBE官方YouTube频道](https://www.youtube.com/user/theunitedcube/videos) | Choreography Practice Video |
 
 ## 榜單成績
 
@@ -32,7 +32,7 @@
 <tbody>
 <tr class="odd">
 <td><p>音源榜（2018）</p></td>
-<td><p>主打歌曲 HANN 最高名次</p></td>
+<td><p>主打歌曲〈HANN (Alone)〉最高名次</p></td>
 </tr>
 <tr class="even">
 <td><p>實時榜</p></td>
@@ -99,7 +99,7 @@
 <td><p>2018年</p></td>
 </tr>
 <tr class="odd">
-<td><p>HANN</p></td>
+<td><p>HANN (Alone)</p></td>
 </tr>
 <tr class="even">
 <td><ul>
@@ -134,7 +134,7 @@
 <td><p>電視台</p></td>
 </tr>
 <tr class="even">
-<td><p>《HANN》</p></td>
+<td><p>《HANN (Alone)》</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/Mnet媒體.md" title="wikilink">Mnet</a></p></td>
@@ -228,9 +228,9 @@
 <tbody>
 <tr class="odd">
 <td><p>Gaon Download Chart</p></td>
-<td><p>HANN</p></td>
+<td><p>HANN (Alone)</p></td>
 <td><p>—</p></td>
-<td><p><ref>下載量排名《HANN》</p>
+<td><p><ref>下載量排名《HANN (Alone)》</p>
 <ul>
 <li><a href="http://www.gaonchart.co.kr/main/section/chart/online.gaon?nationGbn=T&amp;serviceGbn=S1020&amp;termGbn=month">2018年GAON8月Download Chart9位</a></li>
 <li><a href="http://www.gaonchart.co.kr/main/section/chart/online.gaon?nationGbn=T&amp;serviceGbn=S1020&amp;targetTime=09&amp;hitYear=2018&amp;termGbn=month">2018年GAON9月Download Chart10位</a></li>

@@ -86,8 +86,8 @@ NEW WORLD</p></td>
 <td><p><strong>必殺技</strong></p></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center;background-color:|<font color=silver><strong>Cross-Z Evol<br />
-進化形態</strong></font></p></td>
+<td><p>#007FFF, Black, #007FFF}}|<strong>Cross-Z Evol<br />
+進化形態</strong></p></td>
 <td><p>原文：[1]<br />
 配合創造驅動器及使用「Muscle Galaxy」滿裝瓶變身的形態<br />
 身高：200.0cm<br />
@@ -146,8 +146,8 @@ NEW WORLD</p></td>
 <td><p><strong>必殺技</strong></p></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center;background-color:|<font color=black><strong>KillbuSpider<br />
-蜘蛛形態</strong></font></p></td>
+<td><p><strong>KillbuSpider<br />
+蜘蛛形態</strong></p></td>
 <td><p>原文：[2]<br />
 配合創造驅動器及使用「KillbuSpider」搭配「KillbuSpider」滿裝瓶變身的形態<br />
 身高：194.5cm<br />
@@ -213,7 +213,7 @@ NEW WORLD</p></td>
     配合創造驅動器及「基魯巴蜘蛛（KillbuSpider）」滿裝瓶即可變身成假面騎士Killbus「蜘蛛形態（Spider Form）」。
     配合創造驅動器時發動必殺技的音效為「Ready Go！KillbuSpider Finish！」（原文：）。
 
-### 樂曲
+樂曲 :Cross
 
 ### 演員
 
@@ -282,8 +282,8 @@ NEW WORLD</p></td>
 <td><p><strong>必殺技</strong></p></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center;background-color:|<font color=silver><strong>Grease Perfect Kingdom<br />
-理想王國形態</strong></font></p></td>
+<td><p><strong>Grease Perfect Kingdom<br />
+理想王國形態</strong></p></td>
 <td><p>原文：[3]<br />
 配合創造驅動器及使用「Grease Perfect Kingdom」搭配「Grease」滿裝瓶變身的形態<br />
 身高：cm<br />
@@ -336,7 +336,7 @@ NEW WORLD</p></td>
   -
     原文： / *Grease Perfect Kingdom*
     由桐生戰兔連同政府機關共同為猿渡一海研發出來的新型變身道具，造型上和迫近之龍與基魯巴蜘蛛同樣，其力量泉源是北都三羽鴉的性命\[5\]，因此可看出紅色城堡、藍色鍬形蟲和黃色貓頭鷹的外觀。
-    配合「潤滑（Grease）」滿裝瓶再搭配創造驅動器即刻使假面騎士Grease變身成「完美國度形態（Perfect Kingdom Form）」。
+    配合「潤滑（Grease）」滿裝瓶再搭配創造驅動器可使假面騎士Grease變身成「理想王國形態（Perfect Kingdom Form）」。
 
 ### 本作登場怪人
 

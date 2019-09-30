@@ -1,8 +1,8 @@
-**SNH48 Group第六屆總決選「新的旅程」**，亦稱作「SNH48 Group第六屆偶像年度人氣總決選」，是中國女子團體[SNH48於](https://zh.wikipedia.org/wiki/SNH48 "wikilink")2019年6月至7月間舉辦的投票活動\[1\]。由粉絲以投票的方式，據各自得票總數選出第1至16名（星光組「Top Girls」）、第17至32名（高飛組「Under Girls」）、第33至48名（夢想組「Next Girls」）。入選成員會根據分組，分別獲得匯報作品參演資格及相應的站位和推廣資源。
+**SNH48 Group第六屆總決選「新的旅程」**，亦稱作「SNH48 Group第六屆偶像年度人氣總決選」，是中國女子團體[SNH48](../Page/SNH48.md "wikilink")於2019年6月至7月間舉辦的投票活動\[1\]。由粉絲以投票的方式，據各自得票總數選出第1至16名（星光組「Top Girls」）、第17至32名（高飛組「Under Girls」）、第33至48名（夢想組「Next Girls」）。入選成員會根據分組，分別獲得匯報作品參演資格及相應的站位和推廣資源。
 
 ## 概要
 
-SNH48 Group第六屆偶像年度人氣總決選於5月25日启动，并于6月8日开放公众投票。本届年度人气总决选主题定为「新的旅程」，分为“新的启航”、“新的冲刺”、“新的闪耀”三个部分。本届年度偶像人气总决选将设置48个席位，由[SNH48](https://zh.wikipedia.org/wiki/SNH48 "wikilink")、[BEJ48](https://zh.wikipedia.org/wiki/BEJ48 "wikilink")、[GNZ48三团符合参选资格的成员参选](https://zh.wikipedia.org/wiki/GNZ48 "wikilink")，而姐妹团也将根据得票排名，选出各团TOP 16成员 \[2\]\[3\]。入選成員和分組將根據所公佈的年度激勵措施，分別獲得匯報作品參演資格及相應的站位和推廣資源。
+SNH48 Group第六屆偶像年度人氣總決選於5月25日启动，并于6月8日开放公众投票。本届年度人气总决选主题定为「新的旅程」，分为“新的启航”、“新的冲刺”、“新的闪耀”三个部分。本届年度偶像人气总决选将设置48个席位，由[SNH48](../Page/SNH48.md "wikilink")、[BEJ48](https://zh.wikipedia.org/wiki/BEJ48 "wikilink")、[GNZ48三团符合参选资格的成员参选](https://zh.wikipedia.org/wiki/GNZ48 "wikilink")，而姐妹团也将根据得票排名，选出各团TOP 16成员 \[2\]\[3\]。入選成員和分組將根據所公佈的年度激勵措施，分別獲得匯報作品參演資格及相應的站位和推廣資源。
 
 ## 播出平臺
 
@@ -49,7 +49,7 @@ SNH48 Group第六屆偶像年度人氣總決選於5月25日启动，并于6月8�
 
 ## 候選人員
 
-该届总决选的候选人员包含[SNH48](https://zh.wikipedia.org/wiki/SNH48 "wikilink")、[BEJ48](https://zh.wikipedia.org/wiki/BEJ48 "wikilink")、[GNZ48等三个团体的所有合资格成员](https://zh.wikipedia.org/wiki/GNZ48 "wikilink")，以及获得代役资格且完成了代役申请的[IDOLS Ft成员](../Page/IDOLS_Ft.md "wikilink")。对参选的IDOLS Ft成员，如在中报或最终结果中获得名次，则有关成员可获进入正式团体的资格。
+该届总决选的候选人员包含[SNH48](../Page/SNH48.md "wikilink")、[BEJ48](https://zh.wikipedia.org/wiki/BEJ48 "wikilink")、[GNZ48等三个团体的所有合资格成员](https://zh.wikipedia.org/wiki/GNZ48 "wikilink")，以及获得代役资格且完成了代役申请的[IDOLS Ft成员](../Page/IDOLS_Ft.md "wikilink")。对参选的IDOLS Ft成员，如在中报或最终结果中获得名次，则有关成员可获进入正式团体的资格。
 
 ### SNH48（86人）
 

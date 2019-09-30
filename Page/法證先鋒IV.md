@@ -18,7 +18,7 @@
 <td><p><strong>高　安</strong></p></td>
 <td><p>'''高Sir、Colton '''<br />
 高級化驗師<br />
-高靖之兄<br />
+張曦雯、高靖之兄<br />
 與鄭希怡、徐意有感情線<br />
 <a href="../Page/黎燕珊.md" title="wikilink">黎燕珊</a>之子</p></td>
 </tr>
@@ -103,7 +103,7 @@
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/朱晨麗" title="wikilink">朱晨麗</a></strong></p></td>
 <td><p><strong>高　靖</strong></p></td>
 <td><p>警長<br />
-高安之妹<br />
+高安之妹 張曦雯之家姐<br />
 與湛霆有感情線</p></td>
 </tr>
 <tr class="even">
@@ -175,14 +175,14 @@
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/張曦雯.md" title="wikilink">張曦雯</a></strong></p></td>
-<td></td>
+<td><p><strong>馬靄美</strong></p></td>
 <td><p>空姐、模特兒<br />
 高安、高靖之妹<br />
 （特別演出）</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/陳敏之.md" title="wikilink">陳敏之</a></strong></p></td>
-<td></td>
+<td><p><strong>藍嘉美</strong></p></td>
 <td><p>心理專家</p></td>
 </tr>
 <tr class="even">

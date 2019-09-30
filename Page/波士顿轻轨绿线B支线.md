@@ -16,7 +16,7 @@
 
 ### 线路扩张
 
-[Passenger_waiting_at_Leamington_Road,_circa_1915-1930.jpg](https://zh.wikipedia.org/wiki/File:Passenger_waiting_at_Leamington_Road,_circa_1915-1930.jpg "fig:Passenger_waiting_at_Leamington_Road,_circa_1915-1930.jpg") 湖街以西路段的有轨电车由联邦大道街道铁路公司运营，后来于1904年合并为，1909年合并为米德尔塞克斯和波士顿街道铁路。\[15\]牛顿街道铁路途径水城线，往返于公园街和沃尔瑟姆，于1903年2月23日开始运行。1912年4月，[波士顿地铁红线](../Page/波士顿地铁红线.md "wikilink")开通后，沃尔瑟姆线改道至。\[16\]1912年5月1日，米德尔塞克斯和波士顿街道铁路公司在联邦大道上开通了一条新的线路，通往。\[17\]
+[Passenger_waiting_at_Leamington_Road,_circa_1915-1930.jpg](https://zh.wikipedia.org/wiki/File:Passenger_waiting_at_Leamington_Road,_circa_1915-1930.jpg "fig:Passenger_waiting_at_Leamington_Road,_circa_1915-1930.jpg") 湖街以西路段的有轨电车由联邦大道街道铁路公司运营，后来于1904年合并为，1909年合并为米德尔塞克斯和波士顿街道铁路。\[15\]牛顿街道铁路途径水城线，往返于公园街和沃尔瑟姆，于1903年2月23日开始运行。1912年4月，[波士顿地铁红线](../Page/波士顿地铁红线.md "wikilink")开通后，沃尔瑟姆线改道至[中央广场站](https://zh.wikipedia.org/wiki/中央广场站_\(波士顿地铁\) "wikilink")。\[16\]1912年5月1日，米德尔塞克斯和波士顿街道铁路公司在联邦大道上开通了一条新的线路，通往。\[17\]
 
 博伊尔斯顿街地铁隧道，作为特里蒙特街地铁隧道的延长线，于1914年10月3日开通。隧道从特里蒙特街地铁隧道一直延伸至肯莫尔广场，在中间设有[科普利站](../Page/科普利站.md "wikilink")和[海因斯会议中心站](../Page/海因斯会议中心站.md "wikilink")。\[18\]随后，1921年，[阿灵顿站](../Page/阿灵顿站.md "wikilink")建成。牛顿高地线随后被缩减，终点站设为湖街站，与波士顿高架铁路公司的线路相连。\[19\] 1914年11月1日，诺鲁姆贝加公园线也同样被缩减。\[20\] [Crowds_at_Braves_Field_Loop,_opening_day,_1915.jpg](https://zh.wikipedia.org/wiki/File:Crowds_at_Braves_Field_Loop,_opening_day,_1915.jpg "fig:Crowds_at_Braves_Field_Loop,_opening_day,_1915.jpg") 联邦大道线上有两座主要的棒球场，分别为1912年建的[芬威球場](../Page/芬威球場.md "wikilink")和1915年建的。波士顿高架铁路公司在肯莫尔站建造了预付费封闭车站，乘客需要先检票才能进站候车。\[21\]勇士球场于1915年8月18日开放，球场边的车站也是预付费车站，并有供车辆调转方向的环型轨道。\[22\]这个环形轨道也被用于波士顿红袜队在芬威球场比赛时，或者上下班高峰期。\[23\]比赛期间，环型轨道使用频率十分高，尤其是在期间，公园街至勇士球场的有轨电车每45秒一班 。\[24\]
 

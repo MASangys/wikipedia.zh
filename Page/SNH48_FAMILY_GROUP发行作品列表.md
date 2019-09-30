@@ -1,4 +1,4 @@
-本条目收录被合称为“**[SNH48](https://zh.wikipedia.org/wiki/SNH48 "wikilink") FAMILY GROUP**”的[7SENSES](https://zh.wikipedia.org/wiki/7SENSES "wikilink")、[BlueV及](https://zh.wikipedia.org/wiki/BlueV "wikilink")[HO2等团体所发行的EP及专辑](https://zh.wikipedia.org/wiki/HO2_\(偶像团体\) "wikilink")。
+本条目收录被合称为“**[SNH48](../Page/SNH48.md "wikilink") FAMILY GROUP**”的[7SENSES](https://zh.wikipedia.org/wiki/7SENSES "wikilink")、[BlueV及](https://zh.wikipedia.org/wiki/BlueV "wikilink")[HO2等团体所发行的EP及专辑](https://zh.wikipedia.org/wiki/HO2_\(偶像团体\) "wikilink")。
 
 ## 7SENSES
 

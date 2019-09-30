@@ -24,6 +24,93 @@
 | ----- | ---------------------- | ---- | ---------- |
 | 2016年 | 《快樂第四名 (Fourth Place)》 | 宰鉉   | 2016年4月13日 |
 
+## 專屬綜藝節目
+
+<table>
+<thead>
+<tr class="header">
+<th><p>年份</p></th>
+<th><p>日期</p></th>
+<th><p>播放平台</p></th>
+<th><p>節目名稱</p></th>
+<th><p>集數</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2017年</p></td>
+<td><p>5月30日 - 7月18日</p></td>
+<td><p><a href="../Page/Mnet媒體.md" title="wikilink">Mnet</a><br />
+V LIVE</p></td>
+<td><p>《<a href="../Page/2017_WOOLLIM_PICK.md" title="wikilink">2017 WoollimPICK</a>》</p></td>
+<td><p>8集</p></td>
+</tr>
+<tr class="even">
+<td><p>9月5日－10月24日</p></td>
+<td><p>V LIVE</p></td>
+<td><p>《敲響吧! Golden Child》</p></td>
+<td><p>8集</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2018年</p></td>
+<td><p>1月31日－2月21日</p></td>
+<td><p>V LIVE <a href="../Page/YouTube.md" title="wikilink">YouTube</a></p></td>
+<td><p>《Golden Movie》</p></td>
+<td><p>4集</p></td>
+</tr>
+<tr class="even">
+<td><p>5月10日－5月17日</p></td>
+<td><p>V LIVE <a href="../Page/YouTube.md" title="wikilink">YouTube</a></p></td>
+<td><p>《GolCha的休息日 第一季》</p></td>
+<td><p>2集</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>7月26日－8月16日</p></td>
+<td><p>《GolCha的休息日 第二季》</p></td>
+<td><p>4集</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>10月22日－</p></td>
+<td><p>V LIVE <a href="../Page/YouTube.md" title="wikilink">YouTube</a></p></td>
+<td><p>《CH.GOL-CHA!》</p></td>
+<td><p>12集</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>12月6日－12月27日</p></td>
+<td><p>V LIVE</p></td>
+<td><p>《MAKE A WISH》</p></td>
+<td><p>4集</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年</p></td>
+<td><p>2月25日 - 3月12日</p></td>
+<td><p>Kchan!韓流TV</p></td>
+<td><p>《GolCha TV》</p></td>
+<td><p>12集</p></td>
+</tr>
+<tr class="odd">
+<td><p>－4月2日</p></td>
+<td><p>V LIVE <a href="../Page/YouTube.md" title="wikilink">YouTube</a></p></td>
+<td><p>《CH.GOL-CHA!》</p></td>
+<td><p>18集</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>7月5日</p></td>
+<td><p><a href="../Page/YouTube.md" title="wikilink">YouTube</a></p></td>
+<td><p>《GolCha的休息日 第三季》</p></td>
+<td><p>6集</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ## 綜藝節目
 
 <table>
@@ -167,7 +254,8 @@
 <td><p>2月5日 2月6日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/MBC偶像明星運動會" title="wikilink">MBC偶像明星運動會</a>》</p></td>
-<td><p>全員</p></td>
+<td><p>全員<br />
+</p></td>
 <td><p>男子田徑60公尺<br />
 [Y、長埈]</p></td>
 </tr>
@@ -202,7 +290,7 @@
 <td><p>4月20日-</p>
 <p>5月4日</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/叢林的法則" title="wikilink">叢林的法則</a>》</p></td>
+<td><p>《<a href="../Page/叢林的法則.md" title="wikilink">叢林的法則</a>》</p></td>
 <td><p>普閔</p></td>
 <td></td>
 <td></td>
@@ -216,98 +304,51 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>9月12日 9月13日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/MBC偶像明星運動會" title="wikilink">MBC偶像明星運動會</a>》</p></td>
+<td><p>全員</p></td>
+<td><p>男子田徑60公尺 [Y、長埈]</p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-## 專屬綜藝節目
-
-<table>
-<thead>
-<tr class="header">
-<th><p>年份</p></th>
-<th><p>日期</p></th>
-<th><p>播放平台</p></th>
-<th><p>節目名稱</p></th>
-<th><p>集數</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>2017年</p></td>
-<td><p>5月30日 - 7月18日</p></td>
-<td><p><a href="../Page/Mnet媒體.md" title="wikilink">Mnet</a><br />
-V LIVE</p></td>
-<td><p>《<a href="../Page/2017_WOOLLIM_PICK.md" title="wikilink">2017 WoollimPICK</a>》</p></td>
-<td><p>8集</p></td>
 </tr>
 <tr class="even">
-<td><p>9月5日－10月24日</p></td>
-<td><p>V LIVE</p></td>
-<td><p>《敲響吧! Golden Child》</p></td>
-<td><p>8集</p></td>
+<td><p>男子摔跤 [長埈、TAG、勝民]</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2018年</p></td>
-<td><p>1月31日－2月21日</p></td>
-<td><p>V LIVE <a href="../Page/YouTube.md" title="wikilink">YouTube</a></p></td>
-<td><p>《Golden Movie》</p></td>
-<td><p>4集</p></td>
-</tr>
-<tr class="even">
-<td><p>5月10日－5月17日</p></td>
-<td><p>V LIVE <a href="../Page/YouTube.md" title="wikilink">YouTube</a></p></td>
-<td><p>《GolCha的休息日 第一季》</p></td>
-<td><p>2集</p></td>
+<td><p>電競遊戲 [大烈、勝民、知範、東炫]</p></td>
 <td></td>
-</tr>
-<tr class="odd">
-<td><p>7月26日－8月16日</p></td>
-<td><p>《GolCha的休息日 第二季》</p></td>
-<td><p>4集</p></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>10月22日－</p></td>
-<td><p>V LIVE <a href="../Page/YouTube.md" title="wikilink">YouTube</a></p></td>
-<td><p>《CH.GOL-CHA!》</p></td>
-<td><p>12集</p></td>
+<td><p>男子400公尺接力 [Y、長埈、勝民、東炫]</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>12月6日－12月27日</p></td>
-<td><p>V LIVE</p></td>
-<td><p>《MAKE A WISH》</p></td>
-<td><p>4集</p></td>
+<td><p>點球 [大烈、宰鉉、普閔]</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2019年</p></td>
-<td><p>2月25日 - 3月12日</p></td>
-<td><p>Kchan!韓流TV</p></td>
-<td><p>《GolCha TV》</p></td>
-<td><p>12集</p></td>
-</tr>
-<tr class="odd">
-<td><p>－4月2日</p></td>
-<td><p>V LIVE <a href="../Page/YouTube.md" title="wikilink">YouTube</a></p></td>
-<td><p>《CH.GOL-CHA!》</p></td>
-<td><p>18集</p></td>
 <td></td>
-</tr>
-<tr class="even">
-<td><p>7月5日</p></td>
-<td><p><a href="../Page/YouTube.md" title="wikilink">YouTube</a></p></td>
-<td><p>《GolCha的休息日 第三季》</p></td>
-<td><p>6集</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>
@@ -1225,6 +1266,24 @@ Christmas 'WCH 쇼! 명랑음악회' V LIVE</p></td>
 주찬이의 가로등이 빛나는 밤에 Ep.15</p></td>
 <td><p>周燦<br />
 (電話連接: Y 長埈 東炫 普閔)</p></td>
+</tr>
+<tr class="odd">
+<td><p>9月17日</p></td>
+<td><p>因為想念所以開直播 需要題目嗎<br />
+보고싶어서켰는데 제목이 필요한가???</p></td>
+<td><p>長埈</p></td>
+</tr>
+<tr class="even">
+<td><p>9月18日</p></td>
+<td><p>今天打算讀點書<br />
+오늘은 독서 좀 해보려구요 ^^</p></td>
+<td><p>Y 周燦</p></td>
+</tr>
+<tr class="odd">
+<td><p>9月19日</p></td>
+<td><p>叩叩叩 宅配來了<br />
+똑똑똑 택배왔어요~</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>

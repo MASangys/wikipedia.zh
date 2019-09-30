@@ -12,7 +12,7 @@
 
 ## 第三次会议
 
-1936年10月召开第三次会议，谈判主题为哈拉哈河国境交涉、[贝尔湖渔业分配等](https://zh.wikipedia.org/wiki/贝尔湖 "wikilink")，话题还有日苏关系、[日德协定等国际问题](https://zh.wikipedia.org/wiki/反共產國際協定 "wikilink")\[1\]。
+1936年10月召开第三次会议，谈判主题为哈拉哈河国境交涉、[贝尔湖渔业分配等](https://zh.wikipedia.org/wiki/贝尔湖 "wikilink")，话题还有日苏关系、[日德协定等国际问题](../Page/反共產國際協定.md "wikilink")\[1\]。
 
 ## 参考资料
 

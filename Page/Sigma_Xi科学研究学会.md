@@ -1,4 +1,4 @@
-**Sigma Xi科学研究学会**（），是一个[非营利性的科学家和工程师荣誉学会](https://zh.wikipedia.org/wiki/非营利性 "wikilink")，由一名初级教员和一些研究生于1886年在[康奈尔大学创立](https://zh.wikipedia.org/wiki/康奈尔大学 "wikilink")。\[1\]协会入会标准是拥有较大影响力的研究成果或者发展潜力较大。
+**Sigma Xi科学研究学会**（），是一个[非营利的科学家和工程师荣誉学会](https://zh.wikipedia.org/wiki/非营利 "wikilink")，由一名初级教员和一些研究生于1886年在[康奈尔大学创立](https://zh.wikipedia.org/wiki/康奈尔大学 "wikilink")。\[1\]协会入会标准是拥有影响力或发展潜力较大的研究成果。
 
 ## 文献资料
 

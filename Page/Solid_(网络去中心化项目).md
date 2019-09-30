@@ -1,4 +1,4 @@
-****（中文：**社交互联数据**）\[1\]是由[万维网](../Page/万维网.md "wikilink")发明者[蒂姆·伯纳斯-李](../Page/蒂姆·伯纳斯-李.md "wikilink")（Tim Berners-Lee）领导的网络[去中心化项目](https://zh.wikipedia.org/wiki/去中心化 "wikilink")，由[麻省理工学院](../Page/麻省理工学院.md "wikilink") （MIT）运行。该项目为需要链接数据的[应用程序](../Page/应用程序.md "wikilink")开发了一个[分布式网络平台](https://zh.wikipedia.org/wiki/分布式网络 "wikilink")，这个平台完全由用户控制，而不是由其他组织或个人控制。它“旨在从根本上改变网络应用程序的工作方式，从而实现让每个人拥有真正的数据所有权，并且改善[隐私状况](../Page/隐私权.md "wikilink")”\[2\]。
+**Solid**（缩写自Social Linked Data，意为社交互联数据）\[1\]是由[万维网](../Page/万维网.md "wikilink")发明者[蒂姆·伯纳斯-李](../Page/蒂姆·伯纳斯-李.md "wikilink")（Tim Berners-Lee）领导的网络[去中心化项目](https://zh.wikipedia.org/wiki/去中心化 "wikilink")，由[麻省理工学院](../Page/麻省理工学院.md "wikilink") （MIT）运行。该项目为需要链接数据的[应用程序](../Page/应用程序.md "wikilink")开发了一个[分布式网络平台](https://zh.wikipedia.org/wiki/分布式网络 "wikilink")，这个平台完全由用户控制，而不是由其他组织或个人控制。它“旨在从根本上改变网络应用程序的工作方式，从而实现让每个人拥有真正的数据所有权，并且改善[隐私状况](../Page/隐私权.md "wikilink")”\[2\]。
 
 ## 历史
 

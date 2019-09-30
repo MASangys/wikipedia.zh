@@ -1,4 +1,4 @@
-**华为P系列**是由中国通讯设备制造商[华为](../Page/华为.md "wikilink")面向消费者发售的[智能手机](../Page/智能手机.md "wikilink")系列，是华为发行的三个旗舰级别智能手机系列之一。
+**华为P系列**是由中国通讯设备制造商[华为](../Page/华为.md "wikilink")面向消费者发售的高階[智能手机](../Page/智能手机.md "wikilink")系列，是华为发行的旗舰级别智能手机系列之一。
 
 ## 源流
 
@@ -276,6 +276,11 @@
 </tr>
 </tbody>
 </table>
+
+## 参见
+
+  - [华为Mate系列](../Page/华为Mate系列.md "wikilink")
+  - [华为MateBook](../Page/华为MateBook.md "wikilink")
 
 ## 参考资料
 

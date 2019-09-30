@@ -2,6 +2,8 @@
 
 ## 参考文献
 
+[Category:美國已結業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國已結業電子遊戲公司 "wikilink") [Category:1932年建立](https://zh.wikipedia.org/wiki/Category:1932年建立 "wikilink")
+
 1.  <https://www.concord-sots.ct.gov/CONCORD/PublicInquiry?eid=9744&businessID=0082578>
 2.
 3.

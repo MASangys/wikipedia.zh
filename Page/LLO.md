@@ -8,15 +8,11 @@
 
 ### 其他
 
-<div class="small">
-
-</div>
-
 ## 參考文獻
 
 ## 外部連結
 
   -
-[Category:日本插畫家](https://zh.wikipedia.org/wiki/Category:日本插畫家 "wikilink")
+[Category:日本插畫家](https://zh.wikipedia.org/wiki/Category:日本插畫家 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
 
 1.

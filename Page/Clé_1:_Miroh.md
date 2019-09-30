@@ -94,7 +94,7 @@
 <td><p>專輯週榜</p></td>
 <td><p>2019年3月24日－30日</p></td>
 <td><p><strong>#1</strong></p></td>
-<td><p>155,857+[6]</p></td>
+<td><p>159,117+[6]</p></td>
 <td><p>[7]</p></td>
 </tr>
 <tr class="even">

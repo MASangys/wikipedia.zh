@@ -5,24 +5,27 @@
 ## 產品
 
   - [realme 1](../Page/OPPO_A73s.md "wikilink")
-  - realme 2
-  - realme 2 Pro
-  - realme C1
-  - realme C2
-  - realme U1
-  - realme 3
-  - realme 3 Pro
-  - [realme X](https://zh.wikipedia.org/wiki/realme_X "wikilink")
-  - [realme 5](https://zh.wikipedia.org/wiki/realme_5 "wikilink")
 
-<!-- end list -->
+  - realme 2
+
+  - realme 2 Pro
+
+  - realme C1
+
+  - realme C2
+
+  - realme U1
+
+  - realme 3
+
+  - realme 3 Pro
+
+  - [realme X](https://zh.wikipedia.org/wiki/realme_X "wikilink")
 
   -
-    2019年8月20日在印度正式推出，有三種版本：3GB RAM、32GB存儲，4GB RAM、64GB存儲，4GB RAM、128GB存儲。使用Snapdragon 665 AIE處理器和Octa核心CPU。手機裝有基於Android Pie 9.0的colorOS 6.0 realme版本。
+  - [realme 5 Pro](https://zh.wikipedia.org/wiki/realme_Q "wikilink")
 
-<!-- end list -->
-
-  - realme 5 Pro
+  - [realme XT](https://zh.wikipedia.org/wiki/realme_XT "wikilink")
 
 ## 参考资料
 

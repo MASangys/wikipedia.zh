@@ -16,6 +16,7 @@
 <th><p>集數</p></th>
 <th><p>播出日期</p></th>
 <th><p>嘉賓</p></th>
+<th><p>嘉賓主持</p></th>
 </tr>
 </thead>
 <tbody>
@@ -23,53 +24,64 @@
 <td><p>1</p></td>
 <td><p>8月5日</p></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
 <td><p>8月12日</p></td>
 <td><p><a href="../Page/朴明洙.md" title="wikilink">朴明洙</a> 、<a href="../Page/鄭埻夏.md" title="wikilink">鄭埻夏</a></p></td>
+<td><p><a href="../Page/盧士燕.md" title="wikilink">盧士燕</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
 <td><p>8月19日</p></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>4</p></td>
 <td><p>8月26日</p></td>
+<td><p><a href="../Page/吳夏榮.md" title="wikilink">吳夏榮</a> (<a href="../Page/Apink.md" title="wikilink">Apink</a>)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
 <td><p>9月2日</p></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>6</p></td>
 <td><p>9月9日</p></td>
-<td></td>
+<td><p>、</p></td>
+<td><p><a href="../Page/Haha.md" title="wikilink">Haha</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>7</p></td>
 <td><p>9月16日</p></td>
-<td></td>
+<td><p><a href="../Page/阿爾貝托·蒙迪.md" title="wikilink">Alberto Mondi</a>、<a href="https://zh.wikipedia.org/wiki/張玉安" title="wikilink">張玉安</a></p></td>
+<td><p><a href="../Page/Sunny_(少女時代).md" title="wikilink">Sunny</a> (<a href="https://zh.wikipedia.org/wiki/少女時代" title="wikilink">少女時代</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p>8</p></td>
 <td><p>9月23日</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>9</p></td>
 <td><p>9月30日</p></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>10</p></td>
 <td><p>10月7日</p></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -88,15 +100,19 @@
 | 2      | 8月12日 | 0.894％ |
 | 3      | 8月19日 | 0.867％ |
 | 4      | 8月26日 | 0.917％ |
-| 5      | 9月2日  | ％      |
-| 6      | 9月9日  | ％      |
+| 5      | 9月2日  | 1.194％ |
+| 6      | 9月9日  | 1.047％ |
 | 7      | 9月16日 | ％      |
 | 8      | 9月23日 | ％      |
 | 9      | 9月30日 | ％      |
 | 10     | 10月7日 | ％      |
 |        |       |        |
 
-## 参考文献
+## 註釋與參考資料
+
+### 註釋
+
+### 參考資料
 
 ## 外部連結
 

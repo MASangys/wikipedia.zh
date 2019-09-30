@@ -32,9 +32,9 @@ According to Harvey, "\[a\]fter a long period, the [three lowest form heavens](h
 
 ### 其他
 
-公元七世紀印度佛學家[法稱在其所著的](https://zh.wikipedia.org/wiki/法稱 "wikilink")《[釋量論](../Page/釋量論.md "wikilink")》中advances a number of arguments against the existence of a creator god in his *Pramāṇavārtika*, following in the footsteps of Vasubandhu. Later Mahayana scholars such as Śāntarakṣita and Kamalaśīla continued this tradition.
+公元七世紀印度佛學家[法稱緊隨世親之後](https://zh.wikipedia.org/wiki/法稱 "wikilink")，在其所著的《[釋量論](../Page/釋量論.md "wikilink")》中提出了一些反對創世主存在的論據。後來，[寂護](../Page/寂護.md "wikilink")與[蓮花戒](../Page/蓮花戒.md "wikilink")等大乘佛學家也延續了這一學説。
 
-The 11th-century Buddhist philosopher [Ratnakīrti](https://zh.wikipedia.org/wiki/Ratnakīrti "wikilink") at the then university at Vikramashila (now Bhagalpur, [Bihar](https://zh.wikipedia.org/wiki/Bihar "wikilink")) criticized the arguments for the existence of God-like being called [Isvara](https://zh.wikipedia.org/wiki/Ishvara "wikilink"), that emerged in the [Navya-Nyaya sub-school of Hinduism](https://zh.wikipedia.org/wiki/Nyaya#Nyaya_on_God_and_salvation "wikilink"), in his “Refutation of Arguments Establishing Īśvara” (Īśvara-sādhana-dūṣaṇa). These arguments are similar to those used by other sub-schools of Hinduism and Jainism that questioned the Navya-Nyaya theory of dualistic creator.\[3\]
+公元十一世紀印度佛學家在[超戒寺](../Page/超戒寺.md "wikilink")（今[比哈尔邦](../Page/比哈尔邦.md "wikilink")[巴加爾布爾](https://zh.wikipedia.org/wiki/巴加爾布爾 "wikilink")）批評了稱為“[自在](https://zh.wikipedia.org/wiki/自在 "wikilink")”的類似神的行為的論點，that emerged in the [Navya-Nyaya sub-school of Hinduism](https://zh.wikipedia.org/wiki/Nyaya#Nyaya_on_God_and_salvation "wikilink"), in his “Refutation of Arguments Establishing Īśvara” (Īśvara-sādhana-dūṣaṇa). These arguments are similar to those used by other sub-schools of Hinduism and Jainism that questioned the Navya-Nyaya theory of dualistic creator.\[3\]
 
 ## 參見
 
@@ -64,4 +64,4 @@ The 11th-century Buddhist philosopher [Ratnakīrti](https://zh.wikipedia.org/wik
 
 1.
 2.
-3.  Parimal G. Patil. Against a Hindu God: Buddhist Philosophy of Religion in India. New York: Columbia University Press, 2009. pp. 3-4, 61-66 with footnotes, .
+3.

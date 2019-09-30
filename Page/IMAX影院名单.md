@@ -268,15 +268,15 @@
 
 <big>**墨西哥**</big>
 
-:\*阿瓜斯卡連特斯 – DOMO IMAX, DESCUBRE MUSEO INTERACTIVE CIENCIA Y TECNOLOGÍA</ref> (15/70, 2D)
+:\*阿瓜斯卡連特斯 – DOMO IMAX, DESCUBRE MUSEO INTERACTIVE CIENCIA Y TECNOLOGÍA (15/70, 2D)
 
 :\*蒙特雷 - Megapantalla IMAX Bonorte (21m×16.00m) (IMAX GT Laser, 1.43:1)
 
-:\*聖佩德羅加爾薩加西亞– DOMO IMAX, PLANETARIO ALFA </ref> (15/70, 2D)
+:\*聖佩德羅加爾薩加西亞– DOMO IMAX, PLANETARIO ALFA (15/70, 2D)
 
 :\*墨西哥城 – [Papalote Museo Del Niño](https://zh.wikipedia.org/wiki/Papalote_Museo_del_Niño "wikilink")
 
-:\*提華納 – DOMO IMAX, CENTRO CULTURAL TIJUANA</ref> (15/70, 2D)
+:\*提華納 – DOMO IMAX, CENTRO CULTURAL TIJUANA (15/70, 2D)
 
 <big>**卡塔爾**</big>
 

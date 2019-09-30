@@ -1,4 +1,4 @@
-《**你那邊怎樣·我這邊OK**》（）是一部台灣和新加坡合拍的電視劇，由[臺灣电视公司](https://zh.wikipedia.org/wiki/臺灣电视公司 "wikilink")、[拙八郎创意执行有限公司和](https://zh.wikipedia.org/wiki/拙八郎创意执行有限公司 "wikilink")[新加坡新传媒私人有限公司首次聯合製作](../Page/新传媒私人有限公司.md "wikilink")、合作拍攝，[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")跨國合作兩地實景拍摄；台灣團隊由身兼總導演、總監製的[王小棣](../Page/王小棣.md "wikilink")帶領、新加坡團隊由監製[梁來玲帶領](https://zh.wikipedia.org/wiki/梁來玲 "wikilink")，並且由[藍正龍](../Page/藍正龍.md "wikilink")、[曾之喬](../Page/曾之喬.md "wikilink")、[劉冠廷](../Page/劉冠廷.md "wikilink")、[陳泂江](../Page/陳泂江.md "wikilink")、[陳羅密歐](https://zh.wikipedia.org/wiki/陳羅密歐 "wikilink")、[沈琳宸領銜主演](https://zh.wikipedia.org/wiki/沈琳宸 "wikilink")，[藍心湄](../Page/藍心湄.md "wikilink")、[曹西平](../Page/曹西平.md "wikilink")、[曾沛慈](../Page/曾沛慈.md "wikilink")、[庹宗華](../Page/庹宗華.md "wikilink")、[吳岳擎](../Page/吳岳擎.md "wikilink")、[張耀仁](../Page/張耀仁.md "wikilink")、[黄俊雄](https://zh.wikipedia.org/wiki/黄俊雄 "wikilink")、[方伟杰](https://zh.wikipedia.org/wiki/方伟杰 "wikilink")、[范文芳](../Page/范文芳.md "wikilink")、[鄭惠玉](https://zh.wikipedia.org/wiki/鄭惠玉 "wikilink")、[陳漢瑋](../Page/陳漢瑋.md "wikilink")、[張耀棟](../Page/張耀棟.md "wikilink")、[蔡琦慧](../Page/蔡琦慧.md "wikilink")、[陳泰銘](https://zh.wikipedia.org/wiki/陳泰銘 "wikilink")、[陳楚寰](../Page/陳楚寰.md "wikilink")等台、新知名演員共同演出。\[1\]\[2\]本劇於2019年1月16日開拍，5月30日殺青。
+《**你那邊怎樣·我這邊OK**》（）是一部台灣和新加坡合拍的電視劇，由[臺灣电视公司](https://zh.wikipedia.org/wiki/臺灣电视公司 "wikilink")、[拙八郎创意执行有限公司和](https://zh.wikipedia.org/wiki/拙八郎创意执行有限公司 "wikilink")[新加坡新传媒私人有限公司首次聯合製作](../Page/新传媒私人有限公司.md "wikilink")、合作拍攝，[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")跨境合作，兩地實景拍摄；台灣團隊由身兼總導演、總監製的[王小棣](../Page/王小棣.md "wikilink")帶領、新加坡團隊由監製[梁來玲帶領](https://zh.wikipedia.org/wiki/梁來玲 "wikilink")，並且由[藍正龍](../Page/藍正龍.md "wikilink")、[藍心湄](../Page/藍心湄.md "wikilink")、[曾之喬](../Page/曾之喬.md "wikilink")、[曾沛慈](../Page/曾沛慈.md "wikilink")、[劉冠廷](../Page/劉冠廷.md "wikilink")、[吳岳擎](../Page/吳岳擎.md "wikilink")、[黄俊雄](https://zh.wikipedia.org/wiki/黄俊雄 "wikilink")、[陳泂江](../Page/陳泂江.md "wikilink")、[陳羅密歐](https://zh.wikipedia.org/wiki/陳羅密歐 "wikilink")、[范文芳](../Page/范文芳.md "wikilink")領銜主演。\[1\]\[2\]本劇於2019年1月16日開拍，5月30日殺青。
 
 本劇以2016年轟動台灣的[自動提款機吐鈔盜領案件為背景](https://zh.wikipedia.org/wiki/第一商業銀行#事件 "wikilink")，劇情將雙線開展，一條故事線在新加坡，另一條故事線則在台北；本劇同时也獲得中華民國文化部107年度電視節目製作補助案連續劇類補助3800萬元。\[3\] \[4\]
 本劇於2019年8月26日開始在新加坡播出；新加坡故事線在每逢星期一到五晚間9点在[新传媒8频道播出](https://zh.wikipedia.org/wiki/新传媒8频道 "wikilink")，台灣故事線则在同一晚10点在[新传媒U频道播出](https://zh.wikipedia.org/wiki/新传媒U频道 "wikilink")。[台視主頻於](../Page/臺灣電視台.md "wikilink")2019年8月30日起每週五晚間10點播出。（單週播出台灣故事線，雙週播出新加坡故事線）\[5\]
@@ -13,7 +13,7 @@
 
 騰昇銀行的長期合作夥伴龍航集團，產業跨足娛樂、鋼鐵、造船、貨運等事業，副總吳品叡與騰昇銀行副總裁郭延豐往來慎密，也與史耐達集團接班人李昊長期互看不順眼，為權力為地位驅使下，在一次談判中，發生了一樁殺人命案。而龍航集團旗下原計畫由台灣出發，預計抵達新加坡的貨船孝親號，莫名失聯，船上所有人、及藏身船上的台灣臥底警察下落不明，種種不尋常的事件引發新加坡警方及台灣刑事警察局關注，並派遣在新加坡放假旅遊的警察羅廷軒，留在當地進行追查……
 
-擁有駭客專長的騰昇銀行新加坡員工Eric，因假冒學歷，被騰昇銀行特助LINDA藉以此由威脅簽訂許多違法文件，為了報復LINDA，ERIC在駭客社團中認識的JUSTIN遊說下，設計了自動吐鈔的駭客程式並賣給黑市。在客戶要求驗收下，ERIC到了台灣執行測試任務，卻讓他成為八千萬ATM盜領案的嫌疑犯，連帶新加坡來台學廚藝的好友葉棟煌也被捲入涉案疑雲，虛擬世界的駭客陰謀、真實世界的通緝追捕，兩人在人地不熟的台灣展開未知的逃亡旅程……
+擁有駭客專長的騰昇銀行新加坡員工Eric，因假冒學歷，被騰昇銀行特助Linda藉以此由威脅簽訂許多違法文件，為了報復Linda，Eric在駭客社團中認識的Justin遊說下，設計了自動吐鈔的駭客程式並賣給黑市。在客戶要求驗收下，Eric到了台灣執行測試任務，卻讓他成為八千萬ATM盜領案的嫌疑犯，連帶新加坡來台學廚藝的好友葉棟煌也被捲入涉案疑雲，虛擬世界的駭客陰謀、真實世界的通緝追捕，兩人在人地不熟的台灣展開未知的逃亡旅程……
 
 台灣一起ATM盜領案，關聯出人的信任及小人物的無奈，新加坡一樁海上喋血案，牽扯出騰昇銀行背後的權力爭鬥、風起雲湧，究竟我們是遊戲的創造主?還是權力的犧牲者?
 
@@ -125,16 +125,16 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/八度空間" title="wikilink">八度空間</a></p></td>
-<td><p>2019年10月1日</p></td>
+<td><p>2019年10月2日</p></td>
 <td><p><strong>台灣篇（20集）</strong><br />
-每週一至週五21:30 - 22:30<br />
+每週一至週四21:30 - 22:30<br />
 </p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2019年10月21日</p></td>
 <td><p><strong>新加坡篇（20集）</strong><br />
-每週一至週五21:30 - 22:20<br />
+每週一至週四21:30 - 22:20<br />
 </p></td>
 <td></td>
 <td></td>
@@ -171,7 +171,7 @@
 <td><p>路瑞克<br />
 （Eric）</p></td>
 <td><p><strong>騰昇銀行新加坡分行員工</strong><br />
-聰明理智，擁有高超的駭客技術，努力想要翻轉自己卑微的出身，人生的目標就是功成名就。在阿嬤的期許下考進了英國劍橋，卻在半年後慘遭退學，不願讓阿嬤失望，於是靠自己想辦法在英國打工過日子，直到畢業歸國後進入了騰昇銀行，就在大家慶賀他成功時，他假造畢業證書的事被LINDA揭露，不甘被當成威脅手段逼著他違法作業，他只好駭進LINDA電腦獲取把柄反過來自保。此時，在英國參加駭客競技賽時認識高手JUSTIN牽線，C接下針對銀行ATM系統漏洞開發的破解程式，希望能將程式賣給資安公司，快點存錢讓阿嬤可以過好日子。他萬萬沒料到來到台灣測試系統，不僅將自己捲入盜領案，也拖著好友棟煌下水成了警方通緝對象。他抽絲剝繭後發現了被駭客一手操控的陰謀，但要怎麼才能讓人家相信，他是無辜的?</p></td>
+聰明理智，擁有高超的駭客技術，努力想要翻轉自己卑微的出身，人生的目標就是功成名就。在阿嬤的期許下考進了英國劍橋，卻在半年後慘遭退學，不願讓阿嬤失望，於是靠自己想辦法在英國打工過日子，直到畢業歸國後進入了騰昇銀行，就在大家慶賀他成功時，他假造畢業證書的事被Linda揭露，不甘被當成威脅手段逼著他違法作業，他只好駭進Linda電腦獲取把柄反過來自保。此時，在英國參加駭客競技賽時認識高手Justin牽線，接下針對銀行ATM系統漏洞開發的破解程式，希望能將程式賣給資安公司，快點存錢讓阿嬤可以過好日子。他萬萬沒料到來到台灣測試系統，不僅將自己捲入盜領案，也拖著好友棟煌下水成了警方通緝對象。他抽絲剝繭後發現了被駭客一手操控的陰謀，但要怎麼才能讓人家相信，他是無辜的?</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/曾沛慈.md" title="wikilink">曾沛慈</a></p></td>
@@ -243,7 +243,7 @@
 <td><p><a href="../Page/范文芳.md" title="wikilink">范文芳</a></p></td>
 <td><p>Linda</p></td>
 <td><p><strong>騰昇銀行新加坡分行總經理特助</strong><br />
-豪森特助，原是耀森的助理，常藉由老闆助理的便利，收下不少禮物。後越來越大膽，開始利用公司的漏洞斂財。她打扮亮麗，精明幹練，善於心計，懂得察言觀色、借刀殺人。眼裡沒有是非對錯，只有實用價值，對工作以外的事情毫無興趣，還好家裡有個言聽計從的老公PETER在打理著。在金銀帝國中，為了自保，她暗藏證據，因而掌握了騰昇銀行許多秘密，更方便她運用手段獲取利益。在得知Eric假造學歷後，威迫Eric幫她中飽私囊，可惜行跡敗露，把柄反落入Eric手中……面對新官郭豪森上任，她得把握一切都在自己的掌控中!</p></td>
+豪森特助，原是耀森的助理，常藉由老闆助理的便利，收下不少禮物。後越來越大膽，開始利用公司的漏洞斂財。她打扮亮麗，精明幹練，善於心計，懂得察言觀色、借刀殺人。眼裡沒有是非對錯，只有實用價值，對工作以外的事情毫無興趣，還好家裡有個言聽計從的老公Peter在打理著。在金銀帝國中，為了自保，她暗藏證據，因而掌握了騰昇銀行許多秘密，更方便她運用手段獲取利益。在得知Eric假造學歷後，威迫Eric幫她中飽私囊，可惜行跡敗露，把柄反落入Eric手中……面對新官郭豪森上任，她得把握一切都在自己的掌控中!</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/曾之喬.md" title="wikilink">曾之喬</a></p></td>
@@ -273,7 +273,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/金银姬" title="wikilink">金银姬</a></p></td>
 <td><p>路老太太</p></td>
 <td><p><strong>雞飯攤雜工</strong><br />
-路瑞克的奶奶，思想傳統，勤奮節儉的上一代華人，兒子媳婦在一次車禍中過世，她孤身一人帶著孫子相依為命，也好心收養了肇事夫妻遺留下來的兒子蔡富萊，一個會念書、一個夠貼心，雖然辛苦但總想著孫子過得好就行。只是當ERIC學程歸國，令人歡喜羨慕之際，卻被列為盜領案的主嫌，令阿嬤錯愕…</p></td>
+路瑞克的奶奶，思想傳統，勤奮節儉的上一代華人，兒子媳婦在一次車禍中過世，她孤身一人帶著孫子相依為命，也好心收養了肇事夫妻遺留下來的兒子蔡富萊，一個會念書、一個夠貼心，雖然辛苦但總想著孫子過得好就行。只是當Eric學成歸國，令人歡喜羨慕之際，卻被列為盜領案的主嫌，令阿嬤錯愕…</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/陈汉玮" title="wikilink">陈汉玮</a></p></td>
@@ -285,7 +285,7 @@
 <td><p>-{<a href="https://zh.wikipedia.org/wiki/方偉杰" title="wikilink">方偉杰</a>}-</p></td>
 <td><p>李昊</p></td>
 <td><p><strong>史耐達集團少東</strong><br />
-身為史耐達集團唯一繼承人，他個性狂妄自大，行事紈絝，私生活揮霍無度，迷戀女色，直到遇見那個能打能追的女警葉家欣。對於接班父親事業，信心滿滿，只可惜有勇無謀，重要決策容易躁進，被父親派至新加坡磨練，卻讓這幾年史耐達與龍航集團的關係產生了變化，屢屢僭越龍航底線，埋下了兩家衝突的導火線………</p></td>
+身為史耐達集團唯一繼承人，他個性狂妄自大，行事紈絝，私生活揮霍無度，迷戀女色，直到遇見那個能打能追的女警葉佳欣。對於接班父親事業，信心滿滿，只可惜有勇無謀，重要決策容易躁進，被父親派至新加坡磨練，卻讓這幾年史耐達與龍航集團的關係產生了變化，屢屢僭越龍航底線，埋下了兩家衝突的導火線………</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/陈泂江" title="wikilink">陈泂江</a></p></td>
@@ -387,7 +387,7 @@ Linda的老公，溫文儒雅，帶有書卷氣息。安靜、內斂，對一般
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/黄炯耀" title="wikilink">黄炯耀</a></p></td>
-<td><p>Bemson</p></td>
+<td><p>Benson</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -401,6 +401,11 @@ Linda的老公，溫文儒雅，帶有書卷氣息。安靜、內斂，對一般
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/佩君_(單親媽媽)" title="wikilink">佩君</a></p></td>
+<td><p>蘿 奈</p></td>
+<td><p>有名的新加玻模特女生，目前居住在台灣、目前單身，找不到任何交往的對象，結果被捲入台灣線的搶行案之中……被列為台灣搶行案嫌疑犯之一、她要怎麼度過這一次的搶劫案危機呢</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -446,15 +451,15 @@ Linda的老公，溫文儒雅，帶有書卷氣息。安靜、內斂，對一般
 <tr class="even">
 <td><p>2019年8月30日</p></td>
 <td><p>1</p></td>
-<td></td>
-<td></td>
+<td><p>0.55</p></td>
+<td><p>4</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2019年9月13日</p></td>
 <td><p>3</p></td>
-<td></td>
-<td></td>
+<td><p>0.16</p></td>
+<td><p>5</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -530,8 +535,8 @@ Linda的老公，溫文儒雅，帶有書卷氣息。安靜、內斂，對一般
 <tr class="even">
 <td><p>2019年9月6日</p></td>
 <td><p>2</p></td>
-<td></td>
-<td></td>
+<td><p>0.24</p></td>
+<td><p>4</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -641,6 +646,8 @@ Linda的老公，溫文儒雅，帶有書卷氣息。安靜、內斂，對一般
 
 ## 取景
 
+  - 臺北火車站
+  - 圓山大飯店
   - 錦和派出所
   - 江翠派出所
   - 板橋八德公園
@@ -676,5 +683,5 @@ Linda的老公，溫文儒雅，帶有書卷氣息。安靜、內斂，對一般
 2.  [与陈罗密欧谱姐弟恋 蓝心湄有信心“驾驭”](https://entertainment.toggle.sg/zh/celebrityphotos/default-11128564#slideshow-1)
 3.  [影視圈連署留任　鄭麗君感動：我這邊ok](https://news.tvbs.com.tw/politics/1066222)
 4.  [107年度電視節目製作補助獲補助名單](https://grants.moc.gov.tw/Web/AwardPublish.jsp?M=2&R=1&PT=2354&B=3070)
-5.  [新台联合出品大制作《你那边怎样.我这边OK》 明年8月底播映](https://www.8world.com/entertainment/tv/article/20181205-lif-mediacorp-taiwan-drama-336806)
+5.  [新台联合出品大制作《你那边怎样·我这边OK》 明年8月底播映](https://www.8world.com/entertainment/tv/article/20181205-lif-mediacorp-taiwan-drama-336806)
 6.  [斥资数百万 新台男神同台飙戏！](https://www.8world.com/entertainment/e-news/article/default-367216)

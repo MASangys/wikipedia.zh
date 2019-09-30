@@ -370,7 +370,7 @@
 <td><center>
 <p>伊賀勝代</p></td>
 <td><center>
-<p>（第3、8話）</p></td>
+<p><a href="../Page/財前直見.md" title="wikilink">財前直見</a>（第3、8話）</p></td>
 <td><center>
 <p><a href="../Page/袁淑珍.md" title="wikilink">袁淑珍</a></p></td>
 <td><p>伊賀觀的母親。</p></td>
@@ -411,29 +411,34 @@
 <tr class="even">
 <td><center>
 <p>伊賀静</p></td>
-<td><center></td>
-<td><p><a href="../Page/葉振聲.md" title="wikilink">葉振聲</a></p></td>
+<td><center>
+<p><a href="https://zh.wikipedia.org/wiki/鶴見辰吾" title="wikilink">鶴見辰吾</a></p></td>
+<td><center>
+<p><a href="../Page/葉振聲.md" title="wikilink">葉振聲</a></p></td>
 <td><p>伊賀觀的父親。</p></td>
 </tr>
 <tr class="odd">
 <td><center>
 <p>山田泰三</p></td>
 <td><center></td>
-<td><p><a href="../Page/黃子敬.md" title="wikilink">黃子敬</a></p></td>
+<td><center>
+<p><a href="../Page/黃子敬.md" title="wikilink">黃子敬</a></p></td>
 <td><p>電影導演。</p></td>
 </tr>
 <tr class="even">
 <td><center>
 <p>關優夫</p></td>
 <td><center></td>
-<td><p><a href="../Page/潘文柏.md" title="wikilink">潘文柏</a></p></td>
+<td><center>
+<p><a href="../Page/潘文柏.md" title="wikilink">潘文柏</a></p></td>
 <td><p>餐廳客人。</p></td>
 </tr>
 <tr class="odd">
 <td><center>
 <p>關晴美</p></td>
 <td><center></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/梁少霞" title="wikilink">梁少霞</a></p></td>
+<td><center>
+<p><a href="https://zh.wikipedia.org/wiki/梁少霞" title="wikilink">梁少霞</a></p></td>
 <td><p>餐廳客人。</p></td>
 </tr>
 <tr class="even">
@@ -441,22 +446,25 @@
 <p>根本親文</p></td>
 <td><center>
 <p>（第4話）</p></td>
-<td><p><a href="../Page/陳欣_(配音員).md" title="wikilink">陳欣</a></p></td>
+<td><center>
+<p><a href="../Page/陳欣_(配音員).md" title="wikilink">陳欣</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><center>
 <p>花岡仁志</p></td>
 <td><center>
-<p>（第4話）</p></td>
-<td><p><a href="../Page/李凱傑.md" title="wikilink">李凱傑</a></p></td>
+<p><a href="../Page/小柳友.md" title="wikilink">小柳友</a>（第4話）</p></td>
+<td><center>
+<p><a href="../Page/李凱傑.md" title="wikilink">李凱傑</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><center>
 <p>桑野信義</p></td>
 <td><center></td>
-<td><p><a href="../Page/陳永信.md" title="wikilink">陳永信</a></p></td>
+<td><center>
+<p><a href="../Page/陳永信.md" title="wikilink">陳永信</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -511,7 +519,8 @@
 <p>大岡山啓介</p></td>
 <td><center>
 <p><a href="../Page/竹中直人.md" title="wikilink">竹中直人</a>（第5話）</p></td>
-<td></td>
+<td><center>
+<p><a href="../Page/葉振聲.md" title="wikilink">葉振聲</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -605,14 +614,16 @@
 
 ### 播出集數
 
+  - 收視率最高值以表示，收視率最低值以表示。
+
 <table>
 <thead>
 <tr class="header">
 <th><p>話数[7]</p></th>
 <th><p>播放日期</p></th>
-<th><p>標題[8]</p></th>
-<th><p>演出</p></th>
-<th><p>收視率</p></th>
+<th><p>日文標題[8]</p></th>
+<th><p>導演</p></th>
+<th><p>收視率[9]</p></th>
 </tr>
 </thead>
 <tbody>
@@ -622,14 +633,14 @@ une</p></td>
 <td><p>7月9日</p></td>
 <td><p>予測不能!オーナーのための店オープン</p></td>
 <td><p>木村ひさし</p></td>
-<td><p>10.8%[9]</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2<br />
 deux</p></td>
 <td><p>7月16日</p></td>
 <td><p>シェフの知られざる秘密!謎の刺客現る</p></td>
-<td><p>9.2%[10]</p></td>
+<td><p>9.2%</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -639,7 +650,7 @@ trois</p></td>
 <td><p>オーナー激似の伊賀母登場!<br />
 超難敵</p></td>
 <td><p>息子を長崎に連れ帰る!?</p></td>
-<td><p>8.7%[11]</p></td>
+<td><p>8.7%</p></td>
 </tr>
 <tr class="even">
 <td><p>4<br />
@@ -647,7 +658,7 @@ quatre</p></td>
 <td><p>7月30日</p></td>
 <td><p>オーナーの正体!</p></td>
 <td><p>松木彩</p></td>
-<td><p>10.0％[12]</p></td>
+<td><p>10.0％</p></td>
 </tr>
 <tr class="odd">
 <td><p>5<br />
@@ -655,7 +666,7 @@ cinq</p></td>
 <td><p>8月6日</p></td>
 <td><p>スゴ腕ライバル登場 川合君がリストラ!?</p></td>
 <td><p>村尾嘉昭</p></td>
-<td><p>7.8%[13]</p></td>
+<td><p>7.8%</p></td>
 </tr>
 <tr class="even">
 <td><p>6<br />
@@ -666,7 +677,40 @@ six</p></td>
 <td><p>木村ひさし</p></td>
 </tr>
 <tr class="odd">
-<td><p>平均收視率（收視率由<a href="../Page/Video_Research.md" title="wikilink">Video Research於</a><a href="https://zh.wikipedia.org/wiki/關東地區" title="wikilink">關東地區</a>、世帶即時統計）</p></td>
+<td><p>7<br />
+sept</p></td>
+<td><p>8月20日</p></td>
+<td><p>常連客の知られざる秘密…!?</p></td>
+<td><p>松木彩</p></td>
+<td><p>8.1%</p></td>
+</tr>
+<tr class="even">
+<td><p>8<br />
+huit</p></td>
+<td><p>8月27日</p></td>
+<td><p>双子!? 宿命のライバル来店!</p></td>
+<td><p>木村ひさし</p></td>
+<td><p></span></p></td>
+</tr>
+<tr class="odd">
+<td><p>9<br />
+neuf</p></td>
+<td><p>9月3日</p></td>
+<td><p>オーナー引退!?<br />
+最終決戦の幕開け! まさかの旅立ち</p></td>
+<td><p>村尾嘉昭</p></td>
+<td><p>8.5%</p></td>
+</tr>
+<tr class="even">
+<td><p>最終<br />
+le finale</p></td>
+<td><p>9月10日</p></td>
+<td><p>さよなら! ロワン・ディシー</p></td>
+<td><p>木村ひさし</p></td>
+<td><p>8.7%</p></td>
+</tr>
+<tr class="odd">
+<td><p>平均收視率 8.68%（收視率由<a href="../Page/Video_Research.md" title="wikilink">Video Research於</a><a href="https://zh.wikipedia.org/wiki/關東地區" title="wikilink">關東地區</a>、世帶即時統計）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -700,11 +744,3 @@ six</p></td>
 8.  [Paravi Heaven? 〜ご苦楽レストラン〜](https://www.paravi.jp/title/42588)
 
 9.
-
-10.
-
-11.
-
-12.
-
-13.

@@ -1,8 +1,8 @@
 -----
 
-***博客來｜金石堂｜蘋果日報 暢銷美女作家 Misa***\[1\]\[2\]，台灣網路、實體小說女作家，從2011年開始出版小說，是一位創作能力豐沛且充滿想像力的作家，出版了許多受年輕讀者歡迎的小說作品\[3\]\[4\]。出版類別包含[愛情小說](../Page/愛情小說.md "wikilink")、[靈異小說及](https://zh.wikipedia.org/wiki/靈異小說 "wikilink")[奇幻小說](https://zh.wikipedia.org/wiki/奇幻小說 "wikilink")，是個寫作面相多方面的人氣作家。
+***博客來｜金石堂｜蘋果日報 暢銷美女作家 Misa***\[1\]\[2\]\[3\]，台灣網路、實體小說女作家，從2011年開始出版小說，是一位創作能力豐沛且充滿想像力的作家，出版了許多受年輕讀者歡迎的小說作品\[4\]\[5\]。出版類別包含[愛情小說](../Page/愛情小說.md "wikilink")、[靈異小說及](https://zh.wikipedia.org/wiki/靈異小說 "wikilink")[奇幻小說](https://zh.wikipedia.org/wiki/奇幻小說 "wikilink")，是個寫作面相多方面的人氣作家。
 
-而她的兩個筆名，寫出了兩種截然不同的個性，以**尾巴**為名的書寫，內容比較樸實、人性化；而以**Misa**為名的書寫，則讓人感受到在愛情的甜蜜與美好。\[5\]
+而她的兩個筆名，寫出了兩種截然不同的個性，以**尾巴**為名的書寫，內容比較樸實、人性化；而以**Misa**為名的書寫，則讓人感受到在愛情的甜蜜與美好。\[6\]
 
 ## 作品一覽
 
@@ -102,10 +102,11 @@
 ### 出版作品（[皇冠文化](../Page/皇冠文化.md "wikilink")）
 
   - 2019年5月6日《陸天遙事件簿1-消失的那一天》
+  - 2019年8月12日《陸天遙事件簿2-沒有名字的故事》
 
 ## 重大事件
 
-鮮歡出版社2014年惡意倒閉，導致鮮歡時期出版的5本書拿不回版權。 版權已於2017年處理好，全數回歸。 《未凋零》、《那年夏天，她和他和她》、《嘿，好朋友》、《可能幸福的選擇》、《愛情，你不存在》 由POPO原創重新出版。\[6\]
+鮮歡出版社2014年惡意倒閉，導致鮮歡時期出版的5本書拿不回版權。 版權已於2017年處理好，全數回歸。 《未凋零》、《那年夏天，她和他和她》、《嘿，好朋友》、《可能幸福的選擇》、《愛情，你不存在》 由POPO原創重新出版。\[7\]
 
 ## 參考文獻
 
@@ -119,7 +120,8 @@
 
 1.  \[<https://www.kingstone.com.tw/event/1712_a106/20mwritter.asp?actid=A1512002&Kind=m&top=17&page=1>　金石堂網路書店 2017年年度第33屆20大暢銷作者\]
 2.  \[<https://www.books.com.tw/activity/2017/12/2017top/authors_02.html>　博客來 2017年年度百大華文類型作家 第6名\]
-3.  \[<https://search.books.com.tw/search/query/key/Misa/cat/all>　博客來尾巴Misa\]
-4.  \[<https://www.kingstone.com.tw/tag/index.asp?t=%E5%B0%BE%E5%B7%B4misa&from=2018576810020>　金石堂網路書店尾巴Misa\]
-5.  \[<http://www.kingcarart.org.tw/?opt=activity&cate=1&id=328>　金車文學講堂：尾巴Misa【走進我的故事之中】\]
-6.  \[<https://ikumisa.pixnet.net/blog/post/40971185-%E7%9B%AE%E5%89%8D%E5%87%BA%E7%9A%84%E6%9B%B8>　痞客邦尾巴Misa\]
+3.  \[<https://www.books.com.tw/products/R030075551>　皇冠雜誌第787期2019 9月號 尾巴Misa專題報導\]
+4.  \[<https://search.books.com.tw/search/query/key/Misa/cat/all>　博客來尾巴Misa\]
+5.  \[<https://www.kingstone.com.tw/tag/index.asp?t=%E5%B0%BE%E5%B7%B4misa&from=2018576810020>　金石堂網路書店尾巴Misa\]
+6.  \[<http://www.kingcarart.org.tw/?opt=activity&cate=1&id=328>　金車文學講堂：尾巴Misa【走進我的故事之中】\]
+7.  \[<https://ikumisa.pixnet.net/blog/post/40971185-%E7%9B%AE%E5%89%8D%E5%87%BA%E7%9A%84%E6%9B%B8>　痞客邦尾巴Misa\]

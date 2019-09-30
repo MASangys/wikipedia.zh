@@ -114,13 +114,13 @@
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
-<td></td>
-<td></td>
+<td><p>6.4%</p></td>
+<td><p>6.5%</p></td>
 </tr>
 <tr class="even">
 <td><p>3</p></td>
 <td><p>2019/07/18</p></td>
-<td></td>
+<td><p>3.8%</p></td>
 </tr>
 <tr class="odd">
 <td><p>4</p></td>
@@ -234,7 +234,7 @@
 </tr>
 <tr class="odd">
 <td><p>26</p></td>
-<td></td>
+<td><p>6.4%</p></td>
 <td><p>6.0%</p></td>
 </tr>
 <tr class="even">
@@ -250,22 +250,22 @@
 <tr class="even">
 <td><p>29</p></td>
 <td><p>2019/09/04</p></td>
-<td><p>%</p></td>
+<td><p>5.8%</p></td>
 </tr>
 <tr class="odd">
 <td><p>30</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>31</p></td>
 <td><p>2019/09/05</p></td>
-<td><p>%</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>32</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>6.3%</p></td>
+<td><p>6.5%</p></td>
 </tr>
 <tr class="even">
 <td><p>平均收視率</p></td>
@@ -283,7 +283,7 @@
 
 ### 同時段競爭作品
 
-  - [SBS](../Page/SBS_\(韓國\).md "wikilink") [水木連續劇](../Page/SBS水木連續劇.md "wikilink")：《[偵探醫生](../Page/偵探醫生.md "wikilink")》、《[Secret Boutique](https://zh.wikipedia.org/wiki/Secret_Boutique "wikilink")》
+  - [SBS](../Page/SBS_\(韓國\).md "wikilink") [水木連續劇](../Page/SBS水木連續劇.md "wikilink")：《[偵探醫生](../Page/偵探醫生.md "wikilink")》
   - [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") [水木連續劇](../Page/TvN水木連續劇.md "wikilink")：《[請輸入檢索詞WWW](../Page/請輸入檢索詞WWW.md "wikilink")》、《[當惡魔呼喊你的名字時](../Page/當惡魔呼喊你的名字時.md "wikilink")》
 
 ### 同一劇集時段作品
@@ -298,7 +298,7 @@
   - [韓國KBS官方網站](http://program.kbs.co.kr/2tv/drama/justice/)
   - [JUSTICE-NAVER](https://m.entertain.naver.com/tvBrand/9432821)
 
-[Category:2019年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2019年韓國電視劇集 "wikilink") [Category:韓國犯罪劇](https://zh.wikipedia.org/wiki/Category:韓國犯罪劇 "wikilink") [Category:律師題材電視劇](https://zh.wikipedia.org/wiki/Category:律師題材電視劇 "wikilink")
+[Category:2019年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2019年韓國電視劇集 "wikilink") [Category:韓國犯罪劇](https://zh.wikipedia.org/wiki/Category:韓國犯罪劇 "wikilink") [Category:律師題材電視劇](https://zh.wikipedia.org/wiki/Category:律師題材電視劇 "wikilink") [Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink")
 
 1.
 2.

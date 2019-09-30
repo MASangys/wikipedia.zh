@@ -15,7 +15,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>1st</strong></p></td>
-<td><p><strong>《<a href="https://zh.wikipedia.org/wiki/HANN" title="wikilink">HANN</a>》</strong>[1]</p>
+<td><p><strong>《<a href="../Page/HANN_(Alone).md" title="wikilink">HANN (Alone)</a>》</strong>[1]</p>
 <ul>
 <li>发行日期：2018年8月14日</li>
 <li>语言：韩语</li>
@@ -75,9 +75,10 @@
 <li>发行日期：2019年2月26日</li>
 <li>语言：韩语</li>
 <li>类型：Dance</li>
-<li>销量：32,574+<ref>Gaon Album Chart专辑销量排名《I made》</li>
-<li><a href="http://www.gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&amp;serviceGbn=&amp;targetTime=02&amp;hitYear=2019&amp;termGbn=month">2018年GAON 2月专辑榜10位</a></li>
-<li><a href="http://www.gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&amp;serviceGbn=&amp;targetTime=03&amp;hitYear=2019&amp;termGbn=month">2018年GAON 3月专辑榜39位</a></li>
+<li>销量：34,104+<ref>Gaon Album Chart专辑销量排名《I made》</li>
+<li><a href="http://www.gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&amp;serviceGbn=&amp;targetTime=02&amp;hitYear=2019&amp;termGbn=month">2019年GAON 2月专辑榜10位</a></li>
+<li><a href="http://www.gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&amp;serviceGbn=&amp;targetTime=03&amp;hitYear=2019&amp;termGbn=month">2019年GAON 3月专辑榜39位</a></li>
+<li><a href="http://www.gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&amp;serviceGbn=&amp;targetTime=2019&amp;hitYear=2019&amp;termGbn=year">2019年GAON年度專輯榜62位</a></li>
 </ul>
 <p></ref></p></td>
 <td></td>
@@ -271,10 +272,10 @@
 </tr>
 <tr class="odd">
 <td><p>2019年7月9日</p></td>
-<td><p>/</p></td>
 <td><p>Cart[19]</p></td>
 <td><p>、<a href="../Page/赵美延.md" title="wikilink">赵美延</a></p></td>
 <td><p>美延</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -298,7 +299,7 @@
 <ul>
 <li>发行日期：2019年7月31日</li>
 <li>语言：日语</li>
-<li>销量：</li>
+<li>销量：8,229+[21]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -322,7 +323,7 @@
 <tbody>
 <tr class="odd">
 <td><p>2019年6月28日</p></td>
-<td><p>奔跑吧 第三季[21]</p></td>
+<td><p>奔跑吧 第三季[22]</p></td>
 <td><p>造亿万吨光芒</p></td>
 <td></td>
 <td><p>雨琦</p></td>
@@ -341,13 +342,13 @@
 
 | 发行日期                              | 专辑名称/项目名称                                   | 歌曲名称                                                                  | 歌手                                                                                                        | 参与成员   |
 | --------------------------------- | ------------------------------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ------ |
-| 2017年11月13日                       | Dance Party\!(English Ver.)-Kids song\[22\] | Hot Summer                                                            | [LINE FRIENDS](https://zh.wikipedia.org/wiki/连我 "wikilink")(Feat. [Minnie](../Page/Minnie.md "wikilink")) | Minnie |
+| 2017年11月13日                       | Dance Party\!(English Ver.)-Kids song\[23\] | Hot Summer                                                            | [LINE FRIENDS](https://zh.wikipedia.org/wiki/连我 "wikilink")(Feat. [Minnie](../Page/Minnie.md "wikilink")) | Minnie |
 | Morning Sunrise                   |                                             |                                                                       |                                                                                                           |        |
 | Dinosaur Song (Herbivore Ver.)    |                                             |                                                                       |                                                                                                           |        |
 | The Brush Brush Song              |                                             |                                                                       |                                                                                                           |        |
 | Oats, Peas, Beans and Barley Grow |                                             |                                                                       |                                                                                                           |        |
 | Clap Concert                      |                                             |                                                                       |                                                                                                           |        |
-| 2018年11月3日                        | K/DA                                        | [POP/STARS](https://zh.wikipedia.org/wiki/POP/STARS "wikilink")\[23\] | [Madison Beer](https://zh.wikipedia.org/wiki/麦迪逊·比尔 "wikilink")、(G)I-DLE、                                 | 美延、小娟  |
+| 2018年11月3日                        | K/DA                                        | [POP/STARS](https://zh.wikipedia.org/wiki/POP/STARS "wikilink")\[24\] | [Madison Beer](https://zh.wikipedia.org/wiki/麦迪逊·比尔 "wikilink")、(G)I-DLE、                                 | 美延、小娟  |
 
 ## 创作作品
 
@@ -482,7 +483,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>HANN</p></td>
+<td><p>HANN (Alone)</p></td>
 <td><p>(G)I-DLE</p></td>
 <td></td>
 <td><p>√</p></td>
@@ -623,6 +624,7 @@ Minnie（민니）在韩国音乐著作权家协会登记编号为[10022029](htt
 18. [I Wanna Be - The 1st Album Repackage](https://www.melon.com/album/detail.htm?albumId=10256412). Melon. March 4, 2019.
 19. [Cart](https://www.melon.com/album/detail.htm?albumId=10305032). Melon. July 9, 2019.
 20. [LATATA](https://sp.universal-music.co.jp/g-i-dle/latata/). 日本环球音乐. July 31, 2019.
-21. [奔跑吧 第三季](https://y.qq.com/n/yqq/album/004AkYC83vY8To.html). 腾讯音乐. June 28, 2019.
-22. [Dance Party\! - 어린이 영어동요](http://www.melon.com/album/detail.htm?albumId=10110671). Melon. November 13, 2017.
-23. [POP/STARS](https://www.melon.com/album/detail.htm?albumId=10218827). Melon. November 4, 2018.
+21.
+22. [奔跑吧 第三季](https://y.qq.com/n/yqq/album/004AkYC83vY8To.html). 腾讯音乐. June 28, 2019.
+23. [Dance Party\! - 어린이 영어동요](http://www.melon.com/album/detail.htm?albumId=10110671). Melon. November 13, 2017.
+24. [POP/STARS](https://www.melon.com/album/detail.htm?albumId=10218827). Melon. November 4, 2018.

@@ -164,12 +164,24 @@
 <td><p>33</p></td>
 <td><p>21</p></td>
 <td><p>2019/09/03</p></td>
-<td><p>%</p></td>
+<td><p>2.316%</p></td>
 </tr>
 <tr class="even">
 <td><p>34</p></td>
 <td><p>22</p></td>
 <td><p>2019/09/10</p></td>
+<td><p>2.464%</p></td>
+</tr>
+<tr class="odd">
+<td><p>35</p></td>
+<td><p>23</p></td>
+<td><p>2019/09/17</p></td>
+<td><p>2.457%</p></td>
+</tr>
+<tr class="even">
+<td><p>36</p></td>
+<td><p>24</p></td>
+<td><p>2019/09/24</p></td>
 <td><p>%</p></td>
 </tr>
 <tr class="odd">

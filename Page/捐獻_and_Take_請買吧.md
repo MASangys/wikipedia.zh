@@ -92,7 +92,7 @@
 <tr class="even">
 <td><p>3</p></td>
 <td><p>2018年12月14日</p></td>
-<td><p><a href="../Page/趙軟祐.md" title="wikilink">趙軟祐</a>、</p></td>
+<td><p><a href="../Page/趙軟祐.md" title="wikilink">趙軟祐</a>、<a href="../Page/DinDin.md" title="wikilink">DinDin</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>4</p></td>

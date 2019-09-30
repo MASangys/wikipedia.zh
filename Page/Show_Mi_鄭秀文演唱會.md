@@ -110,4 +110,6 @@
 </tbody>
 </table>
 
+[Category:鄭秀文演唱會](https://zh.wikipedia.org/wiki/Category:鄭秀文演唱會 "wikilink")
+
 1.  [演唱會資訊及海報](https://eeg.zone/share/?mode=concert&l=tc&id=60)

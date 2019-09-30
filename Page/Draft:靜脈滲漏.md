@@ -22,30 +22,6 @@
 
 ## 參考文獻
 
-## 參考文獻(翻譯文)
-
-1\. 羅傑斯RS，等。（2003年2月）。“海綿體內血管內皮生長因子（VEGF）注射和腺相關病毒介導的VEGF基因治療預防和逆轉大鼠靜脈性勃起功能障礙”。Int J Impot Res。15（1）：26-37。doi：10.1038 / sj.ijir.3900943。PMID 12605238。
-
-2\. “勃起功能障礙的血管外科手術”。學術出版社。
-
-3.“Parona F.1873。由於靜脈靜脈曲張導致的陰莖勃起不完全：觀察.Giornale Italiano.14：71-76” （PDF）
-
-4\. Ardenne，M。; Reitnauer，PG（1975）。“Fuchs AM，et al.1989。陰莖靜脈引流解剖學在海綿體造影期間強效和無能的人。J Urol.141（6）：1353-1356”。Arzneimittel-Forschung。25（9）：1369-79。PMID 22。
-
-5\. 陳，SC; 謝，CH; 許，GL; 王，CJ; 溫，HS; 凌，PY; 黃，HM; Tseng，GF（2005）。“Chen SC，et al。2005年1月。陰莖靜脈的進展：它可能是反復發作嗎？J Androl.26（1）：56-63”。男科學雜誌。26（1）：53-60。PMID 15611567。
-
-6\. “陰莖結構 - 勃起”。學術出版社。
-
-7\. Hsu，GL; Molodysky，E。; 劉，SP; Chang，HC; 謝，CH; Hsu，CY（2013）。“Hsu GL，et al。2013年12月對陰莖畸形和勃起功能障礙患者進行理想化陰莖形狀和勃起功能恢復的重建手術.Arab J Urol.11（4）：375-383”。阿拉伯泌尿外科雜誌。11（4）：375-383。doi：10.1016 / j.aju.2013.08.009。PMC 4442992。PMID 26558108。
-
-8\. Hsu，Geng-Long; 劉世平（2018年）。“陰莖結構”。MK Skinner（編輯），複製百科全書。第一卷。1，pp.357-366。學術出版社：Elsevier。http://dx.doi.org/10.1016/B978-0-12-801238-3.64602-0。第357-366頁。doi：10.1016 / B978-0-12-801238-3.64602-0。ISBN 9780128151457。
-
-9\. Hsu（2011年3月）。“死人也能勃起”。世界日報（3-27）：A2。
-
-10.“勃起功能障礙的陰莖假體”。學術出版社。
-
-11\. 佩里托，保羅。“陰莖植入物”。PeritoUrology.com。佩里托泌尿外科。檢索2014 年11月18日。
-
 [Category:陰莖勃起](https://zh.wikipedia.org/wiki/Category:陰莖勃起 "wikilink") [Category:人類陰莖](https://zh.wikipedia.org/wiki/Category:人類陰莖 "wikilink") [Category:泌尿科學](https://zh.wikipedia.org/wiki/Category:泌尿科學 "wikilink")
 
 1.

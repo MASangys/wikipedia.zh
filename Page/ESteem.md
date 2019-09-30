@@ -15,9 +15,21 @@
   -
   - Anzardi Timothee
 
-  - YURY
+  - 安承俊
+
+  - 白俊英
+
+  - 趙珉浩
+
+  - 金道鎮
 
   - 金真坤
+
+  - YURY
+
+  - Irene Kim
+
+  - SOOJOO
 
 ### ESteem Entertainment
 
@@ -80,6 +92,11 @@
   - [韓惠珍](../Page/韓惠珍_\(模特兒\).md "wikilink")
 
   - 許志雄
+
+## 已離開藝人
+
+  - 李義秀 (已故)
+  - [安宰賢](../Page/安宰賢.md "wikilink")
 
 ## 參考資料
 

@@ -1,4 +1,4 @@
-**SNH48 Group第五届年度金曲大赏BEST 50**是中国女子组合[SNH48及其姐妹团体将于](https://zh.wikipedia.org/wiki/SNH48 "wikilink")2019年1月19日在[广州体育馆](../Page/广州体育馆.md "wikilink")举办的演唱会。
+**SNH48 Group第五届年度金曲大赏BEST 50**是中国女子组合[SNH48](../Page/SNH48.md "wikilink")及其姐妹团体将于2019年1月19日在[广州体育馆](../Page/广州体育馆.md "wikilink")举办的演唱会。
 
 ## 概述
 
@@ -665,8 +665,8 @@ Team B</p></td>
 
   - 宣布开启「SNH48 Group海外練習生」計劃，SNH48周睿林、SNH48李佳恩、GNZ48徐佳音、SHY48高崇、SHY48王秋茹五名00後新生代成員，前往海外基地接受為期兩年的高水準封閉培訓。
   - 宣布成立「[IDOLS Ft](../Page/IDOLS_Ft.md "wikilink")」，成員由SNH48 Group在籍的部分成員調整加入，此後將主要通過口袋48等自有渠道，及第三方合作的互聯網互動平台與粉絲互動，實現完全基於互聯網的偶像養成運營模式；而该团亦设立选拔制度，令该团成员有加入或重新加入SNH48、BEJ48及GNZ48的可能。
-  - [SNH48](https://zh.wikipedia.org/wiki/SNH48 "wikilink") Team Ft、[SHY48](../Page/SHY48.md "wikilink")Team SIII、SHY48 Team HIII、[CKG48](../Page/CKG48.md "wikilink") Team C、CKG48 Team K解散。
-  - 对[SNH48](https://zh.wikipedia.org/wiki/SNH48 "wikilink")、[BEJ48](https://zh.wikipedia.org/wiki/BEJ48 "wikilink")、[GNZ48](https://zh.wikipedia.org/wiki/GNZ48 "wikilink")、[SHY48](../Page/SHY48.md "wikilink")、[CKG48](../Page/CKG48.md "wikilink")在籍成员进行重组。
+  - [SNH48](../Page/SNH48.md "wikilink") Team Ft、[SHY48](../Page/SHY48.md "wikilink")Team SIII、SHY48 Team HIII、[CKG48](../Page/CKG48.md "wikilink") Team C、CKG48 Team K解散。
+  - 对[SNH48](../Page/SNH48.md "wikilink")、[BEJ48](https://zh.wikipedia.org/wiki/BEJ48 "wikilink")、[GNZ48](https://zh.wikipedia.org/wiki/GNZ48 "wikilink")、[SHY48](../Page/SHY48.md "wikilink")、[CKG48](../Page/CKG48.md "wikilink")在籍成员进行重组。
   - 開始招募SNH48十二期生、BEJ48七期生、GNZ48七期生、SNH48 Group海外練習生。
   - 对北上广以外分团开启授权[特许经营模式](https://zh.wikipedia.org/wiki/特许经营 "wikilink")。
 

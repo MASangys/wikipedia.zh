@@ -1,4 +1,4 @@
-**Burning Sun門事件**（）简称**胜利门**，是指2019年一起發生在[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[娱乐圈事件](https://zh.wikipedia.org/wiki/娛樂圈 "wikilink")。\[1\]\[2\]\[3\]\[4\]其中涉及一些名人，包括韓國偶像流行韓流團體，官員和警察。它震驚了整個韓國民間，成為[K-pop行業中涉案程度最大的一個案件](https://zh.wikipedia.org/wiki/K-pop "wikilink")。\[5\]\[6\]\[7\]醜聞包含[警察腐敗](../Page/警察腐敗.md "wikilink")等問題。包含[強姦和](https://zh.wikipedia.org/wiki/強姦 "wikilink")[針孔攝影機的指控](https://zh.wikipedia.org/wiki/針孔攝影機 "wikilink")、聊天室的不法訊息等問題。
+**Burning Sun事件**（）或稱**勝利夜店事件**，是指2019年一起發生在[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[娱乐圈事件](https://zh.wikipedia.org/wiki/娛樂圈 "wikilink")。\[1\]\[2\]\[3\]\[4\]其中涉及一些名人，包括韓國偶像流行韓流團體，官員和警察。它震驚了整個韓國民間，成為[K-pop行業中涉案程度最大的一個案件](https://zh.wikipedia.org/wiki/K-pop "wikilink")。\[5\]\[6\]\[7\]醜聞包含[警察腐敗](../Page/警察腐敗.md "wikilink")等問題。包含[強姦和](https://zh.wikipedia.org/wiki/強姦 "wikilink")[針孔攝影機的指控](https://zh.wikipedia.org/wiki/針孔攝影機 "wikilink")、聊天室的不法訊息等問題。
 
 本案件開始於：2019年1月28日，當時MBC Newsdesk報導了2018年11月一名工作人員在江南一家著名的夜總會 - Burning Sun中襲擊男性俱樂部的人。涉案人大部分退出了所有的電視節目演出。
 
@@ -106,7 +106,7 @@ Burning Sun夜店（）\[12\] 於2018年2月23日在江南區驛三洞首爾[艾
 
 ### 其他調查項目
 
-2019年6月下旬，英國廣播公司新聞記者Laura Bicker分享了她從目擊者那裡收集的關於江南夜生活的指控，“在其炫目的夜總會中，女性被強大的男人慫恿並被性侵害，未成年女孩被性剝削獲利”。她與俱樂部觀眾，員工和受害者交談; 並觀看了三名男子對一名看似無意識的女子性侵犯的視頻。
+2019年6月下旬，英國廣播公司新聞記者Laura Bicker分享了她從目擊者那裡收集的關於江南夜生活的指控，“在其炫目的夜總會中，女性被強大的男人慫恿並被性侵害，未成年女孩被性剝削獲利”。她與俱樂部觀眾，員工和受害者交談；並觀看了三名男子對一名看似無意識的女子性侵犯的視頻。
 
 ## 涉案人員
 
@@ -130,7 +130,7 @@ SBS調查記者檢查了KakaoTalk聊天消息，該消息是由舉報人發送�
 
 ## 婦女權益與抗議事件
 
-這場醜聞導致2019年3月8日的國際婦女節在江南街頭抗議。
+這場醜聞導致2019年3月8日的國際婦女節在江南街頭抗議。醜聞增加了對韓國婦女問題的持續討論，包括性別不平等，韓國萌芽的Me Too運動，女權主義，“ molka ”，賣淫和K-pop界對婦女的態度。
 
 ## 對於娛樂業的影響
 
@@ -144,7 +144,7 @@ SBS調查記者檢查了KakaoTalk聊天消息，該消息是由舉報人發送�
 
 2019年4月1日韓國女演員[高準熹](../Page/高準熹.md "wikilink")在受不了各方揣測下，也不忍家人遭受辱罵，因此在[Instagram](../Page/Instagram.md "wikilink")和[微博](../Page/微博.md "wikilink")發文說明與該事件無關，並確定不接演KBS連續劇《香水》\[64\]。
 
-韓劇《[德魯納酒店](../Page/德魯納酒店.md "wikilink")》第七集（八月三日播出）「13號房客」女鬼事件影射Burning Sun門事件。
+在韓劇中《[德魯納酒店](../Page/德魯納酒店.md "wikilink")》第七集（2019年八月三日播出）「13號房客」女鬼事件影射Burning Sun門事件。
 
 ### 臺灣
 
@@ -156,7 +156,7 @@ SBS調查記者檢查了KakaoTalk聊天消息，該消息是由舉報人發送�
 
 ### 香港
 
-香港歌手[容祖兒與勝利合作的歌曲](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")《Pretty Crazy》，由於勝利宣布停止演藝活動，改成獨唱曲\[70\]。
+香港歌手[容祖兒](../Page/容祖兒.md "wikilink")與勝利合作的歌曲《Pretty Crazy》，由於勝利宣布停止演藝活動，改成獨唱曲\[70\]。
 
 ## 公眾反映
 
@@ -194,9 +194,7 @@ SBS調查記者檢查了KakaoTalk聊天消息，該消息是由舉報人發送�
 5.
 
 6.
-
 7.
-
 8.
 
 9.
@@ -289,7 +287,7 @@ SBS調查記者檢查了KakaoTalk聊天消息，該消息是由舉報人發送�
 
 54.
 
-55. <https://m.news.naver.com/read.nhn?mode=LSD&mid=sec&sid1=102&oid=052&aid=0001292615>
+55.
 
 56.
 

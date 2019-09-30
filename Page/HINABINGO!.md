@@ -1,8 +1,8 @@
-《**HINABINGO\!**》是[日本](../Page/日本.md "wikilink")女子[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[日向坂46](../Page/日向坂46.md "wikilink")冠名演出的深夜綜藝節目系列，由[日本電視台](../Page/日本電視台.md "wikilink")製播、搞笑藝人主持。自2019年4月16日首度播出，播出時間為日本時間每週一深夜25時29分－59分（即週二凌晨1時29分－59分），每集長約30分鐘。目前已播出2[季](https://zh.wikipedia.org/wiki/季度 "wikilink")。
+《**HINABINGO\!**》是[日本](../Page/日本.md "wikilink")女子[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[日向坂46](../Page/日向坂46.md "wikilink")冠名演出的深夜綜藝節目系列，由[日本電視台](../Page/日本電視台.md "wikilink")製播、搞笑藝人[小籔千豐主持](https://zh.wikipedia.org/wiki/小籔千豐 "wikilink")。自2019年4月16日首度播出，播出時間為日本時間每週一深夜25時29分－59分（即週二凌晨1時29分－59分），每集長約30分鐘。目前已播出2[季](https://zh.wikipedia.org/wiki/季度 "wikilink")。
 
 ## 概要
 
-本節目系列為繼[AKB48](../Page/AKB48.md "wikilink")的《AKBINGO\!》、[乃木坂46的](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")《NOGIBINGO\!》及[櫸坂46](../Page/櫸坂46.md "wikilink")的《KEYABINGO\!》之後，以「BINGO\!」冠名的全新偶像節目系列\[1\]。
+本節目系列為繼[AKB48](../Page/AKB48.md "wikilink")的《[AKBINGO\!](https://zh.wikipedia.org/wiki/AKBINGO! "wikilink")》、[乃木坂46的](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")《[NOGIBINGO\!](../Page/NOGIBINGO!.md "wikilink")》及[櫸坂46](../Page/櫸坂46.md "wikilink")的《[KEYABINGO\!](../Page/KEYABINGO!.md "wikilink")》之後，以「BINGO\!」冠名的全新偶像節目系列\[1\]。
 
 ## HINABINGO\!
 
@@ -102,6 +102,8 @@
 | 4     |
 | 5     |
 | 6     |
+| 7     |
+| 8     |
 |       |
 
 ### 工作人員

@@ -232,7 +232,7 @@
 </tr>
 <tr class="odd">
 <td><p>嘉賓</p></td>
-<td><p><a href="../Page/李是英.md" title="wikilink">李是英</a>(#2.18)、<a href="../Page/具惠善.md" title="wikilink">具惠善</a>(#3.46)、<a href="https://zh.wikipedia.org/wiki/金雪炫" title="wikilink">金雪炫</a>(#4.12、#10.10，接替<a href="../Page/張頌欣.md" title="wikilink">張頌欣</a>)、<a href="../Page/新慜娥.md" title="wikilink">新慜娥</a>(#4.17)、<a href="https://zh.wikipedia.org/wiki/金孝淵" title="wikilink">金孝淵</a>(#SP2.02，接替<a href="../Page/陳琴雲.md" title="wikilink">陳琴雲</a>、#8.23)、<a href="../Page/Momo_(TWICE).md" title="wikilink">Momo</a>(#5.37、#11.10、#RE9.01)、<a href="https://zh.wikipedia.org/wiki/金孝靜" title="wikilink">孝琳</a>(#6.05，接替退行的<a href="../Page/黃瑩瑩.md" title="wikilink">黃瑩瑩</a>)、<a href="../Page/李美珠.md" title="wikilink">李美珠</a>(#6.11)、<a href="../Page/海嶺.md" title="wikilink">海嶺</a>(#RE1.06)、<a href="../Page/Umji.md" title="wikilink">Umji</a>(#8.03)、<a href="../Page/Kei.md" title="wikilink">Kei</a>(#9.01、#9.02)、<a href="../Page/智珉.md" title="wikilink">智珉</a>(#11.18)</p></td>
+<td><p><a href="../Page/李是英.md" title="wikilink">李是英</a>(#2.18)、<a href="../Page/具惠善.md" title="wikilink">具惠善</a>(#3.46)、<a href="https://zh.wikipedia.org/wiki/金雪炫" title="wikilink">金雪炫</a>(#4.12、#10.10，接替<a href="../Page/張頌欣.md" title="wikilink">張頌欣</a>)、<a href="../Page/新慜娥.md" title="wikilink">新慜娥</a>(#4.17)、<a href="https://zh.wikipedia.org/wiki/金孝淵" title="wikilink">金孝淵</a>(#SP2.02，接替<a href="../Page/陳琴雲.md" title="wikilink">陳琴雲</a>、#8.23)、<a href="../Page/Momo_(TWICE).md" title="wikilink">Momo</a>(#5.37、#11.10、#RE9.01)、<a href="https://zh.wikipedia.org/wiki/金孝靜" title="wikilink">孝琳</a>(#6.05，接替退行的<a href="../Page/黃瑩瑩.md" title="wikilink">黃瑩瑩</a>)、<a href="../Page/李美珠.md" title="wikilink">李美珠</a>(#6.11)、<a href="../Page/Umji.md" title="wikilink">Umji</a>(#8.03)、<a href="../Page/Kei.md" title="wikilink">Kei</a>(#9.01、#9.02)、<a href="../Page/智珉.md" title="wikilink">智珉</a>(#11.18)</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -252,7 +252,7 @@
 </tr>
 <tr class="odd">
 <td><p>嘉賓</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/姜知英" title="wikilink">姜知英</a>(#1.01、#1.02)、<a href="../Page/河智苑.md" title="wikilink">河智苑</a>(#1.13)、<a href="../Page/申世景.md" title="wikilink">申世景</a>(#2.01)、<a href="https://zh.wikipedia.org/wiki/文根英" title="wikilink">文根英</a>(#2.05、#2.06)、<a href="../Page/宋恩伊.md" title="wikilink">宋恩伊</a>(#3.09)、<a href="https://zh.wikipedia.org/wiki/尹寶拉" title="wikilink">尹寶拉</a>(#3.30，接替<a href="../Page/陳皓宜.md" title="wikilink">陳皓宜</a>)、<a href="../Page/白智榮.md" title="wikilink">白智榮</a>(#4.07、#9.01、#9.02)、<a href="../Page/崔汝珍.md" title="wikilink">崔汝珍</a>(#4.14、#4.15)、<a href="../Page/南志鉉.md" title="wikilink">南志鉉</a>(#4.38)、<a href="../Page/芮智媛.md" title="wikilink">芮智媛</a>(#4.39)、<a href="https://zh.wikipedia.org/wiki/張度妍" title="wikilink">張度妍</a>(#SP2.05、#8.07、#8.08、#RE6.05)、<a href="https://zh.wikipedia.org/wiki/洪允花" title="wikilink">洪允花</a>(#5.17，接替<a href="../Page/林芷筠.md" title="wikilink">林芷筠</a>)、<a href="../Page/金佳妍.md" title="wikilink">金佳妍</a>(#5.21)、<a href="../Page/娜璉.md" title="wikilink">娜璉</a>(#5.37、#11.10、#RE9.01)、<a href="https://zh.wikipedia.org/wiki/洪真京" title="wikilink">洪真京</a>(#6.07)、<a href="../Page/秀愛.md" title="wikilink">秀愛</a>(#6.08、#6.09)、<a href="../Page/李枖原.md" title="wikilink">李枖原</a>(#RE2.01)、<a href="../Page/金志秀.md" title="wikilink">金志秀</a>(#RE4.01)、<a href="../Page/Rosé_(韓國歌手).md" title="wikilink">Rosé</a>(#RE6.02)、<a href="https://zh.wikipedia.org/wiki/李荷妮" title="wikilink">李荷妮</a>(#11.17)、<a href="../Page/張熙軫.md" title="wikilink">張熙軫</a>(#12.01、#12.02)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/姜知英" title="wikilink">姜知英</a>(#1.01、#1.02)、<a href="../Page/河智苑.md" title="wikilink">河智苑</a>(#1.13)、<a href="../Page/申世景.md" title="wikilink">申世景</a>(#2.01)、<a href="https://zh.wikipedia.org/wiki/文根英" title="wikilink">文根英</a>(#2.05、#2.06)、<a href="../Page/宋恩伊.md" title="wikilink">宋恩伊</a>(#3.09)、<a href="https://zh.wikipedia.org/wiki/尹寶拉" title="wikilink">尹寶拉</a>(#3.30，接替<a href="../Page/陳皓宜.md" title="wikilink">陳皓宜</a>)、<a href="../Page/白智榮.md" title="wikilink">白智榮</a>(#4.07、#9.01、#9.02)、<a href="../Page/崔汝珍.md" title="wikilink">崔汝珍</a>(#4.14、#4.15)、<a href="../Page/南志鉉.md" title="wikilink">南志鉉</a>(#4.38)、<a href="../Page/芮智媛.md" title="wikilink">芮智媛</a>(#4.39)、<a href="https://zh.wikipedia.org/wiki/張度妍" title="wikilink">張度妍</a>(#SP2.05、#8.07、#8.08、#RE6.05)、<a href="https://zh.wikipedia.org/wiki/洪允花" title="wikilink">洪允花</a>(#5.17，接替<a href="../Page/林芷筠.md" title="wikilink">林芷筠</a>)、<a href="../Page/金佳妍.md" title="wikilink">金佳妍</a>(#5.21)、<a href="../Page/娜璉.md" title="wikilink">娜璉</a>(#5.37、#11.10、#RE9.01)、<a href="https://zh.wikipedia.org/wiki/洪真京" title="wikilink">洪真京</a>(#6.07)、<a href="../Page/秀愛.md" title="wikilink">秀愛</a>(#6.08、#6.09)、<a href="../Page/李枖原.md" title="wikilink">李枖原</a>(#RE2.01)、<a href="../Page/金志秀.md" title="wikilink">金志秀</a>(#RE4.01)、<a href="../Page/Rosé_(韓國歌手).md" title="wikilink">Rosé</a>(#RE6.02)、<a href="../Page/李荷妮.md" title="wikilink">李荷妮</a>(#11.17)、<a href="../Page/張熙軫.md" title="wikilink">張熙軫</a>(#12.01、#12.02)</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -422,7 +422,7 @@
 </tr>
 <tr class="odd">
 <td><p>特別出演</p></td>
-<td><p><a href="../Page/朱利安·姜.md" title="wikilink">朱利安·姜</a>(#1.16)、(#8.02)、<a href="../Page/李鐘赫.md" title="wikilink">李鐘赫</a>(#10.05)、(#11.03、#11.23)</p></td>
+<td><p><a href="../Page/朱利安·姜.md" title="wikilink">朱利安·姜</a>(#1.16)、(#8.02)、<a href="../Page/李鐘赫.md" title="wikilink">李鐘赫</a>(#10.05)、<a href="https://zh.wikipedia.org/wiki/黄帝聖" title="wikilink">黄帝聖</a>(#11.03、#11.23)</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -452,7 +452,7 @@
 </tr>
 <tr class="odd">
 <td><p>嘉賓</p></td>
-<td><p><a href="../Page/李鍾原.md" title="wikilink">李鍾原</a>(#2.03、#2.04)、<a href="../Page/李敬揆.md" title="wikilink">李敬揆</a>(#3.03)、<a href="../Page/金炳萬.md" title="wikilink">金炳萬</a>(#3.04/#SP1.00)、<a href="../Page/朴相勉.md" title="wikilink">朴相勉</a>(#3.19)、(#4.23)、<a href="../Page/李瑞鎮.md" title="wikilink">李瑞鎮</a>(#4.31)、(#5.13、#5.14)、(#5.22)、(#RE1.11、#RE1.12)、(#9.15)、(#10.09)、(#11.17)</p></td>
+<td><p><a href="../Page/李鍾原.md" title="wikilink">李鍾原</a>(#2.03、#2.04)、<a href="../Page/李敬揆.md" title="wikilink">李敬揆</a>(#3.03)、<a href="../Page/金炳萬.md" title="wikilink">金炳萬</a>(#3.04/#SP1.00)、<a href="../Page/朴相勉.md" title="wikilink">朴相勉</a>(#3.19)、<a href="../Page/金煙雨.md" title="wikilink">金煙雨</a>(#4.23)、<a href="../Page/李瑞鎮.md" title="wikilink">李瑞鎮</a>(#4.31)、(#5.13、#5.14)、(#5.22)、(#RE1.11、#RE1.12)、(#9.15)、(#10.09)、(#11.17)</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1308,7 +1308,7 @@
 <tr class="even">
 <td><p><a href="../Page/廖杏茵.md" title="wikilink">廖杏茵</a></p></td>
 <td><p>嘉賓</p></td>
-<td><p>(#5.03)、<a href="../Page/多賢.md" title="wikilink">多賢</a>(#5.37、#11.10、#RE9.01)、<a href="../Page/俞利.md" title="wikilink">俞利</a>(#8.23，接替<a href="../Page/何璐怡.md" title="wikilink">何璐怡</a>)、<a href="../Page/薛仁雅.md" title="wikilink">薛仁雅</a>(#9.22、#9.23、#11.08、#11.09)、<a href="https://zh.wikipedia.org/wiki/表藝珍" title="wikilink">表藝珍</a>(#10.17)、<a href="../Page/韓善伙.md" title="wikilink">韓善伙</a>(#11.13)、(#11.24)</p></td>
+<td><p>(#5.03)、<a href="../Page/多賢.md" title="wikilink">多賢</a>(#5.37、#11.10、#RE9.01)、<a href="../Page/俞利.md" title="wikilink">俞利</a>(#8.23，接替<a href="../Page/何璐怡.md" title="wikilink">何璐怡</a>)、<a href="../Page/薛仁雅.md" title="wikilink">薛仁雅</a>(#9.22、#9.23、#11.08、#11.09)、<a href="https://zh.wikipedia.org/wiki/表藝珍" title="wikilink">表藝珍</a>(#10.17)、<a href="../Page/韓善伙.md" title="wikilink">韓善伙</a>(#11.13)、<a href="../Page/琴世祿.md" title="wikilink">琴世祿</a>(#11.24)</p></td>
 </tr>
 <tr class="odd">
 <td><p>特別出演</p></td>
@@ -1322,7 +1322,7 @@
 </tr>
 <tr class="odd">
 <td><p>嘉賓</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/善美" title="wikilink">善美</a>(#9.01、#9.02、#10.25，接替<a href="../Page/何晶晶.md" title="wikilink">何晶晶</a>)、<a href="../Page/夏沇秀.md" title="wikilink">夏沇秀</a>(#9.08，接替<a href="../Page/羅孔柔.md" title="wikilink">羅孔柔</a>、#9.09)、<a href="../Page/Irene_(Red_Velvet).md" title="wikilink">Irene</a>(#9.10，接替<a href="../Page/何璐怡.md" title="wikilink">何璐怡</a>、#11.08、#11.09)、<a href="https://zh.wikipedia.org/wiki/韶宥" title="wikilink">韶宥</a>(#9.17，接替<a href="../Page/何寶珊.md" title="wikilink">何寶珊</a>)、<a href="https://zh.wikipedia.org/wiki/姜珉耿" title="wikilink">姜珉耿</a>(#RE5.01)、<a href="../Page/苞娜.md" title="wikilink">苞娜</a>(#12.01、#12.02)</p></td>
+<td><p><a href="../Page/海嶺.md" title="wikilink">海嶺</a>(#RE1.06)、<a href="https://zh.wikipedia.org/wiki/善美" title="wikilink">善美</a>(#9.01、#9.02、#10.25，接替<a href="../Page/何晶晶.md" title="wikilink">何晶晶</a>)、<a href="../Page/夏沇秀.md" title="wikilink">夏沇秀</a>(#9.08，接替<a href="../Page/羅孔柔.md" title="wikilink">羅孔柔</a>、#9.09)、<a href="../Page/Irene_(Red_Velvet).md" title="wikilink">Irene</a>(#9.10，接替<a href="../Page/何璐怡.md" title="wikilink">何璐怡</a>、#11.08、#11.09)、<a href="https://zh.wikipedia.org/wiki/韶宥" title="wikilink">韶宥</a>(#9.17，接替<a href="../Page/何寶珊.md" title="wikilink">何寶珊</a>)、<a href="https://zh.wikipedia.org/wiki/姜珉耿" title="wikilink">姜珉耿</a>(#RE5.01)、<a href="../Page/苞娜.md" title="wikilink">苞娜</a>(#12.01、#12.02)</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1350,16 +1350,57 @@
 
   - 有待確認配音人物
 
-| 性別   | 稱謂 | 人物 |
-| ---- | -- | -- |
-| 男    | 嘉賓 |    |
-| 特別出演 |    |    |
-| 驚喜出演 |    |    |
-| 驚喜聲演 |    |    |
-| 女    | 嘉賓 |    |
-| 特別出演 |    |    |
-| 驚喜出演 |    |    |
-| 驚喜聲演 |    |    |
+<table>
+<thead>
+<tr class="header">
+<th><p>性別</p></th>
+<th><p>稱謂</p></th>
+<th><p>人物</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>男</p></td>
+<td><p>嘉賓</p></td>
+<td><p>(#12.13、#12.14)、(#12.13、#12.14)、徐勉浩(#12.13、#12.14)、李太旭(#12.13、#12.14)、片由日(#12.13、#12.14)、高英培(#12.13、#12.14)</p></td>
+</tr>
+<tr class="even">
+<td><p>特別出演</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>驚喜出演</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>驚喜聲演</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>女</p></td>
+<td><p>嘉賓</p></td>
+<td><p><a href="../Page/薛仁雅.md" title="wikilink">薛仁雅</a>(#12.12)、<a href="https://zh.wikipedia.org/wiki/請夏" title="wikilink">請夏</a>(#12.12)、<a href="../Page/Gummy_(歌手).md" title="wikilink">Gummy</a>(#12.13、#12.14)、<a href="../Page/朴初瓏.md" title="wikilink">朴初瓏</a>(#12.13、#12.14)、<a href="../Page/尹普美.md" title="wikilink">尹普美</a>(#12.13、#12.14)、<a href="../Page/鄭恩地.md" title="wikilink">鄭恩地</a>(#12.13、#12.14)、<a href="../Page/孫娜恩.md" title="wikilink">孫娜恩</a>(#12.13、#12.14)、<a href="../Page/金南珠_(歌手).md" title="wikilink">金南珠</a>(#12.13、#12.14)、<a href="../Page/吳夏榮.md" title="wikilink">吳夏榮</a>(#12.13、#12.14)</p></td>
+</tr>
+<tr class="even">
+<td><p>特別出演</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>驚喜出演</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>驚喜聲演</p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
   - 無法確認
 

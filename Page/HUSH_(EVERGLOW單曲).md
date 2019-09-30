@@ -34,10 +34,10 @@
 <td><p>8月29日</p></td>
 </tr>
 <tr class="odd">
-<td></td>
+<td><p>9月5日</p></td>
 </tr>
 <tr class="even">
-<td></td>
+<td><p>9月19日</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -55,7 +55,7 @@
 <td><p>8月30日</p></td>
 </tr>
 <tr class="even">
-<td></td>
+<td><p>9月13日</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -73,7 +73,7 @@
 <td><p>8月31日</p></td>
 </tr>
 <tr class="even">
-<td></td>
+<td><p>9月14日</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -88,7 +88,7 @@
 <td><p>9月1日</p></td>
 </tr>
 <tr class="odd">
-<td></td>
+<td><p>9月8日</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -100,10 +100,10 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td></td>
+<td><p>9月3日</p></td>
 </tr>
 <tr class="even">
-<td></td>
+<td><p>9月10日</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -115,7 +115,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td></td>
+<td><p>9月4日</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -131,6 +131,12 @@
 </tr>
 <tr class="odd">
 <td><p>8月30日</p></td>
+</tr>
+<tr class="even">
+<td><p>9月6日</p></td>
+</tr>
+<tr class="odd">
+<td><p>9月13日</p></td>
 </tr>
 <tr class="even">
 <td><p>《You Don't Know Me》</p></td>

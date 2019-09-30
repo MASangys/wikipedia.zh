@@ -1,6 +1,6 @@
 《**Welcome 2 Life**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2019年8月5日起播出的[月火連續劇](../Page/MBC月火連續劇.md "wikilink")，由《[龜巖許浚](../Page/龜巖許浚.md "wikilink")》、《[讓女人哭泣](../Page/讓女人哭泣.md "wikilink")》的[金根洪導演與](https://zh.wikipedia.org/wiki/金根洪 "wikilink")《[為純情著迷](../Page/為純情著迷.md "wikilink")》的柳熙京作家合作打造。此劇講述為了自己的利益而去幫助那些專走法律漏洞的人的獨行俠律師，因為一次不幸的意外而被吸進另一個平行世界中，變身為剛直的檢察官，度過180度完全不同的人生的故事。\[1\]\[2\]\[3\]\[4\]
 
-台灣由[LINE TV](../Page/LINE_TV.md "wikilink")[、愛奇藝台灣站](https://zh.wikipedia.org/wiki/愛奇藝台灣站 "wikilink")、[friDay影音](https://zh.wikipedia.org/wiki/friDay影音 "wikilink")8/6起每週二三播出。[中華電信MOD](../Page/中華電信MOD.md "wikilink")當週同步更新
+台灣區由[LINE TV](../Page/LINE_TV.md "wikilink")、[愛奇藝台灣站](https://zh.wikipedia.org/wiki/愛奇藝台灣站 "wikilink")、[friDay影音](https://zh.wikipedia.org/wiki/friDay影音 "wikilink")、[KKTV](../Page/KKTV.md "wikilink") 8/6起每週二三播出。[中華電信MOD](../Page/中華電信MOD.md "wikilink")當週同步更新。
 
 ## 演員陣容
 
@@ -122,7 +122,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/辛載夏.md" title="wikilink">辛載夏</a></p></td>
-<td><p>尹必宇</p></td>
+<td><p>尹必宇/池宣友</p></td>
 <td><p>生物製藥公司巴貝爾公司的代表，正進行新藥研究。他選定世京市為公司擴張地點，但都是根據道植指示的計劃。</p></td>
 </tr>
 <tr class="odd">
@@ -277,8 +277,8 @@
 </tr>
 <tr class="odd">
 <td><p>4</p></td>
-<td><p>6.8%</p></td>
-<td><p>7.1%</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>5</p></td>
@@ -333,7 +333,7 @@
 <tr class="even">
 <td><p>15</p></td>
 <td><p>2019/08/27</p></td>
-<td><p>3.5%</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>16</p></td>
@@ -343,62 +343,62 @@
 <tr class="even">
 <td><p>17</p></td>
 <td><p>2019/09/02</p></td>
-<td><p>%</p></td>
+<td><p>3.8%</p></td>
 </tr>
 <tr class="odd">
 <td><p>18</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>4.8%</p></td>
+<td><p>4.8%</p></td>
 </tr>
 <tr class="even">
 <td><p>19</p></td>
 <td><p>2019/09/03</p></td>
-<td><p>%</p></td>
+<td><p>4.0%</p></td>
 </tr>
 <tr class="odd">
 <td><p>20</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>4.9%</p></td>
+<td><p>4.6%</p></td>
 </tr>
 <tr class="even">
 <td><p>21</p></td>
 <td><p>2019/09/09</p></td>
-<td><p>%</p></td>
+<td><p>3.8%</p></td>
 </tr>
 <tr class="odd">
 <td><p>22</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>5.1%</p></td>
+<td><p>4.9%</p></td>
 </tr>
 <tr class="even">
 <td><p>23</p></td>
 <td><p>2019/09/10</p></td>
-<td><p>%</p></td>
+<td><p>4.2%</p></td>
 </tr>
 <tr class="odd">
 <td><p>24</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>5.2%</p></td>
+<td><p>5.3%</p></td>
 </tr>
 <tr class="even">
 <td><p>25</p></td>
 <td><p>2019/09/16</p></td>
-<td><p>%</p></td>
+<td><p>3.9%</p></td>
 </tr>
 <tr class="odd">
 <td><p>26</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>4.7%</p></td>
+<td><p>4.9%</p></td>
 </tr>
 <tr class="even">
 <td><p>27</p></td>
 <td><p>2019/09/17</p></td>
-<td><p>%</p></td>
+<td><p>4.4%</p></td>
 </tr>
 <tr class="odd">
 <td><p>28</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>5.9%</p></td>
+<td><p>6.2%</p></td>
 </tr>
 <tr class="even">
 <td><p>29</p></td>
@@ -451,7 +451,7 @@
   - [韓國MBC官方網站](http://content.mbc.co.kr/program/drama/3422142_64286.html)
   - [Welcome 2 Life-NAVER](https://m.entertain.naver.com/tvBrand/9712936)
 
-[Category:2019年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2019年韓國電視劇集 "wikilink") [Category:韓國奇幻劇](https://zh.wikipedia.org/wiki/Category:韓國奇幻劇 "wikilink") [Category:韓國愛情劇‎](https://zh.wikipedia.org/wiki/Category:韓國愛情劇‎ "wikilink") [Category:平行世界題材電視劇](https://zh.wikipedia.org/wiki/Category:平行世界題材電視劇 "wikilink") [Category:檢察官題材電視劇](https://zh.wikipedia.org/wiki/Category:檢察官題材電視劇 "wikilink")
+[Category:2019年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2019年韓國電視劇集 "wikilink") [Category:韓國奇幻劇](https://zh.wikipedia.org/wiki/Category:韓國奇幻劇 "wikilink") [Category:韓國愛情劇](https://zh.wikipedia.org/wiki/Category:韓國愛情劇 "wikilink") [Category:平行世界題材電視劇](https://zh.wikipedia.org/wiki/Category:平行世界題材電視劇 "wikilink") [Category:檢察官題材電視劇](https://zh.wikipedia.org/wiki/Category:檢察官題材電視劇 "wikilink")
 
 1.
 2.

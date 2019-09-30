@@ -37,8 +37,8 @@
 | 第一集  | 2019年8月13日 | 《Energy Park》     | [EP1](https://www.youtube.com/watch?v=O2bbSuESLE4) |
 | 第二集  | 2019年8月20日 | 《Variety Village》 | [EP2](https://www.youtube.com/watch?v=WdGSjG_gOos) |
 | 第三集  | 2019年8月27日 | 《Glow珠泡泡堂》        | [EP3](https://www.youtube.com/watch?v=Uk-j--xDfYM) |
-| 第四集  | 2019年9月3日  |                   |                                                    |
-| 第五集  | 2019年9月10日 |                   |                                                    |
+| 第四集  | 2019年9月3日  | 《迷失岛屿》            | [EP4](https://www.youtube.com/watch?v=zxyaeQXz5To) |
+| 第五集  | 2019年9月10日 | 《我们一起的游戏工厂》       | [EP5](https://www.youtube.com/watch?v=Vk5lyhxAnTU) |
 
 ## 參考資料
 

@@ -1,4 +1,4 @@
-**iPadOS**是[蘋果公司在](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[iPad上使用的](https://zh.wikipedia.org/wiki/iPad "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，最新版本iPadOS 13於2019年6月4日[WWDC上发布](https://zh.wikipedia.org/wiki/WWDC "wikilink")\[1\]\[2\]。 iPadOS的[使用者介面是使用](https://zh.wikipedia.org/wiki/使用者介面 "wikilink")[多點觸控](../Page/多點觸控.md "wikilink")來直接操作。介面操控元素包括滑動條、開關及按鈕。跟操作介面的控制包括滑動、點擊、扭捏及反向扭捏。這些所有都在iPadOS作業系統及其多點觸控介面中有具體的定義。內建的速度感知器能夠提供給部分應用程式使用，當裝置搖動時以的作出回應（常見的結果是還原指令），或以[三維方旋轉](https://zh.wikipedia.org/wiki/三維模型 "wikilink")（常見於切換縱向及橫向之間的熒幕模式）。
+**iPadOS**是[蘋果公司在](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[iPad上使用的](https://zh.wikipedia.org/wiki/iPad "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，最新版本iPadOS 13於2019年6月4日[WWDC上发布](https://zh.wikipedia.org/wiki/WWDC "wikilink")\[1\]\[2\]。 iPadOS的[使用者介面是使用](https://zh.wikipedia.org/wiki/使用者介面 "wikilink")[多點觸控](../Page/多點觸控.md "wikilink")來直接操作。介面操控元素包括滑動條、開關及按鈕。跟操作介面的控制包括滑動、點擊、扭捏及反向扭捏。這些所有都在iPadOS作業系統及其多點觸控介面中有具體的定義。內建的速度感知器能夠提供給部分應用程式使用，當裝置搖動時以的作出回應（常見的結果是還原指令），或以[三維方旋轉](https://zh.wikipedia.org/wiki/三維模型 "wikilink")（常見於切換縱向及橫向之間的熒幕模式）。 目前預計9月25日正式發送更新。
 
 ## 使用方式
 
@@ -40,7 +40,7 @@ iPadOS专为多点触控屏幕优化，但也可以外接鼠标、触控笔和�
 
 ## 支援裝置
 
-採用[Apple A8](../Page/Apple_A8.md "wikilink") / A8X及其後推出的新款[系统芯片](../Page/系统芯片.md "wikilink")的iPad平板電腦均可升級到iPadOS，包括
+iPadOS适用[Apple A8](../Page/Apple_A8.md "wikilink") / A8X以上的和拥有2GB RAM的iPad平板電腦均可升級到iPadOS，因此iPad Air，iPad mini 2和iPad mini 3不能升级到iPadOS，能升级到iPadOS的机型包括：
 
   - [iPad Air 2](https://zh.wikipedia.org/wiki/iPad_Air_2 "wikilink")
   - [iPad Air (第三代)](https://zh.wikipedia.org/wiki/iPad_Air_\(第三代\) "wikilink")
@@ -48,6 +48,7 @@ iPadOS专为多点触控屏幕优化，但也可以外接鼠标、触控笔和�
   - [iPad mini (第五代)](https://zh.wikipedia.org/wiki/iPad_mini_\(第五代\) "wikilink")
   - [iPad (第五代)](https://zh.wikipedia.org/wiki/iPad_\(第五代\) "wikilink")
   - [iPad (第六代)](https://zh.wikipedia.org/wiki/iPad_\(第六代\) "wikilink")
+  - [iPad 2019](https://zh.wikipedia.org/wiki/iPad_2019 "wikilink")
   - [iPad Pro](https://zh.wikipedia.org/wiki/iPad_Pro "wikilink") (全部)
 
 ## 参考资料

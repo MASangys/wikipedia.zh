@@ -18,6 +18,10 @@
 除了[廣東話](https://zh.wikipedia.org/wiki/廣東話 "wikilink")、[國語以及](https://zh.wikipedia.org/wiki/國語 "wikilink")[英文外](https://zh.wikipedia.org/wiki/英文 "wikilink")、他也略懂法文。
 除了語言能力外，托哥最常被人討論的為其高達193厘米的身高。
 
+## 爭議
+
+2019年9月份，有網民先繼在Twitter和[連登](https://lihkg.com/thread/1574353/page/1)張貼了證據，指出托哥涉嫌持有假新聞網媒Dim Sum Daily的母公司Asia United Media Limited的一半股份，就此托哥在其個人社交媒體澄清他經營的Asia United Media Limited已停止營運，他也沒有參與管理Dim Sum Daily。
+
 ## 外部連結
 
 [托哥IG](https://www.instagram.com/torres_pit/?hl=en)

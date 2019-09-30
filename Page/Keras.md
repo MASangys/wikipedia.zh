@@ -17,6 +17,12 @@ Keras允许用户在智能手机（[iOS和](https://zh.wikipedia.org/wiki/iOS "w
 ## 参见
 
   -
+  - [卷积神经网络](../Page/卷积神经网络.md "wikilink")
+
+  - [深度学习](../Page/深度学习.md "wikilink")
+
+  - [机器学习](../Page/机器学习.md "wikilink")
+
 ## 参考资料
 
 ## 延伸阅读

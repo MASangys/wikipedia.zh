@@ -1144,8 +1144,8 @@ Elizabeth Marry 自小仰慕大表姊 [Becky](../Page/Becky.md "wikilink") 且�
 （<a href="https://zh.wikipedia.org/wiki/Theatre1010" title="wikilink">Theatre1010</a>）</p></td>
 <td><p>舞台「<a href="https://zh.wikipedia.org/wiki/幽☆遊☆白書" title="wikilink">幽☆遊☆白書</a>」</p></td>
 <td><p>幻　海<br />
-夏　子<br />
-麻　彌<br />
+木部夏子<br />
+喜多嶋麻彌<br />
 Masuru（マサル）<br />
 螢子母親<br />
 藏馬母親</p></td>

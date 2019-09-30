@@ -4,17 +4,17 @@
 
 ### 改版重新開播
 
-繼2019年5月30日播出後無預警停播後，於同年7月17日，節目組公佈其節目將進行改版，於7月31日正式回歸，同時亦宣佈張度練加入節目，與全炫茂一同主持節目\[5\]。
+繼2019年5月30日播出後無預警停播後，於同年7月17日，節目組公佈其節目將進行改版，於7月31日正式回歸，同時亦宣佈張度練加入節目，與全炫茂一同主持節目\[5\]。每集的來賓與主題的資料人物有共通點。
 
 ## 節目成員
 
 <table style="width:65%;">
 <colgroup>
+<col style="width: 14%" />
 <col style="width: 19%" />
-<col style="width: 11%" />
-<col style="width: 11%" />
-<col style="width: 11%" />
-<col style="width: 11%" />
+<col style="width: 13%" />
+<col style="width: 9%" />
+<col style="width: 8%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -124,6 +124,10 @@
 
 ## 各集內容
 
+|  |
+|  |
+|  |
+|  |
 |  |
 |  |
 |  |

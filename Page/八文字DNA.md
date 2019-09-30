@@ -6,7 +6,7 @@
 
 天然存在的DNA是目前發現的所有[細胞生物](https://zh.wikipedia.org/wiki/細胞 "wikilink")[遺傳信息的載體](https://zh.wikipedia.org/wiki/遺傳信息 "wikilink")，由A、T、G、C四種鹼基編碼遺傳信息。天然DNA的基本組成單元是[核苷酸](../Page/核苷酸.md "wikilink")，通過[3′,5′-磷酸二酯鍵組成骨架](https://zh.wikipedia.org/wiki/磷酸二酯鍵 "wikilink")。兩條核苷酸鏈之間通過互補鹼基形成的[氫鍵非](https://zh.wikipedia.org/wiki/氫鍵 "wikilink")[共價結合](https://zh.wikipedia.org/wiki/共價鍵 "wikilink")，組成[雙螺旋結構](https://zh.wikipedia.org/wiki/雙螺旋結構 "wikilink")\[8\]\[9\]。
 
-八文字DNA中額外含有四個天然DNA中不存在的鹼基P、Z、B、dS（在八文字RNA中記爲rS（）），其中P與Z配對，B與S配對（在八文字RNA中配對是B與rS）\[10\]\[11\]。八文字DNA中的非天然鹼基疏水性高於天然DNA，不過仍然可以形成與天然DNA相似的雙螺旋結構。體外（*[in vitro](https://zh.wikipedia.org/wiki/in_vitro "wikilink")*）實驗表明，經過改造的[T7 RNA聚合酶能將八文字DNA](https://zh.wikipedia.org/wiki/T7_RNA聚合酶 "wikilink")[轉錄成對應的八文字RNA](https://zh.wikipedia.org/wiki/轉錄 "wikilink")\[12\]\[13\]。
+八文字DNA中額外含有四個天然DNA中不存在的鹼基P、Z、B、dS（在八文字RNA中記爲rS（[異胞嘧啶](https://zh.wikipedia.org/wiki/異胞嘧啶 "wikilink")）），其中P與Z配對，B與S配對（在八文字RNA中配對是B與rS）\[10\]\[11\]。八文字DNA中的非天然鹼基疏水性高於天然DNA，不過仍然可以形成與天然DNA相似的雙螺旋結構。體外（*[in vitro](https://zh.wikipedia.org/wiki/in_vitro "wikilink")*）實驗表明，經過改造的[T7 RNA聚合酶能將八文字DNA](https://zh.wikipedia.org/wiki/T7_RNA聚合酶 "wikilink")[轉錄成對應的八文字RNA](https://zh.wikipedia.org/wiki/轉錄 "wikilink")\[12\]\[13\]。
 
   -
     {|

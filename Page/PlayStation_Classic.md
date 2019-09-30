@@ -66,7 +66,7 @@ PlayStation Classic内置了20款PlayStation游戏，其中包括《[生化危�
 
 ## 参考资料
 
-[Category:電子遊戲機](https://zh.wikipedia.org/wiki/Category:電子遊戲機 "wikilink") [Category:索尼遊戲機](https://zh.wikipedia.org/wiki/Category:索尼遊戲機 "wikilink") [Category:PlayStation_(遊戲機)](https://zh.wikipedia.org/wiki/Category:PlayStation_\(遊戲機\) "wikilink") [Category:2018年面世的產品](https://zh.wikipedia.org/wiki/Category:2018年面世的產品 "wikilink")
+[Category:電子遊戲機](https://zh.wikipedia.org/wiki/Category:電子遊戲機 "wikilink") [Category:索尼遊戲機](https://zh.wikipedia.org/wiki/Category:索尼遊戲機 "wikilink") [Category:PlayStation_(遊戲機)](https://zh.wikipedia.org/wiki/Category:PlayStation_\(遊戲機\) "wikilink") [Category:2018年面世的產品](https://zh.wikipedia.org/wiki/Category:2018年面世的產品 "wikilink") [Category:专用游戏机](https://zh.wikipedia.org/wiki/Category:专用游戏机 "wikilink")
 
 1.
 

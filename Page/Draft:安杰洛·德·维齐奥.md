@@ -1,6 +1,6 @@
 -----
 
-**安杰洛·德·维齐奥**（Angelo Del Vecchio）是一名意大利籍音乐剧演员，当前主要在音乐剧《[巴黎圣母院](../Page/巴黎圣母院_\(音乐剧\).md "wikilink")》的世界巡演中饰演卡西莫多的角色。他是唯一一位曾出演过三种不同语言版本的《巴黎圣母院》的演员。
+**安杰洛·德·维齐奥**（Angelo Del Vecchio）是一名意大利籍音乐剧演员，当前主要在音乐剧《[巴黎圣母院](../Page/巴黎圣母院_\(音乐剧\).md "wikilink")》的世界巡演中饰演卡西莫多的角色。他是唯一一位曾出演过三种不同语言版本的《巴黎圣母院》的演员。\[1\]
 
 安杰洛自童年时即对音乐产生浓厚兴趣。他于11岁起开始学习歌唱与钢琴。2006年起，他开始向戏剧行业发展。进行了多轮试镜后，他被理查德·柯西安特选中参演意大利音乐剧《朱丽叶与罗密欧》（[Giulietta e Romeo](https://zh.wikipedia.org/wiki/:it:Giulietta_e_Romeo_\(commedia_musicale\) "wikilink")）中的班福里奥（Benvolio）一角，后于2007年至2008年期间随同剧组在意大利进行巡演，他在剧中演唱的《The face》和《I love and I do not know》两首曲目被选入《朱丽叶与罗密欧精选集》（Giulietta e Romeo - Selected tracks）专辑中。
 
@@ -32,9 +32,10 @@
 
 ## 参考资料
 
-\[1\] \[2\] \[3\] \[4\]
+\[2\] \[3\] \[4\] \[5\]
 
-1.
+1.  [Angelo Del Vecchio - NOTRE DAME DE PARIS - La Comédie Musicale](https://notredamedeparislespectacle.com/cast/angelo-del-vecchio/)
 2.
 3.
 4.
+5.

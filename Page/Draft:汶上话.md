@@ -6,7 +6,7 @@
 
 ### 辅音
 
-汶上话有25个辅音，其中有20个[声母](../Page/声母.md "wikilink")（不包括[零声母](https://zh.wikipedia.org/wiki/零声母 "wikilink")）\[4\]。[塞音](../Page/塞音.md "wikilink")、[塞擦音声母都为](https://zh.wikipedia.org/wiki/塞擦音 "wikilink")[清音且普遍存在](https://zh.wikipedia.org/wiki/清音 "wikilink")[送气对立](https://zh.wikipedia.org/wiki/送气对立 "wikilink")，[擦音声母存在](https://zh.wikipedia.org/wiki/擦音声母 "wikilink")[清浊对立](https://zh.wikipedia.org/wiki/清浊对立 "wikilink")。[卷舌擦音tʂ](https://zh.wikipedia.org/wiki/卷舌擦音 "wikilink")、tʂʰ、tʂʰ、ʐ仅作ts、tsʰ、tsʰ、z的[条件变体](https://zh.wikipedia.org/wiki/条件变体 "wikilink")，即汶上话中存在翘舌音，却并不区分平翘舌。汶上话也不区分尖团音。汶上话只有ŋ一个辅音韵尾。\[5\]
+汶上话有25个辅音，其中有20个[声母](../Page/声母.md "wikilink")（不包括[零声母](https://zh.wikipedia.org/wiki/零声母 "wikilink")）\[4\]。[塞音](../Page/塞音.md "wikilink")、[塞擦音声母都为](https://zh.wikipedia.org/wiki/塞擦音 "wikilink")[清音且普遍存在](https://zh.wikipedia.org/wiki/清音 "wikilink")[送气对立](https://zh.wikipedia.org/wiki/送气对立 "wikilink")，[擦音声母存在](https://zh.wikipedia.org/wiki/擦音声母 "wikilink")[清浊对立](https://zh.wikipedia.org/wiki/清浊对立 "wikilink")。[卷舌擦音tʂ](https://zh.wikipedia.org/wiki/卷舌擦音 "wikilink")、tʂʰ、tʂʰ、ʐ仅作ts、tsʰ、tsʰ、z一组儿化时的[条件变体](https://zh.wikipedia.org/wiki/条件变体 "wikilink")。汶上话也不区分尖团音。汶上话只有ŋ一个辅音韵尾。\[5\]
 
 <table>
 <thead>
@@ -158,28 +158,7 @@
 
 ### 声调
 
-汶上话有阴平、阳平、上声、去声四个[调类](https://zh.wikipedia.org/wiki/调类 "wikilink")。但是目前，汶上话的具体调值仍存在争议：
-
-| 来源    | 阴平  | 阳平 | 上声  | 去声  |
-| ----- | --- | -- | --- | --- |
-| 普通话对照 | 55  | 35 | 214 | 51  |
-| 汶上方言  | 213 | 42 | 55  | 312 |
-
-#### 连续变调
-
-汶上话中存在连续变调现象：
-
-表格中出现变调的以斜体表示。
-
-| 前字调类 | 后字   |
-| ---- | ---- |
-| 阴平   | 阳平   |
-| 阴平   | *34* |
-| 阳平   | 54   |
-| 上声   | 44   |
-| 去声   | 待研究  |
-
-前字读音
+汶上话有阴平、阳平、上声、去声四个[调类](https://zh.wikipedia.org/wiki/调类 "wikilink")。根据《汶上方言志》，汶上方言四个调类的调值分别为213、42、55、312。
 
 ## 词汇
 

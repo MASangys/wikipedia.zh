@@ -22,14 +22,14 @@ local function checkarg(k,v)
 `           -- valid`
 `       elseif k == 'captionstyle' then`
 `           if not v:match('^text%-align%s*:%s*center[;%s]*$') then`
-`               --table.insert(tracking, '')`
+`               table.insert(tracking, '')`
 `           end`
 `       else`
 `           -- invalid`
 `           local vlen = mw.ustring.len(k)`
 `           k = mw.ustring.sub(k, 1, (vlen < 25) and vlen or 25) `
 `           k = mw.ustring.gsub(k, '[^%w\-_ ]', '?')`
-`           --table.insert(tracking, '')`
+`           table.insert(tracking, '')`
 `           table.insert(preview, '"' .. k .. '"')`
 `       end`
 `   end`

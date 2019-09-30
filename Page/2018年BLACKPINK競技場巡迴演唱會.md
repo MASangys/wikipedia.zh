@@ -15,32 +15,19 @@
 <!-- end list -->
 
 1.  [Ddu-Du Ddu-Du](https://zh.wikipedia.org/wiki/Ddu-Du_Ddu-Du "wikilink")（韓語版）
-
-2.
+2.  [Forever Young](../Page/Forever_Young_\(BLACKPINK歌曲\).md "wikilink")
 3.  [Whistle（Acoustic Ver.）](https://zh.wikipedia.org/wiki/口哨_\(BLACKPINK歌曲\) "wikilink")（日語版）
-
 4.  [Stay](https://zh.wikipedia.org/wiki/Stay_\(BLACKPINK歌曲\) "wikilink")（日語版）
-
 5.  Can't Take My Eyes Off You（[Jennie](../Page/Jennie_\(韓國歌手\).md "wikilink") Solo）
-
 6.  Eyes Closed + （[Rosé](../Page/Rosé_\(韓國歌手\).md "wikilink") Solo）
-
 7.  Lemon + Faded + Attention（[Lisa](../Page/Lisa_\(泰國歌手\).md "wikilink") Solo）
-
 8.  Sakurairo Maukoro；（[Jisoo](../Page/金智秀_\(歌手\).md "wikilink") Solo）
-
 9.  Partition（舞蹈翻跳）
-
 10. [So Hot（The Black Label Remix）](https://zh.wikipedia.org/wiki/So_Hot#BLACKPINK重新翻唱《So_Hot（The_Black_Label_Remix）》 "wikilink")
-
 11. See U Later
-
 12. Really
-
 13. [Boombayah](https://zh.wikipedia.org/wiki/Boombayah "wikilink")（日語版）
-
 14. [Playing with Fire](https://zh.wikipedia.org/wiki/Playing_with_Fire_\(BLACKPINK歌曲\) "wikilink")（日語版）
-
 15. [As If It's Your Last](../Page/As_If_It's_Your_Last.md "wikilink")（日語版）
 
 <!-- end list -->
