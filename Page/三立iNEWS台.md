@@ -38,11 +38,11 @@
 
 ### 現任主播
 
-| **專任主播**                                            |
+| **專任主播&記者**                                         |
 | --------------------------------------------------- |
 | [高毓璘](https://zh.wikipedia.org/wiki/高毓璘 "wikilink") |
-| [范益華](https://zh.wikipedia.org/wiki/范益華 "wikilink") |
-|                                                     |
+| [鄧崴](https://zh.wikipedia.org/wiki/鄧崴 "wikilink")   |
+| [陳承泰](https://zh.wikipedia.org/wiki/陳承泰 "wikilink") |
 
 ### 現任節目主持人
 
@@ -58,8 +58,8 @@
 (<a href="https://zh.wikipedia.org/wiki/聰明過生活" title="wikilink">聰明過生活</a>)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/解婕翎.md" title="wikilink">解婕翎</a>、<a href="https://zh.wikipedia.org/wiki/小周師" title="wikilink">小周師</a><br />
-(<a href="https://zh.wikipedia.org/wiki/爆賺公社" title="wikilink">爆賺公社</a>)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/廖芳潔" title="wikilink">廖芳潔</a><br />
+(<a href="https://zh.wikipedia.org/wiki/能戰！全民新視界" title="wikilink">能戰！全民新視界</a>)</p></td>
 </tr>
 <tr class="odd">
 <td></td>

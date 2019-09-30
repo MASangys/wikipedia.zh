@@ -1,4 +1,4 @@
-『**weeeek**』是[日本](../Page/日本.md "wikilink")男性偶像組合[NEWS](../Page/NEWS.md "wikilink")第7張單曲。
+《**weeeek**》是[日本](../Page/日本.md "wikilink")男性偶像組合[NEWS](../Page/NEWS.md "wikilink")第7張單曲。
 
 ## 概要
 

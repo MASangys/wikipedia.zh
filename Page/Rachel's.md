@@ -37,7 +37,7 @@ Jason Noble和Christian Fredericksen在1989年相見，並在1994年正式成立
 
 ## 參考資料
 
-[Category:美國樂團](https://zh.wikipedia.org/wiki/Category:美國樂團 "wikilink") [Category:後搖滾樂團](https://zh.wikipedia.org/wiki/Category:後搖滾樂團 "wikilink")
+[Category:美國樂團](https://zh.wikipedia.org/wiki/Category:美國樂團 "wikilink") [Category:後搖滾樂團](https://zh.wikipedia.org/wiki/Category:後搖滾樂團 "wikilink") [Category:1994年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1994年成立的音樂團體 "wikilink")
 
 1.
 

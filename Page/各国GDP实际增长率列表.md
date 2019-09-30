@@ -732,7 +732,7 @@
 </tr>
 <tr class="even">
 <td><p>144</p></td>
-<td><p>（中国台湾）</p></td>
+<td><p>（台灣）</p></td>
 <td><p>align="center" data-sort-value="2.0" |  2.0</p></td>
 </tr>
 <tr class="odd">

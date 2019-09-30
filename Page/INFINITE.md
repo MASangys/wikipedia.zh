@@ -140,7 +140,7 @@
 
 7月22日，[成鍾現役入伍](https://zh.wikipedia.org/wiki/成種 "wikilink")
 
-8月18日，[L表示與經紀公司Woollim的合約到期而決定不續約](../Page/金明洙.md "wikilink")，打算自己闖蕩演藝圈。
+8月18日，[L以手寫信表示與經紀公司Woollim的合約到期而決定不續約](../Page/金明洙.md "wikilink")。
 
 ## 成員列表
 

@@ -12,7 +12,7 @@
 
 ## 參考資料
 
-[Category:盧巧音音樂專輯](https://zh.wikipedia.org/wiki/Category:盧巧音音樂專輯 "wikilink") [Category:2000年音樂專輯](https://zh.wikipedia.org/wiki/Category:2000年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
+[Category:盧巧音音樂專輯](https://zh.wikipedia.org/wiki/Category:盧巧音音樂專輯 "wikilink") [Category:2000年音樂專輯](https://zh.wikipedia.org/wiki/Category:2000年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:香港流行音乐专辑](https://zh.wikipedia.org/wiki/Category:香港流行音乐专辑 "wikilink")
 
 1.
 2.

@@ -193,7 +193,7 @@
 <tbody>
 <tr class="odd">
 <td><p>春風渓介</p></td>
-<td><p>日本：望月祐多 台灣：<a href="../Page/孫中台.md" title="wikilink">孫中台</a>→<a href="../Page/魏伯勤.md" title="wikilink">魏伯勤</a>（主要）→<a href="../Page/于正昇.md" title="wikilink">于正昇</a>（第三部）</p>
+<td><p>日本：望月祐多 台灣：<a href="../Page/魏伯勤.md" title="wikilink">魏伯勤</a>（主要）、<a href="../Page/孫中台.md" title="wikilink">孫中台</a>、<a href="../Page/于正昇.md" title="wikilink">于正昇</a>（第三部）</p>
 <p>香港：招世亮</p></td>
 <td><p>DoReMi的爸爸， 職業是釣魚寫作家，也是標準的釣魚狂， 最擅長飛蠅釣， 每次偷買新釣竿或要出去偷溜出去釣魚時都幾乎會被妻子抓包並毒打一頓。 後期因飛蠅釣的熱潮退去而導致工作量減少，不得以為轉向海釣風格，但仍不改經常偷買新釣竿的壞習慣。</p></td>
 <td><p>待查</p></td>
@@ -246,7 +246,7 @@
 <tbody>
 <tr class="odd">
 <td><p>藤原明</p></td>
-<td><p>日本:乃村健次 台灣:<a href="../Page/魏伯勤.md" title="wikilink">魏伯勤</a>→<a href="../Page/于正昇.md" title="wikilink">于正昇</a>（第三部）</p>
+<td><p>日本:乃村健次 台灣:<a href="../Page/魏伯勤.md" title="wikilink">魏伯勤</a>、<a href="../Page/于正昇.md" title="wikilink">于正昇</a>（第三部）</p>
 <p>香港:雷霆</p></td>
 <td><p>羽月的爸爸，職業是導演。曾幫桃子錄製給桃子在美國的朋友「貝絲」的影像郵件[1]。由於羽月的媽媽在婚前是姓藤原，因此可得知羽月的爸爸是被招贅至藤原家的。 後續因劇組工作人員吸毒而導致電影拍攝延後，為了承擔責任而背債，原本不想拖累妻兒而藉由離婚來自己揹債，但在家人勸說下最後決定改成把豪宅賣掉來抵債， 並一家搬至公寓。</p></td>
 <td><p>待查</p></td>
@@ -286,7 +286,7 @@
 <tbody>
 <tr class="odd">
 <td><p>妹尾幸治</p></td>
-<td><p>日本:<a href="../Page/津久井教生.md" title="wikilink">津久井教生</a> 台灣:<a href="../Page/孫中台.md" title="wikilink">孫中台</a>→<a href="../Page/魏伯勤.md" title="wikilink">魏伯勤</a>（主要）→<a href="../Page/于正昇.md" title="wikilink">于正昇</a>（第三部）</p>
+<td><p>日本:<a href="../Page/津久井教生.md" title="wikilink">津久井教生</a> 台灣:<a href="../Page/魏伯勤.md" title="wikilink">魏伯勤</a>（主要）、<a href="../Page/孫中台.md" title="wikilink">孫中台</a>、<a href="../Page/于正昇.md" title="wikilink">于正昇</a>（第三部）</p>
 <p>香港：<a href="../Page/蘇強文.md" title="wikilink">蘇強文</a></p></td>
 <td><p>愛子的爸爸，職業是計程車司機。和妻子分居後與愛子搬到美空市，最後和妻子復合搬回大阪。 曾因為所屬的公司倒閉而失業，後獲玉木麗香的父親聘用<sup><a href="https://zh.wikipedia.org/wiki/小魔女DoReMi角色列表#cite%20note-1" title="wikilink">[1</a>]</sup>。<br />
 </p></td>

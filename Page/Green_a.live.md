@@ -1,4 +1,4 @@
-"**Green a.live**"是[日本](../Page/日本.md "wikilink")唱作女歌手[YUI](../Page/YUI.md "wikilink")於2011年10月5日所推出的第二十張單曲碟。
+《**Green a.live**》是[日本](../Page/日本.md "wikilink")唱作女歌手[YUI](../Page/YUI.md "wikilink")於2011年10月5日所推出的第二十張單曲碟。
 
 ## 收錄歌曲
 

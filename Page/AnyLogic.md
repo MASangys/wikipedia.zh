@@ -105,7 +105,7 @@ AnyLogic包含了下列標準資料庫\[21\]:
 
   - [AnyLogic official web-site](http://www.anylogic.com)
   - [AnyLogic On-line Help](http://www.anylogic.com/anylogic/help/)
-  - [AnyLogic Video Tour (How-to's, model examples etc.)](http://www.anylogic.com/video-tour)
+  - [AnyLogic Video Tour (How-to's, model examples etc.)](https://web.archive.org/web/20140701213547/http://www.anylogic.com/video-tour)
   - [Anylogic support at simulation123.com](http://simulation123.com/index.php?board=12.0)
 
 [Category:Mac_OS](https://zh.wikipedia.org/wiki/Category:Mac_OS "wikilink") [Category:Linux](https://zh.wikipedia.org/wiki/Category:Linux "wikilink") [Category:Windows軟體](https://zh.wikipedia.org/wiki/Category:Windows軟體 "wikilink")

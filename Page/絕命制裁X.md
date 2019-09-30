@@ -11,7 +11,7 @@
   -
     17歲，175公分。
     做出選擇的男子。是個懷抱著亡友遺志持續奮戰的剛毅木訥人物。九年前受到恐怖炸彈攻擊所波及而身體殘破不堪，在望月正宗的救治下，接收了被宣判腦死的摯友望月龍的身體、內臟而存活下來。對摯友的父親同時也是自己救命恩人的望月正宗抱有極大忠誠心。
-    武裝：鎗管一長一短的[M1911雙鎗](../Page/M1911手槍.md "wikilink")（命名：「 BlackLabel Long Slide 」「 BlackLabel Knuckle 」；長款的手鎗為致敬電影《[-{zh-cn:终结者; zh-tw:魔鬼終結者; zh-hk:未來戰士;}-](https://zh.wikipedia.org/wiki/魔鬼終結者 "wikilink")》中-{zh-cn:终结者; zh-tw:終結者; zh-hk:未來戰士;}-所持之名鎗[AMT Hardballer](../Page/AMT_Hardballer手槍.md "wikilink")）、短鎗身雙管散彈鎗（命名：「 Double Joker 」）
+    武裝：鎗管一長一短的[M1911雙鎗](../Page/M1911手槍.md "wikilink")（命名：「 BlackLabel Long Slide 」「 BlackLabel Knuckle 」；長款的手鎗為致敬電影《[-{zh-cn:终结者; zh-tw:魔鬼終結者; zh-hk:未來戰士;}-](https://zh.wikipedia.org/wiki/魔鬼終結者 "wikilink")》中-{zh-cn:终结者; zh-tw:終結者; zh-hk:未來戰士;}-所持之名鎗[AMT Hardballer](https://zh.wikipedia.org/wiki/AMT_Hardballer半自動手槍 "wikilink")）、短鎗身雙管散彈鎗（命名：「 Double Joker 」）
 
 <!-- end list -->
 

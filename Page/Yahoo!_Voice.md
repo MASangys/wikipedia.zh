@@ -10,7 +10,7 @@ Yahoo也提供与真实电话号码一样的网络电话号码，目前只支持
 
 ## 不支持的功能
 
-  - [加密電話](https://zh.wikipedia.org/wiki/加密 "wikilink")
+  - [加密](../Page/加密.md "wikilink")電話
   - PC電話（多人）[電話會議](https://zh.wikipedia.org/wiki/電話會議 "wikilink")
 
 ## 參見

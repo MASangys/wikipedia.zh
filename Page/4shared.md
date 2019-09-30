@@ -92,7 +92,7 @@
 1.  [Crunchbase](http://www.crunchbase.com/company/4shared)上的公司介绍
 2.  [AboutUs.org上的公司介绍](http://www.aboutus.org/4Shared.com)
 3.  [PCWorld关于4shared的介绍](http://www.pcworld.com/article/125729-7/store_it_on_the_web.html)
-4.  [Techie Buzz关于4shared的介绍](http://techie-buzz.com/press-releases/4shared-mobile-app-for-symbian-and-iphone.html)
+4.
 5.  [4shared被Total Brazilian Unique Visitors评为网上资产15强](http://comscore.com/Press_Events/Press_Releases/2009/11/Brazilian_Internet_Properties_Attract_Large_Audiences_from_Around_the_World/\(language\)/eng-US)
 6.  [Siteanalytics.compete.com上的公司统计数据](http://siteanalytics.compete.com/4shared.com/?metric=uv)
 7.  [Digital Millennium Copyright Act](https://zh.wikipedia.org/wiki/Digital_Millennium_Copyright_Act "wikilink")

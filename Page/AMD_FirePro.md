@@ -1249,7 +1249,7 @@ GFLOPs</p></th>
 
 1.  [AMD Vendor ID page](http://developer.amd.com/drivers/pc_vendor_id/Pages/default.aspx) . Retrieved September 6, 2008.
 
-2.  [AMD FirePro V5800 and V3800 Review - Evergreen completes the sweep](http://www.pcper.com/article.php?aid=909)
+2.
 
 3.  [AMD FirePro V4800 & FirePro V7800 Review](http://www.phoronix.com/scan.php?page=article&item=amd_firepro_v4800_v7800). Retrieved September 6, 2008.
 

@@ -7069,7 +7069,7 @@
 </tr>
 <tr class="odd">
 <td><p>895</p></td>
-<td><p>特別篇 最強的賞金獵人西德爾</p></td>
+<td><p>特別篇 最強的賞金獵人希多爾</p></td>
 <td></td>
 <td><p>冨岡淳広</p></td>
 <td><p>中島豊</p></td>
@@ -7116,6 +7116,35 @@
 <td></td>
 <td><p>田中仁</p></td>
 <td><p>伊藤聡伺</p></td>
+</tr>
+<tr class="even">
+<td><p>902</p></td>
+<td><p>橫綱登場 盯上阿菊的無敵浦島</p></td>
+<td></td>
+<td><p>中山-{}-智博</p></td>
+<td><p>所勝美</p></td>
+</tr>
+<tr class="odd">
+<td><p>903</p></td>
+<td><p>相撲決戰 草帽小子VS最強的橫綱</p></td>
+<td></td>
+<td><p>山崎亮</p></td>
+<td><p>(中島豊)<br />
+鈴木裕介</p></td>
+</tr>
+<tr class="even">
+<td><p>904</p></td>
+<td><p>魯夫憤怒 危及的拯救玉兒</p></td>
+<td></td>
+<td><p>藤田伸三</p></td>
+<td><p>細田雅弘</p></td>
+</tr>
+<tr class="odd">
+<td><p>905</p></td>
+<td><p>爭奪玉兒 激鬥 赫戴姆戰</p></td>
+<td></td>
+<td><p>井上亜樹子</p></td>
+<td><p>嶋谷将</p></td>
 </tr>
 <tr class="even">
 <td></td>

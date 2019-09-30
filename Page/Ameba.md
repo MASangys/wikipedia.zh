@@ -48,7 +48,7 @@ Ameba是日本規模最大的[社交網路服務](../Page/社交網路服務.md 
 
 ## 外部連結
 
-  - [Ameba官方網站](http://www.ameba.jp/)
+  - [Ameba官方網站](https://web.archive.org/web/20151106161248/http://www.ameba.jp/)
 
   - [Ameba部落格](http://ameblo.jp/)
 

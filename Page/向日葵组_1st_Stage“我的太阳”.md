@@ -1,4 +1,4 @@
-**向日葵组 1st Stage「我的太阳」**（）是由[AKB48](../Page/AKB48.md "wikilink")的Team A与Team K混合编成的**向日葵组**的第1台剧场公演。本页内也记述了演出内容基本相同的Team 4公演和研究生公演，以及[JKT48](../Page/JKT48.md "wikilink")（Team KIII、研究生）、[SKE48](../Page/SKE48.md "wikilink")（Team E）、[SNH48](https://zh.wikipedia.org/wiki/SNH48 "wikilink")（Team NII）和[GNZ48](https://zh.wikipedia.org/wiki/GNZ48 "wikilink")（Team NIII）的同名公演的相关事项。
+**向日葵组 1st Stage「我的太阳」**（）是由[AKB48](../Page/AKB48.md "wikilink")的Team A与Team K混合编成的**向日葵组**的第1台剧场公演。本页内也记述了演出内容基本相同的Team 4公演和研究生公演，以及[JKT48](../Page/JKT48.md "wikilink")（Team KIII、研究生）、[SKE48](../Page/SKE48.md "wikilink")（Team E）、[SNH48](../Page/SNH48.md "wikilink")（Team NII）和[GNZ48](https://zh.wikipedia.org/wiki/GNZ48 "wikilink")（Team NIII）的同名公演的相关事项。
 
 ## 概要
 

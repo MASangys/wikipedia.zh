@@ -202,9 +202,11 @@
 
 2019年7月31日，Peniel發行第二張個人數位單曲《FLY23》，由KAIROS作曲製作、Peniel參與填詞。\[158\]\[159\] 同年8月27日，Peniel發表第三張個人數位單曲《Flip》，由饒舌歌手參與Featuring，該曲由KAIROS作曲填詞製作、Peniel與Beenzino參與Rap填詞。\[160\]\[161\]
 
+2019年10月，炫植正式發行首張個人韓語迷你專輯，並參與主打曲的作曲填詞，是第四位於韓國個人出道的成員。\[162\]
+
 ### 2020年
 
-2020年3月，星材主演的[JTBC](../Page/JTBC.md "wikilink")電視劇《[雙室小吃攤](../Page/雙室小吃攤.md "wikilink")》播出，飾演甲乙超市顧客諮詢室職員韓江裴。該劇是他繼2016年電視劇《鬼怪》後，睽違三年多再度回歸小螢幕。\[162\]
+2020年3月，星材主演的[JTBC](../Page/JTBC.md "wikilink")電視劇《[雙室小吃攤](../Page/雙室小吃攤.md "wikilink")》播出，飾演甲乙超市顧客諮詢室職員韓江裴。該劇是他繼2016年電視劇《鬼怪》後，睽違三年多再度回歸小螢幕。\[163\]
 
 ## 音樂作品
 
@@ -276,7 +278,7 @@
 
 BTOB 出道至今參與許多綜藝，在節目中展現搞笑本能及過人獨特的綜藝感。他們也參與許多音樂節目，如多次以團體及個人出演[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[不朽的名曲](https://zh.wikipedia.org/wiki/不朽的名曲 "wikilink")》，與眾多前輩歌手競爭，為首個獲得優勝的男子偶像團體；參演[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")》、《[二重唱歌謠祭](https://zh.wikipedia.org/wiki/二重唱歌謠祭 "wikilink")》、[SBS](../Page/SBS_\(韓國\).md "wikilink")《[Fantastic Duo 2](../Page/Fantastic_Duo_2.md "wikilink")》等音樂節目，以及出道五年首度出演KBS《[柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")》。
 
-藝能方面，參與MBC《[偶像明星運動會](https://zh.wikipedia.org/wiki/MBC偶像明星運動會 "wikilink")》，其中成員旼赫展現了出眾的運動能力，並多次刷新大會紀錄；恩光與昌燮出演MBC春節、中秋特輯《全國偶像歌唱大賽》，兩人組成「金斧頭與銀斧頭」演唱抒情曲，以美聲及充滿反轉的舞臺引發話題；成員接連出演SBS《[叢林的法則](https://zh.wikipedia.org/wiki/叢林的法則 "wikilink")》，為最多成員出演該節目的偶像團體。
+藝能方面，參與MBC《[偶像明星運動會](https://zh.wikipedia.org/wiki/MBC偶像明星運動會 "wikilink")》，其中成員旼赫展現了出眾的運動能力，並多次刷新大會紀錄；恩光與昌燮出演MBC春節、中秋特輯《全國偶像歌唱大賽》，兩人組成「金斧頭與銀斧頭」演唱抒情曲，以美聲及充滿反轉的舞臺引發話題；成員接連出演SBS《[叢林的法則](../Page/叢林的法則.md "wikilink")》，為最多成員出演該節目的偶像團體。
 
 除了歌唱和藝能外，成員們也有參與許多戲劇演出，出道前以團體出演的[JTBC](../Page/JTBC.md "wikilink")《[住在清潭洞](../Page/住在清潭洞.md "wikilink")》、成員星材主演的KBS《[Who Are You－學校2015](../Page/Who_Are_You－學校2015.md "wikilink")》、[tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")《[孤單又燦爛的神－鬼怪](../Page/孤單又燦爛的神－鬼怪.md "wikilink")》等。主持方面亦有涉略，如擔任《[THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")》、SBS《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》等音樂節目固定主持；恩光擔任[MBC RADIO廣播電台節目](https://zh.wikipedia.org/wiki/MBC "wikilink")《[IDOL RADIO](../Page/IDOL_RADIO.md "wikilink")》的試播DJ，是首位主持廣播節目的成員，其後恩光入伍後由鎰勳接替該節目成為正規DJ。
 
@@ -330,7 +332,7 @@ BTOB 出道至今參與許多綜藝，在節目中展現搞笑本能及過人獨
 
 ## 獎項
 
-2013年1月15日，BTOB於第27屆韓國[金唱片獎獲得](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")「Next Generation獎」。 2016年1月14日，於第30屆韓國金唱片獎獲得「唱片部門最佳歌唱獎（Best Vocal Group）」。2016年1月21日，於第25屆[首爾歌謠大賞獲得](https://zh.wikipedia.org/wiki/首爾歌謠大賞 "wikilink")「最佳抒情歌曲獎（R\&B／Balled）」。 2017年11月3日，於[韓國大眾文化藝術獎](../Page/韓國大眾文化藝術獎.md "wikilink")獲得「文化體育觀光部長官表彰」殊榮 \[163\]。 2018年1月10日，於第32屆韓國金唱片獎獲得「音源部門最佳男子團體獎（Best Male Group）」。 2018年1月25日，於第27屆首爾歌謠大賞獲得「本賞」。 2018年12月1日，於[甜瓜音樂獎](../Page/甜瓜音樂獎.md "wikilink")首次獲得「TOP10」。\[164\] 2018年12月10日，於第1屆[韓國大眾音樂獎](../Page/韓國大眾音樂獎.md "wikilink")獲得「本賞」及「Ballad獎」。
+2013年1月15日，BTOB於第27屆韓國[金唱片獎獲得](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")「Next Generation獎」。 2016年1月14日，於第30屆韓國金唱片獎獲得「唱片部門最佳歌唱獎（Best Vocal Group）」。2016年1月21日，於第25屆[首爾歌謠大賞獲得](https://zh.wikipedia.org/wiki/首爾歌謠大賞 "wikilink")「最佳抒情歌曲獎（R\&B／Balled）」。 2017年11月3日，於[韓國大眾文化藝術獎](../Page/韓國大眾文化藝術獎.md "wikilink")獲得「文化體育觀光部長官表彰」殊榮 \[164\]。 2018年1月10日，於第32屆韓國金唱片獎獲得「音源部門最佳男子團體獎（Best Male Group）」。 2018年1月25日，於第27屆首爾歌謠大賞獲得「本賞」。 2018年12月1日，於[甜瓜音樂獎](../Page/甜瓜音樂獎.md "wikilink")首次獲得「TOP10」。\[165\] 2018年12月10日，於第1屆[韓國大眾音樂獎](../Page/韓國大眾音樂獎.md "wikilink")獲得「本賞」及「Ballad獎」。
 
 ### 主要音樂節目榜單排名
 
@@ -653,5 +655,6 @@ BTOB 出道至今參與許多綜藝，在節目中展現搞笑本能及過人獨
 160.
 161.
 162.
-163. [EXO、BTOB、朴寶劍等出席《大眾文化藝術賞》，得獎名單公開](https://www.kpopn.com/2017/11/04/exo%e3%80%81btob%e3%80%81%e6%9c%b4%e5%af%b6%e5%8a%8d%e7%ad%89%e5%87%ba%e5%b8%ad%e3%80%8a%e5%a4%a7%e7%9c%be%e6%96%87%e5%8c%96%e8%97%9d%e8%a1%93%e8%b3%9e%e3%80%8b%ef%bc%8c%e5%be%97%e7%8d%8e%e5%90%8d%e5%96%ae%e5%85%ac%e9%96%8b/)  2017-11-07 KPOPN
-164. [MMA／BTOB「把恩光寫在臉上」走紅毯　C位留給隊長逼哭粉](https://star.ettoday.net/news/1320700) 2018-12-02 ETtoday
+163.
+164. [EXO、BTOB、朴寶劍等出席《大眾文化藝術賞》，得獎名單公開](https://www.kpopn.com/2017/11/04/exo%e3%80%81btob%e3%80%81%e6%9c%b4%e5%af%b6%e5%8a%8d%e7%ad%89%e5%87%ba%e5%b8%ad%e3%80%8a%e5%a4%a7%e7%9c%be%e6%96%87%e5%8c%96%e8%97%9d%e8%a1%93%e8%b3%9e%e3%80%8b%ef%bc%8c%e5%be%97%e7%8d%8e%e5%90%8d%e5%96%ae%e5%85%ac%e9%96%8b/)  2017-11-07 KPOPN
+165. [MMA／BTOB「把恩光寫在臉上」走紅毯　C位留給隊長逼哭粉](https://star.ettoday.net/news/1320700) 2018-12-02 ETtoday

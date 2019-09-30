@@ -86,7 +86,7 @@
 
 ### 初期出道：2009-2010年
 
-**C AllStar**是由香港第一個多回合淘汰制的歌唱比賽「星投大戰」，經8個回合所誕生的4位強中強手（[吳崇銘](../Page/吳崇銘.md "wikilink")、[陳健安](../Page/陳健安.md "wikilink") 、[梁釗峰](../Page/梁釗峰.md "wikilink")、[何建曦](../Page/何建曦.md "wikilink")）組成的四人組合。C AllStar這個名字源於他們的經理人公司，「C」代表 Kingdom C，即 C AllStar所屬經理人公司的簡稱，而「AllStar」是指「全明星隊」。這隊男生樂團在2009年10月正式踏足[香港樂壇](../Page/香港音樂.md "wikilink")，首支派台歌曲為《iSing》以多重形式及現場即興演唱為主打發展路線。其後推出第二個版本《iSing (Acappella)》以人聲合奏方式重新演繹，歌曲更得到紐約中文電台冠軍。同年聖誕節前推出第二首派台作品《白色信件（Let it snow）》，MV更到北京拍攝。首張專輯《[Make it Happen](https://zh.wikipedia.org/wiki/Make_it_Happen "wikilink")》在2010年3月13日舉行簽唱會。C AllStar在[YouTube](../Page/YouTube.md "wikilink")片段點擊率已超過1800萬人次。《80後時代曲》、《天梯》在[Yahoo\!搜尋人氣榜亦曾登上第一位](../Page/雅虎香港.md "wikilink")。
+**C AllStar**是由香港第一個多回合淘汰制的歌唱比賽「星投大戰」，經8個回合所誕生的4位強中強手（[吳崇銘](../Page/吳崇銘.md "wikilink")、[陳健安](../Page/陳健安.md "wikilink") 、[梁釗峰](../Page/梁釗峰.md "wikilink")、[何建曦](../Page/何建曦.md "wikilink")）組成的四人組合。C AllStar這個名字源於他們的經理人公司，「C」代表 Kingdom C，即 C AllStar所屬經理人公司的簡稱，而「AllStar」是他們都喜愛的鞋子品牌。這隊男生樂團在2009年10月正式踏足[香港樂壇](../Page/香港音樂.md "wikilink")，首支派台歌曲為《iSing》以多重形式及現場即興演唱為主打發展路線。其後推出第二個版本《iSing (Acappella)》以人聲合奏方式重新演繹，歌曲更得到紐約中文電台冠軍。同年聖誕節前推出第二首派台作品《白色信件（Let it snow）》，MV更到北京拍攝。首張專輯《[Make it Happen](https://zh.wikipedia.org/wiki/Make_it_Happen "wikilink")》在2010年3月13日舉行簽唱會。C AllStar在[YouTube](../Page/YouTube.md "wikilink")片段點擊率已超過1800萬人次。《80後時代曲》、《天梯》在[Yahoo\!搜尋人氣榜亦曾登上第一位](../Page/雅虎香港.md "wikilink")。
 
 在2010年度《[叱咤樂壇流行榜頒獎典禮](../Page/叱咤樂壇流行榜頒獎典禮.md "wikilink")》中，C AllStar成為「我最喜愛的組合」十強之一，《天梯》亦成為「我最喜愛的歌曲」十強。《天梯》同時成功獲頒[無綫電視十大勁歌金曲及](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[香港電台](../Page/香港電台.md "wikilink")的十大中文金曲。同年7月[香港書展](../Page/香港書展.md "wikilink")中C AllStar推出了他們首本書集《80後看時代曲》，透過80首流行曲寫出對歌曲的體會、感受及影響。2010年9月至10月期間為[康樂及文化事務署](../Page/康樂及文化事務署.md "wikilink")「新視野藝術節」音樂劇作學校巡迴演出合共30場。2011年7月書展他們再推出第二本書集《80後再看時代曲》，並於7月23日於[香港會議展覽中心](../Page/香港會議展覽中心.md "wikilink")舉行簽書會。
 
@@ -107,8 +107,6 @@
 2017年1月7日，四子在[TVB舉辦之](https://zh.wikipedia.org/wiki/TVB "wikilink")《2016年度勁歌金曲頒獎典禮》獲獎期間突然宣佈將於10月紅館個唱完成後C AllStar就會暫別樂壇，之後各人將會作獨立發展，但多次強調他們四位成員之間並沒有不和。2月14日推出全情歌專輯《[LoveaHolic Vol.1](https://zh.wikipedia.org/wiki/LoveaHolic_Vol.1 "wikilink")》，由黃偉文包辦所有歌曲作詞部份。此專輯將分成兩張迷你專輯發行。4月12日 C AllStar 公佈\<Loveaholic Vol.2 – C AllStar’s Best Solo Selection\>計劃，由於今年10月紅館演唱會將會是C AllStar 最後一個演唱會，所以節目非常緊湊，監製決定只能得一個人有Solo Time。因為名額只有一個，所以只能用比賽形式公平地去爭取這機會。C AllStar將會同日各自推出收錄於5月推出的EP 《[Loveaholic Vol. 2](https://zh.wikipedia.org/wiki/Loveaholic_Vol._2 "wikilink")》內的獨唱單曲，並在4月14日至5月13日期間，C AllStar 更會親自主導整個宣傳企劃在四個不同音樂平台去推廣自己的單曲，以贏取樂迷對單曲的喜愛，五月中將會在網上由樂迷投票選出心目中的Best Solo，勝出者將可贏取紅館10分鐘Solo機會，最後結果由Jase獲得3001票，以一票之差力壓On仔勝出今次比賽。
 
 2017年10月，於香港紅磡體育館舉行一連兩場的演唱會，於演唱會中邀請了楊千嬅及鄭秀文擔任嘉賓，並於演場會完結後正式休團\[12\]。
-
-### 休團時期 : 2018年
 
 ## 音樂作品\[13\]
 
@@ -1358,7 +1356,7 @@ C AllStar</strong></p></td>
 <td><p>2012年5月11日</p></td>
 <td><p><strong>903 ID CLUB 拉闊音樂會 2012<br />
 《<a href="../Page/許志安.md" title="wikilink">許志安</a> x<br />
-C AllStar x <a href="https://zh.wikipedia.org/wiki/容祖兒" title="wikilink">容祖兒</a>》</strong></p></td>
+C AllStar x <a href="../Page/容祖兒.md" title="wikilink">容祖兒</a>》</strong></p></td>
 <td><p><a href="../Page/香港會議展覽中心.md" title="wikilink">香港會議展覽中心</a><br />
 展覽廳5BC</p></td>
 <td></td>
@@ -2796,7 +2794,7 @@ K歌之王</p></td>
 <tbody>
 <tr class="odd">
 <td><p>2018年1月20日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/粵語好聲音" title="wikilink">粵語好聲音</a><br />
+<td><p><a href="../Page/粵語好聲音.md" title="wikilink">粵語好聲音</a><br />
 2017年度音樂盛典</p></td>
 <td><p>第十三期</p></td>
 <td><p>再不再見</p></td>

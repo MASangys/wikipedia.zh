@@ -6,7 +6,7 @@ PNotes官网提供了近百种各式各样的便签[皮肤的下载](https://zh.
 
 官方网站现提供了几十种软件语言包的下载，包括[英语](../Page/英语.md "wikilink")、[简体中文](https://zh.wikipedia.org/wiki/简体中文 "wikilink")、[繁体中文等](https://zh.wikipedia.org/wiki/繁体中文 "wikilink")。\[3\]
 
-PNotes还提供了[闹钟提醒](https://zh.wikipedia.org/wiki/闹钟 "wikilink")、便签搜索、便签[加密](https://zh.wikipedia.org/wiki/加密 "wikilink")、自定便签皮肤和[字体](../Page/字体.md "wikilink")、自定[快捷键](../Page/快捷键.md "wikilink")等众多实用功能。\[4\]
+PNotes还提供了[闹钟提醒](https://zh.wikipedia.org/wiki/闹钟 "wikilink")、便签搜索、便签[加密](../Page/加密.md "wikilink")、自定便签皮肤和[字体](../Page/字体.md "wikilink")、自定[快捷键](../Page/快捷键.md "wikilink")等众多实用功能。\[4\]
 
 ## 外部链接
 

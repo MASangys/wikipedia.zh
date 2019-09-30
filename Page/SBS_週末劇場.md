@@ -1032,7 +1032,7 @@
 <td style="text-align: center;"><p><a href="../Page/現代農夫.md" title="wikilink">現代農夫</a><br />
 </p></td>
 <td style="text-align: center;"><p>20</p></td>
-<td style="text-align: center;"><p><a href="../Page/李洪基.md" title="wikilink">李洪基</a>、<a href="https://zh.wikipedia.org/wiki/李荷妮" title="wikilink">李荷妮</a>、<a href="../Page/朴敏雨.md" title="wikilink">朴敏雨</a>、<a href="../Page/李施彥.md" title="wikilink">李施彥</a>、<a href="../Page/郭東延.md" title="wikilink">郭東延</a>、<a href="https://zh.wikipedia.org/wiki/AOA_(韓國)" title="wikilink">權珉阿</a>、<a href="https://zh.wikipedia.org/wiki/韓珠賢" title="wikilink">韓珠賢</a>、<a href="../Page/韓寶凜.md" title="wikilink">韓寶凜</a>、<a href="https://zh.wikipedia.org/wiki/金栽賢" title="wikilink">金栽賢</a>、<a href="../Page/李漢偉.md" title="wikilink">李漢偉</a>、<a href="https://zh.wikipedia.org/wiki/李一華" title="wikilink">李一華</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/李洪基.md" title="wikilink">李洪基</a>、<a href="../Page/李荷妮.md" title="wikilink">李荷妮</a>、<a href="../Page/朴敏雨.md" title="wikilink">朴敏雨</a>、<a href="../Page/李施彥.md" title="wikilink">李施彥</a>、<a href="../Page/郭東延.md" title="wikilink">郭東延</a>、<a href="https://zh.wikipedia.org/wiki/AOA_(韓國)" title="wikilink">權珉阿</a>、<a href="https://zh.wikipedia.org/wiki/韓珠賢" title="wikilink">韓珠賢</a>、<a href="../Page/韓寶凜.md" title="wikilink">韓寶凜</a>、<a href="https://zh.wikipedia.org/wiki/金栽賢" title="wikilink">金栽賢</a>、<a href="../Page/李漢偉.md" title="wikilink">李漢偉</a>、<a href="https://zh.wikipedia.org/wiki/李一華" title="wikilink">李一華</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/吳振碩" title="wikilink">吳振碩</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/金基浩.md" title="wikilink">金基浩</a></p></td>
 <td style="text-align: center;"></td>

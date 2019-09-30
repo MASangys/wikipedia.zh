@@ -79,7 +79,7 @@
   - [MCA Records](https://zh.wikipedia.org/wiki/MCA_Records "wikilink")
   - [麦格劳-希尔集团](https://zh.wikipedia.org/wiki/麦格劳-希尔集团 "wikilink")
   - [Mercury Nashville](https://zh.wikipedia.org/wiki/Mercury_Nashville "wikilink")
-  - [美國職棒小聯盟](https://zh.wikipedia.org/wiki/美國職棒小聯盟 "wikilink")
+  - [美國職棒小聯盟](../Page/美國職棒小聯盟.md "wikilink")
   - [Minority Media & Telecom Council](https://zh.wikipedia.org/wiki/Minority_Media_&_Telecom_Council "wikilink") (MMTC)
   - [美国电影协会](https://zh.wikipedia.org/wiki/美国电影协会 "wikilink")\[4\]
   - [Moving Picture Technicians](https://zh.wikipedia.org/wiki/Moving_Picture_Technicians "wikilink")

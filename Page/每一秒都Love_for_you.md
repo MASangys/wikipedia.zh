@@ -1,4 +1,4 @@
-**每一秒都Love for you**（一秒ごとに Love for you）是[日本](../Page/日本.md "wikilink")歌手[倉木麻衣](../Page/倉木麻衣.md "wikilink")的第二十九張單曲，於2008年7月9日發行。
+**每一秒都Love for you**（）是[日本](../Page/日本.md "wikilink")歌手[倉木麻衣](../Page/倉木麻衣.md "wikilink")的第二十九張單曲，於2008年7月9日發行。
 
 ## 簡介
 

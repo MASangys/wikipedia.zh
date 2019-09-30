@@ -271,7 +271,7 @@ Roomie為台灣首支「自創品牌概念團體」，公司讓他們主導團�
 </ul></td>
 <td><ol>
 <li>Super Lover (首波主打<a href="https://web.archive.org/web/20150506084041/http://www.panasonicbeauty.com.tw/">Panasonic Beauty</a>廣告歌曲)</li>
-<li>愛我像從前一樣(韓劇<a href="../Page/擁抱太陽的月亮.md" title="wikilink">擁抱太陽的月亮</a>片頭曲)</li>
+<li>愛我像從前一樣(韓劇<a href="../Page/擁抱太陽的月亮.md" title="wikilink">擁抱太陽的月亮</a>片頭曲、中天戲劇<a href="https://zh.wikipedia.org/wiki/雙城生活" title="wikilink">雙城生活片頭曲</a>)</li>
 <li>熱帶氣旋</li>
 <li>Happy Hour</li>
 <li>甜蜜小迷信</li>

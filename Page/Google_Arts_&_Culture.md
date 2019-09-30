@@ -124,7 +124,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/凡爾賽宮" title="wikilink">凡爾賽宮</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/凡爾賽" title="wikilink">凡爾賽</a></p></td>
+<td><p><a href="../Page/凡爾賽.md" title="wikilink">凡爾賽</a></p></td>
 <td><div align="center">
 <p><a href="https://zh.wikipedia.org/wiki/File:Louise_Elisabeth_Vigée-Lebrun_-_Marie-Antoinette_de_Lorraine-Habsbourg,_reine_de_France_et_ses_enfants_-_Google_Art_Project.jpg" title="fig:Louise_Elisabeth_Vigée-Lebrun_-_Marie-Antoinette_de_Lorraine-Habsbourg,_reine_de_France_et_ses_enfants_-_Google_Art_Project.jpg">Louise_Elisabeth_Vigée-Lebrun_-_Marie-Antoinette_de_Lorraine-Habsbourg,_reine_de_France_et_ses_enfants_-_Google_Art_Project.jpg</a></p>
 </div></td>

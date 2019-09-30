@@ -85,7 +85,7 @@ Jolt奖分许多的类目，它的分类方式在历史上发生过多次变化�
 <!-- end list -->
 
   -
-    该分类主要关注于在安全方面辅助开发者的工具，包括但不限于：[鉴权和](https://zh.wikipedia.org/wiki/鉴权 "wikilink")[加密](https://zh.wikipedia.org/wiki/加密 "wikilink")、[代码分析](https://zh.wikipedia.org/wiki/代码分析 "wikilink")、[防火墙](../Page/防火墙.md "wikilink")、[网络监控](../Page/网络监控.md "wikilink")、系统改进、[系统监控以及如何阻止](https://zh.wikipedia.org/wiki/系统监控 "wikilink")[垃圾邮件等](https://zh.wikipedia.org/wiki/垃圾邮件 "wikilink")；
+    该分类主要关注于在安全方面辅助开发者的工具，包括但不限于：[鉴权和](https://zh.wikipedia.org/wiki/鉴权 "wikilink")[加密](../Page/加密.md "wikilink")、[代码分析](https://zh.wikipedia.org/wiki/代码分析 "wikilink")、[防火墙](../Page/防火墙.md "wikilink")、[网络监控](../Page/网络监控.md "wikilink")、系统改进、[系统监控以及如何阻止](https://zh.wikipedia.org/wiki/系统监控 "wikilink")[垃圾邮件等](https://zh.wikipedia.org/wiki/垃圾邮件 "wikilink")；
 
 <!-- end list -->
 

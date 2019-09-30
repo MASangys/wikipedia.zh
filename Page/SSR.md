@@ -24,7 +24,7 @@
 
   - SSR Motorsports，摩托車製造商
 
-  - Special Super Rare，一些[集换式卡牌游戏中的一种稀有度](https://zh.wikipedia.org/wiki/集换式卡牌游戏 "wikilink")(Super Salary Reaper)
+  - Special Super Rare，一些[集换式卡牌游戏中的一种稀有度](https://zh.wikipedia.org/wiki/集换式卡牌游戏 "wikilink")
 
 <!-- end list -->
 

@@ -1,12 +1,18 @@
-**紫苑 ゆう**（しおん ゆう、Shion Yuu、本名：**渡辺 奈津子**（わたなべ なつこ、Watanabe Natsuko）、兵庫縣神戸市灘区出身、1959年3月25日 - ）、原[寶塚歌劇團](../Page/寶塚歌劇團.md "wikilink")[星組](../Page/星組.md "wikilink")主演男役、現在是[寶塚音樂學校](../Page/寶塚音樂學校.md "wikilink")講師。
-
-身高169cm、血型O型。寶塚時代的愛稱是**シメ(Shime)**、是從少女時代時的愛稱『ヒメ、Hime（姫）』轉變而來的（本人提及的事情）。
+**紫苑Yuu**（，本名：，），原[寶塚歌劇團](../Page/寶塚歌劇團.md "wikilink")[星組](../Page/星組.md "wikilink")主演男役、現在是[寶塚音樂學校](../Page/寶塚音樂學校.md "wikilink")講師。兵庫縣神戸市灘区出身。
 
 ## 經歴
 
-「因為喜歡演戲所以想要學習更多」兵庫縣立御影高等學校學習了2學年後、[寶塚音樂學校](../Page/寶塚音樂學校.md "wikilink")受験・合格。 1978年、同校畢業後、寶塚歌劇團第64期生[寶塚歌劇團](../Page/寶塚歌劇團.md "wikilink")入團。[月組公演](https://zh.wikipedia.org/wiki/月組 "wikilink")『祭りファンタジー／マイ・ラッキー・チャンス』踏上初舞台。 同期的女藝人有秋篠美帆、郷真由加、幸和希、仁科有理、夢苑あやめ（タモト清嵐的母親）、ひびき美都、歌劇團振付家 御織ゆみ乃。
+「因為喜歡演戲所以想要學習更多」兵庫縣立御影高等學校學習了2學年後、[寶塚音樂學校](../Page/寶塚音樂學校.md "wikilink")受験・合格。
 
-1979年、配屬[星組](../Page/星組.md "wikilink")。與高2期的上級生[日向薫以正統派的男役形像](https://zh.wikipedia.org/wiki/日向薫 "wikilink"),廣受歡迎。 1982年、『エーゲ海のブルース』ダニエル役（本公演：[瀬戸内美八](https://zh.wikipedia.org/wiki/瀬戸内美八 "wikilink")）第一次的新人公演初主演。 1985年、『カール・ハインリッヒの青春』在寶塚bowhall初主演。二番手時代開始、演出很多不同的角色,例如:凡爾賽玫瑰的奧斯卡。
+1978年、同校畢業後、寶塚歌劇團第64期生[寶塚歌劇團](../Page/寶塚歌劇團.md "wikilink")入團。[月組公演](https://zh.wikipedia.org/wiki/月組 "wikilink")『祭りファンタジー／マイ・ラッキー・チャンス』踏上初舞台。
+
+同期的女藝人有秋篠美帆、郷真由加、幸和希、仁科有理、夢苑あやめ（タモト清嵐的母親）、ひびき美都、歌劇團振付家 御織ゆみ乃。
+
+1979年、配屬[星組](../Page/星組.md "wikilink")。與高2期的上級生[日向薫以正統派的男役形像](https://zh.wikipedia.org/wiki/日向薫 "wikilink"),廣受歡迎。
+
+1982年、『エーゲ海のブルース』ダニエル役（本公演：[瀬戸内美八](https://zh.wikipedia.org/wiki/瀬戸内美八 "wikilink")）第一次的新人公演初主演。
+
+1985年、『カール・ハインリッヒの青春』在寶塚bowhall初主演。二番手時代開始、演出很多不同的角色,例如:凡爾賽玫瑰的奧斯卡。
 
 與二番手娘役時代的[毬藻えり有很多一起演戲與秀的搭檔](https://zh.wikipedia.org/wiki/毬藻えり "wikilink"),有名的作品有『蒼いくちづけ』『炎のボレロ』等等。毬藻上任主演娘役後、有很多都是以三人間(日向・毬藻・紫苑)的三角關係為設定之作品。
 
@@ -134,12 +140,8 @@
   - 料理天国（1992年、TBS）
   - 象印クイズヒントでピント（朝日電視）
 
-## 關連項目
-
-[寶塚音樂學校](../Page/寶塚音樂學校.md "wikilink")[4](http://www.tms.ac.jp/index.html)
-
 ## 外部連結
 
   - [紫苑ゆう公式 Home Page](http://www.yu-shion.net/)
 
-[Category:寶塚歌劇團卒業生](https://zh.wikipedia.org/wiki/Category:寶塚歌劇團卒業生 "wikilink") [Category:寶塚歌劇團64期生](https://zh.wikipedia.org/wiki/Category:寶塚歌劇團64期生 "wikilink") [Category:兵庫縣出身の人物](https://zh.wikipedia.org/wiki/Category:兵庫縣出身の人物 "wikilink") [Category:1959年生](https://zh.wikipedia.org/wiki/Category:1959年生 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
+[Category:寶塚歌劇團畢業生](https://zh.wikipedia.org/wiki/Category:寶塚歌劇團畢業生 "wikilink") [Category:寶塚歌劇團人物](https://zh.wikipedia.org/wiki/Category:寶塚歌劇團人物 "wikilink") [Category:兵庫縣出身人物](https://zh.wikipedia.org/wiki/Category:兵庫縣出身人物 "wikilink") [Category:日本女演員](https://zh.wikipedia.org/wiki/Category:日本女演員 "wikilink")

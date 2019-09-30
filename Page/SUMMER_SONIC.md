@@ -12,7 +12,7 @@
 
 關於動員數，在移動至幕張後最初估計為1日3萬人程度之規模，但[2010年代在](https://zh.wikipedia.org/wiki/2010年代 "wikilink")2日間達到了約12～13萬人，營運方考量到觀眾的舒適度和易於工作的環境，便將標準設定為第1日5～6萬人、第2日10～12萬人\[6\]\[7\]。
 
-到目前為止幾乎皆為知名國外藝人，最年少是2007年的。在2019年的SUMMER SONIC 20週年，因隔年有東京奧林匹克運動會將無法使用場地，便在今年連續舉辦於3日間。在20週年亦考慮「要由日本藝人擔任主打音樂人」，起初便決定推出[B'z](../Page/B'z.md "wikilink")，B'z也因而作為SUMMER SONIC首次的[邦樂主打音樂人出演](https://zh.wikipedia.org/wiki/邦樂 "wikilink")。
+到目前為止幾乎皆為知名國外藝人，最年少是2007年的[Arctic Monkeys](https://zh.wikipedia.org/wiki/Arctic_Monkeys "wikilink")。在2019年的SUMMER SONIC 20週年，因隔年有東京奧林匹克運動會將無法使用場地，便在今年連續舉辦於3日間。在20週年亦考慮「要由日本藝人擔任主打音樂人」，起初便決定推出[B'z](../Page/B'z.md "wikilink")，B'z也因而作為SUMMER SONIC首次的[邦樂主打音樂人出演](https://zh.wikipedia.org/wiki/邦樂 "wikilink")。
 
 此外，東日本的主舞台[MC自第](../Page/司儀.md "wikilink")1場起便由全勤擔任。
 
@@ -305,7 +305,7 @@
 <li></li>
 <li><a href="https://zh.wikipedia.org/wiki/Deftones" title="wikilink">Deftones</a></li>
 <li></li>
-<li></li>
+<li><a href="https://zh.wikipedia.org/wiki/Hoobastank" title="wikilink">Hoobastank</a></li>
 <li></li>
 <li></li>
 <li><a href="../Page/Editors.md" title="wikilink">EDITORS</a></li>

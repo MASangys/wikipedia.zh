@@ -1,4 +1,4 @@
-**HELLO ～Paradise Kiss～**（中文：你好～天國之吻～，日文：ハロー～パラダイスキス～）是日本歌手[YUI的第](https://zh.wikipedia.org/wiki/YUI_\(藝人\) "wikilink")19張單曲，將於2011年6月1日由[Sony Music Records發售](../Page/Sony_Music_Records.md "wikilink")。
+**HELLO ～Paradise Kiss～**（中文：你好～天國之吻～，）是[日本](../Page/日本.md "wikilink")歌手[YUI的第](https://zh.wikipedia.org/wiki/YUI_\(藝人\) "wikilink")19張單曲，於2011年6月1日由[Sony Music Records發售](../Page/Sony_Music_Records.md "wikilink")。
 
 ## 收錄歌曲
 

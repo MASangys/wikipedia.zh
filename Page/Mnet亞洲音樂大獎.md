@@ -516,7 +516,7 @@
 | 19 | 2017年 | 《Artist》                                                | [IU](https://zh.wikipedia.org/wiki/IU_\(歌手\) "wikilink") | 《Palette》                                                |                   |
 | 20 | 2018年 | [Roy Kim](../Page/Roy_Kim.md "wikilink")                | 《那時分手就好》                                                 | [善美](https://zh.wikipedia.org/wiki/善美 "wikilink")        | 《Siren》           |
 
-#### 全球最佳男/女組合
+#### 全球最佳男/女團
 
 | 屆數 | 年份    | 男組合                                                | 歌曲 | 女組合                                | 歌曲 |
 | -- | ----- | -------------------------------------------------- | -- | ---------------------------------- | -- |
@@ -1774,7 +1774,7 @@ Marion Jola<small>（印尼）</small><br />
 </tr>
 <tr class="even">
 <td><p><a href="../Page/電視廣播有限公司.md" title="wikilink">TVB</a>'s choice</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/容祖兒" title="wikilink">容祖兒</a></p></td>
+<td><p><a href="../Page/容祖兒.md" title="wikilink">容祖兒</a></p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>

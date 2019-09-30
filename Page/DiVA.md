@@ -84,7 +84,7 @@ DiVA是繼「[Chocolove from AKB48](../Page/Chocolove_from_AKB48.md "wikilink")�
 <tr class="odd">
 <td><p><a href="../Page/宮澤佐江.md" title="wikilink">宮澤佐江</a><br />
 （）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/SNH48" title="wikilink">SNH48</a> Team SII<br />
+<td><p><a href="../Page/SNH48.md" title="wikilink">SNH48</a> Team SII<br />
 兼任<a href="../Page/SKE48.md" title="wikilink">SKE48</a> Team S隊長<br />
 </p></td>
 <td></td>
@@ -102,7 +102,7 @@ DiVA是繼「[Chocolove from AKB48](../Page/Chocolove_from_AKB48.md "wikilink")�
 </tbody>
 </table>
 
-  - 團體結成之時四人皆屬於AKB48，之後増田有華於2012年12月17日畢業並退出DiVA\[13\]，之後在2014年8月14日宣布回歸團體參與最後的作品\[14\]，秋元才加則於2013年8月28日AKB48中畢業\[15\]，梅田彩佳現已移籍至NMB48 Team BII，而宮澤佐江則移籍至[SNH48](https://zh.wikipedia.org/wiki/SNH48 "wikilink") Team SII並兼任[SKE48](../Page/SKE48.md "wikilink") Team S隊長\[16\]。
+  - 團體結成之時四人皆屬於AKB48，之後増田有華於2012年12月17日畢業並退出DiVA\[13\]，之後在2014年8月14日宣布回歸團體參與最後的作品\[14\]，秋元才加則於2013年8月28日AKB48中畢業\[15\]，梅田彩佳現已移籍至NMB48 Team BII，而宮澤佐江則移籍至[SNH48](../Page/SNH48.md "wikilink") Team SII並兼任[SKE48](../Page/SKE48.md "wikilink") Team S隊長\[16\]。
 
 **追加成員**
 

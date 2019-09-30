@@ -229,7 +229,7 @@
 <td><p><a href="../Page/藍心湄.md" title="wikilink">藍心湄</a><br />
 <a href="../Page/聶雲.md" title="wikilink">聶雲</a><br />
 <a href="../Page/柳翰雅.md" title="wikilink">柳翰雅</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/TVBS" title="wikilink">聯利媒體股份有限公司</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TVBS" title="wikilink">联意制作股份有限公司</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TVBS-G" title="wikilink">TVBS-G</a><br />
 <a href="https://zh.wikipedia.org/wiki/飛碟聯播網" title="wikilink">飛碟聯播網</a></p></td>
 <td><p>2004年12月31日19:00～2005年1月1日01:00</p></td>
@@ -253,7 +253,7 @@
 <td><p><a href="../Page/藍心湄.md" title="wikilink">藍心湄</a><br />
 <a href="../Page/徐乃麟.md" title="wikilink">徐乃麟</a><br />
 <a href="../Page/黑Girl.md" title="wikilink">黑澀會美眉</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/TVBS" title="wikilink">聯利媒體股份有限公司</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TVBS" title="wikilink">联意制作股份有限公司</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TVBS-G" title="wikilink">TVBS-G</a><br />
 <a href="../Page/中國廣播公司.md" title="wikilink">中國廣播公司</a></p></td>
 <td><p>2006年12月31日19:00～2007年1月1日01:00</p></td>
@@ -263,7 +263,7 @@
 <td><p>《2008臺北最HIGH新年城・最好是南山》</p></td>
 <td><p><a href="../Page/藍心湄.md" title="wikilink">藍心湄</a><br />
 <a href="../Page/何篤霖.md" title="wikilink">何篤霖</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/TVBS" title="wikilink">聯利媒體股份有限公司</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TVBS" title="wikilink">联意制作股份有限公司</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TVBS-G" title="wikilink">TVBS-G</a></p></td>
 <td><p>2007年12月31日19:00～2008年1月1日01:00</p></td>
 <td></td>
@@ -272,7 +272,7 @@
 <td><p>《2009臺北最HIGH新年城・旅行台灣年》</p></td>
 <td><p><a href="../Page/藍心湄.md" title="wikilink">藍心湄</a><br />
 <a href="../Page/胡瓜.md" title="wikilink">胡瓜</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/TVBS" title="wikilink">聯利媒體股份有限公司</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/TVBS" title="wikilink">联意制作股份有限公司</a><br />
 <a href="https://zh.wikipedia.org/wiki/台灣電視公司" title="wikilink">台灣電視公司</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TVBS-G" title="wikilink">TVBS-G黃金娛樂台</a><br />
 <a href="../Page/臺灣電視台.md" title="wikilink">臺灣電視台</a></p></td>
@@ -288,7 +288,7 @@
 <a href="../Page/鍾欣愉.md" title="wikilink">莎莎</a><br />
 <a href="../Page/浩角翔起.md" title="wikilink">浩角翔起</a><br />
 <a href="../Page/2moro.md" title="wikilink">2moro</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/TVBS" title="wikilink">聯利媒體股份有限公司</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TVBS" title="wikilink">联意制作股份有限公司</a></p></td>
 <td><p><a href="../Page/TVBS歡樂台.md" title="wikilink">TVBS歡樂台</a><br />
 <a href="https://zh.wikipedia.org/wiki/HitFM聯播網" title="wikilink">HitFM聯播網</a><br />
 <a href="https://zh.wikipedia.org/wiki/HiNET_hichannel" title="wikilink">HiNET hichannel</a><br />
@@ -301,7 +301,7 @@
 <td><p><a href="../Page/徐乃麟.md" title="wikilink">徐乃麟</a><br />
 <a href="../Page/侯佩岑.md" title="wikilink">侯佩岑</a><br />
 <a href="../Page/浩角翔起.md" title="wikilink">浩角翔起</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/TVBS" title="wikilink">聯利媒體股份有限公司</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TVBS" title="wikilink">联意制作股份有限公司</a></p></td>
 <td><p><a href="../Page/TVBS歡樂台.md" title="wikilink">TVBS歡樂台</a><br />
 <a href="https://zh.wikipedia.org/wiki/HiHD" title="wikilink">HiHD</a><br />
 <a href="https://zh.wikipedia.org/wiki/HitFM聯播網" title="wikilink">HitFM聯播網</a></p></td>
@@ -312,7 +312,7 @@
 <td><p>《2012臺北最HIGH新年城・Taipei Beats. Let's party!》</p></td>
 <td><p><a href="../Page/侯佩岑.md" title="wikilink">侯佩岑</a><br />
 <a href="../Page/浩角翔起.md" title="wikilink">浩角翔起</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/TVBS" title="wikilink">聯利媒體股份有限公司</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TVBS" title="wikilink">联意制作股份有限公司</a></p></td>
 <td><p><a href="../Page/TVBS歡樂台.md" title="wikilink">TVBS歡樂台</a><br />
 <a href="../Page/TVBS-Asia.md" title="wikilink">TVBS-Asia</a><br />
 <a href="https://zh.wikipedia.org/wiki/臺北廣播電台" title="wikilink">臺北廣播電台FM</a>93.1都會資訊頻道<br />
@@ -327,7 +327,7 @@
 <td><p>《2013臺北最HIGH新年城・Amazing Moment. Amazing Taipei.》</p></td>
 <td><p><a href="../Page/侯佩岑.md" title="wikilink">侯佩岑</a><br />
 <a href="../Page/浩角翔起.md" title="wikilink">浩角翔起</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/TVBS" title="wikilink">聯利媒體股份有限公司</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TVBS" title="wikilink">联意制作股份有限公司</a></p></td>
 <td><p><a href="../Page/TVBS歡樂台.md" title="wikilink">TVBS歡樂台</a><br />
 <a href="../Page/TVBS-Asia.md" title="wikilink">TVBS-Asia</a><br />
 <a href="https://zh.wikipedia.org/wiki/臺北廣播電台" title="wikilink">臺北廣播電台FM</a>93.1都會資訊頻道<br />
@@ -342,7 +342,7 @@
 <td><p><a href="../Page/藍心湄.md" title="wikilink">藍心湄</a><br />
 <a href="../Page/浩角翔起.md" title="wikilink">浩角翔起</a><br />
 <a href="../Page/謝怡芬.md" title="wikilink">Janet</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/TVBS" title="wikilink">聯利媒體股份有限公司</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TVBS" title="wikilink">联意制作股份有限公司</a></p></td>
 <td><p><a href="../Page/TVBS歡樂台.md" title="wikilink">TVBS歡樂台</a><br />
 <a href="../Page/TVBS-Asia.md" title="wikilink">TVBS-Asia</a><br />
 <a href="../Page/TVB8_(台灣版).md" title="wikilink">TVB8</a><br />
@@ -365,7 +365,7 @@
 <td><p><a href="../Page/浩角翔起.md" title="wikilink">浩角翔起</a><br />
 <a href="../Page/任家萱.md" title="wikilink">Selina</a><br />
 <a href="../Page/陳嘉樺.md" title="wikilink">Ella</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/TVBS" title="wikilink">聯利媒體股份有限公司</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TVBS" title="wikilink">联意制作股份有限公司</a></p></td>
 <td><p><a href="../Page/TVBS歡樂台.md" title="wikilink">TVBS歡樂台</a>HD<br />
 <a href="../Page/TVBS-Asia.md" title="wikilink">TVBS-Asia</a><br />
 <a href="../Page/TVB8_(台灣版).md" title="wikilink">TVB8</a><br />
@@ -463,25 +463,15 @@ Dailymotion</p></td>
 </tr>
 <tr class="odd">
 <td><p>《2020臺北最HIGH新年城・这里我们混大的》</p></td>
-<td></td>
+<td><p><a href="../Page/黃子佼.md" title="wikilink">黃子佼</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/中華電視股份有限公司" title="wikilink">中華電視股份有限公司</a>（<a href="https://zh.wikipedia.org/wiki/台灣公廣集團" title="wikilink">台灣公廣集團</a>）<br />
 <a href="https://zh.wikipedia.org/wiki/必應創造股份有限公司" title="wikilink">必應創造股份有限公司</a></p></td>
 <td><p><a href="../Page/華視主頻.md" title="wikilink">華視主頻</a><br />
 <a href="../Page/華視新聞資訊台.md" title="wikilink">華視新聞資訊台</a><br />
 <a href="../Page/公視主頻.md" title="wikilink">公視主頻</a><br />
 <a href="../Page/公視3台.md" title="wikilink">公視3台</a><br />
-<a href="../Page/YouTube.md" title="wikilink">YouTube</a><br />
-</p></td>
+<a href="../Page/YouTube.md" title="wikilink">YouTube</a></p></td>
 <td><p>2019年12月31日19:00～2020年1月1日01:00</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>《2021臺北最HIGH新年城》</p></td>
-<td></td>
-<td></td>
-<td><p><a href="../Page/YouTube.md" title="wikilink">YouTube</a><br />
-</p></td>
-<td><p>2020年12月31日19:00～2021年1月1日01:00</p></td>
 <td></td>
 </tr>
 </tbody>

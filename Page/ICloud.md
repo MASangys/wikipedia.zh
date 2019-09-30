@@ -1,4 +1,4 @@
-**iCloud**是[苹果公司所提供的雲端存储和云端计算服務](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")，初始空间有5GB，可以購買儲存空間。用户能在iCloud中存储音乐、照片、[App資料](../Page/App_Store_\(iOS\).md "wikilink")、[檔案](../Page/檔案.md "wikilink")、联系人和日历等，并将无线推送到用户所有支持iCloud同步的设备上，而不用使用连-{接}-线来同步。iCloud现在可以存储第三方应用的数据并同步苹果设备上\[1\]。
+**iCloud**是[苹果公司所提供的](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[線上同步儲存服務和](https://zh.wikipedia.org/wiki/網路硬碟 "wikilink")[云端计算服務](https://zh.wikipedia.org/wiki/云端计算 "wikilink")，初始空间有5GB，可以購買儲存空間。用户能在iCloud中存储音乐、照片、[App資料](../Page/App_Store_\(iOS\).md "wikilink")、[檔案](../Page/檔案.md "wikilink")、联系人和日历等，并将无线推送到用户所有支持iCloud同步的设备上，而不用使用连-{接}-线来同步。iCloud现在可以存储第三方应用的数据并同步苹果设备上\[1\]。
 
 2011年5月31日，[蘋果公司官方宣布iCloud將會取代](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[MobileMe](../Page/MobileMe.md "wikilink")，并即將停止MobileMe的服务。iCloud是基於原有的MobileMe功能改寫而成，提供了原有的郵件、[iCloud行事曆和聯絡人同步功能](https://zh.wikipedia.org/wiki/iCloud "wikilink")\[2\]。2011年6月6日，蘋果公司執行長[史蒂夫·乔布斯](../Page/史蒂夫·乔布斯.md "wikilink")主持[苹果全球研发者大会](https://zh.wikipedia.org/wiki/WWDC "wikilink")，正式發表iCloud雲端服務，可以在iOS 5 以及 OS X Lion中运行，而苹果公司官方在10月12日推出服務。
 

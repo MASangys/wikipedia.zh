@@ -296,6 +296,8 @@ Siri 起初是[美國國防部其下](https://zh.wikipedia.org/wiki/美國國防
   - [Cortana](../Page/Cortana.md "wikilink")
   - [Google Assistant](https://zh.wikipedia.org/wiki/Google_Assistant "wikilink")
   - [Google Now](https://zh.wikipedia.org/wiki/Google_Now "wikilink")
+  - [Amazon Alexa](https://zh.wikipedia.org/wiki/Amazon_Alexa "wikilink")
+  - [Amazon Echo](../Page/Amazon_Echo.md "wikilink")
 
 {{-}}
 

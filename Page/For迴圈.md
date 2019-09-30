@@ -137,7 +137,7 @@ for (int i=0;i<10;i--)
 9  CONTINUE
 ```
 
-Fortran 77 獲之後的版本，也可能寫成：
+Fortran 77 或之後的版本，也可能寫成：
 
 ``` FORTRAN
 do counter = 1, 5

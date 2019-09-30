@@ -1119,7 +1119,7 @@ PlotData =
 | 2015年8月19日、8月26日                 | JTBC                                                              | [TwoYoo Project-Sugar Man](https://zh.wikipedia.org/wiki/TwoYoo_Project-Sugar_Man "wikilink") |            |                 |
 | 2015年9月6日                        | SBS                                                               | [Running Man](../Page/Running_Man.md "wikilink") - 青春特輯                                       | Yura       |                 |
 | 2015年9月26日、9月27日                 | JTBC                                                              | [隱藏歌手](../Page/隱藏歌手.md "wikilink")-中秋特輯                                                       | 素珍、Yura    |                 |
-| 2015年10月2日 ─ 10月16日              | SBS                                                               | [叢林的法則](https://zh.wikipedia.org/wiki/叢林的法則 "wikilink")                                       | 珉雅         | 尼加拉瓜篇           |
+| 2015年10月2日 ─ 10月16日              | SBS                                                               | [叢林的法則](../Page/叢林的法則.md "wikilink")                                                          | 珉雅         | 尼加拉瓜篇           |
 | 2015年10月10日                      | SBS                                                               | [同床異夢，沒關係沒關係](../Page/同床異夢，沒關係沒關係.md "wikilink")                                              | Yura       | 嘉賓              |
 | 2015年10月11日                      | KBS & 深圳卫视                                                        | 中韓夢之隊                                                                                         |            |                 |
 | 2015年11月11日                      | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")               | 黃金漁場 - Radio Star                                                                             | 珉雅         |                 |
@@ -1157,7 +1157,7 @@ PlotData =
 | 2016年4月18日、4月25日    | SBS                                                     | [同床異夢，沒關係沒關係](../Page/同床異夢，沒關係沒關係.md "wikilink")                                              | 珉雅      |      |
 | 2016年4月19日          | SBS                                                     | New Star King                                                                                 | Yura    |      |
 | 2016年4月24日 ─ 7月10日  | tvN                                                     | Let 美 Home                                                                                    | 素珍      | 主持   |
-| 2016年5月6日 ─ 6月3日    | SBS                                                     | [叢林的法則](https://zh.wikipedia.org/wiki/叢林的法則 "wikilink")                                       | 嘉賓      |      |
+| 2016年5月6日 ─ 6月3日    | SBS                                                     | [叢林的法則](../Page/叢林的法則.md "wikilink")                                                          | 嘉賓      |      |
 | 2016年5月3日           | SBS                                                     | New Star King                                                                                 | Yura    |      |
 | 2016年5月10日          |                                                         |                                                                                               |         |      |
 | 2016年5月29日          | tvN                                                     | [大腦性感時代](https://zh.wikipedia.org/wiki/大腦性感時代 "wikilink")                                     | 素珍      |      |

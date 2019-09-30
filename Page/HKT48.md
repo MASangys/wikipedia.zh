@@ -2872,7 +2872,7 @@ VPBF-10974</p></td>
 <tr class="odd">
 <td><p>《你怎麼了？》<br />
 （）</p></td>
-<td><p>電視廣告曲：「柔滑美肌本舖 豆乳<a href="https://zh.wikipedia.org/wiki/異黃酮" title="wikilink">異黃酮</a>」（）《閃亮的美白肌膚》（）篇</p></td>
+<td><p>電視廣告曲：「柔滑美肌本舖 豆乳<a href="../Page/異黃酮.md" title="wikilink">異黃酮</a>」（）《閃亮的美白肌膚》（）篇</p></td>
 <td></td>
 </tr>
 </tbody>

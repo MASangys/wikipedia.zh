@@ -72,20 +72,34 @@
 
 下列镜头可通过第三方转接环来使用：\[3\]
 
-  - [Alpha接环](https://zh.wikipedia.org/wiki/:en:apla "wikilink")
-  - [C接环](https://zh.wikipedia.org/wiki/:en:C_mount "wikilink")（通常用于监控设备）
+  - [Alpha接环](https://zh.wikipedia.org/wiki/Alpha接环 "wikilink")
+
+  - （通常用于监控设备）
+
   - [佳能](../Page/佳能.md "wikilink")EF或EF-S
+
   - 佳能FD
+
   - [康泰时G](https://zh.wikipedia.org/wiki/康泰时 "wikilink")
+
   - 康泰时[蔡司镜头](https://zh.wikipedia.org/wiki/蔡司 "wikilink")(Contarex)
+
   - 康泰时/[雅西卡接环](https://zh.wikipedia.org/wiki/雅西卡 "wikilink")
-  - [爱克泰接环](https://zh.wikipedia.org/wiki/:en:Exakta "wikilink")
+
+  - [爱萨克塔相机](../Page/爱萨克塔相机.md "wikilink")接环
+
   - [哈苏](../Page/哈苏.md "wikilink")Xpan
+
   - [徕卡M系列镜头](https://zh.wikipedia.org/wiki/徕卡 "wikilink")
+
   - 徕卡M39镜头（螺纹）
+
   - 徕卡R镜头
+
   - M42通用镜头（螺纹）
+
   - [微4/3系统镜头](https://zh.wikipedia.org/wiki/微4/3系统 "wikilink")
+
   - 美能达SR镜头
 
 [Sony_LAEA4_frontal.jpg](https://zh.wikipedia.org/wiki/File:Sony_LAEA4_frontal.jpg "fig:Sony_LAEA4_frontal.jpg")
@@ -287,7 +301,7 @@ Auto-lock Accessory Shoe (4-pin iISO)</a></p></td>
 <td><p>已停产</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/α3000" title="wikilink">α3000</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/索尼_α3000" title="wikilink">索尼 α3000</a></p></td>
 <td><p>ILCE-3000</p></td>
 <td><p>CX77100, CX77121</p></td>
 <td><p>Alpha (α)</p></td>
@@ -303,7 +317,7 @@ Auto-lock Accessory Shoe (4-pin iISO)</a></p></td>
 <td><p>已停产</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/α7" title="wikilink">α7</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/索尼_α7" title="wikilink">索尼 α7</a></p></td>
 <td><p>ILCE-7</p></td>
 <td><p>CX77800</p></td>
 <td><p>Alpha (α)</p></td>
@@ -319,7 +333,7 @@ Auto-lock Accessory Shoe (4-pin iISO)</a></p></td>
 <td><p>已停产</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/α7R" title="wikilink">α7R</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/索尼_α7R" title="wikilink">索尼 α7R</a></p></td>
 <td><p>ILCE-7R</p></td>
 <td><p>CX77900</p></td>
 <td><p>Alpha (α)</p></td>
@@ -335,7 +349,7 @@ Auto-lock Accessory Shoe (4-pin iISO)</a></p></td>
 <td><p>已停产</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/α5000" title="wikilink">α5000</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/索尼_α5000" title="wikilink">索尼 α5000</a></p></td>
 <td><p>ILCE-5000</p></td>
 <td><p>CX77300, CX77361</p></td>
 <td><p>Alpha (α)</p></td>
@@ -350,7 +364,7 @@ Auto-lock Accessory Shoe (4-pin iISO)</a></p></td>
 <td><p>發售中</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/α6000" title="wikilink">α6000</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/索尼_α6000" title="wikilink">索尼 α6000</a></p></td>
 <td><p>ILCE-6000</p></td>
 <td><p>CX77500</p></td>
 <td><p>Alpha (α)</p></td>
@@ -366,7 +380,7 @@ Auto-lock Accessory Shoe (4-pin iISO)</a></p></td>
 <td><p>發售中</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/α3500" title="wikilink">α3500</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/索尼_α3500" title="wikilink">索尼 α3500</a></p></td>
 <td><p>ILCE-3500</p></td>
 <td><p>CX77100</p></td>
 <td><p>Alpha (α)</p></td>
@@ -382,7 +396,7 @@ Auto-lock Accessory Shoe (4-pin iISO)</a></p></td>
 <td><p>己停產</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/α7S" title="wikilink">α7S</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/索尼_α7S" title="wikilink">索尼 α7S</a></p></td>
 <td><p>ILCE-7S</p></td>
 <td><p>CX78500</p></td>
 <td><p>Alpha (α)</p></td>
@@ -398,7 +412,7 @@ Auto-lock Accessory Shoe (4-pin iISO)</a></p></td>
 <td><p>已停產</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/α5100" title="wikilink">α5100</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/索尼_α5100" title="wikilink">索尼 α5100</a></p></td>
 <td><p>ILCE-5100</p></td>
 <td><p>CX78300</p></td>
 <td><p>Alpha (α)</p></td>
@@ -429,7 +443,7 @@ SmartShot</p></td>
 <td><p>發售中</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/α7_II" title="wikilink">α7 II</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/索尼α7II" title="wikilink">索尼 α7 II</a></p></td>
 <td><p>ILCE-7M2</p></td>
 <td></td>
 <td><p>Alpha (α)</p></td>
@@ -445,7 +459,7 @@ SmartShot</p></td>
 <td><p>發售中</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/α7R_II" title="wikilink">α7R II</a></p></td>
+<td><p><a href="../Page/索尼α7RII.md" title="wikilink">索尼 α7R II</a></p></td>
 <td><p>ILCE-7RM2</p></td>
 <td></td>
 <td><p>Alpha (α)</p></td>
@@ -461,7 +475,7 @@ SmartShot</p></td>
 <td><p>發售中</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/α7S_II" title="wikilink">α7S II</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/索尼_α7SII" title="wikilink">索尼 α7S II</a></p></td>
 <td><p>ILCE-7SM2</p></td>
 <td></td>
 <td><p>Alpha (α)</p></td>
@@ -477,7 +491,7 @@ SmartShot</p></td>
 <td><p>發售中</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/α6300" title="wikilink">α6300</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/索尼_α6300" title="wikilink">索尼 α6300</a></p></td>
 <td><p>ILCE-6300</p></td>
 <td></td>
 <td><p>Alpha (α)</p></td>
@@ -493,7 +507,7 @@ SmartShot</p></td>
 <td><p>發售中</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/α6500" title="wikilink">α6500</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/索尼_α6500" title="wikilink">索尼 α6500</a></p></td>
 <td><p>ILCE-6500</p></td>
 <td></td>
 <td><p>Alpha (α)</p></td>
@@ -509,7 +523,7 @@ SmartShot</p></td>
 <td><p>發售中</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/α9" title="wikilink">α9</a></p></td>
+<td><p><a href="../Page/索尼_α9.md" title="wikilink">索尼 α9</a></p></td>
 <td><p>ILCE-9</p></td>
 <td></td>
 <td><p>Alpha (α)</p></td>
@@ -525,7 +539,7 @@ SmartShot</p></td>
 <td><p>發售中</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/α7R_III" title="wikilink">α7R III</a></p></td>
+<td><p><a href="../Page/索尼_α7RIII.md" title="wikilink">索尼 α7R III</a></p></td>
 <td><p>ILCE-7RM3</p></td>
 <td></td>
 <td><p>Alpha (α)</p></td>
@@ -541,6 +555,86 @@ SmartShot</p></td>
 <td><p>發售中</p></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/索尼_α7III" title="wikilink">索尼 α7 III</a></p></td>
+<td><p>ILCE-7M3</p></td>
+<td></td>
+<td><p>Alpha (α)</p></td>
+<td><p>E-mount</p></td>
+<td><p>Full Frame 全片幅，35.6×23.8mm,(1.0×)</p></td>
+<td><p>CMOS, Exmor R, 24.4 MP</p></td>
+<td><p>MI 智慧型配件熱靴<br />
+(Multi Interface Shoe)</p></td>
+<td><p>3.0</p></td>
+<td><p>半專業</p></td>
+<td><p>2018-02-26</p></td>
+<td><p>March 2018</p></td>
+<td><p>發售中</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/索尼_α6400" title="wikilink">索尼 α6400</a></p></td>
+<td><p>ILCE-6400</p></td>
+<td></td>
+<td><p>Alpha (α)</p></td>
+<td><p>E-mount</p></td>
+<td><p>APS-C型, 大約. 23.5×15.6mm (1.5×)</p></td>
+<td><p>CMOS, Exmor HD, 24.2 MP</p></td>
+<td><p>MI 智慧型配件熱靴<br />
+(Multi Interface Shoe)</p></td>
+<td></td>
+<td><p>進階業餘</p></td>
+<td><p>2019-01-15</p></td>
+<td><p>February 2019</p></td>
+<td><p>發售中</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/索尼_α7RIV.md" title="wikilink">索尼 α7R IV</a></p></td>
+<td><p>ILCE-7RM4</p></td>
+<td></td>
+<td><p>Alpha (α)</p></td>
+<td><p>E-mount</p></td>
+<td><p>Full Frame 全片幅，35.7×23.8mm,(1.0×)</p></td>
+<td><p>CMOS, Exmor R, 61 MP</p></td>
+<td><p>MI 智慧型配件熱靴<br />
+(Multi Interface Shoe)</p></td>
+<td></td>
+<td><p>專業級</p></td>
+<td><p>2019-07-16</p></td>
+<td><p>August 2019</p></td>
+<td><p>發售中</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/索尼_α6600" title="wikilink">索尼 α6600</a></p></td>
+<td><p>ILCE-6600</p></td>
+<td></td>
+<td><p>Alpha (α)</p></td>
+<td><p>E-mount</p></td>
+<td><p>APS-C型, 大約. 23.5×15.6mm (1.5×)</p></td>
+<td><p>CMOS, Exmor HD, 24.2 MP</p></td>
+<td><p>MI 智慧型配件熱靴<br />
+(Multi Interface Shoe)</p></td>
+<td></td>
+<td><p>進階業餘</p></td>
+<td><p>2019-08-29</p></td>
+<td></td>
+<td><p>尚未發售</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/索尼_α6100" title="wikilink">索尼 α6100</a></p></td>
+<td><p>ILCE-6100</p></td>
+<td></td>
+<td><p>Alpha (α)</p></td>
+<td><p>E-mount</p></td>
+<td><p>APS-C型, 大約. 23.5×15.6mm (1.5×)</p></td>
+<td><p>CMOS, Exmor HD, 24.2 MP</p></td>
+<td><p>MI 智慧型配件熱靴<br />
+(Multi Interface Shoe)</p></td>
+<td></td>
+<td><p>進階業餘</p></td>
+<td><p>2019-08-29</p></td>
+<td><p>September 2019</p></td>
+<td><p>發售中</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -555,7 +649,7 @@ SmartShot</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/Sony_Handycam_NEX-VG10" title="wikilink">NEX-VG10</a></p></td>
 <td><p>NEX-VG10E, NEX-VG10A, NEX-VG10J</p></td>
 <td><p>CX36000, CX36001</p></td>
@@ -571,7 +665,7 @@ Auto-lock Accessory Shoe (4-pin iISO)</p></td>
 <td><p>September 2010</p></td>
 <td><p>已停產</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/索尼_Handycam_NEX-VG20" title="wikilink">NEX-VG20</a></p></td>
 <td><p>NEX-VG20E, NEX-VG20A, NEX-VG20J</p></td>
 <td></td>
@@ -586,7 +680,7 @@ Auto-lock Accessory Shoe (4-pin iISO)</p></td>
 <td><p>November 2011</p></td>
 <td><p>发售中</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/索尼_NXCAM_NEX-FS100" title="wikilink">NEX-FS100</a></p></td>
 <td><p>NEX-FS100E, NEX-FS100U, NEX-FS100J</p></td>
 <td></td>
@@ -601,7 +695,7 @@ Auto-lock Accessory Shoe (4-pin iISO)</p></td>
 <td><p>July 2011</p></td>
 <td><p>发售中</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/索尼_NXCAM_NEX-FS700" title="wikilink">NEX-FS700</a></p></td>
 <td><p>NEX-FS700E, NEX-FS700U, NEX-FS700J</p></td>
 <td></td>
@@ -616,7 +710,7 @@ Auto-lock Accessory Shoe (4-pin iISO)</p></td>
 <td><p>June 2012</p></td>
 <td><p>已发表</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/索尼_NXCAM_NEX-EA50" title="wikilink">NEX-EA50</a></p></td>
 <td><p>NEX-EA50E, NEX-EA50U</p></td>
 <td></td>
@@ -656,7 +750,7 @@ Auto-lock Accessory Shoe (4-pin iISO)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/三星電子.md" title="wikilink">三星</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/:en:NX_Mount" title="wikilink">NX接环</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td><p>23.4×15.6</p></td>

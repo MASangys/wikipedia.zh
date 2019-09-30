@@ -1,4 +1,4 @@
-**Ring a Ding Dong**單曲，為[木村KAELA](../Page/木村KAELA.md "wikilink")的個人第15張單曲，於2010年6月9日由哥倫比亞音樂發行。
+《**Ring a Ding Dong**》是日本女歌手[木村KAELA](../Page/木村KAELA.md "wikilink")的個人第15張單曲，於2010年6月9日由[哥倫比亞音樂發行](https://zh.wikipedia.org/wiki/哥倫比亞音樂 "wikilink")。
 
 ## 曲目
 

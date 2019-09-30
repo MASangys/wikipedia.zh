@@ -140,6 +140,14 @@
 <td><p>[23][24]</p></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>2019</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/日本遊戲大賞" title="wikilink">日本遊戲大賞</a></p></td>
+<td><p>優秀奬</p></td>
+<td><p>《王國之心III》</p></td>
+<td></td>
+<td><p>[25]</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -180,3 +188,4 @@
 22.
 23.
 24.
+25.

@@ -234,6 +234,38 @@
 <td><p>未加入</p></td>
 <td><p>未加入</p></td>
 </tr>
+<tr class="odd">
+<td><p>2019年9月12日自研究生升格</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/佐藤美波" title="wikilink">佐藤美波</a></p></td>
+<td><p>16期</p></td>
+<td><p>＃就是喜歡你</p></td>
+<td><p>-</p></td>
+<td><p>未加入</p></td>
+<td><p>未加入</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/道枝咲" title="wikilink">道枝咲</a></p></td>
+<td><p>16期</p></td>
+<td><p>＃就是喜歡你</p></td>
+<td><p>-</p></td>
+<td><p>未加入</p></td>
+<td><p>未加入</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -720,6 +752,30 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/大盛真步" title="wikilink">大盛真步</a></p></td>
 <td><p>选秀 3期</p></td>
 <td><p>NO WAY MAN</p></td>
+<td><p>-</p></td>
+<td><p>未加入</p></td>
+<td><p>未加入</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019年9月7日自研究生升格</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>大竹瞳</p></td>
+<td><p>選秀 3期</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td><p>未加入</p></td>
+<td><p>未加入</p></td>
+</tr>
+<tr class="odd">
+<td><p>齋藤陽菜</p></td>
+<td><p>選秀 3期</p></td>
+<td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>未加入</p></td>
 <td><p>未加入</p></td>
@@ -1571,9 +1627,6 @@
 | 姓名                                                    | 加入時期 | 出道作品   | 選拔次數 | 歷屆AKB48單曲選拔總選舉排名 | 經紀公司 | 備註 |
 | ----------------------------------------------------- | ---- | ------ | ---- | ---------------- | ---- | -- |
 | 第八屆                                                   | 第九屆  | 第十屆    |      |                  |      |    |
-| Team A                                                |      |        |      |                  |      |    |
-| [佐藤美波](https://zh.wikipedia.org/wiki/佐藤美波 "wikilink") | 16期  | ＃就是喜歡你 | \-   | 未加入              | 圈外   | 圈外 |
-| [道枝咲](https://zh.wikipedia.org/wiki/道枝咲 "wikilink")   | 16期  | ＃就是喜歡你 | \-   | 未加入              | 圈外   | 圈外 |
 | Team 4                                                |      |        |      |                  |      |    |
 | [本間麻衣](https://zh.wikipedia.org/wiki/本間麻衣 "wikilink") | 16期  | ＃就是喜歡你 | \-   | 未加入              | 圈外   | 圈外 |
 
@@ -1667,34 +1720,6 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Team B</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>大竹瞳</p></td>
-<td><p>選秀<br />
-3期</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td><p>未加入</p></td>
-<td><p>圈外</p></td>
-<td><p>AKS</p></td>
-</tr>
-<tr class="odd">
-<td><p>齋藤陽菜</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td><p>未加入</p></td>
-<td><p>圈外</p></td>
-<td><p>-</p></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>Team 4</p></td>
 <td></td>
 <td></td>
@@ -1703,7 +1728,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>石綿星南</p></td>
 <td><p>選秀<br />
 3期</p></td>
@@ -1713,7 +1738,7 @@
 <td><p>圈外</p></td>
 <td><p>AKS</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>藏本美結</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
@@ -1722,7 +1747,7 @@
 <td><p>-</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>吉橋柚花</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
@@ -2297,13 +2322,14 @@ AKB48各隊創隊後至第一次組閣前，雖未正式設立隊長職位，但
 <td><p><a href="../Page/指原莉乃.md" title="wikilink">指原莉乃</a></p></td>
 <td><p>5期</p></td>
 <td><p>大聲鑽石</p></td>
-<td><p>34</p></td>
+<td><p>37</p></td>
 <td><p>4</p></td>
 <td><p>太田製作</p></td>
 <td><p>6月16日</p></td>
 <td><p>移籍<a href="../Page/HKT48.md" title="wikilink">HKT48</a></p></td>
-<td><p>現為HKT48 Team H成員[76]<br />
-兼任HKT48劇場經理[77][78]</p></td>
+<td><p>[76]<br />
+兼任HKT48劇場經理[77][78]<br />
+2019年4月28日自HKT48畢業[79]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/前田敦子.md" title="wikilink">前田敦子</a></p></td>
@@ -2313,7 +2339,7 @@ AKB48各隊創隊後至第一次組閣前，雖未正式設立隊長職位，但
 <td><p>1</p></td>
 <td><p>8月27日</p></td>
 <td><p>畢業</p></td>
-<td><p>[79]</p></td>
+<td><p>[80]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2325,9 +2351,9 @@ AKB48各隊創隊後至第一次組閣前，雖未正式設立隊長職位，但
 <td><p>尾木製作</p></td>
 <td><p>10月31日</p></td>
 <td><p>移籍HKT48</p></td>
-<td><p>[80][81]<br />
-HKT48 Team KIV第一任隊長[82]<br />
-2017年4月10日自HKT48畢業[83]</p></td>
+<td><p>[81][82]<br />
+HKT48 Team KIV第一任隊長[83]<br />
+2017年4月10日自HKT48畢業[84]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/仲川遙香" title="wikilink">仲川遙香</a></p></td>
@@ -2335,9 +2361,9 @@ HKT48 Team KIV第一任隊長[82]<br />
 <td><p>2</p></td>
 <td><p>10月31日</p></td>
 <td><p>移籍<a href="../Page/JKT48.md" title="wikilink">JKT48</a></p></td>
-<td><p>[84][85]<br />
-JKT48 Team T第一任隊長[86]<br />
-2016年12月30日自JKT48畢業[87]</p></td>
+<td><p>[85][86]<br />
+JKT48 Team T第一任隊長[87]<br />
+2016年12月30日自JKT48畢業[88]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2351,7 +2377,7 @@ JKT48 Team T第一任隊長[86]<br />
 <td><p>Biscuit Entertainment</p></td>
 <td><p>11月30日</p></td>
 <td><p>畢業</p></td>
-<td><p>[88]</p></td>
+<td><p>[89]</p></td>
 </tr>
 <tr class="even">
 <td><p>2013年</p></td>
@@ -2373,7 +2399,7 @@ JKT48 Team T第一任隊長[86]<br />
 <td><p><a href="../Page/Horipro.md" title="wikilink">Horipro</a></p></td>
 <td><p>4月28日</p></td>
 <td><p>畢業</p></td>
-<td><p>[89]</p></td>
+<td><p>[90]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/河西智美.md" title="wikilink">河西智美</a></p></td>
@@ -2383,7 +2409,7 @@ JKT48 Team T第一任隊長[86]<br />
 <td><p>10</p></td>
 <td><p>Horipro</p></td>
 <td><p>5月3日</p></td>
-<td><p>[90]</p></td>
+<td><p>[91]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2394,7 +2420,7 @@ JKT48 Team T第一任隊長[86]<br />
 <td><p>圈外</p></td>
 <td></td>
 <td><p>7月7日</p></td>
-<td><p>[91]</p></td>
+<td><p>[92]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2406,7 +2432,7 @@ JKT48 Team T第一任隊長[86]<br />
 <td><p>SOMEDAY</p></td>
 <td><p>7月22日</p></td>
 <td><p>Team A第二任隊長<br />
-[92]</p></td>
+[93]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2417,7 +2443,7 @@ JKT48 Team T第一任隊長[86]<br />
 <td><p>圈外</p></td>
 <td><p>渡邊娛樂</p></td>
 <td><p>9月23日</p></td>
-<td><p>[93]</p></td>
+<td><p>[94]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2440,8 +2466,8 @@ JKT48 Team T第一任隊長[86]<br />
 <td><p>Horipro</p></td>
 <td><p>4月21日</p></td>
 <td><p>移籍<a href="../Page/SKE48.md" title="wikilink">SKE48</a></p></td>
-<td><p>[94]<br />
-2017年12月31日自SKE48畢業[95][96]</p></td>
+<td><p>[95]<br />
+2017年12月31日自SKE48畢業[96][97]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/菊地彩香.md" title="wikilink">菊地彩香</a></p></td>
@@ -2452,7 +2478,7 @@ JKT48 Team T第一任隊長[86]<br />
 <td><p>尾木製作</p></td>
 <td><p>9月23日</p></td>
 <td><p>畢業</p></td>
-<td><p>[97]</p></td>
+<td><p>[98]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/片山陽加.md" title="wikilink">片山陽加</a></p></td>
@@ -2462,7 +2488,7 @@ JKT48 Team T第一任隊長[86]<br />
 <td><p>28</p></td>
 <td></td>
 <td><p>9月29日</p></td>
-<td><p>[98][99]</p></td>
+<td><p>[99][100]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2486,8 +2512,8 @@ JKT48 Team T第一任隊長[86]<br />
 <td><p>京樂吉本</p></td>
 <td><p>5月29日</p></td>
 <td><p>解除兼任</p></td>
-<td><p>[100][101]<br />
-2018年4月10日自NMB48畢業[102]</p></td>
+<td><p>[101][102]<br />
+2018年4月10日自NMB48畢業[103]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/古畑奈和.md" title="wikilink">古畑奈和</a></p></td>
@@ -2498,7 +2524,7 @@ JKT48 Team T第一任隊長[86]<br />
 <td><p>55</p></td>
 <td><p>AKS</p></td>
 <td><p>5月29日</p></td>
-<td><p>[103][104]</p></td>
+<td><p>[104][105]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2510,7 +2536,7 @@ JKT48 Team T第一任隊長[86]<br />
 <td><p>AKS</p></td>
 <td><p>5月30日</p></td>
 <td><p>畢業</p></td>
-<td><p>[105]</p></td>
+<td><p>[106]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/川榮李奈.md" title="wikilink">川榮李奈</a></p></td>
@@ -2519,7 +2545,7 @@ JKT48 Team T第一任隊長[86]<br />
 <td><p>16</p></td>
 <td><p><a href="../Page/愛貝克思娛樂.md" title="wikilink">愛貝克思娛樂</a></p></td>
 <td><p>8月4日</p></td>
-<td><p>[106][107]</p></td>
+<td><p>[107][108]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -2531,7 +2557,7 @@ JKT48 Team T第一任隊長[86]<br />
 <td><p>38</p></td>
 <td></td>
 <td><p>8月9日</p></td>
-<td><p>[108]</p></td>
+<td><p>[109]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2543,7 +2569,7 @@ JKT48 Team T第一任隊長[86]<br />
 <td><p>圈外</p></td>
 <td><p>AKS</p></td>
 <td><p>12月23日</p></td>
-<td><p>[109]</p></td>
+<td><p>[110]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2568,7 +2594,7 @@ JKT48 Team T第一任隊長[86]<br />
 <td><p>畢業</p></td>
 <td><p>第一任總監督<br />
 Team A第一、四任隊長<br />
-[110][111]</p></td>
+[111][112]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/岩田華怜.md" title="wikilink">岩田華怜</a></p></td>
@@ -2578,7 +2604,7 @@ Team A第一、四任隊長<br />
 <td><p>圈外</p></td>
 <td><p>Horipro</p></td>
 <td><p>5月21日</p></td>
-<td><p>[112]</p></td>
+<td><p>[113]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2589,7 +2615,7 @@ Team A第一、四任隊長<br />
 <td><p>圈外</p></td>
 <td><p>AKS</p></td>
 <td><p>8月24日</p></td>
-<td><p>[113]</p></td>
+<td><p>[114]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2600,7 +2626,7 @@ Team A第一、四任隊長<br />
 <td><p>37</p></td>
 <td><p>AKS</p></td>
 <td><p>8月29日</p></td>
-<td><p>[114]</p></td>
+<td><p>[115]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2612,7 +2638,7 @@ Team A第一、四任隊長<br />
 <td><p>54</p></td>
 <td><p><a href="../Page/京樂吉本控股.md" title="wikilink">京樂吉本</a></p></td>
 <td><p>12月24日</p></td>
-<td><p>[115]</p></td>
+<td><p>[116]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2623,7 +2649,7 @@ Team A第一、四任隊長<br />
 <td><p>7</p></td>
 <td></td>
 <td><p>12月31日</p></td>
-<td><p>[116]</p></td>
+<td><p>[117]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2646,7 +2672,7 @@ Team A第一、四任隊長<br />
 <td><p>AKS</p></td>
 <td><p>3月18日</p></td>
 <td><p>畢業</p></td>
-<td><p>[117]</p></td>
+<td><p>[118]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/中村麻里子.md" title="wikilink">中村麻里子</a></p></td>
@@ -2657,7 +2683,7 @@ Team A第一、四任隊長<br />
 <td></td>
 <td><p>3月30日</p></td>
 <td><p>Team A第一、二任副隊長<br />
-[118]</p></td>
+[119]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2668,7 +2694,7 @@ Team A第一、四任隊長<br />
 <td><p>6</p></td>
 <td><p>尾木製作</p></td>
 <td><p>4月19日</p></td>
-<td><p>[119]</p></td>
+<td><p>[120]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2687,7 +2713,7 @@ Team A第一、四任隊長<br />
 <td><p>HKT48<br />
 1期</p></td>
 <td><p>1830m</p></td>
-<td><p>18</p></td>
+<td><p>21</p></td>
 <td><p>4</p></td>
 <td><p>AKS</p></td>
 <td><p>4月2日</p></td>
@@ -2715,7 +2741,7 @@ Team A第一、四任隊長<br />
 <td><p>AKS</p></td>
 <td><p>8月12日</p></td>
 <td><p>畢業</p></td>
-<td><p>[120]</p></td>
+<td><p>[121]</p></td>
 </tr>
 <tr class="even">
 <td><p>2019年</p></td>
@@ -2737,7 +2763,7 @@ Team A第一、四任隊長<br />
 <td><p>-</p></td>
 <td><p>8月13日</p></td>
 <td><p>畢業</p></td>
-<td><p>[121][122]</p></td>
+<td><p>[122][123]</p></td>
 </tr>
 </tbody>
 </table>
@@ -2782,7 +2808,7 @@ Team A第一、四任隊長<br />
 <td><p>office48</p></td>
 <td><p>6月17日</p></td>
 <td><p>退出</p></td>
-<td><p>[123]</p></td>
+<td><p>[124]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2007年</p></td>
@@ -2804,7 +2830,7 @@ Team A第一、四任隊長<br />
 <td><p>office48</p></td>
 <td><p>6月22日</p></td>
 <td><p>畢業</p></td>
-<td><p>[124]</p></td>
+<td><p>[125]</p></td>
 </tr>
 <tr class="odd">
 <td><p>高田彩奈</p></td>
@@ -2837,14 +2863,14 @@ Team A第一、四任隊長<br />
 <td><p>AKS</p></td>
 <td><p>4月26日</p></td>
 <td><p>畢業</p></td>
-<td><p>[125]</p></td>
+<td><p>[126]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/成瀨理沙.md" title="wikilink">成瀨理沙</a></p></td>
 <td><p>4期</p></td>
 <td><p><a href="../Page/妳正在看著夕陽嗎？.md" title="wikilink">妳正在看著夕陽嗎？</a></p></td>
 <td><p>5月24日</p></td>
-<td><p>[126]</p></td>
+<td><p>[127]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2870,8 +2896,8 @@ Team A第一、四任隊長<br />
 <td><p>太田製作</p></td>
 <td><p>2月21日</p></td>
 <td><p>移籍SDN48</p></td>
-<td><p>[127]<br />
-2012年3月31日，SDN48全體畢業[128]</p></td>
+<td><p>[128]<br />
+2012年3月31日，SDN48全體畢業[129]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/大堀惠.md" title="wikilink">大堀惠</a></p></td>
@@ -2892,9 +2918,9 @@ Team A第一、四任隊長<br />
 <td><p>太田製作</p></td>
 <td><p>9月27日</p></td>
 <td><p>畢業</p></td>
-<td><p>[129]<br />
-之後加入<a href="../Page/LesPros娛樂.md" title="wikilink">LesPros娛樂</a>復出演藝圈[130]<br />
-2014年7月15日自演藝圈引退[131]</p></td>
+<td><p>[130]<br />
+之後加入<a href="../Page/LesPros娛樂.md" title="wikilink">LesPros娛樂</a>復出演藝圈[131]<br />
+2014年7月15日自演藝圈引退[132]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2917,7 +2943,7 @@ Team A第一、四任隊長<br />
 <td><p>Artist-house Pyramid</p></td>
 <td><p>2月5日</p></td>
 <td><p>请辞</p></td>
-<td><p>[132][133]</p></td>
+<td><p>[133][134]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/光宗薰.md" title="wikilink">光宗薰</a></p></td>
@@ -2929,7 +2955,7 @@ Team A第一、四任隊長<br />
 <td><p>10月24日</p></td>
 <td><p>請辭</p></td>
 <td><p>原定升格至Team K，於配屬前離團<br />
-[134]</p></td>
+[135]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/增田有華.md" title="wikilink">增田有華</a></p></td>
@@ -2940,7 +2966,7 @@ Team A第一、四任隊長<br />
 <td><p>office48</p></td>
 <td><p>12月17日</p></td>
 <td><p>畢業</p></td>
-<td><p>[135]</p></td>
+<td><p>[136]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2013年</p></td>
@@ -2962,7 +2988,7 @@ Team A第一、四任隊長<br />
 <td><p>Mousa</p></td>
 <td><p>3月6日</p></td>
 <td><p>畢業</p></td>
-<td><p>[136][137]</p></td>
+<td><p>[137][138]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/宮澤佐江.md" title="wikilink">宮澤佐江</a></p></td>
@@ -2973,7 +2999,7 @@ Team A第一、四任隊長<br />
 <td><p>office48</p></td>
 <td><p>6月24日</p></td>
 <td><p>解除兼任</p></td>
-<td><p>SKE48 Team S第三任隊長[138]<br />
+<td><p>SKE48 Team S第三任隊長[139]<br />
 </p></td>
 </tr>
 <tr class="even">
@@ -2983,7 +3009,7 @@ Team A第一、四任隊長<br />
 <td><p>尾木製作</p></td>
 <td><p>7月7日</p></td>
 <td><p>畢業</p></td>
-<td><p>[139]</p></td>
+<td><p>[140]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -2995,7 +3021,7 @@ Team A第一、四任隊長<br />
 <td><p>4</p></td>
 <td><p>Horipro</p></td>
 <td><p>8月27日</p></td>
-<td><p>[140]</p></td>
+<td><p>[141]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -3007,7 +3033,7 @@ Team A第一、四任隊長<br />
 <td><p>FLAVE ENTERTAINMENT</p></td>
 <td><p>8月28日</p></td>
 <td><p>Team K第一任隊長<br />
-[141]</p></td>
+[142]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -3030,8 +3056,8 @@ Team A第一、四任隊長<br />
 <td><p><a href="../Page/伊藤公司.md" title="wikilink">伊藤公司</a></p></td>
 <td><p>4月16日</p></td>
 <td><p>移籍JKT48</p></td>
-<td><p>[142]<br />
-2018年3月25日自JKT48畢業[143]</p></td>
+<td><p>[143]<br />
+2018年3月25日自JKT48畢業[144]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/大島優子.md" title="wikilink">大島優子</a></p></td>
@@ -3043,7 +3069,7 @@ Team A第一、四任隊長<br />
 <td><p>6月9日</p></td>
 <td><p>畢業</p></td>
 <td><p>Team K第二任隊長<br />
-[144][145]</p></td>
+[145][146]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/佐藤亞美菜.md" title="wikilink">佐藤亞美菜</a></p></td>
@@ -3076,7 +3102,7 @@ Team A第一、四任隊長<br />
 <td><p>AKS</p></td>
 <td><p>5月30日</p></td>
 <td><p>畢業</p></td>
-<td><p>[146]</p></td>
+<td><p>[147]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/北原里英.md" title="wikilink">北原里英</a></p></td>
@@ -3087,8 +3113,8 @@ Team A第一、四任隊長<br />
 <td><p>太田製作</p></td>
 <td><p>8月26日</p></td>
 <td><p>移籍<a href="../Page/NGT48.md" title="wikilink">NGT48</a></p></td>
-<td><p>NGT48 Team NIII第一任隊長[147]<br />
-2018年4月18日自NGT48畢業[148]</p></td>
+<td><p>NGT48 Team NIII第一任隊長[148]<br />
+2018年4月18日自NGT48畢業[149]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/松井珠理奈.md" title="wikilink">松井珠理奈</a></p></td>
@@ -3099,7 +3125,7 @@ Team A第一、四任隊長<br />
 <td><p>AKS</p></td>
 <td><p>12月24日</p></td>
 <td><p>解除兼任</p></td>
-<td><p>[149]</p></td>
+<td><p>[150]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -3122,7 +3148,7 @@ Team A第一、四任隊長<br />
 <td></td>
 <td><p>5月1日</p></td>
 <td><p>畢業</p></td>
-<td><p>[150]</p></td>
+<td><p>[151]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/永尾瑪利亞.md" title="wikilink">永尾瑪利亞</a></p></td>
@@ -3131,7 +3157,7 @@ Team A第一、四任隊長<br />
 <td><p>1</p></td>
 <td><p>35</p></td>
 <td></td>
-<td><p>[151]</p></td>
+<td><p>[152]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -3145,7 +3171,7 @@ Team A第一、四任隊長<br />
 <td><p>京樂吉本</p></td>
 <td><p>5月26日</p></td>
 <td><p>解除兼任</p></td>
-<td><p>[152]</p></td>
+<td><p>[153]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/石田晴香.md" title="wikilink">石田晴香</a></p></td>
@@ -3156,7 +3182,7 @@ Team A第一、四任隊長<br />
 <td><p>Horipro</p></td>
 <td><p>6月5日</p></td>
 <td><p>畢業</p></td>
-<td><p>[153]</p></td>
+<td><p>[154]</p></td>
 </tr>
 <tr class="even">
 <td><p>2017年</p></td>
@@ -3178,7 +3204,7 @@ Team A第一、四任隊長<br />
 <td><p>AKS</p></td>
 <td><p>3月21日</p></td>
 <td><p>畢業</p></td>
-<td><p>[154]</p></td>
+<td><p>[155]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/中田千智.md" title="wikilink">中田千智</a></p></td>
@@ -3187,7 +3213,7 @@ Team A第一、四任隊長<br />
 <td><p>1</p></td>
 <td><p>AKS</p></td>
 <td><p>4月24日</p></td>
-<td><p>[155]</p></td>
+<td><p>[156]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -3198,7 +3224,7 @@ Team A第一、四任隊長<br />
 <td><p>-</p></td>
 <td><p>FLAVE ENTERTAINMENT</p></td>
 <td><p>6月10日</p></td>
-<td><p>[156]</p></td>
+<td><p>[157]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -3210,7 +3236,7 @@ Team A第一、四任隊長<br />
 <td><p>FLAVE ENTERTAINMENT</p></td>
 <td><p>11月13日</p></td>
 <td><p>Team K第二任副隊長<br />
-[157]</p></td>
+[158]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -3222,7 +3248,7 @@ Team A第一、四任隊長<br />
 <td><p><a href="../Page/日本音樂娛樂.md" title="wikilink">日本音樂娛樂</a></p></td>
 <td><p>11月30日</p></td>
 <td><p>移籍<a href="https://zh.wikipedia.org/wiki/TPE48" title="wikilink">TPE48</a></p></td>
-<td><p>[158][159]</p></td>
+<td><p>[159][160]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -3257,7 +3283,7 @@ Team A第一、四任隊長<br />
 <td><p>AKS</p></td>
 <td><p>8月12日</p></td>
 <td><p>畢業</p></td>
-<td><p>[160]</p></td>
+<td><p>[161]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2019年</p></td>
@@ -3279,7 +3305,7 @@ Team A第一、四任隊長<br />
 <td><p>AKS</p></td>
 <td><p>1月7日</p></td>
 <td><p>畢業</p></td>
-<td><p>[161][162]</p></td>
+<td><p>[162][163]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/野澤玲奈.md" title="wikilink">野澤玲奈</a></p></td>
@@ -3290,7 +3316,7 @@ Team A第一、四任隊長<br />
 <td><p>圈外</p></td>
 <td><p>AKS</p></td>
 <td><p>5月6日</p></td>
-<td><p>[163]</p></td>
+<td><p>[164]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -3301,7 +3327,7 @@ Team A第一、四任隊長<br />
 <td><p>19</p></td>
 <td></td>
 <td><p>5月12日</p></td>
-<td><p>[164][165]</p></td>
+<td><p>[165][166]</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -3347,7 +3373,7 @@ Team A第一、四任隊長<br />
 <td><p>office48</p></td>
 <td><p>10月2日</p></td>
 <td><p>畢業</p></td>
-<td><p>[166]</p></td>
+<td><p>[167]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2008年</p></td>
@@ -3369,7 +3395,7 @@ Team A第一、四任隊長<br />
 <td><p>AKS</p></td>
 <td><p>9月29日</p></td>
 <td><p>畢業</p></td>
-<td><p>[167]</p></td>
+<td><p>[168]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2009年</p></td>
@@ -3391,11 +3417,11 @@ Team A第一、四任隊長<br />
 <td><p>AKS</p></td>
 <td><p>2月1日</p></td>
 <td><p>畢業</p></td>
-<td><p>[168]</p></td>
+<td><p>[169]</p></td>
 </tr>
 <tr class="odd">
 <td><p>松岡由紀</p></td>
-<td><p>[169]</p></td>
+<td><p>[170]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3409,7 +3435,7 @@ Team A第一、四任隊長<br />
 <td><p>4期</p></td>
 <td><p>圈外</p></td>
 <td><p>8月23日</p></td>
-<td><p>[170]<br />
+<td><p>[171]<br />
 </p></td>
 <td></td>
 <td></td>
@@ -3436,8 +3462,8 @@ Team A第一、四任隊長<br />
 <td><p>尾木製作</p></td>
 <td><p>4月16日</p></td>
 <td><p>移籍SDN48</p></td>
-<td><p>[171][172]<br />
-2012年3月31日，SDN48全體畢業[173]</p></td>
+<td><p>[172][173]<br />
+2012年3月31日，SDN48全體畢業[174]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/小原春香.md" title="wikilink">小原春香</a></p></td>
@@ -3470,7 +3496,7 @@ Team A第一、四任隊長<br />
 <td><p>office48</p></td>
 <td><p>6月19日</p></td>
 <td><p>畢業</p></td>
-<td><p>[174]</p></td>
+<td><p>[175]</p></td>
 </tr>
 <tr class="even">
 <td><p>2012年</p></td>
@@ -3492,7 +3518,7 @@ Team A第一、四任隊長<br />
 <td><p>尾木制作</p></td>
 <td><p>2月5日</p></td>
 <td><p>请辞</p></td>
-<td><p>[175][176]</p></td>
+<td><p>[176][177]</p></td>
 </tr>
 <tr class="even">
 <td><p>2013年</p></td>
@@ -3526,7 +3552,7 @@ Team A第一、四任隊長<br />
 <td><p>尾木製作</p></td>
 <td><p>7月7日</p></td>
 <td><p>畢業</p></td>
-<td><p>[177][178]</p></td>
+<td><p>[178][179]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2014年</p></td>
@@ -3549,8 +3575,8 @@ Team A第一、四任隊長<br />
 <td><p>4月23日</p></td>
 <td><p>移籍<a href="../Page/NMB48.md" title="wikilink">NMB48</a></p></td>
 <td><p>Team B第二任隊長<br />
-NMB48 Team BII第一任副隊長[179]<br />
-2016年3月31日自NMB48畢業[180]</p></td>
+NMB48 Team BII第一任副隊長[180]<br />
+2016年3月31日自NMB48畢業[181]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/藤江麗奈.md" title="wikilink">藤江麗奈</a></p></td>
@@ -3559,8 +3585,8 @@ NMB48 Team BII第一任副隊長[179]<br />
 <td><p>5</p></td>
 <td><p>32</p></td>
 <td><p>伊藤公司</p></td>
-<td><p>NMB48 Team M第三任隊長[181]<br />
-2017年5月27日自NMB48畢業[182]</p></td>
+<td><p>NMB48 Team M第三任隊長[182]<br />
+2017年5月27日自NMB48畢業[183]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -3573,8 +3599,8 @@ NMB48 Team BII第一任副隊長[179]<br />
 <td><p><a href="../Page/日本音樂娛樂.md" title="wikilink">日本音樂娛樂</a></p></td>
 <td><p>移籍SKE48</p></td>
 <td><p>Team 4第一任隊長<br />
-SKE48 Team KII第一任副隊長[183]<br />
-現為SKE48 Team KII第三任隊長[184]</p></td>
+SKE48 Team KII第一任副隊長[184]<br />
+現為SKE48 Team KII第三任隊長[185]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -3584,7 +3610,7 @@ SKE48 Team KII第一任副隊長[183]<br />
 <td><p>2</p></td>
 <td><p>36</p></td>
 <td><p>Horipro</p></td>
-<td><p>現為SKE48 Team S成員[185]</p></td>
+<td><p>現為SKE48 Team S成員[186]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -3596,8 +3622,8 @@ SKE48 Team KII第一任副隊長[183]<br />
 <td><p>39</p></td>
 <td><p>尾木製作</p></td>
 <td><p>移籍NMB48</p></td>
-<td><p>2014年4月23日移籍[186]<br />
-2018年5月1日自NMB48畢業[187][188]</p></td>
+<td><p>2014年4月23日移籍[187]<br />
+2018年5月1日自NMB48畢業[188][189]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -3609,7 +3635,7 @@ SKE48 Team KII第一任副隊長[183]<br />
 <td><p>尾木製作</p></td>
 <td><p>9月23日</p></td>
 <td><p>畢業</p></td>
-<td><p>[189]</p></td>
+<td><p>[190]</p></td>
 </tr>
 <tr class="even">
 <td><p>2015年</p></td>
@@ -3632,9 +3658,9 @@ SKE48 Team KII第一任副隊長[183]<br />
 <td><p>乃木坂46 LLC</p></td>
 <td><p>5月14日</p></td>
 <td><p>解除兼任</p></td>
-<td><p>[190]<br />
-[191]<br />
-2018年5月6日自乃木坂46畢業[192]</p></td>
+<td><p>[191]<br />
+[192]<br />
+2018年5月6日自乃木坂46畢業[193]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/橋本耀.md" title="wikilink">橋本耀</a></p></td>
@@ -3645,7 +3671,7 @@ SKE48 Team KII第一任副隊長[183]<br />
 <td><p>AKS</p></td>
 <td><p>8月9日</p></td>
 <td><p>畢業</p></td>
-<td><p>[193]</p></td>
+<td><p>[194]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/倉持明日香.md" title="wikilink">倉持明日香</a></p></td>
@@ -3656,7 +3682,7 @@ SKE48 Team KII第一任副隊長[183]<br />
 <td></td>
 <td><p>8月17日</p></td>
 <td><p>Team B第三任隊長<br />
-[194][195]</p></td>
+[195][196]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -3667,7 +3693,7 @@ SKE48 Team KII第一任副隊長[183]<br />
 <td><p>圈外</p></td>
 <td><p>AKS</p></td>
 <td><p>10月25日</p></td>
-<td><p>[196]</p></td>
+<td><p>[197]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -3690,7 +3716,7 @@ SKE48 Team KII第一任副隊長[183]<br />
 <td><p>AKS</p></td>
 <td><p>2月21日</p></td>
 <td><p>畢業</p></td>
-<td><p>[197]</p></td>
+<td><p>[198]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/小林香菜.md" title="wikilink">小林香菜</a></p></td>
@@ -3700,7 +3726,7 @@ SKE48 Team KII第一任副隊長[183]<br />
 <td><p>圈外</p></td>
 <td><p>FLAVE ENTERTAINMENT</p></td>
 <td><p>3月31日</p></td>
-<td><p>[198]</p></td>
+<td><p>[199]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -3711,7 +3737,7 @@ SKE48 Team KII第一任副隊長[183]<br />
 <td><p>33</p></td>
 <td><p><a href="../Page/長良製作.md" title="wikilink">長良製作</a></p></td>
 <td><p>5月21日</p></td>
-<td><p>[199]</p></td>
+<td><p>[200]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -3747,7 +3773,7 @@ SKE48 Team KII第一任副隊長[183]<br />
 <td><p>AKS</p></td>
 <td><p>3月22日</p></td>
 <td><p>畢業</p></td>
-<td><p>[200]</p></td>
+<td><p>[201]</p></td>
 </tr>
 <tr class="even">
 <td><p>橫島亞衿</p></td>
@@ -3757,7 +3783,7 @@ SKE48 Team KII第一任副隊長[183]<br />
 <td><p>-</p></td>
 <td><p>圈外</p></td>
 <td><p>6月5日</p></td>
-<td><p>[201]</p></td>
+<td><p>[202]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -3769,7 +3795,7 @@ SKE48 Team KII第一任副隊長[183]<br />
 <td><p>32</p></td>
 <td><p>6月8日</p></td>
 <td><p>Team B第二任副隊長<br />
-[202]</p></td>
+[203]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -3780,7 +3806,7 @@ SKE48 Team KII第一任副隊長[183]<br />
 <td><p>1</p></td>
 <td><p>71</p></td>
 <td><p>7月23日</p></td>
-<td><p>[203]</p></td>
+<td><p>[204]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -3793,7 +3819,7 @@ SKE48 Team KII第一任副隊長[183]<br />
 <td><p>22</p></td>
 <td><p>9月30日</p></td>
 <td><p>Team B第四任隊長<br />
-[204][205][206]</p></td>
+[205][206][207]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -3805,7 +3831,7 @@ SKE48 Team KII第一任副隊長[183]<br />
 <td><p>1</p></td>
 <td><p>尾木製作</p></td>
 <td><p>12月31日</p></td>
-<td><p>[207]</p></td>
+<td><p>[208]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -3851,7 +3877,7 @@ SKE48 Team KII第一任副隊長[183]<br />
 <td><p><a href="https://zh.wikipedia.org/wiki/Mystic_Story" title="wikilink">Mystic Story</a></p></td>
 <td><p>5月6日</p></td>
 <td><p>畢業</p></td>
-<td><p>[208][209]</p></td>
+<td><p>[209][210]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/高橋朱里.md" title="wikilink">高橋朱里</a></p></td>
@@ -3862,7 +3888,7 @@ SKE48 Team KII第一任副隊長[183]<br />
 <td><p>AKS</p></td>
 <td><p>Team 4第四任隊長<br />
 Team B第五任隊長<br />
-后加入韓國<a href="../Page/Woollim娛樂.md" title="wikilink">Woollim娛樂</a>，以<a href="../Page/Rocket_Punch.md" title="wikilink">Rocket Punch成員身分出道</a>[210][211]</p></td>
+后加入韓國<a href="../Page/Woollim娛樂.md" title="wikilink">Woollim娛樂</a>，以<a href="../Page/Rocket_Punch.md" title="wikilink">Rocket Punch成員身分出道</a>[211][212]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -3909,7 +3935,7 @@ Team B第五任隊長<br />
 <td><p>AKS</p></td>
 <td><p>9月2日</p></td>
 <td><p>請辭</p></td>
-<td><p>[212]</p></td>
+<td><p>[213]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2014年</p></td>
@@ -3931,7 +3957,7 @@ Team B第五任隊長<br />
 <td><p>AKS</p></td>
 <td><p>12月27日</p></td>
 <td><p>畢業</p></td>
-<td><p>[213]</p></td>
+<td><p>[214]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2015年</p></td>
@@ -3965,7 +3991,7 @@ Team B第五任隊長<br />
 <td><p>AKS</p></td>
 <td><p>8月9日</p></td>
 <td><p>畢業</p></td>
-<td><p>[214]</p></td>
+<td><p>[215]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/土保瑞希.md" title="wikilink">土保瑞希</a></p></td>
@@ -3983,7 +4009,7 @@ Team B第五任隊長<br />
 <td><p>10期</p></td>
 <td><p>變成櫻花樹</p></td>
 <td><p>1</p></td>
-<td><p>[215]</p></td>
+<td><p>[216]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4009,7 +4035,7 @@ Team B第五任隊長<br />
 <td><p>AKS</p></td>
 <td><p>2月14日</p></td>
 <td><p>畢業</p></td>
-<td><p>|[216]</p></td>
+<td><p>|[217]</p></td>
 </tr>
 <tr class="even">
 <td><p>2017年</p></td>
@@ -4031,7 +4057,7 @@ Team B第五任隊長<br />
 <td><p>AKS</p></td>
 <td><p>3月27日</p></td>
 <td><p>畢業</p></td>
-<td><p>[217]</p></td>
+<td><p>[218]</p></td>
 </tr>
 <tr class="even">
 <td><p>岡田彩花</p></td>
@@ -4040,7 +4066,7 @@ Team B第五任隊長<br />
 <td><p>-</p></td>
 <td><p>57</p></td>
 <td><p>6月22日</p></td>
-<td><p>[218]</p></td>
+<td><p>[219]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -4052,7 +4078,7 @@ Team B第五任隊長<br />
 <td><p>圈外</p></td>
 <td><p>7月2日</p></td>
 <td><p>移籍<a href="../Page/BNK48.md" title="wikilink">BNK48</a></p></td>
-<td><p>[219][220]</p></td>
+<td><p>[220][221]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -4075,7 +4101,7 @@ Team B第五任隊長<br />
 <td><p>AKS</p></td>
 <td><p>1月22日</p></td>
 <td><p>畢業</p></td>
-<td><p>[221][222]</p></td>
+<td><p>[222][223]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/朝長美櫻.md" title="wikilink">朝長美櫻</a></p></td>
@@ -4122,7 +4148,7 @@ Team B第五任隊長<br />
 <td><p>-</p></td>
 <td><p>12月3日</p></td>
 <td><p>畢業</p></td>
-<td><p>[223]</p></td>
+<td><p>[224]</p></td>
 </tr>
 <tr class="even">
 <td><p>2019年</p></td>
@@ -4144,7 +4170,7 @@ Team B第五任隊長<br />
 <td><p>-</p></td>
 <td><p>4月7日</p></td>
 <td><p>畢業</p></td>
-<td><p>[224]</p></td>
+<td><p>[225]</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -4202,7 +4228,7 @@ Team B第五任隊長<br />
 <td><p>AKS</p></td>
 <td><p>6月18日</p></td>
 <td><p>請辭</p></td>
-<td><p>[225]</p></td>
+<td><p>[226]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2015年</p></td>
@@ -4226,7 +4252,7 @@ Team B第五任隊長<br />
 <td><p>AKS</p></td>
 <td><p>1月26日</p></td>
 <td><p>請辭</p></td>
-<td><p>[226]</p></td>
+<td><p>[227]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016年</p></td>
@@ -4250,7 +4276,7 @@ Team B第五任隊長<br />
 <td><p>AKS</p></td>
 <td><p>4月3日</p></td>
 <td><p>畢業</p></td>
-<td><p>[227]</p></td>
+<td><p>[228]</p></td>
 </tr>
 <tr class="odd">
 <td><p>長崎</p></td>
@@ -4269,7 +4295,7 @@ Team B第五任隊長<br />
 <td><p>山本亞依</p></td>
 <td><p>-</p></td>
 <td><p>5月7日</p></td>
-<td><p>[228]</p></td>
+<td><p>[229]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4281,7 +4307,7 @@ Team B第五任隊長<br />
 <td><p>北玲名</p></td>
 <td><p>-</p></td>
 <td><p>10月8日</p></td>
-<td><p>[229]</p></td>
+<td><p>[230]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4322,14 +4348,14 @@ Team B第五任隊長<br />
 <td><p>AKS</p></td>
 <td><p>1月29日</p></td>
 <td><p>畢業</p></td>
-<td><p>[230]</p></td>
+<td><p>[231]</p></td>
 </tr>
 <tr class="odd">
 <td><p>佐賀</p></td>
 <td><p>福地禮奈</p></td>
 <td><p>-</p></td>
 <td><p>5月13日</p></td>
-<td><p>[231]</p></td>
+<td><p>[232]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4341,7 +4367,7 @@ Team B第五任隊長<br />
 <td><p>谷優里</p></td>
 <td><p>-</p></td>
 <td><p>6月24日</p></td>
-<td><p>[232]</p></td>
+<td><p>[233]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4353,7 +4379,7 @@ Team B第五任隊長<br />
 <td><p>濱松里緒菜</p></td>
 <td><p>-</p></td>
 <td><p>7月2日</p></td>
-<td><p>[233]</p></td>
+<td><p>[234]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4365,7 +4391,7 @@ Team B第五任隊長<br />
 <td><p>阿部芽唯</p></td>
 <td><p>-</p></td>
 <td><p>8月20日</p></td>
-<td><p>[234]</p></td>
+<td><p>[235]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4394,14 +4420,14 @@ Team B第五任隊長<br />
 <td><p>AKS</p></td>
 <td><p>2月18日</p></td>
 <td><p>畢業</p></td>
-<td><p>[235][236]</p></td>
+<td><p>[236][237]</p></td>
 </tr>
 <tr class="odd">
 <td><p>高知</p></td>
 <td><p>廣瀨夏樹</p></td>
 <td><p>-</p></td>
 <td><p>3月4日</p></td>
-<td><p>[237][238]</p></td>
+<td><p>[238][239]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4413,7 +4439,7 @@ Team B第五任隊長<br />
 <td><p><a href="../Page/早坂紬.md" title="wikilink">早坂紬</a></p></td>
 <td><p>-</p></td>
 <td><p>4月20日</p></td>
-<td><p>毕业前兼任Team A[239][240]</p></td>
+<td><p>毕业前兼任Team A[240][241]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4425,7 +4451,7 @@ Team B第五任隊長<br />
 <td><p>下青木香鈴</p></td>
 <td><p>-</p></td>
 <td><p>8月10日</p></td>
-<td><p>毕业前兼任Team A[241][242][243]</p></td>
+<td><p>毕业前兼任Team A[242][243][244]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4437,7 +4463,7 @@ Team B第五任隊長<br />
 <td><p>谷口萌香</p></td>
 <td><p>-</p></td>
 <td><p>11月4日</p></td>
-<td><p>畢業前兼任Team K[244][245]</p></td>
+<td><p>畢業前兼任Team K[245][246]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4466,7 +4492,7 @@ Team B第五任隊長<br />
 <td><p>rowspan="11|AKS</p></td>
 <td><p>2月2日</p></td>
 <td><p>畢業</p></td>
-<td><p>畢業前兼任Team A[246][247]</p></td>
+<td><p>畢業前兼任Team A[247][248]</p></td>
 </tr>
 <tr class="odd">
 <td><p>三重</p></td>
@@ -4475,7 +4501,7 @@ Team B第五任隊長<br />
 <td><p>High Tension</p></td>
 <td><p>-</p></td>
 <td><p>5月5日</p></td>
-<td><p>畢業前兼任Team 4[248]</p></td>
+<td><p>畢業前兼任Team 4[249]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4487,7 +4513,7 @@ Team B第五任隊長<br />
 <td><p>心意告示牌</p></td>
 <td><p>-</p></td>
 <td><p>5月18日</p></td>
-<td><p>畢業前兼任Team K[249][250]</p></td>
+<td><p>畢業前兼任Team K[250][251]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4497,7 +4523,7 @@ Team B第五任隊長<br />
 <td><p>人見古都音</p></td>
 <td><p>-</p></td>
 <td><p>5月20日</p></td>
-<td><p>畢業前兼任Team A[251]</p></td>
+<td><p>畢業前兼任Team A[252]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4510,7 +4536,7 @@ Team B第五任隊長<br />
 <td><p>2</p></td>
 <td><p>85</p></td>
 <td><p>5月30日</p></td>
-<td><p>畢業前兼任Team K[252]</p></td>
+<td><p>畢業前兼任Team K[253]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4522,7 +4548,7 @@ Team B第五任隊長<br />
 <td><p>-</p></td>
 <td><p>96</p></td>
 <td><p>5月31日</p></td>
-<td><p>畢業前兼任Team A[253]</p></td>
+<td><p>畢業前兼任Team A[254]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4534,7 +4560,7 @@ Team B第五任隊長<br />
 <td><p>-</p></td>
 <td><p>圈外</p></td>
 <td><p>6月8日</p></td>
-<td><p>畢業前兼任Team B[254]</p></td>
+<td><p>畢業前兼任Team B[255]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4546,7 +4572,7 @@ Team B第五任隊長<br />
 <td><p>1</p></td>
 <td><p>95</p></td>
 <td><p>6月22日</p></td>
-<td><p>畢業前兼任Team K[255]</p></td>
+<td><p>畢業前兼任Team K[256]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4560,7 +4586,7 @@ Team B第五任隊長<br />
 <td><p>-</p></td>
 <td><p>圈外</p></td>
 <td><p>8月12日</p></td>
-<td><p>当日毕业[256]</p></td>
+<td><p>当日毕业[257]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -4572,7 +4598,7 @@ Team B第五任隊長<br />
 <td><p>-</p></td>
 <td><p>9月30日</p></td>
 <td><p>rowspan="2|畢業（預定）</p></td>
-<td><p>畢業前兼任Team 4[257][258]</p></td>
+<td><p>畢業前兼任Team 4[258][259]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -4583,7 +4609,7 @@ Team B第五任隊長<br />
 <td><p>High Tension</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>畢業前兼任Team K[259]</p></td>
+<td><p>畢業前兼任Team K[260]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4631,7 +4657,7 @@ Team B第五任隊長<br />
 <td><p>AKS</p></td>
 <td><p>12月19日</p></td>
 <td><p>請辭</p></td>
-<td><p>[260]</p></td>
+<td><p>[261]</p></td>
 </tr>
 <tr class="odd">
 <td><p>大塚亞季</p></td>
@@ -4698,7 +4724,7 @@ Team B第五任隊長<br />
 <td><p>AKS</p></td>
 <td><p>11月15日以前</p></td>
 <td><p>請辭</p></td>
-<td><p>[261]</p></td>
+<td><p>[262]</p></td>
 </tr>
 <tr class="odd">
 <td><p>金子智美</p></td>
@@ -4749,9 +4775,9 @@ Team B第五任隊長<br />
 <td><p><a href="https://zh.wikipedia.org/wiki/妳正在看着夕陽嗎？" title="wikilink">妳正在看着夕陽嗎？</a></p></td>
 <td><p>11月26日</p></td>
 <td><p>畢業</p></td>
-<td><p>[262]<br />
-之後成為SKE48 Team S成員[263]<br />
-於2014年4月29日畢業[264]</p></td>
+<td><p>[263]<br />
+之後成為SKE48 Team S成員[264]<br />
+於2014年4月29日畢業[265]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4789,17 +4815,17 @@ Team B第五任隊長<br />
 <td><p>AKS</p></td>
 <td><p>7月31日</p></td>
 <td><p>請辭</p></td>
-<td><p>[265]</p></td>
+<td><p>[266]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/中西優香.md" title="wikilink">中西優香</a></p></td>
 <td><p>4期</p></td>
 <td><p>8月26日</p></td>
 <td><p>移籍SKE48</p></td>
-<td><p>[266]<br />
-SKE48第一任總隊長[267]<br />
-SKE48 Team S第二任隊長[268]<br />
-2015年4月12日自Team S畢業[269]</p></td>
+<td><p>[267]<br />
+SKE48第一任總隊長[268]<br />
+SKE48 Team S第二任隊長[269]<br />
+2015年4月12日自Team S畢業[270]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4810,7 +4836,7 @@ SKE48 Team S第二任隊長[268]<br />
 <td><p>6期</p></td>
 <td><p>8月31日</p></td>
 <td><p>請辭</p></td>
-<td><p>[270]</p></td>
+<td><p>[271]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4836,14 +4862,14 @@ SKE48 Team S第二任隊長[268]<br />
 <td><p>AKS</p></td>
 <td><p>1月16日</p></td>
 <td><p>畢業</p></td>
-<td><p>[271]</p></td>
+<td><p>[272]</p></td>
 </tr>
 <tr class="odd">
 <td><p>有馬優茄</p></td>
 <td><p>5期</p></td>
 <td><p>大聲鑽石</p></td>
 <td><p>1月19日</p></td>
-<td><p>甄選審査不合格[272]</p></td>
+<td><p>甄選審査不合格[273]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4887,7 +4913,7 @@ SKE48 Team S第二任隊長[268]<br />
 <td><p>3期</p></td>
 <td><p>Baby! Baby! Baby!</p></td>
 <td><p>4月18日</p></td>
-<td><p>[273]</p></td>
+<td><p>[274]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4898,7 +4924,7 @@ SKE48 Team S第二任隊長[268]<br />
 <td><p>4期</p></td>
 <td><p>大聲鑽石</p></td>
 <td><p>4月26日</p></td>
-<td><p>[274]</p></td>
+<td><p>[275]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4909,7 +4935,7 @@ SKE48 Team S第二任隊長[268]<br />
 <td><p>7期</p></td>
 <td><p>-</p></td>
 <td><p>6月9日</p></td>
-<td><p>[275]</p></td>
+<td><p>[276]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4921,7 +4947,7 @@ SKE48 Team S第二任隊長[268]<br />
 <td><p>未參加</p></td>
 <td><p>7月14日</p></td>
 <td><p>請辭</p></td>
-<td><p>[276]</p></td>
+<td><p>[277]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4931,7 +4957,7 @@ SKE48 Team S第二任隊長[268]<br />
 <td><p>7期</p></td>
 <td><p>圈外</p></td>
 <td><p>7月18日</p></td>
-<td><p>[277]</p></td>
+<td><p>[278]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4943,9 +4969,9 @@ SKE48 Team S第二任隊長[268]<br />
 <td><p>未參加</p></td>
 <td><p>7月25日</p></td>
 <td><p>解僱</p></td>
-<td><p>[278]<br />
+<td><p>[279]<br />
 後來成為<a href="https://zh.wikipedia.org/wiki/乃木坂46" title="wikilink">乃木坂46的研究生</a><br />
-於2014年3月22日結束活動[279]</p></td>
+於2014年3月22日結束活動[280]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5082,13 +5108,13 @@ SKE48 Team S第二任隊長[268]<br />
 <td><p>AKS</p></td>
 <td><p>1月6日</p></td>
 <td><p>請辭</p></td>
-<td><p>[280]</p></td>
+<td><p>[281]</p></td>
 </tr>
 <tr class="odd">
 <td><p>今井悠理枝</p></td>
 <td><p>8期</p></td>
 <td><p>2月1日</p></td>
-<td><p>[281]</p></td>
+<td><p>[282]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5103,7 +5129,7 @@ SKE48 Team S第二任隊長[268]<br />
 <td><p>6月20日</p></td>
 <td><p>畢業</p></td>
 <td><p>甄選審査不合格，<br />
-高松惠理退出[282]</p></td>
+高松惠理退出[283]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -5145,7 +5171,7 @@ SKE48 Team S第二任隊長[268]<br />
 （）</p></td>
 <td><p>8期</p></td>
 <td><p>7月6日</p></td>
-<td><p>[283]</p></td>
+<td><p>[284]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5159,7 +5185,7 @@ SKE48 Team S第二任隊長[268]<br />
 <td><p>未參加</p></td>
 <td><p>10月5日</p></td>
 <td><p>畢業</p></td>
-<td><p>甄選審査不合格[284]</p></td>
+<td><p>甄選審査不合格[285]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -5181,7 +5207,7 @@ SKE48 Team S第二任隊長[268]<br />
 <td><p>未參加</p></td>
 <td><p>10月23日</p></td>
 <td><p>請辭</p></td>
-<td><p>[285]</p></td>
+<td><p>[286]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -5189,7 +5215,7 @@ SKE48 Team S第二任隊長[268]<br />
 <td><p>岡崎千波<br />
 （）</p></td>
 <td><p>10月27日</p></td>
-<td><p>[286]</p></td>
+<td><p>[287]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5200,7 +5226,7 @@ SKE48 Team S第二任隊長[268]<br />
 <tr class="odd">
 <td><p>川上麻里奈</p></td>
 <td><p>12月3日</p></td>
-<td><p>[287]</p></td>
+<td><p>[288]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5228,8 +5254,8 @@ SKE48 Team S第二任隊長[268]<br />
 <td><p>AKS</p></td>
 <td><p>2月20日</p></td>
 <td><p>請辭</p></td>
-<td><p>[288]<br />
-後成為<a href="../Page/GEM_(女子團體).md" title="wikilink">GEM隊長</a>，現為<a href="../Page/SUPER☆GiRLS.md" title="wikilink">SUPER☆GiRLS</a>成員[289]</p></td>
+<td><p>[289]<br />
+後成為<a href="../Page/GEM_(女子團體).md" title="wikilink">GEM隊長</a>，現為<a href="../Page/SUPER☆GiRLS.md" title="wikilink">SUPER☆GiRLS</a>成員[290]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/牛窪紗良.md" title="wikilink">牛窪紗良</a></p></td>
@@ -5237,7 +5263,7 @@ SKE48 Team S第二任隊長[268]<br />
 <td><p>變成櫻花樹</p></td>
 <td><p>退選</p></td>
 <td><p>6月19日</p></td>
-<td><p>[290]</p></td>
+<td><p>[291]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5273,7 +5299,7 @@ SKE48 Team S第二任隊長[268]<br />
 <td><p>AKS</p></td>
 <td><p>3月31日</p></td>
 <td><p>請辭</p></td>
-<td><p>[291]</p></td>
+<td><p>[292]</p></td>
 </tr>
 <tr class="even">
 <td><p>雨宫舞夏</p></td>
@@ -5282,7 +5308,7 @@ SKE48 Team S第二任隊長[268]<br />
 <td><p>圈外</p></td>
 <td><p>8月5日</p></td>
 <td><p>畢業</p></td>
-<td><p>甄選審査不合格[292][293]</p></td>
+<td><p>甄選審査不合格[293][294]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -5338,7 +5364,7 @@ SKE48 Team S第二任隊長[268]<br />
 <td><p>风正在吹</p></td>
 <td><p>10月7日</p></td>
 <td><p>請辭</p></td>
-<td><p>[294]</p></td>
+<td><p>[295]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5364,7 +5390,7 @@ SKE48 Team S第二任隊長[268]<br />
 <td><p>5月8日</p></td>
 <td><p>毕业</p></td>
 <td><p>虛擬偶像<br />
-从组合官方网站删除[295]</p></td>
+从组合官方网站删除[296]</p></td>
 </tr>
 <tr class="even">
 <td><p>2017年</p></td>
@@ -5386,7 +5412,7 @@ SKE48 Team S第二任隊長[268]<br />
 <td><p>AKS</p></td>
 <td><p>3月31日</p></td>
 <td><p>請辭</p></td>
-<td><p>[296]</p></td>
+<td><p>[297]</p></td>
 </tr>
 <tr class="even">
 <td><p>高橋希良</p></td>
@@ -5399,8 +5425,8 @@ SKE48 Team S第二任隊長[268]<br />
 <td><p>畢業</p></td>
 <td><p>元打工AKB成員<br />
 選秀隊伍為Team B<br />
-[297]<br />
-目前以藝名「高橋希來」從事演藝活動[298]</p></td>
+[298]<br />
+目前以藝名「高橋希來」從事演藝活動[299]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -5413,7 +5439,7 @@ SKE48 Team S第二任隊長[268]<br />
 <td><p>8月13日</p></td>
 <td><p>選秀隊伍為Team K<br />
 妹妹為SKE48成員野村實代<br />
-[299]</p></td>
+[300]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -5439,7 +5465,7 @@ SKE48 Team S第二任隊長[268]<br />
 <td><p>8月22日</p></td>
 <td><p>請辭</p></td>
 <td><p>選秀隊伍為Team 4<br />
-[300]</p></td>
+[301]</p></td>
 </tr>
 <tr class="even">
 <td><p>神山莉穗</p></td>
@@ -5447,7 +5473,7 @@ SKE48 Team S第二任隊長[268]<br />
 <td><p>-</p></td>
 <td><p>10月20日</p></td>
 <td><p>選秀隊伍為Team B<br />
-[301][302]</p></td>
+[302][303]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5461,7 +5487,7 @@ SKE48 Team S第二任隊長[268]<br />
 <td><p>-</p></td>
 <td><p>11月4日</p></td>
 <td><p>畢業</p></td>
-<td><p>所属队伍为Team A[303][304]</p></td>
+<td><p>所属队伍为Team A[304][305]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -5471,7 +5497,7 @@ SKE48 Team S第二任隊長[268]<br />
 <td><p>-</p></td>
 <td><p>11月25日</p></td>
 <td><p>請辭</p></td>
-<td><p>所屬隊伍為Team B[305]</p></td>
+<td><p>所屬隊伍為Team B[306]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5496,7 +5522,7 @@ SKE48 Team S第二任隊長[268]<br />
 <td><p>-</p></td>
 <td><p>5月11日</p></td>
 <td><p>請辭</p></td>
-<td><p>所屬隊伍為Team B[306]</p></td>
+<td><p>所屬隊伍為Team B[307]</p></td>
 </tr>
 <tr class="odd">
 <td><p>勝又彩央里</p></td>
@@ -5506,7 +5532,7 @@ SKE48 Team S第二任隊長[268]<br />
 <td><p>未參加</p></td>
 <td><p>-</p></td>
 <td><p>6月28日</p></td>
-<td><p>所屬隊伍為Team K[307][308]</p></td>
+<td><p>所屬隊伍為Team K[308][309]</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -5553,8 +5579,8 @@ SKE48 Team S第二任隊長[268]<br />
 <td><p>9月1日</p></td>
 <td><p>畢業</p></td>
 <td><p>與<a href="../Page/江崎固力果.md" title="wikilink">江崎固力果</a>合作的「大人AKB」企劃出道，<br />
-企劃結束時畢業[309]<br />
-[310]</p></td>
+企劃結束時畢業[310]<br />
+[311]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2015年</p></td>
@@ -5577,7 +5603,7 @@ SKE48 Team S第二任隊長[268]<br />
 <td><p>2月28日</p></td>
 <td><p>打工AKB企劃<br />
 的活動契約結束</p></td>
-<td><p>[311]<br />
+<td><p>[312]<br />
 曾入選第二屆AKB48集團選秀會議候選者，<br />
 最終未能入選成為第2期選秀生</p></td>
 </tr>
@@ -5586,7 +5612,7 @@ SKE48 Team S第二任隊長[268]<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[312]</p></td>
+<td><p>[313]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5597,7 +5623,7 @@ SKE48 Team S第二任隊長[268]<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[313]</p></td>
+<td><p>[314]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5608,7 +5634,7 @@ SKE48 Team S第二任隊長[268]<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[314]</p></td>
+<td><p>[315]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5619,7 +5645,7 @@ SKE48 Team S第二任隊長[268]<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[315]</p></td>
+<td><p>[316]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5630,7 +5656,7 @@ SKE48 Team S第二任隊長[268]<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[316]</p></td>
+<td><p>[317]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5641,7 +5667,7 @@ SKE48 Team S第二任隊長[268]<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[317]</p></td>
+<td><p>[318]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5652,7 +5678,7 @@ SKE48 Team S第二任隊長[268]<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[318]<br />
+<td><p>[319]<br />
 AKB48集團第2期選秀生<br />
 後成為SKE48 Team S成員，2018年12月28日畢業</p></td>
 <td></td>
@@ -5665,7 +5691,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[319]</p></td>
+<td><p>[320]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5676,7 +5702,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[320]</p></td>
+<td><p>[321]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5687,7 +5713,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[321]</p></td>
+<td><p>[322]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5698,7 +5724,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[322]</p></td>
+<td><p>[323]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5709,9 +5735,9 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[323]<br />
+<td><p>[324]<br />
 AKB48集團第2期選秀生<br />
-現為NGT48 Team NIII副隊長[324]</p></td>
+現為NGT48 Team NIII副隊長[325]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5723,7 +5749,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[325]</p></td>
+<td><p>[326]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5734,7 +5760,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[326]</p></td>
+<td><p>[327]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5745,7 +5771,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[327]</p></td>
+<td><p>[328]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5756,7 +5782,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[328]<br />
+<td><p>[329]<br />
 曾入選第二屆AKB48集團選秀會議候選者，<br />
 最終未能入選成為第2期選秀生</p></td>
 <td></td>
@@ -5769,7 +5795,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[329]</p></td>
+<td><p>[330]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5780,7 +5806,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[330]</p></td>
+<td><p>[331]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5791,7 +5817,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[331]</p></td>
+<td><p>[332]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5802,7 +5828,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[332]</p></td>
+<td><p>[333]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5813,7 +5839,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[333]<br />
+<td><p>[334]<br />
 曾入選第二屆AKB48集團選秀會議候選者，<br />
 最終未能入選成為第2期選秀生<br />
 現為NGT48 Team G成員</p></td>
@@ -5827,7 +5853,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[334]</p></td>
+<td><p>[335]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5838,7 +5864,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[335]</p></td>
+<td><p>[336]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5849,7 +5875,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[336]</p></td>
+<td><p>[337]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5860,7 +5886,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[337]</p></td>
+<td><p>[338]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5882,7 +5908,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[338]<br />
+<td><p>[339]<br />
 現為偶像團體Dream Ability成員</p></td>
 <td></td>
 <td></td>
@@ -5894,9 +5920,9 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[339]<br />
+<td><p>[340]<br />
 曾為AKB48集團第2期選秀生<br />
-後成為NMB48研究生，2016年5月3日畢業[340]</p></td>
+後成為NMB48研究生，2016年5月3日畢業[341]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5907,7 +5933,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[341]</p></td>
+<td><p>[342]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5918,7 +5944,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[342]<br />
+<td><p>[343]<br />
 曾入選第二屆AKB48集團選秀會議候選者，<br />
 最終未能入選成為第2期選秀生<br />
 現為NGT48 Team NIII成員</p></td>
@@ -5932,7 +5958,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[343]</p></td>
+<td><p>[344]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5943,7 +5969,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[344]</p></td>
+<td><p>[345]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5954,7 +5980,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[345]</p></td>
+<td><p>[346]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5965,7 +5991,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[346]</p></td>
+<td><p>[347]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5976,7 +6002,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[347]</p></td>
+<td><p>[348]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5987,7 +6013,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[348]</p></td>
+<td><p>[349]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5998,7 +6024,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[349]</p></td>
+<td><p>[350]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6009,7 +6035,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[350]</p></td>
+<td><p>[351]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6020,7 +6046,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[351]<br />
+<td><p>[352]<br />
 AKB48集團第2期選秀生<br />
 現為NGT48 Team NIII成員</p></td>
 <td></td>
@@ -6033,7 +6059,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[352]<br />
+<td><p>[353]<br />
 現為偶像團體Re：Girl's成員</p></td>
 <td></td>
 <td></td>
@@ -6045,7 +6071,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[353]</p></td>
+<td><p>[354]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6056,7 +6082,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[354]</p></td>
+<td><p>[355]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6068,7 +6094,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[355]<br />
+<td><p>[356]<br />
 AKB48集團第2期選秀生<br />
 現為HKT48 Team TII成員</p></td>
 <td></td>
@@ -6081,7 +6107,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[356]</p></td>
+<td><p>[357]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6092,7 +6118,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[357]</p></td>
+<td><p>[358]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6103,7 +6129,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[358]<br />
+<td><p>[359]<br />
 曾入選第二屆AKB48集團選秀會議候選者，<br />
 最終未能入選成為第2期選秀生</p></td>
 <td></td>
@@ -6116,7 +6142,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[359]</p></td>
+<td><p>[360]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6127,7 +6153,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[360]</p></td>
+<td><p>[361]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6155,14 +6181,14 @@ AKB48集團第2期選秀生<br />
 <td><p>打工AKB企劃<br />
 （Paruru選拔）<br />
 的活動契約結束</p></td>
-<td><p>[361]</p></td>
+<td><p>[362]</p></td>
 </tr>
 <tr class="odd">
 <td><p>日出有香</p></td>
 <td><p>-</p></td>
 <td><p>LOVE TRIP/分享幸福</p></td>
 <td><p>-</p></td>
-<td><p>[362]</p></td>
+<td><p>[363]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6188,7 +6214,7 @@ AKB48集團第2期選秀生<br />
 <td><p>JKT48 Project</p></td>
 <td><p>10月15日</p></td>
 <td><p>短期留學結束</p></td>
-<td><p>[363]<br />
+<td><p>[364]<br />
 時為JKT48 Team J成员</p></td>
 </tr>
 <tr class="even">
@@ -6197,7 +6223,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>BNK48 Office</p></td>
-<td><p>[364]<br />
+<td><p>[365]<br />
 時為BNK48 Team BIII成员</p></td>
 <td></td>
 <td></td>
@@ -6341,14 +6367,14 @@ AKB48集團第2期選秀生<br />
 79.
 
 80.
+
 81.
 82.
 83.
-
 84.
+
 85.
 86.
-
 87.
 
 88.
@@ -6364,8 +6390,8 @@ AKB48集團第2期選秀生<br />
 93.
 
 94.
-95.
 
+95.
 96.
 
 97.
@@ -6375,17 +6401,17 @@ AKB48集團第2期選秀生<br />
 99.
 
 100.
-101.
 
+101.
 102.
 
 103.
+
 104.
 105.
-
 106.
-107.
 
+107.
 108.
 
 109.
@@ -6425,9 +6451,9 @@ AKB48集團第2期選秀生<br />
 126.
 
 127.
+
 128.
 129.
-
 130.
 
 131.
@@ -6445,13 +6471,13 @@ AKB48集團第2期選秀生<br />
 137.
 
 138.
-139.
 
+139.
 140.
+
 141.
 142.
 143.
-
 144.
 
 145.
@@ -6459,8 +6485,8 @@ AKB48集團第2期選秀生<br />
 146.
 
 147.
-148.
 
+148.
 149.
 
 150.
@@ -6472,8 +6498,8 @@ AKB48集團第2期選秀生<br />
 153.
 
 154.
-155.
 
+155.
 156.
 
 157.
@@ -6505,30 +6531,30 @@ AKB48集團第2期選秀生<br />
 170.
 
 171.
+
 172.
-
 173.
-174.
 
+174.
 175.
+
 176.
 177.
-
 178.
 
 179.
-180.
 
+180.
 181.
 
 182.
 
 183.
+
 184.
-
 185.
-186.
 
+186.
 187.
 
 188.
@@ -6536,8 +6562,8 @@ AKB48集團第2期選秀生<br />
 189.
 
 190.
-191.
 
+191.
 192.
 
 193.
@@ -6551,10 +6577,10 @@ AKB48集團第2期選秀生<br />
 197.
 
 198.
+
 199.
 200.
 201.
-
 202.
 
 203.
@@ -6582,14 +6608,14 @@ AKB48集團第2期選秀生<br />
 214.
 
 215.
+
 216.
-
 217.
+
 218.
-
 219.
-220.
 
+220.
 221.
 
 222.
@@ -6623,8 +6649,8 @@ AKB48集團第2期選秀生<br />
 236.
 
 237.
-238.
 
+238.
 239.
 
 240.
@@ -6678,22 +6704,22 @@ AKB48集團第2期選秀生<br />
 264.
 
 265.
-266.
 
+266.
 267.
 
 268.
+
 269.
-
 270.
+
 271.
-
 272.
+
 273.
-
 274.
-275.
 
+275.
 276.
 
 277.
@@ -6765,6 +6791,7 @@ AKB48集團第2期選秀生<br />
 310.
 
 311.
+
 312.
 313.
 314.
@@ -6778,8 +6805,8 @@ AKB48集團第2期選秀生<br />
 322.
 323.
 324.
-
 325.
+
 326.
 327.
 328.
@@ -6795,8 +6822,8 @@ AKB48集團第2期選秀生<br />
 338.
 339.
 340.
-
 341.
+
 342.
 343.
 344.
@@ -6817,8 +6844,9 @@ AKB48集團第2期選秀生<br />
 359.
 360.
 361.
-
 362.
-363.
 
+363.
 364.
+
+365.

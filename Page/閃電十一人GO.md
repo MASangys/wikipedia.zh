@@ -1,4 +1,4 @@
-）是[LEVEL-5](../Page/LEVEL-5.md "wikilink")製作的[任天堂3DS](../Page/任天堂3DS.md "wikilink")用收集育成[足球](../Page/足球.md "wikilink")[角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")，最初於2011年在日本发售，为《[閃電十一人](../Page/閃電十一人系列.md "wikilink")》系列續篇。本作分为“光明”（）与“黑暗”（）两个版本，另外也在2011年5月4日播放本作的[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。第二季於2012年4月18日開播。台灣則由卡通頻道於2013年5月13日播出。香港則由[無綫兒童台於](https://zh.wikipedia.org/wiki/無綫兒童台 "wikilink")2012年12月18日播映。
+）是[LEVEL-5](../Page/LEVEL-5.md "wikilink")製作的[任天堂3DS](../Page/任天堂3DS.md "wikilink")用收集育成[足球](../Page/足球.md "wikilink")[角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")，最初於2011年在日本发售，为《[閃電十一人](../Page/閃電十一人系列.md "wikilink")》系列續篇。本作分为“光明”（）与“黑暗”（）两个版本，另外也在2011年5月4日播放本作的[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，於2012年4月11日播畢。第二季於2012年4月18日開播，於2013年5月1日播畢。第三季於2013年5月8日開播，於2014年3月19日播畢。台灣則由卡通頻道於2013年5月13日播出。香港則由[無綫兒童台於](https://zh.wikipedia.org/wiki/無綫兒童台 "wikilink")2012年12月18日播映。
 
 ## 概要
 

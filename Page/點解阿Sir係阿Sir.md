@@ -730,7 +730,7 @@ Macy之男友<br />
 倪鋒、盛世龍之法律顧問</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/江富強" title="wikilink">江富強</a></p></td>
+<td><p><a href="../Page/江富強.md" title="wikilink">江富強</a></p></td>
 <td><p>澤</p></td>
 <td><p><strong>澤哥</strong><br />
 黑社會成員<br />

@@ -1,4 +1,4 @@
-**HK121**是一挺由[德国](../Page/德国.md "wikilink")[黑克勒-科赫設計和生產的](../Page/黑克勒&科赫.md "wikilink")[通用機槍](../Page/通用機槍.md "wikilink")，發射[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑制式](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
+**HK121**是一挺由[德国](../Page/德国.md "wikilink")[黑克勒-科赫所設計和生產的](../Page/黑克勒&科赫.md "wikilink")[通用機槍](../Page/通用機槍.md "wikilink")，發射[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑制式](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 這種武器是為了取代[莱茵金属](../Page/莱茵金属.md "wikilink")公司的[MG3通用機槍](../Page/MG3通用機槍.md "wikilink")而設計的。\[1\]獲[德國聯邦國防軍](../Page/德國聯邦國防軍.md "wikilink")所採用並命名為**MG5**。
 
@@ -12,7 +12,7 @@
 
 ## 設計細節
 
-HK121（MG5）在外形上是以[HK MG4](../Page/HK_MG4輕機槍.md "wikilink")（MG43）為藍本，均採用[氣動式操作自動原理](../Page/氣動式_\(槍械\).md "wikilink")，槍機為[轉拴式槍栓](../Page/轉拴式槍栓.md "wikilink")閉鎖方式，[開膛待擊](../Page/開放式槍栓.md "wikilink")，以及只能全自动射击。其重量和長度比德國[莱茵金属](../Page/莱茵金属.md "wikilink")[MG3和比利時](../Page/MG3通用機槍.md "wikilink")[FN](https://zh.wikipedia.org/wiki/Fabrique_Nationale "wikilink") [MAG](../Page/FN_MAG通用機槍.md "wikilink")（[M240](../Page/M240通用機槍.md "wikilink")）兩款通用機槍稍小。而且總體設計佈局方式採用絕大多數彈鏈供彈的經典型機槍佈局方案，導氣機構置於槍管軸線下方，而從正上方進彈以便於裝填。
+HK121（MG5）在外形上是以[HK MG4](../Page/HK_MG4輕機槍.md "wikilink")（MG43）為藍本，均採用[氣動式操作自動原理](../Page/氣動式_\(槍械\).md "wikilink")，槍機為[轉拴式槍栓](../Page/轉拴式槍栓.md "wikilink")閉鎖方式，[開膛待擊](../Page/開放式槍栓.md "wikilink")，以及只能全自动射击。其重量和長度比德國[莱茵金属](../Page/莱茵金属.md "wikilink")[MG3和比利時](../Page/MG3通用機槍.md "wikilink")[FN](../Page/埃斯塔勒国营工厂.md "wikilink") [MAG](../Page/FN_MAG通用機槍.md "wikilink")（[M240](../Page/M240通用機槍.md "wikilink")）兩款通用機槍稍小。而且總體設計佈局方式採用絕大多數彈鏈供彈的經典型機槍佈局方案，導氣機構置於槍管軸線下方，而從正上方進彈以便於裝填。
 
 HK121採用模組化設計，其擁有不同長度槍管，不同型式[槍托](../Page/槍托.md "wikilink")、護木、握把，不同容彈量彈鏈箱以及多種附件。通過以上不同組件、附件的組合，可以組合出通HK121 U通用型（德國聯邦國防軍命名為MG5）、HK121 I步兵型（德國聯邦國防軍命名為MG5A2）、HK121 S特種部隊型（德國聯邦國防軍命名為MG5S）和HK121 EBW[同轴机枪型](../Page/同軸武器.md "wikilink")（德國聯邦國防軍命名為MG5A1）。這些組合基本涵蓋了能用到7.62×51mm通用機槍的所有場合。
 

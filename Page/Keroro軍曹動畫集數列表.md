@@ -1,4 +1,4 @@
-以下是[日本](../Page/日本.md "wikilink")人氣[動漫](../Page/動漫.md "wikilink")《[Keroro軍曹](../Page/Keroro軍曹.md "wikilink")》的集数介紹及各季列表，由東京電視台負責播放 ; 此外，所有與原作劇情相符的內容，將以●為記號。
+以下是[日本](../Page/日本.md "wikilink")人氣[動漫](../Page/動漫.md "wikilink")《[Keroro軍曹](../Page/Keroro軍曹.md "wikilink")》的集数介紹及各季列表，早於2000年開始由東京電視台負責播放 ; 此外，所有與原作劇情相符的內容，將以●為記號。
 
 ## 第一季
 

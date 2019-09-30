@@ -204,8 +204,8 @@
 </tr>
 <tr class="odd">
 <td><p>MIUI 10</p></td>
-<td><p>Android 6.0.1-9.0</p></td>
-<td><p>9.4.26</p></td>
+<td><p>Android 6.0.1-10.0</p></td>
+<td><p>9.9.3</p></td>
 <td></td>
 </tr>
 <tr class="even">

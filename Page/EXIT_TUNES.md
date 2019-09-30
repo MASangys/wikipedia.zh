@@ -22,7 +22,11 @@ EXIT TUNES最初僅以推出外語電子混音及純電子音樂為主。
 
 ## 後期情況
 
-可惜，提供的編曲者及唱者的背景資料不足，缺乏討論空間，作品又經常反覆收錄過往的舊曲集成一張COMPLETE BEST專輯，專輯出產的密度越來越高但欠缺宣傳，銷售量漸漸每況愈下。直到2015年1月，EXIT TUNES推出「SPEED アニメトランス BEST」系列最後一張「BEST THE FINAL」為名的專輯，正式為這長達七年多的混音系列畫上句號。
+可惜，提供的編曲者及唱者的背景資料不足，缺乏討論空間，作品又經常反覆收錄過往的舊曲集成一張COMPLETE BEST專輯，專輯出產的密度越來越高但欠缺宣傳，銷售量漸漸每況愈下。
+
+自2010年始，更因日本音乐市场转变、资源分配等多方面的压力影响，而出现EXIT TRANCE中主干混音成员相继离巢的风波，主成员Ryu☆、Starving Trancer与森永真由美等人，则因忙于发展KONAMI音乐与个人事业等而减少EXIT TRANCE的亮相，令EXIT TRANCE产量由以往最高峰的每月3-4张TRANCE专辑，大幅减至数个月1-2张，回到刚起步时的水平。QUAKE目前主要把资源转拨往较受大众欢迎、销售量较高的VOCALOID与同人歌唱的市场发展。时至今天，同人歌唱跟VOCALOID专辑的热情度依然很高，而至2011年，EXIT TRANCE作品几乎全面停产，只剩下动画主题曲每隔一季推出一张。部分混音作家也转而专注Quake的内部工作或处理由Quake承接的音乐工程，部分亦开始发展其私人事业。像Dizzi Mystica，他便与好友研发了一只名为soundcell的混音软件，并同时销售自家的混音样本，不无小赚。
+
+在此风气下，其他编曲成员也逐渐另某发展。Ryu☆继续在TRANCE领域上作多方面的创作，而他与伙伴Starving Trancer所创的小组“Another Infinity”，不单在KONAMI打响名号，近期更被邀请参与动画　FAIRY TAIL　的第9开场主题曲、由Daisy×Daisy演唱的“永久のキズナ”编曲，并连同164,40mP,cosMo＠暴走P等著名VOCALOID作曲家的作品，收录在“永久のキズナ”单曲CD中。而继Icon创立LiLA'c Records后，MK是另一位抽身于EXIT TUNES后主力负责同人组织主要工作的成员；其后更有来自Starving Trancer、mitsu、B.U.S等人　以意想不到的别称另创自家同人组织，创作东方、VOCALOID等同人音乐，并在东方及动漫活动场地贩卖及宣传。 直到2015年1月，EXIT TUNES推出「SPEED アニメトランス BEST」系列最後一張「BEST THE FINAL」為名的專輯，正式為這長達七年多的混音系列畫上句號。
 
 ## 參與成員一覽
 

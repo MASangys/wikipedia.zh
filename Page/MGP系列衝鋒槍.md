@@ -20,7 +20,7 @@ MGP-87是MGP-79A的升級版本，在1987年開始生產。\[10\]和它的前身
 
 ### MGP-15
 
-MGP-15在1990年開始生產。\[13\]在裝備MGP-15後的[秘鲁](https://zh.wikipedia.org/wiki/秘鲁軍隊 "wikilink")[特種部隊](../Page/特種部隊.md "wikilink")後不久就開始取代[白朗寧大威力](../Page/白朗寧大威力手槍.md "wikilink")[手枪](../Page/手枪.md "wikilink")（Browning Hi-Power）。\[14\]
+MGP-15在1990年開始生產。\[13\]在裝備MGP-15後的[秘鲁](https://zh.wikipedia.org/wiki/秘鲁軍隊 "wikilink")[特種部隊](../Page/特種部隊.md "wikilink")後不久就開始取代[白朗寧大威力](../Page/白朗寧大威力半自動手槍.md "wikilink")[半自動](../Page/半自動手槍.md "wikilink")[手枪](../Page/手枪.md "wikilink")（Browning Hi-Power）。\[14\]
 
 #### MGP-84
 
@@ -28,7 +28,7 @@ MGP-15在1990年開始生產。\[13\]在裝備MGP-15後的[秘鲁](https://zh.wi
 
 ##### MGP-14
 
-**MGP-14**是MGP-84的半自動射擊型戰鬥衝鋒槍版本\[17\]\[18\]，其中還有一個可折疊式[前握把](../Page/輔助握把.md "wikilink")。前稱為**MGP-84C**\[19\]\[20\]。也被稱為**MGP-14 “微型”**\[21\]或是**MGP-14式手槍**\[22\]。
+**MGP-14**是MGP-84的半自動射擊型戰鬥衝鋒槍版本\[17\]\[18\]，其中還有一個可折疊式[前握把](../Page/輔助握把.md "wikilink")。前稱為**MGP-84C**\[19\]\[20\]。也被稱為**MGP-14“微型”**\[21\]或是**MGP-14式手槍**\[22\]。
 
 ## 參見
 

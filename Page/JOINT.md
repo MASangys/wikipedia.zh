@@ -1,8 +1,8 @@
-「**JOINT**」（）是[川田真美](../Page/川田真美.md "wikilink")的第5張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。 2007年10月31日由Geneon Universal Entertainment Japan, LLC.發售。
+{{ unreferenced|time=2019-09-15}}  《**JOINT**》（）是[川田真美](../Page/川田真美.md "wikilink")的第5張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。 2007年10月31日由Geneon Universal Entertainment Japan, LLC.發售。
 
 ## 概要
 
-「JOINT」初回限定版附[音樂影片的](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。「JOINT」和「triangle」中的歌詞，部分出自『灼眼的夏娜II』的資料和劇本出來的言詞。以上兩首歌均被收錄在『[SAVIA](https://zh.wikipedia.org/wiki/SAVIA "wikilink")』專輯之中。這首歌也讓川田真美的歌首次進入[ORICON排行榜前十名](https://zh.wikipedia.org/wiki/ORICON "wikilink")。同時，也獲得こむちゃっとカウントダウン第一名。\[1\]
+《JOINT》初回限定版附[音樂影片的](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。《JOINT》和《triangle》中的歌詞，部分出自《灼眼的夏娜II》的資料和劇本出來的言詞。以上兩首歌均被收錄在《[SAVIA](https://zh.wikipedia.org/wiki/SAVIA "wikilink")》專輯之中。這首歌也讓川田真美的歌首次進入[ORICON排行榜前十名](https://zh.wikipedia.org/wiki/ORICON "wikilink")。同時，也獲得こむちゃっとカウントダウン第一名。\[1\]
 
 ## 收錄曲
 
@@ -59,4 +59,4 @@
 
 [Category:2007年單曲](https://zh.wikipedia.org/wiki/Category:2007年單曲 "wikilink") [Category:灼眼的夏娜](https://zh.wikipedia.org/wiki/Category:灼眼的夏娜 "wikilink") [Category:每日放送動畫主題曲](https://zh.wikipedia.org/wiki/Category:每日放送動畫主題曲 "wikilink")
 
-1.  2007年12月8放送的[A\&Gメディアステーション こむちゃっとカウントダウン第](https://zh.wikipedia.org/wiki/A&Gメディアステーション_こむちゃっとカウントダウン "wikilink")270回，打破了[水樹奈奈](../Page/水樹奈奈.md "wikilink")連續13週第一名的『[MASSIVE WONDERS](../Page/MASSIVE_WONDERS.md "wikilink")』，得到了第一名。
+1.  2007年12月8放送的[A\&Gメディアステーション こむちゃっとカウントダウン第](https://zh.wikipedia.org/wiki/A&Gメディアステーション_こむちゃっとカウントダウン "wikilink")270回，打破了[水樹奈奈](../Page/水樹奈奈.md "wikilink")連續13週第一名的《[MASSIVE WONDERS](../Page/MASSIVE_WONDERS.md "wikilink")》，得到了第一名。

@@ -13,7 +13,7 @@
       - 《字花》 ——[薛凱琪](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")
       - 《Good to be Bad》 ——[G.E.M.](https://zh.wikipedia.org/wiki/G.E.M. "wikilink")
       - 《別怕失去》 ——[陳柏宇](../Page/陳柏宇.md "wikilink")
-      - 《破相》 ——[容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")
+      - 《破相》 ——[容祖兒](../Page/容祖兒.md "wikilink")
       - 《我不要被你記住》 ——[周柏豪](../Page/周柏豪.md "wikilink")
       - 《時代》 ——[古巨基](../Page/古巨基.md "wikilink")
       - 《一年》 ——[關楚耀](../Page/關楚耀.md "wikilink")
@@ -32,7 +32,7 @@
   - 唱作歌曲
       - 《玩樂》 ——[方大同](https://zh.wikipedia.org/wiki/方大同 "wikilink")
   - 人氣大碟
-      - 《空港》 ——[容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")
+      - 《空港》 ——[容祖兒](../Page/容祖兒.md "wikilink")
   - 搜尋人氣演唱會
       - 《人人彈起》 ——[Twins](https://zh.wikipedia.org/wiki/Twins "wikilink")
   - 搜尋人氣電視劇集主題曲
@@ -52,7 +52,7 @@
   - 海外男歌手
       - [曹格](../Page/曹格.md "wikilink")
   - 本地女歌手
-      - [容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")
+      - [容祖兒](../Page/容祖兒.md "wikilink")
   - 海外女歌手
       - [張芸京](../Page/張芸京.md "wikilink")
   - 本地音樂組合

@@ -98,11 +98,12 @@ APS-C规格
 
 <!-- end list -->
 
-  - SIGMA - 19 mm F2.8 EX DN
-  - SIGMA - 19 mm F2.8 DN A013
-  - SIGMA - 30 mm F2.8 EX DN
-  - SIGMA - 30 mm F2.8 DN A013
-  - SIGMA - 30 mm F1.4 DC DN
+  - SIGMA - 16 mm F1.4 DC DN Contemporary
+  - SIGMA - 19 mm F2.8 DN Art
+  - SIGMA - 30 mm F2.8 DN Art
+  - SIGMA - 30 mm F1.4 DC DN Contemporary
+  - SIGMA - 56 mm F1.4 DC DN Contemporary
+  - SIGMA - 60 mm F2.8 DN Art
   - TAMRON - B011 18-200 mm F/3.5-6.3 Di III VC
   - Carl Zeiss Touit 12mm F2.8 T\*
   - Carl Zeiss Touit 32mm F1.8 T\*

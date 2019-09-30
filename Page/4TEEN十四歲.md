@@ -90,4 +90,4 @@
 1.  [日本文學振興會 直木三十五賞受賞者一覽](http://www.bunshun.co.jp/award/naoki/list1.htm)
 2.  [平成１６年度（第５９回）芸術祭贈賞理由（テレビ）](http://www.bunka.go.jp/1bungei/59_geijyutusai_tv.html)
 3.  [日本民間放送連盟賞/2005年(平成17年)入選・事績](http://nab.or.jp/index.php?%C6%FC%CB%DC%CC%B1%B4%D6%CA%FC%C1%F7%CF%A2%CC%C1%BE%DE%2F2005%C7%AF%28%CA%BF%C0%AE17%C7%AF%29%C6%FE%C1%AA%A1%A6%BB%F6%C0%D3)
-4.  [第42回ギャラクシー賞受賞作品](http://www.houkon.jp/galaxy/42nd.html)
+4.

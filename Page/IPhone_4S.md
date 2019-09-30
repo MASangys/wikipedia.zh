@@ -1,10 +1,10 @@
 [IPhone_4S_logo.svg](https://zh.wikipedia.org/wiki/File:IPhone_4S_logo.svg "fig:IPhone_4S_logo.svg")  **iPhone 4s**是苹果公司研发的一款[智能手机](../Page/智能手机.md "wikilink")，是iPhone系列的第五代後續機款。
 
-此產品於2011年10月4日“Let's talk iPhone”的發佈會發佈，2011年10月14日正式向美國、加拿大、澳洲、英國、法國、德國、日本7個國家開售\[1\]，在10月28日於其它22個地區開售。iPhone 4s的外觀上與[iPhone 4幾乎相同](https://zh.wikipedia.org/wiki/iPhone_4 "wikilink")，但iPhone 4s有更高像素（800万像素）的摄像头，並使用性能提升數倍的雙核[Apple A5處理器](../Page/Apple_A5.md "wikilink")，搭載升级后的操作系统[iOS 5](https://zh.wikipedia.org/wiki/iOS_5 "wikilink")。\[2\]另外還有初次登場的[Siri](../Page/Siri.md "wikilink")，該語音助理服務可以識別自然的人類語言。
+此產品於2011年10月4日“Let's talk iPhone”的發佈會發佈，2011年10月14日正式向美國、加拿大、澳洲、英國、法國、德國、日本7個國家開售\[1\]，在10月28日於其它22個地區開售。iPhone 4s的外觀上與[iPhone 4幾乎相同](https://zh.wikipedia.org/wiki/iPhone_4 "wikilink")，但iPhone 4s有更高像素（1800万像素）的摄像头，並使用性能提升數倍的雙核[Apple A10處理器](https://zh.wikipedia.org/wiki/Apple_A10 "wikilink")，搭載升级后的操作系统[iOS 5](https://zh.wikipedia.org/wiki/iOS_5 "wikilink")。\[2\]另外還有初次登場的[Siri](../Page/Siri.md "wikilink")，該語音助理服務可以識別自然的人類語言。
 
 在[大中華地區](https://zh.wikipedia.org/wiki/大中華地區 "wikilink")，2011年11月11日正式在[香港](../Page/香港.md "wikilink")開始發售，屬於全球第三波發售的地區之一。在台灣，12月1日～2日陸續由三大電信公司[台灣大哥大](../Page/台灣大哥大.md "wikilink")、[遠傳電信](../Page/遠傳電信.md "wikilink")與[中華電信展開預約](https://zh.wikipedia.org/wiki/中華電信 "wikilink")\[3\]，並於2011年12月16日正式開始發售，這一次苹果打破前例，同步在Apple Online Store以及經銷商販賣無鎖版iPhone 4s。2012年1月13日在[中国上市](../Page/中国大陆.md "wikilink")\[4\]，同年3月17日推出[中国电信合约计划版本](https://zh.wikipedia.org/wiki/中国电信 "wikilink")。\[5\]
 
-自[iPhone 5s上市後](https://zh.wikipedia.org/wiki/iPhone_5s "wikilink")，iPhone 4s產品線只保留8GB版本繼續銷售至2014年9月，iPhone 6上市後不再銷售。
+自[iPhone 5s上市後](https://zh.wikipedia.org/wiki/iPhone_5s "wikilink")，iPhone 4s產品線只保留8GB版本繼續銷售至2018年9月，iPhone XR上市後不再銷售。
 
 ## 升级部分
 

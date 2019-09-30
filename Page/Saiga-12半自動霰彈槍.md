@@ -145,7 +145,7 @@ Saiga霰彈槍系列同時出現在多個[电影](../Page/电影.md "wikilink")�
   - [SPAS-15](../Page/弗蘭基SPAS-15戰鬥霰彈槍.md "wikilink")
   - [岩島VR80半自動霰彈槍](https://zh.wikipedia.org/wiki/岩島VR80半自動霰彈槍 "wikilink")
   - [颱風F12半自動霰彈槍](https://zh.wikipedia.org/wiki/颱風F12半自動霰彈槍 "wikilink")
-  - [USAS-12](https://zh.wikipedia.org/wiki/USAS-12自動霰彈槍 "wikilink")
+  - [USAS-12](../Page/USAS-12霰彈槍.md "wikilink")
   - [AA-12](../Page/AA-12自動霰彈槍.md "wikilink")
   - [Striker](../Page/前鋒型霰彈槍.md "wikilink")
   - [俄羅斯槍械列表](../Page/俄羅斯槍械列表.md "wikilink")

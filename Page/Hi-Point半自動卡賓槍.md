@@ -2,7 +2,7 @@
 
 它們盡可能使用[聚合物](../Page/聚合物.md "wikilink")和[合金](../Page/合金.md "wikilink")類[金属](../Page/金属.md "wikilink")等[材料](../Page/材料.md "wikilink")生產，從而減少[生产](https://zh.wikipedia.org/wiki/生产 "wikilink")[成本](../Page/成本.md "wikilink")和達到非常便宜的銷售價格。它亦利用簡單的[直接反沖作用](../Page/反沖作用_\(槍械\).md "wikilink")[槍機操作](https://zh.wikipedia.org/wiki/槍機 "wikilink")。
 
-Hi-Point半自動卡賓槍有時會被誤認為是一款[突击步枪](../Page/突击步枪.md "wikilink")，而事實上它只是一款[半自動手槍](../Page/半自動手槍.md "wikilink")[口徑卡賓槍](https://zh.wikipedia.org/wiki/口徑 "wikilink")，不會（而且無法）發射[步槍子彈](../Page/步槍子彈列表.md "wikilink")。
+Hi-Point半自動卡賓槍有時會被誤認為是一款[突击步枪](../Page/突击步枪.md "wikilink")，而事實上它只是一款[半自動手槍](../Page/半自動手槍.md "wikilink")[口徑卡賓槍](https://zh.wikipedia.org/wiki/卡宾枪#手枪口径卡宾枪 "wikilink")，不會（而且無法）發射[步槍子彈](../Page/步槍子彈列表.md "wikilink")。
 
 ## 起源
 

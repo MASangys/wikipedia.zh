@@ -1293,48 +1293,55 @@
 <td><p>2019-06-05、2019-07-02</p></td>
 </tr>
 <tr class="even">
+<td><p>小夏</p></td>
+<td><p>女</p></td>
+<td></td>
+<td></td>
+<td><p>2019-09-09</p></td>
+</tr>
+<tr class="odd">
 <td><p>定愛</p></td>
 <td><p>女</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>庭和</p></td>
 <td><p>女</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>林琳</p></td>
 <td><p>女</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Lena</p></td>
 <td><p>女</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Julie</p></td>
 <td><p>女</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>美英</p></td>
 <td><p>女</p></td>
 <td></td>
 <td><p><a href="https://www.facebook.com/shelly.jo.58">Facebook</a></p></td>
 <td><p>本名曹美英（<a href="../Page/諺文.md" title="wikilink">諺文</a>︰조미영），嫁給跆拳道國手。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>金老佛爺</p></td>
 <td><p>女</p></td>
 <td></td>
@@ -1342,63 +1349,63 @@
 <a href="https://zh-tw.facebook.com/youwin721">Facebook</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>金正恩</p></td>
 <td><p>女</p></td>
 <td></td>
 <td></td>
 <td><p>與<a href="https://zh.wikipedia.org/wiki/北朝鮮" title="wikilink">北朝鮮領導人</a><a href="../Page/金正恩.md" title="wikilink">金正恩</a>（<a href="../Page/諺文.md" title="wikilink">諺文</a>︰<a href="https://zh.wikipedia.org/wiki/김정은" title="wikilink">김정은</a>）同名。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Kellie</p></td>
 <td><p>女</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Kate</p></td>
 <td><p>女</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Rebecca</p></td>
 <td><p>女</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>譓娟</p></td>
 <td><p>女</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>秀兒</p></td>
 <td><p>女</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>安安</p></td>
 <td><p>女</p></td>
 <td></td>
 <td></td>
 <td><p><a href="../Page/首爾.md" title="wikilink">首爾</a>人。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>真真</p></td>
 <td><p>女</p></td>
 <td></td>
 <td><p><a href="https://www.facebook.com/jinvely11">Facebook</a></p></td>
 <td><p>本名千瑛真（<a href="../Page/諺文.md" title="wikilink">諺文</a>︰천영진）。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Jessica</p></td>
 <td><p>女</p></td>
 <td></td>
@@ -1406,14 +1413,14 @@
 <a href="https://www.facebook.com/Jessica0518">Facebook</a></p></td>
 <td><p>本名曹順州（<a href="../Page/諺文.md" title="wikilink">諺文</a>︰조순주）。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Gina</p></td>
 <td><p>女</p></td>
 <td></td>
 <td></td>
 <td><p>本名李志那（<a href="../Page/諺文.md" title="wikilink">諺文</a>︰이지나），韓語老師。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>小敏</p></td>
 <td><p>女</p></td>
 <td></td>
@@ -1421,42 +1428,42 @@
 <a href="https://instagram.com/xiao_min_sung?utm_source=ig_profile_share&amp;igshid=pomc0erojyff">Instagram</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/釜山" title="wikilink">釜山人</a>，本名成敏晶（<a href="../Page/諺文.md" title="wikilink">諺文</a>︰성민정），女兒（Jessica）也偶有露面。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>恭喜</p></td>
 <td><p>女</p></td>
 <td></td>
 <td></td>
 <td><p>嫁到<a href="https://zh.wikipedia.org/wiki/彰化" title="wikilink">彰化</a>。2018-04-10</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>珍熙</p></td>
 <td><p>女</p></td>
 <td></td>
 <td></td>
 <td><p>2018-04-10</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>允禎</p></td>
 <td><p>女</p></td>
 <td></td>
 <td></td>
 <td><p><a href="../Page/首爾.md" title="wikilink">首爾</a>人。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Koy</p></td>
 <td><p>女</p></td>
 <td></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/大邱" title="wikilink">大邱人</a>。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>小丁</p></td>
 <td><p>女</p></td>
 <td></td>
 <td></td>
 <td><p>2017-02-28</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>夏天</p></td>
 <td><p>女</p></td>
 <td></td>
@@ -1465,42 +1472,42 @@
 <a href="https://www.facebook.com/summer02taiwan">Facebook</a></p></td>
 <td><p>2017-07-19</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>知恩</p></td>
 <td><p>女</p></td>
 <td></td>
 <td></td>
 <td><p>2017-08-08</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>金豬</p></td>
 <td><p>女</p></td>
 <td></td>
 <td></td>
 <td><p>2017-11-27</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Ashley</p></td>
 <td><p>女</p></td>
 <td></td>
 <td></td>
 <td><p>2017-11-27</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Yuni</p></td>
 <td><p>女</p></td>
 <td></td>
 <td></td>
 <td><p>中、韓混血。2018-05-02</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>熙真</p></td>
 <td><p>女</p></td>
 <td></td>
 <td></td>
 <td><p>中、韓混血。2018-05-02</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>魯芝善</p></td>
 <td><p>女</p></td>
 <td></td>
@@ -1510,7 +1517,7 @@
 <a href="https://www.youtube.com/watch?v=YER_CzSeF_c&amp;feature=youtu.be">芝善來台前拍的MV</a></p></td>
 <td><p>魯芝善（<a href="../Page/諺文.md" title="wikilink">諺文</a>︰노지선），暱稱︰魯肉飯。2018-06-04</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>水晶</p></td>
 <td><p>女</p></td>
 <td></td>
@@ -1518,7 +1525,7 @@
 <a href="https://www.youtube.com/watch?v=5EjIa9dX4YI">YouTube 魯水晶老師</a></p></td>
 <td><p>剛上WTO時的名字為韓英媛，後來改名魯水晶。韓語老師，著有多本語言學習的書籍。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>ZUZU</p></td>
 <td><p>女</p></td>
 <td></td>
@@ -1526,7 +1533,7 @@
 <a href="https://zh-tw.facebook.com/zuzu.kim">Facebook</a></p></td>
 <td><p>本名金怡珠（<a href="../Page/諺文.md" title="wikilink">諺文</a>︰김이주），曾擔任韓國藝人經紀的工作，與台灣設計師黑眼包著有《安妞！韓國》一書。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>采兒</p></td>
 <td><p>女</p></td>
 <td></td>
@@ -1534,27 +1541,34 @@
 <a href="https://www.facebook.com/hyeyean">Facebook</a></p></td>
 <td><p>本名盧采兒（<a href="../Page/諺文.md" title="wikilink">諺文</a>：노채아）。2018-08-22</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>金多多</p></td>
 <td><p>女</p></td>
 <td></td>
 <td><p><a href="https://www.youtube.com/channel/UCVc-p5c1b7Lzb60FJ8kf7nQ">YouTube</a><br />
 <a href="https://instagram.com/jin_duoduo.tw?utm_source=ig_profile_share&amp;igshid=jomk5qtpqsu6">Instagram</a></p></td>
-<td><p>2019-02-27</p></td>
+<td><p>2019-02-27、2019-09-05</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>希望</p></td>
 <td><p>女</p></td>
 <td></td>
 <td></td>
 <td><p>2019-04-25</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>素賢</p></td>
 <td><p>女</p></td>
 <td></td>
 <td></td>
 <td><p>2019-07-02</p></td>
+</tr>
+<tr class="odd">
+<td><p>Sara</p></td>
+<td><p>女</p></td>
+<td></td>
+<td><p><a href="https://instagram.com/k8787k?igshid=1t823ihxt2300">Instagram</a></p></td>
+<td><p>2019-09-05</p></td>
 </tr>
 <tr class="even">
 <td><p>沛瀅</p></td>
@@ -2235,7 +2249,7 @@
 <td><p>Lily</p></td>
 <td><p>女</p></td>
 <td></td>
-<td><p><a href="https://www.instagram.com/mayliss_lily/">Instagram</a></p></td>
+<td><p><a href="https://www.instagram.com/mayliss.lily.molinie">Instagram</a></p></td>
 <td><p>2019-02-20、2019-03-26</p></td>
 </tr>
 <tr class="odd">
@@ -2783,7 +2797,7 @@
 <td><p>男</p></td>
 <td></td>
 <td></td>
-<td><p>2018-09-12</p></td>
+<td><p>2018-09-12、2019-09-05</p></td>
 </tr>
 <tr class="odd">
 <td><p>範哥</p></td>
@@ -3215,20 +3229,27 @@
 <td><p>2015-12-17</p></td>
 </tr>
 <tr class="even">
+<td><p>布萊登</p></td>
+<td><p>男</p></td>
+<td></td>
+<td></td>
+<td><p>2019-09-02</p></td>
+</tr>
+<tr class="odd">
 <td><p>古狄安</p></td>
 <td><p>男</p></td>
 <td></td>
 <td><p><a href="https://www.facebook.com/AntonioBriman">Facebook</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Alex</p></td>
 <td><p>男</p></td>
 <td></td>
 <td></td>
 <td><p>2016-03-28</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>亞聖</p></td>
 <td><p>男</p></td>
 <td></td>
@@ -3237,28 +3258,28 @@
 <a href="https://m.facebook.com/story.php?story_fbid=2486554491379627&amp;id=124616330906800">東森新聞</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Victor</p></td>
 <td><p>男</p></td>
 <td></td>
 <td></td>
 <td><p>2019-05-16、2019-07-08</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>David</p></td>
 <td><p>男</p></td>
 <td></td>
 <td></td>
 <td><p><a href="https://www.youtube.com/watch?v=LV3_Ye46JhY&amp;list=UUbPWCtJsn9VRPSK8XHTKcbg">老外一品牛肉麵</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>梵谷</p></td>
 <td><p>男</p></td>
 <td></td>
 <td><p><a href="https://www.facebook.com/tuerqifangu/about/?entry_point=page_nav_about_item&amp;tab=page_info">Facebook</a></p></td>
 <td><p>2016-06-28</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>圖佳</p></td>
 <td><p>男</p></td>
 <td></td>
@@ -3267,33 +3288,41 @@
 <a href="https://www.facebook.com/bestoftaiwan1/">Facebook</a></p></td>
 <td><p>2017-07-19</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Jazz</p></td>
 <td><p>男</p></td>
 <td></td>
 <td></td>
 <td><p>2016-04-04</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>饒梓傑</p></td>
 <td><p>男</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Jay</p></td>
 <td><p>男</p></td>
 <td></td>
 <td></td>
 <td><p>2016-04-06</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>李大頭</p></td>
 <td><p>男</p></td>
 <td></td>
 <td></td>
 <td><p>2017-11-08</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/邱鋒澤.md" title="wikilink">邱鋒澤</a></p></td>
+<td><p>男</p></td>
+<td></td>
+<td><p><a href="https://instagram.com/qiufengze?igshid=nijigai33xet">Instagram</a><br />
+<a href="https://www.facebook.com/KennyKhoo.QiuFengZe/">Facebook</a></p></td>
+<td><p>2019-09-02</p></td>
 </tr>
 <tr class="odd">
 <td><p>Caesar</p></td>
@@ -3330,7 +3359,7 @@
 <td><p>男</p></td>
 <td></td>
 <td><p><a href="https://www.facebook.com/huameinan.winter/">Facebook</a></p></td>
-<td><p>2019-06-13</p></td>
+<td><p>2019-06-13、2019-09-02</p></td>
 </tr>
 <tr class="even">
 <td><p>叡克</p></td>
@@ -3351,7 +3380,7 @@
 <td><p>馬克</p></td>
 <td><p>男</p></td>
 <td></td>
-<td></td>
+<td><p><a href="https://www.facebook.com/marcocasarolataiwan/">Facebook</a></p></td>
 <td><p>2018-05-28</p></td>
 </tr>
 <tr class="odd">
@@ -3365,8 +3394,8 @@
 <td><p>杰宇</p></td>
 <td><p>男</p></td>
 <td></td>
-<td></td>
-<td><p>2018-11-12</p></td>
+<td><p><a href="https://www.youtube.com/channel/UCKYK__IkO4cCWUAZ4Xdkc7g">杰宇的法文邂逅Youtube</a></p></td>
+<td><p>2018-11-12 法文老師</p></td>
 </tr>
 <tr class="odd">
 <td><p>馬格斯</p></td>
@@ -3408,7 +3437,7 @@
 <td><p>男</p></td>
 <td></td>
 <td><p><a href="https://zh-tw.facebook.com/pages/%E6%A5%8A%E6%B3%95%E6%98%8E/415709905196640">Facebook</a></p></td>
-<td><p>中文名楊法明，為翻譯知名作家楊翠屏之子，就讀法國里昂第三大學。2010年至<a href="https://zh.wikipedia.org/wiki/淡江大學" title="wikilink">淡江大學當交換學生</a>，相貌堂堂，還意外被星探相中，在公視節目客串演出。</p></td>
+<td><p>中文名楊法明，為翻譯知名作家楊翠屏之子，就讀法國里昂第三大學。2010年至<a href="https://zh.wikipedia.org/wiki/淡江大學" title="wikilink">淡江大學當交換學生</a>，相貌堂堂，還意外被星探相中，在公視節目客串演出。已回法國生活。</p></td>
 </tr>
 <tr class="odd">
 <td><p>尤正瑋</p></td>
@@ -3481,7 +3510,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>josh</p></td>
+<td><p>Josh</p></td>
 <td><p>男</p></td>
 <td></td>
 <td></td>
@@ -3533,8 +3562,8 @@
 <td><p>邵豐</p></td>
 <td><p>男</p></td>
 <td></td>
-<td></td>
-<td><p>2019-07-16</p></td>
+<td><p><a href="https://www.facebook.com/wojtosocho/">Facebook</a></p></td>
+<td><p>2019-07-16、2019-09-10</p></td>
 </tr>
 <tr class="odd">
 <td><p>法蘭酥</p></td>
@@ -3737,7 +3766,7 @@
 <td><p>亞力</p></td>
 <td><p>男</p></td>
 <td></td>
-<td></td>
+<td><p><a href="https://www.facebook.com/theyalee/">Facebook</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -3751,7 +3780,7 @@
 <td><p>Peter</p></td>
 <td><p>男</p></td>
 <td></td>
-<td></td>
+<td><p><a href="https://www.youtube.com/channel/UCWfjoV-fR-6Dq8H-UEZZQaw">Youtube</a></p></td>
 <td><p>2018-10-31</p></td>
 </tr>
 <tr class="even">
@@ -3884,7 +3913,7 @@
 <td><p>少迪</p></td>
 <td><p>男</p></td>
 <td></td>
-<td></td>
+<td><p><a href="https://www.facebook.com/sadraldeen714/">少迪 Sadraldeen</a></p></td>
 <td><p>2018-11-15</p></td>
 </tr>
 <tr class="odd">

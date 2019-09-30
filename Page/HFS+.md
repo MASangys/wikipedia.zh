@@ -6,7 +6,7 @@ HFS+是一个[HFS的改进版本](https://zh.wikipedia.org/wiki/HFS "wikilink")�
 
 ### Linux
 
-[Linux內核包含了hfsplus模組](https://zh.wikipedia.org/wiki/Linux內核 "wikilink")\[2\]供系統掛載。HFS+的與工具程式也被移植\[3\]到套件裡。
+[Linux內核包含了hfsplus模組](https://zh.wikipedia.org/wiki/Linux內核 "wikilink")\[2\]供系統掛載。HFS+的[fsck與](https://zh.wikipedia.org/wiki/fsck "wikilink")工具程式也被移植\[3\]到套件裡。
 
 ### Windows
 

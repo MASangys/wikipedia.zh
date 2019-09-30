@@ -6,7 +6,7 @@
 
   - 人氣歌曲
       - 《七百年後》 ——[陳奕迅](../Page/陳奕迅.md "wikilink")
-      - 《搜神記》 ——[容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")
+      - 《搜神記》 ——[容祖兒](../Page/容祖兒.md "wikilink")
       - 《狂潮》 ——[方大同](https://zh.wikipedia.org/wiki/方大同 "wikilink")
       - 《二缺一》 ——[蔡卓妍](../Page/蔡卓妍.md "wikilink")
       - 《給自己的信》 ——[鍾舒漫](../Page/鍾舒漫.md "wikilink")
@@ -38,7 +38,7 @@
   - 國際男歌手
       - [Michael Jackson](https://zh.wikipedia.org/wiki/Michael_Jackson "wikilink")
   - 本地女歌手
-      - [容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")
+      - [容祖兒](../Page/容祖兒.md "wikilink")
   - 國際女歌手
       - [Lenka](https://zh.wikipedia.org/wiki/Lenka "wikilink")
   - 本地音樂組合

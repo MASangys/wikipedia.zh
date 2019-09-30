@@ -1,6 +1,6 @@
 **Davichi**（），韓國二人女子組合，成員包括[李海莉](https://zh.wikipedia.org/wiki/李海莉 "wikilink")及[姜珉炅](../Page/姜珉炅.md "wikilink")\[1\]。組合名稱Davichi的意思為「用美麗的歌聲照亮一切」\[2\]。
 
-Davichi於2008年1月31日推出首張專輯《Amaranth》，並於2008年2月22日正式出道。歌迷名稱為High（）。應援色為珠光長春花藍/珠光淺紫光藍色（pearl light periwinkle）。初出道時為[Mnet媒體](../Page/Mnet媒體.md "wikilink")旗下歌手，2009年轉至其子公司[Core Contents Media](../Page/MBK娛樂.md "wikilink")，合約期滿後，於2014年7月正式與[CJ E\&M](../Page/Mnet媒體.md "wikilink")（現名為 ）簽約。2015年1月，公布官方歌迷會名稱為「DAVICHI CHORD」（），CHORD是「合音」之意。
+Davichi於2008年1月31日推出首張專輯《Amaranth》，並於2008年2月22日正式出道。歌迷名稱為High（）。應援色為珠光長春花藍/珠光淺紫光藍色（pearl light periwinkle）。初出道時為[Mnet媒體](../Page/Mnet媒體.md "wikilink")旗下歌手，2009年轉至其子公司[Core Contents Media](../Page/MBK娛樂.md "wikilink")，合約期滿後，於2014年7月正式與[CJ E\&M](../Page/Mnet媒體.md "wikilink")（現名為[Stone Music Entertainment](../Page/Stone_Music_Entertainment.md "wikilink") ）簽約。2015年1月，公布官方歌迷會名稱為「DAVICHI CHORD」（），CHORD是「合音」之意。
 
 ## 成員資料
 

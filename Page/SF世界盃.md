@@ -185,6 +185,24 @@ GAME HERO+<br />
 (PHI)</p></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>第八屆</p></td>
+<td><p>台灣</p></td>
+<td><p>2016.8.27～28</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/UNDIE" title="wikilink">UNDIE</a><br />
+(KOR)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ESTRELL.ACP" title="wikilink">ESTRELL.ACP</a><br />
+(THA)</p></td>
+<td><p>CGE TaiwanStar<br />
+(TPE)<br />
+CGE THE.BEST(TPE)</p></td>
+<td><p>以下已無排名</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

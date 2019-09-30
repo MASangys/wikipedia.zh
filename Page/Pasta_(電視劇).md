@@ -1,16 +1,16 @@
-《**-{zh-tw:料理絕配Pasta; zh-hk:意麵情迷; zh-cn:Pasta}-**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2010年1月4日起播放的[月火迷你連續劇](../Page/MBC月火連續劇.md "wikilink")。以義大利餐廳為背景，講述了以出色料理師為理想的女主角的愛情和成功故事。[孔曉振](../Page/孔曉振.md "wikilink")在劇中扮演活潑而勇往直前的廚房助理宥京，[李善均](../Page/李善均.md "wikilink")則飾演兼備外貌和實力的留學派一流料理師，他和宥京在各種衝突和爭吵中產生愛的火花。此外還有韓國小姐出身[李荷妮和歌手出身](https://zh.wikipedia.org/wiki/李荷妮 "wikilink")[Alex出演](../Page/秋憲坤.md "wikilink")。
+《**-{zh-tw:料理絕配Pasta; zh-hk:意麵情迷; zh-cn:Pasta}-**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2010年1月4日起播放的[月火迷你連續劇](../Page/MBC月火連續劇.md "wikilink")。以義大利餐廳為背景，講述了以出色料理師為理想的女主角的愛情和成功故事。[孔曉振](../Page/孔曉振.md "wikilink")在劇中扮演活潑而勇往直前的廚房助理宥京，[李善均](../Page/李善均.md "wikilink")則飾演兼備外貌和實力的留學派一流料理師，他和宥京在各種衝突和爭吵中產生愛的火花。此外還有韓國小姐出身[李荷妮](../Page/李荷妮.md "wikilink")和歌手出身[Alex出演](../Page/秋憲坤.md "wikilink")。
 
 ## 演員陣容
 
 ### 主要角色
 
-|                                                     |        |                                                       |                                                                             |
-| --------------------------------------------------- | ------ | ----------------------------------------------------- | --------------------------------------------------------------------------- |
-| **演員**                                              | **角色** | [TVB配音](https://zh.wikipedia.org/wiki/TVB "wikilink") | [東森綜合台](../Page/東森綜合台.md "wikilink")、[東森戲劇台](../Page/東森戲劇台.md "wikilink")配音 |
-| [孔曉振](../Page/孔曉振.md "wikilink")                    | 徐宥京    | [陳琴雲](../Page/陳琴雲.md "wikilink")                      | [王瑞芹](../Page/王瑞芹.md "wikilink")                                            |
-| [李善均](../Page/李善均.md "wikilink")                    | 崔賢旭    | [雷霆](../Page/雷霆.md "wikilink")                        | [吳文民](../Page/吳文民.md "wikilink")                                            |
-| [李荷妮](https://zh.wikipedia.org/wiki/李荷妮 "wikilink") | 吳世英    | [黃玉娟](../Page/黃玉娟.md "wikilink")                      |                                                                             |
-| [秋憲坤](../Page/秋憲坤.md "wikilink")                    | 金山     | [何承駿](../Page/何承駿.md "wikilink")                      |                                                                             |
+|                                  |        |                                                       |                                                                             |
+| -------------------------------- | ------ | ----------------------------------------------------- | --------------------------------------------------------------------------- |
+| **演員**                           | **角色** | [TVB配音](https://zh.wikipedia.org/wiki/TVB "wikilink") | [東森綜合台](../Page/東森綜合台.md "wikilink")、[東森戲劇台](../Page/東森戲劇台.md "wikilink")配音 |
+| [孔曉振](../Page/孔曉振.md "wikilink") | 徐宥京    | [陳琴雲](../Page/陳琴雲.md "wikilink")                      | [王瑞芹](../Page/王瑞芹.md "wikilink")                                            |
+| [李善均](../Page/李善均.md "wikilink") | 崔賢旭    | [雷霆](../Page/雷霆.md "wikilink")                        | [吳文民](../Page/吳文民.md "wikilink")                                            |
+| [李荷妮](../Page/李荷妮.md "wikilink") | 吳世英    | [黃玉娟](../Page/黃玉娟.md "wikilink")                      |                                                                             |
+| [秋憲坤](../Page/秋憲坤.md "wikilink") | 金山     | [何承駿](../Page/何承駿.md "wikilink")                      |                                                                             |
 
 ### La sfera廚師（Chefs）
 
@@ -29,7 +29,7 @@
 |                                                     |         |                                                       |                                                                             |
 | --------------------------------------------------- | ------- | ----------------------------------------------------- | --------------------------------------------------------------------------- |
 | **演員**                                              | **角色**  | [TVB配音](https://zh.wikipedia.org/wiki/TVB "wikilink") | [東森綜合台](../Page/東森綜合台.md "wikilink")、[東森戲劇台](../Page/東森戲劇台.md "wikilink")配音 |
-| [崔真赫](https://zh.wikipedia.org/wiki/崔真赫 "wikilink") | 鮮-{于}-德 | [黃啟昌](https://zh.wikipedia.org/wiki/黃啟昌 "wikilink")   |                                                                             |
+| [崔振赫](../Page/崔振赫.md "wikilink")                    | 鮮-{于}-德 | [黃啟昌](https://zh.wikipedia.org/wiki/黃啟昌 "wikilink")   |                                                                             |
 | [魯敏宇](https://zh.wikipedia.org/wiki/魯敏宇 "wikilink") | Philip  | [梁偉德](../Page/梁偉德.md "wikilink")                      |                                                                             |
 | [顯　祐](../Page/顯祐.md "wikilink")                     | 李智勳     | [曹啟謙](../Page/曹啟謙.md "wikilink")                      |                                                                             |
 | [崔在煥](../Page/崔在煥.md "wikilink")                    | 鄭銀修     | [馮錦堂](https://zh.wikipedia.org/wiki/馮錦堂 "wikilink")   |                                                                             |

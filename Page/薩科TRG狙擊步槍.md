@@ -1,16 +1,16 @@
-**薩科TRG-22／42**（）是一枝由位於[芬蘭](https://zh.wikipedia.org/wiki/芬蘭 "wikilink")[里希邁基](../Page/里希邁基.md "wikilink")的槍械製造商[薩科公司研製的](https://zh.wikipedia.org/wiki/薩科公司 "wikilink")[手動](../Page/手動槍機.md "wikilink")[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")。TRG-22發射（.260 Remington，6.5-08 A-Square，6.5×51毫米）和標準型[.308 Winchester](../Page/.308_Winchester.md "wikilink")[彈藥](https://zh.wikipedia.org/wiki/彈藥 "wikilink")\[1\]，而TRG-42則裝有較大型的[槍機和](https://zh.wikipedia.org/wiki/槍機 "wikilink")[槍管](../Page/槍管.md "wikilink")作為標準組件，以發射[火力和射程都更強大的](https://zh.wikipedia.org/wiki/火力 "wikilink")[.300溫徹斯特麥格農](../Page/.300溫徹斯特麥格農.md "wikilink")（7.62×67毫米）和[.338拉普麥格農](../Page/.338拉普麥格農.md "wikilink")（8.6×70毫米或8.58×70毫米）[彈藥](https://zh.wikipedia.org/wiki/彈藥 "wikilink")。
+**薩科TRG-22／42**（）是一枝由位於[芬蘭](https://zh.wikipedia.org/wiki/芬蘭 "wikilink")[里希邁基](../Page/里希邁基.md "wikilink")的槍械製造商[薩科公司研製的](https://zh.wikipedia.org/wiki/薩科公司 "wikilink")[手動](../Page/手動槍機.md "wikilink")[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")。TRG-22發射（.260 Remington，6.5-08 A-Square，6.5×51毫米）和標準型[.308 Winchester](../Page/.308_Winchester.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[彈藥](https://zh.wikipedia.org/wiki/彈藥 "wikilink")\[1\]，而TRG-42則裝有較大型的[槍機和](https://zh.wikipedia.org/wiki/槍機 "wikilink")[槍管](../Page/槍管.md "wikilink")作為標準組件，以發射[火力和射程都更強大的](https://zh.wikipedia.org/wiki/火力 "wikilink")[.300溫徹斯特麥格農](../Page/.300溫徹斯特麥格農.md "wikilink")（7.62×67毫米）和[.338拉普麥格農](../Page/.338拉普麥格農.md "wikilink")（8.6×70毫米或8.58×70毫米）口徑[彈藥](https://zh.wikipedia.org/wiki/彈藥 "wikilink")。
 
 薩科TRG-22／42狙擊步槍可以選擇單調的[橄欖色](https://zh.wikipedia.org/wiki/橄榄绿 "wikilink")、[土黃色](../Page/卡其色.md "wikilink")、沙色或黑色固定[槍托](../Page/槍托.md "wikilink")，也可以選擇折疊槍托。\[2\]
 
-薩科TRG-22／42的槍口通常裝有[槍口制退器以減少](../Page/砲口制動器.md "wikilink")[後座力](../Page/後座力.md "wikilink")、和。薩科公司原廠生產的TRG狙擊步槍是往兩側排氣和可拆卸的。一般而言，TRG都會配備一具[卡爾·蔡司公司](../Page/蔡司公司.md "wikilink")\[3\]或是（簡稱：S\&B）警用神槍手二型（，簡稱：PM II）\[4\]固定放大倍率或可變倍率[光學狙擊鏡](../Page/瞄准镜.md "wikilink")。如果使用者希望有更多的靈活性，必需在不同的距離或是寬闊的視場內進行射擊的話，就可以使用可變倍率光學狙擊鏡。
+薩科TRG-22／42的槍口通常裝有[槍口制退器以減少](../Page/砲口制動器.md "wikilink")[後座力](../Page/後座力.md "wikilink")、和。薩科公司原廠生產的TRG狙擊步槍往兩側排氣和可拆卸。一般而言，TRG都會配備一具[卡爾·蔡司公司](../Page/蔡司公司.md "wikilink")\[3\]或是（簡稱：S\&B）警用神槍手二型（，簡稱：PM II）\[4\]固定放大倍率或可變倍率[光學狙擊鏡](../Page/瞄准镜.md "wikilink")。如果使用者希望有更多的靈活性，必需在不同的距離或是寬闊的視場內進行射擊的話，就可以使用可變倍率光學狙擊鏡。
 
 ## 歷史
 
-1989年，位於[芬蘭](https://zh.wikipedia.org/wiki/芬蘭 "wikilink")[里希邁基](../Page/里希邁基.md "wikilink")的槍械製造商[薩科有限公司推出了](https://zh.wikipedia.org/wiki/薩科公司 "wikilink")[.308 Winchester](../Page/.308_Winchester.md "wikilink")[口徑的TRG](https://zh.wikipedia.org/wiki/口徑 "wikilink")-21高精度[手動步槍](../Page/手動槍機.md "wikilink")，並將其作為新型號狙擊步槍。後來薩科有限公司亦推出了TRG的狩獵化用途衍生型，並且將其命名為[TRG-S M995](https://zh.wikipedia.org/wiki/TRG-S_M995獵用步槍 "wikilink")，它使用了與TRG-21相同的[機匣](https://zh.wikipedia.org/wiki/機匣 "wikilink")（短槍機型）和[槍機](https://zh.wikipedia.org/wiki/槍機 "wikilink")（只是不同的），而不同之處是機匣頂部是開放式，而不是很像TRG-21般在機匣右側上留有[拋殼口](https://zh.wikipedia.org/wiki/拋殼口 "wikilink")。
+1989年，位於[芬蘭](https://zh.wikipedia.org/wiki/芬蘭 "wikilink")[里希邁基](../Page/里希邁基.md "wikilink")的槍械製造商[薩科有限公司推出了](https://zh.wikipedia.org/wiki/薩科公司 "wikilink")[.308 Winchester](../Page/.308_Winchester.md "wikilink")[口徑的TRG](https://zh.wikipedia.org/wiki/口徑 "wikilink")-21高精度[手動步槍](../Page/手動槍機.md "wikilink")，並將其作為新型號狙擊步槍。後來薩科有限公司亦推出了TRG的狩獵化用途衍生型，並且將其命名為[TRG-S M995](https://zh.wikipedia.org/wiki/TRG-S_M995狩獵步槍 "wikilink")，它使用了與TRG-21相同的[機匣](https://zh.wikipedia.org/wiki/機匣 "wikilink")（短槍機型）和[槍機](https://zh.wikipedia.org/wiki/槍機 "wikilink")（只是不同的），而不同之處是機匣頂部是開放式，而不是很像TRG-21般在機匣右側上留有[拋殼口](https://zh.wikipedia.org/wiki/拋殼口 "wikilink")。
 
-隨後，薩科有限公司推出了另一枝將TRG-21的槍機延長20毫米並且加以放大至馬格南用途槍機的狙擊步槍，以能夠使用和承受[.338拉普麥格農](../Page/.338拉普麥格農.md "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")，並且將其命名為TRG-41。\[5\]同樣地，薩科有限公司其後推出了這種型號的狩獵化用途衍生型，再次使用相同的槍機（只是不同的拉機柄）、開放式[機匣頂部](https://zh.wikipedia.org/wiki/機匣 "wikilink")，以及發射馬格南口徑的.338拉普麥格農步枪子彈，並且將其命名為TRG-S M995 Mag。
+隨後，薩科有限公司推出了另一枝將TRG-21的槍機延長20毫米並且加以放大至馬格南用途槍機的狙擊步槍，以能夠使用和承受[.338拉普麥格農](../Page/.338拉普麥格農.md "wikilink")口徑[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")，並且將其命名為TRG-41。\[5\]同樣地，薩科有限公司其後推出了這種型號的狩獵化用途衍生型，再次使用相同的槍機（只是不同的拉機柄）、開放式[機匣頂部](https://zh.wikipedia.org/wiki/機匣 "wikilink")，以及發射馬格南口徑的.338拉普麥格農步枪子彈，並且將其命名為TRG-S M995 Mag。
 
-即使TRG-21從原來設計成功的[薩科TR-6目標步槍改進而成](https://zh.wikipedia.org/wiki/薩科TR-6目標步槍 "wikilink")，重達4.7公斤（10.36磅）的TRG-21設計是真正的對根據[狙擊手](../Page/狙擊手.md "wikilink")的一個徹底深入的研究結果的要求。TRG在選擇採用槍機方面，薩科一改多種近代的[狙擊步槍使用經過改進的雙](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")[鎖耳毛瑟式](https://zh.wikipedia.org/wiki/鎖耳 "wikilink")[旋转后拉式枪机的作風](../Page/手動槍機.md "wikilink")，而是使用過去的[對稱](../Page/對稱.md "wikilink")型三鎖耳式槍機，其[直径](../Page/直径.md "wikilink")為19毫米（0.75英吋），而整個閉鎖表面為75[平方毫米](https://zh.wikipedia.org/wiki/平方毫米 "wikilink")。這種手動槍機設計的改進一直持續到現在，並可以在最近薩科製造的獵用步槍上發現，例如目前生產型號的[薩科85和已被列入舊型號的薩科](https://zh.wikipedia.org/wiki/薩科85獵用步槍 "wikilink")75。
+即使TRG-21從原來設計成功的[薩科TR-6標靶步槍改進而成](https://zh.wikipedia.org/wiki/薩科TR-6標靶步槍 "wikilink")，重達4.7公斤（10.36磅）的TRG-21設計是真正的對根據[狙擊手](../Page/狙擊手.md "wikilink")的一個徹底深入的研究結果的要求。TRG在選擇採用槍機方面，薩科一改多種近代的[狙擊步槍使用經過改進的雙](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")[鎖耳毛瑟式](https://zh.wikipedia.org/wiki/鎖耳 "wikilink")[旋转后拉式枪机的作風](../Page/手動槍機.md "wikilink")，而是使用過去的[對稱](../Page/對稱.md "wikilink")型三鎖耳式槍機，其[直径](../Page/直径.md "wikilink")為19毫米（0.75英吋），而整個閉鎖表面為75[平方毫米](https://zh.wikipedia.org/wiki/平方毫米 "wikilink")。這種手動槍機設計的改進一直持續到現在，並可以在最近薩科製造的狩獵步槍上發現，例如目前生產型號的[薩科85和已被列入舊型號的薩科](https://zh.wikipedia.org/wiki/薩科85狩獵步槍 "wikilink")75。
 
 1990年代後期，為了令TRG系統更適合作為軍事用途，薩科對TRG-21和TRG-41的設計進行升級和改進。一些戰術配件，例如TRG系統的[槍口制退器和](../Page/砲口制動器.md "wikilink")[兩腳架](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")（即是能夠讓步槍沿著其孔軸線的附近旋轉或“懸掛”，以確保在TRG裝上了巨大而沉重的[光學狙擊鏡](../Page/瞄准镜.md "wikilink")、[紅點鏡](../Page/紅點鏡.md "wikilink")、[夜視鏡](../Page/夜視鏡.md "wikilink")和／或[熱成像儀下仍然能夠穩固在射擊位置](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")）也有所改進。其改進的結果是TRG-22和TRG-42這兩枝狙擊步槍系統。
 
@@ -46,7 +46,7 @@ TRG系統使用的槍管是[自由浮動式重型](../Page/自由浮動式槍管
 
 .338拉普麥格農（8.6×70毫米或8.58×70毫米）口徑同樣有一種非傳統的305毫米（1：12英吋）和36.4口徑右旋的膛線纏距，以改進TRG步槍在發射16.2克（250格令）斯那（）.338口徑極低阻力彈丸的[彈道表現](../Page/弹道学.md "wikilink")。截至2009年，338拉普麥格農口徑方面還提供了一根254毫米（1：10英吋）和30.3口徑膛線纏距的槍管作為選擇，該槍管能夠改進TRG步槍在發射穩定時間更長和更重的極低阻力彈丸的彈道表現，例如[塞拉利昂公司](https://zh.wikipedia.org/wiki/塞拉利昂公司 "wikilink")（）的空尖尾錐型（，簡稱：HPBT）比賽之王（）和[拉普斯那](https://zh.wikipedia.org/wiki/拉普斯那 "wikilink")（）19.44克（300格令）.338口徑彈丸。傳統的254毫米（1：10英吋）現在已經成為.338拉普麥格農口徑標準膛線纏距。
 
-### 安全裝置
+### 保險裝置
 
 保險桿位於[扳機護圈裡面和扳機前面](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")，操作它的時候不會產生機械[噪音](https://zh.wikipedia.org/wiki/噪声 "wikilink")。其兩個位置的安全鎖可以鎖著扳機機構、在閉鎖位置鎖著槍機和阻止[擊針運動](https://zh.wikipedia.org/wiki/擊針 "wikilink")。當保險桿拉到最前方的位置的時候就會鎖往槍機、扳機和擊針。當保險桿推到最後方的位置的時候就會解鎖。當武器在待發狀態以下，後面的手動槍機內部的[擊針會突出](../Page/撞針.md "wikilink")1.52毫米（0.06英吋），從而令使用者有可能感覺到假設這枝武器已經在準備射擊或不會出現能見度低的問題。\[16\]
 
@@ -56,7 +56,7 @@ TRG系統使用的槍管是[自由浮動式重型](../Page/自由浮動式槍管
 
 ### 供彈方式
 
-薩科TRG是由一個可拆卸[彈匣](../Page/彈匣.md "wikilink")從下[機匣彈匣口供彈](https://zh.wikipedia.org/wiki/機匣 "wikilink")，取代過去的狙擊步槍沿用自獵用步槍設計的[固定彈倉](../Page/彈匣.md "wikilink")，讓射手即使要面對大量目標也能夠維持不會很快就中斷的火力。可拆卸式[彈匣](../Page/彈匣.md "wikilink")為雙排單進設計，口徑不同會使容彈量也不相同，7.62×51毫米北約、.338拉普麥格農和.338諾瑪麥格農口徑分別為有10發、7發和5發，其容量是基於彈匣從位置供彈的最大可靠性以及能否讓子彈精確定位地進入[膛室](../Page/膛室.md "wikilink")而決定。彈匣可以在槍機閉鎖位置以下插入到位而不影響槍機平穩地移動，另一方面彈匣的彈簧亦不會干擾其射擊時的[精度](../Page/準確與精密.md "wikilink")。[彈匣卡筍就在](https://zh.wikipedia.org/wiki/彈匣卡筍 "wikilink")[扳機護圈和](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")[彈匣插槽之間](https://zh.wikipedia.org/wiki/直向插槽 "wikilink")，射手需要以拇指協助拆卸彈匣及重新裝填。
+薩科TRG是由一個可拆卸[彈匣](../Page/彈匣.md "wikilink")從下[機匣彈匣口供彈](https://zh.wikipedia.org/wiki/機匣 "wikilink")，取代過去的狙擊步槍沿用自狩獵步槍設計的[固定彈倉](../Page/彈匣.md "wikilink")，讓射手即使要面對大量目標也能夠維持不會很快就中斷的火力。可拆卸式[彈匣](../Page/彈匣.md "wikilink")為雙排單進設計，口徑不同會使容彈量也不相同，7.62×51毫米北約、.338拉普麥格農和.338諾瑪麥格農口徑分別為有10發、7發和5發，其容量是基於彈匣從位置供彈的最大可靠性以及能否讓子彈精確定位地進入[膛室](../Page/膛室.md "wikilink")而決定。彈匣可以在槍機閉鎖位置以下插入到位而不影響槍機平穩地移動，另一方面彈匣的彈簧亦不會干擾其射擊時的[精度](../Page/準確與精密.md "wikilink")。[彈匣卡筍就在](https://zh.wikipedia.org/wiki/彈匣卡筍 "wikilink")[扳機護圈和](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")[彈匣插槽之間](https://zh.wikipedia.org/wiki/直向插槽 "wikilink")，射手需要以拇指協助拆卸彈匣及重新裝填。
 
 ### 槍托
 
@@ -201,7 +201,7 @@ TRG系統可以使用原廠薩科製造的配件，\[21\]當中包括在緊急�
 
 ## 圖集
 
-<File:Sako> TRG-22 2007-w24 18-3f.jpg|薩科TRG-22狙擊步槍（左右兩視圖） <File:Sako> TRG-42 2007-w24 18-1f.jpg|薩科TRG-42狙擊步槍（左右兩視圖） <File:Sako> M995 (TRG-S) 2007-w24 18-2f.jpg|薩科TRG-S（M995）獵用步槍（左右兩視圖）
+<File:Sako> TRG-22 2007-w24 18-3f.jpg|薩科TRG-22狙擊步槍（左右兩視圖） <File:Sako> TRG-42 2007-w24 18-1f.jpg|薩科TRG-42狙擊步槍（左右兩視圖） <File:Sako> M995 (TRG-S) 2007-w24 18-2f.jpg|薩科TRG-S（M995）狩獵步槍（左右兩視圖）
 
 ## 參見
 

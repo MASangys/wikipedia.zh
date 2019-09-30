@@ -1,4 +1,4 @@
-**《Joey Ten》**是[容祖兒第](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")27張個人唱片(第3張EP)，於2010年1月29日公開發售。為慶祝[容祖兒入行](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")10週年，唱片公司特意製造此專輯，而唱片名稱《Joey Ten》亦意味[容祖兒入行](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")10年。全碟歌詞均由[黃偉文負責](https://zh.wikipedia.org/wiki/黃偉文 "wikilink")（翻唱歌曲除外），而且由四大監製負責監製歌曲。
+**《Joey Ten》**是[容祖兒](../Page/容祖兒.md "wikilink")第27張個人唱片(第3張EP)，於2010年1月29日公開發售。為慶祝[容祖兒](../Page/容祖兒.md "wikilink")入行10週年，唱片公司特意製造此專輯，而唱片名稱《Joey Ten》亦意味[容祖兒](../Page/容祖兒.md "wikilink")入行10年。全碟歌詞均由[黃偉文負責](https://zh.wikipedia.org/wiki/黃偉文 "wikilink")（翻唱歌曲除外），而且由四大監製負責監製歌曲\[1\]。
 
 本唱片分了平裝版及限量版：平裝版共有九款不同造型封面，以CD+DVD形式推出；限量版則以Boxset形式發售，內送CD、DVD、書集、貼紙及Chofy USB，限量版全球只有2000套，售完即止。
 
@@ -32,8 +32,8 @@
 
 ## 發行版本
 
-  - 平裝版 (2010年1月29日)
-  - Boxset限量版 (2010年1月29日)
+  - 平裝版 (CD+DVD) (2010年1月29日)\[2\]
+  - Boxset限量版 (2010年1月29日) \[3\]
 
 <div class="NavFrame" style="text-align: left; width:50%">
 
@@ -49,7 +49,7 @@
 
 </div>
 
-  - 終極版 (2010年2月12日)
+  - 終極版 (CD+DVD) (2010年2月12日)\[4\]
 
 ### 唱片造型
 
@@ -84,14 +84,31 @@
 
 ## 所獲獎項
 
-  - 2009勁歌金曲優秀選第三回 最受歡迎廣告歌曲奬《雙冠軍》
-  - 2009年度十大勁歌金曲頒獎典禮 最受歡迎廣告歌曲奬《雙冠軍》
-  - 新城勁爆頒獎禮2010 新城勁爆跳舞歌曲《桃色冒險》
-  - 2010年度叱咤樂壇流行榜頒獎典禮 專業推介、叱咤十大 第四位《桃色冒險》
-  - IFPI香港唱片銷量大獎2010 十大銷量廣東唱片《Joey Ten EP 2010》
+### 唱片獎
+
+  - 2010 IFPI 十大銷量廣東唱片\[5\]
+
+### 歌曲獎
+
+  - 2009勁歌金曲優秀選第三回 最受歡迎廣告歌曲奬《雙冠軍》\[6\]
+  - 2009年度十大勁歌金曲頒獎典禮 最受歡迎廣告歌曲奬《雙冠軍》\[7\]
+  - 新城勁爆頒獎禮2010 新城勁爆跳舞歌曲《桃色冒險》\[8\]
+  - 2010年度叱咤樂壇流行榜頒獎典禮 專業推介、叱咤十大 第四位《桃色冒險》\[9\]
+  - IFPI香港唱片銷量大獎2010 十大銷量廣東唱片《Joey Ten EP 2010》\[10\]
 
 ## 參考資料
 
 ## 外部連結
 
 [Category:容祖兒音樂專輯](https://zh.wikipedia.org/wiki/Category:容祖兒音樂專輯 "wikilink") [Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.

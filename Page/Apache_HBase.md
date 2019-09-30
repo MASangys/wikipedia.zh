@@ -29,7 +29,7 @@ Facebook在2010年11月选用了HBase来实现它新的消息平台\[6\]。
 
 [Category:Hadoop](https://zh.wikipedia.org/wiki/Category:Hadoop "wikilink") [Category:Apache软件基金会](https://zh.wikipedia.org/wiki/Category:Apache软件基金会 "wikilink")
 
-1.  [Powered By HBase](http://wiki.apache.org/hadoop/Hbase/PoweredBy)
+1.
 
 2.  [StumbleUpon HBase Presentation](http://www.docstoc.com/docs/9912857/HBase-nosql-presentation)
 

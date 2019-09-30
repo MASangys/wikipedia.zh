@@ -264,10 +264,17 @@ Studio五組自從成立以來，承包了GONZO時期《-{zh-cn:天才麻将少�
 <td><p>漫畫</p></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>2016年</p></td>
+<td><p><a href="../Page/黃金拼圖.md" title="wikilink">黃金拼圖 Pretty Days</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
-#### 電影動畫
+### 電影動畫
 
 <table>
 <thead>
@@ -281,11 +288,11 @@ Studio五組自從成立以來，承包了GONZO時期《-{zh-cn:天才麻将少�
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>2016年</p></td>
-<td><p><a href="../Page/黃金拼圖.md" title="wikilink">黃金拼圖 Pretty Days</a></p></td>
+<td><p>2019年</p></td>
 <td></td>
 <td></td>
-<td><p>漫畫</p></td>
+<td><p><a href="../Page/橋本裕之.md" title="wikilink">橋本裕之</a></p></td>
+<td><p>原創</p></td>
 </tr>
 </tbody>
 </table>
@@ -448,7 +455,7 @@ Studio五組自從成立以來，承包了GONZO時期《-{zh-cn:天才麻将少�
 
   - [槍與面具](../Page/槍與面具.md "wikilink")（2013年－**刊載中**，編輯）
 
-## 來源
+## 參考來源
 
 ## 相關項目
 

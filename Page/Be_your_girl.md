@@ -1,4 +1,4 @@
-**Be your girl**（[日语](../Page/日语.md "wikilink"):ビーユアガール）是[日本](../Page/日本.md "wikilink")女歌手[越智千惠子](../Page/越智千惠子.md "wikilink")的第一首[单曲](../Page/单曲.md "wikilink")。2004年4月28日由[バップ发行](https://zh.wikipedia.org/wiki/バップ "wikilink")。
+《**Be your girl**》（）是[日本](../Page/日本.md "wikilink")女歌手[越智千惠子](../Page/越智千惠子.md "wikilink")的第一首[单曲](../Page/单曲.md "wikilink")。2004年4月28日由[バップ发行](https://zh.wikipedia.org/wiki/バップ "wikilink")。
 
 ## 概要
 

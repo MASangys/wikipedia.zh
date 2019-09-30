@@ -17,36 +17,36 @@
 
 ### 單曲
 
-|      |             |                                                                                                              |
-| ---- | ----------- | ------------------------------------------------------------------------------------------------------------ |
-|      | 發行日         | 標題                                                                                                           |
-| 1st  | 2004年3月24日  | <big>**Rie who\!?**</big>                                                                                    |
-| 2nd  | 2004年9月23日  | <big>**[Life is Like a Boat](https://zh.wikipedia.org/wiki/Life_is_Like_a_Boat "wikilink")**</big>           |
-| 3rd  | 2005年4月27日  | <big>**[I Wanna Go To A Place...](https://zh.wikipedia.org/wiki/I_Wanna_Go_To_A_Place... "wikilink")**</big> |
-| 4th  | 2005年8月31日  | <big>**[ねがいごと](https://zh.wikipedia.org/wiki/ねがいごと_\(Rie_fu\) "wikilink")**</big>                            |
-| 5th  | 2006年3月8日   | <big>**Tiny Tiny Melody**</big>                                                                              |
-| 6th  | 2006年7月19日  | <big>**Until I Say**</big>                                                                                   |
-| 7th  | 2007年5月23日  | <big>**ツキアカリ**</big>                                                                                         |
-| 8th  | 2007年9月5日   | <big>**[5000マイル](https://zh.wikipedia.org/wiki/5000マイル "wikilink")**</big>                                   |
-| 9th  | 2007年10月24日 | <big>**[あなたがここにいる理由](https://zh.wikipedia.org/wiki/あなたがここにいる理由 "wikilink")**</big>                           |
-| 10th | 2008年1月23日  | <big>**[Home](https://zh.wikipedia.org/wiki/Home_\(Rie_fuの曲\) "wikilink")**</big>                            |
-| 11th | 2008年11月12日 | <big>**[Romantic](https://zh.wikipedia.org/wiki/Romantic "wikilink")**</big>                                 |
-| 12th | 2009年2月25日  | <big>**PRESENT**</big>                                                                                       |
-| 13th | 2011年2月16日  | <big>**For You**</big>                                                                                       |
+|      |             |                                                                                               |
+| ---- | ----------- | --------------------------------------------------------------------------------------------- |
+|      | 發行日         | 標題                                                                                            |
+| 1st  | 2004年3月24日  | Rie who\!?                                                                                    |
+| 2nd  | 2004年9月23日  | [Life is Like a Boat](https://zh.wikipedia.org/wiki/Life_is_Like_a_Boat "wikilink")           |
+| 3rd  | 2005年4月27日  | [I Wanna Go To A Place...](https://zh.wikipedia.org/wiki/I_Wanna_Go_To_A_Place... "wikilink") |
+| 4th  | 2005年8月31日  | [ねがいごと](https://zh.wikipedia.org/wiki/ねがいごと_\(Rie_fu\) "wikilink")                            |
+| 5th  | 2006年3月8日   | Tiny Tiny Melody                                                                              |
+| 6th  | 2006年7月19日  | Until I Say                                                                                   |
+| 7th  | 2007年5月23日  | ツキアカリ                                                                                         |
+| 8th  | 2007年9月5日   | [5000マイル](https://zh.wikipedia.org/wiki/5000マイル "wikilink")                                   |
+| 9th  | 2007年10月24日 | [あなたがここにいる理由](https://zh.wikipedia.org/wiki/あなたがここにいる理由 "wikilink")                           |
+| 10th | 2008年1月23日  | [Home](https://zh.wikipedia.org/wiki/Home_\(Rie_fu单曲\) "wikilink")                            |
+| 11th | 2008年11月12日 | [Romantic](https://zh.wikipedia.org/wiki/Romantic "wikilink")                                 |
+| 12th | 2009年2月25日  | PRESENT                                                                                       |
+| 13th | 2011年2月16日  | For You                                                                                       |
 
 ### 專輯
 
-|                                                     |             |                                                                                            |
-| --------------------------------------------------- | ----------- | ------------------------------------------------------------------------------------------ |
-|                                                     | 發行日         | 標題                                                                                         |
-| [日本](../Page/日本.md "wikilink")國內發售                  |             |                                                                                            |
-| 1st                                                 | 2005年1月19日  | <big>**[Rie fu](https://zh.wikipedia.org/wiki/Rie_fu_\(アルバム\) "wikilink")**</big>          |
-| 2nd                                                 | 2006年3月24日  | <big>**[ROSE ALBUM](https://zh.wikipedia.org/wiki/ROSE_ALBUM "wikilink")**</big>           |
-| 3rd                                                 | 2007年11月21日 | <big>**[Tobira Album](https://zh.wikipedia.org/wiki/Tobira_Album "wikilink")**</big>       |
-| 4th                                                 | 2009年4月8日   | <big>**[URBAN ROMANTIC](https://zh.wikipedia.org/wiki/URBAN_ROMANTIC "wikilink")**</big>   |
-| 5th                                                 | 2010年3月31日  | <big>**[at Rie sessions](https://zh.wikipedia.org/wiki/at_Rie_sessions "wikilink")**</big> |
-| [英國發售](https://zh.wikipedia.org/wiki/英國 "wikilink") |             |                                                                                            |
-| 1st                                                 | 2008年3月3日   | <big>**Who is Rie fu?**</big>                                                              |
+|                                                     |             |                                                                             |
+| --------------------------------------------------- | ----------- | --------------------------------------------------------------------------- |
+|                                                     | 發行日         | 標題                                                                          |
+| [日本](../Page/日本.md "wikilink")國內發售                  |             |                                                                             |
+| 1st                                                 | 2005年1月19日  | [Rie fu](https://zh.wikipedia.org/wiki/Rie_fu_\(专辑\) "wikilink")            |
+| 2nd                                                 | 2006年3月24日  | [ROSE ALBUM](https://zh.wikipedia.org/wiki/ROSE_ALBUM "wikilink")           |
+| 3rd                                                 | 2007年11月21日 | [Tobira Album](https://zh.wikipedia.org/wiki/Tobira_Album "wikilink")       |
+| 4th                                                 | 2009年4月8日   | [URBAN ROMANTIC](https://zh.wikipedia.org/wiki/URBAN_ROMANTIC "wikilink")   |
+| 5th                                                 | 2010年3月31日  | [at Rie sessions](https://zh.wikipedia.org/wiki/at_Rie_sessions "wikilink") |
+| [英國發售](https://zh.wikipedia.org/wiki/英國 "wikilink") |             |                                                                             |
+| 1st                                                 | 2008年3月3日   | Who is Rie fu?                                                              |
 
 ### 參加作品
 

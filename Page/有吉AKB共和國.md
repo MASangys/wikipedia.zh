@@ -60,7 +60,7 @@
 
   - AKB48前成員
       - Team A：[前田敦子](../Page/前田敦子.md "wikilink")、[多田愛佳](../Page/多田愛佳.md "wikilink")（現・HKT48）、[仲川遥香](../Page/仲川遥香.md "wikilink")（現・JKT48）、[仁藤萌乃](../Page/仁藤萌乃.md "wikilink")、[河西智美](../Page/河西智美.md "wikilink")、[篠田麻里子](../Page/篠田麻里子.md "wikilink")、[仲俣汐里](https://zh.wikipedia.org/wiki/仲俣汐里 "wikilink")
-      - Team K：[小野恵令奈](https://zh.wikipedia.org/wiki/小野恵令奈 "wikilink")、[米沢瑠美](https://zh.wikipedia.org/wiki/米沢瑠美 "wikilink")、[宮澤佐江](../Page/宮澤佐江.md "wikilink")（現・[SNH48](https://zh.wikipedia.org/wiki/SNH48 "wikilink")）、[増田有華](https://zh.wikipedia.org/wiki/増田有華 "wikilink")、[仲谷明香](../Page/仲谷明香.md "wikilink")、[松原夏海](../Page/松原夏海.md "wikilink")、[板野友美](../Page/板野友美.md "wikilink")、[秋元才加](../Page/秋元才加.md "wikilink")
+      - Team K：[小野恵令奈](https://zh.wikipedia.org/wiki/小野恵令奈 "wikilink")、[米沢瑠美](https://zh.wikipedia.org/wiki/米沢瑠美 "wikilink")、[宮澤佐江](../Page/宮澤佐江.md "wikilink")（現・[SNH48](../Page/SNH48.md "wikilink")）、[増田有華](https://zh.wikipedia.org/wiki/増田有華 "wikilink")、[仲谷明香](../Page/仲谷明香.md "wikilink")、[松原夏海](../Page/松原夏海.md "wikilink")、[板野友美](../Page/板野友美.md "wikilink")、[秋元才加](../Page/秋元才加.md "wikilink")
       - Team B：[平嶋夏海](../Page/平嶋夏海.md "wikilink")、[小森美果](../Page/小森美果.md "wikilink")
 
 <!-- end list -->

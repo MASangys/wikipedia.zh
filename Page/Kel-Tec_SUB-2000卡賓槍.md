@@ -2,7 +2,7 @@
 
 Kel-Tec SUB-2000是一款廉價的卡賓槍，利用[反沖作用](../Page/反沖作用_\(槍械\).md "wikilink")[槍機操作](https://zh.wikipedia.org/wiki/槍機 "wikilink")，其[復進簧位於管狀](https://zh.wikipedia.org/wiki/復進簧 "wikilink")[槍托](../Page/槍托.md "wikilink")，使用多種[槍械製造商的手槍的可拆卸式](https://zh.wikipedia.org/wiki/槍械製造商 "wikilink")[彈匣](../Page/彈匣.md "wikilink")供彈，而且將彈匣插槽設於以內。它最明顯的特徵就是它能將槍身折疊一半以便大量儲存和運輸，這時使得它的外形要比其他步槍更為極其苗條。該卡賓槍使用來自半自動手槍的可拆卸式[彈匣](../Page/彈匣.md "wikilink")供彈。手槍口徑上的卡賓槍與手槍相比的主要優點包括延長了瞄準基線長度，有助於精確射擊；長槍管亦更充分有效地燃燒[彈藥內的](https://zh.wikipedia.org/wiki/彈藥 "wikilink")[裝藥](../Page/裝藥.md "wikilink")，增加[彈頭速度](https://zh.wikipedia.org/wiki/彈丸 "wikilink")；而且射手與武器之間有著更多的接觸點亦可增加其射擊時的穩定性。
 
-Kel-Tec SUB-2000半自動卡賓槍有時會被誤認為是一款[突击步枪](../Page/突击步枪.md "wikilink")，而事實上它只是一款[半自動手槍](../Page/半自動手槍.md "wikilink")[口徑卡賓槍](https://zh.wikipedia.org/wiki/口徑 "wikilink")，不會（而且無法）發射[步槍子彈](../Page/步槍子彈列表.md "wikilink")。
+Kel-Tec SUB-2000半自動卡賓槍有時會被誤認為是一款[突击步枪](../Page/突击步枪.md "wikilink")，而事實上它只是一款[半自動手槍](../Page/半自動手槍.md "wikilink")[口徑卡賓槍](https://zh.wikipedia.org/wiki/卡宾枪#手枪口径卡宾枪 "wikilink")，不會（而且無法）發射[步槍子彈](../Page/步槍子彈列表.md "wikilink")。
 
 ## 設計
 

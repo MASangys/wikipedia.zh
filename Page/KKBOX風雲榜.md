@@ -221,7 +221,7 @@
   - 風雲大使
       - [蔡健雅](https://zh.wikipedia.org/wiki/蔡健雅 "wikilink")、[盧廣仲](../Page/盧廣仲.md "wikilink")、[Supper Moment](https://zh.wikipedia.org/wiki/Supper_Moment "wikilink")、[謝安琪](../Page/謝安琪.md "wikilink")
   - 年度風雲歌手
-      - [江海迦](../Page/江海迦.md "wikilink")、[C AllStar](../Page/C_AllStar.md "wikilink")、[陳奕迅](../Page/陳奕迅.md "wikilink")、[李幸倪](../Page/李幸倪.md "wikilink")、[HANA菊梓喬](https://zh.wikipedia.org/wiki/HANA菊梓喬 "wikilink")、[張敬軒](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")、[胡鴻鈞](https://zh.wikipedia.org/wiki/胡鴻鈞 "wikilink")、[陳柏宇](../Page/陳柏宇.md "wikilink")、[容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")、[楊千嬅](../Page/楊千嬅.md "wikilink")
+      - [江海迦](../Page/江海迦.md "wikilink")、[C AllStar](../Page/C_AllStar.md "wikilink")、[陳奕迅](../Page/陳奕迅.md "wikilink")、[李幸倪](../Page/李幸倪.md "wikilink")、[HANA菊梓喬](https://zh.wikipedia.org/wiki/HANA菊梓喬 "wikilink")、[張敬軒](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")、[胡鴻鈞](https://zh.wikipedia.org/wiki/胡鴻鈞 "wikilink")、[陳柏宇](../Page/陳柏宇.md "wikilink")、[容祖兒](../Page/容祖兒.md "wikilink")、[楊千嬅](../Page/楊千嬅.md "wikilink")
   - 年度風雲獎項
       - 年度編輯推薦歌手：[鄧小巧](https://zh.wikipedia.org/wiki/鄧小巧 "wikilink")
       - 年度最佳新人：[曾樂彤](../Page/曾樂彤.md "wikilink")

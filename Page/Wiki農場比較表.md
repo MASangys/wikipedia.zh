@@ -188,6 +188,15 @@
 <td><p>日文</p></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>著迷 http://wiki.joyme.com/</p></td>
+<td><p>免费</p></td>
+<td><p>{{?}}</p></td>
+<td></td>
+<td><p>MediaWiki</p></td>
+<td><p>简体中文</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

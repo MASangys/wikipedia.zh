@@ -1319,7 +1319,7 @@ KBS週末劇時段是該電視台的「王牌時段」，歷年曾播出不少�
 <tr class="even">
 <td style="text-align: center;"><p>2019年9月21日－<br />
 2019年月日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/愛情是Beautiful，人生是Wonderful" title="wikilink">愛情是Beautiful，人生是Wonderful</a><br />
+<td style="text-align: center;"><p><a href="../Page/愛情是Beautiful，人生是Wonderful.md" title="wikilink">愛情是Beautiful，人生是Wonderful</a><br />
 </p></td>
 <td style="text-align: center;"><p>100</p></td>
 <td style="text-align: center;"><p><a href="../Page/薛仁雅.md" title="wikilink">薛仁雅</a>、<a href="../Page/金宰英.md" title="wikilink">金宰英</a>、<a href="../Page/趙胤熙.md" title="wikilink">趙胤熙</a>、<a href="../Page/尹博.md" title="wikilink">尹博</a>、<a href="../Page/吳珉錫.md" title="wikilink">吳珉錫</a></p></td>

@@ -1,4 +1,4 @@
-《**Dear My Friend -朝向未知的未來-**》（）於2009年11月4日由Geneon Universal Entertainment Japan, LLC.發行，是[ELISA的第](../Page/ELISA_\(歌手\).md "wikilink")5張單曲。
+《**Dear My Friend -朝向未知的未來-**》（）於2009年11月4日由Geneon Universal Entertainment Japan發行，是[ELISA的第](../Page/ELISA_\(歌手\).md "wikilink")5張單曲。
 
 ## 解説
 

@@ -1,4 +1,4 @@
-**VA液晶**（Vertical Alignment liquid crystal）是**垂直排列液晶**的简称。跟[TN液晶相比VA液晶有更高的](https://zh.wikipedia.org/wiki/TN液晶 "wikilink")[对比度和更宽广的](https://zh.wikipedia.org/wiki/对比度 "wikilink")[可視角度](../Page/顯示器可視角度.md "wikilink")，是当今大屏幕[液晶电视采用的主流技术](https://zh.wikipedia.org/wiki/液晶电视 "wikilink")。
+**VA液晶**（Vertical Alignment liquid crystal）是**垂直排列液晶**的简称。跟[TN液晶相比VA液晶有更高的](https://zh.wikipedia.org/wiki/TN液晶 "wikilink")[对比度和更宽广的](https://zh.wikipedia.org/wiki/对比度 "wikilink")[可視角度](../Page/顯示器可視角度.md "wikilink")，是当今大部份曲面顯示器采用的主流技术。
 
 目前[夏普](https://zh.wikipedia.org/wiki/夏普 "wikilink")、[东芝](../Page/东芝.md "wikilink")、[三星](../Page/三星電子.md "wikilink")、[索尼](../Page/索尼.md "wikilink")以及台湾的[群創](../Page/群創光電.md "wikilink")、[友達等都使用VA液晶技术制造大屏幕液晶电视](../Page/友達光電.md "wikilink")。[SONY的手掌式游戏机](https://zh.wikipedia.org/wiki/SONY "wikilink")[PSP和夏普的](https://zh.wikipedia.org/wiki/PSP "wikilink")[智能手机](../Page/智能手机.md "wikilink")AQUOS PHONE使用了夏普生产的增强型VA液晶（[ASV液晶](../Page/ASV液晶.md "wikilink")）。
 
@@ -12,7 +12,7 @@ VA液晶的开发要追溯到20世纪70年代。那时候被称为DAP方式（De
 
 ### 優點
 
-  - 對比度較高。
+  - 對比度高。
   - 漏光程度較[IPS低](../Page/橫向電場效應顯示技術.md "wikilink")。
   - 色溫較溫和，色彩表現較為豔麗。
   - 可視角可達178度，有改善[TN版面失色的問題](https://zh.wikipedia.org/wiki/TN液晶 "wikilink")。

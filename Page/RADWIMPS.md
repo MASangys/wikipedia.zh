@@ -17,7 +17,7 @@
 ## 成員
 
   - 野田洋次郎（）（）
-    [主音](../Page/主音.md "wikilink")兼[吉他](../Page/吉他.md "wikilink")。关于野田的家庭，父亲是[法国国籍](https://zh.wikipedia.org/wiki/法国 "wikilink")，现在住在[巴黎](../Page/巴黎.md "wikilink")；母亲则是钢琴教师；家中还有一个哥哥。从幼儿园剩下两个月到小学四年级为止，在美国生活了4年，后来回国。野田本人说，在美国的时候是住在乡村里，不得不经常说英语。就是这个原因，RADWIMPS的歌词中也常常运用到英语。
+    [主音](../Page/主音.md "wikilink")兼[吉他](../Page/吉他.md "wikilink")。关于野田的家庭，父亲是[法国国籍](https://zh.wikipedia.org/wiki/法国 "wikilink")，现在住在[巴黎](../Page/巴黎.md "wikilink")；母亲则是钢琴教师；家中还有一个哥哥。从幼儿园剩下两个月到小学四年级为止，在美国生活了4年，后来回国。野田本人说，在美国的时候是住在乡村裡，不得不经常说英语。就是这个原因，RADWIMPS的歌词中也常常运用到英语。
     初中和高中都在桐荫学院就读，当时的小名是“”。2004年开始在庆应义塾大学环境情报学学院修读，2008年3月毕业。（初中、高中与艺人水嶋宏是校友，大学的时候则是同一个学院的同级生；与朝日电视台的主持人本间智惠等也是同级生。）
     小学5年级看到[木村拓哉](../Page/木村拓哉.md "wikilink")弹奏的《夜空的那方》后，开始学习吉他。而作为乐队的兼任吉他手，则是从乐队出道之后开始的。用Gibson ES-335的吉他是受英国乐队[Oasis的](https://zh.wikipedia.org/wiki/Oasis "wikilink")[諾爾·蓋勒格](../Page/諾爾·蓋勒格.md "wikilink")影响。另外[BUMP OF CHICKEN的](../Page/BUMP_OF_CHICKEN.md "wikilink")[藤原基央](https://zh.wikipedia.org/wiki/藤原基央 "wikilink")、[Dragon Ash的](../Page/Dragon_Ash.md "wikilink")[降谷健志等也对野田有很大的影响](https://zh.wikipedia.org/wiki/降谷健志 "wikilink")。
     在《ROCKIN'ON JAPAN》的2007年7月号为止连载的“野田事件簿”栏目里，从入院、乐队甚至恋爱的话题都广泛地提及到。在2007年9月号增刊中，与降谷健志实现了对谈的心愿。之后从2008年2月号到7月号，连载了“RADWIMPS野田洋次郎能交到100个朋友吗？”的栏目。

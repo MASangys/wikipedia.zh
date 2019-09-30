@@ -127,7 +127,7 @@
 | 13th     | 2017年11月29日 | ****                                                                                                    | VVCL-1133/4  | VVCL-1130/1    | VVCL-1132  |
 | \*       | 2018年1月9日   | ****                                                                                                    | 網路配信無實體光碟    |                |            |
 | 14th     | 2018年12月12日 | **[紅色陷阱(who loves it?)/ADAMAS](https://zh.wikipedia.org/wiki/紅色陷阱\(who_loves_it?\)/ADAMAS "wikilink")** | VVCL-1373/4  | VVCL-1370/1    | VVCL-1372  |
-| 15th     | 2019年7月3日   | ****                                                                                                    | VVCL-1461/2  | VVCL-1458/9    | VVCL-1460  |
+| 15th     | 2019年7月3日   | **[紅蓮華](../Page/紅蓮華.md "wikilink")**                                                                    | VVCL-1461/2  | VVCL-1458/9    | VVCL-1460  |
 
 ### 專輯
 

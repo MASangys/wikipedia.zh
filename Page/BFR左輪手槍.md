@@ -57,7 +57,7 @@
 
   - [沙漠之鷹](https://zh.wikipedia.org/wiki/沙漠之鷹 "wikilink")（）
   - [自動麥格農V型](https://zh.wikipedia.org/wiki/自動麥格農V型手槍 "wikilink")（）
-  - [灰熊V型](../Page/灰熊溫徹斯特馬格南手槍.md "wikilink")（）
+  - [灰熊V型](https://zh.wikipedia.org/wiki/灰熊溫徹斯特馬格南半自動手槍 "wikilink")（）
   - [史密斯威森M500](../Page/史密斯威森M500左輪手槍.md "wikilink")（）
   - [金牛座-{zh:憤怒的公牛; zh-hans:愤怒的公牛; zh-tw:蠻牛; zh-hk:狂牛;}-左輪手槍M500](../Page/金牛座憤怒的公牛左輪手槍.md "wikilink")（）
   - [Pfeifer Zeliska](https://zh.wikipedia.org/wiki/Pfeifer_Zeliska左輪手槍 "wikilink")

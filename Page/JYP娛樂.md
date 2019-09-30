@@ -159,7 +159,7 @@ JYP娛樂於2月1日獲第2屆演藝製作人協會大賞獲頒「製作人獎�
 <td></td>
 <td><p><a href="../Page/JJ_Project.md" title="wikilink">JJ Project</a></p></td>
 <td><p><strong><a href="../Page/林在範.md" title="wikilink">JB</a></strong>{{•}}<a href="../Page/朴珍榮.md" title="wikilink">珍榮</a></p></td>
-<td><p>{{N/A|—</p></td>
+<td><p>I GOT7</p></td>
 <td><p>綠色</p></td>
 <td><p>二本部</p></td>
 </tr>
@@ -170,8 +170,8 @@ JYP娛樂於2月1日獲第2屆演藝製作人協會大賞獲頒「製作人獎�
 <td><p>男</p></td>
 <td><p><a href="../Page/段宜恩.md" title="wikilink">Mark</a>{{•}}<strong><a href="../Page/林在範.md" title="wikilink">JB</a></strong>{{•}}<a href="../Page/王嘉爾.md" title="wikilink">Jackson</a>{{•}}<a href="../Page/朴珍榮.md" title="wikilink">珍榮</a><br />
 <a href="../Page/崔榮宰.md" title="wikilink">榮宰</a>{{•}}<a href="../Page/BamBam.md" title="wikilink">BamBam</a>{{•}}<a href="../Page/金有謙.md" title="wikilink">有謙</a></p></td>
-<td><p>I GOT7</p></td>
-<td><p>綠色</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2015年9月7日</p></td>
@@ -270,7 +270,7 @@ JYP娛樂於2月1日獲第2屆演藝製作人協會大賞獲頒「製作人獎�
 <td></td>
 <td></td>
 <td><p><a href="../Page/林在範.md" title="wikilink">JB</a>{{•}}<strong><a href="../Page/金有謙.md" title="wikilink">有謙</a></strong></p></td>
-<td><p>{{N/A|—</p></td>
+<td><p>I GOT7</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -406,26 +406,6 @@ JYP娛樂於2月1日獲第2屆演藝製作人協會大賞獲頒「製作人獎�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/白藝潾" title="wikilink">白藝潾</a><br />
-</p></td>
-<td></td>
-<td><p>女</p></td>
-<td><p>2015年11月30日</p></td>
-<td></td>
-<td></td>
-<td><p>Studio J</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/白娥娟.md" title="wikilink">白娥娟</a><br />
-</p></td>
-<td><p>2012年9月10日</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p><a href="../Page/Bernard_Park.md" title="wikilink">NakJoon</a><br />
 </p></td>
 <td></td>
@@ -433,7 +413,7 @@ JYP娛樂於2月1日獲第2屆演藝製作人協會大賞獲頒「製作人獎�
 <td><p>2014年10月6日</p></td>
 <td></td>
 <td></td>
-<td></td>
+<td><p>Studio J</p></td>
 </tr>
 </tbody>
 </table>
@@ -480,7 +460,8 @@ JYP娛樂於2月1日獲第2屆演藝製作人協會大賞獲頒「製作人獎�
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p>姜贤宇</p></td>
+<td><p>姜贤宇<br />
+Kang Hyun Woo</p></td>
 <td><p>金玟志<br />
 Kim Min Ji</p></td>
 <td><p>吳海媛<br />
@@ -488,18 +469,16 @@ Oh Hae Won</p></td>
 <td><p>李荷聿<br />
 Lee Ha Yul</p></td>
 <td><p>張珪珒<br />
-Jang Gye Jin</p></td>
+Jang Gyu Jin</p></td>
 </tr>
 <tr class="even">
-<td><p>朴采繽<br />
-Park Chae Bin</p></td>
 <td></td>
 <td><p>安攸娜<br />
 Ahn Yu Na</p></td>
-<td><p>蓮瓊<br />
-Yeon Kyung</p></td>
-<td><p>韵溱<br />
-Yun Jin</p></td>
+<td><p>崔韵溱<br />
+Choi Yun Jin</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>王家妤<br />
@@ -508,10 +487,9 @@ Wang Jia Yu</p></td>
 Wang Yang Yang</p></td>
 <td><p>山口真子<br />
 Yamaguchi Mako</p></td>
-<td><p><a href="../Page/姚琛.md" title="wikilink">姚琛</a><br />
-Yao Chen</p></td>
 <td><p>規焄<br />
 Gye Hun</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>芷瑀<br />
@@ -522,8 +500,7 @@ Ju Na</p></td>
 Luo Yan</p></td>
 <td><p>延翰<br />
 Yeon Han</p></td>
-<td><p>趙惠嫄<br />
-Cho Hye Won</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>玉陣旭<br />
@@ -648,8 +625,10 @@ Han Shin Young</p></td>
       - [任瑟雍](https://zh.wikipedia.org/wiki/任瑟雍 "wikilink")（2008 - 2015）
       - [鄭珍雲](https://zh.wikipedia.org/wiki/鄭珍雲 "wikilink")（2008 - 2015）
       - [趙權](../Page/趙權.md "wikilink")（2008 - 2017)
+  - [白娥娟](../Page/白娥娟.md "wikilink")（2012 - 2019）
   - [15&](https://zh.wikipedia.org/wiki/15& "wikilink") (2012 - 2019，宣布解散)
       - [朴智敏](../Page/朴智敏.md "wikilink")（2012 - 2019）
+      - [白艺潾](../Page/白艺潾.md "wikilink")（2012- 2019）
   - [全昭彌](https://zh.wikipedia.org/wiki/全昭彌 "wikilink")（2017 - 2018）
 
 <!-- end list -->
@@ -794,8 +773,9 @@ Han Shin Young</p></td>
 
   - [FANATICS](../Page/FANATICS.md "wikilink")
 
-      - Doi
-      - Rensika
+      - 度伊
+      - Sika
+      - 允惠
 
   - [Favourite](https://zh.wikipedia.org/wiki/Favorite_\(女子組合\) "wikilink")
 

@@ -1,4 +1,4 @@
-Ardour是一款开源的[數位音訊工作站軟體](https://zh.wikipedia.org/wiki/數位音訊工作站軟體 "wikilink")，支持[Linux](../Page/Linux.md "wikilink")、[Mac OS X等操作系统](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，4.0开始支持[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。虽然Ardour是开放源代码软件，但比之于捐赠者来说，非捐赠者在使用已编译好的OS X版本时不可以保存AU插件设置，而使用已编译好的Linux版本时不能获得从[IRC](../Page/IRC.md "wikilink")频道或邮件列表的支持。\[1\]
+Ardour是开源的[數位音訊工作站軟體](https://zh.wikipedia.org/wiki/數位音訊工作站軟體 "wikilink")，支持[Linux](../Page/Linux.md "wikilink")、[Mac OS X等操作系统](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，4.0版开始支持[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。虽然Ardour是开放源代码软件，但比之于捐赠者来说，非捐赠者在使用已编译好的OS X版本时不可以保存AU插件设置，而使用已编译好的Linux版本时不能获得从[IRC](../Page/IRC.md "wikilink")频道或邮件列表的支持。\[1\]
 Ardour使用[JACK服务作为声卡信号低延迟的保障](../Page/JACK_Audio_Connection_Kit.md "wikilink")。
 
 ## 插件

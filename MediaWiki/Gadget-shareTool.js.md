@@ -15,7 +15,6 @@
 `       title_instapaper: 'Instapaper',`
 `       title_readitlaterlist: 'Read It Later',`
 `       title_qrcode: 'QR码',`
-`       title_googleplus: 'Google +1',`
 `       title_tumblr: 'tumblr',`
 `       title_evernote: 'Evernote',`
 `       title_citeulike: 'CiteULike',`
@@ -38,7 +37,6 @@
 `       title_instapaper: 'Instapaper',`
 `       title_readitlaterlist: 'Read It Later',`
 `       title_qrcode: 'QR碼',`
-`       title_googleplus: 'Google +1',`
 `       title_tumblr: 'tumblr',`
 `       title_evernote: 'Evernote',`
 `       title_citeulike: 'CiteULike',`
@@ -129,7 +127,7 @@
 
 `       // build li: twitter`
 `       this._li_twitter = function () {`
-`           var url = '`<https://twitter.com/home>`',`
+`           var url = '`<https://twitter.com/intent/tweet>`',`
 `               query = {`
 `               status: pagetitle + ' ' + urlshort + ' #wikipedia'`
 `           };`
@@ -250,14 +248,6 @@
 `               chl: urllocal`
 `           };`
 `           _li('qrcode', share_msgs.title_qrcode, url, query, 500, 450);`
-`       };`
-
-`       this._li_googleplus = function () {`
-`           var url = '`<https://plusone.google.com/_/+1/confirm>`';`
-`           var query = {`
-`               url: urllocal`
-`           };`
-`           _li('googleplus', share_msgs.title_googleplus, url, query, 700, 450);`
 `       };`
 
 `       this._li_tumblr = function () {`

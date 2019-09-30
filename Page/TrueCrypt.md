@@ -1,4 +1,4 @@
-**TrueCrypt**是一款用于动态[加密](https://zh.wikipedia.org/wiki/加密 "wikilink")（OTFE）的免费[开源软件](../Page/开源软件.md "wikilink")。它可以在一个文件中创建一个虚拟的加密磁盘，或加密一个分区或整个存储设备。
+**TrueCrypt**是一款用于动态[加密](../Page/加密.md "wikilink")（OTFE）的免费[开源软件](../Page/开源软件.md "wikilink")。它可以在一个文件中创建一个虚拟的加密磁盘，或加密一个分区或整个存储设备。
 
 ## 操作系统
 

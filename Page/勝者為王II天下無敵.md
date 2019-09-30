@@ -122,7 +122,7 @@
 洪英之好友</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/邱月清" title="wikilink">邱月清</a></p></td>
+<td><p><a href="../Page/邱月清.md" title="wikilink">邱月清</a></p></td>
 <td><p>劉妙珠</p></td>
 <td><p>劉妙蓮、劉家才之姊<br />
 洪英之好友</p></td>

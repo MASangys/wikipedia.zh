@@ -1,6 +1,6 @@
 **[Android](../Page/Android.md "wikilink")**是一個由[Google](../Page/Google.md "wikilink")和[開放手機聯盟](../Page/開放手機聯盟.md "wikilink")共同開發的移動設備[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，其最初的版本（Android 0.5）在2007年11月5日發行。至今，Android已發行多個更新版本，每個版本除了修復前一版本的漏洞外，還多了新的功能。
 
-Android作業系統有預發行的內部版本，分別為[原子小金剛](https://zh.wikipedia.org/wiki/原子小金剛 "wikilink")（Astro）與[機器人班亭](https://zh.wikipedia.org/wiki/機器人班亭 "wikilink")（Bender，电视动画《[乃出個未來](../Page/乃出個未來.md "wikilink")》的角色）\[1\]。從2009年5月開始，Android的版本代號改以甜點來命名，且每個代號間的字首以英文字母序接續排列：Cupcake（[紙杯蛋糕](https://zh.wikipedia.org/wiki/紙杯蛋糕 "wikilink")）、Donut（[甜甜圈](../Page/甜甜圈.md "wikilink")）、Eclair（）、Froyo（[優格冰淇淋](https://zh.wikipedia.org/wiki/優格冰淇淋 "wikilink")）、Gingerbread（[薑餅](../Page/薑餅.md "wikilink")）、Honeycomb（[蜂巢](../Page/蜂巢.md "wikilink")）、Ice Cream Sandwich（）、Jelly Bean（[雷根糖](../Page/雷根糖.md "wikilink")）、KitKat（[奇巧巧克力](../Page/奇巧巧克力.md "wikilink")）、Lollipop（[棒棒糖](https://zh.wikipedia.org/wiki/棒棒糖 "wikilink")）、Marshmallow（[棉花糖](../Page/棉花糖_\(顆粒狀\).md "wikilink")）、Nougat（[牛轧糖](../Page/牛轧糖.md "wikilink")）、Oreo（[奧利奧](../Page/奧利奧.md "wikilink")）、Pie（[派](../Page/西式餡餅.md "wikilink")）。2019年8月23日，Google宣布從[Android Q開始不再以甜品命名](../Page/Android_Q.md "wikilink")，且直接稱Android Q為Android 10\[2\]。
+Android作業系統有預發行的內部版本，分別為[原子小金剛](https://zh.wikipedia.org/wiki/原子小金剛 "wikilink")（Astro）與[機器人班亭](https://zh.wikipedia.org/wiki/機器人班亭 "wikilink")（Bender，电视动画《[乃出個未來](../Page/乃出個未來.md "wikilink")》的角色）\[1\]。從2009年5月開始，Android的版本代號改以甜點來命名，且每個代號間的字首以英文字母序接續排列：Cupcake（[紙杯蛋糕](https://zh.wikipedia.org/wiki/紙杯蛋糕 "wikilink")）、Donut（[甜甜圈](../Page/甜甜圈.md "wikilink")）、Eclair（）、Froyo（[優格冰淇淋](https://zh.wikipedia.org/wiki/優格冰淇淋 "wikilink")）、Gingerbread（[薑餅](../Page/薑餅.md "wikilink")）、Honeycomb、Ice Cream Sandwich（）、Jelly Bean（[雷根糖](../Page/雷根糖.md "wikilink")）、KitKat（[奇巧巧克力](../Page/奇巧巧克力.md "wikilink")）、Lollipop（[棒棒糖](https://zh.wikipedia.org/wiki/棒棒糖 "wikilink")）、Marshmallow（[棉花糖](../Page/棉花糖_\(顆粒狀\).md "wikilink")）、Nougat（[牛轧糖](../Page/牛轧糖.md "wikilink")）、Oreo（[奧利奧](../Page/奧利奧.md "wikilink")）、Pie（[派](../Page/西式餡餅.md "wikilink")）。2019年8月23日，Google宣布從[Android Q開始不再以甜品命名](../Page/Android_Q.md "wikilink")，且直接稱Android Q為Android 10\[2\]。
 
 [Global自2009年12月起的Android用户版本分析。，Android 6.0為使用率最高的Android版本，在所有用户中占了31.8%。其次是Android 5.1，占22.3%。\[3\]|800x800px|居中](https://zh.wikipedia.org/wiki/File:Android_historical_version_distribution_-_vector.svg "fig:Global自2009年12月起的Android用户版本分析。，Android 6.0為使用率最高的Android版本，在所有用户中占了31.8%。其次是Android 5.1，占22.3%。|800x800px|居中")
 
@@ -141,7 +141,7 @@ Linux內核版本：<br />
 <td><p><a href="https://zh.wikipedia.org/wiki/Android_Gingerbread" title="wikilink">Android Gingerbread</a><br />
 Linux內核版本：<br />
 2.6.35</p></td>
-<td><p>2010年12月7日，Google釋出Android 2.3（Gingerbread姜饼）。主要更新如下：[43]<a href="https://zh.wikipedia.org/wiki/File:Android-2.3.png" title="fig:Android-2.3.png">Android-2.3.png</a></p>
+<td><p>2010年12月7日，Google釋出Android 2.3（Gingerbread姜饼）。主要更新如下：[43] <a href="https://zh.wikipedia.org/wiki/File:Android-2.3.png" title="fig:Android-2.3.png">Android-2.3.png</a> <a href="https://zh.wikipedia.org/wiki/File:Android_Gingerbread_(2.3).jpg" title="fig:Android_Gingerbread_(2.3).jpg">Android_Gingerbread_(2.3).jpg</a></p>
 <ul>
 <li>修补UI[44]</li>
 <li>支援更大的屏幕尺寸和解析度（<a href="https://zh.wikipedia.org/wiki/WXGA" title="wikilink">WXGA及更高</a>）。</li>
@@ -200,7 +200,7 @@ Linux內核版本：<br />
 <td><p><a href="https://zh.wikipedia.org/wiki/Android_Honeycomb" title="wikilink">Android Honeycomb</a><br />
 Linux內核版本：<br />
 2.6.36</p></td>
-<td><p>2011年2月2日，Google釋出Android 3.0（Honeycomb蜂巢）發布。是第一個Android平板作業系統[50][51][52][53]。全球第一個使用該版本作業系統的設備是摩托羅拉公司於2011年2月24日發布的<a href="https://zh.wikipedia.org/wiki/Motorola_Xoom" title="wikilink">Motorola Xoom平板電腦</a>[54]。主要更新如下[55]：<a href="https://zh.wikipedia.org/wiki/File:Android3.0.png" title="fig:Android3.0.png">Android3.0.png</a></p>
+<td><p>2011年2月2日，Google釋出Android 3.0（Honeycomb蜂巢）發布。是第一個Android平板作業系統[50][51][52][53]。全球第一個使用該版本作業系統的設備是摩托羅拉公司於2011年2月24日發布的<a href="https://zh.wikipedia.org/wiki/Motorola_Xoom" title="wikilink">Motorola Xoom平板電腦</a>[54]。主要更新如下[55] <a href="https://zh.wikipedia.org/wiki/File:Android3.0.png" title="fig:Android3.0.png">Android3.0.png</a> <a href="https://zh.wikipedia.org/wiki/File:Android_Honeycomb_(3.0-3.2).jpg" title="fig:Android_Honeycomb_(3.0-3.2).jpg">Android_Honeycomb_(3.0-3.2).jpg</a></p>
 <ul>
 <li>专為平板电脑设计。</li>
 <li>支援Google eBooks。</li>
@@ -210,7 +210,7 @@ Linux內核版本：<br />
 <li>新的通知功能。</li>
 <li>专為平板电脑设计的用户界面（重新設計的通知列與系統列）。</li>
 <li>加強多工處理的介面。</li>
-<li><a href="https://zh.wikipedia.org/wiki/File:Android_logo.png" title="fig:缩略图">缩略图</a>重新設計適用大螢幕的鍵盤及複製貼上功能。</li>
+<li>重新設計適用大螢幕的鍵盤及複製貼上功能。</li>
 <li>多個標籤的瀏覽器以及私密瀏覽模式。</li>
 <li>快速切換各種功能的相機。</li>
 <li>增強的圖庫與快速捲動的聯絡人介面。</li>
@@ -238,7 +238,8 @@ Linux內核版本：<br />
 <td><p><a href="../Page/Android_Ice_Cream_Sandwich.md" title="wikilink">Android Ice Cream Sandwich</a><br />
 Linux內核版本：<br />
 3.0.1</p></td>
-<td><p>Android 4.0（Ice Cream Sandwich冰淇淋三文治）於2011年4月在<a href="https://zh.wikipedia.org/wiki/Google_I/O" title="wikilink">Google I/O大會上首次被宣布</a>[58]</ref>，並且於2011年10月19日正式發布Android 4.0“冰淇淋三明治”作業系統和搭載Android 4.0的<a href="../Page/Galaxy_Nexus.md" title="wikilink">Galaxy Nexus智能手機</a>[59]。Android 4.0.1的軟體開發包於2011年10月19日正式發布[60]。谷歌公司的發言人加布·科恩（Gabe Cohen）指出，Android 4.0“理論上”與任何一個當前市面上搭載了Android 2.3.x版本的設備兼容[61]。關於Android 4.0的<a href="https://zh.wikipedia.org/wiki/原始碼" title="wikilink">原始碼已於</a>2011年11月14日正式公佈[62]。<a href="https://zh.wikipedia.org/wiki/File:Android-4.0.png" title="fig:Android-4.0.png">Android-4.0.png</a>該版本的主要更新內容如下[63][64][65]：</p>
+<td><p>Android 4.0（Ice Cream Sandwich冰淇淋三文治）於2011年4月在<a href="https://zh.wikipedia.org/wiki/Google_I/O" title="wikilink">Google I/O大會上首次被宣布</a>[58]</ref>，並且於2011年10月19日正式發布Android 4.0“冰淇淋三明治”作業系統和搭載Android 4.0的<a href="../Page/Galaxy_Nexus.md" title="wikilink">Galaxy Nexus智能手機</a>[59]。Android 4.0.1的軟體開發包於2011年10月19日正式發布[60]。谷歌公司的發言人加布·科恩（Gabe Cohen）指出，Android 4.0“理論上”與任何一個當前市面上搭載了Android 2.3.x版本的設備兼容[61]。關於Android 4.0的<a href="https://zh.wikipedia.org/wiki/原始碼" title="wikilink">原始碼已於</a>2011年11月14日正式公佈[62]。 <a href="https://zh.wikipedia.org/wiki/File:Android-4.0.png" title="fig:Android-4.0.png">Android-4.0.png</a> <a href="https://zh.wikipedia.org/wiki/File:Android_Ice_Cream_Sandwich_(4.0).jpg" title="fig:Android_Ice_Cream_Sandwich_(4.0).jpg">Android_Ice_Cream_Sandwich_(4.0).jpg</a></p>
+<p>該版本的主要更新內容如下[63][64][65]：</p>
 <ul>
 <li>统一了手机和平板电脑使用的系统，应用会自动根据设备选择最佳显示方式。</li>
 <li>提升硬件的性能以及系統的優化，提升系統流暢度。</li>
@@ -249,7 +250,7 @@ Linux內核版本：<br />
 <li>改进的可视化语音邮件的能力，加快或减慢语音邮件。</li>
 <li>在日曆中也可以使用多點觸控，進行縮放和拖拽操作。</li>
 <li>Gmail离线搜索，两行预览，和新的任務欄。</li>
-<li><a href="https://zh.wikipedia.org/wiki/File:Android_logo.png" title="fig:缩略图">缩略图</a>與其他第三方<a href="../Page/微博.md" title="wikilink">微博</a>、<a href="https://zh.wikipedia.org/wiki/博客" title="wikilink">博客類應用程式的無縫連接</a>，即時更新的內容會被展示在主界面上。</li>
+<li>與其他第三方<a href="../Page/微博.md" title="wikilink">微博</a>、<a href="https://zh.wikipedia.org/wiki/博客" title="wikilink">博客類應用程式的無縫連接</a>，即時更新的內容會被展示在主界面上。</li>
 <li>Gmail支持縮放操作，支持左拉、右拉進行查看。</li>
 <li>增加截圖功能（可以同时按住电源鍵和音量向下鍵進行截圖操作）。</li>
 <li>改進虛擬鍵盤可能產生的誤操作</li>
@@ -322,7 +323,7 @@ Android 4.2：<br />
 3.4.0<br />
 Android 4.3：<br />
 3.4.39</p></td>
-<td><p>2012年6月28日，Google釋出Android 4.1（JellyBean 雷根糖）在<a href="https://zh.wikipedia.org/wiki/Google_I/O" title="wikilink">Google I/O大會上隨搭載Android</a> 4.1的<a href="https://zh.wikipedia.org/wiki/Nexus_7" title="wikilink">Nexus 7平板電腦一起发布</a>，。主要更新如下：<a href="https://zh.wikipedia.org/wiki/File:Android_4.1_on_the_Galaxy_Nexus.jpeg" title="fig:Android_4.1_on_the_Galaxy_Nexus.jpeg">Android_4.1_on_the_Galaxy_Nexus.jpeg</a> 介面]]</p>
+<td><p>2012年6月28日，Google釋出Android 4.1（JellyBean 雷根糖）在<a href="https://zh.wikipedia.org/wiki/Google_I/O" title="wikilink">Google I/O大會上隨搭載Android</a> 4.1的<a href="https://zh.wikipedia.org/wiki/Nexus_7" title="wikilink">Nexus 7平板電腦一起发布</a>，。主要更新如下： <a href="https://zh.wikipedia.org/wiki/File:Android_4.1_on_the_Galaxy_Nexus.jpeg" title="fig:Android_4.1_on_the_Galaxy_Nexus.jpeg">Android_4.1_on_the_Galaxy_Nexus.jpeg</a> 介面]] <a href="https://zh.wikipedia.org/wiki/File:Android_Jelly_Bean_(4.1-4.3).jpg" title="fig:Android_Jelly_Bean_(4.1-4.3).jpg">Android_Jelly_Bean_(4.1-4.3).jpg</a></p>
 <ul>
 <li>基於Android 4.0改善。</li>
 <li>「黄油」计划（Project Butter），號稱可以讓 Jelly Bean 的體驗像「黄油般順滑」（提昇使用者頁面的速度與流暢性，但對低硬體條件的裝置效果不大）</li>
@@ -374,10 +375,6 @@ Android 4.3：<br />
 <li>螢幕鎖定時可顯示Widget，唯支援的Widget十分有限（基於開發者有無加入此功能）。</li>
 <li>增加｢Daydream（白日夢）｣功能,其功能類似於螢幕保護。</li>
 </ul>
-<dl>
-<dt><a href="https://zh.wikipedia.org/wiki/File:Android_4.2_bug.jpg" title="fig:Android_4.2_bug.jpg">Android_4.2_bug.jpg</a>]]Android 4.2.1</dt>
-
-</dl>
 <p>修复Android 4.2中的Bug。</p>
 <dl>
 <dt>Android 4.2.2</dt>
@@ -414,7 +411,7 @@ Android 4.3：<br />
 <td><p><a href="../Page/Android_KitKat.md" title="wikilink">Android KitKat</a><br />
 Linux內核版本：<br />
 3.10</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:Android_Logo_(2014).svg" title="fig:缩略图">缩略图</a>2013年10月31日，Google釋出Android 4.4（奇巧Kitkat）。主要更新如下：<a href="https://zh.wikipedia.org/wiki/File:Nexus_5_(Android_4.4.2)_Screenshot.jpg" title="fig:Nexus_5_(Android_4.4.2)_Screenshot.jpg">Nexus_5_(Android_4.4.2)_Screenshot.jpg</a></p>
+<td><p><a href="https://zh.wikipedia.org/wiki/File:Android_Logo_(2014).svg" title="fig:缩略图">缩略图</a>2013年10月31日，Google釋出Android 4.4（奇巧Kitkat）。主要更新如下： <a href="https://zh.wikipedia.org/wiki/File:Nexus_5_(Android_4.4.2)_Screenshot.jpg" title="fig:Nexus_5_(Android_4.4.2)_Screenshot.jpg">Nexus_5_(Android_4.4.2)_Screenshot.jpg</a> <a href="https://zh.wikipedia.org/wiki/File:Android_KitKat_(4.4).jpg" title="fig:Android_KitKat_(4.4).jpg">Android_KitKat_(4.4).jpg</a></p>
 <ul>
 <li>支援語音開啟Google Now（在主畫面說出「OK,Google」）。</li>
 <li>在閱讀電子書、玩遊戲、看電影時支援全螢幕模式（Immersive Mode）。</li>
@@ -433,7 +430,7 @@ Linux內核版本：<br />
 <li>支援隱藏式字幕。</li>
 <li>完全封鎖 Adobe Flash player 功能。</li>
 </ul>
-<p><a href="https://zh.wikipedia.org/wiki/File:Android_4.4_bug.jpg" title="fig:Android_4.4_bug.jpg">Android_4.4_bug.jpg</a>2013年12月5日 Google 釋出Android 4.4.1（Kitkat）。主要更新如下：</p>
+<p>2013年12月5日 Google 釋出Android 4.4.1（Kitkat）。主要更新如下：</p>
 <ul>
 <li>修正 Nexus 5 的對焦、白平衡等相機問題。</li>
 </ul>
@@ -474,7 +471,7 @@ Linux內核版本：<br />
 <li>提供低視力的設定，以協助色弱人士。</li>
 <li>改善Google Now功能。</li>
 </ul>
-<p><a href="https://zh.wikipedia.org/wiki/File:Android_5.0_bug.jpg" title="fig:Android_5.0_bug.jpg">Android_5.0_bug.jpg</a>2014年12月4日Google釋出Android 5.0.1（棒棒糖Lollipop）。主要更新如下：</p>
+<p><a href="https://zh.wikipedia.org/wiki/File:Android_Lollipop_(5.0-5.1).jpg" title="fig:Android_Lollipop_(5.0-5.1).jpg">Android_Lollipop_(5.0-5.1).jpg</a> 2014年12月4日Google釋出Android 5.0.1（棒棒糖Lollipop）。主要更新如下：</p>
 <ul>
 <li>修復開啟ADB偵錯後裝置無法啟動。</li>
 <li>修復恢復出廠設定後鎖屏時輕觸輸入有偏差。</li>
@@ -525,7 +522,7 @@ Linux內核版本：<br />
 <li>簡化音量控制的操作。</li>
 <li>其它細節改善。</li>
 </ul>
-<p>2015年12月7日，Google釋出Android 6.0.1（棉花糖Marshmallow）。 主要更新如下：<a href="https://zh.wikipedia.org/wiki/File:Android_M_Easter_egg.jpg" title="fig:Android_M_Easter_egg.jpg">Android_M_Easter_egg.jpg</a></p>
+<p>2015年12月7日，Google釋出Android 6.0.1（棉花糖Marshmallow）。 主要更新如下：<a href="https://zh.wikipedia.org/wiki/File:Android_Marshmallow_(6.0).jpg" title="fig:Android_Marshmallow_(6.0).jpg">Android_Marshmallow_(6.0).jpg</a></p>
 <ul>
 <li>加入 200 個表情符號。</li>
 <li>「零打擾」模式中，讓「直到下次鬧鈴響時重新啟動」的選項回歸。</li>
@@ -536,7 +533,7 @@ Linux內核版本：<br />
 <td><p><a href="../Page/Android_Nougat.md" title="wikilink">Android Nougat</a><br />
 Linux內核版本：<br />
 4.4.1</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:Android_Nougat_logo.png" title="fig:缩略图">缩略图</a>2016年3月9日，Google發布Android N的開發者預覽版本，並開放下載。 2016年8月22日，Google釋出Android 7.0（牛軋糖Nougat）。 主要更新如下：<a href="https://zh.wikipedia.org/wiki/File:Android_7.0-en.png" title="fig:Android_7.0-en.png">Android_7.0-en.png</a></p>
+<td><p><a href="https://zh.wikipedia.org/wiki/File:Android_Nougat_Logo.svg" title="fig:缩略图">缩略图</a>2016年3月9日，Google發布Android N的開發者預覽版本，並開放下載。 2016年8月22日，Google釋出Android 7.0（牛軋糖Nougat）。 主要更新如下： <a href="https://zh.wikipedia.org/wiki/File:Android_7.0-en.png" title="fig:Android_7.0-en.png">Android_7.0-en.png</a> <a href="https://zh.wikipedia.org/wiki/File:Android_Nougat_(7.0-7.1).jpg" title="fig:Android_Nougat_(7.0-7.1).jpg">Android_Nougat_(7.0-7.1).jpg</a></p>
 <ul>
 <li>支援多視窗模式</li>
 <li>加入應用在 Android Wear 上的 RemoteInput notification API</li>
@@ -565,7 +562,7 @@ Linux內核版本：<br />
 <td><p><a href="../Page/Android_Oreo.md" title="wikilink">Android Oreo</a><br />
 Linux內核版本：<br />
 4.10</p></td>
-<td><p>2017年3月21日，Google發布Android Oreo的開發者預覽版本。<a href="https://zh.wikipedia.org/wiki/File:Android_Oreo_logo.png" title="fig:缩略图">缩略图</a>2017年8月21日，Google釋出Android 8.0（奧利奧 Oreo）。<a href="https://zh.wikipedia.org/wiki/File:Android_Oreo_8.1_screenshot.png" title="fig:Android_Oreo_8.1_screenshot.png">Android_Oreo_8.1_screenshot.png</a></p>
+<td><p>2017年3月21日，Google發布Android Oreo的開發者預覽版本。<a href="https://zh.wikipedia.org/wiki/File:Android_Oreo_logo.svg" title="fig:缩略图">缩略图</a>2017年8月21日，Google釋出Android 8.0（奧利奧 Oreo）。 <a href="https://zh.wikipedia.org/wiki/File:Android_Oreo_8.1_screenshot.png" title="fig:Android_Oreo_8.1_screenshot.png">Android_Oreo_8.1_screenshot.png</a> <a href="https://zh.wikipedia.org/wiki/File:Android_Oreo_(8.0-8.1).jpg" title="fig:Android_Oreo_(8.0-8.1).jpg">Android_Oreo_(8.0-8.1).jpg</a></p>
 <ul>
 <li>強化與用戶互動之性能</li>
 <li>提高電池使用壽命</li>

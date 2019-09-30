@@ -4,8 +4,6 @@
 
 收錄劇情將從一開始的東海到前進新世界，及魯夫2年後的造型。\[2\]
 
-《ONE PIECE》這部動漫作品無論是在台灣、日本都有相當高的人氣，而且最厲害的一點是，平常不太看漫畫或是動畫的人也很難抵抗ONE PIECE的魔力。ONE PIECE從漫畫與動畫開始走紅之後就陸續有推出許多遊戲作品了，以格鬥遊戲或是冒險遊戲的形式出現，不過這次[NAMCO BANDAI Games宣布與](https://zh.wikipedia.org/wiki/NAMCO_BANDAI_Games "wikilink")[TECMO KOEI Games合作在Playstation](https://zh.wikipedia.org/wiki/TECMO_KOEI_Games "wikilink") 3上推出《航海王 海賊無雙》的時候讓人相當驚訝，除了這款遊戲是第一次出現在次世代的主機平台上之外，最重要的就是與TECMO KOEI Games合作推出無雙類型的海賊王遊戲。
-
 ## 登場人物
 
   - [蒙奇·D·魯夫](https://zh.wikipedia.org/wiki/蒙奇·D·魯夫 "wikilink")

@@ -1,4 +1,4 @@
-**AMT自動馬格南II型**（；AutoMag，，意為：「自動馬格南」；II，[罗马数字](../Page/罗马数字.md "wikilink")，意為：[2](../Page/2.md "wikilink")）是一款由[美国](../Page/美国.md "wikilink")槍械製造商[阿卡迪亞機器和工具公司](https://zh.wikipedia.org/wiki/阿卡迪亞機器和工具公司 "wikilink")（，簡稱：AMT）所研製和生產的大型[單動操作型](https://zh.wikipedia.org/wiki/扳機 "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")。發射[.22溫徹斯特馬格南凸緣彈型](../Page/.22溫徹斯特馬格南凸緣彈型.md "wikilink")[子彈](../Page/子彈.md "wikilink")。同樣發射這種馬格南子彈的半自動手槍就只有[格倫德爾P30和Kel](../Page/格倫德爾P30手槍.md "wikilink")-Tec最新推出的[PMR-30](../Page/Kel-Tec_PMR-30手槍.md "wikilink")。
+**AMT自動馬格南II型**（；AutoMag，，意為：「自動馬格南」；II，[罗马数字](../Page/罗马数字.md "wikilink")，意為：[2](../Page/2.md "wikilink")）是一款由[美国](../Page/美国.md "wikilink")槍械製造商[阿卡迪亞機器和工具公司](https://zh.wikipedia.org/wiki/阿卡迪亞機器和工具公司 "wikilink")（，簡稱：AMT）所研製和生產的大型[單動操作型](https://zh.wikipedia.org/wiki/扳機 "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")。發射[.22溫徹斯特馬格南凸緣彈型](../Page/.22溫徹斯特馬格南凸緣彈型.md "wikilink")[子彈](../Page/子彈.md "wikilink")。同樣發射這種馬格南子彈的半自動手槍就只有[格倫德爾P30和Kel](../Page/格倫德爾P30半自動手槍.md "wikilink")-Tec最新推出的[PMR-30](https://zh.wikipedia.org/wiki/Kel-Tec_PMR-30半自動手槍 "wikilink")。
 
 ## 歷史和設計
 
@@ -10,12 +10,12 @@
 
 ## 參見
 
-  - [自動馬格南手槍](../Page/自動麥林手槍.md "wikilink")
+  - [自動馬格南半自動手槍](../Page/自動麥林手槍.md "wikilink")
   - [自動馬格南III型手槍](../Page/自動馬格南III型手槍.md "wikilink")
   - [自動馬格南IV型手槍](../Page/自動馬格南IV型手槍.md "wikilink")
   - [自動馬格南V型手槍](../Page/自動馬格南V型手槍.md "wikilink")
-  - [格倫德爾P30手槍](../Page/格倫德爾P30手槍.md "wikilink")
-  - [Kel-Tec PMR-30手槍](../Page/Kel-Tec_PMR-30手槍.md "wikilink")
+  - [格倫德爾P30半自動手槍](../Page/格倫德爾P30半自動手槍.md "wikilink")
+  - [Kel-Tec PMR-30半自動手槍](https://zh.wikipedia.org/wiki/Kel-Tec_PMR-30半自動手槍 "wikilink")
 
 ## 資料來源
 

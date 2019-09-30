@@ -185,6 +185,14 @@
   - [Strip Battle Days 2](https://zh.wikipedia.org/wiki/Strip_Battle_Days_2 "wikilink")（**西園寺世界**）
   - [真・恋姫†英雄譚123+PLUS〜乙女艶乱☆三国志演義〜](https://zh.wikipedia.org/wiki/真・恋姫†英雄譚123+PLUS〜乙女艶乱☆三国志演義〜 "wikilink")（**公孫賛**）
 
+<!-- end list -->
+
+  - 2019年
+
+<!-- end list -->
+
+  - [ANIMAL☆PANIC](../Page/ANIMAL☆PANIC.md "wikilink")（**水奈月瑠音**）
+
 ### 成人動畫
 
   - [貴方だけにこんばんは](https://zh.wikipedia.org/wiki/貴方だけにこんばんは "wikilink")（瑞智 桃香）

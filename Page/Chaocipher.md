@@ -1,4 +1,4 @@
-Chaocipher是John F. Byrne于1918年设计出的一套[加密系统](https://zh.wikipedia.org/wiki/加密 "wikilink")。 1954年，他在他的自传《Silent Year》中加入了一个用Chaocipher加密后的消息作为谜题来挑战读者，至今无人破解。2010年5月，Byrne家族将所有与Chaocipher相关的文件和物件捐献给美国[国家密码博物馆](https://zh.wikipedia.org/wiki/国家密码博物馆 "wikilink")（[英版维基百科资料](http://en.wikipedia.org/wiki/National_Cryptologic_Museum)），Chaocipher的加密方式才就此大白于天下，但是书中的谜题仍然无从破解。
+Chaocipher是John F. Byrne于1918年设计出的一套[加密](../Page/加密.md "wikilink")系统。 1954年，他在他的自传《Silent Year》中加入了一个用Chaocipher加密后的消息作为谜题来挑战读者，至今无人破解。2010年5月，Byrne家族将所有与Chaocipher相关的文件和物件捐献给美国[国家密码博物馆](https://zh.wikipedia.org/wiki/国家密码博物馆 "wikilink")（[英版维基百科资料](http://en.wikipedia.org/wiki/National_Cryptologic_Museum)），Chaocipher的加密方式才就此大白于天下，但是书中的谜题仍然无从破解。
 
 ## 加密方式
 

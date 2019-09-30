@@ -1,4 +1,4 @@
-**大瀧若菜**（），日本女性歌手。出身於[福岡縣](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")。隸屬於[SPACE CRAFT](../Page/SPACE_CRAFT.md "wikilink")。是已解散的女子組合[Kalafina](../Page/Kalafina.md "wikilink")成員之一。梶浦曾說過Wakana有「女神一般的歌聲」。喜歡的動物是鯊魚，所以有鯊魚姬的稱號。
+**大瀧若奈**\[1\]（），日本女性歌手。出身於[福岡縣](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")。隸屬於[SPACE CRAFT](../Page/SPACE_CRAFT.md "wikilink")。是已解散的女子組合[Kalafina](../Page/Kalafina.md "wikilink")成員之一。梶浦曾說過Wakana有「女神一般的歌聲」。喜歡的動物是鯊魚，所以有鯊魚姬的稱號。
 
 ## 來歷
 
@@ -85,6 +85,8 @@
   - [Kalafina](../Page/Kalafina.md "wikilink")
   - [梶浦由記](../Page/梶浦由記.md "wikilink")
 
+## 參考資料
+
 ## 外部連結
 
   - [所屬事務所介紹頁](http://spacecraft.co.jp/wakana/)
@@ -92,3 +94,5 @@
   - [Kalafina OFFICIAL WEBSITE](http://www.kalafina.jp/)
 
 [Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:福岡縣出身人物](https://zh.wikipedia.org/wiki/Category:福岡縣出身人物 "wikilink") [Category:Kalafina](https://zh.wikipedia.org/wiki/Category:Kalafina "wikilink") [Category:SPACE_CRAFT](https://zh.wikipedia.org/wiki/Category:SPACE_CRAFT "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
+
+1.

@@ -2384,6 +2384,24 @@ Team 4选秀研究生 多田京加昇格至所属队伍</p></td>
 <td><p>22<br />
 (5/2/3)</p></td>
 </tr>
+<tr class="odd">
+<td><p>9月7日</p></td>
+<td><p>Team B选秀研究生 大竹瞳、齋藤陽菜昇格为正式成员</p></td>
+<td></td>
+<td><p>100</p></td>
+<td><p>89</p></td>
+<td><p>22<br />
+(5/2/3)</p></td>
+</tr>
+<tr class="even">
+<td><p>9月12日</p></td>
+<td><p>Team A研究生 佐藤美波、道枝咲昇格为正式成员</p></td>
+<td></td>
+<td><p>100</p></td>
+<td><p>91</p></td>
+<td><p>22<br />
+(5/0/3)</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -3261,6 +3279,34 @@ Team 4选秀研究生 多田京加昇格至所属队伍</p></td>
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>9月7日</p></td>
+<td><p>大竹瞳</p></td>
+<td><p>選秀3期</p></td>
+<td><p>B</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>齋藤陽菜</p></td>
+<td><p>選秀3期</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>9月12日</p></td>
+<td><p>佐藤美波</p></td>
+<td><p>16期</p></td>
+<td><p>A</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>道枝咲</p></td>
+<td><p>16期</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -3751,7 +3797,7 @@ PV的center是前田敦子。</p></td>
 <td><p><a href="../Page/感傷列車.md" title="wikilink">感傷列車</a></p></td>
 <td><p>（<a href="../Page/松井珠理奈.md" title="wikilink">松井珠理奈</a>）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/AKB48第53張單曲世界選拔總選舉" title="wikilink">世界選拔總選舉單曲</a><br />
-原定担任center的松井珠理奈因病休养，CD发行时未能参与录音与摄影</p></td>
+原定担任center的松井珠理奈因病休养，作品发行时未能参与录音与摄影</p></td>
 </tr>
 <tr class="even">
 <td><p>54</p></td>
@@ -3767,9 +3813,9 @@ PV的center是前田敦子。</p></td>
 </tr>
 <tr class="even">
 <td><p>56</p></td>
-<td><p><a href="../Page/Sustainable.md" title="wikilink">Sustainable</a></p></td>
+<td><p><a href="../Page/持續愛你.md" title="wikilink">持續愛你</a></p></td>
 <td><p><a href="../Page/矢作萌夏.md" title="wikilink">矢作萌夏</a></p></td>
-<td><p><a href="../Page/矢作萌夏.md" title="wikilink">矢作萌夏</a>首次擔任Center</p></td>
+<td><p><a href="../Page/矢作萌夏.md" title="wikilink">矢作萌夏</a>第一次擔任Center</p></td>
 </tr>
 </tbody>
 </table>
@@ -3873,7 +3919,7 @@ PV的center是前田敦子。</p></td>
 <td><p><a href="../Page/機會的順序.md" title="wikilink">機會的順序</a></p></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
-<td><p>由<a href="https://zh.wikipedia.org/wiki/AKB48第19張單曲選拔猜拳大會" title="wikilink">AKB48第19張單曲選拔猜拳大會冠軍獲得center</a></p></td>
+<td><p>透過拿下<a href="https://zh.wikipedia.org/wiki/AKB48第19張單曲選拔猜拳大會" title="wikilink">AKB48第19張單曲選拔猜拳大會冠軍獲得center</a></p></td>
 </tr>
 <tr class="even">
 <td><p>10</p></td>
@@ -3941,7 +3987,7 @@ PV的center是前田敦子。</p></td>
 <tr class="odd">
 <td><p>16</p></td>
 <td><p><a href="../Page/矢作萌夏.md" title="wikilink">矢作萌夏</a></p></td>
-<td><p><a href="../Page/Sustainable.md" title="wikilink">Sustainable</a></p></td>
+<td><p><a href="../Page/持續愛你.md" title="wikilink">持續愛你</a></p></td>
 <td></td>
 <td><p>1</p></td>
 <td><p>1</p></td>

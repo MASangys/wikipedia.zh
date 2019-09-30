@@ -16,7 +16,7 @@ now劇集台主要播放日、韓、泰等地劇集。
 
 now觀星台曾是[now寬頻電視的一條娛樂新聞頻道兼主打頻道](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")，於2011年9月12日晚上八時整啟播，由[電訊盈科](../Page/電訊盈科.md "wikilink")首席副總裁，總經理（製作）[何麗全策劃](https://zh.wikipedia.org/wiki/何麗全 "wikilink")，並由[陳貝兒](../Page/陳貝兒.md "wikilink")擔任台長。now觀星台特色是結合互動功能，觀眾可透過搖控器投選娛樂新聞熱話及CEO選拔賽中的優秀參賽者。2015年9月21日起轉型為劇集頻道，而所有主持人轉投[ViuTV](../Page/ViuTV.md "wikilink")。
 
-觀星台啟播當日起，[now香港台亦於同日起取消星期一至五晚上八時至八時半與](https://zh.wikipedia.org/wiki/now香港台 "wikilink")[now新聞台聯播新聞報導的安排](https://zh.wikipedia.org/wiki/now新聞台 "wikilink")，同一時段改與now觀星台聯播；啟播時月費為港幣18元。
+now觀星台啟播當日起，[now香港台亦於同日起取消星期一至五晚上八時至八時半與](https://zh.wikipedia.org/wiki/now香港台 "wikilink")[now新聞台聯播新聞報導的安排](https://zh.wikipedia.org/wiki/now新聞台 "wikilink")，同一時段改與now觀星台聯播；啟播時月費為港幣18元。
 
 開台派對於9月11日邀得郭富城亮燈，並邀請了麥玲玲、陳柏宇、吳雨霏、方大同、薛凱琪、周柏豪及謝婷婷等亮相。
 

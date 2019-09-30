@@ -174,6 +174,8 @@ IGN称赞《马里奥赛车DS》的游戏性和设计深度，并称难以想象
 
   -
   -
+  - [瑪利歐賽車DS影片](https://www.youtube.com/watch?v=G6ax1c_3uOo)
+
 [Category:2005年电子游戏](https://zh.wikipedia.org/wiki/Category:2005年电子游戏 "wikilink") [Category:瑪利歐賽車系列](https://zh.wikipedia.org/wiki/Category:瑪利歐賽車系列 "wikilink") [Category:任天堂情报开发本部游戏](https://zh.wikipedia.org/wiki/Category:任天堂情报开发本部游戏 "wikilink") [Category:任天堂DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂DS遊戲 "wikilink") [Category:Wii_U_Virtual_Console游戏](https://zh.wikipedia.org/wiki/Category:Wii_U_Virtual_Console游戏 "wikilink") [Category:任天堂Wi-Fi连接游戏](https://zh.wikipedia.org/wiki/Category:任天堂Wi-Fi连接游戏 "wikilink") [Category:多人在线游戏](https://zh.wikipedia.org/wiki/Category:多人在线游戏 "wikilink")
 
 1.

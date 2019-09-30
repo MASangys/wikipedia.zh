@@ -64,7 +64,7 @@ LastPass可以将数据库中的数据导出到[CSV文件](https://zh.wikipedia.
 
 ## 高级版功能
 
-用户可每月缴纳2[美元](../Page/美元.md "wikilink")将帐户升级至LastPass高级版（Premium），获得更多的功能\[13\]。
+用户可每月缴纳3[美元](../Page/美元.md "wikilink")将帐户升级至LastPass高级版（Premium），获得更多的功能\[13\]。
 
 ### 多因素身份验证设备支持
 

@@ -1,14 +1,14 @@
-**FN FNX**是一系列由[比利时](../Page/比利时.md "wikilink")槍械製造商[國營赫斯塔爾](https://zh.wikipedia.org/wiki/赫爾斯塔爾國營工廠 "wikilink")（，簡稱：FN）旗下、位於[南卡羅來納州](https://zh.wikipedia.org/wiki/南卡羅來納州 "wikilink")[哥倫比亞的](https://zh.wikipedia.org/wiki/哥倫比亞_\(南卡羅來納州\) "wikilink")[美国](../Page/美国.md "wikilink")分公司（FNH USA）所設計和生產的一系列[半自動手槍](../Page/半自動手槍.md "wikilink")。\[1\]具有[聚合物](../Page/聚合物.md "wikilink")製造的[底把](../Page/机匣.md "wikilink")，和分別有[不鏽鋼](../Page/不鏽鋼.md "wikilink")和聚合物兩種可以選擇的套筒。這款手槍在2010年（美國著名槍展）上首次亮相。推出時為[發射](../Page/膛室.md "wikilink")[9毫米鲁格弹](../Page/9×19mm魯格彈.md "wikilink")、[.40 S\&W](../Page/.40_S&W.md "wikilink")，其後新增了[.45 ACP口徑的衍生型](../Page/.45_ACP.md "wikilink")。
+**FN FNX**是一系列由[比利时](../Page/比利时.md "wikilink")槍械製造商[埃斯塔勒](../Page/埃斯塔勒.md "wikilink")[國營工廠](https://zh.wikipedia.org/wiki/埃斯塔勒國營工廠 "wikilink")（，簡稱：FN）旗下、位於[南卡羅來納州](https://zh.wikipedia.org/wiki/南卡羅來納州 "wikilink")[哥倫比亞的](https://zh.wikipedia.org/wiki/哥倫比亞_\(南卡羅來納州\) "wikilink")[美国](../Page/美国.md "wikilink")分公司（FNH USA）所設計和生產的一系列[半自動手槍](../Page/半自動手槍.md "wikilink")。\[1\]具有[聚合物](../Page/聚合物.md "wikilink")製造的[底把](../Page/机匣.md "wikilink")，和分別有[不鏽鋼](../Page/不鏽鋼.md "wikilink")和聚合物兩種可以選擇的套筒。這款手槍在2010年（美國著名槍展）上首次亮相。推出時為[發射](../Page/膛室.md "wikilink")[9毫米鲁格弹](../Page/9×19mm魯格彈.md "wikilink")、[.40 S\&W](../Page/.40_S&W.md "wikilink")，其後新增了[.45 ACP口徑的衍生型](../Page/.45_ACP.md "wikilink")。
 
 ## 歷史
 
-自[白朗寧大威力手槍](../Page/白朗寧大威力手槍.md "wikilink")誕生後，[國營赫斯塔爾不斷研發出該槍的衍生型](https://zh.wikipedia.org/wiki/赫爾斯塔爾國營工廠 "wikilink")，憑藉著“白朗寧的遺產”打拼手槍市場。但到了1990年代，現代手槍的迅速發展已經讓白朗寧大威力手槍顯得黯然失色。意識到白朗寧大威力手槍不能成為永久依賴的產品的國營赫斯塔爾開始積極致力於推出新型現代手槍。
+自[白朗寧大威力半自動手槍](../Page/白朗寧大威力半自動手槍.md "wikilink")誕生後，[國營埃斯塔勒不斷研發出該槍的衍生型](https://zh.wikipedia.org/wiki/埃斯塔勒國營工廠 "wikilink")，憑藉著“白朗寧的遺產”打拼手槍市場。但到了1990年代，現代手槍的迅速發展已經讓白朗寧大威力半自動手槍顯得黯然失色。意識到白朗寧大威力半自動手槍不能成為永久依賴的產品的國營赫斯塔爾開始積極致力於推出新型現代手槍。
 
 2003年，國營赫斯塔爾推出了[FNP系列聚合物](../Page/FN_FNP手槍.md "wikilink")[套筒座手槍](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")。但FNP系列中規中矩沒有特色，在手槍市場上還是不溫不火。後來，國營赫斯塔爾決定下大力量改進設計，打造一款完美手槍，這就是2010年推出的FNX系列手槍。該系列手槍在2010年（美國著名槍展）上首次亮相。
 
 ## 標準功能
 
-所有的FNX手槍衍生型都具有[能左右手操作操作的大型](../Page/两手同利.md "wikilink")[保險／待擊解脫桿](../Page/杠杆.md "wikilink")、[彈匣](../Page/彈匣.md "wikilink")釋放按鈕和[套筒鎖](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")（套筒釋放裝置、[空槍掛機桿](https://zh.wikipedia.org/wiki/空槍掛機 "wikilink")）。\[2\]所有的衍生型亦具有凸出方格表面紋理和[生產商標誌的握把](https://zh.wikipedia.org/wiki/赫爾斯塔爾國營工廠 "wikilink")，套筒前後用以向後拉動的鋸齒型防滑紋，設有一條整合在套筒下、[底把的](../Page/机匣.md "wikilink")[扳機護圈前方的](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")用以安裝各種[戰術燈](../Page/戰術燈.md "wikilink")、[雷射瞄準器和其他戰術配件的](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")[MIL-STD-1913綜合戰術配件導軌](../Page/皮卡汀尼導軌.md "wikilink")、固定三點式大型戰鬥[機械瞄具](../Page/機械瞄具.md "wikilink")，和套筒右側的[上膛顯示桿](https://zh.wikipedia.org/wiki/上膛顯示桿 "wikilink")。\[3\]新型號在銷售時會裝在一個[塑料](../Page/塑料.md "wikilink")製造的硬式攜帶盒內，連3 個專用的可拆卸式[彈匣](../Page/彈匣.md "wikilink")，以及四個可更換式後方握把片。\[4\]\[5\]\[6\]
+所有的FNX手槍衍生型都具有[能左右手操作操作的大型](../Page/两手同利.md "wikilink")[保險／待擊解脫桿](../Page/杠杆.md "wikilink")、[彈匣](../Page/彈匣.md "wikilink")釋放按鈕和[套筒鎖](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")（套筒釋放裝置、[空槍掛機桿](https://zh.wikipedia.org/wiki/空槍掛機 "wikilink")）。\[2\]所有的衍生型亦具有凸出方格表面紋理和[生產商標誌的握把](https://zh.wikipedia.org/wiki/埃斯塔勒國營工廠 "wikilink")，套筒前後用以向後拉動的鋸齒型防滑紋，設有一條整合在套筒下、[底把的](../Page/机匣.md "wikilink")[扳機護圈前方的](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")用以安裝各種[戰術燈](../Page/戰術燈.md "wikilink")、[雷射瞄準器和其他戰術配件的](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")[MIL-STD-1913綜合戰術配件導軌](../Page/皮卡汀尼導軌.md "wikilink")、固定三點式大型戰鬥[機械瞄具](../Page/機械瞄具.md "wikilink")，和套筒右側的[上膛顯示桿](https://zh.wikipedia.org/wiki/上膛顯示桿 "wikilink")。\[3\]新型號在銷售時會裝在一個[塑料](../Page/塑料.md "wikilink")製造的硬式攜帶盒內，連3 個專用的可拆卸式[彈匣](../Page/彈匣.md "wikilink")，以及四個可更換式後方握把片。\[4\]\[5\]\[6\]
 
 [FNX-40_field_strip.jpg](https://zh.wikipedia.org/wiki/File:FNX-40_field_strip.jpg "fig:FNX-40_field_strip.jpg")[套筒型FNX](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")-40的[不完全分解](https://zh.wikipedia.org/wiki/不完全分解 "wikilink")
 1：[槍管](../Page/槍管.md "wikilink")
@@ -20,11 +20,11 @@
 
 2011年初，FNX手槍的衍生型分別是FNX-9和FNX-40，並且兩個衍生型都可以選擇使用啞[黑色](../Page/黑色.md "wikilink")或是[不鏽鋼](../Page/不鏽鋼.md "wikilink")處理的[套筒](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")，並有可能具有[橄欖色套筒](https://zh.wikipedia.org/wiki/橄榄绿 "wikilink")。
 
-2012年10月初，[FNH USA推出了FNX](https://zh.wikipedia.org/wiki/赫爾斯塔爾國營工廠 "wikilink")-45，具有其一般型、緊湊型和戰術型。一般型和緊湊型可以選擇使用啞黑色或是不鏽鋼處理的[套筒](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")；而戰術型可以選擇使用全沙色或是啞黑色處理的套筒及底把，可於套筒上的兩個安裝孔裝上[小型反射式瞄準鏡](../Page/紅點鏡.md "wikilink")（例如[Docter](https://zh.wikipedia.org/wiki/Docter小型紅點鏡 "wikilink")、[DeltaPoint或](https://zh.wikipedia.org/wiki/Leupold_DeltaPoint小型紅點鏡 "wikilink")[RMR](https://zh.wikipedia.org/wiki/Trijicon_RMR小型紅點鏡 "wikilink")）以及於槍口裝上[消聲器](../Page/抑制器.md "wikilink")（不安裝消聲器時，可安裝槍口螺紋保護環）。\[10\]\[11\]\[12\]\[13\]
+2012年10月初，[FNH USA推出了FNX](https://zh.wikipedia.org/wiki/埃斯塔勒國營工廠 "wikilink")-45，具有其一般型、緊湊型和戰術型。一般型和緊湊型可以選擇使用啞黑色或是不鏽鋼處理的[套筒](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")；而戰術型可以選擇使用全沙色或是啞黑色處理的套筒及底把，可於套筒上的兩個安裝孔裝上[小型反射式瞄準鏡](../Page/紅點鏡.md "wikilink")（例如[Docter](https://zh.wikipedia.org/wiki/Docter小型紅點鏡 "wikilink")、[DeltaPoint或](https://zh.wikipedia.org/wiki/Leupold_DeltaPoint小型紅點鏡 "wikilink")[RMR](https://zh.wikipedia.org/wiki/Trijicon_RMR小型紅點鏡 "wikilink")）以及於槍口裝上[消聲器](../Page/抑制器.md "wikilink")（不安裝消聲器時，可安裝槍口螺紋保護環）。\[10\]\[11\]\[12\]\[13\]
 
-根據最初FNX的生產執行，FNX戰術型預計將會先推出[.45 ACP](../Page/.45_ACP.md "wikilink")[口徑型](https://zh.wikipedia.org/wiki/口徑 "wikilink")。也會出現FNX的緊湊型，最有可能也是.45口徑。後者預計將使用10 發或12 發可拆卸式[彈匣](../Page/彈匣.md "wikilink")，而一般型使用14 發可拆卸式[彈匣](../Page/彈匣.md "wikilink")，戰術型則使用15 發可拆卸式[彈匣](../Page/彈匣.md "wikilink")。
+根據最初FNX的生產執行，FNX戰術型預計將會先推出[.45 ACP](../Page/.45_ACP.md "wikilink")[口徑型](https://zh.wikipedia.org/wiki/口徑 "wikilink")。也會出現FNX的緊湊型，最有可能也是.45口徑。後者預計將使用10 發或12 發可拆卸式[彈匣](../Page/彈匣.md "wikilink")，而一般型使用14發可拆卸式[彈匣](../Page/彈匣.md "wikilink")，戰術型則使用15發可拆卸式[彈匣](../Page/彈匣.md "wikilink")。
 
-FNX-45的彈匣後方開了12 個標示小孔，編號為「4」至「15」，可以讓使用者更準確和快速通過檢視知道彈匣內的剩餘子彈量。這與原來的FNX對比，FNX40具有「5」、「10」、和「14」的標示小孔，和FNX-9具有「5」、「10」、「15」、和「17」的標示小孔。
+FNX-45的彈匣後方開了12個標示小孔，編號為「4」至「15」，可以讓使用者更準確和快速通過檢視知道彈匣內的剩餘子彈量。這與原來的FNX對比，FNX40具有「5」、「10」、和「14」的標示小孔，和FNX-9具有「5」、「10」、「15」、和「17」的標示小孔。
 
 ## 設計及操作
 
@@ -50,13 +50,13 @@ FNX系列手槍的保險機構是基於可在[M1911上發現的保險](../Page/M
 
 ## 參見
 
-  - [國營赫斯塔爾](https://zh.wikipedia.org/wiki/赫爾斯塔爾國營工廠 "wikilink")
+  - [國營埃斯塔勒](https://zh.wikipedia.org/wiki/埃斯塔勒國營工廠 "wikilink")
   - [FN M1900](../Page/FN_M1900手槍.md "wikilink")
   - [FN M1903](../Page/FN_M1903手槍.md "wikilink")
   - [FN M1905](https://zh.wikipedia.org/wiki/FN_M1905手槍 "wikilink")
   - [FN M1910](https://zh.wikipedia.org/wiki/FN_M1910手槍 "wikilink")
-  - [白朗寧大威力手槍](../Page/白朗寧大威力手槍.md "wikilink")
-  - [FN HP-DA](../Page/白朗寧雙動手槍.md "wikilink")
+  - [FN HP](../Page/白朗寧大威力半自動手槍.md "wikilink")
+  - [FN HP-DA](../Page/白朗寧雙動半自動手槍.md "wikilink")
   - [FN Forty-Nine](https://zh.wikipedia.org/wiki/FN_Forty-Nine手槍 "wikilink")
   - [FN Five-seveN](../Page/FN_Five-seveN手槍.md "wikilink")
   - [FN FNP](../Page/FN_FNP手槍.md "wikilink")

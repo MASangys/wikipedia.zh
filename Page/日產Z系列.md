@@ -17,7 +17,7 @@
 
 ### 第三代（Z31型、1983年-1989年）
 
-[1984_Nissan_300ZX_(Z31)_50th_Anniversary_hatchback_(2015-08-07)_01.jpg](https://zh.wikipedia.org/wiki/File:1984_Nissan_300ZX_\(Z31\)_50th_Anniversary_hatchback_\(2015-08-07\)_01.jpg "fig:1984_Nissan_300ZX_(Z31)_50th_Anniversary_hatchback_(2015-08-07)_01.jpg") 第三代是於1983年被完全重新設計，外形對比前兩代較具方形，並且引進了[日產新系列的](https://zh.wikipedia.org/wiki/日產 "wikilink")3.0升V6引擎。(代號VG) 第三代被命名為300ZX。1983年率先在日本市場推出，至1984年又在美國推出。
+[1984_Nissan_300ZX_(Z31)_50th_Anniversary_hatchback_(2015-08-07)_01.jpg](https://zh.wikipedia.org/wiki/File:1984_Nissan_300ZX_\(Z31\)_50th_Anniversary_hatchback_\(2015-08-07\)_01.jpg "fig:1984_Nissan_300ZX_(Z31)_50th_Anniversary_hatchback_(2015-08-07)_01.jpg") 第三代是於1983年亮相，被完全重新設計，外形對比前兩代較具方形，並且引進了[日產新系列的](https://zh.wikipedia.org/wiki/日產 "wikilink")3.0升V6引擎。(代號VG) 第三代被命名為300ZX。1983年率先在日本市場推出，至1984年又在美國推出。
 
 ### 第四代（Z32型、1989年-2000年）
 

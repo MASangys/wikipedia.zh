@@ -50,7 +50,7 @@
 
 ## 評價
 
-[爛番茄](../Page/爛番茄.md "wikilink")基於44條評論，本片的新鮮度僅11%，平均分為2.84/10\[1\]。而在[Metacritic](../Page/Metacritic.md "wikilink")上也只得到24分\[2\]。[IMDB上僅得](https://zh.wikipedia.org/wiki/IMDB "wikilink")3.6分，大獲差評。
+[爛番茄](../Page/爛番茄.md "wikilink")基於44條評論，本片的新鮮度僅11%，平均分為2.84/10\[1\]。而在[Metacritic](../Page/Metacritic.md "wikilink")上也只得到24分\[2\]。[IMDB上僅得](https://zh.wikipedia.org/wiki/IMDB "wikilink")3.7分，大獲差評。
 
 ## 票房
 

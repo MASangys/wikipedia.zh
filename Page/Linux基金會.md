@@ -2,7 +2,7 @@
 
 ## 源起
 
-在2007年，[開源碼發展實驗室](../Page/開源碼發展實驗室.md "wikilink")（Open Source Development Labs, OSDL）與[自由標準組織](https://zh.wikipedia.org/wiki/自由標準組織 "wikilink")（Free Standards Group, FSG)聯合起來，成立了這個組織。
+[Linux_Foundation_logo_2007.svg](https://zh.wikipedia.org/wiki/File:Linux_Foundation_logo_2007.svg "fig:Linux_Foundation_logo_2007.svg") 在2007年，[開源碼發展實驗室](../Page/開源碼發展實驗室.md "wikilink")（Open Source Development Labs, OSDL）與[自由標準組織](https://zh.wikipedia.org/wiki/自由標準組織 "wikilink")（Free Standards Group, FSG)聯合起來，成立了這個組織。
 
 ## 宗旨
 

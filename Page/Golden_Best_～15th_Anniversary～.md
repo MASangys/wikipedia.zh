@@ -106,7 +106,7 @@
     <!-- end list -->
       -
         第七張原創專輯《TODAY IS ANOTHER DAY》的收錄曲。
-4.  **[Don't you see\!](https://zh.wikipedia.org/wiki/Don't_you_see! "wikilink")**★
+4.  **[Don't you see\!](../Page/Don't_you_see!.md "wikilink")**★
       - 作曲：栗林誠一郎　編曲：葉山たけし
     <!-- end list -->
       -

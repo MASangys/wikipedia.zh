@@ -9,7 +9,7 @@
   - 本地男歌手
       - [古巨基](../Page/古巨基.md "wikilink")
   - 本地女歌手
-      - [容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")
+      - [容祖兒](../Page/容祖兒.md "wikilink")
   - 本地音樂組合
       - [Twins](https://zh.wikipedia.org/wiki/Twins "wikilink")
       - [RubberBand](../Page/RubberBand.md "wikilink")
@@ -45,7 +45,7 @@
   - 搜尋十大人氣歌曲2011：
       - [古巨基](../Page/古巨基.md "wikilink")《勁歌金曲3-Party King》
       - [薛凱琪](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")《除下吊帶前》
-      - [容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")《花千樹》
+      - [容祖兒](../Page/容祖兒.md "wikilink")《花千樹》
       - [周柏豪](../Page/周柏豪.md "wikilink")《Smiley Face》
       - [蔡卓妍](../Page/蔡卓妍.md "wikilink")《年年》
       - [C AllStar](../Page/C_AllStar.md "wikilink")《天梯》
@@ -68,7 +68,7 @@
   - 搜尋台灣區人氣合唱華語歌曲2011
       - [方大同](https://zh.wikipedia.org/wiki/方大同 "wikilink")、 [徐佳瑩](../Page/徐佳瑩.md "wikilink")《自以為》
   - 搜尋人氣大碟2011
-      - [容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")《Joey & Joey》
+      - [容祖兒](../Page/容祖兒.md "wikilink")《Joey & Joey》
   - 搜尋人氣演唱會2011
       - [王菀之](https://zh.wikipedia.org/wiki/王菀之 "wikilink")《水百合演唱會》
 

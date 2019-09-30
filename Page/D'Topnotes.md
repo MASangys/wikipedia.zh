@@ -10,7 +10,7 @@ D'Topnotes曾經在七十年代中因為工作理念不同而解散，D'Topnotes
 
 D'Topnotes在1987年正式解散。Christine Samson 跟她兩個妹妹Vikki Samson 和 Lizzie Samson 組織了**The Samson Sisters Trio**\[6\]。
 
-Christine Samson 1998年開始全職教學生，她的學生大部分都是現今歌手，包括[容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")、[謝安琪](../Page/謝安琪.md "wikilink")、[蘇永康](../Page/蘇永康.md "wikilink")、[何韻詩](https://zh.wikipedia.org/wiki/何韻詩 "wikilink")、[楊千嬅](../Page/楊千嬅.md "wikilink")、[Twins](https://zh.wikipedia.org/wiki/Twins "wikilink")、[G.E.M.](https://zh.wikipedia.org/wiki/G.E.M. "wikilink")、[鄧麗欣](../Page/鄧麗欣.md "wikilink")，[TVB前總經理](https://zh.wikipedia.org/wiki/TVB "wikilink")[陳志雲](../Page/陳志雲.md "wikilink")也曾經跟過Christine Samson學習唱歌\[7\]。
+Christine Samson 1998年開始全職教學生，她的學生大部分都是現今歌手，包括[容祖兒](../Page/容祖兒.md "wikilink")、[謝安琪](../Page/謝安琪.md "wikilink")、[蘇永康](../Page/蘇永康.md "wikilink")、[何韻詩](https://zh.wikipedia.org/wiki/何韻詩 "wikilink")、[楊千嬅](../Page/楊千嬅.md "wikilink")、[Twins](https://zh.wikipedia.org/wiki/Twins "wikilink")、[G.E.M.](https://zh.wikipedia.org/wiki/G.E.M. "wikilink")、[鄧麗欣](../Page/鄧麗欣.md "wikilink")，[TVB前總經理](https://zh.wikipedia.org/wiki/TVB "wikilink")[陳志雲](../Page/陳志雲.md "wikilink")也曾經跟過Christine Samson學習唱歌\[7\]。
 
 Christine Samson於2002年與[Uncle Ray合作推出首張個人專輯](https://zh.wikipedia.org/wiki/Uncle_Ray "wikilink")《Letter To My First Love》\[8\]。Christine Samson的兒子Adam為樂隊[Dear Jane前成員](../Page/Dear_Jane.md "wikilink"), 及地下樂隊[Hardpack](../Page/Hardpack.md "wikilink")的現任結他手。
 

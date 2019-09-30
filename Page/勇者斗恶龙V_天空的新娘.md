@@ -54,9 +54,7 @@
 
 和系列其他作品一样，《勇者斗恶龙V》在日本非常畅销。超级任天堂版在日本售出了279万份，PlayStation 2重制版售出了165万份。在2006年日本游戏杂志《[Fami通](../Page/Fami通.md "wikilink")》举办的读者百佳游戏票选中，原版游戏排到了第11位，PS2重制版排到了第40位\[31\]。将游戏故事被分成不同的时间段一直受到赞扬，當時只有为数不多的电子游戏会使用此手法\[32\]\[33\]\[34\]。游戏的处理[成长主题的方式也受到稱道](../Page/教育小说.md "wikilink")，[Gamasutra评价](https://zh.wikipedia.org/wiki/Gamasutra "wikilink")“从没游戏能像《勇者斗恶龙V》一样将其做到如此壯麗”\[35\]。游戏也被认为是堀井雄二在系列中最喜欢的作品\[36\]。
 
-2008年发售的任天堂DS重制版是当年日本第七畅销的游戏，计售出了117萬份\[37\]。游戏在全世界售出了135万份\[38\]。有評論认为游戏是DS上最好的RPG之一，也是“该平台上情节最佳的游戏之一”\[39\]\[40\]。虽然有批评认为游戏的界面过于陈旧和简单，但亦有评论认为游戏感人的情节盖过了其缺陷，评论还称“这是最伟大的传统RPG之一”\[41\]。 {{-}}
-
-## 注释
+2008年发售的任天堂DS重制版是当年日本第七畅销的游戏，计售出了117萬份\[37\]。游戏在全世界售出了135万份\[38\]。有評論认为游戏是DS上最好的RPG之一，也是“该平台上情节最佳的游戏之一”\[39\]\[40\]。虽然有批评认为游戏的界面过于陈旧和简单，但亦有评论认为游戏感人的情节盖过了其缺陷，评论还称“这是最伟大的传统RPG之一”\[41\]。
 
 ## 参考文献
 
@@ -66,7 +64,7 @@
 
   - [NDS版勇者斗恶龙天空系列](http://www.square-enix.co.jp/dragonquest/4to6/index.html)
 
-[Category:勇者鬥惡龍系列電子遊戲](https://zh.wikipedia.org/wiki/Category:勇者鬥惡龍系列電子遊戲 "wikilink") [Category:1992年电子游戏](https://zh.wikipedia.org/wiki/Category:1992年电子游戏 "wikilink") [Category:Matrix_Software游戏](https://zh.wikipedia.org/wiki/Category:Matrix_Software游戏 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:任天堂DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂DS遊戲 "wikilink") [Category:超级任天堂游戏](https://zh.wikipedia.org/wiki/Category:超级任天堂游戏 "wikilink") [Category:CHUNSOFT游戏](https://zh.wikipedia.org/wiki/Category:CHUNSOFT游戏 "wikilink")
+[Category:1992年电子游戏](https://zh.wikipedia.org/wiki/Category:1992年电子游戏 "wikilink") [Category:勇者鬥惡龍系列電子遊戲](https://zh.wikipedia.org/wiki/Category:勇者鬥惡龍系列電子遊戲 "wikilink") [Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink") [Category:CHUNSOFT游戏](https://zh.wikipedia.org/wiki/Category:CHUNSOFT游戏 "wikilink") [Category:Matrix_Software游戏](https://zh.wikipedia.org/wiki/Category:Matrix_Software游戏 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:任天堂DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂DS遊戲 "wikilink") [Category:超级任天堂游戏](https://zh.wikipedia.org/wiki/Category:超级任天堂游戏 "wikilink")
 
 1.
 2.

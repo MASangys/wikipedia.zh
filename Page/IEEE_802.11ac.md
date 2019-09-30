@@ -1,4 +1,4 @@
-**IEEE 802.11ac**是[802.11家族的一項](../Page/IEEE_802.11.md "wikilink")[無線網路標準](https://zh.wikipedia.org/wiki/無線網路 "wikilink")，由[IEEE標準協會制定](https://zh.wikipedia.org/wiki/電機電子工程師學會標準協會 "wikilink")\[1\]，透過[5GHz頻帶提供高通量的](../Page/WLAN信道列表.md "wikilink")[無線區域網路](https://zh.wikipedia.org/wiki/無線區域網路 "wikilink")（WLAN）\[2\]，俗稱**5G WiFi** （第五代Wi-Fi，及因其使用5GHz頻帶）\[3\]，[Wi-Fi联盟](../Page/Wi-Fi联盟.md "wikilink")自2018年称为**Wi-Fi 5**\[4\]。
+**IEEE 802.11ac**是[802.11家族的一項](../Page/IEEE_802.11.md "wikilink")[無線網路標準](https://zh.wikipedia.org/wiki/無線網路 "wikilink")，由[IEEE標準協會制定](https://zh.wikipedia.org/wiki/電機電子工程師學會標準協會 "wikilink")\[1\]，透過[5GHz頻帶提供高通量的](../Page/WLAN信道列表.md "wikilink")[無線區域網路](https://zh.wikipedia.org/wiki/無線區域網路 "wikilink")（WLAN）\[2\]，俗稱**5G WiFi** （第五代Wi-Fi，及因其使用5GHz頻帶）\[3\]，[Wi-Fi联盟](../Page/Wi-Fi联盟.md "wikilink")自2018年起称为**Wi-Fi 5**\[4\]。
 
 2008年年底，[IEEE 802標準組織成立新小組](../Page/IEEE_802.md "wikilink")，目的是在於建立新標準來改善[802.11-2007標準](https://zh.wikipedia.org/wiki/802.11-2007 "wikilink")。包括建立提高無線傳輸的速度的標準，使無線網路的能夠提供與有線網路相當的傳輸效能。
 
@@ -26,7 +26,7 @@ Quantenna公司在2011年11月15日推出了世界上第一只采用802.11ac的[
 
 ## Wave 1与Wave 2
 
-Wave 2指的是2016年推出的产品，提供比传统Wave 1产品更高的吞吐量，这些产品从2013年开始被推出。Wave 1的[PHY](../Page/PHY.md "wikilink")（物理）理论速率最高可达866 Mbps，而Wave 2的可达1.73 Gbps\[11\]。Wave 2支援MU-MIMO。
+Wave 2指的是2016年推出的产品，提供比传统Wave 1产品更高的吞吐量，这些产品从2013年开始被推出。Wave 1的[PHY](../Page/PHY.md "wikilink")（物理）理论速率最高可达866 Mbps，而Wave 2的可达1.73 Gbps\[11\]。Wave 2增加對MU-MIMO的支援。
 
 ## 802.11網路標準
 

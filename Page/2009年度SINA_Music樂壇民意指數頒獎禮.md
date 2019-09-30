@@ -15,7 +15,7 @@
       - 《日夜想你》 ——[鍾嘉欣](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")
       - 《Here We Are》 ——[吳雨霏](../Page/吳雨霏.md "wikilink")
       - 《地球很危險》 ——[古巨基](../Page/古巨基.md "wikilink")
-      - 《搜神記》 ——[容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")
+      - 《搜神記》 ——[容祖兒](../Page/容祖兒.md "wikilink")
       - 《今天終於知道錯》 ——[陳偉霆](../Page/陳偉霆.md "wikilink")
       - 《二缺一》 ——[蔡卓妍](../Page/蔡卓妍.md "wikilink")
       - 《月亮說》 ——[王菀之](https://zh.wikipedia.org/wiki/王菀之 "wikilink")
@@ -61,19 +61,19 @@
   - 我最喜愛全國男歌手
       - [陳奕迅](../Page/陳奕迅.md "wikilink")
   - 我最喜愛全國女歌手
-      - [容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")
+      - [容祖兒](../Page/容祖兒.md "wikilink")
   - 我最喜愛全國組合
       - [S.H.E.](https://zh.wikipedia.org/wiki/S.H.E. "wikilink")
   - 我最喜愛男歌手（香港）
       - [陳奕迅](../Page/陳奕迅.md "wikilink")
   - 我最喜愛女歌手（香港）
-      - [容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")
+      - [容祖兒](../Page/容祖兒.md "wikilink")
   - 我最喜愛男組合（香港）
       - [RubberBand](../Page/RubberBand.md "wikilink")
   - 我最喜愛女組合（香港）
       - [at17](https://zh.wikipedia.org/wiki/at17 "wikilink")
   - 我最喜愛至尊金曲
-      - 《搜神記》 ——[容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")
+      - 《搜神記》 ——[容祖兒](../Page/容祖兒.md "wikilink")
 
 ## 媒體播放
 

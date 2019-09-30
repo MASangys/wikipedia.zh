@@ -86,7 +86,7 @@ VB主機的失敗讓任天堂懷疑了立體3D遊戲的可行性\[8\]，儘管�
 
 2012年7月5日，日本任天堂之子公司[任天堂溥天](../Page/任天堂溥天.md "wikilink")和[任天堂香港宣布](https://zh.wikipedia.org/wiki/任天堂香港 "wikilink")，將於台湾和香港地区推出繁體中文版的「Nintendo 3DS」以及「Nintendo 3DS XL」。3DS將推出全新顏色「晴-{}-空藍（Cerulean Blue）」和「珠光桃紅（Shimmer Pink）」，3DS XL則推出「純白色」和「藍黑色」，同時也確定將陸續推出《[任天狗狗＋貓貓](https://zh.wikipedia.org/wiki/任天狗狗＋貓貓 "wikilink")》、《[超級瑪利歐3D樂園](../Page/超級瑪利歐3D樂園.md "wikilink")》、《[薩爾達傳說 時之笛 3D](https://zh.wikipedia.org/wiki/薩爾達傳說_時之笛_3D "wikilink")》、《[瑪利歐賽車7](../Page/瑪利歐賽車7.md "wikilink")》以及《[惡靈古堡 啟示](https://zh.wikipedia.org/wiki/惡靈古堡_啟示 "wikilink")》等五款中文化遊戲。\[56\]並且陸續支援了後續全部的《[精靈寶可夢系列](https://zh.wikipedia.org/wiki/精靈寶可夢系列 "wikilink")》。
 
-### 大陆版本
+### 中國大陆版本
 
 2012年10月30日，任天堂在中国大陆的子公司神游科技提交的型号为SPR-001(CHN)“神游DS双屏多媒体互动系统（带播放功能）”通-{}-过中国大陆的3C产品认证。而通-{}-过的产品型号SPR-001则与任天堂3DS LL/XL的型号一致。11月1日，神游官方网站更新了iQue 3DS XL的详细信息，本次的行货3DS采用了独有的马里奥图案作为机身涂装；而配套的2款首发游戏《[超級瑪利歐3D樂園](../Page/超級瑪利歐3D樂園.md "wikilink")》（神游译名“超级马力欧 3D乐园”）和《[瑪利歐賽車7](../Page/瑪利歐賽車7.md "wikilink")》（神游译名“马力欧卡丁车7”）则会内置于主机内发售。
 

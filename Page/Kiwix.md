@@ -4,8 +4,8 @@
 
 ## 外部链接
 
-  - [官方主页](http://www.kiwix.org)
-  - [RSS/Atom](http://planet.kiwix.org)
+  - [官方主页](https://kiwix.org)
+  - [RSS/Atom](https://planet.kiwix.org)
   - [微博](https://web.archive.org/web/20110820063257/http://identi.ca/group/kiwix)
 
 [Category:维基百科](https://zh.wikipedia.org/wiki/Category:维基百科 "wikilink") [Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink") [Category:使用XUL的軟體](https://zh.wikipedia.org/wiki/Category:使用XUL的軟體 "wikilink")

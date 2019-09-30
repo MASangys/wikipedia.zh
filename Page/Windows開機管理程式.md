@@ -1,4 +1,4 @@
-**開機管理程式**（）是從[Windows Vista開始引進的新一代開機管理程式](../Page/Windows_Vista.md "wikilink")，用以取代[`NTLDR`](../Page/NTLDR.md "wikilink")。當電腦執行完[POST後](https://zh.wikipedia.org/wiki/加电自检 "wikilink")，傳統型[BIOS](../Page/BIOS.md "wikilink")會根據[啟動磁區尋找開機硬碟中標記](https://zh.wikipedia.org/wiki/啟動磁區 "wikilink")"啟動"分割區下的`BOOTMGR`檔案；[UEFI則是ESP分割區中的](https://zh.wikipedia.org/wiki/UEFI "wikilink")`Bootmgfw.efi`檔案（即UEFI中的「Windows Boot Manager」開機裝置）或`bootx64.efi`檔案，接著Windows Boot Manager會讀取開機組態資料庫（，）下的啟動資料，接著根據其中的資料載入與預設或使用者所選擇的[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。如果選擇啟動Windows NT 5.x系列作業系統（Windows 2000/XP/2003），則BOOTMGR會先啟動NTLDR檔案，再由NTLDR啟動Windows NT 5.x。
+**開機管理程式**（）是從[Windows Vista開始引進的新一代開機管理程式](../Page/Windows_Vista.md "wikilink")，用以取代[`NTLDR`](../Page/NTLDR.md "wikilink")。當電腦執行完[POST後](https://zh.wikipedia.org/wiki/加电自检 "wikilink")，傳統型[BIOS](../Page/BIOS.md "wikilink")會根據[啟動磁區尋找開機硬碟中標記](https://zh.wikipedia.org/wiki/啟動磁區 "wikilink")"啟動"分割區下的`BOOTMGR`檔案；[UEFI則是ESP分割區中的](https://zh.wikipedia.org/wiki/UEFI "wikilink")`Bootmgfw.efi`檔案（即UEFI中的「Windows Boot Manager」開機裝置，檔案名系「Boot Manager Firmware」的缩写）或`bootx64.efi`檔案，接著Windows Boot Manager會讀取開機組態資料庫（，）下的啟動資料，接著根據其中的資料載入與預設或使用者所選擇的[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。如果選擇啟動Windows NT 5.x系列作業系統（Windows 2000/XP/2003），則BOOTMGR會先啟動NTLDR檔案，再由NTLDR啟動Windows NT 5.x。
 
 ## 開機組態資料庫（）
 
@@ -6,7 +6,7 @@
 
 開機組態資料庫的檔案結構是與登錄資料庫完全相同的。 \[1\]在使用了[統一可延伸韌體介面](../Page/統一可延伸韌體介面.md "wikilink")（）開機方式的電腦上，BCD檔案儲存在[EFI系统分區](https://zh.wikipedia.org/wiki/EFI系统分區 "wikilink")（ESP）；在使用Legacy BIOS開機方式的電腦上，有可能儲存在系统分割區下的"`\Boot"目錄下的bcd檔案中`，如果是[Windows 7與後續版本](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")，也有可能儲存在一個隱藏的開機分割區（200MB左右）中（尤其是在沒有任何磁碟分割的硬碟中安裝Windows 7/8/10的情況下）。
 
-內建於Windows，用於設定BCD的公用程式為"`bcdedit.exe`"\[2\]；若要快速設定系統分割區或是修復錯誤的開機選項則使用"`bcdboot.exe`"\[3\]公用程式；其他用於管理的工具還有[EasyBCD](https://zh.wikipedia.org/wiki/EasyBCD "wikilink")、[Bootice或是](https://zh.wikipedia.org/wiki/Bootice "wikilink")[WMI等工具修改](https://zh.wikipedia.org/wiki/WMI "wikilink")。
+內建於Windows，用於設定BCD的公用程式為"`bcdedit.exe`"\[2\]；若要快速設定系統分割區或是修復錯誤的開機選項則使用"`bcdboot.exe`"\[3\]公用程式；其他用於管理的工具還有[EasyBCD](https://zh.wikipedia.org/wiki/EasyBCD "wikilink")、[Visual BCD](https://zh.wikipedia.org/wiki/Visual_BCD "wikilink")、[Bootice或是](https://zh.wikipedia.org/wiki/Bootice "wikilink")[WMI等工具修改](https://zh.wikipedia.org/wiki/WMI "wikilink")。
 
 開機組態資料庫包含開機管理程式的選單及控制管理程式的行為，就像包含所使用`boot.ini`。這些選單的內容是：
 
@@ -29,13 +29,13 @@
 
 從[Windows Vista](../Page/Windows_Vista.md "wikilink")[作业系统開始](https://zh.wikipedia.org/wiki/作业系统 "wikilink")，[微软](../Page/微软.md "wikilink")公司引進的新一代開機管理程式，其内部囊括了众多[进阶工具](https://zh.wikipedia.org/wiki/进阶 "wikilink")，以便用以[除错和解决](https://zh.wikipedia.org/wiki/除错 "wikilink")[系统无法正常启动问题](https://zh.wikipedia.org/wiki/系统 "wikilink")\[4\]。
 
-從[Windows 8開始](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")，由於Windows預設採用快速啟動（Fast Startup）技術，進階啟動選項預設被隱藏。
+從[Windows 8開始](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")，由於Windows預設採用快速啟動（Fast Startup）技術，進階啟動選項預設被隱藏（但用户仍然可以手动开启進階啟動選項，效果和Windows 7完全相同）。
 
 ### 工具
 
   - 修復您的電腦（繁體）/修復計算機（簡體）
 
-啟動[Windows RE](https://zh.wikipedia.org/wiki/Windows_RE "wikilink")，顯示所有進階修復工具。
+啟動進階復原選項([Windows 8或更新則出現選擇選項](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")），顯示所有進階修復工具。
 
   - 安全模式
 
@@ -80,6 +80,10 @@
   - 正常啟動 Windows
 
 以正常模式啟動系統。
+
+## 注释
+
+{{-}}
 
 ## 引用
 

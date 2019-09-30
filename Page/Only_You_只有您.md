@@ -350,7 +350,7 @@ May之未婚夫<br />
 利用吳兆海捉拿豹哥</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/江富強" title="wikilink">江富強</a></p></td>
+<td><p><a href="../Page/江富強.md" title="wikilink">江富強</a></p></td>
 <td></td>
 <td><p>黑社會成員<br />
 林豹之手下<br />

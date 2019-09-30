@@ -26,7 +26,7 @@ GO一共營運七條通勤鐵路綫，連接多倫多市中心[聯合車站以�
 <tr class="odd">
 <td><p><sub></sub> <strong></strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/哈密爾頓_(安大略省)" title="wikilink">咸美頓</a></p></td>
-<td><p>有接駁巴士和季節性周末列車前往<a href="https://zh.wikipedia.org/wiki/尼亞加拉瀑布城_(安大略省)" title="wikilink">尼亞加拉瀑布城</a></p></td>
+<td><p>有接駁巴士和季節性列車前往<a href="https://zh.wikipedia.org/wiki/尼亞加拉瀑布城_(安大略省)" title="wikilink">尼亞加拉瀑布城</a></p></td>
 <td><p>A</p></td>
 </tr>
 <tr class="even">
@@ -38,13 +38,13 @@ GO一共營運七條通勤鐵路綫，連接多倫多市中心[聯合車站以�
 <tr class="odd">
 <td><p><sub></sub> <strong></strong></p></td>
 <td><p><a href="../Page/米尔顿_(安大略省).md" title="wikilink">苗頓</a></p></td>
-<td><p>有接駁巴士前往<a href="../Page/滑鐵盧_(安大略省).md" title="wikilink">滑鐵盧</a></p></td>
+<td></td>
 <td><p>C</p></td>
 </tr>
 <tr class="even">
 <td><p><sub></sub> <strong></strong></p></td>
 <td><p><a href="../Page/基秦拿.md" title="wikilink">基秦拿</a></p></td>
-<td></td>
+<td><p>可乘坐ION Lrt前往<a href="https://zh.wikipedia.org/wiki/滑铁卢（安大略省）" title="wikilink">滑铁卢</a></p></td>
 <td><p>D</p></td>
 </tr>
 <tr class="odd">
@@ -68,19 +68,19 @@ GO一共營運七條通勤鐵路綫，連接多倫多市中心[聯合車站以�
 </tbody>
 </table>
 
-[Lakeshore_West_GO_Train_Westbound.jpg](https://zh.wikipedia.org/wiki/File:Lakeshore_West_GO_Train_Westbound.jpg "fig:Lakeshore_West_GO_Train_Westbound.jpg") 當中，湖濱西綫和湖濱東綫常以連綫方式營運：湖濱西綫大部份非繁忙時段及部份繁忙時段的東行列車抵達聯合車站後，會繼續向東前往奧沙華，反之亦然。而七條通勤鐵路綫當中亦只有湖濱西綫和湖濱東綫於非繁忙時段運行；其他路綫除了巴里綫暑期額外提供部分周末班次以外\[4\]，只於早上繁忙時段前往多倫多市中心，以及於晚上繁忙時段前往市郊。
+[Lakeshore_West_GO_Train_Westbound.jpg](https://zh.wikipedia.org/wiki/File:Lakeshore_West_GO_Train_Westbound.jpg "fig:Lakeshore_West_GO_Train_Westbound.jpg") 當中，湖濱西綫和湖濱東綫常以連綫方式營運：湖濱西綫大部份非繁忙時段及部份繁忙時段的東行列車抵達聯合車站後，會繼續向東前往奧沙華，反之亦然。而七條通勤鐵路綫當中亦只有湖濱西綫全线、湖濱東綫全线、巴里线全线及基秦拿线部分路段於非繁忙時段提供服务；其余线路只於早上繁忙時段前往多倫多市中心，以及於晚上繁忙時段前往市郊。
 
 GO通勤列車外部的主色是綠色和白色，而呈拉長八角形狀的雙層客車箱則是由[龐巴迪公司於](https://zh.wikipedia.org/wiki/龐巴迪 "wikilink")1970年代為GO特別設計。時至今日，這些已廣受北美其他地區的營運商所使用。列車主要採[推拉方式運作](https://zh.wikipedia.org/wiki/動力集中式 "wikilink")。
 
 GO通勤鐵路投入服務初期的全部路段皆是從[加拿大國家鐵路](../Page/加拿大國家鐵路.md "wikilink")（CNR）或[加拿大太平洋鐵路](../Page/加拿大太平洋鐵路.md "wikilink")（CPR）所租用。GO於1988年首次設置其專有軌道，並將湖濱東綫的部分路段調往該軌道運行。GO從2000年起亦陸續從上述兩家鐵路公司購入軌道，當中包括聯合車站鐵路走廊、巴里綫全綫、喬治鎮綫（即現基秦拿綫）和史托夫維爾綫的大部分路段、以及湖濱西綫和苗頓綫的小部分路段。
 
-此外，GO的列車司機和查票員等職位過往也是外判予該兩家鐵路公司。因此，每當該兩家公司遇上工潮時，GO的列車服務也會受影響。然而，GO卻於2007年與[龐巴迪簽下五年合約](https://zh.wikipedia.org/wiki/龐巴迪 "wikilink")，由該公司提供160名列車司機、查票員和顧客服務大使在除了苗頓綫以外的六條鐵路綫執勤，並取代了過往由CNR提供的員工。\[5\]苗頓綫的運作則繼續外判予CPR。
+此外，GO的列車司機和查票員等職位過往也是外判予該兩家鐵路公司。因此，每當該兩家公司遇上工潮時，GO的列車服務也會受影響。然而，GO卻於2007年與[龐巴迪簽下五年合約](https://zh.wikipedia.org/wiki/龐巴迪 "wikilink")，由該公司提供160名列車司機、查票員和顧客服務大使在除了苗頓綫以外的六條鐵路綫執勤，並取代了過往由CNR提供的員工。\[4\]苗頓綫的運作則繼續外判予CPR。
 
 ## 通勤巴士
 
 [GO_Transit_double-decker_bus.jpg](https://zh.wikipedia.org/wiki/File:GO_Transit_double-decker_bus.jpg "fig:GO_Transit_double-decker_bus.jpg")
 
-GO的巴士車隊主要由製造的單層57座位巴士組成。從2008年4月起，GO亦開始派遣22輛[亞歷山大丹尼士](../Page/亞歷山大丹尼士.md "wikilink")[Enviro 500](../Page/亞歷山大丹尼士Enviro_500.md "wikilink")[雙層巴士來行駛旗下的](https://zh.wikipedia.org/wiki/雙層巴士 "wikilink")[407公路和](../Page/安大略407號省道.md "wikilink")[403公路巴士綫](../Page/安大略403號省道.md "wikilink")\[6\]\[7\]。當GO添置更多部雙層巴士後，當中部分亦將被派遣來行駛約克區路綫\[8\]。
+GO的巴士車隊主要由製造的單層57座位巴士組成。從2008年4月起，GO亦開始派遣22輛[亞歷山大丹尼士](../Page/亞歷山大丹尼士.md "wikilink")[Enviro 500](../Page/亞歷山大丹尼士Enviro_500.md "wikilink")[雙層巴士來行駛旗下的](https://zh.wikipedia.org/wiki/雙層巴士 "wikilink")[407公路和](../Page/安大略407號省道.md "wikilink")[403公路巴士綫](../Page/安大略403號省道.md "wikilink")\[5\]\[6\]。當GO添置更多部雙層巴士後，當中部分亦將被派遣來行駛約克區路綫\[7\]，目前大部分GO运输的巴士线路均有双层巴士走行。
 
 每條GO通勤鐵路綫有一條相應的巴士綫；每當鐵路綫休車時，其相應巴士綫便會行駛相若的路綫。舉例說，苗頓綫西行往苗頓的列車只於下午繁忙時間行駛，而其他時段西行往苗頓的客運服務則由巴士代替。其他巴士綫則可視作鐵路綫的延伸，而鐵路綫休車時則直接來往多倫多市中心；如西行往貴湖的巴士綫在下午繁忙時間從喬治鎮火車站起行，而其他時段則直接從多市中心出發。GO的多倫多市中心巴士總站設於聯合車站旁邊。
 
@@ -90,7 +90,7 @@ GO的其他巴士綫則完全獨立運作，而不與鐵路服務銜接或重疊
 
 [USBT_platforms.JPG](https://zh.wikipedia.org/wiki/File:USBT_platforms.JPG "fig:USBT_platforms.JPG")
 
-GO的巴士服務停靠17個巴士總站\[9\]</ref>。部分總站的業權屬GO，由GO巴士專用或與其他市立公共交通機構共用。其他總站則屬市立公共交通機構，但允許GO巴士停靠；另外亦有市際巴士總站供GO和其他長途巴士公司（如[灰狗巴士](../Page/灰狗巴士.md "wikilink")）停靠。
+GO的巴士服務停靠17個巴士總站\[8\]</ref>。部分總站的業權屬GO，由GO巴士專用或與其他市立公共交通機構共用。其他總站則屬市立公共交通機構，但允許GO巴士停靠；另外亦有市際巴士總站供GO和其他長途巴士公司（如[灰狗巴士](../Page/灰狗巴士.md "wikilink")）停靠。
 
 GO鐵路於多處與[多倫多公車局](https://zh.wikipedia.org/wiki/多倫多公車局 "wikilink")（TTC）旗下的巴士、[電車和](../Page/多倫多路面電車系統.md "wikilink")[地鐵服務接駁](../Page/多倫多地鐵.md "wikilink")。GO鐵路於[聯合車站的大堂與TTC的](https://zh.wikipedia.org/wiki/聯合車站_\(多倫多\) "wikilink")相連，方便乘客換乘[央街－大學－士巴丹拿線](https://zh.wikipedia.org/wiki/央街－大學－士巴丹拿線 "wikilink")。GO鐵路亦於另外四個車站與[布羅爾－單福線](../Page/布羅爾－單福線.md "wikilink")接駁，而GO巴士的其中一個總站亦與[士嘉堡輕鐵](../Page/士嘉堡輕鐵.md "wikilink")接駁。多倫多市以内的所有GO鐵路車站皆與TTC的巴士綫和電車綫接駁。GO亦於多倫多市以外與另外14間市立公共交通機構的巴士服務接駁。
 
@@ -98,23 +98,23 @@ GO鐵路於多處與[多倫多公車局](https://zh.wikipedia.org/wiki/多倫多
 
 [OakvilleGOStation.jpg](https://zh.wikipedia.org/wiki/File:OakvilleGOStation.jpg "fig:OakvilleGOStation.jpg")
 
-隨著人口上升和工業發展，大多倫多與咸美頓地區各城鎮於1950年代急速增長，對通勤鐵路服務的需求亦有增無減。然而，當時區内的通勤鐵路營運商[加拿大國家鐵路公司](https://zh.wikipedia.org/wiki/加拿大國家鐵路公司 "wikilink")（CN）卻缺乏擴充服務所需的資源。到了1962年，新成立的「大多倫多市及周邊地區運輸研究組」開始就通勤鐵路服務擴充計劃進行實質研究。首份報告於1963年10月完成，探討了在多倫多市中心聯外鐵路綫上增設通勤鐵路服務的可行性。第二份報告於1965年1月完成，界定CN湖濱鐵路綫的客運通勤服務。安大略省政府和CN再於1965年2月宣佈落實在湖濱綫上試行通勤鐵路服務\[10\]。
+隨著人口上升和工業發展，大多倫多與咸美頓地區各城鎮於1950年代急速增長，對通勤鐵路服務的需求亦有增無減。然而，當時區内的通勤鐵路營運商[加拿大國家鐵路公司](https://zh.wikipedia.org/wiki/加拿大國家鐵路公司 "wikilink")（CN）卻缺乏擴充服務所需的資源。到了1962年，新成立的「大多倫多市及周邊地區運輸研究組」開始就通勤鐵路服務擴充計劃進行實質研究。首份報告於1963年10月完成，探討了在多倫多市中心聯外鐵路綫上增設通勤鐵路服務的可行性。第二份報告於1965年1月完成，界定CN湖濱鐵路綫的客運通勤服務。安大略省政府和CN再於1965年2月宣佈落實在湖濱綫上試行通勤鐵路服務\[9\]。
 
-湖濱綫通勤鐵路於1967年5月23日啓用，並名為「安大略省運輸公司」（，後來縮短成），實驗期為三年，利用單層[柴油動車組以推拉方式運作](https://zh.wikipedia.org/wiki/柴油動車組 "wikilink")\[11\]\[12\]，連接[皮克靈](../Page/皮克靈.md "wikilink")和[奧克維爾](../Page/奥克维尔_\(安大略省\).md "wikilink")，並設繁忙時段列車西行至咸美頓。乘客總數於四個月内已突破100萬人次，此後平均每天乘客數目也達1萬5千人次。此綫後來分為湖濱西綫和湖濱東綫，但仍是GO的首要客運走廊\[13\]。
+湖濱綫通勤鐵路於1967年5月23日啓用，並名為「安大略省運輸公司」（，後來縮短成），實驗期為三年，利用單層[柴油動車組以推拉方式運作](https://zh.wikipedia.org/wiki/柴油動車組 "wikilink")\[10\]\[11\]，連接[皮克靈](../Page/皮克靈.md "wikilink")和[奧克維爾](../Page/奥克维尔_\(安大略省\).md "wikilink")，並設繁忙時段列車西行至咸美頓。乘客總數於四個月内已突破100萬人次，此後平均每天乘客數目也達1萬5千人次。此綫後來分為湖濱西綫和湖濱東綫，但仍是GO的首要客運走廊\[12\]。
 
-GO後於1970和80年代陸續擴展通勤鐵路服務：喬治鎮綫於1974年啓用\[14\]，之後還有列治文山綫（1978年）\[15\]、苗頓綫（1981年）、布拉德福綫和史托夫維爾綫，遂形成現時七綫營運的局面\[16\]。GO於1979年引入雙層客車以提升載客量，而現有的聯合車站GO大堂亦於同年落成。GO亦於1970年開辦從湖濱綫終點站對外伸延的巴士綫；其巴士網絡於往後年間逐漸成形。
+GO後於1970和80年代陸續擴展通勤鐵路服務：喬治鎮綫於1974年啓用\[13\]，之後還有列治文山綫（1978年）\[14\]、苗頓綫（1981年）、布拉德福綫和史托夫維爾綫，遂形成現時七綫營運的局面\[15\]。GO於1979年引入雙層客車以提升載客量，而現有的聯合車站GO大堂亦於同年落成。GO亦於1970年開辦從湖濱綫終點站對外伸延的巴士綫；其巴士網絡於往後年間逐漸成形。
 
-安省政府於1982年末宣佈斥資26億加元興建名為「」的區域性輕鐵系統\[17\]；計劃最終沒有實現，但當中部分建議仍透過其他方式進行，包括增建車站和伸延湖濱綫至[韋比和](../Page/惠特比_\(安大略省\).md "wikilink")[寶靈頓](https://zh.wikipedia.org/wiki/伯靈頓_\(安大略省\) "wikilink")\[18\]。此外，GO亦於1990年擴充布拉德福綫、喬治鎮綫和湖濱東綫的繁忙時段服務，以及苗頓綫的離峰服務。
+安省政府於1982年末宣佈斥資26億加元興建名為「」的區域性輕鐵系統\[16\]；計劃最終沒有實現，但當中部分建議仍透過其他方式進行，包括增建車站和伸延湖濱綫至[韋比和](../Page/惠特比_\(安大略省\).md "wikilink")[寶靈頓](https://zh.wikipedia.org/wiki/伯靈頓_\(安大略省\) "wikilink")\[17\]。此外，GO亦於1990年擴充布拉德福綫、喬治鎮綫和湖濱東綫的繁忙時段服務，以及苗頓綫的離峰服務。
 
-然而，隨著安大略省的經濟於1990年代初陷入衰退，時任省長[李博宣佈一系列削支行動](../Page/李博_\(政治人物\).md "wikilink")，令早前獲擴充的各項GO服務大致打回原型\[19\]，待2000年代才逐步恢復削支前的服務水平。布拉德福綫於2007年伸延至巴里南站並改稱「巴里綫」，史托夫維爾綫於2008年伸延至林肯維爾，而喬治鎮綫則於2011年伸延至[貴湖](../Page/貴湖.md "wikilink")和[基秦拿](../Page/基秦拿.md "wikilink")並改稱「基秦拿綫」。
+然而，隨著安大略省的經濟於1990年代初陷入衰退，時任省長[李博宣佈一系列削支行動](../Page/李博_\(政治人物\).md "wikilink")，令早前獲擴充的各項GO服務大致打回原型\[18\]，待2000年代才逐步恢復削支前的服務水平。布拉德福綫於2007年伸延至巴里南站並改稱「巴里綫」，史托夫維爾綫於2008年伸延至林肯維爾，而喬治鎮綫則於2011年伸延至[貴湖](../Page/貴湖.md "wikilink")和[基秦拿](../Page/基秦拿.md "wikilink")並改稱「基秦拿綫」。
 
 ## 使用狀況
 
-[GoTrain_UpperDeck.jpg](https://zh.wikipedia.org/wiki/File:GoTrain_UpperDeck.jpg "fig:GoTrain_UpperDeck.jpg") [GO_Transit_Orion_V_2000.jpg](https://zh.wikipedia.org/wiki/File:GO_Transit_Orion_V_2000.jpg "fig:GO_Transit_Orion_V_2000.jpg") GO在每個工作日營運246班鐵路服務和2452班巴士服務，兩者合計的平均工作日乘客數目於2013年4月達25萬1千人次，當中18萬7千人次來自鐵路服務，6萬4千人次則來自巴士服務，而2012年度全年乘客數目則達6500萬人次\[20\]。GO歷來服務過的乘客總數於2006年10月11日突破10億人次\[21\]\[22\]。
+[GoTrain_UpperDeck.jpg](https://zh.wikipedia.org/wiki/File:GoTrain_UpperDeck.jpg "fig:GoTrain_UpperDeck.jpg") [GO_Transit_Orion_V_2000.jpg](https://zh.wikipedia.org/wiki/File:GO_Transit_Orion_V_2000.jpg "fig:GO_Transit_Orion_V_2000.jpg") GO在每個工作日營運246班鐵路服務和2452班巴士服務，兩者合計的平均工作日乘客數目於2013年4月達25萬1千人次，當中18萬7千人次來自鐵路服務，6萬4千人次則來自巴士服務，而2012年度全年乘客數目則達6500萬人次\[19\]。GO歷來服務過的乘客總數於2006年10月11日突破10億人次\[20\]\[21\]。
 
-GO鐵路的乘客中有96%是往返多倫多市中心的聯合車站，而巴士乘客中則有70%是來回多倫多市\[23\]。80%鐵路乘客和60%巴士乘客可使用私家車通勤，但仍選擇使用GO的服務\[24\]。
+GO鐵路的乘客中有96%是往返多倫多市中心的聯合車站，而巴士乘客中則有70%是來回多倫多市\[22\]。80%鐵路乘客和60%巴士乘客可使用私家車通勤，但仍選擇使用GO的服務\[23\]。
 
-| 2010年乘客旅程總數\[25\]       |
+| 2010年乘客旅程總數\[24\]       |
 | ----------------------- |
 | 鐵路系統                    |
 | 鐵路綫                     |
@@ -150,39 +150,37 @@ GO鐵路的乘客中有96%是往返多倫多市中心的聯合車站，而巴士
 
 3.
 
-4.  <http://www.gotransit.com/publicroot/en/default.aspx>
+4.  [GO deal swaps CN crews with Bombardier personnel, Toronto Star Nov 09, 2007](http://www.thestar.com/article/275022)
 
-5.  [GO deal swaps CN crews with Bombardier personnel, Toronto Star Nov 09, 2007](http://www.thestar.com/article/275022)
+5.
 
 6.
 
 7.
-
 8.
-9.
-10. Sergeant, Ch.3: MTARTS, the commuter study.
+9.  Sergeant, Ch.3: MTARTS, the commuter study.
 
-11. Garcia et al.: Lakeshore corridor
+10. Garcia et al.: Lakeshore corridor
 
-12. Sergeant, Ch.4: Buying the trains.
+11. Sergeant, Ch.4: Buying the trains.
 
-13.
-14. Garcia et al.: Georgetown corridor
+12.
+13. Garcia et al.: Georgetown corridor
 
-15. Garcia et al.: Regional Transit Routes
+14. Garcia et al.: Regional Transit Routes
 
-16.
-17. Garcia et al.: GO ALRT
+15.
+16. Garcia et al.: GO ALRT
 
-18.
-19. Garcia et al.: Bradford corridor
+17.
+18. Garcia et al.: Bradford corridor
 
+19.
 20.
+
 21.
 
 22.
-
 23.
-24.
 
-25. [2009 and 2010 GO Ridership Figures](http://urbantoronto.ca/showthread.php?17355-2009-and-2010-GO-Ridership-Figures)
+24. [2009 and 2010 GO Ridership Figures](http://urbantoronto.ca/showthread.php?17355-2009-and-2010-GO-Ridership-Figures)

@@ -100,11 +100,11 @@ CRH380C型动车组是在[CRH3C](../Page/和谐号CRH3型电力动车组.md "wik
 <td><p>一等座车／商务车</p></td>
 <td><p>一等座车</p></td>
 <td><p>商务车</p></td>
+<td><p>一等座车</p></td>
 <td><p>二等座车</p></td>
 <td><p>餐車</p></td>
 <td><p>二等座车</p></td>
 <td><p>一等座车／商务车</p></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -136,10 +136,10 @@ CRH380C型动车组是在[CRH3C](../Page/和谐号CRH3型电力动车组.md "wik
 <tr class="odd">
 <td><p>车辆编号<span style="font-size:smaller;">（CRH380CL-5601）</span></p></td>
 <td><p>CRH380CL-5601<br />
-ZYG 560101</p></td>
+ZYS 560101</p></td>
 <td><p>ZY 560102</p></td>
 <td><p>SW 560103</p></td>
-<td><p>ZE 560104</p></td>
+<td><p>ZY 560104</p></td>
 <td><p>ZE 560105</p></td>
 <td><p>ZE 560106</p></td>
 <td><p>ZE 560107</p></td>
@@ -152,7 +152,7 @@ ZYG 560101</p></td>
 <td><p>ZE 560114</p></td>
 <td><p>ZE 560115</p></td>
 <td><p>CRH380CL-5601<br />
-ZYG 560100</p></td>
+ZYS 560100</p></td>
 </tr>
 <tr class="even">
 <td><p>车辆编号<span style="font-size:smaller;">（其他CRH380CL）</span></p></td>
@@ -220,7 +220,7 @@ ZYS 56xx00</p></td>
 <td><p>2+37</p></td>
 <td><p>56</p></td>
 <td><p>24</p></td>
-<td><p>80</p></td>
+<td><p>56</p></td>
 <td><p>71</p></td>
 <td><p>80</p></td>
 <td><p>80</p></td>

@@ -990,7 +990,7 @@
 <td><p>2012年10月5日</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/日清食品.md" title="wikilink">日清食品</a><a href="https://zh.wikipedia.org/wiki/杯麵" title="wikilink">杯麵產品</a><br />
+<td><p><a href="../Page/日清食品.md" title="wikilink">日清食品</a><a href="../Page/杯麵.md" title="wikilink">杯麵</a>產品<br />
 「<a href="../Page/合味道.md" title="wikilink">合味道</a>」<br />
 （Cup Noodle）</p></td>
 <td><p>「真實」篇<br />

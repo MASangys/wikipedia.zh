@@ -1,6 +1,6 @@
-《**Dream High**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS自](../Page/韓國放送公社.md "wikilink")2011年1月3日起播出的[月火迷你連續劇](https://zh.wikipedia.org/wiki/KBS月火迷你連續劇 "wikilink")。
+《**Dream High**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS自](../Page/韓國放送公社.md "wikilink")2011年1月3日起播出的[月火迷你連續劇](https://zh.wikipedia.org/wiki/KBS月火迷你連續劇 "wikilink")。由《[名家](../Page/名家_\(電視劇\).md "wikilink")》的[李應福](../Page/李應福.md "wikilink")導演與《[泡菜奶酪微笑](../Page/泡菜奶酪微笑.md "wikilink")》、《[愛情殺手吳水晶](../Page/愛情殺手吳水晶.md "wikilink")》的[朴惠蓮](../Page/朴惠蓮.md "wikilink")作家合作打造。此劇講述因為有夢想而很幸福的年輕人的故事。\[1\]
 
-2011年3月1日，即電視劇播畢後的一天在[首爾](../Page/首爾.md "wikilink")播出了一個特輯，由原劇組演員出演。\[1\]\[2\]2012年1月後續的《-{[Dream High 2](https://zh.wikipedia.org/wiki/Dream_High_2 "wikilink")}-》播出。
+2011年3月1日，即電視劇播畢後的隔天播出了一個以情境劇+演唱會的形式的特輯，由原劇組演員出演\[2\]\[3\]。2011年3月確定製作續集《-{[Dream High 2](https://zh.wikipedia.org/wiki/Dream_High_2 "wikilink")}-》\[4\]。
 
 ## 故事大綱
 
@@ -442,32 +442,7 @@
   - [朴恩玭](../Page/朴恩玭.md "wikilink") 飾演 青少年 高慧星（第十六集）
   - [Dal★Shabet](../Page/Dal★Shabet.md "wikilink")（第十六集）
 
-## 收視率
-
-以下收視率，紅色數值表示最高收視率，藍色數值表示最低收視率。
-
-| 集數       | 播出日期       | TNmS 收視率\[3\]                           | AGB 收視率\[4\]                            |
-| -------- | ---------- | --------------------------------------- | --------------------------------------- |
-| 大韓民國（全國） | 首爾（首都圈）    | 大韓民國（全國）                                | 首爾（首都圈）'''                              |
-| 第1集      | 2011/01/03 | <span style=color:blue>**11.3%**</span> | 14.2%                                   |
-| 第2集      | 2011/01/04 | 11.5%                                   | 13.9%                                   |
-| 第3集      | 2011/01/10 | 11.7%                                   | <span style=color:blue>**13.8%**</span> |
-| 第4集      | 2011/01/11 | 13.4%                                   | 15.4%                                   |
-| 第5集      | 2011/01/17 | 13.7%                                   | 15.8%                                   |
-| 第6集      | 2011/01/18 | 13.1%                                   | 15.9%                                   |
-| 第7集      | 2011/01/24 | 15.3%                                   | 17.5%                                   |
-| 第8集      | 2011/01/31 | 14.9%                                   | 17.4%                                   |
-| 第9集      | 2011/02/01 | 14.9%                                   | 16.9%                                   |
-| 第10集     | 2011/02/07 | 16.7%                                   | 19.2%                                   |
-| 第11集     | 2011/02/08 | 16.6%                                   | 19.3%                                   |
-| 第12集     | 2011/02/14 | 15.8%                                   | 17.8%                                   |
-| 第13集     | 2011/02/15 | 17.2%                                   | 20.1%                                   |
-| 第14集     | 2011/02/21 | 16.4%                                   | 18.9%                                   |
-| 第15集     | 2011/02/22 | 17.2%                                   | 19.7%                                   |
-| 第16集     | 2011/02/28 | <span style=color:red>**18.2%**</span>  | <span style=color:red>**20.7%**</span>  |
-| 平均收視率    | 14.8%      | 17.3%                                   | 15.7%                                   |
-
-## 電視原聲帶
+## 原聲帶
 
   - 發行日期：2011年2月14日（韓國）、2011年7月22日（臺灣）
 
@@ -482,7 +457,134 @@
 3.  Only Hope
 4.  到死也不放開你
 
-## 腳註
+## 收視率
+
+<table>
+<thead>
+<tr class="header">
+<th><p>集數</p></th>
+<th><p>播出日期</p></th>
+<th><p>TNmS 收視率[5]</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/AC尼爾森" title="wikilink">AGB收視率</a>[6]</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>大韓民國（全國）</p></td>
+<td><p>首爾（首都圈）</p></td>
+<td><p>大韓民國（全國）</p></td>
+<td><p>首爾（首都圈</p></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td><p>2011/01/03</p></td>
+<td></td>
+<td><p>14.2%</p></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+<td><p>2011/01/04</p></td>
+<td><p>11.5%</p></td>
+<td><p>13.9%</p></td>
+</tr>
+<tr class="even">
+<td><p>3</p></td>
+<td><p>2011/01/10</p></td>
+<td><p>11.7%</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>4</p></td>
+<td><p>2011/01/11</p></td>
+<td><p>13.4%</p></td>
+<td><p>15.4%</p></td>
+</tr>
+<tr class="even">
+<td><p>5</p></td>
+<td><p>2011/01/17</p></td>
+<td><p>13.7%</p></td>
+<td><p>15.8%</p></td>
+</tr>
+<tr class="odd">
+<td><p>6</p></td>
+<td><p>2011/01/18</p></td>
+<td><p>13.1%</p></td>
+<td><p>15.9%</p></td>
+</tr>
+<tr class="even">
+<td><p>7</p></td>
+<td><p>2011/01/24</p></td>
+<td><p>15.3%</p></td>
+<td><p>17.5%</p></td>
+</tr>
+<tr class="odd">
+<td><p>8</p></td>
+<td><p>2011/01/31</p></td>
+<td><p>14.9%</p></td>
+<td><p>17.4%</p></td>
+</tr>
+<tr class="even">
+<td><p>9</p></td>
+<td><p>2011/02/01</p></td>
+<td><p>14.9%</p></td>
+<td><p>16.9%</p></td>
+</tr>
+<tr class="odd">
+<td><p>10</p></td>
+<td><p>2011/02/07</p></td>
+<td><p>16.7%</p></td>
+<td><p>19.2%</p></td>
+</tr>
+<tr class="even">
+<td><p>11</p></td>
+<td><p>2011/02/08</p></td>
+<td><p>16.6%</p></td>
+<td><p>19.3%</p></td>
+</tr>
+<tr class="odd">
+<td><p>12</p></td>
+<td><p>2011/02/14</p></td>
+<td><p>15.8%</p></td>
+<td><p>17.8%</p></td>
+</tr>
+<tr class="even">
+<td><p>13</p></td>
+<td><p>2011/02/15</p></td>
+<td><p>17.2%</p></td>
+<td><p>20.1%</p></td>
+</tr>
+<tr class="odd">
+<td><p>14</p></td>
+<td><p>2011/02/21</p></td>
+<td><p>16.4%</p></td>
+<td><p>18.9%</p></td>
+</tr>
+<tr class="even">
+<td><p>15</p></td>
+<td><p>2011/02/22</p></td>
+<td><p>17.2%</p></td>
+<td><p>19.7%</p></td>
+</tr>
+<tr class="odd">
+<td><p>16</p></td>
+<td><p>2011/02/28</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>平均收視率</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+<small>
+
+  - 收視最低的集數以表示，收視最高的集數以表示，而空格則表示該集的收視沒有相關數據。</small>
+
+## 參考資料
 
 ## 外部連結
 
@@ -494,5 +596,7 @@
 
 1.
 2.
-3.  [TNmS Multimedia Homepage](http://www.tnms.tv)
-4.  [AGB Nilson Media Research Homepage](http://www.agbnielsen.co.kr/)
+3.
+4.
+5.  [TNmS Multimedia Homepage](http://www.tnms.tv)
+6.

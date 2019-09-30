@@ -1,9 +1,9 @@
 [Photo-audiojacks.jpg](https://zh.wikipedia.org/wiki/File:Photo-audiojacks.jpg "fig:Photo-audiojacks.jpg") [IPod_and_iPhone_audio_plugs.JPG](https://zh.wikipedia.org/wiki/File:IPod_and_iPhone_audio_plugs.JPG "fig:IPod_and_iPhone_audio_plugs.JPG")生產的耳機：
 左：TRS（[iPod](https://zh.wikipedia.org/wiki/iPod "wikilink")）
 中：TRRS（[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")）
-右：麥克風+線控\]\] [Audio-TRS-Mini-Plug.jpg](https://zh.wikipedia.org/wiki/File:Audio-TRS-Mini-Plug.jpg "fig:Audio-TRS-Mini-Plug.jpg") [Jack_plug.png](https://zh.wikipedia.org/wiki/File:Jack_plug.png "fig:Jack_plug.png") **TRS端子**（）是一種常用於連接音響設備，用以傳遞音頻訊號的連接器。该词是其三个组成部件的首字母缩写：Tip（尖）、Ring（环）、Sleeve（套）。由于该种接头一般用于接插耳机和麦克风，因此也称 Phone Jack。
+右：麥克風+線控\]\] [Audio-TRS-Mini-Plug.jpg](https://zh.wikipedia.org/wiki/File:Audio-TRS-Mini-Plug.jpg "fig:Audio-TRS-Mini-Plug.jpg") [Jack_plug.png](https://zh.wikipedia.org/wiki/File:Jack_plug.png "fig:Jack_plug.png") **TRS端子**（）是常用於連接音響設備，用以傳遞音頻訊號的連接器。该词是其三个组成部件的首字母缩写：Tip（尖）、Ring（环）、Sleeve（套）。由于该种接头一般用于接插耳机和麦克风，因此也称 Phone Jack。
 
-虽然统称 TRS，但也可依据具体的插头 / 插座的环（R）数不同而分别称为 TS（无环，即尖和套各提供一个接触点）、TRS（一环，三个接触点）、TRRS（两环，四个接触点）等等.....。
+虽然统称 TRS，但也可依据具体的插头 / 插座的环（R）数不同而分别称为 TS（无环，即尖和套各提供一个接触点）、TRS（一环，三个接触点）、TRRS（两环，四个接触点）等等.....
 
 ## 常見種類
 
@@ -23,7 +23,7 @@
   - [隨身聽](https://zh.wikipedia.org/wiki/隨身聽 "wikilink")、[行動電話等](https://zh.wikipedia.org/wiki/行動電話 "wikilink")[3C產品的](https://zh.wikipedia.org/wiki/3C產品 "wikilink")[耳機](../Page/耳機.md "wikilink")、聲音輸出（AUX）連接。2016年[蘋果公司推出的](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[iPhone 7已不再內建此端子](https://zh.wikipedia.org/wiki/iPhone_7 "wikilink")，以[Lightning接頭取代](https://zh.wikipedia.org/wiki/Lightning接頭 "wikilink")；一些Android的智慧型手機也逐漸以[USB-C接頭取代此端子](https://zh.wikipedia.org/wiki/USB-C "wikilink")。
   - [iPod shuffle及一些微型裝置亦以此端子作為電源輸入的界面](https://zh.wikipedia.org/wiki/iPod_shuffle "wikilink")。
   - TS、TRS和TRRS分別可提供單聲道、雙聲道和「雙聲道+麥克風」
-      - TRRS通常用於行動電話。然而在 TRRS 四个接触点上各自传输哪一路信号并没有统一的标准，导致某些耳机插到插孔里时只有单边发声。部分略为高级的耳机会设置转换开关来解决这一问题。
+      - TRRS通常用於行動電話。然而在 TRRS 四个接触点上各自传输哪一路信号并没有统一的标准，导致某些耳机插到插孔时只有单边发声。部分略为高级的耳机会设置转换开关来解决这一问题。
       - 也有把 TRRS 插座用作音视频信号输出的，常见于数码相机、数码摄录机、便携式 DVD 播放器等设备，配合一根 3.5mm（公头）转 [RCA](../Page/RCA端子.md "wikilink")（母头）的转接线使用。
 
 <!-- end list -->

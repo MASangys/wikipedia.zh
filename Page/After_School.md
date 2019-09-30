@@ -1072,7 +1072,7 @@ PlotData =
 
 36. [After School achieves an all-kill on real time charts with "Flashback"](http://www.allkpop.com/2012/06/after-school-achieves-an-instant-all-kill-with-flashback)2012年6月20日 allkpop
 
-37. [After School Makes an All-Kill With ‘Flashback’](http://mwave.interest.me/enewsworld/en/article/8237/after-school-makes-an-all-kill-with-flashback)2012年6月20日 CJ E\&M enewsWorld
+37. [After School Makes an All-Kill With ‘Flashback’](http://mwave.interest.me/enewsworld/en/article/8237/after-school-makes-an-all-kill-with-flashback) 2012年6月20日 CJ E\&M enewsWorld
 
 38. [タイにて初のファン・ミーティングを開催](http://www.billboard-japan.com/d_news/detail/10354) 2013年2月25日 Billboard Japan
 

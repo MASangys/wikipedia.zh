@@ -1,4 +1,4 @@
-「**NEWS NIPPON**」是[日本](../Page/日本.md "wikilink")男性偶像組合[NEWS](../Page/NEWS.md "wikilink")的出道單曲。
+《**NEWS NIPPON**》是[日本](../Page/日本.md "wikilink")男性偶像組合[NEWS](../Page/NEWS.md "wikilink")的出道單曲。
 
 ## 概要
 

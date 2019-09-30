@@ -1,8 +1,8 @@
-**FN FNP**是一系列由[比利时](../Page/比利时.md "wikilink")槍械製造商[國營赫斯塔爾](https://zh.wikipedia.org/wiki/赫爾斯塔爾國營工廠 "wikilink")（，簡稱：FN）旗下、位於[南卡羅來納州](https://zh.wikipedia.org/wiki/南卡羅來納州 "wikilink")[哥倫比亞的](https://zh.wikipedia.org/wiki/哥倫比亞_\(南卡羅來納州\) "wikilink")[美国](../Page/美国.md "wikilink")分公司（FNH USA）所設計和生產\[1\]的[半自動手槍](../Page/半自動手槍.md "wikilink")。特別是單／雙動（SA／DA）、純單動（SAO）、純雙動（DAO）操作的[扳機](https://zh.wikipedia.org/wiki/扳機 "wikilink")、[聚合物](../Page/聚合物.md "wikilink")製造的[底把](../Page/机匣.md "wikilink")，[套筒分別有](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")[不鏽鋼](../Page/不鏽鋼.md "wikilink")和聚合物兩種可以選擇。這手槍系列於2006年的年初首度亮相，當時主要分成三種[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")，分別是[發射](https://zh.wikipedia.org/wiki/槍膛 "wikilink")[9毫米鲁格弹](../Page/9×19mm魯格彈.md "wikilink")、[.40 S\&W和](../Page/.40_S&W.md "wikilink")[.45 ACP](../Page/.45_ACP.md "wikilink")。；到了2008年2月，再加入一種新的口徑，那就是[.357 SIG的衍生型](../Page/.357_SIG.md "wikilink")。\[2\]\[3\]
+**FN FNP**是一系列由[比利时](../Page/比利时.md "wikilink")槍械製造商[埃斯塔勒](../Page/埃斯塔勒.md "wikilink")[國營工廠](https://zh.wikipedia.org/wiki/埃斯塔勒國營工廠 "wikilink")（，簡稱：FN）旗下、位於[南卡羅來納州](https://zh.wikipedia.org/wiki/南卡羅來納州 "wikilink")[哥倫比亞的](https://zh.wikipedia.org/wiki/哥倫比亞_\(南卡羅來納州\) "wikilink")[美国](../Page/美国.md "wikilink")分公司（FNH USA）所設計和生產\[1\]的[半自動手槍](../Page/半自動手槍.md "wikilink")。特別是單／雙動（SA／DA）、純單動（SAO）、純雙動（DAO）操作的[扳機](https://zh.wikipedia.org/wiki/扳機 "wikilink")、[聚合物](../Page/聚合物.md "wikilink")製造的[底把](../Page/机匣.md "wikilink")，[套筒分別有](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")[不鏽鋼](../Page/不鏽鋼.md "wikilink")和聚合物兩種可以選擇。這手槍系列於2006年的年初首度亮相，當時主要分成三種[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")，分別是[發射](https://zh.wikipedia.org/wiki/槍膛 "wikilink")[9毫米鲁格弹](../Page/9×19mm魯格彈.md "wikilink")、[.40 S\&W和](../Page/.40_S&W.md "wikilink")[.45 ACP](../Page/.45_ACP.md "wikilink")。；到了2008年2月，再加入一種新的口徑，那就是[.357 SIG的衍生型](../Page/.357_SIG.md "wikilink")。\[2\]\[3\]
 
 ## 歷史
 
-[白朗寧大威力手槍](../Page/白朗寧大威力手槍.md "wikilink")是典型的軍警用[半自動手槍](../Page/半自動手槍.md "wikilink")，從1935年開始生產，後來雖然有設計上及工藝上的小改進，但都無大的變動。該槍在70多年來一直在許多國家的軍隊、警察和特種部隊服役，歷經各種戰爭考驗，成為可信賴的名槍。毫無疑問，大威力手槍是[國營赫斯塔爾永遠值得驕傲的產品](https://zh.wikipedia.org/wiki/赫爾斯塔爾國營工廠 "wikilink")，但這並不能帶來永久的經濟效益。想在現代手槍市場有所作為，還需不斷開發新產品。國營赫斯塔爾自2000年開始意識到僅以大威力手槍參與競爭遠遠不夠，於是致力於研製並推出多款新型手槍。
+[白朗寧大威力手槍是典型的軍警用](../Page/白朗寧大威力半自動手槍.md "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")，從1935年開始生產，後來雖然有設計上及工藝上的小改進，但都無大的變動。該槍在70多年來一直在許多國家的軍隊、警察和特種部隊服役，歷經各種戰爭考驗，成為可信賴的名槍。毫無疑問，大威力手槍是[國營埃斯塔勒永遠值得驕傲的產品](https://zh.wikipedia.org/wiki/埃斯塔勒國營工廠 "wikilink")，但這並不能帶來永久的經濟效益。想在現代手槍市場有所作為，還需不斷開發新產品。國營赫斯塔爾自2000年開始意識到僅以大威力手槍參與競爭遠遠不夠，於是致力於研製並推出多款新型手槍。
 
 ## 標準功能
 
@@ -63,13 +63,13 @@ FNP-9和FNP-40也分別被命名為白朗寧PRO-9和PRO-40。
 
 ## 參見
 
-  - [Fabrique Nationale](https://zh.wikipedia.org/wiki/赫爾斯塔爾國營工廠 "wikilink")
+  - [國營埃斯塔勒](https://zh.wikipedia.org/wiki/埃斯塔勒國營工廠 "wikilink")
   - [FN M1900](../Page/FN_M1900手槍.md "wikilink")
   - [FN M1903](../Page/FN_M1903手槍.md "wikilink")
   - [FN M1905](https://zh.wikipedia.org/wiki/FN_M1905手槍 "wikilink")
   - [FN M1910](https://zh.wikipedia.org/wiki/FN_M1910手槍 "wikilink")
-  - [白朗寧大威力手槍](../Page/白朗寧大威力手槍.md "wikilink")
-  - [FN HP-DA](../Page/白朗寧雙動手槍.md "wikilink")
+  - [FN HP](../Page/白朗寧大威力半自動手槍.md "wikilink")
+  - [FN HP-DA](../Page/白朗寧雙動半自動手槍.md "wikilink")
   - [FN Forty-Nine](https://zh.wikipedia.org/wiki/FN_Forty-Nine手槍 "wikilink")
   - [FN Five-seveN](../Page/FN_Five-seveN手槍.md "wikilink")
   - [FN FNX](../Page/FN_FNX手槍.md "wikilink")

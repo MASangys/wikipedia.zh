@@ -263,13 +263,21 @@ CRH380BL型动车组列车总数为121列，其中51列由长春轨道客车生�
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/兰州局集团" title="wikilink">兰州局集团</a></p></td>
-<td><p>19</p></td>
-<td><p>5637、5639、5640～5642、5645、5647、5648、5652、5730～5732、5734、5750、5792、5793、5871</p></td>
+<td><p>18</p></td>
+<td><p>5637、5639、5640～5642、5645、5647、5648、5652、5730～5732、5734、5750、5792、5793</p></td>
 <td><p>兰州西</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/徐兰高速线" title="wikilink">徐兰高速线</a>、<a href="https://zh.wikipedia.org/wiki/京广高速线" title="wikilink">京广高速线</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>1</p></td>
+<td><p>5871</p></td>
+<td><p>銀川</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -277,7 +285,7 @@ CRH380BL型动车组列车总数为121列，其中51列由长春轨道客车生�
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>colspan = 6 | <font color=white><strong>CRH380BL</strong></font></p></td>
 <td></td>
 <td></td>
@@ -285,7 +293,7 @@ CRH380BL型动车组列车总数为121列，其中51列由长春轨道客车生�
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/上海局集团" title="wikilink">上海局集团</a></p></td>
 <td><p>39</p></td>
 <td><p>3510、3517～3520、3522、3523、3525～3527、3531、3533、3534、3536、3538、3540～3542、3545～3547、3555、3560～3569、3732、3734～3737、3775、3776</p></td>
@@ -293,7 +301,7 @@ CRH380BL型动车组列车总数为121列，其中51列由长春轨道客车生�
 <td><p><a href="https://zh.wikipedia.org/wiki/沪昆高铁" title="wikilink">沪昆高铁</a>、<a href="https://zh.wikipedia.org/wiki/京沪高铁" title="wikilink">京沪高铁</a>、<a href="https://zh.wikipedia.org/wiki/京广高铁" title="wikilink">京广高铁</a>、<a href="https://zh.wikipedia.org/wiki/合福高铁" title="wikilink">合福高铁</a>、<a href="../Page/胶济客运专线.md" title="wikilink">胶济客运专线</a>、<a href="https://zh.wikipedia.org/wiki/杭福深客运专线" title="wikilink">杭福深铁路</a>、<a href="https://zh.wikipedia.org/wiki/沪汉蓉铁路" title="wikilink">沪汉蓉铁路</a></p></td>
 <td><p>部分列车<a href="https://zh.wikipedia.org/wiki/沪昆高铁" title="wikilink">沪杭</a>-<a href="https://zh.wikipedia.org/wiki/京沪高铁" title="wikilink">京沪高铁直通运行</a>。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>24</p></td>
 <td><p>3501～3509、3511～3516、3521、3524、3528～3530、3532、3535、3537、3539</p></td>
 <td><p>杭州艮山门</p></td>
@@ -301,7 +309,7 @@ CRH380BL型动车组列车总数为121列，其中51列由长春轨道客车生�
 <td><p>部分列车<a href="https://zh.wikipedia.org/wiki/沪昆高铁" title="wikilink">沪杭</a>-<a href="https://zh.wikipedia.org/wiki/京沪高铁" title="wikilink">京沪高铁直通运行</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>17</p></td>
 <td><p>3550、3551、3553、3554、3556、3570、3733、3777～3786</p></td>
 <td><p>南京南</p></td>
@@ -309,7 +317,7 @@ CRH380BL型动车组列车总数为121列，其中51列由长春轨道客车生�
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/北京局集团" title="wikilink">北京局集团</a></p></td>
 <td><p>6</p></td>
 <td><p>5510、5516、5535、5823、5825、5826</p></td>
@@ -317,7 +325,7 @@ CRH380BL型动车组列车总数为121列，其中51列由长春轨道客车生�
 <td><p><a href="https://zh.wikipedia.org/wiki/京沪高铁" title="wikilink">京沪高铁</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>13</p></td>
 <td><p>5506、5507、5515、5517、5518、5523、5524、5529、5530、5532、5533、5536、5537</p></td>
 <td><p><a href="../Page/曹庄动车运用所.md" title="wikilink">曹莊</a></p></td>
@@ -325,7 +333,7 @@ CRH380BL型动车组列车总数为121列，其中51列由长春轨道客车生�
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/济南局集团" title="wikilink">济南局集团</a></p></td>
 <td><p>14</p></td>
 <td><p>5501、5503、5504、5508、5509、5511、5512、5525～5528、5534、5539、5540</p></td>
@@ -333,7 +341,7 @@ CRH380BL型动车组列车总数为121列，其中51列由长春轨道客车生�
 <td><p><a href="../Page/胶济客运专线.md" title="wikilink">胶济客运专线</a>、<a href="https://zh.wikipedia.org/wiki/京沪高铁" title="wikilink">京沪高铁</a>、<a href="https://zh.wikipedia.org/wiki/合蚌高铁" title="wikilink">合蚌高铁</a>、<a href="https://zh.wikipedia.org/wiki/沪汉蓉铁路" title="wikilink">沪汉蓉铁路</a>、<a href="https://zh.wikipedia.org/wiki/京广高铁" title="wikilink">京广高铁</a>、<a href="https://zh.wikipedia.org/wiki/沪昆高铁" title="wikilink">沪昆高铁</a>、<a href="https://zh.wikipedia.org/wiki/广深港高铁" title="wikilink">广深港高铁</a></p></td>
 <td><p>部分列车<a href="../Page/胶济客运专线.md" title="wikilink">胶济客运专线</a>-<a href="https://zh.wikipedia.org/wiki/京沪高铁" title="wikilink">京沪高铁直通运行</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>20</p></td>
 <td><p>5502、5505、5513、5514、5519～5522、5531、5538、5889～5898</p></td>
 <td><p>青岛北</p></td>
@@ -341,7 +349,7 @@ CRH380BL型动车组列车总数为121列，其中51列由长春轨道客车生�
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/鄭州局集團" title="wikilink">鄭州局集團</a></p></td>
 <td><p>8</p></td>
 <td><p>5541～5545、5824、5827、5828</p></td>
@@ -349,7 +357,7 @@ CRH380BL型动车组列车总数为121列，其中51列由长春轨道客车生�
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/西安局集團" title="wikilink">西安局集團</a></p></td>
 <td><p>8</p></td>
 <td><p>3543、3544、3548、3549、3552、3557～3559</p></td>
@@ -357,7 +365,7 @@ CRH380BL型动车组列车总数为121列，其中51列由长春轨道客车生�
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -365,7 +373,7 @@ CRH380BL型动车组列车总数为121列，其中51列由长春轨道客车生�
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>colspan = 6 | <font color=white><strong>CRH380BJ（原名：CIT400B）</strong></font></p></td>
 <td></td>
 <td></td>
@@ -373,7 +381,7 @@ CRH380BL型动车组列车总数为121列，其中51列由长春轨道客车生�
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/中国铁路总公司.md" title="wikilink">中国铁路总公司</a></p></td>
 <td><p>2</p></td>
 <td><p>0301、A-0504</p></td>

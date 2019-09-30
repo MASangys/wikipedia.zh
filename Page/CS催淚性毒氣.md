@@ -1,4 +1,6 @@
-[Ftaapolice.png](https://zh.wikipedia.org/wiki/File:Ftaapolice.png "fig:Ftaapolice.png")警察向抗议民众发射CS瓦斯。\]\] **CS催淚性毒氣**（）是[化学武器](../Page/化学武器.md "wikilink")的一种，学名为**邻-氯代苯亚甲基丙二腈**（2-chlorobenzalmalononitrile），化学分子式为C<sub>10</sub>H<sub>5</sub>ClN<sub>2</sub>。是世界各国军警广泛使用的一种[催泪瓦斯](https://zh.wikipedia.org/wiki/催泪瓦斯 "wikilink")。
+[Ftaapolice.png](https://zh.wikipedia.org/wiki/File:Ftaapolice.png "fig:Ftaapolice.png")警察向抗议民众发射CS瓦斯。\]\] **CS催淚性毒氣**（）是[化学武器](../Page/化学武器.md "wikilink")的一种，学名为**邻-氯代苯亚甲基丙二腈**（2-chlorobenzalmalononitrile），化学分子式为C<sub>10</sub>H<sub>5</sub>ClN<sub>2</sub>。是世界各国警方广泛使用的一种[非致命性](../Page/非致命性武器.md "wikilink")[催泪瓦斯](https://zh.wikipedia.org/wiki/催泪瓦斯 "wikilink")。2-氯代苯亚甲基丙二腈本身在常温下为固体，一般喷射使用 的毒气是该物质和[挥发性](https://zh.wikipedia.org/wiki/挥发性 "wikilink")[溶剂](../Page/溶剂.md "wikilink")混合而成的[气溶胶](../Page/气溶胶.md "wikilink")。
+
+人类暴露于CS催泪气中时，会受到呼吸道烧灼感的影响，导致流泪、呼吸困难、流鼻涕、咳嗽、迷惑和呼吸困难，造成其失去对抗能力。
 
 ## 生产
 

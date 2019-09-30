@@ -60,7 +60,7 @@
   - [まつざき幸介](https://zh.wikipedia.org/wiki/まつざき幸介 "wikilink")（2006年6月、2008年2月改名，本名為松崎英樹）
   - [山本あき](https://zh.wikipedia.org/wiki/山本あき "wikilink")（2006年6月、創業75周年記念演歌歌手）
 
-#### 動畫・声優相關部門
+### 動畫・声優相關部門
 
   -
     *[MM制作部（旧：VC制作部）担当分](../Page/King_Records_MM製作部.md "wikilink")*
@@ -81,46 +81,10 @@
   - [蒼井翔太](../Page/蒼井翔太.md "wikilink")(在2013年改名為蒼井翔太，舊藝名為SHOWTA.)
   - [內田雄馬](../Page/內田雄馬.md "wikilink")
 
-### Beruuddo
-
-  - [芋月彩希](https://zh.wikipedia.org/wiki/芋月彩希 "wikilink")
-  - [信保陽子](https://zh.wikipedia.org/wiki/信保陽子 "wikilink")
-  - [フリーウェイハイハイ](https://zh.wikipedia.org/wiki/フリーウェイハイハイ "wikilink")
-  - [米倉千尋](../Page/米倉千尋.md "wikilink")
-  - [森川美穗](../Page/森川美穗.md "wikilink")
-
-### MID ISLAND RECORDS
-
-  - [中野サユリ](https://zh.wikipedia.org/wiki/中野サユリ "wikilink")
-
-### necsas
-
-  - [陰陽座](../Page/陰陽座.md "wikilink")
-  - [KENSO](https://zh.wikipedia.org/wiki/KENSO "wikilink")
-
-### Epic Records Japan Inc.
-
-  - [TRIX](https://zh.wikipedia.org/wiki/TRIX "wikilink")
-  - [神保彰](https://zh.wikipedia.org/wiki/神保彰 "wikilink")
-
-### 低音ELECTRIC
-
-  - [今澤カゲロウ](https://zh.wikipedia.org/wiki/今澤カゲロウ "wikilink")（[貝斯手](https://zh.wikipedia.org/wiki/貝斯手 "wikilink")）
-  - TETSUJINO（[櫻井哲夫](https://zh.wikipedia.org/wiki/櫻井哲夫 "wikilink")・[日野賢二](https://zh.wikipedia.org/wiki/日野賢二 "wikilink")）
-
-### Venus-B
-
-  - [CLIFF EDGE](https://zh.wikipedia.org/wiki/CLIFF_EDGE "wikilink")
-  - [クレンチ&ブリスタ](https://zh.wikipedia.org/wiki/クレンチ&ブリスタ "wikilink")
-  - [Sweet Licious](https://zh.wikipedia.org/wiki/Sweet_Licious "wikilink")
-  - [中村舞子](https://zh.wikipedia.org/wiki/中村舞子 "wikilink")
-  - [MAY'S](https://zh.wikipedia.org/wiki/MAY'S "wikilink")
-  - [Lily.](https://zh.wikipedia.org/wiki/Lily. "wikilink")
-
 ### Starchild
 
   -
-    *動畫・声優相關單独唱片公司*
+    *動畫・声優相關單獨唱片公司*
 
 <!-- end list -->
 
@@ -168,6 +132,61 @@
 :\*[can/goo](https://zh.wikipedia.org/wiki/can/goo "wikilink")
 
 :\*[ゆかな](https://zh.wikipedia.org/wiki/ゆかな "wikilink")
+
+### KING AMUSEMENT CREATIVE
+
+  -
+    2016年2月1日與*Starchild*合併，為KING RECORDS的子公司。
+      - [蒼井翔太](../Page/蒼井翔太.md "wikilink")
+      - 天晴れ\!原宿
+      - [angela](https://zh.wikipedia.org/wiki/angela "wikilink")
+      - [上坂堇](../Page/上坂堇.md "wikilink")
+      - [小倉唯](../Page/小倉唯.md "wikilink")
+      - [高橋洋子](../Page/高橋洋子.md "wikilink")
+      - 彩虹征服者
+      - [林原惠](../Page/林原惠.md "wikilink")
+      - B2takes\!
+      - [保志総一朗](https://zh.wikipedia.org/wiki/保志総一朗 "wikilink")
+      - [堀江由衣](../Page/堀江由衣.md "wikilink")
+      - [水樹奈奈](../Page/水樹奈奈.md "wikilink")
+      - [水瀨祈](../Page/水瀨祈.md "wikilink")
+      - [宮野真守](../Page/宮野真守.md "wikilink")
+
+### Beruuddo
+
+  - [芋月彩希](https://zh.wikipedia.org/wiki/芋月彩希 "wikilink")
+  - [信保陽子](https://zh.wikipedia.org/wiki/信保陽子 "wikilink")
+  - [フリーウェイハイハイ](https://zh.wikipedia.org/wiki/フリーウェイハイハイ "wikilink")
+  - [米倉千尋](../Page/米倉千尋.md "wikilink")
+  - [森川美穗](../Page/森川美穗.md "wikilink")
+
+### MID ISLAND RECORDS
+
+  - [中野サユリ](https://zh.wikipedia.org/wiki/中野サユリ "wikilink")
+
+### necsas
+
+  - [陰陽座](../Page/陰陽座.md "wikilink")
+  - [KENSO](https://zh.wikipedia.org/wiki/KENSO "wikilink")
+
+### Epic Records Japan Inc.
+
+  - [TRIX](https://zh.wikipedia.org/wiki/TRIX "wikilink")
+  - [神保彰](https://zh.wikipedia.org/wiki/神保彰 "wikilink")
+
+### 低音ELECTRIC
+
+  - [今澤カゲロウ](https://zh.wikipedia.org/wiki/今澤カゲロウ "wikilink")（[貝斯手](https://zh.wikipedia.org/wiki/貝斯手 "wikilink")）
+  - TETSUJINO（[櫻井哲夫](https://zh.wikipedia.org/wiki/櫻井哲夫 "wikilink")・[日野賢二](https://zh.wikipedia.org/wiki/日野賢二 "wikilink")）
+
+### Venus-B
+
+  - [CLIFF EDGE](https://zh.wikipedia.org/wiki/CLIFF_EDGE "wikilink")
+  - [クレンチ&ブリスタ](https://zh.wikipedia.org/wiki/クレンチ&ブリスタ "wikilink")
+  - [Sweet Licious](https://zh.wikipedia.org/wiki/Sweet_Licious "wikilink")
+  - [中村舞子](https://zh.wikipedia.org/wiki/中村舞子 "wikilink")
+  - [MAY'S](https://zh.wikipedia.org/wiki/MAY'S "wikilink")
+  - [Lily.](https://zh.wikipedia.org/wiki/Lily. "wikilink")
 
 ### EVIL LINE RECORDS
 

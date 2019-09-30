@@ -1,6 +1,6 @@
 **PulseAudio**（以前叫*Polypaudio*）是一个[跨平台的](https://zh.wikipedia.org/wiki/跨平台 "wikilink")、可通过网络工作的[声音服务](https://zh.wikipedia.org/wiki/声音服务 "wikilink")，其一般使用于[Linux](../Page/Linux.md "wikilink")和[FreeBSD](../Page/FreeBSD.md "wikilink")操作系统。它可以用来作为一种简易改进的[开放声音后台](https://zh.wikipedia.org/wiki/开放声音后台 "wikilink")（ESD）替换。
 
-PulseAudio运行于[Microsoft Windows和](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[POSIX兼容系统](https://zh.wikipedia.org/wiki/POSIX "wikilink")（如Linux和FreeBSD）。PulseAudio是[自由软件](../Page/自由软件.md "wikilink")，基于[GNU宽通用公共许可证](../Page/GNU宽通用公共许可证.md "wikilink") （LGPL）2.1协议\[1\]
+PulseAudio主要运行于[POSIX兼容系统](https://zh.wikipedia.org/wiki/POSIX "wikilink")（如Linux和FreeBSD）。PulseAudio是[自由软件](../Page/自由软件.md "wikilink")，基于[GNU宽通用公共许可证](../Page/GNU宽通用公共许可证.md "wikilink") （LGPL）2.1协议\[1\]
 
 ## 描述
 

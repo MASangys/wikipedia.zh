@@ -8,7 +8,7 @@
 
 ## 外部連結
 
-  - [官方網站](http://www.appservnetwork.com/)
+  - [官方網站](https://www.appserv.org)
   - [安裝導引](https://web.archive.org/web/20100729164749/http://www.thestromboliproject.com/tutoriales/extras/appserv-apache-%20-mysql-2.htm)
 
 [Category:開源軟件](https://zh.wikipedia.org/wiki/Category:開源軟件 "wikilink") [Category:Windows軟件](https://zh.wikipedia.org/wiki/Category:Windows軟件 "wikilink")

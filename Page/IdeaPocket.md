@@ -169,6 +169,18 @@
 <td><p>2019年7月13日</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/夏希栗" title="wikilink">夏希栗</a></p></td>
+<td><p>FIRST IMPRESSION 135</p></td>
+<td><p>出生年月日不明</p></td>
+<td><p>2019年8月13日</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/琴宮里緒菜" title="wikilink">琴宮里緒菜</a></p></td>
+<td><p>スケベの真骨頂！これが天然のセックスの天才だ！</p></td>
+<td><p>出生年月日不明</p></td>
+<td><p>2019年8月13日</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

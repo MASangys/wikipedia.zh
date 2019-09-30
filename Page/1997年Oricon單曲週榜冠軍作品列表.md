@@ -23,7 +23,7 @@
 </tr>
 <tr class="even">
 <td><p>1月20日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Don&#39;t_you_see!" title="wikilink">Don't you see!</a></p></td>
+<td><p><a href="../Page/Don&#39;t_you_see!.md" title="wikilink">Don't you see!</a></p></td>
 <td><p><a href="../Page/ZARD.md" title="wikilink">ZARD</a></p></td>
 <td><p>23.1</p></td>
 </tr>

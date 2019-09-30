@@ -64,6 +64,55 @@
 
 7月4日[兩岸三地](../Page/兩岸三地.md "wikilink")的媒體報導，[上海一間服裝店內有一名](https://zh.wikipedia.org/wiki/上海 "wikilink")[中國大陸女人於挑選服裝](../Page/強國人.md "wikilink")，準備試身的過程中，被人偷偷拍下[裸體照片並上載至各大中文討論區](https://zh.wikipedia.org/wiki/裸體 "wikilink")。該偷拍者是來自Uwants，而涉事女子的身材和樣子，事件都成為uwants一時熱話。\[30\]\[31\]然而，此等未經同意的拍照行為不是發生在香港的話，而是在中國大陸地區就會存有「[肖像權](https://zh.wikipedia.org/wiki/肖像 "wikilink")」的[法律](../Page/法律.md "wikilink")爭議。\[32\]
 
+### 2019年
+
+## 涉事
+
+  - Uwants上反映一部份社會風氣，有討論者不時引發會員之間或與管理員發生衝突。
+
+<!-- end list -->
+
+  - Uwants禁言上訴及跟進期只有6個月，期間有個案指該區涉辦案不公。相比香港討論區將同區公開透明的作法，Uwants不允許外人查看該區。但流傳和受害人證言都很多指控存有「莫須有」封號問題。Uwants用戶多時以「分身」或「未知」的封鎖原因。禁言區沒有一般用戶傍聽，第三者不能了解情況；禁言用戶有很多限制，如不能上存相片、有限瀏覽權限等。沒有第三方（如辨護證人）的證言和解釋。「反U汪獨裁者聯盟」表示，除常規處理外，有時會見到「有三不」。版主沒主動提供罪名，有時會回備查詢原因，用戶在回應版主的「問題」時或遭「不回答」、「不友善」、「不合作」為由，版主「不跟進，不解封」，就止結案。
+
+<!-- end list -->
+
+  - 管理質素遭網友批評下滑及公器私用。\[33\]站方單以發帖量及站內其他記錄作考慮，但多數成功案例是由現任版主推薦，而非自薦。如[高登](https://zh.wikipedia.org/wiki/高登 "wikilink")、[香討等多區香港網民](https://zh.wikipedia.org/wiki/香討 "wikilink")，甚至該站有用戶亦批評站方請了不少沒有現實[管理經驗和學歷的人](https://zh.wikipedia.org/wiki/管理 "wikilink")，當中的版主在現實社會中是有「[案底](../Page/案底.md "wikilink")」的。\[34\]有版主聲言自己是義務，站方沒有給予實在福利和管理課程。2009年8月，有人被指黑廂作業，那些版主被指管理及人格問題，而他們以資訊封鎖的方法所屏蔽及刪除，無所不用其極！這種情況造成「内定」的質嫌，亦有用戶以此等不滿單純進行破壞「[洗版](../Page/洗版.md "wikilink")」，亦有文宣如：「免費勞工，質素一般！」、「Uwants，Uwants，你一定拿『U』。」。
+
+<!-- end list -->
+
+  - Uwants的[電視廣告](../Page/電視廣告.md "wikilink")宣傳片遭網上批評。其中有[Youtube用戶稱](https://zh.wikipedia.org/wiki/Youtube "wikilink")：「垃圾而底智的論壇。甚麼討論區？只不過是未成熟的人在爭吵的網站，沒有討論氣氛，很麻煩。全部版主都愛處罰用戶，沒趣和言論自由，有毛病的！」，亦有批評那種「包羅萬有」則為「重量不重質」；「這個網好.....賭錢致上、淫穢不雅、物質主義、BT下載、可以叫人幫忙做起底組.....」。片段一\[35\]由2007年7月至2017年4月內，有15,035人次點擊，34人中有23人給予「不喜歡」評分；片段二\[36\]由2007年至2012年內，有1,418人次點擊，評分中，也有3分之2的不喜歡評分。有留言認為良好用戶要附和版主。
+
+<!-- end list -->
+
+  - Uwants網站使用條款及聲名上已清晰指出，允許管理員使用單向手法處理問題，而不須先通知用戶。版主亦可隨時修改版規。版主可自行定性用戶有否問題，版主可單獨跟進封禁或封ip用戶後的後續投訴。
+
+<!-- end list -->
+
+  - Uwants帶有色情版區\[37\]、暴力、BT非法下載，甚至有不良[政治](../Page/政治.md "wikilink")言論\[38\]兩地政治文化爭論\[39\]。有老師認為這網上文化會敗壞校園風氣及荼毒青年心智。而Uwants服務條款已指出，Uwants並不適合18歲以下未成年人士單獨使用。
+
+<!-- end list -->
+
+  - 走法律漏洞問題。Uwants資源區可見侵權爭議嚴重，[BT種子](https://zh.wikipedia.org/wiki/BT "wikilink")、[網盤下載的將貼](https://zh.wikipedia.org/wiki/網盤 "wikilink")；成人貼圖區的貼圖，一般以[網路硬碟或外國網站連結的方式將貼](https://zh.wikipedia.org/wiki/網路硬碟 "wikilink")。但由於這是「網友提供」，要指控站方提供空間，還是樓主的，這是法律爭議。\[40\]
+
+<!-- end list -->
+
+  - 反Uwants活動和群組問題。\[41\]違反[版規](https://zh.wikipedia.org/wiki/版規 "wikilink")，無視版主、停用及號召他人停用Uwants服務，甚至洗版和洗壇。管理人事在10多年來大部份也是同一班人，沒有換人。2010年代後，加裝程式和[驗證碼功能阻礙洗版者及用戶登記的過程變得麻煩](https://zh.wikipedia.org/wiki/驗證碼 "wikilink")。
+
+<!-- end list -->
+
+  - 個別版區被指過於嚴厲，普遍不能對等討論。在2009年12月，才有用戶發現版主「不當」，不合版主利益、管治上，或以「新修定」版規（即修即行，修例前後沒通知，修改版規那刻即時生效）直接禁言、封號結案，一直在打壓網上言論自由。
+  - 問題版主例子。
+      - fireman1234，色情版，曾因貼違法淫相被判罰款5,000蚊，及留有案底。
+      - motospeeder，Wargame版，曾被指手段過火，鎮壓多，少溝通。
+      - 巴士迷，MM2區，刪除版內部分帖子，引起會員不滿，為保面子而自動辭職。
+      - KITTY@LE，時事版，被疑政治立場與管理方針同構，再指權限介入其他非由他管理的討論。
+      - mail_to_justin，Wargame版，得到小數人力薦上馬後，同樣被指常以禁言或直接禁訪方式打壓相對利益用戶。
+      - canon123，意見版，經常以「吹水」為由，屏閉建議和投訴。被封禁的人遭到他「無期調查」方式的一直拖延，在跟進時不回應案情進度。最後常以上述的「三不」而不再跟進和回應。這對異見人士顯然是體制問題。
+
+<!-- end list -->
+
+  - Uwants曾被中國大陸的[防火長城所封锁](https://zh.wikipedia.org/wiki/防火長城 "wikilink")。大陸網民會以「[翻牆](https://zh.wikipedia.org/wiki/翻牆 "wikilink")」方式瀏覽。政府沒有回應防火長城問題，網友認為是內容質素良莠不齊，或封銷與敏感香港的[政治](../Page/政治.md "wikilink")討論，[色情](../Page/色情.md "wikilink")有關，當中的[政治](../Page/政治.md "wikilink")評論內容包括[反共言論](https://zh.wikipedia.org/wiki/反共 "wikilink")，而有[親中](../Page/親中.md "wikilink")時事區版主被指有針對性封鎖的問題，反之亦是。
+
 ## 參考資料
 
 ## 外部資料
@@ -112,3 +161,12 @@
 30.
 31.
 32. [《中华人民共和国民法通则》](http://www.npc.gov.cn/wxzl/wxzl/2000-12/06/content_4470.htm) [中国人大网](https://zh.wikipedia.org/wiki/人民代表大會制度 "wikilink")
+33. [高登人發起，解放uwants行動](http://hkg.westkit.net/?p=v&id=2349613&page=13)
+34. [1](http://www.uwants.com/viewthread.php?tid=8352414&extra=page%3D1)
+35. [Uwants 宣傳易廣告](http://www.youtube.com/watch?v=jIrxtilOcCg)
+36. [Uwants.com討論區-葛民輝旁白](http://www.youtube.com/watch?v=BIFXQ3pPZQg)
+37. [Uwants帖子，"台中情情給男友的露屄照"](http://www.uwants.com/viewthread.php?tid=12210661)
+38. [Uwants帖子，"中國人=香港人???"](http://www.uwants.com/viewthread.php?tid=15293191&extra=page%3D1)
+39. [Uwants帖子，"阻止下一代認識共產主義，就是阻止下一代認識真理。"](http://www.uwants.com/viewthread.php?tid=15057321&extra=page%3D1)
+40. [Uwants官網公然設立專區，亦不阻止用戶發表侵權作品！](http://www.uwants.com/forumdisplay.php?fid=7)
+41. [2](http://www.uwants.com/forumdisplay.php?fid=32)

@@ -1,8 +1,8 @@
-**Amazon Kindle**是[亚马逊公司设计的一系列](https://zh.wikipedia.org/wiki/亚马逊公司 "wikilink")[電子書閱讀器](https://zh.wikipedia.org/wiki/电子书阅读器 "wikilink")\[1\]。用户可以通过[無線網路使用Kindle购买](https://zh.wikipedia.org/wiki/無線網路 "wikilink")、[下載和阅读](../Page/下载.md "wikilink")[電子書](https://zh.wikipedia.org/wiki/电子书 "wikilink")、[報紙](../Page/報紙.md "wikilink")、[杂志](../Page/杂志.md "wikilink")、[部落格及其他](https://zh.wikipedia.org/wiki/部落格 "wikilink")[電子媒體](https://zh.wikipedia.org/wiki/電子媒體 "wikilink")。\[2\]亚马逊公司旗下[Lab126开发的Kindle硬件平台](https://zh.wikipedia.org/wiki/Lab126 "wikilink")，最早只有一种设备，现在已经发展为一个系列，大部分使用[E Ink十六級灰度](https://zh.wikipedia.org/wiki/E_Ink "wikilink")[電子紙顯示技術](https://zh.wikipedia.org/wiki/電子紙 "wikilink")，能在最小化电源消耗的情況下提供类似纸张的阅读体验。Kindle在市場上獲得較大成功，也大力拉動了電子閲讀器產品，目前已經有包括[Sony](https://zh.wikipedia.org/wiki/Sony "wikilink")、[Kobo](https://zh.wikipedia.org/wiki/Kobo "wikilink")、[BOOX](https://zh.wikipedia.org/wiki/BOOX "wikilink")、[reMarkable等多家生產電子閲讀器的品牌商在市場上互相競爭](https://zh.wikipedia.org/wiki/reMarkable "wikilink")。
+**Amazon Kindle**是[亚马逊公司设计的一系列](https://zh.wikipedia.org/wiki/亚马逊公司 "wikilink")[電子書閱讀器](https://zh.wikipedia.org/wiki/电子书阅读器 "wikilink")\[1\]。用户可以通过[無線網路使用Kindle购买](https://zh.wikipedia.org/wiki/無線網路 "wikilink")、[下載和阅读](../Page/下载.md "wikilink")[電子書](https://zh.wikipedia.org/wiki/电子书 "wikilink")、[報紙](../Page/報紙.md "wikilink")、[杂志](../Page/杂志.md "wikilink")、[部落格及其他](https://zh.wikipedia.org/wiki/部落格 "wikilink")[電子媒體](https://zh.wikipedia.org/wiki/電子媒體 "wikilink")。\[2\]亚马逊公司旗下[Lab126开发的Kindle硬件平台](https://zh.wikipedia.org/wiki/Lab126 "wikilink")，最早只有一种设备，现在已经发展为一个系列，大部分使用[E Ink十六級灰度](https://zh.wikipedia.org/wiki/E_Ink "wikilink")[電子紙顯示技術](https://zh.wikipedia.org/wiki/電子紙 "wikilink")，能在最小化电源消耗的情況下提供类似纸张的阅读体验。爲了保障版權權益，Kindle内置了數碼權利管理技術（Digital Rights Management）\[3\]。Kindle在市場上獲得較大成功，也大力拉動了電子閲讀器產品，目前已經有包括[Sony](https://zh.wikipedia.org/wiki/Sony "wikilink")、[Kobo](https://zh.wikipedia.org/wiki/Kobo "wikilink")、[BOOX](https://zh.wikipedia.org/wiki/BOOX "wikilink")、[reMarkable等多家生產電子閲讀器的品牌商在市場上互相競爭](https://zh.wikipedia.org/wiki/reMarkable "wikilink")。
 
 ## 命名和演变
 
-Kindle这个名字是Michael Patrick Cronan在 Lab 126 的邀请下起的。他和伴侣 Karin Hibma 建议使用 Kindle 一词，意为点燃火焰。\[3\] 他们认为这个名称富含意义，暗喻着书籍和智慧所带来的兴奋。\[4\]
+Kindle这个名字是Michael Patrick Cronan在 Lab 126 的邀请下起的。他和伴侣 Karin Hibma 建议使用 Kindle 一词，意为点燃火焰。\[4\] 他们认为这个名称富含意义，暗喻着书籍和智慧所带来的兴奋。\[5\]
 
 ## E Ink 设备
 
@@ -10,19 +10,19 @@ Kindle这个名字是Michael Patrick Cronan在 Lab 126 的邀请下起的。他�
 
 #### Kindle
 
-[Amazon_Kindle_-_Wikipedia.jpg](https://zh.wikipedia.org/wiki/File:Amazon_Kindle_-_Wikipedia.jpg "fig:Amazon_Kindle_-_Wikipedia.jpg") Amazon 于2007年11月19日以 399 美元的价格推出了 Kindle 第一代\[5\]。第一批存货在五个半小时内被销售一空，\[6\] 直到 2008 的四月末才恢复供货。\[7\]
+[Amazon_Kindle_-_Wikipedia.jpg](https://zh.wikipedia.org/wiki/File:Amazon_Kindle_-_Wikipedia.jpg "fig:Amazon_Kindle_-_Wikipedia.jpg") Amazon 于2007年11月19日以 399 美元的价格推出了 Kindle 第一代\[6\]。第一批存货在五个半小时内被销售一空，\[7\] 直到 2008 的四月末才恢复供货。\[8\]
 
 该款 Kindle 是唯一一款能通过 SD 卡槽扩展内置存储容量的型号。
 
-该设备配备了六英寸（对角线）四级灰度显示屏，内置 250 [MB](https://zh.wikipedia.org/wiki/MB "wikilink") 存储空间，可以存储大约 200 本不带图片的电子书。\[8\]
+该设备配备了六英寸（对角线）四级灰度显示屏，内置 250 [MB](https://zh.wikipedia.org/wiki/MB "wikilink") 存储空间，可以存储大约 200 本不带图片的电子书。\[9\]
 
-Amazon 未在美国以外的地区销售第一代 Kindle。\[9\] 虽然 Amazon 曾计划在英国和其他欧洲国家销售，但是最终因为与当地无线网络运营商的合作问题而被推迟。\[10\]
+Amazon 未在美国以外的地区销售第一代 Kindle。\[10\] 虽然 Amazon 曾计划在英国和其他欧洲国家销售，但是最终因为与当地无线网络运营商的合作问题而被推迟。\[11\]
 
 ### 第二代
 
 #### Kindle 2
 
-Kindle 2于2009年2月9日发布，2009年2月23日开始发售。Kindle 2配备6英吋（对角线）的16级灰度显示屏，Kindle 2內置2 GB容量，其中1.4 GB可供用户使用（无SD卡插槽）。 并且Kindle 2比Kindle 1有如下改进：\[11\]
+Kindle 2于2009年2月9日发布，2009年2月23日开始发售。Kindle 2配备6英吋（对角线）的16级灰度显示屏，Kindle 2內置2 GB容量，其中1.4 GB可供用户使用（无SD卡插槽）。 并且Kindle 2比Kindle 1有如下改进：\[12\]
 
   - 更长的电池使用时间
   - 页面刷新速度比第一代快20%
@@ -66,11 +66,11 @@ Kindle Keyboard相对于Kindle 2在外觀尺寸、按鍵設置佈局、屏幕等
 
 #### Kindle
 
-2011年9月28日，亞馬遜宣佈推出新版本的廉價版Kindle。它備有四個實體按鍵及一個五向按鍵，但是沒有鍵盤；跟上個版本一樣，配備了6英寸-{zh-hans:電子墨水屏; zh-tw:電子墨水螢幕}-，但是機身尺寸更小、重量更轻\[12\]。這也是亞馬遜第一次在一款Kindle刚推出起就提供價格較便宜的帶廣告版本（79[美元](../Page/美元.md "wikilink")）和價格較高而不帶廣告的一般版本（109美元）。帶廣告的版本會在主畫面的底部以及關機時顯示廣告，但在閱讀書籍文件時則不會顯示；-{zh-tw:儲存空間;zh-hans:內存 }-亦減為2GB，電池續航能力為一個月左右。\[13\]\[14\]
+2011年9月28日，亞馬遜宣佈推出新版本的廉價版Kindle。它備有四個實體按鍵及一個五向按鍵，但是沒有鍵盤；跟上個版本一樣，配備了6英寸-{zh-hans:電子墨水屏; zh-tw:電子墨水螢幕}-，但是機身尺寸更小、重量更轻\[13\]。這也是亞馬遜第一次在一款Kindle刚推出起就提供價格較便宜的帶廣告版本（79[美元](../Page/美元.md "wikilink")）和價格較高而不帶廣告的一般版本（109美元）。帶廣告的版本會在主畫面的底部以及關機時顯示廣告，但在閱讀書籍文件時則不會顯示；-{zh-tw:儲存空間;zh-hans:內存 }-亦減為2GB，電池續航能力為一個月左右。\[14\]\[15\]
 
 #### Kindle Touch
 
-2011年9月28日，亞馬遜同時宣佈推出 Kindle Touch，該產品同時推出只備有Wi-Fi和同時備有Wi-Fi及3G功能的版本；同樣使用6英寸電子墨水屏幕，但帶有觸控屏幕功能。\[15\] 主記憶體及電池估計續航時間同上一版本的Kindle一樣為4GB和兩個月。該產品同樣也有價格更便宜的帶廣告版本。\[16\]
+2011年9月28日，亞馬遜同時宣佈推出 Kindle Touch，該產品同時推出只備有Wi-Fi和同時備有Wi-Fi及3G功能的版本；同樣使用6英寸電子墨水屏幕，但帶有觸控屏幕功能。\[16\] 主記憶體及電池估計續航時間同上一版本的Kindle一樣為4GB和兩個月。該產品同樣也有價格更便宜的帶廣告版本。\[17\]
 
 ### 第五代
 
@@ -86,7 +86,7 @@ Amazon于2012年9月6日的发布会上发布了全新的Kindle系列——Kindl
 
 #### Kindle Paperwhite 2
 
-[Webysther_20170725034326_-_Kindle_Paperwhite_2°_geração_com_4GB.png](https://zh.wikipedia.org/wiki/File:Webysther_20170725034326_-_Kindle_Paperwhite_2°_geração_com_4GB.png "fig:Webysther_20170725034326_-_Kindle_Paperwhite_2°_geração_com_4GB.png") Amazon 在2013年9月3日发布了第二代的 Kindle Paperwhite，宣传用语为「全新 Kindle Paperwhite」，通称 Kindle Paperwhite 2。相比初代 Paperwhite，第二代 Paperwhite 使用了对比度更高的 Carta 电子墨水显示技术\[17\]、改进的照明、25% 更快的处理器和更好的触摸响应。屏幕分辨率则上初代 Paperwhite 一样为 212 PPI。
+[Webysther_20170725034326_-_Kindle_Paperwhite_2°_geração_com_4GB.png](https://zh.wikipedia.org/wiki/File:Webysther_20170725034326_-_Kindle_Paperwhite_2°_geração_com_4GB.png "fig:Webysther_20170725034326_-_Kindle_Paperwhite_2°_geração_com_4GB.png") Amazon 在2013年9月3日发布了第二代的 Kindle Paperwhite，宣传用语为「全新 Kindle Paperwhite」，通称 Kindle Paperwhite 2。相比初代 Paperwhite，第二代 Paperwhite 使用了对比度更高的 Carta 电子墨水显示技术\[18\]、改进的照明、25% 更快的处理器和更好的触摸响应。屏幕分辨率则上初代 Paperwhite 一样为 212 PPI。
 
 2014 年中期，第二代 Paperwhite 在国际市场发售。
 
@@ -96,13 +96,13 @@ Amazon于2012年9月6日的发布会上发布了全新的Kindle系列——Kindl
 
 [Kindle_WP63GW.jpg](https://zh.wikipedia.org/wiki/File:Kindle_WP63GW.jpg "fig:Kindle_WP63GW.jpg") Amazon 在2014年9月18日发布了新一代普通 Kindle 和全新的 Kindle Voyage 电子书阅读器。
 
-这一代的普通 Kindle 拥有 167 PPI 的屏幕，是第一款在国际市场（中国和日本）销售的普通 Kindle。\[18\]
+这一代的普通 Kindle 拥有 167 PPI 的屏幕，是第一款在国际市场（中国和日本）销售的普通 Kindle。\[19\]
 
 #### Kindle Voyage
 
-Kindle Voyage 采用了全新的外形设计，包括与边缘齐平的屏幕和有棱角的背面以及位于背部的电源开关。Kindle Voyage 的屏幕分辨率是历代 Kindle 电子书阅读器中最高的——300 DPI。它还是第一款带自动感应阅读灯光照明的 Kindle 电子书阅读器。\[19\]
+Kindle Voyage 采用了全新的外形设计，包括与边缘齐平的屏幕和有棱角的背面以及位于背部的电源开关。Kindle Voyage 的屏幕分辨率是历代 Kindle 电子书阅读器中最高的——300 DPI。它还是第一款带自动感应阅读灯光照明的 Kindle 电子书阅读器。\[20\]
 
-Kindle Voyage 在中國大陸销售的版本提供「珍藏限量版」，采用礼盒包装，套装内除了 Kindle 机器和数据线以外，还带有一个真皮保护套、一个电源适配器和一张 100 元的 Kindle 电子书劵。\[20\]
+Kindle Voyage 在中國大陸销售的版本提供「珍藏限量版」，采用礼盒包装，套装内除了 Kindle 机器和数据线以外，还带有一个真皮保护套、一个电源适配器和一张 100 元的 Kindle 电子书劵。\[21\]
 
 #### Kindle Paperwhite 3
 
@@ -112,7 +112,7 @@ Kindle Voyage 在中國大陸销售的版本提供「珍藏限量版」，采用
 
 #### Kindle Oasis
 
-2016年4月13日，亚马逊发布了第八代kindle阅读器Kindle Oasis。\[21\]
+2016年4月13日，亚马逊发布了第八代kindle阅读器Kindle Oasis。\[22\]
 
 #### Kindle 8
 
@@ -120,7 +120,7 @@ Kindle Voyage 在中國大陸销售的版本提供「珍藏限量版」，采用
 
 #### Kindle X 咪咕
 
-2017年6月27日，亚马逊与中国移动咪咕公司正式推出专为中国市场定制的全球首款联合品牌亚马逊Kindle X 咪咕电子书阅读器。\[22\]这款Kindle定制版配置上与Kindle入门版一致，但支持咪咕网络文学功能，售价为658元。\[23\]在中国部分城市，在通过办理一定价位的套餐后用户即可在移动营业厅免费领取Kindle X 咪咕。
+2017年6月27日，亚马逊与中国移动咪咕公司正式推出专为中国市场定制的全球首款联合品牌亚马逊Kindle X 咪咕电子书阅读器。\[23\]这款Kindle定制版配置上与Kindle入门版一致，但支持咪咕网络文学功能，售价为658元。\[24\]在中国部分城市，在通过办理一定价位的套餐后用户即可在移动营业厅免费领取Kindle X 咪咕。
 
 ### 第九代
 
@@ -187,8 +187,8 @@ Amazon.com於2009年3月3日在蘋果[App Store發行了一款名為](https://zh
 8.
 
 9.
-10.
 
+10.
 11.
 
 12.
@@ -198,8 +198,8 @@ Amazon.com於2009年3月3日在蘋果[App Store發行了一款名為](https://zh
 14.
 
 15.
-16.
 
+16.
 17.
 
 18.
@@ -213,3 +213,5 @@ Amazon.com於2009年3月3日在蘋果[App Store發行了一款名為](https://zh
 22.
 
 23.
+
+24.

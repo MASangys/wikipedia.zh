@@ -1,4 +1,4 @@
-**24 Xmas time**是[日本](../Page/日本.md "wikilink")歌手[倉木麻衣](../Page/倉木麻衣.md "wikilink")的第三十張單曲，於2008年11月26日發行。
+《**24 Xmas time**》是[日本](../Page/日本.md "wikilink")歌手[倉木麻衣](../Page/倉木麻衣.md "wikilink")的第三十張單曲，於2008年11月26日發行。
 
 ## 簡介
 

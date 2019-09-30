@@ -302,4 +302,4 @@ if ( extraJS ) {
 
 );
 
-//临时修复！侧边栏的“打印页面”移动到“打印/导出”章节 $('div\#p-electronPdfService-sidebar-portlet-heading div.body ul').append($('li\#t-print'));
+//临时修复！侧边栏的“打印页面”移动到“打印/导出”章节 $('div\#p-electronpdfservice-sidebar-portlet-heading.portal div.body ul').append($('li\#t-print'));

@@ -442,7 +442,7 @@
   - [香港有線電視](http://epg.i-cable.com/new/ent/midas.php)
   - [臺灣東森](http://blog.ebc.net.tw/apps/midas/Index.aspx)
 
-[Category:2011年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2011年韓國電視劇集 "wikilink") [Category:經濟電視劇](https://zh.wikipedia.org/wiki/Category:經濟電視劇 "wikilink") [Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink") [Category:東森電視外購韓劇](https://zh.wikipedia.org/wiki/Category:東森電視外購韓劇 "wikilink") [Category:律師主角題材作品](https://zh.wikipedia.org/wiki/Category:律師主角題材作品 "wikilink")
+[Category:2011年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2011年韓國電視劇集 "wikilink") [Category:經濟電視劇](https://zh.wikipedia.org/wiki/Category:經濟電視劇 "wikilink") [Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink") [Category:東森電視外購韓劇](https://zh.wikipedia.org/wiki/Category:東森電視外購韓劇 "wikilink") [Category:法律題材主角作品](https://zh.wikipedia.org/wiki/Category:法律題材主角作品 "wikilink")
 
 1.  劇中履歷表上所寫
 2.  [TNmS 멀티미디어 홈페이지](http://www.tnms.tv/rating/default.asp)

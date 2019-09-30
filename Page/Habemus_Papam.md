@@ -56,7 +56,7 @@
 
   - 在1730年宣告了[克勉十二世](https://zh.wikipedia.org/wiki/克勉十二世 "wikilink")，但因病由枢机代他在1740年宣告了[本笃十四世的当选](https://zh.wikipedia.org/wiki/本笃十四世 "wikilink")
 
-  - 在1758年宣告了[克勉十三世](https://zh.wikipedia.org/wiki/克勉十三世 "wikilink")，在1769年宣告了[本笃十四世](https://zh.wikipedia.org/wiki/本笃十四世 "wikilink")，1775年宣告了[庇护六世的当选](https://zh.wikipedia.org/wiki/庇护六世 "wikilink")
+  - 在1758年宣告了[克勉十三世](../Page/克勉十三世.md "wikilink")，在1769年宣告了[本笃十四世](https://zh.wikipedia.org/wiki/本笃十四世 "wikilink")，1775年宣告了[庇护六世的当选](https://zh.wikipedia.org/wiki/庇护六世 "wikilink")
 
   - 在1800年宣告了[庇护七世的当选](https://zh.wikipedia.org/wiki/庇护七世 "wikilink")
 

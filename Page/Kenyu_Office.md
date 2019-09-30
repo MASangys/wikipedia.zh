@@ -41,7 +41,6 @@
 <!-- end list -->
 
   - [田島裕也](https://zh.wikipedia.org/wiki/田島裕也 "wikilink")
-  - [立壁和也](../Page/立壁和也.md "wikilink")（，董事）
   - [德本恭敬](https://zh.wikipedia.org/wiki/德本恭敬 "wikilink")
 
 <!-- end list -->
@@ -345,6 +344,7 @@
 
   - [古宮吾一](https://zh.wikipedia.org/wiki/古宮吾一 "wikilink")（現所屬：[Media Force](https://zh.wikipedia.org/wiki/Media_Force "wikilink")）
   - [酒井相一郎](https://zh.wikipedia.org/wiki/酒井相一郎 "wikilink")（free）
+  - [立壁和也](../Page/立壁和也.md "wikilink")（，前董事，已故）
   - [田邊篤志](https://zh.wikipedia.org/wiki/田邊篤志 "wikilink")（現所屬：[AS企畫](https://zh.wikipedia.org/wiki/AS企畫 "wikilink")）
   - [長門三照](https://zh.wikipedia.org/wiki/長門三照 "wikilink")
   - [根津貴行](https://zh.wikipedia.org/wiki/根津貴行 "wikilink")（現所屬：[Yellow Tail](https://zh.wikipedia.org/wiki/Yellow_Tail "wikilink")）

@@ -1,4 +1,4 @@
-**SUPER☆GiRLS**，簡稱**S☆G**、**SuPaGa**（，來自「Super Girls」的縮寫），是[日本](../Page/日本.md "wikilink")[愛貝克思旗下第一組女子](https://zh.wikipedia.org/wiki/愛貝克思 "wikilink")[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")，於2010年結成，目前有13名成員。所屬經紀公司為[爱贝克思管理](https://zh.wikipedia.org/wiki/爱贝克思管理 "wikilink")，所屬音樂品牌為[iDOL Street](https://zh.wikipedia.org/wiki/iDOL_Street "wikilink")。
+**SUPER☆GiRLS**（），簡稱**S☆G**、**SuPaGa**（，來自「Super Girls」的縮寫），是[日本](../Page/日本.md "wikilink")[愛貝克思旗下第一組女子](../Page/愛貝克思集團.md "wikilink")[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")，於2010年結成，目前有13名成員。所屬經紀公司為[愛貝克思管理](../Page/愛貝克思管理.md "wikilink")，所屬[音樂品牌為](https://zh.wikipedia.org/wiki/音樂品牌 "wikilink")[iDOL Street](https://zh.wikipedia.org/wiki/iDOL_Street "wikilink")。
 
 ## 概要
 
@@ -1297,7 +1297,7 @@ AVBF-74461X</p></td>
 
 ## 外部連結
 
-  - [SUPER☆GiRLS Official Website](https://web.archive.org/web/20110707233415/http://supergirls.jp/index.html)
+  - [SUPER☆GiRLS Official Website](https://supergirls.jp)
 
   - [SUPER☆GiRLS 官方部落格](http://ameblo.jp/supergirls-blog/)
 
@@ -1307,6 +1307,7 @@ AVBF-74461X</p></td>
 
   - [supergirls](http://www.ustream.tv/channel/supergirls) - [Ustream](https://zh.wikipedia.org/wiki/Ustream "wikilink")
 
+  -
   -
   - [リアルアイドル育成支援サイト『マイドル\!SUPER☆GiRLS』](http://ikusei.supergirls.jp/)
 
@@ -1337,7 +1338,7 @@ AVBF-74461X</p></td>
       - [溝手るか オフィシャルブログ 「がんばるかっ」](http://ameblo.jp/sg-ruka/)
       - [後藤彩 オフィシャルブログ 「ごっちゃん'S house」](http://ameblo.jp/sg-gocchan/)
 
-[Category:愛貝克思集團藝人](https://zh.wikipedia.org/wiki/Category:愛貝克思集團藝人 "wikilink") [Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink") [Category:日本演唱團體](https://zh.wikipedia.org/wiki/Category:日本演唱團體 "wikilink") [Category:SUPER☆GiRLS](https://zh.wikipedia.org/wiki/Category:SUPER☆GiRLS "wikilink")
+[Category:SUPER☆GiRLS](https://zh.wikipedia.org/wiki/Category:SUPER☆GiRLS "wikilink") [Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink") [Category:日本演唱團體](https://zh.wikipedia.org/wiki/Category:日本演唱團體 "wikilink") [Category:愛貝克思集團藝人](https://zh.wikipedia.org/wiki/Category:愛貝克思集團藝人 "wikilink")
 
 1.
 

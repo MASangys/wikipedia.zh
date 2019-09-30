@@ -12,13 +12,14 @@ Go的语法接近[C语言](https://zh.wikipedia.org/wiki/C语言 "wikilink")，�
 
 ## 撰寫風格
 
-在Go中有幾項規定，而且這些是強制的，當不符合以下規定時編譯將會產生錯誤。
+Go有定義如下的撰寫風格
 
 1.  每行程式結束後不需要撰寫分號（;）。
 2.  大括號（{）不能夠換行放置。
 3.  if判斷式和for迴圈不需要以小括號包覆起來。
+4.  使用 tab 做排版
 
-Go亦有內建gofmt工具，能夠自動整理程式碼多餘的空白、變數名稱對齊、並將對齊空格轉換成Tab。
+除了第二點外（換行會產生編譯錯誤），在不符合上述規定時，仍舊可以編譯，但使用了內建gofmt工具後，會自動整理程式碼，使之符合規定的撰寫風格。
 
 ### 專案架構
 
@@ -181,7 +182,7 @@ Go的名稱與2003年發表的程式語言雷同。
 
   - [邮件列表](https://groups.google.com/forum/m/#!forum/golang-nuts)
 
-[Category:Go语言](https://zh.wikipedia.org/wiki/Category:Go语言 "wikilink") [Category:Google軟體](https://zh.wikipedia.org/wiki/Category:Google軟體 "wikilink") [Category:过程式编程语言](https://zh.wikipedia.org/wiki/Category:过程式编程语言 "wikilink") [Category:跨平台軟體](https://zh.wikipedia.org/wiki/Category:跨平台軟體 "wikilink") [Category:美国发明](https://zh.wikipedia.org/wiki/Category:美国发明 "wikilink") [Category:使用BSD许可证的软件](https://zh.wikipedia.org/wiki/Category:使用BSD许可证的软件 "wikilink") [Category:自由编译器和解释器](https://zh.wikipedia.org/wiki/Category:自由编译器和解释器 "wikilink")
+[Category:Go语言](https://zh.wikipedia.org/wiki/Category:Go语言 "wikilink") [Category:Google軟體](https://zh.wikipedia.org/wiki/Category:Google軟體 "wikilink") [Category:过程式编程语言](https://zh.wikipedia.org/wiki/Category:过程式编程语言 "wikilink") [Category:跨平台軟體](https://zh.wikipedia.org/wiki/Category:跨平台軟體 "wikilink") [Category:美国发明](https://zh.wikipedia.org/wiki/Category:美国发明 "wikilink") [Category:使用BSD许可证的软件](https://zh.wikipedia.org/wiki/Category:使用BSD许可证的软件 "wikilink") [Category:自由编译器和解释器](https://zh.wikipedia.org/wiki/Category:自由编译器和解释器 "wikilink") [Category:用Go編程的自由軟件](https://zh.wikipedia.org/wiki/Category:用Go編程的自由軟件 "wikilink")
 
 1.  [Google-go-language](https://www.techcrunch.com/2009/11/10/google-go-language/)
 

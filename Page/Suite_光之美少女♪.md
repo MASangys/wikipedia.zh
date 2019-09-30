@@ -1268,8 +1268,6 @@
 
 ## 註釋
 
-<references />
-
 ## 外部連結
 
   - [光之美少女：美樂天使（ABC）](http://asahi.co.jp/suite_precure/)

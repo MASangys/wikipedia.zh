@@ -7,7 +7,7 @@
 ## 進一步閱讀
 
   - The Open Group (2009), [*ArchiMate 1.0 Specification*](http://www.opengroup.org/bookstore/catalog/c091.htm). ISBN 9789087535025.
-  - The Open Group (2009), [*ArchiMate 1.0 Specification - online*](http://www.opengroup.org/archimate/doc/ts_archimate/).
+  - The Open Group (2009), [*ArchiMate 1.0 Specification - online*](https://web.archive.org/web/20100912070830/http://www.opengroup.org/archimate/doc/ts_archimate/).
   - Marc Lankhorst et al. (2005). *Enterprise Architecture at Work - Modelling, Communication and Analysis*. Berlin: Springer-Verlag.
   - Marc Lankhorst and Hans van Drunen (2007). [Enterprise Architecture: Development and Modelling Combining TOGAF and ArchiMate](https://web.archive.org/web/20110728154634/http://www.via-nova-architectura.org/files/magazine/Lankhorst.pdf). Paper www.via-nova-architectura.org
   - Marc Lankhorst (ed.) and the ArchiMate team (2004) [*ArchiMate Language Primer*](https://web.archive.org/web/20110724162610/https://doc.novay.nl/dsweb/Get/Document-43839/). Enschede: [Novay](https://zh.wikipedia.org/wiki/Novay "wikilink").

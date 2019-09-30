@@ -390,7 +390,7 @@ Luna、G.NA、IU、奎利、G.O、MIN、栽經、<br />
 | 10月1日     | MBC      | 中秋魔術特辑 1部                                                                 |
 | 10月1日     | MBC      | 天下壯士偶像摔跤大會                                                                |
 | 10月3日     | MBC      | 中秋魔術特辑 2部                                                                 |
-| 12月28日    | SBS      | [叢林的法則](https://zh.wikipedia.org/wiki/叢林的法則 "wikilink")2                  |
+| 12月28日    | SBS      | [叢林的法則](../Page/叢林的法則.md "wikilink")2                                     |
 |           |          |                                                                           |
 
 |               |          |                                                                         |

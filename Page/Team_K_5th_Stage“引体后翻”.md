@@ -156,7 +156,7 @@ AKB48 Team K的第5台公演，导入了公演开始前成员们演出短剧的�
       - 如能被你緊擁（中井、山口、西村）
       - 蟲之敘事詩（本間）
 
-※本公演由Team G成員加上支援成員共同演出，共14人登場。曲目中《愛之色》改為4人演唱。安可曲的第1、2首更換為《[春天哪裡來？](https://zh.wikipedia.org/wiki/春天哪裡來？ "wikilink")》以及《》。
+※本公演由Team G成員加上支援成員共同演出，共14人登場。曲目中《愛之色》改為4人演唱。安可曲的第1、2首更換為《[春天哪裡來？](https://zh.wikipedia.org/wiki/春天哪裡來？ "wikilink")》以及《[Max朱鷺315號](https://zh.wikipedia.org/wiki/Max朱鷺315號 "wikilink")》。
 
 ## 錄音室收錄CD
 

@@ -188,6 +188,7 @@
   - [趙權](../Page/趙權.md "wikilink")
   - [張賢勝](../Page/張賢勝.md "wikilink")
   - [柳善皓](https://zh.wikipedia.org/wiki/柳善皓 "wikilink")
+  - [田小娟](https://zh.wikipedia.org/wiki/田小娟 "wikilink")
 
 ### 子團
 
@@ -199,12 +200,15 @@
 
 ### 演員
 
-  - [羅鐘贊](../Page/羅鐘贊.md "wikilink") \[99\]
+  - [羅仁宇](https://zh.wikipedia.org/wiki/羅仁宇 "wikilink") \[99\]
 
 ### 藝人
 
   - [許卿煥](../Page/許卿煥.md "wikilink") \[100\]
+
   - [李輝宰](../Page/李輝宰.md "wikilink") \[101\]
+
+  - \[102\]
 
 ### 練習生
 
@@ -216,10 +220,10 @@
 
 <!-- end list -->
 
-  - [李宗元](https://zh.wikipedia.org/wiki/李宗元_\(歌手\) "wikilink")（04年，童星，公開練習生，[Under Nineteen](https://zh.wikipedia.org/wiki/Under_Nineteen "wikilink")）\[102\]
-  - Oscar，OSC（公開練習生）\[103\]
-  - 權山 권산（99年，公開練習生）\[104\]\[105\]\[106\]
-  - Jo Sebin（公開練習生）\[107\]
+  - [李宗元](https://zh.wikipedia.org/wiki/李宗元_\(歌手\) "wikilink")（04年，童星，公開練習生，[Under Nineteen](https://zh.wikipedia.org/wiki/Under_Nineteen "wikilink")）\[103\]
+  - Oscar，OSC（公開練習生）\[104\]
+  - 權山 권산（99年，公開練習生）\[105\]\[106\]\[107\]
+  - Jo Sebin（公開練習生）\[108\]
   - JWC
   - KMS
 
@@ -231,7 +235,7 @@
 
   - 李珠賢（04年，已簽專屬合約練習生，[The Unit](../Page/The_Unit.md "wikilink")）
   - 韓初媛（02年，已簽專屬合約練習生，[PRODUCE 48](../Page/PRODUCE_48.md "wikilink")，童星）
-  - 劉佳乙（04年，DEF SCHOOL）\[108\]\[109\]\[110\]
+  - 劉佳乙（04年，DEF SCHOOL）\[109\]\[110\]\[111\]
   - 姜娜允
   - 金彩玄
 
@@ -244,13 +248,13 @@
       - [昶旻](../Page/李昶旻.md "wikilink")（2008-2009）
       - [珍雲](https://zh.wikipedia.org/wiki/鄭珍雲 "wikilink")（2008-2009）
   - [M4M](../Page/M4M.md "wikilink")（2013–2015）
-  - [4minute](../Page/4minute.md "wikilink")（2009-2016） \[111\]\[112\]
+  - [4minute](../Page/4minute.md "wikilink")（2009-2016） \[112\]\[113\]
       - [智贤](https://zh.wikipedia.org/wiki/南智贤 "wikilink")（2009-2016）
       - [嘉允](https://zh.wikipedia.org/wiki/许嘉允 "wikilink")（2009-2016）
       - [祉潤](../Page/田祉潤.md "wikilink")（2009-2016）
       - [昭贤](https://zh.wikipedia.org/wiki/权昭贤 "wikilink")（2009-2016）
       - [泫雅](../Page/金泫雅.md "wikilink")（2009-2018）
-  - [BEAST](https://zh.wikipedia.org/wiki/BEAST "wikilink")（2009-2016）\[113\]
+  - [BEAST](https://zh.wikipedia.org/wiki/BEAST "wikilink")（2009-2016）\[114\]
 
 ### 企劃組合
 
@@ -260,25 +264,25 @@
 
 ### 歌手/藝人
 
-  - （2009－2015，曾任歌唱導師）\[114\]
+  - （2009－2015，曾任歌唱導師）\[115\]
 
-  - [Rain](../Page/Rain.md "wikilink")（2013－2015） \[115\]
+  - [Rain](../Page/Rain.md "wikilink")（2013－2015） \[116\]
 
-  - [G.NA](../Page/G.NA.md "wikilink")（2009－2016） \[116\]
+  - [G.NA](../Page/G.NA.md "wikilink")（2009－2016） \[117\]
 
-  - [盧志勳](../Page/盧志勳.md "wikilink")（2012－2017）\[117\]
+  - [盧志勳](../Page/盧志勳.md "wikilink")（2012－2017）\[118\]
 
-  - [辛知勳](../Page/辛知勳.md "wikilink")（2013－2017）\[118\]
+  - [辛知勳](../Page/辛知勳.md "wikilink")（2013－2017）\[119\]
 
-  - （2013－2017）\[119\]
+  - （2013－2017）\[120\]
 
-  - [朴敏荷](../Page/朴敏荷.md "wikilink") （2015－2017）\[120\]
+  - [朴敏荷](../Page/朴敏荷.md "wikilink") （2015－2017）\[121\]
 
-  - （2016－2017）\[121\]
+  - （2016－2017）\[122\]
 
-  - [瑞雨](../Page/瑞雨.md "wikilink")（2016－2017）\[122\]\[123\]
+  - [瑞雨](../Page/瑞雨.md "wikilink")（2016－2017）\[123\]\[124\]
 
-  - （2012－2018） \[124\]
+  - （2012－2018） \[125\]
 
   - [金曉鐘](../Page/金曉鐘.md "wikilink")（2016－2018）
 
@@ -301,12 +305,12 @@
   - [李昌宣](../Page/THE_LEGEND.md "wikilink")（[THE LEGEND](../Page/THE_LEGEND.md "wikilink")）
   - [金昇勳](../Page/金昇勳.md "wikilink")（《[YG寶石盒](../Page/YG寶石盒.md "wikilink")》、[CIX](../Page/CIX.md "wikilink")）
   - [崔連準](../Page/崔延俊.md "wikilink")（[TXT](../Page/TXT_\(組合\).md "wikilink")）
-  - [李希侃](../Page/李希侃.md "wikilink")（《[偶像練習生](https://zh.wikipedia.org/wiki/偶像練習生 "wikilink")》）\[125\]
-  - \-{余}-明君（《[偶像練習生](https://zh.wikipedia.org/wiki/偶像練習生 "wikilink")》）\[126\]\[127\]
-  - 朴泰正（《[看見你的聲音 第4季](https://zh.wikipedia.org/wiki/看見你的聲音 "wikilink")》）\[128\]
+  - [李希侃](../Page/李希侃.md "wikilink")（《[偶像練習生](https://zh.wikipedia.org/wiki/偶像練習生 "wikilink")》）\[126\]
+  - \-{余}-明君（《[偶像練習生](https://zh.wikipedia.org/wiki/偶像練習生 "wikilink")》）\[127\]\[128\]
+  - 朴泰正（《[看見你的聲音 第4季](https://zh.wikipedia.org/wiki/看見你的聲音 "wikilink")》）\[129\]
   - 李演成
   - 張楊
-  - 鄭容斌，JYB（公開練習生）\[129\]
+  - 鄭容斌，JYB（公開練習生）\[130\]
   - [趙旴燦](../Page/趙旴燦.md "wikilink")（童星，公開練習生，[SMTM6](https://zh.wikipedia.org/wiki/SMTM6 "wikilink")）
 
 <!-- end list -->
@@ -326,28 +330,28 @@
   - 丁海梨（[P.O.P](../Page/P.O.P.md "wikilink")）
   - 李允書（《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》）
   - 徐惠璘（《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》）
-  - 高序炫（[CLC](../Page/CLC.md "wikilink")預備成員）\[130\]
+  - 高序炫（[CLC](../Page/CLC.md "wikilink")預備成員）\[131\]
   - 鄭海利
-  - 金賢智 \[131\]\[132\]\[133\]
-  - Nana \[134\]\[135\]\[136\]
-  - 金知佑，KJW（公開練習生） \[137\]\[138\]\[139\]\[140\]\[141\]\[142\]\[143\]\[144\]
-  - 申智敏，SJM（公開練習生）\[145\]\[146\]
-  - 申秀炫，SSH（公開練習生）\[147\]
+  - 金賢智 \[132\]\[133\]\[134\]
+  - Nana \[135\]\[136\]\[137\]
+  - 金知佑，KJW（公開練習生） \[138\]\[139\]\[140\]\[141\]\[142\]\[143\]\[144\]\[145\]
+  - 申智敏，SJM（公開練習生）\[146\]\[147\]
+  - 申秀炫，SSH（公開練習生）\[148\]
 
 ### 其他
 
   - 朴鍾民，박충민，Park Chung Min，CEO，2014 - 2016年。
-  - 盧賢泰，노현태，Noh Hyun Tae，副社長\[148\] \[149\] \[150\] \[151\] \[152\]\[153\] \[154\]\[155\]
-  - 朴龍福，박용복，Park Yong Bok，經紀部理事\[156\] \[157\]\[158\]
-  - 全俊健，전준건，Jeon Joon Kun，經紀人\[159\] \[160\]
+  - 盧賢泰，노현태，Noh Hyun Tae，副社長\[149\] \[150\] \[151\] \[152\] \[153\]\[154\] \[155\]\[156\]
+  - 朴龍福，박용복，Park Yong Bok，經紀部理事\[157\] \[158\]\[159\]
+  - 全俊健，전준건，Jeon Joon Kun，經紀人\[160\] \[161\]
 
 ## 相關公司
 
 ### MUSIC CUBE
 
-**MUSIC CUBE**（）是獨立營運的音樂著作權公司，2005年8月18日於韓國創辦，主要經營音樂產品的出版製作、統籌發行、視覺設計、著作權管理，總部位於[首爾](../Page/首爾.md "wikilink")市[江南區](https://zh.wikipedia.org/wiki/江南區 "wikilink")，公司代表為申景和（）。\[161\]
+**MUSIC CUBE**（）是獨立營運的音樂著作權公司，2005年8月18日於韓國創辦，主要經營音樂產品的出版製作、統籌發行、視覺設計、著作權管理，總部位於[首爾](../Page/首爾.md "wikilink")市[江南區](https://zh.wikipedia.org/wiki/江南區 "wikilink")，公司代表為申景和（）。\[162\]
 
-**MUSIC CUBE JAPAN**是MUSIC CUBE旗下的日本子公司，2009年1月21日於日本創辦，主要經營音樂產品的製作開發、推廣發行、著作權管理等，總部位於東京都港区南麻布。\[162\]
+**MUSIC CUBE JAPAN**是MUSIC CUBE旗下的日本子公司，2009年1月21日於日本創辦，主要經營音樂產品的製作開發、推廣發行、著作權管理等，總部位於東京都港区南麻布。\[163\]
 
 所屬藝人
 
@@ -395,7 +399,7 @@
 
 ### CUBE DC
 
-**Cube DC**（）是Cube娛樂旗下的分公司，2012年於韓國創辦。 \[163\] 母公司Cube娛樂於2014年8月27日宣佈併購為旗下全資子公司。\[164\]
+**Cube DC**（）是Cube娛樂旗下的分公司，2012年於韓國創辦。 \[164\] 母公司Cube娛樂於2014年8月27日宣佈併購為旗下全資子公司。\[165\]
 
 ### CUBE娛樂JAPAN
 
@@ -405,26 +409,26 @@
 
 ### U-CUBE
 
-**U-CUBE**是Cube娛樂與[日本環球音樂合作的新公司](../Page/環球音樂_\(日本\).md "wikilink")，2018年11月23日成立，負責藝人及相關產品的海外推廣及發行。\[165\]
+**U-CUBE**是Cube娛樂與[日本環球音樂合作的新公司](../Page/環球音樂_\(日本\).md "wikilink")，2018年11月23日成立，負責藝人及相關產品的海外推廣及發行。\[166\]
 
 ### Starline娛樂
 
-**Starline娛樂**（）於2016年2月12日，朴成鎮代表與Cube娛樂達成協議，成為Cube娛樂旗下全資的子公司。\[166\]
+**Starline娛樂**（）於2016年2月12日，朴成鎮代表與Cube娛樂達成協議，成為Cube娛樂旗下全資的子公司。\[167\]
 
-2017年7月18日，合併子公司Starline娛樂。\[167\]\[168\]\[169\]
+2017年7月18日，合併子公司Starline娛樂。\[168\]\[169\]\[170\]
 
 ### CUBE TV
 
-CUBE TV，（），於2015年7月1日成立，iHQ與Cube娛樂合作，iHQ投資經營頻道，Cube提供節目內容，是專注宣傳K-POP文化的頻道，播放綜藝節目、演唱會及網絡劇。 \[170\]
+CUBE TV，（），於2015年7月1日成立，iHQ與Cube娛樂合作，iHQ投資經營頻道，Cube提供節目內容，是專注宣傳K-POP文化的頻道，播放綜藝節目、演唱會及網絡劇。 \[171\]
 
-CUBE TV，節目有[BTOB](../Page/BTOB.md "wikilink")的《BTOB SHOW》、[CLC](../Page/CLC.md "wikilink")的《CLC's Beautiful Mission》、[Pentagon的](../Page/Pentagon_\(男子組合\).md "wikilink")《[Pentagon maker](https://zh.wikipedia.org/wiki/PENTAGON_MAKER "wikilink")》、 [Triple H的](../Page/Triple_H_\(企劃組合\).md "wikilink")《[Triple H 興新所](https://zh.wikipedia.org/wiki/Triple_H_興新所 "wikilink")》、網絡劇《[Spark](../Page/Spark_\(電視劇\).md "wikilink")》等等。 \[171\] {{-}}
+CUBE TV，節目有[BTOB](../Page/BTOB.md "wikilink")的《BTOB SHOW》、[CLC](../Page/CLC.md "wikilink")的《CLC's Beautiful Mission》、[Pentagon的](../Page/Pentagon_\(男子組合\).md "wikilink")《[Pentagon maker](https://zh.wikipedia.org/wiki/PENTAGON_MAKER "wikilink")》、 [Triple H的](../Page/Triple_H_\(企劃組合\).md "wikilink")《[Triple H 興新所](https://zh.wikipedia.org/wiki/Triple_H_興新所 "wikilink")》、網絡劇《[Spark](../Page/Spark_\(電視劇\).md "wikilink")》等等。 \[172\] {{-}}
 
 專屬節目
 
 |            |           |              |    |      |             |
 | ---------- | --------- | ------------ | -- | ---- | ----------- |
 | 日期         | 電視台/ 網絡頻道 | 節目名稱         | 集數 | 參與成員 | 備註          |
-| 2016年4月5日- | Cube TV   | Hashtag Cube |    | 旗下歌手 | 固定節目\[172\] |
+| 2016年4月5日- | Cube TV   | Hashtag Cube |    | 旗下歌手 | 固定節目\[173\] |
 
 ## 歌曲及公演
 
@@ -444,7 +448,7 @@ CUBE TV，節目有[BTOB](../Page/BTOB.md "wikilink")的《BTOB SHOW》、[CLC](
 <td><p>Fly So High</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=32Cn0f2FHsM">Fly So High Live</a></p></td>
 <td><p>4Minute、BEAST、G.Na</p></td>
-<td><p>[173]</p></td>
+<td><p>[174]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2013年4月30日</p></td>
@@ -465,28 +469,28 @@ CUBE TV，節目有[BTOB](../Page/BTOB.md "wikilink")的《BTOB SHOW》、[CLC](
 <td><p>Christmas Song</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=VVq9I3_FP7I">Christmas Song MV</a></p></td>
 <td><p>4Minute、BEAST、G.Na、A Pink、許閣、BTOB、盧志勛、辛知勳、金基利</p></td>
-<td><p>[174]</p></td>
+<td><p>[175]</p></td>
 </tr>
 <tr class="even">
 <td><p>2013年12月20日</p></td>
 <td><p>Ryu-Cube Donation Project</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=d37t1RmyJxw">Smile Again MV</a></p></td>
 <td><p>柳賢振、泫雅、賢勝、G.Na</p></td>
-<td><p>[175]</p></td>
+<td><p>[176]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2014年1月7日</p></td>
 <td><p>Ryu-Cube Donation Project</p></td>
 <td><p>Small Moon</p></td>
 <td><p>柳賢振、許嘉允、梁耀燮、徐恩光、辛知勳</p></td>
-<td><p>[176]</p></td>
+<td><p>[177]</p></td>
 </tr>
 <tr class="even">
 <td><p>2016年12月16日</p></td>
 <td><p>2016 United Cube Project Part.1</p></td>
 <td><p>Special Christmas</p></td>
 <td><p>金泫雅、張賢勝、BTOB、盧志勳、CLC、PENTAGON</p></td>
-<td><p>[177]</p></td>
+<td><p>[178]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016年12月22日</p></td>
@@ -562,7 +566,7 @@ CUBE TV，節目有[BTOB](../Page/BTOB.md "wikilink")的《BTOB SHOW》、[CLC](
 | 2012 | 第26屆金唱片獎－製作人獎（洪勝成）                                                              |
 | 2013 | 第2屆[Gaon Chart K-POP大獎](../Page/Gaon_Chart_K-POP大獎.md "wikilink")－K-pop貢獻獎（洪勝成） |
 | 2014 | 第28屆金唱片獎－製作人獎（洪勝成）                                                              |
-| 2017 | 2017 Korea Drama Awards (韓國電視劇節)－Global Management Award \[178\]                |
+| 2017 | 2017 Korea Drama Awards (韓國電視劇節)－Global Management Award \[179\]                |
 
 ## 參考資料
 
@@ -733,80 +737,81 @@ CUBE TV，節目有[BTOB](../Page/BTOB.md "wikilink")的《BTOB SHOW》、[CLC](
 99. [羅鐘贊出道影片](https://www.youtube.com/watch?v=XXE5VJVE3UA) 2015年3月10日
 100. [許景煥簽約CUBE娛樂](http://kpopn.niusnews.com/=K0n34al9)2016-02-05
 101. [방송인 이휘재, 큐브와 전속계약 체결 "현아·비투비 등과 한솥밥"](http://www.segye.com/newsView/20180305019446)2018-05-03
-102. [Cube Tree 官方練習生IG LJW](https://www.instagram.com/p/BZSzjUmArK2/)2017年9月21日
-103. [Cube Tree 官方練習生IG OSC](https://www.instagram.com/p/BYaiXmvAUNn)2017年8月30日
-104. [Cube Tree 官方練習生IG 연습생갠G](https://www.instagram.com/addxcubetree/p/BvbnGH4B3XP)2019年3月26日
-105. [충원고의 인기스타\! 권산\!](https://m.facebook.com/story.php?story_fbid=539797942810829&id=486569171467040)2017年6月8日
-106. [일소라 일반인 고등학생이 부른 '손끝에 닿을 만큼만' (소울맨) cover](https://www.youtube.com/watch?v=VbTPWBmkpg4)2017年9月15日
-107. [Cube Tree 官方練習生IG 같이,,,, 게임할래,,,?](https://twitter.com/ADDxCUBETREE/status/1160552840181571585)2019年8月11日
-108. [유가을('04) 큐브 엔터테인먼트 오디션 최종 합격\!](http://www.defcompany.com/gnuboard4/bbs/board.php?bo_table=auditionfinal_final&wr_id=641)2018年8月30日
-109. [30초PR 유가을(15, 여, 걸스힙합) - 댄싱하이](https://www.youtube.com/watch?v=koQbLe7XPPo)2018年9月17日
-110. [댄싱하이 무편집 풀영상 유가을(15, 여, 걸시힙합) Dancinghigh @KBS2 Fri 11:10 PM](https://www.youtube.com/watch?v=-HL1NfbRT9M)2018年9月17日
-111. [CUBE 發表官方立場 4Minute確定解散](http://www.koreastardaily.com/tc/news/79885)2015-6-16
-112. [4Minute停止活動！Cube正式公佈：南智賢、許嘉允、全智允及權昭賢不再續約](http://www.vlovekpop.com/20160617-4min/) vlovekpop
-113. [終於有定案！BEAST 簽新經理人公司 發展演藝事業的第二章](http://www.vlovekpop.com/20161216-beast/) vlovekpop
-114. [CUBE 新人吳藝璃新曲 MV](http://kpopn.niusnews.com/=K01t2w00)2013-11-07
-115. [Rain 決定不與 CUBE 續約](http://kpopn.niusnews.com/=K266d762)2015-09-07
-116. [G.Na 與 CUBE 合約到期，不續約](http://kpopn.niusnews.com/=K1rl4xn2)2016-03-31
-117. [誰加入 CUBE 家族?值得期待](http://kpopn.niusnews.com/=K08fk311)2011-06-16
-118. [辛知勳表示已退出Cube](https://www.youtube.com/watch?v=7VPsRj9lWfo)2017-08-02
-119. [龍俊亨MV中新人女演員與CUBE娛樂簽約](http://news.yule.com.cn/html/201312/158732.html)2013-12-30
-120. [童星演員朴敏荷加入CUBE](http://kpopn.niusnews.com/=K0gkh812)2015-08-29
-121. [崔代勳簽約CUBE娛樂](http://www.obsnews.co.kr/news/articleView.html?idxno=972727)2016-05-19
-122. [瑞雨簽約CUBE娛樂 與BEAST成同門](http://www.allthatstar.com/tw/view.php?action=5205&postID=252199)2016-06-20
-123. [Actress Seo Woo terminates her contract and leaves Cube Entertainment](https://www.allkpop.com/article/2017/10/actress-seo-woo-terminates-her-contract-and-leaves-cube-entertainment)2017-10-30
-124. [笑星金基利與CUBE娛樂簽約](http://news.52fuqing.com/newsshow-92535.html)2012-09-25
-125. [麥銳娛樂練習生](https://m.weibo.cn/status/Fs8NIEliR)
+102. [2019 이상준(LEE SANGJUN) 추석 인사 영상](https://www.youtube.com/watch?v=h9dsEawL62g)2019-09-11
+103. [Cube Tree 官方練習生IG LJW](https://www.instagram.com/p/BZSzjUmArK2/)2017年9月21日
+104. [Cube Tree 官方練習生IG OSC](https://www.instagram.com/p/BYaiXmvAUNn)2017年8月30日
+105. [Cube Tree 官方練習生IG 연습생갠G](https://www.instagram.com/addxcubetree/p/BvbnGH4B3XP)2019年3月26日
+106. [충원고의 인기스타\! 권산\!](https://m.facebook.com/story.php?story_fbid=539797942810829&id=486569171467040)2017年6月8日
+107. [일소라 일반인 고등학생이 부른 '손끝에 닿을 만큼만' (소울맨) cover](https://www.youtube.com/watch?v=VbTPWBmkpg4)2017年9月15日
+108. [Cube Tree 官方練習生IG 같이,,,, 게임할래,,,?](https://twitter.com/ADDxCUBETREE/status/1160552840181571585)2019年8月11日
+109. [유가을('04) 큐브 엔터테인먼트 오디션 최종 합격\!](http://www.defcompany.com/gnuboard4/bbs/board.php?bo_table=auditionfinal_final&wr_id=641)2018年8月30日
+110. [30초PR 유가을(15, 여, 걸스힙합) - 댄싱하이](https://www.youtube.com/watch?v=koQbLe7XPPo)2018年9月17日
+111. [댄싱하이 무편집 풀영상 유가을(15, 여, 걸시힙합) Dancinghigh @KBS2 Fri 11:10 PM](https://www.youtube.com/watch?v=-HL1NfbRT9M)2018年9月17日
+112. [CUBE 發表官方立場 4Minute確定解散](http://www.koreastardaily.com/tc/news/79885)2015-6-16
+113. [4Minute停止活動！Cube正式公佈：南智賢、許嘉允、全智允及權昭賢不再續約](http://www.vlovekpop.com/20160617-4min/) vlovekpop
+114. [終於有定案！BEAST 簽新經理人公司 發展演藝事業的第二章](http://www.vlovekpop.com/20161216-beast/) vlovekpop
+115. [CUBE 新人吳藝璃新曲 MV](http://kpopn.niusnews.com/=K01t2w00)2013-11-07
+116. [Rain 決定不與 CUBE 續約](http://kpopn.niusnews.com/=K266d762)2015-09-07
+117. [G.Na 與 CUBE 合約到期，不續約](http://kpopn.niusnews.com/=K1rl4xn2)2016-03-31
+118. [誰加入 CUBE 家族?值得期待](http://kpopn.niusnews.com/=K08fk311)2011-06-16
+119. [辛知勳表示已退出Cube](https://www.youtube.com/watch?v=7VPsRj9lWfo)2017-08-02
+120. [龍俊亨MV中新人女演員與CUBE娛樂簽約](http://news.yule.com.cn/html/201312/158732.html)2013-12-30
+121. [童星演員朴敏荷加入CUBE](http://kpopn.niusnews.com/=K0gkh812)2015-08-29
+122. [崔代勳簽約CUBE娛樂](http://www.obsnews.co.kr/news/articleView.html?idxno=972727)2016-05-19
+123. [瑞雨簽約CUBE娛樂 與BEAST成同門](http://www.allthatstar.com/tw/view.php?action=5205&postID=252199)2016-06-20
+124. [Actress Seo Woo terminates her contract and leaves Cube Entertainment](https://www.allkpop.com/article/2017/10/actress-seo-woo-terminates-her-contract-and-leaves-cube-entertainment)2017-10-30
+125. [笑星金基利與CUBE娛樂簽約](http://news.52fuqing.com/newsshow-92535.html)2012-09-25
 126. [麥銳娛樂練習生](https://m.weibo.cn/status/Fs8NIEliR)
-127. [偶像练习生-{余}-明君和赖冠霖什么关系 -{余}-明君为什么退出CUBE](http://hz.edushi.com/bang/info/4-111-n4268889.html)
-128. [170609 I Can See Your Voice 4 EP 15](https://www.youtube.com/watch?v=9dYjzPWLOw0)
-129. [Cube Tree 官方練習生IG JYB](https://www.instagram.com/p/BiZBDUzAcBF/)2018年5月8日
-130. [CLC 本來是六人團體？](http://kpopn.niusnews.com/=K0kh3281)
-131. [Kim Hyun Ji 我回來了 Cover](https://www.youtube.com/watch?v=m0kH207wWqo)2015-07-25
-132. [Kim Hyun Ji Halo Cover](https://www.youtube.com/watch?v=gWNaME0-ax0)2015-08-14
-133. [Kim Hyun Ji Attraction Cover](https://www.youtube.com/watch?v=CMsHjDIH8A8)2015-11-21
-134. [Nana was Cube Entertainment's Trainee in South Korea](https://www.facebook.com/pg/fromnana19/about)
-135. [Nana IG](https://www.instagram.com/fromnana)
-136. [Nana Youtube Channel](https://www.youtube.com/channel/UCB1s8nUIqW-pyllT7fw2IQA)
-137. [Cube Tree 官方練習生IG KJW](https://www.instagram.com/p/BE3hT3-jopE)2016年5月1日
-138. [Cube Tree 官方練習生IG KJW](https://www.instagram.com/p/BEveUB9jolf)2016年4月28日
-139. [DEF Cube 合格名單](http://blog.daum.net/defmusic/2847)2016-03-05
-140. [DEF Cube 合格名單](http://www.defcompany.com/gnuboard4/bbs/board.php?bo_table=auditionfinal_final&wr_id=581&page=2)
-141. [160628 PENTAGON MAKER YAN AN cotton candy](https://www.youtube.com/watch?v=MUCvhokc3qg&feature=youtu.be&t=3m16s)2016-06-28
-142. [170601 Rising Star Cosmetics - Kim Ji Woo](https://www.youtube.com/watch?v=eIdLweBxISs)2017-06-01
-143. [170601 Rising Star Cosmetics 花絮](https://www.youtube.com/watch?v=xxcOiyjPGl4)2017-06-01
-144. [170601 Rising Star Cosmetics 宣傳](https://www.youtube.com/watch?v=dsojBlN5Xp0)2017-06-01
-145. [Cube Tree 官方練習生IG SJM](https://www.instagram.com/p/BYvQpFEgoQz/)2017年9月7日
-146. [160708 PENTAGON 年輕 MV](https://www.youtube.com/watch?v=wR7p647zdpI&feature=youtu.be&t=1m)
-147. [Cube Tree 官方練習生IG SSH](https://www.instagram.com/p/BYawbdxAWDE/)2018年8月30日
-148. [盧賢泰 副社長](https://www.instagram.com/hyuntae.roh.14)
-149. [盧賢泰 副社長](https://twitter.com/samyousam)
-150. [CUBE娛樂副經理舉行婚禮 BTOB、A pink等眾星齊聚](http://www.koreastardaily.com/tc/photo/22318)2012-11-05
-151. [Cube Entertainment's VP and Happy Together's Director to Marry in November](http://mwave.interest.me/en/kpop-news/article/17159/cube-entertainments-vp-and-happy-togethers-director-to-marry-in-november)2012-10-10
-152. [盧賢泰副社長專訪](http://osen.mt.co.kr/article/G1109882495)2014-06-21
-153. [PENTAGON MAKER EP 4 Panel of Judges](https://www.youtube.com/watch?v=DnNBpuuw5-I)2016年5月23日
-154. [PENTAGON MAKER EP 4 Announcement of MVP](https://www.youtube.com/watch?v=DnNBpuuw5-I)2016年5月23日
-155. [PENTAGON MAKER EP9 Announcement of elimination](https://www.youtube.com/watch?v=0pwTPSg1Lpo)
-156. [朴龍福 經紀部理事](https://www.instagram.com/parkyongbok/)
-157. [Park Yongbok](https://twitter.com/PPKA2000)
-158. [Cube Entertainment Director Adorably Cheers On Housed Artists at Idol Star Athletics Championships](https://www.soompi.com/2015/09/29/cube-entertainment-director-adorably-cheers-on-housed-artists-at-idol-star-athletics-championships)2015-09-29
-159. [全俊健 經紀人](https://www.instagram.com/joonkuni)
-160. [4Minute 經紀人都是帥哥](http://kpopn.niusnews.com/=K0w4h234)2012-08-17
-161.
+127. [麥銳娛樂練習生](https://m.weibo.cn/status/Fs8NIEliR)
+128. [偶像练习生-{余}-明君和赖冠霖什么关系 -{余}-明君为什么退出CUBE](http://hz.edushi.com/bang/info/4-111-n4268889.html)
+129. [170609 I Can See Your Voice 4 EP 15](https://www.youtube.com/watch?v=9dYjzPWLOw0)
+130. [Cube Tree 官方練習生IG JYB](https://www.instagram.com/p/BiZBDUzAcBF/)2018年5月8日
+131. [CLC 本來是六人團體？](http://kpopn.niusnews.com/=K0kh3281)
+132. [Kim Hyun Ji 我回來了 Cover](https://www.youtube.com/watch?v=m0kH207wWqo)2015-07-25
+133. [Kim Hyun Ji Halo Cover](https://www.youtube.com/watch?v=gWNaME0-ax0)2015-08-14
+134. [Kim Hyun Ji Attraction Cover](https://www.youtube.com/watch?v=CMsHjDIH8A8)2015-11-21
+135. [Nana was Cube Entertainment's Trainee in South Korea](https://www.facebook.com/pg/fromnana19/about)
+136. [Nana IG](https://www.instagram.com/fromnana)
+137. [Nana Youtube Channel](https://www.youtube.com/channel/UCB1s8nUIqW-pyllT7fw2IQA)
+138. [Cube Tree 官方練習生IG KJW](https://www.instagram.com/p/BE3hT3-jopE)2016年5月1日
+139. [Cube Tree 官方練習生IG KJW](https://www.instagram.com/p/BEveUB9jolf)2016年4月28日
+140. [DEF Cube 合格名單](http://blog.daum.net/defmusic/2847)2016-03-05
+141. [DEF Cube 合格名單](http://www.defcompany.com/gnuboard4/bbs/board.php?bo_table=auditionfinal_final&wr_id=581&page=2)
+142. [160628 PENTAGON MAKER YAN AN cotton candy](https://www.youtube.com/watch?v=MUCvhokc3qg&feature=youtu.be&t=3m16s)2016-06-28
+143. [170601 Rising Star Cosmetics - Kim Ji Woo](https://www.youtube.com/watch?v=eIdLweBxISs)2017-06-01
+144. [170601 Rising Star Cosmetics 花絮](https://www.youtube.com/watch?v=xxcOiyjPGl4)2017-06-01
+145. [170601 Rising Star Cosmetics 宣傳](https://www.youtube.com/watch?v=dsojBlN5Xp0)2017-06-01
+146. [Cube Tree 官方練習生IG SJM](https://www.instagram.com/p/BYvQpFEgoQz/)2017年9月7日
+147. [160708 PENTAGON 年輕 MV](https://www.youtube.com/watch?v=wR7p647zdpI&feature=youtu.be&t=1m)
+148. [Cube Tree 官方練習生IG SSH](https://www.instagram.com/p/BYawbdxAWDE/)2018年8月30日
+149. [盧賢泰 副社長](https://www.instagram.com/hyuntae.roh.14)
+150. [盧賢泰 副社長](https://twitter.com/samyousam)
+151. [CUBE娛樂副經理舉行婚禮 BTOB、A pink等眾星齊聚](http://www.koreastardaily.com/tc/photo/22318)2012-11-05
+152. [Cube Entertainment's VP and Happy Together's Director to Marry in November](http://mwave.interest.me/en/kpop-news/article/17159/cube-entertainments-vp-and-happy-togethers-director-to-marry-in-november)2012-10-10
+153. [盧賢泰副社長專訪](http://osen.mt.co.kr/article/G1109882495)2014-06-21
+154. [PENTAGON MAKER EP 4 Panel of Judges](https://www.youtube.com/watch?v=DnNBpuuw5-I)2016年5月23日
+155. [PENTAGON MAKER EP 4 Announcement of MVP](https://www.youtube.com/watch?v=DnNBpuuw5-I)2016年5月23日
+156. [PENTAGON MAKER EP9 Announcement of elimination](https://www.youtube.com/watch?v=0pwTPSg1Lpo)
+157. [朴龍福 經紀部理事](https://www.instagram.com/parkyongbok/)
+158. [Park Yongbok](https://twitter.com/PPKA2000)
+159. [Cube Entertainment Director Adorably Cheers On Housed Artists at Idol Star Athletics Championships](https://www.soompi.com/2015/09/29/cube-entertainment-director-adorably-cheers-on-housed-artists-at-idol-star-athletics-championships)2015-09-29
+160. [全俊健 經紀人](https://www.instagram.com/joonkuni)
+161. [4Minute 經紀人都是帥哥](http://kpopn.niusnews.com/=K0w4h234)2012-08-17
 162.
-163. [Cube 成立子公司 Cube DC](http://kpopn.niusnews.com/=K1lvlol2) 2012-03-14
-164. [CUBE併購子公司　Rain─BEAST一家親](http://www.koreastardaily.com/tc/news/46821) 2014-08-27
-165. [‘U-CUBE’ 홍승성 회장 “큐브 설립 10주년, 글로벌 기업으로 나아가겠다”](http://m.newsen.com/news_view.php?uid=201811231204170710)2018-11-23
-166. [辛知勳與 Starline Entertainment 簽約](http://kpopn.niusnews.com/=K31f2i83)2016-05-21
-167. [소규모 합병 공고](http://www.cubeent.co.kr/ir_04/3894864) 2017-5-12
-168. [합병 종료 보고 공고](http://www.cubeent.co.kr/ir_04/3895632) 2017-7-18
-169. [회사합병 결정](http://kind.krx.co.kr/common/disclsviewer.do?method=search&acptno=20170511000643&docno=&viewerhost=&viewerport=) 2017-5-11
-170. [CLC出席新綜藝發布會 清純唯美少女風](http://www.allthatstar.com/tw/view.php?action=5205&postID=103701) 2015-07-02
-171. [男團PENTAGON成員YEO ONE出演網路劇Spark預告公開](http://www.koreastardaily.com/tc/news/81362) 2015年7月17日
-172. [Hashtag Cube](https://www.youtube.com/playlist?list=PL8mLNBZcZ-W6KlCyp2hi-4270mSEvLpYy)
-173. [CUBE旗下藝人4minute、G.NA和BEAST合唱 新曲音源公開](http://www.koreastardaily.com/tc/news/9736)2011-7-02
-174. [CUBE、A CUBE 聖誕曲公開](http://kpopn.niusnews.com/=K044aol8)2013-12-03
-175. [柳賢振與 CUBE 合作曲公開](http://kpopn.niusnews.com/=K1996979)203-12-20
-176. [柳賢振,CUBE第二波合作曲](http://kpopn.niusnews.com/=K1brrmd4)2014-1-7
-177. [CUBE娛樂發聖誕曲 泫雅BTOB張賢勝等合唱](http://www.allthatstar.com/tw/view.php?action=5212&postID=298455&t=CUBE%E5%A8%9B%E6%A8%82%E7%99%BC%E8%81%96%E8%AA%95%E6%9B%B2+%E6%B3%AB%E9%9B%85BTOB%E5%BC%B5%E8%B3%A2%E5%8B%9D%E7%AD%89%E5%90%88%E5%94%B1)2016-12-16
-178. [陸星材以《鬼怪》成為韓國電視劇大賞二冠王啦](http://www.koreastardaily.com/tc/news/98656)
+163.
+164. [Cube 成立子公司 Cube DC](http://kpopn.niusnews.com/=K1lvlol2) 2012-03-14
+165. [CUBE併購子公司　Rain─BEAST一家親](http://www.koreastardaily.com/tc/news/46821) 2014-08-27
+166. [‘U-CUBE’ 홍승성 회장 “큐브 설립 10주년, 글로벌 기업으로 나아가겠다”](http://m.newsen.com/news_view.php?uid=201811231204170710)2018-11-23
+167. [辛知勳與 Starline Entertainment 簽約](http://kpopn.niusnews.com/=K31f2i83)2016-05-21
+168. [소규모 합병 공고](http://www.cubeent.co.kr/ir_04/3894864) 2017-5-12
+169. [합병 종료 보고 공고](http://www.cubeent.co.kr/ir_04/3895632) 2017-7-18
+170. [회사합병 결정](http://kind.krx.co.kr/common/disclsviewer.do?method=search&acptno=20170511000643&docno=&viewerhost=&viewerport=) 2017-5-11
+171. [CLC出席新綜藝發布會 清純唯美少女風](http://www.allthatstar.com/tw/view.php?action=5205&postID=103701) 2015-07-02
+172. [男團PENTAGON成員YEO ONE出演網路劇Spark預告公開](http://www.koreastardaily.com/tc/news/81362) 2015年7月17日
+173. [Hashtag Cube](https://www.youtube.com/playlist?list=PL8mLNBZcZ-W6KlCyp2hi-4270mSEvLpYy)
+174. [CUBE旗下藝人4minute、G.NA和BEAST合唱 新曲音源公開](http://www.koreastardaily.com/tc/news/9736)2011-7-02
+175. [CUBE、A CUBE 聖誕曲公開](http://kpopn.niusnews.com/=K044aol8)2013-12-03
+176. [柳賢振與 CUBE 合作曲公開](http://kpopn.niusnews.com/=K1996979)203-12-20
+177. [柳賢振,CUBE第二波合作曲](http://kpopn.niusnews.com/=K1brrmd4)2014-1-7
+178. [CUBE娛樂發聖誕曲 泫雅BTOB張賢勝等合唱](http://www.allthatstar.com/tw/view.php?action=5212&postID=298455&t=CUBE%E5%A8%9B%E6%A8%82%E7%99%BC%E8%81%96%E8%AA%95%E6%9B%B2+%E6%B3%AB%E9%9B%85BTOB%E5%BC%B5%E8%B3%A2%E5%8B%9D%E7%AD%89%E5%90%88%E5%94%B1)2016-12-16
+179. [陸星材以《鬼怪》成為韓國電視劇大賞二冠王啦](http://www.koreastardaily.com/tc/news/98656)

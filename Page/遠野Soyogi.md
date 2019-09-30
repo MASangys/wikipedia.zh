@@ -1,7 +1,5 @@
 **遠野梵**（遠野そよぎ）（）是日本女性声优。主要为[成人游戏配音](https://zh.wikipedia.org/wiki/成人游戏 "wikilink")。\[1\]\[2\]代表作品有《[School Days](../Page/School_Days.md "wikilink")》（桂言葉）、《[初音島II](../Page/初音島II.md "wikilink")》（雪村杏）、《[夜明前的琉璃色](../Page/夜明前的琉璃色.md "wikilink")》（辛西婭·瑪格麗特）。
 
-## 人物
-
 ## 出演作品
 
 ### 成人游戏
@@ -180,7 +178,7 @@
   - [LOVEREC.](../Page/LOVEREC..md "wikilink")（梁瀨鶴子）
   - [天ノ空レトロスペクト](https://zh.wikipedia.org/wiki/天ノ空レトロスペクト "wikilink")（**大空緋鞠**）
   - [想要傳達給你的愛戀](../Page/想要傳達給你的愛戀.md "wikilink")（**小鞠結衣**）
-  - [フォーリンラブ×4tune](https://zh.wikipedia.org/wiki/フォーリンラブ×4tune "wikilink")（**カレン・ウォルプタス**）
+  - [Fall in love×4tune](../Page/Fall_in_love×4tune.md "wikilink")（**カレン・ウォルプタス**）
   - [抬頭看看吧，看那天上的繁星](../Page/抬頭看看吧，看那天上的繁星.md "wikilink")（**白鳥織姬**）
 
 **2016年**

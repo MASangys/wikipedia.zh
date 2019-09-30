@@ -53,7 +53,7 @@ Android的應用程序通过應用程序兼容性層（Application Compatibility
 
 ## 使用情況
 
-首部原廠 Tizen 的裝置是一款由日本公司 Systena 於2013年10月推出的平板電腦。\[31\]\[32\]\[33\]而後三星電子推出的 Galaxy Gear 系列智慧型手錶（包括[Galaxy Gear](https://zh.wikipedia.org/wiki/Samsung_Galaxy_Gear "wikilink")、[Gear S](https://zh.wikipedia.org/wiki/Samsung_Gear_S "wikilink")、[Gear Fit等](https://zh.wikipedia.org/wiki/Samsung_Gear_Fit "wikilink")）、NX 系列相機及 Z 系列智慧型手機也預裝 Tizen。2016年2月21日，三星發表了基於 Tizen 的[互聯汽車](../Page/互聯汽車.md "wikilink")系統，提供[車輛診斷的資訊顯示分析](../Page/車上診斷系統.md "wikilink")、Wi-Fi 以及其它車上系統的連接顯示服務。\[34\]
+[Smartwatch.jpg](https://zh.wikipedia.org/wiki/File:Smartwatch.jpg "fig:Smartwatch.jpg")使用Tizen系统\]\] 首部原廠 Tizen 的裝置是一款由日本公司 Systena 於2013年10月推出的[平板電腦](../Page/平板電腦.md "wikilink")。\[31\]\[32\]\[33\]而後三星電子推出的 Galaxy Gear 系列[智慧型手錶](https://zh.wikipedia.org/wiki/智慧型手錶 "wikilink")（包括[Galaxy Gear](https://zh.wikipedia.org/wiki/Samsung_Galaxy_Gear "wikilink")、[Gear S](https://zh.wikipedia.org/wiki/Samsung_Gear_S "wikilink")、[Gear Fit](https://zh.wikipedia.org/wiki/Samsung_Gear_Fit "wikilink")、[Galaxy Watch等](https://zh.wikipedia.org/wiki/Samsung_Galaxy_Watch "wikilink")）、NX 系列相機及 Z 系列智慧型手機也預裝 Tizen。2016年2月21日，三星發表了基於 Tizen 的[互聯汽車](../Page/互聯汽車.md "wikilink")系統，提供[車輛診斷的資訊顯示分析](../Page/車上診斷系統.md "wikilink")、Wi-Fi 以及其它車上系統的連接顯示服務。\[34\]
 
 ## 参见
 

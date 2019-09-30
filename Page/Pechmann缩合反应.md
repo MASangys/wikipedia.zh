@@ -8,6 +8,8 @@
 
 
 [Pechmann_4methyllcoumarin.png](https://zh.wikipedia.org/wiki/File:Pechmann_4methyllcoumarin.png "fig:Pechmann_4methyllcoumarin.png")
+有研究指出 Pechmann 缩合反应是按照分子内亲电进攻成环、酯交换、失水的顺序发生的。\[4\]
+
 富电子的酚类反应效果较好，可在较温和条件下进行反应。 例如，从[间苯二酚](../Page/间苯二酚.md "wikilink")合成[伞形酮衍生物](https://zh.wikipedia.org/wiki/伞形酮 "wikilink")——7-羟基-4-甲基香豆素：
 
 
@@ -30,3 +32,4 @@
 1.
 2.  Eugene H. Woodruff , *Organic Syntheses, Coll. Vol. 3*, p.581. [Available online](http://www.orgsyn.org/orgsyn/prep.asp?prep=cv3p0581).
 3.  J. A. Joule, K. Mills *Heterocyclic Chemistry*, 4th edition, Blackwell Science, Oxford, UK, 2000.
+4.

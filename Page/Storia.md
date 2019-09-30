@@ -25,6 +25,6 @@
 
   - [Kalafina 官方網站](http://www.sonymusic.co.jp/Music/Info/kalafina/)
 
-[Category:Kalafina單曲](https://zh.wikipedia.org/wiki/Category:Kalafina單曲 "wikilink")
+[Category:Kalafina單曲](https://zh.wikipedia.org/wiki/Category:Kalafina單曲 "wikilink") [Category:2009年單曲](https://zh.wikipedia.org/wiki/Category:2009年單曲 "wikilink")
 
-1.  <http://www.sonymusic.co.jp/Music/Info/kalafina/disco/index.html>
+1.

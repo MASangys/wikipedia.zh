@@ -583,7 +583,7 @@ Brown Eyed Girls的歌迷官方稱為「Everlasting」，意思是「永恒的�
       - 曲目比韓版多收錄了一首改版歌曲「Cleansing Cream」
   - 『Black Box台灣獨佔盤 (CD+DVD)』台壓版
       - 2013.11.22 正式發行
-      - 曲目與韓國相同 還收錄了“Kill Bill" 完整版MV、舞蹈版MV、外加預告」
+      - 曲目與韓國相同 還收錄了“Kill Bill 完整版MV、舞蹈版MV、外加預告」
 
 ### 香港
 

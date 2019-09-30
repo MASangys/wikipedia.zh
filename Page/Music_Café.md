@@ -498,6 +498,10 @@
 | 433 | 8月10日  | 享樂團、黎曉陽　創作分享會              | [享樂團](../Page/享樂團.md "wikilink")、[黎曉陽](https://zh.wikipedia.org/wiki/黎曉陽 "wikilink")                                                                     |
 | 434 | 8月17日  | 何雁詩、戴祖儀、古家峯　樂壇幸運兒          | [何雁詩](https://zh.wikipedia.org/wiki/何雁詩 "wikilink")、[戴祖儀](../Page/戴祖儀.md "wikilink")、[古家峯](../Page/古家峯.md "wikilink")                                    |
 | 435 | 8月24日  | Dear Jane　音樂大計浪接浪          | [Dear Jane](../Page/Dear_Jane.md "wikilink")                                                                                                             |
+| 436 | 8月31日  | 連詩雅、石詠莉　歌曲治療情感             | [連詩雅](https://zh.wikipedia.org/wiki/連詩雅 "wikilink")、[石詠莉](../Page/石詠莉.md "wikilink")                                                                     |
+| 437 | 9月7日   | 李靖筠、美琪、黃千庭　新人闖樂壇           | [李靖筠](../Page/李靖筠.md "wikilink")、[美琪](https://zh.wikipedia.org/wiki/美琪 "wikilink")、[黃千庭](../Page/黃千庭.md "wikilink")                                      |
+| 438 | 9月14日  | 王梓軒、歌莉雅　錫聲技巧               | [王梓軒](../Page/王梓軒.md "wikilink")、[歌莉雅](../Page/歌莉雅.md "wikilink")                                                                                        |
+| 439 | 9月21日  | 馮允謙、JW　把靚聲留給聽眾             | [馮允謙](../Page/馮允謙.md "wikilink")、[JW](../Page/王灝兒.md "wikilink")                                                                                         |
 
 ## 記事
 

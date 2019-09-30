@@ -2245,7 +2245,7 @@
 <td style="text-align: center;"><p><a href="../Page/金相中.md" title="wikilink">金相中</a>、<a href="../Page/蔡時那.md" title="wikilink">蔡時那</a>、<a href="../Page/劉東根.md" title="wikilink">劉東根</a>、<a href="../Page/安友淵.md" title="wikilink">安友淵</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/李在珍_(導演).md" title="wikilink">李在珍</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/徐恩靜" title="wikilink">徐恩靜</a>、<a href="https://zh.wikipedia.org/wiki/吳慧蘭" title="wikilink">吳慧蘭</a>、<a href="https://zh.wikipedia.org/wiki/裴相旭" title="wikilink">裴相旭</a></p></td>
-<td style="text-align: center;"><p>周良貨《》</p></td>
+<td style="text-align: center;"><p>能田茂《》</p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>2019年5月22日－<br />
@@ -2260,7 +2260,7 @@
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>2019年7月17日－<br />
-2019年9月19日</p></td>
+2019年9月26日</p></td>
 <td style="text-align: center;"><p><a href="../Page/新入史官丘海昤.md" title="wikilink">新入史官丘海昤</a><br />
 </p></td>
 <td style="text-align: center;"><p>40</p></td>
@@ -2270,20 +2270,20 @@
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p>2019年9月－<br />
-2019年</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/偶然發現的一天" title="wikilink">偶然發現的一天</a><br />
+<td style="text-align: center;"><p>2019年10月2日－<br />
+2019年11月21日</p></td>
+<td style="text-align: center;"><p><a href="../Page/意外發現的一天.md" title="wikilink">意外發現的一天</a><br />
 </p></td>
 <td style="text-align: center;"><p>32</p></td>
 <td style="text-align: center;"><p><a href="../Page/金惠允.md" title="wikilink">金惠允</a>、<a href="https://zh.wikipedia.org/wiki/金路雲" title="wikilink">金路雲</a>、<a href="../Page/李在旭.md" title="wikilink">李在旭</a>、<a href="../Page/李娜恩.md" title="wikilink">李娜恩</a>、<a href="../Page/鄭乾柱.md" title="wikilink">鄭乾柱</a>、<a href="../Page/李泰利.md" title="wikilink">李泰利</a>、<a href="https://zh.wikipedia.org/wiki/金永大" title="wikilink">金永大</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金尚葉" title="wikilink">金尚葉</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/印智慧" title="wikilink">印智慧</a>、<a href="https://zh.wikipedia.org/wiki/宋荷英" title="wikilink">宋荷英</a></p></td>
-<td style="text-align: center;"><p>무류《偶然發現的7月》</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/宋夏英" title="wikilink">宋夏英</a>、<a href="https://zh.wikipedia.org/wiki/印智慧" title="wikilink">印智慧</a></p></td>
+<td style="text-align: center;"><p>網漫《意外發現的七月》</p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p>2019年11月－<br />
-2019年</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/有瑕疵的人們" title="wikilink">有瑕疵的人們</a><br />
+<td style="text-align: center;"><p>2019年11月27日－<br />
+2020年</p></td>
+<td style="text-align: center;"><p><a href="../Page/有瑕疵的人們.md" title="wikilink">有瑕疵的人們</a><br />
 </p></td>
 <td style="text-align: center;"><p>32</p></td>
 <td style="text-align: center;"><p><a href="../Page/安宰賢.md" title="wikilink">安宰賢</a>、<a href="../Page/吳漣序.md" title="wikilink">吳漣序</a>、<a href="https://zh.wikipedia.org/wiki/具元" title="wikilink">具元</a>、<a href="../Page/金瑟琪.md" title="wikilink">金瑟琪</a></p></td>

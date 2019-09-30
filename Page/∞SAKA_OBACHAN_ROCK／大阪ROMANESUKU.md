@@ -8,22 +8,20 @@
 
 ### 初回限定盤
 
-1.∞SAKAおばちゃんROCK
-
-  - 作詞: 久保田洋司、関ジャニ∞、作曲・編曲: 馬飼野康二
-
-2.大阪ロマネスク \[Single Version\]
-
-  - 作詞: 相田毅、作曲: 谷本新、編曲: ha-j
-
-3.∞SAKAおばちゃんROCK（Original karaoke）
-4.大阪ロマネスク \[Single Version\]（Original karaoke）
+1.  ∞SAKAおばちゃんROCK
+      - 作詞: 久保田洋司、関ジャニ∞、作曲・編曲: 馬飼野康二
+2.  大阪ロマネスク \[Single Version\]
+      - 作詞: 相田毅、作曲: 谷本新、編曲: ha-j
+3.  ∞SAKAおばちゃんROCK（Original karaoke）
+4.  大阪ロマネスク \[Single Version\]（Original karaoke）
 
 ### 通常盤
 
-1.∞SAKAおばちゃんROCK
-2.大阪ロマネスク \[Single Version\]
-3.いつか、また…。
-\*作詞・作曲: 飯田建彦、編曲: 大坪直樹 4.∞SAKAおばちゃんROCK（オリジナル・カラオケ） 5.大阪ロマネスク \[Single Version\]（オリジナル・カラオケ）
+1.  ∞SAKAおばちゃんROCK
+2.  大阪ロマネスク \[Single Version\]
+3.  いつか、また…。
+    \*作詞・作曲: 飯田建彦、編曲: 大坪直樹
+4.  ∞SAKAおばちゃんROCK（オリジナル・カラオケ）
+5.  大阪ロマネスク \[Single Version\]（オリジナル・カラオケ）
 
 [Category:關西傑尼斯8歌曲](https://zh.wikipedia.org/wiki/Category:關西傑尼斯8歌曲 "wikilink") [Category:2006年單曲](https://zh.wikipedia.org/wiki/Category:2006年單曲 "wikilink")

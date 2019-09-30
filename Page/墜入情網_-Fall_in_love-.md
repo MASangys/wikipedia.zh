@@ -6,7 +6,7 @@
 
 歌曲被多人翻唱過，其中最出名的是2007年男歌手[德永英明](../Page/德永英明.md "wikilink")在《[VOCALIST 3](https://zh.wikipedia.org/wiki/VOCALIST_3 "wikilink")》中的翻唱。
 
-歌曲也曾被多次翻唱成[華語](https://zh.wikipedia.org/wiki/華語 "wikilink")，[台灣的女歌手](https://zh.wikipedia.org/wiki/台灣 "wikilink")[鳳飛飛](../Page/鳳飛飛.md "wikilink")、[楊林都曾經演繹過不同的版本](https://zh.wikipedia.org/wiki/楊林 "wikilink")。最成功的華語翻唱是1985年[香港](../Page/香港.md "wikilink")歌手[張國榮](../Page/張國榮.md "wikilink")和[陳潔靈](../Page/陳潔靈.md "wikilink")的合唱情歌《誰令你心癡》。
+歌曲也曾被多次翻唱成[華語](https://zh.wikipedia.org/wiki/華語 "wikilink")，[台灣的女歌手](https://zh.wikipedia.org/wiki/台灣 "wikilink")[鳳飛飛](../Page/鳳飛飛.md "wikilink")、[楊林都曾經演繹過不同的版本](../Page/楊林_\(歌手\).md "wikilink")。最成功的華語翻唱是1985年[香港](../Page/香港.md "wikilink")歌手[張國榮](../Page/張國榮.md "wikilink")和[陳潔靈](../Page/陳潔靈.md "wikilink")的合唱情歌《誰令你心癡》。
 
 ## 收錄曲目
 

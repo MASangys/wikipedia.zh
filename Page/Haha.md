@@ -2,7 +2,7 @@
 
 ## 經歷
 
-Haha出身於嘻哈組合，2001年以《A/K/A Check Up》出道。
+Haha於1997年曾嘗試以嘻哈歌手出道\[1\]，後出身於嘻哈組合，2001年以《A/K/A Check Up》出道。
 
 2002年時，演出青春情景喜劇《》在劇中飾演一個惹事又抱有喜感的角色，充分地展示出他的喜劇細胞，得到大眾的注意，因此開拓了他的藝能之路。 成為韓國著名綜藝節目《[X-Man](../Page/X-Man_\(韓國節目\).md "wikilink")》的固定嘉賓，同時也擔任《[無限挑戰](../Page/無限挑戰.md "wikilink")》與《[Running Man](../Page/Running_Man.md "wikilink")》的主持人，並在電台擁有自己的節目《》。
 
@@ -10,11 +10,11 @@ Haha出身於嘻哈組合，2001年以《A/K/A Check Up》出道。
 
 2006年7月公開與[MBC氣象報導員安惠京的戀情](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")，二人表現甜蜜也曾成為韓國人心目中「最可能馬上結婚的情侶」。可是於2010年當兵期間，戀情無疾而終，曾於《Running Man》中表示戀情長達五年，並問候對方。
 
-2012年8月14日宣佈與韓國歌手[Star结婚](../Page/Star_\(韓國歌手\).md "wikilink")\[1\]，於同年10月註冊，並於同年11月30日舉行婚禮。2013年1月25日，宣佈妻子已懷孕三個月。同年7月9日，Haha於Twitter宣佈喜得一子Dream（），8月28日Star於Twitter宣佈兒子的出生證明中全名登記為河夢兒（）\[2\]。
+2012年8月14日宣佈與韓國歌手[Star结婚](../Page/Star_\(韓國歌手\).md "wikilink")\[2\]，於同年10月註冊，並於同年11月30日舉行婚禮。2013年1月25日，宣佈妻子已懷孕三個月。同年7月9日，Haha於Twitter宣佈喜得一子Dream（），8月28日Star於Twitter宣佈兒子的出生證明中全名登記為河夢兒（）\[3\]。
 
 2017年3月22日，幼子Soul出生。
 
-2018年12月31日Haha公佈老婆懷有第3胎喜訊，確認其妻已懷孕約10周。
+2018年8月辭去 Quan Entertainment 公司 CEO 一職\[4\]，12月31日Haha公佈老婆懷有第3胎喜訊，確認其妻已懷孕約10周。
 
 2019年7月15日，長女Song出生。
 
@@ -675,5 +675,7 @@ Haha出身於嘻哈組合，2001年以《A/K/A Check Up》出道。
 
 [Category:無限挑戰](https://zh.wikipedia.org/wiki/Category:無限挑戰 "wikilink") [Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink") [Category:韓國電視主持人](https://zh.wikipedia.org/wiki/Category:韓國電視主持人 "wikilink") [Category:河姓](https://zh.wikipedia.org/wiki/Category:河姓 "wikilink")
 
-1.
+1.  《[Running Man](../Page/Running_Man.md "wikilink")》 第466集 (2019-09-01) 開場片段提及
 2.
+3.
+4.

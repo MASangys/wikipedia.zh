@@ -18,6 +18,6 @@
 
 ## 注釋
 
-[Category:迈克尔·杰克逊歌曲](https://zh.wikipedia.org/wiki/Category:迈克尔·杰克逊歌曲 "wikilink") [Category:1983年單曲](https://zh.wikipedia.org/wiki/Category:1983年單曲 "wikilink") [Category:葛萊美獎年度唱片](https://zh.wikipedia.org/wiki/Category:葛萊美獎年度唱片 "wikilink") [Category:告示牌百強單曲榜冠軍單曲](https://zh.wikipedia.org/wiki/Category:告示牌百強單曲榜冠軍單曲 "wikilink")
+[Category:迈克尔·杰克逊歌曲](https://zh.wikipedia.org/wiki/Category:迈克尔·杰克逊歌曲 "wikilink") [Category:1983年單曲](https://zh.wikipedia.org/wiki/Category:1983年單曲 "wikilink") [Category:格莱美奖年度制作](https://zh.wikipedia.org/wiki/Category:格莱美奖年度制作 "wikilink") [Category:告示牌百強單曲榜冠軍單曲](https://zh.wikipedia.org/wiki/Category:告示牌百強單曲榜冠軍單曲 "wikilink")
 
 1.  【往事只能回味③】之【文跡奇武】-武雄

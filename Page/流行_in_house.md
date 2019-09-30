@@ -1,4 +1,4 @@
-《**流行 in House**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[Channel V播出的時尚](../Page/Channel_V.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，於2003年2月22日\[1\]逢星期六下午2點播映，又於2009年1月24日起改為每週六晚上6點播出。由[路嘉怡](../Page/路嘉怡.md "wikilink")、[容嘉和](../Page/劉容嘉.md "wikilink")[小香帶領主持](../Page/趙延慶.md "wikilink")，有時會加入[黑Girl](../Page/黑Girl.md "wikilink")、[黑澀會美眉](../Page/黑澀會美眉.md "wikilink")和[棒棒堂底迪為助理主持或嘉賓](https://zh.wikipedia.org/wiki/棒棒堂底迪 "wikilink")。
+《**流行 in House**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[Channel V播出的時尚](../Page/Channel_V.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，於2003年2月22日起逢星期六下午2點播映，又於2009年1月24日起改為每週六晚上6點播出。由[路嘉怡](../Page/路嘉怡.md "wikilink")、[容嘉和](../Page/劉容嘉.md "wikilink")[小香帶領主持](../Page/趙延慶.md "wikilink")，有時會加入[黑Girl](../Page/黑Girl.md "wikilink")、[黑澀會美眉](../Page/黑澀會美眉.md "wikilink")和[棒棒堂底迪為助理主持或嘉賓](https://zh.wikipedia.org/wiki/棒棒堂底迪 "wikilink")。
 
 ## 簡介
 
@@ -123,5 +123,3 @@
 ## 參考資料
 
 [Category:停播台灣綜藝節目](https://zh.wikipedia.org/wiki/Category:停播台灣綜藝節目 "wikilink") [Category:星空傳媒(台灣)電視節目](https://zh.wikipedia.org/wiki/Category:星空傳媒\(台灣\)電視節目 "wikilink")
-
-1.  [林志玲化身秀導 路嘉怡太緊張走秀頻吃螺絲](http://www.stnn.cc:82/ent_focus/200709/t20070901_609967.html)

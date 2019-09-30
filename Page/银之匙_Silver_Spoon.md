@@ -933,7 +933,7 @@
   - 中島老師：[中村獅童](../Page/中村獅童_\(二代目\).md "wikilink")<small>（香港配音：[潘文柏](../Page/潘文柏.md "wikilink")）</small>
   - 常盤惠次：[矢本悠馬](../Page/矢本悠馬.md "wikilink")<small>（香港配音：[陳成港](../Page/陳成港.md "wikilink")）</small>
   - 稻田多摩子：安田加奈<small>（香港配音：[李潤知](../Page/李潤知.md "wikilink")）</small>
-  - 吉野真由：<small>（香港配音：[廖杏茵](../Page/廖杏茵.md "wikilink")）</small>
+  - 吉野真由：[岸井雪乃](../Page/岸井雪乃.md "wikilink")<small>（香港配音：[廖杏茵](../Page/廖杏茵.md "wikilink")）</small>
   - 別府太郎：河野將也<small>（香港配音：[曹啟謙](../Page/曹啟謙.md "wikilink")）</small>
   - 稲田真一郎：遠山悠介<small>（香港配音：）</small>
   - 大川進英：花戶祐介<small>（香港配音：）</small>

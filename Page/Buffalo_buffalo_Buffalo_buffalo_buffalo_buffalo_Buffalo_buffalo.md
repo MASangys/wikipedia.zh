@@ -5,7 +5,7 @@ V = [动词](../Page/动词.md "wikilink")
 NP =
 RC = [关系从句](https://zh.wikipedia.org/wiki/关系从句 "wikilink")
 VP = [动词短语](https://zh.wikipedia.org/wiki/动词短语 "wikilink")
-S = [句子](https://zh.wikipedia.org/wiki/句子 "wikilink") ](https://zh.wikipedia.org/wiki/File:Buffalo_sentence_1_parse_tree.svg "fig:分析树 PN = 专有名词 N = 名词 V = 动词 NP =  RC = 关系从句 VP = 动词短语 S = 句子 ") "****"是[英语](../Page/英语.md "wikilink")中一句[语法](../Page/语法.md "wikilink")正确的句子，用来展示如何使用[同形同音词创造复杂的语言结构](https://zh.wikipedia.org/wiki/同形同音词 "wikilink")。1972年，[纽约州立大学水牛城分校助理教授](https://zh.wikipedia.org/wiki/纽约州立大学水牛城分校 "wikilink")[威廉·拉帕波特](https://zh.wikipedia.org/wiki/威廉·拉帕波特 "wikilink")（William J. Rapaport）最早使用了这句句子。\[1\]1992年，拉帕波特将其发表在《[LINGUIST List](https://zh.wikipedia.org/wiki/LINGUIST_List "wikilink")》上。\[2\] 1994年，[史迪芬·平克](../Page/史迪芬·平克.md "wikilink")在其著作《[语言本能](https://zh.wikipedia.org/wiki/语言本能 "wikilink")》（**）中也提到了这一句子。\[3\]
+S = [句子](https://zh.wikipedia.org/wiki/句子 "wikilink") ](https://zh.wikipedia.org/wiki/File:Buffalo_sentence_1_parse_tree.svg "fig:分析树 PN = 专有名词 N = 名词 V = 动词 NP =  RC = 关系从句 VP = 动词短语 S = 句子 ") 「****」是[英语](../Page/英语.md "wikilink")中一句[语法](../Page/语法.md "wikilink")正确的句子，用来展示如何使用[同形同音词创造复杂的语言结构](https://zh.wikipedia.org/wiki/同形同音词 "wikilink")。1972年，[纽约州立大学水牛城分校助理教授](https://zh.wikipedia.org/wiki/纽约州立大学水牛城分校 "wikilink")[威廉·拉帕波特](https://zh.wikipedia.org/wiki/威廉·拉帕波特 "wikilink")（William J. Rapaport）最早使用了这句句子。\[1\]1992年，拉帕波特将其发表在《[LINGUIST List](https://zh.wikipedia.org/wiki/LINGUIST_List "wikilink")》上。\[2\] 1994年，[史迪芬·平克](../Page/史迪芬·平克.md "wikilink")在其著作《[语言本能](https://zh.wikipedia.org/wiki/语言本能 "wikilink")》（**）中也提到了这一句子。\[3\]
 
 ## 句子结构
 

@@ -50,6 +50,7 @@ Evernote在线服务还允许用户选定笔记的共享与编辑功能，并可
 <th><p>入門版</p></th>
 <th><p>進階版</p></th>
 <th><p>專業版</p></th>
+<th><p>企業版</p></th>
 </tr>
 </thead>
 <tbody>
@@ -58,9 +59,11 @@ Evernote在线服务还允许用户选定笔记的共享与编辑功能，并可
 <td><p>60MB</p></td>
 <td><p>1GB</p></td>
 <td><p>10GB</p></td>
+<td><p>20GB̟</p></td>
 </tr>
 <tr class="even">
 <td><p>一键保存网页</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -70,9 +73,11 @@ Evernote在线服务还允许用户选定笔记的共享与编辑功能，并可
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>-{zh-tw:手機、平板、電腦全面同步; zh-cn:同步所有设备;}-</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -82,9 +87,11 @@ Evernote在线服务还允许用户选定笔记的共享与编辑功能，并可
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>-{zh-tw:設定行動裝置密碼鎖; zh-cn:手机密码锁定;}-</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -94,9 +101,11 @@ Evernote在线服务还允许用户选定笔记的共享与编辑功能，并可
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>-{zh-tw:搜尋Office 文件與附加檔案; zh-cn:文档深度搜索;}-</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -106,9 +115,11 @@ Evernote在线服务还允许用户选定笔记的共享与编辑功能，并可
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>-{zh-tw:標註PDF 檔; zh-cn:标注PDF文档;}-</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -118,9 +129,11 @@ Evernote在线服务还允许用户选定笔记的共享与编辑功能，并可
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>笔记历史版本</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -130,13 +143,14 @@ Evernote在线服务还允许用户选定笔记的共享与编辑功能，并可
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
 
 注：
 
-  - 免费帐户不支持笔记离线查看和编辑。有时笔记可以从缓存中访问，但可能会导致同步时的冲突。
+  - 免费帐户不支持笔记离线查看（桌面版支持）和编辑。有时笔记可以从缓存中访问，但可能会导致同步时的冲突。
   - 所有的Evernote 帐户，不管免费帐户和高级帐户，都有10万笔记数量和250本笔记本的最高限额\[10\]。
   - 免费账户仅限同步2台设备。
 

@@ -668,6 +668,20 @@
 <td><p>2019年7月4日</p></td>
 <td><p>ISBN 978-4-08-881877-1</p></td>
 </tr>
+<tr class="even">
+<td><p>94</p></td>
+<td></td>
+<td><p>943-</p></td>
+<td><p>2019年10月4日</p></td>
+<td><p>ISBN 978-4-08-882054-5</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

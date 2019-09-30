@@ -22,6 +22,7 @@
 
   - 2009年—《[魔鬼終結者：未來救贖](../Page/魔鬼終結者：未來救贖.md "wikilink")》（Terminator Salvation）：由巴恩斯所持有。
   - 2011年—《[變形金剛3](../Page/變形金剛3.md "wikilink")》
+  - 2014年—《[猩球崛起：黎明的進擊](https://zh.wikipedia.org/wiki/猩球崛起：黎明的進擊 "wikilink")》（Dawn of the Planet of the Apes）：被猿族藍眼(尼克·瑟斯頓飾演)所使用。
 
 ### 電子遊戲
 

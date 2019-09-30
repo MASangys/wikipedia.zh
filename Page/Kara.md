@@ -246,9 +246,9 @@ PlotData =
 #### 2015年
 
   - 2月14日，在新高輪王子飯店舉行粉絲情人節派對。
-  - 3月23日，KARA 第十二張日文單曲發行確定。為迎接在日本出道五周年，KARA 選在5月5日推出共有三首主打歌的第十二張日文單曲《サマー☆ジック / Sunshine Miracle / SUNNY DAYS》。\[25\]
+  - 3月23日，KARA 第十二張日文單曲發行確定。為迎接在日本出道五周年，KARA 選在5月5日推出共有三首主打歌的第十二張日文單曲《Sunshine Miracle/SUNNY DAYS》。\[25\]
   - 3月26日，KARA 第12張日文單曲封面照公開。\[26\]
-  - 4月5日，KARA 第12張日文單曲主打歌之一《SUMMER☆GIC (サマー☆ジック) 》MV 公開。\[27\]
+  - 4月5日，KARA 第12張日文單曲主打歌之一《SUMMER☆GIC》MV 公開。\[27\]
 
 ## 音樂作品
 
@@ -287,7 +287,7 @@ PlotData =
 
 ## 演唱會
 
-  - Kara 1st韩国演唱會（[KARA 2012 The 1st Concert KARASIA IN SEOUL](https://zh.wikipedia.org/wiki/KARA_2012_The_1st_Concert_KARASIA_IN_SEOUL "wikilink")）
+  - Kara 1st韩国演唱會（[KARA 2012 The 1st Concert KARASIA IN SEOUL](../Page/KARA_2012_The_1st_Concert_KARASIA_IN_SEOUL.md "wikilink")）
 
 |               |     |             |
 | ------------- | --- | ----------- |
@@ -364,7 +364,7 @@ PlotData =
 | 2010年9月12日  | 韓流夢想演唱會                                                        | 慶州市市民運動場                   |
 | 2010年12月2日  | 2010 第十二屆[中韓歌會](https://zh.wikipedia.org/wiki/中韓歌會 "wikilink") | 首爾KBS電視台演播廳                |
 | 2011年5月28日  | 2011 [Dream Concert](../Page/夢想演唱會.md "wikilink")              | 首爾世界盃競技場                   |
-| 2011年7月13日  | K-POP FESTIVAL-MUSIC BANK IN TOKYO                             | 東京巨蛋                       |
+| 2011年7月22日  | K-POP FESTIVAL-MUSIC BANK IN TOKYO                             | 東京巨蛋                       |
 | 2011年8月13日  | 2011 仁川韓流演唱會                                                   | 仁川文鶴競技場                    |
 | 2011年8月20日  | K-pop All Star Live in 新潟                                      | 新潟體育場                      |
 | 2011年8月23日  | K-POP Girls in Love LIVE in HK 2011                            | 香港亞洲國際博覽館                  |
@@ -419,7 +419,7 @@ PlotData =
 <tr class="odd">
 <td><p>2009</p></td>
 <td><ul>
-<li>第11屆Mnet Asian Music Awards－最佳舞蹈音乐奖獎《Honey》</li>
+<li>第11屆Mnet Asian Music Awards－最佳舞蹈音乐獎《Honey》</li>
 <li>第1屆Melon Music Awards－Top 10 Award</li>
 </ul></td>
 </tr>
@@ -428,7 +428,7 @@ PlotData =
 <td><ul>
 <li>第16屆大韓民國演藝藝術獎－最佳女歌手獎</li>
 <li>第19屆HIGH1首爾歌謠大賞－本賞</li>
-<li>KBS演藝大賞－綜藝最佳新人賞(具荷拉)</li>
+<li>KBS演藝大賞－娛樂部門優秀獎(具荷拉)</li>
 <li>第52屆日本唱片大獎－企劃賞《KARA SPECIAL BOX FOR JAPAN》</li>
 </ul></td>
 </tr>
@@ -462,7 +462,7 @@ PlotData =
 <td><p>2013</p></td>
 <td><ul>
 <li>All K-pop Awards－最佳女子團體獎</li>
-<li>第27屆日本金唱片大獎－亞洲區最佳藝人</li>
+<li>第27屆日本金唱片大獎－最佳亞洲藝人</li>
 <li>第27屆日本金唱片大獎－亞洲區年度最佳專輯獎《Super Girl》</li>
 <li>第27屆日本金唱片大賞－亞洲區三大專輯獎《Super Girl》</li>
 <li>第27屆韓國金唱片大賞－唱片本賞《Pandora》</li>

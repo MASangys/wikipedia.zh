@@ -212,7 +212,7 @@
 
 <!-- end list -->
 
-  - [全記渡](https://zh.wikipedia.org/wiki/全記渡 "wikilink") [香港仔魚市場](https://zh.wikipedia.org/wiki/香港仔魚市場 "wikilink")←→[索罟灣](https://zh.wikipedia.org/wiki/索罟灣 "wikilink")/[模達灣](https://zh.wikipedia.org/wiki/模達灣 "wikilink")/蒲台誕時往[蒲台島](../Page/蒲台群島.md "wikilink")
+  - [全記渡](https://zh.wikipedia.org/wiki/全記渡 "wikilink") [香港仔魚市場](https://zh.wikipedia.org/wiki/香港仔魚市場 "wikilink")←→[索罟灣](../Page/索罟灣.md "wikilink")/[模達灣](https://zh.wikipedia.org/wiki/模達灣 "wikilink")/蒲台誕時往[蒲台島](../Page/蒲台群島.md "wikilink")
   - [香港仔小輪](https://zh.wikipedia.org/wiki/香港仔小輪 "wikilink") [香港仔海濱公園](../Page/香港仔海濱公園.md "wikilink")(行人隧道口/[香港仔珍寶碼頭](https://zh.wikipedia.org/wiki/香港仔珍寶碼頭 "wikilink"))←→[鴨脷洲大街](../Page/鴨脷洲大街.md "wikilink")，服務時間由06:00至00:00。（可前往港鐵[利東站](../Page/利東站.md "wikilink")A1出口）
   - [翠華船務](https://zh.wikipedia.org/wiki/翠華船務 "wikilink") [香港仔海濱公園](../Page/香港仔海濱公園.md "wikilink")←→[北角村](https://zh.wikipedia.org/wiki/北角村 "wikilink")←→[榕樹灣](https://zh.wikipedia.org/wiki/榕樹灣 "wikilink")
   - [翠華船務](https://zh.wikipedia.org/wiki/翠華船務 "wikilink") [香港仔海濱公園](../Page/香港仔海濱公園.md "wikilink")←→[赤柱](../Page/赤柱.md "wikilink")←→[蒲台島](../Page/蒲台群島.md "wikilink")-只在週二、四、六、日開出

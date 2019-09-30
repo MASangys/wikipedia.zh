@@ -44,6 +44,87 @@
   - 蘇州金龍KLQ6108GQ28E5
   - 蘇州金龍KLQ6115GQ
 
+<table>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"><p><strong>澳門巴士MT4路线使用車輛列表</strong><br />
+(只記錄掛牌車輛)</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>align="center" width="25%" bgcolor="silver" color:black" | 所屬公司</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>新福利</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>H21</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>H22</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>H23</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>H24</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>H25</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>H26</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>H27</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>H28</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>H29</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>H39</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>H40</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>K189</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>K264</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>K323</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>K331</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>K334</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>K336</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>K337</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>K339</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>K340</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>K342</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"></td>
+</tr>
+</tbody>
+</table>
+
 ## 路線資料
 
 ### 收費

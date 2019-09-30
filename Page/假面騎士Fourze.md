@@ -1849,7 +1849,7 @@
 
 ### Horoscope
 
-**[射手座Zodiarts](https://zh.wikipedia.org/wiki/射手座 "wikilink")（）**（CV：／香港配音：[朱子聰](../Page/朱子聰.md "wikilink")、替身演員：）
+**[射手座Zodiarts](https://zh.wikipedia.org/wiki/射手座 "wikilink")（）**（CV：[鶴見辰吾](https://zh.wikipedia.org/wiki/鶴見辰吾 "wikilink")／香港配音：[朱子聰](../Page/朱子聰.md "wikilink")、替身演員：）
 
   -
     本體身份：[我望光明](https://zh.wikipedia.org/wiki/假面騎士Fourze#主要登場人物 "wikilink")
@@ -2599,7 +2599,7 @@
 <td></td>
 <td><ul>
 <li><a href="https://zh.wikipedia.org/wiki/獅子座" title="wikilink">獅子座Zodiarts</a>（CV：橫山一敏／香港配音：<a href="../Page/陳欣_(配音員).md" title="wikilink">陳欣</a>）</li>
-<li><a href="https://zh.wikipedia.org/wiki/射手座" title="wikilink">射手座Zodiarts</a>（CV：／香港配音：<a href="../Page/朱子聰.md" title="wikilink">朱子聰</a>）</li>
+<li><a href="https://zh.wikipedia.org/wiki/射手座" title="wikilink">射手座Zodiarts</a>（CV：<a href="https://zh.wikipedia.org/wiki/鶴見辰吾" title="wikilink">鶴見辰吾</a>／香港配音：<a href="../Page/朱子聰.md" title="wikilink">朱子聰</a>）</li>
 </ul></td>
 <td><p>5.1%</p></td>
 <td><p><a href="../Page/坂本浩一.md" title="wikilink">坂本浩一</a></p></td>

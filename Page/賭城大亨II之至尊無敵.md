@@ -31,7 +31,7 @@
 <td><center>
 <p><a href="../Page/劉德華.md" title="wikilink">劉德華</a></p>
 </center></td>
-<td><p>澳门娱乐公司董事长<br />
+<td><p>程震父親 澳门娱乐公司董事长 阿妹老公<br />
 原型：<a href="../Page/何鴻燊.md" title="wikilink">何鴻燊</a></p></td>
 <td></td>
 </tr>
@@ -100,7 +100,8 @@
 <td><p>程樂兒（Vivian）</p></td>
 <td><p><a href="../Page/王祖賢.md" title="wikilink">王祖賢</a></p></td>
 <td><p><a href="../Page/何錦華.md" title="wikilink">何錦華</a></p></td>
-<td><p>賀新前女友</p></td>
+<td><p>程震母親</p>
+<p><code>賀新前女友 </code></p></td>
 </tr>
 <tr class="odd">
 <td><p>阿霆</p></td>

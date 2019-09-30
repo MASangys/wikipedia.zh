@@ -22,7 +22,7 @@ Hünig碱可形成复杂的[杂环化合物](../Page/杂环化合物.md "wikilin
 
 ## 参考文献
 
-[Category:烷基胺](https://zh.wikipedia.org/wiki/Category:烷基胺 "wikilink") [Category:碱](https://zh.wikipedia.org/wiki/Category:碱 "wikilink")
+[Category:烷基胺](https://zh.wikipedia.org/wiki/Category:烷基胺 "wikilink") [Category:碱](https://zh.wikipedia.org/wiki/Category:碱 "wikilink") [Category:叔胺](https://zh.wikipedia.org/wiki/Category:叔胺 "wikilink")
 
 1.
 2.  *An efficient and operationally convenient general synthesis of tertiary amines by direct alkylation of secondary amines with alkyl halides in the presence of Huenig’s base* Jason L. Moore, Stephen M. Taylor, and Vadim A. Soloshonok [Arkivoc](https://zh.wikipedia.org/wiki/Arkivoc "wikilink") (EJ-1549C) pp 287-292 **2005** [Online Article](http://www.arkat-usa.org/home.aspx?VIEW=MANUSCRIPT&MSID=1549)

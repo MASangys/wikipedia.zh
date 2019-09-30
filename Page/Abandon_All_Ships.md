@@ -132,6 +132,6 @@ Abandon All Ships被廣泛的認為是基督教樂團，但帶有髒話與暗示
 8.
 9.
 
-10.  Interviews - Substream Music Press|url=[http://www.substreammusicpress.com/Interviews/abandon-all-ships.html|publisher=Substream](http://www.substreammusicpress.com/Interviews/abandon-all-ships.html%7Cpublisher=Substream) Music Press|accessdate=13 October 2010|date=27 August 2010}}
+10.  Interviews - Substream Music Press|url=[http://www.substreammusicpress.com/Interviews/abandon-all-ships.html|publisher=Substream](http://www.substreammusicpress.com/Interviews/abandon-all-ships.html%7Cpublisher=Substream) Music Press|accessdate=13 October 2010|date=27 August 2010|archive-url=[https://web.archive.org/web/20110108165353/http://www.substreammusicpress.com/Interviews/abandon-all-ships.html|archive-date=2011-01-08|dead-url=yes](https://web.archive.org/web/20110108165353/http://www.substreammusicpress.com/Interviews/abandon-all-ships.html%7Carchive-date=2011-01-08%7Cdead-url=yes)}}
 
 11.

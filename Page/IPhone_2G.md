@@ -32,7 +32,7 @@ iPhone是一部4频段[GSM](../Page/GSM.md "wikilink")制式的智能電話，�
 
 ## 评价
 
-《[纽约时报](../Page/纽约时报.md "wikilink")》与《[华尔街日报](../Page/华尔街日报.md "wikilink")》都曾对iPhone有正面的评价，但都对iPhone的前景表示谨慎，并且对[AT\&T](../Page/AT&T.md "wikilink")的网络速度与信号强度颇有微词，由于iPhone由AT\&T独家发售，信号问题也影响到了媒体与消费者对iPhone的评价。《华尔街日报》科技版评论家认为iPhone有一些缺陷，但这是一部十分出色的掌上电脑\[25\]。《[时代周刊](https://zh.wikipedia.org/wiki/时代周刊 "wikilink")》则对iPhone大加赞扬，并且提名iPhone为2007年年度创新产品\[26\]。 [IPhone(第一代)和iPhone4.jpg](https://zh.wikipedia.org/wiki/File:IPhone\(第一代\)和iPhone4.jpg "fig:IPhone(第一代)和iPhone4.jpg")
+《[纽约时报](../Page/纽约时报.md "wikilink")》与《[华尔街日报](../Page/华尔街日报.md "wikilink")》都曾对iPhone有正面的评价，但都对iPhone的前景表示谨慎，并且对[AT\&T](../Page/AT&T.md "wikilink")的网络速度与信号强度颇有微词，由于iPhone由AT\&T独家发售，信号问题也影响到了媒体与消费者对iPhone的评价。《华尔街日报》科技版评论家认为iPhone有一些缺陷，但这是一部十分出色的掌上电脑\[25\]。《[时代周刊](https://zh.wikipedia.org/wiki/时代周刊 "wikilink")》则对iPhone大加赞扬，并且提名iPhone为2007年年度创新产品\[26\]。 [iPhone_3G_VS_iPhone_(back).jpg](https://zh.wikipedia.org/wiki/File:iPhone_3G_VS_iPhone_\(back\).jpg "fig:iPhone_3G_VS_iPhone_(back).jpg")
 
 ## 参考资料
 
