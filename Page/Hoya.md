@@ -112,7 +112,7 @@
 <tr class="odd">
 <td><p>2014年4月8日</p></td>
 <td><p>Ooh Ooh</p></td>
-<td><p>Eric Nam</p></td>
+<td><p><a href="../Page/Eric_Nam.md" title="wikilink">Eric Nam</a></p></td>
 <td><p>〈Ooh Ooh〉</p></td>
 <td></td>
 </tr>

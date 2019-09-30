@@ -129,7 +129,7 @@
 <!-- end list -->
 
   - 本地女歌手
-      - [容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")
+      - [容祖兒](../Page/容祖兒.md "wikilink")
 
 ### 電視電影獎項
 

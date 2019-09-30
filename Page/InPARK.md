@@ -1,20 +1,10 @@
-[Tsun_Yip_Street_Playground_201603.jpg](https://zh.wikipedia.org/wiki/File:Tsun_Yip_Street_Playground_201603.jpg "fig:Tsun_Yip_Street_Playground_201603.jpg") [Tsun_Yip_Street_Playground.JPG](https://zh.wikipedia.org/wiki/File:Tsun_Yip_Street_Playground.JPG "fig:Tsun_Yip_Street_Playground.JPG") [Tsun_Yip_Street_Playground_Exhibit_201603.jpg](https://zh.wikipedia.org/wiki/File:Tsun_Yip_Street_Playground_Exhibit_201603.jpg "fig:Tsun_Yip_Street_Playground_Exhibit_201603.jpg") [Tsun_Yip_Street_Playground_Socceer_Pitch_201603.jpg](https://zh.wikipedia.org/wiki/File:Tsun_Yip_Street_Playground_Socceer_Pitch_201603.jpg "fig:Tsun_Yip_Street_Playground_Socceer_Pitch_201603.jpg") [Tsun_Yip_Street_Playground_Skating_Area_201603.jpg](https://zh.wikipedia.org/wiki/File:Tsun_Yip_Street_Playground_Skating_Area_201603.jpg "fig:Tsun_Yip_Street_Playground_Skating_Area_201603.jpg")
+[InPark_Lawn_area_201909.jpg](https://zh.wikipedia.org/wiki/File:InPark_Lawn_area_201909.jpg "fig:InPark_Lawn_area_201909.jpg") [Tsun_Yip_Street_Playground_201603.jpg](https://zh.wikipedia.org/wiki/File:Tsun_Yip_Street_Playground_201603.jpg "fig:Tsun_Yip_Street_Playground_201603.jpg") [InPark_The_Fabric_Green_2019.jpg](https://zh.wikipedia.org/wiki/File:InPark_The_Fabric_Green_2019.jpg "fig:InPark_The_Fabric_Green_2019.jpg") [Tsun_Yip_Street_Playground_Exhibit_201603.jpg](https://zh.wikipedia.org/wiki/File:Tsun_Yip_Street_Playground_Exhibit_201603.jpg "fig:Tsun_Yip_Street_Playground_Exhibit_201603.jpg") [Tsun_Yip_Street_Playground_Socceer_Pitch_201603.jpg](https://zh.wikipedia.org/wiki/File:Tsun_Yip_Street_Playground_Socceer_Pitch_201603.jpg "fig:Tsun_Yip_Street_Playground_Socceer_Pitch_201603.jpg") [Tsun_Yip_Street_Playground_Skating_Area_201603.jpg](https://zh.wikipedia.org/wiki/File:Tsun_Yip_Street_Playground_Skating_Area_201603.jpg "fig:Tsun_Yip_Street_Playground_Skating_Area_201603.jpg")
 
-**InPARK**，舊稱**駿業街遊樂場** （[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：**Tsun Yip Street Playground**），是[香港](../Page/香港.md "wikilink")一座以[工業](https://zh.wikipedia.org/wiki/工業 "wikilink")[傳統為題材的](https://zh.wikipedia.org/wiki/傳統 "wikilink")[主題公園](../Page/主題公園.md "wikilink")，位於[九龍](../Page/九龍.md "wikilink")[觀塘](../Page/觀塘.md "wikilink")[駿業街](../Page/駿業街.md "wikilink")，佔地約8,300[平方米](../Page/平方米.md "wikilink")，由[康樂及文化事務署](../Page/康樂及文化事務署.md "wikilink")管理。隨著《[起動九龍東](https://zh.wikipedia.org/wiki/起動九龍東 "wikilink")》計劃發展，[觀塘工業區轉型為](https://zh.wikipedia.org/wiki/觀塘工業區 "wikilink")[觀塘商貿區](../Page/觀塘商貿區.md "wikilink")，駿業街遊樂場接受翻新工程及改造'\[1\]，首階段於2013年年初動工，於2014年9月落成，次階段於2017年動工，於2019年竣工。翻新第二期完工後，駿業街遊樂場改稱InPARK，並於[2019年](../Page/2019年.md "wikilink")[3月26日](../Page/3月26日.md "wikilink")全面啟用供市民享用。
-
-## 設施
-
-### 翻新前
-
-駿業街遊樂場場內包括了兩個[七人足球場](https://zh.wikipedia.org/wiki/七人足球場 "wikilink")、兩個[籃球場](../Page/籃球場.md "wikilink")、一個[滾軸溜冰場及休憩空間等](https://zh.wikipedia.org/wiki/滾軸溜冰場 "wikilink")。
-
-### 翻新後
-
-InPARK由王維仁建築設計研究室設計，由ABLE及LAAB施工完成。第一期佔地1,300平方米，設計了以貨櫃箱砌成的展覽場地，擺設兩組貨櫃予人一邊回顧香港工業歷史，一邊展望將來，除以鏽色釘子砌成的工業地圖，亦以螺絲帽造成的櫈子及其他以工業為主題的藝術裝置，並且加上錄音錄像展品。遊人休憩之餘，也可以從中了解過去幾十年來的香港工業歷史。第二期佔地7,000平方米，原有籃球場位置鋪設了大草坪，遊人可踩可臥，該處亦可以用作舉辦音樂會及其他社區活動。此外，康樂及文化事務署引入了10件以工業為主題的藝術品擺設於該處。
+**InPARK**，舊稱**駿業街遊樂場** （[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：**Tsun Yip Street Playground**），是[香港](../Page/香港.md "wikilink")一座以[工業](https://zh.wikipedia.org/wiki/工業 "wikilink")[傳統為題材的](https://zh.wikipedia.org/wiki/傳統 "wikilink")[主題公園](../Page/主題公園.md "wikilink")，位於[九龍](../Page/九龍.md "wikilink")[觀塘](../Page/觀塘.md "wikilink")[駿業街](../Page/駿業街.md "wikilink")，佔地約8,300[平方米](../Page/平方米.md "wikilink")，由[康樂及文化事務署](../Page/康樂及文化事務署.md "wikilink")管理。隨著《[起動九龍東](https://zh.wikipedia.org/wiki/起動九龍東 "wikilink")》計劃發展，[觀塘工業區轉型為](https://zh.wikipedia.org/wiki/觀塘工業區 "wikilink")[觀塘商貿區](../Page/觀塘商貿區.md "wikilink")，政府在2015年斥資1億920萬港元為駿業街遊樂場進行翻新工程及改造\[1\]，首階段於2013年年初動工，於2014年9月落成，次階段於2017年動工，於2019年竣工。翻新第二期完工後，駿業街遊樂場改稱InPARK，並於[2019年](../Page/2019年.md "wikilink")[3月26日](../Page/3月26日.md "wikilink")全面啟用供市民享用。
 
 ## 歷史
 
-1973年，駿業街遊樂場\[2\] 落成。
+1973年，駿業街遊樂場落成。\[2\]
 
 2000年代，[觀塘區](../Page/觀塘區.md "wikilink")已經逐漸[轉型為](https://zh.wikipedia.org/wiki/轉型 "wikilink")[商業](https://zh.wikipedia.org/wiki/商業 "wikilink")[貿易發展](https://zh.wikipedia.org/wiki/貿易 "wikilink")，整個九龍東約66%的[商業機構為從事出入口](https://zh.wikipedia.org/wiki/商業 "wikilink")、批發及零售，13%則為從事[金融](../Page/金融.md "wikilink")服務及[保險](../Page/保險.md "wikilink")等，駿業街遊樂場的設施已經未能夠完全地配合區內的[就業人口需求](https://zh.wikipedia.org/wiki/就業人口 "wikilink")，加上駿業街遊樂場原來採用了[混凝土](../Page/混凝土.md "wikilink")地面，加劇了[熱島效應](../Page/熱島效應.md "wikilink")，使到於附近上班的[香港市民不願意在駿業街遊樂場逗留或者留坐](https://zh.wikipedia.org/wiki/香港市民 "wikilink")。
 
@@ -24,9 +14,23 @@ InPARK由王維仁建築設計研究室設計，由ABLE及LAAB施工完成。第
 
 2014年9月8日，首階段工程加設4座貨櫃，分別用以紹觀塘在不同時期的發展情况，並且播放工業家庭訪問影片。貨櫃均隨時開關，以加強特色。基於觀塘商貿區的就業人口變動，居民對公共休憩空間的要求改變，故此有關部門認為需要改建駿業街遊樂場；期望在促進九龍東轉型的過程中，加深公眾對九龍東的工業文化之認識，以「創造精神」作為公園主題。故此，次階段計劃大幅度地改造毗連駿業街遊樂場的兩個硬地足球場、兩個籃球場及一個滾軸溜冰場為多用途中央草坪及園林設施，於適當位置提供避雨亭、提供非正式表演及展覽活動的舞台、提供表演及展覽活動的多用途場地、設置小型水景設施，以及提供[香港政府WiFi通](../Page/香港政府WiFi通.md "wikilink")等；涉及面積達7,125平方米，耗資1億920萬港元\[6\]。有關部門將會於[康寧道公園](../Page/康寧道公園.md "wikilink")及牛頭角配水庫設施上址重置其中一個七人足球場及兩個籃球場\[7\]\[8\]\[9\]。
 
+## 設施
+
+### 翻新前
+
+駿業街遊樂場場內包括了兩個[七人足球場](https://zh.wikipedia.org/wiki/七人足球場 "wikilink")、兩個[籃球場](../Page/籃球場.md "wikilink")、一個[滾軸溜冰場及休憩空間等](https://zh.wikipedia.org/wiki/滾軸溜冰場 "wikilink")。
+
+### 翻新後
+
+InPARK由王維仁建築設計研究室設計，由ABLE及LAAB施工完成。第一期佔地1,300平方米，設計了以貨櫃箱砌成的展覽場地，擺設兩組貨櫃予人一邊回顧香港工業歷史，一邊展望將來，除以鏽色釘子砌成的工業地圖，亦以螺絲帽造成的櫈子及其他以工業為主題的藝術裝置，並且加上錄音錄像展品。遊人休憩之餘，也可以從中了解過去幾十年來的香港工業歷史。第二期佔地7,000平方米，原有籃球場位置鋪設了大草坪，遊人可踩可臥，該處亦可以用作舉辦音樂會及其他社區活動。此外，康樂及文化事務署引入了10件以工業為主題的藝術品擺設於該處。而原本的球場設施重置在康寧道公園及牛頭角配水庫頂的現址。
+
+## 批評
+
+地區人士和立法會議員批評翻新計劃多此一舉，成本效益低，看不到翻新後如何突顯工業文化。\[10\]而且將一個動態場地變成一個全靜態公園，對附近使用者感到不便。重置球場工程亦需3.8億港元，非常浪費。\[11\]
+
 ## 開放時間
 
-InPARK的開放時間為每日07:00-23:00。
+InPARK的開放時間為每日早上7時到晚上11時。
 
 ## 資料來源
 
@@ -51,3 +55,5 @@ InPARK的開放時間為每日07:00-23:00。
 7.  [觀塘遊樂場改建文化公園](http://orientaldaily.on.cc/cnt/news/20150214/00176_032.html) 《東方日報》 2015年2月14日
 8.  [駿業街遊樂場擬改建工業文化公園](http://the-sun.on.cc/cnt/news/20150214/00407_077.html) 《太陽報》 2015年2月14日
 9.  [駿業街遊樂場將變工業文化公園](http://paper.wenweipo.com/2015/02/14/HK1502140007.htm) 《文匯報》 2015年2月14日
+10.
+11.

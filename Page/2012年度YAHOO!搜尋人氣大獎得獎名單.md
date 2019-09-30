@@ -4,7 +4,7 @@
 
   - 十年人氣大獎
       - [古巨基](../Page/古巨基.md "wikilink")
-      - [容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")
+      - [容祖兒](../Page/容祖兒.md "wikilink")
       - [楊千嬅](../Page/楊千嬅.md "wikilink")
       - [林峯](https://zh.wikipedia.org/wiki/林峯 "wikilink")
       - [金賢重](../Page/金賢重.md "wikilink")
@@ -30,7 +30,7 @@
 <!-- end list -->
 
   - 人氣國語歌曲
-      - 《霧裡看花》 － [容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")
+      - 《霧裡看花》 － [容祖兒](../Page/容祖兒.md "wikilink")
       - 《留不下來》 － [糖兄妹](../Page/糖兄妹.md "wikilink")
       - 《全職宅男》 － [羅力威](../Page/羅力威.md "wikilink")
 
@@ -134,7 +134,7 @@
 <!-- end list -->
 
   - 本地女歌手
-      - [容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")
+      - [容祖兒](../Page/容祖兒.md "wikilink")
 
 <!-- end list -->
 

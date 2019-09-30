@@ -10,7 +10,7 @@
 <thead>
 <tr class="header">
 <th><p>球隊名</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/松下豹" title="wikilink">松下豹</a></p></th>
+<th><p><a href="../Page/松下黑豹.md" title="wikilink">松下黑豹</a></p></th>
 <th><p><a href="../Page/東麗箭_(男子排球).md" title="wikilink">東麗箭</a></p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/三得利太陽鳥" title="wikilink">三得利太陽鳥</a></p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/堺拓荒者" title="wikilink">堺拓荒者</a></p></th>
@@ -41,7 +41,7 @@
 <tr class="even">
 <td><p>球隊名</p></td>
 <td><p><a href="../Page/FC東京_(排球).md" title="wikilink">FC東京</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/豐田合成三能" title="wikilink">豐田合成三能</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/名古屋狼犬" title="wikilink">名古屋狼犬</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/JT雷霆" title="wikilink">JT雷霆</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/捷太格特蜂螫" title="wikilink">捷太格特蜂螫</a></p></td>
 </tr>

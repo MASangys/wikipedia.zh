@@ -72,7 +72,7 @@
   - 1月8日，EXILE TRIBE PERFECT YEAR 2014的一環，第二次的單獨巡迴演唱會ー「三代目J Soul Brothers LIVE TOUR 2014 BLUE IMPACT」開始。日本全國13都市34公演,共動員40萬人。\[3\][三代目JSBがツアーファイナル　40万人を熱狂の渦に](http://www.oricon.co.jp/news/2036562/full/)</ref>。
   - 6月參與「EXILE TRIBE PERFECT YEAR 2014 SPECIAL STAGE “THE SURVIVAL” IN SAITAMA SUPER ARENA 10DAYS」的演出。
   - 6月25日同日發售的第13張單曲「[R.Y.U.S.E.I.](../Page/R.Y.U.S.E.I..md "wikilink")」、演唱會影像『[三代目J Soul Brothers LIVE TOUR 2014 “BLUE IMPACT”](https://zh.wikipedia.org/wiki/三代目J_Soul_Brothers_LIVE_TOUR_2014_“BLUE_IMPACT” "wikilink")』的DVD和Blu-ray Disc皆獲得首位。成為史上單曲・DVD・Blu-ray Disc三部門同時首位的第三組\[4\]。
-  - 2月30日、以「R.Y.U.S.E.I.」首次獲得[第56回日本唱片大獎的大奬](https://zh.wikipedia.org/wiki/第56回日本唱片大獎 "wikilink")。\[5\]。
+  - 2月30日、以「R.Y.U.S.E.I.」首次獲得的大奬\[5\]。
 
 **2015年**
 

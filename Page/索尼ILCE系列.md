@@ -170,6 +170,15 @@
 <td><p><a href="../Page/MI热靴.md" title="wikilink">MI热靴</a></p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="../Page/索尼_α7RIV.md" title="wikilink">Sony ILCE-7RM4</a></p></td>
+<td><p>61MP</p></td>
+<td></td>
+<td><p>3英寸 144万像素 可向上約107度，向下約41度翻轉（可觸控）</p></td>
+<td><p>576万像素，放大率0.78倍，眼点23mm</p></td>
+<td><p>无</p></td>
+<td><p><a href="../Page/MI热靴.md" title="wikilink">MI热靴</a></p></td>
+</tr>
+<tr class="even">
 <td><p><a href="../Page/索尼_α9.md" title="wikilink">Sony ILCE-9</a></p></td>
 <td><p>24MP</p></td>
 <td></td>

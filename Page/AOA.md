@@ -1,8 +1,8 @@
-**AOA**（；**Ace of Angels**的首字母缩寫，直譯「王牌天使」）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FNC娛樂](../Page/FNC娛樂.md "wikilink")旗下第一支[女子音樂組合和女子舞蹈團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，也是FNC第一支音樂與舞蹈共同活動的團體，初始成員有[草娥](https://zh.wikipedia.org/wiki/朴草娥 "wikilink")、[智珉](https://zh.wikipedia.org/wiki/申智珉 "wikilink")、[酉奈](https://zh.wikipedia.org/wiki/徐酉奈 "wikilink")、[惠晶](https://zh.wikipedia.org/wiki/申惠晶 "wikilink")、[珉娥](../Page/珉娥.md "wikilink")、[雪炫](https://zh.wikipedia.org/wiki/金雪炫 "wikilink")、[澯美](https://zh.wikipedia.org/wiki/金澯美 "wikilink")、有慶8人（有慶于2016年10月宣布退出；草娥於2017年6月宣布退出；珉娥於2019年5月約滿退出），由智珉擔任隊長。AOA的子團包括、[AOA White和](https://zh.wikipedia.org/wiki/AOA_White "wikilink")[AOA Cream](https://zh.wikipedia.org/wiki/AOA_Cream "wikilink")。
+**AOA**（；**Ace of Angels**的首字母缩寫，直譯「王牌天使」）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FNC娛樂](../Page/FNC娛樂.md "wikilink")旗下第一支[女子音樂組合和女子舞蹈團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，也是FNC第一支音樂與舞蹈共同活動的團體，最初由8名成員組成，現任成員包括[智珉](https://zh.wikipedia.org/wiki/申智珉 "wikilink")、[酉奈](https://zh.wikipedia.org/wiki/徐酉奈 "wikilink")、[惠晶](https://zh.wikipedia.org/wiki/申惠晶 "wikilink")、[雪炫和](https://zh.wikipedia.org/wiki/金雪炫 "wikilink")[澯美](https://zh.wikipedia.org/wiki/金澯美 "wikilink")，由智珉擔任隊長。AOA的子團包括、[AOA White和](https://zh.wikipedia.org/wiki/AOA_White "wikilink")[AOA Cream](https://zh.wikipedia.org/wiki/AOA_Cream "wikilink")。
 
 2012年7月30日，AOA釋出首張單曲專辑《[Angels' Story](../Page/Angels'_Story.md "wikilink")》主打歌《Elvis》MV。之後於8月9日於[M\! Countdown出道並進行了首次舞台亮相](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")，次日于[KBS音樂银行表演](https://zh.wikipedia.org/wiki/KBS音樂银行 "wikilink")。10月第二張單曲專輯發行《[Wanna Be](../Page/Wanna_Be_\(AOA單曲\).md "wikilink")》。2013年，AOA發行《MOYA》及《[Red Motion](../Page/RED_MOTION.md "wikilink")》。2014年，主打性感風的《[短裙](../Page/短裙_\(AOA单曲\).md "wikilink")》和《[短髮](https://zh.wikipedia.org/wiki/短髮_\(AOA迷你專輯\) "wikilink")》讓AOA的人氣逐漸上升，且前者使該组合獲得了首個一位。
 
-2014年10月，AOA发行首张日文单曲专辑《短裙》，在日本出道。次月发行的《[猫步轻悄](../Page/猫步轻悄.md "wikilink")》使AOA人气再度高涨。2015年2月，AOA发行《猫步轻悄》的日语版。6月，AOA发行第三张迷你专辑《[怦然心動](https://zh.wikipedia.org/wiki/怦然心動_\(AOA迷你專輯\) "wikilink")》，并首次发布中文歌曲。[KCON 2015期间](https://zh.wikipedia.org/wiki/KCON "wikilink")，AOA首次于美国亮相。2015年11月，AOA发行首张日语正规专辑《Ace of Angels》，再度进军日本。2016年5月，AOA发行第四张迷你专辑《Good Luck》，後發行日語專輯《Run Way》。2017年1月1日發行韓語正規專輯《[Angel's Knock](../Page/ANGEL'S_KNOCK_\(AOA專輯\).md "wikilink")》歌曲《[Excuse me](../Page/ANGEL'S_KNOCK_\(AOA專輯\).md "wikilink")》和《[Bing Bing](../Page/ANGEL'S_KNOCK_\(AOA專輯\).md "wikilink")》。2018年5月28日AOA发行第五张迷你专辑《[Bingle Bangle](https://zh.wikipedia.org/wiki/Bingle_Bangle_\(AOA迷你專輯\) "wikilink")》。
+2014年10月，AOA发行首张日文单曲专辑《短裙》，在日本出道。次月发行的《[猫步轻悄](../Page/猫步轻悄.md "wikilink")》使AOA人气再度高涨。2015年2月，AOA发行《猫步轻悄》的日语版。6月，AOA发行第三张迷你专辑《[怦然心動](https://zh.wikipedia.org/wiki/怦然心動_\(AOA迷你專輯\) "wikilink")》，并首次发布中文歌曲。[KCON 2015期间](https://zh.wikipedia.org/wiki/KCON "wikilink")，AOA首次于美国亮相。2015年11月，AOA发行首张日语正规专辑《Ace of Angels》，再度进军日本。2016年5月，AOA发行第四张迷你专辑《Good Luck》，後發行日語專輯《Run Way》。2017年1月1日發行韓語正規專輯《[Angel's Knock](../Page/ANGEL'S_KNOCK_\(AOA專輯\).md "wikilink")》歌曲《[Excuse me](../Page/ANGEL'S_KNOCK_\(AOA專輯\).md "wikilink")》和《[Bing Bing](../Page/ANGEL'S_KNOCK_\(AOA專輯\).md "wikilink")》。2018年5月28日AOA发行第五张迷你专辑《[Bingle Bangle](https://zh.wikipedia.org/wiki/Bingle_Bangle_\(AOA迷你專輯\) "wikilink")》。2019年8月，出演綜藝節目《Queendom》
 
 ## 经历
 
@@ -78,9 +78,19 @@ FNC解释了她们首次亮相的含义：、[草娥](https://zh.wikipedia.org/w
 
 5月28日，六人體制以主打曲《Bingle Bangle（빙글뱅글）》正式回歸
 
-### 2019年：珉娥退出
+### 2019年：珉娥退出、參加綜藝節目《Queendom》
 
-5月13日，公司宣布全員合約到期，只有[珉娥](../Page/珉娥.md "wikilink")不續約，因此退出組合。其餘五人已完成續約，往後組合以五人形式進行活動。\[68\]
+5月13日，公司宣布全員合約到期，[珉娥](../Page/珉娥.md "wikilink")不續約往演藝圈發展，因此退出組合。其餘五人已完成續約，往後組合以五人形式進行活動。
+
+8月13日，《[Queendom](../Page/Queendom_\(韓國綜藝\).md "wikilink")》[AOA](../Page/AOA.md "wikilink")事前舞台影片釋出。
+
+9月05日，《Queendom》[AOA](../Page/AOA.md "wikilink")表演曲目為«短裙»，獲得大批網友好評。當次競演獲得第四名。
+
+9月11日，《Queendom》[AOA](../Page/AOA.md "wikilink")翻唱了[MAMAMOO的](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")《[Egotistic](https://zh.wikipedia.org/wiki/Egotistic "wikilink")》
+
+\[68\]
+
+8月29日，參加韓國綜藝節目《[Queendom](../Page/Queendom_\(韓國綜藝\).md "wikilink")》。
 
 ## 成員列表
 
@@ -528,622 +538,629 @@ PlotData =
 <td></td>
 </tr>
 <tr class="even">
+<td><p>4月26日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SBS" title="wikilink">SBS</a></p></td>
+<td><p><a href="../Page/Running_Man.md" title="wikilink">Running Man</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>5月2日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBS" title="wikilink">MBS</a></p></td>
 <td><p><a href="../Page/My_Little_Television.md" title="wikilink">My Little TelevisionEP</a>-2 (MLT-01-下半部)</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>5月9日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBS" title="wikilink">MBS</a></p></td>
 <td><p><a href="../Page/My_Little_Television.md" title="wikilink">My Little TelevisionEP</a>-3 (MLT-02-上半部)</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>5月12日</p></td>
 <td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/四種秀" title="wikilink">四種秀</a></p></td>
 <td><p><a href="../Page/智珉.md" title="wikilink">智珉</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>5月16日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBS" title="wikilink">MBS</a></p></td>
 <td><p><a href="../Page/My_Little_Television.md" title="wikilink">My Little TelevisionEP</a>-4 (MLT-02-下半部)</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>5月16日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p><a href="../Page/演藝家中介.md" title="wikilink">演藝家中介</a></p></td>
 <td><p>橘子果醬劇組(<a href="../Page/雪炫.md" title="wikilink">雪炫</a>)</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>5月27日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/一週偶像" title="wikilink">一週偶像</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a> <a href="../Page/智珉.md" title="wikilink">智珉</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>5月30日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/一週偶像" title="wikilink">一週偶像</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a> <a href="../Page/智珉.md" title="wikilink">智珉</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>6月16日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p>搞笑演唱會 <a href="https://zh.wikipedia.org/wiki/Gag_Concert" title="wikilink">Gag Concert我是殺手</a></p></td>
 <td><p><a href="../Page/智珉.md" title="wikilink">智珉</a> <a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a> <a href="../Page/珉娥.md" title="wikilink">珉娥</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>6月24日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/一週偶像" title="wikilink">一週偶像</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a> <a href="../Page/智珉.md" title="wikilink">智珉</a> <a href="../Page/酉奈.md" title="wikilink">酉奈</a> <a href="../Page/惠晶.md" title="wikilink">惠晶</a> <a href="../Page/珉娥.md" title="wikilink">珉娥</a> <a href="../Page/澯美.md" title="wikilink">澯美</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>6月27日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/柳熙烈的寫生薄" title="wikilink">柳熙烈的寫生薄</a></p></td>
 <td><p>全員</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>7月4日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p><a href="../Page/演藝家中介.md" title="wikilink">演藝家中介</a></p></td>
 <td><p>AOA回歸訪談</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>7月15日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p>维他命<a href="https://zh.wikipedia.org/wiki/비타민" title="wikilink">비타민</a></p></td>
 <td><p><a href="../Page/酉奈.md" title="wikilink">酉奈</a> <a href="../Page/智珉.md" title="wikilink">智珉</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>7月20日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a></p></td>
 <td><p><a href="../Page/大國民脫口秀-你好.md" title="wikilink">大國民脫口秀-你好</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a> <a href="../Page/珉娥.md" title="wikilink">珉娥</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>7月26日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/A_Song_For_You" title="wikilink">A Song For YouS</a>3</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a> <a href="../Page/智珉.md" title="wikilink">智珉</a> <a href="../Page/酉奈.md" title="wikilink">酉奈</a> <a href="../Page/惠晶.md" title="wikilink">惠晶</a> <a href="../Page/珉娥.md" title="wikilink">珉娥</a> <a href="../Page/澯美.md" title="wikilink">澯美</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>9月25日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/二重唱歌謠祭" title="wikilink">二重唱歌謠祭</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>9月28日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p>中秋特輯<a href="https://zh.wikipedia.org/wiki/全國偶像歌曲大會" title="wikilink">全國偶像歌曲大會</a></p></td>
 <td><p>全體</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>10月3日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBS" title="wikilink">MBS</a></p></td>
 <td><p><a href="../Page/My_Little_Television.md" title="wikilink">My Little TelevisionEP</a>-1 (MLT-12-上半部)</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>10月10日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBS" title="wikilink">MBS</a></p></td>
 <td><p><a href="../Page/My_Little_Television.md" title="wikilink">My Little TelevisionEP</a>-2 (MLT-12-下半部)</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>11月6日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/超人回来了X-File" title="wikilink">超人回来了X-File</a></p></td>
 <td><p><a href="../Page/智珉.md" title="wikilink">智珉</a>旁白</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>11月7日</p></td>
 <td><p>深圳衛視</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/中韓夢之隊" title="wikilink">中韓夢之隊</a></p></td>
 <td><p><a href="../Page/智珉.md" title="wikilink">智珉</a> <a href="../Page/澯美.md" title="wikilink">澯美</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>11月22日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p><a href="../Page/兩天一夜.md" title="wikilink">兩天一夜</a>S3</p></td>
 <td><p><a href="../Page/雪炫.md" title="wikilink">雪炫</a>早安天使</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2016</p></td>
 <td><p>1月2日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p><a href="../Page/我們結婚了.md" title="wikilink">我們結婚了</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1月16日</p></td>
 <td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a></p></td>
 <td><p><a href="../Page/隱藏歌手.md" title="wikilink">隱藏歌手</a></p></td>
 <td><p><a href="../Page/智珉.md" title="wikilink">智珉</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2月3日</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/深夜的TV演藝" title="wikilink">深夜的TV演藝</a></p></td>
 <td><p><a href="../Page/雪炫.md" title="wikilink">雪炫</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2月6日</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
 <td><p>春節特輯-社長在看</p></td>
 <td><p>全員</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2月9日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC偶像明星運動會" title="wikilink">偶像明星運動會</a>（春節特輯）</p></td>
 <td><p><a href="../Page/智珉.md" title="wikilink">智珉</a> <a href="../Page/酉奈.md" title="wikilink">酉奈</a> <a href="../Page/惠晶.md" title="wikilink">惠晶</a> <a href="../Page/珉娥.md" title="wikilink">珉娥</a> <a href="../Page/澯美.md" title="wikilink">澯美</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2月10日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p>2016 春節特輯-本分奧林匹克</p></td>
 <td><p><a href="../Page/智珉.md" title="wikilink">智珉</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2月15日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td></td>
 <td><p><a href="../Page/酉奈.md" title="wikilink">酉奈</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2月15日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p><a href="../Page/大國民脫口秀-你好.md" title="wikilink">大國民脫口秀-你好</a></p></td>
 <td><p><a href="../Page/惠晶.md" title="wikilink">惠晶</a> <a href="../Page/澯美.md" title="wikilink">澯美</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>3月11日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/能力者們" title="wikilink">能力者們</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>3月30日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/黃金漁場_Radio_Star" title="wikilink">黃金漁場 Radio Star</a></p></td>
 <td><p><a href="../Page/雪炫.md" title="wikilink">雪炫</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>4月3日</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
 <td><p><a href="../Page/Running_Man.md" title="wikilink">Running Man</a></p></td>
 <td><p><a href="../Page/雪炫.md" title="wikilink">雪炫</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>4月8日、15日、22日、29日</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/叢林的法則" title="wikilink">叢林的法則</a></p></td>
 <td><p><a href="../Page/雪炫.md" title="wikilink">雪炫</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>5月18日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/一週偶像" title="wikilink">一週偶像</a></p></td>
 <td><p>全員</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>5月20日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/柳熙烈的寫生簿" title="wikilink">柳熙烈的寫生簿</a></p></td>
 <td><p>全員</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>5月26日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p><a href="../Page/歡樂在一起.md" title="wikilink">歡樂在一起</a></p></td>
 <td><p><a href="../Page/雪炫.md" title="wikilink">雪炫</a> <a href="../Page/澯美.md" title="wikilink">澯美</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>6月2日、9日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/維他命" title="wikilink">維他命</a></p></td>
 <td><p><a href="../Page/酉奈.md" title="wikilink">酉奈</a> <a href="../Page/惠晶.md" title="wikilink">惠晶</a> <a href="../Page/珉娥.md" title="wikilink">珉娥</a> <a href="../Page/澯美.md" title="wikilink">澯美</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>6月3日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/二重唱歌謠祭" title="wikilink">二重唱歌謠祭</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>6月26日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td></td>
 <td><p>全員</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>12月4日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/隱秘而偉大_(綜藝節目)" title="wikilink">隱秘而偉大</a></p></td>
 <td><p><a href="../Page/智珉.md" title="wikilink">智珉</a> <a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a> <a href="../Page/雪炫.md" title="wikilink">雪炫</a> <a href="../Page/澯美.md" title="wikilink">澯美</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>12月24日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p>KBS 演藝大賞</p></td>
 <td><p>全員</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>12月25日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/超人回來了" title="wikilink">超人回來了</a></p></td>
 <td><p><a href="../Page/惠晶.md" title="wikilink">惠晶</a> <a href="../Page/雪炫.md" title="wikilink">雪炫</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2017</p></td>
 <td><p>1月2日</p></td>
 <td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/拜託了冰箱" title="wikilink">拜託了冰箱</a></p></td>
 <td><p><a href="../Page/雪炫.md" title="wikilink">雪炫</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1月4日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p><a href="../Page/TRICK&amp;TRUE.md" title="wikilink">TRICK&amp;TRUE</a></p></td>
 <td><p><a href="../Page/智珉.md" title="wikilink">智珉</a> <a href="../Page/酉奈.md" title="wikilink">酉奈</a> <a href="../Page/雪炫.md" title="wikilink">雪炫</a> <a href="../Page/澯美.md" title="wikilink">澯美</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1月7日</p></td>
 <td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a></p></td>
 <td><p><a href="../Page/認識的哥哥.md" title="wikilink">認識的哥哥</a></p></td>
 <td><p><a href="../Page/智珉.md" title="wikilink">智珉</a> <a href="../Page/酉奈.md" title="wikilink">酉奈</a> <a href="../Page/惠晶.md" title="wikilink">惠晶</a> <a href="../Page/珉娥.md" title="wikilink">珉娥</a> <a href="../Page/雪炫.md" title="wikilink">雪炫</a> <a href="../Page/澯美.md" title="wikilink">澯美</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1月8日、15日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p><a href="../Page/神秘音樂秀：蒙面歌王.md" title="wikilink">神秘音樂秀：蒙面歌王</a></p></td>
 <td><p><a href="../Page/惠晶.md" title="wikilink">惠晶</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1月9日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p><a href="../Page/大國民脫口秀-你好.md" title="wikilink">大國民脫口秀-你好</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a> <a href="../Page/惠晶.md" title="wikilink">惠晶</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1月11日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p><a href="../Page/TRICK&amp;TRUE.md" title="wikilink">TRICK&amp;TRUE</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a> <a href="../Page/惠晶.md" title="wikilink">惠晶</a> <a href="../Page/珉娥.md" title="wikilink">珉娥</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1月22日</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Flower_Crew" title="wikilink">Flower Crew</a></p></td>
 <td><p><a href="../Page/雪炫.md" title="wikilink">雪炫</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1月25日</p></td>
 <td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/請給一頓飯Show" title="wikilink">請給一頓飯Show</a></p></td>
 <td><p><a href="../Page/雪炫.md" title="wikilink">雪炫</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1月28日</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/白鍾元的三大天王" title="wikilink">白鍾元的三大天王</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a> <a href="../Page/珉娥.md" title="wikilink">珉娥</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2月4日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/不朽的名曲" title="wikilink">不朽的名曲</a></p></td>
 <td><p>全員</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2月11日、18日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p><a href="../Page/My_Little_Television.md" title="wikilink">My Little Television</a></p></td>
 <td><p><a href="../Page/珉娥.md" title="wikilink">珉娥</a> <a href="../Page/雪炫.md" title="wikilink">雪炫</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2月17日</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
 <td><p><a href="../Page/我家的熊孩子.md" title="wikilink">我家的熊孩子</a></p></td>
 <td><p><a href="../Page/智珉.md" title="wikilink">智珉</a> <a href="../Page/珉娥.md" title="wikilink">珉娥</a> <a href="../Page/雪炫.md" title="wikilink">雪炫</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>4月20日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p><a href="../Page/歡樂在一起.md" title="wikilink">歡樂在一起</a></p></td>
 <td><p><a href="../Page/雪炫.md" title="wikilink">雪炫</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>5月5日</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/白鍾元的三大天王" title="wikilink">白鍾元的三大天王</a></p></td>
 <td><p><a href="../Page/智珉.md" title="wikilink">智珉</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>5月17日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/On_Style" title="wikilink">On Style</a></p></td>
 <td><p><a href="../Page/Get_it_beauty.md" title="wikilink">Get it beauty</a></p></td>
 <td><p><a href="../Page/雪炫.md" title="wikilink">雪炫</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>6月4日</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
 <td></td>
 <td><p><a href="../Page/智珉.md" title="wikilink">智珉</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>7月28日、29日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td></td>
 <td><p><a href="../Page/智珉.md" title="wikilink">智珉</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>9月8日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/三時三餐" title="wikilink">三時三餐</a></p></td>
 <td><p><a href="../Page/雪炫.md" title="wikilink">雪炫</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2018</p></td>
 <td><p>3月17日</p></td>
 <td><p>E Channel</p></td>
 <td><p>山頂會議</p></td>
 <td><p><a href="../Page/智珉.md" title="wikilink">智珉</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>3月19日</p></td>
 <td><p><a href="../Page/OnStyle.md" title="wikilink">On Style</a>, OLIVE</p></td>
 <td><p>myBOX</p></td>
 <td><p><a href="../Page/智珉.md" title="wikilink">智珉</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>4月22日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBN" title="wikilink">MBN</a></p></td>
 <td><p>拜託了書櫃</p></td>
 <td><p><a href="../Page/澯美.md" title="wikilink">澯美</a>（固定嘉賓）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>5月27日</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
 <td><p><a href="../Page/Running_Man.md" title="wikilink">Running Man</a></p></td>
 <td><p><a href="../Page/惠晶.md" title="wikilink">惠晶</a>、<a href="../Page/雪炫.md" title="wikilink">雪炫</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>6月2日</p></td>
 <td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a></p></td>
 <td><p><a href="../Page/認識的哥哥.md" title="wikilink">認識的哥哥</a></p></td>
 <td><p><a href="../Page/智珉.md" title="wikilink">智珉</a>、<a href="../Page/雪炫.md" title="wikilink">雪炫</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/Idol_Room.md" title="wikilink">Idol Room</a></p></td>
 <td><p>全員</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/驚人的週六" title="wikilink">驚人的週六</a></p></td>
 <td><p><a href="../Page/惠晶.md" title="wikilink">惠晶</a>、<a href="../Page/雪炫.md" title="wikilink">雪炫</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>6月3日</p></td>
 <td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a></p></td>
 <td><p><a href="../Page/團結才能火.md" title="wikilink">團結才能火</a></p></td>
 <td><p><a href="../Page/雪炫.md" title="wikilink">雪炫</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS第2頻道" title="wikilink">KBS2 TV</a></p></td>
 <td><p><a href="../Page/搞笑演唱會.md" title="wikilink">Gag Concert</a></p></td>
 <td><p><a href="../Page/智珉.md" title="wikilink">智珉</a>、<a href="../Page/雪炫.md" title="wikilink">雪炫</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>6月4日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS第2頻道" title="wikilink">KBS2 TV</a></p></td>
 <td><p><a href="../Page/大國民脫口秀-你好.md" title="wikilink">大國民脫口秀-你好</a></p></td>
 <td><p><a href="../Page/珉娥.md" title="wikilink">珉娥</a>、<a href="../Page/雪炫.md" title="wikilink">雪炫</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>6月7日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a></p></td>
 <td><p><a href="../Page/SUPER_TV.md" title="wikilink">SUPER TV</a> 2</p></td>
 <td><p>全員</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS第2頻道" title="wikilink">KBS2 TV</a></p></td>
 <td><p><a href="../Page/歡樂在一起.md" title="wikilink">Happy Together</a> 3</p></td>
 <td><p><a href="../Page/酉奈.md" title="wikilink">酉奈</a>、<a href="../Page/雪炫.md" title="wikilink">雪炫</a>、<a href="../Page/澯美.md" title="wikilink">澯美</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>6月11日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p><a href="../Page/神秘音樂秀：蒙面歌王.md" title="wikilink">蒙面歌王</a></p></td>
 <td><p><a href="../Page/智珉.md" title="wikilink">智珉</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>6月17日</p></td>
 <td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a></p></td>
 <td><p><a href="../Page/團結才能火.md" title="wikilink">團結才能火</a></p></td>
 <td><p><a href="../Page/雪炫.md" title="wikilink">雪炫</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>6月22日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS第2頻道" title="wikilink">KBS2 TV</a></p></td>
 <td><p><a href="../Page/歡樂在一起.md" title="wikilink">Happy Together</a> 3</p></td>
 <td><p><a href="../Page/酉奈.md" title="wikilink">酉奈</a>、<a href="../Page/雪炫.md" title="wikilink">雪炫</a>、<a href="../Page/澯美.md" title="wikilink">澯美</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p>World Idol Show K-RUSH3</p></td>
 <td><p>全員</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>6月24日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p><a href="../Page/神秘音樂秀：蒙面歌王.md" title="wikilink">蒙面歌王</a></p></td>
 <td><p><a href="../Page/惠晶.md" title="wikilink">惠晶</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a></p></td>
 <td><p><a href="../Page/團結才能火.md" title="wikilink">團結才能火</a></p></td>
 <td><p><a href="../Page/雪炫.md" title="wikilink">雪炫</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>6月30日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p><a href="../Page/意外的Q.md" title="wikilink">意外的Q</a></p></td>
 <td><p><a href="../Page/雪炫.md" title="wikilink">雪炫</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>7月1日</p></td>
 <td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a></p></td>
 <td><p><a href="../Page/隱藏歌手.md" title="wikilink">隱藏歌手</a></p></td>
 <td><p><a href="../Page/酉奈.md" title="wikilink">酉奈</a>、<a href="../Page/惠晶.md" title="wikilink">惠晶</a>、<a href="../Page/澯美.md" title="wikilink">澯美</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/超人回來了" title="wikilink">超人回來了</a></p></td>
 <td><p><a href="../Page/珉娥.md" title="wikilink">珉娥</a>、<a href="../Page/雪炫.md" title="wikilink">雪炫</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>10月26日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/SBS" title="wikilink">SBS</a></p></td>
 <td><p><a href="../Page/有品位地吃吧.md" title="wikilink">有品位地吃吧</a></p></td>
 <td><p><a href="../Page/雪炫.md" title="wikilink">雪炫</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>11月11日、18日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p><a href="../Page/神秘音樂秀：蒙面歌王.md" title="wikilink">神秘音樂秀：蒙面歌王</a></p></td>
 <td><p><a href="../Page/酉奈.md" title="wikilink">酉奈</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2019</p></td>
 <td><p>1月16日</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
 <td><p><a href="../Page/白種元的胡同餐館.md" title="wikilink">白種元的胡同餐館</a></p></td>
 <td><p><a href="../Page/智珉.md" title="wikilink">智珉</a>、<a href="../Page/澯美.md" title="wikilink">澯美</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1月27日</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
 <td><p><a href="../Page/Running_Man.md" title="wikilink">Running Man</a></p></td>
 <td><p><a href="../Page/智珉.md" title="wikilink">智珉</a>、<a href="../Page/珉娥.md" title="wikilink">珉娥</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>4月4日-</p></td>
 <td></td>
 <td><p>在美容室見吧</p></td>
 <td><p><a href="../Page/澯美.md" title="wikilink">澯美</a>(固定MC)[70][71]</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>5月23日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Happy_Together" title="wikilink">Happy Together</a></p></td>
 <td><p><a href="../Page/惠晶.md" title="wikilink">惠晶</a>[72]</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>8月29日</p></td>
 <td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="../Page/Queendom_(韓國綜藝).md" title="wikilink">Queendom</a></p></td>

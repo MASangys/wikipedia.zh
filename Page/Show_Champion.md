@@ -805,6 +805,12 @@
   - 08.21 - [ITZY](../Page/ITZY.md "wikilink")<sup>3rd</sup> - ICY<sup>3rd</sup>
   - 08.28 - [Red Velvet](../Page/Red_Velvet.md "wikilink")<sup>12th</sup> - Umpah Umpah<sup>1st</sup>
 
+九月
+
+  - 09.04 - [X1](../Page/X1.md "wikilink")<sup>1st</sup> - Flash<sup>1st</sup>
+  - 09.11 - 停播
+  - 09.18 - 特輯 [X1](../Page/X1.md "wikilink")<sup>2nd</sup> - Flash<sup>2nd</sup>
+
 ## 藝人成就
 
 | 等級                                                          | 藝人                                                              | 統計  | 出道年份 |
@@ -825,8 +831,8 @@
 | [SISTAR](../Page/SISTAR.md "wikilink")                      | 2010                                                            |     |      |
 | [B1A4](../Page/B1A4.md "wikilink")                          | 2011                                                            |     |      |
 | [VIXX](../Page/VIXX.md "wikilink")                          | 2012                                                            |     |      |
-| [AOA](https://zh.wikipedia.org/wiki/AOA_\(韓國\) "wikilink")  | 2012                                                            |     |      |
 | 8th                                                         | [Super Junior](../Page/Super_Junior.md "wikilink")              | 5次  | 2005 |
+| [AOA](https://zh.wikipedia.org/wiki/AOA_\(韓國\) "wikilink")  | 2012                                                            |     |      |
 | [EXID](https://zh.wikipedia.org/wiki/EXID "wikilink")       | 2012                                                            |     |      |
 | [BTOB](../Page/BTOB.md "wikilink")                          | 2012                                                            |     |      |
 | [MAMAMOO](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink") | 2014                                                            |     |      |

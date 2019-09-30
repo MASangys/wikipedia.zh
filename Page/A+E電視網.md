@@ -125,7 +125,7 @@ A+E電視網家庭娛樂部門目前行銷的內容請參看下列內容。
 4.
 
 5.
-6.  [Members of the Caribbean Cable & Telecommunications Association](http://www.cctanet.com/index.php?option=com_sobi2&catid=3&Itemid=43)
+6.
 
 7.  [Member channels of the Caribbean Cable Cooperative](http://www.cctvcoop.com/listChannels.aspx)
 

@@ -28,11 +28,13 @@ EA于2016年发布了一项面向PC平台的订阅服务，用户可以选择每
 
 2016年8月，Origin取消简体中文支持，原因未知。\[6\]
 
-2018年10月，Origin开始支持[支付宝](../Page/支付宝.md "wikilink")付款结算，不过只有在用中国大陆和香港的IP地址访问时才能使用支付宝进行付款,\[7\]并且只有在购买游戏时才能使用支付宝进行支付，订阅Origin Access目前尚不可用。
+2018年10月，Origin开始支持[支付宝](../Page/支付宝.md "wikilink")付款结算，\[7\]目前只有在购买游戏时才能使用支付宝进行支付，订阅Origin Access目前尚不可用。
 
 2019年1月起，中国大陆IP地址访问Origin由默认[欧元](../Page/欧元.md "wikilink")结算改为[港元](../Page/港元.md "wikilink")结算，\[8\]实际价格比之前欧元结算有所下降。
 
-2019年6月初，Origin增加了对[银联的支持](https://zh.wikipedia.org/wiki/银联 "wikilink")，目前在购买游戏与订阅Origin Access均可使用银联。
+2019年6月初，Origin增加了对[银联的支持](https://zh.wikipedia.org/wiki/银联 "wikilink")，目前购买游戏与订阅Origin Access均可使用银联。
+
+2019年9月初，Origin增加了对[微信](../Page/微信.md "wikilink")支付的支持，但目前只有在购买游戏时才能使用微信支付，订阅Origin Access则不可使用。
 
 ## 不足
 

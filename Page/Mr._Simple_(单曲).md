@@ -1,4 +1,4 @@
-《Mr. Simple》是韓國男子組合[Super Junior的第二張日語單曲](../Page/Super_Junior.md "wikilink")。2011年12月7日由Avex trax發售。\[1\]
+《**Mr. Simple**》是韓國男子組合[Super Junior的第二張日語單曲](../Page/Super_Junior.md "wikilink")。2011年12月7日由Avex trax發售。\[1\]
 
 ## 錄製與音樂
 

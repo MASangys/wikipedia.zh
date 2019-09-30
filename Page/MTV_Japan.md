@@ -134,7 +134,7 @@ MTV Japan播放各种各样的节目，与美国版播放[實境節目或音乐�
 
   - Ken Lloyd
 
-  - Teppei（现在是ZIP-FM Nagoya的一名DJ）
+  - 铁平（后来成为ZIP-FM Nagoya的DJ）
 
   - George Williams
 
@@ -145,6 +145,26 @@ MTV Japan播放各种各样的节目，与美国版播放[實境節目或音乐�
   - 大屋夏南
 
   -
+  - Keiko Yamada
+
+  - Chocolat
+
+  -
+  - モリズミ・アリ}}
+
+  - KAORI
+
+  - Christelle Ciari
+
+  -
+  - KTa
+
+  - 兒玉真衣子
+
+  - 竹内亞矢子
+
+  - DEAN
+
 ## 参见
 
   - [MTV日本音樂錄影帶大獎](../Page/MTV日本音樂錄影帶大獎.md "wikilink")（MTV Video Music Awards Japan）

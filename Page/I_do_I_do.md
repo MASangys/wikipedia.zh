@@ -76,7 +76,7 @@
 </tbody>
 </table>
 
-### 黃芝安相關人物
+### 黃智安相關人物
 
 <table style="width:10%;">
 <colgroup>

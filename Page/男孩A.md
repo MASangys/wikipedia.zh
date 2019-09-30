@@ -143,7 +143,7 @@
 
   - [第四台上的](https://zh.wikipedia.org/wiki/第四台_\(英国\) "wikilink")[影片官方页面](http://www.channel4.com/programmes/boy-a)
 
-[Category:2007年电影](https://zh.wikipedia.org/wiki/Category:2007年电影 "wikilink") [Category:英语电影](https://zh.wikipedia.org/wiki/Category:英语电影 "wikilink") [Category:英國電影](https://zh.wikipedia.org/wiki/Category:英國電影 "wikilink") [Category:小說改編電影](https://zh.wikipedia.org/wiki/Category:小說改編電影 "wikilink") [Category:2000年代劇情片](https://zh.wikipedia.org/wiki/Category:2000年代劇情片 "wikilink") [Category:英國劇情片](https://zh.wikipedia.org/wiki/Category:英國劇情片 "wikilink")
+[Category:2007年电影](https://zh.wikipedia.org/wiki/Category:2007年电影 "wikilink") [Category:英语电影](https://zh.wikipedia.org/wiki/Category:英语电影 "wikilink") [Category:英國電影作品](https://zh.wikipedia.org/wiki/Category:英國電影作品 "wikilink") [Category:小說改編電影](https://zh.wikipedia.org/wiki/Category:小說改編電影 "wikilink") [Category:2000年代劇情片](https://zh.wikipedia.org/wiki/Category:2000年代劇情片 "wikilink") [Category:英國劇情片](https://zh.wikipedia.org/wiki/Category:英國劇情片 "wikilink") [Category:約翰·克勞利電影](https://zh.wikipedia.org/wiki/Category:約翰·克勞利電影 "wikilink")
 
 1.
 

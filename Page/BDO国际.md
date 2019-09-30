@@ -14,6 +14,8 @@
 
   - \- [BDO RCS](https://web.archive.org/web/20130518065328/http://bdobrazil.com/)
 
+  - \- [立信會計師事務所（BDO China Shu Lun Pan CPAs LLP）](http://www.bdo.com.cn/)
+
   - \-
 
   - \- [BDO法国](https://zh.wikipedia.org/wiki/BDO法国 "wikilink")
@@ -35,7 +37,7 @@
 
   - \- [BDO Simpson Xavier](https://zh.wikipedia.org/wiki/BDO_Simpson_Xavier "wikilink")
 
-  - \- 立信德豪會計師事務所有限公司
+  - \- [香港立信德豪會計師事務所有限公司](http://www.bdo.com.hk/)
 
   - \- [BDO Haribhakti & Co.](https://zh.wikipedia.org/wiki/BDO_Haribhakti_&_Co. "wikilink")
 

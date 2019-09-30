@@ -19,4 +19,4 @@
   - SINA Music樂壇民意指數頒獎禮2012 - 最高收聽率二十大歌曲《明明》
   - 第三十五屆十大中文金曲頒獎音樂會 - 十大中文金曲《明明》
 
-[Category:蔡卓妍音樂專輯](https://zh.wikipedia.org/wiki/Category:蔡卓妍音樂專輯 "wikilink") [Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
+[Category:蔡卓妍音樂專輯](https://zh.wikipedia.org/wiki/Category:蔡卓妍音樂專輯 "wikilink") [Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:香港流行音乐专辑](https://zh.wikipedia.org/wiki/Category:香港流行音乐专辑 "wikilink")

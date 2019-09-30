@@ -6,7 +6,7 @@
 
 1.  **iPod Touch部分：**必須為 iPod Touch第二代或是更新的設備，而其內建系統必須是iOS4.1或是更高的版本
 2.  **手機部分：**必須是iPhone 3GS或是更新更高階的手機，而其內建系統為iOS4.1或是更新的版本。
-3.  **iPad部分：**不管型號只要其內建系統為 iOS 4.2或更進階的版本皆可以使用。
+3.  **iPad部分：**不管型號只要其內建系統為 iOS 4.2或更進階的版本或[iPadOS皆可以使用](https://zh.wikipedia.org/wiki/iPadOS "wikilink")。
 4.  **Mac computer部分：**不管型號，只要運作系統為 OS X 10.8 Mountain Lion或是更高階系統皆可使用。
 
 ## 历史

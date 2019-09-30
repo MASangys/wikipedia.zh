@@ -24,7 +24,7 @@ Phootime用戶的影像檔案全都儲存在美國[亞馬遜公司](../Page/亞�
 
 ## 隱私與安全
 
-Phootime提供用戶相簿[加密](https://zh.wikipedia.org/wiki/加密 "wikilink")，隱藏不公開的選擇。
+Phootime提供用戶相簿[加密](../Page/加密.md "wikilink")，隱藏不公開的選擇。
 
 ## 註釋
 

@@ -1,6 +1,6 @@
 **Tick-Tock**是[Intel公司發展](https://zh.wikipedia.org/wiki/Intel "wikilink")[微處理器](https://zh.wikipedia.org/wiki/微處理器 "wikilink")[晶片設計製造業務的一種發展戰略模式](https://zh.wikipedia.org/wiki/晶片 "wikilink")，在2007年正式提出。Intel指出，每一次處理器微架構的更新和每一次晶片製程的更新，它們的時機應該錯開，使他們的微處理器晶片設計製造業務更有效率地發展。“Tick-Tock”的名稱源於[時鐘](../Page/時鐘.md "wikilink")秒針行走時所發出的聲響。Intel指，每一次“Tick”代表著一代微架構的處理器晶片製程的更新，意在處理器效能幾近相同的情況下，縮小晶片[面積](https://zh.wikipedia.org/wiki/面積 "wikilink")、減小能耗和發熱量；而每一次“Tock”代表著在上一次“Tick”的晶片製程的基礎上，更新微處理器架構，提升效能。一般一次“Tick-Tock”的週期為兩年，“Tick”佔一年，“Tock”佔一年。\[1\]
-此策略常被許多電腦玩家戲稱“擠牙膏策略”，因為每一代新處理器效能和前一代處理器效能的差距很短，就好像Haswell的4790K和Skylake的6700K那樣
-2016年3月22日，Intel在财务报告中宣布，Tick Tock将放缓至三年一循环，即增加优化环节，进一步减缓实际更新的速度。\[2\]
+
+此策略常被許多電腦玩家戲稱“擠牙膏策略”，因為每一代新處理器效能和前一代處理器效能的差距很短，就好像Haswell的4790K和Skylake的6700K那樣。2016年3月22日，Intel在财务报告中宣布，Tick Tock将放缓至三年一循环，即增加优化环节，进一步减缓实际更新的速度。\[2\]
 
 ## 環節
 

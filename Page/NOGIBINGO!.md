@@ -1,23 +1,19 @@
-《**NOGIBINGO\!**》是日本女子偶像團體[乃木坂46冠名演出的深夜](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")系列，由[日本電視台](../Page/日本電視台.md "wikilink")製播、[搞笑藝人](https://zh.wikipedia.org/wiki/搞笑藝人 "wikilink")[猥瑣岡田](../Page/猥瑣岡田.md "wikilink")主持。自2013年首度播出後已推出10[季](https://zh.wikipedia.org/wiki/季度 "wikilink")，目前播出時間為[日本時間每週一深夜](https://zh.wikipedia.org/wiki/日本時間 "wikilink")25時（即週二凌晨1時）29－59分，每集長約30分鐘。
+《**NOGIBINGO\!**》是日本女子偶像團體[乃木坂46冠名演出的深夜](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")系列，由[日本電視台](../Page/日本電視台.md "wikilink")製播、[搞笑藝人](https://zh.wikipedia.org/wiki/搞笑藝人 "wikilink")[猥瑣岡田](../Page/猥瑣岡田.md "wikilink")主持。自2013年7月2日首度播出後已推出10[季](https://zh.wikipedia.org/wiki/季度 "wikilink")，目前播出時間為[日本時間每周二凌晨](https://zh.wikipedia.org/wiki/日本時間 "wikilink")1時29至1时59分。包含广告时间在内，每集長約30分鐘。本节目起初是乃木坂46與官方对手[AKB48](../Page/AKB48.md "wikilink")姊妹團體之一的[HKT48](../Page/HKT48.md "wikilink")合作进行的節目《[乃木坂46×HKT48 冠名節目對決！](../Page/乃木坂46×HKT48_冠名節目對決！.md "wikilink")》的一部份，节目中乃木坂46与HKT48通过竞争争夺次周节目的优先播放权\[1\]。節目播出後觀眾评价良好，因此从第二季开始节目自跨團對抗節目中獨立并成為乃木坂46單獨冠名的節目。
 
-## 概要
+与AKB48的常年冠名综艺《[AKBINGO\!](https://zh.wikipedia.org/wiki/AKBINGO! "wikilink")》每周固定播出不同，本节目分季度播出。每一季度的节目均会选定一定的主题，并围绕该主题安排一系列企划。最初，《NOGIBINGO\!》以復刻《AKBINGO\!》之單元企劃為節目主旨，让乃木坂成员尝试一系列《AKBINGO\!》中的经典企划以锻炼其综艺能力。而从第二季開始，节目则以「超越AKB48」作為概念，开始採用原創新單元內容\[2\]。在各類原创企劃中也诞生了一些经典企划：例如要求由成員依照特定主題進行即興表演的妄想點播（）\[3\]，或是于每集末尾播出的“女子睡衣谈话 NOGI ROOM”（）\[4\]。而随着姊妹团体[榉坂46](https://zh.wikipedia.org/wiki/榉坂46 "wikilink")、[日向坂46](../Page/日向坂46.md "wikilink")的诞生，部分在《NOGIBINGO\!》出现的企划随后也陆续出现在她们的冠名综艺《[KEYABINGO\!](../Page/KEYABINGO!.md "wikilink")》与《[HINABINGO\!](../Page/HINABINGO!.md "wikilink")》中\[5\]\[6\]。
 
-從2013年7月2日開始播放的《NOGIBINGO\!》，原本是乃木坂46與姊妹團體之一的[HKT48](../Page/HKT48.md "wikilink")跨團合作的節目《[乃木坂46×HKT48 冠名節目對決！](../Page/乃木坂46×HKT48_冠名節目對決！.md "wikilink")》（）的一部份。節目播出後觀眾反應不壞，因此自跨團對抗節目中獨立而出，成為乃木坂46單獨冠名的節目。這也是以為首的日本電視台製作團隊，首度與乃木坂46單獨合作的綜藝節目。
-
-在節目主旨上，原先《NOGIBINGO\!》是以復刻[AKB48](../Page/AKB48.md "wikilink")的冠名節目《[AKBINGO\!](https://zh.wikipedia.org/wiki/AKBINGO! "wikilink")》之單元企劃為節目主旨，後來第二季《NOGIBINGO\!2》開始以「超越AKB48」作為發想概念，因此採用原創新單元內容。在各類的企劃中，有數集皆採用由成員依照特定主題進行即興表演的妄想點播，特別強調乃木坂成員們的螢光幕前表現能力。此外，製作單位甚至在官方網站上開放觀眾投稿，徵求有趣的妄想主題，甚至一般觀眾的投稿外，連姊妹團體AKB48成員[渡邊麻友](../Page/渡邊麻友.md "wikilink")都參與投稿，指定其隊長[櫻井玲香](../Page/櫻井玲香.md "wikilink")進行妄想點播單元的演出。
-
-在演出名單方面，主持人由猥瑣岡田擔任，除了乃木坂46的一期生外，以曾經擔任過第7張單曲中心陣位（center）成員的[堀未央奈](../Page/堀未央奈.md "wikilink")為首的二期生也陸續參與演出。因此，也出現許多一、二期生之間互動或對抗，在前作中不曾見過的單元形態。此外，第六季《NOGIBINGO\!6》與第七季《NOGIBINGO\!7》尚增加助理主持人職位，透過第一集節目從成員中選出，兩季分別由[中元日芽香](../Page/中元日芽香.md "wikilink")、[衛藤美彩](../Page/衛藤美彩.md "wikilink")出任。第八季《NOGIBINGO\!8》則主要由當時出道僅半年餘的三期生演出，各集設計不同的單元，以磨練三期生在電視綜藝上的表現能力。 {{-}}
+截止目前，节目主持人均由搞笑艺人[猥瑣岡田](../Page/猥瑣岡田.md "wikilink")擔任。随着乃木坂46成员的更替，除了最初的一期生外，随后加入的二期生们也陸續參與演出。节目也曾有意安排許多让一、二期生之間互動或對抗等，在前作中不曾見過的單元形態\[7\]。除了由搞笑艺人进行主要主持以外，在第六季與第七季节目中亦增加助理主持人（）職位，让成员进一步参与到节目的主持环节中\[8\]。在三期生加入后，第八季节目則主要由當時出道僅半年餘的三期生演出，各集設計不同的單元，以磨練三期生在電視綜藝上的表現能力。
 
 ## NOGIBINGO\!
 
-此節目於2013年7月3日首播，實際上乃由兩個節目所組成：[乃木坂46冠名節目](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")《NOGIBINGO\!》、[HKT48](../Page/HKT48.md "wikilink")冠名節目《HKT48豚骨魔法少女學院》（）。每集播放完畢後皆會邀請一位來自不同領域的名人作為評審，根據兩個團體的表現評分，獲勝者之節目即可於次週優先播出，所以將節目命名為「冠名節目對決」。
+《**NOGIBINGO\!**》於2013年7月3日至9月17日在日本电视台播出。原节目“冠名节目对决”實際上乃由兩個節目所組成：[乃木坂46冠名節目](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")《NOGIBINGO\!》、[HKT48](../Page/HKT48.md "wikilink")冠名節目《HKT48豚骨魔法少女學院》（）。每集播放完畢後皆會邀請一位來自不同領域的名人作為評審，根據兩個團體的表現評分，獲勝者之節目即可於次週優先播出，所以將節目命名為「冠名節目對決」。
 
 ### 演出人員
 
   - 主持人
       - [猥瑣岡田](../Page/猥瑣岡田.md "wikilink")
   - [乃木坂46](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")
-      - [秋元真夏](../Page/秋元真夏.md "wikilink")、[生田繪梨花](../Page/生田繪梨花.md "wikilink")、[生駒里奈](../Page/生駒里奈.md "wikilink")、[市來玲奈](../Page/市來玲奈.md "wikilink")、[伊藤寧寧](../Page/伊藤寧寧.md "wikilink")、[伊藤萬理華](../Page/伊藤萬理華.md "wikilink")、[井上小百合](../Page/井上小百合_\(偶像\).md "wikilink")、[衛藤美彩](../Page/衛藤美彩.md "wikilink")、[柏幸奈](../Page/柏幸奈.md "wikilink")、川後陽菜、[川村真洋](../Page/川村真洋.md "wikilink")、[齋藤飛鳥](../Page/齋藤飛鳥.md "wikilink")、[齋藤千春](../Page/齋藤千春.md "wikilink")（）、[齊藤優里](../Page/齊藤優里.md "wikilink")、[櫻井玲香](../Page/櫻井玲香.md "wikilink")、[白石麻衣](../Page/白石麻衣.md "wikilink")、[高山一實](../Page/高山一實.md "wikilink")、永島聖羅、[中田花奈](../Page/中田花奈.md "wikilink")、[中元日芽香](../Page/中元日芽香.md "wikilink")、[西野七瀨](../Page/西野七瀨.md "wikilink")、[能條愛未](../Page/能條愛未.md "wikilink")、[畠中清羅](../Page/畠中清羅.md "wikilink")、[橋本奈奈未](../Page/橋本奈奈未.md "wikilink")、[樋口日奈](../Page/樋口日奈.md "wikilink")、[深川麻衣](../Page/深川麻衣.md "wikilink")、[星野南](../Page/星野南.md "wikilink")（）、[松村沙友理](../Page/松村沙友理.md "wikilink")、[宮澤成良](../Page/宮澤成良.md "wikilink")、[大和里菜](../Page/大和里菜.md "wikilink")、[若月佑美](../Page/若月佑美.md "wikilink")、[和田真彩](https://zh.wikipedia.org/wiki/和田真彩 "wikilink")（）
+      - 1期生：[秋元真夏](../Page/秋元真夏.md "wikilink")、[生田繪梨花](../Page/生田繪梨花.md "wikilink")、[生駒里奈](../Page/生駒里奈.md "wikilink")、[市來玲奈](../Page/市來玲奈.md "wikilink")、[伊藤寧寧](../Page/伊藤寧寧.md "wikilink")、[伊藤萬理華](../Page/伊藤萬理華.md "wikilink")、[井上小百合](../Page/井上小百合_\(偶像\).md "wikilink")、[衛藤美彩](../Page/衛藤美彩.md "wikilink")、[柏幸奈](../Page/柏幸奈.md "wikilink")、[川後陽菜](../Page/川後陽菜.md "wikilink")、[川村真洋](../Page/川村真洋.md "wikilink")、[齋藤飛鳥](../Page/齋藤飛鳥.md "wikilink")、[齋藤千春](../Page/齋藤千春.md "wikilink")、[齊藤優里](../Page/齊藤優里.md "wikilink")、[櫻井玲香](../Page/櫻井玲香.md "wikilink")、[白石麻衣](../Page/白石麻衣.md "wikilink")、[高山一實](../Page/高山一實.md "wikilink")、[永島聖羅](../Page/永島聖羅.md "wikilink")、[中田花奈](../Page/中田花奈.md "wikilink")、[中元日芽香](../Page/中元日芽香.md "wikilink")、[西野七瀨](../Page/西野七瀨.md "wikilink")、[能條愛未](../Page/能條愛未.md "wikilink")、[畠中清羅](../Page/畠中清羅.md "wikilink")、[橋本奈奈未](../Page/橋本奈奈未.md "wikilink")、[樋口日奈](../Page/樋口日奈.md "wikilink")、[深川麻衣](../Page/深川麻衣.md "wikilink")、[星野南](../Page/星野南.md "wikilink")、[松村沙友理](../Page/松村沙友理.md "wikilink")、[宮澤成良](../Page/宮澤成良.md "wikilink")、[大和里菜](../Page/大和里菜.md "wikilink")、[若月佑美](../Page/若月佑美.md "wikilink")、[和田真彩](https://zh.wikipedia.org/wiki/和田真彩 "wikilink")
   - 其他
       - （日本電視台[主播](https://zh.wikipedia.org/wiki/主播 "wikilink")）：第四集溜滑梯問答的發問旁白。
 
@@ -56,9 +52,7 @@
 
 ### 工作人員
 
-  - 乃木坂46×HKT48 冠名節目對決！
-
-<!-- end list -->
+#### 乃木坂46×HKT48 冠名節目對決！
 
   - 企畫製作人：[秋元康](../Page/秋元康.md "wikilink")
   - 總製作人：福田博之
@@ -66,11 +60,7 @@
   - 企畫製作：日本電視台
   - 製作協力：acro
 
-<!-- end list -->
-
-  - NOGIBINGO\!
-
-<!-- end list -->
+#### NOGIBINGO\!
 
   - 製作人：渡邊崇士
   - 導演：內田秀實
@@ -80,15 +70,15 @@
 
 ## NOGIBINGO\!2
 
-《NOGIBINGO\!2》從2014年1月11日起，至2014年3月29日止播出。与第一季相同，仍由搞笑藝人[猥瑣岡田](../Page/猥瑣岡田.md "wikilink")主持，乃木坂46成員參與演出。而与上一季的不同点在于，本季开始本节目一档独立的节目播出。以「超越AKB48」為概念發想，为磨練成員的女子魅力、演技能力、談話技巧等「○○力」，进行了等諸多新單元企劃\[1\]。其中新增的「妄想點播」單元由觀眾、甚至公式對手團體成員[松井玲奈](../Page/松井玲奈.md "wikilink")、[渡邊麻友](../Page/渡邊麻友.md "wikilink")等人投稿劇本，指定乃木坂46成員演出，頗受觀眾好評\[2\]。同时节目为了表现新加入的二期生的魅力，也安排了诸如“一期生VS二期生”等特别企划\[3\]。
+《**NOGIBINGO\!2**》于2014年1月11日至2014年3月29日在日本电视台播出。与第一季相同，仍由搞笑藝人[猥瑣岡田](../Page/猥瑣岡田.md "wikilink")主持，乃木坂46成員參與演出。而与上一季的不同点在于，本季开始本节目一档独立的节目播出。以「超越AKB48」為概念發想，为磨練成員的女子魅力、演技能力、談話技巧等「○○力」，进行了等諸多新單元企劃\[9\]。其中新增的「妄想點播」單元由觀眾、甚至公式對手團體成員[松井玲奈](../Page/松井玲奈.md "wikilink")、[渡邊麻友](../Page/渡邊麻友.md "wikilink")等人投稿劇本，指定乃木坂46成員演出，頗受觀眾好評\[10\]。同时节目为了表现新加入的二期生的魅力，也安排了诸如“一期生VS二期生”等特别企划\[11\]。
 
 ### 演出人員
 
   - 主持人
       - [猥瑣岡田](../Page/猥瑣岡田.md "wikilink")
-  - [乃木坂46](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")（標示「\*」記號者為出現在片頭影片中的主要出演成员）\[4\]
+  - [乃木坂46](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")（標示「\*」記號者為出現在片頭影片中的主要出演成员）\[12\]
       - 1期生：[秋元真夏](../Page/秋元真夏.md "wikilink")\*、[生田繪梨花](../Page/生田繪梨花.md "wikilink")\*、[生駒里奈](../Page/生駒里奈.md "wikilink")\*、[伊藤寧寧](../Page/伊藤寧寧.md "wikilink")、[伊藤萬理華](../Page/伊藤萬理華.md "wikilink")\*、[井上小百合](../Page/井上小百合_\(偶像\).md "wikilink")、[衛藤美彩](../Page/衛藤美彩.md "wikilink")\*、[川後陽菜](../Page/川後陽菜.md "wikilink")\*、[川村真洋](../Page/川村真洋.md "wikilink")、[齋藤飛鳥](../Page/齋藤飛鳥.md "wikilink")\*、[齋藤千春](../Page/齋藤千春.md "wikilink")、[齊藤優里](../Page/齊藤優里.md "wikilink")、[櫻井玲香](../Page/櫻井玲香.md "wikilink")\*、[白石麻衣](../Page/白石麻衣.md "wikilink")\*、[高山一實](../Page/高山一實.md "wikilink")\*、[永島聖羅](../Page/永島聖羅.md "wikilink")、[中田花奈](../Page/中田花奈.md "wikilink")、[中元日芽香](../Page/中元日芽香.md "wikilink")\*、[西野七瀨](../Page/西野七瀨.md "wikilink")\*、[能條愛未](../Page/能條愛未.md "wikilink")、[畠中清羅](../Page/畠中清羅.md "wikilink")、[橋本奈奈未](../Page/橋本奈奈未.md "wikilink")\*、[樋口日奈](../Page/樋口日奈.md "wikilink")、[深川麻衣](../Page/深川麻衣.md "wikilink")\*、[星野南](../Page/星野南.md "wikilink")、[松村沙友理](../Page/松村沙友理.md "wikilink")\*、[大和里菜](../Page/大和里菜.md "wikilink")、[若月佑美](../Page/若月佑美.md "wikilink")\*、[和田真彩](https://zh.wikipedia.org/wiki/和田真彩 "wikilink")
-      - 2期生：[伊藤卡琳](../Page/伊藤卡琳.md "wikilink")、伊藤純奈、[北野日奈子](../Page/北野日奈子.md "wikilink")、佐佐木琴子、新內真衣、鈴木絢音、寺田蘭世、[堀未央奈](../Page/堀未央奈.md "wikilink")\*、西川七海、矢田-{里}-沙子、山崎-{怜}-奈、米德京花、渡邊米麗愛
+      - 2期生：[伊藤卡琳](../Page/伊藤卡琳.md "wikilink")、[伊藤純奈](../Page/伊藤純奈.md "wikilink")、[北野日奈子](../Page/北野日奈子.md "wikilink")、[佐佐木琴子](../Page/佐佐木琴子.md "wikilink")、[新內真衣](https://zh.wikipedia.org/wiki/新內真衣 "wikilink")、[鈴木絢音](../Page/鈴木絢音.md "wikilink")、[寺田蘭世](../Page/寺田蘭世.md "wikilink")、[堀未央奈](../Page/堀未央奈.md "wikilink")\*、西川七海、矢田里沙子、[山崎怜奈](https://zh.wikipedia.org/wiki/山崎怜奈 "wikilink")、米德京花、[渡邊米麗愛](../Page/渡邊米麗愛.md "wikilink")
   - 其他
       - （日本電視台主播）：在第1集播出時擔任天之聲（幕後旁白），並在第2、第5與第6集中擔任旁白解說。
 
@@ -115,7 +105,7 @@
 
 ### 工作人員
 
-  - 企劃製作人：[秋元康](../Page/秋元康.md "wikilink")\[5\]
+  - 企劃製作人：[秋元康](../Page/秋元康.md "wikilink")\[13\]
   - 總製作人：福田博之
   - 統括製作：
   - 製作人：、、渡邊崇士
@@ -127,15 +117,15 @@
 
 ## NOGIBINGO\!3
 
-《NOGIBINGO\!3》自2014年10月7日起至12月23日止，每週二凌晨1點29分至1點58分於日本電視台播出。不同於前两季，第三季開始幾乎全部33位正規成員皆出場亮相，于2014年2月24日[AKB48集團大組閣祭](../Page/AKB48集團大組閣祭.md "wikilink")宣佈兼任乃木坂46的[松井玲奈](../Page/松井玲奈.md "wikilink")，也於本季節目第二集出場（但本季仅此一集出场）。本季企划以“克服弱点”为主题，进一步培养成员们的团结力、女子力、表演力。在继承了上一季“妄想企划”的同时，本季还在片尾加入了常规的“NOGI ROOM”环节，拍摄成员们身着睡衣在一起闲谈的场景\[6\]。
+《**NOGIBINGO\!3**》自2014年10月7日至12月23日，每週二凌晨1點29分至1點58分於日本電視台播出。不同於前两季，第三季開始幾乎全部33位正規成員皆出場亮相，于2014年2月24日[AKB48集團大組閣祭](../Page/AKB48集團大組閣祭.md "wikilink")宣佈兼任乃木坂46的[松井玲奈](../Page/松井玲奈.md "wikilink")，也於本季節目第二集出場（但本季仅此一集出场）。本季企划以“克服弱点”为主题，进一步培养成员们的团结力、女子力、表演力。在继承了上一季“妄想企划”的同时，本季还在片尾加入了常规的“NOGI ROOM”环节，拍摄成员们身着睡衣在一起闲谈的场景\[14\]。
 
 ### 演出人員
 
   - 主持人
       - [猥瑣岡田](../Page/猥瑣岡田.md "wikilink")
   - [乃木坂46](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")
-      - 1期生：秋元真夏、生田繪梨花、生駒里奈、伊藤萬理華、井上小百合、衛藤美彩、川後陽菜、川村真洋、齋藤飛鳥、齋藤千春（）、齊藤優里、櫻井玲香、白石麻衣、高山一實、永島聖羅、中田花奈、中元日芽香、西野七瀨、能條愛未、畠中清羅、橋本奈奈未、樋口日奈、深川麻衣、星野南（）、松村沙友理、大和里菜、若月佑美、和田真彩（）
-      - 2期生：伊藤卡琳（）、北野日奈子、佐佐木琴子、新內真衣、寺田蘭世、堀未央奈、渡邊米麗愛（）
+      - 1期生：[秋元真夏](../Page/秋元真夏.md "wikilink")、[生田繪梨花](../Page/生田繪梨花.md "wikilink")、[生駒里奈](../Page/生駒里奈.md "wikilink")、[伊藤萬理華](../Page/伊藤萬理華.md "wikilink")、[井上小百合](../Page/井上小百合_\(偶像\).md "wikilink")、[衛藤美彩](../Page/衛藤美彩.md "wikilink")、[川後陽菜](../Page/川後陽菜.md "wikilink")、[川村真洋](../Page/川村真洋.md "wikilink")、[齋藤飛鳥](../Page/齋藤飛鳥.md "wikilink")、[齋藤千春](../Page/齋藤千春.md "wikilink")、[齊藤優里](../Page/齊藤優里.md "wikilink")、[櫻井玲香](../Page/櫻井玲香.md "wikilink")、[白石麻衣](../Page/白石麻衣.md "wikilink")、[高山一實](../Page/高山一實.md "wikilink")、[永島聖羅](../Page/永島聖羅.md "wikilink")、[中田花奈](../Page/中田花奈.md "wikilink")、[中元日芽香](../Page/中元日芽香.md "wikilink")、[西野七瀨](../Page/西野七瀨.md "wikilink")、[能條愛未](../Page/能條愛未.md "wikilink")、[畠中清羅](../Page/畠中清羅.md "wikilink")、[橋本奈奈未](../Page/橋本奈奈未.md "wikilink")、[樋口日奈](../Page/樋口日奈.md "wikilink")、[深川麻衣](../Page/深川麻衣.md "wikilink")、[星野南](../Page/星野南.md "wikilink")、[松村沙友理](../Page/松村沙友理.md "wikilink")、[大和里菜](../Page/大和里菜.md "wikilink")、[若月佑美](../Page/若月佑美.md "wikilink")、[和田真彩](https://zh.wikipedia.org/wiki/和田真彩 "wikilink")
+      - 2期生：[伊藤卡琳](../Page/伊藤卡琳.md "wikilink")、[北野日奈子](../Page/北野日奈子.md "wikilink")、[佐佐木琴子](../Page/佐佐木琴子.md "wikilink")、[新內真衣](https://zh.wikipedia.org/wiki/新內真衣 "wikilink")、[寺田蘭世](../Page/寺田蘭世.md "wikilink")、[堀未央奈](../Page/堀未央奈.md "wikilink")、[渡邊米麗愛](../Page/渡邊米麗愛.md "wikilink")
       - 交換生：[松井玲奈](../Page/松井玲奈.md "wikilink")
   - 其他
       - （日本電視台主播）：第1集播出時擔任出題者。
@@ -175,7 +165,7 @@
 
 ### 工作人員
 
-  - 企劃製作人：[秋元康](../Page/秋元康.md "wikilink")\[7\]
+  - 企劃製作人：[秋元康](../Page/秋元康.md "wikilink")\[15\]
   - 企劃協力：[窪田康志](../Page/窪田康志.md "wikilink")（[AKS](../Page/AKS.md "wikilink")）、佐野裕一（田邊音樂出版）
   - 總製作人：藤井淳（第1集至第8集）
     安岡喜郎（第9集至第12集）
@@ -211,15 +201,15 @@
 
 ## NOGIBINGO\!4
 
-《NOGIBINGO\!4》從2015年4月7日起，每週二凌晨1時29分起至1時59分止播出，到同年6月23日止，共播出12集。本季节目以「變身」为主题，讓成員们改变身份迎接各種綜藝單元的挑戰\[8\]。此外，本季依旧延续了上季的妄想企划与NOGI ROOM企划\[9\]。
+《**NOGIBINGO\!4**》從2015年4月7日起至6月23日，每週二凌晨1時29分起至1時59分于日本电视台播出，共播出12集。本季节目以「變身」为主题，讓成員们改变身份迎接各種綜藝單元的挑戰\[16\]。此外，本季依旧延续了上季的妄想企划与NOGI ROOM企划\[17\]。
 
 ### 演出人員
 
   - 主持人
       - [猥瑣岡田](../Page/猥瑣岡田.md "wikilink")
   - [乃木坂46](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")（\*記號表示出现在開場影片中的成员）
-      - 1期生：秋元真夏\*、生田繪梨花\*、生駒里奈\*、伊藤萬理華、井上小百合、衛藤美彩、川後陽菜、川村真洋、齋藤飛鳥、齋藤千春（）、齊藤優里、櫻井玲香\*、白石麻衣\*、高山一實、永島聖羅、中田花奈、中元日芽香、西野七瀨\*、能條愛未、橋本奈奈未\*、樋口日奈、深川麻衣\*、星野南（）、松村沙友理、若月佑美\*、和田真彩（）
-      - 2期生：伊藤卡琳（）、伊藤純奈、北野日奈子、相樂伊織、佐佐木琴子、鈴木絢音、新內真衣、寺田蘭世、堀未央奈、山崎怜奈、渡邊米麗愛（）
+      - 1期生：[秋元真夏](../Page/秋元真夏.md "wikilink")\*、[生田繪梨花](../Page/生田繪梨花.md "wikilink")\*、[生駒里奈](../Page/生駒里奈.md "wikilink")\*、[伊藤萬理華](../Page/伊藤萬理華.md "wikilink")、[井上小百合](../Page/井上小百合_\(偶像\).md "wikilink")、[衛藤美彩](../Page/衛藤美彩.md "wikilink")、[川後陽菜](../Page/川後陽菜.md "wikilink")、[川村真洋](../Page/川村真洋.md "wikilink")、[齋藤飛鳥](../Page/齋藤飛鳥.md "wikilink")、[齋藤千春](../Page/齋藤千春.md "wikilink")、[齊藤優里](../Page/齊藤優里.md "wikilink")、[櫻井玲香](../Page/櫻井玲香.md "wikilink")\*、[白石麻衣](../Page/白石麻衣.md "wikilink")\*、[高山一實](../Page/高山一實.md "wikilink")、[永島聖羅](../Page/永島聖羅.md "wikilink")、[中田花奈](../Page/中田花奈.md "wikilink")、[中元日芽香](../Page/中元日芽香.md "wikilink")、[西野七瀨](../Page/西野七瀨.md "wikilink")\*、[能條愛未](../Page/能條愛未.md "wikilink")、[橋本奈奈未](../Page/橋本奈奈未.md "wikilink")\*、[樋口日奈](../Page/樋口日奈.md "wikilink")、[深川麻衣](../Page/深川麻衣.md "wikilink")\*、[星野南](../Page/星野南.md "wikilink")、[松村沙友理](../Page/松村沙友理.md "wikilink")、[若月佑美](../Page/若月佑美.md "wikilink")\*、[和田真彩](https://zh.wikipedia.org/wiki/和田真彩 "wikilink")
+      - 2期生：[伊藤卡琳](../Page/伊藤卡琳.md "wikilink")、[伊藤純奈](../Page/伊藤純奈.md "wikilink")、[北野日奈子](../Page/北野日奈子.md "wikilink")、[相樂伊織](../Page/相樂伊織.md "wikilink")、[佐佐木琴子](../Page/佐佐木琴子.md "wikilink")、[鈴木絢音](../Page/鈴木絢音.md "wikilink")、[新內真衣](https://zh.wikipedia.org/wiki/新內真衣 "wikilink")、[寺田蘭世](../Page/寺田蘭世.md "wikilink")、[堀未央奈](../Page/堀未央奈.md "wikilink")、[山崎怜奈](https://zh.wikipedia.org/wiki/山崎怜奈 "wikilink")、[渡邊米麗愛](../Page/渡邊米麗愛.md "wikilink")
       - 交換生：[松井玲奈](../Page/松井玲奈.md "wikilink")
   - 其他
       - （仿真化妝師）：第1集替成員化妝以模仿白石麻衣。
@@ -275,15 +265,15 @@
 
 ## NOGIBINGO\!5
 
-NOGIBINGO5！從2015年7月14日起，每週二凌晨1時29分起至1時59分止播出，到同年9月29日止，共播出12集。本季延續上一季节目「變身」的主題\[10\]，表现成員的個性與魅力。前几季頗受好評的「NOGI ROOM」單元本季仍继续进行\[11\]。
+《**NOGIBINGO5\!**》從2015年7月14日至9月29日，每週二凌晨1時29分起至1時59分止在日本电视台播出，共播出12集。本季延續上一季节目「變身」的主題\[18\]，表现成員的個性與魅力。前几季頗受好評的「NOGI ROOM」單元本季仍继续进行\[19\]。
 
 ### 演出人員
 
   - 主持人
       - [猥瑣岡田](../Page/猥瑣岡田.md "wikilink")
   - [乃木坂46](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")（\*記號表示出现在開場影片中的参演成员）
-      - 1期生：秋元真夏\*、生田繪梨花\*、生駒里奈\*、伊藤萬理華、井上小百合、衛藤美彩、川後陽菜、川村真洋、齋藤飛鳥、齋藤千春、齊藤優里、櫻井玲香\*、白石麻衣\*、高山一實\*、中田花奈、中元日芽香、永島聖羅、西野七瀨\*、橋本奈奈未\*、樋口日奈、深川麻衣\*、星野南、松村沙友理、若月佑美\*、和田真彩
-      - 2期生：伊藤卡琳、伊藤純奈、北野日奈子、相樂伊織、佐佐木琴子、鈴木絢音、新内真衣、寺田蘭世、堀未央奈、山崎怜奈、渡邊米麗愛
+      - 1期生：[秋元真夏](../Page/秋元真夏.md "wikilink")\*、[生田繪梨花](../Page/生田繪梨花.md "wikilink")\*、[生駒里奈](../Page/生駒里奈.md "wikilink")\*、[伊藤萬理華](../Page/伊藤萬理華.md "wikilink")、[井上小百合](../Page/井上小百合_\(偶像\).md "wikilink")、[衛藤美彩](../Page/衛藤美彩.md "wikilink")、[川後陽菜](../Page/川後陽菜.md "wikilink")、[川村真洋](../Page/川村真洋.md "wikilink")、[齋藤飛鳥](../Page/齋藤飛鳥.md "wikilink")、[齋藤千春](../Page/齋藤千春.md "wikilink")、[齊藤優里](../Page/齊藤優里.md "wikilink")、[櫻井玲香](../Page/櫻井玲香.md "wikilink")\*、[白石麻衣](../Page/白石麻衣.md "wikilink")\*、[高山一實](../Page/高山一實.md "wikilink")\*、[中田花奈](../Page/中田花奈.md "wikilink")、[中元日芽香](../Page/中元日芽香.md "wikilink")、[永島聖羅](../Page/永島聖羅.md "wikilink")、[西野七瀨](../Page/西野七瀨.md "wikilink")\*、[橋本奈奈未](../Page/橋本奈奈未.md "wikilink")\*、[樋口日奈](../Page/樋口日奈.md "wikilink")、[深川麻衣](../Page/深川麻衣.md "wikilink")\*、[星野南](../Page/星野南.md "wikilink")、[松村沙友理](../Page/松村沙友理.md "wikilink")、[若月佑美](../Page/若月佑美.md "wikilink")\*、[和田真彩](https://zh.wikipedia.org/wiki/和田真彩 "wikilink")
+      - 2期生：[伊藤卡琳](../Page/伊藤卡琳.md "wikilink")、[伊藤純奈](../Page/伊藤純奈.md "wikilink")、[北野日奈子](../Page/北野日奈子.md "wikilink")、[相樂伊織](../Page/相樂伊織.md "wikilink")、[佐佐木琴子](../Page/佐佐木琴子.md "wikilink")、[鈴木絢音](../Page/鈴木絢音.md "wikilink")、[新内真衣](../Page/新内真衣.md "wikilink")、[寺田蘭世](../Page/寺田蘭世.md "wikilink")、[堀未央奈](../Page/堀未央奈.md "wikilink")、[山崎怜奈](https://zh.wikipedia.org/wiki/山崎怜奈 "wikilink")、[渡邊米麗愛](../Page/渡邊米麗愛.md "wikilink")
   - 其他
       - （[職業摔角](../Page/職業摔角.md "wikilink")選手）：延續第2季《NOGIBINGO\!2》，在第4集裡擔任2期生的助手。
 
@@ -295,21 +285,21 @@ NOGIBINGO5！從2015年7月14日起，每週二凌晨1時29分起至1時59分止
 
 ### 播出日期及內容
 
-| 各集節目內容 |
-| ------ |
-| 集數     |
-| 1      |
-| 2      |
-| 3      |
-| 4      |
-| 5      |
-| 6      |
-| 7      |
-| 8      |
-| 9      |
-| 10     |
-| 11     |
-| 12     |
+| 各集節目內容                       |
+| ---------------------------- |
+| style="white-space:nowrap|集數 |
+| 1                            |
+| 2                            |
+| 3                            |
+| 4                            |
+| 5                            |
+| 6                            |
+| 7                            |
+| 8                            |
+| 9                            |
+| 10                           |
+| 11                           |
+| 12                           |
 
 ### 工作人員
 
@@ -330,20 +320,20 @@ NOGIBINGO5！從2015年7月14日起，每週二凌晨1時29分起至1時59分止
 
 ## NOGIBINGO\!6
 
-本季節目從2016年4月12日起，每週二凌晨1時29分起至1時59分止播出。與前五季最大的不同点在於本季首度出現助理主持人（），担任成员为[中元日芽香](../Page/中元日芽香.md "wikilink")\[12\]。每集於電視播映結束後，由[Hulu](../Page/Hulu.md "wikilink")限定發佈包含NOGI ROOM的完整版节目\[13\]。
+《**NOGIBINGO6\!**》從2016年4月12日起至6月28日，每週二凌晨1時29分至1時59分于日本电视台播出。本季首度出現助理主持人（）职位，担任成员为[中元日芽香](../Page/中元日芽香.md "wikilink")\[20\]。每集於電視播映結束後，由[Hulu](../Page/Hulu.md "wikilink")限定發佈包含NOGI ROOM的完整版节目\[21\]。
 
 ### 演出人員
 
   - 主持人
       - [猥瑣岡田](../Page/猥瑣岡田.md "wikilink")
   - 助理主持人
-      - 中元日芽香
-      - 橋本奈奈未（第4集代任）
-      - 白石麻衣（第5集代任）
-      - 高山一實（第6集代任）
+      - [中元日芽香](../Page/中元日芽香.md "wikilink")
+      - [橋本奈奈未](../Page/橋本奈奈未.md "wikilink")（第4集代任）
+      - [白石麻衣](../Page/白石麻衣.md "wikilink")（第5集代任）
+      - [高山一實](../Page/高山一實.md "wikilink")（第6集代任）
   - [乃木坂46](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")
-      - 1期生：秋元真夏、生田繪梨花、生駒里奈、伊藤萬理華、井上小百合、衛藤美彩、川後陽菜、川村真洋、齋藤飛鳥、齋藤千春、齊藤優里、櫻井玲香、白石麻衣、高山一實、中田花奈、中元日芽香、永島聖羅、西野七瀨、橋本奈奈未、樋口日奈、深川麻衣、星野南、松村沙友理、若月佑美、和田真彩、深川麻衣
-      - 2期生：伊藤卡琳、伊藤純奈、北野日奈子、相樂伊織、佐佐木琴子、鈴木絢音、新内真衣、寺田蘭世、堀未央奈、山崎怜奈、渡邊米麗愛
+      - 1期生：[秋元真夏](../Page/秋元真夏.md "wikilink")、[生田繪梨花](../Page/生田繪梨花.md "wikilink")、[生駒里奈](../Page/生駒里奈.md "wikilink")、[伊藤萬理華](../Page/伊藤萬理華.md "wikilink")、[井上小百合](../Page/井上小百合_\(偶像\).md "wikilink")、[衛藤美彩](../Page/衛藤美彩.md "wikilink")、[川後陽菜](../Page/川後陽菜.md "wikilink")、[川村真洋](../Page/川村真洋.md "wikilink")、[齋藤飛鳥](../Page/齋藤飛鳥.md "wikilink")、[齋藤千春](../Page/齋藤千春.md "wikilink")、[齊藤優里](../Page/齊藤優里.md "wikilink")、[櫻井玲香](../Page/櫻井玲香.md "wikilink")、[白石麻衣](../Page/白石麻衣.md "wikilink")、[高山一實](../Page/高山一實.md "wikilink")、[中田花奈](../Page/中田花奈.md "wikilink")、[中元日芽香](../Page/中元日芽香.md "wikilink")、[永島聖羅](../Page/永島聖羅.md "wikilink")、[西野七瀨](../Page/西野七瀨.md "wikilink")、[橋本奈奈未](../Page/橋本奈奈未.md "wikilink")、[樋口日奈](../Page/樋口日奈.md "wikilink")、[星野南](../Page/星野南.md "wikilink")、[松村沙友理](../Page/松村沙友理.md "wikilink")、[若月佑美](../Page/若月佑美.md "wikilink")、[和田真彩](https://zh.wikipedia.org/wiki/和田真彩 "wikilink")、[深川麻衣](../Page/深川麻衣.md "wikilink")
+      - 2期生：[伊藤卡琳](../Page/伊藤卡琳.md "wikilink")、[伊藤純奈](../Page/伊藤純奈.md "wikilink")、[北野日奈子](../Page/北野日奈子.md "wikilink")、[相樂伊織](../Page/相樂伊織.md "wikilink")、[佐佐木琴子](../Page/佐佐木琴子.md "wikilink")、[鈴木絢音](../Page/鈴木絢音.md "wikilink")、[新内真衣](../Page/新内真衣.md "wikilink")、[寺田蘭世](../Page/寺田蘭世.md "wikilink")、[堀未央奈](../Page/堀未央奈.md "wikilink")、[山崎怜奈](https://zh.wikipedia.org/wiki/山崎怜奈 "wikilink")、[渡邊米麗愛](../Page/渡邊米麗愛.md "wikilink")
   - 其他
       - 谷所健一郎（職業開發諮詢顧問）：第3集中擔任裁判。
 
@@ -413,17 +403,17 @@ NOGIBINGO5！從2015年7月14日起，每週二凌晨1時29分起至1時59分止
 
 ## NOGIBINGO\!7
 
-本季綜藝節目從2016年10月11日起每週二凌晨1時29分起至1時59分止播出，與上一季相同均有設置助理主持人的制度，不同的是這季從中元日芽香換成衛藤美彩。與之前相同，每集於電視播映結束後，由[Hulu](../Page/Hulu.md "wikilink")限定發佈包含NOGI ROOM的完整版。
+《**NOGIBINGO\!7**》從2016年10月11日至12月27日，每週二凌晨1時29分至1時59分于日本电视台播出。本季與上一季相同均設置了助理主持人，不同的是這季從[中元日芽香](../Page/中元日芽香.md "wikilink")換成[衛藤美彩](../Page/衛藤美彩.md "wikilink")\[22\]。與往期节目相同，每集在電視播出結束後，由[Hulu](../Page/Hulu.md "wikilink")限定發佈包含NOGI ROOM的完整版。
 
 ### 演出人員
 
   - 主持人
       - [猥瑣岡田](../Page/猥瑣岡田.md "wikilink")
   - 助理主持人
-      - 衛藤美彩
+      - [衛藤美彩](../Page/衛藤美彩.md "wikilink")
   - [乃木坂46](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")
-      - 1期生：秋元真夏、生田繪梨花、生駒里奈、伊藤萬理華、井上小百合、衛藤美彩、川後陽菜、川村真洋、齋藤飛鳥、齋藤千春、齊藤優里、櫻井玲香、白石麻衣、高山一實、中田花奈、中元日芽香、西野七瀨、橋本奈奈未、樋口日奈、星野南、松村沙友理、若月佑美、和田真彩
-      - 2期生：伊藤卡琳、伊藤純奈、北野日奈子、相樂伊織、佐佐木琴子、鈴木絢音、新内真衣、寺田蘭世、堀未央奈、山崎怜奈、渡邊米麗愛
+      - 1期生：[秋元真夏](../Page/秋元真夏.md "wikilink")、[生田繪梨花](../Page/生田繪梨花.md "wikilink")、[生駒里奈](../Page/生駒里奈.md "wikilink")、[伊藤萬理華](../Page/伊藤萬理華.md "wikilink")、[井上小百合](../Page/井上小百合_\(偶像\).md "wikilink")、[衛藤美彩](../Page/衛藤美彩.md "wikilink")、[川後陽菜](../Page/川後陽菜.md "wikilink")、[川村真洋](../Page/川村真洋.md "wikilink")、[齋藤飛鳥](../Page/齋藤飛鳥.md "wikilink")、[齋藤千春](../Page/齋藤千春.md "wikilink")、[齊藤優里](../Page/齊藤優里.md "wikilink")、[櫻井玲香](../Page/櫻井玲香.md "wikilink")、[白石麻衣](../Page/白石麻衣.md "wikilink")、[高山一實](../Page/高山一實.md "wikilink")、[中田花奈](../Page/中田花奈.md "wikilink")、[中元日芽香](../Page/中元日芽香.md "wikilink")、[西野七瀨](../Page/西野七瀨.md "wikilink")、[橋本奈奈未](../Page/橋本奈奈未.md "wikilink")、[樋口日奈](../Page/樋口日奈.md "wikilink")、[星野南](../Page/星野南.md "wikilink")、[松村沙友理](../Page/松村沙友理.md "wikilink")、[若月佑美](../Page/若月佑美.md "wikilink")、[和田真彩](https://zh.wikipedia.org/wiki/和田真彩 "wikilink")
+      - 2期生：[伊藤卡琳](../Page/伊藤卡琳.md "wikilink")、[伊藤純奈](../Page/伊藤純奈.md "wikilink")、[北野日奈子](../Page/北野日奈子.md "wikilink")、[相樂伊織](../Page/相樂伊織.md "wikilink")、[佐佐木琴子](../Page/佐佐木琴子.md "wikilink")、[鈴木絢音](../Page/鈴木絢音.md "wikilink")、[新内真衣](../Page/新内真衣.md "wikilink")、[寺田蘭世](../Page/寺田蘭世.md "wikilink")、[堀未央奈](../Page/堀未央奈.md "wikilink")、[山崎怜奈](https://zh.wikipedia.org/wiki/山崎怜奈 "wikilink")、[渡邊米麗愛](../Page/渡邊米麗愛.md "wikilink")
   - 其他
       - （日本電視台主播）- 第一集「第二回助理主持評選賽」最終考查擔任實況。
 
@@ -433,7 +423,7 @@ NOGIBINGO5！從2015年7月14日起，每週二凌晨1時29分起至1時59分止
 
       - \- 第八集「實現你的好色呵呵癡笑！妄想點播第7季」為橋本奈奈未的妄想點播進行了投稿。
 
-      - [加美山稔](https://zh.wikipedia.org/wiki/加美山稔 "wikilink") - 本節目攝影師，第十一集「請幫我實現願望！乃木坂46聖誕老人！！」參與歌唱演出。
+      - 加美山稔 - 本節目攝影師，第十一集「請幫我實現願望！乃木坂46聖誕老人！！」參與歌唱演出。
 
       - [下地紫野](../Page/下地紫野.md "wikilink")（[聲優](../Page/聲優.md "wikilink")）- 第十二集「今年還沒完成的事 一起來完成SP」為衛藤、星野、松村、若月進行聲優指導。
 
@@ -498,24 +488,24 @@ NOGIBINGO5！從2015年7月14日起，每週二凌晨1時29分起至1時59分止
 
 ## NOGIBINGO\!8
 
-本季節目自2017年4月11日至6月20日之間，每週二凌晨1時29分至1時59分在[日本電視台](../Page/日本電視台.md "wikilink")播出。為了完全是演藝圈菜鳥的三期生，本季以「青春」為主題，讓三期生展現其個性\[14\]，並讓1、2期生穿插演出。
+《**NOGIBINGO8\!**》自2017年4月11日至6月20日，每週二凌晨1時29分至1時59分在日本電視台播出。為了刚刚进入综艺世界的的三期生，本季以「青春」為主題，安排了一系列前辈们曾经历过的严酷综艺挑战，讓三期生展現其個性。此外，此过程中1、2期生亦有穿插演出\[23\]。
 
 ### 演出人員
 
   - 主持人
-      - 猥瑣岡田
+      - [猥瑣岡田](../Page/猥瑣岡田.md "wikilink")
   - 乃木坂46
-      - 1期生：秋元真夏、生駒里奈、衛藤美彩、齊藤優里、櫻井玲香、高山一實、中田花奈、中元日芽香、能條愛未、樋口日奈、星野南、松村沙友理
-      - 2期生：堀未央奈、寺田蘭世
-      - 3期生：伊藤理理杏、岩本蓮加、梅澤美波、大園桃子、久保史緒里、阪口珠美、佐藤楓、中村麗乃、向井葉月、山下美月、吉田綾乃克莉絲緹、與田祐希
+      - 1期生：[秋元真夏](../Page/秋元真夏.md "wikilink")、[生駒里奈](../Page/生駒里奈.md "wikilink")、[衛藤美彩](../Page/衛藤美彩.md "wikilink")、[齊藤優里](../Page/齊藤優里.md "wikilink")、[櫻井玲香](../Page/櫻井玲香.md "wikilink")、[高山一實](../Page/高山一實.md "wikilink")、[中田花奈](../Page/中田花奈.md "wikilink")、[中元日芽香](../Page/中元日芽香.md "wikilink")、[能條愛未](../Page/能條愛未.md "wikilink")、[樋口日奈](../Page/樋口日奈.md "wikilink")、[星野南](../Page/星野南.md "wikilink")、[松村沙友理](../Page/松村沙友理.md "wikilink")
+      - 2期生：[堀未央奈](../Page/堀未央奈.md "wikilink")、[寺田蘭世](../Page/寺田蘭世.md "wikilink")
+      - 3期生：[伊藤理理杏](https://zh.wikipedia.org/wiki/伊藤理理杏 "wikilink")、[岩本蓮加](https://zh.wikipedia.org/wiki/岩本蓮加 "wikilink")、[梅澤美波](../Page/梅澤美波.md "wikilink")、[大園桃子](../Page/大園桃子.md "wikilink")、[久保史緒里](../Page/久保史緒里.md "wikilink")、[阪口珠美](https://zh.wikipedia.org/wiki/阪口珠美 "wikilink")、[佐藤楓](https://zh.wikipedia.org/wiki/佐藤楓 "wikilink")、[中村麗乃](https://zh.wikipedia.org/wiki/中村麗乃 "wikilink")、[向井葉月](https://zh.wikipedia.org/wiki/向井葉月 "wikilink")、[山下美月](../Page/山下美月.md "wikilink")、[吉田綾乃克莉絲緹](https://zh.wikipedia.org/wiki/吉田綾乃克莉絲緹 "wikilink")、[與田祐希](../Page/與田祐希.md "wikilink")
   - 其他
       - （日本電視台播報員）：第4集「鍛煉綜藝力！乃木坂[Cosplay](../Page/Cosplay.md "wikilink")大運動會」實況播報。
 
-      - 高橋ふみ（美容顧問）：第6集「乃木坂46三期生身材御三家決定戰！」美腳御三家裁判\[15\]。
+      - 高橋ふみ（美容顧問）：第6集「乃木坂46三期生身材御三家決定戰！」美腳御三家裁判\[24\]。
 
-      - 齊藤あき（毛髪判定師）：第6集「乃木坂46三期生身材御三家決定戰！」頭髪御三家裁判\[16\]。
+      - 齊藤あき（毛髪判定師）：第6集「乃木坂46三期生身材御三家決定戰！」頭髪御三家裁判\[25\]。
 
-      - 岡井淨幸（[面相學](../Page/面相學.md "wikilink")）：第6集「乃木坂46三期生身材御三家決定戰！」表情美人御三家裁判\[17\]。
+      - 岡井淨幸（[面相學](../Page/面相學.md "wikilink")）：第6集「乃木坂46三期生身材御三家決定戰！」表情美人御三家裁判\[26\]。
 
       - 黑岩久美子（《Soup.》雜誌編輯）：第7集「也許能成為人氣雜誌的模特兒！3期生認真私服穿搭甄試！」裁判。
 
@@ -535,85 +525,20 @@ NOGIBINGO5！從2015年7月14日起，每週二凌晨1時29分起至1時59分止
 
 ### 播出日期及內容
 
-<table>
-<thead>
-<tr class="header">
-<th><p>集數</p></th>
-<th><p>播放日期</p></th>
-<th><p>内容</p></th>
-<th><p>NOGI ROOM</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>1</p></td>
-<td><p>2017年<br />
-4月11日</p></td>
-<td><p>乃木坂3期生綜藝入學典禮！（秘）整蠱大號泣！</p></td>
-<td><p>伊藤理理杏、岩本蓮加、梅澤美波、大園桃子、吉田綾乃克莉絲緹</p></td>
-</tr>
-<tr class="even">
-<td><p>2</p></td>
-<td><p>4月18日</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>3</p></td>
-<td><p>4月25日</p></td>
-<td><p>3期生的團結力檢查！秋元、生駒、堀愛的鞭子!?[18]</p></td>
-<td><p>阪口珠美、佐藤楓、中村麗乃、向井葉月、與田祐希[19]</p></td>
-</tr>
-<tr class="even">
-<td><p>4</p></td>
-<td><p>5月2日</p></td>
-<td><p>鍛煉綜藝力！乃木坂Cosplay大運動會</p></td>
-<td><p>岩本蓮加、久保史緒里、向井葉月、山下美月、與田祐希</p></td>
-</tr>
-<tr class="odd">
-<td><p>5</p></td>
-<td><p>5月9日</p></td>
-<td><p>不知道出醜!?東京（秘）以問答找出鄉下人No.1決定戰</p></td>
-<td><p>伊藤理理杏、梅澤美波、大園桃子、山下美月、與田祐希</p></td>
-</tr>
-<tr class="even">
-<td><p>6</p></td>
-<td><p>5月16日</p></td>
-<td><p>乃木坂46三期生身材御三家決定戰！</p></td>
-<td><p>岩本蓮加、梅澤美波、大園桃子、久保史緒里、阪口珠美</p></td>
-</tr>
-<tr class="odd">
-<td><p>7</p></td>
-<td><p>5月23日</p></td>
-<td><p>也許能成為人氣雜誌的模特兒！3期生認真私服穿搭甄試！</p></td>
-<td><p>佐藤楓、中村麗乃、向井葉月、山下美月、吉田綾乃克莉絲緹</p></td>
-</tr>
-<tr class="even">
-<td><p>8</p></td>
-<td><p>5月30日</p></td>
-<td><p>偶像做得到減肥！青春人氣零食選手權</p></td>
-<td><p>梅澤美波、大園桃子、阪口珠美、佐藤楓、向井葉月</p></td>
-</tr>
-<tr class="odd">
-<td><p>9</p></td>
-<td><p>6月6日</p></td>
-<td><p>嚴肅認真相撲對決！輸的話必定慘叫的惡整！</p></td>
-<td><p>久保史緒里、向井葉月、山下美月、吉田綾乃克莉絲緹、與田祐希</p></td>
-</tr>
-<tr class="even">
-<td><p>|10</p></td>
-<td><p>6月13日</p></td>
-<td><p>妄想點播、主題是青春！賣萌揪心演技初挑戰！</p></td>
-<td><p>伊藤理理杏、岩本蓮加、久保史緒里、中村麗乃、與田祐希</p></td>
-</tr>
-<tr class="odd">
-<td><p>|11</p></td>
-<td><p>6月20日</p></td>
-<td><p>汗水與涙水的最終回1000人面前啦啦隊舞蹈特訓</p></td>
-<td><p>伊藤理理杏、岩本蓮加、梅澤美波、大園桃子、久保史緒里、阪口珠美、佐藤楓、中村麗乃、向井葉月、山下美月、吉田綾乃克莉絲緹、與田祐希</p></td>
-</tr>
-</tbody>
-</table>
+| 各集節目內容 |
+| ------ |
+| 集數     |
+| 1      |
+| 2      |
+| 3      |
+| 4      |
+| 5      |
+| 6      |
+| 7      |
+| 8      |
+| 9      |
+| |10    |
+| |11    |
 
 ### 工作人員
 
@@ -658,98 +583,33 @@ NOGIBINGO5！從2015年7月14日起，每週二凌晨1時29分起至1時59分止
 
 ## NOGIBINGO\!9
 
+《**NOGIBINGO\!8**》从2017年10月17日至12月26日在[日本电视台播出](https://zh.wikipedia.org/wiki/日本电视台 "wikilink")。本季一期生、二期生和三期生共同出演，进一步挑战从未接触过的事情，到达从未到达过的地方，展现仍未被发掘的特长与才能\[27\]。
+
 ### 演出人員
 
   - 主持人
-      - 猥瑣岡田
+      - [猥瑣岡田](../Page/猥瑣岡田.md "wikilink")
   - 乃木坂46
-      - 1期生：[秋元真夏](../Page/秋元真夏.md "wikilink")、[生駒里奈](../Page/生駒里奈.md "wikilink")、[井上小百合](../Page/井上小百合_\(偶像\).md "wikilink")、[衛藤美彩](../Page/衛藤美彩.md "wikilink")、[櫻井玲香](../Page/櫻井玲香.md "wikilink")、[高山一實](../Page/高山一實.md "wikilink")、[中田花奈](../Page/中田花奈.md "wikilink")、[能條愛未](../Page/能條愛未.md "wikilink")、[星野南](../Page/星野南.md "wikilink")、[若月佑美](../Page/若月佑美.md "wikilink")、
-      - 2期生：佐佐木琴子、[新内真衣](../Page/新内真衣.md "wikilink")、鈴木絢音、渡邊米麗愛
-      - 3期生：伊藤理理杏、岩本蓮加、梅澤美波、大園桃子、久保史緒里、阪口珠美、佐藤楓、中村麗乃、向井葉月、山下美月、吉田綾乃克莉絲緹、與田祐希
-  - 其他
-      - 第二集 - Pika子（）、梶惠理子（）
+      - 1期生：[秋元真夏](../Page/秋元真夏.md "wikilink")、[生田絵梨花](https://zh.wikipedia.org/wiki/生田絵梨花 "wikilink")、[生駒里奈](../Page/生駒里奈.md "wikilink")、[伊藤万理華](https://zh.wikipedia.org/wiki/伊藤万理華 "wikilink")、[井上小百合](../Page/井上小百合_\(偶像\).md "wikilink")、[川後陽菜](../Page/川後陽菜.md "wikilink")、[川村真洋](../Page/川村真洋.md "wikilink")、[齋藤飛鳥](../Page/齋藤飛鳥.md "wikilink")、[齋藤千春](../Page/齋藤千春.md "wikilink")、[齊藤優里](../Page/齊藤優里.md "wikilink")、[白石麻衣](../Page/白石麻衣.md "wikilink")、[西野七濑](https://zh.wikipedia.org/wiki/西野七濑 "wikilink")、[樋口日奈](../Page/樋口日奈.md "wikilink")、[和田真彩](https://zh.wikipedia.org/wiki/和田真彩 "wikilink")、[衛藤美彩](../Page/衛藤美彩.md "wikilink")、[櫻井玲香](../Page/櫻井玲香.md "wikilink")、[高山一實](../Page/高山一實.md "wikilink")、[中田花奈](../Page/中田花奈.md "wikilink")、[能條愛未](../Page/能條愛未.md "wikilink")、[星野南](../Page/星野南.md "wikilink")、[若月佑美](../Page/若月佑美.md "wikilink")
+      - 2期生：[伊藤卡琳](../Page/伊藤卡琳.md "wikilink")、[伊藤純奈](../Page/伊藤純奈.md "wikilink")、[北野日奈子](../Page/北野日奈子.md "wikilink")、[相樂伊織](../Page/相樂伊織.md "wikilink")、[寺田蘭世](../Page/寺田蘭世.md "wikilink")、[堀未央奈](../Page/堀未央奈.md "wikilink")、[佐佐木琴子](../Page/佐佐木琴子.md "wikilink")、[新内真衣](../Page/新内真衣.md "wikilink")、[鈴木絢音](../Page/鈴木絢音.md "wikilink")、[渡邊米麗愛](../Page/渡邊米麗愛.md "wikilink")
+      - 3期生：[伊藤理理杏](https://zh.wikipedia.org/wiki/伊藤理理杏 "wikilink")、[岩本蓮加](https://zh.wikipedia.org/wiki/岩本蓮加 "wikilink")、[梅澤美波](../Page/梅澤美波.md "wikilink")、[大園桃子](../Page/大園桃子.md "wikilink")、[久保史緒里](../Page/久保史緒里.md "wikilink")、[阪口珠美](https://zh.wikipedia.org/wiki/阪口珠美 "wikilink")、[佐藤楓](https://zh.wikipedia.org/wiki/佐藤楓 "wikilink")、[中村麗乃](https://zh.wikipedia.org/wiki/中村麗乃 "wikilink")、[向井葉月](https://zh.wikipedia.org/wiki/向井葉月 "wikilink")、[山下美月](../Page/山下美月.md "wikilink")、[吉田綾乃克莉絲緹](https://zh.wikipedia.org/wiki/吉田綾乃克莉絲緹 "wikilink")、[與田祐希](../Page/與田祐希.md "wikilink")
 
 ### 播出日期及內容
 
-<table>
-<thead>
-<tr class="header">
-<th><p>集數</p></th>
-<th><p>播放日期</p></th>
-<th><p>内容</p></th>
-<th><p>NOGI ROOM</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>1</p></td>
-<td><p>2017年<br />
-10月17日</p></td>
-<td><p>乃木坂46が初めて歌舞伎町のショーパブに行く!</p></td>
-<td><p>伊藤卡琳、佐佐木琴子、鈴木絢音、寺田蘭世、渡邊米麗愛</p></td>
-</tr>
-<tr class="even">
-<td><p>2</p></td>
-<td><p>10月24日</p></td>
-<td><p>私、一度はやってみたかったんです乃木坂46初めてのヘアーコレクション</p></td>
-<td><p>相良伊織、寺田蘭世、樋口日奈、山崎怜奈、和田真彩</p></td>
-</tr>
-<tr class="odd">
-<td><p>3</p></td>
-<td><p>10月31日</p></td>
-<td><p>見たことない詩的な乃木坂見せます!秋のポエム女王決定戦!</p></td>
-<td><p>伊藤純奈、川後陽菜、川村真洋、齋藤千春、渡邊米麗愛</p></td>
-</tr>
-<tr class="even">
-<td><p>4</p></td>
-<td><p>11月7日</p></td>
-<td><p>今一番欲しい商品をかけゲームに挑戦!自腹orプレゼント</p></td>
-<td><p>伊藤理理杏、岩本蓮加、大園桃子、阪口珠美、中村麗乃</p></td>
-</tr>
-<tr class="odd">
-<td><p>5</p></td>
-<td><p>11月14日</p></td>
-<td><p>今夜は恋愛解禁!?乃木坂46リアル乙女ゲーム!</p></td>
-<td><p>齊藤優里、相良伊織、鈴木絢音、中田花奈、和田真彩</p></td>
-</tr>
-<tr class="even">
-<td><p>6</p></td>
-<td><p>11月21日</p></td>
-<td><p>今夜怪演!乃木坂アクターズスクール!</p></td>
-<td><p>梅澤美波、久保史緒里、佐藤楓、山下美月、吉田綾乃克莉絲</p></td>
-</tr>
-<tr class="odd">
-<td><p>7</p></td>
-<td><p>11月28日</p></td>
-<td><p>ドキドキな顔見せます!乃木坂46未踏の地へ行く</p></td>
-<td><p>久保史緒里、齊藤優里、向井葉月、山下美月</p></td>
-</tr>
-<tr class="even">
-<td><p>8</p></td>
-<td><p>12月5日</p></td>
-<td><p>秋元真夏、生駒里奈、高山一實、松村沙友理</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>9</p></td>
-<td><p>12月12日</p></td>
-<td><p>あなたのムフフ叶えます!妄想リクエストシーズン9[20]。</p></td>
-<td><p>大園桃子、久保史緒里、中田花奈、山下美月、與田祐希</p></td>
-</tr>
-<tr class="even">
-<td><p>10</p></td>
-<td><p>12月19日</p></td>
-<td><p>イライラを大放出!乃木坂46スカッとグランプリ![21]。</p></td>
-<td><p>衛藤美彩、齋藤飛鳥、新内真衣、堀未央奈、星野南</p></td>
-</tr>
-<tr class="odd">
-<td><p>11</p></td>
-<td><p>12月26日</p></td>
-<td><p>最終回!乃木坂サンタのクリスマス仮装大賞[22]。</p></td>
-<td><p>秋元真夏、生駒里奈、伊藤理理杏、久保史緒里、中田花奈、松村沙友理、向井葉月、山下美月、與田祐希</p></td>
-</tr>
-</tbody>
-</table>
+| 各集節目內容                       |
+| ---------------------------- |
+| style="white-space:nowrap|集數 |
+| 1                            |
+| 2                            |
+| 3                            |
+| 4                            |
+| 5                            |
+| 6                            |
+| 7                            |
+| 8                            |
+| 9                            |
+| 10                           |
+| 11                           |
 
 ### 工作人員
 
@@ -776,14 +636,14 @@ NOGIBINGO5！從2015年7月14日起，每週二凌晨1時29分起至1時59分止
   - 音效：高取謙
   - TK：山沢啓子
   - 企劃協力：窪田康志（[AKS](../Page/AKS.md "wikilink")）、佐野裕一（田邊音樂出版）
-  - 総合編成（2017年12月5日 - ）：[川邊昭宏](https://zh.wikipedia.org/wiki/川邊昭宏 "wikilink")、植野浩之
-  - 製作委員会：海野大輔、[山王丸和惠](https://zh.wikipedia.org/wiki/山王丸和惠 "wikilink")、土岐洋久、根本裕美、内藤ひとみ
+  - 総合編成（2017年12月5日 - ）：川邊昭宏、植野浩之
+  - 製作委員会：海野大輔、山王丸和惠、土岐洋久、根本裕美、内藤ひとみ
   - Disc：当田駒子
   - AD：荒井悠希、大橋達郎、石川正人、小林祐一、波多野詩織、田所賢樹
   - 導演：清田知宏、齊藤篤史、師岡靖成、石和田英明、光若令真
   - 演出：渡邊春佳
   - 內容製作：毛利忍
-  - 製作人：大友有一 / 橋本早世、相澤幸一\[23\]、日下潤
+  - 製作人：大友有一 / 橋本早世、相澤幸一、日下潤
   - 總製作人：糸井聖一
   - 製作協力：acro、Esuto
   - 企画制作：日本電視台
@@ -800,32 +660,26 @@ NOGIBINGO5！從2015年7月14日起，每週二凌晨1時29分起至1時59分止
 
 ## NOGIBINGO\!10
 
-《**NOGIBINGO\!10**》从2018年10月9日至12月18日每周四1点29分至1点59分于[日本电视台播出](https://zh.wikipedia.org/wiki/日本电视台 "wikilink")\[24\]。本季以“乃木坂，不再忍耐”（）为主题，全季度均采用外景的方式进行拍摄\[25\]。每一集中均有四名成员参与，其中一名为**任性Center**（），其余三名成员为**暖场女孩**（）。每一集中围绕着主题“（任性Center）不再忍耐〇〇！”，四名成员来到各个地方参与到从各种未体验过的活动之中\[26\]。此外，自NOGIBINGO\!3以来于每集尾声时播出的“NOGI ROOM”改为由每集的任性Center主持的**〇〇频道**（），由当周节目中的成员参与，并于电视上播出部分片段，完整版在节目结束后通过视频网站[Hulu](../Page/Hulu.md "wikilink")公开。
+《**NOGIBINGO\!10**》从2018年10月9日至12月18日，每周四1点29分至1点59分于日本电视台播出\[28\]。本季以“乃木坂，不再忍耐”（）为主题，全季度均采用外景的方式进行拍摄\[29\]。每一集中均有四名成员参与，其中一名为**任性Center**（），其余三名成员为**暖场女孩**（）。每一集中围绕着主题“（任性Center）不再忍耐〇〇！”，四名成员来到各个地方参与到从各种未体验过的活动之中\[30\]。此外，自NOGIBINGO\!3以来于每集尾声时播出的“NOGI ROOM”改为由每集的任性Center主持的**〇〇频道**（），由当周节目中的成员参与，并于电视上播出部分片段，完整版在节目结束后通过视频网站[Hulu](../Page/Hulu.md "wikilink")公开。
 
 ### 演出人員
 
   - 主持人
-
-<!-- end list -->
-
-  - [猥琐冈田](https://zh.wikipedia.org/wiki/猥琐冈田 "wikilink")
+      - [猥琐冈田](https://zh.wikipedia.org/wiki/猥琐冈田 "wikilink")
 
 <!-- end list -->
 
   - 乃木坂46
-
-<!-- end list -->
-
-  - 1期生：秋元真夏、生田绘梨花、井上小百合、衛藤美彩、川後陽菜、齋藤飛鳥、斉藤優里、白石麻衣、高山一实、中田花奈、西野七濑、星野南、松村沙友理、若月佑美、和田真彩
-  - 2期生：新内真衣、堀未央奈、渡边迷离爱
-  - 3期生：伊藤理理杏、岩本莲加、梅澤美波、大園桃子、阪口珠美、佐藤楓、向井葉月、山下美月、与田祐希
+      - 1期生：[秋元真夏](../Page/秋元真夏.md "wikilink")、[生田绘梨花](https://zh.wikipedia.org/wiki/生田绘梨花 "wikilink")、[井上小百合](../Page/井上小百合_\(偶像\).md "wikilink")、[衛藤美彩](../Page/衛藤美彩.md "wikilink")、[川後陽菜](../Page/川後陽菜.md "wikilink")、[齋藤飛鳥](../Page/齋藤飛鳥.md "wikilink")、[斉藤優里](https://zh.wikipedia.org/wiki/斉藤優里 "wikilink")、[白石麻衣](../Page/白石麻衣.md "wikilink")、[高山一实](https://zh.wikipedia.org/wiki/高山一实 "wikilink")、[中田花奈](../Page/中田花奈.md "wikilink")、[西野七濑](https://zh.wikipedia.org/wiki/西野七濑 "wikilink")、[星野南](../Page/星野南.md "wikilink")、[松村沙友理](../Page/松村沙友理.md "wikilink")、[若月佑美](../Page/若月佑美.md "wikilink")、[和田真彩](https://zh.wikipedia.org/wiki/和田真彩 "wikilink")
+      - 2期生：[新内真衣](../Page/新内真衣.md "wikilink")、[堀未央奈](../Page/堀未央奈.md "wikilink")、[渡邊米麗愛](../Page/渡邊米麗愛.md "wikilink")
+      - 3期生：[伊藤理理杏](https://zh.wikipedia.org/wiki/伊藤理理杏 "wikilink")、[岩本莲加](https://zh.wikipedia.org/wiki/岩本莲加 "wikilink")、[梅澤美波](../Page/梅澤美波.md "wikilink")、[大園桃子](../Page/大園桃子.md "wikilink")、[阪口珠美](https://zh.wikipedia.org/wiki/阪口珠美 "wikilink")、[佐藤楓](https://zh.wikipedia.org/wiki/佐藤楓 "wikilink")、[向井葉月](https://zh.wikipedia.org/wiki/向井葉月 "wikilink")、[山下美月](../Page/山下美月.md "wikilink")、[与田祐希](https://zh.wikipedia.org/wiki/与田祐希 "wikilink")
 
 ### 播出日期及內容
 
 <table>
 <thead>
 <tr class="header">
-<th><p>集数</p></th>
+<th><p>style="white-space:nowrap|集数</p></th>
 <th><p>style="white-space:nowrap|播出日期<br />
 （2018年）</p></th>
 <th><p>播出内容</p></th>
@@ -837,7 +691,7 @@ NOGIBINGO5！從2015年7月14日起，每週二凌晨1時29分起至1時59分止
 <tbody>
 <tr class="odd">
 <td><p>1</p></td>
-<td><p>style="white-space:nowrap|10月9日[27]</p></td>
+<td><p>style="white-space:nowrap|10月9日[31]</p></td>
 <td><p>秋元真夏，不再忍耐大自然！<br />
 （）</p></td>
 <td><p>style="white-space:nowrap|秋元真夏</p></td>
@@ -847,7 +701,7 @@ NOGIBINGO5！從2015年7月14日起，每週二凌晨1時29分起至1時59分止
 </tr>
 <tr class="even">
 <td><p>2</p></td>
-<td><p>10月16日[28]</p></td>
+<td><p>10月16日[32]</p></td>
 <td><p>与田祐希，不再忍耐小矮马！<br />
 （）</p></td>
 <td><p>与田祐希</p></td>
@@ -857,7 +711,7 @@ NOGIBINGO5！從2015年7月14日起，每週二凌晨1時29分起至1時59分止
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
-<td><p>10月23日[29]</p></td>
+<td><p>10月23日[33]</p></td>
 <td><p>星野南，不再忍耐青春学院祭！<br />
 （）</p></td>
 <td><p>星野南</p></td>
@@ -867,7 +721,7 @@ NOGIBINGO5！從2015年7月14日起，每週二凌晨1時29分起至1時59分止
 </tr>
 <tr class="even">
 <td><p>4</p></td>
-<td><p>10月30日[30]</p></td>
+<td><p>10月30日[34]</p></td>
 <td><p>若月佑美，不再忍耐发Instagram！<br />
 （）</p></td>
 <td><p>若月佑美</p></td>
@@ -877,17 +731,17 @@ NOGIBINGO5！從2015年7月14日起，每週二凌晨1時29分起至1時59分止
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
-<td><p>11月6日[31]</p></td>
+<td><p>11月6日[35]</p></td>
 <td><p>生田絵梨花，不再忍耐地瓜！<br />
 （）</p></td>
 <td><p>生田絵梨花</p></td>
-<td><p>伊藤理理杏、松村沙友理、渡边迷离爱</p></td>
+<td><p>伊藤理理杏、松村沙友理、渡邊米麗愛</p></td>
 <td><p>生田絵梨花频道<br />
-伊藤理理杏、松村沙友理、渡边迷离愛</p></td>
+伊藤理理杏、松村沙友理、渡邊米麗愛</p></td>
 </tr>
 <tr class="even">
 <td><p>6</p></td>
-<td><p>11月13日[32]</p></td>
+<td><p>11月13日[36]</p></td>
 <td><p>高山一实，不再忍耐鹅肝！<br />
 （）</p></td>
 <td><p>高山一实</p></td>
@@ -897,7 +751,7 @@ NOGIBINGO5！從2015年7月14日起，每週二凌晨1時29分起至1時59分止
 </tr>
 <tr class="odd">
 <td><p>7</p></td>
-<td><p>11月20日[33]</p></td>
+<td><p>11月20日[37]</p></td>
 <td><p>齋藤飛鳥，不再忍耐独居时尚家电！<br />
 （）</p></td>
 <td><p>齋藤飛鳥</p></td>
@@ -907,17 +761,17 @@ NOGIBINGO5！從2015年7月14日起，每週二凌晨1時29分起至1時59分止
 </tr>
 <tr class="even">
 <td><p>8</p></td>
-<td><p>11月27日[34]</p></td>
+<td><p>11月27日[38]</p></td>
 <td><p>堀未央奈，不再忍耐猴子！<br />
 （）</p></td>
 <td><p>堀未央奈</p></td>
 <td><p>中田花奈、渡边迷离爱、岩本蓮加</p></td>
 <td><p>堀未央奈频道<br />
-中田花奈、渡边迷离爱、岩本蓮加</p></td>
+中田花奈、渡邊米麗愛、岩本蓮加</p></td>
 </tr>
 <tr class="odd">
 <td><p>9</p></td>
-<td><p>12月4日[35]</p></td>
+<td><p>12月4日[39]</p></td>
 <td><p>白石麻衣，不再忍耐孩子们！<br />
 （）</p></td>
 <td><p>白石麻衣</p></td>
@@ -927,7 +781,7 @@ NOGIBINGO5！從2015年7月14日起，每週二凌晨1時29分起至1時59分止
 </tr>
 <tr class="even">
 <td><p>10</p></td>
-<td><p>12月11日[36]</p></td>
+<td><p>12月11日[40]</p></td>
 <td><p>松村沙友理，不再忍耐肉类攀岩！<br />
 （）</p></td>
 <td><p>style="white-space:nowrap|松村沙友理</p></td>
@@ -937,7 +791,7 @@ NOGIBINGO5！從2015年7月14日起，每週二凌晨1時29分起至1時59分止
 </tr>
 <tr class="odd">
 <td><p>11</p></td>
-<td><p>style="white-space:nowrap|12月18日[37]</p></td>
+<td><p>style="white-space:nowrap|12月18日[41]</p></td>
 <td><p>西野七濑，不再忍耐西葛西！<br />
 （）</p></td>
 <td><p>西野七濑</p></td>
@@ -979,13 +833,13 @@ NOGIBINGO5！從2015年7月14日起，每週二凌晨1時29分起至1時59分止
   - 企画制作：日本电视台
   - 製作著作：《NOGIBINGO\!10》製作委員会
 
-## 主題曲、插曲
+## 片头曲
 
   - NOGIBINGO\!開場曲：《[女生规则](../Page/Girls'_Rule.md "wikilink")》
   - NOGIBINGO\!2開場曲：《[髮夾](../Page/髮夾_\(單曲\).md "wikilink")》（2014年1月11日 - 1月25日、2月8日 - 3月22日）、《[女生规则](../Page/Girls'_Rule.md "wikilink")》（2014年2月1日）
   - NOGIBINGO\!3開場曲：《[第幾次的藍天？](../Page/第幾次的藍天？.md "wikilink")》
 
-注：从第四季（NOGIBINGO4！）开始，节目不再使用组合发行的单曲作为片头曲。
+注：从第四季（NOGIBINGO4\!）开始，节目不再使用组合发行的单曲作为片头曲。
 
 ## 內部連結
 
@@ -1001,61 +855,62 @@ NOGIBINGO5！從2015年7月14日起，每週二凌晨1時29分起至1時59分止
 
 ## 外部連結
 
-  - [第一季节目官方網站](http://www.ntv.co.jp/NOGIBINGO/)
+  - [节目官方網站](http://www.ntv.co.jp/NOGIBINGO/)
 
+  -
 [Category:日本電視台深夜節目](https://zh.wikipedia.org/wiki/Category:日本電視台深夜節目 "wikilink") [Category:日本電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:日本電視台綜藝節目 "wikilink") [Category:2013年日本電視節目](https://zh.wikipedia.org/wiki/Category:2013年日本電視節目 "wikilink") [Category:2014年日本電視節目](https://zh.wikipedia.org/wiki/Category:2014年日本電視節目 "wikilink") [Category:2015年日本電視節目](https://zh.wikipedia.org/wiki/Category:2015年日本電視節目 "wikilink") [Category:2016年日本電視節目](https://zh.wikipedia.org/wiki/Category:2016年日本電視節目 "wikilink") [Category:2017年日本電視節目](https://zh.wikipedia.org/wiki/Category:2017年日本電視節目 "wikilink") [Category:2018年日本電視節目](https://zh.wikipedia.org/wiki/Category:2018年日本電視節目 "wikilink") [Category:乃木坂46電視節目](https://zh.wikipedia.org/wiki/Category:乃木坂46電視節目 "wikilink")
 
-1.  。
+1.
 
 2.
 
 3.
 
 4.
+
 5.
+
 6.
 
 7.
+
 8.
 
-9.
+9.  。
 
 10.
 
-11. 。
+11.
 
 12.
-
 13.
-
-14. [NOGIBINGO\!8](http://www.ntv.co.jp/NOGIBINGO/)，網頁最下方介紹欄。
+14.
 
 15.
-
 16.
+
 17.
+
 18.
 
-19.
+19. 。
+
 20.
 
 21.
 
 22.
-
-23. 相澤→2017年12月5日 -。
+23.
 
 24.
 
 25.
 26.
-
 27.
 
 28.
 
 29.
-
 30.
 
 31.
@@ -1071,3 +926,11 @@ NOGIBINGO5！從2015年7月14日起，每週二凌晨1時29分起至1時59分止
 36.
 
 37.
+
+38.
+
+39.
+
+40.
+
+41.

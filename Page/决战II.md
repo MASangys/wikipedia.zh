@@ -41,7 +41,7 @@
   - [夏侯惇](../Page/夏侯惇.md "wikilink")**（声：[山本圭一郎](https://zh.wikipedia.org/wiki/山本圭一郎 "wikilink")）**-字元让，曹操配下大将。
   - [夏侯渊](../Page/夏侯渊.md "wikilink")**（声：[挂川裕彦](https://zh.wikipedia.org/wiki/挂川裕彦 "wikilink")）**-字妙才，曹操配下大将。在博望坡被张飞击败，战死。
   - [夏侯霸](../Page/夏侯霸.md "wikilink")**（声：[吉水孝宏](../Page/吉水孝宏.md "wikilink")）**-字仲权，曹操配下大将，夏侯渊的長子，父亲死后为父亲报仇雪恨，对张飞仇恨万分。
-  - 虎稚**（声：[野田顺子](https://zh.wikipedia.org/wiki/野田顺子 "wikilink")）**-原名[许诸](https://zh.wikipedia.org/wiki/许诸 "wikilink")，字仲康,曹操配下猛将。
+  - 虎稚**（声：[野田顺子](https://zh.wikipedia.org/wiki/野田顺子 "wikilink")）**-原名[許褚](https://zh.wikipedia.org/wiki/許褚 "wikilink")，字仲康,曹操配下猛将。
   - [郭嘉](../Page/郭嘉.md "wikilink")**（声：[山本圭一郎](https://zh.wikipedia.org/wiki/山本圭一郎 "wikilink")）**-字奉孝，曹操的军师之一。
   - 荀郁**（声：[岛本须美](https://zh.wikipedia.org/wiki/岛本须美 "wikilink")）**-原名[荀彧](../Page/荀彧.md "wikilink")，字文若，曹操的军师之一。
   - [张辽](https://zh.wikipedia.org/wiki/张辽 "wikilink")**（声：[田中秀幸](../Page/田中秀幸.md "wikilink")）**-字文遠，原本为吕布配下大将，后来受到关羽的说服，并加入曹操军。

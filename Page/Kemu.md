@@ -1,8 +1,8 @@
-**Kemu**是[日本](../Page/日本.md "wikilink")[音樂家](https://zh.wikipedia.org/wiki/音樂家 "wikilink")，主要以[VOCALOID](../Page/VOCALOID.md "wikilink")來創作歌曲，並上傳到[NICONICO動畫](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")。其上傳的九首歌曲全部達成百萬再生，成為唯一一名全曲傳說的製作人。 曾與漫畫家[矢吹健太朗](../Page/矢吹健太朗.md "wikilink")的前妻柏木志保發生不倫戀引起軒然大波。\[1\]。
+**Kemu**是[日本](../Page/日本.md "wikilink")[音樂家](https://zh.wikipedia.org/wiki/音樂家 "wikilink")，主要以[VOCALOID](../Page/VOCALOID.md "wikilink")來創作歌曲，並上傳到[NICONICO動畫](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")。其上傳的九首歌曲全部達成百萬再生，成為唯一一名全曲傳說的製作人。
 
 ## 介绍
 
-2011年11月7日，kemu于[NICONICO动画初次投稿的GUMI原创曲](https://zh.wikipedia.org/wiki/NICONICO动画 "wikilink")《人生重置键》（）\[2\]。此曲[BPM接近](../Page/速度_\(音樂\).md "wikilink")200，投稿后很快就被加上“期待的新人”的tag且引发了轰动，并在短时间内成为VOCALOID殿堂曲。也因此一跃成为令人瞩目的新人音乐制作人。 在这之后，由他制作的第2～4篇作品\[3\]\[4\]\[5\]皆获得超过百万次的观看数，使其成为NICONICO动画史上第八位有四首曲子达成此一目标的音乐制作人；於NICONICO投稿的6首歌曲（至《神明发条》（），皆獲得週刊VOCALOID排行榜第一名。
+2011年11月7日，kemu于[NICONICO动画初次投稿的GUMI原创曲](https://zh.wikipedia.org/wiki/NICONICO动画 "wikilink")《人生重置键》（）\[1\]。此曲[BPM接近](../Page/速度_\(音樂\).md "wikilink")200，投稿后很快就被加上“期待的新人”的tag且引发了轰动，并在短时间内成为VOCALOID殿堂曲。也因此一跃成为令人瞩目的新人音乐制作人。 在这之后，由他制作的第2～4篇作品\[2\]\[3\]\[4\]皆获得超过百万次的观看数，使其成为NICONICO动画史上第八位有四首曲子达成此一目标的音乐制作人；於NICONICO投稿的6首歌曲（至《神明发条》（），皆獲得週刊VOCALOID排行榜第一名。
 
 投稿了第八首歌《敗北的少年》（）之後，暫停活動。
 
@@ -10,7 +10,7 @@ kemu的曲风偏快并带有强烈的电子音效，词曲皆带有浓烈的人�
 
 kemu實際上隸屬於「KEMU VOXX」同人社團，主要成員有kemu（音樂）、ke-sanβ（ＰＶ）、（繪畫）、（SMC/已引退）。2012年一月十日成立。
 
-2017年5月31號，也是kemu本人生日當天，投稿《敬啟 我的分身》（）\[6\]，重啟活動並同時對外承認了以堀江晶太之名活躍於PENGUIN RESEARCH和以kemu之名投稿於網路的v家p主皆為他本人\[7\]。
+2017年5月31號，也是kemu本人生日當天，投稿《敬啟 我的分身》（）\[5\]，重啟活動並同時對外承認了以堀江晶太之名活躍於PENGUIN RESEARCH和以kemu之名投稿於網路的v家p主皆為他本人\[6\]。
 
 ## 歌曲
 
@@ -215,7 +215,7 @@ kemu的第二張專輯，有分為三種版本販賣：兩張CD的版本；其�
     7.
 ## 真实身份
 
-  - ，作曲家，曾为写过ED。于2012年8月17日在animate网上证实了他的身份\[8\]。
+  - ，作曲家，曾为写过ED。于2012年8月17日在animate网上证实了他的身份\[7\]。
 
 <!-- end list -->
 
@@ -231,11 +231,10 @@ kemu的第二張專輯，有分為三種版本販賣：兩張CD的版本；其�
 
 [Category:使用Vocaloid的歌曲](https://zh.wikipedia.org/wiki/Category:使用Vocaloid的歌曲 "wikilink") [Category:日本作曲家](https://zh.wikipedia.org/wiki/Category:日本作曲家 "wikilink") [Category:使用Vocaloid的音樂家](https://zh.wikipedia.org/wiki/Category:使用Vocaloid的音樂家 "wikilink") [Category:日本音樂家](https://zh.wikipedia.org/wiki/Category:日本音樂家 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:NICONICO動畫](https://zh.wikipedia.org/wiki/Category:NICONICO動畫 "wikilink") [Category:Vocaloid傳說曲](https://zh.wikipedia.org/wiki/Category:Vocaloid傳說曲 "wikilink")
 
-1.  [kemu(ボカロP)の正体が矢吹健太朗の元嫁の不倫相手と判明して炎上](http://sakkuto.com/archives/5226)
-2.  [【GUMI】 人生リセットボタン 【オリジナル曲・PV付】](http://www.nicovideo.jp/watch/sm16110005)
-3.  [【GUMI・鏡音リン】 インビジブル 【オリジナル曲・PV付】](http://www.nicovideo.jp/watch/sm16474954)
-4.  [【GUMI】 イカサマライフゲイム 【オリジナル・PV付】](http://www.nicovideo.jp/watch/sm16915126)
-5.  [【IA】六兆年と一夜物語【オリジナル曲・PV付】](http://www.nicovideo.jp/watch/sm17520775)
-6.  [【GUMI】拝啓ドッペルゲンガー【KEMU VOXX】](http://www.nicovideo.jp/watch/sm31314079)
-7.  [「kemu」名義、および「堀江晶太」名義両方のアカウントとさせてください。](https://twitter.com/kemu8888/status/869918185453043713)
-8.  [星空へ架かる橋AA（ダブルエー）』ＯＰ曲/ＥＤ曲公開中！](http://hoshikaka.jp/aa_download.html)
+1.  [【GUMI】 人生リセットボタン 【オリジナル曲・PV付】](http://www.nicovideo.jp/watch/sm16110005)
+2.  [【GUMI・鏡音リン】 インビジブル 【オリジナル曲・PV付】](http://www.nicovideo.jp/watch/sm16474954)
+3.  [【GUMI】 イカサマライフゲイム 【オリジナル・PV付】](http://www.nicovideo.jp/watch/sm16915126)
+4.  [【IA】六兆年と一夜物語【オリジナル曲・PV付】](http://www.nicovideo.jp/watch/sm17520775)
+5.  [【GUMI】拝啓ドッペルゲンガー【KEMU VOXX】](http://www.nicovideo.jp/watch/sm31314079)
+6.  [「kemu」名義、および「堀江晶太」名義両方のアカウントとさせてください。](https://twitter.com/kemu8888/status/869918185453043713)
+7.  [星空へ架かる橋AA（ダブルエー）』ＯＰ曲/ＥＤ曲公開中！](http://hoshikaka.jp/aa_download.html)

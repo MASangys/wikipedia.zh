@@ -1421,6 +1421,10 @@ Kendy回港後，曾獲得《柏斯琴行原創歌曲大賽》的亞軍，並簽
 <td><p>2019年8月25日</p></td>
 <td><p>中環海濱活動空間《The Gaarden X 賞想文創節》</p></td>
 </tr>
+<tr class="odd">
+<td><p>2019年8月29日</p></td>
+<td><p>灣仔合和中心 1563 at the East 馮顈琪 《再彳亍》音樂分享會</p></td>
+</tr>
 </tbody>
 </table>
 

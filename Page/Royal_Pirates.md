@@ -241,7 +241,7 @@
 <tr class="even">
 <td><p>2014年7月11日</p></td>
 <td><p>SBS</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/叢林的法則" title="wikilink">叢林的法則</a> in 印度洋</p></td>
+<td><p><a href="../Page/叢林的法則.md" title="wikilink">叢林的法則</a> in 印度洋</p></td>
 <td><p>James</p></td>
 <td><p>已播畢，共9集</p></td>
 </tr>

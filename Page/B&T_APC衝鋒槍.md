@@ -135,7 +135,7 @@ APC556突擊步槍型是APC9衝鋒槍的[5.56×45毫米](../Page/5.56×45mm_NATO
 
 <references />
 
-  - —[Brügger & Thomet官方網站](http://www.bt-ag.ch/en/manufacturing/firearms/apc_carbine.php)
+  - —[Brügger & Thomet官方網站](https://web.archive.org/web/20120128121235/http://www.bt-ag.ch/en/manufacturing/firearms/apc_carbine.php)
 
   - —[Modern Firearms—B\&T Advanced Police Carbine / APC submachine gun](http://world.guns.ru/smg/switch/bt-apc-submachine-gun-e.html)
 

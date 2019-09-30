@@ -121,6 +121,12 @@
 
   - [韩国放送公社](https://zh.wikipedia.org/wiki/韩国放送公社 "wikilink")（KBS）
 
+## 外部链接
+
+  - [KBS 편성표](http://schedule.kbs.co.kr/)－KBS 節目表
+  - [U-KBS HEART 편성표](https://web.archive.org/web/20101104045839/http://www.kbs.co.kr/dmb/channel/heart.html)
+  - [KBS 제2TV 라이브](http://kbs2live.web.fc2.com/kbs2.html)－流媒体现场直播
+
 [分类:韩国放送公社电视频道](https://zh.wikipedia.org/wiki/分类:韩国放送公社电视频道 "wikilink")
 
 1.  [KBS 7일부터 광고방송](http://dna.naver.com/viewer/index.nhn?articleId=1981030600099211014&editNo=1&printCount=1&publishDate=1981-03-06&officeId=00009&pageNo=11&printNo=4615&publishType=00020) 《[每日经济新闻](https://zh.wikipedia.org/wiki/每日经济新闻 "wikilink")》，1981年3月6日，p. 11

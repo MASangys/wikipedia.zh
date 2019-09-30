@@ -143,7 +143,7 @@ VKontakte是不被[中华人民共和国政府封鎖的境外網站](https://zh.
 
 ### 雇用史諾登
 
-踢爆[美国](../Page/美国.md "wikilink")政府監控計畫的[爱德华·斯诺登](../Page/爱德华·斯诺登.md "wikilink")，由[俄罗斯](../Page/俄罗斯.md "wikilink")知名的[社群網站VKontakte創辦人](../Page/社交網路服務.md "wikilink")[保羅·杜洛夫](../Page/保羅·杜洛夫.md "wikilink")，已公開表示願意雇用[史諾登為該](../Page/爱德华·斯诺登.md "wikilink")[社群網站一員](../Page/社交網路服務.md "wikilink")\[39\]；2013年11月1日，[史諾登正式於VKontakte總部上班](../Page/爱德华·斯诺登.md "wikilink")，並擔任技術維護的工作\[40\]。
+曝光[美国](../Page/美国.md "wikilink")政府監控計畫的[爱德华·斯诺登](../Page/爱德华·斯诺登.md "wikilink")，由[俄罗斯](../Page/俄罗斯.md "wikilink")知名的[社群網站VKontakte創辦人](../Page/社交網路服務.md "wikilink")[保羅·杜洛夫](../Page/保羅·杜洛夫.md "wikilink")，已公開表示願意雇用[史諾登為該](../Page/爱德华·斯诺登.md "wikilink")[社群網站一員](../Page/社交網路服務.md "wikilink")\[39\]；2013年11月1日，[史諾登正式於VKontakte總部上班](../Page/爱德华·斯诺登.md "wikilink")，並擔任技術維護的工作\[40\]。
 
 ### 侵犯版權
 

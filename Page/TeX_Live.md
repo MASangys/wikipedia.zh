@@ -41,7 +41,7 @@ Live可以通过网络或DVD安装，二者所提供的安装文件是完全一�
 
 除了 Live之外，常见的发行套装还有：
 
-  - [MiK](https://zh.wikipedia.org/wiki/MiKTeX "wikilink")：由Christian Schenk开发，包含TeXworks，支持Windows操作系统，目前最新版本是2.9.5105（2014年1月）\[11\]
+  - [MiK](https://zh.wikipedia.org/wiki/MiKTeX "wikilink")：由Christian Schenk开发，包含TeXworks，支持Windows操作系统，目前最新版本是2.9.7152（2019年8月）\[11\]
   - [te](https://zh.wikipedia.org/wiki/teTeX "wikilink")：由Thomas Esser开发，支持类Unix操作系统，已于2006年停止更新\[12\]
   - [fp](https://zh.wikipedia.org/wiki/fpTeX "wikilink")：te在Windows操作系统中的移植版，已停止更新\[13\]
   - [prot](https://zh.wikipedia.org/wiki/proTeXt "wikilink")：由Thomas Feuerstack开发，支持Windows操作系统，实际上是对MiK的再次封装，目前最新版本是3.1.3（2013年6月）\[14\]

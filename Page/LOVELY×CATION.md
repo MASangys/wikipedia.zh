@@ -148,13 +148,6 @@
   -
     出版社：[enterbrain](https://zh.wikipedia.org/wiki/enterbrain "wikilink")　發售日：2015年4月30日　ISBN 978-4-04-730460-4
 
-## 相關條目
-
-  - [LOVELY×CATION2](../Page/LOVELY×CATION2.md "wikilink")
-  - [PRETTY×CATION](../Page/PRETTY×CATION.md "wikilink")
-  - [PRETTY×CATION2](../Page/PRETTY×CATION2.md "wikilink")
-  - [新妻LOVELY×CATION](../Page/新妻LOVELY×CATION.md "wikilink")
-
 ## 評價
 
 《LOVELY×CATION》在日本美少女遊戲與動畫相關商品銷售網站Getchu.com的2011年6月銷量榜上排名第2名\[12\]，7月排名第15名\[13\]，全年排名第17名\[14\]。本作曾获得Getchu[美少女遊戲](../Page/美少女遊戲.md "wikilink")大赏2011综合排名第八名。\[15\][ファミ通](https://zh.wikipedia.org/wiki/ファミ通 "wikilink")1380號的クロスレビュー給PSV版評分為29/40。\[16\]

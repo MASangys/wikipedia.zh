@@ -1907,7 +1907,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/李荷妮" title="wikilink">李荷妮</a></p></td>
+<td><p><a href="../Page/李荷妮.md" title="wikilink">李荷妮</a></p></td>
 <td><p>《<a href="../Page/現代農夫.md" title="wikilink">現代農夫</a>》<br />
 《<a href="../Page/輝煌或瘋狂.md" title="wikilink">輝煌或瘋狂</a>》</p></td>
 <td></td>
@@ -2235,7 +2235,7 @@
 
   - 名稱：**2016 APAN Star Awards**（）
   - 日期：2016年10月2日
-  - 主持人：[申東燁](../Page/申東燁.md "wikilink")、[李荷妮](https://zh.wikipedia.org/wiki/李荷妮 "wikilink")
+  - 主持人：[申東燁](../Page/申東燁.md "wikilink")、[李荷妮](../Page/李荷妮.md "wikilink")
 
 <!-- end list -->
 

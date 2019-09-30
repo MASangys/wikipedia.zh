@@ -191,7 +191,7 @@
 <tr class="odd">
 <td><p><a href="../Page/魯振順.md" title="wikilink">魯振順</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/麥迪文" title="wikilink">麥迪文</a></p></td>
-<td><p><strong>Man哥</strong><br />
+<td><p><strong>Man哥，老麦</strong><br />
 老闆</p></td>
 </tr>
 <tr class="even">

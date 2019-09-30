@@ -258,7 +258,7 @@
 </tr>
 <tr class="odd">
 <td><p>ANOTHER REAL</p></td>
-<td><p>手機遊戲『』主題曲</p></td>
+<td><p>手機遊戲『<a href="https://zh.wikipedia.org/wiki/:魔女兵器" title="wikilink">魔女兵器（Witch's Weapon）</a>』主題曲</p></td>
 <td></td>
 </tr>
 <tr class="even">

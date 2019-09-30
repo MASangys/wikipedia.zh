@@ -1,4 +1,4 @@
-《**Moment**》是女歌手[容祖兒第三十張個人唱片](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")；第七張國語專輯。此專輯由2011年已開始籌備，並邀得不少著名的台灣音樂人參與創作，如[王治平](../Page/王治平.md "wikilink")、[黃韻玲](../Page/黃韻玲.md "wikilink")、[陳小霞](../Page/陳小霞.md "wikilink")、[蔡健雅以及](https://zh.wikipedia.org/wiki/蔡健雅 "wikilink")[吳青峰等](https://zh.wikipedia.org/wiki/吳青峰 "wikilink")。第一主打《正好》於5月6日正式在香港派台，並為她帶來首隻903專業推介及新城勁爆榜國語冠軍歌。此後另外4首歌曲，分別為《霧裏看花》、《活該》、《不好意思我愛你》及《維加斯有點好萊塢》，亦陸續發佈。香港版專輯於2012年7月18日推出\[1\]，而台灣版則於2012年7月23日公開發售。\[2\]
+《**Moment**》是女歌手[容祖兒](../Page/容祖兒.md "wikilink")第三十張個人唱片；第七張國語專輯。此專輯由2011年已開始籌備，並邀得不少著名的台灣音樂人參與創作，如[王治平](../Page/王治平.md "wikilink")、[黃韻玲](../Page/黃韻玲.md "wikilink")、[陳小霞](../Page/陳小霞.md "wikilink")、[蔡健雅以及](https://zh.wikipedia.org/wiki/蔡健雅 "wikilink")[吳青峰等](https://zh.wikipedia.org/wiki/吳青峰 "wikilink")。第一主打《正好》於5月6日正式在香港派台，並為她帶來首隻903專業推介及新城勁爆榜國語冠軍歌。此後另外4首歌曲，分別為《霧裏看花》、《活該》、《不好意思我愛你》及《維加斯有點好萊塢》，亦陸續發佈。香港版專輯於2012年7月18日推出\[1\]，而台灣版則於2012年7月23日公開發售。\[2\]
 
 ## 專輯介紹
 
@@ -186,7 +186,7 @@
   - 碟評︰[守得云开，等月明](http://music.douban.com/review/5517530/)
   - 碟評︰[脫胎換骨，修成正果 ～ 容祖儿《Moment》](http://yuebeifan.wordpress.com/2012/08/13/%E8%84%AB%E8%83%8E%E6%8F%9B%E9%AA%A8%EF%BC%8C%E4%BF%AE%E6%88%90%E6%AD%A3%E6%9E%9C-%EF%BD%9E-%E5%AE%B9%E7%A5%96%E5%84%BF%E3%80%8Amoment%E3%80%8B/)
 
-[Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink") [Category:容祖兒音樂專輯](https://zh.wikipedia.org/wiki/Category:容祖兒音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
+[Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink") [Category:容祖兒音樂專輯](https://zh.wikipedia.org/wiki/Category:容祖兒音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink") [Category:香港流行音乐专辑](https://zh.wikipedia.org/wiki/Category:香港流行音乐专辑 "wikilink")
 
 1.
 2.

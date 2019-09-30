@@ -48,7 +48,7 @@
 <td><p>愛的魔法</p></td>
 <td><p><a href="../Page/千成日.md" title="wikilink">Cheon Seong Il</a><br />
 <a href="https://zh.wikipedia.org/wiki/崔永成" title="wikilink">Choi Yong Seon</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李敏_(香港)" title="wikilink">李敏</a></p></td>
+<td><p><a href="../Page/李敏_(創作人).md" title="wikilink">李敏</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/James_Ting" title="wikilink">James Ting</a></p></td>
 <td><p>James Ting</p></td>
 </tr>

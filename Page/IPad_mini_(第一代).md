@@ -14,7 +14,7 @@ iPad mini 採用7.9吋、1024 × 768 解像度顯示屏，500 萬[像素](../Pag
 
 ## 資料來源
 
-[Category:IPad](https://zh.wikipedia.org/wiki/Category:IPad "wikilink") [Category:2012年面世的平板電腦](https://zh.wikipedia.org/wiki/Category:2012年面世的平板電腦 "wikilink")
+[Category:IPad](https://zh.wikipedia.org/wiki/Category:IPad "wikilink") [Category:2012年面世的平板電腦](https://zh.wikipedia.org/wiki/Category:2012年面世的平板電腦 "wikilink") [Category:IPad_mini](https://zh.wikipedia.org/wiki/Category:IPad_mini "wikilink")
 
 1.
 2.

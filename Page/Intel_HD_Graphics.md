@@ -477,8 +477,9 @@ i5-4200U<br />
 <td><p>rowspan = 2 | HD Graphics 4600</p></td>
 <td><p>桌面平台</p></td>
 <td><p>Core i5-4430<br />
-Core i5-4440<br />
-Core i5-4570<br />
+Core i5-4440 Core i5-4460<br />
+Core i5-4570</p>
+<p>Core i5-4590<br />
 Core i5-4670<br />
 Core i7-4930MX<br />
 Core i7-4700MQ<br />

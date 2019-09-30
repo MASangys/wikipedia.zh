@@ -33,7 +33,7 @@
 
   - 恶魔插绘（Bushiroad）
 
-  - 卡牌绘图（[世嘉公司](https://zh.wikipedia.org/wiki/世嘉公司 "wikilink")）
+  - [戰場女武神 DUEL](../Page/戰場女武神系列.md "wikilink") 卡牌绘图（[世嘉公司](https://zh.wikipedia.org/wiki/世嘉公司 "wikilink")）
 
 ### CD封面绘画
 
@@ -45,6 +45,7 @@
   - 電視動畫[尋找失去的未來](../Page/尋找失去的未來.md "wikilink")（第1話片尾繪圖）
   - 電視動畫[銃皇無盡的法夫納](../Page/銃皇無盡的法夫納.md "wikilink")（第8話片尾繪圖）
   - 電視動畫[絕對雙刃](../Page/絕對雙刃.md "wikilink")（第10話片尾繪圖）
+  - 電視動畫[平凡職業造就世界最強](../Page/平凡職業造就世界最強.md "wikilink")（第10話片尾繪圖）
 
 ## 注释
 

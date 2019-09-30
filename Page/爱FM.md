@@ -651,13 +651,13 @@ Jc 劲程、淑霖</p></td>
 | [登嘉樓](../Page/登嘉樓.md "wikilink")                      | [龍運](https://zh.wikipedia.org/wiki/龍運縣 "wikilink")                                   | 99.7       |
 | [马六甲](../Page/马六甲.md "wikilink")                      | 全部                                                                                   | 100.4      |
 | [柔佛](../Page/柔佛.md "wikilink")                        | 北部                                                                                   | 100.4      |
-| [霹靂](https://zh.wikipedia.org/wiki/霹靂 "wikilink")     | [宜力](https://zh.wikipedia.org/wiki/宜力 "wikilink")                                    | 100.8      |
+| [霹靂](https://zh.wikipedia.org/wiki/霹靂 "wikilink")     | 宜力                                                                                   | 100.0      |
 | [玻璃市](../Page/玻璃市.md "wikilink")                      | 全部                                                                                   | 101.3      |
 | [吉打](../Page/吉打.md "wikilink")                        | 全部                                                                                   | 101.3      |
 | [槟城](../Page/槟城.md "wikilink")                        | 全部                                                                                   | 101.3      |
 | [文莱](https://zh.wikipedia.org/wiki/汶莱 "wikilink")     | 全部                                                                                   | 103.3      |
 | [砂拉越](../Page/砂拉越.md "wikilink")                      | [林梦](../Page/林梦.md "wikilink")/[诗巫](https://zh.wikipedia.org/wiki/诗巫 "wikilink")     | 103.5      |
-| [彭亨](../Page/彭亨.md "wikilink")                        | [金馬崙高原](../Page/金馬崙高原.md "wikilink")                                                 | 103.5      |
+| [彭亨](../Page/彭亨.md "wikilink")                        | [金马伦高原](../Page/金馬崙高原.md "wikilink")                                                 | 103.5      |
 | [柔佛](../Page/柔佛.md "wikilink")                        | 南部                                                                                   | 104.9      |
 | [新加坡](../Page/新加坡.md "wikilink")                      | 104.9                                                                                |            |
 | [砂拉越](../Page/砂拉越.md "wikilink")                      | [斯里阿曼](https://zh.wikipedia.org/wiki/斯里阿曼 "wikilink")/[美里](../Page/美里.md "wikilink") | 105.3      |

@@ -495,7 +495,7 @@
 <a href="../Page/俞承豪.md" title="wikilink">俞承豪</a>（<a href="../Page/君主－假面的主人.md" title="wikilink">君主－假面的主人</a>）<br />
 <a href="../Page/高世元.md" title="wikilink">高世元</a>（<a href="../Page/歸來的福丹芝.md" title="wikilink">歸來的福丹芝</a>）<br />
 <a href="../Page/張赫_(韓國).md" title="wikilink">張赫</a>（<a href="https://zh.wikipedia.org/wiki/金錢之花" title="wikilink">金錢之花</a>）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李荷妮" title="wikilink">李荷妮</a>（<a href="../Page/逆賊：偷百姓的盜賊.md" title="wikilink">逆賊：偷百姓的盜賊</a>）<br />
+<td><p><a href="../Page/李荷妮.md" title="wikilink">李荷妮</a>（<a href="../Page/逆賊：偷百姓的盜賊.md" title="wikilink">逆賊：偷百姓的盜賊</a>）<br />
 <a href="../Page/河智苑.md" title="wikilink">河智苑</a>（<a href="../Page/醫療船_(韓國電視劇).md" title="wikilink">醫療船</a>）<br />
 <a href="../Page/金美京.md" title="wikilink">金美京</a>（<a href="../Page/給予幸福的人.md" title="wikilink">給予幸福的人</a>）<br />
 <a href="../Page/李美淑.md" title="wikilink">李美淑</a>（<a href="https://zh.wikipedia.org/wiki/金錢之花" title="wikilink">金錢之花</a>）</p></td>
@@ -1482,7 +1482,7 @@
 <td><p>女子新人獎</p></td>
 <td><p><a href="../Page/朴孝敏.md" title="wikilink">朴孝敏</a>（<a href="https://zh.wikipedia.org/wiki/阶伯_(电视剧)" title="wikilink">阶伯</a>）<br />
 <a href="../Page/徐玄振.md" title="wikilink">徐玄振</a>（<a href="https://zh.wikipedia.org/wiki/伙伴_(韩国电视剧)" title="wikilink">伙伴</a>）<br />
-<a href="https://zh.wikipedia.org/wiki/李荷妮" title="wikilink">李荷妮</a>（<a href="https://zh.wikipedia.org/wiki/不屈不挠的媳妇" title="wikilink">不屈不挠的媳妇</a>）</p></td>
+<a href="../Page/李荷妮.md" title="wikilink">李荷妮</a>（<a href="https://zh.wikipedia.org/wiki/不屈不挠的媳妇" title="wikilink">不屈不挠的媳妇</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>人气獎</p></td>
@@ -2174,7 +2174,7 @@
 </tr>
 <tr class="even">
 <td><p>女子月火劇最優秀演技獎</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李荷妮" title="wikilink">李荷妮</a>（<a href="../Page/逆賊：偷百姓的盜賊.md" title="wikilink">逆賊：偷百姓的盜賊</a>）</p></td>
+<td><p><a href="../Page/李荷妮.md" title="wikilink">李荷妮</a>（<a href="../Page/逆賊：偷百姓的盜賊.md" title="wikilink">逆賊：偷百姓的盜賊</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>男子迷你劇最優秀演技獎</p></td>

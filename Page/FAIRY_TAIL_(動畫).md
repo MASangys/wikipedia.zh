@@ -53,7 +53,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>第1期</p></td>
+<td><p>第1季</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -191,7 +191,7 @@ Redwood Humberg Jr.</p></td>
 <td><p><a href="../Page/米倉千尋.md" title="wikilink">米倉千尋</a></p></td>
 </tr>
 <tr class="even">
-<td><p>第2期</p></td>
+<td><p>第2季</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -280,7 +280,7 @@ Christofer Erixon</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>第3期</p></td>
+<td><p>最終章</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -322,7 +322,7 @@ J.PARAIZE</p></td>
 <tr class="odd">
 <td><p>26</p></td>
 <td><p><strong>MORE THAN LiKE</strong></p></td>
-<td><p>第316－話</p></td>
+<td><p>第316－327話</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -347,7 +347,7 @@ J.PARAIZE</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>第1期</p></td>
+<td><p>第1季</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -490,7 +490,7 @@ feat. Mayumi Morinaga</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>第2期</p></td>
+<td><p>第2季</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -575,7 +575,7 @@ Charlie Grant</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>第3期</p></td>
+<td><p>最終章</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -613,7 +613,7 @@ Charlie Grant</p></td>
 <tr class="odd">
 <td><p>26</p></td>
 <td><p><strong>Exceed</strong></p></td>
-<td><p>第316－話</p></td>
+<td><p>第316－327話</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3768,6 +3768,34 @@ Kim Ki Yeob</p></td>
 <td><p>325</p></td>
 <td></td>
 <td><p>世界崩壞</p></td>
+<td><p>冨岡淳広</p></td>
+<td><p>高山智也</p></td>
+<td><p>藤崎真吾</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>326</p></td>
+<td></td>
+<td><p>希望的魔法</p></td>
+<td><p>十川誠志</p></td>
+<td><p>石平信司</p></td>
+<td><p>清水一伸</p></td>
+<td><p>正木優太、森悦史<br />
+岡部実、</p></td>
+</tr>
+<tr class="even">
+<td><p>327</p></td>
+<td></td>
+<td><p>相連的心</p></td>
+<td><p>鈴木勇士</p></td>
+<td><p>犬塚正彥</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>328</p></td>
+<td></td>
+<td><p>無可取代的夥伴們</p></td>
 <td></td>
 <td></td>
 <td></td>

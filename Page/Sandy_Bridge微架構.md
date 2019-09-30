@@ -196,7 +196,7 @@ Intel從Sandy Bridge微架構開始，處理器與PCH晶片組、晶片組與各
 
 Intel在Sandy Bridge微架構中還整合了一個名為Intel Insider的[DRM服務](https://zh.wikipedia.org/wiki/DRM "wikilink")，公司宣稱這是“一層額外的內容保護層”。\[24\]
 
-Intel Sandy Bridge微架構處理器均帶有[vPro功能](https://zh.wikipedia.org/wiki/Intel_vPro "wikilink")（需配合支持vPro的Intel芯片组），出於安全目的，該功能可以從遠端停止[PC](../Page/PC.md "wikilink")的使用或者是從磁碟機上擦除資料，這個功能在PC丟失或被盜竊的情況下不失為一個實用的功能，處理器可以透過接受[3G](../Page/3G.md "wikilink")信號、[以太網或者是](https://zh.wikipedia.org/wiki/以太網 "wikilink")[網際網路連線接收這些命令](https://zh.wikipedia.org/wiki/網際網路 "wikilink")；此外新增的AES指令集可以在此時“大展拳腳”，充分展示處理器進行AES[硬體加速](https://zh.wikipedia.org/wiki/硬體加速 "wikilink")[加密](https://zh.wikipedia.org/wiki/加密 "wikilink")/[解密的能力](https://zh.wikipedia.org/wiki/解密 "wikilink")，這對於[企業內部的](https://zh.wikipedia.org/wiki/企業 "wikilink")[電視會議](https://zh.wikipedia.org/wiki/電視會議 "wikilink")、[VoIP](../Page/VoIP.md "wikilink")應用等方面非常實用。\[25\]
+Intel Sandy Bridge微架構處理器均帶有[vPro功能](https://zh.wikipedia.org/wiki/Intel_vPro "wikilink")（需配合支持vPro的Intel芯片组），出於安全目的，該功能可以從遠端停止[PC](../Page/PC.md "wikilink")的使用或者是從磁碟機上擦除資料，這個功能在PC丟失或被盜竊的情況下不失為一個實用的功能，處理器可以透過接受[3G](../Page/3G.md "wikilink")信號、[以太網或者是](https://zh.wikipedia.org/wiki/以太網 "wikilink")[網際網路連線接收這些命令](https://zh.wikipedia.org/wiki/網際網路 "wikilink")；此外新增的AES指令集可以在此時“大展拳腳”，充分展示處理器進行AES[硬體加速](https://zh.wikipedia.org/wiki/硬體加速 "wikilink")[加密](../Page/加密.md "wikilink")/[解密的能力](https://zh.wikipedia.org/wiki/解密 "wikilink")，這對於[企業內部的](https://zh.wikipedia.org/wiki/企業 "wikilink")[電視會議](https://zh.wikipedia.org/wiki/電視會議 "wikilink")、[VoIP](../Page/VoIP.md "wikilink")應用等方面非常實用。\[25\]
 
 ## 繼任微架構
 

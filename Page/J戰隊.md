@@ -543,7 +543,7 @@ JTeam官方於1/9日於JTeam 傳說對決粉絲團發表聲明稿，因對於GCS
 </tr>
 <tr class="even">
 <td><p>JT Aydan</p></td>
-<td></td>
+<td><p>教練</p></td>
 <td><p>1993年11月26日</p></td>
 <td></td>
 <td><p>前為<a href="../Page/One_Team.md" title="wikilink">ONE教練</a></p></td>
@@ -574,7 +574,7 @@ JTeam官方於1/9日於JTeam 傳說對決粉絲團發表聲明稿，因對於GCS
 <td><p>魔龍路</p></td>
 <td><p>1994年9月14日</p></td>
 <td></td>
-<td><p>現為<a href="../Page/MAD_Team.md" title="wikilink">MAD選手</a></p></td>
+<td><p>現為泰國BZ選手</p></td>
 </tr>
 <tr class="odd">
 <td><p>JT Benny</p></td>

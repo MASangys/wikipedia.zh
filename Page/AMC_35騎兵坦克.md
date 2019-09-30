@@ -43,7 +43,7 @@ AMC 35全重14.5噸，安裝一門47mm火炮和7.5mm同軸機槍。最大速度�
 ## 外部連結
 
   - [索米爾裝甲博物館的官方網站](http://www.museedesblindes.fr)
-  - [二戰戰車](http://www.wwiivehicles.com/france/armored-combat-tanks/amc-35.asp)
+  - [二戰戰車](https://web.archive.org/web/20140407005816/http://wwiivehicles.com/france/armored-combat-tanks/amc-35.asp)
   - [一張手繪的AMC 35](http://www.nipic.com/show/4/79/7630239keee104a6.html)
 
 [Category:骑兵坦克](https://zh.wikipedia.org/wiki/Category:骑兵坦克 "wikilink") [Category:輕型坦克](https://zh.wikipedia.org/wiki/Category:輕型坦克 "wikilink") [Category:法國坦克](https://zh.wikipedia.org/wiki/Category:法國坦克 "wikilink") [Category:法國二戰坦克](https://zh.wikipedia.org/wiki/Category:法國二戰坦克 "wikilink") [Category:二戰坦克](https://zh.wikipedia.org/wiki/Category:二戰坦克 "wikilink")

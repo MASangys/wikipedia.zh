@@ -21,7 +21,7 @@ UH-1Y毒液升級了發動機和全數位資料鏈駕駛艙，並加裝[FLIR偵�
 
 ## 参考文献
 
-[Category:美國軍用直升機](https://zh.wikipedia.org/wiki/Category:美國軍用直升機 "wikilink")
+[Category:美國軍用直升機](https://zh.wikipedia.org/wiki/Category:美國軍用直升機 "wikilink") [Category:貝爾航空器](https://zh.wikipedia.org/wiki/Category:貝爾航空器 "wikilink")
 
 1.  [DoD 4120-15L, *Model Designation of Military Aerospace Vehicles*](http://www.dtic.mil/whs/directives/corres/pdf/412015l.pdf). US DoD, 12 May 2004.
 2.

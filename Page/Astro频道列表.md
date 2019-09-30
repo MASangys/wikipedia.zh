@@ -1,6 +1,6 @@
-**Astro频道列表**列出[Astro旗下的所有頻道](https://zh.wikipedia.org/wiki/Astro "wikilink")。\[1\]
+**Astro频道列表**列出[Astro旗下的所有电视频道](https://zh.wikipedia.org/wiki/Astro "wikilink")。\[1\]
 
-## 现有频道
+## Astro所有电视频道
 
 <table>
 <thead>
@@ -15,20 +15,20 @@
 <tr class="odd">
 <td><p>101</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/马来西亚广播电视" title="wikilink">TV1</a></p></td>
-<td></td>
+<td><p>1997年4月1日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/马来西亚广播电视" title="wikilink">马来西亚广播电视</a>（Radio Television Malaysia）的首要频道。</p></td>
 </tr>
 <tr class="even">
 <td><p>102</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/马来西亚广播电视" title="wikilink">TV2</a></p></td>
-<td></td>
+<td><p>1997年4月1日</p></td>
 <td><p>马来西亚广播电视的第二个频道。<br />
 此频道每天播出华语、英语与淡米尔语新闻，此外还会播放<a href="../Page/好莱坞.md" title="wikilink">好莱坞</a>电影。</p></td>
 </tr>
 <tr class="odd">
 <td><p>103</p></td>
 <td><p><a href="../Page/TV3_(马来西亚).md" title="wikilink">TV3</a></p></td>
-<td></td>
+<td><p>1998年3月1日</p></td>
 <td><p><a href="../Page/首要媒体.md" title="wikilink">首要媒体</a>（Media Prima）旗下的马来語频道，也有播放<a href="../Page/好莱坞.md" title="wikilink">好莱坞</a>电影，少许英语节目和部分的中文电影。</p></td>
 </tr>
 <tr class="even">
@@ -53,13 +53,13 @@
 <td><p>107</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/NTV7" title="wikilink">NTV7</a></p></td>
 <td><p>2002年4月7日</p></td>
-<td><p>首要媒体旗下的英语频道，也播出韩国节目，华语新闻和韩国电视剧和英语节目</p></td>
+<td><p>从2018年12月31日起NTV7正式改为全华语频道和播出的全新节目时段CJ WOW SHOP(中文版)。从2019年1月1日起首要媒体旗下的华语频道，也播出韩国节目，华语节目(八度空间节目重播)和韩国电视剧，少许英语节目，英语新闻，马来语节目和马来语新闻。</p></td>
 </tr>
 <tr class="even">
-<td><p>108<sub>HD</sub></p></td>
+<td><p>108<sub>HD</sub> (10月1日起即将停播，由Colors Hindi HD取代)</p></td>
 <td></td>
 <td><p>2016年10月19日</p></td>
-<td><p>本高清频道播出<a href="../Page/宝莱坞.md" title="wikilink">宝莱坞</a>綜合娛樂頻道，嚴選印度四大電視台精選節目。</p></td>
+<td><p>本高清频道播出<a href="../Page/宝莱坞.md" title="wikilink">宝莱坞</a>綜合娛樂頻道，嚴選印度四大電視台精選節目。(由于收视率下跌的问题，Tara HD频道将在2019年10月1日起停播，由Colors Hindi HD取代)。</p></td>
 </tr>
 <tr class="odd">
 <td><p>109</p></td>
@@ -76,7 +76,7 @@
 <tr class="odd">
 <td><p>111</p></td>
 <td></td>
-<td></td>
+<td><p>1997年</p></td>
 <td><p>来自<a href="../Page/中东.md" title="wikilink">中东</a>的<a href="https://zh.wikipedia.org/wiki/阿拉伯语" title="wikilink">阿拉伯语频道</a>。</p></td>
 </tr>
 <tr class="even">
@@ -89,7 +89,7 @@
 <td><p>118<sub>HD</sub></p></td>
 <td><p>Astro GO Shop HD（马来语版）</p></td>
 <td><p>2014年11月1日</p></td>
-<td><p>本频道是高清频道，让用户进行电视购物。</p></td>
+<td><p>本频道是高清频道，让用户进行电视购物，Go Shop和Astro开办电视购物频道，另外MYTV Broadcasting/MyFreeview频道120(HD)也有同步播出，Astro是一个付费频道和首次推出在MYTV Broadcasting/MyFreeview的免费地面数码电视广播频道。</p></td>
 </tr>
 <tr class="even">
 <td><p>119</p></td>
@@ -101,7 +101,7 @@
 <td><p>120</p></td>
 <td><p>Astro GO Shop（马来语版）</p></td>
 <td><p>2017年10月9日</p></td>
-<td><p>本频道是标清频道，让用户进行电视购物。</p></td>
+<td><p>本频道是标清频道，让用户进行电视购物，Go Shop和Astro开办电视购物频道。</p></td>
 </tr>
 <tr class="even">
 <td><p>121<sub>HD</sub></p></td>
@@ -142,7 +142,7 @@
 <tr class="even">
 <td><p>130<sub>HD</sub></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Astro_Box_Office_Movies_Tayangan_Hebat" title="wikilink">Astro Box Office Movies Tayangan Hebat</a></p></td>
-<td></td>
+<td><p>2013年</p></td>
 <td><p>本频道播出最新<a href="../Page/马来语.md" title="wikilink">马来语</a>、<a href="https://zh.wikipedia.org/wiki/华语" title="wikilink">华语</a>、<a href="../Page/英语.md" title="wikilink">英语</a>、<a href="../Page/泰语.md" title="wikilink">泰语</a>及<a href="../Page/日语.md" title="wikilink">日语</a>电影。</p></td>
 </tr>
 <tr class="odd">
@@ -214,7 +214,7 @@
 <tr class="even">
 <td><p>214</p></td>
 <td></td>
-<td></td>
+<td><p>2013年</p></td>
 <td><p>本频道播出<a href="../Page/印度.md" title="wikilink">印度</a>喜剧。</p></td>
 </tr>
 <tr class="odd">
@@ -256,7 +256,7 @@
 <tr class="odd">
 <td><p>233<sub>HD</sub></p></td>
 <td><p>Colors Tamil HD</p></td>
-<td><p>2018年11月15日</p></td>
+<td><p>2018年9月19日</p></td>
 <td><p>Colors Tamil HD是在2018年2月份在印度成功推出的新產品。這是一個24小時的泰米爾娛樂頻道，專為捕捉泰米爾納德邦的獨特色彩而設計，包括各種小說，非小說和真人秀節目。</p></td>
 </tr>
 <tr class="even">
@@ -268,13 +268,13 @@
 <tr class="odd">
 <td><p>241<sub>HD</sub></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Astro_Box_Office_Movies_Thangathirai" title="wikilink">Astro Box Office Movies Thangathirai</a></p></td>
-<td></td>
+<td><p>2013年1月31日</p></td>
 <td><p>本频道播出最新淡米尔语电影。</p></td>
 </tr>
 <tr class="even">
 <td><p>251<sub>HD</sub></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Astro_Box_Office_Bollyone_HD" title="wikilink">Astro Box Office Bollyone HD</a></p></td>
-<td></td>
+<td><p>2014年1月1日</p></td>
 <td><p>本频道是高清<a href="https://zh.wikipedia.org/wiki/寶萊塢" title="wikilink">寶萊塢電影頻道</a>，于週四播出新電影。</p></td>
 </tr>
 <tr class="odd">
@@ -293,7 +293,7 @@
 <td><p>303<sub>HD</sub></p></td>
 <td><p>Astro GO Shop HD（中文版）</p></td>
 <td><p>2015年10月19日</p></td>
-<td><p>本频道是高清频道，让用户进行电视购物。</p></td>
+<td><p>本频道是高清频道，让用户进行电视购物，Go Shop和Astro开办电视购物频道。</p></td>
 </tr>
 <tr class="even">
 <td><p>305</p></td>
@@ -314,10 +314,10 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>308<sub>HD</sub></p></td>
+<td><p>308<sub>HD</sub>(2020年起即将停播，由优酷频道HD取代)</p></td>
 <td><p><a href="../Page/Astro全佳HD.md" title="wikilink">Astro全佳HD</a></p></td>
 <td><p>2013年1月13日</p></td>
-<td><p>本频道是Astro第二个高清中文频道，二十四小时播出中国节目。</p></td>
+<td><p>本频道是Astro第二个高清中文频道，二十四小时播出中国节目。(由于收视率下跌，Astro全佳HD频道于2020年起停播，由优酷频道HD取代)。</p></td>
 </tr>
 <tr class="even">
 <td><p>309<sub>HD</sub></p></td>
@@ -376,7 +376,7 @@
 <tr class="odd">
 <td><p>321</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/天映经典频道" title="wikilink">天映经典频道</a></p></td>
-<td><p>2014年11月6日</p></td>
+<td><p>2014年11月16日</p></td>
 <td><p>本频道24小时播出经典中文电影，由邵氏製作。</p></td>
 </tr>
 <tr class="even">
@@ -405,7 +405,7 @@
 </tr>
 <tr class="even">
 <td><p>326<sub>HD</sub></p></td>
-<td><p><a href="../Page/翡翠台_(馬來西亞).md" title="wikilink">翡翠台HD</a></p></td>
+<td><p><a href="../Page/翡翠台_(馬來西亞).md" title="wikilink">TVB翡翠台HD</a></p></td>
 <td><p>2016年5月1日</p></td>
 <td><p>本频道是高清粤语频道，播出香港翡翠台的节目。</p></td>
 </tr>
@@ -770,26 +770,26 @@ Fox Action Movies 為追求刺激的觀眾提供日以繼夜無間斷的狂飆�
 <tr class="even">
 <td><p>518</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/CNBC亚洲台" title="wikilink">CNBC Asia</a></p></td>
-<td></td>
-<td><p>本频道是财经新闻频道。</p></td>
+<td><p>1998年2月1日</p></td>
+<td><p>本频道是财经新闻频道，由CNBC制作。</p></td>
 </tr>
 <tr class="odd">
 <td><p>519</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Bloomberg_Television" title="wikilink">Bloomberg Television</a></p></td>
-<td></td>
-<td><p>本频道是<a href="https://zh.wikipedia.org/wiki/彭博社" title="wikilink">彭博社的财经新闻频道</a>。</p></td>
+<td><p>1998年8月1日</p></td>
+<td><p>本频道是<a href="https://zh.wikipedia.org/wiki/彭博社" title="wikilink">彭博社的财经新闻频道</a>，由Bloomberg制作。</p></td>
 </tr>
 <tr class="even">
 <td><p>521</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Australia_Plus" title="wikilink">Australia Plus</a></p></td>
-<td></td>
+<td><p>2013年8月1日</p></td>
 <td><p>本频道是<a href="https://zh.wikipedia.org/wiki/澳洲" title="wikilink">澳洲的世界新闻频道</a>。</p></td>
 </tr>
 <tr class="odd">
 <td><p>531<sub>HD</sub></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/CNN国际新闻网络" title="wikilink">CNN International</a> HD</p></td>
-<td></td>
-<td><p>本频道是<a href="../Page/美国.md" title="wikilink">美国</a>的高清世界新闻频道，由CNN製作,与CNN同步播出。</p></td>
+<td><p>2019年5月18日</p></td>
+<td><p>本频道是<a href="../Page/美国.md" title="wikilink">美国</a>的高清世界新闻频道，由CNN製作，与CNN同步播出。</p></td>
 </tr>
 <tr class="even">
 <td><p>532<sub>HD</sub></p></td>
@@ -799,7 +799,7 @@ Fox Action Movies 為追求刺激的觀眾提供日以繼夜無間斷的狂飆�
 </tr>
 <tr class="odd">
 <td><p>533<sub>HD</sub></p></td>
-<td><p><a href="../Page/亚洲新闻台.md" title="wikilink">Channel NewsAsia HD</a></p></td>
+<td><p><a href="../Page/亚洲新闻台.md" title="wikilink">CNA HD</a></p></td>
 <td><p>2018年8月1日</p></td>
 <td><p>本频道是<a href="../Page/新加坡.md" title="wikilink">新加坡</a>的高清世界新闻频道，由<a href="../Page/新加坡.md" title="wikilink">新加坡</a><a href="../Page/新传媒私人有限公司.md" title="wikilink">新传媒私人有限公司</a>製作。</p></td>
 </tr>
@@ -840,208 +840,220 @@ Fox Action Movies 為追求刺激的觀眾提供日以繼夜無間斷的狂飆�
 <td><p>動物星球頻道來透視動物之間的歷險故事、趣事、社交，以至死亡經優。動物生態真實呈現，必然讓觀眾無法轉睛。</p></td>
 </tr>
 <tr class="even">
-<td><p>571<sub>HD</sub></p></td>
-<td><p><a href="../Page/Discovery_Asia.md" title="wikilink">Discovery Asia</a></p></td>
-<td></td>
-<td><p>Discovery Asia讓你重新發現亞洲。不論是豐饒歷史、野性大自然或是多元文化，Discovery Asia邀你踏上亞洲深度之旅，體驗最好、最美、最奇妙的時刻。節目內容從野生動物保育到撼動人心的人物故事，從社會改革者到建築奇觀，Discovery Asia帶著你一國國遊覽全亞洲，探索亞洲獨特風貌。</p></td>
+<td><p>570<sub>HD</sub></p></td>
+<td><p>Nat Geo Wild HD</p></td>
+<td><p>2019年3月1日</p></td>
+<td><p>Nat Geo Wild高清版本。</p></td>
 </tr>
 <tr class="odd">
+<td><p>571<sub>HD</sub></p></td>
+<td><p><a href="../Page/Discovery_Asia.md" title="wikilink">Discovery Asia</a></p></td>
+<td><p>2011年5月</p></td>
+<td><p>Discovery Asia讓你重新發現亞洲。不論是豐饒歷史、野性大自然或是多元文化，Discovery Asia邀你踏上亞洲深度之旅，體驗最好、最美、最奇妙的時刻。節目內容從野生動物保育到撼動人心的人物故事，從社會改革者到建築奇觀，Discovery Asia帶著你一國國遊覽全亞洲，探索亞洲獨特風貌。</p></td>
+</tr>
+<tr class="even">
 <td><p>573<sub>HD</sub></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/National_Geographic_Channel" title="wikilink">National Geographic Channel HD</a></p></td>
 <td><p>2009年12月18日</p></td>
 <td><p>國家地理頻道為觀眾帶來優質和創新的電視節目，展現世界各地關於科學、探險、歷奇、野生動物、旅遊和民族的面貌，與國家地理頻道同步播出。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>575<sub>HD</sub></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/History_Channel" title="wikilink">History HD</a></p></td>
 <td><p>2009年12月18日</p></td>
 <td><p>HISTORY™專題介紹歷史有關節目，以客觀態度及趣味性手法，將人類過去、現在、 甚至未來片段呈獻給觀眾，造就歷史每一天，与History同步播出。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>601</p></td>
 <td></td>
 <td><p>2010年12月9日</p></td>
 <td><p>本频道是为<a href="https://zh.wikipedia.org/wiki/小六评估考试" title="wikilink">小六评估考试</a>（UPSR）应考生设立的教育频道。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>602</p></td>
 <td></td>
 <td><p>2011年5月1日</p></td>
 <td><p>本频道是为<a href="../Page/中三评估.md" title="wikilink">中三评估</a>（PT3）应考生设立的教育频道。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>603</p></td>
 <td></td>
 <td><p>本频道是为<a href="https://zh.wikipedia.org/wiki/马来西亚教育文凭" title="wikilink">马来西亚教育文凭</a>（SPM）应考生设立的教育频道。</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>610</p></td>
 <td></td>
 <td><p>2003年1月1日</p></td>
 <td><p>本频道是马来西亚的学习及教育频道。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>611</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Astro_Ceria" title="wikilink">Astro Ceria</a></p></td>
 <td><p>2006年8月31日</p></td>
 <td><p>24小時馬來西亞唯一兒童娛樂頻道，帶來馬來語發音動畫和自製兒童娛樂綜藝節目。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>612</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Nickelodeon" title="wikilink">Nickelodeon</a></p></td>
 <td></td>
 <td><p>Nickelodeon以7-14歲的兒童為目標，遵循“將孩子放在第一位”的理念，節目編排從孩子角度出發，鼓勵正面價值觀如友誼、團隊合作、家庭和尊重，內容包括掀起動畫熱潮的《海綿寶寶》、《忍者龜》等，還有真人騷及具教育性的學齡前節目。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>613</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Disney_Junior_(亚洲)" title="wikilink">Disney Junior</a></p></td>
 <td></td>
 <td><p>Disney Junior是亞洲地區第二大頻道，專為2 – 7歲兒童及其家庭而設的頻道，其節目內容精彩生動，並以兒童學習為本。Disney Junior 反映不同年代的觀眾對經典及全新迪士尼故事及角色的情意結，誠邀父母及祖父母與孩子一起體驗迪士尼奇妙旅程。Disney Junior的節目巧妙地把學習元素揉合到迪士尼的說故事手法及深受大眾歡迎的故事角色中，當中除包括基本知識，如簡單數學及語言技巧外，更著重兒童的社交及情緒發展。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>615</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Disney_Channel_(亚洲)" title="wikilink">Disney Channel</a></p></td>
 <td></td>
 <td><p>Disney Channel是迪士尼亞洲地區旗艦兒童頻道，提供高質素的電視娛樂與原創節目，包括迪士尼享有盛名的經典動畫片、卡通片集、各類特備節目、喜劇、家庭劇集及動作冒險電影等。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>616</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Cartoon_Network" title="wikilink">Cartoon Network</a></p></td>
 <td></td>
 <td><p>Cartoon Network為小朋友帶來有趣的喜劇和刺激的冒險故事電視節目，播放全球熱門的卡通系列，包括Adventure Time, Oggy and the Cockroaches, The Amazing World of Gumball, 以及廣受歡迎的合家歡節目Scooby-Doo和風靡全球的Ben 10系列，讓小朋友的生活增添無窮樂趣！</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>618</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/BabyTV" title="wikilink">BabyTV</a></p></td>
 <td></td>
 <td><p>Baby TV 是福斯國際電視網旗下專為四歲以下的幼童和嬰兒而製作的電視頻道，完全不設廣告，無間斷播放一系列高質素的電視節目。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>637<sub>HD</sub></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Disney_XD" title="wikilink">Disney XD HD</a></p></td>
 <td><p>2012年9月15日</p></td>
 <td><p>Disney XD HD是亞洲地區第三大頻道，一個以男孩為目標，包容女孩的頻道，面向6至14歲的兒童（6歲至11歲的男孩）。通過漫威的複仇者聯盟，綠巨人和S.M.A.S.H.，終極蜘蛛俠和蘭迪坎寧安的代理等節目，Disney XD HD帶著青年們走上了一段旅程，在這段旅程中，他們發現自己的優勢並享受酷酷，不可阻擋的樂趣。观看时可转换播放语言（马来语／英语／华语／淡米尔语）。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>701</p></td>
 <td><p><a href="../Page/AXN.md" title="wikilink">AXN</a></p></td>
 <td></td>
 <td><p>神秘懸疑。引人入勝。緊湊刺激。AXN是亞洲首屈一指的大眾娛樂頻道，獨家播放熱門電視劇、賣座強片、實境節目和革新的原創作品緊貼美國播放。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>702</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Diva" title="wikilink">Diva</a></p></td>
 <td></td>
 <td><p>DIVA 是取悅女性的頻道，它熱情、開朗、跳脫，同時感情豐富、剛烈又溫情洋溢。頻道呈獻大熱劇集、創新真人騷以及令人振奮的精彩電影。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>703</p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/AFC_(Asian_Food_Channel)" title="wikilink">AFC (Asian Food Channel)</a></p></td>
 <td><p>2007年10月13日</p></td>
 <td><p>亞洲美食台全日 24 小時為你呈獻精選飲食節目，並以其地方語言播出，帶你搜羅區內的佳餚美食，讓你食指大動！</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>707</p></td>
 <td><p><a href="../Page/TLC_(電視頻道).md" title="wikilink">TLC</a></p></td>
 <td></td>
 <td><p>TLC帶你探索新世界、嘗盡全新美食，重新設計生活空間，並帶領觀眾重新體驗美好生活的全新頻道。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>708</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/8TV" title="wikilink">8TV</a> （<a href="https://zh.wikipedia.org/wiki/八度空间" title="wikilink">八度空间</a>）</p></td>
 <td><p>2004年10月1日</p></td>
 <td><p>首要媒体旗下的中文频道。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>711</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/FOX_Life_(亚洲)" title="wikilink">FOX Life</a></p></td>
 <td><p>2017年10月1日</p></td>
 <td><p>FOXlife是亞洲一個高質素的娛樂頻道，致力為廣大女性觀眾及其伴侶送上國際頂尖節目，種類多元，包括連續劇、情境喜劇、實況真人騷、直播頒獎禮及精彩的原創作品。FOXlife觀眾來自全亞洲，覆蓋十五個地區，用戶高達９８００萬。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>712</p></td>
 <td></td>
 <td></td>
 <td><p>一條 24 小時荷里活娛樂資訊頻道。為你貼身追蹤荷里活名人巨星、播放娛樂圈猛料、幕後花絮、及全程直擊荷里活影視樂壇盛事。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>713</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MTV" title="wikilink">MTV Southeast Asia</a></p></td>
 <td></td>
 <td><p>MTV Asia是MTV亞洲地區全天候國際音樂頻道，每天播放歐美和日韓最新MV和轉播MTV音樂頒獎典禮。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>715</p></td>
 <td><p><a href="../Page/Animax_Asia.md" title="wikilink">Animax Asia</a></p></td>
 <td><p>2006年8月31日</p></td>
 <td><p>Animax是亞洲區首個日本動畫頻道，播放的人氣動畫題材包括動作、愛情、恐怖、超自然、搞笑及日常生活，最新動畫緊貼日本同期播出，观看时可转换播放语言（日语/英语/马来语/华语/粤语）和字幕（英语/马来语/中文）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>719<sub>HD</sub></p></td>
 <td><p><a href="../Page/華納電視頻道.md" title="wikilink">Warner TV</a></p></td>
 <td><p>2017年5月1日</p></td>
 <td><p>華納電視頻道匯聚由 Warner Bros. Entertainment 出品之人氣劇集及冠軍猛片，專為亞洲觀眾呈獻熱爆美劇。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>720<sub>HD</sub></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Hits_TV_Asia" title="wikilink">Hits TV Asia</a></p></td>
 <td><p>2014年11月16日</p></td>
 <td><p>HITS ，這個全新的頻道，將過去四十年受歡迎的美國電視節目為您在一個平台播放。收看你喜愛的電視劇。每個星期，同一時間，同一地點，HITS為你連接起經典故事和偶像人物。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>721<sub>HD</sub></p></td>
 <td><p><a href="../Page/AXN.md" title="wikilink">AXN HD</a></p></td>
 <td><p>2010年6月16日</p></td>
 <td><p>AXN的高清版本。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>722<sub>HD</sub></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/FOX_Life_(亚洲)" title="wikilink">FOX Life HD</a></p></td>
 <td><p>2017年10月1日</p></td>
-<td><p>FOX Life高清版</p></td>
+<td><p>FOX Life高清版本。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>723<sub>HD</sub></p></td>
 <td><p><a href="../Page/Diva_(電視網).md" title="wikilink">Diva HD</a></p></td>
 <td><p>2014年11月16日</p></td>
 <td><p>本频道播出高清歐美影視作品，与Diva同步播出。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>724<sub>HD</sub></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/FOX_(亚洲)" title="wikilink">FOX HD</a></p></td>
 <td><p>霍士頻道為觀眾帶來美國受歡迎的精彩劇集，爆笑喜劇、動畫及真人騷娛樂節目。节目均由Fox制作。</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>725<sub>HD</sub></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/国家地理悠人频道" title="wikilink">Nat Geo People</a></p></td>
 <td><p>2015年8月31日</p></td>
 <td><p>國家地理悠人頻道是一個全新的生活品味頻道，為觀眾帶來精彩的紀實娛樂節目，亦貫徹國家地理優險頻道的精神，致力探索全球風土民情和文化。緊隨一眾節目主持及主角人物，享受全球美食、旅遊故事及人生中的美好時刻。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>726<sub>HD</sub></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/FX_(亚洲)" title="wikilink">FX HD</a></p></td>
 <td><p>2010年6月16日</p></td>
 <td><p>一個結合現實生活與奇情幻想的男性娛樂頻道 – FX。 FX 提供男性喜歡收看的電視節目，由真人遊戲節目到利用微型攝影機的偷拍節目、由成功人士的故事到現代科技玩意，加上動作、冒險、比賽、金錢‧‧‧以及任何男性希望得到的內容。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>727<sub>HD</sub></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/美食頻道_(美國)" title="wikilink">Food Network Asia HD</a></p></td>
 <td><p>2010年10月1日</p></td>
 <td><p>Food Network是以生活方式為主題的電視頻道，讓觀眾感受到食物的感染力和帶來的歡樂。由當地的名人主持、世界級廚師和烹飪專家介紹豐富的內容，致力講解烹飪知識，啟發及娛樂觀眾，讓觀眾掌握烹飪技巧。這是讓大眾信賴的電視頻道。Food Network提供不同的本地原創節目和國際節目，其內容包括烹飪比賽、美食體驗、烹飪教學和家庭娛樂。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>728<sub>HD</sub></p></td>
 <td><p><a href="../Page/TLC_(電視頻道).md" title="wikilink">TLC HD</a></p></td>
 <td><p>2019年5月18日</p></td>
 <td><p>TLC高清版本。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>729<sub>HD</sub></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/KIX_(频道)" title="wikilink">KIX</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KIX_(频道)" title="wikilink">KIX</a> HD</p></td>
 <td><p>2012年3月1日</p></td>
 <td><p>KIX全方位供應令人血脈沸騰的動作電影、激戰連場的綜合格鬥賽事，還有精彩絶倫的動作真人騷和電視劇集，無論任何時間和地點全天候收看。</p></td>
+</tr>
+<tr class="odd">
+<td><p>730<sub>HD</sub></p></td>
+<td><p>AFC HD (Asian Food Channel HD)</p></td>
+<td><p>2019年3月1日</p></td>
+<td><p>AFC HD (Asian Food Channel HD)高清版本。</p></td>
 </tr>
 <tr class="even">
 <td><p>731<sub>HD</sub></p></td>
@@ -1125,25 +1137,25 @@ Fox Action Movies 為追求刺激的觀眾提供日以繼夜無間斷的狂飆�
 <td><p>818<sub>HD</sub></p></td>
 <td><p>BeIN Sports HD</p></td>
 <td><p>2016年8月1日</p></td>
-<td><p>本频道高清播出欧洲的足球赛事频道。</p></td>
+<td><p>本频道高清播出欧洲的足球赛事体育频道。</p></td>
 </tr>
 <tr class="even">
 <td><p>819<sub>HD</sub></p></td>
 <td><p>BeIN Sports MAX HD</p></td>
-<td></td>
-<td><p>本频道高清播出欧洲的足球赛事频道。</p></td>
+<td><p>2018年12月6日</p></td>
+<td><p>本频道高清播出欧洲的足球赛事体育频道。</p></td>
 </tr>
 <tr class="odd">
 <td><p>820<sub>HD</sub></p></td>
 <td><p><a href="../Page/Eurosport.md" title="wikilink">Eurosport</a> HD</p></td>
-<td></td>
-<td><p>EUROSPORT HD 是Discovery傳播集團下的旗艦體育頻道，強大節目陣容包括環法、環西、環義三大自由車大賽、歐洲聯賽冠軍盃，歐洲超級盃等。透過專業評論，觀眾可感受場上最真實、興奮、喜悅、緊張的精采時刻。与Eurosport同步播出</p></td>
+<td><p>2019年5月18日</p></td>
+<td><p>EUROSPORT HD 是Discovery傳播集團下的旗艦體育頻道，強大節目陣容包括環法、環西、環義三大自由車大賽、歐洲聯賽冠軍盃，歐洲超級盃等。透過專業評論，觀眾可感受場上最真實、興奮、喜悅、緊張的精采時刻。与Eurosport同步播出。</p></td>
 </tr>
 <tr class="even">
 <td><p>821<sub>HD</sub></p></td>
 <td><p><a href="../Page/世界摔角娛樂網路服務.md" title="wikilink">WWE Network HD</a></p></td>
 <td></td>
-<td><p>美国世界摔角娱乐（WWE）公司以订阅为基础的视频流媒体服务的高清版本。。</p></td>
+<td><p>美国世界摔角娱乐（WWE）公司以订阅为基础的视频流媒体服务的高清版本。</p></td>
 </tr>
 <tr class="odd">
 <td><p>822<sub>HD</sub></p></td>
@@ -1164,54 +1176,60 @@ Fox Action Movies 為追求刺激的觀眾提供日以繼夜無間斷的狂飆�
 <td><p>本频道高清播出<a href="https://zh.wikipedia.org/wiki/板球" title="wikilink">板球比赛</a>。</p></td>
 </tr>
 <tr class="even">
+<td><p>825<sub>HD</sub></p></td>
+<td><p>BeIN Sports Rugby HD</p></td>
+<td><p>2019年8月31日</p></td>
+<td><p>本频道高清播出欧洲的足球赛事体育频道。</p></td>
+</tr>
+<tr class="odd">
 <td><p>831</p></td>
 <td></td>
 <td><p>1996年6月1日</p></td>
 <td><p>本频道是首个超级体育频道。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>832</p></td>
 <td></td>
 <td><p>2009年11月18日</p></td>
 <td><p>本频道是第二个超级体育频道。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>833</p></td>
 <td></td>
 <td><p>2010年7月1日</p></td>
 <td><p>本频道是第三个超级体育频道。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>834</p></td>
 <td></td>
 <td><p>2013年</p></td>
 <td><p>本频道是第四个超级体育频道。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>835</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/FOX_Sports" title="wikilink">FOX Sports</a></p></td>
 <td></td>
 <td><p>FOX SPORTS全日24小時高清播放全球頂尖體育賽事，包括德國甲級足球聯賽，亞冠及亞協盃，F-1，MotoGP，UFC，網球大滿貫，及FOX SPORTS旗艦體育新聞節目：:FOX Sports Central。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>836</p></td>
 <td><p><a href="../Page/FOX體育二台.md" title="wikilink">FOX Sport 2</a></p></td>
 <td></td>
 <td><p>FOX SPORTS 2全日24小時高清播放精彩球類運動及田徑項目，主要直播賽事包括： 高爾夫球大滿貫，美國女子職業高爾夫球巡迴賽，世界高球錦標賽，美國職棒大聯盟，國際田聯賽事，以及三項鐵人，馬拉松，美式桌球及飛鏢等運動節目。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>837</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Fox_Sports" title="wikilink">FOX Sports 3</a></p></td>
 <td></td>
 <td><p>FOX SPORTS 3全日24小時高清播放緊張刺激賽車和極限運動, 主要直播賽事包括: Formula E電動方程式賽車, 全美房車大賽, 世界超級電單車錦標賽, 以及自由搏擊及經典拳擊。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>840</p></td>
 <td><p><a href="../Page/Eurosport.md" title="wikilink">Eurosport</a></p></td>
 <td></td>
 <td><p>EUROSPORT是Discovery傳播集團下的旗艦體育頻道，強大節目陣容包括環法、環西、環義三大自由車大賽、歐洲聯賽冠軍盃，歐洲超級盃等。透過專業評論，觀眾可感受場上最真實、興奮、喜悅、緊張的精采時刻。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>841</p></td>
 <td><p><a href="../Page/世界摔角娛樂網路服務.md" title="wikilink">WWE Network</a></p></td>
 <td></td>
@@ -1229,78 +1247,43 @@ Fox Action Movies 為追求刺激的觀眾提供日以繼夜無間斷的狂飆�
 | [DW English](../Page/德国之声电视台.md "wikilink")         | 2017年10月5日                                                                            | 源自德國的DW頻道全日24小時以英語播映歐洲新聞及資訊、財經、文化、音樂、科技、時尚、旅遊及人文紀實等內容。                                                                                  |
 | [France 24](../Page/法蘭西24.md "wikilink")            | 2017年12月5日                                                                            | 來自法國的24小時英語新聞資訊頻道，透過數百位派駐世界各地記者從法國觀點綜覽環球時事動態。                                                                                           |
 | K-Plus                                              | 2017年4月1日                                                                             | KPLUS韩国娱乐频道播出韩国娱乐节目，以及韩国四大台（如[OCN](https://zh.wikipedia.org/wiki/OCN "wikilink")、[JTBC](../Page/JTBC.md "wikilink")等）外的韩国戏剧、综艺、流行音乐节目等。 |
-| NHK World Japan                                     | 预计2020年开播                                                                             | 日本广播协会（NHK）对日本国外广播业务（NHK日本国际传媒）所设的英语国际新闻频道。                                                                                             |
 |                                                     |                                                                                       |                                                                                                                                         |
-
-## 稍后启播的频道
-
-**即將來臨開播頻道**
-
-  - Astro 小太阳 HD (CH 320 HD)\[预计：2019年底\]
-  - Astro Ceria HD (CH 631 HD) \[预计：2019年底\]
-  - Astro TVIQ HD (CH 620 HD)
-  - Astro Awani HD (CH 500 HD)
-  - Astro Vannavil HD (CH 210 HD)
-  - Astro Vellithirai HD (CH 220 HD)
-  - Astro SuperSport Special Event HD (奥运时段播出） (CH 待定 HD) \[预计2020年日本奥运开播】
-  - RED BY HBO HD (CH 370 HD) (指定频道，从unifi TV电视商搬运到Astro电视商)
-  - Thrill (CH 405)
-  - Miao Mi HD (CH 370 HD)
-  - Fight Sports HD (CH 826 HD)
-  - [TVBS新聞台](../Page/TVBS新聞台.md "wikilink") （CH 318）
-
-**即将升级高清频道(2020年开播)**
-
-  - Bloomberg TV HD (CH 529 HD)
-  - Crime & Investigation Network HD (CH 732 HD)
-  - DMAX HD (CH 734 HD)
-  - NHK World Premium HD (CH 381 HD)
-
-**高清頻道即將來臨 （预计9月底开播）**
-
-  - TV1 HD
-  - TV2 HD
-  - TV3 HD
-  - NTV7 HD
-  - 八度空间HD
-  - TV9 HD
-  - TV Okey HD
-  - TV Alhijrah HD
-  - Bernama News Channel (BNC) HD
 
 ## 已停播频道
 
-| 频道                               | 标志／名字                                                            | 停播日期          | 详细                                                                                                                       |
-| -------------------------------- | ---------------------------------------------------------------- | ------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| 108                              | Zee Variasi                                                      | 2016年10月1日    | 2016年10月19日起由Tara HD代替                                                                                                   |
-| 121                              | Astro Aruna                                                      | 2010年2月       | 2011年由Bintang和Pelangi代替                                                                                                  |
-| 122                              | Astro Kirana                                                     | 2009年5月18日    | 因无人观看而停播,其他电影由Astro Citra取代                                                                                              |
-| 133                              | Astro Bella                                                      | 2018年10月1日    | Astro取消連續劇購入，其他本地連續劇以及外語連續劇全數購入予Astro Prima，由Naura HD（125频道）取代。                                                          |
-| 134<sub>HD</sub>                 | [Astro Mustika HD](../Page/Astro_Mustika_HD.md "wikilink")       | 2018年10月1日    | 更名为Astro Citra HD，并更改至126频道                                                                                              |
-| 135<sub>HD</sub>                 | [Astro Maya HD](../Page/Astro_Maya_HD.md "wikilink")             | 2019年1月13日    | 分拆为Astro Prima HD 和 Astro Oasis HD                                                                                       |
-| 232<sub>HD</sub>                 | Zee Tamil HD                                                     | 2019年3月1日     | 由于版权问题和拖延缴费，Zee TV Company正式发出警告信以停止传输，Zee Tamil與Astro在五个月半内合約結束。由Star Vijay HD 代替                                       |
-| 300<sub>HD</sub>                 | [Astro喜悦HD](../Page/Astro喜悦HD.md "wikilink")                     | 2019年7月1日     | Astro喜悦HD頻道停播, 由爱奇艺取代。                                                                                                   |
-| 304                              | [家娱频道](https://zh.wikipedia.org/wiki/家娱频道 "wikilink")            | 2014年4月1日     | 翌月由[嘉丽台代替](https://zh.wikipedia.org/wiki/嘉丽台 "wikilink")                                                                 |
-| [嘉麗台](../Page/嘉麗台.md "wikilink") | 2017年10月1日                                                       | 嘉麗台與Astro暫停合作 |                                                                                                                          |
-| 313                              | [TVB8](../Page/TVB8.md "wikilink")                               | 2010年7月1日     | 由[TVB娱乐新闻台代替](https://zh.wikipedia.org/wiki/TVB娱乐新闻台 "wikilink")                                                         |
-| 315                              | Wa\! TV                                                          | 2012年4月1日     | Wa\!TV频道与湖南卫视合约结束而宣布停播,。2015年9月由[卫视中文台代替](https://zh.wikipedia.org/wiki/卫视中文台 "wikilink")                                |
-| 316                              | [东森亚洲台](../Page/東森亞洲衛視.md "wikilink")                            | 2009年12月31日   | 翌日由[中天亚洲台代替](https://zh.wikipedia.org/wiki/中天亚洲台 "wikilink")                                                             |
-| 438<sub>HD</sub>                 | Sundance Channel                                                 | 2016年7月1日     | SunDance Channel和Astro合约结束                                                                                               |
-| 456<sub>HD</sub>                 | A-List HD                                                        | 2019年8月2日     | 频道停播因收视率下降和转至自家Astro OD点播服务                                                                                              |
-| 514                              | Astro News                                                       | 2009年3月1日     | 由于收视率下跌的问题, 该频道将宣布停播。                                                                                                    |
-| 617                              | [Disney XD](https://zh.wikipedia.org/wiki/Disney_XD "wikilink")  | 2019年3月1日     | 停播标清版本                                                                                                                   |
-| 619                              | ZooMoo                                                           | 2018年4月1日     | ZooMoo與Astro合約結束 (由於ZooMoo屬於Blue Ant旗下，Blue Ant Entertainment和Blue Ant Extreme已於2019年9月起於Unifi TV停播並過檔於此，稍後即將回歸Astro小螢幕） |
-| 705                              | Astro Hitz                                                       | 2016年5月16日    | Astro決定停播                                                                                                                |
-| 709<sub>HD</sub>                 | Lifetime                                                         | 2018年12月14日   | Lifetime與Astro合約結束（即将回歸小螢幕）                                                                                              |
-| 711                              | [Star World](https://zh.wikipedia.org/wiki/卫视合家欢台 "wikilink")    | 2017年9月30日    | 2017年10月1日由[FOX Life (亚洲)代替](https://zh.wikipedia.org/wiki/FOX_Life_\(亚洲\) "wikilink")                                   |
-| 722<sub>HD</sub>                 | [Star World HD](https://zh.wikipedia.org/wiki/卫视合家欢台 "wikilink") | 2017年9月30日    | 开台日期从2011年12月26日至2017年9月30日，10月1日起由[Fox Life代替](https://zh.wikipedia.org/wiki/FOX_Life_\(亚洲\) "wikilink")。               |
-| 728<sub>HD</sub>                 | Life Inspired HD                                                 | 2017年10月7日    | 頻道商停播                                                                                                                    |
-| 733                              | EVE                                                              | 2018年11月1日    | Eve與Astro合約結束，部分內容由TLC接替                                                                                                 |
-| 735                              | ITV Choice                                                       | 2017年1月16日    | ITV與Astro合約結束，但以點播形式繼續提供（已於2019年8月20日起全球停播）                                                                              |
-| 736                              | fyi                                                              | 2018年12月14日   | FYI與Astro合約結束 (已於2019年6月30日起亞洲區频道停播)                                                                                     |
-| 737<sub>HD</sub>                 | Go Asean HD                                                      | 2017年6月12日    | 频道停播                                                                                                                     |
+| 频道                               | 标志／名字                                                            | 停播日期           | 详细                                                                                                                           |
+| -------------------------------- | ---------------------------------------------------------------- | -------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| 108                              | Zee Variasi                                                      | 2016年10月1日     | 2016年10月19日起由Tara HD代替，2019年10月1日起再由Colors Hindi HD代替。                                                                       |
+| 109                              | Astro @15                                                        | 2012年5月1日      | Astro宣布停播，因为收视率下跌的问题而宣布停播。2017年4月1日，由RTM TV5 (现在RTM TV OKEY)取代。原为频道180，2017年4月1日起RTM TV5 (现在RTM TV OKEY)频道改为频道109。频道180已经停播。 |
+| 121                              | Astro Aruna                                                      | 2010年2月        | 2011年由Bintang和Pelangi代替。                                                                                                     |
+| 122                              | Astro Kirana                                                     | 2009年5月18日     | 因无人观看而停播，其他电影由Astro Citra取代。                                                                                                 |
+| 133                              | Astro Bella                                                      | 2018年10月1日     | Astro取消連續劇購入，其他本地連續劇以及外語連續劇全數購入予Astro Prima，由Naura HD（125频道）取代。                                                              |
+| 134<sub>HD</sub>                 | [Astro Mustika HD](../Page/Astro_Mustika_HD.md "wikilink")       | 2018年10月1日     | 更名为Astro Citra HD，并更改至126频道。                                                                                                 |
+| 135<sub>HD</sub>                 | [Astro Maya HD](../Page/Astro_Maya_HD.md "wikilink")             | 2019年1月13日     | 分拆为Astro Prima HD 和 Astro Oasis HD。                                                                                          |
+| 232<sub>HD</sub>                 | Zee Tamil HD                                                     | 2019年3月1日      | 由于版权问题和拖延缴费，Zee TV Company正式发出警告信以停止传输，Zee Tamil與Astro在五个月半内合約結束。由Star Vijay HD 代替。                                          |
+| 300<sub>HD</sub>                 | [Astro喜悦HD](../Page/Astro喜悦HD.md "wikilink")                     | 2019年7月1日      | Astro喜悦HD頻道已停播, 由爱奇艺取代。                                                                                                      |
+| 304                              | [家娱频道](https://zh.wikipedia.org/wiki/家娱频道 "wikilink")            | 2014年4月1日      | 翌月由[嘉丽台代替](https://zh.wikipedia.org/wiki/嘉丽台 "wikilink")。                                                                    |
+| [嘉麗台](../Page/嘉麗台.md "wikilink") | 2017年10月1日                                                       | 嘉麗台與Astro暫停合作。 |                                                                                                                              |
+| 308<sub>HD</sub>                 | [Astro全佳HD](../Page/Astro全佳HD.md "wikilink")                     | 2020年          | 频道停播由于收视率下跌，由优酷频道HD取代。                                                                                                       |
+| 313                              | [TVB8](../Page/TVB8.md "wikilink")                               | 2010年7月1日      | 由[TVB娱乐新闻台代替](https://zh.wikipedia.org/wiki/TVB娱乐新闻台 "wikilink")。                                                            |
+| 315                              | Wa\! TV                                                          | 2012年4月1日      | Wa\!TV频道与湖南卫视合约结束而宣布停播,。2015年9月由[卫视中文台代替](https://zh.wikipedia.org/wiki/卫视中文台 "wikilink")。                                   |
+| 316                              | [东森亚洲台](../Page/東森亞洲衛視.md "wikilink")                            | 2009年12月31日    | 翌日由[中天亚洲台代替](https://zh.wikipedia.org/wiki/中天亚洲台 "wikilink")。                                                                |
+| 438<sub>HD</sub>                 | Sundance Channel                                                 | 2016年7月1日      | SunDance Channel和Astro合约结束。                                                                                                  |
+| 456<sub>HD</sub>                 | A-List HD                                                        | 2019年8月2日      | 频道停播因收视率下降和转至自家Astro OD点播服务。                                                                                                 |
+| 514                              | Astro News                                                       | 2009年3月1日      | 由于收视率下跌的问题, 该频道将宣布停播。                                                                                                        |
+| 617                              | [Disney XD](https://zh.wikipedia.org/wiki/Disney_XD "wikilink")  | 2019年3月1日      | 停播标清版本。                                                                                                                      |
+| 619                              | ZooMoo                                                           | 2018年4月1日      | 由于收视率下跌的问题和ZooMoo與Astro合約結束而停播。                                                                                              |
+| 705                              | Astro Hitz                                                       | 2016年5月16日     | Astro決定停播。                                                                                                                   |
+| 709<sub>HD</sub>                 | Lifetime                                                         | 2018年12月14日    | 由于收视率下跌的问题和Lifetime與Astro合約結束而停播。                                                                                            |
+| 711                              | [Star World](https://zh.wikipedia.org/wiki/卫视合家欢台 "wikilink")    | 2017年9月30日     | 2017年10月1日由[FOX Life (亚洲)代替](https://zh.wikipedia.org/wiki/FOX_Life_\(亚洲\) "wikilink")。                                      |
+| 722<sub>HD</sub>                 | [Star World HD](https://zh.wikipedia.org/wiki/卫视合家欢台 "wikilink") | 2017年9月30日     | 开台日期从2011年12月26日至2017年9月30日，10月1日起由[Fox Life代替](https://zh.wikipedia.org/wiki/FOX_Life_\(亚洲\) "wikilink")。                   |
+| 728<sub>HD</sub>                 | Life Inspired HD                                                 | 2017年10月7日     | Life lnspired与Astro合约结束，由TLC HD取代。                                                                                           |
+| 733                              | EVE                                                              | 2018年11月1日     | Eve與Astro合約結束，部分內容由TLC接替。                                                                                                    |
+| 735                              | ITV Choice                                                       | 2017年1月16日     | ITV Choice與Astro合約結束，(已於2019年8月20日起全球停播)。                                                                                    |
+| 736                              | fyi                                                              | 2018年12月14日    | FYI與Astro合約結束 (已於2019年6月30日起亞洲區频道停播)。                                                                                        |
+| 737<sub>HD</sub>                 | Go Asean HD                                                      | 2017年6月12日     | Go Asean与Astro合约结束。(频道已停播)。                                                                                                  |
 
-## 电台频道
+## Astro所有电台频道
 
 | 频道  | 名字                                             | 语言                                                                                                                                                      | [Image:Radio_icon.png](https://zh.wikipedia.org/wiki/File:Radio_icon.png "fig:Image:Radio_icon.png")        | [Cell_phone_icon.svg](https://zh.wikipedia.org/wiki/File:Cell_phone_icon.svg "fig:Cell_phone_icon.svg")      |
 | --- | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- |
@@ -1316,7 +1299,7 @@ Fox Action Movies 為追求刺激的觀眾提供日以繼夜無間斷的狂飆�
 | 861 | Golden Oldies                                  | [英文](https://zh.wikipedia.org/wiki/英文 "wikilink")                                                                                                       |                                                                                                              |                                                                                                                |
 | 862 | Opus                                           | [英文](https://zh.wikipedia.org/wiki/英文 "wikilink")                                                                                                       |                                                                                                              |                                                                                                                |
 | 863 | Gegar                                          | [马来文](https://zh.wikipedia.org/wiki/马来文 "wikilink")                                                                                                     | [Image:Checkbox_-_2.png](https://zh.wikipedia.org/wiki/File:Checkbox_-_2.png "fig:Image:Checkbox_-_2.png") | [Image:Checkbox_-_2.png](https://zh.wikipedia.org/wiki/File:Checkbox_-_2.png "fig:Image:Checkbox_-_2.png")   |
-| 864 | India Beat                                     | [印地文](https://zh.wikipedia.org/wiki/印地文 "wikilink")                                                                                                     |                                                                                                              |                                                                                                                |
+| 864 | India Beat                                     | [淡米尔文](https://zh.wikipedia.org/wiki/印地文 "wikilink")                                                                                                    |                                                                                                              |                                                                                                                |
 | 865 | Jazz                                           | [英文](https://zh.wikipedia.org/wiki/英文 "wikilink")                                                                                                       |                                                                                                              |                                                                                                                |
 | 866 | Osai                                           | [淡米尔文](https://zh.wikipedia.org/wiki/淡米尔文 "wikilink")                                                                                                   |                                                                                                              |                                                                                                                |
 | 867 | Bayu Radio                                     | [马来文](https://zh.wikipedia.org/wiki/马来文 "wikilink")                                                                                                     |                                                                                                              |                                                                                                                |
@@ -1324,12 +1307,13 @@ Fox Action Movies 為追求刺激的觀眾提供日以繼夜無間斷的狂飆�
 | 869 | Nasional FM                                    | [马来文](https://zh.wikipedia.org/wiki/马来文 "wikilink")                                                                                                     | [Image:Checkbox_-_2.png](https://zh.wikipedia.org/wiki/File:Checkbox_-_2.png "fig:Image:Checkbox_-_2.png") | [Image:Checkbox_-_2.png](https://zh.wikipedia.org/wiki/File:Checkbox_-_2.png "fig:Image:Checkbox_-_2.png")   |
 | 870 | V FM                                           | [英文](https://zh.wikipedia.org/wiki/英文 "wikilink")、[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")、[马来文](https://zh.wikipedia.org/wiki/马来文 "wikilink") | [Image:Checkbox_-_2.png](https://zh.wikipedia.org/wiki/File:Checkbox_-_2.png "fig:Image:Checkbox_-_2.png") | [Image:Checkbox_-_2.png](https://zh.wikipedia.org/wiki/File:Checkbox_-_2.png "fig:Image:Checkbox_-_2.png")   |
 | 871 | Wai FM                                         | [马来文](https://zh.wikipedia.org/wiki/马来文 "wikilink")                                                                                                     | [Image:Checkbox_-_2.png](https://zh.wikipedia.org/wiki/File:Checkbox_-_2.png "fig:Image:Checkbox_-_2.png") | [Image:Checkbox_-_2.png](https://zh.wikipedia.org/wiki/File:Checkbox_-_2.png "fig:Image:Checkbox_-_2.png")   |
-| 872 | Traxx                                          | [英文](https://zh.wikipedia.org/wiki/英文 "wikilink")                                                                                                       | [Image:Checkbox_-_2.png](https://zh.wikipedia.org/wiki/File:Checkbox_-_2.png "fig:Image:Checkbox_-_2.png") | [Image:Checkbox_-_2.png](https://zh.wikipedia.org/wiki/File:Checkbox_-_2.png "fig:Image:Checkbox_-_2.png")   |
-| 873 | Minnal                                         | [淡米尔文](https://zh.wikipedia.org/wiki/淡米尔文 "wikilink")                                                                                                   | [Image:Checkbox_-_2.png](https://zh.wikipedia.org/wiki/File:Checkbox_-_2.png "fig:Image:Checkbox_-_2.png") | [Image:Checkbox_-_2.png](https://zh.wikipedia.org/wiki/File:Checkbox_-_2.png "fig:Image:Checkbox_-_2.png")   |
+| 872 | Traxx FM                                       | [英文](https://zh.wikipedia.org/wiki/英文 "wikilink")                                                                                                       | [Image:Checkbox_-_2.png](https://zh.wikipedia.org/wiki/File:Checkbox_-_2.png "fig:Image:Checkbox_-_2.png") | [Image:Checkbox_-_2.png](https://zh.wikipedia.org/wiki/File:Checkbox_-_2.png "fig:Image:Checkbox_-_2.png")   |
+| 873 | Minnal FM                                      | [淡米尔文](https://zh.wikipedia.org/wiki/淡米尔文 "wikilink")                                                                                                   | [Image:Checkbox_-_2.png](https://zh.wikipedia.org/wiki/File:Checkbox_-_2.png "fig:Image:Checkbox_-_2.png") | [Image:Checkbox_-_2.png](https://zh.wikipedia.org/wiki/File:Checkbox_-_2.png "fig:Image:Checkbox_-_2.png")   |
 | 874 | [爱FM](../Page/爱FM.md "wikilink")               | [中文](https://zh.wikipedia.org/wiki/中文 "wikilink")                                                                                                       | [Image:Checkbox_-_2.png](https://zh.wikipedia.org/wiki/File:Checkbox_-_2.png "fig:Image:Checkbox_-_2.png") | [Image:Checkbox_-_2.png](https://zh.wikipedia.org/wiki/File:Checkbox_-_2.png "fig:Image:Checkbox_-_2.png")   |
-| 875 | Asyik                                          | [马来文](https://zh.wikipedia.org/wiki/马来文 "wikilink")                                                                                                     | [Image:Checkbox_-_2.png](https://zh.wikipedia.org/wiki/File:Checkbox_-_2.png "fig:Image:Checkbox_-_2.png") | [Image:Checkbox_-_2.png](https://zh.wikipedia.org/wiki/File:Checkbox_-_2.png "fig:Image:Checkbox_-_2.png")   |
+| 875 | Asyik FM                                       | [马来文](https://zh.wikipedia.org/wiki/马来文 "wikilink")                                                                                                     | [Image:Checkbox_-_2.png](https://zh.wikipedia.org/wiki/File:Checkbox_-_2.png "fig:Image:Checkbox_-_2.png") | [Image:Checkbox_-_2.png](https://zh.wikipedia.org/wiki/File:Checkbox_-_2.png "fig:Image:Checkbox_-_2.png")   |
 | 876 | Zayan                                          | [马来文](https://zh.wikipedia.org/wiki/马来文 "wikilink")                                                                                                     | [Image:Checkbox_-_2.png](https://zh.wikipedia.org/wiki/File:Checkbox_-_2.png "fig:Image:Checkbox_-_2.png") | [Image:Checkbox_-_2.png](https://zh.wikipedia.org/wiki/File:Checkbox_-_2.png "fig:Image:Checkbox_-_2.png")   |
 | 877 | [Go Xuan](../Page/GoXuan_\(电台\).md "wikilink") | [中文](https://zh.wikipedia.org/wiki/中文 "wikilink")                                                                                                       | [Image:Checkbox_-_2.png](https://zh.wikipedia.org/wiki/File:Checkbox_-_2.png "fig:Image:Checkbox_-_2.png") | [Image:Checkbox_-_2.png](https://zh.wikipedia.org/wiki/File:Checkbox_-_2.png "fig:Image:Checkbox_-_2.png")   |
+| 882 | Astro Arena Radio                              | 马来文                                                                                                                                                     |                                                                                                              |                                                                                                                |
 
 ## 参见
 

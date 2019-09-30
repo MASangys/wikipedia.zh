@@ -41,13 +41,13 @@ AKB48集團的成員如果離開團體，與一般的日本偶像團體一樣以
 <td><p>2005年12月 -</p></td>
 <td></td>
 <td><p><a href="../Page/東京都區部.md" title="wikilink">東京</a>・<a href="../Page/秋葉原.md" title="wikilink">秋葉原</a></p></td>
-<td><p>粉紅色</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/SKE48.md" title="wikilink">SKE48</a></p></td>
 <td><p>2008年8月 -</p></td>
 <td><p><a href="../Page/名古屋市.md" title="wikilink">名古屋市</a>・<a href="../Page/榮_(名古屋市).md" title="wikilink">榮</a></p></td>
-<td><p>橘色</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">

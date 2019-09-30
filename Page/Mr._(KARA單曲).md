@@ -1,19 +1,19 @@
-**Mister**（）是[韓国女子](https://zh.wikipedia.org/wiki/大韓民国 "wikilink")5人組的歌手團體[Kara](../Page/Kara.md "wikilink")在日本的出道單曲。2010年8月11日由[UNIVERSAL SIGMA发售](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")。
+**Mister**是[韓国女子](https://zh.wikipedia.org/wiki/大韓民国 "wikilink")5人組的歌手團體[Kara](../Page/Kara.md "wikilink")在日本的出道單曲。2010年8月11日由[UNIVERSAL SIGMA发售](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")。
 
 ## 版本
 
-  - 【初回盤A】CD+DVD（ミスターMusic Clip・ミスターDance Shot Ver.・ミスターMusic Clip オフショット）
-  - 【初回盤B】CD+32Pフォトブック
-  - 【初回盤C】CD ボーナストラック（オリジナル韓国語ヴァージョン）
+  - 【初回盤A】CD+DVD（Mister Music Clip・Mister Dance Shot Ver.・Mister Music Clip Off-shot）
+  - 【初回盤B】CD+32 Photo book
+  - 【初回盤C】CD Bonus Track（原文韓国語版本）
   - 【通常盤】CD
 
 ## 收錄曲
 
 **DVD**
 
-1.  ミスター (Music Clip)
-2.  ミスター (Dance Shot Ver.)
-3.  ミスター (Music Clipオフショット)
+1.  Mister(Music Clip)
+2.  Mister(Dance Shot Ver.)
+3.  Mister(Music Clip Off-shot)
 
 ### 參考資料
 

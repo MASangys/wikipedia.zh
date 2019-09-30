@@ -627,14 +627,14 @@ PlotData =
 4.
 5.  [EXID 前成員加入新女團](http://kpopn.com/2013/07/02/183057/) 2013年7月2日
 
-6.  [BESTie 成員出道概念照](http://kpopn.com/2013/07/04/183312/) 2013年7月4日
+6.  [BESTie 成員出道概念照](http://kpopn.com/2013/07/04/183312/)  2013年7月4日
 
 7.
-8.  [BESTie “Pitapat" 預告](http://kpopn.com/2013/07/09/183922/) 2013年7月9日
+8.  [BESTie “Pitapat" 預告](http://kpopn.com/2013/07/09/183922/)  2013年7月9日
 
 9.  [BESTie “Pitapat" MV](http://kpopn.com/2013/07/12/184266/) 2013年7月12日
 
-10. [趙權出演 BESTie 的 MV](http://kpopn.com/2013/07/11/184150/) 2013年7月11日
+10. [趙權出演 BESTie 的 MV](http://kpopn.com/2013/07/11/184150/)  2013年7月11日
 
 11. [BESTie 回歸預告](http://kpopn.com/2013/10/15/196193/) 2013年10月15日
 
@@ -662,7 +662,7 @@ PlotData =
 
 23. [BESTie 新輯花絮照 (二)](http://kpopn.com/2015/04/30/273276/) 2015年4月30日
 
-24. [姜均成拍 BESTie 新曲 MV](http://kpopn.com/2015/05/01/273515/) 2015年5月1日
+24. [姜均成拍 BESTie 新曲 MV](http://kpopn.com/2015/05/01/273515/)  2015年5月1日
 
 25. [BESTie "Excuse Me" 預告](http://kpopn.com/2015/05/06/274308/) 2015年5月6日
 

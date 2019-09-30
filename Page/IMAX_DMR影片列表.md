@@ -1573,7 +1573,7 @@
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/复仇者联盟：无限之战" title="wikilink">复仇者联盟：无限之战</a></p></td>
 <td><p>2018年4月27日</p></td>
-<td><p>3D电影，原为2D电影，后期转制。首部全片使用数字Arri Alexa IMAX摄影机拍摄的影片。映前会播放IMAX全画幅特制倒计时。</p></td>
+<td><p>3D电影，原为2D电影，后期转制。首部全片使用数字ARRI ALEXA IMAX摄影机拍摄的影片。映前会播放IMAX全画幅特制倒计时。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/幕后玩家_(电影).md" title="wikilink">幕後玩家</a></p></td>
@@ -1607,7 +1607,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/我不是药神.md" title="wikilink">我不是药神</a></p></td>
-<td><p>2018年7月5日（提档一天）</p></td>
+<td><p>2018年7月5日（提档）</p></td>
 <td><p>仅在亞洲地区上映。</p></td>
 </tr>
 <tr class="odd">
@@ -1803,7 +1803,7 @@
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/流浪地球_(電影)" title="wikilink">流浪地球</a></p></td>
 <td><p>2019年2月5日</p></td>
-<td><p>3D电影，原为2D电影，后期转制。僅在中国大陆地区和北美部分地区上映</p></td>
+<td><p>3D电影，原为2D电影，后期转制。僅在中国大陆地区上映</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/飞驰人生.md" title="wikilink">飞驰人生</a></p></td>
@@ -1848,7 +1848,7 @@
 <tr class="odd">
 <td><p><a href="../Page/復仇者聯盟：終局之戰.md" title="wikilink">復仇者聯盟：終局之戰</a></p></td>
 <td><p>2019年4月24日（中国大陆/中国香港） 2019年4月26日（美国）</p></td>
-<td><p>3D电影，原为2D电影，后期转制。全片使用数字Arri Alexa IMAX摄影机拍摄</p></td>
+<td><p>3D电影，原为2D电影，后期转制。全片使用数字ARRI ALEXA IMAX摄影机拍摄</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/POKÉMON_名偵探皮卡丘.md" title="wikilink">POKÉMON 名偵探皮卡丘</a></p></td>
@@ -1893,7 +1893,7 @@
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/狮子王_(2019年电影)" title="wikilink">獅子王</a></p></td>
 <td><p>2019年7月19日</p></td>
-<td><p>3D电影。部分精彩片段使用数字Arri Alexa IMAX摄影机拍摄，並且整部影片的寬高比為1.90:1</p></td>
+<td><p>3D电影。部分精彩片段使用数字ARRI ALEXA IMAX摄影机拍摄，並且整部影片的寬高比為1.90:1</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/天气之子.md" title="wikilink">天气之子</a></p></td>
@@ -1921,9 +1921,39 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p><a href="../Page/從前，有個好萊塢.md" title="wikilink">從前，有個好萊塢</a></p></td>
+<td><p>2019年8月8日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="../Page/牠：第二章.md" title="wikilink">牠：第二章</a></p></td>
 <td><p>2019年9月6日</p></td>
 <td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/诛仙_I" title="wikilink">诛仙 I</a></p></td>
+<td><p>2019年9月13日</p></td>
+<td><p>仅在中国大陆地区上映</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/星際救援.md" title="wikilink">星際救援</a></p></td>
+<td><p>2019年9月20日</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/攀登者.md" title="wikilink">攀登者</a></p></td>
+<td><p>2019年9月30日</p></td>
+<td><p>仅在中国大陆地区上映</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/我和我的祖国_(电影).md" title="wikilink">我和我的祖国</a></p></td>
+<td><p>2019年9月30日</p></td>
+<td><p>仅在中国大陆地区上映</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/中国机长" title="wikilink">中国机长</a></p></td>
+<td><p>2019年9月30日</p></td>
+<td><p>仅在中国大陆地区上映</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/小丑_(電影).md" title="wikilink">小丑</a></p></td>
@@ -1938,17 +1968,27 @@
 <tr class="odd">
 <td><p><a href="../Page/黑魔女2.md" title="wikilink">黑魔女2</a></p></td>
 <td><p>2019年10月18日</p></td>
-<td><p>3D电影。</p></td>
+<td><p>3D电影，原为2D电影，后期转制。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/魔鬼終結者：黑暗宿命" title="wikilink">魔鬼終結者：黑暗宿命</a></p></td>
 <td><p>2019年11月1日</p></td>
-<td><p>3D电影。</p></td>
+<td><p>3D电影，原为2D电影，后期转制。</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="../Page/賽道狂人.md" title="wikilink">賽道狂人</a></p></td>
+<td><p>2019年11月15日</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/冰雪奇缘2" title="wikilink">冰雪奇缘2</a></p></td>
 <td><p>2019年11月22日</p></td>
-<td><p>3D电影。</p></td>
+<td><p>3D电影，原为2D电影，后期转制。</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/野蠻遊戲：全面晉級.md" title="wikilink">野蠻遊戲：全面晉級</a></p></td>
+<td><p>2019年12月13日</p></td>
+<td><p>3D电影，原为2D电影，后期转制。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/STAR_WARS：天行者的崛起.md" title="wikilink">STAR WARS：天行者的崛起</a></p></td>
@@ -1965,13 +2005,23 @@
 
 ### 2020
 
-| 電影                                                          | 上映日期       | 備註         |
-| ----------------------------------------------------------- | ---------- | ---------- |
-| [唐人街探案3](https://zh.wikipedia.org/wiki/唐人街探案3 "wikilink")   | 2020年1月25日 | 僅在中国大陆地区上映 |
-| [囧妈](https://zh.wikipedia.org/wiki/囧妈 "wikilink")           | 2020年1月25日 | 僅在中国大陆地区上映 |
-| [王牌特工:源起](https://zh.wikipedia.org/wiki/王牌特工:源起 "wikilink") | 2020年2月14日 | 3D电影       |
-| [花木兰](../Page/花木兰.md "wikilink") (2020年电影)                  | 2020年3月27日 |            |
-|                                                             |            |            |
+| 電影                                                                | 上映日期        | 備註                                        |
+| ----------------------------------------------------------------- | ----------- | ----------------------------------------- |
+| [杜立德醫生 (2020年電影)](../Page/杜立德醫生_\(2020年電影\).md "wikilink")        | 2020年1月17日  |                                           |
+| [唐人街探案3](https://zh.wikipedia.org/wiki/唐人街探案3 "wikilink")         | 2020年1月25日  | 本片部分片段使用数字ARRI ALEXA IMAX摄影机拍摄，僅在中国大陆地区上映 |
+| [囧妈](https://zh.wikipedia.org/wiki/囧妈 "wikilink")                 | 2020年1月25日  | 本片部分片段使用数字ARRI ALEXA IMAX摄影机拍摄，僅在中国大陆地区上映 |
+| [猛禽小隊 (電影)](https://zh.wikipedia.org/wiki/猛禽小隊_\(電影\) "wikilink") | 2020年2月7日   | 3D电影，原为2D电影，后期转制。                         |
+| [金牌特務：金士曼起源](../Page/金牌特務：金士曼起源.md "wikilink")                    | 2020年2月14日  |                                           |
+| [花木兰 (2020年电影)](../Page/花木兰_\(2020年电影\).md "wikilink")            | 2020年3月27日  | 3D电影，原为2D电影，后期转制。                         |
+| [龐德25](../Page/龐德25.md "wikilink")                                | 2020年4月8日   |                                           |
+| [黑寡婦 (電影)](../Page/黑寡婦_\(電影\).md "wikilink")                      | 2020年5月1日   |                                           |
+| [速度与激情9](https://zh.wikipedia.org/wiki/速度与激情9 "wikilink")         | 2020年5月22日  |                                           |
+| [阿特米斯奇幻歷險 (電影)](../Page/阿特米斯奇幻歷險_\(電影\).md "wikilink")            | 2020年5月29日  |                                           |
+| [神力女超人1984](https://zh.wikipedia.org/wiki/神力女超人1984 "wikilink")   | 2020年6月5日   | 3D电影，原为2D电影，后期转制。本片使用IMAX胶片和70mm胶片格式混合拍摄  |
+| [捍衛戰士：獨行俠](../Page/捍衛戰士：獨行俠.md "wikilink")                        | 2020年6月26日  | 部分影片的宽高比为1.90:1                           |
+| [信條 (電影)](../Page/信條_\(電影\).md "wikilink")                        | 2020年7月17日  | 本片使用IMAX胶片和70mm胶片格式混合拍摄                   |
+| [永恆族 (電影)](../Page/永恆族_\(電影\).md "wikilink")                      | 2020年11月6日  |                                           |
+| [沙丘魔堡 (2020年電影)](../Page/沙丘魔堡_\(2020年電影\).md "wikilink")          | 2020年12月18日 | 3D电影，原为2D电影，后期转制。                         |
 
 ## 参见
 

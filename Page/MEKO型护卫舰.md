@@ -472,6 +472,12 @@ MEKO系列有諸多使用國與型號，以下為MEKO系列各版本使用國概
 
 [File:NGPVII.JPG|MEKO](File:NGPVII.JPG%7CMEKO) A100 RMN競標時模型 <File:Perak> F173.jpg|馬來西亞Perak號（F173） <File:KD> Terengganu (174) underway in the Gulf of Thailand in March 2014.JPG|馬來西亞Terengganu號（F174） [File:110126-N-2953W-004.jpg|馬來西亞Kelantan號（F175](File:110126-N-2953W-004.jpg%7C馬來西亞Kelantan號（F175)）
 
+### MEKO A200
+
+#### MEKO A200 SAN
+
+[File:South_African_Navy_frigate_SAS_Amatola_(F_145).jpg|南非](File:South_African_Navy_frigate_SAS_Amatola_\(F_145\).jpg%7C南非)[勇敢級巡防艦Amatola號](https://zh.wikipedia.org/wiki/勇敢級巡防艦 "wikilink")(F 145) [File:Spioenkop_F147.jpg|南非](File:Spioenkop_F147.jpg%7C南非)[勇敢級巡防艦Spioenkop號](https://zh.wikipedia.org/wiki/勇敢級巡防艦 "wikilink")(F147)
+
 ## 參見
 
   - [西格瑪級護衛艦](https://zh.wikipedia.org/wiki/西格瑪級護衛艦 "wikilink")

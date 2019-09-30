@@ -117,6 +117,8 @@ Ingress官方及社群为了加强玩家互动，组织了一系列官方、半�
 
 2017年12月，Niantic Labs在Ingress Prime官网发布了Ingress Prime的宣传视频。\[26\]对此，大多数玩家\[27\]认为Ingress Prime就是玩家苦思久等的Ingress 2.0，但是否是Ingress 2.0以及和对现有Ingress账户内的道具是否共通仍需等待正式版发布。\[28\][iOS的](https://zh.wikipedia.org/wiki/iOS "wikilink")[TestFlight版本已经被证明放出](https://zh.wikipedia.org/wiki/TestFlight "wikilink")。\[29\]2018年11月6日，Ingress Prime Android版作为旧版更新的方式登陆Google Play商店，但由于旧玩家对新界面和游戏方式的不满，Niantic Labs另外提供保留旧版界面的新应用Scanner \[REDACTED\]代替新版Ingress Prime安装使用。\[30\]\[31\]\[32\]
 
+Niantic于2019年8月30日宣布 Scanner将于2019年9月30日 1700 UTC关闭 届时Prime成为游玩Ingress的唯一选择。\[33\]
+
 ## 注解
 
 ## 参考资料
@@ -193,3 +195,5 @@ Ingress官方及社群为了加强玩家互动，组织了一系列官方、半�
 31.
 
 32.
+
+33.

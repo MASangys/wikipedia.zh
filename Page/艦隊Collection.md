@@ -24,7 +24,7 @@
 
 2014年3月14日，真正意義上的外國艦開始加入，首先實裝的是德國艦艇，[1934年級驅逐艦Z](https://zh.wikipedia.org/wiki/1934年級驅逐艦 "wikilink")1、Z3和[俾斯麥級戰艦一號艦](https://zh.wikipedia.org/wiki/俾斯麥級戰艦 "wikilink")[俾斯麥](https://zh.wikipedia.org/wiki/俾斯麥號戰艦 "wikilink")（德語：Bismarck），而後又在其他的限定活動分別加入了[希佩爾海軍上將級巡洋艦](https://zh.wikipedia.org/wiki/希佩尔海军上将级巡洋舰 "wikilink")（德語：Admiral Hipper）三號艦[歐根親王號重巡洋艦](https://zh.wikipedia.org/wiki/歐根親王號重巡洋艦 "wikilink")（德語：Schwere Kreuzer Prinz Eugen）、[IXC級潛艇U](../Page/IX級潛艇.md "wikilink")-511（加入日本海軍後改稱呂號第五百潛水艦）和[齊柏林伯爵級航空母艦](https://zh.wikipedia.org/wiki/齊柏林伯爵級航空母艦 "wikilink")（德語：Graf Zeppelin）一號艦[齊柏林伯爵號航空母艦](../Page/齊柏林伯爵號航空母艦.md "wikilink")（德語：Flugzeugträger A）。
 
-2015年4月27日開始的2015春季限定活動加入意大利海軍[維托里奧·維內托級戰艦利托里奧](../Page/维托里奥·维内托级战列舰.md "wikilink")(Littorio)/意大利(Italia)及羅馬號(Roma)，同年8月10日的夏季限定活動第二次SN作戰後加入西北風級驅逐艦西南風號。
+2015年4月27日開始的2015春季限定活動加入意大利海軍[維托里奧·維內托級戰艦利托里奧](../Page/维托里奥·维内托级战列舰.md "wikilink")(Littorio)/意大利(Italia)及羅馬號(Roma)，同年8月10日的夏季限定活動第二次SN作戰後加入號。
 
 2016年2月10日的冬季限定活動中加入[扎拉级重巡洋艦扎拉號](https://zh.wikipedia.org/wiki/扎拉级重巡洋艦 "wikilink")，同年5月3日的春季限定活動中加入扎拉號的姊妹艦波拉號，8月12日的夏季限定活動第二次[馬來亞海戰](../Page/馬來亞海戰.md "wikilink")後加入[鷲座號航空母艦](../Page/鷲座號航空母艦.md "wikilink")，使軸心國海軍均已有艦艇登場。此外，2016年2月發售的掌上型遊樂器[PlayStation Vita平台系列遊戲](../Page/PlayStation_Vita.md "wikilink")「艦これ 改」加入了[美國海軍](../Page/美國海軍.md "wikilink")的[愛荷華號戰艦](../Page/艾奧瓦號戰艦_\(BB-61\).md "wikilink")，成為了本作第一艘同盟國側艦娘。並與2016年春季活動作為第七张(最后一张)作战地图过关獎勵加入到PC平台的「艦これ 」中。其後在8月12日的夏季限定活動第二次[馬來亞海戰](../Page/馬來亞海戰.md "wikilink")中的第四張(最後一張)地圖加入了[英國皇家海軍](../Page/英國皇家海軍.md "wikilink")的[伊莉莎白女王級戰艦](https://zh.wikipedia.org/wiki/伊莉莎白女王級戰艦 "wikilink")[厭戰號](https://zh.wikipedia.org/wiki/厭戰號戰艦 "wikilink")。11月19日的秋季限定活動中的第三張地圖加入了[法國海軍](../Page/法國海軍.md "wikilink")的特斯特司令官號[水上機母艦](https://zh.wikipedia.org/wiki/水上機母艦 "wikilink")、並於第五張地圖(最後一張)加入了[美國海軍](../Page/美國海軍.md "wikilink")[列星頓級航空母艦的](https://zh.wikipedia.org/wiki/列星頓級航空母艦 "wikilink")[薩拉托加號航空母艦](../Page/薩拉托加號航空母艦_\(CV-3\).md "wikilink")，為第一艘同盟國側的[航空母艦](https://zh.wikipedia.org/wiki/航空母艦 "wikilink")。
 
@@ -34,11 +34,13 @@
 
 2018年4月23日的五周年限定任務完成後，將會加入[美國海軍](../Page/美國海軍.md "wikilink")的護衛驅逐艦號。
 
-2018年9月9日，2018年初秋活动开始。击破第三张地图可获得由德國远洋郵輪改裝而成的[神鹰号航空母舰](https://zh.wikipedia.org/wiki/神鹰号航空母舰 "wikilink")，击破第四张地图可获得[意大利海军](../Page/意大利海军.md "wikilink")[西北风](https://zh.wikipedia.org/wiki/西北风号驱逐舰 "wikilink")，同時可以在此地图通过打捞获得[瑞典海军的](https://zh.wikipedia.org/wiki/瑞典海军 "wikilink")。击破第五张地图的最终海域可以获得[英国皇家海军](https://zh.wikipedia.org/wiki/英国皇家海军 "wikilink")[纳尔逊级](../Page/纳尔逊级战列舰.md "wikilink")[战列舰](https://zh.wikipedia.org/wiki/战列舰 "wikilink")[纳尔逊](https://zh.wikipedia.org/wiki/纳尔逊号战舰 "wikilink")。
+2018年9月9日，2018年初秋活动开始。击破第三张地图可获得由德國远洋郵輪改裝而成的[神鹰号航空母舰](https://zh.wikipedia.org/wiki/神鹰号航空母舰 "wikilink")，击破第四张地图可获得[意大利皇家海军](https://zh.wikipedia.org/wiki/意大利皇家海军 "wikilink")號，同時可以在此地图通过打捞获得[瑞典海军的](https://zh.wikipedia.org/wiki/瑞典海军 "wikilink")。击破第五张地图的最终海域可以获得[英国皇家海军](https://zh.wikipedia.org/wiki/英国皇家海军 "wikilink")[纳尔逊级](../Page/纳尔逊级战列舰.md "wikilink")[战列舰](https://zh.wikipedia.org/wiki/战列舰 "wikilink")[纳尔逊](https://zh.wikipedia.org/wiki/纳尔逊号战舰 "wikilink")。
 
 2018年12月27日开始的冬季限定活动中，击破第三张地图的最终海域可以获得[大日本帝国海军的](https://zh.wikipedia.org/wiki/大日本帝国海军 "wikilink")。同时可以通过打捞获得[美国海军的](https://zh.wikipedia.org/wiki/美国海军 "wikilink")[弗莱彻级驱逐舰](https://zh.wikipedia.org/wiki/弗莱彻级驱逐舰 "wikilink")[约翰斯顿](https://zh.wikipedia.org/wiki/约翰斯顿号驱逐舰_\(DD-557\) "wikilink")，这也是本作实装的第一艘[弗莱彻级驱逐舰](https://zh.wikipedia.org/wiki/弗莱彻级驱逐舰 "wikilink")。
 
 2019年5月21日舉行的春季限定活動中，擊破第二張地圖可以獲得[大日本帝國海軍](../Page/大日本帝國海軍.md "wikilink")[占守型海防艦的](https://zh.wikipedia.org/wiki/占守型海防艦 "wikilink")，並可透過打撈獲得其同型艦的。在擊破第三張地圖後，將可獲得[義大利皇家海軍](../Page/義大利皇家海軍.md "wikilink")的。後段作戰中則可以打撈[美國海軍](../Page/美國海軍.md "wikilink")的[弗莱彻级驱逐舰命名艦](https://zh.wikipedia.org/wiki/弗莱彻级驱逐舰 "wikilink")[弗萊徹號驅逐艦 (DD-445)](https://zh.wikipedia.org/wiki/弗萊徹號驅逐艦_\(DD-445\) "wikilink")，更能夠於擊破第五張地圖(最終關卡)後獲得美國海軍[科羅拉多級戰艦的](https://zh.wikipedia.org/wiki/科羅拉多級戰艦 "wikilink")[科羅拉多號戰艦](../Page/科羅拉多號戰艦.md "wikilink")。
+
+2019年8月30日开始的夏季限定活动中，擊破第二張地圖就可獲得[義大利皇家海軍](../Page/義大利皇家海軍.md "wikilink")的[阿布魯齊公爵號輕巡洋艦](../Page/阿布魯齊公爵號輕巡洋艦.md "wikilink")。在擊破活動的最終一張地圖後可以獲得[英國皇家海軍](../Page/英國皇家海軍.md "wikilink")的。並且可在這兩張地圖中通過打撈獲得[意大利皇家海军的](https://zh.wikipedia.org/wiki/意大利皇家海军 "wikilink")號。
 
 登場的艦娘各有自己的專用台詞，並使用[聲優](../Page/聲優.md "wikilink")錄製成全語音，部分艦娘還有整點報時的語音。重大節日（聖誕節、[新曆新年等日本傳統節日](../Page/日本新年.md "wikilink")）、或是牽涉到史實的活動時亦會裝設期間限定的語音。聲優最多一人分飾約10艘的艦娘。至2014年11月底已登場艦娘配音聲優名單刊載於官方解說書《》\[8\]。
 
@@ -797,7 +799,7 @@
 </tr>
 <tr class="odd">
 <td><p>未發表</p></td>
-<td></td>
+<td><p>深海棲艦（敵艦）的部分</p></td>
 </tr>
 </tbody>
 </table>
@@ -913,8 +915,16 @@
 <td><p>擇捉、松輪、佐渡、對馬</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="../Page/皇宇_(ZECO).md" title="wikilink">ZECO</a></p></td>
+<td><p>Samuel B. Roberts、約翰斯頓</p></td>
+</tr>
+<tr class="even">
+<td><p>A士</p></td>
+<td><p>御藏</p></td>
+</tr>
+<tr class="odd">
 <td><p>未發表</p></td>
-<td></td>
+<td><p>深海棲艦（敵艦）的部分、NPC的部分</p></td>
 </tr>
 </tbody>
 </table>

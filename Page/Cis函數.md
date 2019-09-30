@@ -30,6 +30,12 @@ cis函數的定义域是整个[实数集](https://zh.wikipedia.org/wiki/实数�
 
 當\(\theta\)值為複數時，\(\operatorname{cis}\)函數仍然是有效的，所以有些人可利用cis函數將[歐拉公式推廣到更複雜的版本](https://zh.wikipedia.org/wiki/歐拉公式 "wikilink")。\[20\]
 
+## 棣莫弗公式
+
+在數學上，為了方便起見，我們將棣莫弗公式寫成以下形式：
+
+\[\operatorname{cis}^n (x) = \operatorname{cis} (nx)\]
+
 ## 指數定義
 
 跟其他三角函數類似，可以用[e的](https://zh.wikipedia.org/wiki/e_\(數學常數\) "wikilink")[指數來表示](https://zh.wikipedia.org/wiki/指數 "wikilink")，依照[歐拉公式給出](https://zh.wikipedia.org/wiki/歐拉公式 "wikilink"): \(\operatorname{cis} \theta  = e^{i\theta}\)

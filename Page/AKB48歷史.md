@@ -1,6 +1,6 @@
 **[AKB48](../Page/AKB48.md "wikilink")**是在[日本](../Page/日本.md "wikilink")[製作人](https://zh.wikipedia.org/wiki/製作人 "wikilink")[秋元康](../Page/秋元康.md "wikilink")的企畫之下於2005年組成的女子[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")，在歷經了幾年的努力後，發展成一個無論是在作品銷售量、媒體曝光率或知名度上，都在日本國內甚至全球各地市場佔有一席之地的賣座演藝團體。
 
-本文主要收錄與AKB48相關的歷史資訊，以年表的方式按照發生時間先後記載。收錄的內容除了AKB48團體內的發展歷史之外，也涵蓋部分與AKB48相關、發生於AKB48及其衍生團體或姊妹團體之間的跨團體資訊。
+本文主要收錄與AKB48相關的歷史資訊，以年表的方式按照發生時間先後記載。收錄的內容除了AKB48團體內的發展歷史之外，也涵蓋部分與AKB48相關、發生於AKB48及其衍生團體或姊妹團體（[AKB48集團](../Page/AKB48集團.md "wikilink")日本國內各團）之間的跨團體資訊。
 
 ## 2005年
 
@@ -556,7 +556,7 @@
   - 6月14日，宣布將自同年7月7日至10月22日，舉辦睽違4年、為期10天共20場的全國巡演\[174\]\[175\]\[176\]。
   - 6月30日，劇場公演新劇目「我的夏天開始了」（）進行初日公演\[177\]。
   - 8月24日，AKB48與AKB48集團海外6團共同於[上海](https://zh.wikipedia.org/wiki/上海市 "wikilink")[國家會展中心舉行](../Page/國家會展中心_\(上海\).md "wikilink")「AKB48 Group Asia Festival 2019 in SHANGHAI」\[178\]。
-  - 9月18日，預定發行第56張單曲《[Sustainable](../Page/Sustainable.md "wikilink")》。
+  - 9月18日，預定發行第56張單曲《[持續愛你](https://zh.wikipedia.org/wiki/持續愛你 "wikilink")》。
 
 ## 註釋與參考文獻
 

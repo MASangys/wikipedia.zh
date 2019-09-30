@@ -33,8 +33,6 @@
 
   - [Mack Maine](https://zh.wikipedia.org/wiki/Mack_Maine "wikilink")
 
-  - [妮琪·米娜](https://zh.wikipedia.org/wiki/妮琪·米娜 "wikilink")（[Nicki Minaj](https://zh.wikipedia.org/wiki/Nicki_Minaj "wikilink")）
-
   - [PJ Morton](https://zh.wikipedia.org/wiki/PJ_Morton "wikilink")
 
   - Reginae Carter\[10\]
@@ -59,6 +57,8 @@
 
   -
   - [奥马里恩](../Page/奥马里恩.md "wikilink")（Omarion）
+
+  - [Nicki Minaj](https://zh.wikipedia.org/wiki/Nicki_Minaj "wikilink")
 
 ## 作品列表
 

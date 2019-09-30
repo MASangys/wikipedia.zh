@@ -1,4 +1,4 @@
-**FN FNS**是一系列由[比利时](../Page/比利时.md "wikilink")[國營赫斯塔爾](https://zh.wikipedia.org/wiki/赫爾斯塔爾國營工廠 "wikilink")（，簡稱：FN）旗下、位於[南卡羅來納州](https://zh.wikipedia.org/wiki/南卡羅來納州 "wikilink")[哥倫比亞的](https://zh.wikipedia.org/wiki/哥倫比亞_\(南卡羅來納州\) "wikilink")[美国](../Page/美国.md "wikilink")分公司（FNH USA）所設計和生產的一系列[半自動手槍](../Page/半自動手槍.md "wikilink")。\[1\]具有[聚合物](../Page/聚合物.md "wikilink")製造的[底把](../Page/机匣.md "wikilink")，和分別有[不鏽鋼](../Page/不鏽鋼.md "wikilink")和聚合物兩種可以選擇的套筒。這種手槍在2011年推出，並在2012年的（美國著名槍展）上首次亮相。[發射](../Page/膛室.md "wikilink")[9毫米鲁格弹和](../Page/9×19mm魯格彈.md "wikilink")[.40 S\&W兩種](../Page/.40_S&W.md "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
+**FN FNS**是一系列由[比利时](../Page/比利时.md "wikilink")[埃斯塔勒](../Page/埃斯塔勒.md "wikilink")[國營工廠](https://zh.wikipedia.org/wiki/埃斯塔勒國營工廠 "wikilink")（，簡稱：FN）旗下、位於[南卡羅來納州](https://zh.wikipedia.org/wiki/南卡羅來納州 "wikilink")[哥倫比亞的](https://zh.wikipedia.org/wiki/哥倫比亞_\(南卡羅來納州\) "wikilink")[美国](../Page/美国.md "wikilink")分公司（FNH USA）所設計和生產的一系列[半自動手槍](../Page/半自動手槍.md "wikilink")。\[1\]具有[聚合物](../Page/聚合物.md "wikilink")製造的[底把](../Page/机匣.md "wikilink")，和分別有[不鏽鋼](../Page/不鏽鋼.md "wikilink")和聚合物兩種可以選擇的套筒。這種手槍在2011年推出，並在2012年的（美國著名槍展）上首次亮相。[發射](../Page/膛室.md "wikilink")[9毫米鲁格弹和](../Page/9×19mm魯格彈.md "wikilink")[.40 S\&W兩種](../Page/.40_S&W.md "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 ## 設計細節
 
@@ -29,7 +29,7 @@ FNS具有4個標準[保險](../Page/保險.md "wikilink")功能：
 
 截至[2012年12月](../Page/2012年12月.md "wikilink")，FNS-9和FNS-40手槍的衍生型僅有[表面處理上差異](https://zh.wikipedia.org/wiki/表面處理 "wikilink")。這兩種手槍都具有標準型黑色槍身（配備了深色[套筒和啞黑色底把](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")）或是雙色表面處理槍身（配備了[銀色](https://zh.wikipedia.org/wiki/銀色 "wikilink")[不鏽鋼](../Page/不鏽鋼.md "wikilink")套筒和啞黑色底把）的版本。\[9\]\[10\]
 
-在2013年的SHOT Show（美國著名槍展）之中，[FNH USA推出了FNS](https://zh.wikipedia.org/wiki/赫爾斯塔爾國營工廠 "wikilink")-9和FNS-40手槍的127毫米（5英吋）槍管的長[套筒型](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")。正如字面之義，槍管和套筒（以及全長）都延長了25.4毫米（1英吋）。同樣具有標準型黑色槍身或是雙色表面處理槍身的版本。
+在2013年的SHOT Show（美國著名槍展）之中，[FNH USA推出了FNS](https://zh.wikipedia.org/wiki/埃斯塔勒國營工廠 "wikilink")-9和FNS-40手槍的127毫米（5英吋）槍管的長[套筒型](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")。正如字面之義，槍管和套筒（以及全長）都延長了25.4毫米（1英吋）。同樣具有標準型黑色槍身或是雙色表面處理槍身的版本。
 
 2015年初，FNH USA推出了FNS-9和FNS-40手槍的91.44毫米（3.6英吋）槍管的緊湊型。除了縮短了槍管和套筒（以及全長），握把全長亦有所縮短。其中一個彈匣具有小指歇靠底板，而其他的則是平坦底板。9毫米和.40 S\&W版本的彈匣容量分別是12發和10發。緊湊型版本也可以使用裝上了可拆卸式握把套管的全尺寸型彈匣。同樣具有標準型黑色槍身或是雙色表面處理槍身的版本。
 
@@ -44,13 +44,13 @@ FNS具有4個標準[保險](../Page/保險.md "wikilink")功能：
 
 ## 參見
 
-  - [國營赫斯塔爾](https://zh.wikipedia.org/wiki/赫爾斯塔爾國營工廠 "wikilink")
+  - [國營埃斯塔勒](https://zh.wikipedia.org/wiki/埃斯塔勒國營工廠 "wikilink")
   - [FN M1900](../Page/FN_M1900手槍.md "wikilink")
   - [FN M1903](../Page/FN_M1903手槍.md "wikilink")
   - [FN M1905](https://zh.wikipedia.org/wiki/FN_M1905手槍 "wikilink")
   - [FN M1910](https://zh.wikipedia.org/wiki/FN_M1910手槍 "wikilink")
-  - [白朗寧大威力手槍](../Page/白朗寧大威力手槍.md "wikilink")
-  - [FN HP-DA](../Page/白朗寧雙動手槍.md "wikilink")
+  - [FN HP](../Page/白朗寧大威力半自動手槍.md "wikilink")
+  - [FN HP-DA](https://zh.wikipedia.org/wiki/白朗寧雙動半自動手槍 "wikilink")
   - [FN Forty-Nine](https://zh.wikipedia.org/wiki/FN_Forty-Nine手槍 "wikilink")
   - [FN Five-seveN](../Page/FN_Five-seveN手槍.md "wikilink")
   - [FN FNP](../Page/FN_FNP手槍.md "wikilink")

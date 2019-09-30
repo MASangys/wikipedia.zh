@@ -1352,7 +1352,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 </tr>
 <tr class="odd">
 <td><p>2019年7月5日</p></td>
-<td><p>播放中</p></td>
+<td><p>2019年9月13日</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1662,21 +1662,21 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <tr class="odd">
 <td><p><a href="../Page/Super_Hearer.md" title="wikilink">Super Hearer</a></p></td>
 <td><p>2019年6月16日</p></td>
-<td><p>播放中</p></td>
+<td><p>2019年8月4日</p></td>
 <td><p>1</p></td>
 <td><p>競技節目</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/狗屎哲學館.md" title="wikilink">狗屎哲學館</a></p></td>
 <td><p>2019年7月16日</p></td>
-<td><p>播放中</p></td>
+<td><p>2019年9月3日</p></td>
 <td><p>1</p></td>
 <td><p>脫口秀節目</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/無論什麼friends.md" title="wikilink">無論什麼friends</a></p></td>
 <td><p>2019年7月17日</p></td>
-<td><p>播放中</p></td>
+<td><p>2019年9月4日</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>

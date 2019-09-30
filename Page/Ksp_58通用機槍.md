@@ -80,7 +80,7 @@ Ksp 58通常存儲在一個在包含一挺機槍、兩根[槍管](../Page/槍管
   - [SS-77通用機槍](../Page/SS-77通用機槍.md "wikilink")，[南非國防軍](../Page/南非國防軍.md "wikilink")現役通用機槍
   - [UKM-2000](../Page/UKM-2000通用機槍.md "wikilink")，[波兰製造的](https://zh.wikipedia.org/wiki/波兰 "wikilink")7.62×51毫米通用機槍
   - [M60E4／Mk 43 Mod 0/1](https://zh.wikipedia.org/wiki/M60通用機槍#M60E4及Mk_43_Mod_0/1 "wikilink")，為[特種部隊](../Page/特種部隊.md "wikilink")任務而開發的M60通用機槍衍生型
-  - [國營赫斯塔爾](https://zh.wikipedia.org/wiki/赫爾斯塔爾國營工廠 "wikilink")
+  - [國營埃斯塔勒](https://zh.wikipedia.org/wiki/埃斯塔勒國營工廠 "wikilink")
   - [FN MAG](../Page/FN_MAG通用機槍.md "wikilink")，Ksp 58的原型
   - [M240](../Page/M240通用機槍.md "wikilink")，美國軍隊現役通用機槍，同Ksp 58衍生自FN MAG
   - [L7](../Page/L7通用機槍.md "wikilink")，[英國軍隊](../Page/英國軍隊.md "wikilink")現役通用機槍，同Ksp 58衍生自FN MAG

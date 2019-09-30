@@ -30,7 +30,7 @@
 
 专辑中主打曲《I Remember》由齊默曼和芝加哥製作人合作。\[71\]其在英國銷售超過20萬支，並登上[英國單曲排行榜](../Page/英國單曲排行榜.md "wikilink")第14名，\[72\]使齊默曼一舉成名。
 
-除了《I Remember》，齐默曼和卡斯科还于同年合作了歌曲《》，并收录在卡斯科的专辑《》中。\[73\]这两首曲子分别于2009年10月17日和2008年9月6日在[告示牌的](../Page/告示牌_\(雜誌\).md "wikilink")排行榜上名列第一。\[74\]\[75\]除此之外，齊默曼与羅布·斯懷爾合作的《》也与2010年3月15日登顶Dance/Mix Show Airplay榜單。\[76\]齐默曼随之成爲唯一在該榜單上拥有三首登顶曲目的加拿大人，同時也是繼、、、[小賈斯汀和](https://zh.wikipedia.org/wiki/小賈斯汀 "wikilink")[威肯](../Page/威肯.md "wikilink")之後第六位奪得該榜單頭籌的加拿大人。齊默曼还在2008年英國[DJ雜誌](../Page/DJ雜誌.md "wikilink")的百大DJ排行榜中獲得了第11名佳績。\[77\]
+除了《I Remember》，齐默曼和卡斯科还于同年合作了歌曲《》，并收录在卡斯科的专辑《》中。\[73\]这两首曲子分别于2009年10月17日和2008年9月6日在[告示牌的](../Page/告示牌_\(雜誌\).md "wikilink")排行榜上名列第一。\[74\]\[75\]除此之外，齊默曼与羅布·斯懷爾合作的《》也与2010年3月15日登顶Dance/Mix Show Airplay榜單。\[76\]齐默曼随之成爲唯一在該榜單上拥有三首登顶曲目的加拿大人，同時也是繼、[妮莉·費塔朵](../Page/妮莉·費塔朵.md "wikilink")、、[小賈斯汀和](https://zh.wikipedia.org/wiki/小賈斯汀 "wikilink")[威肯](../Page/威肯.md "wikilink")之後第六位奪得該榜單頭籌的加拿大人。齊默曼还在2008年英國[DJ雜誌](../Page/DJ雜誌.md "wikilink")的百大DJ排行榜中獲得了第11名佳績。\[77\]
 
 \=== 專輯《For Lack of a Better Name》以及《4×4=12》（2009－2011年） === [Deadmau5_live_unmasked.jpg](https://zh.wikipedia.org/wiki/File:Deadmau5_live_unmasked.jpg "fig:Deadmau5_live_unmasked.jpg")[格拉斯頓伯里](../Page/格拉斯頓伯里.md "wikilink")現場表演\]\] 2009年9月22日，齊默曼的新專輯《》在美国地区由正式发行。\[78\]当年10月5日该专辑正式面向全世界發售。\[79\]本專輯中包含齊默曼最受歡迎的兩首樂曲——《》以及《》。\[80\]这两首单曲分别在2008年11月25日和2010年2月23日发行。\[81\]该专辑使得齐默曼在[DJ雜誌](../Page/DJ雜誌.md "wikilink")2010年百大DJ排行榜中攀升至第4名。\[82\]这是齐默曼在该榜单中的最高排名。\[83\]2010年7月30日，齊默曼在華盛頓一間夜店表演後因過勞而送醫，被迫取消接下來的幾場表演。\[84\]
 
@@ -80,7 +80,7 @@ Deadmau5是音乐游戏《》中的一个独家虚拟角色。\[188\]\[189\]\[19
 
 ## 個人生活
 
-[Deadmau5_head_on.jpg](https://zh.wikipedia.org/wiki/File:Deadmau5_head_on.jpg "fig:Deadmau5_head_on.jpg") 2010年7月30日，在美國[華盛頓特區的](https://zh.wikipedia.org/wiki/華盛頓特區 "wikilink")，齊默曼在表演時突然感到疲憊噁心，在舞台上癱倒。演出被迫中断，剩下的九场演出也随之取消。\[196\]
+[Deadmau5_head_on.jpg](https://zh.wikipedia.org/wiki/File:Deadmau5_head_on.jpg "fig:Deadmau5_head_on.jpg") 2010年7月30日，在美國[華盛頓特區的](https://zh.wikipedia.org/wiki/華盛頓特區 "wikilink")，齊默曼在表演時突然感到疲憊噁心，在舞台上癱倒。演出被迫中断，剩下的九场演出也因此取消。\[196\]
 
 在2010年[MTV音樂錄影帶大獎](../Page/MTV音樂錄影帶大獎.md "wikilink")上，齊默曼認識了美國[模特兒](../Page/模特兒.md "wikilink")、成人雜誌《[花花公子](../Page/花花公子.md "wikilink")》的[玩伴女郎](../Page/玩伴女郎.md "wikilink")並開始與她交往。\[197\]2011年9月，齊默曼宣布与與伊凡[分手](../Page/分手.md "wikilink")。\[198\]2012年9月，齊默曼開始與美國[刺青](../Page/刺青.md "wikilink")藝術家交往。\[199\]齊默曼從[加拿大](../Page/加拿大.md "wikilink")[多倫多搬家到](../Page/多伦多.md "wikilink")[美国](../Page/美国.md "wikilink")[洛杉磯](../Page/洛杉矶.md "wikilink")，與方迪住在一起。\[200\]雖然在2012年11月，兩人有短暫分手一段時間，但過不久後即又重新複合。\[201\]2012年12月15日，齊默曼在[Twitter](../Page/Twitter.md "wikilink")上向方迪表白，并發布他們將於2013年8月舉行水上婚礼。\[202\]\[203\]但他們在2013年6月因為意見不合取消了婚約。\[204\]他們身上有多個相同的刺青，包括眼皮下方的黑色五角星，以及手臂上代表他們相遇日期「289m3d22h」的刺青。\[205\]
 

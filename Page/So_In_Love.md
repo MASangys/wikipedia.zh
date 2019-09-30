@@ -1,14 +1,11 @@
 《**So In Love**》是由香港歌手[官恩娜](../Page/官恩娜.md "wikilink")演唱的單曲，也是她加入[華納唱片的第一首歌曲](https://zh.wikipedia.org/wiki/華納唱片 "wikilink")。2013年3月11日在iTunes發行數碼版\[1\]。
 
-於2013年3月14日由[官恩娜](../Page/官恩娜.md "wikilink")官方YouTube頻道[官恩娜官方YouTube頻道](http://www.youtube.com/channel/UCcK-RIwZeZMEJplWW_2eaOg)首播\[2\]。並於2013年3月20日由[官恩娜](../Page/官恩娜.md "wikilink")官方YouTube頻道首播MV\[3\]
+於2013年3月14日由[官恩娜](../Page/官恩娜.md "wikilink")官方YouTube頻道首播\[2\]。並於2013年3月20日由[官恩娜](../Page/官恩娜.md "wikilink")官方YouTube頻道首播MV\[3\]
 
 ## 曲目
 
 1.  So In Love
-      - 作曲：[方大同](https://zh.wikipedia.org/wiki/方大同 "wikilink")
-        作詞：[C君](../Page/C君.md "wikilink")
-        編曲：[方大同](https://zh.wikipedia.org/wiki/方大同 "wikilink")、[Derrick Sepnio @P.R.C.](https://zh.wikipedia.org/wiki/Derrick_Sepnio_@P.R.C. "wikilink")
-        監製：P.R.C.
+      - 作曲：[方大同](https://zh.wikipedia.org/wiki/方大同 "wikilink")；作詞：[C君](../Page/C君.md "wikilink")；編曲：[方大同](https://zh.wikipedia.org/wiki/方大同 "wikilink")、Derrick Sepnio @P.R.C.；監製：P.R.C.
 
 ## 音樂錄影帶
 

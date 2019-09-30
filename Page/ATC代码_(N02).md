@@ -82,7 +82,7 @@
 ### N02BA [水杨酸及其衍生物](https://zh.wikipedia.org/wiki/水杨酸 "wikilink")（Salicylic acid and derivatives）
 
   -
-    N02BA01 [乙酰水杨酸](https://zh.wikipedia.org/wiki/乙酰水杨酸 "wikilink")（Acetylsalicylic acid）
+    N02BA01 [乙酰水杨酸](../Page/乙酰水杨酸.md "wikilink")（Acetylsalicylic acid）
     N02BA02 [阿洛普令](https://zh.wikipedia.org/wiki/阿洛普令 "wikilink")（Aloxiprin）
     N02BA03 [水杨酸胆碱](https://zh.wikipedia.org/wiki/水杨酸胆碱 "wikilink")（Choline salicylate）
     N02BA04 [水杨酸钠](../Page/水杨酸钠.md "wikilink")（Sodium salicylate）

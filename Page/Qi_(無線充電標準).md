@@ -30,6 +30,8 @@ Qi規格第一卷（低功率部份，5W以下）於2010年推出，目前已有
       - [iPhone XR](https://zh.wikipedia.org/wiki/iPhone_XR "wikilink")
       - [iPhone Xs](https://zh.wikipedia.org/wiki/iPhone_Xs "wikilink")
       - [iPhone Xs Max](https://zh.wikipedia.org/wiki/iPhone_Xs "wikilink")
+      - [iPhone 11](https://zh.wikipedia.org/wiki/iPhone_11 "wikilink")
+      - [iPhone 11 Pro](https://zh.wikipedia.org/wiki/iPhone_11_Pro "wikilink")/[iPhone 11 Pro Max](https://zh.wikipedia.org/wiki/iPhone_11_Pro "wikilink")
   - 华为
       - [Mate 20 Pro](https://zh.wikipedia.org/wiki/Mate_20_Pro "wikilink")
       - [Mate 20 RS](https://zh.wikipedia.org/wiki/Mate_20_RS "wikilink")

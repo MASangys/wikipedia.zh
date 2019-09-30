@@ -263,7 +263,7 @@
 <td><p>2019年</p></td>
 <td><p><a href="../Page/Channel_A.md" title="wikilink">Channel A</a></p></td>
 <td><p>《<a href="../Page/搭飛機去.md" title="wikilink">搭飛機去</a>》</p></td>
-<td><p>與<a href="../Page/申鉉濬.md" title="wikilink">申鉉濬</a>、<a href="https://zh.wikipedia.org/wiki/鄭珍雲" title="wikilink">鄭珍雲</a>、</p></td>
+<td><p>與<a href="../Page/申鉉濬.md" title="wikilink">申鉉濬</a>、<a href="https://zh.wikipedia.org/wiki/鄭珍雲" title="wikilink">鄭珍雲</a>、<a href="https://zh.wikipedia.org/wiki/黄帝聖" title="wikilink">黄帝聖</a></p></td>
 </tr>
 </tbody>
 </table>

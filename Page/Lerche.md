@@ -119,14 +119,14 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>7月11日－預定</p></td>
+<td><p>7月11日－播放中</p></td>
 <td><p>山口光</p></td>
 <td><p>漫畫</p></td>
 <td><p>創作的漫畫</p></td>
 </tr>
 <tr class="even">
 <td><p>Radiant 虛空魔境</p></td>
-<td><p>10月－預定</p></td>
+<td><p>10月2日－預定</p></td>
 <td><p>岸誠二</p></td>
 <td><p>漫畫</p></td>
 <td><p>第二季</p></td>

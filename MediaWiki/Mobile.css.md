@@ -260,3 +260,9 @@ Please document here what pages use this
 `   text-align: center;`
 
 }
+
+/\* HACK to workaround VE and badly written CGroups \*/ .noteTA {
+
+`   display: none;`
+
+}

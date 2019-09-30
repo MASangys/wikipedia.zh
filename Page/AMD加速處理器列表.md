@@ -1459,9 +1459,9 @@ support</p></th>
 
 資料來源：--\>
 
-### 第三代AMD APU，基於AMD Jagaur架構
+### 第三代AMD APU，基於AMD Jaguar架構
 
-隨著Bobcat 2.0的取消，[AMD Bobcat架構的繼任為新的](../Page/AMD_Bobcat.md "wikilink")[AMD Jagaur架構](https://zh.wikipedia.org/wiki/AMD_Jagaur "wikilink")，也是SoC系統單晶片設計，定位和Bobcat一致，面向[平板電腦](../Page/平板電腦.md "wikilink")裝置、超輕薄[小筆電](https://zh.wikipedia.org/wiki/小筆電 "wikilink")、入門級PC以及超低功耗HTPC。採用台積電的28奈米HKMG製程。熱設計功耗在3到15瓦之間。內建採用GCN架構的顯示核心、[USB3.0控制器以及視頻轉碼器等](../Page/USB_3.0.md "wikilink")。CPU核心是原生四核心設計，雙核心產品將會從四核心的晶片上像英特爾首代Core處理器那樣屏蔽遮蔽一半的核心數來獲得。\[18\]
+隨著Bobcat 2.0的取消，[AMD Bobcat架構的繼任為新的](../Page/AMD_Bobcat.md "wikilink")[AMD Jaguar架構](../Page/AMD_Jaguar.md "wikilink")，也是SoC系統單晶片設計，定位和Bobcat一致，面向[平板電腦](../Page/平板電腦.md "wikilink")裝置、超輕薄[小筆電](https://zh.wikipedia.org/wiki/小筆電 "wikilink")、入門級PC以及超低功耗HTPC。採用台積電的28奈米HKMG製程。熱設計功耗在3到15瓦之間。內建採用GCN架構的顯示核心、[USB3.0控制器以及視頻轉碼器等](../Page/USB_3.0.md "wikilink")。CPU核心是原生四核心設計，雙核心產品將會從四核心的晶片上像英特爾首代Core處理器那樣屏蔽遮蔽一半的核心數來獲得。\[18\]
 
   - Xbox One與PS4就是使用該架構
 

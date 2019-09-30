@@ -1,4 +1,4 @@
-**FN SLP**（SLP，全稱：，意為：警用霰彈槍）是一款由[比利时](../Page/比利时.md "wikilink")槍械公製造商[國營赫斯塔爾所研製及生產的警用](https://zh.wikipedia.org/wiki/赫爾斯塔爾國營工廠 "wikilink")[半自動](https://zh.wikipedia.org/wiki/半自動霰彈槍 "wikilink")[戰術](../Page/鎮暴霰彈槍.md "wikilink")[霰彈槍](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")（戰術型時則是軍警兩用霰彈槍），發射[12鉛徑霰彈](https://zh.wikipedia.org/wiki/霰彈 "wikilink")。\[1\]
+**FN SLP**（SLP，全稱：，意為：警用霰彈槍）是一款由[比利时](../Page/比利时.md "wikilink")槍械公製造商[埃斯塔勒](../Page/埃斯塔勒.md "wikilink")[國營工廠所研製及生產的警用](https://zh.wikipedia.org/wiki/埃斯塔勒國營工廠 "wikilink")[半自動](https://zh.wikipedia.org/wiki/半自動霰彈槍 "wikilink")[戰術](../Page/鎮暴霰彈槍.md "wikilink")[霰彈槍](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")（戰術型時則是軍警兩用霰彈槍），發射[12鉛徑霰彈](https://zh.wikipedia.org/wiki/霰彈 "wikilink")。\[1\]
 
 ## 設計細節
 

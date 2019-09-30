@@ -35,7 +35,7 @@
 
 </div>
 
-|number= |variants= |weight=
+|number= |variants= |spec_label= |weight=
 
 <div class="NavFrame collapsed" style="color:black; background:#fff; margin:0 auto; padding:0 10px; text-align:left;">
 
@@ -69,7 +69,7 @@
 
 </div>
 
-|part_length= 槍管總成：1,143毫米（45英吋）\[14\] |width= 無輸彈槽：190毫米（7.48英吋）\[15\]\[16\] |height= |diameter= |crew= |cartridge= [12.7×99毫米北約口徑](../Page/12.7×99mm_NATO.md "wikilink")（.50 BMG）\[17\]\[18\] |caliber= 12.7毫米（.50英吋）\[19\]\[20\]\[21\] |barrels= 1根，標準[膛線](../Page/膛線.md "wikilink")[纏距為](https://zh.wikipedia.org/wiki/膛線纏距 "wikilink")1：15，右旋，膛線8條，右旋\[22\]\[23\] |action=
+|part_length= 槍管總成：1,143毫米（45英吋）\[14\] |width= 無輸彈槽：190毫米（7.48英吋）\[15\]\[16\] |height= |diameter= |crew= |cartridge= [12.7×99毫米北約口徑](../Page/12.7×99mm_NATO.md "wikilink")（.50 BMG）\[17\]\[18\] |caliber= 12.7毫米（.50英吋）\[19\]\[20\]\[21\] |barrels= 1根，標準[膛線](../Page/膛線.md "wikilink")纏距為1：15，右旋，膛線8條，右旋\[22\]\[23\] |action=
 
 <div class="NavFrame collapsed" style="color:black; background:#fff; margin:0 auto; padding:0 10px; text-align:left;">
 
@@ -90,7 +90,7 @@
 
 </div>
 
-|rate= 400—600發／分鐘\[26\]\[27\] |velocity= 890[米／秒](https://zh.wikipedia.org/wiki/米每秒 "wikilink")（2,920.01[英尺／秒](https://zh.wikipedia.org/wiki/英尺每秒 "wikilink")）\[28\] |energy= |range= |max_range= |feed= M15A2[可散式彈鏈](../Page/彈鏈.md "wikilink")
+|rate= 400—600發／分鐘\[26\]\[27\] |mode= [全自動](https://zh.wikipedia.org/wiki/自動火器 "wikilink") |velocity= 890[米／秒](https://zh.wikipedia.org/wiki/米每秒 "wikilink")（2,920.01[英尺／秒](https://zh.wikipedia.org/wiki/英尺每秒 "wikilink")）\[28\] |energy= |range= |max_range= |feed= M15A2[可散式彈鏈](../Page/彈鏈.md "wikilink")
 [機匣左右兩側裝上了雙向輸彈槽使其可以左右兩邊同時供彈](https://zh.wikipedia.org/wiki/機匣 "wikilink")\[29\]\[30\] |sights=
 
 <div class="NavFrame collapsed" style="color:black; background:#fff; margin:0 auto; padding:0 10px; text-align:left;">
@@ -110,7 +110,7 @@
 
 </div>
 
-|breech= |recoil= |carriage= |elevation= |traverse= |blade_type= |hilt_type= |sheath_type= |head_type= |haft_type= |filling= |filling_weight= |detonation= |yield= |armour= |primary_armament= |secondary_arament= |engine= |engine_power= |transmission= |payload_capacity= |fuel_capacity= |pw_ratio= |suspension= |clearance= |vehicle_range= |speed= |guidance= }}
+|breech= |recoil= |carriage= |elevation= |traverse= |blade_type= |hilt_type= |sheath_type= |head_type= |haft_type= |filling= |filling_weight= |detonation= |yield= |armour= |primary_armament= |secondary_arament= |engine= |engine_power= |transmission= |payload_capacity= |fuel_capacity= |pw_ratio= |suspension= |clearance= |vehicle_range= |speed= |guidance= |steering= |wingspan= |propellant= |ceiling= |altitude= |depth= |boost= |accuracy= |launch_platform= |transport= }}
 
 **CIS 50MG**（現稱：**STK 50MG**）是一挺由[新加坡](../Page/新加坡.md "wikilink")國防企業新加坡特許工業公司（現改稱為）在1980年代後期自主研發和生產的[氣動式操作](../Page/氣動式_\(槍械\).md "wikilink")、氣冷及[彈鏈](../Page/彈鏈.md "wikilink")供彈式[重機槍](https://zh.wikipedia.org/wiki/重機槍 "wikilink")，發射[12.7×99毫米](../Page/12.7×99mm_NATO.md "wikilink")（.50 BMG）[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑制式](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 

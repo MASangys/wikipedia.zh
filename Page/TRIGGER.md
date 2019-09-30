@@ -43,15 +43,6 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2015年</p></td>
-<td><p><a href="../Page/NINJA_SLAYER忍者殺手.md" title="wikilink">NINJA SLAYER忍者殺手</a></p></td>
-<td></td>
-<td><p>2015年4月16日－10月8日</p></td>
-<td><p><a href="../Page/雨宮哲.md" title="wikilink">雨宮哲</a></p></td>
-<td><p>小說</p></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>2016年</p></td>
 <td><p><a href="../Page/宇宙巡警露露子.md" title="wikilink">宇宙巡警露露子</a></p></td>
 <td></td>
@@ -60,7 +51,7 @@
 <td><p>原創</p></td>
 <td><p>5週年紀念作品</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/Kiznaiver" title="wikilink">Kiznaiver</a></p></td>
 <td></td>
 <td><p>2016年4月9日－6月25日</p></td>
@@ -69,7 +60,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2017年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/小魔女學園" title="wikilink">小魔女學園</a></p></td>
 <td></td>
@@ -78,7 +69,7 @@
 <td><p>原創</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2018年</p></td>
 <td><p><a href="../Page/DARLING_in_the_FRANXX.md" title="wikilink">DARLING in the FRANXX</a></p></td>
 <td></td>
@@ -87,7 +78,7 @@
 <td><p>原創</p></td>
 <td><p>與<a href="../Page/A-1_Pictures.md" title="wikilink">A-1 Pictures</a>（<a href="../Page/CloverWorks.md" title="wikilink">CloverWorks</a>）共同製作</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/SSSS.GRIDMAN.md" title="wikilink">SSSS.GRIDMAN</a></p></td>
 <td><p>2018年10月7日－12月22日</p></td>
 <td><p><a href="../Page/雨宮哲.md" title="wikilink">雨宮哲</a></p></td>
@@ -189,6 +180,14 @@
 <td><p>1</p></td>
 <td><p>日本動畫人展覽會作品<br />
 与六花工作室共同制作</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/NINJA_SLAYER忍者殺手.md" title="wikilink">NINJA SLAYER忍者殺手</a></p></td>
+<td></td>
+<td><p>雨宮哲</p></td>
+<td><p>26</p></td>
+<td><p>TV版於隔年播出</p></td>
 <td></td>
 </tr>
 </tbody>

@@ -1,4 +1,4 @@
-**AMX-40主力戰車**由法國[GIAT於](https://zh.wikipedia.org/wiki/GIAT "wikilink")1983年推出，計劃作為法國陸軍[AMX-30後繼車型](https://zh.wikipedia.org/wiki/AMX-30主力戰車 "wikilink")。AMX-40的發展可追溯至1960年代研發的AMX-30，雖然此款坦克是法國陸軍的主力裝備，但被認為裝甲過於單薄，於是在1979年改良出加入間隙裝甲的AMX-32裝甲強化型，但未有接獲任何訂單，於是進一步發展出AMX-40，可是同樣沒有獲得任何國家採用。
+**AMX-40**由法國GIAT（现）於1983年推出的一款[主战坦克](https://zh.wikipedia.org/wiki/主战坦克 "wikilink")，計劃作為法國陸軍[AMX-30後繼車型](https://zh.wikipedia.org/wiki/AMX-30主力戰車 "wikilink")。AMX-40的發展可追溯至1960年代研發的AMX-30，雖然此款坦克是法國陸軍的主力裝備，但被認為裝甲過於單薄，於是在1979年改良出加入間隙裝甲的AMX-32裝甲強化型，但未有接獲任何訂單，於是進一步發展出AMX-40，可是同樣沒有獲得任何國家採用，计划流产于1990年\[1\]。
 
 ## 開發概要
 
@@ -34,3 +34,5 @@ AMX-40是GIAT針對AMX-30及AMX-32的缺點在1983年推出的原型車，其用
   - [法国AMX-40主战坦克](http://www.airforceworld.com/tank/zztk/zztk007.htm)
 
 [Category:法國坦克](https://zh.wikipedia.org/wiki/Category:法國坦克 "wikilink") [Category:法国装甲战斗车辆](https://zh.wikipedia.org/wiki/Category:法国装甲战斗车辆 "wikilink") [Category:主战坦克](https://zh.wikipedia.org/wiki/Category:主战坦克 "wikilink") [Category:現代坦克](https://zh.wikipedia.org/wiki/Category:現代坦克 "wikilink")
+
+1.

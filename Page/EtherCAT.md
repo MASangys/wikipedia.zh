@@ -4,9 +4,7 @@
 
 ## 機能原理
 
-一般工業通訊的網路各節點傳送的資料長度不長，多半都比乙太網幀的最小長度要小。而每個節點每次更新資料都要送出一個幀，造成頻寬的低利用率，網路的整體性能也隨之下降。EtherCAT利用一種稱為「飛速傳輸」（processing on the fly）的技術改善以上的問題\[3\]。
-
-在EtherCAT網路中，當資料[帧](../Page/帧.md "wikilink")通過EtherCAT節點時，節點會複製資料，再傳送到下一個節點，同時識別對應此節點的資料，則會進行對應的處理，若節點需要送出資料，也會在傳送到下一個節點的資料中插入要送出的資料\[4\] 。每個節點接收及傳送資料的時間少於1微秒，一般而言只用一個[帧](../Page/帧.md "wikilink")的資料就可以供所有的網路上的節點傳送及接收資料。[此處](http://upload.wikimedia.org/wikipedia/commons/1/1f/EthercatOperatingPrinciple.svg)有EtherCAT網路傳送原理的動畫。
+一般工業通訊的網路各節點傳送的資料長度不長，多半都比乙太網幀的最小長度要小。而每個節點每次更新資料都要送出一個幀，造成頻寬的低利用率，網路的整體性能也隨之下降。EtherCAT利用一種稱為「飛速傳輸」（processing on the fly）的技術改善以上的問題\[3\]。 [替代=EtherCAT 運作動畫](https://zh.wikipedia.org/wiki/File:EthercatOperatingPrinciple.svg "fig:替代=EtherCAT 運作動畫") 在EtherCAT網路中，當資料[帧](../Page/帧.md "wikilink")通過EtherCAT節點時，節點會複製資料，再傳送到下一個節點，同時識別對應此節點的資料，則會進行對應的處理，若節點需要送出資料，也會在傳送到下一個節點的資料中插入要送出的資料\[4\] 。每個節點接收及傳送資料的時間少於1微秒，一般而言只用一個[帧](../Page/帧.md "wikilink")的資料就可以供所有的網路上的節點傳送及接收資料。
 
 ## 通訊協定
 

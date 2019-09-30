@@ -245,7 +245,7 @@
 </tr>
 <tr class="odd">
 <td><p>2020</p></td>
-<td><p>♦<strong><a href="https://zh.wikipedia.org/wiki/猛禽小隊_(電影)" title="wikilink">猛禽小隊：小丑女大解放</a></strong></p></td>
+<td><p>♦<strong><a href="https://zh.wikipedia.org/wiki/猛禽小隊：小丑女大解放" title="wikilink">猛禽小隊：小丑女大解放</a></strong></p></td>
 <td><p>華納兄弟/DC影業/LuckyChap Productions/Kroll &amp; Co. Entertainment/Clubhouse Pictures</p></td>
 <td></td>
 </tr>

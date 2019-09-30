@@ -41,8 +41,8 @@
   - 2017年1月26日 - [Corona Blossom Vol.3 Journey to the Stars](../Page/Corona_Blossom.md "wikilink")
   - 2017年4月28日 - [グリザイア ファントムトリガー](https://zh.wikipedia.org/wiki/灰色：Phantom_Trigger "wikilink")
   - 2018年4月27日 - ももいろクローゼット
-  - 2018年10月26日 - ろけらぶ 同棲×後輩
-  - 2019年8月30日 - ろけらぶ 電車×同級生
+  - 2018年10月26日 - [ろけらぶ 同棲×後輩](https://zh.wikipedia.org/wiki/戀愛定位 "wikilink")
+  - 2019年8月30日 - [ろけらぶ 電車×同級生](https://zh.wikipedia.org/wiki/戀愛定位 "wikilink")
   - 未定 - ろけらぶ 神社×先輩
 
 ### Survive

@@ -28,7 +28,7 @@
 
 ## 授權條款
 
-Sandboxie是在它的終端使用者許可協定下釋出的。某些功能，像是同時運行多個沙盒在免費的未註冊版本中是被[封鎖的](https://zh.wikipedia.org/wiki/殘廢軟體 "wikilink")\[27\]。過了30天後，使用免費的未註冊版本的用戶會在沙盒內執行程式時遇到[彈出式的購買廣告](https://zh.wikipedia.org/wiki/嘮叨軟體 "wikilink")\[28\]。
+Sandboxie原是在它的終端使用者許可協定下釋出的。某些功能，像是同時運行多個沙盒在免費的未註冊版本中是被[封鎖的](https://zh.wikipedia.org/wiki/殘廢軟體 "wikilink")\[27\]。過了30天後，使用免費的未註冊版本的用戶會在沙盒內執行程式時遇到[彈出式的購買廣告](https://zh.wikipedia.org/wiki/嘮叨軟體 "wikilink")\[28\]。 2019年9月11日，Sandboxie轉型成免費軟體，未來甚至會開放原始碼。
 
 ## 評論
 

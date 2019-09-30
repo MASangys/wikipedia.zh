@@ -1,10 +1,10 @@
-**FN Minimi 7.62**（又稱：FN Maximi）是一款由[比利时](../Page/比利时.md "wikilink")槍械製造商[埃斯塔勒国营工厂](../Page/埃斯塔勒国营工厂.md "wikilink")（，簡稱：FN）所研製及生產的輕型[可散式彈鏈供彈的](../Page/彈鏈.md "wikilink")[通用機槍](../Page/通用機槍.md "wikilink")，是[FN Minimi輕機槍的](../Page/FN_Minimi輕機槍.md "wikilink")[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[北约](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑版本](https://zh.wikipedia.org/wiki/口徑 "wikilink")。
+**FN Minimi 7.62**（又稱：FN Maximi）是一款由[比利时](../Page/比利时.md "wikilink")槍械製造商[埃斯塔勒](../Page/埃斯塔勒.md "wikilink")[國營工厂](https://zh.wikipedia.org/wiki/埃斯塔勒國營工廠 "wikilink")（，簡稱：FN）所研製及生產的輕型[可散式彈鏈供彈的](../Page/彈鏈.md "wikilink")[通用機槍](../Page/通用機槍.md "wikilink")，是[FN Minimi輕機槍的](../Page/FN_Minimi輕機槍.md "wikilink")[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[北约](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑版本](https://zh.wikipedia.org/wiki/口徑 "wikilink")。
 
 ## 歷史
 
 FN Minimi在1970年代初期開始研發，當時[北约各國主流仍然是發射](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[7.62×51毫米北约口徑的](../Page/7.62×51mm_NATO.md "wikilink")[通用機槍](../Page/通用機槍.md "wikilink")作。
 
-FN Minimi的最初原設計是發射[7.62×51毫米彈藥](../Page/7.62×51mm_NATO.md "wikilink")，但當時的[國營赫斯塔爾](https://zh.wikipedia.org/wiki/赫爾斯塔爾國營工廠 "wikilink")（，簡稱：FN）為了令他們開發的5.56×45毫米SS109[彈藥能成為新一代北約制式彈藥](https://zh.wikipedia.org/wiki/彈藥 "wikilink")，在加入[美国陆军](../Page/美国陆军.md "wikilink")舉行的班用自動武器（SAW）評選時改為[5.56×45毫米口徑](../Page/5.56×45mm_NATO.md "wikilink")。
+FN Minimi的最初原設計是發射[7.62×51毫米彈藥](../Page/7.62×51mm_NATO.md "wikilink")，但當時的[國營埃斯塔勒](https://zh.wikipedia.org/wiki/埃斯塔勒國營工廠 "wikilink")（，簡稱：FN）為了令他們開發的5.56×45毫米SS109[彈藥能成為新一代北約制式彈藥](https://zh.wikipedia.org/wiki/彈藥 "wikilink")，在加入[美国陆军](../Page/美国陆军.md "wikilink")舉行的班用自動武器（SAW）評選時改為[5.56×45毫米口徑](../Page/5.56×45mm_NATO.md "wikilink")。
 
 當5.56×45毫米口徑的FN Minimi成為世界著名的小口徑輕機槍以後，近年，國營赫斯塔爾以Minimi的設計開發出7.62×51毫米口徑的[通用機槍](../Page/通用機槍.md "wikilink")，並命名為FN Minimi 7.62\[1\]，美軍版本命名為[Mk 48 Mod 0](../Page/Mk_48輕量化機槍.md "wikilink")\[2\]，目前FN Minimi 7.62亦已經正式推出市場，旨在與FN MAG58和美國[M60通用機槍](../Page/M60通用機槍.md "wikilink")競爭。
 
@@ -46,9 +46,9 @@ FN Minimi 7.62擁有7.62毫米武器的威力，卻只有5.56毫米武器的重�
 
 ## 參見
 
-  - [國營赫斯塔爾](https://zh.wikipedia.org/wiki/赫爾斯塔爾國營工廠 "wikilink")
+  - [國營埃斯塔勒](https://zh.wikipedia.org/wiki/埃斯塔勒國營工廠 "wikilink")
   - [FN Minimi](../Page/FN_Minimi輕機槍.md "wikilink")，FN Minimi 7.62的原型
-  - [FN MAG](../Page/FN_MAG通用機槍.md "wikilink")，[國營赫斯塔爾生產的第一種](https://zh.wikipedia.org/wiki/赫爾斯塔爾國營工廠 "wikilink")[通用](../Page/通用機槍.md "wikilink")[中型機槍](https://zh.wikipedia.org/wiki/中型機槍 "wikilink")
+  - [FN MAG](../Page/FN_MAG通用機槍.md "wikilink")，國營埃斯塔勒生產的第一款[通用](../Page/通用機槍.md "wikilink")[中型機槍](https://zh.wikipedia.org/wiki/中型機槍 "wikilink")
   - [M240](../Page/M240通用機槍.md "wikilink")，[美國軍隊現役通用中型機槍](../Page/美军.md "wikilink")
   - [Mk 48 Mod 0/1](../Page/Mk_48輕量化機槍.md "wikilink")，[M249 SAW的](../Page/M249班用自動武器.md "wikilink")7.62×51毫米[北约](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑制式](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")[通用機槍](../Page/通用機槍.md "wikilink")版本
   - [M60E4／Mk 43 Mod 0/1](https://zh.wikipedia.org/wiki/M60通用機槍#M60E4及Mk_43_Mod_0/1 "wikilink")，為[特種部隊](../Page/特種部隊.md "wikilink")任務而開發的[M60通用機槍](../Page/M60通用機槍.md "wikilink")衍生型

@@ -1,4 +1,4 @@
-《**WIZARD BARRISTERS～弁魔士賽希爾**》（）是由梅津泰臣所导的动画。于2014年1月12日开始首播。
+《**WIZARD BARRISTERS～弁魔士賽希爾**》（）是2014年日本動畫，由[梅津泰臣](../Page/梅津泰臣.md "wikilink")所导。于2014年1月12日开始首播。
 
 ## 概要
 
@@ -560,7 +560,9 @@ Chang Bum Chul、Lee Ju Hak</p></td>
   - [《-{辯魔師}-》TVB官方網站](http://programme.tvb.com/animation/wizardbarristers)
 
   -
-[Category:Arms](https://zh.wikipedia.org/wiki/Category:Arms "wikilink") [Category:2014年UHF動畫](https://zh.wikipedia.org/wiki/Category:2014年UHF動畫 "wikilink") [Category:法律題材作品](https://zh.wikipedia.org/wiki/Category:法律題材作品 "wikilink") [Category:魔法題材動畫](https://zh.wikipedia.org/wiki/Category:魔法題材動畫 "wikilink") [Category:奇幻動畫](https://zh.wikipedia.org/wiki/Category:奇幻動畫 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
+[分類:法律題材動畫](https://zh.wikipedia.org/wiki/分類:法律題材動畫 "wikilink")
+
+[Category:Arms](https://zh.wikipedia.org/wiki/Category:Arms "wikilink") [Category:2014年UHF動畫](https://zh.wikipedia.org/wiki/Category:2014年UHF動畫 "wikilink") [Category:魔法題材動畫](https://zh.wikipedia.org/wiki/Category:魔法題材動畫 "wikilink") [Category:奇幻動畫](https://zh.wikipedia.org/wiki/Category:奇幻動畫 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
 
 1.  標題以播放時所顯示的字幕為準。
 2.  [台灣Animax臉書](https://www.facebook.com/AnimaxTW/photos/a.267985482120.147173.267961307120/10152605106352121/?type=3&theater)，2016/12/27閱覽。

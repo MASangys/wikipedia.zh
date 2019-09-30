@@ -1,4 +1,4 @@
-**LOVE RADIO 103.7**，全名**上海人民广播电台流行音乐频率**，原名**上海人民广播电台音乐台（音乐之声）**、**上海人民广播电台流行金曲广播**，是一家总部设在[上海的音乐广播频率](https://zh.wikipedia.org/wiki/上海 "wikilink")，也是上海最早的音乐频率，开播于1985年9月1日\[1\]。该台原先隶属于[上海人民广播电台](https://zh.wikipedia.org/wiki/上海人民广播电台 "wikilink")，但在[上海广播电视台](../Page/上海广播电视台.md "wikilink")成立将[上海人民广播电台和上海东方广播电台合并后](https://zh.wikipedia.org/wiki/上海人民广播电台 "wikilink")，原上海人民广播电台流行金曲广播并入后来成立的SMG文艺广播中心，并更名为LOVE RADIO 103.7。\[2\]
+**LOVE RADIO 103.7**，全名**上海人民广播电台经典金曲广播**，原名**上海人民广播电台音乐台（音乐之声）**、**上海人民广播电台流行金曲广播**，是一家总部设在[上海的音乐广播频率](https://zh.wikipedia.org/wiki/上海 "wikilink")，也是上海最早的音乐频率，开播于1985年9月1日\[1\]。该台原先隶属于[上海人民广播电台](https://zh.wikipedia.org/wiki/上海人民广播电台 "wikilink")，但在[上海广播电视台](../Page/上海广播电视台.md "wikilink")成立将[上海人民广播电台和上海东方广播电台合并后](https://zh.wikipedia.org/wiki/上海人民广播电台 "wikilink")，原上海人民广播电台流行金曲广播并入后来成立的SMG文艺广播中心，并更名为LOVE RADIO 103.7。\[2\]
 
 2010年，SMG广播部门进行改制，成立新的上海[东方广播有限公司](https://zh.wikipedia.org/wiki/东方广播 "wikilink")，LOVE RADIO 103.7并入[东方广播](https://zh.wikipedia.org/wiki/东方广播 "wikilink")。该台是上海唯一24小时广播的音乐电台。
 

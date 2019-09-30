@@ -14,7 +14,7 @@ SIG P226是專為參與由[美国陆军](../Page/美国陆军.md "wikilink")在1
 
 [SIG_P226_IMG_3053-labels.jpg](https://zh.wikipedia.org/wiki/File:SIG_P226_IMG_3053-labels.jpg "fig:SIG_P226_IMG_3053-labels.jpg")／鎖耳、2.[照門](https://zh.wikipedia.org/wiki/照門 "wikilink")、3.、4.分解桿、5.[待擊解脫桿](https://zh.wikipedia.org/wiki/待擊解脫桿 "wikilink")、6.[套筒阻鐵](https://zh.wikipedia.org/wiki/套筒阻鐵 "wikilink")、7.，8.[彈匣](../Page/彈匣.md "wikilink")釋放按鈕。\]\] [Pistole_SIG_Sauer_P226_S.jpg](https://zh.wikipedia.org/wiki/File:Pistole_SIG_Sauer_P226_S.jpg "fig:Pistole_SIG_Sauer_P226_S.jpg")型SIG P226。\]\] P226與SIG經典手槍系列的其他成員一樣，採用了由[約翰·白朗寧首創的](https://zh.wikipedia.org/wiki/約翰·白朗寧 "wikilink")[後膛閉鎖](https://zh.wikipedia.org/wiki/後膛閉鎖 "wikilink")[槍管短行程後座作用模式以使全槍運作](https://zh.wikipedia.org/wiki/後座作用#槍管短行程後座作用 "wikilink")。在射擊時，[套筒和](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")[槍管](../Page/槍管.md "wikilink")鎖在一起並且向後移動幾毫米，槍管會向後移直到後方的絞鏈時使後膛向下傾斜。這個時候，子彈已經離開槍管，而壓力亦已經下降到安全水平。在這種情況以下，套筒已完成向後行程，並以[拋彈口退出](https://zh.wikipedia.org/wiki/拋彈口 "wikilink")[彈殼](https://zh.wikipedia.org/wiki/彈殼 "wikilink")。然後復進簧（又稱：反沖彈簧）會向前推動套筒，從彈匣上取出最頂部的一發並讓槍管後膛向上回複水平同時向前運動幾毫米，再將套筒和槍管一起閉鎖。
 
-與其他白朗寧型武器（諸如[柯爾特](https://zh.wikipedia.org/wiki/柯爾特 "wikilink")[M1911A1](../Page/M1911手槍.md "wikilink")，[白朗寧大威力手槍](../Page/白朗寧大威力手槍.md "wikilink")和[CZ-75](https://zh.wikipedia.org/wiki/CZ-75手槍 "wikilink")）以[槍管](../Page/槍管.md "wikilink")和套筒之間的閉鎖鎖耳和凹槽的相互扣合以實現閉鎖相反的是，P226使用加大的槍管後膛節套在拋殼口內閉鎖使槍管和[套筒得以閉鎖在一起](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")。這個由SIG所發明的一個修改過的閉鎖系統與原來由白朗寧研製的閉鎖系統相比並沒有任何功能上的缺點，而且目前已經被眾多的槍械製造商所仿製。\[4\]
+與其他白朗寧型武器（諸如[柯爾特](https://zh.wikipedia.org/wiki/柯爾特 "wikilink")[M1911A1](../Page/M1911手槍.md "wikilink")，[白朗寧大威力半自動手槍和](https://zh.wikipedia.org/wiki/白朗寧大威力半自動手槍 "wikilink")[CZ 75](../Page/CZ_75手槍.md "wikilink")）以[槍管](../Page/槍管.md "wikilink")和套筒之間的閉鎖鎖耳和凹槽的相互扣合以實現閉鎖相反的是，P226使用加大的槍管後膛節套在拋殼口內閉鎖使槍管和[套筒得以閉鎖在一起](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")。這個由SIG所發明的一個修改過的閉鎖系統與原來由白朗寧研製的閉鎖系統相比並沒有任何功能上的缺點，而且目前已經被眾多的槍械製造商所仿製。\[4\]
 
 1996年以前的P226的[套筒非常沉重](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")，其套筒原本是採用[碳鋼](../Page/碳鋼.md "wikilink")材料，與P220一樣採用處理的鈑金[衝壓](../Page/衝壓.md "wikilink")成形金屬件以[焊接](../Page/焊接.md "wikilink")方式將其槍鼻部分與內部的槍管襯套結合一起。後膛閉鎖塊的部分是通過可在套筒兩面的任何一方看見的[釬焊和彈性圓柱銷兩種機械方式加工插入連接到套筒](https://zh.wikipedia.org/wiki/釬焊 "wikilink")。自1996年以後，生產模式已轉變為[數控加工](https://zh.wikipedia.org/wiki/數控加工 "wikilink")而成，而套筒現在是由單塊式銑削[不鏽鋼](../Page/不鏽鋼.md "wikilink")材料加上啞光處理製造。因此，目前的標準型P226為使用黑色陽極氧化處理的新型不鏽鋼套筒。這亦令P226可以使用一個更為堅固的套筒，這點在[膛室](../Page/膛室.md "wikilink")在裝填和需要承受[火力和膛壓更為強大的](https://zh.wikipedia.org/wiki/火力 "wikilink")[.40 S\&W和](../Page/.40_S&W.md "wikilink")[.357 SIG這兩種手槍子彈的時候更為必要的](../Page/.357_SIG.md "wikilink")，此外增加套筒的重量可以降低後坐速度。但另一方面這也使套筒比過去的更為沉重，而且由於P226設計時並非為使用[.40 S\&W和](../Page/.40_S&W.md "wikilink")[.357 SIG這兩種手槍子彈](../Page/.357_SIG.md "wikilink")，因此在發射這兩種手槍子彈時不論精度表現還是射擊感覺都不大理想。 [SIG_P226_img_1624.jpg](https://zh.wikipedia.org/wiki/File:SIG_P226_img_1624.jpg "fig:SIG_P226_img_1624.jpg") P226的所有型號的[底把是由硬質](../Page/机匣.md "wikilink")[氧化](https://zh.wikipedia.org/wiki/氧化 "wikilink")[鋁合金](../Page/鋁合金.md "wikilink")所製造。
 
@@ -983,9 +983,9 @@ SIG P226同時出現在不少[电影](../Page/电影.md "wikilink")、[电视剧
 
   - [三軍戰鬥手槍](https://zh.wikipedia.org/wiki/三軍戰鬥手槍 "wikilink")（Joint Combat Pistol，JCP）
   - [貝瑞塔M9手槍](../Page/貝瑞塔M9手槍.md "wikilink")
-  - [FN HP-DA](../Page/白朗寧雙動手槍.md "wikilink")
+  - [FN HP-DA](https://zh.wikipedia.org/wiki/白朗寧雙動半自動手槍 "wikilink")
   - [HK P9S](../Page/HK_P9S手槍.md "wikilink")
-  - [史密斯威森M459](../Page/史密斯威森M59手槍.md "wikilink")
+  - [史密斯威森M459](../Page/史密斯威森M459手槍.md "wikilink")
   - [SIG P227](../Page/SIG_P227手槍.md "wikilink")
   - [SIG P228](../Page/SIG_P228手槍.md "wikilink")
   - [SIG P229](../Page/SIG_P229手槍.md "wikilink")

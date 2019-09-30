@@ -101,26 +101,19 @@ tvN Asia大部分節目由Mnet媒體、[CJ E\&M及](https://zh.wikipedia.org/wik
 <tr class="even">
 <td><p>星期一、二</p></td>
 <td><p>23:05 - 00:20</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Circle：相连的两个世界" title="wikilink">Circle：相连的两个世界</a></p></td>
-<td><p>7月29日起</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/武法律师" title="wikilink">武法律师</a></p></td>
+<td><p>9月16日起</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Player_(韩国电视剧)" title="wikilink">玩家</a></p></td>
-<td><p><br />
-</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>星期二、三</p></td>
 <td><p>21:50 - 23:05</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/德鲁纳酒店" title="wikilink">德鲁纳酒店</a></p></td>
 <td><p>8月13日起</p></td>
-<td></td>
+<td><p><br />
+</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>星期四、五</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Mother_(韩国电视剧)" title="wikilink">母亲</a></p></td>
 <td><p>8月1日起</p></td>
@@ -134,7 +127,7 @@ tvN Asia大部分節目由Mnet媒體、[CJ E\&M及](https://zh.wikipedia.org/wik
 </p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/当恶魔呼喊你的名字时" title="wikilink">当恶魔呼喊你的名字时</a></p></td>
 <td><p>8月1日起，与韩国24小时内同日播出</p></td>
 <td><p><br />
@@ -143,7 +136,7 @@ tvN Asia大部分節目由Mnet媒體、[CJ E\&M及](https://zh.wikipedia.org/wik
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>星期二、三</p></td>
 <td><p>20:50 - 22:05(<a href="https://zh.wikipedia.org/wiki/UTC+7" title="wikilink">UTC+7</a>)</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/伟大的Show" title="wikilink">伟大的Show</a></p></td>
@@ -421,7 +414,7 @@ tvN Asia大部分節目由Mnet媒體、[CJ E\&M及](https://zh.wikipedia.org/wik
   - 《[今生是第一次](../Page/今生是第一次.md "wikilink")》
   - 《[付岩洞复仇者们](https://zh.wikipedia.org/wiki/付岩洞复仇者们 "wikilink")》
   - 《[小神的孩子們](../Page/小神的孩子們.md "wikilink")》
-  - 《[她愛上了我的謊](../Page/她愛上了我的謊_\(韓國電視劇\).md "wikilink")》
+  - 《[武法律師](../Page/武法律師.md "wikilink")》
   - 《[Circle：相連的兩個世界](../Page/Circle：相連的兩個世界.md "wikilink")》
 
 ## 節目

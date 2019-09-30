@@ -1,14 +1,14 @@
-**TFBOYS**（全名**The Fighting Boys**，又稱**加油男孩**\[1\]），2013年[中國大陸推出的男子團體](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")\[2\]，成員有[王俊凱](https://zh.wikipedia.org/wiki/王俊凱 "wikilink")、[王源和](../Page/王源_\(艺人\).md "wikilink")[易烊千璽](https://zh.wikipedia.org/wiki/易烊千璽 "wikilink")。以網絡傳播的方式竄紅\[3\]。
+**TFBOYS**（全名**The Fighting Boys**，中文名為**加油男孩**\[1\]），2013年[中國大陸推出的男子團體](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")\[2\]，成員有[王俊凱](https://zh.wikipedia.org/wiki/王俊凱 "wikilink")、[王源和](../Page/王源_\(艺人\).md "wikilink")[易烊千璽](https://zh.wikipedia.org/wiki/易烊千璽 "wikilink")。以網絡傳播的方式竄紅\[3\]。
 
 ## 簡介
 
-出道前，成員王俊凱與王源為[重慶市](https://zh.wikipedia.org/wiki/重慶市 "wikilink")[时代峰峻練習生](https://zh.wikipedia.org/wiki/北京时代峰峻文化艺术发展有限公司 "wikilink")，以免費的方式提供培訓。
+出道前，成員王俊凱與王源為[重慶市](https://zh.wikipedia.org/wiki/重慶市 "wikilink")[时代峰峻練習生](https://zh.wikipedia.org/wiki/北京时代峰峻文化艺术发展有限公司 "wikilink")，分別是「TF家族」第二批和第三批的練習生，以免費的方式提供培訓。而易烊千璽當時則是飛炫少年成員，之後才退出轉而加入TFBOYS。\[4\]
 
-2013年7月28日，TF家族的練習生[王俊凱](https://zh.wikipedia.org/wiki/王俊凱 "wikilink")、[王源與](../Page/王源_\(艺人\).md "wikilink")[易烊千璽組成男子偶像組合](https://zh.wikipedia.org/wiki/易烊千璽 "wikilink")「TFBOYS」。同年8月6日發布組合形象片《十年》正式出道。10月18日，首張EP《Heart 夢·出發》正式發行。
+2013年7月28日，[王俊凱](https://zh.wikipedia.org/wiki/王俊凱 "wikilink")、[王源與](../Page/王源_\(艺人\).md "wikilink")[易烊千璽組成男子偶像組合](https://zh.wikipedia.org/wiki/易烊千璽 "wikilink")「TFBOYS」。同年8月6日發布形象片《十年》正式出道。10月18日，首張EP《Heart 夢·出發》正式發行。
 
-2016年2月初次登上[中央電視台](https://zh.wikipedia.org/wiki/中央電視台 "wikilink")[春節聯歡晚會表演](https://zh.wikipedia.org/wiki/春節聯歡晚會 "wikilink")。
+2016年2月初次登上[中央電視台](https://zh.wikipedia.org/wiki/中央電視台 "wikilink")[春節聯歡晚會表演](https://zh.wikipedia.org/wiki/春節聯歡晚會 "wikilink")《幸福成長》節目。同年7月，三人主演的校園懸疑網絡劇《[超少年密碼](https://zh.wikipedia.org/wiki/超少年密碼 "wikilink")》首播。
 
-2017年9月，三名成員分別成立個人工作室，並開通個人工作室官方微博。時代峰峻公司表示，此次調整的目的是在優先保證組合活動的前提下，追求個人更大的發展空間\[4\]。
+2017年7月，湖南衛視為TFBOYS量身定做的青春勵志劇《[我們的少年時代](https://zh.wikipedia.org/wiki/我們的少年時代 "wikilink")》播出。同年9月，三名成員分別成立個人工作室，並開通個人工作室官方微博。時代峰峻公司表示，此次調整的目的是在優先保證組合活動的前提下，追求個人更大的發展空間\[5\]。
 
 ## 成員列表
 
@@ -17,51 +17,27 @@
 <tr class="header">
 <th><p>姓名</p></th>
 <th><p>英文名</p></th>
-<th><p>出生日期</p></th>
-<th><p>出生地</p></th>
-<th><p>代表作品</p></th>
+<th><p>出生日期/出生地</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/王俊凱" title="wikilink">王俊凱</a></p></td>
-<td><p>Karry Wang Jun Kai</p></td>
-<td></td>
-<td><p><a href="../Page/重庆市.md" title="wikilink">重庆市</a></p></td>
-<td><ul>
-<li><a href="https://zh.wikipedia.org/wiki/長城_(電影)" title="wikilink">長城</a></li>
-<li><a href="../Page/解憂雜貨店_(中國電影).md" title="wikilink">解憂雜貨店</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/天坑鷹獵" title="wikilink">天坑鷹獵</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/高能少年團" title="wikilink">高能少年團</a>（第一至二季）</li>
-<li><a href="https://zh.wikipedia.org/wiki/中餐廳" title="wikilink">中餐廳</a>（第二至三季）</li>
-</ul></td>
+<td><p>Karry Wang</p></td>
+<td><p><br />
+<a href="../Page/重庆市.md" title="wikilink">重庆市</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/王源_(藝人)" title="wikilink">王源</a></p></td>
 <td><p>Roy Wang</p></td>
-<td></td>
-<td><p><a href="../Page/重庆市.md" title="wikilink">重庆市</a></p></td>
-<td><ul>
-<li><a href="https://zh.wikipedia.org/wiki/因為遇見你" title="wikilink">因為遇見你</a></li>
-<li>十七</li>
-<li><a href="https://zh.wikipedia.org/wiki/爵跡" title="wikilink">爵跡</a></li>
-<li><a href="../Page/大主宰.md" title="wikilink">大主宰</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/王牌對王牌" title="wikilink">王牌對王牌</a>（第二至三季）</li>
-</ul></td>
+<td><p><br />
+<a href="../Page/重庆市.md" title="wikilink">重庆市</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/易烊千璽" title="wikilink">易烊千璽</a></p></td>
 <td><p>Jackson Yee</p></td>
-<td></td>
-<td><p><a href="../Page/湖南省.md" title="wikilink">湖南省</a><a href="../Page/怀化市.md" title="wikilink">怀化市</a></p></td>
-<td><ul>
-<li><a href="../Page/我樂意沉默釋放內心焰火.md" title="wikilink">我樂意沉默釋放內心焰火</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/長安十二時辰" title="wikilink">長安十二時辰</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/熱血傳奇艷勢番" title="wikilink">熱血傳奇艷勢番</a></li>
-<li><a href="../Page/少年的你.md" title="wikilink">少年的你</a></li>
-<li><a href="../Page/這就是街舞.md" title="wikilink">這就是街舞</a>（第一至二季）</li>
-<li><a href="../Page/大冰小將.md" title="wikilink">大冰小將</a></li>
-</ul></td>
+<td><p><br />
+<a href="../Page/湖南省.md" title="wikilink">湖南省</a><a href="../Page/怀化市.md" title="wikilink">怀化市</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -148,26 +124,6 @@
 </ul></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>4th</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/喜歡你_(专辑)" title="wikilink">喜歡你</a>》</p>
-<ul>
-<li>發行日期：2018年8月17日</li>
-<li>發行商：</li>
-<li>語言：普通话</li>
-</ul></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>4th</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/第一次告白" title="wikilink">第一次告白</a>》</p>
-<ul>
-<li>發行日期：2019年8月5日</li>
-<li>發行商：</li>
-<li>語言：普通话</li>
-</ul></td>
-<td></td>
-</tr>
 </tbody>
 </table>
 
@@ -179,7 +135,7 @@
 | 為夢想，時刻準備著                                     | [步步高家教機廣告曲](https://zh.wikipedia.org/wiki/步步高 "wikilink")                                                                      |                                                                                                                       |
 | 想唱就唱                                          | 電影《[我就是我](https://zh.wikipedia.org/wiki/我就是我 "wikilink")》主题曲，翻唱自《[超級女聲](https://zh.wikipedia.org/wiki/超級女聲 "wikilink")2005》主題曲 |                                                                                                                       |
 | 開學第一課                                         | [央視節目](https://zh.wikipedia.org/wiki/央視 "wikilink")《[开学第一课](../Page/开学第一课.md "wikilink")》2014主題曲                               |                                                                                                                       |
-| 2015年                                         | 恋西游                                                                                                                            | 《[梦幻西游](https://zh.wikipedia.org/wiki/梦幻西游 "wikilink")2》動畫主题曲\[5\]                                                    |
+| 2015年                                         | 恋西游                                                                                                                            | 《[梦幻西游](https://zh.wikipedia.org/wiki/梦幻西游 "wikilink")2》動畫主题曲\[6\]                                                    |
 | 我们是共产主义接班人（與[韓庚](../Page/韓庚.md "wikilink")合唱） | [中国少年先锋队](../Page/中国少年先锋队.md "wikilink")队歌                                                                                     |                                                                                                                       |
 | 梦想天灯2016（與[羽·泉](../Page/羽·泉.md "wikilink")合唱） | [康師傅](../Page/康師傅.md "wikilink")[紅燒牛肉面廣告曲](https://zh.wikipedia.org/wiki/紅燒牛肉面 "wikilink")                                     |                                                                                                                       |
 | 2016年                                         | 守護家                                                                                                                            | [舒肤佳廣告曲](https://zh.wikipedia.org/wiki/舒肤佳 "wikilink")                                                                |
@@ -262,31 +218,31 @@
 
 ## 公益活動
 
-2014年6月，TFBOYS组合联合中国人口福利基金会及新浪微公益，在微博发起了＃TFBOYS益起来＃让唇腭裂儿童绽放笑容公益活动。8月3日，TFBOYS组合在北京出席幸福微笑公益活动暨出道一周年粉丝答谢会\[6\]，中国福利基金会在现场授予他们幸福微笑－救助唇腭裂儿童公益项目爱心大使的称号\[7\]。8月15日，向[天津市](../Page/天津市.md "wikilink")[塘沽爆炸事件中的遇难同胞捐款三十万元](../Page/2015年天津港危化品倉庫爆炸事故.md "wikilink")，并将出道两周年见面会的部分门票收入捐给了抗战老兵公益项目\[8\]。 8月20日，接受由[章子怡](../Page/章子怡.md "wikilink")传递的“[冰桶挑戰](../Page/冰桶挑戰.md "wikilink")”公益接力。10月17日，受芒果V基金邀请担任圆梦计划的圆梦大使\[9\]。11月26日，参加[中央电视台公益节目](../Page/中国中央电视台.md "wikilink")《梦想星搭档》第二季，成为该季第二位公益加油大使\[10\]。
+2014年6月，TFBOYS组合联合中国人口福利基金会及新浪微公益，在微博发起了＃TFBOYS益起来＃让唇腭裂儿童绽放笑容公益活动。8月3日，TFBOYS组合在北京出席幸福微笑公益活动暨出道一周年粉丝答谢会\[7\]，中国福利基金会在现场授予他们幸福微笑－救助唇腭裂儿童公益项目爱心大使的称号\[8\]。8月15日，向[天津市](../Page/天津市.md "wikilink")[塘沽爆炸事件中的遇难同胞捐款三十万元](../Page/2015年天津港危化品倉庫爆炸事故.md "wikilink")，并将出道两周年见面会的部分门票收入捐给了抗战老兵公益项目\[9\]。 8月20日，接受由[章子怡](../Page/章子怡.md "wikilink")传递的“[冰桶挑戰](../Page/冰桶挑戰.md "wikilink")”公益接力。10月17日，受芒果V基金邀请担任圆梦计划的圆梦大使\[10\]。11月26日，参加[中央电视台公益节目](../Page/中国中央电视台.md "wikilink")《梦想星搭档》第二季，成为该季第二位公益加油大使\[11\]。
 
-2015年1月14日，TFBOYS出席“2014微博之夜”盛典，获得“2014微博之夜”年度公益贡献奖\[11\]。8月14日，以形象大使身份出席[共青团中央发起的](../Page/中国共产主义青年团.md "wikilink")“阳光跟帖”活动启动仪式并宣读阳光宣言\[12\]。8月21日，参加中央电视台纪念[中国人民抗日战争暨世界反法西斯战争胜利七十周年的大型公益节目](https://zh.wikipedia.org/wiki/纪念中国人民抗日战争暨世界反法西斯战争胜利70周年大会 "wikilink")《开学第一课》， 领诵宣言致敬英雄\[13\]。9月16日，献唱“MusicRadio我要上学”公益项目的主题曲《Love With You》\[14\]。9月23日，参加2015 Bazzar明星慈善夜，帮助“为爱加速”思源·芭莎贫困县（乡）救护车公益项目募款417万元。11月3日，成为[重庆市](../Page/重庆市.md "wikilink")[公安消防部队](../Page/公安消防部队.md "wikilink")公益代言人\[15\]。11月30日，TFBOYS出席了由腾讯QQ、QQ空间、中国扶贫基金和腾讯公益联合发起的“QQ红围巾计划”公益发布会，为偏远、贫困地区青少年定制冬日暖衣。
+2015年1月14日，TFBOYS出席“2014微博之夜”盛典，获得“2014微博之夜”年度公益贡献奖\[12\]。8月14日，以形象大使身份出席[共青团中央发起的](../Page/中国共产主义青年团.md "wikilink")“阳光跟帖”活动启动仪式并宣读阳光宣言\[13\]。8月21日，参加中央电视台纪念[中国人民抗日战争暨世界反法西斯战争胜利七十周年的大型公益节目](https://zh.wikipedia.org/wiki/纪念中国人民抗日战争暨世界反法西斯战争胜利70周年大会 "wikilink")《开学第一课》， 领诵宣言致敬英雄\[14\]。9月16日，献唱“MusicRadio我要上学”公益项目的主题曲《Love With You》\[15\]。9月23日，参加2015 Bazzar明星慈善夜，帮助“为爱加速”思源·芭莎贫困县（乡）救护车公益项目募款417万元。11月3日，成为[重庆市](../Page/重庆市.md "wikilink")[公安消防部队](../Page/公安消防部队.md "wikilink")公益代言人\[16\]。11月30日，TFBOYS出席了由腾讯QQ、QQ空间、中国扶贫基金和腾讯公益联合发起的“QQ红围巾计划”公益发布会，为偏远、贫困地区青少年定制冬日暖衣。
 
 ## 爭議事件
 
   - **单曲《信仰之名》疑似抄襲**
 
-2014年10月17日其发表新单曲《信仰之名》之后，有人指出其歌曲曲风与日本动漫《[科學超電磁砲](../Page/科學超電磁砲.md "wikilink")》的主题曲「[Only my railgun](../Page/Only_my_railgun.md "wikilink")」过于相似，并指出有抄袭嫌疑。\[16\]随后，網上並有人製作兩個影片的對照版本\[17\]此事件随后传到日本。对此，《科学超电磁炮》的主题曲作曲者[八木沼悟志](../Page/八木沼悟志.md "wikilink")回应说：“确实很像，不过我觉得是有原创性的、很好的作品。如果我的作品能影响到海外的话也是很开心的事。”\[18\]
+2014年10月17日其发表新单曲《信仰之名》之后，有人指出其歌曲曲风与日本动漫《[科學超電磁砲](../Page/科學超電磁砲.md "wikilink")》的主题曲「[Only my railgun](../Page/Only_my_railgun.md "wikilink")」过于相似，并指出有抄袭嫌疑。\[17\]随后，網上並有人製作兩個影片的對照版本\[18\]此事件随后传到日本。对此，《科学超电磁炮》的主题曲作曲者[八木沼悟志](../Page/八木沼悟志.md "wikilink")回应说：“确实很像，不过我觉得是有原创性的、很好的作品。如果我的作品能影响到海外的话也是很开心的事。”\[19\]
 
   - **單曲《樣》MV疑似抄襲EXO MV事件**
 
-2015年4月24日，單曲《young》MV發佈。幾日後，微博上的「营销号」發佈了幾張情境相似的相片，指控TFBOYS的MV屬於抄襲。\[19\] 此後，網上[EXO](../Page/EXO.md "wikilink")的粉絲與TFBOYS的粉絲在網上引發激烈的討論。事後，導演及各傳媒也有為此事件澄清，EXO和TFBOYS的MV只是下雪及彈鋼琴的情節相同，這些情節在很多MV也經常出現。\[20\]
+2015年4月24日，單曲《young》MV發佈。幾日後，微博上的「营销号」發佈了幾張情境相似的相片，指控TFBOYS的MV屬於抄襲。\[20\] 此後，網上[EXO](../Page/EXO.md "wikilink")的粉絲與TFBOYS的粉絲在網上引發激烈的討論。事後，導演及各傳媒也有為此事件澄清，EXO和TFBOYS的MV只是下雪及彈鋼琴的情節相同，這些情節在很多MV也經常出現。\[21\]
 
   - **《秀才来了》恶讽TFBOYS「掏糞男孩」事件**
 
-2015年7月30日，[山东公共频道節目一檔新聞脫口秀節目](../Page/山东广播电视台.md "wikilink")《秀才来了》報導TFBOYS與[EXO](../Page/EXO.md "wikilink")低年龄粉絲在網上互罵的報導。其間，《秀才来了》主持人稱TFBOYS為「掏糞男孩」（掏糞普通話拼音中字頭與TF相同），節目播出後引來一眾TFBOYS的粉絲在該節目微博下聲討。隨後，《秀才来了》節目主持人、編導等人於[微博](../Page/微博.md "wikilink")及[微信](../Page/微信.md "wikilink")等社交平台不斷挑逗TFBOYS的粉絲，「秀才来了给TFBOYS道歉」、「秀才莫欺少年穷」等微博話題更一道被粉絲刷上了微博熱門。\[21\]
+2015年7月30日，[山东公共频道節目一檔新聞脫口秀節目](../Page/山东广播电视台.md "wikilink")《秀才来了》報導TFBOYS與[EXO](../Page/EXO.md "wikilink")低年龄粉絲在網上互罵的報導。其間，《秀才来了》主持人稱TFBOYS為「掏糞男孩」（掏糞普通話拼音中字頭與TF相同），節目播出後引來一眾TFBOYS的粉絲在該節目微博下聲討。隨後，《秀才来了》節目主持人、編導等人於[微博](../Page/微博.md "wikilink")及[微信](../Page/微信.md "wikilink")等社交平台不斷挑逗TFBOYS的粉絲，「秀才来了给TFBOYS道歉」、「秀才莫欺少年穷」等微博話題更一道被粉絲刷上了微博熱門。\[22\]
 
   - **范湉湉当众嘲讽TFBOYS事件**
 
-2015年9月26日，TFBOYS參於[湖南卫视](../Page/湖南卫视.md "wikilink")新綜藝節目《[全員加速中](https://zh.wikipedia.org/wiki/全員加速中 "wikilink")》期間，主持人范湉湉向TFBOYS在拍攝現場等候的粉絲大聲地說:「在等掏粪男孩嗎？」，而當時TFBOYS緊隨范湉湉進入拍攝場地。 事件發生後TFBOYS三人從面帶笑容立刻變得神色凝重，匆匆低頭走進拍攝場地\[22\]。其後，事件經過[視頻](../Page/视频.md "wikilink")\[23\]被TFBOYS的粉絲上載至互聯網上，[新浪](../Page/新浪.md "wikilink")娱乐等傳媒隨即報導，事件引發TFBOYS的粉絲以及一眾網友批評其素质。范湉湉於當天下午三時在個人[微博](../Page/微博.md "wikilink")聲稱當時已向現場粉絲道歉，並表示與三人在拍攝其間相處良好。同日晚上十時半，范湉湉在個人[微博](../Page/微博.md "wikilink")上發表道歉聲明。
+2015年9月26日，TFBOYS參於[湖南卫视](../Page/湖南卫视.md "wikilink")新綜藝節目《[全員加速中](https://zh.wikipedia.org/wiki/全員加速中 "wikilink")》期間，主持人范湉湉向TFBOYS在拍攝現場等候的粉絲大聲地說:「在等掏粪男孩嗎？」，而當時TFBOYS緊隨范湉湉進入拍攝場地。 事件發生後TFBOYS三人從面帶笑容立刻變得神色凝重，匆匆低頭走進拍攝場地\[23\]。其後，事件經過[視頻](../Page/视频.md "wikilink")\[24\]被TFBOYS的粉絲上載至互聯網上，[新浪](../Page/新浪.md "wikilink")娱乐等傳媒隨即報導，事件引發TFBOYS的粉絲以及一眾網友批評其素质。范湉湉於當天下午三時在個人[微博](../Page/微博.md "wikilink")聲稱當時已向現場粉絲道歉，並表示與三人在拍攝其間相處良好。同日晚上十時半，范湉湉在個人[微博](../Page/微博.md "wikilink")上發表道歉聲明。
 
   - **单曲《未來的進擊》疑似抄襲**
 
-2017年中旬，作為網路連續劇[超少年密碼的主題曲而發布的](https://zh.wikipedia.org/wiki/超少年密碼 "wikilink")《未來的進擊》被指出疑似抄襲日本動畫[LoveLive\!的BD特典曲](https://zh.wikipedia.org/wiki/LoveLive! "wikilink")《Storm in lover》\[24\] \[25\]，當年8月17日，《未來的進擊》的作曲者胡臻在微博上宣稱其作品在2014年4月便已完成，且先寄給了日本AKB48的公司，否認其抄襲嫌疑。\[26\]可是日本AKB48的唱片公司（[KING RECORDS](https://zh.wikipedia.org/wiki/KING_RECORDS "wikilink")）與μ's的唱片公司（[Lantis](../Page/Lantis.md "wikilink")）完全不同，更何況這CD是在2014年4月前已經完成製作，胡臻的辩解被指是在推卸责任。
+2017年中旬，作為網路連續劇[超少年密碼的主題曲而發布的](https://zh.wikipedia.org/wiki/超少年密碼 "wikilink")《未來的進擊》被指出疑似抄襲日本動畫[LoveLive\!的BD特典曲](https://zh.wikipedia.org/wiki/LoveLive! "wikilink")《Storm in lover》\[25\] \[26\]，當年8月17日，《未來的進擊》的作曲者胡臻在微博上宣稱其作品在2014年4月便已完成，且先寄給了日本AKB48的公司，否認其抄襲嫌疑。\[27\]可是日本AKB48的唱片公司（[KING RECORDS](https://zh.wikipedia.org/wiki/KING_RECORDS "wikilink")）與μ's的唱片公司（[Lantis](../Page/Lantis.md "wikilink")）完全不同，更何況這CD是在2014年4月前已經完成製作，胡臻的辩解被指是在推卸责任。
 
 ## 得獎獎項
 
@@ -310,7 +266,7 @@
 <td><p>2014第二屆音悅V榜年度盛典</p></td>
 <td><p>内地最具人气歌手</p></td>
 <td></td>
-<td><p>[27]</p></td>
+<td><p>[28]</p></td>
 </tr>
 <tr class="even">
 <td><p>音悦直播人气歌手</p></td>
@@ -327,13 +283,13 @@
 <td><p>尖叫2015爱奇艺之夜年度盛典</p></td>
 <td><p>2014年度最受歡迎組合</p></td>
 <td></td>
-<td><p>[28]</p></td>
+<td><p>[29]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2014年度金曲</p></td>
 <td></td>
-<td><p>[29]</p></td>
+<td><p>[30]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -346,7 +302,7 @@
 <td><p>2014微博之夜</p></td>
 <td><p>微博2014年度公益貢獻獎</p></td>
 <td></td>
-<td><p>[30]</p></td>
+<td><p>[31]</p></td>
 </tr>
 <tr class="even">
 <td><p>3月25日</p></td>
@@ -354,7 +310,7 @@
 <td><p>2015 QQ音樂年度盛典</p></td>
 <td><p>2014年度最受歡迎華語組合</p></td>
 <td></td>
-<td><p>[31]</p></td>
+<td><p>[32]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -381,7 +337,7 @@
 <td><p>2015 第二十二届东方风云榜音乐盛典</p></td>
 <td><p>年度风云组合</p></td>
 <td></td>
-<td><p>[32]</p></td>
+<td><p>[33]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -745,8 +701,8 @@
 17.
 
 18.
-19.
 
+19.
 20.
 
 21.
@@ -772,3 +728,5 @@
 31.
 
 32.
+
+33.

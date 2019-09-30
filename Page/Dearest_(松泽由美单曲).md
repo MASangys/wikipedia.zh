@@ -47,6 +47,6 @@
 
 <references />
 
-[Category:松澤由美の楽曲](https://zh.wikipedia.org/wiki/Category:松澤由美の楽曲 "wikilink") [Category:機動戰艦](https://zh.wikipedia.org/wiki/Category:機動戰艦 "wikilink") [Category:1998年單曲](https://zh.wikipedia.org/wiki/Category:1998年單曲 "wikilink") [Category:2010年单曲](https://zh.wikipedia.org/wiki/Category:2010年单曲 "wikilink") [Category:動畫歌曲](https://zh.wikipedia.org/wiki/Category:動畫歌曲 "wikilink") [Category:King_Records歌曲](https://zh.wikipedia.org/wiki/Category:King_Records歌曲 "wikilink")
+[Category:機動戰艦](https://zh.wikipedia.org/wiki/Category:機動戰艦 "wikilink") [Category:1998年單曲](https://zh.wikipedia.org/wiki/Category:1998年單曲 "wikilink") [Category:2010年单曲](https://zh.wikipedia.org/wiki/Category:2010年单曲 "wikilink") [Category:動畫歌曲](https://zh.wikipedia.org/wiki/Category:動畫歌曲 "wikilink") [Category:King_Records歌曲](https://zh.wikipedia.org/wiki/Category:King_Records歌曲 "wikilink")
 
 1.

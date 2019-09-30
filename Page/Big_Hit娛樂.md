@@ -54,6 +54,9 @@
 ### SOLO歌手
 
   - [李賢](../Page/李賢_\(韓國歌手\).md "wikilink")
+  - [SUGA](../Page/閔玧其.md "wikilink")
+  - [j-hope](../Page/鄭號錫.md "wikilink")
+  - [RM](../Page/金南俊.md "wikilink")
 
 ### 演員
 

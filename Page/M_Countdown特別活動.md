@@ -509,7 +509,7 @@
   - [FTIsland](../Page/FTIsland.md "wikilink")
   - [蔡依林](../Page/蔡依林.md "wikilink")
   - [宇宙少女](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")
-  - [SNH48](https://zh.wikipedia.org/wiki/SNH48 "wikilink")
+  - [SNH48](../Page/SNH48.md "wikilink")
   - [BTOB](../Page/BTOB.md "wikilink")
   - [GFRIEND](../Page/GFRIEND.md "wikilink")
   - [VIXX](../Page/VIXX.md "wikilink")

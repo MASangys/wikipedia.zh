@@ -154,6 +154,7 @@
   - 2013年：《[美娜文具店](https://zh.wikipedia.org/wiki/美娜文具店 "wikilink")》(出品公司：Featured Entertainment，發行公司：Lotte Entertainment)
   - 2013年：《[偉大的隱藏者](../Page/偉大的隱藏者.md "wikilink")》(出品公司：MCMC，發行公司：Showbox/Mediaplex, Inc.)
   - 2016年：《[特別搜查：囚犯的信](https://zh.wikipedia.org/wiki/特別搜查：囚犯的信 "wikilink")》(Content K 首部製作電影\[16\])
+  - 2019年：《[驅魔使者](../Page/驅魔使者.md "wikilink")》(出品公司：STUDIO 706，發行公司：Lotte Entertainment)
 
 參與投資或製作的電視節目：
 

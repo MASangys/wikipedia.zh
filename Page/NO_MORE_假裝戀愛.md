@@ -1,4 +1,4 @@
-『**NO MORE 假裝戀愛**』（）是[小貓俱樂部](../Page/小貓俱樂部.md "wikilink")的第7張單曲，於1987年1月21日發售。[Oricon初登場第](../Page/Oricon公信榜.md "wikilink")1位。
+《**NO MORE 假裝戀愛**》（）是[小貓俱樂部](../Page/小貓俱樂部.md "wikilink")的第7張單曲，於1987年1月21日發售。[Oricon初登場第](../Page/Oricon公信榜.md "wikilink")1位。
 
 ## 解説
 
@@ -6,10 +6,9 @@
 
 ## 收錄曲
 
-1.  **NO MORE 恋愛ごっこ**
-      - 作詞: [秋元康](../Page/秋元康.md "wikilink")、作曲・編曲: [後藤次利](../Page/後藤次利.md "wikilink")
-2.  **あなただけおやすみなさい**
-      - 作詞: 秋元康、作曲: [高橋研](https://zh.wikipedia.org/wiki/高橋研 "wikilink")、編曲: [佐藤準](https://zh.wikipedia.org/wiki/佐藤準 "wikilink")
+1.    - 作詞: [秋元康](../Page/秋元康.md "wikilink")、作曲、編曲: [後藤次利](../Page/後藤次利.md "wikilink")
+
+2.    - 作詞: 秋元康、作曲: [高橋研](https://zh.wikipedia.org/wiki/高橋研 "wikilink")、編曲: [佐藤準](https://zh.wikipedia.org/wiki/佐藤準 "wikilink")
 
 ## 收錄作品
 

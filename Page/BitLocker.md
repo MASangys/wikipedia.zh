@@ -1,4 +1,4 @@
-**BitLocker**（直译为“比特锁”）是内置于[Windows Vista及其之后系统的全](../Page/Windows_Vista.md "wikilink")[磁盘加密](../Page/磁盘加密.md "wikilink")功能，透過为整个[卷提供](https://zh.wikipedia.org/wiki/卷_\(计算机\) "wikilink")[加密来保护数据](https://zh.wikipedia.org/wiki/加密 "wikilink")。它默认在[密码块链接](https://zh.wikipedia.org/wiki/分组密码工作模式#密码块链接（CBC） "wikilink")（CBC）或[XTS模式下使用](https://zh.wikipedia.org/wiki/磁盘加密理论 "wikilink")128位或256位[密钥](../Page/密钥.md "wikilink")的[AES加密算法](../Page/高级加密标准.md "wikilink")\[1\]\[2\]\[3\]。其中CBC用于每个单独的[磁盘扇区](https://zh.wikipedia.org/wiki/磁盘扇区 "wikilink")，不在整个磁盘上使用\[4\]。
+**BitLocker**（直译为“比特锁”）是内置于[Windows Vista及其之后系统的全](../Page/Windows_Vista.md "wikilink")[磁盘加密](../Page/磁盘加密.md "wikilink")功能，透過为整个[卷提供](https://zh.wikipedia.org/wiki/卷_\(计算机\) "wikilink")[加密](../Page/加密.md "wikilink")来保护数据。它默认在[密码块链接](https://zh.wikipedia.org/wiki/分组密码工作模式#密码块链接（CBC） "wikilink")（CBC）或[XTS模式下使用](https://zh.wikipedia.org/wiki/磁盘加密理论 "wikilink")128位或256位[密钥](../Page/密钥.md "wikilink")的[AES加密算法](../Page/高级加密标准.md "wikilink")\[1\]\[2\]\[3\]。其中CBC用于每个单独的[磁盘扇区](https://zh.wikipedia.org/wiki/磁盘扇区 "wikilink")，不在整个磁盘上使用\[4\]。
 
 ## 历史
 

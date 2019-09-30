@@ -131,7 +131,7 @@
 <tr class="odd">
 <td><p>22</p></td>
 <td><p>12月12日</p></td>
-<td></td>
+<td><p><a href="../Page/金煙雨.md" title="wikilink">金煙雨</a></p></td>
 </tr>
 <tr class="even">
 <td><p>23</p></td>

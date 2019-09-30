@@ -5,7 +5,7 @@
 <onlyinclude>
 
 <table>
-<caption>PlayStation 2 games which have sold or shipped five million copies</caption>
+<caption>銷量或出貨量五百萬以上的PlayStation 2遊戲</caption>
 <thead>
 <tr class="header">
 <th><p>名称</p></th>

@@ -12,6 +12,7 @@
 
 ## 参见
 
+  - [泡利矩陣](../Page/泡利矩陣.md "wikilink")
   - [量子退火](../Page/量子退火.md "wikilink")
   - [模拟计算机](../Page/模拟计算机.md "wikilink")
   - [量子位元](../Page/量子位元.md "wikilink")

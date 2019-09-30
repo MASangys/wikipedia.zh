@@ -1952,7 +1952,7 @@ Sexy Central</p></td>
 <td><p><a href="../Page/同行.md" title="wikilink">同行</a></p></td>
 <td><p>3月25日</p></td>
 <td><p>天窗（合唱版）<br />
-<small>（與<a href="https://zh.wikipedia.org/wiki/容祖兒" title="wikilink">容祖兒合唱</a>）</small></p></td>
+<small>（與<a href="../Page/容祖兒.md" title="wikilink">容祖兒</a>合唱）</small></p></td>
 <td><p>異能</p></td>
 <td><p>同行</p></td>
 <td><p>傳聞</p></td>

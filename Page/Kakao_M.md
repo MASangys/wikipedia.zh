@@ -42,13 +42,19 @@ Kakao M 發行的音樂種類包含：[K-POP](../Page/韓國流行音樂.md "wik
 
 2018年7月9日，Kakao M宣佈通過投資與[BH娛樂](../Page/BH娛樂.md "wikilink")、[J Wide Company](https://zh.wikipedia.org/wiki/J_Wide_Company "wikilink")、[Management SOOP](../Page/Management_SOOP.md "wikilink")，以及模特兒公司[Ready娛樂](https://zh.wikipedia.org/wiki/Ready娛樂 "wikilink")，建立戰略性股份投資的合作體系。\[6\]
 
-2019年1月2日，Kakao M宣佈決定投資[Blossom娛樂](https://zh.wikipedia.org/wiki/Blossom娛樂 "wikilink")。\[7\] \[8\]
+2019年1月2日，Kakao M考慮投資[Blossom娛樂](https://zh.wikipedia.org/wiki/Blossom娛樂 "wikilink")。\[7\] \[8\]
 
 2019年2月13日，Kakao M宣佈旗下子公司[FAVE娛樂與](https://zh.wikipedia.org/wiki/FAVE娛樂 "wikilink")[Plan A娛樂合併](../Page/Plan_A娛樂.md "wikilink")，4月1日成立新公司。\[9\]\[10\]
 
 2019年2月24日，Kakao M計劃進行收購[VAST Entertainment & Media](https://zh.wikipedia.org/wiki/VAST_Entertainment_&_Media "wikilink")。\[11\]
 
 2019年4月1日，[FAVE娛樂與](https://zh.wikipedia.org/wiki/FAVE娛樂 "wikilink")[Plan A娛樂合併](../Page/Plan_A娛樂.md "wikilink")，新公司名為[Play M娛樂](https://zh.wikipedia.org/wiki/Play_M娛樂 "wikilink")，意思是“The Playground for Music and You” 。\[12\]\[13\]
+
+2019年7月29日，Kakao M正考慮投資[Awesome娛樂](../Page/Awesome娛樂.md "wikilink")。\[14\]
+
+2019年8月6日，Kakao M表示最終決定不收購Blossom娛樂。\[15\]
+
+2019年8月27日，Kakao M正考慮收購[MYM娛樂](../Page/MYM娛樂.md "wikilink")。\[16\]
 
 ## Kakao M
 
@@ -173,7 +179,7 @@ Kakao M 發行的音樂種類包含：[K-POP](../Page/韓國流行音樂.md "wik
 
 ### 男練習生
 
-  - [PlayM BOYS](https://zh.wikipedia.org/wiki/PlayM_BOYS "wikilink")（前稱[FAVEBOYS](https://zh.wikipedia.org/wiki/FAVEBOYS "wikilink")、[STARHILLBOYS](https://zh.wikipedia.org/wiki/STARHILLBOYS "wikilink")）\[14\]\[15\]\[16\]
+  - [PlayM BOYS](https://zh.wikipedia.org/wiki/PlayM_BOYS "wikilink")（前稱[FAVEBOYS](https://zh.wikipedia.org/wiki/FAVEBOYS "wikilink")、[STARHILLBOYS](https://zh.wikipedia.org/wiki/STARHILLBOYS "wikilink")）\[17\]\[18\]\[19\]
       - [林智敏](../Page/林智敏.md "wikilink")（01年5月22日，[THE FAN第](../Page/THE_FAN.md "wikilink")3名，[THE FAN TOP5](https://zh.wikipedia.org/wiki/THE_FAN_TOP5 "wikilink")）
       - [全暏炎](https://zh.wikipedia.org/wiki/全暏炎 "wikilink")（02年2月21日，[Under 19第](https://zh.wikipedia.org/wiki/Under_Nineteen "wikilink")1名，[1THE9](https://zh.wikipedia.org/wiki/1THE9 "wikilink")）
       - [丁真成](https://zh.wikipedia.org/wiki/丁真成 "wikilink")（02年3月30日，[Under 19第](https://zh.wikipedia.org/wiki/Under_Nineteen "wikilink")2名，[1THE9](https://zh.wikipedia.org/wiki/1THE9 "wikilink")）
@@ -223,6 +229,8 @@ Kakao M 發行的音樂種類包含：[K-POP](../Page/韓國流行音樂.md "wik
 ### [King Kong by STARSHIP娛樂](../Page/King_Kong_by_STARSHIP娛樂.md "wikilink")
 
   - 2015年收購
+
+### [HIGHLINE娛樂](../Page/STARSHIP娛樂.md "wikilink")
 
 ## [Cre.Ker娛樂](https://zh.wikipedia.org/wiki/Cre.Ker娛樂 "wikilink")
 
@@ -292,39 +300,26 @@ Kakao M 發行的音樂種類包含：[K-POP](../Page/韓國流行音樂.md "wik
 
   - [金所泫](../Page/金所泫.md "wikilink")
 
-## 其他相關公司
-
-### [BH娛樂](../Page/BH娛樂.md "wikilink")
+## [BH娛樂](../Page/BH娛樂.md "wikilink")
 
   - 韓語：BH엔터테인먼트
   - 2018年購入
 
-### [Management SOOP](../Page/Management_SOOP.md "wikilink")
+## [Management SOOP](../Page/Management_SOOP.md "wikilink")
 
   - 韓語：매니지먼트 숲
   - 2018年購入
 
-### [J Wide Company](https://zh.wikipedia.org/wiki/J_Wide_Company "wikilink")
+## [J Wide Company](https://zh.wikipedia.org/wiki/J_Wide_Company "wikilink")
 
   - 韓語： 제이와이드 컴퍼니
   - 2018年購入
 
-### [Ready娛樂](https://zh.wikipedia.org/wiki/Ready娛樂 "wikilink")
+## [Ready娛樂](https://zh.wikipedia.org/wiki/Ready娛樂 "wikilink")
 
   - 韓語：레디 엔터테인먼트
   - 模特兒公司
   - 2018年購入
-
-### [Blossom娛樂](https://zh.wikipedia.org/wiki/Blossom娛樂 "wikilink")
-
-  - 韓語：블러썸 엔터테인먼트
-  - 2019年購入
-
-### [VAST娛樂](https://zh.wikipedia.org/wiki/VAST娛樂 "wikilink")
-
-  - 韓語：VAST엔터테인먼트
-  - 英語：VAST Entertainment & Media
-  - 2019年購入
 
 ## 代理發行作品
 
@@ -332,7 +327,7 @@ Kakao M 發行的音樂種類包含：[K-POP](../Page/韓國流行音樂.md "wik
 
 ### [Studio Dragon Corporation](../Page/Studio_Dragon_Corporation.md "wikilink")
 
-2017年5月，公司宣布与[Studio Dragon Corporation](../Page/Studio_Dragon_Corporation.md "wikilink")（[CJ E\&M的子公司](../Page/CJ集团.md "wikilink")）正式合作製作。\[17\]
+2017年5月，公司宣布与[Studio Dragon Corporation](../Page/Studio_Dragon_Corporation.md "wikilink")（[CJ E\&M的子公司](../Page/CJ集团.md "wikilink")）正式合作製作。\[20\]
 
 ### Kakao M製作
 
@@ -424,20 +419,7 @@ MEGA MONSTER（原STORY PLANT)是Kakao M与[Studio Dragon Corporation](../Page/S
 
   -
   -
-### Blossom娛樂
-
-  - 的官方網站
-
-  -
-  -
-  -
 ### Ready娛樂
-
-  - 的官方網站
-
-  -
-  -
-### VAST娛樂
 
   - 的官方網站
 
@@ -461,4 +443,7 @@ MEGA MONSTER（原STORY PLANT)是Kakao M与[Studio Dragon Corporation](../Page/S
 14.
 15.
 16.
-17. [SM、YG、JYP、FNC等娛樂公司涉足「韓劇」事業的市場衝擊](http://www.koreastardaily.com/tc/news/95532)
+17.
+18.
+19.
+20. [SM、YG、JYP、FNC等娛樂公司涉足「韓劇」事業的市場衝擊](http://www.koreastardaily.com/tc/news/95532)

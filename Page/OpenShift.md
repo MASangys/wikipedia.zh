@@ -66,6 +66,6 @@ OpenShift支持各语言的web应用框架，以及他们的首选网络集成AP
   - [Github上的Openshift](http://openshift.github.com/)
   - [Github上的Openshift代码和样例](https://github.com/openshift)
 
-[Category:雲端運算](https://zh.wikipedia.org/wiki/Category:雲端運算 "wikilink") [Category:开源云托管服务](https://zh.wikipedia.org/wiki/Category:开源云托管服务 "wikilink") [Category:免费云计算软件](https://zh.wikipedia.org/wiki/Category:免费云计算软件 "wikilink") [Category:用Ruby编写的免费软件](https://zh.wikipedia.org/wiki/Category:用Ruby编写的免费软件 "wikilink") [Category:红帽公司](https://zh.wikipedia.org/wiki/Category:红帽公司 "wikilink")
+[Category:雲端運算](https://zh.wikipedia.org/wiki/Category:雲端運算 "wikilink") [Category:用Go編程的自由軟件](https://zh.wikipedia.org/wiki/Category:用Go編程的自由軟件 "wikilink") [Category:红帽软件](https://zh.wikipedia.org/wiki/Category:红帽软件 "wikilink")
 
 1.

@@ -1,4 +1,4 @@
-《**心電感應**》是中国偶像组合[SNH48的第四张](https://zh.wikipedia.org/wiki/SNH48 "wikilink")[EP](https://zh.wikipedia.org/wiki/EP "wikilink")，於2014年3月12日於SNH48線上商城開始預售\[1\]，並在開售5分钟內售出2万张\[2\]。
+《**心電感應**》是中国偶像组合[SNH48](../Page/SNH48.md "wikilink")的第四张[EP](https://zh.wikipedia.org/wiki/EP "wikilink")，於2014年3月12日於SNH48線上商城開始預售\[1\]，並在開售5分钟內售出2万张\[2\]。
 
 ## 簡介
 

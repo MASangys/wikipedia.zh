@@ -1,8 +1,8 @@
-**LXQt**是一个资源需求相对较低的[免费的开源](../Page/自由及开放源代码软件.md "wikilink")[Linux](../Page/Linux.md "wikilink")[桌面环境](../Page/桌面环境.md "wikilink")，它是由[LXDE](../Page/LXDE.md "wikilink")和[Razor-qt](../Page/Razor-qt.md "wikilink")项目合并而成。
+**LXQt**是资源需求相对较低的[免费的开源](../Page/自由及开放源代码软件.md "wikilink")[Linux](../Page/Linux.md "wikilink")[桌面环境](../Page/桌面环境.md "wikilink")，由[LXDE](../Page/LXDE.md "wikilink")和[Razor-qt](../Page/Razor-qt.md "wikilink")项目合并而成。
 
 ## 历史
 
-因为对[GTK 3不满意](../Page/GTK.md "wikilink")+，\[1\][LXDE](../Page/LXDE.md "wikilink")维护者[洪任諭](../Page/洪任諭.md "wikilink")于2013年初对[Qt](../Page/Qt.md "wikilink")进行了实验\[2\] ，并于2013年3月26日发布了基于[Qt](../Page/Qt.md "wikilink")的[PCMan檔案管理程式](../Page/PCMan檔案管理程式.md "wikilink")的第一个版本.\[3\]。不过，他澄清[LXDE](../Page/LXDE.md "wikilink")不会背离[GTK](../Page/GTK.md "wikilink")+，称“[GTK](../Page/GTK.md "wikilink")+和[Qt](../Page/Qt.md "wikilink")版本将共存”，之后他将[LXDE](../Page/LXDE.md "wikilink")的Xrandr前端[移植到](https://zh.wikipedia.org/wiki/移植_\(軟體\) "wikilink")[Qt](../Page/Qt.md "wikilink")。\[4\]
+因为对[GTK 3不满意](../Page/GTK.md "wikilink")+，\[1\][LXDE](../Page/LXDE.md "wikilink")维护者[洪任諭](../Page/洪任諭.md "wikilink")于2013年初对[Qt](../Page/Qt.md "wikilink")进行了实验\[2\] ，并于2013年3月26日发布了基于[Qt](../Page/Qt.md "wikilink")的[PCMan檔案管理程式](../Page/PCMan檔案管理程式.md "wikilink")的第一个版本\[3\]。不过，他澄清[LXDE](../Page/LXDE.md "wikilink")不会背离[GTK](../Page/GTK.md "wikilink")+，称“[GTK](../Page/GTK.md "wikilink")+和[Qt](../Page/Qt.md "wikilink")版本将共存”，之后他将[LXDE](../Page/LXDE.md "wikilink")的Xrandr前端[移植到](https://zh.wikipedia.org/wiki/移植_\(軟體\) "wikilink")[Qt](../Page/Qt.md "wikilink")。\[4\]
 
 2013年7月3日，[洪任諭](../Page/洪任諭.md "wikilink")宣布推出完整[LXDE](../Page/LXDE.md "wikilink")套件的Qt端口。\[5\]2013年7月21日，[Razor-qt](../Page/Razor-qt.md "wikilink")和[LXDE](../Page/LXDE.md "wikilink")宣布决定合并这两个项目。\[6\]\[7\]这一合并意味着GTK+和Qt版本将首先共存，但最终将放弃[GTK+版本](https://zh.wikipedia.org/wiki/GTK+ "wikilink")，后续将集中在Qt端口上。\[8\]LXDE-Qt和Razor-qt的合并后更名为LXQt\[9\]并于2014年5月7日发布了第一个版本0.7.0。\[10\]
 

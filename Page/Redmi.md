@@ -61,7 +61,7 @@ Redmi还在生活百货领域进行布局，推出了20寸的Redmi旅行箱，�
 <th><p><strong>存储</strong></p></th>
 <th><p><strong>相机参数</strong></p></th>
 <th><p><strong>机身</strong></p></th>
-<th><p><strong>售价</strong></p></th>
+<th><p><strong>人民幣售價</strong></p></th>
 <th><p><strong>参考资料</strong></p></th>
 </tr>
 </thead>
@@ -477,7 +477,7 @@ GFF全贴合</p></td>
 <th><p><strong>存储</strong></p></th>
 <th><p><strong>相机参数</strong></p></th>
 <th><p><strong>机身</strong></p></th>
-<th><p><strong>售价</strong></p></th>
+<th><p><strong>人民幣售價</strong></p></th>
 <th><p><strong>参考资料</strong></p></th>
 </tr>
 </thead>
@@ -846,7 +846,7 @@ OGS全贴合</p></td>
 <th><p><strong>存储</strong></p></th>
 <th><p><strong>相机参数</strong></p></th>
 <th><p><strong>机身</strong></p></th>
-<th><p><strong>售价</strong></p></th>
+<th><p><strong>人民幣售價</strong></p></th>
 <th><p><strong>参考资料</strong></p></th>
 </tr>
 </thead>
@@ -884,7 +884,7 @@ GFF贴合触控屏，支持前置指纹识别</p></td>
 <th><p><strong>存储</strong></p></th>
 <th><p><strong>相机参数</strong></p></th>
 <th><p><strong>机身</strong></p></th>
-<th><p><strong>售价</strong></p></th>
+<th><p><strong>人民幣售價</strong></p></th>
 <th><p><strong>参考资料</strong></p></th>
 </tr>
 </thead>
@@ -900,6 +900,7 @@ AMOLED触控屏，支持屏幕内置指纹识别</p></td>
 <td><p>6/8GB RAM<br />
 64/128/256GB ROM</p></td>
 <td><p>2000万像素弹出式前置镜头<br />
+索尼IMX582<br />
 4800+1300+800万像素后置三镜头</p></td>
 <td><p>金属边框，大猩猩第五代玻璃后盖</p></td>
 <td><p>1999(6G/64G)<br />
@@ -912,17 +913,32 @@ AMOLED触控屏，支持屏幕内置指纹识别</p></td>
 <td><p>全网通版</p></td>
 <td><p>高通骁龙855<br />
 (SDM8150)</p></td>
-<td><p>6.39英寸2340*1080<br />
-AMOLED触控屏，支持屏幕内置指纹识别</p></td>
 <td><p>6/8 RAM<br />
 64/128/256GB ROM</p></td>
 <td><p>2000万像素弹出式前置镜头<br />
-4800+1300+800万像素后置三镜</p></td>
-<td><p>金属边框，大猩猩第五代玻璃后盖</p></td>
+索尼IMX586<br />
+4800+1300+800万像素后置三镜头</p></td>
 <td><p>2499(6G/64G)<br />
 2599(6G/128G)<br />
 2799(8G/128G)<br />
 2999(8G/256G)</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>全网通尊享版</p></td>
+<td><p>2019.9.19</p></td>
+<td><p>高通骁龙855plus</p></td>
+<td><p>8/12 RAM<br />
+128/512GB ROM</p></td>
+<td><p>2699(8G/128G)<br />
+2999(8G/512G)<br />
+3199(12G/512G)</p></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>

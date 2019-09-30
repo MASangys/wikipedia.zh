@@ -116,7 +116,7 @@ Google曾在其产品与服务中制作与添加过诸多复活节彩蛋。
   - 8.0 （Oreo，奥利奥）：隐藏了一只黑色章鱼。
   - 9.0 （Pie，派）：隐藏了色彩缤纷的英文字母P。
 
-Android Gingerbread.JPG|Gingerbread Android Honeycomb.JPG|Honeycomb Android Ice Cream Sandwich.JPG|Ice Cream Sandwich Android Jelly Bean.JPG|Jelly Bean Android KitKat.JPG|KitKat Android Lollipop.JPG|Lollipop Android Marshmallow.JPG|Marshmallow Android Nougat.JPG|Nougat Android Oreo.JPG|Oreo Android 9.0.jpg|P
+Android Gingerbread (2.3).jpg|Gingerbread Android Honeycomb (3.0-3.2).jpg|Honeycomb Android Ice Cream Sandwich (4.0).jpg|Ice Cream Sandwich Android Jelly Bean (4.1-4.3).jpg|Jelly Bean Android KitKat (4.4).jpg|KitKat Android Lollipop (5.0-5.1).jpg|Lollipop Android Marshmallow (6.0).jpg|Marshmallow Android Nougat (7.0-7.1).jpg|Nougat Android Oreo (8.0-8.1).jpg|Oreo Android Pie (9).jpg|Pie Android Q (10).jpg|10
 
 ### Chrome
 

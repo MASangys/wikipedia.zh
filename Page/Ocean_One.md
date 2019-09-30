@@ -16,7 +16,7 @@
 
 ## 毗鄰
 
-  - [鯉魚門市政大廈](https://zh.wikipedia.org/wiki/鯉魚門市政大廈 "wikilink")
+  - [鯉魚門市政大廈](../Page/鯉魚門市政大廈.md "wikilink")
   - [鯉魚門廣場](../Page/鯉魚門廣場.md "wikilink")
   - [大本型](../Page/大本型.md "wikilink")
   - [油塘中心](../Page/油塘中心.md "wikilink")

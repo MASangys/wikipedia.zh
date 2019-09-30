@@ -72,7 +72,7 @@
 ### C10BX HMG CoA还原酶抑制剂，其它复方（HMG CoA reductase inhibitors, other combinations）
 
   -
-    C10BX01 [辛伐他汀](../Page/辛伐他汀.md "wikilink")和[乙酰水杨酸](https://zh.wikipedia.org/wiki/乙酰水杨酸 "wikilink")（Simvastatin and acetylsalicylic acid）
+    C10BX01 [辛伐他汀](../Page/辛伐他汀.md "wikilink")和[乙酰水杨酸](../Page/乙酰水杨酸.md "wikilink")（Simvastatin and acetylsalicylic acid）
     C10BX02 [普伐他汀和乙酰水杨酸](https://zh.wikipedia.org/wiki/普伐他汀 "wikilink")（Pravastatin and acetylsalicylic acid）
     C10BX03 [阿托伐他汀和氨氯地平](https://zh.wikipedia.org/wiki/阿托伐他汀和氨氯地平 "wikilink")（Atorvastatin and amlodipine）
     C10BX04 辛伐他汀，乙酰水杨酸和[雷米普利](https://zh.wikipedia.org/wiki/雷米普利 "wikilink")（Simvastatin, acetylsalicylic acid and ramipril）

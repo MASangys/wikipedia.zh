@@ -64,7 +64,7 @@ TPG-1是由一個高質量可拆卸式[金属](../Page/金属.md "wikilink")[彈
 
 2008年9月，德國當局攔截40 枝TPG-1型狙擊步槍通過法國運到伊朗。\[4\]
 
-在[美国](../Page/美国.md "wikilink")[特種作戰司令部](https://zh.wikipedia.org/wiki/美國特種作戰司令部 "wikilink")（）發出的一項名為（簡稱：PSR）的合同之中，由[比利时](../Page/比利时.md "wikilink")[國營赫斯塔爾](https://zh.wikipedia.org/wiki/赫爾斯塔爾國營工廠 "wikilink")（，簡稱：FN）推出的樣槍[FN Ballista就是比利时國營赫斯塔爾和奧地利尤尼克阿爾卑斯公司合作](../Page/FN弩炮精確狙擊步槍.md "wikilink")，TPG-1為藍本重新設計並且推出。
+在[美国](../Page/美国.md "wikilink")[特種作戰司令部](https://zh.wikipedia.org/wiki/美國特種作戰司令部 "wikilink")（）發出的一項名為（簡稱：PSR）的合同之中，由[比利时](../Page/比利时.md "wikilink")[國營埃斯塔勒](https://zh.wikipedia.org/wiki/埃斯塔勒國營工廠 "wikilink")（，簡稱：FN）推出的樣槍[FN Ballista就是比利时國營赫斯塔爾和奧地利尤尼克阿爾卑斯公司合作](../Page/FN弩炮精確狙擊步槍.md "wikilink")，TPG-1為藍本重新設計並且推出。
 
 ## 使用國
 

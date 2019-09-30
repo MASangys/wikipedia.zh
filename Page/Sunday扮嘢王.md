@@ -115,7 +115,7 @@ TVB「扮嘢」奇才輩出，歷代「扮嘢王」如「秋官」[鄭少秋](..
 <ul>
 <li><a href="https://zh.wikipedia.org/wiki/楊詩敏" title="wikilink">蝦　頭</a> 飾 阿蕉(米芝蓮)（模仿<a href="../Page/鍾欣潼.md" title="wikilink">鍾欣潼</a> (阿嬌)(Gillian)）、<a href="../Page/鄭欣宜.md" title="wikilink">鄭欣宜</a> 飾 阿茶(莎蓮)（模仿<a href="../Page/蔡卓妍.md" title="wikilink">蔡卓妍</a> (阿Sa)(Charlene)） 合飾 癲s（模仿<a href="https://zh.wikipedia.org/wiki/Twins" title="wikilink">Twins</a>）——《明餓暗戀Gathering》（原曲：《明愛暗戀補習社》）</li>
 <li><a href="../Page/張致恆.md" title="wikilink">張致恆</a> 飾 阿王（模仿<a href="../Page/郭富城.md" title="wikilink">郭富城</a>）——《國王的新歌》</li>
-<li><a href="https://zh.wikipedia.org/wiki/陳嘉佳" title="wikilink">小　寶</a> 飾 容祖肥（模仿<a href="https://zh.wikipedia.org/wiki/容祖兒" title="wikilink">容祖兒</a>）——《隆重登場》</li>
+<li><a href="https://zh.wikipedia.org/wiki/陳嘉佳" title="wikilink">小　寶</a> 飾 容祖肥（模仿<a href="../Page/容祖兒.md" title="wikilink">容祖兒</a>）——《隆重登場》</li>
 </ul>
 <p>扮嘢新力軍：</p>
 <ul>

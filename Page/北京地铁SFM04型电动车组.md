@@ -2,7 +2,7 @@
 
 ## 简介
 
-，由[南车四方](https://zh.wikipedia.org/wiki/南车四方 "wikilink")（现称中车四方）和[北京地铁车辆厂](https://zh.wikipedia.org/wiki/北京地铁车辆厂 "wikilink")（现称北京地铁车辆装备公司）负责生产。其中编号为G432-G451由[南车四方生产](https://zh.wikipedia.org/wiki/南车四方 "wikilink")，编号为G452-G470由[北京地铁车辆厂生产](https://zh.wikipedia.org/wiki/北京地铁车辆厂 "wikilink")。为6节编组营运，在2007年正式使用，是[1号线的第](../Page/北京地铁1号线.md "wikilink")1款原装空调车和使用电动门的列车。每节车厢共4对车门，为[内藏门](https://zh.wikipedia.org/wiki/内藏门 "wikilink")，列车两端拥有[紧急出口](https://zh.wikipedia.org/wiki/紧急出口 "wikilink")，配属于[古城车辆段](https://zh.wikipedia.org/wiki/古城车辆段 "wikilink")。目前，已有部分列车的车厢照明更改为LED照明\[2\]。
+，由[南车四方](https://zh.wikipedia.org/wiki/南车四方 "wikilink")（现称中车四方）和[北京地铁车辆厂](https://zh.wikipedia.org/wiki/北京地铁车辆厂 "wikilink")（现称北京地铁车辆装备公司）负责生产。其中编号为G432-G451由[南车四方生产](https://zh.wikipedia.org/wiki/南车四方 "wikilink")，编号为G452-G470由[北京地铁车辆厂生产](https://zh.wikipedia.org/wiki/北京地铁车辆厂 "wikilink")。为6节编组营运，在2007年正式使用，是[1号线的第](../Page/北京地铁1号线.md "wikilink")1款原装空调车和使用电动门的列车。每节车厢共4对车门，为[内藏门](https://zh.wikipedia.org/wiki/内藏门 "wikilink")，列车两端拥有[紧急出口](https://zh.wikipedia.org/wiki/紧急出口 "wikilink")，配属于[古城车辆段](../Page/古城车辆段.md "wikilink")。目前，已有部分列车的车厢照明更改为LED照明\[2\]。
 
 车厢内饰以橙红等暖色为主，车内采用不锈钢扶手立柱，车门上方是1号线的连续闪灯图，车厢连接处有LED走字屏，用于播放语音广播的配套文字信息。
 

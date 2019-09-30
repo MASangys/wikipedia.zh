@@ -1537,7 +1537,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p>2019年5月20日－2019年11月<br />
+<td style="text-align: center;"><p>2019年5月20日－2019年11月8日<br />
 </p></td>
 <td style="text-align: center;"><p><a href="../Page/可疑的岳母.md" title="wikilink">可疑的岳母</a><br />
 </p></td>
@@ -1546,6 +1546,17 @@
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李正勳" title="wikilink">李正勳</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金仁江" title="wikilink">金仁江</a></p></td>
 <td style="text-align: center;"><p><strong>UHD畫質製作</strong></p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>2019年11月11日-2020年<br />
+</p></td>
+<td style="text-align: center;"><p><a href="../Page/想品嚐一下味道嗎？.md" title="wikilink">想品嚐一下味道嗎？</a><br />
+</p></td>
+<td style="text-align: center;"><p>124</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/韓英_(演員)" title="wikilink">韓英</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/尹柳海.md" title="wikilink">尹柳海</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金道賢" title="wikilink">金道賢</a></p></td>
+<td style="text-align: center;"></td>
 </tr>
 </tbody>
 </table>

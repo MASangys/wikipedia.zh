@@ -2,7 +2,7 @@
 
 ## 專輯簡介
 
-專輯收錄11首歌並隨碟附送一張Bonus VCD（收錄「Hello」MV），主打歌為「Hello」、「若要人不知」、「享受孤獨」，由於年初的《[Giving](../Page/Giving.md "wikilink")》銷量甚佳，亦讓[英皇願意再次落重本替王傑做宣傳](https://zh.wikipedia.org/wiki/英皇 "wikilink")，因此結合[無線電視台台慶](https://zh.wikipedia.org/wiki/無線電視台 "wikilink")，製作王傑個人的音樂特輯-- 《長崎傷愛》\[1\]，劇組特別至[日本](../Page/日本.md "wikilink")[九州進行拍攝](https://zh.wikipedia.org/wiki/九州 "wikilink")，女主角由[袁潔瑩](https://zh.wikipedia.org/wiki/袁潔瑩 "wikilink")、[楊恭如](../Page/楊恭如.md "wikilink")擔綱演出，也找來了王傑的師弟、師妹[容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")、[陳奕迅](../Page/陳奕迅.md "wikilink")、[葉佩雯](../Page/葉佩雯.md "wikilink")客串\[2\]，特輯於11月18日在[翡翠台](../Page/翡翠台.md "wikilink")首播\[3\]，專輯的發行日期則選在王傑當年的出道日（12月19日）推出\[4\]，「Hello」也作為[香港](../Page/香港.md "wikilink")[康泰旅行社](../Page/康泰旅行社.md "wikilink")廣告歌曲\[5\]。
+專輯收錄11首歌並隨碟附送一張Bonus VCD（收錄「Hello」MV），主打歌為「Hello」、「若要人不知」、「享受孤獨」，由於年初的《[Giving](../Page/Giving.md "wikilink")》銷量甚佳，亦讓[英皇願意再次落重本替王傑做宣傳](https://zh.wikipedia.org/wiki/英皇 "wikilink")，因此結合[無線電視台台慶](https://zh.wikipedia.org/wiki/無線電視台 "wikilink")，製作王傑個人的音樂特輯-- 《長崎傷愛》\[1\]，劇組特別至[日本](../Page/日本.md "wikilink")[九州進行拍攝](https://zh.wikipedia.org/wiki/九州 "wikilink")，女主角由[袁潔瑩](https://zh.wikipedia.org/wiki/袁潔瑩 "wikilink")、[楊恭如](../Page/楊恭如.md "wikilink")擔綱演出，也找來了王傑的師弟、師妹[容祖兒](../Page/容祖兒.md "wikilink")、[陳奕迅](../Page/陳奕迅.md "wikilink")、[葉佩雯](../Page/葉佩雯.md "wikilink")客串\[2\]，特輯於11月18日在[翡翠台](../Page/翡翠台.md "wikilink")首播\[3\]，專輯的發行日期則選在王傑當年的出道日（12月19日）推出\[4\]，「Hello」也作為[香港](../Page/香港.md "wikilink")[康泰旅行社](../Page/康泰旅行社.md "wikilink")廣告歌曲\[5\]。
 
 ## 曲目
 

@@ -11,7 +11,7 @@
 
   - 1990年代早期，由[卡西歐](../Page/卡西歐.md "wikilink")[電子琴](../Page/電子琴.md "wikilink")製作的[示範樂曲](https://zh.wikipedia.org/wiki/Demo "wikilink")。
   - 受歡迎的[加拿大](../Page/加拿大.md "wikilink")[青少年](../Page/青少年.md "wikilink")[戏剧](../Page/戏剧.md "wikilink")影集《》，其中一集是以它為名。
-  - [美国](../Page/美国.md "wikilink")的[情景喜剧](../Page/情景喜剧.md "wikilink")《》其中一集《The Aluminum Monster vs. Fatty McGoo》曾經以它做為配樂\[11\]。
+  - [美国](../Page/美国.md "wikilink")的[情景喜剧](../Page/情景喜剧.md "wikilink")《[It's Always Sunny in Philadelphia](https://zh.wikipedia.org/wiki/It's_Always_Sunny_in_Philadelphia "wikilink")》其中一集《The Aluminum Monster vs. Fatty McGoo》曾經以它做為配樂\[11\]。
   - [菲律宾人](../Page/菲律宾人.md "wikilink")藝人曾經在他的表演節目《Tonight with Dick and Carmi》作為個人主題曲。
   - 這首歌曾經是《[辛普森一家](../Page/辛普森一家.md "wikilink")：》其中一集的配樂。
 

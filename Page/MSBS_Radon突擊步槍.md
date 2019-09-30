@@ -18,7 +18,7 @@ MSBS Radon由[拉多姆兵工廠進入批量生產](https://zh.wikipedia.org/wik
 ### 電子遊戲
 
   - 2012年—《[战争前线](../Page/战争前线.md "wikilink")》（Warface）：型号为MSBS无托式款，被命名为“MSBS Radon”，哑黑色枪身，30发弹匣。为步枪手专用武器，在商城内贩卖，可以改装枪口配件（[通用消音器](../Page/抑制器.md "wikilink")、突击消音器、[突击制退器](https://zh.wikipedia.org/wiki/炮口制动器 "wikilink")）、战术导轨配件（[通用握把](https://zh.wikipedia.org/wiki/辅助握把 "wikilink")、突击握把、突击握把架、[枪挂型榴弹发射器](https://zh.wikipedia.org/wiki/FN_EGLM附加型榴弹发射器 "wikilink")）以及瞄准镜（[EoTech 553全息瞄准镜](https://zh.wikipedia.org/wiki/全息瞄准镜 "wikilink")、绿点全息瞄准镜、[ELCAN SpecterDS瞄准镜](https://zh.wikipedia.org/wiki/C79光学瞄准镜 "wikilink")、[红点瞄准镜](https://zh.wikipedia.org/wiki/红点镜 "wikilink")、[步枪高级瞄准镜](https://zh.wikipedia.org/wiki/ELCAN_SpecterDR光学瞄准镜 "wikilink")、[Trijicon ACOG瞄准镜](../Page/先進戰鬥光學瞄準鏡.md "wikilink")）。
-  - 2013年—《[-{zh-cn:武装突袭; zh-tw:武裝行動;}-3](../Page/武裝行動3.md "wikilink")》（ArmA 3）：型号为MSBS标准款，被命名为“MX 6.5MM”，游戏中被驻扎在欧洲的美国陆军部队所使用。
+  - 2013年—《[-{zh-cn:武装突袭; zh-tw:武裝行動;}-3](../Page/武裝行動3.md "wikilink")》（ArmA 3）：型号为MSBS无托式款，但使用游戏中的“6.5[×](../Page/7.62×51mm_NATO.md "wikilink")39mm NATO”弹药。被命名为“Promet 6.5 mm”，并有下挂榴弹发射器、霰弹发射器的型号及长枪管的精确射手步枪型号。游戏中被"利沃尼亚国防军(LDF)"所使用。随2019年发布的DLC“contact”首次出现。
   - 2013年—《[-{zh-cn:使命召唤：幽灵; zh-tw:決勝時刻：魅影;}-](../Page/決勝時刻：魅影.md "wikilink")》（Call of Duty: Ghosts）：型号为MSBS无托式款，被命名为“MSBS”，只有[三發點放](../Page/三發點放.md "wikilink")功能。故事模式中被美国精锐部队【-{zh-cn:幽灵; zh-tw:魅影;}-】以及敌方阵营【联邦】所使用。
   - 2017年—《[狙擊手：幽靈戰士3](https://zh.wikipedia.org/wiki/狙擊手：幽靈戰士3 "wikilink")》（Sniper: Ghost Warrior 3）：命名為“Archer AR15”。
 

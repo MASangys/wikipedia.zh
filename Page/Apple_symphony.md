@@ -64,8 +64,8 @@
 
   - PONY CANYON介紹網頁
       - [初回限定盤](https://web.archive.org/web/20150406205717/http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=201200001976&DSP_SKHKETSEQ=002)
-      - [通常盤](http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=201200001976&DSP_SKHKETSEQ=003)
-      - [特別盤](http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=201200001976&DSP_SKHKETSEQ=001)
+      - [通常盤](https://web.archive.org/web/20130613054447/http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=201200001976&DSP_SKHKETSEQ=003)
+      - [特別盤](https://web.archive.org/web/20150407063346/http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=201200001976&DSP_SKHKETSEQ=001)
 
 [Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink") [Category:波麗佳音音樂專輯](https://zh.wikipedia.org/wiki/Category:波麗佳音音樂專輯 "wikilink") [Category:日本配音員音樂專輯](https://zh.wikipedia.org/wiki/Category:日本配音員音樂專輯 "wikilink")
 

@@ -24,7 +24,7 @@ JNI框架允许Native方法调用Java对象，就像Java程序访问Native对象
 
 ## JNI如何工作
 
-在JNI框架，本地函数一般在单独的.c或.cpp文件中实现。当JVM调用这些函数，就传递一个`JNIEnv`指针，一个`jobject`的指针，任何在Java方法中声明的Java参数。一个JNI函数看起来类似这样：
+在JNI框架，native方法一般在单独的.c或.cpp文件中实现。当JVM调用这些函数，就传递一个`JNIEnv`指针，一个`jobject`的指针，任何在Java方法中声明的Java参数。一个JNI函数看起来类似这样：
 
 ``` c
 JNIEXPORT void JNICALL Java_ClassName_MethodName

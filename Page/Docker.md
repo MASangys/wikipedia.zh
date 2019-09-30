@@ -30,7 +30,7 @@ Docker利用[Linux核心中的資源分離機制](https://zh.wikipedia.org/wiki/
 
 {{-}}
 
-[Category:操作系统技术](https://zh.wikipedia.org/wiki/Category:操作系统技术 "wikilink") [Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink") [Category:虛擬化軟體](https://zh.wikipedia.org/wiki/Category:虛擬化軟體 "wikilink") [Category:Linux容器化](https://zh.wikipedia.org/wiki/Category:Linux容器化 "wikilink")
+[Category:操作系统技术](https://zh.wikipedia.org/wiki/Category:操作系统技术 "wikilink") [Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink") [Category:虛擬化軟體](https://zh.wikipedia.org/wiki/Category:虛擬化軟體 "wikilink") [Category:Linux容器化](https://zh.wikipedia.org/wiki/Category:Linux容器化 "wikilink") [Category:用Go編程的自由軟件](https://zh.wikipedia.org/wiki/Category:用Go編程的自由軟件 "wikilink")
 
 1.
 2.

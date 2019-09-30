@@ -25,7 +25,7 @@
       - Team E:竹内舞
   - [HKT48](../Page/HKT48.md "wikilink")
       - Team H：[多田愛佳](../Page/多田愛佳.md "wikilink")
-  - [SNH48](https://zh.wikipedia.org/wiki/SNH48 "wikilink")：[宮澤佐江](../Page/宮澤佐江.md "wikilink")
+  - [SNH48](../Page/SNH48.md "wikilink")：[宮澤佐江](../Page/宮澤佐江.md "wikilink")
   - [JKT48](../Page/JKT48.md "wikilink")
       - Team J：[高城亜樹](https://zh.wikipedia.org/wiki/高城亜樹 "wikilink")（AKB48 Team B兼任）、デフィ・キナル・プトゥリ、[仲川遥香](../Page/仲川遥香.md "wikilink")、ナビラ・ラトナ・アユ・アザリア
 

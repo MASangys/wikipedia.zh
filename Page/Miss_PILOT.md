@@ -162,7 +162,7 @@
 
 #### 第1集
 
-  - **宮田五郎** - （最終回）（香港配音：[招世亮](../Page/招世亮.md "wikilink")）
+  - **宮田五郎** - [鶴見辰吾](https://zh.wikipedia.org/wiki/鶴見辰吾 "wikilink")（最終回）（香港配音：[招世亮](../Page/招世亮.md "wikilink")）
 
 <!-- end list -->
 

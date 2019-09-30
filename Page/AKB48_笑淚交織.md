@@ -19,7 +19,7 @@
   - [NMB48](../Page/NMB48.md "wikilink")：[小谷里歩](https://zh.wikipedia.org/wiki/小谷里歩 "wikilink")、[渡邊美優紀](../Page/渡邊美優紀.md "wikilink")
   - [HKT48](../Page/HKT48.md "wikilink")：[指原莉乃](../Page/指原莉乃.md "wikilink")、[多田愛佳](../Page/多田愛佳.md "wikilink")
   - [JKT48](../Page/JKT48.md "wikilink")：[高城亞樹](../Page/高城亞樹.md "wikilink")、[仲川遥香](../Page/仲川遥香.md "wikilink")
-  - [SNH48](https://zh.wikipedia.org/wiki/SNH48 "wikilink")：[鈴木瑪莉亞](../Page/鈴木瑪莉亞.md "wikilink")（）、[宮澤佐江](../Page/宮澤佐江.md "wikilink")
+  - [SNH48](../Page/SNH48.md "wikilink")：[鈴木瑪莉亞](../Page/鈴木瑪莉亞.md "wikilink")（）、[宮澤佐江](../Page/宮澤佐江.md "wikilink")
 
 ## 工作人員
 

@@ -217,7 +217,7 @@ Pledis娛樂表示除了因成為Wanna One成員而受到合約限制的黃旼�
 </tr>
 <tr class="odd">
 <td><p>2月2日-3月2日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/叢林的法則" title="wikilink">叢林的法則</a><br />
+<td><p><a href="../Page/叢林的法則.md" title="wikilink">叢林的法則</a><br />
 巴塔哥尼亞篇</p></td>
 <td><p>EP1-4</p></td>
 <td></td>
@@ -446,7 +446,20 @@ Pledis娛樂表示除了因成為Wanna One成員而受到合約限制的黃旼�
 | 2014年 | Arena    | 2月號  | [TEEN TOP](https://zh.wikipedia.org/wiki/TEEN_TOP "wikilink") 的 Ricky & [創造](../Page/創造_\(歌手\).md "wikilink")、[BTOB](../Page/BTOB.md "wikilink") 的[星材](../Page/陸星材.md "wikilink")、[VIXX](../Page/VIXX.md "wikilink") 的 Hyuk\[53\] |      |
 | 2017年 | @star 1  | 8月號  | REN\[54\]                                                                                                                                                                                                                         | 封面人物 |
 
-## 參考資料
+
+
+## 代言宣傳及活動
+
+### 廣告代言及品牌宣傳
+
+|                   |         |               |      |                  |
+| ----------------- | ------- | ------------- | ---- | ---------------- |
+| 年份                | 公司名稱    | 品牌名稱          | 參與成員 | 備註               |
+| 2017年7月12日-11月29日 |         | LABIOTTE      | 與Ren | 韓國區全品牌代言         |
+| 2019年9月-          | Origins | Origins Korea |      | 品牌宣傳廣告模特兒及品牌宣傳大使 |
+
+
+\==參考資料==
 
 ## 註釋
 

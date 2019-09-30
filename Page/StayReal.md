@@ -79,6 +79,7 @@
   - 台灣潮牌 [STAGE](../Page/台獅有限公司.md "wikilink")（[羅志祥](../Page/羅志祥.md "wikilink")創辦）
   - [shu uemura 植村秀](../Page/植村秀.md "wikilink")
   - [Reebok](https://zh.wikipedia.org/wiki/Reebok "wikilink")
+  - PHANTACi（[周杰倫](../Page/周杰倫.md "wikilink")創辦）
 
 <!-- end list -->
 
@@ -184,6 +185,7 @@
   - 新光三越台北信義 A11 店
   - 台北京站店
   - 板橋遠東店
+  - 桃園台茂購物中心
   - 新光三越台中中港店
   - 新光三越台南西門店
   - 新光三越嘉義垂楊店

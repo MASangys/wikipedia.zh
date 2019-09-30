@@ -5,7 +5,7 @@
 ### SINA Music 最高收聽率二十大歌曲
 
   - 《重口味》 ——[陳奕迅](../Page/陳奕迅.md "wikilink")
-  - 《連續劇》 ——[容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")
+  - 《連續劇》 ——[容祖兒](../Page/容祖兒.md "wikilink")
   - 《大過天》 ——[Twins](https://zh.wikipedia.org/wiki/Twins "wikilink")
   - 《爛命鴛鴦》 ——[劉浩龍](../Page/劉浩龍.md "wikilink")
   - 《人非草木》 ——[吳雨霏](../Page/吳雨霏.md "wikilink")
@@ -41,7 +41,7 @@
   - 我最喜愛至尊大碟
       - 《[...3mm](../Page/...3mm.md "wikilink")》 ——[陳奕迅](../Page/陳奕迅.md "wikilink")
   - 我最喜愛至尊國語大碟
-      - 《[Moment](../Page/Moment_\(容祖兒專輯\).md "wikilink")》 ——[容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")
+      - 《[Moment](../Page/Moment_\(容祖兒專輯\).md "wikilink")》 ——[容祖兒](../Page/容祖兒.md "wikilink")
   - 我最喜愛男歌手(香港)
       - [張敬軒](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")
   - 我最喜愛女歌手(香港)
@@ -53,7 +53,7 @@
   - 我最喜愛全國男歌手
       - [林峯](https://zh.wikipedia.org/wiki/林峯 "wikilink")
   - 我最喜愛全國女歌手
-      - [容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")
+      - [容祖兒](../Page/容祖兒.md "wikilink")
   - 我最喜愛全國組合
       - [Twins](https://zh.wikipedia.org/wiki/Twins "wikilink")
   - 我最喜愛至尊國語金曲
@@ -65,10 +65,10 @@
 
   - SINA Music 電視劇主題曲大獎
       - 《此時此刻》——[薛凱琪](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")
-      - 《連續劇》——[容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")
+      - 《連續劇》——[容祖兒](../Page/容祖兒.md "wikilink")
       - 《一生一心》——[胡鴻鈞](https://zh.wikipedia.org/wiki/胡鴻鈞 "wikilink")
   - SINA Music 合唱歌曲大獎
-      - 《雙子情歌》——[容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")、[羅力威](../Page/羅力威.md "wikilink")
+      - 《雙子情歌》——[容祖兒](../Page/容祖兒.md "wikilink")、[羅力威](../Page/羅力威.md "wikilink")
   - SINA Music 對唱演繹金曲大獎
       - 《重口味Remix》 ——[陳奕迅](../Page/陳奕迅.md "wikilink")、[譚詠麟](../Page/譚詠麟.md "wikilink")
   - SINA Music 改編歌曲大獎
@@ -130,7 +130,7 @@
 
 ## 外部連結
 
-  - [SINA Music樂壇民意指數頒獎禮2012](http://ent.sina.com.hk/musicawards12/live.html)
+  - [SINA Music樂壇民意指數頒獎禮2012](https://web.archive.org/web/20130118070425/http://ent.sina.com.hk/musicawards12/live.html)
 
 ## 參看
 

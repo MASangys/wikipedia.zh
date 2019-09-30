@@ -348,7 +348,7 @@ VOSEO
       - [太平洋沿岸地區](https://zh.wikipedia.org/wiki/太平洋 "wikilink")
           - [喬科省](https://zh.wikipedia.org/wiki/喬科省 "wikilink")
           - [考卡山谷省](../Page/考卡山谷省.md "wikilink")
-          - [考卡省](https://zh.wikipedia.org/wiki/考卡省 "wikilink")
+          - [考卡省](../Page/考卡省.md "wikilink")
           - [納里尼奧省](https://zh.wikipedia.org/wiki/納里尼奧省 "wikilink")
       - 中部派薩地區
           - [安蒂奧基亞省](https://zh.wikipedia.org/wiki/安蒂奧基亞省 "wikilink")

@@ -1,4 +1,4 @@
-**AMX-30**是一款由设计的[主战坦克](https://zh.wikipedia.org/wiki/主战坦克 "wikilink")，从1966年开始服役于[法國陸軍](https://zh.wikipedia.org/wiki/法國陸軍 "wikilink")，前5辆被交付给第501坦克团（），在冷戰時期是法國陸軍裝甲部隊唯一裝備的主力坦克，直至1990年代中期才逐漸被[雷克勒坦克取代](https://zh.wikipedia.org/wiki/雷克勒坦克 "wikilink")。
+**AMX-30**是一款由和GIAT（现）研发的[主战坦克](https://zh.wikipedia.org/wiki/主战坦克 "wikilink")，从1966年开始服役于[法國陸軍](https://zh.wikipedia.org/wiki/法國陸軍 "wikilink")，前5辆被交付给第501坦克团（），在冷戰時期是法國陸軍裝甲部隊唯一裝備的主力坦克，直至1990年代中期才逐漸被[雷克勒坦克取代](https://zh.wikipedia.org/wiki/雷克勒坦克 "wikilink")。
 
 ## 概要
 

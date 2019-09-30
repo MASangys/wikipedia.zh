@@ -10,7 +10,7 @@ P224的全長為170.18毫米（6.7英吋），而P229則為180.34毫米（7.1英
 
 P224與SIG經典手槍系列的其他成員一樣，採用了由[約翰·白朗寧首創的](https://zh.wikipedia.org/wiki/約翰·白朗寧 "wikilink")[後膛閉鎖](https://zh.wikipedia.org/wiki/後膛閉鎖 "wikilink")[槍管短行程後座作用模式以使全槍運作](https://zh.wikipedia.org/wiki/後座作用#槍管短行程後座作用 "wikilink")。在射擊時，[套筒和](https://zh.wikipedia.org/wiki/手枪套筒 "wikilink")[槍管](../Page/槍管.md "wikilink")鎖在一起並且向後移動幾毫米，槍管會向後移直到後方的絞鏈時使後膛向下傾斜。這個時候，子彈已經離開槍管，而壓力亦已經下降到安全水平。在這種情況以下，套筒已完成向後行程，並以[拋彈口退出](https://zh.wikipedia.org/wiki/拋彈口 "wikilink")[彈殼](https://zh.wikipedia.org/wiki/彈殼 "wikilink")。然後復進簧（又稱：反沖彈簧）會向前推動套筒，從彈匣上取出最頂部的一發並讓槍管後膛向上回複水平同時向前運動幾毫米，再將套筒和槍管一起閉鎖。
 
-與其他白朗寧型武器（諸如[柯爾特](https://zh.wikipedia.org/wiki/柯爾特 "wikilink")[M1911A1](../Page/M1911手槍.md "wikilink")，[白朗寧大威力手槍](../Page/白朗寧大威力手槍.md "wikilink")和[CZ-75](https://zh.wikipedia.org/wiki/CZ-75手槍 "wikilink")）以[槍管](../Page/槍管.md "wikilink")和套筒之間的閉鎖鎖耳和凹槽的相互扣合以實現閉鎖相反的是，P224使用加大的槍管後膛節套在拋殼口內閉鎖使槍管和[套筒得以閉鎖在一起](https://zh.wikipedia.org/wiki/手枪套筒 "wikilink")。這個由SIG所發明的一個修改過的閉鎖系統與原來由白朗寧研製的閉鎖系統相比並沒有任何功能上的缺點，而且目前已經被眾多的槍械製造商所仿製。\[3\]
+與其他白朗寧型武器（諸如[柯爾特](https://zh.wikipedia.org/wiki/柯爾特 "wikilink")[M1911A1](../Page/M1911手槍.md "wikilink")，[白朗寧大威力半自動手槍](../Page/白朗寧大威力半自動手槍.md "wikilink")和[CZ 75](../Page/CZ_75手槍.md "wikilink")）以[槍管](../Page/槍管.md "wikilink")和套筒之間的閉鎖鎖耳和凹槽的相互扣合以實現閉鎖相反的是，P224使用加大的槍管後膛節套在拋殼口內閉鎖使槍管和[套筒得以閉鎖在一起](https://zh.wikipedia.org/wiki/手枪套筒 "wikilink")。這個由SIG所發明的一個修改過的閉鎖系統與原來由白朗寧研製的閉鎖系統相比並沒有任何功能上的缺點，而且目前已經被眾多的槍械製造商所仿製。\[3\]
 
 P224在好幾個方面與其全尺寸型P226都有不同之處。P224與P229一樣是在推出同時可以裝填.357 SIG口徑手槍子彈的手槍。\[4\]P226和P228都採用了[鋁合金](../Page/鋁合金.md "wikilink")製[底把和](../Page/机匣.md "wikilink")[衝壓](../Page/衝壓.md "wikilink")成形[碳鋼](../Page/碳鋼.md "wikilink")製[套筒製造](https://zh.wikipedia.org/wiki/手枪套筒 "wikilink")。而P224則是採用了[數控加工不銹鋼棒](https://zh.wikipedia.org/wiki/數控加工 "wikilink")[不鏽鋼](../Page/不鏽鋼.md "wikilink")機加成形套筒，一般塗為全黑色並且使用Nitron塗層[表面處理](https://zh.wikipedia.org/wiki/表面處理 "wikilink")。P224就是在推出時使用銑削不鏽鋼製套筒使它可以承受由.357 SIG和.40 S\&W兩種口徑手槍子彈所造成的更高套筒後座速度和[後座力](../Page/後座力.md "wikilink")。雖然這樣會使手動拉後套筒變得困難得多，不過採用銑削不鏽鋼製套筒（加上在[美国](../Page/美国.md "wikilink")[西格-紹爾工廠的新銑削和不銹鋼生產能力](../Page/西格&紹爾.md "wikilink")）與堅硬的標準重量復進簧使這輕微缺點更有意義。
 
@@ -58,9 +58,9 @@ SIG槍械同時在[德国](../Page/德国.md "wikilink")[埃肯弗特的JP](http
   - [SIG P229](../Page/SIG_P229手槍.md "wikilink")
   - [SIG P230](../Page/SIG_P230手槍.md "wikilink")
   - [貝瑞塔M9手槍](../Page/貝瑞塔M9手槍.md "wikilink")
-  - [FN HP-DA](../Page/白朗寧雙動手槍.md "wikilink")
+  - [FN HP-DA](../Page/白朗寧雙動半自動手槍.md "wikilink")
   - [HK P9S](../Page/HK_P9S手槍.md "wikilink")
-  - [史密斯威森M459](../Page/史密斯威森M59手槍.md "wikilink")
+  - [史密斯威森M459](../Page/史密斯威森M459手槍.md "wikilink")
 
 ## 資料來源
 

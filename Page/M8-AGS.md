@@ -1,4 +1,4 @@
-联合防务公司**M8装甲火炮系统**是一种轻型坦克，原本用于取代美军[第82空降师的](https://zh.wikipedia.org/wiki/第82空降师 "wikilink")[M551谢里登轻型坦克](https://zh.wikipedia.org/wiki/M551谢里登轻型坦克 "wikilink")，还有望取代第二装甲骑兵团安装[陶式导弹的](https://zh.wikipedia.org/wiki/陶式导弹 "wikilink")[悍马汽车](https://zh.wikipedia.org/wiki/悍马 "wikilink")。M8项目最终被取消，它原本在第二装甲骑兵团的作用被[史崔克裝甲車取代](https://zh.wikipedia.org/wiki/史崔克装甲车 "wikilink")。
+**M8装甲火炮系统**（，缩写）是一款由美国开发的[轻型坦克](https://zh.wikipedia.org/wiki/輕型戰車 "wikilink")，原本用于取代美军[第82空降师的](https://zh.wikipedia.org/wiki/第82空降师 "wikilink")[M551谢里登轻型坦克](https://zh.wikipedia.org/wiki/M551谢里登轻型坦克 "wikilink")，还有望取代第二装甲骑兵团安装[陶式导弹的](https://zh.wikipedia.org/wiki/陶式导弹 "wikilink")[悍马汽车](https://zh.wikipedia.org/wiki/悍马 "wikilink")。M8项目最终被取消，它原本在第二装甲骑兵团的作用被[史崔克裝甲車取代](https://zh.wikipedia.org/wiki/史崔克装甲车 "wikilink")。
 
 ## 发展
 

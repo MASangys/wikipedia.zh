@@ -24,7 +24,7 @@ GMS版本跟随[Android](../Page/Android.md "wikilink")版本更新，Android是
 
 ### 限制
 
-在没有获得谷歌公司认证的Android设备上（例如中国大陆地区销售的[手机](https://zh.wikipedia.org/wiki/手机 "wikilink")），无法运行[谷歌地图等谷歌应用](../Page/Google地图.md "wikilink")。即使用户能够在手机上安装谷歌应用，运行时也会出现“[闪退](https://zh.wikipedia.org/wiki/闪退 "wikilink")”或者手機會提示“已停止運行”现象而无法继续使用。 遭到限制的设备仍然可以透過开机卡刷等方式获取GMS。
+在没有获得谷歌公司认证的Android设备上，无法运行[谷歌地图等谷歌应用](../Page/Google地图.md "wikilink")。即使用户能够在手机上安装谷歌应用，运行时也会出现“[闪退](https://zh.wikipedia.org/wiki/闪退 "wikilink")”或者手機會提示“已停止運行”现象而无法继续使用。 遭到限制的设备仍然可以透過开机卡刷等方式获取GMS。
 
 ## 相關條目
 

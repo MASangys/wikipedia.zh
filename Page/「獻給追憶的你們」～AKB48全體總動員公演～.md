@@ -17,7 +17,7 @@
 <td><p><a href="../Page/菊地彩香.md" title="wikilink">菊地彩香</a>、<a href="../Page/篠田麻里子.md" title="wikilink">篠田麻里子</a>、<a href="../Page/高橋南.md" title="wikilink">高橋南</a>、<a href="https://zh.wikipedia.org/wiki/横山由依" title="wikilink">横山由依</a><br />
 <a href="../Page/渡邊麻友.md" title="wikilink">渡邊麻友</a>、<a href="../Page/秋元才加.md" title="wikilink">秋元才加</a>、<a href="../Page/板野友美.md" title="wikilink">板野友美</a>、<a href="../Page/大島優子.md" title="wikilink">大島優子</a><br />
 <a href="../Page/北原里英.md" title="wikilink">北原里英</a>、<a href="../Page/小林香菜.md" title="wikilink">小林香菜</a>、<a href="../Page/松原夏海.md" title="wikilink">松原夏海</a>、<a href="../Page/梅田彩佳.md" title="wikilink">梅田彩佳</a><br />
-<a href="../Page/柏木由紀.md" title="wikilink">柏木由紀</a>、<a href="../Page/片山陽加.md" title="wikilink">片山陽加</a>、<a href="../Page/小嶋陽菜.md" title="wikilink">小嶋陽菜</a>、<a href="../Page/宮澤佐江.md" title="wikilink">宮澤佐江</a>（<a href="https://zh.wikipedia.org/wiki/SNH48" title="wikilink">SNH48</a>）</p></td>
+<a href="../Page/柏木由紀.md" title="wikilink">柏木由紀</a>、<a href="../Page/片山陽加.md" title="wikilink">片山陽加</a>、<a href="../Page/小嶋陽菜.md" title="wikilink">小嶋陽菜</a>、<a href="../Page/宮澤佐江.md" title="wikilink">宮澤佐江</a>（<a href="../Page/SNH48.md" title="wikilink">SNH48</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>2013年5月3日[※2回公演]</p></td>

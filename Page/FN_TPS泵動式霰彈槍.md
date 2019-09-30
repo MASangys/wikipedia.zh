@@ -1,4 +1,4 @@
-**FN TPS**（，意為：戰術警用霰彈槍）是一款由[比利时](../Page/比利时.md "wikilink")槍械製造商[國營赫斯塔爾所研製及生產的軍警兩用](https://zh.wikipedia.org/wiki/赫爾斯塔爾國營工廠 "wikilink")[泵动式](https://zh.wikipedia.org/wiki/泵动式 "wikilink")[戰術](../Page/鎮暴霰彈槍.md "wikilink")[霰彈槍](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")，發射[12鉛徑霰彈](https://zh.wikipedia.org/wiki/霰彈 "wikilink")。
+**FN TPS**（，意為：戰術警用霰彈槍）是一款由[比利时](../Page/比利时.md "wikilink")槍械製造商[埃斯塔勒](../Page/埃斯塔勒.md "wikilink")[國營所研製及生產的軍警兩用](https://zh.wikipedia.org/wiki/埃斯塔勒國營工廠 "wikilink")[泵动式](https://zh.wikipedia.org/wiki/泵动式 "wikilink")[戰術](../Page/鎮暴霰彈槍.md "wikilink")[霰彈槍](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")，發射[12鉛徑霰彈](https://zh.wikipedia.org/wiki/霰彈 "wikilink")。
 
 ## 概述
 

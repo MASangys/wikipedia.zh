@@ -14,12 +14,12 @@
 
 ### 電視劇
 
-|             |                                                               |                                         |        |            |        |
-| ----------- | ------------------------------------------------------------- | --------------------------------------- | ------ | ---------- | ------ |
-| **日期 (首播)** | **電視台**                                                       | **戲劇名稱**                                | **性質** | **演出角色**   | **備註** |
-| 2014年4月26日  | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")           | |[心情好的日子](../Page/心情好的日子.md "wikilink") | 客串     | HYUK（VIXX） | EP.43  |
-| 2017年10月24日 | [Naver TV](https://zh.wikipedia.org/wiki/Naver_TV "wikilink") | [羅曼史特別法](../Page/羅曼史特別法.md "wikilink")  | 主演     | 姜世雄        |        |
-| 2019年8月26日  | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")           | 偉大的Show                                 |        | 崔政宇        |        |
+|             |                                                               |                                          |        |            |        |
+| ----------- | ------------------------------------------------------------- | ---------------------------------------- | ------ | ---------- | ------ |
+| **日期 (首播)** | **電視台**                                                       | **戲劇名稱**                                 | **性質** | **演出角色**   | **備註** |
+| 2014年4月26日  | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")           | |[心情好的日子](../Page/心情好的日子.md "wikilink")  | 客串     | HYUK（VIXX） | EP.43  |
+| 2017年10月24日 | [Naver TV](https://zh.wikipedia.org/wiki/Naver_TV "wikilink") | [羅曼史特別法](../Page/羅曼史特別法.md "wikilink")   | 主演     | 姜世雄        |        |
+| 2019年8月26日  | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")           | [偉大的Show](../Page/偉大的Show.md "wikilink") |        | 崔政宇        |        |
 
 ### 電影
 

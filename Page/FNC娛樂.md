@@ -145,15 +145,6 @@ FNC旗下著名藝人有[FTIsland](../Page/FTIsland.md "wikilink")、[CNBLUE](..
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/李宗泫.md" title="wikilink">李宗泫</a></p></td>
-<td></td>
-<td><p>2016年7月27日</p></td>
-<td><p><a href="../Page/CNBLUE.md" title="wikilink">CNBLUE</a></p></td>
-<td><p>Boice</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>吳昇錫</p></td>
 <td><p>오승석</p></td>
 <td><p>約滿前組合解散<br />
@@ -163,7 +154,7 @@ Solo未出道的狀態</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>金哲敏</p></td>
 <td><p>김철민</p></td>
 <td></td>
@@ -172,7 +163,7 @@ Solo未出道的狀態</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>徐東成</p></td>
 <td><p>서동성</p></td>
 <td></td>
@@ -181,7 +172,7 @@ Solo未出道的狀態</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>金歡</p></td>
 <td><p>김환</p></td>
 <td></td>
@@ -433,6 +424,8 @@ Solo未出道的狀態</p></td>
 <!-- end list -->
 
   - [劉在錫](../Page/劉在錫.md "wikilink")
+
+  - [金龍萬](https://zh.wikipedia.org/wiki/金龍萬 "wikilink")
 
   - [鄭亨敦](../Page/鄭亨敦.md "wikilink")
 

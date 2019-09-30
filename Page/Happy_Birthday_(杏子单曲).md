@@ -30,4 +30,4 @@
 </tbody>
 </table>
 
-[Category:杏子歌曲](https://zh.wikipedia.org/wiki/Category:杏子歌曲 "wikilink") [Category:1997年單曲](https://zh.wikipedia.org/wiki/Category:1997年單曲 "wikilink") [Category:名侦探柯南歌曲](https://zh.wikipedia.org/wiki/Category:名侦探柯南歌曲 "wikilink") [Category:動畫電影主題曲](https://zh.wikipedia.org/wiki/Category:動畫電影主題曲 "wikilink")
+[Category:杏子歌曲](https://zh.wikipedia.org/wiki/Category:杏子歌曲 "wikilink") [Category:1997年單曲](https://zh.wikipedia.org/wiki/Category:1997年單曲 "wikilink") [Category:名侦探柯南歌曲](https://zh.wikipedia.org/wiki/Category:名侦探柯南歌曲 "wikilink") [Category:動畫電影主題曲](https://zh.wikipedia.org/wiki/Category:動畫電影主題曲 "wikilink") [Category:生日題材樂曲](https://zh.wikipedia.org/wiki/Category:生日題材樂曲 "wikilink")

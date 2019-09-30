@@ -1,4 +1,4 @@
-**Spotify**（Spotify Technology SA）（中文名：**聲田**、**声破天**、**斯波蒂菲**）是一個创始於[瑞典](../Page/瑞典.md "wikilink")的音樂[串流服務公司](https://zh.wikipedia.org/wiki/串流 "wikilink")，也是目前全球最大的串流音樂服務商，提供包括[環球音樂集團](../Page/环球音乐集团.md "wikilink")、[索尼音樂娛樂](../Page/索尼音樂娛樂.md "wikilink")、[華納音樂集團](../Page/華納音樂集團.md "wikilink")全球三大唱片公司及眾多獨立唱片公司所授權、由[数字版权管理](../Page/数字版权管理.md "wikilink")（DRM）保護的音樂\[1\]，使用用戶在2019年4月已經達到2.17億以上\[2\]。
+**Spotify技术股份公司**（，，中文名：**聲田**、**声破天**、**斯波蒂菲**）是一個创始於[瑞典](../Page/瑞典.md "wikilink")的音樂[串流服務公司](https://zh.wikipedia.org/wiki/串流 "wikilink")，也是目前全球最大的串流音樂服務商，提供包括[環球音樂集團](../Page/环球音乐集团.md "wikilink")、[索尼音樂娛樂](../Page/索尼音樂娛樂.md "wikilink")、[華納音樂集團](../Page/華納音樂集團.md "wikilink")全球三大唱片公司及眾多獨立唱片公司所授權、由[数字版权管理](../Page/数字版权管理.md "wikilink")（DRM）保護的音樂\[1\]，使用用戶在2019年4月已經達到2.17億以上\[2\]。
 
 該公司以一種[免費增值](../Page/免費增值.md "wikilink")的企業型態創立，提供兩種等級之串流音樂：Spotify Free（160kbit/s）和Spotify Premium （320kbit/s以上）。不同於店內購買或下載銷售每首歌曲或專輯是支付固定的價格，而Spotify支付演出者的金額基於市場份額，為歌曲的音訊流在總歌曲中的點擊率和播放次數比例，每次播放大約為0.04-0.1 [美分](https://zh.wikipedia.org/wiki/美分 "wikilink")。Spotify的營收來自兩個方面。其中，免費服務的收入主要來自廣告，而付費服務的收入來自Spotify Premium用戶每月支付的費用。軟體支援多種裝置，包括電腦、智慧手機及平板電腦。
 

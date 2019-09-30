@@ -95,7 +95,7 @@ iPad使用了內建的[可充電式](../Page/蓄電池.md "wikilink")[鋰離子�
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/iPad_Pro" title="wikilink">iPad Pro (1st, 9.7'')</a></strong></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/iPad_(2017)" title="wikilink">iPad (2017)</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/iPad_(2017)" title="wikilink">iPad (第五代)(2017)</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/iPad_Pro" title="wikilink">iPad Pro (2nd, 12.9'')</a></strong></p></td>
@@ -119,6 +119,9 @@ iPad使用了內建的[可充電式](../Page/蓄電池.md "wikilink")[鋰離子�
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/iPad_mini_(第五代)" title="wikilink">iPad mini (第五代)</a></strong></p></td>
 </tr>
 <tr class="even">
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/iPad_2019" title="wikilink">iPad 2019</a> (第七代)</strong></p></td>
+</tr>
+<tr class="odd">
 <td><table>
 <thead>
 <tr class="header">

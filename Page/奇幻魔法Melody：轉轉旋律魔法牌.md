@@ -1,4 +1,4 @@
-《**奇幻魔法Melody：轉轉旋律魔法牌**》（日文原名：）為《[奇幻魔法Melody](../Page/奇幻魔法Melody.md "wikilink")》系列動畫第二輯，故事延續上一輯，主要舞台為人類世界——夢之丘這個虛構市鎮，人類主角為夢野歌。續作為《[奇幻魔法Melody：輕鬆舒暢♪](../Page/奇幻魔法Melody：輕鬆舒暢♪.md "wikilink")》。
+《**奇幻魔法Melody：轉轉旋律魔法牌**》（日文原名：）為《[奇幻魔法Melody](../Page/奇幻魔法Melody.md "wikilink")》系列動畫第二輯，故事延續上一輯，主要舞台為人類世界——夢之丘這個虛構市鎮，人類主角為夢野歌。
 
 ## 故事內容
 
@@ -614,6 +614,8 @@ Kim Hae Sook<br />
   - [大阪電視台「奇幻魔法Melody：轉轉旋律魔法牌」](http://www.tv-osaka.co.jp/mymelo_kurukuru/index.html)
 
   - [奇幻魔法Melody：轉轉旋律魔法牌](https://web.archive.org/web/20130303020909/http://www.php.co.jp/smash/books/2013/02/post-29.php) - 粉碎文庫 PHP研究所
+
+## 節目的變遷
 
 [分類:搞笑動畫](https://zh.wikipedia.org/wiki/分類:搞笑動畫 "wikilink") [分類:奇幻動畫](https://zh.wikipedia.org/wiki/分類:奇幻動畫 "wikilink") [分類:2006年東京電視網動畫](https://zh.wikipedia.org/wiki/分類:2006年東京電視網動畫 "wikilink") [分類:以兔子為主角的故事](https://zh.wikipedia.org/wiki/分類:以兔子為主角的故事 "wikilink") [分類:中學背景動畫](https://zh.wikipedia.org/wiki/分類:中學背景動畫 "wikilink") [分類:無綫電視外購動畫](https://zh.wikipedia.org/wiki/分類:無綫電視外購動畫 "wikilink") [分類:三麗鷗](https://zh.wikipedia.org/wiki/分類:三麗鷗 "wikilink")
 

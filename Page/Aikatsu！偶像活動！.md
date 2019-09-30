@@ -609,7 +609,7 @@ BGM遊戲開始點選樂曲時，使用ID卡再加上一定條件的話，歌曲
 
   - [印尼《Aikatsu！》官方網站](http://id.aikatsu.com/)
 
-  - [韓國《I am star！》官方網站](http://www.iam-star.com/)
+  - [韓國《I am star！》官方網站](https://web.archive.org/web/20160815004036/http://www.iam-star.com/)
 
 [Category:Aikatsu！偶像活動！](https://zh.wikipedia.org/wiki/Category:Aikatsu！偶像活動！ "wikilink") [Category:Ciao](https://zh.wikipedia.org/wiki/Category:Ciao "wikilink") [Category:2012年電子遊戲](https://zh.wikipedia.org/wiki/Category:2012年電子遊戲 "wikilink") [Category:藝術學校背景作品](https://zh.wikipedia.org/wiki/Category:藝術學校背景作品 "wikilink") [Category:任天堂3DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂3DS遊戲 "wikilink") [Category:萬代南夢宮遊戲](https://zh.wikipedia.org/wiki/Category:萬代南夢宮遊戲 "wikilink") [Category:偶像題材電子遊戲](https://zh.wikipedia.org/wiki/Category:偶像題材電子遊戲 "wikilink") [Category:街機卡片遊戲](https://zh.wikipedia.org/wiki/Category:街機卡片遊戲 "wikilink") [Category:中學背景作品](https://zh.wikipedia.org/wiki/Category:中學背景作品 "wikilink")
 

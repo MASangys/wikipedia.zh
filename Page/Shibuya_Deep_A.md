@@ -419,7 +419,7 @@
   - [須田亜香里](https://zh.wikipedia.org/wiki/須田亜香里 "wikilink")（同上）
   - [指原莉乃](../Page/指原莉乃.md "wikilink")（[HKT48](../Page/HKT48.md "wikilink")）
   - [高城亜樹](https://zh.wikipedia.org/wiki/高城亜樹 "wikilink")（[JKT48](../Page/JKT48.md "wikilink")）
-  - [宮澤佐江](../Page/宮澤佐江.md "wikilink")（[SNH48](https://zh.wikipedia.org/wiki/SNH48 "wikilink")）
+  - [宮澤佐江](../Page/宮澤佐江.md "wikilink")（[SNH48](../Page/SNH48.md "wikilink")）
   - [増田有華](https://zh.wikipedia.org/wiki/増田有華 "wikilink")（元AKB48）
 
 </div>

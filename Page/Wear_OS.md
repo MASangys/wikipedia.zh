@@ -26,7 +26,6 @@
   - [Imagination Technologies](../Page/Imagination_Technologies.md "wikilink") ([MIPS](https://zh.wikipedia.org/wiki/MIPS "wikilink"))
   - [Motorola](https://zh.wikipedia.org/wiki/Motorola "wikilink")
   - [高通](../Page/高通.md "wikilink")
-  - [三星](https://zh.wikipedia.org/wiki/SAMSUNG "wikilink")
   - [SONY](../Page/索尼.md "wikilink")
 
 ## 參考文獻

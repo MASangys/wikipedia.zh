@@ -12,7 +12,7 @@ Rust 的設計目標之一，是要使設計大型的網際網路[客户端和](
 
 ### Rust的性能
 
-在效能上，具有額外安全保證的代碼會比  慢一些，但是如果以  也手工提供保證的情況下，則兩者效能上是相似的\[12\]。
+在效能上，具有額外安全保證的代碼會比  慢一些，例如对Rust的数组进行操作时默认会检查索引是否越界\[12\]，而C++则不会，但是如果以  也手工提供保證的情況下，則兩者效能上是相似的\[13\]。
 
 ### 语法
 
@@ -20,17 +20,17 @@ Rust的語法設計，與 [C語言和](https://zh.wikipedia.org/wiki/C語言 "wi
 
 ### 内存安全
 
-為了提供記憶體安全，它的設計不允許[空指標](../Page/空指標.md "wikilink")和[懸空指標](https://zh.wikipedia.org/wiki/迷途指針 "wikilink")\[13\] \[14\] 。 資料只能透過固定的初始化形態來建構，而所有這些形態都要求它們的輸入已經分析過了\[15\]。 Rust 有一個檢查指標生命期間和指標凍結的系統，可以用來預防在 C++ 中許多的型別錯誤，甚至是用了[智慧指標功能之後會發生的型別錯誤](../Page/智能指针.md "wikilink")。
+為了提供記憶體安全，它的設計不允許[空指標](../Page/空指標.md "wikilink")和[懸空指標](https://zh.wikipedia.org/wiki/迷途指針 "wikilink")\[14\] \[15\] 。 資料只能透過固定的初始化形態來建構，而所有這些形態都要求它們的輸入已經分析過了\[16\]。 Rust 有一個檢查指標生命期間和指標凍結的系統，可以用來預防在 C++ 中許多的型別錯誤，甚至是用了[智慧指標功能之後會發生的型別錯誤](../Page/智能指针.md "wikilink")。
 
 ### 内存管理
 
-Rust 雖然有[垃圾回收系統](../Page/垃圾回收_\(計算機科學\).md "wikilink")，但非如 Java 或 .NET 平台的全自動垃圾回收。Rust 1.0已不再使用垃圾回收器，而是全面改用基于引用计数的智能指针来管理内存。
+早期的Rust 雖然有[垃圾回收系統](../Page/垃圾回收_\(計算機科學\).md "wikilink")，但非如 Java 或 .NET 平台的全自動垃圾回收。Rust 1.0已不再使用垃圾回收器，而是全面改用基于引用计数的智能指针来管理内存。
 
 ### 类型与多态
 
 它的型別系統直接地模仿了 [Haskell](../Page/Haskell.md "wikilink") 語言的 type class 概念，並把它稱作「traits」，可以把它看成是一種 ad hoc 多型。Rust 的作法是透過在宣告型別變數 (type variable) 的時候，在上面加上限制條件。至於 Haskell 的高階型別變數 (Higher-kinded polymorphism) 則還未支援。
 
-[型別推導也是](https://zh.wikipedia.org/wiki/型別推導 "wikilink") Rust 提供的特性之一，使用 `let` 語法宣告的變數可以不用宣告型別，亦不需要初始值來推斷型別。但如果在稍後的程式中從未指派任何值到該變數，編譯器會發出編譯時 (compile time) 錯誤\[16\]。 函數可以使用[泛型](../Page/泛型.md "wikilink")化參數 (generics)，但是必須綁定 Trait。沒有任何方法可以使用方法或運算子，又不宣告它們的型別，每一項都必確明確定義。
+[型別推導也是](https://zh.wikipedia.org/wiki/型別推導 "wikilink") Rust 提供的特性之一，使用 `let` 語法宣告的變數可以不用宣告型別，亦不需要初始值來推斷型別。但如果在稍後的程式中從未指派任何值到該變數，編譯器會發出編譯時 (compile time) 錯誤\[17\]。 函數可以使用[泛型](../Page/泛型.md "wikilink")化參數 (generics)，但是必須綁定 Trait。沒有任何方法可以使用方法或運算子，又不宣告它們的型別，每一項都必確明確定義。
 
 Rust 的物件系統是基於三樣東西之上的，即實作 (implementation)、Trait 以及結構化資料 (如 struct)。實作的角色類似提供 Class 關鍵字的程式語言所代表的意義，並使用 `impl` 關鍵字。繼承和多型則透過 Trait 實現，它們使得方法 (method) 可以在實作中被定義。結構化資料用來定義欄位。實作和 trait 都無法定義欄位，並且只有 trait 可以提供繼承，藉以躲避 C++ 的「鑽石繼承問題」(菱型缺陷)。
 
@@ -38,17 +38,17 @@ Rust 的物件系統是基於三樣東西之上的，即實作 (implementation)�
 
 2006年，Rust作为Graydon Hoare的个人项目首次出现。
 
-2009年，Graydon Hoare成为[Mozilla](../Page/Mozilla.md "wikilink")雇员\[17\]。
+2009年，Graydon Hoare成为[Mozilla](../Page/Mozilla.md "wikilink")雇员\[18\]。
 
-2010年，Rust首次作为Mozilla官方项目出现\[18\]。同年，Rust开始从初始编译（由[OCaml](../Page/OCaml.md "wikilink")写成）转变为自编译\[19\]。
+2010年，Rust首次作为Mozilla官方项目出现\[19\]。同年，Rust开始从初始编译（由[OCaml](../Page/OCaml.md "wikilink")写成）转变为自编译\[20\]。
 
-2011年，Rust成功的完成了移植\[20\]。Rust的自编译器采用[LLVM](../Page/LLVM.md "wikilink")作为其编译后端。
+2011年，Rust成功的完成了移植\[21\]。Rust的自编译器采用[LLVM](../Page/LLVM.md "wikilink")作为其编译后端。
 
-2012年1月20日，第一个有版本号的[预览版Rust编译器发布](https://zh.wikipedia.org/wiki/軟件版本週期#Alpha "wikilink")\[21\]。
+2012年1月20日，第一个有版本号的[预览版Rust编译器发布](https://zh.wikipedia.org/wiki/軟件版本週期#Alpha "wikilink")\[22\]。
 
-2013年4月4日，[Mozilla基金會](../Page/Mozilla基金會.md "wikilink")宣布將與[三星集團合作開發瀏覽器排版引擎](https://zh.wikipedia.org/wiki/三星集團 "wikilink")[Servo](../Page/Servo.md "wikilink")，此引擎将由Rust來實作\[22\]。
+2013年4月4日，[Mozilla基金會](../Page/Mozilla基金會.md "wikilink")宣布將與[三星集團合作開發瀏覽器排版引擎](https://zh.wikipedia.org/wiki/三星集團 "wikilink")[Servo](../Page/Servo.md "wikilink")，此引擎将由Rust來實作\[23\]。
 
-2015年5月16日，Rust 1.0.0发布\[23\]。
+2015年5月16日，Rust 1.0.0发布\[24\]。
 
 ## 代码示例
 
@@ -180,10 +180,12 @@ fn main() {
 16.
 
 17.
+
 18.
 19.
 20.
 21.
 22.
-
 23.
+
+24.

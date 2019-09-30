@@ -183,9 +183,7 @@
 ### 洪大為 David Hung
 
   - 主要聲部：[男高音](../Page/男高音.md "wikilink")、人聲打擊[Vocal Percussion](https://zh.wikipedia.org/wiki/Vocal_Percussion "wikilink")、[編曲](https://zh.wikipedia.org/wiki/編曲 "wikilink")、[混音](../Page/混音.md "wikilink")
-
-<!-- end list -->
-
+  - 生日:9月12日（處女座）
   - 國立台北教育大學音樂學系畢業，主修聲樂，副修鋼琴、小提琴，2004年加入第一個a cappella團體「Trying Times」開始一連串的無伴奏音樂生涯，2007年共同創立「公共澡堂人聲樂團」，2008年公澡改制為全男生八人團體，並拿下該年度台灣a cappella大賽第一名，隔年2009年8月代表臺灣赴奧地利Graz比賽拿下POP組冠軍；2012年公澡協議解散，並於該年2月與音樂農場有限公司共同創立「VOX玩聲樂團」
   - [洪孩兒 H.D.](https://www.facebook.com/%E6%B4%AA%E5%AD%A9%E5%85%92-HD-1975197826093552/)
 

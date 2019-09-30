@@ -58,7 +58,7 @@ Arc的第一个公开发布版本出现于2008年1月29日，\[9\]以[Racket](..
   -
   - [Arc](https://arclanguage.github.io)于[GitHub](../Page/GitHub.md "wikilink")
 
-  - [教程](http://ycombinator.com/arc/tut.txt)
+  - [教程](https://web.archive.org/web/20100206171521/http://ycombinator.com/arc/tut.txt)
 
 [Category:自由跨平台軟體](https://zh.wikipedia.org/wiki/Category:自由跨平台軟體 "wikilink") [Category:函数式编程语言](https://zh.wikipedia.org/wiki/Category:函数式编程语言 "wikilink") [Category:LISP程式語言家族](https://zh.wikipedia.org/wiki/Category:LISP程式語言家族 "wikilink")
 

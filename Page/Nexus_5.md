@@ -1,4 +1,4 @@
-**Nexus 5**（代号：**Hammerhead**）\[1\]是一款由[谷歌设计](https://zh.wikipedia.org/wiki/谷歌 "wikilink")，[LG电子代工的](https://zh.wikipedia.org/wiki/LG电子 "wikilink")[智慧型手机](https://zh.wikipedia.org/wiki/智慧型手机 "wikilink")，首次發佈推出了黑白两色，隨後推出紅色。Nexus 5是Nexus 4的下一代产品，同时也是[谷歌Nexus产品线的旗舰设备](../Page/Google_Nexus.md "wikilink")。Nexus 5发布于2013年10月31日，并且作为Android 4.4 "KitKat"的首发设备，在其中推出了新的用户界面设计和更为优化的操作性能，以及更为集成的Google Now和若干其他功能。
+**Nexus 5**（代号：**Hammerhead**）\[1\]是一款由[谷歌设计](https://zh.wikipedia.org/wiki/谷歌 "wikilink")，[LG电子代工的](https://zh.wikipedia.org/wiki/LG电子 "wikilink")[智慧型手机](https://zh.wikipedia.org/wiki/智慧型手机 "wikilink")，首次發佈推出了黑白两色，隨後推出紅色。Nexus 5是Nexus 4的下一代产品，同时也是[-{zh-hans:谷歌;zh-hant:Google_}-Nexus产品线的旗舰设备](../Page/Google_Nexus.md "wikilink")。Nexus 5发布于2013年10月31日，并且作为Android 4.4 "KitKat"的首发设备，在其中推出了新的用户界面设计和更为优化的操作性能，以及更为集成的Google Now和若干其他功能。
 
 ## 规格
 

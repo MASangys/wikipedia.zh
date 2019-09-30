@@ -70,9 +70,15 @@ Flyme雲服務是[魅族科技](../Page/魅族科技.md "wikilink")開發的[雲
 </tr>
 <tr class="even">
 <td><p>Flyme 7</p></td>
-<td><p>Android 5.1、Android 6.0、Android 7.X、 Android 8.0、Android 9.0</p></td>
+<td><p>Android 8.0、Android 9.0</p></td>
 <td><p>7.3</p></td>
 <td><p>[3]</p></td>
+</tr>
+<tr class="odd">
+<td><p>Flyme 8</p></td>
+<td><p>Android 9.0、Android 10.0</p></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -115,6 +121,7 @@ mBack用一个按键替换原生Android三个按键的做法被认为符合魅�
   - [魅族16th](https://zh.wikipedia.org/wiki/魅族16th "wikilink")
   - [魅族16th Plus](https://zh.wikipedia.org/wiki/魅族16th_Plus "wikilink")
   - [魅族16s](https://zh.wikipedia.org/wiki/魅族16s "wikilink")
+  - [魅族16s Pro](https://zh.wikipedia.org/wiki/魅族16s_Pro "wikilink")
 
 #### 魅蓝系列
 

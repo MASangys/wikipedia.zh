@@ -12,7 +12,7 @@
 
 ## 資料來源
 
-[Category:IPad](https://zh.wikipedia.org/wiki/Category:IPad "wikilink") [Category:2013年面世的平板電腦](https://zh.wikipedia.org/wiki/Category:2013年面世的平板電腦 "wikilink")
+[Category:IPad](https://zh.wikipedia.org/wiki/Category:IPad "wikilink") [Category:2013年面世的平板電腦](https://zh.wikipedia.org/wiki/Category:2013年面世的平板電腦 "wikilink") [Category:IPad_mini](https://zh.wikipedia.org/wiki/Category:IPad_mini "wikilink")
 
 1.  官方名稱“iPad mini (with Retina display)”
 2.

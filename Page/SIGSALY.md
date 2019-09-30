@@ -1,4 +1,4 @@
-**SIGSALY**，也被称为**X系统**、**X项目**、**密码电话 I**，或者**绿色大黄蜂**，它是为[二战期间](../Page/第二次世界大战.md "wikilink")[盟军最高层设计的一个经过数字](https://zh.wikipedia.org/wiki/盟军 "wikilink")[加密的](https://zh.wikipedia.org/wiki/加密 "wikilink")[无线电话系统](https://zh.wikipedia.org/wiki/无线电话 "wikilink")。
+**SIGSALY**，也被称为**X系统**、**X项目**、**密码电话 I**，或者**绿色大黄蜂**，它是为[二战期间](../Page/第二次世界大战.md "wikilink")[盟军最高层设计的一个经过数字](https://zh.wikipedia.org/wiki/盟军 "wikilink")[加密](../Page/加密.md "wikilink")的[无线电话系统](https://zh.wikipedia.org/wiki/无线电话 "wikilink")。
 
 SIGSALY是通信系统发展过程中的一个里程碑，当代[数字通信耳熟能详的一系列概念在其中首次得以运用](https://zh.wikipedia.org/wiki/数字通信 "wikilink")，其中包括著名的[脉冲编码调制技术](https://zh.wikipedia.org/wiki/脈衝編號調變 "wikilink")（PCM）。
 
@@ -6,13 +6,13 @@ SIGSALY不是首字母缩略词，没有什么含义。别名“绿色大黄蜂�
 
 ## 发展过程
 
-二战期间交战双方都用[电子扰频器](https://zh.wikipedia.org/wiki/电子扰频器 "wikilink")（scrambler）保护自己的无线通信不受窃听，但是突破电子扰频器的屏蔽并不十分困难。只要用一台[频谱分析仪](../Page/频谱分析仪.md "wikilink")器对通信[频谱](../Page/频谱.md "wikilink")进行仔细扫描，就能发现扰频的规律从而加以破解。为了弥补这个缺陷，基于一次性密码本的[加密技术出现了](https://zh.wikipedia.org/wiki/加密 "wikilink")。
+二战期间交战双方都用[电子扰频器](https://zh.wikipedia.org/wiki/电子扰频器 "wikilink")（scrambler）保护自己的无线通信不受窃听，但是突破电子扰频器的屏蔽并不十分困难。只要用一台[频谱分析仪](../Page/频谱分析仪.md "wikilink")器对通信[频谱](../Page/频谱.md "wikilink")进行仔细扫描，就能发现扰频的规律从而加以破解。为了弥补这个缺陷，基于一次性密码本的[加密](../Page/加密.md "wikilink")技术出现了。
 
 [贝尔实验室](../Page/贝尔实验室.md "wikilink")开发了基于一次性密码本加密技术的无线通话系统的原型机，并展示给军方。领导这个项目的是A·B·Clark，[英国则派出了著名数学家](https://zh.wikipedia.org/wiki/英国 "wikilink")[艾伦·图灵](../Page/艾伦·图灵.md "wikilink") \[1\] 给予协助。军方对此非常满意，向贝尔实验室购买了两套设备并于1943年投入使用，这就是SIGSALY。SIGSALY一直为军方服役至1946年。
 
 ## 工作原理
 
-SIGSALY用一个随机噪声掩码对语音通话进行[加密](https://zh.wikipedia.org/wiki/加密 "wikilink")，整个[编码加密过程由一个声码器](https://zh.wikipedia.org/wiki/编码 "wikilink")（vocoder）完成。声码器能减少语音流中的冗余信息，从而减少编码的工作量。
+SIGSALY用一个随机噪声掩码对语音通话进行[加密](../Page/加密.md "wikilink")，整个[编码加密过程由一个声码器](https://zh.wikipedia.org/wiki/编码 "wikilink")（vocoder）完成。声码器能减少语音流中的冗余信息，从而减少编码的工作量。
 
 SIGSALY每隔20毫秒对语音信号的幅度进行一次采样。采样取值按照6档进行数字化，最小是0，最大是5。需要指出的是，SIGSALY使用非线性采样法，即声音小的时候采样间隔比较宽，声音大的时候采样间隔比较窄，这是基于所谓的[压缩扩展的原理](https://zh.wikipedia.org/wiki/压缩 "wikilink")，因为人的耳朵对大音量的变化比较敏感，而对小音量的变化不敏感。
 

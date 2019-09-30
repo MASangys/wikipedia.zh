@@ -1,4 +1,4 @@
-**Amazon Cloud Drive**，是[Amazon旗下的个人](https://zh.wikipedia.org/wiki/Amazon.com "wikilink")[网络硬盘](../Page/网络硬盘.md "wikilink")服务。\[1\]
+"\>Internet</abbr> | parent = [Amazon.com](https://zh.wikipedia.org/wiki/Amazon.com "wikilink") | url = <https://www.amazon.com/drive> | alexa =  7  | website type =  | registration = Required | launched =  | current status = Active }} **Amazon Cloud Drive**，是[Amazon旗下的个人](https://zh.wikipedia.org/wiki/Amazon.com "wikilink")[网络硬盘](../Page/网络硬盘.md "wikilink")服务。\[1\]
 
 ## 概况
 

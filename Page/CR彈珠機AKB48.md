@@ -36,7 +36,7 @@ Team Surprise是由AKB48與其姊妹團體中知名度較高的16位成員所組
 
 ### 第二代Team Surprise
 
-2014年6月18日，在「柏青哥AKB48」新機種的展示會上披露了新一代的Team Surprise，其中已畢業的前AKB48成員篠田麻里子、板野友美與大島優子三人繼續參與Team Surprise的活動，而宮澤佐江（隸屬於[SNH48](https://zh.wikipedia.org/wiki/SNH48 "wikilink")，並兼任SKE48 Team S）與前田敦子（前AKB48成員）兩位則由山本彩與渡邊美優紀取代，此外當日也宣布第二代Team Surprise的公演名稱將命名為「玫瑰的儀式」公演（）\[2\]。
+2014年6月18日，在「柏青哥AKB48」新機種的展示會上披露了新一代的Team Surprise，其中已畢業的前AKB48成員篠田麻里子、板野友美與大島優子三人繼續參與Team Surprise的活動，而宮澤佐江（隸屬於[SNH48](../Page/SNH48.md "wikilink")，並兼任SKE48 Team S）與前田敦子（前AKB48成員）兩位則由山本彩與渡邊美優紀取代，此外當日也宣布第二代Team Surprise的公演名稱將命名為「玫瑰的儀式」公演（）\[2\]。
 
 <table>
 <thead>

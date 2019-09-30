@@ -57,7 +57,7 @@
   - [AO-46個人防衛武器](../Page/AO-46個人防衛武器.md "wikilink")
   - [PP-2000冲锋枪](../Page/PP-2000冲锋枪.md "wikilink")
   - [SR-2衝鋒槍](../Page/SR-2希瑟衝鋒槍.md "wikilink")
-  - [GSh-18手槍](../Page/GSh-18手槍.md "wikilink")
+  - [GSh-18半自動手槍](https://zh.wikipedia.org/wiki/GSh-18半自動手槍 "wikilink")
   - [MP-443烏鴉式手槍](../Page/MP-443烏鴉式手槍.md "wikilink")
   - [MSMC衝鋒槍](../Page/MSMC衝鋒槍.md "wikilink")
   - [VBR近接戰鬥武器](../Page/VBR近接戰鬥武器.md "wikilink")

@@ -1,4 +1,4 @@
-[MeyerTrial.jpg](https://zh.wikipedia.org/wiki/File:MeyerTrial.jpg "fig:MeyerTrial.jpg")因战争罪行受审\]\] **前武装党卫队老兵互助会**（，通稱「**HIAG**」） 是由[武装党卫队](../Page/武装党卫队.md "wikilink")前军官于1951年组建的[德国](../Page/德国.md "wikilink")二战老兵组织。
+[HIAG_logo.svg](https://zh.wikipedia.org/wiki/File:HIAG_logo.svg "fig:HIAG_logo.svg") [MeyerTrial.jpg](https://zh.wikipedia.org/wiki/File:MeyerTrial.jpg "fig:MeyerTrial.jpg")因战争罪行受审\]\] **前武装党卫队老兵互助会**（，通稱「**HIAG**」） 是由[武装党卫队](../Page/武装党卫队.md "wikilink")前军官于1951年组建的[德国](../Page/德国.md "wikilink")二战老兵组织。
 
 ## 历史
 

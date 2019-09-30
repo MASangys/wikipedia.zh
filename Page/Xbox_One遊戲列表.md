@@ -28,7 +28,7 @@
   - **支援**意味着能夠通過使用xbox game pass(XGP,遊戲通行征)遊玩此遊戲
   - **不適用**意味着遊戲僅能通過獨立購買遊玩
   - 遊戲支援XGP遊玩，即意味有XGP就能通過服務直接獨得遊玩權限。
-  - 相關XGP陣容名單請參考 <https://www.xbox.com/zh-HK/games/xbox-game-pass> ([另外北美全球官方](https://www.microsoft.com/en-us/store/collections/subsxgprecentlyadded/xbox))
+  - 相關XGP陣容名單請參考 <https://www.xbox.com/zh-HK/games/xbox-game-pass> ([另外北美全球官方](https://www.microsoft.com/en-us/p/xbox-game-pass-for-console/cfq7ttc0k6l8?activetab=pivot:gamesanddealstab))
 
 <!-- end list -->
 
@@ -68,7 +68,8 @@
 <td><p>動作</p></td>
 <td><p>StudioMDHR Entertainment</p></td>
 <td><p>StudioMDHR Entertainment</p></td>
-<td><p>[2]</p></td>
+<td><p><br />
+[2]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -212,8 +213,8 @@ Studio Wildcard</p></td>
 <tr class="even">
 <td><p>Assassin's Creed Origins <a href="https://zh.wikipedia.org/wiki/刺客教條：起源" title="wikilink">刺客教條：起源</a></p></td>
 <td><p>動作、角色扮演</p></td>
-<td><p>Ubisoft Montreal</p></td>
-<td><p><a href="../Page/育碧.md" title="wikilink">Ubisoft育碧</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/育碧蒙特利爾" title="wikilink">育碧蒙特利爾</a></p></td>
+<td><p>Ubisoft育碧</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -439,6 +440,18 @@ Studio Wildcard</p></td>
 <td><p>| [10]</p></td>
 </tr>
 <tr class="odd">
+<td><p>Shenmue I &amp; II(HD) <a href="../Page/莎木系列.md" title="wikilink">莎木 I &amp; II(HD合集)</a></p></td>
+<td><p>動作</p></td>
+<td><p>D3T</p></td>
+<td><p>SEGA</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>F1 2018 </p></td>
 <td><p>競速</p></td>
 <td><p>Milestone S.r.l.</p></td>
@@ -450,7 +463,7 @@ Studio Wildcard</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Winning Eleven/PES 2019 <a href="../Page/實況足球2019.md" title="wikilink">實況足球2019</a></p></td>
 <td><p>體育</p></td>
 <td><p>PES Productions</p></td>
@@ -462,7 +475,7 @@ Studio Wildcard</p></td>
 <td></td>
 <td><p>[11]</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>PLAYERUNKNOWN'S BATTLEGROUNDS <a href="../Page/絕地求生.md" title="wikilink">絕地求生</a></p></td>
 <td><p>射擊、生存、第一人稱、第三人稱</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/藍洞" title="wikilink">Bluehole藍洞</a></p></td>
@@ -474,7 +487,7 @@ Studio Wildcard</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>NBA 2K19 <a href="../Page/NBA_2K19.md" title="wikilink">NBA 2K19</a></p></td>
 <td><p>體育</p></td>
 <td><p><a href="../Page/Visual_Concepts.md" title="wikilink">Visual Concepts</a></p></td>
@@ -486,7 +499,7 @@ Studio Wildcard</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Shadow of the Tomb Raider <a href="https://zh.wikipedia.org/wiki/古墓麗影：暗影" title="wikilink">盜墓者羅拉：暗影</a></p></td>
 <td><p>動作冒險</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/藝奪蒙特利爾" title="wikilink">藝奪蒙特利爾</a></p></td>
@@ -498,7 +511,7 @@ Studio Wildcard</p></td>
 <td></td>
 <td><p>[12]</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>FIFA 19 <a href="../Page/FIFA_19.md" title="wikilink">FIFA 19</a></p></td>
 <td><p>體育</p></td>
 <td><p>EA藝電</p></td>
@@ -510,7 +523,7 @@ Studio Wildcard</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>無双OROCHI 3 <a href="../Page/無雙OROCHI_蛇魔_3.md" title="wikilink">大蛇無雙3</a></p></td>
 <td><p><a href="../Page/砍殺遊戲.md" title="wikilink">砍殺</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Omega_Force" title="wikilink">Omega Force</a></p></td>
@@ -522,7 +535,7 @@ Studio Wildcard</p></td>
 <td></td>
 <td><p>[13]</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>FORZA Horizon 4 <a href="../Page/極限競速系列.md" title="wikilink">極限競速 地平線4</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/競速" title="wikilink">競速(賽車)</a></p></td>
 <td><p>Playground Games</p></td>
@@ -533,6 +546,18 @@ Studio Wildcard</p></td>
 <td></td>
 <td></td>
 <td><p>[14]</p></td>
+</tr>
+<tr class="even">
+<td><p>Assassin's Creed Odyssey <a href="https://zh.wikipedia.org/wiki/刺客教條：奧德賽" title="wikilink">刺客教條：奧德賽</a></p></td>
+<td><p>動作、角色扮演</p></td>
+<td><p><a href="../Page/育碧魁北克.md" title="wikilink">育碧魁北克</a></p></td>
+<td><p>Ubisoft育碧</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>Soulcalibur VI <a href="../Page/劍魂VI.md" title="wikilink">劍魂VI</a></p></td>
@@ -727,6 +752,18 @@ Studio Wildcard</p></td>
 <td><p>[29]</p></td>
 </tr>
 <tr class="odd">
+<td><p>Trials Rising </p></td>
+<td><p>競速</p></td>
+<td><p>Ubisoft育碧</p></td>
+<td><p>Ubisoft育碧</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>DEAD OR ALIVE 6 <a href="https://zh.wikipedia.org/wiki/生死格鬥" title="wikilink">生死格鬥6</a></p></td>
 <td><p>格鬥</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Team_NINJA" title="wikilink">Team NINJA</a></p></td>
@@ -738,7 +775,7 @@ Studio Wildcard</p></td>
 <td></td>
 <td><p>[30]</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Devil May Cry 5 <a href="../Page/惡魔獵人5.md" title="wikilink">惡魔獵人5</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/動作遊戲" title="wikilink">動作</a></p></td>
 <td><p>Capcom卡普空</p></td>
@@ -750,7 +787,7 @@ Studio Wildcard</p></td>
 <td></td>
 <td><p>[31]</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Tom Clancy's The Division2 <a href="https://zh.wikipedia.org/wiki/全境封鎖" title="wikilink">全境封鎖2</a></p></td>
 <td><p>第一人稱、射擊</p></td>
 <td><p>Ubisoft育碧</p></td>
@@ -762,7 +799,7 @@ Studio Wildcard</p></td>
 <td></td>
 <td><p>[32]</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Sekiro: Shadows Die Twice <a href="../Page/隻狼：暗影雙死.md" title="wikilink">隻狼：暗影雙死</a></p></td>
 <td><p>動作冒險</p></td>
 <td><p>FromSoftware</p></td>
@@ -774,7 +811,7 @@ Studio Wildcard</p></td>
 <td></td>
 <td><p>[33]</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Xenon Racer </p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/競速" title="wikilink">競速(賽車)</a></p></td>
 <td><p>3DClouds.it</p></td>
@@ -786,7 +823,7 @@ Studio Wildcard</p></td>
 <td></td>
 <td><p>[34]</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>World War Z </p></td>
 <td><p>第三人稱射擊</p></td>
 <td><p>SABER Interactive</p></td>
@@ -798,7 +835,7 @@ Studio Wildcard</p></td>
 <td></td>
 <td><p>[35]</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Mortal Kombat 11 <a href="https://zh.wikipedia.org/wiki/真人快打" title="wikilink">真人快打 11</a></p></td>
 <td><p>格鬥</p></td>
 <td><p>Nether Realm Studios</p></td>
@@ -810,7 +847,7 @@ Studio Wildcard</p></td>
 <td></td>
 <td><p>[36]</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Sniper Elite V2 Remastered <a href="../Page/狙擊之神2.md" title="wikilink">狙擊之神2 重製版</a></p></td>
 <td><p>第三人稱射擊、隱蔽類</p></td>
 <td><p><a href="../Page/Rebellion_Developments.md" title="wikilink">Rebellion Oxford</a></p></td>
@@ -822,7 +859,7 @@ Studio Wildcard</p></td>
 <td></td>
 <td><p>[37]</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>TEAM SONIC RACING </p></td>
 <td><p>競速(賽車)</p></td>
 <td><p>Sonic Team</p></td>
@@ -833,6 +870,18 @@ Studio Wildcard</p></td>
 <td></td>
 <td></td>
 <td><p>[38]</p></td>
+</tr>
+<tr class="odd">
+<td><p>ASTRONEER 異星探險家</p></td>
+<td><p>動作冒險</p></td>
+<td><p>System Era Softworks</p></td>
+<td><p>System Era Softworks</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>Crash Team Racing Nitro-Fueled <a href="https://zh.wikipedia.org/wiki/古惑狼系列" title="wikilink">袋狼大進擊賽車:氮氣加速</a></p></td>
@@ -895,6 +944,42 @@ Studio Wildcard</p></td>
 <td><p>[43]</p></td>
 </tr>
 <tr class="odd">
+<td><p>Downwell 下井大戰</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/第三人稱射擊遊戲" title="wikilink">第三人稱動作</a></p></td>
+<td><p>Moppin</p></td>
+<td><p>Devolver Digital</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Age of Wonders: Planetfall 魔幻紀元:行星登陸</p></td>
+<td><p><a href="../Page/4X.md" title="wikilink">4X</a>、<a href="https://zh.wikipedia.org/wiki/回合制策略遊戲" title="wikilink">回合制策略</a></p></td>
+<td><p>Triumph Studios</p></td>
+<td><p>Paradox</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Hunt: Showdown 惡靈獵殺：緊要關頭</p></td>
+<td><p>第一人稱動作、恐怖生存</p></td>
+<td><p><a href="../Page/Crytek.md" title="wikilink">Crytek</a></p></td>
+<td><p>Crytek</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>Control <a href="../Page/控制_(遊戲).md" title="wikilink">控制</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/第三人稱射擊遊戲" title="wikilink">第三人稱動作</a></p></td>
 <td><p><a href="../Page/綠美迪娛樂.md" title="wikilink">綠美迪娛樂</a></p></td>
@@ -906,7 +991,7 @@ Studio Wildcard</p></td>
 <td></td>
 <td><p>[44]</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Blair Witch <a href="../Page/厄夜叢林.md" title="wikilink">厄夜叢林</a>/死亡習作</p></td>
 <td><p><a href="../Page/恐怖遊戲.md" title="wikilink">恐怖解謎</a>、<a href="https://zh.wikipedia.org/wiki/第三人稱射擊遊戲" title="wikilink">第三人稱動作</a></p></td>
 <td><p>Bloober Team</p></td>
@@ -918,8 +1003,8 @@ Studio Wildcard</p></td>
 <td></td>
 <td><p>[45]</p></td>
 </tr>
-<tr class="odd">
-<td><p>NBA 2K20 NBA 2K20</p></td>
+<tr class="even">
+<td><p>NBA 2K20 美國職業籃球聯賽2K20</p></td>
 <td><p>體育</p></td>
 <td><p>2K Visual Concepts</p></td>
 <td><p>2K Games</p></td>
@@ -930,8 +1015,8 @@ Studio Wildcard</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>Monster Hunter World:Iceborne <a href="https://zh.wikipedia.org/wiki/魔物獵人_世界" title="wikilink">魔物獵人 世界 冰原</a></p></td>
+<tr class="odd">
+<td><p>Monster Hunter World:Iceborne <a href="https://zh.wikipedia.org/wiki/魔物獵人_世界" title="wikilink">魔物獵人 世界 冰原(冰霜凍土)</a></p></td>
 <td><p>動作、多人</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/CAPCOM" title="wikilink">CAPCOM卡普空</a></p></td>
 <td><p>CAPCOM卡普空</p></td>
@@ -942,7 +1027,7 @@ Studio Wildcard</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Gears 5 <a href="../Page/戰爭機器5.md" title="wikilink">戰爭機器5</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/第三人稱射擊遊戲" title="wikilink">第三人稱動作射擊</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Studios" title="wikilink">微軟工作室</a></p></td>
@@ -954,7 +1039,7 @@ Studio Wildcard</p></td>
 <td></td>
 <td><p>[47]</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>GreedFall GreedFall</p></td>
 <td><p>動作角色扮演</p></td>
 <td><p>Spiders Games</p></td>
@@ -966,7 +1051,31 @@ Studio Wildcard</p></td>
 <td></td>
 <td><p>[48]</p></td>
 </tr>
+<tr class="even">
+<td><p>Blasphemous 褻瀆神明/褻神</p></td>
+<td><p>類銀河戰士惡魔城</p></td>
+<td><p>The Game Kitchen</p></td>
+<td><p>Team17</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>[49]</p></td>
+</tr>
 <tr class="odd">
+<td><p>Borderlands 3 邊緣禁地3/無主之地3</p></td>
+<td><p>第一人稱射擊</p></td>
+<td><p>Gearbox Software</p></td>
+<td><p>2K Games</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>[50]</p></td>
+</tr>
+<tr class="even">
 <td><p>The Surge 2 The Surge 2</p></td>
 <td><p>動作</p></td>
 <td><p>Deck13</p></td>
@@ -976,10 +1085,10 @@ Studio Wildcard</p></td>
 <td></td>
 <td></td>
 <td></td>
-<td><p>[49]</p></td>
+<td><p>[51]</p></td>
 </tr>
-<tr class="even">
-<td><p>FIFA 20 FIFA 20</p></td>
+<tr class="odd">
+<td><p>國際足盟大賽 20</p></td>
 <td><p>體育</p></td>
 <td><p>EA藝電</p></td>
 <td><p>EA藝電</p></td>
@@ -990,7 +1099,7 @@ Studio Wildcard</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Ghostbusters：The Video Game Remastered <a href="https://zh.wikipedia.org/wiki/捉鬼敢死隊" title="wikilink">捉鬼敢死隊重製版</a></p></td>
 <td><p>動作冒險</p></td>
 <td><p>Saber Interactive</p></td>
@@ -1002,7 +1111,31 @@ Studio Wildcard</p></td>
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>WWE 2K20 世界摔角娛樂2K20</p></td>
+<td><p>體育</p></td>
+<td><p>Yuke's</p></td>
+<td><p><a href="../Page/2K_Sports.md" title="wikilink">2K Sports</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 <tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>The Outer Worlds 外圍世界</p></td>
 <td><p>動作角色扮演</p></td>
 <td><p>Obsidian</p></td>
@@ -1014,9 +1147,21 @@ Studio Wildcard</p></td>
 <td></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>Super Monkey Ball: Banana Blitz(HD) 現嚐好滋味！超級猴子球</p></td>
+<td><p>平台動作</p></td>
+<td><p>SEGA</p></td>
+<td><p>SEGA</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 <tr class="odd">
 <td><p>Need For Speed Heat 極速快感 熱焰</p></td>
-<td><p>體育</p></td>
+<td><p>競速(賽車)</p></td>
 <td><p>EA藝電</p></td>
 <td><p>EA藝電</p></td>
 <td></td>
@@ -1048,31 +1193,7 @@ Studio Wildcard</p></td>
 <td></td>
 <td></td>
 <td></td>
-<td><p>[50]</p></td>
-</tr>
-<tr class="even">
-<td><p>Darksiders Genesis 暗黑血統起源</p></td>
-<td><p>動作角色扮演</p></td>
-<td><p>Gunfire Games</p></td>
-<td><p><a href="../Page/THQ_Nordic.md" title="wikilink">THQ Nordic</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p>[51]</p></td>
-</tr>
-<tr class="odd">
-<td><p>Marvel's Avengers 復仇者聯盟</p></td>
-<td><p>動作角色扮演</p></td>
-<td><p>史克威爾艾尼克斯</p></td>
-<td><p>史克威爾艾尼克斯</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>[52]</p></td>
 </tr>
 <tr class="even">
 <td><p>Ori and the Will of the Wisps 聖靈之光 2</p></td>
@@ -1084,7 +1205,55 @@ Studio Wildcard</p></td>
 <td></td>
 <td></td>
 <td></td>
-<td><p>[52]</p></td>
+<td><p>[53]</p></td>
+</tr>
+<tr class="odd">
+<td><p>DRAGON BALL Z: KAKAROT 龍珠 Z：卡卡洛特</p></td>
+<td><p>動作</p></td>
+<td><p>萬代南夢宮工作室</p></td>
+<td><p>萬代南夢宮娛樂</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>[54]</p></td>
+</tr>
+<tr class="even">
+<td><p>Mega Man ZERO/ZX Legacy Collection <a href="../Page/洛克人零系列.md" title="wikilink">洛克人Zero/ZX 遺產合集</a></p></td>
+<td><p>平台動作</p></td>
+<td><p>CAPCOM卡普空</p></td>
+<td><p>CAPCOM卡普空</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Gods &amp; Monsters 渡神紀</p></td>
+<td><p>動作角色扮演</p></td>
+<td><p>Ubisoft育碧</p></td>
+<td><p>Ubisoft育碧</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>WATCH DOGS LΞGION(Legion) <a href="../Page/看門狗：自由軍團.md" title="wikilink">看門狗：自由軍團</a></p></td>
+<td><p>動作、角色扮演</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/育碧多倫多" title="wikilink">育碧多倫多</a></p></td>
+<td><p>Ubisoft育碧</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>Cyberpunk 2077 <a href="https://zh.wikipedia.org/wiki/Cyberpunk_2077" title="wikilink">賽博朋克/電馭叛客 2077</a></p></td>
@@ -1096,9 +1265,21 @@ Studio Wildcard</p></td>
 <td></td>
 <td></td>
 <td></td>
-<td><p>[53]</p></td>
+<td><p>[55]</p></td>
 </tr>
 <tr class="even">
+<td><p>Marvel's Avengers 復仇者聯盟</p></td>
+<td><p>動作角色扮演</p></td>
+<td><p>史克威爾艾尼克斯</p></td>
+<td><p>史克威爾艾尼克斯</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>Iron Harvest 鋼鐵收割者</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/即時戰略遊戲" title="wikilink">即時戰略</a></p></td>
 <td><p>KING Art GmbH.</p></td>
@@ -1108,9 +1289,9 @@ Studio Wildcard</p></td>
 <td></td>
 <td></td>
 <td></td>
-<td><p>[54]</p></td>
+<td><p>[56]</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>SpongeBob SquarePants:<br />
 Battle for Bikini Bottom<br />
 - Rehydrated - 海綿寶寶: 為比奇堡而戰<br />
@@ -1123,9 +1304,9 @@ Battle for Bikini Bottom<br />
 <td></td>
 <td></td>
 <td></td>
-<td><p>[55]</p></td>
+<td><p>[57]</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Biomutant 生化變種</p></td>
 <td><p>動作</p></td>
 <td><p>Experiment 101</p></td>
@@ -1135,7 +1316,19 @@ Battle for Bikini Bottom<br />
 <td></td>
 <td></td>
 <td></td>
-<td><p>[56]</p></td>
+<td><p>[58]</p></td>
+</tr>
+<tr class="even">
+<td><p>Darksiders Genesis 暗黑血統起源</p></td>
+<td><p>動作角色扮演</p></td>
+<td><p>Gunfire Games</p></td>
+<td><p><a href="../Page/THQ_Nordic.md" title="wikilink">THQ Nordic</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>[59]</p></td>
 </tr>
 <tr class="odd">
 <td><p>Kerbal Space Program2 坎巴拉太空計劃2</p></td>
@@ -1147,7 +1340,7 @@ Battle for Bikini Bottom<br />
 <td></td>
 <td></td>
 <td></td>
-<td><p>[57]</p></td>
+<td><p>[60]</p></td>
 </tr>
 <tr class="even">
 <td><p>Little Nightmares II 小小夢魘 2</p></td>
@@ -1159,7 +1352,7 @@ Battle for Bikini Bottom<br />
 <td></td>
 <td></td>
 <td></td>
-<td><p>[58]</p></td>
+<td><p>[61]</p></td>
 </tr>
 <tr class="odd">
 <td><p>Day Light 2 垂死之光 2</p></td>
@@ -1171,7 +1364,7 @@ Battle for Bikini Bottom<br />
 <td></td>
 <td></td>
 <td></td>
-<td><p>[59]</p></td>
+<td><p>[62]</p></td>
 </tr>
 <tr class="even">
 <td><p>Phantasy Star Online 2 <a href="https://zh.wikipedia.org/wiki/夢幻之星在線2" title="wikilink">夢幻之星Online2</a></p></td>
@@ -1196,7 +1389,7 @@ Dlala Studios</p></td>
 <td></td>
 <td></td>
 <td></td>
-<td><p>[60]</p></td>
+<td><p>[63]</p></td>
 </tr>
 <tr class="even">
 <td><p>Minecraft Dungeons 我的世界 地下城</p></td>
@@ -1208,7 +1401,7 @@ Dlala Studios</p></td>
 <td></td>
 <td></td>
 <td></td>
-<td><p>[61]</p></td>
+<td><p>[64]</p></td>
 </tr>
 <tr class="odd">
 <td><p>Psychonauts 2 腦航員2</p></td>
@@ -1220,7 +1413,7 @@ Dlala Studios</p></td>
 <td></td>
 <td></td>
 <td></td>
-<td><p>[62]</p></td>
+<td><p>[65]</p></td>
 </tr>
 <tr class="even">
 <td><p>Twelve Minutes 十二分鐘</p></td>
@@ -1232,7 +1425,7 @@ Dlala Studios</p></td>
 <td></td>
 <td></td>
 <td></td>
-<td><p>[63]</p></td>
+<td><p>[66]</p></td>
 </tr>
 <tr class="odd">
 <td><p>RPG Time: The Legend of Wright RPG 時間：光之傳說</p></td>
@@ -1244,7 +1437,7 @@ Dlala Studios</p></td>
 <td></td>
 <td></td>
 <td></td>
-<td><p>[64]</p></td>
+<td><p>[67]</p></td>
 </tr>
 <tr class="even">
 <td><p>Spiritfarer 心靈飛翔</p></td>
@@ -1256,7 +1449,7 @@ Dlala Studios</p></td>
 <td></td>
 <td></td>
 <td></td>
-<td><p>[65]</p></td>
+<td><p>[68]</p></td>
 </tr>
 <tr class="odd">
 <td><p>Microsoft Flight Simulator(2020) <a href="../Page/微軟模擬飛行.md" title="wikilink">微軟模擬飛行</a>(2020)</p></td>
@@ -1268,7 +1461,7 @@ Dlala Studios</p></td>
 <td></td>
 <td></td>
 <td></td>
-<td><p>[66]</p></td>
+<td><p>[69]</p></td>
 </tr>
 <tr class="even">
 <td><p>Way to the Woods 通往樹林</p></td>
@@ -1280,7 +1473,7 @@ Dlala Studios</p></td>
 <td></td>
 <td></td>
 <td></td>
-<td><p>[67]</p></td>
+<td><p>[70]</p></td>
 </tr>
 <tr class="odd">
 <td><p>Lego Star Wars - The Skywalker Saga 樂高星際大戰：天行者世代</p></td>
@@ -1292,7 +1485,7 @@ Dlala Studios</p></td>
 <td></td>
 <td></td>
 <td></td>
-<td><p>[68]</p></td>
+<td><p>[71]</p></td>
 </tr>
 <tr class="even">
 <td><p>CrossfireX 穿越火線 X</p></td>
@@ -1305,7 +1498,7 @@ Remedy</p></td>
 <td></td>
 <td></td>
 <td></td>
-<td><p>[69]</p></td>
+<td><p>[72]</p></td>
 </tr>
 <tr class="odd">
 <td><p>Bleeding Edge Bleeding Edge</p></td>
@@ -1317,7 +1510,7 @@ Remedy</p></td>
 <td></td>
 <td></td>
 <td></td>
-<td><p>[70]</p></td>
+<td><p>[73]</p></td>
 </tr>
 <tr class="even">
 <td><p>Elden Ring (<a href="../Page/宮崎英高.md" title="wikilink">宮崎英高</a>x<a href="../Page/喬治·R·R·馬丁.md" title="wikilink">G.R.R.Martin新作</a>)</p></td>
@@ -1329,21 +1522,9 @@ Remedy</p></td>
 <td></td>
 <td></td>
 <td></td>
-<td><p>[71]</p></td>
+<td><p>[74]</p></td>
 </tr>
 <tr class="odd">
-<td><p>DRAGON BALL Z: KAKAROT 龍珠 Z：卡卡洛特</p></td>
-<td><p>動作</p></td>
-<td><p>萬代南夢宮工作室</p></td>
-<td><p>萬代南夢宮娛樂</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p>[72]</p></td>
-</tr>
-<tr class="even">
 <td><p>Tales of Arise 破曉傳奇</p></td>
 <td><p>角色扮演</p></td>
 <td><p>萬代南夢宮工作室</p></td>
@@ -1353,9 +1534,9 @@ Remedy</p></td>
 <td></td>
 <td></td>
 <td></td>
-<td><p>[73]</p></td>
+<td><p>[75]</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Wasteland 3 荒野遊俠 3</p></td>
 <td><p>動作角色扮演</p></td>
 <td><p>inXile</p></td>
@@ -1365,9 +1546,9 @@ Remedy</p></td>
 <td></td>
 <td></td>
 <td></td>
-<td><p>[74]</p></td>
+<td><p>[76]</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Disintegration 未知崩解</p></td>
 <td><p>第一人稱動作射擊</p></td>
 <td><p>V1 Interactive<br />
@@ -1378,19 +1559,7 @@ Private Division</p></td>
 <td></td>
 <td></td>
 <td></td>
-<td><p>[75]</p></td>
-</tr>
-<tr class="odd">
-<td><p>Borderlands 3 邊緣禁地3/無主之地3</p></td>
-<td><p>第一人稱射擊</p></td>
-<td><p>Gearbox Software</p></td>
-<td><p>2K Games</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p>[76]</p></td>
+<td><p>[77]</p></td>
 </tr>
 <tr class="even">
 <td><p>Port Royal 4 海商王4</p></td>
@@ -1402,7 +1571,7 @@ Private Division</p></td>
 <td></td>
 <td></td>
 <td></td>
-<td><p>[77]</p></td>
+<td><p>[78]</p></td>
 </tr>
 <tr class="odd">
 <td><p>Halo Infinite <a href="../Page/最後一戰：無限.md" title="wikilink">最後一戰：無限</a></p></td>
@@ -1414,21 +1583,9 @@ Private Division</p></td>
 <td></td>
 <td></td>
 <td></td>
-<td><p>[78]</p></td>
-</tr>
-<tr class="even">
-<td><p>Blasphemous 褻瀆神明</p></td>
-<td><p>類銀河戰士惡魔城</p></td>
-<td><p>The Game Kitchen</p></td>
-<td><p>Team17</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td><p>[79]</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>DEATHLOOP 死亡循環</p></td>
 <td><p>動作</p></td>
 <td><p>Arkane</p></td>
@@ -1440,7 +1597,7 @@ Private Division</p></td>
 <td></td>
 <td><p>[80]</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>GhostWire Tokyo 鬼線：東京</p></td>
 <td><p>動作冒險</p></td>
 <td><p>Bethesda貝塞斯達</p></td>
@@ -1452,7 +1609,7 @@ Private Division</p></td>
 <td></td>
 <td><p>[81]</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>e.g.格式名</p></td>
 <td><p>類型</p></td>
 <td><p>開發</p></td>
@@ -2851,67 +3008,67 @@ Private Division</p></td>
 
 48. [GreedFall – Official Companions Trailer | GamesCom 2019](https://www.youtube.com/watch?v=8vQkLfDJEpw)
 
-49. [The Surge 2 - Official Gameplay Trailer](https://www.youtube.com/watch?v=NGf9dNi0W-E)
+49. [Blasphemous - Official Gameplay Reveal Trailer](https://www.youtube.com/watch?v=srtnPqP9fn8)
 
-50. [DOOM Eternal Full Showcase | Bethesda E3 2019](https://www.youtube.com/watch?v=oK73XMgkpc8)
+50. [Borderlands 3 - E3 2019 - We Are Mayhem](https://www.youtube.com/watch?v=nhe7BX9_fSI)
 
-51. [Darksiders Genesis - Official Announcement Teaser](https://www.youtube.com/watch?v=fTraKgW7DR0)
+51. [The Surge 2 - Official Gameplay Trailer](https://www.youtube.com/watch?v=NGf9dNi0W-E)
 
-52. [聖靈之光 2(Ori2)](https://www.youtube.com/watch?v=2reK8k8nwBc)
+52. [DOOM Eternal Full Showcase | Bethesda E3 2019](https://www.youtube.com/watch?v=oK73XMgkpc8)
 
-53.
+53. [聖靈之光 2(Ori2)](https://www.youtube.com/watch?v=2reK8k8nwBc)
 
-54. [Iron Harvest Gamescom Trailer 2019](https://www.youtube.com/watch?v=FmK5g0bljQE)
+54. [Dragon Ball Z: Kakarot - PS4/XB1/PC - E3 2019 Trailer](https://www.youtube.com/watch?v=mRrqHrRoiN8)
 
-55. [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated - Announcement Teaser](https://www.youtube.com/watch?v=swQBJj251d4)
+55.
 
-56. [BIOMUTANT Cinematic Trailer + Gameplay](https://www.youtube.com/watch?v=r5c0-TFP18g)
+56. [Iron Harvest Gamescom Trailer 2019](https://www.youtube.com/watch?v=FmK5g0bljQE)
 
-57. [Kerbal Space Program 2 Cinematic Announce Trailer](https://www.youtube.com/watch?v=P_nj6wW6Gsc)
+57. [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated - Announcement Teaser](https://www.youtube.com/watch?v=swQBJj251d4)
 
-58. [Kerbal Little Nightmares II](https://www.youtube.com/watch?v=MlX3kh1Y7Cg)
+58. [BIOMUTANT Cinematic Trailer + Gameplay](https://www.youtube.com/watch?v=r5c0-TFP18g)
 
-59. [垂死之光 2(Day Light 2)](https://www.youtube.com/watch?v=KRScQU_bS1s)
+59. [Darksiders Genesis - Official Announcement Teaser](https://www.youtube.com/watch?v=fTraKgW7DR0)
 
-60. [Battletoads - E3 2019 - Gameplay Trailer](https://www.youtube.com/watch?v=xyJI_uFRZSY)
+60. [Kerbal Space Program 2 Cinematic Announce Trailer](https://www.youtube.com/watch?v=P_nj6wW6Gsc)
 
-61. [Minecraft Dungeons - E3 2019 - Gameplay Reveal Trailer](https://www.youtube.com/watch?v=G0yh51p9P80)
+61. [Kerbal Little Nightmares II](https://www.youtube.com/watch?v=MlX3kh1Y7Cg)
 
-62. [Psychonauts 2 · First Gameplay Trailer\!](https://www.youtube.com/watch?v=xV3LGhgDQbc)
+62. [垂死之光 2(Day Light 2)](https://www.youtube.com/watch?v=KRScQU_bS1s)
 
-63. [TWELVE MINUTES - Official Cinematic Reveal Trailer | E3 2019](https://www.youtube.com/watch?v=1JxkLYU2zh4)
+63. [Battletoads - E3 2019 - Gameplay Trailer](https://www.youtube.com/watch?v=xyJI_uFRZSY)
 
-64. [RPG Time: The Legend of Wright - E3 Trailer](https://www.youtube.com/watch?v=diwKyQZoOks)
+64. [Minecraft Dungeons - E3 2019 - Gameplay Reveal Trailer](https://www.youtube.com/watch?v=G0yh51p9P80)
 
-65. [Spiritfarer - E3 2019 Reveal Trailer](https://www.youtube.com/watch?v=NRILrZSrDks)
+65. [Psychonauts 2 · First Gameplay Trailer\!](https://www.youtube.com/watch?v=xV3LGhgDQbc)
 
-66. [Microsoft Flight Simulator - E3 2019 - Announce Trailer](https://www.youtube.com/watch?v=ReDDgFfWlS4)
+66. [TWELVE MINUTES - Official Cinematic Reveal Trailer | E3 2019](https://www.youtube.com/watch?v=1JxkLYU2zh4)
 
-67. [Way to the Woods - E3 2019 Trailer](https://www.youtube.com/watch?v=TDjbZyvvyu0)
+67. [RPG Time: The Legend of Wright - E3 Trailer](https://www.youtube.com/watch?v=diwKyQZoOks)
 
-68. [Lego Star Wars - The Skywalker Saga Official Reveal Trailer - E3 2019](https://www.youtube.com/watch?v=oz_v35svV40)
+68. [Spiritfarer - E3 2019 Reveal Trailer](https://www.youtube.com/watch?v=NRILrZSrDks)
 
-69. [CrossfireX - E3 2019 - Announce Trailer](https://www.youtube.com/watch?v=lq-wlu2pwdw)
+69. [Microsoft Flight Simulator - E3 2019 - Announce Trailer](https://www.youtube.com/watch?v=ReDDgFfWlS4)
 
-70. [Bleeding Edge - Gameplay Reveal Trailer | E3 2019](https://www.youtube.com/watch?v=n5FUSKM5itE)
+70. [Way to the Woods - E3 2019 Trailer](https://www.youtube.com/watch?v=TDjbZyvvyu0)
 
-71. [ELDEN RINGデビュートレーラー【2019 E3】](https://www.youtube.com/watch?v=4euIi1JfMqs)
+71. [Lego Star Wars - The Skywalker Saga Official Reveal Trailer - E3 2019](https://www.youtube.com/watch?v=oz_v35svV40)
 
-72. [Dragon Ball Z: Kakarot - PS4/XB1/PC - E3 2019 Trailer](https://www.youtube.com/watch?v=mRrqHrRoiN8)
+72. [CrossfireX - E3 2019 - Announce Trailer](https://www.youtube.com/watch?v=lq-wlu2pwdw)
 
-73. [Tales of Arise - E3 Announcement Trailer](https://www.youtube.com/watch?v=LlOddgiCObA)
+73. [Bleeding Edge - Gameplay Reveal Trailer | E3 2019](https://www.youtube.com/watch?v=n5FUSKM5itE)
 
-74. [Wasteland 3 - Gameplay Trailer](https://www.youtube.com/watch?v=T9SvLO27K7g)
+74. [ELDEN RINGデビュートレーラー【2019 E3】](https://www.youtube.com/watch?v=4euIi1JfMqs)
 
-75. [Disintegration Announcement Trailer](https://www.youtube.com/watch?v=f0AeSDjUVjs)
+75. [Tales of Arise - E3 Announcement Trailer](https://www.youtube.com/watch?v=LlOddgiCObA)
 
-76. [Borderlands 3 - E3 2019 - We Are Mayhem](https://www.youtube.com/watch?v=nhe7BX9_fSI)
+76. [Wasteland 3 - Gameplay Trailer](https://www.youtube.com/watch?v=T9SvLO27K7g)
 
-77. [Port Royale 4 - Announcement Trailer (US)](https://www.youtube.com/watch?v=8HM6rPwEGno)
+77. [Disintegration Announcement Trailer](https://www.youtube.com/watch?v=f0AeSDjUVjs)
 
-78. [Halo Infinite - E3 2019 - Discover Hope](https://www.youtube.com/watch?v=ZtgzKBrU1GY)
+78. [Port Royale 4 - Announcement Trailer (US)](https://www.youtube.com/watch?v=8HM6rPwEGno)
 
-79. [Blasphemous - Official Gameplay Reveal Trailer](https://www.youtube.com/watch?v=srtnPqP9fn8)
+79. [Halo Infinite - E3 2019 - Discover Hope](https://www.youtube.com/watch?v=ZtgzKBrU1GY)
 
 80. [DEATHLOOP – Official World Premiere Trailer | E3 2019](https://www.youtube.com/watch?v=k4NsBsUbSy8)
 

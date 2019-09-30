@@ -1,4 +1,4 @@
-**Faith**是2014年3月經紀公司Wode Creative於[香港](../Page/香港.md "wikilink")出道的跳唱少年組合，出道時由HiuYong、Wave、Sky組成，現由River solo。FAITH的歌迷稱為「Black Diamond」。
+**Faith**是2014年3月經紀公司Wode Creative於[香港](../Page/香港.md "wikilink")出道的跳唱少年組合，出道時由HiuYong、Wave、Sky組成，現由馬枷寶solo，成為現今唯一單人樂隊。FAITH的歌迷稱為「Black Diamond」。
 
 ## 簡介
 
@@ -15,6 +15,7 @@ Faith的成員均為90後\[1\]，最初經紀公司只簽下就讀於[香港大�
 | Sky      |
 | Hiu Yong |
 | Dawn     |
+| Wayne    |
 |          |
 
 ### 成員變遷時序表
@@ -88,6 +89,10 @@ Faith與同年出道的[BOP被批評為](../Page/BOP_\(組合\).md "wikilink")�
 | Keep Our Faith                                                            |
 | Keep Our Faith                                                            |
 | Lose Your Mind                                                            |
+|                                                                           |
+|                                                                           |
+|                                                                           |
+|                                                                           |
 | **2015年**                                                                 |
 | Keep Our Faith                                                            |
 | Keep Our Faith                                                            |

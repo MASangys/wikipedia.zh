@@ -131,7 +131,7 @@ GOT7的寓意為「7個幸運的人聚集在一起直到永遠」，團體問候
 
 **JJ Project 回歸、Jackson在中國solo出道**
 
-6月份，GOT7前往泰國[呵叻](https://zh.wikipedia.org/wiki/呵叻 "wikilink")、[清邁](../Page/清邁.md "wikilink")、[曼谷](../Page/曼谷.md "wikilink")與[普吉島四大城市舉辦巡迴演唱會](https://zh.wikipedia.org/wiki/普吉島 "wikilink")「NESTIVAL」，他們也是第一組在泰國舉行巡迴演唱會的K-POP團體。6月尾，JYP突然透過媒體宣佈JJ Project將於下半年回歸和Jackson會在中國solo出道，JJ Project將推出第一張韓語迷你專輯《[Verse 2](../Page/Verse_2.md "wikilink")》，主打歌為《Tomorrow, Today》，這也是時隔五年再度回歸音壇。\[67\]7月15日,在官方網站、臉書、推特同步公開JJ Project 回歸日程表\[68\]，31日中午12時音源與實體專輯同步發行，並開放為期一週的《내일, 오늘: PHOTO EXHIBITION》攝影展。晚間8點透過V LIVE同步直播《VERSE'2》Showcase。8月18日，Jackson在個人Instagram公布將於8月26日公開首張個人單曲《Papillon》，正式在中國出道。\[69\]8月26日，淩晨12點在騰訊音樂先行公開歌曲，並在下午兩點在官方YouTube上公開MV。
+6月份，GOT7前往泰國[呵叻](https://zh.wikipedia.org/wiki/呵叻 "wikilink")、[清邁](../Page/清邁.md "wikilink")、[曼谷](../Page/曼谷.md "wikilink")與[普吉島四大城市舉辦巡迴演唱會](https://zh.wikipedia.org/wiki/普吉島 "wikilink")「NESTIVAL」，他們也是第一組在泰國舉行巡迴演唱會的K-POP團體。6月尾，JYP突然透過媒體宣佈JJ Project將於下半年回歸和Jackson會在中國solo出道，JJ Project將推出第一張韓語迷你專輯《[Verse 2](../Page/Verse_2.md "wikilink")》，主打歌為《Tomorrow, Today》，這也是時隔五年再度回歸音壇。\[67\]7月15日,在官方網站、臉書、推特同步公開JJ Project 回歸日程表\[68\]，31日中午12時音源與實體專輯同步發行，並開放為期一週的《내일, 오늘: PHOTO EXHIBITION》攝影展。晚間8點透過V LIVE同步直播《VERSE'2》Showcase。8月18日，Jackson在個人Instagram公布將於8月26日公開首張個人單曲《Papillon》，正式在中國出道。\[69\]8月26日，凌晨12點在騰訊音樂先行公開歌曲，並在下午兩點在官方YouTube上公開MV。
 
 **日語迷你二輯《Turn Up》，Jackson暫時停止日本活動**
 
@@ -487,17 +487,17 @@ GOT7的寓意為「7個幸運的人聚集在一起直到永遠」，團體問候
 <td></td>
 </tr>
 <tr class="even">
-<td><p>7月1日- 8月31日</p></td>
+<td><p>7月1日- 9月9日</p></td>
 <td><p>Vlive、YouTube</p></td>
 <td><p>GOT2DAY 2019</p></td>
-<td><p>5</p></td>
+<td><p>21</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>7月31日- 8月30日</p></td>
+<td><p>7月31日- 現在</p></td>
 <td><p>Vlive、YouTube</p></td>
 <td><p>GOT7 TOURLOG</p></td>
-<td><p>17</p></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>
@@ -629,7 +629,7 @@ GOT7的寓意為「7個幸運的人聚集在一起直到永遠」，團體問候
 | --------------------------------------------------------------------------------- | -------------- | ------------------------------------------------------- |
 | GOT7 出道 GarageShowcase                                                            |                |                                                         |
 | 2014年1月15日                                                                        | 首爾站            | 聖水洞大林倉庫                                                 |
-| GOT7 1st 日本Showcase 《1st Impact in Japan》                                         |                |                                                         |
+| GOT7 1st 日本ase 《1st Impact in Japan》                                              |                |                                                         |
 | 2014年4月4日                                                                         | 東京站            | [東京兩國國技館](../Page/兩國國技館.md "wikilink")                  |
 | 2014年4月17日                                                                        | 大阪站            | 大阪Zepp Namba                                            |
 | GOT7 《[GOT♡](https://zh.wikipedia.org/wiki/Got_Love "wikilink")》回歸Showcase        |                |                                                         |
@@ -656,97 +656,102 @@ GOT7的寓意為「7個幸運的人聚集在一起直到永遠」，團體問候
 
 ### 演唱會
 
-| **日期**                                          | **演唱會站次** | **舉行地點**                                                            |
-| ----------------------------------------------- | --------- | ------------------------------------------------------------------- |
-| 首場日本巡迴演唱會《AROUND THE WORLD》                     |           |                                                                     |
-| 2014年10月7-8日                                    | 大阪站       | Zepp Namba                                                          |
-| 2014年10月9日                                      | 福岡站       | Zepp Fukuoka                                                        |
-| 2014年10月14-15日                                  | 東京站       | Zepp DiverCity（Tokyo）                                               |
-| 2014年10月21-22日                                  | 名古屋站      | Zepp Nagoya                                                         |
-| 2014年11月5-6日                                    | 千葉站       | 幕張展覽館                                                               |
-| 2014年12月24日                                     | 東京站       | 豊洲PIT                                                               |
-| 2016年日本巡迴演唱會《翻天↑覆地》                             |           |                                                                     |
-| 2016年1月21日                                      | 札幌站       | Zepp Sapporo                                                        |
-| 2016年1月28-30日                                   | 大阪站       | Zepp Namba                                                          |
-| 2016年2月4-5日                                     | 東京站       | Zepp DiverCity Tokyo                                                |
-| 2016年2月10日                                      | 福岡站       | Zepp Fukuoka                                                        |
-| 2016年2月12-13日                                   | 名古屋站      | Zepp Nagoya                                                         |
-| 2016年2月27-28日                                   | 千葉站       | 幕張展覽館                                                               |
-| 2016 GOT7 1st CONCERT “FLY”世界巡迴演唱會              |           |                                                                     |
-| 2016年4月29-30日                                   | 首爾站       | 奥林匹克公園 SK奥林匹克手球館                                                    |
-| 2016年5月8日                                       | 上海站       | 上海體育場                                                               |
-| 2016年5月14-15日                                   | 大阪站       | 大阪國際會議場                                                             |
-| 2016年6月1-2日                                     | 東京站       | NHK大廳                                                               |
-| 2016年6月11-12日                                   | 曼谷站       | Impact Arena, Muang Thong Thani                                     |
-| 2016年6月18日                                      | 廣州站       | 廣州天河體育館                                                             |
-| 2016年6月24日                                      | 新加坡站      | 新達城新加坡國際會議展覽中心                                                      |
-| 2016年7月1日                                       | 達拉斯站      | Verizon Theatre at Grand Prarie                                     |
-| 2016年7月3日                                       | 芝加哥站      | Rosemont Theatre                                                    |
-| 2016年7月5-6日                                     | 紐約站       | PlayStation Theater                                                 |
-| 2016年7月8日                                       | 亞特蘭大站     | Cobb Energy Performing Arts Centre                                  |
-| 2016年7月10-11日                                   | 洛杉磯站      | The Novo                                                            |
-| 2016年7月30日                                      | 香港站       | 亞洲國際博覽館                                                             |
-| 2016 GOT7 1ST CONCERT FLY IN SEOUL - FINAL安可演唱會 |           |                                                                     |
-| 2016年8月20-21日                                   | 首爾站       | 高麗大學花亭體育館                                                           |
-| GOT7首場泰國巡迴演唱會 GOT7 Thailand Tour 2017「NESTIVAL」 |           |                                                                     |
-| 2017年6月3日                                       | 呵叻站       | MCC大廳                                                               |
-| 2017年6月4日                                       | 清邁站       | 清邁國際會展中心                                                            |
-| 2017年6月17-18日                                   | 曼谷站       | Impact Arena, Muang Thong Thani                                     |
-| 2017年6月20日                                      | 普吉島站      | SAPHAN HIN STADIUM                                                  |
-| GOT7 ARENA SPECIAL 2017 “MY SWAGGER”            |           |                                                                     |
-| 2017年6月24-25日                                   | 東京站       | 國立代代木競技場第一體育館                                                       |
-| GOT7 Japan Tour 2017 "TURN UP"                  |           |                                                                     |
-| 2017年11月3日                                      | 札幌站       | Zepp Sapporo                                                        |
-| 2017年11月11-12日                                  | 福岡站       | 福岡太陽宮                                                               |
-| 2017年11月16-18日                                  | 東京站       | Zepp DiverCity Tokyo                                                |
-| 2017年11月21-22日                                  | 名古屋站      | Zepp Nagoya                                                         |
-| 2017年11月24-26日                                  | 大阪站       | Zepp Namba                                                          |
-| GOT7 Japan Tour 2017 "TURN UP" TOUR FINAL       |           |                                                                     |
-| 2017年12月21-22日                                  | 東京站       | 日本武道館                                                               |
-| GOT7 2018 World Tour “Eyes On You”世界巡迴演唱會       |           |                                                                     |
-| 2018年5月4-6日                                     | 首爾站       | 蠶室室內體育館                                                             |
-| 2018年5月11-13日                                   | 曼谷站       | Impact Arena, Muang Thong Thani                                     |
-| 2018年6月2日                                       | 澳門站       | 澳門東亞運動會體育館                                                          |
-| 2018年6月6日                                       | 莫斯科站      | Adrenaline Stadium                                                  |
-| 2018年6月8日                                       | 柏林站       | Velodrom                                                            |
-| 2018年6月10日                                      | 巴黎站       | Le Zenith                                                           |
-| 2018年6月16日                                      | 台北站       | 新北市工商展覽中心                                                           |
-| 2018年6月30日                                      | 雅加達站      | Indonesia Convention Exhibition                                     |
-| 2018年7月3日                                       | 多倫多站      | [豐業銀行體育館](../Page/豐業銀行體育館.md "wikilink")                            |
-| 2018年7月6日                                       | 洛杉磯站      | [論壇體育館](../Page/論壇體育館.md "wikilink")                                |
-| 2018年7月8日                                       | 休斯顿站      | NRG Arena                                                           |
-| 2018年7月11日                                      | 紐約站       | [巴克萊中心](../Page/巴克萊中心.md "wikilink")                                |
-| 2018年7月13日                                      | 墨西哥城站     | Palacio De Los Deportes                                             |
-| 2018年7月15日                                      | 布宜諾斯艾利斯站  | Directv Arena                                                       |
-| 2018年7月17日                                      | 聖地亞哥站     | Movistar Arena                                                      |
-| 2018年8月4日                                       | 新加坡站      | ZEPP@BigBox                                                         |
-| 2018年8月24日                                      | 香港站       | 亞洲國際博覽館                                                             |
-| GOT7 ARENA SPECIAL 2018-2019 "Road 2 U"         |           |                                                                     |
-| 2018年12月18-19日                                  | 東京站       | 日本武道館                                                               |
-| 2019年2月2-3日                                     | 神戶站       | 神戶世界紀念館                                                             |
-| GOT7 Japan Tour 2019 "Our Loop"                 |           |                                                                     |
-| 2019年7月30-31日                                   | 千葉站       | 幕張展覽館                                                               |
-| 2019年8月3-4日                                     | 神戶站       | 神戶世界紀念館                                                             |
-| 2019年8月6日                                       | 名古屋站      | 名古屋國際會議場世紀廳                                                         |
-| 2019年8月17-18日                                   | 福岡站       | 福岡太陽宮                                                               |
-| GOT7 2019 World Tour “KEEP SPINNING”世界巡迴演唱會     |           |                                                                     |
-| 2019年6月15-16日                                   | 首爾站       | [首爾奧林匹克體操競技場](https://zh.wikipedia.org/wiki/首爾奧林匹克體操競技場 "wikilink") |
-| 2019年6月27日                                      | 紐華克站      | Prudential Center                                                   |
-| 2019年6月30日                                      | 多倫多站      | 豐業銀行體育館                                                             |
-| 2019年7月3日                                       | 達拉斯站      | [美國航空中心](../Page/美國航空中心.md "wikilink")                              |
-| 2019年7月6日                                       | 洛杉磯站      | 論壇體育館                                                               |
-| 2019年7月10日                                      | 奧克蘭站      | [甲骨文體育館](../Page/甲骨文體育館.md "wikilink")                              |
-| 2019年7月13日                                      | 墨西哥城站     | Palacio De Los Deportes                                             |
-| 2019年7月16日                                      | 聖地亞哥站     | Movistar Arena                                                      |
-| 2019年8月22日                                      | 雪梨站       | [庫多斯銀行體育館](../Page/庫多斯銀行體育館.md "wikilink")                          |
-| 2019年8月25日                                      | 墨爾本站      | [羅德·拉沃競技場](https://zh.wikipedia.org/wiki/羅德·拉沃競技場 "wikilink")       |
-| 2019年8月31日-9月1日                                 | 香港站       | 亞洲國際博覽館                                                             |
-| 2019年10月8日                                      | 阿姆斯特丹站    | Ziggo Dome                                                          |
-| 2019年10月11日                                     | 倫敦站       | [溫布利體育館](../Page/溫布利體育館.md "wikilink")                              |
-| 2019年10月13日                                     | 柏林站       | Mercedes-Benz Arena                                                 |
-| 2019年10月16日                                     | 馬德里站      | [馬德里自治區體育中心](../Page/馬德里自治區體育中心.md "wikilink")                      |
-| 2019年10月19日                                     | 巴黎站       | [巴黎貝爾西體育館](../Page/巴黎貝爾西體育館.md "wikilink")                          |
-| 2019年10月26日                                     | 馬尼拉站      | [亞洲購物中心體育館](../Page/亞洲購物中心體育館.md "wikilink")                        |
+| **日期**                                           | **演唱會站次** | **舉行地點**                                                            |
+| ------------------------------------------------ | --------- | ------------------------------------------------------------------- |
+| 首場日本巡迴演唱會《AROUND THE WORLD》                      |           |                                                                     |
+| 2014年10月7-8日                                     | 大阪站       | Zepp Namba                                                          |
+| 2014年10月9日                                       | 福岡站       | Zepp Fukuoka                                                        |
+| 2014年10月14-15日                                   | 東京站       | Zepp DiverCity（Tokyo）                                               |
+| 2014年10月21-22日                                   | 名古屋站      | Zepp Nagoya                                                         |
+| 2014年11月5-6日                                     | 千葉站       | 幕張展覽館                                                               |
+| 2014年12月24日                                      | 東京站       | 豊洲PIT                                                               |
+| 2016年日本巡迴演唱會《翻天↑覆地》                              |           |                                                                     |
+| 2016年1月21日                                       | 札幌站       | Zepp Sapporo                                                        |
+| 2016年1月28-30日                                    | 大阪站       | Zepp Namba                                                          |
+| 2016年2月4-5日                                      | 東京站       | Zepp DiverCity Tokyo                                                |
+| 2016年2月10日                                       | 福岡站       | Zepp Fukuoka                                                        |
+| 2016年2月12-13日                                    | 名古屋站      | Zepp Nagoya                                                         |
+| 2016年2月27-28日                                    | 千葉站       | 幕張展覽館                                                               |
+| 2016 GOT7 1st CONCERT “FLY”世界巡迴演唱會               |           |                                                                     |
+| 2016年4月29-30日                                    | 首爾站       | 奥林匹克公園 SK奥林匹克手球館                                                    |
+| 2016年5月8日                                        | 上海站       | 上海體育場                                                               |
+| 2016年5月14-15日                                    | 大阪站       | 大阪國際會議場                                                             |
+| 2016年6月1-2日                                      | 東京站       | NHK大廳                                                               |
+| 2016年6月11-12日                                    | 曼谷站       | Impact Arena, Muang Thong Thani                                     |
+| 2016年6月18日                                       | 廣州站       | 廣州天河體育館                                                             |
+| 2016年6月24日                                       | 新加坡站      | 新達城新加坡國際會議展覽中心                                                      |
+| 2016年7月1日                                        | 達拉斯站      | Verizon Theatre at Grand Prarie                                     |
+| 2016年7月3日                                        | 芝加哥站      | Rosemont Theatre                                                    |
+| 2016年7月5-6日                                      | 紐約站       | PlayStation Theater                                                 |
+| 2016年7月8日                                        | 亞特蘭大站     | Cobb Energy Performing Arts Centre                                  |
+| 2016年7月10-11日                                    | 洛杉磯站      | The Novo                                                            |
+| 2016年7月30日                                       | 香港站       | 亞洲國際博覽館                                                             |
+| 2016 GOT7 1ST CONCERT FLY IN SEOUL - FINAL安可演唱會  |           |                                                                     |
+| 2016年8月20-21日                                    | 首爾站       | 高麗大學花亭體育館                                                           |
+| GOT7首場泰國巡迴演唱會 GOT7 Thailand Tour 2017「NESTIVAL」  |           |                                                                     |
+| 2017年6月3日                                        | 呵叻站       | MCC大廳                                                               |
+| 2017年6月4日                                        | 清邁站       | 清邁國際會展中心                                                            |
+| 2017年6月17-18日                                    | 曼谷站       | Impact Arena, Muang Thong Thani                                     |
+| 2017年6月20日                                       | 普吉島站      | SAPHAN HIN STADIUM                                                  |
+| GOT7 ARENA SPECIAL 2017 “MY SWAGGER”             |           |                                                                     |
+| 2017年6月24-25日                                    | 東京站       | 國立代代木競技場第一體育館                                                       |
+| GOT7 Japan Tour 2017 "TURN UP"                   |           |                                                                     |
+| 2017年11月3日                                       | 札幌站       | Zepp Sapporo                                                        |
+| 2017年11月11-12日                                   | 福岡站       | 福岡太陽宮                                                               |
+| 2017年11月16-18日                                   | 東京站       | Zepp DiverCity Tokyo                                                |
+| 2017年11月21-22日                                   | 名古屋站      | Zepp Nagoya                                                         |
+| 2017年11月24-26日                                   | 大阪站       | Zepp Namba                                                          |
+| GOT7 Japan Tour 2017 "TURN UP" TOUR FINAL        |           |                                                                     |
+| 2017年12月21-22日                                   | 東京站       | 日本武道館                                                               |
+| GOT7 2018 World Tour “Eyes On You”世界巡迴演唱會        |           |                                                                     |
+| 2018年5月4-6日                                      | 首爾站       | 蠶室室內體育館                                                             |
+| 2018年5月11-13日                                    | 曼谷站       | Impact Arena, Muang Thong Thani                                     |
+| 2018年6月2日                                        | 澳門站       | 澳門東亞運動會體育館                                                          |
+| 2018年6月6日                                        | 莫斯科站      | Adrenaline Stadium                                                  |
+| 2018年6月8日                                        | 柏林站       | Velodrom                                                            |
+| 2018年6月10日                                       | 巴黎站       | Le Zenith                                                           |
+| 2018年6月16日                                       | 台北站       | 新北市工商展覽中心                                                           |
+| 2018年6月30日                                       | 雅加達站      | Indonesia Convention Exhibition                                     |
+| 2018年7月3日                                        | 多倫多站      | [豐業銀行體育館](../Page/豐業銀行體育館.md "wikilink")                            |
+| 2018年7月6日                                        | 洛杉磯站      | [論壇體育館](../Page/論壇體育館.md "wikilink")                                |
+| 2018年7月8日                                        | 休斯顿站      | NRG Arena                                                           |
+| 2018年7月11日                                       | 紐約站       | [巴克萊中心](../Page/巴克萊中心.md "wikilink")                                |
+| 2018年7月13日                                       | 墨西哥城站     | Palacio De Los Deportes                                             |
+| 2018年7月15日                                       | 布宜諾斯艾利斯站  | Directv Arena                                                       |
+| 2018年7月17日                                       | 聖地亞哥站     | Movistar Arena                                                      |
+| 2018年8月4日                                        | 新加坡站      | ZEPP@BigBox                                                         |
+| 2018年8月24日                                       | 香港站       | 亞洲國際博覽館                                                             |
+| GOT7 ARENA SPECIAL 2018-2019 "Road 2 U"          |           |                                                                     |
+| 2018年12月18-19日                                   | 東京站       | 日本武道館                                                               |
+| 2019年2月2-3日                                      | 神戶站       | 神戶世界紀念館                                                             |
+| GOT7 Japan Tour 2019 "Our Loop"                  |           |                                                                     |
+| 2019年7月30-31日                                    | 千葉站       | 幕張展覽館                                                               |
+| 2019年8月3-4日                                      | 神戶站       | 神戶世界紀念館                                                             |
+| 2019年8月6日                                        | 名古屋站      | 名古屋國際會議場世紀廳                                                         |
+| 2019年8月17-18日                                    | 福岡站       | 福岡太陽宮                                                               |
+| GOT7 2019-2020 World Tour “KEEP SPINNING”世界巡迴演唱會 |           |                                                                     |
+| 2019年6月15-16日                                    | 首爾站       | [首爾奧林匹克體操競技場](https://zh.wikipedia.org/wiki/首爾奧林匹克體操競技場 "wikilink") |
+| 2019年6月27日                                       | 紐華克站      | Prudential Center                                                   |
+| 2019年6月30日                                       | 多倫多站      | 豐業銀行體育館                                                             |
+| 2019年7月3日                                        | 達拉斯站      | [美國航空中心](../Page/美國航空中心.md "wikilink")                              |
+| 2019年7月6日                                        | 洛杉磯站      | 論壇體育館                                                               |
+| 2019年7月10日                                       | 奧克蘭站      | [甲骨文體育館](../Page/甲骨文體育館.md "wikilink")                              |
+| 2019年7月13日                                       | 墨西哥城站     | Palacio De Los Deportes                                             |
+| 2019年7月16日                                       | 聖地亞哥站     | Movistar Arena                                                      |
+| 2019年8月22日                                       | 雪梨站       | [庫多斯銀行體育館](../Page/庫多斯銀行體育館.md "wikilink")                          |
+| 2019年8月25日                                       | 墨爾本站      | [羅德·拉沃競技場](https://zh.wikipedia.org/wiki/羅德·拉沃競技場 "wikilink")       |
+| 2019年8月31日-9月1日                                  | 香港站       | 亞洲國際博覽館                                                             |
+| 2019年10月8日                                       | 阿姆斯特丹站    | Ziggo Dome                                                          |
+| 2019年10月11日                                      | 倫敦站       | [溫布利體育館](../Page/溫布利體育館.md "wikilink")                              |
+| 2019年10月13日                                      | 柏林站       | Mercedes-Benz Arena                                                 |
+| 2019年10月16日                                      | 馬德里站      | [馬德里自治區體育中心](../Page/馬德里自治區體育中心.md "wikilink")                      |
+| 2019年10月19日                                      | 巴黎站       | [巴黎貝爾西體育館](../Page/巴黎貝爾西體育館.md "wikilink")                          |
+| 2019年10月26日                                      | 馬尼拉站      | [亞洲購物中心體育館](../Page/亞洲購物中心體育館.md "wikilink")                        |
+| 2020年2月15日                                       | 曼谷站       | [拉加曼加拉體育場](../Page/拉加曼加拉體育場.md "wikilink")                          |
+| 2020年2月22日                                       | 新加坡站      | [新加坡室內體育館](https://zh.wikipedia.org/wiki/新加坡室內體育館 "wikilink")       |
+| 2020年2月29日                                       | 澳門站       | [金光綜藝館](../Page/金光綜藝館.md "wikilink")                                |
+| 2020年3月7日                                        | 吉隆坡站      | [亚通體育館](https://zh.wikipedia.org/wiki/亚通體育館 "wikilink")             |
+| 2020年3月28日                                       | 台北站       | [國立體育大學綜合體育館](../Page/國立體育大學綜合體育館.md "wikilink")                    |
 
 ### 見面會
 

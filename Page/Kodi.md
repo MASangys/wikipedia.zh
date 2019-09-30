@@ -14,7 +14,7 @@ XBMC 的源代码以[GNU通用公共许可协议授权分发](https://zh.wikiped
 
 ### 截图
 
-<File:xbmc_911.png>| "Confluence" 皮肤主银幕。 <File:Screenshot000.png>|"PM3.HD" 皮肤主银幕。 |MC360 皮肤
+<File:xbmc_911.png>| "Confluence" 皮肤主银幕。 <File:Kodi> (software) screenshot.png|"PM3.HD" 皮肤主银幕。 |MC360 皮肤
 
 ### 硬件要求
 

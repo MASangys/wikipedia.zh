@@ -45,7 +45,7 @@ Gerix Wifi Cracker 是一个在Linux上的aircrack-ng前端[GUI](https://zh.wiki
 ## 外部链接
 
   - [Aircrack-ng Homepage](http://www.aircrack-ng.org)
-  - [Aircrack airodump and aireplay tutorial](http://www.tuto-fr.com/en/tutorial/tutorial-crack-wep-aircrack.php)
+  - [Aircrack airodump and aireplay tutorial](https://web.archive.org/web/20110728004537/http://www.tuto-fr.com/en/tutorial/tutorial-crack-wep-aircrack.php)
   - [Aircrack-ng suite of wireless tools: Videos](https://web.archive.org/web/20110123110522/http://www.securitytube.net/AireplayNG-\(Part-1\)-video.aspx)
   - [Aircrack-ng (WEP, WPA-PSK crack) on openSUSE10.1](https://web.archive.org/web/20120805024038/http://www.grape-info.com/doc/linux/config/aircrack-ng-0.6.html)
   - [Aircrack-2.3 on Windows (Wireless WEP crack)](https://web.archive.org/web/20120418222144/http://www.grape-info.com/doc/win2000srv/security/aircrack-2.3.html)

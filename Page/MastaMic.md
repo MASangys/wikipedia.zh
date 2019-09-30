@@ -142,7 +142,7 @@ Critical [Kung Fu](https://zh.wikipedia.org/wiki/Kung_Fu "wikilink") feat. [DJ T
 
 <!-- end list -->
 
-  - 《Joey & Joey》馬賽克 主唱：[容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink") Featuring **MastaMic**
+  - 《Joey & Joey》馬賽克 主唱：[容祖兒](../Page/容祖兒.md "wikilink") Featuring **MastaMic**
   - 《5+》 杞人 主唱：[張繼聰](../Page/張繼聰.md "wikilink") Featuring **MastaMic**
 
 ### 2012年

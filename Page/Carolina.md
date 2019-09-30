@@ -7,7 +7,7 @@
       - [北卡罗来纳州](../Page/北卡罗来纳州.md "wikilink")，美國州份
       - [南卡罗来纳州](../Page/南卡罗来纳州.md "wikilink")，美國州份
 
-  - ，英國至1729年為止的殖民地
+  - [卡羅萊納省](../Page/卡羅萊納省.md "wikilink")，英國至1729年為止的殖民地
 
   - [卡罗来纳 (阿拉巴马州)](https://zh.wikipedia.org/wiki/卡罗来纳_\(阿拉巴马州\) "wikilink")，美國市鎮
 

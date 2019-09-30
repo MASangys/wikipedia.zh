@@ -86,7 +86,7 @@ Kaby Lake比Skylake擁有更高的時脈，內建Intel第9.5代顯示核心，�
 ## 10奈米架構改進版：[Ice Lake](https://zh.wikipedia.org/wiki/Ice_Lake "wikilink")
 
 2019年8月1日，Intel正式对外发表了Ice lake微架构的处理器，采用10nm制程，但是
-使用全新的[sunny cove 微架构](https://zh.wikipedia.org/wiki/sunny_cove_微架构 "wikilink")，而不是Sky Lake微架构的陆续改进（Ice Lake） </br>
+使用全新的[sunny cove 微架构](https://zh.wikipedia.org/wiki/sunny_cove_微架构 "wikilink")，而不是Sky Lake微架构的陆续改进（Ice Lake）
 
 ## 10奈米製程優化版：[Tiger Lake](https://zh.wikipedia.org/wiki/Tiger_Lake "wikilink")
 

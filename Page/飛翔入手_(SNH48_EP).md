@@ -1,4 +1,4 @@
-《**飛翔入手**》\[1\]是中国偶像组合[SNH48的第二张](https://zh.wikipedia.org/wiki/SNH48 "wikilink")[EP](https://zh.wikipedia.org/wiki/EP "wikilink")，分豪華版、普通版兩個版本推出，並在2013年8月2日于SNH48網上官方商城开始预售\[2\]。
+《**飛翔入手**》\[1\]是中国偶像组合[SNH48](../Page/SNH48.md "wikilink")的第二张[EP](https://zh.wikipedia.org/wiki/EP "wikilink")，分豪華版、普通版兩個版本推出，並在2013年8月2日于SNH48網上官方商城开始预售\[2\]。
 
 单曲的普通版附赠「沙滩泳装」主题[生寫真](https://zh.wikipedia.org/wiki/生寫真 "wikilink")，豪华版則附赠「泳池泳装」主题生寫真和「mini写真画册」，其餘收录的曲目及附赠的DVD都是相同的。本张EP三首曲目均为[AKB48](../Page/AKB48.md "wikilink")歌曲的中文翻唱。
 

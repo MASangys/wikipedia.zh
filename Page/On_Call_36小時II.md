@@ -891,7 +891,7 @@
 <td><p>施榮恭之妻<br />
 施玉蘭之母<br />
 范子妤、洪美雪之外婆<br />
-患有</p></td>
+患有<a href="https://zh.wikipedia.org/wiki/IgG4相關性疾病" title="wikilink">IgG4相關性疾病</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/沈可欣.md" title="wikilink">沈可欣</a></p></td>
@@ -1191,7 +1191,7 @@ Monica之生意夥伴<br />
 </tr>
 <tr class="odd">
 <td><p>最喜愛TVB劇集歌曲</p></td>
-<td><p>續集（<a href="https://zh.wikipedia.org/wiki/容祖兒" title="wikilink">容祖兒主唱</a>）</p></td>
+<td><p>續集（<a href="../Page/容祖兒.md" title="wikilink">容祖兒</a>主唱）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1332,7 +1332,7 @@ Monica之生意夥伴<br />
 <tr class="odd">
 <td><p>2013</p></td>
 <td><p>最受歡迎電視劇歌曲獎</p></td>
-<td><p>續集（<a href="https://zh.wikipedia.org/wiki/容祖兒" title="wikilink">容祖兒</a>）</p></td>
+<td><p>續集（<a href="../Page/容祖兒.md" title="wikilink">容祖兒</a>）</p></td>
 <td></td>
 </tr>
 <tr class="even">

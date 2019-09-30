@@ -140,6 +140,8 @@
 | 2017年6月28日         | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | [偶像戲劇工作團](../Page/偶像戲劇工作團.md "wikilink")                                         |       |
 | 2018年4月7、14、21、28日 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | [1%的友情](../Page/1%的友情.md "wikilink")                                             | 崔子    |
 | 2018年4月26日、5月3日    | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | [Happy Together](../Page/歡樂在一起.md "wikilink")                                    |       |
+| 2019年9月7日          | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | [玩什麼好呢](../Page/玩什麼好呢.md "wikilink")                                             |       |
+| 2019年9月8日          | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")   | [Player](../Page/Player_\(韓國綜藝\).md "wikilink")                                  |       |
 
 ## 演唱會
 

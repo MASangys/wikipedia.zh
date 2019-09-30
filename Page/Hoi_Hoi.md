@@ -1,4 +1,4 @@
-「**Hoi Hoi**」是[韓國的女子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Rainbow子團](https://zh.wikipedia.org/wiki/Rainbow "wikilink")「Rainbow Pixie」\[1\]推出的單曲作品。於2012年1月12日發行。唱片公司為[DSP Media](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")\[2\]。
+《**Hoi Hoi**》是[韓國的女子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Rainbow子團](https://zh.wikipedia.org/wiki/Rainbow "wikilink")「Rainbow Pixie」\[1\]推出的單曲作品。於2012年1月12日發行。唱片公司為[DSP Media](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")\[2\]。
 
 ## 概要
 

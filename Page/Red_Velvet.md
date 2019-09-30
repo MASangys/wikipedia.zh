@@ -139,7 +139,7 @@ LineData =
 
 [170116_레드벨벳_아육대.jpg](https://zh.wikipedia.org/wiki/File:170116_레드벨벳_아육대.jpg "fig:170116_레드벨벳_아육대.jpg")\]\] 2月1日，發表第四張迷你專輯《Rookie》回歸。2月2日，《Rookie》在公開後短短一日內就登上了多個海外[iTunes排行榜一位](https://zh.wikipedia.org/wiki/iTunes "wikilink")。\[49\]2月7日，以主打歌《Rookie》在SBS MTV《[THE SHOW](https://zh.wikipedia.org/wiki/THE_SHOW "wikilink")》獲得回歸初一位，其後在各個音樂節目連續登冠，在粉絲的熱烈反響中成為9冠王。\[50\]\[51\]\[52\]3月23日，SM娱乐表示Red Velvet将成为《[SM STATION](../Page/SM_STATION.md "wikilink")》第二季度的首位主人公，将于3月31日中午12时公开新曲《Would U》的音源。\[53\]\[54\]
 
-6月30日，於官方Instagram公布此次特別迷你專輯的預告照，並於當日上午10時公開成員Irene的概念照。並確定Red Velvet將於7月9日以夏日為主題的首張夏日迷你專輯《The Red Summer》回歸 。\[55\]7月9日，《Red Flavor》音源在韓國時間中午12時發佈，佔據五榜一位。\[56\]\[57\]
+6月30日，於官方Instagram公布此次特別迷你專輯的預告照，並於當日上午10時公開成員Irene的概念照。並確定Red Velvet將於7月9日以夏日為主題的首張夏日迷你專輯《The Red Summer》回歸 。\[55\]7月9日，《Red Flavor》音源在韓國時間中午12時發佈，MV中成員們以不同的水果出現，風格清新，佔據五榜一位。\[56\]\[57\]
 
 8月18日至20日，Red Velvet舉行爲期三天的單獨演唱會「[Red Room](../Page/Red_Room.md "wikilink")」，此次演唱會的動員人數為11,000人。\[58\]\[59\]11月6日，Red Velvet在日本首次舉辦Premium Showcase。為日本活動作預熱。\[60\]
 
@@ -484,6 +484,7 @@ Red Velvet於2014年8月1日出道，隔年便摘下了許多韓國大型頒獎�
 
 <!-- end list -->
 
+  -
   -
   -
   -

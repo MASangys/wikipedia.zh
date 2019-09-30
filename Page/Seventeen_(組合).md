@@ -1,4 +1,4 @@
-[淨漢](https://zh.wikipedia.org/wiki/尹淨漢 "wikilink"){{·}}[Joshua](https://zh.wikipedia.org/wiki/洪知秀 "wikilink"){{·}}[Jun](../Page/文俊輝.md "wikilink"){{·}}[Hoshi](https://zh.wikipedia.org/wiki/權順榮 "wikilink"){{·}}[圓佑](../Page/全圓佑.md "wikilink"){{·}}[WOOZI](../Page/李知勳_\(SEVENTEEN\).md "wikilink"){{·}}[The8](https://zh.wikipedia.org/wiki/徐明浩 "wikilink"){{·}}[DK](https://zh.wikipedia.org/wiki/李碩珉 "wikilink"){{·}}[珉奎](../Page/金珉奎.md "wikilink"){{·}}[勝寛](../Page/夫勝寛.md "wikilink"){{·}}[Vernon](https://zh.wikipedia.org/wiki/崔韓率 "wikilink"){{·}}[Dino](../Page/李燦_\(SEVENTEEN\).md "wikilink") | 簽名 = | 相關團體 = [夫碩順(BSS)](https://zh.wikipedia.org/wiki/SEVENTEEN-BSS "wikilink") }}
+[淨漢](https://zh.wikipedia.org/wiki/尹淨漢 "wikilink"){{·}}[Joshua](https://zh.wikipedia.org/wiki/洪知秀 "wikilink"){{·}}[Jun](../Page/文俊輝.md "wikilink"){{·}}[Hoshi](https://zh.wikipedia.org/wiki/權順榮 "wikilink"){{·}}[圓佑](../Page/全圓佑.md "wikilink"){{·}}[WOOZI](../Page/李知勳_\(SEVENTEEN\).md "wikilink"){{·}}[DK](https://zh.wikipedia.org/wiki/李碩珉 "wikilink"){{·}}[珉奎](../Page/金珉奎.md "wikilink"){{·}}[The8](https://zh.wikipedia.org/wiki/徐明浩 "wikilink"){{·}}[勝寛](../Page/夫勝寛.md "wikilink"){{·}}[Vernon](https://zh.wikipedia.org/wiki/崔韓率 "wikilink"){{·}}[Dino](../Page/李燦_\(SEVENTEEN\).md "wikilink") | 簽名 = | 相關團體 = [夫碩順(BSS)](https://zh.wikipedia.org/wiki/SEVENTEEN-BSS "wikilink") }}
 
 **SEVENTEEN**（，）是韓國[Pledis娛樂](../Page/Pledis娛樂.md "wikilink")旗下的13人男子流行音樂團體，成員包括[韓國籍](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[S.coups](https://zh.wikipedia.org/wiki/崔勝哲 "wikilink")、[淨漢](https://zh.wikipedia.org/wiki/尹淨漢 "wikilink")、[Hoshi](https://zh.wikipedia.org/wiki/權順榮 "wikilink")、[圓佑](../Page/全圓佑.md "wikilink")、[WOOZI](../Page/李知勳_\(SEVENTEEN\).md "wikilink")、[DK](https://zh.wikipedia.org/wiki/李碩珉 "wikilink")、[珉奎](../Page/金珉奎.md "wikilink")、[勝寛](../Page/夫勝寛.md "wikilink")、[Dino](../Page/李燦_\(SEVENTEEN\).md "wikilink")，[美籍韓裔的](../Page/美国.md "wikilink")[Joshua](https://zh.wikipedia.org/wiki/洪知秀 "wikilink")，韓美雙籍的[Vernon](https://zh.wikipedia.org/wiki/崔韓率 "wikilink")，以及[中國籍的](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[Jun和](../Page/文俊輝.md "wikilink")[The 8](https://zh.wikipedia.org/wiki/徐明浩 "wikilink")。
 
@@ -218,7 +218,7 @@
 
 1月21日，第六張迷你專輯《[YOU MADE MY DAWN](https://zh.wikipedia.org/wiki/YOU_MADE_MY_DAWN "wikilink")》發行，主打歌為〈[HOME(홈)](https://www.youtube.com/watch?v=R9VDPMk5ls0) 〉， 發行首週銷量已破了SEVENTEEN的自身記錄，新專輯首週銷量達338,153張，且進入歷年韓國偶像專輯銷量前二十名。2月2日，SEVENTEEN拿下出道以來第一座《[音樂中心](https://zh.wikipedia.org/wiki/音乐中心 "wikilink")》一位，隔日2月3日，SEVENTEEN再度拿到第一座《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》一位，該週也達成韓國五大電視台一位大滿貫，同時該座一位也是繼公司前輩[After School於](../Page/After_School.md "wikilink")2009年拿到[人氣歌謠一位之後](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")，時隔十年[Pledis所屬藝人的第二座](https://zh.wikipedia.org/wiki/Pledis "wikilink")[人氣歌謠一位](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")。主打歌〈[HOME(홈)](https://www.youtube.com/watch?v=R9VDPMk5ls0) 〉成功獲得十個一位，突破《Don't wanna cry》六個一位的記錄。
 
-#### 2019《SEVENTEEN WORLD TOUR ‘ODE TO YOU'》 世界巡回演唱会
+#### 2019《SEVENTEEN WORLD TOUR "ODE TO YOU"》 世界巡回演唱会
 
 ## 成員資料
 
@@ -304,7 +304,7 @@
 | [DK](https://zh.wikipedia.org/wiki/李碩珉 "wikilink")      | 도겸 / DK                          | 10012310 | \[71\]                                                                                            |
 | [珉奎](../Page/金珉奎.md "wikilink")                         | 민규 / 김민규 / MIN GYU / KIM MIN GYU | 10009931 | \[72\]                                                                                            |
 | [The 8](https://zh.wikipedia.org/wiki/徐明浩 "wikilink")   | 디에잇 / THE 8                      | 10013922 | \[73\]                                                                                            |
-| [勝寛](../Page/夫勝寛.md "wikilink")                         | 부승관 / BU SEUNG KWAN              | 10012321 | \[74\]                                                                                            |
+| [勝寛](../Page/夫勝寛.md "wikilink")                         | 부승관 / BOO SEUNG KWAN             | 10012321 | \[74\]                                                                                            |
 | [Vernon](https://zh.wikipedia.org/wiki/崔韓率 "wikilink")  | 버논 / 최한솔 / VERNON / CHWE HAN SOL | 10009930 | \[75\]                                                                                            |
 | [Dino](../Page/李燦_\(SEVENTEEN\).md "wikilink")          | 디노 / DI NO                       | 10009928 | \[76\]                                                                                            |
 
@@ -338,6 +338,7 @@
   - 2016年：[Love & Letter](../Page/Love_&_Letter.md "wikilink")
   - 2016年：[Love & Letter（改版專輯）](../Page/Love_&_Letter.md "wikilink")
   - 2017年：[TEEN, AGE](../Page/Teen,_Age.md "wikilink")
+  - 2019年：[An Ode](https://zh.wikipedia.org/wiki/An_Ode "wikilink")
 
 #### 迷你專輯
 

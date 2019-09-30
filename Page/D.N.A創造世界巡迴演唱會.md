@@ -1,4 +1,4 @@
-**DNA創造世界巡迴演唱會**是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[五月天](../Page/五月天.md "wikilink")的第七次大型演唱會，亦是他們第三次舉行的世界巡迴演唱會。此次巡迴演唱會自2009年5月20日於三場[香港](../Page/香港.md "wikilink")[香港體育館](../Page/香港體育館.md "wikilink")首站揭開序幕。2010年7月24日於台中舉行「變形DNA·無限放大版」最終站，並拍攝成3D演唱會《3DNA》，2011年9月16日在台上映。
+**DNA創造世界巡迴演唱會**是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[五月天](../Page/五月天.md "wikilink")的第七次大型演唱會，亦是他們第三次舉行的世界巡迴演唱會。此次巡迴演唱會自2009年5月20日於三場[香港](../Page/香港.md "wikilink")[香港體育館](../Page/香港體育館.md "wikilink")首站揭開序幕。2010年7月24日於台中舉行「變形DNA·無限放大版」最終站，並拍攝成3D演唱會電影《[五月天追夢3DNA](../Page/五月天追夢3DNA.md "wikilink")》，2011年9月16日在台上映。
 
 ## 背景
 

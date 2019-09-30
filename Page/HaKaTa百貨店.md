@@ -40,7 +40,7 @@
       - [SKE48](../Page/SKE48.md "wikilink")：[松井玲奈](../Page/松井玲奈.md "wikilink")、[松井珠理奈](../Page/松井珠理奈.md "wikilink")（兼任AKB48成員）
       - [NMB48](../Page/NMB48.md "wikilink")：[渡邊美優紀](../Page/渡邊美優紀.md "wikilink")（兼任AKB48成員）
       - [JKT48](../Page/JKT48.md "wikilink")：[高城亞樹](../Page/高城亞樹.md "wikilink")
-      - [SNH48](https://zh.wikipedia.org/wiki/SNH48 "wikilink")：[宮澤佐江](../Page/宮澤佐江.md "wikilink")
+      - [SNH48](../Page/SNH48.md "wikilink")：[宮澤佐江](../Page/宮澤佐江.md "wikilink")
       - [乃木坂46](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")：[生駒里奈](../Page/生駒里奈.md "wikilink")
 
 ## 播放日期、來賓與企劃內容

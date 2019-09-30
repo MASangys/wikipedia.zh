@@ -301,10 +301,6 @@
 
   - 　<small>※製作、畫師。</small>
 
-## 相关条目
-
-  - [WillPlus](../Page/WillPlus.md "wikilink")
-
 ## 參考資料
 
 <references/>

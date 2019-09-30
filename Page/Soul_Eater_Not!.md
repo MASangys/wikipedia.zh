@@ -1,4 +1,4 @@
-《**噬魂者NOT！**》（Soul Eater Not\!）是[大久保篤的作品](https://zh.wikipedia.org/wiki/大久保篤 "wikilink")[SOUL EATER的](../Page/SOUL_EATER.md "wikilink")[外傳](https://zh.wikipedia.org/wiki/外傳 "wikilink")。2011年1月12日開始連載於《[月刊少年GANGAN](../Page/月刊少年GANGAN.md "wikilink")》。由[BONES製作的](../Page/BONES_\(動畫製作公司\).md "wikilink")[電視動畫由](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")[東京電視台](../Page/東京電視台.md "wikilink")於2014年4月8日首播，北美地區由[Funimation](../Page/Funimation.md "wikilink")進行同步轉播。
+《**噬魂者NOT！**》（Soul Eater Not\!）是[大久保篤創作的日本漫畫作品](https://zh.wikipedia.org/wiki/大久保篤 "wikilink")，同時也是《[SOUL EATER](../Page/SOUL_EATER.md "wikilink")》的[外傳](https://zh.wikipedia.org/wiki/外傳 "wikilink")。2011年1月12日開始連載於《[月刊少年GANGAN](../Page/月刊少年GANGAN.md "wikilink")》。由[BONES製作的](../Page/BONES_\(動畫製作公司\).md "wikilink")[電視動畫由](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")[東京電視台](../Page/東京電視台.md "wikilink")於2014年4月8日首播，北美地區由[Funimation](../Page/Funimation.md "wikilink")進行同步轉播。
 
 ## 概要
 
@@ -12,8 +12,7 @@
 
   -
     CV：[千菅春香](../Page/千菅春香.md "wikilink")
-    外傳《**Soul Eater Not\!**》的女主角之一，也是第一女主角。
-    14歲，武器。在日本出身，實體為鐮槍（Halberd）。
+    第一女主角。14歲，武器。在日本出身，實體為鐮槍（Halberd）。
     自稱是「戀上戀愛的14歲少女」，在第一次到達死武專時遇上摩訶，得到其鼓勵，開始憧憬摩訶而把髮型改成雙馬尾。
     體能差，但個性溫柔率真。和美美、阿妮亞是死武專附近咖啡店的常客，剛開始是因為零用錢花光了被迫來打工，之後常常幫助店長解決問題。
     本傳第99話中以回憶（解說魔武器誕生過程）的方式登場。
@@ -22,7 +21,6 @@
 
   -
     CV：[悠木碧](../Page/悠木碧.md "wikilink")
-    外傳《**Soul Eater Not\!**》的女主角之一。
     14歲的-{zh-hant:職人;zh-hk:工匠;zh-tw:職人;zh-hans:職人;zh-mo:職人;}-。與小鶇同期入學的學生兼室友。
     十分健忘的天然呆女生，連自己的名字也會忘記，而且遲鈍得連害怕也不知道。絕招是「睡拳」，體能好。每晚都會不明原因地爬到小鶇的床上，有時甚至還會全裸。
     健忘是源於魔女謝烏拉的控制，於第10集完全受其控制成為其手下。
@@ -31,7 +29,6 @@
 
   -
     CV：[早見沙織](../Page/早見沙織.md "wikilink")
-    外傳《**Soul Eater Not\!**》的女主角之一。
     14歲的-{zh-hant:職人;zh-hk:工匠;zh-tw:職人;zh-hans:職人;zh-mo:職人;}-。與小鶇同期入學的學生兼室友。
     給人感覺是高貴的公主。因對庶民有興趣而到死武專就讀。個性些微傲嬌，說話方式就和女王一樣高傲。對於服裝的要求很保守，幾乎要過膝以下。遇到挫折時會擺出可愛的一面。
 

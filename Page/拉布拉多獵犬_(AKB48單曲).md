@@ -186,7 +186,7 @@
   - SKE48 Team S：松井珠理奈（兼任AKB48 Team K成員）
   - NMB48 Team BII：[梅田彩佳](../Page/梅田彩佳.md "wikilink")
   - HKT48 Team H：指原莉乃
-  - [SNH48](https://zh.wikipedia.org/wiki/SNH48 "wikilink") Team SII：[宮澤佐江](../Page/宮澤佐江.md "wikilink")（兼任SKE48 Team S成員）
+  - [SNH48](../Page/SNH48.md "wikilink") Team SII：[宮澤佐江](../Page/宮澤佐江.md "wikilink")（兼任SKE48 Team S成員）
   - 前成員（全為二期生）：[秋元才加](../Page/秋元才加.md "wikilink")、[今井優](https://zh.wikipedia.org/wiki/今井優 "wikilink")、[大堀惠](../Page/大堀惠.md "wikilink")、[河西智美](../Page/河西智美.md "wikilink")、[佐藤夏希](../Page/佐藤夏希.md "wikilink")、[高田彩奈](https://zh.wikipedia.org/wiki/高田彩奈 "wikilink")、[野呂佳代](../Page/野呂佳代.md "wikilink")、、[增田有華](../Page/增田有華.md "wikilink")、[松原夏海](../Page/松原夏海.md "wikilink")
 
 ### 你如此任性

@@ -1,4 +1,4 @@
-在[微软](../Page/微软.md "wikilink")的[Windows NT系列操作系统中](../Page/Windows_NT.md "wikilink")，'''Winlogon '''是负责处理安全相关的用户交互界面的组件\[1\]。Winlogon的工作包括加载其他用户身份安全组件、提供图形化的登录界面，以及创建用户会话。这个模块是Windows操作系统的关键进程，其中止会造成Windows崩溃\[2\]。
+'''Winlogon '''是一個內置在[微软](../Page/微软.md "wikilink")公司所開發的[Windows NT系列操作系统](../Page/Windows_NT.md "wikilink")，负责处理安全相关的用户交互界面的组件\[1\]。其工作包括加载其他用户身份安全组件、提供图形化的登录界面，以及创建用户会话。模块為Windows操作系统的关键进程，中止其運行將造成Windows崩溃或非正常關閉。\[2\]。 [Windows_8_pre-login.png](https://zh.wikipedia.org/wiki/File:Windows_8_pre-login.png "fig:Windows_8_pre-login.png") 登入介面, 提示用戶需按下[Ctrl+Alt+Delete才可繼續](https://zh.wikipedia.org/wiki/Ctrl+Alt+Delete "wikilink")\]\]
 
 Winlogon负责在登录时调用用户身份安全组件搜集用户身份凭据，在[Windows Vista之前的NT版本Windows中](../Page/Windows_Vista.md "wikilink")，这个界面由[图形化识别和验证](https://zh.wikipedia.org/wiki/图形化识别和验证 "wikilink")（GINA）模块提供。Windows默认的实现msgina.dll根据系统的[快速用户切换设置显示一个用户列表或者一个用户名](https://zh.wikipedia.org/wiki/快速用户切换 "wikilink")/密码输入框。但是其他开发者也可以提供GINA模块使得用户可以用指纹、智能卡或者面部识别等其他方式登录系统\[3\]。在Vista及之后的版本的系统中，由于旧的GINA架构造成在安装了有缺陷的GINA时系统不稳定，微软使用LogonUI和[凭据提供者替代GINA作为用户身份凭据的插件接口](https://zh.wikipedia.org/wiki/凭据提供者 "wikilink")\[4\]。
 
@@ -12,7 +12,7 @@ Winlogon在启动时还注册一个系统级别的[安全注意序列](https://z
 
 Winlogon在[Windows 9x系列的操作系统中不可用](../Page/Windows_9x.md "wikilink")\[6\]。
 
-## 参考和引用
+## 参考資料
 
 [Category:Windows组件](https://zh.wikipedia.org/wiki/Category:Windows组件 "wikilink") [Category:安全软件](https://zh.wikipedia.org/wiki/Category:安全软件 "wikilink")
 

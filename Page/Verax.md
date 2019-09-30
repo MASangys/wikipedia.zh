@@ -18,7 +18,7 @@
   - 劉麗斯 （Lecia Lau）- 黃詩藝 （Shi Yi Ng）
   - 胡星尉 （Wu Xingwei）- 郭愛兵 （Guo Aibing）
 
-## 注釋
+## 參考
 
 ## 外部連結
 
@@ -28,6 +28,7 @@
 
   - [崔正傑網站](http://www.marcustsui.com/)
 
+  -
   -
   - "[青年拍片纪念斯诺登](http://www.orientaldaily.com.my/index.php?option=com_k2&view=item&id=63280:&Itemid=197)." 《[東方新聞](https://zh.wikipedia.org/wiki/東方新聞 "wikilink")》. 2013年7月3日.
 
@@ -39,7 +40,7 @@
 
   - 法新社. "[香港拍摄首部“斯诺登事件”影片](http://www.dw.de/%E9%A6%99%E6%B8%AF%E6%8B%8D%E6%91%84%E9%A6%96%E9%83%A8%E6%96%AF%E8%AF%BA%E7%99%BB%E4%BA%8B%E4%BB%B6%E5%BD%B1%E7%89%87/a-16916353)." 《[每日新闻](https://zh.wikipedia.org/wiki/每日新闻 "wikilink")》, 《[世界报](../Page/世界报_\(德国\).md "wikilink")》. 2013年6月30日.
 
-[Category:2010年代香港電影作品](https://zh.wikipedia.org/wiki/Category:2010年代香港電影作品 "wikilink") [Category:2013年电影](https://zh.wikipedia.org/wiki/Category:2013年电影 "wikilink") [Category:短片](https://zh.wikipedia.org/wiki/Category:短片 "wikilink") [Category:政治驚悚片](https://zh.wikipedia.org/wiki/Category:政治驚悚片 "wikilink") [Category:香港劇情片](https://zh.wikipedia.org/wiki/Category:香港劇情片 "wikilink") [Category:香港背景电影](https://zh.wikipedia.org/wiki/Category:香港背景电影 "wikilink") [Category:政治劇情片](https://zh.wikipedia.org/wiki/Category:政治劇情片 "wikilink")
+[Category:2010年代香港電影作品](https://zh.wikipedia.org/wiki/Category:2010年代香港電影作品 "wikilink") [Category:2013年电影](https://zh.wikipedia.org/wiki/Category:2013年电影 "wikilink") [Category:短片](https://zh.wikipedia.org/wiki/Category:短片 "wikilink") [Category:政治驚悚片](https://zh.wikipedia.org/wiki/Category:政治驚悚片 "wikilink") [Category:香港劇情片](https://zh.wikipedia.org/wiki/Category:香港劇情片 "wikilink") [Category:香港背景电影](https://zh.wikipedia.org/wiki/Category:香港背景电影 "wikilink") [Category:政治劇情片](https://zh.wikipedia.org/wiki/Category:政治劇情片 "wikilink") [Category:YouTube視訊](https://zh.wikipedia.org/wiki/Category:YouTube視訊 "wikilink") [Category:愛德華·史諾登](https://zh.wikipedia.org/wiki/Category:愛德華·史諾登 "wikilink")
 
 1.  ["Hong Kong amateur filmmakers produce world's first Edward Snowden film"](http://www.scmp.com/news/hong-kong/article/1272335/hong-kong-amateur-filmmakers-produce-worlds-first-edward-snowden-film). 《[南华早报](https://zh.wikipedia.org/wiki/南华早报 "wikilink")》. 《[法新社](../Page/法新社.md "wikilink")》. 2013-06-30. Retrieved 2013-06-30.
 

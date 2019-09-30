@@ -1,4 +1,4 @@
-**MurmurHash** 是一种非[加密型](https://zh.wikipedia.org/wiki/加密 "wikilink")[哈希函数](https://zh.wikipedia.org/wiki/哈希函数 "wikilink")，适用于一般的哈希检索操作。\[1\]\[2\]\[3\]由Austin Appleby在2008年发明，\[4\]\[5\] 并出现了多个变种，\[6\] 都已经发布到了[公有领域](../Page/公有领域.md "wikilink")(public domain)。与其它流行的哈希函数相比，对于规律性较强的key，MurmurHash的随机分布特征表现更良好。\[7\]
+**MurmurHash** 是一种非[加密](../Page/加密.md "wikilink")型[哈希函数](https://zh.wikipedia.org/wiki/哈希函数 "wikilink")，适用于一般的哈希检索操作。\[1\]\[2\]\[3\]由Austin Appleby在2008年发明，\[4\]\[5\] 并出现了多个变种，\[6\] 都已经发布到了[公有领域](../Page/公有领域.md "wikilink")(public domain)。与其它流行的哈希函数相比，对于规律性较强的key，MurmurHash的随机分布特征表现更良好。\[7\]
 
 ## 变种
 

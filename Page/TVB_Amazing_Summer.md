@@ -1768,7 +1768,7 @@
 | [她她她的少女時代](../Page/她她她的少女時代.md "wikilink")                            | 8月19日 起逢週一至五 20:30                              | 20                    |     |     |
 |                                                                       |                                                 |                       |     |     |
 | 首播綜藝及資訊節目                                                             | [懿想得到](../Page/懿想得到.md "wikilink")              | 7月1日 逢星期一至五 22:30     | 10  |     |
-| [街市遊樂團](../Page/街市遊樂團.md "wikilink")雙馬篇                               | 7月6日 逢星期六 20:00-20:30                           |                       |     |     |
+| [街市遊樂團](../Page/街市遊樂團.md "wikilink")雙馬篇                               | 7月6日 逢星期六 20:00-20:30                           | 10                    |     |     |
 | [我的寵物](../Page/我的寵物.md "wikilink")                                    | 7月15日 逢星期一至五 22:30                              | 10                    |     |     |
 | [Do姐有問題](../Page/Do姐有問題.md "wikilink")                                | 7月21日 逢星期日 20:30-21:30                          |                       | 第三輯 |     |
 | [荷蘭好玩](../Page/荷蘭好玩.md "wikilink")                                    | 7月21日 逢星期日22:30-23:00                           | 6                     |     |     |
@@ -1780,17 +1780,14 @@
 | [我的寵物夏日反斗嘉年華](https://zh.wikipedia.org/wiki/我的寵物夏日反斗嘉年華 "wikilink")   | 8月3日 逢星期六 21:30-22:30                           | 2                     |     |     |
 | [Ben Sir睇樓團](../Page/Ben_Sir睇樓團.md "wikilink")                        | 8月5日 逢星期一至五22:30                                | 10                    | 第三輯 |     |
 | [娛樂大家](../Page/娛樂大家_\(無綫電視節目\).md "wikilink")                         | 8月11日 逢星期日21:30-22:30                           |                       | 第二輯 |     |
-| [香港美食一條街](../Page/香港美食一條街.md "wikilink")                              | 8月17日 逢星期六 21:30-22:30                          |                       |     |     |
 | [12個夏天](../Page/12個夏天.md "wikilink")                                  | 8月19日 逢星期一至五 22:30                              | 15                    |     |     |
 | 香港小姐                                                                  | [香港小姐公爵特訓班](../Page/2019年度香港小姐競選.md "wikilink") | 8月4日 逢星期日 20:00-20:30 | 1   |     |
 | [香港小姐周遊好玩特訓班](../Page/2019年度香港小姐競選.md "wikilink")                     | 8月11日 逢星期日 20:00-20:30                          | 1                     |     |     |
-| [\#後生仔同港姐傾吓偈](https://zh.wikipedia.org/wiki/#後生仔同港姐傾吓偈 "wikilink")    | 9月1日 星期日 22:30-23:30                            | 2                     |     |     |
-| [香港小姐眾星列陣](https://zh.wikipedia.org/wiki/香港小姐眾星列陣 "wikilink")         | 9月8日 星期日 20:00-20:30                            | 1                     |     |     |
+| [香港小姐眾星列陣](../Page/2019年度香港小姐競選.md "wikilink")                        | 9月8日 星期日 20:00-20:30                            | 1                     |     |     |
 | [2019年度香港小姐競選](../Page/2019年度香港小姐競選.md "wikilink")                    | 9月8日 星期日 20:30-22:30                            | 1                     |     |     |
-| [\#後生仔睇完港姐傾吓偈](https://zh.wikipedia.org/wiki/#後生仔睇完港姐傾吓偈 "wikilink")  | 9月8日 星期日 22:30-23:00                            | 1                     |     |     |
 | 首播外購動畫                                                                | [屁屁偵探](../Page/屁屁偵探.md "wikilink")              | 7月1日 逢星期一 17:20       | 26  | 第1季 |
 | [爆丸 星域爭霸](https://zh.wikipedia.org/wiki/爆丸_星域爭霸 "wikilink")           | 7月7日 逢星期日 16:00                                 | 50                    | 第1季 |     |
-| [花漾精靈](https://zh.wikipedia.org/wiki/花漾精靈 "wikilink")                 | 7月10日 逢星期二, 三 16:00                             | 50                    | 第2季 |     |
+| [花漾精靈](https://zh.wikipedia.org/wiki/花漾精靈 "wikilink")                 | 7月10日 逢星期二, 三 16:00                             | 51                    | 第2季 |     |
 | [閃電十一人 阿瑞斯的天秤](https://zh.wikipedia.org/wiki/閃電十一人_阿瑞斯的天秤 "wikilink") | 8月16日 逢星期四, 五 17:20                             | 26                    | 第5季 |     |
 |                                                                       |                                                 |                       |     |     |
 
@@ -1951,6 +1948,43 @@
 </table>
 
 ### [明珠台](../Page/明珠台.md "wikilink")
+
+| 類別                                                                      | 節目名稱                                                                   | 播放日期及時間          | 集數          | 備註 |
+| ----------------------------------------------------------------------- | ---------------------------------------------------------------------- | ---------------- | ----------- | -- |
+| 首播電影                                                                    | 明珠首映七月鉅片：[蜘蛛俠：強勢回歸](https://zh.wikipedia.org/wiki/蜘蛛俠：強勢回歸 "wikilink") | 7月6日 星期六 21:30   | rowspan="7" |    |
+| 周末大電影：[星空奇遇記：超域時空](https://zh.wikipedia.org/wiki/星空奇遇記：超域時空 "wikilink") | 7月28日 星期日 21:30                                                        |                  |             |    |
+| 周末大電影：[第五天劫](https://zh.wikipedia.org/wiki/第五天劫 "wikilink")             | 7月7日 星期日 21:30                                                         |                  |             |    |
+| 明珠首映八月鉅片：[反斗車王3](https://zh.wikipedia.org/wiki/反斗車王3 "wikilink")        | 8月10日 星期六 21:30                                                        |                  |             |    |
+| 周末大電影：[Pet Pet當家](https://zh.wikipedia.org/wiki/Pet_Pet當家 "wikilink")   | 8月17日 星期六 21:30                                                        |                  |             |    |
+| 周末大電影：[魔幻森林](https://zh.wikipedia.org/wiki/魔幻森林 "wikilink")             | 8月24日 星期六 21:30                                                        |                  |             |    |
+| 周末大電影：[非常盜2](https://zh.wikipedia.org/wiki/非常盜2 "wikilink")             | 8月25日 星期日 21:30                                                        |                  |             |    |
+| 首播資訊節目／紀錄片                                                              | [成長第一步](https://zh.wikipedia.org/wiki/成長第一步 "wikilink")                | 7月2日起 逢星期二 20:30 | 3           |    |
+| [情迷意大利](https://zh.wikipedia.org/wiki/情迷意大利 "wikilink")                 | 7月12日起 逢星期五 21:35                                                      | 2                |             |    |
+| [超級餅藝大師](https://zh.wikipedia.org/wiki/超級餅藝大師 "wikilink")               | 7月14日起 逢星期日 20:00                                                      | 30               | 第二季         |    |
+| [老友記大舞台](https://zh.wikipedia.org/wiki/老友記大舞台 "wikilink")               | 7月14日起 逢星期日 21:35                                                      | 30               |             |    |
+| [Top Gear](https://zh.wikipedia.org/wiki/Top_Gear "wikilink")           | 7月15日起 逢星期一 21:35                                                      | 6                | 第二十五季       |    |
+| [潮玩天下](https://zh.wikipedia.org/wiki/潮玩天下 "wikilink")                   | 7月17日起 逢星期三 20:00                                                      | 13               |             |    |
+| [野性湄公河](https://zh.wikipedia.org/wiki/野性湄公河 "wikilink")                 | 7月17日起 逢星期二 21:35                                                      | 10               |             |    |
+| [澳洲猛獸實錄](https://zh.wikipedia.org/wiki/澳洲猛獸實錄 "wikilink")               | 7月19日起 逢星期五 21:35                                                      | 10               |             |    |
+| [沙漠獅子王](https://zh.wikipedia.org/wiki/沙漠獅子王 "wikilink")                 | 7月23日 逢星期二 20:30                                                       | 1                |             |    |
+| [野性湄公河](https://zh.wikipedia.org/wiki/野性湄公河 "wikilink")                 | 7月23日起 逢星期二 21:35                                                      | 10               |             |    |
+| [登月五十年](https://zh.wikipedia.org/wiki/登月五十年 "wikilink")                 | 7月24日起 逢星期三 21:35                                                      | 6                |             |    |
+| [湖畔華庭](https://zh.wikipedia.org/wiki/湖畔華庭 "wikilink")                   | 7月26日起 逢星期五 20:30                                                      | 10               | 第二輯         |    |
+| [兩個轆遊東瀛](https://zh.wikipedia.org/wiki/兩個轆遊東瀛 "wikilink")               | 7月26日起 逢星期五 20:30                                                      |                  | 第四輯         |    |
+| [沙漠獅子王 2](https://zh.wikipedia.org/wiki/沙漠獅子王_2 "wikilink")             | 7月30日 逢星期二 20:30                                                       | 1                |             |    |
+| [我的完美婚禮](https://zh.wikipedia.org/wiki/我的完美婚禮 "wikilink")               | 8月1日起 逢星期四 20:00                                                       | 8                | 第二季         |    |
+| [大城小廚快靚正](https://zh.wikipedia.org/wiki/大城小廚快靚正 "wikilink")             | 8月1日起 逢星期四 20:30                                                       | 6                | 第三季         |    |
+| [穹蒼下的美國](https://zh.wikipedia.org/wiki/穹蒼下的美國 "wikilink")               | 8月1日起 逢星期四 21:35                                                       | 10               | 第二季         |    |
+| [大自然巨無霸](https://zh.wikipedia.org/wiki/大自然巨無霸 "wikilink")               | 8月4日起 逢星期四 21:35                                                       | 1                |             |    |
+| [猩猩學堂](https://zh.wikipedia.org/wiki/猩猩學堂 "wikilink")                   | 8月6日起 逢星期二 20:30                                                       | 10               |             |    |
+| [全美一叮](https://zh.wikipedia.org/wiki/全美一叮 "wikilink")                   | 8月10日起 逢星期六及日 20:30                                                    | 42               | 第十四季        |    |
+| [座頭鯨真面目](https://zh.wikipedia.org/wiki/座頭鯨真面目 "wikilink")               | 8月16日 逢星期五 21:35                                                       | 1                |             |    |
+| [巨鯊天下](https://zh.wikipedia.org/wiki/巨鯊天下 "wikilink")                   | 8月23日 逢星期五 21:35                                                       | 1                |             |    |
+| [部落新丁](https://zh.wikipedia.org/wiki/部落新丁 "wikilink")                   | 8月26日起 逢星期一 21:35                                                      | 6                | 第二季         |    |
+| [超級改造人](https://zh.wikipedia.org/wiki/超級改造人 "wikilink")                 | 8月28日起 逢星期三 20:30                                                      | 2                |             |    |
+| [鯊魚大戰吞拿魚](https://zh.wikipedia.org/wiki/鯊魚大戰吞拿魚 "wikilink")             | 8月30日 逢星期五 21:35                                                       | 1                |             |    |
+| [美洲豹大戰巨鱷](https://zh.wikipedia.org/wiki/美洲豹大戰巨鱷 "wikilink")             | 9月6日 逢星期五 21:35                                                        | 1                |             |    |
+|                                                                         |                                                                        |                  |             |    |
 
 ## TVB fun 互動遊戲
 

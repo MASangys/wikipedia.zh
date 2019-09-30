@@ -2,7 +2,7 @@
 
 ## 採用
 
-RPG-7的出現取代了其前身[RPG-2](../Page/RPG-2.md "wikilink")，目前由[Bazalt公司生產](https://zh.wikipedia.org/wiki/Bazalt "wikilink")，其[GRAU代號是](https://zh.wikipedia.org/wiki/GRAU "wikilink")**6G3**。
+RPG-7的出現取代了其前身[RPG-2](../Page/RPG-2.md "wikilink")，由[玄武岩設計局生產](https://zh.wikipedia.org/wiki/玄武岩設計局 "wikilink")，其[GRAU代號是](https://zh.wikipedia.org/wiki/GRAU "wikilink")**6G3**。
 
 作為一款高度實用且價格低廉的單兵武器，和AK系列自動步槍一樣，RPG-7被許多第三世界國家或者反政府武裝部隊、步兵及游擊隊，甚至有西方國家的軍隊也有使用，使它成為目前最廣泛使用的反坦克武器之一。目前世界上至少有40個國家有使用RPG-7，並由多個國家，包括[阿爾及利亞](https://zh.wikipedia.org/wiki/阿爾及利亞 "wikilink")、[保加利亞](https://zh.wikipedia.org/wiki/保加利亞 "wikilink")、[中華人民共和國](https://zh.wikipedia.org/wiki/中華人民共和國 "wikilink")、[愛沙尼亞](https://zh.wikipedia.org/wiki/愛沙尼亞 "wikilink")、[馬爾他](https://zh.wikipedia.org/wiki/馬爾他 "wikilink")、[伊朗](https://zh.wikipedia.org/wiki/伊朗 "wikilink")、[伊拉克](../Page/伊拉克.md "wikilink")、[緬甸](https://zh.wikipedia.org/wiki/緬甸 "wikilink")、[羅馬尼亞](../Page/羅馬尼亞.md "wikilink")、[斯里蘭卡](../Page/斯里蘭卡.md "wikilink")及[巴基斯坦](../Page/巴基斯坦.md "wikilink")，進行授權生產或仿製。
 

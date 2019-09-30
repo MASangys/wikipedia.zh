@@ -12,7 +12,7 @@ PPS手槍是由卡爾·瓦爾特在德國[烏爾姆所生產](https://zh.wikiped
 
 ### 操作機構
 
-瓦爾特PPS是一把[槍管短行程後座作用的半自動手槍](../Page/後座作用.md "wikilink")，使用從[白朗寧大威力手槍](../Page/白朗寧大威力手槍.md "wikilink")改進過來的白朗寧凸輪閉鎖系統。PPS使用[玻璃钢增強](https://zh.wikipedia.org/wiki/玻璃钢 "wikilink")[聚合物](../Page/聚合物.md "wikilink")製[底把和](../Page/机匣.md "wikilink")[钢](../Page/钢.md "wikilink")製[套筒組件](https://zh.wikipedia.org/wiki/手枪套筒 "wikilink")。它可以在只通過分解閂不需要任何工具以下分解為其主要零部件組成或是進行[不完全分解](https://zh.wikipedia.org/wiki/不完全分解 "wikilink")。
+瓦爾特PPS是一把[槍管短行程後座作用的半自動手槍](../Page/後座作用.md "wikilink")，使用從[白朗寧大威力半自動手槍改進過來的白朗寧凸輪閉鎖系統](https://zh.wikipedia.org/wiki/白朗寧大威力半自動手槍 "wikilink")。PPS使用[玻璃钢增強](https://zh.wikipedia.org/wiki/玻璃钢 "wikilink")[聚合物](../Page/聚合物.md "wikilink")製[底把和](../Page/机匣.md "wikilink")[钢](../Page/钢.md "wikilink")製[套筒組件](https://zh.wikipedia.org/wiki/手枪套筒 "wikilink")。它可以在只通過分解閂不需要任何工具以下分解為其主要零部件組成或是進行[不完全分解](https://zh.wikipedia.org/wiki/不完全分解 "wikilink")。
 
 ### 功能
 

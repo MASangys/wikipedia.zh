@@ -128,4 +128,4 @@
       -
       - [TV动画《GO\!GO\!575》官网](http://gogo575.sega.jp/)
 
-[Category:世嘉](https://zh.wikipedia.org/wiki/Category:世嘉 "wikilink") [Category:跨媒體製作](https://zh.wikipedia.org/wiki/Category:跨媒體製作 "wikilink") [Category:泡麵番](https://zh.wikipedia.org/wiki/Category:泡麵番 "wikilink")
+[Category:世嘉跨媒体制作](https://zh.wikipedia.org/wiki/Category:世嘉跨媒体制作 "wikilink") [Category:泡麵番](https://zh.wikipedia.org/wiki/Category:泡麵番 "wikilink")

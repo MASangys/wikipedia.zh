@@ -58,12 +58,12 @@
 <tr class="even">
 <td><p>語音</p></td>
 <td><p>輸入</p></td>
-<td><p><a href="../Page/麦克风.md" title="wikilink">麦克风</a>、<a href="../Page/语音识别.md" title="wikilink">语音识别</a></p></td>
+<td><p><a href="../Page/麦克风.md" title="wikilink">麦克风</a>、<a href="https://zh.wikipedia.org/wiki/自然語言處理" title="wikilink">自然語言處理</a>（<a href="../Page/语音识别.md" title="wikilink">语音识别</a>）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>輸出</p></td>
-<td><p><a href="../Page/语音合成.md" title="wikilink">语音合成</a></p></td>
+<td><p><a href="../Page/语音合成.md" title="wikilink">语音合成</a>、<a href="https://zh.wikipedia.org/wiki/機器翻譯" title="wikilink">機器翻譯</a></p></td>
 <td></td>
 <td></td>
 </tr>

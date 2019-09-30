@@ -350,7 +350,7 @@
       - 審査員特別獎：水野裕美、三浦繪美（現雜誌屋 BOAO 專屬模特兒）、篠原美由紀、瀬間詠里花、吉川貴世子（現 [Ray](../Page/Ray_\(雜誌\).md "wikilink") 雜誌專屬模特兒）、平山美春（現[小学館](https://zh.wikipedia.org/wiki/小学館 "wikilink") CanCam 專屬模特兒）。
   - 2008年（[夏威夷大會](https://zh.wikipedia.org/wiki/夏威夷 "wikilink")）
       - 報名人數：585人
-      - 優勝者：Alessa Miki （， 專屬模特兒）
+      - 優勝者：Alessa Miki （，[JJ](../Page/JJ_\(雜誌\).md "wikilink") 專屬模特兒）
       - 特別獎：Julie Baer（[ViVi](../Page/ViVi.md "wikilink") 專屬模特兒）、村上Devin （，JJ 專屬模特兒）
   - 2008年（第2回）
       - 報名人數：21,452人

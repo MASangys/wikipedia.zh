@@ -619,6 +619,17 @@
 <td style="text-align: center;"><p>金率智</p></td>
 <td style="text-align: center;"></td>
 </tr>
+<tr class="odd">
+<td style="text-align: center;"><p>2019年－<br />
+2020年</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/機智的醫生生活" title="wikilink">機智的醫生生活</a><br />
+</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"><p><a href="../Page/申元浩.md" title="wikilink">申元浩</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/李祐汀.md" title="wikilink">李祐汀</a></p></td>
+<td style="text-align: center;"></td>
+</tr>
 </tbody>
 </table>
 

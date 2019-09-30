@@ -1,6 +1,6 @@
 [Just_Rock_It！World_Tour_in_Beijing_National_Stadium（2016AUG27）.jpg](https://zh.wikipedia.org/wiki/File:Just_Rock_It！World_Tour_in_Beijing_National_Stadium（2016AUG27）.jpg "fig:Just_Rock_It！World_Tour_in_Beijing_National_Stadium（2016AUG27）.jpg")
 
-，是[臺灣](../Page/臺灣.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[五月天](../Page/五月天.md "wikilink")的第八次大型演唱會，亦是他們第四次舉行的世界巡迴演唱會，此次巡迴演唱會自2011年5月20日於[香港](../Page/香港.md "wikilink")[紅磡體育館揭開序幕](../Page/香港體育館.md "wikilink")。2011年推出相關演唱會電影《[五月天追夢3DNA](../Page/五月天追夢3DNA.md "wikilink")》。每年舉行的巡迴舞台設計及演出曲序皆不相同。
+，是[臺灣](../Page/臺灣.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[五月天](../Page/五月天.md "wikilink")的第八次大型演唱會，亦是他們第四次舉行的世界巡迴演唱會，此次巡迴演唱會自2011年5月20日於[香港](../Page/香港.md "wikilink")[紅磡體育館揭開序幕](../Page/香港體育館.md "wikilink")。依每次的演出主題，巡迴舞台設計及演出曲序皆不相同。
 
 ## 背景
 
@@ -10,7 +10,9 @@
 
 2016年5月於[香港](../Page/香港.md "wikilink")紅磡體育館舉行10場演出，並展開為期5個月的限定巡迴。此次巡迴邀請美國視覺大師LeRoy Bennett設計舞台燈光效果，成本高達4億元[新臺幣](../Page/新臺幣.md "wikilink")。2016年7月23、24日，連續兩天在[南港](../Page/南港區.md "wikilink")[中信金融園區舉辦臺北場演唱會](https://zh.wikipedia.org/wiki/中國信託 "wikilink") \[2\]。2016年8月26日、27日、28日重返[北京](https://zh.wikipedia.org/wiki/北京 "wikilink")[鳥巢](https://zh.wikipedia.org/wiki/國家體育場_\(北京\) "wikilink")。2016年12月17日至2017年1月1日，在[台北小巨蛋連續舉行](https://zh.wikipedia.org/wiki/台北小巨蛋 "wikilink")9場該主題的「RE:LIVE 2016 最終章 \[ 自傳復刻版 \]」演唱會，演出復刻五月天過去9次主題的大型演唱會表演內容 \[3\]。
 
-2018年11月5日，五月天宣布於2019年4月在大阪舉行2場該主題的「藍 | Blue」演唱會。 2019年8月3日，宣布以該主題演唱會於2019年8月23－25日連續三天重返北京鳥巢，是他們第六度於該場地開唱。
+2018年11月5日，宣布以「藍 | Blue」主題演唱會於2019年4月6、7日在大阪舉行2場。 同年8月3日，宣布以該主題演唱會於2019年8月23－25日連續三天重返北京鳥巢，是他們第六度於該場地開唱。 同年9月6日，宣布以該主題演唱會於2019年10月25－27日、11月1－3日在上海虹口足球場共舉行6場。
+
+2019年9月20日，宣布以該主題演唱會於2019年12月21－22、24－25、28－29、31日、2020年1月1、3－4日連續於[桃園國際棒球場](../Page/桃園國際棒球場.md "wikilink")舉行10場。
 
 ## 製作
 
@@ -703,7 +705,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Just Rock It！2019「藍｜BLUE」</p></td>
+<td><p>Just Rock It！「藍｜BLUE」</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -777,9 +779,7 @@
 <tr class="odd">
 <td><p>72</p></td>
 <td><p>2019年5月12日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/木曜4超玩" title="wikilink">木曜4超玩</a><br />
-一日系列第101集<br />
-一日五月天幕後工作人員</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -807,6 +807,150 @@
 <td><p>75</p></td>
 <td><p>2019年8月25日</p></td>
 <td><p>蕭秉治</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>76</p></td>
+<td><p>2019年10月25日</p></td>
+<td><p>上海</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/虹口足球場" title="wikilink">虹口足球場</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>77</p></td>
+<td><p>2019年10月26日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>78</p></td>
+<td><p>2019年10月27日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>79</p></td>
+<td><p>2019年11月1日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>80</p></td>
+<td><p>2019年11月2日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>81</p></td>
+<td><p>2019年11月3日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>82</p></td>
+<td><p>2019年12月21日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/桃園" title="wikilink">桃園</a></p></td>
+<td><p>臺灣</p></td>
+<td><p><a href="../Page/桃園國際棒球場.md" title="wikilink">桃園國際棒球場</a></p></td>
+<td></td>
+<td><p>Just Rock It！2020「藍｜BLUE」</p></td>
+</tr>
+<tr class="even">
+<td><p>83</p></td>
+<td><p>2019年12月22日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>84</p></td>
+<td><p>2019年12月24日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>85</p></td>
+<td><p>2019年12月25日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>86</p></td>
+<td><p>2019年12月28日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>87</p></td>
+<td><p>2019年12月29日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>88</p></td>
+<td><p>2019年12月31日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>89</p></td>
+<td><p>2020年1月1日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>90</p></td>
+<td><p>2020年1月3日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>91</p></td>
+<td><p>2020年1月4日</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>

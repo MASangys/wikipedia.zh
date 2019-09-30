@@ -4,7 +4,7 @@ Reddit由在[維吉尼亞大學讀書時當時是室友的](https://zh.wikipedia
 
 2018年8月，陆续有网友发现Reddit在中国大陆不可用\[8\]\[9\]\[10\]。随后证实Reddit受到了[DNS污染](https://zh.wikipedia.org/wiki/DNS污染 "wikilink")，部分地区不可用\[11\]\[12\]。
 
-目前Reddit是美国第五大网站，流量仅次于[Google](../Page/Google.md "wikilink")，[YouTube](../Page/YouTube.md "wikilink")，[Facebook](../Page/Facebook.md "wikilink")以及[Amazon](https://zh.wikipedia.org/wiki/Amazon "wikilink")，月活用户数达3.3亿\[13\]。
+目前Reddit是美国第五大网站，流量仅次于[Google](../Page/Google.md "wikilink")、[YouTube](../Page/YouTube.md "wikilink")、[Facebook](../Page/Facebook.md "wikilink")以及[Amazon](https://zh.wikipedia.org/wiki/Amazon "wikilink")，月活用户数达3.3亿\[13\]。
 
 ## 概觀
 

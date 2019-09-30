@@ -39,4 +39,4 @@
 
 ## 獎項
 
-[Category:連詩雅音樂專輯](https://zh.wikipedia.org/wiki/Category:連詩雅音樂專輯 "wikilink") [Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink") [Category:2010年迷你專輯](https://zh.wikipedia.org/wiki/Category:2010年迷你專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:香港華納唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:香港華納唱片音樂專輯 "wikilink")
+[Category:連詩雅音樂專輯](https://zh.wikipedia.org/wiki/Category:連詩雅音樂專輯 "wikilink") [Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink") [Category:2010年迷你專輯](https://zh.wikipedia.org/wiki/Category:2010年迷你專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:香港流行音乐专辑](https://zh.wikipedia.org/wiki/Category:香港流行音乐专辑 "wikilink") [Category:香港華納唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:香港華納唱片音樂專輯 "wikilink")

@@ -794,22 +794,25 @@ Rocky</p></td>
 <td><p>3月4日</p></td>
 </tr>
 <tr class="even">
+<td><p>4月24日</p></td>
+</tr>
+<tr class="odd">
 <td><p>6月16日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>7月17日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>7月18日 │</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>7月28日 │</p>
 <p>8月4日</p></td>
 </tr>
-<tr class="even">
-<td></td>
-</tr>
 <tr class="odd">
+<td><p>8月24日 │</p></td>
+</tr>
+<tr class="even">
 <td></td>
 </tr>
 </tbody>

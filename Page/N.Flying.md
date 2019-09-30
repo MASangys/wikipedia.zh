@@ -365,14 +365,14 @@ PlotData =
 
 ### 固定綜藝
 
-| 日期                      | 電視台                                                             | 節目名稱                                                          | 參與成員                                              | 集數      |
-| ----------------------- | --------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------- | ------- |
-| 2013年11月21日-2014年 1月 9日 | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")             | [清潭洞111](../Page/清潭洞111.md "wikilink")                        | 全體                                                | 8集      |
-| 2014年 3月13日-2014年 4月10日 | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")             | 清潭洞111-N.Flying邁向明星之路                                         | 全體                                                | 5集      |
-| 2015年 3月18日-2015年 5月20日 | [Mnet](../Page/Mnet.md "wikilink")                              | One Night Study                                               | 全體                                                | 10集     |
-| 2015年 8月21日-2015年 9月 1日 | IDOLIC TV                                                       | EYEDOLLS                                                      | 全體                                                | 4集      |
-| 2016年12月15日-2016年12月29日 | [MBCEvery1](https://zh.wikipedia.org/wiki/MBCEvery1 "wikilink") | [HIT製造機 第三季](https://zh.wikipedia.org/wiki/HIT製造機 "wikilink") | [車勳](https://zh.wikipedia.org/wiki/車勳 "wikilink") | EP01-03 |
-| 2019年7月5日-2019年         | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")             | [The Call 第二季](../Page/The_Call.md "wikilink")                | 全體                                                |         |
+| 日期                      | 電視台                                                             | 節目名稱                                                          | 參與成員                                              | 集數              |
+| ----------------------- | --------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------- | --------------- |
+| 2013年11月21日-2014年 1月 9日 | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")             | [清潭洞111](../Page/清潭洞111.md "wikilink")                        | 全體                                                | 8集              |
+| 2014年 3月13日-2014年 4月10日 | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")             | 清潭洞111-N.Flying邁向明星之路                                         | 全體                                                | 5集              |
+| 2015年 3月18日-2015年 5月20日 | [Mnet](../Page/Mnet.md "wikilink")                              | One Night Study                                               | 全體                                                | 10集             |
+| 2015年 8月21日-2015年 9月 1日 | IDOLIC TV                                                       | EYEDOLLS                                                      | 全體                                                | 4集              |
+| 2016年12月15日-2016年12月29日 | [MBCEvery1](https://zh.wikipedia.org/wiki/MBCEvery1 "wikilink") | [HIT製造機 第三季](https://zh.wikipedia.org/wiki/HIT製造機 "wikilink") | [車勳](https://zh.wikipedia.org/wiki/車勳 "wikilink") | EP01-03         |
+| 2019年 7月5日-2019年 9月13日  | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")             | [The Call 第二季](../Page/The_Call.md "wikilink")                | 全體                                                | EP01-04、EP07-10 |
 
 ### 綜藝節目
 
@@ -441,6 +441,8 @@ PlotData =
 | 8月13日       |
 | 8月17日       |
 | 8月24日       |
+| 9月10日       |
+| 9月14日       |
 
 ## 影音作品
 

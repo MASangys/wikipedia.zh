@@ -8,7 +8,7 @@ function stringToTable(s) --字串轉陣列
 `   end`
 `   return t`
 
-end local ClearTenOne, NoClearOne, ClearAllOne = 0, 1, 2 --清除首位1的狀況，清十前1、不清1、清所有首位1 local Normal, Financial = 0, 1 --小寫和大寫 local Over, Ten, Hundred, Thousand, LargeStart = 10, 11, 12, 13, 14 --Over是萬進的節點ID，LargeStart是萬進位數中文的開始ID local standard = { { '〇', '一', '二', '三', '四', '五', '六', '七', '八', '九' }, { '零', '壹', '貳', '叄', '䦉', '伍', '陸', '柒', '捌', '玖' } } local decimal = { { '', '十', '百', '千' }, { '', '拾', '佰', '仟' } } local large = { '', '萬', '億', '兆', '京', '垓', '秭', '穰', '溝', '澗', '正', '載', '極', '恆河沙', '阿僧祇', '那由他', '不可思議', '無量', '大數' } local largeSize = \#large
+end local ClearTenOne, NoClearOne, ClearAllOne = 0, 1, 2 --清除首位1的狀況，清十前1、不清1、清所有首位1 local Normal, Financial = 0, 1 --小寫和大寫 local Over, Ten, Hundred, Thousand, LargeStart = 10, 11, 12, 13, 14 --Over是萬進的節點ID，LargeStart是萬進位數中文的開始ID local standard = {{'〇', '一', '二', '三', '四', '五', '六', '七', '八', '九'}, {'零', '壹', '貳', '叄', '䦉', '伍', '陸', '柒', '捌', '玖'}} local decimal = {{*, '十', '百', '千'}, {*, '拾', '佰', '仟'}} local large = {'', '萬', '億', '兆', '京', '垓', '秭', '穰', '溝', '澗', '正', '載', '極', '恆河沙', '阿僧祇', '那由他', '不可思議', '無量', '大數'} local largeSize = \#large
 
 function argsToVariable(frame) --輸入參數陣列轉變數
 
@@ -45,13 +45,15 @@ function IDToChinese(id, numberType) --由上述定義可以知道ID代表意義
 `   elseif id < LargeStart + largeSize then`
 `       return large[id - LargeStart + 1]`
 `   else`
-`       local overlying, quotient = '', (id - LargeStart)`
-`       remainder = quotient % (largeSize - 1)`
-`       overlying = large[remainder + 1]`
-`       quotient = (quotient - remainder) / (largeSize - 1)`
-`       for i=1,quotient do overlying = overlying .. large[largeSize] end`
-`       return overlying`
 `       --return 'large' .. (id - LargeStart)`
+`       local overlying, quotient = '', (id - LargeStart)`
+`       local remainder = quotient % (largeSize - 1)`
+`       local largecount = (quotient - remainder) / (largeSize - 1)`
+`       overlying = large[remainder + 1]`
+`       for i = 1, largecount do`
+`           overlying = overlying .. large[largeSize]`
+`       end`
+`       return overlying`
 `   end`
 
 end function LessThan10000ToID(number) --低於10000的轉換，用途為中文數字是萬進
@@ -193,6 +195,6 @@ end function NumberToChineseNumbering(number, numberType) --編號用途，編�
 `           chinese = chinese .. IDToChinese(tonumber(numberArr[i]), numberType)`
 `       end`
 `   end`
-`   return chinese  `
+`   return chinese`
 
 end return p

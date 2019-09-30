@@ -711,57 +711,12 @@ GM206</p></td>
 <td><p>2048:128:64<br />
 (16 SMM)</p></td>
 <td><p>1064</p></td>
-<td></td>
+<td><p>1216</p></td>
 <td><p>7010</p></td>
 <td><p>68.1</p></td>
 <td><p>136.2</p></td>
-<td><p>8192</p></td>
-</tr>
-<tr class="even">
-<td><p>型號</p></td>
-<td><p>推出年分</p></td>
-<td><p>開發代號</p></td>
-<td><p>製程<br />
-(<a href="https://zh.wikipedia.org/wiki/奈米" title="wikilink">奈米</a>)</p></td>
-<td><p>電晶體數<br />
-(百萬)</p></td>
-<td><p>晶片尺寸<br />
-(mm²)</p></td>
-<td><p>匯流排介面</p></td>
-<td><p>核心配置<br />
-<sup>SPs:TMUs:ROPs<sub>1</sub></sup></p></td>
-<td><p>時脈配置</p></td>
-<td><p>填充率</p></td>
-<td><p>顯示記憶體配置</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/應用程式介面" title="wikilink">API支援</a>（版本）</p></td>
-<td><p>運算效能<br />
-（GFLOPS）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/熱設計功耗" title="wikilink">熱設計功耗</a><br />
-(W)</p></td>
-</tr>
-<tr class="odd">
-<td><p>預設<br />
-(<a href="https://zh.wikipedia.org/wiki/Hertz" title="wikilink">MHz</a>)</p></td>
-<td><p>加速<br />
-(<a href="https://zh.wikipedia.org/wiki/Hertz" title="wikilink">MHz</a>)</p></td>
-<td><p>記憶體<br />
-(<a href="https://zh.wikipedia.org/wiki/Transfer_(computing)" title="wikilink">MT/s</a>)</p></td>
-<td><p>像素<br />
-(<a href="https://zh.wikipedia.org/wiki/Pixel" title="wikilink">GP</a>/s)<sup>2</sup></p></td>
-<td><p>材質<br />
-(<a href="https://zh.wikipedia.org/wiki/Texel_(graphics)" title="wikilink">GT</a>/s)<sup>3</sup></p></td>
-<td><p>容量<br />
-(<a href="https://zh.wikipedia.org/wiki/MB" title="wikilink">MB</a>)</p></td>
-<td><p>匯流排類型</p></td>
-<td><p>匯流排寬度<br />
-(<a href="../Page/位元.md" title="wikilink">位元</a>)</p></td>
-<td><p>頻寬<br />
-(<a href="https://zh.wikipedia.org/wiki/Gigabyte" title="wikilink">GB</a>/s)</p></td>
-<td><p><a href="../Page/DirectX.md" title="wikilink">DirectX</a></p></td>
-<td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
-<td><p><a href="../Page/OpenCL.md" title="wikilink">OpenCL</a></p></td>
-<td><p><a href="../Page/Vulkan_(API).md" title="wikilink">Vulkan</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/單精度浮點數" title="wikilink">單精度浮點數</a></p></td>
+<td><p>4096<br />
+8192</p></td>
 </tr>
 <tr class="even">
 <td></td>

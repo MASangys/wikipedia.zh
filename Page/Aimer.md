@@ -914,6 +914,18 @@ SawanoHiroyuki[nZk]『&lt;<a href="https://zh.wikipedia.org/wiki/2V-ALK" title="
 <td></td>
 <td><p><a href="../Page/AbemaTV.md" title="wikilink">AbemaTV</a>『{{tsl|ja|オオカミくんには騙されない</p></td>
 </tr>
+<tr class="even">
+<td><p>April Showers</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/アースミュージックアンドエコロジー" title="wikilink">earth music&amp;ecology</a>『エシカルへ』篇CMソング</p></td>
+</tr>
+<tr class="odd">
+<td><p>STAND-ALONE</p></td>
+<td><p>日本テレビ系<a href="../Page/日本電視台週日連續劇.md" title="wikilink">日曜ドラマ</a>『<a href="../Page/輪到你了.md" title="wikilink">あなたの番です</a>』主題歌</p></td>
+</tr>
+<tr class="even">
+<td><p>Torches</p></td>
+<td><p>NHK総合系アニメ『<a href="../Page/海盜戰記.md" title="wikilink">ヴィンランド・サガ</a>』エンディングテーマ</p></td>
+</tr>
 </tbody>
 </table>
 

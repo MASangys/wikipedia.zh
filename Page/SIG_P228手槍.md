@@ -16,7 +16,7 @@ M11將會被陸軍和空軍通過[模組化手槍系統](https://zh.wikipedia.or
 
 P228與SIG經典手槍系列的其他成員一樣，採用了由[約翰·白朗寧首創的](https://zh.wikipedia.org/wiki/約翰·白朗寧 "wikilink")[後膛閉鎖](https://zh.wikipedia.org/wiki/後膛閉鎖 "wikilink")[槍管短行程後座作用模式以使全槍運作](https://zh.wikipedia.org/wiki/後座作用#槍管短行程後座作用 "wikilink")。在射擊時，[套筒和](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")[槍管](../Page/槍管.md "wikilink")鎖在一起並且向後移動幾毫米，槍管會向後移直到後方的絞鏈時使後膛向下傾斜。這個時候，子彈已經離開槍管，而壓力亦已經下降到安全水平。在這種情況以下，套筒已完成向後行程，並以[拋彈口退出](https://zh.wikipedia.org/wiki/拋彈口 "wikilink")[彈殼](https://zh.wikipedia.org/wiki/彈殼 "wikilink")。然後復進簧（又稱：反沖彈簧）會向前推動套筒，從彈匣上取出最頂部的一發並讓槍管後膛向上回複水平同時向前運動幾毫米，再將套筒和槍管一起閉鎖。
 
-與其他白朗寧型武器（諸如[柯爾特](https://zh.wikipedia.org/wiki/柯爾特 "wikilink")[M1911A1](../Page/M1911手槍.md "wikilink")，[白朗寧大威力手槍](../Page/白朗寧大威力手槍.md "wikilink")和[CZ-75](https://zh.wikipedia.org/wiki/CZ-75手槍 "wikilink")）以[槍管](../Page/槍管.md "wikilink")和[套筒之間的閉鎖鎖耳和凹槽的相互扣合以實現閉鎖相反的是](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")，P226使用加大的槍管後膛節套在拋殼口內閉鎖使槍管和套筒得以閉鎖在一起。這個由SIG所發明的一個修改過的閉鎖系統與原來由白朗寧研製的閉鎖系統相比並沒有任何功能上的缺點，而且目前已經被眾多的槍械製造商所仿製。\[2\]
+與其他白朗寧型武器（諸如[柯爾特](https://zh.wikipedia.org/wiki/柯爾特 "wikilink")[M1911A1](../Page/M1911手槍.md "wikilink")，[白朗寧大威力半自動手槍和](https://zh.wikipedia.org/wiki/白朗寧大威力半自動手槍 "wikilink")[CZ 75](../Page/CZ_75手槍.md "wikilink")）以[槍管](../Page/槍管.md "wikilink")和[套筒之間的閉鎖鎖耳和凹槽的相互扣合以實現閉鎖相反的是](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")，P226使用加大的槍管後膛節套在拋殼口內閉鎖使槍管和套筒得以閉鎖在一起。這個由SIG所發明的一個修改過的閉鎖系統與原來由白朗寧研製的閉鎖系統相比並沒有任何功能上的缺點，而且目前已經被眾多的槍械製造商所仿製。\[2\]
 
 P228的所有型號的[底把是由硬質](../Page/机匣.md "wikilink")[氧化](https://zh.wikipedia.org/wiki/氧化 "wikilink")[鋁合金](../Page/鋁合金.md "wikilink")所製造。
 
@@ -357,9 +357,9 @@ P228R的導軌與[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikil
   - [SIG P224](../Page/SIG_P224手槍.md "wikilink")
   - [SIG P230](../Page/SIG_P230手槍.md "wikilink")
   - [貝瑞塔M9手槍](../Page/貝瑞塔M9手槍.md "wikilink")
-  - [FN HP-DA](../Page/白朗寧雙動手槍.md "wikilink")
+  - [FN HP-DA](https://zh.wikipedia.org/wiki/白朗寧雙動半自動手槍 "wikilink")
   - [HK P9S](../Page/HK_P9S手槍.md "wikilink")
-  - [史密斯威森M459](../Page/史密斯威森M59手槍.md "wikilink")
+  - [史密斯威森M459](../Page/史密斯威森M459手槍.md "wikilink")
 
 ## 資料來源
 

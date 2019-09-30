@@ -55,7 +55,7 @@ MSMC的競爭對手之一就是[IMI Tavor TAR-21](../Page/IMI_TAR-21突擊步槍
   - [AO-46個人防衛武器](../Page/AO-46個人防衛武器.md "wikilink")
   - [PP-2000冲锋枪](../Page/PP-2000冲锋枪.md "wikilink")
   - [SR-2衝鋒槍](../Page/SR-2希瑟衝鋒槍.md "wikilink")
-  - [GSh-18手槍](../Page/GSh-18手槍.md "wikilink")
+  - [GSh-18半自動手槍](https://zh.wikipedia.org/wiki/GSh-18半自動手槍 "wikilink")
   - [MP-443烏鴉式手槍](../Page/MP-443烏鴉式手槍.md "wikilink")
   - [新科動力CPW衝鋒槍](../Page/新科動力CPW衝鋒槍.md "wikilink")
   - [紳寶波佛斯動力CBJ-MS衝鋒槍](../Page/紳寶波佛斯動力CBJ-MS衝鋒槍.md "wikilink")

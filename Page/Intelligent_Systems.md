@@ -46,7 +46,8 @@ Wild Gunman</p></td>
 <td><p><a href="../Page/恶魔世界.md" title="wikilink">恶魔世界</a><br />
 デビルワールド<br />
 Devil World</p></td>
-<td><p>日本：1984年&lt;10月5日br/&gt;欧洲：1987年7月15日</p></td>
+<td><p>日本：1984年10月5日<br />
+欧洲：1987年7月15日</p></td>
 <td><p>迷宫</p></td>
 <td><p>FC游戏机</p></td>
 <td><p>任天堂</p></td>
@@ -54,8 +55,8 @@ Devil World</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/足球_(1985年游戏)" title="wikilink">足球</a><br />
-<a href="https://zh.wikipedia.org/wiki/サッカー" title="wikilink">サッカー</a><br />
-<a href="https://zh.wikipedia.org/wiki/Soccer" title="wikilink">Soccer</a></p></td>
+サッカー<br />
+Soccer</p></td>
 <td><p>日本：1985年4月9日（卡带）<br />
 日本：1986年8月21日（磁碟）<br />
 欧洲：1987年2月15日<br />
@@ -68,8 +69,8 @@ FC磁碟機</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/银河战士_(游戏).md" title="wikilink">银河战士</a><br />
-<a href="https://zh.wikipedia.org/wiki/メトロイド" title="wikilink">メトロイド</a><br />
-<a href="https://zh.wikipedia.org/wiki/Metroid" title="wikilink">Metroid</a></p></td>
+メトロイド<br />
+Metroid</p></td>
 <td><p>日本：1986年8月6日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/动作冒险游戏" title="wikilink">动作冒险</a></p></td>
 <td><p>FC磁碟機</p></td>
@@ -79,7 +80,7 @@ FC磁碟機</p></td>
 <tr class="even">
 <td><p>FC战争<br />
 ファミコンウォーズ<br />
-<a href="https://zh.wikipedia.org/wiki/Famicom_Wars" title="wikilink">Famicom Wars</a></p></td>
+Famicom Wars</p></td>
 <td><p>日本：1988年8月12日</p></td>
 <td><p><a href="../Page/回合制策略游戏.md" title="wikilink">回合制策略</a></p></td>
 <td><p>FC游戏机</p></td>
@@ -134,7 +135,7 @@ Golf</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/火焰之纹章_暗黑龙与光之剑.md" title="wikilink">火焰之纹章 暗黑龙与光之剑</a><br />
-ファイアーエムブレム 暗黒竜と光の剣</p></td>
+</p></td>
 <td><p>日本：1990年4月20日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/戰略角色扮演遊戲" title="wikilink">戰略角色扮演</a></p></td>
 <td><p>FC游戏机</p></td>
@@ -143,7 +144,7 @@ Golf</p></td>
 </tr>
 <tr class="even">
 <td><p>GB战争<br />
-ゲームボーイウォーズ<br />
+<br />
 </p></td>
 <td><p>日本：1991年5月21日</p></td>
 <td><p><a href="../Page/回合制策略游戏.md" title="wikilink">回合制策略</a></p></td>
@@ -153,7 +154,7 @@ Golf</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/火焰之纹章外传.md" title="wikilink">火焰之纹章外传</a><br />
-ファイアーエムブレム外伝</p></td>
+</p></td>
 <td><p>日本：1992年3月14日</p></td>
 <td><p>戰略角色扮演</p></td>
 <td><p>FC游戏机</p></td>
@@ -161,7 +162,7 @@ Golf</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>钟为谁而鸣<br />
+<td><p><br />
 </p></td>
 <td><p>日本：1992年9月14日</p></td>
 <td><p><a href="../Page/動作角色扮演遊戲.md" title="wikilink">動作角色扮演</a></p></td>
@@ -170,15 +171,24 @@ Golf</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>火焰之纹章 纹章之谜<br />
+</p></td>
+<td><p>日本：1994年1月21日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/戰略角色扮演" title="wikilink">戰略角色扮演</a></p></td>
+<td><p><a href="../Page/超級任天堂.md" title="wikilink">超級任天堂</a></p></td>
+<td><p>任天堂</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/聖火降魔錄_if" title="wikilink">聖火降魔錄 if</a><br />
-ファイアーエムブレム if<br />
+<br />
 Fire Emblem Fates</p></td>
-<td><p>白夜&amp;暗夜<br />
+<td><p><strong>白夜&amp;暗夜</strong><br />
 日本：2015年6月25日<br />
 香港：2015年6月25日<br />
 台港：2015年11月6日<br />
 北美：2016年2月19日<br />
-歐洲：2016年 透魔王國<br />
+歐洲：2016年 <strong>透魔王國</strong><br />
 日本：2015年7月9日<br />
 台港：2015年11月6日<br />
 北美：2016年3月10日<br />
@@ -188,10 +198,10 @@ Fire Emblem Fates</p></td>
 <td><p><a href="../Page/任天堂.md" title="wikilink">任天堂</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/聖火降魔錄_回聲_另一位英雄王" title="wikilink">聖火降魔錄 回聲 另一位英雄王</a><br />
 FIRE EMBLEM Echoes 另一位英雄王<br />
-ファイアーエムブレム Echoes もうひとりの英雄王<br />
+<br />
 Fire Emblem Echoes: Shadows of Valentia</p></td>
 <td><p>日本：2017年4月20日<br />
 台港：2017年4月20日<br />
@@ -202,6 +212,17 @@ Fire Emblem Echoes: Shadows of Valentia</p></td>
 <td><p><a href="../Page/任天堂3DS.md" title="wikilink">任天堂3DS</a></p></td>
 <td><p><a href="../Page/任天堂.md" title="wikilink">任天堂</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/FC遊戲機" title="wikilink">FC遊戲機作品</a>《<a href="https://zh.wikipedia.org/wiki/聖火降魔錄外傳" title="wikilink">聖火降魔錄外傳</a>》的重製版</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/火焰之纹章_风花雪月.md" title="wikilink">火焰之纹章 风花雪月</a><br />
+Fire Emblem 风花雪月<br />
+<br />
+Fire Emblem: Three Houses</p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/戰略角色扮演遊戲" title="wikilink">战略角色扮演</a></p></td>
+<td><p><a href="../Page/任天堂Switch.md" title="wikilink">任天堂Switch</a></p></td>
+<td><p><a href="../Page/任天堂.md" title="wikilink">任天堂</a></p></td>
+<td></td>
 </tr>
 </tbody>
 </table>

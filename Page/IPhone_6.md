@@ -10,7 +10,7 @@ iPhone 6和6 Plus獲得了正面的評價，評論員就著其重新設計、規
 
 2015年9月9日，蘋果公司推出[iPhone 6S及](https://zh.wikipedia.org/wiki/iPhone_6S "wikilink")[iPhone 6S Plus](https://zh.wikipedia.org/wiki/iPhone_6S_Plus "wikilink")，以替換iPhone 6和iPhone 6 Plus，作為iPhone系列的旗艦設備，上述型號已轉移到蘋果公司的iPhone系列中端位置。2016年9月7日，蘋果公司推出[iPhone 7及](https://zh.wikipedia.org/wiki/iPhone_7 "wikilink")[iPhone 7 Plus時](https://zh.wikipedia.org/wiki/iPhone_7_Plus "wikilink")，大多數市場決定停產iPhone 6及iPhone 6 Plus。他們聚焦於作為入門級iPhone的[iPhone SE身上](https://zh.wikipedia.org/wiki/iPhone_SE "wikilink")，並於較早的2016年3月31日發行。2017年2月，iPhone 6在亞洲市場重新推出32GB的存儲容量版本，作為了中端或預算iPhone。它後來擴展至歐洲\[8\]\[9\]，並在後來的2017年5月打進美國市場\[10\]，和2017年7月的加拿大\[11\]。
 
-iPhone 6和iPhone 6 Plus支援[iOS 8](https://zh.wikipedia.org/wiki/iOS_8 "wikilink")、[iOS 9](https://zh.wikipedia.org/wiki/iOS_9 "wikilink")、[iOS 10](https://zh.wikipedia.org/wiki/iOS_10 "wikilink")、[iOS 11](https://zh.wikipedia.org/wiki/iOS_11 "wikilink")、[iOS 12](https://zh.wikipedia.org/wiki/iOS_12 "wikilink")，及現時最新的[iOS 13](https://zh.wikipedia.org/wiki/iOS_13 "wikilink")，而繼iPhone 4S及iPhone 5後，它們是第三個支援5個版本iOS的iPhone。
+iPhone 6和iPhone 6 Plus支援[iOS 8](https://zh.wikipedia.org/wiki/iOS_8 "wikilink")、[iOS 9](https://zh.wikipedia.org/wiki/iOS_9 "wikilink")、[iOS 10](https://zh.wikipedia.org/wiki/iOS_10 "wikilink")、[iOS 11](https://zh.wikipedia.org/wiki/iOS_11 "wikilink")、[iOS 12](https://zh.wikipedia.org/wiki/iOS_12 "wikilink")，而繼iPhone 4S及iPhone 5後，它們是第三個支援5個版本iOS的iPhone。
 
 ## 歷史
 

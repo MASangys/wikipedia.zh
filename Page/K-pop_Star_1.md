@@ -110,7 +110,7 @@
 <tr class="even">
 <td><p>9</p></td>
 <td><p>트리플어스(팀)</p></td>
-<td><p>니가 있어야 할 곳 - <a href="https://zh.wikipedia.org/wiki/god" title="wikilink">god</a> / 자작곡</p></td>
+<td><p>니가 있어야 할 곳 - <a href="https://zh.wikipedia.org/wiki/g.o.d" title="wikilink">g.o.d</a> / 자작곡</p></td>
 <td><p>O</p></td>
 <td><p>O</p></td>
 </tr>

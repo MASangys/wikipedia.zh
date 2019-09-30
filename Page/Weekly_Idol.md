@@ -3134,6 +3134,24 @@ Weekly Idol 8周年特辑 (暑假特辑2)</p></td>
 <td><p>HWALL缺席</p></td>
 </tr>
 <tr class="odd">
+<td><p>422</p></td>
+<td><p>8月28日</p></td>
+<td><p><a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a><sup>7th</sup></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>423</p></td>
+<td><p>9月4日</p></td>
+<td><p><a href="../Page/EVERGLOW.md" title="wikilink">EVERGLOW</a><sup>1st</sup>、<a href="../Page/Weki_Meki.md" title="wikilink">Weki Meki</a><sup>3rd</sup></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>424</p></td>
+<td><p>9月11日</p></td>
+<td></td>
+<td><p><strong>中秋特輯 - 名場面片段、未播出片段</strong></p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>

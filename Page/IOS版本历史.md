@@ -1,8 +1,4 @@
-**IOS版本历史**列举了[苹果公司为移动设备所开发的iOS](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[操作系统](../Page/操作系统.md "wikilink")，支持的设备包括[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")、[iPod
-touch](https://zh.wikipedia.org/wiki/iPod_touch "wikilink")、[iPad](https://zh.wikipedia.org/wiki/iPad "wikilink")、[Apple
-TV的版本历史](../Page/Apple_TV.md "wikilink")。[iOS可以通过](https://zh.wikipedia.org/wiki/iOS "wikilink")[iTunes对设备进行升级](https://zh.wikipedia.org/wiki/iTunes "wikilink")，iOS
-5.0及以上版本亦可以通过[OTA的方式进行软件更新](https://zh.wikipedia.org/wiki/OTA "wikilink")。[iOS必须要与设备通过苹果服务器进行激活](https://zh.wikipedia.org/wiki/iOS "wikilink")，激活方式可以通过[iTunes](https://zh.wikipedia.org/wiki/iTunes "wikilink")，iOS
-5.0及以上版本可以通过[iCloud服务激活](https://zh.wikipedia.org/wiki/iCloud "wikilink")，并且自动同步。iOS會依據手機的存儲大小來分配系統所占用的儲存空間。
+**iOS版本历史**列举了[苹果公司为移动设备所开发的iOS](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[操作系统](../Page/操作系统.md "wikilink")，支持的设备包括[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")、[iPod touch](https://zh.wikipedia.org/wiki/iPod_touch "wikilink")、[iPad的版本历史](https://zh.wikipedia.org/wiki/iPad "wikilink")。[iOS可以通过](https://zh.wikipedia.org/wiki/iOS "wikilink")[iTunes对设备进行升级](https://zh.wikipedia.org/wiki/iTunes "wikilink")，iOS 5.0及以上版本亦可以通过[OTA的方式进行软件更新](https://zh.wikipedia.org/wiki/空中編程 "wikilink")。[iOS必须要与设备通过苹果服务器进行激活](https://zh.wikipedia.org/wiki/iOS "wikilink")，激活方式可以通过[iTunes](https://zh.wikipedia.org/wiki/iTunes "wikilink")，iOS 5.0及以上版本可以通过[iCloud服务激活](https://zh.wikipedia.org/wiki/iCloud "wikilink")，并且自动同步。iOS 12.4之後的版本更可以通過舊iPhone直接將資料傳輸到新iPhone。iOS會依據手機的存儲大小來分配系統所占用的儲存空間。
 
 {{-}}
 
@@ -25,7 +21,7 @@ TV的版本历史](../Page/Apple_TV.md "wikilink")。[iOS可以通过](https://z
 <tr class="odd">
 <td><p>iPad</p></td>
 <td><p>iPhone</p></td>
-<td><p>iPod Touch</p></td>
+<td><p>iPod touch</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -86,8 +82,26 @@ TV的版本历史](../Page/Apple_TV.md "wikilink")。[iOS可以通过](https://z
 <td></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/#9.3.6" title="wikilink">9.3.6</a></p></td>
+<td><p>13G37</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>rowspan=3 </p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/#10.3.3" title="wikilink">10.3.3</a></p></td>
 <td><p>14G60</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/#10.3.4" title="wikilink">10.3.4</a></p></td>
+<td><p>14G61</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -99,13 +113,13 @@ TV的版本历史](../Page/Apple_TV.md "wikilink")。[iOS可以通过](https://z
 <td><p>15G77</p></td>
 <td><p>64位元ARM架構</p></td>
 <td></td>
-<td><p>colspan=3 rowspan=2 </p></td>
+<td><p>colspan=3 rowspan=1 </p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/#12.3" title="wikilink">12.3</a></p></td>
-<td><p>16F156</p></td>
+<td><p>style="background:#d4f4b4|<a href="https://zh.wikipedia.org/wiki/#12.4" title="wikilink">12.4</a></p></td>
+<td><p>16G77</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -113,10 +127,20 @@ TV的版本历史](../Page/Apple_TV.md "wikilink")。[iOS可以通过](https://z
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>style="background:#c1e6f5|<a href="https://zh.wikipedia.org/wiki/#13.0" title="wikilink">13.0 Beta 4</a></p></td>
+<td><p>17A5534f</p></td>
+<td></td>
+<td><p>colspan=3 rowspam=1 </p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><table>
 <thead>
 <tr class="header">
 <th><p>說明：</p></th>
+<th></th>
 <th></th>
 <th></th>
 <th></th>
@@ -151,7 +175,7 @@ TV的版本历史](../Page/Apple_TV.md "wikilink")。[iOS可以通过](https://z
 </tbody>
 </table>
 
-#### iOS 1.x
+#### iPhone OS 1
 
 <table>
 <thead>
@@ -200,7 +224,7 @@ TV的版本历史](../Page/Apple_TV.md "wikilink")。[iOS可以通过](https://z
 </tr>
 </tbody>
 </table>
-<p><strong>此版本預載於 iPod Touch (第一代)</strong></p></td>
+<p><strong>此版本為 iPod touch (第一代) 發售時的最初版本</strong></p></td>
 </tr>
 <tr class="even">
 <td><p>版本</p></td>
@@ -221,7 +245,7 @@ TV的版本历史](../Page/Apple_TV.md "wikilink")。[iOS可以通过](https://z
 <td><p>1.1.4</p></td>
 </tr>
 <tr class="even">
-<td><p>Post-iPhone OS 2.0 Update</p></td>
+<td><p>於 iPhone OS 2.0 釋出之後的更新</p></td>
 </tr>
 <tr class="odd">
 <td><p>1.1.5</p></td>
@@ -229,445 +253,12 @@ TV的版本历史](../Page/Apple_TV.md "wikilink")。[iOS可以通过](https://z
 </tbody>
 </table>
 
-#### iOS 2.x
+#### iPhone OS 2
 
 <table>
 <thead>
 <tr class="header">
-<th><p>版本</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/SDK" title="wikilink">SDK</a><br />
-组件编号</p></th>
-<th><p>基带编号</p></th>
-<th><p>发布日期</p></th>
-<th><p>支持设备</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>iPhone / iPod Touch</p></td>
-<td><p>iPhone 3G / iPod Touch 2</p></td>
-<td><p>iPhone 3GS / iPod Touch 3</p></td>
-<td><p>iPhone 4 / iPod Touch 4</p></td>
-<td><p>iPhone 5 / iPod Touch 5</p></td>
-</tr>
-<tr class="even">
-<td><p>2.0</p></td>
-<td><p>5A347</p></td>
-<td><p>04.05.04_G<br />
-01.45.00</p></td>
-<td><p>2008年7月11日</p></td>
-<td><p>O</p></td>
-</tr>
-<tr class="odd">
-<td><p>2.0.1</p></td>
-<td><p>5B108</p></td>
-<td><p>04.05.04_G<br />
-01.48.02</p></td>
-<td><p>2008年8月4日</p></td>
-<td><p>O</p></td>
-</tr>
-<tr class="even">
-<td><p>2.0.2</p></td>
-<td><p>5C1</p></td>
-<td><p>04.05.04_G<br />
-02.08.01</p></td>
-<td><p>2008年8月18日</p></td>
-<td><p>O</p></td>
-</tr>
-<tr class="odd">
-<td><p>2.1</p></td>
-<td><p>5F136<br />
-5F137<br />
-<em>9M2517</em></p></td>
-<td><p>04.05.04_G<br />
-02.11.07</p></td>
-<td><p>2008年9月9日</p></td>
-<td><p>O</p></td>
-</tr>
-<tr class="even">
-<td><p>2.1.1</p></td>
-<td><p>5F138</p></td>
-<td></td>
-<td><p>2008年9月9日</p></td>
-<td><p>O</p></td>
-</tr>
-<tr class="odd">
-<td><p>2.2</p></td>
-<td><p>5G77<br />
-5G77a</p></td>
-<td><p>04.05.04<br />
-02.28.00</p></td>
-<td><p>2008年11月21日</p></td>
-<td><p>O</p></td>
-</tr>
-<tr class="even">
-<td><p>rowspan=1 ; white-space: nowrap" |2.2.1</p></td>
-<td><p>5H11<br />
-5H11a<br />
-<em>9M2621a</em></p></td>
-<td><p>04.05.04_G<br />
-02.30.03</p></td>
-<td><p>2009年2月27日</p></td>
-<td><p>O</p></td>
-</tr>
-</tbody>
-</table>
-
-#### iOS 3.x
-
-<table>
-<thead>
-<tr class="header">
-<th><p>版本</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/SDK" title="wikilink">SDK</a><br />
-组件编号</p></th>
-<th><p>基带编号</p></th>
-<th><p>发布日期</p></th>
-<th><p>支持设备</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>iPhone / iPod Touch</p></td>
-<td><p>iPhone 3G / iPod Touch 2</p></td>
-<td><p>iPhone 3GS / iPod Touch 3</p></td>
-<td><p>iPhone 4 / iPod Touch 4</p></td>
-<td><p>iPhone 5 / iPod Touch 5</p></td>
-</tr>
-<tr class="even">
-<td><p>3.0</p></td>
-<td><p>style="white-space: nowrap | 7A341</p></td>
-<td><p>style=" | 04.05.04_G<br />
-04.26.08</p></td>
-<td><p>style=" | 2009年6月17日</p></td>
-<td><p>O</p></td>
-</tr>
-<tr class="odd">
-<td><p>3.0.1</p></td>
-<td><p>7A400</p></td>
-<td><p>04.05.04_G<br />
-04.26.08</p></td>
-<td><p>2009年7月31日</p></td>
-<td><p>O</p></td>
-</tr>
-<tr class="even">
-<td><p>3.1</p></td>
-<td><p>7C144<br />
-7C145</p></td>
-<td><p>04.05.04_G<br />
-5.11.04<br />
-5.11.07</p></td>
-<td><p>2009年9月9日</p></td>
-<td><p>O</p></td>
-</tr>
-<tr class="odd">
-<td><p>3.1.2</p></td>
-<td><p>7D11</p></td>
-<td><p>04.05.04_G<br />
-5.11.07</p></td>
-<td><p>2009年10月8日</p></td>
-<td><p>O</p></td>
-</tr>
-<tr class="even">
-<td><p>3.1.3</p></td>
-<td><p>7E18</p></td>
-<td><p>05.12.01</p></td>
-<td><p>2010年1月2日</p></td>
-<td><p>O</p></td>
-</tr>
-<tr class="odd">
-<td><p>3.2</p></td>
-<td><p>7B367</p></td>
-<td><p>06.15.00</p></td>
-<td><p>2010年1月27日</p></td>
-<td><p>X</p></td>
-</tr>
-<tr class="even">
-<td><p>3.2.1</p></td>
-<td><p>7B405</p></td>
-<td><p>06.15.00</p></td>
-<td><p>2010年6月21日</p></td>
-<td><p>X</p></td>
-</tr>
-</tbody>
-</table>
-
-#### iOS 4.x
-
-在iOS 4中，[iPod
-Touch用戶首次不必支付更新費用](../Page/IPod_touch.md "wikilink")。用戶需要使用[iTunes](https://zh.wikipedia.org/wiki/iTunes "wikilink")
-10.5之後的版本才能更新至iOS 4。在此版升級中，[iPhone
-4](https://zh.wikipedia.org/wiki/iPhone_4 "wikilink")、[iPhone
-3GS](https://zh.wikipedia.org/wiki/iPhone_3GS "wikilink")、[iPod Touch
-3和](https://zh.wikipedia.org/wiki/iPod_Touch_3 "wikilink")[iPod Touch
-4可享有所有的iOS](https://zh.wikipedia.org/wiki/iPod_Touch_4 "wikilink")
-4功能，但[iPhone
-3G和](https://zh.wikipedia.org/wiki/iPhone_3G "wikilink")[iPod Touch
-2並沒有獲得所有的](https://zh.wikipedia.org/wiki/iPod_Touch_2 "wikilink")
-iOS 4
-功能如[多工處理](https://zh.wikipedia.org/wiki/多元處理 "wikilink")、改變主屏幕壁紙的能力和[藍芽鍵盤等](../Page/藍牙.md "wikilink")；[iPhone
-(第一代)和](https://zh.wikipedia.org/wiki/iPhone_\(第一代\) "wikilink")[iPod
-Touch
-(第一代)甚至無法更新至iOS](https://zh.wikipedia.org/wiki/IPod_Touch\(第一代\) "wikilink")
-4。2010年發布的iOS 4.1是第一個支援[Apple
-TV](../Page/Apple_TV.md "wikilink")（第2代）的版本（Apple
-TV軟體4.1，也包括Apple TV軟體4.0）。2010年11月22日，iOS
-4.2.1發布，是第一個兼容[iPad的主要版本](https://zh.wikipedia.org/wiki/Ipad "wikilink")，這也是最後一個支援[iPhone
-3G和](https://zh.wikipedia.org/wiki/iPhone_3G "wikilink")[iPod touch
-2](https://zh.wikipedia.org/wiki/iPod_touch_2 "wikilink")（MB和MC機種）的版本。
-
-<table>
-<thead>
-<tr class="header">
-<th><p>版本</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/SDK" title="wikilink">SDK</a><br />
-组件编号</p></th>
-<th><p>基带编号</p></th>
-<th><p>发布日期</p></th>
-<th><p>支持设备</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>iPhone / iPod Touch</p></td>
-<td><p>iPhone 3G / iPod Touch 2</p></td>
-<td><p>iPhone 3GS / iPod Touch 3</p></td>
-<td><p>iPhone 4 / iPod Touch 4</p></td>
-<td><p>iPhone 5 / iPod Touch 5</p></td>
-</tr>
-<tr class="even">
-<td><p>4.0</p></td>
-<td><p>8A293</p></td>
-<td><p>05.13.04<br />
-</p></td>
-<td><p>2010年7月15日</p></td>
-<td><p>X</p></td>
-</tr>
-<tr class="odd">
-<td><p>4.0.1</p></td>
-<td><p>8A306</p></td>
-<td><p>05.13.04<br />
-</p></td>
-<td><p>2010年7月16日</p></td>
-<td><p>X</p></td>
-</tr>
-<tr class="even">
-<td><p>4.1</p></td>
-<td><p>8B117</p></td>
-<td><p>05.14.02<br />
-</p></td>
-<td><p>2010年9月8日</p></td>
-<td><p>X</p></td>
-</tr>
-<tr class="odd">
-<td><p>4.2.1</p></td>
-<td><p>8C148</p></td>
-<td><p>05.15.04<br />
-</p></td>
-<td><p>2010年11月23日</p></td>
-<td><p>X</p></td>
-</tr>
-<tr class="even">
-<td><p>4.2.5</p></td>
-<td><p>8E128</p></td>
-<td><p>-<br />
-</p></td>
-<td><p>2011年1月11日</p></td>
-<td><p>X</p></td>
-</tr>
-<tr class="odd">
-<td><p>4.2.6</p></td>
-<td><p>8E200</p></td>
-<td><p>-<br />
-</p></td>
-<td><p>2011年2月1日</p></td>
-<td><p>X</p></td>
-</tr>
-<tr class="even">
-<td><p>4.2.7</p></td>
-<td><p>8E303</p></td>
-<td><p>-<br />
-</p></td>
-<td><p>2011年4月14日</p></td>
-<td><p>X</p></td>
-</tr>
-<tr class="odd">
-<td><p>4.2.9</p></td>
-<td><p>8E501</p></td>
-<td><p>-<br />
-</p></td>
-<td><p>2011年7月16日</p></td>
-<td><p>X</p></td>
-</tr>
-<tr class="even">
-<td><p>4.3</p></td>
-<td><p>8F190</p></td>
-<td><p>05.16.01<br />
-</p></td>
-<td><p>2011年3月10日</p></td>
-<td><p>X</p></td>
-</tr>
-<tr class="odd">
-<td><p>4.3.1</p></td>
-<td><p>8G4</p></td>
-<td><p>04.10.01<br />
-</p></td>
-<td><p>2011年3月26日</p></td>
-<td><p>X</p></td>
-</tr>
-<tr class="even">
-<td><p>4.3.2</p></td>
-<td><p>8H7</p></td>
-<td><p>05.16.02<br />
-</p></td>
-<td><p>2011年4月15日</p></td>
-<td><p>X</p></td>
-</tr>
-<tr class="odd">
-<td><p>4.3.3</p></td>
-<td><p>8J2</p></td>
-<td><p>05.16.02<br />
-</p></td>
-<td><p>2011年5月5日</p></td>
-<td><p>X</p></td>
-</tr>
-<tr class="even">
-<td><p>4.3.4</p></td>
-<td><p>8K2</p></td>
-<td><p>05.16.02<br />
-</p></td>
-<td><p>2011年7月16日</p></td>
-<td><p>X</p></td>
-</tr>
-<tr class="odd">
-<td><p>4.3.5</p></td>
-<td><p>8L1</p></td>
-<td><p>05.16.02<br />
-</p></td>
-<td><p>2011年7月26日</p></td>
-<td><p>X</p></td>
-</tr>
-<tr class="even">
-<td><p>4.4</p></td>
-<td><p>9A334</p></td>
-<td><p>-<br />
-</p></td>
-<td><p>2011年10月12日</p></td>
-<td><p>X</p></td>
-</tr>
-<tr class="odd">
-<td><p>4.4.1</p></td>
-<td><p>9A335</p></td>
-<td><p>-<br />
-</p></td>
-<td><p>2011年10月17日</p></td>
-<td><p>X</p></td>
-</tr>
-<tr class="even">
-<td><p>4.4.2</p></td>
-<td><p>9A336</p></td>
-<td><p>-<br />
-</p></td>
-<td><p>2011年10月24日</p></td>
-<td><p>X</p></td>
-</tr>
-<tr class="odd">
-<td><p>4.4.3</p></td>
-<td><p>9A405</p></td>
-<td><p>-<br />
-</p></td>
-<td><p>2011年11月17日</p></td>
-<td><p>X</p></td>
-</tr>
-<tr class="even">
-<td><p>4.4.4</p></td>
-<td><p>9A406</p></td>
-<td><p>-<br />
-</p></td>
-<td><p>2011年12月15日</p></td>
-<td><p>X</p></td>
-</tr>
-</tbody>
-</table>
-
-#### iOS 5.x
-
-<table>
-<thead>
-<tr class="header">
-<th><p>版本</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/SDK" title="wikilink">SDK</a><br />
-组件编号</p></th>
-<th><p>基带编号</p></th>
-<th><p>发布日期</p></th>
-<th><p>支持设备</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>iPhone / iPod Touch</p></td>
-<td><p>iPhone 3G / iPod Touch 2</p></td>
-<td><p>iPhone 3GS / iPod Touch 3</p></td>
-<td><p>iPhone 4 / iPod Touch 4</p></td>
-<td><p>iPhone 5 / iPod Touch 5</p></td>
-</tr>
-<tr class="even">
-<td><p>5.0</p></td>
-<td><p>9A334</p></td>
-<td><p>04.11.08<br />
-</p></td>
-<td><p>2011年10月12日</p></td>
-<td><p>X</p></td>
-</tr>
-<tr class="odd">
-<td><p>5.0.1</p></td>
-<td><p>9A405</p></td>
-<td><p>04.11.08<br />
-</p></td>
-<td><p>2011年11月11日</p></td>
-<td><p>X</p></td>
-</tr>
-<tr class="even">
-<td><p>5.1</p></td>
-<td><p>9B179</p></td>
-<td><p>2.0.10<br />
-</p></td>
-<td><p>2012年3月8日</p></td>
-<td><p>X</p></td>
-</tr>
-<tr class="odd">
-<td><p>5.1.1</p></td>
-<td><p>9B206</p></td>
-<td><p>2.0.12<br />
-</p></td>
-<td><p>2012年5月8日</p></td>
-<td><p>X</p></td>
-</tr>
-<tr class="even">
-<td><p>5.1.1</p></td>
-<td><p>9B208</p></td>
-<td><p>2.0.12<br />
-</p></td>
-<td><p>2012年5月25日</p></td>
-<td><p>X</p></td>
-</tr>
-</tbody>
-</table>
-
-#### iOS 6.x
-
-#### iOS 7.x
-
-#### iOS 8.x
-
-#### iOS 9.x
-
-#### iOS 10
-
-<table>
-<thead>
-<tr class="header">
-<th><p>版本列表: iOS 10.0.x</p></th>
+<th><p>版本列表：iPhone OS 2.0.x</p></th>
 </tr>
 </thead>
 <tbody>
@@ -675,36 +266,886 @@ TV軟體4.1，也包括Apple TV軟體4.0）。2010年11月22日，iOS
 <td><table>
 <tbody>
 <tr class="odd">
-<td><p>{{flatlist|<small>iPad 家族:</small></p></td>
-<td><p>{{flatlist|<small>iPad 家族:</small></p>
-<ul>
-<li><a href="https://zh.wikipedia.org/wiki/iPad_(第4代)" title="wikilink">第4代</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPad_Air" title="wikilink">Air</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPad_Air_2" title="wikilink">Air 2</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPad_Mini_2" title="wikilink">Mini 2</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPad_Mini_3" title="wikilink">Mini 3</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPad_Mini_4" title="wikilink">Mini 4</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPad_Pro" title="wikilink">Pro 9.7吋</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPad_Pro" title="wikilink">Pro 12.9吋</a></li>
-</ul></td>
-<td><p>{{flatlist|<small>iPhone 系列:</small></p>
-<ul>
-<li><a href="https://zh.wikipedia.org/wiki/iPhone_5" title="wikilink">5</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPhone_5C" title="wikilink">5C</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPhone_5S" title="wikilink">5S</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPhone_SE" title="wikilink">SE</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPhone_6" title="wikilink">6</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPhone_6" title="wikilink">6 Plus</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPhone_6S" title="wikilink">6S</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPhone_6S" title="wikilink">6S Plus</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPhone_7" title="wikilink">7</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPhone_7" title="wikilink">7 Plus</a></li>
-</ul></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+<tr class="even">
+<td><p>版本</p></td>
+</tr>
+<tr class="odd">
+<td><p>2.0</p></td>
+</tr>
+<tr class="even">
+<td><p>2.0.1</p></td>
+</tr>
+<tr class="odd">
+<td><p>2.0.2</p></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr class="header">
+<th><p>版本列表：iPhone OS 2.1.x</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><table>
+<tbody>
+<tr class="odd">
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+<tr class="even">
+<td><p>版本</p></td>
+</tr>
+<tr class="odd">
+<td><p>2.1 / 2.1.1</p></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr class="header">
+<th><p>版本列表：iPhone OS 2.2.x</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><table>
+<tbody>
+<tr class="odd">
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+<tr class="even">
+<td><p>版本</p></td>
+</tr>
+<tr class="odd">
+<td><p>2.2</p></td>
+</tr>
+<tr class="even">
+<td><p>2.2.1</p></td>
+</tr>
+</tbody>
+</table>
+
+#### iPhone OS 3
+
+<table>
+<thead>
+<tr class="header">
+<th><p>style=background:#ececec; white-space padding:0 0.5em;" colspan="5"|版本列表：iPhone OS 3.0.x</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><table>
+<tbody>
+<tr class="odd">
+<td></td>
 <td></td>
 </tr>
 </tbody>
 </table>
-<p><strong>可能無法在 iPad (第4代), iPhone 5 与 iPhone 5C 使用部分新功能。</strong></p></td>
+<p><strong>可能無法在 iPhone 2G、iPod touch (第一代) 使用部分功能</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>版本</p></td>
+</tr>
+<tr class="odd">
+<td><p>3.0</p></td>
+</tr>
+<tr class="even">
+<td><p>3.0.1</p></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr class="header">
+<th><p>id="3.1.3" style=background:#fdb3ab; white-space padding:0 0.5em;" colspan="5"|版本列表：iPhone OS 3.1.x</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><table>
+<tbody>
+<tr class="odd">
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>可能無法在 iPhone 2G、iPod touch (第一代) 使用部分功能</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>版本</p></td>
+</tr>
+<tr class="odd">
+<td><p>3.1 / 3.1.1</p></td>
+</tr>
+<tr class="even">
+<td><p>3.1.2</p></td>
+</tr>
+<tr class="odd">
+<td><p>3.1.3</p></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr class="header">
+<th><p>style=background:#ececec; white-space padding:0 0.5em;" colspan="5"|版本列表：iPhone OS 3.2.x (適用於 iPad)[1]</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><table>
+<tbody>
+<tr class="odd">
+<td></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+<tr class="even">
+<td><p>版本</p></td>
+</tr>
+<tr class="odd">
+<td><p>3.2</p></td>
+</tr>
+<tr class="even">
+<td><p>於 iOS 4 釋出之後的更新 (適用於 iPad)</p></td>
+</tr>
+<tr class="odd">
+<td><p>3.2.1</p></td>
+</tr>
+<tr class="even">
+<td><p>3.2.2</p></td>
+</tr>
+</tbody>
+</table>
+
+#### iOS 4
+
+在iOS 4中，[iPod touch用戶首次不必支付更新費用](https://zh.wikipedia.org/wiki/iPod_touch "wikilink")。用戶需要使用[iTunes](https://zh.wikipedia.org/wiki/iTunes "wikilink") 10.5之後的版本才能更新至iOS 4。在此版升級中，[iPhone 4](https://zh.wikipedia.org/wiki/iPhone_4 "wikilink")、[iPhone 3GS](https://zh.wikipedia.org/wiki/iPhone_3GS "wikilink")、[iPod touch (第三代)和](../Page/IPod_touch.md "wikilink")[iPod touch (第四代)可享有所有的iOS](https://zh.wikipedia.org/wiki/iPod_touch_\(第四代\) "wikilink") 4功能，但[iPhone 3G和](https://zh.wikipedia.org/wiki/iPhone_3G "wikilink")[iPod touch (第二代)並沒有獲得所有的](../Page/IPod_touch.md "wikilink") iOS 4 功能如[多工處理](https://zh.wikipedia.org/wiki/多元處理 "wikilink")、改變主屏幕壁紙的能力和[藍芽鍵盤等](../Page/藍牙.md "wikilink")；[iPhone (第一代)和](https://zh.wikipedia.org/wiki/iPhone_\(第一代\) "wikilink")[iPod touch (第一代)甚至無法更新至iOS](../Page/IPod_touch.md "wikilink") 4。2010年發布的iOS 4.1是第一個支援[Apple TV](../Page/Apple_TV.md "wikilink")（第二代）的版本（Apple TV軟體4.1，也包括Apple TV軟體4.0）。2010年11月22日，iOS 4.2.1發布，是第一個兼容[iPad的主要版本](https://zh.wikipedia.org/wiki/Ipad "wikilink")，這也是最後一個支援[iPhone 3G和](https://zh.wikipedia.org/wiki/iPhone_3G "wikilink")[iPod touch (第二代)](../Page/IPod_touch.md "wikilink")（MB和MC機種）的版本。
+
+<table>
+<thead>
+<tr class="header">
+<th><p>Table of versions: iOS 4.0.x – 仅在iPod Touch和iPhone</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><table>
+<tbody>
+<tr class="odd">
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><em>有限支持在 <a href="https://zh.wikipedia.org/wiki/iPhone_3G" title="wikilink">iPhone 3G</a> 和 <a href="https://zh.wikipedia.org/wiki/iPod_Touch_(2nd_generation)" title="wikilink">iPod Touch (2nd generation)</a></em></p></td>
+</tr>
+<tr class="even">
+<td><p>Version</p></td>
+</tr>
+<tr class="odd">
+<td><p>4.0</p></td>
+</tr>
+<tr class="even">
+<td><p>4.0.1</p></td>
+</tr>
+<tr class="odd">
+<td><p>4.0.2</p></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr class="header">
+<th><p>Table of versions: iOS 4.1 – 仅在iPod Touch和iPhone</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><table>
+<tbody>
+<tr class="odd">
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><em>Limited support on <a href="https://zh.wikipedia.org/wiki/iPhone_3G" title="wikilink">iPhone 3G</a> and <a href="https://zh.wikipedia.org/wiki/iPod_Touch_(2nd_generation)" title="wikilink">iPod Touch (2nd generation)</a></em></p></td>
+</tr>
+<tr class="even">
+<td><p>Version</p></td>
+</tr>
+<tr class="odd">
+<td><p>4.1</p></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr class="header">
+<th><p>Table of versions: iOS 4.2.x</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><table>
+<tbody>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><em>有限支持在 <a href="https://zh.wikipedia.org/wiki/iPhone_3G" title="wikilink">iPhone 3G</a> 和 <a href="https://zh.wikipedia.org/wiki/iPod_Touch_(2nd_generation)" title="wikilink">iPod Touch (2nd generation)</a></em></p></td>
+</tr>
+<tr class="even">
+<td><p>Version</p></td>
+</tr>
+<tr class="odd">
+<td><p>4.2.1</p></td>
+</tr>
+<tr class="even">
+<td><p>4.2.5</p></td>
+</tr>
+<tr class="odd">
+<td><p>4.2.6</p></td>
+</tr>
+<tr class="even">
+<td><p>4.2.7</p></td>
+</tr>
+<tr class="odd">
+<td><p>4.2.8</p></td>
+</tr>
+<tr class="even">
+<td><p>4.2.9</p></td>
+</tr>
+<tr class="odd">
+<td><p>4.2.10</p></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr class="header">
+<th><p>Table of versions: iOS 4.3.x</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><table>
+<tbody>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+<tr class="even">
+<td><p>Version</p></td>
+</tr>
+<tr class="odd">
+<td><p>4.3</p></td>
+</tr>
+<tr class="even">
+<td><p>4.3.1</p></td>
+</tr>
+<tr class="odd">
+<td><p>4.3.2</p></td>
+</tr>
+<tr class="even">
+<td><p>4.3.3</p></td>
+</tr>
+<tr class="odd">
+<td><p>4.3.4</p></td>
+</tr>
+<tr class="even">
+<td><p>4.3.5</p></td>
+</tr>
+</tbody>
+</table>
+
+### iOS 5
+
+<table>
+<thead>
+<tr class="header">
+<th><p>Table of versions: iOS 5.0.x</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><table>
+<tbody>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><em>Limited support on <a href="https://zh.wikipedia.org/wiki/iPad_(1st_generation)" title="wikilink">iPad (1st generation)</a> and <a href="https://zh.wikipedia.org/wiki/iPod_Touch" title="wikilink">iPod Touch</a> (3rd Generation)</em></p></td>
+</tr>
+<tr class="even">
+<td><p>Version</p></td>
+</tr>
+<tr class="odd">
+<td><p>5.0</p></td>
+</tr>
+<tr class="even">
+<td><p>5.0.1</p></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr class="header">
+<th><p>Table of versions: iOS 5.1.x</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><table>
+<tbody>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><em>Limited support on <a href="https://zh.wikipedia.org/wiki/iPad_(1st_generation)" title="wikilink">iPad (1st generation)</a> and <a href="https://zh.wikipedia.org/wiki/iPod_Touch" title="wikilink">iPod Touch</a> (3rd Generation)</em></p></td>
+</tr>
+<tr class="even">
+<td><p>Version</p></td>
+</tr>
+<tr class="odd">
+<td><p>5.1</p></td>
+</tr>
+<tr class="even">
+<td><p>5.1.1</p></td>
+</tr>
+</tbody>
+</table>
+
+#### iOS 6
+
+<table>
+<thead>
+<tr class="header">
+<th><p>版本列表：iOS 6.0.x</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><table>
+<tbody>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>可能無法在 iPhone 3GS、iPod touch (第四代) 上使用部分功能</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>版本</p></td>
+</tr>
+<tr class="odd">
+<td><p>6.0</p></td>
+</tr>
+<tr class="even">
+<td><p>6.0.1</p></td>
+</tr>
+<tr class="odd">
+<td><p>6.0.2</p></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr class="header">
+<th><p>版本列表：iOS 6.1.x</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><table>
+<tbody>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>可能無法在 iPhone 3GS、iPod touch (第四代) 上使用部分功能</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>版本</p></td>
+</tr>
+<tr class="odd">
+<td><p>6.1</p></td>
+</tr>
+<tr class="even">
+<td><p>6.1.1</p></td>
+</tr>
+<tr class="odd">
+<td><p>6.1.2</p></td>
+</tr>
+<tr class="even">
+<td><p>6.1.3</p></td>
+</tr>
+<tr class="odd">
+<td><p>6.1.4</p></td>
+</tr>
+<tr class="even">
+<td><p>於 iOS 7 釋出之後的更新</p></td>
+</tr>
+<tr class="odd">
+<td><p>6.1.5</p></td>
+</tr>
+<tr class="even">
+<td><p>6.1.6</p></td>
+</tr>
+</tbody>
+</table>
+
+#### iOS 7
+
+<table>
+<thead>
+<tr class="header">
+<th><p>版本列表：iOS 7.0.x</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><table>
+<tbody>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>可能無法在 iPhone 4 上使用部分功能</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>版本</p></td>
+</tr>
+<tr class="odd">
+<td><p>7.0</p></td>
+</tr>
+<tr class="even">
+<td><p>7.0.1</p></td>
+</tr>
+<tr class="odd">
+<td><p>7.0.2</p></td>
+</tr>
+<tr class="even">
+<td><p>7.0.3</p></td>
+</tr>
+<tr class="odd">
+<td><p>7.0.4</p></td>
+</tr>
+<tr class="even">
+<td><p>7.0.5</p></td>
+</tr>
+<tr class="odd">
+<td><p>7.0.6</p></td>
+</tr>
+<tr class="even">
+<td></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr class="header">
+<th><p>版本列表：iOS 7.1.x</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><table>
+<tbody>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>可能無法在 iPhone 4 上使用部分功能</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>版本</p></td>
+</tr>
+<tr class="odd">
+<td><p>7.1</p></td>
+</tr>
+<tr class="even">
+<td><p>7.1.1</p></td>
+</tr>
+<tr class="odd">
+<td><p>7.1.2</p></td>
+</tr>
+</tbody>
+</table>
+
+#### iOS 8
+
+<table>
+<thead>
+<tr class="header">
+<th><p>版本列表：iOS 8.0.x</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><table>
+<tbody>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+<tr class="even">
+<td><p>版本</p></td>
+</tr>
+<tr class="odd">
+<td><p>8.0</p></td>
+</tr>
+<tr class="even">
+<td><p>8.0.1</p></td>
+</tr>
+<tr class="odd">
+<td><p>8.0.2</p></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr class="header">
+<th><p>版本列表：iOS 8.1.x</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><table>
+<tbody>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+<tr class="even">
+<td><p>版本</p></td>
+</tr>
+<tr class="odd">
+<td><p>8.1</p></td>
+</tr>
+<tr class="even">
+<td><p>8.1.1</p></td>
+</tr>
+<tr class="odd">
+<td><p>8.1.2</p></td>
+</tr>
+<tr class="even">
+<td><p>8.1.3</p></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr class="header">
+<th><p>版本列表：iOS 8.2</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><table>
+<tbody>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+<tr class="even">
+<td><p>版本</p></td>
+</tr>
+<tr class="odd">
+<td><p>8.2</p></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr class="header">
+<th><p>版本列表：iOS 8.3</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><table>
+<tbody>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+<tr class="even">
+<td><p>版本</p></td>
+</tr>
+<tr class="odd">
+<td><p>8.3</p></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr class="header">
+<th><p>版本列表：iOS 8.4.x</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><table>
+<tbody>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+<tr class="even">
+<td><p>版本</p></td>
+</tr>
+<tr class="odd">
+<td><p>8.4</p></td>
+</tr>
+<tr class="even">
+<td><p>8.4.1</p></td>
+</tr>
+</tbody>
+</table>
+
+#### iOS 9
+
+<table>
+<thead>
+<tr class="header">
+<th><p>版本列表：iOS 9.0.x</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><table>
+<tbody>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>可能無法在 iPad (第二代)、iPad (第三代)、iPad mini、iPhone 4S、iPod touch (第五代) 上使用部分功能</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>版本</p></td>
+</tr>
+<tr class="odd">
+<td><p>9.0</p></td>
+</tr>
+<tr class="even">
+<td><p>9.0.1</p></td>
+</tr>
+<tr class="odd">
+<td><p>9.0.2</p></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr class="header">
+<th><p>版本列表：iOS 9.1</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><table>
+<tbody>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>可能無法在 iPad (第二代)、iPad (第三代)、iPad mini、iPhone 4S、iPod touch (第五代) 上使用部分功能</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>版本</p></td>
+</tr>
+<tr class="odd">
+<td><p>9.1</p></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr class="header">
+<th><p>版本列表：iOS 9.2.x</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><table>
+<tbody>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>可能無法在 iPad (第二代)、iPad (第三代)、iPad mini、iPhone 4S、iPod touch (第五代) 上使用部分功能</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>版本</p></td>
+</tr>
+<tr class="odd">
+<td><p>9.2</p></td>
+</tr>
+<tr class="even">
+<td><p>9.2.1</p></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr class="header">
+<th><p>版本列表：iOS 9.3.x</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><table>
+<tbody>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>可能無法在 iPad (第二代)、iPad (第三代)、iPad mini、iPhone 4S、iPod touch (第五代) 上使用部分功能</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>版本</p></td>
+</tr>
+<tr class="odd">
+<td><p>9.3</p></td>
+</tr>
+<tr class="even">
+<td><p>9.3.1</p></td>
+</tr>
+<tr class="odd">
+<td><p>9.3.2</p></td>
+</tr>
+<tr class="even">
+<td><p>9.3.3</p></td>
+</tr>
+<tr class="odd">
+<td><p>9.3.4</p></td>
+</tr>
+<tr class="even">
+<td><p>9.3.5</p></td>
+</tr>
+<tr class="odd">
+<td><p>於 iOS 12 之後釋出的更新</p></td>
+</tr>
+<tr class="even">
+<td><p>9.3.6</p></td>
+</tr>
+</tbody>
+</table>
+
+#### iOS 10
+
+<table>
+<thead>
+<tr class="header">
+<th><p>版本列表：iOS 10.0.x</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><table>
+<tbody>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>可能無法在 iPad (第四代)、iPhone 5、iPhone 5C 使用部分新功能</strong></p></td>
 </tr>
 <tr class="even">
 <td><p>版本</p></td>
@@ -727,7 +1168,7 @@ TV軟體4.1，也包括Apple TV軟體4.0）。2010年11月22日，iOS
 <table>
 <thead>
 <tr class="header">
-<th><p>版本列表: iOS 10.1.x</p></th>
+<th><p>版本列表：iOS 10.1.x</p></th>
 </tr>
 </thead>
 <tbody>
@@ -735,35 +1176,13 @@ TV軟體4.1，也包括Apple TV軟體4.0）。2010年11月22日，iOS
 <td><table>
 <tbody>
 <tr class="odd">
-<td><p>{{flatlist|<small>iPad 家族:</small></p>
-<ul>
-<li><a href="https://zh.wikipedia.org/wiki/iPad_(第4代)" title="wikilink">第4代</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPad_Air" title="wikilink">Air</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPad_Air_2" title="wikilink">Air 2</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPad_Mini_2" title="wikilink">Mini 2</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPad_Mini_3" title="wikilink">Mini 3</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPad_Mini_4" title="wikilink">Mini 4</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPad_Pro" title="wikilink">Pro 9.7吋</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPad_Pro" title="wikilink">Pro 12.9吋</a></li>
-</ul></td>
-<td><p>{{flatlist|<small>iPhone 系列:</small></p>
-<ul>
-<li><a href="https://zh.wikipedia.org/wiki/iPhone_5" title="wikilink">5</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPhone_5C" title="wikilink">5C</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPhone_5S" title="wikilink">5S</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPhone_SE" title="wikilink">SE</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPhone_6" title="wikilink">6</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPhone_6" title="wikilink">6 Plus</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPhone_6S" title="wikilink">6S</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPhone_6S" title="wikilink">6S Plus</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPhone_7" title="wikilink">7</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPhone_7" title="wikilink">7 Plus</a></li>
-</ul></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>
 </table>
-<p><strong>可能無法在 iPad (第4代), iPhone 5 与 iPhone 5C 使用部分新功能。</strong></p></td>
+<p><strong>可能無法在 iPad (第四代)、iPhone 5、iPhone 5C 使用部分新功能</strong></p></td>
 </tr>
 <tr class="even">
 <td><p>版本</p></td>
@@ -780,7 +1199,7 @@ TV軟體4.1，也包括Apple TV軟體4.0）。2010年11月22日，iOS
 <table>
 <thead>
 <tr class="header">
-<th><p>版本列表: iOS 10.2.x</p></th>
+<th><p>版本列表：iOS 10.2.x</p></th>
 </tr>
 </thead>
 <tbody>
@@ -788,36 +1207,13 @@ TV軟體4.1，也包括Apple TV軟體4.0）。2010年11月22日，iOS
 <td><table>
 <tbody>
 <tr class="odd">
-<td><p>{{flatlist|<small>iPad 家族:</small></p>
-<ul>
-<li><a href="https://zh.wikipedia.org/wiki/iPad_(第4代)" title="wikilink">第4代</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPad_(第5代)" title="wikilink">第5代</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPad_Air" title="wikilink">Air</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPad_Air_2" title="wikilink">Air 2</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPad_Mini_2" title="wikilink">Mini 2</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPad_Mini_3" title="wikilink">Mini 3</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPad_Mini_4" title="wikilink">Mini 4</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPad_Pro" title="wikilink">Pro 9.7吋</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPad_Pro" title="wikilink">Pro 12.9吋</a></li>
-</ul></td>
-<td><p>{{flatlist|<small>iPhone 系列:</small></p>
-<ul>
-<li><a href="https://zh.wikipedia.org/wiki/iPhone_5" title="wikilink">5</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPhone_5C" title="wikilink">5C</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPhone_5S" title="wikilink">5S</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPhone_SE" title="wikilink">SE</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPhone_6" title="wikilink">6</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPhone_6" title="wikilink">6 Plus</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPhone_6S" title="wikilink">6S</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPhone_6S" title="wikilink">6S Plus</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPhone_7" title="wikilink">7</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPhone_7" title="wikilink">7 Plus</a></li>
-</ul></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>
 </table>
-<p><strong>可能無法在 iPad (第4代), iPhone 5 与 iPhone 5C 使用部分新功能。</strong></p></td>
+<p><strong>可能無法在 iPad (第四代)、iPhone 5、iPhone 5C 使用部分新功能。</strong></p></td>
 </tr>
 <tr class="even">
 <td><p>版本</p></td>
@@ -834,7 +1230,7 @@ TV軟體4.1，也包括Apple TV軟體4.0）。2010年11月22日，iOS
 <table>
 <thead>
 <tr class="header">
-<th><p>版本列表: iOS 10.3.x</p></th>
+<th><p>版本列表：iOS 10.3.x</p></th>
 </tr>
 </thead>
 <tbody>
@@ -842,37 +1238,13 @@ TV軟體4.1，也包括Apple TV軟體4.0）。2010年11月22日，iOS
 <td><table>
 <tbody>
 <tr class="odd">
-<td><p>{{flatlist|<small>iPad 家族:</small></p></td>
-<td><p>{{flatlist|<small>iPad 系列:</small></p>
-<ul>
-<li><a href="https://zh.wikipedia.org/wiki/iPad_(第4代)" title="wikilink">第4代</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPad_(第5代)" title="wikilink">第5代</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPad_Air" title="wikilink">Air</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPad_Air_2" title="wikilink">Air 2</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPad_Mini_2" title="wikilink">Mini 2</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPad_Mini_3" title="wikilink">Mini 3</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPad_Mini_4" title="wikilink">Mini 4</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPad_Pro" title="wikilink">Pro 9.7吋</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPad_Pro" title="wikilink">Pro 12.9吋</a></li>
-</ul></td>
-<td><p>{{flatlist|<small>iPhone 系列:</small></p>
-<ul>
-<li><a href="https://zh.wikipedia.org/wiki/iPhone_5" title="wikilink">5</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPhone_5C" title="wikilink">5C</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPhone_5S" title="wikilink">5S</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPhone_SE" title="wikilink">SE</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPhone_6" title="wikilink">6</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPhone_6" title="wikilink">6 Plus</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPhone_6S" title="wikilink">6S</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPhone_6S" title="wikilink">6S Plus</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPhone_7" title="wikilink">7</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPhone_7" title="wikilink">7 Plus</a></li>
-</ul></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>
 </table>
-<p><strong>可能無法在 iPad (第4代), iPhone 5 与 iPhone 5C 使用部分新功能。</strong></p></td>
+<p><strong>可能無法在 iPad (第四代)、iPhone 5、iPhone 5C 使用部分新功能</strong></p></td>
 </tr>
 <tr class="even">
 <td><p>版本</p></td>
@@ -889,21 +1261,23 @@ TV軟體4.1，也包括Apple TV軟體4.0）。2010年11月22日，iOS
 <tr class="even">
 <td><p>10.3.3</p></td>
 </tr>
+<tr class="odd">
+<td><p>於 iOS 12 之後釋出的更新</p></td>
+</tr>
+<tr class="even">
+<td><p>10.3.4</p></td>
+</tr>
 </tbody>
 </table>
 
 #### iOS 11
 
-Apple于2017年6月5日在其年度Apple全球开发者大会（WWDC）上宣布推出iOS 11，并于2017年9月19日与iPhone
-8和iPhone 8 Plus一起向公众发布。在此版本中，Apple放弃了对32位iPhone 5和iPhone 5C以及iPad
-4的支持，使iOS成为仅运行64位应用程序的64位操作系统。iOS 11对配备A7处理器的设备提供的支持有限：iPhone
-5S，iPad Mini 2和iPad Mini 3以及iPad Air。但是，从iPhone SE开始的所有其他设备，完全支持iPod
-Touch（第6代）以及iPad Air 2以及iPad Mini 4以上版本。
+Apple于2017年6月5日在其年度Apple全球开发者大会（WWDC）上宣布推出iOS 11，并于2017年9月19日与iPhone 8和iPhone 8 Plus一起向公众发布。在此版本中，Apple放弃了对32位iPhone 5和iPhone 5C以及iPad 4的支持，使iOS成为仅运行64位应用程序的64位操作系统。iOS 11对配备A7处理器的设备提供的支持有限：iPhone 5S，iPad mini 2和iPad mini 3以及iPad Air。但是，从iPhone SE开始的所有其他设备，完全支持iPod touch（第六代）以及iPad Air 2以及iPad mini 4以上版本。
 
 <table>
 <thead>
 <tr class="header">
-<th><p>版本列表: iOS 11.0.x</p></th>
+<th><p>版本列表：iOS 11.0.x</p></th>
 </tr>
 </thead>
 <tbody>
@@ -913,12 +1287,12 @@ Touch（第6代）以及iPad Air 2以及iPad Mini 4以上版本。
 <tr class="odd">
 <td><p>{{flatlist|<small>iPad 系列:</small></p>
 <ul>
-<li><a href="https://zh.wikipedia.org/wiki/iPad_(第5代)" title="wikilink">第5代</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/iPad_(第五代)" title="wikilink">第五代</a></li>
 <li><a href="https://zh.wikipedia.org/wiki/iPad_Air" title="wikilink">Air</a></li>
 <li><a href="https://zh.wikipedia.org/wiki/iPad_Air_2" title="wikilink">Air 2</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPad_Mini_2" title="wikilink">Mini 2</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPad_Mini_3" title="wikilink">Mini 3</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/iPad_Mini_4" title="wikilink">Mini 4</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/iPad_mini_2" title="wikilink">mini 2</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/iPad_mini_3" title="wikilink">mini 3</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/iPad_mini_4" title="wikilink">mini 4</a></li>
 <li><a href="https://zh.wikipedia.org/wiki/iPad_Pro" title="wikilink">Pro 9.7吋</a></li>
 <li><a href="https://zh.wikipedia.org/wiki/iPad_Pro" title="wikilink">Pro 10.5吋</a></li>
 <li><a href="https://zh.wikipedia.org/wiki/iPad_Pro" title="wikilink">Pro 12.9吋</a></li>
@@ -962,7 +1336,7 @@ Touch（第6代）以及iPad Air 2以及iPad Mini 4以上版本。
 <table>
 <thead>
 <tr class="header">
-<th><p>版本列表: iOS 11.1.x</p></th>
+<th><p>版本列表：iOS 11.1.x</p></th>
 </tr>
 </thead>
 <tbody>
@@ -995,7 +1369,7 @@ Touch（第6代）以及iPad Air 2以及iPad Mini 4以上版本。
 <table>
 <thead>
 <tr class="header">
-<th><p>版本列表: iOS 11.2.x</p></th>
+<th><p>版本列表：iOS 11.2.x</p></th>
 </tr>
 </thead>
 <tbody>
@@ -1034,7 +1408,7 @@ Touch（第6代）以及iPad Air 2以及iPad Mini 4以上版本。
 <table>
 <thead>
 <tr class="header">
-<th><p>版本列表: iOS 11.3.x</p></th>
+<th><p>版本列表：iOS 11.3.x</p></th>
 </tr>
 </thead>
 <tbody>
@@ -1064,7 +1438,7 @@ Touch（第6代）以及iPad Air 2以及iPad Mini 4以上版本。
 <table>
 <thead>
 <tr class="header">
-<th><p>版本列表: iOS 11.4.x</p></th>
+<th><p>版本列表：iOS 11.4.x</p></th>
 </tr>
 </thead>
 <tbody>
@@ -1093,25 +1467,12 @@ Touch（第6代）以及iPad Air 2以及iPad Mini 4以上版本。
 
 #### iOS 12
 
-蘋果公司於2018年6月4日的蘋果全球開發者大會（WWDC）上發表 [iOS
-12](https://zh.wikipedia.org/wiki/iOS_12 "wikilink")。蘋果公司將繼續支援可更新到 [iOS
-11](https://zh.wikipedia.org/wiki/iOS_11 "wikilink")
-的所有裝置並提升其性能表現。在發布會中介紹了：Siri
-捷徑（可使 Siri 在簡短的語音指令下完成繁瑣的動作）、群組 FaceTime（可同時與多達 32 人通話）、更多
-Memoji、更整齊的鎖屏頁面（可以自動依 App 和對象分類通知）。iOS 12
-的第一個測試版本在發布會結束後即釋出。並於3周後的6月25日釋出
-iOS 12 的公眾測試版本。iOS 12 對所有搭載 [A7](../Page/Apple_A7.md "wikilink")
-晶片的裝置實行有限支援（意指你可能無法在這些裝置上使用部分新功能）, 有限支援的裝置包含 [iPhone
-5S](https://zh.wikipedia.org/wiki/iPhone_5S "wikilink")、[iPad
-Air](https://zh.wikipedia.org/wiki/iPad_Air "wikilink")、[iPad Mini
-2](https://zh.wikipedia.org/wiki/iPad_Mini_2 "wikilink") 和 [iPad Mini
-3](https://zh.wikipedia.org/wiki/iPad_Mini_3 "wikilink")。[iOS
-12](https://zh.wikipedia.org/wiki/iOS_12 "wikilink") 於2018年9月17日正式向全球發布。
+蘋果公司於2018年6月4日的蘋果全球開發者大會（WWDC）上發表 [iOS 12](https://zh.wikipedia.org/wiki/iOS_12 "wikilink")。蘋果公司將繼續支援可更新到 [iOS 11](https://zh.wikipedia.org/wiki/iOS_11 "wikilink") 的所有裝置並提升其性能表現。在發布會中介紹了：Siri 捷徑（可使 Siri 在簡短的語音指令下完成繁瑣的動作）、群組 FaceTime（可同時與多達 32 人通話）、更多 Memoji、更整齊的鎖屏頁面（可以自動依 App 和對象分類通知）。iOS 12 的第一個測試版本在發布會結束後即釋出。並於3周後的6月25日釋出 iOS 12 的公眾測試版本。iOS 12 對所有搭載 [A7](../Page/Apple_A7.md "wikilink") 晶片的裝置實行有限支援（意指你可能無法在這些裝置上使用部分新功能）, 有限支援的裝置包含 [iPhone 5S](https://zh.wikipedia.org/wiki/iPhone_5S "wikilink")、[iPad Air](https://zh.wikipedia.org/wiki/iPad_Air "wikilink")、[iPad mini 2](https://zh.wikipedia.org/wiki/iPad_mini_2 "wikilink")、[iPad mini 3](https://zh.wikipedia.org/wiki/iPad_mini_3 "wikilink")。[iOS 12](https://zh.wikipedia.org/wiki/iOS_12 "wikilink") 於2018年9月17日正式向全球發布。
 
 <table>
 <thead>
 <tr class="header">
-<th><p>版本列表: iOS 12.0.x</p></th>
+<th><p>版本列表：iOS 12.0.x</p></th>
 </tr>
 </thead>
 <tbody>
@@ -1125,7 +1486,7 @@ Air](https://zh.wikipedia.org/wiki/iPad_Air "wikilink")、[iPad Mini
 </tr>
 </tbody>
 </table>
-<p><strong>可能無法在 iPhone 5S、iPad Air、iPad Mini 2 和 iPad Mini 3 使用部分新功能。</strong></p></td>
+<p><strong>可能無法在 iPhone 5S、iPhone 6、iPhone 6 Plus、iPad Air、iPad Air 2、iPad mini 2、iPad mini 3、iPad mini 4 使用部分新功能</strong></p></td>
 </tr>
 <tr class="even">
 <td><p>版本</p></td>
@@ -1142,7 +1503,7 @@ Air](https://zh.wikipedia.org/wiki/iPad_Air "wikilink")、[iPad Mini
 <table>
 <thead>
 <tr class="header">
-<th><p>版本列表: iOS 12.1.x</p></th>
+<th><p>版本列表：iOS 12.1.x</p></th>
 </tr>
 </thead>
 <tbody>
@@ -1156,7 +1517,7 @@ Air](https://zh.wikipedia.org/wiki/iPad_Air "wikilink")、[iPad Mini
 </tr>
 </tbody>
 </table>
-<p><strong>可能無法在 iPhone 5S、iPad Air、iPad Mini 2 和 iPad Mini 3 使用部分新功能。</strong></p></td>
+<p><strong>可能無法在 iPhone 5S、iPhone 6、iPhone 6 Plus、iPad Air、iPad Air 2、iPad mini 2、iPad mini 3、iPad mini 4 使用部分新功能</strong></p></td>
 </tr>
 <tr class="even">
 <td><p>版本</p></td>
@@ -1182,7 +1543,7 @@ Air](https://zh.wikipedia.org/wiki/iPad_Air "wikilink")、[iPad Mini
 <table>
 <thead>
 <tr class="header">
-<th><p>版本列表: iOS 12.2.x</p></th>
+<th><p>版本列表：iOS 12.2.x</p></th>
 </tr>
 </thead>
 <tbody>
@@ -1196,7 +1557,7 @@ Air](https://zh.wikipedia.org/wiki/iPad_Air "wikilink")、[iPad Mini
 </tr>
 </tbody>
 </table>
-<p><strong>可能無法在 iPhone 5S、iPad Air、iPad Mini 2 和 iPad Mini 3 使用部分新功能。</strong></p></td>
+<p><strong>可能無法在 iPhone 5S、iPhone 6、iPhone 6 Plus、iPad Air、iPad Air 2、iPad mini 2、iPad mini 3、iPad mini 4 使用部分新功能</strong></p></td>
 </tr>
 <tr class="even">
 <td><p>版本</p></td>
@@ -1210,7 +1571,7 @@ Air](https://zh.wikipedia.org/wiki/iPad_Air "wikilink")、[iPad Mini
 <table>
 <thead>
 <tr class="header">
-<th><p>版本列表: iOS 12.3.x</p></th>
+<th><p>版本列表：iOS 12.3.x</p></th>
 </tr>
 </thead>
 <tbody>
@@ -1224,7 +1585,7 @@ Air](https://zh.wikipedia.org/wiki/iPad_Air "wikilink")、[iPad Mini
 </tr>
 </tbody>
 </table>
-<p><strong>可能無法在 iPhone 5S、iPad Air、iPad Mini 2 和 iPad Mini 3 使用部分新功能。</strong></p></td>
+<p><strong>可能無法在 iPhone 5S、iPhone 6、iPhone 6 Plus、iPad Air、iPad Air 2、iPad mini 2、iPad mini 3、iPad mini 4 使用部分新功能</strong></p></td>
 </tr>
 <tr class="even">
 <td><p>版本</p></td>
@@ -1232,142 +1593,256 @@ Air](https://zh.wikipedia.org/wiki/iPad_Air "wikilink")、[iPad Mini
 <tr class="odd">
 <td><p>12.3</p></td>
 </tr>
+<tr class="even">
+<td><p>12.3.1</p></td>
+</tr>
+<tr class="odd">
+<td><p>12.3.2</p></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr class="header">
+<th><p>版本列表：iOS 12.4.x</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><table>
+<tbody>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>可能無法在 iPhone 5S、iPhone 6、iPhone 6 Plus、iPad Air、iPad Air 2、iPad mini 2、iPad mini 3、iPad mini 4 使用部分新功能</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>版本</p></td>
+</tr>
+<tr class="odd">
+<td><p>12.4</p></td>
+</tr>
 </tbody>
 </table>
 
 #### iOS 13
 
+蘋果公司於2019年6月3日在年度Apple全球開發者大會（WWDC）上宣布推出 iOS 13，但僅發佈測試版，功能包括暗黑模式和Memoji等，支持 [A9](https://zh.wikipedia.org/wiki/Apple "wikilink") 以上的設備\[2\]。此外，iPad獲得專屬平板電腦的作業系統，其操作系統已經更名為iPadOS。
+
+<table>
+<thead>
+<tr class="header">
+<th><p>版本列表：iOS 13.0.x</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><table>
+<tbody>
+<tr class="odd">
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+<tr class="even">
+<td><p>版本</p></td>
+</tr>
+<tr class="odd">
+<td><p>13.0 Beta 4</p></td>
+</tr>
+</tbody>
+</table>
+
 ## 備註
 
 <div class="references-small">
 
-  - iPhone
+  - [iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")
 
-    **P1**
     [iPhone（第一代）](https://zh.wikipedia.org/wiki/iPhone_\(第一代\) "wikilink")
 
-    **P2** [iPhone
-    3G](https://zh.wikipedia.org/wiki/iPhone_3G "wikilink")
+    [iPhone 3G](https://zh.wikipedia.org/wiki/iPhone_3G "wikilink")
 
-    **P3** [iPhone
-    3GS](https://zh.wikipedia.org/wiki/iPhone_3GS "wikilink")
+    [iPhone 3GS](https://zh.wikipedia.org/wiki/iPhone_3GS "wikilink")
 
-    **P4** [iPhone 4](https://zh.wikipedia.org/wiki/iPhone_4 "wikilink")
+    [iPhone 4](https://zh.wikipedia.org/wiki/iPhone_4 "wikilink")
 
-    **P4C** iPhone 4（CDMA版）
+    iPhone 4（CDMA版）
 
-    **P4S** [iPhone
-    4S](https://zh.wikipedia.org/wiki/iPhone_4S "wikilink")
+    [iPhone 4S](https://zh.wikipedia.org/wiki/iPhone_4S "wikilink")
 
-    **P5** [iPhone 5](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink")
+    [iPhone 5](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink")
 
-    **P5S** [iPhone
-    5S](https://zh.wikipedia.org/wiki/iPhone_5S "wikilink")
+    [iPhone 5S](https://zh.wikipedia.org/wiki/iPhone_5S "wikilink")
 
-    **P6** [iPhone 6](https://zh.wikipedia.org/wiki/iPhone_6 "wikilink")
+    [iPhone 5C](https://zh.wikipedia.org/wiki/iPhone_5C "wikilink")
 
-    **P6P** [iPhone 6
-    Plus](https://zh.wikipedia.org/wiki/iPhone_6_Plus "wikilink")
+    [iPhone SE](https://zh.wikipedia.org/wiki/iPhone_SE "wikilink")
 
-    **P6S** [iPhone
-    6S](https://zh.wikipedia.org/wiki/iPhone_6S "wikilink")
+    [iPhone 6](https://zh.wikipedia.org/wiki/iPhone_6 "wikilink")
 
-    **P6SP** [iPhone 6S
-    Plus](https://zh.wikipedia.org/wiki/iPhone_6S_Plus "wikilink")
+    [iPhone 6 Plus](https://zh.wikipedia.org/wiki/iPhone_6_Plus "wikilink")
 
-    **PSE** [iPhone
-    SE](https://zh.wikipedia.org/wiki/iPhone_SE "wikilink")
+    [iPhone 6S](https://zh.wikipedia.org/wiki/iPhone_6S "wikilink")
 
-<!-- end list -->
+    [iPhone 6S Plus](https://zh.wikipedia.org/wiki/iPhone_6S_Plus "wikilink")
 
-  - iPod Touch
+    [iPhone 7](https://zh.wikipedia.org/wiki/iPhone_7 "wikilink") (使用 Intel PMB9943 基頻處理器)
 
-    **T1** [iPod
-    Touch](https://zh.wikipedia.org/wiki/iPod_Touch "wikilink")（第一代）
+    iPhone 7 (使用高通 MDM9645 基頻處理器)
 
-    **T2** iPod Touch（第二代）
+    iPhone 7 Plus (使用 Intel PMB9943 基頻處理器)
 
-    **T3** iPod Touch（第三代）
+    iPhone 7 Plus (使用高通 MDM9645 基頻處理器)
 
-    **T4** iPod Touch（第四代）
+    [iPhone 8](https://zh.wikipedia.org/wiki/iPhone_8 "wikilink") (使用 Intel PMB9948 基頻處理器)
 
-    **T5** iPod Touch（第五代）
+    iPhone 8 (使用高通 MDM9655 基頻處理器)
 
-    **T6** iPod Touch（第六代）
+    iPhone 8 Plus (使用 Intel PMB9948 基頻處理器)
 
-<!-- end list -->
+    iPhone 8 Plus (使用高通 MDM9655 基頻處理器)
 
-  - iPad
+    [iPhone X](https://zh.wikipedia.org/wiki/iPhone_X "wikilink") (使用 Intel PMB9948 基頻處理器)
 
-    **S1**
-    [iPad](https://zh.wikipedia.org/wiki/iPad "wikilink")（第一代）[Wi-Fi](../Page/Wi-Fi.md "wikilink")
+    iPhone X (使用高通 MDM9655 基頻處理器)
 
-    **S1C** iPad（第一代）Wi-Fi+[3G](../Page/3G.md "wikilink")
+    [iPhone XS](https://zh.wikipedia.org/wiki/iPhone_XS "wikilink")
 
-    **S2** [iPad 2](https://zh.wikipedia.org/wiki/iPad_2 "wikilink")
-    Wi-Fi
+    iPhone XS Max
 
-    **S2C** iPad 2 Wi-Fi+3G [GSM](../Page/GSM.md "wikilink")
-
-    **S2D** iPad 2 Wi-Fi+3G
-    [CDMA](https://zh.wikipedia.org/wiki/CDMA "wikilink")
-
-    **S3**
-    [iPad（第三代）Wi](https://zh.wikipedia.org/wiki/iPad_\(第三代\) "wikilink")-Fi
-
-    **S3L**
-    iPad（第三代）Wi-Fi+[4G](../Page/4G.md "wikilink")（[LTE](https://zh.wikipedia.org/wiki/LTE "wikilink")，[AT\&T](../Page/AT&T.md "wikilink")／全球版）
-
-    **S3D**
-    iPad（第三代）Wi-Fi+4G（LTE，[Verizon版](https://zh.wikipedia.org/wiki/Verizon "wikilink")）
-
-    **S4**
-    [iPad（第四代）Wi](https://zh.wikipedia.org/wiki/iPad_\(第四代\) "wikilink")-Fi
-
-    **S4L** iPad（第四代）Wi-Fi+4G（LTE，AT\&T／全球版）
-
-    **S4D** iPad（第四代）Wi-Fi+4G（LTE，Verizon版）
+    [iPhone XR](https://zh.wikipedia.org/wiki/iPhone_XR "wikilink")
 
 <!-- end list -->
 
-  - iPad mini
+  - [iPad](https://zh.wikipedia.org/wiki/iPad "wikilink")
 
-    **M1** [iPad
-    mini](https://zh.wikipedia.org/wiki/iPad_mini "wikilink") Wi-Fi
+    [iPad 第一代](https://zh.wikipedia.org/wiki/iPad_\(第一代\) "wikilink") [Wi-Fi](../Page/Wi-Fi.md "wikilink")
 
-    **M1C** iPad mini Wi-Fi+4G LTE
+    iPad（第一代）Wi-Fi+[3G](../Page/3G.md "wikilink")
 
-    **M2** [iPad mini
-    2](https://zh.wikipedia.org/wiki/iPad_mini_2 "wikilink") Wi-Fi
+    [iPad 第二代](https://zh.wikipedia.org/wiki/iPad_\(第二代\) "wikilink") Wi-Fi
 
-    **M2C** iPad mini 2 Wi-Fi+4G LTE
+    iPad 2 Wi-Fi+3G [GSM](../Page/GSM.md "wikilink")
 
-    **M3** [iPad mini
-    3](https://zh.wikipedia.org/wiki/iPad_mini_3 "wikilink") Wi-Fi
+    iPad 2 Wi-Fi+3G [CDMA](https://zh.wikipedia.org/wiki/CDMA "wikilink")
 
-    **M3C** iPad mini 3 Wi-Fi+4G LTE
+    [iPad 第三代Wi](https://zh.wikipedia.org/wiki/iPad_\(第三代\) "wikilink")-Fi
 
-    **M4** [iPad mini
-    4](https://zh.wikipedia.org/wiki/iPad_mini_4 "wikilink") Wi-Fi
+    iPad 第三代 Wi-Fi+[4G](../Page/4G.md "wikilink")（[LTE](https://zh.wikipedia.org/wiki/LTE "wikilink")，[AT\&T](../Page/AT&T.md "wikilink")／全球版）
 
-    **M4C** iPad mini 4 Wi-Fi+4G LTE
+    iPad 第三代 Wi-Fi+4G（LTE，[Verizon版](https://zh.wikipedia.org/wiki/Verizon "wikilink")）
+
+    [iPad 第四代](https://zh.wikipedia.org/wiki/iPad_\(第四代\) "wikilink") Wi-Fi
+
+    iPad 第四代 Wi-Fi+4G（LTE，AT\&T／全球版）
+
+    iPad 第四代 Wi-Fi+4G（LTE，Verizon版）
+
+    [iPad Air](https://zh.wikipedia.org/wiki/iPad_Air "wikilink") Wi-Fi
+
+    iPad Air Wi-Fi+4G（LTE，AT\&T／全球版）
+
+    iPad Air Wi-Fi+4G（LTE，Verizon版）
+
+    [iPad Air 2](https://zh.wikipedia.org/wiki/iPad_Air_2 "wikilink") Wi-Fi
+
+    iPad Air 2 Wi-Fi+4G（LTE，AT\&T／全球版）)
+
+    [iPad 第五代](https://zh.wikipedia.org/wiki/iPad_\(第五代\) "wikilink") Wi-Fi
+
+    iPad 第五代 Wi-Fi+4G（LTE，AT\&T／全球版)
+
+    [iPad 第六代](https://zh.wikipedia.org/wiki/iPad_\(第六代\) "wikilink") Wi-Fi
+
+    iPad 第六代 Wi-Fi+4G（LTE，AT\&T／全球版）
+
+    [iPad Air 3](https://zh.wikipedia.org/wiki/iPad_Air_\(第三代\) "wikilink") Wi-Fi
+
+    iPad Air 3 Wi-Fi+4G（LTE，AT\&T／全球版）
 
 <!-- end list -->
 
-  - Apple TV（第二代以上）
+  - [iPad mini](https://zh.wikipedia.org/wiki/iPad_mini "wikilink")
 
-    **A2** [Apple TV](../Page/Apple_TV.md "wikilink")（第二代）
+    [iPad mini](https://zh.wikipedia.org/wiki/iPad_mini "wikilink") Wi-Fi
 
-    **A3** Apple TV（第三代）
+    iPad mini Wi-Fi+4G LTE
+
+    [iPad mini 2](https://zh.wikipedia.org/wiki/iPad_mini_2 "wikilink") Wi-Fi
+
+    iPad mini 2 Wi-Fi+4G LTE
+
+    [iPad mini 3](https://zh.wikipedia.org/wiki/iPad_mini_3 "wikilink") Wi-Fi
+
+    iPad mini 3 Wi-Fi+4G LTE
+
+    [iPad mini 4](https://zh.wikipedia.org/wiki/iPad_mini_4 "wikilink") Wi-Fi
+
+    iPad mini 4 Wi-Fi+4G LTE
+
+    [iPad mini 5](https://zh.wikipedia.org/wiki/iPad_mini_5 "wikilink") Wi-Fi
+
+    iPad mini 5 Wi-Fi+4G LTE
+
+<!-- end list -->
+
+  - [iPad Pro](https://zh.wikipedia.org/wiki/iPad_Pro "wikilink")
+
+    [iPad Pro (12.9吋)](https://zh.wikipedia.org/wiki/iPad_Pro "wikilink") Wi-Fi
+
+    iPad Pro (12.9吋) Wi-Fi+4G (LTE)
+
+    iPad Pro (9.7吋) Wi-Fi
+
+    iPad Pro (9.7吋) Wi-Fi+4G (LTE)
+
+    iPad Pro (12.9吋) 第二代 Wi-Fi
+
+    iPad Pro (12.9吋) 第二代 Wi-Fi+4G (LTE)
+
+    iPad Pro (10.5吋) Wi-Fi
+
+    iPad Pro (10.5吋) Wi-Fi+4G (LTE)
+
+    iPad Pro (12.9吋) 第三代 Wi-Fi
+
+    iPad Pro (12.9吋) 第三代 Wi-Fi+4G (LTE)
+
+    iPad Pro (11吋) Wi-Fi
+
+    iPad Pro (11吋) Wi-Fi+4G (LTE)
+
+<!-- end list -->
+
+  - [iPod touch](https://zh.wikipedia.org/wiki/iPod_touch "wikilink")
+
+    [iPod touch](https://zh.wikipedia.org/wiki/iPod_touch "wikilink")（第一代）
+
+    iPod touch（第二代）
+
+    iPod touch（第三代）
+
+    iPod touch（第四代）
+
+    iPod touch（第五代）
+
+    iPod touch（第六代）
+
+    iPod touch（第七代）
 
 </div>
 
 ## 参考资料
 
-[Category:iOS](https://zh.wikipedia.org/wiki/Category:iOS "wikilink")
-[Category:軟體版本列表](https://zh.wikipedia.org/wiki/Category:軟體版本列表 "wikilink")
-[Category:苹果公司](https://zh.wikipedia.org/wiki/Category:苹果公司 "wikilink")
-[Category:嵌入式操作系统](https://zh.wikipedia.org/wiki/Category:嵌入式操作系统 "wikilink")
-[Category:行动作业系统](https://zh.wikipedia.org/wiki/Category:行动作业系统 "wikilink")
-[Category:苹果操作系统](https://zh.wikipedia.org/wiki/Category:苹果操作系统 "wikilink")
-[Category:蘋果公司軟體](https://zh.wikipedia.org/wiki/Category:蘋果公司軟體 "wikilink")
+[Category:iOS](https://zh.wikipedia.org/wiki/Category:iOS "wikilink") [Category:軟體版本列表](https://zh.wikipedia.org/wiki/Category:軟體版本列表 "wikilink") [Category:苹果公司](https://zh.wikipedia.org/wiki/Category:苹果公司 "wikilink") [Category:嵌入式操作系统](https://zh.wikipedia.org/wiki/Category:嵌入式操作系统 "wikilink") [Category:行动作业系统](https://zh.wikipedia.org/wiki/Category:行动作业系统 "wikilink") [Category:苹果操作系统](https://zh.wikipedia.org/wiki/Category:苹果操作系统 "wikilink") [Category:蘋果公司軟體](https://zh.wikipedia.org/wiki/Category:蘋果公司軟體 "wikilink")
+
+1.
+2.

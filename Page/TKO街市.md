@@ -8,11 +8,11 @@
 
 街市於2017年10月起封閉三個半月大翻新，期間領展提供免費接駁巴士來往尚德街市。街市在2018年2月重開，再招標引入商戶，現有檔販表示鋪位租金高昂，相信翻新後將大幅加租，難以繼續經營，寧願結業。區議員陸平才表示不少坑口居民已「跨區」買平餸，預計領展將大幅加租，並引入連鎖商店，勢引發物價上升。\[1\]街市重開後改稱為TKO街市。
 
-TKO Market Hardware Store and Fish Stall.jpg|[五金店及魚檔](https://zh.wikipedia.org/wiki/五金店 "wikilink") TKO Market Fruit and Meat Stall.jpg|肉檔 TKO Market Joss Stick and Candle and Sacrifice Store, Seafood Stall.jpg|香燭祭品店及海產檔 TKO Market Candy and Roast Stall.jpg|糖果及[燒味](../Page/燒味.md "wikilink")店 TKO Market Dried Seafood Store, Bread Shop and Vegetable Stall.jpg|[海味及麵包店](https://zh.wikipedia.org/wiki/海味 "wikilink") TKO Market Flower Shop.jpg|花店
+TKO Market Hardware Store and Fish Stall.jpg|[五金店及魚檔](https://zh.wikipedia.org/wiki/五金店 "wikilink") TKO Market Fruit and Meat Stall.jpg|肉檔 TKO Market Joss Stick and Candle and Sacrifice Store, Seafood Stall.jpg|香燭祭品店及海產檔 TKO Market Candy and Roast Stall.jpg|糖果及[燒味](../Page/燒味.md "wikilink")店 TKO Market Dried Seafood Store, Bread Shop and Vegetable Stall.jpg|[海味及麵包店](https://zh.wikipedia.org/wiki/乾海產 "wikilink") TKO Market Flower Shop.jpg|花店
 
-| 翻新前的厚德街市                                                                                                                                                            |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Hau Tak Market (4).jpg|魚檔及豆腐芽菜檔（2015年） Hau Tak Market (3).jpg|禮品店、菜檔及肉檔（2015年） Hau Tak Market.jpg|[海味雜貨](https://zh.wikipedia.org/wiki/海味 "wikilink")、凍肉與水果檔（2015年） |
+| 翻新前的厚德街市                                                                                                                                                             |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Hau Tak Market (4).jpg|魚檔及豆腐芽菜檔（2015年） Hau Tak Market (3).jpg|禮品店、菜檔及肉檔（2015年） Hau Tak Market.jpg|[海味雜貨](https://zh.wikipedia.org/wiki/乾海產 "wikilink")、凍肉與水果檔（2015年） |
 
 ## 最昂貴街市
 

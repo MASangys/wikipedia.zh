@@ -343,8 +343,8 @@
 | 3rd | 2014年8月1日   | **[You were here](https://zh.wikipedia.org/wiki/You_were_here "wikilink")**                                                                       | デジタル・ダウンロード                                                         | Butterflies                                         |
 | 4th | 2014年11月28日 | **[ファイター](https://zh.wikipedia.org/wiki/ファイター_\(BUMP_OF_CHICKENの曲\) "wikilink")**                                                                 | デジタル・ダウンロード                                                         |                                                     |
 | 5th | 2014年11月29日 | **[パレード](https://zh.wikipedia.org/wiki/パレード_\(BUMP_OF_CHICKENの曲\) "wikilink")**                                                                   | デジタル・ダウンロード                                                         |                                                     |
-| 6th | 2016年8月17日  | **[アリア](https://zh.wikipedia.org/wiki/アリア "wikilink")**                                                                                           | デジタル・ダウンロード                                                         | 未收錄                                                 |
-| 7th | 2016年12月21日 | **[アンサー](https://zh.wikipedia.org/wiki/アンサー "wikilink")**                                                                                         | デジタル・ダウンロード                                                         | 未收錄                                                 |
+| 6th | 2016年8月17日  | **[アリア](https://zh.wikipedia.org/wiki/アリア "wikilink")**                                                                                           | デジタル・ダウンロード                                                         | aurora arc                                          |
+| 7th | 2016年12月21日 | **[アンサー](https://zh.wikipedia.org/wiki/アンサー "wikilink")**                                                                                         | デジタル・ダウンロード                                                         | aurora arc                                          |
 
 #### 專輯
 

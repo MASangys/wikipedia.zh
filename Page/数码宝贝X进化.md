@@ -6,7 +6,7 @@
 
 于是世界树决定舍弃这個旧数码世界（），启动了「移向新数码世界（New Digital World）」的计划。然后消除了全部对于新的数码世界没有必要的数码兽并执行了恐怖的X程序（X Program）！ ­
 
-这个计划名叫「[方舟计划](https://zh.wikipedia.org/wiki/方舟 "wikilink")（Project Ark）」，它执行使超过负荷的数码兽全部删除，把必要的数码兽及部份研究对象上传（Upload）到了新的数码世界。但是一部分生存下来的数码兽，它们强大的生命力使自身数码核（电脑核）发生了改变，并获得了抵抗X程序的「X抗体」进行了X进化。世界树为了保证方舟计划的顺利执行，把消灭异分子的任务交给了[皇家骑士](https://zh.wikipedia.org/wiki/皇家骑士 "wikilink")（Royal Knight）。
+这个计划名叫「方舟计划（Project Ark）」，它执行使超过负荷的数码兽全部删除，把必要的数码兽及部份研究对象上传（Upload）到了新的数码世界。但是一部分生存下来的数码兽，它们强大的生命力使自身数码核（电脑核）发生了改变，并获得了抵抗X程序的「X抗体」进行了X进化。世界树为了保证方舟计划的顺利执行，把消灭异分子的任务交给了[皇家骑士](https://zh.wikipedia.org/wiki/皇家骑士 "wikilink")（Royal Knight）。
 
 抱着必死的决心抵抗的X抗体数码兽……那些抗拒X抗体数码兽的被选中的数码兽……贯彻世界树所谓的正义的皇家骑士……
 
@@ -109,13 +109,19 @@ Death-X-DORUgoramon</p></td>
 <td><p>石塚勝海</p></td>
 </tr>
 <tr class="even">
+<td><p>音乐</p></td>
+<td><p>五木田岳彦</p></td>
+<td><p>音乐協力</p></td>
+<td><p>东映动画音乐出版</p></td>
+</tr>
+<tr class="odd">
 <td><p>製作</p></td>
 <td><p>Digimon CG Project</p></td>
 <td><p>制作協力</p></td>
 <td><p>WiZ、橫井昭裕<br />
 渡边健史、高橋尚資</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>动画制作</p></td>
 <td><p><a href="../Page/东映动画.md" title="wikilink">东映动画</a></p></td>
 <td><p>CG制作</p></td>
@@ -141,15 +147,59 @@ Death-X-DORUgoramon</p></td>
 数码宝贝编年史系列短篇漫画作为携带机的附属品被捆绑销售于玩具中，目的是为了让玩家更加容易理解世界观。编年史系列漫画并非正式漫画作品，但却是诸多携带机附属短篇漫画中唯一动画化的重要作品。
 
   - 《数码宝贝编年史》（2003年4月26日-2003年11月21日刊载，全4章，森山奏作画）
-  - 《数码宝贝编年史X》（2018年1月18日-连载中，暂11章，森山奏作画）
+  - 《数码宝贝编年史X》（2018年1月18日-连载中，暂18章，森山奏作画）
 
 ### 数码宝贝编年史
 
-《数码宝贝编年史》（Digimon Chronicle）于2003年4月26日[万代发售的携带机](https://zh.wikipedia.org/wiki/万代 "wikilink")“数码兽摇摆机X”系列的背景故事（Background Story）而发表的漫画，仅随携带机捆绑发售，有一套卡片游戏的说明纸上请到这部漫画的主角来作教学。
+《数码宝贝编年史》（Digimon Chronicle）于2003年4月26日-2003年11月21日[万代发售的携带机](https://zh.wikipedia.org/wiki/万代 "wikilink")“数码兽摇摆机X”系列的背景故事（Background Story）而发表的漫画，仅随携带机捆绑发售，有一套卡片游戏的说明纸上请到这部漫画的主角来作教学。
+
+#### 各章列表
+
+<table>
+<thead>
+<tr class="header">
+<th><p>章节</p></th>
+<th><p>版本</p></th>
+<th><p>日文标题</p></th>
+<th><p>中文标题</p></th>
+<th><p>发售时间</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>現在之章</p></td>
+<td><p>version1.0</p></td>
+<td></td>
+<td><p>X进化</p></td>
+<td><p>2003年4月26日</p></td>
+</tr>
+<tr class="even">
+<td><p>version1.5</p></td>
+<td></td>
+<td><p>死之X进化</p></td>
+<td><p>2003年9月20日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>過去之章</p></td>
+<td><p>version2.0</p></td>
+<td></td>
+<td><p>X-CAST</p></td>
+<td><p>2003年8月10日</p></td>
+</tr>
+<tr class="even">
+<td><p>最終章</p></td>
+<td><p>version3.0</p></td>
+<td></td>
+<td><p>战斗进化</p></td>
+<td><p>2003年11月21日</p></td>
+</tr>
+</tbody>
+</table>
 
 #### 剧情
 
-在现代网络社会发展的同时，产生了假想空间——[数码世界](https://zh.wikipedia.org/wiki/数码世界 "wikilink")。因此人工智能生命体数码兽诞生，数码兽所生存世界叫数码世界（Digital World），它由谜一样的电脑主机——[世界树](https://zh.wikipedia.org/wiki/世界树 "wikilink")（[Yggdrasill](https://zh.wikipedia.org/wiki/Yggdrasill "wikilink")）直接管理。然而数码兽们的数据量巨大化程度超过了世界树的预测，包含数码世界在内的全宇宙规模的大爆炸「数码危机（Digital Hazard）」迫在眉睫，再这样下去数码世界将面临崩溃。于是世界树决定舍弃这個旧数码世界（），启动了「移向新数码世界（New Digital World）」的计划。然后消除了全部对于新的数码世界没有必要的数码兽并执行了恐怖的X程序（X Program）！这个计划名叫「[方舟计划](https://zh.wikipedia.org/wiki/方舟 "wikilink")（Project Ark）」，它执行使超过负荷的数码兽全部删除，把必要的数码兽及部份研究对象上传（Upload）到了新的数码世界。但是一部分生存下来的数码兽，它们强大的生命力使自身数码核（电脑核）发生了改变，并获得了抵抗X程序的「X抗体」进行了X进化。然而数码核内的X抗体持续感染X程序的话会消失。恐惧死亡，互相争夺能使自己变强的「X抗体」的弱肉强食的世界来临了。再次幸存下来的数码兽们一个个地逃向了X程序触及不到的新数码世界……世界树为了保证方舟计划的顺利执行，把消灭异分子的任务交给了[皇家骑士](https://zh.wikipedia.org/wiki/皇家骑士 "wikilink")（Royal Knight）。皇家骑士是位于网络安全最高位的圣骑士团，由于[圣骑士](https://zh.wikipedia.org/wiki/圣骑士 "wikilink")[奥米加兽压倒性的实力](https://zh.wikipedia.org/wiki/奥米加兽 "wikilink")，X进化数码兽们全都被消除，并濒临灭绝的危机……
+在现代网络社会发展的同时，产生了假想空间——[数码世界](https://zh.wikipedia.org/wiki/数码世界 "wikilink")。因此人工智能生命体数码兽诞生，数码兽所生存世界叫数码世界（Digital World），它由谜一样的电脑主机——[世界树](https://zh.wikipedia.org/wiki/世界树 "wikilink")（[Yggdrasill](https://zh.wikipedia.org/wiki/Yggdrasill "wikilink")）直接管理。然而数码兽们的数据量巨大化程度超过了世界树的预测，包含数码世界在内的全宇宙规模的大爆炸「数码危机（Digital Hazard）」迫在眉睫，再这样下去数码世界将面临崩溃。于是世界树决定舍弃这個旧数码世界（），启动了「移向新数码世界（New Digital World）」的计划。然后消除了全部对于新的数码世界没有必要的数码兽并执行了恐怖的X程序（X Program）！这个计划名叫「方舟计划（Project Ark）」，它执行使超过负荷的数码兽全部删除，把必要的数码兽及部份研究对象上传（Upload）到了新的数码世界。但是一部分生存下来的数码兽，它们强大的生命力使自身数码核（电脑核）发生了改变，并获得了抵抗X程序的「X抗体」进行了X进化。然而数码核内的X抗体持续感染X程序的话会消失。恐惧死亡，互相争夺能使自己变强的「X抗体」的弱肉强食的世界来临了。再次幸存下来的数码兽们一个个地逃向了X程序触及不到的新数码世界……世界树为了保证方舟计划的顺利执行，把消灭异分子的任务交给了[皇家骑士](https://zh.wikipedia.org/wiki/皇家骑士 "wikilink")（Royal Knight）。皇家骑士是位于网络安全最高位的圣骑士团，由于[圣骑士](https://zh.wikipedia.org/wiki/圣骑士 "wikilink")[奥米加兽压倒性的实力](https://zh.wikipedia.org/wiki/奥米加兽 "wikilink")，X进化数码兽们全都被消除，并濒临灭绝的危机……
 
 幸存下来的[多路兽因此遇见了](https://zh.wikipedia.org/wiki/多路兽 "wikilink")[驯兽师](https://zh.wikipedia.org/wiki/驯兽师 "wikilink")[堂本光太](https://zh.wikipedia.org/wiki/堂本光太 "wikilink")，完成究极的X进化的多路战龙兽压制了皇家骑士！然而奥米加兽不管面对怎样千钧一发的危机，都不会背对敌人。发誓效忠世界树，即使成为异分子也要贯彻使命……为了这场不容失败的战斗，奥米加兽自己完成了X进化！太强了……在获得了可谓是无敌力量的奥米加兽面前，多路战龙兽败北了。一切看上去都结束了……被打倒的多路战龙兽的身体被漆黑的黑暗包围……即使死亡「X抗体」还要求数码兽寻求进一步的进化。其结果就是如同从地狱中觉醒一般，「死之X进化」发动了！纵使肉体腐朽、意志消亡，却依靠本能无差别捕食数码核维持「活动」的疯狂假想生命体死X多路战龙兽出现了！
 
@@ -165,17 +215,6 @@ Death-X-DORUgoramon</p></td>
   - “现在世界”薇儿丹蒂终端（Versandi Terminal，）：居住着最多样化的数码兽。比未来和过去和平。
   - “未来世界”斯库尔德终端（Skuld Terminal，）：是众多高楼林立的未来都市「斯库尔德」。由改造型、机械型数码兽支配，上空浮游着空中秘蜜基地「皇家基地」，地面上秘蜜战斗部队「皇家突击队」暗中活动着。
 
-#### 各章列表
-
-摇摆机X的Version对应了各自的章名和副标题：
-
-  - **現在之章　～X‐進化～**Version1.0 惊骇的计划启动！删除数码兽的计划！？
-  - **現在之章　～死之X‐進化～**Version1.5 究极的决定性战斗！多路战龙兽VS奥米加兽
-  - **過去之章　～X-CAST～**Version2.0 围绕着适者生存话题的王龙传说！
-  - **最終章　～战斗進化～**Version3.0 死亡的肉体降临，暗亡兽！ 危险的未来最终之战！！
-
-粗略流程的Ver1.0（2003年4月2日发售）继续到Ver1.5（2003年9月20日发售），同时进行Ver2.0（2003年8月10日发售），然后到Ver3.0完结（2003年11月21日发售）。
-
 #### 登场角色
 
 <table>
@@ -190,7 +229,7 @@ Death-X-DORUgoramon</p></td>
 <tbody>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/堂本光太" title="wikilink">堂本光太</a><br />
-堂本コータ<br />
+<br />
 Doumoto Kouta</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/多路兽" title="wikilink">多路兽</a> DORUmon<br />
 ↓<br />
@@ -228,7 +267,7 @@ Doumoto Kouta</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/武者勇治" title="wikilink">武者勇治</a><br />
-武者ユージ<br />
+<br />
 Musha Yuuji</p></td>
 <td><p>龙骀兽 Ryudamon<br />
 ↓<br />
@@ -242,7 +281,7 @@ Musha Yuuji</p></td>
 </tr>
 <tr class="odd">
 <td><p>真治<br />
-シンジ<br />
+<br />
 Shinji<br />
 <small>（Cool Boy）</small></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/奥米加兽" title="wikilink">奥米加兽X</a><br />
@@ -254,7 +293,7 @@ Omegamon X-Antibody</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/世界树" title="wikilink">世界树</a><br />
-イグドラシル<br />
+<br />
 <a href="https://zh.wikipedia.org/wiki/Yggdrasill" title="wikilink">Yggdrasill</a></p></td>
 <td></td>
 <td></td>
@@ -263,19 +302,333 @@ Omegamon X-Antibody</p></td>
 </tbody>
 </table>
 
+#### 卡片游戏
+
+以数码兽编年史为基础的数码怪兽卡片游戏包括进阶包第20到23弹、新手包9-10弹，以及究极战斗包“X进化卡组”：
+\*Booster 21 ～X歼灭部队的威猛～
+
+  - Booster 22 ～觉醒·禁忌的黑暗进化～
+  - Booster 23 ～纺织创世纪的人们～
+
+以下卡片介绍了编年史的[世界观](../Page/世界观.md "wikilink")：
+
+<table>
+<thead>
+<tr class="header">
+<th><p>章节</p></th>
+<th><p>卡片编号</p></th>
+<th><p>卡片名称</p></th>
+<th><p>中文翻译</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>第1章</p></td>
+<td><p>Bx-32</p></td>
+<td></td>
+<td><p>数码世界的危机</p></td>
+</tr>
+<tr class="even">
+<td><p>第2章</p></td>
+<td><p>Bx-33</p></td>
+<td></td>
+<td><p>世界树</p></td>
+</tr>
+<tr class="odd">
+<td><p>第3章</p></td>
+<td><p>Bx-34</p></td>
+<td></td>
+<td><p>新世界NDW</p></td>
+</tr>
+<tr class="even">
+<td><p>第4章</p></td>
+<td><p>Bx-35</p></td>
+<td></td>
+<td><p>X进化！</p></td>
+</tr>
+<tr class="odd">
+<td><p>第5章</p></td>
+<td><p>Bx-36</p></td>
+<td></td>
+<td><p>奥米加兽袭来</p></td>
+</tr>
+<tr class="even">
+<td><p>第6章</p></td>
+<td><p>Bx-73</p></td>
+<td></td>
+<td><p>新的飞翔</p></td>
+</tr>
+<tr class="odd">
+<td><p>第7章</p></td>
+<td><p>Bx-74</p></td>
+<td></td>
+<td><p>兀儿德终端</p></td>
+</tr>
+<tr class="even">
+<td><p>第8章</p></td>
+<td><p>Bx-75</p></td>
+<td></td>
+<td><p>神秘的大地</p></td>
+</tr>
+<tr class="odd">
+<td><p>第9章</p></td>
+<td><p>Bx-76</p></td>
+<td></td>
+<td><p>水宝玉的护佑</p></td>
+</tr>
+<tr class="even">
+<td><p>第10章</p></td>
+<td><p>Bx-77</p></td>
+<td></td>
+<td><p>公爵兽的启示</p></td>
+</tr>
+<tr class="odd">
+<td><p>第11章</p></td>
+<td><p>Bx-103</p></td>
+<td></td>
+<td><p>薇儿丹蒂终端</p></td>
+</tr>
+<tr class="even">
+<td><p>第12章</p></td>
+<td><p>Bx-104</p></td>
+<td></td>
+<td><p>圣剑，坠向大地！</p></td>
+</tr>
+<tr class="odd">
+<td><p>第13章</p></td>
+<td><p>Bx-105</p></td>
+<td></td>
+<td><p>删除全部</p></td>
+</tr>
+<tr class="even">
+<td><p>第14章</p></td>
+<td><p>Bx-106</p></td>
+<td></td>
+<td><p>死之X进化！！</p></td>
+</tr>
+<tr class="odd">
+<td><p>第15章</p></td>
+<td><p>Bx-107</p></td>
+<td></td>
+<td><p>紧急传送</p></td>
+</tr>
+<tr class="even">
+<td><p>第16章</p></td>
+<td><p>Bx-129</p></td>
+<td></td>
+<td><p>崭新的羁绊</p></td>
+</tr>
+<tr class="odd">
+<td><p>第17章</p></td>
+<td><p>Bx-130</p></td>
+<td></td>
+<td><p>斯库尔德终端</p></td>
+</tr>
+<tr class="even">
+<td><p>第18章</p></td>
+<td><p>Bx-131</p></td>
+<td></td>
+<td><p>破灭的使徒降临！！</p></td>
+</tr>
+<tr class="odd">
+<td><p>第19章</p></td>
+<td><p>Bx-132</p></td>
+<td></td>
+<td><p>奥米加初始之力！！</p></td>
+</tr>
+<tr class="even">
+<td><p>第20章</p></td>
+<td><p>Bx-133</p></td>
+<td></td>
+<td><p>维系希望的伙伴</p></td>
+</tr>
+<tr class="odd">
+<td><p>第21章</p></td>
+<td><p>Bx-135</p></td>
+<td></td>
+<td><p>圣剑召唤阵的启动！</p></td>
+</tr>
+<tr class="even">
+<td><p>第22章</p></td>
+<td><p>Bx-134</p></td>
+<td></td>
+<td><p>究极战刃王龙剑</p></td>
+</tr>
+</tbody>
+</table>
+
 #### 代理情况
 
   - 香港
 
-[正文社](../Page/正文社.md "wikilink")的余遠鍠授权创作《[數碼-{}-暴龍D-Cyber超進化龍魂戰記](https://zh.wikipedia.org/wiki/數碼暴龍D-Cyber超進化龍魂戰記 "wikilink")》（共2卷14话，改編於携带机漫画《數碼寶貝編年史》），連載於《[CO-CO\!](../Page/CO-CO!.md "wikilink")》。
+<!-- end list -->
 
-  - 新加坡
-
-[創藝出版社](../Page/創藝出版社.md "wikilink")代理余遠鍠的《[Digimon D-Cyber](https://zh.wikipedia.org/wiki/數碼暴龍D-Cyber超進化龍魂戰記 "wikilink")》，在新加坡和马来西亚发行英文和简体中文版（封面为繁体中文封面）。
+  - [正文社](../Page/正文社.md "wikilink")的[余遠鍠](../Page/余遠鍠.md "wikilink")获授权创作《[數碼-{}-暴龍D-Cyber超進化龍魂戰記](https://zh.wikipedia.org/wiki/數碼暴龍D-Cyber超進化龍魂戰記 "wikilink")》（共2卷14话，改編於携带机漫画《數碼寶貝編年史》），連載於《[CO-CO\!](../Page/CO-CO!.md "wikilink")》。
 
 ### 数码宝贝编年史X
 
-《数码宝贝编年史X》（Digimon Chronicle X）于2019年3月14日万代发售的携带机“数码怪兽X”系列的背景故事而衍生的漫画，于2018年1月18日起在万代数码兽官网刊载，\[5\]同时也随携带机捆绑发售。
+《数码宝贝编年史X》（Digimon Chronicle X）于2019年3月14日-2020年3月万代发售的携带机“数码怪兽X”系列的背景故事而衍生的漫画，于2018年1月12日起在万代数码兽官网刊载，\[5\]同时也随携带机捆绑发售。
+
+#### 各章列表
+
+<table>
+<thead>
+<tr class="header">
+<th><p>章节</p></th>
+<th><p>版本</p></th>
+<th><p>日文标题</p></th>
+<th><p>中文标题</p></th>
+<th><p>发表日期</p></th>
+<th><p>发售时间</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>第1章</p></td>
+<td><p>Ver.1</p></td>
+<td></td>
+<td><p>自那之后十多年……</p></td>
+<td><p>2018年1月12日</p></td>
+<td><p>2019年3月14日</p></td>
+</tr>
+<tr class="even">
+<td><p>第2章</p></td>
+<td></td>
+<td><p>荒废</p></td>
+<td><p>2018年8月24日</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第3章</p></td>
+<td></td>
+<td><p>引导者</p></td>
+<td><p>2018年9月13日</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>第4章</p></td>
+<td></td>
+<td><p>全新秩序</p></td>
+<td><p>2018年9月14日</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第5章</p></td>
+<td><p>Ver.2</p></td>
+<td></td>
+<td><p>大德拉库兽</p></td>
+<td><p>2019年6月19日</p></td>
+<td><p>2019年11月</p></td>
+</tr>
+<tr class="even">
+<td><p>第6章</p></td>
+<td></td>
+<td><p>黑暗区域</p></td>
+<td><p>2019年6月19日</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第7章</p></td>
+<td></td>
+<td><p>被开启的黑暗之门</p></td>
+<td><p>2019年6月20日</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>第8章</p></td>
+<td></td>
+<td><p>扩大的威胁</p></td>
+<td><p>2019年6月21日</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第9章</p></td>
+<td></td>
+<td><p>阴谋</p></td>
+<td><p>2019年6月24日</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>第10章</p></td>
+<td></td>
+<td><p>最后的七大魔王</p></td>
+<td><p>2019年6月25日</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第11章</p></td>
+<td></td>
+<td><p>激突</p></td>
+<td><p>2019年6月26日</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>第12章</p></td>
+<td><p>Ver.3</p></td>
+<td></td>
+<td><p>决死</p></td>
+<td><p>2019年9月12日</p></td>
+<td><p>2020年3月</p></td>
+</tr>
+<tr class="odd">
+<td><p>第13章</p></td>
+<td></td>
+<td><p>反击的预兆</p></td>
+<td><p>2019年9月13日</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>第14章</p></td>
+<td></td>
+<td><p>骑士王和V</p></td>
+<td><p>2019年9月17日</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第15章</p></td>
+<td></td>
+<td><p>配对</p></td>
+<td><p>2019年9月18日</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>第16章</p></td>
+<td></td>
+<td><p>救世主</p></td>
+<td><p>2019年9月19日</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第17章</p></td>
+<td></td>
+<td><p>克服</p></td>
+<td><p>2019年9月20日</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>第18章</p></td>
+<td><p>Ｎ／Ａ</p></td>
+<td><p>Ｎ／Ａ</p></td>
+<td><p>2019年10月1日</p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 #### 剧情
 
@@ -301,7 +654,17 @@ Omegamon X-Antibody</p></td>
 
 杰斯兽X拼死抵抗想阻止从黑暗区域飞出的无数邪恶数码兽。数量庞大的邪恶数码兽们覆盖住了天空，周围好像被黑暗吞没了一样。然而更令人绝望的是别西卜兽X和光明兽X出现在了杰斯兽X面前。以两位七大魔王做对手的杰斯兽X处于劣势。此时，杰斯兽X的师父[顽固兽前来援助](https://zh.wikipedia.org/wiki/顽固兽 "wikilink")。光明兽X与顽固兽、别西卜兽X与杰斯兽X的战斗一触即发。事态按光明兽X的策略发展，所有的七大魔王终于悉数出动。就像被X进化的七大魔王触发了一样，突破黑暗区域的邪恶数码兽们的士气空前高涨。他们的气势不仅威胁旧数码世界甚至威胁到新数码世界，危机即将造访整个数码世界。
 
-现在，七大魔王的最强入侵开始了！
+目前为止事态都按照光明兽X谋划的剧本推进，但入侵被突然参战的顽固兽所阻止。焦急的光明兽X为了除掉顽固兽，从黑暗区域召唤[座天使兽](https://zh.wikipedia.org/wiki/座天使兽 "wikilink")：堕落形态X和[智天使兽](https://zh.wikipedia.org/wiki/智天使兽 "wikilink")（恶）X到身边，让他们负责攻击顽固兽。面对两位生力军的攻击，顽固兽拼命抵抗。让两位缠住顽固兽后，光明兽决定趁机攻击杰斯兽X。「对付区区新人皇家骑士，看来也很费工夫啊，别西卜兽。看，我来帮你了。」光明兽X开始攻击在与别西卜兽X的战斗中处于平衡状态的杰斯兽X。「唔啊啊！」被两位七大魔王的攻击压制，杰斯兽X状态崩溃。这时别西卜兽X和光明兽X分别向杰斯兽X放出了「七之全集束」和「七之神圣十字架」。束手无策。两位七大魔王的必杀技直击引发大爆炸。但不可思议的是杰斯兽X并没有受到伤害，当他疑惑地抬头望前方……「师父！？」眼前站立的是摆脱座天使兽：堕落形态X和智天使兽（恶）X两位，在千钧一发之际挺身而出袒护爱徒的顽固兽！另一方面就在不久前，世界树命令皇家骑士全员出击以平息事态。然而[奥米加兽X](https://zh.wikipedia.org/wiki/奥米加兽 "wikilink")、[公爵兽X](https://zh.wikipedia.org/wiki/公爵兽 "wikilink")、[阿尔法兽的去向却无人知晓](https://zh.wikipedia.org/wiki/阿尔法兽 "wikilink")。剩下的皇家骑士[玛格纳兽X](https://zh.wikipedia.org/wiki/玛格纳兽 "wikilink")、[君主兽X](https://zh.wikipedia.org/wiki/君主兽 "wikilink")、[究极V龙兽X](https://zh.wikipedia.org/wiki/究极V龙兽 "wikilink")、[芳香兽X紧急出动](https://zh.wikipedia.org/wiki/芳香兽 "wikilink")。
+
+两位七大魔王大招的直击伤害很深，顽固兽当场无力地倒下。「师父！师父！！」面对杰斯兽X的呼喊顽固兽仍不省人事。光明兽认为这是个好机会，唆使座天使兽：堕落形态X和智天使兽（恶）X立刻展开追击。「哼！这种状况下！」杰斯兽X想尽快救顽固兽，但对手是两位七大魔王再加两个究极体。如何摆脱这场危机状况，杰斯兽找不到头绪，而此时座天使兽：堕落形态X和智天使兽（恶）X却要展开攻击了。「坚持到这一步辛苦了，杰斯兽。现在开始就交给我们吧。」阻挡敌人攻击的三个影子——玛格纳兽X、芳香兽X，以及君主兽X出现了。「伤害同伴的报应就由你们亲自偿还吧。我们上！」
+
+在光明兽X和别西卜兽X面前出现三位皇家骑士的同时，在别的地方皇家骑士也接踵而至。黑暗骑士兽X与巴尔巴兽X的战斗激化，对周围造成了巨大损害。在此期间，[骑士领主兽X强行介入般出现](https://zh.wikipedia.org/wiki/骑士领主兽 "wikilink")。「贪婪之徒们啊，可认得你们面前的骑士王。双方若不放下武器，就将你们化为我蔷薇细剑上的锈斑。」邪恶之间的激斗，由于领主骑士兽的介入，意欲发展成三足鼎立之势。而在别的地方——「这样下去每况愈下，至少再来一个人的话。」「斯雷普兽，勿要倒苦水，仅凭我们便可以阻止他们！」在贝尔菲兽X、利维亚兽X、魔神兽X这巨大的三位七大魔王面前，颅骨兽X和斯雷普兽X陷入了苦战。此时，究极V龙兽X赶到，挡在魔神兽X面前。「抱歉，我来晚了！就由我来做魔神兽的对手吧。来，现在开始就是三对三了。」就这样分散在各地的皇家骑士们，投身到了各自的战斗中。
+
+皇家骑士与七大魔王的冲突拉开了帷幕。幸亏留在新数码世界的皇家骑士全部参战，七大魔王的入侵被拖延了。但是，还做不到阻止大量邪恶数码兽突破黑暗区域，邪恶势力在旧数码世界还在一步步扩大。
+
+两位七大魔王的必杀技给予顽固兽的伤害比想象中的要严重，倒下的顽固兽生命灯火眼看就要熄灭了。而且希望打倒皇家骑士并提高声望的邪恶数码兽们刺探到了顽固兽的危机，纷纷来袭企图给予致命一击。杰斯兽X在守护师父的同时还要拼命抵抗大量来袭的数码兽。君主兽X等也因为各自的战斗爱莫能助，终于没能被杰斯兽X打倒的大军趁机袭击顽固兽。「胜利枪击！」就在此时，随着从高空传来的一个声音，袭击顽固兽的数码兽被一扫而光。此时出现的救世主是公爵兽X。杰斯兽X和公爵兽X在胆怯的大军中找到突破口，接着二人开始肃清邪恶数码兽们。「多谢相助，公爵兽！但是你之前一直行踪不明，之前到底去哪里了？」「与开拓X抗体未来的他们一起行动着，这个暂且放下，还是首先考虑拯救顽固兽吧。」公爵兽X将受伤的顽固兽托在手里。「给予顽固兽X抗体，在X进化的同时促进回复。目前要救他只有这个办法了。」杰斯兽X对公爵兽X的话点头表示赞同，即将X抗体注入到顽固兽体内。顽固兽的身体被激荡的光包围，然后在光收束之际，完成X进化后成为顽固兽X，伤也得到恢复。「机会来了吗……」看到公爵兽X的参战、顽固兽的X进化，光明兽X脸上露出目中无人的笑容并消失了。「马上奥米加高吼兽和跃升暴龙兽他们的援军就要赶到了，去引导他们吧。芳香兽啊，希望你率领他们迈向另一个战局。」公爵兽叫道。芳香兽X强烈点头同意，将现场交给了玛格纳兽X和君主兽X后，急忙赶往领主骑士兽X那里。
+
+艾克萨兽被莉莉丝兽X操纵的大量X数码兽袭击后，以超乎寻常的速度被X程序感染。虽说艾克萨兽拥有强韧的肉体，但仍无法抵抗X抗体侵袭全身带来的疼痛，不久便满身疮痍。「我差不多也厌倦了，这就给你致命一击吧！」莉莉丝兽X以必杀技「娜扎尔之爪」逼近伤痕累累的艾克萨兽。但是，被不知从哪里放出的火焰突然袭击，莉莉丝兽停了下来。「皇家骑士是他们的希望之光……为了他们的心愿我不会让其消失！」[凤凰兽X现身了](https://zh.wikipedia.org/wiki/凤凰兽 "wikilink")。她张开金色之翼，为了保护艾克萨兽对抗莉莉丝兽X。凤凰兽X虽然通过突袭让莉莉丝兽X停了下来，但与七大魔王的正面对决处于劣势，受到了无数次攻击。「身为皇家骑士……我太丢人了！」无论受到多少次攻击都不放弃对抗到底，艾克萨兽被凤凰兽X的英姿鼓舞了。「喔哦——！」随后他自己产生X抗体，完成了X进化。「感谢你勇敢的行动！」「我也是被『他们』刺激到而不得不做出行动吧。」「之前你提到的他们是？虽然不知道是什么，但总之该开始反击了！与我共同行动吧，凤凰兽！」就像与艾克萨兽X的声音同步一样，凤凰兽X站到了他旁边。于是两位组队，一起对抗莉莉丝兽X和邪恶数码兽军团。
 
 #### 旧数码世界
 
@@ -336,9 +699,27 @@ Seven Great Demon Lords X-Antibody</p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/凤凰兽" title="wikilink">凤凰兽X</a><br />
+Hououmon X-Antibody</p></td>
 <td><p>黑暗骑士兽<br />
-Dark Knightmon</p></td>
+Dark Knightmon<br />
+↓<br />
+黑暗骑士兽X<br />
+Dark Knightmon X-Antibody</p></td>
 <td></td>
+</tr>
+<tr class="odd">
+<td><p>奥米加高吼兽<br />
+Omega Shoutmon</p></td>
+<td><p>座天使兽：堕落形态X<br />
+Ofanimon: Falldown Mode X-Antibody</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>跃升暴龙兽<br />
+Rize Greymon</p></td>
+<td><p>智天使兽（恶）X<br />
+Cherubimon (Vice) X-Antibody</p></td>
 <td></td>
 </tr>
 <tr class="odd">

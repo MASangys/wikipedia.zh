@@ -103,7 +103,7 @@ Miguel Gabbanelli</p></td>
 <td><p><a href="../Page/李宗盛.md" title="wikilink">李宗盛</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/潘源良" title="wikilink">潘源良</a></p></td>
 <td><p>楊雲驃</p></td>
-<td><p>重新編曲演唱，與<a href="https://zh.wikipedia.org/wiki/容祖兒" title="wikilink">容祖兒合唱</a></p></td>
+<td><p>重新編曲演唱，與<a href="../Page/容祖兒.md" title="wikilink">容祖兒</a>合唱</p></td>
 </tr>
 <tr class="even">
 <td></td>

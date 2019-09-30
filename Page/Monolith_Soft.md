@@ -73,6 +73,7 @@
   - 《[Splatoon](../Page/Splatoon.md "wikilink")》（Wii U，2015年5月28日，协力开发）
   - 《[动物之森 快乐之家设计师](../Page/动物之森_快乐之家设计师.md "wikilink")》（任天堂3DS，2015年7月30日，受委托开发）
   - 《[薩爾達傳說 曠野之息](https://zh.wikipedia.org/wiki/薩爾達傳說_曠野之息 "wikilink")》（Wii U、[任天堂Switch](../Page/任天堂Switch.md "wikilink")，2017年3月3日，协力开发）\[9\]
+  - 《[Splatoon 2](../Page/Splatoon_2.md "wikilink")》（任天堂Switch，2017年7月21日，受委托开发）
 
 ## 主要成员
 
@@ -97,7 +98,7 @@
 
 3.
 4.
-5.  [1](http://www.starpulse.com/Video_Games/Dirge_of_Cerberus:_Final_Fantasy_VII/gameinfo/Dirge_of_Cerberus:_Final_Fantasy_VII/H47278/C/) . *Dirge of Cerberus: Final Fantasy VII (PlayStation 2) Credits*.
+5.  .
 
 6.
 7.  [大乱闘スマッシュブラザーズX まとめwiki - スタッフ・声優](http://www13.atwiki.jp/sumaburax/pages/232.html)

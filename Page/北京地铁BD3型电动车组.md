@@ -2,7 +2,7 @@
 
 ## 简介
 
-BD3型一共2辆，于1996年生产，在[1号线运营](../Page/北京地铁1号线.md "wikilink")。列车编号为G2081、G2086，并与[DK11型的](../Page/北京地铁DK11型电动车组.md "wikilink")4节车厢混编运营。每节车厢共4对车门，为[内藏门](https://zh.wikipedia.org/wiki/内藏门 "wikilink")，列车两端拥有[紧急出口](https://zh.wikipedia.org/wiki/紧急出口 "wikilink")。列车在退出运营前，配属于[古城车辆段](https://zh.wikipedia.org/wiki/古城车辆段 "wikilink")，曾一度作为[八通线的冷滑试验用车](https://zh.wikipedia.org/wiki/八通线 "wikilink")。目前此列车存放于[四惠车辆段中](https://zh.wikipedia.org/wiki/四惠车辆段 "wikilink")。
+BD3型一共2辆，于1996年生产，在[1号线运营](../Page/北京地铁1号线.md "wikilink")。列车编号为G2081、G2086，并与[DK11型的](../Page/北京地铁DK11型电动车组.md "wikilink")4节车厢混编运营。每节车厢共4对车门，为[内藏门](https://zh.wikipedia.org/wiki/内藏门 "wikilink")，列车两端拥有[紧急出口](https://zh.wikipedia.org/wiki/紧急出口 "wikilink")。列车在退出运营前，配属于[古城车辆段](../Page/古城车辆段.md "wikilink")，曾一度作为[八通线的冷滑试验用车](https://zh.wikipedia.org/wiki/八通线 "wikilink")。目前此列车存放于[四惠车辆段中](https://zh.wikipedia.org/wiki/四惠车辆段 "wikilink")。
 
 ## 编组
 
