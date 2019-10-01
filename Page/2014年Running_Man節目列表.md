@@ -51,7 +51,7 @@
 <small>（<em>2013年<br />
 12月16日</em>）</small></p></td>
 <td><p><a href="../Page/朴修弘.md" title="wikilink">朴修弘</a>、<a href="../Page/金慶皓.md" title="wikilink">金慶皓</a>、<br />
-、<a href="../Page/李棟旭.md" title="wikilink">李棟旭</a>、<br />
+<a href="../Page/宋慶雅.md" title="wikilink">宋慶雅</a>、<a href="../Page/李棟旭.md" title="wikilink">李棟旭</a>、<br />
 <a href="../Page/John_Park.md" title="wikilink">John Park</a>、<br />
 <a href="../Page/金栽經.md" title="wikilink">栽經</a>（<a href="../Page/Rainbow_(音樂團體).md" title="wikilink">Rainbow</a>）、<br />
 <a href="../Page/金聖圭.md" title="wikilink">聖圭</a>（<a href="https://zh.wikipedia.org/wiki/Infinite" title="wikilink">Infinite</a>）[1]</p></td>
@@ -598,7 +598,7 @@ Severance醫院<br />
 <td><p><a href="../Page/池晟.md" title="wikilink">池晟</a>、<a href="../Page/許卿煥.md" title="wikilink">許卿煥</a>、<br />
 <a href="https://zh.wikipedia.org/wiki/朱智勳" title="wikilink">朱智勳</a>、<a href="https://zh.wikipedia.org/wiki/車由蘭" title="wikilink">車由蘭</a>、<br />
 、<a href="../Page/白成鉉.md" title="wikilink">白成鉉</a>、<br />
-、<br />
+<a href="https://zh.wikipedia.org/wiki/Sam_Okyere" title="wikilink">Sam Okyere</a>、<br />
 <a href="../Page/尹普美.md" title="wikilink">尹普美</a>、<a href="../Page/孫娜恩.md" title="wikilink">孫娜恩</a><br />
 (<a href="https://zh.wikipedia.org/wiki/A_Pink" title="wikilink">A Pink</a>)</p></td>
 <td><p>BlueOne度假村<br />
@@ -1055,7 +1055,7 @@ Gary、金鐘國、哈哈、曹政奭</p></td>
 <small>（353）</small></p></td>
 <td><p>11月16日<br />
 <small>（<em>11月3日</em>）</small></p></td>
-<td><p><a href="../Page/金慶皓.md" title="wikilink">金慶皓</a>、、<br />
+<td><p><a href="../Page/金慶皓.md" title="wikilink">金慶皓</a>、<a href="../Page/金煙雨.md" title="wikilink">金煙雨</a>、<br />
 、<a href="../Page/鄭仁.md" title="wikilink">鄭仁</a>、<br />
 <a href="https://zh.wikipedia.org/wiki/朴孝珍" title="wikilink">Narsha</a><br />
 （<a href="../Page/Brown_Eyed_Girls.md" title="wikilink">Brown Eyed Girls</a>）、<br />

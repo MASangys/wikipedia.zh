@@ -1,4 +1,4 @@
-**MALIBU**是一個[香港](../Page/香港.md "wikilink")[新界](../Page/新界.md "wikilink")[將軍澳](../Page/將軍澳.md "wikilink")東南部的臨海豪華私人屋苑，是港鐵大型臨海住宅區[日出康城](../Page/日出康城.md "wikilink")第5期，亦為[會德豐地產](../Page/會德豐地產.md "wikilink")O' East系列首個臨海住宅項目，由[會德豐地產](../Page/會德豐地產.md "wikilink")及[港鐵公司共同發展](https://zh.wikipedia.org/wiki/港鐵公司 "wikilink")，建築師為[呂元祥建築師事務所](../Page/呂元祥建築師事務所.md "wikilink")，承建商為[協興建築](../Page/協興建築.md "wikilink")，將於2020年5月落成及入伙。MALIBU以The Touch of Urban Nature為主題，命名源自[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加州海濱滑浪城市](https://zh.wikipedia.org/wiki/加州 "wikilink")[馬利布](https://zh.wikipedia.org/wiki/馬利布 "wikilink")，配合日出康城這個全新海濱住宅區。MALIBU層樓最高達71層（1A、1B座），落成後將成為新界區第二高的住宅大樓（僅次於日出康城2B期[領峯](https://zh.wikipedia.org/wiki/領峯 "wikilink")）。
+**MALIBU**是一個[香港](../Page/香港.md "wikilink")[新界](../Page/新界.md "wikilink")[將軍澳](../Page/將軍澳.md "wikilink")東南部的臨海豪華私人屋苑，是港鐵大型臨海住宅區[日出康城](../Page/日出康城.md "wikilink")第5期，亦為[會德豐地產](../Page/會德豐地產.md "wikilink")O' East系列首個臨海住宅項目，由[會德豐地產](../Page/會德豐地產.md "wikilink")及[港鐵公司共同發展](https://zh.wikipedia.org/wiki/港鐵公司 "wikilink")，建築師為[呂元祥建築師事務所](../Page/呂元祥建築師事務所.md "wikilink")，承建商為[協興建築](../Page/協興建築.md "wikilink")，將於2020年5月落成及入伙。MALIBU以The Touch of Urban Nature為主題，命名源自[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加州海濱滑浪城市](https://zh.wikipedia.org/wiki/加州 "wikilink")[馬利布](https://zh.wikipedia.org/wiki/馬利布 "wikilink")，配合日出康城這個全新海濱住宅區。MALIBU層樓最高達71層（1A、1B座），落成後將成為新界區第二多層數的住宅大樓（僅次於日出康城2B期[領峯](https://zh.wikipedia.org/wiki/領峯 "wikilink")）。
 
 MALIBU共提供1,600伙，面積介乎356至1,344平方呎。MALIBU首批單位折實平均呎價14,347元，較2017年10月同區晉海II首批均價14,598元略低約2%。其中有70-72樓頂層連空中平台特色戶以招標推出，實用呎價達26,700元，創[日出康城](../Page/日出康城.md "wikilink")新高。\[1\]項目於2018年3月1日開售，示範單位設於[尖沙咀](../Page/尖沙咀.md "wikilink")[港威大廈](../Page/港威大廈.md "wikilink")一座十樓。
 
@@ -22,6 +22,12 @@ MALIBU共提供1,600伙，面積介乎356至1,344平方呎。MALIBU首批單位�
 項目提供263個車位，住戶與車位比例約為6:1。1至3樓設24小時通道往[康城路](../Page/康城路.md "wikilink")。
 
 而在項目地下，將設有永久公共交通交匯處，與鄰近三期緻藍天地下的公共交通交匯處預留空間銜接。
+
+## 意外
+
+2017年6月15日，地盤其中一台逾20米高度天秤突然折曲倒塌，無人受傷，列作工業意外處理\[3\]。同年9月12日，地盤發生嚴重致命意外，一名55歲姓嚴工人在棚架上工作期間，由約10米高平台位置墮下，最終不治。\[4\]
+
+`同年亦受`[`超強颱風天鴿影響`](../Page/颱風天鴿對港澳地區之影響.md "wikilink")`，其中一座天秤倒塌，無人受傷；至10月，發展商拆除已倒塌天秤,另外安裝新的天秤。`
 
 ## 興建圖片
 
@@ -69,3 +75,5 @@ O'East是會德豐地產在[日出康城](../Page/日出康城.md "wikilink")的
 
 1.
 2.
+3.
+4.

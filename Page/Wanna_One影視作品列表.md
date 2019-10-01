@@ -524,7 +524,7 @@
 <tr class="even">
 <td><p>7月27日-8月24日</p></td>
 <td><p>SBS</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/叢林的法則" title="wikilink">叢林的法則</a>》沙巴篇</p></td>
+<td><p>《<a href="../Page/叢林的法則.md" title="wikilink">叢林的法則</a>》沙巴篇</p></td>
 <td><p>河成雲、邕聖祐</p></td>
 <td></td>
 </tr>

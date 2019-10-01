@@ -219,11 +219,13 @@
 
 ## 爭議
 
-2016年7月18日韓國女[聲優](../Page/聲優.md "wikilink")在[推特發布一張穿著](https://zh.wikipedia.org/wiki/推特 "wikilink")「Girls Do Not Need a Prince（女孩不需要王子）」文字的[T恤](../Page/T恤.md "wikilink")後，很快的被Nexon解雇\[67\]。2017年5月11日，在台港澳地區新增的[泳裝](https://zh.wikipedia.org/wiki/泳裝 "wikilink")[虛擬抽獎](../Page/虛擬抽獎.md "wikilink")，因為要收集整套的難度過高引發眾多玩家不滿，營運商樂意傳播在隔日發起道歉公告\[68\]，並將該虛擬抽獎的商品改成商城販賣\[69\]。玩家向公共政策網路參與平臺提案，希望能改善對線上遊戲的法規\[70\]。
+2016年7月18日韓國女[聲優](../Page/聲優.md "wikilink")在[推特發布一張穿著](https://zh.wikipedia.org/wiki/推特 "wikilink")「Girls Do Not Need a Prince（女孩不需要王子）」文字的[T恤](../Page/T恤.md "wikilink")後，很快的被Nexon解雇\[67\]。但根據[BBC News報導](https://zh.wikipedia.org/wiki/BBC_News "wikilink")\[68\]，這件T恤是由韓國具有爭議性的極端女權組織所售賣。
+
+2017年5月11日，在台港澳地區新增的[泳裝](https://zh.wikipedia.org/wiki/泳裝 "wikilink")[虛擬抽獎](../Page/虛擬抽獎.md "wikilink")，因為要收集整套的難度過高引發眾多玩家不滿，營運商樂意傳播在隔日發起道歉公告\[69\]，並將該虛擬抽獎的商品改成商城販賣\[70\]。玩家向公共政策網路參與平臺提案，希望能改善對線上遊戲的法規\[71\]。
 
 ## 評價
 
-PCGamesN將遊戲列入PC上最佳的動漫遊戲\[71\]。越南媒體網站TCN將遊戲列入2018上半年最著名的五大MMORPG的第五。\[72\]
+PCGamesN將遊戲列入PC上最佳的動漫遊戲\[72\]。越南媒體網站TCN將遊戲列入2018上半年最著名的五大MMORPG的第五。\[73\]
 
 ## 參考文獻
 
@@ -360,7 +362,7 @@ PCGamesN將遊戲列入PC上最佳的動漫遊戲\[71\]。越南媒體網站TCN�
 
 67.
 
-68.
+68. [South Korea gaming: How a T-shirt cost an actress her job](https://www.bbc.com/news/world-asia-37018916). bbc.com/news. BBC News. 2016-08-15.
 
 69.
 
@@ -369,3 +371,5 @@ PCGamesN將遊戲列入PC上最佳的動漫遊戲\[71\]。越南媒體網站TCN�
 71.
 
 72.
+
+73.

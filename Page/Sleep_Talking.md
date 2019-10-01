@@ -137,6 +137,8 @@
 | 2013年8月21日 | [잠꼬대 (Sleep Talking)](http://www.youtube.com/watch?v=zgtaPhD97GA)                 |
 | 2013年9月1日  | [잠꼬대(Sleep Talking)_Dance Only](https://www.youtube.com/watch?v=hjKfJNM13BE)     |
 | 2013年9月2日  | [Fine Girl](http://www.youtube.com/watch?v=AGqZsESGoRU)                           |
+| 2019年4月17日 | [Beautiful Ghost](http://www.youtube.com/watch?v=zhM8m-WR4u0)                     |
+|            |                                                                                   |
 
 ## 發行歷史
 

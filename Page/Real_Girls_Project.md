@@ -1,8 +1,8 @@
-**Real Girls Project**（，简称：**R.G.P**），因韓國電視劇《[偶像大師.KR](../Page/偶像大師.KR.md "wikilink")-追逐夢想》於2016年8月成立的韓國十人女子企劃組合，推出時成員包括[素麗](https://zh.wikipedia.org/wiki/CocoSori#成员档案 "wikilink")、[憐朱](../Page/許憐朱.md "wikilink")、[來可](../Page/寺本來可.md "wikilink")、蕸書、智元、[Mint](https://zh.wikipedia.org/wiki/Tiny-G#成员资料 "wikilink")、何奈星、睿恩、[秀智](../Page/李绣至.md "wikilink")、[載寅](https://zh.wikipedia.org/wiki/載寅_\(1999年\) "wikilink")。隊長為憐朱。
+**Real Girls Project**（，简称：**R.G.P**），因韓國電視劇《[偶像大師.KR](../Page/偶像大師.KR.md "wikilink")-追逐夢想》於2016年8月成立的韓國十人女子企劃組合，推出時成員包括[素麗](https://zh.wikipedia.org/wiki/CocoSori#成员档案 "wikilink")、[憐朱](../Page/許憐朱.md "wikilink")、[來可](../Page/寺本來可.md "wikilink")、蕸書、智元、[Mint](https://zh.wikipedia.org/wiki/Tiny-G#成员资料 "wikilink")、何奈星、睿恩、[秀智](../Page/李绣至.md "wikilink")、[載寅](https://zh.wikipedia.org/wiki/載寅_\(1999年\) "wikilink")。隊長為**素麗**。
 
 2016年8月25日，推出首張單曲《Dream》在[Mnet](../Page/Mnet.md "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》出道。
 
-2016年10月13日，成員何奈星因腳傷而退出組合，由智瑟加入。
+2016年10月13日，成員何奈星因腳傷而退出組合，智瑟加入。
 
 2017年3月31日，分隊組合B-Side成立，由素麗、來可、智元、睿恩、智瑟組成。
 
@@ -55,7 +55,7 @@
 <td><p><a href="../Page/寺本來可.md" title="wikilink">來可</a></p></td>
 </tr>
 <tr class="even">
-<td><p>蕸書</p></td>
+<td><p>勢玲[6]</p></td>
 </tr>
 <tr class="odd">
 <td><p>智元</p></td>
@@ -67,7 +67,7 @@
 <td><p>睿恩</p></td>
 </tr>
 <tr class="even">
-<td><p>智瑟[6]</p></td>
+<td><p>智瑟[7]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/李繡至" title="wikilink">秀智</a></p></td>
@@ -296,7 +296,7 @@
 |                          |                                                                                                 |         |          |
 | ------------------------ | ----------------------------------------------------------------------------------------------- | ------- | -------- |
 | 放送日期                     | 電視台/節目名稱                                                                                        | 參與成員    | 备注       |
-| 2017年10月28日 - 2018年1月6日  | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[The Unit](../Page/The_Unit.md "wikilink")》 | 蕸書、Mint | 參賽者\[7\] |
+| 2017年10月28日 - 2018年1月6日  | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[The Unit](../Page/The_Unit.md "wikilink")》 | 蕸書、Mint | 參賽者\[8\] |
 | 2017年10月28日 - 2018年2月10日 | 秀智                                                                                              |         |          |
 | 2017年10月29日 - 12月10日     | [JTBC](../Page/JTBC.md "wikilink")《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》 | 憐朱、睿恩   | 參賽者      |
 | 2017年10月29日 - 12月31日     | 來可                                                                                              |         |          |
@@ -438,5 +438,6 @@
 3.
 4.
 5.  [IDOLMASTER_KR_OFFICIAL在微博正名](http://tw.weibo.com/idolmasterkr/4040234914609224)
-6.  [IDOLMASTER_KR_OFFICIAL在有關何奈星退出微博帖文中為何奈星、智瑟正名](http://tw.weibo.com/idolmasterkr/4042785113760716)
-7.  [Real Girls Project四位成員出賽The Unit](http://m.entertain.naver.com/read?oid=108&aid=0002646277)
+6.  前藝名為**蕸書**（하서，Haseo，ハソ）
+7.  [IDOLMASTER_KR_OFFICIAL在有關何奈星退出微博帖文中為何奈星、智瑟正名](http://tw.weibo.com/idolmasterkr/4042785113760716)
+8.  [Real Girls Project四位成員出賽The Unit](http://m.entertain.naver.com/read?oid=108&aid=0002646277)

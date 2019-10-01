@@ -34,7 +34,7 @@
 
 LINK VRAINS關閉維修期間，SOL技術社為了挽救聲譽而開發了全新的人工智能管家SOLtis，這普遍取得了大眾的歡迎。伊格尼斯們全數陣亡後，傷心的Ai帶著機器嗶自行離開，而擁有人形外表的兩人則暗自襲擊了SOL技術社的皇后，並奪走了代碼密鑰。為此，財前晃帶著蒼藍少女集結了Playmaker、Revolver、Soulburner、Go鬼塚、魅影嬌娃、血色牧羊人及Unnamed（草薙翔一），想藉此守護晃手中的另一把密鑰。另一方面，也打算協助晃的漢諾騎士則製造了用於對付Ai的潘朵兒。在現實中，遊作向晃及葵透露了自己Playmaker的身份。
 
-Ai帶著機器嗶入侵了SOL，並在相繼擊敗了亡靈、三騎士、魅影嬌娃、血色牧羊人、Go鬼塚、潘朵兒、蒼藍少女和財前晃後成功奪得了代碼密鑰，而整個SOL也遭到SOLtis佔領。在Soulburner擊敗機器嗶後獲得了關於Ai的線索，但左輪則現身爭奪，而使兩人展開決鬥。最後左輪敗給了Soulburner，以完成對他的「懺悔」。
+Ai帶著機器嗶入侵了SOL，並在相繼擊敗了亡靈、三騎士、魅影嬌娃、血色牧羊人、Go鬼塚、潘朵兒、蒼藍少女和財前晃後成功奪得了代碼密鑰，而整個SOL也遭到SOLtis佔領。在Soulburner擊敗機器嗶後獲得了關於Ai的線索，但左輪則現身爭奪，而使兩人展開決鬥。最後左輪敗給了Soulburner，以完成對他的「懺悔」。在Ai的邀請下，Playmaker終於與他碰面並展開最終決鬥；在決鬥中，Ai道出了自己在萊德寧生前留下的模擬演算中得知——唯Ai獨自留下就會對人類世界造成滅亡的結果，這使Ai決定透過Playmaker阻止這一切。
 
 ## 登場人物
 
@@ -85,7 +85,7 @@ Ai帶著機器嗶入侵了SOL，並在相繼擊敗了亡靈、三騎士、魅影
     餐車小販，同時也是與遊作有著共同目標的駭客；知曉遊作就是Playmaker的秘密，也是遊作少數信賴的盟友。
     有一位跟遊作一樣是十年前Lost事件的被害者之一的弟弟草薙仁，他弟弟因Lost事件造成心靈創傷而自我封閉的。
     在遊作登入到LINK VRAINS時常用駭客技術支援，其中遊作的新D滑浪板是他設計的。
-    在LINK VRAINS中的用戶名為「****」，後改為與現實相同。
+    在LINK VRAINS中的用戶名為「****」，在與Playmaker對峙期間曾改用現實身份登入。
     其牌組以「****」之名的怪獸為主。
 
 #### 伊格尼斯
@@ -412,7 +412,7 @@ Ai帶著機器嗶入侵了SOL，並在相繼擊敗了亡靈、三騎士、魅影
       -
         作曲、編曲：Yocke / 作詞、主唱：
 
-:; 「calling」（TURN 103 ～ ）
+:; 「calling」（TURN 103 ～ 120）
 
   -
 
@@ -451,7 +451,7 @@ Ai帶著機器嗶入侵了SOL，並在相繼擊敗了亡靈、三騎士、魅影
       -
         作詞：Miku Kobato / 作曲、編曲、主唱：[BAND-MAID](../Page/BAND-MAID.md "wikilink")
 
-:; 「Are you ready？」（TURN 96 ～ ）
+:; 「Are you ready？」（TURN 96 ～ 120）
 
   -
 
@@ -1650,12 +1650,44 @@ Hwang Seong-won</p></td>
 <td><p>117</p></td>
 <td></td>
 <td><p>平行的前途</p></td>
+<td><p>吉田伸</p></td>
+<td><p>えらん</p></td>
+<td><p>三家本泰美</p></td>
+<td><p>佐藤瑞基<br />
+長谷川一生</p></td>
+</tr>
+<tr class="even">
+<td><p>118</p></td>
 <td></td>
+<td><p>魯莽的提案</p></td>
+<td><p>西田章二</p></td>
+<td><p>高橋雅和</p></td>
+<td><p>金子優司</p></td>
 <td></td>
+</tr>
+<tr class="odd">
+<td><p>119</p></td>
 <td></td>
+<td><p>逐漸崩毀的自我</p></td>
+<td><p>高田昌宏</p></td>
+<td><p>佐藤道拓</p></td>
+<td><p>Kang Hyeon-guk<br />
+Jeong Yong-un<br />
+Moon-Hee<br />
+Lee Seok-yun</p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>120</p></td>
+<td></td>
+<td><p>連結起來的世界</p></td>
+<td><p>淺野勝也</p></td>
+<td><p>武藤公春</p></td>
+<td><p>川村裕哉<br />
+荏原裕子</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

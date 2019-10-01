@@ -18,7 +18,7 @@ Best Buddies International 為促進使命得以在世界上延續，Best Buddie
 
 ### 亞洲區
 
-[香港](../Page/香港.md "wikilink") [印度尼西亞](https://zh.wikipedia.org/wiki/印度尼西亞 "wikilink") [韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink") [澳門](../Page/澳門.md "wikilink") [馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink") [蒙古](https://zh.wikipedia.org/wiki/蒙古 "wikilink") [菲律賓](https://zh.wikipedia.org/wiki/菲律賓 "wikilink") [新加坡](../Page/新加坡.md "wikilink") [泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink") [越南](https://zh.wikipedia.org/wiki/越南 "wikilink")
+[香港特别行政区](https://zh.wikipedia.org/wiki/香港特别行政区 "wikilink") [印度尼西亞](https://zh.wikipedia.org/wiki/印度尼西亞 "wikilink") [韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink") [澳門特别行政区](https://zh.wikipedia.org/wiki/澳門特别行政区 "wikilink") [馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink") [蒙古](https://zh.wikipedia.org/wiki/蒙古 "wikilink") [菲律賓](https://zh.wikipedia.org/wiki/菲律賓 "wikilink") [新加坡](../Page/新加坡.md "wikilink") [泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink") [越南](https://zh.wikipedia.org/wiki/越南 "wikilink")
 
 ### 歐洲區
 

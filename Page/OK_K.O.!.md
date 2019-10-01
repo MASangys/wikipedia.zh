@@ -19,22 +19,22 @@
     喜歡收集戰力卡(Pow Cards)。
     和Turbo K.O.和解後能使用其一部份能力。
 
-**DJ Enid**(帥妮唱片骑师)
+**DJ Enid**(帥妮)
 
   -
     配音： Mena Suvari , Ashly Burch
     英雄等級：3(第三季第一集升級為5級)
-    全名Enid "Fireball-E." Reverie-Nid。紫色頭髮的人類女生，於英雄供應店嘎樂福擔任收銀員。平時使用忍術戰鬥，聲稱自己父母是偉大的忍者。其實父母是狼人和吸血鬼，而本身實際則是女巫。
+    全名Enid "Fireball-E.Nid" Mettle-Nid。紫色頭髮的人類女生，於英雄供應店嘎樂福擔任收銀員。平時使用忍術戰鬥，聲稱自己父母是偉大的忍者。其實父母是狼人和吸血鬼，而本身實際則是女巫。
     "Point to the Plaza"中被邀請加入威猛局。
 
-**Radicles X**(阿肌·X)
+**Radicles X**(阿肌)
 
   -
     配音： Ian Jones-Quartey, Sterling Jarvis ﹙"Rad Likes Robots"中主唱﹚
     英雄等級： 2(第三季第一集升級為4級)
     全名Radicles "Rad" X。於英雄供應店嘎樂福工作，專門負上貨的藍色外星人，能力是令物件懸浮。
 
-**Mr. Gar**(主要:嘎先生)(其他翻譯:格先生)
+**Mr. Gar**(主要:嘎sir)
 
   -
     配音： David Herman
@@ -68,19 +68,20 @@
 
   -
     全名Turbo Kai-T.Kai "Turbo K.O.-T.K.O." Turbo O.-T.O.。K.O.的黑暗面，戰力極強。
-    由K.O.的負面思想誕生的「野獸」，在故事中是個較複雜的角色，不能將其認定為反派或正派，是劇情發展的關鍵人物。
+    Shadowy Figure利用K.O.負面思想而誕生的「野獸」，在故事中是個較複雜的角色，不能將其認定為反派或正派，是劇情發展的關鍵人物。
     以K.O.開朗、樂觀為比較，Turbo K.O.則較為厭世、黑暗，類似青春期叛逆的少年,在T.K.O.'s House裡,可以看得出來他很喜歡搖滾這類的東西。
+    在“T.K.O. Rules”中，T.K.O.重新出現接管了K.O.的身體並把K.O放逐到潛意識以對抗Shadowy Figure，但最後跟Shadowy Figure结盟了。
 
 目前資訊含美國演到的部分 但只含有翻譯到的進度 (第三季第一集\~第三集)
 
 ### 反派
 
-**Lord M. Boxman, Sr.**(大M.·邪門博士)
+**Lord Boxman, Sr.**(大邪門博士)
 
   -
     配音： [Jim Cummings](https://zh.wikipedia.org/wiki/Jim_Cummings "wikilink")
     英雄等級： -10
-    全名M. "Lad-Senior" Boxmore-Boxman, Sr.。主要反派，英雄供應店嘎樂福對面邪門區的老闆。時常派他的機器人騷擾廣場，在第一季结尾被打上太陽。
+    全名M.-John "Lad-Senior" Boxmore-Boxman, Sr.。主要反派，英雄供應店嘎樂福對面邪門區的老闆。時常派他的機器人騷擾廣場，在第一季结尾被打上太陽。
 
 **Shannon N. v2.0**(香農·N.v2.0)
 
@@ -108,10 +109,10 @@
     "Plaza Prom" 中因其性格喜歡炫耀而無法抵抗參加派對。
     儘管他們性格陰險，但他們表現出關心某些人和事。 如Shannons出現故障並且愛上了Radicles，Raymonds表現出自己為Shannons幸福著想。並且儘管遭受了Boxman的虐待，還是對他們的創造者表現出如父子的關心。
 
-**Lord M. Boxman, Jr.**(小M.·邪門博士)
+**Lord Boxman, Jr.**(小邪門博士)
 
   -
-    全名M. "Hoagie-Junior" Boxman, Jr.。Lord Boxman因為機器人孩子們失敗太多而製作的機器人小兒子，使用了毒液教授給予的邪惡芯片以運作。
+    全名John "Hoagie-Junior" Boxman, Jr.。Lord Boxman因為機器人孩子們失敗太多而製作的機器人小兒子，使用了毒液教授給予的邪惡芯片以運作。
 
 ### 其他
 

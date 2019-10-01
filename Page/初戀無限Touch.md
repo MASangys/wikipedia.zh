@@ -1,8 +1,8 @@
-是由马伟豪导演执导，[陈晓东](https://zh.wikipedia.org/wiki/陈晓东 "wikilink")、[梁咏琪](https://zh.wikipedia.org/wiki/梁咏琪 "wikilink")、[许冠英](https://zh.wikipedia.org/wiki/许冠英 "wikilink")、[黃偉文](https://zh.wikipedia.org/wiki/黃偉文 "wikilink")、[冯德伦等主演的一部浪漫爱情喜剧](https://zh.wikipedia.org/wiki/冯德伦 "wikilink")。该片于1997年3月23日在香港上映。
+是由[马伟豪导演执导](https://zh.wikipedia.org/wiki/马伟豪 "wikilink")，[陈晓东](https://zh.wikipedia.org/wiki/陈晓东 "wikilink")、[梁咏琪](https://zh.wikipedia.org/wiki/梁咏琪 "wikilink")、[许冠英](https://zh.wikipedia.org/wiki/许冠英 "wikilink")、[黃偉文](https://zh.wikipedia.org/wiki/黃偉文 "wikilink")、[冯德伦等主演的一部浪漫爱情喜剧](https://zh.wikipedia.org/wiki/冯德伦 "wikilink")。该片于1997年3月23日在香港上映。
 
 ## 劇情簡介
 
-沈志康（陈晓东 饰）生于香港草根阶层，只能在野鸡学校就读。活跃好动，懒读书，但品性纯良。阿塔（梁咏琪）则是名校女生，品学兼优，家境富裕。 康与好友在音响公司打工。一天，他们替一所貴族名校的才藝發表會架設音响器材。阿康看到了在地铁偶遇的女孩——阿塔（梁咏琪 饰），发觉与对方样貌非常相似 ，因而互相吸引。两人的接触越来越多，很快就坠入情网了。阿康知道阿塔出身高贵，品学兼优，便顿生自卑感，訛称自己在名校那莎讀書，闹出笑话。阿塔的母亲知道后，使她对阿康的印象大打折扣，更与阿康的父亲之间产生误会。小情侣之间也产生了矛盾。会考在即，阿塔的母亲阻止二人交往，塔因心情不佳而高考成绩强差人意，塔母要她往英国升学，一对初恋小情人面临分手边缘，上机前一夜，亦是两人最甜蜜一刻……
+沈志康（陈晓东 饰）生于香港[草根](../Page/草根.md "wikilink")阶层，只能在野鸡学校就读。活跃好动，懒读书，但品性纯良。阿塔（梁咏琪）则是名校女生，品学兼优，家境富裕。 康与好友在音响公司打工。一天，他们替一所貴族名校的才藝發表會架設音响器材。阿康看到了在地铁偶遇的女孩——阿塔（梁咏琪 饰），发觉与对方样貌非常相似 ，因而互相吸引。两人的接触越来越多，很快就坠入情网了。阿康知道阿塔出身高贵，品学兼优，便顿生自卑感，訛称自己在名校那莎讀書，闹出笑话。阿塔的母亲知道后，使她对阿康的印象大打折扣，更与阿康的父亲之间产生误会。小情侣之间也产生了矛盾。会考在即，阿塔的母亲阻止二人交往，塔因心情不佳而高考成绩强差人意，塔母要她往英国升学，一对初恋小情人面临分手边缘，上机前一夜，亦是两人最甜蜜一刻……
 
 ## 人物角色
 
@@ -95,4 +95,4 @@
   -
   -
   -
-[Category:香港愛情片](https://zh.wikipedia.org/wiki/Category:香港愛情片 "wikilink") [Category:香港LGBT相關電影](https://zh.wikipedia.org/wiki/Category:香港LGBT相關電影 "wikilink") [Category:1990年代爱情片](https://zh.wikipedia.org/wiki/Category:1990年代爱情片 "wikilink") [Category:1990年代香港電影作品](https://zh.wikipedia.org/wiki/Category:1990年代香港電影作品 "wikilink") [Category:女同性戀相關電影](https://zh.wikipedia.org/wiki/Category:女同性戀相關電影 "wikilink")
+[Category:香港愛情片](https://zh.wikipedia.org/wiki/Category:香港愛情片 "wikilink") [Category:香港LGBT相關電影](https://zh.wikipedia.org/wiki/Category:香港LGBT相關電影 "wikilink") [Category:1990年代爱情片](https://zh.wikipedia.org/wiki/Category:1990年代爱情片 "wikilink") [Category:1990年代香港電影作品](https://zh.wikipedia.org/wiki/Category:1990年代香港電影作品 "wikilink") [Category:女同性戀相關電影](https://zh.wikipedia.org/wiki/Category:女同性戀相關電影 "wikilink") [Category:粵語電影](https://zh.wikipedia.org/wiki/Category:粵語電影 "wikilink") [Category:華語電影](https://zh.wikipedia.org/wiki/Category:華語電影 "wikilink")

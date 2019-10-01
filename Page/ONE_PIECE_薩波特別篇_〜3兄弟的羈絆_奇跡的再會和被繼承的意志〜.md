@@ -44,12 +44,12 @@
 <td><p><a href="../Page/孫中台.md" title="wikilink">孫中台</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>'''<a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#波特卡斯·D·艾斯" title="wikilink">艾斯</a></p></td>
+<td><p>'''<a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#波特卡斯·D·艾斯" title="wikilink">波特卡斯·D·艾斯</a></p></td>
 <td><p><a href="../Page/古川登志夫.md" title="wikilink">古川登志夫</a></p></td>
 <td><p><a href="../Page/符爽.md" title="wikilink">符爽</a></p></td>
 </tr>
 <tr class="even">
-<td><p>'''<a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#波特卡斯·D·艾斯" title="wikilink">艾斯</a>（少年時）</p></td>
+<td><p>'''<a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#波特卡斯·D·艾斯" title="wikilink">波特卡斯·D·艾斯</a>（少年時）</p></td>
 <td><p><a href="../Page/阪口大助.md" title="wikilink">阪口大助</a></p></td>
 <td><p><a href="../Page/許淑嬪.md" title="wikilink">許淑嬪</a></p></td>
 </tr>
@@ -59,9 +59,9 @@
 <td><p><a href="../Page/錢欣郁.md" title="wikilink">錢欣郁</a></p></td>
 </tr>
 <tr class="even">
-<td><p>聯盟團隊<br />
+<td><p>海賊、武士同盟<br />
 <a href="https://zh.wikipedia.org/wiki/草帽海賊團" title="wikilink">草帽海賊團</a><br />
-<a href="https://zh.wikipedia.org/wiki/哈特海賊團" title="wikilink">哈特海賊團</a><br />
+<a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#哈特海賊團" title="wikilink">哈特海賊團</a><br />
 和之國武士</p></td>
 <td></td>
 <td></td>
@@ -82,17 +82,17 @@
 <td><p><a href="../Page/符爽.md" title="wikilink">符爽</a></p></td>
 </tr>
 <tr class="even">
-<td><p>'''<a href="https://zh.wikipedia.org/wiki/賓什莫克·香吉士" title="wikilink">香吉士</a></p></td>
+<td><p>'''<a href="https://zh.wikipedia.org/wiki/賓什莫克·香吉士" title="wikilink">賓什莫克·香吉士</a></p></td>
 <td><p><a href="../Page/平田廣明.md" title="wikilink">平田廣明</a></p></td>
 <td><p><a href="../Page/孫中台.md" title="wikilink">孫中台</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>'''<a href="../Page/多尼多尼·喬巴.md" title="wikilink">喬巴</a></p></td>
+<td><p>'''<a href="../Page/多尼多尼·喬巴.md" title="wikilink">多尼多尼·喬巴</a></p></td>
 <td><p><a href="../Page/大谷育江.md" title="wikilink">大谷育江</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/詹雅菁" title="wikilink">詹雅菁</a></p></td>
 </tr>
 <tr class="even">
-<td><p>'''<a href="../Page/妮可·羅賓.md" title="wikilink">羅賓</a></p></td>
+<td><p>'''<a href="../Page/妮可·羅賓.md" title="wikilink">妮可·羅賓</a></p></td>
 <td><p><a href="../Page/山口由里子.md" title="wikilink">山口由里子</a></p></td>
 <td><p><a href="../Page/許淑嬪.md" title="wikilink">許淑嬪</a></p></td>
 </tr>
@@ -107,22 +107,22 @@
 <td><p><a href="../Page/宋克軍.md" title="wikilink">宋克軍</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>'''<a href="../Page/托拉法爾加·D·瓦特爾·羅.md" title="wikilink">羅</a></p></td>
+<td><p>'''<a href="../Page/托拉法爾加·D·瓦特爾·羅.md" title="wikilink">托拉法爾加·D·瓦特爾·羅</a></p></td>
 <td><p><a href="../Page/神谷浩史.md" title="wikilink">神谷浩史</a></p></td>
 <td><p><a href="../Page/宋克軍.md" title="wikilink">宋克軍</a></p></td>
 </tr>
 <tr class="even">
-<td><p>'''錦衛門</p></td>
+<td><p>'''<a href="https://zh.wikipedia.org/wiki/和之國#錦衛門" title="wikilink">錦衛門</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/堀内賢雄" title="wikilink">堀内賢雄</a></p></td>
 <td><p><a href="../Page/孫中台.md" title="wikilink">孫中台</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/唐吉訶德·多佛朗明哥#唐吉訶德家族" title="wikilink">唐吉訶德家族</a></p></td>
+<td><p><a href="../Page/唐吉訶德海賊團.md" title="wikilink">唐吉訶德家族</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>'''<a href="../Page/唐吉訶德·多佛朗明哥.md" title="wikilink">多佛朗明哥</a></p></td>
+<td><p>'''<a href="../Page/唐吉訶德·多佛朗明哥.md" title="wikilink">唐吉訶德·多佛朗明哥</a></p></td>
 <td><p><a href="../Page/田中秀幸.md" title="wikilink">田中秀幸</a></p></td>
 <td><p><a href="../Page/孫中台.md" title="wikilink">孫中台</a></p></td>
 </tr>
@@ -192,7 +192,7 @@
 <td><p><a href="../Page/宋克軍.md" title="wikilink">宋克軍</a></p></td>
 </tr>
 <tr class="even">
-<td><p><strong>卡普</strong></p></td>
+<td><p><strong>蒙其·D·卡普</strong></p></td>
 <td><p><a href="../Page/中博史.md" title="wikilink">中博史</a></p></td>
 <td><p><a href="../Page/孫中台.md" title="wikilink">孫中台</a></p></td>
 </tr>
@@ -249,7 +249,7 @@
 <td><p><a href="../Page/符爽.md" title="wikilink">符爽</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><strong>青椒</strong></p></td>
+<td><p><strong>「首領」青椒</strong></p></td>
 <td></td>
 <td><p><a href="../Page/孫中台.md" title="wikilink">孫中台</a></p></td>
 </tr>

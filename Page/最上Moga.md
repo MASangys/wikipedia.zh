@@ -40,6 +40,7 @@
 ### 電視連續劇
 
   - 怪速少女（2012年10月6日 - 10月20日、[NHKワンセグ](https://zh.wikipedia.org/wiki/NHK "wikilink")2）
+  - [離婚萬歲](https://zh.wikipedia.org/wiki/離婚萬歲 "wikilink")（2013年10月、[富士电视台](https://zh.wikipedia.org/wiki/富士电视台 "wikilink")）-饰演 最上もが
   - [超人力霸王銀河S](../Page/超人力霸王銀河S.md "wikilink")（2014年7月15日 - 12月23日、[東京電視台](../Page/東京電視台.md "wikilink")）-飾演 Android．One Zero（Mana）\[57\]
   - [重版出来\!](https://zh.wikipedia.org/wiki/重版出来! "wikilink")（2016年4月、[TBS电视台](https://zh.wikipedia.org/wiki/TBS电视台 "wikilink")）-饰演 梨音
   - 恋愛香港（2017年10月9日 - 10月30日、毎日放送） - エリー 役

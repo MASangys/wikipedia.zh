@@ -209,7 +209,7 @@ PlotData =
 <td></td>
 </tr>
 <tr class="even">
-<td><p>（Linus）</p></td>
+<td><p><a href="../Page/馬俊傑.md" title="wikilink">馬俊傑</a>（Linus）</p></td>
 <td><p>馬仔／Linus</p></td>
 <td><p>2017年5月6日</p></td>
 <td></td>

@@ -54,6 +54,7 @@ Papi醬在2014年与大学同学徐斌（老胡）结婚，二人早在2009年�
   -
   -
   -
+  -
   - \- 英文版: "[China’s Viral Idol: Papi Jiang, a Girl Next Door With Attitude](https://www.nytimes.com/2016/08/25/arts/international/chinas-viral-idol-papi-jiang-a-girl-next-door-with-attitude.html?_r=0)"
 
 [Category:中央戲劇學院校友](https://zh.wikipedia.org/wiki/Category:中央戲劇學院校友 "wikilink") [Category:姜姓](https://zh.wikipedia.org/wiki/Category:姜姓 "wikilink") [Category:上海人](https://zh.wikipedia.org/wiki/Category:上海人 "wikilink")

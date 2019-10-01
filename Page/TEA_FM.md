@@ -18,9 +18,9 @@
 
 ## 頻率
 
-  - [古晋](https://zh.wikipedia.org/wiki/古晋 "wikilink") 102.7 FM
+  - [古晋](https://zh.wikipedia.org/wiki/古晋 "wikilink"), [西連](https://zh.wikipedia.org/wiki/西連 "wikilink"), [三馬拉漢](https://zh.wikipedia.org/wiki/三馬拉漢 "wikilink") 102.7 FM
   - [亚庇](https://zh.wikipedia.org/wiki/亚庇 "wikilink") 102.8 FM
-  - [詩巫](../Page/詩巫.md "wikilink") 100.7 FM \[1\]
+  - [詩巫](../Page/詩巫.md "wikilink"), [泗里街](https://zh.wikipedia.org/wiki/泗里街 "wikilink") 100.7 FM \[1\]
 
 ## 官方网站
 

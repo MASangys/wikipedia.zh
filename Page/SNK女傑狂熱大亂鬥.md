@@ -1,4 +1,4 @@
-是[SNK](../Page/SNK.md "wikilink")公司出品的跨界[格鬥遊戲](../Page/格鬥遊戲.md "wikilink")，於2018年9月6日在日本[PlayStation 4和](../Page/PlayStation_4.md "wikilink")[任天堂Switch](../Page/任天堂Switch.md "wikilink")平台發行\[1\]。遊戲採用2對2格鬥模式，對戰角色為[SNK](../Page/SNK.md "wikilink")遊戲中的女性角色。隊伍中兩人分別負責攻擊和支援，攻擊手負責前台作戰，支援手在後方使用道具支援己方或妨礙對手。當對方體力值下降到一定程度時，使用特殊技能擊中對手即可獲勝。玩家可以為角色自訂裝飾和造型\[2\]。
+是[SNK](../Page/SNK.md "wikilink")公司出品的跨界[格鬥遊戲](../Page/格鬥遊戲.md "wikilink")，於2018年9月6日在日本[PlayStation 4和](../Page/PlayStation_4.md "wikilink")[任天堂Switch](../Page/任天堂Switch.md "wikilink")平台發行\[1\]。遊戲採用2對2格鬥模式，對戰角色為[SNK](../Page/SNK.md "wikilink")遊戲中的女性角色。隊伍中兩人分別負責攻擊和支援，攻擊手負責前台作戰，支援手在後方使用道具支援己方或妨礙對手。當對方體力值下降到一定程度時，使用特殊技能擊中對手即可獲勝。玩家可以為角色自訂裝飾和造型\[2\]，遊戲的日版支援簡體中文與繁體中文。
 
 ## 登場人物
 

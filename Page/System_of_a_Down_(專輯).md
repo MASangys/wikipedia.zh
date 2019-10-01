@@ -1,10 +1,8 @@
-***System Of A Down*** 是美國搖滾樂隊[墮落體制的第一張專輯](https://zh.wikipedia.org/wiki/墮落體制 "wikilink")，是在1998年發表的。
+《**System Of A Down**》是美國搖滾樂隊[墮落體制的第一張專輯](https://zh.wikipedia.org/wiki/墮落體制 "wikilink")，1998年發表。
 
 ## 封面
 
-封面取自於1928年德國藝術家為[德國共產黨所設計的](https://zh.wikipedia.org/wiki/德國共產黨 "wikilink")[反法西斯以及反](https://zh.wikipedia.org/wiki/反法西斯 "wikilink")[第三帝國的](https://zh.wikipedia.org/wiki/第三帝國 "wikilink")[第二次世界大戰宣傳海報](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")。原始海報上的文字是：“一隻手有5個手指！有了這5個抓住敵人！”\[1\]這個口號啟發了System of a Down專輯背面的部分文字：“手有五個手指，有能力和強大，具有摧毀和創造能力''。 後來，它用粗體字寫成：“睜開你的眼睛，張開你的嘴巴，合上雙手並握緊拳頭( Open your eyes, open your mouths, close your hands and make a fist )”（稍後在Serj Tankian的歌曲“Uneducated Democracy”中使用）。
-
-[缩略图](https://zh.wikipedia.org/wiki/File:System_of_a_down.jpg "fig:缩略图")
+封面取自於1928年德國藝術家為[德國共產黨所設計的](https://zh.wikipedia.org/wiki/德國共產黨 "wikilink")[反法西斯以及反](https://zh.wikipedia.org/wiki/反法西斯 "wikilink")[第三帝國的](https://zh.wikipedia.org/wiki/第三帝國 "wikilink")[第二次世界大戰宣傳海報](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")。原始海報上的文字是：“一隻手有5個手指！有了這5個抓住敵人！”\[1\]這個口號啟發了System of a Down專輯背面的部分文字：“手有五個手指，有能力和強大，具有摧毀和創造能力”。 後來，它用粗體字寫成：“睜開你的眼睛，張開你的嘴巴，合上雙手並握緊拳頭( Open your eyes, open your mouths, close your hands and make a fist )”（稍後在Serj Tankian的歌曲“Uneducated Democracy”中使用）。
 
 ## 曲目列表
 
@@ -168,7 +166,7 @@
   -
   -
   -
-[Category:墮落體制音樂專輯](https://zh.wikipedia.org/wiki/Category:墮落體制音樂專輯 "wikilink") [Category:哥伦比亚唱片音乐专辑](https://zh.wikipedia.org/wiki/Category:哥伦比亚唱片音乐专辑 "wikilink")
+[Category:墮落體制音樂專輯](https://zh.wikipedia.org/wiki/Category:墮落體制音樂專輯 "wikilink") [Category:哥伦比亚唱片音乐专辑](https://zh.wikipedia.org/wiki/Category:哥伦比亚唱片音乐专辑 "wikilink") [Category:1998年音乐专辑](https://zh.wikipedia.org/wiki/Category:1998年音乐专辑 "wikilink")
 
 1.
 2.

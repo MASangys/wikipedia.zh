@@ -18,7 +18,7 @@ length=總長:
 </div>
 
 |primary_armament=152.4 mm D-22 howitzer L/27
-(46 rounds, maximum)\[1\][152-мм самоходная гаубица 2С3 «Акация» (2S3 Akatsiya 152 mm self-propelled artillery system)](http://legion.wplus.net/guide/army/ar/2s3.shtml)</ref>\[2\][2С3 Акация – Описание](http://www.wartechnic.ru/rus/ground/selfpropelledartillery/2c3/teh.shtml) </ref>|secondary_armament=7.62 mm remotely controlled [PKT](https://zh.wikipedia.org/wiki/PKT_machine_gun "wikilink") tank machine gun
+(46 rounds, maximum)\[1\]</ref>\[2\][2С3 Акация – Описание](http://www.wartechnic.ru/rus/ground/selfpropelledartillery/2c3/teh.shtml) </ref>|secondary_armament=7.62 mm remotely controlled [PKT](https://zh.wikipedia.org/wiki/PKT_machine_gun "wikilink") tank machine gun
 (1,500 rounds)\[3\]</ref>|engine=V-59
 \[4\]</ref>|engine_power=520 功率\[5\]</ref>|pw_ratio=18.9 功率/噸|transmission=<span style="color: rgb(0, 0, 0); font-size: 12.32px; background-color: rgb(248, 249, 250);">行星齒輪變速箱單元</span>|rate=Sustained: 1  rpm max: 4 rpm|max_range=Conventional:
 [RAP](https://zh.wikipedia.org/wiki/Rocket_Assisted_Projectile "wikilink"): |sights= |armour=15 mm (hull)
@@ -108,7 +108,7 @@ length=總長:
 3.
 4.
 5.
-6.  [2С3 Акация](http://www.museum-tank.ru/IIIwar/tables3/2c30.html)
+6.
 
 7.
 8.

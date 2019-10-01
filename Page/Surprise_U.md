@@ -165,48 +165,44 @@ NAVER TV</small></p></td>
 
 ### 電視劇
 
-| 年份                               | 電視臺                                                          | 劇名                                                            | 出演成員 | 角色  | 性質 | 出演集數 | 備註     |
-| -------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------- | ---- | --- | -- | ---- | ------ |
-| 2017年                            | [SBS](../Page/SBS_\(韓國\).md "wikilink")                      | 《[愛情的溫度](../Page/愛情的溫度.md "wikilink")》                        | 車璌河  | 金夏成 | 配角 |      |        |
-| [tvN](../Page/TVN.md "wikilink") | 《[卞赫的愛情](../Page/卞赫的愛情.md "wikilink")》                       | 尹挺赫                                                           | 韓室長  |     |    |      |        |
-| 2018年                            | [KBS2](https://zh.wikipedia.org/wiki/KBS2_\(韓國\) "wikilink") | 《[推理的女王2](../Page/推理的女王2.md "wikilink")》                      | 車璌河  |     |    |      |        |
-| 2018年                            | [SBS](../Page/SBS_\(韓國\).md "wikilink")                      | 《[油膩的Melo](../Page/油膩的Melo.md "wikilink")》                    | 車璌河  | 奉植秀 | 配角 |      |        |
-| 2018年                            | [KBS](https://zh.wikipedia.org/wiki/KBS_\(韓國\) "wikilink")   | 《[你也是人類嗎?](https://zh.wikipedia.org/wiki/你也是人類嗎? "wikilink")》 | 車璌河  | 黃志龍 |    |      |        |
-| 2018年                            | [KBS2](https://zh.wikipedia.org/wiki/KBS2_\(韓國\) "wikilink") | 《[愛到最後](../Page/愛到最後.md "wikilink")》                          | 殷瑎成  | 케이  | 出演 |      | 助手     |
-| 2018年                            | [OCN](https://zh.wikipedia.org/wiki/OCN_\(韓國\) "wikilink")   | 《[Voice2](../Page/Voice2.md "wikilink")》                      | 殷瑎成  | 姜率  | 出演 | 第7集  | 網路直播BJ |
-| 2018年                            | [JTBC](https://zh.wikipedia.org/wiki/JTBC_\(韓國\) "wikilink") | 《[第3種魅力](../Page/第3種魅力.md "wikilink")》                        | 尹挺赫  | 李刑警 | 配角 |      |        |
-| 2018年                            | [JTBC](https://zh.wikipedia.org/wiki/JTBC_\(韓國\) "wikilink") | 《[先熱情地打掃吧](../Page/先熱情地打掃吧.md "wikilink")》                    | 車璌河  | 黃在民 | 配角 |      |        |
-| 2019年                            | [MBC](https://zh.wikipedia.org/wiki/MBC_\(韓國\) "wikilink")   | 《[銀行家](https://zh.wikipedia.org/wiki/銀行家 "wikilink")》         | 車璌河  | 文洪柱 | 配角 |      |        |
-| 2019年                            | [MBC](https://zh.wikipedia.org/wiki/MBC_\(韓國\) "wikilink")   | 《[新入史官丘海昤](../Page/新入史官丘海昤.md "wikilink")》                    | 池建玗  | 成西權 | 配角 |      |        |
-| 2019年                            | [MBC](https://zh.wikipedia.org/wiki/MBC_\(韓國\) "wikilink")   | 《[有瑕疵的人們](https://zh.wikipedia.org/wiki/有瑕疵的人們 "wikilink")》   | 車璌河  |     |    |      |        |
-
-### 電影
-
-| 年份    | 劇名                                                      | 出演成員 | 角色 | 性質 | 備註 |
-| ----- | ------------------------------------------------------- | ---- | -- | -- | -- |
-| 2019年 | 《[妓院公子](https://zh.wikipedia.org/wiki/妓院公子 "wikilink")》 | 尹挺赫  | 葫蘆 |    |    |
+| 年份                               | 電視臺                                                          | 劇名                                                    | 出演成員 | 角色  | 性質 | 出演集數 | 備註 |
+| -------------------------------- | ------------------------------------------------------------ | ----------------------------------------------------- | ---- | --- | -- | ---- | -- |
+| 2017年                            | [SBS](../Page/SBS_\(韓國\).md "wikilink")                      | 《[愛情的溫度](../Page/愛情的溫度.md "wikilink")》                | 車璌河  | 金夏成 | 配角 |      |    |
+| [tvN](../Page/TVN.md "wikilink") | 《[卞赫的愛情](../Page/卞赫的愛情.md "wikilink")》                       | 尹挺赫                                                   | 韓室長  |     |    |      |    |
+| 2018年                            | [KBS2](https://zh.wikipedia.org/wiki/KBS2_\(韓國\) "wikilink") | 《[推理的女王2](../Page/推理的女王2.md "wikilink")》              | 車璌河  |     | 出演 | 第8集  |    |
+| 2018年                            | [SBS](../Page/SBS_\(韓國\).md "wikilink")                      | 《[油膩的Melo](../Page/油膩的Melo.md "wikilink")》            | 車璌河  | 奉植秀 | 配角 |      |    |
+| 2018年                            | [KBS](https://zh.wikipedia.org/wiki/KBS_\(韓國\) "wikilink")   | 《[你也是人類嗎](../Page/你也是人類嗎.md "wikilink")》              | 車璌河  | 黃志龍 |    |      |    |
+| 2018年                            | [KBS2](https://zh.wikipedia.org/wiki/KBS2_\(韓國\) "wikilink") | 《[愛到最後](../Page/愛到最後.md "wikilink")》                  | 殷瑎成  | 케이  | 配角 |      |    |
+| 2018年                            | [OCN](https://zh.wikipedia.org/wiki/OCN_\(韓國\) "wikilink")   | 《[Voice2](../Page/Voice2.md "wikilink")》              | 殷瑎成  | 姜率  | 出演 | 第7集  |    |
+| 2018年                            | [JTBC](https://zh.wikipedia.org/wiki/JTBC_\(韓國\) "wikilink") | 《[第3種魅力](../Page/第3種魅力.md "wikilink")》                | 尹挺赫  | 李刑警 | 配角 |      |    |
+| 2018年                            | [JTBC](https://zh.wikipedia.org/wiki/JTBC_\(韓國\) "wikilink") | 《[先熱情地打掃吧](../Page/先熱情地打掃吧.md "wikilink")》            | 車璌河  | 黃在民 | 配角 |      |    |
+| 2019年                            | [MBC](https://zh.wikipedia.org/wiki/MBC_\(韓國\) "wikilink")   | 《[銀行家](https://zh.wikipedia.org/wiki/銀行家 "wikilink")》 | 車璌河  | 文洪柱 | 配角 |      |    |
+| 2019年                            | [MBC](https://zh.wikipedia.org/wiki/MBC_\(韓國\) "wikilink")   | 《[新入史官丘海昤](../Page/新入史官丘海昤.md "wikilink")》            | 池建玗  | 成西權 | 配角 |      |    |
 
 ### 網絡劇
 
-| 年份    | 播放平台                                                                       | 劇名                                                                          | 出演成員    | 角色      | 性質 | 出演集數 | 備註    |
-| ----- | -------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ------- | ------- | -- | ---- | ----- |
-| 2017年 | [NAVER tvcast](../Page/NAVER.md "wikilink")                                | 《愛豆權限代理》                                                                    | 全員      | 同名角色    | 主演 | 全集   | 團體出道作 |
-| 2017年 | [OKSUSU](https://zh.wikipedia.org/wiki/OKSUSU "wikilink")                  | 《復仇筆記》                                                                      | 池建玗、金鉉書 | 胡具俊、楊亞俊 | 配角 |      |       |
-| 2018年 | [YouTube](https://zh.wikipedia.org/wiki/YouTube_\(韓國\) "wikilink")         | 《[Top Management](../Page/Top_Management.md "wikilink")》                    | 池建玗、殷瑎成 | 練習生     | 其他 |      |       |
-| 2019年 | [SBS、Netflix](https://zh.wikipedia.org/wiki/SBS、Netflix_\(韓國\) "wikilink") | 《[農夫士官學校](../Page/農夫士官學校.md "wikilink")》                                    | 尹挺赫     |         | 其他 |      |       |
-| 2019年 | [Vlive](https://zh.wikipedia.org/wiki/Vlive_\(韓國\) "wikilink")             | 《[堅強又獨立的女孩智恩 第二季](https://zh.wikipedia.org/wiki/堅強又獨立的女孩智恩_第二季 "wikilink")》 | 車璌河     | 河俊      | 主角 |      |       |
+| 年份    | 播放平台                                                                          | 劇名                                                                        | 出演成員    | 角色      | 性質 | 出演集數 | 備註    |
+| ----- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ------- | ------- | -- | ---- | ----- |
+| 2017年 | [NAVER tvcast](../Page/NAVER.md "wikilink")                                   | 《愛豆權限代理》                                                                  | 全員      | 同名角色    | 主演 | 全集   | 團體出道作 |
+| 2017年 | [OKSUSU](https://zh.wikipedia.org/wiki/OKSUSU "wikilink")                     | 《復仇筆記》                                                                    | 池建玗、金鉉書 | 胡具俊、楊亞俊 | 配角 |      |       |
+| 2018年 | [OKSUSU](https://zh.wikipedia.org/wiki/OKSUSU "wikilink")                     | 《復仇筆記2》                                                                   | 池建玗     | 胡具俊     | 客串 |      |       |
+| 2018年 | [YouTube](https://zh.wikipedia.org/wiki/YouTube_\(韓國\) "wikilink")            | 《[Top Management](../Page/Top_Management.md "wikilink")》                  | 池建玗、殷瑎成 | 練習生     | 其他 |      |       |
+| 2019年 | [SBS、Netflix](https://zh.wikipedia.org/wiki/SBS、Netflix_\(韓國\) "wikilink")    | 《[農夫士官學校](../Page/農夫士官學校.md "wikilink")》                                  | 尹挺赫     |         | 配角 |      |       |
+| 2019年 | [Vlive、YouTube](https://zh.wikipedia.org/wiki/Vlive、YouTube\(韓國\) "wikilink") | 《[獨立也能過得好的女孩智恩2](https://zh.wikipedia.org/wiki/獨立也能過得好的女孩智恩2 "wikilink")》 | 車璌河     | 河俊      | 主角 |      |       |
 
 ### 話劇
 
-| 日期                | 劇名                                                                | 出演成員 | 角色 | 備註 |
-| ----------------- | ----------------------------------------------------------------- | ---- | -- | -- |
-| 2019年8月31日至11月17日 | 《[Killology](https://zh.wikipedia.org/wiki/Killology "wikilink")》 | 殷瑎成  |    |    |
+| 日期                | 劇名                                                                              | 出演成員 | 角色    | 備註 |
+| ----------------- | ------------------------------------------------------------------------------- | ---- | ----- | -- |
+| 2018年7月13日至12月30日 | 《[형제의 밤](https://zh.wikipedia.org/wiki/형제의_밤 "wikilink")》                       | 殷瑎成  |       |    |
+| 2019年8月31日至11月17日 | 《[킬롤로지(Killology)](https://zh.wikipedia.org/wiki/킬롤로지\(Killology\) "wikilink")》 | 殷瑎成  | DAVEY |    |
 
 ### 音樂錄影帶(MV)
 
-| 日期        | 歌曲名稱                                                                       | 歌手  | 參與成員 |
-| --------- | -------------------------------------------------------------------------- | --- | ---- |
-| 2018年1月3日 | 《[재미없을 나이(Twenty-something)](https://www.youtube.com/watch?v=hAh_vba90Us)》 | 宋主喜 | 殷瑎成  |
+| 日期         | 歌曲名稱                                                                       | 歌手       | 參與成員 |
+| ---------- | -------------------------------------------------------------------------- | -------- | ---- |
+| 2017年2月23日 | 《[눈물나게](https://www.youtube.com/watch?v=kjmQW2jkB28)》                      | 이시은& 鄭承煥 | 車璌河  |
+| 2018年1月3日  | 《[재미없을 나이(Twenty-something)](https://www.youtube.com/watch?v=hAh_vba90Us)》 | 宋主喜      | 殷瑎成  |
 
 ## 其他
 
@@ -235,6 +231,12 @@ NAVER TV</small></p></td>
 | 日期        | 名稱                          | 參加成員 | 備注 |
 | --------- | --------------------------- | ---- | -- |
 | 2017年7月7日 | Surprise U's Debut Showcase | 全員   | 出道 |
+
+### CF
+
+| 年份    | 廣告名稱                                                        | 參與成員 | 備注 |
+| ----- | ----------------------------------------------------------- | ---- | -- |
+| 2017年 | 《[McDonald's](https://www.youtube.com/watch?v=qoKCewvdfp0)》 | 池建玗  |    |
 
 ## 外部連結
 

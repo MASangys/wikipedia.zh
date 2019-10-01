@@ -12,13 +12,13 @@
 
 在[卡拉OK](../Page/卡拉OK.md "wikilink")亦擁有高人氣，根據調查「歷代卡拉OK點播量排行榜{{\#tag:ref||group="原文"}}」（調查期間：1994年1月〜2012年12月15日），本樂曲獲得了第1位\[3\]\[4\]。節目內解說為「在廣泛世代的男女間很有人氣{{\#tag:ref||group="原文"}}」「被不限於聖誕節歌唱{{\#tag:ref||group="原文"}}」。
 
-在2011年更有[後述的商業搭配](https://zh.wikipedia.org/wiki/#CM "wikilink")。根據[RecoChoku](../Page/RecoChoku.md "wikilink")調查「[手機全曲鈴聲綜合排行榜](https://zh.wikipedia.org/wiki/電話鈴聲 "wikilink")」\[5\]於[11月29日](../Page/11月29日.md "wikilink")以第89位首次登場。之後，同榜[12月6日](../Page/12月6日.md "wikilink")第30位、[12月13日](../Page/12月13日.md "wikilink")第11位\[6\]，以此順位晉升排名，[12月20日](../Page/12月20日.md "wikilink")第8位\[7\]是樂曲發表後的第20年，成為首次進入TOP10\[8\]。時至今日，聖誕節期間亦可在[iTunes Store等PC上架平臺](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")，見到重新浮上的現象。
+在2011年更有[後述的商業搭配](https://zh.wikipedia.org/wiki/#CM "wikilink")。根據[RecoChoku](../Page/RecoChoku.md "wikilink")調查「綜合排行榜」\[5\]於[11月29日](../Page/11月29日.md "wikilink")以第89位首次登場。之後，同榜[12月6日](../Page/12月6日.md "wikilink")第30位、[12月13日](../Page/12月13日.md "wikilink")第11位\[6\]，以此順位晉升排名，[12月20日](../Page/12月20日.md "wikilink")第8位\[7\]是樂曲發表後的第20年，成為首次進入TOP10\[8\]。時至今日，聖誕節期間亦可在[iTunes Store等PC上架平臺](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")，見到重新浮上的現象。
 
 ## 銷售認證
 
-  - 金（[日本唱片協會](../Page/日本唱片協會.md "wikilink")，[手機歌曲鈴聲](https://zh.wikipedia.org/wiki/電話鈴聲 "wikilink")）
-  - 白金（日本唱片協會，[手機全曲鈴聲](https://zh.wikipedia.org/wiki/電話鈴聲 "wikilink")）
-  - 雙白金（日本唱片協會，手機全曲鈴聲／「恋するハニカミ！」バージョン～）
+  - 金（[日本唱片協會](../Page/日本唱片協會.md "wikilink")，）
+  - 白金（日本唱片協會，）
+  - 雙白金（日本唱片協會，手機全曲鈴聲／「恋するハニカミ！」バージョン）
 
 ## 演奏披露
 

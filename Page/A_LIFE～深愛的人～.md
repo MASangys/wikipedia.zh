@@ -165,7 +165,7 @@
 
 <!-- end list -->
 
-  - 片山修造：（香港配音：[李錦綸](../Page/李錦綸_\(配音員\).md "wikilink")）
+  - 片山修造：[鶴見辰吾](https://zh.wikipedia.org/wiki/鶴見辰吾 "wikilink")（香港配音：[李錦綸](../Page/李錦綸_\(配音員\).md "wikilink")）
 
 <!-- end list -->
 

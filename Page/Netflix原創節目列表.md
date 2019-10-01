@@ -33,9 +33,9 @@
 </p></td>
 <td></td>
 <td></td>
-<td><p>至今</p></td>
-<td><p>5</p></td>
-<td><p>65</p></td>
+<td></td>
+<td><p>6</p></td>
+<td><p>73</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -43,7 +43,7 @@
 </p></td>
 <td></td>
 <td></td>
-<td><p>至今</p></td>
+<td></td>
 <td><p>5</p></td>
 <td><p>65</p></td>
 <td></td>
@@ -51,9 +51,9 @@
 <tr class="even">
 <td><p><a href="../Page/夜魔俠_(電視劇).md" title="wikilink">夜魔俠</a><br />
 </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/超級英雄" title="wikilink">超級英雄</a>／<a href="https://zh.wikipedia.org/wiki/犯罪片" title="wikilink">犯罪</a>／</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/超級英雄" title="wikilink">超級英雄</a>／<a href="https://zh.wikipedia.org/wiki/犯罪片" title="wikilink">犯罪</a>／<a href="https://zh.wikipedia.org/wiki/律政劇" title="wikilink">律政劇</a></p></td>
 <td></td>
-<td><p>至今</p></td>
+<td></td>
 <td><p>2</p></td>
 <td><p>26</p></td>
 <td></td>
@@ -73,7 +73,7 @@
 </p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/超級英雄" title="wikilink">超級英雄</a>／<a href="https://zh.wikipedia.org/wiki/新黑色電影" title="wikilink">新黑色</a>／</p></td>
 <td></td>
-<td><p>至今</p></td>
+<td></td>
 <td><p>2</p></td>
 <td><p>26</p></td>
 <td></td>
@@ -113,9 +113,9 @@
 </p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/神秘小說" title="wikilink">悬疑</a></p></td>
 <td></td>
-<td><p>至今</p></td>
-<td><p>1</p></td>
-<td><p>8</p></td>
+<td></td>
+<td><p>2</p></td>
+<td><p>16</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -123,9 +123,9 @@
 </p></td>
 <td><p><a href="../Page/黑色幽默.md" title="wikilink">黑色幽默</a>／<a href="https://zh.wikipedia.org/wiki/神秘小說" title="wikilink">悬疑</a></p></td>
 <td></td>
-<td><p>至今</p></td>
-<td><p>1</p></td>
-<td><p>8</p></td>
+<td></td>
+<td><p>3</p></td>
+<td><p>25</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -144,8 +144,8 @@
 <td><p>／<a href="https://zh.wikipedia.org/wiki/神秘小說" title="wikilink">悬疑</a></p></td>
 <td></td>
 <td><p>至今</p></td>
-<td><p>2</p></td>
-<td><p>13</p></td>
+<td><p>3</p></td>
+<td><p>39</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -153,7 +153,7 @@
 </p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/超級英雄" title="wikilink">超級英雄</a>／<a href="https://zh.wikipedia.org/wiki/犯罪片" title="wikilink">犯罪</a></p></td>
 <td></td>
-<td><p>至今</p></td>
+<td></td>
 <td><p>1</p></td>
 <td><p>13</p></td>
 <td></td>
@@ -207,7 +207,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/血脈" title="wikilink">血脈</a><br />
+<td><p><a href="../Page/血脈_(美國電視劇).md" title="wikilink">血脈</a><br />
 </p></td>
 <td><p><a href="../Page/驚悚.md" title="wikilink">驚悚</a>／<a href="https://zh.wikipedia.org/wiki/劇情片" title="wikilink">劇情</a></p></td>
 <td></td>
@@ -774,7 +774,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><br />
+<td><p><a href="../Page/謀殺犯的形成.md" title="wikilink">謀殺犯的形成</a><br />
 </p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/犯罪片" title="wikilink">犯罪</a></p></td>
 <td></td>

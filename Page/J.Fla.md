@@ -8,12 +8,15 @@
 
 2016年，她发行了EP「Grey Skies」。
 
+2019年9月6號，在Youtube首播原創單曲「Good Vibe」。
+
 ## 作品列表
 
 ### EP
 
   - 「바보 같은 Story」, 2013
   - 「Grey Skies」, 2016
+  - 「Good Vibe」, 2019
 
 ### 专辑
 

@@ -384,7 +384,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td></td>
+<td><p><a href="../Page/柳慧仁.md" title="wikilink">柳慧仁</a></p></td>
 <td><p>趙雅真</p></td>
 <td><p>夢想為造型師的高中女生，但被高大衛誘拐，又被強制注射毒品「<a href="../Page/甲卡西酮.md" title="wikilink">浴鹽</a>」，因而成為女喪屍，一旦見人就用力撕咬。</p></td>
 <td></td>

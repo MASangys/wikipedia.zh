@@ -54,6 +54,12 @@
 <td><p>全劇上架中</p></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p><a href="../Page/八大綜合台.md" title="wikilink">八大綜合台</a></p></td>
+<td><p>2019年9月20日</p></td>
+<td><p>每週五 晚間9點</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

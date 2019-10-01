@@ -35,12 +35,6 @@ hibiki works於2017年3月31日發表VR婚禮活動\[3\]，由抽選而中玩家
 
 《新妻LOVELY×CATION》在2017年度[萌系遊戲大賞](../Page/萌系遊戲大賞.md "wikilink")中獲得話題獎。\[8\]另外在Getchu.com舉辦的美少女遊戲大賞2017中獲得綜合部門第16名、系統部門第5名、繪圖部門第9名、角色部門石動雪第10名與栗原愛子第13名。\[9\]
 
-## 相關條目
-
-  - [LOVELY×CATION](../Page/LOVELY×CATION.md "wikilink")
-  - [PRETTY×CATION](../Page/PRETTY×CATION.md "wikilink")
-  - [PRETTY×CATION2](../Page/PRETTY×CATION2.md "wikilink")
-
 ## 參考來源
 
 ## 外部連結

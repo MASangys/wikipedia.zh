@@ -68,7 +68,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>待播</p></td>
+<td><p>2019</p></td>
 <td><p><a href="../Page/烈火英雄.md" title="wikilink">烈火英雄</a></p></td>
 <td><p>谷嘉诚</p></td>
 <td><p>周浩</p></td>
@@ -105,7 +105,7 @@
 | 郭子凡   | 北堂靖                                                             |                                                                                          |      |     |
 | 趙磊    | 谷磊                                                              |                                                                                          |      |     |
 | 夏之光   | 瑶光                                                              |                                                                                          |      |     |
-| 待播    | [极限17·滑魂](https://zh.wikipedia.org/wiki/极限17·滑魂 "wikilink")     | [騰訊視頻](https://zh.wikipedia.org/wiki/騰訊視頻 "wikilink")/[芒果TV](../Page/芒果TV.md "wikilink") | 郭子凡  | 楊步凡 |
+| 2019年 | [极限17·滑魂](https://zh.wikipedia.org/wiki/极限17·滑魂 "wikilink")     | [騰訊視頻](https://zh.wikipedia.org/wiki/騰訊視頻 "wikilink")/[芒果TV](../Page/芒果TV.md "wikilink") | 郭子凡  | 楊步凡 |
 | 陳澤希   | 陳晞文                                                             |                                                                                          |      |     |
 |       |                                                                 |                                                                                          |      |     |
 
@@ -126,7 +126,7 @@
 <td><p>2016年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/相愛穿梭千年2：月光下的交換" title="wikilink">相愛穿梭千年2：月光下的交換</a></p></td>
 <td><p><a href="../Page/湖南卫视.md" title="wikilink">湖南卫视</a></p></td>
-<td><p>肖戰</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/肖戰" title="wikilink">肖戰</a></p></td>
 <td><p>梁老板</p></td>
 </tr>
 <tr class="even">
@@ -144,7 +144,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>肖戰</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/肖戰" title="wikilink">肖戰</a></p></td>
 <td><p>林修崖</p></td>
 <td></td>
 <td></td>
@@ -198,20 +198,20 @@
 <td><p>待播</p></td>
 <td><p><a href="../Page/狼殿下.md" title="wikilink">狼殿下</a></p></td>
 <td><p>未知</p></td>
-<td><p>肖戰</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/肖戰" title="wikilink">肖戰</a></p></td>
 <td><p>疾衝</p></td>
 </tr>
 <tr class="even">
 <td><p>待播</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/庆余年" title="wikilink">庆余年</a></p></td>
+<td><p><a href="../Page/庆余年.md" title="wikilink">庆余年</a></p></td>
 <td><p>未知</p></td>
-<td><p>肖戰</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/肖戰" title="wikilink">肖戰</a></p></td>
 <td><p>言冰雲</p></td>
 </tr>
 <tr class="odd">
-<td><p>待播</p></td>
+<td><p>2019年</p></td>
 <td><p><a href="../Page/九千米的爱情.md" title="wikilink">九千米的爱情</a></p></td>
-<td><p>未知</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/騰訊視頻" title="wikilink">騰訊視頻</a></p></td>
 <td><p>夏之光</p></td>
 <td><p>周宇航</p></td>
 </tr>
@@ -223,10 +223,10 @@
 <td><p>江白龙</p></td>
 </tr>
 <tr class="odd">
-<td><p>拍摄中</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/斗罗大陆_(电视剧)" title="wikilink">斗罗大陆</a></p></td>
+<td><p>待播</p></td>
+<td><p><a href="../Page/斗罗大陆_(电视剧).md" title="wikilink">斗罗大陆</a></p></td>
 <td><p>未知</p></td>
-<td><p>肖戰</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/肖戰" title="wikilink">肖戰</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -240,7 +240,7 @@
 <td><p>拍摄中</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/余生，请多指教" title="wikilink">余生，请多指教</a></p></td>
 <td><p><a href="../Page/腾讯视频.md" title="wikilink">腾讯视频</a></p></td>
-<td><p>肖战</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/肖戰" title="wikilink">肖戰</a></p></td>
 <td><p>顾魏</p></td>
 </tr>
 <tr class="even">
@@ -442,11 +442,12 @@
 <td><p>2018年4月25日</p></td>
 <td><p>踩影子</p></td>
 <td><center>
-<p>彭楚粤[15]</p></td>
+<p>肖战[15]</p></td>
+<td><center>
+<p>-</p></td>
 <td><center>
 <p>-</p></td>
 <td><p>《<a href="../Page/哦！我的皇帝陛下.md" title="wikilink">哦！我的皇帝陛下</a>》插曲</p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>2018年5月20日</p></td>
@@ -784,6 +785,7 @@
 | 2017年5月20日     | 《新闻当事人》                                                  | X玖的追梦之路                                                   |                                             |
 | 2017年7月8日      | [《快樂大本營》](../Page/快乐大本营.md "wikilink")                   | 二十周年表白季(參與成員：伍嘉成、彭楚粵、肖戰、陳澤希、谷嘉誠)                          |                                             |
 | 2017年7月19日     | 《2017亚洲金曲大赏》                                             | [騰訊視頻](https://zh.wikipedia.org/wiki/騰訊視頻 "wikilink")     |                                             |
+| 2017年7月21日     | [《天天向上》](../Page/天天向上.md "wikilink")                     | [湖南衛視](../Page/湖南卫视.md "wikilink")                        | 流口水的夜市美食季来啦！(參與成員：趙磊、夏之光、郭子凡)               |
 | 2017年8月27日     | 《亚洲新歌榜》                                                  |                                                           |                                             |
 | 《第二届粉丝嘉年华年度盛典》 |                                                          |                                                           |                                             |
 | 2017年9月23日     | 《明日之子》                                                   | [騰訊視頻](https://zh.wikipedia.org/wiki/騰訊視頻 "wikilink")     |                                             |
@@ -828,7 +830,7 @@
 </tbody>
 </table>
 
-### 亞洲新歌榜年度盛典
+### [亞洲新歌榜年度盛典](https://zh.wikipedia.org/wiki/亞洲新歌榜年度盛典 "wikilink")
 
 <table>
 <thead>

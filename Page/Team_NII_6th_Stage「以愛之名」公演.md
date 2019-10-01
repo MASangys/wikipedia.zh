@@ -1,4 +1,4 @@
-**SNH48 Team NII 6th Stage「以愛之名」公演**是[SNH48的劇場公演](https://zh.wikipedia.org/wiki/SNH48 "wikilink")，此套公演同時也是SNH48 Team NII的第二套原創公演。
+**SNH48 Team NII 6th Stage「以愛之名」公演**是[SNH48](../Page/SNH48.md "wikilink")的劇場公演，此套公演同時也是SNH48 Team NII的第二套原創公演。
 
 ## 概要
 

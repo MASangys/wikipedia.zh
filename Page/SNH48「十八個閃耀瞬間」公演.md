@@ -1,4 +1,4 @@
-**SNH48「十八個閃耀瞬間」公演**是[SNH48於](https://zh.wikipedia.org/wiki/SNH48 "wikilink")2016年舉行的剧场公演，亦是SNH48的首個「紀念公演季」。\[1\]
+**SNH48「十八個閃耀瞬間」公演**是[SNH48](../Page/SNH48.md "wikilink")於2016年舉行的剧场公演，亦是SNH48的首個「紀念公演季」。\[1\]
 
 ## 概要
 

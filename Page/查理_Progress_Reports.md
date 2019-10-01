@@ -1,4 +1,4 @@
-《**查理 Progress Reports**》是臺灣[創作歌手](../Page/創作歌手.md "wikilink")[謝震廷](../Page/謝震廷.md "wikilink")的首張專輯，於2016年1月8日透過十全娛樂發行，主打曲為〈燈光〉。專輯歷時三年製作，概念取自科幻小說《[獻給阿爾吉儂的花束](../Page/獻給阿爾吉儂的花束.md "wikilink")》，謝震廷稱《查理》像是他的成長日記。歌曲編曲有別於先前以[民謠吉他為主的風格](https://zh.wikipedia.org/wiki/民謠吉他 "wikilink")，還揉和了[電子舞曲](../Page/電子舞曲.md "wikilink")與[搖滾等](https://zh.wikipedia.org/wiki/搖滾 "wikilink")。
+《**查理 Progress Reports**》是臺灣[創作歌手](../Page/創作歌手.md "wikilink")[謝震廷](../Page/謝震廷.md "wikilink")的首張音樂專輯，於2016年1月8日透過十全娛樂發行，主打曲為〈燈光〉。專輯歷時三年製作，概念取自科幻小說《[獻給阿爾吉儂的花束](../Page/獻給阿爾吉儂的花束.md "wikilink")》，謝震廷稱《查理》像是他的成長日記。歌曲編曲有別於先前以[民謠吉他為主的風格](https://zh.wikipedia.org/wiki/民謠吉他 "wikilink")，還揉和了[電子舞曲](../Page/電子舞曲.md "wikilink")與[搖滾等](https://zh.wikipedia.org/wiki/搖滾 "wikilink")。
 
 歌曲的編曲獲樂評人的好評；謝震廷憑藉專輯獲頒[第27屆金曲獎](https://zh.wikipedia.org/wiki/第27屆金曲獎 "wikilink")[最佳新人獎](https://zh.wikipedia.org/wiki/金曲獎最佳新人獎 "wikilink")。
 

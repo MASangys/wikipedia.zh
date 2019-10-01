@@ -802,7 +802,7 @@ Kwon Yong Sang</p></td>
 <tr class="even">
 <td><p>第43話</p></td>
 <td></td>
-<td></td>
+<td><p>狩獵-{索斯獸}-，男人的約定</p></td>
 <td><p>高木聖子</p></td>
 <td><p>砂和寬德</p></td>
 <td><p>北村翔太郎</p></td>
@@ -818,7 +818,7 @@ Won Eun Sook<br />
 <tr class="odd">
 <td><p>第44話</p></td>
 <td></td>
-<td></td>
+<td><p>吶喊！壯烈的友情</p></td>
 <td></td>
 <td><p>牧俊治</p></td>
 <td><p>宍戸久美子<br />
@@ -929,7 +929,7 @@ Joung Jin Young</p></td>
   -
   -
   -
-[Category:OLM](https://zh.wikipedia.org/wiki/Category:OLM "wikilink") [Category:索斯機械獸](https://zh.wikipedia.org/wiki/Category:索斯機械獸 "wikilink") [Category:快樂快樂月刊](https://zh.wikipedia.org/wiki/Category:快樂快樂月刊 "wikilink") [Category:2018年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2018年日本電視動畫 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
+[Category:OLM](https://zh.wikipedia.org/wiki/Category:OLM "wikilink") [Category:索斯機械獸](https://zh.wikipedia.org/wiki/Category:索斯機械獸 "wikilink") [Category:快樂快樂月刊](https://zh.wikipedia.org/wiki/Category:快樂快樂月刊 "wikilink") [Category:2018年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2018年日本電視動畫 "wikilink") [Category:2019年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2019年日本電視動畫 "wikilink") [Category:每日放送製作動畫](https://zh.wikipedia.org/wiki/Category:每日放送製作動畫 "wikilink") [Category:東京電視網動畫](https://zh.wikipedia.org/wiki/Category:東京電視網動畫 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
 
 1.
 2.

@@ -20,15 +20,16 @@
   - 三星Galaxy Folder系列 (Android雙屏摺疊手機)
   - 三星Galaxy Young系列 (入門)
 
-## 其他
+## Galaxy 系列
 
   - [三星Galaxy i7500](../Page/三星Galaxy_i7500.md "wikilink")
   - [三星Galaxy R](../Page/三星Galaxy_R.md "wikilink")
   - [三星Galaxy 3](https://zh.wikipedia.org/wiki/三星Galaxy_3 "wikilink")
+  - [三星Galaxy Feel](https://zh.wikipedia.org/wiki/三星Galaxy_Feel "wikilink")
 
 ## "Over the horizon"
 
-Over The Horizon是[Samsung Galaxy S2推出之後所有三星手機皆配備的鈴聲](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S2 "wikilink")。它由Joong-sam Yun開發。雖然六音符曲調的基本組成自成立以來沒有改變，但隨著產品線的發展，現時已經有多種版本。 \[1\]\[2\]
+Over The Horizon是[Samsung Galaxy S II推出之後所有三星手機皆配備的鈴聲](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S_II "wikilink")。它由Joong-sam Yun開發。雖然六音符曲調的基本組成自成立以來沒有改變，但隨著產品線的發展，現時已經有多種版本。 \[1\]\[2\]
 
 ## 外部連結
 

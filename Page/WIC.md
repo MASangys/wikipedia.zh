@@ -2,7 +2,7 @@ __NOTOC__ **WIC**可以指：
 
 ## 组织
 
-  - [荷兰西印度公司](https://zh.wikipedia.org/wiki/荷兰西印度公司 "wikilink")（Dutch West India Company），荷兰一家17-18世纪间的公司。
+  - [荷兰西印度公司](../Page/荷兰西印度公司.md "wikilink")（Dutch West India Company），荷兰一家17-18世纪间的公司。
   - [西印度大学](https://zh.wikipedia.org/wiki/西印度大学 "wikilink")（West Indies College），北加勒比大学的旧称
 
 ## 计算机

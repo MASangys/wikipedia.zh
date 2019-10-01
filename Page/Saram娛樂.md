@@ -12,7 +12,7 @@
 
   - [尹啟相](../Page/尹啟相.md "wikilink")
 
-  - [李荷妮](https://zh.wikipedia.org/wiki/李荷妮 "wikilink")
+  - [李荷妮](../Page/李荷妮.md "wikilink")
 
   - [卞耀漢](https://zh.wikipedia.org/wiki/卞耀漢 "wikilink")
 

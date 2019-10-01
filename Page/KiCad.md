@@ -19,3 +19,4 @@
   - [Getting started in KiCad](http://kicad-pcb.org/help/documentation/#_getting_started)
 
   -
+[分类:电子设计自动化软体](https://zh.wikipedia.org/wiki/分类:电子设计自动化软体 "wikilink") [分类:自由应用软体](https://zh.wikipedia.org/wiki/分类:自由应用软体 "wikilink")

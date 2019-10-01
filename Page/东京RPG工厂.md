@@ -37,9 +37,13 @@ Windows</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>鬼哭邦</p></td>
+<td><p>鬼哭之邦<br />
+<br />
+</p></td>
 <td><p>角色扮演</p></td>
-<td><p>任天堂Switch</p></td>
+<td><p>PlayStation 4<br />
+任天堂Switch<br />
+Windows</p></td>
 <td></td>
 </tr>
 </tbody>

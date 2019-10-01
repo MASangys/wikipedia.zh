@@ -4,15 +4,15 @@
 
 ### 主要人物
 
-|                                                     |        |                                                                                                      |
-| --------------------------------------------------- | ------ | ---------------------------------------------------------------------------------------------------- |
-| **演員**                                              | **角色** | **介紹**                                                                                               |
-| [劉智泰](../Page/劉智泰.md "wikilink")                    | 崔康予    | 太陽生命保險調查組組長，綽號「瘋狗」。擁有敏銳的洞察力、與眾不同的直覺，是保險詐騙揭發率達99%的保險調查老手。自從因空難事故失去家人後，帶領對保險詐騙犯窮追不捨的「瘋狗」小組，追擊社會赤裸面貌。   |
-| [禹棹煥](https://zh.wikipedia.org/wiki/禹棹奐 "wikilink") | 金敏俊    | 優雅、自信十足、機靈聰明的男人，能夠擺出任何表情，也能偽裝成任何人。為了解開大哥死亡的秘密，隱藏自己心事，與崔康予合作加入「瘋狗」小組，對張河莉有好感。                         |
-| [柳和榮](../Page/柳和榮.md "wikilink")                    | 張河莉    | 體操選手出身的保險調查員，是「瘋狗」小組中唯一的女成員，擁有與眾不同的頭腦、少女般的臉龐與性感身材。只要是為了調查，能夠變身成為帥氣女、純情大學生、性感女等任何身份，在與金敏俊的相處過程中對他動了心。 |
-| [趙在允](../Page/趙在允.md "wikilink")                    | 朴順正    | 「瘋狗」小組成員。有暴力前科，但已改過自新，手下有一群小弟，綽號「Cheetah 獵豹」。                                                        |
-| [金彗星](../Page/金彗星.md "wikilink")                    | 溫樓利    | 「瘋狗」小組成員，科技擔當，相當厲害的駭客，本身家庭背景不簡單，綽號「Pentium 奔騰」。                                                      |
-|                                                     |        |                                                                                                      |
+|                                                     |        |                                  |                                                                                                      |
+| --------------------------------------------------- | ------ | -------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| **演員**                                              | **角色** | **香港配音**                         | **介紹**                                                                                               |
+| [劉智泰](../Page/劉智泰.md "wikilink")                    | 崔康予    | [何偉誠](../Page/何偉誠.md "wikilink") | 太陽生命保險調查組組長，綽號「瘋狗」。擁有敏銳的洞察力、與眾不同的直覺，是保險詐騙揭發率達99%的保險調查老手。自從因空難事故失去家人後，帶領對保險詐騙犯窮追不捨的「瘋狗」小組，追擊社會赤裸面貌。   |
+| [禹棹煥](https://zh.wikipedia.org/wiki/禹棹奐 "wikilink") | 金敏俊    | [張振熙](../Page/張振熙.md "wikilink") | 優雅、自信十足、機靈聰明的男人，能夠擺出任何表情，也能偽裝成任何人。為了解開大哥死亡的秘密，隱藏自己心事，與崔康予合作加入「瘋狗」小組，對張河莉有好感。                         |
+| [柳和榮](../Page/柳和榮.md "wikilink")                    | 張河莉    | [羅婉楓](../Page/羅婉楓.md "wikilink") | 體操選手出身的保險調查員，是「瘋狗」小組中唯一的女成員，擁有與眾不同的頭腦、少女般的臉龐與性感身材。只要是為了調查，能夠變身成為帥氣女、純情大學生、性感女等任何身份，在與金敏俊的相處過程中對他動了心。 |
+| [趙在允](../Page/趙在允.md "wikilink")                    | 朴順正    | [羅偉亮](../Page/羅偉亮.md "wikilink") | 「瘋狗」小組成員。有暴力前科，但已改過自新，手下有一群小弟，綽號「Cheetah 獵豹」。                                                        |
+| [金彗星](../Page/金彗星.md "wikilink")                    | 溫樓利    | [黃尉斯](../Page/黃尉斯.md "wikilink") | 「瘋狗」小組成員，科技擔當，相當厲害的駭客，本身家庭背景不簡單，綽號「Pentium 奔騰」。                                                      |
+|                                                     |        |                                  |                                                                                                      |
 
 ### 太陽生命保險公司
 
@@ -20,32 +20,38 @@
 <colgroup>
 <col style="width: 10%" />
 <col style="width: 10%" />
-<col style="width: 49%" />
+<col style="width: 10%" />
+<col style="width: 38%" />
 </colgroup>
 <tbody>
 <tr class="odd">
 <td><p><strong>演員</strong></p></td>
 <td><p><strong>角色</strong></p></td>
+<td><p><strong>香港配音</strong></p></td>
 <td><p><strong>介紹</strong></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/洪洙賢.md" title="wikilink">洪洙賢</a></p></td>
 <td><p>車虹珠</p></td>
+<td><p><a href="../Page/莊巧兒.md" title="wikilink">莊巧兒</a></p></td>
 <td><p>太陽生命保險專務，康予的後輩。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/鄭普碩.md" title="wikilink">鄭普碩</a></p></td>
 <td><p>車俊圭</p></td>
+<td></td>
 <td><p>虹珠的爸爸，太陽生命保險會長。</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>朴武信</p></td>
+<td></td>
 <td><p>太陽生命保險調查組副組長。在崔康予離職後升任為組長。</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>朴在修</p></td>
+<td><p><a href="../Page/鄧永健.md" title="wikilink">鄧永健</a></p></td>
 <td><p>太陽生命保險菜鳥調查員。</p></td>
 </tr>
 </tbody>
@@ -57,27 +63,32 @@
 <colgroup>
 <col style="width: 10%" />
 <col style="width: 10%" />
-<col style="width: 49%" />
+<col style="width: 10%" />
+<col style="width: 38%" />
 </colgroup>
 <tbody>
 <tr class="odd">
 <td><p><strong>演員</strong></p></td>
 <td><p><strong>角色</strong></p></td>
+<td><p><strong>香港配音</strong></p></td>
 <td><p><strong>介紹</strong></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/崔元英.md" title="wikilink">崔元英</a></p></td>
 <td><p>朱賢基</p></td>
+<td><p><a href="../Page/陳健豪.md" title="wikilink">陳健豪</a></p></td>
 <td><p>財閥三世，韓國航空母公司韓國航空運輸集團JH的副主席。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/金永勳.md" title="wikilink">金永勳</a></p></td>
 <td><p>金範俊</p></td>
+<td><p><a href="../Page/梁皓翔.md" title="wikilink">梁皓翔</a></p></td>
 <td><p>金敏俊的哥哥，被人誣陷為飛機失事的元凶，2年前飛機失事時的副駕駛。</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>申志雄</p></td>
+<td></td>
 <td><p>2年前飛機失事時的正駕駛。</p></td>
 </tr>
 </tbody>
@@ -89,105 +100,126 @@
 <colgroup>
 <col style="width: 10%" />
 <col style="width: 10%" />
-<col style="width: 49%" />
+<col style="width: 10%" />
+<col style="width: 38%" />
 </colgroup>
 <tbody>
 <tr class="odd">
 <td><p><strong>演員</strong></p></td>
 <td><p><strong>角色</strong></p></td>
+<td><p><strong>香港配音</strong></p></td>
 <td><p><strong>介紹</strong></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/李準赫.md" title="wikilink">李準赫</a></p></td>
 <td><p>趙韓宇</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/劉文光" title="wikilink">劉文光</a></p></td>
 <td><p>大明警察署情報犯罪調查組班長。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/朴仁煥.md" title="wikilink">朴仁煥</a></p></td>
 <td><p>邊國鎮</p></td>
+<td></td>
 <td><p>前警察法醫教授，現為業餘舞蹈運動員。</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>吳瑞羅</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳雪瑩" title="wikilink">陳雪瑩</a></p></td>
 <td><p>綜合醫院兒科主管護士，最後也成為瘋狗成員。</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>韓美淑</p></td>
+<td><p><a href="../Page/王綺婷.md" title="wikilink">王綺婷</a></p></td>
 <td><p>崔康予的妻子。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/金叡俊" title="wikilink">金叡俊</a></p></td>
 <td><p>崔周源</p></td>
+<td><p><a href="../Page/莊巧兒.md" title="wikilink">莊巧兒</a></p></td>
 <td><p>崔康予的兒子。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/林丞大.md" title="wikilink">林丞大</a></p></td>
 <td><p>方振碩</p></td>
+<td></td>
 <td><p>採訪朱賢基的記者。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/朴成勳.md" title="wikilink">朴成勳</a></p></td>
 <td><p>高振哲</p></td>
+<td></td>
 <td><p>不同的要保人所購買的3張壽險保單，包括災害附加險，保額高達6億韓元的保險受益人。而被保險人均因意外事故死亡。</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>李美蘭</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳雪瑩" title="wikilink">陳雪瑩</a></p></td>
 <td><p>太陽生命保險代理人，因為業績優異，素有-{「}-保險王-{」}-的稱號。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/朴知妍" title="wikilink">朴知妍</a></p></td>
 <td><p>姜恩珠</p></td>
+<td><p><a href="../Page/莊巧兒.md" title="wikilink">莊巧兒</a></p></td>
 <td><p>-{「}-光-{」}-教會執事，李秀武的妻子。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/康正久" title="wikilink">康正久</a></p></td>
 <td><p>李秀武</p></td>
+<td></td>
 <td><p>姜恩珠的丈夫，疑為自焚死亡。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/趙英鎮.md" title="wikilink">趙英鎮</a></p></td>
 <td><p>溫柱植</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/劉文光" title="wikilink">劉文光</a></p></td>
 <td><p>釜山地檢廳次長檢察官，之後升任為中央地檢總長。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/宋在喜.md" title="wikilink">宋在喜</a></p></td>
 <td><p>韓成振</p></td>
+<td><p><a href="../Page/袁德基.md" title="wikilink">袁德基</a></p></td>
 <td><p>李秀武的大學前輩。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/朴上輝" title="wikilink">朴上輝</a></p></td>
 <td><p>韓尚奉</p></td>
+<td></td>
 <td><p>朱賢基的秘書。</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>李英浩</p></td>
+<td></td>
 <td><p>主韓航空法務組長。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/車聖濟" title="wikilink">車聖濟</a></p></td>
 <td><p>夏星</p></td>
+<td></td>
 <td><p>李美蘭的兒子。</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>安志勳</p></td>
+<td><p><a href="../Page/梁皓翔.md" title="wikilink">梁皓翔</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>李漢東</p></td>
+<td></td>
 <td><p>保險詐騙犯。</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td></td>
+<td></td>
 <td><p>2年前飛機失事前與金範俊對話的塔台工作人員。</p></td>
 </tr>
 <tr class="even">
+<td></td>
 <td></td>
 <td></td>
 <td><p>受理朴順正指控李英浩追殺金敏俊的刑警。</p></td>

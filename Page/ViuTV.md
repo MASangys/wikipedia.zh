@@ -254,7 +254,7 @@ ViuTV由啟播開始開放平台讓本地及海外單位在星期一至五的《
   -
   -
   -
-[Category:香港電視娛樂](https://zh.wikipedia.org/wiki/Category:香港電視娛樂 "wikilink") [Category:高清頻道](https://zh.wikipedia.org/wiki/Category:高清頻道 "wikilink") [Category:香港電視播放頻道](https://zh.wikipedia.org/wiki/Category:香港電視播放頻道 "wikilink") [Category:香港數碼地面電視廣播](https://zh.wikipedia.org/wiki/Category:香港數碼地面電視廣播 "wikilink") [Category:2016年成立的電視台或電視頻道](https://zh.wikipedia.org/wiki/Category:2016年成立的電視台或電視頻道 "wikilink") [Category:粵語電視頻道](https://zh.wikipedia.org/wiki/Category:粵語電視頻道 "wikilink") [Category:2016年香港建立](https://zh.wikipedia.org/wiki/Category:2016年香港建立 "wikilink")
+[Category:香港電視娛樂](https://zh.wikipedia.org/wiki/Category:香港電視娛樂 "wikilink") [Category:高清頻道](https://zh.wikipedia.org/wiki/Category:高清頻道 "wikilink") [Category:香港電視播放頻道](https://zh.wikipedia.org/wiki/Category:香港電視播放頻道 "wikilink") [Category:香港數碼地面電視廣播](https://zh.wikipedia.org/wiki/Category:香港數碼地面電視廣播 "wikilink") [Category:2016年成立的電視台或電視頻道](https://zh.wikipedia.org/wiki/Category:2016年成立的電視台或電視頻道 "wikilink") [Category:粵語電視頻道](https://zh.wikipedia.org/wiki/Category:粵語電視頻道 "wikilink") [Category:2016年香港建立](https://zh.wikipedia.org/wiki/Category:2016年香港建立 "wikilink") [Category:免費電視頻道](https://zh.wikipedia.org/wiki/Category:免費電視頻道 "wikilink")
 
 1.
 

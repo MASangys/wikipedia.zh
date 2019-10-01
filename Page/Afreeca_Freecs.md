@@ -499,6 +499,76 @@
 </tbody>
 </table>
 
+### 絕地求生
+
+#### Afreeca Freecs Fatal
+
+<table>
+<thead>
+<tr class="header">
+<th><p>ID</p></th>
+<th><p>姓名</p></th>
+<th><p>国籍</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>Style</p></td>
+<td><p>Oh Gyeong-cheol(오경철)</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>NN</p></td>
+<td><p>Han Min-gyu(한민규)</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Shadow</p></td>
+<td><p>Lee Seung-sun(이승순)</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Lambu</p></td>
+<td><p>Park Chan-hyuk (박찬혁)</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+#### Afreeca Freecs Ares
+
+<table>
+<thead>
+<tr class="header">
+<th><p>ID</p></th>
+<th><p>姓名</p></th>
+<th><p>国籍</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>Rowha</p></td>
+<td><p>Lee Jae-ho(이재호)</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Meerkat</p></td>
+<td><p>Kim Tae-hoo(김태후)</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Sparrow</p></td>
+<td><p>Byeon Jung-hwan(변정환)</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>EJ</p></td>
+<td><p>Lee Jung-woo(이정우)</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ## 参考資料
 
 [Category:英雄聯盟競技團隊](https://zh.wikipedia.org/wiki/Category:英雄聯盟競技團隊 "wikilink") [Category:韩国电子竞技团队](https://zh.wikipedia.org/wiki/Category:韩国电子竞技团队 "wikilink")

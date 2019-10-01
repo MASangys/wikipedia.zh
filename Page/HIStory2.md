@@ -270,7 +270,7 @@
 <tr class="even">
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/潘偉銘" title="wikilink">潘偉銘</a><br />
-(HBL球星)</p></td>
+</p></td>
 <td><center>
 <p>小甲(龔萬祥)</p></td>
 <td><p>志弘中學二年級生，學校排球隊隊員，背號10。</p></td>

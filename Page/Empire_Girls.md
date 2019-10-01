@@ -1,4 +1,4 @@
-**Empire Girls**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[明星帝國娛樂](../Page/明星帝國娛樂.md "wikilink")預計於2019年推出的女子團體，成員暫時包括金允智、姜詩賢、張孝耿、李多園、崔汝梨、趙朱殷。
+**ARIAZ**（，前名**Empire Girls**（））是[韓國Rising](https://zh.wikipedia.org/wiki/韓國 "wikilink") Star娛樂於2019年推出的女子團體，成員暫時包括金允智、姜詩賢、張孝耿、李多園、崔汝梨、趙朱殷。
 
 ## 經歷
 

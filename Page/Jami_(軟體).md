@@ -1,6 +1,6 @@
 **Jami**（曾名為**GNU Ring**、**SFLphone**）是一個開放原始碼且相容於[SIP的](../Page/会话发起协议.md "wikilink")[軟體電話與](https://zh.wikipedia.org/wiki/軟體電話 "wikilink")[即時通訊](../Page/即時通訊.md "wikilink")軟體，提供[Linux](../Page/Linux.md "wikilink")、[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[macOS與](https://zh.wikipedia.org/wiki/macOS "wikilink")[Android](../Page/Android.md "wikilink")平臺的版本，其可以不靠中央伺服器運作。Jami是以[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")授權的[自由软件](../Page/自由软件.md "wikilink")。2016年11月，它成為了[GNU計劃](../Page/GNU計劃.md "wikilink")的一部份\[1\]。其在大多數的主要Linux發行版均有提供軟體包，其中包含了[Debian](../Page/Debian.md "wikilink")、[Fedora](../Page/Fedora.md "wikilink")與[Ubuntu](../Page/Ubuntu.md "wikilink")。也提供了單獨的[GNOME](../Page/GNOME.md "wikilink")與[KDE](../Page/KDE.md "wikilink")版本\[2\]。
 
-因為採用了[分散式雜湊表](../Page/分散式雜湊表.md "wikilink")技術（例如[BitTorrent網路就有使用](../Page/BitTorrent_\(协议\).md "wikilink")），Jami建立了自己的網路，並可提供目錄、認證、[加密等功能給連結到它的所有系統](https://zh.wikipedia.org/wiki/加密 "wikilink")\[3\]。
+因為採用了[分散式雜湊表](../Page/分散式雜湊表.md "wikilink")技術（例如[BitTorrent網路就有使用](../Page/BitTorrent_\(协议\).md "wikilink")），Jami建立了自己的網路，並可提供目錄、認證、[加密](../Page/加密.md "wikilink")等功能給連結到它的所有系統\[3\]。
 
 Jami是由Savoir-faire Linux開發與維護\[4\]；它將自己定位為潛在的[Skype](../Page/Skype.md "wikilink")自由軟體替代品\[5\]。Jami的-{文件}-則可在它的 Wiki上閱讀。
 

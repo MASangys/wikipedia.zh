@@ -1,8 +1,8 @@
-**TheWrap**是一個由於2009年成立的娛樂和媒體新聞網站\[1\]。
+**TheWrap**是一個由[莎朗·韦克斯曼](../Page/莎朗·韦克斯曼.md "wikilink")於2009年成立的娛樂和媒體新聞網站\[1\]。
 
 ## 历史
 
-據[CBS的觀察](../Page/CBS_\(電視網\).md "wikilink")，為The Wrap News籌集了50萬美元，以於2009年1月26日成立娛樂和媒體新聞網站。
+據[CBS的觀察](../Page/CBS_\(電視網\).md "wikilink")，[莎朗·韦克斯曼](../Page/莎朗·韦克斯曼.md "wikilink")為The Wrap News籌集了50萬美元，以於2009年1月26日成立娛樂和媒體新聞網站。
 
 TheWrap在業界與其他好萊塢新聞網站競爭，截至2014年，它和[Deadline.com](../Page/Deadline.com.md "wikilink")網站的競爭最為激烈\[2\]。
 

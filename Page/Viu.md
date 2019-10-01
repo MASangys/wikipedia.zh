@@ -4293,7 +4293,7 @@ Viu品牌旗下有兩個平台，分別以黃藍顏色為分辨。黃色為OTT�
 
   - [Running Man](../Page/Running_Man.md "wikilink")
 
-  - [叢林的法則](https://zh.wikipedia.org/wiki/叢林的法則 "wikilink")
+  - [叢林的法則](../Page/叢林的法則.md "wikilink")
 
   - [超人回來了](https://zh.wikipedia.org/wiki/超人回來了 "wikilink")
 

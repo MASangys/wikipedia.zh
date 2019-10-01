@@ -18,7 +18,7 @@
 
 1995年，設計團隊為該槍的設計註冊[专利](../Page/专利.md "wikilink")，然後為了應對全新制定的戰術指標，將製成的試驗樣品命名為RG055。樣品槍RG055S（S，，意為：操作）命名為「斑蝰蛇」，並在1996年[鄂木斯克](../Page/鄂木斯克.md "wikilink")設備和地面部隊裝備展（VTTV）以上首次推出並提供出口。
 
-1996年12月，該槍獲聯邦安全局和[联邦警卫局](../Page/联邦警卫局.md "wikilink")所屬的[特種部隊](../Page/特種部隊.md "wikilink")所採用，手槍命名為SR-1「維克多」（SR，，意為：特殊設計），而配用的穿甲彈藥則命名為SP-10（SP，，意為：特殊彈藥，在客戶識別文件上則命名為RG054）。生產分散設置在兩家[兵工廠](https://zh.wikipedia.org/wiki/兵工廠 "wikilink")——（）和“‘馬亞克’[基洛夫工厂](../Page/基洛夫工厂.md "wikilink")”股份公司（JSC，）。
+1996年12月，該槍獲聯邦安全局和[联邦警卫局](../Page/联邦警卫局.md "wikilink")所屬的[特種部隊](../Page/特種部隊.md "wikilink")所採用，手槍命名為SR-1「維克多」（SR，，意為：特殊設計），而配用的穿甲彈藥則命名為SP-10（SP，，意為：特殊彈藥，在客戶識別文件上則命名為RG054）。生產分散設置在兩家[兵工廠](../Page/兵工廠.md "wikilink")——（）和“‘馬亞克’[基洛夫工厂](../Page/基洛夫工厂.md "wikilink")”股份公司（JSC，）。
 
 除了SP-10／（／）彈藥以外，其他已經研製出來的彈藥還有：SP-11／（／），使用鉛製彈芯的標準全金屬被覆彈；SP-12／，低跳彈性[達姆彈](../Page/達姆彈.md "wikilink")；SP-13／（／），[曳光](../Page/曳光彈.md "wikilink")[穿甲子彈](https://zh.wikipedia.org/wiki/穿甲彈 "wikilink")。謝爾久科夫手槍發射具有較高制止力和貫穿力的子彈：穿甲彈藥在50公尺（54.68碼，164.04英尺）距離可貫穿防護等級達[NIJ](https://zh.wikipedia.org/wiki/NIJ標準 "wikilink") IIIA的防彈衣、厚度5毫米的鋼板或厚度2.4毫米的鈦板。
 
@@ -30,7 +30,7 @@
   - 7N29（SP-10），[穿甲彈](https://zh.wikipedia.org/wiki/穿甲彈 "wikilink")，彈頭重量為6.7克（具有淬火鋼彈芯，只有彈頭部分從金屬外殼伸出，具有[可脫式](https://zh.wikipedia.org/wiki/脫殼穿甲彈 "wikilink")[聚乙烯](../Page/聚乙烯.md "wikilink")彈托和雙金屬外殼）；
   - 7BT3（SP-13），[曳光式穿甲彈](../Page/曳光彈.md "wikilink")，彈頭重量為7.3克（具有短鐵彈芯，鉛製彈托，曳光藥劑化合物和兩層金屬外殼被覆）。\[3\]
 
-除了SPS，[MP-443「烏鴉」與](../Page/MP-443烏鴉式手槍.md "wikilink")[GSh-18同樣作為制式手槍被俄羅斯軍隊和執法機關以下的各個部隊所採用](../Page/GSh-18手槍.md "wikilink")。
+除了SPS，[MP-443「烏鴉」與](../Page/MP-443烏鴉式手槍.md "wikilink")[GSh-18同樣作為制式手槍被俄羅斯軍隊和執法機關以下的各個部隊所採用](../Page/GSh-18半自動手槍.md "wikilink")。
 
 ## 設計
 
@@ -99,7 +99,7 @@ SR-1“維克多”發射專用[手枪](../Page/手枪.md "wikilink")[子彈](..
   - [MP-445“瓦良格”](../Page/MP-445瓦良格手槍.md "wikilink")
   - [MP-446“維京人”](../Page/MP-446維京人手槍.md "wikilink")
   - [MP-448“斯基泰”](../Page/MP-448斯基泰手槍.md "wikilink")
-  - [GSh-18](../Page/GSh-18手槍.md "wikilink")
+  - [GSh-18](../Page/GSh-18半自動手槍.md "wikilink")
   - [阿森納Strike One](../Page/阿森納槍械Strike_One手槍.md "wikilink")
   - [Udav「大蟒蛇」](https://zh.wikipedia.org/wiki/Udav大蟒蛇手槍 "wikilink")
   - [SR-2“希瑟”](../Page/SR-2希瑟衝鋒槍.md "wikilink")

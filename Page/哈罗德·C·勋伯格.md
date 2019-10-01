@@ -1,4 +1,4 @@
-[缩略图](https://zh.wikipedia.org/wiki/File:Harold_C_Schonberg_Sculpture_by_Milton_Hebald.jpg "fig:缩略图") **哈罗德·查尔斯·勋伯格**（，），[美国](../Page/美国.md "wikilink")音乐评论家、[记者](https://zh.wikipedia.org/wiki/记者 "wikilink")，曾获1971年[普利策奖](../Page/普利策奖.md "wikilink")\[1\]。
+**哈罗德·查尔斯·勋伯格**（，），[美国](../Page/美国.md "wikilink")音乐评论家、[记者](https://zh.wikipedia.org/wiki/记者 "wikilink")，曾获1971年[普利策奖](../Page/普利策奖.md "wikilink")\[1\]。
 
 ## 简介
 

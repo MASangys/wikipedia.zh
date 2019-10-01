@@ -24,7 +24,7 @@
 </tr>
 <tr class="even">
 <td><p>2018年8月14日</p></td>
-<td><p>HANN</p></td>
+<td><p>HANN (Alone)</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=OKNXn2qCEws">(G)I-DLE</a>、<a href="https://www.youtube.com/watch?v=3K38Fc1SV5c">1theK</a></p></td>
 <td><p>[3]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Star_System" title="wikilink">Star System</a>[4]</p></td>
@@ -242,13 +242,13 @@
 
 ### 固定综艺
 
-| 播出日期                  | 电视台                                                            | 节目名称                                                                   | 参与成员 | 备注  |
-| --------------------- | -------------------------------------------------------------- | ---------------------------------------------------------------------- | ---- | --- |
-| 2016年1月22日-2016年4月1日  | [Mnet](../Page/Mnet.md "wikilink")                             | [PRODUCE 101](../Page/PRODUCE_101.md "wikilink")                       | 小娟   | 出道前 |
-| 2016年7月29日-2016年9月30日 | [Unpretty Rapstar 3](../Page/Unpretty_Rapstar_3.md "wikilink") |                                                                        |      |     |
-| 2019年4月26日-2019年7月12日 | [浙江卫视](../Page/浙江卫视.md "wikilink")                             | [奔跑吧](../Page/奔跑吧.md "wikilink")                                       | 雨琦   | 第3季 |
-| 2019年5月19日-2019年6月9日  | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")            | [丫头们](https://zh.wikipedia.org/wiki/丫头们 "wikilink")                    | 试播综艺 |     |
-| 2019年8月29日-           | [Mnet](../Page/Mnet.md "wikilink")                             | [Queendom](https://zh.wikipedia.org/wiki/Queendom_\(韩国综艺\) "wikilink") | 全体   |     |
+| 播出日期                  | 电视台                                                            | 节目名称                                                | 参与成员 | 备注  |
+| --------------------- | -------------------------------------------------------------- | --------------------------------------------------- | ---- | --- |
+| 2016年1月22日-2016年4月1日  | [Mnet](../Page/Mnet.md "wikilink")                             | [PRODUCE 101](../Page/PRODUCE_101.md "wikilink")    | 小娟   | 出道前 |
+| 2016年7月29日-2016年9月30日 | [Unpretty Rapstar 3](../Page/Unpretty_Rapstar_3.md "wikilink") |                                                     |      |     |
+| 2019年4月26日-2019年7月12日 | [浙江卫视](../Page/浙江卫视.md "wikilink")                             | [奔跑吧](../Page/奔跑吧.md "wikilink")                    | 雨琦   | 第3季 |
+| 2019年5月19日-2019年6月9日  | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")            | [丫头们](https://zh.wikipedia.org/wiki/丫头们 "wikilink") | 试播综艺 |     |
+| 2019年8月29日-           | [Mnet](../Page/Mnet.md "wikilink")                             | [Queendom](../Page/Queendom_\(韓國綜藝\).md "wikilink") | 全体   |     |
 
 ### 嘉宾出演
 
@@ -881,14 +881,14 @@
 | 8月11日  | United CUBE                                                     | [LATATA](https://www.youtube.com/watch?v=ztWnrkpKPk8)         | 纽约快闪             |                                             |
 | 8月16日  | [翻跳：Fake Love](https://www.youtube.com/watch?v=ERK1jzLEDm0)     | 原唱：[防弹少年团](https://zh.wikipedia.org/wiki/防弹少年团 "wikilink")    |                  |                                             |
 | 8月16日  | [翻跳：APESXXT](https://www.youtube.com/watch?v=fAJi2ZAryNY)       | 原唱：                                                           |                  |                                             |
-| 8月20日  | [HANN](https://www.youtube.com/watch?v=EGuuBE7xjBk)             | 舞蹈练习版                                                         |                  |                                             |
-| 8月22日  | 1theK                                                           | [HANN](https://www.youtube.com/watch?v=XJmR1BqXZnE)           | 镜面版              |                                             |
-| 8月22日  | [HANN](https://www.youtube.com/watch?v=XzVwGhPKs8E)             | IN\&OUT版                                                      |                  |                                             |
-| 8月28日  | M2                                                              | [HANN](https://www.youtube.com/watch?v=cENRfkAwQP0)           | 接力版              |                                             |
-| 8月29日  | [HANN](https://www.youtube.com/watch?v=VlYWDBnjGCk)             | 自拍版                                                           |                  |                                             |
-| 9月8日   | News-Ade                                                        | [HANN](https://www.youtube.com/watch?v=Yftd7pNnmWE)           | 交换part版          |                                             |
-| 10月9日  | M2                                                              | [HANN](https://www.youtube.com/watch?v=xVQChWmHKEI)           | KCON自拍版          |                                             |
-| 10月14日 | [HANN](https://www.youtube.com/watch?v=DxYBgkEDqTA)             | KCON接力版                                                       |                  |                                             |
+| 8月20日  | [HANN (Alone)](https://www.youtube.com/watch?v=EGuuBE7xjBk)     | 舞蹈练习版                                                         |                  |                                             |
+| 8月22日  | 1theK                                                           | [HANN (Alone)](https://www.youtube.com/watch?v=XJmR1BqXZnE)   | 镜面版              |                                             |
+| 8月22日  | [HANN (Alone)](https://www.youtube.com/watch?v=XzVwGhPKs8E)     | IN\&OUT版                                                      |                  |                                             |
+| 8月28日  | M2                                                              | [HANN (Alone)](https://www.youtube.com/watch?v=cENRfkAwQP0)   | 接力版              |                                             |
+| 8月29日  | [HANN (Alone)](https://www.youtube.com/watch?v=VlYWDBnjGCk)     | 自拍版                                                           |                  |                                             |
+| 9月8日   | News-Ade                                                        | [HANN (Alone)](https://www.youtube.com/watch?v=Yftd7pNnmWE)   | 交换part版          |                                             |
+| 10月9日  | M2                                                              | [HANN (Alone)](https://www.youtube.com/watch?v=xVQChWmHKEI)   | KCON自拍版          |                                             |
+| 10月14日 | [HANN (Alone)](https://www.youtube.com/watch?v=DxYBgkEDqTA)     | KCON接力版                                                       |                  |                                             |
 | 12月11日 | [舞蹈翻跳](https://www.youtube.com/watch?v=4pM2gaPO1rY)             | 穗珍、雨琦                                                         | MAMA特别版          |                                             |
 
 | 播出日期  | 频道                                                        | 名称                                                        | 参与成员                                                           | 备注                                            |
@@ -1115,7 +1115,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><strong>HANN</strong></p></td>
+<td><p><strong>HANN (Alone)</strong></p></td>
 <td></td>
 <td></td>
 </tr>

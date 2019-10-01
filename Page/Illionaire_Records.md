@@ -23,7 +23,7 @@ Dok2和The Quiett代表Illionaire Records錄製Hiphop選秀節目[Show Me The Mo
   -
 **Ambition Musik**
 
-  - Kim Hyoeun
+  - Keem Hyoeun
   - [Changmo](../Page/Changmo.md "wikilink")
   - Hash Swan
   - ASH ISLAND

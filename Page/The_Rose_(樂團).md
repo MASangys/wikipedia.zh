@@ -43,13 +43,67 @@
 
 ## 音樂作品
 
-### 迷你專輯
+### 單曲
 
 <table>
 <thead>
 <tr class="header">
 <th><p>單曲 #</p></th>
 <th><p>單曲資料</p></th>
+<th><p>曲目</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1st</p></td>
+<td><p>《<strong>Sorry</strong>》</p>
+<ul>
+<li>發行日期：2017年8月3日</li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
+</ul></td>
+<td><ol>
+<li><strong>Sorry</strong></li>
+</ol></td>
+</tr>
+<tr class="even">
+<td><p>2nd</p></td>
+<td><p>《<strong>Like We Used To</strong>》</p>
+<ul>
+<li>發行日期：2017年11月1日</li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
+</ul></td>
+<td><ol>
+<li><strong>Like We Used To</strong></li>
+</ol></td>
+</tr>
+<tr class="odd">
+<td><p>3rd</p></td>
+<td><p>《<strong>RED</strong>》</p>
+<ul>
+<li>發行日期：2019年8月13日</li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
+</ul></td>
+<td><ol>
+<li><strong>RED</strong></li>
+<li>California</li>
+<li>RED (Inst.)</li>
+</ol></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 迷你專輯
+
+<table>
+<thead>
+<tr class="header">
+<th><p>專輯 #</p></th>
+<th><p>專輯資料</p></th>
 <th><p>曲目</p></th>
 </tr>
 </thead>
@@ -65,7 +119,7 @@
 <li>Candy (so good)</li>
 <li><strong>BABY</strong></li>
 <li>I.L.Y.</li>
-<li><strong>sorry</strong></li>
+<li>Sorry</li>
 <li>좋았는데 (Like We Used To)</li>
 </ol></td>
 </tr>
@@ -78,29 +132,18 @@
 </ul></td>
 <td><ol>
 <li>I Don’t Know You</li>
-<li><strong>She’s In The Rain</strong> *타이틀</li>
+<li><strong>She’s In The Rain</strong></li>
 <li>Take Me Down</li>
 <li>불면증 (Insomnia)</li>
 </ol></td>
 </tr>
 <tr class="odd">
-<td><p>3rd</p></td>
-<td><p>《<strong>RED</strong>》</p>
-<ul>
-<li>發行日期：2019年8月13日</li>
-<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
-</ul></td>
-<td><p>1. <strong>RED</strong> 2. California</p></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
-
-### 單曲
-
-| 日期         | 曲目              |
-| ---------- | --------------- |
-| 2017年8月3日  | Sorry           |
-| 2017年11月1日 | Like We Used To |
 
 ## 影視媒體作品
 

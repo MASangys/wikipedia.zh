@@ -248,7 +248,7 @@
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/IU_(藝人)" title="wikilink">IU</a>、<a href="../Page/呂珍九.md" title="wikilink">呂珍九</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/吳忠煥" title="wikilink">吳忠煥</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/吳忠煥.md" title="wikilink">吳忠煥</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/洪貞恩" title="wikilink">洪貞恩</a>、<a href="https://zh.wikipedia.org/wiki/洪美蘭" title="wikilink">洪美蘭</a></p></td>
 <td style="text-align: center;"></td>
 </tr>

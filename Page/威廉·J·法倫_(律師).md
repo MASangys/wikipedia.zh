@@ -2,7 +2,7 @@
 
 ## 早年生活和教育
 
-法倫於1886年出生於曼哈頓，1906年[福坦莫大學畢業](https://zh.wikipedia.org/wiki/福坦莫大學 "wikilink")，後來在1909年[福坦莫法學院上學](https://zh.wikipedia.org/wiki/福坦莫大學法學院 "wikilink")。畢業後，他在[紐約州的](https://zh.wikipedia.org/wiki/紐約州 "wikilink")[西徹斯特郡擔任檢察官三年](https://zh.wikipedia.org/wiki/西徹斯特郡 "wikilink")。
+法倫於1886年出生於曼哈頓，1906年[福坦莫大學畢業](https://zh.wikipedia.org/wiki/福坦莫大學 "wikilink")，後來在1909年[福坦莫法學院上學](https://zh.wikipedia.org/wiki/福坦莫大學法學院 "wikilink")。畢業後，他在[紐約州的](https://zh.wikipedia.org/wiki/紐約州 "wikilink")[西徹斯特郡](../Page/西徹斯特郡.md "wikilink")擔任檢察官三年。
 
 ## 逝世
 

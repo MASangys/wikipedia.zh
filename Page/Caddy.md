@@ -61,7 +61,7 @@ Caddy 默认通过检查域名来启用 HTTPS (通过 ACME protocol 检查域�
 
   -
   -
-[Category:自由跨平台軟體](https://zh.wikipedia.org/wiki/Category:自由跨平台軟體 "wikilink") [Category:自由网络服务器软件](https://zh.wikipedia.org/wiki/Category:自由网络服务器软件 "wikilink") [Category:反向代理](https://zh.wikipedia.org/wiki/Category:反向代理 "wikilink")
+[Category:自由跨平台軟體](https://zh.wikipedia.org/wiki/Category:自由跨平台軟體 "wikilink") [Category:自由网络服务器软件](https://zh.wikipedia.org/wiki/Category:自由网络服务器软件 "wikilink") [Category:反向代理](https://zh.wikipedia.org/wiki/Category:反向代理 "wikilink") [Category:用Go編程的自由軟件](https://zh.wikipedia.org/wiki/Category:用Go編程的自由軟件 "wikilink")
 
 1.
 2.

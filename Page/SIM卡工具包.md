@@ -8,7 +8,7 @@ SIM Application Toolkit由一组编程到SIM卡中的命令组成，这些命令
 
 ## 优点
 
-  - 一些制造商称，STK通过和[加密实现了更高的安全性](https://zh.wikipedia.org/wiki/加密 "wikilink")，这是安全电子商务的必备要素。\[13\]
+  - 一些制造商称，STK通过和[加密](../Page/加密.md "wikilink")实现了更高的安全性，这是安全电子商务的必备要素。\[13\]
   - STK已被部署到绝大多数移动设备。\[14\]
 
 ## 限制

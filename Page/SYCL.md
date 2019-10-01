@@ -1,4 +1,4 @@
-**SYCL**是一个面向[OpenCL](../Page/OpenCL.md "wikilink")的高层次编程模型，一种单一源码特定领域嵌入式语言（[DSEL](https://zh.wikipedia.org/wiki/领域特定语言 "wikilink")），目的是提高编程效率。SYCL 1.2基于纯[C++11](../Page/C++11.md "wikilink")，SYCL 2.2基于纯[C++14](../Page/C++14.md "wikilink")。该标准由[Khronos Group开发](../Page/科纳斯组织.md "wikilink")，2014年3月宣布。
+**SYCL**是一个面向[OpenCL](../Page/OpenCL.md "wikilink")的高层次编程模型，一种单一源码特定领域嵌入式语言（[DSEL](../Page/领域特定语言.md "wikilink")），目的是提高编程效率。SYCL 1.2基于纯[C++11](../Page/C++11.md "wikilink")，SYCL 2.2基于纯[C++14](../Page/C++14.md "wikilink")。该标准由[Khronos Group开发](../Page/科纳斯组织.md "wikilink")，2014年3月宣布。
 
 ## 教程
 

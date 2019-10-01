@@ -98,7 +98,7 @@
 <td><p><a href="../Page/朴明洙.md" title="wikilink">朴明洙</a></p></td>
 <td><p>冷面<br />
 （냉면）</p></td>
-<td><p><small>、<a href="../Page/金淑.md" title="wikilink">金淑</a>、、、<a href="../Page/姜均成.md" title="wikilink">姜均成</a>、<a href="../Page/徐章煇.md" title="wikilink">徐章煇</a>、<a href="../Page/金秀路.md" title="wikilink">金秀路</a>、<a href="https://zh.wikipedia.org/wiki/Lovelyz" title="wikilink">Lovelyz</a>（<a href="../Page/Kei.md" title="wikilink">Kei</a>、<a href="https://zh.wikipedia.org/wiki/叡仁" title="wikilink">叡仁</a>）</small></p></td>
+<td><p><small>、<a href="../Page/金淑.md" title="wikilink">金淑</a>、<a href="../Page/尹正秀.md" title="wikilink">尹正秀</a>、、<a href="../Page/姜均成.md" title="wikilink">姜均成</a>、<a href="../Page/徐章煇.md" title="wikilink">徐章煇</a>、<a href="../Page/金秀路.md" title="wikilink">金秀路</a>、<a href="https://zh.wikipedia.org/wiki/Lovelyz" title="wikilink">Lovelyz</a>（<a href="../Page/Kei.md" title="wikilink">Kei</a>、<a href="https://zh.wikipedia.org/wiki/叡仁" title="wikilink">叡仁</a>）</small></p></td>
 <td><p>"國樂姊妹"－李明華、李明學</p></td>
 <td><p>／</p></td>
 <td><p>FourSir</p></td>
@@ -523,7 +523,7 @@
 <td></td>
 <td><p>美麗的日子<br />
 （아름다운 날들）</p></td>
-<td><p>"<a href="https://zh.wikipedia.org/wiki/李荷妮" title="wikilink">李荷妮經紀人煥兒</a>"－李在煥</p></td>
+<td><p>"<a href="../Page/李荷妮.md" title="wikilink">李荷妮</a>經紀人煥兒"－李在煥</p></td>
 <td><p>那男人、那女人</p></td>
 <td><p>姜文成、徐章浩</p></td>
 <td><p>1994年的某個深夜<br />

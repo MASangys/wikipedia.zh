@@ -4,9 +4,9 @@
 
 自2016年2月起，版本号的前三位数字表示版本，第四位数字与其他数字以短划线分隔，表示针对特定设备的更新，可能是性能改进或错误修正。
 
-截至2017年，这是最常见的定制恢复模式。在[Android](../Page/Android.md "wikilink")设备上安装或“刷入”这个定制恢复模式，需要下载对应设备的版本，然后在PC上使用诸如[fastboot或ODIN](https://zh.wikipedia.org/wiki/fastboot "wikilink")（用于三星手机）之类的工具，在PC上替换默认的恢复模式。此外，一些自定义ROM自带TWRP作为默认恢复模式。
+截至2017年，这是最常见的定制恢复模式。在[Android](../Page/Android.md "wikilink")设备上安装或“刷入”这个定制恢复模式，需要下载对应设备的版本，然后在PC上使用诸如[fastboot或](https://zh.wikipedia.org/wiki/fastboot "wikilink")[ODIN](https://zh.wikipedia.org/wiki/ODIN "wikilink")（用于三星手机）之类的工具，在PC上替换默认的恢复模式。此外，一些自定义ROM自带TWRP作为默认恢复模式。
 
-TWRP让用户可以随时完整地备份他们的设备（包括boot、system等）以恢复到任一状态，还可以使用内置的文件管理器来删除可能导致设备问题的文件，或添加一些文件来修复问题。
+TWRP让用户可以随时完整地备份他们的设备（包括Boot、System等）以恢复到任一状态，还可以使用内置的文件管理器来删除可能导致设备问题的文件，或添加一些文件来修复问题。
 
 截至2017年，TWRP支持定制ROM，内核，附件（例如GoogleApps、SuperSU、主题）和其他MOD的安装。
 

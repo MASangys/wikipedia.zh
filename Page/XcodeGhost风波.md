@@ -8,7 +8,7 @@
 
 ### XcodeGhost植入
 
-[Xcode](../Page/Xcode.md "wikilink")为苹果公司所發行、供程式設計師開發[OS X](https://zh.wikipedia.org/wiki/OS_X "wikilink")、[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[watchOS與](https://zh.wikipedia.org/wiki/watchOS "wikilink")[tvOS應用程式的](https://zh.wikipedia.org/wiki/tvOS "wikilink")[整合開發環境](https://zh.wikipedia.org/wiki/整合開發環境 "wikilink")（IDE），在Mac App Store中免费提供。由于[网络审查导致中国大陆用户访问](../Page/中华人民共和国网络审查.md "wikilink")[Mac App Store有连接困难](../Page/Mac_App_Store.md "wikilink")，部分开发者出于方便选择了国内第三方渠道下载（如[百度云盘](https://zh.wikipedia.org/wiki/百度云盘 "wikilink")、[迅雷离线等](https://zh.wikipedia.org/wiki/迅雷离线 "wikilink")）或者从社交平台查找获得开发程序，由此带来了安全隐患。
+[Xcode](../Page/Xcode.md "wikilink")为苹果公司所發行、供程式設計師開發[OS X](https://zh.wikipedia.org/wiki/OS_X "wikilink")、[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[watchOS與](https://zh.wikipedia.org/wiki/watchOS "wikilink")[tvOS應用程式的](https://zh.wikipedia.org/wiki/tvOS "wikilink")[整合開發環境](https://zh.wikipedia.org/wiki/整合開發環境 "wikilink")（IDE），在Mac App Store中免费提供。由于[网络审查导致中国大陆用户访问](../Page/中华人民共和国网络审查.md "wikilink")[Mac App Store有连接困难](../Page/Mac_App_Store.md "wikilink")，部分开发者出于方便选择了国内第三方渠道下载（如[百度网盘](../Page/百度网盘.md "wikilink")、[迅雷](../Page/迅雷.md "wikilink")离线等）或者从社交平台查找获得开发程序，由此带来了安全隐患。
 
 而这部分Xcode的框架库中被加入了被称为“XcodeGhost”的框架库，导致其编译出来的App都带有后门代码，会在最终客户端运行时将隐私信息提交给第三方。 \[2\]
 

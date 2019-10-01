@@ -202,7 +202,7 @@
 </tr>
 <tr class="even">
 <td><p>Magical Happy Show !</p></td>
-<td><p>遊戲「」主題歌</p></td>
+<td><p>遊戲「<a href="../Page/Supipara_-_Alice_the_magical_conductor..md" title="wikilink">Supipara - Alice the magical conductor.</a>」主題歌</p></td>
 </tr>
 <tr class="odd">
 <td><p>2014年</p></td>

@@ -1,4 +1,4 @@
-**SHY48**是一個在2016年於[遼寧](https://zh.wikipedia.org/wiki/遼寧 "wikilink")[瀋陽成立的中國大型女子偶像組合](https://zh.wikipedia.org/wiki/瀋陽 "wikilink")，為[SNH48的姊妹團體](https://zh.wikipedia.org/wiki/SNH48 "wikilink")，隸屬於[瀋陽絲芭文化傳媒集團有限公司](https://zh.wikipedia.org/wiki/絲芭傳媒 "wikilink")。SHY48的基本定位同樣是秉承SNH48的基本定位，基於「可面對面偶像」的造星理念，具備互聯網思維和參與感精神的近距離養成式大型女子偶像團體，充分吸收SNH48的模式特色和運營經驗，並進行區域化改造\[1\]。在2019年1月19日丝芭传媒对旗下团体实施重组后，该团的活动事实上已完全终止。
+**SHY48**是一個在2016年於[遼寧](https://zh.wikipedia.org/wiki/遼寧 "wikilink")[瀋陽成立的中國大型女子偶像組合](https://zh.wikipedia.org/wiki/瀋陽 "wikilink")，為[SNH48](../Page/SNH48.md "wikilink")的姊妹團體，隸屬於[瀋陽絲芭文化傳媒集團有限公司](https://zh.wikipedia.org/wiki/絲芭傳媒 "wikilink")。SHY48的基本定位同樣是秉承SNH48的基本定位，基於「可面對面偶像」的造星理念，具備互聯網思維和參與感精神的近距離養成式大型女子偶像團體，充分吸收SNH48的模式特色和運營經驗，並進行區域化改造\[1\]。在2019年1月19日丝芭传媒对旗下团体实施重组后，该团的活动事实上已完全终止。
 
 ## 概要
 
@@ -63,7 +63,7 @@ SHY48是一個以[沈阳為中心活動的](https://zh.wikipedia.org/wiki/沈阳
 
   - 2019年1月19日，于[SNH48 Group第五屆年度金曲大賞BEST 50上公布以下调整](https://zh.wikipedia.org/wiki/SNH48_Group第五屆年度金曲大賞BEST_50 "wikilink")：
       - Team SIII以及Team HIII解散；
-      - 部分成员移籍至[SNH48](https://zh.wikipedia.org/wiki/SNH48 "wikilink")、[BEJ48](https://zh.wikipedia.org/wiki/BEJ48 "wikilink")、[GNZ48](https://zh.wikipedia.org/wiki/GNZ48 "wikilink")；
+      - 部分成员移籍至[SNH48](../Page/SNH48.md "wikilink")、[BEJ48](https://zh.wikipedia.org/wiki/BEJ48 "wikilink")、[GNZ48](https://zh.wikipedia.org/wiki/GNZ48 "wikilink")；
       - 部分成员选送前往海外进行两年培训练习生；
       - 部分成员加入基于互联网的偶像养成女团「IDOLS Ft」。
 

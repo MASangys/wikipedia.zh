@@ -14,7 +14,7 @@
 
 ## 项目网站
 
-你可以在https://weblate.org/找到weblate，演示服务器在https://demo.weblate.org/。文档在https://docs.weblate.org/。
+你可以在https://weblate.org/找到weblate，演示服务器在https://hosted.weblate.org/。文档在https://docs.weblate.org/。
 
 ## 著名案例
 

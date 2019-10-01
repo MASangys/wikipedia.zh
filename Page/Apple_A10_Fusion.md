@@ -11,6 +11,7 @@ A10的高效能CPU核心代号为“飓风”（Hurricane），而低功耗CPU�
   - [iPhone 7](https://zh.wikipedia.org/wiki/iPhone_7 "wikilink")
   - [iPhone 7 Plus](https://zh.wikipedia.org/wiki/iPhone_7 "wikilink")
   - [iPad (第六代)](https://zh.wikipedia.org/wiki/iPad_\(2018\) "wikilink")
+  - [iPad (第七代)](../Page/IPad_2019.md "wikilink")
   - [iPod touch (第七代)](https://zh.wikipedia.org/wiki/iPod_touch_\(第七代\) "wikilink")
 
 ## 参考文献

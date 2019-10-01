@@ -1,6 +1,6 @@
 **Everipedia**（）是一个基于[维基技术的](../Page/維基.md "wikilink")[在线百科全书](https://zh.wikipedia.org/wiki/在线百科全书 "wikilink")。该网站成立于2014年12月，于2015年1月作为[维基百科](../Page/维基百科.md "wikilink")的一个[复刻版推出](https://zh.wikipedia.org/wiki/复刻_\(软件开发\) "wikilink")。目前，它的持有者是Everipedia公司（），一家总部位于[美国](../Page/美国.md "wikilink")[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[洛杉矶](../Page/洛杉矶.md "wikilink")[西木区的](https://zh.wikipedia.org/wiki/西木区 "wikilink")[盈利性公司](https://zh.wikipedia.org/wiki/盈利 "wikilink")。，Everipedia的大部分页面都是维基百科文章的[副本](https://zh.wikipedia.org/wiki/副本 "wikilink")。
 
-该网站的名字来源于“Everything”（每件事物）和“Encyclopedia”（[百科全书](../Page/百科全书.md "wikilink")），并是这两个词的[合成词](../Page/合成词.md "wikilink")。Everipedia的目标是建立最易访问的在线百科全书，而不是像具有限制性的维基百科那样。\[1\]Everipedia适应一些[社交媒体的元素](https://zh.wikipedia.org/wiki/社交媒體 "wikilink")，比如允许名人与粉丝互动交流；并且在内容可供查证且中立的情况下，允许用户在任何话题上创建页面。\[2\]\[3\]\[4\]但，该网站因在[突发新闻事件中提供](https://zh.wikipedia.org/wiki/突发新闻 "wikilink")[虚假信息](https://zh.wikipedia.org/wiki/虚假新闻 "wikilink")，以及最初的文章聚焦于[YouTuber](../Page/YouTuber.md "wikilink")等耸人听闻的话题，而受到批评。
+该网站的名字来源于“Everything”（每件事物）和“Encyclopedia”（[百科全书](../Page/百科全书.md "wikilink")），并是这两个词的[合成词](../Page/合成词.md "wikilink")。Everipedia的目标是建立最易访问的在线百科全书，而不是像具有限制性的维基百科那样。\[1\]Everipedia适应一些[社交媒体的元素](https://zh.wikipedia.org/wiki/社交媒體 "wikilink")，比如允许名人与粉丝互动交流；并且在内容可供查证且中立的情况下，允许用户在任何话题上创建页面。\[2\]\[3\]\[4\]
 
 该公司使用[EOS](../Page/EOS.IO.md "wikilink")[区块链](../Page/区块链.md "wikilink")技术和一种名为IQ的[加密货币令牌来鼓励内容生成](https://zh.wikipedia.org/wiki/加密货币 "wikilink")，并阻止某些国家屏蔽其内容。2018年8月9日，Everipedia在EOS区块链上发布。
 

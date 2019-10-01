@@ -28,6 +28,6 @@ CircleGuitar是香港獨立[唱作人](https://zh.wikipedia.org/wiki/唱作人 "
   -
   -
   -
-[Category:香港女歌手](https://zh.wikipedia.org/wiki/Category:香港女歌手 "wikilink") [Category:創作歌手](https://zh.wikipedia.org/wiki/Category:創作歌手 "wikilink")
+[Category:香港女歌手](https://zh.wikipedia.org/wiki/Category:香港女歌手 "wikilink") [Category:香港創作歌手](https://zh.wikipedia.org/wiki/Category:香港創作歌手 "wikilink")
 
 1.

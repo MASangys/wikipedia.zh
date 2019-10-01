@@ -206,7 +206,7 @@
 <li>唱片公司：LOEN Entertainment</li>
 <li>格式：CD唱片、數位下載</li>
 <li>備註：</li>
-<li>專輯銷量:</li>
+<li>專輯銷量:16,325[1]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -810,3 +810,5 @@
 ## 參考資料
 
 [Category:Oh_My_Girl](https://zh.wikipedia.org/wiki/Category:Oh_My_Girl "wikilink")
+
+1.  [2019.08](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=08&hitYear=2019&termGbn=month)

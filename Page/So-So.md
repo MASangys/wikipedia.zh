@@ -1,6 +1,8 @@
 《**So-So**》（）是[韓國女歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")[白娥娟](../Page/白娥娟.md "wikilink")的第二張數位單曲，由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，於2016年5月24日發行。
 
-## 概述
+<ref>
+
+1.  ''''''</ref>==概述==
 
 主打曲〈So-So〉為白娥娟與曾為[15&創作](https://zh.wikipedia.org/wiki/15& "wikilink")〈Love is Madness〉的作曲家金元（）共同創作，是一首Neo Urban風格的歌曲，歌曲描述單身者「不再期待如電視劇般的邂逅幻想，卻仍想墜入愛河」的矛盾心境，其中歌詞「即使羨慕情侶們」及「一個人也不覺得孤單」為聽者帶來真實感受，透過清淡的語氣「so-so」描述雖不孤單但仍想談戀愛的心境。\[1\]\[2\]
 

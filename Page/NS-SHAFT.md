@@ -11,7 +11,7 @@
 ## 外部链接
 
   -
-[Category:日本电子游戏界](https://zh.wikipedia.org/wiki/Category:日本电子游戏界 "wikilink") [Category:1996年电子游戏](https://zh.wikipedia.org/wiki/Category:1996年电子游戏 "wikilink") [Category:平台游戏](https://zh.wikipedia.org/wiki/Category:平台游戏 "wikilink") [Category:共享軟件](https://zh.wikipedia.org/wiki/Category:共享軟件 "wikilink")
+[Category:日本開發電子遊戲](https://zh.wikipedia.org/wiki/Category:日本開發電子遊戲 "wikilink") [Category:1996年电子游戏](https://zh.wikipedia.org/wiki/Category:1996年电子游戏 "wikilink") [Category:平台游戏](https://zh.wikipedia.org/wiki/Category:平台游戏 "wikilink") [Category:共享軟件](https://zh.wikipedia.org/wiki/Category:共享軟件 "wikilink")
 
 1.
 

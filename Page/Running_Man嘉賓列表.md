@@ -1621,16 +1621,16 @@
 <tr class="odd">
 <td><p><a href="../Page/鄭恩地.md" title="wikilink">鄭恩地</a>（정은지）</p></td>
 <td><p>歌手組合（女）（<a href="../Page/Apink.md" title="wikilink">Apink</a>）</p></td>
-<td><p>162、218、458-459</p></td>
-<td><p>4</p></td>
-<td><p>4</p></td>
+<td><p>162、218、458-459、467-468</p></td>
+<td><p>6</p></td>
+<td><p>5</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/孫娜恩.md" title="wikilink">孫娜恩</a>（손나은）</p></td>
 <td><p>歌手組合（女）（<a href="../Page/Apink.md" title="wikilink">Apink</a>）</p></td>
-<td><p>162、202-203、356-357、360-361、424、458-459</p></td>
-<td><p>10</p></td>
-<td><p>7</p></td>
+<td><p>162、202-203、356-357、360-361、424、458-459、467-468</p></td>
+<td><p>12</p></td>
+<td><p>8</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/金海淑.md" title="wikilink">金海淑</a>（김해숙）</p></td>
@@ -1773,7 +1773,7 @@
 <td><p>3</p></td>
 </tr>
 <tr class="odd">
-<td><p>（송경아）</p></td>
+<td><p><a href="../Page/宋慶雅.md" title="wikilink">宋慶雅</a>（송경아）</p></td>
 <td><p>模特兒（女）</p></td>
 <td><p>179-180</p></td>
 <td><p>2</p></td>
@@ -2055,9 +2055,9 @@
 <tr class="odd">
 <td><p><a href="../Page/尹普美.md" title="wikilink">尹普美</a>（윤보미）</p></td>
 <td><p>歌手組合（女）（<a href="../Page/Apink.md" title="wikilink">Apink</a>）</p></td>
-<td><p>202-203、255、344、372、458-459</p></td>
+<td><p>202-203、255、344、372、458-459、467-468</p></td>
+<td><p>9</p></td>
 <td><p>7</p></td>
-<td><p>6</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/白智榮.md" title="wikilink">白智榮</a>（백지영）</p></td>
@@ -5037,9 +5037,9 @@
 <tr class="odd">
 <td><p><a href="../Page/吳夏榮.md" title="wikilink">吳夏榮</a>（오하영）</p></td>
 <td><p>歌手組合（女）（<a href="../Page/Apink.md" title="wikilink">Apink</a>）</p></td>
-<td><p>356-357、458-459</p></td>
+<td><p>356-357、458-459、467-468</p></td>
+<td><p>6</p></td>
 <td><p>4</p></td>
-<td><p>3</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/李泰煥.md" title="wikilink">李泰煥</a>（이태환）</p></td>
@@ -5441,7 +5441,7 @@
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/李荷妮" title="wikilink">李荷妮</a>（이하늬）</p></td>
+<td><p><a href="../Page/李荷妮.md" title="wikilink">李荷妮</a>（이하늬）</p></td>
 <td><p>演員（女）</p></td>
 <td><p>435</p></td>
 <td><p>1</p></td>
@@ -5490,7 +5490,7 @@
 <td><p>1</p></td>
 </tr>
 <tr class="even">
-<td><p>（금새록）</p></td>
+<td><p><a href="../Page/琴世祿.md" title="wikilink">琴世祿</a>（금새록）</p></td>
 <td><p>演員（女）</p></td>
 <td><p>442</p></td>
 <td><p>1</p></td>
@@ -5625,16 +5625,16 @@
 <tr class="odd">
 <td><p><a href="../Page/朴初瓏.md" title="wikilink">朴初瓏</a>（박초롱）</p></td>
 <td><p>歌手組合（女）（<a href="../Page/Apink.md" title="wikilink">Apink</a>）</p></td>
-<td><p>458-459</p></td>
-<td><p>2</p></td>
-<td><p>2</p></td>
+<td><p>458-459、467-468</p></td>
+<td><p>4</p></td>
+<td><p>3</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/金南珠_(歌手).md" title="wikilink">金南珠</a>（김남주）</p></td>
 <td><p>歌手組合（女）（<a href="../Page/Apink.md" title="wikilink">Apink</a>）</p></td>
-<td><p>458-459</p></td>
-<td><p>2</p></td>
-<td><p>2</p></td>
+<td><p>458-459、467-468</p></td>
+<td><p>4</p></td>
+<td><p>3</p></td>
 </tr>
 </tbody>
 </table>

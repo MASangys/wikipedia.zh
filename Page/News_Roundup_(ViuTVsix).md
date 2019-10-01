@@ -50,40 +50,43 @@
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Dhruv_Tikekar" title="wikilink">Dhruv Tikekar</a></p></td>
 </tr>
 <tr class="even">
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Christy_Choi" title="wikilink">Christy Choi</a></p></td>
+</tr>
+<tr class="odd">
 <td style="text-align: center;"><p><strong>港聞組／財經組主持</strong></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Kimberly_Lim" title="wikilink">Kimberly Lim</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><strong>港聞組記者</strong></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Evelina_Leung" title="wikilink">Evelina Leung</a>／<a href="https://zh.wikipedia.org/wiki/梁曦文" title="wikilink">梁曦文</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Grace_Brown" title="wikilink">Grace Brown</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Joyce_Woo" title="wikilink">Joyce Woo</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><strong>財經組記者</strong></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Pamela_Ambler" title="wikilink">Pamela Ambler</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><strong>駐外記者</strong></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Mayu_Yoshida" title="wikilink">Mayu Yoshida</a><br />
 （駐日本）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><strong><a href="https://zh.wikipedia.org/wiki/Weekly_Re-viu" title="wikilink">Weekly Re-viu主播</a></strong></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Linda_Kennedy" title="wikilink">Linda Kennedy</a></p></td>
 </tr>
 </tbody>

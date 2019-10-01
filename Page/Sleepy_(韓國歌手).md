@@ -234,7 +234,7 @@ Sleepy出生在[仁川廣域市](../Page/仁川廣域市.md "wikilink")，并于
 <tr class="even">
 <td><p>2017</p></td>
 <td><p>1月6日-2月3日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/叢林的法則" title="wikilink">叢林的法則</a>[34]</p></td>
+<td><p><a href="../Page/叢林的法則.md" title="wikilink">叢林的法則</a>[34]</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
 <td><p>固定出演</p></td>
 </tr>

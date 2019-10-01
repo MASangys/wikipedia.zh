@@ -186,7 +186,7 @@ Rap导师：NUCK、[MAD CLOWN](../Page/Mad_Clown.md "wikilink")
 | ---------------------- |
 | 类型                     |
 | Vocal                  |
-| 11                     |
+| 12                     |
 | 7                      |
 | 8                      |
 
@@ -198,7 +198,7 @@ Rap导师：NUCK、[MAD CLOWN](../Page/Mad_Clown.md "wikilink")
 | ------------------ |
 | 类型                 |
 | Vocal              |
-| 12                 |
+| 11                 |
 | 10                 |
 | 8                  |
 | Rapper             |
@@ -312,7 +312,7 @@ Rap导师：NUCK、[MAD CLOWN](../Page/Mad_Clown.md "wikilink")
 <table>
 <thead>
 <tr class="header">
-<th><p>第七集：第3次任务<团队合作>第三轮</p></th>
+<th><p>第七集：第3次任务<团队合作>最終結果</p></th>
 </tr>
 </thead>
 <tbody>
@@ -373,14 +373,14 @@ Rap导师：NUCK、[MAD CLOWN](../Page/Mad_Clown.md "wikilink")
 | ------------------ |
 | 上次排名               |
 | 1                  |
-| 10                 |
-| 2                  |
-| 4                  |
-| 3                  |
-| 6                  |
 | 9                  |
-| 12                 |
-| 11                 |
+| 8                  |
+| 3                  |
+| 2                  |
+| 10                 |
+| 6                  |
+| 4                  |
+| 5                  |
 | \-                 |
 
   - 发布第4次任务：出道任务。

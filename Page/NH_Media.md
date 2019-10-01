@@ -49,6 +49,8 @@
       - 申东澔（2008-2013）
       - AJ（2011-2016）
       - Kevin（2008-2017）
+      - Eli （2008-2019）
+      - [基燮](https://zh.wikipedia.org/wiki/基燮 "wikilink")（2011-2019）
   - [LABOUM](../Page/LABOUM.md "wikilink")
       - [金律喜](../Page/金律喜.md "wikilink")（2014-2017）
 

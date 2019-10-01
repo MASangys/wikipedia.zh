@@ -65,16 +65,24 @@
 <td><p>未公布</p></td>
 <td><p>未公布</p></td>
 </tr>
+<tr class="even">
+<td><p>2019年9月18日（韓國）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TEEN_TEEN" title="wikilink">TEEN TEEN</a></p></td>
+<td><p>李宇鎮、李太勝、李津宇</p></td>
+<td><p>未公布</p></td>
+<td><p>活動中</p></td>
+<td><p>未公布</p></td>
+<td><p>未公布</p></td>
+</tr>
 </tbody>
 </table>
+
+
 
 ### 練習生
 
   - 趙榮昊（[MIX NINE](https://zh.wikipedia.org/wiki/MIX_NINE "wikilink")）
   - 孫準亨（[MIX NINE](https://zh.wikipedia.org/wiki/MIX_NINE "wikilink"))
-  - 李宇鎮（[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
-  - 李津宇（[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
-  - 李太勝（[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
 
 ### 过去旗下艺人
 

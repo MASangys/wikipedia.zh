@@ -49,7 +49,7 @@ Anaconda Cloud是由Anaconda 提供的软件包管理服务，在Anaconda Cloud�
   -
   - [Anaconda Data Science and Machine Learning Community](https://www.anaconda.com/community/)
 
-  - [Data Science Blog](https://www.anaconda.com/blog/developer-blog/)
+  - [Data Science Blog](https://web.archive.org/web/20180620001820/https://www.anaconda.com/blog/developer-blog/)
 
   - [Anaconda repository](https://anaconda.org/anaconda/repo)
 

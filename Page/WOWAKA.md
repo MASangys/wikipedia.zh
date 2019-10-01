@@ -1,4 +1,4 @@
-**WOWAKA**（，），或稱作**現實逃避P**（），[日本](../Page/日本.md "wikilink")音乐创作家，[hitorie乐队主唱](https://zh.wikipedia.org/wiki/hitorie "wikilink")。2019年4月5日因急性心臟衰竭去世，得年31岁\[1\]。
+**WOWAKA**（，），或稱作**現實逃避P**（），[日本](../Page/日本.md "wikilink")音乐创作家，[hitorie乐队主唱](https://zh.wikipedia.org/wiki/hitorie "wikilink")。2019年4月5日因急性心臟衰竭去世，享年31岁\[1\]。
 
 在影片网站[Niconico动画上投稿](https://zh.wikipedia.org/wiki/Niconico动画 "wikilink")[VOCALOID](../Page/VOCALOID.md "wikilink")原创歌曲。因為在影片上寫上「逃避現實，也不錯啊！（）」，所以常被稱為現實逃避P（）。
 

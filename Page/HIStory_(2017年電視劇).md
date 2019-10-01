@@ -221,7 +221,7 @@
 <td><center>
 <p>4</p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/HIStory2#是非_(Right_or_Wrong)" title="wikilink">是非</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/HIStory2#是非（Right_or_Wrong）" title="wikilink">是非</a></p></td>
 <td><p><a href="../Page/江常輝.md" title="wikilink">江常輝</a>、<a href="../Page/張行.md" title="wikilink">張行</a>、<a href="https://zh.wikipedia.org/wiki/葉翊恩" title="wikilink">葉翊恩</a>、<a href="https://zh.wikipedia.org/wiki/蘇育惟" title="wikilink">蘇育惟</a>、<a href="https://zh.wikipedia.org/wiki/初孟軒" title="wikilink">初孟軒</a>、<a href="../Page/邱志宇.md" title="wikilink">邱志宇</a></p></td>
 <td><p>林珮瑜</p></td>
 <td><p>李青蓉</p></td>
@@ -244,7 +244,7 @@
 <td><center>
 <p>5</p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/HIStory2#越界（Crossing_Line）" title="wikilink">越界</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/HIStory2#越界（Crossing_the_Line）" title="wikilink">越界</a></p></td>
 <td><p><a href="../Page/盧彥澤.md" title="wikilink">盧彥澤</a>、<a href="../Page/范少勳.md" title="wikilink">范少勳</a>、<a href="../Page/楊孟霖.md" title="wikilink">楊孟霖</a>、<a href="../Page/施柏宇.md" title="wikilink">施柏宇</a>、<a href="../Page/謝毅宏.md" title="wikilink">謝毅宏</a></p></td>
 <td><p>林珮瑜</p></td>
 <td><p>蔡宓潔</p></td>
@@ -288,7 +288,7 @@
 <td><center>
 <p>6</p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/HIStory3#圈套" title="wikilink">圈套</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/HIStory3#圈套（TRAPPED）" title="wikilink">圈套</a></p></td>
 <td><p><a href="../Page/徐鈞浩.md" title="wikilink">徐鈞浩</a>、<a href="https://zh.wikipedia.org/wiki/吳承洋" title="wikilink">吳承洋</a>、<a href="../Page/卞慶華.md" title="wikilink">卞慶華</a>、<a href="../Page/陳廷軒_(演員).md" title="wikilink">陳廷軒</a></p></td>
 <td><p>林珮瑜</p></td>
 <td><p>李青蓉</p></td>
@@ -311,9 +311,9 @@
 <td><center>
 <p>7</p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/HIStory3#那一天" title="wikilink">那一天</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/HIStory3#那一天（Make_Our_Days_Count）" title="wikilink">那一天</a></p></td>
 <td><p><a href="../Page/宋緯恩.md" title="wikilink">宋緯恩</a>、<a href="https://zh.wikipedia.org/wiki/黃雋智" title="wikilink">黃雋智</a>、<a href="https://zh.wikipedia.org/wiki/劉韋辰_(演員)" title="wikilink">劉韋辰</a>、<a href="../Page/張瀚元.md" title="wikilink">張瀚元</a></p></td>
-<td><p>林珮瑜</p></td>
+<td><p>邵慧婷</p></td>
 <td><p>蔡宓潔</p></td>
 </tr>
 <tr class="even">

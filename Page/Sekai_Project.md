@@ -545,7 +545,7 @@ Sekai Project已表示有意在将来将游戏翻译至英语外的其他语言�
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Re;Lord ～ヘルフォルトの魔女とぬいぐるみ～</p></td>
+<td><p><a href="../Page/Re;Lord.md" title="wikilink">Re;Lord ～ヘルフォルトの魔女とぬいぐるみ～</a></p></td>
 <td><p><a href="../Page/Escu:de.md" title="wikilink">Escu:de</a></p></td>
 <td><p>2018年3月29日</p></td>
 <td></td>
@@ -584,6 +584,18 @@ Sekai Project已表示有意在将来将游戏翻译至英语外的其他语言�
 <td></td>
 <td><p><a href="../Page/PALETTE.md" title="wikilink">PALETTE</a></p></td>
 <td><p>2019年1月31日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/魔女戀愛日記.md" title="wikilink">魔女戀愛日記</a></p></td>
+<td><p>Qoobrand</p></td>
+<td><p>2019年7月26日</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/Muv-Luv.md" title="wikilink">Muv-Luv Photonflowers*</a></p></td>
+<td><p><a href="../Page/5pb..md" title="wikilink">5pb.</a></p></td>
+<td><p>2019年8月2日</p></td>
 <td></td>
 </tr>
 </tbody>

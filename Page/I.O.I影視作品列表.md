@@ -422,7 +422,7 @@
 <tr class="even">
 <td><p>3月17日－4月21日</p></td>
 <td><p>SBS</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/叢林的法則" title="wikilink">叢林的法則</a>》</p></td>
+<td><p>《<a href="../Page/叢林的法則.md" title="wikilink">叢林的法則</a>》</p></td>
 <td><p>世正</p></td>
 <td><p>印度尼西亞蘇門答臘島篇</p></td>
 </tr>
@@ -522,7 +522,7 @@
 <tr class="even">
 <td><p>2月2日－3月2日</p></td>
 <td><p>SBS</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/叢林的法則" title="wikilink">叢林的法則</a>》</p></td>
+<td><p>《<a href="../Page/叢林的法則.md" title="wikilink">叢林的法則</a>》</p></td>
 <td><p>彩妍</p></td>
 <td><p>巴塔哥尼亞篇|</p></td>
 </tr>
@@ -584,7 +584,7 @@
 </tr>
 <tr class="odd">
 <td><p>10月26—11月9日</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/叢林的法則" title="wikilink">叢林的法則</a>》</p></td>
+<td><p>《<a href="../Page/叢林的法則.md" title="wikilink">叢林的法則</a>》</p></td>
 <td><p>度延</p></td>
 <td></td>
 <td></td>
@@ -613,7 +613,7 @@
 <tr class="odd">
 <td><p>5月11日－6月</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/SBS" title="wikilink">SBS</a></p></td>
-<td><p>《 <a href="https://zh.wikipedia.org/wiki/叢林的法則" title="wikilink">叢林的法則</a> 》</p></td>
+<td><p>《 <a href="../Page/叢林的法則.md" title="wikilink">叢林的法則</a> 》</p></td>
 <td><p>美娜</p></td>
 <td><p>泰國篇</p></td>
 </tr>
@@ -2208,7 +2208,7 @@ MBC Music</p></td>
 | 頻道                                                                                                                                                                                                                                                                                                                                                                                                                      | 節目名稱                                                                   | 日期                                                                                            | 备注        |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | --------- |
 | 2016年                                                                                                                                                                                                                                                                                                                                                                                                                   |                                                                        |                                                                                               |           |
-| Dream (昭彌、[宇信](../Page/UP10TION.md "wikilink"))                                                                                                                                                                                                                                                                                                                                                                         |                                                                        |                                                                                               |           |
+| Dream (昭彌、[宇信](../Page/金宇碩.md "wikilink"))                                                                                                                                                                                                                                                                                                                                                                              |                                                                        |                                                                                               |           |
 | SBS MTV                                                                                                                                                                                                                                                                                                                                                                                                                 | [THE SHOW](https://zh.wikipedia.org/wiki/THE_SHOW "wikilink")          | [10月11日](http://tvcast.naver.com/v/1167355)                                                   | 特别舞台      |
 | Hook Ga ([HIGH4 20](../Page/HIGH4.md "wikilink")、feat.有情)                                                                                                                                                                                                                                                                                                                                                               |                                                                        |                                                                                               |           |
 | SBS MTV                                                                                                                                                                                                                                                                                                                                                                                                                 | [THE SHOW](https://zh.wikipedia.org/wiki/THE_SHOW "wikilink")          | [10月18日(釜山特辑)](http://tvcast.naver.com/v/1181375)、[10月25日](http://tvcast.naver.com/v/1196692) |           |

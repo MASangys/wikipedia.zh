@@ -4,7 +4,7 @@
 
 Strike One手槍採用一種沿自的閉鎖系統。跟常見的白朗寧系統不同，它的槍管在閉鎖過程當中不會傾斜，而是由一個Y型的部件在後座期間把槍管和槍栓鎖住，並在中途放開，把槍管釋放。然後在槍管停止動作後槍栓繼續向後移動，把彈殼退出來並重新上膛，回膛途中Y型部件令槍管和槍栓重新接合並向前推進。有別於運用傾斜式槍管的手槍，採用伯格曼系統的手槍由於在開膛和回膛期間都是以一條直線進行，因此有利於提升武器的射擊精度。Strike One手槍主要為發射各種高膛壓子彈而設計，它能夠發射俄式[9×19mm](https://zh.wikipedia.org/wiki/9毫米魯格彈 "wikilink") 7N21和7N31彈，這些彈藥的性能跟[.357 SIG相近](../Page/.357_SIG.md "wikilink")。該槍將會有多個口徑可供選擇，包括：9×19mm魯格、、.357 SIG和[.40 S\&W](../Page/.40_S&W.md "wikilink")。目前並沒有關於希望推出10mm自動彈或[.45 ACP型的討論](../Page/.45_ACP.md "wikilink")，然而生產商正考慮是否生產型，原因是這種彈藥在義大利境內相當流行（義大利法律上禁止平民擁有口徑跟軍隊和警察一致的槍械）。另有一種長槍管型（300 mm）可供選擇。一種全自動版本亦被提供了給[俄羅斯聯邦軍隊](https://zh.wikipedia.org/wiki/俄羅斯軍事 "wikilink")\[2\]\[3\] 。
 
-較特別的是，Strike One手槍有一個較低的膛軸，其槍管的中心軸與握把頂部的距離只有，這樣能夠在射擊時減低約30%的槍口上揚，有利於提升精度。而其他9mm魯格口徑的手槍都有著更高的膛軸，例如：[卡拉卡爾F型](../Page/卡拉卡爾手槍.md "wikilink") 、[格洛克17](../Page/格洛克17.md "wikilink") 、[Tanfoglio手槍](https://zh.wikipedia.org/wiki/Tanfoglio_Force手槍 "wikilink") 、[HK USP緊湊型](../Page/HK_USP手槍.md "wikilink") 、[貝瑞塔92和](../Page/貝瑞塔92手槍.md "wikilink")[貝瑞塔Px4緊湊型](../Page/貝瑞塔Px4_Storm手槍.md "wikilink") 。
+較特別的是，Strike One手槍有一個較低的膛軸，其槍管的中心軸與握把頂部的距離只有，這樣能夠在射擊時減低約30%的槍口上揚，有利於提升精度。而其他9mm魯格口徑的手槍都有著更高的膛軸，例如：[卡拉卡爾F型](https://zh.wikipedia.org/wiki/卡拉卡爾半自動手槍 "wikilink") 、[格洛克17](../Page/格洛克17.md "wikilink") 、[Tanfoglio手槍](https://zh.wikipedia.org/wiki/Tanfoglio_Force半自動手槍 "wikilink") 、[HK USP緊湊型](../Page/HK_USP手槍.md "wikilink") 、[貝瑞塔92和](../Page/貝瑞塔92手槍.md "wikilink")[貝瑞塔Px4緊湊型](../Page/貝瑞塔Px4_Storm手槍.md "wikilink") 。
 
 ## Stryk衍生型
 

@@ -1,6 +1,6 @@
 **I.O.I**（）\[1\]，依據 [Mnet](../Page/Mnet.md "wikilink") 節目《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》的出道承諾於2016年成立的韓國女子[期間限定團體](../Page/期間限定團體.md "wikilink")，有十一名成員\[2\]：[林娜榮](https://zh.wikipedia.org/wiki/林娜榮 "wikilink")、[金請夏](https://zh.wikipedia.org/wiki/金請夏 "wikilink")、[金世正](https://zh.wikipedia.org/wiki/金世正 "wikilink")、[鄭彩娟](https://zh.wikipedia.org/wiki/鄭彩娟 "wikilink")、[周潔瓊](../Page/周潔瓊.md "wikilink")、[金素慧](../Page/金素慧.md "wikilink")、[俞璉靜](https://zh.wikipedia.org/wiki/俞璉靜 "wikilink")、[磪有情](../Page/磪有情.md "wikilink")、[康美娜](https://zh.wikipedia.org/wiki/康美娜 "wikilink")、[金度延](../Page/金度延.md "wikilink")和[全昭彌](https://zh.wikipedia.org/wiki/全昭彌 "wikilink")\[3\]。林娜榮由成員們互相投票獲選為隊長\[4\]。依約定I.O.I 以[YMC娛樂旗下藝人的身份進行固定期限的活動](../Page/Imagine_Asia.md "wikilink")，於2016年5月4日正式出道，2017年1月29日正式解散\[5\]\[6\]，共271天。
 
-2019年10月，[林娜榮](https://zh.wikipedia.org/wiki/林娜榮 "wikilink")、[金請夏](https://zh.wikipedia.org/wiki/金請夏 "wikilink")、[金世正](https://zh.wikipedia.org/wiki/金世正 "wikilink")、[鄭彩娟](https://zh.wikipedia.org/wiki/鄭彩娟 "wikilink")、[周潔瓊](../Page/周潔瓊.md "wikilink")、[金素慧](../Page/金素慧.md "wikilink")、[磪有情](../Page/磪有情.md "wikilink")、[康美娜](https://zh.wikipedia.org/wiki/康美娜 "wikilink")、[金度延](../Page/金度延.md "wikilink")重新以I.O.I的名字重組活動，[全昭彌及](https://zh.wikipedia.org/wiki/全昭彌 "wikilink")[俞璉靜不參與此次重組活動](https://zh.wikipedia.org/wiki/俞璉靜 "wikilink")。
+2019年12月，[林娜榮](https://zh.wikipedia.org/wiki/林娜榮 "wikilink")、[金請夏](https://zh.wikipedia.org/wiki/金請夏 "wikilink")、[金世正](https://zh.wikipedia.org/wiki/金世正 "wikilink")、[鄭彩娟](https://zh.wikipedia.org/wiki/鄭彩娟 "wikilink")、[周潔瓊](../Page/周潔瓊.md "wikilink")、[金素慧](../Page/金素慧.md "wikilink")、[磪有情](../Page/磪有情.md "wikilink")、[康美娜](https://zh.wikipedia.org/wiki/康美娜 "wikilink")、[金度延](../Page/金度延.md "wikilink")重新以I.O.I的名字重組活動，[全昭彌及](https://zh.wikipedia.org/wiki/全昭彌 "wikilink")[俞璉靜暫定不參與此次重組活動](https://zh.wikipedia.org/wiki/俞璉靜 "wikilink")。
 
 團名I.O.I意思是**Ideal Of Idol**。團隊問候口號及手勢：口號是「Yes！I love it！我們是 I.O.I，大家好！」口號開始的同時，右手在右肩前拇指與四指合併旋轉並順向滑至左肩前，讓拇指與食指呈「指愛心發射」手勢。。
 
@@ -70,7 +70,7 @@
 
 2019年6月13日，全昭彌於以個人歌手身份出道。
 
-### 2019年下半年 ： 9人體制重組
+### 2019年下半年 ： 重組仍可能變動
 
 2019年4月30日，報道指出I.O.I在經過各家經紀公司反覆討論重組事宜後，有望達成最終協議，目前口頭約定將為6個月的計畫，待確認細節後將正式簽約；在討論過程中，不少成員均表態希望重組，但全昭彌則確定不參與此次重組活動。而CJ E\&M方面則回應：「現在確實正在討論重組I.O.I，但是現在還未做出決定。」 \[59\]\[60\]\[61\]\[62\]。
 
@@ -79,6 +79,8 @@
 2019年6月30日，公開官方帳號，確定將在10月份由[林娜榮](https://zh.wikipedia.org/wiki/林娜榮 "wikilink")、[金請夏](https://zh.wikipedia.org/wiki/金請夏 "wikilink")、[金世正](https://zh.wikipedia.org/wiki/金世正 "wikilink")、[鄭彩娟](https://zh.wikipedia.org/wiki/鄭彩娟 "wikilink")、[周潔瓊](../Page/周潔瓊.md "wikilink")、[金素慧](../Page/金素慧.md "wikilink")、[磪有情](../Page/磪有情.md "wikilink")、[康美娜](https://zh.wikipedia.org/wiki/康美娜 "wikilink")、[金度延](../Page/金度延.md "wikilink")重新以I.O.I的名字重組，展開活動。\[64\]
 
 2019年7月2日，公開正式消息，確認I.O.I將在10月份正式回歸，並進行新專輯封面拍攝，正式開始準備回歸。\[65\]
+
+2019年9月6日，負責I.O.I合體活動事務的相關人士本日（6日）透露：「為了專輯的完成度著想，I.O.I的合體回歸將延後至12月」，並表示「合體回歸的成員組成也尚未確定」。
 
 ## 成員資料
 
@@ -96,7 +98,7 @@
 | [磪有情](../Page/磪有情.md "wikilink")                        |
 | [康美娜](https://zh.wikipedia.org/wiki/康美娜 "wikilink")     |
 | [金度延](../Page/金度延.md "wikilink")                        |
-| 未参与重组成員                                                 |
+| 暫定未參與重組成員                                               |
 | [俞璉靜](https://zh.wikipedia.org/wiki/俞璉靜 "wikilink")     |
 | [全昭彌](https://zh.wikipedia.org/wiki/全昭彌 "wikilink")     |
 

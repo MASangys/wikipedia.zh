@@ -1603,7 +1603,7 @@ Very Very Raspberry</p></td>
 <td><p>40</p></td>
 <td><p>曺柔理</p></td>
 <td></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Stone_Music娱乐" title="wikilink">Stone Music娱乐</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1803,7 +1803,7 @@ Very Very Raspberry</p></td>
 <td><p>39</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/圭悧" title="wikilink">張圭悧</a></p></td>
 <td></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Stone_Music娱乐" title="wikilink">Stone Music娱乐</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1843,7 +1843,7 @@ Very Very Raspberry</p></td>
 <td><p>38</p></td>
 <td><p><a href="../Page/李詩安.md" title="wikilink">李詩安</a></p></td>
 <td></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Stone_Music娱乐" title="wikilink">Stone Music娱乐</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1899,7 +1899,7 @@ Very Very Raspberry</p></td>
 <td><p>37</p></td>
 <td><p>裴恩英</p></td>
 <td></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Stone_Music娱乐" title="wikilink">Stone Music娱乐</a></p></td>
 <td></td>
 <td></td>
 </tr>

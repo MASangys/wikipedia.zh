@@ -116,7 +116,7 @@ shuffle模式：如果正在運行iPod App，只需晃動裝置一下，裝置�
 
 ### iPod touch
 
-  - [iPod touch (第一代)](https://zh.wikipedia.org/wiki/iPod_touch_\(第一代\) "wikilink")
+  - [iPod touch (第一代)](https://zh.wikipedia.org/wiki/iPod_touch_\(第一代\) "wikilink") （此iOS版本為最後一個支援此裝置的版本）
   - [iPod touch (第二代)](https://zh.wikipedia.org/wiki/iPod_touch_\(第二代\) "wikilink")
   - [IPod touch (第三代)](https://zh.wikipedia.org/wiki/IPod_touch_\(第三代\) "wikilink")
 

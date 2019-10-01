@@ -43,7 +43,7 @@
 </tr>
 <tr class="odd">
 <td><p>尾本千夏</p></td>
-<td></td>
+<td><p><a href="../Page/櫻井由紀.md" title="wikilink">櫻井由紀</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -355,35 +355,12 @@
 
 #### 第九集　靈魂離開身體的人
 
-<table style="width:70%;">
-<colgroup>
-<col style="width: 10%" />
-<col style="width: 10%" />
-<col style="width: 49%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><p><strong>角色</strong></p></td>
-<td><p><strong>演員</strong></p></td>
-<td><p><strong>介紹</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>高倉紗奈</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>タクヤ</p></td>
-<td><p><a href="../Page/金子大地.md" title="wikilink">金子大地</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>演出家</p></td>
-<td><p><a href="../Page/岩松了.md" title="wikilink">岩松了</a></p></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+|        |                                    |        |
+| ------ | ---------------------------------- | ------ |
+| **角色** | **演員**                             | **介紹** |
+| 高倉紗奈   | [岸井雪乃](../Page/岸井雪乃.md "wikilink") |        |
+| タクヤ    | [金子大地](../Page/金子大地.md "wikilink") |        |
+| 演出家    | [岩松了](../Page/岩松了.md "wikilink")   |        |
 
 #### 第十集　魔鬼擁有的女人
 

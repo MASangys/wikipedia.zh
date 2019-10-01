@@ -18,6 +18,7 @@ YouTuber們常常互相合作拍攝影片。當YouTuber在YouTube上的[頻道�
   - 鑠[金](../Page/金.md "wikilink")創作者獎 - 百萬訂閱
   - [鑽石創作者獎](https://zh.wikipedia.org/wiki/鑽石 "wikilink") - 千萬訂閱
   - [紅寶石創作者獎](https://zh.wikipedia.org/wiki/紅寶石 "wikilink") - 五千萬訂閱
+  - 紅[鑽石創作者獎](https://zh.wikipedia.org/wiki/鑽石 "wikilink") - 一億訂閱
 
 隨著YouTube原創影片的蓬勃發展，YouTuber的專業分工也漸趨專業，例如[日本](../Page/日本.md "wikilink")知名YouTuber [HIKAKIN](../Page/HIKAKIN.md "wikilink")便為日本YouTuber們創立了一[經紀公司](../Page/經紀公司.md "wikilink")「[UUUM](https://zh.wikipedia.org/wiki/UUUM "wikilink")」。
 
@@ -34,7 +35,7 @@ YouTuber們常常互相合作拍攝影片。當YouTuber在YouTube上的[頻道�
   - [自媒體](https://zh.wikipedia.org/wiki/自媒體 "wikilink")
   - [網紅](https://zh.wikipedia.org/wiki/網紅 "wikilink")
   - [在YouTube上訂閱人數最多的用戶列表](../Page/在YouTube上訂閱人數最多的用戶列表.md "wikilink")
-  - [台灣YouTube頻道訂閱人數排行榜](https://zh.wikipedia.org/wiki/台灣YouTube頻道訂閱人數排行榜 "wikilink")
+  - [台灣YouTube頻道訂閱人數排行榜](../Page/台灣YouTube頻道訂閱人數排行榜.md "wikilink")
 
 [Category:YouTuber](https://zh.wikipedia.org/wiki/Category:YouTuber "wikilink") [Category:網絡紅人](https://zh.wikipedia.org/wiki/Category:網絡紅人 "wikilink") [Category:職業](https://zh.wikipedia.org/wiki/Category:職業 "wikilink")
 

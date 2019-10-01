@@ -1824,7 +1824,7 @@
 <td style="text-align: center;"><p><br />
 </p></td>
 <td style="text-align: center;"><p>2</p></td>
-<td style="text-align: center;"><p><small><a href="https://zh.wikipedia.org/wiki/李仁惠" title="wikilink">李仁惠</a>、<a href="../Page/高周元.md" title="wikilink">高周元</a>、<a href="../Page/尹惠京.md" title="wikilink">尹惠京</a>、、<a href="../Page/崔蘭.md" title="wikilink">崔蘭</a></small></p></td>
+<td style="text-align: center;"><p><small><a href="https://zh.wikipedia.org/wiki/李仁惠" title="wikilink">李仁惠</a>、<a href="../Page/高周元.md" title="wikilink">高周元</a>、<a href="../Page/尹惠京.md" title="wikilink">尹惠京</a>、<a href="../Page/李德姬.md" title="wikilink">李德姬</a>、<a href="../Page/崔蘭.md" title="wikilink">崔蘭</a></small></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金元勇" title="wikilink">金元勇</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李恩珠_(編劇)" title="wikilink">李恩珠</a></p></td>
 <td style="text-align: center;"><p>春節特輯電視劇</p></td>
@@ -2417,6 +2417,51 @@
 <td style="text-align: center;"><p><small><a href="../Page/申久.md" title="wikilink">申久</a>、<a href="../Page/金剛于.md" title="wikilink">金剛于</a>、<a href="../Page/李雪.md" title="wikilink">李雪</a> </small></p></td>
 <td style="text-align: center;"><p>金正賢</p></td>
 <td style="text-align: center;"><p>趙容</p></td>
+<td style="text-align: center;"><p>中秋特輯電視劇</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+</tbody>
+</table>
+
+#### 2019年
+
+<table style="width:301%;">
+<colgroup>
+<col style="width: 76%" />
+<col style="width: 9%" />
+<col style="width: 19%" />
+<col style="width: 16%" />
+<col style="width: 47%" />
+<col style="width: 47%" />
+<col style="width: 85%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"><p><strong>播放日期</strong></p></td>
+<td style="text-align: center;"><p><strong>電視劇集名稱</strong></p></td>
+<td style="text-align: center;"><p><strong>集數</strong></p></td>
+<td style="text-align: center;"><p><strong>主演</strong></p></td>
+<td style="text-align: center;"><p><strong>導演</strong></p></td>
+<td style="text-align: center;"><p><strong>編劇</strong></p></td>
+<td style="text-align: center;"><p><strong>備註</strong></p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>2019年9月11日－<br />
+2019年9月12日</p></td>
+<td style="text-align: center;"><p><a href="../Page/生日信.md" title="wikilink">生日信</a><br />
+</p></td>
+<td style="text-align: center;"><p>4</p></td>
+<td style="text-align: center;"><p><small><a href="../Page/宋建熙.md" title="wikilink">宋建熙</a>、、、<a href="../Page/全昭旻.md" title="wikilink">全昭旻</a></small></p></td>
+<td style="text-align: center;"><p><a href="../Page/金正奎.md" title="wikilink">金正奎</a></p></td>
+<td style="text-align: center;"><p>裴秀英</p></td>
 <td style="text-align: center;"><p>中秋特輯電視劇</p></td>
 </tr>
 <tr class="odd">

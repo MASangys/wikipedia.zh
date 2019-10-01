@@ -1852,6 +1852,86 @@ YD2600BBAFBOX</p></td>
 </tbody>
 </table>
 
+内置GPU的型号代号为“Raven Ridge”，采用原生有一个CCX、有内置GPU的芯片，支持双通道内存，最多可为显卡提供8个PCIe通道；GPU代号Radeon Vega 11，配置有11组CU；
+
+<table>
+<thead>
+<tr class="header">
+<th><p>型號</p></th>
+<th><p>步進</p></th>
+<th><p>CPU部分</p></th>
+<th><p>GPU部分</p></th>
+<th><p>記憶體支援</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/熱設計功耗" title="wikilink">TDP</a><br />
+(<a href="https://zh.wikipedia.org/wiki/瓦" title="wikilink">W</a>)</p></th>
+<th><p>部件號</p></th>
+<th><p>發售日期</p></th>
+<th><p>發售價格〈美元〉</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="../Page/多核心處理器.md" title="wikilink">核心數</a><br />
+/<a href="https://zh.wikipedia.org/wiki/執行緒" title="wikilink">執行緒數</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/時脈" title="wikilink">時脈</a> (<a href="https://zh.wikipedia.org/wiki/GHz" title="wikilink">GHz</a>)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/快取" title="wikilink">快取</a></p></td>
+<td><p>核心配置<br />
+(CU)</p></td>
+<td><p>時脈<br />
+(MHz)</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>基準</p></td>
+<td><p>加速</p></td>
+<td><p>L2 (KiB)</p></td>
+<td><p>L3 (MiB)</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>普通版及低功耗版</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>3400G</strong></p></td>
+<td><p>B0</p></td>
+<td><p>4/8</p></td>
+<td><p>3.7</p></td>
+<td><p>4.2</p></td>
+<td><p>4 × 512</p></td>
+<td><p>4</p></td>
+<td><p>704:44:16<br />
+(11 CU)</p></td>
+<td><p>1400</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 資料來源：\[137\]\[138\]\[139\]\[140\]\[141\]\[142\]\[143\]\[144\]\[145\]
 
 ##### Ryzen 3 系列
@@ -1917,6 +1997,86 @@ YD2600BBAFBOX</p></td>
 </tbody>
 </table>
 
+内置GPU的型号代号为“Raven Ridge”，采用原生有一个CCX、有内置GPU的芯片，支持双通道内存，最多可为显卡提供8个PCIe通道；GPU代号Radeon Vega 8，配置有8组CU；
+
+<table>
+<thead>
+<tr class="header">
+<th><p>型號</p></th>
+<th><p>步進</p></th>
+<th><p>CPU部分</p></th>
+<th><p>GPU部分</p></th>
+<th><p>記憶體支援</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/熱設計功耗" title="wikilink">TDP</a><br />
+(<a href="https://zh.wikipedia.org/wiki/瓦" title="wikilink">W</a>)</p></th>
+<th><p>部件號</p></th>
+<th><p>發售日期</p></th>
+<th><p>發售價格〈美元〉</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="../Page/多核心處理器.md" title="wikilink">核心數</a><br />
+/<a href="https://zh.wikipedia.org/wiki/執行緒" title="wikilink">執行緒數</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/時脈" title="wikilink">時脈</a> (<a href="https://zh.wikipedia.org/wiki/GHz" title="wikilink">GHz</a>)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/快取" title="wikilink">快取</a></p></td>
+<td><p>核心配置<br />
+(CU)</p></td>
+<td><p>時脈<br />
+(MHz)</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>基準</p></td>
+<td><p>加速</p></td>
+<td><p>L2 (KiB)</p></td>
+<td><p>L3 (MiB)</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>普通版及低功耗版</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>3200G</strong></p></td>
+<td><p>B0</p></td>
+<td><p>4/4</p></td>
+<td><p>3.6</p></td>
+<td><p>4.0</p></td>
+<td><p>4 × 512</p></td>
+<td><p>4</p></td>
+<td><p>512:32:16<br />
+(8 CU)</p></td>
+<td><p>1250</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ### 基於 Zen 2 微架構
 
 #### 桌上型處理器
@@ -1940,7 +2100,7 @@ YD2600BBAFBOX</p></td>
 <th><p>制程工艺（nm）</p></th>
 <th><p>部件號</p></th>
 <th><p>發售日期</p></th>
-<th><p>發售價格 (美元)</p></th>
+<th><p>發售價格〈美元〉</p></th>
 </tr>
 </thead>
 <tbody>
@@ -2022,7 +2182,7 @@ YD2600BBAFBOX</p></td>
 <th><p>制程工艺（nm）</p></th>
 <th><p>部件號</p></th>
 <th><p>發售日期</p></th>
-<th><p>發售價格 (美元)</p></th>
+<th><p>發售價格 〈美元〉</p></th>
 </tr>
 </thead>
 <tbody>
@@ -2104,7 +2264,7 @@ YD2600BBAFBOX</p></td>
 <th><p>制程工艺（nm）</p></th>
 <th><p>部件號</p></th>
 <th><p>發售日期</p></th>
-<th><p>發售價格 (美元)</p></th>
+<th><p>發售價格 〈美元〉</p></th>
 </tr>
 </thead>
 <tbody>
@@ -2162,85 +2322,6 @@ YD2600BBAFBOX</p></td>
 可支援至5000+）</p></td>
 <td><p>65</p></td>
 <td><p>7</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>3400G</strong></p></td>
-<td></td>
-<td><p>4/8</p></td>
-<td><p>3.7</p></td>
-<td><p>4.2</p></td>
-<td><p>4×</p>
-<p>512</p></td>
-<td><p>4</p></td>
-<td><p>DDR4-2933</p></td>
-<td><p>65</p></td>
-<td><p>12</p></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-##### Ryzen 3 系列
-
-本系列採用Socket AM4插座。
-
-<table>
-<thead>
-<tr class="header">
-<th><p>型號</p></th>
-<th><p>步進</p></th>
-<th><p><a href="../Page/多核心處理器.md" title="wikilink">核心數</a><br />
-/<a href="https://zh.wikipedia.org/wiki/執行緒" title="wikilink">執行緒數</a></p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/時脈" title="wikilink">時脈</a> (<a href="https://zh.wikipedia.org/wiki/GHz" title="wikilink">GHz</a>)</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/快取" title="wikilink">快取</a></p></th>
-<th><p>記憶體支援</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/熱設計功耗" title="wikilink">TDP</a><br />
-(<a href="https://zh.wikipedia.org/wiki/瓦" title="wikilink">W</a>)</p></th>
-<th><p>制程工艺（nm）</p></th>
-<th><p>部件號</p></th>
-<th><p>發售日期</p></th>
-<th><p>發售價格 (美元)</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>基準</p></td>
-<td><p>加速</p></td>
-<td><p>L2 (KiB)</p></td>
-<td><p>L3 (MiB)</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>普通版</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>3200G</strong></p></td>
-<td></td>
-<td><p>4/4</p></td>
-<td><p>3.6</p></td>
-<td><p>4.0</p></td>
-<td><p>4×512</p></td>
-<td><p>4</p></td>
-<td><p>DDR4-2933</p></td>
-<td><p>65</p></td>
-<td><p>12</p></td>
 <td></td>
 </tr>
 </tbody>

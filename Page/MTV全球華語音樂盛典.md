@@ -196,7 +196,7 @@
 <tr class="odd">
 <td><p>最佳全能唱跳歌手</p></td>
 <td><ul>
-<li><a href="https://zh.wikipedia.org/wiki/容祖兒" title="wikilink">容祖兒</a></li>
+<li><a href="../Page/容祖兒.md" title="wikilink">容祖兒</a></li>
 <li><a href="../Page/陳偉霆.md" title="wikilink">陳偉霆</a></li>
 <li><a href="../Page/羅志祥.md" title="wikilink">羅志祥</a></li>
 <li><a href="https://zh.wikipedia.org/wiki/潘瑋柏" title="wikilink">潘瑋柏</a></li>
@@ -257,7 +257,7 @@
 <li><a href="../Page/韋禮安.md" title="wikilink">韋禮安</a>《放開那女孩》</li>
 <li><a href="https://zh.wikipedia.org/wiki/孫露" title="wikilink">孫露</a>《秘密》</li>
 <li><a href="../Page/紀家盈.md" title="wikilink">家家</a>《家家酒》</li>
-<li><a href="https://zh.wikipedia.org/wiki/容祖兒" title="wikilink">容祖兒</a>《第一百個我》</li>
+<li><a href="../Page/容祖兒.md" title="wikilink">容祖兒</a>《第一百個我》</li>
 <li><a href="../Page/徐良_(歌手).md" title="wikilink">徐良</a>《歌手》</li>
 <li><a href="../Page/徐佳瑩.md" title="wikilink">徐佳瑩</a>《大雨將至》</li>
 <li><a href="https://zh.wikipedia.org/wiki/张杰_(中国大陆歌手)" title="wikilink">張杰</a>《我想》</li>

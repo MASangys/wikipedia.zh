@@ -45,7 +45,7 @@ USB-C的其他特性如下：
 
 ## 支援產品
 
-从2015年起，有许多支持USB-C的电子产品面世，USB-C接口开始普及，例如[Nexus 5X](../Page/Nexus_5X.md "wikilink")、[Nexus 6P及](../Page/Nexus_6P.md "wikilink")[任天堂Switch](../Page/任天堂Switch.md "wikilink")等，現時大部分[Android](../Page/Android.md "wikilink")電子產品都使用USB-C接口。[蘋果公司在](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")2015年起於[MacBook](../Page/MacBook.md "wikilink")改用USB C，至2018年11月7日推出的[iPad Pro亦改用USB](https://zh.wikipedia.org/wiki/iPad_Pro "wikilink") C接口。
+从2015年起，有许多支持USB-C的电子产品面世，USB-C接口开始普及，例如[Nexus 5X](../Page/Nexus_5X.md "wikilink")、[Nexus 6P及](../Page/Nexus_6P.md "wikilink")[任天堂Switch](../Page/任天堂Switch.md "wikilink")等，現時大部分[Android](../Page/Android.md "wikilink")電子產品都使用USB-C接口。在2017年推出的中階手機也開始使用Type-C，例子有[三星Galaxy C7 Pro](../Page/三星Galaxy_C7_Pro.md "wikilink")、[Sony Xperia XA1 Ultra](../Page/Sony_Xperia_XA1_Ultra.md "wikilink")。[蘋果公司在](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")2015年起於[MacBook](../Page/MacBook.md "wikilink")改用USB C，2018年11月7日推出的[iPad Pro亦改用USB](https://zh.wikipedia.org/wiki/iPad_Pro "wikilink") C接口。
 
   - 第一款引入USB-C的產品是[NOKIA於](https://zh.wikipedia.org/wiki/NOKIA "wikilink")2014年出產的[NOKIA N1平板電腦](https://zh.wikipedia.org/wiki/NOKIA_N1 "wikilink")，传输速率仍相当于[USB 2.0](https://zh.wikipedia.org/wiki/USB_2.0 "wikilink")。
   - 第二款引入USB-C的产品是[谷歌于](https://zh.wikipedia.org/wiki/谷歌 "wikilink")2015年出产的[Chromebook](../Page/Chromebook.md "wikilink") Pixel，但同时保留了传统接口。

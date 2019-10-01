@@ -31,7 +31,7 @@
 <td><p>喜劇演員、演員、音樂劇演員、主持人</p></td>
 </tr>
 <tr class="even">
-<td></td>
+<td><p><a href="../Page/李龍眞.md" title="wikilink">李龍眞</a></p></td>
 <td><p>喜劇演員</p></td>
 </tr>
 <tr class="odd">

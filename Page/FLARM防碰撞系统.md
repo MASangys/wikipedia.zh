@@ -6,7 +6,7 @@
 
 ## 工作原理
 
-[FLARM_equipment.JPG](https://zh.wikipedia.org/wiki/File:FLARM_equipment.JPG "fig:FLARM_equipment.JPG")FLARM设备通过内置的一台高灵敏度GPS接收机和[高度计](../Page/高度计.md "wikilink")得到自己的实时位置与高度信息。再结合[速度](../Page/速度.md "wikilink")，[加速度](../Page/加速度.md "wikilink")，航向，航迹，转弯半径，风速，高度，垂直速度，预设的飞行器类型以及其他参数，就可以计算出一条非常精确的预测飞行路径。该路径信息经过[编码后通过一个](https://zh.wikipedia.org/wiki/编码 "wikilink")[加密的](https://zh.wikipedia.org/wiki/加密 "wikilink")[无线频道](../Page/信道.md "wikilink")，以最少每秒钟一次的频率，发送给所有附近的飞行器。\[3\]
+[FLARM_equipment.JPG](https://zh.wikipedia.org/wiki/File:FLARM_equipment.JPG "fig:FLARM_equipment.JPG")FLARM设备通过内置的一台高灵敏度GPS接收机和[高度计](../Page/高度计.md "wikilink")得到自己的实时位置与高度信息。再结合[速度](../Page/速度.md "wikilink")，[加速度](../Page/加速度.md "wikilink")，航向，航迹，转弯半径，风速，高度，垂直速度，预设的飞行器类型以及其他参数，就可以计算出一条非常精确的预测飞行路径。该路径信息经过[编码后通过一个](https://zh.wikipedia.org/wiki/编码 "wikilink")[加密](../Page/加密.md "wikilink")的[无线频道](../Page/信道.md "wikilink")，以最少每秒钟一次的频率，发送给所有附近的飞行器。\[3\]
 
 同时，FLARM设备也接收附近所有飞行器上FLARM设备所发的编码飞行路径信息。把自己的飞行路径与接收到的其他飞行路径数据相结合，通过一个智能运动预测算法就能在一个综合风险模型的基础上，计算出与每一个接收到数据的飞行器之间的碰撞风险。如发现有碰撞的可能，FLARM设备就会将这一结果，以及危险飞行器的方向和高度差信息，发送到相连的FLARM信息显示器上。飞行员在得到视觉与语音警告信息后，就能够采取对应动作，避免可能的碰撞。\[4\]
 

@@ -447,6 +447,7 @@ SR14G</p></td>
   -
   -
   -
+  -
 
   - [Red Velvet的V Live頻道](http://channels.vlive.tv/DCF447)
 

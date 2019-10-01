@@ -166,7 +166,7 @@
 <td><p>にゃこ</p></td>
 </tr>
 <tr class="even">
-<td><p>せんすいぶ!</p></td>
+<td><p><a href="../Page/戰水社！.md" title="wikilink">せんすいぶ!</a></p></td>
 <td><p>2013年6月28日</p></td>
 <td><p>光姫満太郎、〆鯖コハダ<br />
 ここのか</p></td>
@@ -180,7 +180,7 @@
 <td><p>藤原休樹</p></td>
 </tr>
 <tr class="even">
-<td><p>Re;Lord ～ヘルフォルトの魔女とぬいぐるみ～</p></td>
+<td><p><a href="../Page/Re;Lord.md" title="wikilink">Re;Lord ～ヘルフォルトの魔女とぬいぐるみ～</a></p></td>
 <td><p>2014年6月27日</p></td>
 <td><p>水鼠</p></td>
 <td><p>西村悠一</p></td>
@@ -206,7 +206,7 @@
 <td><p>西村悠一</p></td>
 </tr>
 <tr class="even">
-<td><p>フォーリンラブ×4tune</p></td>
+<td><p><a href="../Page/Fall_in_love×4tune.md" title="wikilink">フォーリンラブ×4tune</a></p></td>
 <td><p>2015年11月27日</p></td>
 <td><p>みけおう、草上明</p></td>
 <td><p>若瀬諒、りりり<br />

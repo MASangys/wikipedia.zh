@@ -66,7 +66,7 @@ Rock'n' Banana除了主要從事[遊戲和](https://zh.wikipedia.org/wiki/電子
 
   - （引退）
 
-  - \[4\]\[5\]（自由職業）
+  - [早瀨彌生](../Page/早瀨彌生.md "wikilink")\[4\]\[5\]（自由職業）
 
   - （引退）
 
@@ -76,7 +76,7 @@ Rock'n' Banana除了主要從事[遊戲和](https://zh.wikipedia.org/wiki/電子
 
   - （自由職業）
 
-## 來源
+## 參考來源
 
 ## 外部連結
 

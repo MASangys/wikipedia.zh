@@ -137,6 +137,9 @@
 | 112    | [8月17日](../Page/8月17日.md "wikilink")                    | 「Big Big KIDs」－小明星的消暑點子       |
 | 113    | [8月24日](../Page/8月24日.md "wikilink")                    | 「Big Big KIDs」－小明星談住處         |
 | 114    | [8月31日](../Page/8月31日.md "wikilink")                    |                               |
+| 115    | [9月7日](../Page/9月7日.md "wikilink")                      |                               |
+| 116    | [9月14日](../Page/9月14日.md "wikilink")                    |                               |
+| 117    | [9月21日](../Page/9月21日.md "wikilink")                    |                               |
 
 ## 主持
 

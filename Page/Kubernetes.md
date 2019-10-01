@@ -88,7 +88,7 @@ cAdvisor 是监视和收集例如每个节点上的容器的CPU，内存，文�
 
   -
   -
-[Category:雲端運算](https://zh.wikipedia.org/wiki/Category:雲端運算 "wikilink") [Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink") [Category:虛擬化軟體](https://zh.wikipedia.org/wiki/Category:虛擬化軟體 "wikilink") [Category:使用Apache许可证的软件](https://zh.wikipedia.org/wiki/Category:使用Apache许可证的软件 "wikilink") [Category:Linux容器化](https://zh.wikipedia.org/wiki/Category:Linux容器化 "wikilink")
+[Category:雲端運算](https://zh.wikipedia.org/wiki/Category:雲端運算 "wikilink") [Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink") [Category:虛擬化軟體](https://zh.wikipedia.org/wiki/Category:虛擬化軟體 "wikilink") [Category:使用Apache许可证的软件](https://zh.wikipedia.org/wiki/Category:使用Apache许可证的软件 "wikilink") [Category:Linux容器化](https://zh.wikipedia.org/wiki/Category:Linux容器化 "wikilink") [Category:用Go編程的自由軟件](https://zh.wikipedia.org/wiki/Category:用Go編程的自由軟件 "wikilink")
 
 1.
 

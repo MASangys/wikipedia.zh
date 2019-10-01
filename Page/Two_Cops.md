@@ -308,7 +308,7 @@
 <td><p><a href="../Page/王綺婷.md" title="wikilink">王綺婷</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/朴_真珠" title="wikilink">朴真珠</a></p></td>
+<td><p><a href="../Page/朴真珠.md" title="wikilink">朴真珠</a></p></td>
 <td><p>宋靜美</p></td>
 <td><p>護士。</p></td>
 <td><p><a href="../Page/姜嘉蕾.md" title="wikilink">姜嘉蕾</a></p></td>

@@ -314,7 +314,7 @@ E'Dawn、Kino、Hui(2013年10月)、Yeo One(2013年11月)、信源、禹奭、Yu
   - 2017年：Tentastic Vol.3 - Promise Mini Concert
   - 2017年：Tentastic Vol.4 - Dream Mini Concert
   - 2018年：Tentastic Vol.5 - Miracle Mini Concert
-  - 2019年：2019 PENTAGON CONCERT - PRISM
+  - 2019年：2019 PENTAGON WORLD TOUR - PRISM
 
 ## 獎項
 

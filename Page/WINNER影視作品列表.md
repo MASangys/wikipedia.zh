@@ -312,7 +312,7 @@
 | 7月10日、7月17日 |
 | 7月14日       |
 | 7月20日、7月27日 |
-| 9月日         |
+| 9月14日       |
 |             |
 
 ## 音樂錄影帶
@@ -360,13 +360,13 @@
 
   - 參演音樂錄影帶
 
-|       |        |                                                                                                                                                                                                     |                                                                                                     |         |                     |
-| ----- | ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ------- | ------------------- |
-| 年份    | 發佈日期   | 歌曲名稱                                                                                                                                                                                                | 歌手                                                                                                  | 參與成員    | 專輯                  |
-| 2013年 | 11月10日 | [RINGA LINGA (링가 링가)](https://www.youtube.com/watch?v=UJfZ69MSlvY)                                                                                                                                  | [太陽](../Page/太陽_\(歌手\).md "wikilink") ([BIGBANG](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")) | 宋旻浩、南太鉉 | 《RISE》              |
-| 2014年 | 10月19日 | [BORN HATER](http://www.youtube.com/watch?v=3s1jaFDrp5M&list=UUTcEu0jaf3DrsTjnGwwvsvA&oref=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D3s1jaFDrp5M%26list%3DUUTcEu0jaf3DrsTjnGwwvsvA&has_verified=1) | [Epik High](../Page/Epik_High.md "wikilink")                                                        | 宋旻浩     | 《Shoebox》           |
-| 2018年 | 7月27日  | [WHERE R U FROM](https://www.youtube.com/watch?v=m2MtOeuCgh8)                                                                                                                                       | [勝利](../Page/勝利_\(歌手\).md "wikilink")([BIGBANG](https://zh.wikipedia.org/wiki/BIGBANG "wikilink"))  | 宋旻浩     | 《The Great Seungri》 |
-|       |        |                                                                                                                                                                                                     |                                                                                                     |         |                     |
+|       |        |                                                                                                                                                                                                     |                                                                                                    |         |                     |
+| ----- | ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ------- | ------------------- |
+| 年份    | 發佈日期   | 歌曲名稱                                                                                                                                                                                                | 歌手                                                                                                 | 參與成員    | 專輯                  |
+| 2013年 | 11月10日 | [RINGA LINGA (링가 링가)](https://www.youtube.com/watch?v=UJfZ69MSlvY)                                                                                                                                  | [太陽](../Page/太陽_\(歌手\).md "wikilink")（[BIGBANG](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")） | 宋旻浩、南太鉉 | 《RISE》              |
+| 2014年 | 10月19日 | [BORN HATER](http://www.youtube.com/watch?v=3s1jaFDrp5M&list=UUTcEu0jaf3DrsTjnGwwvsvA&oref=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D3s1jaFDrp5M%26list%3DUUTcEu0jaf3DrsTjnGwwvsvA&has_verified=1) | [Epik High](../Page/Epik_High.md "wikilink")                                                       | 宋旻浩     | 《Shoebox》           |
+| 2018年 | 7月27日  | [WHERE R U FROM](https://www.youtube.com/watch?v=m2MtOeuCgh8)                                                                                                                                       | [勝利](../Page/勝利_\(歌手\).md "wikilink")（[BIGBANG](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")） | 宋旻浩     | 《The Great Seungri》 |
+| 2019年 | 6月27日  | 《[불나방 (I'M ON FIRE)](https://www.youtube.com/watch?v=iR7HsIrFqoU)》                                                                                                                                  | [殷志源](https://zh.wikipedia.org/wiki/殷志源 "wikilink")（[水晶男孩](../Page/水晶男孩.md "wikilink")）            | 宋旻浩     | 《G1》                |
 
 ## 參考資料
 

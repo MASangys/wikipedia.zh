@@ -8,7 +8,7 @@
 
 [V_Walk_Beauty_Zone_201907.jpg](https://zh.wikipedia.org/wiki/File:V_Walk_Beauty_Zone_201907.jpg "fig:V_Walk_Beauty_Zone_201907.jpg") 商場由日本著名室內設計公司Wonderwall設計，以「西九龍的脈搏為主題」，設計師刻意採用玻璃幕牆，以引入自然光和擴闊空間感。\[4\]但地台設計與旗下[V city相似](../Page/V_city.md "wikilink")。 而根據公契條款，設總面積不少於10,298平方米的休憩用地，當中地面的1,500平方米「私人休憩用地」應有不少於1,000平方米為供公眾使用的園景美化露天廣場。\[5\]而場內閒座區偏少，唯一永久閒座區位置是2樓洗手間入口旁設座椅作為公共座位供遊人休息。
 
-另外，地面向東京街西的入口，採用途經商場的[九龍巴士](../Page/九龍巴士.md "wikilink")路綫的路綫牌作裝飾，亦放置三個九巴不同崗位的Q版人像。
+另外，商場2樓設平台花園，但至今仍未對外開放。而地面向東京街西的入口，採用途經商場的[九龍巴士](../Page/九龍巴士.md "wikilink")路綫的路綫牌作裝飾，亦放置三個九巴不同崗位的Q版人像。到2019年9月已經移除。
 
 V Walk Drop off area 201907.jpg|上落客區 V Walk Private Open Space for Public Use 201907.jpg|地面設公眾用途私人休憩用地 V Walk GF Sham Mong Road Entrance 201907.jpg|深旺道入口設直立綠化外牆 V Walk Customer Service Centre 201907.jpg|2樓顧客服務中心以木條設計 V Walk washroom access art wall 201907.jpg|2樓洗手間入口設藝術投影裝置
 
@@ -47,7 +47,7 @@ Nam Cheong Station property under construction in December 2015.JPG|欽州街西
 
 <div class="NavHead" style="background-color: Yellow; margin: 0 auto; padding: 0 10px; font-weight:normal;">
 
-交通路線列表
+**交通路線列表**
 
 </div>
 
@@ -82,6 +82,8 @@ Nam Cheong Station property under construction in December 2015.JPG|欽州街西
 ## 參考資料
 
 ## 外部連結
+
+{{-}}
 
 [Category:深水埗區商場](https://zh.wikipedia.org/wiki/Category:深水埗區商場 "wikilink") [Category:深水埗](https://zh.wikipedia.org/wiki/Category:深水埗 "wikilink") [Category:新鴻基地產物業](https://zh.wikipedia.org/wiki/Category:新鴻基地產物業 "wikilink")
 

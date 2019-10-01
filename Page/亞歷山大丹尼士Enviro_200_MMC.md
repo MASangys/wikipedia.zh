@@ -10,10 +10,6 @@ Enviro 200MMC佈局與[Enviro 200相若](../Page/亞歷山大丹尼士Enviro_200
 
 不論軸距長或短，長度可選擇8.9米至11.8米不等。
 
-## 訂單
-
-Enviro 200MMC推出初期，但銷情不相伯仲。National Express West Midlands，Stagecoach及第一集團率先引入Enviro 200MMC。
-
 ## Enviro 200 MMC在香港
 
 ### 新巴

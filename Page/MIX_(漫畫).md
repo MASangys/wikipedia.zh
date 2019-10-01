@@ -183,6 +183,12 @@
 <td><p>ISBN 978-4-09-128858-5</p></td>
 <td><p>2019年4月4日</p></td>
 </tr>
+<tr class="even">
+<td><p>15</p></td>
+<td><p>2019年8月8日</p></td>
+<td><p>ISBN 978-4-09-129366-4</p></td>
+<td><p>2019年9月16日</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -224,7 +230,7 @@
   -
 
       -
-        作詞、作曲：新藤晴一，編曲：近藤隆史：田中ユウスケ、Porno Graffitti，主唱：ポルノグラフィティ
+        作詞、作曲：新藤晴一，編曲：近藤隆史：田中ユウスケ、Porno Graffitti，主唱：[色情塗鴉](https://zh.wikipedia.org/wiki/色情塗鴉 "wikilink")
 
 <!-- end list -->
 
@@ -299,7 +305,7 @@
 <td><p>福岛幸典</p></td>
 <td><p>柴田匠</p></td>
 <td><p>广冈岁仁、繁田亨、新村杏子、太田慎之介</p></td>
-<td><p>鸟宏明</p></td>
+<td><p>烏宏明</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -308,7 +314,7 @@
 <td><p>-{zh-cn:好想交换啊;zh-tw:真想交換啊}-</p></td>
 <td><p>山田健一</p></td>
 <td><p>山中祥平</p></td>
-<td><p>角谷知美、井戸田あかね、菅原美幸</p></td>
+<td><p>角谷知美、井戶田あかね、菅原美幸</p></td>
 <td><p>髙田晴仁</p></td>
 <td></td>
 </tr>
@@ -325,11 +331,11 @@
 <tr class="even">
 <td><p>第6話</p></td>
 <td></td>
-<td><p>春天到来的话</p></td>
+<td><p>-{zh-cn:春天到来的话;zh-tw:春天一到}-</p></td>
 <td><p>富岡淳广</p></td>
 <td><p>久慈悟郎</p></td>
 <td><p>小川浩司、吉田肇、饭泉俊臣</p></td>
-<td><p>鳥宏明</p></td>
+<td><p>烏宏明</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -346,7 +352,7 @@
 <tr class="even">
 <td><p>第8話</p></td>
 <td></td>
-<td><p>我的哥哥</p></td>
+<td><p>-{zh-cn:我的哥哥;zh-tw:我哥哥}-</p></td>
 <td><p>樋口达人</p></td>
 <td><p>石田畅</p></td>
 <td><p>新村杏子、太田慎之介</p></td>
@@ -356,17 +362,17 @@
 <tr class="odd">
 <td><p>第9話</p></td>
 <td></td>
-<td><p>是大新闻吧</p></td>
+<td><p>-{zh-cn:是大新闻吧;zh-tw:大新聞對吧？}-</p></td>
 <td><p>福岛幸典</p></td>
 <td><p>柴田匠</p></td>
-<td><p>菅原美幸、角谷知美、井戸田あかね</p></td>
-<td><p>鸟宏明</p></td>
+<td><p>菅原美幸、角谷知美、井戶田あかね</p></td>
+<td><p>烏宏明</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>第10話</p></td>
 <td></td>
-<td><p>只是散步</p></td>
+<td><p>-{zh-cn:只是散步;zh-tw:單純的散步}-</p></td>
 <td><p>北条千夏</p></td>
 <td><p>山田卓</p></td>
 <td><p>西村广、繁田亨、细田纱织</p></td>
@@ -386,11 +392,11 @@
 <tr class="even">
 <td><p>第12話</p></td>
 <td></td>
-<td><p>你在小看我吗</p></td>
+<td><p>-{zh-cn:你在小看我吗;zh-tw:小看人嗎？}-</p></td>
 <td><p>樋口达人</p></td>
 <td><p>山中祥平</p></td>
-<td><p>角谷知美、井戸田あかね、菅原美幸</p></td>
-<td><p>鸟宏明</p></td>
+<td><p>角谷知美、井戶田あかね、菅原美幸</p></td>
+<td><p>烏宏明</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -410,7 +416,7 @@
 <td><p>福嶋幸典</p></td>
 <td><p>渡部穏寛</p></td>
 <td><p>石田暢</p></td>
-<td><p>太田慎之介、新村杏子、広岡岁仁、楠木智子</p></td>
+<td><p>太田慎之介、新村杏子、廣岡岁仁、楠木智子</p></td>
 <td><p>牧孝雄</p></td>
 </tr>
 <tr class="odd">
@@ -420,28 +426,110 @@
 <td><p>山田健一</p></td>
 <td><p>是本晶</p></td>
 <td><p>小野弘美、佐藤和巳、细田沙织</p></td>
-<td><p>乌宏明</p></td>
+<td><p>烏宏明</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>第16話</p></td>
 <td></td>
-<td><p>充满活力</p></td>
+<td><p>-{zh-cn:充满活力;zh-tw:有活力}-</p></td>
 <td><p>富岡淳广</p></td>
 <td><p>柴田匠</p></td>
-<td><p>菅原美幸、角谷知美、井戸田あかね</p></td>
-<td><p>高田晴仁 &lt;!--</p></td>
+<td><p>菅原美幸、角谷知美、井戶田あかね</p></td>
+<td><p>高田晴仁</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>第17話</p></td>
 <td></td>
-<td><p>果然很像某个人</p></td>
+<td><p>-{zh-cn:果然很像某个人;zh-tw:果然很像誰}-</p></td>
+<td><p>樋口达人</p></td>
+<td><p>久慈悟郎</p></td>
+<td><p>西村广、广冈岁仁、北村友幸</p></td>
+<td><p>牧孝雄</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>第18話</p></td>
+<td></td>
+<td><p>-{zh-cn:这种下雨的日子;zh-tw:如此大雨中}-</p></td>
+<td><p>北条千夏</p></td>
+<td><p>渡部穏寛</p></td>
+<td><p>繁田亨、新村杏子、小川茜、山田佳奈莉</p></td>
+<td><p>烏宏明</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第19話</p></td>
+<td></td>
+<td><p>羡慕嗎？</p></td>
+<td><p>福嶋幸典</p></td>
+<td><p>山中祥平</p></td>
+<td><p>是本晶<br />
+渡部穩寬</p></td>
+<td><p>角谷知美、菅原美幸、井户田あかね<br />
+广田茜、稻手遥香</p></td>
+<td><p>高田晴仁</p></td>
+</tr>
+<tr class="even">
+<td><p>第20話</p></td>
+<td></td>
+<td><p>求神保佑呢</p></td>
+<td><p>北条千夏</p></td>
+<td><p>筆坂明规</p></td>
+<td><p>佐藤和巳、小野弘美、繁田亨、细田沙织、广冈岁仁</p></td>
+<td><p>牧孝雄</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第21話</p></td>
+<td></td>
+<td><p>如果…</p></td>
+<td><p>樋口达人</p></td>
+<td><p>久慈悟郎</p></td>
+<td><p>西村广、太田慎之介、广冈岁仁、北村友幸、楠木智子</p></td>
+<td><p>烏宏明</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>第22話</p></td>
+<td></td>
+<td><p>这是为妹妹着想啊</p></td>
+<td><p>山田健一</p></td>
+<td><p>柴田匠</p></td>
+<td><p>角谷知美、广田茜、菅原美幸、稻手遥香、井户田あかね</p></td>
+<td><p>高田晴仁</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第23話</p></td>
+<td></td>
+<td><p>只是时间问题呢</p></td>
+<td><p>山田健一</p></td>
+<td><p>渡部穏寛</p></td>
+<td><p>石田暢</p></td>
+<td><p>繁田亨、新村杏子、広岡トシヒト、宮崎麻美、小野ひろみ</p></td>
+<td><p>烏宏明</p></td>
+</tr>
+<tr class="even">
+<td><p>第24話</p></td>
+<td></td>
+<td><p>不觉得很像吗</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td><p>--&gt;</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>

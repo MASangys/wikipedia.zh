@@ -32,7 +32,7 @@ HMD由Smart Connect LP所有，这是一个由Jean-François Baril部分管理�
 
   - Nokia 9系列：[Nokia 9 PureView](../Page/Nokia_9_PureView.md "wikilink")
   - Nokia 8系列：[Nokia 8](../Page/Nokia_8.md "wikilink")、[Nokia 8 Sirocco](../Page/Nokia_8_Sirocco.md "wikilink")、-{zh-hans:[Nokia X7](https://zh.wikipedia.org/wiki/Nokia_X7 "wikilink"); zh-hant:[Nokia 8.1](https://zh.wikipedia.org/wiki/Nokia_8.1 "wikilink");}-
-  - Nokia 7系列：[Nokia 7](../Page/Nokia_7.md "wikilink")、[Nokia 7 Plus](../Page/Nokia_7_Plus.md "wikilink")、[Nokia 7.1](https://zh.wikipedia.org/wiki/Nokia_7.1 "wikilink")
+  - Nokia 7系列：[Nokia 7](../Page/Nokia_7.md "wikilink")、[Nokia 7 Plus](../Page/Nokia_7_Plus.md "wikilink")、[Nokia 7.1](../Page/Nokia_7.1.md "wikilink")
   - Nokia 6系列：[Nokia 6](../Page/Nokia_6.md "wikilink")、-{zh-hans:[Nokia 6 第二代](https://zh.wikipedia.org/wiki/Nokia_6_第二代 "wikilink"); zh-hant:[Nokia 6.1](../Page/Nokia_6.1.md "wikilink");}-、-{zh-hans:[Nokia X6](../Page/Nokia_X6_\(2018年\).md "wikilink"); zh-hant:[Nokia 6.1 Plus](https://zh.wikipedia.org/wiki/Nokia_6.1_Plus "wikilink");}-
   - Nokia 5系列：[Nokia 5](https://zh.wikipedia.org/wiki/Nokia_5 "wikilink")、[Nokia 5.1](../Page/Nokia_5.1.md "wikilink")、-{zh-hans:[Nokia X5](../Page/Nokia_X5_\(2018年\).md "wikilink"); zh-hant:[Nokia 5.1 Plus](https://zh.wikipedia.org/wiki/Nokia_5.1_Plus "wikilink");}-
   - Nokia 4系列：[Nokia 4.2](https://zh.wikipedia.org/wiki/Nokia_4.2 "wikilink")

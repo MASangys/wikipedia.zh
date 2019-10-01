@@ -685,7 +685,7 @@ Rapper的表演顺序是随机抽选的，观众投票将决定排名第一名�
 </tr>
 <tr class="even">
 <td><p>Show Me The Money 3</p></td>
-<td><p>、、、、、<a href="../Page/Loco.md" title="wikilink">Loco</a>、珍岛狗</p></td>
+<td><p>、、、<a href="../Page/DinDin.md" title="wikilink">DinDin</a>、、<a href="../Page/Loco.md" title="wikilink">Loco</a>、珍岛狗</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>Show Me The Money 3</p></td>

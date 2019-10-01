@@ -63,6 +63,15 @@
 </ul></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>6th</p></td>
+<td><p>《真逆の糸》</p>
+<ul>
+<li>發行日期：2019年10月4日</li>
+<li>發行形態：</li>
+</ul></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

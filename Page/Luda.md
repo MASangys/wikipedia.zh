@@ -191,6 +191,27 @@
 | ---- | ---- | ------ | -- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2018 | 網絡小說 | MUNPIA | －  | [雪娥](../Page/雪娥.md "wikilink")、[苞娜](../Page/苞娜.md "wikilink")、[恩熙](../Page/恩熙.md "wikilink")、[程瀟](https://zh.wikipedia.org/wiki/程瀟 "wikilink") |
 
+### 廣告代言
+
+<table>
+<thead>
+<tr class="header">
+<th><p>年份</p></th>
+<th><p>品類</p></th>
+<th><p>名稱</p></th>
+<th><p>合作藝人</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2019</p></td>
+<td><p>網頁</p></td>
+<td><p>EBS 數學學習網頁</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ## 獎項
 
 <table>

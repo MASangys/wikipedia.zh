@@ -58,7 +58,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/台灣" title="wikilink">台灣</a></p></td>
 <td><p><a href="../Page/摩羯座.md" title="wikilink">摩羯座</a></p></td>
 <td><p>主舞、副唱</p></td>
-<td><p>178CM</p></td>
+<td><p>175CM</p></td>
 <td><p>萌男</p></td>
 <td><p>拖地</p></td>
 <td><p>Sweetie</p></td>
@@ -72,7 +72,7 @@
 <td><p>1997年2月11日（22歲）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/台灣" title="wikilink">台灣</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/水瓶座" title="wikilink">水瓶座</a></p></td>
-<td><p>主舞、領唱、中高音主唱</p></td>
+<td><p>主舞、主唱、中高音主唱</p></td>
 <td><p>175CM</p></td>
 <td><p>怪男</p></td>
 <td><p>收垃圾</p></td>
@@ -252,6 +252,8 @@
 | 2019年7月4日   | 花蓮[夏戀嘉年華](../Page/夏戀嘉年華.md "wikilink")                         |
 | 2019年7月13日  | 宜蘭音浪頭城                                                         |
 | 2019年7月28日  | [極限挑戰公益演唱會](https://zh.wikipedia.org/wiki/極限挑戰 "wikilink")     |
+| 2019年9月7日   | [快樂大本營快樂家族音樂節](https://zh.wikipedia.org/wiki/快樂大本營 "wikilink") |
+| 2019年9月14日  | [快樂大本營快樂家族音樂節](https://zh.wikipedia.org/wiki/快樂大本營 "wikilink") |
 
 ### 綜藝節目
 
@@ -289,6 +291,9 @@
 | 2019年8月18日                                                    | [娛樂壹級棒](../Page/娛樂壹級棒.md "wikilink")                                                          |
 | 2019年8月20日                                                    | [娛樂百分百](https://zh.wikipedia.org/wiki/娛樂百分百 "wikilink")(誰是瞎掰王)                                |
 | 2019年8月29日                                                    | [娛樂百分百](https://zh.wikipedia.org/wiki/娛樂百分百 "wikilink")(大腦開機吧)                                |
+| 2019年9月7日                                                     | [快樂大本營](https://zh.wikipedia.org/wiki/快樂大本營 "wikilink")(快樂家族音樂節)                              |
+| 2019年9月13日                                                    | [娛樂百分百](https://zh.wikipedia.org/wiki/娛樂百分百 "wikilink")(誰是瞎掰王)                                |
+| 2019年9月14日                                                    | [快樂大本營](https://zh.wikipedia.org/wiki/快樂大本營 "wikilink")(快樂家族音樂節)                              |
 
 ### 電台節目
 

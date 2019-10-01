@@ -24,16 +24,16 @@
 <td><p><strong>故事介紹</strong></p></td>
 </tr>
 <tr class="even">
-<td><p>魯夫一行人在航海途中釣魚時釣到了一個寶箱，打開一看發現裡面有一張紙，寫著「看到大海的肚臍就跳進去，那裡長眠著夢幻的寶藏」，同時海面上出現了一個大洞，就像海的肚臍眼一樣。娜美、騙人布和香吉士決定一起進入海肚臍去尋寶，另一方面留守在船上的魯夫和索隆撿到了一封神秘的瓶中信。被捲入海中的魯夫和索隆遇到了居住在海肚臍的少女<strong>美洛</strong>和少年<strong>哈姆</strong>。此時娜美、騙人布也遇到了<strong>裘克船長</strong>的亡靈。當索隆和神獸一直處於戰鬥中，美洛援護索隆；最後魯夫等人的援護成功擊倒裘克船長的亡靈。</p></td>
+<td><p>草帽小子一行人在航海途中釣魚時釣到了一個寶箱，打開一看發現裡面有一張紙，寫著「看到大海的肚臍就跳進去，那裡長眠著夢幻的寶藏」，同時海面上出現了一個大洞，就像海的肚臍眼一樣。娜美、騙人布和香吉士決定一起進入海肚臍去尋寶，另一方面留守在船上的魯夫和索隆撿到了一封神秘的瓶中信。被捲入海中的魯夫和索隆遇到了居住在海肚臍的少女<strong>美洛</strong>和少年<strong>哈姆</strong>。此時娜美、騙人布也遇到了<strong>裘克船長</strong>的亡靈。當索隆和神獸一直處於戰鬥中，美洛援護索隆；最後魯夫等人的援護成功擊倒裘克船長的亡靈。</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>角色</strong></p></td>
 </tr>
 <tr class="even">
-<td><p>'''<a href="../Page/蒙其·D·魯夫.md" title="wikilink">魯夫</a></p></td>
+<td><p>'''<a href="../Page/蒙其·D·魯夫.md" title="wikilink">蒙其·D·魯夫</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>'''<a href="../Page/羅羅亞·索隆.md" title="wikilink">索隆</a></p></td>
+<td><p>'''<a href="../Page/羅羅亞·索隆.md" title="wikilink">羅羅亞·索隆</a></p></td>
 </tr>
 <tr class="even">
 <td><p>'''<a href="../Page/娜美.md" title="wikilink">娜美</a></p></td>
@@ -42,7 +42,7 @@
 <td><p>'''<a href="../Page/騙人布.md" title="wikilink">騙人布</a></p></td>
 </tr>
 <tr class="even">
-<td><p>'''<a href="https://zh.wikipedia.org/wiki/賓什莫克·香吉士" title="wikilink">香吉士</a></p></td>
+<td><p>'''<a href="https://zh.wikipedia.org/wiki/賓什莫克·香吉士" title="wikilink">賓什莫克·香吉士</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>美洛（）</strong></p></td>
@@ -76,16 +76,16 @@
 <td><p><strong>故事介紹</strong></p></td>
 </tr>
 <tr class="even">
-<td><p>一名少女<strong>阿曼達</strong>由於握有去世父親的寶藏圖秘密，而和妹妹<strong>密莉亞</strong>和弟弟<strong>霍利</strong>一起被海賊團擄走。阿曼達說動了船上負責看守他們的打雜海賊<strong>馬庫司</strong>和<strong>波妮</strong>帶著他們一起逃跑。他們躲藏在一座無人島上尋寶時，碰到了魯夫一行人剛好也來到了島上。就在一夥人相處甚歡時，<strong>拜昂海賊團</strong>的<strong>查普</strong>竟也循線追來了。</p></td>
+<td><p>一名少女<strong>阿曼達</strong>由於握有去世父親的寶藏圖秘密，而和妹妹<strong>密莉亞</strong>和弟弟<strong>霍利</strong>一起被海賊團擄走。阿曼達說動了船上負責看守他們的打雜海賊<strong>馬庫司</strong>和<strong>波妮</strong>帶著他們一起逃跑。他們躲藏在一座無人島上尋寶時，碰到了草帽小子一行人剛好也來到了島上。就在一夥人相處甚歡時，<strong>拜昂海賊團</strong>的<strong>查普</strong>竟也循線追來了。</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>角色</strong></p></td>
 </tr>
 <tr class="even">
-<td><p>'''<a href="../Page/蒙其·D·魯夫.md" title="wikilink">魯夫</a></p></td>
+<td><p>'''<a href="../Page/蒙其·D·魯夫.md" title="wikilink">蒙其·D·魯夫</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>'''<a href="../Page/羅羅亞·索隆.md" title="wikilink">索隆</a></p></td>
+<td><p>'''<a href="../Page/羅羅亞·索隆.md" title="wikilink">羅羅亞·索隆</a></p></td>
 </tr>
 <tr class="even">
 <td><p>'''<a href="../Page/娜美.md" title="wikilink">娜美</a></p></td>
@@ -94,13 +94,13 @@
 <td><p>'''<a href="../Page/騙人布.md" title="wikilink">騙人布</a></p></td>
 </tr>
 <tr class="even">
-<td><p>'''<a href="https://zh.wikipedia.org/wiki/賓什莫克·香吉士" title="wikilink">香吉士</a></p></td>
+<td><p>'''<a href="https://zh.wikipedia.org/wiki/賓什莫克·香吉士" title="wikilink">賓什莫克·香吉士</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>'''<a href="../Page/多尼多尼·喬巴.md" title="wikilink">喬巴</a></p></td>
+<td><p>'''<a href="../Page/多尼多尼·喬巴.md" title="wikilink">多尼多尼·喬巴</a></p></td>
 </tr>
 <tr class="even">
-<td><p>'''<a href="../Page/妮可·羅賓.md" title="wikilink">羅賓</a></p></td>
+<td><p>'''<a href="../Page/妮可·羅賓.md" title="wikilink">妮可·羅賓</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>阿曼達（）</strong></p></td>
@@ -146,16 +146,16 @@
 <td><p><strong>故事介紹</strong></p></td>
 </tr>
 <tr class="even">
-<td><p>魯夫他們無意間來到一座島，在這裡看到有個名為<strong>蘭道爾夫</strong>的舞台劇演員將演出最後一場戲，魯夫他們決定留下來看戲，沒想到卻誤打誤撞成了臨時替代的演員，不過被他們一演就變成了亂七八糟的鬧劇，偏偏海軍也在這時候來抓蘭道爾夫，原來蘭道爾夫以前也是海軍上校，被自己的部下陷害，以偷渡海軍槍械武器賣給海賊的名義要被送到軍事法庭審判，幸好魯夫他們出手守護蘭道爾夫的最後舞台。</p></td>
+<td><p>草帽小子一行人無意間來到一座島，在這裡看到有個名為<strong>蘭道爾夫</strong>的舞台劇演員將演出最後一場戲，魯夫他們決定留下來看戲，沒想到卻誤打誤撞成了臨時替代的演員，不過被他們一演就變成了亂七八糟的鬧劇，偏偏海軍也在這時候來抓蘭道爾夫，原來蘭道爾夫以前也是海軍上校，被自己的部下陷害，以偷渡海軍槍械武器賣給海賊的名義要被送到軍事法庭審判，幸好魯夫他們出手守護蘭道爾夫的最後舞台。</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>角色</strong></p></td>
 </tr>
 <tr class="even">
-<td><p>'''<a href="../Page/蒙其·D·魯夫.md" title="wikilink">魯夫</a></p></td>
+<td><p>'''<a href="../Page/蒙其·D·魯夫.md" title="wikilink">蒙其·D·魯夫</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>'''<a href="../Page/羅羅亞·索隆.md" title="wikilink">索隆</a></p></td>
+<td><p>'''<a href="../Page/羅羅亞·索隆.md" title="wikilink">羅羅亞·索隆</a></p></td>
 </tr>
 <tr class="even">
 <td><p>'''<a href="../Page/娜美.md" title="wikilink">娜美</a></p></td>
@@ -164,13 +164,13 @@
 <td><p>'''<a href="../Page/騙人布.md" title="wikilink">騙人布</a></p></td>
 </tr>
 <tr class="even">
-<td><p>'''<a href="https://zh.wikipedia.org/wiki/賓什莫克·香吉士" title="wikilink">香吉士</a></p></td>
+<td><p>'''<a href="https://zh.wikipedia.org/wiki/賓什莫克·香吉士" title="wikilink">賓什莫克·香吉士</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>'''<a href="../Page/多尼多尼·喬巴.md" title="wikilink">喬巴</a></p></td>
+<td><p>'''<a href="../Page/多尼多尼·喬巴.md" title="wikilink">多尼多尼·喬巴</a></p></td>
 </tr>
 <tr class="even">
-<td><p>'''<a href="../Page/妮可·羅賓.md" title="wikilink">羅賓</a></p></td>
+<td><p>'''<a href="../Page/妮可·羅賓.md" title="wikilink">妮可·羅賓</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>蘭道爾夫（）</strong></p></td>
@@ -236,7 +236,7 @@
   - 配音員列表
     {|class=wikitable align=center style="text-align:center; font-size:90%"
 
-\!rowspan="2" width=120|角色名稱 \!colspan="2" width=200|配音員 |- \!width=100| [日本](../Page/日本.md "wikilink") \!width=100| [台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink") |- | **[蒙其·D·魯夫](../Page/蒙其·D·魯夫.md "wikilink") | [田中真弓](../Page/田中真弓.md "wikilink") | [詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink") |- |**[羅羅亞·索隆](../Page/羅羅亞·索隆.md "wikilink") | [中井和哉](../Page/中井和哉.md "wikilink") | [宋克軍](../Page/宋克軍.md "wikilink") |- | '''[娜美](../Page/娜美.md "wikilink") | [岡村明美](../Page/岡村明美.md "wikilink") | [許淑嬪](../Page/許淑嬪.md "wikilink") |- | '''[騙人布](../Page/騙人布.md "wikilink") | [山口勝平](../Page/山口勝平.md "wikilink") | [符爽](../Page/符爽.md "wikilink") |- | '''[香吉士](https://zh.wikipedia.org/wiki/賓什莫克·香吉士 "wikilink") | [平田廣明](../Page/平田廣明.md "wikilink") | [孫中台](../Page/孫中台.md "wikilink") |- | '''[喬巴](../Page/多尼多尼·喬巴.md "wikilink") | [大谷育江](../Page/大谷育江.md "wikilink") | [詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink") |- | '''[羅賓](../Page/妮可·羅賓.md "wikilink") | [山口由里子](../Page/山口由里子.md "wikilink") | [許淑嬪](../Page/許淑嬪.md "wikilink") |- | '''[佛朗基](../Page/佛朗基.md "wikilink") | [矢尾一樹](../Page/矢尾一樹.md "wikilink") | [符爽](../Page/符爽.md "wikilink") |- | '''[布魯克](../Page/布魯克_\(ONE_PIECE\).md "wikilink") | [長](https://zh.wikipedia.org/wiki/長_\(日本配音員\) "wikilink") | [宋克軍](../Page/宋克軍.md "wikilink") |- | '''惡龍 | [小杉十郎太](../Page/小杉十郎太.md "wikilink") | [孫中台](../Page/孫中台.md "wikilink") |- | '''貝爾梅爾 | [日高範子](../Page/日高範子.md "wikilink") | [詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink") |- | '''阿健 | [鹽屋浩三](../Page/鹽屋浩三.md "wikilink") | [符爽](../Page/符爽.md "wikilink") |- | '''虹子／莉莉 | [山崎和佳奈](../Page/山崎和佳奈.md "wikilink") | [劉如蘋](../Page/劉如蘋.md "wikilink") |- | **Dr.那克** |  | 孟慶府 |- | '''小八 | [森川智之](../Page/森川智之.md "wikilink") | [符爽](../Page/符爽.md "wikilink") |- | '''啾 | [小野坂昌也](../Page/小野坂昌也.md "wikilink") | 孟慶府 |- | '''克羅歐比 | [江川央生](../Page/江川央生.md "wikilink") | [宋克軍](../Page/宋克軍.md "wikilink") |- | '''約瑟夫 |  | [符爽](../Page/符爽.md "wikilink") |- | '''強尼 | [高塚正也](../Page/高塚正也.md "wikilink") | [宋克軍](../Page/宋克軍.md "wikilink") |- | '''老鼠 | [西脇保](../Page/西脇保.md "wikilink") | [宋克軍](../Page/宋克軍.md "wikilink") |- | '''克洛 | [橋本晃一](../Page/橋本晃一.md "wikilink") | [孫中台](../Page/孫中台.md "wikilink") |- | '''傑克斯 | [矢尾一樹](../Page/矢尾一樹.md "wikilink") | [符爽](../Page/符爽.md "wikilink") |- | '''山姆 | [小野坂昌也](../Page/小野坂昌也.md "wikilink") | [宋克軍](../Page/宋克軍.md "wikilink") |- | **布奇 | [高戶靖廣](../Page/高戶靖廣.md "wikilink") | [孫中台](../Page/孫中台.md "wikilink") |- |**[喬拉可爾·密佛格](../Page/喬拉可爾·密佛格.md "wikilink") | [掛川裕彦](https://zh.wikipedia.org/wiki/掛川裕彦 "wikilink") | [符爽](../Page/符爽.md "wikilink") |- | '''旁白 | [大場真人](../Page/大場真人.md "wikilink") | [孫中台](../Page/孫中台.md "wikilink") |- | '''魚人 | 服卷浩司
+\!rowspan="2" width=120|角色名稱 \!colspan="2" width=200|配音員 |- \!width=100| [日本](../Page/日本.md "wikilink") \!width=100| [台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink") |- | **[蒙其·D·魯夫](../Page/蒙其·D·魯夫.md "wikilink") | [田中真弓](../Page/田中真弓.md "wikilink") | [詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink") |- |**[羅羅亞·索隆](../Page/羅羅亞·索隆.md "wikilink") | [中井和哉](../Page/中井和哉.md "wikilink") | [宋克軍](../Page/宋克軍.md "wikilink") |- | '''[娜美](../Page/娜美.md "wikilink") | [岡村明美](../Page/岡村明美.md "wikilink") | [許淑嬪](../Page/許淑嬪.md "wikilink") |- | '''[騙人布](../Page/騙人布.md "wikilink") | [山口勝平](../Page/山口勝平.md "wikilink") | [符爽](../Page/符爽.md "wikilink") |- | '''[賓什莫克·香吉士](https://zh.wikipedia.org/wiki/賓什莫克·香吉士 "wikilink") | [平田廣明](../Page/平田廣明.md "wikilink") | [孫中台](../Page/孫中台.md "wikilink") |- | '''[多尼多尼·喬巴](../Page/多尼多尼·喬巴.md "wikilink") | [大谷育江](../Page/大谷育江.md "wikilink") | [詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink") |- | '''[妮可·羅賓](../Page/妮可·羅賓.md "wikilink") | [山口由里子](../Page/山口由里子.md "wikilink") | [許淑嬪](../Page/許淑嬪.md "wikilink") |- | '''[佛朗基](../Page/佛朗基.md "wikilink") | [矢尾一樹](../Page/矢尾一樹.md "wikilink") | [符爽](../Page/符爽.md "wikilink") |- | '''[布魯克](../Page/布魯克_\(ONE_PIECE\).md "wikilink") | [長](https://zh.wikipedia.org/wiki/長_\(日本配音員\) "wikilink") | [宋克軍](../Page/宋克軍.md "wikilink") |- | '''惡龍 | [小杉十郎太](../Page/小杉十郎太.md "wikilink") | [孫中台](../Page/孫中台.md "wikilink") |- | '''貝爾梅爾 | [日高範子](../Page/日高範子.md "wikilink") | [詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink") |- | '''阿健 | [鹽屋浩三](../Page/鹽屋浩三.md "wikilink") | [符爽](../Page/符爽.md "wikilink") |- | '''虹子／莉莉 | [山崎和佳奈](../Page/山崎和佳奈.md "wikilink") | [劉如蘋](../Page/劉如蘋.md "wikilink") |- | **Dr.那克** |  | 孟慶府 |- | '''小八 | [森川智之](../Page/森川智之.md "wikilink") | [符爽](../Page/符爽.md "wikilink") |- | '''啾 | [小野坂昌也](../Page/小野坂昌也.md "wikilink") | 孟慶府 |- | '''克羅歐比 | [江川央生](../Page/江川央生.md "wikilink") | [宋克軍](../Page/宋克軍.md "wikilink") |- | '''約瑟夫 |  | [符爽](../Page/符爽.md "wikilink") |- | '''強尼 | [高塚正也](../Page/高塚正也.md "wikilink") | [宋克軍](../Page/宋克軍.md "wikilink") |- | '''老鼠 | [西脇保](../Page/西脇保.md "wikilink") | [宋克軍](../Page/宋克軍.md "wikilink") |- | '''克洛 | [橋本晃一](../Page/橋本晃一.md "wikilink") | [孫中台](../Page/孫中台.md "wikilink") |- | '''傑克斯 | [矢尾一樹](../Page/矢尾一樹.md "wikilink") | [符爽](../Page/符爽.md "wikilink") |- | '''山姆 | [小野坂昌也](../Page/小野坂昌也.md "wikilink") | [宋克軍](../Page/宋克軍.md "wikilink") |- | **布奇 | [高戶靖廣](../Page/高戶靖廣.md "wikilink") | [孫中台](../Page/孫中台.md "wikilink") |- |**[喬拉可爾·密佛格](../Page/喬拉可爾·密佛格.md "wikilink") | [掛川裕彦](https://zh.wikipedia.org/wiki/掛川裕彦 "wikilink") | [符爽](../Page/符爽.md "wikilink") |- | '''旁白 | [大場真人](../Page/大場真人.md "wikilink") | [孫中台](../Page/孫中台.md "wikilink") |- | '''魚人 | 服卷浩司
 [増谷康紀](https://zh.wikipedia.org/wiki/増谷康紀 "wikilink")
 [三浦祥朗](../Page/三浦祥朗.md "wikilink")
 [宮崎寛務](https://zh.wikipedia.org/wiki/宮崎寛務 "wikilink")
@@ -259,36 +259,36 @@
 
 ### ~~3D~~2Y篇
 
-《**ONE PIECE -{“~~3D~~2Y”}- 跨越艾斯之死！ 魯夫與夥伴的誓言**》（）是電視動畫《[ONE PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》的特別節目，於2014年8月30日在日本[富士電視台](../Page/富士電視台.md "wikilink")播出。該2小時特別節目為慶祝本作《[ONE PIECE](../Page/ONE_PIECE.md "wikilink")》電視動畫已播映15周年\[4\]。為「週六PREMIUM」時段播出的《[ONE PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》電視特別篇第四彈。
+《**ONE PIECE -{“~~3D~~2Y”}- 跨越艾斯之死！ 魯夫與夥伴的誓言**》（）是電視動畫《[ONE PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》的特別節目，於2014年8月30日在日本[富士電視台](../Page/富士電視台.md "wikilink")播出。該2小時特別節目為慶祝本作《[ONE PIECE](../Page/ONE_PIECE.md "wikilink")》電視動畫已播映15周年\[4\]。為「週六PREMIUM」時段播出的《[ONE PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》電視特別篇第4彈。
 
-至於本作是原作與動畫未曾敘述過的故事為完全新作，劇情主要敘述魯夫在在暗號《3D2Y》中寄託的含義及「頂點戰爭」2年間霸氣的修行。
+至於本作是原作與動畫未曾敘述過的故事為完全新作，劇情主要敘述魯夫在在暗號《3D2Y》中寄託的含義及「頂點戰爭」兩年間向雷利學習霸氣的修行。
 
 ### 薩波特別篇
 
-《**ONE PIECE 薩波特別篇 〜3兄弟的羈絆 奇跡的再會和被繼承的意志〜**》（）是電視動畫《[ONE PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》的特別節目，於2015年8月22日在日本[富士電視台](../Page/富士電視台.md "wikilink")播出\[5\]。此外該片在電視播放完畢時發表製作新電影《[ONE PIECE FILM GOLD](../Page/ONE_PIECE_FILM_GOLD.md "wikilink")》。該2小時特別節目為「週六PREMIUM」時段播出的《[ONE PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》電視特別篇第五彈。
+《**ONE PIECE 薩波特別篇 〜3兄弟的羈絆 奇跡的再會和被繼承的意志〜**》（）是電視動畫《[ONE PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》的特別節目，於2015年8月22日在日本[富士電視台](../Page/富士電視台.md "wikilink")播出\[5\]。此外該片在電視播放完畢時發表製作新電影《[ONE PIECE FILM GOLD](../Page/ONE_PIECE_FILM_GOLD.md "wikilink")》。該2小時特別節目為「週六PREMIUM」時段播出的《[ONE PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》電視特別篇第5彈。
 
-至於本作是以主角[魯夫的義兄弟](https://zh.wikipedia.org/wiki/魯夫 "wikilink")[薩波為主要軸心人物](https://zh.wikipedia.org/wiki/薩波 "wikilink")，與魯夫、[艾斯的童年回憶為重新繪製的版本](https://zh.wikipedia.org/wiki/艾斯 "wikilink")，在劇情上與原作有一定區別，本作也有原作與動畫未曾敘述過的故事，劇情主要敘述以薩波的角度潛入[多雷斯羅薩](../Page/多雷斯羅薩.md "wikilink")的故事。
+至於本作是以主角[魯夫的義兄弟](https://zh.wikipedia.org/wiki/魯夫 "wikilink")[薩波為主要軸心人物](https://zh.wikipedia.org/wiki/薩波 "wikilink")，與魯夫、[波特卡斯·D·艾斯的童年回憶為重新繪製的版本](https://zh.wikipedia.org/wiki/波特卡斯·D·艾斯 "wikilink")，在劇情上與原作有一定區別，本作也有原作與動畫未曾敘述過的故事，劇情主要敘述以薩波的角度潛入[多雷斯羅薩](../Page/多雷斯羅薩.md "wikilink")的故事。
 
 ### 霧之島篇
 
 《**ONE PIECE特別篇 〜霧之島的冒險〜**》（）是電視動畫《[ONE PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》的特別節目，於2015年12月19日在日本播出。2016年1月31日在台灣首播。
 
   - 製作概要
-    該2小時特別節目為為「週六PREMIUM」時段播出的《[ONE PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》電視特別篇第六彈。
+    該2小時特別節目為為「週六PREMIUM」時段播出的《[ONE PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》電視特別篇第6彈。
     至於本作為完全新作，是原作與動畫未曾敘述過的故事，劇情主要敘述在新世界繼續冒險的草帽海賊團，接到再次回來弗克西海賊團的挑戰，與新角色「天才軍師」孔明在霧之島對抗。
       - 主題曲為「[Black Make Up](../Page/Red_Carpet.md "wikilink")」，由[安室奈美恵演唱](https://zh.wikipedia.org/wiki/安室奈美恵 "wikilink")\[6\]；作詞和作曲為Andreas Oberg、Sigurd Rosnes、XIN_G、TIGER。
 
 <!-- end list -->
 
   - 劇情簡介
-    在新世界冒險的草帽一行人，接到了曾經打敗的弗克西海賊團所下的「Davy Back Fight」復仇戰帖，同時弗克西海賊團也新加入了孔明、銅雀、關勝這三個手下作為作戰參謀。魯夫一如過往的不顧同伴的反對接受挑戰，不料卻落入新加入弗克西海賊團的作戰參謀「孔明」設下的陷阱，奪走了索隆和香吉士的力氣並將兩人擄走。一行人追在其後來到了「迷霧島」，危機四伏險象環生的這座島上，是座會受到海水產生的霧氣影響的「封印能力者之島」？
+    在新世界冒險的草帽小子一行人，接到了曾經打敗的弗克西海賊團所下的「Davy Back Fight」復仇戰帖，同時弗克西海賊團也新加入了孔明、銅雀、關勝這三個手下作為作戰參謀。魯夫一如過往的不顧同伴的反對接受挑戰，不料卻落入新加入弗克西海賊團的作戰參謀「孔明」設下的陷阱，奪走了索隆和香吉士的力氣並將兩人擄走。一行人追在其後來到了「迷霧島」，危機四伏險象環生的這座島上，是座會受到海水產生的霧氣影響的「封印能力者之島」？
 
 <!-- end list -->
 
   - 配音員列表
     {|class=wikitable align=center style="text-align:center; font-size:90%"
 
-\!rowspan="2" width=120|角色名稱 \!colspan="2" width=200|配音員 |- \!width=100| [日本](../Page/日本.md "wikilink") \!width=100| [台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink") |- | **[蒙其·D·魯夫](../Page/蒙其·D·魯夫.md "wikilink") | [田中真弓](../Page/田中真弓.md "wikilink") | [詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink") |- |**[羅羅亞·索隆](../Page/羅羅亞·索隆.md "wikilink") | [中井和哉](../Page/中井和哉.md "wikilink") | [宋克軍](../Page/宋克軍.md "wikilink") |- | '''[娜美](../Page/娜美.md "wikilink") | [岡村明美](../Page/岡村明美.md "wikilink") | [許淑嬪](../Page/許淑嬪.md "wikilink") |- | '''[騙人布](../Page/騙人布.md "wikilink") | [山口勝平](../Page/山口勝平.md "wikilink") | [符爽](../Page/符爽.md "wikilink") |- | '''[香吉士](https://zh.wikipedia.org/wiki/賓什莫克·香吉士 "wikilink") | [平田廣明](../Page/平田廣明.md "wikilink") | [孫中台](../Page/孫中台.md "wikilink") |- | '''[喬巴](../Page/多尼多尼·喬巴.md "wikilink") | [大谷育江](../Page/大谷育江.md "wikilink") | [詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink") |- | '''[羅賓](../Page/妮可·羅賓.md "wikilink") | [山口由里子](../Page/山口由里子.md "wikilink") | [許淑嬪](../Page/許淑嬪.md "wikilink") |- | '''[佛朗基](../Page/佛朗基.md "wikilink") | [矢尾一樹](../Page/矢尾一樹.md "wikilink") | [符爽](../Page/符爽.md "wikilink") |- | '''[布魯克](../Page/布魯克_\(ONE_PIECE\).md "wikilink") | [長](https://zh.wikipedia.org/wiki/長_\(日本配音員\) "wikilink") | [宋克軍](../Page/宋克軍.md "wikilink") |- | **弗克西** | [島田敏](../Page/島田敏.md "wikilink") | [孫中台](../Page/孫中台.md "wikilink") |- | **波琪** | [中山真-{奈}-美](../Page/中山真奈美.md "wikilink") | [許淑嬪](../Page/許淑嬪.md "wikilink") |- | **漢堡** | [掛川裕彥](../Page/掛川裕彥.md "wikilink") | [宋克軍](../Page/宋克軍.md "wikilink") |- | **卡柏帝** | [土田大](../Page/土田大.md "wikilink") | [符爽](../Page/符爽.md "wikilink") |- | **比格潘** | [大場真人](../Page/大場真人.md "wikilink") | [孫中台](../Page/孫中台.md "wikilink") |- | **皮克魯斯** | [龍谷修武](../Page/龍谷修武.md "wikilink") | [符爽](../Page/符爽.md "wikilink") |- | **香菇蛇** | [粗忽屋西神戶店](../Page/中井和哉.md "wikilink") | [孫中台](../Page/孫中台.md "wikilink") |- | **啾啾** | [粗忽屋](../Page/平田廣明.md "wikilink") | [錢欣郁](../Page/錢欣郁.md "wikilink") |- | **線蚯蚓** | [難波圭一](../Page/難波圭一.md "wikilink") | [宋克軍](../Page/宋克軍.md "wikilink") |- | **卡普** | [中博史](../Page/中博史.md "wikilink") | [孫中台](../Page/孫中台.md "wikilink") |- | **阿鶴** | [松島實](../Page/松島實.md "wikilink") | [錢欣郁](../Page/錢欣郁.md "wikilink") |- | **銅雀** |  | [李世揚](../Page/李世揚.md "wikilink") |- | **關勝** |  | [宋克軍](../Page/宋克軍.md "wikilink") |- | **孔明** |  | [符爽](../Page/符爽.md "wikilink") |}
+\!rowspan="2" width=120|角色名稱 \!colspan="2" width=200|配音員 |- \!width=100| [日本](../Page/日本.md "wikilink") \!width=100| [台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink") |- | **[蒙其·D·魯夫](../Page/蒙其·D·魯夫.md "wikilink") | [田中真弓](../Page/田中真弓.md "wikilink") | [詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink") |- |**[羅羅亞·索隆](../Page/羅羅亞·索隆.md "wikilink") | [中井和哉](../Page/中井和哉.md "wikilink") | [宋克軍](../Page/宋克軍.md "wikilink") |- | '''[娜美](../Page/娜美.md "wikilink") | [岡村明美](../Page/岡村明美.md "wikilink") | [許淑嬪](../Page/許淑嬪.md "wikilink") |- | '''[騙人布](../Page/騙人布.md "wikilink") | [山口勝平](../Page/山口勝平.md "wikilink") | [符爽](../Page/符爽.md "wikilink") |- | '''[賓什莫克·香吉士](https://zh.wikipedia.org/wiki/賓什莫克·香吉士 "wikilink") | [平田廣明](../Page/平田廣明.md "wikilink") | [孫中台](../Page/孫中台.md "wikilink") |- | '''[多尼多尼·喬巴](../Page/多尼多尼·喬巴.md "wikilink") | [大谷育江](../Page/大谷育江.md "wikilink") | [詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink") |- | '''[妮可·羅賓](../Page/妮可·羅賓.md "wikilink") | [山口由里子](../Page/山口由里子.md "wikilink") | [許淑嬪](../Page/許淑嬪.md "wikilink") |- | '''[佛朗基](../Page/佛朗基.md "wikilink") | [矢尾一樹](../Page/矢尾一樹.md "wikilink") | [符爽](../Page/符爽.md "wikilink") |- | '''[布魯克](../Page/布魯克_\(ONE_PIECE\).md "wikilink") | [長](https://zh.wikipedia.org/wiki/長_\(日本配音員\) "wikilink") | [宋克軍](../Page/宋克軍.md "wikilink") |- | **弗克西** | [島田敏](../Page/島田敏.md "wikilink") | [孫中台](../Page/孫中台.md "wikilink") |- | **波琪** | [中山真-{奈}-美](../Page/中山真奈美.md "wikilink") | [許淑嬪](../Page/許淑嬪.md "wikilink") |- | **漢堡** | [掛川裕彥](../Page/掛川裕彥.md "wikilink") | [宋克軍](../Page/宋克軍.md "wikilink") |- | **卡柏帝** | [土田大](../Page/土田大.md "wikilink") | [符爽](../Page/符爽.md "wikilink") |- | **比格潘** | [大場真人](../Page/大場真人.md "wikilink") | [孫中台](../Page/孫中台.md "wikilink") |- | **皮克魯斯** | [龍谷修武](../Page/龍谷修武.md "wikilink") | [符爽](../Page/符爽.md "wikilink") |- | **香菇蛇** | [粗忽屋西神戶店](../Page/中井和哉.md "wikilink") | [孫中台](../Page/孫中台.md "wikilink") |- | **啾啾** | [粗忽屋](../Page/平田廣明.md "wikilink") | [錢欣郁](../Page/錢欣郁.md "wikilink") |- | **線蚯蚓** | [難波圭一](../Page/難波圭一.md "wikilink") | [宋克軍](../Page/宋克軍.md "wikilink") |- | **卡普** | [中博史](../Page/中博史.md "wikilink") | [孫中台](../Page/孫中台.md "wikilink") |- | **阿鶴** | [松島實](../Page/松島實.md "wikilink") | [錢欣郁](../Page/錢欣郁.md "wikilink") |- | **銅雀** |  | [李世揚](../Page/李世揚.md "wikilink") |- | **關勝** |  | [宋克軍](../Page/宋克軍.md "wikilink") |- | **孔明** |  | [符爽](../Page/符爽.md "wikilink") |}
 
 ### 黃金之心篇
 
@@ -308,28 +308,28 @@
 <!-- end list -->
 
   - 劇情簡介
-    六歲的魯夫在佛夏村遇見了紅髮傑克，魯夫一心嚮往成為海賊，於是一再要求傑克帶他一同出海，但傑克遲遲未答應，直到某天魯夫誤食橡膠果實，又被前來找碴的山賊丟下海，導致趕來救他的傑克被海王類咬斷了左臂……。
-    為了實現與青梅竹馬克伊娜的約定，成為世界第一劍豪，索隆答應魯夫的要求，出海當海賊……。
-    說謊成性的騙人布總是騙村民說海賊來了，豈料有一天海賊真的來了，並設下陷阱企圖毀滅村子，所幸得到魯夫等人的幫助，而他也在並肩作戰後成為他們的夥伴……。
-    香吉士因為和哲普有著共同的夢想——尋找all blue，於是從小就在哲普手下擔任廚師，經過一番波折，哲普看到了魯夫堅定的信念，遂建議香吉士隨魯夫一同離開……。
-    娜美從小就被海兵貝爾梅爾收養，並且夢想要繪製出自己親眼所見的世界地圖。不料她的天份卻被作惡多端的惡龍海賊團船長惡龍看上……。
+    6歲的魯夫在佛夏村遇見了海賊「紅髮」傑克，魯夫一心嚮往成為海賊，於是一再要求傑克帶他一同出海，但傑克遲遲未答應，直到某天魯夫誤食橡膠果實，又被前來找碴的山賊丟下海，導致趕來救他的傑克被海王類咬斷了左臂。
+    為了實現與青梅竹馬克伊娜的約定，成為世界第一劍豪，索隆答應魯夫的要求，出海當海賊。
+    說謊成性的騙人布總是騙村民說海賊來了，豈料有一天海賊真的來了，並設下陷阱企圖毀滅村子，所幸得到魯夫等人的幫助，而他也在並肩作戰後成為他們的夥伴。
+    香吉士因為和哲普有著共同的夢想，尋找蔚藍海域「All Blue」，於是從小就在哲普手下擔任廚師，經過一番波折，哲普看到了魯夫堅定的信念，遂建議香吉士隨魯夫一同離開。
+    娜美從小就被海兵貝爾梅爾收養，並且夢想要繪製出自己親眼所見的世界地圖。不料她的繪畫地圖的天份卻被作惡多端的惡龍海賊團船長惡龍看上。
 
 <!-- end list -->
 
   - 配音員列表
     {|class=wikitable align=center style="text-align:center; font-size:90%"
 
-|+ 5人的草帽海賊團 \!rowspan="2" width=120|角色名稱 \!colspan="2" width=200|配音員 |- \!width=100| [日本](../Page/日本.md "wikilink") \!width=100| [台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink") |- | '''[魯夫](../Page/蒙其·D·魯夫.md "wikilink") | [田中真弓](../Page/田中真弓.md "wikilink") | [詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink") |- | '''[索隆](../Page/羅羅亞·索隆.md "wikilink") | [中井和哉](../Page/中井和哉.md "wikilink") | [宋克軍](../Page/宋克軍.md "wikilink") |- | '''[騙人布](../Page/騙人布.md "wikilink") | [山口勝平](../Page/山口勝平.md "wikilink") | [符爽](../Page/符爽.md "wikilink") |- | '''[香吉士](https://zh.wikipedia.org/wiki/賓什莫克·香吉士 "wikilink") | [平田廣明](../Page/平田廣明.md "wikilink") | [孫中台](../Page/孫中台.md "wikilink") |- | '''[娜美](../Page/娜美.md "wikilink") | [岡村明美](../Page/岡村明美.md "wikilink") | [許淑嬪](../Page/許淑嬪.md "wikilink") |}
+|+ 5人的草帽海賊團 \!rowspan="2" width=120|角色名稱 \!colspan="2" width=200|配音員 |- \!width=100| [日本](../Page/日本.md "wikilink") \!width=100| [台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink") |- | '''[蒙其·D·魯夫](../Page/蒙其·D·魯夫.md "wikilink") | [田中真弓](../Page/田中真弓.md "wikilink") | [詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink") |- | '''[羅羅亞·索隆](../Page/羅羅亞·索隆.md "wikilink") | [中井和哉](../Page/中井和哉.md "wikilink") | [宋克軍](../Page/宋克軍.md "wikilink") |- | '''[騙人布](../Page/騙人布.md "wikilink") | [山口勝平](../Page/山口勝平.md "wikilink") | [符爽](../Page/符爽.md "wikilink") |- | '''[賓什莫克·香吉士](https://zh.wikipedia.org/wiki/賓什莫克·香吉士 "wikilink") | [平田廣明](../Page/平田廣明.md "wikilink") | [孫中台](../Page/孫中台.md "wikilink") |- | '''[娜美](../Page/娜美.md "wikilink") | [岡村明美](../Page/岡村明美.md "wikilink") | [許淑嬪](../Page/許淑嬪.md "wikilink") |}
 
   -
     {|class=wikitable align=center style="text-align:center; font-size:90%"
 
-|+ 魯夫篇 \!rowspan="2" width=120|角色名稱 \!colspan="2" width=200|配音員 |- \!width=100| [日本](../Page/日本.md "wikilink") \!width=100| [台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink") |- | '''[傑克](https://zh.wikipedia.org/wiki/「紅髮」傑克 "wikilink") | [池田秀一](../Page/池田秀一.md "wikilink") | [符爽](../Page/符爽.md "wikilink") |- | '''西格 | [岸野幸正](../Page/岸野幸正.md "wikilink") | 孟慶府 |- | '''斑·貝克曼 |  | [孫中台](../Page/孫中台.md "wikilink") |- | '''耶穌布 | [小林通孝](../Page/小林通孝.md "wikilink") | [宋克軍](../Page/宋克軍.md "wikilink") |- | '''拉奇·魯 | [土門仁](https://zh.wikipedia.org/wiki/土門仁 "wikilink") | [孫中台](../Page/孫中台.md "wikilink") |- | '''瑪姬 | [大本眞基子](https://zh.wikipedia.org/wiki/大本眞基子 "wikilink") | [許淑嬪](../Page/許淑嬪.md "wikilink") |- | '''村長 | [園部啓一](https://zh.wikipedia.org/wiki/園部啓一 "wikilink") | [孫中台](../Page/孫中台.md "wikilink") |- | '''旁白 | [大場真人](../Page/大場真人.md "wikilink") | [孫中台](../Page/孫中台.md "wikilink") |}
+|+ 魯夫篇 \!rowspan="2" width=120|角色名稱 \!colspan="2" width=200|配音員 |- \!width=100| [日本](../Page/日本.md "wikilink") \!width=100| [台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink") |- | '''[「紅髮」傑克](https://zh.wikipedia.org/wiki/「紅髮」傑克 "wikilink") | [池田秀一](../Page/池田秀一.md "wikilink") | [符爽](../Page/符爽.md "wikilink") |- | '''西格 | [岸野幸正](../Page/岸野幸正.md "wikilink") | 孟慶府 |- | '''斑·貝克曼 |  | [孫中台](../Page/孫中台.md "wikilink") |- | '''耶穌布 | [小林通孝](../Page/小林通孝.md "wikilink") | [宋克軍](../Page/宋克軍.md "wikilink") |- | '''拉奇·魯 | [土門仁](https://zh.wikipedia.org/wiki/土門仁 "wikilink") | [孫中台](../Page/孫中台.md "wikilink") |- | '''瑪姬 | [大本眞基子](https://zh.wikipedia.org/wiki/大本眞基子 "wikilink") | [許淑嬪](../Page/許淑嬪.md "wikilink") |- | '''村長 | [園部啓一](https://zh.wikipedia.org/wiki/園部啓一 "wikilink") | [孫中台](../Page/孫中台.md "wikilink") |- | '''旁白 | [大場真人](../Page/大場真人.md "wikilink") | [孫中台](../Page/孫中台.md "wikilink") |}
 
   -
     {|class=wikitable align=center style="text-align:center; font-size:90%"
 
-|+ 索隆篇 \!rowspan="2" width=120|角色名稱 \!colspan="2" width=200|配音員 |- \!width=100| [日本](../Page/日本.md "wikilink") \!width=100| [台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink") |- | '''克伊娜 | [豐嶋真千子](../Page/豐嶋真千子.md "wikilink") | [許淑嬪](../Page/許淑嬪.md "wikilink") |- | '''蒙卡 | [銀河萬丈](../Page/銀河萬丈.md "wikilink") | 孟慶府 |- | '''[鷹眼](../Page/喬拉可爾·密佛格.md "wikilink") | [掛川裕彥](../Page/掛川裕彥.md "wikilink") | [符爽](../Page/符爽.md "wikilink") |- | '''克比 | [土井美加](../Page/土井美加.md "wikilink") | [許淑嬪](../Page/許淑嬪.md "wikilink") |- | '''貝魯梅伯 | [永野廣一](https://zh.wikipedia.org/wiki/永野廣一 "wikilink") | [符爽](../Page/符爽.md "wikilink") |- | '''莉佳 | [宇和川惠美](../Page/宇和川惠美.md "wikilink") | [許淑嬪](../Page/許淑嬪.md "wikilink") |- | '''耕四郎 | [石塚運昇](../Page/石塚運昇.md "wikilink") | [符爽](../Page/符爽.md "wikilink") |- | '''索隆(童年) | [浦和惠](../Page/浦和惠.md "wikilink") | [詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink") |- | '''約瑟夫
+|+ 索隆篇 \!rowspan="2" width=120|角色名稱 \!colspan="2" width=200|配音員 |- \!width=100| [日本](../Page/日本.md "wikilink") \!width=100| [台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink") |- | '''克伊娜 | [豐嶋真千子](../Page/豐嶋真千子.md "wikilink") | [許淑嬪](../Page/許淑嬪.md "wikilink") |- | '''蒙卡 | [銀河萬丈](../Page/銀河萬丈.md "wikilink") | 孟慶府 |- | '''[喬拉可爾·密佛格](../Page/喬拉可爾·密佛格.md "wikilink") | [掛川裕彥](../Page/掛川裕彥.md "wikilink") | [符爽](../Page/符爽.md "wikilink") |- | '''克比 | [土井美加](../Page/土井美加.md "wikilink") | [許淑嬪](../Page/許淑嬪.md "wikilink") |- | '''貝魯梅伯 | [永野廣一](https://zh.wikipedia.org/wiki/永野廣一 "wikilink") | [符爽](../Page/符爽.md "wikilink") |- | '''莉佳 | [宇和川惠美](../Page/宇和川惠美.md "wikilink") | [許淑嬪](../Page/許淑嬪.md "wikilink") |- | '''耕四郎 | [石塚運昇](../Page/石塚運昇.md "wikilink") | [符爽](../Page/符爽.md "wikilink") |- | '''索隆(童年) | [浦和惠](../Page/浦和惠.md "wikilink") | [詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink") |- | '''約瑟夫
 強尼 |
 [高塚正也](../Page/高塚正也.md "wikilink") | [孫中台](../Page/孫中台.md "wikilink")
 孟慶府 |}
@@ -355,7 +355,7 @@
 
 《**ONE PIECE 空島特別篇**》（）是電視動畫《[ONE PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》的特別節目，於2018年8月25日在日本播出\[8\]。
 
-該2小時特別節目以原著的著名篇章所重新繪製的版本接續製作，本作挑選的原作著名篇章為「空島篇」重新繪製成這套特別篇，在劇情上與原作有一定區別。為「週六PREMIUM」時段播出的《[ONE PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》電視特別篇第九彈。
+該兩小時特別節目以原著的著名篇章所重新繪製的版本接續製作，本作挑選的原作著名篇章為「空島篇」重新繪製成這套特別篇，在劇情上與原作有一定區別。為「週六PREMIUM」時段播出的《[ONE PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》電視特別篇第九彈。
 
 本作主題曲為「[Hope](../Page/Finally.md "wikilink")」，同時也是電視動畫版的第20首片頭曲，由[安室奈美惠](../Page/安室奈美惠.md "wikilink")演唱。
 

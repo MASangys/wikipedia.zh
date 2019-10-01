@@ -326,18 +326,28 @@ Repackage</p></td>
 <td><p>11</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/WE_BOOM" title="wikilink">WE BOOM</a></p></td>
+<td><ul>
+<li>發行日期：2019年7月25日</li>
+<li>廠牌：SM娛樂、Genie音樂</li>
+<li>格式：CD、數位音樂下載</li>
+</ul></td>
+<td><p>3</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>華語</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>WayV</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>The Vision</p></td>
 <td><ul>
 <li>發行日期：2019年1月19日</li>
@@ -347,7 +357,7 @@ Repackage</p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Take Off</p></td>
 <td><ul>
 <li>發行日期：2019年5月9日</li>
@@ -357,7 +367,7 @@ Repackage</p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><small>"—" 表示該專輯/單曲未有在榜上排名或未有資料或沒有在當地發行</small></p></td>
 <td></td>
 <td></td>
@@ -600,7 +610,32 @@ World</a><br />
 </tbody>
 </table>
 
-### [SM STATION歌曲](../Page/SM_STATION.md "wikilink")
+## DVD / Blu-ray
+
+<table>
+<thead>
+<tr class="header">
+<th><p>#</p></th>
+<th><p>唱片資料</p></th>
+<th><p>收錄歌曲</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1st</p></td>
+<td><p>《<strong>NCT 127 1st Tour "NEO CITY: JAPAN - The Origin"</strong>》 [1]</p>
+<ul>
+<li>發行日期：2019年6月26日</li>
+<li>語言：韓語、日語</li>
+<li>發行公司：Avex Marketing</li>
+<li>版本：DVD通常盤、DVD初回限定盤、Blu-ray通常盤、Blu-ray初回限定盤</li>
+</ul></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+## SM STATION歌曲
 
 <table>
 <thead>
@@ -849,7 +884,7 @@ Drama X</p></td>
 <td><p>9月7日</p></td>
 <td><p>網路電影</p></td>
 <td><p>《獨孤Rewind》</p></td>
-<td><p>New Dream[1]</p></td>
+<td><p>New Dream[2]</p></td>
 <td><p>泰一、在玹</p></td>
 <td></td>
 <td></td>
@@ -1056,6 +1091,37 @@ Drama X</p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>3月15日</p></td>
+<td><p>Trigger The Fever</p></td>
+<td><p><a href="../Page/2017年國際足協U-20世界盃.md" title="wikilink">FIFA U-20 世界盃 KOREA 2017</a> 主题曲</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>3月31日</p></td>
+<td><p>두고가（Drop）</p></td>
+<td><p>Mark<br />
+<small>feat. <a href="../Page/瑟琪.md" title="wikilink">Seulgi</a>（<a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a>）</p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a>《<a href="../Page/高等Rapper.md" title="wikilink">高等Rapper</a>》決賽曲</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>5月12日</p></td>
+<td><p>Around</p></td>
+<td><p>泰容 X Hitchhiker</p></td>
+<td><p><a href="../Page/SM_STATION.md" title="wikilink">SM STATION第二季</a></p></td>
+<td><p>泰容</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>6月14日</p></td>
 <td><p>Cherry Bomb</p></td>
 <td><p>NCT 127</p></td>
@@ -1065,7 +1131,7 @@ Drama X</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Running 2 U</p></td>
 <td></td>
 <td></td>
@@ -1075,7 +1141,7 @@ Drama X</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>0 Mile</p></td>
 <td></td>
 <td></td>
@@ -1085,7 +1151,7 @@ Drama X</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Whiplash</p></td>
 <td></td>
 <td></td>
@@ -1095,7 +1161,7 @@ Drama X</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Summer 127</p></td>
 <td></td>
 <td></td>
@@ -1105,7 +1171,7 @@ Drama X</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Cherry Bomb（Performance ver.）</p></td>
 <td></td>
 <td></td>
@@ -1115,27 +1181,48 @@ Drama X</p></td>
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>7月7日</p></td>
+<td><p>Young &amp; Free</p></td>
+<td><p><a href="../Page/Xiumin.md" title="wikilink">Xiumin</a>（<a href="../Page/EXO.md" title="wikilink">EXO</a>）X Mark</p></td>
+<td><p><a href="../Page/SM_STATION.md" title="wikilink">SM STATION第二季</a></p></td>
+<td><p>Mark</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 <tr class="even">
-<td><p>3月15日</p></td>
-<td><p>Trigger The Fever</p></td>
+<td><p>7月21日</p></td>
+<td><p>Lemonade Love</p></td>
+<td><p>Mark、朴宰正</p></td>
+<td><p>綜藝《<a href="https://zh.wikipedia.org/wiki/雪球計劃" title="wikilink">雪球計劃</a>》第一階段合作曲<br />
+<a href="../Page/SM_STATION.md" title="wikilink">SM STATION第二季</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>8月5日</p></td>
+<td><p>Cure</p></td>
+<td><p>泰容 X <a href="../Page/劉英振.md" title="wikilink">劉英振</a></p></td>
+<td><p><a href="../Page/SM_STATION.md" title="wikilink">SM STATION第二季</a></p></td>
+<td><p>泰容</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>8月17日</p></td>
+<td><p>La La Love</p></td>
 <td><p>NCT Dream</p></td>
-<td><p><a href="../Page/2017年國際足協U-20世界盃.md" title="wikilink">FIFA U-20 世界盃 KOREA 2017</a> 主题曲</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/We_Young" title="wikilink">We Young</a>》</p></td>
 <td><p>Mark</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>8月17日</p></td>
-<td><p>La La Love</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/We_Young" title="wikilink">We Young</a>》</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>같은 시간 같은 자리（Walk You Home）</p></td>
 <td></td>
 <td></td>
@@ -1145,7 +1232,7 @@ Drama X</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>My Page</p></td>
 <td></td>
 <td></td>
@@ -1155,7 +1242,7 @@ Drama X</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Trigger the Fever（Bonus Track）</p></td>
 <td></td>
 <td></td>
@@ -1165,7 +1252,7 @@ Drama X</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2018年</p></td>
 <td><p>3月14日</p></td>
 <td><p>BOSS</p></td>
@@ -1175,7 +1262,7 @@ Drama X</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Baby Don't Stop</p></td>
 <td><p>泰容</p></td>
 <td></td>
@@ -1185,7 +1272,7 @@ Drama X</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Go</p></td>
 <td><p>NCT Dream</p></td>
 <td><p>Mark</p></td>
@@ -1195,7 +1282,7 @@ Drama X</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>YESTODAY</p></td>
 <td><p>NCT U</p></td>
 <td><p>泰容、Mark</p></td>
@@ -1205,9 +1292,19 @@ Drama X</p></td>
 <td></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>YESTODAY（Extended Ver.）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 <tr class="odd">
 <td><p>Black On Black</p></td>
-<td><p>NCT</p></td>
+<td><p>NCT 2018</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1338,16 +1435,27 @@ Drama X</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>12月27日</p></td>
-<td><p>사랑한단 뜻이야（Candle Light）</p></td>
-<td><p>NCT Dream</p></td>
-<td><p><a href="../Page/SM_STATION.md" title="wikilink">SM STATION</a> S3</p></td>
-<td><p>Mark</p></td>
+<td><p>12月26日</p></td>
+<td><p>City Lights</p></td>
+<td><p><a href="../Page/鄭允浩.md" title="wikilink">允浩</a>（<a href="../Page/東方神起.md" title="wikilink">東方神起</a>）<br />
+feat. 泰容<small></p></td>
+<td><p>《》</p></td>
+<td><p>泰容</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>12月27日</p></td>
+<td><p>사랑한단 뜻이야（Candle Light）</p></td>
+<td><p>NCT Dream</p></td>
+<td><p><a href="../Page/SM_STATION.md" title="wikilink">SM STATION第三季</a></p></td>
+<td><p>Mark</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>2019年</p></td>
 <td><p>4月17日</p></td>
 <td><p>Lips</p></td>
@@ -1357,7 +1465,7 @@ Drama X</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>5月24日</p></td>
 <td><p>시차（Jet Lag）</p></td>
 <td><p>《》</p></td>
@@ -1367,17 +1475,17 @@ Drama X</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>7月18日</p></td>
 <td><p>Long Flight</p></td>
 <td><p>泰容</p></td>
-<td><p><a href="../Page/SM_STATION.md" title="wikilink">SM STATION</a> S3</p></td>
+<td><p><a href="../Page/SM_STATION.md" title="wikilink">SM STATION第三季</a></p></td>
 <td><p>泰容</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>7月26日</p></td>
 <td><p>119</p></td>
 <td><p>NCT Dream</p></td>
@@ -1387,7 +1495,7 @@ Drama X</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>사랑이 좀 어려워（Bye My First...）</p></td>
 <td><p>Jeno、渽民、志晟</p></td>
 <td></td>
@@ -1397,7 +1505,7 @@ Drama X</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Best Friend</p></td>
 <td></td>
 <td></td>
@@ -1407,7 +1515,7 @@ Drama X</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Dream Run</p></td>
 <td><p>Jeno</p></td>
 <td></td>
@@ -1436,3 +1544,4 @@ Drama X</p></td>
 [Category:NCT](https://zh.wikipedia.org/wiki/Category:NCT "wikilink") [Category:韓國音樂作品列表](https://zh.wikipedia.org/wiki/Category:韓國音樂作品列表 "wikilink") [Category:流行樂團音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行樂團音樂作品列表 "wikilink")
 
 1.
+2.

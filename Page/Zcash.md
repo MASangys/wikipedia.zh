@@ -1,4 +1,4 @@
-**Zcash**是一種[去中心化](https://zh.wikipedia.org/wiki/去中心化 "wikilink")、[开源的](https://zh.wikipedia.org/wiki/开源 "wikilink")[加密](https://zh.wikipedia.org/wiki/加密 "wikilink")[互联网](../Page/互联网.md "wikilink")[货币](https://zh.wikipedia.org/wiki/货币 "wikilink")。与[比特币](../Page/比特币.md "wikilink")相比，其更注重于隐私\[1\]\[2\]，以及对交易透明的可控性\[3\]\[4\]。具体体现为：公有[区块链](../Page/区块链.md "wikilink")加密了交易记录中的发送人、接收人、交易量；用户可裁量选择是否向其他人提供查看[密钥](../Page/密钥.md "wikilink")，仅拥有此密钥的人才能看到交易的内容\[5\]。
+**Zcash**是一種[去中心化](https://zh.wikipedia.org/wiki/去中心化 "wikilink")、[开源的](https://zh.wikipedia.org/wiki/开源 "wikilink")[加密](../Page/加密.md "wikilink")[互联网](../Page/互联网.md "wikilink")[货币](https://zh.wikipedia.org/wiki/货币 "wikilink")。与[比特币](../Page/比特币.md "wikilink")相比，其更注重于隐私\[1\]\[2\]，以及对交易透明的可控性\[3\]\[4\]。具体体现为：公有[区块链](../Page/区块链.md "wikilink")加密了交易记录中的发送人、接收人、交易量；用户可裁量选择是否向其他人提供查看[密钥](../Page/密钥.md "wikilink")，仅拥有此密钥的人才能看到交易的内容\[5\]。
 
 ## 历史
 

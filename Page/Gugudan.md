@@ -102,10 +102,13 @@
 <td><p><strong>已退出成員</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/黃智雯.md" title="wikilink">MANDY</a></p></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td></td>
+<td><p><strong>已退出一天成員</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/黃智雯.md" title="wikilink">MANDY</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -221,6 +224,12 @@ LineData =
   -
 **gu9udan個人**
 
+  -
+  -
+  -
+  -
+  -
+  -
   -
 [Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2016年韓國建立](https://zh.wikipedia.org/wiki/Category:2016年韓國建立 "wikilink")
 

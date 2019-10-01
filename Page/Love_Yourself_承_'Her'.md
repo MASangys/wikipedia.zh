@@ -303,7 +303,7 @@
 <tbody>
 <tr class="odd">
 <td><p>韓國</p></td>
-<td><p>1,864,970+<ref>《Love Yourself 承 'Her'》韓國唱片銷量統計：</p>
+<td><p>2,067,858+<ref>《Love Yourself 承 'Her'》韓國唱片銷量統計：</p>
 <ul>
 <li></li>
 <li><p></ref></p></li>

@@ -2,7 +2,7 @@
 
 ## 假面騎士
 
-****（[犬飼貴丈](../Page/犬飼貴丈.md "wikilink")飾；香港配音：[張振熙](../Page/張振熙.md "wikilink")；台灣配音：[鈕凱暘](../Page/鈕凱暘.md "wikilink")（本篇、冬季電影版））
+****（[犬飼貴丈](../Page/犬飼貴丈.md "wikilink")飾；香港配音：[張振熙](../Page/張振熙.md "wikilink")；台灣配音：[鈕凱暘](../Page/鈕凱暘.md "wikilink")（本篇、冬季電影版）；大陆配音：[郝祥海](https://zh.wikipedia.org/wiki/郝祥海 "wikilink")）
 
   -
     **假面騎士Build**、**假面騎士Evol（被艾博魯特附身時）** 的變身者，26歲。
@@ -57,7 +57,7 @@
     口頭禪是「來吧！實驗要開始了！」和「勝利的法則，決定了！」，經常會説出「糟透了！」和「太棒了！」，當作出新發明而向他人炫耀時會抱著發明說「很厲害吧？最棒了吧？我是天才吧？」\[19\]，轉換形態的口頭禪是「Build Up！」。
     於《[假面騎士ZI-O](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")》第1話-第2話登場。
 
-****（[赤楚衛二](https://zh.wikipedia.org/wiki/赤楚衛二 "wikilink")\[20\]飾 ；香港配音：[嚴鎮華](../Page/嚴鎮華.md "wikilink")；台灣配音：[孟慶府](https://zh.wikipedia.org/wiki/孟慶府 "wikilink")（本篇、冬季電影版））
+****（[赤楚衛二](https://zh.wikipedia.org/wiki/赤楚衛二 "wikilink")\[20\]飾 ；香港配音：[嚴鎮華](../Page/嚴鎮華.md "wikilink")；台灣配音：[孟慶府](https://zh.wikipedia.org/wiki/孟慶府 "wikilink")（本篇、冬季電影版）；大陆配音：[曹云图](https://zh.wikipedia.org/wiki/曹云图 "wikilink")）
 
   -
     **假面騎士Cross-Z**、**假面騎士Evol（被艾博魯特附身時）** 的變身者，23歲。
@@ -101,7 +101,7 @@
     口頭禪是「現在的我，是不會輸的！」以及「力量在沸腾，灵魂在燃烧，我的熔岩在喷涌而出！我势不可挡！」。
     於《[假面騎士ZI-O](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")》第1話-第2話登場。
 
-****（[武田航平](https://zh.wikipedia.org/wiki/武田航平 "wikilink")\[34\]飾；香港配音：[梁皓翔](../Page/梁皓翔.md "wikilink")）
+****（[武田航平](https://zh.wikipedia.org/wiki/武田航平 "wikilink")\[34\]飾；香港配音：[梁皓翔](../Page/梁皓翔.md "wikilink")；大陆配音：[郭盛](https://zh.wikipedia.org/wiki/郭盛 "wikilink")）
 
   -
     **假面騎士Grease（港譯: 古列斯）** 的變身者，29歲，7月17日生\[35\]，軍屬編號「907101080」\[36\]，AB血型，暱稱「海海（カズミン）\[37\]」。
@@ -118,7 +118,7 @@
     代表戰後透過接到電話的戰兔得知北都遭到西都佔領，隨後與戰兔等人在東都首相府時得知三羽鴉的家人好友被挾持而黃羽獨自去救人卻被俘虜，在戰兔無法正面進入北都的情況下與赤羽一同去救人，但後在鷲尾兄弟的攻擊下敗北而黃羽也為保護自己犧牲性命。
     在東都與西都的代表戰中，作為第一位選手出戰，起先被Engine Bros 的力量壓制住，但後因心中懷抱對已逝的三羽鴉的深刻友情而擊潰Engine Bros 獲得第一場勝利。其後在紗羽的電話告知下暗中前往被囚禁的鍋島一家所在處救人，之後回到代表戰現場時看見龍我及美空因興奮而握起手時對龍我不爽。
     第29話在得知西都不願歸還北都的情況下憤而打算獨自回到北都親自奪回，但在龍我及戰兔的勸阻下放棄並與兩人並肩作戰停止戰爭。
-    第30話與戰兔和龍我一同殺入潘朵拉之塔内，在里面與鷲尾兄弟和幾個堅甲保伟者一戰中，不慎被里面的機關打得落花流水。
+    第30話與戰兔和龍我一同殺入潘朵拉之塔内，在里面與鷲尾兄弟和幾個堅甲保衛者一戰中，不慎被里面的機關打得落花流水。
     第31話重返潘朵拉之塔後，更一度被血逐擊傷至昏倒。
     第37話與幻德和龍我一同使出三連踢，將艾博魯特擊倒，岂料竟讓他成功進化成完全體。
     第39話在幻德被内海所變身的Mad Rogue 擊倒而立马拿出星雲蒸氣槍放出烟雾然后撤退。
@@ -133,7 +133,7 @@
     似乎同龍我都能以意志力提升危險等級，在戰鬥中一旦情緒激昂起來就會變得越發強大。
     口頭禪是「我要燃燒心火，將你擊潰！」，變身後的口頭禪為「假面騎士Grease ，拜見！」。
 
-****（[水上劍星飾](https://zh.wikipedia.org/wiki/水上劍星 "wikilink")；香港配音：[陳健豪](../Page/陳健豪.md "wikilink")；台灣配音：[陳彥鈞](../Page/陳彥鈞.md "wikilink")）
+****（[水上劍星飾](https://zh.wikipedia.org/wiki/水上劍星 "wikilink")；香港配音：[陳健豪](../Page/陳健豪.md "wikilink")；台灣配音：[陳彥鈞](../Page/陳彥鈞.md "wikilink")；大陆配音：[刘琮](https://zh.wikipedia.org/wiki/刘琮 "wikilink")）
 
   -
     **夜霸（港譯: 暗黑騎士）**、**假面騎士Rogue（港譯: 洛古）**的變身者，35歲。
@@ -184,7 +184,7 @@
     曾持有「火箭（Rocket）」滿裝瓶，後因血逐而落入戰兔手上。
     變身成夜霸的口號是「蒸血」\[60\]（日語原文為「蒸血」）。
 
-****（[越智友己](https://zh.wikipedia.org/wiki/越智友己 "wikilink")、[大竹優青](https://zh.wikipedia.org/wiki/大竹優青 "wikilink")（童年期）飾；香港配音：[陳成港](../Page/陳成港.md "wikilink")）
+****（[越智友己](https://zh.wikipedia.org/wiki/越智友己 "wikilink")、[大竹優青](https://zh.wikipedia.org/wiki/大竹優青 "wikilink")（童年期）飾；香港配音：[陳成港](../Page/陳成港.md "wikilink")；大陆配音：[胡霖](../Page/胡霖.md "wikilink")）
 
   -
     **夜霸（港譯: 暗黑騎士）**、**Hell Bros**、**假面騎士Mad Rogue**的變身者，27歲。
@@ -248,7 +248,7 @@
     第45話最终向戰兔等人透露了自己的计划——「利用超越一切物理法则的现象創立新世界」，正因如此为了人类才會向艾博魯特诈降，以便趁机反击，结果遭到毒殺至倒在其子戰兔的怀里，再道出遗言後便彻底消散。
     與《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》的園咲琉兵衛、《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》的笛木奏、《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》的蠻野天十郎、《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》的檀正宗等皆為父親類型的反派角色。如果進一步分類的話，他屬於為了拯救他人而無奈地成為反派的父親角色類型。
 
-****（[前川泰之飾](https://zh.wikipedia.org/wiki/前川泰之 "wikilink")；香港配音：[袁德基](../Page/袁德基.md "wikilink")）
+****（[前川泰之飾](https://zh.wikipedia.org/wiki/前川泰之 "wikilink")；香港配音：[袁德基](../Page/袁德基.md "wikilink")；大陆配音：[陈思宇](https://zh.wikipedia.org/wiki/陈思宇 "wikilink")）
 
   -
     **血逐** 、**假面騎士Evol**（被艾博魯特附身時）的變身者，48歲。
@@ -362,7 +362,7 @@
 
 ### 東都先端物質學研究所
 
-****（[本庄司飾](https://zh.wikipedia.org/wiki/本庄司 "wikilink")）
+****（[本庄司飾](https://zh.wikipedia.org/wiki/本庄司 "wikilink")；大陆配音：[林帽帽](https://zh.wikipedia.org/wiki/林帽帽 "wikilink"))
 
   -
     東都先端物質學研究所旗下其中一名研究員。
@@ -412,7 +412,7 @@
 
 ****（前川泰之飾）
 
-****（[高田夏帆](https://zh.wikipedia.org/wiki/高田夏帆 "wikilink")\[102\]、[森山乃繪留](https://zh.wikipedia.org/wiki/森山乃繪留 "wikilink")\[103\]（童年期）飾；香港配音：[駱慧怡](../Page/駱慧怡.md "wikilink")；台灣配音：[連婉鈞](https://zh.wikipedia.org/wiki/連婉鈞 "wikilink")（本篇）、[劉如蘋](../Page/劉如蘋.md "wikilink")（冬季電影版））
+****（[高田夏帆](https://zh.wikipedia.org/wiki/高田夏帆 "wikilink")\[102\]、[森山乃繪留](https://zh.wikipedia.org/wiki/森山乃繪留 "wikilink")\[103\]（童年期）飾；香港配音：[駱慧怡](../Page/駱慧怡.md "wikilink")；台灣配音：[連婉鈞](https://zh.wikipedia.org/wiki/連婉鈞 "wikilink")（本篇）、[劉如蘋](../Page/劉如蘋.md "wikilink")（冬季電影版）；大陆配音：[山新](../Page/山新.md "wikilink")）
 
   -
     石動惣一的女兒，**CD Lost SMASH**的變身者，19歲。
@@ -440,7 +440,7 @@
     第48話在黑白双色嵌板成功对接在一起後及时拿着潘朵拉之盒，成功让戰兔将已置入了十个失落滿裝瓶的白色嵌板一口气置入在潘朵拉之盒中。
     第49話手腕中的手镯终于脱落，并在無天空之壁的世界中，在nascita帮父亲打杂，不仅第一次被猿渡一见钟情而使其昏倒外，還因第一次和戰兔相遇又以为是佐藤太郎而倍感意外。
 
-****（[瀧裕可里](https://zh.wikipedia.org/wiki/瀧裕可里 "wikilink")\[112\]飾；香港配音：[陳雪瑩](https://zh.wikipedia.org/wiki/陳雪瑩 "wikilink")；台灣配音：[李昀晴](../Page/李昀晴.md "wikilink")（本篇）、[連思宇](../Page/連思宇.md "wikilink")（冬季電影版））
+****（[瀧裕可里](https://zh.wikipedia.org/wiki/瀧裕可里 "wikilink")\[112\]飾；香港配音：[陳雪瑩](https://zh.wikipedia.org/wiki/陳雪瑩 "wikilink")；台灣配音：[李昀晴](../Page/李昀晴.md "wikilink")（本篇）、[連思宇](../Page/連思宇.md "wikilink")（冬季電影版）；大陆配音：[叶知秋](https://zh.wikipedia.org/wiki/叶知秋 "wikilink")）
 
   -
     自由新聞記者，另一身份為難波重工所派的間諜，難波兒童，Faust 的成員之一，27歲。
@@ -911,8 +911,8 @@
 ## 其他聲音演出
 
   - 旁白 - [Bucky木場](../Page/Bucky木場.md "wikilink")
-  - 創造驅動器音效 - [小林克也](https://zh.wikipedia.org/wiki/小林克也 "wikilink")
-  - 擠壓驅動器、Cross-Z 熔岩拳套、極致Cross-Z龍音效 - [若本規夫](../Page/若本規夫.md "wikilink")
+  - 創造驅動器音效 - [小林克也](https://zh.wikipedia.org/wiki/小林克也 "wikilink")（大陆配音：[图特哈蒙](../Page/图特哈蒙.md "wikilink")）
+  - 擠壓驅動器、Cross-Z 熔岩拳套、極致Cross-Z龍音效 - [若本規夫](../Page/若本規夫.md "wikilink")（大陆配音：[图特哈蒙](../Page/图特哈蒙.md "wikilink")）
   - 進化驅動器音效 - [金尾哲夫](https://zh.wikipedia.org/wiki/金尾哲夫 "wikilink")
 
 ## 相關條目

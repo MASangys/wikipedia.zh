@@ -1,4 +1,4 @@
-**Peace TV**是一家总部位于[阿联酋](https://zh.wikipedia.org/wiki/阿联酋 "wikilink")[迪拜的的](https://zh.wikipedia.org/wiki/迪拜 "wikilink")[非盈利性](../Page/非營利組織.md "wikilink")[卫星电视](../Page/卫星电视.md "wikilink")台，由[印度](../Page/印度.md "wikilink")[伊斯兰教](../Page/伊斯兰教.md "wikilink")学者（）创办。该台使用[英语](../Page/英语.md "wikilink")、[乌尔都语](../Page/乌尔都语.md "wikilink")、[孟加拉语和](https://zh.wikipedia.org/wiki/孟加拉语 "wikilink")[汉语普通话广播](https://zh.wikipedia.org/wiki/汉语普通话 "wikilink")，每天24小时免费播出。节目以宣传伊斯兰教教义为主。
+**Peace TV**是一家总部位于[阿联酋](https://zh.wikipedia.org/wiki/阿联酋 "wikilink")[迪拜的的](https://zh.wikipedia.org/wiki/迪拜 "wikilink")[非盈利性](../Page/非營利組織.md "wikilink")[卫星电视](../Page/卫星电视.md "wikilink")台，由[印度](../Page/印度.md "wikilink")[伊斯兰教](../Page/伊斯兰教.md "wikilink")学者[扎基尔·奈克](https://zh.wikipedia.org/wiki/扎基尔·奈克 "wikilink")（）创办。该台使用[英语](../Page/英语.md "wikilink")、[乌尔都语](../Page/乌尔都语.md "wikilink")、[孟加拉语和](https://zh.wikipedia.org/wiki/孟加拉语 "wikilink")[汉语普通话广播](https://zh.wikipedia.org/wiki/汉语普通话 "wikilink")，每天24小时免费播出。节目以宣传伊斯兰教教义为主。
 
 该台于2006年1月21日开播，起初仅有一个英语频道\[1\]。2009年6月，乌尔都语频道开播；2011年4月22日，孟加拉语频道开播\[2\]。2015年10月，Peace TV汉语普通话频道开播\[3\]。
 

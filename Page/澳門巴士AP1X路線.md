@@ -85,7 +85,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong>末班車發車時間：懸掛8號風球後30分鐘。</strong></p></td>
+<td><p><strong>末班車發車時間：懸掛八號風球後30分鐘。</strong></p></td>
 <td></td>
 <td></td>
 <td></td>

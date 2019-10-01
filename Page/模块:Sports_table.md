@@ -70,9 +70,9 @@ end
 `   `
 `   -- Declare results column header`
 `   local results_header = {}`
-`   results_header = {Q='出線資格', QR='出線 或 降級',`
-`       P='升級', PQR='出線，升級 或 降級',`
-`       PR='升級 或 降級', R='降級', FR='最終成績'}`
+`   results_header = {Q='出線資格', QR='出線或降級',`
+`       P='升級', PQR='出線，升級或降級',`
+`       PR='升級或降級', R='降級', FR='最終成績'}`
 `   local results_defined = false -- Check whether this would be needed`
 `   -- Now define line for column header (either option or custom)`
 `   local local_res_header = results_header[Args['res_col_header']] or Args['res_col_header']  or ''`
@@ -220,12 +220,12 @@ end
 `       -- Get local background colour`
 `       if result_local then`
 `           bg_col = result_col[Args['col_'..result_local]] or Args['col_'..result_local] or 'white'`
-`           bg_col = 'background-color:'..bg_col..';'   -- Full style tag`
+`           bg_col = 'background:'..bg_col..';'     -- Full style tag`
 `       end`
-`       if not bg_col then bg_col = 'background-color:transparent;' end -- Becomes default if undefined`
+`       if not bg_col then bg_col = 'background:transparent;' end -- Becomes default if undefined`
 `       `
 `       -- Bold this line or not`
-`       local ii_fw = ii == ii_show and 'font-weight: bold;' or 'font-weight: normal;'`
+`       local ii_fw = ii == ii_show and 'font-weight:bold;' or 'font-weight:normal;'`
 `       `
 `       -- Check whether there is a note or not, if so get text ready for it`
 `       if note_local and full_table then`

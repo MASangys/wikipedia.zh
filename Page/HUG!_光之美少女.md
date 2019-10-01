@@ -2030,7 +2030,8 @@
 
 ## 外部連結
 
-  - [擁抱！光之美少女（ABC）](https://www.asahi.co.jp/precure/hugtto/)
+  -
+[擁抱！光之美少女（ABC）](https://www.asahi.co.jp/precure/hugtto/)
 
   - [擁抱！光之美少女（東映動畫）](http://www.toei-anim.co.jp/tv/hugtto_precure/)
 

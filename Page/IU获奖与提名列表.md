@@ -36,7 +36,7 @@
 
 ### 百想艺术大赏
 
-|- | 2011 | 女子人气赏（电视） | 《[梦想高飞](https://zh.wikipedia.org/wiki/梦想高飞 "wikilink")》 |  |- | 2014 | 女子人气赏（电视） | 《[最佳李纯信](https://zh.wikipedia.org/wiki/最佳李纯信 "wikilink")》 |  |- | 2019 | 女子人气赏（电视） | 《[我的大叔](../Page/我的大叔.md "wikilink")》 |  |}
+|- | 2011 | 女子人气赏（电视） | 《[梦想高飞](https://zh.wikipedia.org/wiki/梦想高飞 "wikilink")》 |  |- | 2014 | 女子人气赏（电视） | 《[最佳李纯信](https://zh.wikipedia.org/wiki/最佳李纯信 "wikilink")》 |  |- | rowspan="2"| 2019 | 女子最優秀演技獎（電視） | rowspan="2"|《[我的大叔](../Page/我的大叔.md "wikilink")》 |  |- | 女子人气赏（电视） |  |}
 
 ### Mnet20代选择奖
 

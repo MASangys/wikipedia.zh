@@ -24,7 +24,7 @@
 
 ### CGI 1.0
 
-2015年一月到十二月的版本，這個版本除了採用了[蒙特卡洛树搜索](../Page/蒙特卡洛树搜索.md "wikilink")（MCTS）外，還包括了\[10\]\[11\]：
+2015年一月到十二月的版本，這個版本以及之後的版本，主要都由吳廸融設計，除了採用了[蒙特卡洛树搜索](../Page/蒙特卡洛树搜索.md "wikilink")（MCTS）外，還包括了\[10\]\[11\]：
 
   - 利用很多人為定義的特性進行學習。
   - 利用progressive bias、progressive widening以及動態貼目改善蒙特卡洛树搜索（MCTS）。
@@ -267,7 +267,7 @@
 
   - ，目前的官方資訊頁面。
 
-  - ，2017年十月後不再維護。
+  - 。
 
 [Category:围棋软件](https://zh.wikipedia.org/wiki/Category:围棋软件 "wikilink") [Category:机器学习](https://zh.wikipedia.org/wiki/Category:机器学习 "wikilink") [Category:游戏人工智能](https://zh.wikipedia.org/wiki/Category:游戏人工智能 "wikilink") [Category:人工智能应用](https://zh.wikipedia.org/wiki/Category:人工智能应用 "wikilink")
 

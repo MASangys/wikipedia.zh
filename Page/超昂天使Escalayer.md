@@ -148,7 +148,8 @@ OVA是由Pink Pineapple在2002年開始發售的成人動畫，全部共3話，2
 
 ## 外部連結
 
-  - [ALICESOFT](https://web.archive.org/web/20060827120749/http://www.alicesoft.com/)限日本地區瀏覽
+  - [官方網站](https://www.alicesoft.com/escalayer/index.html)
+  - [超昂天使Escalayer R官方網站](https://www.alicesoft.com/escalayerreboot/)
 
 [Category:2002年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2002年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:冒險遊戲](https://zh.wikipedia.org/wiki/Category:冒險遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:變身女主角](https://zh.wikipedia.org/wiki/Category:變身女主角 "wikilink") [Category:變身女主角動畫](https://zh.wikipedia.org/wiki/Category:變身女主角動畫 "wikilink") [Category:2002年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2002年日本成人動畫 "wikilink") [Category:天使题材电子游戏](https://zh.wikipedia.org/wiki/Category:天使题材电子游戏 "wikilink") [Category:养成游戏](https://zh.wikipedia.org/wiki/Category:养成游戏 "wikilink")
 

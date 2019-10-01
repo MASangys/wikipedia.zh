@@ -22,7 +22,7 @@
     カルティー星的巫皇。
   - 渡サキ（聲優：[折笠愛](../Page/折笠愛.md "wikilink")）
     和也的母親。
-  - デイジィ（聲優：[新谷真弓](https://zh.wikipedia.org/wiki/新谷真弓 "wikilink")）
+  - デイジィ（聲優：[新谷真弓](../Page/新谷真弓.md "wikilink")）
     チェルシー的使魔。
   - ポワワ（聲優：[南央美](../Page/南央美.md "wikilink")）
     光之國的鳥形生物。

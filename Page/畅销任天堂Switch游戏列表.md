@@ -1,6 +1,6 @@
-[任天堂Switch](../Page/任天堂Switch.md "wikilink")是日本遊戲公司[任天堂](../Page/任天堂.md "wikilink")於2017年3月3日出品的[電子遊戲機](../Page/電子遊戲機.md "wikilink")\[1\]。遊戲機首先於2017年3月3日在[日本](../Page/日本.md "wikilink")、[香港](../Page/香港.md "wikilink")、[北美和](https://zh.wikipedia.org/wiki/北美 "wikilink")[歐洲部份國家發售](https://zh.wikipedia.org/wiki/歐洲 "wikilink")\[2\]\[3\]\[4\]，同年12月於台灣和韩国發售\[5\]。
+[任天堂Switch](../Page/任天堂Switch.md "wikilink")是日本遊戲公司[任天堂](../Page/任天堂.md "wikilink")於2017年3月3日出品的[電子遊戲機](../Page/電子遊戲機.md "wikilink")\[1\]。遊戲機首先於2017年3月3日在[日本](../Page/日本.md "wikilink")、[香港](../Page/香港.md "wikilink")、[北美和](https://zh.wikipedia.org/wiki/北美 "wikilink")[歐洲部份國家發售](https://zh.wikipedia.org/wiki/歐洲 "wikilink")\[2\]\[3\]\[4\]，同年12月於[台灣和](https://zh.wikipedia.org/wiki/台灣 "wikilink")[韩国發售](https://zh.wikipedia.org/wiki/韩国 "wikilink")\[5\]。
 
-本列表共收錄{{\#expr:}}款至少售出一百万份[任天堂Switch游戏](../Page/任天堂Switch游戏列表.md "wikilink")（包含實體與數位平台）。當中《[马力欧卡丁车8 豪华版](https://zh.wikipedia.org/wiki/瑪利歐賽車8#瑪利歐賽車8豪華版 "wikilink")》是任天堂Switch平台上最賣座的遊戲，自2017年4月28日發售以來累積銷量已達1789万份\[6\]。而作為首發遊戲的《[塞尔达传说 旷野之息](../Page/塞尔达传说_旷野之息.md "wikilink")》，遊戲本身的銷量曾一度超越任天堂Switch主機銷量\[7\]。
+本列表共收錄{{\#expr:}}款 至少售出一百万份的[任天堂Switch游戏](../Page/任天堂Switch游戏列表.md "wikilink")（包含實體與數位平台）。當中《[马力欧卡丁车8 豪华版](https://zh.wikipedia.org/wiki/瑪利歐賽車8#瑪利歐賽車8豪華版 "wikilink")》是任天堂Switch平台上最賣座的遊戲，自2017年4月28日發售以來累積銷量已達1789万份\[6\]。而作為首發遊戲的《[塞尔达传说 旷野之息](../Page/塞尔达传说_旷野之息.md "wikilink")》，遊戲本身的銷量曾一度超越任天堂Switch主機銷量\[7\]。
 
 ## 列表
 
@@ -115,7 +115,7 @@
 <td><p>任天堂企劃製作本部</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/大金剛_熱帶急凍" title="wikilink">大金剛 熱帶急凍</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大金剛_熱帶急凍" title="wikilink">森喜剛 熱帶急凍</a></p></td>
 <td><p>2018年5月3日</p></td>
 <td><p>data-sort-value="225"|225万[21]</p></td>
 <td><p><a href="../Page/平台游戏.md" title="wikilink">平台</a></p></td>
@@ -166,7 +166,7 @@
 1-UP工作室</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/口袋铁拳.md" title="wikilink">口袋铁拳</a>DX</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/寶可拳" title="wikilink">寶可拳DX</a></p></td>
 <td><p>2017年9月22日</p></td>
 <td><p>data-sort-value="116"|116万[28]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/格鬥" title="wikilink">格鬥</a></p></td>

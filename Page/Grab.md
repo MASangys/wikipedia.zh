@@ -9,7 +9,7 @@
 
   - Grab聘请了陸續於[雷曼兄弟控股公司](https://zh.wikipedia.org/wiki/雷曼兄弟控股公司 "wikilink")（Lehman Brothers）及[野村證券](../Page/野村證券.md "wikilink")（Nomura Holdings）任職的资深金融家John Chua领导财务。
   - 3月26日，召車服務程式[優步](../Page/優步.md "wikilink")（Uber）已同意將其[印尼](https://zh.wikipedia.org/wiki/印尼 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[馬來西亞等](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[東南亞業務出售予](https://zh.wikipedia.org/wiki/東南亞 "wikilink")[Grab](../Page/Grab.md "wikilink")，合併後Uber可望獲得Grab 27.5%的股權。
-  - 5月28日，Grab推出[网上订餐](https://zh.wikipedia.org/wiki/网上订餐 "wikilink")（[外卖](https://zh.wikipedia.org/wiki/外卖 "wikilink")）服务[Grab Food](https://zh.wikipedia.org/wiki/Grab_Food "wikilink")。\[5\]\[6\]
+  - 5月28日，Grab推出[网上订餐](../Page/网上订餐.md "wikilink")（[外卖](https://zh.wikipedia.org/wiki/外卖 "wikilink")）服务[Grab Food](https://zh.wikipedia.org/wiki/Grab_Food "wikilink")。\[5\]\[6\]
   - 10月6日[软银集团再投資](https://zh.wikipedia.org/wiki/软银集团 "wikilink")5億美元，上一輪Grab的市值估價為110億美元。\[7\]
 
 ## 使用
@@ -42,7 +42,7 @@
 <li><em><a href="https://zh.wikipedia.org/wiki/中馬" title="wikilink">中馬</a>：</em><a href="../Page/吉隆坡.md" title="wikilink">吉隆坡</a>、<a href="https://zh.wikipedia.org/wiki/巴生" title="wikilink">巴生</a>、<a href="../Page/布城.md" title="wikilink">布城</a>、<a href="../Page/八打灵再也.md" title="wikilink">八打灵再也</a><br />
 </li>
 <li><em><a href="https://zh.wikipedia.org/wiki/南馬" title="wikilink">南馬</a>：</em><a href="../Page/新山.md" title="wikilink">新山</a>、<a href="https://zh.wikipedia.org/wiki/馬六甲" title="wikilink">馬六甲</a>、<a href="https://zh.wikipedia.org/wiki/芙蓉" title="wikilink">芙蓉</a>、<a href="../Page/峇株巴辖.md" title="wikilink">峇株巴辖</a>、<a href="../Page/居銮.md" title="wikilink">居銮</a>、<a href="../Page/麻坡.md" title="wikilink">麻坡</a>、<a href="../Page/波德申.md" title="wikilink">波德申</a>、</li>
-<li><em>：</em><a href="https://zh.wikipedia.org/wiki/關丹" title="wikilink">關丹</a>、<a href="https://zh.wikipedia.org/wiki/哥打峇鲁" title="wikilink">哥打峇鲁</a>、<a href="../Page/瓜拉登嘉楼.md" title="wikilink">瓜拉登嘉楼</a>、</li>
+<li><em>：</em><a href="https://zh.wikipedia.org/wiki/關丹" title="wikilink">關丹</a>、<a href="https://zh.wikipedia.org/wiki/哥打峇鲁" title="wikilink">哥打峇鲁</a>、<a href="../Page/瓜拉登嘉楼.md" title="wikilink">瓜拉登嘉楼</a>、<a href="https://zh.wikipedia.org/wiki/甘馬挽縣" title="wikilink">甘馬挽</a></li>
 </ul>
 <p><strong><a href="../Page/東馬.md" title="wikilink">東馬</a>：</strong></p>
 <ul>
@@ -137,7 +137,7 @@
 
 ## 計費與付款方式
 
-Grab與优步的计费方式与按表收费的出租车不同，一般出租车使用特制里程表收费且價格會因在車上的時間而浮動，但GrabCar是定價和直接以距離來計費\[11\]（GrabTaxi、GrabHitch除外）。用戶召車前在輸入出發地點和目的地后即可查詢準確的價格。Grab的付款方式稱為GrabPay，可分為使用[現金](https://zh.wikipedia.org/wiki/現金 "wikilink")、[借記卡或](https://zh.wikipedia.org/wiki/借記卡 "wikilink")[信用卡](../Page/信用卡.md "wikilink")，目前僅支持[Visa](https://zh.wikipedia.org/wiki/Visa "wikilink")、[萬事達卡](https://zh.wikipedia.org/wiki/萬事達卡 "wikilink")、[美國運通](../Page/美國運通.md "wikilink")[JCB](../Page/JCB.md "wikilink")、與[銀聯卡](https://zh.wikipedia.org/wiki/銀聯卡 "wikilink")；而计算费率和收款都由Grab负责，驾驶并未参与其中。不過，若搭客選擇以[現金支付車資](https://zh.wikipedia.org/wiki/現金 "wikilink")，請直接付錢給當次載你到目的地的駕駛；如果行程中有經過收費站，請記得在車資上加上過路費並同時付給駕駛人（因為Grab不負責過路費）。
+Grab與优步的计费方式与按表收费的出租车不同，一般出租车使用特制里程表收费且價格會因在車上的時間而浮動，但GrabCar是定價和直接以距離來計費\[11\]（GrabTaxi、GrabHitch除外）。用戶召車前在輸入出發地點和目的地后即可查詢準確的價格。Grab的付款方式稱為GrabPay，可分為使用[現金](https://zh.wikipedia.org/wiki/現金 "wikilink")、[借記卡或](https://zh.wikipedia.org/wiki/借記卡 "wikilink")[信用卡](../Page/信用卡.md "wikilink")，目前僅支持[Visa](https://zh.wikipedia.org/wiki/Visa "wikilink")、[萬事達卡](https://zh.wikipedia.org/wiki/萬事達卡 "wikilink")、[美國運通](../Page/美國運通.md "wikilink")、[JCB](../Page/JCB.md "wikilink")、與[銀聯卡](https://zh.wikipedia.org/wiki/銀聯卡 "wikilink")；而计算费率和收款都由Grab负责，驾驶并未参与其中。不過，若搭客選擇以[現金支付車資](https://zh.wikipedia.org/wiki/現金 "wikilink")，請直接付錢給當次載你到目的地的駕駛；如果行程中有經過收費站，請記得在車資上加上過路費並同時付給駕駛人（因為Grab不負責過路費）。
 
 ## 爭議
 

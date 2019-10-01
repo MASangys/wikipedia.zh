@@ -1,4 +1,4 @@
-**三星Galaxy A3（2017）**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[三星电子制造的](https://zh.wikipedia.org/wiki/三星电子 "wikilink")[Android](../Page/Android.md "wikilink")智慧型手机，于2017年1月发布，运行Android 6.0.1 Marshmallow。这台智慧型手机搭载了八核 Exynos 7870 SoC，由 8个ARM Cortex-A53 核心、Mali-T830 GPU、2 GB的记忆体和16 GB储存空间组成，最大可以扩充到256 GB的MicroSD记忆卡,电池为不可拆卸式2350mAh，支援快充。三星Galaxy A3 2017只有138克。\[1\]
+**三星Galaxy A3（2017）**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[三星电子制造的](https://zh.wikipedia.org/wiki/三星电子 "wikilink")[Android](../Page/Android.md "wikilink")智慧型手机，于2017年1月发布，运行Android 6.0.1 Marshmallow。这台智慧型手机搭载了八核 Exynos 7870 SoC，由 8个ARM Cortex-A53 核心、Mali-T830 GPU、2 GB的记忆体和16 GB储存空间组成，最大可以扩充到256 GB的MicroSD记忆卡,电池为不可拆卸式2350mAh，不支援快充。三星Galaxy A3 2017只有138克。\[1\]
 
 ## 技術規格
 

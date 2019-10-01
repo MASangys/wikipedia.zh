@@ -461,8 +461,8 @@ Justin Taylor</p></td>
 <td><p>2001</p></td>
 <td><p>電影</p></td>
 <td><p>香港</p></td>
-<td><p>陳捍東<br />
-藍宇</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蓝宇#劇情簡介" title="wikilink">陳捍東</a><br />
+<a href="https://zh.wikipedia.org/wiki/蓝宇#劇情簡介" title="wikilink">藍宇</a></p></td>
 <td><p>男</p></td>
 <td><p>同[32]</p></td>
 <td><p><a href="../Page/胡軍.md" title="wikilink">胡軍</a><br />
@@ -1673,6 +1673,17 @@ Renly Baratheon</p></td>
 <td><p>雙[129]</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="../Page/北京故事.md" title="wikilink">北京故事</a></p></td>
+<td><p>1998</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/北京同志" title="wikilink">北京同志</a></p></td>
+<td><p>中國</p></td>
+<td><p>電影</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳捍東" title="wikilink">陳捍東</a><br />
+<a href="https://zh.wikipedia.org/wiki/北京故事#主人公介绍" title="wikilink">藍宇</a></p></td>
+<td><p>男</p></td>
+<td><p>同[130]</p></td>
+</tr>
+<tr class="even">
 <td><p>Adrien English Mysteries</p></td>
 <td><p>2000–2009</p></td>
 <td></td>
@@ -1681,9 +1692,9 @@ Renly Baratheon</p></td>
 <td><p>Adrien English<br />
 Jake Riordan</p></td>
 <td><p>男</p></td>
-<td><p>同[130]</p></td>
+<td><p>同[131]</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>2001</p></td>
 <td></td>
@@ -1695,9 +1706,9 @@ Jake Riordan</p></td>
 Doyler Doyle<br />
 Anthony MacMurrough</p></td>
 <td><p>男</p></td>
-<td><p>同[131]</p></td>
+<td><p>同[132]</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>月魚</p></td>
 <td><p>2001</p></td>
 <td><p><a href="../Page/三浦紫苑.md" title="wikilink">三浦紫苑</a></p></td>
@@ -1706,9 +1717,9 @@ Anthony MacMurrough</p></td>
 <td><p>真-{志}-喜<br />
 瀬名-{垣}-</p></td>
 <td><p>男</p></td>
-<td><p>同／雙[132]</p></td>
+<td><p>同／雙[133]</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>2002</p></td>
 <td></td>
@@ -1716,17 +1727,6 @@ Anthony MacMurrough</p></td>
 <td></td>
 <td><p>Cornelius Stone<br />
 </p></td>
-<td><p>男</p></td>
-<td><p>同[133]</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/北京故事.md" title="wikilink">北京故事</a></p></td>
-<td><p>2003</p></td>
-<td><p>佚名</p></td>
-<td><p>中國</p></td>
-<td><p>電影</p></td>
-<td><p>陳捍東<br />
-藍宇</p></td>
 <td><p>男</p></td>
 <td><p>同[134]</p></td>
 </tr>
@@ -2766,7 +2766,7 @@ Kelly Chambers</p></td>
 雙</p></td>
 </tr>
 <tr class="even">
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/闇龍紀元II" title="wikilink">闇龍紀元II</a></p></td>
 <td><p>2012</p></td>
 <td><p>Microsoft Windows<br />
 Mac OS X<br />

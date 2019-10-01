@@ -1,4 +1,4 @@
-**=LOVE**（，簡稱「」）是2017年成立的[日本](../Page/日本.md "wikilink")女子[偶像](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")，由[指原莉乃](../Page/指原莉乃.md "wikilink")擔任總製作人。
+**=LOVE**（，簡稱「」）是2017年成立的[日本](../Page/日本.md "wikilink")女子[偶像](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")，由[指原莉乃](../Page/指原莉乃.md "wikilink")擔任總製作人。 [缩略图](https://zh.wikipedia.org/wiki/File:2018.03.25_＝LOVE_「Equal_Love」／イコールラブ「イコラブ」＝LOVE×-きっと君だ！presents_=LIVE特別演唱會_in_台湾_@台北_Syntrend_三創生活園區_5樓clapper_studio_DSC_3135_\(40113360225\).jpg "fig:缩略图") [缩略图](https://zh.wikipedia.org/wiki/File:2018.03.25_＝LOVE_「Equal_Love」／イコールラブ「イコラブ」＝LOVE×-きっと君だ！presents_=LIVE特別演唱會_in_台湾_@台北_Syntrend_三創生活園區_5樓clapper_studio_DSC_3033_\(40297843404\).jpg "fig:缩略图")
 
 ## 概要
 

@@ -111,7 +111,7 @@
 <tr class="odd">
 <td><p>2</p></td>
 <td><p>2018</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/7SENSES" title="wikilink">7SENSES</a>（<a href="https://zh.wikipedia.org/wiki/SNH48" title="wikilink">SNH48</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/7SENSES" title="wikilink">7SENSES</a>（<a href="../Page/SNH48.md" title="wikilink">SNH48</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>3</p></td>

@@ -9,25 +9,29 @@
 <col style="width: 7%" />
 <col style="width: 7%" />
 <col style="width: 7%" />
-<col style="width: 38%" />
+<col style="width: 7%" />
+<col style="width: 31%" />
 </colgroup>
 <tbody>
 <tr class="odd">
 <td><p><strong>演員</strong></p></td>
 <td><p><strong>角色</strong></p></td>
 <td><p><strong>粵語配音</strong></p></td>
+<td><p><strong>國語配音</strong></p></td>
 <td><p><strong>介紹</strong></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/朱相昱.md" title="wikilink">朱相昱</a></p></td>
 <td><p>柳海星</p></td>
 <td><p><a href="../Page/簡懷甄.md" title="wikilink">簡懷甄</a></p></td>
+<td><p><a href="../Page/李世揚.md" title="wikilink">李世揚</a></p></td>
 <td><p>韓流明星，身材高挑、氣質出眾卻極度自戀，喜歡被關注，看上去很挑剔，但擁有可愛反轉魅力的男人。 因演技蹩腳被民眾稱為“蹩腳李奧納多”、“機器人海星”等。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/金賢珠.md" title="wikilink">金賢珠</a></p></td>
 <td><p>李素惠</p></td>
 <td><p><a href="../Page/鄧潔麗.md" title="wikilink">鄧潔麗</a></p></td>
+<td><p><a href="../Page/楊凱凱.md" title="wikilink">楊凱凱</a></p></td>
 <td><p>人氣電視劇編劇，即使被醫生告知生命所剩不多，也一副“那又怎樣”的樣子，依舊痛快地過完今天的“樂觀女”。無論對誰都能一副強勢的樣子，卻唯獨對家人無法強勢起來。<br />
 白雪、美善的高中同學。</p></td>
 </tr>
@@ -35,6 +39,7 @@
 <td><p><a href="../Page/朴時妍.md" title="wikilink">朴時妍</a></p></td>
 <td><p>白雪</p></td>
 <td><p><a href="../Page/廖欣怡.md" title="wikilink">廖欣怡</a></p></td>
+<td><p><a href="../Page/魏晶琦.md" title="wikilink">魏晶琦</a></p></td>
 <td><p>名門家的兒媳婦，表面看起來擁有著華麗的人生令人稱羨，事實上在家中卻受盡了屈辱。<br />
 素惠、美善的高中同學。</p></td>
 </tr>
@@ -42,15 +47,18 @@
 <td><p><a href="../Page/金志洙.md" title="wikilink">金志洙</a></p></td>
 <td><p>金相旭</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/蔡威賢" title="wikilink">蔡威賢</a></p></td>
+<td></td>
 <td><p>完美帥氣，卻從沒談過戀愛的律師，直到他遇到了白雪後，擦出了愛的火花。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/金太勳.md" title="wikilink">金太勳</a></p></td>
 <td><p>洪俊基</p></td>
 <td><p><a href="../Page/黃龍傑.md" title="wikilink">黃龍傑</a></p></td>
+<td></td>
 <td><p>四次元、正能量的怪胎醫生，是李素惠的主治醫生。</p></td>
 </tr>
 <tr class="odd">
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -66,30 +74,35 @@
 <col style="width: 7%" />
 <col style="width: 7%" />
 <col style="width: 7%" />
-<col style="width: 38%" />
+<col style="width: 7%" />
+<col style="width: 31%" />
 </colgroup>
 <tbody>
 <tr class="odd">
 <td><p><strong>演員</strong></p></td>
 <td><p><strong>角色</strong></p></td>
 <td><p><strong>粵語配音</strong></p></td>
+<td><p><strong>國語配音</strong></p></td>
 <td><p><strong>介紹</strong></p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>尹哲亨</p></td>
 <td><p><a href="../Page/袁德基.md" title="wikilink">袁德基</a></p></td>
+<td></td>
 <td><p>電視劇導演</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/尹知原.md" title="wikilink">尹知原</a></p></td>
 <td><p>洪尚花</p></td>
 <td><p><a href="../Page/廖欣怡.md" title="wikilink">廖欣怡</a></p></td>
-<td><p>補助作家</p></td>
+<td></td>
+<td><p>補助作家；相旭住考試院的朋友</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>金敏碩</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -98,11 +111,11 @@
 
 ### Adonis 經紀公司
 
-|                                  |        |                                                     |              |
-| -------------------------------- | ------ | --------------------------------------------------- | ------------ |
-| **演員**                           | **角色** | **粵語配音**                                            | **介紹**       |
-| [金正蘭](../Page/金正蘭.md "wikilink") | 崔真淑    | [陳子瑩](https://zh.wikipedia.org/wiki/陳子瑩 "wikilink") | 經紀公司代表，白雪的大姑 |
-| [趙在允](../Page/趙在允.md "wikilink") | 吳昌錫    | [羅偉亮](../Page/羅偉亮.md "wikilink")                    | 柳海星的經紀人      |
+|                                  |        |                                                     |          |              |
+| -------------------------------- | ------ | --------------------------------------------------- | -------- | ------------ |
+| **演員**                           | **角色** | **粵語配音**                                            | **國語配音** | **介紹**       |
+| [金正蘭](../Page/金正蘭.md "wikilink") | 崔真淑    | [陳子瑩](https://zh.wikipedia.org/wiki/陳子瑩 "wikilink") |          | 經紀公司代表，白雪的大姑 |
+| [趙在允](../Page/趙在允.md "wikilink") | 吳昌錫    | [羅偉亮](../Page/羅偉亮.md "wikilink")                    |          | 柳海星的經紀人      |
 
 ### 其他人物
 
@@ -111,55 +124,64 @@
 <col style="width: 7%" />
 <col style="width: 7%" />
 <col style="width: 7%" />
-<col style="width: 38%" />
+<col style="width: 7%" />
+<col style="width: 31%" />
 </colgroup>
 <tbody>
 <tr class="odd">
 <td><p><strong>演員</strong></p></td>
 <td><p><strong>角色</strong></p></td>
 <td><p><strong>粵語配音</strong></p></td>
+<td><p><strong>國語配音</strong></p></td>
 <td><p><strong>介紹</strong></p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p>崔真泰</p></td>
+<td><p>崔振泰</p></td>
 <td><p><a href="../Page/羅偉亮.md" title="wikilink">羅偉亮</a></p></td>
-<td><p>白雪的丈夫</p></td>
+<td></td>
+<td><p>白雪的丈夫；律師事務所代表</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>曹美善</p></td>
+<td><p>趙美善</p></td>
 <td><p><a href="../Page/鄭家蕙.md" title="wikilink">鄭家蕙</a></p></td>
+<td></td>
 <td><p>素慧、白雪高中同學</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/林智圭.md" title="wikilink">林智圭</a></p></td>
 <td><p>金必浩</p></td>
 <td><p><a href="../Page/袁德基.md" title="wikilink">袁德基</a></p></td>
+<td></td>
 <td><p>美善丈夫</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/金志映_(1938年).md" title="wikilink">金志映</a></p></td>
 <td><p>曹東寶</p></td>
 <td><p><a href="../Page/鄭家蕙.md" title="wikilink">鄭家蕙</a></p></td>
+<td></td>
 <td><p>海星的奶奶</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>李美度</p></td>
-<td><p>議員、崔真泰出軌的對象</p></td>
+<td></td>
+<td><p>議員、崔振泰出軌的對象</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/尹素貞.md" title="wikilink">尹素貞</a></p></td>
 <td><p>郭惠善</p></td>
 <td><p><a href="../Page/陳凱婷.md" title="wikilink">陳凱婷</a></p></td>
+<td></td>
 <td><p>崔家夫人、白雪婆婆</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>Jamie</p></td>
 <td><p><a href="../Page/鄭家蕙.md" title="wikilink">鄭家蕙</a></p></td>
+<td></td>
 <td><p>醫生、洪俊基的妹妹</p></td>
 </tr>
 </tbody>
@@ -167,11 +189,11 @@
 
 ### 特別出演
 
-|                                  |        |                                                     |                   |
-| -------------------------------- | ------ | --------------------------------------------------- | ----------------- |
-| **演員**                           | **角色** | **粵語配音**                                            | **介紹**            |
-| [李周妍](../Page/李周妍.md "wikilink") |        | [鄭家蕙](../Page/鄭家蕙.md "wikilink")                    | 出演電視劇《HITMAN》的女演員 |
-| [朴元相](../Page/朴元相.md "wikilink") |        | [蔡威賢](https://zh.wikipedia.org/wiki/蔡威賢 "wikilink") | 柳海星的演技指導          |
+|                                  |        |                                                     |          |                   |
+| -------------------------------- | ------ | --------------------------------------------------- | -------- | ----------------- |
+| **演員**                           | **角色** | **粵語配音**                                            | **國語配音** | **介紹**            |
+| [李周妍](../Page/李周妍.md "wikilink") |        | [鄭家蕙](../Page/鄭家蕙.md "wikilink")                    |          | 出演電視劇《HITMAN》的女演員 |
+| [朴元相](../Page/朴元相.md "wikilink") |        | [蔡威賢](https://zh.wikipedia.org/wiki/蔡威賢 "wikilink") |          | 柳海星的演技指導          |
 
 ## 原聲帶
 
@@ -216,6 +238,11 @@
 <!-- end list -->
 
   - Part.11（發行日期：2016年10月22日）
+
+### 其他搭配歌曲
+
+  - 台灣[八大戲劇台](../Page/八大戲劇台.md "wikilink")版本
+      - 片尾曲：MFM《最寂寞的歌》
 
 ## 收視率
 

@@ -1813,7 +1813,7 @@ Active Raid－機動強襲室第八係－ 2nd</a></p></td>
   - 10月7日， （602頻道）停播。
   - 10月16日，BBC娛樂資訊組合全組加盟至尊版，而[BBC World News則剔出此組合](https://zh.wikipedia.org/wiki/BBC_World_News "wikilink")，加盟精選基本頻道。
   - 10月31日，myTV SUPER與[創世電視](../Page/創世電視.md "wikilink")進行簽約儀式；12月31日，創世電視（602頻道）啟播，myTV SUPER增設創世電視點播區。\[7\]
-  - 12月31日，[beIN SPORTS](https://zh.wikipedia.org/wiki/beIN_Sports "wikilink")1,2（302和303頻道）更改台徽。
+  - 12月31日，[beIN SPORTS](https://zh.wikipedia.org/wiki/beIN_Sports "wikilink")1，2（302和303頻道）更改台徽。
 
 ### 2018年
 
@@ -1821,8 +1821,8 @@ Active Raid－機動強襲室第八係－ 2nd</a></p></td>
   - 1月20日，[無綫財經台](https://zh.wikipedia.org/wiki/無綫財經台 "wikilink")（85頻道）改名為[無綫財經·資訊台](../Page/無綫財經·資訊台.md "wikilink")。
   - 2月1日，[天映經典頻道](https://zh.wikipedia.org/wiki/天映經典頻道 "wikilink")（203頻道）更換台徽。
   - 4月30日，[NHK World TV](https://zh.wikipedia.org/wiki/NHK_World_TV "wikilink")（707頻道）改名為[NHK World-Japan](../Page/NHK_World-Japan_\(頻道\).md "wikilink")。
-  - 7月1日，Disney Channel (102頻道)正式加盟基本組合，與同屬頻道Disney Junior (101頻道)將會開放給觀眾免費收看至2019年12月31日或至用戶合約期完結。
-  - 7月31日，因應[now TV早於](https://zh.wikipedia.org/wiki/now_TV "wikilink")2018年7月12日與beIN SPORTS簽約，並獲得全球賽事轉播權，換言之，[beIN SPORTS](https://zh.wikipedia.org/wiki/beIN_Sports "wikilink")1,2（302和303頻道）停播，TVB無法取回體育賽事轉播權和解散體育組
+  - 7月1日，Disney Channel（102頻道）正式加盟基本組合，與同屬頻道Disney Junior（101頻道）將會開放給觀眾免費收看至2019年12月31日或至用戶合約期完結。
+  - 7月31日，因應[now TV早於](https://zh.wikipedia.org/wiki/now_TV "wikilink")2018年7月12日與beIN SPORTS簽約，並獲得全球賽事轉播權，換言之，[beIN SPORTS](https://zh.wikipedia.org/wiki/beIN_Sports "wikilink")1，2（302和303頻道）停播，TVB無法取回體育賽事轉播權和解散體育組。
   - 8月15日，因TVB體育組解散和頻道調動，[TVB體育台](../Page/TVB體育台.md "wikilink")（94頻道）、[直播新聞台](../Page/直播新聞台.md "wikilink") （700頻道）和myTV SUPER直播新聞台 （800頻道）停播。
   - 9月1日，[TVB旅遊台](https://zh.wikipedia.org/wiki/TVB旅遊台 "wikilink")（96頻道）停播，與綜藝台（92頻道）合併為[綜藝旅遊台](../Page/綜藝旅遊台.md "wikilink")。
   - 9月3日，策略王電視（606頻道）啟播。
@@ -1854,7 +1854,7 @@ Active Raid－機動強襲室第八係－ 2nd</a></p></td>
 
 <!-- end list -->
 
-  - 9月1日，myTV SUPER 18台（18頻道）啟播。同日，王者榮耀電競（666頻道）停播。
+  - 9月1日，myTV SUPER 18台（18頻道）啟播，並免費至2020年2月29日。同日，王者榮耀電競（666頻道）停播。
 
 ## 頻道列表
 
@@ -1885,7 +1885,7 @@ Active Raid－機動強襲室第八係－ 2nd</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>18</p></td>
-<td><p>myTV SUPER 18台*<br />
+<td><p>myTV SUPER 18台<br />
 </p></td>
 <td><p>2019年9月1日</p></td>
 <td><p>myTV SUPER 18台</p></td>
@@ -2713,10 +2713,310 @@ myTV SUPER網上版2017年2月推出初期，只支援[Internet Explorer](../Pag
 
 使用myTV SUPER解碼器電視盒原有的遙控器控制開關，並不會完全中斷電源。然而，盒子在待機模式時仍會用電並發熱，還與[路由器](../Page/路由器.md "wikilink")保持連接至[中國大陸的IP地址](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")。完全關機，阻斷連接須完全除去[電池和](https://zh.wikipedia.org/wiki/電池 "wikilink")[電源線](https://zh.wikipedia.org/wiki/電源 "wikilink")。
 
+## TVB Anywhere
+
+**TVB Anywhere**是[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")一個收費[OTT服務平台](https://zh.wikipedia.org/wiki/OTT服務 "wikilink")，2014年4月或2015年2月1日正式於歐洲或澳洲推出，2016年9月15日全球啟動，相当于[myTV SUPER的海外版](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")，讓觀眾在電視、[網絡電視盒子及](https://zh.wikipedia.org/wiki/網絡電視盒子 "wikilink")[智能電話收看超過](https://zh.wikipedia.org/wiki/智能電話 "wikilink")50條頻道，以及重溫[無綫電視節目](../Page/無綫電視節目.md "wikilink")。同公司同類服務有encore TVB。\[24\]\[25\]\[26\]
+
+本服務現不適用於[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")、[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")、[台灣和](https://zh.wikipedia.org/wiki/台灣 "wikilink")[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")。
+
+### 頻道列表
+
+<table>
+<thead>
+<tr class="header">
+<th><p>頻道名稱</p></th>
+<th></th>
+<th></th>
+<th><p>或</p></th>
+<th></th>
+<th></th>
+<th><p>其他地區</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="../Page/無綫翡翠台.md" title="wikilink">無綫翡翠台</a></p></td>
+<td><ul>
+<li>香港時區</li>
+<li>美加東岸時區</li>
+</ul></td>
+<td><ul>
+<li>澳、新時區</li>
+<li>香港時區</li>
+</ul></td>
+<td><ul>
+<li>香港時區</li>
+<li>英國時區</li>
+</ul></td>
+<td><ul>
+<li>澳、新時區</li>
+<li>香港時區</li>
+</ul></td>
+<td><ul>
+<li>澳門</li>
+</ul></td>
+<td><ul>
+<li>香港時區</li>
+<li>中東地區：中東時區</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/無綫新聞台.md" title="wikilink">無綫新聞台</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/無綫財經·資訊台.md" title="wikilink">無綫財經·資訊台</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/TVB娛樂新聞台.md" title="wikilink">娛樂新聞台</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>功夫台</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>TVB直播台</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/粵語片台.md" title="wikilink">粵語片台</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/韓劇台.md" title="wikilink">韓劇台</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/神州新聞台.md" title="wikilink">神州新聞台</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>88賽馬頻道</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/TVB星河頻道.md" title="wikilink">TVB星河頻道</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/KBS_World.md" title="wikilink">KBS World</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/鳳凰衛視中文台.md" title="wikilink">鳳凰衛視</a></p></td>
+<td></td>
+<td><ul>
+<li>澳洲版</li>
+</ul></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/鳳凰衛視資訊台.md" title="wikilink">鳳凰衛視資訊台</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/鳳凰衛視美洲台" title="wikilink">鳳凰衛視美洲台</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/鳳凰衛視歐洲台.md" title="wikilink">鳳凰衛視歐洲台</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/鳳凰衛視香港台.md" title="wikilink">鳳凰衛視香港台</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/TVBS新聞台.md" title="wikilink">TVBS新聞台</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/TVBS-Asia.md" title="wikilink">無綫衛星亞洲台</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/衛視電影台.md" title="wikilink">衛視電影台</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>SCTV[27]</p>
+<ul>
+<li>SCTV 1</li>
+<li>SCTV 7</li>
+<li>SCTV 9</li>
+<li>SCTV 14</li>
+</ul></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/长城平台.md" title="wikilink">長城平台</a></p>
+<ul>
+<li><a href="../Page/中国中央电视台中文国际频道.md" title="wikilink">中國中央電視台中文國際頻道</a></li>
+<li><a href="../Page/中国环球电视网纪录频道.md" title="wikilink">中國環球電視網紀錄頻道</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/中国中央电视台娱乐频道" title="wikilink">CCTV-娛樂</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/中国中央电视台戏曲频道_(海外)" title="wikilink">CCTV-戲曲</a></li>
+<li><a href="../Page/湖南广播电视台国际频道.md" title="wikilink">湖南國際頻道</a>（國際版）</li>
+<li><a href="https://zh.wikipedia.org/wiki/浙江电视台" title="wikilink">浙江國際頻道</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/江苏电视台国际频道" title="wikilink">江蘇國際頻道</a></li>
+<li><a href="../Page/东方卫视.md" title="wikilink">上海東方衛視</a>（國際版）</li>
+<li><a href="https://zh.wikipedia.org/wiki/北京电视台国际频道" title="wikilink">北京國際頻道</a></li>
+<li><a href="../Page/山东广播电视台国际频道.md" title="wikilink">山東國際頻道</a></li>
+<li><a href="../Page/安徽广播电视台.md" title="wikilink">安徽國際頻道</a></li>
+<li><a href="../Page/深圳卫视.md" title="wikilink">深圳衛視</a>（國際版）</li>
+<li><a href="../Page/廣東廣播電視台國際頻道.md" title="wikilink">廣東國際頻道</a></li>
+<li><a href="../Page/廣東南方衛視.md" title="wikilink">廣東南方衛視</a>（上星版）</li>
+<li><a href="../Page/海峡卫视.md" title="wikilink">福建海峽衛視</a></li>
+<li><a href="../Page/四川广播电视台.md" title="wikilink">四川國際頻道</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/重庆电视台国际频道" title="wikilink">重慶國際頻道</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/广西电视台" title="wikilink">廣西國際頻道</a></li>
+<li>長城精品頻道</li>
+<li><a href="../Page/云南广播电视台.md" title="wikilink">雲南國際頻道</a></li>
+</ul></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+#### 已停播
+
+  - 無綫翡翠台 (美加西岸時區)
+  - 無綫星級劇集台
+  - [無綫星級生活台](../Page/無綫星級生活台.md "wikilink")
+  - 無綫通識台
+  - [天津國際頻道](https://zh.wikipedia.org/wiki/天津电视台国际频道 "wikilink")
+  - [TVB8](../Page/TVB8.md "wikilink") (只限澳門、澳新)
+  - [衛視電影台](../Page/衛視電影台.md "wikilink") (只限澳新)
+  - [普通話翡翠台](https://zh.wikipedia.org/wiki/普通話翡翠台 "wikilink")
+  - TVB Radio
+  - [中國電影頻道](../Page/中國電影頻道.md "wikilink")
+  - [TVB新聞台](../Page/TVB新聞台.md "wikilink")
+
 ## 參看
 
   - [myTV](https://zh.wikipedia.org/wiki/myTV "wikilink")
-  - [TVB Anywhere](../Page/TVB_Anywhere.md "wikilink")
   - [big big channel](https://zh.wikipedia.org/wiki/big_big_channel "wikilink")
   - [MyTV SUPER無綫電視劇集列表](../Page/MyTV_SUPER無綫電視劇集列表.md "wikilink")
   - [電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")
@@ -2729,7 +3029,7 @@ myTV SUPER網上版2017年2月推出初期，只支援[Internet Explorer](../Pag
   - [Ani-one官方網頁](http://www.ani-one.com.hk/)
   - [Google Play《myTV SUPER》App下載](https://play.google.com/store/apps/details?id=com.tvb.mytvsuper)
 
-[Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink") [Category:無綫電視](https://zh.wikipedia.org/wiki/Category:無綫電視 "wikilink") [Category:IPTV](https://zh.wikipedia.org/wiki/Category:IPTV "wikilink")
+[Category:電視廣播（國際）有限公司](https://zh.wikipedia.org/wiki/Category:電視廣播（國際）有限公司 "wikilink") [Category:無綫電視](https://zh.wikipedia.org/wiki/Category:無綫電視 "wikilink") [Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink") [Category:無綫電視](https://zh.wikipedia.org/wiki/Category:無綫電視 "wikilink") [Category:IPTV](https://zh.wikipedia.org/wiki/Category:IPTV "wikilink")
 
 1.
 
@@ -2775,3 +3075,11 @@ myTV SUPER網上版2017年2月推出初期，只支援[Internet Explorer](../Pag
 22. [介面跟足色情網 ThisATV網站疑惡搞亞視](https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/article/20150319/s00001/1426757357126/%E4%BB%8B%E9%9D%A2%E8%B7%9F%E8%B6%B3%E8%89%B2%E6%83%85%E7%B6%B2-thisatv%E7%B6%B2%E7%AB%99%E7%96%91%E6%83%A1%E6%90%9E%E4%BA%9E%E8%A6%96) 香港明報 2015年3月19日星期四
 
 23. [亞視Fans 惡攪？ thisav 色情網變thisatv](https://unwire.hk/2015/03/19/thisatv/fun-tech/) Unwire 2015年3月19日
+
+24. [2017年TVB中期報告（英語）](http://corporate.tvb.com/_upload_/article/en/1791df98865e688507358541bfd13504.pdf)
+
+25. [2017年TVB中期報告（簡體中文）](http://corporate.tvb.com/_upload_/article/sc/90268189007f13a6ed811bad0f1ebb72.pdf)
+
+26. [2017年TVB中期報告（繁體中文）](http://corporate.tvb.com/_upload_/article/tc/b471bf1a26d9b70e337c224523f09b57.pdf)
+
+27. [Truyền hình Việt ngữ TVB Anywhere](https://www.youtube.com/watch?v=Jj3o1W0Fn_I) TVBAustralia- VietTV, Youtube, 2017年5月7日, 於2018年8月31日查閱

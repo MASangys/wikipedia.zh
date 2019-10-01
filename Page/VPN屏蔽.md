@@ -1,4 +1,4 @@
-[缩略图](https://zh.wikipedia.org/wiki/File:Evidence-VPNChina_IP_blocked_by_enwikipedia.jpg "fig:缩略图")的截图，显示当前[VPN所用的](../Page/虛擬私人網路.md "wikilink")[IP在某些](../Page/IP地址.md "wikilink")[维基媒体基金会](../Page/维基媒体基金会.md "wikilink")项目中遭屏蔽\]\] **VPN屏蔽**技术用于屏蔽[虚拟专用网](https://zh.wikipedia.org/wiki/虚拟专用网 "wikilink")（VPN）所使用的[加密](https://zh.wikipedia.org/wiki/加密 "wikilink")[隧道协议](../Page/隧道协议.md "wikilink")通讯方式，屏蔽者多为国家政府或公司等大型组织。目的可能是确保[计算机安全](../Page/计算机安全.md "wikilink")，也可能是通过阻止用户使用VPN绕过[网络防火墙系统](https://zh.wikipedia.org/wiki/网络防火墙 "wikilink")，以加强[互联网审查](../Page/互联网审查.md "wikilink")。
+[缩略图](https://zh.wikipedia.org/wiki/File:Evidence-VPNChina_IP_blocked_by_enwikipedia.jpg "fig:缩略图")的截图，显示当前[VPN所用的](../Page/虛擬私人網路.md "wikilink")[IP在某些](../Page/IP地址.md "wikilink")[维基媒体基金会](../Page/维基媒体基金会.md "wikilink")项目中遭屏蔽\]\] **VPN屏蔽**技术用于屏蔽[虚拟专用网](https://zh.wikipedia.org/wiki/虚拟专用网 "wikilink")（VPN）所使用的[加密](../Page/加密.md "wikilink")[隧道协议](../Page/隧道协议.md "wikilink")通讯方式，屏蔽者多为国家政府或公司等大型组织。目的可能是确保[计算机安全](../Page/计算机安全.md "wikilink")，也可能是通过阻止用户使用VPN绕过[网络防火墙系统](https://zh.wikipedia.org/wiki/网络防火墙 "wikilink")，以加强[互联网审查](../Page/互联网审查.md "wikilink")。
 
 ## 技术
 

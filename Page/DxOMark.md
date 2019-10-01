@@ -32,21 +32,22 @@ DxOMark的手机照片分数由以下类别组成：
   - 纹理
   - 噪声
   - 文物
-  - 闪光灯
+  - 夜间摄影（先前為閃光燈）\[15\]
   - 放大
-  - 背景虚化\[15\]
+  - 背景虚化\[16\]
+  - 广角\[17\]
 
 DxOMark的手机视频分数包括六个与DxOMark手机照片评分相同的子分（曝光，颜色，自动对焦，纹理，噪点和伪影），以及稳定。
 
-DxOMark的测试是在各种照明条件下进行的，从低光照度5[勒克斯到户外明亮的日光](https://zh.wikipedia.org/wiki/勒克斯 "wikilink")。\[16\]
+DxOMark的测试是在各种照明条件下进行的，从低光照度5[勒克斯到户外明亮的日光](https://zh.wikipedia.org/wiki/勒克斯 "wikilink")。\[18\]
 
 ## 比较工具
 
-用户可以选择同一类别的多台设备，并让DxOMark将其测试分数与实际测试数据的图形版本进行比较。\[17\]\[18\]
+用户可以选择同一类别的多台设备，并让DxOMark将其测试分数与实际测试数据的图形版本进行比较。\[19\]\[20\]
 
 ## 在行业中的应用
 
-新闻媒体经常使用DxOMark评分来描述相机和[移动设备](../Page/移动设备.md "wikilink")的图像质量特征。\[19\]\[20\]\[21\] 高DxOMark移动评分也被作为供应商的公告\[22\] 和市场营销材料\[23\]中质量的标志，但评测人员谨慎地指出，DxOMark评分只能反映图像质量。\[24\]\[25\]\[26\] DxOMark还为硬件制造商提供与图像质量相关的咨询服务。\[27\]\[28\]
+新闻媒体经常使用DxOMark评分来描述相机和[移动设备](../Page/移动设备.md "wikilink")的图像质量特征。\[21\]\[22\]\[23\] 高DxOMark移动评分也被作为供应商的公告\[24\] 和市场营销材料\[25\]中质量的标志，但评测人员谨慎地指出，DxOMark评分只能反映图像质量。\[26\]\[27\]\[28\] DxOMark还为硬件制造商提供与图像质量相关的咨询服务。\[29\]\[30\]
 
 ## 参考文献
 
@@ -60,30 +61,60 @@ DxOMark的测试是在各种照明条件下进行的，从低光照度5[勒克�
 [Category:數位攝影](https://zh.wikipedia.org/wiki/Category:數位攝影 "wikilink") [Category:攝影器材生產商](https://zh.wikipedia.org/wiki/Category:攝影器材生產商 "wikilink") [Category:法国软件公司](https://zh.wikipedia.org/wiki/Category:法国软件公司 "wikilink")
 
 1.
+
 2.
+
 3.  <http://petapixel.com/2012/12/17/perceptual-megapixel-mtf-charts-boiled-down-to-a-single-number/>
+
 4.  <http://photo.net/photography-news-forum/00b9IO>
+
 5.
+
 6.  <http://news.cnet.com/8301-17938_105-57559599-1/dxo-labs-tries-making-sense-of-camera-lens-sharpness/>
+
 7.  <http://www.dxomark.com/index.php/Lenses/Camera-Lens-Ratings/Optical-Metric-Scores>
+
 8.
+
 9.   DxOMark|last=DxO|accessdate=2017-06-15|language=en}}
+
 10.  DxOMark|accessdate=2015-11-11}}
+
 11.
+
 12. Daisuke Wakabayashi, "The Point-and-Shoot Camera Faces Its Existential Moment", *Wall Street Journal* July 30, 2013 [\[1\]](https://www.wsj.com/news/articles/SB10001424127887324251504578580263719432252)
+
 13.
+
 14.
-15.
+
+15. [DXOMark榜单测试基准大改革：新增广角、夜拍评分](https://tech.sina.com.cn/mobile/n/n/2019-09-18/doc-iicezzrq6699070.shtml)
+
 16.
+
 17.
-18.  Northrup.Photo|accessdate=2016-08-23}}
+18.
+
 19.
-20.
+
+20.  Northrup.Photo|accessdate=2016-08-23}}
+
 21.
+
 22.
-23.  Verizon Wireless|accessdate=2018-03-08}}
+
+23.
+
 24.
-25.
+
+25.  Verizon Wireless|accessdate=2018-03-08}}
+
 26.
+
 27.
+
 28.
+
+29.
+
+30.

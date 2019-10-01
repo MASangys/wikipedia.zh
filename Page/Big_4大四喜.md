@@ -11,7 +11,7 @@
 </tr>
 <tr class="even">
 <td><p>第1集（2010年5月1日）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/何韻詩" title="wikilink">何韻詩</a>、<a href="https://zh.wikipedia.org/wiki/容祖兒" title="wikilink">容祖兒</a>、<a href="../Page/劉浩龍.md" title="wikilink">劉浩龍</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/何韻詩" title="wikilink">何韻詩</a>、<a href="../Page/容祖兒.md" title="wikilink">容祖兒</a>、<a href="../Page/劉浩龍.md" title="wikilink">劉浩龍</a></p></td>
 <td><p>-已推出DVD（第1輯）</p></td>
 </tr>
 <tr class="odd">
@@ -76,7 +76,7 @@
 </tr>
 <tr class="even">
 <td><p>第1集（2010年6月26日）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/何韻詩" title="wikilink">何韻詩</a>、<a href="https://zh.wikipedia.org/wiki/容祖兒" title="wikilink">容祖兒</a>、<a href="../Page/劉浩龍.md" title="wikilink">劉浩龍</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/何韻詩" title="wikilink">何韻詩</a>、<a href="../Page/容祖兒.md" title="wikilink">容祖兒</a>、<a href="../Page/劉浩龍.md" title="wikilink">劉浩龍</a><br />
 <a href="../Page/草蜢_(組合).md" title="wikilink">草蜢</a></p></td>
 <td><p>-生活台版本之第1集<br />
 -生活台版本之第3集</p></td>

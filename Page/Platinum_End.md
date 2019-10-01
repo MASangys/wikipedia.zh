@@ -176,8 +176,8 @@
 <td><p>11</p></td>
 <td><p>2019年7月4日[13]</p></td>
 <td><p>ISBN 978-4-08-881887-0</p></td>
-<td></td>
-<td><p>ISBN</p></td>
+<td><p>2019年9月20日</p></td>
+<td><p>ISBN 978-988-8511-04-4</p></td>
 </tr>
 <tr class="odd">
 <td></td>

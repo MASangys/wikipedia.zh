@@ -8,7 +8,7 @@
 
 ## 收錄歌曲
 
-所有歌曲都由作詞，作曲，[鷺巢詩郎](../Page/鷺巢詩郎.md "wikilink")編曲。
+所有歌曲都由[及川眠子](../Page/及川眠子.md "wikilink")作詞，作曲，[鷺巢詩郎](../Page/鷺巢詩郎.md "wikilink")編曲。
 
 1.  **絕對！Part2**（**<small>！Part2</small>**）
       - [富士電視台](../Page/富士電視台.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[亂馬{{Sfrac](https://zh.wikipedia.org/wiki/亂馬½ "wikilink")》片頭主題曲

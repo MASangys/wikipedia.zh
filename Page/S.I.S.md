@@ -49,14 +49,14 @@ S.I.S於8月17日公開團體預告照，8月20日公開精華組曲預告，8�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Minzy</p></td>
+<td><p><strong>Minzy</strong></p></td>
 <td><p>민지</p></td>
 <td><p>Choi Min-ji</p></td>
 <td><p>최민지</p></td>
 <td><p>崔敏智</p></td>
 <td><p><br />
 <a href="../Page/光州廣域市.md" title="wikilink">光州廣域市</a></p></td>
-<td><p>主Rapper、領舞、副唱</p></td>
+<td><p>隊長、主Rapper、領舞、副唱</p></td>
 </tr>
 <tr class="even">
 <td><p>Gaeul</p></td>
@@ -66,7 +66,7 @@ S.I.S於8月17日公開團體預告照，8月20日公開精華組曲預告，8�
 <td><p>崔文珠</p></td>
 <td><p><br />
 <a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a></p></td>
-<td><p>領唱、門面</p></td>
+<td><p>主唱、門面</p></td>
 </tr>
 <tr class="odd">
 <td><p>Anne</p></td>
@@ -76,7 +76,7 @@ S.I.S於8月17日公開團體預告照，8月20日公開精華組曲預告，8�
 <td><p>金成妍</p></td>
 <td><p><br />
 <a href="https://zh.wikipedia.org/wiki/慶尚北道" title="wikilink">慶尚北道</a><a href="../Page/慶山市.md" title="wikilink">慶山市</a></p></td>
-<td><p>主領舞、副唱、形象</p></td>
+<td><p>領唱、主領舞、形象</p></td>
 </tr>
 <tr class="even">
 <td><p>Sebin</p></td>
@@ -96,7 +96,7 @@ S.I.S於8月17日公開團體預告照，8月20日公開精華組曲預告，8�
 <td><p>金智惠</p></td>
 <td><p><br />
 <a href="https://zh.wikipedia.org/wiki/慶尚南道" title="wikilink">慶尚南道</a><a href="../Page/金海市.md" title="wikilink">金海市</a></p></td>
-<td><p>隊長、主唱</p></td>
+<td><p>第一任隊長、主唱</p></td>
 </tr>
 <tr class="even">
 <td><p>Dal</p></td>

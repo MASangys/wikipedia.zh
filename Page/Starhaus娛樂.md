@@ -6,7 +6,7 @@
 
 ## 旗下演員
 
-  - [李敏豪](https://zh.wikipedia.org/wiki/李敏豪 "wikilink")
+  - [李泰利](../Page/李泰利.md "wikilink")
   - [郭時暘](../Page/郭時暘.md "wikilink")
   - [韓周完](../Page/韓周完.md "wikilink")
   - [宋元錫](../Page/宋元錫.md "wikilink")
@@ -16,7 +16,7 @@
   - [申東美](../Page/申東美.md "wikilink")
   - [景收真](../Page/景收真.md "wikilink")
   - [金宥美](https://zh.wikipedia.org/wiki/金宥美 "wikilink")
-  - [柳惠仁](../Page/柳惠仁.md "wikilink")
+  - [柳慧仁](../Page/柳慧仁.md "wikilink")
 
 ## 旗下團體
 

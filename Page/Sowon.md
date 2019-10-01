@@ -1,5 +1,11 @@
 **金韶情**\[1\]（，，），藝名**Sowon**（），名字常被錯譯為**素媛**，[韓國女](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[歌手](../Page/歌手.md "wikilink")，是[Source Music旗下](../Page/Source_Music.md "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[GFRIEND](../Page/GFRIEND.md "wikilink")的隊長，在隊內擔任主Rapper\[2\]、副領舞及黃金比例。曾為DSP媒體的練習生。
 
+## 生涯
+
+## 2018年
+
+6月下旬，因爸爸離世而暫停活動，[睿隣成為替任隊長](https://zh.wikipedia.org/wiki/睿隣 "wikilink")，主要負責帶領團隊問候語。恢復活動後，隊長職位恢復。
+
 ## 節目主持
 
 | 2015年      |

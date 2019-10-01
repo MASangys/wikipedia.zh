@@ -67,7 +67,7 @@
 
 ## 參考資料
 
-[Category:2018年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:2018年啟用的鐵路線 "wikilink") [Category:舊金山灣區捷運系統](https://zh.wikipedia.org/wiki/Category:舊金山灣區捷運系統 "wikilink")
+[Category:2018年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:2018年啟用的鐵路線 "wikilink") [Category:舊金山灣區捷運系統路線](https://zh.wikipedia.org/wiki/Category:舊金山灣區捷運系統路線 "wikilink")
 
 1.
 

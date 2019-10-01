@@ -8,16 +8,14 @@
 
 官方粉絲名為「」（），在2018年10月29日透過V Live直播選出，意思是童話[彼得潘](../Page/彼得潘.md "wikilink")裡的虛構之島，待在島上的小朋友會停止長大。\[5\]
 
-2019年6月10日，官方社群網站公布應援色為NEON RED（Pantone 185C）與CHIC VIOLET（Pantone 2597C）。\[6\]
+官方應援色為NEON RED（Pantone 185C）與CHIC VIOLET（Pantone 2597C）。\[6\]
 
 ## 成員資料
-
-  - 官方並沒有公佈中心、形象的定位。
 
 <table>
 <thead>
 <tr class="header">
-<th><p><big>成員資料</big> |- style="background:linear-gradient(120deg,#E11900, #7e00bf); color:Iron Gray; font-weight:bold;"|成員列表</p></th>
+<th><p>colspan="10" style="|成員列表</p></th>
 </tr>
 </thead>
 <tbody>
@@ -93,13 +91,13 @@
 
 5月22日，出道僅20天即在音樂節目《[THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")》奪下出道後首個一位。\[60\]5月24日、29日接連取得一位，宣傳期間獲得三個一位。\[61\]\[62\]
 
-**首次回歸、首張數位單曲《HANN》**
+**首次回歸、首張數位單曲《HANN (Alone)》**
 
-8月1日，CUBE娛樂相關人士表示，(G)I-DLE正在加緊籌備新曲中，預計於8月中旬回歸。\[63\]8月5日，官方社群帳號發佈Whistle版本預告。\[64\]8月6日，官方社群帳號宣布，確定將於8月14日攜首張數位單曲《HANN》回歸。\[65\]
+8月1日，CUBE娛樂相關人士表示，(G)I-DLE正在加緊籌備新曲中，預計於8月中旬回歸。\[63\]8月5日，官方社群帳號發佈Whistle版本預告。\[64\]8月6日，官方社群帳號宣布，確定將於8月14日攜首張數位單曲《HANN (Alone)》回歸。\[65\]
 
-8月14日，韓國時間下午6點，公開首張數位單曲《[HANN](https://zh.wikipedia.org/wiki/HANN "wikilink")》。8月16日，主打歌《HANN》僅發表2天，MV點閱數即突破700萬，同日在Bugs、Genie 和 Olleh Music 三榜都登上了冠軍寶座。\[66\]
+8月14日，韓國時間下午6點，公開首張數位單曲《[HANN (Alone)](../Page/HANN_\(Alone\).md "wikilink")》。8月16日，主打歌《HANN (Alone)》僅發表2天，MV點閱數即突破700萬，同日在Bugs、Genie 和 Olleh Music 三榜都登上了冠軍寶座。\[66\]
 
-8月29日，在音樂節目《[Show Champion](../Page/Show_Champion.md "wikilink")》以主打歌《HANN》取得回歸後首個一位。\[67\]9月4日、6日接連取得一位，宣傳期間獲得三個一位。\[68\]\[69\]
+8月29日，在音樂節目《[Show Champion](../Page/Show_Champion.md "wikilink")》以主打歌《HANN (Alone)》取得回歸後首個一位。\[67\]9月4日、6日接連取得一位，宣傳期間獲得三個一位。\[68\]\[69\]
 
 **跨界合作、「K/DA」企劃《POP/STARS》**
 
@@ -137,6 +135,10 @@
 
 7月29日，先行公開日本首張迷你專輯《[LATATA](../Page/LATATA.md "wikilink")》全輯音源，並於7月31正式發售實體專輯。\[87\]
 
+**《HANN (Alone)》MV破億**
+
+8月21日，《HANN (Alone)》MV雙頻道觀看數，共計超過一億次。\[88\]
+
 ## 音乐作品
 
 ### 韓語
@@ -148,7 +150,7 @@
 
 #### 数位单曲
 
-  - 2018年：《[HANN](https://zh.wikipedia.org/wiki/HANN "wikilink")》
+  - 2018年：《[HANN (Alone)](../Page/HANN_\(Alone\).md "wikilink")》
   - 2019年：《[Uh-Oh](../Page/Uh-Oh.md "wikilink")》
 
 #### 个人单曲
@@ -170,12 +172,12 @@
 
 | 年份                                                         | 产品名称                 | 参与成员         | 备注  |
 | ---------------------------------------------------------- | -------------------- | ------------ | --- |
-| 2016年                                                      | GMarket 8秒服装\[88\]   | 小娟           | 出道前 |
-| 2017年                                                      | Rising Star化妆品\[89\] | Minnie、雨琦、舒華 |     |
-| 2019年                                                      | Kaja化妆品\[90\]        | 全体           |     |
-| 安慕希酸奶\[91\]                                                | 雨琦                   | 奔跑吧          |     |
-| 唯兰颂面膜\[92\]                                                | 代言人                  |              |     |
-| 米读小说\[93\]                                                 | 奔跑吧                  |              |     |
+| 2016年                                                      | GMarket 8秒服装\[89\]   | 小娟           | 出道前 |
+| 2017年                                                      | Rising Star化妆品\[90\] | Minnie、雨琦、舒華 |     |
+| 2019年                                                      | Kaja化妆品\[91\]        | 全体           |     |
+| 安慕希酸奶\[92\]                                                | 雨琦                   | 奔跑吧          |     |
+| 唯兰颂面膜\[93\]                                                | 代言人                  |              |     |
+| 米读小说\[94\]                                                 | 奔跑吧                  |              |     |
 | [LG U+ 5G](https://zh.wikipedia.org/wiki/LG_U+ "wikilink") | 全体                   |              |     |
 
 ## 演唱會及大型公演
@@ -224,7 +226,7 @@
 <td><p>8月29日</p></td>
 <td></td>
 <td><p><a href="../Page/Show_Champion.md" title="wikilink">Show Champion</a></p></td>
-<td><p>HANN</p></td>
+<td><p>HANN (Alone)</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -489,3 +491,4 @@
 91.
 92.
 93.
+94.

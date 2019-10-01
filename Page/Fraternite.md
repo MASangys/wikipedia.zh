@@ -1,4 +1,4 @@
-是日本遊戲品牌[CLOCKUP於](https://zh.wikipedia.org/wiki/CLOCKUP "wikilink")2014年7月25日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，2016年發售[DVDPG版](https://zh.wikipedia.org/wiki/DVDPG "wikilink")，標題注明的「fraternite」指的是法文的「友愛」（fraternité）。這是自[CLOCKUP公司在](https://zh.wikipedia.org/wiki/CLOCKUP "wikilink")2011年發表的《[euphoria](https://zh.wikipedia.org/wiki/euphoria_\(遊戲\) "wikilink")》以來第二部獵奇作品。
+是日本遊戲品牌[CLOCKUP於](https://zh.wikipedia.org/wiki/CLOCKUP "wikilink")2014年7月25日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，2019年9月27日發售HD版。標題「fraternite」指的是法文的「友愛」（fraternité）。這是自CLOCKUP在2011年發表的《[euphoria](https://zh.wikipedia.org/wiki/euphoria_\(遊戲\) "wikilink")》以來第二部獵奇作品。
 
 ## 故事
 
@@ -49,8 +49,8 @@
 
 ## 外部連結
 
-  - [フラテルニテ](http://fraternite.club/)
-  - [CLOCKUP OfficialWebSite](http://entacom.org/clockup/)
+  - [官方網站](http://fraternite.club/)
+  - [HD版官方網站](http://clockup.net/fraternite_hd/index.html)
 
 [Category:2014年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2014年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:DVDPG](https://zh.wikipedia.org/wiki/Category:DVDPG "wikilink") [Category:獵奇作品](https://zh.wikipedia.org/wiki/Category:獵奇作品 "wikilink")
 

@@ -10,6 +10,8 @@ Metal 使用一种基于[C++11](../Page/C++11.md "wikilink")的新，其实现�
 
 2017年6月5日，Apple於[WWDC宣布了Metal的第二个版本](https://zh.wikipedia.org/wiki/WWDC "wikilink")，支持[macOS High Sierra](https://zh.wikipedia.org/wiki/macOS_High_Sierra "wikilink")、[iOS 11和](https://zh.wikipedia.org/wiki/iOS_11 "wikilink")[tvOS 11](https://zh.wikipedia.org/wiki/tvOS "wikilink")。Metal 2不是Metal的獨立API，並且由需要的硬體支援。 Metal 2在[Xcode](../Page/Xcode.md "wikilink")中實現了更高效的分析和調試，加速了[機器學習](https://zh.wikipedia.org/wiki/機器學習 "wikilink")、降低了CPU工作負載、支持macOS上的[虛擬實境以及](https://zh.wikipedia.org/wiki/虛擬實境 "wikilink")[Apple A11處理器的特性](https://zh.wikipedia.org/wiki/Apple_A11 "wikilink")。\[5\]
 
+2019年6月3日，Metal API更新到第三个版本，支持[macOS Catalina](https://zh.wikipedia.org/wiki/macOS_Catalina "wikilink")、[iOS 13和](https://zh.wikipedia.org/wiki/iOS_13 "wikilink")[iPadOS 13](https://zh.wikipedia.org/wiki/iPadOS_13 "wikilink")
+
 ## 参见
 
   - [Vulkan](../Page/Vulkan_\(API\).md "wikilink")

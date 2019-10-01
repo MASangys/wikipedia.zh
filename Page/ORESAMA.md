@@ -16,7 +16,7 @@
 | --- | ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 | 本名  | 本夛彩実                                                                                                   | \-                                                                                                                                             |
 | 生日  | 11月3日                                                                                                  | 6月19日                                                                                                                                          |
-| 出生地 | [長野縣](https://zh.wikipedia.org/wiki/長野縣 "wikilink")[岡谷市](https://zh.wikipedia.org/wiki/岡谷市 "wikilink") | [長野縣](https://zh.wikipedia.org/wiki/長野縣 "wikilink")[茅野市](https://zh.wikipedia.org/wiki/茅野市 "wikilink")                                         |
+| 出生地 | [長野縣](https://zh.wikipedia.org/wiki/長野縣 "wikilink")[岡谷市](https://zh.wikipedia.org/wiki/岡谷市 "wikilink") | [長野縣](https://zh.wikipedia.org/wiki/長野縣 "wikilink")[茅野市](../Page/茅野市.md "wikilink")                                                            |
 | 樂器  | [主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")、[作詞](https://zh.wikipedia.org/wiki/作詞 "wikilink")    | [作曲](https://zh.wikipedia.org/wiki/作曲 "wikilink")、[編曲](https://zh.wikipedia.org/wiki/編曲 "wikilink")、programming、[吉他](../Page/吉他.md "wikilink") |
 
 ## 作品

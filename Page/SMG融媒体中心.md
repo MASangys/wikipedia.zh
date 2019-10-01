@@ -318,6 +318,13 @@ Court Report</p></td>
 </tbody>
 </table>
 
+## 纪录片
+
+2019年4月起，SMG制作的纪录片改由SMG纪录片中心制作，以下为2019年4月前该中心制作的纪录片。
+
+  - [人间世](../Page/人间世_\(纪录片\).md "wikilink")
+  - [中国面临的挑战](https://zh.wikipedia.org/wiki/中国面临的挑战 "wikilink")（英文纪录片）
+
 ## 员工
 
 <table>
@@ -329,7 +336,7 @@ Court Report</p></td>
 <tbody>
 <tr class="odd">
 <td style="text-align: center;"><p>宋炯明<br />
-（主任）</p></td>
+（主任，兼任副台长）</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p><strong>东方卫视、KNEWS新闻中心主播</strong></p></td>

@@ -991,6 +991,15 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>9月23日</p></td>
+<td><p><a href="../Page/國民老公2.md" title="wikilink">國民老公2</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/騰訊視頻" title="wikilink">騰訊視頻</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/熊梓淇" title="wikilink">Dylan</a></p></td>
+<td><p>陸瑾年</p></td>
+<td><p>男主角</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>待播</p></td>
 <td></td>
 <td></td>
@@ -999,7 +1008,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/音為愛上你" title="wikilink">音為愛上你</a></p></td>
 <td></td>
 <td><p><a href="../Page/子閎.md" title="wikilink">子閎</a></p></td>
@@ -1008,7 +1017,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/墓王之王.md" title="wikilink">墓王之王</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/易恩" title="wikilink">易恩</a></p></td>
@@ -1017,7 +1026,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/Evan_(SpeXial).md" title="wikilink">Evan</a></p></td>
 <td><p>樓滿風</p></td>
 <td><p>第二男主角</p></td>
@@ -1026,7 +1035,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/麻辣高校" title="wikilink">麻辣高校</a></p></td>
 <td></td>
 <td><p><a href="../Page/Evan_(SpeXial).md" title="wikilink">Evan</a></p></td>
@@ -1035,7 +1044,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/易恩" title="wikilink">易恩</a></p></td>
 <td></td>
 <td></td>
@@ -1044,7 +1053,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/108異人錄" title="wikilink">108異人錄</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/易恩" title="wikilink">易恩</a></p></td>
@@ -1053,7 +1062,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/恨君不似江樓月" title="wikilink">恨君不似江樓月</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/易恩" title="wikilink">易恩</a></p></td>
@@ -1062,12 +1071,21 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/一夜新娘" title="wikilink">一夜新娘</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/易恩" title="wikilink">易恩</a></p></td>
 <td><p>金逸文</p></td>
 <td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/奈何BOSS要娶我.md" title="wikilink">奈何BOSS要娶我</a>第二季</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/搜狐視頻" title="wikilink">搜狐視頻</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/易恩" title="wikilink">易恩</a></p></td>
+<td><p>楚炎</p></td>
+<td><p>第二男</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1081,24 +1099,15 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/國民老公_(網絡劇)" title="wikilink">國民老公第二季</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/騰訊視頻" title="wikilink">騰訊視頻</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/熊梓淇" title="wikilink">Dylan</a></p></td>
-<td><p>陸瑾年</p></td>
-<td><p>男主角</p></td>
+<td><p>拍攝中</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金愛演偵探團" title="wikilink">金愛演偵探團</a></p></td>
+<td></td>
+<td><p><a href="../Page/明杰.md" title="wikilink">明杰</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>拍攝中</p></td>
-<td><p><a href="../Page/奈何BOSS要娶我.md" title="wikilink">奈何BOSS要娶我</a>第二季</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/搜狐視頻" title="wikilink">搜狐視頻</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/易恩" title="wikilink">易恩</a></p></td>
-<td><p>楚炎</p></td>
-<td><p>第二男主角</p></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>停拍中</p></td>
 <td><p><a href="../Page/破網時刻.md" title="wikilink">破網時刻</a></p></td>
 <td></td>
@@ -1107,7 +1116,7 @@
 <td><p>男主角</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/許名傑" title="wikilink">明-{杰}-</a></p></td>
 <td><p>熊威</p></td>
 <td><p>第二男主角</p></td>
@@ -1327,9 +1336,25 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2019年3月15日、<br />
+<td><p>2019年3月15日<br />
 2019年3月16日</p></td>
 <td><p>臺中國家歌劇院中劇院</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年9月21日</p></td>
+<td><p>臺南文化中心演藝廳</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年10月19日</p></td>
+<td><p>彰化員林演藝廳</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1341,10 +1366,19 @@
 <td><p><a href="../Page/風田.md" title="wikilink">風田</a></p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>台北城市舞台</p></td>
+<td><p>臺北城市舞台</p></td>
 </tr>
 <tr class="even">
-<td><p>2019年11月2日、<br />
+<td><p>2019年10月5日<br />
+2019年10月6日</p></td>
+<td><p>臺北親子劇場</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年11月2日<br />
 2019年11月3日</p></td>
 <td><p>國立臺灣體育運動大學中興堂</p></td>
 <td></td>
@@ -1352,7 +1386,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2019年11月16日</p></td>
 <td><p>大東文化藝術中心演藝廳</p></td>
 <td></td>
@@ -1360,7 +1394,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2019年11月30日</p></td>
 <td><p>清華大學大禮堂</p></td>
 <td></td>
@@ -1847,34 +1881,42 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p>2019年9月12日</p></td>
+<td><p><a href="../Page/偉晉.md" title="wikilink">偉晉</a></p></td>
+<td><p>「WE~晉愛唱」<br />
+單元主持</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="../Page/天天向上.md" title="wikilink">天天向上</a></p></td>
 <td><p>2016年1月~2月</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/湖南衛視" title="wikilink">湖南衛視</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/以綸" title="wikilink">以綸</a></p></td>
 <td><p>天天小兄弟</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/SpeXial的日本二本松之旅" title="wikilink">SpeXial的日本二本松之旅</a></p></td>
 <td><p>2016年3月</p></td>
 <td><p><a href="../Page/三立都會台.md" title="wikilink">三立都會台</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/晨翔" title="wikilink">晨翔</a>、<a href="../Page/風田.md" title="wikilink">風田</a></p></td>
 <td><p>主持</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/火星情報局" title="wikilink">火星情報局</a></p></td>
 <td><p>2016年4月~6月</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/优酷网" title="wikilink">優酷</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/以綸" title="wikilink">以綸</a></p></td>
 <td><p>高級特工</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/完全娛樂" title="wikilink">完全娛樂</a></p></td>
 <td><p>2016年8月24日</p></td>
 <td><p><a href="../Page/三立都會台.md" title="wikilink">三立都會台</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/以綸" title="wikilink">以綸</a></p></td>
 <td><p>代班主持</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>{{hidden</p></td>
 <td><p>2016年11月10日<br />
 2016年11月23日<br />
@@ -1903,7 +1945,7 @@
 <td><p>主持人</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>{{hidden</p></td>
 <td><p>2016年11月16日<br />
 2016年12月20日}}</p></td>
@@ -1911,7 +1953,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>{{hidden</p></td>
 <td><p>2017年3月1日<br />
 2017年4月5日<br />
@@ -1937,14 +1979,14 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2017年8月30日</p></td>
 <td><p><a href="../Page/子閎.md" title="wikilink">子閎</a>、<a href="https://zh.wikipedia.org/wiki/以綸" title="wikilink">以綸</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>{{hidden</p></td>
 <td><p>2017年9月6日<br />
 2017年9月20日<br />
@@ -1984,14 +2026,14 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2017年9月13日</p></td>
 <td><p><a href="../Page/子閎.md" title="wikilink">子閎</a>、<a href="../Page/Teddy_(SpeXial).md" title="wikilink">Teddy</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/全球中文音樂榜上榜_(臺灣版).md" title="wikilink">全球中文音樂榜上榜</a></p></td>
 <td><p>{{hidden</p></td>
 <td><p>2016年9月17日<br />
@@ -1999,14 +2041,14 @@
 <td><p><a href="../Page/TVBS歡樂台.md" title="wikilink">TVBS歡樂台</a>、<a href="https://zh.wikipedia.org/wiki/TVBS" title="wikilink">TVBS</a></p></td>
 <td><p><a href="../Page/偉晉.md" title="wikilink">偉晉</a>、<a href="../Page/Teddy_(SpeXial).md" title="wikilink">Teddy</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2016年11月5日</p></td>
 <td><p><a href="../Page/偉晉.md" title="wikilink">偉晉</a>、<a href="https://zh.wikipedia.org/wiki/許名傑" title="wikilink">明-{杰}-</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>{{hidden</p></td>
 <td><p>2016年11月19日<br />
 2016年12月10日}}</p></td>
@@ -2014,28 +2056,28 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/綜藝3國智.md" title="wikilink">綜藝3國智</a></p></td>
 <td><p>2016年11月~</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/台視主頻" title="wikilink">台視主頻</a></p></td>
 <td><p><a href="../Page/Teddy_(SpeXial).md" title="wikilink">Teddy</a>、<a href="../Page/風田.md" title="wikilink">風田</a></p></td>
 <td><p>主持</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/許名傑" title="wikilink">明-{杰}-</a>、<a href="../Page/Evan_(SpeXial).md" title="wikilink">Evan</a></p></td>
 <td><p>主持（已離開）</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/以綸" title="wikilink">以綸</a>、<a href="https://zh.wikipedia.org/wiki/易恩" title="wikilink">易恩</a></p></td>
 <td><p>代班主持</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/最音樂_音樂三國論" title="wikilink">最音樂 音樂三國論</a></p></td>
 <td><p>{{hidden</p></td>
 <td><p>2016年12月4日<br />
@@ -2044,7 +2086,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/优酷网" title="wikilink">優酷</a></p></td>
 <td><p><a href="../Page/風田.md" title="wikilink">風田</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/風田瘋甜點" title="wikilink">風田瘋甜點</a></p></td>
 <td><p>{{hidden</p></td>
 <td><p>2017年3月24日<br />
@@ -2054,7 +2096,7 @@
 <td><p><a href="https://www.youtube.com/channel/UC3OwNYrSh8V6WVv8sSbSKtw">YouTube</a></p></td>
 <td><p><a href="../Page/風田.md" title="wikilink">風田</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/PlayStation.md" title="wikilink">PlayStation</a><br />
 <a href="https://zh.wikipedia.org/wiki/玩樂DNA" title="wikilink">玩樂DNA</a></p></td>
 <td><p>{{hidden</p></td>
@@ -2130,18 +2172,20 @@
 2019年4月23日<br />
 2019年4月30日<br />
 2019年5月21日<br />
-2019年8月20日}}</p></td>
+2019年8月20日<br />
+2019年9月3日<br />
+2019年9月10日}}</p></td>
 <td><p><a href="https://www.youtube.com/user/PlayStationTaiwan">YouTube</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/宏正" title="wikilink">宏正</a>、<a href="../Page/偉晉.md" title="wikilink">偉晉</a>、<a href="https://zh.wikipedia.org/wiki/許名傑" title="wikilink">明-{杰}-</a>、<a href="../Page/子閎.md" title="wikilink">子閎</a>、<a href="../Page/Evan_(SpeXial).md" title="wikilink">Evan</a>、<a href="../Page/Teddy_(SpeXial).md" title="wikilink">Teddy</a>、<a href="../Page/風田.md" title="wikilink">風田</a>、<a href="https://zh.wikipedia.org/wiki/以綸" title="wikilink">以綸</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/火星研究院" title="wikilink">火星研究院</a></p></td>
 <td><p>2017年11月~2018年1月</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/优酷网" title="wikilink">優酷</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/熊梓淇" title="wikilink">Dylan</a></p></td>
 <td><p>常駐嘉賓</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/星鮮話" title="wikilink">星鮮話</a></p></td>
 <td><p>{{hidden</p></td>
 <td><p>2017年11月7日<br />
@@ -2161,14 +2205,14 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/TVBS" title="wikilink">TVBS</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/許名傑" title="wikilink">明-{杰}-</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/二十四小時_(綜藝節目)" title="wikilink">二十四小時</a></p></td>
 <td><p>2018年2月~4月</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/浙江衛視" title="wikilink">浙江衛視</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/熊梓淇" title="wikilink">Dylan</a></p></td>
 <td><p>固定嘉賓</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/17金麥克" title="wikilink">17金麥克</a></p></td>
 <td><p>{{hidden</p></td>
 <td><p>2018年7月21日<br />
@@ -2183,7 +2227,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/中天综合台" title="wikilink">中天综合台</a>、<a href="https://zh.wikipedia.org/wiki/17app" title="wikilink">17app</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/許名傑" title="wikilink">明-{杰}-</a>、<a href="../Page/風田.md" title="wikilink">風田</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/決戰17唱" title="wikilink">決戰17唱</a></p></td>
 <td><p>{{hidden</p></td>
 <td><p>2018年10月1日<br />
@@ -2210,11 +2254,12 @@
 2019年7月1日<br />
 2019年7月8日<br />
 2019年8月5日<br />
-2019年8月19日}}</p></td>
+2019年8月19日<br />
+2019年9月2日}}</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/17app" title="wikilink">17app</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/許名傑" title="wikilink">明-{杰}-</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/超新星全運會" title="wikilink">超新星全運會</a><br />
 <a href="https://zh.wikipedia.org/wiki/第一季" title="wikilink">第一季</a></p></td>
 <td><p>{{hidden</p></td>
@@ -2227,7 +2272,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/騰訊視頻" title="wikilink">騰訊視頻</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/易恩" title="wikilink">易恩</a>、<a href="https://zh.wikipedia.org/wiki/熊梓淇" title="wikilink">Dylan</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/17趣郊遊" title="wikilink">17趣郊遊</a></p></td>
 <td><p>{{hidden</p></td>
 <td><p>2018年12月15日<br />

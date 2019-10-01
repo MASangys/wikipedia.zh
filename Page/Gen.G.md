@@ -151,7 +151,7 @@ Gen.G俱乐部是[守望先锋联赛](../Page/守望先锋联赛.md "wikilink")�
 
 ## 绝地求生
 
-Gen.G曾经拥有Gen.G Gold与Gen.G Black两支绝地求生战队，其中Gen.G Gold获得了2018年绝地求生全球邀请赛TPP（第三人称）模式的冠军。
+Gen.G曾经拥有Gen.G Gold与Gen.G Black两支绝地求生战队，其中Gen.G Gold获得了2018年绝地求生全球邀请赛TPP（第三人称）模式的冠军。 2019年獲得MET亞洲系列賽冠軍。
 
 现在两支队伍已经合并，以Gen.G名义参赛。
 
@@ -166,22 +166,27 @@ Gen.G曾经拥有Gen.G Gold与Gen.G Black两支绝地求生战队，其中Gen.G 
 <tbody>
 <tr class="odd">
 <td><p>Chelator</p></td>
-<td><p>Kim Min-ki (김민기)</p></td>
+<td><p>金珉基 (Kim Min-ki/김민기)</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>ESTH3R</p></td>
-<td><p>Go Jeong-wan (고정완)</p></td>
+<td><p>Esther</p></td>
+<td><p>高定完 (Go Jeong-wan/고정완)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>Loki</p></td>
-<td><p>Park Jung-young (박정영)</p></td>
+<td><p>朴正盈 (Park Jung-young/박정영)</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Wick2D</p></td>
-<td><p>Kim Jin-hyung (김진형)</p></td>
+<td><p>Pio</p></td>
+<td><p>車承勛 (Cha Seung-hoon/차승훈)</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Taemin</p></td>
+<td><p>姜邰珉 (Kang Tae-min/강태민)</p></td>
 <td></td>
 </tr>
 </tbody>

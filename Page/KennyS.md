@@ -6,7 +6,7 @@
 
 《CS：GO》问世后，施卢普迅速成为了最厉害的狙击手之一，但是他的过人天赋对于NiP无济于事，而当时VG又迫切希望可以击败NiP，因此在2013年5月用ScreaM替换掉了kennyS。在接下来短短的6个月时间，施卢普辗转于Team LDLC.com、WARMAKER、WE GOT GAME以及Recursive eSports\[5\]\[6\]。2014年1月，Recursive由于财政问题，解散了队伍，施卢普加入了Clan-Mystik。但4月份他就被Titan挖走，来代替shox。 2014年中，Titan的成绩非常一般，只有DreamHack Stockholm Invitational II拿到了冠军，但是施卢普的表现却始终强劲\[7\]。
 
-2015年7月，两个法国队伍中间人员大调整，施卢普和apEX加入EnVyUs，SmithZz和shox换到了Titan\[8\]\[9\] 。进入EnVyUs，经过了短暂的适应，他逐步发挥出了自己的实力。2017年2月，EnVyUs和G2 Esports进行重组，施卢普,Apex,Shox从EnvyUs转入G2\[10\]\[11\]。
+2015年7月，两个法国队伍中间人员大调整，施卢普和apEX加入EnVyUs，SmithZz和shox换到了Titan\[8\]\[9\] 。进入EnVyUs，经过了短暂的适应，他逐步发挥出了自己的实力。2017年2月，EnVyUs和G2 Esports进行重组，施卢普,apEX,Shox从EnvyUs转入G2\[10\]\[11\]。
 
 ## 主要战绩
 

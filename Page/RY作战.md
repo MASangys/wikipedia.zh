@@ -12,7 +12,7 @@
 
 ## 首次入侵
 
-1942年5月11日，海军少将以为旗舰，下辖轻巡[龙田号](../Page/龍田號輕巡洋艦.md "wikilink")，布雷舰，驱逐舰、从拉包尔出发。[高木武雄](../Page/高木武雄.md "wikilink")海军少将的第五巡洋战队为志摩舰队提供掩护，包括重训[妙高号](../Page/妙高號重巡洋艦.md "wikilink")、[羽黑号](../Page/羽黑號重巡洋艦.md "wikilink")，另外还有第30驱逐战队、[望月号](https://zh.wikipedia.org/wiki/望月号驱逐舰 "wikilink")、[时雨号](../Page/時雨號驅逐艦.md "wikilink")、[白露号陪同](https://zh.wikipedia.org/wiki/白露号驱逐舰 "wikilink")。担任入侵任务的海军陆战队则搭乘运输船金龙丸和高畑丸。\[2\]
+1942年5月11日，海军少将以为旗舰，下辖轻巡[龙田号](../Page/龍田號輕巡洋艦.md "wikilink")，布雷舰，驱逐舰[卯月号](https://zh.wikipedia.org/wiki/卯月号驱逐舰 "wikilink")、从拉包尔出发。[高木武雄](../Page/高木武雄.md "wikilink")海军少将的第五巡洋战队为志摩舰队提供掩护，包括重训[妙高号](../Page/妙高號重巡洋艦.md "wikilink")、[羽黑号](../Page/羽黑號重巡洋艦.md "wikilink")，另外还有第30驱逐战队、[望月号](https://zh.wikipedia.org/wiki/望月号驱逐舰 "wikilink")、[时雨号](../Page/時雨號驅逐艦.md "wikilink")、[白露号陪同](https://zh.wikipedia.org/wiki/白露号驱逐舰 "wikilink")。担任入侵任务的海军陆战队则搭乘运输船金龙丸和高畑丸。\[2\]
 
 在经过[新爱尔兰岛和](https://zh.wikipedia.org/wiki/新爱尔兰岛 "wikilink")[布卡島以西的时候](https://zh.wikipedia.org/wiki/布卡島 "wikilink")，冲岛号04:52被美军潜艇S-42发射的鱼雷命中，受到重创\[3\]\[4\]。侵略部队的护卫舰艇在该区域搜索潜艇、投放深水炸弹，一直持续到11:30，造成了破坏。S-42离开了该区域返回基地。志摩将指挥部转移到夕月号上。望月号曾经尝试拖曳冲岛号，但终告失败，06:40冲岛号在圣乔治海峡沉没。
 

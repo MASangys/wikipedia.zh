@@ -598,7 +598,7 @@ Humansia葡露嬌<br />
 <td><p>6月28日<br />
 <small>（6月16日）</small></p></td>
 <td><p><a href="../Page/徐玄振.md" title="wikilink">徐玄振</a>、<a href="../Page/朴荷娜.md" title="wikilink">朴荷娜</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/Irene_Kim" title="wikilink">Irene Kim</a>、<a href="https://zh.wikipedia.org/wiki/都想友" title="wikilink">都想友</a>、<br />
+<a href="../Page/Irene_(模特).md" title="wikilink">Irene Kim</a>、<a href="https://zh.wikipedia.org/wiki/都想友" title="wikilink">都想友</a>、<br />
 <a href="../Page/黃勝妍.md" title="wikilink">黃勝妍</a>、<br />
 <a href="../Page/海嶺.md" title="wikilink">海嶺</a>（<a href="../Page/BESTie.md" title="wikilink">BESTie</a>）、<br />
 <a href="../Page/CLC.md" title="wikilink">睿恩</a>（<a href="../Page/CLC.md" title="wikilink">CLC</a>）</p></td>
@@ -609,7 +609,7 @@ Humansia葡露嬌<br />
 '''<span style=color:#FF1493>劉在錫、朴荷娜</span><br />
 <span style=color:#FFBF00>池錫辰、海嶺</span><br />
 <span style=color:#FF8C00>金鐘國、Irene Kim</span><br />
-<span style=color:#0000FF>Gary、黃承言</span><br />
+<span style=color:#0000FF>Gary、黃勝妍</span><br />
 <span style=color:#000000>哈哈、睿恩</span><br />
 <span style=color:#c0c0c0>宋智孝、都想友</span><br />
 <span style=color:#9400D3>李光洙、徐玄振</p></td>
@@ -1692,7 +1692,7 @@ Gary<br />
 4.
 5.  宣傳電影《[今天的戀愛](../Page/今天的戀愛.md "wikilink")》金志勛（選手）特別出演
 6.  [朴志胤](../Page/朴志胤.md "wikilink")因行程關係提前離開
-7.  傳達任務
+7.  [宋慶雅](../Page/宋慶雅.md "wikilink")傳達任務
 8.  [宋智孝](../Page/宋智孝.md "wikilink")於本集以主持身份出演
 9.  宣傳2015大邱-慶北[世界水資源論壇](https://zh.wikipedia.org/wiki/世界水資源論壇 "wikilink")
 10. 宣傳電影《[二十](https://zh.wikipedia.org/wiki/二十_\(電影\) "wikilink")》、車仁浩、全英俊、梁勝浩、金昌賢（綜合格鬥選手）特別出演

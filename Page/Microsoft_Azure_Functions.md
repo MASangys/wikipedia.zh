@@ -1,4 +1,4 @@
-**Microsoft Azure Functions** 是 [Microsoft Azure](../Page/Microsoft_Azure.md "wikilink") 平台上，提供無伺服器架構 (Serverless Computing) 的服務，允許開發人員在不用接觸與管理伺服器的情況下，編寫小型的處理程式以處理雲端上的訊息或事件。
+**Microsoft Azure Functions** 是 [Microsoft Azure](../Page/Microsoft_Azure.md "wikilink") 平台上，提供[無伺服器運算架構](https://zh.wikipedia.org/wiki/無伺服器運算 "wikilink") (Serverless Computing) 的服務，允許開發人員在不用接觸與管理伺服器的情況下，編寫小型的處理程式以處理雲端上的訊息或事件。
 
 Azure Functions 於微軟 Build 2016 大會上宣布，於同年11月15日正式 GA (General Availability)。
 

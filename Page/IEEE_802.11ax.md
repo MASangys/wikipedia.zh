@@ -1,4 +1,4 @@
-**IEEE 802.11ax**，[Wi-Fi联盟](../Page/Wi-Fi联盟.md "wikilink")称为**Wi-Fi 6**\[1\]\[2\]，在市面上也以此名行銷，又称为**高效率无线标准**（**High-Efficiency Wireless**，**HEW**），是一项制定中的[无线局域网](../Page/无线局域网.md "wikilink")[标准](../Page/标准.md "wikilink")。标准草案由[IEEE标准协会](../Page/IEEE标准协会.md "wikilink")的TGax工作组制定，2014年5月成立，至2017年11月已完成D2.0。正式标准预计将在2019 Q4发布\[3\]。
+****，[Wi-Fi联盟](../Page/Wi-Fi联盟.md "wikilink")称为****\[1\]\[2\]，在市面上也以后者名称行銷，又称为**高效率无线标准**（，缩写****），是一项制定中的[无线局域网](../Page/无线局域网.md "wikilink")[标准](../Page/标准.md "wikilink")。标准草案由[IEEE标准协会](../Page/IEEE标准协会.md "wikilink")的TGax工作组制定，2014年5月成立，至2017年11月已完成D2.0。正式标准预计将在2019 Q4发布\[3\]。
 
 11ax支持2.4GHz和5GHz频段，向下兼容[a](https://zh.wikipedia.org/wiki/IEEE_802.11a "wikilink")/[b](https://zh.wikipedia.org/wiki/IEEE_802.11b "wikilink")/[g](https://zh.wikipedia.org/wiki/IEEE_802.11g "wikilink")/[n](../Page/IEEE_802.11n.md "wikilink")/[ac](../Page/IEEE_802.11ac.md "wikilink")。目标是支持室内室外场景、提高频谱效率和密集用户环境下4倍实际吞吐量提升\[4\]。802.11ax支援的最高頻寬為2.4Gbps\[5\]。
 

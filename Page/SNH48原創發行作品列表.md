@@ -1,4 +1,4 @@
-**SNH48原創發行作品列表**列出[SNH48歷年來發行的原創EP](https://zh.wikipedia.org/wiki/SNH48 "wikilink")、原創專輯。
+**SNH48原創發行作品列表**列出[SNH48](../Page/SNH48.md "wikilink")歷年來發行的原創EP、原創專輯。
 
 ## 簡介
 
@@ -94,7 +94,7 @@
 
 ## 甜蜜盛典
 
-《**甜蜜盛典**》（）是中國偶像組合[SNH48的第](https://zh.wikipedia.org/wiki/SNH48 "wikilink")18張EP。
+《**甜蜜盛典**》（）是中國偶像組合[SNH48](../Page/SNH48.md "wikilink")的第18張EP。
 
 ### 簡介
 
@@ -177,7 +177,7 @@
 
 ## 未来的乐章
 
-《**未来的乐章**》（）是中國偶像組合[SNH48的第](https://zh.wikipedia.org/wiki/SNH48 "wikilink")19張EP。
+《**未来的乐章**》（）是中國偶像組合[SNH48](../Page/SNH48.md "wikilink")的第19張EP。
 
 ### 簡介
 
@@ -236,7 +236,7 @@
 
 ## 森林法则
 
-《**森林法则**》（）是中國偶像組合[SNH48的第](https://zh.wikipedia.org/wiki/SNH48 "wikilink")20張EP，EP同時也附有2018年7月28日舉辦的[SNH48 Group第五屆總選舉投票券](https://zh.wikipedia.org/wiki/SNH48_Group第五屆總選舉 "wikilink")\[10\]。
+《**森林法则**》（）是中國偶像組合[SNH48](../Page/SNH48.md "wikilink")的第20張EP，EP同時也附有2018年7月28日舉辦的[SNH48 Group第五屆總選舉投票券](https://zh.wikipedia.org/wiki/SNH48_Group第五屆總選舉 "wikilink")\[10\]。
 
 ### 簡介
 
@@ -356,7 +356,7 @@
 
 ## 此刻到永远
 
-《**此刻到永远**》（）是中國偶像組合[SNH48的第](https://zh.wikipedia.org/wiki/SNH48 "wikilink")22張EP。
+《**此刻到永远**》（）是中國偶像組合[SNH48](../Page/SNH48.md "wikilink")的第22張EP。
 
 ### 簡介
 
@@ -432,7 +432,7 @@
 
 ## 我们的旅程
 
-《**我们的旅程**》（）是中國偶像組合[SNH48的第](https://zh.wikipedia.org/wiki/SNH48 "wikilink")23張EP。
+《**我们的旅程**》（）是中國偶像組合[SNH48](../Page/SNH48.md "wikilink")的第23張EP。
 
 ### 簡介
 
@@ -509,11 +509,11 @@
 
 ## 那年夏天的梦
 
-《**那年夏天的梦**》是中國偶像組合[SNH48的第](https://zh.wikipedia.org/wiki/SNH48 "wikilink")24張EP。
+《**那年夏天的梦**》是中國偶像組合[SNH48](../Page/SNH48.md "wikilink")的第24張EP。
 
 ### 簡介
 
-《那年夏天的梦》是[SNH48](https://zh.wikipedia.org/wiki/SNH48 "wikilink") Group于2019年夏季EP。该张EP的同名曲目由来自SNH48、BEJ48、GNZ48三团组成选拔组共20名成员演绎，且以新生代成员为主，并赴[泰国](../Page/泰国.md "wikilink")[普吉岛取景拍摄MV](https://zh.wikipedia.org/wiki/普吉岛 "wikilink")。EP附有2019年7月27日舉辦的[SNH48 Group第六屆总决选投票券](https://zh.wikipedia.org/wiki/SNH48_Group第六屆总决选 "wikilink")。\[16\]
+《那年夏天的梦》是[SNH48](../Page/SNH48.md "wikilink") Group于2019年夏季EP。该张EP的同名曲目由来自SNH48、BEJ48、GNZ48三团组成选拔组共20名成员演绎，且以新生代成员为主，并赴[泰国](../Page/泰国.md "wikilink")[普吉岛取景拍摄MV](https://zh.wikipedia.org/wiki/普吉岛 "wikilink")。EP附有2019年7月27日舉辦的[SNH48 Group第六屆总决选投票券](https://zh.wikipedia.org/wiki/SNH48_Group第六屆总决选 "wikilink")。\[16\]
 
 ### 收錄曲目
 
@@ -565,11 +565,11 @@
 
 ## 时间的歌
 
-《**时间的歌**》是中國偶像組合[SNH48的第](https://zh.wikipedia.org/wiki/SNH48 "wikilink")25張EP。
+《**时间的歌**》是中國偶像組合[SNH48](../Page/SNH48.md "wikilink")的第25張EP。
 
 ### 簡介
 
-《时间的歌》是[SNH48](https://zh.wikipedia.org/wiki/SNH48 "wikilink") Group于2019年秋季发行的EP。本张EP反映了[SNH48 Group第六届总决选的结果](https://zh.wikipedia.org/wiki/SNH48_Group第六届总决选 "wikilink")。
+《时间的歌》是[SNH48](../Page/SNH48.md "wikilink") Group于2019年秋季发行的EP。本张EP反映了[SNH48 Group第六届总决选的结果](https://zh.wikipedia.org/wiki/SNH48_Group第六届总决选 "wikilink")。
 
 ### 收錄曲目
 
@@ -595,7 +595,7 @@
 <!-- end list -->
 
   -
-    沈梦瑶首次參與選拔。
+    沈梦瑶首次參與選拔。李艺彤最后一次参与选拔。
     MV在[日本](../Page/日本.md "wikilink")[札幌拍摄](https://zh.wikipedia.org/wiki/札幌 "wikilink")。
 
 
@@ -616,7 +616,7 @@
     MV在[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[首尔拍摄](https://zh.wikipedia.org/wiki/首尔 "wikilink")。歌曲于2019年8月23日在首尔[Soribada最佳音乐大奖上首秀](https://zh.wikipedia.org/wiki/Soribada最佳音乐大奖 "wikilink")。
 
 
-:**（未公开）** （Center：杨冰怡）
+:**有你** （Center：杨冰怡）
 
   - Team SII：徐子轩（\#36）
   - Team HII：宋雨珊（\#43）
@@ -671,6 +671,8 @@
   - [《我们的旅程》官网的专页](http://www.snh48.com/event/s265/)
 
   - [《那年夏天的梦》官网的专页](http://www.snh48.com/event/s270/)
+
+  - [《时间的歌》官网的专页](http://www.snh48.com/event/s280/)
 
 [Category:SNH48歌曲](https://zh.wikipedia.org/wiki/Category:SNH48歌曲 "wikilink")
 

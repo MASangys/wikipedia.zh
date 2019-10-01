@@ -47,6 +47,8 @@
 
 8月8日，Weki Meki發行單曲2輯改版專輯《WEEK END LOL》，以主打歌曲〈Tiki-Taka(99%)〉回歸。
 
+9月9日，Crush M/V破千萬。
+
 ## 成員列表
 
   - 名字**粗體**為隊長
@@ -148,6 +150,7 @@
 <li>規格: 數位音樂下載、CD</li>
 <li>語言：韓語</li>
 <li>音樂類型：K-POP</li>
+<li>專輯銷售量: 9,149+ [14]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -232,7 +235,7 @@
 
 | 發行日期   | 名稱                                 | 參與成員 |
 | ------ | ---------------------------------- | ---- |
-| |2018年 | Weki Meki Special Photobook \[14\] | 全員   |
+| |2018年 | Weki Meki Special Photobook \[15\] | 全員   |
 |        |                                    |      |
 
 ## 影音作品
@@ -241,13 +244,13 @@
 
 | 年份     | 日期                    | 歌曲名稱                                |
 | ------ | --------------------- | ----------------------------------- |
-| 2017年  | 8月8日                  | I Don't Like Your Girlfriend \[15\] |
-| 2018年  | 1月11日                 | Butterfly \[16\]                    |
-| 2月19日  | Lucky \[17\]          |                                     |
-| 2月21日  | La La La \[18\]       |                                     |
-| 10月11日 | Crush \[19\]          |                                     |
-| 2019年  | 5月14日                 | Picky Picky \[20\]                  |
-| 8月14日  | Tiki-Taka(99%) \[21\] |                                     |
+| 2017年  | 8月8日                  | I Don't Like Your Girlfriend \[16\] |
+| 2018年  | 1月11日                 | Butterfly \[17\]                    |
+| 2月19日  | Lucky \[18\]          |                                     |
+| 2月21日  | La La La \[19\]       |                                     |
+| 10月11日 | Crush \[20\]          |                                     |
+| 2019年  | 5月14日                 | Picky Picky \[21\]                  |
+| 8月14日  | Tiki-Taka(99%) \[22\] |                                     |
 
 ### 參與音樂錄影帶
 
@@ -339,7 +342,7 @@
 <td><p>2018年</p></td>
 <td><p>Olleh TV (網絡版）、<br />
 OCN (電視版）</p></td>
-<td><p><a href="../Page/Short_(電視劇).md" title="wikilink">Short</a> [22]</p></td>
+<td><p><a href="../Page/Short_(電視劇).md" title="wikilink">Short</a> [23]</p></td>
 <td><p>度延</p></td>
 <td><p>刘志娜</p></td>
 <td></td>
@@ -450,6 +453,7 @@ OCN (電視版）</p></td>
 | 6月13日    |
 | 6月15日    |
 | 8月17、24日 |
+| 9月4日     |
 |          |
 
 ## 主持
@@ -744,7 +748,7 @@ OCN (電視版）</p></td>
 
 | 日期         | 名稱                                  | 舉行地點                       |
 | ---------- | ----------------------------------- | -------------------------- |
-| 2018年5月13日 | Weki Meki Wonderful Moment in Japan | 東京都港区赤坂5-3-2 赤坂サカス内 \[23\] |
+| 2018年5月13日 | Weki Meki Wonderful Moment in Japan | 東京都港区赤坂5-3-2 赤坂サカス内 \[24\] |
 
 ### SHOWCASE
 
@@ -890,12 +894,13 @@ OCN (電視版）</p></td>
 
 ## 外部链接
 
-  -
-  -
-  -
-  -
   - [Weki Meki官方網站](https://web.archive.org/web/20180426165401/http://www.fantagio.kr/cn/artists/wekimeki/profile/)
 
+  -
+  -
+  -
+  -
+  -
   - [Weki Meki官方Cafe](http://cafe.daum.net/WekiMeki)
 
   - [Weki Meki官方V Live頻道](http://channels.vlive.tv/E3B36F/video)
@@ -914,7 +919,7 @@ OCN (電視版）</p></td>
 10. [2017年度GAON專輯榜70位](http://gaonchart.co.kr/main/section/chart/total.gaon?serviceGbn=S1060)
 11. [2017年11月GAON專輯榜47位](http://gaonchart.co.kr/main/section/chart/album.gaon?serviceGbn=ALBUM&termGbn=month&hitYear=2017&targetTime=11&nationGbn=K)
 12. [1](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&termGbn=month)
-13. [2019.07](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=07&hitYear=2019&termGbn=month)
+13. [2019年7月 Album Chart](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=07&hitYear=2019&termGbn=month)
 14.
 15.
 16.
@@ -925,3 +930,4 @@ OCN (電視版）</p></td>
 21.
 22.
 23.
+24.

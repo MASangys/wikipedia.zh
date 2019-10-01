@@ -1,8 +1,8 @@
-250px\]\]\[ \[<File:S-TRAIN> logo.svg |pxl = 250px |圖像說明 = S-TRAIN官方LOGO的样子、使用西武40000系电力动车组走行的S-Train优等列车 |日文原名 = |平假名 = |羅馬拼音 = |營運商 = [西武铁道](https://zh.wikipedia.org/wiki/西武铁道 "wikilink")（西武铁道） |列車種類 = [特急列車](https://zh.wikipedia.org/wiki/特别急行列车 "wikilink")、[座席指定制列车](https://zh.wikipedia.org/wiki/座席指定制列车 "wikilink")(工作日·休息日运行) |運行路段 = [元町·中华街](https://zh.wikipedia.org/wiki/元町·中华街站 "wikilink")－[西武秩父](https://zh.wikipedia.org/wiki/西武秩父站 "wikilink")（休息日）、[丰洲](https://zh.wikipedia.org/wiki/丰洲站 "wikilink")－[所泽](https://zh.wikipedia.org/wiki/所泽站 "wikilink") |主要途徑路線 = [横滨高速铁道港未来线](https://zh.wikipedia.org/wiki/横滨高速铁道港未来线 "wikilink")、[东急东横线](https://zh.wikipedia.org/wiki/东急东横线 "wikilink")、[东京地铁副都心线](https://zh.wikipedia.org/wiki/东京地铁副都心线 "wikilink")、[东京地铁有乐町线](https://zh.wikipedia.org/wiki/东京地铁有乐町线 "wikilink")、[西武有樂町線](../Page/西武有樂町線.md "wikilink")、[西武池袋线](../Page/池袋線_\(西武鐵道\).md "wikilink")、[西武秩父线](../Page/西武秩父线.md "wikilink") |使用車輛 = [西武40000系电力动车组](https://zh.wikipedia.org/wiki/西武40000系电力动车组 "wikilink") |服務開始日 = 2017年3月25日 |服務停止日 = |備註 = 优等列车 |全寬備註 = }} **S-Train**是由[西武铁道运营](https://zh.wikipedia.org/wiki/西武铁道 "wikilink")，在[东京地下铁](https://zh.wikipedia.org/wiki/东京地下铁 "wikilink")、[东京急行电铁和](https://zh.wikipedia.org/wiki/东京急行电铁 "wikilink")[横滨高速铁道线路交路](https://zh.wikipedia.org/wiki/横滨高速铁道 "wikilink")[直通运行的对号入座制特别](https://zh.wikipedia.org/wiki/直通运行 "wikilink")[急行列车服务](https://zh.wikipedia.org/wiki/急行列车 "wikilink")，于2017年3月25日正式上线运营。
+250px\]\]\[ \[<File:S-TRAIN> logo.svg |pxl = 250px |圖像說明 = S-TRAIN官方LOGO的样子、使用西武40000系电力动车组走行的S-Train优等列车 |日文原名 = |平假名 = |羅馬拼音 = |營運商 = [西武铁道](https://zh.wikipedia.org/wiki/西武铁道 "wikilink")（西武铁道） |列車種類 = [特急列車](https://zh.wikipedia.org/wiki/特别急行列车 "wikilink")、[座席指定制列车](https://zh.wikipedia.org/wiki/座席指定制列车 "wikilink")(工作日·休息日运行) |運行路段 = [元町·中华街](https://zh.wikipedia.org/wiki/元町·中华街站 "wikilink")－[西武秩父](https://zh.wikipedia.org/wiki/西武秩父站 "wikilink")（休息日）、[丰洲](https://zh.wikipedia.org/wiki/丰洲站 "wikilink")－[所泽](https://zh.wikipedia.org/wiki/所泽站 "wikilink") |主要途徑路線 = [横滨高速铁道港未来线](https://zh.wikipedia.org/wiki/横滨高速铁道港未来线 "wikilink")、[东急东横线](https://zh.wikipedia.org/wiki/东急东横线 "wikilink")、[东京地铁副都心线](https://zh.wikipedia.org/wiki/东京地铁副都心线 "wikilink")、[东京地铁有乐町线](https://zh.wikipedia.org/wiki/东京地铁有乐町线 "wikilink")、[西武有樂町線](../Page/西武有樂町線.md "wikilink")、[西武池袋线](../Page/池袋線_\(西武鐵道\).md "wikilink")、[西武秩父线](../Page/西武秩父线.md "wikilink") |使用車輛 = [西武40000系电力动车组](https://zh.wikipedia.org/wiki/西武40000系电力动车组 "wikilink") |服務開始日 = 2017年3月25日 |服務停止日 = |備註 = 优等列车 |全寬備註 = }} **S-Train**是由[西武铁道运营](https://zh.wikipedia.org/wiki/西武铁道 "wikilink")，在[东京地下铁](https://zh.wikipedia.org/wiki/东京地下铁 "wikilink")、[东京急行电铁和](https://zh.wikipedia.org/wiki/东京急行电铁 "wikilink")[横滨高速铁道](https://zh.wikipedia.org/wiki/横滨高速铁道 "wikilink")-{zh-cn:线路交路;zh-tw:等路線;zh-hk:等路線}-[直通运行的对号入座制](https://zh.wikipedia.org/wiki/直通运行 "wikilink")[特别急行列车服务](https://zh.wikipedia.org/wiki/特别急行列车 "wikilink")，于2017年3月25日正式上线运营。
 
 ## 概要
 
-2016年6月16日，横滨高速铁道、东急、东京地铁以及西武铁道四社发表声明确认未来会有新种别列车运行在四社直通的路线交路上\[1\]，2017年1月10日公布了详细情报\[2\]，确定为以西武铁道为主体，运用该社40000系电力动车组作为专用列车，同时确认了这将是东急和横滨高速铁道第一个直通运行的座位指定制列车。\[3\]S-Train中S的含义是：
+2016年6月16日，横滨高速铁道、东急、东京地铁以及西武铁道四社发表声明确认未来会有新种别列车运行在四社直通的-{zh-cn:路线交路;zh-tw:路線;zh-hk:路線}-上\[1\]，2017年1月10日公布了详细情报\[2\]，确定为以西武铁道为主体，运用该社40000系电力动车组作为专用列车，同时确认了这将是东急和横滨高速铁道第一个直通运行的座位指定制列车。\[3\]S-Train中S的含义是：
 
   - 通勤·上学“Scene”
   - 对号入座，舒适的座位，“Seat”
@@ -10,17 +10,15 @@
 
 ## 运行状态
 
-工作日运行交路和休息日的运行路線是不一样的。由于-{zh-hans:驾驶员;zh-hant:司機}-和車長接班，所有S-Train列车班次在小竹向原站停靠，但并不上下客。
+工作日运行-{zh-cn:交路;zh-tw:路線;zh-hk:路線}-和休息日的运行路線是不一样的。由于-{zh-hans:驾驶员;zh-tw:司機員;zh-hant:司機}-和車長接班，所有S-Train列车班次在小竹向原站停靠，但并不上下客（）。
 
-乘车方法和其他普客列车有很大区别。上下客时一般会開1——2个車门。而在元町·中华街站和西武秩父站是则會开所有車门。
+乘车方法和一般-{zh-cn:普客;zh-tw:區間}-列车有很大区别。上下客时一般会開1——2个車门。而在元町·中华街站和西武秩父站是则會开所有車门。
 
 [File:S-TRAIN101(2).jpg|S-TRAIN发车表示器（地铁](File:S-TRAIN101\(2\).jpg%7CS-TRAIN发车表示器（地铁)[有乐町站](https://zh.wikipedia.org/wiki/有乐町站 "wikilink")）
 
 ### 工作日运行
 
-工作日主要是以通勤运输为主，所泽——丰州交路，经由东京地铁有乐町线·西武有乐町线·西武池袋线。丰州方向3班，所泽方向2班，最大的特征是不停池袋站。
-
-除始发站和终点站之外，仅石神井公园、保谷、所泽、丰州、有乐町、饭田桥站上下车。
+工作日主要是以通勤运输为主，所泽——丰洲-{zh-cn:交路，;zh-tw:，;zh-hk:，}-经由东京地铁有乐町线·西武有乐町线·西武池袋线。丰州方向3班，所泽方向2班，最大的特征是不停池袋站。 除始發站和終點站之外，僅石神井公園、保谷、所澤、豐洲、有乐町、饭田桥站上下车。
 
 ### 休息日运行
 

@@ -38,6 +38,8 @@
 
 ## 參考資料
 
+[分類:反俄情緒](https://zh.wikipedia.org/wiki/分類:反俄情緒 "wikilink") [分類:機場背景作品](https://zh.wikipedia.org/wiki/分類:機場背景作品 "wikilink")
+
 [Category:電子遊戲關卡](https://zh.wikipedia.org/wiki/Category:電子遊戲關卡 "wikilink") [Category:使命召唤系列](https://zh.wikipedia.org/wiki/Category:使命召唤系列 "wikilink") [Category:恐怖活動題材作品](https://zh.wikipedia.org/wiki/Category:恐怖活動題材作品 "wikilink") [Category:电子游戏争议](https://zh.wikipedia.org/wiki/Category:电子游戏争议 "wikilink")
 
 1.

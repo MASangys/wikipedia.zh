@@ -57,7 +57,7 @@
 
 ## 車站周邊
 
-  - [阪急電鐵](../Page/阪急電鐵.md "wikilink")[京都本線](../Page/京都本線.md "wikilink")（相距約700公尺，徒歩7分）
+  - [阪急電鐵](../Page/阪急電鐵.md "wikilink")[京都本線](../Page/京都本線.md "wikilink")[總持寺站](https://zh.wikipedia.org/wiki/總持寺站 "wikilink")（相距約700公尺，徒歩7分）
 
   -
   -

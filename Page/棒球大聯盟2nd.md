@@ -20,6 +20,8 @@
 
 ## 出版書籍
 
+### 漫畫
+
 <table>
 <thead>
 <tr class="header">
@@ -113,6 +115,35 @@
 <td><p>16</p></td>
 <td><p>2018年11月16日</p></td>
 <td><p>ISBN 978-4-09-128579-9</p></td>
+</tr>
+</tbody>
+</table>
+
+### 小說
+
+<table>
+<thead>
+<tr class="header">
+<th><p>冊數</p></th>
+<th><p>日文標題</p></th>
+<th><p><a href="../Page/小學館.md" title="wikilink">小學館</a></p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>發售日期</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td></td>
+<td><p>2018年5月30日</p></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+<td></td>
+<td><p>2018年6月29日</p></td>
 </tr>
 </tbody>
 </table>

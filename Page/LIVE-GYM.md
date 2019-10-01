@@ -34,7 +34,7 @@ SHOWCASE是以LIVE HOUSE或音樂廳會場為中心舉辦，並且無其它表�
 
 ### 慣例詞句
 
-B'z的演唱會有著成為常例的台詞。在演唱會開始後，最初的[MC是](../Page/司儀.md "wikilink")「B'z的LIVE-GYM歡迎光臨——！{{\#tag:ref||group="原文"}}」（在SHOWCASE的場合是「B'z的SHOWCASE歡迎光臨——！{{\#tag:ref||group="原文"}}」），亦有會邊說邊加上表演的情況。從結論上而言，雖絕大多數由稻葉負責說所有台詞，但迄今為止亦有支援樂手會說到「B'z的…」為止\[13\]、亦有松本與稻葉一起說「B'z的LIVE-GYM歡迎光臨——！」的情況\[14\]。
+B'z的演唱會有成為常例的台詞。在演唱會開始後，最初的[MC是](../Page/司儀.md "wikilink")「B'z的LIVE-GYM歡迎光臨——！{{\#tag:ref||group="原文"}}」（在SHOWCASE的場合是「B'z的SHOWCASE歡迎光臨——！{{\#tag:ref||group="原文"}}」），亦有會邊說邊加上表演的情況。從結論上而言，雖絕大多數由稻葉負責說所有台詞，但迄今為止亦有支援樂手會說到「B'z的…」為止\[13\]、亦有松本與稻葉一起說「B'z的LIVE-GYM歡迎光臨——！」的情況\[14\]。
 
 在演唱會最後，由成員全員與觀眾一同大喊作結已成為常例。當稻葉說道「預——備！{{\#tag:ref||group="原文"}}」，成員與觀眾會一起說「辛苦了——！{{\#tag:ref||group="原文"}}」，在「了——！{{\#tag:ref||group="原文"}}」的時機大家會把拳頭向上高舉。
 
@@ -387,7 +387,7 @@ B'z WAVE-GYM SPECIAL EVENT</p></td>
 <div class="NavContent" style="text-align:left;">
 </div>
 </div>
-<p>首次競技場巡演。360度開放舞台，後台亦有動員觀眾。採用了名為「STAR FISH」的移動桁架系統。<a href="../Page/增田隆宣.md" title="wikilink">增田隆宣</a>作為<a href="https://zh.wikipedia.org/wiki/鍵盤手" title="wikilink">鍵盤手首次參加</a>，此後除去SURVIVE巡演外，參加了所有演唱會。總動員數120,000人。<br />
+<p>首次競技場巡演。360度開放舞台，後台亦有動員觀眾。採用了名為「STAR FISH」的移動桁架系統。<a href="../Page/增田隆宣.md" title="wikilink">增田隆宣</a>作為<a href="https://zh.wikipedia.org/wiki/鍵盤手" title="wikilink">鍵盤手首次參加</a>，此後除去『B'z LIVE-GYM '98 "SURVIVE"』外，參加了直至『B'z LIVE-GYM Pleasure 2018 -HINOTORI-』為止的所有演唱會。總動員數120,000人。<br />
 <strong>EDSE</strong> - 「<a href="../Page/LADY_NAVIGATION.md" title="wikilink">Pleasure'91</a> (Piano ver.)」</p></td>
 </tr>
 <tr class="odd">
@@ -1754,7 +1754,7 @@ RADIO CRAZY 2017</a></p></td>
 <td><p>2018年9月29日</p></td>
 <td><p><small>B'z PARTY Presents</small><br />
 B'z Pleasure in Hawaii</p></td>
-<td><p><strong>1會場1公演</strong> - Neal S. Blaisdell Concert Hall (Hawaii) 舉辦在夏威夷作為來自<a href="../Page/B&#39;z_Party.md" title="wikilink">B'z Party的粉絲俱樂部活動一環舉行的限定演唱會</a>。亦在日本國內電影院以粉絲俱樂部會員（可偕同非會員）為對象舉辦了現場直播[47]。因根據<a href="../Page/颱風潭美_(2018年).md" title="wikilink">24號颱風的影響</a>，中止了部分地區的現場直播，故於2018年12月9日、10日以中止上映的電影院，與其他交通網受影響的地區為中心實施了再度上映。</p></td>
+<td><p><strong>1會場1公演</strong> - Neal S. Blaisdell Concert Hall (Hawaii) 舉辦在夏威夷作為來自<a href="../Page/B&#39;z_Party.md" title="wikilink">B'z Party的粉絲俱樂部活動一環舉行的限定演唱會</a>。亦在日本國內電影院以粉絲俱樂部會員（可偕同非會員）為對象舉辦了<a href="https://zh.wikipedia.org/wiki/Live_Viewing" title="wikilink">現場直播</a>（Live Viewing）[47]。因根據<a href="../Page/颱風潭美_(2018年).md" title="wikilink">24號颱風的影響</a>，中止了部分地區的現場直播，故於2018年12月9日、10日以中止上映的電影院，與其他交通網受影響的地區為中心實施了再度上映。</p></td>
 </tr>
 </tbody>
 </table>
@@ -1788,9 +1788,10 @@ B'z Pleasure in Hawaii</p></td>
 </div>
 </div>
 <p>標題取自合併了專輯標題與<a href="https://zh.wikipedia.org/wiki/Led_Zeppelin" title="wikilink">Led Zeppelin的樂曲</a>「<a href="https://zh.wikipedia.org/wiki/Whole_Lotta_Love" title="wikilink">Whole Lotta Love</a>」[48]。<br />
-因「作為一個樂團必須時時求變」這樣的成員意向，成為了自『B'z LIVE-GYM '98 "SURVIVE"』以來，支援樂手全體換新的巡演[49][50]。<br />
+因「作為一個樂團必須不斷求變{{#tag:ref||group="原文"}}」這樣的成員意向，成為了自『B'z LIVE-GYM '98 "SURVIVE"』以來，支援樂手全體換新的巡演[49][50]。<br />
 在7月6日的大阪公演達成了LIVE-GYM總計第1000場公演[51][52]。<br />
-9月10日的福岡公演預定在日本與<a href="../Page/臺灣.md" title="wikilink">臺灣</a>的電影院舉辦現場直播[53]。</p></td>
+9月10日的福岡公演在日本與<a href="../Page/臺灣.md" title="wikilink">臺灣</a>的電影院舉辦了現場直播（Live Viewing）[53]。<br />
+<strong>EDSE</strong> - 「ひとりじゃないから -Theme of LIVE-GYM-」「きみとなら」</p></td>
 </tr>
 <tr class="odd">
 <td><p>2019年8月16日・18日</p></td>

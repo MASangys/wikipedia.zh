@@ -122,7 +122,7 @@
 
   - （台灣）
 
-  - \[<https://www.youtube.com/c/LINETVtw>| LINE TV\]的YouTube頻道（台灣）
+  - （台灣）
 
   - （台灣）
 

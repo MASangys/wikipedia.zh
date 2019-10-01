@@ -277,7 +277,7 @@
 <tr class="even">
 <td><p>朴賢碩</p></td>
 <td><p>박현석</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/釜山大學" title="wikilink">釜山大學</a><a href="https://zh.wikipedia.org/wiki/牙醫" title="wikilink">牙醫學院研究生</a>、門薩會員（IQ156）、曾擔任過體育協會的跑步隊隊長。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/釜山大學" title="wikilink">釜山大學</a><a href="../Page/牙醫.md" title="wikilink">牙醫</a>學院研究生、門薩會員（IQ156）、曾擔任過體育協會的跑步隊隊長。</p></td>
 </tr>
 <tr class="odd">
 <td><p>金光鎮</p></td>

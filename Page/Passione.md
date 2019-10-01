@@ -118,6 +118,15 @@
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>2020年</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/異種族風俗娘評鑑指南" title="wikilink">異種族風俗娘評鑑指南</a></p></td>
+<td></td>
+<td><p>1月－</p></td>
+<td><p>小川優樹</p></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

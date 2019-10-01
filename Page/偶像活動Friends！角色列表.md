@@ -8,12 +8,11 @@
   -
     配音員：日：／台：[楊凱凱](../Page/楊凱凱.md "wikilink")
     7月20日出生，[巨蟹座](../Page/巨蟹座.md "wikilink")，血型[O型](https://zh.wikipedia.org/wiki/ABO血型系統 "wikilink")。
-    動畫故事的故事主角。
+    街機1彈登場玩家。動畫故事的故事主角。
     常用品牌：**Sugar Melody**。
-    為專屬服裝品牌**Sugar Melody**的代表繆斯。
-    第1期時就讀中學二年級，從星睦學園普通科轉至偶像科的學生。
-    喜歡交朋友，每交一個朋友就會記錄在友誼相冊中，口頭禪是「儘管放馬過來吧☆」。
-    她與學校裡最受歡迎的偶像湊美緒成為朋友，並組成雙人組合。
+    第1期時就讀中學二年級，從星睦學園普通科轉至偶像科的學生。性格明朗、積極善良。
+    擅長交朋友，每交一個朋友就會記錄在友誼相冊中，口頭禪是「放馬過來☆」。
+    她和校園中最受歡迎的偶像湊美緒成為好朋友，並組成雙人組合。
     家中經營喫茶店，在5兄弟姊妹中為次女。
 
 <!-- end list -->
@@ -21,31 +20,33 @@
   -
     配音員：日：[木戶衣吹](../Page/木戶衣吹.md "wikilink")／台：[劉如蘋](../Page/劉如蘋.md "wikilink")
     1月6日出生，[魔羯座](https://zh.wikipedia.org/wiki/魔羯座 "wikilink")，血型A型。
-    動畫故事的故事主角。
+    街機1彈登場玩家。動畫故事的故事主角。
     常用品牌：**MATERIAL COLOR**。
-    為專屬服裝品牌**MATERIAL COLOR**的代表繆斯兼服裝設計師。
-    第1期時就讀中學二年級，星睦學園偶像科的學生。成績優秀的優等生。
-    外表看起來不好接近，但其實是個善解人意的人。
-    學校內公認的頂級偶像，因為與愛音成為朋友為契機結成雙人組合，並以「鑽石友誼」為目標。
+    自身的服裝品牌**MATERIAL COLOR**的繆斯兼設計師。
+    第1期時就讀中學二年級，星睦學園偶像科的學生。擁有非常突出的時尚感。
+    外表看起來不好接近，但其實是個善解人意的人。喜歡友希家的企鵝潘仔。
+    童星出身的頂尖偶像，因為與愛音成為好朋友為契機組成雙人組合，並以「鑽石友誼」為目標。
 
 ### Honey Cat
 
   -
-    配音員：日：[美山加戀](../Page/美山加戀.md "wikilink")／台：
+    配音員：日：[美山加戀](../Page/美山加戀.md "wikilink")／台：[徐瑀甄](https://zh.wikipedia.org/wiki/徐瑀甄 "wikilink")
     8月8日出生，[獅子座](https://zh.wikipedia.org/wiki/獅子座 "wikilink")，血型O型。
+    街機1彈登場玩家。
     常用品牌：**Dancing Mirage**。
-    為專屬服裝品牌**Dancing Mirage**的代表繆斯。
     第1期時就讀中學二年級，星睦學園偶像科的學生。是個如成熟女性般大氣的神秘女孩。
-    擅長舞蹈，並且很喜歡祭典等與熱血有關的事物，熱衷於幫地區足球隊加油，有懼高症，也害怕鬼怪。
+    運動神經很好，擅長舞蹈，也是很受歡迎的模特。
+    很喜歡祭典等與熱血有關的事物，熱衷於幫地區足球隊加油，有懼高症，也害怕鬼怪。
+    與大一屆的繪麻組成雙人組合。
 
 <!-- end list -->
 
   -
-    配音員：日：／台：
+    配音員：日：／台：[連婉鈞](https://zh.wikipedia.org/wiki/連婉鈞 "wikilink")
     3月21日出生，[牡羊座](https://zh.wikipedia.org/wiki/牡羊座 "wikilink")，血型B型。
+    街機1彈登場玩家。
     常用品牌：**COLORFUL SHAKE**。
-    為專屬服裝品牌**COLORFUL SHAKE**的代表繆斯。
-    第1期時就讀中學三年級，星睦學園偶像科的學生。
+    第1期時就讀中學三年級，星睦學園偶像科的學生。歌唱能力和節奏感出眾。
     個性活潑外向，對愛音等學妹總是表現大姊姊的樣子。口頭禪是「包在姐姐身上！！！」。
     是學校袋棍球社成員，具有國家級選手的運動實力，比較害怕小動物。
 
@@ -54,9 +55,8 @@
   -
     配音員：日：[田所梓](../Page/田所梓.md "wikilink")／台：楊凱凱
     10月4日出生，[天秤座](../Page/天秤座.md "wikilink")，血型B型。
-    街機6彈以中學生的時期登場。
+    街機1彈登場玩家，街機6彈以中學生的時期登場。
     常用品牌：**Classical Ange**。
-    為專屬服裝品牌**Classical Ange**的代表繆斯。
     第1期時就讀高中二年級。為去年贏得鑽石友誼盃的雙人組合「Love Me Tear」的成員，為星睦學園的畢業生。
     自幼受英才教育，從弓箭、插花、料理都精通，多才多藝的一流名門千金。是個有如天使般慈祥的女孩。
     偶爾會做出讓朋友兼搭檔的未來感到不可思議的事情。
@@ -66,9 +66,9 @@
   -
     配音員：日：[大橋彩香](../Page/大橋彩香.md "wikilink")／台：劉如蘋
     5月9日出生，[金牛座](../Page/金牛座.md "wikilink")，血型A型。
-    街機6彈以中學生的時期登場。
+    街機1彈登場玩家，街機6彈以中學生的時期登場。
     常用品牌：**Milky Joker**。
-    為專屬服裝品牌**Milky Joker**的代表繆斯兼服裝設計師。
+    自身的服裝品牌**Milky Joker**的繆斯兼設計師。
     第1期時就讀高中二年級。雙人組合「Love Me Tear」的成員，亦為星睦學園的畢業生。
     喜歡社群網路、對流行話題敏感的努力家，堪稱是偶像們的榜樣。
     熱情開朗，充滿活力，非常關心朋友兼搭檔的凱倫。
@@ -80,7 +80,6 @@
     6月9日出生，[雙子座](https://zh.wikipedia.org/wiki/雙子座 "wikilink")，血型AB型。
     街機3彈登場玩家。
     常用品牌：**Luna Witch**。
-    為專屬服裝品牌**Luna Witch**的代表繆斯。
     第1期時就讀中學二年級，於動畫第17話登場，月夜乃學園的學生。擅長占卜的偶像，經營高人氣的占卜網站「月的裏側」。
     平時容易寂寞害羞，但有著演員的才華，在螢光幕前能展現讓人驚豔的演技。
     以占星骰子和書進行占卜。
@@ -93,7 +92,6 @@
     6月9日出生，[雙子座](https://zh.wikipedia.org/wiki/雙子座 "wikilink")，血型AB型。
     街機4彈登場玩家。
     常用品牌：**Moon Maiden**。
-    為專屬服裝品牌**Moon Maiden**的代表繆斯。
     第1期時就讀中學二年級，於動畫第19話登場，月夜乃學園的學生。
     白百合咲夜的雙胞胎妹妹。
     性格有些高傲，但心思細膩，對姐姐咲夜非常景仰，認為自己沒有與姐姐相當的才能。
@@ -107,7 +105,6 @@
     5月25日出生，[雙子座](https://zh.wikipedia.org/wiki/雙子座 "wikilink")，血型B型。
     街機閃耀的寶石1彈登場玩家。
     常用品牌：**Heavenly Perfume**。
-    為專屬服裝品牌**Heavenly Perfume**的代表繆斯。
     突然在愛音面前出現的偶像活動藝人。
     充滿魅力，成熟而且具有風格的偶像，比任何人都帥氣。
     擁有自己的秘書團隊「Lovely Friends」。
@@ -120,7 +117,6 @@
     2月23日出生，[雙魚座](https://zh.wikipedia.org/wiki/雙魚座 "wikilink")，血型A型。
     街機閃耀的寶石2彈登場玩家。
     常用品牌：**Glorious Snow**。
-    為專屬服裝品牌**Glorious Snow**的代表繆斯。
     曾經和響一組的偶像。
     有著獨特氣氛的美少女和讓人看到著迷的魅力。
     索爾伯特王國的公主，和「Love Me Tear」的兩人同年。怕熱。
@@ -148,7 +144,6 @@
     9月3日出生，[處女座](https://zh.wikipedia.org/wiki/處女座 "wikilink")，血型A型。
     街機閃耀的寶石3彈登場玩家。
     常用品牌：**Humming Leaf**。
-    為專屬服裝品牌**Humming Leaf**的代表繆斯。
     第2期時就讀中學3年級。
     目標要成為「Pure Palette」那樣的偶像，並在「未來的奇蹟試鏡」中被未來選中的孩子。
     有著可愛的聲音和像海綿一樣的吸收力。
@@ -157,7 +152,7 @@
 <!-- end list -->
 
   -
-    配音員：日：[諸星堇](../Page/諸星堇.md "wikilink")／台：
+    配音員：日：[諸星堇](../Page/諸星堇.md "wikilink")／台：徐瑀甄
     街機5彈登場玩家。
     導覽系統「Aikatsu Navi」的[AI](https://zh.wikipedia.org/wiki/AI "wikilink")，擔任協助偶像們活動的解說角色。充滿幹勁，感情豐富，偶爾會做出不同於平日的舉動。
 
@@ -166,19 +161,19 @@
 ### 教職員
 
   -
-    配音員：日：[中原麻衣](../Page/中原麻衣.md "wikilink")／台：[林沛笭](../Page/林沛笭.md "wikilink")
+    配音員：日：[中原麻衣](../Page/中原麻衣.md "wikilink")／台：徐瑀甄
     星睦學園的所屬經紀人，負責規劃美緒、繪麻、舞花及愛音四人的偶像工作。
 
 <!-- end list -->
 
   -
-    配音員：日：[平川大輔](../Page/平川大輔.md "wikilink")／台：
+    配音員：日：[平川大輔](../Page/平川大輔.md "wikilink")／台：[歐祖豪](https://zh.wikipedia.org/wiki/歐祖豪 "wikilink")
     星睦學園所屬髮型設計師。
 
 <!-- end list -->
 
   -
-    配音員：日：[佐藤利奈](../Page/佐藤利奈.md "wikilink")／台：
+    配音員：日：[佐藤利奈](../Page/佐藤利奈.md "wikilink")／台：連婉鈞
     星睦學園所屬服裝顧問，也是**Sugar Melody**的服裝設計師。
 
 <!-- end list -->
@@ -204,7 +199,7 @@
 ### 友希家
 
   -
-    配音員：日：[保村真](../Page/保村真.md "wikilink")／台：[歐祖豪](https://zh.wikipedia.org/wiki/歐祖豪 "wikilink")
+    配音員：日：[保村真](../Page/保村真.md "wikilink")／台：歐祖豪
     愛音的父親。經營喫茶店「企鵝咖啡廳」。
 
 <!-- end list -->
@@ -228,13 +223,13 @@
 <!-- end list -->
 
   -
-    配音員：日：[高田憂希](../Page/高田憂希.md "wikilink")／台：[林沛笭](../Page/林沛笭.md "wikilink")
+    配音員：日：[高田憂希](../Page/高田憂希.md "wikilink")／台：徐瑀甄
     愛音的妹妹。
 
 <!-- end list -->
 
   -
-    配音員：日：[齋藤綾](../Page/齋藤綾.md "wikilink")／台：
+    配音員：日：[齋藤綾](../Page/齋藤綾.md "wikilink")／台：連婉鈞
     愛音的弟弟。
 
 <!-- end list -->
@@ -308,11 +303,9 @@
   -
     YouTube上的偶像活動！頻道「偶Tube」的[虛擬YouTuber](../Page/虛擬YouTuber.md "wikilink")，樣貌跟可可相似。動畫中未登場。
 
-## 注釋
-
 ## 參考資料
 
-  - [電視動畫《偶像活動Friends！》官網人物介紹](http://www.aikatsu.net/character/index.html)
+  - [電視動畫《偶像活動Friends！》官網人物介紹](http://www.aikatsu.net/aikatsufriends_02/character/index.html)
   - [電視動畫《偶像活動Friends！》東京電視台官網人物介紹](https://www.tv-tokyo.co.jp/anime/aikatsufriends/chara/)
 
 [Category:Aikatsu！偶像活動！](https://zh.wikipedia.org/wiki/Category:Aikatsu！偶像活動！ "wikilink") [Category:電子遊戲角色列表](https://zh.wikipedia.org/wiki/Category:電子遊戲角色列表 "wikilink") [Category:日本動漫角色列表](https://zh.wikipedia.org/wiki/Category:日本動漫角色列表 "wikilink")

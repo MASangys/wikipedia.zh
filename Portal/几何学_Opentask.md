@@ -27,7 +27,7 @@
 <!-- end list -->
 
   - 模板:, ，,
-  - [空间群](../Page/空间群.md "wikilink"), [多胞形](https://zh.wikipedia.org/wiki/多胞形 "wikilink"), [代数几何](../Page/代数几何.md "wikilink")
+  - [空间群](../Page/空间群.md "wikilink"), [多胞形](../Page/多胞形.md "wikilink"), [代数几何](../Page/代数几何.md "wikilink")
 
 <!-- end list -->
 

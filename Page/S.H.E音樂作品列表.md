@@ -503,7 +503,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/我的電台_FM_S.H.E" title="wikilink">我的電台 FM S.H.E</a></p></td>
 <td><p>安靜了（S.H.E）</p></td>
 <td><p>詞：Selina</p></td>
-<td><p>Selina寫給丈夫張承中的歌曲</p></td>
+<td><p>Selina寫給前夫張承中的歌曲</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -622,7 +622,7 @@
   -
   -
   -
-[Category:S.H.E](https://zh.wikipedia.org/wiki/Category:S.H.E "wikilink") [Category:台灣音樂作品列表](https://zh.wikipedia.org/wiki/Category:台灣音樂作品列表 "wikilink") [Category:流行音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行音樂作品列表 "wikilink")
+[Category:S.H.E](https://zh.wikipedia.org/wiki/Category:S.H.E "wikilink") [Category:台灣音樂作品列表](https://zh.wikipedia.org/wiki/Category:台灣音樂作品列表 "wikilink") [Category:流行樂團音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行樂團音樂作品列表 "wikilink")
 
 1.  成員的個人部分請參閱個人「音樂作品列表」。
 

@@ -39,6 +39,7 @@ Google助理在[Google即时](../Page/Google即时.md "wikilink")的性质和方
   - [Amazon Alexa](https://zh.wikipedia.org/wiki/Amazon_Alexa "wikilink")
   - [Cortana](../Page/Cortana.md "wikilink")
   - [Siri](../Page/Siri.md "wikilink")
+  - [Bixby](../Page/Bixby.md "wikilink")
 
 ## 参考文献
 

@@ -43,6 +43,7 @@ Deeplearning4j的实际应用情景包括金融行业\[15\]的欺诈侦测、制
   - [人工智能](../Page/人工智能.md "wikilink")
   - [机器学习](../Page/机器学习.md "wikilink")
   - [深度学习](../Page/深度学习.md "wikilink")
+  - [卷积神经网络](../Page/卷积神经网络.md "wikilink")
 
 ## 参考文献
 

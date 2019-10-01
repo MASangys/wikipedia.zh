@@ -2,7 +2,7 @@
 
 ## 概要
 
-《Miracle Girl》部分歌曲的作詞是由後來與聲優[高山南](../Page/高山南.md "wikilink")組成音樂組合[TWO-MIX的音樂製作人](https://zh.wikipedia.org/wiki/TWO-MIX "wikilink")[永野椎菜擔任](https://zh.wikipedia.org/wiki/永野椎菜 "wikilink")。還有，由永野負責作詞的歌曲都由負責作曲。
+《Miracle Girl》部分歌曲的作詞是由後來與聲優[高山南](../Page/高山南.md "wikilink")組成音樂組合[TWO-MIX的音樂製作人](https://zh.wikipedia.org/wiki/TWO-MIX "wikilink")[永野椎菜](../Page/永野椎菜.md "wikilink")擔任。還有，由永野負責作詞的歌曲都由負責作曲。
 
 表題專輯歌曲「Miracle Girl」（曾經被[日本電視台](../Page/日本電視台.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[YAWARA！](https://zh.wikipedia.org/wiki/以柔克剛 "wikilink")》選為片頭主題曲使用）並沒有在這張專輯收錄。但是在同年10月1日以單曲的形式發行之後，翌年1990年4月18日發行的第5張個人專輯《》則有收錄。
 
@@ -20,8 +20,8 @@
 3.  **風**
       - 作詞：亞伊林，作曲：谷口守
 4.  **50/50（Fifty Fifty）**
-      - 作詞：[永野椎菜](https://zh.wikipedia.org/wiki/永野椎菜 "wikilink")，作曲：
-      - 永井加入[永野椎菜](https://zh.wikipedia.org/wiki/永野椎菜 "wikilink")、[高山南](../Page/高山南.md "wikilink")的音樂組合－ES CONNEXION時期，在1994年發行唯一專輯《RHYTHMIX》由她自己重新翻唱的歌曲。
+      - 作詞：[永野椎菜](../Page/永野椎菜.md "wikilink")，作曲：
+      - 永井加入[永野椎菜](../Page/永野椎菜.md "wikilink")、[高山南](../Page/高山南.md "wikilink")的音樂組合－ES CONNEXION時期，在1994年發行唯一專輯《RHYTHMIX》由她自己重新翻唱的歌曲。
 5.  **秘密物**
       - 作詞：永井真理子，作曲：谷口守
 6.  **Ready Steady Go！**

@@ -28,7 +28,7 @@
   - 本地唱作女歌手
       - [AGA](https://zh.wikipedia.org/wiki/AGA_\(歌手\) "wikilink")
   - 本地女歌手
-      - [容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")
+      - [容祖兒](../Page/容祖兒.md "wikilink")
   - 本地男歌手
       - [李克勤](../Page/李克勤.md "wikilink")\[2\]
   - 本地音樂組合

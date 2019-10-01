@@ -1,4 +1,4 @@
-《**PRIMAL×HEARTS**》是日本[MARMALADE](../Page/MARMALADE.md "wikilink")（ま～まれぇど）在2014年3月28日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]2015年10月30日發售續作《[PRIMAL×HEARTS2](../Page/PRIMAL×HEARTS2.md "wikilink")》\[3\]，初回限定版的特典是本作Fan Disc《倉賀野聖良Love Love After》（倉賀野聖良らぶらぶアフター）。\[4\]
+《**PRIMAL×HEARTS**》是日本[MARMALADE](../Page/MARMALADE.md "wikilink")（ま～まれぇど）在2014年8月29日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]2015年10月30日發售續作《[PRIMAL×HEARTS2](../Page/PRIMAL×HEARTS2.md "wikilink")》\[3\]，初回限定版的特典是本作Fan Disc《倉賀野聖良Love Love After》（倉賀野聖良らぶらぶアフター）。\[4\]
 
 ## 故事
 
@@ -8,30 +8,30 @@
 
 ### 主要角色
 
-  - 帯刀和馬
+  -
     本作男主角，2年級學生。
-  - 倉賀野聖良（[CV](../Page/配音員.md "wikilink")：[遥空](https://zh.wikipedia.org/wiki/遥空 "wikilink")）
+  -
     生日：11月22日　血型：A型　身高：160cm　三圍：B87（E）/W57/H88
     2-F的學生，月華會的會長。
-  - 天神平陽姫（CV：鈴藤ここあ）
+  -
     生日：4月26日　血型：B型　身高：146cm　 三圍：B68（AA）/W52/H70
     1-A的學生，天道會的會長。
-  - 駒形ゆづき（CV：藤森ゆき奈）
+  -
     生日：1月5日　血型：O型　身高：165cm　 三圍：B84（C）/W55/H81
     和馬的同學，月華會的會計。
-  - 神流歌奈（CV：御苑生メイ）
+  -
     生日：9月14日　血型：A型　身高：163cm　 三圍：B90（F）/W58/H89
     3-A的學生，天道會的副會長。
 
 ### 其他角色
 
-  - 本動堂萌衣（CV：[松田理沙](../Page/松田理沙.md "wikilink")）
+  -
     和馬的班級老師，月華會的顧問。
-  - 幸塚美智（CV：茶町チャチャ）
+  -
     和馬的同學，天道會的會計。
-  - 五明孝明（CV：一文字系）
+  -
     2-C的學生，月華會的副會長。
-  - 御座入紀洋（CV：ほうでん亭ノドガシラ）
+  -
     和馬的同學，天道會的書記。擁有御宅族的興趣。
 
 ## 主題歌
@@ -70,7 +70,7 @@ PRIMAL×HEARTS獲得[萌系遊戲大賞](../Page/萌系遊戲大賞.md "wikilink
 
 ## 外部連結
 
-  - [MARMALADE](http://www.web-marmalade.com/)
+  - [官方網站](http://www.web-marmalade.com/products/primal/index.html)
 
 [Category:2014年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2014年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink") [Category:學生會題材作品](https://zh.wikipedia.org/wiki/Category:學生會題材作品 "wikilink")
 

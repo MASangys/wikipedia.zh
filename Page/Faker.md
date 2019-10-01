@@ -8,7 +8,7 @@
 
 ### 職業生涯
 
-[SK_Telecom_T1_at_LoL_World_Championship_2013.jpg](https://zh.wikipedia.org/wiki/File:SK_Telecom_T1_at_LoL_World_Championship_2013.jpg "fig:SK_Telecom_T1_at_LoL_World_Championship_2013.jpg")，從左至右為Faker、Impact、Piglet、PoohManDu和Bengi。\]\] Faker最出名的英雄是加里歐、奧莉安娜、雷茲、乐芙兰、劫、阿璃和璐璐。他是史上第一个三次奪得英雄聯盟世界大賽冠軍的中路選手，與前打野隊友Bengi同為世界大賽奪冠次數最多者。
+[SK_Telecom_T1_at_LoL_World_Championship_2013.jpg](https://zh.wikipedia.org/wiki/File:SK_Telecom_T1_at_LoL_World_Championship_2013.jpg "fig:SK_Telecom_T1_at_LoL_World_Championship_2013.jpg")，從左至右為Faker、Impact、Piglet、PoohManDu和Bengi。\]\] Faker最出名的英雄是加里歐、奧莉安娜、雷茲、勒布朗、劫、阿璃和璐璐。他是史上第一个三次奪得英雄聯盟世界大賽冠軍的中路選手，與前打野隊友Bengi同為世界大賽奪冠次數最多者。
 
 2013年4月6日第一次為SK Telecom T1 2在職業賽場上陣，對手是CJ Entus Blaze。
 

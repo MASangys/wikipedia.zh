@@ -1,4 +1,4 @@
-**Windows 測試人員**（）使用户可以获得以往僅有高專業开发人员才能取得的 [Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink") [操作系统](../Page/操作系统.md "wikilink")開發版本。\[1\]這項計畫于 2014 年 9 月 30 日和 [Windows 10](../Page/Windows_10.md "wikilink") 技术预览版一起被宣布。\[2\]截至 2014 年底，超过 150 万人安装了 Windows 10 技术预览版。\[3\]2015 年 2 月 12 日，微软推送了 [Windows 10 Mobile](https://zh.wikipedia.org/wiki/Windows_10_Mobile "wikilink") 的第一个预览版。\[4\]Windows -{zh-tw:測試人員;zh-cn:会员;}-计划在 Windows 10 正式发布后仍继续推送更新。
+**Windows 測試人員**（）使用户可以获得以往僅有高專業开发人员才能取得的 [Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink") [操作系统](../Page/操作系统.md "wikilink")開發版本。\[1\]這項計劃于 2014 年 9 月 30 日和 [Windows 10](../Page/Windows_10.md "wikilink") 技术预览版一起被宣布。\[2\]截至 2014 年底，超过 150 万人安装了 Windows 10 技术预览版。\[3\]2015 年 2 月 12 日，微软推送了 [Windows 10 Mobile](https://zh.wikipedia.org/wiki/Windows_10_Mobile "wikilink") 的第一个预览版。\[4\]Windows -{zh-tw:測試人員;zh-cn:会员;}-计划在 Windows 10 正式发布后仍继续推送更新。
 
 ## 發佈通道（環）
 

@@ -1,4 +1,4 @@
-*' Team X 4th Stage「命運的X號」公演*'是[SNH48的剧场公演](https://zh.wikipedia.org/wiki/SNH48 "wikilink")，此套公演同時也是SNH48 Team X的第二场原創公演\[1\]。
+*' Team X 4th Stage「命運的X號」公演*'是[SNH48](../Page/SNH48.md "wikilink")的剧场公演，此套公演同時也是SNH48 Team X的第二场原創公演\[1\]。
 
 ## 概要
 

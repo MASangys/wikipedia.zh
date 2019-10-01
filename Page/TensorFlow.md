@@ -97,10 +97,10 @@ TensorFlow的一大特色是其图中的节点可以是带状态的。
 例：使用占位符
 
 ``` python
-import tensorflow as tf
 input_placeholder = tf.placeholder(tf.int32)
 sess = tf.Session()
-print sess.run(input_placeholder, feed_dict={input_placeholder: 2})
+print (sess.run(input_placeholder, feed_dict={input_placeholder: 2}))
+sess.close()
 ```
 
 例：使用变量、给变量赋值
@@ -114,13 +114,14 @@ zero_node = tf.constant(0.)
 assign_node = tf.assign(count_variable, zero_node)
 sess = tf.Session()
 sess.run(assign_node)
-print sess.run(count_variable)
+print (sess.run(count_variable))
 
 const_init_node = tf.constant_initializer(0.)
 count_variable1 = tf.get_variable("count1", [], initializer=const_init_node)
 init = tf.global_variables_initializer()
 sess.run(init)
-print sess.run(count_variable1)
+print (sess.run(count_variable1))
+sess.close()
 ```
 
 例：带状态的图

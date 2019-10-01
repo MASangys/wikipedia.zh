@@ -2,20 +2,20 @@
 
 ## 故事簡介
 
-將肉體與「裝甲技術」融合的究極格鬥技——「MEGALOBOX」，將自己的全部賭在上面的男人們的熱血戰鬥開始！
+將[肉體與](https://zh.wikipedia.org/wiki/肉體 "wikilink")「[裝甲技術](https://zh.wikipedia.org/wiki/裝甲 "wikilink")」融合的究極[格鬥技](https://zh.wikipedia.org/wiki/格鬥 "wikilink")——「MEGALOBOX」，將自己的全部賭在上面的男人們的熱血戰鬥開始！
 
-今天也立於非認可地區的賭博比賽賽場上的MEGALO拳擊手「JUNK DOG」。 雖然具備實力，自己卻只有比賽造假賺錢這一條生存之道，他為這樣的「現在」感到心焦。但是，他與孤高的冠軍·勇利相遇後，作為一個MEGALO拳擊手，作為一個男人，向自己的「現在」發起挑戰。
+今天也立於非認可地區的[賭博比賽賽場上的MEGALO拳擊手](https://zh.wikipedia.org/wiki/賭博 "wikilink")「JUNK DOG」。 雖然具備實力，自己卻只有比賽造假賺錢這一條生存之道，他為這樣的「現在」感到心焦。但是，他與孤高的[冠軍](https://zh.wikipedia.org/wiki/冠軍 "wikilink")·勇利相遇後，作為一個MEGALO[拳擊手](https://zh.wikipedia.org/wiki/拳擊手 "wikilink")，作為一個男人，向自己的「現在」發起挑戰。
 
 ## 登場人物
 
 ### Team番外地
 
   -
-    Junk Dog（垃圾狗），機甲拳擊的拳擊手。因為沒有市民ID，因此只能來不被認可的地下拳擊賽場參加比賽，而且每次都是被安排打假賽。
+    Junk Dog（[垃圾](../Page/垃圾.md "wikilink")[狗](https://zh.wikipedia.org/wiki/狗 "wikilink")），機甲拳擊的拳擊手。因為沒有市民[ID](https://zh.wikipedia.org/wiki/ID "wikilink")，因此只能來不被認可的地下拳擊賽場參加比賽，而且每次都是被安排打假賽。
   -
     是一位獨眼老人，因為欠錢選擇與Joe合作。
   -
-    在未認可地區與其他少年一起生活著的流浪兒童。對機器和電腦很精通。
+    在未認可地區與其他少年一起生活著的流浪兒童。對[機器和](https://zh.wikipedia.org/wiki/機器 "wikilink")[電腦很精通](https://zh.wikipedia.org/wiki/電腦 "wikilink")。
 
 ### 白都企業集團
 
@@ -31,12 +31,12 @@
   -
     排名第17位的MEGALO拳擊手。
   -
-    荒垣的教練。同時也是“退役軍人會”的成員。
+    荒垣的[教練](https://zh.wikipedia.org/wiki/教練 "wikilink")。同時也是“退役軍人會”的成員。
 
 ### 其他
 
   -
-    掌管著地下賭博MEGALOBOX的男子。
+    掌管著地下[賭博MEGALOBOX的男子](https://zh.wikipedia.org/wiki/賭博 "wikilink")。
 
   -
 

@@ -216,36 +216,42 @@ IG第二次晋级全球总决赛是在[2015年](../Page/英雄联盟2015赛季�
 <td></td>
 </tr>
 <tr class="even">
+<td><p>卢崛</p></td>
+<td><p>Leyan</p></td>
+<td><p>打野</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>宋义进</p></td>
 <td><p>Rookie</p></td>
 <td><p>中单</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>邓杰</p></td>
 <td><p>Forge</p></td>
 <td><p>中单</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>王柳羿</p></td>
 <td><p>Baolan</p></td>
 <td><p>辅助</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>喻文波</p></td>
 <td><p>JackeyLove</p></td>
 <td><p>下路</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>陈龙</p></td>
 <td><p>West</p></td>
 <td><p>下路</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>

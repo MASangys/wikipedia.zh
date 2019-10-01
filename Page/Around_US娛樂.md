@@ -16,7 +16,7 @@
 
 <!-- end list -->
 
-  - 12月21日，Arion Technology宣稱為了加強娛樂事業計劃，分別針對、[YMC娛樂](../Page/YMC娛樂.md "wikilink")、Red Line娛樂、Around US娛樂等共四家娛樂公司進行投資，其中對Around US娛樂總共收購1500股票，相當於投入20億韓元，同時也佔該公司整體30%的總資本額，是目前最大投資者。而業界人士認為，「即使Around US娛樂目前為了BEAST名稱商標正在與前公司[Cube娛樂](../Page/Cube娛樂.md "wikilink")進行協商的情況下，但仍然有十足的價值以及潛力存在，因此才會有大舉投入的資金」。
+  - 12月21日，Arion Technology宣稱為了加強娛樂事業計劃，分別針對、[YMC娛樂](../Page/YMC娛樂.md "wikilink")、Line娛樂、Around US娛樂等共四家娛樂公司進行投資，其中對Around US娛樂總共收購1500股票，相當於投入20億韓元，同時也佔該公司整體30%的總資本額，是目前最大投資者。而業界人士認為，「即使Around US娛樂目前為了BEAST名稱商標正在與前公司[Cube娛樂](../Page/Cube娛樂.md "wikilink")進行協商的情況下，但仍然有十足的價值以及潛力存在，因此才會有大舉投入的資金」。
 
 ### 2017年
 
@@ -33,6 +33,7 @@
 
   - [HIGHLIGHT全員陸續入伍服役](https://zh.wikipedia.org/wiki/HIGHLIGHT "wikilink")。
   - 練習生禹濟元、鄭在訓、崔時赫參加[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")。
+  - 9月1日起，新設label：With US audition，專門負責練習生相關事項，此名稱由[梁耀燮](../Page/梁耀燮.md "wikilink")命名。
 
 ## 相關人員
 
@@ -56,7 +57,7 @@
 
 ### 其他
 
-## 旗下藝人
+## 所屬藝人
 
 ### 組合
 
@@ -78,7 +79,12 @@
 
   - 禹濟元（[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
   - 鄭在訓（[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
-  - 崔時赫（[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
+
+## 離開藝人
+
+### 練習生
+
+  - 崔時赫(2018-2019) （[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
 
 ## 腳註
 

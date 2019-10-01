@@ -2,7 +2,7 @@
 
 **樂天集團**（，，），是一家以[韩国與](https://zh.wikipedia.org/wiki/韩国 "wikilink")[日本](../Page/日本.md "wikilink")為中心的多元化的跨国集团公司，业务范围涵盖食品、百货、娱乐、金融、化工等诸多领域，是[韩国大财阀之一](https://zh.wikipedia.org/wiki/韩国 "wikilink")。其[控股公司](../Page/控股公司.md "wikilink")樂天控股位於日本，但在日本主要業務僅為食品製造，其海外的大部分業務均由韓國方面拓展。
 
-乐天集团1948年由日籍韓國人[重光武雄](../Page/辛格浩.md "wikilink")（韩名：辛格浩）在日本創立。最初是[食品制造商](https://zh.wikipedia.org/wiki/食品 "wikilink")，后在[韩国发展](https://zh.wikipedia.org/wiki/韩国 "wikilink")。在韩国开有[酒店和](../Page/乐天大酒店.md "wikilink")[百货公司](https://zh.wikipedia.org/wiki/乐天百货 "wikilink")。\[1\]乐天集团在[日本](../Page/日本.md "wikilink")和[韩国拥有](https://zh.wikipedia.org/wiki/韩国 "wikilink")[千葉羅德海洋](../Page/千葉羅德海洋.md "wikilink")和[樂天巨人两支职业棒球队](https://zh.wikipedia.org/wiki/樂天巨人 "wikilink")。
+乐天集团1948年由日籍韓國人[重光武雄](../Page/辛格浩.md "wikilink")（韩名：辛格浩）在日本創立。最初是[食品制造商](https://zh.wikipedia.org/wiki/食品 "wikilink")，后在[韩国发展](https://zh.wikipedia.org/wiki/韩国 "wikilink")。在韩国开有[酒店和](../Page/乐天大酒店.md "wikilink")[百货公司](https://zh.wikipedia.org/wiki/乐天百货 "wikilink")。\[1\]乐天集团在[日本](../Page/日本.md "wikilink")和[韩国拥有](https://zh.wikipedia.org/wiki/韩国 "wikilink")[千葉羅德海洋](../Page/千葉羅德海洋.md "wikilink")和[樂天巨人兩支职业棒球队](https://zh.wikipedia.org/wiki/樂天巨人 "wikilink")。
 
 ## 社名
 
@@ -14,7 +14,7 @@
 
 1967年，创建[乐天制果](https://zh.wikipedia.org/wiki/乐天制果 "wikilink")，同年创建乐天铝業。\[3\] 随着战后[韩国经济的振兴](https://zh.wikipedia.org/wiki/韩国经济 "wikilink")，乐天集团在韩国也得到了飞速发展，业务领域不断扩宽。1980年代，乐天集团已经发展成为[韩国十立了株式會社樂天控股](https://zh.wikipedia.org/wiki/韩国 "wikilink")。後來重光武雄為了將家族事業繼承作分配，遂將日本樂天由長子重光宏之（韓名：辛東主）（樂天集團副董事），而韓國樂天則由次子重光昭夫（韓名：辛東彬）繼承，但近年來兄弟鬩牆，家族爭產的傳聞仍不時傳出，使整個集團的社會形象受到嚴重的損害。\[4\]\[5\]
 
-除此之外，在[朴槿惠](../Page/朴槿惠.md "wikilink")執政期間，又陸續爆發出行賄以及逃漏稅的醜聞，引發官方關注介入調查\[6\]，再次使得集團的聲勢日趨下滑\[7\]。在[韓國部署薩德系統事件中](../Page/韓國部署薩德反導彈系統事件.md "wikilink")，雖然樂天顧及在中國廣泛開店以及俄羅斯的事業而有所猶豫，仍然向韓國軍方讓出了[星州郡](https://zh.wikipedia.org/wiki/星州郡 "wikilink")[高爾夫球場的地塊](https://zh.wikipedia.org/wiki/高爾夫球場 "wikilink")，協助部署薩德系統造成當地民憤，也惹火中俄官方，同时引发中国民间抵制风潮。一般猜測是除了身為韓國財閥的義務之外，也參雜有公司高層接二連三遭到起訴的施壓。\[8\]
+除此之外，在[朴槿惠](../Page/朴槿惠.md "wikilink")執政期間，又陸續爆發出行賄以及逃漏稅的醜聞，引發官方關注介入調查\[6\]，再次使得集團的聲勢日趨下滑\[7\]。在[韓國部署薩德系統事件中](../Page/韓國部署薩德反導彈系統事件.md "wikilink")，雖然樂天顧及在中國廣泛開店以及俄羅斯的事業而有所猶豫，仍然向韓國軍方讓出了[星州郡](https://zh.wikipedia.org/wiki/星州郡 "wikilink")[高爾夫球場的地塊](https://zh.wikipedia.org/wiki/高爾夫球場 "wikilink")，協助部署薩德系統造成當地民憤，也惹火中俄官方，同时引发中国民间抵制风潮。韓國檢察廳也接二連三起訴樂天集團涉嫌瀆職、貪污及內部非法交易等。\[8\]
 
 ## 业务范围和关联公司
 
@@ -31,7 +31,7 @@
 
 ### 体育
 
-[Song_Seung-Jun.jpg](https://zh.wikipedia.org/wiki/File:Song_Seung-Jun.jpg "fig:Song_Seung-Jun.jpg")棒球运动员[宋勝準](../Page/宋勝準.md "wikilink")\]\] 乐天集团在[日本](../Page/日本.md "wikilink")和[韩国各拥有一个职业棒球队](https://zh.wikipedia.org/wiki/韩国 "wikilink")
+[Song_Seung-Jun.jpg](https://zh.wikipedia.org/wiki/File:Song_Seung-Jun.jpg "fig:Song_Seung-Jun.jpg")棒球运动员[宋勝準](../Page/宋勝準.md "wikilink")\]\] 乐天集团在[日本](../Page/日本.md "wikilink")、[韩国各拥有一个职业棒球队](https://zh.wikipedia.org/wiki/韩国 "wikilink")
 
   - [千叶罗德海洋](https://zh.wikipedia.org/wiki/千叶罗德海洋 "wikilink")，日本（1971年起）
   - [樂天巨人](https://zh.wikipedia.org/wiki/樂天巨人 "wikilink")，韩国釜山（1982年起）
@@ -66,4 +66,4 @@
 5.  沈载祐，[韩国乐天集团：兄弟纷争，辛格浩会长离职](http://chinese.joins.com/gb/article.do?method=detail&art_id=138653&category=001006)韓國中央日報，2015-07-29
 6.  周辰陽，[南韓檢方具狀 申請逮捕樂天集團會長](http://udn.com/news/story/5/1984439)聯合報，2016-09-26
 7.  [樂天集團會長辛東彬3日回到韓國，似將表明“協助調查”](http://chinese.donga.com/BIG/3/all/29/537364/1)韓國東亞日報，2016-7-2
-8.  [乐天为何支持萨德 不怕失去中国市场吗？](http://www.sina.com.cn/midpage/mobile/index.d.html?docID=fyavvsh7195371&url=finance.sina.cn/chanjing/gsxw/2017-02-28/detail-ifyavvsh7195371.d.html)
+8.

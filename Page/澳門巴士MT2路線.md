@@ -25,6 +25,36 @@
   - 宇通ZK6115HG1
   - 宇通ZK6902HG
 
+<table>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"><p><strong>澳門巴士MT2路线使用車輛列表</strong><br />
+(只記錄掛牌車輛)</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>align="center" width="25%" bgcolor="silver" color:black" | 所屬公司</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>澳巴</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>2043</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>2056</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>3129</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>3136</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"></td>
+</tr>
+</tbody>
+</table>
+
 ## 路線資料
 
 ### 收費
@@ -79,29 +109,27 @@
 
 [Macau_bus_route_MT2.jpg](https://zh.wikipedia.org/wiki/File:Macau_bus_route_MT2.jpg "fig:Macau_bus_route_MT2.jpg")
 
-|         |                        |
-| :-----: | :--------------------: |
-| **MT2** | **城市日前地** ↺ **運動場圓形地** |
-|   編號    |          循環線           |
-|    1    |          M268          |
-|    2    |        M172/10         |
-|    3    |         T330/2         |
-|    4    |         T335/2         |
-|    5    |          T338          |
-|    6    |         T332/1         |
-|    7    |          T331          |
-|    8    |          T412          |
-|    9    |          T352          |
-|   10    |          T327          |
-|   11    |          T337          |
-|   12    |          T334          |
-|   13    |        M172/11         |
-|   14    |          M159          |
-|   15    |          M262          |
+|         |                                                                                                                                                                                                          |
+| :-----: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **MT2** | **城市日前地** ↺ **運動場圓形地**{{\#tag:ref|交通事務局官方指MT2路線的折返點為運動場圓形地，所指的是街道名稱，本線並無停靠與其同名的巴士站。前往[澳門運動場的乘客需在美景花園下車步行前往](../Page/奧林匹克體育中心-運動場.md "wikilink")，或乘搭[MT1路線](../Page/澳門巴士MT1路線.md "wikilink")。|group="注"}} |
+|   編號    |                                                                                                   循環線                                                                                                    |
+|    1    |                                                                                                   M268                                                                                                   |
+|    2    |                                                                                                 M172/10                                                                                                  |
+|    3    |                                                                                                  T330/2                                                                                                  |
+|    4    |                                                                                                  T335/2                                                                                                  |
+|    5    |                                                                                                   T338                                                                                                   |
+|    6    |                                                                                                  T332/1                                                                                                  |
+|    7    |                                                                                                   T331                                                                                                   |
+|    8    |                                                                                                   T412                                                                                                   |
+|    9    |                                                                                                   T352                                                                                                   |
+|   10    |                                                                                                   T327                                                                                                   |
+|   11    |                                                                                                   T337                                                                                                   |
+|   12    |                                                                                                   T334                                                                                                   |
+|   13    |                                                                                                 M172/11                                                                                                  |
+|   14    |                                                                                                   M159                                                                                                   |
+|   15    |                                                                                                   M262                                                                                                   |
 
 ## 備註
-
-交通事務局官方指MT2路線的折返點為運動場圓形地，所指的是街道名稱，本線並無停靠與其同名的巴士站。前往[澳門運動場的乘客需在美景花園下車步行前往](../Page/奧林匹克體育中心-運動場.md "wikilink")，或乘搭[MT1路線](../Page/澳門巴士MT1路線.md "wikilink")。
 
 ## 相關條目
 

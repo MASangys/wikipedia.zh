@@ -1,14 +1,14 @@
-《**VAGABOND**》（，）為[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[SBS自](../Page/SBS_\(韓國\).md "wikilink")2019年9月20日起播出的[金土連續劇](../Page/SBS金土連續劇.md "wikilink")，是一部100%事前製作的電視劇，由《[巨人](../Page/巨人_\(韓國電視劇\).md "wikilink")》、《[工薪族楚漢志](../Page/工薪族楚漢志.md "wikilink")》、《[浪漫醫生金師傅](../Page/浪漫醫生金師傅.md "wikilink")》的[劉仁植](../Page/劉仁植.md "wikilink")導演和《巨人》、《工薪族楚漢志》、《[奇皇后](../Page/奇皇后.md "wikilink")》的[張英哲](../Page/張英哲.md "wikilink")、[鄭景順編劇聯手打造](https://zh.wikipedia.org/wiki/鄭景順 "wikilink")。本劇講述平凡生活著的男人，偶然捲入事故，進而揭露國家腐敗過程。\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]
+《**VAGABOND**》（，）為[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[SBS自](../Page/SBS_\(韓國\).md "wikilink")2019年9月20日起播出的[金土連續劇](../Page/SBS金土連續劇.md "wikilink")，是一部100%事前製作的電視劇，由《[巨人](../Page/巨人_\(韓國電視劇\).md "wikilink")》、《[工薪族楚漢志](../Page/工薪族楚漢志.md "wikilink")》、《[浪漫醫生金師傅](../Page/浪漫醫生金師傅.md "wikilink")》的[劉仁植](../Page/劉仁植.md "wikilink")導演和《巨人》、《工薪族楚漢志》、《[奇皇后](../Page/奇皇后.md "wikilink")》的[張英哲](../Page/張英哲.md "wikilink")、[鄭景順編劇聯手打造](https://zh.wikipedia.org/wiki/鄭景順 "wikilink")。本劇講述平凡生活著的男人，偶然捲入事故，進而揭露國家腐敗過程。\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]\[7\]
 
-[Netflix](../Page/Netflix.md "wikilink")於9月起全球同步上線\[7\]。
+[Netflix](../Page/Netflix.md "wikilink")於9月20日起每週五六全球同步上線。\[8\]
 
 ## 劇情介紹
 
-車達健([李昇基](../Page/李昇基.md "wikilink")飾)是一位以武打明星[成龍](../Page/成龍.md "wikilink")為人生偶像的動作替身演員，他是擅長跆拳道、巴西柔術、柔道、劍道、拳擊等綜合武術18段的高手。藝高人膽大，是業界冉冉升起的新星。
+車達建([李昇基](../Page/李昇基.md "wikilink")飾)是一位以武打明星[成龍](../Page/成龍.md "wikilink")為人生偶像的動作替身演員，他是擅長跆拳道、巴西柔術、柔道、劍道、拳擊等綜合武術18段的高手。藝高人膽大，是業界冉冉升起的新星。
 
-高海麗([裴秀智飾](https://zh.wikipedia.org/wiki/裴秀智 "wikilink"))是韓國海軍陸戰隊中校高強哲長女，父親離世後由她一肩挑起家庭生活的重擔，進入[國家情報院成為](https://zh.wikipedia.org/wiki/國家情報院 "wikilink")7級公務員。在接受各種高強度培訓後，她從白色要員轉身為黑色探員。
+高海麗([裴秀智飾](https://zh.wikipedia.org/wiki/裴秀智 "wikilink"))是韓國海軍陸戰隊中校高強哲長女，父親離世後由她一肩挑起家庭生活的重擔，進入[國家情報院成為](https://zh.wikipedia.org/wiki/國家情報院 "wikilink")7級公務員。在接受各種高強度培訓後，她從白色要員轉身為黑色要員 (特務)。
 
-車達健因民航客機墜毀意外中失去了侄子，更無意間發現到國際恐怖份子的陰謀，因而與韓國駐摩洛哥大使館的特約職員高海麗邂逅，身懷絕技的兩人決定合作尋找此次墜機事件的真相，卻也因此不小心捲入了一場陰謀，兩人也開啟了困難重重的冒險旅程。
+車達建因民航客機墜毀意外中失去了侄子，更無意間發現到國際恐怖份子的陰謀，因而與韓國駐摩洛哥大使館的特約職員高海麗邂逅，身懷絕技的兩人決定合作尋找此次墜機事件的真相，卻也因此不小心捲入了一場陰謀，兩人也開啟了困難重重的冒險旅程。
 
 ## 演員陣容
 
@@ -17,7 +17,7 @@
 |                                                     |        |               |
 | --------------------------------------------------- | ------ | ------------- |
 | **演員**                                              | **角色** | **介紹**        |
-| [李昇基](../Page/李昇基.md "wikilink")                    | 車達健    | 精通多種武藝的職業替身演員 |
+| [李昇基](../Page/李昇基.md "wikilink")                    | 車達建    | 精通多種武藝的職業替身演員 |
 | [裴秀智](https://zh.wikipedia.org/wiki/裴秀智 "wikilink") | 高海麗    | 國家情報院情報員      |
 |                                                     |        |               |
 
@@ -47,13 +47,13 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/金旻鍾.md" title="wikilink">金旻鍾</a></p></td>
-<td><p>尹韓基</p></td>
-<td><p>民政首席室秘書長</p></td>
+<td><p>尹漢基</p></td>
+<td><p>大韓民國民政首席官</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>朴漢英</p></td>
-<td><p>大韓民國國防部政策室長</p></td>
+<td><p>朴滿榮</p></td>
+<td><p>大韓民國國防部長</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -69,13 +69,13 @@
 | -------------------------------- | ------ | ---------- |
 | **演員**                           | **角色** | **介紹**     |
 | [申成祿](../Page/申成祿.md "wikilink") | 奇太雄    | 國情院情報組長    |
-| [李基英](../Page/李基英.md "wikilink") | 姜周哲    | 國情院復任室長    |
-| [鄭滿植](../Page/鄭滿植.md "wikilink") | 閔宰植    | 國情院監察室長    |
+| [李基英](../Page/李基英.md "wikilink") | 姜周哲    | 國情院復任局長    |
+| [鄭滿植](../Page/鄭滿植.md "wikilink") | 閔宰植    | 國情院監察局局長   |
 | [黃寶羅](../Page/黃寶羅.md "wikilink") | 孔華淑    | 國情院規劃協調室職員 |
 | [申承煥](../Page/申承煥.md "wikilink") | 金世勳    | 國情院職員      |
 |                                  |        |            |
 
-### John Ann McKesson
+### John & Mark
 
 |                                                        |             |        |
 | ------------------------------------------------------ | ----------- | ------ |
@@ -169,16 +169,16 @@
 
 ### 特別出演
 
-|                                                        |        |              |          |
-| ------------------------------------------------------ | ------ | ------------ | -------- |
-| **演員**                                                 | **角色** | **介紹**       | **出演集數** |
-| [全智賢](../Page/全智賢.md "wikilink")                       |        |              |          |
-| [陸星材](../Page/陸星材.md "wikilink")                       |        |              |          |
-| [車勝元](../Page/車勝元.md "wikilink")                       |        |              |          |
-| [盛駿](../Page/盛駿.md "wikilink")                         |        |              |          |
-| [劉東根](../Page/劉東根.md "wikilink")                       |        |              |          |
-| [劉太旿](https://zh.wikipedia.org/wiki/劉太旿 "wikilink") () | 宰慕     | B357客機上的恐怖份子 |          |
-|                                                        |        |              |          |
+|                                                        |                  |              |          |
+| ------------------------------------------------------ | ---------------- | ------------ | -------- |
+| **演員**                                                 | **角色**           | **介紹**       | **出演集數** |
+| [全智賢](../Page/全智賢.md "wikilink")                       |                  |              |          |
+| [陸星材](../Page/陸星材.md "wikilink")                       |                  |              |          |
+| [車勝元](../Page/車勝元.md "wikilink")                       |                  |              |          |
+| [盛駿](../Page/盛駿.md "wikilink")                         |                  |              |          |
+| [劉東根](../Page/劉東根.md "wikilink")                       |                  |              |          |
+| [劉太旿](https://zh.wikipedia.org/wiki/劉太旿 "wikilink") () | Raymon Jacque／宰慕 | B357客機上的恐怖份子 |          |
+|                                                        |                  |              |          |
 
 ## 原聲帶
 
@@ -189,8 +189,8 @@
 <tr class="header">
 <th><p>集數</p></th>
 <th><p>播出日期</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/AC尼爾森" title="wikilink">AGB收視率</a>[8]</p></th>
-<th><p>TNmS收視率[9]</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/AC尼爾森" title="wikilink">AGB收視率</a>[9]</p></th>
+<th><p>TNmS收視率[10]</p></th>
 </tr>
 </thead>
 <tbody>
@@ -202,192 +202,288 @@
 </tr>
 <tr class="even">
 <td><p>1</p></td>
+<td><p>1部</p></td>
 <td><p>2019/09/20</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>6.3%</p></td>
+</tr>
+<tr class="odd">
+<td><p>2部</p></td>
+<td><p>8.0%</p></td>
+<td><p>8.8%</p></td>
+<td><p>7.9%</p></td>
+</tr>
+<tr class="even">
+<td><p>3部</p></td>
+<td><p>10.4%</p></td>
+<td><p>11.5%</p></td>
+<td><p>9.5%</p></td>
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
+<td><p>1部</p></td>
+<td><p>2019/09/21</p></td>
+<td><p>5.8%</p></td>
+</tr>
+<tr class="even">
+<td><p>2部</p></td>
+<td><p>8.1%</p></td>
+<td><p>8.4%</p></td>
+<td><p>7.1%</p></td>
+</tr>
+<tr class="odd">
+<td><p>3部</p></td>
+<td><p>10.3%</p></td>
+<td><p>10.7%</p></td>
+<td><p>9.3%</p></td>
+</tr>
+<tr class="even">
+<td><p>3</p></td>
+<td><p>1部</p></td>
+<td><p>2019/09/27</p></td>
+<td><p>%</p></td>
+</tr>
+<tr class="odd">
+<td><p>2部</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 </tr>
 <tr class="even">
-<td><p>3</p></td>
-<td><p>2019/09/21</p></td>
+<td><p>3部</p></td>
+<td><p>%</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 </tr>
 <tr class="odd">
 <td><p>4</p></td>
+<td><p>1部</p></td>
+<td><p>2019/09/28</p></td>
+<td><p>%</p></td>
+</tr>
+<tr class="even">
+<td><p>2部</p></td>
+<td><p>%</p></td>
+<td><p>%</p></td>
+<td><p>%</p></td>
+</tr>
+<tr class="odd">
+<td><p>3部</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 </tr>
 <tr class="even">
 <td><p>5</p></td>
-<td><p>2019/09/27</p></td>
+<td><p>1部</p></td>
+<td><p>2019/10/04</p></td>
+<td><p>%</p></td>
+</tr>
+<tr class="odd">
+<td><p>2部</p></td>
+<td><p>%</p></td>
+<td><p>%</p></td>
+<td><p>%</p></td>
+</tr>
+<tr class="even">
+<td><p>3部</p></td>
+<td><p>%</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 </tr>
 <tr class="odd">
 <td><p>6</p></td>
+<td><p>1部</p></td>
+<td><p>2019/10/05</p></td>
+<td><p>%</p></td>
+</tr>
+<tr class="even">
+<td><p>2部</p></td>
+<td><p>%</p></td>
+<td><p>%</p></td>
+<td><p>%</p></td>
+</tr>
+<tr class="odd">
+<td><p>3部</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 </tr>
 <tr class="even">
 <td><p>7</p></td>
-<td><p>2019/09/28</p></td>
+<td><p>1部</p></td>
+<td><p>2019/10/11</p></td>
+<td><p>%</p></td>
+</tr>
+<tr class="odd">
+<td><p>2部</p></td>
+<td><p>%</p></td>
+<td><p>%</p></td>
+<td><p>%</p></td>
+</tr>
+<tr class="even">
+<td><p>3部</p></td>
+<td><p>%</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 </tr>
 <tr class="odd">
 <td><p>8</p></td>
+<td><p>1部</p></td>
+<td><p>2019/10/12</p></td>
+<td><p>%</p></td>
+</tr>
+<tr class="even">
+<td><p>2部</p></td>
+<td><p>%</p></td>
+<td><p>%</p></td>
+<td><p>%</p></td>
+</tr>
+<tr class="odd">
+<td><p>3部</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 </tr>
 <tr class="even">
 <td><p>9</p></td>
-<td><p>2019/10/04</p></td>
+<td><p>1部</p></td>
+<td><p>2019/10/18</p></td>
+<td><p>%</p></td>
+</tr>
+<tr class="odd">
+<td><p>2部</p></td>
+<td><p>%</p></td>
+<td><p>%</p></td>
+<td><p>%</p></td>
+</tr>
+<tr class="even">
+<td><p>3部</p></td>
+<td><p>%</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 </tr>
 <tr class="odd">
 <td><p>10</p></td>
+<td><p>1部</p></td>
+<td><p>2019/10/19</p></td>
+<td><p>%</p></td>
+</tr>
+<tr class="even">
+<td><p>2部</p></td>
+<td><p>%</p></td>
+<td><p>%</p></td>
+<td><p>%</p></td>
+</tr>
+<tr class="odd">
+<td><p>3部</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 </tr>
 <tr class="even">
 <td><p>11</p></td>
-<td><p>2019/10/05</p></td>
+<td><p>1部</p></td>
+<td><p>2019/10/25</p></td>
+<td><p>%</p></td>
+</tr>
+<tr class="odd">
+<td><p>2部</p></td>
+<td><p>%</p></td>
+<td><p>%</p></td>
+<td><p>%</p></td>
+</tr>
+<tr class="even">
+<td><p>3部</p></td>
+<td><p>%</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 </tr>
 <tr class="odd">
 <td><p>12</p></td>
+<td><p>1部</p></td>
+<td><p>2019/10/26</p></td>
+<td><p>%</p></td>
+</tr>
+<tr class="even">
+<td><p>2部</p></td>
+<td><p>%</p></td>
+<td><p>%</p></td>
+<td><p>%</p></td>
+</tr>
+<tr class="odd">
+<td><p>3部</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 </tr>
 <tr class="even">
 <td><p>13</p></td>
-<td><p>2019/10/11</p></td>
+<td><p>1部</p></td>
+<td><p>2019/11/01</p></td>
+<td><p>%</p></td>
+</tr>
+<tr class="odd">
+<td><p>2部</p></td>
+<td><p>%</p></td>
+<td><p>%</p></td>
+<td><p>%</p></td>
+</tr>
+<tr class="even">
+<td><p>3部</p></td>
+<td><p>%</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 </tr>
 <tr class="odd">
 <td><p>14</p></td>
+<td><p>1部</p></td>
+<td><p>2019/11/02</p></td>
+<td><p>%</p></td>
+</tr>
+<tr class="even">
+<td><p>2部</p></td>
+<td><p>%</p></td>
+<td><p>%</p></td>
+<td><p>%</p></td>
+</tr>
+<tr class="odd">
+<td><p>3部</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 </tr>
 <tr class="even">
 <td><p>15</p></td>
-<td><p>2019/10/12</p></td>
+<td><p>1部</p></td>
+<td><p>2019/11/08</p></td>
+<td><p>%</p></td>
+</tr>
+<tr class="odd">
+<td><p>2部</p></td>
+<td><p>%</p></td>
+<td><p>%</p></td>
+<td><p>%</p></td>
+</tr>
+<tr class="even">
+<td><p>3部</p></td>
+<td><p>%</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 </tr>
 <tr class="odd">
 <td><p>16</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
-</tr>
-<tr class="even">
-<td><p>17</p></td>
-<td><p>2019/10/18</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
-</tr>
-<tr class="odd">
-<td><p>18</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
-</tr>
-<tr class="even">
-<td><p>19</p></td>
-<td><p>2019/10/19</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
-</tr>
-<tr class="odd">
-<td><p>20</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
-</tr>
-<tr class="even">
-<td><p>21</p></td>
-<td><p>2019/10/25</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
-</tr>
-<tr class="odd">
-<td><p>22</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
-</tr>
-<tr class="even">
-<td><p>23</p></td>
-<td><p>2019/10/26</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
-</tr>
-<tr class="odd">
-<td><p>24</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
-</tr>
-<tr class="even">
-<td><p>25</p></td>
-<td><p>2019/11/01</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
-</tr>
-<tr class="odd">
-<td><p>26</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
-</tr>
-<tr class="even">
-<td><p>27</p></td>
-<td><p>2019/11/02</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
-</tr>
-<tr class="odd">
-<td><p>28</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
-</tr>
-<tr class="even">
-<td><p>29</p></td>
-<td><p>2019/11/08</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
-</tr>
-<tr class="odd">
-<td><p>30</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
-</tr>
-<tr class="even">
-<td><p>31</p></td>
+<td><p>1部</p></td>
 <td><p>2019/11/09</p></td>
 <td><p>%</p></td>
+</tr>
+<tr class="even">
+<td><p>2部</p></td>
+<td><p>%</p></td>
+<td><p>%</p></td>
 <td><p>%</p></td>
 </tr>
 <tr class="odd">
-<td><p>32</p></td>
+<td><p>3部</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
@@ -413,15 +509,15 @@
 
 **週末時段劇集**
 
-  - [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") [週末連續劇](https://zh.wikipedia.org/wiki/tvN週末連續劇 "wikilink")：《[請融化我吧](../Page/請融化我吧.md "wikilink")》
-  - [OCN](../Page/OCN_\(頻道\).md "wikilink") [週末經典連續劇](../Page/OCN_Original_Series.md "wikilink")：
+  - [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") [週末連續劇](https://zh.wikipedia.org/wiki/tvN週末連續劇 "wikilink")：《[阿斯達年代記](../Page/阿斯達年代記.md "wikilink")》、《[請融化我吧](../Page/請融化我吧.md "wikilink")》
+  - [OCN](../Page/OCN_\(頻道\).md "wikilink") [週末經典連續劇](../Page/OCN_Original_Series.md "wikilink")：《[他人即地獄](https://zh.wikipedia.org/wiki/他人即地獄 "wikilink")》、《[所有人的謊言](https://zh.wikipedia.org/wiki/所有人的謊言 "wikilink")》
 
 ## 記事
 
   - 本劇為導演[劉仁植](../Page/劉仁植.md "wikilink")與編劇[張英哲](../Page/張英哲.md "wikilink")、[鄭景順繼電視劇](https://zh.wikipedia.org/wiki/鄭景順 "wikilink")《[巨人](../Page/巨人_\(韓國電視劇\).md "wikilink")》、《[工薪族楚漢志](../Page/工薪族楚漢志.md "wikilink")》、《[錢的化身](../Page/錢的化身.md "wikilink")》後第四度合作。
   - 本劇為[李昇基](../Page/李昇基.md "wikilink")與導演[劉仁植](../Page/劉仁植.md "wikilink")繼電視劇《[你們被包圍了](../Page/你們被包圍了.md "wikilink")》後再度合作。
   - 本劇為[李昇基](../Page/李昇基.md "wikilink")與[秀智](../Page/秀智.md "wikilink")繼電視劇《[九家之書](https://zh.wikipedia.org/wiki/九家之書 "wikilink")》後，時隔5年再度合作。
-  - 本劇原定檔2019年5月作為[水木劇播出](../Page/SBS特別劇.md "wikilink")\[10\]，將推遲至9月作為[金土劇播出](../Page/SBS金土連續劇.md "wikilink")，以便通過[Netflix](../Page/Netflix.md "wikilink")频道與韓國國內同步向全世界觀衆公開\[11\]\[12\]\[13\]。
+  - 本劇原定檔2019年5月作為[水木劇播出](../Page/SBS特別劇.md "wikilink")\[11\]，將推遲至9月作為[金土劇播出](../Page/SBS金土連續劇.md "wikilink")，以便通過[Netflix](../Page/Netflix.md "wikilink")频道與韓國國內同步向全世界觀衆公開\[12\]\[13\]\[14\]。
 
 ## 註釋
 
@@ -433,7 +529,7 @@
   - [浪客行-DAUM](https://m.search.daum.net/search?w=tv&q=%EB%B0%B0%EA%B0%80%EB%B3%B8%EB%93%9C&rtmaxcoll=TVP&irk=82585&irt=tv-program&DA=TVP)
   - [浪客行-NAVER](http://m.entertain.naver.com/tvBrand/6487748)
 
-[Category:2019年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2019年韓國電視劇集 "wikilink") [Category:Netflix原創節目](https://zh.wikipedia.org/wiki/Category:Netflix原創節目 "wikilink") [Category:韓國動作劇](https://zh.wikipedia.org/wiki/Category:韓國動作劇 "wikilink") [Category:韓國懸疑劇](https://zh.wikipedia.org/wiki/Category:韓國懸疑劇 "wikilink") [Category:间谍题材电视剧](https://zh.wikipedia.org/wiki/Category:间谍题材电视剧 "wikilink") [Category:恐怖活動題材電視作品](https://zh.wikipedia.org/wiki/Category:恐怖活動題材電視作品 "wikilink") [Category:張英哲劇本作品](https://zh.wikipedia.org/wiki/Category:張英哲劇本作品 "wikilink") [Category:摩洛哥背景作品](https://zh.wikipedia.org/wiki/Category:摩洛哥背景作品 "wikilink")
+[Category:2019年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2019年韓國電視劇集 "wikilink") [Category:Netflix原創節目](https://zh.wikipedia.org/wiki/Category:Netflix原創節目 "wikilink") [Category:韓國動作劇](https://zh.wikipedia.org/wiki/Category:韓國動作劇 "wikilink") [Category:韓國懸疑劇](https://zh.wikipedia.org/wiki/Category:韓國懸疑劇 "wikilink") [Category:韓國諜戰劇](https://zh.wikipedia.org/wiki/Category:韓國諜戰劇 "wikilink") [Category:間諜題材電視劇](https://zh.wikipedia.org/wiki/Category:間諜題材電視劇 "wikilink") [Category:恐怖活動題材電視作品](https://zh.wikipedia.org/wiki/Category:恐怖活動題材電視作品 "wikilink") [Category:張英哲劇本作品](https://zh.wikipedia.org/wiki/Category:張英哲劇本作品 "wikilink") [Category:摩洛哥背景作品](https://zh.wikipedia.org/wiki/Category:摩洛哥背景作品 "wikilink")
 
 1.
 2.
@@ -448,3 +544,4 @@
 11.
 12.
 13.
+14.

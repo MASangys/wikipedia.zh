@@ -1,4 +1,4 @@
-《**The Day**》是[韓國樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[DAY6](../Page/DAY6.md "wikilink")於2015年9月7日發行的首張迷你專輯，由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作、[KT音樂發行](https://zh.wikipedia.org/wiki/KT音樂 "wikilink")，主打歌為〈Congratulations〉。專輯發行後即登上泰國、柬埔寨等國家的iTunes專輯排行榜首位，並在美國[Billboard世界專輯榜取得第二名的佳績](https://zh.wikipedia.org/wiki/Billboard "wikilink")。\[1\]
+《**The Day**》是[韓國樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[DAY6](../Page/DAY6.md "wikilink")於2015年9月7日發行的首張迷你專輯，由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作、[KT音樂發行](../Page/Genie音樂.md "wikilink")，主打歌為〈Congratulations〉。專輯發行後即登上泰國、柬埔寨等國家的iTunes專輯排行榜首位，並在美國[Billboard世界專輯榜取得第二名的佳績](../Page/看板.md "wikilink")。\[1\]
 
 ## 背景
 

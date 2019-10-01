@@ -1848,28 +1848,52 @@ Stella Jang (韓語：스텔라장，1991年11月18日－)\[1\]，本名蔣星�
 <td><p>[231][232]</p></td>
 </tr>
 <tr class="even">
+<td><p>8月31日</p></td>
+<td><p>2019 CGV GREEN CINEMA</p></td>
+<td><p>鷺得島</p></td>
+<td><p>晚上5點30分~6點10分[233][234][235]</p></td>
+</tr>
+<tr class="odd">
+<td><p>9月6日</p></td>
+<td><p>2019 KAMF </p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/韓國科學技術院" title="wikilink">KAIST</a> 大德校區</p></td>
+<td><p>晚上6點20分~6點50分，主舞台區[236][237]</p></td>
+</tr>
+<tr class="even">
 <td><p>9月21日</p></td>
 <td><p>2019 始興市梨花慶典 </p></td>
-<td></td>
+<td><p> </p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>9月28日</p></td>
 <td><p>2019 昌原文化FESTA </p></td>
 <td><p>城山藝術廳</p></td>
-<td><p>[233][234][235]</p></td>
+<td><p>[238][239][240]</p></td>
 </tr>
 <tr class="even">
+<td><p>GREEN PLUGGED 慶州 2019</p></td>
+<td><p>慶州世界文化博覽會公園</p></td>
+<td><p>下午3點50分~4點40分[241]</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>9月29日</p></td>
 <td><p>2019 VOYAGE to Jarasum </p></td>
-<td></td>
-<td></td>
+<td><p>加平郡 鱉島</p></td>
+<td><p>下午3點10分~4點[242]</p></td>
+</tr>
+<tr class="even">
+<td><p>10月12日</p></td>
+<td><p>富平音樂城市慶典 &lt;Music Gathering 2019&gt; </p></td>
+<td><p>富平Art Center 戶外廣場</p></td>
+<td><p>[243]</p></td>
 </tr>
 <tr class="odd">
 <td><p>10月19日</p></td>
 <td><p>Grand Mint Festival 2019 </p></td>
 <td></td>
-<td><p>[236][237]</p></td>
+<td><p>[244][245]</p></td>
 </tr>
 </tbody>
 </table>
@@ -2135,3 +2159,11 @@ Stella Jang (韓語：스텔라장，1991年11月18日－)\[1\]，本名蔣星�
 235.
 236.
 237.
+238.
+239.
+240.
+241.
+242.
+243.
+244.
+245.

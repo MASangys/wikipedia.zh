@@ -34,17 +34,17 @@
 
 正值遊戲的公開測試時，[美商藝電被諸多玩家及雜誌評擊以一個正價遊戲卻存在能以現金購買並具有賭博成分的](https://zh.wikipedia.org/wiki/美商藝電 "wikilink")[虛擬抽獎箱](https://zh.wikipedia.org/wiki/虛擬抽獎箱 "wikilink")（loot crate）會為玩家間的進度帶來嚴重不平等\[20\]。儘管抽獎箱能抽出的獎勵都是能透過遊玩遊戲賺取的虛擬貨幣購買，但沒有支付現金購買抽獎箱的玩家將要面對長久的遊玩時間以購得[達斯·維達](../Page/達斯·維達.md "wikilink")（黑武士）這類系列經典角色\[21\]。為了回應玩家的訴求，開發方調整了虛擬物品的售價，但當部分玩家和媒體作家取得發售前的遊戲他們發現更多具爭議的設計，例如玩家遊戲的表現並不與獎勵掛鉤\[22\]，加上多人模式下極其薄弱的活躍度偵測系統，不少玩家在對戰時利用[橡皮筋](../Page/橡皮筋.md "wikilink")緊箍[遊戲操縱手柄令角色自動原地兜圈從中賺取點數](https://zh.wikipedia.org/wiki/遊戲操縱手柄 "wikilink")\[23\]。
 
-2017年11月12日，一個[Reddit](../Page/Reddit.md "wikilink")論壇用戶投訴儘管他支付了80美金購買遊戲的豪華版，但達斯·維達依舊是被鎖上無法即時使用，在不購買抽獎箱提升進度下估計大約需要40小時的遊玩時間才能儲得足夠的虛擬貨幣購買單一個經典角色\[24\]。美商藝電的客戶團隊在Reddit回應這些爭議，指須要大量時間累積貨幣的設定是為了讓玩家購得角色後「感到自豪與充滿成就感」（sense of pride and accomplishment）\[25\]\[26\]，連帶其他類似發言惹來用戶激烈喝倒彩，美商藝電的「成就感」回覆更錄得Reddit論壇創立以來最多用戶負評，直到14日為止此[單一回帖](https://www.reddit.com/r/StarWarsBattlefront/comments/7cff0b/seriously_i_paid_80_to_have_vader_locked/dppum98/)已經累積了超過60萬用戶負評\[27\]\[28\]\[29\]。14日美商藝電再對遊戲作出調整，不過其手法被指帶有欺詐成分，雖然英雄級角色的售價調低了75%\[30\]\[31\]，但單人模式通關獎勵的虛擬貨幣亦同樣被調低了75%\[32\]。
+2017年11月12日，一個[Reddit](../Page/Reddit.md "wikilink")論壇用戶投訴儘管他支付了80美金購買遊戲的豪華版，但達斯·維達依舊是被鎖上無法即時使用，在不購買抽獎箱提升進度下估計大約需要40小時的遊玩時間才能儲得足夠的虛擬貨幣購買單一個經典角色\[24\]。美商藝電的客戶團隊在Reddit回應這些爭議，指須要大量時間累積貨幣的設定是為了讓玩家購得角色後「感到自豪與充滿成就感」（sense of pride and accomplishment）\[25\]\[26\]，連帶其他類似發言惹來用戶激烈喝倒彩，美商藝電的「成就感」回覆更錄得Reddit論壇創立以來最多用戶負評，直到14日為止此[單一回帖](https://www.reddit.com/r/StarWarsBattlefront/comments/7cff0b/seriously_i_paid_80_to_have_vader_locked/dppum98/)已經累積了超過60萬用戶負評\[27\]\[28\]\[29\]，這個創舉更獲得2020年度[健力士世界紀錄大全承認而正式入冊](https://zh.wikipedia.org/wiki/健力士世界紀錄大全 "wikilink")\[30\]。14日美商藝電再對遊戲作出調整，不過其手法被指帶有欺詐成分，雖然英雄級角色的售價調低了75%\[31\]\[32\]，但單人模式通關獎勵的虛擬貨幣亦同樣被調低了75%\[33\]。
 
-由此引發了 玩家的杯葛潮及關於美商藝電故意移除網上取消預約付款選項的謠言\[33\]\[34\]。11月17日就在遊戲發售日前幾小時，美商藝電與[迪士尼雙方行政總裁通電](https://zh.wikipedia.org/wiki/迪士尼 "wikilink")，雖然未有透露討論細節，但隨後美商藝電在其官方[推特賬戶宣布暫停所有遊戲內的](https://zh.wikipedia.org/wiki/推特 "wikilink")[微交易](https://zh.wikipedia.org/wiki/微交易 "wikilink")\[35\]\[36\]，然而網民依然不滿意發行商並非永久移除微交易的決定，事件直接導致美商藝電於遊戲發售日的[股價下跌](https://zh.wikipedia.org/wiki/美國股市 "wikilink")2.5%，[華爾街投資分析師調低遊戲的營收預測](https://zh.wikipedia.org/wiki/華爾街 "wikilink")\[37\]，自發售日至11月底美商藝電市值總共蒸發了30億美金\[38\]。12月5日在第37屆[納斯達克投資者大會上美商藝電財務總監向投資者承認會從錯誤中學習](https://zh.wikipedia.org/wiki/納斯達克 "wikilink")，但自從遊戲正式發售後近一個月他依然無法為恢復微交易提供時間表\[39\]。
+由此引發了 玩家的杯葛潮及關於美商藝電故意移除網上取消預約付款選項的謠言\[34\]\[35\]。11月17日就在遊戲發售日前幾小時，美商藝電與[迪士尼雙方行政總裁通電](https://zh.wikipedia.org/wiki/迪士尼 "wikilink")，雖然未有透露討論細節，但隨後美商藝電在其官方[推特賬戶宣布暫停所有遊戲內的](https://zh.wikipedia.org/wiki/推特 "wikilink")[微交易](https://zh.wikipedia.org/wiki/微交易 "wikilink")\[36\]\[37\]，然而網民依然不滿意發行商並非永久移除微交易的決定，事件直接導致美商藝電於遊戲發售日的[股價下跌](https://zh.wikipedia.org/wiki/美國股市 "wikilink")2.5%，[華爾街投資分析師調低遊戲的營收預測](https://zh.wikipedia.org/wiki/華爾街 "wikilink")\[38\]，自發售日至11月底美商藝電市值總共蒸發了30億美金\[39\]。12月5日在第37屆[納斯達克投資者大會上美商藝電財務總監向投資者承認會從錯誤中學習](https://zh.wikipedia.org/wiki/納斯達克 "wikilink")，但自從遊戲正式發售後近一個月他依然無法為恢復微交易提供時間表\[40\]。
 
-一些遊戲同業籍機公開暗諷美商藝電，例如[暴雪娛樂](../Page/暴雪娛樂.md "wikilink")將《[星海爭霸II：自由之翼](../Page/星海爭霸II：自由之翼.md "wikilink")》轉為免費遊戲時就在推特指遊戲不須任何微交易或抽獎解鎖指揮官及沒有任何支付現金讓玩家得到優勢的設計\[40\]。開發和發行[《巫師》系列的](https://zh.wikipedia.org/wiki/巫師_\(遊戲\) "wikilink")[CD Projekt也在推特回應玩家對開發中的](../Page/CD_Projekt.md "wikilink")《[賽博朋克2077](https://zh.wikipedia.org/wiki/賽博朋克2077 "wikilink")》會否包含微交易的疑問，指他們「將貪婪留給別人」（we leave greed to others）\[41\]。2017年度[遊戲大獎的頒獎嘉賓](https://zh.wikipedia.org/wiki/遊戲大獎 "wikilink")[柴克·萊威](../Page/柴克·萊威.md "wikilink")在揭曉得獎者前故意用信用卡裝作要經微交易付款才能打開信封，引來全場觀眾捧腹大笑\[42\]。
+一些遊戲同業籍機公開暗諷美商藝電，例如[暴雪娛樂](../Page/暴雪娛樂.md "wikilink")將《[星海爭霸II：自由之翼](../Page/星海爭霸II：自由之翼.md "wikilink")》轉為免費遊戲時就在推特指遊戲不須任何微交易或抽獎解鎖指揮官及沒有任何支付現金讓玩家得到優勢的設計\[41\]。開發和發行[《巫師》系列的](https://zh.wikipedia.org/wiki/巫師_\(遊戲\) "wikilink")[CD Projekt也在推特回應玩家對開發中的](../Page/CD_Projekt.md "wikilink")《[賽博朋克2077](https://zh.wikipedia.org/wiki/賽博朋克2077 "wikilink")》會否包含微交易的疑問，指他們「將貪婪留給別人」（we leave greed to others）\[42\]。2017年度[遊戲大獎的頒獎嘉賓](https://zh.wikipedia.org/wiki/遊戲大獎 "wikilink")[柴克·萊威](../Page/柴克·萊威.md "wikilink")在揭曉得獎者前故意用信用卡裝作要經微交易付款才能打開信封，引來全場觀眾捧腹大笑\[43\]。
 
 #### 政府官員回應
 
-[比利時和](https://zh.wikipedia.org/wiki/比利時 "wikilink")[荷蘭政府的博彩委員會分別於](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")11月15日和16日透露已就《星際大戰：戰場前線II》及其他提供虛擬抽獎的遊戲是否觸犯了其博彩條例展開調查，如果指證成立的話其發行商將會面臨大額罰款及禁售處罰\[43\]\[44\]\[45\]。 比利時司法部長承諾一旦判定博彩屬實就會立即向[歐盟提請完全取締虛擬抽獎](https://zh.wikipedia.org/wiki/歐盟 "wikilink")，儘管他承認過程將會非常耗時\[46\]，荷蘭方在剛開始調查時發表聲明警示家長留意孩子正在玩什麼樣的遊戲\[47\]。
+[比利時和](https://zh.wikipedia.org/wiki/比利時 "wikilink")[荷蘭政府的博彩委員會分別於](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")11月15日和16日透露已就《星際大戰：戰場前線II》及其他提供虛擬抽獎的遊戲是否觸犯了其博彩條例展開調查，如果指證成立的話其發行商將會面臨大額罰款及禁售處罰\[44\]\[45\]\[46\]。 比利時司法部長承諾一旦判定博彩屬實就會立即向[歐盟提請完全取締虛擬抽獎](https://zh.wikipedia.org/wiki/歐盟 "wikilink")，儘管他承認過程將會非常耗時\[47\]，荷蘭方在剛開始調查時發表聲明警示家長留意孩子正在玩什麼樣的遊戲\[48\]。
 
-11月21日[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[夏威夷州代表克里斯](https://zh.wikipedia.org/wiki/夏威夷 "wikilink")·李（Chris Lee）承諾在該州立法取締虛擬抽獎，指諸如美商藝電發行的電子遊戲是針對兒童的線上賭場，並引用《星際大戰》系列的名台詞「這是陷阱」（it's a trap）比喻現狀\[48\]。
+11月21日[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[夏威夷州代表克里斯](https://zh.wikipedia.org/wiki/夏威夷 "wikilink")·李（Chris Lee）承諾在該州立法取締虛擬抽獎，指諸如美商藝電發行的電子遊戲是針對兒童的線上賭場，並引用《星際大戰》系列的名台詞「這是陷阱」（it's a trap）比喻現狀\[49\]。
 
 ## 註釋
 
@@ -142,3 +142,5 @@
 47.
 
 48.
+
+49.

@@ -158,12 +158,6 @@
 
 PRETTY×CATION在Getchu.com的美少女遊戲大賞2014中獲得系統部門第5名。\[6\]另外在[萌えゲーアワード舉辦](https://zh.wikipedia.org/wiki/萌えゲーアワード "wikilink")4月的月間賞中獲得第7名。\[7\]
 
-## 相關條目
-
-  - [LOVELY×CATION](../Page/LOVELY×CATION.md "wikilink")
-  - [PRETTY×CATION2](../Page/PRETTY×CATION2.md "wikilink")
-  - [新妻LOVELY×CATION](../Page/新妻LOVELY×CATION.md "wikilink")
-
 ## 參考來源
 
 <references />

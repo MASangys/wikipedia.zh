@@ -6,7 +6,7 @@
 
 ## 收錄歌曲
 
-所有歌曲由作詞。
+所有歌曲由[及川眠子](../Page/及川眠子.md "wikilink")作詞。
 
 1.  勇氣Fighter
       - 主唱：，作曲、編曲：[葉山武](https://zh.wikipedia.org/wiki/葉山武 "wikilink")
@@ -22,8 +22,7 @@
 ## 相關項目
 
   - [潮與虎](https://zh.wikipedia.org/wiki/潮與虎#OVA "wikilink")
-
-  -
+  - [及川眠子](../Page/及川眠子.md "wikilink")
   - [東芝EMI](../Page/EMI音樂日本.md "wikilink")（現在改名EMI MUSIC JAPAN）
 
 [Category:EMI日本歌曲](https://zh.wikipedia.org/wiki/Category:EMI日本歌曲 "wikilink") [Category:1992年單曲](https://zh.wikipedia.org/wiki/Category:1992年單曲 "wikilink") [Category:OVA主題曲](https://zh.wikipedia.org/wiki/Category:OVA主題曲 "wikilink")

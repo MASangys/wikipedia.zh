@@ -99,7 +99,7 @@
 
 [Category:NU'EST音樂專輯](https://zh.wikipedia.org/wiki/Category:NU'EST音樂專輯 "wikilink")
 
-1.  [NU’EST "Action" MV&音源](http://kpopn.niusnews.com/=K0w3vkw4)
+1.
 2.
 3.
 4.

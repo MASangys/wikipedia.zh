@@ -20,4 +20,4 @@ iPad mini 4的硬件配置採用7.9吋[-{zh-hans:Retina屏幕;zh-hant:Retina顯�
 
 ## 註
 
-[Category:IPad](https://zh.wikipedia.org/wiki/Category:IPad "wikilink") [Category:2015年面世的平板電腦](https://zh.wikipedia.org/wiki/Category:2015年面世的平板電腦 "wikilink")
+[Category:IPad](https://zh.wikipedia.org/wiki/Category:IPad "wikilink") [Category:2015年面世的平板電腦](https://zh.wikipedia.org/wiki/Category:2015年面世的平板電腦 "wikilink") [Category:IPad_mini](https://zh.wikipedia.org/wiki/Category:IPad_mini "wikilink")

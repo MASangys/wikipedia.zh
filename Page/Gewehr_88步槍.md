@@ -1,4 +1,4 @@
-**Gewehr 88步槍**（以下簡稱為“Gew 88”）是由德國步槍委員會所研發的栓式步槍\[1\] ，發射採用嶄新[無煙火藥作推進藥的](https://zh.wikipedia.org/wiki/無煙火藥 "wikilink")及[7.92×57毫米毛瑟彈](https://zh.wikipedia.org/wiki/7.92×57mm毛瑟 "wikilink")，該槍還有兩種卡賓槍型，分别有為騎兵而設計的“Karabiner 88”（簡稱：Kar 88）和為炮兵設計的“Gewehr 91”（簡稱：Gew 91）。
+**Gewehr 88步槍**（又稱：G88、Gew 88或M88，以下簡稱為“Gew 88”）是由德國步槍委員會所研發的栓式步槍\[1\] ，發射採用嶄新[無煙火藥作推進藥的](https://zh.wikipedia.org/wiki/無煙火藥 "wikilink")及[7.92×57毫米毛瑟彈](https://zh.wikipedia.org/wiki/7.92×57mm毛瑟 "wikilink")，該槍還有兩種卡賓槍型，分别有為騎兵而設計的“Karabiner 88”（簡稱：Kar 88）和為炮兵設計的“Gewehr 91”（簡稱：Gew 91）。
 
 由於無煙火藥在19世紀末的出現，令發射黑火藥槍彈的槍械隨即變得過時。為了回應法國人於1886年研發出[勒貝爾步槍](../Page/勒貝爾M1886步槍.md "wikilink")，德國陸軍的步槍委員會於1888年開發出Gew 88，隨即被德國軍方採納為制式步槍。該槍有時也被稱為“委員會步槍”或“帝國步槍”，並曾出口到多個國家作為它們軍隊的制式步槍使用。其中[大清帝國曾大量進口Gew](https://zh.wikipedia.org/wiki/大清帝國 "wikilink") 88，後來由漢陽兵工廠所仿製，命名為“[漢陽八八式步槍](../Page/漢陽八八式步槍.md "wikilink")”，作為清末的[新軍](../Page/新軍.md "wikilink")和後來[中華民國](../Page/中華民國.md "wikilink")[北洋政府](../Page/北洋政府.md "wikilink")軍的主力步槍。
 

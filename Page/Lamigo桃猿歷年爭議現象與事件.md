@@ -34,7 +34,7 @@
 
 ### [Lamigo TV](../Page/Lamigo_TV.md "wikilink") Logo抄襲風波
 
-Lamigo TV於2015年球季開幕時開播，但此時有[臉書專頁發現其Logo疑似抄襲](https://zh.wikipedia.org/wiki/臉書 "wikilink")[美國小聯盟康乃狄克守衛者隊的隊徽](https://zh.wikipedia.org/wiki/美國職棒小聯盟 "wikilink")，且前一年奪冠後推出的[總冠軍](https://zh.wikipedia.org/wiki/2014年中華職棒總冠軍賽 "wikilink")[T恤](../Page/T恤.md "wikilink")Logo也被發現和榮恩保羅獅子的勳章相當雷同。\[13\]當時球團表示Logo設計是從圖庫找尋，沒注意到和其他圖案相似。後來宣布對相關產品退貨，其他產品打折以彌補球迷，\[14\]並於稍後取得作者授權。
+Lamigo TV於2015年球季開幕時開播，但此時有[臉書專頁發現其Logo疑似抄襲](https://zh.wikipedia.org/wiki/臉書 "wikilink")[美國小聯盟康乃狄克守衛者隊的隊徽](../Page/美國職棒小聯盟.md "wikilink")，且前一年奪冠後推出的[總冠軍](https://zh.wikipedia.org/wiki/2014年中華職棒總冠軍賽 "wikilink")[T恤](../Page/T恤.md "wikilink")Logo也被發現和榮恩保羅獅子的勳章相當雷同。\[13\]當時球團表示Logo設計是從圖庫找尋，沒注意到和其他圖案相似。後來宣布對相關產品退貨，其他產品打折以彌補球迷，\[14\]並於稍後取得作者授權。
 
 ### [沈玉琳](../Page/沈玉琳.md "wikilink")開黃腔事件
 

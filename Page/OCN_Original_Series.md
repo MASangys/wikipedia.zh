@@ -1130,7 +1130,7 @@
 </tr>
 <tr class="even">
 <td><p>2019年8月31日－<br />
-2019年9月29日</p></td>
+2019年10月6日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/他人即地獄" title="wikilink">他人即地獄</a><br />
 </p></td>
 <td><p>10</p></td>
@@ -1140,13 +1140,13 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2019年10月－<br />
-2019年</p></td>
+<td><p>2019年10月12日－<br />
+2019年12月1日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/所有人的謊言" title="wikilink">所有人的謊言</a><br />
 </p></td>
-<td></td>
+<td><p>16</p></td>
 <td><p><a href="../Page/李民基.md" title="wikilink">李民基</a>、<a href="../Page/李宥英.md" title="wikilink">李宥英</a></p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/全英信" title="wikilink">全英信</a></p></td>
 <td><p><a href="../Page/李允正.md" title="wikilink">李允正</a></p></td>
 <td></td>
 </tr>
@@ -1260,7 +1260,7 @@
 <tr class="odd">
 <td><p>2019年9月18日－<br />
 2019年11月7日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/奔跑的調查官" title="wikilink">奔跑的調查官</a><br />
+<td><p><a href="../Page/奔跑的調查官.md" title="wikilink">奔跑的調查官</a><br />
 </p></td>
 <td><p>16</p></td>
 <td><p><a href="../Page/李枖原.md" title="wikilink">李枖原</a>、<a href="https://zh.wikipedia.org/wiki/崔貴華" title="wikilink">崔貴華</a>、<a href="../Page/張鉉誠.md" title="wikilink">張鉉誠</a>、<a href="https://zh.wikipedia.org/wiki/吳美姬" title="wikilink">吳美姬</a></p></td>

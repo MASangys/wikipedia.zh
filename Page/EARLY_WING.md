@@ -87,7 +87,7 @@
 </ul></td>
 <td><ul>
 <li><a href="https://zh.wikipedia.org/wiki/富永芳英" title="wikilink">富永芳英</a>（）</li>
-<li></li>
+<li><a href="../Page/中村溫姬.md" title="wikilink">中村溫姬</a></li>
 <li></li>
 <li></li>
 <li><a href="../Page/桃河Rika.md" title="wikilink">桃河Rika</a></li>

@@ -6,6 +6,6 @@
 
 ## 参考文献
 
-[Category:胺](https://zh.wikipedia.org/wiki/Category:胺 "wikilink") [Category:二醇](https://zh.wikipedia.org/wiki/Category:二醇 "wikilink")
+[Category:叔胺](https://zh.wikipedia.org/wiki/Category:叔胺 "wikilink") [Category:二醇](https://zh.wikipedia.org/wiki/Category:二醇 "wikilink")
 
 1.  韩晓红. N-甲基二乙醇胺的合成及应用. 大众标准化, 2003. 9

@@ -159,7 +159,7 @@ Pieerot PLUS的前身是「**株式會社旗艦工作室**（<small></small>）�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/拾又之国.md" title="wikilink">拾又之国</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/拾又之國" title="wikilink">拾又之國</a></p></td>
 <td></td>
 <td><p>Studio Pirrot+名義。</p></td>
 <td></td>

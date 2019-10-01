@@ -1,8 +1,8 @@
 **幽灵**（）是一名[DC漫畫](../Page/DC漫畫.md "wikilink")旗下的虛構[漫畫超級英雄兼](https://zh.wikipedia.org/wiki/超級英雄漫畫 "wikilink")[反英雄](../Page/反英雄.md "wikilink")。該角色於《》\#52（1940年2月）首次登場，由與共同創作；雖然根據幾個消息來源指出，席格才是主要創作者，而貝利僅是設計角色外貌的藝術家\[1\]\[2\]\[3\]。
 
-幽灵本名為****（Jim Corrigan），即[上帝的复仇之灵](https://zh.wikipedia.org/wiki/上帝_\(DC漫画\) "wikilink")，有强大的力量，负责惩处世间的罪行。最初是后悔自己反叛上帝的恶魔阿兹塔尔（Aztar）。
+幽灵本名為****（Jim Corrigan），即**[上帝](https://zh.wikipedia.org/wiki/上帝_\(DC漫画\) "wikilink")**的复仇之灵，有强大的力量，负责惩处世间的罪行。最初是后悔自己反叛上帝的恶魔阿兹塔尔（Aztar）。
 
-他曾利用无数宇宙的魔法对抗**[反监视者](../Page/反监视者.md "wikilink")**但失败，附身在[哈尔·乔丹](../Page/哈尔·乔丹.md "wikilink")身上时想杀死**[达克赛德](https://zh.wikipedia.org/wiki/达克赛德 "wikilink")**但也未成功。
+他曾利用无数宇宙的[魔法](../Page/魔法.md "wikilink")对抗**[反监视者](../Page/反监视者.md "wikilink")**但失败，附身在[哈尔·乔丹](../Page/哈尔·乔丹.md "wikilink")身上时想杀死**[达克赛德](https://zh.wikipedia.org/wiki/达克赛德 "wikilink")**但也未成功。
 
 ## 参考文献
 

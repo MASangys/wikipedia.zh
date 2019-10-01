@@ -134,6 +134,17 @@
 </ul></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p><strong>2nd</strong></p></td>
+<td><p>《<strong>Oh-e-Oh</strong>》</p>
+<ul>
+<li>發行日期：2019年1月16日</li>
+<li>語言：日語</li>
+<li>格式：CD唱片、數位下載</li>
+<li>銷售量:</li>
+</ul></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -340,7 +351,8 @@
 | 9月20日                | 《Take My Hand (손을 잡아줘)》\[9\] |                                |
 | 2018                 | 2月7日                         | 《My Story (내 이야기)》\[10\]       |
 | 3月12日                | 《The Blue Bird (파랑새)》\[11\]  |                                |
-|                      |                              |                                |
+| 10月16日               | 《Oh\! my mistake(예쁜게 죄)》     |                                |
+| 2019                 | 1月16日                        | 《Oh-e-Oh》                      |
 
 ### 其它音樂影片
 
@@ -352,14 +364,33 @@
 <td><p>歌曲名稱</p></td>
 <td><p>歌手</p></td>
 <td><p>參與成員</p></td>
+<td><p>備註</p></td>
 </tr>
 <tr class="even">
 <td><p>2016</p></td>
 <td><p>6月9日</p></td>
 <td><p>손끝의 사랑(The Love of Fingertips)[12]</p></td>
-<td><p><a href="../Page/B1A4.md" title="wikilink">B1A4</a>, <a href="../Page/徐恩光.md" title="wikilink">徐恩光</a>, <a href="../Page/李昌燮.md" title="wikilink">李昌燮</a>, <a href="../Page/許齡智.md" title="wikilink">許齡智</a>,<br />
-<a href="../Page/A-JAX.md" title="wikilink">A-JAX</a>,<a href="../Page/APRIL_(女子團體).md" title="wikilink">APRIL</a>, <a href="https://zh.wikipedia.org/wiki/Oh_My_Girl" title="wikilink">Oh My Girl</a>, <a href="https://zh.wikipedia.org/wiki/Kassy" title="wikilink">Kassy</a></p></td>
-<td><p>採媛、娜恩、睿娜、真率</p></td>
+<td><p><a href="../Page/B1A4.md" title="wikilink">B1A4</a>, <a href="../Page/徐恩光.md" title="wikilink">徐恩光</a>, <a href="../Page/李昌燮.md" title="wikilink">李昌燮</a>,<br />
+<a href="../Page/許齡智.md" title="wikilink">許齡智</a>, <a href="../Page/A-JAX.md" title="wikilink">A-JAX</a>, <a href="../Page/APRIL_(女子團體).md" title="wikilink">APRIL</a>,<br />
+<a href="https://zh.wikipedia.org/wiki/Oh_My_Girl" title="wikilink">Oh My Girl</a>,<a href="https://zh.wikipedia.org/wiki/Kassy" title="wikilink">Kassy</a></p></td>
+<td><p>採媛, 娜恩, 睿娜, 真率</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019</p></td>
+<td><p>5月7日</p></td>
+<td><p>스며들기 좋은 오늘(Lean On Me)</p></td>
+<td><p><a href="../Page/李娜恩.md" title="wikilink">李娜恩</a>(原唱:<a href="https://zh.wikipedia.org/wiki/白藝潾" title="wikilink">白藝潾</a>)</p></td>
+<td><p>娜恩</p></td>
+<td><p>A-TEEN2 OST</p></td>
+</tr>
+<tr class="even">
+<td><p>8月4日</p></td>
+<td><p>우리 꼭 사귀는 것 같잖아요(Lovesome)</p></td>
+<td><p>보이스퍼(VOISPER),<a href="../Page/彩暻.md" title="wikilink">彩暻</a></p></td>
+<td><p>彩暻</p></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>

@@ -29,7 +29,7 @@
       - 作詞：，作曲：川井憲次
       - OVA《亂馬》片尾主題曲
 6.  **[滿滿的回憶](https://zh.wikipedia.org/wiki/夏天的朋友/滿滿的回憶#DoCo翻唱版 "wikilink")**（**<small></small>**）
-      - 作詞：，作曲：
+      - 作詞：[及川眠子](../Page/及川眠子.md "wikilink")，作曲：
       - OVA《亂馬》片頭主題曲
 7.  **他**（**<small></small>**）
       - 作詞：亂馬的歌劇團文藝部，作曲：川井憲次

@@ -378,6 +378,8 @@
 | 2017年                                        | 9月24日  | 首爾                                                      | [梨花女子大學](../Page/梨花女子大學.md "wikilink")Samsung Hall                                                                                                                                                                     | \[41\]                   |
 | 十週年出道紀念粉絲見面會 《IU+》                           |        |                                                         |                                                                                                                                                                                                                        |                          |
 | 2018年                                        | 9月15日  | 首爾                                                      | Universal Art Center                                                                                                                                                                                                   | \[42\]                   |
+| 十一週年出道紀念粉絲見面會 《▶ ll & U (PLAY, PAUSE AND U)》 |        |                                                         |                                                                                                                                                                                                                        |                          |
+| 2019年                                        | 9月21日  | 首爾                                                      | 慶熙大學和平殿堂                                                                                                                                                                                                               | \[43\]                   |
 
 ## 其他演唱會
 
@@ -389,18 +391,18 @@
 | IU Friendship Special Concert - Autumn 2012       | 日本                                                  | 1                                  |              |              |
 | 2013                                              | Modern Times                                        | 韩国                                 | 3            |              |
 | 2014                                              | Modern Times Showcase In Hong Kong                  | [香港](../Page/香港.md "wikilink")     | 1            |              |
-| Just One Step... That Much More                   | 韩国                                                  | 8                                  | \[43\]       |              |
+| Just One Step... That Much More                   | 韩国                                                  | 8                                  | \[44\]       |              |
 | 2015                                              | Chat-Shire                                          | 韩国                                 | 7            |              |
-| 2015–2016                                         | I\&U                                                | 香港                                 | 1            | \[44\]       |
-| [中国大陆](../Page/中国大陆.md "wikilink")                | 2                                                   | \[45\]\[46\]                       |              |              |
-| [台湾](https://zh.wikipedia.org/wiki/台湾 "wikilink") | 1                                                   | \[47\]                             |              |              |
-| 2016                                              | IU Good Day China Tour                              | [中国大陆](../Page/中国大陆.md "wikilink") | 7            | \[48\]\[49\] |
-| 2016 IU Concert〈24 STEPS : ONE TWO THREE FOUR〉    | 韩国                                                  | 2                                  | \[50\]\[51\] |              |
-| IU Concert: 24 STEPS                              | 香港                                                  | 1                                  | \[52\]       |              |
-| 2017                                              | [台湾](https://zh.wikipedia.org/wiki/台湾 "wikilink")   | 1                                  | \[53\]       |              |
-| IU 2017 Tour Concert〈Palette〉                     | 韓國                                                  | 5                                  | \[54\]       |              |
+| 2015–2016                                         | I\&U                                                | 香港                                 | 1            | \[45\]       |
+| [中国大陆](../Page/中国大陆.md "wikilink")                | 2                                                   | \[46\]\[47\]                       |              |              |
+| [台湾](https://zh.wikipedia.org/wiki/台湾 "wikilink") | 1                                                   | \[48\]                             |              |              |
+| 2016                                              | IU Good Day China Tour                              | [中国大陆](../Page/中国大陆.md "wikilink") | 7            | \[49\]\[50\] |
+| 2016 IU Concert〈24 STEPS : ONE TWO THREE FOUR〉    | 韩国                                                  | 2                                  | \[51\]\[52\] |              |
+| IU Concert: 24 STEPS                              | 香港                                                  | 1                                  | \[53\]       |              |
+| 2017                                              | [台湾](https://zh.wikipedia.org/wiki/台湾 "wikilink")   | 1                                  | \[54\]       |              |
+| IU 2017 Tour Concert〈Palette〉                     | 韓國                                                  | 5                                  | \[55\]       |              |
 | 香港                                                | 1                                                   |                                    |              |              |
-| 2018                                              | 2018 IU 10th Anniversary Tour Concert 〈이지금 dlwlrma〉 | 韓國                                 | 5            | \[55\]       |
+| 2018                                              | 2018 IU 10th Anniversary Tour Concert 〈이지금 dlwlrma〉 | 韓國                                 | 5            | \[56\]       |
 | 香港                                                | 1                                                   |                                    |              |              |
 | 新加坡                                               | 1                                                   |                                    |              |              |
 | 泰國                                                | 1                                                   |                                    |              |              |
@@ -522,3 +524,5 @@
 54.
 
 55.
+
+56.

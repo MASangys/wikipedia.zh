@@ -1,19 +1,99 @@
-《**Get it beauty**》（韓語：**겟 잇 뷰티**）是韓國[On Style的美妝綜藝節目](https://zh.wikipedia.org/wiki/On_Style "wikilink")，現由[張允珠](https://zh.wikipedia.org/wiki/張允珠 "wikilink")、[金度延](../Page/金度延.md "wikilink")（[Weki Meki](../Page/Weki_Meki.md "wikilink")）、[Joy](https://zh.wikipedia.org/wiki/朴秀英 "wikilink") ([Red Velvet](../Page/Red_Velvet.md "wikilink"))、文佳菲及金秀美主持，每集邀請不同來賓參演，並介紹時下化妝、護膚、服飾流行趨勢，與觀眾進行現場交流的美妝秀\[1\]\[2\]。
+《**Get it beauty**》（韓語：**겟 잇 뷰티**）是韓國[On Style的美妝綜藝節目](https://zh.wikipedia.org/wiki/On_Style "wikilink")，現由[張允珠](https://zh.wikipedia.org/wiki/張允珠 "wikilink")、[Joy](https://zh.wikipedia.org/wiki/朴秀英 "wikilink")（[Red Velvet](../Page/Red_Velvet.md "wikilink")）主持，每集邀請不同來賓參演，並介紹時下化妝、護膚、服飾流行趨勢，與觀眾進行現場交流的美妝秀\[1\]\[2\]。
 
 ## 主持演變
 
-| 年度   | 主持人\[3\]                                                                                                                                                                                                                                                                                                                            |
-| ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2011 | [柳真](../Page/柳真.md "wikilink")、、黃民英                                                                                                                                                                                                                                                                                                 |
-| 2012 |                                                                                                                                                                                                                                                                                                                                     |
-| 2013 |                                                                                                                                                                                                                                                                                                                                     |
-| 2014 | [劉寅娜](../Page/劉寅娜.md "wikilink")、[金栽經](../Page/金栽經.md "wikilink")（[Rainbow](../Page/Rainbow_\(音樂團體\).md "wikilink")）、黃民英                                                                                                                                                                                                            |
-| 2015 | [李荷妮](https://zh.wikipedia.org/wiki/李荷妮 "wikilink")、[韶宥](https://zh.wikipedia.org/wiki/韶宥 "wikilink")（[SISTAR](../Page/SISTAR.md "wikilink")）、、黃民英                                                                                                                                                                                  |
-| 2016 | [李荷妮](https://zh.wikipedia.org/wiki/李荷妮 "wikilink")、、黃民英、[Luna](../Page/朴善英.md "wikilink")（[f(x)](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")）                                                                                                                                                                          |
-| 2017 | [李荷妮](https://zh.wikipedia.org/wiki/李荷妮 "wikilink")、[Sandara Park](https://zh.wikipedia.org/wiki/Dara "wikilink")\[4\]、[李世榮](../Page/李世榮_\(韓國\).md "wikilink")、[金世正](https://zh.wikipedia.org/wiki/金世正 "wikilink")（[Gugudan](../Page/Gugudan.md "wikilink")）\[5\]、[朴娜萊](https://zh.wikipedia.org/wiki/朴娜萊_\(喜劇演員\) "wikilink")\[6\] |
-| 2018 | [張允珠](https://zh.wikipedia.org/wiki/張允珠 "wikilink")、[金度延](../Page/金度延.md "wikilink")（[Weki Meki](../Page/Weki_Meki.md "wikilink")）、文佳菲、金秀美\[7\]、[JooE](../Page/JooE.md "wikilink")（[MOMOLAND](../Page/MOMOLAND.md "wikilink")）\[8\]                                                                                                 |
-| 2019 | [張允珠](https://zh.wikipedia.org/wiki/張允珠 "wikilink")、[金度延](../Page/金度延.md "wikilink")（[Weki Meki](../Page/Weki_Meki.md "wikilink")）、文佳菲、金秀美、[Joy](../Page/Joy_\(Red_Velvet\).md "wikilink")（[Red Velvet](../Page/Red_Velvet.md "wikilink")）                                                                                          |
-|      |                                                                                                                                                                                                                                                                                                                                     |
+| 年度   | 主持人\[3\]                                                                                                                                                                                                                                                                                                         |
+| ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2011 | [柳真](../Page/柳真.md "wikilink")、、黃民英                                                                                                                                                                                                                                                                              |
+| 2012 |                                                                                                                                                                                                                                                                                                                  |
+| 2013 |                                                                                                                                                                                                                                                                                                                  |
+| 2014 | [劉寅娜](../Page/劉寅娜.md "wikilink")、[金栽經](../Page/金栽經.md "wikilink")（[Rainbow](../Page/Rainbow_\(音樂團體\).md "wikilink")）、黃民英                                                                                                                                                                                         |
+| 2015 | [李荷妮](../Page/李荷妮.md "wikilink")、[韶宥](https://zh.wikipedia.org/wiki/韶宥 "wikilink")（[SISTAR](../Page/SISTAR.md "wikilink")）、、黃民英                                                                                                                                                                                  |
+| 2016 | [李荷妮](../Page/李荷妮.md "wikilink")、、黃民英、[Luna](../Page/朴善英.md "wikilink")（[f(x)](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")）                                                                                                                                                                          |
+| 2017 | [李荷妮](../Page/李荷妮.md "wikilink")、[Sandara Park](https://zh.wikipedia.org/wiki/Dara "wikilink")\[4\]、[李世榮](../Page/李世榮_\(韓國\).md "wikilink")、[金世正](https://zh.wikipedia.org/wiki/金世正 "wikilink")（[Gugudan](../Page/Gugudan.md "wikilink")）\[5\]、[朴娜萊](https://zh.wikipedia.org/wiki/朴娜萊_\(喜劇演員\) "wikilink")\[6\] |
+| 2018 | [張允珠](https://zh.wikipedia.org/wiki/張允珠 "wikilink")、[金度延](../Page/金度延.md "wikilink")（[Weki Meki](../Page/Weki_Meki.md "wikilink")）、文佳菲、金秀美\[7\]、[JooE](../Page/JooE.md "wikilink")（[MOMOLAND](../Page/MOMOLAND.md "wikilink")）\[8\]                                                                              |
+| 2019 | [張允珠](https://zh.wikipedia.org/wiki/張允珠 "wikilink")、[Joy](../Page/Joy_\(Red_Velvet\).md "wikilink")（[Red Velvet](../Page/Red_Velvet.md "wikilink")）                                                                                                                                                              |
+|      |                                                                                                                                                                                                                                                                                                                  |
+
+## 固定嘉賓
+
+### 2019年
+
+<table>
+<thead>
+<tr class="header">
+<th><p>名字</p></th>
+<th><p>環節</p></th>
+<th><p>集數</p></th>
+<th><p>備註</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>李恩珠</p></td>
+<td><p>《美世平》</p></td>
+<td><p>EP01-至今</p></td>
+<td><p>美妝專業教授</p></td>
+</tr>
+<tr class="even">
+<td><p>安恩淑</p></td>
+<td><p>H皮膚科學研究院院長</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>朴尚恩</p></td>
+<td><p>化妝師</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>金美久</p></td>
+<td><p>美妝雜誌編輯</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Irene Kim</p></td>
+<td><p>《新品任堂》</p></td>
+<td><p>EP01-至今</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/叡仁" title="wikilink">叡仁</a> (<a href="https://zh.wikipedia.org/wiki/Lovelyz" title="wikilink">Lovelyz</a>)</p></td>
+<td><p>EP03-至今</p></td>
+<td><p>EP07-08、17-18缺席</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>白智秀</p></td>
+<td><p>EP01-至今</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>妍斗孔</p></td>
+<td><p>《新品任堂》<br />
+《Lara Review》</p></td>
+<td><p>EP01-至今<br />
+EP01-11</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/尹彩暻" title="wikilink">彩暻</a> (<a href="../Page/APRIL_(女子團體).md" title="wikilink">APRIL</a>)</p></td>
+<td><p>《Lara Review》<br />
+《Get It Box》</p></td>
+<td><p>EP01-至今</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>真率 (<a href="../Page/APRIL_(女子團體).md" title="wikilink">APRIL</a>)</p></td>
+<td><p>EP13-至今</p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 各集資訊
 
@@ -724,6 +804,442 @@
 | 2  | 2月2日  |    | 選出美生平爽膚水 |    |
 | 3  | 2月9日  |    | 選出美生平洗面乳 |    |
 | 4  | 2月16日 |    | 選出美生平粉底  |    |
+
+### 2019年
+
+<table>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 11%" />
+<col style="width: 15%" />
+<col style="width: 17%" />
+<col style="width: 25%" />
+<col style="width: 11%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>集數</p></th>
+<th><p>播出日期</p></th>
+<th><p>來賓</p></th>
+<th><p>環節</p></th>
+<th><p>各環節主題</p></th>
+<th><p>備註</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1</p></td>
+<td><p>2月22日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/韓海" title="wikilink">韓海</a>（特別MC）、<a href="../Page/李娜恩.md" title="wikilink">李娜恩</a>（<a href="../Page/APRIL_(女子團體).md" title="wikilink">APRIL</a>）</p></td>
+<td><p>《美生平》<br />
+《Lara Review》<br />
+《新品任堂》</p></td>
+<td><p>2019美生平頭銜對決<br />
+卸妝素顏任務<br />
+My Sider</p></td>
+<td><p>Joy缺席</p></td>
+</tr>
+<tr class="even">
+<td><p>2</p></td>
+<td><p>3月1日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/韓海" title="wikilink">韓海</a>（特別MC）、<a href="../Page/李娜恩.md" title="wikilink">李娜恩</a>（<a href="../Page/APRIL_(女子團體).md" title="wikilink">APRIL</a>）</p></td>
+<td><p>《美生平》<br />
+《新品任堂》</p></td>
+<td><p>選出美生平爽膚水<br />
+無壓力防彈美妝團</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>3</p></td>
+<td><p>3月8日</p></td>
+<td><p><a href="../Page/孔燦.md" title="wikilink">孔燦</a>（特別MC）</p></td>
+<td><p>《美生平》<br />
+《新品任堂》</p></td>
+<td><p>尋找人生洗面乳 選出美生平洗面乳<br />
+新生顏值擔當妝容</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>4</p></td>
+<td><p>3月15日</p></td>
+<td><p><a href="../Page/孔燦.md" title="wikilink">孔燦</a>（特別MC）</p></td>
+<td><p>《美生平》<br />
+《Lara Review》<br />
+《新品任堂》</p></td>
+<td><p>選出美生平液體型粉底霜<br />
+皮膚屏障穩固項目<br />
+New-tro舊新品</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>5</p></td>
+<td><p>3月22日</p></td>
+<td><p><a href="../Page/孔燦.md" title="wikilink">孔燦</a>（特別MC）</p></td>
+<td><p>《美生平》<br />
+《新品任堂》</p></td>
+<td><p>選出美生平潤唇膏<br />
+2019年發型沙龍新品篇</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>6</p></td>
+<td><p>3月29日</p></td>
+<td><p><a href="../Page/孔燦.md" title="wikilink">孔燦</a>（特別MC）</p></td>
+<td><p>《美生平》<br />
+《新品任堂》</p></td>
+<td><p>選出美生平護手霜<br />
+大概是春天來了</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>7</p></td>
+<td><p>4月5日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ravi" title="wikilink">Ravi</a>（<a href="../Page/VIXX.md" title="wikilink">VIXX</a>）</p></td>
+<td><p>《美生平》<br />
+《Lara Review》<br />
+《新品任堂》</p></td>
+<td><p>選出美生平紅色口紅<br />
+潔面搜查<br />
+口碑天才單品</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>8</p></td>
+<td><p>4月12日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ravi" title="wikilink">Ravi</a>（<a href="../Page/VIXX.md" title="wikilink">VIXX</a>）</p></td>
+<td><p>《美生平》<br />
+《Lara Review》<br />
+《新品任堂》</p></td>
+<td><p>選出美生平腮紅粉<br />
+馴服痘痘粉刺等敏感問題<br />
+美妝基本學概論</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>9</p></td>
+<td><p>4月19日</p></td>
+<td></td>
+<td><p>《美生平》<br />
+《Lara Review》<br />
+《新品任堂》</p></td>
+<td><p>選出美生平氣墊粉<br />
+化妝水分充電法<br />
+2019全知圈粉新品</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>10</p></td>
+<td><p>4月23日</p></td>
+<td></td>
+<td><p>《美生平》<br />
+《Lara Review》<br />
+《新品任堂》</p></td>
+<td><p>選出美生平薄片面膜<br />
+美妝導師們的人生單品<br />
+One Pick Twin Tem</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>11</p></td>
+<td><p>5月3日</p></td>
+<td></td>
+<td><p>《美生平》<br />
+《Lara Review》<br />
+《新品任堂》</p></td>
+<td><p>選出美生平高光提亮粉<br />
+個人婚禮護理<br />
+2019 Party People</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>12</p></td>
+<td><p>5月10日</p></td>
+<td></td>
+<td><p>《美生平》<br />
+《Lara Review》<br />
+《新品任堂》</p></td>
+<td><p>美生平Crew角質層診斷、選出美生平護髮素<br />
+一日眼部護理<br />
+復古的單品</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>13</p></td>
+<td><p>5月17日</p></td>
+<td><p>Kevin</p></td>
+<td><p>《美生平》<br />
+《Lara Review》<br />
+《新品任堂》</p></td>
+<td><p>選出美生平提亮霜<br />
+K-面膜輔助使用法<br />
+慢慢的長時間吧 K-綜合症</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>14</p></td>
+<td><p>5月24日</p></td>
+<td></td>
+<td><p>《新品任堂》<br />
+《Lara Review》</p></td>
+<td><p>度假美妝特輯第一彈<br />
+打造今年夏天想要化的夏日妝容</p></td>
+<td><p>公開錄製</p></td>
+</tr>
+<tr class="odd">
+<td><p>15</p></td>
+<td><p>5月31日</p></td>
+<td></td>
+<td><p>《美生平》</p></td>
+<td><p>選出美生平眼影</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>16</p></td>
+<td><p>6月7日</p></td>
+<td></td>
+<td><p>《美生平》<br />
+《新品任堂》</p></td>
+<td><p>選出美生平防曬霜<br />
+人間玻璃球單品</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>17</p></td>
+<td><p>6月14日</p></td>
+<td><p><a href="../Page/李娜恩.md" title="wikilink">娜恩</a>（<a href="../Page/APRIL_(女子團體).md" title="wikilink">APRIL</a>）</p></td>
+<td><p>《美生平》<br />
+《新品任堂》</p></td>
+<td><p>選出美生平定妝粉<br />
+人間玻璃球單品</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>18</p></td>
+<td><p>6月21日</p></td>
+<td><p><a href="../Page/朴經.md" title="wikilink">朴經</a>（特別MC）、<a href="https://zh.wikipedia.org/wiki/尹彩暻" title="wikilink">彩暻</a>（<a href="../Page/APRIL_(女子團體).md" title="wikilink">APRIL</a>）</p></td>
+<td><p>《美生平》<br />
+《新品任堂》</p></td>
+<td><p>選出美生平男士全效精華<br />
+男女美妝共同區域</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>19</p></td>
+<td><p>6月28日</p></td>
+<td></td>
+<td><p>《美生平》<br />
+《新品任堂》</p></td>
+<td><p>選出美生平去黑頭產品<br />
+顏色配搭！美味的新品</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>20</p></td>
+<td><p>7月5日</p></td>
+<td></td>
+<td><p>《美生平》<br />
+《Get It Box》<br />
+《新品任堂》</p></td>
+<td><p>選出美生平去角質產品<br />
+推薦最漂亮的口紅<br />
+冰涼美妝遠征隊</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>21</p></td>
+<td><p>7月12日</p></td>
+<td></td>
+<td><p>《美生平》<br />
+《Lara Review》<br />
+《新品任堂》</p></td>
+<td><p>選出美生平眼線產品<br />
+度假秘密兵器<br />
+敏感BOSS 新品SOS</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>22</p></td>
+<td><p>7月19日</p></td>
+<td></td>
+<td><p>《美生平》<br />
+《新品任堂》</p></td>
+<td><p>選出美生平防水睫毛膏<br />
+如漁得水的夏季產品<br />
+</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>23</p></td>
+<td><p>7月26日</p></td>
+<td><p><a href="../Page/全昭珉.md" title="wikilink">昭珉</a>（<a href="../Page/KARD.md" title="wikilink">KARD</a>）</p></td>
+<td><p>《美生平》<br />
+《Get It Box》<br />
+《新品任堂》</p></td>
+<td><p>選出美生平唇彩<br />
+留下人生照的解決方法<br />
+復蘇戀愛細胞產品</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>24</p></td>
+<td><p>8月2日</p></td>
+<td></td>
+<td><p>《美生平》<br />
+《新品任堂》</p></td>
+<td><p>選出美生平保濕安瓶<br />
+夏日假期作業</p></td>
+<td><p>上半年最後一期</p></td>
+</tr>
+<tr class="odd">
+<td><p>25</p></td>
+<td><p>9月6日</p></td>
+<td></td>
+<td><p>《美生平》<br />
+《Lara Review》<br />
+《新品任堂》巴黎篇</p></td>
+<td><p>選出美生平清潔爽膚棉<br />
+光幅射皮膚老化 後暴風防御方法<br />
+巴黎特輯第一彈</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>26</p></td>
+<td><p>9月13日</p></td>
+<td></td>
+<td><p>《美生平》<br />
+《新品任堂》巴黎篇<br />
+《Get It Box》</p></td>
+<td><p>選出美生平噴霧<br />
+巴黎特輯第二彈<br />
+知性又迷人的妝容教程</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>27</p></td>
+<td><p>9月20日</p></td>
+<td><p><a href="../Page/Tiffany_(少女時代).md" title="wikilink">Tiffany</a> (<a href="https://zh.wikipedia.org/wiki/少女時代" title="wikilink">少女時代</a>)</p></td>
+<td><p>《美生平》<br />
+《Lara Review》<br />
+《新品任堂》</p></td>
+<td><p>選出美生平沐浴乳<br />
+<br />
+</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>28</p></td>
+<td><p>9月27日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>29</p></td>
+<td><p>10月4日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>30</p></td>
+<td><p>10月11日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>31</p></td>
+<td><p>10月18日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>32</p></td>
+<td><p>10月25日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>33</p></td>
+<td><p>11月1日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>34</p></td>
+<td><p>11月8日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>35</p></td>
+<td><p>11月15日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>36</p></td>
+<td><p>11月22日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>37</p></td>
+<td><p>11月29日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>38</p></td>
+<td><p>12月6日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>39</p></td>
+<td><p>12月13日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>40</p></td>
+<td><p>12月20日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>41</p></td>
+<td><p>12月27日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 註釋與參考資料
 

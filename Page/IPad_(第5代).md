@@ -10,4 +10,4 @@
 
 ## 参考资料
 
-[Category:IPad](https://zh.wikipedia.org/wiki/Category:IPad "wikilink") [Category:IOS](https://zh.wikipedia.org/wiki/Category:IOS "wikilink") [Category:導航設備](https://zh.wikipedia.org/wiki/Category:導航設備 "wikilink") [Category:平板電腦](https://zh.wikipedia.org/wiki/Category:平板電腦 "wikilink") [Category:2017年面世的平板電腦](https://zh.wikipedia.org/wiki/Category:2017年面世的平板電腦 "wikilink")
+[Category:IPad](https://zh.wikipedia.org/wiki/Category:IPad "wikilink") [Category:IOS](https://zh.wikipedia.org/wiki/Category:IOS "wikilink") [Category:導航設備](https://zh.wikipedia.org/wiki/Category:導航設備 "wikilink") [Category:平板電腦](https://zh.wikipedia.org/wiki/Category:平板電腦 "wikilink") [Category:2017年面世的平板電腦](https://zh.wikipedia.org/wiki/Category:2017年面世的平板電腦 "wikilink") [Category:蘋果公司](https://zh.wikipedia.org/wiki/Category:蘋果公司 "wikilink") [Category:2017年面世的產品](https://zh.wikipedia.org/wiki/Category:2017年面世的產品 "wikilink")

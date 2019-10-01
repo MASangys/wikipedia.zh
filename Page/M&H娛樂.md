@@ -13,7 +13,7 @@
 ## 已離開練習生
 
   - 吳書晶（[PRODUCE 101参赛者](../Page/PRODUCE_101.md "wikilink")，轉投WAYZ Company）
-  - 金草妍 （[PRODUCE 48参赛者](../Page/PRODUCE_48.md "wikilink")，轉投[A team娛樂](https://zh.wikipedia.org/wiki/A_team娛樂 "wikilink")）
+  - 金草妍 （[PRODUCE 48参赛者](../Page/PRODUCE_48.md "wikilink")，轉投）
 
 ## 参考资料
 

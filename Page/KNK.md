@@ -191,7 +191,7 @@ PlotData =
 <ul>
 <li>發行日期：2019年7月15日</li>
 <li>語言：韓語</li>
-<li>專輯銷量： 9,026+[13]</li>
+<li>專輯銷量： 12,232+[13]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -1445,7 +1445,7 @@ PlotData =
 10. [2016年4月GAON專輯29位](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=04&hitYear=2016&termGbn=month)
 11. [2017年6月GAON專輯榜19位](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&termGbn=month)
 12. [2017年9月GAON專輯榜49位](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&termGbn=month)
-13. [2019.07](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=07&hitYear=2019&termGbn=month)
+13.
 14. [2016年7月GAON專輯14位](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=04&hitYear=2016&termGbn=month)
 15. [2016年12月GAON專輯29位](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=12&hitYear=2016&termGbn=month)
 16. [2017年1月GAON專輯46位](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=01&hitYear=2017&termGbn=month)

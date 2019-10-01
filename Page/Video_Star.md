@@ -131,14 +131,14 @@
 <tr class="even">
 <td><p>4</p></td>
 <td><p>8月2日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鄭珍云" title="wikilink">鄭珍云</a> (<a href="../Page/2AM.md" title="wikilink">2AM</a>)、<a href="https://zh.wikipedia.org/wiki/李秀敏" title="wikilink">李秀敏</a>、<a href="../Page/徐宥利.md" title="wikilink">徐宥利</a>、</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄭珍云" title="wikilink">鄭珍云</a> (<a href="../Page/2AM.md" title="wikilink">2AM</a>)、<a href="https://zh.wikipedia.org/wiki/李秀敏" title="wikilink">李秀敏</a>、<a href="../Page/徐宥利.md" title="wikilink">徐宥利</a>、<a href="https://zh.wikipedia.org/wiki/李陈镐" title="wikilink">李陈镐</a></p></td>
 <td><p>“不要放开你！”特辑</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
 <td><p>8月9日</p></td>
-<td><p><a href="../Page/Kisum.md" title="wikilink">Kisum</a>、、<a href="../Page/Boom_(藝人).md" title="wikilink">Boom</a>、</p></td>
+<td><p><a href="../Page/Kisum.md" title="wikilink">Kisum</a>、<a href="https://zh.wikipedia.org/wiki/金峻鉉" title="wikilink">金峻鉉</a>、<a href="../Page/Boom_(藝人).md" title="wikilink">Boom</a>、</p></td>
 <td><p>“给我来电话吧~！求职者们”特辑</p></td>
 <td></td>
 </tr>
@@ -202,7 +202,7 @@
 <td><p>14</p></td>
 <td><p>10月11日</p></td>
 <td><p>最强撒娇明星TOP3：<a href="https://zh.wikipedia.org/wiki/鄭采妍" title="wikilink">鄭采妍</a> (<a href="https://zh.wikipedia.org/wiki/DIA" title="wikilink">DIA</a>)、<a href="../Page/梁定原.md" title="wikilink">梁定原</a>、<a href="../Page/金旻載.md" title="wikilink">金旻載</a><br />
-最强爱情老手TOP3：<a href="https://zh.wikipedia.org/wiki/鄭珍云" title="wikilink">鄭珍云</a> (<a href="../Page/2AM.md" title="wikilink">2AM</a>)、、<a href="https://zh.wikipedia.org/wiki/朴成真" title="wikilink">朴成真</a><br />
+最强爱情老手TOP3：<a href="https://zh.wikipedia.org/wiki/鄭珍云" title="wikilink">鄭珍云</a> (<a href="../Page/2AM.md" title="wikilink">2AM</a>)、<a href="https://zh.wikipedia.org/wiki/金峻鉉" title="wikilink">金峻鉉</a>、<a href="https://zh.wikipedia.org/wiki/朴成真" title="wikilink">朴成真</a><br />
 性感明星TOP3：<a href="https://zh.wikipedia.org/wiki/倞利" title="wikilink">倞利</a> (<a href="https://zh.wikipedia.org/wiki/Nine_Muses" title="wikilink">Nine Muses</a>)、<a href="https://zh.wikipedia.org/wiki/婑斌" title="wikilink">婑斌</a> (<a href="../Page/Wonder_Girls.md" title="wikilink">Wonder Girls</a>)、</p></td>
 <td><p>“VS一等功臣TOP10”特辑</p></td>
 <td><p>此期为之前的精彩片段。自此期起<a href="../Page/曹璐.md" title="wikilink">曹璐</a>退出主持。</p></td>
@@ -238,7 +238,7 @@
 <tr class="odd">
 <td><p>19</p></td>
 <td><p>11月15日</p></td>
-<td><p><a href="../Page/鮮于善.md" title="wikilink">鮮于善</a>、、<a href="https://zh.wikipedia.org/wiki/泰欥" title="wikilink">泰欥</a> (<a href="../Page/Block_B.md" title="wikilink">Block B</a>)、</p></td>
+<td><p><a href="../Page/鮮于善.md" title="wikilink">鮮于善</a>、、<a href="https://zh.wikipedia.org/wiki/泰欥" title="wikilink">泰欥</a> (<a href="../Page/Block_B.md" title="wikilink">Block B</a>)、<a href="../Page/李龍眞.md" title="wikilink">李龍眞</a></p></td>
 <td><p>“萌犬美！宠物明星”特辑</p></td>
 <td></td>
 </tr>
@@ -371,7 +371,7 @@
 <tr class="odd">
 <td><p>36</p></td>
 <td><p>3月14日</p></td>
-<td><p>、、、<a href="../Page/梁世燦.md" title="wikilink">梁世燦</a>、<a href="https://zh.wikipedia.org/wiki/黃泰京" title="wikilink">黃泰京</a></p></td>
+<td><p>、、<a href="https://zh.wikipedia.org/wiki/黄帝聖" title="wikilink">黄帝聖</a>、<a href="../Page/梁世燦.md" title="wikilink">梁世燦</a>、<a href="https://zh.wikipedia.org/wiki/黃泰京" title="wikilink">黃泰京</a></p></td>
 <td><p>“好生好事！爱情人的全盛时代”特辑</p></td>
 <td><p><a href="../Page/朴素賢.md" title="wikilink">朴素賢</a>缺席，<a href="../Page/朴真熙.md" title="wikilink">朴真熙</a>作为特别MC主持。</p></td>
 </tr>
@@ -385,7 +385,7 @@
 <tr class="odd">
 <td><p>38</p></td>
 <td><p>3月28日</p></td>
-<td><p><a href="../Page/梁埈赫.md" title="wikilink">梁埈赫</a>、<a href="../Page/李鍾範.md" title="wikilink">李鍾範</a>、、<a href="../Page/趙東赫.md" title="wikilink">趙東赫</a>、<a href="../Page/寺田拓哉.md" title="wikilink">寺田拓哉</a></p></td>
+<td><p><a href="../Page/梁埈赫.md" title="wikilink">梁埈赫</a>、<a href="../Page/李鍾範.md" title="wikilink">李鍾範</a>、<a href="https://zh.wikipedia.org/wiki/朴骐良" title="wikilink">朴骐良</a>、<a href="../Page/趙東赫.md" title="wikilink">趙東赫</a>、<a href="../Page/寺田拓哉.md" title="wikilink">寺田拓哉</a></p></td>
 <td><p>“艺能救援投手！棒球超级明星”特辑</p></td>
 <td></td>
 </tr>
@@ -581,7 +581,7 @@
 <tr class="odd">
 <td><p>66</p></td>
 <td><p>10月10日</p></td>
-<td><p>、、、<a href="https://zh.wikipedia.org/wiki/金忠載" title="wikilink">金忠載</a>、<a href="https://zh.wikipedia.org/wiki/鄭赫" title="wikilink">鄭赫</a></p></td>
+<td><p>、<a href="../Page/宋慶雅.md" title="wikilink">宋慶雅</a>、、<a href="https://zh.wikipedia.org/wiki/金忠載" title="wikilink">金忠載</a>、<a href="https://zh.wikipedia.org/wiki/鄭赫" title="wikilink">鄭赫</a></p></td>
 <td></td>
 <td></td>
 </tr>

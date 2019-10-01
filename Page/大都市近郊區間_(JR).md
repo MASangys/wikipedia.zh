@@ -114,13 +114,13 @@
       - [利府支線](../Page/利府線.md "wikilink")：[岩切站](https://zh.wikipedia.org/wiki/岩切站 "wikilink")－[利府站](https://zh.wikipedia.org/wiki/利府站 "wikilink")
       - 仙石線、東北本線接續線（[仙石東北線](https://zh.wikipedia.org/wiki/仙石東北線 "wikilink")）：[松島站](https://zh.wikipedia.org/wiki/松島站_\(日本\) "wikilink")－[高城町站](../Page/高城町站.md "wikilink")
   - [常磐線](../Page/常磐線.md "wikilink")：[原之町站](https://zh.wikipedia.org/wiki/原之町站 "wikilink")－[岩沼站](https://zh.wikipedia.org/wiki/岩沼站 "wikilink")
-  - [仙山線](../Page/仙山線.md "wikilink")：[仙台站](https://zh.wikipedia.org/wiki/仙台站 "wikilink")－（全線）
+  - [仙山線](../Page/仙山線.md "wikilink")：[仙台站](https://zh.wikipedia.org/wiki/仙台站 "wikilink")－[羽前千歲站](https://zh.wikipedia.org/wiki/羽前千歲站 "wikilink")（全線）
   - [仙石線](../Page/仙石線.md "wikilink")：[青葉通站](../Page/青葉通站.md "wikilink")－[石卷站](../Page/石卷站.md "wikilink")（全線）
   - [石卷線](../Page/石卷線.md "wikilink")：[小牛田站](https://zh.wikipedia.org/wiki/小牛田站 "wikilink")－[女川站](../Page/女川站.md "wikilink")（全線）
   - [磐越東線](../Page/磐越東線.md "wikilink")：[船引站](../Page/船引站.md "wikilink")－[郡山站](https://zh.wikipedia.org/wiki/郡山站_\(福島縣\) "wikilink")
-  - [磐越西線](https://zh.wikipedia.org/wiki/磐越西線 "wikilink")：郡山站－
+  - [磐越西線](https://zh.wikipedia.org/wiki/磐越西線 "wikilink")：郡山站－[喜多方站](../Page/喜多方站.md "wikilink")
   - [奥羽本線](https://zh.wikipedia.org/wiki/奥羽本線 "wikilink")（[山形線](../Page/山形線.md "wikilink")）：[福島站](https://zh.wikipedia.org/wiki/福島站_\(福島縣\) "wikilink")－[新-{庄}-站](../Page/新庄站_\(日本\).md "wikilink")（同區間乘搭特別急行列車（[山形新幹線](../Page/山形新幹線.md "wikilink")）的情況除外）
-  - [左澤線](../Page/左澤線.md "wikilink")：－（全線）
+  - [左澤線](../Page/左澤線.md "wikilink")：[北山形站](../Page/北山形站.md "wikilink")－（全線）
   - [陸羽東線](../Page/陸羽東線.md "wikilink")：小牛田站－新-{庄}-站（全線）
 
 受東日本大震災影響，一部分線區無法運行。 2014年4月1日起實施。

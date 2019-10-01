@@ -73,7 +73,6 @@ Source Music於2009年11月17日，由蘇成鎮（소성진）成立。
 
   - [金炫彬](https://zh.wikipedia.org/wiki/金玄斌 "wikilink")（《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》）
   - [尹民國](https://zh.wikipedia.org/wiki/尹民國 "wikilink")（《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》）
-  - [蔡家豪](https://zh.wikipedia.org/wiki/蔡家豪 "wikilink")（《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》）
 
 ## 過去旗下藝人
 
@@ -86,6 +85,7 @@ Source Music於2009年11月17日，由蘇成鎮（소성진）成立。
 
   - [李素律](https://zh.wikipedia.org/wiki/李素律 "wikilink")（前GFRIEND預備成員，[MBK娛樂](../Page/MBK娛樂.md "wikilink")旗下組合[DIA前成員](https://zh.wikipedia.org/wiki/DIA "wikilink")）\[1\]
   - 姜碩華（《[YG寶石盒](../Page/YG寶石盒.md "wikilink")》、《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》）
+  - [蔡家豪](https://zh.wikipedia.org/wiki/蔡家豪 "wikilink")（《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》）
 
 ## 參考資料
 

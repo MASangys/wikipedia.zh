@@ -12,7 +12,7 @@ CC3握把及導軌系統還有兩個版本：CC3H型和CC3P型。前者是包覆
 
   - [M1911手槍](../Page/M1911手槍.md "wikilink")
   - [BC2握把及導軌系統](https://zh.wikipedia.org/wiki/BC2握把及導軌系統 "wikilink")——安裝在[貝瑞塔92手槍](../Page/貝瑞塔92手槍.md "wikilink")系列設計的戰術握把套件
-  - [HPC握把及導軌系統](https://zh.wikipedia.org/wiki/HPC握把及導軌系統 "wikilink")——安裝在[白朗寧大威力手槍](../Page/白朗寧大威力手槍.md "wikilink")系列設計的戰術握把套件
+  - [HPC握把及導軌系統](https://zh.wikipedia.org/wiki/HPC握把及導軌系統 "wikilink")——安裝在[白朗寧大威力半自動手槍](../Page/白朗寧大威力半自動手槍.md "wikilink")系列設計的戰術握把套件
 
 ## 參考文獻
 

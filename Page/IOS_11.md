@@ -563,7 +563,39 @@ iOS 11.4 包含 AirPlay 2 多房音訊，支援 HomePod 立體聲配對以及 iC
 
 ## 軟硬體支援
 
-iOS 11移除了对[32位元](../Page/32位元.md "wikilink")處理器的支援，因此[iPhone 5](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink")、[iPhone 5c及](https://zh.wikipedia.org/wiki/iPhone_5c "wikilink")[iPad 4等使用](https://zh.wikipedia.org/wiki/iPad_4 "wikilink")[A6处理器或更早的处理器之舊款產品無法更新到iOS](../Page/Apple_A6.md "wikilink") 11。[蘋果公司也於](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")2016年提醒[App開發者需更新其開發的App至](https://zh.wikipedia.org/wiki/App "wikilink")[64位元](../Page/64位元.md "wikilink")架構，32位元架構的App無法繼續在iOS 11內執行\[6\]。
+iOS 11移除了对[32位元](../Page/32位元.md "wikilink")處理器的支援，因此[iPhone 5](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink")、[iPhone 5c及](https://zh.wikipedia.org/wiki/iPhone_5c "wikilink")[iPad 4等使用](https://zh.wikipedia.org/wiki/iPad_4 "wikilink")[A6处理器或更早的处理器之舊款產品無法更新到iOS](../Page/Apple_A6.md "wikilink") 11。[蘋果公司也於](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")2016年提醒[App開發者需更新其開發的App至](https://zh.wikipedia.org/wiki/App "wikilink")[64位元](../Page/64位元.md "wikilink")架構，32位元架構的App無法繼續在iOS 11內執行\[6\]。以下机型支持iOS 11。
+
+### iPhone
+
+  - [iPhone 5s](https://zh.wikipedia.org/wiki/iPhone_5s "wikilink")
+  - [iPhone 6](https://zh.wikipedia.org/wiki/iPhone_6 "wikilink")
+  - [iPhone 6 Plus](https://zh.wikipedia.org/wiki/iPhone_6 "wikilink")
+  - [iPhone 6S](https://zh.wikipedia.org/wiki/iPhone_6S "wikilink")
+  - [iPhone 6S Plus](https://zh.wikipedia.org/wiki/iPhone_6S "wikilink")
+  - [iPhone SE](https://zh.wikipedia.org/wiki/iPhone_SE "wikilink")
+  - [iPhone 7](https://zh.wikipedia.org/wiki/iPhone_7 "wikilink")
+  - [iPhone 7 Plus](https://zh.wikipedia.org/wiki/iPhone_7 "wikilink")
+  - [iPhone 8](https://zh.wikipedia.org/wiki/iPhone_8 "wikilink")
+  - [iPhone 8 Plus](https://zh.wikipedia.org/wiki/iPhone_8 "wikilink")
+  - [iPhone X](https://zh.wikipedia.org/wiki/iPhone_X "wikilink")
+
+### iPod Touch
+
+  - [iPod touch 6](https://zh.wikipedia.org/wiki/iPod_touch_6 "wikilink")
+
+### iPad
+
+  - [iPad Air](https://zh.wikipedia.org/wiki/iPad_Air "wikilink")
+  - [iPad Air 2](https://zh.wikipedia.org/wiki/iPad_Air_2 "wikilink")
+  - [iPad (2017)](https://zh.wikipedia.org/wiki/iPad_\(2017\) "wikilink")
+  - [iPad (2018)](https://zh.wikipedia.org/wiki/iPad_\(2018\) "wikilink")
+  - [iPad mini 2](https://zh.wikipedia.org/wiki/iPad_mini_2 "wikilink")
+  - [iPad mini 3](https://zh.wikipedia.org/wiki/iPad_mini_3 "wikilink")
+  - [iPad mini 4](https://zh.wikipedia.org/wiki/iPad_mini_4 "wikilink")
+  - [iPad Pro (9.7寸)](https://zh.wikipedia.org/wiki/iPad_Pro "wikilink")
+  - [iPad Pro (10.5寸)](https://zh.wikipedia.org/wiki/iPad_Pro "wikilink")
+  - [iPad Pro (12.9寸 第1代)](https://zh.wikipedia.org/wiki/iPad_Pro "wikilink")
+  - [iPad Pro (12.9寸 第2代)](https://zh.wikipedia.org/wiki/iPad_Pro "wikilink")
 
 ## 中文化（僅[简体中文版](https://zh.wikipedia.org/wiki/简体中文 "wikilink")）
 

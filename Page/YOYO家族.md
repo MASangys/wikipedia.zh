@@ -157,7 +157,7 @@ YOYO家族為[東森電視](../Page/東森電視.md "wikilink")旗下頻道[東�
 <td><p>雙魚座</p></td>
 <td><p>B型</p></td>
 <td><p>13</p></td>
-<td><p>出道前以新人身分在「2017年YOYO夏日派對」活動中首次登場</p></td>
+<td></td>
 <td><p><br />
 紫色</p></td>
 </tr>
@@ -167,9 +167,9 @@ YOYO家族為[東森電視](../Page/東森電視.md "wikilink")旗下頻道[東�
 <td><p><a href="../Page/6月18日.md" title="wikilink">6月18日</a></p></td>
 <td><p>雙子座</p></td>
 <td><p>O型</p></td>
+<td></td>
 <td><p><br />
 橙色</p></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -181,9 +181,9 @@ YOYO家族為[東森電視](../Page/東森電視.md "wikilink")旗下頻道[東�
 <td><p><a href="../Page/7月31日.md" title="wikilink">7月31日</a></p></td>
 <td><p>獅子座</p></td>
 <td><p>B型</p></td>
+<td></td>
 <td><p><br />
 藍色</p></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -195,9 +195,9 @@ YOYO家族為[東森電視](../Page/東森電視.md "wikilink")旗下頻道[東�
 <td><p><a href="../Page/12月18日.md" title="wikilink">12月18日</a></p></td>
 <td><p>射手座</p></td>
 <td><p>A型</p></td>
+<td><p><a href="../Page/阿美族.md" title="wikilink">阿美族</a>原住民（本人在<a href="../Page/Instagram.md" title="wikilink">Instagram</a>有提及）</p></td>
 <td><p><br />
 紅色</p></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -274,7 +274,7 @@ YOYO家族為[東森電視](../Page/東森電視.md "wikilink")旗下頻道[東�
 <td><p>天秤座</p></td>
 <td><p>A型</p></td>
 <td><p>1－5</p></td>
-<td><p>移籍至<a href="../Page/MOMO親子台.md" title="wikilink">MOMO親子台</a>並加入<a href="../Page/MOMO家族.md" title="wikilink">MOMO家族</a>，已婚，育有一子，曾擔任<a href="https://zh.wikipedia.org/wiki/空中服務員" title="wikilink">空中服務員</a>，在<a href="../Page/中國.md" title="wikilink">中國</a>經營親子酒店</p></td>
+<td><p>移籍至<a href="../Page/MOMO親子台.md" title="wikilink">MOMO親子台</a>並加入<a href="../Page/MOMO家族.md" title="wikilink">MOMO家族</a>，已婚，育有一子，曾擔任<a href="https://zh.wikipedia.org/wiki/空中服務員" title="wikilink">空中服務員</a>，在<a href="https://zh.wikipedia.org/wiki/中國大陸" title="wikilink">中國大陸經營親子酒店</a>，並成立兒童團體「蘋果家族」</p></td>
 <td><p><br />
 紅色</p></td>
 <td></td>
@@ -290,7 +290,7 @@ YOYO家族為[東森電視](../Page/東森電視.md "wikilink")旗下頻道[東�
 <td><p>雙子座</p></td>
 <td><p>B型</p></td>
 <td><p>2－7</p></td>
-<td><p>移籍至MOMO親子台並加入MOMO家族，已婚，育有一子一女，目前定居於<a href="https://zh.wikipedia.org/wiki/上海" title="wikilink">上海</a></p></td>
+<td><p>移籍至MOMO親子台並加入MOMO家族，已婚，育有一子一女，目前定居於<a href="https://zh.wikipedia.org/wiki/上海" title="wikilink">上海</a>，在中國大陸發展</p></td>
 <td><p><br />
 粉紅色</p></td>
 <td></td>
@@ -317,7 +317,7 @@ YOYO家族為[東森電視](../Page/東森電視.md "wikilink")旗下頻道[東�
 <td><p>牡羊座</p></td>
 <td><p>A型</p></td>
 <td><p>3－12</p></td>
-<td><p>目前主要活躍於主持界</p></td>
+<td><p>目前主要活躍於主持界，在中國大陸發展並加入蘋果姐姐成立的「蘋果家族」</p></td>
 <td><p><br />
 橙色</p></td>
 <td></td>
@@ -376,7 +376,7 @@ YOYO家族為[東森電視](../Page/東森電視.md "wikilink")旗下頻道[東�
 <td><p>水瓶座</p></td>
 <td><p>B型</p></td>
 <td><p>9－10</p></td>
-<td><p>已婚，目前主要活躍於主持界</p></td>
+<td><p>目前主要活躍於主持界</p></td>
 <td><p><br />
 灰色</p></td>
 </tr>
@@ -419,7 +419,7 @@ YOYO家族為[東森電視](../Page/東森電視.md "wikilink")旗下頻道[東�
 <td><p>射手座</p></td>
 <td><p>A型</p></td>
 <td><p>12</p></td>
-<td><p>現為<a href="../Page/Fami通.md" title="wikilink">Fami通</a>電玩主持人，曾客串演出MV《我不是英雄》</p></td>
+<td><p>現為<a href="../Page/YouTuber.md" title="wikilink">YouTuber</a>及<a href="../Page/Fami通.md" title="wikilink">Fami通</a>電玩主持人，曾客串演出MV《我不是英雄》</p></td>
 <td><p><br />
 紫色</p></td>
 </tr>
@@ -461,7 +461,7 @@ YOYO家族為[東森電視](../Page/東森電視.md "wikilink")旗下頻道[東�
 <td><p><a href="../Page/8月2日.md" title="wikilink">8月2日</a></p></td>
 <td><p>獅子座</p></td>
 <td><p>B型</p></td>
-<td><p>YOYO家族首位混血兒成員（父親為<a href="https://zh.wikipedia.org/wiki/馬來西亞" title="wikilink">馬來西亞人</a>），目前主要活躍於戲劇與廣告演出</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/馬來西亞" title="wikilink">馬來西亞混血</a>，目前主要活躍於戲劇與廣告演出</p></td>
 <td><p><br />
 藍色</p></td>
 <td></td>

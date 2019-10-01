@@ -32,9 +32,9 @@
 
 ### 自发售之日起搭载Android 9
 
-  - Google Pixel
-      - [Pixel 3](../Page/Pixel_3.md "wikilink")
-      - [Pixel 3 XL](https://zh.wikipedia.org/wiki/Pixel_3_XL "wikilink")
+  - Google
+      - [Google Pixel 3](https://zh.wikipedia.org/wiki/Google_Pixel_3 "wikilink")
+      - [Google Pixel 3 XL](https://zh.wikipedia.org/wiki/Google_Pixel_3_XL "wikilink")
       - [Google Pixel 3a](https://zh.wikipedia.org/wiki/Google_Pixel_3a "wikilink")
       - [Google Pixel 3a XL](https://zh.wikipedia.org/wiki/Google_Pixel_3a_XL "wikilink")
   - Sony
@@ -71,13 +71,13 @@
       - [三星Galaxy Tab S6](../Page/三星Galaxy_Tab_S6.md "wikilink")
       - [三星Galaxy Note10/10 5G/10+/10+ 5G](../Page/三星Galaxy_Note_10系列.md "wikilink")
   - 華碩
-      - [ASUS Zenfone 6](https://zh.wikipedia.org/wiki/ASUS_Zenfone_6 "wikilink")
-  - realme（原OPPO子品牌，后独立）
+      - [Asus Zenfone 6](https://zh.wikipedia.org/wiki/Asus_Zenfone_6 "wikilink")
+  - realme
       - [realme X](https://zh.wikipedia.org/wiki/realme_X "wikilink")
   - vivo
-      - [Vivo X21UD](https://zh.wikipedia.org/wiki/Vivo_X21UD "wikilink")
-      - [Vivo X21](https://zh.wikipedia.org/wiki/Vivo_X21 "wikilink")
-      - [Vivo NEX](../Page/Vivo_NEX.md "wikilink") 双屏版
+      - [vivo X21UD](https://zh.wikipedia.org/wiki/vivo_X21UD "wikilink")
+      - [vivo X21](https://zh.wikipedia.org/wiki/vivo_X21 "wikilink")
+      - [vivo NEX](https://zh.wikipedia.org/wiki/vivo_NEX "wikilink") 双屏版
       - vivo iQOO
   - Nokia
       - [Nokia 3.2](https://zh.wikipedia.org/wiki/Nokia_3.2 "wikilink")
@@ -119,9 +119,9 @@
 
   - [小米A1](https://zh.wikipedia.org/wiki/小米A1 "wikilink")（2018年12月8日）
 
-  - [ASUS Zenfone 5](../Page/華碩ZenFone_5_\(2018年\).md "wikilink")（2018年12月24日）
+  - [Asus Zenfone 5](../Page/華碩ZenFone_5_\(2018年\).md "wikilink")（2018年12月24日）
 
-  - [ASUS Zenfone 5Z](../Page/華碩ZenFone_5_\(2018年\).md "wikilink")（2018年12月27日）
+  - [Asus Zenfone 5Z](../Page/華碩ZenFone_5_\(2018年\).md "wikilink")（2018年12月27日）
 
   - [Nokia 5.1 Plus](https://zh.wikipedia.org/wiki/Nokia_5.1_Plus "wikilink")（2019年1月10日）
 
@@ -135,7 +135,7 @@
 
   - [HTC U11+](../Page/HTC_U11+.md "wikilink")（2019年7月8日）
 
-  - [Moto Z2 Force](https://zh.wikipedia.org/wiki/Moto_Z2_Force "wikilink")（2019年8月13日）
+  - [Moto Z2 Force Edition](https://zh.wikipedia.org/wiki/Moto_Z2_Force_Edition "wikilink")（2019年8月13日）
 
 **第三方已对以下设备放出基于Android 9正式版的公开/不限量公测固件：**
 

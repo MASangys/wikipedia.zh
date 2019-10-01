@@ -49,7 +49,7 @@
   - 企画：[日昇動畫](../Page/日昇動畫.md "wikilink")
   - 原作：[矢立肇](https://zh.wikipedia.org/wiki/矢立肇 "wikilink")
   - 原案：[公野櫻子](https://zh.wikipedia.org/wiki/公野櫻子 "wikilink")
-  - 故事情節、分镜、演出、監督：
+  - 故事情節、分镜、演出、監督：[京極尚彥](../Page/京極尚彥.md "wikilink")
   - LIve部分演出：臼井文明
   - 角色設計、总作画監督：室田雄平
   - 設計工作：[西田亞沙子](../Page/西田亞沙子.md "wikilink")

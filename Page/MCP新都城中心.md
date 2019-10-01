@@ -32,7 +32,7 @@ MCP Central在2014年起進行翻新，翻新前設三個休憩園林「熱帶�
 
 新都城中心街市於2018年3月1日起關閉進行翻新，原預計裝修4個月，最終延至9月30日重開，易名尚鮮市場（MCP Fresh）。場內設計簡約，較舊街市更寬敞光猛。
 
-MCP Fresh Entrance.jpg|入口 MCP Fresh (2).jpg|家品、雜貨、服裝及凍肉店 MCP Fresh (3).jpg|鞋類、背包、水果及花店 MCP Fresh (4).jpg|藥房及[參茸](https://zh.wikipedia.org/wiki/參茸 "wikilink")[海味店](https://zh.wikipedia.org/wiki/海味 "wikilink") MCP Fresh (5).jpg|[五金及香燭祭品店](https://zh.wikipedia.org/wiki/五金店 "wikilink") Metro City Plaza Market.jpg|翻新前的新都城中心街市
+MCP Fresh Entrance.jpg|入口 MCP Fresh (2).jpg|家品、雜貨、服裝及凍肉店 MCP Fresh (3).jpg|鞋類、背包、水果及花店 MCP Fresh (4).jpg|藥房及[參茸](https://zh.wikipedia.org/wiki/參茸 "wikilink")[海味店](https://zh.wikipedia.org/wiki/乾海產 "wikilink") MCP Fresh (5).jpg|[五金及香燭祭品店](https://zh.wikipedia.org/wiki/五金店 "wikilink") Metro City Plaza Market.jpg|翻新前的新都城中心街市
 
 ## MCP Discovery
 
@@ -196,7 +196,7 @@ MCP ONE、MCP CENTRAL及MCP DISCOVERY均設有時租停車場。於指定時間�
 
 ## 外部連結
 
-[Category:寶林](https://zh.wikipedia.org/wiki/Category:寶林 "wikilink") [Category:將軍澳](https://zh.wikipedia.org/wiki/Category:將軍澳 "wikilink") [Category:西貢區](https://zh.wikipedia.org/wiki/Category:西貢區 "wikilink") [Category:西貢區商場](https://zh.wikipedia.org/wiki/Category:西貢區商場 "wikilink") [Category:1999年完工建築物](https://zh.wikipedia.org/wiki/Category:1999年完工建築物 "wikilink") [Category:恒基兆業物業](https://zh.wikipedia.org/wiki/Category:恒基兆業物業 "wikilink")
+[Category:寶林](https://zh.wikipedia.org/wiki/Category:寶林 "wikilink") [Category:將軍澳](https://zh.wikipedia.org/wiki/Category:將軍澳 "wikilink") [Category:西貢區](https://zh.wikipedia.org/wiki/Category:西貢區 "wikilink") [Category:西貢區商場](https://zh.wikipedia.org/wiki/Category:西貢區商場 "wikilink") [Category:1999年完工建築物](https://zh.wikipedia.org/wiki/Category:1999年完工建築物 "wikilink") [Category:恒基兆業物業](https://zh.wikipedia.org/wiki/Category:恒基兆業物業 "wikilink") [Category:1996年完工建築物](https://zh.wikipedia.org/wiki/Category:1996年完工建築物 "wikilink") [Category:2000年完工建築物](https://zh.wikipedia.org/wiki/Category:2000年完工建築物 "wikilink")
 
 1.  新都城中心商場招租 《文匯報》 1999年5月13日
 2.  全港最大商場之一每呎38現起 新都城二期舖 有租趁手 《香港經濟日報》 2000年5月15日

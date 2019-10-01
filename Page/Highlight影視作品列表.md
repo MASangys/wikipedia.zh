@@ -1066,7 +1066,7 @@
 | 7月25日        | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | 《[尋笑人](../Page/尋笑人.md "wikilink")》                                            | 東雲          |
 | 8月2日         | [KBS2](../Page/KBS第2频道.md "wikilink")               | 《[柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")》                 |             |
 | 9月3日         | <small>（[日本](../Page/日本.md "wikilink")電視台）</small>  | 《Ameba Premium》                                                               |             |
-| 9月12日-10月10日 | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") | 《[叢林的法則](https://zh.wikipedia.org/wiki/叢林的法則 "wikilink")》                     | 起光          |
+| 9月12日-10月10日 | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") | 《[叢林的法則](../Page/叢林的法則.md "wikilink")》                                        | 起光          |
 | 10月16日       | Naver                                               | 《Starcast On Air》                                                             |             |
 | 10月17日       | [KBS2](../Page/KBS第2频道.md "wikilink")               | 《[我是男人](../Page/我是男人.md "wikilink")》                                          |             |
 | 10月19日       | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 《[Section TV 演藝通信](https://zh.wikipedia.org/wiki/Section_TV_演藝通信 "wikilink")》 |             |
@@ -1104,7 +1104,7 @@
 | 9月28日       | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | 《[偶像明星運動會](https://zh.wikipedia.org/wiki/MBC偶像明星運動會 "wikilink")》中秋特輯          | 斗俊、耀燮             |
 | 10月24日      | [SBS](../Page/SBS_\(韓國\).md "wikilink")               | 《[同床異夢，沒關係沒關係](../Page/同床異夢，沒關係沒關係.md "wikilink")》                            | 起光                |
 | 11月1日、8日    | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | 《[蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")》                                    | 東雲                |
-| 11月6日-12月4日 | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")   | 《[叢林的法則](https://zh.wikipedia.org/wiki/叢林的法則 "wikilink")》                     | 斗俊、俊亨（實際11月13日出場） |
+| 11月6日-12月4日 | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")   | 《[叢林的法則](../Page/叢林的法則.md "wikilink")》                                        | 斗俊、俊亨（實際11月13日出場） |
 | 12月13日      | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | 《[Section TV 演藝通信](https://zh.wikipedia.org/wiki/Section_TV_演藝通信 "wikilink")》 | 斗俊                |
 
 |              |                                                                       |                                                                             |             |
@@ -1132,7 +1132,7 @@
 | 9月21日        | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                   | 《[黃金漁場Radio Star](https://zh.wikipedia.org/wiki/黃金漁場Radio_Star "wikilink")》 | 東雲（代班MC）    |
 | 9月25日        | <small>（[泰國電視台](https://zh.wikipedia.org/wiki/泰國 "wikilink")）</small> | 《MO-chit》                                                                   | 斗俊          |
 | 9月30日        | XTM                                                                   | 《》第七季                                                                       | 東雲          |
-| 11月4日-11月18日 | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")                   | 《[叢林的法則](https://zh.wikipedia.org/wiki/叢林的法則 "wikilink")》                   | 耀燮          |
+| 11月4日-11月18日 | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")                   | 《[叢林的法則](../Page/叢林的法則.md "wikilink")》                                      | 耀燮          |
 | 12月10日       | [JTBC](../Page/JTBC.md "wikilink")                                    | 《Sing For You》                                                              | 東雲          |
 | 12月28日       | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                   | 《[Weekly Idol](../Page/Weekly_Idol.md "wikilink")》                          | 俊亨          |
 

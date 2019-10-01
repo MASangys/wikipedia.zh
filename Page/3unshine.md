@@ -8,11 +8,66 @@
 | --------------------------- | ----------- |
 | 《我要做你女朋友》                   | 2016年6月21日  |
 | 《朵蜜》                        | 2017年5月8日   |
+| 《小青龙》                       | 2017年6月1日   |
 | 《3Q》                        | 2018年5月23日  |
 | 《你姐》                        | 2018年7月17日  |
 | 《不正确的审美》（Cindy Solo）        | 2018年10月19日 |
 | 《巴拉》                        | 2019年1月4日   |
 | 《Bubble Raising》（Abby Solo） | 2019年2月26日  |
+| 《好肉（1号）》                    | 2019年4月1日   |
+| 《好肉（2号）》                    | 2019年4月16日  |
+| 《二次元女孩》（Dora Solo）          | 2019年9月4日   |
+
+### 专辑
+
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: left;"></th>
+<th style="text-align: left;"><p>名称</p></th>
+<th style="text-align: left;"><p>类型</p></th>
+<th style="text-align: left;"><p>发行公司</p></th>
+<th style="text-align: left;"><p>发行日期</p></th>
+<th style="text-align: left;"><p>曲目</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><p>一</p></td>
+<td style="text-align: left;"><p>《We Are 3unshine》</p></td>
+<td style="text-align: left;"><p>录音室专辑</p></td>
+<td style="text-align: left;"><p>热手文化</p></td>
+<td style="text-align: left;"><p>TBA</p></td>
+<td style="text-align: left;"><ol>
+<li>You Are Sunshine</li>
+<li>我要做你女朋友</li>
+<li>嘘了个去的年华</li>
+<li>朵蜜</li>
+<li>你姐</li>
+<li>好肉</li>
+<li>巴拉（世上哪有这种事）</li>
+<li>Bubble Raising（Abby Solo）</li>
+<li>不正确的审美（Cindy Solo）</li>
+<li>二次元女孩（Dora Solo）</li>
+<li>创造3unshine</li>
+<li>3Q（Nobody Likes You）</li>
+</ol>
+<p><strong>Bonus Tracks</strong></p>
+<ol>
+<li>小青龙</li>
+<li>你姐（HusH! Remix）</li>
+</ol></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+</tbody>
+</table>
 
 ### 演唱会
 

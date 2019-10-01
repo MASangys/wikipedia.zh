@@ -8,7 +8,7 @@ DNS over HTTPS利用HTTP協議的GET命令发出經由[JSON](../Page/JSON.md "wi
 
 基于HTTPS的DNS是提议的标准，由IETF以RFC 8484（2018年10月）发布。 它使用[HTTP / 2和](https://zh.wikipedia.org/wiki/HTTP/2 "wikilink")[HTTPS](../Page/超文本传输安全协议.md "wikilink")，并支持有线格式DNS响应数据，如现有UDP响应中所返回的，在具有[MIME类型application](https://zh.wikipedia.org/wiki/MIME "wikilink") / dns-message的HTTPS有效负载中。\[6\]\[7\] 如果使用HTTP / 2，服务器也可以使用HTTP / 2服务器推送来发送它预期客户端可能提前发现有用的值。\[8\]
 
-傳統的DNS協議形成於互聯網早期，直接基於[UDP或](../Page/用户数据报协议.md "wikilink")[TCP協議](../Page/传输控制协议.md "wikilink")，且彼時未慮及現代安全性的需要，未利用[密碼學等手段進行加密或驗證](https://zh.wikipedia.org/wiki/密碼學 "wikilink")。因而，其無法抵禦現代互聯網常見的[DNS投毒污染等攻擊手段或監聽](https://zh.wikipedia.org/wiki/DNS投毒污染 "wikilink")。雖然後來的[DNSSEC方案通過](https://zh.wikipedia.org/wiki/DNSSEC "wikilink")[電子簽名](../Page/電子簽名.md "wikilink")進行驗證，強化了DNS的安全性，並能夠抵禦DNS投毒污染等篡改通訊的手段，但其對於中間網絡設備進行的監聽仍然沒有抵禦能力（隨後，監聽者可以通過獲取的通訊數據知曉用戶訪問了哪一[域名](../Page/域名.md "wikilink")，而域名往往與具體的[網站](../Page/網站.md "wikilink")相關聯）。此外，DNSSEC的起效要求現有的大量DNS解析服務的提供商（常爲[互聯網服務供應商或第三方大型互聯網機構](https://zh.wikipedia.org/wiki/互聯網服務供應商 "wikilink")）對已有的DNS服務器進行大範圍修改等問題，其推進進程並不理想。而對於DNS over HTTPS，在正確部署服務端並妥善配置客戶端的前提下，互聯網服務供應商或其它中間網路設備無法解密（亦即無法獲知請求的實際內容）或者篡改已經[加密的HTTPS通訊](https://zh.wikipedia.org/wiki/加密 "wikilink")，故其能夠有效保護互聯網使用者的安全及隱私；另一方面，其基於已經成熟並已廣泛部署的HTTPS協議，客戶端進行利用較爲方便。
+傳統的DNS協議形成於互聯網早期，直接基於[UDP或](../Page/用户数据报协议.md "wikilink")[TCP協議](../Page/传输控制协议.md "wikilink")，且彼時未慮及現代安全性的需要，未利用[密碼學等手段進行加密或驗證](https://zh.wikipedia.org/wiki/密碼學 "wikilink")。因而，其無法抵禦現代互聯網常見的[DNS投毒污染等攻擊手段或監聽](https://zh.wikipedia.org/wiki/DNS投毒污染 "wikilink")。雖然後來的[DNSSEC方案通過](https://zh.wikipedia.org/wiki/DNSSEC "wikilink")[電子簽名](../Page/電子簽名.md "wikilink")進行驗證，強化了DNS的安全性，並能夠抵禦DNS投毒污染等篡改通訊的手段，但其對於中間網絡設備進行的監聽仍然沒有抵禦能力（隨後，監聽者可以通過獲取的通訊數據知曉用戶訪問了哪一[域名](../Page/域名.md "wikilink")，而域名往往與具體的[網站](../Page/網站.md "wikilink")相關聯）。此外，DNSSEC的起效要求現有的大量DNS解析服務的提供商（常爲[互聯網服務供應商或第三方大型互聯網機構](https://zh.wikipedia.org/wiki/互聯網服務供應商 "wikilink")）對已有的DNS服務器進行大範圍修改等問題，其推進進程並不理想。而對於DNS over HTTPS，在正確部署服務端並妥善配置客戶端的前提下，互聯網服務供應商或其它中間網路設備無法解密（亦即無法獲知請求的實際內容）或者篡改已經[加密](../Page/加密.md "wikilink")的HTTPS通訊，故其能夠有效保護互聯網使用者的安全及隱私；另一方面，其基於已經成熟並已廣泛部署的HTTPS協議，客戶端進行利用較爲方便。
 
 ## 实施方案
 
@@ -85,13 +85,12 @@ DNS over https用于DNS解析器的递归DNS解析。 解析器（DoH客户端�
 
   - 在 Firefox 62 及以上版本中开启 DNS over HTTPS
 
-一：在浏览器地址栏输入 <about:config> 然后打开，并同意警告信息。
+<!-- end list -->
 
-二：搜索 network.trr
-
-三：设置 network.trr.mode 值为 2
-
-四：在 network.trr.uri 中填入服务器：https://mozilla.cloudflare-dns.com/dns-query
+1.  在浏览器地址栏输入 <about:config> 然后打开，并同意警告信息。
+2.  搜索 network.trr
+3.  设置 network.trr.mode 值为2
+4.  在 network.trr.uri 中填入服务器：https://mozilla.cloudflare-dns.com/dns-query
 
 设置好后，在地址栏输入 <about:networking> 可以看到具体通信情况\[22\]
 

@@ -1532,7 +1532,7 @@ World</a><br />
 <td><p><a href="https://soundcloud.com/pledis_seventeen/play-seventeen17-seventeen-mixtape-vol6-no-flex-zone-chan-mingyu-wonwoo">NO FLEX ZONE</a></p></td>
 <td><p>圓佑、<a href="../Page/金珉奎.md" title="wikilink">珉奎</a>、<a href="../Page/李燦_(SEVENTEEN).md" title="wikilink">Dino</a></p></td>
 <td><p><a href="https://www.youtube.com/watch?v=p2cQSPRTdhg">NO FLEX ZONE</a></p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Rae_Sremmurd" title="wikilink">Rae Sremmurd</a></p></td>
 <td></td>
 <td></td>
 </tr>

@@ -157,14 +157,29 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/以綸" title="wikilink">以綸</a>、<a href="../Page/子閎.md" title="wikilink">子閎</a></p></td>
 <td><p>主持人</p></td>
 </tr>
+<tr class="odd">
+<td><p>2017年4月07日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/我愛偶像" title="wikilink">我愛偶像</a></p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/許名傑" title="wikilink">明-{杰}-</a></p></td>
+<td><p>單元主持</p></td>
+</tr>
 </tbody>
 </table>
 
 ### 節目通告
 
-| 日期                                                       | 節目名稱                                                                                         | 頻道 | 性質 |
-| -------------------------------------------------------- | -------------------------------------------------------------------------------------------- | -- | -- |
-| |[綜藝玩很大](https://zh.wikipedia.org/wiki/綜藝玩很大 "wikilink") | [中視數位台](https://zh.wikipedia.org/wiki/中視數位台 "wikilink")、[三立都會台](../Page/三立都會台.md "wikilink") | 隊員 |    |
+| 日期                                                       | 節目名稱                                                                                         | 頻道                                   | 性質 |
+| -------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ------------------------------------ | -- |
+| |[綜藝玩很大](https://zh.wikipedia.org/wiki/綜藝玩很大 "wikilink") | [中視數位台](https://zh.wikipedia.org/wiki/中視數位台 "wikilink")、[三立都會台](../Page/三立都會台.md "wikilink") | 隊員                                   |    |
+| 2019年9月13日                                               | [綜藝新時代](../Page/綜藝新時代.md "wikilink")                                                         | [民視無線台](../Page/民視無線台.md "wikilink") | 來賓 |
+| |[綜藝大集合](../Page/綜藝大集合.md "wikilink")                    | [民視無線台](../Page/民視無線台.md "wikilink")                                                         | 來賓                                   |    |
+| |[天才衝衝衝](../Page/天才衝衝衝.md "wikilink")                    | [華視](https://zh.wikipedia.org/wiki/華視 "wikilink")                                            | 來賓                                   |    |
+| |[全民星攻略](../Page/全民星攻略.md "wikilink")                    | [東森綜合台](../Page/東森綜合台.md "wikilink")                                                         |                                      |    |
+| |[請問 今晚住誰家](../Page/請問_今晚住誰家.md "wikilink")              |                                                                                              |                                      |    |
+| |[美鳳有約](https://zh.wikipedia.org/wiki/美鳳有約 "wikilink")   | [民視無線台](../Page/民視無線台.md "wikilink")                                                         |                                      |    |
+| |[台視17Q](../Page/台視17Q.md "wikilink")                    | [台視](https://zh.wikipedia.org/wiki/台視 "wikilink")                                            | 來賓                                   |    |
+| |[型男大主廚](../Page/型男大主廚.md "wikilink")                    |                                                                                              | 來賓                                   |    |
 
 ## 出版物
 

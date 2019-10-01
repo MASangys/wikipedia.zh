@@ -1,4 +1,4 @@
-**CNCO** 是一個拉丁男團，其成員包括：克里斯托弗·韋萊斯(Christopher Velez)、理查德·卡馬喬（Richard Camacho）、扎布迪埃爾·德耶穌（Zabdiel De Jesús）、喬爾·皮門特爾（Joel Pimentel）及埃里克·布賴恩·科隆（Erick Brian Colón）,粉絲團名為"CNCOwners"\[1\]。\[2\] 他們在《》奪得冠軍並贏得和索尼音樂的5年合約。\[3\]
+**CNCO** 是一個拉丁男團，其成員包括：克里斯托弗·韋萊斯(Christopher Velez)、理查·卡馬喬（Richard Camacho）、扎布迪爾·德耶穌（Zabdiel De Jesús）、喬爾·皮門特爾（Joel Pimentel）及艾瑞克·布萊恩·科隆（Erick Brian Colón）,粉絲團名為"CNCOwners"\[1\]。\[2\] 他們在《》奪得冠軍並贏得和索尼音樂的5年合約。\[3\]
 
 他們在出道後便獲得和[瑞奇·馬丁](../Page/瑞奇·馬丁.md "wikilink")一同巡演的機會，他們的單曲《Tan Fácil》及《Quisiera》均獲得佳績。\[4\]\[5\] 他們在2016年8月6日推出首張專輯*第一次約會*。\[6\] \[7\] 他們的歌曲 "" 的觀看次數已在[YouTube](../Page/YouTube.md "wikilink")破十億。\[8\]
 
@@ -101,17 +101,17 @@
 
 **理查德·卡馬喬** (Richard Yashel Camacho Puello)擁有[多米尼克](../Page/多米尼克.md "wikilink")血統,他有兩個兄弟及一個妹妹，還有一個女兒叫阿麗雅·索非亞·卡馬喬(Aaliyah Sofia Camacho)。他父親是一名攝影師和音樂家，而他母親是一名舞者。他有參與創作慢雷鬼及與[混合甜心](../Page/混合甜心.md "wikilink")合作的慢雷鬼(混音版)。
 
-### 扎布迪埃爾·德耶穌
+### 扎布迪爾·德耶穌
 
-**扎布迪埃爾·德耶穌·科隆**(Zabdiel De Jesús Colón)在12歲，因為參加[嘻哈和](../Page/嘻哈音樂.md "wikilink")[騷沙教堂合唱團而對唱歌有興趣](../Page/騷沙音樂.md "wikilink")。
+**扎布迪爾·德耶穌·科隆**(Zabdiel De Jesús Colón)在12歲，因為參加[嘻哈和](../Page/嘻哈音樂.md "wikilink")[騷沙教堂合唱團而對唱歌有興趣](../Page/騷沙音樂.md "wikilink")。
 
 ### 喬爾·皮門特爾
 
 **喬爾·皮門特爾·德萊昂**(Joel Pimentel De Leon)擁有[墨西哥](../Page/墨西哥.md "wikilink")血統、三個兄弟，在8歲發展對唱歌的興趣，其後因受祖父影響而學習音樂劇和唱歌。
 
-### 埃里克·布賴恩·科隆
+### 艾瑞克·布萊恩·科隆
 
-'''埃里克·布賴恩·科隆 '''(Erick Brian Colón) 在2012年和媽媽及兄弟姊妹搬到佛羅里達州的坦帕。他發展打籃球、跳舞及音樂的興趣\[56\]\[57\]
+'''艾瑞克·布萊恩·科隆 '''(Erick Brian Colón) 在2012年和媽媽及兄弟姊妹搬到佛羅里達州的坦帕。他發展打籃球、跳舞及音樂的興趣\[56\]\[57\]
 
 ## 獲獎與提名
 

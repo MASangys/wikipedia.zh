@@ -1860,7 +1860,7 @@ Premier League Review</p></td>
 So Takei - The Ultimate Examiner</p></td>
 <td style="text-align: center;"><p>3<br />
 (22)</p></td>
-<td style="text-align: center;"><p>主持：（日語原聲）<br />
+<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/武井壮" title="wikilink">武井壮</a>（日語原聲）<br />
 旁白：<a href="../Page/鄭家蕙.md" title="wikilink">鄭家蕙</a>（粵語配音）</p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/so-takei-the-ultimate-examiner">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>真人秀</strong><br />
@@ -4049,7 +4049,7 @@ Cats In Japan</p></td>
 <td style="text-align: center;"><p><br />
 Tottori Japan Go! Go! Go!</p></td>
 <td style="text-align: center;"><p>4</p></td>
-<td style="text-align: center;"><p>主持：、<a href="https://zh.wikipedia.org/wiki/傅晉杰" title="wikilink">傅晉杰</a></p></td>
+<td style="text-align: center;"><p>主持：<a href="../Page/蘇慧恩.md" title="wikilink">蘇慧恩</a>、<a href="https://zh.wikipedia.org/wiki/傅晉杰" title="wikilink">傅晉杰</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>旅遊節目</strong></p></td>
 </tr>

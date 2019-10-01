@@ -4,13 +4,13 @@
 
 ## 記錄
 
-| **統計**                                              | **名字**                                                                                                  | **數據** | **備註** |
-| --------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------ | ------ |
-| 獲獎最多的歌手                                             | [陳奕迅](../Page/陳奕迅.md "wikilink")、[王菀之](https://zh.wikipedia.org/wiki/王菀之 "wikilink")                    | 2次     | 2次提名   |
-| [張敬軒](https://zh.wikipedia.org/wiki/張敬軒 "wikilink") | 3次提名                                                                                                    |        |        |
-| [C AllStar](../Page/C_AllStar.md "wikilink")        | 8次提名                                                                                                    |        |        |
-| 入圍最多的歌手                                             | [C AllStar](../Page/C_AllStar.md "wikilink")                                                            | 8次     | 2次獲獎   |
-| 入圍最多但從未獲獎的歌手                                        | [方大同](https://zh.wikipedia.org/wiki/方大同 "wikilink")、[容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink") | 5次     | 無一獲獎   |
+| **統計**                                              | **名字**                                                                               | **數據** | **備註** |
+| --------------------------------------------------- | ------------------------------------------------------------------------------------ | ------ | ------ |
+| 獲獎最多的歌手                                             | [陳奕迅](../Page/陳奕迅.md "wikilink")、[王菀之](https://zh.wikipedia.org/wiki/王菀之 "wikilink") | 2次     | 2次提名   |
+| [張敬軒](https://zh.wikipedia.org/wiki/張敬軒 "wikilink") | 3次提名                                                                                 |        |        |
+| [C AllStar](../Page/C_AllStar.md "wikilink")        | 8次提名                                                                                 |        |        |
+| 入圍最多的歌手                                             | [C AllStar](../Page/C_AllStar.md "wikilink")                                         | 8次     | 2次獲獎   |
+| 入圍最多但從未獲獎的歌手                                        | [方大同](https://zh.wikipedia.org/wiki/方大同 "wikilink")、[容祖兒](../Page/容祖兒.md "wikilink") | 5次     | 無一獲獎   |
 
 ## 得獎及入圍
 
@@ -126,7 +126,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/林欣彤.md" title="wikilink">林欣彤</a> / <a href="https://zh.wikipedia.org/wiki/容祖兒" title="wikilink">容祖兒</a></p></td>
+<td><p><a href="../Page/林欣彤.md" title="wikilink">林欣彤</a> / <a href="../Page/容祖兒.md" title="wikilink">容祖兒</a></p></td>
 <td><p>《追風箏的風箏》</p></td>
 <td></td>
 </tr>
@@ -151,7 +151,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/容祖兒" title="wikilink">容祖兒</a> / <a href="../Page/羅力威.md" title="wikilink">羅力威</a></p></td>
+<td><p><a href="../Page/容祖兒.md" title="wikilink">容祖兒</a> / <a href="../Page/羅力威.md" title="wikilink">羅力威</a></p></td>
 <td><p>《雙子情歌》</p></td>
 <td></td>
 </tr>
@@ -167,7 +167,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/容祖兒" title="wikilink">容祖兒</a> / <a href="../Page/古巨基.md" title="wikilink">古巨基</a></p></td>
+<td><p><a href="../Page/容祖兒.md" title="wikilink">容祖兒</a> / <a href="../Page/古巨基.md" title="wikilink">古巨基</a></p></td>
 <td><p>《愛情也有生命》</p></td>
 <td></td>
 </tr>
@@ -188,7 +188,7 @@
 <td><p><strong>《瑕疵》</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/李克勤.md" title="wikilink">李克勤</a> / <a href="https://zh.wikipedia.org/wiki/容祖兒" title="wikilink">容祖兒</a></p></td>
+<td><p><a href="../Page/李克勤.md" title="wikilink">李克勤</a> / <a href="../Page/容祖兒.md" title="wikilink">容祖兒</a></p></td>
 <td><p>《世界真細小》</p></td>
 <td></td>
 </tr>
@@ -280,7 +280,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/容祖兒" title="wikilink">容祖兒</a> / <a href="https://zh.wikipedia.org/wiki/張敬軒" title="wikilink">張敬軒</a></p></td>
+<td><p><a href="../Page/容祖兒.md" title="wikilink">容祖兒</a> / <a href="https://zh.wikipedia.org/wiki/張敬軒" title="wikilink">張敬軒</a></p></td>
 <td><p>《Make a beat》</p></td>
 <td></td>
 </tr>

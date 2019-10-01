@@ -472,7 +472,7 @@
 <td><p>13</p></td>
 <td><p>韓國</p></td>
 <td><p><a href="../Page/回來吧大叔.md" title="wikilink">回來吧大叔</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鄭智薰" title="wikilink">鄭智薰</a>、<a href="../Page/金吝勸.md" title="wikilink">金吝勸</a>、<a href="../Page/金秀路.md" title="wikilink">金秀路</a>、<a href="../Page/吳漣序.md" title="wikilink">吳漣序</a>、<a href="../Page/李珉廷.md" title="wikilink">李珉廷</a>、<a href="https://zh.wikipedia.org/wiki/李荷妮" title="wikilink">李荷妮</a>、<a href="../Page/崔元英.md" title="wikilink">崔元英</a>、<a href="../Page/尹博.md" title="wikilink">尹博</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄭智薰" title="wikilink">鄭智薰</a>、<a href="../Page/金吝勸.md" title="wikilink">金吝勸</a>、<a href="../Page/金秀路.md" title="wikilink">金秀路</a>、<a href="../Page/吳漣序.md" title="wikilink">吳漣序</a>、<a href="../Page/李珉廷.md" title="wikilink">李珉廷</a>、<a href="../Page/李荷妮.md" title="wikilink">李荷妮</a>、<a href="../Page/崔元英.md" title="wikilink">崔元英</a>、<a href="../Page/尹博.md" title="wikilink">尹博</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -913,7 +913,7 @@
 <td><p>33</p></td>
 <td><p>韓國</p></td>
 <td><p><a href="../Page/輝煌或瘋狂.md" title="wikilink">輝煌或瘋狂</a></p></td>
-<td><p><a href="../Page/張赫_(韓國).md" title="wikilink">張赫</a>、<a href="../Page/吳漣序.md" title="wikilink">吳漣序</a>、<a href="https://zh.wikipedia.org/wiki/李荷妮" title="wikilink">李荷妮</a>、<a href="../Page/林周煥.md" title="wikilink">林周煥</a></p></td>
+<td><p><a href="../Page/張赫_(韓國).md" title="wikilink">張赫</a>、<a href="../Page/吳漣序.md" title="wikilink">吳漣序</a>、<a href="../Page/李荷妮.md" title="wikilink">李荷妮</a>、<a href="../Page/林周煥.md" title="wikilink">林周煥</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1030,7 +1030,7 @@
 <td><p>2</p></td>
 <td><p>香港</p></td>
 <td><p><a href="../Page/瑪嘉烈與大衛系列_前度.md" title="wikilink">瑪嘉烈與大衛系列 前度 (特別篇)</a></p></td>
-<td><p>、<a href="../Page/黃定謙.md" title="wikilink">黃定謙</a>、<a href="../Page/吳海昕.md" title="wikilink">吳海昕</a>、、、<a href="../Page/蘇皓兒.md" title="wikilink">蘇皓兒</a></p></td>
+<td><p>、<a href="../Page/黃定謙.md" title="wikilink">黃定謙</a>、<a href="../Page/吳海昕.md" title="wikilink">吳海昕</a>、、<a href="https://zh.wikipedia.org/wiki/黃可盈" title="wikilink">黃可盈</a>、<a href="../Page/蘇皓兒.md" title="wikilink">蘇皓兒</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1779,14 +1779,41 @@
 <td><p><a href="../Page/大叔的愛.md" title="wikilink">大叔的愛 特別篇</a></p></td>
 <td><p><a href="../Page/田中圭.md" title="wikilink">田中圭</a></p></td>
 <td></td>
-<td><p>因臨時插播《特別新聞報道》，該劇集播出幾分鐘後被腰斬。</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>9月2日</p></td>
-<td><p>21</p></td>
+<td><p>23</p></td>
 <td><p>韓國</p></td>
 <td><p><a href="../Page/我的ID是江南美人.md" title="wikilink">我的ID是江南美人</a></p></td>
 <td><p><a href="../Page/林秀香.md" title="wikilink">林秀香</a>、<a href="../Page/車銀優.md" title="wikilink">車銀優</a>、<a href="../Page/趙宇麗.md" title="wikilink">趙宇麗</a>、<a href="../Page/郭東延.md" title="wikilink">郭東延</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>10月3日</p></td>
+<td></td>
+<td><p>韓國</p></td>
+<td><p><a href="../Page/先熱情地打掃吧.md" title="wikilink">先熱情地打掃吧</a></p></td>
+<td><p><a href="../Page/金裕貞.md" title="wikilink">金裕貞</a>、<a href="../Page/尹鈞相.md" title="wikilink">尹鈞相</a>、<a href="../Page/宋再臨.md" title="wikilink">宋再臨</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>10月3日</p></td>
+<td><p>15</p></td>
+<td><p>香港</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/假設性無罪" title="wikilink">假設性無罪</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梁漢文" title="wikilink">梁漢文</a>、<a href="../Page/王敏奕.md" title="wikilink">王敏奕</a>、<a href="../Page/張慧儀.md" title="wikilink">張慧儀</a>、<a href="../Page/樓南光.md" title="wikilink">樓南光</a>、<a href="../Page/邵仲衡.md" title="wikilink">邵仲衡</a>、<a href="../Page/董敏莉.md" title="wikilink">董敏莉</a>、<a href="../Page/雷深如.md" title="wikilink">雷深如</a>、<a href="../Page/李焯寧.md" title="wikilink">李焯寧</a>、、<a href="../Page/許博文.md" title="wikilink">強尼</a>、<a href="../Page/陳俞希.md" title="wikilink">陳俞希</a>、、、<a href="../Page/陳子豐.md" title="wikilink">陳子豐</a>、、、、、</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>10月24日</p></td>
+<td></td>
+<td><p>韓國</p></td>
+<td><p><a href="../Page/漢摩拉比小姐.md" title="wikilink">逆權法官</a></p></td>
+<td><p><a href="../Page/高雅羅.md" title="wikilink">高雅羅</a>、<a href="../Page/金明洙.md" title="wikilink">金明洙</a>、<a href="../Page/成東鎰.md" title="wikilink">成東鎰</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1839,23 +1866,32 @@
 </tr>
 <tr class="odd">
 <td><p>拍攝完成</p></td>
-<td><p>20</p></td>
+<td><p>-</p></td>
 <td><p>香港</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/黑巿" title="wikilink">黑巿</a></p></td>
-<td><p><a href="../Page/王貽興.md" title="wikilink">王貽興</a>、、<a href="../Page/詹瑞文.md" title="wikilink">詹瑞文</a>、<a href="../Page/陳俞希.md" title="wikilink">陳俞希</a>、<a href="../Page/黃奕晨.md" title="wikilink">黃奕晨</a>、<a href="../Page/黃溢濠.md" title="wikilink">黃溢濠</a>、<a href="../Page/楊偲泳.md" title="wikilink">楊偲泳</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黑巿_(電視劇)" title="wikilink">黑巿</a></p></td>
+<td><p><a href="../Page/王貽興.md" title="wikilink">王貽興</a>、、<a href="../Page/詹瑞文.md" title="wikilink">詹瑞文</a>、<a href="../Page/陳俞希.md" title="wikilink">陳俞希</a>、<a href="../Page/黃奕晨.md" title="wikilink">黃奕晨</a>、、、、<a href="../Page/黃溢濠.md" title="wikilink">黃溢濠</a>、<a href="../Page/楊偲泳.md" title="wikilink">楊偲泳</a>、<a href="../Page/吳海昕.md" title="wikilink">吳海昕</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>拍攝完成</p></td>
-<td><p>20</p></td>
+<td><p>拍攝中</p></td>
+<td><p>-</p></td>
 <td><p>香港</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Me_Too_(電視劇)" title="wikilink">Me Too</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/梁漢文" title="wikilink">梁漢文</a>、<a href="../Page/邵仲衡.md" title="wikilink">邵仲衡</a>、<a href="../Page/張慧儀.md" title="wikilink">張慧儀</a>、<a href="../Page/王敏奕.md" title="wikilink">王敏奕</a>、<a href="../Page/樓南光.md" title="wikilink">樓南光</a>、<a href="../Page/董敏莉.md" title="wikilink">董敏莉</a>、<a href="../Page/雷深如.md" title="wikilink">雷深如</a>、<a href="../Page/李焯寧.md" title="wikilink">李焯寧</a>、、<a href="../Page/許博文.md" title="wikilink">強尼</a>、<a href="../Page/陳俞希.md" title="wikilink">陳俞希</a>、、<a href="../Page/陳子豐.md" title="wikilink">陳子豐</a>、、、、、、</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/打天下" title="wikilink">打天下</a></p></td>
+<td><p><a href="../Page/歐錦棠.md" title="wikilink">歐錦棠</a>、<a href="../Page/文頌嫻.md" title="wikilink">文頌嫻</a>、<a href="../Page/張建聲.md" title="wikilink">張建聲</a>、<a href="../Page/談善言.md" title="wikilink">談善言</a>、、<a href="../Page/江熚生.md" title="wikilink">江熚生</a>、<a href="../Page/萬斯敏.md" title="wikilink">萬斯敏</a>、<a href="../Page/楊英偉.md" title="wikilink">楊英偉</a>、<a href="https://zh.wikipedia.org/wiki/葉麗娜_(女演員)" title="wikilink">葉麗娜</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>籌備中</p></td>
+<td><p>-</p></td>
+<td><p>香港</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/搖滾校園_(電視劇)" title="wikilink">搖滾校園</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MIRROR" title="wikilink">MIRROR</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>計劃中</p></td>
 <td><p>-</p></td>
 <td><p>香港</p></td>
@@ -1864,7 +1900,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>計劃中</p></td>
 <td><p>-</p></td>
 <td><p>香港/中國大陸</p></td>
@@ -1873,7 +1909,7 @@
 <td></td>
 <td><p>|</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>未定</p></td>
 <td><p>23</p></td>
 <td><p>韓國</p></td>
@@ -1882,7 +1918,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>未定</p></td>
 <td><p>10</p></td>
 <td><p>日本</p></td>
@@ -1891,7 +1927,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>未定</p></td>
 <td><p>10</p></td>
 <td><p>日本</p></td>
@@ -1900,7 +1936,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>未定</p></td>
 <td><p>7</p></td>
 <td><p>日本</p></td>
@@ -1909,7 +1945,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>未定</p></td>
 <td><p>10</p></td>
 <td><p>日本</p></td>

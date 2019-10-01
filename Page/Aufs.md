@@ -62,7 +62,7 @@ aufs被拒绝合并到主线Linux。它的代码被批评为是“稠密，不�
 5.
 6.
 7.
-8.  [Linux Live scripts](http://www.linux-live.org/?changes) use AUFS for better stability
+8.  [Linux Live scripts](http://www.linux-live.org/?changes)  use AUFS for better stability
 9.
 10.
 11.

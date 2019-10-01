@@ -27,7 +27,8 @@
 |                      | 7                         | 2016年9月25日 - 11月27日                                                         | 逢星期日晚 23:40 - 00:50 (KST)      |
 |                      | 8                         | 2017年9月3日 - 11月5日                                                           | 逢星期日晚 22:40 - 23:50 (KST)      |
 |                      | 9                         | 2018年9月14日 - 11月16日                                                         | 逢星期五晚 22:00 - 23:10 (KST)      |
-| 總集數 (第1 - 9季)        | **161**                   |                                                                             |                                |
+|                      | 10                        | 2019年9月27日 - 11月29日                                                         | 逢星期五晚 23:00 - 00:10 (KST)      |
+| 總集數 (第1 - 10季)       | **171**                   |                                                                             |                                |
 
 ## 劇集列表
 
@@ -175,7 +176,7 @@
 </tbody>
 </table>
 
-### 第一季 (2010年)
+### 第一季（2010年）
 
 <table style="width:270%;">
 <colgroup>
@@ -425,7 +426,7 @@
 </tbody>
 </table>
 
-### 第二季 (2011年)
+### 第二季（2011年）
 
 <table style="width:270%;">
 <colgroup>
@@ -666,7 +667,7 @@
 </tbody>
 </table>
 
-### 第三季 (2012年)
+### 第三季（2012年）
 
 <table style="width:270%;">
 <colgroup>
@@ -916,7 +917,7 @@
 </tbody>
 </table>
 
-### 第四季 (2013年)
+### 第四季（2013年）
 
 <table style="width:270%;">
 <colgroup>
@@ -1112,7 +1113,7 @@
 </tbody>
 </table>
 
-### 第五季 (2014年)
+### 第五季（2014年）
 
 <table style="width:270%;">
 <colgroup>
@@ -1380,7 +1381,7 @@
 </tbody>
 </table>
 
-### 第六季 (2015年)
+### 第六季（2015年）
 
 <table style="width:270%;">
 <colgroup>
@@ -1543,7 +1544,7 @@
 </tbody>
 </table>
 
-### 第七季 (2016年)
+### 第七季（2016年）
 
 |        |          |          |                                                                                                                                                        |         |        |                                                                  |
 | ------ | -------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- | ------ | ---------------------------------------------------------------- |
@@ -1560,9 +1561,9 @@
 | 10     | 11月27日   | 皮諾丘的鼻子   | [李幼梨](../Page/李幼梨.md "wikilink")、[李河汩](../Page/李河汩.md "wikilink")、、                                                                                    | 金勝元     | 李正美    | 2.8%                                                             |
 |        |          |          |                                                                                                                                                        |         |        |                                                                  |
 
-### 第八季 (2017年)
+### 第八季（2017年）
 
-**<big>本季主題: 愛情的法則</big>**
+**<big>本季主題：愛情的法則</big>**
 
 <table style="width:270%;">
 <colgroup>
@@ -1688,21 +1689,172 @@
 </tbody>
 </table>
 
-### 第九季 (2018年)
+### 第九季（2018年）
 
-|        |          |           |                                                                                                                                                                           |        |        |                                                                  |
-| ------ | -------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------ | ---------------------------------------------------------------- |
-| **集數** | **播映日期** | **劇集名稱**  | **主要演員**                                                                                                                                                                  | **編劇** | **導演** | **[AGB](https://zh.wikipedia.org/wiki/AGB尼爾森 "wikilink") 全國收視率** |
-| 1      | 9月14日    | 我的黑歷史誤答筆記 | [全昭旻](../Page/全昭旻.md "wikilink")、[朴成勳](../Page/朴成勳.md "wikilink")、[吳東旻](https://zh.wikipedia.org/wiki/吳東旻 "wikilink")、[宋智仁](https://zh.wikipedia.org/wiki/宋智仁 "wikilink") | 裴秀英    | 黃昇基    | 2.2%                                                             |
-| 2      | 9月21日    | 被遺忘的季節    | [金武烈](../Page/金武烈.md "wikilink")、[高甫潔](../Page/高甫潔.md "wikilink")、[鄭俊元](https://zh.wikipedia.org/wiki/鄭俊元 "wikilink")                                                     |        |        | 2.7%                                                             |
-| 3      | 9月28日    | 金槍魚與海豚    | [尹博](../Page/尹博.md "wikilink")、[朴珪瑛](../Page/朴珪瑛.md "wikilink")、                                                                                                          |        |        | 2.0%                                                             |
-| 4      | 10月5日    | 白晝之戀      | [崔江姬](../Page/崔江姬.md "wikilink")、[高俊](https://zh.wikipedia.org/wiki/高俊 "wikilink")                                                                                        | 金琴熙    | 劉英恩    | 1.6%                                                             |
-| 5      | 10月12日   | 金小姐之謎     | [金多順](https://zh.wikipedia.org/wiki/金多順 "wikilink")、[權赫秀](../Page/權赫秀.md "wikilink")                                                                                      | 朴善熙    | 金信一    | 2.6%                                                             |
-| 6      | 10月19日   | 如此漫長的離別   | [林周煥](../Page/林周煥.md "wikilink")、[張熙軫](../Page/張熙軫.md "wikilink")                                                                                                         | 金珠熙    | 宋敏燁    | 2.7%                                                             |
-| 7      | 10月26日   | 逃避者們      | 李學周、金詩曦、[金元海](https://zh.wikipedia.org/wiki/金元海 "wikilink")、[崔有華](../Page/崔有華.md "wikilink")                                                                              | 白素妍    | 劉英恩    | 1.1%                                                             |
-| 8      | 11月2日    | 媽媽的第三次婚姻  | [李烈音](../Page/李烈音.md "wikilink")、[李一花](../Page/李一花.md "wikilink")、[金英玉](../Page/金英玉.md "wikilink")、[延俊錫](../Page/延俊錫.md "wikilink")                                       | 鄭美姬    | 金英珍    | 3.8%                                                             |
-| 9      | 11月9日    | 你和我的有效期間  | [申譞洙](../Page/申譞洙.md "wikilink")、[李多寅](../Page/李多寅_\(演員\).md "wikilink")                                                                                                  | 鄭美姬    | 金民泰    | 2.1%                                                             |
-| 10     | 11月16日   | 若即若離      | [金玟錫](https://zh.wikipedia.org/wiki/金玟錫 "wikilink")、[朴宥娜](../Page/朴宥娜.md "wikilink")、[朴韓率](https://zh.wikipedia.org/wiki/朴韓率 "wikilink")                                  | 裴秀英    | 黃昇基    | 1.3%                                                             |
+<table style="width:270%;">
+<colgroup>
+<col style="width: 21%" />
+<col style="width: 55%" />
+<col style="width: 10%" />
+<col style="width: 13%" />
+<col style="width: 55%" />
+<col style="width: 55%" />
+<col style="width: 55%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p><strong>集數</strong></p></td>
+<td><p><strong>播映日期</strong></p></td>
+<td><p><strong>劇集名稱</strong></p></td>
+<td><p><strong>主要演員</strong></p></td>
+<td><p><strong>編劇</strong></p></td>
+<td><p><strong>導演</strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/AGB尼爾森" title="wikilink">AGB</a> 全國收視率</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td><p>9月14日</p></td>
+<td><p>我的黑歷史誤答筆記</p></td>
+<td><p><a href="../Page/全昭旻.md" title="wikilink">全昭旻</a>、<a href="../Page/朴成勳.md" title="wikilink">朴成勳</a>、、</p></td>
+<td><p>裴秀英</p></td>
+<td><p>黃昇基</p></td>
+<td><p>2.2%</p></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+<td><p>9月21日</p></td>
+<td><p>被遺忘的季節</p></td>
+<td><p><a href="../Page/金武烈.md" title="wikilink">金武烈</a>、<a href="../Page/高甫潔.md" title="wikilink">高甫潔</a>、</p></td>
+<td><p>金成俊</p></td>
+<td><p>金敏泰</p></td>
+<td><p>2.7%</p></td>
+</tr>
+<tr class="even">
+<td><p>3</p></td>
+<td><p>9月28日</p></td>
+<td><p>金槍魚與海豚</p></td>
+<td><p><a href="../Page/尹博.md" title="wikilink">尹博</a>、<a href="../Page/朴珪瑛.md" title="wikilink">朴珪瑛</a>、</p></td>
+<td><p>李正恩</p></td>
+<td><p>宋敏燁</p></td>
+<td><p>2.0%</p></td>
+</tr>
+<tr class="odd">
+<td><p>4</p></td>
+<td><p>10月5日</p></td>
+<td><p>白晝之戀</p></td>
+<td><p><a href="../Page/崔江姬.md" title="wikilink">崔江姬</a>、<a href="https://zh.wikipedia.org/wiki/高俊" title="wikilink">高俊</a></p></td>
+<td><p>金琴熙</p></td>
+<td><p>劉英恩</p></td>
+<td><p>1.6%</p></td>
+</tr>
+<tr class="even">
+<td><p>5</p></td>
+<td><p>10月12日</p></td>
+<td><p>金小姐之謎</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金多順" title="wikilink">金多順</a>、<a href="../Page/權赫秀.md" title="wikilink">權赫秀</a></p></td>
+<td><p>朴善熙</p></td>
+<td><p>金信一</p></td>
+<td><p>2.6%</p></td>
+</tr>
+<tr class="odd">
+<td><p>6</p></td>
+<td><p>10月19日</p></td>
+<td><p>如此漫長的離別</p></td>
+<td><p><a href="../Page/林周煥.md" title="wikilink">林周煥</a>、<a href="../Page/張熙軫.md" title="wikilink">張熙軫</a></p></td>
+<td><p>金珠熙</p></td>
+<td><p>宋敏燁</p></td>
+<td><p>2.7%</p></td>
+</tr>
+<tr class="even">
+<td><p>7</p></td>
+<td><p>10月26日</p></td>
+<td><p>逃避者們</p></td>
+<td><p>、、<a href="https://zh.wikipedia.org/wiki/金元海" title="wikilink">金元海</a>、<a href="../Page/崔有華.md" title="wikilink">崔有華</a></p></td>
+<td><p>白素妍</p></td>
+<td><p>劉英恩</p></td>
+<td><p>1.1%</p></td>
+</tr>
+<tr class="odd">
+<td><p>8</p></td>
+<td><p>11月2日</p></td>
+<td><p>媽媽的第三次婚姻</p></td>
+<td><p><a href="../Page/李烈音.md" title="wikilink">李烈音</a>、<a href="../Page/李一花.md" title="wikilink">李一花</a>、<a href="../Page/金英玉.md" title="wikilink">金英玉</a>、<a href="../Page/延俊錫.md" title="wikilink">延俊錫</a></p></td>
+<td><p>鄭美姬</p></td>
+<td><p>金英珍</p></td>
+<td><p>3.8%</p></td>
+</tr>
+<tr class="even">
+<td><p>9</p></td>
+<td><p>11月9日</p></td>
+<td><p>你和我的有效期間</p></td>
+<td><p><a href="../Page/申譞洙.md" title="wikilink">申譞洙</a>、<a href="../Page/李多寅_(演員).md" title="wikilink">李多寅</a></p></td>
+<td><p>鄭美姬</p></td>
+<td><p>金民泰</p></td>
+<td><p>2.1%</p></td>
+</tr>
+<tr class="odd">
+<td><p>10</p></td>
+<td><p>11月16日</p></td>
+<td><p>若即若離</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金玟錫" title="wikilink">金玟錫</a>、<a href="../Page/朴宥娜.md" title="wikilink">朴宥娜</a>、</p></td>
+<td><p>裴秀英</p></td>
+<td><p>黃昇基</p></td>
+<td><p>1.3%</p></td>
+</tr>
+</tbody>
+</table>
+
+### 第十季（2019年）
+
+<table style="width:270%;">
+<colgroup>
+<col style="width: 21%" />
+<col style="width: 55%" />
+<col style="width: 10%" />
+<col style="width: 13%" />
+<col style="width: 55%" />
+<col style="width: 55%" />
+<col style="width: 55%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p><strong>集數</strong></p></td>
+<td><p><strong>播映日期</strong></p></td>
+<td><p><strong>劇集名稱</strong></p></td>
+<td><p><strong>主要演員</strong></p></td>
+<td><p><strong>編劇</strong></p></td>
+<td><p><strong>導演</strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/AGB尼爾森" title="wikilink">AGB</a> 全國收視率</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td><p>9月27日</p></td>
+<td><p>屋宇屋宙</p></td>
+<td><p>、</p></td>
+<td><p>李江</p></td>
+<td><p>李賢碩</p></td>
+<td><p>%</p></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+<td><p>10月4日</p></td>
+<td><p>什麼孩子見過呢</p></td>
+<td><p><a href="../Page/太恆浩.md" title="wikilink">太恆浩</a>、金秀仁、<a href="../Page/金基天.md" title="wikilink">金基天</a>、<a href="../Page/陳慶_(演員).md" title="wikilink">陳慶</a></p></td>
+<td><p>金藝娜</p></td>
+<td><p>羅秀智</p></td>
+<td><p>%</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 獎項
 

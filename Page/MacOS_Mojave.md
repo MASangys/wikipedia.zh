@@ -272,11 +272,45 @@ xnu-4903.241.1~1</p></td>
 <a href="https://support.apple.com/kb/DL1996">macOS Mojave 10.14.4 Combo Update</a></p></td>
 </tr>
 <tr class="even">
-<td><p>10.14.5 Beta 3</p></td>
-<td><p>18G59b</p></td>
+<td><p>10.14.5</p></td>
+<td><p>18F132</p></td>
+<td></td>
+<td><p>18.6.0 xnu-4903.261.4~2</p></td>
+<td><p><a href="https://support.apple.com/en-us/HT209149#macos10145">About the macOS Mojave 10.14.5 Update</a><br />
+<a href="https://support.apple.com/en-us/HT210119">About the security content of macOS Mojave 10.14.5</a></p></td>
+<td><p><a href="https://support.apple.com/kb/DL2001">macOS Mojave 10.14.5 Update</a><br />
+<a href="https://support.apple.com/kb/DL2000">macOS Mojave 10.14.5 Combo Update</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>10.14.6</p></td>
+<td><p>18G84</p></td>
+<td></td>
+<td><p>18.7.0 xnu-4903.270.47~4</p></td>
+<td><p><a href="https://support.apple.com/en-us/HT209149#macos10146">About the macOS Mojave 10.14.6 Update</a><br />
+<a href="https://support.apple.com/en-us/HT210348">About the security content of macOS Mojave 10.14.6</a></p></td>
+<td><p><a href="https://support.apple.com/kb/DL2011">macOS Mojave 10.14.6 Update</a><br />
+<a href="https://support.apple.com/kb/DL2010">macOS Mojave 10.14.6 Combo Update</a></p></td>
+</tr>
+<tr class="even">
+<td><p>18G87</p></td>
+<td></td>
+<td><p>Addressed the Wake from Sleep bug, which caused Macs not waking from sleep properly.[4]</p></td>
+<td><p><a href="https://support.apple.com/kb/DL2015">macOS Mojave 10.14.6 Supplemental Update</a></p></td>
 <td></td>
 <td></td>
+</tr>
+<tr class="odd">
+<td><p>18G95</p></td>
 <td></td>
+<td><p>18.7.0 xnu-4903.271.2~2</p></td>
+<td><p>Security updates and bug fixes[5]</p>
+<ul>
+<li><strong>Addressed:</strong> MacBooks shutting down during sleep</li>
+<li><strong>Addressed:</strong> Performance throttling when handling large files</li>
+<li><strong>Addressed:</strong> iLife applications (Pages, Keynote, Numbers, GarageBand, and iMovie) not updating</li>
+<li>Re-patched a vulnerability that was accidentally unpatched in the previous update, which could lead to hacking attempts[6][7]</li>
+</ul></td>
+<td><p><a href="https://support.apple.com/kb/DL2015">macOS Mojave 10.14.6 Supplemental Update</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -289,3 +323,7 @@ xnu-4903.241.1~1</p></td>
 1.
 2.
 3.
+4.
+5.
+6.
+7.

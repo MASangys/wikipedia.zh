@@ -2,7 +2,7 @@
 
 ## 概要
 
-前身是[CoMix Wave營銷事業部門](https://zh.wikipedia.org/wiki/CoMix_Wave "wikilink")，於2002年成立「」（cwfilms、CW Films）品牌，從原先漫畫家及其版權管理，擴大為參與電影製作和經營作家業務，2003年5月7日官網正式開通\[1\]。公司在2007年3月30日採[MBO分拆](https://zh.wikipedia.org/wiki/管理层收购 "wikilink")，當時董事川口典孝借款上億日圓買下\[2\]，並承繼「CoMix Wave」名稱獨立出來\[3\]。
+前身是營銷事業部門，於2002年成立「」（cwfilms、CW Films）品牌，從原先漫畫家及其版權管理，擴大為參與電影製作和經營作家業務，2003年5月7日官網正式開通\[1\]。公司在2007年3月30日採[MBO分拆](https://zh.wikipedia.org/wiki/管理层收购 "wikilink")，當時董事川口典孝借款上億日圓買下\[2\]，並承繼「CoMix Wave」名稱獨立出來\[3\]。
 
 該社標榜個人特色創作路線\[4\]\[5\]，秉持少數精銳自行製作的方針<ref>[ABOUT – cwfilms](http://www.cwfilms.jp/about/)：
 

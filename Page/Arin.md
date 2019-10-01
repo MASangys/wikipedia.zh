@@ -1,4 +1,4 @@
-**崔乂園\[1\]**（，，），[WM Entertainment在](https://zh.wikipedia.org/wiki/WM_Entertainment "wikilink")2015年推出的女子團體[Oh My Girl](https://zh.wikipedia.org/wiki/Oh_My_Girl "wikilink")7名成員的其中一員。2015年4月20日發表首張迷你專輯《OH MY GIRL》正式出道。隊内擔任副唱、忙內。
+**崔乂園\[1\]**（，，），[WM Entertainment在](https://zh.wikipedia.org/wiki/WM_Entertainment "wikilink")2015年推出的女子團體[Oh My Girl](https://zh.wikipedia.org/wiki/Oh_My_Girl "wikilink")8名成員的其中一員。2015年4月20日發表首張迷你專輯《OH MY GIRL》正式出道。隊内擔任副唱、忙內。
 
 ## 參考資料
 

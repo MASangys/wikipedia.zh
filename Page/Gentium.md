@@ -6,7 +6,7 @@
 
 *Gentium*的原始版本定義了大約1500個[字形](../Page/字形.md "wikilink")，其包含了大多數在世界各地使用的[拉丁字母](../Page/拉丁字母.md "wikilink")，也包含了[單調正寫法及](../Page/希臘語變音符號.md "wikilink")[多調正寫法的希臘字母](../Page/希臘語變音符號.md "wikilink")，設計是以與拉丁文之流線調和為主。Gentium也有一個稱作*GentiumAlt* ("Gentium Alternative")的變體，其包含了較扁平的[變音符號來改善有多個變音符號字母之外觀](https://zh.wikipedia.org/wiki/變音符號 "wikilink")，以及類似於的[揚抑符](https://zh.wikipedia.org/wiki/揚抑符 "wikilink")。
 
-2003年，Gentium字型贏得了的前五年最佳設計之一\[3\]。
+2003年，Gentium字型贏得了[国际文字设计协会](../Page/国际文字设计协会.md "wikilink")的前五年最佳設計之一\[3\]。
 
 ### Gentium Basic字型
 

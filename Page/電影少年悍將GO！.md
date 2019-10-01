@@ -121,7 +121,7 @@ Ray Palmer</p></td>
 <td><p><a href="../Page/史丹·李.md" title="wikilink">史丹·李</a><br />
 Stan Lee</p></td>
 <td><p>好萊塢片場跑錯棚客串。</p></td>
-<td><p>本人</p></td>
+<td><p><a href="../Page/史丹·李.md" title="wikilink">本人</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -142,6 +142,8 @@ Stan Lee</p></td>
   - [官方網站](http://www.teentitansgo-movie.com/)
 
   -
+[分類:2018年非戲院首映電影](https://zh.wikipedia.org/wiki/分類:2018年非戲院首映電影 "wikilink")
+
 [Category:英語電影](https://zh.wikipedia.org/wiki/Category:英語電影 "wikilink") [Category:美國電影作品](https://zh.wikipedia.org/wiki/Category:美國電影作品 "wikilink") [Category:2018年美國動畫電影](https://zh.wikipedia.org/wiki/Category:2018年美國動畫電影 "wikilink") [Category:2010年代美国动画电影](https://zh.wikipedia.org/wiki/Category:2010年代美国动画电影 "wikilink") [Category:2010年代喜劇片](https://zh.wikipedia.org/wiki/Category:2010年代喜劇片 "wikilink") [Category:美國喜劇動作片](https://zh.wikipedia.org/wiki/Category:美國喜劇動作片 "wikilink") [Category:電視動畫的電影版](https://zh.wikipedia.org/wiki/Category:電視動畫的電影版 "wikilink") [Category:DC漫畫動畫電影](https://zh.wikipedia.org/wiki/Category:DC漫畫動畫電影 "wikilink") [Category:华纳兄弟动画电影](https://zh.wikipedia.org/wiki/Category:华纳兄弟动画电影 "wikilink") [Category:华纳兄弟电影](https://zh.wikipedia.org/wiki/Category:华纳兄弟电影 "wikilink")
 
 1.

@@ -43,7 +43,7 @@
 
 ## 外部連結
 
-  - [官方網站](http://www.escude.co.jp/product/panicon/top.html)Escu:de
+  - [官方網站](http://www.escude.co.jp/product/panicon/top.html)
 
 [Category:2015年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2015年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
 

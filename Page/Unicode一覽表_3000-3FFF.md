@@ -27,7 +27,7 @@
 | 310x                                                                                                    |
 | 311x                                                                                                    |
 | 312x                                                                                                    |
-| **[諺文相容字母](https://zh.wikipedia.org/wiki/諺文相容字母_\(Unicode區段\) "wikilink")／Hangul Compatibility Jamo**   |
+| **[諺文相容字母](../Page/諺文相容字母_\(Unicode區段\).md "wikilink")／Hangul Compatibility Jamo**                      |
 | U+                                                                                                      |
 | 313x                                                                                                    |
 | 314x                                                                                                    |

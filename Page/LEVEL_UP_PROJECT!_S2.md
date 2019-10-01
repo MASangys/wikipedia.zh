@@ -600,7 +600,7 @@ Irene賣手寫藝術字（定價：3億5千萬RV幣賣給監製），最後外�
 <p>1. 在Yeri的作詞裡，自己最喜歡的歌詞？<em>為什麼（痘痘）每天和我黏在一起？</em></p>
 <p>2. 很快就是柱現（Irene）的生日，她想要收到其他團員的什麼禮物？<em>當下沒想到，到了生日當天才透露吧。</em></p>
 <p>3.春天來了，你們一定想要做的事是什麼？<em>去<a href="../Page/慶州市.md" title="wikilink">慶州賞櫻花</a>、到<a href="../Page/济州岛.md" title="wikilink">濟州島</a></em>、<em><a href="../Page/三清洞.md" title="wikilink">三清洞</a></em></p>
-<p>4.Yeri成人後有獨立房間嗎? <em>沒有，但當Joy在外拍戲時，把東西合併，當作自己的房間用了。瑟琪因為當時拍攝《<a href="https://zh.wikipedia.org/wiki/叢林的法則" title="wikilink">叢林的法則</a>》而全不知情。</em></p>
+<p>4.Yeri成人後有獨立房間嗎? <em>沒有，但當Joy在外拍戲時，把東西合併，當作自己的房間用了。瑟琪因為當時拍攝《<a href="../Page/叢林的法則.md" title="wikilink">叢林的法則</a>》而全不知情。</em></p>
 <p>5. Joy 在拍戲時，最累的地方是什麼？<em>因為她是趁拍戲空檔參加見面會，跟著又要回去拍攝，除了舟車勞頓，沒什麼。</em></p>
 <p>6. Wendy在Joy拍攝的上一部電視劇，有幫忙對台詞。這次有嗎？<em>這次比較多對Wendy談天、做檢討之類</em>。</p>
 <p>7. Joy 想嘗試的髮型？ <em>先把頭髮留長，然後嘗試華麗公主髮型，因為在《<a href="../Page/偉大的誘惑者.md" title="wikilink">偉大的誘惑者</a>》造型很單純，《Bad Boy》拍攝MV時，頭髮還不夠長。</em></p>

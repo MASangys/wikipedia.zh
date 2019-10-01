@@ -13,8 +13,8 @@ ScanDisk有一个比CHKDSK更友好的用户界面，更多配置选项\[1\]\[2\
 ## 参见
 
   - [CHKDSK](../Page/CHKDSK.md "wikilink")
+  - [fsck](https://zh.wikipedia.org/wiki/fsck "wikilink")
 
-  -
 ## 参考资料
 
 ## 延伸阅读

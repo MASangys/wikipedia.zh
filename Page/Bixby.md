@@ -35,7 +35,8 @@ Bixby分為四個部分，分別稱為「Bixby語音」、「Bixby影像辨識�
 </tr>
 <tr class="even">
 <td><p><a href="../Page/法语.md" title="wikilink">法语</a>[2][3]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/法国" title="wikilink">法国</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/法国" title="wikilink">法国</a><br />
+ <a href="../Page/加拿大.md" title="wikilink">加拿大</a></p></td>
 <td><p>可用</p></td>
 </tr>
 </tbody>

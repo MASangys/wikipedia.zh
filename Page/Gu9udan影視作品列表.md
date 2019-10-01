@@ -204,15 +204,17 @@
 | 2014年12月19日       | [LINE TV](../Page/LINE_TV.md "wikilink")                 | 《[好日子](../Page/好日子_\(網路劇\).md "wikilink")》                    | MIMI         |         |
 | 2015年5月15日        | [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink") | 《[製作人的那些事](https://zh.wikipedia.org/wiki/製作人的那些事 "wikilink")》 |              |         |
 | 2016年11月7日        | Naver TV                                                 | 《[心裡的聲音](../Page/心裡的聲音.md "wikilink")》                        | 世正           | 客串      |
-| 2016年11月22日       | KBS2                                                     | 《[住在我家的男人](../Page/住在我家的男人.md "wikilink")》                    | MIMI、HANA、娜英 |         |
+| 2016年11月22日       | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")    | 《[住在我家的男人](../Page/住在我家的男人.md "wikilink")》                    | MIMI、HANA、娜英 |         |
 | 2016年12月9日        | 《[心裡的聲音](../Page/心裡的聲音.md "wikilink")》                   | 世正                                                            |              |         |
 | 2017年7月17日－9月5日   | 《[學校2017](../Page/學校2017.md "wikilink")》                 | 女主角                                                           |              |         |
 | 2017年10月9日－11月28日 | [MBC](../Page/文化廣播公司.md "wikilink")                      | 《[20世紀少男少女](../Page/20世紀少男少女.md "wikilink")》                  | 美娜           | 女主角青年時期 |
-| 2017年12月16日       | tvN                                                      | 《[直立行走的歷史](../Page/TvN_Drama_Stage.md "wikilink")》            | 女主角          |         |
-| 2018年11月1日        | Oksusu                                                   | 《我在路上撿到了藝人》                                                   | MIMI         | 女配角     |
-| 2018年11月5日－12月25日 | tvN                                                      | 《[雞龍仙女傳](../Page/雞龍仙女傳.md "wikilink")》                        | 美娜           |         |
-| 2018年             | [芒果TV](../Page/芒果TV.md "wikilink")                       | 《你好，對方辯友》                                                     | SALLY        | 女配角     |
-| 2019年7月           | KBS2                                                     | 《[讓我聆聽你的歌](../Page/讓我聆聽你的歌.md "wikilink")》                    | 世正           | 女主角     |
+| 2017年12月16日       | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")      | 《[直立行走的歷史](../Page/TvN_Drama_Stage.md "wikilink")》            | 女主角          |         |
+| 2018年11月1日        | Oksusu                                                   | 《我在路上撿到了藝人》                                                   | MIMI         | 配角      |
+| 2018年11月5日－12月25日 | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")      | 《[雞龍仙女傳](../Page/雞龍仙女傳.md "wikilink")》                        | 美娜           |         |
+| 2018年             | [芒果TV](../Page/芒果TV.md "wikilink")                       | 《你好，對方辯友》                                                     | SALLY        |         |
+| 2019年7月13日－9月1日   | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")      | 《[德魯納酒店](../Page/德魯納酒店.md "wikilink")》                        | 美娜           |         |
+| 2019年8月5日－9月24日   | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")    | 《[讓我聆聽你的歌](../Page/讓我聆聽你的歌.md "wikilink")》                    | 世正           | 女主角     |
+| 2019年10月2日－11月21日 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")      | 《[意外發現的一天](../Page/意外發現的一天.md "wikilink")》                    | MIMI         | 配角      |
 |                   |                                                          |                                                               |              |         |
 
 ## 綜藝節目
@@ -272,7 +274,7 @@
 <tr class="odd">
 <td><p>2017年3月17日－4月21日</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/叢林的法則" title="wikilink">叢林的法則</a>》</p></td>
+<td><p>《<a href="../Page/叢林的法則.md" title="wikilink">叢林的法則</a>》</p></td>
 <td><p><a href="../Page/蘇門答臘.md" title="wikilink">蘇門答臘</a>篇</p></td>
 <td></td>
 </tr>
@@ -342,7 +344,7 @@
 <tr class="odd">
 <td><p>2019年5月11日－6月</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/叢林的法則" title="wikilink">叢林的法則</a>》</p></td>
+<td><p>《<a href="../Page/叢林的法則.md" title="wikilink">叢林的法則</a>》</p></td>
 <td><p>MINA</p></td>
 <td><p>泰國篇</p></td>
 </tr>
@@ -678,6 +680,7 @@
 | 1月30日                                               |
 | 2月5、6日                                              |
 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") |
+| 2月10日                                               |
 | 2月24日                                               |
 | 3月30日                                               |
 | 3月31日、4月7日                                          |

@@ -4,7 +4,7 @@ Lanota的遊戲進行方式以音樂遊戲為主，並含有故事劇情、地�
 
 ## 遊戲系統
 
-《Lanota》的遊戲方式為由圓盤中央的齒輪邊界向外發射出音符，玩家依照節奏在音符到達外圈發光的判定線時，在對應位置做出點擊、滑動、接取、長按等各種操作。依照演奏的精準度，分為Gold Harmony (大Harmony)、Red Harmony (小Harmony)、Tune、Fail不同判定，並獲得不同分數。遊玩模式分為調律（Tune）與淨化（Purify）兩種\[4\]，模式的命名與劇情相關。每首歌曲分為WHISPER、ACOUSTIC、ULTRA、MASTER四種難度可選擇(MASTER難度需ULTRA難度達Rank A後開放)。
+《Lanota》的遊戲方式為由圓盤中央的齒輪邊界向外發射出音符，玩家依照節奏在音符到達外圈發光的判定線時，在對應位置做出點擊、滑動、接取、長按等各種操作。依照演奏的精準度，分為Just Harmony (大Harmony)、Fast/Slow Harmony (小Harmony)、Tune、Fail不同判定，並獲得不同分數。遊玩模式分為調律（Tune）與淨化（Purify）兩種\[4\]，模式的命名與劇情相關。每首歌曲分為WHISPER、ACOUSTIC、ULTRA、MASTER四種難度可選擇(MASTER難度需ULTRA難度達Rank A後開放)。Just Harmony 判定范围是+-30ms。
 
 隨著故事章節的演進，玩家將會依序獲得與劇情密切相關的道具。玩家可以查看樂曲所有譜面的遊玩、音礦收集的狀況以及總分，并可调整游戏系统和界面，如背景特效的開關、準度判定的校正、遊玩時圓盤的透明度以及打擊 Note 的音量。
 

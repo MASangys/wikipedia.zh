@@ -90,6 +90,8 @@ Timoteo曾是[SM娛樂](../Page/SM娛樂.md "wikilink")練習生，更一度被�
 
 7月22日，晙赫發行個人數位單曲《怕成了傻瓜》，此首歌作為之後預計每個月都會發行新的數位單曲，總共12首新歌中的第一首歌。\[17\]
 
+9月3日，尹山發行個人數位單曲《Still on you (feat. Adrian Mckinnon)》。
+
 ## 成員資料
 
 | 成員列表                            |
@@ -595,6 +597,7 @@ Timoteo曾是[SM娛樂](../Page/SM娛樂.md "wikilink")練習生，更一度被�
 | 2019年             | 1月9日                                                        | SPOTV STARK                                                               | 《IDOL LEAGUE》                                              | 全員              |             |
 | 4月1日－7月30日        | EBSe                                                        | 《Cook\! 10 Minutes》                                                       | Timoteo                                                    |                 |             |
 | 7月13日、14日         | CJ E\&M OGN                                                 | 《[Gamedolympic](../Page/Gamedolympic.md "wikilink")》                      | 尹山                                                         | 第二屆             |             |
+| 8月28日             | Arirang TV                                                  | 《Showbiz Korea》                                                           | 鎬廷                                                         |                 |             |
 
 ### 廣播節目
 

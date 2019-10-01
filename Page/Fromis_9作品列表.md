@@ -87,7 +87,7 @@
 <td><p>1st</p></td>
 <td><p>《<strong><a href="https://zh.wikipedia.org/wiki/FUN_FACTORY" title="wikilink">FUN FACTORY</a></strong>》</p>
 <ul>
-<li>發行日期：2019年06月04日</li>
+<li>發行日期：2019年6月4日</li>
 <li>唱片公司：CJ E&amp;M MUSIC</li>
 <li>發行公司：Genie Music, Stone Music Entertainment</li>
 </ul></td>

@@ -36,7 +36,7 @@ CTCP在Beta版的Windows Server 2008中被默认启用，在Windows Vista和7上
 
 ### Windows 8 / 8.1
 
-Windows 8/8.1需使用[PowerShell命令](../Page/Windows_PowerShell.md "wikilink")（见 <https://web.archive.org/web/20131029184023/http://technet.microsoft.com/en-us/library/hh826132.aspx%3Cnowiki/%3E%EF%BC%89%E4%BF%AE%E6%94%B9%E6%8B%A5%E5%A1%9E%E6%8E%A7%E5%88%B6%E7%AE%97%E6%B3%95>。
+Windows 8/8.1需使用[PowerShell命令](../Page/Windows_PowerShell.md "wikilink")（见 <https://web.archive.org/web/20131029184023/http://technet.microsoft.com/en-us/library/hh826132.aspx>）修改拥塞控制算法。
 
 ### Linux
 

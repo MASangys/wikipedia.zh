@@ -200,6 +200,18 @@
 <td><p>4</p></td>
 </tr>
 <tr class="odd">
+<td><p>8th</p></td>
+<td><p>《<strong><a href="../Page/Feel_Special.md" title="wikilink">Feel Special</a></strong>》</p>
+<ul>
+<li>發行日期：2019年9月23日</li>
+<li>唱片公司：<a href="https://zh.wikipedia.org/wiki/JYP_Entertainment" title="wikilink">JYP Entertainment</a></li>
+<li>發行公司：KT Music</li>
+</ul></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><center>
 <p>"—" 表示該專輯未有在榜上排名或沒有在當地發行</p></td>
 <td></td>
@@ -826,6 +838,18 @@
 <td><p>—</p></td>
 </tr>
 <tr class="odd">
+<td><p>2st</p></td>
+<td><p>《<strong><a href="../Page/&amp;TWICE.md" title="wikilink">&amp;TWICE</a></strong>》</p>
+<ul>
+<li>發行日期：2019年11月20日</li>
+<li>唱片公司：<a href="../Page/JYP娛樂.md" title="wikilink">JYP娛樂</a></li>
+<li>發行公司：Warner Music Japan</li>
+</ul></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><center>
 <p>"—" 表示該專輯未有在榜上排名或沒有在當地發行</p></td>
 <td></td>

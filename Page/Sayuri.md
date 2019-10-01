@@ -314,7 +314,7 @@ BVCL-795（通常盤）</p></td>
   - [酸欠少女 さユり パラレル YouTube Channel](https://www.youtube.com/channel/UC1wLdD1RVGp_rLH1NRJnD0A)
 
   -
-  - [酸欠少女さユり公式サイト](http://sayuri-web.com)
+  - [酸欠少女さユり公式サイト](https://www.sayuri-official.com/)
 
   - [ヤマハミュージックアーティスト - さユり](https://web.archive.org/web/20151107000106/http://www.yamaha-ma.co.jp/artists/sayuri/)
 

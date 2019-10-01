@@ -369,7 +369,7 @@
 <td><p><strong><a href="../Page/太平洋法郎.md" title="wikilink">太平洋法郎</a></strong><br />
 <a href="https://zh.wikipedia.org/wiki/烏茲別克索姆" title="wikilink">烏茲別克索姆</a></p></td>
 <td><p><strong>81</strong><br />
-0.96</p></td>
+970</p></td>
 <td><p>無</p></td>
 </tr>
 <tr class="even">
@@ -690,8 +690,8 @@
   - 嘉賓回答五條問題，答對可擲骰決定所加的分數。不過若擲中或踩Do姐圖案則需另再擲骰，以決定嘉賓可額外加分或扣分
   - 嘉賓可以在遊戲使用兩次「Big Big Tips」，即給予與該題目相關的大提示
   - 嘉賓另有六張功能卡，其中包括「進攻卡」：把對方的答案據為己有、「防守卡」：防止自己的答案被對方搶走及「空白卡」：無功用，嘉賓在每次答完問題均必須使用
-  - 在最後環節中，嘉賓先拉[老虎機](https://zh.wikipedia.org/wiki/老虎機 "wikilink")，再按所得的圖案決定所屬的等級，依次為「[頭等艙](https://zh.wikipedia.org/wiki/頭等艙 "wikilink")」：4個地方中有3個屬高匯率國家、「[商務艙](../Page/商務艙.md "wikilink")」：4地中有2個屬高匯率國家及「[經濟艙](../Page/經濟艙.md "wikilink")」：4地中只有1個屬高匯率國家
-  - 嘉賓所得的分數可在4個城市中選出所屬國家的貨幣，之後將該分數的貨幣轉換成港幣，成爲嘉賓該集獲得的獎金（如嘉賓得500分，而嘉賓選擇[紐約市](https://zh.wikipedia.org/wiki/紐約市 "wikilink")，即該嘉賓可獲得以500[美元](../Page/美元.md "wikilink")轉換成約3900港元的獎金）
+  - 在最後環節中，嘉賓先拉[老虎機](https://zh.wikipedia.org/wiki/老虎機 "wikilink")，再按所得的圖案決定所屬的等級，依次為「[頭等艙](https://zh.wikipedia.org/wiki/頭等艙 "wikilink")」：3個地方中有2個屬高匯率國家、「[商務艙](../Page/商務艙.md "wikilink")」：4地中有2個屬高匯率國家及「[經濟艙](../Page/經濟艙.md "wikilink")」：4地中只有1個屬高匯率國家
+  - 嘉賓所得的分數可在3-4個城市中選出其所屬國家的貨幣，之後將該分數的貨幣轉換成港幣，成爲嘉賓該集獲得的獎金（如嘉賓得500分，而嘉賓選擇[紐約市](https://zh.wikipedia.org/wiki/紐約市 "wikilink")，即該嘉賓可獲得以500[美元](../Page/美元.md "wikilink")轉換成約3900港元的獎金）
   - 粗體為該集獎金最多嘉賓。
 
 <table>
@@ -769,8 +769,8 @@
 <td><p><strong>2100</strong><br />
 1500</p></td>
 <td><p><a href="../Page/經濟艙.md" title="wikilink">經濟艙</a></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/金斯頓" title="wikilink">金斯頓</a></strong><br />
-<a href="https://zh.wikipedia.org/wiki/卡拉" title="wikilink">卡拉</a></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/金斯敦_(牙買加)" title="wikilink">金斯敦</a></strong><br />
+<a href="../Page/卡利.md" title="wikilink">卡利</a></p></td>
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/牙買加元" title="wikilink">牙買加元</a></strong><br />
 <a href="https://zh.wikipedia.org/wiki/哥倫比亞披索" title="wikilink">哥倫比亞披索</a></p></td>
 <td><p><strong>126</strong><br />
@@ -820,6 +820,32 @@
 <strong><a href="../Page/荷屬安的列斯盾.md" title="wikilink">荷屬安的列斯盾</a></strong></p></td>
 <td><p>289<br />
 <strong>10950</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>08</p></td>
+<td><p>9月15日</p></td>
+<td><p><a href="../Page/陳山聰.md" title="wikilink">陳山聰</a>、<a href="https://zh.wikipedia.org/wiki/姚子羚" title="wikilink">姚子羚</a><br />
+<strong><a href="../Page/趙慧珊.md" title="wikilink">趙慧珊</a>、<a href="../Page/吳嘉熙.md" title="wikilink">吳嘉熙</a>、<a href="../Page/蔡明思.md" title="wikilink">蔡明思</a></strong></p></td>
+<td><p>2900<br />
+<strong>1700</strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/頭等艙" title="wikilink">頭等艙</a></strong></p></td>
+<td><p><br />
+<strong></strong></p></td>
+<td><p><a href="../Page/阿魯巴弗羅林.md" title="wikilink">阿魯巴弗羅林</a><br />
+<strong><a href="../Page/美元.md" title="wikilink">美元</a></strong></p></td>
+<td><p>12702<br />
+<strong>13328</strong></p></td>
+</tr>
+<tr class="odd">
+<td><p>09</p></td>
+<td><p>9月22日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/森美" title="wikilink">森美</a>、<a href="https://zh.wikipedia.org/wiki/小儀" title="wikilink">小儀</a><br />
+<a href="../Page/黎諾懿.md" title="wikilink">黎諾懿</a>、<a href="../Page/湯洛雯.md" title="wikilink">湯洛雯</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>

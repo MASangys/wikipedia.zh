@@ -202,7 +202,7 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p>2018年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/傑志" title="wikilink">傑志</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:Captain_sports.svg" title="fig:Captain_sports.svg">Captain_sports.svg</a> 隊長</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>14</p></td>
@@ -439,19 +439,12 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/麥富城" title="wikilink">麥富城</a>（Mak Fu Shing）</p></td>
-<td><p>前鋒</p></td>
-<td><p>2000年11月14日</p></td>
-<td><p><a href="../Page/香港流浪足球會.md" title="wikilink">標準流浪</a></p></td>
-</tr>
-<tr class="even">
-<td></td>
 <td><p><a href="../Page/謝偉俊_(足球運動員).md" title="wikilink">謝偉俊</a>（Tse Wai Chun）</p></td>
 <td><p>後衛</p></td>
 <td><p>1997年1月30日</p></td>
 <td><p><a href="../Page/香港流浪足球會.md" title="wikilink">標準流浪</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/姬向爭" title="wikilink">姬向爭</a>（Ji Xiangzheng）</p></td>
 <td><p>守門員</p></td>

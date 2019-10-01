@@ -11,6 +11,33 @@
   - 2019年4月6日，為改善內港北一帶因暴雨造成的水浸問題及遇上天文潮時出現的輕微海水倒灌，市政署開展“內港北雨水泵站箱涵渠建造工程”，包括在內港北建造雨水泵站、箱涵渠、鋪設排水渠道等工作。隨著工程推進，當日上午10時起，將安排各管線公司於巴素打爾古街進行遷移管線工程，而渠道的過街工程及部份路面枱升工作亦會於此階段進行。屆時，介乎新馬路與水雞巷之間的一段巴素打爾古街實施有限度通車，而巴素打爾古街由沙利頭往新馬路方向維持兩線行車；往華大新村方向“十六浦”站臨時示停靠；而往旅遊塔方向“金碧文娛中心”站臨時不停靠。
   - 2019年8月31日起，因“內港北雨水泵站箱涵渠建造工程”已完工，本線開始恢復原線停靠。
 
+## 使用車輛
+
+  - 蘇州金龍KLQ6115GQ
+  - 宇通ZK6128HG
+
+<table>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"><p><strong>澳門巴士5AX路线使用車輛列表</strong><br />
+(只記錄掛牌車輛)<br />
+</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>color:black" align=center width=20% bgcolor="silver" | 所屬公司</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>新福利</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>Y02</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>Y04</p></td>
+</tr>
+</tbody>
+</table>
+
 ## 路線及收費資料
 
 ### 收費

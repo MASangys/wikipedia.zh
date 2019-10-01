@@ -74,17 +74,17 @@
   -
 [Category:2017年电子游戏](https://zh.wikipedia.org/wiki/Category:2017年电子游戏 "wikilink") [Category:勇者鬥惡龍系列電子遊戲](https://zh.wikipedia.org/wiki/Category:勇者鬥惡龍系列電子遊戲 "wikilink") [Category:PlayStation_4遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_4遊戲 "wikilink") [Category:任天堂Switch游戏](https://zh.wikipedia.org/wiki/Category:任天堂Switch游戏 "wikilink") [Category:任天堂3DS游戏](https://zh.wikipedia.org/wiki/Category:任天堂3DS游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:Steam商店遊戲](https://zh.wikipedia.org/wiki/Category:Steam商店遊戲 "wikilink") [Category:虚幻引擎游戏](https://zh.wikipedia.org/wiki/Category:虚幻引擎游戏 "wikilink") [Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink") [Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink")
 
-1.  \[<http://www.dragonquest.jp/news/detail/1408/> シリーズ最新作『ドラゴンクエストXI　過ぎ去りし時を求めて』発売決定のお知らせ}}
+1.
 
 2.
 
-3.  [马力欧、塞尔达、勇者斗恶龙等等，今早直面会上的许多作品都将支持中文！](https://www.gcores.com/articles/106386).机核网.2019-02-14.\[2019-02-14\].
+3.
 
 4.   ゲーム・エンタメ|date=2017-08-08|newspaper=東洋経済オンライン|accessdate=2017-12-05|language=ja}}
 
 5.
 
-6.  [《勇者斗恶龙11》登陆NX/PS4/3DS三平台](http://www.vgtime.com/article/2832410.jhtml).游戏时光.2015-07-28.\[2015-08-01\].
+6.
 
 7.
 

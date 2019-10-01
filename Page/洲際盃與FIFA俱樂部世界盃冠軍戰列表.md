@@ -1,10 +1,10 @@
-**洲際盃與FIFA俱樂部世界盃冠軍戰列表**，是全球足球俱樂部頂級競賽的冠軍戰列表，包括現已整合的兩項賽事：\[1\]\[2\]\[3\]
+**洲際盃與FIFA俱樂部世界盃冠軍戰列表**，是全球足球俱樂部頂級競賽的冠軍戰列表，包括現已整合的兩項賽事：\[1\]\[2\]\[3\]\[4\]
 
-  - **洲際盃**（**Intercontinental Cup**），全名为**歐洲/南美洲盃**（**European/South American Cup**）, 是一項每年一度由[歐洲及](https://zh.wikipedia.org/wiki/歐洲 "wikilink")[南美洲](../Page/南美洲.md "wikilink")的實力最強的球會進行較量的國際足球賽事，參賽球队必須是[歐洲聯賽冠軍盃冠軍和](https://zh.wikipedia.org/wiki/歐洲聯賽冠軍盃 "wikilink")[南美自由盃冠軍](https://zh.wikipedia.org/wiki/南美自由盃 "wikilink")。由於[日本](../Page/日本.md "wikilink")[丰田汽車公司赞助该項杯赛](https://zh.wikipedia.org/wiki/丰田汽車公司 "wikilink")，因此冠名为**丰田杯**（**Toyota Cup**）。1980年起，比赛的地点固定在日本[東京的](https://zh.wikipedia.org/wiki/東京 "wikilink")[東京國立競技場](https://zh.wikipedia.org/wiki/東京國立競技場 "wikilink")，2001年後改於[橫濱國際總合競技場舉行](https://zh.wikipedia.org/wiki/橫濱國際總合競技場 "wikilink")。起初洲際盃采用主客场两回合定胜负的赛制；1980年起，赛制改为一场定胜负，而比赛中的最佳球員可以得到一辆丰田汽车。2005年起，丰田杯被[国际足联世界俱乐部冠军杯](https://zh.wikipedia.org/wiki/國際足協世界冠軍球會盃 "wikilink")（FIFA Club World Championship）取代。最后一届的丰田杯在2004年，[葡萄牙](../Page/葡萄牙.md "wikilink")的[波圖成為最後一隊奪得丰田杯的得主](https://zh.wikipedia.org/wiki/波尔图足球俱樂部 "wikilink")。在2017年 國際足聯正式承認洲際世界俱樂部冠軍的獲勝者,\[4\]\[5\]欧洲和南美洲的俱乐部比其他国家（1960-2004）强得多。
+  - **洲際盃**（**Intercontinental Cup**），全名为**歐洲/南美洲盃**（**European/South American Cup**）, 是一項每年一度由[歐洲及](https://zh.wikipedia.org/wiki/歐洲 "wikilink")[南美洲](../Page/南美洲.md "wikilink")的實力最強的球會進行較量的國際足球賽事，參賽球队必須是[歐洲聯賽冠軍盃冠軍和](https://zh.wikipedia.org/wiki/歐洲聯賽冠軍盃 "wikilink")[南美自由盃冠軍](https://zh.wikipedia.org/wiki/南美自由盃 "wikilink")。由於[日本](../Page/日本.md "wikilink")[丰田汽車公司赞助该項杯赛](https://zh.wikipedia.org/wiki/丰田汽車公司 "wikilink")，因此冠名为**丰田杯**（**Toyota Cup**）。1980年起，比赛的地点固定在日本[東京的](https://zh.wikipedia.org/wiki/東京 "wikilink")[東京國立競技場](https://zh.wikipedia.org/wiki/東京國立競技場 "wikilink")，2001年後改於[橫濱國際總合競技場舉行](https://zh.wikipedia.org/wiki/橫濱國際總合競技場 "wikilink")。起初洲際盃采用主客场两回合定胜负的赛制；1980年起，赛制改为一场定胜负，而比赛中的最佳球員可以得到一辆丰田汽车。2005年起，丰田杯被[国际足联世界俱乐部冠军杯](https://zh.wikipedia.org/wiki/國際足協世界冠軍球會盃 "wikilink")（FIFA Club World Championship）取代。最后一届的丰田杯在2004年，[葡萄牙](../Page/葡萄牙.md "wikilink")的[波圖成為最後一隊奪得丰田杯的得主](https://zh.wikipedia.org/wiki/波尔图足球俱樂部 "wikilink")。在2017年 國際足聯正式承認洲際世界俱樂部冠軍的獲勝者,\[5\]\[6\]欧洲和南美洲的俱乐部比其他国家（1960-2004）强得多。
 
 <!-- end list -->
 
-  - **国际足联俱乐部世界杯** (），或译为**世界-{}-俱乐部杯**、**俱乐部冠军杯**，简称**世俱杯**。由該項賽事的前身[国际足联俱乐部世锦赛](https://zh.wikipedia.org/wiki/国际足联俱乐部世锦赛 "wikilink")（）与[洲际杯足球赛](https://zh.wikipedia.org/wiki/洲际杯足球赛 "wikilink")（又名**丰田杯**，）合併而來\[6\]\[7\]。是一項由[國際足協主辦](https://zh.wikipedia.org/wiki/國際足協 "wikilink")，來自六大洲最頂級的球會參與的國際性足球錦標賽。首屆世界冠軍球會盃於2000年1月在[巴西](../Page/巴西.md "wikilink")舉行，國際足協希望賽事能夠改變[洲際盃](../Page/洲際盃足球賽.md "wikilink")（丰田杯）原本的[歐洲及](https://zh.wikipedia.org/wiki/歐洲 "wikilink")[南美洲](../Page/南美洲.md "wikilink")球會參加的型態，在這項新賽事能夠吸納全球六大洲最頂級的球會參與，可惜國際足協未能與洲際盃主辦機構達成協議，因此洲際盃得以繼續舉行，而世界冠軍球會盃如常於2000年舉行。
+  - **国际足联俱乐部世界杯** (），或译为**世界-{}-俱乐部杯**、**俱乐部冠军杯**，简称**世俱杯**。由該項賽事的前身[国际足联俱乐部世锦赛](https://zh.wikipedia.org/wiki/国际足联俱乐部世锦赛 "wikilink")（）与[洲际杯足球赛](https://zh.wikipedia.org/wiki/洲际杯足球赛 "wikilink")（又名**丰田杯**，）合併而來\[7\]\[8\]。是一項由[國際足協主辦](https://zh.wikipedia.org/wiki/國際足協 "wikilink")，來自六大洲最頂級的球會參與的國際性足球錦標賽。首屆世界冠軍球會盃於2000年1月在[巴西](../Page/巴西.md "wikilink")舉行，國際足協希望賽事能夠改變[洲際盃](../Page/洲際盃足球賽.md "wikilink")（丰田杯）原本的[歐洲及](https://zh.wikipedia.org/wiki/歐洲 "wikilink")[南美洲](../Page/南美洲.md "wikilink")球會參加的型態，在這項新賽事能夠吸納全球六大洲最頂級的球會參與，可惜國際足協未能與洲際盃主辦機構達成協議，因此洲際盃得以繼續舉行，而世界冠軍球會盃如常於2000年舉行。
 
 首屆世界冠軍球會盃並不受到外界歡迎，2001年第二屆賽事原本訂於[西班牙](../Page/西班牙.md "wikilink")舉行，參賽球隊增至12隊，但其後國際足協市場推廣公司ISL突然倒閉，最終賽事因而取消。 2003年打算復辦賽事，但仍然無法舉行。最終國際足協與洲際盃達成協議將兩項賽事合二為一，重新開辦的國際足協世界冠軍球會盃正式於2005年在[日本](../Page/日本.md "wikilink")舉行。
 
@@ -1130,8 +1130,15 @@
 
 1.
 2.
+
 3.
-4.   [FIFA Statistikal kit](http://resources.fifa.com/mm/document/fifafacts/mencompcwc/02/67/91/87/statskit_fcwc2017_event_neutral.pdf) 網頁 15, 40, 41, 42.
-5.
+
+4.
+
+5.   [FIFA Statistikal kit](http://resources.fifa.com/mm/document/fifafacts/mencompcwc/02/67/91/87/statskit_fcwc2017_event_neutral.pdf) 網頁 15, 40, 41, 42.
+
 6.
+
 7.
+
+8.

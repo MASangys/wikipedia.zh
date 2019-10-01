@@ -38,6 +38,12 @@
 <td><p>電視動畫</p></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>2019年</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/满月之战" title="wikilink">满月之战</a></p></td>
+<td><p>電視動畫</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

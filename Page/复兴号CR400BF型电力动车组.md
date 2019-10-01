@@ -62,7 +62,7 @@ CR400BF的牽引電動機及IGBT-VVVF均由[中車永濟電機進行生產](http
 
 CR400BF系列中，BF、BF-C、BF-G在3号和6号车厢设置[受电弓](https://zh.wikipedia.org/wiki/受电弓 "wikilink")，而较长编组的BF-A、BF-B、BF-E在3号、6号、11号、14号车厢设置受电弓，在正常运行时，短编组运行时则使用一个受电弓，长编组或短编组重连运行则使用两个受电弓。
 
-CR400BF系列动车组采用主动控制受电弓，高压设备外绝缘的雷电冲击耐受电压提升至185 kV，采用整体密闭的高压箱结构，除受电弓外，其余高压部件不暴露于运行环境中，以改善高压系统部件的工作环境，提高系统在不同网高和不同环境下的工作可靠性，实现日常运用的免维护。
+CR400BF系列动车组采用此前曾装备CRH380B/BL系列的CX-PG型主动控制受电弓，由青岛四方法维莱轨道制动有限公司生产，高压设备外绝缘的雷电冲击耐受电压提升至185 kv，采用整体密闭的高压箱结构，除受电弓外，其余高压部件不暴露于运行环境中，以改善高压系统部件的工作环境，提高系统在不同网高和不同环境下的工作可靠性，实现日常运用的免维护。
 
 辅助供电系统则采用中国标准制式的AC380 V/50 Hz辅助供电系统，具有自动平衡负载和冗余供电功能，辅助变流器由牵引变流器中间直流环节供电，实现过[分相不断电](../Page/中性區.md "wikilink")、无动力回送/救援工况时自发电功能。研发锂电池直流供电系统，提升单位质量供电能力。
 
@@ -106,7 +106,7 @@ CR400BF系列列车均设有商务车，一等座车以及二等座车。其中�
 
 ### 配属概况
 
-至2019年7月，总共已有203组CR400BF系列动车组出厂。
+至2019年9月，总共已有211组CR400BF系列动车组出厂。
 
   - 车号0XXX，为样版车
   - 车号3XXX，为中车唐山机车车辆生产的列车
@@ -145,7 +145,7 @@ CR400BF系列列车均设有商务车，一等座车以及二等座车。其中�
 <td><p>0503、0507、<br />
 5006、5022、5025～5042、5047、5068～5077、5106～5112</p></td>
 <td><p>曹庄</p></td>
-<td><p><a href="../Page/京沪高速铁路.md" title="wikilink">京沪高速铁路</a>、<a href="../Page/京津城际铁路.md" title="wikilink">京津城际铁路</a>、<a href="https://zh.wikipedia.org/wiki/津秦客运专线" title="wikilink">津秦客运专线</a>、<a href="../Page/秦沈客运专线.md" title="wikilink">秦沈客运专线</a>、<a href="../Page/哈大客运专线.md" title="wikilink">哈大高速铁路</a>、<a href="../Page/沈丹客运专线.md" title="wikilink">沈丹客运专线</a>、<a href="https://zh.wikipedia.org/wiki/京港客运专线" title="wikilink">京广-广深港高铁</a></p></td>
+<td><p><a href="../Page/京沪高速铁路.md" title="wikilink">京沪高速铁路</a>、<a href="../Page/京津城际铁路.md" title="wikilink">京津城际铁路</a>、<a href="https://zh.wikipedia.org/wiki/津秦客运专线" title="wikilink">津秦客运专线</a>、<a href="../Page/秦沈客运专线.md" title="wikilink">秦沈客运专线</a>、<a href="../Page/哈大客运专线.md" title="wikilink">哈大高速铁路</a>、<a href="../Page/沈丹客运专线.md" title="wikilink">沈丹客运专线</a>、<a href="../Page/京广高速铁路.md" title="wikilink">京广高速铁路</a>、<a href="https://zh.wikipedia.org/wiki/广深港高速铁路" title="wikilink">广深港高速铁路</a></p></td>
 <td><p>0503、0507为样板车。</p></td>
 <td></td>
 </tr>
@@ -162,15 +162,15 @@ CR400BF系列列车均设有商务车，一等座车以及二等座车。其中�
 <td><p>30</p></td>
 <td><p>5001～5005、5007～5021、5023、5024、5043～5046、5078～5081</p></td>
 <td><p>上海虹桥</p></td>
-<td><p>京沪高速铁路、京广-广深港高铁、<a href="../Page/沪宁城际铁路.md" title="wikilink">沪宁城际铁路</a>、<a href="../Page/宁安客运专线.md" title="wikilink">宁安客运专线</a>、<a href="../Page/宁杭客运专线.md" title="wikilink">宁杭客运专线</a>、<a href="../Page/杭甬客运专线.md" title="wikilink">杭甬客运专线</a>、<a href="../Page/沪昆客运专线.md" title="wikilink">沪昆客运专线</a>、<a href="https://zh.wikipedia.org/wiki/新金温铁路" title="wikilink">新金温铁路</a>、<a href="../Page/合福客运专线.md" title="wikilink">合福客运专线</a>、<a href="../Page/福厦铁路.md" title="wikilink">福厦铁路</a>、<a href="../Page/衡柳铁路.md" title="wikilink">衡柳铁路</a>、<a href="../Page/柳南城际铁路.md" title="wikilink">柳南城际铁路</a></p></td>
+<td><p>京沪高速铁路、京广高速铁路、广深港高速铁路、<a href="../Page/沪宁城际铁路.md" title="wikilink">沪宁城际铁路</a>、<a href="../Page/宁安客运专线.md" title="wikilink">宁安客运专线</a>、<a href="../Page/宁杭客运专线.md" title="wikilink">宁杭客运专线</a>、<a href="../Page/杭黄客运专线.md" title="wikilink">杭黄客运专线</a>、<a href="../Page/杭甬客运专线.md" title="wikilink">杭甬客运专线</a>、<a href="../Page/沪昆客运专线.md" title="wikilink">沪昆客运专线</a>、<a href="../Page/金温铁路.md" title="wikilink">金温铁路</a>、<a href="../Page/合福客运专线.md" title="wikilink">合福客运专线</a>、<a href="../Page/福厦铁路.md" title="wikilink">福厦铁路</a>、<a href="../Page/衡柳铁路.md" title="wikilink">衡柳铁路</a>、<a href="../Page/柳南城际铁路.md" title="wikilink">柳南城际铁路</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>49</p></td>
-<td><p>3001～3023、3034～3049、3059～3061、3063～3065、3073～3076</p></td>
+<td><p>59</p></td>
+<td><p>3001～3023、3034～3049、3059～3066、3069～3079、3082</p></td>
 <td><p>南京南</p></td>
-<td><p>沪昆客运专线、京广高速铁路、衡柳铁路、柳南城际铁路</p></td>
-<td><p>3069～3072、3077、3078尚未正式配屬動車所。</p></td>
+<td><p>沪昆客运专线、京广高速铁路、宁杭客运专线、杭黄客运专线、合福客运专线、<a href="../Page/南龙铁路.md" title="wikilink">南龙铁路</a>、<a href="../Page/厦深铁路.md" title="wikilink">厦深铁路</a>、衡柳铁路、柳南城际铁路</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -190,7 +190,7 @@ CR400BF系列列车均设有商务车，一等座车以及二等座车。其中�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/北京局集团" title="wikilink">北京局集团</a></p></td>
+<td><p>北京局集团</p></td>
 <td><p>21</p></td>
 <td><p>3024、3025、3028～3033、3050～3056、<br />
 5082～5087</p></td>
@@ -199,11 +199,11 @@ CR400BF系列列车均设有商务车，一等座车以及二等座车。其中�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/上海局集团" title="wikilink">上海局集团</a></p></td>
+<td><p>上海局集团</p></td>
 <td><p>24</p></td>
 <td><p>5048～5054、5057～5066、5090～5096</p></td>
 <td><p>上海虹桥</p></td>
-<td><p>沪宁城际铁路、宁安客运专线、京沪高速铁路、沪昆客运专线、京广-广深港高铁</p></td>
+<td><p>沪宁城际铁路、宁安客运专线、京沪高速铁路、沪昆客运专线、京广高速铁路、广深港高速铁路</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -232,7 +232,7 @@ CR400BF系列列车均设有商务车，一等座车以及二等座车。其中�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/上海局集团" title="wikilink">上海局集团</a></p></td>
+<td><p>上海局集团</p></td>
 <td><p>9</p></td>
 <td><p>5097～5105</p></td>
 <td><p>上海虹桥</p></td>
@@ -264,12 +264,28 @@ CR400BF系列列车均设有商务车，一等座车以及二等座车。其中�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/中国铁路沈阳局集团有限公司.md" title="wikilink">沈阳局集团</a></p></td>
-<td><p>9</p></td>
-<td><p>5113～5122</p></td>
+<td><p>沈阳局集团</p></td>
+<td><p>6</p></td>
+<td><p>5113～5118</p></td>
 <td><p>瀋陽南</p></td>
 <td><p><a href="../Page/京哈客运专线.md" title="wikilink">京哈客运专线</a></p></td>
-<td><p>5116～5122尚未正式配屬動車所。</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>3</p></td>
+<td><p>5120～5122</p></td>
+<td><p>瀋陽北</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>5</p></td>
+<td><p>5119、5123～5126</p></td>
+<td><p>大連</p></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td></td>

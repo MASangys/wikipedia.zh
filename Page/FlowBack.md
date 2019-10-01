@@ -340,7 +340,7 @@ FlowBack LIVE TOUR 2019「The Answer」ライブ映像収録<br />
 CD</p></td>
 <td><p>KSCL-3063～3064<br />
 KSCL-3065</p></td>
-<td><p>Let’s Get Togeth<br />
+<td><p>Let’s Get Together<br />
 イケナイ太陽<br />
 AfterRain<br />
 SUMMER SONG<br />
@@ -538,6 +538,18 @@ ALWAYS -Instrumental-</p></td>
 8月17日 福岡 福岡Drum LOGOS<br />
 9月15日 東京 EX THEATER ROPPONGI </p></td>
 </tr>
+<tr class="even">
+<td><p>2019年-2020年</p></td>
+<td><p>FlowBack LIVE TOUR 2019-2020「Connect」</p></td>
+<td><p>11月30日 愛知 名古屋ダイアモンドホール<br />
+12月8日 新瀉 新瀉NEXS<br />
+12月15日 廣島 クラブクアトロ<br />
+12月20日 大阪 心斎橋BIGCAT<br />
+1月5日日 福岡 福岡BEAT STATION<br />
+1月12日 北海道 札幌ペニーレーン24<br />
+1月18日 宮城 仙台 Rensa<br />
+2月02日 東京 昭和女子大学人見記念講堂 </p></td>
+</tr>
 </tbody>
 </table>
 
@@ -582,6 +594,11 @@ ALWAYS -Instrumental-</p></td>
 <td><p>6</p></td>
 <td><p>No Other One</p></td>
 <td><p>「第6回全国小・中学校リズムダンスふれあいコンクール」規定曲</p></td>
+</tr>
+<tr class="odd">
+<td><p>7</p></td>
+<td><p>By Your Side</p></td>
+<td><p>「第7回全国小・中学校リズムダンスふれあいコンクール」規定曲</p></td>
 </tr>
 </tbody>
 </table>

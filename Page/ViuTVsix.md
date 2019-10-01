@@ -109,7 +109,7 @@ ViuTVsix會在不同的節目時段播放國際大型演唱會以及音樂特輯
   -
   -
   -
-[Category:香港電視娛樂](https://zh.wikipedia.org/wiki/Category:香港電視娛樂 "wikilink") [Category:香港電視播放頻道](https://zh.wikipedia.org/wiki/Category:香港電視播放頻道 "wikilink") [Category:香港數碼地面電視廣播](https://zh.wikipedia.org/wiki/Category:香港數碼地面電視廣播 "wikilink") [Category:2017年成立的電視台或電視頻道](https://zh.wikipedia.org/wiki/Category:2017年成立的電視台或電視頻道 "wikilink") [Category:英語電視頻道](https://zh.wikipedia.org/wiki/Category:英語電視頻道 "wikilink") [Category:高清頻道](https://zh.wikipedia.org/wiki/Category:高清頻道 "wikilink") [Category:2017年香港建立](https://zh.wikipedia.org/wiki/Category:2017年香港建立 "wikilink")
+[Category:香港電視娛樂](https://zh.wikipedia.org/wiki/Category:香港電視娛樂 "wikilink") [Category:香港電視播放頻道](https://zh.wikipedia.org/wiki/Category:香港電視播放頻道 "wikilink") [Category:香港數碼地面電視廣播](https://zh.wikipedia.org/wiki/Category:香港數碼地面電視廣播 "wikilink") [Category:2017年成立的電視台或電視頻道](https://zh.wikipedia.org/wiki/Category:2017年成立的電視台或電視頻道 "wikilink") [Category:英語電視頻道](https://zh.wikipedia.org/wiki/Category:英語電視頻道 "wikilink") [Category:高清頻道](https://zh.wikipedia.org/wiki/Category:高清頻道 "wikilink") [Category:2017年香港建立](https://zh.wikipedia.org/wiki/Category:2017年香港建立 "wikilink") [Category:免費電視頻道](https://zh.wikipedia.org/wiki/Category:免費電視頻道 "wikilink")
 
 1.  根據香港廣播條例，免費電視台須提供最少兩條頻道，中文及英文各一。
 2.

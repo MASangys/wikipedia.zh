@@ -4,7 +4,7 @@
 
 ## 遊戲玩法
 
-《第二國度II 王國再臨》是一款第三人稱的[單人遊戲](https://zh.wikipedia.org/wiki/單人電子遊戲 "wikilink")。玩家可以通過完成任務以取得遊戲劇情的進展，而在任務之外，玩家也可以在[開放世界](../Page/開放世界.md "wikilink")中[自由的溜達](https://zh.wikipedia.org/wiki/沙盒類遊戲 "wikilink")，探索城鎮、村莊、[地下城和遍布全世界的危險場所](https://zh.wikipedia.org/wiki/地下城 "wikilink")\[3\]。當離開一個地點後，玩家會進人可以選擇下一個要去的地方的世界地圖；[遊戲地圖](../Page/遊戲地圖.md "wikilink")會以[立體透視模型的方式呈現](https://zh.wikipedia.org/wiki/立體透視模型 "wikilink")\[4\]，而角色則會變得非常\[5\]。
+《第二國度II 王國再臨》是一款第三人稱的[單人遊戲](https://zh.wikipedia.org/wiki/單人電子遊戲 "wikilink")。玩家可以通過完成任務以取得遊戲劇情的進展，而在任務之外，玩家也可以在[開放世界](../Page/開放世界.md "wikilink")中[自由的溜達](https://zh.wikipedia.org/wiki/沙盒類遊戲 "wikilink")，探索城鎮、村莊、[地下城和遍布全世界的危險場所](https://zh.wikipedia.org/wiki/地下城 "wikilink")\[3\]。當離開一個地點後，玩家會進入可以選擇下一個要去的地方的世界地圖；[遊戲地圖](../Page/遊戲地圖.md "wikilink")會以[立體透視模型的方式呈現](https://zh.wikipedia.org/wiki/立體透視模型 "wikilink")\[4\]，而角色則會變得非常\[5\]。
 
 當玩家遇到敵人時便會進入戰鬥，戰場是開放式的，玩家可以在該區自由的走動。在戰鬥中，玩家可以操縱一個盟友進行戰鬥；;所有角色都是手動移動的。玩家可以向敵人使用近戰攻擊、魔法技能或召喚「Higgledies」。「Higgledies」是「勇氣的靈魂」，它們以多種形式存在且代表各種[古典元素](https://zh.wikipedia.org/wiki/古典元素 "wikilink")，玩家可以放出它們到達遙遠的地區或探索地下城\[6\]。
 

@@ -1,4 +1,4 @@
-**MYTEEN**（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Music Works於](../Page/The_Music_Works.md "wikilink")2017年7月26日推出的[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")，成員包括恩洙、泰彬、天真、[國憲](../Page/金國憲.md "wikilink")、準燮、、漢瑟。出道前就已累積許多人氣。在2018年官方宣布更換隊長由國憲接任。官方粉絲名為Youth。
+**MYTEEN**（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Music Works於](../Page/The_Music_Works.md "wikilink")2017年7月26日推出的[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")，成員包括恩洙、泰彬、天真、[國憲](../Page/金國憲.md "wikilink")、準燮、[有彬](https://zh.wikipedia.org/wiki/宋有彬 "wikilink")、漢瑟。出道前就已累積許多人氣。在2018年官方宣布更換隊長由國憲接任。官方粉絲名為You"th。
 
 2018年12月31日，官方宣布泰彬退出組合\[1\]。
 
@@ -46,7 +46,7 @@
 <ul>
 <li>發行日期：2018年7月10日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
-<li>專輯銷量：5,331[4]</li>
+<li>專輯銷量：5,331+[4]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -260,7 +260,7 @@
 |      |                                          |              |       |    |     |      |
 | ---- | ---------------------------------------- | ------------ | ----- | -- | --- | ---- |
 | 年份   | 放送平台                                     | 劇名           | 參演成員  | 角色 | 性質  | 出場集數 |
-| 2018 | [YouTube](../Page/YouTube.md "wikilink") | Login to You | 準燮    |    | 男主角 | 全集   |
+| 2018 | [YouTube](../Page/YouTube.md "wikilink") | Login to You | 準燮    | 서준 | 男主角 | 全集   |
 | 2019 | Re-Feel                                  | 고태건          | 第二男主角 | 全集 |     |      |
 
 ### 專屬節目
@@ -273,14 +273,15 @@
 
 ### 綜藝節目
 
-|                       |                                      |                                                                     |             |     |
-| --------------------- | ------------------------------------ | ------------------------------------------------------------------- | ----------- | --- |
-| 日期                    | 電視臺                                  | 節目名稱                                                                | 參與成員        | 備註  |
-| 2014年                 | [MNET](../Page/Mnet媒體.md "wikilink") | [Super Star K6](../Page/SUPER_STAR_K.md "wikilink")                 | 有彬          | 出道前 |
-| 2017年4月11日－2017年6月27日 | K-STAR                               | [我是演員](../Page/我是演員.md "wikilink")                                  | 有彬          |     |
-| 2018年                 | [JTBC](../Page/JTBC.md "wikilink")   | [MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")         | 國憲、準燮、天真、恩洙 |     |
-| 2018年                 | [JTBC](../Page/JTBC.md "wikilink")   | [THE TEAM CHEF](../Page/The_Team_Chef.md "wikilink")                | 泰彬          | 全季  |
-| 2019年                 | [MNET](../Page/Mnet媒體.md "wikilink") | [PRODUCEX101](https://zh.wikipedia.org/wiki/PRODUCEX101 "wikilink") | 國憲、有彬       |     |
+|                       |                                                     |                                                                     |             |      |
+| --------------------- | --------------------------------------------------- | ------------------------------------------------------------------- | ----------- | ---- |
+| 日期                    | 電視臺                                                 | 節目名稱                                                                | 參與成員        | 備註   |
+| 2014年                 | [MNET](../Page/Mnet媒體.md "wikilink")                | [Super Star K6](../Page/SUPER_STAR_K.md "wikilink")                 | 有彬          | 出道前  |
+| 2017年4月11日－2017年6月27日 | K-STAR                                              | [我是演員](../Page/我是演員.md "wikilink")                                  | 有彬          |      |
+| 2018年                 | [JTBC](../Page/JTBC.md "wikilink")                  | [MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")         | 國憲、準燮、天真、恩洙 |      |
+| 2018年                 | [JTBC](../Page/JTBC.md "wikilink")                  | [THE TEAM CHEF](../Page/The_Team_Chef.md "wikilink")                | 泰彬          | 全季   |
+| 2019年                 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | [戀愛的參見2](https://zh.wikipedia.org/wiki/戀愛的參見2 "wikilink")           | 準燮          | EP32 |
+| 2019年                 | [MNET](../Page/Mnet媒體.md "wikilink")                | [PRODUCEX101](https://zh.wikipedia.org/wiki/PRODUCEX101 "wikilink") | 國憲、有彬       |      |
 
 ## 獎項
 

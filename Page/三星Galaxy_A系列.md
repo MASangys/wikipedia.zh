@@ -51,10 +51,10 @@
   - [Samsung Galaxy A20](https://zh.wikipedia.org/wiki/三星Galaxy_A20 "wikilink")
   - [Samsung Galaxy A30](https://zh.wikipedia.org/wiki/三星Galaxy_A30 "wikilink")
   - [Samsung Galaxy A40](https://zh.wikipedia.org/wiki/三星Galaxy_A40 "wikilink")
-  - [Samsung Galaxy A40s](https://zh.wikipedia.org/wiki/三星Galaxy_A40s "wikilink") (國際版M30)
+  - [Samsung Galaxy A40s](https://zh.wikipedia.org/wiki/三星Galaxy_A40s "wikilink") （國際版M30）
   - [Samsung Galaxy A50](../Page/三星Galaxy_A50.md "wikilink")
   - [Samsung Galaxy A60](../Page/三星Galaxy_A60.md "wikilink")
-  - [Samsung Galaxy A60 元氣版(中國版A60)](../Page/三星Galaxy_A60.md "wikilink")
+  - [Samsung Galaxy A60 元氣版](../Page/三星Galaxy_A60.md "wikilink")（中國版A60）
   - [Samsung Galaxy A70](../Page/三星Galaxy_A70.md "wikilink")
   - [Samsung Galaxy A80](../Page/三星Galaxy_A80.md "wikilink")
 

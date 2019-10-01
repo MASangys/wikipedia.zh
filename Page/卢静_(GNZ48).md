@@ -1,4 +1,4 @@
-**卢静**（），中国大型女子偶像团体[GNZ48成员](https://zh.wikipedia.org/wiki/GNZ48 "wikilink")，所属队伍为Team NIII。她于2016年1月18日加入[SNH48六期生](https://zh.wikipedia.org/wiki/SNH48 "wikilink")，并于4月20日移籍至GNZ48 Team NIII，及于该月30日的[GNZ48 Team NIII 1st Stage“我的太阳”公演出道](https://zh.wikipedia.org/wiki/向日葵组_1st_Stage“我的太阳”#GNZ48_Team_NIII_1st_Stage「我的太陽」公演 "wikilink")\[1\]。
+**卢静**（），中国大型女子偶像团体[GNZ48成员](https://zh.wikipedia.org/wiki/GNZ48 "wikilink")，所属队伍为Team NIII。她于2016年1月18日加入[SNH48](../Page/SNH48.md "wikilink")六期生，并于4月20日移籍至GNZ48 Team NIII，及于该月30日的《[我的太阳](https://zh.wikipedia.org/wiki/向日葵组_1st_Stage“我的太阳”#GNZ48_Team_NIII_1st_Stage「我的太陽」公演 "wikilink")》公演出道\[1\]。
 
 ## 經歷
 
@@ -19,7 +19,7 @@
   - 剧场自我介绍词为“嘘——别闹，**我想静静**”。
   - 由于在《SAY NO》的MV中饰演一位一直在等待上场机会的替补篮球运动员而获得关注，并有[广东宏远篮球俱乐部](../Page/广东宏远篮球俱乐部.md "wikilink")的支持者将其与[赤木晴子](../Page/赤木晴子.md "wikilink")相提并论。\[20\]
   - 由于身高较矮，而时常被其支持者取笑，甚至有支持者生造了计量单位“闹”（1“闹”≈1.5米）。\[21\]
-  - 熟知并热爱48系文化，并自[SNH48二期生招募时就报名参选](https://zh.wikipedia.org/wiki/SNH48 "wikilink")，直至最终入选SNH48六期生。\[22\]
+  - 熟知并热爱48系文化，并自[SNH48](../Page/SNH48.md "wikilink")二期生招募时就报名参选，直至最终入选SNH48六期生。\[22\]
   - 在GNZ48自制综艺节目《蛊灵精怪GNZ》中以被整蛊时始终能镇定应对的形象示人，并被支持者称为“中泰整蛊王者”。运营方后来亦有使用该称呼。\[23\]
 
 ## 音乐作品
@@ -118,6 +118,14 @@
 <td><p>为中心成员<br />
 <a href="../Page/SNH48_Group第五届年度金曲大赏BEST_50.md" title="wikilink">第五届B50曜阳组第</a>7名 &lt;!--|-</p></td>
 </tr>
+<tr class="odd">
+<td><p>25</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/SNH48原創發行作品列表#时间的歌" title="wikilink">时间的歌</a>》</p></td>
+<td><p>有你</p></td>
+<td><p>梦想组</p></td>
+<td><p>★</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -162,25 +170,25 @@
 
 ### 网络节目
 
-| 日期          | 節目名稱                                                    | 播出平台                                                                                             | 備註                                                           |
-| ----------- | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------ |
-|             |                                                         |                                                                                                  |                                                              |
-| GNZ48专属综艺   |                                                         |                                                                                                  |                                                              |
-| 2016年8月8日   | GNZone                                                  | [騰訊視頻](https://zh.wikipedia.org/wiki/騰訊視頻 "wikilink")、[Bilibili](../Page/Bilibili.md "wikilink") | 第4集                                                          |
-| 2017年7月5日   | GantoNeZe                                               | [Bilibili](../Page/Bilibili.md "wikilink")                                                       | 第8集                                                          |
-| 2017年11月15日 | GNZero-〇蛋廚房                                             | [Bilibili](../Page/Bilibili.md "wikilink")                                                       | 与[BEJ48联合制作](https://zh.wikipedia.org/wiki/BEJ48 "wikilink") |
-| 2017年12月15日 | 第二季第1集                                                  |                                                                                                  |                                                              |
-| 2018年4月1日-  | 蛊灵精怪GNZ                                                 | [Bilibili](../Page/Bilibili.md "wikilink")                                                       | 第1、5、7-11集                                                   |
-| SNH48专属综艺   |                                                         |                                                                                                  |                                                              |
-| 2018年3月30日  | [SNHello](../Page/SNHello.md "wikilink")                | [腾讯视频](../Page/腾讯视频.md "wikilink")                                                               | 第二季第1集                                                       |
-| 2018年4月27日  | 第二季第5集                                                  |                                                                                                  |                                                              |
-| 2018年7月1日   | [梦想演播厅](https://zh.wikipedia.org/wiki/梦想演播厅 "wikilink") | [爱奇艺](../Page/爱奇艺.md "wikilink")                                                                 | 第4集                                                          |
-| BEJ48专属综艺   |                                                         |                                                                                                  |                                                              |
-| 2017年11月8日  | 彼异界播报                                                   | [Bilibili](../Page/Bilibili.md "wikilink")                                                       | 与GNZ48联合制作                                                   |
-|             |                                                         |                                                                                                  |                                                              |
-| 其它節目        |                                                         |                                                                                                  |                                                              |
-| 2016年11月30日 | 贴吧演播室                                                   | [百度贴吧](../Page/百度贴吧.md "wikilink")                                                               |                                                              |
-| 2019年5月7日-  | 说好的六点见                                                  | [今日头条](../Page/今日头条.md "wikilink")                                                               |                                                              |
+| 日期              | 節目名稱                                                    | 播出平台                                                                                             | 備註                                                           |
+| --------------- | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------ |
+|                 |                                                         |                                                                                                  |                                                              |
+| GNZ48专属综艺       |                                                         |                                                                                                  |                                                              |
+| 2016年8月8日       | GNZone                                                  | [騰訊視頻](https://zh.wikipedia.org/wiki/騰訊視頻 "wikilink")、[Bilibili](../Page/Bilibili.md "wikilink") | 第4集                                                          |
+| 2017年7月5日       | GantoNeZe                                               | [Bilibili](../Page/Bilibili.md "wikilink")                                                       | 第8集                                                          |
+| 2017年11月15日     | GNZero-〇蛋廚房                                             | [Bilibili](../Page/Bilibili.md "wikilink")                                                       | 与[BEJ48联合制作](https://zh.wikipedia.org/wiki/BEJ48 "wikilink") |
+| 2017年12月15日     | 第二季第1集                                                  |                                                                                                  |                                                              |
+| 2018年4月1日-      | 蛊灵精怪GNZ                                                 | [Bilibili](../Page/Bilibili.md "wikilink")                                                       | 第1、5、7-11集                                                   |
+| SNH48专属综艺       |                                                         |                                                                                                  |                                                              |
+| 2018年3月30日      | [SNHello](../Page/SNHello.md "wikilink")                | [腾讯视频](../Page/腾讯视频.md "wikilink")                                                               | 第二季第1集                                                       |
+| 2018年4月27日      | 第二季第5集                                                  |                                                                                                  |                                                              |
+| 2018年7月1日       | [梦想演播厅](https://zh.wikipedia.org/wiki/梦想演播厅 "wikilink") | [爱奇艺](../Page/爱奇艺.md "wikilink")                                                                 | 第4集                                                          |
+| BEJ48专属综艺       |                                                         |                                                                                                  |                                                              |
+| 2017年11月8日      | 彼异界播报                                                   | [Bilibili](../Page/Bilibili.md "wikilink")                                                       | 与GNZ48联合制作                                                   |
+|                 |                                                         |                                                                                                  |                                                              |
+| 其它節目            |                                                         |                                                                                                  |                                                              |
+| 2016年11月30日     | 贴吧演播室                                                   | [百度贴吧](../Page/百度贴吧.md "wikilink")                                                               |                                                              |
+| 2019年5月7日-7月23日 | 说好的六点见                                                  | [今日头条](../Page/今日头条.md "wikilink")                                                               |                                                              |
 
 ## 參考資料
 

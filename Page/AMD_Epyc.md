@@ -369,7 +369,7 @@ DDR4-2666</p></td>
 1.
 2.  <https://www.anandtech.com/show/14724/the-amd-epyc-rome-launch-live-blog>
 3.  <https://www.amd.com/en/processors/epyc-7002-series>
-4.  <https://www.pcper.com/reviews/Processors/AMD-EPYC-7000-Series-Data-Center-Processor-Launch-Gunning-Xeon/Architectural-Outl>
+4.
 5.  <https://www.nextplatform.com/2017/05/17/amd-disrupts-two-socket-server-status-quo/>
 6.
 7.

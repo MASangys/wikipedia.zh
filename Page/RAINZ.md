@@ -86,7 +86,7 @@ SOLO</p></td>
 <td><p>A</p></td>
 <td><p>紫色</p></td>
 <td><p>OUI</p></td>
-<td><p>-</p></td>
+<td><p>SOLO</p></td>
 <td><p>83</p></td>
 <td></td>
 <td></td>
@@ -116,7 +116,7 @@ SOLO</p></td>
 <td><p>B</p></td>
 <td><p>紅色</p></td>
 <td><p>K-Tigers Entertainment</p></td>
-<td><p>K-Tigers</p></td>
+<td><p><a href="../Page/K-Tigers_Zero.md" title="wikilink">K-Tigers Zero</a></p></td>
 <td><p>45</p></td>
 <td></td>
 <td></td>
@@ -131,7 +131,7 @@ SOLO</p></td>
 <td><p>A</p></td>
 <td><p>粉紅/橙</p></td>
 <td><p>WH CREATIVE</p></td>
-<td><p>-</p></td>
+<td><p>SOLO</p></td>
 <td><p>31</p></td>
 <td></td>
 <td></td>
@@ -156,7 +156,7 @@ SOLO</p></td>
 <ul>
 <li>發行日期：2017年10月12日</li>
 <li>語言：韓語</li>
-<li>專輯銷量：27,528+[15]</li>
+<li>專輯銷量：28,657+[15]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -166,7 +166,7 @@ SOLO</p></td>
 <ul>
 <li>發行日期：2018年1月23日</li>
 <li>語言：韓語</li>
-<li>專輯銷量：</li>
+<li>專輯銷量：17,665+[16]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -188,7 +188,7 @@ SOLO</p></td>
 <ul>
 <li>發行日期：2018年8月1日</li>
 <li>語言：日語</li>
-<li>專輯銷量：16,141+[16]</li>
+<li>專輯銷量：16,141+[17]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -322,3 +322,4 @@ SOLO</p></td>
 14.
 15.
 16.
+17.

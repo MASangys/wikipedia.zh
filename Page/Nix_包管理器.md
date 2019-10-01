@@ -19,7 +19,7 @@ Nix 在安装包时依赖于自身的目录结构。所有的包均会被安装�
   - [Maak](https://zh.wikipedia.org/wiki/Maak "wikilink") -  一个类似于 [make](https://zh.wikipedia.org/wiki/make "wikilink") 的[自动化构建工具](../Page/組建自動化.md "wikilink")，它被设计用于构建复杂的软件系统。
   - [脚本语言](../Page/脚本语言.md "wikilink")
   - [软件包（软件包管理系统）](../Page/软件包管理系统.md "wikilink")
-  - [GNU Guix](https://zh.wikipedia.org/wiki/GNU_Guix "wikilink") - 另一个 GNU/Linux 发行版的声明式包管理器，基于 Nix 构建，不过采用了更加普及的 [GNU Guile](../Page/GNU_Guile.md "wikilink") 语言而非 Nix 的[领域特定语言进行配置和定制](https://zh.wikipedia.org/wiki/领域特定语言 "wikilink")。
+  - [GNU Guix](https://zh.wikipedia.org/wiki/GNU_Guix "wikilink") - 另一个 GNU/Linux 发行版的声明式包管理器，基于 Nix 构建，不过采用了更加普及的 [GNU Guile](../Page/GNU_Guile.md "wikilink") 语言而非 Nix 的[领域特定语言](../Page/领域特定语言.md "wikilink")进行配置和定制。
   - [批处理](https://zh.wikipedia.org/wiki/批处理任务 "wikilink")
   - [办公自动化](../Page/办公自动化.md "wikilink")
   - [运维自动化](https://zh.wikipedia.org/wiki/Runbook#Runbook_Automation "wikilink") - 包管理器的潜在应用场景

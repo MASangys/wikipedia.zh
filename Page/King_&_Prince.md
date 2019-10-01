@@ -69,7 +69,7 @@
 <td><p>日本<a href="https://zh.wikipedia.org/wiki/琦玉县" title="wikilink">琦玉縣</a></p></td>
 <td><p>167 cm</p></td>
 <td><p>A型</p></td>
-<td><p>紫式部[8]</p></td>
+<td><p>紫</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/岩橋玄樹.md" title="wikilink">岩橋玄樹</a></p></td>
@@ -223,8 +223,8 @@
 <td></td>
 <td><p>初回限定盤A(CD+DVD)</p></td>
 <td><p>UPCJ-9011</p></td>
-<td></td>
-<td></td>
+<td><p>1位</p></td>
+<td><p>台壓版2019年8月30日發售</p></td>
 </tr>
 <tr class="even">
 <td><p>初回限定盤B(CD+DVD)</p></td>
@@ -349,4 +349,3 @@ UPCJ-9010</p></td>
 5.  ジャニーズJr.カレンダーRED 2018/4 - 2019/3 ＜付録＞カレンダー付きジャニーズJr.DATA BOOK (p.34)
 6.  『Myojo』2019年5月号85ページ
 7.
-8.

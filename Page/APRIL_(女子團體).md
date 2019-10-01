@@ -114,13 +114,11 @@
 | 睿娜                              |
 | Rachel                          |
 | 真率                              |
-
-| 已退出成員 |
-| ----- |
-| 藝名    |
-| 中文    |
-| 昭珉    |
-| 玹珠    |
+| 已退出成員                           |
+| 藝名                              |
+| 中文                              |
+| 昭珉                              |
+| 玹珠                              |
 
 ### 成員變遷表
 
@@ -205,11 +203,11 @@ PlotData =
 
 ### 話劇
 
-|                   |             |          |      |    |    |    |
-| ----------------- | ----------- | -------- | ---- | -- | -- | -- |
-| 日期                | 地點          | 劇名       | 參演成員 | 角色 | 性質 | 備註 |
-| 2019年8月23日-10月13日 | 首爾大學路Good劇院 | 《안녕 말판씨》 | 采媛   | 昭媛 | 主角 |    |
-|                   |             |          |      |    |    |    |
+|                   |             |           |      |     |    |    |
+| ----------------- | ----------- | --------- | ---- | --- | -- | -- |
+| 日期                | 地點          | 劇名        | 參演成員 | 角色  | 性質 | 備註 |
+| 2019年8月23日-10月13日 | 首爾大學路Good劇院 | 《再見 馬方先生》 | 采媛   | 周昭媛 | 主角 |    |
+|                   |             |           |      |     |    |    |
 
 ### 戲劇
 
@@ -225,317 +223,13 @@ PlotData =
 | 2018年                                               | Playlist                                                        | 《[A-TEEN](../Page/A-TEEN_\(電視劇\).md "wikilink")》 | 娜恩   | 金荷娜    | 女主角 | 網路劇 |
 | 2019年                                               | 《[A-TEEN 2](../Page/A-TEEN_2_\(電視劇\).md "wikilink")》            |                                                  |      |        |     |     |
 | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") | 《嘻哈王》                                                           | 宋河珍                                              | 迷你劇  |        |     |     |
-| Playlist                                            | 《再次遇見的你》                                                        | 真率                                               | 河多順  | 女主角    | 網路劇 |     |
-| [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 《[偶然發現的一天](https://zh.wikipedia.org/wiki/偶然發現的一天 "wikilink")》   | 娜恩                                               | 呂珠多  | 第二女主角  |     |     |
+| Playlist                                            | 《再次遇見的你》                                                        | 真率                                               | 何多絮  | 主要角色   | 網路劇 |     |
+| [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 《[意外發現的一天](../Page/意外發現的一天.md "wikilink")》                      | 娜恩                                               | 呂珠多  | 第二女主角  |     |     |
 |                                                     |                                                                 |                                                  |      |        |     |     |
-
-### 固定節目
-
-|                       |                                                               |                                                              |           |      |
-| --------------------- | ------------------------------------------------------------- | ------------------------------------------------------------ | --------- | ---- |
-| 日期                    | 電視台                                                           | 節目名稱                                                         | 參演成員      | 備註   |
-| 2016年1月22日－4月1日       | [Mnet](../Page/Mnet.md "wikilink")                            | 《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》           | 彩暻        | 競演者  |
-| 2016年7月19日-9月27日      | [JTBC](../Page/JTBC.md "wikilink")                            | 《[Girl Spirit](../Page/Girl_Spirit.md "wikilink")》           | 真率        |      |
-| 2017年4月11日-6月27日      | K-STAR                                                        | 《[我是演員](../Page/我是演員.md "wikilink")》                         | 娜恩        | 固定嘉賓 |
-| 2017年9月22日-10月20日     | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")           | 《[叢林的法則](https://zh.wikipedia.org/wiki/叢林的法則 "wikilink")》斐濟篇 | 彩暻        | 嘉賓   |
-| 2018年1月23日-2019年5月28日 | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")           | 《[深夜正式演藝](../Page/深夜正式演藝.md "wikilink")》                     | 娜恩        | 固定嘉賓 |
-| 2018年2月23日-3月30日      | [EBS](https://zh.wikipedia.org/wiki/EBS "wikilink")           | 《MoMoe 발랑 18세기》                                              | 娜恩、真率     |      |
-| 2018年5月28日-7月30日      | MBC SPORTS+                                                   | 《7전 8큐 시즌 2》                                                 | Rachel    |      |
-| 2018年9月15日-11月3日      | OGN                                                           | 《정복자들 시즌3 : 파밍웨이 to SWC》                                     | 睿娜、Rachel |      |
-| 2018年11月1日-           | NAVER TV                                                      | 《블루밍멜로디 시즌2》                                                 | 彩暻        |      |
-| 2019年2月22日-8月2日       | [On Style](https://zh.wikipedia.org/wiki/On_Style "wikilink") | 《[Get it beauty](../Page/Get_it_beauty.md "wikilink")2019》   |           |      |
-| 2019年6月8日-8月17日       | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")           | 《[高校供餐王](../Page/高校供餐王.md "wikilink")》                       | |娜恩       |      |
-| 2019年7月17日-           | [Channel A](../Page/Channel_A.md "wikilink")                  | 《[A Rewind](../Page/A_Rewind.md "wikilink")》                 | 真率        |      |
-|                       |                                                               |                                                              |           |      |
-
-### 節目主持
-
-|                     |                                                     |                                                                       |            |            |
-| ------------------- | --------------------------------------------------- | --------------------------------------------------------------------- | ---------- | ---------- |
-| 日期                  | 電視台                                                 | 節目名稱                                                                  | 參演成員       | 備註         |
-| 2016年9月5日－2017年9月1日 | [EBS](https://zh.wikipedia.org/wiki/EBS "wikilink") | 《생방송 톡\!톡\! 보니하니》                                                     | 真率         |            |
-| 2017年2月3日、2月10日     | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | 《[音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")》               | 娜恩         | Special MC |
-| 2017年3月30日－8月25日    | [EBS](https://zh.wikipedia.org/wiki/EBS "wikilink") | 《동요 구출작전》                                                             | 睿娜、Rachel  |            |
-| 2017年6月8日－8月3日      | 東亞TV                                                | 《뷰티끄》                                                                 | 彩暻         |            |
-| 2017年6月15日、9月21日    | [Mnet](../Page/Mnet.md "wikilink")                  | 《[M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》 | 娜恩         | Special MC |
-| 2017年6月23日          | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | 《[音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")》               |            |            |
-| 2017年8月8日－9月20日     | 東亞TV                                                | 《샵에서 만나》                                                              | 彩暻         |            |
-| 2017年9月28日          | [Mnet](../Page/Mnet.md "wikilink")                  | 《[M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》 | Special MC |            |
-| 2018年7月25日－         | 東亞TV                                                | 《샵에서 만나》                                                              |            |            |
-| 2018年8月3日－          | CELUV.TV                                            | 《演藝少女》                                                                | 真率         |            |
-
-### 綜藝節目
-
-| 2015年綜藝節目列表 |
-| ----------- |
-| |日期         |
-| 9月9日        |
-| 9月11日       |
-| 9月28日       |
-| 10月9日       |
-| 10月17日      |
-| 10月29日      |
-| 11月22日      |
-| 11月23日      |
-| 11月26日      |
-| 12月20日      |
-
-| 2016年綜藝節目列表 |
-| ----------- |
-| |日期         |
-| 1月7日        |
-| 1月8日        |
-| 1月19日       |
-| 2月9、10日     |
-| 3月30日、4月6日  |
-| 4月10日       |
-| 4月23日       |
-| 5月5日        |
-| 5月12日       |
-| 5月17日       |
-| 5月18日       |
-| 5月24日       |
-| 5月25日       |
-| 6月21日、7月5日  |
-| 6月24日       |
-| 7月16日       |
-| 7月21日       |
-| 7月31日       |
-| 8月14日       |
-| 8月19日、26日   |
-| 8月26日、9月9日  |
-| 9月6日        |
-| 9月14日       |
-| 9月26日       |
-| 10月14日      |
-| 10月30日      |
-
-| 2017年綜藝節目列表 |
-| ----------- |
-| |日期         |
-| 1月10日       |
-| 1月17日       |
-| 1月28日       |
-| 1月29日       |
-| 2月2日        |
-| 2月8日        |
-| 2月18日       |
-| 2月20日       |
-| 3月9日        |
-| 3月11日、18日   |
-| 3月17日       |
-| 3月17日       |
-| 3月26日       |
-| 4月1日        |
-| 4月9日        |
-| 5月6日        |
-| 5月13日、20日   |
-| 5月23日       |
-| 5月23日       |
-| 5月27日       |
-| 5月28日       |
-| 6月5日        |
-| 6月11日       |
-| 6月27日       |
-| 7月2日        |
-| 7月5日        |
-| 7月17日       |
-| 7月22日       |
-| 7月25日       |
-| 7月28日       |
-| 8月10日       |
-| 8月25日       |
-| 8月26日       |
-| 9月6日        |
-| 9月7日        |
-| 9月15日       |
-| 9月20日       |
-| 10月10日      |
-| 10月11日      |
-| 10月15日      |
-| 11月2日       |
-| 11月12日、26日  |
-| 12月1日       |
-| 12月7日       |
-
-| 2018年綜藝節目列表 |
-| ----------- |
-| |日期         |
-| 1月21日       |
-| 2月15日、16日   |
-| 2月16日       |
-| 3月5日        |
-| 3月18日       |
-| 3月31日       |
-| 4月11日       |
-| 5月1日        |
-| 6月13日       |
-| 7月15日       |
-| 12月27日      |
-
-| 2019年綜藝節目列表 |
-| ----------- |
-| |日期         |
-| 2月22日       |
-| 3月1日        |
-| 4月15日       |
-| 5月10日       |
-| 5月17日       |
-| 5月24日       |
-| 5月26日       |
-| 6月8日        |
-| 6月14日       |
-| 7月5日        |
-| 7月10日       |
-| 7月12日       |
-| 7月26日       |
-
-### 專屬節目
-
-|                       |                                                                        |                                          |      |               |
-| --------------------- | ---------------------------------------------------------------------- | ---------------------------------------- | ---- | ------------- |
-| 日期                    | 電視台                                                                    | 節目名稱                                     | 參演成員 | 備註            |
-| 2015年7月27日-8月19日      | [DSP Media](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")        | 《APRIL's episode 》                       | 全員   |               |
-| 2015年8月11日－2019年1月22日 | [DSP Media](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")        | 《APRIL's ON AIR PRIL》                    | 全員   | 共38集          |
-| 2015年10月27日－11月21日    | [DSP Media](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")        | 《Here Goes April (에이프릴이 간다)》             | 全員   | 共20集          |
-| 2016年5月2日－6月22日       | [GTV](https://zh.wikipedia.org/wiki/GTV_\(韓國電視台\) "wikilink")          | 《My Wish》                                | 全員   |               |
-| 2017年4月4日－5月2日        | [Mnet](../Page/Mnet.md "wikilink")                                     | 《[AIFril](../Page/AIFril.md "wikilink")》 | 全員   | 共5集           |
-| 2017年5月8日－ 5月26日      | [Naver TV](https://zh.wikipedia.org/wiki/Naver_TV "wikilink")          | 《APRIL's Secret》                         | 全員   |               |
-| 2017年9月9日－11月16日      | [Naver TV](https://zh.wikipedia.org/wiki/Naver_TV "wikilink")          | 《Papalunch Aprilbox》                     | 全員   | 共20集          |
-| 2017年9月27日－11月1日      | [Naver TV](https://zh.wikipedia.org/wiki/Naver_TV "wikilink")          | 《Boomerang with APRIL》                   | 全員   |               |
-| 2018年6月4日－            | [MUSIC ON\! TV](https://zh.wikipedia.org/wiki/MUSIC_ON!_TV "wikilink") | 《APRIL通信》                                | 全員   | ZOOM UP\!의 코너 |
-| 2018年10月31日－          | 해요TV                                                                   | 《I ROLE PLAY》                            | 全員   |               |
-| 2019年3月15日－           | [DSP Media](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")        | 《ON AIRPRIL S2》                          | 全員   |               |
-|                       |                                                                        |                                          |      |               |
-
-### 音樂現場
-
-| 2015年                                                                  |
-| ---------------------------------------------------------------------- |
-| 節目名稱                                                                   |
-| Dream Candy                                                            |
-| [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")               |
-| [Show Champion](../Page/Show_Champion.md "wikilink")                   |
-| [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") |
-| Simply K-Pop                                                           |
-| [Music Bank](https://zh.wikipedia.org/wiki/KBS音樂銀行 "wikilink")         |
-| [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     |
-| [人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")               |
-| Knock Knock                                                            |
-| [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")               |
-| [Show Champion](../Page/Show_Champion.md "wikilink")                   |
-| Muah\!                                                                 |
-| [Show Champion](../Page/Show_Champion.md "wikilink")                   |
-| [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") |
-| Simply K-Pop                                                           |
-| [Music Bank](https://zh.wikipedia.org/wiki/KBS音樂銀行 "wikilink")         |
-| [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     |
-| [人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")               |
-| Snowman                                                                |
-| Simply K-Pop                                                           |
-
-| 2016年                                                                  |
-| ---------------------------------------------------------------------- |
-| 節目名稱                                                                   |
-| Snowman                                                                |
-| Simply K-Pop                                                           |
-| Tinkerbell                                                             |
-| [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")               |
-| [Show Champion](../Page/Show_Champion.md "wikilink")                   |
-| [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") |
-| Simply K-Pop                                                           |
-| [Music Bank](https://zh.wikipedia.org/wiki/KBS音樂銀行 "wikilink")         |
-| [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     |
-| [人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")               |
-| Jelly                                                                  |
-| [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")               |
-| [Show Champion](../Page/Show_Champion.md "wikilink")                   |
-
-| 2017年                                                                  |
-| ---------------------------------------------------------------------- |
-| 節目名稱                                                                   |
-| April Story                                                            |
-| [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")               |
-| [Show Champion](../Page/Show_Champion.md "wikilink")                   |
-| [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") |
-| Simply K-Pop                                                           |
-| [Music Bank](https://zh.wikipedia.org/wiki/KBS音樂銀行 "wikilink")         |
-| [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     |
-| [人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")               |
-| Wow                                                                    |
-| [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") |
-| MAYDAY                                                                 |
-| [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")               |
-| [Show Champion](../Page/Show_Champion.md "wikilink")                   |
-| [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") |
-| [Music Bank](https://zh.wikipedia.org/wiki/KBS音樂銀行 "wikilink")         |
-| [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     |
-| [人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")               |
-| Lovesick                                                               |
-| [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") |
-| Take My Hand                                                           |
-| [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")               |
-| [Show Champion](../Page/Show_Champion.md "wikilink")                   |
-| [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") |
-| [Music Bank](https://zh.wikipedia.org/wiki/KBS音樂銀行 "wikilink")         |
-| [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     |
-| [人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")               |
-| Dding                                                                  |
-| [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") |
-| [Music Bank](https://zh.wikipedia.org/wiki/KBS音樂銀行 "wikilink")         |
-
-| 2018年                                                                  |
-| ---------------------------------------------------------------------- |
-| 節目名稱                                                                   |
-| The Blue Bird                                                          |
-| [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")               |
-| [Show Champion](../Page/Show_Champion.md "wikilink")                   |
-| [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") |
-| [Music Bank](https://zh.wikipedia.org/wiki/KBS音樂銀行 "wikilink")         |
-| [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     |
-| [人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")               |
-| BEEP                                                                   |
-| [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")               |
-| [Show Champion](../Page/Show_Champion.md "wikilink")                   |
-| Oh\! my mistake                                                        |
-| [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")               |
-| [Show Champion](../Page/Show_Champion.md "wikilink")                   |
-| [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") |
-| [Music Bank](https://zh.wikipedia.org/wiki/KBS音樂銀行 "wikilink")         |
-| [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     |
-| [人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")               |
-| Oh-e-Oh                                                                |
-| [Show Champion](../Page/Show_Champion.md "wikilink")                   |
-| [Music Bank](https://zh.wikipedia.org/wiki/KBS音樂銀行 "wikilink")         |
-| [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     |
-| [人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")               |
-
-### 其他特別舞台
-
-| 2015年                                                              |
-| ------------------------------------------------------------------ |
-| 節目名稱                                                               |
-| Mr.                                                                |
-| [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink") |
-|                                                                    |
-
-| 2017年                                                         |
-| ------------------------------------------------------------- |
-| 節目名稱                                                          |
-| L.U.V                                                         |
-| [THE SHOW](https://zh.wikipedia.org/wiki/THE_SHOW "wikilink") |
-|                                                               |
-
-| 2018年                                                         |
-| ------------------------------------------------------------- |
-| 節目名稱                                                          |
-| Not Spring, Love or Cherry Blossoms（採媛出演）                     |
-| [THE SHOW](https://zh.wikipedia.org/wiki/THE_SHOW "wikilink") |
-|                                                               |
 
 ## 演唱會
 
-| Showcase |-style="background:\#FF95CA; font-weight:bold;left | 日期                   | 舉行地點                | 備註 |
+| Showcase |-style="background:\#FF95CA; font-weight:bold;left | |日期                  | 舉行地點                | 備註 |
 | ------------------------------------------------------------ | -------------------- | ------------------- | -- |
 | 2015年8月24日                                                   | 首爾三成洞COEX            | 首張迷你專輯《Dreaming》    |    |
 | 2016年4月27日                                                   | 首爾 Lotte Card 藝術中心   | 第2張迷你專輯《Spring》     |    |
@@ -543,22 +237,22 @@ PlotData =
 | 2017年9月20日                                                   | 首爾江南區一指藝術中心          | 第4張迷你專輯《Eternity》   |    |
 | 2018年4月21日                                                   | 東京豐洲PIT              | 首張日語單曲《Tinker Bell》 |    |
 
-| 歌迷見面會 |-style="background:\#FF95CA; font-weight:bold; left | 日期 | 站次               | 舉行地點 |
-| ---------------------------------------------------------- | -- | ---------------- | ---- |
-| 2016年8月21日                                                 | 韓國 | 首爾Ilchi Art Hall |      |
-| 2016年3月6日                                                  | 日本 | Toyos PIT        |      |
-| 2017年3月20日                                                 | 日本 | 東京品川城際大廳         |      |
-| 2018年4月14日                                                 | 韓國 | 首爾樂天世界           |      |
-|                                                            |    |                  |      |
+| 歌迷見面會 |-style="background:\#FF95CA; font-weight:bold; left | |日期 | 站次               | 舉行地點 |
+| ---------------------------------------------------------- | --- | ---------------- | ---- |
+| 2016年8月21日                                                 | 韓國  | 首爾Ilchi Art Hall |      |
+| 2016年3月6日                                                  | 日本  | Toyos PIT        |      |
+| 2017年3月20日                                                 | 日本  | 東京品川城際大廳         |      |
+| 2018年4月14日                                                 | 韓國  | 首爾樂天世界           |      |
+|                                                            |     |                  |      |
 
-| 單獨演唱會 |-style="background:\#FF95CA; font-weight:bold; left | 日期 | 站次                   | 舉行地點 |
-| ---------------------------------------------------------- | -- | -------------------- | ---- |
-| 2016年2月27日                                                 | 韓國 | 首爾江南區Baekam Art Hall |      |
-| 2016年10月15日                                                | 日本 | 東京品川城際大廳             |      |
-| 2017年12月9日                                                 | 日本 | 東京品川城際大廳             |      |
-| 2017年12月24日                                                | 韓國 | 乐天一山店文化馆             |      |
+| 單獨演唱會 |-style="background:\#FF95CA; font-weight:bold; left | |日期 | 站次                   | 舉行地點 |
+| ---------------------------------------------------------- | --- | -------------------- | ---- |
+| 2016年2月27日                                                 | 韓國  | 首爾江南區Baekam Art Hall |      |
+| 2016年10月15日                                                | 日本  | 東京品川城際大廳             |      |
+| 2017年12月9日                                                 | 日本  | 東京品川城際大廳             |      |
+| 2017年12月24日                                                | 韓國  | 乐天一山店文化馆             |      |
 
-| 大型演唱會 |-style="background:\#FF95CA; font-weight:bold;align=left | 年份                                | 日期                           | 演唱會名稱                        | 舉行地點 |
+| 大型演唱會 |-style="background:\#FF95CA; font-weight:bold;align=left | |年份                               | 日期                           | 演唱會名稱                        | 舉行地點 |
 | --------------------------------------------------------------- | --------------------------------- | ---------------------------- | ---------------------------- | ---- |
 | 2015年                                                           | 9月14日                             | MBC「2015 DMC FESTIVAL」       | 韓國－上岩文化廣場                    |      |
 | 9月20日                                                           | 2015韓流夢想音樂節                       | 韓國－慶州市民運動場                   |                              |      |

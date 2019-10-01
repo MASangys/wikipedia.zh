@@ -10,7 +10,9 @@ NCT取自“Neo Culture Technology（新文化技術）”的首字母，象徵�
 
   - 應援顏色
 
-官方應援顏色為螢光綠，在2018年5月8日，於〈NCT 2018 FAN PARTY‘SPRING’〉中正式宣布。\[8\]
+NCT的官方應援顏色為螢光綠，在2018年5月8日，於〈NCT 2018 FAN PARTY‘SPRING’〉中正式宣布。\[8\]
+
+WayV的官方應援顏色同為螢光綠，在2019年7月10日的團綜《少年威計劃》拍攝時所舉辦的〈威神V天津見面會〉中正式宣布，當日全場粉絲都使用主辦方提供的應援燈為組合應援，成功創造中國內地男團罕見的統一應援海。
 
   - 應援手燈
 
@@ -18,7 +20,9 @@ NCT取自“Neo Culture Technology（新文化技術）”的首字母，象徵�
 
   - 粉絲名稱
 
-粉絲名為「NCTzen」。由於團名音似「N City」，此粉絲名便取自音似「N Citizen」，彷彿NCT是「N City」的市長，而粉絲們則代表這座城裡的市民們\[10\]。由於「NCTzen」有點長，同時也著另一個外號「C-ZEN」，聽起來像是四季的英文的（SEASON），有著粉絲彷彿是四季一樣這麼無可取代的意思。該名首次於2017年6月12日的V APP直播中公佈，並由當時現有的NCT所有分隊成員共同決定。
+NCT的粉絲名為「NCTzen」。由於團名音似「N City」，此粉絲名便取自音似「N Citizen」，彷彿NCT是「N City」的市長，而粉絲們則代表這座城裡的市民們\[10\]。由於「NCTzen」有點長，同時也著另一個外號「C-ZEN」，聽起來像是四季的英文的（SEASON），有著粉絲彷彿是四季一樣這麼無可取代的意思。該名首次於2017年6月12日的V APP直播中公佈，並由當時現有的NCT所有分隊成員共同決定。
+
+WayV的粉絲名為「WayZenNi」，是中文「威神V珍惜你」的讀音簡稱，意味著WayV會時時刻刻守護、珍惜、愛護粉絲的一份心。該名由WayV成員們親自挑選。\[11\]
 
 ## 分隊資料
 
@@ -285,15 +289,15 @@ BackgroundColors = bars:bars
 
   - 公佈組合核心概念預告影片
 
-1月8日，官方公佈首支NCT組合核心概念預告影片\[11\]，1月28日，公佈第二支組合核心概念預告片\[12\]，2月1日，公佈第三支組合核心概念預告片\[13\]。
+1月8日，官方公佈首支NCT組合核心概念預告影片\[12\]，1月28日，公佈第二支組合核心概念預告片\[13\]，2月1日，公佈第三支組合核心概念預告片\[14\]。
 
   - 第一組子團NCT U發表兩張單曲出道
 
-4月4日，公佈首組子團體**NCT U**及其中三位成員在玹、Mark和Ten的概念照，並宣布他們將於9日、10日發表[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，正式展開活動。\[14\]4月5日，公佈泰容和道英的概念照。4月6日，公開泰一的概念照。4月9日及10日，[SM娛樂](../Page/SM娛樂.md "wikilink")公開NCT U兩首數位單曲《The 7th Sense》、《Without You》的MV \[15\]4月9日，NCT U以兩首數位序曲《The 7th Sense》、《Without You》(Chinese Ver.)在中國的第十六屆《[音樂風雲榜年度盛典](https://zh.wikipedia.org/wiki/音樂風雲榜 "wikilink")》正式出道。4月15日，NCT U在《[Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》正式出道。
+4月4日，公佈首組子團體**NCT U**及其中三位成員在玹、Mark和Ten的概念照，並宣布他們將於9日、10日發表[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，正式展開活動。\[15\]4月5日，公佈泰容和道英的概念照。4月6日，公開泰一的概念照。4月9日及10日，[SM娛樂](../Page/SM娛樂.md "wikilink")公開NCT U兩首數位單曲《The 7th Sense》、《Without You》的MV \[16\]4月9日，NCT U以兩首數位序曲《The 7th Sense》、《Without You》(Chinese Ver.)在中國的第十六屆《[音樂風雲榜年度盛典](https://zh.wikipedia.org/wiki/音樂風雲榜 "wikilink")》正式出道。4月15日，NCT U在《[Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》正式出道。
 
   - 第二組子團NCT 127出道
 
-7月2日，公佈楷燦和悠太的概念照。7月3日，公佈泰容和昀昀的概念照。7月4日，公佈在玹、Mark和泰一的概念照。7月7日，[SM娛樂](../Page/SM娛樂.md "wikilink")公開NCT 127《Fire Truck》的MV，並當天在《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》正式出道。\[16\]7月29日，于[SM STATION公開數位單曲](../Page/SM_STATION.md "wikilink")《Taste The Feeling》，為[可口可樂](https://zh.wikipedia.org/wiki/可口可樂 "wikilink")2016年全球活動主題曲的韓文版。
+7月2日，公佈楷燦和悠太的概念照。7月3日，公佈泰容和昀昀的概念照。7月4日，公佈在玹、Mark和泰一的概念照。7月7日，[SM娛樂](../Page/SM娛樂.md "wikilink")公開NCT 127《Fire Truck》的MV，並當天在《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》正式出道。\[17\]7月29日，于[SM STATION公開數位單曲](../Page/SM_STATION.md "wikilink")《Taste The Feeling》，為[可口可樂](https://zh.wikipedia.org/wiki/可口可樂 "wikilink")2016年全球活動主題曲的韓文版。
 
   - 第三組子團NCT Dream出道
 
@@ -303,61 +307,61 @@ BackgroundColors = bars:bars
 
   - NCT 127加入道英、Johnny為九人組回歸
 
-2016年12月27日，公佈组合加入曾参加NCT U的道英以及曾參與「STATION」《Nightmare》的 Johnny，以九人組的形式回歸，並於2017年1月6日發行第二張迷你專輯《NCT \#127 LIMITLESS》。2016年12月27日，搶先公開《Limitless》忙內楷燦的概念照及預告影片\[17\]。12月28日，公開Mark概念照及預告影片。12月29日，公開泰容概念照及預告影片。12月30日，公開道英概念照及預告影片。12月31日，公開悠太概念照及預告影片。2017年1月1日，公開泰一概念照及預告影片。1月2日，公開昀昀概念照及預告影片。1月3日，公開在玹概念照及預告影片。1月4日，公開Johnny概念照及預告影片。1月5日，公開Rough版MV與Performance版MV，其中Rough版MV便不到一天破百萬點擊率。1月6日，公開迷你二輯《NCT \#127 LIMITLESS》音源，並于2017年1月9日發行實體專輯。
+2016年12月27日，公佈组合加入曾参加NCT U的道英以及曾參與「STATION」《Nightmare》的 Johnny，以九人組的形式回歸，並於2017年1月6日發行第二張迷你專輯《NCT \#127 LIMITLESS》。2016年12月27日，搶先公開《Limitless》忙內楷燦的概念照及預告影片\[18\]。12月28日，公開Mark概念照及預告影片。12月29日，公開泰容概念照及預告影片。12月30日，公開道英概念照及預告影片。12月31日，公開悠太概念照及預告影片。2017年1月1日，公開泰一概念照及預告影片。1月2日，公開昀昀概念照及預告影片。1月3日，公開在玹概念照及預告影片。1月4日，公開Johnny概念照及預告影片。1月5日，公開Rough版MV與Performance版MV，其中Rough版MV便不到一天破百萬點擊率。1月6日，公開迷你二輯《NCT \#127 LIMITLESS》音源，並于2017年1月9日發行實體專輯。
 
   - NCT Dream首張單曲專輯《The First》
 
-2月1日，官方公開NCT Dream即將在2月9日發行首張單曲專輯《The First》的消息，並釋出團體概念照。渽民因腰傷而不參與本次專輯活動，暫時以6人體制活動。\[18\]2月2日，公開辰樂的概念照。2月3日，公開志晟的概念照。2月4日，公開仁俊的概念照。2月5日，公開Jeno的概念照。2月6日，公開楷燦和Mark的概念照。2月7日，公開《My First and Last》韓文版與中文版的預告影片。2月9日，發行首張單曲專輯《The First》，主打歌《My First and Last》韓文版與中文版MV公開。2月14日，NCT Dream在SBS《The Show》獲得初一位。
+2月1日，官方公開NCT Dream即將在2月9日發行首張單曲專輯《The First》的消息，並釋出團體概念照。渽民因腰傷而不參與本次專輯活動，暫時以6人體制活動。\[19\]2月2日，公開辰樂的概念照。2月3日，公開志晟的概念照。2月4日，公開仁俊的概念照。2月5日，公開Jeno的概念照。2月6日，公開楷燦和Mark的概念照。2月7日，公開《My First and Last》韓文版與中文版的預告影片。2月9日，發行首張單曲專輯《The First》，主打歌《My First and Last》韓文版與中文版MV公開。2月14日，NCT Dream在SBS《The Show》獲得初一位。
 
   - NCT 127攜第三張迷你專輯《NCT 127\# Cherry Bomb》回歸
 
-6月5日官網釋出預告，宣布將於6月14日以第三張迷你專輯《NCT 127\# Cherry Bomb》回歸。6月6日公開泰容、道英、昀昀概念照，官網樣式變成如遊戲機般的互動式像素畫面。6月7日公開悠太、在玹、楷燦概念照。6月8日公開泰一、Johnny、Mark概念照。於6月12日的V APP直播當中公佈粉絲名稱“NCTzen”。6月14日下午六點正式發布音源與MV。KBS以主打歌歌詞描寫暴力內容，判定為不適合放送，經紀公司表示為有效傳達歌曲原意，堅持不更改歌詞，且表示此歌不會在KBS的MUSIC BANK打歌，只會表演0 mile\[19\]。6月22日，NCT 127在Mnet《M\! Countdown》獲得初一位。其組合服裝概念新穎特別，美國時尚雜誌[VOGUE特撰文讚美其時尚潛能](../Page/时尚_\(杂志\).md "wikilink")\[20\]。
+6月5日官網釋出預告，宣布將於6月14日以第三張迷你專輯《NCT 127\# Cherry Bomb》回歸。6月6日公開泰容、道英、昀昀概念照，官網樣式變成如遊戲機般的互動式像素畫面。6月7日公開悠太、在玹、楷燦概念照。6月8日公開泰一、Johnny、Mark概念照。於6月12日的V APP直播當中公佈粉絲名稱“NCTzen”。6月14日下午六點正式發布音源與MV。KBS以主打歌歌詞描寫暴力內容，判定為不適合放送，經紀公司表示為有效傳達歌曲原意，堅持不更改歌詞，且表示此歌不會在KBS的MUSIC BANK打歌，只會表演0 mile\[20\]。6月22日，NCT 127在Mnet《M\! Countdown》獲得初一位。其組合服裝概念新穎特別，美國時尚雜誌[VOGUE特撰文讚美其時尚潛能](../Page/时尚_\(杂志\).md "wikilink")\[21\]。
 
   - NCT Dream首張迷你專輯《We Young》
 
-8月9日，SM娛樂透過NCT Dream官方網站公開，宣布將於8月17日以首張迷你專輯《We Young》回歸，並公開Mark個人概念照及預告片\[21\]。8月10日公開辰樂的概念照及預告片。8月11日公開志晟的概念照及預告片。8月12日公開楷燦的概念照及預告片。8月13日公開仁俊的概念照及預告片。8月14日公開Jeno的概念照及預告片。8月16日公開主打歌《We Young》韓文版與中文版預告影片及團體概念照。8月17日下午六點正式發布音源與韓文版MV。8月18日發布中文版MV。11月4日，於日本粉絲見面會上宣布NCT 127將在2018年春天於日本出道，同日释出《Limitless》日文版MV。
+8月9日，SM娛樂透過NCT Dream官方網站公開，宣布將於8月17日以首張迷你專輯《We Young》回歸，並公開Mark個人概念照及預告片\[22\]。8月10日公開辰樂的概念照及預告片。8月11日公開志晟的概念照及預告片。8月12日公開楷燦的概念照及預告片。8月13日公開仁俊的概念照及預告片。8月14日公開Jeno的概念照及預告片。8月16日公開主打歌《We Young》韓文版與中文版預告影片及團體概念照。8月17日下午六點正式發布音源與韓文版MV。8月18日發布中文版MV。11月4日，於日本粉絲見面會上宣布NCT 127將在2018年春天於日本出道，同日释出《Limitless》日文版MV。
 
 ### 2018年：大型企劃 NCT 2018；NCT 127日本美國出道
 
   - NCT首張正規專輯《NCT 2018 EMPATHY》
 
-1月15日，官方宣布將於上半年以新的大型企劃「NCT 2018」正式回歸樂壇\[22\]。1月31日釋出第一版回歸企劃影片\[23\]，並公布錕、廷祐、Lucas加入NCT。2月1日，釋出第二版回歸企劃影片\[24\]與多張概念照。2月6日，通過V Live直播發表全員18名將一起回歸，且將於三月份發表正規專輯\[25\]，接連發布關於NCT此組合的世界觀概念影片。2月14日，宣布回歸企劃第一組小分隊為NCT U\[26\]，並公布新曲《BOSS》預告片\[27\]，2月19日，公开新曲《BOSS》的MV\[28\]。2月27日，公開同為NCT U新曲《Baby Don't Stop》的MV。3月2日，宣佈回歸企劃第二組小分隊為NCT Dream。3月5日，公開新曲《GO》的MV。3月7日，官方確定將於韓國時間3月14日下午6時通過各大音源網站正式公開正規專輯《[NCT 2018 Empathy](../Page/NCT_2018_Empathy.md "wikilink")》全部音源\[29\]並在首爾高麗大學化汀體育館舉行回歸SHOWCASE; 宣佈回歸企劃第三組小分隊為NCT 127。 NCT 127將以《NCT 2018 EMPATHY》主打歌《TOUCH》出擊，以15日的Mnet音樂節目《M COUNT DOWN》為開端，正式展開活動。3月14日，公開新曲《TOUCH》的MV。4月2日，公開《NCT 2018 EMPATHY》的第五首MV，NCT U《YESTODAY》。4月19日，公開《NCT 2018 EMPATHY》的第六首MV、NCT 18位成員参与的《Black on Black》。
+1月15日，官方宣布將於上半年以新的大型企劃「NCT 2018」正式回歸樂壇\[23\]。1月31日釋出第一版回歸企劃影片\[24\]，並公布錕、廷祐、Lucas加入NCT。2月1日，釋出第二版回歸企劃影片\[25\]與多張概念照。2月6日，通過V Live直播發表全員18名將一起回歸，且將於三月份發表正規專輯\[26\]，接連發布關於NCT此組合的世界觀概念影片。2月14日，宣布回歸企劃第一組小分隊為NCT U\[27\]，並公布新曲《BOSS》預告片\[28\]，2月19日，公开新曲《BOSS》的MV\[29\]。2月27日，公開同為NCT U新曲《Baby Don't Stop》的MV。3月2日，宣佈回歸企劃第二組小分隊為NCT Dream。3月5日，公開新曲《GO》的MV。3月7日，官方確定將於韓國時間3月14日下午6時通過各大音源網站正式公開正規專輯《[NCT 2018 Empathy](../Page/NCT_2018_Empathy.md "wikilink")》全部音源\[30\]並在首爾高麗大學化汀體育館舉行回歸SHOWCASE; 宣佈回歸企劃第三組小分隊為NCT 127。 NCT 127將以《NCT 2018 EMPATHY》主打歌《TOUCH》出擊，以15日的Mnet音樂節目《M COUNT DOWN》為開端，正式展開活動。3月14日，公開新曲《TOUCH》的MV。4月2日，公開《NCT 2018 EMPATHY》的第五首MV，NCT U《YESTODAY》。4月19日，公開《NCT 2018 EMPATHY》的第六首MV、NCT 18位成員参与的《Black on Black》。
 
-  - NCT Dream：迷你二輯《We Go Up》、音樂綜藝秀<NCT DREAM SHOW>、Mark畢業
+  - NCT Dream：迷你二輯《We Go Up》、音樂綜藝秀〈NCT DREAM SHOW〉、Mark畢業
 
-8月13日，NCT官方Facebook分享了一則圓形的幾何影片預告，宣布了NCT下半年的回歸計畫，並分享了同一張圖片，在不同的點分別壓上「2018」、「dream」、「127」和「？」字體。\[30\]
+8月13日，NCT官方Facebook分享了一則圓形的幾何影片預告，宣布了NCT下半年的回歸計畫，並分享了同一張圖片，在不同的點分別壓上「2018」、「dream」、「127」和「？」字體。\[31\]
 
-8月16日，官方宣布NCT Dream將於9月3日攜迷你專輯《[We Go Up](../Page/We_Go_Up.md "wikilink")》回归\[31\]；8月30日，官方宣布成員Mark即將從組合中畢業，新專輯也就是他在NCT DREAM最後發表的專輯\[32\]；8月30日，公開同名主打歌《We Go Up》的MV\[33\]；9月3日，發行第二張迷你專輯《WE GO UP》，並以展開一系列打歌活動；憑藉該專輯在Synnara、Hottracks等各大專輯銷量榜上取得了一位，在Billboard世界專輯排行榜上排名第5\[34\] ，在iTunes綜合專輯榜获15個區域1位，并取得中國蝦米音樂綜合榜1位\[35\]，並作為亞洲歌手唯一登上了美國Billboard選定的《21 Under 21 2018: Music's Next Generation》和入選美國時代周刊《2018年最具影響力青少年25》。\[36\]
+8月16日，官方宣布NCT Dream將於9月3日攜迷你專輯《[We Go Up](../Page/We_Go_Up.md "wikilink")》回归\[32\]；8月30日，官方宣布成員Mark即將從組合中畢業，新專輯也就是他在NCT DREAM最後發表的專輯\[33\]；8月30日，公開同名主打歌《We Go Up》的MV\[34\]；9月3日，發行第二張迷你專輯《WE GO UP》，並以展開一系列打歌活動；憑藉該專輯在Synnara、Hottracks等各大專輯銷量榜上取得了一位，在Billboard世界專輯排行榜上排名第5\[35\] ，在iTunes綜合專輯榜获15個區域1位，并取得中國蝦米音樂綜合榜1位\[36\]，並作為亞洲歌手唯一登上了美國Billboard選定的〈21 Under 21 2018: Music's Next Generation〉\[37\] 和入選美國時代周刊〈2018年最具影響力青少年25〉。\[38\]
 
-10月29日至31日以及12月1日至5日，分別在首爾三成洞SMTOWN@coexartium的SMTOWNTHEATRE舉辦音樂綜藝秀<NCT DREAM SHOW>和\<NCT DREAM SHOW \#2\>，完美結束10場演出；12月31日，成員Mark正式從組合中畢業。\[37\]
+10月29日至31日，以及12月1日至5日，分別在首爾三成洞SMTOWN@coexartium的SMTOWNTHEATRE舉辦音樂綜藝秀〈NCT DREAM SHOW〉和〈NCT DREAM SHOW \#2〉，完美結束10場演出；12月31日，成員Mark正式從組合中畢業。\[39\]
 
   - NCT 127：首張日文迷你專輯《Chain》、首個正規專輯《Regular-Irregular》、展開美國出道活動
 
-3月29日，官方宣布NCT 127將於5月23日發行首張日文迷你專輯《[Chain](../Page/Chain.md "wikilink")》。該專輯除了收錄2017年於韓國發行的歌曲《Limitless》的日文版以外，也將收錄日语原創歌曲，合共收錄5首歌曲。 5月8日，公開专辑主打曲《Chain》的MV。\[38\]
+3月29日，官方宣布NCT 127將於5月23日發行首張日文迷你專輯《[Chain](../Page/Chain.md "wikilink")》。該專輯除了收錄2017年於韓國發行的歌曲《Limitless》的日文版以外，也將收錄日语原創歌曲，合共收錄5首歌曲。 5月8日，公開专辑主打曲《Chain》的MV。\[40\]
 
-9月17日，宣布即將於10月12日發行首張正規專輯《[Regular-Irregular](../Page/Regular-Irregular.md "wikilink")》，並曾在NCT U活動的廷祐，構成十人團體；10月8日，赴美國參加知名談話節目《[Jimmy Kimmel Live](../Page/吉米·坎摩尔直播秀.md "wikilink")》，並率先於節目公開新專輯主打歌《Regular》英文版的現場舞台\[39\]，這也是NCT 127在美國電視節目的首次亮相；10月9日和11日，分別公開主打歌《Regular》英文版及韓文版MV；10月12日，正式發行首張正規專輯《Regular-Irregular》。憑藉美國出道專輯登上公告牌權威專輯榜“Billboard 200”，並在韓國音樂節目中拿下四個一位。
+9月17日，宣布即將於10月12日發行首張正規專輯《[Regular-Irregular](../Page/Regular-Irregular.md "wikilink")》，並曾在NCT U活動的廷祐，構成十人團體；10月8日，赴美國參加知名談話節目《[Jimmy Kimmel Live](../Page/吉米·坎摩尔直播秀.md "wikilink")》，並率先於節目公開新專輯主打歌《Regular》英文版的現場舞台\[41\]，這也是NCT 127在美國電視節目的首次亮相；10月9日和11日，分別公開主打歌《Regular》英文版及韓文版MV；10月12日，正式發行首張正規專輯《Regular-Irregular》。憑藉美國出道專輯登上公告牌權威專輯榜“Billboard 200”，並在韓國音樂節目中拿下四個一位。
 
-10月22日，被選定為Apple Music<UP NEXT>10月最值得期待的明星，並透過Apple Music突襲發表由4首歌曲組成的數字EP《Up Next Session: NCT 127》，這也是NCT 127作為亞洲歌手最初入選。該專輯收錄4首歌曲，包括了《Regular》和《Cherry Bomb》的英文版本，經DJ兼製作人Kago Pengchi改編的《Fire Truck》Remix，以及與POP新星合作的《What We Talkin'Bout》 。\[40\]11月23日，帶著Repackaged專輯《[Regulate](../Page/Regular-Irregular.md "wikilink")》回歸，發布主打歌《Simon Says》的MV。\[41\]同時宣布成員昀昀因準備中國出道而不參與此次的打歌活動。\[42\]
+10月22日，被選定為Apple Music〈UP NEXT〉10月最值得期待的明星，並透過Apple Music突襲發表由4首歌曲組成的數字EP《Up Next Session: NCT 127》，這也是NCT 127作為亞洲歌手最初入選。該專輯收錄4首歌曲，包括了《Regular》和《Cherry Bomb》的英文版本，經DJ兼製作人Kago Pengchi改編的《Fire Truck》Remix，以及與POP新星合作的《What We Talkin'Bout》 。\[42\]11月23日，帶著Repackaged專輯《[Regulate](../Page/Regular-Irregular.md "wikilink")》回歸，發布主打歌《Simon Says》的MV。\[43\]同時宣布成員昀昀因準備中國出道而不參與此次的打歌活動。\[44\]
 
 ### 2019年：威神V於中國出道；NCT 127世巡；NCT Dream六人回歸
 
   - 威神V（WayV）：中國出道及活動、首張數碼專輯《The Vision》、首張迷你專輯《Take Off》
 
-2018年12月31日，[威神V开设SNS帐号并公布首张团体预告照](https://zh.wikipedia.org/wiki/威神V "wikilink")。组合英文名为**WayV**，全部由中国籍及华裔成员构成，成员包括先前已于NCT出道的[Ten](../Page/Ten_\(歌手\).md "wikilink")、[昀昀](../Page/董思成.md "wikilink")、[錕](https://zh.wikipedia.org/wiki/錕 "wikilink")、[Lucas](../Page/黃旭熙.md "wikilink")，以及仍是SM Rookies (SR18B)的三名成员肖俊、Hendery、扬扬。因中国政策原因，该组合从队名到宣传都未带有NCT、SM公司字样；据SM公司官方立场，威神V主要由 SM Entertainment 操刀製作，並透過中國的合作品牌威娛樂（Label V）在當地出道展開活動；而且未來也有機會以 NCT 的身份在中國以外的地區活動。\[43\]\[44\]組合於2019年1月開始陸續放出預告視頻；1月17日，推出首張數碼專輯《》以及主打歌《理所當然（Regular）》的MV，在中國正式出道。該專輯成功佔據美國Billboard World Digital Song Sales榜單第三名，Social 50榜單第四名，Emerging Artists榜單第十六名，並佔據12個國家和地區的iTunes單曲榜第一名，\[45\]成為史上取得最高成績的中國男子組合；1月24日，公開專輯收錄曲《夢想發射計劃（Dream Launch）》的MV。
+2018年12月31日，[威神V开设SNS帐号并公布首张团体预告照](https://zh.wikipedia.org/wiki/威神V "wikilink")。组合英文名为**WayV**，全部由中国籍及华裔成员构成，成员包括先前已于NCT出道的[Ten](../Page/Ten_\(歌手\).md "wikilink")、[昀昀](../Page/董思成.md "wikilink")、[錕](https://zh.wikipedia.org/wiki/錕 "wikilink")、[Lucas](../Page/黃旭熙.md "wikilink")，以及仍是[SM ROOKIES](../Page/SM_ROOKIES.md "wikilink")（SR18B）的三名成员肖俊、Hendery、扬扬。因中国政策原因，该组合从队名到宣传都未带有NCT、SM娛樂字样；据SM娛樂官方立场，威神V主要由SM娛樂操刀製作，並透過中國的合作品牌威娛樂（Label V）在當地出道展開活動；而且未來也有機會以 NCT 的身份在中國以外的地區活動。\[45\]\[46\]組合於2019年1月開始陸續放出預告視頻；1月17日，推出首張數碼專輯《》以及主打歌《理所當然（Regular）》的MV，在中國正式出道。該專輯成功佔據美國Billboard World Digital Song Sales榜單第三名，Social 50榜單第四名，Emerging Artists榜單第十六名，並佔據12個國家和地區的iTunes單曲榜第一名\[47\]，成為史上取得最高成績的中國男子組合；1月24日，公開專輯收錄曲《夢想發射計劃（Dream Launch）》的MV。
 
-5月1日，公開首張迷你專輯《》回歸日程安排；5月9日，公開首張迷你專輯主打歌《無翼而飛（Take Off）》MV，並在中國海外主要音源網站同時公開專輯音源；同日，在南京召開首張迷你專輯《Take Off》全球新聞發布會，\[46\]這也是組合在出道後的首場發布會。該專輯在發行當日在中國的“QQ音樂”巔峰人氣榜摘冠，更佔據30個國家和地區的iTunes綜合專輯第一名，成爲史上獲得“iTunes綜合專輯榜單最多第一名”的中國男子組合，\[47\]刷新NCT其他分隊先前在該榜單上的記錄，\[48\]也成功超越先前出道專輯《The Vision》所創下的記錄。同時，該專輯也榮登当天的iTunes世界專輯榜一位\[49\]，是史上唯一榮登該榜的中國男子組合。
+5月1日，公開首張迷你專輯《》回歸日程安排；5月9日，公開首張迷你專輯主打歌《無翼而飛（Take Off）》MV，並在中國海外主要音源網站同時公開專輯音源；同日，在南京召開首張迷你專輯《Take Off》全球新聞發布會\[48\]，這也是組合在出道後的首場發布會。該專輯在發行當日在中國的“QQ音樂”巔峰人氣榜摘冠，更佔據30個國家和地區的iTunes綜合專輯第一名，成爲史上獲得“iTunes綜合專輯榜單最多第一名”的中國男子組合\[49\]，刷新NCT其他分隊先前在該榜單上的記錄，\[50\]也成功超越先前出道專輯《The Vision》所創下的記錄。同時，該專輯也榮登当天的iTunes世界專輯榜一位\[51\]，是史上唯一榮登該榜的中國男子組合。
 
-  - NCT 127：首次世界巡迴演唱會\<NEO CITY：World Tour－The Origin\>、首張日文正規專輯《Awaken》、迷你四輯《We Are Superhuman》
+  - NCT 127：首次世界巡迴演唱會〈NEO CITY：World Tour－The Origin〉、首張日文正規專輯《Awaken》、迷你四輯《We Are Superhuman》
 
-在以威神V（WayV）出道后，成員[昀昀暂停了NCT](../Page/董思成.md "wikilink") 127的活動，專注於分队威神V和個人的中國活動。1月26日至27日，组合連續兩天在[首爾奧林匹克公園的體操競技館舉辦首次演唱會](https://zh.wikipedia.org/wiki/首爾奧林匹克公園 "wikilink")\<NEO CITY：SEOUL－The Origin\>；2月2日至3月31日，圓滿完成總共有14場次的日本巡迴演唱會\<NEO CITY：JAPAN－The Origin\>，成員[楷燦](../Page/楷燦.md "wikilink")因腳傷僅出演琦玉场。3月18日，公開日文专辑主打曲《Wakey Wakey》MV及音源；4月17日，發表首張日文正規專輯《》。
+在以威神V（WayV）出道后，成員[昀昀暂停了NCT](../Page/董思成.md "wikilink") 127的活動，專注於分队威神V和個人的中國活動。1月26日至27日，组合連續兩天在[首爾奧林匹克公園的體操競技館舉辦首次演唱會](https://zh.wikipedia.org/wiki/首爾奧林匹克公園 "wikilink")〈NEO CITY：SEOUL－The Origin〉；2月2日至3月31日，圓滿完成總共有14場次的日本巡迴演唱會〈NEO CITY：JAPAN－The Origin〉，成員[楷燦](../Page/楷燦.md "wikilink")因腳傷僅出演琦玉场。3月18日，公開日文专辑主打曲《Wakey Wakey》MV及音源；4月17日，發表首張日文正規專輯《》。
 
-4月16日，官方宣布组合將于五月帶著第四張迷你專輯《》回歸；4月18日，率先於美國節目《[早安美國](../Page/早安美國.md "wikilink")》和《》公開主打歌《Superhuman》的初舞台\[50\]；4月24日，以美國新澤西為首站，啟動世界巡迴演唱會\<NEO CITY：World Tour－The Origin\>；美国巡演期间出席了不少当地电视和电台节目，包括《[早安美國](../Page/早安美國.md "wikilink")》、《》、《》等。5月24日，公開第四張迷你專輯《》MV及音源，並在KBS《[音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")》展開回歸活動。該專輯在發行當天佔據25個國家和地區的iTunes綜合專輯第一名，其中包括美國，並榮登“iTunes世界專輯榜”一位。此外，登上“Billboard 200”第11位，打破上張專輯《Regular-Irregular》創下的86位的成績，創下K-POP團體歌手史上第二好成績；同時更登上“Billboard世界專輯榜”一位\[51\]；7月19日，重新錄製填上英語歌詞的《Highway To Heaven》音源於全球公佈，並在7月26日公佈該曲MV。\[52\]
+4月16日，官方宣布组合將于五月帶著第四張迷你專輯《》回歸；4月18日，率先於美國節目《[早安美國](../Page/早安美國.md "wikilink")》和《》公開主打歌《Superhuman》的初舞台\[52\]；4月24日，以美國新澤西為首站，啟動世界巡迴演唱會〈NEO CITY：World Tour－The Origin〉；美国巡演期间出席了不少当地电视和电台节目，包括《[早安美國](../Page/早安美國.md "wikilink")》、《》、《》等。5月24日，公開第四張迷你專輯《》MV及音源，並在KBS《[音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")》展開回歸活動。該專輯在發行當天佔據25個國家和地區的iTunes綜合專輯第一名，其中包括美國，並榮登“iTunes世界專輯榜”一位。此外，登上“Billboard 200”第11位，打破上張專輯《Regular-Irregular》創下的86位的成績，創下K-POP團體歌手史上第二好成績；同時更登上“Billboard世界專輯榜”一位\[53\]；7月19日，重新錄製填上英語歌詞的《Highway To Heaven》音源於全球公佈，並在7月26日公佈該曲MV。\[54\]
 
   - NCT Dream：世界童軍基金會全球宣傳大使、迷你三輯《We Boom》
 
-7月11日，NCT Dream被選為世界童軍基金會首個全球宣傳大使；7月15日，组合與世界童軍基金會合作單曲《Fireflies》公開，該曲音源收入的一部分將用於支持低收入國家的童子軍活動；7月23日，组合以宣傳大使身份遠赴美國[西弗吉尼亞參加由The](https://zh.wikipedia.org/wiki/西弗吉尼亞 "wikilink") Summit Bechtel Reserve舉辦的第24屆世界童軍慶祝會。
+7月11日，NCT Dream被選為世界童軍基金會首個全球宣傳大使；7月15日，组合與世界童軍基金會合作單曲《Fireflies》公開，該曲音源收入的一部分將用於支持低收入國家的童子軍活動；7月23日，组合以宣傳大使身份遠赴美國[西弗吉尼亞參加由The](https://zh.wikipedia.org/wiki/西弗吉尼亞 "wikilink") Summit Bechtel Reserve舉辦的〈第24屆世界童軍慶祝會〉。
 
-7月8日，官方宣布組合時隔10個月將以六人形式回歸\[53\]；7月17日，確定回歸日期並陸續公佈預告\[54\]；7月26日，公開迷你三輯《We Boom》MV及音源，並於[音樂銀行的初舞台開始回歸行程](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")。該專輯登上24個國家和地區的iTunes綜合專輯第一名，同時也榮登“iTunes世界專輯榜”一位。
+7月8日，官方宣布組合時隔10個月將以六人形式回歸\[55\]；7月17日，確定回歸日期並陸續公佈預告\[56\]；7月26日，公開迷你三輯《We Boom》MV及音源，並於《[音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")》的初舞台開始回歸行程。該專輯登上24個國家和地區的iTunes綜合專輯第一名，同時也榮登“iTunes世界專輯榜”一位；9月12日，作為唯一亞洲歌手入選〈21 Under 21 2018: Music's Next Generation〉，這是繼去年入選之後第2次上榜，同時更是亞洲歌手首次連續2年上入選。\[57\]
 
 ## 音樂作品
 
@@ -504,7 +508,7 @@ BackgroundColors = bars:bars
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>NCT 127 1st Tour'NEO CITY : SEOUL – The Origin'[55]</p></td>
+<td><p>NCT 127 1st Tour'NEO CITY : SEOUL – The Origin'[58]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -516,7 +520,7 @@ BackgroundColors = bars:bars
 <td><p><small>昀昀因WayV行程缺席</small></p></td>
 </tr>
 <tr class="odd">
-<td><p>NCT 127 1st Tour'NEO CITY : JAPAN - The Origin'[56]</p></td>
+<td><p>NCT 127 1st Tour'NEO CITY : JAPAN - The Origin'[59]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -689,11 +693,11 @@ BackgroundColors = bars:bars
 | 2017年6月14日                                 | 韓國首爾Yes24 LIVE Hall  |                                   |
 | NCT DREAM - COMEBACK SHOWCASE 'WE YOUNG'   |                      |                                   |
 | 2017年8月16日                                 | 韓國首爾現代MotorStudio高陽店 |                                   |
-| NCT 127 The Introduction"connect"\[57\]    |                      |                                   |
+| NCT 127 The Introduction"connect"\[60\]    |                      |                                   |
 | 2017年11月4日                                 | 日本東京六本木Nicofarre     | <small>另有三場見面會（名古屋、大阪、福岡）</small> |
 | NCT - 'NCT 2018 EMPATHY' SHOWCASE          |                      |                                   |
 | 2018年3月14日                                 | 首爾花井體育館              |                                   |
-| NCT 127 JAPAN Showcase Tour "CHAIN" \[58\] |                      |                                   |
+| NCT 127 JAPAN Showcase Tour "CHAIN" \[61\] |                      |                                   |
 | 2018年4月2日                                  | 日本福岡國際會議中心           |                                   |
 | 2018年4月5日                                  | 日本愛知Zepp Nagoya      |                                   |
 | 2018年4月6日                                  | 日本大阪Zepp Namba       |                                   |
@@ -701,21 +705,93 @@ BackgroundColors = bars:bars
 
 ### 粉絲見面會
 
-| 日期                                           | 舉行地點                                                                                                                 | 備註       |
-| -------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | -------- |
-| NCT 127 1st YEAR ANNIVERSARY FAN EVENT       |                                                                                                                      |          |
-| 2017年7月6日                                    | 首爾三成洞 SMTOWN@coexartium                                                                                              |          |
-| Naver V \[VICTORY\] NCT DREAM 公開約會           |                                                                                                                      |          |
-| 2017年2月18日                                   | 首爾三成洞 SMTOWN@coexartium                                                                                              | V Live直播 |
-| NCT 127 FAN MEETING                          |                                                                                                                      |          |
-| 2017年9月9日                                    | [泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")[曼谷](../Page/曼谷.md "wikilink") Thunder Dome Muang Thong Thani\[59\] |          |
-| 2017年10月14日                                  | [中國](../Page/中國.md "wikilink")[澳門](../Page/澳門.md "wikilink")[新濠影滙](../Page/新濠影滙.md "wikilink")綜藝館\[60\]              |          |
-| Hello, NCT 2018 Sweet Valentine's Day ♥      |                                                                                                                      |          |
-| 2018年2月14日                                   | 首爾三成洞 SMTOWN@coexartium                                                                                              |          |
-| NCT 2018 FAN PARTY‘SPRING’                   |                                                                                                                      |          |
-| 2018年5月7日                                    | 首爾高丽大学华政体育馆                                                                                                          |          |
-| NCT U (TAEYONG x TEN) FAN MEETING in BANGKOK |                                                                                                                      |          |
-| 2018年6月3日                                    | 泰國曼谷 GMM Live House                                                                                                  |          |
+<table>
+<thead>
+<tr class="header">
+<th><p>日期</p></th>
+<th><p>舉行地點</p></th>
+<th><p>備註</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>NCT 127 1st YEAR ANNIVERSARY FAN EVENT</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2017年7月6日</p></td>
+<td><p>首爾三成洞 SMTOWN@coexartium</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Naver V [VICTORY] NCT DREAM 公開約會</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2017年2月18日</p></td>
+<td><p>首爾三成洞 SMTOWN@coexartium</p></td>
+<td><p>V Live直播</p></td>
+</tr>
+<tr class="odd">
+<td><p>NCT 127 FAN MEETING</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2017年9月9日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/泰國" title="wikilink">泰國</a><a href="../Page/曼谷.md" title="wikilink">曼谷</a> Thunder Dome Muang Thong Thani[62]</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2017年10月14日</p></td>
+<td><p><a href="../Page/中國.md" title="wikilink">中國</a><a href="../Page/澳門.md" title="wikilink">澳門</a><a href="../Page/新濠影滙.md" title="wikilink">新濠影滙</a>綜藝館[63]</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Hello, NCT 2018 Sweet Valentine's Day ♥</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2018年2月14日</p></td>
+<td><p>首爾三成洞 SMTOWN@coexartium</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>NCT 2018 FAN PARTY‘SPRING’</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2018年5月7日</p></td>
+<td><p>首爾高丽大学华政体育馆</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>NCT U (TAEYONG x TEN) FAN MEETING in BANGKOK</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2018年6月3日</p></td>
+<td><p>泰國曼谷 GMM Live House</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>NCTzen 127 — Japan 1st Meeting 2019 'Welcome To Our Playground</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年9月23日</p></td>
+<td><p>日本千葉幕張展覽館</p></td>
+<td><p>昀昀因WayV行程缺席、<br />
+廷祐因身體原因缺席</p></td>
+</tr>
+</tbody>
+</table>
 
 ### [SMTOWN巡迴演唱會](https://zh.wikipedia.org/wiki/SMTOWN "wikilink")
 
@@ -803,7 +879,7 @@ BackgroundColors = bars:bars
 <tr class="even">
 <td><p>10月27日</p></td>
 <td><p>2016韓國大眾文化藝術獎</p></td>
-<td><p>首爾國立劇場 Haeohrum 劇場[61]</p></td>
+<td><p>首爾國立劇場 Haeohrum 劇場[64]</p></td>
 <td><p>NCT 127</p></td>
 <td></td>
 </tr>
@@ -831,7 +907,7 @@ BackgroundColors = bars:bars
 <tr class="even">
 <td><p>4月1日</p></td>
 <td><p>韓越建交25週年慈善演唱會</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/越南" title="wikilink">越南</a><a href="../Page/河內市.md" title="wikilink">河內國際會議中心</a> [62]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/越南" title="wikilink">越南</a><a href="../Page/河內市.md" title="wikilink">河內國際會議中心</a> [65]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -867,7 +943,7 @@ BackgroundColors = bars:bars
 <td><p>6月3日</p></td>
 <td><p>2017 <a href="../Page/夢想演唱會.md" title="wikilink">夢想演唱會</a></p></td>
 <td><p><a href="../Page/首爾世界盃競技場.md" title="wikilink">首爾世界盃競技場</a></p></td>
-<td><p>NCT 127、NCT Dream[63]</p></td>
+<td><p>NCT 127、NCT Dream[66]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -902,14 +978,14 @@ BackgroundColors = bars:bars
 <td><p>8月29日</p></td>
 <td><p>2017雪球計劃演唱會</p></td>
 <td><p>YES24 LIVE HALL</p></td>
-<td><p>Mark、NCT Dream[64]</p></td>
+<td><p>Mark、NCT Dream[67]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>9月15日</p></td>
 <td><p>2017樂天家族演唱會</p></td>
 <td><p>蠶室綜合運動場</p></td>
-<td><p>NCT 127（缺昀昀）[65]</p></td>
+<td><p>NCT 127（缺昀昀）[68]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1249,38 +1325,66 @@ BackgroundColors = bars:bars
 <td></td>
 </tr>
 <tr class="even">
-<td><p>8月31日</p></td>
-<td><p>2019 仁川機場Sky Festival</p></td>
-<td><p>仁川國際機場草地廣場</p></td>
+<td><p>8月27日</p></td>
+<td><p>樂天免稅店峴港市中心開幕演唱會</p></td>
+<td><p>越南峴港天恩體育中心</p></td>
 <td><p>NCT Dream</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>8月31日</p></td>
+<td><p>2019 仁川機場Sky Festival</p></td>
+<td><p>仁川國際機場草地廣場</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>9月1日</p></td>
 <td><p>2019 浦項韓流演唱會</p></td>
 <td><p>浦項體育場</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>9月10日</p></td>
 <td><p>Konser Korean Wave 2019</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/印尼" title="wikilink">印尼</a><a href="../Page/雅加达.md" title="wikilink">雅加达</a>Ecovention Ancol</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/印尼" title="wikilink">印尼</a><a href="https://zh.wikipedia.org/wiki/雅加達" title="wikilink">雅加達Ecovention</a> Ancol</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>9月21日</p></td>
 <td><p>2019 K-Flow 2 Concert in Taiwan</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/台灣" title="wikilink">台灣</a><a href="https://zh.wikipedia.org/wiki/桃園市" title="wikilink">桃園市</a><a href="../Page/國立體育大學綜合體育館.md" title="wikilink">國立體育大學綜合體育館</a></p></td>
 <td><p>NCT 127</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>9月22日</p></td>
 <td><p>12th Korean Music Festival 2019 In Japan</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/東京" title="wikilink">東京</a> <a href="https://zh.wikipedia.org/wiki/豐州" title="wikilink">豐州PIT</a></p></td>
 <td><p>NCT Dream（缺楷灿）</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>9月24日</p></td>
+<td></td>
+<td><p>印尼雅加達Studio 7 MNC Studios</p></td>
+<td><p>NCT 127</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>9月27日</p></td>
+<td><p>2019 MBN Hero Concert</p></td>
+<td><p>首爾蠶室室內體育館</p></td>
+<td><p>NCT Dream（缺楷灿）</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>首爾音樂節2019</p></td>
+<td><p>首爾光化門廣場</p></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1294,7 +1398,7 @@ BackgroundColors = bars:bars
 <td><p>10月5日</p></td>
 <td><p>2019 光陽韓流超級演唱會</p></td>
 <td><p><a href="../Page/光陽市.md" title="wikilink">光陽市</a></p></td>
-<td><p>NCT Dream</p></td>
+<td><p>NCT Dream（缺楷灿）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1321,7 +1425,7 @@ BackgroundColors = bars:bars
 | 2017年 | 5月20日                  | FIFA U-20 世界盃KOREA 2017開幕式                                                                                                               | [全州世界盃體育場](../Page/全州世界盃競技場.md "wikilink")                                                                                                          | NCT Dream                   |
 | 7月3日  | 泰國頭條新聞年度風雲人物頒獎典禮       | [泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")[曼谷](../Page/曼谷.md "wikilink")                                                          | Ten                                                                                                                                                 |                             |
 | 12月6日 | 韓越建交25週年暨新合作關係記者會      | [越南](https://zh.wikipedia.org/wiki/越南 "wikilink")[河內](../Page/河內市.md "wikilink")                                                         | NCT 127                                                                                                                                             |                             |
-| 2019年 | 3月12日                  | K-Wave & Halal Show In Malaysia                                                                                                          | [馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[吉隆玻](https://zh.wikipedia.org/wiki/吉隆玻 "wikilink")[萬達廣場](../Page/萬達廣場_\(馬來西亞\).md "wikilink") | NCT Dream（Jeno、渽民、志晟）\[66\] |
+| 2019年 | 3月12日                  | K-Wave & Halal Show In Malaysia                                                                                                          | [馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[吉隆玻](https://zh.wikipedia.org/wiki/吉隆玻 "wikilink")[萬達廣場](../Page/萬達廣場_\(馬來西亞\).md "wikilink") | NCT Dream（Jeno、渽民、志晟）\[69\] |
 | 5月2日  | C-Festival 2019開幕活動    | [韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[首尔](https://zh.wikipedia.org/wiki/首尔 "wikilink")[COEX商場](../Page/COEX商場.md "wikilink") | NCT Dream（缺楷灿）                                                                                                                                      |                             |
 | 6月17日 | 2019 AACTA金像獎提名晚宴.星光之夜 | [中國](../Page/中國.md "wikilink")[上海萬達酒店](https://zh.wikipedia.org/wiki/上海 "wikilink")                                                      | WayV                                                                                                                                                |                             |
 | 7月23日 | 第24届世界童军庆祝会            | [美国](../Page/美国.md "wikilink")[西弗吉尼亚](https://zh.wikipedia.org/wiki/西弗吉尼亚 "wikilink")                                                    | NCT Dream                                                                                                                                           |                             |
@@ -1330,19 +1434,18 @@ BackgroundColors = bars:bars
 
 ### 廣告代言
 
-| 時間            | 品牌                  | 參與成員         | 備註            |
-| ------------- | ------------------- | ------------ | ------------- |
-| 2016年         | Design United       | 泰容、悠太、道英     | 休閒服飾春夏季節      |
-| SK telecom    | 泰容、Ten、Mark         |              |               |
-| 樂天免稅店         | NCT U、NCT 127       | 免稅商店\[67\]   |               |
-| Ivy Club      | 校服廣告\[68\]          |              |               |
-| Design United | NCT 127             | 休閒服飾秋冬季節     |               |
-| SUPER COMMA B | 休閒服飾                |              |               |
-| 2017年         | Masita Seaweed      | NCT U        | 泰國人氣零食        |
-| Est Cola      | 泰容、Ten              | 泰國飲料品牌\[69\] |               |
-| 2018年         | NBA                 | NCT 127      | 品牌季度模特兒\[70\] |
-| Elite         | NCT 2018            | 校服廣告         |               |
-| 2019年         | Barista Rules 每日咖啡師 | WayV         | 韓國咖啡中國區代言     |
+| 時間                  | 品牌                | 參與成員          | 備註            |
+| ------------------- | ----------------- | ------------- | ------------- |
+| 2016年               | 樂天免稅店             | NCT U、NCT 127 | 免稅商店\[70\]    |
+| Ivy Club            | 校服廣告\[71\]        |               |               |
+| Design United       | NCT 127           | 休閒服飾秋冬季節      |               |
+| SUPER COMMA B       | 休閒服飾              |               |               |
+| 2017年               | Masita Seaweed    | NCT U         | 泰國人氣零食        |
+| 2018年               | NBA               | NCT 127       | 品牌季度模特兒\[72\] |
+| Elite               | NCT 2018          | 校服廣告          |               |
+| 2019年               | NCT 127、NCT Dream |               |               |
+| Barista Rules 每日咖啡師 | WayV              | 韓國咖啡中國區代言     |               |
+| SKECHERS斯凱奇         |                   |               |               |
 
 ### 宣傳大使
 
@@ -1360,13 +1463,13 @@ BackgroundColors = bars:bars
 <td><p>2017年2月15日</p></td>
 <td><p><a href="../Page/2017年國際足協U-20世界盃.md" title="wikilink">FIFA U-20 世界盃 KOREA 2017</a> 宣傳大使</p></td>
 <td><p>NCT Dream</p></td>
-<td><p>演唱主題曲《Trigger the Fever》[71]</p></td>
+<td><p>演唱主題曲《Trigger the Fever》[73]</p></td>
 </tr>
 <tr class="even">
 <td><p>2017年12月14日</p></td>
 <td><p>韓國女童子軍聯盟 宣傳大使</p></td>
 <td><p>NCT 127</p></td>
-<td><p>[72]</p></td>
+<td><p>[74]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2018年4月12日</p></td>
@@ -1384,13 +1487,13 @@ BackgroundColors = bars:bars
 <td><p>2019年5月2日</p></td>
 <td><p>C-Festival 2019 宣傳大使</p></td>
 <td><p>NCT Dream</p></td>
-<td><p>[73]</p></td>
+<td><p>[75]</p></td>
 </tr>
 <tr class="even">
 <td><p>2019年5月15日</p></td>
 <td><p>2019 國際博物館日 博物館 文化推廣大使</p></td>
 <td><p>WayV</p></td>
-<td><p>[74]</p></td>
+<td><p>[76]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2019年5月20日</p></td>
@@ -1401,7 +1504,7 @@ BackgroundColors = bars:bars
 <tr class="even">
 <td><p>2019年6月9日</p></td>
 <td><p>2019  澳大利亞電影電視學院獎-亞洲單元 形像大使</p></td>
-<td><p>[75]</p></td>
+<td><p>[77]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1414,7 +1517,7 @@ BackgroundColors = bars:bars
 <td><p>2019年7月11日</p></td>
 <td><p>全球宣傳大使</p></td>
 <td><p>NCT Dream</p></td>
-<td><p>首位全球宣傳大使，演唱主題曲《Fireflies》[76]</p></td>
+<td><p>首位全球宣傳大使，演唱主題曲《Fireflies》[78]</p></td>
 </tr>
 </tbody>
 </table>
@@ -1667,11 +1770,11 @@ BackgroundColors = bars:bars
 12.
 13.
 14.
-15. [NCT U小分團成員揭曉，將發行兩首出道曲《第七感覺》、《Without You》](http://www.vlovekpop.com/20160407-11/) vlovekpop
-16. [SM新男團NCT再度出撃！泰容及昀昀組成「NCT-127」，本週公開出道舞台！](http://www.vlovekpop.com/20160704-nct-127/) vlovekpop
-17. [NCT 127《Limitless》預告：楷燦](http://kpopn.niusnews.com/=K0o3on49)Kpopn
-18. [NCT DREAM 以六人組在2月9日回歸！](http://kpopn.niusnews.com/=K3wfjp84)Kpopn
-19.
+15.
+16. [NCT U小分團成員揭曉，將發行兩首出道曲《第七感覺》、《Without You》](http://www.vlovekpop.com/20160407-11/) vlovekpop
+17. [SM新男團NCT再度出撃！泰容及昀昀組成「NCT-127」，本週公開出道舞台！](http://www.vlovekpop.com/20160704-nct-127/) vlovekpop
+18. [NCT 127《Limitless》預告：楷燦](http://kpopn.niusnews.com/=K0o3on49)Kpopn
+19. [NCT DREAM 以六人組在2月9日回歸！](http://kpopn.niusnews.com/=K3wfjp84)Kpopn
 20.
 21.
 22.
@@ -1720,12 +1823,14 @@ BackgroundColors = bars:bars
 65.
 66.
 67.
-68. [鮮肉團「NCT 127」 活力演唱可口可樂主題曲](https://hk.news.yahoo.com/%E5%BD%B1-%E9%AE%AE%E8%82%89%E5%9C%98-nct-127-%E6%B4%BB%E5%8A%9B%E6%BC%94%E5%94%B1%E5%8F%AF%E5%8F%A3%E5%8F%AF%E6%A8%82%E4%B8%BB%E9%A1%8C%E6%9B%B2-070000977.html) - Yahoo香港新聞 2016/7/29
+68.
 69.
 70.
-71.
+71. [鮮肉團「NCT 127」 活力演唱可口可樂主題曲](https://hk.news.yahoo.com/%E5%BD%B1-%E9%AE%AE%E8%82%89%E5%9C%98-nct-127-%E6%B4%BB%E5%8A%9B%E6%BC%94%E5%94%B1%E5%8F%AF%E5%8F%A3%E5%8F%AF%E6%A8%82%E4%B8%BB%E9%A1%8C%E6%9B%B2-070000977.html) - Yahoo香港新聞 2016/7/29
 72.
 73.
 74.
 75.
 76.
+77.
+78.

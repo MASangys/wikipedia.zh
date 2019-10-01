@@ -52,9 +52,11 @@
 
 6月2日、在[清迈举办的迷你演唱会及击掌会](https://zh.wikipedia.org/wiki/清迈 "wikilink")“BNK48 Thank You & The Beginner”中，公布了将以清迈为据点组建姐妹团体[CGM48](../Page/CGM48.md "wikilink")的消息\[24\]\[25\]\[26\]。
 
+9月1日，BNK48首度成立的小分隊Mimigumo於「曼谷日本世界博覽會2019」正式亮相。成員為Kaimook、Mewnich、Jaa\[27\]。
+
 ## 成員
 
-  - 在泰国，除了本名之外，青少年另有一易于称呼的昵称，在BNK48中，这一昵称常被直接用做成员名称\[27\]。
+  - 在泰国，除了本名之外，青少年另有一易于称呼的昵称，在BNK48中，这一昵称常被直接用做成员名称\[28\]。
 
 ### Team BIII
 
@@ -80,7 +82,7 @@
 <td><p>Cherprang Areekul</p></td>
 <td></td>
 <td><p>1期</p></td>
-<td><p>BNK48總隊長[28]</p></td>
+<td><p>BNK48總隊長[29]</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
@@ -91,11 +93,11 @@
 <td></td>
 <td><p>AKB48<br />
 10期</p></td>
-<td><p>2017年7月2日自AKB48移籍[29]<br />
+<td><p>2017年7月2日自AKB48移籍[30]<br />
 前AKB48 Team A（初代橫山）<br />
 前AKB48 Team B（倉持）<br />
 前AKB48 Team 4（高橋朱里）<br />
-預定移籍至CGM48[30]</p></td>
+預定移籍至CGM48[31]</p></td>
 <td><p>21</p></td>
 </tr>
 <tr class="odd">
@@ -141,7 +143,7 @@
 <td></td>
 <td><p>1期</p></td>
 <td><p>BNK48最年長<br />
-2019年8月20日－9月20日暫停活動[31]</p></td>
+2019年8月20日－9月20日暫停活動[32]</p></td>
 <td><p>8</p></td>
 </tr>
 <tr class="even">
@@ -196,7 +198,7 @@
 <td><p>Pimrapat Phadungwatanachok</p></td>
 <td></td>
 <td><p>1期</p></td>
-<td><p>2018年9月18日－10月15日於AKB48進行短期留學[32][33]</p></td>
+<td><p>2018年9月18日－10月15日於AKB48進行短期留學[33][34]</p></td>
 <td><p>4</p></td>
 </tr>
 <tr class="even">
@@ -270,7 +272,7 @@
 Sachiya Hanami</p></td>
 <td></td>
 <td><p>1期</p></td>
-<td><p>日本與泰國混血[34]</p></td>
+<td><p>日本與泰國混血[35]</p></td>
 <td><p>17</p></td>
 </tr>
 <tr class="even">
@@ -327,7 +329,7 @@ Sachiya Hanami</p></td>
 <td><p>Punyawee Jungcharoen</p></td>
 <td></td>
 <td><p>2期</p></td>
-<td><p>預定移籍至CGM48[35]</p></td>
+<td><p>預定移籍至CGM48[36]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -417,7 +419,7 @@ Sachiya Hanami</p></td>
 <td><p>Maira Kuyama</p></td>
 <td></td>
 <td><p>2期</p></td>
-<td><p>2019年8月12日－10月12日暫停活動[36]</p></td>
+<td><p>2019年8月12日－10月12日暫停活動[37]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -587,7 +589,7 @@ Sachiya Hanami</p></td>
 <td><p>1期</p></td>
 <td><p>-</p></td>
 <td><p>2017年9月23日</p></td>
-<td><p>畢業[37]</p></td>
+<td><p>畢業[38]</p></td>
 </tr>
 <tr class="even">
 <td><p>Cincin</p></td>
@@ -597,7 +599,7 @@ Sachiya Hanami</p></td>
 <td><p>1期</p></td>
 <td><p>-</p></td>
 <td><p>2017年11月18日</p></td>
-<td><p>畢業[38]</p></td>
+<td><p>畢業[39]</p></td>
 </tr>
 <tr class="odd">
 <td><p>Jan</p></td>
@@ -606,9 +608,9 @@ Sachiya Hanami</p></td>
 <td></td>
 <td><p>1期</p></td>
 <td><p>BIII</p></td>
-<td><p>2018年2月28日[39]</p></td>
+<td><p>2018年2月28日[40]</p></td>
 <td><p>畢業<br />
-所屬經紀公司為[40][41]</p></td>
+所屬經紀公司為[41][42]</p></td>
 </tr>
 <tr class="even">
 <td><p>Can</p></td>
@@ -618,7 +620,7 @@ Sachiya Hanami</p></td>
 <td><p>1期</p></td>
 <td><p>BIII</p></td>
 <td><p>2018年8月26日</p></td>
-<td><p>畢業[42]<br />
+<td><p>畢業[43]<br />
 所屬經紀公司為BNK48 Office</p></td>
 </tr>
 <tr class="odd">
@@ -659,7 +661,7 @@ Sachiya Hanami</p></td>
 <td><p>1期</p></td>
 <td><p>2018年2月12日</p></td>
 <td><p>丹麥與泰國混血<br />
-畢業[43]</p></td>
+畢業[44]</p></td>
 </tr>
 <tr class="even">
 <td><p>Maysa</p></td>
@@ -668,7 +670,7 @@ Sachiya Hanami</p></td>
 <td></td>
 <td><p>1期</p></td>
 <td><p>2018年10月31日</p></td>
-<td><p>畢業[44]</p></td>
+<td><p>畢業[45]</p></td>
 </tr>
 <tr class="odd">
 <td><p>Deenee</p></td>
@@ -677,7 +679,7 @@ Sachiya Hanami</p></td>
 <td></td>
 <td><p>2期</p></td>
 <td><p>2019年8月11日</p></td>
-<td><p>畢業[45]</p></td>
+<td><p>畢業[46]</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -969,7 +971,7 @@ Type B</p></td>
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
-<td><p>2019年5月</p></td>
+<td><p>2019年8月</p></td>
 <td><p>《Jabaja》</p></td>
 <td></td>
 <td></td>
@@ -994,7 +996,7 @@ Type B</p></td>
 
 ### 二期生
 
-  - 應徵總數：10782名\[46\]
+  - 應徵總數：10782名\[47\]
   - 徵選時間：2017年12月25日－2018年2月1日
   - 第一次審査：合格者約300名
   - 第二次審査（2018年2月中旬）：合格者94名
@@ -1007,15 +1009,21 @@ Type B</p></td>
 
 ## 劇場公演
 
-自2018年5月起、组合与专属剧场“BNK48劇場”进行定期公演\[47\]。 [BNK48_theater.jpg](https://zh.wikipedia.org/wiki/File:BNK48_theater.jpg "fig:BNK48_theater.jpg")
+自2018年5月起、组合与专属剧场“BNK48劇場”进行定期公演\[48\]。 [BNK48_theater.jpg](https://zh.wikipedia.org/wiki/File:BNK48_theater.jpg "fig:BNK48_theater.jpg")
 
 ### Team BIII
 
-1.  [PARTY開始了](https://zh.wikipedia.org/wiki/Team_A_1st_Stage「PARTY開始了」#BNK48_Team_BIII_1st_Stage「PARTY開始了」公演 "wikilink")：2018年5月12日\[48\]－\[49\]
+1.  [PARTY開始了](https://zh.wikipedia.org/wiki/Team_A_1st_Stage「PARTY開始了」#BNK48_Team_BIII_1st_Stage「PARTY開始了」公演 "wikilink")：2018年5月12日\[49\]－\[50\]
 
 ### 研究生
 
 1.  [PARTY開始了](https://zh.wikipedia.org/wiki/Team_A_1st_Stage「PARTY開始了」#BNK48_研究生「PARTY開始了」公演 "wikilink")：2018年8月10日－
+
+## 子團體
+
+| 組合名稱     | 成員                | 備註     |
+| -------- | ----------------- | ------ |
+| Mimigumo | Music、Kaimook、Jaa | 首個子團體。 |
 
 ## 演出
 
@@ -1174,8 +1182,8 @@ Bluport Huahin</p></td>
 34.
 
 35.
-36.
 
+36.
 37.
 
 38.
@@ -1197,6 +1205,8 @@ Bluport Huahin</p></td>
 46.
 
 47.
-48. 于同月6 - 7日举行了面向Founder Member，不对外售票的首演
 
-49.
+48.
+49. 于同月6 - 7日举行了面向Founder Member，不对外售票的首演
+
+50.

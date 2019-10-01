@@ -118,7 +118,7 @@ Hidden Star in Four Seasons</p></td>
 Hidden Star in Fifth Season</p></td>
 <td><p>後戶之國（）</p></td>
 <td><p>爾子田 里乃 ＆ 丁禮田 舞</p></td>
-<td><p>摩多羅 隱岐奈</p></td>
+<td><p>摩多羅 隱岐奈（真）</p></td>
 </tr>
 </tbody>
 </table>

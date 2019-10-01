@@ -64,7 +64,7 @@ A.R.C. 的網路系統安全管理員。26歲，相當厲害的[程式設計師]
 
 #### Nora
 
-ROBOHead的製造者，天才少女，具有超能力，後為土竜組織內「玖鳳會」的頭目 主要補充ROBOHead的故事。
+ROBOHead的製造者，天才少女，具有超能力，後為土竜組織內「玖凰會」的頭目 主要補充ROBOHead的故事。
 
 （V1.8更新人物）
 
@@ -94,7 +94,9 @@ toucharcade上的尼克泰爾沃克（Nick Tylwalk）給予4.5顆星的評價，
 
 ## 參考文獻
 
-[Category:雷亞遊戲](https://zh.wikipedia.org/wiki/Category:雷亞遊戲 "wikilink") [Category:音樂遊戲](https://zh.wikipedia.org/wiki/Category:音樂遊戲 "wikilink") [Category:臺灣開發電子遊戲](https://zh.wikipedia.org/wiki/Category:臺灣開發電子遊戲 "wikilink") [Category:2018年电子游戏](https://zh.wikipedia.org/wiki/Category:2018年电子游戏 "wikilink") [Category:赛博朋克电子游戏](https://zh.wikipedia.org/wiki/Category:赛博朋克电子游戏 "wikilink")
+[Category:文明崩潰後世界題材遊戲](https://zh.wikipedia.org/wiki/Category:文明崩潰後世界題材遊戲 "wikilink")
+
+[Category:雷亞遊戲](https://zh.wikipedia.org/wiki/Category:雷亞遊戲 "wikilink") [Category:音樂遊戲](https://zh.wikipedia.org/wiki/Category:音樂遊戲 "wikilink") [Category:臺灣開發電子遊戲](https://zh.wikipedia.org/wiki/Category:臺灣開發電子遊戲 "wikilink") [Category:2018年电子游戏](https://zh.wikipedia.org/wiki/Category:2018年电子游戏 "wikilink") [Category:赛博朋克电子游戏](https://zh.wikipedia.org/wiki/Category:赛博朋克电子游戏 "wikilink") [Category:黑幫題材作品](https://zh.wikipedia.org/wiki/Category:黑幫題材作品 "wikilink") [Category:人工智慧題材作品](https://zh.wikipedia.org/wiki/Category:人工智慧題材作品 "wikilink") [Category:機器人題材作品](https://zh.wikipedia.org/wiki/Category:機器人題材作品 "wikilink")
 
 1.
 2.

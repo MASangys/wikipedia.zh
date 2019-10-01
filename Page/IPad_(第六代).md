@@ -38,7 +38,7 @@
 
 ## 参考文献
 
-[Category:IPad](https://zh.wikipedia.org/wiki/Category:IPad "wikilink") [Category:IOS](https://zh.wikipedia.org/wiki/Category:IOS "wikilink") [Category:蘋果公司](https://zh.wikipedia.org/wiki/Category:蘋果公司 "wikilink") [Category:2018年面世的產品](https://zh.wikipedia.org/wiki/Category:2018年面世的產品 "wikilink")
+[Category:IPad](https://zh.wikipedia.org/wiki/Category:IPad "wikilink") [Category:IOS](https://zh.wikipedia.org/wiki/Category:IOS "wikilink") [Category:蘋果公司](https://zh.wikipedia.org/wiki/Category:蘋果公司 "wikilink") [Category:2018年面世的產品](https://zh.wikipedia.org/wiki/Category:2018年面世的產品 "wikilink") [Category:平板電腦](https://zh.wikipedia.org/wiki/Category:平板電腦 "wikilink") [Category:2018年面世的平板電腦](https://zh.wikipedia.org/wiki/Category:2018年面世的平板電腦 "wikilink")
 
 1.
 2.  \[<https://technews.tw/2018/03/28/2018-apple-education-event/> 蘋果 2018 教育發表會：新款 9.7 吋 iPad 2018支援 Apple Pencil，售價台幣 10,900 元起\]

@@ -17,7 +17,7 @@
 
 ### 2017年
 
-  - 10月26日，运营方在微博和AKB48官方博客宣佈，經過一年時間的籌備，將正式在上海組建AKB48的官方海外姐妹團，並由中日兩方組建團隊運營\[3\]。這是從2016年6月宣佈與[SNH48進入重新評估狀態](https://zh.wikipedia.org/wiki/SNH48 "wikilink")（實質除名）後，AKB48再次在上海組建新的中國官方姐妹團\[4\]。
+  - 10月26日，运营方在微博和AKB48官方博客宣佈，經過一年時間的籌備，將正式在上海組建AKB48的官方海外姐妹團，並由中日兩方組建團隊運營\[3\]。這是從2016年6月宣佈與[SNH48](../Page/SNH48.md "wikilink")進入重新評估狀態（實質除名）後，AKB48再次在上海組建新的中國官方姐妹團\[4\]。
 
 ### 2018年
 
@@ -227,176 +227,176 @@
 <tr class="even">
 <td><p>程安子</p></td>
 <td><p>Cheng Anzi</p></td>
-<td><p>&lt;!--{{Birth date and age</p></td>
-<td><p>|}}--&gt;</p></td>
 <td></td>
+<td><p>湖北</p></td>
 <td><p>2期</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>龚露雯</p></td>
 <td><p>Gong Luwen</p></td>
-<td><p>&lt;!--{{Birth date and age</p></td>
-<td><p>|}}--&gt;</p></td>
+<td></td>
+<td><p>湖北</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>桂楚楚</p></td>
 <td><p>Gui Chuchu</p></td>
-<td><p>&lt;!--{{Birth date and age</p></td>
-<td><p>|}}--&gt;</p></td>
+<td></td>
+<td><p>湖南</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>胡馨尹</p></td>
 <td><p>Hu Xinyin</p></td>
-<td><p>&lt;!--{{Birth date and age</p></td>
-<td><p>|}}--&gt;</p></td>
+<td></td>
+<td><p>四川</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>渐蔷薇</p></td>
 <td><p>Jian Qiangwei</p></td>
-<td><p>&lt;!--{{Birth date and age</p></td>
-<td><p>|}}--&gt;</p></td>
+<td></td>
+<td><p>山东</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>孔珂昕</p></td>
 <td><p>Kong Kexin</p></td>
-<td><p>&lt;!--{{Birth date and age</p></td>
-<td><p>|}}--&gt;</p></td>
+<td></td>
+<td><p>山东</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>李于淼</p></td>
 <td><p>Li Yumiao</p></td>
-<td><p>&lt;!--{{Birth date and age</p></td>
-<td><p>|}}--&gt;</p></td>
+<td></td>
+<td><p>上海</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>莉莎</p></td>
 <td><p>Lisha</p></td>
-<td><p>&lt;!--{{Birth date and age</p></td>
-<td><p>|}}--&gt;</p></td>
 <td></td>
+<td><p>日本东京</p></td>
+<td><p>中日混血[25]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>梁时安</p></td>
 <td><p>Liang Shian</p></td>
-<td><p>&lt;!--{{Birth date and age</p></td>
-<td><p>|}}--&gt;</p></td>
+<td></td>
+<td><p>北京</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>刘柳</p></td>
 <td><p>Liu Liu</p></td>
-<td><p>&lt;!--{{Birth date and age</p></td>
-<td><p>|}}--&gt;</p></td>
+<td></td>
+<td><p>河南</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>潘秋怡</p></td>
 <td><p>Pan Qiuyi</p></td>
-<td><p>&lt;!--{{Birth date and age</p></td>
-<td><p>|}}--&gt;</p></td>
+<td></td>
+<td><p>广东</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>蒲祉颖</p></td>
 <td><p>Pu Zhiying</p></td>
-<td><p>&lt;!--{{Birth date and age</p></td>
-<td><p>|}}--&gt;</p></td>
+<td></td>
+<td><p>四川</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>施蔼倍</p></td>
 <td><p>Shi Aibei</p></td>
-<td><p>&lt;!--{{Birth date and age</p></td>
-<td><p>|}}--&gt;</p></td>
+<td></td>
+<td><p>上海</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>谭珺兮</p></td>
 <td><p>Tan Junxi</p></td>
-<td><p>&lt;!--{{Birth date and age</p></td>
-<td><p>|}}--&gt;</p></td>
+<td></td>
+<td><p>四川</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>王俞然</p></td>
 <td><p>Wang Yuran</p></td>
-<td><p>&lt;!--{{Birth date and age</p></td>
-<td><p>|}}--&gt;</p></td>
+<td></td>
+<td><p>福建</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>吴怡婷</p></td>
 <td><p>Wu Yiting</p></td>
-<td><p>&lt;!--{{Birth date and age</p></td>
-<td><p>|}}--&gt;</p></td>
+<td></td>
+<td><p>浙江</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>熊芳妮</p></td>
 <td><p>Xiong Fangni</p></td>
-<td><p>&lt;!--{{Birth date and age</p></td>
-<td><p>|}}--&gt;</p></td>
+<td><p>8月15日</p></td>
+<td><p>浙江</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>曾鸶淳</p></td>
 <td><p>Zeng Sichun</p></td>
-<td><p>&lt;!--{{Birth date and age</p></td>
-<td><p>|}}--&gt;</p></td>
+<td></td>
+<td><p>四川</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>张倩霏</p></td>
 <td><p>Zhang Qianfei</p></td>
-<td><p>&lt;!--{{Birth date and age</p></td>
-<td><p>|}}--&gt;</p></td>
+<td></td>
+<td><p>河北</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>张乔瑜</p></td>
 <td><p>Zhang Qiaoyu</p></td>
-<td><p>&lt;!--{{Birth date and age</p></td>
-<td><p>|}}--&gt;</p></td>
+<td></td>
+<td><p>山东</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>张樱璐</p></td>
 <td><p>Zhang Yinglu</p></td>
-<td><p>&lt;!--{{Birth date and age</p></td>
-<td><p>|}}--&gt;</p></td>
+<td></td>
+<td><p>安徽</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>邹若男</p></td>
 <td><p>Zou Ruonan</p></td>
-<td><p>&lt;!--{{Birth date and age</p></td>
-<td><p>|}}--&gt;</p></td>
+<td></td>
+<td><p>江苏</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -407,12 +407,12 @@
 
 | 姓名  | 读音        | 出生日期   | 出生地 | 加入期別 | 最终在籍日         | 备注       |
 | --- | --------- | ------ | --- | ---- | ------------- | -------- |
-| 刘绘  | Liu Hui   | 10月18日 | 江苏  | 1期   | 2018年12月27日公布 | 解约\[25\] |
+| 刘绘  | Liu Hui   | 10月18日 | 江苏  | 1期   | 2018年12月27日公布 | 解约\[26\] |
 | 刘奕含 | Liu YiHan |        | 江苏  | 1期   |               |          |
 
 ### 成員招募活動
 
-  - 招募事項\[26\]
+  - 招募事項\[27\]
 
 <!-- end list -->
 
@@ -433,7 +433,7 @@
 <!-- end list -->
 
   -
-    一次審査－書面審核，報名人數38066人\[27\]
+    一次審査－書面審核，報名人數38066人\[28\]
     二次審査－面試，于成都、广州、武汉、北京、沈阳及上海六地举行
     三次審査－面試（上海）：合格者62名
     最終審查－面試（上海[梅賽德斯-奔馳文化中心音乐俱乐部](https://zh.wikipedia.org/wiki/梅賽德斯-奔馳文化中心 "wikilink")）：合格者34名
@@ -445,7 +445,7 @@
 
 #### 二期生
 
-  - 報名期間：2019年5月27日\[28\]至7月17日\[29\]
+  - 報名期間：2019年5月27日\[29\]至7月17日\[30\]
   - 招募過程：
 
 <!-- end list -->
@@ -497,7 +497,7 @@
 </tr>
 <tr class="even">
 <td><p>12月27日</p></td>
-<td><p>一期生 刘绘、刘奕含解约离团[30]</p></td>
+<td><p>一期生 刘绘、刘奕含解约离团[31]</p></td>
 <td><p>-2</p></td>
 <td><p>21</p></td>
 <td><p><strong>1期生</strong>23人→<strong>21人</strong></p></td>
@@ -567,19 +567,20 @@ Type-B（CD+DVD）</p></td>
 | 2018年12月3日 | 《[LOVE TRIP](https://zh.wikipedia.org/wiki/LOVE_TRIP "wikilink")》（爱的旅程） |    |
 | 2019年3月25日 | 《[NO WAY MAN](../Page/NO_WAY_MAN.md "wikilink")》                        |    |
 | 2019年5月20日 | 《关于你》                                                                   |    |
+| 2019年9月20日 | 《[持续的爱恋](../Page/持續愛你.md "wikilink")》                                   |    |
 
 ## 媒体出演
 
 ### 网络综艺
 
   - 《[創造101](https://zh.wikipedia.org/wiki/創造101 "wikilink")》（[腾讯视频](../Page/腾讯视频.md "wikilink")，2018年4月21日 - 6月23日）毛唯嘉、劉念作以参赛者身分出演
-  - 《AKB少女90天的挑战》（腾讯视频、Bilibili、优酷、YouTube，2019年3月16日 - 6月15日，每周二、四、六更新）魏新及袁瑞希为主角\[31\]
-  - 《SH第二现场》（腾讯视频、Bilibili、优酷、AcFun、YouTube，2019年3月11日 - 、不定期更新）\[32\]
-  - 《Say Hi》（Bilibili，2019年5月8日 - 、每周三更新）\[33\]
+  - 《AKB少女90天的挑战》（腾讯视频、Bilibili、优酷、YouTube，2019年3月16日 - 6月15日，每周二、四、六更新）魏新及袁瑞希为主角\[32\]
+  - 《SH第二现场》（腾讯视频、Bilibili、优酷、AcFun、YouTube，2019年3月11日 - 、不定期更新）\[33\]
+  - 《Say Hi》（Bilibili，2019年5月8日 - 、每周三更新）\[34\]
 
 ### 广告代言
 
-  - [资生堂跨境形象大使](https://zh.wikipedia.org/wiki/资生堂 "wikilink")（2019年4月）：刘念、毛唯嘉、朱苓、吴安琪、魏新\[34\]
+  - [资生堂跨境形象大使](https://zh.wikipedia.org/wiki/资生堂 "wikilink")（2019年4月）：刘念、毛唯嘉、朱苓、吴安琪、魏新\[35\]
 
 ## 註釋
 
@@ -646,17 +647,19 @@ Type-B（CD+DVD）</p></td>
 
 24.
 25.
-26.
 
+26.
 27.
+
 28.
 29.
-
 30.
-31.
 
+31.
 32.
 
 33.
 
 34.
+
+35.

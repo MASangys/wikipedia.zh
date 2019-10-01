@@ -1,4 +1,4 @@
-**重型戰鬥突擊步槍**（，簡稱：HCAR；又稱：**重型戰鬥突擊步槍**，，簡稱HCAR；以下亦沿用簡稱稱呼）是一枝由[美国](../Page/美国.md "wikilink")俄亥俄軍械廠所生產的[戰鬥步槍](https://zh.wikipedia.org/wiki/戰鬥步槍 "wikilink")，為[M1918白朗寧自動步槍的現代化改進型](../Page/白朗寧自動步槍.md "wikilink")，並在第143屆[全国步枪协会展會上推出](../Page/美国全国步枪协会.md "wikilink")，發射[.30-06](../Page/.30-06春田步槍彈.md "wikilink")[春田](https://zh.wikipedia.org/wiki/春田兵工廠 "wikilink")（7.62×63毫米）[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
+**重型戰鬥突擊步槍**（，簡稱：HCAR；又稱：**重型戰鬥突擊步槍**，，簡稱HCAR；以下亦沿用簡稱稱呼）是一枝由[美国](../Page/美国.md "wikilink")俄亥俄軍械廠所生產的[戰鬥步槍](https://zh.wikipedia.org/wiki/戰鬥步槍 "wikilink")，為[M1918白朗寧自動步槍的現代化改進型](../Page/白朗寧自動步槍.md "wikilink")，並在第143屆[全国步枪协会展會上推出](../Page/美国全国步枪协会.md "wikilink")，發射[.30-06](../Page/.30-06春田步槍彈.md "wikilink")[春田](../Page/春田兵工廠.md "wikilink")（7.62×63毫米）[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 ## 歷史
 
@@ -8,7 +8,7 @@ HCAR是俄亥俄軍械廠以著名枪械设计师[约翰·勃朗宁](../Page/约
 
 ## 設計細節
 
-HCAR與其前身[M1918 BAR一樣發射](../Page/白朗寧自動步槍.md "wikilink")[.30-06](../Page/.30-06春田步槍彈.md "wikilink")[春田](https://zh.wikipedia.org/wiki/春田兵工廠 "wikilink")（7.62×63毫米）[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")，並且由俄亥俄州軍械廠重新進行工程設計，以消除原槍M1918 BAR的固有缺點。由於HCAR的改進都主要集中在外部，內部結構上基本沒有改變。另外，該公司亦正在計劃未來推出該步槍的多種口徑的版本。
+HCAR與其前身[M1918 BAR一樣發射](../Page/白朗寧自動步槍.md "wikilink")[.30-06](../Page/.30-06春田步槍彈.md "wikilink")[春田](../Page/春田兵工廠.md "wikilink")（7.62×63毫米）[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")，並且由俄亥俄州軍械廠重新進行工程設計，以消除原槍M1918 BAR的固有缺點。由於HCAR的改進都主要集中在外部，內部結構上基本沒有改變。另外，該公司亦正在計劃未來推出該步槍的多種口徑的版本。
 
 該槍取消了多個佔其重量一大部分的木製和鋼製零部件或僅作為自動步槍使用時不必要的部件，例如木製固定[槍托](../Page/槍托.md "wikilink")、[機械瞄具](../Page/機械瞄具.md "wikilink")和提把，前者還會大量使用許多現代技術和材料，包括高科技複合材料重新設計及取代。而[護木](https://zh.wikipedia.org/wiki/護木 "wikilink")、、[彈匣](../Page/彈匣.md "wikilink")插口護板、機匣下部零件皆由[碳纖維](../Page/碳纖維.md "wikilink")增強[聚合物](../Page/聚合物.md "wikilink")製造以減少該槍的重量。使用的槍托為[馬格普CTR可伸縮式鏤空槍托](../Page/馬格普工業公司.md "wikilink")，具有前後多段位置和。連接到槍機機框左機匣，並且留下拉機柄導槽以允許由左手直接操作，而射擊手仍可保持在手槍握把的位置。機匣後部裝有原槍沒有的液壓緩衝適配器，除了令步槍直槍身化，還可減少使用者所感受到的[後座力](../Page/後座力.md "wikilink")；尤其是對於發射大威力步槍子彈的武器而言，這是十分重要的。
 

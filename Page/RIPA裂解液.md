@@ -1,4 +1,4 @@
-**RIPA裂解液**（，全称**放射免疫沉淀法缓冲液**）是一种用于[裂解](../Page/裂解.md "wikilink")细胞或组织的，常用于[放射性](../Page/放射性.md "wikilink")[免疫沉淀分析](https://zh.wikipedia.org/wiki/免疫沉澱法 "wikilink")（RIPA）\[1\]\[2\]。此缓冲液的变性性能比或[曲拉通X-100](../Page/曲拉通X-100.md "wikilink")裂解缓冲液更强，因为它包含[离子型去垢剂](../Page/清洁剂.md "wikilink")[SDS和](../Page/十二烷基硫酸钠.md "wikilink")作为破坏[核膜](../Page/核膜.md "wikilink")，提取核内物质的活性成分。RIPA缓冲液在实验时能提供低的背景，但也会使[激酶变性](https://zh.wikipedia.org/wiki/激酶 "wikilink")。
+**RIPA裂解液**（，全称**放射免疫沉淀法缓冲液**）是一种用于[裂解](../Page/裂解.md "wikilink")细胞或组织的，常用于[放射性](../Page/放射性.md "wikilink")[免疫沉淀分析](https://zh.wikipedia.org/wiki/免疫沉澱法 "wikilink")（RIPA）\[1\]\[2\]。此缓冲液的变性性能比或[曲拉通X-100](../Page/曲拉通X-100.md "wikilink")裂解缓冲液更强，因为它包含[离子型去垢剂](../Page/清洁剂.md "wikilink")[SDS和](../Page/十二烷基硫酸钠.md "wikilink")[脱氧胆酸钠作为破坏](https://zh.wikipedia.org/wiki/脱氧胆酸 "wikilink")[核膜](../Page/核膜.md "wikilink")，提取核内物质的活性成分。RIPA缓冲液在实验时能提供低的背景，但也会使[激酶变性](https://zh.wikipedia.org/wiki/激酶 "wikilink")。
 
 ## 配方
 

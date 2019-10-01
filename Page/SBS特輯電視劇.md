@@ -1681,7 +1681,7 @@
 </p></td>
 <td style="text-align: center;"><p>2</p></td>
 <td style="text-align: center;"><p><small><a href="../Page/李玹雨.md" title="wikilink">李玹雨</a>、<a href="../Page/柳賢慶.md" title="wikilink">柳賢慶</a>、<a href="../Page/安內相.md" title="wikilink">安內相</a></small></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/吳忠煥" title="wikilink">吳忠煥</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/吳忠煥.md" title="wikilink">吳忠煥</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/尹智秀" title="wikilink">尹智秀</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/超高畫質電視.md" title="wikilink">UHD</a>、春節特輯電視劇</p></td>
 </tr>

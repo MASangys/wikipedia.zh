@@ -62,11 +62,11 @@
 
 2019年7月10日，任天堂发布了一款专注手持模式的任天堂Switch并取名为任天堂Switch Lite。Switch Lite为一体形设计，直接附加Joy-Con在主机上无法取下。并使用了一块更小的屏幕。另外，原来左Joy-Con的分体式[十字键也被替换成了连接在一起的十字键](https://zh.wikipedia.org/wiki/十字键 "wikilink")。主机大小为且重量为。虽然体积更小了，但Switch Lite拥有了一块更大的电池，电池充满后，可以连续游玩至少3至7小时，而标准版Switch仅能游玩2.5至6.5小时。因为机身自带的Joy-Con无法取下，Switch Lite也没有Joy-Con的HD震动和红外照相机的机能。因此，Switch Lite仅能游玩支持手持模式的游戏。但Switch Lite保留了Switch的陀螺仪传感器和蓝牙，Wi-Fi和NFC通信功能。一些支持桌面模式的需要使用HD震动和红外照相机机能的游戏，需要连接额外购买的Joy-Con就可以进行游玩，例如《1-2-Switch》。机器不支持将画面输出至电视机或显示器。所以Switch Lite不兼容仅支持电视模式的游戏。如果玩家尝试在eShop中购买仅支持电视和/或支持桌面模式的游戏，系统将会提醒玩家Switch Lite不兼容此游戏。Switch Lite除了兼容普通的Joy-Con外，还支持连接第三方兼容普通Switch的游戏控制器。\[50\]\[51\]\[52\]
 
-任天堂Switch Lite在台湾及香港的建议零售价为1490[港元](../Page/港元.md "wikilink")及6180[新台币](https://zh.wikipedia.org/wiki/新台币 "wikilink")。计划将于2019年9月20日在全球发售。机器有三种颜色可选：黃色、灰色及藍綠色。另外还有一个[《宝可梦 剑》和《宝可梦 盾》游戏限定版本的Switch](../Page/寶可夢_劍／盾.md "wikilink") Lite，机身上印有游戏中登場的傳說的寶可夢「蒼響」和「藏瑪然特」，任天堂Switch Lite 蒼響／藏瑪然特將於2019年11月1日在台湾及香港发售，建议零售价为1490港币及6180新台币。\[53\]
+任天堂Switch Lite在台湾及香港的建议零售价为1490[港元](../Page/港元.md "wikilink")及6180[新台币](https://zh.wikipedia.org/wiki/新台币 "wikilink")，于2019年9月20日在全球同步发售，首发机器有三种颜色可选：黃色、灰色及藍綠色。另外还有一个[《宝可梦 剑》和《宝可梦 盾》游戏限定版本的Switch](../Page/寶可夢_劍／盾.md "wikilink") Lite，机身上印有游戏中登場的傳說的寶可夢「蒼響」和「藏瑪然特」，任天堂Switch Lite 蒼響／藏瑪然特將於2019年11月1日在台湾及香港发售，建议零售价为1490港币及6180新台币。\[53\]
 
 ### 2019年新版任天堂Switch
 
-2019年7月初，任天堂向美国[联邦通信委员会](../Page/联邦通信委员会.md "wikilink")递交了将变更任天堂Switch主机硬件的通知，其中包括了系统芯片（SoC）和内存的修改信息。在稍后的7月17日，任天堂正式公布了新版本的任天堂Switch主机，通过内部设计变更使得新主机的续航时间相较于初版主机增加到了4到9小时。
+2019年7月初，任天堂向美国[联邦通信委员会](../Page/联邦通信委员会.md "wikilink")递交了将变更任天堂Switch主机硬件的通知，其中包括了系统芯片（SoC）和内存的修改信息。在稍后的7月17日，任天堂正式公布了新版本的任天堂Switch主机，通过内部设计变更使得新主机的续航时间相较于老版主机增加到了4到9小时。新版主机的系统芯片英伟达的Tegra X1采用了更先进的16纳米制程工艺，并且主机内存采用了更节电的LPDDR4x，使得新版主机即使沿用了老版主机的4310mAh电池，其续航能力获得了巨大的提升。\<ref name"DF_ns2019_review"\>[The new Nintendo Switch review: the updated Tegra X1 tested in depth](https://www.eurogamer.net/articles/digitalfoundry-2019-new-nintendo-switch-hac-001-01-review).Digital Foundry.2019-08-21.\[2019-09-05\].</ref>
 
 ## 软件
 
@@ -98,39 +98,40 @@
 
 ### 發售後
 
-IGN給任天堂Switch7.0分的評價（臨時評價6.7分），編輯Vincent Ingenito列出了幾個原因，像是「尺寸太大，電力對於行動設備來說不足」，最大的原因則是「無論擔任哪一個角色都做出了妥協」，意思就是Switch由於需要兼顧家用主機、掌機、行動設備的能力，因此在各方面都沒辦法做到最好。但IGN的評價也讓任天堂粉絲感到不滿。而編輯Vincent也在評分任天堂Switch之後被IGN裁員。\[80\]
-IGN 於2018年九月底發布新的評價，Tom Marks讚揚任天堂Switch的便利性，「不可否認任天堂Switch確實比PS4以及Xbox One弱，像是Switch版《毀滅戰士》能明顯看出畫質的妥協，但能隨處完《毀滅戰士》這種家機大作已是非常驚嘆。」，即使缺乏許多第三廠商大作，依然稱讚任天堂Switch的第一廠商以及Indie遊戲陣容，但硬體耐用度以及網路服務依然受到批評，並給出比之前高的8.3分。\[81\]
+IGN給任天堂Switch7.0分的評價（臨時評價6.7分），編輯Vincent Ingenito列出了幾個原因，像是「尺寸太大，電力對於行動設備來說不足」，最大的原因則是「無論擔任哪一個角色都做出了妥協」，意思就是Switch由於需要兼顧家用主機、掌機、行動設備的能力，因此在各方面都沒辦法做到最好。\[80\]但IGN的評價也讓任天堂粉絲感到不滿。而編輯Vincent也在評分任天堂Switch之後被IGN裁員。\[81\]
+
+IGN於2018年9月底發布新的評價，Tom Marks讚揚任天堂Switch的便利性，「不可否認任天堂Switch確實比PS4以及Xbox One弱，像是Switch版《毀滅戰士》能明顯看出畫質的妥協，但能隨處玩《毀滅戰士》這種家機大作已是非常驚嘆」，即使缺乏許多第三廠商大作，依然稱讚任天堂Switch的第一廠商以及Indie遊戲陣容，但硬體耐用度以及網路服務依然受到批評，並給出比之前高的8.3分。\[82\]
 
 Gamespot指出「Switch將其所有的精力都投入到了它的掌機形態中，這讓你真的可以把主機四處帶著走。」並且表示「任天堂已經為一台偉大的主機打下了紮實的基礎。 」
 
 Engadget對任天堂Switch的看法是「任天堂又一次成功的完成了自己的創新。它與其他主機的區別非常明顯，並且做了很多玩家們肯定會喜歡的設計。但是主機的電池續航，屏幕在室外的表現，以及現在還未知的網絡能力與服務讓我非常擔心。任天堂又一次驚艷了我們，但他們還需要很長一段路去證明Switch不會是下一台[Wii U](../Page/Wii_U.md "wikilink")。」
 
-2017年11月，《[時代雜誌](../Page/時代雜誌.md "wikilink")》將任天堂Switch列為2017年的25款「最佳發明」之一。\[82\]\[83\]
+2017年11月，《[時代雜誌](../Page/時代雜誌.md "wikilink")》將任天堂Switch列為2017年的25款「最佳發明」之一。\[83\]\[84\]
 
 ### 商業評論
 
   - 消費者和分析師對於取消鎖區有高度肯定，鎖區雖能確保各國經銷商與軟體公司的利潤(玩家不能因匯差而跳去最低售價的地區購買)，但卻會嚴重降低玩家購買遊戲機的意願(某區若無該遊戲之經銷商，就意味著該區玩家無法玩到該遊戲)。
-  - 2018年10月，[雷吉·菲爾斯-埃米表示](https://zh.wikipedia.org/wiki/雷吉·菲爾斯-埃米 "wikilink")：「如果沒有Wii U，就沒有Switch。」（）。\[84\]
+  - 2018年10月，[雷吉·菲爾斯-埃米表示](https://zh.wikipedia.org/wiki/雷吉·菲爾斯-埃米 "wikilink")：「如果沒有Wii U，就沒有Switch。」（）。\[85\]
 
 ### 銷售成績
 
-2017年1月，任天堂Switch于发表会后几天正式开放网络预购，不到一天各个首发国家的网络预购先后售罄。特别是日本地区在预购结束后，不少购物网站开始出现黄牛高价转卖，将原价29,980日元（不含税）的任天堂Switch炒到3.5万日元以上的价格，甚至还出现了7万日元以上的天价。\[85\]任天堂社長君島達己表示，公司目前正準備提高Switch的產量，以滿足玩家們的需求。他表示Switch在3月只會於部分地區上市，庫存要到4月或更晚的時間才會穩定。他又指出目前日本玩家預購的數目，已經達到首批出貨量的80%。\[86\]
+2017年1月，任天堂Switch于发表会后几天正式开放网络预购，不到一天各个首发国家的网络预购先后售罄。特别是日本地区在预购结束后，不少购物网站开始出现黄牛高价转卖，将原价29,980日元（不含税）的任天堂Switch炒到3.5万日元以上的价格，甚至还出现了7万日元以上的天价。\[86\]任天堂社長君島達己表示，公司目前正準備提高Switch的產量，以滿足玩家們的需求。他表示Switch在3月只會於部分地區上市，庫存要到4月或更晚的時間才會穩定。他又指出目前日本玩家預購的數目，已經達到首批出貨量的80%。\[87\]
 
-產業研究機構DFC Intelligence預估任天堂Switch在2020年結束前的累計銷售量將為4,000萬台\[87\]，任天堂社長君島達己則預期任天堂Switch能賣到跟Wii等同的銷售量\[88\]。
+產業研究機構DFC Intelligence預估任天堂Switch在2020年結束前的累計銷售量將為4,000萬台\[88\]，任天堂社長君島達己則預期任天堂Switch能賣到跟Wii等同的銷售量\[89\]。
 
-任天堂Switch在日本地区首周3天的销量约为33万台，好于上一代家用主机[Wii U的](../Page/Wii_U.md "wikilink")30.8万台的首周销量。\[89\]\[90\]\[91\]任天堂北美没有公开新主机的首周销量数字，但称任天堂Switch在美国的首周2天的销量是任天堂家用主机在北美有史以来首周销量最高的，甚至超过了当年[Wii](../Page/Wii.md "wikilink")的成绩。\[92\]而任天堂欧洲也宣布任天堂Switch在欧洲的首周销量成绩超过以往任何任天堂主机在欧洲的首周销量；不过新主机在英国地区的成绩虽然是Wii U的两倍，但是并没有超过Wii当年的记录。\[93\]
+任天堂Switch在日本地区首周3天的销量约为33万台，好于上一代家用主机[Wii U的](../Page/Wii_U.md "wikilink")30.8万台的首周销量。\[90\]\[91\]\[92\]任天堂北美没有公开新主机的首周销量数字，但称任天堂Switch在美国的首周2天的销量是任天堂家用主机在北美有史以来首周销量最高的，甚至超过了当年[Wii](../Page/Wii.md "wikilink")的成绩。\[93\]而任天堂欧洲也宣布任天堂Switch在欧洲的首周销量成绩超过以往任何任天堂主机在欧洲的首周销量；不过新主机在英国地区的成绩虽然是Wii U的两倍，但是并没有超过Wii当年的记录。\[94\]
 
-國外數據分析機構SuperData表示，任天堂Switch上市首周的全球銷售量已經達到了150萬台，其中美國地區約50萬台、日本地區約36萬台，佔據了銷售總量的57%，此外，有高達89%的Switch玩家購買了《[薩爾達傳說 曠野之息](https://zh.wikipedia.org/wiki/薩爾達傳說_曠野之息 "wikilink")》，排除[Wii U版](../Page/Wii_U.md "wikilink")，銷售額已達到1.34億美元。\[94\]\[95\]\[96\]全球最大的遊戲連鎖店GameStop的銷售副總Bob Puzon表示，他對任天堂Switch給出了極好的評價，並認為Switch很有可能會超過當年[Wii](../Page/Wii.md "wikilink")的銷售紀錄。Bob Puzon說，雖然不能公布具體銷售數據，不過可以確定的是，Switch具有長期以來最好的軟體與周邊配件的銷售搭配率。\[97\]華爾街日報引述消息報導，任天堂Switch原定本會計年度（4月起）產量800萬台，但市場需求火熱促使該公司將今年度產量增加1倍至1,600萬台。\[98\]然而，GameStop認為任天堂即使真有增產計畫，可能也無法滿足市場旺盛的需求。據科技網站Techtimes報導，GameStop執行長Tony Bartel在法說會上表示，Switch常在補貨數小時內就被搶購一空，需求超乎想像。並且GameStop還宣稱，Switch因為太搶手，今年（2017年）一整年可能都將呈現缺貨狀態。\[99\]
+國外數據分析機構SuperData表示，任天堂Switch上市首周的全球銷售量已經達到了150萬台，其中美國地區約50萬台、日本地區約36萬台，佔據了銷售總量的57%，此外，有高達89%的Switch玩家購買了《[薩爾達傳說 曠野之息](https://zh.wikipedia.org/wiki/薩爾達傳說_曠野之息 "wikilink")》，排除[Wii U版](../Page/Wii_U.md "wikilink")，銷售額已達到1.34億美元。\[95\]\[96\]\[97\]全球最大的遊戲連鎖店GameStop的銷售副總Bob Puzon表示，他對任天堂Switch給出了極好的評價，並認為Switch很有可能會超過當年[Wii](../Page/Wii.md "wikilink")的銷售紀錄。Bob Puzon說，雖然不能公布具體銷售數據，不過可以確定的是，Switch具有長期以來最好的軟體與周邊配件的銷售搭配率。\[98\]華爾街日報引述消息報導，任天堂Switch原定本會計年度（4月起）產量800萬台，但市場需求火熱促使該公司將今年度產量增加1倍至1,600萬台。\[99\]然而，GameStop認為任天堂即使真有增產計畫，可能也無法滿足市場旺盛的需求。據科技網站Techtimes報導，GameStop執行長Tony Bartel在法說會上表示，Switch常在補貨數小時內就被搶購一空，需求超乎想像。並且GameStop還宣稱，Switch因為太搶手，今年（2017年）一整年可能都將呈現缺貨狀態。\[100\]
 
-任天堂Switch在日本上市前4周的銷售量為50萬台，超越PS4在日本上市前4周的43.9萬台，但不敵當年[Wii U上市前](../Page/Wii_U.md "wikilink")4周的62萬台。\[100\]\[101\]\[102\]
+任天堂Switch在日本上市前4周的銷售量為50萬台，超越PS4在日本上市前4周的43.9萬台，但不敵當年[Wii U上市前](../Page/Wii_U.md "wikilink")4周的62萬台。\[101\]\[102\]\[103\]
 
-自3月3日上市以來，任天堂Switch在日本市場仍供不應求，雖然都有定期出貨，但只要一進貨就會搶購一空，甚至還發生在Bic Camera排隊的人群需要抽選購買的事件。\[103\]而任天堂Switch的大賣讓任天堂股票大漲，其市值也超越[索尼](../Page/索尼.md "wikilink")。\[104\]6月25日，任天堂Switch在日本市場銷售量達到101.6萬台，創下本世代家用主機普及速度新紀錄，但速度卻比[Wii](../Page/Wii.md "wikilink")要慢。（达成日本市场銷售量百万的所用时长：Wii為6周、Switch為17周、Wii U為33周、PS4為46周、Xbox One截至2017年6月為止尚未达成。）\[105\]
+自3月3日上市以來，任天堂Switch在日本市場仍供不應求，雖然都有定期出貨，但只要一進貨就會搶購一空，甚至還發生在Bic Camera排隊的人群需要抽選購買的事件。\[104\]而任天堂Switch的大賣讓任天堂股票大漲，其市值也超越[索尼](../Page/索尼.md "wikilink")。\[105\]6月25日，任天堂Switch在日本市場銷售量達到101.6萬台，創下本世代家用主機普及速度新紀錄，但速度卻比[Wii](../Page/Wii.md "wikilink")要慢。（达成日本市场銷售量百万的所用时长：Wii為6周、Switch為17周、Wii U為33周、PS4為46周、Xbox One截至2017年6月為止尚未达成。）\[106\]
 
-截至2017年12月底，任天堂Switch的全球总銷量为1,486万台，已超越[Wii U](../Page/Wii_U.md "wikilink")（1,356萬台）\[106\]\[107\]\[108\]；日本市場的銷量则为340萬7,158台，也已超越Wii U（330萬台）。\[109\]\[110\]
+截至2017年12月底，任天堂Switch的全球总銷量为1,486万台，已超越[Wii U](../Page/Wii_U.md "wikilink")（1,356萬台）\[107\]\[108\]\[109\]；日本市場的銷量则为340萬7,158台，也已超越Wii U（330萬台）。\[110\]\[111\]
 
 2018年10月底公开的（截止至2018年9月底）任天堂财报宣布任天堂Switch主机已在全球售出2,286万台，已超越[任天堂GameCube](../Page/任天堂GameCube.md "wikilink")（2,174萬台），此間加入台灣與韓國市場銷售範圍內的Switch。
 
-2019年4月底公开的（截止至2019年3月底）任天堂财报宣布任天堂Switch主机已在全球售出3,474万台，已超越[任天堂64](../Page/任天堂64.md "wikilink")（3,293萬台），遊戲軟件1億8752份\[111\]。
+2019年4月底公开的（截止至2019年3月底）任天堂财报宣布任天堂Switch主机已在全球售出3,474万台，已超越[任天堂64](../Page/任天堂64.md "wikilink")（3,293萬台），遊戲軟件1億8752份\[112\]。
 
 ## 事件
 
@@ -138,39 +139,39 @@ Engadget對任天堂Switch的看法是「任天堂又一次成功的完成了自
 
 #### 假任天堂Switch惡搞事件
 
-一位叫[Etika](../Page/Etika.md "wikilink")的網路名人在他2016年11月14日的Youtube直播中，在酒醉的情況下拿出任天堂Switch主機，並能像首次預告片中一樣將Joy-Con控制器從主機兩側取出装入握把內，之後又在推特上發布手拿Switch主機以及主機座的照片（但不久後被移除），因此讓許多觀眾以為Etika已在正式發售前四個月擁有該主機。其他電玩媒體经过討論解析后，發現Etika的Joy-Con控制器上的字體跟官方發布照上的字體不同。\[112\]Etika最後在2016年11月17日發布一段自制任天堂Switch廣告影片，並附上網友Frank Sandqvist用[3D列印技術幫他](../Page/3D打印.md "wikilink")“造假”的影片連結，確定该主機為仿製品。\[113\]
+一位叫[Etika](../Page/Etika.md "wikilink")的網路名人在他2016年11月14日的Youtube直播中，在酒醉的情況下拿出任天堂Switch主機，並能像首次預告片中一樣將Joy-Con控制器從主機兩側取出装入握把內，之後又在推特上發布手拿Switch主機以及主機座的照片（但不久後被移除），因此讓許多觀眾以為Etika已在正式發售前四個月擁有該主機。其他電玩媒體经过討論解析后，發現Etika的Joy-Con控制器上的字體跟官方發布照上的字體不同。\[113\]Etika最後在2016年11月17日發布一段自制任天堂Switch廣告影片，並附上網友Frank Sandqvist用[3D列印技術幫他](../Page/3D打印.md "wikilink")“造假”的影片連結，確定该主機為仿製品。\[114\]
 
 ### 正式發售前
 
 #### 「任哥吉拉」事件
 
-任天堂於2017年1月23日正式上線官方線上購物平台「My Nintendo Store」，玩家們可透過此網站來預購任天堂Switch以及其遊戲，但在上線當日，My Nintendo Store網站卻呈現[當機狀態](https://zh.wikipedia.org/wiki/假當機 "wikilink")，並且出現一隻[恐龍即將襲擊城市的圖案](https://zh.wikipedia.org/wiki/恐龍 "wikilink")，日本網民稱之為「任[哥斯拉](../Page/哥斯拉.md "wikilink")」（）。不少網友因此[修圖自娛](https://zh.wikipedia.org/wiki/修圖 "wikilink")，而此事件也上了日本新聞。\[114\]
+任天堂於2017年1月23日正式上線官方線上購物平台「My Nintendo Store」，玩家們可透過此網站來預購任天堂Switch以及其遊戲，但在上線當日，My Nintendo Store網站卻呈現[當機狀態](https://zh.wikipedia.org/wiki/假當機 "wikilink")，並且出現一隻[恐龍即將襲擊城市的圖案](https://zh.wikipedia.org/wiki/恐龍 "wikilink")，日本網民稱之為「任[哥斯拉](../Page/哥斯拉.md "wikilink")」（）。不少網友因此[修圖自娛](https://zh.wikipedia.org/wiki/修圖 "wikilink")，而此事件也上了日本新聞。\[115\]
 
 #### 主機提前洩漏事件
 
-2017年2月17日，NeoGAF論壇的一位用戶hiphoptherobot在他的[YouTube](../Page/YouTube.md "wikilink")頻道上傳了任天堂Switch的提前開箱與系統畫面影片，吸引不少網友觀看。\[115\]事發兩天後，任天堂宣布提前洩漏的Switch主機目前已經回收，並表示該主機是被美國一位經銷商員工偷出來的，隨後該主機又經過了非法交易，目前偷竊的員工已經被找到並且已被經銷商解僱，他將受到法律制裁。\[116\]\[117\]
+2017年2月17日，NeoGAF論壇的一位用戶hiphoptherobot在他的[YouTube](../Page/YouTube.md "wikilink")頻道上傳了任天堂Switch的提前開箱與系統畫面影片，吸引不少網友觀看。\[116\]事發兩天後，任天堂宣布提前洩漏的Switch主機目前已經回收，並表示該主機是被美國一位經銷商員工偷出來的，隨後該主機又經過了非法交易，目前偷竊的員工已經被找到並且已被經銷商解僱，他將受到法律制裁。\[117\]\[118\]
 
 #### Joy-Con失去與主機本體連接
 
-2017年2月23日，任天堂Switch向美國媒體開放體驗，但Polygon編輯表示，在使用TV模式遊玩《[塞尔达传说 旷野之息](https://zh.wikipedia.org/wiki/薩爾達傳說_荒野之息 "wikilink")》時，他手中的左Joy-Con手柄有幾次突然斷開了連接，讓可憐的林克因操縱問題死亡多次。他表示很多人都是將Joy-Con手柄插到Joy-Con Grip上後出現斷線問題，並且该問題不只出現一次，包括IGN、Kotaku等其他電玩媒體也碰到过此問題。\[118\]Youtube頻道Gamexplain經測試後發現，问题根源並非Joy-Con斷線，而是Joy-Con訊號受到遮蓋，因某些原因，控制器的訊號似乎無法穿過人體，且左右Joy-Con都有此問題。在3月3日當天發售並推出主機系統更新後，此問題仍有出現。任天堂在官網上也公布一項清單，提醒玩家在「這些地方」不適宜使用Joy-Con控制器的無線功能，例如：[電視後方](https://zh.wikipedia.org/wiki/電視 "wikilink")、[魚缸](https://zh.wikipedia.org/wiki/魚缸 "wikilink")／水族箱附近、在金屬物的中間或底部等等。\[119\]直至3月22日，北美任天堂客服表示會對感應不良的Joy-Con控制器免費提供修復，並表示工廠已經解決了[生產線上的問題](https://zh.wikipedia.org/wiki/生產線 "wikilink")，以後生產的Joy-Con控制器將不會有訊號干擾問題。CNET編輯Sean Hollister發現，其Joy-Con在修復前後的唯一差別就是多了塊導電海綿，它的作用多半就是保護手把訊號不受干擾。\[120\]\[121\]\[122\]\[123\]
+2017年2月23日，任天堂Switch向美國媒體開放體驗，但Polygon編輯表示，在使用TV模式遊玩《[塞尔达传说 旷野之息](https://zh.wikipedia.org/wiki/薩爾達傳說_荒野之息 "wikilink")》時，他手中的左Joy-Con手柄有幾次突然斷開了連接，讓可憐的林克因操縱問題死亡多次。他表示很多人都是將Joy-Con手柄插到Joy-Con Grip上後出現斷線問題，並且该問題不只出現一次，包括IGN、Kotaku等其他電玩媒體也碰到过此問題。\[119\]Youtube頻道Gamexplain經測試後發現，问题根源並非Joy-Con斷線，而是Joy-Con訊號受到遮蓋，因某些原因，控制器的訊號似乎無法穿過人體，且左右Joy-Con都有此問題。在3月3日當天發售並推出主機系統更新後，此問題仍有出現。任天堂在官網上也公布一項清單，提醒玩家在「這些地方」不適宜使用Joy-Con控制器的無線功能，例如：[電視後方](https://zh.wikipedia.org/wiki/電視 "wikilink")、[魚缸](https://zh.wikipedia.org/wiki/魚缸 "wikilink")／水族箱附近、在金屬物的中間或底部等等。\[120\]直至3月22日，北美任天堂客服表示會對感應不良的Joy-Con控制器免費提供修復，並表示工廠已經解決了[生產線上的問題](https://zh.wikipedia.org/wiki/生產線 "wikilink")，以後生產的Joy-Con控制器將不會有訊號干擾問題。CNET編輯Sean Hollister發現，其Joy-Con在修復前後的唯一差別就是多了塊導電海綿，它的作用多半就是保護手把訊號不受干擾。\[121\]\[122\]\[123\]\[124\]
 
 ### 正式发售后
 
 #### 卡带“口感”
 
-在产品发售后，有多家媒体发布了“试吃”（舔尝）Switch游戏卡带的文章或视频，因为他们发现该卡带有着“十分可怕”的口感。\[124\]媒体人向任天堂咨询后得到答案，任天堂在Switch卡带表面使用了一种名为[苯甲地那铵](../Page/苯甲地那铵.md "wikilink")的化学物质\[125\]，这种物质非常苦，但对人体无害，因此常被作为[厌恶剂](https://zh.wikipedia.org/wiki/厌恶剂 "wikilink")，防止小巧的卡带被嬰幼兒误食。\[126\]\[127\]\[128\]
+在产品发售后，有多家媒体发布了“试吃”（舔尝）Switch游戏卡带的文章或视频，因为他们发现该卡带有着“十分可怕”的口感。\[125\]媒体人向任天堂咨询后得到答案，任天堂在Switch卡带表面使用了一种名为[苯甲地那铵](../Page/苯甲地那铵.md "wikilink")的化学物质\[126\]，这种物质非常苦，但对人体无害，因此常被作为[厌恶剂](https://zh.wikipedia.org/wiki/厌恶剂 "wikilink")，防止小巧的卡带被嬰幼兒误食。\[127\]\[128\]\[129\]
 
 #### 左Joy-Con感應不良問題
 
-Nintendo Switch主機上市之後，陸續傳出玩家反應左手的Joy-Con控制器感應不良，有一定機率與主機配對產生錯誤。根據海外媒體Polygon向北美任天堂客服中心詢問\[129\]，官方證實的確有發生上述的錯誤，今後生產的Joy-Con控制器將修正這個問題。根據任天堂的說法，這個錯誤來自於硬體面，並非程式面的問題，無法透過線上更新除錯。同時，配對錯誤並非Joy-Con控制器設計層面上的問題，是因分裝工廠的離散，以致發生少數組裝上的錯誤，目前並無進行大規模的修理和換貨計畫。另外，根據北美任天堂的回覆，如果發生Joy-Con控制器配對錯誤的玩家，將可連絡北美任天堂客服中心判斷是否需要送修，任天堂將會免費調整，在一周內將控制器送回玩家手中。但關於日本及亞洲是否在服務範圍內尚未明朗。海外媒體CNET也揭露\[130\]，經過拆解，送修的Joy-Con控制器在送回後，控制器的右下角增設了導電泡棉（此应为普通海绵或其他绝缘体，用作隔离zl开关排线与印刷电路天线，若用导电体则完全失去隔离作用），修正後的Joy-Con控制器確認可正常與主機配對。而從[Amazon新購入的Joy](../Page/亞馬遜公司.md "wikilink")-Con拆解後並無看到增設的導電泡棉，但內部製造編號從「Q-1 16402」變更為「0-4 16342」，根據推測製造流程已經變更，目前新一批的Joy-Con並無發生過配對錯誤的問題。
+Nintendo Switch主機上市之後，陸續傳出玩家反應左手的Joy-Con控制器感應不良，有一定機率與主機配對產生錯誤。根據海外媒體Polygon向北美任天堂客服中心詢問\[130\]，官方證實的確有發生上述的錯誤，今後生產的Joy-Con控制器將修正這個問題。根據任天堂的說法，這個錯誤來自於硬體面，並非程式面的問題，無法透過線上更新除錯。同時，配對錯誤並非Joy-Con控制器設計層面上的問題，是因分裝工廠的離散，以致發生少數組裝上的錯誤，目前並無進行大規模的修理和換貨計畫。另外，根據北美任天堂的回覆，如果發生Joy-Con控制器配對錯誤的玩家，將可連絡北美任天堂客服中心判斷是否需要送修，任天堂將會免費調整，在一周內將控制器送回玩家手中。但關於日本及亞洲是否在服務範圍內尚未明朗。海外媒體CNET也揭露\[131\]，經過拆解，送修的Joy-Con控制器在送回後，控制器的右下角增設了導電泡棉（此应为普通海绵或其他绝缘体，用作隔离zl开关排线与印刷电路天线，若用导电体则完全失去隔离作用），修正後的Joy-Con控制器確認可正常與主機配對。而從[Amazon新購入的Joy](../Page/亞馬遜公司.md "wikilink")-Con拆解後並無看到增設的導電泡棉，但內部製造編號從「Q-1 16402」變更為「0-4 16342」，根據推測製造流程已經變更，目前新一批的Joy-Con並無發生過配對錯誤的問題。
 
 #### 任天堂对产能致歉
 
-任天堂在6月22日公開致歉，並且表示現在每週都會持續生產出貨，盡可能提供主機給欲購買的玩家。包含將在7月、8月出貨的「Nintendo Switch [Splatoon 2同捆組](../Page/Splatoon_2.md "wikilink")」在內，未來會增加出貨量。並預告在秋季之後將會進一步強化生產線。\[131\]
+任天堂在6月22日公開致歉，並且表示現在每週都會持續生產出貨，盡可能提供主機給欲購買的玩家。包含將在7月、8月出貨的「Nintendo Switch [Splatoon 2同捆組](../Page/Splatoon_2.md "wikilink")」在內，未來會增加出貨量。並預告在秋季之後將會進一步強化生產線。\[132\]
 
 ## 法律糾紛
 
-專門推出遊戲配件的廠商Gamevice的公司認為任天堂新主機“任天堂Switch”的控制器概念與他們的Wikipad产品太过相似，兩者都擁有將控制器滑入裝置兩旁的設計，Gamevice正透過法庭申請向任天堂提出Switch的禁售令和申索損失。\[132\]
+專門推出遊戲配件的廠商Gamevice的公司認為任天堂新主機“任天堂Switch”的控制器概念與他們的Wikipad产品太过相似，兩者都擁有將控制器滑入裝置兩旁的設計，Gamevice正透過法庭申請向任天堂提出Switch的禁售令和申索損失。\[133\]
 
 ## 参考资料
 
@@ -181,7 +182,7 @@ Nintendo Switch主機上市之後，陸續傳出玩家反應左手的Joy-Con控�
 
 1.  [NVIDIA Technology Powers New Home Gaming System, Nintendo Switch](https://blogs.nvidia.com/blog/2016/10/20/nintendo-switch/).NVIDIA.2016-10-20.\[2016-10-20\].
 
-2.  [【初公開映像】Nintendo Switch(ニンテンドースイッチ) - YouTube](https://www.youtube.com/watch?v=vvaQENG7lBI)
+2.
 
 3.
 
@@ -203,7 +204,7 @@ Nintendo Switch主機上市之後，陸續傳出玩家反應左手的Joy-Con控�
 
 12.
 
-13. [NS今天更新了4.0系统，加了录像和中文系统](https://www.g-cores.com/articles/93766).机核网.2017-10-19.\[2017-10-21\].
+13.
 
 14.
 
@@ -221,11 +222,11 @@ Nintendo Switch主機上市之後，陸續傳出玩家反應左手的Joy-Con控�
 
 21.
 
-22. [New Nintendo Switch announced, will have longer battery life](https://www.eurogamer.net/articles/2019-07-17-new-nintendo-switch-version-will-have-longer-battery-life).Eurogamer.2019-07-17.\[2019-07-18\].
+22.
 
-23. [「Nintendo Switch」のスペックが公開に。液晶パネルは6.2インチサイズの720pで重量は約297g](http://www.4gamer.net/games/990/G999026/20170113073/).4Gamer.2017-01-13.\[2017-01-13\].
+23.
 
-24. [Nintendo Uses Japan Display as Sole Screen-Panel Supplier for Switch](http://www.wsj.com/articles/nintendo-uses-japan-display-as-sole-screen-panel-supplier-for-switch-1484719384).Wall Street Journal.2017-01-18.\[2017-01-18\].
+24.
 
 25. [Here's What's Actually Going On Inside Your Nintendo Switch](https://www.gizmodo.com.au/2017/03/heres-whats-actually-going-on-inside-your-nintendo-switch/).Gizmodo.2017-03-15.\[2017-09-26\].
 
@@ -243,15 +244,15 @@ Nintendo Switch主機上市之後，陸續傳出玩家反應左手的Joy-Con控�
 
 32. \[<http://www.polygon.com/2017/1/16/14285520/nintendo-switch-joy-con-charging-grip>? Nintendo Switch’s included Joy-Con Grip is not the same as $30 Charging Grip\].Polygon.2017-01-16.\[2017-01-17\].
 
-33. [Nintendo's Switch makes a great first impression](https://www.engadget.com/2017/01/13/nintendo-switch-hands-on-video-photos/).Engadget.2017-01-13.\[2017-01-16\].
+33.
 
-34. [任天堂 Switch 的 Joy-Con 控制器顛覆遊戲手把的傳統形象](http://chinese.engadget.com/2017/01/13/nintendo-switch-joycon-controllers/).Engadget.2017-01-13.\[2017-01-16\].
+34.
 
 35.
 
-36. [A Breakdown Of The Nintendo Switch’s New Controllers](http://kotaku.com/a-breakdown-of-the-nintendo-switch-s-new-controllers-1788022022).Kotaku.2016-10-21.\[2016-10-26\].
+36.
 
-37. [Nintendo Switch's Pro controller looks like an upgrade from the Wii U Pro](http://www.polygon.com/2016/10/20/13346402/nintendo-switch-controller-wii-u-pro).Polygon.2016-10-20.\[2016-10-26\].
+37.
 
 38.
 
@@ -266,15 +267,15 @@ Nintendo Switch主機上市之後，陸續傳出玩家反應左手的Joy-Con控�
 
 44. [Nintendo Switch Teardown](https://www.ifixit.com/Teardown/Nintendo+Switch+Teardown/78263).iFixit.2017-03-03.\[2017-03-12\].
 
-45. [\[Update](http://www.gameinformer.com/b/news/archive/2017/01/14/the-nintendo-switch-supports-up-to-256-gigabyte-micro-sd-cards.aspx) Nintendo Switch Supports Micro SDXC Memory Cards Up To 2TB\].Gameinformer.2017-01-14.\[2017-02-08\].
+45.
 
 46.
 
-47. [Nintendo Switch game cartridges taste offensively bad, trust us (update)](http://www.polygon.com/2017/3/1/14784140/nintendo-switch-cartridges-taste-awful-psa).Polygon.2017-03-01.\[2017-03-12\].
+47.
 
-48. [NINTENDO CONFIRMS AMIIBO SUPPORT FOR NINTENDO SWITCH, CLARIFIES ADDITIONAL FEATURES](http://www.ign.com/articles/2016/10/20/nintendo-confirms-amiibo-support-for-nintendo-switch-clarifies-additional-features).IGN.2016-10-20.\[2016-10-21\].
+48.
 
-49. [NINTENDO SWITCH BATTERY LIFE WILL RANGE FROM 2.5 TO 6 HOURS](http://www.ign.com/articles/2017/01/13/nintendo-switch-battery-life-will-range-from-25-to-6-hours).IGN.2017-01-13.\[2017-01-14\].
+49.
 
 50.
 
@@ -286,47 +287,47 @@ Nintendo Switch主機上市之後，陸續傳出玩家反應左手的Joy-Con控�
 
 54.
 
-55. [寻找《高尔夫》：任天堂在Switch上偷偷纪念岩田聪，这一秘密终于被玩家揭开全貌](http://www.chuapp.com/article/284231.html).触乐网.2017-09-20.\[2017-09-20\].
+55.
 
-56. [SWITCH內建隱藏遊戲高爾夫遭刪除 4.0.0更新後無法啟動](https://www.cool3c.com/article/132060)
+56.
 
-57. [任天堂 Switch「內置」哥爾夫球遊戲被刪除　與岩田前社長說永別](https://unwire.hk/2018/01/01/switchgamegolf/game-channel/)
+57.
 
-58. [看來 Nintendo Switch 藏著的《高爾夫》小遊戲已經消失了](https://chinese.engadget.com/2017/12/28/hackers-say-nintendo-s-hidden-golf-game-on-switch-is-gone/)
+58.
 
-59. [Nintendo Switch won’t have Miiverse or StreetPass](http://venturebeat.com/2017/01/13/nintendo-switch-wont-have-miiverse-or-streetpass/).VentureBeat.2017-01-13.\[2017-01-16\].
+59.
 
 60.
 
-61. [老任宣佈 Switch Online 將在九月上線](https://chinese.engadget.com/2018/02/01/nintendo-switch-online-will-launch-in-september/)
+61.
 
-62. [Nintendo Switch 付費網路服務確定 2018 年 9 月開始營運 年費約新台幣 640 元](https://gnn.gamer.com.tw/3/158653.html)
+62.
 
-63. [把握最後的免費時光！任天堂 Switch 線上付費訂閱服務 9 月開跑](http://ccc.technews.tw/2018/02/01/nintendo-switch-online-service-will-be-released-in-september-this-year/)
+63.
 
-64. [任天堂Switch Online訂閱服務9月正式上線 可享多人連線對戰、語音通話功能](https://n.yam.com/Article/20180202197046)
+64.
 
-65. [NINTENDO SWITCH DETAILS, ONLINE PAID SERVICE CONFIRMED](http://uk.ign.com/articles/2017/01/13/nintendo-switch-online-services-will-be-free-at-first).IGN.2017-01-13.\[2017-01-16\].
+65.
 
 66.
 
 67.
 
-68. [Wii U、3DSとの互換性は？　同梱内容は？　Nintendo Switchに関する任天堂の回答を公開！](http://www.famitsu.com/news/201610/21118771.html).FAMI通.2016-10-21.\[2016-10-22\].
+68.
 
-69. [Nintendo Switch will be region-free](http://www.polygon.com/2017/1/12/14260646/nintendo-switch-region-free-no-region-locking).Polygon.2017-01-13.\[2017-01-13\].
+69.
 
-70. [最新作「ドラゴンクエストXI 過ぎ去りし時を求めて」が発表。プラットフォームはPlayStation 4とニンテンドー3DS。NX向けの開発も明らかに](http://www.4gamer.net/games/999/G999903/20150728050/).4Gamer.2015-07-28.\[2016-10-22\].
+70.
 
-71. [Zelda: Breath of the Wild on Wii U and NX Will Be the Same](http://www.gamespot.com/articles/zelda-breath-of-the-wild-on-wii-u-and-nx-will-be-t/1100-6440876/).GameSpot.2016-05-14.\[2016-10-22\].
+71.
 
-72. [JUST DANCE 2017 AND MORE COMING TO THE NINTENDO SWITCH](https://blog.ubi.com/just-dance-2017-coming-nintendo-switch/) .UbiBlog.2016-10-20.\[2016-10-22\].
+72.
 
-73. [Skyrim Not Confirmed for Nintendo Switch, Despite Appearing in Video Reveal](http://www.gamespot.com/articles/skyrim-not-confirmed-for-nintendo-switch-despite-a/1100-6444660/).GameSpot.2016-10-20.\[2016-10-23\].
+73.
 
-74. [Nintendo’s Reggie Fils-Aime Explains Why Nintendo Needs To Keep Making Consoles](http://gamingbolt.com/nintendos-reggie-fils-aime-explains-why-nintendo-needs-to-keep-making-consoles).GamingBolt.2017-01-30.\[2017-02-08\].
+74.
 
-75. ['Project Sonic 2017' is coming to Xbox One, PS4 and Nintendo NX](https://www.engadget.com/2016/07/23/project-sonic-2017/).engadget.2016-07-23.\[2016-10-24\].
+75.
 
 76.
 
@@ -338,7 +339,7 @@ Nintendo Switch主機上市之後，陸續傳出玩家反應左手的Joy-Con控�
 
 80.
 
-81. [1](https://www.youtube.com/watch?v=K0D2xAI2TqA)
+81.
 
 82.
 
@@ -354,17 +355,17 @@ Nintendo Switch主機上市之後，陸續傳出玩家反應左手的Joy-Con控�
 
 88.
 
-89. [「Nintendo Switch」発売3日間の販売数は約33万台。「ゼルダの伝説　ブレス オブ ザ ワイルド」は合計23万本の「週間販売ランキング＋」](http://www.4gamer.net/games/117/G011794/20170308056/).4Gamer.2017-03-08.\[2017-03-08\].
+89.
 
-90. [「龍が如く5　夢、叶えし者」が35万6000本。「New スーパーマリオブラザーズ U」は16万3000本，Wii U本体は30万8000台の「週間販売ランキング＋」](http://www.4gamer.net/games/117/G011794/20121212048/).4Gamer.2012-12-12.\[2017-03-08\].
+90. [「Nintendo Switch」発売3日間の販売数は約33万台。「ゼルダの伝説　ブレス オブ ザ ワイルド」は合計23万本の「週間販売ランキング＋」](http://www.4gamer.net/games/117/G011794/20170308056/).4Gamer.2017-03-08.\[2017-03-08\].
 
-91. [Nintendo Switchの販売台数をデータから見る――2日間の販売台数は、過去ハードと比べても引けを取らず](https://www.famitsu.com/news/201703/08128524.html).Fami通.2017-03-08.\[2017-03-08\].
+91. [「龍が如く5　夢、叶えし者」が35万6000本。「New スーパーマリオブラザーズ U」は16万3000本，Wii U本体は30万8000台の「週間販売ランキング＋」](http://www.4gamer.net/games/117/G011794/20121212048/).4Gamer.2012-12-12.\[2017-03-08\].
 
-92. [Nintendo says the Switch outsold the Wii at launch](http://www.polygon.com/2017/3/6/14837026/nintendo-switch-sales-record-zelda-breath-of-the-wild).Polygon.2017-03-06.\[2017-03-08\].
+92. [Nintendo Switchの販売台数をデータから見る――2日間の販売台数は、過去ハードと比べても引けを取らず](https://www.famitsu.com/news/201703/08128524.html).Fami通.2017-03-08.\[2017-03-08\].
 
-93. [Switch is Nintendo's fastest-selling console ever in Europe](http://www.eurogamer.net/articles/2017-03-07-nintendo-trumpets-record-switch-sales).Eurogamer.2017-03-07.\[2017-03-08\].
+93. [Nintendo says the Switch outsold the Wii at launch](http://www.polygon.com/2017/3/6/14837026/nintendo-switch-sales-record-zelda-breath-of-the-wild).Polygon.2017-03-06.\[2017-03-08\].
 
-94.
+94. [Switch is Nintendo's fastest-selling console ever in Europe](http://www.eurogamer.net/articles/2017-03-07-nintendo-trumpets-record-switch-sales).Eurogamer.2017-03-07.\[2017-03-08\].
 
 95.
 
@@ -378,9 +379,9 @@ Nintendo Switch主機上市之後，陸續傳出玩家反應左手的Joy-Con控�
 
 100.
 
-101. [後勁十足！任天堂Switch四周賣出50萬](http://news.sina.com.tw/article/20170331/21375820.html)
+101.
 
-102.
+102. [後勁十足！任天堂Switch四周賣出50萬](http://news.sina.com.tw/article/20170331/21375820.html)
 
 103.
 
@@ -392,9 +393,9 @@ Nintendo Switch主機上市之後，陸續傳出玩家反應左手的Joy-Con控�
 
 107.
 
-108.  蘋果日報|newspaper=蘋果日報|accessdate=2018-04-28|language=zh-TW}}
+108.
 
-109.
+109.  蘋果日報|newspaper=蘋果日報|accessdate=2018-04-28|language=zh-TW}}
 
 110.
 
@@ -441,3 +442,5 @@ Nintendo Switch主機上市之後，陸續傳出玩家反應左手的Joy-Con控�
 131.
 
 132.
+
+133.

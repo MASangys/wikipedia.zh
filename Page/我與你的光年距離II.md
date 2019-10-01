@@ -119,7 +119,7 @@
 
   - [我與你的光年距離網劇的微博](https://www.weibo.com/p/1002066010839476/home?from=page_100206&mod=TAB#place)
 
-[Category:中文連續劇](https://zh.wikipedia.org/wiki/Category:中文連續劇 "wikilink") [Category:2018年中国网络剧](https://zh.wikipedia.org/wiki/Category:2018年中国网络剧 "wikilink")
+[Category:中文連續劇](https://zh.wikipedia.org/wiki/Category:中文連續劇 "wikilink") [Category:2018年中国网络剧](https://zh.wikipedia.org/wiki/Category:2018年中国网络剧 "wikilink") [Category:電視劇續集](https://zh.wikipedia.org/wiki/Category:電視劇續集 "wikilink")
 
 1.
 2.

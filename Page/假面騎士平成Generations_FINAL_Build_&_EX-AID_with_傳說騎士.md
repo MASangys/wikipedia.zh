@@ -132,7 +132,7 @@
 
 ### 《假面騎士EX-AID》原主要人物
 
-**仮野明日那（）/ Poppypipopapo（ポッピーピポパポ）**（[松田瑠華飾](https://zh.wikipedia.org/wiki/松田瑠華 "wikilink")）
+**仮野明日那（）/ Poppypipopapo（ポッピーピポパポ）**（[松田瑠華](../Page/松田瑠華.md "wikilink")飾）
 
 **西馬妮可（）**（[黑崎莉奈](../Page/黑崎莉奈.md "wikilink")飾）
 

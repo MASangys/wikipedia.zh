@@ -801,7 +801,7 @@ function p._main(args)
 `                           :cssText(col.t == 1 and`
 `                               p:saveStr('bttmRght', 'border-width:0 ', tab.line[2], ' 0;border-style:solid')`
 `                               or col.t == 2 and (nodeFunc.bridge.lay[c](col.n + 2) and`
-`                                   p:saveStr('right', ';border-right:', p.reuseStr.solid)`
+`                                   p:saveStr('right', '; border-right:', p.reuseStr.solid)`
 `                                   or 'vertical-align:top'`
 `                               )`
 `                               or nil`
@@ -832,7 +832,7 @@ function p._main(args)
 `   local lock_height = (head_br.count or 0) + 1`
 `   return args.scroll_height and`
 `       mw.html.create'div'`
-`           :cssText'border-bottom:1px solid #eee;display:inline-block'`
+`           :cssText'border-bottom:1px solid #eee; display:inline-block'`
 `           :node(not (p.scroll_head_unlock or p.no_column_head) and mw.html.create'div'`
 `               :css{`
 `                   overflow = 'hidden',`
@@ -877,7 +877,7 @@ function p.seed(frame)
 `       :css{`
 `           margin = ('-1px %s -1px -%s'):format(padding, padding),`
 `           float = 'left',`
-`           ['background-color'] = p.bgColor.head,`
+`           ['background'] = p.bgColor.head,`
 `           border = '1px solid #aaa',`
 `           ['text-align'] = 'center',`
 `           width = width`

@@ -68,7 +68,7 @@
 </tr>
 <tr class="odd">
 <td><p>同年獲得最多提名的女歌手</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/容祖兒" title="wikilink">容祖兒</a><br />
+<td><p><a href="../Page/容祖兒.md" title="wikilink">容祖兒</a><br />
 <a href="https://zh.wikipedia.org/wiki/王菀之" title="wikilink">王菀之</a><br />
 <a href="../Page/謝安琪.md" title="wikilink">謝安琪</a><br />
 <a href="../Page/鄭秀文.md" title="wikilink">鄭秀文</a><br />
@@ -91,14 +91,14 @@
 | [鄭秀文](../Page/鄭秀文.md "wikilink")                    | 《你愛我愛不起》                                                   |              |
 | [楊千嬅](../Page/楊千嬅.md "wikilink")                    | 《姊妹》                                                       |              |
 | [葉德嫻](../Page/葉德嫻.md "wikilink")                    | 《重頭認識》                                                     |              |
-| 2003                                                | '''[容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink") ''' | **《爭氣》**     |
+| 2003                                                | '''[容祖兒](../Page/容祖兒.md "wikilink") '''                    | **《爭氣》**     |
 | [何韻詩](https://zh.wikipedia.org/wiki/何韻詩 "wikilink") | 《再見...露絲瑪莉》                                                |              |
 | [盧巧音](https://zh.wikipedia.org/wiki/盧巧音 "wikilink") | 《好心分手》                                                     |              |
 | [梁詠琪](https://zh.wikipedia.org/wiki/梁詠琪 "wikilink") | 《高妹正傳》                                                     |              |
 | [葉倩文](https://zh.wikipedia.org/wiki/葉倩文 "wikilink") | 《傷逝》                                                       |              |
 | 2004                                                | '''[孫燕姿](https://zh.wikipedia.org/wiki/孫燕姿 "wikilink") ''' | **《遇見》**     |
-| [容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink") | 《一拍兩散》                                                     |              |
-| [容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink") | 《世上只有》                                                     |              |
+| [容祖兒](../Page/容祖兒.md "wikilink")                    | 《一拍兩散》                                                     |              |
+| [容祖兒](../Page/容祖兒.md "wikilink")                    | 《世上只有》                                                     |              |
 | [何韻詩](https://zh.wikipedia.org/wiki/何韻詩 "wikilink") | 《沙》                                                        |              |
 | [陳慧琳](../Page/陳慧琳.md "wikilink")                    | 《對不起不是你》                                                   |              |
 | 2005                                                | '''[孫燕姿](https://zh.wikipedia.org/wiki/孫燕姿 "wikilink") ''' | **《我的愛》**    |
@@ -122,7 +122,7 @@
 | [何韻詩](https://zh.wikipedia.org/wiki/何韻詩 "wikilink") | 《韻律泳》                                                      |              |
 | [謝安琪](../Page/謝安琪.md "wikilink")                    | 《囍帖街》                                                      |              |
 | 2009                                                | '''[謝安琪](../Page/謝安琪.md "wikilink") '''                    | **《年度之歌》**   |
-| [容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink") | 《搜神記》                                                      |              |
+| [容祖兒](../Page/容祖兒.md "wikilink")                    | 《搜神記》                                                      |              |
 | [蔡琴](../Page/蔡琴.md "wikilink")                      | 《我要如何不想他》                                                  |              |
 | [王菀之](https://zh.wikipedia.org/wiki/王菀之 "wikilink") | 《月亮說》                                                      |              |
 | [鄧紫棋](https://zh.wikipedia.org/wiki/鄧紫棋 "wikilink") | 《等一個他》                                                     |              |
@@ -139,25 +139,25 @@
 | 2011                                                        | '''[林二汶](https://zh.wikipedia.org/wiki/林二汶 "wikilink") ''' | **《無忘花》**   |
 | '''[謝安琪](../Page/謝安琪.md "wikilink") '''                     | **《你們的幸福》**                                                |             |
 | [楊千嬅](../Page/楊千嬅.md "wikilink")                            | 《火鳥》                                                       |             |
-| [容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")         | 《花千樹》                                                      |             |
+| [容祖兒](../Page/容祖兒.md "wikilink")                            | 《花千樹》                                                      |             |
 | [何韻詩](https://zh.wikipedia.org/wiki/何韻詩 "wikilink")         | 《青空》                                                       |             |
 | 2012                                                        | '''[林憶蓮](../Page/林憶蓮.md "wikilink") '''                    | **《路過蜻蜓》**  |
 | [林二汶](https://zh.wikipedia.org/wiki/林二汶 "wikilink")         | 《Wanna Be》                                                 |             |
 | [王菀之](https://zh.wikipedia.org/wiki/王菀之 "wikilink")         | 《水百合》                                                      |             |
 | [Gin Lee](https://zh.wikipedia.org/wiki/Gin_Lee "wikilink") | 《今天終於一人回家》                                                 |             |
 | [盧凱彤](https://zh.wikipedia.org/wiki/盧凱彤 "wikilink")         | 《你根本不是我的誰》                                                 |             |
-| 2013                                                        | '''[容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink") ''' | **《天窗》**    |
+| 2013                                                        | '''[容祖兒](../Page/容祖兒.md "wikilink") '''                    | **《天窗》**    |
 | [官恩娜](../Page/官恩娜.md "wikilink")                            | 《So In Love》                                               |             |
 | [鄧紫棋](https://zh.wikipedia.org/wiki/鄧紫棋 "wikilink")         | 《你把我灌醉》                                                    |             |
 | [王菀之](https://zh.wikipedia.org/wiki/王菀之 "wikilink")         | 《留白》                                                       |             |
 | [連詩雅](https://zh.wikipedia.org/wiki/連詩雅 "wikilink")         | 《說一句》                                                      |             |
 | 2014                                                        | '''[王菀之](https://zh.wikipedia.org/wiki/王菀之 "wikilink") ''' | **《天堂有路》**  |
 | [林二汶](https://zh.wikipedia.org/wiki/林二汶 "wikilink")         | 《最幸運的人》                                                    |             |
-| [容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")         | 《續集》                                                       |             |
+| [容祖兒](../Page/容祖兒.md "wikilink")                            | 《續集》                                                       |             |
 | [謝安琪](../Page/謝安琪.md "wikilink")                            | 《勢不兩立》                                                     |             |
 | [連詩雅](https://zh.wikipedia.org/wiki/連詩雅 "wikilink")         | 《只要和你在一起》                                                  |             |
 | 2015                                                        | '''[謝安琪](../Page/謝安琪.md "wikilink") '''                    | **《獨家村》**   |
-| [容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")         | 《樂觀》                                                       |             |
+| [容祖兒](../Page/容祖兒.md "wikilink")                            | 《樂觀》                                                       |             |
 | [王菀之](https://zh.wikipedia.org/wiki/王菀之 "wikilink")         | 《我們他們》                                                     |             |
 | [連詩雅](https://zh.wikipedia.org/wiki/連詩雅 "wikilink")         | 《水星逆行》                                                     |             |
 | [連詩雅](https://zh.wikipedia.org/wiki/連詩雅 "wikilink")         | 《為何要我愛上你》                                                  |             |
@@ -170,11 +170,11 @@
 | [鄧紫棋](https://zh.wikipedia.org/wiki/鄧紫棋 "wikilink")         | 《光年之外》                                                     |             |
 | [Gin Lee](https://zh.wikipedia.org/wiki/Gin_Lee "wikilink") | 《和每天講再見》                                                   |             |
 | [王菀之](https://zh.wikipedia.org/wiki/王菀之 "wikilink")         | 《突然一生人》                                                    |             |
-| [容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")         | 《麻煩你 2017》                                                 |             |
+| [容祖兒](../Page/容祖兒.md "wikilink")                            | 《麻煩你 2017》                                                 |             |
 | [鄧小巧](https://zh.wikipedia.org/wiki/鄧小巧 "wikilink")         | 《強弱》                                                       |             |
 | 2018                                                        | '''[莫文蔚](../Page/莫文蔚.md "wikilink") '''                    | **《慢慢喜歡你》** |
 | [王菀之](https://zh.wikipedia.org/wiki/王菀之 "wikilink")         | 《沉默的士高》                                                    |             |
-| [容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")         | 《心之科學》                                                     |             |
+| [容祖兒](../Page/容祖兒.md "wikilink")                            | 《心之科學》                                                     |             |
 | [鄧小巧](https://zh.wikipedia.org/wiki/鄧小巧 "wikilink")         | 《芭樂》                                                       |             |
 | [盧凱彤](https://zh.wikipedia.org/wiki/盧凱彤 "wikilink")         | 《荒原》                                                       |             |
 
@@ -185,7 +185,7 @@
 | [謝安琪](../Page/謝安琪.md "wikilink")                            | 5    | 8    |
 | [孫燕姿](https://zh.wikipedia.org/wiki/孫燕姿 "wikilink")         | 3    | 3    |
 | [王菀之](https://zh.wikipedia.org/wiki/王菀之 "wikilink")         | 2    | 12   |
-| [容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")         | 2    | 10   |
+| [容祖兒](../Page/容祖兒.md "wikilink")                            | 2    | 10   |
 | [衛蘭](../Page/衛蘭.md "wikilink")                              | 2    | 4    |
 | [何韻詩](https://zh.wikipedia.org/wiki/何韻詩 "wikilink")         | 1    | 8    |
 | [林二汶](https://zh.wikipedia.org/wiki/林二汶 "wikilink")         | 1    | 3    |

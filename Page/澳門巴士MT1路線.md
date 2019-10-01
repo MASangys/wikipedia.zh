@@ -29,6 +29,45 @@
   - 宇通ZK6105HG
   - 宇通ZK6115HG1
 
+<table>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"><p><strong>澳門巴士MT1路线使用車輛列表</strong><br />
+(只記錄掛牌車輛)</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>align="center" width="25%" bgcolor="silver" color:black" | 所屬公司</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>澳巴</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>3138</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>3139</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>3144</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>3147</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>3152</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>3153</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>3155</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"></td>
+</tr>
+</tbody>
+</table>
+
 ## 路線資料
 
 ### 收費

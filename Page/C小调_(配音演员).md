@@ -114,6 +114,14 @@
   - 《[哆啦A梦：大雄的南极冰冰凉大冒险](https://zh.wikipedia.org/wiki/哆啦A梦：大雄的南极冰冰凉大冒险 "wikilink")》源静香
   - 《[十萬個冷笑話2](https://zh.wikipedia.org/wiki/十萬個冷笑話2 "wikilink")》小青
 
+<!-- end list -->
+
+  - 2019年
+
+<!-- end list -->
+
+  - 《[名偵探柯南：紺青之拳](../Page/名偵探柯南：紺青之拳.md "wikilink")》铃木园子\[5\]
+
 ### 网络剧
 
   - 《[仙剑客栈](https://zh.wikipedia.org/wiki/仙剑客栈 "wikilink")》赵灵儿（[孫雪寧](../Page/孫雪寧.md "wikilink") 饰）
@@ -139,3 +147,4 @@
 2.
 3.
 4.  [《你的名字。》内地票房近五亿 首发国语版预告](http://ent.qq.com/a/20161212/035747.htm?t=1481545075821#p=1)
+5.

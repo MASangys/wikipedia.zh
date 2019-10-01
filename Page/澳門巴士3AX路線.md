@@ -8,6 +8,40 @@
   - 2017年12月20日，新増停靠“勵庭海景酒店”站。
   - 2018年8月1日，本線改由[澳門公共汽車有限公司經營](https://zh.wikipedia.org/wiki/澳門公共汽車有限公司 "wikilink")。
 
+## 使用車輛
+
+  - 宇通ZK6105HG
+  - 宇通ZK6118HGE
+  - 宇通ZK6128HGE
+
+<table>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"><p><strong>澳門巴士3AX路线使用車輛列表</strong><br />
+(只記錄掛牌車輛)<br />
+</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>color:black" align=center width=25% bgcolor="silver" | 所屬公司</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>(原新時代)澳巴</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>5034</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>5039</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>澳巴</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"></td>
+</tr>
+</tbody>
+</table>
+
 ## 路線及收費資料
 
 ### 收費

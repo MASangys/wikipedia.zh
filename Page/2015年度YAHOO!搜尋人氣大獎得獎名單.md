@@ -25,7 +25,7 @@
   - 本地唱作歌手
       - [周國賢](../Page/周國賢.md "wikilink")
   - 本地女歌手
-      - [容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")
+      - [容祖兒](../Page/容祖兒.md "wikilink")
   - 本地男歌手
       - [周柏豪](../Page/周柏豪.md "wikilink")
   - 本地音樂組合

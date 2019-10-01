@@ -264,6 +264,14 @@ Label SJ的成立為[Super Junior成員們與經紀公司商討兩年之結果](
 <td><p>迷你三輯</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=Tel9LEfAzwI">主打曲《Pink Magic》</a></p></td>
 </tr>
+<tr class="odd">
+<td><p>10月14日</p></td>
+<td><p>Time Slip</p></td>
+<td><p><a href="../Page/Super_Junior.md" title="wikilink">Super Junior</a></p></td>
+<td><p>正規九輯</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=VRuLUt-Pz88">收錄曲《Show》</a><br />
+<a href="https://www.youtube.com/watch?v=eM5XiXrBu74">收錄曲《Somebody New》</a></p></td>
+</tr>
 </tbody>
 </table>
 

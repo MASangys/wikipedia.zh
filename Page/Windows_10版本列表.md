@@ -19,7 +19,7 @@
   -
     Windows 10 企業版提供了所有Windows 10 專業版的功能，並附加協助IT結構的功能，與Windows 8.1企業版相當。
   -
-    Windows 10 企業版 LTSC（長期服務通道）（原名**Windows 10 企業版 LTSB**（長期服務分支）\[3\]）每2至3年發佈，與Windows 10 企業版類似，但不能接受功能性更新以及無法使用某些功能（如[Microsoft Store](https://zh.wikipedia.org/wiki/Microsoft_Store "wikilink")，前身為[Windows Store](https://zh.wikipedia.org/wiki/Windows_Store "wikilink")），不過會給予公司用戶更多控制更新進程的權力。
+    Windows 10 企業版 LTSC（Long Time Service Channel，長期服務通道）（原名**Windows 10 企業版 LTSB**（Long Time Service Branch，長期服務分支）\[3\]）每2至3年發佈，與Windows 10 企業版類似，但不能接受功能性更新以及無法使用某些功能（如[Microsoft Store](https://zh.wikipedia.org/wiki/Microsoft_Store "wikilink")，前身為[Windows Store](https://zh.wikipedia.org/wiki/Windows_Store "wikilink")），不過會給予公司用戶更多控制更新進程的權力。
 
 <!-- end list -->
 
@@ -120,7 +120,7 @@ Windows 10 S的软件安装仅限从[Windows Store获取的应用程序](https:/
   - [Windows 10](../Page/Windows_10.md "wikilink")/[Windows 10行動裝置版](https://zh.wikipedia.org/wiki/Windows_10_Mobile "wikilink")
   - [Windows Holographic](https://zh.wikipedia.org/wiki/Windows_Holographic "wikilink")，計算平台，設計用於擴增實境裝置上。
 
-## 註釋
+## 注释
 
 ## 參考
 

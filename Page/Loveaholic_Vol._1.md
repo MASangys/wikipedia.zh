@@ -1,4 +1,4 @@
-**《LoveaHolic Vol.1》**是[香港](../Page/香港.md "wikilink")[組合](../Page/組合.md "wikilink")[C AllStar的第](../Page/C_AllStar.md "wikilink")8張專輯，是暫別樂迷一段時間最後一張音樂專輯之上集，於2017年[2月14日發行](https://zh.wikipedia.org/wiki/情人節 "wikilink")。專輯是原定是大碟，後改成EP，EP分開成*LoveaHolic Vol.1*（上集）和*LoveaHolic Vol.2*（下集）。全碟4首派台歌共獲15次冠軍，其中3首為四台冠軍歌，擊敗天后[容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")《[me, re-do](https://zh.wikipedia.org/wiki/me,_re-do "wikilink")》創下最多冠軍次數紀錄。另全碟4首派台歌均獲歌曲獎。
+**《LoveaHolic Vol.1》**是[香港](../Page/香港.md "wikilink")[組合](../Page/組合.md "wikilink")[C AllStar的第](../Page/C_AllStar.md "wikilink")8張專輯，是暫別樂迷一段時間最後一張音樂專輯之上集，於2017年[2月14日發行](https://zh.wikipedia.org/wiki/情人節 "wikilink")。專輯是原定是大碟，後改成EP，EP分開成*LoveaHolic Vol.1*（上集）和*LoveaHolic Vol.2*（下集）。全碟4首派台歌共獲15次冠軍，其中3首為四台冠軍歌，擊敗天后[容祖兒](../Page/容祖兒.md "wikilink")《[me, re-do](https://zh.wikipedia.org/wiki/me,_re-do "wikilink")》創下最多冠軍次數紀錄。另全碟4首派台歌均獲歌曲獎。
 
 ## 集數
 

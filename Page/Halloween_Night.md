@@ -200,7 +200,7 @@ Type-D 詳細的收錄內容如下：
   - NMB48 Team BII：[渡邊美優紀](../Page/渡邊美優紀.md "wikilink")（12）
   - [HKT48](../Page/HKT48.md "wikilink") Team H：[指原莉乃](../Page/指原莉乃.md "wikilink")（1）
   - HKT48 [Team KIV](https://zh.wikipedia.org/wiki/Team_KIV "wikilink")：[宮脇咲良](../Page/宮脇咲良.md "wikilink")（7、兼任AKB48 Team A成員）
-  - [SNH48](https://zh.wikipedia.org/wiki/SNH48 "wikilink") Team SII：[宮澤佐江](../Page/宮澤佐江.md "wikilink")（8、兼任SKE48 Team S成員）
+  - [SNH48](../Page/SNH48.md "wikilink") Team SII：[宮澤佐江](../Page/宮澤佐江.md "wikilink")（8、兼任SKE48 Team S成員）
 
 本次的選拔成員中，[松村香織](../Page/松村香織.md "wikilink")是初次入選，而北原里英以及高柳明音分別自2014年的《[拉布拉多獵犬](../Page/拉布拉多獵犬_\(AKB48單曲\).md "wikilink")》以來的1年多和2012年的《[仲夏的Sounds good\!](../Page/仲夏的Sounds_good!.md "wikilink")》以來的3年多回歸選拔成員。
 

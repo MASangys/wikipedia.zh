@@ -1019,7 +1019,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p>神仙精靈小鎮大混亂&lt;!--</p></td>
+<td><p>神仙精靈小鎮大混亂</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1036,9 +1036,44 @@
 <td><p>西田健一</p></td>
 <td><p>山縣亜紀<br />
 佐藤陵</p></td>
+<td><p>大野美葉</p></td>
+<td><p>2019年9月5日</p></td>
 <td></td>
-<td><p>2019年9月5日 --&gt;</p></td>
+</tr>
+<tr class="even">
+<td><p>53</p></td>
 <td></td>
+<td><p>神仙精靈100位達成?</p></td>
+<td><p>末永光代</p></td>
+<td><p>室谷靖</p></td>
+<td><p>西田健一</p></td>
+<td><p>土信田和幸<br />
+桑原麻衣<br />
+平良哲朗</p></td>
+<td><p>東海林康和</p></td>
+<td><p>2019年9月12日&lt;!--</p></td>
+</tr>
+<tr class="odd">
+<td><p>54</p></td>
+<td><p>{{lang|ja|すすめ!桜町まもり隊</p></td>
+<td><p>}}</p></td>
+<td><p>進行!櫻花鎮保護隊</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>55</p></td>
+<td></td>
+<td><p>拯救櫻花鎮 打開吧!幸福之門</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>2019年9月26日 --&gt;</p></td>
 </tr>
 </tbody>
 </table>

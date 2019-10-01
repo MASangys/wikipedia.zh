@@ -20,6 +20,8 @@ Yubico已使用闭源代码替换了YubiKey 4中全部开源组件，这使得�
 
 ## 已支持的服务或平台
 
+  - [1Password](../Page/1Password.md "wikilink")
+
   - AWS
 
   - Bitbucket

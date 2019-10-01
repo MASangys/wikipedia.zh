@@ -1187,7 +1187,7 @@ MTK</p></td>
 <td><p>AH-Software</p></td>
 <td><p>日語</p></td>
 <td><p>女性</p></td>
-<td><p>井上喜久子</p></td>
+<td><p><a href="../Page/井上喜久子.md" title="wikilink">井上喜久子</a></p></td>
 <td><p>2018年7月26日</p></td>
 </tr>
 <tr class="even">
@@ -1196,7 +1196,7 @@ MTK</p></td>
 <td><p>日語</p></td>
 <td><p>女性（姬）<br />
 男性（尊）</p></td>
-<td></td>
+<td><p><a href="../Page/小岩井小鳥.md" title="wikilink">小岩井小鳥</a></p></td>
 <td><p>2019年3月30日</p></td>
 </tr>
 <tr class="odd">

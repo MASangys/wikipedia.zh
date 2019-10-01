@@ -144,12 +144,6 @@
 
 PRETTY×CATION2在2015年由Getchu.com舉辦的美少女遊戲大賞2015中獲得系統部門第6名。\[7\]另外在由[萌えゲーアワード舉辦的](https://zh.wikipedia.org/wiki/萌えゲーアワード "wikilink")2015年間排名中獲得第47名\[8\]和2015年4月的月間賞第4名。\[9\]
 
-## 相關條目
-
-  - [LOVELY×CATION](../Page/LOVELY×CATION.md "wikilink")
-  - [PRETTY×CATION](../Page/PRETTY×CATION.md "wikilink")
-  - [新妻LOVELY×CATION](../Page/新妻LOVELY×CATION.md "wikilink")
-
 ## 參考來源
 
 <references />

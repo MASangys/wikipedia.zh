@@ -5,7 +5,7 @@
 ## 外部連結
 
   -
-[Category:马来西亚电影](https://zh.wikipedia.org/wiki/Category:马来西亚电影 "wikilink")
+[Category:马来西亚导演电影](https://zh.wikipedia.org/wiki/Category:马来西亚导演电影 "wikilink") [Category:自閉症題材電影](https://zh.wikipedia.org/wiki/Category:自閉症題材電影 "wikilink")
 
 1.
 2.

@@ -235,6 +235,24 @@ local function countVotes( args )
 
 end
 
+local function countVotes2( args )
+
+`   local title = args.title or mw.title.getCurrentTitle().prefixedText`
+`   local split = args.split or '/'`
+`   local rfxObject = rfx.new(title)`
+`   if not rfxObject then`
+`       return '`<span class="error">`投票-{zh-cn:解析;zh-tw:剖析}-失败`</span>`'`
+`   end`
+`   local s, o, n = rfxObject.supports, rfxObject.opposes, rfxObject.neutrals`
+`   if s and o and n then`
+`       return string.format('%d%s%d%s%d',`
+`           s, split, o, split, n)`
+`   else`
+`       return '`<span class="error">`投票-{zh-cn:解析;zh-tw:剖析}-失败`</span>`'`
+`   end`
+
+end
+
 function p.count( frame )
 
 `   -- Process the arguments.`
@@ -249,6 +267,23 @@ function p.count( frame )
 `       args = frame`
 `   end`
 `   return countVotes( args )`
+
+end
+
+function p.count2( frame )
+
+`   -- Process the arguments.`
+`   local args`
+`   if frame == mw.getCurrentFrame() then`
+`       args = frame:getParent().args`
+`       for k, v in pairs( frame.args ) do`
+`           args = frame.args`
+`           break`
+`       end`
+`   else`
+`       args = frame`
+`   end`
+`   return countVotes2( args )`
 
 end
 
@@ -271,4 +306,4 @@ end
 
 return p
 
-[Category:投票計算失效的頁面](https://zh.wikipedia.org/wiki/Category:投票計算失效的頁面 "wikilink") [Category:投票計算失效的頁面](https://zh.wikipedia.org/wiki/Category:投票計算失效的頁面 "wikilink")
+[Category:投票計算失效的頁面](https://zh.wikipedia.org/wiki/Category:投票計算失效的頁面 "wikilink") [Category:投票計算失效的頁面](https://zh.wikipedia.org/wiki/Category:投票計算失效的頁面 "wikilink") [Category:投票計算失效的頁面](https://zh.wikipedia.org/wiki/Category:投票計算失效的頁面 "wikilink") [Category:投票計算失效的頁面](https://zh.wikipedia.org/wiki/Category:投票計算失效的頁面 "wikilink")

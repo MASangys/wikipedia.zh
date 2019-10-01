@@ -6,7 +6,7 @@
 
 2016年6月27日，與韓國娛樂集團CJ E\&M合作。KKTV主要與CJ E\&M合作其旗下[tvN與](https://zh.wikipedia.org/wiki/tvN "wikilink")[OCN二個戲劇頻道](https://zh.wikipedia.org/wiki/OCN "wikilink")。
 
-2016年6月29日，與韓國[SBS電視台合作](../Page/SBS_\(韓國\).md "wikilink")，提供節目如生存綜藝《[叢林的法則](https://zh.wikipedia.org/wiki/叢林的法則 "wikilink")》。
+2016年6月29日，與韓國[SBS電視台合作](../Page/SBS_\(韓國\).md "wikilink")，提供節目如生存綜藝《[叢林的法則](../Page/叢林的法則.md "wikilink")》。
 
 2016年7月4日，與[東京電視台](../Page/東京電視台.md "wikilink")、[富士電視台](../Page/富士電視台.md "wikilink")合作，提供節目如改編於同名漫畫的《[孤獨的美食家](https://zh.wikipedia.org/wiki/孤獨的美食家 "wikilink")》和[松嶋菜菜子](../Page/松嶋菜菜子.md "wikilink")主演的[營業部長 吉良奈津子](../Page/營業部長_吉良奈津子.md "wikilink")。
 

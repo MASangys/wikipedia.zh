@@ -17,8 +17,7 @@
 <table>
 <thead>
 <tr class="header">
-<th><p>作品名稱<br />
-（日文原名）</p></th>
+<th><p>作品名稱（日文原名）</p></th>
 <th><p>發表雜誌／號</p></th>
 <th><p>出版社</p></th>
 <th><p>收錄單行本（冊數）</p></th>
@@ -52,7 +51,8 @@
 <td><p>青春澀女俱樂部<br />
 （）</p></td>
 <td><p>《月刊Princess》<br />
-2010年12月號－2011年2月號、2011年5月號－2017年6月號</p></td>
+2010年12月號－2011年2月號<br />
+2011年5月號－2017年6月號</p></td>
 <td><p>秋田書店<br />
  <a href="../Page/東立出版社.md" title="wikilink">東立出版社</a></p></td>
 <td><p>【青春澀女俱樂部】（全16冊）</p></td>
@@ -61,7 +61,8 @@
 <tr class="odd">
 <td><p>名偵探社此後立即出動！<br />
 （！）</p></td>
-<td><p>《》2012年Vol.2（1月號）－2012年Vol.7（11月號）<br />
+<td><p>《》<br />
+2012年Vol.2（1月號）－2012年Vol.7（11月號）<br />
 《》Vol.75</p></td>
 <td><p><a href="../Page/角川書店.md" title="wikilink">角川書店</a></p></td>
 <td><p>【名偵探社此後立即出動！】（全1冊）</p></td>
@@ -84,7 +85,8 @@
 <tr class="even">
 <td><p>領航的星星<br />
 （）</p></td>
-<td><p>《》2012年15號－2014年19號（隔月連載）</p></td>
+<td><p>《》<br />
+2012年15號－2014年19號（隔月連載）</p></td>
 <td><p>講談社<br />
  東立出版社</p></td>
 <td><p>【領航的星星】（全3冊）</p></td>
@@ -145,6 +147,14 @@
 <td><p>－</p></td>
 <td></td>
 </tr>
+<tr class="even">
+<td></td>
+<td><p>《月刊Princess》2018年2月號（短篇刊載）<br />
+2019年6月號－<strong>連載中</strong></p></td>
+<td><p>秋田書店</p></td>
+<td><p>（未刊行）</p></td>
+<td><p>先發表短篇後連載化。</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -155,7 +165,7 @@
 <tr class="header">
 <th><p>作品名稱<br />
 （日文原名）</p></th>
-<th><p>發表雜誌／號</p></th>
+<th><p>發表雜誌／年份</p></th>
 <th><p>出版社</p></th>
 <th><p>收錄單行本</p></th>
 <th><p>備註</p></th>
@@ -164,25 +174,27 @@
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p>《》2011年11月號</p></td>
+<td><p>《》<br />
+2011年11月號</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/講談社" title="wikilink">講談社</a></p></td>
 <td><p>未收錄</p></td>
-<td><p>內容收錄Asada畫的插圖與<a href="https://zh.wikipedia.org/wiki/隨筆" title="wikilink">隨筆</a>[24]</p></td>
+<td><p>內容收錄Asada畫的插圖與<a href="https://zh.wikipedia.org/wiki/隨筆" title="wikilink">隨筆</a>[24]。</p></td>
 </tr>
 <tr class="even">
 <td><p>特集「男子社團」插圖集<br />
 （）</p></td>
-<td><p>《》2013年</p></td>
+<td><p>《》<br />
+2013年</p></td>
 <td><p></p></td>
 <td><p>Asada的官方個人網站「天百 tenhyaku」的首頁插圖[25]。</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td></td>
 <td><p>2018年</p></td>
-<td><p>（未收錄）</p></td>
+<td><p></p></td>
 <td><p>透明文件夾[26]。</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -566,7 +578,7 @@
 
 ### 注釋
 
-### 來源
+### 參考來源
 
 ## 外部連結
 
@@ -580,13 +592,13 @@
 
   - [BE·LOVE｜特殊官網｜講談社Comic Plus](https://web.archive.org/web/20130724032323/http://kc.kodansha.co.jp/magazine/special_detail.php/02766/7113) －由[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")、[秋田書店](../Page/秋田書店.md "wikilink")、[角川書店](../Page/角川書店.md "wikilink")三家大型出版社共同特別設立的官方網站。
 
-  - [「或是假名」×「絕園的暴風雨」共同合作的4格漫畫特集](http://anime.webnt.jp/report/view/2972) －由角川書店架設的官方企畫網站。
+  - [「或是假名」×「絕園的暴風雨」共同合作的4格漫畫特集](https://web.archive.org/web/20131024062704/http://anime.webnt.jp/report/view/2972) －由角川書店架設的官方企畫網站。
 
   - [「絕園的暴風雨」×「或是假名」共同合作的4格漫畫特集](http://www.zetsuen.net/news/index.html?p=6) －由電視動畫《[絕園的暴風雨](../Page/絕園的暴風雨.md "wikilink")》架設的官方企畫網站。
 
   - [部活男子×戀](http://marun.manmar.jp/pc/series/bukatsu_danshi/index.php) －Web comic magazine marun的企畫網站。
 
-[Category:日本漫畫家](https://zh.wikipedia.org/wiki/Category:日本漫畫家 "wikilink") [Category:島根縣出身人物](https://zh.wikipedia.org/wiki/Category:島根縣出身人物 "wikilink") [Category:生年不詳](https://zh.wikipedia.org/wiki/Category:生年不詳 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
+[Category:日本漫畫家](https://zh.wikipedia.org/wiki/Category:日本漫畫家 "wikilink") [Category:島根縣出身人物](https://zh.wikipedia.org/wiki/Category:島根縣出身人物 "wikilink")
 
 1.  台灣代理目前沒有中文正式譯名。
 

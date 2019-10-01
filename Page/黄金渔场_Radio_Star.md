@@ -6,8 +6,6 @@
 
 ### 现任DJ (主持)
 
-  - [尹鍾信](../Page/尹鍾信.md "wikilink")（2007年5月30日 - 至今）(因專輯製作計劃出國，預計2019年10月離開節目。)
-
   - （2007年9月5日 - 至今）
 
   - [金九拉](https://zh.wikipedia.org/wiki/金九拉 "wikilink")（2007年5月30日 - 2012年5月9日，2013年6月12日 - 至今）
@@ -17,16 +15,12 @@
 ### 已退出DJ (主持)
 
   - [神童](../Page/神童_\(藝人\).md "wikilink")（2007年6月6日 - 2007年8月29日）：筹备新专辑《[Don't Don](../Page/Don't_Don.md "wikilink")》退出
-
-  - （2007年5月30日 - 2010年9月15日）：因赴菲律宾[赌博](../Page/赌博.md "wikilink")事件退出
-
+  - [申廷焕](https://zh.wikipedia.org/wiki/申廷焕 "wikilink")（2007年5月30日 - 2010年9月15日）：因赴菲律宾[赌博](../Page/赌博.md "wikilink")事件退出
   - [金希澈](../Page/希澈.md "wikilink")（2010年12月8日 - 2011年10月5日）：因服[兵役而退出](https://zh.wikipedia.org/wiki/兵役 "wikilink")（希澈是以的身分在部隊服役，屬於公益兵）
-
   - [俞世潤](../Page/俞世潤.md "wikilink")（2011年12月7日 - 2013年6月5日）：因[酒驾事件而退出](https://zh.wikipedia.org/wiki/醉酒駕駛 "wikilink")
-
   - [圭賢](../Page/圭賢.md "wikilink")（2011年10月19日 - 2017年5月31日\[2\]\[3\]）：因服[兵役而退出](https://zh.wikipedia.org/wiki/兵役 "wikilink")
-
-  - [車太鉉](../Page/車太鉉.md "wikilink")（2018年1月3日 - 2019年3月20日）：因高爾夫球賭博風坡退出
+  - [車太鉉](../Page/車太鉉.md "wikilink")（2018年1月3日 - 2019年3月20日）：因高爾夫球賭博風波退出
+  - [尹鍾信](../Page/尹鍾信.md "wikilink")（2007年5月30日 - 2019年9月11日）：因專輯製作計劃出國而退出
 
 <table>
 <thead>
@@ -205,7 +199,7 @@
 <td><p>5月30日</p></td>
 <td><p><a href="../Page/鄭亨敦.md" title="wikilink">郑亨敦</a></p></td>
 <td><p>主MC</p></td>
-<td><p>首播，、<a href="../Page/尹鍾信.md" title="wikilink">尹钟信</a>、<a href="https://zh.wikipedia.org/wiki/金九拉" title="wikilink">金九拉</a>3人主持。</p></td>
+<td><p>首播，<a href="https://zh.wikipedia.org/wiki/申廷焕" title="wikilink">申廷焕</a>、<a href="../Page/尹鍾信.md" title="wikilink">尹钟信</a>、<a href="https://zh.wikipedia.org/wiki/金九拉" title="wikilink">金九拉</a>3人主持。</p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
@@ -309,7 +303,7 @@
 <td><p>9月12日</p></td>
 <td><p><a href="../Page/天上智喜.md" title="wikilink">天上智喜</a> (、、、<a href="../Page/喜悅Dana.md" title="wikilink">Dana</a>)</p></td>
 <td><p>战争</p></td>
-<td><p>、<a href="../Page/尹鍾信.md" title="wikilink">尹钟信</a>、<a href="https://zh.wikipedia.org/wiki/金九拉" title="wikilink">金九拉</a>、4人主持体制开始。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/申廷焕" title="wikilink">申廷焕</a>、<a href="../Page/尹鍾信.md" title="wikilink">尹钟信</a>、<a href="https://zh.wikipedia.org/wiki/金九拉" title="wikilink">金九拉</a>、4人主持体制开始。</p></td>
 </tr>
 <tr class="even">
 <td><p>16</p></td>
@@ -764,7 +758,7 @@
 <tr class="odd">
 <td><p>75</p></td>
 <td><p>12月10日</p></td>
-<td><p>、<a href="https://zh.wikipedia.org/wiki/金鐘國" title="wikilink">金钟国</a>、<a href="https://zh.wikipedia.org/wiki/輝晟" title="wikilink">輝晟</a></p></td>
+<td><p><a href="../Page/卓在勳.md" title="wikilink">卓在勳</a>、<a href="https://zh.wikipedia.org/wiki/金鐘國" title="wikilink">金钟国</a>、<a href="https://zh.wikipedia.org/wiki/輝晟" title="wikilink">輝晟</a></p></td>
 <td><p>“大奖”情结<br />
 （上）</p></td>
 <td></td>
@@ -780,7 +774,7 @@
 <tr class="odd">
 <td><p>77</p></td>
 <td><p>12月24日</p></td>
-<td><p>、<a href="https://zh.wikipedia.org/wiki/金鐘國" title="wikilink">金钟国</a>、<a href="https://zh.wikipedia.org/wiki/輝晟" title="wikilink">輝晟</a>;<br />
+<td><p><a href="../Page/卓在勳.md" title="wikilink">卓在勳</a>、<a href="https://zh.wikipedia.org/wiki/金鐘國" title="wikilink">金钟国</a>、<a href="https://zh.wikipedia.org/wiki/輝晟" title="wikilink">輝晟</a>;<br />
 、、、、<a href="https://zh.wikipedia.org/wiki/金泰耎" title="wikilink">金泰妍</a></p></td>
 <td><p>最后的挣扎（下）;<br />
 圣诞特辑-大雁乐队</p></td>
@@ -991,7 +985,7 @@
 <tr class="even">
 <td><p>101</p></td>
 <td><p>7月15日</p></td>
-<td><p>- <a href="../Page/申東燁.md" title="wikilink">申东烨</a>、、<a href="../Page/晟敏.md" title="wikilink">晟敏</a>、、</p></td>
+<td><p>- <a href="../Page/申東燁.md" title="wikilink">申东烨</a>、<a href="../Page/卓在勳.md" title="wikilink">卓在勳</a>、<a href="../Page/晟敏.md" title="wikilink">晟敏</a>、、</p></td>
 <td><p>新开始<br />
 （上）</p></td>
 <td></td>
@@ -1439,7 +1433,7 @@
 <td><p>9月15日</p></td>
 <td><p><a href="../Page/朴俊奎.md" title="wikilink">朴俊奎</a>、、<a href="https://zh.wikipedia.org/wiki/李侑" title="wikilink">李侑</a></p></td>
 <td><p>父亲的名气</p></td>
-<td><p>部分被剪辑。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/申廷焕" title="wikilink">申廷焕部分被剪辑</a>。</p></td>
 </tr>
 <tr class="odd">
 <td><p>除外</p></td>
@@ -1447,7 +1441,7 @@
 <td><p><a href="../Page/Super_Junior.md" title="wikilink">Super Junior</a> (<a href="../Page/利特.md" title="wikilink">利特</a>、<a href="../Page/神童_(藝人).md" title="wikilink">神童</a>、<a href="../Page/晟敏.md" title="wikilink">晟敏</a>、<a href="../Page/銀赫.md" title="wikilink">银赫</a>、<a href="../Page/東海_(藝人).md" title="wikilink">东海</a>、<a href="../Page/厲旭.md" title="wikilink">厉旭</a>、<a href="../Page/圭賢.md" title="wikilink">圭贤</a>)</p></td>
 <td></td>
 <td><p>中秋特辑 Radio Star Super Show（黄金渔场199 - 2回）的名义在星期四编制了70分钟。<br />
-从此期开始退出。</p></td>
+从此期开始<a href="https://zh.wikipedia.org/wiki/申廷焕" title="wikilink">申廷焕退出</a>。</p></td>
 </tr>
 <tr class="even">
 <td><p>155</p></td>
@@ -1803,7 +1797,7 @@
 <tr class="odd">
 <td><p>196</p></td>
 <td><p>7月27日</p></td>
-<td><p><a href="../Page/白智榮.md" title="wikilink">白智榮</a>、、</p></td>
+<td><p><a href="../Page/白智榮.md" title="wikilink">白智榮</a>、<a href="../Page/金煙雨.md" title="wikilink">金煙雨</a>、</p></td>
 <td><p>注意不要轻举妄动<br />
 (<a href="https://zh.wikipedia.org/wiki/我是歌手_(韩国版)" title="wikilink">我是歌手 (韩国版)边缘特辑</a>（上）)</p></td>
 <td></td>
@@ -1928,7 +1922,7 @@
 <tr class="odd">
 <td><p>259</p></td>
 <td><p>11月30日</p></td>
-<td><p>、<a href="../Page/朴修弘.md" title="wikilink">朴修弘</a>、</p></td>
+<td><p><a href="../Page/金龍萬.md" title="wikilink">金龍萬</a>、<a href="../Page/朴修弘.md" title="wikilink">朴修弘</a>、</p></td>
 <td><p>Back To The 1990<br />
 (Gam Ja Gol四人帮特辑（上）)</p></td>
 <td></td>
@@ -1936,7 +1930,7 @@
 <tr class="even">
 <td><p>260</p></td>
 <td><p>12月7日</p></td>
-<td><p>、<a href="../Page/朴修弘.md" title="wikilink">朴修弘</a>、;<br />
+<td><p><a href="../Page/金龍萬.md" title="wikilink">金龍萬</a>、<a href="../Page/朴修弘.md" title="wikilink">朴修弘</a>、;<br />
 <a href="../Page/朴俊錦.md" title="wikilink">朴俊锦</a>、、<a href="../Page/張光_(演員).md" title="wikilink">張光</a></p></td>
 <td><p>魅力坏蛋<br />
 (Gam Ja Gol四人帮特辑（下）（高品质练歌房篇）)<br />
@@ -1947,7 +1941,7 @@
 <td><p>261</p></td>
 <td><p>12月14日</p></td>
 <td><p><a href="../Page/朴俊錦.md" title="wikilink">朴俊锦</a>、、<a href="../Page/張光_(演員).md" title="wikilink">張光</a>;<br />
-<a href="../Page/金慶皓.md" title="wikilink">金庆皓</a>、、、</p></td>
+<a href="../Page/金慶皓.md" title="wikilink">金庆皓</a>、、<a href="../Page/金煙雨.md" title="wikilink">金煙雨</a>、</p></td>
 <td><p>怎么来的（？）朋友们<br />
 (可爱的杀手们特辑（下）（高品质练歌房篇）)<br />
 (想搞笑的朋友（上）)</p></td>
@@ -1956,7 +1950,7 @@
 <tr class="even">
 <td><p>262</p></td>
 <td><p>12月21日</p></td>
-<td><p><a href="../Page/金慶皓.md" title="wikilink">金庆皓</a>、、、</p></td>
+<td><p><a href="../Page/金慶皓.md" title="wikilink">金庆皓</a>、、<a href="../Page/金煙雨.md" title="wikilink">金煙雨</a>、</p></td>
 <td><p>搞笑的圣诞节<br />
 (想搞笑的朋友（下）)</p></td>
 <td></td>
@@ -2347,7 +2341,7 @@
 <tr class="even">
 <td><p>308</p></td>
 <td><p>12月26日</p></td>
-<td><p>、、、<a href="../Page/勇敢兄弟.md" title="wikilink">勇敢兄弟</a></p></td>
+<td><p>、<a href="../Page/金煙雨.md" title="wikilink">金煙雨</a>、、<a href="../Page/勇敢兄弟.md" title="wikilink">勇敢兄弟</a></p></td>
 <td><p>伟大的Talk生存<br />
 (导师特辑)</p></td>
 <td></td>
@@ -2733,7 +2727,7 @@
 <tr class="even">
 <td><p>358</p></td>
 <td><p>12月18日</p></td>
-<td><p><a href="../Page/張鎮_(韓國導演).md" title="wikilink">张镇</a>、<a href="../Page/朴建炯.md" title="wikilink">朴建炯</a>、<a href="../Page/金瑟琪.md" title="wikilink">金瑟琪</a>、</p></td>
+<td><p><a href="../Page/張鎮_(韓國導演).md" title="wikilink">张镇</a>、<a href="../Page/朴建炯.md" title="wikilink">朴建炯</a>、<a href="../Page/金瑟琪.md" title="wikilink">金瑟琪</a>、<a href="../Page/金煙雨.md" title="wikilink">金煙雨</a></p></td>
 <td><p>执著男闲聊特辑<br />
 (音乐剧《<a href="https://zh.wikipedia.org/wiki/December" title="wikilink">December</a>》特辑)</p></td>
 <td></td>
@@ -2940,7 +2934,7 @@
 <tr class="even">
 <td><p>336</p></td>
 <td><p>7月9日</p></td>
-<td><p>、<a href="https://zh.wikipedia.org/wiki/房時赫" title="wikilink">房時赫</a>、<a href="../Page/崔汝珍.md" title="wikilink">崔汝真</a>、</p></td>
+<td><p>、<a href="https://zh.wikipedia.org/wiki/房時赫" title="wikilink">房時赫</a>、<a href="../Page/崔汝珍.md" title="wikilink">崔汝真</a>、<a href="https://zh.wikipedia.org/wiki/薩姆·奧乞里" title="wikilink">Samuel Okyere</a></p></td>
 <td><p>夏天度假特辑</p></td>
 <td></td>
 </tr>
@@ -3050,7 +3044,7 @@
 <tr class="odd">
 <td><p>351</p></td>
 <td><p>10月22日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/朴俊亨" title="wikilink">朴俊亨</a>、、、<a href="../Page/孫東雲.md" title="wikilink">孙东云</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/朴俊亨" title="wikilink">朴俊亨</a>、<a href="https://zh.wikipedia.org/wiki/宋庆雅" title="wikilink">宋庆雅</a>、、<a href="../Page/孫東雲.md" title="wikilink">孙东云</a></p></td>
 <td><p>Where are you from? 特辑</p></td>
 <td></td>
 </tr>
@@ -3507,7 +3501,7 @@
 <tr class="odd">
 <td><p>411</p></td>
 <td><p>12月23日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/徐章勋" title="wikilink">徐章勋</a>、<a href="https://zh.wikipedia.org/wiki/李荷妮" title="wikilink">李哈妮</a>、<a href="../Page/李國主.md" title="wikilink">李国主</a>、</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/徐章勋" title="wikilink">徐章勋</a>、<a href="../Page/李荷妮.md" title="wikilink">李哈妮</a>、<a href="../Page/李國主.md" title="wikilink">李国主</a>、</p></td>
 <td><p>“圣诞联盟”特辑<br />
 (2015圣诞特辑)</p></td>
 <td></td>
@@ -3538,7 +3532,7 @@
 <tr class="even">
 <td><p>413</p></td>
 <td><p>1月13日</p></td>
-<td><p><a href="../Page/郭時暘.md" title="wikilink">郭時暘</a>、、<a href="https://zh.wikipedia.org/wiki/安喜延" title="wikilink">Hani</a> (<a href="https://zh.wikipedia.org/wiki/EXID" title="wikilink">EXID</a>)、<a href="../Page/金淑.md" title="wikilink">金淑</a></p></td>
+<td><p><a href="../Page/郭時暘.md" title="wikilink">郭時暘</a>、<a href="https://zh.wikipedia.org/wiki/黄帝聖" title="wikilink">黄帝聖</a>、<a href="https://zh.wikipedia.org/wiki/安喜延" title="wikilink">Hani</a> (<a href="https://zh.wikipedia.org/wiki/EXID" title="wikilink">EXID</a>)、<a href="../Page/金淑.md" title="wikilink">金淑</a></p></td>
 <td><p>我的心被偷了~！《偷心人》特辑</p></td>
 <td></td>
 </tr>
@@ -3629,7 +3623,7 @@
 <tr class="odd">
 <td><p>426</p></td>
 <td><p>4月20日</p></td>
-<td><p>、、<a href="../Page/李天秀.md" title="wikilink">李天秀</a>、<a href="https://zh.wikipedia.org/wiki/金力燦" title="wikilink">金力燦</a> (<a href="../Page/B.A.P.md" title="wikilink">B.A.P</a>)</p></td>
+<td><p><a href="../Page/卓在勳.md" title="wikilink">卓在勳</a>、、<a href="../Page/李天秀.md" title="wikilink">李天秀</a>、<a href="https://zh.wikipedia.org/wiki/金力燦" title="wikilink">金力燦</a> (<a href="../Page/B.A.P.md" title="wikilink">B.A.P</a>)</p></td>
 <td><p>“啊~头疼~”特辑</p></td>
 <td></td>
 </tr>
@@ -3729,7 +3723,7 @@
 <tr class="odd">
 <td><p>440</p></td>
 <td><p>7月27日</p></td>
-<td><p><a href="../Page/安七炫.md" title="wikilink">安七炫</a>、、<a href="../Page/梁世燦.md" title="wikilink">梁世燦</a>、</p></td>
+<td><p><a href="../Page/安七炫.md" title="wikilink">安七炫</a>、<a href="https://zh.wikipedia.org/wiki/李陈镐" title="wikilink">李陈镐</a>、<a href="../Page/梁世燦.md" title="wikilink">梁世燦</a>、</p></td>
 <td><p>“在无趣上涂抹了有趣”特辑</p></td>
 <td></td>
 </tr>
@@ -3764,7 +3758,7 @@
 <tr class="even">
 <td><p>445</p></td>
 <td><p>9月14日</p></td>
-<td><p>、<a href="https://zh.wikipedia.org/wiki/文世润" title="wikilink">文世润</a>、、、<a href="../Page/李秀智.md" title="wikilink">李秀智</a></p></td>
+<td><p><a href="../Page/金峻铉.md" title="wikilink">金峻铉</a>、<a href="https://zh.wikipedia.org/wiki/文世润" title="wikilink">文世润</a>、、、<a href="../Page/李秀智.md" title="wikilink">李秀智</a></p></td>
 <td><p>“任意吃撑”特辑</p></td>
 <td></td>
 </tr>
@@ -3792,7 +3786,7 @@
 <tr class="even">
 <td><p>449</p></td>
 <td><p>10月19日</p></td>
-<td><p>、、<a href="../Page/金完宣.md" title="wikilink">金完宣</a>、</p></td>
+<td><p><a href="../Page/朴修弘.md" title="wikilink">朴修弘</a>、、<a href="../Page/金完宣.md" title="wikilink">金完宣</a>、</p></td>
 <td><p>“燃烧的RS”特辑！（上）</p></td>
 <td></td>
 </tr>
@@ -4004,7 +3998,7 @@
 <tr class="even">
 <td><p>525</p></td>
 <td><p>5月3日</p></td>
-<td><p><a href="../Page/李太坤.md" title="wikilink">李太坤</a>、<a href="https://zh.wikipedia.org/wiki/韶宥" title="wikilink">韶宥</a> (<a href="../Page/SISTAR.md" title="wikilink">SISTAR</a>)、<a href="https://zh.wikipedia.org/wiki/Rado" title="wikilink">Rado</a> (<a href="../Page/黑眼必勝.md" title="wikilink">黑眼必勝</a>)、</p></td>
+<td><p><a href="../Page/李太坤.md" title="wikilink">李太坤</a>、<a href="https://zh.wikipedia.org/wiki/韶宥" title="wikilink">韶宥</a> (<a href="../Page/SISTAR.md" title="wikilink">SISTAR</a>)、<a href="https://zh.wikipedia.org/wiki/Rado" title="wikilink">Rado</a> (<a href="../Page/黑眼必勝.md" title="wikilink">黑眼必勝</a>)、<a href="../Page/朴聖光.md" title="wikilink">朴聖光</a></p></td>
 <td><p>“哦！我的能力者们”特辑</p></td>
 <td></td>
 </tr>
@@ -4053,7 +4047,7 @@
 <tr class="odd">
 <td><p>532</p></td>
 <td><p>6月21日</p></td>
-<td><p><a href="../Page/李素拉.md" title="wikilink">李素拉</a>、、<a href="https://zh.wikipedia.org/wiki/韩惠珍_(模特)" title="wikilink">韩惠珍</a>、<a href="../Page/Yura.md" title="wikilink">Yura</a> (<a href="../Page/Girl&#39;s_Day.md" title="wikilink">Girl's Day</a>)</p></td>
+<td><p><a href="../Page/李素拉.md" title="wikilink">李素拉</a>、<a href="../Page/宋慶雅.md" title="wikilink">宋慶雅</a>、<a href="https://zh.wikipedia.org/wiki/韩惠珍_(模特)" title="wikilink">韩惠珍</a>、<a href="../Page/Yura.md" title="wikilink">Yura</a> (<a href="../Page/Girl&#39;s_Day.md" title="wikilink">Girl's Day</a>)</p></td>
 <td><p>“Good Girl~Good Body~！”特辑</p></td>
 <td><p><a href="../Page/金聖圭.md" title="wikilink">金聖圭</a>擔任特别主持。</p></td>
 </tr>
@@ -4448,7 +4442,7 @@
 <tr class="even">
 <td><p>585</p></td>
 <td><p>10月3日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/輝晟" title="wikilink">輝晟</a>、<a href="../Page/Simon_D.md" title="wikilink">Simon D</a>、<a href="../Page/禹元材.md" title="wikilink">禹元材</a>、</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/輝晟" title="wikilink">輝晟</a>、<a href="../Page/Simon_D.md" title="wikilink">Simon D</a>、<a href="../Page/禹元材.md" title="wikilink">禹元材</a>、<a href="../Page/李龍眞.md" title="wikilink">李龍眞</a></p></td>
 <td><p>“沉醉了就无法逃离的问题男们”特輯</p></td>
 <td></td>
 </tr>
@@ -4716,7 +4710,7 @@
 <tr class="even">
 <td><p>621</p></td>
 <td><p>6月12日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/殷志源" title="wikilink">殷志源</a> (<a href="../Page/水晶男孩.md" title="wikilink">水晶男孩</a>)、<a href="../Page/圭賢.md" title="wikilink">圭賢</a> (<a href="../Page/Super_Junior.md" title="wikilink">Super Junior</a>)、<a href="../Page/姜昇潤.md" title="wikilink">姜昇潤</a> (<a href="../Page/WINNER.md" title="wikilink">WINNER</a>)、</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/殷志源" title="wikilink">殷志源</a> (<a href="../Page/水晶男孩.md" title="wikilink">水晶男孩</a>)、<a href="../Page/圭賢.md" title="wikilink">圭賢</a> (<a href="../Page/Super_Junior.md" title="wikilink">Super Junior</a>)、<a href="../Page/姜昇潤.md" title="wikilink">姜昇潤</a> (<a href="../Page/WINNER.md" title="wikilink">WINNER</a>)、<a href="../Page/李陳鎬.md" title="wikilink">李陳鎬</a></p></td>
 <td><p>“見面就是好朋友”特輯</p></td>
 <td><p><a href="../Page/李昇勳.md" title="wikilink">李昇勳</a> (<a href="../Page/WINNER.md" title="wikilink">WINNER</a>)擔任特别主持。</p></td>
 </tr>
@@ -4796,6 +4790,27 @@
 <td><p>、<a href="../Page/鄭泰祐.md" title="wikilink">鄭泰祐</a>、 (<a href="https://zh.wikipedia.org/wiki/Oh_My_Girl" title="wikilink">Oh My Girl</a>)、韩泰雄</p></td>
 <td><p>“从小就干得好”特輯</p></td>
 <td></td>
+</tr>
+<tr class="even">
+<td><p>633</p></td>
+<td><p>9月4日</p></td>
+<td><p><a href="../Page/白智榮.md" title="wikilink">白智榮</a>、<a href="https://zh.wikipedia.org/wiki/宣美" title="wikilink">宣美</a>、<a href="../Page/李碩薰.md" title="wikilink">李碩薰</a> (<a href="../Page/SG_Wannabe.md" title="wikilink">SG Wannabe</a>)、<a href="https://zh.wikipedia.org/wiki/宋有彬" title="wikilink">宋有彬</a></p></td>
+<td><p>“我的歌曲是”特輯</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>634</p></td>
+<td><p>9月11日</p></td>
+<td><p><a href="../Page/張恆俊.md" title="wikilink">張恆俊</a>、<a href="../Page/俞世潤.md" title="wikilink">俞世潤</a>、<a href="../Page/金伊娜.md" title="wikilink">金伊娜</a>、</p></td>
+<td><p>“尹究之夜”特輯</p></td>
+<td><p>此期为尹鍾信参演的最后一集。</p></td>
+</tr>
+<tr class="even">
+<td><p>635</p></td>
+<td><p>9月18日</p></td>
+<td><p><a href="../Page/任昌丁.md" title="wikilink">任昌丁</a>、Seungguk-lee、、</p></td>
+<td><p>“甲乙戰爭”特輯</p></td>
+<td><p><a href="../Page/尹相鉉.md" title="wikilink">尹相鉉</a>擔任特别主持。</p></td>
 </tr>
 </tbody>
 </table>

@@ -1,4 +1,4 @@
-**Inoreader**是保加利亚一款基于网络内容和云服务的[RSS](../Page/RSS.md "wikilink")[聚合器](../Page/聚合器.md "wikilink")，且支持移动设备[Android](../Page/Android.md "wikilink")和[iOS端](https://zh.wikipedia.org/wiki/iOS "wikilink")。它以统一的布局为用户编排整理定制来自在线资源的新闻源，并可与他人分享。\[1\]由Innologica于2013年首次发布。\[2\]
+**Inoreader**是一款基于网络内容和云服务的[RSS](../Page/RSS.md "wikilink")[聚合器](../Page/聚合器.md "wikilink")，且支持移动设备[Android](../Page/Android.md "wikilink")和[iOS端](https://zh.wikipedia.org/wiki/iOS "wikilink")。它以统一的布局为用户编排整理定制来自在线资源的新闻源，并可与他人分享。\[1\]由Innologica于2013年首次发布。\[2\]
 
 ## 历史
 

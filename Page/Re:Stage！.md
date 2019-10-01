@@ -241,7 +241,7 @@
 
   - 片尾曲
 
-:;「憧れFuture Sign」（第1－7話）
+:;「憧れFuture Sign」（第1－7話，第9－）
 
 :: 作詞：，作曲、編曲：伊藤翼，主唱：KiRaRe
 
@@ -292,10 +292,18 @@
 
 :; 「」（第9話）
 
+:: 作詞：Soflan Daichi，作曲、編曲：伊藤翼，主唱：式宮舞菜（[牧野天音](../Page/牧野天音.md "wikilink")）、月坂紗由（[鬼頭明里](../Page/鬼頭明里.md "wikilink")）
+
+:; 「」（第10話）
+
+:: 作詞、作曲、編曲：石川慧，主唱：[Tetrarkhia](https://zh.wikipedia.org/wiki/#Tetrarkhia "wikilink")
+
+:; 「」（第10話）
+
   -
 
       -
-        作詞：Soflan Daichi，作曲、編曲：伊藤翼，主唱：式宮舞菜（[牧野天音](../Page/牧野天音.md "wikilink")）、月坂紗由（[鬼頭明里](../Page/鬼頭明里.md "wikilink")）
+        作詞：高瀨愛虹，作曲、編曲：伊藤翼，主唱：[TORIS ANGES](https://zh.wikipedia.org/wiki/#TROIS_ANGES "wikilink")
 
 ### 各話列表
 
@@ -403,6 +411,25 @@
 <td><p>藪田裕希、辻村步<br />
 梶浦紳一郎</p></td>
 </tr>
+<tr class="even">
+<td><p>#10</p></td>
+<td></td>
+<td><p>戰鬥力越來越高了</p></td>
+<td><p>富田賴子<br />
+加茂靖子</p></td>
+<td><p>木宮茂</p></td>
+<td><p>清水明</p></td>
+<td><p>許斌、楊越、Nyki Ikyn</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -411,7 +438,7 @@
 | 卷數 | 發售日期\[25\]   | 收錄話數    | 規格編號       |
 | -- | ------------ | ------- | ---------- |
 | BD | DVD          |         |            |
-| 1  | 2019年9月25日預定 | 第1話－第3話 | PCXG-50691 |
+| 1  | 2019年10月2日預定 | 第1話－第3話 | PCXG-50691 |
 |    |              |         |            |
 
 ## 參考資料

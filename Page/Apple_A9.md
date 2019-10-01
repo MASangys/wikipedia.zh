@@ -25,7 +25,7 @@ A9芯片是一款双核64位元处理器，系统主频为1.8GHz，相容ARMv8A�
   - [iPhone 6s](https://zh.wikipedia.org/wiki/iPhone_6s "wikilink")
   - [iPhone 6s Plus](https://zh.wikipedia.org/wiki/iPhone_6s_Plus "wikilink")
   - [iPhone SE](https://zh.wikipedia.org/wiki/iPhone_SE "wikilink")
-  - [iPad](https://zh.wikipedia.org/wiki/iPad "wikilink")2017
+  - [iPad 2017](../Page/IPad_\(第5代\).md "wikilink")
 
 ## 参考文献
 

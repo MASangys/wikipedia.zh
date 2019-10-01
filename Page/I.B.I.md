@@ -122,7 +122,7 @@
 <td><p>《<a href="../Page/打架吧鬼神.md" title="wikilink">打架吧鬼神</a> OST Part.3》</p></td>
 <td><p>우연한 일들</p></td>
 <td><p>昭希</p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/宋有彬" title="wikilink">宋有彬</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

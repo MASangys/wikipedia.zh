@@ -17,6 +17,36 @@
 
   - [宇通ZK](../Page/宇通客車.md "wikilink")6902HG
 
+<table>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"><p><strong>澳門巴士MT5路线使用車輛列表</strong><br />
+(只記錄掛牌車輛)</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>align="center" width="25%" bgcolor="silver" color:black" | 所屬公司</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>澳巴</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>2033</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>2048</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>2064</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>2065</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"></td>
+</tr>
+</tbody>
+</table>
+
 ## 路線資料
 
 ### 收費

@@ -435,27 +435,20 @@ Jeno、东赫、渽民、志晟</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2017年1月27日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/SBS株式会社" title="wikilink">SBS</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/小學生老師" title="wikilink">小學生老師</a>》</p></td>
-<td><p>Ten</p></td>
-<td><p>新年特輯</p></td>
-</tr>
-<tr class="odd">
 <td><p>2017年2月10日－3月31日</p></td>
 <td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>《<a href="../Page/高等Rapper.md" title="wikilink">高等Rapper</a>》</p></td>
 <td><p>Mark</p></td>
 <td><p>第一季，參賽者</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2017年3月30日－6月1日</p></td>
 <td><p><a href="../Page/OnStyle.md" title="wikilink">OnStyle</a></p></td>
 <td><p>《<a href="../Page/Lipstick_Prince.md" title="wikilink">Lipstick Prince</a>》</p></td>
 <td><p>Johnny</p></td>
 <td><p>第二季 [1]</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2017年6月12日</p></td>
 <td><p><a href="../Page/NAVER.md" title="wikilink">Naver V LIVE</a></p></td>
 <td><p>《VICTORY》</p></td>
@@ -463,7 +456,7 @@ Jeno、东赫、渽民、志晟</p></td>
 （除渽民）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2017年6月28日－7月28日</p></td>
 <td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a><br />
 <a href="../Page/NAVER.md" title="wikilink">Naver V LIVE</a></p></td>
@@ -471,91 +464,91 @@ Jeno、东赫、渽民、志晟</p></td>
 <td><p>Mark</p></td>
 <td><p>《S.M. x MYSTIC 合作曲創作》</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2017年9月22日－10月13日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/SBS株式会社" title="wikilink">SBS</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/叢林的法則" title="wikilink">叢林的法則</a>》</p></td>
+<td><p>《<a href="../Page/叢林的法則.md" title="wikilink">叢林的法則</a>》</p></td>
 <td><p>在玹</p></td>
 <td><p>斐濟篇，第283-286集</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2018年4月5日－7月12日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p>《<a href="../Page/被子外面很危險.md" title="wikilink">被子外面很危險</a>》</p></td>
 <td><p>Mark</p></td>
 <td><p>第8－10集</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2018年5月5日－6月16日</p></td>
 <td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a></p></td>
 <td><p>《<a href="../Page/WHYNOT_－_The_Dancer.md" title="wikilink">WHYNOT－The Dancer</a>》</p></td>
 <td><p>志晟</p></td>
 <td><p>第4集後加入</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2018年5月30日－8月8日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a></p></td>
 <td><p>《<a href="../Page/食糧日記.md" title="wikilink">食糧日記</a>》</p></td>
 <td><p>泰容</p></td>
 <td><p>[2]</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2018年9月7日－10月26日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a></p></td>
 <td><p>《<a href="../Page/Dancing_High.md" title="wikilink">Dancing High</a>》</p></td>
 <td><p>志晟</p></td>
 <td><p>參賽者</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2018年10月26日-11月9日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/SBS株式会社" title="wikilink">SBS</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/叢林的法則" title="wikilink">叢林的法則</a>》</p></td>
+<td><p>《<a href="../Page/叢林的法則.md" title="wikilink">叢林的法則</a>》</p></td>
 <td><p>Lucas</p></td>
 <td><p>印度洋篇，第338-339集</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2018年11月23日－2019年1月11日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p>《<a href="../Page/真正的男人300.md" title="wikilink">真正的男人300</a>》</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2018年12月20日－2019年2月21日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a></p></td>
 <td><p>《<a href="../Page/我的英文青春期100小時.md" title="wikilink">我的英文青春期100小時</a>》</p></td>
 <td><p>渽民</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2019年3月30日－6月15日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/湖南衛視" title="wikilink">湖南衛視</a></p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/我們的師父" title="wikilink">我們的師父</a>》</p></td>
 <td><p>昀昀</p></td>
 <td><p>小師弟</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2019年4月26日－7月12日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/浙江衛視" title="wikilink">浙江衛視</a></p></td>
 <td><p>《<a href="../Page/奔跑吧.md" title="wikilink">奔跑吧</a>》</p></td>
 <td><p>Lucas</p></td>
 <td><p>第7季</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2019年5月4日－6月8日</p></td>
 <td><p><a href="../Page/Channel_A.md" title="wikilink">Channel A</a></p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/一起玩嗎？_GG" title="wikilink">一起玩嗎？ GG</a>》</p></td>
 <td><p>渽民</p></td>
 <td><p>第1-6期</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2019年9月</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/SBS株式会社" title="wikilink">SBS</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/叢林的法則" title="wikilink">叢林的法則</a>》</p></td>
+<td><p>《<a href="../Page/叢林的法則.md" title="wikilink">叢林的法則</a>》</p></td>
 <td><p>道英</p></td>
 <td><p>印度尼西亞篇</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -583,6 +576,7 @@ Jeno、东赫、渽民、志晟</p></td>
 | 1月18日                                   |
 | [SBS](../Page/SBS_\(韓國\).md "wikilink") |
 | 1月30日                                   |
+| 1月27日                                   |
 | 2月8日                                    |
 | 2月17日                                   |
 | 3月4日                                    |
@@ -714,6 +708,21 @@ Jeno、东赫、渽民、志晟</p></td>
 </tr>
 <tr class="even">
 <td><p>8月17日</p></td>
+</tr>
+<tr class="odd">
+<td><p>9月8日</p></td>
+</tr>
+<tr class="even">
+<td><p>9月12－13日</p></td>
+</tr>
+<tr class="odd">
+<td><p>9月28日</p></td>
+</tr>
+<tr class="even">
+<td><p>10月12日</p></td>
+</tr>
+<tr class="odd">
+<td><p>10月19日</p></td>
 </tr>
 </tbody>
 </table>
@@ -992,11 +1001,18 @@ Jeno、东赫、渽民、志晟</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2019年8月5日－至今</p></td>
+<td><p>2019年8月5日－9月30日</p></td>
 <td></td>
 <td><p>《樂動首爾》</p></td>
 <td><p>仁俊</p></td>
 <td><p>特别DJ</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年10月1日－至今</p></td>
+<td><p>固定DJ</p></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>

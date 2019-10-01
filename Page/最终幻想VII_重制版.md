@@ -20,7 +20,9 @@
 
 製作人橋本真司所表示的「確實如部分媒體報導，開發體制有重新調整，但開發還是有照里程順利進行著。」進行補充，表示目前本作正在順利進行開發，而且也將會追加新的要素，提供比之前更加豐富的內容讓玩家體驗。\[27\]
 
-2019年5月10日，索尼發佈重製版的最新宣傳預告片\[28\]，最終在2019年6月的美國洛杉磯杜比劇院舉辦的「Final Fantasy VII A Symphonic Reunion」交響音樂會上Square Enix宣布 PS4《Final Fantast VII 重製版》在2020 年3月3日全球發售。並且在2019的E3電玩展上展露遊戲內容，根據情報，《Final Fantasy VII Remake》的所需容量高達兩張藍光光碟，先前官方也指出，本作將分拆為多部作品推出。官方依然同步公開了實體遊戲的預售資訊，主要分為「標準版」、「豪華版」與「一級特種兵版」，其中最後一個版本還包含了主角克勞德以及搭配機車的可動模型，要價 329.99 美金。預告未來將釋出更多細節。\[29\]\[30\]
+2019年5月10日，索尼發佈重製版的最新宣傳預告片\[28\]，最終在2019年6月的美國洛杉磯杜比劇院舉辦的「Final Fantasy VII A Symphonic Reunion」交響音樂會上Square Enix宣布 PS4《最终幻想VII 重製版》在2020年3月3日全球發售。並且在2019的E3電玩展上展露遊戲內容，根據情報，《最终幻想VII 重製版》的所需容量高達兩張藍光光碟，先前官方也指出，本作將分拆為多部作品推出。官方依然同步公開了實體遊戲的預售資訊，主要分為「標準版」、「豪華版」與「一級特種兵版」，其中最後一個版本還包含了主角克勞德以及搭配機車的可動模型，要價 329.99 美金。預告未來將釋出更多細節。\[29\]\[30\]
+
+根據2019年，東京電玩展北瀨訪問中表示，《FFVII》相隔 22 年以「重製版」問世，開發規模被視為《FF》系列本傳等級。並強調三項重製精神：革新、挑戰極限、帶來驚喜，以符合新時代玩家的需要。其中，全新戰鬥自回合制改以指令制導向的「ATB」（Active Time Battle），遵循《FFVII》原作，注重戰鬥性為原則，除攻擊動作之外，選擇道具、指令進入根目錄時，輔以緩慢流逝時間，打造 RPG 感遊玩感。\[31\]
 
 ## 故事
 
@@ -36,7 +38,7 @@
 
 ## 参考文献
 
-[Category:PlayStation_4遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_4遊戲 "wikilink") [Category:复刻游戏](https://zh.wikipedia.org/wiki/Category:复刻游戏 "wikilink") [Category:最終幻想VII](https://zh.wikipedia.org/wiki/Category:最終幻想VII "wikilink") [Category:最终幻想系列电子游戏](https://zh.wikipedia.org/wiki/Category:最终幻想系列电子游戏 "wikilink") [Category:蒸汽朋克电子游戏](https://zh.wikipedia.org/wiki/Category:蒸汽朋克电子游戏 "wikilink") [Category:赛博朋克电子游戏](https://zh.wikipedia.org/wiki/Category:赛博朋克电子游戏 "wikilink") [Category:虚幻引擎游戏](https://zh.wikipedia.org/wiki/Category:虚幻引擎游戏 "wikilink") [Category:2020年电子游戏](https://zh.wikipedia.org/wiki/Category:2020年电子游戏 "wikilink")
+[Category:2020年电子游戏](https://zh.wikipedia.org/wiki/Category:2020年电子游戏 "wikilink") [Category:PlayStation_4遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_4遊戲 "wikilink") [Category:PlayStation_4獨占遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_4獨占遊戲 "wikilink") [Category:复刻游戏](https://zh.wikipedia.org/wiki/Category:复刻游戏 "wikilink") [Category:最終幻想VII](https://zh.wikipedia.org/wiki/Category:最終幻想VII "wikilink") [Category:最终幻想系列电子游戏](https://zh.wikipedia.org/wiki/Category:最终幻想系列电子游戏 "wikilink") [Category:蒸汽朋克电子游戏](https://zh.wikipedia.org/wiki/Category:蒸汽朋克电子游戏 "wikilink") [Category:赛博朋克电子游戏](https://zh.wikipedia.org/wiki/Category:赛博朋克电子游戏 "wikilink") [Category:虚幻引擎游戏](https://zh.wikipedia.org/wiki/Category:虚幻引擎游戏 "wikilink")
 
 1.
 
@@ -94,3 +96,5 @@
 29.
 
 30.
+
+31.

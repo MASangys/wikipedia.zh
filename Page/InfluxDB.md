@@ -33,7 +33,7 @@ $curl -i -XPOST 'http://localhost:8086/write?db=mydb' --data-binary 'cpu_load_sh
 
 ## 参考资料
 
-[Category:数据库](https://zh.wikipedia.org/wiki/Category:数据库 "wikilink") [Category:開源資料庫管理系統](https://zh.wikipedia.org/wiki/Category:開源資料庫管理系統 "wikilink")
+[Category:数据库](https://zh.wikipedia.org/wiki/Category:数据库 "wikilink") [Category:開源資料庫管理系統](https://zh.wikipedia.org/wiki/Category:開源資料庫管理系統 "wikilink") [Category:用Go編程的自由軟件](https://zh.wikipedia.org/wiki/Category:用Go編程的自由軟件 "wikilink")
 
 1.  InfluxDB的代码托管于[Github](https://zh.wikipedia.org/wiki/Github "wikilink")。请参见： <https://github.com/influxdata/influxdb>
 2.

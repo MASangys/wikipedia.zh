@@ -6,34 +6,52 @@
 
 官方應援色為Blue Atoll Pantone 306c（湖水藍）及Blazing Yellow Pantone 113c（閃耀黃）。
 
+## 團體資料
+
+**團名由來**
+
+「Voice To New World」向新世界發聲，以VICTON的音樂與歌聲拓展新世界。\[3\]
+
+**問候口號**
+
+「New World\! 안녕하세요 VICTON입니다\! 」
+
+**粉絲名稱**
+
+在出道百日的特別見面會上發表官方粉絲名為「ALICE」其意思為「Always we Love the voICE」\[4\]
+
+**應援色**
+
+由粉絲在官咖上票選出 「Blue Atoll Pantone 306c（湖水藍）」及「Blazing Yellow Pantone 113c（閃耀黃）」
+
 ## 经历
 
 ### 出道前
 
-  - 2016年8月17日，Plan A娛樂在社群網站公開會有一組練習生組成的新團體「Plan A Boys」準備出道\[3\]，其後[Mnet](../Page/Mnet.md "wikilink")在8月30日播出《Me&7Men》（）第一集以介紹「Plan A Boys」的出道過程\[4\]。次日（8月31日），他們在[許閣](../Page/許閣.md "wikilink")的歌曲《\#紧张》（）首次亮相和獻聲演唱\[5\]。
+  - 2016年8月17日，Plan A娛樂在社群網站公開會有一組練習生組成的新團體「Plan A Boys」準備出道\[5\]，其後[Mnet](../Page/Mnet.md "wikilink")在8月30日播出《Me&7Men》（）第一集以介紹「Plan A Boys」的出道過程\[6\]。次日（8月31日），他們在[許閣](../Page/許閣.md "wikilink")的歌曲《\#紧张》（）首次亮相和獻聲演唱\[7\]。
 
 ### 2016年
 
   - 11月1日，Plan A娛樂宣布Plan A Boys以「VICTON」之名在11月9日正式出道。
-  - 11月9日，發行首張迷你專輯《Voice To New World》，並陸續公開各成員的預告影片與照片\[6\]。
+  - 11月9日，發行首張迷你專輯《Voice To New World》，並陸續公開各成員的預告影片與照片\[8\]。
 
 ### 2017年
 
   - 2月21日，Plan A娛樂宣布即將在3月2日發行第二張迷你專輯《READY》。22日，開始釋出各成員的宣傳照片以及宣傳影片。
   - 4月21日，Plan A娛樂宣布即將在5月27日舉行出道200日特別粉絲見面會《WELCOME TO VICTON CLASS》。
-  - 8月13日，Plan A娛樂宣布將於8月23日以第三張迷你專輯《IDENTITY》回歸，後開始釋出各成員的宣傳照片以及宣傳影片，並於發行當天舉辦Showcase。\[7\]
-  - 10月27日，Plan A娛樂公開第四張迷你專輯《From. VICTON》Week Teaser，後開始釋出各成員的宣傳照片以及宣傳影片。\[8\]
+  - 8月13日，Plan A娛樂宣布將於8月23日以第三張迷你專輯《IDENTITY》回歸，後開始釋出各成員的宣傳照片以及宣傳影片，並於發行當天舉辦Showcase。\[9\]
+  - 10月27日，Plan A娛樂公開第四張迷你專輯《From. VICTON》Week Teaser，後開始釋出各成員的宣傳照片以及宣傳影片。\[10\]
   - 11月9日，發行第四張迷你專輯《From. VICTON》，並於當天舉辦Showcase。
 
 ### 2018年
 
-  - 4月30日，Plan A娛樂宣布即將在5月23日首張單曲《俉月哀》，後陸續釋出各成員的宣傳照片以及宣傳影片。\[9\]\[10\]
-  - 8月3日，Plan A娛樂公開首次歐洲巡迴演出資訊，於9月11日莫斯科站開始。\[11\]
+  - 4月30日，Plan A娛樂宣布即將在5月23日首張單曲《俉月哀》，後陸續釋出各成員的宣傳照片以及宣傳影片。\[11\]\[12\]
+  - 8月3日，Plan A娛樂公開首次歐洲巡迴演出資訊，於9月11日莫斯科站開始。\[13\]
   - 10月26日，Plan A娛樂公開韓國見面會《VICTON 1ST FAN MEETING : WELCOME TO WONDERLAND》詳細資訊。
 
 ### 2019年
 
-  - 3月15日，Plan A宣布成員韓勝宇、崔秉燦參加Mnet選秀節目《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》\[12\]，兩位成員皆進入A等級，進行主題曲Center網路投票。
+  - 3月15日，Plan A宣布成員韓勝宇、崔秉燦參加Mnet選秀節目《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》\[14\]，兩位成員皆進入A等級，進行主題曲Center網路投票。
 
 <!-- end list -->
 
@@ -45,7 +63,7 @@
 
 </ref>
 
-  - 8月22日，Play M公開韓國見面會《2019 VICTON FANMEETING：VOICE TO ALICE》資訊，是除了成員韓勝宇以外首次六人團體官方活動。\[13\]
+  - 8月22日，Play M公開韓國見面會《2019 VICTON FANMEETING：VOICE TO ALICE》資訊，是除了成員韓勝宇以外首次六人團體官方活動。\[15\]
 
 ## 成員資料
 
@@ -55,7 +73,7 @@
 <td><p>現任成員</p></td>
 </tr>
 <tr class="even">
-<td><p>本名[14]</p></td>
+<td><p>本名[16]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/韓勝宇.md" title="wikilink">韓勝宇</a><br />
@@ -78,7 +96,7 @@
 </p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/崔秉燦" title="wikilink">崔秉燦<br />
+<td><p><a href="../Page/崔秉燦.md" title="wikilink">崔秉燦<br />
 </a></p></td>
 </tr>
 <tr class="odd">
@@ -108,7 +126,7 @@
 <ul>
 <li>發行日期：2016年11月9日</li>
 <li>語言：韓語</li>
-<li>專輯銷量：15,557+[15]</li>
+<li>專輯銷量：16,074+[17]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -118,7 +136,7 @@
 <ul>
 <li>發行日期：2017年3月2日</li>
 <li>語言：韓語</li>
-<li>專輯銷量：27,395+[16]</li>
+<li>專輯銷量：28,232+[18]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -128,7 +146,7 @@
 <ul>
 <li>發行日期：2017年8月23日</li>
 <li>語言：韓語</li>
-<li>專輯銷量：21,371+[17]</li>
+<li>專輯銷量：22,168+[19]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -138,7 +156,7 @@
 <ul>
 <li>發行日期：2017年11月9日</li>
 <li>語言：韓語</li>
-<li>專輯銷量：13,971+[18]</li>
+<li>專輯銷量：14,717+[20]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -165,7 +183,7 @@
 <ul>
 <li>發行日期：2018年5月23日</li>
 <li>語言：韓語</li>
-<li>專輯銷量：18,853+[19]</li>
+<li>專輯銷量：19,523+[21]</li>
 </ul></td>
 <td><ol>
 <li>Time of sorrow （）</li>
@@ -293,13 +311,13 @@
 |    |      |          |        |
 | -- | ---- | -------- | ------ |
 | 成員 | 登記名稱 | 登記編號     | 參與歌曲列表 |
-| 勝宇 | 한승우  | 10013330 | \[20\] |
-| 昇植 | 강승식  | 10013334 | \[21\] |
-| 許燦 | 허찬   | 10013325 | \[22\] |
-| 勢俊 | 임세준  | 10013333 | \[23\] |
-| 韓勢 | 도한세  | 10013335 | \[24\] |
-| 秉燦 | 최병찬  | 10013336 | \[25\] |
-| 秀彬 | 정수빈  | 10013328 | \[26\] |
+| 勝宇 | 한승우  | 10013330 | \[22\] |
+| 昇植 | 강승식  | 10013334 | \[23\] |
+| 許燦 | 허찬   | 10013325 | \[24\] |
+| 勢俊 | 임세준  | 10013333 | \[25\] |
+| 韓勢 | 도한세  | 10013335 | \[26\] |
+| 秉燦 | 최병찬  | 10013336 | \[27\] |
+| 秀彬 | 정수빈  | 10013328 | \[28\] |
 
 ## 影視作品
 
@@ -325,26 +343,18 @@
 
 ### 主持
 
-|            |         |                                                                      |      |      |
-| ---------- | ------- | -------------------------------------------------------------------- | ---- | ---- |
-| 日期         | 電視台     | 節目名稱                                                                 | 參與成員 | 備註   |
-| 2019年8月20日 | SBS MTV | [THE SHOW (SBS MTV節目)](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink") | 秉燦   | 特別MC |
+|             |         |                                                                      |      |      |
+| ----------- | ------- | -------------------------------------------------------------------- | ---- | ---- |
+| 日期          | 電視台     | 節目名稱                                                                 | 參與成員 | 備註   |
+| 2019年8月20日  | SBS MTV | [THE SHOW (SBS MTV節目)](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink") | 秉燦   | 特別MC |
+| 2019年10月7日- | SBS MTV | 半半秀                                                                  | 秉燦   | 固定MC |
 
 ### 綜藝節目
-
-| 2016年綜藝節目列表 |
-| ----------- |
-| 日期          |
-| 11月24日      |
-| 12月13日      |
-| 12月14日      |
-| 12月19日      |
-| 12月24日      |
 
 <table>
 <thead>
 <tr class="header">
-<th><p>2017年綜藝節目列表</p></th>
+<th><p>綜藝節目列表</p></th>
 </tr>
 </thead>
 <tbody>
@@ -352,65 +362,110 @@
 <td><p>日期</p></td>
 </tr>
 <tr class="even">
+<td><p>2016年</p></td>
+</tr>
+<tr class="odd">
+<td><p>11月24日</p></td>
+</tr>
+<tr class="even">
+<td><p>12月13日</p></td>
+</tr>
+<tr class="odd">
+<td><p>12月14日</p></td>
+</tr>
+<tr class="even">
+<td><p>12月19日</p></td>
+</tr>
+<tr class="odd">
+<td><p>12月24日</p></td>
+</tr>
+<tr class="even">
+<td><p>2017年</p></td>
+</tr>
+<tr class="odd">
 <td><p>1月30日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2月1日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2月14日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>3月5日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>3月14日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>3月17日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>3月1日 4月5日</p>
 <p>4月12日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>4月11日-6月27日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>6月25日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>10月4日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>11月16日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>12月6日</p></td>
+</tr>
+<tr class="odd">
+<td><p>2018年</p></td>
+</tr>
+<tr class="even">
+<td><p>1月12日-1月26日</p></td>
+</tr>
+<tr class="odd">
+<td><p>1月21日-1月28日</p></td>
+</tr>
+<tr class="even">
+<td><p>2月15日、2月16日</p></td>
+</tr>
+<tr class="odd">
+<td><p>4月11日</p></td>
+</tr>
+<tr class="even">
+<td><p>5月23日</p></td>
+</tr>
+<tr class="odd">
+<td><p>5月29日</p></td>
+</tr>
+<tr class="even">
+<td><p>6月5日</p></td>
+</tr>
+<tr class="odd">
+<td><p>6月6日</p></td>
+</tr>
+<tr class="even">
+<td><p>6月7日</p></td>
+</tr>
+<tr class="odd">
+<td><p>9月10日、9月16日</p></td>
+</tr>
+<tr class="even">
+<td><p>9月25日、9月26日</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019年</p></td>
+</tr>
+<tr class="even">
+<td><p>5月3日-7月19日</p></td>
+</tr>
+<tr class="odd">
+<td><p>8月28日</p></td>
 </tr>
 </tbody>
 </table>
-
-| 2018年綜藝節目列表 |
-| ----------- |
-| 日期          |
-| 1月12日-1月26日 |
-| 1月21-1月28日  |
-| 2月15日、2月16日 |
-| 4月11日       |
-| 5月23日       |
-| 5月29日       |
-| 6月5日        |
-| 6月6日        |
-| 6月7日        |
-| 9月10日、9月16日 |
-| 9月25日、9月26日 |
-
-| 2019年綜藝節目列表 |
-| ----------- |
-| 日期          |
-| 5月3日-7月19日  |
-| 8月28日       |
 
 ### 廣播節目
 
@@ -440,6 +495,8 @@
 | 5月28日                 |
 | 6月4日                  |
 | 6月16日                 |
+| 2019年                 |
+| 9月2日                  |
 
 ## 演唱會
 
@@ -492,7 +549,6 @@
 | 2018年10月13日      | 《秋季浪漫音樂會》                                   | 群山青春夜市場                   |                                             |
 | 2018年11月24日      | 《 Posco Concert: Blooming Dreams》           | Posco中心大廳                 |                                             |
 | 2018年12月1日       | 《2018 Melon Music Awards》                   | 首爾高尺 Sky dome             | 許燦以1theK Dance War Team's Special Stage身分參與 |
-| 2019年9月21日       | 《Live DMZ Concert》                          | 臨津閣和平樓露天劇場                |                                             |
 
 ## 獎項
 
@@ -590,40 +646,40 @@
 
 3.
 
-4.
+4.   Facebook|url=[https://m.facebook.com/notes/plana/%EB%B9%85%ED%86%A4-%EA%B3%B5%EC%8B%9D-%ED%8C%AC%ED%81%B4%EB%9F%BD-%EC%83%9D%EA%B2%BC%EB%8B%A4-%EC%9D%B4%EB%A6%84%EC%9D%80-%EC%95%A8%EB%A6%AC%EC%8A%A4/1243802902363429|accessdate=2019-09-20|work=m.facebook.com](https://m.facebook.com/notes/plana/%EB%B9%85%ED%86%A4-%EA%B3%B5%EC%8B%9D-%ED%8C%AC%ED%81%B4%EB%9F%BD-%EC%83%9D%EA%B2%BC%EB%8B%A4-%EC%9D%B4%EB%A6%84%EC%9D%80-%EC%95%A8%EB%A6%AC%EC%8A%A4/1243802902363429%7Caccessdate=2019-09-20%7Cwork=m.facebook.com)}}
 
-5.   allkpop.com|newspaper=allkpop|access-date=2016-11-12}}
+5.
 
 6.
 
-7.
+7.   allkpop.com|newspaper=allkpop|access-date=2016-11-12}}
 
 8.
 
 9.
 
 10.
+
 11.
 
 12.
-
 13.
 
-14. 成員本名已在官咖正名。
+14.
 
-15. 2016年銷量:14,947+ ; 2019年銷量:610 (2019/07月榜紀錄)
+15.
 
-16.
+16. 成員本名已在官咖正名。
 
-17.
+17. 2016年銷量:14,947+ ; 2019年銷量:1,127 (2019/08月榜紀錄)
 
-18. 2017年銷量:13,419+ ; 2019年銷量:552 (2019/07月榜紀錄)
+18. 2017年銷量:27,395+ ; 2019年銷量:837 (2019/08月榜紀錄)
 
-19. 2018年銷量:18,015+ ; 2019年銷量:838 (2019/07月榜紀錄)
+19. 2017年銷量:21,371+ ; 2019年銷量:797 (2019/08月榜紀錄)
 
-20.
+20. 2017年銷量:13,419+ ; 2019年銷量:1,298 (2019/08月榜紀錄)
 
-21.
+21. 2018年銷量:18,015+ ; 2019年銷量:1,508 (2019/08月榜紀錄)
 
 22.
 
@@ -634,3 +690,7 @@
 25.
 
 26.
+
+27.
+
+28.

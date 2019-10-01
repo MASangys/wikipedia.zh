@@ -1,4 +1,4 @@
-**李昕**（），[藝名](../Page/藝名.md "wikilink")**Amis艾蜜絲**曾在[中華職棒](https://zh.wikipedia.org/wiki/中華職棒 "wikilink")[Lamigirls與](https://zh.wikipedia.org/wiki/Lamigirls "wikilink")[Fubon Angels擔任](../Page/Fubon_Angels.md "wikilink")[啦啦隊](../Page/啦啦隊.md "wikilink")，在[臉書粉專擁有超過](https://zh.wikipedia.org/wiki/臉書 "wikilink")30萬名粉絲，且有「啦啦隊女神」美稱！\[1\]
+**李昕**（），[藝名](../Page/藝名.md "wikilink")**Amis艾蜜絲**曾在[中華職棒](https://zh.wikipedia.org/wiki/中華職棒 "wikilink")[Lamigirls與](https://zh.wikipedia.org/wiki/Lamigirls "wikilink")[Fubon Angels擔任](../Page/Fubon_Angels.md "wikilink")[啦啦隊](../Page/啦啦隊.md "wikilink")，現為[味全龍](../Page/味全龍.md "wikilink")啦啦隊總教練，在[臉書粉專擁有超過](https://zh.wikipedia.org/wiki/臉書 "wikilink")30萬名粉絲，被譽為「啦啦隊女神」！\[1\]
 
 ## 經歷
 
@@ -7,16 +7,17 @@
   - 2014年\~2016年 [神魔之塔](../Page/神魔之塔.md "wikilink")女將
   - 2017年\~2018年 [Fubon Angels](../Page/Fubon_Angels.md "wikilink")
   - 2017年\~至今 [17 Media直播主](../Page/17直播.md "wikilink")
+  - 2019年\~至今 [味全龍](../Page/味全龍.md "wikilink")啦啦隊總教練
 
 ## 個人作品
 
 **寫真書**
 
-| 年份    | 書名                                                  | 出版社                                | ISBN               |
-| ----- | --------------------------------------------------- | ---------------------------------- | ------------------ |
-| 2014年 | 《Amis南陽照射私底下甜寫真》                                    | [台灣角川](../Page/台灣角川.md "wikilink") | ISBN 9789863663713 |
-| 2016年 | 《Amis L. 艾蜜絲浪漫寫真書》                                  | [尖端出版](../Page/尖端出版.md "wikilink") | ISBN 9789571069524 |
-| 2019年 | 《Amis艾蜜絲夢遊仙境數位寫真》([電子書](../Page/電子書.md "wikilink")) | [尖端出版](../Page/尖端出版.md "wikilink") | ISBN 3140051620036 |
+| 年份    | 書名                                                           | 出版社                                | ISBN               |
+| ----- | ------------------------------------------------------------ | ---------------------------------- | ------------------ |
+| 2015年 | 《Amis，私底下 南陽照射甜寫真》 (2016年[電子書](../Page/電子書.md "wikilink")出版) | [台灣角川](../Page/台灣角川.md "wikilink") | ISBN 9789863663713 |
+| 2016年 | 《Amis L. 艾蜜絲浪漫寫真書》                                           | [尖端出版](../Page/尖端出版.md "wikilink") | ISBN 9789571069524 |
+| 2019年 | 《Amis艾蜜絲夢遊仙境數位寫真》([電子書](../Page/電子書.md "wikilink"))          | [尖端出版](../Page/尖端出版.md "wikilink") | ISBN 3140051620036 |
 
 **寫真年曆**
 

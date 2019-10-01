@@ -68,7 +68,7 @@ CR400AF的牽引電動機及IGBT-VVVF分別由[中車株洲電機及](https://zh
 
 [Pantograph_of_CR400AF-A_for_2018_09_23.jpg](https://zh.wikipedia.org/wiki/File:Pantograph_of_CR400AF-A_for_2018_09_23.jpg "fig:Pantograph_of_CR400AF-A_for_2018_09_23.jpg") CR400AF型在3号和6号车厢设置[受电弓](https://zh.wikipedia.org/wiki/受电弓 "wikilink")，长编组的CR400AF-A型和CR400AF-B型在3号、6号、11号、14号车厢设置受电弓。一般情况下，短编组在正常运行时是只会使用一个受电弓。至於长编组或短编组重连运行的情況下，则会使用两个受电弓。另外，本型号电联车与上代和谐号CRH380A系列动车组有分別的是，受电弓两侧不再设置大型挡板。
 
-CR400AF型动车组采用主动控制受电弓，高压设备外绝缘的雷电冲击耐受电压提升至185 kv，采用整体密闭的高压箱结构，除受电弓外，其余高压部件不暴露于运行环境中，以改善高压系统部件的工作环境，提高系统在不同网高和不同环境下的工作可靠性，实现日常运用的免维护。
+CR400AF系列动车组采用此前曾装备CRH380B/BL系列的CX-PG型主动控制受电弓，由青岛四方法维莱轨道制动有限公司生产，高压设备外绝缘的雷电冲击耐受电压提升至185 kv，采用整体密闭的高压箱结构，除受电弓外，其余高压部件不暴露于运行环境中，以改善高压系统部件的工作环境，提高系统在不同网高和不同环境下的工作可靠性，实现日常运用的免维护。
 
 辅助供电系统则采用中国标准制式的AC380 V/50 Hz辅助供电系统，具有自动平衡负载和冗余供电功能，辅助变流器由牵引变流器中间直流环节供电，实现过[分相不断电](../Page/中性區.md "wikilink")、无动力回送/救援工况时自发电功能。研发锂电池直流供电系统，提升单位质量供电能力。
 
@@ -80,35 +80,39 @@ CR400AF系列列车均设有商务车，一等座车以及二等座车。其中�
 
 本系列在所有座席均设有220V-50Hz的电源插座，其中一等座席和二等座席席位还加设[USB](../Page/USB.md "wikilink")插座。所有车厢均会设置16：9[显示屏提供铁路资讯及旅客信息](https://zh.wikipedia.org/wiki/显示屏 "wikilink")\[19\]。為了能夠提醒旅客到站，在通道門上方設置發光二極體（LED）旅客列車資訊顯示板，可顯示列車沿途停靠站、铁路宣传资讯、列車到站提示、抵站的室外温度以及列車的時速等資訊。另外，所有列车车厢均会设置[监控摄像头以加强保安](../Page/摄像头.md "wikilink")。
 
+此外，部分运行于[京雄城际铁路](../Page/京雄城际铁路.md "wikilink")的CR400AF型动车组，其二等座车改为2+2的布置，通道宽度从530毫米增加到了1010毫米。同时在所有车厢增设多个大件行李区以满足[京雄城际铁路](../Page/京雄城际铁路.md "wikilink")的运营需求\[20\]。
+
 <File:Business> class interior of CR400AF-2013 (20180223175017).jpg|CR400AF的商务座 <File:Car> 1 interior of CR400AF-2006 (20170908110910).jpg|CR400AF的一等座 <File:Car> 12 interior of CR400AF-A-2066 (20180929094833).jpg|CR400AF的二等座 <File:Second> class seats of CR400AF-0207 (20170307101638).jpg|CR400AF二等座的座椅 <File:Bar> area of CR400AF-2006 (20171229120327).jpg|CR400AF的吧台 <File:Second> class seat number plate on CR400AF-A-2066 (20181024185530).jpg|CR400AF的座位指示，可显示坐席预定状态 <File:Second> class power socket on CR400AF-2006 (20170908085538).jpg|位于二等座车的电源插座
 
 ## 运用状况
 
-{{ multiple image | align = right | direction = vertical | width = 220 |image1=CR400AF-2032 at Yongdingmen (20180301160232).jpg|caption1=CR400AF-2032担当的C2060次列车于[京津城际铁路](../Page/京津城际铁路.md "wikilink")北京[永定门](../Page/永定门.md "wikilink")附近（2018年3月） |image2=201805 CR400AF-2037 in Jinhua.jpg|caption2=2018年5月，配属广州局集团广州南动车所的CR400AF担当[G86次列车疾驰于](../Page/沪广高速动车组列车.md "wikilink")[沪昆高速铁路金华段](https://zh.wikipedia.org/wiki/沪昆高速铁路 "wikilink") |image3=G6511 CR400AF-A-2072 at Shenzhen North Railway Station.jpg|caption3=配属广州局集团的CR400AF-A担当G6511次列车停靠[深圳北站](../Page/深圳北站.md "wikilink")}} 2017年2月25日起，中国标准动车组CR400AF和CR400BF隔日重联承担至的[G65/68次列车的运输任务](https://zh.wikipedia.org/wiki/京深高速动车组列车 "wikilink")，铁路部门将根据这次运营的情况跟踪和旅客反馈，对后续生产的列车做出进一步改进\[20\]。其间7月3日到7月22日曾调往京沪高铁调试。
+{{ multiple image | align = right | direction = vertical | width = 220 |image1=CR400AF-2032 at Yongdingmen (20180301160232).jpg|caption1=CR400AF-2032担当的C2060次列车于[京津城际铁路](../Page/京津城际铁路.md "wikilink")北京[永定门](../Page/永定门.md "wikilink")附近（2018年3月） |image2=201805 CR400AF-2037 in Jinhua.jpg|caption2=2018年5月，配属广州局集团广州南动车所的CR400AF担当[G86次列车疾驰于](../Page/沪广高速动车组列车.md "wikilink")[沪昆高速铁路金华段](https://zh.wikipedia.org/wiki/沪昆高速铁路 "wikilink") |image3=G6511 CR400AF-A-2072 at Shenzhen North Railway Station.jpg|caption3=配属广州局集团的CR400AF-A担当G6511次列车停靠[深圳北站](../Page/深圳北站.md "wikilink")}} 2017年2月25日起，中国标准动车组CR400AF和CR400BF隔日重联承担至的[G65/68次列车的运输任务](https://zh.wikipedia.org/wiki/京深高速动车组列车 "wikilink")，铁路部门将根据这次运营的情况跟踪和旅客反馈，对后续生产的列车做出进一步改进\[21\]。其间7月3日到7月22日曾调往京沪高铁调试。
 
-2017年6月26日，中国标准动车组开始承担[京沪高速动车组列车](../Page/京沪高速动车组列车.md "wikilink")任务\[21\]，当日始发车次为双向首发的G123次（下行列车）和G124次（上行列车）\[22\]。根据运行安排，在6月26日至6月30日间，中国标准动车组承运G123/156次列车和G155/124次列车的运输任务；自7月1日起，将有4对京沪高速列车使用中国标准动车组运行，分别为G1/G142次、G107/G4次、G143/G2次和G3/G12次\[23\]。
+2017年6月26日，中国标准动车组开始承担[京沪高速动车组列车](../Page/京沪高速动车组列车.md "wikilink")任务\[22\]，当日始发车次为双向首发的G123次（下行列车）和G124次（上行列车）\[23\]。根据运行安排，在6月26日至6月30日间，中国标准动车组承运G123/156次列车和G155/124次列车的运输任务；自7月1日起，将有4对京沪高速列车使用中国标准动车组运行，分别为G1/G142次、G107/G4次、G143/G2次和G3/G12次\[24\]。
 
-2017年7月27日，根据中国铁路总公司安排，复兴号动车组在京沪高铁开展了时速350公里的体验运营。待2017年9月21日京沪高铁实施新的列车运行图后，复兴号动车组将按时速350公里正式上线运营\[24\]。这2个试验车次分别是G350727次和G727350次\[25\]。
+2017年7月27日，根据中国铁路总公司安排，复兴号动车组在京沪高铁开展了时速350公里的体验运营。待2017年9月21日京沪高铁实施新的列车运行图后，复兴号动车组将按时速350公里正式上线运营\[25\]。这2个试验车次分别是G350727次和G727350次\[26\]。
 
-2017年8月16日，中国铁路总公司宣布，为配合[中共中央总书记](../Page/中国共产党中央委员会总书记.md "wikilink")[习近平](../Page/习近平.md "wikilink")关于[京津冀协同发展](../Page/京津冀协同发展.md "wikilink")“加快构建快速、便捷、高效、安全、大容量、低成本的互联互通综合交通网络”的指示要求，自8月21日起，扩大复兴号动车组列车开行范围，在[京津冀地区安排开行](https://zh.wikipedia.org/wiki/京津冀 "wikilink")22.5对复兴号动车组列车，通达、、、、、、、、、等10个车站\[26\]，其中19.5对为[京津城际列车](../Page/京津城际铁路.md "wikilink")，其余2对为京石高速列车、1对为京广高速列车（已于2017年2月25日起开始担当）\[27\]。未来复兴号动车组列车的开行范围还将扩大至待开通的[京张城际铁路](../Page/京张城际铁路.md "wikilink")，并对京沪高铁的开行范围作进一步扩大\[28\]。
+2017年8月16日，中国铁路总公司宣布，为配合[中共中央总书记](../Page/中国共产党中央委员会总书记.md "wikilink")[习近平](../Page/习近平.md "wikilink")关于[京津冀协同发展](../Page/京津冀协同发展.md "wikilink")“加快构建快速、便捷、高效、安全、大容量、低成本的互联互通综合交通网络”的指示要求，自8月21日起，扩大复兴号动车组列车开行范围，在[京津冀地区安排开行](https://zh.wikipedia.org/wiki/京津冀 "wikilink")22.5对复兴号动车组列车，通达、、、、、、、、、等10个车站\[27\]，其中19.5对为[京津城际列车](../Page/京津城际铁路.md "wikilink")，其余2对为京石高速列车、1对为京广高速列车（已于2017年2月25日起开始担当）\[28\]。未来复兴号动车组列车的开行范围还将扩大至待开通的[京张城际铁路](../Page/京张城际铁路.md "wikilink")，并对京沪高铁的开行范围作进一步扩大\[29\]。
 
-2017年8月20日，中国铁路总公司宣布，将于9月21日实行新的列车运行图。届时将安排7对复兴号动车组在[京沪高铁以时速](https://zh.wikipedia.org/wiki/京沪高铁 "wikilink")350公里运行，分别担当G1/G2、G3/G4、G5/G6、G7/G8、G9/G10、G13/G14、G17/G18次\[29\]。
+2017年8月20日，中国铁路总公司宣布，将于9月21日实行新的列车运行图。届时将安排7对复兴号动车组在[京沪高铁以时速](https://zh.wikipedia.org/wiki/京沪高铁 "wikilink")350公里运行，分别担当G1/G2、G3/G4、G5/G6、G7/G8、G9/G10、G13/G14、G17/G18次\[30\]。
 
-随着复兴号动车组正式进入广铁集团车队，2017年9月29日，复兴号动车组开始在[京广高速铁路](../Page/京广高速铁路.md "wikilink")（武广段）及[广深港高速铁路运行](https://zh.wikipedia.org/wiki/广深港高速铁路 "wikilink")。在2017年[国庆黄金周期间](../Page/中华人民共和国国庆节.md "wikilink")，每天共有5对复兴号列车在[京广高速铁路](../Page/京广高速铁路.md "wikilink")（武广段）及[广深港高速铁路运行](https://zh.wikipedia.org/wiki/广深港高速铁路 "wikilink")，分别担当至[G9731/9732次、G9733/9734次、G9735/9736次](../Page/广深高速动车组列车.md "wikilink")3对，广州南至G6110/6119次1对，广州南至G6132/1次1对\[30\]。
+随着复兴号动车组正式进入广铁集团车队，2017年9月29日，复兴号动车组开始在[京广高速铁路](../Page/京广高速铁路.md "wikilink")（武广段）及[广深港高速铁路运行](https://zh.wikipedia.org/wiki/广深港高速铁路 "wikilink")。在2017年[国庆黄金周期间](../Page/中华人民共和国国庆节.md "wikilink")，每天共有5对复兴号列车在[京广高速铁路](../Page/京广高速铁路.md "wikilink")（武广段）及[广深港高速铁路运行](https://zh.wikipedia.org/wiki/广深港高速铁路 "wikilink")，分别担当至[G9731/9732次、G9733/9734次、G9735/9736次](../Page/广深高速动车组列车.md "wikilink")3对，广州南至G6110/6119次1对，广州南至G6132/1次1对\[31\]。
 
-2017年10月16日CR400AF投入[京广高铁运营](https://zh.wikipedia.org/wiki/京广高铁 "wikilink")，担当至的[G80/79次列车](https://zh.wikipedia.org/wiki/京深高速动车组列车 "wikilink")\[31\]，后来于2018年6月该车次更换为16节编组的CR400AF-A。
+2017年10月16日CR400AF投入[京广高铁运营](https://zh.wikipedia.org/wiki/京广高铁 "wikilink")，担当至的[G80/79次列车](https://zh.wikipedia.org/wiki/京深高速动车组列车 "wikilink")\[32\]，后来于2018年6月该车次更换为16节编组的CR400AF-A。
 
-2018年9月23日，随着[广深港高速铁路香港段的开通和](https://zh.wikipedia.org/wiki/广深港高速铁路香港段 "wikilink")[香港西九龙站的启用](https://zh.wikipedia.org/wiki/香港西九龙站 "wikilink")，复兴号动车组正式驶入[香港](../Page/香港.md "wikilink")，担当[京港高速动车组列车](../Page/京港高速动车组列车.md "wikilink")、[穗港高速動車组列車](../Page/穗港高速動車组列車.md "wikilink")、[昆港高速动车组列车](../Page/昆港高速动车组列车.md "wikilink")等进港车次\[32\]\[33\]\[34\]。
+2018年9月23日，随着[广深港高速铁路香港段的开通和](https://zh.wikipedia.org/wiki/广深港高速铁路香港段 "wikilink")[香港西九龙站的启用](https://zh.wikipedia.org/wiki/香港西九龙站 "wikilink")，复兴号动车组正式驶入[香港](../Page/香港.md "wikilink")，担当[京港高速动车组列车](../Page/京港高速动车组列车.md "wikilink")、[穗港高速動車组列車](../Page/穗港高速動車组列車.md "wikilink")、[昆港高速动车组列车](../Page/昆港高速动车组列车.md "wikilink")等进港车次\[33\]\[34\]\[35\]。
 
-从2018年11月11日至11月20日，由CR400AF型担当的G83次列车的2号车厢被改用為快递专用车厢，首批2000件4吨快件将随车发往长沙。这是国内首次在复兴号高铁列车上设置快递专用车厢\[35\]\[36\]。
+从2018年11月11日至11月20日，由CR400AF型担当的G83次列车的2号车厢被改用為快递专用车厢，首批2000件4吨快件将随车发往长沙。这是国内首次在复兴号高铁列车上设置快递专用车厢\[36\]\[37\]。
 
-2018年12月5日，[济南局集团首趟复兴号CR](https://zh.wikipedia.org/wiki/济南局集团 "wikilink")400AF型动车组在[青岛站](../Page/青岛站.md "wikilink")举行发车仪式。约半个小时后，由青岛客运段值乘的G178次列车从青岛站驶出，开往北京方向\[37\]\[38\]。
+2018年12月5日，[济南局集团首趟复兴号CR](https://zh.wikipedia.org/wiki/济南局集团 "wikilink")400AF型动车组在[青岛站](../Page/青岛站.md "wikilink")举行发车仪式。约半个小时后，由青岛客运段值乘的G178次列车从青岛站驶出，开往北京方向\[38\]\[39\]。
 
-2019年1月5日，CR400AF-B型在[京沪高速铁路](../Page/京沪高速铁路.md "wikilink")上线运行，担当[G9/16次列车](../Page/京沪高速动车组列车.md "wikilink")\[39\]。
+2019年1月5日，CR400AF-B型在[京沪高速铁路](../Page/京沪高速铁路.md "wikilink")上线运行，担当[G9/16次列车](../Page/京沪高速动车组列车.md "wikilink")\[40\]。
+
+2019年8月，
 
 ### 配属概况
 
-直至2019年7月，193列复兴号CR400AF型动车组列车已出厂。
+直至2019年9月，207列复兴号CR400AF型动车组列车已出厂。
 
   - 车号0XXX，为样版车
   - 车号1XXX，为青岛四方庞巴迪生产的列车
@@ -143,44 +147,44 @@ CR400AF系列列车均设有商务车，一等座车以及二等座车。其中�
 <td><p>2183～2185装有LKJ列车运行监控装置</p></td>
 </tr>
 <tr class="odd">
-<td><p>24</p></td>
-<td><p>2001～2003、2007～2010、2014～2017、2023、2025、2030、2032、2034、2047～2052、2057、2058</p></td>
+<td><p>10</p></td>
+<td><p>2003、2007～2010、2023、2032、2048、2049、2051</p></td>
 <td><p>北京南</p></td>
-<td><p><a href="../Page/京沪高速铁路.md" title="wikilink">京沪高速铁路</a>、<a href="../Page/京广高速铁路.md" title="wikilink">京广高速铁路</a>、<a href="../Page/武九客运专线.md" title="wikilink">武九客运专线</a>、<a href="https://zh.wikipedia.org/wiki/昌九城际铁路" title="wikilink">昌九城际铁路</a>、<a href="../Page/合福客运专线.md" title="wikilink">合福客运专线</a>、<a href="../Page/石太客运专线.md" title="wikilink">石太客运专线</a></p></td>
+<td><p><a href="../Page/京沪高速铁路.md" title="wikilink">京沪高速铁路</a>、<a href="../Page/京广高速铁路.md" title="wikilink">京广高速铁路</a>、<a href="https://zh.wikipedia.org/wiki/广深港高速铁路" title="wikilink">广深港高速铁路</a>、<a href="../Page/广珠城际铁路.md" title="wikilink">广珠城际铁路</a>、<a href="../Page/武九客运专线.md" title="wikilink">武九客运专线</a>、<a href="https://zh.wikipedia.org/wiki/昌九城际铁路" title="wikilink">昌九城际铁路</a>、<a href="../Page/合福客运专线.md" title="wikilink">合福客运专线</a>、<a href="../Page/石太客运专线.md" title="wikilink">石太客运专线</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>11</p></td>
+<td><p>17</p></td>
 <td><p>0207、0208、<br />
-2004～2006、2011～2013、2021、2031、2033</p></td>
+2001、2002、2004～2006、2011～2016、2021、2030、2031、2047</p></td>
 <td><p>石家庄</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/京港客运专线" title="wikilink">京广-广深港高铁</a>、<a href="https://zh.wikipedia.org/wiki/柳南客运专线" title="wikilink">柳南客运专线</a>、<a href="../Page/衡柳铁路.md" title="wikilink">衡柳铁路</a>、<a href="../Page/徐兰客运专线.md" title="wikilink">徐兰客运专线</a>、京沪高速铁路</p></td>
+<td><p>京广高速铁路、广深港高速铁路、<a href="https://zh.wikipedia.org/wiki/柳南客运专线" title="wikilink">柳南客运专线</a>、<a href="../Page/衡柳铁路.md" title="wikilink">衡柳铁路</a>、<a href="../Page/徐兰客运专线.md" title="wikilink">徐兰客运专线</a>、京沪高速铁路</p></td>
 <td><p>0207、0208为样版车。</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>5</p></td>
-<td><p>2142～2146</p></td>
+<td><p>13</p></td>
+<td><p>2017、2025、2033、2034、2050、2052、2057、2058、2142～2146</p></td>
 <td><p>北京西</p></td>
-<td><p>京沪高速铁路、京广高速铁路、合福客运专线、石太客运专线</p></td>
+<td><p>京沪高速铁路、京广高速铁路、广深港高速铁路、合福客运专线、石太客运专线、<a href="../Page/京雄城际铁路.md" title="wikilink">京雄城际铁路</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/广州局集团" title="wikilink">广州局集团</a></p></td>
-<td><p>28</p></td>
-<td><p>1006～1021、<br />
+<td><p>32</p></td>
+<td><p>1006～1025、<br />
 2022、2024、2026～2028、2040、2044、2046、2062～2064、2130</p></td>
 <td><p>广州南</p></td>
-<td><p>京广-广深港高铁、徐兰客运专线、<a href="https://zh.wikipedia.org/wiki/沪汉蓉客运专线" title="wikilink">沪汉蓉客运专线</a>、<a href="../Page/沪昆客运专线.md" title="wikilink">沪昆客运专线</a></p></td>
+<td><p>京广高速铁路、广深港高速铁路、广珠城际铁路、徐兰客运专线、<a href="https://zh.wikipedia.org/wiki/沪汉蓉客运专线" title="wikilink">沪汉蓉客运专线</a>、<a href="../Page/沪昆客运专线.md" title="wikilink">沪昆客运专线</a></p></td>
 <td><p>1006原车号1001。</p></td>
 </tr>
 <tr class="odd">
 <td><p>15</p></td>
 <td><p>2035～2039、2041、2043、2045、2053～2056、2059～2061</p></td>
 <td><p>深圳北</p></td>
-<td><p>京广-广深港高铁、徐兰客运专线</p></td>
+<td><p>京广高速铁路、广深港高速铁路、徐兰客运专线</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -188,21 +192,21 @@ CR400AF系列列车均设有商务车，一等座车以及二等座车。其中�
 <td><p>5</p></td>
 <td><p>2042、2129、2131～2133</p></td>
 <td><p>長沙南</p></td>
-<td><p>京广-广深港高铁、沪昆客运专线</p></td>
+<td><p>京广高速铁路、广深港高速铁路、沪昆客运专线</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/济南局集团" title="wikilink">济南局集团</a></p></td>
-<td><p>7</p></td>
-<td><p>2085～2089、2162、2163</p></td>
+<td><p>5</p></td>
+<td><p>2085～2089</p></td>
 <td><p>青岛</p></td>
 <td><p><a href="../Page/青荣城际铁路.md" title="wikilink">青荣城际铁路</a>、<a href="../Page/济青高速铁路.md" title="wikilink">济青高速铁路</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>13</p></td>
-<td><p>2090～2094、2134～2141</p></td>
+<td><p>15</p></td>
+<td><p>2090～2094、2134～2141、2162、2163</p></td>
 <td><p>济南东</p></td>
 <td><p><a href="../Page/胶济客运专线.md" title="wikilink">胶济客运专线</a>、青荣城际铁路、济青高速铁路</p></td>
 <td></td>
@@ -210,10 +214,10 @@ CR400AF系列列车均设有商务车，一等座车以及二等座车。其中�
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/武汉局集团" title="wikilink">武汉局集团</a></p></td>
-<td><p>26</p></td>
-<td><p>2124～2128、2147～2161、2164、2165、2170～2173</p></td>
+<td><p>30</p></td>
+<td><p>2124～2128、2147～2161、2164、2165、2170～2177</p></td>
 <td><p>武汉</p></td>
-<td><p>京广-广深港高铁</p></td>
+<td><p>京沪高速铁路、京广高速铁路、广深港高速铁路、沪汉蓉客运专线、沪昆客运专线、柳南客运专线、合福客运专线、徐兰客运专线、衡柳铁路</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -234,18 +238,18 @@ CR400AF系列列车均设有商务车，一等座车以及二等座车。其中�
 </tr>
 <tr class="even">
 <td><p>广州局集团</p></td>
-<td><p>20</p></td>
-<td><p>1001～1005、<br />
-2065～2068、2070～2072、2078、2081～2084、2104～2106</p></td>
+<td><p>23</p></td>
+<td><p>1001～1005、1026～1028、<br />
+2065～2068、2070～2072、2078、2082～2084、2096、2104～2106</p></td>
 <td><p>广州南</p></td>
-<td><p>京广-广深港高铁、<a href="../Page/渝贵铁路.md" title="wikilink">渝贵铁路</a>、<a href="../Page/贵广客运专线.md" title="wikilink">贵广客运专线</a>、<a href="../Page/南广铁路.md" title="wikilink">南广铁路</a>、<a href="../Page/合蚌客运专线.md" title="wikilink">合蚌客运专线</a>、沪汉蓉客运专线</p></td>
+<td><p>京广高速铁路、广深港高速铁路、<a href="../Page/渝贵铁路.md" title="wikilink">渝贵铁路</a>、<a href="../Page/贵广客运专线.md" title="wikilink">贵广客运专线</a>、<a href="../Page/南广铁路.md" title="wikilink">南广铁路</a>、<a href="../Page/合蚌客运专线.md" title="wikilink">合蚌客运专线</a>、沪汉蓉客运专线</p></td>
 <td><p>1001原车号1002。</p></td>
 </tr>
 <tr class="odd">
 <td><p>15</p></td>
-<td><p>2069、2073～2077、2079、2080、2095～2100、2103</p></td>
+<td><p>2069、2073～2077、2079～2081、2095、2097～2100、2103</p></td>
 <td><p>长沙南</p></td>
-<td><p>京广-广深港高铁、贵广客运专线、沪昆客运专线</p></td>
+<td><p>京广高速铁路、广深港高速铁路、贵广客运专线、沪昆客运专线、<a href="../Page/厦深铁路.md" title="wikilink">厦深铁路</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -667,7 +671,7 @@ ZYS xxxx00</p></td>
   - 2017年3月21日，由北京西开往广州南的G65次列车（编号CR400AF-0207）运行至[京广高速线邢台东](../Page/京广高速铁路.md "wikilink")-安阳东区间发生故障，列车降速运行至郑州东站处理未果，停车2小时后全列换乘热备CRH380A列车继续行程。
   - 2018年2月20日，由北京西开往福田的G79次列车（编号CR400AF-2022与CR400AF-2026重联）运行至京广高速线下行线，因设备速度传感器运行中检测到滑行，导致ATP输出制动停车，导致G817、G825等班次列车受到阻延，而且又会导致有多趟高铁列车晚点。
   - 2018年3月24日，由天津开往北京南的C2034次城际列车（编号CR400AF-2034）发车时无动力，临时更换为因多次故障而被暂停运营的CR400BF-5033运行。
-  - 2018年8月12日23时04分，由杭州东开往北京南的G40次列车（编号CR400AF-2017与CR400AF-2047重联）在[廊坊市](../Page/廊坊市.md "wikilink")[万庄镇受到大风刮起的彩钢板撞击](https://zh.wikipedia.org/wiki/万庄镇 "wikilink")2017车组发生故障，造成京沪高速线廊坊段接触网断电，G40次列车及其后续列车晚点。G40次列车于次日凌晨4时许由[DF11型](../Page/東風11型柴油機車.md "wikilink")0420号内燃机车牵引至北京南站\[40\]。
+  - 2018年8月12日23时04分，由杭州东开往北京南的G40次列车（编号CR400AF-2017与CR400AF-2047重联）在[廊坊市](../Page/廊坊市.md "wikilink")[万庄镇受到大风刮起的彩钢板撞击](https://zh.wikipedia.org/wiki/万庄镇 "wikilink")2017车组发生故障，造成京沪高速线廊坊段接触网断电，G40次列车及其后续列车晚点。G40次列车于次日凌晨4时许由[DF11型](../Page/東風11型柴油機車.md "wikilink")0420号内燃机车牵引至北京南站\[41\]。
 
 ## 参见
 
@@ -726,7 +730,7 @@ ZYS xxxx00</p></td>
 
 19.
 
-20.
+20. [准备开跑 京雄城际铁路(北京段)即将开通运营](https://china.huanqiu.com/article/9CaKrnKmVPP)环球网转载北京日报 2019-09-20
 
 21.
 
@@ -735,8 +739,8 @@ ZYS xxxx00</p></td>
 23.
 
 24.
-25.
 
+25.
 26.
 
 27.
@@ -749,19 +753,21 @@ ZYS xxxx00</p></td>
 
 31.
 
-32. [多图直击\!广深港高铁今天全线开通 乘客:没想到这么快](http://news.sina.com.cn/o/2018-09-23/doc-ifxeuwwr7504042.shtml)新快报 2018年09月23日.
+32.
 
-33. [视频:广深港高铁上的复兴号列车：整区段都有wifi](http://k.sina.com.cn/article_1887790981_m7085678503300cyeu.html?cre=tianyi&mod=pcpager_focus&loc=19&r=9&doct=0&rfunc=87&tj=none&tr=9)广州日报 2018年9月23日.
+33. [多图直击\!广深港高铁今天全线开通 乘客:没想到这么快](http://news.sina.com.cn/o/2018-09-23/doc-ifxeuwwr7504042.shtml)新快报 2018年09月23日.
 
-34. [复兴号实现时速350公里商业运营一周年：9月23日通达香港](https://www.ithome.com/html/it/384565.htm)IT之家 2018年9月21日.
+34. [视频:广深港高铁上的复兴号列车：整区段都有wifi](http://k.sina.com.cn/article_1887790981_m7085678503300cyeu.html?cre=tianyi&mod=pcpager_focus&loc=19&r=9&doct=0&rfunc=87&tj=none&tr=9)广州日报 2018年9月23日.
 
-35. [助力“双11” 复兴号高铁开始“送快递”啦！](http://www.rmzxb.com.cn/c/2018-11-11/2213998.shtml)人民政协网 2018年11月11日.
+35. [复兴号实现时速350公里商业运营一周年：9月23日通达香港](https://www.ithome.com/html/it/384565.htm)IT之家 2018年9月21日.
 
-36. [复兴号快递专用厢助力“双十一”，谈谈高铁物流的未来发展前景](https://baijiahao.baidu.com/s?id=1616830585862948917&wfr=spider&for=pc)
+36. [助力“双11” 复兴号高铁开始“送快递”啦！](http://www.rmzxb.com.cn/c/2018-11-11/2213998.shtml)人民政协网 2018年11月11日.
 
-37. [济南局集团青岛客运段首列“复兴号”今晨从青岛始发](http://news.bandao.cn/a/154515.html)半岛网 2018年12月5日.
+37. [复兴号快递专用厢助力“双十一”，谈谈高铁物流的未来发展前景](https://baijiahao.baidu.com/s?id=1616830585862948917&wfr=spider&for=pc)
 
-38. [中铁济南局集团首趟“复兴号”列车 昨晨从青岛始发](https://baijiahao.baidu.com/s?id=1619063356223022542&wfr=spider&for=pc)光明网 2018年12月6日.
+38. [济南局集团青岛客运段首列“复兴号”今晨从青岛始发](http://news.bandao.cn/a/154515.html)半岛网 2018年12月5日.
 
-39.
+39. [中铁济南局集团首趟“复兴号”列车 昨晨从青岛始发](https://baijiahao.baidu.com/s?id=1619063356223022542&wfr=spider&for=pc)光明网 2018年12月6日.
+
 40.
+41.

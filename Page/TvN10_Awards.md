@@ -539,7 +539,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td></td>
+<td><p><a href="../Page/李陳鎬.md" title="wikilink">李陳鎬</a></p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/COMEDY_BIG_LEAGUE" title="wikilink">COMEDY BIG LEAGUE</a>》</p></td>
 <td></td>
 </tr>

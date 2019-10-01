@@ -403,7 +403,8 @@ Taiwan Motel Travelodge</p></td>
 13/06</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/輝哥的饌賞" title="wikilink">輝哥的饌賞</a><br />
 Fai Gor appreciation of Bistro</p></td>
-<td style="text-align: center;"><p>9</p></td>
+<td style="text-align: center;"><p>9<br />
+(13)</p></td>
 <td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/吳錫輝" title="wikilink">吳錫輝</a><br />
 旁白：<a href="../Page/彭晴.md" title="wikilink">彭　晴</a></p></td>
 <td style="text-align: center;"></td>

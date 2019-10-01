@@ -136,7 +136,7 @@ local list = {
 `   { 'Domon', 3 },`
 `   { 'Dreamcrosser', 5 },`
 `   { 'Driger', 4 },`
-`   { 'Dqwyy', 104 },`
+`   { 'Dqwyy', 99 },`
 `   { 'Dyliu714', 4 },`
 `   { 'Ed cracker', 2 },`
 `   { 'EdmanHK', 5 },`

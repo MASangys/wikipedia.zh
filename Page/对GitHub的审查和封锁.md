@@ -10,7 +10,7 @@
 
 2013年1月20日，[中國大陸政府的](../Page/中国大陆.md "wikilink")[防火長城利用](https://zh.wikipedia.org/wiki/防火長城 "wikilink")[域名污染和關鍵詞過濾等手段封鎖GitHub](https://zh.wikipedia.org/wiki/域名污染 "wikilink")，令中國大陸的用戶無法直接進入。針對政府對GitHub的封鎖行動，[李开复在](../Page/李開復.md "wikilink")[新浪微博](../Page/新浪微博.md "wikilink")抗議，迅速引起網民的關注，該訊息更在三小時内被轉發逾3萬2千次\[4\]\[5\]。2013年1月23日，GitHub被解封，事件平息。
 
-後來，Gist又被防火長城封鎖，但GitHub其他服務未受影響。\[6\]
+後來，Gist又被防火長城封鎖，但GitHub其他服務未受影響。（新疆、西藏则完全封锁）\[6\]
 
 ### 中间人攻击
 

@@ -104,7 +104,7 @@
 <td><center>
 <p>7.</p>
 </center></td>
-<td><p>[9]</p></td>
+<td><p><a href="../Page/Girls_Like_You.md" title="wikilink">Girls Like You</a>[9]</p></td>
 <td></td>
 <td><p><a href="../Page/魔力紅.md" title="wikilink">魔力紅</a><small>（<a href="../Page/卡迪·B.md" title="wikilink">卡迪·B</a>伴唱）</small></p></td>
 <td><p>13,413,011</p></td>
@@ -213,7 +213,7 @@
 <p>16.</p>
 </center></td>
 <td><p>[18]</p></td>
-<td></td>
+<td><p><a href="../Page/完美無瑕.md" title="wikilink">完美無瑕</a></p></td>
 <td><p><a href="../Page/紅髮艾德.md" title="wikilink">紅髮艾德</a></p></td>
 <td><p>10,260,791</p></td>
 <td><p>%}}</p></td>
@@ -272,7 +272,7 @@
 <td><center>
 <p>21.</p>
 </center></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/數星星" title="wikilink">Counting Stars</a>[23]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/數星星星" title="wikilink">Counting Stars</a>[23]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/數星星" title="wikilink">數星星</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/OneRepublic" title="wikilink">共和世代</a></p></td>
 <td><p>9,641,823</p></td>

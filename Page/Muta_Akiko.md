@@ -358,13 +358,13 @@
 
   - 警備保障 電台廣告（旁白）
 
-## 來源
+## 參考來源
 
 ## 外部連結
 
   - [東京俳優生活協同組合公式官網的聲優簡介](http://haikyo.co.jp/profile/profile.php?ActorID=10604)
 
-[Category:日本女性配音員](https://zh.wikipedia.org/wiki/Category:日本女性配音員 "wikilink") [Category:旁白](https://zh.wikipedia.org/wiki/Category:旁白 "wikilink") [Category:東京俳優生活協同組合](https://zh.wikipedia.org/wiki/Category:東京俳優生活協同組合 "wikilink") [Category:東京都出身人物](https://zh.wikipedia.org/wiki/Category:東京都出身人物 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
+[Category:日本女性配音員](https://zh.wikipedia.org/wiki/Category:日本女性配音員 "wikilink") [Category:旁白](https://zh.wikipedia.org/wiki/Category:旁白 "wikilink") [Category:東京俳優生活協同組合](https://zh.wikipedia.org/wiki/Category:東京俳優生活協同組合 "wikilink") [Category:東京都出身人物](https://zh.wikipedia.org/wiki/Category:東京都出身人物 "wikilink")
 
 1.
 2.

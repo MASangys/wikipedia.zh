@@ -1,4 +1,4 @@
-**CKG48**是一個在2017年於[重慶成立的中國大型女子偶像組合](https://zh.wikipedia.org/wiki/重慶 "wikilink")，為[SNH48的姊妹團體](https://zh.wikipedia.org/wiki/SNH48 "wikilink")，隸屬於[重慶絲芭文化傳媒集團有限公司](https://zh.wikipedia.org/wiki/絲芭傳媒 "wikilink")。CKG48的基本定位同樣是秉承SNH48的基本定位，基於「可面對面偶像」的造星理念，具備互聯網思維和參與感精神的近距離養成式大型女子偶像團體，充分吸收SNH48的模式特色和運營經驗，並進行區域化改造\[1\]。CKG48目前共有32名成員，擁有「IDOLS Ft」一項計畫。
+**CKG48**是一個在2017年於[重慶成立的中國大型女子偶像組合](https://zh.wikipedia.org/wiki/重慶 "wikilink")，為[SNH48](../Page/SNH48.md "wikilink")的姊妹團體，隸屬於[重慶絲芭文化傳媒集團有限公司](https://zh.wikipedia.org/wiki/絲芭傳媒 "wikilink")。CKG48的基本定位同樣是秉承SNH48的基本定位，基於「可面對面偶像」的造星理念，具備互聯網思維和參與感精神的近距離養成式大型女子偶像團體，充分吸收SNH48的模式特色和運營經驗，並進行區域化改造\[1\]。CKG48目前共有33名成員，擁有「IDOLS Ft」一項計畫。
 
 ## 概要
 
@@ -10,7 +10,7 @@ CKG48是一個以[重庆為中心活動的](https://zh.wikipedia.org/wiki/重庆
 
 <!-- end list -->
 
-  - 6月2日，[SNH48第四屆總決選演唱會發佈會上](https://zh.wikipedia.org/wiki/SNH48 "wikilink")，宣布SNH48第四個官方姊妹團體CKG48成立，並啟動CKG48一期生招募活動\[3\]
+  - 6月2日，[SNH48](../Page/SNH48.md "wikilink")第四屆總決選演唱會發佈會上，宣布SNH48第四個官方姊妹團體CKG48成立，並啟動CKG48一期生招募活動\[3\]
   - 7月29日，CKG48聯合SNH48、BEJ48、GNZ48、SHY48開始招募SNH48九期生、BEJ48四期生、GNZ48四期生、SHY48四期生、CKG48二期生\[4\]。
   - 10月27日，舉辦成員亮相暨新聞發布會，宣告CKG48將於11月3日、11月4日正式出道\[5\]。
   - 11月3日，Team C舉行《[第1人称](https://zh.wikipedia.org/wiki/Team_NIII_2nd_Stage“第1人称”公演#CKG48_Team_C_1st_Stage「第1人称」公演 "wikilink")》首演\[6\]。
@@ -49,7 +49,7 @@ CKG48是一個以[重庆為中心活動的](https://zh.wikipedia.org/wiki/重庆
 
   - 1月19日，于[SNH48 Group第五屆年度金曲大賞BEST 50发布以下调整](https://zh.wikipedia.org/wiki/SNH48_Group第五屆年度金曲大賞BEST_50 "wikilink")：
       - Team C以及Team K解散；
-      - 部分成员移籍至[SNH48](https://zh.wikipedia.org/wiki/SNH48 "wikilink")、[BEJ48](https://zh.wikipedia.org/wiki/BEJ48 "wikilink")、[GNZ48](https://zh.wikipedia.org/wiki/GNZ48 "wikilink")；
+      - 部分成员移籍至[SNH48](../Page/SNH48.md "wikilink")、[BEJ48](https://zh.wikipedia.org/wiki/BEJ48 "wikilink")、[GNZ48](https://zh.wikipedia.org/wiki/GNZ48 "wikilink")；
       - 部分成员加入基于互联网的偶像养成女团「IDOLS Ft」。
   - 3月3日，运营公司宣布CKG48将舉辦CKG48《少女•山茶》（Miss Camellia）系列公演。《少女•山茶》系列公演将分为「生命」、「成长」、「绽放」三个章节，这也是CKG48自2019年首次公演。
   - 3月16日，CKG48在重庆重演时代艺术中心举行《少女•山茶•生命》公演首演。
@@ -62,14 +62,17 @@ CKG48是一個以[重庆為中心活動的](https://zh.wikipedia.org/wiki/重庆
   - 6月2日，在重慶寅派動力舉辦「盛夏好声音·CKG48夏季限定演出」，同時有以下事項發表：
       - SHY48一期生杨允涵通過CKG48對於IDOLS Ft成員的考核，正式加入CKG48。
   - 6月22日，SHY48一期生张幼柠通過CKG48的考核，正式加入CKG48。
-  - 7月20日，在成都乐空间举行《少女•山茶•成长》公演首演，同时有以下事项发表。
+  - 7月20日，在成都乐空间举行《少女•山茶•成长》公演首演，同时有以下事项发表：
       - GNZ48六期生鄢羽蝶通过CKG48对于IDOLS Ft成员的考核，正式加入CKG48。
+  - 9月7日，于当日《少女•山茶•成长》公演发表以下事项：
+      - SNH48六期生周倩玉通过CKG48对于IDOLS Ft成员的考核，正式加入CKG48；
+      - CKG48将制作创作唱演纪录节目《开机开板！》。
 
 ## 成員名單
 
 ### 正式成员
 
-  - 成员20人，全部成员目前均为[IDOLS Ft成员](../Page/IDOLS_Ft.md "wikilink")。
+  - 成员21人，全部成员目前均为[IDOLS Ft成员](../Page/IDOLS_Ft.md "wikilink")。
 
 | 正式成员 |
 | ---- |
@@ -94,6 +97,7 @@ CKG48是一個以[重庆為中心活動的](https://zh.wikipedia.org/wiki/重庆
 | 曾佳   |
 | 左欣   |
 | 张幼柠  |
+| 周倩玉  |
 
 ### 暂休成员
 
@@ -626,6 +630,14 @@ Team C陶菀瑞，Team K刘炅然，预备生余梦露暂休</p></td>
 <td><p>(20)</p></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>9月7日</p></td>
+<td><p>SNH48 6期生周倩玉加入CKG48</p></td>
+<td><p>+1</p></td>
+<td><p>33</p></td>
+<td><p>(21)</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -797,6 +809,7 @@ CKG99100118</p></td>
 | 2018年6月16日－9月30日   | [娱乐新人王](https://zh.wikipedia.org/wiki/娱乐新人王 "wikilink") | [哔哩哔哩](https://zh.wikipedia.org/wiki/哔哩哔哩 "wikilink") |    |
 | 2018年11月22日－12月21日 | [我的下午茶](https://zh.wikipedia.org/wiki/我的下午茶 "wikilink") | [哔哩哔哩](https://zh.wikipedia.org/wiki/哔哩哔哩 "wikilink") |    |
 | 2019年5月28日－9月3日    | [密逃少女](https://zh.wikipedia.org/wiki/密逃少女 "wikilink")   | [哔哩哔哩](https://zh.wikipedia.org/wiki/哔哩哔哩 "wikilink") |    |
+| 2019年10月           | [开机开板！](https://zh.wikipedia.org/wiki/开机开板！ "wikilink") | [哔哩哔哩](https://zh.wikipedia.org/wiki/哔哩哔哩 "wikilink") |    |
 
 ## 公演
 

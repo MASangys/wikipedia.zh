@@ -90,7 +90,7 @@ News 獲得了新設計（News僅限於美國、澳洲及英國）。
 
 ## 支援產品
 
-所有支援iOS 11的裝置都可以支援iOS 12。
+iOS 12能運行於所有搭載iOS 11的裝置上，是自iPhone OS 3及iOS 9以來第二個支援所有搭載前代作業系統裝置的iOS版本。不過，部分功能並非適用於所有裝置。
 
 ### iPhone
 
@@ -115,8 +115,6 @@ News 獲得了新設計（News僅限於美國、澳洲及英國）。
   - [iPod touch 7](https://zh.wikipedia.org/wiki/iPod_touch_7 "wikilink")
 
 ### iPad
-
-iOS 12為最後一個以iOS名義支援所有iPad的作業系統，新一代可用於iPad的作業系統為[iPadOS](https://zh.wikipedia.org/wiki/iPadOS "wikilink")，iOS 13不支援所有iPad。
 
   - [iPad Air](https://zh.wikipedia.org/wiki/iPad_Air "wikilink") （此iOS版本為最後一個支援此裝置的版本）
   - [iPad Air 2](https://zh.wikipedia.org/wiki/iPad_Air_2 "wikilink")

@@ -115,12 +115,13 @@
 
 ### 合作歌曲
 
-| 日期         | 中文歌名       | 韓文歌名         | 演唱者                                      | 收錄專輯                                          |
-| ---------- | ---------- | ------------ | ---------------------------------------- | --------------------------------------------- |
-| 2014年9月2日  |            | 예쁜얼굴         | 2soo                                     | 《Beat Shower Vol.1》                           |
-| 2018年1月17日 | 花          | 꽃            | VROMANCE                                 | VROMANCE 數位單曲                                 |
-| 2018年1月29日 | 青澀的心       | 서툰 마음        | 秀智                                       | 秀智《Faces Of LOVE》                             |
-| 2018年7月12日 | 就像我們不存在的關係 | 마치 우린 없었던 사이 | [Davichi](../Page/Davichi.md "wikilink") | [Davichi](../Page/Davichi.md "wikilink") 數位單曲 |
+| 日期         | 中文歌名       | 韓文歌名         | 演唱者                                                                                         | 收錄專輯                                          |
+| ---------- | ---------- | ------------ | ------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| 2014年9月2日  |            | 예쁜얼굴         | 2soo                                                                                        | 《Beat Shower Vol.1》                           |
+| 2018年1月17日 | 花          | 꽃            | VROMANCE                                                                                    | VROMANCE 數位單曲                                 |
+| 2018年1月29日 | 青澀的心       | 서툰 마음        | 秀智                                                                                          | 秀智《Faces Of LOVE》                             |
+| 2018年7月12日 | 就像我們不存在的關係 | 마치 우린 없었던 사이 | [Davichi](../Page/Davichi.md "wikilink")                                                    | [Davichi](../Page/Davichi.md "wikilink") 數位單曲 |
+| 2019年9月4日  | 分手吧        | 헤어지자         | [輝人](../Page/輝人.md "wikilink")（[MAMAMOO](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")） | [輝人](../Page/輝人.md "wikilink")《soar》          |
 
 ### 音樂錄影帶(MV)
 
@@ -225,6 +226,8 @@
 ## 外部連結
 
   - [NAVER](http://people.search.naver.com/search.naver?where=nexearch&query=%EC%A0%95%ED%82%A4&sm=tab_etc&ie=utf8&key=PeopleService&os=309772)
+
+  - [官方網站](http://those-records.com/jungkey.php)
 
   -
   -

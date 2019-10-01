@@ -1,4 +1,4 @@
-TVer（ティーバー）是[日本](../Page/日本.md "wikilink")[东京](../Page/东京.md "wikilink")的五大[商业](https://zh.wikipedia.org/wiki/商業電視台 "wikilink")[无线电视台于](../Page/地面電視.md "wikilink")2015年10月26日联合推出的无广告视频点播服务。\[1\]该服务成立的目的是为了应对[Netflix](../Page/Netflix.md "wikilink")、[Bonobo等](https://zh.wikipedia.org/wiki/Bonobo "wikilink")[在线视频点播服务的竞争以及打击非法的网络视频分发](https://zh.wikipedia.org/wiki/影片分享網站 "wikilink")。\[2\]
+TVer（ティーバー）是[日本](../Page/日本.md "wikilink")[东京](../Page/东京.md "wikilink")的五大[商业](https://zh.wikipedia.org/wiki/商業電視台 "wikilink")[无线电视台于](../Page/地面電視.md "wikilink")2015年10月26日联合推出的无广告影片点播服务。\[1\]该服务成立的目的是为了应对[Netflix](../Page/Netflix.md "wikilink")、[Bonobo等](https://zh.wikipedia.org/wiki/Bonobo "wikilink")[在线视频点播服务的竞争以及打击非法的网络视频分发](https://zh.wikipedia.org/wiki/影片分享網站 "wikilink")。\[2\]
 
 ## 概述
 

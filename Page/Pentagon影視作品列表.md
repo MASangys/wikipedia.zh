@@ -615,7 +615,7 @@
 | 7月17日            | Naver VLive                        | Rooftop Live                                                                   |            |         |
 | 7月19日            | JTBC                               | Run.wav                                                                        |            |         |
 | 7月19日            | Mnet                               | [PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")                           | Hui        |         |
-| 7月20日            | KBS                                | [叢林的法則](https://zh.wikipedia.org/wiki/叢林的法則 "wikilink")                        | 洪碩         |         |
+| 7月20日            | KBS                                | [叢林的法則](../Page/叢林的法則.md "wikilink")                                           | 洪碩         |         |
 | 7月26日            | Olleh TV                           | 밀실의 아이들 (Secret Room of Children)                                              | 信源         |         |
 | 8月6日             | Arirang                            | After School Club                                                              |            |         |
 | 8月7日             | Brain-fficial Youtube              | Brain-fficial                                                                  | Hui 洪碩 信源  |         |

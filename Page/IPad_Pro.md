@@ -44,11 +44,11 @@ iPad Pro預先安裝[iOS 11作業系統](https://zh.wikipedia.org/wiki/iOS_11 "w
 
   - 第二代采用[TSMC](https://zh.wikipedia.org/wiki/TSMC "wikilink")10纳米级制程的A10X Fusion 六核处理器，性能與桌上型電腦相当；第三代采用A12X Bionic 处理器，拥有8个CPU核心与7个GPU核心
   - 显示屏拥有抗反光塗層，螢幕反光僅有1.8%，而亮度达到600尼特。[藍寶石玻璃的實用性大減](https://zh.wikipedia.org/wiki/藍寶石 "wikilink")
-  - 屏幕支持P3[广色域和原彩显示](https://zh.wikipedia.org/wiki/广色域 "wikilink")，第二代、第三代支持最高120Hz屏幕刷新率
+  - 屏幕支持P3[广色域和原彩显示](https://zh.wikipedia.org/wiki/广色域 "wikilink")，第二代、第三代支援最高120Hz屏幕刷新率
   - 机身带有磁吸接口，可以连接Smart Keyboard或Apple Pencil（仅第3代）
   - 擁有極薄機身（12.9吋為6.9mm，9.7吋及10.5吋為6.1mm, ）
   - 最大10小时续航时间
-  - 第1、2代支援指紋辨識，第3代支持人脸识别，且可以在各个角度下识别使用者
+  - 第1、2代支援指紋辨識，第3代支援人脸识别，且可以在各个角度下识别使用者
   - 12.9吋iPad Pro（第1、2代）提供太空灰色、銀色、金色機身（第1、2代已停產）
   - 9.7吋iPad Pro提供太空灰色、銀色、金色及新增的玫瑰金色機身（已停產）
   - 10.5吋iPad Pro提供太空灰色、銀色、金色及玫瑰金色機身
