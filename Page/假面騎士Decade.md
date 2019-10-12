@@ -817,7 +817,7 @@ Diend可以用此類卡片發動必殺技，非Diend的Final Attack Ride卡片�
 </tr>
 <tr class="odd">
 <td><p><strong>Faiz Form<br />
-<a href="https://zh.wikipedia.org/wiki/555" title="wikilink">555型態</a></strong></p></td>
+<a href="../Page/555.md" title="wikilink">555</a>型態</strong></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Hibiki Form<br />
@@ -2108,6 +2108,16 @@ Black×Black RX</p></td>
   - **《[假面騎士x超級戰隊 超級英雄大戰](https://zh.wikipedia.org/wiki/假面騎士x超級戰隊_超級英雄大戰 "wikilink")》**
   - **《[平成騎士對昭和騎士 假面騎士大戰 feat.超級戰隊](https://zh.wikipedia.org/wiki/平成騎士對昭和騎士_假面騎士大戰_feat.超級戰隊 "wikilink")》**
   - **《[假面騎士平成Generations Forever](../Page/假面騎士平成Generations_Forever.md "wikilink")》**
+
+### 電視影集
+
+  - 《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》
+
+第52話-53話，假面騎士Decade登場。
+
+  - 《[假面騎士ZI-O](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")》
+  - 第13話-16話、同第27話-28話、第37話-38話、第41-45話、第47-49話，假面騎士Decade登場。
+  - 第28話-30話、同第42話-43話、第47話-49話，假面騎士Diend登場。
 
 ### 小說
 

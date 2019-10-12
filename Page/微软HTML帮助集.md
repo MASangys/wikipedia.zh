@@ -20,13 +20,16 @@ CHM是一種用[LZX](../Page/LZX.md "wikilink")算法壓縮的HTML文件集，�
 ### 制作CHM的工具
 
   - 开源软件
+      - [Calibre](../Page/Calibre.md "wikilink")
+
       - [chmcreator](http://code.google.com/p/chmcreator/)强大的chm编辑软件，完全开源。
 
       - [xCHM](http://xchm.sourceforge.net)
 
       - [GnoCHM](http://gnochm.sourceforge.net/)
   - 網頁或部落格轉換成chm電子書的免費工具
-      - [Scrapbook2Chm](http://www.usb20.idv.tw/ScrapbookToChmEbookConverter/)（中国大陆需翻墙）
+      - Aconvert
+      - PDF Candy
   - Microsoft免費編譯chm工具
       - [HTML幫助集 Workshop and Documentation](http://www.microsoft.com/downloads/details.aspx?FamilyID=00535334-c8a6-452f-9aa0-d597d16580cc&DisplayLang=en)
   - Microsoft免費編譯chm教程
@@ -44,12 +47,18 @@ CHM是一種用[LZX](../Page/LZX.md "wikilink")算法壓縮的HTML文件集，�
 ### 閱讀CHM的工具
 
   - 跨平台
+      - [Calibre](../Page/Calibre.md "wikilink")
       - [ChmFox](https://addons.mozilla.org/zh-CN/firefox/addon/chmfox/)
   - Windows
+      - [Calibre](../Page/Calibre.md "wikilink")
       - [Sumatra PDF](../Page/Sumatra_PDF.md "wikilink")
   - iOS
+      - CHMate
+
       - [ChmPlus阅读器](https://itunes.apple.com/cn/app/chmplus-pro-chm-reader/id441521818?ls=1&mt=8)
   - Mac OS X
+      - [Calibre](../Page/Calibre.md "wikilink")
+
       - [ChmPlus阅读器](https://itunes.apple.com/cn/app/chmplus-chm-reader/id588628901?ls=1&mt=12)
 
 ## Microsoft Help 2

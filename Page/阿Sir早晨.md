@@ -121,7 +121,7 @@
 
   - [李嘉遜](https://zh.wikipedia.org/wiki/李嘉遜 "wikilink") 飾 陳天王
   - [王偉樑](../Page/王偉樑.md "wikilink") 飾 羅導演
-  - [薛純基](https://zh.wikipedia.org/wiki/薛純基 "wikilink") 飾 何　生
+  - [薛純基](../Page/薛純基.md "wikilink") 飾 何　生
   - [鄧汝超](https://zh.wikipedia.org/wiki/鄧汝超 "wikilink") 飾 伍導演
   - [尹健榮](https://zh.wikipedia.org/wiki/尹健榮 "wikilink") 飾 男主角
   - [黃健峯](https://zh.wikipedia.org/wiki/黃健峯 "wikilink") 飾 明　　

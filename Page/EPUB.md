@@ -90,7 +90,9 @@ EPUB规范没有强制或推荐使用特定的[数字版权管理](../Page/数�
 
 #### Windows
 
-  - [Firefox](../Page/Firefox.md "wikilink") EpubReader擴充元件：EPUBReader是一個可以閱讀ePub格式文件的Firefox擴充程式。你無須安裝額外的軟體，在Firefox瀏覽器中便可閱讀ePub格式文件。
+  - [Firefox](../Page/Firefox.md "wikilink") EpubReader擴充元件：EPUBReader是一個可以閱讀ePub格式文件的[Firefox](../Page/Firefox.md "wikilink")擴充程式。你無須安裝額外的軟體，在Firefox瀏覽器中便可閱讀ePub格式文件。
+
+  - [Google Chrome](../Page/Google_Chrome.md "wikilink") EpubReader擴充元件：EPUBReader是一個可以閱讀ePub格式文件的[Chrome擴充程式](../Page/Google_Chrome.md "wikilink")。
 
   - [Google Chrome](../Page/Google_Chrome.md "wikilink") Readium擴充元件：Readium可以阅读网络上的epub文件，或者从你的电脑上选择一个epub文件。
 
@@ -98,20 +100,14 @@ EPUB规范没有强制或推荐使用特定的[数字版权管理](../Page/数�
 
   - [calibre](../Page/Calibre.md "wikilink")：一個自由開源的電子書軟體套裝，可以用來組織、存放以及管理電子書，支援大多數的電子書格式。同時也支援與許多流行的電子書閱讀器進行同步，並可能在数字版权管理的限制下轉換電子書的格式。
 
-  - [Mobipocket](../Page/Mobipocket.md "wikilink")-Reader/Creator ：PDA、智慧型手機和[電子書設備](https://zh.wikipedia.org/wiki/电子书 "wikilink")（[Symbian](https://zh.wikipedia.org/wiki/Symbian "wikilink"), [Windows Mobile](../Page/Windows_Mobile.md "wikilink"), [Palm OS](../Page/Palm_OS.md "wikilink"), [webOS](https://zh.wikipedia.org/wiki/webOS "wikilink"), [Java ME](../Page/Java_ME.md "wikilink"), [BlackBerry](https://zh.wikipedia.org/wiki/BlackBerry "wikilink"), Psion, [Kindle](https://zh.wikipedia.org/wiki/Amazon_Kindle "wikilink") and iLiad）。
+  - [Mobipocket](../Page/Mobipocket.md "wikilink") ：PDA、智慧型手機和[電子書設備](https://zh.wikipedia.org/wiki/电子书 "wikilink")（[Symbian](https://zh.wikipedia.org/wiki/Symbian "wikilink"), [Windows Mobile](../Page/Windows_Mobile.md "wikilink"), [Palm OS](../Page/Palm_OS.md "wikilink"), [webOS](https://zh.wikipedia.org/wiki/webOS "wikilink"), [Java ME](../Page/Java_ME.md "wikilink"), [BlackBerry](https://zh.wikipedia.org/wiki/BlackBerry "wikilink"), Psion, [Kindle](https://zh.wikipedia.org/wiki/Amazon_Kindle "wikilink") and iLiad），[Mobipocket](../Page/Mobipocket.md "wikilink")於2005年被[Amazon收購](https://zh.wikipedia.org/wiki/亚马孙 "wikilink")。
 
   - [SumatraPDF](https://zh.wikipedia.org/wiki/SumatraPDF "wikilink")：Windows平台上一款免費閱讀器，支持打開PDF, ePub, MOBI, XPS, DjVu, CHM, CBZ和CBR格式。
 
-  - [Bookworm](https://zh.wikipedia.org/wiki/Bookworm "wikilink") Free：線上ePub閱讀工具（亦適用於[行動設備](http://mobile.bookworm.oreilly.com)）。
-
-  - [BookGlutton](https://zh.wikipedia.org/wiki/BookGlutton "wikilink")：以閱讀社群為主的免費線上ePub閱讀工具。
-
   - [Universal Reader](https://zh.wikipedia.org/wiki/Universal_Reader "wikilink")（至善閱讀）：支持包括epub在內的多種格式單頁和雙頁真書模式閱讀，支持中文豎排，有漢語、英語、法語界面，完全免費。
 
-  - [Professional PDF Converter](https://zh.wikipedia.org/wiki/Professional_PDF_Converter "wikilink")
-
   -
-  - [Microsoft Edge](../Page/Microsoft_Edge.md "wikilink")
+  - [Microsoft Edge](../Page/Microsoft_Edge.md "wikilink") ：微軟為[Edge加入的功能](../Page/Microsoft_Edge.md "wikilink")。
 
   - [Talking Clipboard](https://zh.wikipedia.org/wiki/Talking_Clipboard "wikilink")：文字轉換語音軟體，可讀出ePub書籍內容。
 
@@ -119,7 +115,8 @@ EPUB规范没有强制或推荐使用特定的[数字版权管理](../Page/数�
 
 #### Linux
 
-  - [Firefox](../Page/Firefox.md "wikilink") EpubReader擴充元件：EPUBReader是一個可以閱讀ePub格式文件的Firefox擴充程式。你無須安裝額外的軟體，在Firefox瀏覽器中便可閱讀ePub格式文件。
+  - [Firefox](../Page/Firefox.md "wikilink") EpubReader擴充元件：EPUBReader是一個可以閱讀ePub格式文件的[Firefox](../Page/Firefox.md "wikilink")擴充程式。你無須安裝額外的軟體，在Firefox瀏覽器中便可閱讀ePub格式文件。
+  - [Google Chrome](../Page/Google_Chrome.md "wikilink") EpubReader擴充元件：EPUBReader是一個可以閱讀ePub格式文件的[Chrome擴充程式](../Page/Google_Chrome.md "wikilink")。
   - [Google Chrome](../Page/Google_Chrome.md "wikilink") Readium擴充元件：Readium可以阅读网络上的epub文件，或者从你的电脑上选择一个epub文件。
   - [calibre](../Page/Calibre.md "wikilink")：一個自由開源的電子書軟體套裝，可以用來組織、存放以及管理電子書，支援大多數的電子書格式。同時也支援與許多流行的電子書閱讀器進行同步，並可能在数字版权管理的限制下轉換電子書的格式。
   - [FBReader](../Page/FBReader.md "wikilink")：可在Windows、Linux、macOS、iOS、Android，以及多種PDA上使用的開放原始碼閱讀軟體，支援多種檔案格式。
@@ -128,7 +125,9 @@ EPUB规范没有强制或推荐使用特定的[数字版权管理](../Page/数�
 
 #### macOS
 
-  - [Firefox](../Page/Firefox.md "wikilink") EpubReader擴充元件：EPUBReader是一個可以閱讀ePub格式文件的Firefox擴充程式。你無須安裝額外的軟體，在Firefox瀏覽器中便可閱讀ePub格式文件。
+  - [Firefox](../Page/Firefox.md "wikilink") EpubReader擴充元件：EPUBReader是一個可以閱讀ePub格式文件的[Firefox](../Page/Firefox.md "wikilink")擴充程式。你無須安裝額外的軟體，在Firefox瀏覽器中便可閱讀ePub格式文件。
+
+  - [Google Chrome](../Page/Google_Chrome.md "wikilink") EpubReader擴充元件：EPUBReader是一個可以閱讀ePub格式文件的[Chrome擴充程式](../Page/Google_Chrome.md "wikilink")。
 
   - [Google Chrome](../Page/Google_Chrome.md "wikilink") Readium擴充元件：Readium可以阅读网络上的epub文件，或者从你的电脑上选择一个epub文件。
 

@@ -372,6 +372,13 @@ BASSETT、DAVE</p></td>
 <td><p>Fergus Chow, Derrick Sepnio</p></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>斷機教子</p></td>
+<td><p>2019-10-20</p></td>
+<td></td>
+<td></td>
+<td><p>《<a href="../Page/楊麗花.md" title="wikilink">楊麗花</a>歌仔戲【忠孝節義】電視連續劇》原聲珍藏輯</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -1332,68 +1339,102 @@ Rap詞：J.Sheon</p></td>
 
 ## 獎項紀錄
 
+### 金馬獎
+
+<table style="width:144%;">
+<colgroup>
+<col style="width: 72%" />
+<col style="width: 16%" />
+<col style="width: 13%" />
+<col style="width: 13%" />
+<col style="width: 19%" />
+<col style="width: 9%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>年份</p></th>
+<th><p>頒獎典禮</p></th>
+<th><p>獎項</p></th>
+<th><p>歌曲</p></th>
+<th><p>影片</p></th>
+<th><p>結果</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2019年</p></td>
+<td><p><a href="../Page/第56屆金馬獎.md" title="wikilink">第56屆金馬獎</a></p></td>
+<td><p>最佳原創電影歌曲</p></td>
+<td><p>有一種悲傷</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/比悲傷更悲傷的故事" title="wikilink">比悲傷更悲傷的故事</a>》</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ### 金曲獎
 
 <table>
 <thead>
 <tr class="header">
 <th><p>年份</p></th>
-<th><p>金曲獎</p></th>
-<th><p>結果</p></th>
+<th><p>屆次</p></th>
 <th><p>獎項</p></th>
-<th><p>入圍者與歌名</p></th>
 <th><p>專輯</p></th>
 <th><p>唱片公司</p></th>
+<th><p>結果</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>2007年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/第18屆金曲獎" title="wikilink">第18屆金曲獎</a></p></td>
-<td></td>
 <td><p>最佳新人獎</p></td>
-<td><p>A-Lin</p></td>
 <td><p>《失戀無罪》</p></td>
 <td><p>愛貝克思</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2009年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/第20屆金曲獎" title="wikilink">第20屆金曲獎</a></p></td>
-<td></td>
 <td><p>最佳國語女歌手獎</p></td>
-<td><p>A-Lin</p></td>
 <td><p>《天生歌姬》</p></td>
 <td><p>愛貝克思</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2011年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/第22屆金曲獎" title="wikilink">第22屆金曲獎</a></p></td>
-<td></td>
 <td><p>最佳國語女歌手獎</p></td>
-<td><p>A-Lin</p></td>
 <td><p>《寂寞不痛》</p></td>
 <td><p>愛貝克思</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2012年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/第23屆金曲獎" title="wikilink">第23屆金曲獎</a></p></td>
-<td></td>
 <td><p>最佳國語女歌手獎</p></td>
-<td><p>A-Lin</p></td>
 <td><p>《我們會更好的》</p></td>
 <td><p>愛貝克思</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2015年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/第26屆金曲獎" title="wikilink">第26屆金曲獎</a></p></td>
-<td></td>
 <td><p>最佳國語女歌手獎</p></td>
-<td><p>A-Lin</p></td>
 <td><p>《罪惡感》</p></td>
 <td><p>索尼唱片</p></td>
+<td></td>
 </tr>
 <tr class="even">
-<td></td>
 <td></td>
 <td></td>
 <td></td>

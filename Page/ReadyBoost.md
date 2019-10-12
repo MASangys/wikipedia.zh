@@ -6,7 +6,7 @@
 
 使用支持 ReadyBoost 的闪存（NAND 存储）设备作为缓存，可以使Windows Vista 或者 Windows 7 中的随机磁盘读取性能原则上较传统的[硬盘](../Page/硬盘.md "wikilink")提高80-100倍。该缓存可以作用于所有的硬盘内容，而不仅仅是页面文件或者系统 [DLL](https://zh.wikipedia.org/wiki/DLL "wikilink") 文件。原则上来说，闪存设备的顺序 I/O 要比传统的硬盘速度缓慢，为了提高性能，ReadyBoost包含了大型识别逻辑，顺序读取请求并且要硬盘为这些请求服务。
 
-当一个兼容的设备连接到计算机，弹出的 Windows 自动播放对话框将提供一个附加的选项来使用闪存设备加速系统；磁盘属性对话框也会添加一个附加的：“ReadyBoost”选项卡，并且挂载的可用空间将是可以配置的。可被指派的闪存空间为 256兆至256G（32位的 Vista将会指派为4GB）。ReadyBoost 使用 [AES-128](https://zh.wikipedia.org/wiki/AES-128 "wikilink") 进行[加密和](https://zh.wikipedia.org/wiki/加密 "wikilink")[压缩并将所有的数据存放于闪存设备](https://zh.wikipedia.org/wiki/压缩 "wikilink")；微软设计的设定的[压缩比为](https://zh.wikipedia.org/wiki/压缩比 "wikilink")2：1，即：4GB 缓存将最多包含 8GB 数据。
+当一个兼容的设备连接到计算机，弹出的 Windows 自动播放对话框将提供一个附加的选项来使用闪存设备加速系统；磁盘属性对话框也会添加一个附加的：“ReadyBoost”选项卡，并且挂载的可用空间将是可以配置的。可被指派的闪存空间为 256兆至256G（32位的 Vista将会指派为4GB）。ReadyBoost 使用 [AES-128](https://zh.wikipedia.org/wiki/AES-128 "wikilink") 进行[加密](../Page/加密.md "wikilink")和[压缩并将所有的数据存放于闪存设备](https://zh.wikipedia.org/wiki/压缩 "wikilink")；微软设计的设定的[压缩比为](https://zh.wikipedia.org/wiki/压缩比 "wikilink")2：1，即：4GB 缓存将最多包含 8GB 数据。
 
 基于Jim Allchin的调查：对于将来要发行的 Windows，ReadyBoost 将能够使用存在于网络当中的其他 Windows PC 上的备用存储。
 

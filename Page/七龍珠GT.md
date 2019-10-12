@@ -89,7 +89,7 @@ GT的敵人是從以前就登場的敵人再延伸下來。企劃人森下孝三
 
 :: 作詞 - [池森秀一](https://zh.wikipedia.org/wiki/池森秀一 "wikilink") / 作曲 - 織田哲郎 / 編曲 - [古井弘人](https://zh.wikipedia.org/wiki/古井弘人 "wikilink") / 歌 - [DEEN](../Page/DEEN.md "wikilink")
 
-:; 《[Don't you see\!](https://zh.wikipedia.org/wiki/Don't_you_see! "wikilink")》（你不明白嗎！）（第27話（1996年11月6日）- 第41話（1997年3月12日）・特別篇（1997年3月26日）
+:; 《[Don't you see\!](../Page/Don't_you_see!.md "wikilink")》（你不明白嗎！）（第27話（1996年11月6日）- 第41話（1997年3月12日）・特別篇（1997年3月26日）
 
   -
 

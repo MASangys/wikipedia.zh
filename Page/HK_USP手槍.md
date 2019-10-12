@@ -2,7 +2,7 @@
 
 ## 設計
 
-HK本來試圖以過去開發成功的槍枝優點作為之後開發手槍的參考，其中過去HK開發的創新手槍包括擁有獨特扳機構造的[P7](../Page/HK_P7手槍.md "wikilink")、純雙動扳機模式的[P9S和](../Page/HK_P9手槍.md "wikilink")[VP70Z等](../Page/HK_VP70手槍.md "wikilink")。1993年HK公司成功研發出了USP手槍後，也代表著HK首次吸收了許多傳統的手槍設計元素，例如[約翰·白朗寧的](https://zh.wikipedia.org/wiki/約翰·白朗寧 "wikilink")[M1911](../Page/M1911手槍.md "wikilink")。槍枝主要根據兩個原则而設計而成，一是聚合物料作為原料，二是[範式手槍的創造](https://zh.wikipedia.org/wiki/範式 "wikilink")。USP使用較多的白朗寧手槍的設計，並與白朗寧的「[Hi Power](https://zh.wikipedia.org/wiki/白朗寧大威力半自動手槍 "wikilink")」類似，另外USP有固鎖待發模式。
+HK本來試圖以過去開發成功的槍枝優點作為之後開發手槍的參考，其中過去HK開發的創新手槍包括擁有獨特扳機構造的[P7](../Page/HK_P7手槍.md "wikilink")、純雙動扳機模式的[P9S和](../Page/HK_P9手槍.md "wikilink")[VP70Z等](../Page/HK_VP70手槍.md "wikilink")。1993年HK公司成功研發出了USP手槍後，也代表著HK首次吸收了許多傳統的手槍設計元素，例如[約翰·白朗寧的](https://zh.wikipedia.org/wiki/約翰·白朗寧 "wikilink")[M1911](../Page/M1911手槍.md "wikilink")。槍枝主要根據兩個原则而設計而成，一是聚合物料作為原料，二是[範式手槍的創造](https://zh.wikipedia.org/wiki/範式 "wikilink")。USP使用較多的白朗寧手槍的設計，並與白朗寧的「[Hi Power](../Page/白朗寧大威力半自動手槍.md "wikilink")」類似，另外USP有固鎖待發模式。
 
 USP的套筒是以整塊高碳鋼用工作母機加工而成，表面經過高溫並加[氮氣處理](https://zh.wikipedia.org/wiki/氮氣 "wikilink")，這種二次硬化處理能加強活動組件的耐磨性。滑套表面並經特殊防鏽蝕處理，其防鏽層深入金屬表層，使滑套的防鏽性更強。槍管則是由鉻鋼經冷鍛製成（冷鍛不會使金屬晶向改向改變），其槍管材質與砲管是同等級的。
 
@@ -26,7 +26,7 @@ HK USP的重製特色為對於扳機的改變：扳機形式上快速更動，�
 
 HK USP常常被世界各國的警察作為配槍、或是軍隊使用。
 
-世界上有兩個軍隊裝備了改裝過的USP，分別為[希臘及](https://zh.wikipedia.org/wiki/希臘 "wikilink")[馬來西亞的軍隊](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")。黑克勒-科赫根據協議，允許雙方改槍，而馬來西亞版本則供第10傘兵團使用。[馬來西亞皇家警察也使用发射](https://zh.wikipedia.org/wiki/馬來西亞皇家警察 "wikilink")9毫米魯格彈的USP戰術型及緊湊型手槍，並且給底下的[特別行動指揮部](../Page/特別行動指揮部.md "wikilink")菁英使用，取代了過去東馬來西亞警察使用的[白朗寧大威力半自動手槍以及](https://zh.wikipedia.org/wiki/白朗寧大威力半自動手槍 "wikilink")[HK P9S手槍](../Page/HK_P9S手槍.md "wikilink")。
+世界上有兩個軍隊裝備了改裝過的USP，分別為[希臘及](https://zh.wikipedia.org/wiki/希臘 "wikilink")[馬來西亞的軍隊](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")。黑克勒-科赫根據協議，允許雙方改槍，而馬來西亞版本則供第10傘兵團使用。[馬來西亞皇家警察也使用发射](https://zh.wikipedia.org/wiki/馬來西亞皇家警察 "wikilink")9毫米魯格彈的USP戰術型及緊湊型手槍，並且給底下的[特別行動指揮部](../Page/特別行動指揮部.md "wikilink")菁英使用，取代了過去東馬來西亞警察使用的[白朗寧大威力半自動手槍](../Page/白朗寧大威力半自動手槍.md "wikilink")以及[HK P9S手槍](../Page/HK_P9S手槍.md "wikilink")。
 
 ## 使用國
 

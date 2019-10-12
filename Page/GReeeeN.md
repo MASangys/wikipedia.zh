@@ -13,7 +13,7 @@
   - **92**（1982年3月21日－）[沖繩縣](../Page/沖繩縣.md "wikilink")出身，負責低音部分
   - **SOH**（1981年2月2日－）[佐賀縣出身](https://zh.wikipedia.org/wiki/佐賀縣 "wikilink")，負責低音部分
 
-全部團員畢業於[福島縣](https://zh.wikipedia.org/wiki/福島縣 "wikilink")[奥羽大學的](https://zh.wikipedia.org/wiki/奥羽大學 "wikilink")[牙醫學系](https://zh.wikipedia.org/wiki/牙醫 "wikilink")。而且皆已通過國家考試並取得執照成為執業牙醫。
+全部團員畢業於[福島縣](https://zh.wikipedia.org/wiki/福島縣 "wikilink")[奥羽大學的](https://zh.wikipedia.org/wiki/奥羽大學 "wikilink")[牙醫](../Page/牙醫.md "wikilink")學系。而且皆已通過國家考試並取得執照成為執業牙醫。
 
 為防止觸犯法律及影響牙醫工作，因此從不公開任何個人照片，即使MV也不是團員親自演出。甚至是訪問中，除了因病人應約而沒有出席的**SOH**外每個成員都是穿上布偶服接受訪問。
 

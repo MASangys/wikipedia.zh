@@ -12,7 +12,7 @@ Android Inc.於2003年10月由安迪·魯賓（Andy Rubin）、利奇·米納爾
 
 2018年8月6日，[Android 9宣佈发行](https://zh.wikipedia.org/wiki/Android_9 "wikilink")。
 
-2019年9月3日，Android 10正式版发布\[15\]。
+2019年9月3日，[Android 10正式版发布](../Page/Android_10.md "wikilink")\[15\]。
 
 ## 歷史
 

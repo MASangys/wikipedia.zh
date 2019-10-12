@@ -66,7 +66,7 @@ Sea Gripen: 準備研發的航空母艦起降型號，銷售對象為[英國皇�
 
 ### 現役
 
-[Gripen_users.PNG](https://zh.wikipedia.org/wiki/File:Gripen_users.PNG "fig:Gripen_users.PNG")
+[Gripen_operators.png](https://zh.wikipedia.org/wiki/File:Gripen_operators.png "fig:Gripen_operators.png")
 
   - [瑞典空軍](https://zh.wikipedia.org/wiki/瑞典空軍 "wikilink")：訂購204架，28架雙座機，已有138架服役中。其中的28架（4架雙座機）將租賃給捷克空軍和匈牙利空軍。其餘的飛機仍分批運交中，已服役的飛機分批升級成E/F。
 
@@ -75,8 +75,6 @@ Sea Gripen: 準備研發的航空母艦起降型號，銷售對象為[英國皇�
   - [匈牙利空軍](../Page/匈牙利空軍.md "wikilink")：租賃14架，2架雙座型。
 
   - [南非空軍](../Page/南非空軍.md "wikilink")：訂購28架，9架雙座機，用於汰換美洲豹C/D戰鬥機。
-
-  - [英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[帝國試飛員學校](https://zh.wikipedia.org/wiki/帝國試飛員學校 "wikilink")（Empire Test Pilots' School）。
 
   - [泰國皇家空軍](../Page/泰國皇家空軍.md "wikilink")：至2013年4月止共12架JAS-39C/D。
 
@@ -112,24 +110,16 @@ Sea Gripen: 準備研發的航空母艦起降型號，銷售對象為[英國皇�
   - 空重：7,000公斤
   - 內部燃油量：3400公斤
   - [最大起飛重量](https://zh.wikipedia.org/wiki/最大起飛重量 "wikilink")：16,500公斤
-  - [引擎](https://zh.wikipedia.org/wiki/引擎 "wikilink")：1具[奇異公司的](https://zh.wikipedia.org/wiki/奇異 "wikilink")[F414G渦輪扇發動機](https://zh.wikipedia.org/wiki/F414G渦輪扇發動機 "wikilink")
+  - [引擎](https://zh.wikipedia.org/wiki/引擎 "wikilink")：1具[奇異公司](https://zh.wikipedia.org/wiki/奇異 "wikilink")[F404渦輪扇發動機](../Page/F404渦輪扇發動機.md "wikilink")/1具[奇異公司](https://zh.wikipedia.org/wiki/奇異 "wikilink")[F414G渦輪扇發動機](https://zh.wikipedia.org/wiki/F414G渦輪扇發動機 "wikilink")
 
-:\* 軍用推力：每具約57.8千牛頓
+:\* 軍用推力：54KN/57.8KN
 
-:\* 加後燃推力：每具98千牛頓
+:\* 加後燃推力：80.5KN/97.9KN
 
 ### 性能
 
   - 最高速度：2[馬赫](https://zh.wikipedia.org/wiki/馬赫 "wikilink")
-  - [巡航速度](https://zh.wikipedia.org/wiki/巡航速度 "wikilink")：1.2[馬赫](https://zh.wikipedia.org/wiki/馬赫 "wikilink")\[12\]
-
-<!-- end list -->
-
-  -
-    [超音速巡航](../Page/超音速巡航.md "wikilink")能力：有
-
-<!-- end list -->
-
+  - [巡航速度](https://zh.wikipedia.org/wiki/巡航速度 "wikilink")：0.95[馬赫](https://zh.wikipedia.org/wiki/馬赫 "wikilink")\[12\]
   - [航程](https://zh.wikipedia.org/wiki/航程 "wikilink")：4,000公里
   - [作戰半徑](https://zh.wikipedia.org/wiki/作戰半徑 "wikilink")：926公里（500海里）
   - [極限](https://zh.wikipedia.org/wiki/極限 "wikilink")：+9G/-3G
@@ -174,11 +164,11 @@ Sea Gripen: 準備研發的航空母艦起降型號，銷售對象為[英國皇�
 
 ## 類似機種
 
-  - [Yak-38戰鬥機](https://zh.wikipedia.org/wiki/Yak-38戰鬥機 "wikilink")
-  - [Yak-141](https://zh.wikipedia.org/wiki/Yak-141 "wikilink")
-  - [XFV-12](https://zh.wikipedia.org/wiki/XFV-12 "wikilink")
-  - [AV-8](https://zh.wikipedia.org/wiki/AV-8 "wikilink")
-  - [F-35](https://zh.wikipedia.org/wiki/F-35 "wikilink")
+  - [光輝戰鬥機](../Page/光輝戰鬥機.md "wikilink")
+  - [梟龍戰鬥機](https://zh.wikipedia.org/wiki/梟龍戰鬥機 "wikilink")
+  - [幻象2000](https://zh.wikipedia.org/wiki/幻象2000 "wikilink")
+  - [FA-50](https://zh.wikipedia.org/wiki/FA-50 "wikilink")
+  - [F-CK-1戰鬥機](https://zh.wikipedia.org/wiki/F-CK-1戰鬥機 "wikilink")
 
 ## 相關連結
 
@@ -192,7 +182,7 @@ Sea Gripen: 準備研發的航空母艦起降型號，銷售對象為[英國皇�
   -
 ## 參考資料
 
-[Category:瑞典戰鬥機](https://zh.wikipedia.org/wiki/Category:瑞典戰鬥機 "wikilink") [Category:薩博飛機](https://zh.wikipedia.org/wiki/Category:薩博飛機 "wikilink")
+[Category:瑞典戰鬥機](https://zh.wikipedia.org/wiki/Category:瑞典戰鬥機 "wikilink") [Category:薩博飛機](https://zh.wikipedia.org/wiki/Category:薩博飛機 "wikilink") [Category:單發噴射機](https://zh.wikipedia.org/wiki/Category:單發噴射機 "wikilink")
 
 1.
 2.

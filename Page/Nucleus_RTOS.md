@@ -35,7 +35,7 @@
 
 ### 安全
 
-[加密](https://zh.wikipedia.org/wiki/加密 "wikilink")（Encryption）、[雜湊](https://zh.wikipedia.org/wiki/雜湊 "wikilink")（hash）和[签名算法](https://zh.wikipedia.org/wiki/签名算法 "wikilink")（signature algorithms）、[密钥交换协议](https://zh.wikipedia.org/wiki/密钥交换协议 "wikilink")
+[加密](../Page/加密.md "wikilink")（Encryption）、[雜湊](https://zh.wikipedia.org/wiki/雜湊 "wikilink")（hash）和[签名算法](https://zh.wikipedia.org/wiki/签名算法 "wikilink")（signature algorithms）、[密钥交换协议](https://zh.wikipedia.org/wiki/密钥交换协议 "wikilink")
 
 ## 参考资料
 

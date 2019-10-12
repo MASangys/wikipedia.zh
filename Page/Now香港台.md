@@ -14,8 +14,6 @@ now香港台部分自製節目於2011年2月9日開始陸續遷往「[now 101台
 
 2016年3月19日凌晨1時起，now香港台變更為預覽頻道，而now自選服務同now隨身睇當日起終止播放。
 
-2019年10月1日凌晨12時起，now香港台正式停播。
-
 ## 內容
 
 now香港台是一條與[now寬頻電視其中一條頻道作同步預覽的頻道](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")，以下列表為不同時期的預覽內容。
@@ -270,6 +268,11 @@ now香港台是一條與[now寬頻電視其中一條頻道作同步預覽的頻�
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
+<td><p>2019年10月1日</p></td>
+<td><p><a href="../Page/Now華劇台.md" title="wikilink">Now華劇台</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -342,121 +345,126 @@ now香港台是一條與[now寬頻電視其中一條頻道作同步預覽的頻�
 <td></td>
 </tr>
 <tr class="even">
-<td><p>117</p></td>
-<td><p><a href="../Page/FOX_Movies.md" title="wikilink">FOX Movies</a></p></td>
+<td><p>105</p></td>
+<td><p><a href="../Page/Now華劇台.md" title="wikilink">Now華劇台</a></p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
+<td><p>117</p></td>
+<td><p><a href="../Page/FOX_Movies.md" title="wikilink">FOX Movies</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>118</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/福斯動作電影頻道" title="wikilink">FOX Action Movies</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>120</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/福斯家庭電影頻道" title="wikilink">FOX Family Movies</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>139</p></td>
 <td><p><a href="../Page/衛視電影台.md" title="wikilink">衛視電影台</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>155</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/tvN_Asia" title="wikilink">tvN</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>156</p></td>
 <td><p><a href="../Page/KBS_World.md" title="wikilink">KBS World</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>160</p></td>
 <td><p><a href="../Page/衛視中文台.md" title="wikilink">衛視中文台</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>163</p></td>
 <td><p><a href="../Page/TVBS-Asia.md" title="wikilink">TVBS Asia</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>213</p></td>
 <td><p><a href="../Page/TLC_(電視頻道).md" title="wikilink">TLC旅遊生活頻道</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>215</p></td>
 <td><p><a href="../Page/國家地理頻道.md" title="wikilink">國家地理頻道</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>220</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/BBC_Earth" title="wikilink">BBC Earth</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>225</p></td>
 <td><p><a href="../Page/歷史頻道.md" title="wikilink">History HD</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>441</p></td>
 <td><p><a href="../Page/迪士尼頻道.md" title="wikilink">Disney Channel</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>442</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>443</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Cartoon_Network" title="wikilink">Cartoon Network</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>460</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>502</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/BBC_Lifestyle" title="wikilink">BBC Lifestyle</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>508</p></td>
 <td><p><a href="../Page/Diva_(電視網).md" title="wikilink">DIVA</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>514</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/索尼台" title="wikilink">索尼台</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>516</p></td>
 <td><p><a href="../Page/BLUE_ANT_Extreme.md" title="wikilink">BLUE ANT Extreme</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>518</p></td>
 <td><p><a href="../Page/FOX_(亞洲).md" title="wikilink">FOX</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>521</p></td>
 <td><p><a href="../Page/FOX_Life_(亞洲).md" title="wikilink">FOX life</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>525</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>526</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/美食頻道_(美國)" title="wikilink">Food Network</a></p></td>
 <td></td>

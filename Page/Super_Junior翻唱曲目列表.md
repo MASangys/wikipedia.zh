@@ -78,7 +78,7 @@
 </tr>
 <tr class="even">
 <td><p>2019</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Time_Slip" title="wikilink">Time Slip</a>》</p></td>
+<td><p>《<a href="../Page/Time_Slip.md" title="wikilink">Time Slip</a>》</p></td>
 <td><p>Show</p></td>
 <td><p><a href="../Page/金元俊.md" title="wikilink">金元俊</a></p></td>
 <td><p>Show</p></td>

@@ -382,6 +382,10 @@ iPod touch不提供電話（不包括[FaceTime](../Page/FaceTime.md "wikilink")�
 
 iPod touch沒有自定義開關，也沒有震動马达，而且是至今所有iOS系列产品中唯一仍然不支持touch ID与Face ID的设备。同时iPod touch是目前所有iOS产品中唯一没有发售过任何全面屏版本的型号。
 
+### 軟體
+
+因为设计上的缘由，Apple在iPod touch内关闭了电池百分比功能。但是它仍然可以在[越狱后透过插件或者是修改文件来开启](../Page/越獄_\(iOS\).md "wikilink")。
+
 ## 参考文献
 
 ## 外部連結

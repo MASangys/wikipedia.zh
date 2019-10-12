@@ -22,8 +22,6 @@ MuseScore还可以通过内置的音序器和SoundFont音色库回放乐谱。\[
 
 MuseScore可以导入和导出多种格式，但有些格式只可导出（例如可视化内容及音频），而有些只可导入（来自其他音乐符号程序的原文件）。
 
-MuseScore的原生文件格式是.mscz（包含乐谱和其他媒体的压缩文件）及.mscx（其XML数据可以在.mscz文件中找到）。通常首选.mscz格式，因为它使用相对少的空间，并且可以支持图像。
-
 MuseScore的原生文件格式是`.mscz`（包含乐谱和其他媒体的压缩文件）及`.mscx`（其XML数据可以在`.mscz`文件中找到）。通常首选`.mscz`格式，因为它使用相对少的空间，并且可以支持图像。
 
 MuseScore还可以导入和导出压缩的（`.mxl`）和未压缩的（`.xml`）[MusicXML](../Page/MusicXML.md "wikilink")文件，这允许在其他音乐符号程序（包括Sibelius和Finale）中打开乐谱。它还可以输入输出MIDI(`.mid`、`.midi`及`.kar`)，它被许多其他程序（如Synthesia）支持，但由于MIDI并非为乐谱设计，所以大多数乐谱符号的信息都丢失了。
@@ -60,7 +58,7 @@ MuseScore也作为PortableApps.com的可移植应用程序运行。它可以安�
 [链接=<https://zh.wikipedia.org/wiki/File:MuseScore_1.2_running_on_Ubuntu.png>](https://zh.wikipedia.org/wiki/File:MuseScore_1.2_running_on_Ubuntu.png "fig:链接=https://zh.wikipedia.org/wiki/File:MuseScore_1.2_running_on_Ubuntu.png")上运行的MuseScore1.2\]\]
 
   - MuseScore 1.0于2011年2月发布。里程碑版本的重点是交付一个稳定的包，而不是在预发布版本中添加新特性。
-  - MuseScore 1.1于2011年7月发布，修复了大约60个bug，并改进了对jazz sheet的支持。\[28\]MuseScore Connect，一个允许在线社区交互和发布的特性，也包含在这个版本中。
+  - MuseScore 1.1于2011年7月发布，修复了大约60个bug，并改进了对爵士乐谱的支持。\[28\]MuseScore Connect，一个允许在线社区交互和发布的特性，也包含在这个版本中。
   - MuseScore 1.2于2012年3月发布。\[29\]这个版本包含了100多个bug修复、改进的MusicXML导入/导出支持以及对特殊字符的改进支持。它还引入了Marc Sabatella的原创作曲《Reunion》作为新的演示乐谱加载时推出的MuseScore。
   - MuseScore 1.3是在2013年2月发布的一个小更新，主要包含bug修复。\[30\]
 
@@ -79,7 +77,10 @@ MuseScore也作为PortableApps.com的可移植应用程序运行。它可以安�
   - MuseScore 3.0是在2018年12月发布的,有许多新特性,包括一个避免乐谱元素冲突的自动智能排版系统、一个爵士符号字体、更高级符号的支持、更多的样式控制、新用户导览、简化的时间轴视图快速导航、重新设计的混音器和钢琴卷帘编辑器以及一个内置的自动升级机制。\[44\]
   - MuseScore 3.1于2019年5月发布，有很多新功能，包括在单音符上的渐强和渐弱回放，以及为品格图提供更多自定选项。\[45\]
   - MuseScore 3.2于2019年6月发布，有很多新功能。\[46\]
-  - MuseScore 3.3将于2019年9月底发布，其中包含了新的面板设计和许多稳定性改进。\[47\]
+
+### 即将发布
+
+  - MuseScore 3.3将于2019年10月初发布，其中包含了新的面板设计和许多稳定性改进。\[47\]
 
 ## 开发
 
@@ -126,9 +127,9 @@ MuseScore社区使用Transifex翻译服务器，用于将软件内容本地化�
   - [免费开源软件](../Page/自由及开放源代码软件.md "wikilink")
   - [音乐软件列表](https://zh.wikipedia.org/wiki/音乐列表软件 "wikilink")
 
-## 外部連結
+## 外部链接
 
-  - [MuseScore官網](http://musescore.org/zh-hant)
+  - [MuseScore官网](https://musescore.org/zh-hans)
   - [MuseScore mailinglist](https://web.archive.org/web/20081012144417/http://www.nabble.com/MuseScore-Developer-f30380.html)
   - [MuseScore articles](http://delicious.com/musescore)
   - [Music Dave Phillips, Notation Software for Linux, April 22nd, 2009](http://www.linuxjournal.com/content/music-notation-software-linux-progress-report-part-2)

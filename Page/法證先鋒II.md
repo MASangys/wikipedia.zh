@@ -962,8 +962,7 @@ David Leung之顧客<br />
 身型健硕<br />
 頭皮糠疹子患者<br />
 半年前救回張朱朱失敗，導致張耀忠患上PTSD<br />
-於第16集被張耀忠以刀割喉身亡<br />
-被摸胸肌</p></td>
+於第16集被張耀忠以刀割喉身亡</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/曾守明.md" title="wikilink">曾守明</a></p></td>
@@ -1385,7 +1384,7 @@ David Leung之顧客<br />
 於第29集被卓嵐刺傷昏迷後清醒指證卓嵐</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/江富強" title="wikilink">江富強</a></p></td>
+<td><p><a href="../Page/江富強.md" title="wikilink">江富強</a></p></td>
 <td><p>容兆海</p></td>
 <td><p>爆炸技術員<br />
 卓嵐之男友<br />
@@ -1804,6 +1803,7 @@ David Leung之顧客<br />
 
 ## 軼事
 
+  - 此劇是[林文龍](../Page/林文龍.md "wikilink")的告別作。
   - 此劇是[歐陽震華](../Page/歐陽震華.md "wikilink")與[佘詩曼繼](https://zh.wikipedia.org/wiki/佘詩曼 "wikilink")《[洗冤錄II](../Page/洗冤錄II.md "wikilink")》後再度合作。
   - 此劇的原裝版大結局為一小時（連廣告），但此劇首播版大結局被加長至一小時三十分鐘（連廣告）。
   - 該劇從2019年4月起於無綫翡翠台深宵時段重播，至4月30日播映第17集時就取得7天跨平台總收視9.7點，是該系列重播以來最高收視，亦是無綫深夜重播劇集的最高收視，成功打破了其他重播劇的收視紀錄\[1\]。

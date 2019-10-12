@@ -87,7 +87,7 @@
 <td><p>2008年12月1日至12月5日</p></td>
 <td><p>1.20%</p></td>
 <td><p><a href="../Page/中島早貴.md" title="wikilink">中島早貴</a></p></td>
-<td><p>世界<a href="https://zh.wikipedia.org/wiki/偉人" title="wikilink">偉人</a></p></td>
+<td><p>世界<a href="../Page/偉人.md" title="wikilink">偉人</a></p></td>
 <td><p>其中關於<a href="https://zh.wikipedia.org/wiki/希特勒" title="wikilink">希特勒的一集引起廣泛批評</a></p></td>
 </tr>
 <tr class="even">

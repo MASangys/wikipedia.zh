@@ -100,7 +100,7 @@
 </tr>
 <tr class="odd">
 <td><p>6</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/德克·諾威斯基" title="wikilink">德克·諾威斯基</a>^</strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/德克·諾威斯基" title="wikilink">德克·諾威斯基</a>†</strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/大前鋒" title="wikilink">大前鋒</a><br />
 <a href="https://zh.wikipedia.org/wiki/中鋒" title="wikilink">中鋒</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/達拉斯小牛" title="wikilink">達拉斯小牛</a><br />

@@ -4,6 +4,9 @@
 
 [Lillian_Gish-edit1.jpg](https://zh.wikipedia.org/wiki/File:Lillian_Gish-edit1.jpg "fig:Lillian_Gish-edit1.jpg")是唯一[默片時代的獲獎者](https://zh.wikipedia.org/wiki/默片 "wikilink")\]\] 下文列出自1973年以来历届获奖人：\[2\]
 
+  - 2020年：[朱莉·安德鲁斯](https://zh.wikipedia.org/wiki/朱莉·安德鲁斯 "wikilink")
+  - 2019年：[丹泽尔·华盛顿](../Page/丹泽尔·华盛顿.md "wikilink")
+  - 2018年：[乔治·克鲁尼](https://zh.wikipedia.org/wiki/乔治·克鲁尼 "wikilink")
   - 2017年：[黛安·基頓](https://zh.wikipedia.org/wiki/黛安·基頓 "wikilink")
   - 2016年：[约翰·威廉姆斯](https://zh.wikipedia.org/wiki/约翰·威廉姆斯 "wikilink")
   - 2015年：[史提夫·馬丁](../Page/史提夫·馬丁.md "wikilink")
@@ -18,7 +21,6 @@
   - 2006年：[肖恩·康纳利](../Page/肖恩·康纳利.md "wikilink")
   - 2005年：[乔治·卢卡斯](../Page/乔治·卢卡斯.md "wikilink")
   - 2004年：[梅丽·史翠普](https://zh.wikipedia.org/wiki/梅丽·史翠普 "wikilink")
-  - 2004年：[汤姆·克鲁斯](https://zh.wikipedia.org/wiki/汤姆·克鲁斯 "wikilink")
   - 2003年：[罗伯特·德尼罗](../Page/罗伯特·德尼罗.md "wikilink")
   - 2002年：[汤姆·汉克斯](../Page/汤姆·汉克斯.md "wikilink")
   - 2001年：[芭芭拉·史翠珊](../Page/芭芭拉·史翠珊.md "wikilink")
@@ -55,6 +57,6 @@
 
 [Category:美国电影奖项](https://zh.wikipedia.org/wiki/Category:美国电影奖项 "wikilink") [Category:美國電影學會](https://zh.wikipedia.org/wiki/Category:美國電影學會 "wikilink") [Category:终身成就奖](https://zh.wikipedia.org/wiki/Category:终身成就奖 "wikilink")
 
-1.  [美国电影学会官方网站关于AFI终身成就奖介绍及历届获奖人名单](http://www.afi.com/tvevents/laa/laalist.aspx)
+1.  [美国电影学会官方网站关于AFI终身成就奖介绍及历届获奖人名单](http://www.afi.com/laa)
 
 2.

@@ -1115,7 +1115,7 @@
 3.  もしも君が願うのなら / May'n (PSP 遊戲 戦場女武神3 主題曲)
 4.  Scarlet Ballet / May'n([緋彈的亞莉亞](../Page/緋彈的亞莉亞.md "wikilink")主題曲)
 5.  侵略ノススメ☆ / ([侵略！花枝娘](../Page/侵略！花枝娘.md "wikilink")主題曲)
-6.  ゆりゆららららゆるゆり大事件 / [七森中☆娱乐部](https://zh.wikipedia.org/wiki/摇曳百合#娱乐社 "wikilink")([輕鬆百合](../Page/輕鬆百合.md "wikilink")主題曲)
+6.  [ゆりゆららららゆるゆり大事件](https://zh.wikipedia.org/wiki/ゆりゆららららゆるゆり大事件 "wikilink") / [七森中☆娱乐部](https://zh.wikipedia.org/wiki/摇曳百合#娱乐社 "wikilink")([輕鬆百合](../Page/輕鬆百合.md "wikilink")主題曲)
 7.  GO MY WAY\!\! / [THE IDOLM@STER](https://zh.wikipedia.org/wiki/THE_IDOLM@STER "wikilink")([偶像大師Xbox360版登場曲](https://zh.wikipedia.org/wiki/偶像大師 "wikilink"))
 8.  READY\!\! / THE IDOLM@STER([偶像大師主題曲](https://zh.wikipedia.org/wiki/偶像大師 "wikilink"))
 9.  エウレカベイビー / [麻生夏子](../Page/麻生夏子.md "wikilink")( [笨蛋，測驗，召喚獸](../Page/笨蛋，測驗，召喚獸.md "wikilink")第二季 片尾曲)

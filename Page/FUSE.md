@@ -16,7 +16,7 @@ FUSE可用于[Linux](../Page/Linux.md "wikilink")、[FreeBSD](../Page/FreeBSD.md
   - [GlusterFS](../Page/GlusterFS.md "wikilink")：用于[集群的](../Page/计算机集群.md "wikilink")[分布式文件系统](https://zh.wikipedia.org/wiki/分布式文件系统 "wikilink")，可以扩展到[PB级](https://zh.wikipedia.org/wiki/PB "wikilink")；
   - [SSHFS](../Page/SSHFS.md "wikilink")：通过SSH协议访问远程文件系统；
   - [GmailFS](../Page/GmailFS.md "wikilink")：通过文件系统方式访问[GMail](https://zh.wikipedia.org/wiki/GMail "wikilink")；
-  - [EncFS](https://zh.wikipedia.org/wiki/EncFS "wikilink")：[加密的虚拟文件系统](https://zh.wikipedia.org/wiki/加密 "wikilink")
+  - [EncFS](https://zh.wikipedia.org/wiki/EncFS "wikilink")：[加密](../Page/加密.md "wikilink")的虚拟文件系统
   - [NTFS-3G](../Page/NTFS-3G.md "wikilink")和[Captive NTFS](https://zh.wikipedia.org/wiki/Captive_NTFS "wikilink")，在非[Windows中对](https://zh.wikipedia.org/wiki/Windows "wikilink")[NTFS](../Page/NTFS.md "wikilink")文件系统提供支持；
   - [WikipediaFS](https://zh.wikipedia.org/wiki/WikipediaFS "wikilink")：支持通过文件系统接口访问[Wikipedia上的文章](https://zh.wikipedia.org/wiki/Wikipedia "wikilink")；
   - [升阳公司的](https://zh.wikipedia.org/wiki/Sun_Microsystems "wikilink")[Lustre](../Page/Lustre.md "wikilink")：和[GlusterFS](../Page/GlusterFS.md "wikilink")类似但更早的一个[集群](https://zh.wikipedia.org/wiki/集群 "wikilink")[文件系统](../Page/文件系统.md "wikilink")

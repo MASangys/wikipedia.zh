@@ -31,7 +31,7 @@
   - [傀儡師神樂](https://zh.wikipedia.org/wiki/傀儡師神樂 "wikilink")（[賽目和七](https://zh.wikipedia.org/wiki/賽目和七 "wikilink")／[マニャ子](https://zh.wikipedia.org/wiki/マニャ子 "wikilink")）
   - [人生](https://zh.wikipedia.org/wiki/人生_\(輕小說\) "wikilink")（[川岸毆魚](https://zh.wikipedia.org/wiki/川岸毆魚 "wikilink")／[ななせめるち](https://zh.wikipedia.org/wiki/ななせめるち "wikilink")）
   - [如果有妹妹就好了。](../Page/如果有妹妹就好了。.md "wikilink")（[平坂讀](../Page/平坂讀.md "wikilink")／[カントク](../Page/監督_\(插畫家\).md "wikilink")）
-  - [4 cours after 四季之後](https://zh.wikipedia.org/wiki/4_cours_after_四季之後 "wikilink")（[水澤夢](https://zh.wikipedia.org/wiki/水澤夢 "wikilink")／bun150）
+  - [4 cours after 四季之後](https://zh.wikipedia.org/wiki/4_cours_after_四季之後 "wikilink")（[水澤夢](../Page/水澤夢.md "wikilink")／bun150）
 
 ### 尖端出版
 
@@ -50,7 +50,7 @@
   - [果然我的青春戀愛喜劇搞錯了。](../Page/果然我的青春戀愛喜劇搞錯了。.md "wikilink")（[渡航](../Page/渡航.md "wikilink")／[ぽんかん⑧](https://zh.wikipedia.org/wiki/ぽんかん⑧ "wikilink")）
   - [寄生彼女砂奈](../Page/寄生彼女砂奈.md "wikilink")（[砂義出雲](https://zh.wikipedia.org/wiki/砂義出雲 "wikilink")／[瑠奈璃亞](https://zh.wikipedia.org/wiki/瑠奈璃亞 "wikilink")）
   - [我和妳有致命的認知差異](https://zh.wikipedia.org/wiki/我和妳有致命的認知差異 "wikilink")（[赤月カケヤ](https://zh.wikipedia.org/wiki/赤月カケヤ "wikilink")／[晩杯あきら](https://zh.wikipedia.org/wiki/晩杯あきら "wikilink")）
-  - [我，要成為雙馬尾](../Page/我，要成為雙馬尾.md "wikilink")（[水澤夢](https://zh.wikipedia.org/wiki/水澤夢 "wikilink")／[春日步](../Page/春日步.md "wikilink")）
+  - [我，要成為雙馬尾](../Page/我，要成為雙馬尾.md "wikilink")（[水澤夢](../Page/水澤夢.md "wikilink")／[春日步](../Page/春日步.md "wikilink")）
   - [下流梗不存在的灰暗世界](../Page/下流梗不存在的灰暗世界.md "wikilink")（[赤城大空](../Page/赤城大空.md "wikilink")／[霜月えいと](https://zh.wikipedia.org/wiki/霜月えいと "wikilink")）
   - [魔王之類的啦！](https://zh.wikipedia.org/wiki/魔王之類的啦！ "wikilink")（[原田源五郎](https://zh.wikipedia.org/wiki/原田源五郎 "wikilink")／[nyanya](https://zh.wikipedia.org/wiki/nyanya "wikilink")）
   - [企業傭兵](../Page/企業傭兵.md "wikilink")（虛淵玄／[廣江禮威](https://zh.wikipedia.org/wiki/廣江禮威 "wikilink")）

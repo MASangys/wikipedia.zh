@@ -152,7 +152,7 @@ cnBeta在2013年6月进行了改版，界面进行了全面调整，但用户一
 
 25. [CNBETA涉嫌欺骗收受红包屏蔽负面新闻](http://society.solidot.org/society/07/05/30/1435232.shtml)
 
-26. 包括Nings的 [谈cnbeta红包事件：新闻是一种信仰](http://nings.cn/2007/05/31/cnbeta.html),hidecloud的 [我们没有失声](http://www.hidecloud.com/blog/2007/05/31/we-are-not-losing-sound.html) 和简宁的 [为cnBeta说句话 —— 你们要的CB“官方澄清”](http://www.jianglb.com/2007/12/23/cnbeta-jianning.html)
+26. 包括Nings的 [谈cnbeta红包事件：新闻是一种信仰](http://nings.cn/2007/05/31/cnbeta.html) ,hidecloud的 [我们没有失声](http://www.hidecloud.com/blog/2007/05/31/we-are-not-losing-sound.html) 和简宁的 [为cnBeta说句话 —— 你们要的CB“官方澄清”](http://www.jianglb.com/2007/12/23/cnbeta-jianning.html)
 
 27. [百度_cnbeta吧_cnbeta服务器故障](http://post.baidu.com/f?kz=210409882)
 

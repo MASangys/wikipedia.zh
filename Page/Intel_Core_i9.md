@@ -337,10 +337,10 @@
 <td><p>Core i9-9900KS</p></td>
 <td></td>
 <td><p>2019年</p></td>
-<td><p>4 GHz</p></td>
-<td></td>
+<td><p>4.0 GHz</p></td>
 <td><p>UHD Graphic 630</p></td>
 <td><p>N/A</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>

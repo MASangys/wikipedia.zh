@@ -25,7 +25,7 @@ Wubi依赖于其它开源项目：[Debian-Installer](https://zh.wikipedia.org/wi
 
 ## 开发
 
-领导开发的程序员为Agostino Russo、Geza Kovacs、Oliver Mattos及Ecology2007\[12\]，主要在开发在[Launchpad上进行](https://zh.wikipedia.org/wiki/Launchpad "wikilink")\[13\]并由Lupin通过最初的Ubuntu蓝图\[14\]及新的Wubi\[15\]、Lubi\[16\]、Lupin\[17\]及LVPM\[18\]项目页\[19\]领导。
+领导开发的程序员为Agostino Russo、Geza Kovacs、Oliver Mattos及Ecology2007\[12\]，主要在开发在[Launchpad上进行](../Page/Launchpad_\(網站\).md "wikilink")\[13\]并由Lupin通过最初的Ubuntu蓝图\[14\]及新的Wubi\[15\]、Lubi\[16\]、Lupin\[17\]及LVPM\[18\]项目页\[19\]领导。
 
 最初认为Wubi的功能将整合到Ubuntu 7.10(代号"Gutsy Gibbon")中\[20\]\[21\]，但没有及时完成\[22\]。Gutsy的[Live CD包含了一个称为](../Page/Live_CD.md "wikilink")"wubi-cdboot.exe"的文件，但其作用只是方便从CD启动，并进行正常的Ubuntu安装\[23\]（这个过程通常需要进行分区）。7.10的一个Alpha版中，Wubi已经可以单独下载\[24\]。据说7.10最终没有包括Wubi的原因是在一个alpha版的安装过程中会出现bug，但用户表示在最新版本（rev386）中并没有这个bug。由于这个bug阻碍了7.10的开发，Wubi没有在7.10的beta版中出现，而此时8.04的工作已经开始了\[25\]\[26\]。 Wubi 8.04在测试时已经可以使用并整合到Ubuntu 8.04 Alpha 5\[27\]。
 

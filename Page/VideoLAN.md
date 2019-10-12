@@ -49,7 +49,7 @@ VLS计划的初衷是用作串流视频的服务器。现已并入VLC计划，�
 
 ### 编解码器
 
-VideoLAN计划还管理着一些音视频[编解码器](../Page/编解码器.md "wikilink")和[算法](https://zh.wikipedia.org/wiki/加密 "wikilink")[库](../Page/函式庫.md "wikilink")，诸如允许使用[CSS保护DVD](https://zh.wikipedia.org/wiki/內容擾亂系統 "wikilink")，[x264可解码](https://zh.wikipedia.org/wiki/x264 "wikilink")[H.264/MPEG-4 AVC视频](https://zh.wikipedia.org/wiki/H.264/MPEG-4_AVC "wikilink")，可解码[DTS](../Page/DTS.md "wikilink")音频及[FFmpeg](../Page/FFmpeg.md "wikilink")[多媒体框架的](https://zh.wikipedia.org/wiki/多媒体框架 "wikilink")[Git](../Page/Git.md "wikilink")[存储库](https://zh.wikipedia.org/wiki/存储库 "wikilink")。
+VideoLAN计划还管理着一些音视频[编解码器](../Page/编解码器.md "wikilink")和[算法](../Page/加密.md "wikilink")[库](../Page/函式庫.md "wikilink")，诸如允许使用[CSS保护DVD](https://zh.wikipedia.org/wiki/內容擾亂系統 "wikilink")，[x264可解码](https://zh.wikipedia.org/wiki/x264 "wikilink")[H.264/MPEG-4 AVC视频](https://zh.wikipedia.org/wiki/H.264/MPEG-4_AVC "wikilink")，可解码[DTS](../Page/DTS.md "wikilink")音频及[FFmpeg](../Page/FFmpeg.md "wikilink")[多媒体框架的](https://zh.wikipedia.org/wiki/多媒体框架 "wikilink")[Git](../Page/Git.md "wikilink")[存储库](https://zh.wikipedia.org/wiki/存储库 "wikilink")。
 
 ### VLMa
 

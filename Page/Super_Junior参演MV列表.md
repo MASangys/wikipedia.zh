@@ -297,18 +297,25 @@
 <tr class="even">
 <td><p>9月10日</p></td>
 <td><p>Show</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Time_Slip" title="wikilink">Time_Slip</a>》</p></td>
+<td><p>《<a href="../Page/Time_Slip.md" title="wikilink">Time_Slip</a>》</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=VRuLUt-Pz88">Special Video</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>9月17日</p></td>
 <td><p>Somebody New</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Time_Slip" title="wikilink">Time_Slip</a>》</p></td>
+<td><p>《<a href="../Page/Time_Slip.md" title="wikilink">Time_Slip</a>》</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=eM5XiXrBu74">Special Video</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>9月27日</p></td>
+<td><p>The Crown</p></td>
+<td><p>《<a href="../Page/Time_Slip.md" title="wikilink">Time_Slip</a>》</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=iVzFO-1euU8">Lyric Video</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

@@ -1,4 +1,4 @@
-**Google Adsense**是一個由Google公司設置的廣告計劃。會員可以利用[Youtube流量和](https://zh.wikipedia.org/wiki/Youtube "wikilink")[Blogspot功能置入廣告服務](https://zh.wikipedia.org/wiki/Blogspot "wikilink")，以賺取傭金。在普通會員方面，廣告服務收成68%，會員只能收取32%的分潤利潤。
+**Google Adsense**是一個由Google公司設置的廣告計劃，會員可以利用[Youtube流量和](https://zh.wikipedia.org/wiki/Youtube "wikilink")[Blogspot功能置入廣告服務](https://zh.wikipedia.org/wiki/Blogspot "wikilink")，以賺取傭金。在普通會員方面，廣告服務收成68%，會員只能收取32%的分潤利潤。
 
 ## 原理
 
@@ -28,7 +28,7 @@ Google表示他們有權基於任何理由將AdSense帳戶停權\[8\]，而且�
 
 ## 参看
 
-  - [Google AdWords针对广告客户](../Page/Google_AdWords.md "wikilink")，Google AdSense则是针对网站发布商
+  - [Google Ads针对广告客户](../Page/Google_Ads.md "wikilink")，Google AdSense则是针对网站发布商
   - [广告网络](https://zh.wikipedia.org/wiki/广告网络 "wikilink")
   - [Google产品列表](../Page/Google产品列表.md "wikilink")
 
@@ -41,8 +41,6 @@ Google表示他們有權基於任何理由將AdSense帳戶停權\[8\]，而且�
   - [Google AdSense](http://www.google.com/adsense/?hl=zh_cn)
 
   - [官方AdSense论坛](http://groups.google.com/group/adsense-help-zhs?lnk=gschg)
-
-  - [Google Adwords教學](https://www.jumkite.com/category/google-adwords%E6%95%99%E5%AD%B8/)
 
 ## 參考文獻
 

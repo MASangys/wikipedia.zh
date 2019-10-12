@@ -353,7 +353,7 @@
 
 `# prevent redundant namespace prefix during page move`
 `.*Special talk:.*`
-`(talk|Wikipedia|维基百科|維基百科|‏‎WP|Help|帮助|User|用户|Category|Cat|分类|分類|File|Image|文件|MediaWiki|Template|模板|Portal|Module|模块|模組|Draft|草稿)：.*`
+`(talk|Wikipedia|维基百科|維基百科|‏‎WP|Help|帮助|User|用户|Category|Cat|分类|分類|File|Image|文件|MediaWiki|Template|模板|Portal|Module|模块|模組|Draft|草稿)[：;].* <errmsg=titleblacklist-namespace-colon>`
 `(Wikipedia|维基百科|維基百科|‏‎WP):(Wikipedia|维基百科|維基百科|‏‎WP):.* <errmsg=titleblacklist-redundant-namespace>`
 `(Template|模板):(Template|模板):.* <errmsg=titleblacklist-redundant-namespace>`
 `(User|用户):(User|用户):.* <errmsg=titleblacklist-redundant-namespace>`

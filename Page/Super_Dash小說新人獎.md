@@ -1,4 +1,6 @@
-**Super Dash小說新人獎**是[集英社](../Page/集英社.md "wikilink")舉辦的[輕小說](../Page/輕小說.md "wikilink")新人獎。一年發表一次（每年的10月25日截止，隔年4月25日發表）。得獎作品由評審委員共同決議，大賞得獎者可以得到正賞的盾和副賞100萬日圓，佳作得獎者可以得到正賞的盾和副賞50萬日圓，同時出版後能夠得到版稅。 此外，得獎者的作品會在[Super Dash文庫出版](../Page/Super_Dash文庫.md "wikilink")。
+**Super Dash小說新人獎**是[集英社](../Page/集英社.md "wikilink")舉辦的[輕小說](../Page/輕小說.md "wikilink")新人獎。一年發表一次（每年的10月25日截止，隔年4月25日發表）。得獎作品由評審委員共同決議，大賞得獎者可以得到正賞獎牌和副賞100萬日圓，佳作得獎者可以得到正賞的獎牌和副賞50萬日圓。此外，得獎者的作品會在[Super Dash文庫出版](../Page/Super_Dash文庫.md "wikilink")，出版後能夠得到[版稅](https://zh.wikipedia.org/wiki/版稅 "wikilink")。
+
+2001年首次頒獎，2013年停辦，2014年舉辦第13回之後，轉型為[集英社輕小說新人獎](https://zh.wikipedia.org/wiki/集英社輕小說新人獎 "wikilink")（）。
 
 ## 評審委員
 
@@ -6,7 +8,7 @@
     [新井素子](../Page/新井素子.md "wikilink")・[高橋良輔](https://zh.wikipedia.org/wiki/高橋良輔 "wikilink")・[堀井雄二](../Page/堀井雄二.md "wikilink")・[阿部和重](../Page/阿部和重.md "wikilink")
   - 第6回（2006年） - 第7回（2007年）
     新井素子・高橋良輔・堀井雄二・[中村航](https://zh.wikipedia.org/wiki/中村航 "wikilink")
-  - 第8回（2008年） - 至今
+  - 第8回（2008年） - 第12回（2012年）
     新井素子・高橋良輔・堀井雄二・中村航・[稻垣理一郎](../Page/稻垣理一郎.md "wikilink")
 
 ## 得獎作品一覽
@@ -316,4 +318,4 @@
 
   - [Super Dash小說新人獎網頁](https://web.archive.org/web/20081218020655/http://dash.shueisha.co.jp/sinjin/)
 
-[Category:日本輕小說文學獎](https://zh.wikipedia.org/wiki/Category:日本輕小說文學獎 "wikilink") [Category:集英社主導的獎](https://zh.wikipedia.org/wiki/Category:集英社主導的獎 "wikilink") [Category:Super_Dash文庫](https://zh.wikipedia.org/wiki/Category:Super_Dash文庫 "wikilink")
+[Category:日本輕小說文學獎](https://zh.wikipedia.org/wiki/Category:日本輕小說文學獎 "wikilink") [Category:集英社主導的獎](https://zh.wikipedia.org/wiki/Category:集英社主導的獎 "wikilink") [Category:Super_Dash文庫](https://zh.wikipedia.org/wiki/Category:Super_Dash文庫 "wikilink") [Category:2001年建立的奖项](https://zh.wikipedia.org/wiki/Category:2001年建立的奖项 "wikilink") [Category:2014年日本廢除](https://zh.wikipedia.org/wiki/Category:2014年日本廢除 "wikilink")

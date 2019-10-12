@@ -50,7 +50,8 @@
 <td><p>二期</p></td>
 <td><p><strong>薄粉紅</strong></p></td>
 <td><p>副隊長<br />
-S/mileage時期代表色為<font color = #007ec7>水色</font>。</p></td>
+S/mileage時期代表色為<font color = #007ec7>水色</font>。<br />
+2019年12月10日畢業預定。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/竹內朱莉" title="wikilink">竹內朱莉</a></p></td>
@@ -67,19 +68,6 @@ S/mileage時期代表色為<font color = #f00>紅色</font>。</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/勝田里奈" title="wikilink">勝田里奈</a></p></td>
-<td><p>かつた りな</p></td>
-<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
-<td><p>りなぷ〜</p></td>
-<td></td>
-<td></td>
-<td><p>A</p></td>
-<td><p><strong>橙</strong></p></td>
-<td><p>S/mileage時期代表色為<span style="color:#ffff33; background-color:#000000">黃色</span>、畢業預定是25/9/2019。</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/室田瑞希" title="wikilink">室田瑞希</a></p></td>
 <td><p>むろた みずき</p></td>
 <td><p><a href="../Page/千葉縣.md" title="wikilink">千葉縣</a></p></td>
@@ -92,7 +80,7 @@ S/mileage時期代表色為<font color = #f00>紅色</font>。</p></td>
 <td><p><strong>水色</strong></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/佐佐木莉佳子.md" title="wikilink">佐佐木莉佳子</a></p></td>
 <td><p>ささき りかこ</p></td>
 <td><p><a href="../Page/宮城縣.md" title="wikilink">宮城縣</a></p></td>
@@ -105,7 +93,7 @@ S/mileage時期代表色為<font color = #f00>紅色</font>。</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/上國料萌衣" title="wikilink">上國料萌衣</a></p></td>
 <td><p>かみこくりょう もえ</p></td>
 <td><p><a href="../Page/熊本縣.md" title="wikilink">熊本縣</a></p></td>
@@ -118,7 +106,7 @@ S/mileage時期代表色為<font color = #f00>紅色</font>。</p></td>
 <td><p><strong>水藍</strong></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/笠原桃奈.md" title="wikilink">笠原桃奈</a></p></td>
 <td><p>かさはら ももな</p></td>
 <td><p><a href="../Page/神奈川縣.md" title="wikilink">神奈川縣</a></p></td>
@@ -131,7 +119,7 @@ S/mileage時期代表色為<font color = #f00>紅色</font>。</p></td>
 <td><p><strong>熱粉紅</strong></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/船木結.md" title="wikilink">船木結</a></p></td>
 <td><p>ふなき むすぶ</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/大阪府" title="wikilink">大阪府</a></p></td>
@@ -144,7 +132,7 @@ S/mileage時期代表色為<font color = #f00>紅色</font>。</p></td>
 <td><p><strong>黃綠</strong></p></td>
 <td><p>從Country Girls移籍，兼任<a href="../Page/Country_Girls.md" title="wikilink">Country Girls</a>。　</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/川村文乃" title="wikilink">川村文乃</a></p></td>
 <td><p>かわむら あやの</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/高知縣" title="wikilink">高知縣</a></p></td>
@@ -157,7 +145,7 @@ S/mileage時期代表色為<font color = #f00>紅色</font>。</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/太田遥香" title="wikilink">太田遥香</a></p></td>
 <td><p>おおた はるか</p></td>
 <td><p><a href="../Page/北海道.md" title="wikilink">北海道</a></p></td>
@@ -170,7 +158,7 @@ S/mileage時期代表色為<font color = #f00>紅色</font>。</p></td>
 <td><p><strong>亮綠色</strong></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/伊勢鈴蘭" title="wikilink">伊勢鈴蘭</a></p></td>
 <td><p>いせ れいら</p></td>
 <td><p><a href="../Page/北海道.md" title="wikilink">北海道</a></p></td>
@@ -183,7 +171,7 @@ S/mileage時期代表色為<font color = #f00>紅色</font>。</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/橋迫鈴" title="wikilink">橋迫鈴</a></p></td>
 <td><p>はしさこ りん</p></td>
 <td><p><a href="../Page/愛知縣.md" title="wikilink">愛知縣</a></p></td>
@@ -196,7 +184,7 @@ S/mileage時期代表色為<font color = #f00>紅色</font>。</p></td>
 <td><p><strong>純紅色</strong></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -337,6 +325,20 @@ S/mileage時期代表色為<font color = #0f2f9e>藍色</font>。</p></td>
 <td><p>S/mileage時期代表色為<font color = #228b22>綠色</font>。</p></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/勝田里奈" title="wikilink">勝田里奈</a></p></td>
+<td><p>かつた りな</p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
+<td><p>りなぷ〜</p></td>
+<td></td>
+<td></td>
+<td><p>A</p></td>
+<td></td>
+<td><p>2019年9月25日</p></td>
+<td><p><strong>橙</strong></p></td>
+<td><p>S/mileage時期代表色為<span style="color:#ffff33; background-color:#000000">黃色</span>。</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/相川茉穗" title="wikilink">相川茉穗</a></p></td>
 <td><p>あいかわ まほ</p></td>
 <td><p><a href="../Page/神奈川縣.md" title="wikilink">神奈川縣</a></p></td>
@@ -350,7 +352,7 @@ S/mileage時期代表色為<font color = #0f2f9e>藍色</font>。</p></td>
 <td><p><strong>綠</strong></p></td>
 <td><p>2017年1月11日起因<a href="../Page/恐慌症.md" title="wikilink">恐慌症</a>暫時停止活動。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>

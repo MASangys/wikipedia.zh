@@ -194,7 +194,7 @@ Ella Gross(模特儿）
   - [黃勝妍](../Page/黃勝妍.md "wikilink")
   - [景收真](../Page/景收真.md "wikilink")
   - [李夏恩](https://zh.wikipedia.org/wiki/李夏恩 "wikilink")（YGKPlus）
-  - [裴正南](https://zh.wikipedia.org/wiki/裴正南 "wikilink")（YGKPlus）
+  - [裴正南](../Page/裴正南.md "wikilink")（YGKPlus）
   - 李皓京（YGKPlus）
   - 李賢旭（YGKPlus）
   - 池依秀（YGKPlus）
@@ -367,7 +367,7 @@ Ella Gross(模特儿）
 
 <!-- end list -->
 
-  - [李荷妮](https://zh.wikipedia.org/wiki/李荷妮 "wikilink")
+  - [李荷妮](../Page/李荷妮.md "wikilink")
   - Linzy
 
 <!-- end list -->

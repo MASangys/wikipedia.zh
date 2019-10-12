@@ -19,7 +19,7 @@
       - 《眼睛不能沒眼淚》 ——[古巨基](../Page/古巨基.md "wikilink")
       - 《舉高隻手》 ——[農夫](https://zh.wikipedia.org/wiki/農夫 "wikilink")
       - 《青山黛瑪》 ——[何韻詩](https://zh.wikipedia.org/wiki/何韻詩 "wikilink")
-      - 《與蝶同眠》 ——[容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")
+      - 《與蝶同眠》 ——[容祖兒](../Page/容祖兒.md "wikilink")
       - 《歌·頌》 ——[陳奕迅](../Page/陳奕迅.md "wikilink")
       - 《廣深公路》 ——[黃耀明](../Page/黃耀明.md "wikilink")
       - 《囍帖街》 ——[謝安琪](../Page/謝安琪.md "wikilink")
@@ -42,7 +42,7 @@
   - 我最喜愛唱作人
       - [何韻詩](https://zh.wikipedia.org/wiki/何韻詩 "wikilink")
   - 我最喜愛演唱會
-      - 《StarLight 容祖兒演唱會 08》 ——[容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")
+      - 《StarLight 容祖兒演唱會 08》 ——[容祖兒](../Page/容祖兒.md "wikilink")
   - 我最喜愛男新人
       - 金獎：[陳偉霆](../Page/陳偉霆.md "wikilink")、[黃宗澤](https://zh.wikipedia.org/wiki/黃宗澤 "wikilink")
       - 銅獎：[歐陽靖](https://zh.wikipedia.org/wiki/歐陽靖_\(香港\) "wikilink")
@@ -59,13 +59,13 @@
   - 我最喜愛全國男歌手
       - [陳奕迅](../Page/陳奕迅.md "wikilink")
   - 我最喜愛全國女歌手
-      - [容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")
+      - [容祖兒](../Page/容祖兒.md "wikilink")
   - 我最喜愛全國組合
       - [飛輪海](../Page/飛輪海.md "wikilink")
   - 我最喜愛男歌手（香港）
       - [陳奕迅](../Page/陳奕迅.md "wikilink")
   - 我最喜愛女歌手（香港）
-      - [容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")
+      - [容祖兒](../Page/容祖兒.md "wikilink")
   - 我最喜愛男組合（香港）
       - [農夫](https://zh.wikipedia.org/wiki/農夫 "wikilink")
   - 我最喜愛女組合（香港）

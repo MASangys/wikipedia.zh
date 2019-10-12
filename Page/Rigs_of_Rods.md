@@ -4,7 +4,7 @@
 
 《Rigs of Rods》起初只是一个卡车实验模拟器，但之後卻逐漸發展成一個多功能物理[沙盒游戏](https://zh.wikipedia.org/wiki/沙盒 "wikilink")。
 
-在0.28版本發佈前，此遊戲僅能讓玩家駕駛典型的陸地車輛。但當0.28版本發佈後，《Rigs of Rods》就開始提供飞机和船只模拟引擎供玩家使用，而《Rigs of Rods》中所有引擎均具有极高的可定制性。在《Rigs of Rods》中，交通工具均以由[顶点連接的骨架組成](https://zh.wikipedia.org/wiki/顶点 "wikilink")，而這些骨架在承受太多壓力時（如撞上一堵牆上），它們就會變形，並最終導致交通工具的外形變形。這些交通工具的配置都以純文本的方式存儲，而設計者亦可以簡單地利用[多边形网格把二維圖片用作交通工具的皮膚](https://zh.wikipedia.org/wiki/多边形网格 "wikilink")。現在的《Rigs of Rods》更允許多边形网格皮膚跟著骨架變形，有如越野賽車遊戲《[1nsane](https://zh.wikipedia.org/wiki/1nsane "wikilink")》中車輛變形般。這個系統名為「Flexbody」，且《Rigs of Rods》自0.36版本起已採用此系統。
+在0.28版本發佈前，此遊戲僅能讓玩家駕駛典型的陸地車輛。但當0.28版本發佈後，《Rigs of Rods》就開始提供飞机和船只模拟引擎供玩家使用，而《Rigs of Rods》中所有引擎均具有极高的可定制性。在《Rigs of Rods》中，交通工具均以由[顶点連接的骨架組成](../Page/頂點_\(幾何\).md "wikilink")，而這些骨架在承受太多壓力時（如撞上一堵牆上），它們就會變形，並最終導致交通工具的外形變形。這些交通工具的配置都以純文本的方式存儲，而設計者亦可以簡單地利用[多边形网格把二維圖片用作交通工具的皮膚](https://zh.wikipedia.org/wiki/多边形网格 "wikilink")。現在的《Rigs of Rods》更允許多边形网格皮膚跟著骨架變形，有如越野賽車遊戲《[1nsane](https://zh.wikipedia.org/wiki/1nsane "wikilink")》中車輛變形般。這個系統名為「Flexbody」，且《Rigs of Rods》自0.36版本起已採用此系統。
 
 《Rigs of Rods》中的地形乃利用定義在原始圖像文件中的地形數據生成，如利用[数字地面模型在](https://zh.wikipedia.org/wiki/数字地面模型 "wikilink")《Rigs of Rods》中生成地形。這些地形可以以任何能生成[原始圖像文件的軟件製作](../Page/RAW.md "wikilink")。換句話來說，即地形能以任何圖像製成。
 

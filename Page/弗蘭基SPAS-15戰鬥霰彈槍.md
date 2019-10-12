@@ -14,7 +14,7 @@
 
 SPAS-15具有兩個操作模式的系統。
 
-第一個設置是半自動操作，在這個模式下，在SPAS-15的下的前[護木在較前的位置](https://zh.wikipedia.org/wiki/護木 "wikilink")，氣動式系統會被鎖定並利用發射後的瓦斯氣體來進行上下一發的霰彈並且無需作其他的操作，而且SPAS-15可以以大約每秒4發的射速射擊，當然第一發仍要用力來回拉動把手。
+第一個設置是半自動操作，在這個模式下，在SPAS-15的[槍管隔熱罩以下的前](https://zh.wikipedia.org/wiki/槍管罩筒 "wikilink")[護木在較前的位置](https://zh.wikipedia.org/wiki/護木 "wikilink")，氣動式系統會被鎖定並利用發射後的瓦斯氣體來進行上下一發的霰彈並且無需作其他的操作，而且SPAS-15可以以大約每秒4發的射速射擊，當然第一發仍要用力來回拉動把手。
 
 第二個設置是泵动式操作，在這個模式下，在SPAS-15的槍管隔熱罩下的前護木在較後的位置，必須每次射擊後手動用力來回拉動護木以排出彈殼和從[管式彈倉裝載了新一發霰彈](https://zh.wikipedia.org/wiki/彈匣#管式彈倉 "wikilink")。此模式適合用來發射各種低壓[彈藥和](https://zh.wikipedia.org/wiki/彈藥 "wikilink")[非致命性彈藥](../Page/非致命性武器.md "wikilink")，例如[鳥彈](https://zh.wikipedia.org/wiki/鳥彈 "wikilink")、[木棍彈](https://zh.wikipedia.org/wiki/木棍彈 "wikilink")、[豆袋彈](../Page/豆袋彈.md "wikilink")、[催淚彈](../Page/催淚彈.md "wikilink")（[CS氣體槍榴彈](https://zh.wikipedia.org/wiki/CS氣體槍榴彈 "wikilink")）、[鹽彈或](https://zh.wikipedia.org/wiki/鹽彈 "wikilink")[塑膠棒式子彈等](https://zh.wikipedia.org/wiki/塑膠棒式子彈 "wikilink")。然而其泵动式操作與傳統泵动式操作霰彈槍相比是相當緩慢和笨拙的，這是因為由於SPAS-15內部複雜的模式轉換機構和前護木與槍管隔熱罩之間的摩擦力較大。
 
@@ -32,7 +32,7 @@ SPAS-15具有兩個操作模式的系統。
 
 ### 保險
 
-[扳機護圈前方左手方的手動安全保險和扳機護圈下方的](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")[握把式保險](https://zh.wikipedia.org/wiki/握把式保險 "wikilink")（位於扳機護圈下方，必需按壓才可發射），可以大大減低[走火的機會](https://zh.wikipedia.org/wiki/走火 "wikilink")。
+[扳機護環前方左手方的手動安全保險和扳機護環下方的](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")[握把式保險](https://zh.wikipedia.org/wiki/握把式保險 "wikilink")（位於扳機護環下方，必需按壓才可發射），可以大大減低[走火的機會](https://zh.wikipedia.org/wiki/走火 "wikilink")。
 
 ### 空槍掛機
 

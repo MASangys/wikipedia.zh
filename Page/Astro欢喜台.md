@@ -15,11 +15,10 @@
 
 ## 外部链接
 
-  - [Astro欢喜台 官方网站](https://web.archive.org/web/20140407133025/http://zhongwen.astro.com.my/Channels/HHD.aspx)
+  -
+  -
+  - [Astro欢喜台的Youtube频道](https://www.youtube.com/user/AstroHuaHeeDai/featured?disable_polymer=1)
 
-  -
-  -
-  -
   -
   -
 <!-- end list -->

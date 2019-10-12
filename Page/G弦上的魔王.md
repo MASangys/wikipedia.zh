@@ -1,4 +1,4 @@
-是[AKABEiSOFT2](../Page/AKABEiSOFT2.md "wikilink")（）於2008年5月29日發售的[十八禁](https://zh.wikipedia.org/wiki/成人遊戲 "wikilink")[冒險遊戲](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")，自2007年11月29日開始因品質提升及開發遲緩的原因三度延期。在發售前已獲得高評價，Getchu.com 2008年上半年統計中是第三名。
+是[AKABEiSOFT2](../Page/AKABEiSOFT2.md "wikilink")於2008年5月29日發售的[十八禁](https://zh.wikipedia.org/wiki/成人遊戲 "wikilink")[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")，自2007年11月29日開始因品質提升及開發遲緩的原因三度延期。在發售前已獲得高評價，Getchu.com 2008年上半年統計中是第三名。
 
 ## 故事簡介
 
@@ -50,7 +50,7 @@
   -
     一切不明。概念來自舒伯特所作的藝術歌曲「魔王」，取該歌曲中誘拐孩童的情節。
 
-## 音樂
+## 主題曲
 
   - 開頭歌曲「Answer」
     編曲：藤田淳平（[Elements Garden](../Page/Elements_Garden.md "wikilink")），作詞：Kanoko，歌：[片霧烈火](../Page/片霧烈火.md "wikilink")
@@ -63,29 +63,15 @@
 
 ## 评价
 
-遊戲在Gatchu 2008年上半年銷量統計中排名第三\[2\]，全年銷量統計中排名第七\[3\]。
-
-游戏获得2008年度[美少女游戏大赏综合赏](../Page/萌系遊戲大賞.md "wikilink")、剧本赏、绘图赏、用户支持赏和主题歌银赏\[4\]。在Getchu 2008年Side White网站用户投票中，游戏获得综合部门第3名、角色部门第1名（宇佐美春）、配音部门第2名（宇佐美春）、剧本部门第3名、BGM部门第3名、主题歌部门第4名、命名部门第4名、系统部门第9名、影片部门第9名\[5\]。
-
-## 註解
+遊戲在Gatchu 2008年上半年銷量統計中排名第三\[2\]，全年銷量統計中排名第七\[3\]，在2008年美少女遊戲排行中获得综合部门第3名、角色部门第1名（宇佐美春）、配音部门第2名（宇佐美春）、剧本部门第3名、BGM部门第3名、主题歌部门第4名、命名部门第4名、系统部门第9名、影片部门第9名\[4\]。另外在2008年度[美少女游戏大赏综合赏](../Page/萌系遊戲大賞.md "wikilink")、剧本赏、绘图赏、用户支持赏和主题歌银赏\[5\]。
 
 ## 參考資料
 
-  - [Getchu.com：](http://www.getchu.com/soft.phtml?id=297425)
-
-## 參見
-
-  - [催淚遊戲](../Page/催淚遊戲.md "wikilink")
-  - [AKABEiSOFT2](../Page/AKABEiSOFT2.md "wikilink")
-  - [巴赫](https://zh.wikipedia.org/wiki/巴赫 "wikilink")：[G弦上的咏叹调](../Page/G弦上的咏叹调.md "wikilink")
-  - [舒伯特](https://zh.wikipedia.org/wiki/舒伯特 "wikilink")：[魔王 (歌剧)](https://zh.wikipedia.org/wiki/魔王_\(歌剧\) "wikilink")
-
 ## 外部連結
 
-  - [遊戲官方網站](https://web.archive.org/web/20081211052523/http://www.akabeesoft2.com/g_sen/)（需年齡確認），存於[網際網路檔案館](https://zh.wikipedia.org/wiki/網際網路檔案館 "wikilink")
-  - [AKABEiSOFT2 OFFICIAL WEB SITE](https://web.archive.org/web/20081217095923/http://akabeesoft2.com/)（需年齡確認），存於[網際網路檔案館](https://zh.wikipedia.org/wiki/網際網路檔案館 "wikilink")
+  - [官方網站](http://www.akabeesoft2.com/g_sen/)
 
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:冒險遊戲](https://zh.wikipedia.org/wiki/Category:冒險遊戲 "wikilink") [Category:2008年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2008年日本成人遊戲 "wikilink")
+[Category:2008年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2008年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:Steam商店遊戲](https://zh.wikipedia.org/wiki/Category:Steam商店遊戲 "wikilink")
 
 1.  [](http://www.akabeesoft2.com/g_sen/shikishi/009.jpg)
 2.

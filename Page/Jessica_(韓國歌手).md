@@ -52,7 +52,7 @@ BLANC\&ECLARE（2014年至今）
 
 ### 演藝生涯
 
-2009年11月14日，潔西卡首次出演了音樂劇，在音樂劇《》中擔任劇中的主角（Elle Woods），跟其他老牌韓國演員[李荷妮](https://zh.wikipedia.org/wiki/李荷妮 "wikilink")、一起同台演出\[15\]\[16\]。
+2009年11月14日，潔西卡首次出演了音樂劇，在音樂劇《》中擔任劇中的主角（Elle Woods），跟其他老牌韓國演員[李荷妮](../Page/李荷妮.md "wikilink")、一起同台演出\[15\]\[16\]。
 
 2010年3月22日，潔西卡與同為少女時代成員的[孝淵](https://zh.wikipedia.org/wiki/金孝淵 "wikilink")、[秀英三人客串演出](https://zh.wikipedia.org/wiki/崔秀榮 "wikilink")[SBS連續劇](https://zh.wikipedia.org/wiki/SBS "wikilink")《[Oh\! My Lady 愛你喲](../Page/Oh!_My_Lady_愛你喲.md "wikilink")》，該劇的演員還有[蔡琳](../Page/蔡琳.md "wikilink")、及[Super Junior成員](../Page/Super_Junior.md "wikilink")[始源](https://zh.wikipedia.org/wiki/始源 "wikilink")\[17\]。同年4月19日，潔西卡在[SBS連續劇](https://zh.wikipedia.org/wiki/SBS "wikilink")《[Oh\! My Lady 愛你喲](../Page/Oh!_My_Lady_愛你喲.md "wikilink")》中客串演出\[18\]。而後又與同為少女時代成員的[珊妮一起為](https://zh.wikipedia.org/wiki/李純揆 "wikilink")[MBC日日情景喜劇](https://zh.wikipedia.org/wiki/MBC "wikilink")《[泰熙慧喬智賢](../Page/泰熙慧喬智賢.md "wikilink")》中客串演出，飾演[SHINee](../Page/SHINee.md "wikilink")成員[泰民劇中的英文補習老師潔西卡](https://zh.wikipedia.org/wiki/李泰民 "wikilink")。
 

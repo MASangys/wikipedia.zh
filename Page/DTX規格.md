@@ -69,7 +69,7 @@ DTX規格可以讓主機板廠商降低生產成本。
   - [DailyTech report](https://web.archive.org/web/20070112191235/http://www.dailytech.com/article.aspx?newsid=5648)
   - [AMD Press Release](http://www.amd.com/us-en/Corporate/VirtualPressRoom/0,,51_104_543~115265,00.html)
   - [Mini-DTX 主機板](https://web.archive.org/web/20070618192506/http://it.oc.com.tw/ocitview.asp?gitid=107522)
-  - [Official website](http://dtxpc.org/)
+  - [Official website](https://web.archive.org/web/20090222202302/http://dtxpc.org/)
   - [Press Release](http://www.amd.com/us-en/Corporate/VirtualPressRoom/0,,51_104_543~115265,00.html)
 
 [Category:主機板規格](https://zh.wikipedia.org/wiki/Category:主機板規格 "wikilink")

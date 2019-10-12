@@ -1539,7 +1539,7 @@ STUDIO DEEN另外還有事角色製作和授權管理，並專注於自家開發
 </tr>
 <tr class="odd">
 <td><p>1989年</p></td>
-<td><p><a href="../Page/機動警察.md" title="wikilink">機動警察 the Movie</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>

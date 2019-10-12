@@ -893,7 +893,7 @@ Winnie之男友</p></td>
 <td><p><strong>華Dee</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/徐玟晴" title="wikilink">徐玟晴</a></p></td>
+<td><p><a href="../Page/徐玟晴.md" title="wikilink">徐玟晴</a></p></td>
 <td><p>葉聖美</p></td>
 <td><p>李寶之女（第5集）<br />
 被張德華偷窺，其母憤而告上法院</p></td>

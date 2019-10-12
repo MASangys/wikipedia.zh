@@ -1,14 +1,4 @@
-**HotCha**是由三人所組成的前[香港](../Page/香港.md "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，擅長[跳舞](https://zh.wikipedia.org/wiki/跳舞 "wikilink")，成員包括[張惠雅](../Page/張惠雅.md "wikilink")（Regen）、[張紋嘉](../Page/張紋嘉.md "wikilink")（Crystal）及[黎美言](../Page/黎美言.md "wikilink")（Winkie），於2007年4月4日正式加入樂壇。三位成員是在不同場合被[Neway Star所發掘](https://zh.wikipedia.org/wiki/Neway_Star "wikilink")，Regen於2004年參加了Neway舉辦的「星途大戰歌唱比賽」，並獲得季軍；Crystal於2006年與[鄭融](../Page/鄭融.md "wikilink")拍攝了一輯「Neway06世界盃決賽周」宣傳片；而Winkie則是參加了2006年度[動漫節舞蹈大賽](https://zh.wikipedia.org/wiki/動漫節 "wikilink")「The One Dance Competition」被發掘。
-
-HotCha三位成員各自有其所精的舞種：Regen擅長[Hip Hop](https://zh.wikipedia.org/wiki/Hip_Hop "wikilink")，Crystal擅長Modern Jazz，Winkie則擅長Jazz Funk。
-
-HotCha於正式發佈會前曾被公司安排到[日本](../Page/日本.md "wikilink")的著名演藝訓練學校、曾培養過不少日本巨星的《[Avex](https://zh.wikipedia.org/wiki/Avex "wikilink")》接受訓練。「HotCha」一詞於外國有「狂熱」、「熱愛」的意思，因此代表了HotCha三位成員十分狂熱、熱愛表演。
-
-2011年其中一名成員Regen（張惠雅）於完成《3個人在途上》的宣傳活動後到[澳洲工作假期](https://zh.wikipedia.org/wiki/澳洲 "wikilink")，HotCha暫時改組。\[1\]但兩名成員將繼續娛樂事業，領銜主演《[時光之光](https://zh.wikipedia.org/wiki/時光之光 "wikilink")》舞台劇。\[2\]
-
-2014年8月，HotCha拆伙。HotCha成立7年之時，唱片公司接納了各自發展的提議，決定把HotCha「正式解散，永不復合」，並推出最後一首單曲《另一頁》作告別作，同時收錄在新歌加精選唱片內作「完美結局」，日後便各走各路。拆伙後，[Crystal](../Page/張紋嘉.md "wikilink")（張紋嘉）將主力唱歌、寫書及舞台劇，[Winkie](../Page/黎美言.md "wikilink")（黎美言）就偏重跟時裝有關的工作，而[Regen](../Page/張惠雅.md "wikilink")（張惠雅）主力拍劇。\[3\]
-
-2018年，HotCha成立11周年，宣布將合體舉辦十周年慈善演唱會。3位成員於演唱會前接受訪問時表示過去真的經常嗌交、冷戰和互不瞅睬，甚至拆夥後鮮有聯絡，但現在成員間都懂得互相欣賞，友情和默契仍在\[4\]。
+**HotCha**是由三人所組成的前[香港](../Page/香港.md "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，擅長[跳舞](https://zh.wikipedia.org/wiki/跳舞 "wikilink")，成員包括[張惠雅](../Page/張惠雅.md "wikilink")（Regen）、[張紋嘉](../Page/張紋嘉.md "wikilink")（Crystal）及[黎美言](../Page/黎美言.md "wikilink")（Winkie）。
 
 ## 前成員
 
@@ -41,6 +31,20 @@ HotCha於正式發佈會前曾被公司安排到[日本](../Page/日本.md "wiki
   - 離隊原因：HotCha正式解散
 
 黎美言將偏重跟時裝有關的工作。
+
+## 歷史
+
+HotCha於2007年4月4日正式加入[香港樂壇](https://zh.wikipedia.org/wiki/香港樂壇 "wikilink")。三位成員是在不同場合被[Neway Star所發掘](https://zh.wikipedia.org/wiki/Neway_Star "wikilink")，Regen於2004年參加了Neway舉辦的「星途大戰歌唱比賽」，並獲得季軍；Crystal於2006年與[鄭融](../Page/鄭融.md "wikilink")拍攝了一輯「Neway06世界盃決賽周」宣傳片；而Winkie則是參加了2006年度[動漫節舞蹈大賽](https://zh.wikipedia.org/wiki/動漫節 "wikilink")「The One Dance Competition」被發掘。
+
+HotCha三位成員各自有其所精的舞種：Regen擅長[Hip Hop](https://zh.wikipedia.org/wiki/Hip_Hop "wikilink")，Crystal擅長Modern Jazz，Winkie則擅長Jazz Funk。
+
+HotCha於正式發佈會前曾被公司安排到[日本](../Page/日本.md "wikilink")的著名演藝訓練學校、曾培養過不少日本巨星的《[Avex](https://zh.wikipedia.org/wiki/Avex "wikilink")》接受訓練。「HotCha」一詞於外國有「狂熱」、「熱愛」的意思，因此代表了HotCha三位成員十分狂熱、熱愛表演。
+
+2011年其中一名成員Regen（張惠雅）於完成《3個人在途上》的宣傳活動後到[澳洲工作假期](https://zh.wikipedia.org/wiki/澳洲 "wikilink")，HotCha暫時改組。\[1\]但兩名成員將繼續娛樂事業，領銜主演《[時光之光](https://zh.wikipedia.org/wiki/時光之光 "wikilink")》舞台劇。\[2\]
+
+2014年8月，HotCha拆伙。HotCha成立7年之時，唱片公司接納了各自發展的提議，決定把HotCha「正式解散，永不復合」，並推出最後一首單曲《另一頁》作告別作，同時收錄在新歌加精選唱片內作「完美結局」，日後便各走各路。拆伙後，[Crystal](../Page/張紋嘉.md "wikilink")（張紋嘉）將主力唱歌、寫書及舞台劇，[Winkie](../Page/黎美言.md "wikilink")（黎美言）就偏重跟時裝有關的工作，而[Regen](../Page/張惠雅.md "wikilink")（張惠雅）主力拍劇。\[3\]
+
+2018年，HotCha成立11周年，宣布將合體舉辦十周年慈善演唱會。3位成員於演唱會前接受訪問時表示過去真的經常嗌交、冷戰和互不瞅睬，甚至拆夥後鮮有聯絡，但現在成員間都懂得互相欣賞，友情和默契仍在\[4\]。
 
 ## 歌唱事業
 

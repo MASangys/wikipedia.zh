@@ -209,7 +209,7 @@ iOS在硬件和軟件的方面都使用了許多安全功能。以下是顯著�
 
 ### 安全區域
 
-安全區域是iOS裝置中包含著[Touch ID及](https://zh.wikipedia.org/wiki/Touch_ID "wikilink")[Face ID的](https://zh.wikipedia.org/wiki/Face_ID "wikilink")[輔助處理器](../Page/輔助處理器.md "wikilink")，它有其安全啟動過程以確保它是完全安全的。[隨機數生成器的硬件還包括這輔助處理器的一部分](https://zh.wikipedia.org/wiki/隨機數生成 "wikilink")。每個裝置的安全區域在製造時都有唯一的身分，並且無法更改。此標識用於創建臨時密鑰，用於為系統中該部分的內存[加密](https://zh.wikipedia.org/wiki/加密 "wikilink")。安全區域還包含一個反重播計數器（anti-replay counter）以防止被進行[暴力破解法](https://zh.wikipedia.org/wiki/暴力破解法 "wikilink")\[182\]。
+安全區域是iOS裝置中包含著[Touch ID及](https://zh.wikipedia.org/wiki/Touch_ID "wikilink")[Face ID的](https://zh.wikipedia.org/wiki/Face_ID "wikilink")[輔助處理器](../Page/輔助處理器.md "wikilink")，它有其安全啟動過程以確保它是完全安全的。[隨機數生成器的硬件還包括這輔助處理器的一部分](https://zh.wikipedia.org/wiki/隨機數生成 "wikilink")。每個裝置的安全區域在製造時都有唯一的身分，並且無法更改。此標識用於創建臨時密鑰，用於為系統中該部分的內存[加密](../Page/加密.md "wikilink")。安全區域還包含一個反重播計數器（anti-replay counter）以防止被進行[暴力破解法](https://zh.wikipedia.org/wiki/暴力破解法 "wikilink")\[182\]。
 
 ### 密碼
 

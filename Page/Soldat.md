@@ -81,7 +81,7 @@
       - （4）[Steyr AUG](../Page/斯泰爾AUG突擊步槍.md "wikilink") [奥地利](https://zh.wikipedia.org/wiki/奥地利 "wikilink")[陆军](../Page/陆军.md "wikilink")通用[犢牛式](../Page/犢牛式_\(槍械\).md "wikilink")（Bullpup）[突击步枪](../Page/突击步枪.md "wikilink")
       - （5）[Spas-12](../Page/弗蘭基SPAS-12戰鬥霰彈槍.md "wikilink") [意大利](../Page/意大利.md "wikilink")製[戰鬥](https://zh.wikipedia.org/wiki/戰鬥霰彈槍 "wikilink")[霰彈槍](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")
       - （6）[Ruger-77](../Page/儒格M77步槍.md "wikilink") [美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[儒格公司製](https://zh.wikipedia.org/wiki/儒格-斯特姆 "wikilink")[手動步槍](../Page/手動槍機.md "wikilink")
-      - （7）[M79](../Page/M79榴彈發射器.md "wikilink") [美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[春田兵工廠製](https://zh.wikipedia.org/wiki/春田兵工廠 "wikilink")[榴彈發射器](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")
+      - （7）[M79](../Page/M79榴彈發射器.md "wikilink") [美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[春田兵工廠](../Page/春田兵工廠.md "wikilink")製[榴彈發射器](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")
       - （8）[Barrett M82A1](../Page/巴雷特M82狙擊步槍.md "wikilink") [美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[巴雷特製](../Page/巴雷特槍械公司.md "wikilink")[狙击步枪](https://zh.wikipedia.org/wiki/狙击步枪 "wikilink")（[反器材步槍](../Page/反器材步槍.md "wikilink")）
       - （9）[FN Minimi](../Page/FN_Minimi輕機槍.md "wikilink") [比利时](../Page/比利时.md "wikilink")[FN製](../Page/埃斯塔勒国营工厂.md "wikilink")[轻机枪](../Page/轻机枪.md "wikilink")（[M249班用機槍](../Page/M249班用自動武器.md "wikilink")）
       - （0）[XM214 Mini gun](../Page/XM214微型砲機槍.md "wikilink") [美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[-{zh-cn:通用电气; zh-tw:奇異; zh-hk:通用電氣;}-製](../Page/通用电气.md "wikilink")[加特林机枪](../Page/加特林机枪.md "wikilink")

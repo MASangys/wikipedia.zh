@@ -6,7 +6,7 @@
 
 ## 發光二極管背光技術種類
 
-發光二極管背光技術可分為直下式（direct back-lit或 full LED array back-lit）與側照式（edge LED back-lit）兩種，而當中直下式所使用的發光二極管有分為白光發光二極管與紅、綠、藍三色發光二極管兩種。
+發光二極管背光技術可分為直下式（direct back-lit或 full LED array back-lit, DLED）與側照式（edge LED back-lit, ELED）兩種，而當中直下式所使用的發光二極管有分為白光發光二極管與紅、綠、藍三色發光二極管兩種。
 
 ### 直下式發光二極管背光技術
 

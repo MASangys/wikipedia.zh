@@ -1995,7 +1995,7 @@
 <td style="text-align: center;"><p><a href="../Page/夥伴們.md" title="wikilink">夥伴們</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
-<td style="text-align: center;"><p><a href="../Page/金賢珠.md" title="wikilink">金賢珠</a>、<a href="../Page/李棟旭.md" title="wikilink">李棟旭</a>、<a href="../Page/崔哲浩.md" title="wikilink">崔哲浩</a>、<a href="https://zh.wikipedia.org/wiki/李荷妮" title="wikilink">李荷妮</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/金賢珠.md" title="wikilink">金賢珠</a>、<a href="../Page/李棟旭.md" title="wikilink">李棟旭</a>、<a href="../Page/崔哲浩.md" title="wikilink">崔哲浩</a>、<a href="../Page/李荷妮.md" title="wikilink">李荷妮</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/黃義慶.md" title="wikilink">黃義慶</a>、<a href="https://zh.wikipedia.org/wiki/金元碩" title="wikilink">金元碩</a></p></td>
 <td style="text-align: center;"><p>趙貞珠、劉美京</p></td>
 <td style="text-align: center;"></td>
@@ -2904,7 +2904,7 @@
 <tr class="odd">
 <td style="text-align: center;"><p>2019年9月11日－<br />
 2019年9月12日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/生日信" title="wikilink">生日信</a><br />
+<td style="text-align: center;"><p><a href="../Page/生日信.md" title="wikilink">生日信</a><br />
 </p></td>
 <td style="text-align: center;"><p>2</p></td>
 <td style="text-align: center;"><p><a href="../Page/全昭旻.md" title="wikilink">全昭旻</a></p></td>

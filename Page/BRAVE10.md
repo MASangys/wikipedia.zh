@@ -647,6 +647,6 @@
 
 ## 外部連結
 
-  - [BRAVE10動畫官方網站](http://brave10.com)
+  - [BRAVE10動畫官方網站](https://web.archive.org/web/20130807231905/http://www.brave10.com/)
 
 [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:真田十勇士題材作品](https://zh.wikipedia.org/wiki/Category:真田十勇士題材作品 "wikilink") [Category:2012年UHF動畫](https://zh.wikipedia.org/wiki/Category:2012年UHF動畫 "wikilink")

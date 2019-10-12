@@ -1323,7 +1323,7 @@
 </p></td>
 <td style="text-align: center;"><p>20</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/朴信惠" title="wikilink">朴信惠</a>、<a href="https://zh.wikipedia.org/wiki/金來沅" title="wikilink">金來沅</a>、<a href="../Page/尹鈞相.md" title="wikilink">尹鈞相</a>、<a href="../Page/李聖經.md" title="wikilink">李聖經</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/吳忠煥" title="wikilink">吳忠煥</a>、<a href="https://zh.wikipedia.org/wiki/朴秀真_(導演)" title="wikilink">朴秀真</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/吳忠煥.md" title="wikilink">吳忠煥</a>、<a href="https://zh.wikipedia.org/wiki/朴秀真_(導演)" title="wikilink">朴秀真</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/河明熙" title="wikilink">河明熙</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -1475,7 +1475,7 @@
 <tr class="odd">
 <td style="text-align: center;"><p>2018年2月20日－<br />
 2018年4月24日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/能先接吻嗎？" title="wikilink">能先接吻嗎？</a><br />
+<td style="text-align: center;"><p><a href="../Page/要先接吻嗎？.md" title="wikilink">要先接吻嗎？</a><br />
 </p></td>
 <td style="text-align: center;"><p>40</p></td>
 <td style="text-align: center;"><p><a href="../Page/甘宇成.md" title="wikilink">甘宇成</a>、<a href="../Page/金宣兒.md" title="wikilink">金宣兒</a>、<a href="../Page/吳智昊.md" title="wikilink">吳智昊</a>、<a href="../Page/朴時妍.md" title="wikilink">朴時妍</a></p></td>
@@ -1622,7 +1622,7 @@
 <tr class="odd">
 <td style="text-align: center;"><p>2019年10月28日－<br />
 2019年12月17日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/VIP_(韓國電視劇)" title="wikilink">VIP</a><br />
+<td style="text-align: center;"><p><a href="../Page/VIP_(韓國電視劇).md" title="wikilink">VIP</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/張娜拉.md" title="wikilink">張娜拉</a>、<a href="../Page/李相侖.md" title="wikilink">李相侖</a>、<a href="../Page/李清娥.md" title="wikilink">李清娥</a></p></td>

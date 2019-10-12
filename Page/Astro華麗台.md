@@ -714,9 +714,10 @@ Astro華麗台自2004年起的每一年都會舉辦《[Astro華麗台電視劇�
 
 ## 外部連結
 
-  - [Astro Xuan Fun視一下 - Astro華麗-{台}-](http://www.xuan.com.my/channels/wlt/)
-  - [英文官方網站 - Astro華麗-{台}-](http://whatson.astro.com.my/channels/astro-wah-lai-toi-hd/129/?cat=&lang=&stb=310)
-  - [Facebook - Astro華麗-{台}-](http://www.facebook.com/WahLaiToi)
+  -
+  - [Astro華麗台的官方節目表](https://whatson.astro.com.my/channels/astro-wah-lai-toi-hd/129/?cat=variety-entertainment&lang=chinese&stb=310)（英語）
+
+  - [Astro華麗台的官方網站](http://www.xuan.com.my/channels/wlt/)（已停止更新）
 
 [Category:Astro](https://zh.wikipedia.org/wiki/Category:Astro "wikilink") [Category:電視廣播有限公司電視頻道](https://zh.wikipedia.org/wiki/Category:電視廣播有限公司電視頻道 "wikilink") [Category:馬來西亞電視台](https://zh.wikipedia.org/wiki/Category:馬來西亞電視台 "wikilink") [Category:粵語電視頻道](https://zh.wikipedia.org/wiki/Category:粵語電視頻道 "wikilink")
 

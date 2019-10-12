@@ -1,6 +1,6 @@
-**黑Girl** （英語：**Hey Girl**，前稱：**黑澀會美眉**），[台灣女子演唱組合](https://zh.wikipedia.org/wiki/台灣 "wikilink")，成立於2006年5月，初期成員都是由《[我愛黑澀會](../Page/我愛黑澀會.md "wikilink")》節目參加者中所選出。起初由九位成員組成，所以又叫「九妞妞」，曾是台灣演藝史上最多人的女子團體。出道時成員都只有15至22歲。第一代的成員包括：**「古典美眉」**[Apple](../Page/黃暐婷.md "wikilink")、**「性感美眉」**[大牙](../Page/周宜霈.md "wikilink")、**「日系美眉」**[MeiMei](../Page/郭婕祈.md "wikilink")、**「動感美眉」**[彤彤](../Page/蔡玓彤.md "wikilink")、**「嬌滴美眉」**[丫頭](../Page/詹子晴.md "wikilink")、**「氣質美眉」**[小薰](../Page/黃瀞怡.md "wikilink")、**「搞怪美眉」**[鬼鬼](https://zh.wikipedia.org/wiki/鬼鬼 "wikilink")、**「俏麗美眉」**[小蠻和](../Page/王承嫣.md "wikilink")**「搞笑美眉」**[小婕](../Page/張甯兒.md "wikilink")。此時期亦為**黑Girl**的黃金時期，跨足唱片、戲劇、節目主持及廣告代言各領域。
+**黑Girl** （英語：**Hey Girl**，前稱：**黑澀會美眉**），[台灣女子演唱組合](https://zh.wikipedia.org/wiki/台灣 "wikilink")，成立於2006年5月，初期成員都是由《[我愛黑澀會](../Page/我愛黑澀會.md "wikilink")》節目參加者中所選出。起初由九位成員組成，所以又叫「九妞妞」，曾是台灣演藝史上最多人的女子團體。出道時成員都只有15至22歲。第一代的成員包括：**「古典美眉」**[Apple](../Page/黃暐婷.md "wikilink")、**「性感美眉」**[大牙](../Page/周宜霈.md "wikilink")、**「日系美眉」**[MeiMei](../Page/郭婕祈.md "wikilink")、**「動感美眉」**[彤彤](../Page/蔡玓彤.md "wikilink")、**「嬌滴美眉」**[丫頭](../Page/詹子晴.md "wikilink")、**「氣質美眉」**[小薰](../Page/黃瀞怡.md "wikilink")、**「搞怪美眉」**[鬼鬼](https://zh.wikipedia.org/wiki/吳映潔 "wikilink")、**「俏麗美眉」**[小蠻和](../Page/王承嫣.md "wikilink")**「搞笑美眉」**[小婕](../Page/張甯兒.md "wikilink")。此時期亦為**黑Girl**的黃金時期，跨足唱片、戲劇、節目主持及廣告代言各領域。
 
-經歷多次成員變動後，於2010年重組第二代的**黑Girl**，包括初期成員丫頭、小薰，以及新成員括**「強勢美眉」**[勇兔和](../Page/林筳諭.md "wikilink")**「熱舞美眉」**[糖果](../Page/陳斯亞.md "wikilink")。允菲離開後，再加入**「活力美眉」**[子庭](../Page/張子庭.md "wikilink")（唯一不是《[我愛黑澀會](../Page/我愛黑澀會.md "wikilink")》節目參加者出身）。後來[糖果也退出了](../Page/陳斯亞.md "wikilink")，在2013年再以[Twinko](../Page/Twinko.md "wikilink")成員出道。
+經歷多次成員變動後，於2010年重組第二代的**黑Girl**，包括初期成員丫頭、小薰，以及新成員括**「強勢美眉」**[勇兔和](../Page/林筳諭.md "wikilink")**「熱舞美眉」**[糖果](../Page/陳斯亞.md "wikilink")。勇兔離開後，再加入**「活力美眉」**[子庭](../Page/張子庭.md "wikilink")（唯一不是《[我愛黑澀會](../Page/我愛黑澀會.md "wikilink")》節目參加者出身）。後來[糖果也退出了](../Page/陳斯亞.md "wikilink")，在2013年再以[Twinko](../Page/Twinko.md "wikilink")成員出道。
 
 然而，重組後的**黑Girl**自2012年完結EP宣傳後已鮮少合體演出，子庭大概在2013年11月也退出團體，3人亦分散在不同經理人公司，組合幾乎名存實亡，如今各成員在演藝圈不同領域各自發展。
 
@@ -20,7 +20,7 @@
 | [大牙](../Page/周宜霈.md "wikilink")                    |
 | [Apple](../Page/黃暐婷.md "wikilink")                 |
 | [MeiMei](../Page/郭婕祈.md "wikilink")                |
-| [貝童彤](../Page/蔡玓彤.md "wikilink")                   |
+| [彤彤](../Page/蔡玓彤.md "wikilink")                    |
 | [丫頭](../Page/詹子晴.md "wikilink")                    |
 | [小薰](../Page/黃瀞怡.md "wikilink")                    |
 | [鬼鬼](https://zh.wikipedia.org/wiki/吳映潔 "wikilink") |
@@ -64,7 +64,7 @@
 
 ### 重新出發（2008年）
 
-2008年4月，**黑澀會美眉**與[福茂唱片](../Page/福茂唱片.md "wikilink")的合約期滿，轉到[華納音樂旗下](../Page/華納音樂_\(台灣\).md "wikilink")，並改名為**黑Girl**。同年8月29日，[華納音樂發行](../Page/華納音樂_\(台灣\).md "wikilink")**黑Girl**第一張專輯《[黑Girl首張同名專輯](../Page/黑Girl首張同名專輯.md "wikilink")》，這張專輯是成員[鬼鬼](https://zh.wikipedia.org/wiki/吳映潔 "wikilink")、[大牙](../Page/周宜霈.md "wikilink")、[MeiMei](../Page/郭婕祈.md "wikilink")、[Apple和](../Page/黃暐婷.md "wikilink")[甯兒在團的最後一張唱片](../Page/張甯兒.md "wikilink")。**八妞妞**風格漸趨成熟，強調從美眉轉變成「姊姊」，並開始打入中國大陸市場。而成員亦慢慢開始個人活動，先後拍戲和主持節目。
+2008年4月，**黑澀會美眉**與[福茂唱片](../Page/福茂唱片.md "wikilink")的合約期滿，轉到[華納音樂旗下](../Page/華納音樂_\(台灣\).md "wikilink")，並改名為**黑Girl**。同年8月29日，[華納音樂發行](../Page/華納音樂_\(台灣\).md "wikilink")**黑Girl**第一張專輯《[黑Girl首張同名專輯](../Page/黑Girl首張同名專輯.md "wikilink")》，這張專輯是成員[鬼鬼](https://zh.wikipedia.org/wiki/吳映潔 "wikilink")、[大牙](../Page/周宜霈.md "wikilink")、[MeiMei](../Page/郭婕祈.md "wikilink")、[Apple和](../Page/黃暐婷.md "wikilink")[小婕在團的最後一張唱片](../Page/張甯兒.md "wikilink")。**八妞妞**風格漸趨成熟，強調從美眉轉變成「姊姊」，並開始打入中國大陸市場。而成員亦慢慢開始個人活動，先後拍戲和主持節目。
 
 ### 停滯期（2009年～2011年年中）
 
@@ -72,7 +72,7 @@
 
 其間，明報、生活文化出版發行**黑Girl**的自傳《[Hey Girl Friend](https://zh.wikipedia.org/wiki/Hey_Girl_Friend "wikilink")》。經歷[小蠻暫停在](../Page/王承嫣.md "wikilink")**黑Girl**的活動和[鬼鬼離隊](https://zh.wikipedia.org/wiki/吳映潔 "wikilink")，**黑Girl**以6人姿態活動（**六妞妞**）。2009年下半年，**黑Girl**與[華納唱片的合約期滿](https://zh.wikipedia.org/wiki/華納唱片_\(台灣\) "wikilink")。
 
-2010年，[大牙](../Page/周宜霈.md "wikilink")、[MeiMei](../Page/郭婕祈.md "wikilink")、[Apple和](../Page/黃暐婷.md "wikilink")[甯兒相繼約滿加盟由經理人](../Page/張甯兒.md "wikilink")[Andy的新經紀公司](../Page/張世明.md "wikilink")[傳奇星娛樂](../Page/傳奇星娛樂.md "wikilink")，脫離**黑Girl**。[小蠻於](../Page/王承嫣.md "wikilink")3月17日最後一次為《[我愛黑澀棒棒堂](../Page/我愛黑澀棒棒堂.md "wikilink")》節目演出，並宣佈已經加盟[伊林娛樂](https://zh.wikipedia.org/wiki/伊林模特兒經紀公司 "wikilink")，正式脫離**黑Girl**，作個人單飛發展，未來將朝向全方位的模特兒工作努力，站上伸展台。\[5\]原有成員因合約屆滿時產生不少問題，組合的事業在2010年完全停頓。及後，本身為節目《[我愛黑澀棒棒堂](../Page/我愛黑澀棒棒堂.md "wikilink")》的固定班底的[勇兔及](../Page/林筳諭.md "wikilink")[糖果代替離團的成員加入](../Page/陳斯亞.md "wikilink")**黑Girl**。**黑Girl**因此變成4人組合（簡稱**四妞妞**），舊成員只剩下[丫頭和](../Page/詹子晴.md "wikilink")[小薰](../Page/黃瀞怡.md "wikilink")。然而同年9月16日的[南昌活動中](https://zh.wikipedia.org/wiki/南昌 "wikilink")，[勇兔並沒出現表演](../Page/林筳諭.md "wikilink")，而換上了新成員[子庭](../Page/張子庭.md "wikilink")。後來，[丫頭證實](../Page/詹子晴.md "wikilink")[勇兔已退出](../Page/林筳諭.md "wikilink")**黑Girl**，[子庭為](../Page/張子庭.md "wikilink")**黑Girl**的新成員。\[6\][勇兔在團只有短短](../Page/林筳諭.md "wikilink")4個月就離開。
+2010年，[大牙](../Page/周宜霈.md "wikilink")、[MeiMei](../Page/郭婕祈.md "wikilink")、[Apple和](../Page/黃暐婷.md "wikilink")[小婕相繼約滿加盟由經理人](../Page/張甯兒.md "wikilink")[Andy的新經紀公司](../Page/張世明.md "wikilink")[傳奇星娛樂](../Page/傳奇星娛樂.md "wikilink")，脫離**黑Girl**。[小蠻於](../Page/王承嫣.md "wikilink")3月17日最後一次為《[我愛黑澀棒棒堂](../Page/我愛黑澀棒棒堂.md "wikilink")》節目演出，並宣佈已經加盟[伊林娛樂](https://zh.wikipedia.org/wiki/伊林模特兒經紀公司 "wikilink")，正式脫離**黑Girl**，作個人單飛發展，未來將朝向全方位的模特兒工作努力，站上伸展台。\[5\]原有成員因合約屆滿時產生不少問題，組合的事業在2010年完全停頓。及後，本身為節目《[我愛黑澀棒棒堂](../Page/我愛黑澀棒棒堂.md "wikilink")》的固定班底的[勇兔及](../Page/林筳諭.md "wikilink")[糖果代替離團的成員加入](../Page/陳斯亞.md "wikilink")**黑Girl**。**黑Girl**因此變成4人組合（簡稱**四妞妞**），舊成員只剩下[丫頭和](../Page/詹子晴.md "wikilink")[小薰](../Page/黃瀞怡.md "wikilink")。然而同年9月16日的[南昌活動中](https://zh.wikipedia.org/wiki/南昌 "wikilink")，[勇兔並沒出現表演](../Page/林筳諭.md "wikilink")，而換上了新成員[子庭](../Page/張子庭.md "wikilink")。後來，[丫頭證實](../Page/詹子晴.md "wikilink")[勇兔已退出](../Page/林筳諭.md "wikilink")**黑Girl**，[子庭為](../Page/張子庭.md "wikilink")**黑Girl**的新成員。\[6\][勇兔在團只有短短](../Page/林筳諭.md "wikilink")4個月就離開。
 
 2011年4月10日，[糖果在微博的簡介更新為](../Page/陳斯亞.md "wikilink")「無經紀約」，她也沒有出席**黑Girl**在4月15日前往大陸的活動，表示她已退出**黑Girl**，離團初時以錄影綜藝節目為主，後於2013年跟[星潼](../Page/林星潼.md "wikilink")、[可青](https://zh.wikipedia.org/wiki/曾可青 "wikilink")、[凱希](../Page/徐凱希.md "wikilink")、[篠崎組成](../Page/篠崎泫.md "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")[Twinko](../Page/Twinko.md "wikilink")。
 
@@ -109,7 +109,7 @@
 <td><p><a href="../Page/Channel_V.md" title="wikilink">Channel V</a></p></td>
 <td><p>《<a href="../Page/我愛黑澀會.md" title="wikilink">我愛黑澀會</a>》</p></td>
 <td><p>美眉/助教</p></td>
-<td><p>九妞妞、勇兔、斯亞</p></td>
+<td><p>九妞妞、勇兔、糖果</p></td>
 </tr>
 <tr class="even">
 <td><p>2006年至2008年</p></td>
@@ -168,7 +168,7 @@
 2011年2月3日</p></td>
 <td><p>《<a href="../Page/我愛黑澀棒棒堂.md" title="wikilink">我愛黑澀棒棒堂</a>》</p></td>
 <td><p>美眉</p></td>
-<td><p>六妞妞、小蠻、勇兔、斯亞</p></td>
+<td><p>六妞妞、小蠻、勇兔、糖果</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -214,36 +214,36 @@
 
 #### 廣告代言
 
-|                        |                                                                                                                                                                                           |                                                                                                                                                           |
-| ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 代言年份                   | 代言產品                                                                                                                                                                                      | 參與成員                                                                                                                                                      |
-| 2006年                  | 新蜀山劍俠Online                                                                                                                                                                               | 九妞妞                                                                                                                                                       |
-| Edwin牛仔褲               |                                                                                                                                                                                           |                                                                                                                                                           |
-| 2007年                  | 爭鮮回転壽司                                                                                                                                                                                    |                                                                                                                                                           |
-| Le tea cherry微發泡蘇打櫻桃口味 |                                                                                                                                                                                           |                                                                                                                                                           |
-| 美眉星光保濕凝膠               |                                                                                                                                                                                           |                                                                                                                                                           |
-| KnightsBridge 服裝品牌     |                                                                                                                                                                                           |                                                                                                                                                           |
-| Yuskin護手霜              | [大牙](../Page/周宜霈.md "wikilink")、[丫頭](../Page/詹子晴.md "wikilink")、[MeiMei](../Page/郭婕祈.md "wikilink")、[小薰](../Page/黃瀞怡.md "wikilink")、[甯兒](../Page/張甯兒.md "wikilink")                       |                                                                                                                                                           |
-| 台灣森永製菓Hi-Chew「嗨啾」軟糖    | [GEMMA](https://zh.wikipedia.org/wiki/吳映潔 "wikilink")、[丫頭](../Page/詹子晴.md "wikilink")、[MeiMei](../Page/郭婕祈.md "wikilink")、[小薰](../Page/黃瀞怡.md "wikilink")                                 |                                                                                                                                                           |
-| 潘朵拉的甜蜜衣櫥               | [GEMMA](https://zh.wikipedia.org/wiki/吳映潔 "wikilink")、[大牙](../Page/周宜霈.md "wikilink")、[MeiMei](../Page/郭婕祈.md "wikilink")、[小薰](../Page/黃瀞怡.md "wikilink")                                 |                                                                                                                                                           |
-| 卡打車身體補給水               | [GEMMA](https://zh.wikipedia.org/wiki/吳映潔 "wikilink")                                                                                                                                     |                                                                                                                                                           |
-| 愛之味覆盆子飲料               |                                                                                                                                                                                           |                                                                                                                                                           |
-| Epson 相片列表機            |                                                                                                                                                                                           |                                                                                                                                                           |
-| 2008年                  | 潘朵拉的甜蜜衣櫥                                                                                                                                                                                  | [GEMMA](https://zh.wikipedia.org/wiki/吳映潔 "wikilink")、[大牙](../Page/周宜霈.md "wikilink")、[MeiMei](../Page/郭婕祈.md "wikilink")、[小薰](../Page/黃瀞怡.md "wikilink") |
-| 爭鮮回転壽司                 | 八妞妞                                                                                                                                                                                       |                                                                                                                                                           |
-| 美眉星光美白面膜               |                                                                                                                                                                                           |                                                                                                                                                           |
-| KnightsBridge 服裝品牌     |                                                                                                                                                                                           |                                                                                                                                                           |
-| 奪寶王Online              |                                                                                                                                                                                           |                                                                                                                                                           |
-| 康師傅鮮之每日C               | [GEMMA](https://zh.wikipedia.org/wiki/吳映潔 "wikilink")、[丫頭](../Page/詹子晴.md "wikilink")、[MeiMei](../Page/郭婕祈.md "wikilink")、[小薰](../Page/黃瀞怡.md "wikilink")、[甯兒](../Page/張甯兒.md "wikilink") |                                                                                                                                                           |
-| 2009年                  |                                                                                                                                                                                           |                                                                                                                                                           |
-| KnightsBridge 服裝品牌     | 六妞妞                                                                                                                                                                                       |                                                                                                                                                           |
-| FIFA Online 足球寶貝       |                                                                                                                                                                                           |                                                                                                                                                           |
-| 芬達凍感10下                |                                                                                                                                                                                           |                                                                                                                                                           |
-| SKIN79化妝品              | [小薰](../Page/黃瀞怡.md "wikilink")                                                                                                                                                           |                                                                                                                                                           |
-| 2010年                  | KnightsBridge 服裝品牌                                                                                                                                                                        | 四妞妞、四小妞                                                                                                                                                   |
-| 2011年                  | 黑Girl（四小妞、三小妞）                                                                                                                                                                            |                                                                                                                                                           |
-| 2012年                  | 三小妞                                                                                                                                                                                       |                                                                                                                                                           |
-| 聖境傳說                   |                                                                                                                                                                                           |                                                                                                                                                           |
+|                        |                                                                                                                                                                                        |                                                                                                                                                        |
+| ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 代言年份                   | 代言產品                                                                                                                                                                                   | 參與成員                                                                                                                                                   |
+| 2006年                  | 新蜀山劍俠Online                                                                                                                                                                            | 九妞妞                                                                                                                                                    |
+| Edwin牛仔褲               |                                                                                                                                                                                        |                                                                                                                                                        |
+| 2007年                  | 爭鮮回転壽司                                                                                                                                                                                 |                                                                                                                                                        |
+| Le tea cherry微發泡蘇打櫻桃口味 |                                                                                                                                                                                        |                                                                                                                                                        |
+| 美眉星光保濕凝膠               |                                                                                                                                                                                        |                                                                                                                                                        |
+| KnightsBridge 服裝品牌     |                                                                                                                                                                                        |                                                                                                                                                        |
+| Yuskin護手霜              | [大牙](../Page/周宜霈.md "wikilink")、[丫頭](../Page/詹子晴.md "wikilink")、[MeiMei](../Page/郭婕祈.md "wikilink")、[小薰](../Page/黃瀞怡.md "wikilink")、[小婕](../Page/張甯兒.md "wikilink")                    |                                                                                                                                                        |
+| 台灣森永製菓Hi-Chew「嗨啾」軟糖    | [鬼鬼](https://zh.wikipedia.org/wiki/吳映潔 "wikilink")、[丫頭](../Page/詹子晴.md "wikilink")、[MeiMei](../Page/郭婕祈.md "wikilink")、[小薰](../Page/黃瀞怡.md "wikilink")                                 |                                                                                                                                                        |
+| 潘朵拉的甜蜜衣櫥               | [鬼鬼](https://zh.wikipedia.org/wiki/吳映潔 "wikilink")、[大牙](../Page/周宜霈.md "wikilink")、[MeiMei](../Page/郭婕祈.md "wikilink")、[小薰](../Page/黃瀞怡.md "wikilink")                                 |                                                                                                                                                        |
+| 卡打車身體補給水               | [鬼鬼](https://zh.wikipedia.org/wiki/吳映潔 "wikilink")                                                                                                                                     |                                                                                                                                                        |
+| 愛之味覆盆子飲料               |                                                                                                                                                                                        |                                                                                                                                                        |
+| Epson 相片列表機            |                                                                                                                                                                                        |                                                                                                                                                        |
+| 2008年                  | 潘朵拉的甜蜜衣櫥                                                                                                                                                                               | [鬼鬼](https://zh.wikipedia.org/wiki/吳映潔 "wikilink")、[大牙](../Page/周宜霈.md "wikilink")、[MeiMei](../Page/郭婕祈.md "wikilink")、[小薰](../Page/黃瀞怡.md "wikilink") |
+| 爭鮮回転壽司                 | 八妞妞                                                                                                                                                                                    |                                                                                                                                                        |
+| 美眉星光美白面膜               |                                                                                                                                                                                        |                                                                                                                                                        |
+| KnightsBridge 服裝品牌     |                                                                                                                                                                                        |                                                                                                                                                        |
+| 奪寶王Online              |                                                                                                                                                                                        |                                                                                                                                                        |
+| 康師傅鮮之每日C               | [鬼鬼](https://zh.wikipedia.org/wiki/吳映潔 "wikilink")、[丫頭](../Page/詹子晴.md "wikilink")、[MeiMei](../Page/郭婕祈.md "wikilink")、[小薰](../Page/黃瀞怡.md "wikilink")、[小婕](../Page/張甯兒.md "wikilink") |                                                                                                                                                        |
+| 2009年                  |                                                                                                                                                                                        |                                                                                                                                                        |
+| KnightsBridge 服裝品牌     | 六妞妞                                                                                                                                                                                    |                                                                                                                                                        |
+| FIFA Online 足球寶貝       |                                                                                                                                                                                        |                                                                                                                                                        |
+| 芬達凍感10下                |                                                                                                                                                                                        |                                                                                                                                                        |
+| SKIN79化妝品              | [小薰](../Page/黃瀞怡.md "wikilink")                                                                                                                                                        |                                                                                                                                                        |
+| 2010年                  | KnightsBridge 服裝品牌                                                                                                                                                                     | 四妞妞、四小妞                                                                                                                                                |
+| 2011年                  | 黑Girl（四小妞、三小妞）                                                                                                                                                                         |                                                                                                                                                        |
+| 2012年                  | 三小妞                                                                                                                                                                                    |                                                                                                                                                        |
+| 聖境傳說                   |                                                                                                                                                                                        |                                                                                                                                                        |
 
 #### 活動代言
 
@@ -275,7 +275,7 @@
 <li>發行日期：2008年8月29日</li>
 <li>唱片公司：<a href="https://zh.wikipedia.org/wiki/華納唱片_(台灣)" title="wikilink">華納唱片 (台灣)</a></li>
 <li>參與成員：黑Girl－八妞妞</li>
-<li><a href="../Page/蔡玓彤.md" title="wikilink">貝童彤退出</a>，以八人姿態回歸，並改團名</li>
+<li><a href="../Page/蔡玓彤.md" title="wikilink">彤彤退出</a>，以八人姿態回歸，並改團名</li>
 </ul></td>
 <td></td>
 </tr>
@@ -320,7 +320,7 @@
 <li>發行日期：2006年12月15日</li>
 <li>唱片公司：福茂唱片</li>
 <li>參與成員：黑澀會美眉－粉紅高壓電<br />
-（大牙、Apple、丫頭、GEMMA、小蠻）</li>
+（大牙、Apple、丫頭、鬼鬼、小蠻）</li>
 </ul></td>
 <td></td>
 </tr>
@@ -335,7 +335,7 @@
 <li>發行日期：2006年12月15日</li>
 <li>唱片公司：福茂唱片</li>
 <li>參與成員：黑澀會美眉－甜心轟炸機<br />
-（MeiMei、貝童彤、小薰、甯兒）</li>
+（MeiMei、彤彤、小薰、小婕）</li>
 </ul></td>
 <td></td>
 <td></td>
@@ -352,7 +352,7 @@
 <li>發行日期：2007年6月7日</li>
 <li>唱片公司：福茂唱片</li>
 <li>參與成員：黑澀會美眉－九妞妞</li>
-<li>這張EP為成員<a href="../Page/蔡玓彤.md" title="wikilink">貝童彤在團時出最後一張唱片</a><br />
+<li>這張EP為成員<a href="../Page/蔡玓彤.md" title="wikilink">彤彤在團時出最後一張唱片</a><br />
 （<a href="https://zh.wikipedia.org/wiki/黑糖瑪奇朵#黑糖瑪奇朵偶像劇原聲帶" title="wikilink">黑糖瑪奇朵偶像劇原聲帶不計算</a>）</li>
 </ul></td>
 <td></td>
@@ -479,8 +479,8 @@
   - 2008年7月2日，翻滾吧！蛋炒飯【雙廚講堂】 我們要為你做做飯（小薰）（台視文化出版發行）
   - 2008年10月，[黑糖群俠傳電視小說](https://zh.wikipedia.org/wiki/黑糖群俠傳 "wikilink")（小薰、丫頭、小蠻、MeiMei）
   - 2008年10月，黑糖群俠傳寫真秘笈（小薰、丫頭、小蠻、MeiMei）
-  - 2008年11月21日，[霹靂MIT電視小說](https://zh.wikipedia.org/wiki/霹靂MIT#週邊商品 "wikilink") （GEMMA）
-  - 2008年12月30日，霹靂MIT霹靂寫真紀實（GEMMA）
+  - 2008年11月21日，[霹靂MIT電視小說](https://zh.wikipedia.org/wiki/霹靂MIT#週邊商品 "wikilink") （鬼鬼）
+  - 2008年12月30日，霹靂MIT霹靂寫真紀實（鬼鬼）
   - 2009年7月22日 ，《Hey Girl Friend》（内地版名称：黑Girl的秘密）（六妞妞）（明報、生活文化出版發行）
   - 2011年，[美樂。加油電視寫真書](https://zh.wikipedia.org/wiki/美樂。加油#週邊商品 "wikilink")（小薰）
 
@@ -517,7 +517,7 @@
 <td><p>2006年6月26日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/公視" title="wikilink">公視</a></p></td>
 <td><p>《<a href="../Page/危險心靈_(電視劇).md" title="wikilink">危險心靈</a>》</p></td>
-<td><p>甯兒─張筱婕</p></td>
+<td><p>小婕─張筱婕</p></td>
 <td><p><a href="../Page/溫昇豪.md" title="wikilink">溫昇豪</a>、<a href="../Page/張書豪.md" title="wikilink">張書豪</a></p></td>
 <td><p>客串</p></td>
 </tr>
@@ -590,8 +590,8 @@ Apple─Apple<br />
 丫頭─陸見寧<br />
 小蠻─小聾女<br />
 MeiMei─聖女護法<br />
-甯兒─邪女護法<br />
-GEMMA、Apple、大牙─邪教護法<br />
+小婕─邪女護法<br />
+鬼鬼、Apple、大牙─邪教護法<br />
 勇兔─霜兒</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Lollipop棒棒堂" title="wikilink">Lollipop棒棒堂</a>、<a href="../Page/簡翔棋.md" title="wikilink">小馬</a>、<a href="../Page/翁瑞迪.md" title="wikilink">阿本</a></p></td>
 <td><p>女主角：小薰、丫頭、小蠻<br />
@@ -602,7 +602,7 @@ GEMMA、Apple、大牙─邪教護法<br />
 <td><p>2008年11月7日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/民視" title="wikilink">民視</a>、<a href="https://zh.wikipedia.org/wiki/八大" title="wikilink">八大</a></p></td>
 <td><p>《<a href="../Page/霹靂MIT.md" title="wikilink">霹靂MIT</a>》</p></td>
-<td><p>GEMMA─李曉星<br />
+<td><p>鬼鬼─李曉星<br />
 (ID:天魔星)</p></td>
 <td><p><a href="../Page/炎亞綸.md" title="wikilink">炎亞綸</a>、<a href="../Page/范瑋琪.md" title="wikilink">范瑋琪</a>、<a href="https://zh.wikipedia.org/wiki/黃鴻升" title="wikilink">小鬼</a>、<a href="../Page/陸廷威.md" title="wikilink">陸廷威</a>、<a href="https://zh.wikipedia.org/wiki/田麗" title="wikilink">田麗</a>、<a href="https://zh.wikipedia.org/wiki/張善傑" title="wikilink">張善傑</a></p></td>
 <td><p>女主角</p></td>
@@ -628,7 +628,7 @@ MeiMei─千面殺手</p></td>
 <tr class="even">
 <td><p>2011年3月13日</p></td>
 <td><p>《<strong>33故事館</strong>之【相戀無罪】》</p></td>
-<td><p>斯亞─糖糖</p></td>
+<td><p>糖果─糖糖</p></td>
 <td><p><a href="../Page/丁春誠.md" title="wikilink">丁春誠</a>、<a href="../Page/沈建宏.md" title="wikilink">沈建宏</a>、<a href="https://zh.wikipedia.org/wiki/Zero+" title="wikilink">愛瑪Emma</a>、<a href="https://zh.wikipedia.org/wiki/小炳" title="wikilink">小炳</a></p></td>
 <td><p>單元女主角</p></td>
 <td></td>
@@ -686,7 +686,7 @@ MeiMei─千面殺手</p></td>
 <td><p>2013年6月6日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/華視" title="wikilink">華視</a></p></td>
 <td><p>《<a href="../Page/莒光園地.md" title="wikilink">莒光園地</a> 法制單元劇「心念」》</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/小薰" title="wikilink">小薰</a>─佳佳<br />
+<td><p>小薰─佳佳<br />
 Amy</p></td>
 <td></td>
 <td><p>單元女主角</p></td>
@@ -765,8 +765,8 @@ Amy</p></td>
 <td><p>2012年6月5日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/寶島雙雄" title="wikilink">寶島雙雄</a></p></td>
 <td><p>小薰─女保安<br />
-丫頭─纪念品售货员<br />
-子庭─槟榔西施</p></td>
+丫頭─紀念品售貨員<br />
+子庭─檳榔西施</p></td>
 <td><p><a href="../Page/房祖名.md" title="wikilink">房祖名</a>、<a href="https://zh.wikipedia.org/wiki/夏雨" title="wikilink">夏雨</a>、<a href="../Page/陳漢典.md" title="wikilink">陳漢典</a>、<a href="../Page/錦榮.md" title="wikilink">錦榮</a></p></td>
 <td><p>客串</p></td>
 </tr>
@@ -774,7 +774,7 @@ Amy</p></td>
 <td><p>2012年12月7日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/命運狗不理" title="wikilink">命運狗不理</a></p></td>
 <td><p>丫頭─護士大喬</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/王柏杰" title="wikilink">王柏杰</a>、<a href="https://zh.wikipedia.org/wiki/林若亚" title="wikilink">林若亚</a>、<a href="https://zh.wikipedia.org/wiki/林盈臻" title="wikilink">大元</a>、<a href="../Page/袁艾菲.md" title="wikilink">袁艾菲</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/王柏杰" title="wikilink">王柏杰</a>、<a href="../Page/林若亞.md" title="wikilink">林若亞</a>、<a href="https://zh.wikipedia.org/wiki/林盈臻" title="wikilink">大元</a>、<a href="../Page/袁艾菲.md" title="wikilink">袁艾菲</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -973,7 +973,7 @@ Amy</p></td>
 <td><center>
 <p>專屬密碼</p></td>
 <td><center>
-<p><a href="../Page/張甯兒.md" title="wikilink">甯兒</a></p></td>
+<p><a href="../Page/張甯兒.md" title="wikilink">小婕</a></p></td>
 <td><p><a href="../Page/黃義達.md" title="wikilink">黃義達</a>《專屬密碼》</p></td>
 </tr>
 <tr class="even">
@@ -997,7 +997,7 @@ Amy</p></td>
 <td><center>
 <p>慶祝</p></td>
 <td><center>
-<p><a href="../Page/張甯兒.md" title="wikilink">甯兒</a>、<a href="https://zh.wikipedia.org/wiki/王婧喬" title="wikilink">小蠻</a></p></td>
+<p><a href="../Page/張甯兒.md" title="wikilink">小婕</a>、<a href="../Page/王承嫣.md" title="wikilink">小蠻</a></p></td>
 <td><p><a href="../Page/楊丞琳.md" title="wikilink">楊丞琳</a>《遇上愛》</p></td>
 </tr>
 <tr class="odd">
@@ -1005,7 +1005,7 @@ Amy</p></td>
 <td><center>
 <p>男傭</p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/吳映潔" title="wikilink">GEMMA</a>、<a href="../Page/郭婕祈.md" title="wikilink">MeiMei</a>、<a href="../Page/詹子晴.md" title="wikilink">丫頭</a>、<a href="../Page/黃暐婷.md" title="wikilink">Apple</a>、<a href="../Page/蔡玓彤.md" title="wikilink">貝童彤</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/吳映潔" title="wikilink">鬼鬼</a>、<a href="../Page/郭婕祈.md" title="wikilink">MeiMei</a>、<a href="../Page/詹子晴.md" title="wikilink">丫頭</a>、<a href="../Page/黃暐婷.md" title="wikilink">Apple</a>、<a href="../Page/蔡玓彤.md" title="wikilink">彤彤</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/吳克群" title="wikilink">吳克群</a>《將軍令》</p></td>
 </tr>
 <tr class="even">
@@ -1021,7 +1021,7 @@ Amy</p></td>
 <td><center>
 <p>說說</p></td>
 <td><center>
-<p><a href="../Page/張甯兒.md" title="wikilink">甯兒</a></p></td>
+<p><a href="../Page/張甯兒.md" title="wikilink">小婕</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Lollipop棒棒堂" title="wikilink">Lollipop棒棒堂</a>《我是傳奇》</p></td>
 </tr>
 <tr class="even">

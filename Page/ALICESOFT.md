@@ -186,7 +186,7 @@ ALICESOFT於2003年提出自由散佈宣言，至今已經包括了28款遊戲�
 <li>2002年8月2日 <a href="../Page/超昂天使Escalayer.md" title="wikilink">超昂天使Escalayer</a></li>
 <li>2008年2月29日 <a href="https://zh.wikipedia.org/wiki/超昂閃忍遙" title="wikilink">超昂閃忍遙</a></li>
 <li>2014年7月25日 <a href="https://zh.wikipedia.org/wiki/超昂天使_Escalayer" title="wikilink">超昂天使 Escalayer R</a></li>
-<li>2017年7月28日 <a href="https://zh.wikipedia.org/wiki/超昂神騎愛克希爾" title="wikilink">超昂神騎愛克希爾</a></li>
+<li>2017年7月28日 <a href="../Page/超昂神騎愛克希爾.md" title="wikilink">超昂神騎愛克希爾</a></li>
 </ul></li>
 </ul>
 <ul>

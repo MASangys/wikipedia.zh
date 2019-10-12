@@ -1,4 +1,4 @@
-星河**COCO Park**，是中國大陸的大型购物[商场品牌](https://zh.wikipedia.org/wiki/商场 "wikilink")，由深圳市星河房地产经营有限公司創立，並由深圳市星河商用置业股份有限公司（）管理營運。目前在[深圳有](https://zh.wikipedia.org/wiki/深圳 "wikilink")3家分店。
+星河**COCO Park**，是中國大陸的大型购物[商场品牌](https://zh.wikipedia.org/wiki/商场 "wikilink")，由深圳市星河房地产经营有限公司創立，並由深圳市星河商用置业股份有限公司（）管理營運。目前在[深圳有](https://zh.wikipedia.org/wiki/深圳 "wikilink")3個商場、[南昌有一個商場](https://zh.wikipedia.org/wiki/南昌 "wikilink")，並將在[廣州](https://zh.wikipedia.org/wiki/廣州 "wikilink")[南沙區建造一個商場](https://zh.wikipedia.org/wiki/南沙區 "wikilink")。
 
 ## 福田店
 

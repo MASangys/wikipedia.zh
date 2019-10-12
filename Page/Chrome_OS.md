@@ -24,7 +24,7 @@ Chrome作業系統還包括一個整合型的檔案管理器，類似於其他�
 
 ### Chrome應用程式
 
-Google鼓勵開發人員不僅為Chrome OS構建傳統的Web應用程序，還為Chrome應用程序（以前稱為Packaged apps）構建。 從用戶的角度看，Chrome應用程序與常用本機應用程序類似：它們可以在Chrome瀏覽器之外啟動，默認情況下處於離線狀態，可以管理多個視窗，並與其他應用程序交互。 所使用的技術包括HTML5， JavaScript和CSS \[19\]\[20\]\[21\]。
+Google鼓勵開發人員不僅為Chrome OS構建傳統的Web應用程序，還為Chrome應用程序（以前稱為Packaged apps）構建。從用戶的角度看，Chrome應用程序與常用本機應用程序類似：它們可以在Chrome瀏覽器之外啟動，默認情況下處於離線狀態，可以管理多個視窗，並與其他應用程序交互。所使用的技術包括HTML5、JavaScript和CSS\[19\]\[20\]\[21\]。
 
 ### Android應用程式
 

@@ -1349,7 +1349,7 @@
 <td style="text-align: center;"><p><a href="../Page/鯊魚_(韓國電視劇).md" title="wikilink">鯊魚</a><br />
 </p></td>
 <td style="text-align: center;"><p>20</p></td>
-<td style="text-align: center;"><p><a href="../Page/金南佶.md" title="wikilink">金南佶</a>、<a href="../Page/孫藝真.md" title="wikilink">孫藝真</a>、<a href="../Page/河錫辰.md" title="wikilink">河錫辰</a>、<a href="https://zh.wikipedia.org/wiki/李荷妮" title="wikilink">李荷妮</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/金南佶.md" title="wikilink">金南佶</a>、<a href="../Page/孫藝真.md" title="wikilink">孫藝真</a>、<a href="../Page/河錫辰.md" title="wikilink">河錫辰</a>、<a href="../Page/李荷妮.md" title="wikilink">李荷妮</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/朴燦弘.md" title="wikilink">朴燦弘</a>、<a href="../Page/車榮勳.md" title="wikilink">車榮勳</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/金志宇.md" title="wikilink">金志宇</a></p></td>
 <td style="text-align: center;"></td>
@@ -1926,7 +1926,7 @@
 <td style="text-align: center;"><p>40</p></td>
 <td style="text-align: center;"><p><a href="../Page/朴新陽.md" title="wikilink">朴新陽</a>、<a href="../Page/高賢廷.md" title="wikilink">高賢廷</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/韓相佑.md" title="wikilink">韓相佑</a></p></td>
-<td style="text-align: center;"><p><a href="../Page/崔完圭.md" title="wikilink">崔完圭</a></p></td>
+<td style="text-align: center;"><p>金書妍、孫世東、李正必、金英燦、趙慧彬、魏基勳</p></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
@@ -1964,13 +1964,52 @@
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>2019年9月30日－<br />
-2019年11月19日</p></td>
+2019年11月26日</p></td>
 <td style="text-align: center;"><p><a href="../Page/朝鮮浪漫喜劇–綠豆傳.md" title="wikilink">朝鮮浪漫喜劇–綠豆傳</a><br />
 </p></td>
-<td style="text-align: center;"><p>40</p></td>
+<td style="text-align: center;"><p>36</p></td>
 <td style="text-align: center;"><p><a href="../Page/金所泫.md" title="wikilink">金所泫</a>、<a href="https://zh.wikipedia.org/wiki/張東尹" title="wikilink">張東尹</a>、<a href="../Page/姜泰伍.md" title="wikilink">姜泰伍</a></p></td>
 <td style="text-align: center;"><p>金東輝</p></td>
 <td style="text-align: center;"><p>林藝珍、白素妍</p></td>
+<td style="text-align: center;"></td>
+</tr>
+</tbody>
+</table>
+
+### 2020年
+
+<table style="width:343%;">
+<colgroup>
+<col style="width: 60%" />
+<col style="width: 17%" />
+<col style="width: 50%" />
+<col style="width: 24%" />
+<col style="width: 90%" />
+<col style="width: 90%" />
+<col style="width: 12%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: center;"><p>播放<br />
+日期</p></th>
+<th style="text-align: center;"><p>電視劇集名稱</p></th>
+<th style="text-align: center;"><p>集數</p></th>
+<th style="text-align: center;"><p>主演</p></th>
+<th style="text-align: center;"><p>導演</p></th>
+<th style="text-align: center;"><p>編劇</p></th>
+<th style="text-align: center;"><p>備註</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"><p>2020年3月2日－<br />
+2020年</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/快點來" title="wikilink">快點來</a><br />
+</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"><p><a href="../Page/金明洙.md" title="wikilink">金明洙</a>、<a href="../Page/辛睿恩.md" title="wikilink">辛睿恩</a></p></td>
+<td style="text-align: center;"><p>池秉賢</p></td>
+<td style="text-align: center;"><p>朱華美</p></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>

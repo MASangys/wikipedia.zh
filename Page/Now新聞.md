@@ -140,7 +140,7 @@ now香港台2008年12月12日啟播後至2016年3月18日，該台每日會播�
 （高級主播）</p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/胡瀞詩" title="wikilink">胡瀞詩</a><br />
+<td style="text-align: center;"><p><br />
 （主播）</p></td>
 </tr>
 <tr class="odd">

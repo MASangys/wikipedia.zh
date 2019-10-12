@@ -1209,6 +1209,8 @@ Yumi</p></td>
 
   - [BY2的官方Youtube播放清單](https://www.youtube.com/playlist?list=PLB27E983B2D5BC4C4)
 
+  - [BY2官方抖音短视频](https://v.douyin.com/uMM9fa/)
+
   -
   -
   -

@@ -37,7 +37,7 @@ P型、N型半导体由于分别含有较高浓度的“空穴”和自由电子
   - 自由电子由N型半导体向P型半导体的方向扩散
   - 空穴由P型半导体向N型半导体的方向扩散
 
-载流子经过扩散的过程后，扩散的自由电子和空穴相互结合，使得原有的N型半导体的自由电子浓度减少，同时原有P型半导体的空穴浓度也减少。在两种半导体中间位置形成一个由N型半导体指向P型半导体的电场，成为“内电场”。
+载流子经过扩散的过程后，扩散的自由电子和空穴相互结合，使得原有的N型半导体的自由电子浓度减少，同时原有P型半导体的空穴浓度也减少。在两种半导体中间位置形成一个由N型半导体指向P型半导体的电场，称为“内电场”。
 
 ## 制造工艺
 
@@ -50,9 +50,9 @@ P型、N型半导体由于分别含有较高浓度的“空穴”和自由电子
 
 ### 平衡状态（零偏置）
 
-PN结在没有外加电压情况下，跨结形成了[电势差导致了平衡状态](https://zh.wikipedia.org/wiki/电势差 "wikilink")。该电势差称为内在电势（built-in potential）\(V_{\rm bi}\)。
+PN结在没有外加电压情况下，跨结形成了[电势差导致了平衡状态](https://zh.wikipedia.org/wiki/电势差 "wikilink")。该电势差称为内建电势（built-in potential）\(V_{\rm bi}\)。
 
-PN结的n区的电子向p区[扩散](https://zh.wikipedia.org/wiki/扩散 "wikilink")，留下了正电荷在n区。类似地，p型空穴从p区向n区扩散，留下了负电荷在p区。进入了p区的电子与空穴复合，进入了n区的空穴与电子复合。经效果是扩散到对方的多数[载流子](../Page/载流子.md "wikilink")（自由电子与空穴）都耗尽了，结区只剩下不可移动的带电离子，失去了电中性变为带电，形成了[耗尽层](https://zh.wikipedia.org/wiki/耗尽层 "wikilink")（space charge region）（见[图A](https://zh.wikipedia.org/wiki/:Image:Pn-junction-equilibrium.png "wikilink")）。
+PN结的n区的电子向p区[扩散](https://zh.wikipedia.org/wiki/扩散 "wikilink")，留下了正电荷在n区。类似地，p型空穴从p区向n区扩散，留下了负电荷在p区。进入了p区的电子与空穴复合，进入了n区的空穴与电子复合。其效果是扩散到对方的多数[载流子](../Page/载流子.md "wikilink")（自由电子与空穴）都耗尽了，结区只剩下不可移动的带电离子，失去了电中性变为带电，形成了[耗尽层](https://zh.wikipedia.org/wiki/耗尽层 "wikilink")（space charge region）（见[图A](https://zh.wikipedia.org/wiki/:Image:Pn-junction-equilibrium.png "wikilink")）。
 
 [Pn-junction-equilibrium.png](https://zh.wikipedia.org/wiki/File:Pn-junction-equilibrium.png "fig:Pn-junction-equilibrium.png")
 

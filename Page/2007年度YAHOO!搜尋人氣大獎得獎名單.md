@@ -5,7 +5,7 @@
 ### 音樂獎項
 
   - Yahoo\!Music十大人氣歌曲2007
-      - 《心花怒放》 ──[容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")
+      - 《心花怒放》 ──[容祖兒](../Page/容祖兒.md "wikilink")
       - 《酷愛》 ──[張敬軒](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")
       - 《逼得太緊》 ──[吳雨霏](../Page/吳雨霏.md "wikilink")
       - 《電燈膽》 ──[鄧麗欣](../Page/鄧麗欣.md "wikilink")
@@ -46,7 +46,7 @@
   - 國際男歌手
       - [周杰倫](../Page/周杰倫.md "wikilink")
   - 本地女歌手
-      - [容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")
+      - [容祖兒](../Page/容祖兒.md "wikilink")
   - 國際女歌手
       - [楊丞琳](../Page/楊丞琳.md "wikilink")
   - 本地音樂男子組合

@@ -14,6 +14,73 @@
 
 ## 廠牌與所屬藝人
 
+### Being
+
+#### VERMILLION RECORDS
+
+  - [B'z](../Page/B'z.md "wikilink")
+      - [松本孝弘](../Page/松本孝弘.md "wikilink")
+      - [稻葉浩志](../Page/稻葉浩志.md "wikilink")
+
+#### NORTHERN MUSIC
+
+  - [倉木麻衣](../Page/倉木麻衣.md "wikilink")
+  - [滴草由实](../Page/滴草由实.md "wikilink")
+
+#### B-Gram RECORDS
+
+  - [ZARD](../Page/ZARD.md "wikilink")
+  - [B.B.QUEENS](../Page/B.B.QUEENS.md "wikilink")
+
+#### Being
+
+  - [UMI☆KUUN](https://zh.wikipedia.org/wiki/UMI☆KUUN "wikilink")
+  - [大黑摩季](../Page/大黑摩季.md "wikilink")
+  - Only this time
+  - Caro
+  - KU
+  - SHE IS SUMMER
+  - [ZYYG](../Page/ZYYG.md "wikilink")
+  - [Cellchrome](https://zh.wikipedia.org/wiki/Cellchrome "wikilink")
+  - [焚吐](../Page/焚吐.md "wikilink")
+  - [T-BOLAN](../Page/T-BOLAN.md "wikilink")
+  - 新浜レオン
+  - [To-Lie](https://zh.wikipedia.org/wiki/minato "wikilink")
+  - [doriko](https://zh.wikipedia.org/wiki/doriko "wikilink")
+  - [KNOCK OUT MONKEY](https://zh.wikipedia.org/wiki/KNOCK_OUT_MONKEY "wikilink")
+  - [NormCore](https://zh.wikipedia.org/wiki/NormCore "wikilink")
+  - [VALSHE](../Page/VALSHE.md "wikilink")
+  - [First place](https://zh.wikipedia.org/wiki/First_place "wikilink")
+  - [藤原育郎](https://zh.wikipedia.org/wiki/藤原育郎 "wikilink")
+  - [松本蘭](https://zh.wikipedia.org/wiki/松本蘭 "wikilink")
+  - [蓮花](https://zh.wikipedia.org/wiki/蓮花_\(歌手\) "wikilink")
+
+#### Honey Bee Records
+
+  - [Lily's Blow](https://zh.wikipedia.org/wiki/Lily's_Blow "wikilink")(NANA)
+  - [Mar.na](../Page/Mar.na.md "wikilink")
+  - [Ruca](https://zh.wikipedia.org/wiki/Ruca "wikilink")
+  - 近藤ひさし
+  - TENDERLAMP
+
+#### ZAIN RECORDS
+
+  - [近藤房之助](https://zh.wikipedia.org/wiki/近藤房之助 "wikilink")
+  - [BREAKERZ](../Page/BREAKERZ.md "wikilink")
+      - [DAIGO](https://zh.wikipedia.org/wiki/DAIGO "wikilink")
+      - [AKIHIDE](https://zh.wikipedia.org/wiki/AKIHIDE "wikilink")
+      - [MUSCLE ATTACK](https://zh.wikipedia.org/wiki/MUSCLE_ATTACK "wikilink")
+  - [DIMENSION](https://zh.wikipedia.org/wiki/DIMENSION "wikilink")
+
+#### BIG M.F.
+
+  - Shane Gaalaas
+  - Barry Sparks
+  - [比利·席恩](../Page/比利·席恩.md "wikilink")
+
+#### NiM RECORDS
+
+  -
 ## White Dream所属藝人、模特與演員
 
   - [麻亞里](https://zh.wikipedia.org/wiki/麻亞里 "wikilink")

@@ -140,7 +140,7 @@ M80-M94 骨病和[软骨病](https://zh.wikipedia.org/wiki/软骨病 "wikilink")
 
 ### M91-M94 软骨病
 
-  - M91 [髋和](https://zh.wikipedia.org/wiki/髋 "wikilink")[骨盆的幼年型骨](https://zh.wikipedia.org/wiki/骨盆 "wikilink")[软骨](../Page/软骨.md "wikilink")病
+  - M91 [髋和](https://zh.wikipedia.org/wiki/髋 "wikilink")[骨盆](../Page/骨盆.md "wikilink")的幼年型骨[软骨](../Page/软骨.md "wikilink")病
   - M92 其他幼年型骨软骨病
   - M93 其他骨软骨病
   - M94 软骨的其他疾患

@@ -464,7 +464,7 @@ Dear Jane靠副業撐住Rock下去</ref> ，並在2017年9月14日誕下女兒�
 <!-- end list -->
 
   - [林欣彤](../Page/林欣彤.md "wikilink") - 《重光紀念日》（Howie創作）
-  - [容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink") - 《心之科學》（林家謙×Howie創作）
+  - [容祖兒](../Page/容祖兒.md "wikilink") - 《心之科學》（林家謙×Howie創作）
   - [吳嘉熙](../Page/吳嘉熙.md "wikilink") - 《你的你》（林家謙×馮允謙×衛詩×Tim創作）
   - [許志安](../Page/許志安.md "wikilink") - 《獅子山上》（Howie創作）
 

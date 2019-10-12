@@ -33,7 +33,7 @@
   - 《[糖果姐姐-張雅淇](../Page/洪淇.md "wikilink")》（第一代）
   - 《[藍莓姐姐-李牧寰](https://zh.wikipedia.org/wiki/李牧寰 "wikilink")》（第一代）
   - 《[優格姐姐-林姵君](../Page/林姵君.md "wikilink")》
-  - 《[甜甜姐姐-張婕筠](https://zh.wikipedia.org/wiki/張婕筠 "wikilink")》
+  - 《[甜甜姐姐-張婕筠](../Page/張婕筠.md "wikilink")》
   - 《[功夫哥哥-陳恩奕](https://zh.wikipedia.org/wiki/陳恩奕 "wikilink")》
   - 《[柚子哥哥-張書維](https://zh.wikipedia.org/wiki/張書維 "wikilink")》（第二代）
 
@@ -186,7 +186,7 @@
 | 《》                                                                              |
 | 《[珊妮的一天](https://zh.wikipedia.org/wiki/珊妮的一天 "wikilink")》                       |
 | 《》                                                                              |
-| 《[Wissper神童小語](https://zh.wikipedia.org/wiki/Wissper神童小語 "wikilink")》           |
+| 《[小皮大世界](../Page/小皮大世界.md "wikilink")》                                          |
 
 ### 中國
 

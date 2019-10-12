@@ -41,6 +41,6 @@ KDEPrint 主要組成部分包括：
 
 1.  Michael Sweet (June 9, 1999), ["A Bright New Future for Printing on Linux"](http://linuxtoday.com/news_story.php3?ltsn=1999-06-09-014-10-NW-SM), *[Linux Today](https://zh.wikipedia.org/wiki/Linux_Today "wikilink")* & followup from Michael Sweet (June 11, 1999), ["The Future Brightens for Linux Printing"](http://linuxtoday.com/news_story.php3?ltsn=1999-06-11-018-10-NW-SM), *Linux Today*.
 2.  *Easy Software Products*, [CUPS Licensed for Use in Apple Operating Systems\!](http://www.cups.org/articles.php?L68+I10+T+P1+Qapple)  ([press release](https://zh.wikipedia.org/wiki/press_release "wikilink")), March 1, 2002.
-3.  "CUPS",[CUPS Purchased by Apple Inc.](https://www.cups.org/blog.php?L475) (press release), July 11,2007.
+3.  "CUPS",[CUPS Purchased by Apple Inc.](https://www.cups.org/blog.php?L475)  (press release), July 11,2007.
 4.  [CUPS Software Administrators Manual](http://www.cups.org/sam.html#4_4) , "Managing Printers from the Web"
 5.

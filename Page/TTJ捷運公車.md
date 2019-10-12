@@ -368,7 +368,7 @@
 
 <!-- end list -->
 
-  - 路線名稱：<font color=#FF1493>█</font> **[豐安環線](https://zh.wikipedia.org/wiki/台中市公車92路 "wikilink")**
+  - 路線名稱：<font color=#FF1493>█</font> **[豐安環線](../Page/台中市公車92路.md "wikilink")**
   - 營運客運：[豐原客運](https://zh.wikipedia.org/wiki/豐原客運 "wikilink")
   - 路線設計：直線
   - 公車停靠站：

@@ -42,7 +42,7 @@ Google在2004年8月19日进行了[首次公开募股](https://zh.wikipedia.org/
 
 ### Alphabet
 
-在2015年8月10日，Google宣佈要組織重整為[控股公司](../Page/控股公司.md "wikilink")Alphabet，Google則會是Alphabet公司旗下最大的子公司。重整完成以後，[桑德爾·皮蔡會接任成為Google的執行長](https://zh.wikipedia.org/wiki/桑德爾·皮蔡 "wikilink")。
+在2015年8月10日，Google宣佈要組織重整為[控股公司](../Page/控股公司.md "wikilink")Alphabet，Google則會是Alphabet公司旗下最大的子公司。重整完成以後，[-{zh:桑达·皮采; zh-cn:孙达尔·皮柴; zh-tw:桑德爾·皮查伊; zh-hant:桑達·皮采; zh-hans:桑达·皮采;}-會接任成為Google的執行長](https://zh.wikipedia.org/wiki/桑德爾·皮蔡 "wikilink")。
 
 ## 产品与服务
 

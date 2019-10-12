@@ -1,4 +1,4 @@
-**納智捷 M7**（**Luxgen M7**），原名Luxgen 7 MPV，是一款由[裕隆汽車于](https://zh.wikipedia.org/wiki/裕隆汽車 "wikilink")2009年起根據推出的7人商旅车系列。此車以Renault Espace底盤為基礎進行改良。有 2.2L 和電動引擎兩種款.售價依配備為台幣NT$79萬到NT$108萬之間。之後2013年版本旗艦型漲到110萬。2015年做出小改款的M7 Turbo Ecohyper。
+**納智捷M7**（**Luxgen M7**），原名Luxgen 7 MPV，是一款由[裕隆汽車于](https://zh.wikipedia.org/wiki/裕隆汽車 "wikilink")2009年起根據推出的7人[商旅车系列](https://zh.wikipedia.org/wiki/商旅车 "wikilink")。此車以[Renault Espace底盤為基礎進行改良](https://zh.wikipedia.org/wiki/Renault_Espace "wikilink")。有2.2L和電動引擎兩種款，售價依配備為[新台幣](https://zh.wikipedia.org/wiki/新台幣 "wikilink")79萬到108萬元之間。之後2013年版本旗艦型漲到新台幣110萬元。2015年做出小改款的M7 Turbo Ecohyper。
 
 該車主打智慧型電腦成分，由[宏達電開發了](https://zh.wikipedia.org/wiki/宏達電 "wikilink")[車載資訊系統](../Page/車載資訊系統.md "wikilink")和[電子穩定程序](https://zh.wikipedia.org/wiki/電子穩定程序 "wikilink")，稱為THINK+系統，特色為聲控功能、衛星導航、全車最多8顆CCD，其中包含夜視攝影機，並有3.5G行動上網功能可以更新系統和下載旅遊、商店、交通資訊，可以說是一種搭載客製化軟體的筆記型電腦內建於[儀表板上](../Page/汽車儀表.md "wikilink")。\[1\]
 

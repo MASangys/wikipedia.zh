@@ -287,7 +287,7 @@ iPhone6.2</p></td>
 <td><p><strong>3.支援的最新<a href="https://zh.wikipedia.org/wiki/作业系统" title="wikilink">作业系统</a></strong></p></td>
 <td><p>iOS 10.3.4</p></td>
 <td><p>iOS 10.3.3</p></td>
-<td><p>iOS 12.4.1</p></td>
+<td><p>iOS 12.4.2</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -485,7 +485,7 @@ WiFi网页浏览：12<br />
 </tr>
 <tr class="even">
 <td><p><strong>支援的最新<a href="https://zh.wikipedia.org/wiki/作业系统" title="wikilink">作业系统</a></strong></p></td>
-<td><p>iOS 13.0</p></td>
+<td><p>iOS 13.1.1</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -941,8 +941,8 @@ FaceTime</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>支援的最新<a href="https://zh.wikipedia.org/wiki/作业系统" title="wikilink">作业系统</a></strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a> 12.4.1</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a> 12.4.1</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a> 12.4.2</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a> 13.1.1</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>显示设备</strong></p></td>
@@ -1056,7 +1056,7 @@ FaceTime</p></td>
 <small>（第五代）</small></a></p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/iPad_(第六代)" title="wikilink">iPad<br />
 <small>（第六代）</small></a></p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/IPad_2019" title="wikilink">iPad<br />
+<th><p><a href="../Page/IPad_2019.md" title="wikilink">iPad<br />
 <small>（第七代）</small></a></p></th>
 </tr>
 </thead>
@@ -1086,9 +1086,9 @@ FaceTime</p></td>
 <td><p>iOS 5.1.1</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/iOS_9" title="wikilink">iOS 9.3.6</a></p></td>
 <td><p>iOS 10.3.4</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/iOS_12" title="wikilink">iOS12.4.1</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/iOS_12" title="wikilink">iOS12.4.1</a></p></td>
-<td><p>iPad OS 13</p></td>
+<td><p>iPadOS 13.1.1</p></td>
+<td><p>iPadOS 13.1.1</p></td>
+<td><p>iPadOS 13.1.1</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1395,7 +1395,7 @@ International: 2011年3月25日</p></td>
 <small>（第五代）</small></a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/iPad_(第六代)" title="wikilink">iPad<br />
 <small>（第六代）</small></a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/IPad_2019" title="wikilink">iPad<br />
+<td><p><a href="../Page/IPad_2019.md" title="wikilink">iPad<br />
 <small>（第七代）</small></a></p></td>
 </tr>
 <tr class="even">
@@ -1456,8 +1456,8 @@ International: 2011年3月25日</p></td>
 </tr>
 <tr class="odd">
 <td><p>colspan=2 |支援最新的作业系统</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a> 12.4.1</p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a> 12.4.2</p></td>
+<td><p>iPadOS 13.1.1</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1658,7 +1658,7 @@ Wi-Fi + 4G model: </p></td>
 </tr>
 <tr class="even">
 <td><p>colspan=2 |支援最新的作业系统</p></td>
-<td><p>iOS 12.4.1</p></td>
+<td><p>iPadOS 13.1.1</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1858,7 +1858,7 @@ Wi-Fi + cellular: </p></td>
 </tr>
 <tr class="even">
 <td><p>colspan=2 |支援最新的作业系统</p></td>
-<td><p>iOS 12.4.1</p></td>
+<td><p>iPadOS 13.1.1</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2053,10 +2053,10 @@ eSIM</p></td>
 <tr class="odd">
 <td><p>colspan=2 |支持的最新操作系统</p></td>
 <td><p>iOS 9.3.6</p></td>
-<td><p>iOS 12.4.1</p></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>iOS 12.4.2</p></td>
+<td><p>iOS 12.4.2</p></td>
+<td><p>iPadOS 13.1.1</p></td>
+<td><p>iPadOS 13.1.1</p></td>
 </tr>
 <tr class="even">
 <td><p>colspan=2 |萤幕</p></td>

@@ -128,6 +128,7 @@ USB 3.0 Powered-B\[8\]
 <!-- end list -->
 
   - 2015年，USB開發者論壇協會公告：“Cquote|USB 3.1更名為USB 3.1 Gen2，速度為10 Gbit/s (1250 MB/s)。這才是真的USB 3.1”。而USB 3.0更名為USB 3.1 Gen1。
+  - 2019年，華碩推出ROG Phone II，成為全世界第一部支援USB 3.1 Gen2的手機。
 
 ### 與USB 3.0比較
 

@@ -10,7 +10,7 @@
 
 （本文並未提供完整的格式描述，以下僅介紹PLY的基本概念與格式）
 
-每個PLY檔都包含檔頭（header），用以設定網格模型的「元素」與「屬性」，以及在檔頭下方接著一連串的元素「數值資料」。一般而言，網格模型的「元素」就是頂點（vertices）、面（faces），另外還可能包含有邊（edges）、深度圖樣本（samples of range maps）與三角帶（triangle strips）等元素。無論是純文字與二元碼的PLY檔，檔頭資訊都是以ASCII編碼編寫，接續其後的數值資料才有編碼之分。PLY檔案以此行：
+每個PLY檔都包含檔頭（header），用以設定網格模型的「元素」與「屬性」，以及在檔頭下方接著一連串的元素「數值資料」。一般而言，網格模型的「元素」就是[頂點](../Page/頂點_\(電腦圖學\).md "wikilink")（vertices）、面（faces），另外還可能包含有邊（edges）、深度圖樣本（samples of range maps）與三角帶（triangle strips）等元素。無論是純文字與二元碼的PLY檔，檔頭資訊都是以ASCII編碼編寫，接續其後的數值資料才有編碼之分。PLY檔案以此行：
 
 ` ply`
 
@@ -31,7 +31,7 @@
 ` property `<data_type>` <property name 2>`
 ` property `<data_type>` <property name 3>`
 
-'property'不僅定義了資料的型態，其出現順序亦定義了資料的順序。內定的資料形態有兩種寫法：一種是*char uchar short ushort int uint float double*,另外一種是具有位元長度的*int8 uint8 int16 uint16 int32 uint32 float32 float64*。 例如，描述一個包含12個**頂點**的物體，每個頂點使用3個單精度浮點數 (x,y,z）代表點的座標，使用3個unsigned char代表頂點顏色，顏色順序為 (B, G, R),則檔頭的寫法為：
+'property'不僅定義了資料的型態，其出現順序亦定義了資料的順序。內定的資料形態有兩種寫法：一種是*char uchar short ushort int uint float double*,另外一種是具有位元長度的*int8 uint8 int16 uint16 int32 uint32 float32 float64*。 例如，描述一個包含12個**頂點**的物體，每個頂點使用3個單精度浮點數 (x,y,z）代表點的座標，使用3個unsigned char代表[頂點顏色](../Page/頂點_\(電腦圖學\).md "wikilink")，顏色順序為 (B, G, R),則檔頭的寫法為：
 
 ` element vertex 12`
 ` property float x`

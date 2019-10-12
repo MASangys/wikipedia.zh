@@ -107,7 +107,7 @@ DTMB-A系统于2015年成为国际电联标准。采用多项自主研发的创�
 
 香港：
 
-  - [香港特別行政區-商務及經濟發展局：數位電視常見問題集](http://www.digitaltv.gov.hk/chi/general/faq.htm)
+  - [香港特別行政區-商務及經濟發展局：數位電視常見問題集](https://web.archive.org/web/20070820182912/http://www.digitaltv.gov.hk/chi/general/faq.htm)
   - [立法會參考資料摘要：推行數位地面電視廣播](http://www.citb.gov.hk/ctb/chi/legco/pdf/DTT.pdf)
   - [電訊管理局局長公佈數位地面電視服務的技術制式](http://www.info.gov.hk/gia/general/200706/04/P200706040187.htm)
 

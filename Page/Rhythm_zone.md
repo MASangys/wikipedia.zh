@@ -34,6 +34,7 @@
   - [Sowelu](../Page/Sowelu.md "wikilink")
   - [Super Junior](../Page/Super_Junior.md "wikilink")
   - THE CHILL
+  - The rampage from EXILE tribe
   - The Phanky Okstra
   - [THE SECOND from EXILE](https://zh.wikipedia.org/wiki/THE_SECOND_from_EXILE "wikilink")
   - twenty4-7

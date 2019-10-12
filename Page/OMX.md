@@ -109,6 +109,8 @@ OMX的技术客户包括：
 
   - [OMX](http://www.nasdaqomx.com/) - Official site
 
+[Category:欧洲股市指数](https://zh.wikipedia.org/wiki/Category:欧洲股市指数 "wikilink")
+
 [Category:瑞典公司](https://zh.wikipedia.org/wiki/Category:瑞典公司 "wikilink") [Category:芬兰公司](https://zh.wikipedia.org/wiki/Category:芬兰公司 "wikilink") [Category:2003年成立的公司](https://zh.wikipedia.org/wiki/Category:2003年成立的公司 "wikilink")
 
 1.  <http://www.securitiesindustry.com/news/22064-1.html> Article on Nasdaq's Acquisition of OMX

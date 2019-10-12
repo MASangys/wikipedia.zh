@@ -215,7 +215,7 @@
   -
     能與拉古羅亞高級精靈(地位在四神獸之上,與寒冰龍同級並相對)之一「鋼鐵龍」合體。
 
-**嵐之騎士．多魯基斯**(Tallgeese The Knight of the Tempest)(聲優：[楠大典](../Page/楠大典.md "wikilink")）
+**嵐之騎士．多魯基斯**(Tallgeese The Knight of the Tempest)(聲優：[楠大典](../Page/楠大典.md "wikilink")／香港：[陳欣](https://zh.wikipedia.org/wiki/陳欣 "wikilink")）
 
   -
     拉古羅亞騎士，野心勃勃要佔領整個國家。及後知道自己一直被地獄死神操縱後，決意向地獄死神報仇，最後以自爆方式救出寒冰龍以破壞地獄死神的計劃。

@@ -44,7 +44,7 @@ AKB48除了自己本身，還有不少運營模式相近的姊妹組合。組合
 
 2008年夏天，AKB48首支姊妹團體，以[名古屋市](../Page/名古屋市.md "wikilink")[榮為據點](../Page/榮_\(名古屋市\).md "wikilink")、以[東海地方](../Page/東海地方.md "wikilink")為主要活動範圍的[SKE48](../Page/SKE48.md "wikilink")成立。2009年夏天，第二個以AKB48劇場為根據地的姊妹組合[SDN48](../Page/SDN48.md "wikilink")成立，組合成員都是20歲以上，但全體成員於2012年3月31日畢業、團體也隨之解散。其後，其他姊妹團體亦慢慢成立起來，包括2010年秋天於[大阪市](../Page/大阪市.md "wikilink")[難波](../Page/難波.md "wikilink")成立、主要於[關西地區活動的](https://zh.wikipedia.org/wiki/關西地區 "wikilink")[NMB48](../Page/NMB48.md "wikilink")，和2011年秋天以[九州作為主要活動範圍](../Page/九州_\(日本\).md "wikilink")、於[福岡市](../Page/福岡市.md "wikilink")[博多成立的](https://zh.wikipedia.org/wiki/博多 "wikilink")[HKT48](../Page/HKT48.md "wikilink")，以及在2015年8月21日進行首次登台表演、以[北陸地方](../Page/北陸地方.md "wikilink")主要城市[新潟市](../Page/新潟市.md "wikilink")为據點的[NGT48](../Page/NGT48.md "wikilink")。2017年夏天，以[瀨戶內海](../Page/瀨戶內海.md "wikilink")周圍7縣為據點，劇場設於船上的[STU48](../Page/STU48.md "wikilink")正式成立，此團成為AKB48在日本的第6個姐妹團體。
 
-除了日本國內，AKB48在國外城市都有姊妹組合，即是將上述運營模式的構思與特色作爲知識産權進行模式販賣，將其模式在世界各地推廣，例如一個可行的構思就是組成如紐約48、巴黎48這樣由當地人選拔組成的特別授權隊（franchise team），最後再從世界各地的「48」模式隊伍中選出「世界48」\[12\]。目前已於國外成立的姊妹組合有2011年於[印尼](https://zh.wikipedia.org/wiki/印尼 "wikilink")[雅加達成立的](https://zh.wikipedia.org/wiki/雅加達 "wikilink")[JKT48](../Page/JKT48.md "wikilink")，2012年在[中國](../Page/中國.md "wikilink")[上海成立的](https://zh.wikipedia.org/wiki/上海 "wikilink")[SNH48](https://zh.wikipedia.org/wiki/SNH48 "wikilink")（於2016年6月除名），2017年在[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")[曼谷](../Page/曼谷.md "wikilink")成立的[BNK48](../Page/BNK48.md "wikilink")，2018年在[台北成立的](https://zh.wikipedia.org/wiki/台北 "wikilink")[TPE48](https://zh.wikipedia.org/wiki/TPE48 "wikilink")（后改組為[AKB48 Team TP](../Page/AKB48_Team_TP.md "wikilink")）\[13\]，在[菲律賓](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")[馬尼拉成立的](https://zh.wikipedia.org/wiki/馬尼拉 "wikilink")[MNL48](https://zh.wikipedia.org/wiki/MNL48 "wikilink")，在中國上海成立的[AKB48 Team SH](../Page/AKB48_Team_SH.md "wikilink")\[14\]及在[越南](https://zh.wikipedia.org/wiki/越南 "wikilink")[胡志明市](../Page/胡志明市.md "wikilink")成立的[SGO48](../Page/SGO48.md "wikilink")。另有2019年6月2日宣布在[泰國](../Page/泰国.md "wikilink")[清邁](../Page/清邁.md "wikilink")成立[CGM48](../Page/CGM48.md "wikilink")，2019年6月20日宣布在[印度](../Page/印度.md "wikilink")[德里](../Page/德里.md "wikilink")成立[DEL48](../Page/DEL48.md "wikilink")及在[孟買成立](https://zh.wikipedia.org/wiki/孟買 "wikilink")[MUB48](../Page/MUB48.md "wikilink")\[15\]，「DEL48一期生徵選」已於6月19日起開放報名\[16\] 。
+除了日本國內，AKB48在國外城市都有姊妹組合，即是將上述運營模式的構思與特色作爲知識産權進行模式販賣，將其模式在世界各地推廣，例如一個可行的構思就是組成如紐約48、巴黎48這樣由當地人選拔組成的特別授權隊（franchise team），最後再從世界各地的「48」模式隊伍中選出「世界48」\[12\]。目前已於國外成立的姊妹組合有2011年於[印尼](https://zh.wikipedia.org/wiki/印尼 "wikilink")[雅加達成立的](https://zh.wikipedia.org/wiki/雅加達 "wikilink")[JKT48](../Page/JKT48.md "wikilink")，2012年在[中國](../Page/中國.md "wikilink")[上海成立的](https://zh.wikipedia.org/wiki/上海 "wikilink")[SNH48](../Page/SNH48.md "wikilink")（於2016年6月除名），2017年在[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")[曼谷](../Page/曼谷.md "wikilink")成立的[BNK48](../Page/BNK48.md "wikilink")，2018年在[台北成立的](https://zh.wikipedia.org/wiki/台北 "wikilink")[TPE48](https://zh.wikipedia.org/wiki/TPE48 "wikilink")（后改組為[AKB48 Team TP](../Page/AKB48_Team_TP.md "wikilink")）\[13\]，在[菲律賓](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")[馬尼拉成立的](https://zh.wikipedia.org/wiki/馬尼拉 "wikilink")[MNL48](https://zh.wikipedia.org/wiki/MNL48 "wikilink")，在中國上海成立的[AKB48 Team SH](../Page/AKB48_Team_SH.md "wikilink")\[14\]及在[越南](https://zh.wikipedia.org/wiki/越南 "wikilink")[胡志明市](../Page/胡志明市.md "wikilink")成立的[SGO48](../Page/SGO48.md "wikilink")。另有2019年6月2日宣布在[泰國](../Page/泰国.md "wikilink")[清邁](../Page/清邁.md "wikilink")成立[CGM48](../Page/CGM48.md "wikilink")，2019年6月20日宣布在[印度](../Page/印度.md "wikilink")[德里](../Page/德里.md "wikilink")成立[DEL48](../Page/DEL48.md "wikilink")及在[孟買成立](https://zh.wikipedia.org/wiki/孟買 "wikilink")[MUB48](../Page/MUB48.md "wikilink")\[15\]，「DEL48一期生徵選」已於6月19日起開放報名\[16\] 。
 
 包括AKB48與上述日本各地及海外的姊妹團體所形成、總成員數超過350人的龐大群體，經常被合稱為「**[AKB48集團](../Page/AKB48集團.md "wikilink")**」（AKB48 Group）或簡稱「**48集團**」。除非特別說明是AKB48單獨演出，一般而言包括AKB的唱片作品、冠名電視節目、演唱會乃至於單曲選拔總選舉，都是以48集團的名義、由日本國內的各姊妹團體成員們共同參與。
 
@@ -840,7 +840,7 @@ AKB48集團最年長</p></td>
 
 **Team 8兼任成員**
 
-  - 歌田初夏、大西桃香、行天優莉奈、坂口渚沙、佐藤七海、高岡薫、高橋彩音、高橋彩香、永野芹佳、濱咲友菜、平野光、宮里莉羅
+  - 歌田初夏、大西桃香、行天優莉奈、坂口渚沙、高岡薫、高橋彩音、高橋彩香、永野芹佳、濱咲友菜、平野光、宮里莉羅
 
 ##### Team 8
 
@@ -906,12 +906,12 @@ Team 8成员所屬經紀公司皆为AKS。下列未特别备注加入日期者�
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/岩手縣" title="wikilink">岩手</a></p></td>
-<td><p>4</p></td>
-<td><p><a href="../Page/佐藤七海.md" title="wikilink">佐藤七海</a></p></td>
+<td><p>&lt;!--</p></td>
 <td></td>
 <td></td>
-<td><p>預定於2019年9月30日畢業[30]</p></td>
 <td></td>
+<td></td>
+<td><p>--&gt;</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/山形縣" title="wikilink">山形</a></p></td>
@@ -975,7 +975,7 @@ AKB48最年少</p></td>
 <td><p><a href="../Page/本田仁美.md" title="wikilink">本田仁美</a></p></td>
 <td></td>
 <td></td>
-<td><p>2018年10月29日起專任<a href="../Page/IZ*ONE.md" title="wikilink">IZ*ONE</a>成員[31]<br />
+<td><p>2018年10月29日起專任<a href="../Page/IZ*ONE.md" title="wikilink">IZ*ONE</a>成員[30]<br />
 曾兼任Team B（高橋朱里）</p></td>
 <td><p>82名</p></td>
 </tr>
@@ -1231,8 +1231,8 @@ AKB48最年少</p></td>
 <td></td>
 <td></td>
 <td><p>2017年11月19日加入<br />
-前成員[32]<br />
-前廣島演藝學校學員[33]</p></td>
+前成員[31]<br />
+前廣島演藝學校學員[32]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1344,7 +1344,7 @@ AKB48最年少</p></td>
 <td></td>
 <td></td>
 <td><p>|2016年6月25日加入<br />
-預定畢業[34]</p></td>
+預定畢業[33]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1566,7 +1566,7 @@ AKB48最年少</p></td>
 
 ## 經紀公司
 
-AKB48的成員們在以AKB48「團體」一員活動時，所屬[經紀公司](../Page/經紀公司.md "wikilink")為[AKS](../Page/AKS.md "wikilink")\[35\]，由AKS統籌用AKB48名義演出的公演或活動；但成員「個人」的經紀公司，除了與團體一樣所屬於AKS，部分成員在入團一段時間會後簽約給其他經紀公司，例如[太田製作](../Page/太田製作.md "wikilink")、[尾木製作](../Page/尾木製作.md "wikilink")、[Horipro](../Page/Horipro.md "wikilink")等，稱為「移籍」\[36\]，讓這些經紀公司安排以個別藝人身分從事的演藝活動。這種將「團體」與「個人」之經紀合約分離的制度，用意在於強化成員們身為一個藝人所需的競爭力，無論是AKB48在籍期間或[畢業之後](../Page/畢業_\(演藝界\).md "wikilink")，藉由個人所屬的經紀公司，得以在演藝圈持續活躍與曝光\[37\]。AKB48在日本國內的姊妹團體當中，除了[NMB48](../Page/NMB48.md "wikilink")、[STU48](../Page/STU48.md "wikilink")以外均沿用此制度\[38\]。
+AKB48的成員們在以AKB48「團體」一員活動時，所屬[經紀公司](../Page/經紀公司.md "wikilink")為[AKS](../Page/AKS.md "wikilink")\[34\]，由AKS統籌用AKB48名義演出的公演或活動；但成員「個人」的經紀公司，除了與團體一樣所屬於AKS，部分成員在入團一段時間會後簽約給其他經紀公司，例如[太田製作](../Page/太田製作.md "wikilink")、[尾木製作](../Page/尾木製作.md "wikilink")、[Horipro](../Page/Horipro.md "wikilink")等，稱為「移籍」\[35\]，讓這些經紀公司安排以個別藝人身分從事的演藝活動。這種將「團體」與「個人」之經紀合約分離的制度，用意在於強化成員們身為一個藝人所需的競爭力，無論是AKB48在籍期間或[畢業之後](../Page/畢業_\(演藝界\).md "wikilink")，藉由個人所屬的經紀公司，得以在演藝圈持續活躍與曝光\[36\]。AKB48在日本國內的姊妹團體當中，除了[NMB48](../Page/NMB48.md "wikilink")、[STU48](../Page/STU48.md "wikilink")以外均沿用此制度\[37\]。
 
 在Team A和Team K組成當時，全部成員原本皆隸屬於[office48](https://zh.wikipedia.org/wiki/office48 "wikilink")；之後為了強化演藝經紀工作與增加媒體曝光之機會，一部份的成員移籍至其他的經紀公司，在此時期前則稱為「劇團員」。未加入其他經紀公司的成員與後來陸續加入的新成員（Team B組成時）與研究生則移往AKS，尋找或等待移籍經紀公司的機會；而仍被留在office48的成員也被視為已經移籍的成員。不過，在2010年3月25日在AKB48希望满席祭赞否两论中，發表了決定：除了8、9、10期研究生外，全部正式成員將移籍至其他經紀公司。2012年3月25日，在演唱會「[业务连络。拜托了，片山部长！ in埼玉超级竞技场](https://zh.wikipedia.org/wiki/业务连络。拜托了，片山部长！_in埼玉超级竞技场 "wikilink")」上，宣佈9期生和部分升格的10期生也將移籍至各个經紀公司。而AKB48第10期生以後加入的成員中，有4人獲得邀請而移籍至個別經紀公司 。
 
@@ -1583,7 +1583,7 @@ AKB48的成員們在以AKB48「團體」一員活動時，所屬[經紀公司](.
 <tbody>
 <tr class="odd">
 <td><p>《<strong>樱花的花瓣们</strong>》</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/TBS電視" title="wikilink">TBS電視深夜劇</a>《》主題歌[39]<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/TBS電視" title="wikilink">TBS電視深夜劇</a>《》主題歌[38]<br />
 廣告：<a href="https://zh.wikipedia.org/wiki/NTT_DoCoMo" title="wikilink">NTT DoCoMo</a>『<a href="https://zh.wikipedia.org/wiki/視訊電話" title="wikilink">視訊電話</a>』</p></td>
 <td><p>獨立製作的1st單曲《<a href="../Page/樱花的花瓣们.md" title="wikilink">樱花的花瓣们</a>》</p></td>
 </tr>
@@ -1636,7 +1636,7 @@ AKB48的成員們在以AKB48「團體」一員活動時，所屬[經紀公司](.
 </tr>
 <tr class="odd">
 <td><p>《<strong>我的太陽</strong>》</p></td>
-<td><p><a href="../Page/愛知電視台.md" title="wikilink">愛知電視台</a>、東京電視台《<a href="../Page/拯救德尔托拉.md" title="wikilink">拯救德尔托拉</a>》開頭主題曲[40]</p></td>
+<td><p><a href="../Page/愛知電視台.md" title="wikilink">愛知電視台</a>、東京電視台《<a href="../Page/拯救德尔托拉.md" title="wikilink">拯救德尔托拉</a>》開頭主題曲[39]</p></td>
 <td><p>第5張單曲《<a href="../Page/我的太陽_(AKB48單曲).md" title="wikilink">我的太陽</a>》</p></td>
 </tr>
 <tr class="even">
@@ -1682,7 +1682,7 @@ CS《<a href="../Page/AKB48神TV.md" title="wikilink">AKB48神TV</a>》開頭主
 <td><p>東京電視台<a href="../Page/電視劇24.md" title="wikilink">電視劇24</a>《<a href="../Page/Men☆dol_～帥男偶像～.md" title="wikilink">Men☆dol ～帥男偶像～</a>》結尾主題曲<br />
 TBS電視《》結尾主題曲<br />
 日本電視台《<a href="../Page/AKB600sec..md" title="wikilink">AKB600sec.</a>》開頭主題曲<br />
-<a href="../Page/千葉羅德海洋.md" title="wikilink">千葉羅德海洋</a>捕手<a href="../Page/的場直樹.md" title="wikilink">的場直樹</a>3打席目登場曲[41]</p></td>
+<a href="../Page/千葉羅德海洋.md" title="wikilink">千葉羅德海洋</a>捕手<a href="../Page/的場直樹.md" title="wikilink">的場直樹</a>3打席目登場曲[40]</p></td>
 <td><p>第10張單曲《<a href="https://zh.wikipedia.org/wiki/大聲鑽石" title="wikilink">大聲鑽石</a>》</p></td>
 </tr>
 <tr class="even">
@@ -1709,7 +1709,7 @@ CS《AKB48ネ申TV Season 2》開頭主題曲</p></td>
 <td><p>《<strong>Maybe是藉口</strong>》</p></td>
 <td><p>TBS電視《》結尾主題曲<br />
 BS11《》8月、9月度結尾主題曲<br />
-<a href="../Page/千葉羅德海洋.md" title="wikilink">千葉羅德海洋</a>捕手<a href="../Page/的場直樹.md" title="wikilink">的場直樹</a>4打席目登場曲[42]</p></td>
+<a href="../Page/千葉羅德海洋.md" title="wikilink">千葉羅德海洋</a>捕手<a href="../Page/的場直樹.md" title="wikilink">的場直樹</a>4打席目登場曲[41]</p></td>
 <td><p>第13張單曲《<a href="../Page/Maybe是藉口.md" title="wikilink">Maybe是藉口</a>》</p></td>
 </tr>
 <tr class="even">
@@ -1722,12 +1722,12 @@ BS11《》8月、9月度結尾主題曲<br />
 <td><p>《<strong>因為喜歡你</strong>》</p></td>
 <td><p>廣告：TOMY COMPANY<br />
 CS371《AKB1/48》開頭主題曲<br />
-<a href="../Page/千葉羅德海洋.md" title="wikilink">千葉羅德海洋</a>捕手的場直樹5打席目登場曲[43]</p></td>
+<a href="../Page/千葉羅德海洋.md" title="wikilink">千葉羅德海洋</a>捕手的場直樹5打席目登場曲[42]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>《<strong>櫻花印記</strong>》</p></td>
-<td><p>東京電視台電視劇24《<a href="../Page/馬路須加學園.md" title="wikilink">馬路須加學園</a>》主題歌[44]<br />
+<td><p>東京電視台電視劇24《<a href="../Page/馬路須加學園.md" title="wikilink">馬路須加學園</a>》主題歌[43]<br />
 東京電視台《週刊AKB》結尾主題曲<br />
 <a href="https://zh.wikipedia.org/wiki/仙台放送" title="wikilink">仙台放送</a>《》2月度結尾主題曲<br />
 廣告：RecoChoku <br />
@@ -1752,7 +1752,7 @@ CS371《AKB1/48》開頭主題曲<br />
 <tr class="even">
 <td><p>《<strong>我的YELL<br />
 世界桌球ver.</strong>》</p></td>
-<td><p>東京電視台《<a href="https://zh.wikipedia.org/wiki/2010年世界乒乓球团体锦标赛" title="wikilink">2010年世界乒乓球团体锦标赛關聯節目</a>》主題歌[45]</p></td>
+<td><p>東京電視台《<a href="https://zh.wikipedia.org/wiki/2010年世界乒乓球团体锦标赛" title="wikilink">2010年世界乒乓球团体锦标赛關聯節目</a>》主題歌[44]</p></td>
 <td><p>未收錄（原曲由第16張單曲<br />
 《<a href="../Page/馬尾與髮圈.md" title="wikilink">馬尾與髮圈</a>》通常盤A收錄）</p></td>
 </tr>
@@ -1763,7 +1763,7 @@ CS371《AKB1/48》開頭主題曲<br />
 <td><p>〜芸能人最強イントロ王決定戦〜}}》結尾主題曲<br />
 廣告：<a href="https://zh.wikipedia.org/wiki/伊藤洋華堂" title="wikilink">伊藤洋華堂</a>『伊藤洋華堂 2010 Summer Collection』<br />
 CS《AKB48ネ申TV Season 4》前期開頭主題曲<br />
-<a href="../Page/千葉羅德海洋.md" title="wikilink">千葉羅德海洋</a>捕手的場直樹2打席目登場曲[46]</p></td>
+<a href="../Page/千葉羅德海洋.md" title="wikilink">千葉羅德海洋</a>捕手的場直樹2打席目登場曲[45]</p></td>
 </tr>
 <tr class="even">
 <td><p>《<strong>我的YELL</strong>》</p></td>
@@ -1775,7 +1775,7 @@ CS《AKB48ネ申TV Season 4》前期開頭主題曲<br />
 <td><p>《<strong>無限重播</strong>》</p></td>
 <td><p>廣告：味覚糖株式会社『ぷっちょ×AKB48』「AKB48ちょ」<br />
 CS《AKB48ネ申TV Season 4》後期開頭主題曲<br />
-<a href="../Page/千葉羅德海洋.md" title="wikilink">千葉羅德海洋</a>捕手<a href="../Page/的場直樹.md" title="wikilink">的場直樹</a>1打席目登場曲[47]<br />
+<a href="../Page/千葉羅德海洋.md" title="wikilink">千葉羅德海洋</a>捕手<a href="../Page/的場直樹.md" title="wikilink">的場直樹</a>1打席目登場曲[46]<br />
 廣告：台灣<a href="../Page/統一超商.md" title="wikilink">統一超商</a>『AKB48×Sanrio All-Stars水鑽吊飾系列集點送』</p></td>
 <td><p>第17張單曲《<a href="../Page/無限重播.md" title="wikilink">無限重播</a>》</p></td>
 </tr>
@@ -1813,7 +1813,7 @@ CS《AKB48ネ申TV Season 5》開頭主題曲<br />
 </tr>
 <tr class="even">
 <td><p>《<strong>機會的順序</strong>》</p></td>
-<td><p>NAMCO BANDAI Games《》主題歌[48]<br />
+<td><p>NAMCO BANDAI Games《》主題歌[47]<br />
 CS《AKB48神TV特別節目〜汗與涙的運動祭典〜》・《AKB48神TV特別節目〜項目AKB in 澳門〜》主題曲</p></td>
 <td><p>第19張單曲《<a href="../Page/機會的順序.md" title="wikilink">機會的順序</a>》</p></td>
 </tr>
@@ -1830,18 +1830,18 @@ CS《AKB48神TV特別節目〜汗與涙的運動祭典〜》・《AKB48神TV特�
 </tr>
 <tr class="odd">
 <td><p>《<strong>變成櫻花樹</strong>》</p></td>
-<td><p>AKB48×日本電視台 9夜連續特別電視劇《<a href="../Page/來自櫻花的信_～AKB48_各自的畢業故事～.md" title="wikilink">來自櫻花的信 ～AKB48 各自的畢業故事～</a>》主題歌[49]<br />
+<td><p>AKB48×日本電視台 9夜連續特別電視劇《<a href="../Page/來自櫻花的信_～AKB48_各自的畢業故事～.md" title="wikilink">來自櫻花的信 ～AKB48 各自的畢業故事～</a>》主題歌[48]<br />
 廣告：Serend『AKB48×同級生SNSのセレンド』「つながれ母校選手権」</p></td>
 <td><p>第20張單曲《<a href="../Page/變成櫻花樹.md" title="wikilink">變成櫻花樹</a>》</p></td>
 </tr>
 <tr class="even">
 <td><p>《<strong>偶然的十字路</strong>》</p></td>
-<td><p>廣告：自転車協会「自転車協会認証」[50]</p></td>
+<td><p>廣告：自転車協会「自転車協会認証」[49]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>《<strong></strong>》</p></td>
-<td><p>廣告：京楽産業『』[51]</p></td>
+<td><p>廣告：京楽産業『』[50]</p></td>
 <td><p>彈珠機贈品限定《恋のお縄》</p></td>
 </tr>
 <tr class="even">
@@ -1861,7 +1861,7 @@ CS《AKB48神TV特別節目〜汗與涙的運動祭典〜》・《AKB48神TV特�
 </tr>
 <tr class="odd">
 <td><p>《<strong>Everyday、髮箍</strong>》</p></td>
-<td><p>電影：《<a href="../Page/如果高校棒球女子經理讀了彼得·杜拉克.md" title="wikilink">如果高校棒球女子經理讀了彼得·杜拉克</a>》主題歌[52]</p></td>
+<td><p>電影：《<a href="../Page/如果高校棒球女子經理讀了彼得·杜拉克.md" title="wikilink">如果高校棒球女子經理讀了彼得·杜拉克</a>》主題歌[51]</p></td>
 <td><p>第21張單曲《<a href="../Page/Everyday、髮箍.md" title="wikilink">Everyday、髮箍</a>》</p></td>
 </tr>
 <tr class="even">
@@ -1871,13 +1871,13 @@ CS《AKB48神TV特別節目〜汗與涙的運動祭典〜》・《AKB48神TV特�
 </tr>
 <tr class="odd">
 <td><p>《<strong>鬥魂</strong>》</p></td>
-<td><p>東京電視台電視劇24《馬路須加學園2》片頭曲[53]</p></td>
+<td><p>東京電視台電視劇24《馬路須加學園2》片頭曲[52]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>《<strong>少女們</strong>》</p></td>
-<td><p>電影：《DOCUMENTARY of AKB48 to be continued「10年後、少女たちは今の自分に何を思うのだろう?」》主題歌[54]</p></td>
-<td><p>第3張專輯《<a href="../Page/就是在這裡.md" title="wikilink">就是在這裡</a>》[55]</p></td>
+<td><p>電影：《DOCUMENTARY of AKB48 to be continued「10年後、少女たちは今の自分に何を思うのだろう?」》主題歌[53]</p></td>
+<td><p>第3張專輯《<a href="../Page/就是在這裡.md" title="wikilink">就是在這裡</a>》[54]</p></td>
 </tr>
 <tr class="odd">
 <td><p>《<strong>Overtake</strong>》</p></td>
@@ -1913,7 +1913,7 @@ CS《AKB48神TV Season7》主題曲<br />
 </tr>
 <tr class="even">
 <td><p>《<strong>不知不覺的青春</strong>》</p></td>
-<td><p>東京電視台電視劇24《馬路須加學園2》片尾曲[56]<br />
+<td><p>東京電視台電視劇24《馬路須加學園2》片尾曲[55]<br />
 廣告：<a href="../Page/Groupon.md" title="wikilink">Groupon</a>『GROUPON x AKB48 SKE48 NMB48』「」</p></td>
 <td></td>
 </tr>
@@ -2132,7 +2132,7 @@ AKB48×日本電視台 3夜連續特別劇集『So long !』主題歌</p></td>
 <tr class="even">
 <td><p>《<strong>再见自由式</strong>》</p></td>
 <td><p><a href="../Page/香港.md" title="wikilink">香港</a><a href="../Page/元氣壽司.md" title="wikilink">元氣壽司</a>「大滿足」廣告歌曲<br />
-<a href="../Page/江崎固力果.md" title="wikilink">江崎固力果</a>  「相性診断PaPiCO」篇、「把PaPiCO分成两半」篇 CM歌曲[57]</p></td>
+<a href="../Page/江崎固力果.md" title="wikilink">江崎固力果</a>  「相性診断PaPiCO」篇、「把PaPiCO分成两半」篇 CM歌曲[56]</p></td>
 <td><p>第31張單曲「<a href="https://zh.wikipedia.org/wiki/再见自由式" title="wikilink">再见自由式</a>」</p></td>
 </tr>
 <tr class="odd">
@@ -2228,13 +2228,13 @@ AKB48×日本電視台 3夜連續特別劇集『So long !』主題歌</p></td>
 <tr class="odd">
 <td><p><a href="../Page/Not_yet.md" title="wikilink">Not yet</a></p></td>
 <td><p>大島優子、北原里英、指原莉乃、横山由依</p></td>
-<td><p>2011年3月16日出道[58]，出演<a href="../Page/朝日電視台.md" title="wikilink">朝日電視台</a>週末夜間電視劇《<a href="../Page/Dr.伊良部一郎.md" title="wikilink">Dr.伊良部一郎</a>》並演唱主題曲[59]。全體成員皆隸屬於經紀公司<a href="../Page/太田製作.md" title="wikilink">太田製作</a>旗下。</p></td>
+<td><p>2011年3月16日出道[57]，出演<a href="../Page/朝日電視台.md" title="wikilink">朝日電視台</a>週末夜間電視劇《<a href="../Page/Dr.伊良部一郎.md" title="wikilink">Dr.伊良部一郎</a>》並演唱主題曲[58]。全體成員皆隸屬於經紀公司<a href="../Page/太田製作.md" title="wikilink">太田製作</a>旗下。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/DiVA.md" title="wikilink">DiVA</a></p></td>
 <td><p>秋元才加、梅田彩佳、増田有華、宮澤佐江<br />
 非AKB48成員：井上結菜、粕谷聰子、福野來夢、二見夕貴、古川溫子、山上綾加</p></td>
-<td><p>2011年5月18日發售單曲出道[60]。包括非AKB48的成員在內，全體皆為經紀公司Flave Entertainment（<a href="../Page/Office48.md" title="wikilink">Office48</a>的子公司）旗下藝人。2014年11月30日於幕張展覽館舉辦解散演唱會，組合活動正式畫下句點。</p></td>
+<td><p>2011年5月18日發售單曲出道[59]。包括非AKB48的成員在內，全體皆為經紀公司Flave Entertainment（<a href="../Page/Office48.md" title="wikilink">Office48</a>的子公司）旗下藝人。2014年11月30日於幕張展覽館舉辦解散演唱會，組合活動正式畫下句點。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/小瓢蟲Chu!.md" title="wikilink">小瓢蟲Chu!</a><br />
@@ -2284,8 +2284,8 @@ AKB48×日本電視台 3夜連續特別劇集『So long !』主題歌</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/AKB48乒乓球部" title="wikilink">AKB48乒乓球部</a></p></td>
-<td><p>板野友美、小嶋陽菜、高橋南、峯岸南、宮崎美穂、秋元才加、小野恵令奈和宮澤佐江[61]</p></td>
-<td><p>目的是聲援「<a href="https://zh.wikipedia.org/wiki/2009年世界乒乓球錦標賽" title="wikilink">2009年世界乒乓球錦標賽</a>」的日本代表隊，由秋元才加擔任隊長職務。成員會參與「2009年世界乒乓球錦標賽」的相關節目，以及參加聲援和宣傳等活動。[62]</p></td>
+<td><p>板野友美、小嶋陽菜、高橋南、峯岸南、宮崎美穂、秋元才加、小野恵令奈和宮澤佐江[60]</p></td>
+<td><p>目的是聲援「<a href="https://zh.wikipedia.org/wiki/2009年世界乒乓球錦標賽" title="wikilink">2009年世界乒乓球錦標賽</a>」的日本代表隊，由秋元才加擔任隊長職務。成員會參與「2009年世界乒乓球錦標賽」的相關節目，以及參加聲援和宣傳等活動。[61]</p></td>
 </tr>
 <tr class="even">
 <td><p>讀賣巨人軍創立75周年應援隊</p></td>
@@ -2322,12 +2322,12 @@ AKB48×日本電視台 3夜連續特別劇集『So long !』主題歌</p></td>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/心之羽根#Team_Dragon_from_AKB48" title="wikilink">Team Dragon from AKB48</a></p></td>
 <td><p>小嶋陽菜、高橋南、前田敦子、板野友美、大島優子、柏木由紀和渡辺麻友</p></td>
-<td><p>為動畫《<a href="https://zh.wikipedia.org/wiki/七龍珠" title="wikilink">七龍珠</a>》演唱片尾曲《<a href="../Page/心之羽根.md" title="wikilink">心之羽根</a>》[63]。</p></td>
+<td><p>為動畫《<a href="https://zh.wikipedia.org/wiki/七龍珠" title="wikilink">七龍珠</a>》演唱片尾曲《<a href="../Page/心之羽根.md" title="wikilink">心之羽根</a>》[62]。</p></td>
 </tr>
 <tr class="odd">
 <td><p>AKB桌球部2010（AKB乒乓球部）</p></td>
 <td><p>指原莉乃、高橋南、仲川遥香、大島優子、峯岸南、宮澤佐江、石田晴香、柏木由紀、宮崎美穂和渡邊麻友</p></td>
-<td><p>目的為聲援「<a href="https://zh.wikipedia.org/wiki/2010年世界乒乓球團體錦標賽" title="wikilink">2010年世界乒乓球團體錦標賽</a>」的日本代表隊。成員參與相關節目，以及參加聲援、宣傳等活動，峯岸擔任隊長職務。[64]</p></td>
+<td><p>目的為聲援「<a href="https://zh.wikipedia.org/wiki/2010年世界乒乓球團體錦標賽" title="wikilink">2010年世界乒乓球團體錦標賽</a>」的日本代表隊。成員參與相關節目，以及參加聲援、宣傳等活動，峯岸擔任隊長職務。[63]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/納豆天使Z" title="wikilink">納豆天使Z</a></p></td>
@@ -2337,7 +2337,7 @@ AKB48×日本電視台 3夜連續特別劇集『So long !』主題歌</p></td>
 <tr class="odd">
 <td><p><a href="../Page/迷你裙_(偶像組合).md" title="wikilink">迷你裙</a></p></td>
 <td><p>島田晴香、竹内美宥和森杏奈</p></td>
-<td><p>由Team研究生成員[65]所組成的TOMY公司的限定組合，並主唱《迷你裙的妖精》一曲。</p></td>
+<td><p>由Team研究生成員[64]所組成的TOMY公司的限定組合，並主唱《迷你裙的妖精》一曲。</p></td>
 </tr>
 <tr class="even">
 <td><p>MINT</p></td>
@@ -2357,7 +2357,7 @@ AKB48×日本電視台 3夜連續特別劇集『So long !』主題歌</p></td>
 <tr class="odd">
 <td><p>Team Z</p></td>
 <td><p>倉持明日香、高城亞樹、松原夏海、秋元才加、大島優子、宮澤佐江、米澤瑠美、北原里英、佐藤亞美菜和佐藤夏希、<a href="../Page/SKE48.md" title="wikilink">SKE48</a>（<a href="../Page/平松可奈子.md" title="wikilink">平松可奈子</a>、松井玲奈、<a href="../Page/高柳明音.md" title="wikilink">高柳明音</a>）和<a href="../Page/SDN48.md" title="wikilink">SDN48</a>（<a href="https://zh.wikipedia.org/wiki/穐田和惠" title="wikilink">穐田和惠</a>、大堀恵、佐藤由加理）</p></td>
-<td><p>演唱彈珠機遊戲「」的主題歌《愛之繩》的AKB48姊妹團體的混合組合[66]。</p></td>
+<td><p>演唱彈珠機遊戲「」的主題歌《愛之繩》的AKB48姊妹團體的混合組合[65]。</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -2367,27 +2367,27 @@ AKB48×日本電視台 3夜連續特別劇集『So long !』主題歌</p></td>
 <tr class="odd">
 <td><p>YM7</p></td>
 <td><p>指原莉乃、高城亞樹、河西智美、小森美果、佐藤堇、宮崎美穂和竹内美宥</p></td>
-<td><p>參加「AKB48神保町・護国寺大戦！」的《<a href="../Page/週刊Young_Magazine.md" title="wikilink">週刊Young Magazine</a>》限定組合[67]</p></td>
+<td><p>參加「AKB48神保町・護国寺大戦！」的《<a href="../Page/週刊Young_Magazine.md" title="wikilink">週刊Young Magazine</a>》限定組合[66]</p></td>
 </tr>
 <tr class="even">
 <td><p>YJ7</p></td>
 <td><p>多田愛佳、峯岸南、横山由依、北原里英、佐藤亞美菜、市川美織和山内鈴蘭</p></td>
-<td><p>《<a href="../Page/週刊YOUNG_JUMP.md" title="wikilink">週刊YOUNG JUMP</a>》的新限定組合[68]</p></td>
+<td><p>《<a href="../Page/週刊YOUNG_JUMP.md" title="wikilink">週刊YOUNG JUMP</a>》的新限定組合[67]</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>指原莉乃、高橋南、峯岸南和北原里英</p></td>
-<td><p>參與Hotto Motto廣告演出[69]。</p></td>
+<td><p>參與Hotto Motto廣告演出[68]。</p></td>
 </tr>
 <tr class="even">
 <td><p>丸少爺姐妹</p></td>
 <td><p>阿部瑪利亞、伊豆田莉奈、市川美織、入山杏奈、大場美奈、加藤玲奈、小林茉里奈 、島崎遥香、島田晴香、竹内美宥、永尾瑪利亞、仲俣汐里、中村麻里子、藤田奈那、森杏奈和山内鈴蘭</p></td>
-<td><p>由9期和10期研究生組成，演唱《<a href="../Page/反斗小王子.md" title="wikilink">反斗小王子</a>》第14期片尾曲。[70]</p></td>
+<td><p>由9期和10期研究生組成，演唱《<a href="../Page/反斗小王子.md" title="wikilink">反斗小王子</a>》第14期片尾曲。[69]</p></td>
 </tr>
 <tr class="odd">
 <td><p>AKB桌球部2011</p></td>
-<td><p>高橋南、仲川遥香、梅田彩佳、松井咲子、峯岸南、宮澤佐江、横山由依、柏木由紀和増田有華[71]</p></td>
-<td><p>世界乒乓球2011應援組合。進行支援及PR活動[72]。</p></td>
+<td><p>高橋南、仲川遥香、梅田彩佳、松井咲子、峯岸南、宮澤佐江、横山由依、柏木由紀和増田有華[70]</p></td>
+<td><p>世界乒乓球2011應援組合。進行支援及PR活動[71]。</p></td>
 </tr>
 <tr class="even">
 <td><p>渡辺girls</p></td>
@@ -2414,7 +2414,7 @@ AKB48×日本電視台 3夜連續特別劇集『So long !』主題歌</p></td>
 <tr class="even">
 <td><p>BKA48</p></td>
 <td><p>川榮李奈、高橋南、小嶋陽菜、島崎遙香、峯岸南、指原莉乃、柏木由紀</p></td>
-<td><p>在AKB48集團與<a href="../Page/富士電視台.md" title="wikilink">富士電視台</a>电视节目《<a href="https://zh.wikipedia.org/wiki/帅呆了！" title="wikilink">帅呆了！</a>》共同企畫、於2013年5月18日播出的特集節目“”中分数最低的7位成員為BKA48[73]，及後推出歌曲《<a href="https://zh.wikipedia.org/wiki/再见自由式#Haste和Waste" title="wikilink">Haste和Waste</a>》（）[74]。</p></td>
+<td><p>在AKB48集團與<a href="../Page/富士電視台.md" title="wikilink">富士電視台</a>电视节目《<a href="https://zh.wikipedia.org/wiki/帅呆了！" title="wikilink">帅呆了！</a>》共同企畫、於2013年5月18日播出的特集節目“”中分数最低的7位成員為BKA48[72]，及後推出歌曲《<a href="https://zh.wikipedia.org/wiki/再见自由式#Haste和Waste" title="wikilink">Haste和Waste</a>》（）[73]。</p></td>
 </tr>
 <tr class="odd">
 <td><p>喵KB（）</p></td>
@@ -2456,24 +2456,24 @@ AKB48×日本電視台 3夜連續特別劇集『So long !』主題歌</p></td>
 <li>第52屆日本唱片大獎 - 優秀作品獎（Beginner）</li>
 <li>第17屆保齡球媒體大獎 - 最高獎</li>
 <li>第18屆體育日本文化藝術大獎 - 優秀獎</li>
-<li>2010年度<a href="../Page/好設計獎.md" title="wikilink">好設計獎</a> - 娛樂計劃設計獎[75]</li>
+<li>2010年度<a href="../Page/好設計獎.md" title="wikilink">好設計獎</a> - 娛樂計劃設計獎[74]</li>
 <li>第23屆小學館DIME關注度大獎 - 話題人物獎</li>
 <li><a href="../Page/吉尼斯世界纪录.md" title="wikilink">吉尼斯世界纪录</a>大全認證 - 世界上最多成員的流行團體</li>
 <li>第43屆BEST HIT歌謠祭 - 黃金藝人獎</li>
 <li><a href="https://zh.wikipedia.org/wiki/日本告示牌" title="wikilink">日本告示牌音樂大獎</a> - 優秀流行藝人獎</li>
-<li><a href="../Page/新語、流行語大賞.md" title="wikilink">新語、流行語大賞</a> - TOP 10（「AKB48」）[76]</li>
+<li><a href="../Page/新語、流行語大賞.md" title="wikilink">新語、流行語大賞</a> - TOP 10（「AKB48」）[75]</li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><p><strong>2011</strong></p></td>
 <td style="text-align: left;"><ul>
-<li>第25屆日本金唱片大獎 - 年度最佳單曲銷量獎（Beginner）[77]</li>
+<li>第25屆日本金唱片大獎 - 年度最佳單曲銷量獎（Beginner）[76]</li>
 <li>第53屆日本唱片大獎 - 最高榮譽大獎（飛翔入手）、優秀作品獎</li>
 <li>第44屆<a href="../Page/日本有線大獎.md" title="wikilink">日本有線大獎</a> - 有線音樂優秀賞、特別賞（飛翔入手）</li>
 <li><a href="https://zh.wikipedia.org/wiki/日本告示牌" title="wikilink">日本告示牌音樂大獎</a> - 年度最佳藝人獎、優秀流行藝人獎、Hot 100單曲獎（Everyday、髮箍）、Hot 100年度最暢銷單曲獎（Everyday、髮箍）</li>
 <li>第11屆The Takeshi Kitano Entertainment Awards - 話題獎</li>
 <li>第16屆AMD Award - 優秀獎（AKB48コンセプト）</li>
-<li>FUN OF THE YEAR 2011[78]</li>
+<li>FUN OF THE YEAR 2011[77]</li>
 <li>第11屆彼得武娛樂大獎 - 話題獎</li>
 <li>第1屆日本最適合穿婚紗大獎</li>
 <li><a href="../Page/第70回日劇學院賞.md" title="wikilink">第70回日劇學院賞</a> - 主題曲賞：飛翔入手（《<a href="../Page/花樣少年少女_(2011年電視劇).md" title="wikilink">花樣少年少女</a>》）</li>
@@ -2489,24 +2489,24 @@ AKB48×日本電視台 3夜連續特別劇集『So long !』主題歌</p></td>
 <li><a href="https://zh.wikipedia.org/wiki/日本告示牌" title="wikilink">日本告示牌音樂大獎</a> - 年度最佳藝人獎、優秀流行藝人獎、Hot 100單曲獎（仲夏的Sounds good）、Hot 100年度最暢銷單曲獎（仲夏的Sounds good）</li>
 <li>第11屆<a href="https://zh.wikipedia.org/wiki/CCTV-MTV音樂盛典" title="wikilink">CCTV-MTV音樂盛典</a> - 亞洲年度最受歡迎組合獎</li>
 <li>第14屆Mnet亞洲音樂大獎 - 最佳日本歌手獎</li>
-<li>吉尼斯世界纪录大全認證 - 最多歌手亮相的電子遊戲[79]、24小時以內通過地上電波播出同一商品最多版本的電視廣告[80]</li>
+<li>吉尼斯世界纪录大全認證 - 最多歌手亮相的電子遊戲[78]、24小時以內通過地上電波播出同一商品最多版本的電視廣告[79]</li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><p><strong>2013</strong></p></td>
 <td style="text-align: left;"><ul>
 <li>第1屆音悅V榜年度盛典 - 日本最佳组合獎</li>
-<li>第27屆日本金唱片大獎 - 日本音樂部門年度最佳藝人獎、年度最佳單曲銷量獎（仲夏的Sounds good!）、日本音樂部門年度Best 5專輯銷量獎（<a href="../Page/1830m.md" title="wikilink">1830m</a>）、年度Best 5單曲銷量獎（仲夏的Sounds good!、格子花紋、GIVE ME FIVE!、UZA、崇尚麻里子）[81]</li>
+<li>第27屆日本金唱片大獎 - 日本音樂部門年度最佳藝人獎、年度最佳單曲銷量獎（仲夏的Sounds good!）、日本音樂部門年度Best 5專輯銷量獎（<a href="../Page/1830m.md" title="wikilink">1830m</a>）、年度Best 5單曲銷量獎（仲夏的Sounds good!、格子花紋、GIVE ME FIVE!、UZA、崇尚麻里子）[80]</li>
 <li>第55屆日本唱片大獎 - 優秀作品獎（戀愛的幸運餅乾）</li>
 <li>第46屆日本有線大獎 - 有線音樂優秀獎（戀愛的幸運餅乾）</li>
-<li><a href="https://zh.wikipedia.org/wiki/日本告示牌" title="wikilink">日本告示牌音樂大獎</a> - 年度最佳藝人獎、優秀流行藝人獎、Hot 100單曲獎（戀愛的幸運餅乾）、年度最暢銷單曲獎（再見自由式）[82][83]</li>
+<li><a href="https://zh.wikipedia.org/wiki/日本告示牌" title="wikilink">日本告示牌音樂大獎</a> - 年度最佳藝人獎、優秀流行藝人獎、Hot 100單曲獎（戀愛的幸運餅乾）、年度最暢銷單曲獎（再見自由式）[81][82]</li>
 </ul></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p><strong>2014</strong></p></td>
 <td style="text-align: left;"><ul>
 <li>第2屆音悅V榜年度盛典 - 日本最佳组合獎</li>
-<li>第28屆日本金唱片大獎 - 年度最佳單曲銷量獎（再見自由式）、日本音樂部門年度藝人獎、日本音樂部門單曲下載獎（戀愛的幸運餅乾）、年度Best 5單曲銷量獎（永遠的壓力、戀愛的幸運餅乾、再見自由式、倘若在梧桐樹什麼的）、年度Best 5單曲下載獎（戀愛的幸運餅乾）[84]</li>
+<li>第28屆日本金唱片大獎 - 年度最佳單曲銷量獎（再見自由式）、日本音樂部門年度藝人獎、日本音樂部門單曲下載獎（戀愛的幸運餅乾）、年度Best 5單曲銷量獎（永遠的壓力、戀愛的幸運餅乾、再見自由式、倘若在梧桐樹什麼的）、年度Best 5單曲下載獎（戀愛的幸運餅乾）[83]</li>
 <li>第56屆日本唱片大獎 - 優秀作品獎（拉布拉多獵犬）</li>
 <li>第47屆日本有線大獎 - 有線音樂優秀獎（心意告示牌）</li>
 <li>日本告示牌音樂大獎 - 年度最暢銷單曲獎（拉布拉多獵犬）</li>
@@ -2516,9 +2516,9 @@ AKB48×日本電視台 3夜連續特別劇集『So long !』主題歌</p></td>
 <td style="text-align: left;"><p><strong>2015</strong></p></td>
 <td style="text-align: left;"><ul>
 <li>第3屆音悅V榜年度盛典 - 日本最佳組合獎、日本最具人氣歌手獎</li>
-<li>第29屆日本金唱片大獎 - 日本音樂部門年度最佳專輯銷量獎（未來軌跡）、年度最佳單曲銷量獎（拉布拉多獵犬）、日本音樂部門年度Best 5專輯銷量獎（未來軌跡）、年度Best 5單曲獎（希望無限、心意告示牌、勇往直前、拉布拉多獵犬）[85][86]</li>
+<li>第29屆日本金唱片大獎 - 日本音樂部門年度最佳專輯銷量獎（未來軌跡）、年度最佳單曲銷量獎（拉布拉多獵犬）、日本音樂部門年度Best 5專輯銷量獎（未來軌跡）、年度Best 5單曲獎（希望無限、心意告示牌、勇往直前、拉布拉多獵犬）[84][85]</li>
 <li><p>- 優秀作品獎（<a href="../Page/我們不戰鬥.md" title="wikilink">我們不戰鬥</a>）</p></li>
-<li>第48屆日本有線大獎 - 有線音樂優秀獎（<a href="../Page/紅唇Be_My_Baby.md" title="wikilink">紅唇Be My Baby</a>）[87]</li>
+<li>第48屆日本有線大獎 - 有線音樂優秀獎（<a href="../Page/紅唇Be_My_Baby.md" title="wikilink">紅唇Be My Baby</a>）[86]</li>
 <li>第17屆<a href="../Page/Mnet亞洲音樂大獎.md" title="wikilink">Mnet亞洲音樂大獎</a> - 亞洲藝人獎（日本區）</li>
 </ul></td>
 </tr>
@@ -2542,7 +2542,7 @@ AKB48×日本電視台 3夜連續特別劇集『So long !』主題歌</p></td>
 <!-- end list -->
 
   -
-    在2010年，中國大陸出現了一組名為「AK98」的美少女團體，無論在曲風、服裝、造型等方面都和AKB48有相似之處，因而被一些網民稱為「山寨版AKB48」。AK98發言人其後宣稱他們「根本就不認識AKB48」，更否認抄襲的指責\[88\]。在2011年中國大陸山東衛視的《飞向2011：第五届全球华人网络春晚》\[89\]，也出現了一組由48人組成的少女團隊，用同樣的舞蹈編排，唱出中文版的AKB48名曲《[想見你](https://zh.wikipedia.org/wiki/想見你_\(AKB48單曲\) "wikilink")》，而引起了AKB48歌迷的強烈不滿\[90\]；同年，日本亦出現了名為「YMT56」的男子組合。這群來自[早稻田大學的男大學生分別組成Y隊](https://zh.wikipedia.org/wiki/早稻田大學 "wikilink")、M隊和T隊，主要以惡搞方式模仿AKB48。不僅在網路上爆紅，更有高中女粉絲前去觀賞表演\[91\]\[92\]。
+    在2010年，中國大陸出現了一組名為「AK98」的美少女團體，無論在曲風、服裝、造型等方面都和AKB48有相似之處，因而被一些網民稱為「山寨版AKB48」。AK98發言人其後宣稱他們「根本就不認識AKB48」，更否認抄襲的指責\[87\]。在2011年中國大陸山東衛視的《飞向2011：第五届全球华人网络春晚》\[88\]，也出現了一組由48人組成的少女團隊，用同樣的舞蹈編排，唱出中文版的AKB48名曲《[想見你](https://zh.wikipedia.org/wiki/想見你_\(AKB48單曲\) "wikilink")》，而引起了AKB48歌迷的強烈不滿\[89\]；同年，日本亦出現了名為「YMT56」的男子組合。這群來自[早稻田大學的男大學生分別組成Y隊](https://zh.wikipedia.org/wiki/早稻田大學 "wikilink")、M隊和T隊，主要以惡搞方式模仿AKB48。不僅在網路上爆紅，更有高中女粉絲前去觀賞表演\[90\]\[91\]。
 
 <!-- end list -->
 
@@ -2551,7 +2551,7 @@ AKB48×日本電視台 3夜連續特別劇集『So long !』主題歌</p></td>
 <!-- end list -->
 
   -
-    2012年1月，日本[朝日新聞](../Page/朝日新聞.md "wikilink")報導AKB48成員的照片在日本已經成爲炙手可熱的收集品，甚至已經變成可以用金錢來交換的物品。在[宮城縣](../Page/宮城縣.md "wikilink")的一個AKB48[握手會](../Page/握手會.md "wikilink")活動中，成員柏木由紀的照片可以叫價5萬日圓（約600美元）。同時，售賣AKB48握手會的入場券，也成爲一種有利可圖的行業，價格可以高達19萬日圓（約2300美元）。一張前田敦子的照片更被拍賣網站以23萬日圓高價賣出。然而，在網絡上經常出現一些帶有違法性質的交易，例如要參加AKB48的「個別握手會」，購買者必須提供自己的姓名和住址，以及進入會場時也要以身份證來確認是否是本人。因此，曾出現一些黃牛販賣者把他們的身份證的影印本賣給購買者，或者乾脆在現場把他們的身份證借給購買者。這些違法交易已經受到了日本警方的高度注目，更有一名高中生因這種交易而被捕\[93\]\[94\]。
+    2012年1月，日本[朝日新聞](../Page/朝日新聞.md "wikilink")報導AKB48成員的照片在日本已經成爲炙手可熱的收集品，甚至已經變成可以用金錢來交換的物品。在[宮城縣](../Page/宮城縣.md "wikilink")的一個AKB48[握手會](../Page/握手會.md "wikilink")活動中，成員柏木由紀的照片可以叫價5萬日圓（約600美元）。同時，售賣AKB48握手會的入場券，也成爲一種有利可圖的行業，價格可以高達19萬日圓（約2300美元）。一張前田敦子的照片更被拍賣網站以23萬日圓高價賣出。然而，在網絡上經常出現一些帶有違法性質的交易，例如要參加AKB48的「個別握手會」，購買者必須提供自己的姓名和住址，以及進入會場時也要以身份證來確認是否是本人。因此，曾出現一些黃牛販賣者把他們的身份證的影印本賣給購買者，或者乾脆在現場把他們的身份證借給購買者。這些違法交易已經受到了日本警方的高度注目，更有一名高中生因這種交易而被捕\[92\]\[93\]。
 
 <!-- end list -->
 
@@ -2560,7 +2560,7 @@ AKB48×日本電視台 3夜連續特別劇集『So long !』主題歌</p></td>
 <!-- end list -->
 
   -
-    2014年5月25日，於[岩手縣](https://zh.wikipedia.org/wiki/岩手縣 "wikilink")[瀧澤市](https://zh.wikipedia.org/wiki/瀧澤市 "wikilink")舉辦的[全國握手會中](../Page/握手會.md "wikilink")，發生震驚日本社會的「[AKB48握手會傷人事件](../Page/AKB48握手會傷人事件.md "wikilink")」，在事件中，[川榮李奈](../Page/川榮李奈.md "wikilink")與[入山杏奈](../Page/入山杏奈.md "wikilink")遭遇歹徒以鋸齒狀利刃攻擊，造成了川榮右手拇指骨折與撕裂傷，手臂也被刺傷，而入山則是右手小指骨折與撕裂傷、頭部也有受傷，此外場內也有一名工作人員負傷，犯人當場被逮捕，是AKB48舉辦握手會以來所遭遇最大的安全事故\[95\]\[96\]，原本預定於26日舉行的AKB48 Team 4公演也因此取消\[97\]，劇場總經理茅野忍也於個人Blog上表示未來將會對成員的心理輔導視為最優先考量\[98\]，而川榮與入山經過治療後已於26日出院\[99\]。
+    2014年5月25日，於[岩手縣](https://zh.wikipedia.org/wiki/岩手縣 "wikilink")[瀧澤市](https://zh.wikipedia.org/wiki/瀧澤市 "wikilink")舉辦的[全國握手會中](../Page/握手會.md "wikilink")，發生震驚日本社會的「[AKB48握手會傷人事件](../Page/AKB48握手會傷人事件.md "wikilink")」，在事件中，[川榮李奈](../Page/川榮李奈.md "wikilink")與[入山杏奈](../Page/入山杏奈.md "wikilink")遭遇歹徒以鋸齒狀利刃攻擊，造成了川榮右手拇指骨折與撕裂傷，手臂也被刺傷，而入山則是右手小指骨折與撕裂傷、頭部也有受傷，此外場內也有一名工作人員負傷，犯人當場被逮捕，是AKB48舉辦握手會以來所遭遇最大的安全事故\[94\]\[95\]，原本預定於26日舉行的AKB48 Team 4公演也因此取消\[96\]，劇場總經理茅野忍也於個人Blog上表示未來將會對成員的心理輔導視為最優先考量\[97\]，而川榮與入山經過治療後已於26日出院\[98\]。
 
 ## 相關條目
 
@@ -2676,76 +2676,76 @@ AKB48×日本電視台 3夜連續特別劇集『So long !』主題歌</p></td>
 
 33.
 
-34.
+34. 包括研究生。AKS成立前為[office48](https://zh.wikipedia.org/wiki/office48 "wikilink")。
 
-35. 包括研究生。AKS成立前為[office48](https://zh.wikipedia.org/wiki/office48 "wikilink")。
+35. [Team 8成員不適用移籍制度](https://zh.wikipedia.org/wiki/AKB48#Team_8 "wikilink")。
 
-36. [Team 8成員不適用移籍制度](https://zh.wikipedia.org/wiki/AKB48#Team_8 "wikilink")。
+36. 《AKB48的格子裙經濟學：素人偶像的創意行銷效應》（），著， - ISBN 978-4023308725
 
-37. 《AKB48的格子裙經濟學：素人偶像的創意行銷效應》（），著， - ISBN 978-4023308725
+37. 關於團體經營、以及所有成員個人經紀合約（從他團移籍或兼任者除外），[NMB48](../Page/NMB48.md "wikilink")隸屬於[吉本興業](../Page/吉本興業.md "wikilink")旗下子公司，[STU48](../Page/STU48.md "wikilink")則隸屬於。
 
-38. 關於團體經營、以及所有成員個人經紀合約（從他團移籍或兼任者除外），[NMB48](../Page/NMB48.md "wikilink")隸屬於[吉本興業](../Page/吉本興業.md "wikilink")旗下子公司，[STU48](../Page/STU48.md "wikilink")則隸屬於。
+38. [節目STAFF（TBS官網）](http://www.tbs.co.jp/desuyone/staff/)
 
-39. [節目STAFF（TBS官網）](http://www.tbs.co.jp/desuyone/staff/)
+39. [拯救德尔托拉主題曲CD一覽（愛知電視台官網）](http://www.tv-aichi.co.jp/deltora/special.html)
 
-40. [拯救德尔托拉主題曲CD一覽（愛知電視台官網）](http://www.tv-aichi.co.jp/deltora/special.html)
+40. [選手登場曲（千葉羅德海洋官網）](http://www.marines.co.jp/team/music.php)
 
-41. [選手登場曲（千葉羅德海洋官網）](http://www.marines.co.jp/team/music.php)
-
+41.
 42.
-43.
-44. [馬路須加學園主題曲發售情報（東京電視台官網）](http://www.tv-tokyo.co.jp/majisuka/music/index.html)
+43. [馬路須加學園主題曲發售情報（東京電視台官網）](http://www.tv-tokyo.co.jp/majisuka/music/index.html)
 
+44.
 45.
 46.
-47.
-48. [『AKB1/48 アイドルと恋したら…』主題曲情報（官網）](http://psp-akb48.channel.or.jp/special/)
+47. [『AKB1/48 アイドルと恋したら…』主題曲情報（官網）](http://psp-akb48.channel.or.jp/special/)
 
-49. [『來自櫻花的信 ～AKB48 各自的畢業故事～』主題歌情報（官網）](http://www.ntv.co.jp/akbsakura/music/index.html)
+48. [『來自櫻花的信 ～AKB48 各自的畢業故事～』主題歌情報（官網）](http://www.ntv.co.jp/akbsakura/music/index.html)
 
-50. [AKB48演出的TV-CM「檢查！公開了BAA」篇（自転車協會認証官網）](http://www.baa-bicycle.com/cm/index.html) （2011年3月10日閱覽）
+49. [AKB48演出的TV-CM「檢查！公開了BAA」篇（自転車協會認証官網）](http://www.baa-bicycle.com/cm/index.html) （2011年3月10日閱覽）
 
-51.
-52. [電影版『もしドラ』劇照公布，主題歌決定為AKB48新曲](http://www.cinra.net/news/2011/04/04/211225.php)（2011年4月4日閱覽）
+50.
+51. [電影版『もしドラ』劇照公布，主題歌決定為AKB48新曲](http://www.cinra.net/news/2011/04/04/211225.php)（2011年4月4日閱覽）
 
-53.
-54. [AKB48專輯『就是在這裡』發售日&新單曲&〈總選舉〉抉定](http://tower.jp/article/news/76663)（2011年4月4日閱覽）
+52.
+53. [AKB48專輯『就是在這裡』發售日&新單曲&〈總選舉〉抉定](http://tower.jp/article/news/76663)（2011年4月4日閱覽）
 
-55. 由於更換簽約唱片公司的原因，發行該專輯的唱片公司[King Records官方將此張專輯作爲第三張正式專輯](https://zh.wikipedia.org/wiki/King_Records "wikilink")，但實際是AKB48的第四張專輯。
+54. 由於更換簽約唱片公司的原因，發行該專輯的唱片公司[King Records官方將此張專輯作爲第三張正式專輯](https://zh.wikipedia.org/wiki/King_Records "wikilink")，但實際是AKB48的第四張專輯。
 
-56. [馬路須加學園2主題歌一覽](http://www.tv-tokyo.co.jp/majisuka2/music/index.html)
+55. [馬路須加學園2主題歌一覽](http://www.tv-tokyo.co.jp/majisuka2/music/index.html)
 
-57. CM由島崎、大島優、柏木、高橋南、横山、渡辺麻、篠田、小嶋陽、板野、加藤玲、川榮、北原里出演。
+56. CM由島崎、大島優、柏木、高橋南、横山、渡辺麻、篠田、小嶋陽、板野、加藤玲、川榮、北原里出演。
 
-58. [AKB48大島優子率領的新組合「Not yet」初次亮相決定\!](http://www.oricon.co.jp/news/music/84095/full/)（2011年2月24日閱覽）
+57. [AKB48大島優子率領的新組合「Not yet」初次亮相決定\!](http://www.oricon.co.jp/news/music/84095/full/)（2011年2月24日閱覽）
 
-59. [Dr.伊良部一郎主題歌（朝日官網）](http://www.tv-asahi.co.jp/irabu/music/index.html)
+58. [Dr.伊良部一郎主題歌（朝日官網）](http://www.tv-asahi.co.jp/irabu/music/index.html)
 
-60. 原定4月27日，由於地震原因變更。[AKB48新派生組合・DiVA誕生！ 東京馬拉松跑完全程的秋元才加加入4人組](http://www.oricon.co.jp/news/music/85237/full/)（2011年3月2日閲覧）
+59. 原定4月27日，由於地震原因變更。[AKB48新派生組合・DiVA誕生！ 東京馬拉松跑完全程的秋元才加加入4人組](http://www.oricon.co.jp/news/music/85237/full/)（2011年3月2日閲覧）
 
-61. [AKB48乒乓球部成員一覽（2009年橫濱世界乒乓球錦標賽官網）](http://www.tv-tokyo.co.jp/takkyu_09/akb.html)
+60. [AKB48乒乓球部成員一覽（2009年橫濱世界乒乓球錦標賽官網）](http://www.tv-tokyo.co.jp/takkyu_09/akb.html)
 
-62. [AKB48卓球部、チェックのミニで元気いっぱいPR](http://www.rbbtoday.com/article/2009/04/18/59412.html)（2011年3月14日閱覽）
+61. [AKB48卓球部、チェックのミニで元気いっぱいPR](http://www.rbbtoday.com/article/2009/04/18/59412.html)（2011年3月14日閱覽）
 
-63. [Team Dragon from AKB48官網](http://columbia.jp/teamdragon/)
+62. [Team Dragon from AKB48官網](http://columbia.jp/teamdragon/)
 
-64. [AKB乒乓球部再結成（2010世界乒乓球錦標賽官網）](http://www.tv-tokyo.co.jp/takkyu_10/akb.html)
+63. [AKB乒乓球部再結成（2010世界乒乓球錦標賽官網）](http://www.tv-tokyo.co.jp/takkyu_10/akb.html)
 
-65. [AKB48研究生新組合Miniskirt的首次單獨活動300人](http://career.oricon.co.jp/news/78284/full/) oricon career 2010年7月18日
+64. [AKB48研究生新組合Miniskirt的首次單獨活動300人](http://career.oricon.co.jp/news/78284/full/) oricon career 2010年7月18日
 
-66. [「びっくりぱちんこ 銭形平次 with チームZ」特別先行展示會官方介紹](http://www.kyoraku.co.jp/product_site/2011/zenigataheiji/report/tenjikai.php)（2011年2月8日閱覽）
+65. [「びっくりぱちんこ 銭形平次 with チームZ」特別先行展示會官方介紹](http://www.kyoraku.co.jp/product_site/2011/zenigataheiji/report/tenjikai.php)（2011年2月8日閱覽）
 
-67. 2011年3月7日發行的 [Young Magazine 14號](http://kc.kodansha.co.jp/magazine/index.php/02888/newest/1212)  上發表。
+66. 2011年3月7日發行的 [Young Magazine 14號](http://kc.kodansha.co.jp/magazine/index.php/02888/newest/1212)  上發表。
 
-68. 2011年3月10日發行的 [YOUNG JUMP 15號](http://yj.shueisha.co.jp/history/) 上發表。
+67. 2011年3月10日發行的 [YOUNG JUMP 15號](http://yj.shueisha.co.jp/history/) 上發表。
 
-69. [AKB48×Hotto Motto](http://www.hm-akb48.com/)
+68. [AKB48×Hotto Motto](http://www.hm-akb48.com/)
 
-70. 參照 [反斗小王子STAFF（NHK官網）](http://www3.nhk.or.jp/anime/ojaru/index.html)
+69. 參照 [反斗小王子STAFF（NHK官網）](http://www3.nhk.or.jp/anime/ojaru/index.html)
 
-71. [AKB高橋、峰岸等應援「世界乒乓球」](http://www.asahi.com/showbiz/nikkan/NIK201104140022.html)（2011年4月20日閱覽）
+70. [AKB高橋、峰岸等應援「世界乒乓球」](http://www.asahi.com/showbiz/nikkan/NIK201104140022.html)（2011年4月20日閱覽）
 
-72. [「世界乒乓球」AKB支援！](http://www.sanspo.com/geino/news/110423/gnj1104230501000-n1.htm) （2011年4月25日閱覽）
+71. [「世界乒乓球」AKB支援！](http://www.sanspo.com/geino/news/110423/gnj1104230501000-n1.htm) （2011年4月25日閱覽）
+
+72.
 
 73.
 
@@ -2775,21 +2775,21 @@ AKB48×日本電視台 3夜連續特別劇集『So long !』主題歌</p></td>
 
 86.
 
-87.
+87. [陸「AK98」否認抄襲　稱沒聽過AKB48？](http://www.nownews.com/2011/09/24/91-2744540) www.nownews.com 2011年9月24日
 
-88. [陸「AK98」否認抄襲　稱沒聽過AKB48？](http://www.nownews.com/2011/09/24/91-2744540) www.nownews.com 2011年9月24日
+88.  7:30开始
 
-89.  7:30开始
+89. [偶像團體被山寨　AKB48粉絲氣瘋](http://www.tvbs.com.tw/news/news_list.asp?no=yehmin20110208113520) www.tvbs.com.tw 2011年2月8日
 
-90. [偶像團體被山寨　AKB48粉絲氣瘋](http://www.tvbs.com.tw/news/news_list.asp?no=yehmin20110208113520) www.tvbs.com.tw 2011年2月8日
+90. [男大生組YMT56 「山寨」AKB48](http://www.worldjournal.com/view/full_news/11119074/article-%E7%94%B7%E5%A4%A7%E7%94%9F%E7%B5%84YMT56-%E3%80%8C%E5%B1%B1%E5%AF%A8%E3%80%8DAKB48?instance=news_pics)  www.worldjournal.com 2011年1月26日
 
-91. [男大生組YMT56 「山寨」AKB48](http://www.worldjournal.com/view/full_news/11119074/article-%E7%94%B7%E5%A4%A7%E7%94%9F%E7%B5%84YMT56-%E3%80%8C%E5%B1%B1%E5%AF%A8%E3%80%8DAKB48?instance=news_pics)  www.worldjournal.com 2011年1月26日
+91. [男版AKB48～完全COPY版《YMT56》高學歷男大生也有馬尾與髮圈♥](http://news.gamme.com.tw/186338) news.gamme.com.tw 2011年9月6日
 
-92. [男版AKB48～完全COPY版《YMT56》高學歷男大生也有馬尾與髮圈♥](http://news.gamme.com.tw/186338) news.gamme.com.tw 2011年9月6日
+92. [AKB48 craze spawns questionable cash deals among minors](http://ajw.asahi.com/article/behind_news/social_affairs/AJ201201210003)  Asahi Shimbun January 21, 2012
 
-93. [AKB48 craze spawns questionable cash deals among minors](http://ajw.asahi.com/article/behind_news/social_affairs/AJ201201210003)  Asahi Shimbun January 21, 2012
+93. [AKB熱讓日本學生成黃牛？](http://paper.udn.com/udnpaper/POJ0007/211153/web/) 新鮮日本電子報 2012/02/15
 
-94. [AKB熱讓日本學生成黃牛？](http://paper.udn.com/udnpaper/POJ0007/211153/web/) 新鮮日本電子報 2012/02/15
+94.
 
 95.
 
@@ -2798,5 +2798,3 @@ AKB48×日本電視台 3夜連續特別劇集『So long !』主題歌</p></td>
 97.
 
 98.
-
-99.

@@ -6,7 +6,7 @@
 
   - Yahoo\!Music十大人氣歌曲2008
       - 《I Miss You》 ——[陳柏宇](../Page/陳柏宇.md "wikilink")
-      - 《與蝶同眠》 ——[容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")
+      - 《與蝶同眠》 ——[容祖兒](../Page/容祖兒.md "wikilink")
       - 《下次再見》 ——[古巨基](../Page/古巨基.md "wikilink")
       - 《只要和你在一起》 ——[孫耀威](../Page/孫耀威.md "wikilink")
       - 《三十日》 ——[側田](../Page/側田.md "wikilink")
@@ -56,7 +56,7 @@
   - 國際男歌手
       - [周杰倫](../Page/周杰倫.md "wikilink")
   - 本地女歌手
-      - [容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")
+      - [容祖兒](../Page/容祖兒.md "wikilink")
   - 國際女歌手
       - [楊丞琳](../Page/楊丞琳.md "wikilink")
   - 本地音樂男子組合
@@ -133,7 +133,7 @@
   - 最高人氣星之Video
       - [楊千嬅](../Page/楊千嬅.md "wikilink")
   - 歷年搜尋次數累積最多的人物
-      - [容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")
+      - [容祖兒](../Page/容祖兒.md "wikilink")
 
 ## 參看
 

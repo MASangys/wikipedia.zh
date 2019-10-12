@@ -11,6 +11,8 @@
  #   * Everything from a "#" character to the end of the line is a comment
  #   * Every non-blank line is a regex fragment which will only match hosts inside URL
 
+\btrendysweet\.com\b # 101.78.215.226 59.149.170.77 42.200.207.92
+\binternetpedia\.nctu\.me\b
 \bwww\.ss819\.com\b # 89.187.178.54, 89.187.178.23
 \bwww\.bv885\.com\b
 \bwww\.taoyunhome\.org\b

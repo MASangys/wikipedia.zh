@@ -98,7 +98,7 @@
 
 ## sysop
 
-  - Twinkle\[ResourceLoader|dependencies=mediawiki.user,mediawiki.util,mediawiki.RegExp,mediawiki.notify,jquery.ui.dialog,jquery.tipsy,moment|rights=autoconfirmed|type=general|peers=Twinkle-pagestyles\]|morebits.js|morebits.css|Twinkle.js|friendlytag.js|friendlytalkback.js|twinklearv.js|twinklebatchdelete.js|twinklebatchundelete.js|twinkleblock.js|twinkleclose.js|twinkleconfig.js|twinklecopyvio.js|twinkledelimages.js|twinklediff.js|twinklefluff.js|twinkleimage.js|twinkleprotect.js|twinklespeedy.js|twinkleunlink.js|twinklewarn.js|twinklexfd.js|Twinkle.css
+  - Twinkle\[ResourceLoader|dependencies=mediawiki.user,mediawiki.util,mediawiki.notify,jquery.ui.dialog,jquery.tipsy,moment|rights=autoconfirmed|type=general|peers=Twinkle-pagestyles\]|morebits.js|morebits.css|Twinkle.js|friendlytag.js|friendlytalkback.js|twinklearv.js|twinklebatchdelete.js|twinklebatchundelete.js|twinkleblock.js|twinkleclose.js|twinkleconfig.js|twinklecopyvio.js|twinkledelimages.js|twinklediff.js|twinklefluff.js|twinkleimage.js|twinkleprotect.js|twinklespeedy.js|twinkleunlink.js|twinklewarn.js|twinklexfd.js|Twinkle.css
   - Twinkle-pagestyles\[hidden|skins=vector\]|Twinkle-pagestyles.css
   - PatrollCount\[ResourceLoader|rights=patrol|dependencies=ext.gadget.site-lib\]|PatrollCount.js
   - rollback-summary\[ResourceLoader|rights=rollback\]|rollback-summary.js

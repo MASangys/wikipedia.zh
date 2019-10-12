@@ -1,10 +1,10 @@
-**AKABEiSOFT2**是位於[日本](../Page/日本.md "wikilink")[福岡縣](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")[福岡市](../Page/福岡市.md "wikilink")的[成人遊戲製作公司](https://zh.wikipedia.org/wiki/成人遊戲 "wikilink")，旗下有、、、曉WORKS黑的品牌，和的姊妹品牌、、。
+**AKABEiSOFT2**是位於[日本](../Page/日本.md "wikilink")[福岡縣](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")[福岡市](../Page/福岡市.md "wikilink")的[成人遊戲公司](../Page/日本成人遊戲.md "wikilink")，於2005年成立，公司前身為[同人團體](../Page/同人_\(ACG\).md "wikilink")「AKABEiSOFT」（）。
 
 ## 歷史
 
-AKABEiSOFT2的前身是創作[同人誌](../Page/同人誌.md "wikilink")及[同人遊戲](../Page/同人遊戲.md "wikilink")的團體「**AKABEiSOFT**」（），作品多有《[校園迷糊大王](../Page/校園迷糊大王.md "wikilink")》的[戲仿](https://zh.wikipedia.org/wiki/戲仿 "wikilink")。2004年冬季，把[一次和](https://zh.wikipedia.org/wiki/原創 "wikilink")[二次創作](../Page/二次創作.md "wikilink")物的發行分別分拆為「**AKABEiSOFT**」和「****」，翌年把前者[法人](../Page/法人.md "wikilink")化，社名登記為「有限公司AKABEiSOFT2」，品牌名稱則為「（一樣的意思和讀法）」。伴隨法人化，同人團體的「AKABEiSOFT」合併至「有葉與愉快的夥伴們」，而負責原畫的有葉（）則自成個人團體，亦結束開發同人遊戲，同人創作只剩下同人誌方面。[社內公司株式會社エフォルダム於](../Page/分公司制.md "wikilink")2014年4月16日解散。\[1\]
+AKABEiSOFT2的前身是創作[同人誌](../Page/同人誌.md "wikilink")及[同人遊戲](../Page/同人遊戲.md "wikilink")的團體「AKABEiSOFT」，作品多有《[校園迷糊大王](../Page/校園迷糊大王.md "wikilink")》的[戲仿](https://zh.wikipedia.org/wiki/戲仿 "wikilink")。2004年冬季，把[一次和](https://zh.wikipedia.org/wiki/原創 "wikilink")[二次創作](../Page/二次創作.md "wikilink")物的發行分別分拆為「AKABEiSOFT」和「」，翌年把前者[法人](../Page/法人.md "wikilink")化，社名登記為「AKABEiSOFT2有限公司」，品牌名稱則為「（一樣的意思和讀法）」。伴隨法人化，同人團體的「AKABEiSOFT」合併至「有葉與愉快的夥伴們」，而負責原畫的有葉（）則自成個人團體，亦結束開發同人遊戲，同人創作只剩下同人誌方面。
 
-2019年3月31日AKABEiSOFT2宣布承接[Greenwood公司旗下的遊戲品牌](https://zh.wikipedia.org/wiki/light_\(遊戲品牌\) "wikilink")「Campus」之後的遊戲發行與網頁營運\[2\]\[3\]。
+2012年由於公司旗下品牌過多，因此將數個品牌統合至「AKABEiSOFT3」（）\[1\]，「曉WORKS-響-」改名為「hibiki」。 [社內公司エフォルダム於](../Page/分公司制.md "wikilink")2014年4月16日解散\[2\]，該公司旗下品牌的部分遊戲轉移至AKABEiSOFT3。2016年在成人遊戲業界中首次導入[Denuvo](../Page/Denuvo.md "wikilink")，但是在遊戲《》發售兩天後就宣告遭到破解\[3\]。2019年3月31日AKABEiSOFT2宣布承接[Greenwood公司旗下的遊戲品牌](https://zh.wikipedia.org/wiki/light_\(遊戲品牌\) "wikilink")「Campus」之後的遊戲發行與網頁營運\[4\]\[5\]。
 
 ## 作品列表
 
@@ -87,7 +87,7 @@ AKABEiSOFT2的前身是創作[同人誌](../Page/同人誌.md "wikilink")及[同
 <tr class="even">
 <td><p>2 FD</p></td>
 <td><p>2007年1月26日</p></td>
-<td><p><strong></strong>[4]</p></td>
+<td><p><strong></strong>[6]</p></td>
 <td><p>るーすぼーい</p></td>
 <td><p>車輪之國，悠久的少年少女</p></td>
 <td></td>
@@ -135,7 +135,7 @@ AKABEiSOFT2的前身是創作[同人誌](../Page/同人誌.md "wikilink")及[同
 <tr class="even">
 <td><p>7 FD</p></td>
 <td><p>2009年9月24日</p></td>
-<td><p><strong></strong>[5]</p></td>
+<td><p><strong></strong>[7]</p></td>
 <td><p>W.L.O.世界戀愛機構L.L.S. -LOVE LOVE SHOW-</p></td>
 <td></td>
 <td></td>
@@ -167,7 +167,7 @@ AKABEiSOFT2的前身是創作[同人誌](../Page/同人誌.md "wikilink")及[同
 <tr class="even">
 <td><p>8 FD</p></td>
 <td><p>2011年11月25日</p></td>
-<td><p><strong></strong>[6]</p></td>
+<td><p><strong></strong>[8]</p></td>
 <td><p>有葉、ikki</p></td>
 <td><p>健速</p></td>
 <td></td>
@@ -277,7 +277,6 @@ AKABEiSOFT2的前身是創作[同人誌](../Page/同人誌.md "wikilink")及[同
   - 2014年6月27日 -
   - 2015年7月24日 -
   - 2016年10月28日 -
-  - 2017年預定 -
 
 ### スペルマニアックス
 
@@ -285,11 +284,13 @@ AKABEiSOFT2的前身是創作[同人誌](../Page/同人誌.md "wikilink")及[同
 
 ### あかべぇそふとすりぃ
 
+あかべぇそふとつぅTRY、しゃんぐりら、しゃんぐりらすまーと、曉WORKS黑、WHEEL、スペルマニアックス、エフォルダム旗下的部分遊戲統合改由あかべぇそふとすりぃ發售。
+
   - 2012年6月29日 -
   - 2012年7月27日 -
   - 2014年2月28日 -
   - 2014年8月29日 - [できない私が、くり返す。](https://zh.wikipedia.org/wiki/できない私が、くり返す。 "wikilink")
-  - 2015年9月18日 - [聖騎士 Melty☆Lovers](https://zh.wikipedia.org/wiki/聖騎士_Melty☆Lovers "wikilink")
+  - 2015年9月18日 - [聖騎士 Melty☆Lovers](../Page/聖騎士_Melty☆Lovers.md "wikilink")
   - 2015年12月11日 -
   - 2016年1月29日 -
   - 2016年3月25日 -
@@ -468,20 +469,18 @@ AKABEiSOFT2的姊妹品牌。
 
 ## 外部連結
 
-**需年齡確認**
-
-  - [官方網站](https://web.archive.org/web/20090228211628/http://www.akabeesoft2.com/)　
-  - [官方網站](http://www.syangrila.com/)
-  - [暁WORKS :: WEB SITE](https://web.archive.org/web/20080525070915/http://www.akatsukiworks.com/)
+  - [AKABEiSOFT2官方網站](http://www.akabeesoft2.com/)
   - [同人團體「有葉與愉快的夥伴們HP」](https://web.archive.org/web/20081217115302/http://home.att.ne.jp/omega/akabeisoft/)（包括AKABEiSOFT）
   - [原畫擔當有葉個人網站「It buds.」](https://web.archive.org/web/20081201074551/http://home.att.ne.jp/omega/akabeisoft/alpha/index.html)
   - [原画擔當友瀨俊作網站「無限軌道」](http://mugenkidou.sakura.ne.jp/)
 
-[Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink") [Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink") [Category:福岡縣公司](https://zh.wikipedia.org/wiki/Category:福岡縣公司 "wikilink")
+[Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink") [Category:福岡縣公司](https://zh.wikipedia.org/wiki/Category:福岡縣公司 "wikilink") [Category:2005年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2005年開業電子遊戲公司 "wikilink")
 
 1.
 2.
 3.
-4.  同人展（[Comic Market](../Page/Comic_Market.md "wikilink")）・廠商限定商品。
-5.  同人展（[Comic Market](../Page/Comic_Market.md "wikilink")）・廠商限定商品。
+4.
+5.
 6.  同人展（[Comic Market](../Page/Comic_Market.md "wikilink")）・廠商限定商品。
+7.  同人展（[Comic Market](../Page/Comic_Market.md "wikilink")）・廠商限定商品。
+8.  同人展（[Comic Market](../Page/Comic_Market.md "wikilink")）・廠商限定商品。

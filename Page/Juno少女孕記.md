@@ -276,7 +276,7 @@
 
 2008年3月，犀牛娱乐公司宣布推出《朱诺》的第2张电影原声带专辑唱片，该唱片只会通过数字方式发行，其中将包含有15首之前有考虑用在电影中但最终未能入选的歌曲。这15曲歌曲中除了同样有之前提到的金雅·道森、巴瑞·路易斯·波利萨、贝尔与塞贝斯蒂安、巴迪·霍利的作品外，还有许多其他音乐人或乐队的作品，另外还有电影女主角-{zh-cn:埃伦;zh-hk:愛倫;zh-tw:艾倫;}-演唱的由迪亚波罗·科蒂写入了剧本中但在最终剪辑时被删除了的歌曲“Zub Zub”\[170\]。犀牛娱乐公司还于2008年11月25日发行了本片原声带的“豪华版”，其中除了之前的两张专辑中的全部内容外，还附有导演杰森在电影拍摄过程中所绘制的电影故事图板以及一些笔记\[171\]。
 
-### 曲目列表
+### 曲目
 
 1.  \- 巴瑞·路易斯·波利萨
 
@@ -325,6 +325,7 @@
   -
   -
   -
+{{-}}
 
 [Category:2007年電影](https://zh.wikipedia.org/wiki/Category:2007年電影 "wikilink") [Category:2000年代喜劇片](https://zh.wikipedia.org/wiki/Category:2000年代喜劇片 "wikilink") [Category:美國獨立電影](https://zh.wikipedia.org/wiki/Category:美國獨立電影 "wikilink") [Category:中学背景电影](https://zh.wikipedia.org/wiki/Category:中学背景电影 "wikilink") [Category:美國青少年喜劇片](https://zh.wikipedia.org/wiki/Category:美國青少年喜劇片 "wikilink") [Category:明尼蘇達州背景電影](https://zh.wikipedia.org/wiki/Category:明尼蘇達州背景電影 "wikilink") [Category:溫哥華取景電影](https://zh.wikipedia.org/wiki/Category:溫哥華取景電影 "wikilink") [Category:福斯探照灯影业电影](https://zh.wikipedia.org/wiki/Category:福斯探照灯影业电影 "wikilink") [Category:奧斯卡最佳原創劇本獲獎電影](https://zh.wikipedia.org/wiki/Category:奧斯卡最佳原創劇本獲獎電影 "wikilink") [Category:未成年懷孕題材電影](https://zh.wikipedia.org/wiki/Category:未成年懷孕題材電影 "wikilink") [Category:英語電影](https://zh.wikipedia.org/wiki/Category:英語電影 "wikilink") [Category:杰森·瑞特曼电影](https://zh.wikipedia.org/wiki/Category:杰森·瑞特曼电影 "wikilink") [Category:独立精神奖最佳影片](https://zh.wikipedia.org/wiki/Category:独立精神奖最佳影片 "wikilink")
 

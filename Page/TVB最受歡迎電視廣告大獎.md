@@ -146,28 +146,28 @@
 
 ### 2008年
 
-| 獎項                  | 獲奬                                                                                                                    |
-| ------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| 最受歡迎電視廣告－飲食餐宴       | [益力多](../Page/益力多.md "wikilink")-重逢篇                                                                                  |
-| 最受歡迎電視廣告－潮流服飾及美容    | [Rejoice](https://zh.wikipedia.org/wiki/Rejoice "wikilink")-出奇順滑絲綢篇                                                   |
-| 最受歡迎電視廣告－財富投資       | [EPS](../Page/EPS.md "wikilink") Easy Cash-軟硬合拍篇                                                                      |
-| 最受歡迎電視廣告－樓宇地產       | [星匯居](../Page/星匯居.md "wikilink")-回家篇                                                                                  |
-| 最受歡迎電視廣告－家品生活       | [Tempo](https://zh.wikipedia.org/wiki/Tempo "wikilink")-婚外情篇                                                          |
-| 最受歡迎電視廣告－消閒、時尚及品味   | [海洋公園](../Page/香港海洋公園.md "wikilink")[十月全城哈囉喂](https://zh.wikipedia.org/wiki/萬聖夜 "wikilink")-鬼叫你篇                      |
-| 最受歡迎電視廣告－電訊、運輸及公共設施 | [聯邦快遞](../Page/聯邦快遞.md "wikilink")-中國方言篇                                                                              |
-| 最受歡迎電視廣告－綜合類別       | 1-Day ACUVUE 散光鏡-認錯男朋友篇                                                                                               |
-| 最受歡迎電視廣告－資訊系列       | [九巴](../Page/九龍巴士.md "wikilink")-乘客之道                                                                                 |
-| 最受歡迎電視廣告－系列廣告       | [香港寬頻](https://zh.wikipedia.org/wiki/香港寬頻 "wikilink")-擠塞篇/貝爾篇/蟻哥篇                                                     |
-| 最受歡迎男主角－明星及名人       | [道地](https://zh.wikipedia.org/wiki/道地 "wikilink")-極品煎茶-[劉德華](../Page/劉德華.md "wikilink")                               |
-| 最受歡迎男主角－廣告演員        | [麥當勞](https://zh.wikipedia.org/wiki/麥當勞 "wikilink")-員工篇-[黃文禹](https://zh.wikipedia.org/wiki/黃文禹 "wikilink")           |
-| 最受歡迎女主角－明星及名人       | [麥當勞Shake](https://zh.wikipedia.org/wiki/麥當勞 "wikilink") Shake 薯條-[容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink") |
-| 最受歡迎女主角－廣告演員        | 1-Day ACUVUE 散光鏡 認錯男朋友篇-[李慧思](../Page/李慧思.md "wikilink")                                                              |
-| 最受歡迎電視廣告歌曲          | [香港鐵路有限公司](https://zh.wikipedia.org/wiki/香港鐵路有限公司 "wikilink") [兩鐵合併](../Page/兩鐵合併.md "wikilink") 一路帶動生活               |
-| 最受歡迎電視廣告標語          | [麥當勞](https://zh.wikipedia.org/wiki/麥當勞 "wikilink") 這一刻更加親「麥」I'm lovin it                                             |
-| 726票王大獎             | [海洋公園](../Page/香港海洋公園.md "wikilink")[十月全城哈囉喂](https://zh.wikipedia.org/wiki/萬聖夜 "wikilink")-鬼叫你篇                      |
-| 電視廣告創意投放獎           | [雅居樂](https://zh.wikipedia.org/wiki/雅居樂 "wikilink")                                                                   |
-| 最具創意大獎              | [香港寬頻](https://zh.wikipedia.org/wiki/香港寬頻 "wikilink")-擠塞篇/貝爾篇/蟻哥篇                                                     |
-| 榮譽大獎                | [益力多](../Page/益力多.md "wikilink")-重逢篇                                                                                  |
+| 獎項                  | 獲奬                                                                                                          |
+| ------------------- | ----------------------------------------------------------------------------------------------------------- |
+| 最受歡迎電視廣告－飲食餐宴       | [益力多](../Page/益力多.md "wikilink")-重逢篇                                                                        |
+| 最受歡迎電視廣告－潮流服飾及美容    | [Rejoice](https://zh.wikipedia.org/wiki/Rejoice "wikilink")-出奇順滑絲綢篇                                         |
+| 最受歡迎電視廣告－財富投資       | [EPS](../Page/EPS.md "wikilink") Easy Cash-軟硬合拍篇                                                            |
+| 最受歡迎電視廣告－樓宇地產       | [星匯居](../Page/星匯居.md "wikilink")-回家篇                                                                        |
+| 最受歡迎電視廣告－家品生活       | [Tempo](https://zh.wikipedia.org/wiki/Tempo "wikilink")-婚外情篇                                                |
+| 最受歡迎電視廣告－消閒、時尚及品味   | [海洋公園](../Page/香港海洋公園.md "wikilink")[十月全城哈囉喂](https://zh.wikipedia.org/wiki/萬聖夜 "wikilink")-鬼叫你篇            |
+| 最受歡迎電視廣告－電訊、運輸及公共設施 | [聯邦快遞](../Page/聯邦快遞.md "wikilink")-中國方言篇                                                                    |
+| 最受歡迎電視廣告－綜合類別       | 1-Day ACUVUE 散光鏡-認錯男朋友篇                                                                                     |
+| 最受歡迎電視廣告－資訊系列       | [九巴](../Page/九龍巴士.md "wikilink")-乘客之道                                                                       |
+| 最受歡迎電視廣告－系列廣告       | [香港寬頻](https://zh.wikipedia.org/wiki/香港寬頻 "wikilink")-擠塞篇/貝爾篇/蟻哥篇                                           |
+| 最受歡迎男主角－明星及名人       | [道地](https://zh.wikipedia.org/wiki/道地 "wikilink")-極品煎茶-[劉德華](../Page/劉德華.md "wikilink")                     |
+| 最受歡迎男主角－廣告演員        | [麥當勞](https://zh.wikipedia.org/wiki/麥當勞 "wikilink")-員工篇-[黃文禹](https://zh.wikipedia.org/wiki/黃文禹 "wikilink") |
+| 最受歡迎女主角－明星及名人       | [麥當勞Shake](https://zh.wikipedia.org/wiki/麥當勞 "wikilink") Shake 薯條-[容祖兒](../Page/容祖兒.md "wikilink")          |
+| 最受歡迎女主角－廣告演員        | 1-Day ACUVUE 散光鏡 認錯男朋友篇-[李慧思](../Page/李慧思.md "wikilink")                                                    |
+| 最受歡迎電視廣告歌曲          | [香港鐵路有限公司](https://zh.wikipedia.org/wiki/香港鐵路有限公司 "wikilink") [兩鐵合併](../Page/兩鐵合併.md "wikilink") 一路帶動生活     |
+| 最受歡迎電視廣告標語          | [麥當勞](https://zh.wikipedia.org/wiki/麥當勞 "wikilink") 這一刻更加親「麥」I'm lovin it                                   |
+| 726票王大獎             | [海洋公園](../Page/香港海洋公園.md "wikilink")[十月全城哈囉喂](https://zh.wikipedia.org/wiki/萬聖夜 "wikilink")-鬼叫你篇            |
+| 電視廣告創意投放獎           | [雅居樂](https://zh.wikipedia.org/wiki/雅居樂 "wikilink")                                                         |
+| 最具創意大獎              | [香港寬頻](https://zh.wikipedia.org/wiki/香港寬頻 "wikilink")-擠塞篇/貝爾篇/蟻哥篇                                           |
+| 榮譽大獎                | [益力多](../Page/益力多.md "wikilink")-重逢篇                                                                        |
 
 ### 2009年
 

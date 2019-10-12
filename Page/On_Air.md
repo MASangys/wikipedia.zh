@@ -366,7 +366,7 @@
   - 第4集 ：[金民俊](https://zh.wikipedia.org/wiki/金民俊 "wikilink")、（冒牌演藝經紀公司騙子）
   - 第5集 ：[姜惠貞](../Page/姜惠貞.md "wikilink")、[嚴智媛](https://zh.wikipedia.org/wiki/嚴智媛 "wikilink")
   - 第9集 ：[李瑞鎮](../Page/李瑞鎮.md "wikilink")
-  - 第11集：[宋昶義](https://zh.wikipedia.org/wiki/宋昶義 "wikilink")
+  - 第11集：[宋昶義](https://zh.wikipedia.org/wiki/宋昶義 "wikilink")、[金玉彬](../Page/金玉彬.md "wikilink")
   - 第12集：[姜惠貞](../Page/姜惠貞.md "wikilink")
   - 第13集：
   - 第14集：[申東旭](../Page/申東旭.md "wikilink")

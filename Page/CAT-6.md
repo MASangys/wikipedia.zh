@@ -2,9 +2,9 @@
 
 與部份[TIA標準的線材同是以四對雙絞線組成](https://zh.wikipedia.org/wiki/TIA "wikilink")，而根據ANSI/TIA-568-B.2-1內的標準，CAT-6線的線徑可由22[AWG至](https://zh.wikipedia.org/wiki/AWG "wikilink")24AWG，比CAT-5線的規格更有彈性。
 
-## Category 6a
+## Category 6A
 
-為增強雙絞線的傳輸能力，[TIA於](https://zh.wikipedia.org/wiki/TIA "wikilink")2008年2月發表的ANSI/TIA/EIA-568-B.2-10中，列明**CAT-6a**（或稱**Augmented Category 6**，而Augmented是指增強）的傳輸[頻率可高達](https://zh.wikipedia.org/wiki/頻率 "wikilink")500 MHz，是CAT-6線的兩倍。並且在100米內，提供10GBASE-T的萬兆乙太網。
+為增強雙絞線的傳輸能力，[TIA於](https://zh.wikipedia.org/wiki/TIA "wikilink")2018年9月發表的 ANSI/TIA-568.2-D中，列明**Cat.6A**（或稱**Augmented Category 6**，而Augmented是指增強）的傳輸[頻率可高達](https://zh.wikipedia.org/wiki/頻率 "wikilink")500 MHz，是Cat.6線的兩倍。並且在100米內，提供10GBASE-T的萬兆乙太網。
 
 ## 連接插頭與其他資訊
 

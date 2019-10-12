@@ -1,4 +1,4 @@
-**Super Dash文庫**（）是[集英社](../Page/集英社.md "wikilink")在2007年7月成立的[輕小說](../Page/輕小說.md "wikilink")文庫系列。繼承同社在2001年4月休刊的[Super Fantasy文庫的路線](https://zh.wikipedia.org/wiki/Super_Fantasy文庫 "wikilink")，同時出版[學園小說以及鬧劇類等有明顯輕小說色彩的作品](https://zh.wikipedia.org/wiki/學園小說 "wikilink")。
+**Super Dash文庫**（）是[集英社](../Page/集英社.md "wikilink")在2007年7月成立的[輕小說](../Page/輕小說.md "wikilink")文庫系列。繼承同社在2001年4月休刊的[Super Fantasy文庫的路線](https://zh.wikipedia.org/wiki/Super_Fantasy文庫 "wikilink")，同時出版[學園小說以及喜劇類等有明顯輕小說色彩的作品](https://zh.wikipedia.org/wiki/學園小說 "wikilink")。2014年（平成26年）10月24日發行最後作品後已事實上廢止，由同年11月21日新設立[Dash X文庫](https://zh.wikipedia.org/wiki/Dash_X文庫 "wikilink")（）取代。
 
 ## 簡介
 
@@ -60,4 +60,4 @@
 
   - [集英社Super Dash文庫](http://dash.shueisha.co.jp/)
 
-[Category:集英社](https://zh.wikipedia.org/wiki/Category:集英社 "wikilink") [Category:Super_Dash文庫](https://zh.wikipedia.org/wiki/Category:Super_Dash文庫 "wikilink")
+[Category:集英社](https://zh.wikipedia.org/wiki/Category:集英社 "wikilink") [Category:Super_Dash文庫](https://zh.wikipedia.org/wiki/Category:Super_Dash文庫 "wikilink") [Category:2007年日本建立](https://zh.wikipedia.org/wiki/Category:2007年日本建立 "wikilink") [Category:2014年日本廢除](https://zh.wikipedia.org/wiki/Category:2014年日本廢除 "wikilink") [Category:2014年停刊的出版物](https://zh.wikipedia.org/wiki/Category:2014年停刊的出版物 "wikilink")

@@ -15,12 +15,12 @@
 [Category:自由系統軟體](https://zh.wikipedia.org/wiki/Category:自由系統軟體 "wikilink") [Category:Linux軟件](https://zh.wikipedia.org/wiki/Category:Linux軟件 "wikilink")
 
 1.  [Conky homepage](http://conky.sourceforge.net/) on [SourceForge.net](https://zh.wikipedia.org/wiki/SourceForge.net "wikilink")
-2.  [Expert's guide to configuring Conky](http://www.linux.com/feature/136147) by Dmitri Popov on [Linux.com](../Page/Linux.com.md "wikilink")
+2.  [Expert's guide to configuring Conky](http://www.linux.com/feature/136147)  by Dmitri Popov on [Linux.com](../Page/Linux.com.md "wikilink")
 3.  [Conky: highly configurable system monitor for X](http://debaday.debian.net/2007/09/02/conky-highly-configurable-system-monitor-for-x/) by Casey Stamper on Debian.net
 4.  [GKrellM vs. Conky](http://blog.kickino.org/archives/2006/09/25/T23_09_45/)  by Sebastian Wieseler
 5.  [Conky documentation](http://conky.sourceforge.net/docs.html)
 6.  [conky](https://web.archive.org/web/20090723025730/http://my.opera.com/mulander/blog/show.dml/403237) review by mulander
-7.  [CLI Magic: Lightweight Conky is a system monitor powerhouse](http://www.linux.com/articles/56931) by Shashank Sharma on [Linux.com](../Page/Linux.com.md "wikilink")
+7.  [CLI Magic: Lightweight Conky is a system monitor powerhouse](http://www.linux.com/articles/56931)  by Shashank Sharma on [Linux.com](../Page/Linux.com.md "wikilink")
 8.  [Post your .conkyrc files w/ screenshots](http://ubuntuforums.org/showthread.php?p=1645914)
 9.  [Conky scripts](http://gnome-look.org/content/show.php/Conky+scripts?content=52896)
 10. [Conky Gmail Revisited](http://ubuntuforums.org/showthread.php?p=4219577)

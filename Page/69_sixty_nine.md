@@ -50,7 +50,7 @@
   - 美術：[種田陽平](../Page/種田陽平.md "wikilink")
   - 錄音：[柿澤潔](https://zh.wikipedia.org/wiki/柿澤潔 "wikilink")
   - 剪接：[今井剛](https://zh.wikipedia.org/wiki/今井剛 "wikilink")
-  - 副導演：[武正晴](https://zh.wikipedia.org/wiki/武正晴 "wikilink")
+  - 副導演：[武正晴](../Page/武正晴.md "wikilink")
   - 製作：[東映](../Page/東映.md "wikilink")，[テレビ朝日](https://zh.wikipedia.org/wiki/テレビ朝日 "wikilink")，[TOKYO FM](https://zh.wikipedia.org/wiki/TOKYO_FM "wikilink")，[WOWOW](../Page/WOWOW.md "wikilink")，[朝日放送](../Page/朝日放送.md "wikilink")，[Horipro](../Page/Horipro.md "wikilink")，[S.D.P 朝日新聞社](https://zh.wikipedia.org/wiki/S.D.P_朝日新聞社 "wikilink")，[長崎文化放送](https://zh.wikipedia.org/wiki/長崎文化放送 "wikilink")
   - 發行：[東映](../Page/東映.md "wikilink")
 

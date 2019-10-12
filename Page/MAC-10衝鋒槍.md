@@ -70,7 +70,7 @@ BXP是一枝由[南非](https://zh.wikipedia.org/wiki/南非 "wikilink")[米切�
 
 #### 帕特里亞衝鋒槍
 
-帕特里亞衝鋒槍（；Pistola，意為：槍械；Ametralladora，意為：機槍；Patria，意為：祖國）是一枝英格拉姆MAC-10封閉仿製版本的衝鋒槍，並且配有類似南非[BXP衝鋒槍](../Page/BXP衝鋒槍.md "wikilink")的和延伸槍管。\[16\]這枝衝鋒槍是由[阿根廷空軍](../Page/阿根廷空軍.md "wikilink")[路易斯·里卡多·達維拉](https://zh.wikipedia.org/wiki/路易斯·里卡多·達維拉 "wikilink")[少校](../Page/少校.md "wikilink")研製，並在1980年8月20日得到國家專利n° 220494/5/6/7。它發射[9毫米鲁格弹](../Page/9×19mm魯格彈.md "wikilink")，以便運輸，並可以在左右兩手操作。
+帕特里亞衝鋒槍（；Pistola，意為：槍械；Ametralladora，意為：機槍；Patria，意為：祖國）是一枝英格拉姆MAC-10封閉仿製版本的衝鋒槍，並且配有類似南非[BXP衝鋒槍](../Page/BXP衝鋒槍.md "wikilink")的[槍管隔熱罩和延伸槍管](https://zh.wikipedia.org/wiki/槍管罩筒 "wikilink")。\[16\]這枝衝鋒槍是由[阿根廷空軍](../Page/阿根廷空軍.md "wikilink")[路易斯·里卡多·達維拉](https://zh.wikipedia.org/wiki/路易斯·里卡多·達維拉 "wikilink")[少校](../Page/少校.md "wikilink")研製，並在1980年8月20日得到國家專利n° 220494/5/6/7。它發射[9毫米鲁格弹](../Page/9×19mm魯格彈.md "wikilink")，以便運輸，並可以在左右兩手操作。
 
 #### Enarm衝鋒槍
 

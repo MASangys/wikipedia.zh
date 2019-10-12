@@ -6,7 +6,7 @@
   - 第一张没有使用任何收录歌曲名字的单曲。
   - 全碟4首歌皆為主打歌。
   - 4曲皆以「[天空](../Page/天空.md "wikilink")」為主題
-  - 單曲名稱「**STARCAMP EP**」的由來為：因為是第17張單曲，取[塔羅牌](../Page/塔羅牌.md "wikilink")中第17張牌「星 (**STAR**)」，以及同樣思想的人所組成的「陣營 (**CAMP**)」。「[EP](https://zh.wikipedia.org/wiki/EP "wikilink")」則是因為總共四首歌。
+  - 單曲名稱「**STARCAMP EP**」的由來為：因為是第17張單曲，取[塔羅牌](../Page/塔羅牌.md "wikilink")中第17張牌「星星 (**THE STAR**)」，以及同樣思想的人所組成的「陣營 (**CAMP**)」。「[EP](https://zh.wikipedia.org/wiki/EP "wikilink")」則是因為總共四首歌。
 
 ## 收錄曲
 

@@ -80,7 +80,7 @@ Pacman也被移植到[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")
 
 ## 参见
 
-  - [高级包装工具](https://zh.wikipedia.org/wiki/高级包装工具 "wikilink")
+  - [APT](../Page/APT.md "wikilink")
   - [Yum](../Page/Yellowdog_Updater,_Modified.md "wikilink")
   - [ZYpp](../Page/ZYpp.md "wikilink")
 

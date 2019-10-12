@@ -44,7 +44,7 @@
 | 最大扭力 (Nm / rpm)   | 340/2000 | 230/3250 | 250/2750 | 315/2750 | 580/1750 | 390/3500 |
 | 0-100 km/h 加速 (秒) | 8.7      | 9.1      | 7.9      | 6.6      | 6.4      | 6.2      |
 
-### F10/F11（2010-201ˊ）
+### F10/F11（2010-2016）
 
 [BMW_F11_535i_Touring.JPG](https://zh.wikipedia.org/wiki/File:BMW_F11_535i_Touring.JPG "fig:BMW_F11_535i_Touring.JPG") 於2011年推出的第六代5系列，除了有常規轎車和旅行車外，另增設[BMW 5系列 GT](../Page/BMW_5系列_GT.md "wikilink")(F07)。
 

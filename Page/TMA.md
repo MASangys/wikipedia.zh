@@ -1,4 +1,4 @@
-**TMA**（）是[日本](../Page/日本.md "wikilink")一家[成人视频制造商](https://zh.wikipedia.org/wiki/成人视频制造商 "wikilink")。
+**TMA**（）是[日本](../Page/日本.md "wikilink")一家[色情片製作公司](../Page/色情片製作公司.md "wikilink")。
 
 ## 公司简介
 

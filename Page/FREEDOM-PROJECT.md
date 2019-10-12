@@ -1,8 +1,8 @@
-**FREEDOM-PROJECT**（自由計劃）是[日清食品](../Page/日清食品.md "wikilink")的[合味道](../Page/合味道.md "wikilink")[杯麵與漫畫家](https://zh.wikipedia.org/wiki/杯麵 "wikilink")[大友克洋](../Page/大友克洋.md "wikilink")合作的宣傳計劃，主要製作電視廣告、OVA及輕小說等。
+**FREEDOM-PROJECT**（自由計劃）是[日清食品](../Page/日清食品.md "wikilink")的[合味道](../Page/合味道.md "wikilink")[杯麵](../Page/杯麵.md "wikilink")與漫畫家[大友克洋](../Page/大友克洋.md "wikilink")合作的宣傳計劃，主要製作電視廣告、OVA及輕小說等。
 
 ## 概要
 
-本計劃的世界舞台是以[日清食品](../Page/日清食品.md "wikilink")的[合味道](../Page/合味道.md "wikilink")[杯麵與](https://zh.wikipedia.org/wiki/杯麵 "wikilink")[大友克洋](../Page/大友克洋.md "wikilink")的「FREEDOM：自由」為主題，拍攝全10支的廣告系列，並製作全6集+1集後續篇的OVA動畫。動畫會先在Yahoo\!動畫上作網上播放，其後會以標題「**FREEDOM**」作DVD發售。。
+本計劃的世界舞台是以[日清食品](../Page/日清食品.md "wikilink")的[合味道](../Page/合味道.md "wikilink")[杯麵](../Page/杯麵.md "wikilink")與[大友克洋](../Page/大友克洋.md "wikilink")的「FREEDOM：自由」為主題，拍攝全10支的廣告系列，並製作全6集+1集後續篇的OVA動畫。動畫會先在Yahoo\!動畫上作網上播放，其後會以標題「**FREEDOM**」作DVD發售。。
 
   - 口號：「FREEDOM 抓緊自由。」
   - 動畫制作：[日昇動畫](../Page/日昇動畫.md "wikilink")

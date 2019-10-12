@@ -9,7 +9,7 @@
 这个公式遵循以下特性：
 
   - 如果\(g(n)\)为0，即只计算任意顶点\(n\)到目标的评估函数\(h(n)\)，而不计算起点到顶点\(n\)的距离，则算法转化为使用贪心策略的，速度最快，但可能得不出最优解；
-  - 如果\(h(n)\)不大于顶点\(n\)到目標頂點的實際距離，则一定可以求出最优解，而且\(h(n)\)越小，需要计算的节点越多，算法效率越低，常见的评估函数有——[欧几里得距离](https://zh.wikipedia.org/wiki/欧几里得距离 "wikilink")、[曼哈顿距离](https://zh.wikipedia.org/wiki/曼哈顿距离 "wikilink")、[切比雪夫距离](../Page/切比雪夫距离.md "wikilink")；
+  - 如果\(h(n)\)不大于顶点\(n\)到目標[頂點的實際距離](../Page/顶点_\(图论\).md "wikilink")，则一定可以求出最优解，而且\(h(n)\)越小，需要计算的节点越多，算法效率越低，常见的评估函数有——[欧几里得距离](https://zh.wikipedia.org/wiki/欧几里得距离 "wikilink")、[曼哈顿距离](https://zh.wikipedia.org/wiki/曼哈顿距离 "wikilink")、[切比雪夫距离](../Page/切比雪夫距离.md "wikilink")；
   - 如果\(h(n)\)为0，即只需求出起点到任意顶点\(n\)的最短路径\(g(n)\)，而不计算任何评估函数\(h(n)\)，则转化为[单源最短路径问题](https://zh.wikipedia.org/wiki/单源最短路径 "wikilink")，即[Dijkstra算法](https://zh.wikipedia.org/wiki/Dijkstra算法 "wikilink")，此时需要计算最多的顶点；
 
 ## 虛擬碼

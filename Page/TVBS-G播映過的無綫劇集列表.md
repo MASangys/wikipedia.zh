@@ -78,7 +78,7 @@
 <tr class="even">
 <td><p>12月17日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/新鮮人" title="wikilink">新鮮人</a>（被遺忘的天使）</p></td>
-<td><p><a href="../Page/林保怡.md" title="wikilink">林保怡</a>、<a href="../Page/馮德倫.md" title="wikilink">馮德倫</a>、<a href="../Page/吳美珩.md" title="wikilink">吳美珩</a>、<a href="https://zh.wikipedia.org/wiki/容祖兒" title="wikilink">容祖兒</a>、<a href="../Page/徐子淇.md" title="wikilink">徐子淇</a><br />
+<td><p><a href="../Page/林保怡.md" title="wikilink">林保怡</a>、<a href="../Page/馮德倫.md" title="wikilink">馮德倫</a>、<a href="../Page/吳美珩.md" title="wikilink">吳美珩</a>、<a href="../Page/容祖兒.md" title="wikilink">容祖兒</a>、<a href="../Page/徐子淇.md" title="wikilink">徐子淇</a><br />
 <a href="../Page/蒙嘉慧.md" title="wikilink">蒙嘉慧</a>、<a href="../Page/關海山.md" title="wikilink">關海山</a></p></td>
 </tr>
 <tr class="odd">

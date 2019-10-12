@@ -1845,7 +1845,7 @@
 </p></td>
 <td style="text-align: center;"><p>21</p></td>
 <td style="text-align: center;"><p><a href="../Page/全智賢.md" title="wikilink">全智賢</a>、<a href="../Page/金秀賢_(男演員).md" title="wikilink">金秀賢</a>、<a href="../Page/劉寅娜.md" title="wikilink">劉寅娜</a>、<a href="../Page/朴海鎮.md" title="wikilink">朴海鎮</a></p></td>
-<td style="text-align: center;"><p><a href="../Page/張太侑.md" title="wikilink">張太侑</a>、<a href="https://zh.wikipedia.org/wiki/吳忠煥" title="wikilink">吳忠煥</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/張太侑.md" title="wikilink">張太侑</a>、<a href="../Page/吳忠煥.md" title="wikilink">吳忠煥</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/朴智恩_(編劇).md" title="wikilink">朴智恩</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -2093,7 +2093,7 @@
 <td style="text-align: center;"><p><a href="../Page/回來吧大叔.md" title="wikilink">回來吧大叔</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/鄭智薰" title="wikilink">鄭智薰</a>、<a href="../Page/金吝勸.md" title="wikilink">金吝勸</a>、<a href="../Page/金秀路.md" title="wikilink">金秀路</a>、<a href="../Page/吳漣序.md" title="wikilink">吳漣序</a>、<a href="../Page/李珉廷.md" title="wikilink">李珉廷</a>、<a href="https://zh.wikipedia.org/wiki/李荷妮" title="wikilink">李荷妮</a>、<a href="../Page/崔元英.md" title="wikilink">崔元英</a>、<a href="../Page/尹博.md" title="wikilink">尹博</a>、<a href="../Page/柳和榮.md" title="wikilink">柳和榮</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/鄭智薰" title="wikilink">鄭智薰</a>、<a href="../Page/金吝勸.md" title="wikilink">金吝勸</a>、<a href="../Page/金秀路.md" title="wikilink">金秀路</a>、<a href="../Page/吳漣序.md" title="wikilink">吳漣序</a>、<a href="../Page/李珉廷.md" title="wikilink">李珉廷</a>、<a href="../Page/李荷妮.md" title="wikilink">李荷妮</a>、<a href="../Page/崔元英.md" title="wikilink">崔元英</a>、<a href="../Page/尹博.md" title="wikilink">尹博</a>、<a href="../Page/柳和榮.md" title="wikilink">柳和榮</a></p></td>
 <td style="text-align: center;"><p>|<a href="https://zh.wikipedia.org/wiki/申允燮" title="wikilink">申允燮</a>、<a href="https://zh.wikipedia.org/wiki/李南哲" title="wikilink">李南哲</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/盧惠英" title="wikilink">盧惠英</a>、<a href="https://zh.wikipedia.org/wiki/玄珠妍" title="wikilink">玄珠妍</a></p></td>
 <td style="text-align: center;"><p>原作：<a href="https://zh.wikipedia.org/wiki/淺田次郎" title="wikilink">淺田次郎</a>《<a href="../Page/椿山課長之七日間.md" title="wikilink">椿山課長之七日間</a>》</p></td>
@@ -2225,7 +2225,7 @@
 </p></td>
 <td style="text-align: center;"><p>32</p></td>
 <td style="text-align: center;"><p><a href="../Page/李鍾碩.md" title="wikilink">李鍾碩</a>、<a href="https://zh.wikipedia.org/wiki/裴秀智" title="wikilink">裴秀智</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/吳忠煥" title="wikilink">吳忠煥</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/吳忠煥.md" title="wikilink">吳忠煥</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/朴惠蓮.md" title="wikilink">朴惠蓮</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/ONE_TV_ASIA" title="wikilink">Sony One与韩国同步播出</a></p></td>
 <td style="text-align: center;"></td>
@@ -2418,7 +2418,7 @@
 <td style="text-align: center;"><p>2019年9月18日－<br />
 2019年11月</p></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"><p>-{<a href="https://zh.wikipedia.org/wiki/Secret_Boutique" title="wikilink">Secret Boutique</a>}-<br />
+<td style="text-align: center;"><p>-{<a href="../Page/Secret_Boutique.md" title="wikilink">Secret Boutique</a>}-<br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/金宣兒.md" title="wikilink">金宣兒</a>、<a href="../Page/金宰英.md" title="wikilink">金宰英</a></p></td>

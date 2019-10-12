@@ -36,7 +36,7 @@ PDCA循环也用来指导思维模式的建立。丰田汽车经常引用的一�
 
 ## 相关条目
 
-  - [AIDMA](https://zh.wikipedia.org/wiki/AIDMA "wikilink")
+  - [AIDMA](../Page/AIDMA.md "wikilink")
 
   - [AISAS](https://zh.wikipedia.org/wiki/AISAS "wikilink")
 

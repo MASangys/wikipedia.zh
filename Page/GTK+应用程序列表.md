@@ -47,7 +47,7 @@
 
   - – 簡單屏幕保護配置
 
-  - [Alacarte](https://zh.wikipedia.org/wiki/Alacarte "wikilink") – 選單編輯器
+  - [Alacarte](../Page/Alacarte.md "wikilink") – 選單編輯器
 
 ### 用戶工具
 

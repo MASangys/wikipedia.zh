@@ -68,7 +68,7 @@ ICOCA的名稱源於IC Operating CArd的簡稱，音近日語中的[近畿方言
   - **[Kitaca](../Page/Kitaca.md "wikilink")**－[北海道旅客鐵道](../Page/北海道旅客鐵道.md "wikilink")（JR北海道）
   - **[manaca](https://zh.wikipedia.org/wiki/manaca "wikilink")**－名古屋的民間鐵路、公共汽車業者
 
-自2013年3月23日起，以上智慧卡可互相利用 \[3\]
+自2013年3月23日起，以上智慧卡可互相利用\[3\]。
 
 ## 非交通用途的應用
 

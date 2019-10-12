@@ -6,6 +6,7 @@ TVQ九州放送的最大股東為[日本經濟新聞社](https://zh.wikipedia.or
 
 ## 沿革
 
+  - 1986年，東京電視台與日本經濟新聞已有計劃在九州設立新電視台。
   - 1990年6月18日，「TXN九州」籌備處取得電視台籌備許可。
   - 1990年9月1日，「株式會社TXN九州」成立，簡稱TVQ。
   - 1991年4月1日，TXN九州開播，簡稱TVQ，頻道位置為[UHF第](https://zh.wikipedia.org/wiki/UHF "wikilink")19頻道。
@@ -15,6 +16,7 @@ TVQ九州放送的最大股東為[日本經濟新聞社](https://zh.wikipedia.or
   - 2009年1月12日，TVQ九州放送的類比電視頻道開始顯示頻道標誌。
   - 2010年8月1日，TVQ九州放送的無線數位電視（含[1seg](../Page/1seg.md "wikilink")）頻道開始顯示[浮水印](https://zh.wikipedia.org/wiki/浮水印 "wikilink")。
   - 2010年10月1日，TVQ九州放送全名改為「株式會社TVQ九州放送」，仍然簡稱TVQ。
+  - 2011年7月24日，TVQ九州放送終止模擬廣播；當中，模擬電視頻道在停波前，以舊版本的收播片段結束。
 
 ## 參見
 
@@ -26,4 +28,4 @@ TVQ九州放送的最大股東為[日本經濟新聞社](https://zh.wikipedia.or
   - [TVQ Web Site](http://www.tvq.co.jp/)
   - [エリアマップ](https://web.archive.org/web/20070928001616/http://www.c-direct.ne.jp/tvtokyo/jpn/media/img/tvq.gif)
 
-[Category:1990年成立的电视台或电视频道](https://zh.wikipedia.org/wiki/Category:1990年成立的电视台或电视频道 "wikilink") [Category:日本電視台](https://zh.wikipedia.org/wiki/Category:日本電視台 "wikilink") [Category:東京電視網](https://zh.wikipedia.org/wiki/Category:東京電視網 "wikilink")
+[Category:1990年成立的电视台或电视频道](https://zh.wikipedia.org/wiki/Category:1990年成立的电视台或电视频道 "wikilink") [Category:日本電視台](https://zh.wikipedia.org/wiki/Category:日本電視台 "wikilink") [Category:東京電視網](https://zh.wikipedia.org/wiki/Category:東京電視網 "wikilink") [Category:日本經濟新聞](https://zh.wikipedia.org/wiki/Category:日本經濟新聞 "wikilink")

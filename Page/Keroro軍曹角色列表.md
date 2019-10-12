@@ -198,7 +198,7 @@
 
 <!-- end list -->
 
-  - **小白貓**(變成人類)〔 　配音：日本：[谷井明日香](../Page/谷井明日香.md "wikilink")；台灣：[龍顯蕙](../Page/龍顯蕙.md "wikilink")；香港：[鄭麗麗](../Page/鄭麗麗.md "wikilink")）
+  - **小白貓**(變成人類)〔　（） 　配音：日本：[谷井明日香](../Page/谷井明日香.md "wikilink") 代役：[小暮英麻](../Page/小暮英麻.md "wikilink")(242集)；台灣：[龍顯蕙](../Page/龍顯蕙.md "wikilink")；香港：[鄭麗麗](../Page/鄭麗麗.md "wikilink")）
 
 <!-- end list -->
 
@@ -327,7 +327,7 @@
 
 <!-- end list -->
 
-  - **Nyororo**（　配音：[籐原啟治](https://zh.wikipedia.org/wiki/籐原啟治 "wikilink")）
+  - **Nyororo**（　配音：[藤原啟治](../Page/藤原啟治.md "wikilink")）
 
 <!-- end list -->
 
@@ -543,7 +543,7 @@
 
 <!-- end list -->
 
-  - **URAMIMARS**（配音：[千葉繁](../Page/千葉繁.md "wikilink")）
+  - **Uramimāsu**（配音：[千葉繁](../Page/千葉繁.md "wikilink")）
 
 <!-- end list -->
 
@@ -552,21 +552,26 @@
 
 <!-- end list -->
 
-  - **九條冥**（配音：[荒木香惠](https://zh.wikipedia.org/wiki/荒木香惠 "wikilink")；台灣：[龍顯蕙](../Page/龍顯蕙.md "wikilink")；香港：[何璐怡](../Page/何璐怡.md "wikilink")）
+  - **九條冥**（くじょう めい　配音：日本：[荒木香惠](https://zh.wikipedia.org/wiki/荒木香惠 "wikilink")；台灣：[龍顯蕙](../Page/龍顯蕙.md "wikilink")；香港：[何璐怡](../Page/何璐怡.md "wikilink")）
 
 <!-- end list -->
 
   -
-    [冥王星](../Page/冥王星.md "wikilink")人，真名不詳，仰賴地球人對冥王星的思念程度生存。由於冥王星於[2006年8月24日被地球人從](https://zh.wikipedia.org/wiki/2006年8月24日 "wikilink")[太陽系](https://zh.wikipedia.org/wiki/太陽系 "wikilink")[行星](../Page/行星.md "wikilink")的行列中除名，冥王星人開始消失。為了拯救族人，九條冥到地球盡力宣傳冥王星，可惜最終仍舊失敗，並且完全消散，於動畫版ZZZ咚咚咚縮經過冥王星時和卡隆又出現在冥王星上為自己星球宣傳，似乎是因為冬樹的思念讓其能留存。
+    [冥王星](../Page/冥王星.md "wikilink")人，真名不詳，仰賴地球人對冥王星的思念程度生存。由於冥王星於[2006年8月24日被地球人從](https://zh.wikipedia.org/wiki/2006年8月24日 "wikilink")[太陽系](https://zh.wikipedia.org/wiki/太陽系 "wikilink")[行星](../Page/行星.md "wikilink")的行列中除名，冥王星人開始消失。為了拯救族人，九條冥到地球盡力宣傳冥王星，可惜最終仍舊失敗，並且完全消散。
+    於動畫版ZZZ咚咚咚縮經過冥王星時和卡隆又出現在冥王星上為自己星球宣傳，似乎是因為冬樹的思念讓其能留存。
 
 <!-- end list -->
 
-  - **卡隆**
+  - **卡隆**（カロン**　**配音：日本：**[藤原啟志](../Page/藤原啟治.md "wikilink")**）
 
 <!-- end list -->
 
   -
-    九條冥的寵物，能夠變身為貌似[渣古的多面鏡生物](https://zh.wikipedia.org/wiki/渣古 "wikilink")。試圖以製造混亂的方式，讓地球人記得冥王星。最後和九條冥完全消散。於動畫版ZZZ咚咚咚縮經過冥王星時和九條冥又出現在冥王星上為自己星球宣傳，似乎是因為冬樹的思念讓其能留存。名字取自冥王星的衛星[卡戎](https://zh.wikipedia.org/wiki/卡戎 "wikilink")。
+    九條冥的寵物，常態為外型像迴旋鏢的生物。最終型態為貌似[渣古的多面鏡生物](https://zh.wikipedia.org/wiki/渣古 "wikilink")，並以小型多面鏡衛星來進行攻擊。
+    試圖以製造混亂的方式，讓地球人記得冥王星。
+    最後在遭Giroro及Dororo施予最後一擊前和九條冥完全消散。
+    於動畫版ZZZ咚咚咚縮經過冥王星時和九條冥又出現在冥王星上為自己星球宣傳，似乎是因為冬樹的思念讓其能留存。
+    名字取自冥王星的衛星[卡戎](https://zh.wikipedia.org/wiki/卡戎 "wikilink")。
 
 <!-- end list -->
 

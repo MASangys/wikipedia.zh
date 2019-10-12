@@ -33,7 +33,7 @@ Google文件支援多用户协同工作。文档可以同时被多个用户共�
 
 ## 安全
 
-除了Google账户登录界面默认强制使用[SSL加密连接外](https://zh.wikipedia.org/wiki/SSL "wikilink")，Google文件亦默认适用[加密的](https://zh.wikipedia.org/wiki/加密 "wikilink")[HTTPS链接](https://zh.wikipedia.org/wiki/HTTPS "wikilink")。
+除了Google账户登录界面默认强制使用[SSL加密连接外](https://zh.wikipedia.org/wiki/SSL "wikilink")，Google文件亦默认适用[加密](../Page/加密.md "wikilink")的[HTTPS链接](https://zh.wikipedia.org/wiki/HTTPS "wikilink")。
 
 随着越来越多的用户使用统一的[Google帐户](https://zh.wikipedia.org/wiki/Google帐户 "wikilink")，敏感文件的保密性也逐渐受到更广泛的关注。统一认证在提供一些便利的同时，也意味着对于安全性的一些威胁，例如无需再次密码校验便可访问Google文件。
 

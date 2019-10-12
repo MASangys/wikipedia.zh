@@ -8,7 +8,7 @@
 
 ### RoadShow至尊歌曲
 
-1.  《逃》 ──[容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")
+1.  《逃》 ──[容祖兒](../Page/容祖兒.md "wikilink")
 2.  《化》 ──[楊千嬅](../Page/楊千嬅.md "wikilink")
 3.  《男人KTV》 ──[側田](../Page/側田.md "wikilink")
 4.  《電燈膽》 ──[鄧麗欣](../Page/鄧麗欣.md "wikilink")
@@ -118,11 +118,11 @@
 
 ### RoadShow至尊華語女歌手
 
-  - [容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")
+  - [容祖兒](../Page/容祖兒.md "wikilink")
 
 ### RoadShow至尊華語金曲
 
-  - 《小小》 ──[容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")
+  - 《小小》 ──[容祖兒](../Page/容祖兒.md "wikilink")
 
 ## RoadShow至尊男歌手
 
@@ -134,7 +134,7 @@
 
   - [楊千華](https://zh.wikipedia.org/wiki/楊千華 "wikilink")
   - [何韻詩](https://zh.wikipedia.org/wiki/何韻詩 "wikilink")
-  - [容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")
+  - [容祖兒](../Page/容祖兒.md "wikilink")
 
 ## RoadShow至尊組合樂隊
 

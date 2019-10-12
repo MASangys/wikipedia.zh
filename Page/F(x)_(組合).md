@@ -210,7 +210,7 @@ LineData =
 
 <!-- end list -->
 
-  - 單曲
+  - 單曲专辑
 
 <!-- end list -->
 

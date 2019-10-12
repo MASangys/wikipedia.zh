@@ -24,7 +24,7 @@ Astro 小太阳主要播放儿童节目，主题包括亲子、益智和学习�
   - William
   - 镇藩
   - 晓青
-  - [王雪晶](https://zh.wikipedia.org/wiki/王雪晶 "wikilink")
+  - [王雪晶](../Page/王雪晶.md "wikilink")
   - 林一心
   - [李永升](../Page/李永升.md "wikilink")
   - 许佳麟（Danny哥哥）
@@ -39,7 +39,9 @@ Astro 小太阳主要播放儿童节目，主题包括亲子、益智和学习�
 ## 外部链接
 
   -
-  - [Astro小太阳的官方网站](http://www.xuan.com.my/channels/xty.aspx)
+  - [Astro小太阳的官方节目表](https://whatson.astro.com.my/channels/astro-xiao-tai-yang/49/?cat=kids&lang=chinese&stb=325)（英文）
+
+  - [Astro小太阳的官方网站](http://www.xuan.com.my/channels/xty.aspx)（已停止更新）
 
 [Category:Astro](https://zh.wikipedia.org/wiki/Category:Astro "wikilink") [Category:馬來西亞電視台](https://zh.wikipedia.org/wiki/Category:馬來西亞電視台 "wikilink")
 

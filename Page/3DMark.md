@@ -16,7 +16,7 @@
 
 ### 3DMark2001
 
-發佈於2001年3月12日，是第三代的3DMark,同時是一個版本支援DirectX 8的關鍵功能（如頂點和像素著色器）。
+發佈於2001年3月12日，是第三代的3DMark,同時是一個版本支援DirectX 8的關鍵功能（如[頂點和像素著色器](../Page/頂點_\(電腦圖學\).md "wikilink")）。
 
 ### 3DMark2001 SE
 
@@ -35,7 +35,7 @@
       - GT2: Battle of Proxycon - SM1.1 vertex shaders / SM1.4 or 1.1 pixel shaders / stencil shadows
       - GT3: Trolls' Lair - SM1.1 vertex shaders / SM1.4 or 1.1 pixel shaders / stencil shadows
       - GT4: Mother Nature - SM1.x and SM2.0 vertex and pixel shaders
-  - 2個CPU測試 - 低版本的GT1和GT4，使用軟件頂點著色單元，以提升CPU的負載
+  - 2個CPU測試 - 低版本的GT1和GT4，使用軟件[頂點著色單元](../Page/頂點_\(電腦圖學\).md "wikilink")，以提升CPU的負載
   - 4個功能測試:
       - Single and multi-texturing fill rate - fixed function rendering
       - Vertex shader - SM1.1 vertex and pixel shaders

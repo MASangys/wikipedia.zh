@@ -844,7 +844,7 @@
 
 <!-- end list -->
 
-  - [牧野良樹](https://zh.wikipedia.org/wiki/永野椎菜 "wikilink")（藝名永野椎菜，音樂組合[TWO-MIX](https://zh.wikipedia.org/wiki/TWO-MIX "wikilink")（與[高山南](../Page/高山南.md "wikilink")組成）的男性成員。於1992年曾經投入聲優活動）
+  - [牧野良樹](../Page/永野椎菜.md "wikilink")（藝名永野椎菜，音樂組合[TWO-MIX](https://zh.wikipedia.org/wiki/TWO-MIX "wikilink")（與[高山南](../Page/高山南.md "wikilink")組成）的男性成員。於1992年曾經投入聲優活動）
 
   -
   -

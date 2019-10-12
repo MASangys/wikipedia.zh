@@ -381,7 +381,7 @@
 <tr class="even">
 <td><p><span style="display:none">Mark</span><a href="https://zh.wikipedia.org/wiki/Pope_Mark" title="wikilink">Pope Mark</a></p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/教宗马尔谷" title="wikilink">教宗马尔谷</a></p></td>
+<td><p><a href="../Page/教宗马尔谷.md" title="wikilink">教宗马尔谷</a></p></td>
 <td><p> </p></td>
 <td><p> </p></td>
 <td><p>336</p></td>

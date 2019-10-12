@@ -53,8 +53,9 @@ ufotable是由出身於[Telecom Animation Film](https://zh.wikipedia.org/wiki/Te
   - [劇場版 空之境界 未來福音](../Page/空之境界.md "wikilink")（2013年）
       - [劇場版 空之境界 未來福音 extra chorus](../Page/空之境界.md "wikilink")（2013年）
   - [小魔法姐妹優優與寧寧](https://zh.wikipedia.org/wiki/詛咒屋姐妹#劇場版 "wikilink")（2013年）
-  - [劇場版 Fate/stay night \[Heaven's Feel](https://zh.wikipedia.org/wiki/Fate/stay_night_Heaven's_Feel "wikilink")\] 第1章 presage flower（2017年）
-  - 劇場版 Fate/stay night \[Heaven's Feel\] 第2章 lost butterfly（2019年）
+  - 劇場版 [Fate/stay night \[Heaven's Feel](https://zh.wikipedia.org/wiki/Fate/stay_night_Heaven's_Feel "wikilink")\] 全三章（2017年－）
+      - 第1章 presage flower（2017年）
+      - 第2章 lost butterfly（2019年）
 
 ### 协助制作动画
 
@@ -89,7 +90,7 @@ ufotable是由出身於[Telecom Animation Film](https://zh.wikipedia.org/wiki/Te
 
 <!-- end list -->
 
-  - ポケットモンスター (OVA)（委託公司：OLM Team Koitabashi，動畫，2007年）
+  - [精灵宝可梦 起源](../Page/精靈寶可夢_THE_ORIGIN.md "wikilink")（委託公司：OLM Team Koitabashi，動畫，2007年）
   - [ARIA 〜ARIETTA〜](https://zh.wikipedia.org/wiki/ARIA#OVA（ARIA_The_OVA_〜ARIETTA〜） "wikilink")（委託公司：[Hal Film Maker](https://zh.wikipedia.org/wiki/Hal_Film_Maker "wikilink")，動畫，2007年）
   - [電波系彼女](../Page/電波系彼女.md "wikilink")（委託公司：[Brain's Base](../Page/Brain's_Base.md "wikilink")，動畫，2009年）
   - [名偵探柯南 十年後的陌生人](https://zh.wikipedia.org/wiki/名偵探柯南動畫集數列表#OVA "wikilink")（委託公司：東京ムービー，動畫，2009年）
@@ -110,7 +111,7 @@ ufotable是由出身於[Telecom Animation Film](https://zh.wikipedia.org/wiki/Te
 
   - [福音戰士新劇場版：序](../Page/福音戰士新劇場版：序.md "wikilink")（委託公司：[Khara](../Page/Khara.md "wikilink")，2007年）
 
-  - （委託公司：[BONES](../Page/BONES_\(動畫製作公司\).md "wikilink")，第二原畫，2007年）
+  - [異邦人 無皇刃譚](../Page/異邦人_無皇刃譚.md "wikilink")（委託公司：[BONES](../Page/BONES_\(動畫製作公司\).md "wikilink")，第二原畫，2007年）
 
   - （委託公司：TMS娛樂，動畫，2008年）
 

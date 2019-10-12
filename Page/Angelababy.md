@@ -54,8 +54,6 @@ Angelababy自從影以來，演技均受到不少爭議，甚至被冠以「爛�
 
 2016年，Angelababy憑藉電影《[尋龍訣](https://zh.wikipedia.org/wiki/尋龍訣 "wikilink")》榮獲[百花奖](../Page/百花奖.md "wikilink")最佳女配角，結果一出後卻引來了不少爭議\[56\] ，部分網友認為Angelababy在劇中毫無表情，不配奪得這項殊榮。亦有部分網友認為Angelababy會獲奖只是因為其粉絲比別人多而已，沒有演技可言。\[57\]
 
-但在2018年，與當紅男演員[鄧倫](https://zh.wikipedia.org/wiki/鄧倫 "wikilink")、[朱一龍合作的電視劇](https://zh.wikipedia.org/wiki/朱一龍 "wikilink")《[我的真朋友](../Page/我的真朋友.md "wikilink")》演技受到網友的好評，也洗刷不少網友心中帶爛片的形象，演技更受到了大眾的肯定，事實證明，經過多部片的磨練baby的演技也有很大的進步，也更加確定baby為一部劇的用心，和努力培養演技的態度，這些更值得學習，也期望她可以越來越好。
-
 ### 提前上載照片侵犯商業機密
 
 2012年3月，Angelababy在[松下電器](../Page/松下電器.md "wikilink")Lumix系列GF5型號相機正式推出市面前將產品相片上傳至[Instagram](../Page/Instagram.md "wikilink")，使產品的外形曝光。事後松下電器[中國](../Page/中國.md "wikilink")[上海分公司認為其舉動侵犯了公司商業機密](https://zh.wikipedia.org/wiki/上海 "wikilink")，影響到銷售策略與計劃。於是松下電器要求與廣告公司[麥肯公司解除合約](../Page/麥肯廣告.md "wikilink")，並發還已付的900多萬元[人民幣和賠償](https://zh.wikipedia.org/wiki/人民幣 "wikilink")100萬損失。此外更要額外賠款275萬餘元\[58\]。

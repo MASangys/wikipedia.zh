@@ -160,7 +160,7 @@
 
 </div>
 
-}} {{\#ifeq:|User talk|这位用户的讨论页尚未贴有**留言**。|**维基百科目前还没有与上述标题相同的{{\#switch: |=条目 |=[讨论页](https://zh.wikipedia.org/wiki/{{ns:Help}}:讨论页 "wikilink") |=[分类](https://zh.wikipedia.org/wiki/{{ns:Project}}:分类 "wikilink") |=[帮助页](https://zh.wikipedia.org/wiki/{{ns:Help}}:内容 "wikilink") |=[主题](https://zh.wikipedia.org/wiki/{{ns:Project}}:主题 "wikilink") |=[模板](https://zh.wikipedia.org/wiki/{{ns:Project}}:模板消息 "wikilink") |=[用户页](https://zh.wikipedia.org/wiki/{{ns:Project}}:用户页 "wikilink") |=[图像页](https://zh.wikipedia.org/wiki/{{ns:Project}}:图像 "wikilink") |= 计划页 |页 }}。**{{\#ifeq:||{{\#switch: |=请先在维基百科上[查找“”是否已有名称相近或不同文本写法的条目](https://zh.wikipedia.org/wiki/{{ns:Special}}:Search/{{PAGENAME}} "wikilink")。 |=请浏览[现有的分类来检查您需要的分类是否使用了其他的名称](https://zh.wikipedia.org/wiki/{{ns:Project}}:探索 "wikilink")。 |=请浏览[现有的帮助页来检查您需要的帮助主题是否使用了其他的名称](https://zh.wikipedia.org/wiki/{{ns:Help}}:内容 "wikilink")。 |=请浏览[现有的主题来检查是否已有相似的主题](https://zh.wikipedia.org/wiki/{{ns:Portal}}:首页 "wikilink")。 |=请浏览[现有的模板来检查您需要的模板是否使用了其他的名称](https://zh.wikipedia.org/wiki/{{ns:Project}}:模板消息 "wikilink")。 |=通常来说，这一页只应由[:来创建和编辑](https://zh.wikipedia.org/wiki/{{ns:User}}:{{PAGENAME}} "wikilink")。如果您对此抱有疑惑，请验证用户“”<span class="plainlinksneverexpand">\[//zh.wikipedia.org/wiki/Special:Listusers?username=\&limit=1\&group= **是否已被注册**\]</span>。 }} |在创建这一页面前，请详阅[:子页面](https://zh.wikipedia.org/wiki/{{ns:Project}}:子页面 "wikilink")。}}}}
+}} {{\#ifeq:|User talk|这位用户的讨论页尚未贴有**留言**。|**维基百科目前还没有与上述标题相同的{{\#switch: |=条目 |=[讨论页](https://zh.wikipedia.org/wiki/{{ns:Help}}:讨论页 "wikilink") |=[分类](https://zh.wikipedia.org/wiki/{{ns:Project}}:分类 "wikilink") |=[帮助页](https://zh.wikipedia.org/wiki/{{ns:Help}}:内容 "wikilink") |=[主题](https://zh.wikipedia.org/wiki/{{ns:Project}}:主题 "wikilink") |=[模板](https://zh.wikipedia.org/wiki/{{ns:Project}}:模板消息 "wikilink") |=[用户页](https://zh.wikipedia.org/wiki/{{ns:Project}}:用户页 "wikilink") |=[图像页](https://zh.wikipedia.org/wiki/{{ns:Project}}:图像 "wikilink") |= 计划页 |页 }}。**{{\#ifeq:||{{\#switch: |=请先在维基百科上[查找“”是否已有名称相近或不同文字写法的条目](https://zh.wikipedia.org/wiki/{{ns:Special}}:Search/{{PAGENAME}} "wikilink")。 |=请浏览[现有的分类来检查您需要的分类是否使用了其他的名称](https://zh.wikipedia.org/wiki/{{ns:Project}}:探索 "wikilink")。 |=请浏览[现有的帮助页来检查您需要的帮助主题是否使用了其他的名称](https://zh.wikipedia.org/wiki/{{ns:Help}}:内容 "wikilink")。 |=请浏览[现有的主题来检查是否已有相似的主题](https://zh.wikipedia.org/wiki/{{ns:Portal}}:首页 "wikilink")。 |=请浏览[现有的模板来检查您需要的模板是否使用了其他的名称](https://zh.wikipedia.org/wiki/{{ns:Project}}:模板消息 "wikilink")。 |=通常来说，这一页只应由[:来创建和编辑](https://zh.wikipedia.org/wiki/{{ns:User}}:{{PAGENAME}} "wikilink")。如果您对此抱有疑惑，请验证用户“”<span class="plainlinksneverexpand">\[//zh.wikipedia.org/wiki/Special:Listusers?username=\&limit=1\&group= **是否已被注册**\]</span>。 }} |在创建这一页面前，请详阅[:子页面](https://zh.wikipedia.org/wiki/{{ns:Project}}:子页面 "wikilink")。}}}}
 
   - 此页面已被保护以防止创建，因此只有[管理员可以创建此页面](https://zh.wikipedia.org/wiki/WP:ADMIN "wikilink")。
 
@@ -182,7 +182,7 @@
 
 <!-- end list -->
 
-  - 还有可能是{{\#switch:|Image=这一图像|这一页面}}已被删除。请检查**\[ 删除日志\]**和[Wikipedia:删除守则上的一些理由](https://zh.wikipedia.org/wiki/Wikipedia:删除守则 "wikilink")。
+  - 还有可能是{{\#switch:|Image=这一图像|这一页面}}已被删除。请检查**\[ 删除日志\]**和[Wikipedia:删除方针上的一些理由](https://zh.wikipedia.org/wiki/Wikipedia:删除方针 "wikilink")。
 
 {{\#ifeq:||
 

@@ -12,7 +12,7 @@
 
 ### 设计
 
-iPhone 3G的后盖由[第一代iPhone的铝制改为了塑料制](https://zh.wikipedia.org/wiki/第一代iPhone "wikilink")，手机的按钮则从塑料制改为了金属制。iPhone 3G推出了两种不同的颜色，分别为黑色与白色。iPhone 3G的尺寸比[第一代iPhone大一些](https://zh.wikipedia.org/wiki/第一代iPhone "wikilink")，其长110毫米、宽61毫米、厚12毫米。
+iPhone 3G的后盖由[第一代iPhone的铝制改为了塑料製](https://zh.wikipedia.org/wiki/第一代iPhone "wikilink")，手机的按钮则从塑料製改为了金属製。iPhone 3G推出了两种不同的颜色，分别为黑色与白色。iPhone 3G的尺寸比[第一代iPhone大一些](https://zh.wikipedia.org/wiki/第一代iPhone "wikilink")，其长110毫米、宽61毫米、厚12毫米。
 
 ### 屏幕与输入
 

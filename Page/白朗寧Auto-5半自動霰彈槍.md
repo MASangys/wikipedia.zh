@@ -64,7 +64,7 @@ Auto-5在[第一次世界大战](../Page/第一次世界大战.md "wikilink")至
 
 [機匣頂部設有防反光紋](https://zh.wikipedia.org/wiki/機匣 "wikilink")。機匣上設有橫閂式托彈板鎖定按鈕，從機匣右側按壓托彈板鎖定按鈕即可鎖定托彈板，即使向後拉動槍機，管式彈倉內的最後一發[彈藥也不會被托彈板向上托至進彈位置](https://zh.wikipedia.org/wiki/彈藥 "wikilink")，這樣就可以抽出[膛室](../Page/膛室.md "wikilink")內已有的彈藥或是更換膛室內的彈種。如果解除鎖定，只需要從機匣左側按壓鎖定按鈕即可。
 
-[扳機護圈後方設有手動保險](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")，為標準的橫閂式設計。
+[扳機護環後方設有手動保險](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")，為標準的橫閂式設計。
 
 ### 木製槍托
 

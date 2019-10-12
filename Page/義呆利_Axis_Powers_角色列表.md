@@ -1887,7 +1887,7 @@
     很喜歡[日本](../Page/日本.md "wikilink")的「[卡哇伊文化](https://zh.wikipedia.org/wiki/卡哇伊 "wikilink")」。
     在[中國](../Page/中國.md "wikilink")的迷你廣播劇「亜細亜と西洋の祭り」中幫中國治療骨折，中國因此慘叫。
     稱呼中國為「老師」（せんせい），但有點[討厭中國的態度](https://zh.wikipedia.org/wiki/兩岸關係 "wikilink")
-    家裡的溫泉至少有100個以上，喜歡[小動物](https://zh.wikipedia.org/wiki/台灣特有種 "wikilink")。
+    家裡的溫泉至少有100個以上，喜歡[小動物](../Page/台灣特有種.md "wikilink")。
     在作者繪製的2011萬聖節系列短漫中，打扮成[藍澤光](../Page/藍澤光.md "wikilink")，並拿加了生命力超強生物的腿的[中藥給中國吃](https://zh.wikipedia.org/wiki/中藥 "wikilink")。
     角色歌為ぽいぽいぽい（POi POi POi）
 
