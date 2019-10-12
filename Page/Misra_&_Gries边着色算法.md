@@ -8,9 +8,9 @@
 
 ## 扇
 
-[Fan,_Misra_and_Gries_edge_coloring_algorithm.png](https://zh.wikipedia.org/wiki/File:Fan,_Misra_and_Gries_edge_coloring_algorithm.png "fig:Fan,_Misra_and_Gries_edge_coloring_algorithm.png") 对于一种颜色x，如果*c(u,z)* ≠ *x* 对于所有的 (u,z) \(\in\) E(G) : *z≠v*均成立，则称这种颜色x对于边(u, v)未被使用。
+[Fan,_Misra_and_Gries_edge_coloring_algorithm.png](https://zh.wikipedia.org/wiki/File:Fan,_Misra_and_Gries_edge_coloring_algorithm.png "fig:Fan,_Misra_and_Gries_edge_coloring_algorithm.png")v的一个扇 F=\[x_1,x_2,x_3\]（虚线边代表未着色），(v,x_1),(v,x_2),(v,x_3)是扇的边. F'=\[x_1,x_2\] 也是v的一个扇, 但不是最大的。\]\] 对于一种颜色x，如果*c(u,z)* ≠ *x* 对于所有的 (u,z) \(\in\) E(G) : *z≠v*均成立，则称这种颜色x对于边(u, v)未被使用。
 
-顶点u的一个**扇**(Fan)是一个顶点序列，记为F\[1:k\]，该序列满足以下条件：
+[顶点u的一个](../Page/顶点_\(图论\).md "wikilink")**扇**(Fan)是一个顶点序列，记为F\[1:k\]，该序列满足以下条件：
 
 1.  F\[1:k\]是一个包含u的部分或全部邻居节点的非空序列
 2.  (F\[1\],u) \(\in\) E(G) 未被着色

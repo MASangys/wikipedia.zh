@@ -296,7 +296,7 @@ Windows</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><br />
+<td><p><a href="../Page/殘機為零.md" title="wikilink">殘機為零</a><br />
 </p></td>
 <td><p>2018年7月5日</p></td>
 <td><p>角色扮演</p></td>

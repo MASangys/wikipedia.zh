@@ -145,7 +145,7 @@
 <td style="text-align: center;"><p>20</p></td>
 <td style="text-align: center;"><p><a href="../Page/金英光.md" title="wikilink">金英光</a>、<a href="../Page/庭沼珉.md" title="wikilink">庭沼珉</a>、<a href="../Page/河錫辰.md" title="wikilink">河錫辰</a>、<a href="../Page/李璟榮.md" title="wikilink">李璟榮</a>、<a href="../Page/車仁杓.md" title="wikilink">車仁杓</a>、<a href="../Page/金相浩.md" title="wikilink">金相浩</a>、<a href="../Page/金惠恩.md" title="wikilink">金惠恩</a>、<a href="../Page/尹周熙.md" title="wikilink">尹周熙</a>、<a href="../Page/金晶和.md" title="wikilink">金晶和</a>、<a href="https://zh.wikipedia.org/wiki/李成烈" title="wikilink">李成烈</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/張容佑" title="wikilink">張容佑</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/黄恩京" title="wikilink">黄恩京</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/黄恩京.md" title="wikilink">黄恩京</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>
@@ -516,7 +516,7 @@
 <tr class="odd">
 <td style="text-align: center;"><p>2019年10月4日–<br />
 2019年11月23日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/我的國家_(韓國電視劇)" title="wikilink">我的國家</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/我的王國" title="wikilink">我的國家</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/梁世宗_(韓國).md" title="wikilink">梁世宗</a>、<a href="../Page/禹棹煥.md" title="wikilink">禹棹煥</a>、<a href="../Page/雪炫.md" title="wikilink">雪炫</a></p></td>
@@ -538,7 +538,7 @@
 <tr class="odd">
 <td style="text-align: center;"><p>2020年–<br />
 2020年</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/梨泰院CLASS" title="wikilink">梨泰院CLASS</a><br />
+<td style="text-align: center;"><p><a href="../Page/梨泰院CLASS.md" title="wikilink">梨泰院CLASS</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/朴敘俊.md" title="wikilink">朴敘俊</a>、金多美、<a href="../Page/權娜拉.md" title="wikilink">權娜拉</a>、<a href="../Page/劉在明.md" title="wikilink">劉在明</a></p></td>

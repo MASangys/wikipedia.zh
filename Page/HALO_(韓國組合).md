@@ -4,7 +4,7 @@ HALO在字典上的意思是光環，寓意著「無論在哪裡，在何時，�
 
 2014年10月20日將粉絲名稱定為「HALOVE」（）\[3\]。
 
-2019年5月8日，官方公告與HISTAR娛樂合約結束，團體表示未解散。2019年9月3日，煕天和润东正式亮相《[PRODUCE 101 JAPAN](https://zh.wikipedia.org/wiki/PRODUCE_101_JAPAN "wikilink")》，并都列为A班。另外OOON也同时参赛。
+2019年5月8日，官方公告與HISTAR娛樂合約結束，團體表示未解散。2019年9月3日，煕天和润东正式亮相《[PRODUCE 101 JAPAN](../Page/PRODUCE_101_JAPAN.md "wikilink")》，并都列为A班。另外OOON也同时参赛。
 
 ## 成員資料
 

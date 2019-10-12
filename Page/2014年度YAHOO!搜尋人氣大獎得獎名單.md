@@ -34,7 +34,7 @@
   - 人氣音樂微電影
       - 《最後最後》 － [薛凱琪](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")
   - 人氣演唱會
-      - 《[容祖兒1314演唱會](https://zh.wikipedia.org/wiki/容祖兒1314演唱會 "wikilink")》 － [容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")
+      - 《[容祖兒1314演唱會](https://zh.wikipedia.org/wiki/容祖兒1314演唱會 "wikilink")》 － [容祖兒](../Page/容祖兒.md "wikilink")
   - 人氣大碟
       - 《[Kontinue](../Page/Kontinue.md "wikilink")》 － [謝安琪](../Page/謝安琪.md "wikilink")
   - 年度熱搜歌曲
@@ -52,7 +52,7 @@
   - 本地男歌手
       - [周柏豪](../Page/周柏豪.md "wikilink")
   - 本地女歌手
-      - [容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")
+      - [容祖兒](../Page/容祖兒.md "wikilink")
 
 ### 電視電影獎項
 

@@ -26,7 +26,7 @@
   -
   -
   -
-[Category:20世紀美國小說家](https://zh.wikipedia.org/wiki/Category:20世紀美國小說家 "wikilink") [Category:21世紀美國小說家](https://zh.wikipedia.org/wiki/Category:21世紀美國小說家 "wikilink") [Category:美國兒童文學作家](https://zh.wikipedia.org/wiki/Category:美國兒童文學作家 "wikilink") [Category:美國恐怖文學作家](https://zh.wikipedia.org/wiki/Category:美國恐怖文學作家 "wikilink") [Category:美國男性作家](https://zh.wikipedia.org/wiki/Category:美國男性作家 "wikilink") [Category:俄亥俄州立大學校友](https://zh.wikipedia.org/wiki/Category:俄亥俄州立大學校友 "wikilink") [Category:猶太裔美國作家](https://zh.wikipedia.org/wiki/Category:猶太裔美國作家 "wikilink")
+[Category:20世紀美國小說家](https://zh.wikipedia.org/wiki/Category:20世紀美國小說家 "wikilink") [Category:21世紀美國小說家](https://zh.wikipedia.org/wiki/Category:21世紀美國小說家 "wikilink") [Category:美國兒童文學作家](https://zh.wikipedia.org/wiki/Category:美國兒童文學作家 "wikilink") [Category:美國恐怖小說家](https://zh.wikipedia.org/wiki/Category:美國恐怖小說家 "wikilink") [Category:美國男性作家](https://zh.wikipedia.org/wiki/Category:美國男性作家 "wikilink") [Category:俄亥俄州立大學校友](https://zh.wikipedia.org/wiki/Category:俄亥俄州立大學校友 "wikilink") [Category:猶太裔美國作家](https://zh.wikipedia.org/wiki/Category:猶太裔美國作家 "wikilink")
 
 1.
 

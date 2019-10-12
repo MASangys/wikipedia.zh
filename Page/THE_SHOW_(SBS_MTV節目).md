@@ -117,7 +117,7 @@
 | 2018年11月13日          | [金相均](../Page/金相均.md "wikilink")                                                                                                                                          |                                                                                                                            |                                      |
 | 2018年11月20日、27日      | [普閔](https://zh.wikipedia.org/wiki/崔普閔 "wikilink")                                                                                                                        |                                                                                                                            |                                      |
 | 2018年12月4日           | [道英](../Page/道英.md "wikilink")、[在玹](../Page/在玹.md "wikilink")                                                                                                             |                                                                                                                            |                                      |
-| 2019年8月20日           | [崔秉燦](https://zh.wikipedia.org/wiki/崔秉燦 "wikilink")                                                                                                                       |                                                                                                                            |                                      |
+| 2019年8月20日           | [崔秉燦](../Page/崔秉燦.md "wikilink")                                                                                                                                          |                                                                                                                            |                                      |
 | 2019年8月27日           | [賢在](https://zh.wikipedia.org/wiki/THE_BOYZ "wikilink")、[張大賢](../Page/張大賢.md "wikilink")                                                                                  |                                                                                                                            |                                      |
 | 2019年9月3日            | [辰樂](https://zh.wikipedia.org/wiki/辰樂 "wikilink")、[產賀](https://zh.wikipedia.org/wiki/產賀 "wikilink")、[宋有彬](https://zh.wikipedia.org/wiki/宋有彬 "wikilink")                   |                                                                                                                            |                                      |
 | 2019年9月10日           | 宇碩                                                                                                                                                                        |                                                                                                                            |                                      |
@@ -865,6 +865,15 @@
   - 09.03 - [X1](../Page/X1.md "wikilink")<sup>1st</sup> - Flash<sup>1st</sup>＜浦項特輯＞
   - 09.10 - [X1](../Page/X1.md "wikilink")<sup>2nd</sup> - Flash<sup>2nd</sup> \[9,500分\]
   - 09.17 - 停播
+  - 09.24 - [EVERGLOW](../Page/EVERGLOW.md "wikilink")<sup>1st</sup> - ADIOS<sup>1st</sup> \[7,861分\]
+
+<!-- end list -->
+
+  - 十月
+
+<!-- end list -->
+
+  - 10.01 -＜光化門廣場特輯＞
 
 ## 藝人成就
 

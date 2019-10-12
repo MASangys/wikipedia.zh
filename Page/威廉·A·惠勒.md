@@ -2,7 +2,7 @@
 
 ## 早年生活
 
-惠勒生於紐約州的[馬龍村](https://zh.wikipedia.org/wiki/馬龍村 "wikilink")，後來就讀[佛蒙特大學及富蘭克林](https://zh.wikipedia.org/wiki/佛蒙特大學 "wikilink")，但後來因為經濟上的因素迫使他肄業\[1\]。1845年，他考取律師資格，於馬龍村執業。1846年至1849年，他擔任富蘭克林郡的地方檢察官。1850及1851年，他被選為[紐約州眾議員](https://zh.wikipedia.org/wiki/紐約州眾議院 "wikilink")（富蘭克林郡）。1858年及1859年，當選[紐約州參議員](https://zh.wikipedia.org/wiki/紐約州參議院 "wikilink")（第17選區）。1861年3月4日至1863年3月4日，他被[共和黨提名並當選](https://zh.wikipedia.org/wiki/美國共和黨 "wikilink")議員。1867年至1868年任議長。之後他被選為第41-44屆國會議員。任期從1869年3月4日至1877年3月4日止
+惠勒生於紐約州的[馬龍村](https://zh.wikipedia.org/wiki/馬龍村 "wikilink")，後來就讀[佛蒙特大學](../Page/佛蒙特大學.md "wikilink")及富蘭克林，但後來因為經濟上的因素迫使他肄業\[1\]。1845年，他考取律師資格，於馬龍村執業。1846年至1849年，他擔任富蘭克林郡的地方檢察官。1850及1851年，他被選為[紐約州眾議員](https://zh.wikipedia.org/wiki/紐約州眾議院 "wikilink")（富蘭克林郡）。1858年及1859年，當選[紐約州參議員](https://zh.wikipedia.org/wiki/紐約州參議院 "wikilink")（第17選區）。1861年3月4日至1863年3月4日，他被[共和黨提名並當選](https://zh.wikipedia.org/wiki/美國共和黨 "wikilink")議員。1867年至1868年任議長。之後他被選為第41-44屆國會議員。任期從1869年3月4日至1877年3月4日止
 
 [William_Wheeler,_photo_portrait_seated.jpg](https://zh.wikipedia.org/wiki/File:William_Wheeler,_photo_portrait_seated.jpg "fig:William_Wheeler,_photo_portrait_seated.jpg")
 

@@ -24,8 +24,7 @@
 、
 [翰林演藝藝術高等學校](../Page/翰林演藝藝術高等學校.md "wikilink") 演藝科 |rowspan=2|🍓
 草莓 |rowspan=2|兔 |rowspan=2|副唱
-副領舞
-门面 |- |崔有鎭  |- |rowspan=2|丞延 |rowspan=2| |rowspan=2|Seung Yeon |張丞延  |rowspan=2| |rowspan=2|Chang Seung Yeon |rowspan=2|
+領舞  |- |崔有鎭  |- |rowspan=2|丞延 |rowspan=2| |rowspan=2|Seung Yeon |張丞延  |rowspan=2| |rowspan=2|Chang Seung Yeon |rowspan=2|
 [京畿道](../Page/京畿道.md "wikilink")[城南市](../Page/城南市.md "wikilink") |rowspan=2|、
 [首爾公演藝術高等學校](https://zh.wikipedia.org/wiki/首爾公演藝術高等學校 "wikilink") |rowspan=2|🍊
 香橙 |rowspan=2|猴 |rowspan=2|隊長
@@ -45,7 +44,7 @@
 主Rapper
  |- |[Elkie](../Page/莊錠欣.md "wikilink") | |Elkie |莊錠欣 \[18\] | |Chong Ting Yan | [新界](../Page/新界.md "wikilink")[大埔區](../Page/大埔區.md "wikilink") |大埔崇德黃建常紀念學校
 [迦密柏雨中學](../Page/迦密柏雨中學.md "wikilink")（肄業） |🍒
-櫻桃 |鹿 |領唱 领舞 形象 |- |恩彬 | |Eun Bin |權恩彬 \[19\] | |Kwon Eun Bin |
+櫻桃 |鹿 |領唱 |- |恩彬 | |Eun Bin |權恩彬 \[19\] | |Kwon Eun Bin |
 [首爾特別市](https://zh.wikipedia.org/wiki/首爾特別市 "wikilink") |、
 、
 、
@@ -181,7 +180,7 @@ PlotData =
 
 2月12日，CLC於 SBS MTV 的《[THE SHOW](https://zh.wikipedia.org/wiki/THE_SHOW "wikilink")》中，拿下自出道1427天以來的初一位\[61\]\[62\]，為目前獲得一位所花時間最多的女團。2月13日，宣傳期間首度登上《[Show Champion](../Page/Show_Champion.md "wikilink")》的一位候補。2月19日，CLC再度於 SBS MTV 的《[THE SHOW](https://zh.wikipedia.org/wiki/THE_SHOW "wikilink")》獲得第二個一位。
 
-5月29日，時隔4個月以《[ME](../Page/Me_\(CLC單曲\).md "wikilink")》回歸，並於韓國時間下午六時公開《ME》MV、音源，在Bugs的排行榜拿下實時7位和Soribada排行榜的93位。
+5月29日，時隔4個月以《[ME(美)](../Page/Me_\(CLC單曲\).md "wikilink")》回歸，並於韓國時間下午六時公開《ME(美)》MV、音源，在Bugs的排行榜拿下實時7位和Soribada排行榜的93位。
 
 8月28日，於官方Instagram透露將於9月6日以第二張數位單曲《[Devil](https://zh.wikipedia.org/wiki/Devil_\(CLC單曲\) "wikilink")》回歸。9月6日，韓國時間下午六時公開MV及音源，在Bugs排行榜拿下實時6位，Soribada排行榜實時84位。9月14日，於Billboard Social 50榜獲得第47位。
 
@@ -478,6 +477,8 @@ Berjaya Times Square KL, LG Concourse</p></td>
 | 5月10日        | GY Festival                                      |                                             |                                                                     |
 | 5月18日        | 2019 Dream Concert 夢想演唱會                         | 首爾世界盃競技場（上岩洞）                               |                                                                     |
 | 5月25日        | Seowon Valley Green Concert                      |                                             |                                                                     |
+| 7月6日         | Seoul Sevens Rugby Festival                      | Yonsei University                           |                                                                     |
+| 7月17日        | Hello, K\! 2019                                  | Yonsei University                           |                                                                     |
 | 7月28日        | Mid summer Festival - 부산                         |                                             |                                                                     |
 | 8月15日        | Water Bomb Daejeon 2019                          |                                             |                                                                     |
 | 8月16日        | K월드 페스타 K-WORLD FESTA                            | 首爾奧林匹克公園                                    |                                                                     |
@@ -485,6 +486,7 @@ Berjaya Times Square KL, LG Concourse</p></td>
 | 8月25日        | 2019 K-ASIAN FESTIVAL in INCHEON                 | 韓國仁川                                        |                                                                     |
 | 8月31日        | K-CONTENT EXPO RUSSIA 2019                       | 俄羅斯莫斯科                                      |                                                                     |
 | 9月22日        | K CRUSH 2019                                     | 泰國曼谷                                        |                                                                     |
+| 10月6日        | SMUF KPOP (Seoul Music Festival)                 | Gwanghwamun                                 |                                                                     |
 
 ## 獎項
 
@@ -838,7 +840,7 @@ Berjaya Times Square KL, LG Concourse</p></td>
 
 75. [NO CUT 씨엘씨, 4집 '뉴 클리어'' 발매 showcase 현장](https://www.youtube.com/watch?v=tgksF7Gqsrc)，2018-02-02
 
-76. [CLC Meets Fans Through First Japan Fan Meeting](http://mwave.interest.me/en/kpop-news/article/111563/clc-meets-fans-through-first-japan-fan-meeting-all-kpop-news)，2017-01-09
+76. [CLC Meets Fans Through First Japan Fan Meeting](http://mwave.interest.me/en/kpop-news/article/111563/clc-meets-fans-through-first-japan-fan-meeting-all-kpop-news) ，2017-01-09
 
 77. [풀영상 CLC(씨엘씨) 'Hobgoblin'(도깨비) Showcase (CRYSTYLE, Hyuna, 현아, Liar, Mistake, Meow Meow) 통통영상](https://www.youtube.com/watch?v=Ako6S_4wNBo)，2018-02-02
 
@@ -850,7 +852,7 @@ Berjaya Times Square KL, LG Concourse</p></td>
 
 81. [CLC出演2015夢想演唱會](http://www.allthatstar.com/tw/view.php?action=5205&postID=85197)，2015-05-24
 
-82. [2015《韓流夢想演唱會》出演名單](http://kpopn.niusnews.com/=K0hht443)，2015-09-08
+82. [2015《韓流夢想演唱會》出演名單](http://kpopn.niusnews.com/=K0hht443) ，2015-09-08
 
 83. [Cube Festival發佈會：旗下藝人歡聚一堂](http://www.koreastardaily.com/tc/photo/67642)，2015-09-01
 

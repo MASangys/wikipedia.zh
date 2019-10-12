@@ -99,7 +99,7 @@ C型尼曼匹克氏症(NP-C)很難診斷，因為症狀會發生在不同時期�
 
   - [International Niemann-Pick Disease Alliance國際尼曼匹克氏症聯盟](http://inpda.org)
   - [Find Zebra是一個取得罕見疾病鑑別診斷的工具](http://www.findzebra.com)
-  - [C型尼曼匹克氏症懷疑指數(Suspicion Index)](http://www.npc-si.com)
+  - [C型尼曼匹克氏症懷疑指數(Suspicion Index)](https://web.archive.org/web/20180823230814/http://www.npc-si.com/)
   - [NPC Info](http://www.npc-info.com)：您可透過這個網站取得有關尼曼匹克氏症的症狀、診斷以及處置方法的完整資訊，此網站分為病患專區跟專業醫護人員專區。
   - [Orphanet](http://www.orpha.net/consor/cgi-bin/index.php?lng=EN)：是一個提供罕見疾病以及孤兒藥等相關資訊的資料庫，以協助改善罕見疾病患者的診斷結果、照護與治療。
 

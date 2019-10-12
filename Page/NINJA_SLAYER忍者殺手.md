@@ -349,132 +349,99 @@
 
 ## 漫畫
 
+從2013年7月至2014年1月期間，共有三部改編漫畫相繼開始連載：《NINJA SLAYER忍者殺手》、《NINJA SLAYER忍者殺手 性感兇器》、《NINJA SLAYER忍者殺手 殺》，分別由三位漫畫家負責創作，連載雜誌與單行本出版社也不盡相同。三部漫畫均有雜誌、推特兩種連載管道，而推特上的連載原則上都是完全免費公開。
+
+三部漫畫皆以原作劇情為基礎進行改編，但創作手法都不盡相同。\[6\]《NINJA SLAYER忍者殺手》（通稱「無印版」\[7\]）由擔任作畫，在情節敘述、人設與氣氛塑造方面較貼近原作，忠實還原小說的血腥暴力元素；《性感兇器》由さおとめあげは擔任作畫，傾向[BL方式的改編](../Page/BL_\(和製英語\).md "wikilink")，著重於男性角色之間的互動，不過在情節方面與原作差異不算太大；《忍者殺手 殺》由關根光太郎擔任作畫，偏向少年漫畫的創作方式，大量描繪激烈、熱血的搏鬥場面，在劇情方面只畫到原作第一部「火燒新埼玉」的後半部就完結了。
+
+由余湖裕輝作畫的「無印版」漫畫最早於2013年7月開始在[Comptiq](../Page/Comptiq.md "wikilink")與[月刊Comp Ace雜誌連載](../Page/月刊Comp_Ace.md "wikilink")，兩本雜誌連載的內容毫無差別。\[8\]直到2016年4月，月刊Comp Ace突然開始連載不同的劇情篇章，直接跳到原作第二部「殺伐都市京都」的劇情，\[9\]當時Comptiq雜誌的進度仍在原作第一部「火燒新埼玉」的劇情。2016年11月，隨著篇章「藝伎，空手道，新幹線，與地獄」（ゲイシャ・カラテ・シンカンセン・アンド・ヘル）的完結，月刊Comp Ace同時宣布結束連載，僅剩Comptiq雜誌繼續連載。2017年12月，Comptiq雜誌的連載已達到第一部「火燒新埼玉」劇情的完結，同時宣布該雜誌結束連載。2018年2月，官方宣布漫畫將轉移到[Champion RED雜誌繼續連載](../Page/Champion_RED.md "wikilink")，\[10\]單行本出版社也從[KADOKAWA](../Page/KADOKAWA.md "wikilink")改為[秋田書店](../Page/秋田書店.md "wikilink")，同年4月正式開始連載並持續至今。然而在轉換到Champion RED雜誌後便不再提供推特免費連載了。\[11\]此外，Champion RED連載之後的單行本標題均改為「ニンジャスレイヤー・キョート・ヘル・オン・アース」，與過去的單行本標題形式不同。
+
   - 《NINJA SLAYER忍者殺手》（ニンジャスレイヤー）
 
-作畫：／編劇：／出版社：[KADOKAWA](../Page/KADOKAWA.md "wikilink")／連載中
+作畫：／編劇：
+連載雜誌：[Comptiq](../Page/Comptiq.md "wikilink")、[月刊Comp Ace](../Page/月刊Comp_Ace.md "wikilink")（2013年7月～2017年12月）／[Champion RED](../Page/Champion_RED.md "wikilink")（2018年5月～）
+出版社：[KADOKAWA](../Page/KADOKAWA.md "wikilink")（Comptiq、月刊Comp Ace連載版）／[秋田書店](../Page/秋田書店.md "wikilink")（Champion RED連載版）
 
 <table>
 <thead>
 <tr class="header">
-<th><p>集數</p></th>
-<th><p>日文副標題</p></th>
-<th><p>中文副標題</p></th>
-<th><p><a href="../Page/KADOKAWA.md" title="wikilink">KADOKAWA</a></p></th>
-<th><p><a href="../Page/台灣角川.md" title="wikilink">台灣角川</a></p></th>
+<th><p>Comptiq、月刊Comp Ace連載版<br />
+單行本標題：ニンジャスレイヤー</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
+<td><p>集數</p></td>
+</tr>
+<tr class="even">
 <td><p>發售日期</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>1</p></td>
+</tr>
+<tr class="even">
+<td><p>2</p></td>
+</tr>
+<tr class="odd">
+<td><p>3</p></td>
+</tr>
+<tr class="even">
+<td><p>4</p></td>
+</tr>
+<tr class="odd">
+<td><p>5</p></td>
+</tr>
+<tr class="even">
+<td><p>6</p></td>
+</tr>
+<tr class="odd">
+<td><p>7</p></td>
+</tr>
+<tr class="even">
+<td><p>8</p></td>
+</tr>
+<tr class="odd">
+<td><p>9</p></td>
+</tr>
+<tr class="even">
+<td><p>10</p></td>
+</tr>
+<tr class="odd">
+<td><p>11</p></td>
+</tr>
+<tr class="even">
+<td><p>12</p></td>
+</tr>
+<tr class="odd">
+<td><p>13</p></td>
+</tr>
+<tr class="even">
+<td><p>14</p></td>
+</tr>
+<tr class="odd">
+<td><p>Champion RED連載版<br />
+單行本標題：ニンジャスレイヤー・キョート・ヘル・オン・アース</p></td>
+</tr>
+<tr class="even">
+<td><p>集數</p></td>
+</tr>
+<tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>
-<td></td>
-<td><p>復仇機械</p></td>
-<td><p>2013年12月10日</p></td>
-<td><p>ISBN 978-4-04-120942-4</p></td>
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
-<td></td>
-<td><p>末代忍者少女降臨（壹）</p></td>
-<td><p>2014年5月9日</p></td>
-<td><p>ISBN 978-4-04-121114-4</p></td>
 </tr>
 <tr class="even">
 <td><p>3</p></td>
-<td></td>
-<td><p>末代忍者少女降臨（貳）</p></td>
-<td><p>2014年11月7日</p></td>
-<td><p>ISBN 978-4-04-101674-9</p></td>
-</tr>
-<tr class="odd">
-<td><p>4</p></td>
-<td></td>
-<td><p>新埼玉市裡的暴行</p></td>
-<td><p>2015年4月10日</p></td>
-<td><p>ISBN 978-4-04-102912-1</p></td>
-</tr>
-<tr class="even">
-<td><p>5</p></td>
-<td></td>
-<td></td>
-<td><p>2015年7月10日</p></td>
-<td><p>ISBN 978-4-04-103400-2</p></td>
-</tr>
-<tr class="odd">
-<td><p>6</p></td>
-<td></td>
-<td></td>
-<td><p>2015年12月10日</p></td>
-<td><p>ISBN 978-4-04-103402-6</p></td>
-</tr>
-<tr class="even">
-<td><p>7</p></td>
-<td></td>
-<td></td>
-<td><p>2016年4月7日</p></td>
-<td><p>ISBN 978-4-04-104062-1</p></td>
-</tr>
-<tr class="odd">
-<td><p>8</p></td>
-<td></td>
-<td></td>
-<td><p>2016年7月9日</p></td>
-<td><p>ISBN 978-4-04-104420-9</p></td>
-</tr>
-<tr class="even">
-<td><p>9</p></td>
-<td></td>
-<td></td>
-<td><p>2016年9月26日</p></td>
-<td><p>ISBN 978-4-04-104818-4</p></td>
-</tr>
-<tr class="odd">
-<td><p>10</p></td>
-<td></td>
-<td></td>
-<td><p>2016年12月10日</p></td>
-<td><p>ISBN 978-4-04-105029-3</p></td>
-</tr>
-<tr class="even">
-<td><p>11</p></td>
-<td></td>
-<td></td>
-<td><p>2016年12月10日</p></td>
-<td><p>ISBN 978-4-04-105031-6</p></td>
-</tr>
-<tr class="odd">
-<td><p>12</p></td>
-<td></td>
-<td></td>
-<td><p>2017年6月9日</p></td>
-<td><p>ISBN 978-4-04-105654-7</p></td>
-</tr>
-<tr class="even">
-<td><p>13</p></td>
-<td></td>
-<td></td>
-<td><p>2018年2月10日</p></td>
-<td><p>ISBN 978-4-04-106490-0</p></td>
-</tr>
-<tr class="odd">
-<td><p>14</p></td>
-<td></td>
-<td></td>
-<td><p>2018年2月10日</p></td>
-<td><p>ISBN 978-4-04-106491-7</p></td>
 </tr>
 </tbody>
 </table>
 
   - 《NINJA SLAYER忍者殺手 性感凶器》（ニンジャスレイヤー　グラマラス・キラーズ）
 
-作畫：さおとめあげは／出版社：enterbrain／全3冊
+作畫：さおとめあげは／連載雜誌：／出版社：[enterbrain](https://zh.wikipedia.org/wiki/enterbrain "wikilink")／全3冊
 
 <table>
 <thead>
@@ -510,7 +477,7 @@
 
   - 《NINJA SLAYER忍者殺手 殺》（ニンジャスレイヤー 殺）
 
-作畫：關根光太郎／出版社：講談社／全5冊
+作畫：關根光太郎／連載網站：[星期三的天狼星](../Page/月刊少年天狼星.md "wikilink")／出版社：[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")／全5冊
 
 <table>
 <thead>
@@ -549,7 +516,7 @@
 
 ## 動畫
 
-2014年4月宣布改編為[網路動畫](https://zh.wikipedia.org/wiki/網路動畫 "wikilink")，由[TRIGGER](../Page/TRIGGER.md "wikilink")負責製作，標題定為「NINJA SLAYER from ANIMATION」。2015年4月至10月，透過[niconico動畫等網路平台播送網路版動畫](https://zh.wikipedia.org/wiki/niconico動畫 "wikilink")。2016年4月至7月，TV版「忍者殺手SPECIAL EDITION」（簡稱SE版）透過[TOKYO MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、[BS11等電視頻道進行播送](https://zh.wikipedia.org/wiki/BS11 "wikilink")，此外也同時在中國地區透過[Bilibili](../Page/Bilibili.md "wikilink")網站進行播送，但由於不明原因導致B站實際播放的影片內容仍然是網路先行版而非SE版。\[6\]
+2014年4月宣布改編為[網路動畫](https://zh.wikipedia.org/wiki/網路動畫 "wikilink")，由[TRIGGER](../Page/TRIGGER.md "wikilink")負責製作，標題定為「NINJA SLAYER from ANIMATION」。2015年4月至10月，透過[niconico動畫等網路平台播送網路版動畫](https://zh.wikipedia.org/wiki/niconico動畫 "wikilink")。2016年4月至7月，TV版「忍者殺手SPECIAL EDITION」（簡稱SE版）透過[TOKYO MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、[BS11等電視頻道進行播送](https://zh.wikipedia.org/wiki/BS11 "wikilink")，此外也同時在中國地區透過[Bilibili](../Page/Bilibili.md "wikilink")網站進行播送，但由於不明原因導致B站實際播放的影片內容仍然是網路先行版而非SE版。\[12\]
 
 ### 放送形式
 
@@ -557,13 +524,13 @@
 
   - 每一話約15分鐘，共26話。
   - 畫面比例刻意設定為4：3（在第26話中會突然轉變成16：9），影片的聲音皆為單聲道。在[BD版附贈的特典中收錄了改為](../Page/藍光光碟.md "wikilink")16：9畫面與立體聲道形式的相同動畫。
-  - 作畫風格因大量使用類似[Flash動畫的手法而成為一大特色](https://zh.wikipedia.org/wiki/Flash動畫 "wikilink")（在另一部同為[雨宮哲](../Page/雨宮哲.md "wikilink")執導的作品《》亦使用過該創作手法），此外也會穿插普通的手繪畫面。根據Trigger社的訪談透露，由於當時製作條件的限制導致他們不得不採用這種看似簡陋的作畫形式。\[7\]\[8\]
+  - 作畫與演出風格因大量使用類似[Flash動畫的手法而成為一大特色](https://zh.wikipedia.org/wiki/Flash動畫 "wikilink")（在另一部同為[雨宮哲](../Page/雨宮哲.md "wikilink")執導的作品《》亦使用過該創作手法），此外也會穿插普通的手繪畫面。根據Trigger社的訪談透露，由於當時製作條件的限制導致他們不得不採用這種看似簡陋的作畫形式。\[13\]\[14\]
   - 動畫中在背景出現的看板上有時會寫著參與製作委員會的企業名稱（例如：[Good Smile Company](../Page/Good_Smile_Company.md "wikilink")、[KADOKAWA](../Page/KADOKAWA.md "wikilink")）。
   - 動畫的人物是以原作中由わらいなく繪製的插圖為基礎進行設計。
 
 **TV版（SE版）**
 
-  - TV版共13話，每話約24分鐘。TV版每一話是將網路版的2集內容合併而成（TV每話分為A part和B part兩半部，A part來自於原網路版的奇數集數，B part來自於原網路版的偶數集數），每一話的ED皆為全新曲目。
+  - TV版共13話，每話約24分鐘。TV版每一話是將網路版的2集內容剪輯合併而成（TV每話分為A part和B part兩半部，A part來自於原網路版的奇數集數，B part來自於原網路版的偶數集數），每一話的ED皆為全新曲目。
   - 針對網路版的部分場景與台詞進行濃縮刪減。此外原本在網路版中出現的一些，也受到替換或消音處理，諸如：條子（マッポ）、Fuck（ファック）、越共（ベトコン）。
 
 ### 製作人員
@@ -709,12 +676,9 @@
 
 :;「Body」（第23話）
 
-  -
+::歌 -
 
-      -
-        歌 -
-
-  - 「KHAKKHARA」（第24話）
+:;「KHAKKHARA」（第24話）
 
 ::歌 - Sawagi
 
@@ -1060,7 +1024,7 @@ Dark Dusk, Darker Dawn: Part 2</p></td>
 
 ## 遊戲
 
-  - 《AREA 4643》：2018年12月21日發售\[9\]／Windows平台（[Steam](../Page/Steam.md "wikilink")）
+  - 《AREA 4643》：2018年12月21日發售\[15\]／Windows平台（[Steam](../Page/Steam.md "wikilink")）
 
 [垂直捲軸射擊類型](https://zh.wikipedia.org/wiki/捲軸射擊遊戲 "wikilink")，忍者殺手的世界觀，可操作原作中的黑道天狗等角色。
 
@@ -1098,3 +1062,9 @@ Dark Dusk, Darker Dawn: Part 2</p></td>
 7.
 8.
 9.
+10.
+11.
+12.
+13.
+14.
+15.

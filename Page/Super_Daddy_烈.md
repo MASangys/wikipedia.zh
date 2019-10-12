@@ -49,7 +49,8 @@
 <td><p>醫生、單身媽媽</p></td>
 <td><center>
 <p><a href="../Page/傅其慧.md" title="wikilink">傅其慧</a></p></td>
-<td><center></td>
+<td><center>
+<p><a href="https://zh.wikipedia.org/wiki/何凱怡" title="wikilink">何凱怡</a></p></td>
 </tr>
 <tr class="even">
 <td><center>
@@ -61,7 +62,8 @@
 <td><p>韓烈與未來的女兒</p></td>
 <td><center>
 <p><a href="../Page/李涵菲.md" title="wikilink">李涵菲</a></p></td>
-<td><center></td>
+<td><center>
+<p><a href="../Page/顧詠雪.md" title="wikilink">顧詠雪</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -270,7 +272,8 @@
 <p>9歲</p></td>
 <td><p>小愛的同學兼鍾情對象</p></td>
 <td><center></td>
-<td><center></td>
+<td><center>
+<p><a href="../Page/楊婉潼.md" title="wikilink">楊婉潼</a></p></td>
 </tr>
 <tr class="odd">
 <td><center>

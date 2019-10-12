@@ -2759,7 +2759,8 @@ K: RETURN OF KINGS</a></strong></p></td>
 <tr class="odd">
 <td><p><a href="../Page/七大罪_(漫畫).md" title="wikilink">七大罪<br />
 七大罪 聖戰的預兆<br />
-<em>七大罪 戒律的復活</em></a></p></td>
+<em>七大罪 戒律的復活</em><br />
+<strong>七大罪 眾神的逆鱗</strong></a></p></td>
 <td><p>3月26日[38]</p></td>
 <td><p>第1季</p></td>
 <td><p>24</p></td>
@@ -2774,33 +2775,40 @@ K: RETURN OF KINGS</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p>2018年4月14日</p></td>
-<td><p>第二季#1-12</p></td>
+<td><p>第2季#1-12</p></td>
 <td><p>12</p></td>
 <td><p>15:30－21:30馬拉松式連播</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>第二季#13-24</p></td>
+<td><p>第2季#13-24</p></td>
 <td><p>12</p></td>
 <td><p>星期六 21:30－22:00</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>2019年10月9日</p></td>
+<td><p>第3季</p></td>
+<td><p>12</p></td>
+<td><p>星期三 22:30－23:00</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><a href="../Page/惡魔的謎語.md" title="wikilink">惡魔的謎語</a></p></td>
 <td><p>3月31日</p></td>
 <td></td>
 <td><p>12</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/機巧少女不會受傷.md" title="wikilink">機巧少女不會受傷</a></p></td>
 <td><p>4月16日</p></td>
 <td></td>
 <td><p>12</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/只有神知道的世界_(動畫).md" title="wikilink">機神追女攻略</a>[39]<br />
 <a href="../Page/只有神知道的世界_(動畫).md" title="wikilink">機神追女攻略－女神篇</a></p></td>
 <td><p>5月16日</p></td>
@@ -2808,77 +2816,77 @@ K: RETURN OF KINGS</a></strong></p></td>
 <td><p>1</p></td>
 <td><p>星期六 10:30－11:00</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>8月6日[40]</p></td>
 <td><p>第1季#2-12</p></td>
 <td><p>11</p></td>
 <td><p>星期三至四 20:00－21:00</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>8月26日</p></td>
 <td><p>第2季</p></td>
 <td><p>12</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>9月16日</p></td>
 <td><p>第3季</p></td>
 <td><p>12</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/蟲奉行.md" title="wikilink">蟲奉行</a></p></td>
 <td><p>6月1日</p></td>
 <td></td>
 <td><p>26</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/Charlotte_(動畫)" title="wikilink">夏洛特</a></strong></p></td>
 <td><p>7月4日</p></td>
 <td></td>
 <td><p>13</p></td>
 <td><p>星期六 24:30－25:00</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/魔法科高校的劣等生" title="wikilink">魔法科高校的劣等生</a></p></td>
 <td><p>7月6日</p></td>
 <td></td>
 <td><p>26</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/弁魔士賽希爾" title="wikilink">辯魔師賽希爾</a></p></td>
 <td><p>7月14日</p></td>
 <td></td>
 <td><p>12</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/魔法戰爭.md" title="wikilink">魔法戰爭</a></p></td>
 <td><p>8月4日</p></td>
 <td></td>
 <td><p>12</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/陽炎計劃.md" title="wikilink">MEKAKUCITY ACTORS</a></p></td>
 <td><p>8月18日</p></td>
 <td></td>
 <td><p>12</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/魔王勇者.md" title="wikilink">魔王勇者</a></p></td>
 <td><p>9月8日</p></td>
 <td></td>
 <td><p>12</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/我的朋友很少.md" title="wikilink">我的朋友很少<br />
 我的朋友很少NEXT</a></p></td>
 <td><p>9月29日</p></td>
@@ -2886,14 +2894,14 @@ K: RETURN OF KINGS</a></strong></p></td>
 <td><p>13[41]</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>10月20日</p></td>
 <td><p>第2季</p></td>
 <td><p>12</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/黃金拼圖.md" title="wikilink">黃金拼圖<br />
 HELLO！！黃金拼圖</a></p></td>
 <td><p>10月7日</p></td>
@@ -2901,14 +2909,14 @@ HELLO！！黃金拼圖</a></p></td>
 <td><p>12</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2016年11月8日</p></td>
 <td><p>第2季</p></td>
 <td><p>12</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/槍彈辯駁_希望學園與絕望高中生.md" title="wikilink">槍彈辯駁</a><br />
 <a href="../Page/槍彈辯駁3_－The_End_of_希望峰學園－.md" title="wikilink">槍彈辯駁3 －The End of 希望峰學園－</a></p></td>
 <td><p>11月16日</p></td>
@@ -2917,63 +2925,64 @@ HELLO！！黃金拼圖</a></p></td>
 <td><p>星期一至二 22:00－23:00<br />
 12月7日 22:00－22:30</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2017年3月2日</p></td>
 <td><p>第2作 未來篇</p></td>
 <td><p>12</p></td>
 <td><p>星期四至五 22:00－22:30</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>第2作 絕望篇</p></td>
 <td><p>11</p></td>
 <td><p>星期四至五 22:30－23:00</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2017年4月7日</p></td>
 <td><p>第2作 希望篇</p></td>
 <td><p>1</p></td>
 <td><p>22:30－23:00</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/東京闇鴉.md" title="wikilink">TOKYO RAVENS</a>[42]</p></td>
 <td><p>11月26日</p></td>
 <td></td>
 <td><p>24</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/蒼穹之戰神.md" title="wikilink">蒼穹之戰神</a> EXODUS</p></td>
 <td><p>12月8日</p></td>
 <td><p>第2季#1-13</p></td>
 <td><p>13</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2016年8月29日</p></td>
 <td><p>第2季#14-26</p></td>
 <td><p>13</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td></td>
+<tr class="even">
+<td><p>少年好萊塢 -HOLLY STAGE FOR 49-<br />
+少年好萊塢 -HOLLY STAGE FOR 50-</p></td>
 <td><p>12月21日</p></td>
 <td><p>第1季</p></td>
 <td><p>13</p></td>
 <td><p>星期一至五21:00-21:30</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2016年7月21日[43]</p></td>
 <td><p>第2季</p></td>
 <td><p>13</p></td>
 <td><p>星期三至四 20:00-21:00</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>註釋:</strong></p>
 <references group="註" /></td>
 <td></td>
@@ -3218,13 +3227,20 @@ HELLO！！黃金拼圖</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>2019年10月9日</p></td>
+<td><p>第2季OVA</p></td>
+<td><p>1</p></td>
+<td><p>22:00－22:30</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="../Page/幕末Rock.md" title="wikilink">幕末Rock</a></p></td>
 <td><p>7月13日</p></td>
 <td></td>
 <td><p>12</p></td>
 <td><p>星期一至五 18:30－19:30</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/聖戰刻耳柏洛斯" title="wikilink">龍心戰紀</a></p></td>
 <td><p>7月21日</p></td>
 <td></td>
@@ -3232,28 +3248,28 @@ HELLO！！黃金拼圖</a></p></td>
 <td><p>星期一至五 18:30－19:30<br />
 7月29日 18:30－19:00</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/在下坂本，有何貴幹？.md" title="wikilink">在下坂本，有何貴幹？</a></p></td>
 <td><p>7月26日</p></td>
 <td></td>
 <td><p>13[48]</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/緋彈的亞莉亞.md" title="wikilink">緋彈的亞莉亞</a>AA</p></td>
 <td><p>8月1日</p></td>
 <td><p>外傳</p></td>
 <td><p>12</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/精靈使的劍舞" title="wikilink">精靈使的劍舞</a></p></td>
 <td><p>8月16日</p></td>
 <td></td>
 <td><p>12</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/一拳超人.md" title="wikilink">一拳超人<br />
 <strong>一拳超人II</strong></a></p></td>
 <td><p>9月12日</p></td>
@@ -3261,56 +3277,56 @@ HELLO！！黃金拼圖</a></p></td>
 <td><p>12</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2019年4月10日</p></td>
 <td><p>特輯</p></td>
 <td><p>1</p></td>
 <td><p>22:00－22:30</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2019年4月10日</p></td>
 <td><p>第2季</p></td>
-<td><p>預定12</p></td>
+<td><p>12</p></td>
 <td><p>星期三22:30－23:00</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/笑傲曇天.md" title="wikilink">笑傲曇天</a></p></td>
 <td><p>9月29日</p></td>
 <td></td>
 <td><p>12</p></td>
 <td><p>星期四至五 22:00－23:00</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong><a href="../Page/輕拍翻轉小魔女.md" title="wikilink">輕拍翻轉小魔女</a></strong></p></td>
 <td><p>10月7日</p></td>
 <td></td>
 <td><p>13</p></td>
 <td><p>星期五 19:30－20:00</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong><a href="../Page/烏龍麵之國的金色毛毬.md" title="wikilink">烏-{}-龍麵之國的金色毛毬</a></strong></p></td>
 <td><p>10月9日</p></td>
 <td></td>
 <td><p>12</p></td>
 <td><p>星期日 18:30－19:00</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/美男高校地球防衛部LOVE！.md" title="wikilink">美男高校地球防衛部LOVE！</a></p></td>
 <td><p>11月10日</p></td>
 <td><p>第1季</p></td>
 <td><p>12</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/俺物語！！.md" title="wikilink">俺物語！！</a></p></td>
 <td><p>12月26日</p></td>
 <td></td>
 <td><p>24</p></td>
 <td><p>星期一至二 20:00－21:00</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>註釋:</strong></p>
 <references group="註" /></td>
 <td></td>
@@ -3843,8 +3859,8 @@ JoJo的奇妙冒險: 黃金之風</a></p></td>
 <td><p>星期一及二 22:00－23:00</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/請讓我撒嬌，仙狐大人！" title="wikilink">請讓我撒嬌，仙狐大人！</a></strong></p></td>
-<td><p>4月11日</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/請讓我撒嬌，仙狐大人！" title="wikilink">請讓我撒嬌，仙狐大人！</a></em></p></td>
+<td><p>4月11日[57]</p></td>
 <td></td>
 <td><p>12</p></td>
 <td><p>星期四 20:30－21:00</p></td>
@@ -3858,33 +3874,40 @@ JoJo的奇妙冒險: 黃金之風</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/妖怪手錶_光影之卷" title="wikilink">妖怪手錶 光影之卷</a></p></td>
-<td><p>6月26日</p></td>
+<td><p>6月26日[58]</p></td>
 <td></td>
 <td><p>49</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><em><a href="../Page/獵獸神兵.md" title="wikilink">獵獸神兵</a></em></p></td>
-<td><p>7月2日</p></td>
+<td><p><strong><a href="../Page/獵獸神兵.md" title="wikilink">獵獸神兵</a></strong></p></td>
+<td><p>7月2日[59]</p></td>
 <td></td>
-<td><p>預定12</p></td>
+<td><p>12</p></td>
 <td><p>星期二 20:30－21:00</p></td>
 </tr>
 <tr class="odd">
 <td><p><em><a href="../Page/異世界超能魔術師.md" title="wikilink">異世界超能魔術師</a></em></p></td>
 <td><p>7月11日</p></td>
 <td></td>
-<td><p>預定12</p></td>
+<td><p>12</p></td>
 <td><p>星期四 20:30－21:00</p></td>
 </tr>
 <tr class="even">
-<td><p><em><a href="../Page/爆肝工程師的異世界狂想曲.md" title="wikilink">爆肝工程師的異世界狂想曲</a></em></p></td>
-<td><p>9月24日</p></td>
+<td><p><a href="../Page/爆肝工程師的異世界狂想曲.md" title="wikilink">爆肝工程師的異世界狂想曲</a></p></td>
+<td><p>9月24日[60]</p></td>
 <td></td>
 <td><p>12</p></td>
-<td><p>星期二 20:30－21:00</p></td>
+<td><p>星期一及二 20:30－21:00</p></td>
 </tr>
 <tr class="odd">
+<td><p><em><a href="../Page/超人高中生們即便在異世界也能從容生存！.md" title="wikilink">超人高中生們即便在異世界也能從容生存！</a></em></p></td>
+<td><p>10月4日</p></td>
+<td></td>
+<td><p>預定12</p></td>
+<td><p>星期五 20:30－21:00</p></td>
+</tr>
+<tr class="even">
 <td><p><strong>註釋:</strong></p>
 <references group="註" /></td>
 <td></td>
@@ -4081,9 +4104,11 @@ JoJo的奇妙冒險: 黃金之風</a></p></td>
   - 《ANIMAX MUSIX - LANTIS FESTIVAL TOKYO - MINORI CHIHARA SPECIAL》
   - 《ANIMAX MUSIX 2014 YOKOHAMA》
   - 《ANIMAX MUSIX 2016 YOKOHAMA》
+  - 《ANIMAX MUSIX 2018 YOKOHAMA》
   - 《ANIMAX MUSIX 2015 OSAKA》
   - 《ANIMAX MUSIX 2016 OSAKA》
   - 《ANIMAX MUSIX 2017 OSAKA》
+  - 《ANIMAX MUSIX 2019 OSAKA》
   - 《DANNY CHOO 潮講日本（第1 - 2季）》
   - 《Super Big Product Fun Show》
   - 《[MUSIC STATION](../Page/MUSIC_STATION.md "wikilink")》
@@ -4162,3 +4187,7 @@ JoJo的奇妙冒險: 黃金之風</a></p></td>
 54. 最後1集為特別篇
 55. 配合開始與日同步首播[戀愛與謊言](https://zh.wikipedia.org/wiki/戀愛與謊言 "wikilink")；每週二22:00-22:30取消，22:30-23:00改重播[惡魔的謎語](../Page/惡魔的謎語.md "wikilink")
 56. 首集為前日譚，即日方的第0集。
+57. 日本播映日期：2019年4月10日－6月26日
+58. 日本播映日期：2018年4月13日－2019年3月29日
+59. 日本播映日期：2019年7月1日－9月16日
+60. 日本播映日期：2018年1月11日－3月29日

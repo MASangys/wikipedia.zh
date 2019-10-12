@@ -4,7 +4,7 @@
 
 QUIC旨在提供几乎等同于TCP连接的[可靠性](https://zh.wikipedia.org/wiki/可靠性_\(计算机网络\) "wikilink")，但[延迟大大减少](https://zh.wikipedia.org/wiki/來回通訊延遲 "wikilink")。它主要通过两个理解[HTTP流量的行为来实现这一点](https://zh.wikipedia.org/wiki/HTTP "wikilink")。\[6\]
 
-第一个变化是在连接建立期间大大减少。由于大多数HTTP连接都需要[TLS](https://zh.wikipedia.org/wiki/TLS "wikilink")，因此QUIC使协商[密钥和支持的协议成为初始](https://zh.wikipedia.org/wiki/傳輸層安全性協定#密钥交换和密钥协商 "wikilink")[握手过程的一部分](https://zh.wikipedia.org/wiki/握手_\(技术\) "wikilink")。 当客户端打开连接时，[服务器](../Page/服务器.md "wikilink")响应的[数据包包括将来的数据包](https://zh.wikipedia.org/wiki/数据包 "wikilink")[加密所需的数据](https://zh.wikipedia.org/wiki/加密 "wikilink")。这消除了TCP上的先连接并通过附加数据包协商安全协议的需要。其他协议可以以相同的方式进行服务，并将多个步骤组合到一个请求中。 然后，这些数据既可用于初始设置中的后续请求，也可用于未来的请求。\[7\]
+第一个变化是在连接建立期间大大减少。由于大多数HTTP连接都需要[TLS](https://zh.wikipedia.org/wiki/TLS "wikilink")，因此QUIC使协商[密钥和支持的协议成为初始](https://zh.wikipedia.org/wiki/傳輸層安全性協定#密钥交换和密钥协商 "wikilink")[握手过程的一部分](https://zh.wikipedia.org/wiki/握手_\(技术\) "wikilink")。 当客户端打开连接时，[服务器](../Page/服务器.md "wikilink")响应的[数据包包括将来的数据包](https://zh.wikipedia.org/wiki/数据包 "wikilink")[加密](../Page/加密.md "wikilink")所需的数据。这消除了TCP上的先连接并通过附加数据包协商安全协议的需要。其他协议可以以相同的方式进行服务，并将多个步骤组合到一个请求中。 然后，这些数据既可用于初始设置中的后续请求，也可用于未来的请求。\[7\]
 
 QUIC使用UDP协议作为其基础，不包括[丢失恢复](https://zh.wikipedia.org/wiki/丢包 "wikilink")。相反，每个QUIC流是单独控制的，并且在QUIC级别而不是UDP级别重传丢失的数据。这意味着如果在一个流中发生错误，[协议栈](../Page/协议栈.md "wikilink")仍然可以独立地继续为其他流提供服务。 这在提高易出错链路的性能方面非常有用，因为在大多数情况下TCP协议通知数据包丢失或损坏之前可能会收到大量的正常数据，但是在纠正错误之前其他的正常请求都会等待甚至重发。 QUIC在修复单个流时可以自由处理其他数据，也就是说即使一个请求发生了错误也不会影响到其他的请求。\[8\]
 

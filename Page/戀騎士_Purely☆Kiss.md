@@ -136,7 +136,7 @@ OVA版是由PinkPineapple發售。エルシア＝ハーヴェンス篇和藤守�
 
 ## 相關條目
 
-  - [聖騎士 Melty☆Lovers](https://zh.wikipedia.org/wiki/聖騎士_Melty☆Lovers "wikilink")
+  - [聖騎士 Melty☆Lovers](../Page/聖騎士_Melty☆Lovers.md "wikilink")
 
 ## 參考來源
 

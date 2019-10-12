@@ -683,4 +683,4 @@
 
 [Category:1995年成立的公司](https://zh.wikipedia.org/wiki/Category:1995年成立的公司 "wikilink") [Category:2006年結業公司](https://zh.wikipedia.org/wiki/Category:2006年結業公司 "wikilink") [Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink") [Category:日本已结业公司](https://zh.wikipedia.org/wiki/Category:日本已结业公司 "wikilink")
 
-1.  [WEBアニメスタイル「いろんな会社にオジャマしちゃおう！第2回 ラディクス」](http://www.style.fm/log/02_topics/top030829.html). \[2015-03-15\] .
+1.  . \[2015-03-15\] .

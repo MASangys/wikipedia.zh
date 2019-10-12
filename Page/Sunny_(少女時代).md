@@ -572,6 +572,12 @@
 <td><p><a href="../Page/Shall_We_Chicken.md" title="wikilink">Shall We Chicken</a></p></td>
 <td><p>與、<a href="../Page/李奎翰.md" title="wikilink">李奎翰</a>、柳泰桓（主廚） 主持</p></td>
 </tr>
+<tr class="even">
+<td><p>2019年9月16日</p></td>
+<td><p><a href="../Page/Channel_A.md" title="wikilink">Channel A</a></p></td>
+<td><p><a href="../Page/Eye_Contact.md" title="wikilink">Eye Contact</a></p></td>
+<td><p>特別MC，與<a href="../Page/姜鎬童.md" title="wikilink">姜鎬童</a>、<a href="../Page/李尚敏.md" title="wikilink">李尚敏</a>主持</p></td>
+</tr>
 </tbody>
 </table>
 

@@ -1,4 +1,4 @@
-《**Me, re-do**》是香港女歌手[容祖兒第三十四張個人唱片](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")，於2015年4月9日推出。此EP是[容祖兒自](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")2013年後久違一年多的廣東唱片，共收錄四首歌曲及MV。
+《**Me, re-do**》是香港女歌手[容祖兒](../Page/容祖兒.md "wikilink")第三十四張個人唱片，於2015年4月9日推出。此EP是[容祖兒](../Page/容祖兒.md "wikilink")自2013年後久違一年多的廣東唱片，共收錄四首歌曲及MV。
 
 此唱片由[黃偉文擔任製作總監](https://zh.wikipedia.org/wiki/黃偉文 "wikilink")，以婚嫁作主題，將西方婚禮新娘出嫁，集合四種不同物件 (Something Old，Something New，Something Borrowed 及 Something Blue) 便能得到祝福的傳統習俗作為製作概念。Something Old有日本殿堂級歌手[五輪真弓](../Page/五輪真弓.md "wikilink")作曲的《樂觀》；Something New有近代新晉女創作人[翁瑋盈作曲的](https://zh.wikipedia.org/wiki/翁瑋盈 "wikilink")《天然呆》；Something Borrowed有翻唱[張學友](https://zh.wikipedia.org/wiki/張學友 "wikilink")1995年的作品《這麼近那麼遠》；Something Blue有唱片封套的藍色背景。\[1\]
 
@@ -10,12 +10,12 @@
 
 #### DVD
 
-| 曲目 | 名稱       | 導演                                                  |
-| -- | -------- | --------------------------------------------------- |
-| 1  | 天然呆MV    | [容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink") |
-| 2  | 樂觀MV     | 黃中平                                                 |
-| 3  | 飄紅MV     | 莊少榮                                                 |
-| 4  | 這麼近那麼遠MV | 莊少榮                                                 |
+| 曲目 | 名稱       | 導演                               |
+| -- | -------- | -------------------------------- |
+| 1  | 天然呆MV    | [容祖兒](../Page/容祖兒.md "wikilink") |
+| 2  | 樂觀MV     | 黃中平                              |
+| 3  | 飄紅MV     | 莊少榮                              |
+| 4  | 這麼近那麼遠MV | 莊少榮                              |
 
 ## 音樂錄影帶
 
@@ -33,7 +33,7 @@
 <td><p>1</p></td>
 <td><p>天然呆</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/容祖兒" title="wikilink">容祖兒於英國拍攝</a></p></td>
+<td><p><a href="../Page/容祖兒.md" title="wikilink">容祖兒</a>於英國拍攝</p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>

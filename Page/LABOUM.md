@@ -802,7 +802,7 @@ PlotData =
 | 7月8日                                               | 《[SNL Korea](../Page/SNL_Korea.md "wikilink")》                      | 率濱                                                                  | 客串            |            |
 | 8月19日                                              | KBS                                                                 | 《[不朽的名曲：傳說在歌唱](../Page/不朽的名曲：傳說在歌唱.md "wikilink")》                  | 全員            |            |
 | 10月28日－2018年2月10日                                  | 《[The Unit](../Page/The_Unit.md "wikilink")》                        | 柔廷、海仁、ZN                                                            |               |            |
-| 12月1日－2018年1月26日                                   | SBS                                                                 | 《[叢林的法則](https://zh.wikipedia.org/wiki/叢林的法則 "wikilink")》           | 率濱            | 庫克群島篇      |
+| 12月1日－2018年1月26日                                   | SBS                                                                 | 《[叢林的法則](../Page/叢林的法則.md "wikilink")》                              | 率濱            | 庫克群島篇      |
 | 12月9日                                              | 《[Master Key](../Page/Master_Key.md "wikilink")》                    |                                                                     |               |            |
 | 2018年                                              |                                                                     |                                                                     |               |            |
 | 1月7日                                               | MBC                                                                 | 《[神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")》                    | 率濱            | 以參賽者身分     |
@@ -832,85 +832,90 @@ PlotData =
 | 7月24日                                              | tvN                                                                 | 《[無論什麼friends](../Page/無論什麼friends.md "wikilink")》                  | 率濱            |            |
 | 8月11日                                              | 《[Player (韓國綜藝)](../Page/Player_\(韓國綜藝\).md "wikilink")》            |                                                                     |               |            |
 | 9月7日                                               | JTBC2                                                               | 《[RUN.wav](../Page/RUN.wav.md "wikilink")》                          | 全員            |            |
-| 9月17日                                              | MBC                                                                 | 《浪漫CLUB》                                                            | 率濱            |            |
+| 9月17日－                                             | MBC                                                                 | 《浪漫CLUB》                                                            | 率濱            | 固定出演       |
 | 9月18日                                              | JTBC2                                                               | 《今天的運勢》                                                             |               |            |
 | Arirang TV                                         | 《Showbiz Korea》                                                     | ZN                                                                  |               |            |
+| 9月23日                                              | Arirang TV                                                          | 《[After School Club](../Page/After_School_Club.md "wikilink")》      | 全員            |            |
 
 ### 廣播節目
 
-| 日期                      | 電台                                                | 節目名稱                           | 參與成員  | 備註     |
-| ----------------------- | ------------------------------------------------- | ------------------------------ | ----- | ------ |
-| 2014年                   |                                                   |                                |       |        |
-| 9月29日                   | KBS Cool FM                                       | 《Super Junior的 Kiss the Radio》 | 柔廷    |        |
-| 10月11日                  | 全員                                                |                                |       |        |
-| 11月7日                   | SBS Power FM                                      | 《Kwill的Young Street》           | 全員    |        |
-| 11月29日                  | MBC                                               | 《鄭俊英的深深打破》                     |       |        |
-| 12月15日                  | Arirang Radio                                     | 《Sound K》                      |       |        |
-| 2015年                   |                                                   |                                |       |        |
-| 3月24日、5月28日             | KBS Cool FM                                       | 《Super Junior的 Kiss the Radio》 | 柔廷    |        |
-| 4月3日                    | 全員                                                |                                |       |        |
-| 4月6日、12月7日              | Arirang Radio                                     | 《Sound K》                      | 全員    |        |
-| 4月12日                   | SBS Power FM                                      | 《金昌烈的Old School》               | 柔廷、率濱 |        |
-| 11月30日、12月6日            | SBS Power FM                                      | 《兩點出逃 Cultwo Show》             | 全員    |        |
-| 12月10日                  | 《李國主的Young Street》                                | 柔廷、海仁                          | 公開放送  |        |
-| 2016年                   |                                                   |                                |       |        |
-| 1月26日、9月7日              | MBC FM4U                                          | 《Tei的夢想電台》                     | 率濱    |        |
-| 3月1日                    | 《Good Morning FM全炫茂》                              | 柔廷                             |       |        |
-| 4月7日                    | 全員                                                | 公開放送                           |       |        |
-| 4月18日、9月2日              | KBS Cool FM                                       | 《Super Junior的 Kiss the Radio》 | 全員    |        |
-| 4月21日、8月29日             | SBS Power FM                                      | 《金昌烈的Old School》               |       |        |
-| 4月25日                   | 《李國主的Young Street》                                | 柔廷、昭娟、海仁                       |       |        |
-| 5月5日、9月1日、10月21日        | MBC FM4U                                          | 《正午的希望曲 我是金信英》                 | 全員    |        |
-| 5月16日、9月5日、12月8日、12月19日 | Arirang Radio                                     | 《Sound K》                      |       |        |
-| 5月30日、8月28日             | SBS Love FM                                       | 《金興國,奉萬台的翻轉生活》                 |       |        |
-| 6月18日                   | MBC                                               | 《朴慶琳的兩點約會》                     | 公開放送  |        |
-| 7月9日                    | KBS2 Radio                                        | 《你的早晨\!是朴恩英》                   |       |        |
-| 7月23日、9月7日              | SBS Love FM                                       | 《宋恩伊, 金淑的姐姐Radio》              |       |        |
-| 8月31日                   | 《Boom's Driving Club Radio》                       |                                |       |        |
-| 9月10日                   | 《樸素賢的Love Game》                                   |                                |       |        |
-| 10月7日                   | KBS Cool FM                                       | 《Kim Ji Won的屋塔房Radio》          |       |        |
-| 10月9日                   | SBS Power FM                                      | 《金昌烈的Old School》               | 公開放送  |        |
-| 12月11日                  | 《裴晟宰的 TEN》                                        |                                |       |        |
-| 12月19日                  | KBS Cool FM                                       | 《李洪基的 Kiss the Radio》          | 柔廷、昭娟 |        |
-| 2017年                   |                                                   |                                |       |        |
-| 1月26日                   | SBS Power FM                                      | 《金昌烈的Old School》               | 柔廷    |        |
-| 2月1日                    | KBS Cool FM                                       | 《李洪基的 Kiss the Radio》          | 柔廷、昭娟 |        |
-| 3月9日                    | 柔廷                                                |                                |       |        |
-| 4月20日                   | SBS Power FM                                      | 《兩點出逃 Cultwo Show》             | 全員    |        |
-| 4月22日                   | 《樸素賢的Love Game》                                   | 柔廷、昭娟                          | 錄音放送  |        |
-| 4月26日                   | MBC FM4U                                          | 《Tei的夢想電台》                     | 全員    |        |
-| 4月28日                   | KBS                                               | 《趙胤熙的提高音量》                     |       |        |
-| 5月1日                    | Arirang Radio                                     | 《Sound K》                      |       |        |
-| 5月3日                    | SBS Love FM                                       | 《尹亨彬 & 梁世炯的Two Man Show》       |       |        |
-| 5月7日                    | KBS Cool FM                                       | 《李洪基的 Kiss the Radio》          | 錄音放送  |        |
-| 5月8日                    | MBC FM                                            | 《Kangta 星光閃耀的夜晚》               | 柔廷、率濱 | 看得見的廣播 |
-| 5月10日                   | KBS Cool FM                                       | 《朴志胤的歌謠廣場》                     | 海仁    |        |
-| 5月11日、5月25日             | SBS Power FM                                      | 《李國主的Young Street》             | 柔廷、昭娟 |        |
-| 6月18日、6月25日             | KBS Cool FM                                       | 《李洪基的 Kiss the Radio》          | 柔廷    | 錄音放送   |
-| 7月28日                   | SBS Power FM                                      | 《裴晟宰的 TEN》                     | ZN、率濱 |        |
-| 7月31日                   | KBS Cool FM                                       | 《李秀智的歌謠廣場》                     | 全員    |        |
-| 8月10日                   | KBS Cool FM                                       | 《李洪基的 Kiss the Radio》          | 柔廷    |        |
-| 8月16日                   | SBS Power FM                                      | 《崔華靜的Power Time》               | 全員    |        |
-| 2018年                   |                                                   |                                |       |        |
-| 1月22日                   | KBS Cool FM                                       | 《李秀智的歌謠廣場》                     | ZN    |        |
-| 7月31日                   | SBS Power FM                                      | 《Boom Boom Power》              | 全員    |        |
-| 8月5日                    | EBS FM                                            | 《傾聽》                           |       |        |
-| 8月9日                    | SBS Power FM                                      | 《李國主的Young Street》             |       |        |
-| 8月10日                   | 《崔華靜的Power Time》                                  |                                |       |        |
-| 8月13日                   | Arirang Radio                                     | 《Sound K》                      |       |        |
-| 8月16日                   | KBS Cool FM                                       | 《文熙俊的Music Show》               |       |        |
-| 8月18日                   | SBS Power FM                                      | 《樸素賢的Love Game》                |       |        |
-| 8月28日                   | SBS Love FM                                       | 《柳英在的歌謠秀》                      |       |        |
-| 10月31日                  | SBS Power FM                                      | 《樸素賢的Love Game》                | 率濱    |        |
-| 12月12日                  | 《NCT的night night\!》                               | 全員                             |       |        |
-| 12月17日                  | Arirang Radio                                     | 《SUPER K-POP》                  |       |        |
-| 12月22日                  | SBS Power FM                                      | 《樸素賢的Love Game》                | 柔廷、海仁 | 錄音放送   |
-| 2019年                   |                                                   |                                |       |        |
-| 1月3日                    | MBC標準FM                                           | 《燦多的星光閃耀的夜晚 》                  | 全員    | 看得見的廣播 |
-| 1月10日                   | 《[IDOL RADIO](../Page/IDOL_RADIO.md "wikilink") 》 | ZN                             |       |        |
-| 3月17日                   | SBS Power FM                                      | 《裴晟宰的 TEN》                     | 率濱    | 錄音放送   |
-| 9月19日                   | MBC FM4U                                          | 《朴經的夢想電台》                      | 全員    |        |
-| 9月20日                   | SBS Love FM                                       | 《Kim Sang Hyuk,DinDin 哥哥的廣播》   |       |        |
+| 日期                      | 電台                                                | 節目名稱                           | 參與成員        | 備註     |
+| ----------------------- | ------------------------------------------------- | ------------------------------ | ----------- | ------ |
+| 2014年                   |                                                   |                                |             |        |
+| 9月29日                   | KBS Cool FM                                       | 《Super Junior的 Kiss the Radio》 | 柔廷          |        |
+| 10月11日                  | 全員                                                |                                |             |        |
+| 11月7日                   | SBS Power FM                                      | 《Kwill的Young Street》           | 全員          |        |
+| 11月29日                  | MBC                                               | 《鄭俊英的深深打破》                     |             |        |
+| 12月15日                  | Arirang Radio                                     | 《Sound K》                      |             |        |
+| 2015年                   |                                                   |                                |             |        |
+| 3月24日、5月28日             | KBS Cool FM                                       | 《Super Junior的 Kiss the Radio》 | 柔廷          |        |
+| 4月3日                    | 全員                                                |                                |             |        |
+| 4月6日、12月7日              | Arirang Radio                                     | 《Sound K》                      | 全員          |        |
+| 4月12日                   | SBS Power FM                                      | 《金昌烈的Old School》               | 柔廷、率濱       |        |
+| 11月30日、12月6日            | SBS Power FM                                      | 《兩點出逃 Cultwo Show》             | 全員          |        |
+| 12月10日                  | 《李國主的Young Street》                                | 柔廷、海仁                          | 公開放送        |        |
+| 2016年                   |                                                   |                                |             |        |
+| 1月26日、9月7日              | MBC FM4U                                          | 《Tei的夢想電台》                     | 率濱          |        |
+| 3月1日                    | 《Good Morning FM全炫茂》                              | 柔廷                             |             |        |
+| 4月7日                    | 全員                                                | 公開放送                           |             |        |
+| 4月18日、9月2日              | KBS Cool FM                                       | 《Super Junior的 Kiss the Radio》 | 全員          |        |
+| 4月21日、8月29日             | SBS Power FM                                      | 《金昌烈的Old School》               |             |        |
+| 4月25日                   | 《李國主的Young Street》                                | 柔廷、昭娟、海仁                       |             |        |
+| 5月5日、9月1日、10月21日        | MBC FM4U                                          | 《正午的希望曲 我是金信英》                 | 全員          |        |
+| 5月16日、9月5日、12月8日、12月19日 | Arirang Radio                                     | 《Sound K》                      |             |        |
+| 5月30日、8月28日             | SBS Love FM                                       | 《金興國,奉萬台的翻轉生活》                 |             |        |
+| 6月18日                   | MBC                                               | 《朴慶琳的兩點約會》                     | 公開放送        |        |
+| 7月9日                    | KBS2 Radio                                        | 《你的早晨\!是朴恩英》                   |             |        |
+| 7月23日、9月7日              | SBS Love FM                                       | 《宋恩伊, 金淑的姐姐Radio》              |             |        |
+| 8月31日                   | 《Boom's Driving Club Radio》                       |                                |             |        |
+| 9月10日                   | 《樸素賢的Love Game》                                   |                                |             |        |
+| 10月7日                   | KBS Cool FM                                       | 《Kim Ji Won的屋塔房Radio》          |             |        |
+| 10月9日                   | SBS Power FM                                      | 《金昌烈的Old School》               | 公開放送        |        |
+| 12月11日                  | 《裴晟宰的 TEN》                                        |                                |             |        |
+| 12月19日                  | KBS Cool FM                                       | 《李洪基的 Kiss the Radio》          | 柔廷、昭娟       |        |
+| 2017年                   |                                                   |                                |             |        |
+| 1月26日                   | SBS Power FM                                      | 《金昌烈的Old School》               | 柔廷          |        |
+| 2月1日                    | KBS Cool FM                                       | 《李洪基的 Kiss the Radio》          | 柔廷、昭娟       |        |
+| 3月9日                    | 柔廷                                                |                                |             |        |
+| 4月20日                   | SBS Power FM                                      | 《兩點出逃 Cultwo Show》             | 全員          |        |
+| 4月22日                   | 《樸素賢的Love Game》                                   | 柔廷、昭娟                          | 錄音放送        |        |
+| 4月26日                   | MBC FM4U                                          | 《Tei的夢想電台》                     | 全員          |        |
+| 4月28日                   | KBS                                               | 《趙胤熙的提高音量》                     |             |        |
+| 5月1日                    | Arirang Radio                                     | 《Sound K》                      |             |        |
+| 5月3日                    | SBS Love FM                                       | 《尹亨彬 & 梁世炯的Two Man Show》       |             |        |
+| 5月7日                    | KBS Cool FM                                       | 《李洪基的 Kiss the Radio》          | 錄音放送        |        |
+| 5月8日                    | MBC FM                                            | 《Kangta 星光閃耀的夜晚》               | 柔廷、率濱       | 看得見的廣播 |
+| 5月10日                   | KBS Cool FM                                       | 《朴志胤的歌謠廣場》                     | 海仁          |        |
+| 5月11日、5月25日             | SBS Power FM                                      | 《李國主的Young Street》             | 柔廷、昭娟       |        |
+| 6月18日、6月25日             | KBS Cool FM                                       | 《李洪基的 Kiss the Radio》          | 柔廷          | 錄音放送   |
+| 7月28日                   | SBS Power FM                                      | 《裴晟宰的 TEN》                     | ZN、率濱       |        |
+| 7月31日                   | KBS Cool FM                                       | 《李秀智的歌謠廣場》                     | 全員          |        |
+| 8月10日                   | KBS Cool FM                                       | 《李洪基的 Kiss the Radio》          | 柔廷          |        |
+| 8月16日                   | SBS Power FM                                      | 《崔華靜的Power Time》               | 全員          |        |
+| 2018年                   |                                                   |                                |             |        |
+| 1月22日                   | KBS Cool FM                                       | 《李秀智的歌謠廣場》                     | ZN          |        |
+| 7月31日                   | SBS Power FM                                      | 《Boom Boom Power》              | 全員          |        |
+| 8月5日                    | EBS FM                                            | 《傾聽》                           |             |        |
+| 8月9日                    | SBS Power FM                                      | 《李國主的Young Street》             |             |        |
+| 8月10日                   | 《崔華靜的Power Time》                                  |                                |             |        |
+| 8月13日                   | Arirang Radio                                     | 《Sound K》                      |             |        |
+| 8月16日                   | KBS Cool FM                                       | 《文熙俊的Music Show》               |             |        |
+| 8月18日                   | SBS Power FM                                      | 《樸素賢的Love Game》                |             |        |
+| 8月28日                   | SBS Love FM                                       | 《柳英在的歌謠秀》                      |             |        |
+| 10月31日                  | SBS Power FM                                      | 《樸素賢的Love Game》                | 率濱          |        |
+| 12月12日                  | 《NCT的night night\!》                               | 全員                             |             |        |
+| 12月17日                  | Arirang Radio                                     | 《SUPER K-POP》                  |             |        |
+| 12月22日                  | SBS Power FM                                      | 《樸素賢的Love Game》                | 柔廷、海仁       | 錄音放送   |
+| 2019年                   |                                                   |                                |             |        |
+| 1月3日                    | MBC標準FM                                           | 《燦多的星光閃耀的夜晚 》                  | 全員          | 看得見的廣播 |
+| 1月10日                   | 《[IDOL RADIO](../Page/IDOL_RADIO.md "wikilink") 》 | ZN                             |             |        |
+| 3月17日                   | SBS Power FM                                      | 《裴晟宰的 TEN》                     | 率濱          | 錄音放送   |
+| 9月19日                   | MBC FM4U                                          | 《朴經的夢想電台》                      | 全員          |        |
+| 9月20日                   | SBS Love FM                                       | 《Kim Sang Hyuk,DinDin 哥哥的廣播》   |             |        |
+| 9月23日                   | Arirang Radio                                     | 《SUPER K-POP》                  |             |        |
+| 9月26日                   | SBS Power FM                                      | 《兩點出逃 Cultwo Show》             | 看得見的廣播      |        |
+| 9月28日                   | 《樸素賢的Love Game》                                   | 昭娟、率濱                          |             |        |
+| 10月1日                   | tbs eFM                                           | 《Skool of K-Pop》               | 柔廷、ZN、昭娟、海仁 |        |
 
 ## 主持
 
@@ -1086,6 +1091,7 @@ PlotData =
 | Satellite        |
 | M\! Countdown    |
 | Music Bank       |
+| Show\! 音樂中心      |
 | Firework(불꽃놀이)   |
 | THE SHOW         |
 | Show Champion    |
@@ -1278,6 +1284,8 @@ PlotData =
 | 9月20日     | 《2019 Daeco Beer Festival》            | 比來洞行政福利中心                     |
 | 9月21日     | 《首爾韓醫師會 Family Concert》               | Seoul Land                    |
 | 《義王白雲藝術節》 | 白雲湖堤停車場                               |                               |
+| 9月24日     | 《高城栗古同心慶典》                            | 高城綜合運動場                       |
+| 9月27日     | 《MBN HERO CONCERT》                    | 蠶室室內體育館                       |
 | 9月30日     | 《MU：CON 2019 Showcase》                | COEX SQUARE                   |
 
 ## 大型拼盤演唱會
@@ -1376,6 +1384,12 @@ PlotData =
 </tr>
 <tr class="odd">
 <td><p>I'M YOURS</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年</p></td>
+</tr>
+<tr class="odd">
+<td><p>Two Of Us</p></td>
 </tr>
 <tr class="even">
 <td><ul>

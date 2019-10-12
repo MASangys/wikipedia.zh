@@ -75,7 +75,7 @@
 
   - [Flug Revue test flight report](https://web.archive.org/web/20071004171102/http://www.flug-revue.rotor.com/FRHeft7X/FRHeft75/FRH7502/FR7502a.htm) (in German)
 
-[Category:三角翼飞机](https://zh.wikipedia.org/wiki/Category:三角翼飞机 "wikilink") [Category:萨博飞机](https://zh.wikipedia.org/wiki/Category:萨博飞机 "wikilink") [Category:1960-1969年的瑞典战斗机](https://zh.wikipedia.org/wiki/Category:1960-1969年的瑞典战斗机 "wikilink") [Category:鸭式飞机](https://zh.wikipedia.org/wiki/Category:鸭式飞机 "wikilink") [Category:单引擎喷气式飞机](https://zh.wikipedia.org/wiki/Category:单引擎喷气式飞机 "wikilink") [Category:瑞典核武器计划](https://zh.wikipedia.org/wiki/Category:瑞典核武器计划 "wikilink") [Category:1971_introductions](https://zh.wikipedia.org/wiki/Category:1971_introductions "wikilink")
+[Category:三角翼飞机](https://zh.wikipedia.org/wiki/Category:三角翼飞机 "wikilink") [Category:萨博飞机](https://zh.wikipedia.org/wiki/Category:萨博飞机 "wikilink") [Category:1960-1969年的瑞典战斗机](https://zh.wikipedia.org/wiki/Category:1960-1969年的瑞典战斗机 "wikilink") [Category:鸭式飞机](https://zh.wikipedia.org/wiki/Category:鸭式飞机 "wikilink") [Category:瑞典核武器计划](https://zh.wikipedia.org/wiki/Category:瑞典核武器计划 "wikilink") [Category:1971_introductions](https://zh.wikipedia.org/wiki/Category:1971_introductions "wikilink") [Category:單發噴射機](https://zh.wikipedia.org/wiki/Category:單發噴射機 "wikilink")
 
 1.
 

@@ -76,7 +76,7 @@
 <tr class="even">
 <td><p><a href="../Page/鄭海均.md" title="wikilink">鄭海均</a></p></td>
 <td><p>安治秀</p></td>
-<td><p>40歲中旬～50歲後半，廣域搜查隊股長。首爾地方警察廳搜索局長-{zh-hk:金范周; zh-tw:金范洙;}-的棋子。</p></td>
+<td><p>40歲中旬～50歲後半，廣域搜查隊股長。首爾地方警察廳搜索局長-{zh-cn:金范周;zh-hk:金范周; zh-tw:金范洙;}-的棋子。</p></td>
 <td><p><a href="../Page/葉振聲.md" title="wikilink">葉振聲</a></p></td>
 <td><p><a href="../Page/林谷珍.md" title="wikilink">林谷珍</a></p></td>
 </tr>

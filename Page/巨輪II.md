@@ -2231,7 +2231,7 @@ Noon之男友<br />
 <td><p>11</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/江富強" title="wikilink">江富強</a></p></td>
+<td><p><a href="../Page/江富強.md" title="wikilink">江富強</a></p></td>
 <td><p>黑幫手下</p></td>
 <td></td>
 <td><p>11</p></td>

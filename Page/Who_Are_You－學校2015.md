@@ -1,4 +1,4 @@
-《**Who Are You－學校2015**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS於](../Page/韓國放送公社.md "wikilink")2015年4月27日起播出的[月火連續劇](../Page/KBS月火連續劇.md "wikilink")，由[金所泫](../Page/金所泫.md "wikilink")、[南柱赫及](https://zh.wikipedia.org/wiki/南柱赫 "wikilink")[陸星材](../Page/陸星材.md "wikilink")主演 \[1\]\[2\]，此劇講述雙胞胎姊妹錯置的命運，李恩菲（[金所泫](../Page/金所泫.md "wikilink") 飾）因同學惡意霸凌選擇自殺而喪失記憶後，意外繼承雙胞胎姐姐的身份，進而展開尋找真相的校園故事。此劇是KBS《學校》系列第6部作品。
+《**Who Are You－學校2015**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS於](../Page/韓國放送公社.md "wikilink")2015年4月27日起播出的[月火連續劇](../Page/KBS月火連續劇.md "wikilink")，由[金所泫](../Page/金所泫.md "wikilink")、[陸星材](../Page/陸星材.md "wikilink")及[南柱赫主演](https://zh.wikipedia.org/wiki/南柱赫 "wikilink") \[1\]\[2\]，此劇講述雙胞胎姊妹錯置的命運，李恩菲（[金所泫](../Page/金所泫.md "wikilink") 飾）因同學惡意霸凌選擇自殺而喪失記憶後，意外繼承雙胞胎姐姐的身份，進而展開尋找真相的校園故事。此劇是KBS《學校》系列第6部作品。
 
 ## 演員陣容
 
@@ -28,16 +28,16 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/南柱赫" title="wikilink">南柱赫</a><br />
-</p></td>
-<td><p>韓以安</p></td>
-<td><p>世江高中的游泳運動員，單親，恩星的十年知己、青梅竹馬。憑借著整天游泳這一項進入世江高中的體育特長生和跑步，因此對自己很嚴格，是個不容許自己失敗的人。因為誤以為恩星已死而糾結鬱悶，知道恩菲不是恩星後內心很掙扎。後為了阻止姜素英揭露恩菲錯過比賽而車禍受傷，且拒絕復健，在恩菲送了游泳圖樣的獎牌鼓勵他才讓他做回原本的自己。恩星回來後，向恩星坦承自己喜歡上恩菲的事實，並結束十年的暗戀。</p></td>
-</tr>
-<tr class="odd">
 <td><p><a href="../Page/陸星材.md" title="wikilink">陸星材</a><br />
 </p></td>
 <td><p>孔太光</p></td>
 <td><p>恩星的同學，爸爸是學校財團董事長。兒時生日時目睹父母爭吵離婚，對他的心理造成永久傷害。常做些奇怪的舉動並到處惹事，只是為得到爸爸的關心。表面總是嘻皮笑臉，實則是為了隱藏內心的痛苦。本性善良體貼，但從小缺乏家庭關愛而變成問題學生。恩菲令他明白原來世界上還有一個願意關心他的人，並不把他當成異類。對失憶後的恩菲產生好奇而靠近她、並不自覺地越來越在乎她。總是在恩菲被欺負和遭遇困難時第一個保護她，看見恩菲和以安太過親近就會感到莫名的不開心。除了恩菲和恩星的養母宋美京外，初時只有他和姜素英知道恩菲的真正身份。</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/南柱赫" title="wikilink">南柱赫</a><br />
+</p></td>
+<td><p>韓以安</p></td>
+<td><p>世江高中的游泳運動員，單親，恩星的十年知己、青梅竹馬。憑借著整天游泳這一項進入世江高中的體育特長生和跑步，因此對自己很嚴格，是個不容許自己失敗的人。因為誤以為恩星已死而糾結鬱悶，知道恩菲不是恩星後內心很掙扎。後為了阻止姜素英揭露恩菲錯過比賽而車禍受傷，且拒絕復健，在恩菲送了游泳圖樣的獎牌鼓勵他才讓他做回原本的自己。</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -606,7 +606,7 @@
 [Category:2015年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2015年韓國電視劇集 "wikilink") [Category:韓國懸疑劇](https://zh.wikipedia.org/wiki/Category:韓國懸疑劇 "wikilink") [Category:高中背景電視劇](https://zh.wikipedia.org/wiki/Category:高中背景電視劇 "wikilink") [Category:韓國校園劇](https://zh.wikipedia.org/wiki/Category:韓國校園劇 "wikilink") [Category:江南區_(首爾)背景作品](https://zh.wikipedia.org/wiki/Category:江南區_\(首爾\)背景作品 "wikilink") [Category:失憶症題材電視劇](https://zh.wikipedia.org/wiki/Category:失憶症題材電視劇 "wikilink") [Category:八大電視外購韓劇](https://zh.wikipedia.org/wiki/Category:八大電視外購韓劇 "wikilink") [Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink") [Category:雙胞胎題材電視劇](https://zh.wikipedia.org/wiki/Category:雙胞胎題材電視劇 "wikilink")
 
 1.  [金素賢、南柱赫、BTOB陸星材確定出演《Who are you》](http://www.koreastardaily.com/tc/news/59356)
-2.  [《學校2015》曝劇本排練照 金素賢南柱赫陸星材令人期待](http://www.koreastardaily.com/tc/news/59641)
+2.  [《學校2015》曝劇本排練照 金素賢陸星材令人期待](http://www.koreastardaily.com/tc/news/59641)
 3.  第16集改名為**高恩菲**。
 4.  [TNmS 멀티미디어 홈페이지](http://www.tnms.tv/rating/default.asp)
 5.  [AGB닐슨 미디어리서치 홈페이지](http://www.agbnielsen.co.kr/index.asp?ref=0)

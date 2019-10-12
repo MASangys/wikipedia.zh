@@ -296,6 +296,16 @@
 <td><p>2019年2月12日</p></td>
 <td><p>ISBN 978-4-8030-1269-9</p></td>
 </tr>
+<tr class="odd">
+<td><p>12</p></td>
+<td><p>2019年5月11日</p></td>
+<td><p>ISBN 978-4-8030-1295-8</p></td>
+</tr>
+<tr class="even">
+<td><p>13</p></td>
+<td><p>2019年8月10日</p></td>
+<td><p>ISBN 978-4-8030-1324-5</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -677,7 +687,7 @@ Report 112[19]</p></td>
 
   -
 
-[Category:日本網絡漫畫](https://zh.wikipedia.org/wiki/Category:日本網絡漫畫 "wikilink") [Category:改編成電影的日本漫畫](https://zh.wikipedia.org/wiki/Category:改編成電影的日本漫畫 "wikilink") [Category:2013年作品](https://zh.wikipedia.org/wiki/Category:2013年作品 "wikilink") [Category:高中背景漫畫](https://zh.wikipedia.org/wiki/Category:高中背景漫畫 "wikilink") [Category:戀愛漫畫](https://zh.wikipedia.org/wiki/Category:戀愛漫畫 "wikilink") [Category:青年漫畫](https://zh.wikipedia.org/wiki/Category:青年漫畫 "wikilink") [Category:高中背景動畫](https://zh.wikipedia.org/wiki/Category:高中背景動畫 "wikilink") [Category:隱瞞身分題材漫畫](https://zh.wikipedia.org/wiki/Category:隱瞞身分題材漫畫 "wikilink") [Category:2016年UHF動畫](https://zh.wikipedia.org/wiki/Category:2016年UHF動畫 "wikilink") [Category:漫畫改編舞台劇](https://zh.wikipedia.org/wiki/Category:漫畫改編舞台劇 "wikilink") [Category:2017年日本電影](https://zh.wikipedia.org/wiki/Category:2017年日本電影 "wikilink") [Category:日本爱情片](https://zh.wikipedia.org/wiki/Category:日本爱情片 "wikilink") [Category:2010年代爱情片](https://zh.wikipedia.org/wiki/Category:2010年代爱情片 "wikilink") [Category:高中背景電影](https://zh.wikipedia.org/wiki/Category:高中背景電影 "wikilink") [Category:日本校園電影](https://zh.wikipedia.org/wiki/Category:日本校園電影 "wikilink") [Category:松竹電影](https://zh.wikipedia.org/wiki/Category:松竹電影 "wikilink") [Category:日本漫畫改編真人電影](https://zh.wikipedia.org/wiki/Category:日本漫畫改編真人電影 "wikilink") [Category:Comico](https://zh.wikipedia.org/wiki/Category:Comico "wikilink")
+[Category:日本網絡漫畫](https://zh.wikipedia.org/wiki/Category:日本網絡漫畫 "wikilink") [Category:改編成電影的日本漫畫](https://zh.wikipedia.org/wiki/Category:改編成電影的日本漫畫 "wikilink") [Category:2013年作品](https://zh.wikipedia.org/wiki/Category:2013年作品 "wikilink") [Category:高中背景漫畫](https://zh.wikipedia.org/wiki/Category:高中背景漫畫 "wikilink") [Category:戀愛漫畫](https://zh.wikipedia.org/wiki/Category:戀愛漫畫 "wikilink") [Category:青年漫畫](https://zh.wikipedia.org/wiki/Category:青年漫畫 "wikilink") [Category:高中背景動畫](https://zh.wikipedia.org/wiki/Category:高中背景動畫 "wikilink") [Category:隱瞞身分題材漫畫](https://zh.wikipedia.org/wiki/Category:隱瞞身分題材漫畫 "wikilink") [Category:隱瞞身分題材動畫](https://zh.wikipedia.org/wiki/Category:隱瞞身分題材動畫 "wikilink") [Category:2016年UHF動畫](https://zh.wikipedia.org/wiki/Category:2016年UHF動畫 "wikilink") [Category:漫畫改編舞台劇](https://zh.wikipedia.org/wiki/Category:漫畫改編舞台劇 "wikilink") [Category:2017年日本電影](https://zh.wikipedia.org/wiki/Category:2017年日本電影 "wikilink") [Category:日本爱情片](https://zh.wikipedia.org/wiki/Category:日本爱情片 "wikilink") [Category:2010年代爱情片](https://zh.wikipedia.org/wiki/Category:2010年代爱情片 "wikilink") [Category:高中背景電影](https://zh.wikipedia.org/wiki/Category:高中背景電影 "wikilink") [Category:日本校園電影](https://zh.wikipedia.org/wiki/Category:日本校園電影 "wikilink") [Category:松竹電影](https://zh.wikipedia.org/wiki/Category:松竹電影 "wikilink") [Category:日本漫畫改編真人電影](https://zh.wikipedia.org/wiki/Category:日本漫畫改編真人電影 "wikilink") [Category:Comico](https://zh.wikipedia.org/wiki/Category:Comico "wikilink")
 
 1.
 

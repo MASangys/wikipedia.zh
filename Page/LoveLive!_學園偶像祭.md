@@ -388,7 +388,7 @@
 
 **《LoveLive\! 学园偶像祭 全明星》**（，简称“SIFAS”、“”或“”，是由KLab开发、武士道运营的手机游戏，原预定于2018年正式营运，於2018年9月4日宣布延期至2019年。游戏口号为“和你一起实现夢想”（）。
 
-游戏情报于2017年9月21日在[东京电玩展](../Page/东京电玩展.md "wikilink")首次发布，背景设定为[μ's](https://zh.wikipedia.org/wiki/μ's "wikilink")、[Aqours](../Page/Aqours.md "wikilink")和“[虹咲学园校园偶像同好会](https://zh.wikipedia.org/wiki/虹咲学园校园偶像同好会 "wikilink")”在同一时间段内进行校园偶像活动，并将推出全新剧情。游戏的重点为偶像养成，以“树状图形”式培养偶像，并将与现有的《学园偶像祭》进行联动以及共享SIF ID。
+游戏情报于2017年9月21日在[东京电玩展](../Page/东京电玩展.md "wikilink")首次发布，並在2019年的感謝祭正式發布消息。背景设定为[μ's](https://zh.wikipedia.org/wiki/μ's "wikilink")、[Aqours](../Page/Aqours.md "wikilink")和“[虹咲学园校园偶像同好会](https://zh.wikipedia.org/wiki/虹咲学园校园偶像同好会 "wikilink")”在同一时间段内进行校园偶像活动，并将推出全新剧情。游戏的重点为偶像养成，以“树状图形”式培养偶像，并将与现有的《学园偶像祭》进行联动以及共享SIF ID。游戏初期推出两个版本，即日文版和国际版（英文、韩文、繁体中文和泰文）。
 
 ## 註解
 

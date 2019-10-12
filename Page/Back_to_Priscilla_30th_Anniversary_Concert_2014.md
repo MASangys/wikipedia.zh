@@ -55,7 +55,7 @@ CD 2
 
 ## 嘉賓
 
-演唱會嘉賓包括[張學友](https://zh.wikipedia.org/wiki/張學友 "wikilink")、[容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")，而[譚詠麟](../Page/譚詠麟.md "wikilink")、[李克勤](../Page/李克勤.md "wikilink")、[文雪兒](../Page/文雪兒.md "wikilink")、[徐小鳳](../Page/徐小鳳.md "wikilink")等前輩歌手及新晉歌手[糖妹](https://zh.wikipedia.org/wiki/糖妹 "wikilink")、演員[何傲兒](../Page/何傲兒.md "wikilink")亦有入場支持。
+演唱會嘉賓包括[張學友](https://zh.wikipedia.org/wiki/張學友 "wikilink")、[容祖兒](../Page/容祖兒.md "wikilink")，而[譚詠麟](../Page/譚詠麟.md "wikilink")、[李克勤](../Page/李克勤.md "wikilink")、[文雪兒](../Page/文雪兒.md "wikilink")、[徐小鳳](../Page/徐小鳳.md "wikilink")等前輩歌手及新晉歌手[糖妹](https://zh.wikipedia.org/wiki/糖妹 "wikilink")、演員[何傲兒](../Page/何傲兒.md "wikilink")亦有入場支持。
 
 ## 版本
 
@@ -67,7 +67,7 @@ CD 2
 
 ## 評價
 
-外界普遍對陳慧嫻全面復出後的狀態讚賞，其好友[張學友便在擔任嘉賓期間指陳慧嫻](https://zh.wikipedia.org/wiki/張學友 "wikilink")「返來了」(意指:回來了)，狀態比以往提升不少。而本次演唱會亦是鮮有地不是由《[千千闕歌](https://zh.wikipedia.org/wiki/千千闕歌 "wikilink")》作為壓軸，而是以《[傻女](../Page/傻女.md "wikilink")》作為主題。
+外界普遍對陳慧嫻全面復出後的狀態讚賞，其好友[張學友便在擔任嘉賓期間指陳慧嫻](https://zh.wikipedia.org/wiki/張學友 "wikilink")「返來了」(意指:回來了)，狀態比以往提升不少。而本次演唱會亦是鮮有地不是由《[千千闕歌](../Page/千千闕歌.md "wikilink")》作為壓軸，而是以《[傻女](../Page/傻女.md "wikilink")》作為主題。
 
 ## 銷售成績
 

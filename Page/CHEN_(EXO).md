@@ -6,19 +6,23 @@
 
 家中有一名哥哥，金鍾德。2011年五月参加SM Starlight Casting System获得歌唱组冠军，而成为SM练习生。和队友伯贤为同期生，同为隊内练习期最短的成员，练习期不到一年，即出道。
 
-### 2012年-2014年：出道、S.M.THE BALLAD、《Best Luck》
+### 2012年－2014年：出道、S.M.THE BALLAD、《Best Luck》
 
 2012年4月8日，Chen作為[EXO](../Page/EXO.md "wikilink")以及EXO分隊[EXO-M](../Page/EXO-M.md "wikilink")成員出道。
 
 2014年2月，Chen加入[SM娛樂](../Page/SM娛樂.md "wikilink")於2010年成立的限定企劃組合[S.M.THE BALLAD](../Page/S.M.THE_BALLAD.md "wikilink")，並於組合第二張迷你專輯《S.M. THE BALLAD Vol. 2 – Breath》中與[張力尹共同演唱](https://zh.wikipedia.org/wiki/張力尹 "wikilink")《呼吸》，與[鐘鉉](../Page/鐘鉉.md "wikilink")共同演唱《一天（A Day Without You）》和與[Krystal共同演唱](../Page/鄭秀晶.md "wikilink")《回想（When I Was...When U Were）》\[1\]。7月，Chen為電視劇《[沒關係，是愛情啊](../Page/沒關係，是愛情啊.md "wikilink")！》演唱OST《最佳的幸運（Best Luck）》\[2\]。《Best Luck》於第16屆首爾國際青少年電影節和So-Loved Awards中分別獲得男子OST賞和最佳OST獎。
 
-### 2015年-現今：音樂劇演出、EXO-CBX、Solo出道
+### 2015年－現今：音樂劇演出、EXO-CBX、Solo出道
 
 2015年5月，Chen與成員[燦烈](../Page/Chanyeol.md "wikilink")、[伯賢](../Page/伯賢.md "wikilink")以及多位偶像共同參與KBS特輯《我是大韓民國》的主題曲《我們相遇的日子》錄製\[3\]。 9月，Chen與[聖圭](../Page/金聖圭.md "wikilink")、[東雨](../Page/張東雨.md "wikilink")（[INFINITE](../Page/INFINITE.md "wikilink")）、[Key](https://zh.wikipedia.org/wiki/Key_\(歌手\) "wikilink")（[SHINee](../Page/SHINee.md "wikilink")）和[Luna](../Page/朴善英.md "wikilink")（[f(x)](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")）一同出演音樂劇《In The Heights》。Chen在音樂劇中飾演主角Benny\[4\]。
 
-2016年2月，Chen為電視劇《[太陽的後裔](../Page/太陽的後裔.md "wikilink")》演唱OST《Everytime》\[5\]。4月，Chen與[Heize合唱由柳宰賢擔任製作人的](https://zh.wikipedia.org/wiki/Heize "wikilink")《Lil' Something》。《Lil' Something》是[SM STATION企劃中的第九首歌曲](../Page/SM_STATION.md "wikilink")，歌曲自公開後人氣火爆，橫掃Melon、Box、alleh Music、Genie、Mnet五大音樂榜榜首，還在Naver Music、音海、Monkey3等榜當中榮獲第二、三名\[6\]。5月，Chen與成員[Xiumin](../Page/Xiumin.md "wikilink")一起出演網絡綜藝《沒有經紀人的旅行》。該節目是以沒有經紀人的情況下展開旅行為概念，嘉賓將進行只有他們的旅行\[7\]。7月6日，Chen與成員[Suho](../Page/Suho.md "wikilink")共同為中國電影《[美好的意外](../Page/美好的意外.md "wikilink")》獻唱的同名主題曲《美好的意外》公開完整版MV，兩人在錄音室熱唱的情景與電影情節穿插相扣，愉悅悠揚的旋律和貼近劇情的歌詞相得益彰\[8\]。8月，Chen與[伯賢](../Page/伯賢.md "wikilink")、[Xiumin](../Page/Xiumin.md "wikilink")共同為電視劇《[月之戀人－步步驚心：麗](../Page/月之戀人－步步驚心：麗.md "wikilink")》獻唱OST《For You》。《For You》在各大音源榜佔據了上游位置。截至8月25日上午9點，這首歌獲得了Mnet第二名、Olleh Music第二名、Genie Music第二名、NAVER第二名、Bugs第二名、Melon第四名等等\[9\]。10月，Chen與成員Xiumin、伯賢組成[EXO](../Page/EXO.md "wikilink")第一個子團[EXO-CBX](../Page/EXO-CBX.md "wikilink")並發行首張迷你專輯《[Hey Mama\!](https://zh.wikipedia.org/wiki/Hey_Mama! "wikilink")》。
+[Chen_at_Melon_Music_Awards_on_November_19,_2016.jpg](https://zh.wikipedia.org/wiki/File:Chen_at_Melon_Music_Awards_on_November_19,_2016.jpg "fig:Chen_at_Melon_Music_Awards_on_November_19,_2016.jpg")
 
-2019年3月8日，SM娛樂證實Chen即將于4月推出Solo專輯，成爲EXO裏繼[Lay后的另一個Solo成員](https://zh.wikipedia.org/wiki/Lay "wikilink")。\[10\]。4月1日，Chen推出首張Solo專輯《April, and a flower》，MV於4月1日零時公開，所有音源於當天下午六時發行。專輯不僅拿下 33 國的 iTunes 綜合專輯榜冠軍，主打歌也襲捲了國內音源網站、中國的 QQ 音樂、酷狗音樂等的即時榜首。此外，專輯在 Synarra Record、HOTTRACKS等韓國各大唱片行的銷量榜上均拿下了單週第一名\[11\]。6月，Chen為JTBC劇集《[輔佐官–改變世界的人們](../Page/輔佐官–改變世界的人們.md "wikilink")》演唱OST《Rainfall》\[12\]。8月29日，SM娛樂宣佈Chen將於10月攜第二張solo專輯回歸歌壇\[13\]。9月11日，SM娛樂宣佈Chen將於10月1日携第二張迷你專輯《致親愛的你（Dear My Dear）》回歸秋季歌謠界\[14\]。
+2016年2月，Chen為電視劇《[太陽的後裔](../Page/太陽的後裔.md "wikilink")》演唱OST《Everytime》\[5\]。4月，Chen與[Heize合唱由柳宰賢擔任製作人的](https://zh.wikipedia.org/wiki/Heize "wikilink")《Lil' Something》。《Lil' Something》是[SM STATION企劃中的第九首歌曲](../Page/SM_STATION.md "wikilink")，歌曲自公開後人氣火爆，橫掃Melon、Box、alleh Music、Genie、Mnet五大音樂榜榜首，還在Naver Music、音海、Monkey3等榜當中榮獲第二、三名\[6\]。5月，Chen與成員[Xiumin](../Page/Xiumin.md "wikilink")一起出演網絡綜藝《沒有經紀人的旅行》。該節目是以沒有經紀人的情況下展開旅行為概念，嘉賓將進行只有他們的旅行\[7\]。5月24日，Chen與成員[Chanyeol](../Page/Chanyeol.md "wikilink")一起出演JTBC綜藝節目《[Two Yoo Project - Sugar Man](../Page/Two_Yoo_Project_-_Sugar_Man.md "wikilink")》並一同演唱歌曲《如果再次相愛》，展現與原唱不同的魅力。音源公開後，在音源榜上的排名也屬於上位圈。7月6日，Chen與成員[Suho](../Page/Suho.md "wikilink")共同為中國電影《[美好的意外](../Page/美好的意外.md "wikilink")》獻唱的同名主題曲《美好的意外》公開完整版MV，兩人在錄音室熱唱的情景與電影情節穿插相扣，愉悅悠揚的旋律和貼近劇情的歌詞相得益彰\[8\]。8月，Chen與[伯賢](../Page/伯賢.md "wikilink")、[Xiumin](../Page/Xiumin.md "wikilink")共同為電視劇《[月之戀人－步步驚心：麗](../Page/月之戀人－步步驚心：麗.md "wikilink")》獻唱OST《For You》。《For You》在各大音源榜佔據了上游位置。截至8月25日上午9點，這首歌獲得了Mnet第二名、Olleh Music第二名、Genie Music第二名、NAVER第二名、Bugs第二名、Melon第四名等等\[9\]。10月，Chen與成員Xiumin、伯賢組成[EXO](../Page/EXO.md "wikilink")第一個子團[EXO-CBX](../Page/EXO-CBX.md "wikilink")並發行首張迷你專輯《[Hey Mama\!](https://zh.wikipedia.org/wiki/Hey_Mama! "wikilink")》。10月7日，Chen透過[SM STATION公開與DJ](../Page/SM_STATION.md "wikilink") [Alesso的合作曲](../Page/艾利索.md "wikilink")《Years》\[10\]。
+
+2017年1月24日，Chen與[Dynamic Duo的合唱歌曲](../Page/Dynamic_Duo.md "wikilink")《等了之後離開（nosedive）》公開音源，截至24日上午8點拿下了MelOn、Mnet、Genie、Olleh Music、Bugs、Soribada等韓國6大音源榜即時1位，展現強大的音源實力。此曲在[2017年Mnet亞洲音樂大獎](../Page/2017年Mnet亞洲音樂大獎.md "wikilink")和2017年[甜瓜音樂獎](../Page/甜瓜音樂獎.md "wikilink")中分別奪得最佳合作表演獎和饒舌/嘻哈獎\[11\]。
+
+2019年3月8日，SM娛樂證實Chen即將于4月推出Solo專輯，成爲EXO裏繼[Lay后的另一個Solo成員](https://zh.wikipedia.org/wiki/Lay "wikilink")。\[12\]。4月1日，Chen推出首張Solo專輯《April, and a flower》，MV於4月1日零時公開，所有音源於當天下午六時發行。專輯不僅拿下 33 國的 iTunes 綜合專輯榜冠軍，主打歌也襲捲了國內音源網站、中國的 QQ 音樂、酷狗音樂等的即時榜首。此外，專輯在 Synarra Record、HOTTRACKS等韓國各大唱片行的銷量榜上均拿下了單週第一名\[13\]。Chen在專輯發行當天於首爾江南區舉辦了《April, and a flower》發售紀念Showcase，並邀請了成員[Xiumin](../Page/Xiumin.md "wikilink")擔任Showcase主持人\[14\]。6月，Chen為JTBC劇集《[輔佐官–改變世界的人們](../Page/輔佐官–改變世界的人們.md "wikilink")》演唱OST《Rainfall》\[15\]。8月29日，SM娛樂宣佈Chen將於10月攜第二張solo專輯回歸歌壇\[16\]。9月11日，SM娛樂宣佈Chen將於10月1日携第二張迷你專輯《致親愛的你（Dear My Dear）》回歸秋季歌謠界\[17\]。10月1日，Chen第二張迷你專輯《Dear My Dear》發行，專輯在台灣、泰國、新加坡、越南、印度、柬埔寨、匈牙利、法國、芬蘭、荷蘭、挪威、沙烏地阿拉伯、埃及、巴西、智利等 36 個國家的 iTunes 專輯榜上勇奪冠軍。此外，專輯在韓國國內的 Hanteo Chart、Synarra Record 等唱片銷量榜上亦拿下了冠軍。此外，最新主打歌 “Shall we?” 在 NAVER Music 上午的即時榜上也成功奪冠\[18\]。Chen在《Dear My Dear》專輯發行當天亦舉辦了專輯發售紀念Showcase，並邀請了成員[Sehun](../Page/Sehun.md "wikilink")擔任Showcase主持人\[19\]。
 
 ## 音樂作品
 
@@ -37,7 +41,7 @@
 <ul>
 <li>發行日期：2019年4月1日</li>
 <li>語言：韓語</li>
-<li>專輯銷量：210,189+[15]</li>
+<li>專輯銷量：210,189+[20]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -127,13 +131,13 @@
 </tr>
 <tr class="even">
 <td><p>2018年3月24日</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Live" title="wikilink">Live</a>》</p></td>
+<td><p>《<a href="../Page/Live_(韓國電視劇).md" title="wikilink">Live</a>》</p></td>
 <td><p>Someone Like You</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/邊伯賢" title="wikilink">Baekhyun</a>、<a href="../Page/Xiumin.md" title="wikilink">Xiumin</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2018年10月16日</p></td>
-<td><p>《<a href="../Page/百日的郎君.md" title="wikilink">百日的郎君</a>》[16]</p></td>
+<td><p>《<a href="../Page/百日的郎君.md" title="wikilink">百日的郎君</a>》[21]</p></td>
 <td><p>櫻花戀歌（Cherry Blossom Love Song）</p></td>
 <td></td>
 </tr>
@@ -426,7 +430,7 @@
 <td><p>4月10日</p></td>
 <td><p>MBC</p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/黃金漁場_Radio_Star" title="wikilink">黃金漁場 Radio Star</a>》</p></td>
-<td><p>[17]</p></td>
+<td><p>[22]</p></td>
 </tr>
 <tr class="odd">
 <td><p>4月13日</p></td>
@@ -455,6 +459,16 @@
 | 2015年4月11日    | MBC                                                       | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink") | 與[Yeri](../Page/Yeri.md "wikilink")（Special MC）      |
 | 2015年4月24日    | KBS 2                                                     | [Music Bank](https://zh.wikipedia.org/wiki/音乐银行 "wikilink")        | 與[Suho](../Page/Suho.md "wikilink")（待機室Special MC）   |
 
+### 電台主持
+
+|            |                                                                     |                             |                                                                    |
+| ---------- | ------------------------------------------------------------------- | --------------------------- | ------------------------------------------------------------------ |
+| 日期         | 頻道                                                                  | 節目名稱                        | 共同嘉賓/備注                                                            |
+| 2013年9月16日 | [KBS Cool FM](https://zh.wikipedia.org/wiki/KBS_Cool_FM "wikilink") | Super Junior的Kiss the Radio | [Baekhyun](https://zh.wikipedia.org/wiki/Baekhyun "wikilink")／代班DJ |
+| 2015年5月3日  | [KBS Cool FM](https://zh.wikipedia.org/wiki/KBS_Cool_FM "wikilink") | K-pop Planet                | [D.O.](https://zh.wikipedia.org/wiki/D.O. "wikilink")／Special DJ   |
+| 2016年1月11日 | [KBS Cool FM](https://zh.wikipedia.org/wiki/KBS_Cool_FM "wikilink") | Super Junior的Kiss the Radio | [Sehun](../Page/Sehun.md "wikilink")／代班DJ                          |
+|            |                                                                     |                             |                                                                    |
+
 ### 音樂劇
 
 |                  |                  |       |     |
@@ -477,6 +491,7 @@
 | 2017年12月29日 | Dear My Family (Live Concert Ver.) | SMTOWN                                                                  |                                                         |
 | 2019年4月1日   | Beautiful goodbye                  | Chen                                                                    | 《April, and a flower》                                   |
 | 2019年5月13日  | May We Bye                         | Chen & 林韓星                                                              |                                                         |
+| 2019年10月1日  | 우리 어떻게 할까요（Shall We？）              | Chen                                                                    | 《Dear My Dear》                                          |
 
 ## 影音作品
 
@@ -486,13 +501,27 @@
 | --------- | ------- | --------------------------------------------------------------------------------------------------------------- |
 | 期數        | 雜誌名稱    | 備注                                                                                                              |
 | 2014年9月刊  | Nylon   |                                                                                                                 |
-| 2015年8月刊  | star1   | 與[Baekhyun](../Page/伯賢.md "wikilink")、Suho\[18\]                                                                |
-| 2015年12月刊 | Vogue   | 與[Suho](../Page/Suho.md "wikilink")、[Kai](../Page/Kai.md "wikilink")、[Sehun](../Page/Sehun.md "wikilink")\[19\] |
-| 2016年10月刊 | Vivi    | 日本雜誌\[20\]                                                                                                      |
-| 2017年3月刊  | Singles | 封面\[21\]                                                                                                        |
+| 2015年8月刊  | star1   | 與[Baekhyun](../Page/伯賢.md "wikilink")、Suho\[23\]                                                                |
+| 2015年12月刊 | Vogue   | 與[Suho](../Page/Suho.md "wikilink")、[Kai](../Page/Kai.md "wikilink")、[Sehun](../Page/Sehun.md "wikilink")\[24\] |
+| 2016年10月刊 | Vivi    | 日本雜誌\[25\]                                                                                                      |
+| 2017年3月刊  | Singles | 封面\[26\]                                                                                                        |
 | 2019年6月刊  | Star1   | 封面                                                                                                              |
 
-## 其他演出
+## 演唱會
+
+  - 《April, and a flower》發售紀念Showcase
+
+|           |       |                                        |
+| --------- | ----- | -------------------------------------- |
+| 日期        | 舉行地點  | 主持人                                    |
+| 2019年4月1日 | 首爾江南區 | [Xiumin](../Page/Xiumin.md "wikilink") |
+
+  - 《Dear My Dear》發售紀念Showcase
+
+|            |                 |                                      |
+| ---------- | --------------- | ------------------------------------ |
+| 日期         | 舉行地點            | 主持人                                  |
+| 2019年10月1日 | Yes24 Live Hall | [Sehun](../Page/Sehun.md "wikilink") |
 
 ### 個人參加的演唱會
 
@@ -501,16 +530,6 @@
 | 日期         | 演唱會名稱             | 舉行地點         |
 | 2015年9月4日  | 2015 Grand韓流節     | 首爾奧林匹克主競技場   |
 | 2019年6月30日 | SM THE STATION演唱會 | Olympic Hall |
-
-### 電台主持
-
-|            |                                                                     |                             |                                                                    |
-| ---------- | ------------------------------------------------------------------- | --------------------------- | ------------------------------------------------------------------ |
-| 日期         | 頻道                                                                  | 節目名稱                        | 共同嘉賓/備注                                                            |
-| 2013年9月16日 | [KBS Cool FM](https://zh.wikipedia.org/wiki/KBS_Cool_FM "wikilink") | Super Junior的Kiss the Radio | [Baekhyun](https://zh.wikipedia.org/wiki/Baekhyun "wikilink")／代班DJ |
-| 2015年5月3日  | [KBS Cool FM](https://zh.wikipedia.org/wiki/KBS_Cool_FM "wikilink") | K-pop Planet                | [D.O.](https://zh.wikipedia.org/wiki/D.O. "wikilink")／Special DJ   |
-| 2016年1月11日 | [KBS Cool FM](https://zh.wikipedia.org/wiki/KBS_Cool_FM "wikilink") | Super Junior的Kiss the Radio | [Sehun](../Page/Sehun.md "wikilink")／代班DJ                          |
-|            |                                                                     |                             |                                                                    |
 
 ## 獎項與榮譽
 
@@ -566,7 +585,7 @@
 <td><p>Annual Soompi Awards</p></td>
 <td><p>最佳OST</p></td>
 <td><p>《For You》</p></td>
-<td><p>[22]</p></td>
+<td><p>[27]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -585,7 +604,7 @@
 </tr>
 <tr class="even">
 <td><p>2019年</p></td>
-<td><p><a href="../Page/M2_X_Genie音樂獎.md" title="wikilink">M2 X Genie音樂獎</a>[23]</p></td>
+<td><p><a href="../Page/M2_X_Genie音樂獎.md" title="wikilink">M2 X Genie音樂獎</a>[28]</p></td>
 <td><p>最佳男藝人獎</p></td>
 <td><p>Chen</p></td>
 <td></td>
@@ -611,7 +630,7 @@
 <tr class="even">
 <td><p>2016</p></td>
 <td><ul>
-<li>K-Pop一百張最帥面孔 第63名[24]</li>
+<li>K-Pop一百張最帥面孔 第63名[29]</li>
 </ul></td>
 </tr>
 </tbody>
@@ -690,6 +709,9 @@
 <td><p>April, and a flower</p></td>
 </tr>
 <tr class="even">
+<td><p>Dear My Dear</p></td>
+</tr>
+<tr class="odd">
 <td><ul>
 <li>「/」表示未有相關資料</li>
 <li>「*」打榜中</li>
@@ -715,8 +737,7 @@
   -
   - [CHEN](http://chen.smtown.com) – 韩国官方网站（[S.M. Entertainment](../Page/SM娛樂.md "wikilink")）
 
-  - [Chen 個人YouTube](https://www.youtube.com/channel/UC5vXjgHeenPq0lTSokouxdA/)
-
+  -
 [Category:EXO](https://zh.wikipedia.org/wiki/Category:EXO "wikilink") [Category:SM娛樂](https://zh.wikipedia.org/wiki/Category:SM娛樂 "wikilink") [Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink") [Category:韓國男演员](https://zh.wikipedia.org/wiki/Category:韓國男演员 "wikilink") [Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink") [Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink") [Category:1992年出生](https://zh.wikipedia.org/wiki/Category:1992年出生 "wikilink") [Category:金姓](https://zh.wikipedia.org/wiki/Category:金姓 "wikilink")
 
 1.
@@ -746,7 +767,7 @@
 
 14.
 
-15. [2019.04](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=04&hitYear=2019&termGbn=month)
+15.
 
 16.
 
@@ -756,7 +777,7 @@
 
 19.
 
-20.
+20. [2019.04](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=04&hitYear=2019&termGbn=month)
 
 21.
 
@@ -765,3 +786,13 @@
 23.
 
 24.
+
+25.
+
+26.
+
+27.
+
+28.
+
+29.

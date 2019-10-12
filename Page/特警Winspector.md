@@ -89,7 +89,7 @@ Walter</small></p></td>
 <td><p><a href="../Page/楊婉清.md" title="wikilink">楊婉清</a></p></td>
 <td><p>情報搜查官，20歲，外型亮麗。<br />
 行事明快果決，但也有著纖細柔弱的一面，被正木部長笑稱「老好人純子」。<br />
-槍法一流，愛槍為<a href="../Page/自動馬格南V型手槍.md" title="wikilink">AutoMag</a>。<br />
+槍法一流，愛槍為<a href="../Page/自動馬格南V型半自動手槍.md" title="wikilink">AutoMag</a>。<br />
 事件發生時，和龍馬同為前線作戰人員。</p></td>
 </tr>
 <tr class="even">

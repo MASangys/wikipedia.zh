@@ -6,7 +6,7 @@
 | ----------------------------------------------------------- | ------------ | ----------------------- |
 | **演員**                                                      | **角色**       | **备注**                  |
 | [鄭中基](../Page/鄭中基.md "wikilink")                            | Mandom(馮寅丙)  | Model界男神，被神秘人威脅         |
-| [林嘉欣](../Page/林嘉欣.md "wikilink")                            | 張鐵柱          | 菜鳥女警，貼身保護Mandom         |
+| [林嘉欣](../Page/林嘉欣.md "wikilink")                            | 張鐵柱          | 督察，貼身保護Mandom           |
 | [李燦森](https://zh.wikipedia.org/wiki/李燦森 "wikilink")         | Condom       | Mandom的經紀人兼好友           |
 | [鍾鎮濤](../Page/鍾鎮濤.md "wikilink")                            | 柯現溫          | 前Model，范特西的經紀人          |
 | [森美](https://zh.wikipedia.org/wiki/森美 "wikilink")           | 范特西          | Model界男神，跟Mandom爭奪戰衣的對手 |

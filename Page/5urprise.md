@@ -501,12 +501,12 @@
 | 2014年12月13日            | MBC《我們結婚了》精靈夫婦                                                                                  | 唯一、徐康俊、姜泰伍    |        |
 | 2015年1月18日             | SBS《[Running Man](../Page/Running_Man.md "wikilink")》                                           | 徐康俊           |        |
 | 2015年7月24日             | MBC《[改變世界的問答](https://zh.wikipedia.org/wiki/改變世界的問答 "wikilink")》                                | 姜泰伍           |        |
-| 2016年1月31日             | SBS《[叢林的法則](https://zh.wikipedia.org/wiki/叢林的法則 "wikilink")》                                    | 徐康俊           | 東加篇    |
+| 2016年1月31日             | SBS《[叢林的法則](../Page/叢林的法則.md "wikilink")》                                                       | 徐康俊           | 東加篇    |
 | 2016年11月3日&2016年11月10日 | [tvN](../Page/TVN.md "wikilink")《[我耳邊的糖果](../Page/我耳邊的糖果.md "wikilink")》                        | 孔明            |        |
 | 2016年12月10日            | SBS《－[白種元的3大天王](https://zh.wikipedia.org/wiki/白種元的3大天王 "wikilink")》                             | 孔明            |        |
-| 2017年1月6日-2017年2月3日    | SBS《[叢林的法則](https://zh.wikipedia.org/wiki/叢林的法則 "wikilink")》                                    | 孔明            | 美娜多篇   |
+| 2017年1月6日-2017年2月3日    | SBS《[叢林的法則](../Page/叢林的法則.md "wikilink")》                                                       | 孔明            | 美娜多篇   |
 | 2017年2月4日              | MBC《[我們結婚了](../Page/我們結婚了.md "wikilink")》心空夫婦                                                   | 徐康俊、唯一、姜泰伍    | 孔明表白作戰 |
-| 2017年2月10日-2017年3月3日   | SBS《[叢林的法則](https://zh.wikipedia.org/wiki/叢林的法則 "wikilink")》                                    | 姜泰伍           | 美娜多篇   |
+| 2017年2月10日-2017年3月3日   | SBS《[叢林的法則](../Page/叢林的法則.md "wikilink")》                                                       | 姜泰伍           | 美娜多篇   |
 | 2017年7月2日              | SBS《[Running Man](../Page/Running_Man.md "wikilink")》                                           | 李泰煥           |        |
 | 2018年5月11日             | Netflix《[明星來解謎](../Page/明星來解謎.md "wikilink")》                                                   | 全體            |        |
 | 2019年1月20日             | SBS《[Running Man](../Page/Running_Man.md "wikilink")》                                           | 孔明            |        |

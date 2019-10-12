@@ -10,15 +10,11 @@ DC擴展宇宙的第一部電影為《[超人：鋼鐵英雄](https://zh.wikiped
 
 該宇宙的第一次嘗試始於1998年的《[超人的生活](https://zh.wikipedia.org/wiki/超人系列電影#超人的生活 "wikilink")》。該片原定由[凱文·史密斯編劇](https://zh.wikipedia.org/wiki/凱文·史密斯 "wikilink")\[1\]，[提姆·波頓執導](https://zh.wikipedia.org/wiki/提姆·波頓 "wikilink")，並由[尼可拉斯·凱吉飾演](https://zh.wikipedia.org/wiki/尼可拉斯·凱吉 "wikilink")[超人](../Page/超人.md "wikilink")\[2\]。在《[蝙蝠俠](../Page/蝙蝠俠_\(1989年電影\).md "wikilink")》（1989年）和《[蝙蝠俠大顯神威](https://zh.wikipedia.org/wiki/蝙蝠俠大顯神威 "wikilink")》（1992年）中飾演[蝙蝠俠](../Page/蝙蝠俠.md "wikilink")的演員[米高·基頓](../Page/米高·基頓.md "wikilink")也是該片的卡司之一\[3\]。但接著，劇本經由許多編劇多次改寫\[4\]\[5\]\[6\]，波頓退出了導演一職\[7\]，凱吉退出了劇組\[8\]，導演與超人的演員遍尋不著\[9\]\[10\]\[11\]\[12\]。這部電影後來被取消\[13\]。2002年，[沃爾夫岡·彼德森受聘執導](https://zh.wikipedia.org/wiki/沃爾夫岡·彼德森 "wikilink")《蝙蝠俠對超人》（），而劇本則由[阿奇瓦·高斯曼](../Page/阿奇瓦·高斯曼.md "wikilink")撰寫\[14\]。但在[J·J·亞柏拉罕繳出了一份題為](https://zh.wikipedia.org/wiki/J·J·亞柏拉罕 "wikilink")《超人飛越》（）的劇本後，華納兄弟終止了該計劃，改投入超人與蝙蝠俠各自的電影\[15\]\[16\]。
 
-2007年2月，華納兄弟聘請和蜜雪兒·馬爾羅尼（）夫妻兩人一同撰寫電影版[正義聯盟](../Page/正義聯盟.md "wikilink")的劇本\[17\]。據報導，在《[蝙蝠俠：開戰時刻](../Page/蝙蝠俠：開戰時刻.md "wikilink")》（2005年）中飾演蝙蝠俠的[克里斯汀·貝爾](../Page/克里斯汀·貝爾.md "wikilink")與在《[超人再起](../Page/超人再起.md "wikilink")》（2006年）中飾演超人的[布蘭登·勞斯都不會回歸飾演其角色](https://zh.wikipedia.org/wiki/布蘭登·勞斯 "wikilink")\[18\]\[19\]。2007年9月，[喬治·米勒簽約執導該片](https://zh.wikipedia.org/wiki/喬治·米勒 "wikilink")\[20\]，片名定為《Justice League: Mortal》\[21\]。蝙蝠俠一角由[艾米·漢默飾演](https://zh.wikipedia.org/wiki/艾米·漢默 "wikilink")，[D·J·科特羅納詮釋超人](https://zh.wikipedia.org/wiki/D·J·科特羅納 "wikilink")，[亞當·布羅迪](../Page/亞當·布羅迪.md "wikilink")將飾演[貝瑞·艾倫 / 閃電俠](https://zh.wikipedia.org/wiki/貝瑞·艾倫 "wikilink")，飾演[水行俠](../Page/水行俠.md "wikilink")，[凡夫俗子詮釋](../Page/凡夫俗子_\(歌手\).md "wikilink")[綠光戰警](https://zh.wikipedia.org/wiki/綠光戰警 "wikilink")，[神力女超人的演員由](https://zh.wikipedia.org/wiki/神力女超人 "wikilink")擔任，[修·基斯-拜倫](../Page/修·基斯-拜倫.md "wikilink")飾演[火星獵人](https://zh.wikipedia.org/wiki/火星獵人 "wikilink")，而[傑·巴魯契則將詮釋主要反派](https://zh.wikipedia.org/wiki/傑·巴魯契 "wikilink")\[22\]。2008年1月，該片因華納兄弟未能得到在澳大利亞拍攝的退稅，以及[2007年－2008年美國編劇協會大罷工的影響而被無限期擱置](https://zh.wikipedia.org/wiki/2007年－2008年美國編劇協會大罷工 "wikilink")\[23\]。
+2007年2月，華納兄弟聘請和蜜雪兒·馬爾羅尼（）夫妻兩人一同撰寫電影版[正義聯盟](../Page/正義聯盟.md "wikilink")的劇本\[17\]。據報導，在《[蝙蝠俠：開戰時刻](../Page/蝙蝠俠：開戰時刻.md "wikilink")》（2005年）中飾演蝙蝠俠的[克里斯汀·貝爾](../Page/克里斯汀·貝爾.md "wikilink")與在《[超人再起](../Page/超人再起.md "wikilink")》（2006年）中飾演超人的[布蘭登·勞斯都不會回歸飾演其角色](https://zh.wikipedia.org/wiki/布蘭登·勞斯 "wikilink")\[18\]\[19\]。2007年9月，[喬治·米勒簽約執導該片](https://zh.wikipedia.org/wiki/喬治·米勒 "wikilink")\[20\]，片名定為《Justice League: Mortal》\[21\]。蝙蝠俠一角由[艾米·漢默飾演](https://zh.wikipedia.org/wiki/艾米·漢默 "wikilink")，[D·J·科特羅納](../Page/D·J·科特羅納.md "wikilink")詮釋超人，[亞當·布羅迪](../Page/亞當·布羅迪.md "wikilink")將飾演[貝瑞·艾倫 / 閃電俠](https://zh.wikipedia.org/wiki/貝瑞·艾倫 "wikilink")，飾演[水行俠](../Page/水行俠.md "wikilink")，[凡夫俗子詮釋](../Page/凡夫俗子_\(歌手\).md "wikilink")[綠光戰警](https://zh.wikipedia.org/wiki/綠光戰警 "wikilink")，[神力女超人的演員由](https://zh.wikipedia.org/wiki/神力女超人 "wikilink")擔任，[修·基斯-拜倫](../Page/修·基斯-拜倫.md "wikilink")飾演[火星獵人](https://zh.wikipedia.org/wiki/火星獵人 "wikilink")，而[傑·巴魯契則將詮釋主要反派](https://zh.wikipedia.org/wiki/傑·巴魯契 "wikilink")\[22\]。2008年1月，該片因華納兄弟未能得到在澳大利亞拍攝的退稅，以及[2007年－2008年美國編劇協會大罷工的影響而被無限期擱置](https://zh.wikipedia.org/wiki/2007年－2008年美國編劇協會大罷工 "wikilink")\[23\]。
 
 2013年，華納兄弟決定重啟[《超人》系列電影](https://zh.wikipedia.org/wiki/超人系列電影 "wikilink")，且重啟作《[超人：鋼鐵英雄](https://zh.wikipedia.org/wiki/超人：鋼鐵英雄 "wikilink")》將為未來的DC電影打下基礎\[24\]。片中出現了DC宇宙中的其他角色，若其成功，便可開啟共享宇宙的大門\[25\]\[26\]。《超人：鋼鐵英雄》上映前夕，有報導稱，導演[查克·史奈德](../Page/查克·史奈德.md "wikilink")和編劇[大衛·S·高耶](../Page/大衛·S·高耶.md "wikilink")將回歸續集\[27\]。7月，史奈德於[聖地亞哥國際動漫展上證實](https://zh.wikipedia.org/wiki/聖地亞哥國際動漫展 "wikilink")《超人：鋼鐵英雄》的續集將有[蝙蝠俠](../Page/蝙蝠俠.md "wikilink")現身，從而建立一個共享宇宙\[28\]\[29\]。2014年10月，華納兄弟公開了未來10部電影的計劃\[30\]。在消息公開後，粉絲與媒體給了該宇宙一個名稱「DC電影宇宙」，與[漫威電影宇宙](https://zh.wikipedia.org/wiki/漫威電影宇宙 "wikilink")（MCU）相似\[31\]\[32\]\[33\]。給了該宇宙「DC電影多元宇宙」的名稱\[34\]。該宇宙亦被某些媒體稱為「正義聯盟宇宙」\[35\]\[36\]。2015年7月底，預計於9月發行的《[帝國雜誌](../Page/帝國雜誌.md "wikilink")》確認該宇宙名為「DC擴展宇宙」\[37\]\[38\]。2018年[聖地牙哥國際動漫展上](https://zh.wikipedia.org/wiki/聖地牙哥國際動漫展 "wikilink")，華納歡迎標語有「DC世界」（），被一些網路媒體認為是官方名稱\[39\]\[40\]，然而華納或DC皆未承認有[正名](../Page/正名.md "wikilink")的作法。儘管漫威電影宇宙包括電視劇，DC擴展宇宙卻將之排除其外。含有DC漫畫的角色及情節的連貫電視劇統稱為「[綠箭宇宙](../Page/綠箭宇宙.md "wikilink")」\[41\]。[傑夫·強斯](../Page/傑夫·強斯.md "wikilink")表示，該電影宇宙將不會和電視劇連動，以確保雙方能創作出最佳的故事\[42\]。
 
 2016年5月，隨著《[蝙蝠俠對超人：正義曙光](https://zh.wikipedia.org/wiki/蝙蝠俠對超人：正義曙光 "wikilink")》接獲許多影評人的負評，華納兄弟宣布，DC擴展宇宙正在進行幕後大規模組閣\[43\]。官方打算讓DC擴展宇宙像漫威電影宇宙的[凱文·費吉](../Page/凱文·費吉.md "wikilink")一樣有一名創意領導者\[44\]。此前，DC擴展宇宙的作品主要由史奈德為中心，而這正是過去華納兄弟常受批評的原因\[45\]\[46\]\[47\]。華納兄弟成立了一個DC電影的單位，主要由強斯和華納兄弟的執行副總裁強·柏格（）為首\[48\]。這有助於電影的監督及構建出一個有向心力的創作方向。強斯和柏格都將擔任未來DC電影的製片人。和漫威影業不同的是，DC電影不會完全自治，強斯和柏格對於電影的製作發展都必須向DC總裁和華納兄弟總裁格雷格·西爾弗曼（）匯報\[49\]。5月，據報導，由於部分DC電影的轉型和變動，[查爾斯·羅文](../Page/查爾斯·羅文.md "wikilink")將不會繼續擔任DC電影的監製\[50\]。12月，西爾弗曼離開了華納兄弟，接手他的職位\[51\]。2017年1月，強斯與柏格向艾默瑞奇匯報了現階段進度\[52\]。在《[神力女超人](https://zh.wikipedia.org/wiki/神力女超人_\(2017年電影\) "wikilink")》（2017年）大獲成功後，強斯宣布，未來的電影將-{聚焦}-在角色的心理層面、幽默、英雄氣概及其個性上\[53\]。由於《[正義聯盟](https://zh.wikipedia.org/wiki/正義聯盟_\(電影\) "wikilink")》（2017年）上映後口碑及票房均不如預期，柏格於2018年1月退出DC電影總監的職位\[54\]，由接手\[55\]。2月，香塔·農（）受聘擔任DC電影部門的副總監\[56\]。6月，據報導，強斯將辭去他在DC電影部門的工作，由漫畫家[吉姆·李](../Page/吉姆·李.md "wikilink")接手\[57\]。
-
-## 改變
-
-據華納執行長表示“這跟我們五年前預期的不一樣，並表示DC擴張宇宙（DCEU）之後會將著重於獨立的角色故事，未來重回緊密聯繫的方式依然有其可能性，但現階段獨立是較好的策略。”
 
 ## 已上映電影
 
@@ -644,9 +640,9 @@ DC擴展宇宙的第一部電影為《[超人：鋼鐵英雄](https://zh.wikiped
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>沙贊！(原聲帶)</p></td>
-<td><p>待定</p></td>
-<td><p>待定</p></td>
+<td><p><a href="../Page/沙贊！_(原聲帶).md" title="wikilink">沙贊！ (原聲帶)</a></p></td>
+<td></td>
+<td><p>73:13</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1396,7 +1392,7 @@ Wonder Woman: Rise of the Warrior</p></td>
 
 279.
 
-280. [1](https://www.thathashtagshow.com/2019/03/08/exclusive-new-black-adam-script-features-hakwman-atom-smasher-and-stargirl/)
+280.
 
 281.
 

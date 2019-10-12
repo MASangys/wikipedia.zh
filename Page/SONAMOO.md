@@ -1,4 +1,4 @@
-**SONAMOO**（）是[TS Entertainment於](https://zh.wikipedia.org/wiki/TS_Entertainment "wikilink")2014年底推出的七人女子組合，成員包含[受玟](../Page/池受玟.md "wikilink")、[旼宰](../Page/旼宰.md "wikilink")、[D.ana](../Page/曹恩愛.md "wikilink")、[娜玹](../Page/金娜炫.md "wikilink")、[宜珍](../Page/宜珍_\(SONAMOO\).md "wikilink")、[High.D及](https://zh.wikipedia.org/wiki/金到姬 "wikilink")[New Sun等七人](https://zh.wikipedia.org/wiki/崔允瑄 "wikilink")。2014年12月29日發行首張迷你專輯《Deja Vu》，並於同日舉辦出道SHOWCASE，2015年1月2日於[Music Bank正式出道](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")。
+**SONAMOO**（）是[TS Entertainment於](https://zh.wikipedia.org/wiki/TS_Entertainment "wikilink")2014年底推出的女子組合，最初由7名成員組成，現任成員包含[旼宰](../Page/旼宰.md "wikilink")、[D.ana](../Page/曹恩愛.md "wikilink")、[宜珍](../Page/宜珍_\(SONAMOO\).md "wikilink")、High.D及New Sun。2014年12月29日發行首張迷你專輯《Deja Vu》，並於同日舉辦出道SHOWCASE，2015年1月2日於[Music Bank正式出道](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")。
 
 「SONAMOO」是韓文「**松樹**」之意，取名為松樹代表希望SONAMOO能像松樹一樣，創作出具有長青生命力的音樂。團徽上的代表動物為**松鼠**。官方粉絲名稱為「**松果**」（솔방울）。七名成員平均經歷練習生涯長達四年，是TS繼2009年推出首個女子組合[Secret後](../Page/Secret_\(組合\).md "wikilink")，相隔五年再推出的新女子團體組合\[1\]。
 
@@ -120,13 +120,21 @@
 
 欲在9月發佈的《HAPPY BOX PART.2》因成员宜珍将于10月份参加選秀节目《[The Unit](../Page/The_Unit.md "wikilink")》而推迟发布。
 
-10月24日，官方在Twitter账号上发布《HAPPY BOX PART.2》的成员预览照。\[19\]。
+10月24日，官方在Twitter账号上发布《HAPPY BOX PART.2》的成员预览照\[19\]。
 
 11月6日，发布数位单曲《HAPPY BOX PART.2》與主打歌《I(knew it)》音源與MV。
 
 ### 2018年：宜珍成功出道
 
-2月11日，在选秀節目《The Unit》的最後一集中，宜珍獲得第1名，進入期間限定團體[UNI.T](../Page/UNI.T.md "wikilink")出道。10月12日，從UNI.T活動完結歸隊。
+2月11日，在选秀節目《[The Unit](../Page/The_Unit.md "wikilink")》的最後一集中，宜珍獲得第1名，進入期間限定團體[UNI.T](../Page/UNI.T.md "wikilink")出道。10月12日，從UNI.T活動完結歸隊。
+
+### 2019年
+
+9月13日，High.D參與[tvN中秋特輯節目](https://zh.wikipedia.org/wiki/tvN "wikilink")《V-1》，獲得最終6強的成績。
+
+9月23日，受玟、娜玹透過法律途徑欲向公司終止合約\[20\]。翌日，公司宣布組合將改為5人體制進行活動，並向提出終止合約的2位成員，採取法律處置。
+
+9月26日，成員旼宰、D.ana、宜珍及New Sun演唱電玩遊戲《Legendary: Game of Heroes》的OST《We Are Legendary》，並由遊戲的官方Youtube頻道發布MV。
 
 ## 成員資料
 
@@ -134,13 +142,14 @@
 | ------- |
 | 藝名      |
 | 原文      |
-| 受玟      |
 | 旼宰      |
 | D.ana   |
-| 娜玹      |
 | 宜珍      |
 | High.D  |
 | New Sun |
+| 已离开成员   |
+| 受玟      |
+| 娜玹      |
 
 ## 音樂作品
 
@@ -262,6 +271,16 @@
 <td><p>《<strong>The Miracle OST Part.1</strong>》</p>
 <ul>
 <li>發行日期：2016年12月7日</li>
+<li>語言：韓語</li>
+<li>格式：數位下載</li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>2nd</strong></p></td>
+<td><p>《<strong>WE ARE LEGENDARY</strong>》</p>
+<ul>
+<li>發行日期：2019年9月26日</li>
 <li>語言：韓語</li>
 <li>格式：數位下載</li>
 </ul></td>
@@ -490,11 +509,8 @@ Miracle Girls 成員們</p></td>
 <tr class="even">
 <td><ul>
 <li>「/」表示未有相關資料</li>
-<li>「(1)」：兩星期冠軍</li>
-<li>「[1]」：三星期冠軍</li>
 </ul>
 <ul>
-<li>「{1}」：四星期冠軍</li>
 <li>「*」：打榜中</li>
 </ul></td>
 </tr>
@@ -505,7 +521,7 @@ Miracle Girls 成員們</p></td>
 | ------------------------------------ |
 | [Mnet](../Page/Mnet媒體.md "wikilink") |
 | 0                                    |
-| 四台冠軍歌曲總數：0                           |
+| 一位總數：0                               |
 
 ## 參考資料
 
@@ -554,3 +570,4 @@ Miracle Girls 成員們</p></td>
 17.
 18.
 19.  Soompi|accessdate=2017-10-24|work=www.soompi.com|language=en-US}}
+20.

@@ -52,7 +52,7 @@ Peninsula East under construction in August 2015 (viewed from Hong Kong Island).
   - [海傲灣](../Page/海傲灣.md "wikilink")
   - [油美苑](../Page/油美苑及油翠苑.md "wikilink")
   - [高翔苑](../Page/高翔苑.md "wikilink")
-  - [鯉魚門市政大廈](https://zh.wikipedia.org/wiki/鯉魚門市政大廈 "wikilink")
+  - [鯉魚門市政大廈](../Page/鯉魚門市政大廈.md "wikilink")
   - 三家村遊樂場
   - 曦臺 (四山街項目)
   - 崇信街與仁宇圍交界項目

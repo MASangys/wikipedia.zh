@@ -128,8 +128,8 @@ NGT48的營運者、以及大部分成員所屬的經紀公司為[AKS](../Page/A
 <td><p>69</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/角尤利婭" title="wikilink">角尤利婭</a><br />
-（）</p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/角尤利婭" title="wikilink">角尤利婭</a><br />
+（）</strong></p></td>
 <td></td>
 <td></td>
 <td><p><a href="../Page/石川縣.md" title="wikilink">石川縣</a><br />
@@ -153,92 +153,79 @@ NGT48的營運者、以及大部分成員所屬的經紀公司為[AKS](../Page/A
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/佐藤杏樹" title="wikilink">佐藤杏樹</a></p></td>
-<td></td>
-<td></td>
-<td><p>新潟縣<br />
-<a href="https://zh.wikipedia.org/wiki/魚沼市" title="wikilink">魚沼市</a>[60]</p></td>
-<td><p>1期</p></td>
-<td><p>AKS</p></td>
-<td><p>-</p></td>
-<td><p>預定於2019年9月30日畢業<br />
-2019年9月29日畢業公演[61]<ref>{{Cite web|url=<a href="https://ngt48.jp/news/detail/100003464%7Cscript-title=ja:NGT48">https://ngt48.jp/news/detail/100003464|script-title=ja:NGT48</a> 佐藤杏樹の最終活動日に関しまして|work=NGT48 Offcial site|publisher=AKS</p></td>
-<td><p>accessdate=2019-09-05}}</ref></p></td>
-</tr>
-<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/清司麗菜" title="wikilink">清司麗菜</a></p></td>
 <td></td>
 <td></td>
 <td><p>埼玉縣<br />
-<a href="https://zh.wikipedia.org/wiki/桶川市" title="wikilink">桶川市</a>[62]</p></td>
+<a href="https://zh.wikipedia.org/wiki/桶川市" title="wikilink">桶川市</a>[60]</p></td>
 <td><p>1期</p></td>
 <td><p>AKS</p></td>
 <td><p>2018年6月30日</p></td>
 <td><p>前打工AKB</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/高倉萌香" title="wikilink">高倉萌香</a></p></td>
 <td></td>
 <td></td>
 <td><p>新潟縣<br />
-<a href="../Page/上越市.md" title="wikilink">上越市</a>[63]</p></td>
+<a href="../Page/上越市.md" title="wikilink">上越市</a>[61]</p></td>
 <td><p>1期</p></td>
 <td><p>AKS</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>25</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/太野彩香" title="wikilink">太野彩香</a></p></td>
 <td></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/兵庫縣" title="wikilink">兵庫縣</a><br />
-<a href="../Page/伊丹市.md" title="wikilink">伊丹市</a>[64]</p></td>
+<a href="../Page/伊丹市.md" title="wikilink">伊丹市</a>[62]</p></td>
 <td><p>1期</p></td>
 <td><p>AKS</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>53</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/中井莉加.md" title="wikilink">中井莉加</a><br />
 （）</p></td>
 <td></td>
 <td></td>
 <td><p><a href="../Page/富山縣.md" title="wikilink">富山縣</a><br />
-<a href="../Page/富山市.md" title="wikilink">富山市</a>[65]</p></td>
+<a href="../Page/富山市.md" title="wikilink">富山市</a>[63]</p></td>
 <td><p>1期</p></td>
 <td><p><a href="../Page/太田製作.md" title="wikilink">太田製作</a></p></td>
 <td><p>-</p></td>
 <td></td>
 <td><p>23</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/中村步加" title="wikilink">中村步加</a></p></td>
 <td></td>
 <td></td>
 <td><p>新潟縣<br />
-新潟市[66]</p></td>
+新潟市[64]</p></td>
 <td><p>1期</p></td>
 <td><p>AKS</p></td>
 <td><p>2018年7月1日</p></td>
-<td><p>前所屬事務所為旗下的[67]</p></td>
+<td><p>前所屬事務所為旗下的[65]</p></td>
 <td><p>64</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/奈良未遙" title="wikilink">奈良未遙</a></p></td>
 <td></td>
 <td></td>
 <td><p><a href="../Page/青森縣.md" title="wikilink">青森縣</a><br />
-<a href="../Page/弘前市.md" title="wikilink">弘前市</a>[68]</p></td>
+<a href="../Page/弘前市.md" title="wikilink">弘前市</a>[66]</p></td>
 <td><p>1期</p></td>
 <td><p>AKS</p></td>
 <td><p>2018年7月1日</p></td>
 <td><p>-</p></td>
 <td><p>21</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/西潟茉莉奈.md" title="wikilink">西潟茉莉奈</a></p></td>
 <td></td>
 <td></td>
@@ -252,31 +239,31 @@ NGT48的營運者、以及大部分成員所屬的經紀公司為[AKS](../Page/A
 NGT48最年長</p></td>
 <td><p>24</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/西村菜那子" title="wikilink">西村菜那子</a></p></td>
 <td></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/長野縣" title="wikilink">長野縣</a><br />
-<a href="../Page/長野市.md" title="wikilink">長野市</a>[69]</p></td>
+<a href="../Page/長野市.md" title="wikilink">長野市</a>[67]</p></td>
 <td><p>1期</p></td>
 <td><p>AKS</p></td>
 <td><p>2018年6月30日</p></td>
 <td><p>-</p></td>
 <td><p>43</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/本間日陽.md" title="wikilink">本間日陽</a></p></td>
 <td></td>
 <td></td>
 <td><p>新潟縣<br />
-<a href="../Page/村上市.md" title="wikilink">村上市</a>[70]</p></td>
+<a href="../Page/村上市.md" title="wikilink">村上市</a>[68]</p></td>
 <td><p>1期</p></td>
 <td><p>AKS</p></td>
 <td><p>-</p></td>
 <td><p>前Team G隊長</p></td>
 <td><p>13</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/山田野繪" title="wikilink">山田野繪</a></p></td>
 <td></td>
 <td></td>
@@ -288,7 +275,7 @@ NGT48最年長</p></td>
 <td><p>-</p></td>
 <td><p>91</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -337,7 +324,7 @@ NGT48最年長</p></td>
 <td></td>
 <td></td>
 <td><p>新潟縣<br />
-新潟市[71]</p></td>
+新潟市[69]</p></td>
 <td><p>2期</p></td>
 <td><p>AKS</p></td>
 <td><p>-</p></td>
@@ -348,7 +335,7 @@ NGT48最年長</p></td>
 <td></td>
 <td></td>
 <td><p>新潟縣<br />
-新潟市[72]</p></td>
+新潟市[70]</p></td>
 <td><p>2期</p></td>
 <td><p>AKS</p></td>
 <td><p>-</p></td>
@@ -359,11 +346,11 @@ NGT48最年長</p></td>
 <td></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/新潟縣" title="wikilink">新潟縣</a><br />
-<a href="../Page/新潟市.md" title="wikilink">新潟市</a>[73]</p></td>
+<a href="../Page/新潟市.md" title="wikilink">新潟市</a>[71]</p></td>
 <td><p>1期</p></td>
 <td><p>AKS</p></td>
 <td><p>前Team NIII隊長<br />
-2019年5月21日起降格為研究生[74]</p></td>
+2019年5月21日起降格為研究生[72]</p></td>
 <td><p>30</p></td>
 </tr>
 <tr class="odd">
@@ -381,7 +368,7 @@ NGT48最年長</p></td>
 <td></td>
 <td></td>
 <td><p>新潟縣<br />
-<a href="https://zh.wikipedia.org/wiki/小千谷市" title="wikilink">小千谷市</a>[75]</p></td>
+<a href="https://zh.wikipedia.org/wiki/小千谷市" title="wikilink">小千谷市</a>[73]</p></td>
 <td><p>2期</p></td>
 <td><p>AKS</p></td>
 <td><p>-</p></td>
@@ -392,7 +379,7 @@ NGT48最年長</p></td>
 <td></td>
 <td></td>
 <td><p>新潟縣<br />
-新潟市[76]</p></td>
+新潟市[74]</p></td>
 <td><p>選秀<br />
 3期</p></td>
 <td><p>AKS</p></td>
@@ -436,7 +423,7 @@ NGT48最年長</p></td>
 <td></td>
 <td></td>
 <td><p>新潟縣<br />
-新潟市[77]</p></td>
+新潟市[75]</p></td>
 <td><p>2期</p></td>
 <td><p>AKS</p></td>
 <td><p>-</p></td>
@@ -447,7 +434,7 @@ NGT48最年長</p></td>
 <td></td>
 <td></td>
 <td><p>新潟縣<br />
-<a href="../Page/長岡市.md" title="wikilink">長岡市</a>[78]</p></td>
+<a href="../Page/長岡市.md" title="wikilink">長岡市</a>[76]</p></td>
 <td><p>2期</p></td>
 <td><p>AKS</p></td>
 <td><p>-</p></td>
@@ -458,7 +445,7 @@ NGT48最年長</p></td>
 <td></td>
 <td></td>
 <td><p>新潟縣<br />
-新潟市[79]</p></td>
+新潟市[77]</p></td>
 <td><p>選秀<br />
 3期</p></td>
 <td><p>AKS</p></td>
@@ -510,7 +497,7 @@ NGT48最年長</p></td>
 <td></td>
 <td></td>
 <td><p>新潟縣<br />
-<a href="../Page/彌彥村.md" title="wikilink">彌彥村</a>[80]</p></td>
+<a href="../Page/彌彥村.md" title="wikilink">彌彥村</a>[78]</p></td>
 <td><p>2期</p></td>
 <td><p>AKS</p></td>
 <td><p>-</p></td>
@@ -560,14 +547,14 @@ NGT48最年長</p></td>
 <td><p>AKB48<br />
 5期</p></td>
 <td><p>NIII</p></td>
-<td><p>2018年4月30日[81]</p></td>
+<td><p>2018年4月30日[79]</p></td>
 <td><p><a href="../Page/太田製作.md" title="wikilink">太田製作</a></p></td>
 <td><p>前Team NIII隊長暨NGT48總隊長<br />
 初代Team A<br />
 柏木Team B<br />
 曾兼任SKE48 Team S<br />
 大島、橫山Team K<br />
-4月18日畢業公演[82][83]</p></td>
+4月18日畢業公演[80][81]</p></td>
 <td><p>10</p></td>
 </tr>
 <tr class="even">
@@ -575,10 +562,10 @@ NGT48最年長</p></td>
 <td></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/新潟縣" title="wikilink">新潟縣</a><br />
-<a href="../Page/長岡市.md" title="wikilink">長岡市</a>[84]</p></td>
+<a href="../Page/長岡市.md" title="wikilink">長岡市</a>[82]</p></td>
 <td><p>1期</p></td>
 <td><p>NIII</p></td>
-<td><p>2018年8月7日[85][86]</p></td>
+<td><p>2018年8月7日[83][84]</p></td>
 <td><p>-</p></td>
 <td><p>8月6日畢業公演</p></td>
 <td><p>70</p></td>
@@ -588,10 +575,10 @@ NGT48最年長</p></td>
 <td></td>
 <td></td>
 <td><p>新潟縣<br />
-<a href="https://zh.wikipedia.org/wiki/小千谷市" title="wikilink">小千谷市</a>[87]</p></td>
+<a href="https://zh.wikipedia.org/wiki/小千谷市" title="wikilink">小千谷市</a>[85]</p></td>
 <td><p>1期</p></td>
 <td><p>NIII</p></td>
-<td><p>2018年10月6日[88][89]</p></td>
+<td><p>2018年10月6日[86][87]</p></td>
 <td><p>-</p></td>
 <td><p>10月5日畢業公演</p></td>
 <td><p>-</p></td>
@@ -617,12 +604,12 @@ NGT48最年長</p></td>
 <td></td>
 <td></td>
 <td><p>新潟縣<br />
-<a href="https://zh.wikipedia.org/wiki/聖籠町" title="wikilink">聖籠町</a>[90]</p></td>
+<a href="https://zh.wikipedia.org/wiki/聖籠町" title="wikilink">聖籠町</a>[88]</p></td>
 <td><p>1期</p></td>
 <td><p>1期生</p></td>
 <td><p>2019年5月19日</p></td>
 <td><p><a href="../Page/愛貝克思管理.md" title="wikilink">愛貝克思管理</a></p></td>
-<td><p>5月18日畢業公演[91]</p></td>
+<td><p>5月18日畢業公演[89]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -630,11 +617,11 @@ NGT48最年長</p></td>
 <td></td>
 <td></td>
 <td><p>新潟縣<br />
-<a href="../Page/胎內市.md" title="wikilink">胎內市</a>[92]</p></td>
+<a href="../Page/胎內市.md" title="wikilink">胎內市</a>[90]</p></td>
 <td><p>1期</p></td>
 <td><p>1期生</p></td>
 <td><p>Crocodile</p></td>
-<td><p>5月18日畢業公演[93]</p></td>
+<td><p>5月18日畢業公演[91]</p></td>
 <td><p>77</p></td>
 <td></td>
 </tr>
@@ -647,7 +634,7 @@ NGT48最年長</p></td>
 <td><p>1期</p></td>
 <td><p>1期生</p></td>
 <td><p><a href="../Page/研音.md" title="wikilink">研音</a></p></td>
-<td><p>5月18日畢業公演[94]<br />
+<td><p>5月18日畢業公演[92]<br />
 前Team G副隊長</p></td>
 <td><p>53</p></td>
 <td></td>
@@ -657,15 +644,28 @@ NGT48最年長</p></td>
 <td></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/秋田縣" title="wikilink">秋田縣</a><br />
-<a href="../Page/秋田市.md" title="wikilink">秋田市</a>[95]</p></td>
+<a href="../Page/秋田市.md" title="wikilink">秋田市</a>[93]</p></td>
 <td><p>1期</p></td>
 <td><p>1期生</p></td>
 <td><p>2019年9月1日</p></td>
 <td><p>-</p></td>
-<td><p>8月31日畢業公演[96][97]</p></td>
+<td><p>8月31日畢業公演[94][95]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/佐藤杏樹" title="wikilink">佐藤杏樹</a></p></td>
+<td></td>
+<td></td>
+<td><p>新潟縣<br />
+<a href="https://zh.wikipedia.org/wiki/魚沼市" title="wikilink">魚沼市</a>[96]</p></td>
+<td><p>1期</p></td>
+<td><p>1期生</p></td>
+<td><p>2019年9月30日</p></td>
+<td><p>-</p></td>
+<td><p>9月29日畢業公演[97]<ref>{{Cite web|url=<a href="https://ngt48.jp/news/detail/100003464%7Cscript-title=ja:NGT48">https://ngt48.jp/news/detail/100003464|script-title=ja:NGT48</a> 佐藤杏樹の最終活動日に関しまして|work=NGT48 Offcial site|publisher=AKS</p></td>
+<td><p>accessdate=2019-09-05}}</ref></p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -1018,6 +1018,14 @@ AKB48 Team B柏木由紀兼任發表</p></td>
 <td><p>15</p></td>
 <td><p>-</p></td>
 </tr>
+<tr class="odd">
+<td><p>9月30日</p></td>
+<td><p>1期生佐藤杏樹畢業</p></td>
+<td><p>-1</p></td>
+<td><p>32</p></td>
+<td><p>14</p></td>
+<td><p>-</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -1169,7 +1177,7 @@ AKB48 Team B柏木由紀兼任發表</p></td>
 **最終合格者**（粗體字者為在籍成員）
 
   -
-    大瀧友梨亞、**小熊伦实**、**加藤美南**、**角尤利娅**、**日下部愛菜**、**佐藤杏樹**、菅原里子、**清司麗菜**、**高倉萌香**、高橋真生、**太野彩香**、**中井莉加**、**中村步加**、**奈良未遥**、**西村菜那子**、長谷川玲奈、**本間日陽**、水澤彩佳、宮島亞彌、村雲颯香、山口真帆、**山田野繪**
+    大瀧友梨亞、**小熊伦实**、**加藤美南**、**角尤利娅**、**日下部愛菜**、佐藤杏樹、菅原里子、**清司麗菜**、**高倉萌香**、高橋真生、**太野彩香**、**中井莉加**、**中村步加**、**奈良未遥**、**西村菜那子**、長谷川玲奈、**本間日陽**、水澤彩佳、宮島亞彌、村雲颯香、山口真帆、**山田野繪**
 
 主要不合格者
 
@@ -1913,35 +1921,35 @@ NGT48劇場是NGT48劇場公演的專用場地，位於[新潟市](../Page/新�
 58.  - 《》 2016年11月5日
 
 59.
-60.
+60. 《[NGT48的新潟朋友\!](https://zh.wikipedia.org/wiki/NGT48的新潟朋友! "wikilink")》第1集 - 2017年1月17日播出
+
 61.
-
-62. 《[NGT48的新潟朋友\!](https://zh.wikipedia.org/wiki/NGT48的新潟朋友! "wikilink")》第1集 - 2017年1月17日播出
-
+62.
 63.
+
 64.
 65.
 
 66.
-67.
+67. [信州電視台](https://zh.wikipedia.org/wiki/信州電視台 "wikilink")《》 - 2017年4月10日播出內容
 
 68.
-69. [信州電視台](https://zh.wikipedia.org/wiki/信州電視台 "wikilink")《》 - 2017年4月10日播出內容
+69. }
 
 70.
 71. }
 
 72.
-73. }
 
+73.
 74.
 
 75.
 76.
-
 77.
 78.
 79.
+
 80.
 81.
 
@@ -1949,25 +1957,25 @@ NGT48劇場是NGT48劇場公演的專用場地，位於[新潟市](../Page/新�
 83.
 
 84.
-85.
 
+85.
 86.
 
 87.
-88.
 
+88.
 89.
 
 90.
 91.
-
 92.
+
 93.
 94.
 
 95.
-96.
 
+96.
 97.
 
 98.

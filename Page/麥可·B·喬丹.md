@@ -134,7 +134,7 @@
 </tr>
 <tr class="odd">
 <td><p>2019</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/不完美的正義" title="wikilink">不完美的正義</a></p></td>
+<td><p><a href="../Page/不完美的正義.md" title="wikilink">不完美的正義</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/布萊恩·史蒂文森" title="wikilink">布萊恩·史蒂文森</a></p></td>
 <td><p>兼監製</p></td>
 </tr>
@@ -272,6 +272,12 @@
 <td></td>
 <td><p>Julian Chase</p></td>
 <td><p>配音</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019</p></td>
+<td></td>
+<td><p>Mark Reese</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>

@@ -1,8 +1,8 @@
-**社會記錄頻道（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：Social Record Channel，縮寫：SocREC）**，是[香港](../Page/香港.md "wikilink")一間[網絡媒體](https://zh.wikipedia.org/wiki/網絡媒體 "wikilink")，於2010年8月1日成立。該媒體提供網上視像直播頻道，主要記錄遊行、集會、示威等社會運動情況，且不定期提供網上直播\[1\]\[2\]\[3\]\[4\]\[5\]。
+**社會記錄頻道**（，縮寫：），是[香港](../Page/香港.md "wikilink")一間[網絡媒體](https://zh.wikipedia.org/wiki/網絡媒體 "wikilink")，於2010年8月1日成立。該媒體提供網上視像直播頻道，主要記錄遊行、集會、示威等社會運動情況，且不定期提供網上直播\[1\]\[2\]\[3\]\[4\]\[5\]。
 
 ## 參考來源
 
-[Category:香港媒體](https://zh.wikipedia.org/wiki/Category:香港媒體 "wikilink") [Category:香港網絡電視](https://zh.wikipedia.org/wiki/Category:香港網絡電視 "wikilink") [Category:香港民間媒體](https://zh.wikipedia.org/wiki/Category:香港民間媒體 "wikilink")
+[Category:香港媒體](https://zh.wikipedia.org/wiki/Category:香港媒體 "wikilink") [Category:香港網絡電視](https://zh.wikipedia.org/wiki/Category:香港網絡電視 "wikilink") [Category:香港民間媒體](https://zh.wikipedia.org/wiki/Category:香港民間媒體 "wikilink") [Category:2010年建立的网站](https://zh.wikipedia.org/wiki/Category:2010年建立的网站 "wikilink")
 
 1.  [「有片有真相」 SocREC記錄濫權 《蘋果日報》 2011年7月15日](http://hk.apple.nextmedia.com/news/art/20110715/15433512)
 2.  [駭客入侵SocREC 刪逾千YouTube短片 《蘋果日報》 2013年10月26日](http://hk.apple.nextmedia.com/realtime/news/20131026/51845485)

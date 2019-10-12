@@ -1,4 +1,4 @@
-Google Code-In是一個由[Google](../Page/Google.md "wikilink")舉辦的年度程式設計比賽，目的是要鼓勵年輕學生參與[開放原始碼](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")。比賽由13-17歲的中學生競爭完成由許多夥伴開放原始碼組織所指定的工作。比賽的工作（題目）包括該組織所需要協助的事項，從錯誤的修正、[程式碼的編寫](https://zh.wikipedia.org/wiki/程式碼 "wikilink")、使用者經驗的研究，一直到文件的寫作等。這個比賽完全在線上進行。完成任務的學生可以贏得證書和T恤，而每一個合作的[開放原始碼組織可以決定兩名大奬贏家](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")，贏家可以得到一趟到美國加利福尼亞州[Googleplex](../Page/Googleplex.md "wikilink")（公司總部）的旅遊行程。\[1\]\[2\]
+**Google Code-In**是一個由[Google](../Page/Google.md "wikilink")舉辦的年度程式設計比賽，目的是要鼓勵年輕學生參與[開放原始碼](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")。比賽由13-17歲的中學生競爭完成由許多夥伴開放原始碼組織所指定的工作。比賽的工作（題目）包括該組織所需要協助的事項，從錯誤的修正、[程式碼的編寫](https://zh.wikipedia.org/wiki/程式碼 "wikilink")、使用者經驗的研究，一直到文件的寫作等。這個比賽完全在線上進行。完成任務的學生可以贏得證書和T恤，而每一個合作的[開放原始碼組織可以決定兩名大奬贏家](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")，贏家可以得到一趟到美國加利福尼亞州[Googleplex](../Page/Googleplex.md "wikilink")（公司總部）的旅遊行程。\[1\]\[2\]
 
 ## 宗旨
 
