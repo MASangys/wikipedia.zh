@@ -80,8 +80,6 @@
 
   - [巴麻美的平凡日常](https://zh.wikipedia.org/wiki/魔法少女小圓漫畫作品#MANGA_TIME_KIRARA_MAGICA "wikilink")（原案：Magica Quartet/漫画：あらたまい、2017年5月号 - ）※自『[MANGA TIME KIRARA MAGICA](https://zh.wikipedia.org/wiki/魔法少女小圓漫畫作品#MANGA_TIME_KIRARA_MAGICA "wikilink")』移籍、截至2017年12月號為止為隔月連載（奇數月號揭載）
 
-  - （[Hanokage](../Page/Hanokage.md "wikilink")、2018年1月號 - 2019年10月號）
-
   - （、2018年7月號 - ）
 
   - [魔法紀錄 魔法少女小圓外傳](https://zh.wikipedia.org/wiki/魔法紀錄_魔法少女小圓外傳#漫畫 "wikilink")（原作：Magica Quartet/作畫：、2018年10月號 - ）
@@ -101,6 +99,8 @@
   - （、2019年7月號 - ）
 
   - SA07（、2019年9月號 - ）
+
+  - （、2019年11月號 - ）
 
 ## 休載中的作品
 
@@ -309,6 +309,8 @@
   - （[藤田阿登](https://zh.wikipedia.org/wiki/藤田阿登 "wikilink")、2017年4月號・6月號客串、8月號 - 2018年10月號）※移籍至『Kirara基地』
 
   - （、2016年12月号刊载短篇、2017年9月號 - 2018年8月號）
+
+  - （[Hanokage](../Page/Hanokage.md "wikilink")、2018年1月號 - 2019年10月號）
 
 ## 參考文獻
 

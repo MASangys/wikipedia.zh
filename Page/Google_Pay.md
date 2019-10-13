@@ -218,9 +218,9 @@ Google支付服務主管Pali Bhat在接受外國傳媒查詢時指出，支付�
   - [EFTPOS](https://zh.wikipedia.org/wiki/EFTPOS "wikilink")（澳大利亞）
   - [Interac](https://zh.wikipedia.org/wiki/Interac "wikilink")（加拿大）
 
-在日本的账户另外支持以下储值卡，但需要设备支持 Osaifu-Keitai 。
+在日本的账户另外支持以下储值卡，但需要设备支持Osaifu-Keitai。
 
-  - [nanaco](https://zh.wikipedia.org/wiki/nanaco "wikilink") （日本電子票證）
+  - [nanaco](https://zh.wikipedia.org/wiki/nanaco "wikilink")（日本電子票證）
   - [Edy](https://zh.wikipedia.org/wiki/Edy "wikilink")（日本電子票證）
   - [Suica](../Page/Suica.md "wikilink")（日本電子票證）
   - [Waon](https://zh.wikipedia.org/wiki/Waon "wikilink")（日本電子票證）

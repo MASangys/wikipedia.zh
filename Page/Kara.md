@@ -208,7 +208,7 @@ PlotData =
   - 11月24日，發行首張日文專輯《[Girl's Talk](../Page/Girl's_Talk.md "wikilink")》發行首周銷量突破十萬張，前次日本國內除外的亞洲女子團體的專輯首週銷售突破10萬張的專輯是[女子十二樂坊](../Page/女子十二樂坊.md "wikilink")的「輝煌～Shining Energy～」(首週銷售11.8萬張)，相隔6年9個月，初週10万枚突破。
   - 在2010年11月發行的首張日文專輯，在2011年連續五週(1/17\~2/14)保持在Oricon專輯排行榜前五位，這是自2005年羅馬尼亞三人男子團體 O-Zone 以來第一個達成如此成績的海外團體。並且銷售額突破30萬張，來到31.3萬。上次專輯唱片銷售突破30萬張的海外女子團體是[天命真女](../Page/天命真女.md "wikilink")的精選輯《\#1'S》。
 
-#### 2011年：各種史上第一次的紀錄
+#### 2011年：日本唱片協會金牌、白金、雙白金認證
 
   - 2011年度 Oricon Top 100排名，Kara於排行榜中分別以[GO GO Summer\!](https://zh.wikipedia.org/wiki/GO_GO_Summer! "wikilink") (總銷售量: 230,082)獲得第25位、[Jet Coaster Love](../Page/Jet_Coaster_Love.md "wikilink") (總銷售量: 225,175)獲得第26位及Winter Magic獲得第64位。
   - 1月23日，發行MV精選輯DVD《KARA BEST CLIPS》，發行首周銷量達到13.2萬張，拿下Oricon DVD 綜合排行榜的週榜冠軍，成為第一個拿下日本公信榜DVD綜合排行榜冠軍的海外女性藝人，而首周銷量也打破女性藝人非現場演出類的DVD銷量紀錄（原紀錄為2000年[倉木麻衣](../Page/倉木麻衣.md "wikilink")《FIRST CUT》9.9萬張）。

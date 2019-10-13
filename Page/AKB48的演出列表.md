@@ -32,7 +32,7 @@
   - [NHK教育→NHK E頻道](../Page/NHK教育頻道.md "wikilink")
       - [R的法則](../Page/R的法則.md "wikilink")（2011年2月23日・3月30日 - ） - [多田愛佳](../Page/多田愛佳.md "wikilink")・[前田亞美](../Page/前田亞美.md "wikilink")・[佐藤すみれ](https://zh.wikipedia.org/wiki/佐藤すみれ "wikilink")\[1\]・[宮崎美穗](../Page/宮崎美穗.md "wikilink")\[2\]・[小森美果](../Page/小森美果.md "wikilink")\[3\]
   - [日本電視台](../Page/日本電視台.md "wikilink")（包括系列局制作）
-      - [AKBINGO\!](https://zh.wikipedia.org/wiki/AKBINGO! "wikilink")（2008年10月1日－）：《[AKB0時59分！](../Page/AKB0時59分！.md "wikilink")》的後續節目
+      - [AKBINGO\!](https://zh.wikipedia.org/wiki/AKBINGO! "wikilink")（2008年10月1日－2019年9月25日）：《[AKB0時59分！](../Page/AKB0時59分！.md "wikilink")》的後續節目
       - [AKB和××\!](../Page/AKB和××!.md "wikilink")（2010年7月13日－2016年3月23日；[讀賣電視台](../Page/讀賣電視台.md "wikilink")）
   - [TBS電視台](../Page/TBS電視台.md "wikilink")
       - [有吉AKB共和国](https://zh.wikipedia.org/wiki/有吉AKB共和国 "wikilink")（2010年3月29日 - 2012年9月18日、2012年11月12日 -2016年3月29日 ）\[4\] - 小嶋陽菜+2週交替正規成員1人+研究生數名+[指原莉乃](../Page/指原莉乃.md "wikilink")（指原PRIDE寬環節）

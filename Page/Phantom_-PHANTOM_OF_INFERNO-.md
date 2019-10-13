@@ -60,7 +60,7 @@
   - 麗茲·加蘭特（ Lizzie Garland）
     声：[折笠愛](../Page/折笠愛.md "wikilink") / 同左 / [渡辺明乃](https://zh.wikipedia.org/wiki/渡辺明乃 "wikilink")
     Inferno的幹部，是克勞蒂婭的部下兼好友，亦擔任其保鏢。她的好勝絲毫不遜於男子，性格忠誠耿直，所以對Inferno内的權謀之爭完全不感興趣。
-    使用枪械：[AMT Hardballer Longslide](https://zh.wikipedia.org/wiki/AMT_Hardballer半自動手槍 "wikilink")
+    使用枪械：[AMT Hardballer Longslide](../Page/AMT_Hardballer半自動手槍.md "wikilink")
 
 <!-- end list -->
 

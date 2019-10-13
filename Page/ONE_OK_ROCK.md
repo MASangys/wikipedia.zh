@@ -40,7 +40,7 @@
 
 2018年1月27日，樂團移至南港C3停車場舉辦樂團史上海外最大場首次台灣戶外演唱會「AMBITIONS ASIA TOUR 2018 in TAIWAN」，吸引兩萬人到場\[25\]。
 
-2019年發行專輯《Eye of the storm》 並在2019紅髮艾德演唱會擔任開場嘉賓。
+2019年發行專輯《Eye of the storm》 並在2019年4月4日紅髮艾德「Ed Sheeran Divide World Tour 2019 Taoyuan」演唱會擔任開場嘉賓。
 
 ## 成員
 

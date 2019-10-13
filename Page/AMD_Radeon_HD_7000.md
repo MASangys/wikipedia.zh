@@ -22,7 +22,7 @@ Radeon HD 7000系列的主要競爭對手為[NVIDIA的](https://zh.wikipedia.org
 
 ### 图形引擎
 
-核心配備兩個几何引擎。每一個几何引擎包含曲面细分单元、几何装配器、顶点装配器各一個，還有可用於[卷積運算](https://zh.wikipedia.org/wiki/卷積 "wikilink")、[傅里葉變換等特殊運算任務以及材質貼圖處理的材質陣列](https://zh.wikipedia.org/wiki/傅里葉變換 "wikilink")。單從數量而言，光栅器和曲面细分单元依然比不上對手[NVIDIA](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")。AMD特別針對相關單元的執行效率，聲稱Radeon HD 7970的曲面细分效能最高是上一代Radeon HD 6970的4倍，即使平均下來也有兩倍的效能提升水準。\[11\]
+核心配備兩個几何引擎。每一個几何引擎包含曲面细分单元、几何装配器、[顶点装配器各一個](../Page/頂點_\(電腦圖學\).md "wikilink")，還有可用於[卷積運算](https://zh.wikipedia.org/wiki/卷積 "wikilink")、[傅里葉變換等特殊運算任務以及材質貼圖處理的材質陣列](https://zh.wikipedia.org/wiki/傅里葉變換 "wikilink")。單從數量而言，光栅器和曲面细分单元依然比不上對手[NVIDIA](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")。AMD特別針對相關單元的執行效率，聲稱Radeon HD 7970的曲面细分效能最高是上一代Radeon HD 6970的4倍，即使平均下來也有兩倍的效能提升水準。\[11\]
 
 ### 任務仲裁
 

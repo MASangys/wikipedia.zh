@@ -1,6 +1,6 @@
 [Hitomi_Tanaka_&_Anri_Okita_at_AVN_Adult_Entertainment_Expo_2016_(25545790542).jpg](https://zh.wikipedia.org/wiki/File:Hitomi_Tanaka_&_Anri_Okita_at_AVN_Adult_Entertainment_Expo_2016_\(25545790542\).jpg "fig:Hitomi_Tanaka_&_Anri_Okita_at_AVN_Adult_Entertainment_Expo_2016_(25545790542).jpg")\]\] [Hitomi_Tanaka_&_Master_Gio_at_AVN_Adult_Entertainment_Expo_2016_(25571815161).jpg](https://zh.wikipedia.org/wiki/File:Hitomi_Tanaka_&_Master_Gio_at_AVN_Adult_Entertainment_Expo_2016_\(25571815161\).jpg "fig:Hitomi_Tanaka_&_Master_Gio_at_AVN_Adult_Entertainment_Expo_2016_(25571815161).jpg")  **Hitomi**（，）是[日本](../Page/日本.md "wikilink")的[AV女優](../Page/AV女優.md "wikilink")，出生於[日本](../Page/日本.md "wikilink")。於2008年出道於[日本成人影片界](https://zh.wikipedia.org/wiki/日本成人影片 "wikilink")。
 
-2009年4月18日拍攝"體內射精"的題材成人影片，現在是ALLURE所屬。
+2009年4月18日拍攝"體內射精懷孕"的題材成人影片，現在是ALLURE所屬。
 
 2018年5月17號於Instagram上公布戀情，與樂團《Emmure》的主唱帕爾梅里交往已長達4年。\[1\]
 

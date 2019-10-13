@@ -1,4 +1,4 @@
-《**Do-Re-Mi**》(音乐风格為童谣)是1959年[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[電影作品](https://zh.wikipedia.org/wiki/電影 "wikilink")《[真善美](https://zh.wikipedia.org/wiki/真善美 "wikilink")》的歌曲之一，作詞者為[奧斯卡·漢默斯坦二世](../Page/奧斯卡·漢默斯坦二世.md "wikilink")，作曲者為[理察·羅傑斯](../Page/理察·羅傑斯_\(作曲家\).md "wikilink")。在故事中，雖然在冯·崔普上校在其妻子去世后，不允許孩子們嬉戲，但瑪利亞仍用這首樂曲教孩子們歌唱的[自然大調音符](https://zh.wikipedia.org/wiki/自然大調 "wikilink")。
+《**Do-Re-Mi**》（音乐风格為童谣）是1959年[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[電影作品](https://zh.wikipedia.org/wiki/電影 "wikilink")《[真善美](https://zh.wikipedia.org/wiki/真善美 "wikilink")》的歌曲之一，作詞者為[奧斯卡·漢默斯坦二世](../Page/奧斯卡·漢默斯坦二世.md "wikilink")，作曲者為[理察·羅傑斯](../Page/理察·羅傑斯_\(作曲家\).md "wikilink")。在故事中，雖然在冯·崔普上校在其妻子去世后，不允許孩子們嬉戲，但瑪利亞仍用這首樂曲教孩子們歌唱的[自然大調音符](https://zh.wikipedia.org/wiki/自然大調 "wikilink")。
 
 這首歌的每句歌詞開頭都為音樂[唱名](https://zh.wikipedia.org/wiki/唱名 "wikilink")，並使用對應的音調名稱演唱。歌曲主旋律和舒曼鋼琴五重奏的一段相近。
 

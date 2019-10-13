@@ -250,7 +250,7 @@
 
   - [官方网站](http://www.mercedesamgf1.com/)
 
-[Category:2009年建立](https://zh.wikipedia.org/wiki/Category:2009年建立 "wikilink") [Category:一级方程式车队](https://zh.wikipedia.org/wiki/Category:一级方程式车队 "wikilink") [Category:梅赛德斯-奔驰](https://zh.wikipedia.org/wiki/Category:梅赛德斯-奔驰 "wikilink") [Category:英国体育组织](https://zh.wikipedia.org/wiki/Category:英国体育组织 "wikilink")
+[Category:2009年建立](https://zh.wikipedia.org/wiki/Category:2009年建立 "wikilink") [Category:一级方程式车队](https://zh.wikipedia.org/wiki/Category:一级方程式车队 "wikilink") [Category:一级方程式引擎制造商](https://zh.wikipedia.org/wiki/Category:一级方程式引擎制造商 "wikilink") [Category:梅赛德斯-奔驰](https://zh.wikipedia.org/wiki/Category:梅赛德斯-奔驰 "wikilink") [Category:英国体育组织](https://zh.wikipedia.org/wiki/Category:英国体育组织 "wikilink")
 
 1.
 2.

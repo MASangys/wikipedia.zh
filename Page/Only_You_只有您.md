@@ -313,7 +313,7 @@ May之未婚夫<br />
 <tr class="even">
 <td><p><strong><a href="../Page/陳美詩.md" title="wikilink">陳美詩</a></strong></p></td>
 <td><p><strong>唐燕珊</strong></p></td>
-<td><p><strong>靚妹</strong><br />
+<td><p><strong>靚妹、阿珊</strong><br />
 護士<br />
 唐太之女<br />
 吳兆海之未婚妻<br />

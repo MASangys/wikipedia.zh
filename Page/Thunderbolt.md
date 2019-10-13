@@ -115,7 +115,7 @@ Intel宣稱，Thunderbolt 2 能連接一個[显示器](https://zh.wikipedia.org/
 
 ## 外接
 
-  - 目前Intel的CPU中没有集成Thunderbolt控制器，使用Thunderbolt 3 連接外部 [PCIe](https://zh.wikipedia.org/wiki/PCIe "wikilink") [顯示卡](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")，依遊戲或軟體不同，效能为最大效能的70\~99%，因为显卡工作时不会占用全部接口带宽。但当显卡接在直连CPU的[M.2](../Page/M.2.md "wikilink")接口（同样提供PCIe 3.0 ×4）上时，实际测试没有性能损失。（第八代CPU已经集成了Thunderbolt控制器）
+  - 以前的Intel CPU没有集成Thunderbolt控制器，許多筆記型電腦的Thunderbolt都是掛接在[PCH下](https://zh.wikipedia.org/wiki/PCH "wikilink")，使用Thunderbolt 3連接外部[PCIe](https://zh.wikipedia.org/wiki/PCIe "wikilink")[顯示卡](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")，依遊戲或軟體不同，效能为最大效能的70\~99%，因为显卡工作时不会占用全部接口带宽。但当显卡接在直连CPU的[M.2](../Page/M.2.md "wikilink")接口上时，实际测试性能损失不大。（第十代Intel Core處理器集成了Thunderbolt控制器）
 
 ## 安全性
 

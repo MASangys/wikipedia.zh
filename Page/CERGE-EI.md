@@ -39,7 +39,7 @@
 ## 外部链接
 
   - [CERGE-EI's official website](https://web.archive.org/web/20070316135642/http://www.cerge-ei.cz/)
-  - [Official website for the Ph.D. program](http://www.cerge-ei.cz/phd-program/the-phd-program)
+  - [Official website for the Ph.D. program](https://web.archive.org/web/20110929151241/http://www.cerge-ei.cz/phd-program/the-phd-program)
   - [Official website for the MAE program](http://www.cerge-ei.cz/mae)
   - [UPCES Study Abroad official website](http://upces.cerge-ei.cz)
   - [Charles University's official website (in English)](http://www.cuni.cz/UKENG-1.html)

@@ -38,7 +38,7 @@
 
 #### 博美娛樂 BMA
 
-**博美娛樂**是一家香港娛樂及文化事業公司，成立於1999年，亦是香港主要唱片公司之一，2010年12月博美娛樂加入香港音像聯盟，旗下歌手主要包括：[曹格](../Page/曹格.md "wikilink")、[周國賢](../Page/周國賢.md "wikilink")、[梁奕倫](https://zh.wikipedia.org/wiki/梁奕倫 "wikilink")、[胡琳](../Page/胡琳.md "wikilink")、[Soler](../Page/Soler.md "wikilink")、[野仔等](https://zh.wikipedia.org/wiki/野仔 "wikilink")；但隨着旗下歌手陸續約滿關係，再加上更多不明朗的經濟因素，因此在2014年起正式結束唱片業務。
+**博美娛樂**是一家香港娛樂及文化事業公司，成立於1999年，亦是香港主要唱片公司之一，2010年12月博美娛樂加入香港音像聯盟，旗下歌手主要包括：[曹格](../Page/曹格.md "wikilink")、[周國賢](../Page/周國賢.md "wikilink")、[梁奕倫](https://zh.wikipedia.org/wiki/梁奕倫 "wikilink")、[胡琳](../Page/胡琳.md "wikilink")、[Soler](../Page/Soler.md "wikilink")、[野仔等](https://zh.wikipedia.org/wiki/野仔 "wikilink")；但隨着旗下歌手陸續約滿關係，再加上更多不明朗的經濟因素，因此在2017年起正式結束唱片業務。
 
 ### 電視廣播有限公司 TVB
 

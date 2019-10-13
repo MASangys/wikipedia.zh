@@ -36,7 +36,7 @@
 </tr>
 <tr class="odd">
 <td><p>1995</p></td>
-<td><p>《》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/魔宮帝國_(電影)" title="wikilink">魔宮帝國</a>》</p></td>
 <td><p><em>Mortal Kombat</em></p></td>
 <td></td>
 <td></td>
@@ -234,7 +234,7 @@
 2集</p></td>
 </tr>
 <tr class="odd">
-<td><p>TBA</p></td>
+<td><p>2020</p></td>
 <td><p>《<a href="../Page/魔物獵人_(電影).md" title="wikilink">魔物獵人</a>》</p></td>
 <td><p><em>Monster Hunter</em></p></td>
 <td></td>

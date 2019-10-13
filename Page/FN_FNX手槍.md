@@ -28,7 +28,7 @@ FNX-45的彈匣後方開了12個標示小孔，編號為「4」至「15」，可
 
 ## 設計及操作
 
-FNX系列手槍與許多市場上的其他[中央式底火](../Page/中央式底火.md "wikilink")手槍一樣，都是使用[槍管短行程後座作用的手槍系統](../Page/後座作用.md "wikilink")。它最主要的不同之處在是於槍管後退和開鎖以及以後的槍管和[套筒行程](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")。以分離前計算，FNX的槍管和套筒行程的距離是其他的半自動手槍，例如[春田XDM](../Page/春田XDM手槍.md "wikilink")（[HS2000](../Page/HS2000手槍.md "wikilink")）的兩倍。這將有助於減少從手槍感受到的[後座力](../Page/後座力.md "wikilink")。
+FNX系列手槍與許多市場上的其他[中央式底火](../Page/中央式底火.md "wikilink")手槍一樣，都是使用[槍管短行程後座作用的手槍系統](../Page/後座作用.md "wikilink")。它最主要的不同之處在是於槍管後退和開鎖以及以後的槍管和[套筒行程](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")。以分離前計算，FNX的槍管和套筒行程的距離是其他的半自動手槍，例如[春田XDM](../Page/春田XDM半自動手槍.md "wikilink")（[HS2000](../Page/HS2000手槍.md "wikilink")）的兩倍。這將有助於減少從手槍感受到的[後座力](../Page/後座力.md "wikilink")。
 
 FNX系列手槍需要使用射擊，而非主動型[撞針](../Page/撞針.md "wikilink")射擊。這種手槍可以[單／雙動操作扳機](https://zh.wikipedia.org/wiki/扳機 "wikilink")（SA／DA）射擊。
 

@@ -21,6 +21,7 @@
   - [Institut polytechnique des sciences avancées](../Page/高等科学技术学院.md "wikilink")
   - Sup'biotech
   - E-artsup
+  - Epitech Digital
   - IONIS school of technology and management
   - Sup'internet\[4\]
   - Coding Academy

@@ -384,20 +384,18 @@
 | 第20集   | 2009/12/17                               | <span style=color:red>**39.9%**</span>   | <span style=color:red>**41.8%**</span>   |
 | 平均收視率  | <span style=color:green>**31.9%**</span> | <span style=color:green>**33.0%**</span> | <span style=color:green>**28.4%**</span> |
 
-## 相关条目
+## 拍攝場地
 
   - [田泽湖](https://zh.wikipedia.org/wiki/田泽湖 "wikilink")：居中男女主人公就在该胡西侧的“辰子姬”青铜像处相抱。
 
+## 參考資料
+
 ## 外部連結
 
-  - [韓國KBS](http://www.kbs.co.kr/drama/iris)
+  - [韓國KBS官方網站](http://www.kbs.co.kr/drama/iris)
   - [臺灣東森電視](http://tvshow.ebc.net.tw/UD2010001)
   - [香港無綫電視](http://programme.tvb.com/drama/iris/)
 
 ## 作品變遷
-
-## 参考文献
-
-{{-}}
 
 [Category:KBS水木連續劇](https://zh.wikipedia.org/wiki/Category:KBS水木連續劇 "wikilink") [Category:2009年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2009年韓國電視劇集 "wikilink") [Category:虛構犯罪組織](https://zh.wikipedia.org/wiki/Category:虛構犯罪組織 "wikilink") [Category:報復題材電視劇](https://zh.wikipedia.org/wiki/Category:報復題材電視劇 "wikilink") [Category:首爾特別市背景電視劇](https://zh.wikipedia.org/wiki/Category:首爾特別市背景電視劇 "wikilink") [Category:秋田縣背景作品](https://zh.wikipedia.org/wiki/Category:秋田縣背景作品 "wikilink") [Category:上海市背景电视剧](https://zh.wikipedia.org/wiki/Category:上海市背景电视剧 "wikilink") [Category:韓國愛情劇](https://zh.wikipedia.org/wiki/Category:韓國愛情劇 "wikilink") [Category:孤兒題材電視劇](https://zh.wikipedia.org/wiki/Category:孤兒題材電視劇 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:匈牙利背景作品](https://zh.wikipedia.org/wiki/Category:匈牙利背景作品 "wikilink") [Category:韓國國家情報院題材作品](https://zh.wikipedia.org/wiki/Category:韓國國家情報院題材作品 "wikilink")

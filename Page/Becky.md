@@ -211,7 +211,7 @@
 
   - [べっ記（官方BLOG）](https://web.archive.org/web/20090901195458/http://www.sunmusic.org/becky/blog/)
 
-  - [ベッキー♪♯ EMI JAPAN 歌手介紹](http://www.emimusic.jp/artist/becky/)
+  - [ベッキー♪♯ EMI JAPAN 歌手介紹](https://web.archive.org/web/20101009102338/http://emimusic.jp/artist/becky/)
 
 [Category:日本女演員](https://zh.wikipedia.org/wiki/Category:日本女演員 "wikilink") [Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:日本女性電視藝人](https://zh.wikipedia.org/wiki/Category:日本女性電視藝人 "wikilink") [Category:英國裔日本人](https://zh.wikipedia.org/wiki/Category:英國裔日本人 "wikilink") [Category:神奈川縣出身人物](https://zh.wikipedia.org/wiki/Category:神奈川縣出身人物 "wikilink") [Category:英國裔混血兒](https://zh.wikipedia.org/wiki/Category:英國裔混血兒 "wikilink") [Category:日裔混血儿](https://zh.wikipedia.org/wiki/Category:日裔混血儿 "wikilink") [Category:亞細亞大學校友](https://zh.wikipedia.org/wiki/Category:亞細亞大學校友 "wikilink")
 

@@ -33,10 +33,10 @@
 
 <!-- end list -->
 
-  - 爆球連射！！超級彈珠人
+  - [爆球連射！！超級彈珠人](../Page/爆球連發！！超級彈珠人.md "wikilink")
   - 爆走兄弟Let's & GO MAX
-  - 新機動戰記 高達W Battle Field of Pacifist
-  - 新機動戰記 高達W G-UNIT
+  - 新機動戰記高達W Battle Field of Pacifist
+  - 新機動戰記高達W G-UNIT
   - [機動武鬥傳G高達](https://zh.wikipedia.org/wiki/機動武鬥傳G高達 "wikilink")
   - [搖搖之星](https://zh.wikipedia.org/wiki/搖搖之星 "wikilink")
   - [勁力搖搖王](https://zh.wikipedia.org/wiki/勁力搖搖王 "wikilink")
@@ -51,12 +51,12 @@
 
   - [激鬥！數碼暴龍](https://zh.wikipedia.org/wiki/数码宝贝系列 "wikilink")
   - [微星小超人](https://zh.wikipedia.org/wiki/微星小超人 "wikilink")
-  - [機動新世紀高達 X](https://zh.wikipedia.org/wiki/機動新世紀高達_X "wikilink")
+  - [機動新世紀高達X](../Page/機動新世紀GUNDAM_X.md "wikilink")
   - [機動戰士高達 馬沙之反擊](https://zh.wikipedia.org/wiki/機動戰士高達_馬沙之反擊 "wikilink")
-  - 機動新世紀高達X　外傳
-  - [SD高達 G Generation](https://zh.wikipedia.org/wiki/SD高達_G_Generation "wikilink")
-  - [拳皇R2](https://zh.wikipedia.org/wiki/拳皇R2 "wikilink")
-  - [餓狼傳說爆笑四格](https://zh.wikipedia.org/wiki/餓狼傳說爆笑四格 "wikilink")
+  - 機動新世紀高達X 外傳
+  - [SD高達 G Generation](../Page/SD_GUNDAM_G世代.md "wikilink")
+  - [拳皇R2](../Page/拳皇系列.md "wikilink")
+  - [餓狼傳說爆笑四格](https://zh.wikipedia.org/wiki/餓狼傳說系列 "wikilink")
   - [∀高達](https://zh.wikipedia.org/wiki/∀高達 "wikilink")
 
 <!-- end list -->
@@ -66,14 +66,14 @@
 <!-- end list -->
 
   - [數碼暴龍](https://zh.wikipedia.org/wiki/数码宝贝大冒险 "wikilink")
-  - [MOZ召喚王](https://zh.wikipedia.org/wiki/MOZ召喚王 "wikilink")
+  - [MOZ 召喚王](../Page/MOZ_召喚王.md "wikilink")
   - [拾下拾下仔仔](https://zh.wikipedia.org/wiki/拾下拾下仔仔 "wikilink")
   - [爆笑傻龍](https://zh.wikipedia.org/wiki/爆笑傻龍 "wikilink")
   - [大西遊](https://zh.wikipedia.org/wiki/大西遊 "wikilink")
   - 拳皇R2 番外篇
   - [格鬥料理傳說](https://zh.wikipedia.org/wiki/格鬥料理傳說 "wikilink") Bistro Recipe
   - Metal Fighter [機械奇兵](https://zh.wikipedia.org/wiki/機械奇兵 "wikilink")
-  - [機動戰士高達外傳](https://zh.wikipedia.org/wiki/機動戰士高達外傳 "wikilink") 於殖民地墮落處
+  - [機動戰士高達外傳 於殖民地墮落處](../Page/機動戰士GUNDAM外傳_殖民地墮落之地.md "wikilink")
 
 <!-- end list -->
 
@@ -82,13 +82,13 @@
 <!-- end list -->
 
   - [數碼暴龍02](https://zh.wikipedia.org/wiki/數碼暴龍02 "wikilink")
-  - [MOZ召喚王](https://zh.wikipedia.org/wiki/MOZ召喚王 "wikilink") CYBER卡戰篇
+  - [MOZ 召喚王](../Page/MOZ_召喚王.md "wikilink") CYBER卡戰篇
   - [偵探劇場 福爾摩斯物語](https://zh.wikipedia.org/wiki/偵探劇場_福爾摩斯物語 "wikilink")
-  - [真‧女神轉生 惡魔之子](https://zh.wikipedia.org/wiki/真‧女神轉生_惡魔之子 "wikilink")
+  - [真·女神轉生 惡魔之子](../Page/真·女神轉生_惡魔之子.md "wikilink")
   - [超電戰記](https://zh.wikipedia.org/wiki/超電戰記 "wikilink")
   - [三國志 笑林英雄傳](https://zh.wikipedia.org/wiki/三國志_笑林英雄傳 "wikilink")
   - [風之SOCCER](https://zh.wikipedia.org/wiki/風之SOCCER "wikilink")
-  - [武者O傳](https://zh.wikipedia.org/wiki/武者O傳 "wikilink")
+  - [SD頑駄無 武者O傳](../Page/SD頑駄無_武者O傳.md "wikilink")
   - [笑笑妖怪烈傳四格](https://zh.wikipedia.org/wiki/笑笑妖怪烈傳四格 "wikilink")
   - [3分王嘉南](https://zh.wikipedia.org/wiki/3分王嘉南 "wikilink")
 
@@ -98,13 +98,13 @@
 
 <!-- end list -->
 
-  - [拳皇RX](https://zh.wikipedia.org/wiki/拳皇RX "wikilink")
+  - [拳皇RX](../Page/拳皇系列.md "wikilink")
   - [數碼暴龍03馴獸師之王](https://zh.wikipedia.org/wiki/數碼暴龍03馴獸師之王 "wikilink")
   - [激釣小子](https://zh.wikipedia.org/wiki/激釣小子 "wikilink")
   - [五右衛門](https://zh.wikipedia.org/wiki/五右衛門 "wikilink")
   - [暴走旋風](https://zh.wikipedia.org/wiki/暴走旋風 "wikilink")
   - [COCO劇場36計](https://zh.wikipedia.org/wiki/COCO劇場36計 "wikilink")
-  - [MOZ召喚王](https://zh.wikipedia.org/wiki/MOZ召喚王 "wikilink") 赤龍王傳說
+  - [MOZ 召喚王](../Page/MOZ_召喚王.md "wikilink") 赤龍王傳說
   - [森之王‧海](https://zh.wikipedia.org/wiki/森之王‧海 "wikilink")
 
 <!-- end list -->
@@ -114,11 +114,11 @@
 <!-- end list -->
 
   - [數碼暴龍04無限地帶](https://zh.wikipedia.org/wiki/數碼暴龍04無限地帶 "wikilink")
-  - MOZ召喚王 雷王傳
+  - MOZ 召喚王 雷王傳
   - [校園大英雄](https://zh.wikipedia.org/wiki/校園大英雄 "wikilink")
   - [激鬥改車王Ken](https://zh.wikipedia.org/wiki/激鬥改車王Ken "wikilink")
   - 拳皇RX Nest完結篇
-  - [武耆O傳3](https://zh.wikipedia.org/wiki/武耆O傳3 "wikilink")
+  - [SD頑駄無 武者O傳III](https://zh.wikipedia.org/wiki/SD頑駄無_武者O傳III "wikilink")
 
 <!-- end list -->
 
@@ -131,7 +131,7 @@
   - [魔法王子亞彼斯](https://zh.wikipedia.org/wiki/魔法王子亞彼斯 "wikilink")
   - [機動戰士特種計劃](https://zh.wikipedia.org/wiki/機動戰士特種計劃 "wikilink")
   - [LALALA美食超人](https://zh.wikipedia.org/wiki/LALALA美食超人 "wikilink")
-  - [武者烈傳](https://zh.wikipedia.org/wiki/武者烈傳 "wikilink") 武化舞可篇
+  - [武者烈傳 武化舞可篇](../Page/SD高達FORCE繪卷_武者烈傳_武化舞可篇.md "wikilink")
   - [數碼暴龍D-Cyber超進化龍魂戰記](https://zh.wikipedia.org/wiki/數碼暴龍D-Cyber超進化龍魂戰記 "wikilink")
 
 <!-- end list -->
@@ -149,7 +149,7 @@
 <!-- end list -->
 
   - [幻劍聖鬥傳](https://zh.wikipedia.org/wiki/幻劍聖鬥傳 "wikilink")
-  - B-傳說 [戰鬥彈珠人](https://zh.wikipedia.org/wiki/戰鬥彈珠人 "wikilink")
+  - [B傳說！戰鬥彈珠人](../Page/B傳說！戰鬥彈珠人.md "wikilink")
 
 <!-- end list -->
 
@@ -174,7 +174,7 @@
 <!-- end list -->
 
   - [熱血漫畫工作室](https://zh.wikipedia.org/wiki/熱血漫畫工作室 "wikilink")
-  - 機動戰士高達00 First Season
+  - [機動戰士高達00](https://zh.wikipedia.org/wiki/機動戰士高達00 "wikilink") First Season
   - [捉鬼對戰機](https://zh.wikipedia.org/wiki/捉鬼對戰機 "wikilink")
   - [BB戰士三國傳](../Page/BB戰士三國傳.md "wikilink") 戰神決鬥篇
   - [Go for Speed](https://zh.wikipedia.org/wiki/Go_for_Speed "wikilink")
@@ -188,7 +188,7 @@
   - [爆旋陀螺 鋼鐵戰魂](https://zh.wikipedia.org/wiki/爆旋陀螺_鋼鐵戰魂 "wikilink")
   - [BattleSpirits少年突破馬神](../Page/Battle_Spirits_少年突破馬神.md "wikilink")
   - [封魔幻想](https://zh.wikipedia.org/wiki/封魔幻想 "wikilink")
-  - [機動戰士高達00ss](https://zh.wikipedia.org/wiki/機動戰士高達00 "wikilink")
+  - [機動戰士高達00](https://zh.wikipedia.org/wiki/機動戰士高達00 "wikilink") Second Season
   - [Keroro軍曹](../Page/Keroro軍曹.md "wikilink")
 
 <!-- end list -->
@@ -221,7 +221,7 @@
 
 <!-- end list -->
 
-  - [Battle_Spirits_龍](https://zh.wikipedia.org/wiki/Battle_Spirits_龍 "wikilink")
+  - [Battle Spirits 龍](https://zh.wikipedia.org/wiki/Battle_Spirits_龍 "wikilink")
   - [降魔師逵](https://zh.wikipedia.org/wiki/降魔師逵 "wikilink")
   - [危險爺爺](https://zh.wikipedia.org/wiki/危險爺爺 "wikilink")
   - [潮流4格](https://zh.wikipedia.org/wiki/潮流4格 "wikilink")

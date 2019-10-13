@@ -2,6 +2,6 @@
 
 ## 外部链接
 
-  - [Interview with Shakir Stewart, HitQuarters Nov 05](http://www.hitquarters.com/dev/index.php3?page=intrview/opar/intrview_ShakirStewart.html)
+  - [Interview with Shakir Stewart, HitQuarters Nov 05](https://web.archive.org/web/20170623203908/http://www.hitquarters.com/dev/index.php3?page=intrview%2Fopar%2Fintrview_ShakirStewart.html)
 
 [Category:1984年成立的公司](https://zh.wikipedia.org/wiki/Category:1984年成立的公司 "wikilink") [Category:美國唱片公司](https://zh.wikipedia.org/wiki/Category:美國唱片公司 "wikilink") [Category:威望迪子公司](https://zh.wikipedia.org/wiki/Category:威望迪子公司 "wikilink") [Category:总部位于纽约市的公司](https://zh.wikipedia.org/wiki/Category:总部位于纽约市的公司 "wikilink")

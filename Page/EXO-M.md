@@ -4,15 +4,15 @@
 
 ## 成員列表
 
-| 成員列表\[3\]                                            |
-| ---------------------------------------------------- |
-| 藝名                                                   |
-| 藝名                                                   |
-| [Xiumin](../Page/Xiumin.md "wikilink")               |
-| [Lay](https://zh.wikipedia.org/wiki/Lay "wikilink")  |
-| [Chen](https://zh.wikipedia.org/wiki/金鍾大 "wikilink") |
-| 正進行合約無效訴訟                                            |
-| [Tao](../Page/黃子韜.md "wikilink")                     |
+| 成員列表\[3\]                                           |
+| --------------------------------------------------- |
+| 藝名                                                  |
+| 藝名                                                  |
+| [Xiumin](../Page/Xiumin.md "wikilink")              |
+| [Lay](https://zh.wikipedia.org/wiki/Lay "wikilink") |
+| [Chen](../Page/CHEN_\(EXO\).md "wikilink")          |
+| 正進行合約無效訴訟                                           |
+| [Tao](../Page/黃子韜.md "wikilink")                    |
 
   - 离团成员
       - [Luhan](../Page/鹿晗.md "wikilink")
@@ -165,7 +165,7 @@
 <td><p>2012年5月15日</p></td>
 <td><p>《<a href="../Page/I_AM._-_SM家族青春傳記電影.md" title="wikilink">I AM. - SM家族青春傳記電影</a>》</p></td>
 <td><p>Dear My Family</p></td>
-<td><p><a href="../Page/鹿晗.md" title="wikilink">Luhan</a>、<a href="https://zh.wikipedia.org/wiki/金鐘大" title="wikilink">Chen</a></p></td>
+<td><p><a href="../Page/鹿晗.md" title="wikilink">Luhan</a>、<a href="../Page/CHEN_(EXO).md" title="wikilink">Chen</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/SMTOWN" title="wikilink">SMTOWN</a></p></td>
 </tr>
 <tr class="odd">
@@ -189,7 +189,7 @@
 <td><p>2014年2月13日</p></td>
 <td><p><a href="../Page/S.M.THE_BALLAD.md" title="wikilink">S.M.THE BALLAD</a> Vol.2《Breath》</p></td>
 <td><p>Breath（中文版）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金鐘大" title="wikilink">Chen</a></p></td>
+<td><p><a href="../Page/CHEN_(EXO).md" title="wikilink">Chen</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/張力尹" title="wikilink">張力尹</a></p></td>
 <td></td>
 </tr>
@@ -239,7 +239,7 @@
 <td><p>2014年7月23日</p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/没关系，是爱情啊" title="wikilink">没关系，是爱情啊OST</a> Part.1》</p></td>
 <td><p>最棒的幸運</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金钟大" title="wikilink">Chen</a></p></td>
+<td><p><a href="../Page/CHEN_(EXO).md" title="wikilink">Chen</a></p></td>
 <td><p>－</p></td>
 </tr>
 </tbody>

@@ -16,7 +16,7 @@
 
 ### ICQB手槍
 
-[MEU-SOC-pistol-1.jpg](https://zh.wikipedia.org/wiki/File:MEU-SOC-pistol-1.jpg "fig:MEU-SOC-pistol-1.jpg") 後來，海軍陸戰隊特種作戰司令部第1特遣隊發現了[洛杉磯警察局](https://zh.wikipedia.org/wiki/洛杉磯警察局 "wikilink")（，簡稱：LAPD）向（）所特別訂制的[M1911手槍](../Page/M1911手槍.md "wikilink")感到十分滿意。根據第1特遣隊所得到的資料指出，金伯製造的M1911手槍同樣配置了那些零部件，儘管金伯並即將推出全新的[TLE/RL II型號](https://zh.wikipedia.org/wiki/金柏特裝型半自動手槍 "wikilink")。\[15\]第1特遣隊就向金柏少量訂制了以TLE/RL II系列作改良的版本，金柏亦在短時間內生產了小量特制的M1911A1交貨，這種版本命名為“過渡期[近身距離作戰](../Page/近身距離作戰.md "wikilink")手槍”（，簡稱：ICQB）。其主要特徵是改用簡化了的復進零件及5英吋的[不鏽鋼](../Page/不鏽鋼.md "wikilink")[槍管](../Page/槍管.md "wikilink")等。但整體而言，ICQB的內部設計和[白朗寧的原來設計相比是沒有太大的差別](https://zh.wikipedia.org/wiki/約翰·白朗寧 "wikilink")。\[16\]
+[MEU-SOC-pistol-1.jpg](https://zh.wikipedia.org/wiki/File:MEU-SOC-pistol-1.jpg "fig:MEU-SOC-pistol-1.jpg") 後來，海軍陸戰隊特種作戰司令部第1特遣隊發現了[洛杉磯警察局](https://zh.wikipedia.org/wiki/洛杉磯警察局 "wikilink")（，簡稱：LAPD）向（）所特別訂制的[M1911手槍](../Page/M1911手槍.md "wikilink")感到十分滿意。根據第1特遣隊所得到的資料指出，金伯製造的M1911手槍同樣配置了那些零部件，儘管金伯並即將推出全新的[TLE/RL II型號](../Page/金柏特裝型半自動手槍.md "wikilink")。\[15\]第1特遣隊就向金柏少量訂制了以TLE/RL II系列作改良的版本，金柏亦在短時間內生產了小量特制的M1911A1交貨，這種版本命名為“過渡期[近身距離作戰](../Page/近身距離作戰.md "wikilink")手槍”（，簡稱：ICQB）。其主要特徵是改用簡化了的復進零件及5英吋的[不鏽鋼](../Page/不鏽鋼.md "wikilink")[槍管](../Page/槍管.md "wikilink")等。但整體而言，ICQB的內部設計和[白朗寧的原來設計相比是沒有太大的差別](https://zh.wikipedia.org/wiki/約翰·白朗寧 "wikilink")。\[16\]
 
 後來海軍陸戰隊特種作戰司令部第1特遣隊的金柏ICQB手槍又加裝了整體式軍用型手槍[戰術燈](../Page/戰術燈.md "wikilink")（，簡稱：IMPL）、道森（）的[螺絲](../Page/螺絲.md "wikilink")上鎖式精密輕型導軌、Gemtech TRL（英文全寫：）戰術槍索及其吊環（亦且同時掛上應急配備的通訊用電話線裝置）、經過改進的6004手槍[槍套](https://zh.wikipedia.org/wiki/槍套 "wikilink")、由[西蒙尼刀刃](https://zh.wikipedia.org/wiki/西蒙尼刀刃 "wikilink")（）及[行客刀](https://zh.wikipedia.org/wiki/行客刀 "wikilink")（）生產的西蒙尼G-10握把側板以取代原來的帕茨米亞（）[橡膠](../Page/橡膠.md "wikilink")握把及配威爾遜戰鬥產品公司的“47D”8發彈匣。\[17\]\[18\]而諾瓦克LoMount生產的[氚](../Page/氚.md "wikilink")光夜間用[機械瞄具](../Page/機械瞄具.md "wikilink")亦取代了原來的海軍陸戰隊員內部一向使用的機械瞄具。\[19\]\[20\]
 
@@ -62,7 +62,7 @@ MEU(SOC)手槍還安裝了一個由纖維材料製成的後座緩衝器，能夠
 
   - [M1911手槍](../Page/M1911手槍.md "wikilink")
   - [STI 5.0戰術型手槍](../Page/STI_5.0戰術型手槍.md "wikilink")
-  - [金柏特裝型半自動手槍](https://zh.wikipedia.org/wiki/金柏特裝型半自動手槍 "wikilink")
+  - [金柏特裝型半自動手槍](../Page/金柏特裝型半自動手槍.md "wikilink")
   - [柯爾特滑軌半自動手槍](../Page/柯爾特滑軌半自動手槍.md "wikilink")
   - [春田操作者手槍](https://zh.wikipedia.org/wiki/春田操作者手槍 "wikilink")
   - [卡爾近距離戰鬥手槍](https://zh.wikipedia.org/wiki/卡爾近距離戰鬥手槍 "wikilink")

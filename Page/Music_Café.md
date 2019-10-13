@@ -502,6 +502,7 @@
 | 437 | 9月7日   | 李靖筠、美琪、黃千庭　新人闖樂壇           | [李靖筠](../Page/李靖筠.md "wikilink")、[美琪](https://zh.wikipedia.org/wiki/美琪 "wikilink")、[黃千庭](../Page/黃千庭.md "wikilink")                                      |
 | 438 | 9月14日  | 王梓軒、歌莉雅　錫聲技巧               | [王梓軒](../Page/王梓軒.md "wikilink")、[歌莉雅](../Page/歌莉雅.md "wikilink")                                                                                        |
 | 439 | 9月21日  | 馮允謙、JW　把靚聲留給聽眾             | [馮允謙](../Page/馮允謙.md "wikilink")、[JW](../Page/王灝兒.md "wikilink")                                                                                         |
+| 440 | 9月28日  | 鍾達茵、林穎彤　由新人出發              | [鍾達茵](https://zh.wikipedia.org/wiki/鍾達茵 "wikilink")、[林穎彤](../Page/林穎彤.md "wikilink")                                                                     |
 
 ## 記事
 

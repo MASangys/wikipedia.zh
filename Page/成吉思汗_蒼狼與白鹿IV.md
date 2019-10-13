@@ -229,7 +229,7 @@
 
   - [崔茂萱](https://zh.wikipedia.org/wiki/崔茂宣 "wikilink")
 
-### [吐蕃](../Page/吐蕃.md "wikilink")
+### 西藏
 
   - [撒乞阿盤第](../Page/萨迦·班智达.md "wikilink")　　
   - [桑菊](https://zh.wikipedia.org/wiki/桑菊 "wikilink")
@@ -324,7 +324,7 @@
 
   - [智蘊](https://zh.wikipedia.org/wiki/智蘊 "wikilink")
 
-### 東中亞細亞
+### 土耳其斯坦
 
 **[西遼](https://zh.wikipedia.org/wiki/西遼 "wikilink")**
 
@@ -333,6 +333,8 @@
   - [的斤不札兒](https://zh.wikipedia.org/wiki/巴而术·阿而忒·的斤 "wikilink")
   - [耶律塔列](https://zh.wikipedia.org/wiki/耶律塔列 "wikilink")
   - [沙均](https://zh.wikipedia.org/wiki/沙均 "wikilink")
+
+### 中央亞細亞
 
 **[花剌子模](../Page/花剌子模.md "wikilink")**
 
@@ -399,7 +401,7 @@
   -
   -
   -
-### 西中亞細亞
+### 西亞細亞
 
 **[阿拔斯王朝](../Page/阿拔斯王朝.md "wikilink")**
 

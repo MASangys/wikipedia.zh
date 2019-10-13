@@ -16,12 +16,12 @@ FL Studio 可使用VST、VSTi等類插件之外掛程式(Plug-in)[VST instrument
 ### 版本
 
 FL Studio共有5个版本：
-Image-Line FL STUDIO Fruity Demo版
-Image-Line FL STUDIO Fruity Express版（在FL Studio 10后停止更新）
-Image-Line FL STUDIO Fruity Edition基礎版
-Image-Line FL STUDIO Producer 進階版
-Image-Line FL STUDIO Signature Bundle 旗艦版
-Image-Line FL Studio Mobile版：支持[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink"), [Android](../Page/Android.md "wikilink")和[Windows Phone平台](../Page/Windows_Phone.md "wikilink")。
+\* Image-Line FL STUDIO Fruity Demo版
+\* Image-Line FL STUDIO Fruity Express版（在FL Studio 10后停止更新）
+\* Image-Line FL STUDIO Fruity Edition基礎版
+\* Image-Line FL STUDIO Producer 進階版
+\* Image-Line FL STUDIO Signature Bundle 旗艦版
+\* Image-Line FL Studio Mobile版：支持[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink"), [Android](../Page/Android.md "wikilink")和[Windows Phone平台](../Page/Windows_Phone.md "wikilink")。
 
 ### 系統需求
 

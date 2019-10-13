@@ -479,23 +479,33 @@
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p>2019年9月 - 2019年</p></td>
+<td style="text-align: center;"><p>2019年9月16日 - 2019年11月5日</p></td>
 <td style="text-align: center;"><p><a href="../Page/花黨：朝鮮婚姻介紹所.md" title="wikilink">花黨：朝鮮婚姻介紹所</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/金旻載.md" title="wikilink">金旻載</a>、<a href="../Page/孔升妍.md" title="wikilink">孔升妍</a>、<a href="../Page/徐志焄.md" title="wikilink">徐志焄</a>、<a href="https://zh.wikipedia.org/wiki/朴志訓" title="wikilink">朴志訓</a>、<a href="https://zh.wikipedia.org/wiki/卞宇錫" title="wikilink">卞宇錫</a>、<a href="../Page/高媛熙.md" title="wikilink">高媛熙</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金佳藍" title="wikilink">金佳藍</a></p></td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金以朗" title="wikilink">金以朗</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p>2019年11月–2019年</p></td>
+<td style="text-align: center;"><p>2019年11月11日 - 2019年12月10日</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/輔佐官2" title="wikilink">輔佐官2</a><br />
 </p></td>
 <td style="text-align: center;"><p>10</p></td>
 <td style="text-align: center;"><p><a href="../Page/李政宰.md" title="wikilink">李政宰</a>、<a href="../Page/新慜娥.md" title="wikilink">新慜娥</a>、<a href="../Page/金桐俊.md" title="wikilink">金桐俊</a>、<a href="../Page/李伊利雅.md" title="wikilink">李伊利雅</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/郭正煥" title="wikilink">郭正煥</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李大日" title="wikilink">李大日</a></p></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>2019年12月11日 - 2020年</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/檢察官內戰" title="wikilink">檢察官內戰</a><br />
+</p></td>
+<td style="text-align: center;"><p>16</p></td>
+<td style="text-align: center;"><p><a href="../Page/李善均.md" title="wikilink">李善均</a>、<a href="../Page/鄭麗媛.md" title="wikilink">鄭麗媛</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/李太坤_(導演).md" title="wikilink">李太坤</a></p></td>
+<td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>

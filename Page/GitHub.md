@@ -50,7 +50,7 @@ GitHub Enterprise和GitHub的服务类似，不过它为大型企业的开发团
 
 ### Gist
 
-GitHub提供一个（Pastebin）风格的站点GitHub Gist。
+GitHub提供一个风格的站点GitHub Gist。
 
 Tom Preston-Werner于2008年开发了Gist功能。\[15\]Gist继承了的观念，此外还添加了版本控制、复刻、SSL加密等功能。因为代码片段也是Git仓库，所以单个代码片段可以容纳多个文件，并且可以通过Git进行操作。因此Gist更像一个小型项目。
 

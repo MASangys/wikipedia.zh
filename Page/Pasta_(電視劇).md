@@ -211,8 +211,9 @@
   - [韓國MBC官方網站](http://www.imbc.com/broad/tv/drama/pasta/)
   - [臺灣東森官方網站](http://tvshow.ebc.net.tw/U22010001/)
   - [香港無綫官方網站](http://programme.tvb.com/drama/pasta/)
+  - [LOVES Mansion樂符公館 - 意麵情迷 非官網](https://loves-mansion.weebly.com/24847406292477336855-3044637636.html)
 
-[Category:2010年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2010年韓國電視劇集 "wikilink") [Category:MBC月火連續劇](https://zh.wikipedia.org/wiki/Category:MBC月火連續劇 "wikilink") [Category:韓國愛情劇](https://zh.wikipedia.org/wiki/Category:韓國愛情劇 "wikilink") [Category:料理電視劇](https://zh.wikipedia.org/wiki/Category:料理電視劇 "wikilink") [Category:餐館背景電視劇](https://zh.wikipedia.org/wiki/Category:餐館背景電視劇 "wikilink") [Category:職場戀情連續劇](https://zh.wikipedia.org/wiki/Category:職場戀情連續劇 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink") [Category:廚師主角題材電視劇](https://zh.wikipedia.org/wiki/Category:廚師主角題材電視劇 "wikilink")
+[Category:2010年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2010年韓國電視劇集 "wikilink") [Category:MBC月火連續劇](https://zh.wikipedia.org/wiki/Category:MBC月火連續劇 "wikilink") [Category:韓國愛情劇](https://zh.wikipedia.org/wiki/Category:韓國愛情劇 "wikilink") [Category:飲食題材電視劇](https://zh.wikipedia.org/wiki/Category:飲食題材電視劇 "wikilink") [Category:餐館背景電視劇](https://zh.wikipedia.org/wiki/Category:餐館背景電視劇 "wikilink") [Category:職場戀情連續劇](https://zh.wikipedia.org/wiki/Category:職場戀情連續劇 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink") [Category:廚師主角題材電視劇](https://zh.wikipedia.org/wiki/Category:廚師主角題材電視劇 "wikilink")
 
 1.  [TNmS 멀티미디어 홈페이지](http://www.tnms.tv/rating/default.asp)
 2.  [AGB닐슨 미디어리서치 홈페이지](http://www.agbnielsen.co.kr/index.asp?ref=0)

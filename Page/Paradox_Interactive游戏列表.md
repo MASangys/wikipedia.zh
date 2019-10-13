@@ -9,7 +9,7 @@
 <th><p>中文名稱</p></th>
 <th><p>開發公司</p></th>
 <th><p>發行公司</p></th>
-<th><p>類型</p></th>
+<th><p><a href="http://makeland.link">類型</a></p></th>
 <th><p>引擎</p></th>
 <th><p>發行時間</p></th>
 <th><p>備註</p></th>
@@ -955,6 +955,8 @@
 
   - [Paradox Interactive](http://www.paradoxplaza.com)
   - [Paradox Interactive论坛](http://forum.paradoxplaza.com/forum/)
+
+<a href="https://ocn1588.com"> 카지노천국-카지노사이트</a>카지노천국-카지노사이트 <a href="http://makeland.link/ "> 슬롯사이트-크레이지슬롯 </a> <a href="https://bet365kor1.com/1xbet/ "> 1XBET토토사이트</a> <a href="https://daora5.com/higaming/ ">하이게이밍</a> <a href="https://powerball888.com/powerball/ "> 파워볼사이트</a> <a href="https://daora3.com"> 카지노사이트 </a>
 
 [Category:各公司电子游戏列表](https://zh.wikipedia.org/wiki/Category:各公司电子游戏列表 "wikilink")
 

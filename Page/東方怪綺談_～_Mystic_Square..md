@@ -207,7 +207,7 @@
   - [上海アリス幻樂団](http://www16.big.or.jp/~zun/)
   - [Amusement Makers（旧）公式サイト](https://www.webcitation.org/654TL2n6o?url=http://www.kt.rim.or.jp/~aotaka/am/index.htm)
 
-[Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink") [Category:1998年电子游戏](https://zh.wikipedia.org/wiki/Category:1998年电子游戏 "wikilink") [Category:女主人公電子遊戲](https://zh.wikipedia.org/wiki/Category:女主人公電子遊戲 "wikilink") [Category:捲軸射擊遊戲](https://zh.wikipedia.org/wiki/Category:捲軸射擊遊戲 "wikilink")
+[Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink") [Category:1998年电子游戏](https://zh.wikipedia.org/wiki/Category:1998年电子游戏 "wikilink") [Category:女主人公電子遊戲](https://zh.wikipedia.org/wiki/Category:女主人公電子遊戲 "wikilink") [Category:捲軸射擊遊戲](https://zh.wikipedia.org/wiki/Category:捲軸射擊遊戲 "wikilink") [Category:PC-9801游戏](https://zh.wikipedia.org/wiki/Category:PC-9801游戏 "wikilink")
 
 1.  『怪綺談』のExtraエンディングでは、『靈異伝』から『怪綺談』までの5作品に登場するオールキャストの名前と二つ名が英字で表記されている。ただし『靈異伝』からは靈夢のみ。『封魔録』以降でも、玄爺と名無しのボスキャラクターは表記されていない。
 

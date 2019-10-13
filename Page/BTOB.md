@@ -202,7 +202,7 @@
 
 2019年7月31日，Peniel發行第二張個人數位單曲《FLY23》，由KAIROS作曲製作、Peniel參與填詞。\[158\]\[159\] 同年8月27日，Peniel發表第三張個人數位單曲《Flip》，由饒舌歌手參與Featuring，該曲由KAIROS作曲填詞製作、Peniel與Beenzino參與Rap填詞。\[160\]\[161\]
 
-2019年10月，炫植正式發行首張個人韓語迷你專輯，並參與主打曲的作曲填詞，是第四位於韓國個人出道的成員。\[162\]
+2019年10月14日，炫植正式發行首張個人韓語迷你專輯《RENDEZ-VOUS》，並參與主打曲的作曲填詞，是第四位於韓國個人出道的成員。\[162\]
 
 ### 2020年
 
@@ -280,7 +280,7 @@ BTOB 出道至今參與許多綜藝，在節目中展現搞笑本能及過人獨
 
 藝能方面，參與MBC《[偶像明星運動會](https://zh.wikipedia.org/wiki/MBC偶像明星運動會 "wikilink")》，其中成員旼赫展現了出眾的運動能力，並多次刷新大會紀錄；恩光與昌燮出演MBC春節、中秋特輯《全國偶像歌唱大賽》，兩人組成「金斧頭與銀斧頭」演唱抒情曲，以美聲及充滿反轉的舞臺引發話題；成員接連出演SBS《[叢林的法則](../Page/叢林的法則.md "wikilink")》，為最多成員出演該節目的偶像團體。
 
-除了歌唱和藝能外，成員們也有參與許多戲劇演出，出道前以團體出演的[JTBC](../Page/JTBC.md "wikilink")《[住在清潭洞](../Page/住在清潭洞.md "wikilink")》、成員星材主演的KBS《[Who Are You－學校2015](../Page/Who_Are_You－學校2015.md "wikilink")》、[tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")《[孤單又燦爛的神－鬼怪](../Page/孤單又燦爛的神－鬼怪.md "wikilink")》等。主持方面亦有涉略，如擔任《[THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")》、SBS《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》等音樂節目固定主持；恩光擔任[MBC RADIO廣播電台節目](https://zh.wikipedia.org/wiki/MBC "wikilink")《[IDOL RADIO](../Page/IDOL_RADIO.md "wikilink")》的試播DJ，是首位主持廣播節目的成員，其後恩光入伍後由鎰勳接替該節目成為正規DJ。
+除了歌唱和藝能外，成員們也有參與許多戲劇演出，出道前以團體出演的[JTBC](../Page/JTBC.md "wikilink")《[住在清潭洞](../Page/住在清潭洞.md "wikilink")》、成員星材主演的KBS《[Who Are You－學校2015](../Page/Who_Are_You－學校2015.md "wikilink")》、[tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")《[孤單又燦爛的神－鬼怪](../Page/孤單又燦爛的神－鬼怪.md "wikilink")》等。主持方面亦有涉略，如擔任《[THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")》、SBS《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》等音樂節目固定主持；恩光、鎰勳前後擔任[MBC RADIO廣播電台節目](https://zh.wikipedia.org/wiki/MBC "wikilink")《[IDOL RADIO](../Page/IDOL_RADIO.md "wikilink")》的DJ。
 
 ## 演唱會
 
@@ -498,7 +498,7 @@ BTOB 出道至今參與許多綜藝，在節目中展現搞笑本能及過人獨
 3.  [BTOB的真實閒聊吃放Party（隊長入伍前的最後團體放送）](https://www.vlive.tv/video/84371) V LIVE
 4.  [與Melody的春天的記憶 一起到70年吧](https://www.vlive.tv/video/119230) V LIVE
 5.  [忙內的逆襲！陸星材終於如願成為BTOB隊長：「恩光哥回來前，我會負起責任，好好帶領BTOB！」](https://www.koreastardaily.com/tc/news/115194) 2019-03-29 韓星網
-6.  [BTOB 宣佈官方粉絲名](http://kpopn.niusnews.com/=K2suu668) KPOPN
+6.  [BTOB 宣佈官方粉絲名](http://kpopn.niusnews.com/=K2suu668)  KPOPN
 7.  [BTOB "比起一位，我們想走得更長久" 訪問 ①](http://www.newsen.com/news_view.php?uid=201806290106220410) 2018-07-05 Newsen
 8.  ['出道7年' BTOB "成為CUBE的支柱，雖然不自然，但感受到了責任" 訪問 ②](http://www.newsen.com/news_view.php?uid=201806290117040410) 2018-07-05 Newsen
 9.  [BTOB 微醺演唱《Missing You》，搞笑之餘依舊展現超強唱功](https://www.kpopn.com/2017/10/25/btob-%e5%be%ae%e9%86%ba%e6%bc%94%e5%94%b1%e3%80%8amissing-you%e3%80%8b%ef%bc%8c%e6%90%9e%e7%ac%91%e4%b9%8b%e9%a4%98%e4%be%9d%e8%88%8a%e5%b1%95%e7%8f%be%e8%b6%85%e5%bc%b7%e5%94%b1%e5%8a%9f/) 2017-11-01 KPOPN

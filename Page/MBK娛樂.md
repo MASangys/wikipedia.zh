@@ -60,7 +60,7 @@
   - 2016年4月1日，《PRODUCE 101》公布新女團[I.O.I](../Page/I.O.I.md "wikilink")的成員名單，彩娟獲得第7名，進入最終11人名單，將以YMC娛樂旗下藝人的身份進行為期一年的活動。而Cathy表示會保持練習生身分，尚未決定是否回到DIA。
   - 2016年4月12日，MBK娛樂表示[DIA成員承希的專屬合約將於](https://zh.wikipedia.org/wiki/DIA "wikilink")30日到期，是否續約仍未決定。
   - 2016年4月21日，DIA在直播應用程式V LIVE上開通專屬頻道，頻道封面以不包含成員承希，DIA改為五人體制進行活動。
-  - 2016年5月11日，MBK娛樂宣布喜賢和彩娟歸隊，DIA回復七人體制進行活動。\[2\]
+  - 2016年5月11日，MBK娛樂宣布熙賢和彩娟歸隊，DIA回復七人體制進行活動。\[2\]
 
 ### 2017
 
@@ -137,7 +137,7 @@ DIARED</p></td>
 </tr>
 <tr class="odd">
 <td><p>2019年4月13日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/1THE9" title="wikilink">1THE9</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1THE9" title="wikilink">1THE9</a>[4]</p></td>
 <td><p>男</p></td>
 <td><p>劉勇河、金兌祐、李昇奐、 申藝燦、金俊抒、全暏炎、丁真成、鄭澤玄、朴成原</p></td>
 <td><p>劉勇河</p></td>
@@ -145,11 +145,20 @@ DIARED</p></td>
 <td><p>－</p></td>
 </tr>
 <tr class="even">
+<td><p>2019年8月6日</p></td>
+<td><p>Venus[5]</p></td>
+<td><p>女</p></td>
+<td><p>、[6]、</p></td>
+<td><p>－</p></td>
+<td><p>－</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>未知</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBK_BOYS" title="wikilink">MBK BOYS</a></p></td>
+<td><p>男</p></td>
 <td><p>基重、俊玗、在億、<a href="../Page/李翰潔.md" title="wikilink">翰潔</a>、<a href="../Page/南道賢.md" title="wikilink">道賢</a>、永尚</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -163,6 +172,39 @@ DIARED</p></td>
 | 2016年12月29日 | [彬彩賢斯順](https://zh.wikipedia.org/wiki/彬彩賢斯順 "wikilink")（BCHCS） | [DIA](https://zh.wikipedia.org/wiki/DIA "wikilink") | 女  | [Eunice](https://zh.wikipedia.org/wiki/許秀娟 "wikilink")、[熙賢](../Page/奇熙賢.md "wikilink")、[豫彬](../Page/白豫彬.md "wikilink")、[彩娟](../Page/彩娟.md "wikilink")、順伊 |
 | 2016年12月31日 | [L.U.B](https://zh.wikipedia.org/wiki/L.U.B "wikilink")        | [DIA](https://zh.wikipedia.org/wiki/DIA "wikilink") | 女  | 主恩、[恩彩](../Page/恩彩.md "wikilink")                                                                                                                        |
 
+### 演員/藝人
+
+<table style="width:85%;">
+<colgroup>
+<col style="width: 12%" />
+<col style="width: 24%" />
+<col style="width: 24%" />
+<col style="width: 24%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>出道 / 加入日期</p></th>
+<th><p>名稱</p></th>
+<th><p>性別</p></th>
+<th><p>備註</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2012年</p></td>
+<td></td>
+<td><p>女</p></td>
+<td><p>《Miss Trot》優勝者出身</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ### 限定/企劃組合
 
 | 出道日期       | 名稱                                                   | 性別                                                                                                                                                        | 所屬組合                                                                                                                                                                                                | 成員                                    | 歌曲         |
@@ -170,36 +212,6 @@ DIARED</p></td>
 | 2013年6月10日 | —                                                    | 混合                                                                                                                                                        | [T-ara](https://zh.wikipedia.org/wiki/T-ara "wikilink")、[The SeeYa](../Page/The_SeeYa.md "wikilink")、[SPEED](../Page/SPEED_\(韓國音樂團體\).md "wikilink")、[F-VE DOLLS](../Page/F-VE_DOLLS.md "wikilink") | [昭妍](../Page/朴昭妍.md "wikilink")、幼真、、、 | Painkiller |
 | 2014年1月29日 | [SPEED](../Page/SPEED_\(韓國音樂團體\).md "wikilink")、SOLO | [鍾國](https://zh.wikipedia.org/wiki/鍾國 "wikilink")、[Shannon](../Page/Shannon_\(韓國歌手\).md "wikilink")                                                       | Remember You                                                                                                                                                                                        |                                       |            |
 | 2015年2月10日 | TS                                                   | [T-ara](https://zh.wikipedia.org/wiki/T-ara "wikilink")、[The SeeYa](../Page/The_SeeYa.md "wikilink")、[SPEED](../Page/SPEED_\(韓國音樂團體\).md "wikilink")、SOLO | [昭妍](../Page/朴昭妍.md "wikilink")、[𤨒晶](../Page/咸𤨒晶.md "wikilink")、玟京、[鍾國](https://zh.wikipedia.org/wiki/鍾國 "wikilink")、、KI-O、[承希](../Page/曺承希.md "wikilink")                                          | Don't Forget Me                       |            |
-
-### 演員/藝人
-
-| 出道 / 加入日期 | 名稱                                    | 性別 | 備註                                                 |
-| --------- | ------------------------------------- | -- | -------------------------------------------------- |
-| 2013年     | 金裕桓\[4\]                              | 男  | 前[SPEED成員](../Page/SPEED_\(韓國音樂團體\).md "wikilink") |
-| 朴尚元\[5\]  | 前[IM66](../Page/IM66.md "wikilink")成員 |    |                                                    |
-
-### 練習生
-
-<table>
-<thead>
-<tr class="header">
-<th><p>藝名</p></th>
-<th><p>本名</p></th>
-<th><p>曾所屬組合</p></th>
-<th><p>性別</p></th>
-<th><p>備註</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Raphael</p></td>
-<td><p>Raphael Jolly</p></td>
-<td></td>
-<td><p>男</p></td>
-<td></td>
-</tr>
-</tbody>
-</table>
 
 ## 已離開藝人(含CCM時期)
 
@@ -270,19 +282,19 @@ DIARED</p></td>
 <td><p>2015年</p></td>
 </tr>
 <tr class="even">
-<td><p>金敏蔡[6]</p></td>
+<td><p>金敏蔡[7]</p></td>
 <td><p>女</p></td>
 <td><p>2017年</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>尹蘇柆[7]</p></td>
+<td><p>尹蘇柆[8]</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>金敏形[8]</p></td>
+<td><p>金敏形[9]</p></td>
 <td><p>男</p></td>
 <td></td>
 <td></td>
@@ -422,7 +434,7 @@ DIARED</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/金佳花" title="wikilink">金佳花</a>[9]、全載賢[10]（Esther）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金佳花" title="wikilink">金佳花</a>[10]、全載賢[11]（Esther）</p></td>
 <td><p>2017年</p></td>
 <td></td>
 <td></td>
@@ -482,6 +494,20 @@ DIARED</p></td>
 <tr class="odd">
 <td></td>
 <td><p>2018年</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>金裕桓[12]</p></td>
+<td><p>2019年</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/IM66.md" title="wikilink">IM66</a></p></td>
+<td><p>朴尚元[13]（尚禹）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -762,6 +788,27 @@ WOODZ</p></td>
 <td><p><a href="../Page/UNIQ.md" title="wikilink">UNIQ</a><br />
 <a href="../Page/X1_(組合).md" title="wikilink">X1</a></p></td>
 </tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/金泰旼" title="wikilink">金泰旼</a></p></td>
+<td><p>演員</p></td>
+<td><p>Hanahreum Company</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>上淵</p></td>
+<td><p>李上淵</p></td>
+<td><p>歌手</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Cre.Ker娛樂" title="wikilink">Cre.Ker娛樂</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/THE_BOYZ" title="wikilink">THE BOYZ</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>許燦</p></td>
+<td><p><a href="../Page/Plan_A娛樂.md" title="wikilink">PlayM娛樂</a></p></td>
+<td><p><a href="../Page/VICTON.md" title="wikilink">VICTON</a></p></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -786,10 +833,13 @@ WOODZ</p></td>
 1.
 2.  [采妍、Cathy重返DIA，預計六月回歸](http://kpopn.niusnews.com/=K2puupj8)
 3.
-4.  [KIM YU HWAN](http://www.mbk-ent.com/main_kyh)
-5.  [PARK SANG WON](http://www.mbk-ent.com/main_psw)
-6.  [KIM MIN CHAE](http://www.mbk-ent.com/main_kmc)
-7.  [YOON SO RA](http://www.mbk-ent.com/main_ysr)
-8.  [KIM MIN HYUNG](http://www.mbk-ent.com/main_kmh)
-9.  [KIM GA HWA](http://www.mbk-ent.com/main_kgh)
-10. [JUN JAE HYUN](http://www.mbk-ent.com/main_jjh)
+4.  為與Interpark之合作公司PocketDol Studio旗下藝人
+5.  為與Interpark之合作公司PocketDol Studio旗下藝人
+6.  亦為[GBB成員](https://zh.wikipedia.org/wiki/GBB "wikilink")
+7.  [KIM MIN CHAE](http://www.mbk-ent.com/main_kmc)
+8.  [YOON SO RA](http://www.mbk-ent.com/main_ysr)
+9.  [KIM MIN HYUNG](http://www.mbk-ent.com/main_kmh)
+10. [KIM GA HWA](http://www.mbk-ent.com/main_kgh)
+11. [JUN JAE HYUN](http://www.mbk-ent.com/main_jjh)
+12. [KIM YU HWAN](http://www.mbk-ent.com/main_kyh)
+13. [PARK SANG WON](http://www.mbk-ent.com/main_psw)

@@ -10,6 +10,17 @@
 
 RPG Maker 2000的遊戲以320x240作為顯示解析度，16x16的地圖元件單位，以及24x32的角色單位。其預設的藍色訊息框及選單系統為RPG Maker 2003遊戲的特徵，亦可以修改。有些人將其低解析度視為畫面的限制，但也有其好處，因為低解析度使其可運行在更舊的電腦上。
 
+## 資訊
+
+最低配備:
+
+`      *作業系統: Microsoft® Windows® XP/Vista/7/8`
+`      *處理器: Intel® Pentium®4 1.5GHz`
+`      *記憶體: 256 MB 記憶體`
+`      *顯示卡: 1024x768 or better video resolution in High Color mode`
+`      *儲存空間: 100 MB 可用空間`
+`      *音效卡: DirectSound-compatible sound card`
+
 ### 戰鬥
 
 RPG Maker 2003使用橫向戰鬥，即敵方角色在畫面左方，我方角色在畫面右方。並採用即時制或半即時制作戰。

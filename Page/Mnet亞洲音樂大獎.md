@@ -296,6 +296,26 @@
 <td></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>11<sub>（21）</sub></p></td>
+<td><p>2019年</p></td>
+<td><p>12月4日（星期三）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/名古屋" title="wikilink">名古屋</a></p></td>
+<td><p><a href="../Page/名古屋巨蛋.md" title="wikilink">名古屋巨蛋</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -2174,7 +2194,7 @@ Vit Suthithavi<small>（泰國）</small></p></td>
 <a href="https://zh.wikipedia.org/wiki/Ailee" title="wikilink">Ailee</a><br />
 <a href="https://zh.wikipedia.org/wiki/IU_(歌手)" title="wikilink">IU</a><br />
 <a href="https://zh.wikipedia.org/wiki/MONSTA_X" title="wikilink">MONSTA X</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/少女時代" title="wikilink">少女時代</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/少女時代" title="wikilink">少女時代</a><a href="../Page/GOT7.md" title="wikilink">GOT7</a><br />
 <a href="../Page/SS501.md" title="wikilink">SS501</a><br />
 <a href="https://zh.wikipedia.org/wiki/Sistar" title="wikilink">Sistar</a><br />
 <a href="../Page/INFINITE.md" title="wikilink">INFINITE</a><br />

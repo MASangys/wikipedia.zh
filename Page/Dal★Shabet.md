@@ -69,16 +69,6 @@ Dal★Shabet所屬公司Happy Face Entertainment在3月26日宣佈確定於4月1
 <td><p>藝名</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/秀彬.md" title="wikilink">秀彬</a><br />
-Subin<br />
-수빈</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/優熙.md" title="wikilink">優熙</a><br />
-Woohee<br />
-우희</p></td>
-</tr>
-<tr class="even">
 <td><p><strong><a href="../Page/世理.md" title="wikilink">世理</a><br />
 Serri<br />
 세리</strong></p></td>
@@ -87,6 +77,16 @@ Serri<br />
 <td><p><a href="../Page/雅英.md" title="wikilink">雅英</a><br />
 Ayoung<br />
 아영</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/優熙.md" title="wikilink">優熙</a><br />
+Woohee<br />
+우희</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/秀彬.md" title="wikilink">秀彬</a><br />
+Subin<br />
+수빈</p></td>
 </tr>
 <tr class="even">
 <td><p>已離開成員</p></td>

@@ -14,7 +14,7 @@ HK P30的設計概念就是一把理想的執法機關用手槍，而且多個�
 
 2010年4月，德國[黑森](../Page/黑森.md "wikilink")（）國家警察訂購大約16,000把P30 V2。同時黑森的州級監獄的獄警亦將裝備這種手槍型號。\[4\]
 
-P30 NL（H3）型號目前正在考慮給[荷蘭警察服役](https://zh.wikipedia.org/wiki/荷蘭警察 "wikilink")。這把手槍完成第二個在歐洲的招標，擊敗在2011年11月以後被駁回的[SIG P250](../Page/SIG_P250手槍.md "wikilink")，和之前的[-{zh:瓦爾特; zh-hans:瓦尔特; zh-hant:華瑟;}-P99 Q NL](../Page/瓦爾特P99手槍.md "wikilink")（H3）和[貝瑞塔Px4 Storm](../Page/貝瑞塔Px4_Storm手槍.md "wikilink")。當荷蘭警察部長[伊沃·奧沙弗斯](https://zh.wikipedia.org/wiki/伊沃·奧沙弗斯 "wikilink")（）得出的結論是SIG Sauer在[大量生產的環境以下根本無法實現所要求的品質](https://zh.wikipedia.org/wiki/生產線 "wikilink")，他決定選擇了P30 NL（H3）。\[5\]\[6\]\[7\]然而，瓦爾特和貝瑞塔向法院提出上訴，堅持應該開始一個新的招標程序。2012年1月24日，法院決定應該組織一個新的招標程序。奧沙弗斯選擇啟動一個快速和嚴格的新招標程序，如果中標者應予以拒絕，可以選擇其他產品。這將會導致[荷蘭公共安全與司法部](../Page/荷蘭公共安全與司法部.md "wikilink")延遲引進一把新型警用手槍一至一年半。\[8\]\[9\]\[10\]在2012年10月，瓦爾特P99 Q NL（H3）變得明顯地會在2013年至2014年取代[瓦爾特P5和](../Page/瓦爾特P5手槍.md "wikilink")[格洛克17](../Page/格洛克17.md "wikilink")這兩把手槍。\[11\]\[12\]
+P30 NL（H3）型號目前正在考慮給[荷蘭警察服役](https://zh.wikipedia.org/wiki/荷蘭警察 "wikilink")。這把手槍完成第二個在歐洲的招標，擊敗在2011年11月以後被駁回的[SIG P250](../Page/SIG_P250手槍.md "wikilink")，和之前的[-{zh:瓦爾特; zh-hans:瓦尔特; zh-hant:華瑟;}-P99 Q NL](../Page/瓦爾特P99手槍.md "wikilink")（H3）和[貝瑞塔Px4 Storm](https://zh.wikipedia.org/wiki/貝瑞塔Px4_Storm半自動手槍 "wikilink")。當荷蘭警察部長[伊沃·奧沙弗斯](https://zh.wikipedia.org/wiki/伊沃·奧沙弗斯 "wikilink")（）得出的結論是SIG Sauer在[大量生產的環境以下根本無法實現所要求的品質](https://zh.wikipedia.org/wiki/生產線 "wikilink")，他決定選擇了P30 NL（H3）。\[5\]\[6\]\[7\]然而，瓦爾特和貝瑞塔向法院提出上訴，堅持應該開始一個新的招標程序。2012年1月24日，法院決定應該組織一個新的招標程序。奧沙弗斯選擇啟動一個快速和嚴格的新招標程序，如果中標者應予以拒絕，可以選擇其他產品。這將會導致[荷蘭公共安全與司法部](../Page/荷蘭公共安全與司法部.md "wikilink")延遲引進一把新型警用手槍一至一年半。\[8\]\[9\]\[10\]在2012年10月，瓦爾特P99 Q NL（H3）變得明顯地會在2013年至2014年取代[瓦爾特P5和](../Page/瓦爾特P5手槍.md "wikilink")[格洛克17](../Page/格洛克17.md "wikilink")這兩把手槍。\[11\]\[12\]
 
 ## 設計細節
 
@@ -22,7 +22,7 @@ P30 NL（H3）型號目前正在考慮給[荷蘭警察服役](https://zh.wikiped
 
 技術上，P30類似於P2000，而差異就在其外觀和人體工程學上的改進。
 
-P30亦是一把使用射擊的手槍；亦有一種可選的縮短型擊錘。它裝有非常靈巧的[套筒鎖](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")（[空槍掛機桿](https://zh.wikipedia.org/wiki/空槍掛機 "wikilink")）和[彈匣卡筍安裝在扳機護圈附近的兩側](https://zh.wikipedia.org/wiki/彈匣卡筍 "wikilink")，兩手皆可讓[拇指舒服地操作](https://zh.wikipedia.org/wiki/拇指 "wikilink")，進而快速識別彈盡和更換彈匣。各個衍生型的[扳機和扳機系統提供了轉換扳機射擊模式可能性](https://zh.wikipedia.org/wiki/扳機 "wikilink")，即是由第一種操作模式轉換到另一種操作模式。有幾種的衍生型是可以使用“執法機關修改型”（，簡稱：LEM trigger，又稱為“戰鬥防衛型”，，簡稱：CDA）的扳機結構（黑克勒-科赫研製的純雙動操作型號），其設計足以抗衡使用單／雙動操作的扳機結構。
+P30亦是一把使用射擊的手槍；亦有一種可選的縮短型擊錘。它裝有非常靈巧的[套筒鎖](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")（[空槍掛機桿](https://zh.wikipedia.org/wiki/空槍掛機 "wikilink")）和[彈匣卡筍安裝在](https://zh.wikipedia.org/wiki/彈匣卡筍 "wikilink")[扳機護環附近的兩側](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")，兩手皆可讓[拇指舒服地操作](https://zh.wikipedia.org/wiki/拇指 "wikilink")，進而快速識別彈盡和更換彈匣。各個衍生型的[扳機和扳機系統提供了轉換扳機射擊模式可能性](https://zh.wikipedia.org/wiki/扳機 "wikilink")，即是由第一種操作模式轉換到另一種操作模式。有幾種的衍生型是可以使用“執法機關修改型”（，簡稱：LEM trigger，又稱為“戰鬥防衛型”，，簡稱：CDA）的扳機結構（黑克勒-科赫研製的純雙動操作型號），其設計足以抗衡使用單／雙動操作的扳機結構。
 
 所有的P30手槍都具有自動擊錘保險和擊針保險。某些扳機配置也提供了[待擊解脫桿](https://zh.wikipedia.org/wiki/待擊解脫桿 "wikilink")。
 
@@ -34,7 +34,7 @@ P30亦是一把使用射擊的手槍；亦有一種可選的縮短型擊錘。�
 
 P30的[機械瞄具](../Page/機械瞄具.md "wikilink")包括後方的方形缺口式[照門及前方的片狀](https://zh.wikipedia.org/wiki/照門 "wikilink")[準星](../Page/照準器.md "wikilink")。三點式準星上已經塗上了非[放射性](../Page/放射性.md "wikilink")[光致发光的](https://zh.wikipedia.org/wiki/光致发光 "wikilink")[超級夜光塗料](https://zh.wikipedia.org/wiki/超級夜光 "wikilink")，可以在照明條件不利以下透過[增強對比協助瞄準以及射擊](https://zh.wikipedia.org/wiki/機械瞄具#增強對比 "wikilink")。
 
-P30還在[套筒下](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")、[底把的](../Page/机匣.md "wikilink")[扳機護圈前方的](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")整合了一條[MIL-STD-1913式戰術燈安裝導軌](../Page/皮卡汀尼導軌.md "wikilink")，以安裝各種[戰術燈](../Page/戰術燈.md "wikilink")、[雷射瞄準器和其他戰術配件](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")。安裝後是十分穩固的，而且無需使用任何工具輔助安裝。
+P30還在[套筒下](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")、[底把的](../Page/机匣.md "wikilink")[扳機護環前方的](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")整合了一條[MIL-STD-1913式戰術燈安裝導軌](../Page/皮卡汀尼導軌.md "wikilink")，以安裝各種[戰術燈](../Page/戰術燈.md "wikilink")、[雷射瞄準器和其他戰術配件](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")。安裝後是十分穩固的，而且無需使用任何工具輔助安裝。
 
 P30的[彈匣](../Page/彈匣.md "wikilink")在沒有上子彈時的重量為93克（3.28盎司，0.21磅）。
 

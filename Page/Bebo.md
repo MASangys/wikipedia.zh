@@ -12,7 +12,7 @@ Bebo是“Blog Early, Blog Often”的縮寫\[1\]，用戶可以在個人資料�
 
 ## 外部連結
 
-  - [Bebo官方網站](http://www.bebo.com)
+  - [Bebo官方網站](https://web.archive.org/web/20080509191241/http://www.bebo.com/)
 
 [Category:社交網路服務](https://zh.wikipedia.org/wiki/Category:社交網路服務 "wikilink") [Category:總部位於舊金山的公司](https://zh.wikipedia.org/wiki/Category:總部位於舊金山的公司 "wikilink") [Category:2005年建立的網站](https://zh.wikipedia.org/wiki/Category:2005年建立的網站 "wikilink")
 

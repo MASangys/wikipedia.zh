@@ -44,7 +44,7 @@ iPhone Dev Team发布了一系列的越狱工具。2008年7月，PwnageTool提�
 
 ## 安全
 
-2009年11月，21岁的澳大利亚学生编寫第一个iPhone蠕虫iKee。在其接受媒体採訪時表示，他之所以编写出iOS蠕虫病毒，是為提升人们对安全问题的重视。同時，也表示越狱后iOS裝置可使用[SSH協議進行通訊](https://zh.wikipedia.org/wiki/SSH "wikilink")\[27\] \[28\]\[29\]。
+2009年11月，21岁的澳大利亚学生编寫第一个iPhone蠕虫iKee。在其接受媒体採訪時表示，他之所以编写出iOS蠕虫病毒，是為提升人们对安全问题的重视。同時，也表示越狱后iOS裝置可使用[SSH協議進行通訊](https://zh.wikipedia.org/wiki/SSH "wikilink")\[27\]\[28\]\[29\]。
 
 2011年7月15日，[苹果公司封锁了一个被](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[JailbreakMe](../Page/JailbreakMe.md "wikilink") 3.0利用的漏洞。德国联邦信息安全办公室称，已发现JailbreakMe 3.0可利用的[PDF显示方面的漏洞](https://zh.wikipedia.org/wiki/PDF "wikilink")，會使iOS用户的個人信息在不知不覺的情況下被盗取或是被控制下载恶意软體\[30\]。
 

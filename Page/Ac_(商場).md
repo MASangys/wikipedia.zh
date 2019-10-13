@@ -100,8 +100,6 @@
 
   - [堡獅龍](../Page/堡獅龍.md "wikilink")
 
-  - [商務印書館](../Page/商務印書館（香港）.md "wikilink")
-
   - [華潤堂](https://zh.wikipedia.org/wiki/華潤堂 "wikilink")
 
   - [紅蘿蔔寵物店](https://zh.wikipedia.org/wiki/紅蘿蔔寵物店 "wikilink")

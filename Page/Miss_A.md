@@ -14,7 +14,7 @@
 
 四人之中[Min最早進入](https://zh.wikipedia.org/wiki/李玟暎 "wikilink")[JYP娛樂](../Page/JYP娛樂.md "wikilink")當練習生，長達七年的練習生生涯練就的舞蹈實力，讓她無論是[鎖舞](../Page/鎖舞.md "wikilink")還是[機械舞](../Page/機械舞.md "wikilink")都能很好地表演出来；[Fei是](../Page/王霏霏.md "wikilink")2006年年末上學途中被JYP娛樂的工作人員挖掘；[Jia透過](../Page/孟佳.md "wikilink")2007年JYP娛樂的甄選會成功入選；[Suzy則是參加](https://zh.wikipedia.org/wiki/裴秀智 "wikilink")2009年[Mnet](../Page/Mnet.md "wikilink")在光州地區舉辦的《Super STAR K》選拔時，工作人員發掘。\[6\]
 
-JYP娛樂原本預計在2009年推出一個五人女子團體「Sisters」，由Sarah(申惠志)、Fei、黃以霏、Jia及[惠林組成](https://zh.wikipedia.org/wiki/禹惠林 "wikilink")\[7\]，到中國參與[浙江衛視](https://zh.wikipedia.org/wiki/浙江衛視 "wikilink")《越跳越美麗》等節目的錄製\[8\]，但是並未正式出道，2010年惠林因為頂替[Wonder Girls前成員](../Page/Wonder_Girls.md "wikilink")[善美的空缺而退出](https://zh.wikipedia.org/wiki/李善美 "wikilink")。2010年6月7日有新聞報導「miss A」將於7月份出道，成員有Fei、Jia和Suzy，尚未出道就成為[三星Anycall中國地區代言人](https://zh.wikipedia.org/wiki/三星集团 "wikilink")，同時還演唱廣告歌曲〈Love Again〉\[9\]。6月23日JYP娛樂正式宣佈7月初miss A會透過子公司AQ娛樂出道\[10\]，由四名成員組成，除了原來的成員之外還有一名成員Min\[11\]，同天於Tory Burch開幕儀式上首次以團體形式正式亮相\[12\]。實際上miss A在4月的時候就已經正式成立，開始為出道做準備。\[13\]
+JYP娛樂原本預計在2009年推出一個五人女子團體「Sisters」，由Sarah(申惠志)、Fei、黃以霏、Jia及[惠林組成](https://zh.wikipedia.org/wiki/禹惠林 "wikilink")\[7\]，到中國參與[浙江衛視](https://zh.wikipedia.org/wiki/浙江衛視 "wikilink")《越跳越美麗》等節目的錄製\[8\]，但是並未正式出道，2010年惠林因為頂替前[Wonder Girls成員](../Page/Wonder_Girls.md "wikilink")[善美的空缺而退出](https://zh.wikipedia.org/wiki/李善美 "wikilink")。2010年6月7日有新聞報導「miss A」將於7月份出道，成員有Fei、Jia和Suzy，尚未出道就成為[三星Anycall中國地區代言人](https://zh.wikipedia.org/wiki/三星集团 "wikilink")，同時還演唱廣告歌曲〈Love Again〉\[9\]。6月23日JYP娛樂正式宣佈7月初miss A會透過子公司AQ娛樂出道\[10\]，由四名成員組成，除了原來的成員之外還有一名成員Min\[11\]，同天於Tory Burch開幕儀式上首次以團體形式正式亮相\[12\]。實際上miss A在4月的時候就已經正式成立，開始為出道做準備。\[13\]
 
 ### 2010年：出道、《Bad But Good》與《Step Up》
 

@@ -2,7 +2,7 @@
 
 2013年11月16日改版的PSV-2000上市，2000型PSV除了的重量和厚度均減少之外，屏幕也由[OLED換為](https://zh.wikipedia.org/wiki/OLED "wikilink")[LCD](https://zh.wikipedia.org/wiki/LCD "wikilink")，並新增1GB儲存空間。\[4\]但插入記憶卡後，內置儲存空間便無法使用。
 
-2015年10月，索尼游戏业务高层伊藤雅康在采访中透露第一方工作室已经停止了制作PlayStation Vita游戏的计划。\[5\]2019年3月1日，索尼互动娱乐宣布在日本正式停产PlayStation Vita。\[6\]
+2015年10月，索尼游戏业务高层伊藤雅康在采访中透露第一方工作室已经停止了制作PlayStation Vita游戏的计划。\[5\]2019年3月1日，索尼互动娱乐宣布在日本正式停产PlayStation Vita。\[6\]可能是受到智慧型手機衝擊，現階段新力並無推出後繼機種。
 
 ## 簡介
 

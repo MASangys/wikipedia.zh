@@ -36,11 +36,6 @@ PCI-X經常與另一種名為PCI Express的滙流排架構相提並論甚至更�
 
   - [Good diagrams and text on how to recognize the difference between 5 volt and 3.3 volt slots.](https://web.archive.org/web/20050526141229/http://www94.web.cern.ch/HSI/s-link/devices/s32pci64/slottypes.html)
 
-## 參見
-
-  - [PCI](https://zh.wikipedia.org/wiki/PCI "wikilink")
-  - [PCI Express](../Page/PCI_Express.md "wikilink")
-
 [Category:计算机总线](https://zh.wikipedia.org/wiki/Category:计算机总线 "wikilink")
 
 1.

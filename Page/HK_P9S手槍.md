@@ -8,7 +8,7 @@
 
 ## 操作特徵
 
-這種武器的[彈匣](../Page/彈匣.md "wikilink")釋放按鈕的位置是在[扳機護圈的後部](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")。它以[單／雙動操作扳機射擊](https://zh.wikipedia.org/wiki/扳機 "wikilink")，而[待擊解脱桿的位置是在握把的左側](https://zh.wikipedia.org/wiki/待擊解脱桿 "wikilink")，在已經拉起時可手動解脫單動射擊時擊鎚首發的待擊狀態以扳起扳機。擊錘是隱藏在[套筒內部的](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")[擊針後部](../Page/撞針.md "wikilink")，以指示擊錘是否已經拉起。而[手動保險桿設於套筒的左後方](https://zh.wikipedia.org/wiki/手動保險 "wikilink")。
+這種武器的[彈匣](../Page/彈匣.md "wikilink")釋放按鈕的位置是在[扳機護環的後部](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")。它以[單／雙動操作扳機射擊](https://zh.wikipedia.org/wiki/扳機 "wikilink")，而[待擊解脱桿的位置是在握把的左側](https://zh.wikipedia.org/wiki/待擊解脱桿 "wikilink")，在已經拉起時可手動解脫單動射擊時擊鎚首發的待擊狀態以扳起扳機。擊錘是隱藏在[套筒內部的](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")[擊針後部](../Page/撞針.md "wikilink")，以指示擊錘是否已經拉起。而[手動保險桿設於套筒的左後方](https://zh.wikipedia.org/wiki/手動保險 "wikilink")。
 
 ## 使用國
 

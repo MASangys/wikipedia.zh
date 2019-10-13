@@ -440,10 +440,9 @@ PlotData =
   -
   -
   -
-  -
 [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:2011年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2011年成立的音樂團體 "wikilink") [Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink") [Category:2011年韓國建立](https://zh.wikipedia.org/wiki/Category:2011年韓國建立 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
 
 1.
 2.  [Donga運動網新聞](http://sports.donga.com/3//20110323/35803565/2)
 3.  [Brave Girls你知道嗎MV](http://kpopn.com/2011/04/08/59575/)
-4.  [裕真、蕙蘭離開 Brave Girls，改為五人組](http://kpopn.niusnews.com/=K0ht2gg1)
+4.

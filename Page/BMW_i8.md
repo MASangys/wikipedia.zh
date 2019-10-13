@@ -1,4 +1,4 @@
-**BMW i8**之初名為**未來效能動力車（BMW Concept Vision Efficient Dynamics）**，是由[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[BMW](../Page/BMW.md "wikilink")設計的油電混合[概念車](../Page/概念車.md "wikilink")，2009年9月於德國[法蘭克福車展](../Page/法蘭克福車展.md "wikilink")發表\[1\]。是一輛[可插電式油電混合車](https://zh.wikipedia.org/wiki/PHEV "wikilink")，內載231匹马力直列三缸[渦輪增壓](https://zh.wikipedia.org/wiki/渦輪增壓 "wikilink")[汽油引擎](../Page/汽油引擎.md "wikilink")\[2\]，外加131匹馬力[電動馬達](https://zh.wikipedia.org/wiki/電動馬達 "wikilink")，共可提供362匹馬力，0-100km/h加速只需約4.4秒，電子限制的每小時最高速度為。
+**BMW i8**之初名為**未來效能動力車（BMW Concept Vision Efficient Dynamics）**，是由[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[BMW](../Page/BMW.md "wikilink")設計的油電混合[概念車](../Page/概念車.md "wikilink")，2009年9月於德國[法蘭克福車展](../Page/法蘭克福車展.md "wikilink")發表\[1\]。是一輛[可插電式油電混合車](https://zh.wikipedia.org/wiki/PHEV "wikilink")，內載231匹马力直列三缸[渦輪增壓](https://zh.wikipedia.org/wiki/渦輪增壓 "wikilink")[汽油引擎](../Page/汽油引擎.md "wikilink")\[2\]，外加131匹馬力[電動馬達](https://zh.wikipedia.org/wiki/電動馬達 "wikilink")，共可提供362匹馬力，0-100km/h加速只需約2.2秒，電子限制的每小時最高速度為。
 
 ## 物料
 

@@ -2,7 +2,7 @@
 
 ## 歷史
 
-從21世纪初開始推出一系列新型警用武器產品——[貝瑞塔](../Page/貝瑞塔.md "wikilink")“風暴”系列，從2003年推出第一種“風暴”系列武器[貝瑞塔Cx4 Storm系列](../Page/貝瑞塔Cx4_Storm卡賓槍.md "wikilink")[手槍](../Page/半自動手槍.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[卡賓槍開始](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")，2004年推出了[貝瑞塔Px4 Storm四](../Page/貝瑞塔Px4_Storm手槍.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")，以及2006年推出的[貝瑞塔Rx4 Storm](../Page/貝瑞塔Rx4_Storm半自動步槍.md "wikilink") [5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[半自動步槍](https://zh.wikipedia.org/wiki/半自動步槍 "wikilink")。所有貝瑞塔“風暴”系列都極具意大利風格，包括新穎美觀的外形與可靠的製造技術。然而，貝瑞塔公司卻在[霰彈槍領域上一直存在欠缺](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")，這槍推出以前的貝瑞塔-{只}-能製造[雙管霰彈槍](../Page/雙管霰彈槍.md "wikilink")，但卻沒有一款完全可以供給警用市場的半自動霰彈槍產品。直到貝瑞塔公司自1983年成功收購了世界著名的霰彈槍生產企業[伯奈利](../Page/伯奈利.md "wikilink")公司之後發生了改變，憑藉新的技術來源，貝瑞塔公司才決定進軍霰彈槍市場。2010年，貝瑞塔公司向市場正式推出伯萊塔Tx4 Storm半自動霰彈槍，目前為美國貝瑞塔家庭保護[長管槍械之一](https://zh.wikipedia.org/wiki/長管槍械 "wikilink")（另一枝為貝瑞塔Cx4 Storm）。
+從21世纪初開始推出一系列新型警用武器產品——[貝瑞塔](../Page/貝瑞塔.md "wikilink")“風暴”系列，從2003年推出第一種“風暴”系列武器[貝瑞塔Cx4 Storm系列](../Page/貝瑞塔Cx4_Storm卡賓槍.md "wikilink")[手槍](../Page/半自動手槍.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[卡賓槍開始](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")，2004年推出了[貝瑞塔Px4 Storm四](../Page/貝瑞塔Px4_Storm半自動手槍.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")，以及2006年推出的[貝瑞塔Rx4 Storm](../Page/貝瑞塔Rx4_Storm半自動步槍.md "wikilink") [5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[半自動步槍](https://zh.wikipedia.org/wiki/半自動步槍 "wikilink")。所有貝瑞塔“風暴”系列都極具意大利風格，包括新穎美觀的外形與可靠的製造技術。然而，貝瑞塔公司卻在[霰彈槍領域上一直存在欠缺](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")，這槍推出以前的貝瑞塔-{只}-能製造[雙管霰彈槍](../Page/雙管霰彈槍.md "wikilink")，但卻沒有一款完全可以供給警用市場的半自動霰彈槍產品。直到貝瑞塔公司自1983年成功收購了世界著名的霰彈槍生產企業[伯奈利](../Page/伯奈利.md "wikilink")公司之後發生了改變，憑藉新的技術來源，貝瑞塔公司才決定進軍霰彈槍市場。2010年，貝瑞塔公司向市場正式推出伯萊塔Tx4 Storm半自動霰彈槍，目前為美國貝瑞塔家庭保護[長管槍械之一](https://zh.wikipedia.org/wiki/長管槍械 "wikilink")（另一枝為貝瑞塔Cx4 Storm）。
 
 ## 設計
 
@@ -52,7 +52,7 @@
 ## 參見
 
   - [貝瑞塔產品列表](../Page/貝瑞塔產品列表.md "wikilink")
-  - [貝瑞塔Px4 Storm](../Page/貝瑞塔Px4_Storm手槍.md "wikilink")，[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")／[9×21毫米IMI](https://zh.wikipedia.org/wiki/9×21mm_IMI "wikilink")、[.40 S\&W](../Page/.40_S&W.md "wikilink")、[.45 ACP](../Page/.45_ACP.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")
+  - [貝瑞塔Px4 Storm](../Page/貝瑞塔Px4_Storm半自動手槍.md "wikilink")，[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")／[9×21毫米IMI](https://zh.wikipedia.org/wiki/9×21mm_IMI "wikilink")、[.40 S\&W](../Page/.40_S&W.md "wikilink")、[.45 ACP](../Page/.45_ACP.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")
   - [貝瑞塔Cx4 Storm](../Page/貝瑞塔Cx4_Storm卡賓槍.md "wikilink")，[半自動手槍](../Page/半自動手槍.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[卡賓槍](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")
   - [貝瑞塔Rx4 Storm](../Page/貝瑞塔Rx4_Storm半自動步槍.md "wikilink")，[5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[半自動步槍](https://zh.wikipedia.org/wiki/半自動步槍 "wikilink")
   - [貝瑞塔Mx4 Storm](../Page/貝瑞塔Mx4_Storm衝鋒槍.md "wikilink")，貝瑞塔Cx4 Storm的短槍管全自動型版本

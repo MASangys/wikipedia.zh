@@ -223,7 +223,7 @@ DA PUMP四名成員出道以來都是自行編舞，沒有雇用專屬的編舞�
   - [經紀公司VISION FACTORY的DA PUMP資料](http://www.visionfactory.jp/artist/dapump/index.html)
   - [官方網站「ORION」](https://web.archive.org/web/20080518024723/http://www.dapump.jp/)
   - [DA PUMP官方部落格](http://ameblo.jp/da-pump-blog/)
-  - [ISSA官方部落格「I's Diary」](http://issa.vision-blog.jp/)
+  - [ISSA官方部落格「I's Diary」](https://web.archive.org/web/20100817143353/http://issa.vision-blog.jp/)
   - [ISSA官方網站](http://www.avexnet.or.jp/dapump/issa/)
   - [舞蹈團體SHUFFLE\!\!](https://web.archive.org/web/20100327130335/http://shuffle2005.com/)
   - [舞蹈團體AFROISM](https://web.archive.org/web/20100813151302/http://hp.kutikomi.net/afrohp/)

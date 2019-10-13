@@ -1,4 +1,4 @@
-**G.G.佐藤**（ジー・ジー・さとう、本名：**佐藤 隆彦**（さとう たかひこ）、[千葉縣](../Page/千葉縣.md "wikilink")[市川市](../Page/市川市.md "wikilink")出身的職業棒球選手[外野手](https://zh.wikipedia.org/wiki/外野手 "wikilink")。曾經效力於[太平洋聯盟](../Page/太平洋聯盟.md "wikilink")[埼玉西武獅](../Page/埼玉西武獅.md "wikilink")。\[1\] 由於球團方針年輕化於2011年10月9日宣告戰力外。\[2\] 離開日本後選擇到義大利波隆納繼續打球。 優異的表現受到了日本千葉羅德海洋對的青睞,在2012年11月25日,羅德球團宣布測試合格入團擔任球隊以代打為中心。所有的球迷都期待G.G.佐藤能夠恢復當年的長打火力以及賽後接受訪問時的招牌吶喊"好舒服"。\[3\]
+**G.G.佐藤**（ジー・ジー・さとう、本名：**佐藤 隆彦**（さとう たかひこ），）、[千葉縣](../Page/千葉縣.md "wikilink")[市川市](../Page/市川市.md "wikilink")出身的職業棒球選手[外野手](https://zh.wikipedia.org/wiki/外野手 "wikilink")。曾經效力於[太平洋聯盟](../Page/太平洋聯盟.md "wikilink")[埼玉西武獅](../Page/埼玉西武獅.md "wikilink")。\[1\]由於球團方針年輕化於2011年10月9日宣告戰力外。\[2\]離開日本後選擇到義大利波隆納繼續打球。優異的表現受到了日本千葉羅德海洋對的青睞，在2012年11月25日,羅德球團宣布測試合格入團擔任球隊以代打為中心。所有的球迷都期待G.G.佐藤能夠恢復當年的長打火力以及賽後接受訪問時的招牌吶喊"好舒服"。\[3\]
 
 ## 詳細成績
 
@@ -399,7 +399,7 @@
 
   - [Baseball-Reference（マイナーリーグでの成績）](http://www.baseball-reference.com/minors/player.cgi?id=sato--001tak)
 
-[Category:1978年出生](https://zh.wikipedia.org/wiki/Category:1978年出生 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:日本棒球選手](https://zh.wikipedia.org/wiki/Category:日本棒球選手 "wikilink") [Category:西武獅隊球員](https://zh.wikipedia.org/wiki/Category:西武獅隊球員 "wikilink") [Category:千葉羅德海洋隊球員](https://zh.wikipedia.org/wiki/Category:千葉羅德海洋隊球員 "wikilink") [Category:千葉縣出身人物](https://zh.wikipedia.org/wiki/Category:千葉縣出身人物 "wikilink")
+[Category:日本棒球選手](https://zh.wikipedia.org/wiki/Category:日本棒球選手 "wikilink") [Category:西武獅隊球員](https://zh.wikipedia.org/wiki/Category:西武獅隊球員 "wikilink") [Category:千葉羅德海洋隊球員](https://zh.wikipedia.org/wiki/Category:千葉羅德海洋隊球員 "wikilink") [Category:千葉縣出身人物](https://zh.wikipedia.org/wiki/Category:千葉縣出身人物 "wikilink") [Category:2008年夏季奧林匹克運動會棒球選手](https://zh.wikipedia.org/wiki/Category:2008年夏季奧林匹克運動會棒球選手 "wikilink")
 
 1.  [個人年度別成績 【Ｇ．Ｇ．佐藤（佐藤隆彦） （埼玉西武ライオンズ）】](http://bis.npb.or.jp/players/31735119.html)
 2.  [西武　Ｇ・Ｇ・佐藤が戦力外…現役続行希望、石井義らも ― スポニチ Sponichi Annex 野球](http://www.sponichi.co.jp/baseball/news/2011/10/09/kiji/K20111009001788750.html)

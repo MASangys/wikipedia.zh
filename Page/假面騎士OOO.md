@@ -2349,6 +2349,12 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
   - 「[假面騎士×假面騎士 Wizard & Fourze Movie大戰Ultimatum](https://zh.wikipedia.org/wiki/假面騎士×假面騎士_Wizard_&_Fourze_MOVIE大戰Ultimatum "wikilink")」
   - 《[假面騎士平成Generations FINAL Build & EX-AID with 傳說騎士](../Page/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士.md "wikilink")》（2017年12月9日上映）
 
+### 電視影集
+
+  - 《[假面騎士ZI-O](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")》
+
+第9-10話，假面騎士OOO登場。
+
 ## 樂曲
 
 ### 主題曲

@@ -91,7 +91,8 @@ JAPAN<br />
 <td><p>最高<br />
 周榜<br />
 排名</p></td>
-<td><p>上榜次數</p></td>
+<td><p>上榜<br />
+次數</p></td>
 <td><p>首週銷量</p></td>
 <td><p>累積銷量</p></td>
 <td></td>
@@ -1438,6 +1439,28 @@ CD</p></td>
 </center></td>
 <td><center>
 <p>1,422,727张</p>
+</center></td>
+</tr>
+<tr class="even">
+<td><p>56</p></td>
+<td><p>2019年<br />
+9月18日</p></td>
+<td></td>
+<td><p><strong><a href="../Page/持續愛你.md" title="wikilink">持續愛你</a></strong></p></td>
+<td><center>
+<p>第1名</p>
+</center></td>
+<td><center>
+<p>1</p>
+</center></td>
+<td><center>
+<p>1,380,266張</p>
+</center></td>
+<td><center>
+<p>1,380,266張</p>
+</center></td>
+<td><center>
+<p>张</p>
 </center></td>
 </tr>
 </tbody>

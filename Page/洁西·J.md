@@ -1,4 +1,4 @@
-**潔西卡‧艾倫‧柯妮許**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：**Jessica Ellen Cornish**；），以她的藝名**潔西·J**（**Jessie J）**更廣為人知，是一名英國歌手及詞曲作家，在英國[倫敦出生長大](https://zh.wikipedia.org/wiki/倫敦 "wikilink")。11岁开始自己的事业，出演伦敦西区剧院音乐剧《微风轻哨》。她获得2011年度[全英音樂獎](../Page/全英音樂獎.md "wikilink")的《樂評人選擇獎》及BBC年度新声。
+**潔西卡‧艾倫‧柯妮許**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：**Jessica Ellen Cornish**；），以她的藝名**潔西·J**（**Jessie J**）更廣為人知，是一名英國歌手及詞曲作家，在英國[倫敦出生長大](https://zh.wikipedia.org/wiki/倫敦 "wikilink")。11岁开始自己的事业，出演伦敦西区剧院音乐剧《微风轻哨》。她获得2011年度[全英音樂獎](../Page/全英音樂獎.md "wikilink")的《樂評人選擇獎》及BBC年度新声。
 
 Jessie J與隸屬[環球音樂的](../Page/环球音乐集团.md "wikilink")[聯眾唱片](../Page/聯眾唱片.md "wikilink")簽約後，推出了首支個人單曲 "Do It Like a Dude"，並登上英國單曲排行榜的第二名。下首单曲《Price Tag》在包括英国内的19个国家排名第一，隨後推出了首張專輯《[你是誰](../Page/你是誰_\(潔西_J專輯\).md "wikilink")》（Who You Are），該年2月、4月分別在英國與美國發行。2013年发行第二张专辑《[存在](../Page/存在_\(潔西_J專輯\).md "wikilink")》，2014年发行第三张专辑《[甜言蜜語](https://zh.wikipedia.org/wiki/甜言蜜語_\(婕茜·J專輯\) "wikilink")》。
 

@@ -22,7 +22,7 @@ Kel-Tec也推出一根PMR-30專用的延長的127[毫米](../Page/毫米.md "wik
 
   - [Kel-Tec RMR-30卡賓槍](https://zh.wikipedia.org/wiki/Kel-Tec_RMR-30卡賓槍 "wikilink")
   - [Kel-Tec CP33手槍](https://zh.wikipedia.org/wiki/Kel-Tec_CP33手槍 "wikilink")
-  - [自動馬格南II型手槍](../Page/自動馬格南II型手槍.md "wikilink")
+  - [自動馬格南II型半自動手槍](../Page/自動馬格南II型半自動手槍.md "wikilink")
   - [格倫德爾P30半自動手槍](../Page/格倫德爾P30半自動手槍.md "wikilink")
 
 ## 資料來源

@@ -142,7 +142,7 @@
 <tr class="even">
 <td><p><a href="../Page/博多豚骨拉面团.md" title="wikilink">博多豚骨拉面团</a></p></td>
 <td></td>
-<td><p>1月12日－播放中</p></td>
+<td><p>1月－3月</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/安田賢司" title="wikilink">安田賢司</a></p></td>
 <td><p>小說</p></td>
 <td></td>
@@ -150,7 +150,7 @@
 <tr class="odd">
 <td><p><a href="../Page/重神機潘多拉.md" title="wikilink">重神機潘多拉</a></p></td>
 <td></td>
-<td><p>4月－預定</p></td>
+<td><p>4月－9月</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/佐藤英一" title="wikilink">佐藤英一</a></p></td>
 <td><p>原創</p></td>
 <td></td>
@@ -174,17 +174,25 @@
 <tr class="even">
 <td><p><a href="../Page/飛翔吧！戰機少女.md" title="wikilink">飛翔吧！戰機少女</a></p></td>
 <td></td>
-<td><p>1月－預定</p></td>
-<td><p>未定</p></td>
+<td><p>1月－3月</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/小野勝巳" title="wikilink">小野勝巳</a></p></td>
 <td><p>小說</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>2020年</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/索瑪麗與森林之神.md" title="wikilink">索瑪麗與森林之神</a></p></td>
+<td></td>
+<td><p>1月－預定</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/安田賢司" title="wikilink">安田賢司</a></p></td>
+<td><p>漫畫</p></td>
 <td></td>
 </tr>
 </tbody>

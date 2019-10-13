@@ -292,7 +292,7 @@
 </tr>
 <tr class="even">
 <td><p>10月13日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Happy_Birthday_(NEWS單曲)" title="wikilink">Happy Birthday</a></p></td>
+<td><p><a href="../Page/Happy_Birthday_(NEWS單曲).md" title="wikilink">Happy Birthday</a></p></td>
 <td><p><a href="../Page/NEWS.md" title="wikilink">NEWS</a></p></td>
 <td><p>20.1</p></td>
 <td><p>1</p></td>

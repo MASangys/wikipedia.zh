@@ -34,11 +34,11 @@ A5 M型更有[.308 Winchester](../Page/.308_Winchester.md "wikilink")（[7.62×5
 
 ### 扳機組件
 
-FN SPR系列的[扳機組件在](https://zh.wikipedia.org/wiki/扳機 "wikilink")[扳機護圈內設有彈倉卡筍或彈匣卡筍](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")。
+FN SPR系列的[扳機組件在](https://zh.wikipedia.org/wiki/扳機 "wikilink")[扳機護環內設有彈倉卡筍或彈匣卡筍](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")。
 
 A1型狙擊步槍採用可拆卸式彈匣，不過其彈匣卡筍的位置比較特別，其設置在彈匣前部。按壓彈匣卡筍即可拆卸彈匣。
 
-A5 M型的扳機組件更在扳機護圈前方兩側分別設有一個圓形彈匣卡筍，更方便解脫彈匣。[彈匣插座增加了彈匣裙形擴口處理](https://zh.wikipedia.org/wiki/直向插槽 "wikilink")，使彈匣插入時變得更為方便。
+A5 M型的扳機組件更在扳機護環前方兩側分別設有一個圓形彈匣卡筍，更方便解脫彈匣。[彈匣插座增加了彈匣裙形擴口處理](https://zh.wikipedia.org/wiki/直向插槽 "wikilink")，使彈匣插入時變得更為方便。
 
 ### 供彈方式
 

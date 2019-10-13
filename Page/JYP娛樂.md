@@ -460,56 +460,53 @@ JYP娛樂於2月1日獲第2屆演藝製作人協會大賞獲頒「製作人獎�
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p>姜贤宇<br />
-Kang Hyun Woo</p></td>
-<td><p>金玟志<br />
-Kim Min Ji</p></td>
-<td><p>吳海媛<br />
-Oh Hae Won</p></td>
-<td><p>李荷聿<br />
-Lee Ha Yul</p></td>
-<td><p>張珪珒<br />
-Jang Gyu Jin</p></td>
-</tr>
-<tr class="even">
 <td></td>
-<td><p>安攸娜<br />
-Ahn Yu Na</p></td>
-<td><p>崔韵溱<br />
-Choi Yun Jin</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>王家妤<br />
 Wang Jia Yu</p></td>
-<td><p>汪陽洋<br />
-Wang Yang Yang</p></td>
-<td><p>山口真子<br />
-Yamaguchi Mako</p></td>
-<td><p>規焄<br />
-Gye Hun</p></td>
-<td></td>
+<td><p>崔韵溱<br />
+Choi Yun Jin</p></td>
+<td><p>張姝那<br />
+Jang Ju Na</p></td>
+<td><p>李規焄<br />
+Lee Gye Hun</p></td>
 </tr>
 <tr class="even">
-<td><p>芷瑀<br />
-Ji Woo</p></td>
-<td><p>姝那<br />
-Ju Na</p></td>
+<td><p>安攸娜<br />
+Ahn Yu Na</p></td>
+<td><p>山口真子<br />
+Yamaguchi Mako</p></td>
+<td><p>吳海媛<br />
+Oh Hae Won</p></td>
 <td><p>羅衍<br />
 Luo Yan</p></td>
-<td><p>延翰<br />
-Yeon Han</p></td>
-<td></td>
+<td><p>金玟志<br />
+Kim Min Ji</p></td>
 </tr>
 <tr class="odd">
-<td><p>玉陣旭<br />
-Ok Jim Wook</p></td>
+<td><p>張珪珒<br />
+Jang Gyu Jin</p></td>
+<td><p>李荷聿<br />
+Lee Ha Yul</p></td>
+<td><p>朴延翰<br />
+Park Yeon Han</p></td>
+<td><p>芷瑀<br />
+Ji Woo</p></td>
+<td><p>Kim Jung Su</p></td>
+</tr>
+<tr class="even">
+<td><p>Sung Min</p></td>
+<td><p>Kyoung Mun</p></td>
+<td><p>Victor</p></td>
+<td><p>Yokoi Rima</p></td>
+<td><p>Miihi</p></td>
+</tr>
+<tr class="odd">
+<td><p>Jeong Woo</p></td>
 <td><p>韓頤穎<br />
 Han Shin Young</p></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>Jin Sol</p></td>
+<td><p>Taiga</p></td>
+<td><p>Yuhi</p></td>
 </tr>
 </tbody>
 </table>
@@ -858,7 +855,8 @@ Han Shin Young</p></td>
 
   - [金請夏](https://zh.wikipedia.org/wiki/金請夏 "wikilink")
 
-  -
+  - 劉永才
+
   - [姚偉濤](https://zh.wikipedia.org/wiki/姚偉濤 "wikilink")
 
 <!-- end list -->

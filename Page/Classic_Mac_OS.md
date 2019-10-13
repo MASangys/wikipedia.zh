@@ -123,7 +123,7 @@
 
 ## 外部链接
 
-  - [System 7.5.3](http://download.info.apple.com/Apple_Support_Area/Apple_Software_Updates/English-North_American/Macintosh/System/Older_System/System_7.5_Version_7.5.3/) from Apple.com
+  - [System 7.5.3](https://web.archive.org/web/20080509191342/http://download.info.apple.com/Apple_Support_Area/Apple_Software_Updates/English-North_American/Macintosh/System/Older_System/System_7.5_Version_7.5.3/) from Apple.com
   - [Older Macintosh System Software](http://download.info.apple.com/Apple_Support_Area/Apple_Software_Updates/English-North_American/Macintosh/System/Older_System/) from Apple.com
   - [Bibliography](http://www.sitepoint.com/article/real-history-gui/9/) A list of links to the history of GUIs
   - [Mac OS X history on Mactimeline](https://web.archive.org/web/20101011024042/http://www.mactimeline.com/software/mac-os-x)

@@ -22,6 +22,10 @@ Stack Overflow是以[ASP.NET 3.5撰寫而成](https://zh.wikipedia.org/wiki/ASP.
 
 Super User是一個針對[超級使用者](https://zh.wikipedia.org/wiki/超級使用者 "wikilink")\[17\]，而非僅限於[系统管理员](../Page/系统管理员.md "wikilink")或者[程式設計師的姐妹站](https://zh.wikipedia.org/wiki/程式設計師 "wikilink")。於2009年6月進入半封閉測試\[18\]，並於2009年8月18日開放。\[19\]
 
+## 现任首席执行官
+
+  - Prashanth Chandrasekar（2019年10月1日上任）\[20\]
+
 ## 參見
 
   - [Ask Ubuntu](https://zh.wikipedia.org/wiki/Ask_Ubuntu "wikilink")
@@ -58,3 +62,4 @@ Super User是一個針對[超級使用者](https://zh.wikipedia.org/wiki/超級�
 17.
 18.
 19.
+20.

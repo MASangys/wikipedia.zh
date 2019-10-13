@@ -469,7 +469,7 @@
 </tbody>
 </table>
 
-### 2nd 進入偉大的航路篇
+### 2nd 前往偉大的航道篇
 
 <table>
 <thead>
@@ -7083,7 +7083,7 @@
 </tr>
 <tr class="odd">
 <td><p>897</p></td>
-<td><p>拯救玉兒 草帽小子穿越荒野</p></td>
+<td><p>拯救玉兒 草帽小子馳騁荒野</p></td>
 <td></td>
 <td><p>中山-{}-智博</p></td>
 <td><p>伊藤聡伺</p></td>
@@ -7134,17 +7134,31 @@
 </tr>
 <tr class="even">
 <td><p>904</p></td>
-<td><p>魯夫憤怒 危及的拯救玉兒</p></td>
+<td><p>魯夫激怒 拯救危機的玉兒</p></td>
 <td></td>
 <td><p>藤田伸三</p></td>
 <td><p>細田雅弘</p></td>
 </tr>
 <tr class="odd">
 <td><p>905</p></td>
-<td><p>爭奪玉兒 激鬥 赫戴姆戰</p></td>
+<td><p>奪回玉兒 激鬥 赫戴姆戰</p></td>
 <td></td>
 <td><p>井上亜樹子</p></td>
 <td><p>嶋谷将</p></td>
+</tr>
+<tr class="even">
+<td><p>906</p></td>
+<td><p>決鬥 魔術師與死亡外科醫生</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>907</p></td>
+<td><p>ROMANCE DAWN</p></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td></td>

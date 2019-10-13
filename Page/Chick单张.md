@@ -16,7 +16,7 @@
 
 ## 外部链接
 
-  - [Chick出版社](http://www.chick.com/zh/b5/)
+  - [Chick出版社](https://web.archive.org/web/20101226144157/http://www.chick.com/zh/b5/)
 
 [Category:反天主教出版物](https://zh.wikipedia.org/wiki/Category:反天主教出版物 "wikilink") [Category:创造论出版物](https://zh.wikipedia.org/wiki/Category:创造论出版物 "wikilink") [Category:基督教漫画](https://zh.wikipedia.org/wiki/Category:基督教漫画 "wikilink")
 

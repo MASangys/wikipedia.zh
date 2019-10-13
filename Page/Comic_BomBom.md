@@ -20,4 +20,4 @@
 
 1.  此即「Deluxe BomBom」的[片假名](../Page/片假名.md "wikilink")寫法。
 2.  其封面右上角標示的發行日期為2006年10月10日。
-3.  [](http://trendy.nikkeibp.co.jp/article/pickup/20080501/1010177/?P=2)，《日經趨勢網》2008年5月2日。
+3.  [](http://trendy.nikkeibp.co.jp/article/pickup/20080501/1010177/?P=2) ，《日經趨勢網》2008年5月2日。

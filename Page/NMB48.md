@@ -247,7 +247,7 @@ Team N副隊長</p></td>
 <td><p>2015年2月4日</p></td>
 <td><p>Showtitle</p></td>
 <td><p>原上枝Team BII<br />
-妹妹為研究生大段結愛<br />
+妹妹為大段結愛（原NMB48）<br />
 原川上Team M<br />
 預定於2019年10月13日畢業[46]<br />
 NMB48最年長</p></td>
@@ -454,7 +454,7 @@ Team M副隊長</p></td>
 <td><p>2012年1月26日</p></td>
 <td><p>Showtitle</p></td>
 <td><p>原Team M隊長<br />
-預定畢業[48]</p></td>
+預定於2019年10月30日畢業[48]</p></td>
 <td><p>116</p></td>
 </tr>
 <tr class="even">
@@ -769,16 +769,6 @@ Team BII副隊長</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>大段結愛</p></td>
-<td></td>
-<td></td>
-<td><p>6期</p></td>
-<td><p>姐姐為Team M的大段舞依<br />
-預定於2019年9月24日畢業[50]</p></td>
-<td><p>-</p></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>岡本怜奈</p></td>
 <td></td>
 <td></td>
@@ -787,7 +777,7 @@ Team BII副隊長</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>小川結夏</p></td>
 <td></td>
 <td></td>
@@ -796,7 +786,7 @@ Team BII副隊長</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>北村真菜</p></td>
 <td></td>
 <td></td>
@@ -805,7 +795,7 @@ Team BII副隊長</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>小林莉奈</p></td>
 <td></td>
 <td></td>
@@ -814,7 +804,7 @@ Team BII副隊長</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>坂本夏海</p></td>
 <td></td>
 <td></td>
@@ -824,7 +814,7 @@ Team BII副隊長</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>貞野遙香</p></td>
 <td></td>
 <td></td>
@@ -833,7 +823,7 @@ Team BII副隊長</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>佐藤亞海</p></td>
 <td></td>
 <td></td>
@@ -843,7 +833,7 @@ Team BII副隊長</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>菖蒲真凜<br />
 （）</p></td>
 <td></td>
@@ -853,18 +843,18 @@ Team BII副隊長</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>杉浦琴音</p></td>
 <td></td>
 <td></td>
 <td><p>選秀<br />
 3期</p></td>
 <td><p>第三屆選秀會議Team M第四輪指名<br />
-2019年5月8日起暫停活動[51]</p></td>
+2019年5月8日起暫停活動[50]</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>出口結菜</p></td>
 <td></td>
 <td></td>
@@ -873,7 +863,7 @@ Team BII副隊長</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>中野美來</p></td>
 <td></td>
 <td></td>
@@ -884,16 +874,16 @@ Team BII副隊長</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>南波陽向</p></td>
 <td></td>
 <td></td>
 <td><p>6期</p></td>
-<td><p>2019年8月2日起暫停活動[52]</p></td>
+<td><p>2019年8月2日起暫停活動[51]</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>原加戀<br />
 （）</p></td>
 <td></td>
@@ -903,7 +893,7 @@ Team BII副隊長</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>前田令子</p></td>
 <td></td>
 <td></td>
@@ -913,7 +903,7 @@ Team BII副隊長</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>溝渕麻莉亞</p></td>
 <td></td>
 <td></td>
@@ -923,7 +913,7 @@ Team BII副隊長</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>三宅由里亞<br />
 （）</p></td>
 <td></td>
@@ -933,7 +923,7 @@ Team BII副隊長</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>山崎亞美瑠</p></td>
 <td></td>
 <td></td>
@@ -943,7 +933,7 @@ Team BII副隊長</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>橫野堇<br />
 （）</p></td>
 <td></td>
@@ -1125,7 +1115,7 @@ Team BII副隊長</p></td>
 <td></td>
 <td></td>
 <td><p>2期</p></td>
-<td><p>2014年4月7日[53]</p></td>
+<td><p>2014年4月7日[52]</p></td>
 <td><p>M</p></td>
 <td><p>-</p></td>
 <td><p>曾任Team M隊長<br />
@@ -1141,7 +1131,7 @@ Team BII副隊長</p></td>
 <td><p>BII</p></td>
 <td><p>-</p></td>
 <td><p>原定將移籍Team M<br />
-體調不良而中止活動[54]</p></td>
+體調不良而中止活動[53]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -1149,11 +1139,11 @@ Team BII副隊長</p></td>
 <td></td>
 <td></td>
 <td><p>3期</p></td>
-<td><p>2014年4月20日[55]</p></td>
+<td><p>2014年4月20日[54]</p></td>
 <td><p>BII</p></td>
 <td><p>-</p></td>
-<td><p>2013年9月14日－12月8日停止活動[56][57][58]<br />
-4月10日畢業公演[59]</p></td>
+<td><p>2013年9月14日－12月8日停止活動[55][56][57]<br />
+4月10日畢業公演[58]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -1164,7 +1154,7 @@ Team BII副隊長</p></td>
 <td><p>2014年4月22日</p></td>
 <td><p>N</p></td>
 <td><p>京乐吉本</p></td>
-<td><p>移籍AKB48 Team B[60]<br />
+<td><p>移籍AKB48 Team B[59]<br />
 2016年12月24日自AKB48 Team B畢業</p></td>
 <td><p>54</p></td>
 </tr>
@@ -1178,7 +1168,7 @@ Team BII副隊長</p></td>
 <td><p>N</p></td>
 <td><p>-</p></td>
 <td><p>原Team M<br />
-同日畢業公演[61]</p></td>
+同日畢業公演[60]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -1191,8 +1181,8 @@ Team BII副隊長</p></td>
 <td><p>N</p></td>
 <td><p>-</p></td>
 <td><p>原Team BII<br />
-2014年1月20日－4月4日停止活動[62]<br />
-1月26日畢業公演[63]</p></td>
+2014年1月20日－4月4日停止活動[61]<br />
+1月26日畢業公演[62]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -1204,7 +1194,7 @@ Team BII副隊長</p></td>
 <td><p>M</p></td>
 <td><p>-</p></td>
 <td><p>原成员<br />
-3月13日畢業公演[64]</p></td>
+3月13日畢業公演[63]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -1217,7 +1207,7 @@ Team BII副隊長</p></td>
 <td><p>-</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Miss_Seventeen" title="wikilink">Miss Seventeen</a>2009最終候補者<br />
 原Team M<br />
-2015年3月12日畢業公演[65]</p></td>
+2015年3月12日畢業公演[64]</p></td>
 <td><p>|-</p></td>
 </tr>
 <tr class="odd">
@@ -1227,7 +1217,7 @@ Team BII副隊長</p></td>
 <td><p>3期</p></td>
 <td><p>M</p></td>
 <td><p>-</p></td>
-<td><p>3月16日畢業公演[66]</p></td>
+<td><p>3月16日畢業公演[65]</p></td>
 <td><p>|-</p></td>
 <td></td>
 </tr>
@@ -1256,7 +1246,7 @@ Team BII副隊長</p></td>
 <td><p>-</p></td>
 <td><p>前Make palette成員<br />
 原Team BII<br />
-同日畢業公演[67]</p></td>
+同日畢業公演[66]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -1306,7 +1296,7 @@ Team BII副隊長</p></td>
 <td><p>2015年6月21日</p></td>
 <td><p>N</p></td>
 <td><p>-</p></td>
-<td><p>6月16日畢業公演[68]<br />
+<td><p>6月16日畢業公演[67]<br />
 原Team BII</p></td>
 <td><p>-</p></td>
 </tr>
@@ -1318,7 +1308,7 @@ Team BII副隊長</p></td>
 <td><p>2015年6月30日</p></td>
 <td><p>BII</p></td>
 <td><p>-</p></td>
-<td><p>當日畢業公演[69]</p></td>
+<td><p>當日畢業公演[68]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -1341,7 +1331,7 @@ Team BII副隊長</p></td>
 <td><p>2016年1月27日</p></td>
 <td><p>M</p></td>
 <td><p>-</p></td>
-<td><p>當日畢業公演[70]<br />
+<td><p>當日畢業公演[69]<br />
 原Team N</p></td>
 <td><p>-</p></td>
 </tr>
@@ -1353,7 +1343,7 @@ Team BII副隊長</p></td>
 <td><p>2016年2月4日</p></td>
 <td><p>N</p></td>
 <td><p>Showtitle</p></td>
-<td><p>當日畢業公演[71]<br />
+<td><p>當日畢業公演[70]<br />
 现艺名：三秋里步<br />
 現為吉本坂46成員</p></td>
 <td><p>54</p></td>
@@ -1473,7 +1463,7 @@ Team BII副隊長</p></td>
 <td><p>N</p></td>
 <td></td>
 <td><p>成员上西怜的姐姐<br />
-当日畢業公演[72][73]</p></td>
+当日畢業公演[71][72]</p></td>
 <td><p>36</p></td>
 </tr>
 <tr class="even">
@@ -1485,8 +1475,8 @@ Team BII副隊長</p></td>
 <td><p>N</p></td>
 <td><p>-</p></td>
 <td><p>原初代・上枝Team BII<br />
-當日畢業公演[74]<br />
-妹妹為<a href="../Page/STU48.md" title="wikilink">STU48</a>成員<a href="https://zh.wikipedia.org/wiki/藪下楓" title="wikilink">藪下楓</a>[75]</p></td>
+當日畢業公演[73]<br />
+妹妹為<a href="../Page/STU48.md" title="wikilink">STU48</a>成員<a href="https://zh.wikipedia.org/wiki/藪下楓" title="wikilink">藪下楓</a>[74]</p></td>
 <td><p>39</p></td>
 </tr>
 <tr class="odd">
@@ -1498,7 +1488,7 @@ Team BII副隊長</p></td>
 <td><p>BII</p></td>
 <td><p>Showtitle</p></td>
 <td><p>原初代・山本Team N<br />
-當日畢業公演[76]</p></td>
+當日畢業公演[75]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -1515,7 +1505,7 @@ Team BII副隊長</p></td>
 秋元Team K<br />
 梅田Team B<br />
 原藤江Team M<br />
-當日畢業公演[77]</p></td>
+當日畢業公演[76]</p></td>
 <td><p>32</p></td>
 </tr>
 <tr class="odd">
@@ -1528,7 +1518,7 @@ Team BII副隊長</p></td>
 <td><p>BII</p></td>
 <td><p>Showtitle</p></td>
 <td><p>第二屆選秀會議Team BII第一輪指名<br />
-當日畢業公演[78]</p></td>
+當日畢業公演[77]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -1541,7 +1531,7 @@ Team BII副隊長</p></td>
 <td><p>Showtitle</p></td>
 <td><p>原初代・上枝Team BII<br />
 原上枝Team BII隊長<br />
-當日畢業公演[79]</p></td>
+當日畢業公演[78]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -1554,7 +1544,7 @@ Team BII副隊長</p></td>
 <td><p>N</p></td>
 <td><p>Showtitle</p></td>
 <td><p>经由第一屆AKB48選秀會議加入<br />
-當日畢業公演[80]</p></td>
+當日畢業公演[79]</p></td>
 <td><p>20</p></td>
 </tr>
 <tr class="even">
@@ -1565,7 +1555,7 @@ Team BII副隊長</p></td>
 <td><p>2017年9月27日</p></td>
 <td><p>M</p></td>
 <td><p>Showtitle</p></td>
-<td><p>當日畢業公演[81]</p></td>
+<td><p>當日畢業公演[80]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -1577,7 +1567,7 @@ Team BII副隊長</p></td>
 <td><p>N</p></td>
 <td><p>-</p></td>
 <td><p>原藤江Team M<br />
-12月19日畢業公演[82][83]</p></td>
+12月19日畢業公演[81][82]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -1588,7 +1578,7 @@ Team BII副隊長</p></td>
 <td><p>2018年3月27日</p></td>
 <td><p>N</p></td>
 <td><p>-</p></td>
-<td><p>當日畢業公演[84]</p></td>
+<td><p>當日畢業公演[83]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -1601,7 +1591,7 @@ Team BII副隊長</p></td>
 <td></td>
 <td><p>曾兼任AKB48 Team A<br />
 原初代・藤江Team M<br />
-當日畢業公演[85]</p></td>
+當日畢業公演[84]</p></td>
 <td><p>33</p></td>
 </tr>
 <tr class="even">
@@ -1617,7 +1607,7 @@ Team BII副隊長</p></td>
 原AKB48 初代Team 4<br />
 原兼任梅田Team B<br />
 原上枝Team BII<br />
-當日畢業公演[86][87]</p></td>
+當日畢業公演[85][86]</p></td>
 <td><p>39</p></td>
 </tr>
 <tr class="odd">
@@ -1628,8 +1618,8 @@ Team BII副隊長</p></td>
 <td><p>2018年5月2日</p></td>
 <td><p>M</p></td>
 <td><p>Showtitle</p></td>
-<td><p>當日畢業公演[88]<br />
-妹妹是中野美來[89]</p></td>
+<td><p>當日畢業公演[87]<br />
+妹妹是中野美來[88]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1655,7 +1645,7 @@ Team BII副隊長</p></td>
 <td><p>-</p></td>
 <td><p>原Team BII副隊長<br />
 原初代・藤江Team M<br />
-當日畢業公演[90]</p></td>
+當日畢業公演[89]</p></td>
 <td><p>25</p></td>
 </tr>
 <tr class="even">
@@ -1670,7 +1660,7 @@ Team BII副隊長</p></td>
 原NMB48總隊長<br />
 曾兼任AKB48 Team K<br />
 原為女子搖滾樂團<a href="../Page/MAD_CATZ.md" title="wikilink">MAD CATZ主唱兼</a><a href="https://zh.wikipedia.org/wiki/吉他手" title="wikilink">吉他手</a><br />
-當日畢業公演[91]</p></td>
+當日畢業公演[90]</p></td>
 <td><p>4</p></td>
 </tr>
 <tr class="odd">
@@ -1683,7 +1673,7 @@ Team BII副隊長</p></td>
 <td><p>BII</p></td>
 <td><p>-</p></td>
 <td><p>原藤江Team M<br />
-請辭[92]</p></td>
+請辭[91]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -1692,11 +1682,11 @@ Team BII副隊長</p></td>
 <td></td>
 <td></td>
 <td><p>3期</p></td>
-<td><p>N</p></td>
 <td><p>2019年1月28日</p></td>
+<td><p>N</p></td>
 <td><p>-</p></td>
 <td><p>原初代・上枝Team BII<br />
-當日畢業公演[93]</p></td>
+當日畢業公演[92]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -1704,11 +1694,11 @@ Team BII副隊長</p></td>
 <td></td>
 <td></td>
 <td><p>2期</p></td>
-<td><p>N</p></td>
 <td><p>2019年2月24日</p></td>
+<td><p>N</p></td>
 <td><p>-</p></td>
 <td><p>原上枝Team BII<br />
-2月12日畢業公演[94]</p></td>
+2月12日畢業公演[93]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -1719,7 +1709,7 @@ Team BII副隊長</p></td>
 <td><p>N</p></td>
 <td><p>Showtitle</p></td>
 <td><p>原初代・藤江Team M<br />
-2月18日畢業公演[95]</p></td>
+2月18日畢業公演[94]</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
@@ -1728,23 +1718,23 @@ Team BII副隊長</p></td>
 <td></td>
 <td></td>
 <td><p>5期</p></td>
-<td><p>M</p></td>
 <td><p>2019年4月14日</p></td>
+<td><p>M</p></td>
 <td><p>-</p></td>
-<td><p>4月12日畢業公演[96][97]</p></td>
+<td><p>4月12日畢業公演[95][96]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/城惠理子.md" title="wikilink">城惠理子</a></p></td>
 <td></td>
 <td></td>
-<td><p>4.5期[98]</p></td>
-<td><p>BII</p></td>
+<td><p>4.5期[97]</p></td>
 <td><p>2019年5月11日</p></td>
+<td><p>BII</p></td>
 <td><p>-</p></td>
 <td><p>原初代Team M<br />
 原山本Team N<br />
-5月4日畢業公演[99][100]</p></td>
+5月4日畢業公演[98][99]</p></td>
 <td><p>79</p></td>
 </tr>
 <tr class="odd">
@@ -1759,7 +1749,7 @@ Team BII副隊長</p></td>
 <td><p>於第一屆AKB48選秀會議加入<br />
 原上枝Team BII<br />
 原山本Team N<br />
-當日畢業公演[101]</p></td>
+當日畢業公演[100]</p></td>
 <td><p>54</p></td>
 </tr>
 <tr class="even">
@@ -1775,7 +1765,7 @@ Team BII副隊長</p></td>
 原Team M副隊長<br />
 原上枝Team BII<br />
 原川上Team M<br />
-當日畢業公演[102][103]</p></td>
+當日畢業公演[101][102]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -1891,7 +1881,7 @@ Team BII副隊長</p></td>
 <td><p>2012年10月11日</p></td>
 <td><p>-</p></td>
 <td><p>因专注学業辞退<br />
-当日官方部落格發表[104]</p></td>
+当日官方部落格發表[103]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -1971,7 +1961,7 @@ Team BII副隊長</p></td>
 <td><p>2期</p></td>
 <td><p>2014年3月15日</p></td>
 <td><p>-</p></td>
-<td><p>3月13日畢業公演[105]</p></td>
+<td><p>3月13日畢業公演[104]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -1980,7 +1970,7 @@ Team BII副隊長</p></td>
 <td></td>
 <td><p>4期</p></td>
 <td><p>-</p></td>
-<td><p>3月14日畢業公演[106]</p></td>
+<td><p>3月14日畢業公演[105]</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
@@ -1992,7 +1982,7 @@ Team BII副隊長</p></td>
 <td><p>2014年7月19日</p></td>
 <td><p>-</p></td>
 <td><p>是<a href="https://zh.wikipedia.org/wiki/乃木坂46" title="wikilink">乃木坂46成员</a><a href="https://zh.wikipedia.org/wiki/西野七濑" title="wikilink">西野七濑的表妹</a><br />
-當日畢業公演[107]</p></td>
+當日畢業公演[106]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -2018,7 +2008,7 @@ Team BII副隊長</p></td>
 <td><p>Showtitle</p></td>
 <td><p>第二屆選秀會議Team N第二輪指名<br />
 Team M研究生<br />
-當日畢業公演[108]</p></td>
+當日畢業公演[107]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -2030,10 +2020,21 @@ Team M研究生<br />
 <td><p>2019年6月30日</p></td>
 <td><p>-</p></td>
 <td><p>第三屆選秀會議Team M第五輪指名<br />
-當日畢業公演[109]</p></td>
+當日畢業公演[108]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
+<td><p>大段結愛</p></td>
+<td></td>
+<td></td>
+<td><p>6期</p></td>
+<td><p>2019年9月24日</p></td>
+<td><p>-</p></td>
+<td><p>姐姐為Team M的大段舞依<br />
+當日畢業公演[109]</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -3018,6 +3019,14 @@ Team BII研究生清水里香、上西怜、中川美音、水田詩織升格</p
 <td><p>研究生泉綾乃升格至Team N</p></td>
 <td></td>
 <td><p>61</p></td>
+<td><p>41</p></td>
+<td><p>15</p></td>
+</tr>
+<tr class="odd">
+<td><p>9月24日</p></td>
+<td><p>研究生大段結愛畢業</p></td>
+<td><p>-1</p></td>
+<td><p>60</p></td>
 <td><p>41</p></td>
 <td><p>15</p></td>
 </tr>
@@ -6056,17 +6065,17 @@ CM：ジャンボカラオケ広場<br />
 
 54.
 
-55.
+55. [金子支配人のGoogle+](https://plus.google.com/u/0/103350333579457321452/posts/FwVkrQkbubS)
 
-56. [金子支配人のGoogle+](https://plus.google.com/u/0/103350333579457321452/posts/FwVkrQkbubS)
+56.
 
 57.
 
 58.
 
 59.
-
 60.
+
 61.
 
 62.
@@ -6092,8 +6101,8 @@ CM：ジャンボカラオケ広場<br />
 72.
 
 73.
-
 74.
+
 75.
 
 76.
@@ -6133,8 +6142,8 @@ CM：ジャンボカラオケ広場<br />
 93.
 
 94.
-
 95.
+
 96.
 
 97.
@@ -6149,9 +6158,9 @@ CM：ジャンボカラオケ広場<br />
 
 102.
 
-103.
+103. [「研究生　東郷青空に関しまして」](http://ameblo.jp/nmb48/entry-11377084187.html) - NMB48オフィシャルブログ（2012年10月11日）
 
-104. [「研究生　東郷青空に関しまして」](http://ameblo.jp/nmb48/entry-11377084187.html) - NMB48オフィシャルブログ（2012年10月11日）
+104.
 
 105.
 

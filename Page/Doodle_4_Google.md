@@ -1,4 +1,6 @@
-**Doodle4Google**为一年一度由[Google](../Page/Google.md "wikilink")举办的图标设计大赛，面向全世界的中小学生征集原创的[Doodle图标](../Page/Google涂鸦.md "wikilink")，用于在各种纪念日或节日替换[Google搜索主页的标准图标](https://zh.wikipedia.org/wiki/google "wikilink")。本比赛于2008年在[瑞典](../Page/瑞典.md "wikilink")开始，至今已有5届。 2014年, Google 更首次於香港舉辦以「如果我是環保英雄…」為題的 Doodle 4 Google 塗鴉比賽\[1\]，讓全港學生都能發揮無限想像力，畫出充滿環保理念的 Doodle。獲得冠軍的作品將會於 Google 首頁展出 24 小時，讓數百萬的人都能欣賞宣揚環保意識、代表香港創意的特色 Doodle。
+**Doodle4Google**为一年一度由[Google](../Page/Google.md "wikilink")举办的图标设计大赛，面向全世界的中小学生征集原创的[Doodle图标](../Page/Google涂鸦.md "wikilink")，用于在各种纪念日或节日替换[Google搜索主页的标准图标](https://zh.wikipedia.org/wiki/google "wikilink")。本比赛于2008年在[瑞典](../Page/瑞典.md "wikilink")开始，至今已有5届。
+
+2014年，Google 更首次於香港舉辦以「如果我是環保英雄…」為題的 Doodle 4 Google 塗鴉比賽\[1\]，讓全港學生都能發揮無限想像力，畫出充滿環保理念的 Doodle。獲得冠軍的作品將會於 Google 首頁展出 24 小時，讓數百萬的人都能欣賞宣揚環保意識、代表香港創意的特色 Doodle。
 
 ## Google Doodle图标的历史
 

@@ -99,7 +99,7 @@ WhatsApp的付費使用曾引起爭議，很多人認為伺服器運作成本「
   - [微信](../Page/微信.md "wikilink")
   - [Kik](../Page/Kik.md "wikilink")
   - [KakaoTalk](../Page/KakaoTalk.md "wikilink")
-  - [TalkBox](https://zh.wikipedia.org/wiki/TalkBox_語音聊 "wikilink")
+  - [TalkBox](../Page/TalkBox_語音聊.md "wikilink")
 
 ## 外部链接
 

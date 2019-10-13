@@ -8,9 +8,8 @@
 
 Ultrabook通常具有的特性：
 
-  - 使用[固態硬碟](https://zh.wikipedia.org/wiki/固態硬碟 "wikilink")（[SSD](https://zh.wikipedia.org/wiki/SSD "wikilink")），具有快速開機、快速讀寫、體積小的特性。（也可以安裝物理硬碟）
   - 捨棄非必要的插槽與設備。故光碟等介面皆得依靠外接裝置。
-  - 搭配低電壓的CPU（即型號以U結尾的英特爾CPU，[熱設計功耗較低](https://zh.wikipedia.org/wiki/熱設計功耗 "wikilink")\[3\]）與記憶體，故能擁有極長待機時間。採用U系列CPU的筆記型電腦即是Ultrabook。
+  - 搭配低電壓的CPU（即型號以U結尾的英特爾CPU，[熱設計功耗較低](https://zh.wikipedia.org/wiki/熱設計功耗 "wikilink")\[3\]\[4\]）與記憶體，故能擁有極長待機時間。採用U系列CPU的筆記型電腦即是Ultrabook。
   - 機身厚度薄，重量較普通電腦輕一半以上，方便攜帶。
   - 繪圖與遊戲性能相對較弱。
 
@@ -21,7 +20,7 @@ Ultrabook通常具有的特性：
 <big>第一階段 2011年第四季度</big>
 
   - 超薄– 薄於20 mm （0.8 英寸）
-  - 超輕– 輕於1.4 kg （3.1 磅）\[4\]
+  - 超輕– 輕於1.4 kg （3.1 磅）\[5\]
   - 超長待機 – 至少5～8小時
   - 超主流價格 – 大約 $1,000 USD
   - 無光碟機
@@ -79,7 +78,7 @@ Ultrabook通常具有的特性：
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>宏碁 Aspire 3951 (S3)[5]</p></td>
+<td><p>宏碁 Aspire 3951 (S3)[6]</p></td>
 <td><p>1,299<br />
 美元</p></td>
 <td><p>2011年10月</p></td>
@@ -97,7 +96,7 @@ Ultrabook通常具有的特性：
 1366×768</p></td>
 </tr>
 <tr class="even">
-<td><p>華碩 Zenbook UX21[6]</p></td>
+<td><p>華碩 Zenbook UX21[7]</p></td>
 <td><p>999<br />
 美元</p></td>
 <td><p>2011年10月</p></td>
@@ -115,7 +114,7 @@ Ultrabook通常具有的特性：
 1366×768</p></td>
 </tr>
 <tr class="odd">
-<td><p>華碩 Zenbook UX31[7]</p></td>
+<td><p>華碩 Zenbook UX31[8]</p></td>
 <td><p>1,099<br />
 美元</p></td>
 <td><p>2011年10月</p></td>
@@ -133,9 +132,9 @@ Ultrabook通常具有的特性：
 1600×900</p></td>
 </tr>
 <tr class="even">
-<td><p>聯想 IdeaPad U300S[8]</p></td>
+<td><p>聯想 IdeaPad U300S[9]</p></td>
 <td><p>1,199<br />
-美元[9]</p></td>
+美元[10]</p></td>
 <td><p>2011年11月</p></td>
 <td><p>Core i5-2467M (1.6 GHz)</p></td>
 <td><p>4 GB</p></td>
@@ -150,7 +149,7 @@ Ultrabook通常具有的特性：
 1366×768</p></td>
 </tr>
 <tr class="odd">
-<td><p>東芝 Portege Z830[10]</p></td>
+<td><p>東芝 Portege Z830[11]</p></td>
 <td><p>700<br />
 歐元</p></td>
 <td><p>2011年11月</p></td>
@@ -168,7 +167,7 @@ Ultrabook通常具有的特性：
 1366×768</p></td>
 </tr>
 <tr class="even">
-<td><p>東芝 Portege Z835[11]</p></td>
+<td><p>東芝 Portege Z835[12]</p></td>
 <td><p>800<br />
 美元</p></td>
 <td><p>2011年11月</p></td>
@@ -201,11 +200,12 @@ Ultrabook通常具有的特性：
 1.  [Intel reveals skinny Ivy Bridge 'Ultrabooks,' Moore's Law-defying Atoms](http://www.engadget.com/2011/05/30/intel-reveals-skinny-ivy-bridge-ultrabooks-moores-law-defyin/). Engadget.com. Retrieved on 2011-09-07.
 2.  [Video: Sean Maloney Keynote Intel at Computex 2011, 29:40](http://intelstudios.edgesuite.net/computex/2011/sm/f.htm). Intelstudios.edgesuite.net. Retrieved on 2011-09-07.
 3.  <https://ark.intel.com/zh-tw/products/137979/Intel-Core-i7-8559U-Processor-8M-Cache-up-to-4-50-GHz->
-4.
-5.  <http://news.cnet.com/8301-17938_105-20118209-1/windows-$899-ultrabook-arrives-acer-aspire-s3/>
-6.  <http://www.washingtonpost.com/business/economy/asus-launches-zenbook-laptop/2011/10/12/gIQAdiuzfL_story.html>
+4.  <https://ark.intel.com/content/www/us/en/ark/products/195436/intel-core-i5-10210u-processor-6m-cache-up-to-4-10-ghz.html>
+5.
+6.  <http://news.cnet.com/8301-17938_105-20118209-1/windows-$899-ultrabook-arrives-acer-aspire-s3/>
 7.  <http://www.washingtonpost.com/business/economy/asus-launches-zenbook-laptop/2011/10/12/gIQAdiuzfL_story.html>
-8.  [Lenovo announces U300s Ultrabook, U300 and U400 IdeaPads](http://www.engadget.com/2011/09/01/lenovo-announces-u300s-ultrabook-u300-and-u400-ideapads-we-go/). Engadget.com (2011-09-01). Retrieved on 2011-09-07.
-9.
-10. [Toshiba Portege Z830 Ultrabook Arrives in November](http://lenzfire.com/2011/09/toshiba-portege-z830-ultrabook-arrives-in-november-99623/). Retrieved on 2011-09-10.
-11. [Toshiba Announces 13-inch Portege Z830 and Z835 Ultrabooks](http://blog.laptopmag.com/toshiba-announces-13-inch-portege-z830-and-z835-its-first-ultrabooks). Blog.laptopmag.com (2011-09-01). Retrieved on 2011-09-07.
+8.  <http://www.washingtonpost.com/business/economy/asus-launches-zenbook-laptop/2011/10/12/gIQAdiuzfL_story.html>
+9.  [Lenovo announces U300s Ultrabook, U300 and U400 IdeaPads](http://www.engadget.com/2011/09/01/lenovo-announces-u300s-ultrabook-u300-and-u400-ideapads-we-go/). Engadget.com (2011-09-01). Retrieved on 2011-09-07.
+10.
+11. [Toshiba Portege Z830 Ultrabook Arrives in November](http://lenzfire.com/2011/09/toshiba-portege-z830-ultrabook-arrives-in-november-99623/). Retrieved on 2011-09-10.
+12. [Toshiba Announces 13-inch Portege Z830 and Z835 Ultrabooks](http://blog.laptopmag.com/toshiba-announces-13-inch-portege-z830-and-z835-its-first-ultrabooks). Blog.laptopmag.com (2011-09-01). Retrieved on 2011-09-07.

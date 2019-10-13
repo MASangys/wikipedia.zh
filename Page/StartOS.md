@@ -1,4 +1,4 @@
-**StartOS**（又名**起点操作系统**，原名**Ylmf OS**），是一款由东莞瓦力网络（前身为雨林木风）开发的Linux系统。
+**StartOS**（又名**起点操作系统**，原名**Ylmf OS**），是一款由东莞瓦力网络（前身为雨林木风）开发的[Linux發行版](https://zh.wikipedia.org/wiki/Linux發行版 "wikilink")。
 
 ## 版本概要
 
@@ -61,7 +61,7 @@ YLMF OS 3.png|3.0 YLMF OS 4.0.png|4.0 StartOS-screenshot-5-0.png|5.0 StartOS-6.0
 
 ## 相關條目
 
-  - [Linux套件列表](https://zh.wikipedia.org/wiki/Linux套件列表 "wikilink")
+  - [Linux發行版列表](https://zh.wikipedia.org/wiki/Linux發行版列表 "wikilink")
   - [Ubuntu](../Page/Ubuntu.md "wikilink")
   - [hiweed](https://zh.wikipedia.org/wiki/hiweed "wikilink")
 

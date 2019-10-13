@@ -9,7 +9,7 @@
       - [株式会社常陽クレジット](http://www.joyocredit.co.jp/)
       - [株式会社十六ディーシーカード](https://web.archive.org/web/20111115174139/http://www.16dc.co.jp/)
       - [京都クレジットサービス株式会社](http://www.kyotodc.co.jp/)
-      - [株式会社百十四ディーシーカード](http://www.114dc.co.jp/)
+      - [株式会社百十四ディーシーカード](https://web.archive.org/web/20060425191703/http://www.114dc.co.jp/)
       - [株式会社愛銀ディーシーカード](http://www.aigindc.co.jp/)
       - [菱信ディーシーカード株式会社](http://www.ryoshindc.co.jp/)
       - [株式会社百五ディーシーカード](http://www.105dc.co.jp/)

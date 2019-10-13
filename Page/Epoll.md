@@ -1,9 +1,11 @@
-**`epoll`**是[Linux](../Page/Linux.md "wikilink")核心的可擴展I/O事件通知機制\[1\]。於Linux 2.5.44首度登場，它設計目的旨在取代既有[POSIX](https://zh.wikipedia.org/wiki/POSIX "wikilink") [`select(2)`與](../Page/Select_\(Unix\).md "wikilink")`poll(2)`[系統函式](https://zh.wikipedia.org/wiki/系统调用 "wikilink")，讓需要大量操作[檔案描述子的程式得以發揮更優異的性能](https://zh.wikipedia.org/wiki/檔案描述子 "wikilink")（舉例來說：舊有的系統函式所花費的時間複雜度為O(n)，`epoll`的時間複雜度O(log n)）。`epoll`與[FreeBSD](../Page/FreeBSD.md "wikilink")的[`kqueue`類似](https://zh.wikipedia.org/wiki/Kqueue "wikilink")，底層都是由可組態的作業系統核心物件建構而成，並以檔案描述符(file descriptor)的形式呈現於[使用者空間](https://zh.wikipedia.org/wiki/使用者空間 "wikilink")。
+**`epoll`**是[Linux](../Page/Linux.md "wikilink")核心的可擴展I/O事件通知機制\[1\]。於Linux 2.5.44首度登場，它設計目的旨在取代既有[POSIX](https://zh.wikipedia.org/wiki/POSIX "wikilink") [`select(2)`與](../Page/Select_\(Unix\).md "wikilink")`poll(2)`[系統函式](https://zh.wikipedia.org/wiki/系统调用 "wikilink")，讓需要大量操作[檔案描述子的程式得以發揮更優異的性能](https://zh.wikipedia.org/wiki/檔案描述子 "wikilink")（舉例來說：舊有的系統函式所花費的時間複雜度為O(n)，`epoll`的時間複雜度O(log n)）。
+
+`epoll`與[FreeBSD](../Page/FreeBSD.md "wikilink")的[`kqueue`類似](https://zh.wikipedia.org/wiki/Kqueue "wikilink")，底層都是由可組態的作業系統核心物件建構而成，並以檔案描述符(file descriptor)的形式呈現於[使用者空間](https://zh.wikipedia.org/wiki/使用者空間 "wikilink")。`epoll` 通過使用[紅黑樹](../Page/红黑树.md "wikilink")(RB-tree)搜索被監視的檔案描述符(file descriptor)。
 
 ## 程式介面
 
 ``` c
-int epoll_create(int size);
+int epoll_create(int flags);
 ```
 
 建立`epoll`物件並回傳其描述子。

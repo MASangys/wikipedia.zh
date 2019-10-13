@@ -18,5 +18,5 @@
 
 [Category:Firefox_附加组件](https://zh.wikipedia.org/wiki/Category:Firefox_附加组件 "wikilink")
 
-1.  [DOM Inspector :: Firefox 附加组件](https://addons.mozilla.org/zh-CN/firefox/addon/dom-inspector-6622/)
+1.
 2.

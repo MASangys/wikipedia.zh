@@ -1413,7 +1413,7 @@ Lee Ouk Ho</p></td>
 
 2.  [魔法少女リリカルなのは The MOVIE 1st 公式サイト](https://web.archive.org/web/20110726001917/http://nanoha.com/)
 
-3.  [Newtype CONTENTS MARCH 2011](http://anime.webnt.jp/magazine/view/2500)
+3.
 
 4.
 

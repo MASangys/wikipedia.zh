@@ -3,7 +3,7 @@
 ## 概要
 
   - 與前作時隔1年零10個月。
-  - 收錄由「[weeeek](https://zh.wikipedia.org/wiki/weeeek "wikilink")」至「[Happy Birthday](https://zh.wikipedia.org/wiki/Happy_Birthday_\(NEWS單曲\) "wikilink")」共4張單曲主打歌曲。
+  - 收錄由「[weeeek](https://zh.wikipedia.org/wiki/weeeek "wikilink")」至「[Happy Birthday](../Page/Happy_Birthday_\(NEWS單曲\).md "wikilink")」共4張單曲主打歌曲。
   - 初回限定盤附全32頁特刊及收錄共14首歌曲。通常盤附全16頁特刊及共15首歌曲，包括Bonus Track「永遠色之戀」。
   - NEWS連續第三張專輯取得Oricon週間第一名。
 
@@ -38,7 +38,7 @@
       - 作詞・作曲：カワノミチオ、編曲：m-takeshi、ストリングスアレンジ：CHICA strings、コーラスアレンジ：高橋哲也
 12. **Smile Maker**
       - 作詞・作曲：[0 SOUL 7](https://zh.wikipedia.org/wiki/0_SOUL_7 "wikilink")、編曲：鈴木雅也、コーラスアレンジ：Ko-saku
-13. **[Happy Birthday](https://zh.wikipedia.org/wiki/Happy_Birthday_\(NEWS單曲\) "wikilink")**
+13. **[Happy Birthday](../Page/Happy_Birthday_\(NEWS單曲\).md "wikilink")**
       - 作詞：[SEAMO](https://zh.wikipedia.org/wiki/SEAMO "wikilink")、作曲：SEAMO／Shintaro”Growth”Izutsu、編曲：Shintaro”Growth”Izutsu、ブラス & ストリングスアレンジ：大坪直樹
 14. **FLY AGAIN**
       - 作詞：Azuki、作曲：[ヒロイズム](https://zh.wikipedia.org/wiki/ヒロイズム "wikilink")、編曲：NAOKI-T

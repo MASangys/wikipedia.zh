@@ -1125,12 +1125,12 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/岩手縣" title="wikilink">岩手</a></p></td>
-<td><p><a href="../Page/佐藤七海.md" title="wikilink">佐藤七海</a></p></td>
-<td><p>2014年4月3日</p></td>
-<td><p>心意告示牌</p></td>
-<td><p>-</p></td>
-<td><p>圈外</p></td>
-<td><p>圈外</p></td>
+<td><p>（徵選中）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/山形縣" title="wikilink">山形</a></p></td>
@@ -4597,8 +4597,8 @@ Team B第五任隊長<br />
 <td><p>心意告示牌</p></td>
 <td><p>-</p></td>
 <td><p>9月30日</p></td>
-<td><p>rowspan="2|畢業（預定）</p></td>
 <td><p>畢業前兼任Team 4[258][259]</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -4609,8 +4609,8 @@ Team B第五任隊長<br />
 <td><p>High Tension</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
+<td><p>畢業（預定）</p></td>
 <td><p>畢業前兼任Team K[260]</p></td>
-<td></td>
 <td></td>
 <td></td>
 </tr>

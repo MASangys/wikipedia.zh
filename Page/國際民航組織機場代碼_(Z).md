@@ -1,7 +1,7 @@
 | 代碼          | 機場                                                                  | 城市                                                    | 国家和地区                                                  | 运营状态 |
 | ----------- | ------------------------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------ | ---- |
 | ZBAA        | [北京首都国际机场](../Page/北京首都国际机场.md "wikilink")                          | [北京市](../Page/北京市.md "wikilink")                      | [中国](https://zh.wikipedia.org/wiki/中国 "wikilink")      | 正在运营 |
-| ZBAD        | [北京大兴国际机场](https://zh.wikipedia.org/wiki/北京大兴国际机场 "wikilink")       | [北京市](../Page/北京市.md "wikilink")                      | [中国](https://zh.wikipedia.org/wiki/中国 "wikilink")      | 即將运营 |
+| ZBAD        | [北京大兴国际机场](https://zh.wikipedia.org/wiki/北京大兴国际机场 "wikilink")       | [北京市](../Page/北京市.md "wikilink")                      | [中国](https://zh.wikipedia.org/wiki/中国 "wikilink")      | 正在运营 |
 | ZBBB        | [北京西郊机场](https://zh.wikipedia.org/wiki/北京西郊机场 "wikilink")           | [北京市](../Page/北京市.md "wikilink")                      | [中国](https://zh.wikipedia.org/wiki/中国 "wikilink")      | 正在运营 |
 | ZBHD        | [邯郸机场](../Page/邯郸机场.md "wikilink")                                  | [邯郸市](../Page/邯郸市.md "wikilink")                      | [中國](https://zh.wikipedia.org/wiki/中華人民共和國 "wikilink") | 正在运营 |
 | ZBNY        | [北京南苑机场](../Page/北京南苑机场.md "wikilink")                              | [北京市](../Page/北京市.md "wikilink")                      | [中国](https://zh.wikipedia.org/wiki/中国 "wikilink")      | 正在运营 |

@@ -6,6 +6,6 @@ Solyndra破产在美国政界引起轩然大波，因为这家公司在2009年�
 
 ## 参考文献
 
-[Category:太阳能公司](https://zh.wikipedia.org/wiki/Category:太阳能公司 "wikilink") [Category:2005年在加利福尼亚州成立](https://zh.wikipedia.org/wiki/Category:2005年在加利福尼亚州成立 "wikilink") [Category:2011年废除](https://zh.wikipedia.org/wiki/Category:2011年废除 "wikilink")
+[Category:美國太陽能公司](https://zh.wikipedia.org/wiki/Category:美國太陽能公司 "wikilink") [Category:2005年在加利福尼亚州成立](https://zh.wikipedia.org/wiki/Category:2005年在加利福尼亚州成立 "wikilink") [Category:2011年废除](https://zh.wikipedia.org/wiki/Category:2011年废除 "wikilink")
 
 1.  [美国会勒令白宫出具破产公司文件](http://www.voanews.com/chinese/news/20111104-Solyndra-bankrupcy-133262933.html)

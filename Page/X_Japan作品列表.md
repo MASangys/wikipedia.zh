@@ -82,7 +82,7 @@
 <tr class="odd">
 <td><p>7th</p></td>
 <td><p>1991年10月25日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Standing_Sex" title="wikilink">Standing Sex/Joker</a></p></td>
+<td><p><a href="../Page/Standing_Sex.md" title="wikilink">Standing Sex/Joker</a></p></td>
 <td><p>SRDL-3372</p></td>
 <td><p>4</p></td>
 <td><p>「Standing Sex」是唯一沒有收進錄音室專輯的單曲</p></td>

@@ -26,7 +26,7 @@ OpenCL最初由[苹果公司开发](https://zh.wikipedia.org/wiki/苹果公司 "
   memobjs[1] = clCreateBuffer(context, CL_MEM_READ_WRITE, sizeof(float)*2*num_entries, NULL, NULL);
 
   // create the compute program
-  program = clCreateProgramWithSource(context, 1, &fft1D_1024_kernel_src, NULL, NULL）;
+  program = clCreateProgramWithSource(context, 1, &fft1D_1024_kernel_src, NULL, NULL);
 
   // build the compute program executable
   clBuildProgram(program, 0, NULL, NULL, NULL, NULL);
@@ -37,8 +37,8 @@ OpenCL最初由[苹果公司开发](https://zh.wikipedia.org/wiki/苹果公司 "
   // set the args values
   clSetKernelArg(kernel, 0, sizeof(cl_mem),(void *)&memobjs[0]);
   clSetKernelArg(kernel, 1, sizeof(cl_mem),(void *)&memobjs[1]);
-  clSetKernelArg(kernel, 2, sizeof(float)*(local_work_size[0]+1）*16, NULL);
-  clSetKernelArg(kernel, 3, sizeof(float)*(local_work_size[0]+1）*16, NULL);
+  clSetKernelArg(kernel, 2, sizeof(float)*(local_work_size[0]+1)*16, NULL);
+  clSetKernelArg(kernel, 3, sizeof(float)*(local_work_size[0]+1)*16, NULL);
 
   // create N-D range object with work-item dimensions and execute kernel
   global_work_size[0] = num_entries;
@@ -53,7 +53,7 @@ OpenCL最初由[苹果公司开发](https://zh.wikipedia.org/wiki/苹果公司 "
   // calls to a radix 16 function, another radix 16 function and then a radix 4 function
 
   __kernel void fft1D_1024(__global float2 *in, __global float2 *out,
-                          __local float *sMemx, __local float *sMemy）{
+                          __local float *sMemx, __local float *sMemy){
     int tid = get_local_id(0);
     int blockIdx = get_group_id(0) * 1024 + tid;
     float2 data[16];
@@ -70,7 +70,7 @@ OpenCL最初由[苹果公司开发](https://zh.wikipedia.org/wiki/苹果公司 "
     fftRadix16Pass(data);               // in-place radix-16 pass
     twiddleFactorMul(data, tid, 64, 4); // twiddle factor multiplication
 
-    localShuffle(data, sMemx, sMemy, tid, (((tid >> 4)* 64) +(tid & 15）));
+    localShuffle(data, sMemx, sMemy, tid, (((tid >> 4)* 64) +(tid & 15)));
 
     // four radix-4 function calls
     fftRadix4Pass(data);      // radix-4 function number 1

@@ -341,7 +341,7 @@
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>2019年7月31日－<br />
-2019年</p></td>
+2019年9月19日</p></td>
 <td style="text-align: center;"><p><a href="../Page/當惡魔呼喊你的名字時.md" title="wikilink">當惡魔呼喊你的名字時</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
@@ -351,7 +351,7 @@
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p>2019年9月－<br />
+<td style="text-align: center;"><p>2019年9月25日－<br />
 2019年</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/清日電子李小姐" title="wikilink">清日電子李小姐</a><br />
 </p></td>
@@ -364,7 +364,7 @@
 <tr class="even">
 <td style="text-align: center;"><p>2019年11月－<br />
 2019年</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/精神變態日記" title="wikilink">精神變態日記</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/精神病患者日記" title="wikilink">精神病患者日記</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/尹施允.md" title="wikilink">尹施允</a>、<a href="https://zh.wikipedia.org/wiki/鄭吝善" title="wikilink">鄭吝善</a></p></td>

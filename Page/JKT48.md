@@ -452,21 +452,6 @@ Team KIII在2013年6月25日成立。
 <td><p>4</p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td><p>Stefi</p></td>
-<td></td>
-<td><p>3期</p></td>
-<td><p>2019年9月10日<br />
-（再次昇格）</p></td>
-<td><p>前Team T（初代）<br />
-前Team KIII（Ratu）<br />
-2018年9月17日－10月15日至AKB48進行1個月短期交換留學[22][23]<br />
-前Team J（Shania→Gabriela）<br />
-2019年4月12日降格[24]<br />
-預定於2019年9月28日畢業[25]</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="even">
 <td><p><strong></strong></p></td>
 <td><p><strong>Yona</strong></p></td>
 <td></td>
@@ -478,7 +463,7 @@ JKT48最年長<br />
 預定畢業</p></td>
 <td><p>10</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Yessica Tamara</p></td>
 <td><p>Chika</p></td>
 <td></td>
@@ -487,7 +472,7 @@ JKT48最年長<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1036,14 +1021,14 @@ Kyla</p></td>
 <td><p>1期</p></td>
 <td><p>J</p></td>
 <td><p>2013年12月22日</p></td>
-<td><p>[26]</p></td>
+<td><p>[22]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
 <td><p><br />
 （Sonya Pandarmawan）</p></td>
 <td></td>
-<td><p>[27]<br />
+<td><p>[23]<br />
 印尼和台湾人混血兒<br />
 </p></td>
 <td><p>-</p></td>
@@ -1055,7 +1040,7 @@ Kyla</p></td>
 <td></td>
 <td></td>
 <td><p>2013年12月28日</p></td>
-<td><p>[28]</p></td>
+<td><p>[24]</p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -1066,7 +1051,7 @@ Kyla</p></td>
 <td><p>2期</p></td>
 <td><p>KIII</p></td>
 <td><p>2014年1月23日</p></td>
-<td><p>[29]</p></td>
+<td><p>[25]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -1075,7 +1060,7 @@ Kyla</p></td>
 <td><p>1期</p></td>
 <td><p>J</p></td>
 <td><p>2014年2月16日</p></td>
-<td><p>[30]</p></td>
+<td><p>[26]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -1096,7 +1081,7 @@ Kyla</p></td>
 （Rena Nozawa）</p></td>
 <td></td>
 <td><p>1期</p></td>
-<td><p>擁有日本國籍[31]<br />
+<td><p>擁有日本國籍[27]<br />
 现AKB48 Team 4<br />
 解除兼任</p></td>
 <td><p>-</p></td>
@@ -1117,7 +1102,7 @@ Kyla</p></td>
 <td></td>
 <td><p>2期</p></td>
 <td><p>KIII</p></td>
-<td><p>2015年2月27日[32]</p></td>
+<td><p>2015年2月27日[28]</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
@@ -1152,7 +1137,7 @@ Kyla</p></td>
 <td><p>Nina Hamidah</p></td>
 <td></td>
 <td><p>2016年2月1日</p></td>
-<td><p>[33]</p></td>
+<td><p>[29]</p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -1163,7 +1148,7 @@ Kyla</p></td>
 <td><p>1期</p></td>
 <td><p>J</p></td>
 <td><p>2016年3月18日</p></td>
-<td><p>[34]</p></td>
+<td><p>[30]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -1171,7 +1156,7 @@ Kyla</p></td>
 <td></td>
 <td><p>3期</p></td>
 <td><p>2016年4月3日</p></td>
-<td><p>[35]</p></td>
+<td><p>[31]</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
@@ -1180,7 +1165,7 @@ Kyla</p></td>
 <td></td>
 <td><p>T</p></td>
 <td><p>2016年4月22日</p></td>
-<td><p>[36]</p></td>
+<td><p>[32]</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
@@ -1226,7 +1211,7 @@ Kyla</p></td>
 <td><p>3期</p></td>
 <td><p>J</p></td>
 <td><p>2016年11月20日</p></td>
-<td><p>48集團首位撤回畢業宣言的成員[37]</p></td>
+<td><p>48集團首位撤回畢業宣言的成員[33]</p></td>
 <td><p>2</p></td>
 </tr>
 <tr class="even">
@@ -1293,7 +1278,7 @@ Kyla</p></td>
 <td></td>
 <td><p>4期</p></td>
 <td><p>T</p></td>
-<td><p>2017年10月21日[38]</p></td>
+<td><p>2017年10月21日[34]</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
@@ -1303,7 +1288,7 @@ Kyla</p></td>
 <td><p>1期</p></td>
 <td><p>J</p></td>
 <td><p>2017年10月31日</p></td>
-<td><p>[39]</p></td>
+<td><p>[35]</p></td>
 <td><p>6</p></td>
 </tr>
 <tr class="even">
@@ -1312,7 +1297,7 @@ Kyla</p></td>
 <td><p>5期</p></td>
 <td><p>T</p></td>
 <td><p>2017年11月1日</p></td>
-<td><p>解雇[40]</p></td>
+<td><p>解雇[36]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -1321,7 +1306,7 @@ Kyla</p></td>
 <td><p>4期</p></td>
 <td><p>研究生</p></td>
 <td><p>2017年12月7日</p></td>
-<td><p>[41]<br />
+<td><p>[37]<br />
 前Team T（Melody）</p></td>
 <td><p>-</p></td>
 </tr>
@@ -1341,7 +1326,7 @@ Kyla</p></td>
 <td><p>AKB48<br />
 5期</p></td>
 <td><p>KIII</p></td>
-<td><p>2018年3月25日[42][43]</p></td>
+<td><p>2018年3月25日[38][39]</p></td>
 <td><p><a href="../Page/伊藤公司.md" title="wikilink">伊藤公司</a>所屬<br />
 前AKB48 Team K（初代）<br />
 前AKB48 Team B（柏木）<br />
@@ -1375,7 +1360,7 @@ Kyla</p></td>
 <td><p>5期</p></td>
 <td><p>T</p></td>
 <td><p>2018年4月13日</p></td>
-<td><p>[44]</p></td>
+<td><p>[40]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -1433,7 +1418,7 @@ Kyla</p></td>
 <td><p>2期</p></td>
 <td><p>Class A</p></td>
 <td><p>2018年7月31日</p></td>
-<td><p>2018年6月7日降格[45]<br />
+<td><p>2018年6月7日降格[41]<br />
 前Team KIII<br />
 前Team J隊長（第3任）<br />
 請辭</p></td>
@@ -1446,7 +1431,7 @@ Kyla</p></td>
 <td><p>J</p></td>
 <td><p>2018年9月30日</p></td>
 <td><p>前Team KIII<br />
-當日畢業公演[46]</p></td>
+當日畢業公演[42]</p></td>
 <td><p>15</p></td>
 </tr>
 <tr class="even">
@@ -1457,7 +1442,7 @@ Kyla</p></td>
 選秀1期</p></td>
 <td><p>T</p></td>
 <td><p>2018年10月19日</p></td>
-<td><p>2018年9月15日起自AKB48 Team 4短期交換留學[47][48]</p></td>
+<td><p>2018年9月15日起自AKB48 Team 4短期交換留學[43][44]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -1466,7 +1451,7 @@ Kyla</p></td>
 <td><p>2期</p></td>
 <td><p>KIII</p></td>
 <td><p>2018年10月27日</p></td>
-<td><p>當日畢業公演[49]</p></td>
+<td><p>當日畢業公演[45]</p></td>
 <td><p>30</p></td>
 </tr>
 <tr class="even">
@@ -1475,7 +1460,7 @@ Kyla</p></td>
 <td><p>4期</p></td>
 <td><p>T</p></td>
 <td><p>2018年12月27日</p></td>
-<td><p>畢業[50]</p></td>
+<td><p>畢業[46]</p></td>
 <td><p>7</p></td>
 </tr>
 <tr class="odd">
@@ -1485,7 +1470,7 @@ Kyla</p></td>
 <td><p>J</p></td>
 <td><p>2018年12月29日</p></td>
 <td><p>前Team KIII<br />
-畢業[51]</p></td>
+畢業[47]</p></td>
 <td><p>11</p></td>
 </tr>
 <tr class="even">
@@ -1496,7 +1481,7 @@ Kyla</p></td>
 <td><p>妹妹是Sinka Juliani<br />
 前Team KIII队长（初代）<br />
 前Team J<br />
-畢業[52]</p></td>
+畢業[48]</p></td>
 <td><p>23</p></td>
 <td></td>
 </tr>
@@ -1507,7 +1492,7 @@ Kyla</p></td>
 <td><p>KIII</p></td>
 <td><p>2019年2月9日</p></td>
 <td><p>擁有日本血統<br />
-請辭[53]</p></td>
+請辭[49]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -1517,14 +1502,14 @@ Kyla</p></td>
 <td><p>J</p></td>
 <td><p>2019年3月31日</p></td>
 <td><p>前Team KIII<br />
-畢業[54]</p></td>
+畢業[50]</p></td>
 <td><p>27</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td></td>
 <td><p>前Team KIII<br />
-畢業[55]</p></td>
+畢業[51]</p></td>
 <td><p>9</p></td>
 <td></td>
 <td></td>
@@ -1538,7 +1523,7 @@ Kyla</p></td>
 <td><p>2019年4月23日</p></td>
 <td><p>2017年12月1日降格<br />
 前Team KIII（Ratu）<br />
-請辭[56]</p></td>
+請辭[52]</p></td>
 <td><p>17</p></td>
 </tr>
 <tr class="odd">
@@ -1549,7 +1534,7 @@ Kyla</p></td>
 <td><p>2019年4月28日</p></td>
 <td><p>前Team J 隊長（第2任）<br />
 前JKT48總隊長（第2任）<br />
-畢業[57]</p></td>
+畢業[53]</p></td>
 <td><p>4</p></td>
 </tr>
 <tr class="even">
@@ -1568,7 +1553,7 @@ Kyla</p></td>
 <td><p>J</p></td>
 <td><p>2019年7月27日</p></td>
 <td><p>前Team KIII（初代→Viviyona）<br />
-畢業[58]</p></td>
+畢業[54]</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
@@ -1577,10 +1562,24 @@ Kyla</p></td>
 <td><p>2期</p></td>
 <td><p>KIII</p></td>
 <td><p>2019年8月4日</p></td>
-<td><p>當日畢業公演[59]</p></td>
+<td><p>當日畢業公演[55]</p></td>
 <td><p>29</p></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td></td>
+<td><p>3期</p></td>
+<td><p>J</p></td>
+<td><p>2019年9月28日</p></td>
+<td><p>前Team T（初代）<br />
+前Team KIII（Ratu）<br />
+2018年9月17日－10月15日至AKB48進行1個月短期交換留學[56][57]<br />
+前Team J（Shania→Gabriela）<br />
+2019年4月12日降格[58]<br />
+當日畢業公演[59]</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -3045,6 +3044,14 @@ Class A Gabriel Angelina、Nabila Fitriana昇格至Team T</p></td>
 <td><p>48</p></td>
 <td><p>15</p></td>
 </tr>
+<tr class="odd">
+<td><p>9月13日</p></td>
+<td><p>Team J Stephanie Pricilla Indarto Putri畢業</p></td>
+<td><p>-1</p></td>
+<td><p>77</p></td>
+<td><p>47</p></td>
+<td><p>14</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -4077,25 +4084,26 @@ Music Card</p></td>
 21.
 
 22.
+
 23.
-
 24.
-
 25.
 
 26.
 
-27.
+27. [海外初ＡＫＢ姉妹グループ1期生28人合格](http://www.sanspo.com/geino/news/111103/gnj1111030501003-n1.htm) （サンケイスポーツ、2011年11月3日）2011年11月3日閲覧。
+
 28.
+
 29.
 
 30.
 
-31. [海外初ＡＫＢ姉妹グループ1期生28人合格](http://www.sanspo.com/geino/news/111103/gnj1111030501003-n1.htm) （サンケイスポーツ、2011年11月3日）2011年11月3日閲覧。
+31.
 
 32.
 
-33.
+33. 曾於2012年宣布畢業，但在宣布後數日即撤回宣言。
 
 34.
 
@@ -4103,7 +4111,7 @@ Music Card</p></td>
 
 36.
 
-37. 曾於2012年宣布畢業，但在宣布後數日即撤回宣言。
+37.
 
 38.
 
@@ -4116,29 +4124,28 @@ Music Card</p></td>
 42.
 
 43.
-
 44.
 
 45.
 
 46.
-
 47.
-48.
 
+48.
 49.
 
 50.
-51.
 
+51.
 52.
+
 53.
 
 54.
 
 55.
-56.
 
+56.
 57.
 
 58.

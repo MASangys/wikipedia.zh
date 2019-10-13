@@ -1,4 +1,4 @@
-**桃色幸運草Z**（，，又稱：****、****、**桃草**）是藝人事務所[星塵傳播](../Page/星塵傳播.md "wikilink")「STARDUST PLANET」於2008年組成的[日本](../Page/日本.md "wikilink")女子[偶像組合](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")，目前成員為[百田夏菜子](../Page/百田夏菜子.md "wikilink")、[玉井詩織](../Page/玉井詩織.md "wikilink")、[佐佐木彩夏](../Page/佐佐木彩夏.md "wikilink")、[高城蕾妮](../Page/高城蕾妮.md "wikilink")等4人，隊長為百田。團體風格與其他女子組合不同，偏向於搞怪風格。於2010年5月5日推出第一張主流市場單曲《[行動吧！怪盜少女](../Page/行動吧！怪盜少女.md "wikilink")》。2019年1月26日首次來台舉行演唱會。
+**桃色幸運草Z**（，，又稱：****、****、**桃草**）是藝人事務所[星塵傳播](../Page/星塵傳播.md "wikilink")「STARDUST PLANET」於2008年組成的[日本](../Page/日本.md "wikilink")女子[偶像組合](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")，目前成員為[百田夏菜子](../Page/百田夏菜子.md "wikilink")、[玉井詩織](../Page/玉井詩織.md "wikilink")、[佐佐木彩夏](../Page/佐佐木彩夏.md "wikilink")、[高城蕾妮](../Page/高城蕾妮.md "wikilink")等4人，隊長為百田。團體風格與其他女子組合不同，偏向於搞怪風格。於2010年5月5日推出第一張主流市場單曲《[行動吧！怪盜少女](../Page/行動吧！怪盜少女.md "wikilink")》。2019年1月26日首次來台舉行演唱會，並2019年成為日本人氣第三名女子[偶像組合](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")。
 
 ## 團體特色
 

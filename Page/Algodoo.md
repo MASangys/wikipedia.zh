@@ -18,7 +18,7 @@ Algodoo的作者Emil Ernerfeldt此前曾开发物理演算软件“Phun”，Phu
   - [齒輪工具](https://zh.wikipedia.org/wiki/齒輪 "wikilink") (G) - 用來畫有[軸承的齒輪的工具](https://zh.wikipedia.org/wiki/軸承 "wikilink")。
   - 矩形工具 (X) - 用來畫[矩形](../Page/矩形.md "wikilink")圖形。
   - 圓形工具 (C) - 用來畫出[圓形圖形](https://zh.wikipedia.org/wiki/圓形 "wikilink")。
-  - 平面工具 (A) - 用來製造[平面](../Page/平面.md "wikilink")。
+  - 平面工具 (A) - 用來製造[平面](../Page/平面_\(数学\).md "wikilink")。
   - 鍊條工具 (N) - 用來畫[鍊條和](https://zh.wikipedia.org/wiki/鍊條 "wikilink")[繩子](https://zh.wikipedia.org/wiki/繩子 "wikilink")。
   - 彈簧工具 (S) - 用彈簧來連接兩個圖形物體或一個圖形[物體和背景](https://zh.wikipedia.org/wiki/物體 "wikilink")。
   - 固定工具 (F) - 用來把一個物體連結到另一個物體或[背景](https://zh.wikipedia.org/wiki/背景 "wikilink")。

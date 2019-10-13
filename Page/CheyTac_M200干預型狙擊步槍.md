@@ -247,7 +247,7 @@ CheyTac M200干預型狙擊步槍同時出現在[电影](../Page/电影.md "wiki
   - —[CheyTac's Website](http://www.cheytac.com/)
 
       - [CheyTac's Official Website - CheyTac M200 Intervention](https://cheytac.com/product/m200-intervention/)
-      - [CheyTac's Official Website - CheyTac M300 Intervention (Carbon Fiber)](https://cheytac.com/product/m300-carbon-fiber/)
+      - [CheyTac's Official Website - CheyTac M300 Intervention (Carbon Fiber)](https://web.archive.org/web/20170517081635/http://cheytac.com/product/m300-carbon-fiber/)
       - [CheyTac's Official Website - CheyTac M300 Intervention (Composite)](https://cheytac.com/product/m300-intervention-composite/)
 
   - —[Modern Firearms—CheyTac Long Range Rifle System - Intervention sniper rifle](http://world.guns.ru/sniper/sniper-rifles/usa/cheytac-intervention-e.html)

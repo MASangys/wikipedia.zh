@@ -159,19 +159,19 @@
 
 ### 合作作曲家
 
-  - 쥰，[徐俊植](https://zh.wikipedia.org/wiki/徐俊植 "wikilink")，Seo Jun Sik，서준식，2018 - ，Cube作曲家。
-  - 후디니，[FCM Houdini(후디니)](https://zh.wikipedia.org/wiki/FCMHoudini "wikilink")，2018 - ，Cube作曲家。\[85\]\[86\]
-  - Shin Jae Bin ，Record and Mix engineer。\[87\]
+  - 쥰，[徐俊植](https://zh.wikipedia.org/wiki/徐俊植 "wikilink")，Seo Jun Sik，서준식，2018至今，現為Cube所屬作曲家。
+  - 후디니，[FCM Houdini(후디니)](https://zh.wikipedia.org/wiki/FCMHoudini "wikilink")，2018至今，現為Cube所屬作曲家。\[85\]\[86\]
+  - Shin Jae Bin ，現為Cube所屬Record and Mix engineer。\[87\]
   - 趙雅英 ，조아영，Compose/Midi Trainer。\[88\]
-  - [徐在宇](https://zh.wikipedia.org/wiki/徐在宇 "wikilink")，서재우，Seo Jae Woo，作曲家，2011 - 2018，現為[Tenten Producing Team成員](https://zh.wikipedia.org/wiki/Tenten_Producing_Team "wikilink")。\[89\]
+  - [徐在宇](https://zh.wikipedia.org/wiki/徐在宇 "wikilink")，서재우，Seo Jae Woo，2011至2018年期間，曾為Cube所屬作曲家，現為[Tenten Producing Team成員](https://zh.wikipedia.org/wiki/Tenten_Producing_Team "wikilink")。\[89\]
   - [徐龍裴](https://zh.wikipedia.org/wiki/徐龍裴 "wikilink")，Seo Yong Bae，서용배，[Tenten](https://zh.wikipedia.org/wiki/Tenten "wikilink") Producing Team成員。
   - [BreadBeat](https://zh.wikipedia.org/wiki/BreadBeat "wikilink") ，[Tenten](https://zh.wikipedia.org/wiki/Tenten "wikilink") Producing Team成員。
-  - [Bicksancho](https://zh.wikipedia.org/wiki/Bicksancho "wikilink")，[朴三楚](https://zh.wikipedia.org/wiki/朴三楚 "wikilink")，빅싼초，金泰浩，김태호，Kim Tae Ho，作曲家，2014 - 2018，現為[Yummy Tone Producing Team成員](https://zh.wikipedia.org/wiki/Yummy_Tone_Producing_Team "wikilink")。\[90\]\[91\] \[92\]
-  - [朴海日](../Page/朴海日.md "wikilink")，박해일，Park Hae Il，作曲家，現為[Yummy ToneProducing](https://zh.wikipedia.org/wiki/Yummy_Tone "wikilink") Team成員。\[93\]
-  - [Fredy](https://zh.wikipedia.org/wiki/Fredy "wikilink")，Choi Min Soo，作曲家，現為[MosPick Music Producing Group모스픽](https://zh.wikipedia.org/wiki/MosPick_Music_Producing_Group "wikilink") 成員。\[94\]\[95\]
-  - [Zerozine](https://zh.wikipedia.org/wiki/Zerozine "wikilink")，[孫英鎮](https://zh.wikipedia.org/wiki/孫英鎮 "wikilink")，손영진，Son Young Jin，作曲家，2012 - 2018，現為[MosPickMusic](https://zh.wikipedia.org/wiki/MosPick "wikilink") Producing Group 成員。\[96\]
-  - [Yeahnice](https://zh.wikipedia.org/wiki/Yeahnice "wikilink")，예아나이스， [趙成昊](https://zh.wikipedia.org/wiki/趙成昊 "wikilink")， 조성호，Jo Sung Ho，作曲家，現為[MosPick](https://zh.wikipedia.org/wiki/MosPick "wikilink") Music Producing Group 成員。\[97\]
-  - [Jayjay](https://zh.wikipedia.org/wiki/Jayjay "wikilink")，[姜東河](https://zh.wikipedia.org/wiki/姜東河 "wikilink")，강동하，Kang Dong Ha，作曲家，現為[MosPick](https://zh.wikipedia.org/wiki/MosPick "wikilink") Music Producing Group 成員。\[98\]
+  - [Bicksancho](https://zh.wikipedia.org/wiki/Bicksancho "wikilink")，[朴三楚](https://zh.wikipedia.org/wiki/朴三楚 "wikilink")，빅싼초，金泰浩，김태호，Kim Tae Ho，2014至2018年期間，曾為Cube所屬作曲家，現為[Yummy Tone Producing Team成員](https://zh.wikipedia.org/wiki/Yummy_Tone_Producing_Team "wikilink")。\[90\]\[91\] \[92\]
+  - [朴海日](../Page/朴海日.md "wikilink")，박해일，Park Hae Il，曾為Cube所屬作曲家，現為[Yummy ToneProducing](https://zh.wikipedia.org/wiki/Yummy_Tone "wikilink") Team成員。\[93\]
+  - [Fredy](https://zh.wikipedia.org/wiki/Fredy "wikilink")，Choi Min Soo，曾為Cube所屬作曲家，現為[MosPick Music Producing Group모스픽](https://zh.wikipedia.org/wiki/MosPick_Music_Producing_Group "wikilink") 成員。\[94\]\[95\]
+  - [Zerozine](https://zh.wikipedia.org/wiki/Zerozine "wikilink")，[孫英鎮](https://zh.wikipedia.org/wiki/孫英鎮 "wikilink")，손영진，Son Young Jin，2012至2018年期間，曾為Cube所屬作曲家，現為[MosPickMusic](https://zh.wikipedia.org/wiki/MosPick "wikilink") Producing Group 成員。\[96\]
+  - [Yeahnice](https://zh.wikipedia.org/wiki/Yeahnice "wikilink")，예아나이스， [趙成昊](https://zh.wikipedia.org/wiki/趙成昊 "wikilink")， 조성호，Jo Sung Ho，曾為Cube所屬作曲家，現為[MosPick](https://zh.wikipedia.org/wiki/MosPick "wikilink") Music Producing Group 成員。\[97\]
+  - [Jayjay](https://zh.wikipedia.org/wiki/Jayjay "wikilink")，[姜東河](https://zh.wikipedia.org/wiki/姜東河 "wikilink")，강동하，Kang Dong Ha，曾為Cube所屬作曲家，現為[MosPick](https://zh.wikipedia.org/wiki/MosPick "wikilink") Music Producing Group 成員。\[98\]
 
 ## 所屬藝人
 
@@ -293,25 +293,26 @@
 <!-- end list -->
 
   - [陳學冬](../Page/陳學冬.md "wikilink")（演員）
+  - 張楊
+  - 李演成
   - [宰孝](../Page/宰孝.md "wikilink")（[Block B](../Page/Block_B.md "wikilink")）
-  - 趙達沅（VARSITY）
-  - [鄭秀彬](../Page/VICTON.md "wikilink")（[VICTON](../Page/VICTON.md "wikilink")）
-  - 申在勳（[Under dog](../Page/Under_dog.md "wikilink")）
   - [瑄友](../Page/少年共和國.md "wikilink")（[少年共和國](../Page/少年共和國.md "wikilink")）
   - [T.K](../Page/C-CLOWN.md "wikilink")（[C-CLOWN](../Page/C-CLOWN.md "wikilink")）
   - [秦奮](../Page/THE_LEGEND.md "wikilink")（[THE LEGEND](../Page/THE_LEGEND.md "wikilink")、 《[偶像練習生](https://zh.wikipedia.org/wiki/偶像練習生 "wikilink")》）
   - [Lito](../Page/THE_LEGEND.md "wikilink")（[THE LEGEND](../Page/THE_LEGEND.md "wikilink")）
   - [劉在赫](../Page/THE_LEGEND.md "wikilink")（[THE LEGEND](../Page/THE_LEGEND.md "wikilink")）
   - [李昌宣](../Page/THE_LEGEND.md "wikilink")（[THE LEGEND](../Page/THE_LEGEND.md "wikilink")）
-  - [金昇勳](../Page/金昇勳.md "wikilink")（《[YG寶石盒](../Page/YG寶石盒.md "wikilink")》、[CIX](../Page/CIX.md "wikilink")）
-  - [崔連準](../Page/崔延俊.md "wikilink")（[TXT](../Page/TXT_\(組合\).md "wikilink")）
+  - 趙達沅（VARSITY）
+  - 申在勳（[Under dog](../Page/Under_dog.md "wikilink")）
+  - [鄭秀彬](../Page/VICTON.md "wikilink")（[VICTON](../Page/VICTON.md "wikilink")）
   - [李希侃](../Page/李希侃.md "wikilink")（《[偶像練習生](https://zh.wikipedia.org/wiki/偶像練習生 "wikilink")》）\[126\]
   - \-{余}-明君（《[偶像練習生](https://zh.wikipedia.org/wiki/偶像練習生 "wikilink")》）\[127\]\[128\]
   - 朴泰正（《[看見你的聲音 第4季](https://zh.wikipedia.org/wiki/看見你的聲音 "wikilink")》）\[129\]
-  - 李演成
-  - 張楊
+  - [金昇勳](../Page/金昇勳.md "wikilink")（《[YG寶石盒](../Page/YG寶石盒.md "wikilink")》、[CIX](../Page/CIX.md "wikilink")）
+  - [崔連準](../Page/崔延俊.md "wikilink")（[TXT](../Page/TXT_\(組合\).md "wikilink")）
   - 鄭容斌，JYB（公開練習生）\[130\]
   - [趙旴燦](../Page/趙旴燦.md "wikilink")（童星，公開練習生，[SMTM6](https://zh.wikipedia.org/wiki/SMTM6 "wikilink")）
+  - [勇訓](https://zh.wikipedia.org/wiki/ONEWE "wikilink")（[ONEWE](https://zh.wikipedia.org/wiki/ONEWE "wikilink")）
 
 <!-- end list -->
 
@@ -644,10 +645,10 @@ CUBE TV，節目有[BTOB](../Page/BTOB.md "wikilink")的《BTOB SHOW》、[CLC](
 6.  [CUBE推出第一組藝人是2AM，洪勝成著《聚光燈點亮之前》](http://www.zongyishow.com/YuLe/ZongYi/62074/)2016年7月14日
 7.  [CUBE 即將開設線上專賣店](http://kpopn.niusnews.com/=K2yqssu3)2012-1-14
 8.  [Cube Studio 的開幕儀式](http://kpopn.niusnews.com/=K0aam3n9)2012-04-11
-9.  [CUBE 與 iHQ 結盟](http://kpopn.niusnews.com/=K279q6y2)2013-09-18
+9.  [CUBE 與 iHQ 結盟](http://kpopn.niusnews.com/=K279q6y2) 2013-09-18
 10. [Cube Entertainment Joins Forces With iHQ, Vies For \#1 Spot In K-Pop Industry](http://www.kpopstarz.com/articles/41771/20130917/cube-entertainment-ihq-join-forces.htm)2013-09-17
 11. [비스트 소속사 큐브엔터 품은 iHQ 정훈탁의 속내는?](http://sports.chosun.com/news/ntype.htm?id=201310020100007200000140&servicedate=20131001)2013-10-01
-12. [Cube, iHQ 與中國公司結盟](http://kpopn.niusnews.com/=K1yxdx69)2014-07-16
+12. [Cube, iHQ 與中國公司結盟](http://kpopn.niusnews.com/=K1yxdx69) 2014-07-16
 13. [CUBE 與 CUBE DC 合併](http://kpopn.niusnews.com/=K267y6u3) 2014-08-27
 14. [Rain東家Cube娛樂科斯達克上市](http://www.koreastardaily.com/tc/news/53486)2014-12-24
 15. [Cube娛樂股票上市 旗下藝人出席上市儀式](http://www.allthatstar.com/tw/view.php?action=5205&postID=64653)2015-04-09
@@ -692,7 +693,7 @@ CUBE TV，節目有[BTOB](../Page/BTOB.md "wikilink")的《BTOB SHOW》、[CLC](
 54. [Cube Entertainment Welcomes New CEO](https://www.soompi.com/2016/12/27/cube-entertainment-welcomes-new-ceo) 2016-12-27
 55. [洪日華副社長](https://twitter.com/e061101)
 56. [CUBE ENTERTAINMENT JAPAN株式会社 代表取締役社長](http://cubeent.jp/company/)
-57. [辛知勳與 Starline Entertainment 簽約](http://kpopn.niusnews.com/=K31f2i83)2016-05-21
+57. [辛知勳與 Starline Entertainment 簽約](http://kpopn.niusnews.com/=K31f2i83) 2016-05-21
 58. [金亨圭 新人開發部理事](https://www.instagram.com/akaidr16)
 59. [Arirang Special M60 Ep 248 K-pop: the core contents of the creative economy](https://www.youtube.com/watch?v=0dNTWWRKG0w)2014年7月29日
 60. [PENTAGON MAKER EP 4 Panel of Judges](https://www.youtube.com/watch?v=DnNBpuuw5-I)2016年5月23日
@@ -753,7 +754,7 @@ CUBE TV，節目有[BTOB](../Page/BTOB.md "wikilink")的《BTOB SHOW》、[CLC](
 115. [CUBE 新人吳藝璃新曲 MV](http://kpopn.niusnews.com/=K01t2w00)2013-11-07
 116. [Rain 決定不與 CUBE 續約](http://kpopn.niusnews.com/=K266d762)2015-09-07
 117. [G.Na 與 CUBE 合約到期，不續約](http://kpopn.niusnews.com/=K1rl4xn2)2016-03-31
-118. [誰加入 CUBE 家族?值得期待](http://kpopn.niusnews.com/=K08fk311)2011-06-16
+118. [誰加入 CUBE 家族?值得期待](http://kpopn.niusnews.com/=K08fk311) 2011-06-16
 119. [辛知勳表示已退出Cube](https://www.youtube.com/watch?v=7VPsRj9lWfo)2017-08-02
 120. [龍俊亨MV中新人女演員與CUBE娛樂簽約](http://news.yule.com.cn/html/201312/158732.html)2013-12-30
 121. [童星演員朴敏荷加入CUBE](http://kpopn.niusnews.com/=K0gkh812)2015-08-29
@@ -802,7 +803,7 @@ CUBE TV，節目有[BTOB](../Page/BTOB.md "wikilink")的《BTOB SHOW》、[CLC](
 164. [Cube 成立子公司 Cube DC](http://kpopn.niusnews.com/=K1lvlol2) 2012-03-14
 165. [CUBE併購子公司　Rain─BEAST一家親](http://www.koreastardaily.com/tc/news/46821) 2014-08-27
 166. [‘U-CUBE’ 홍승성 회장 “큐브 설립 10주년, 글로벌 기업으로 나아가겠다”](http://m.newsen.com/news_view.php?uid=201811231204170710)2018-11-23
-167. [辛知勳與 Starline Entertainment 簽約](http://kpopn.niusnews.com/=K31f2i83)2016-05-21
+167. [辛知勳與 Starline Entertainment 簽約](http://kpopn.niusnews.com/=K31f2i83) 2016-05-21
 168. [소규모 합병 공고](http://www.cubeent.co.kr/ir_04/3894864) 2017-5-12
 169. [합병 종료 보고 공고](http://www.cubeent.co.kr/ir_04/3895632) 2017-7-18
 170. [회사합병 결정](http://kind.krx.co.kr/common/disclsviewer.do?method=search&acptno=20170511000643&docno=&viewerhost=&viewerport=) 2017-5-11

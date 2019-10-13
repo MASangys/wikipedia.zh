@@ -3289,7 +3289,7 @@ MV[60]</p></td>
   - 2011年9月2日：[StageTV](https://zh.wikipedia.org/wiki/StageTV "wikilink") 《[毒舌前戲(33)—C ALLSTAR真心話](http://www.youtube.com/watch?v=0ZMXfOP4Tek&feature=youtu.be)》
   - 2011年9月21日：東方日報 《[C AllStar × 健吾 夢想摘星](http://orientaldaily.on.cc/cnt/lifestyle/20110921/00322_001.html)》
   - 2011年10月20日：[优酷娱乐](https://zh.wikipedia.org/wiki/优酷娱乐 "wikilink") 《[优酷娱乐播报 2011 10月C ALLSTAR 专访 111020](http://v.youku.com/v_show/id_XMzE0NDU0ODMy.html)》
-  - 2011年10月21日：[新浪網](https://zh.wikipedia.org/wiki/新浪網 "wikilink") 《[C All Star邀粉絲2013維園見](http://ent.sina.com.hk/news/2/4/1/687727/1.html)》
+  - 2011年10月21日：[新浪網](https://zh.wikipedia.org/wiki/新浪網 "wikilink") 《[C All Star邀粉絲2013維園見](https://web.archive.org/web/20150420031053/http://ent.sina.com.hk/news/2/4/1/687727/1.html)》
   - 2011年10月21日：東方日報 《[On仔護士生涯 難忘「打包」](http://orientaldaily.on.cc/cnt/entertainment/20111021/00282_066.html)》
 
 ## 參考資料

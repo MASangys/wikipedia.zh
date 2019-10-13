@@ -88,4 +88,4 @@
   - [上海アリス幻樂団](http://www16.big.or.jp/~zun/)
   - [Amusement Makers（旧）公式サイト](https://www.webcitation.org/654TL2n6o?url=http://www.kt.rim.or.jp/~aotaka/am/index.htm)
 
-[Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink") [Category:1996年电子游戏](https://zh.wikipedia.org/wiki/Category:1996年电子游戏 "wikilink") [Category:休闲游戏](https://zh.wikipedia.org/wiki/Category:休闲游戏 "wikilink") [Category:女主人公電子遊戲](https://zh.wikipedia.org/wiki/Category:女主人公電子遊戲 "wikilink") [Category:PC-9801游戏](https://zh.wikipedia.org/wiki/Category:PC-9801游戏 "wikilink")
+[Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink") [Category:1996年电子游戏](https://zh.wikipedia.org/wiki/Category:1996年电子游戏 "wikilink") [Category:休闲游戏](https://zh.wikipedia.org/wiki/Category:休闲游戏 "wikilink") [Category:女主人公電子遊戲](https://zh.wikipedia.org/wiki/Category:女主人公電子遊戲 "wikilink") [Category:PC-9801游戏](https://zh.wikipedia.org/wiki/Category:PC-9801游戏 "wikilink") [Category:打磚塊](https://zh.wikipedia.org/wiki/Category:打磚塊 "wikilink")

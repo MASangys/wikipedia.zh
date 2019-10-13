@@ -10,7 +10,7 @@
 
 此化合物显反磁性，无未成对电子。遇水立即歧化。
 
-它的结构复杂，含类似于乙烷的Cd<sub>2</sub>Cl<sub>6</sub>单元，与AlCl<sub>4</sub>共顶点，Cd-Cd键长257.6 pm\[5\] 或256.1pm\[6\]。
+它的结构复杂，含类似于乙烷的Cd<sub>2</sub>Cl<sub>6</sub>单元，与AlCl<sub>4</sub>共[顶点](../Page/頂點_\(幾何\).md "wikilink")，Cd-Cd键长257.6 pm\[5\] 或256.1pm\[6\]。
 
 [Cadmium(I)-tetrachloroaluminate-xtal-1987-Cd-coordination-CM-3D-ellipsoids.png](https://zh.wikipedia.org/wiki/File:Cadmium\(I\)-tetrachloroaluminate-xtal-1987-Cd-coordination-CM-3D-ellipsoids.png "fig:Cadmium(I)-tetrachloroaluminate-xtal-1987-Cd-coordination-CM-3D-ellipsoids.png")
 

@@ -580,7 +580,7 @@ ZE xxxx00</p></td>
 
 ## 车辆配属概况
 
-截至2019年9月，总共已有101组CRH6系列动车组列车出厂，编号分别0002、0003、4002、4003、4502、0401～0443、0445～0467、0601～0623、0625、4132～4137。
+截至2019年9月，总共已有104组CRH6系列动车组列车出厂，编号分别0002、0003、4002、4003、4502、0401～0443、0445～0470、0601～0623、0625、4132～4137。
 
 <table>
 <thead>
@@ -775,6 +775,14 @@ ZE xxxx00</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>3</p></td>
+<td><p>0468～0470</p></td>
+<td><p>平山客整所</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/广州局集团" title="wikilink">广州局集团</a></p></td>
 <td><p>6</p></td>
 <td><p>0445～0450</p></td>
@@ -782,7 +790,7 @@ ZE xxxx00</p></td>
 <td><p><a href="../Page/长株潭城际铁路.md" title="wikilink">长株潭城际铁路</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>7</p></td>
 <td><p>0461～0467</p></td>
 <td><p>海口城際</p></td>
@@ -791,7 +799,7 @@ ZE xxxx00</p></td>
 0465~0467分别被命名为「椰子樹号、三角梅号、水菜花号」[35]</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -799,7 +807,7 @@ ZE xxxx00</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>colspan = 6 | <font color=white><strong>CRH6S（140km/h）</strong></font></p></td>
 <td></td>
 <td></td>

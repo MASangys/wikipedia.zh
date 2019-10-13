@@ -1,4 +1,4 @@
-**Haha**（；），本名**河東勳**（），[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[雷鬼](https://zh.wikipedia.org/wiki/雷鬼 "wikilink")[歌手](../Page/歌手.md "wikilink")、[演員](../Page/演員.md "wikilink")及[主持人](https://zh.wikipedia.org/wiki/主持人 "wikilink")，現多半以節目主持身份活躍於演藝界。Haha為其英文名兼暱稱，因為他的姓氏「河」在韓語中讀作ha，故演藝圈稱其為「河河」，也叫「哈哈」, Running Man成員。
+**Haha**（；），本名**河東勳**（），[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[雷鬼](https://zh.wikipedia.org/wiki/雷鬼 "wikilink")[歌手](../Page/歌手.md "wikilink")、[演員](../Page/演員.md "wikilink")及[主持人](https://zh.wikipedia.org/wiki/主持人 "wikilink")，現多半以節目主持身份活躍於演藝界。Haha為其英文名兼暱稱，因為他的姓氏「河」在韓語中讀作ha，故演藝圈稱其為「河河」，也叫「哈哈」。
 
 ## 經歷
 
@@ -140,6 +140,11 @@ Haha於1997年曾嘗試以嘻哈歌手出道\[1\]，後出身於嘻哈組合，2
 <td><p>2018年3月5日－至今</p></td>
 <td><p>網路節目Vlive</p></td>
 <td><p>《Big Picture2》</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年9月9日</p></td>
+<td><p><a href="../Page/Channel_A.md" title="wikilink">Channel A</a></p></td>
+<td><p>《<a href="../Page/Eye_Contact.md" title="wikilink">Eye Contact</a>》</p></td>
 </tr>
 </tbody>
 </table>

@@ -26,7 +26,7 @@ AutoYaST是一個全自動系統，不需要使用者管控，即可用來安裝
   - [YaST at Novell](http://developer.novell.com/wiki/index.php/YaST)
   - [YaST, AutoYast and ZENworks Linux Management](http://www.novell.com/products/desktop/features/autoyast.html)
 
-[Category:自由软件包管理系统](https://zh.wikipedia.org/wiki/Category:自由软件包管理系统 "wikilink") [Category:Linux软件包管理相关软件](https://zh.wikipedia.org/wiki/Category:Linux软件包管理相关软件 "wikilink") [Category:Linux软件包管理系统图形前端](https://zh.wikipedia.org/wiki/Category:Linux软件包管理系统图形前端 "wikilink") [Category:SUSE_Linux](https://zh.wikipedia.org/wiki/Category:SUSE_Linux "wikilink") [Category:Unix设置工具](https://zh.wikipedia.org/wiki/Category:Unix设置工具 "wikilink") [Category:用Ruby编程的自由软件](https://zh.wikipedia.org/wiki/Category:用Ruby编程的自由软件 "wikilink") [Category:1996年软件](https://zh.wikipedia.org/wiki/Category:1996年软件 "wikilink") [Category:使用ncurses的软件](https://zh.wikipedia.org/wiki/Category:使用ncurses的软件 "wikilink")
+[Category:自由软件包管理系统](https://zh.wikipedia.org/wiki/Category:自由软件包管理系统 "wikilink") [Category:Linux软件包管理相关软件](https://zh.wikipedia.org/wiki/Category:Linux软件包管理相关软件 "wikilink") [Category:SUSE_Linux](https://zh.wikipedia.org/wiki/Category:SUSE_Linux "wikilink") [Category:用Ruby编程的自由软件](https://zh.wikipedia.org/wiki/Category:用Ruby编程的自由软件 "wikilink") [Category:1996年软件](https://zh.wikipedia.org/wiki/Category:1996年软件 "wikilink") [Category:使用ncurses的软件](https://zh.wikipedia.org/wiki/Category:使用ncurses的软件 "wikilink")
 
 1.
 2.

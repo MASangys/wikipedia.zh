@@ -1,26 +1,12 @@
-《**Touch of Love**》，是[香港](../Page/香港.md "wikilink")歌手[张学友](../Page/张学友.md "wikilink")發行第一张英文专辑，此專輯當時受到廣泛觀眾的歡迎。
+《**Touch of Love**》是[香港](../Page/香港.md "wikilink")歌手[张学友](../Page/张学友.md "wikilink")的第一張英文專輯，唱片製作人[歐丁玉](../Page/歐丁玉.md "wikilink")，由[上華唱片](../Page/上華唱片.md "wikilink")製作並於2000年12月19日發行，此張專輯發行時受到廣泛觀眾的歡迎。
 
 ## 介绍
 
 本張專輯的主打歌曲是《Lost Christmas》，以紀念[聖誕節](https://zh.wikipedia.org/wiki/聖誕節 "wikilink")\[1\]。但《Corazon de Melao》這首歌曲引起了華語音樂界的廣泛追捧\[2\]，以及之後大量歌手的翻唱和重新演繹\[3\]。
-本張專輯中的《歡聚歡笑每一刻 Every Time A Good Time》由張學友本人作詞；《一路上》(國語版)、《捉迷藏》(粵語版)由張學友本人作曲。另外，專輯中的粵語歌曲《一生一火花》為重點主打歌曲之一。
+
+本張專輯收錄了十首英語歌曲、二首國語歌曲和二首粵語歌曲，《歡聚歡笑每一刻 Every Time A Good Time》由張學友本人作詞；《一路上》(國語版)、《捉迷藏》(粵語版)由張學友本人作曲。專輯中的粵語歌曲《一生一火花》為本張專輯重點主打歌曲之一。
 
 ## 曲目
-
-1.  Corazon de Melao
-2.  Lost Christmas
-3.  This Time Next Year
-4.  And Then She Hit Me
-5.  I Got It Made
-6.  Speak Without Words
-7.  All I Ask
-8.  For My Broken Heart
-9.  Never Go Down
-10. Touch of Love
-11. 欢聚欢笑每一刻 Every Time a Good Time
-12. 一路上
-13. 一生一火花
-14. 捉迷藏
 
 ## 獎項
 

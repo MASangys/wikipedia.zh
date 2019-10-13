@@ -2,7 +2,7 @@
 
 ## 設計細節
 
-SIG SG 553是[SIG SG 552的改進型](../Page/SIG_SG_552卡賓槍.md "wikilink")，並且在2009年推出。雖然SIG SG 553和SG 552一樣，裝有摺疊[槍托](../Page/槍托.md "wikilink")，接近9英吋的[槍管](../Page/槍管.md "wikilink")、[扳機護圈亦可翻開以便](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")[手套](../Page/手套.md "wikilink")時操作、同樣使用改良自[AK-47的導氣系统](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")，SG 553卻是經過不少的改進。
+SIG SG 553是[SIG SG 552的改進型](../Page/SIG_SG_552卡賓槍.md "wikilink")，並且在2009年推出。雖然SIG SG 553和SG 552一樣，裝有摺疊[槍托](../Page/槍托.md "wikilink")，接近9英吋的[槍管](../Page/槍管.md "wikilink")、[扳機護環亦可翻開以便](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")[手套](../Page/手套.md "wikilink")時操作、同樣使用改良自[AK-47的導氣系统](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")，SG 553卻是經過不少的改進。
 
 ### 操作系統
 

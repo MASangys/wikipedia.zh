@@ -15,7 +15,7 @@ Bullet的主要作者为Erwin Coumans，曾經就職於[索尼電腦娛樂美國
   - [ArmyRage](https://zh.wikipedia.org/wiki/ArmyRage "wikilink")
   - [俠盜獵車手IV](../Page/俠盜獵車手IV.md "wikilink")
   - [荒野大镖客](https://zh.wikipedia.org/wiki/荒野大镖客 "wikilink")
-  - [特技摩托](https://zh.wikipedia.org/wiki/特技摩托 "wikilink")
+  - [特技摩托賽系列](https://zh.wikipedia.org/wiki/特技摩托賽系列 "wikilink")
   - [无敌风火轮赛车：第五战队](https://zh.wikipedia.org/wiki/无敌风火轮赛车：第五战队 "wikilink")
   - [马达加斯加赛车](https://zh.wikipedia.org/wiki/马达加斯加赛车 "wikilink")
   - [彩色之旅](https://zh.wikipedia.org/wiki/彩色之旅 "wikilink")

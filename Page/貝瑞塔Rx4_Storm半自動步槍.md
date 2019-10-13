@@ -2,7 +2,7 @@
 
 ## 詳情
 
-貝瑞塔Rx4 Storm是一枝使用了[氣動式操作與](../Page/氣動式_\(槍械\).md "wikilink")[轉拴式槍栓](../Page/轉拴式槍栓.md "wikilink")的[半自動步槍](https://zh.wikipedia.org/wiki/半自動步槍 "wikilink")，並且採用了原為[伯奈利](../Page/伯奈利.md "wikilink")[专利](../Page/专利.md "wikilink")的「[自動調節氣動式操作](https://zh.wikipedia.org/wiki/自動調節氣動式操作 "wikilink")」（，簡稱：ARGO）系統。這枝步槍使用[STANAG彈匣](../Page/STANAG彈匣.md "wikilink")供彈，並可以選配固定式[槍托](../Page/槍托.md "wikilink")或可調節式槍托。貝瑞塔Rx4 Storm與[Px4 Storm](../Page/貝瑞塔Px4_Storm手槍.md "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")、[Cx4 Storm](../Page/貝瑞塔Cx4_Storm卡賓槍.md "wikilink")[卡賓槍等都是](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")“風暴”（）系列槍族的武器，但與上述槍械並沒有任何可以共用的操作系統或部件。這種武器只有在半自動模式下操作，並沒有[選擇射擊功能或是其他Rx](https://zh.wikipedia.org/wiki/選射槍械 "wikilink")4卡賓槍[全自動型版本的計劃](https://zh.wikipedia.org/wiki/全自動槍械 "wikilink")，因為貝瑞塔方面已經研發了一款完全不同的新世代[突击步枪](../Page/突击步枪.md "wikilink")，並且命名為[貝瑞塔ARX-160](../Page/貝瑞塔ARX-160突擊步槍.md "wikilink")。另一方面，貝瑞塔Rx4 Storm在當初的定位並非為此，因此貝瑞塔Rx4 Storm目前並不會給[軍隊所使用](../Page/武装力量.md "wikilink")，不過它的其中一款衍生型（12.5 英寸槍管“戰術型”和5段式伸縮槍托的版本）目前已經主要定位是用作“巡邏卡賓槍”，並且可以給[警察](../Page/警察.md "wikilink")組織和[私人保安公司所採用](https://zh.wikipedia.org/wiki/私人保安公司 "wikilink")。
+貝瑞塔Rx4 Storm是一枝使用了[氣動式操作與](../Page/氣動式_\(槍械\).md "wikilink")[轉拴式槍栓](../Page/轉拴式槍栓.md "wikilink")的[半自動步槍](https://zh.wikipedia.org/wiki/半自動步槍 "wikilink")，並且採用了原為[伯奈利](../Page/伯奈利.md "wikilink")[专利](../Page/专利.md "wikilink")的「[自動調節氣動式操作](https://zh.wikipedia.org/wiki/自動調節氣動式操作 "wikilink")」（，簡稱：ARGO）系統。這枝步槍使用[STANAG彈匣](../Page/STANAG彈匣.md "wikilink")供彈，並可以選配固定式[槍托](../Page/槍托.md "wikilink")或可調節式槍托。貝瑞塔Rx4 Storm與[Px4 Storm](../Page/貝瑞塔Px4_Storm半自動手槍.md "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")、[Cx4 Storm](../Page/貝瑞塔Cx4_Storm卡賓槍.md "wikilink")[卡賓槍等都是](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")“風暴”（）系列槍族的武器，但與上述槍械並沒有任何可以共用的操作系統或部件。這種武器只有在半自動模式下操作，並沒有[選擇射擊功能或是其他Rx](https://zh.wikipedia.org/wiki/選射槍械 "wikilink")4卡賓槍[全自動型版本的計劃](https://zh.wikipedia.org/wiki/全自動槍械 "wikilink")，因為貝瑞塔方面已經研發了一款完全不同的新世代[突击步枪](../Page/突击步枪.md "wikilink")，並且命名為[貝瑞塔ARX-160](../Page/貝瑞塔ARX-160突擊步槍.md "wikilink")。另一方面，貝瑞塔Rx4 Storm在當初的定位並非為此，因此貝瑞塔Rx4 Storm目前並不會給[軍隊所使用](../Page/武装力量.md "wikilink")，不過它的其中一款衍生型（12.5 英寸槍管“戰術型”和5段式伸縮槍托的版本）目前已經主要定位是用作“巡邏卡賓槍”，並且可以給[警察](../Page/警察.md "wikilink")組織和[私人保安公司所採用](https://zh.wikipedia.org/wiki/私人保安公司 "wikilink")。
 
 ## 生產廠商
 
@@ -33,7 +33,7 @@
 ## 參見
 
   - [貝瑞塔產品列表](../Page/貝瑞塔產品列表.md "wikilink")
-  - [貝瑞塔Px4 Storm](../Page/貝瑞塔Px4_Storm手槍.md "wikilink")，[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")／[9×21毫米IMI](https://zh.wikipedia.org/wiki/9×21_IMI "wikilink")、[.40 S\&W](../Page/.40_S&W.md "wikilink")、[.45 ACP](../Page/.45_ACP.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")
+  - [貝瑞塔Px4 Storm](../Page/貝瑞塔Px4_Storm半自動手槍.md "wikilink")，[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")／[9×21毫米IMI](https://zh.wikipedia.org/wiki/9×21_IMI "wikilink")、[.40 S\&W](../Page/.40_S&W.md "wikilink")、[.45 ACP](../Page/.45_ACP.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")
   - [貝瑞塔Cx4 Storm](../Page/貝瑞塔Cx4_Storm卡賓槍.md "wikilink")，[半自動手槍](../Page/半自動手槍.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[卡賓槍](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")
   - [貝瑞塔Tx4 Storm](../Page/貝瑞塔Tx4_Storm半自動霰彈槍.md "wikilink")，[12鉛徑](../Page/散彈.md "wikilink")[半自動霰彈槍](https://zh.wikipedia.org/wiki/半自動霰彈槍 "wikilink")
   - [貝瑞塔Mx4 Storm](../Page/貝瑞塔Mx4_Storm衝鋒槍.md "wikilink")，貝瑞塔Cx4 Storm的短槍管全自動型版本

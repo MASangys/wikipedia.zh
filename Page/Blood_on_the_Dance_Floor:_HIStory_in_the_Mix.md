@@ -11,7 +11,7 @@
 
 ## 外部链接
 
-  - [Blood On The Dance Floor](http://www.michaeljackson.com/us/music/blood-dance-floor-history-mix)
+  - [Blood On The Dance Floor](https://web.archive.org/web/20140217081727/http://www.michaeljackson.com/us/music/blood-dance-floor-history-mix)
 
 [Category:混音专辑](https://zh.wikipedia.org/wiki/Category:混音专辑 "wikilink") [Category:麥可·傑克森音樂專輯](https://zh.wikipedia.org/wiki/Category:麥可·傑克森音樂專輯 "wikilink") [Category:1997年音樂專輯](https://zh.wikipedia.org/wiki/Category:1997年音樂專輯 "wikilink")
 

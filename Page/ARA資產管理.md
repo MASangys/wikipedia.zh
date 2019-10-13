@@ -32,7 +32,9 @@
 
   - [ARA-Asia.com](http://www.ara-asia.com)
 
-[Category:新加坡公司](https://zh.wikipedia.org/wiki/Category:新加坡公司 "wikilink") [Category:長地集團](https://zh.wikipedia.org/wiki/Category:長地集團 "wikilink") [Category:基金公司](https://zh.wikipedia.org/wiki/Category:基金公司 "wikilink") [Category:2002年成立的公司](https://zh.wikipedia.org/wiki/Category:2002年成立的公司 "wikilink")
+[Category:新加坡公司](https://zh.wikipedia.org/wiki/Category:新加坡公司 "wikilink") [Category:基金公司](https://zh.wikipedia.org/wiki/Category:基金公司 "wikilink") [Category:2002年成立的公司](https://zh.wikipedia.org/wiki/Category:2002年成立的公司 "wikilink")
+
+[Category:長江實業集團](https://zh.wikipedia.org/wiki/Category:長江實業集團 "wikilink")
 
 1.  [ARA 資產管理集團架構](http://www.ara-asia.com/home/corp/GroupStructure.html)
 2.  [長實資產管理ARA 周五星洲上市 文匯報 2007-10-28](http://paper.wenweipo.com/2007/10/28/FI0710280009.htm)
