@@ -68,7 +68,7 @@
 | [鐘鉉](https://zh.wikipedia.org/wiki/金鐘鉉_\(歌手\) "wikilink") | 종현                | Jonghyun     | 金鐘鉉     |
 | [Krystal](../Page/鄭秀晶.md "wikilink")                      | 크리스탈              | Krystal      | 鄭秀晶     |
 | 크리스탈 수 정                                                  | Chrystal Soo Jung |              |         |
-| [Chen](https://zh.wikipedia.org/wiki/金鍾大 "wikilink")      | 첸                 | Chen         | 金鍾大     |
+| [Chen](../Page/CHEN_\(EXO\).md "wikilink")                | 첸                 | Chen         | 金鍾大     |
 |                                                           |                   |              |         |
 
 ## 音樂作品

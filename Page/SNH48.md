@@ -266,7 +266,7 @@ SNH48 Group除了SNH48以及其姐妹團外，另外也成立了多項組成計�
       - SNH48 Group第六届年度金曲大賞BEST 50将于2019年12月21日在[廣州體育館举行](https://zh.wikipedia.org/wiki/廣州體育館 "wikilink")；
       - 通过[SNH48 Group第五届年度金曲大賞BEST 50投票产生的七人小组合](https://zh.wikipedia.org/wiki/SNH48_Group第五届年度金曲大賞BEST_50 "wikilink")「DeMOON」正式出道；
       - 丝芭传媒携手[腾讯视频](../Page/腾讯视频.md "wikilink")、企鹅影视、七灵石动画共同出品的国产偶像动画《无限少女48》将于年底推出；
-      - 丝芭传媒宣布SNH48 Group将携手[爱奇艺](../Page/爱奇艺.md "wikilink")合作，选拔SNH48 Group部分成员参与于2020年第一季度播出的《[青春有你第二季](https://zh.wikipedia.org/wiki/青春有你_\(第二季\) "wikilink")》。
+      - 丝芭传媒宣布SNH48 Group将携手[爱奇艺](../Page/爱奇艺.md "wikilink")合作，选拔SNH48 Group部分成员参与于2020年第一季度播出的《[青春有你第二季](../Page/青春有你_\(第二季\).md "wikilink")》。
   - 9月12-13日，Team HII成员李艺彤在[SNH48星梦剧院举办的](https://zh.wikipedia.org/wiki/SNH48星梦剧院 "wikilink")“你好！李艺彤”毕业公演后正式晋升SNH48 Group明星殿堂。
   - 9月14日，于六周年庆公演上发表以下事项：
       - 公布4名升格为正式成员的十二期生。
@@ -279,7 +279,7 @@ SNH48 Group除了SNH48以及其姐妹團外，另外也成立了多項組成計�
 #### Team SII（S队）
 
   - 代表色為淺藍色（R=161, G=213, B=237）。
-  - 成员24人。
+  - 成员22人。
   - 現任队长为钱蓓婷，副隊長为戴萌。
 
 | Team SII                                                    |
@@ -294,7 +294,7 @@ SNH48 Group除了SNH48以及其姐妹團外，另外也成立了多項組成計�
 | [孔肖吟](../Page/孔肖吟.md "wikilink")                            |
 | [李宇琪](../Page/李宇琪.md "wikilink")                            |
 | 刘丽千                                                         |
-| [劉增艷](https://zh.wikipedia.org/wiki/劉增艷 "wikilink")         |
+| [劉增艷](../Page/劉增艷.md "wikilink")                            |
 | [莫寒](../Page/莫寒.md "wikilink")                              |
 | **钱蓓婷**                                                     |
 | [邱欣怡](../Page/邱欣怡.md "wikilink")                            |
@@ -304,16 +304,14 @@ SNH48 Group除了SNH48以及其姐妹團外，另外也成立了多項組成計�
 | [吴哲晗](../Page/吴哲晗.md "wikilink")                            |
 | 徐晨辰                                                         |
 | [许佳琪](../Page/许佳琪.md "wikilink")                            |
-| 徐子轩                                                         |
 | 袁丹妮                                                         |
 | 袁雨桢                                                         |
-| 朱小丹                                                         |
 | [张语格](../Page/张语格.md "wikilink")                            |
 
 #### Team NII（N队）
 
   - 代表色為紫色（R=190, G=152, B=199）。
-  - 成员22人。
+  - 成员20人。
   - 現任队长为易嘉愛，副隊長為何曉玉 。
 
 | Team NII                                                    |
@@ -326,8 +324,6 @@ SNH48 Group除了SNH48以及其姐妹團外，另外也成立了多項組成計�
 | 金莹玥                                                         |
 | 江真仪                                                         |
 | 刘洁                                                          |
-| 栾嘉仪                                                         |
-| 李美琪                                                         |
 | [陆婷](https://zh.wikipedia.org/wiki/陸婷_\(SNH48\) "wikilink") |
 | 盧天惠                                                         |
 | 马凡                                                          |
@@ -335,17 +331,17 @@ SNH48 Group除了SNH48以及其姐妹團外，另外也成立了多項組成計�
 | 谢妮                                                          |
 | **[易嘉爱](https://zh.wikipedia.org/wiki/易嘉爱 "wikilink")**     |
 | 颜沁                                                          |
-| [趙佳蕊](https://zh.wikipedia.org/wiki/趙佳蕊 "wikilink")         |
+| 趙佳蕊                                                         |
 | 周诗雨                                                         |
 | 张茜                                                          |
 | [赵粤](https://zh.wikipedia.org/wiki/赵粤 "wikilink")           |
-| [张怡](https://zh.wikipedia.org/wiki/张怡_\(SNH48\) "wikilink") |
+| 张怡                                                          |
 | 张雨鑫                                                         |
 
 #### Team HII（H队）
 
   - 代表色為柑橘色（R=248, G=148, B=29）。
-  - 成员23人。
+  - 成员22人。
   - 現任隊長為萬麗娜，副隊長為張昕。
 
 | Team HII                                                |
@@ -370,7 +366,6 @@ SNH48 Group除了SNH48以及其姐妹團外，另外也成立了多項組成計�
 | **[万丽娜](https://zh.wikipedia.org/wiki/万丽娜 "wikilink")** |
 | 王欣颜甜甜                                                   |
 | 王奕                                                      |
-| 徐晗                                                      |
 | [许杨玉琢](https://zh.wikipedia.org/wiki/许杨玉琢 "wikilink")   |
 | 袁一琦                                                     |
 | 张昕                                                      |
@@ -429,13 +424,17 @@ SNH48 Group除了SNH48以及其姐妹團外，另外也成立了多項組成計�
 | --------------------------------------------------- |
 | 暂休                                                  |
 | 姓名                                                  |
+| 徐子轩                                                 |
 | 杨令仪                                                 |
 | 赵韩倩                                                 |
 | [赵嘉敏](https://zh.wikipedia.org/wiki/赵嘉敏 "wikilink") |
+| 朱小丹                                                 |
 | 赵晔                                                  |
 | 陈问言                                                 |
 | [龚诗淇](../Page/龚诗淇.md "wikilink")                    |
 | 郝婉晴                                                 |
+| 栾嘉仪                                                 |
+| 李美琪                                                 |
 | 刘佩鑫                                                 |
 | [唐安琪](../Page/唐安琪.md "wikilink")                    |
 | 陶波尔                                                 |
@@ -443,6 +442,7 @@ SNH48 Group除了SNH48以及其姐妹團外，另外也成立了多項組成計�
 | 周怡                                                  |
 | [曾艷芬](https://zh.wikipedia.org/wiki/曾艷芬 "wikilink") |
 | 张雅梦                                                 |
+| 徐晗                                                  |
 | 袁航                                                  |
 | 曾晓雯                                                 |
 | 李晶                                                  |
@@ -559,7 +559,7 @@ SNH48 Group除了SNH48以及其姐妹團外，另外也成立了多項組成計�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>汤敏</p></td>
+<td><p><a href="../Page/汤敏.md" title="wikilink">汤敏</a></p></td>
 <td></td>
 <td></td>
 <td><p>1期</p></td>
@@ -2564,6 +2564,14 @@ Team X高崇进修结束，并加入SNH48 Group海外练习生<br />
 <td><p>132</p></td>
 <td><p>90</p></td>
 <td><p>24</p></td>
+</tr>
+<tr class="odd">
+<td><p>9月27日</p></td>
+<td><p>Team SII徐子轩、朱小丹，Team NII李美琪、栾嘉仪，Team HII徐晗暂休</p></td>
+<td></td>
+<td><p>132</p></td>
+<td><p>85</p></td>
+<td><p>22</p></td>
 </tr>
 </tbody>
 </table>
@@ -4584,11 +4592,23 @@ SNH11102399</p></td>
 </tr>
 <tr class="even">
 <td><p>25</p></td>
-<td><p>2019年9月XX日</p></td>
+<td><p>2019年9月21日<br />
+2019年9月21日<br />
+2019年9月23日<br />
+2019年10月8日</p></td>
 <td><p>《<strong><a href="https://zh.wikipedia.org/wiki/SNH48原創發行作品列表#时间的歌" title="wikilink">時間的歌</a></strong>》</p></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>CD<br />
+无<br />
+CD+DVD<br />
+CD</p></td>
+<td><p>SNH11102592<br />
+SNH11102592<br />
+SNH11102595<br />
+待查</p></td>
+<td><p>标准A版（时间的歌版本）<br />
+捐赠版<br />
+精装版<br />
+标准B版（勇不勇敢版本）</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -4874,7 +4894,7 @@ SNH000662</p></td>
 <tr class="odd">
 <td><p>2015年9月8日</p></td>
 <td><p>《<strong>释FUN不安分</strong>》</p></td>
-<td><p>2015 TOP 16</p></td>
+<td><p>2015 TOP16（赵嘉敏、鞠婧祎、李艺彤、黄婷婷、张语格、万丽娜、李宇琪、易嘉爱、曾艳芬、陆婷、赵粤、冯薪朵、莫寒、邱欣怡、戴萌、孔肖吟）</p></td>
 <td><p>趙嘉敏</p></td>
 <td><p>《上古世纪》主題曲</p></td>
 </tr>
@@ -4924,7 +4944,7 @@ SNH000662</p></td>
 <tr class="even">
 <td><p>2016年7月1日</p></td>
 <td><p>《<strong>早安夢幻島</strong>》</p></td>
-<td><p>Team X</p></td>
+<td><p>Team X（邵雪聪、宋昕冉、张丹三、杨韫玉、李钊、陈琳、孙歆文、闫明筠、王束、李晶、冯晓菲、杨冰怡、张韵雯、王佳翎）</p></td>
 <td><p>邵雪聰</p></td>
 <td><p>《超能太陽鴨》主題曲</p></td>
 </tr>
@@ -4988,7 +5008,7 @@ SNH000662</p></td>
 <tr class="odd">
 <td><p>2017年7月29日</p></td>
 <td><p>《<strong>我心翱翔</strong>》</p></td>
-<td><p>SNH48、BEJ48、GNZ48、SHY48</p></td>
+<td><p>鞠婧祎、李艺彤、黄婷婷、曾艳芬、冯薪朵、莫寒、陆婷、张语格、赵粤、邱欣怡、许佳琪、戴萌、林思意、万丽娜、刘炅然、张丹三</p></td>
 <td><p>鞠婧祎</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/SNH48_Group第四屆總選舉" title="wikilink">SNH48 Group第四屆總選舉主題曲</a></p></td>
 </tr>
@@ -5119,9 +5139,9 @@ SNH000662</p></td>
 <tr class="odd">
 <td><p>2019年4月2日</p></td>
 <td><p>《<strong>加油女孩</strong>》（Everybody Go）</p></td>
-<td><p>SNH48、BEJ48、GNZ48偶像运动会参与成员</p></td>
+<td><p>黄婷婷、冯薪朵、陆婷、莫寒、赵粤、许佳琪、戴萌、钱蓓婷、谢蕾蕾、吴哲晗、孔肖吟、苏杉杉、段艺璇、张语格</p></td>
 <td><p>黄婷婷</p></td>
-<td><p>SNH48 Group第二届偶像运动会主题曲</p></td>
+<td><p>「SNH48 Group第二届偶像运动会」主题曲</p></td>
 </tr>
 <tr class="even">
 <td><p>2019年9月9日</p></td>
@@ -5556,7 +5576,7 @@ SNH000662</p></td>
 年度金曲第一名（Unit曲第一名）</p></td>
 </tr>
 <tr class="even">
-<td><p>未发行</p></td>
+<td><p>2019年9月28日</p></td>
 <td><p>《<strong>笨</strong>》</p></td>
 <td><p>BEJ48 Team B</p></td>
 <td><p>段艺璇</p></td>
@@ -6542,7 +6562,7 @@ Team NII专场</p></td>
 | -- | ------------------------------------------------------------------------- | --------------- | --------------------------------------------------------------- | -- |
 | 1  | [專屬派對](../Page/Team_NII_5th_Stage「專屬派對」公演.md "wikilink")                  | 2016年10月26日、27日 | [BEJ48星梦剧院](https://zh.wikipedia.org/wiki/BEJ48星梦剧院 "wikilink") | 2場 |
 | 2  | [時之卷](https://zh.wikipedia.org/wiki/Team_NII_7th_Stage「時之卷」公演 "wikilink") | 2019年6月9日       | [BEJ48星梦剧院](https://zh.wikipedia.org/wiki/BEJ48星梦剧院 "wikilink") | 1場 |
-| 3  | [時之卷](https://zh.wikipedia.org/wiki/Team_NII_7th_Stage「時之卷」公演 "wikilink") | 2019年9月21日      | [安徽新华学院](../Page/安徽新华学院.md "wikilink")                          | 1場 |
+| 3  | [時之卷](https://zh.wikipedia.org/wiki/Team_NII_7th_Stage「時之卷」公演 "wikilink") | 2019年9月21日      | [安徽新华学院](../Page/安徽新华学院.md "wikilink")大礼堂                       | 1場 |
 
   - Team HII
 

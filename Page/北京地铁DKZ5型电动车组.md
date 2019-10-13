@@ -68,7 +68,7 @@ Image:北京城鐵(13線)列車.jpg|H413号列车在[西直门站](https://zh.wi
 
 ### 第1部分
 
-列车从[长春轨道客车出发](https://zh.wikipedia.org/wiki/长春轨道客车 "wikilink")，经[哈大铁路](https://zh.wikipedia.org/wiki/哈大铁路 "wikilink")、[沈山铁路](../Page/沈山铁路.md "wikilink")、[京秦铁路](../Page/京秦铁路.md "wikilink")、[北京铁路东北环线到达](https://zh.wikipedia.org/wiki/北京铁路东北环线 "wikilink")[黄土店站](../Page/黄土店站.md "wikilink")，之后通过联络线，进入[13号线](../Page/北京地铁13号线.md "wikilink")[回龙观站](https://zh.wikipedia.org/wiki/回龙观站 "wikilink")，再通过[霍营站后](https://zh.wikipedia.org/wiki/霍营站 "wikilink")，到达[回龙观车辆段](https://zh.wikipedia.org/wiki/回龙观车辆段 "wikilink")。此后的[DKZ6型](../Page/北京地铁DKZ6型电动车组.md "wikilink")、[DKZ10型也是通过这种途径运送而来](../Page/北京地铁DKZ10型电动车组.md "wikilink")。
+列车从[长春轨道客车出发](https://zh.wikipedia.org/wiki/长春轨道客车 "wikilink")，经[哈大铁路](../Page/哈大铁路.md "wikilink")、[沈山铁路](../Page/沈山铁路.md "wikilink")、[京秦铁路](../Page/京秦铁路.md "wikilink")、[北京铁路东北环线到达](https://zh.wikipedia.org/wiki/北京铁路东北环线 "wikilink")[黄土店站](../Page/黄土店站.md "wikilink")，之后通过联络线，进入[13号线](../Page/北京地铁13号线.md "wikilink")[回龙观站](https://zh.wikipedia.org/wiki/回龙观站 "wikilink")，再通过[霍营站后](https://zh.wikipedia.org/wiki/霍营站 "wikilink")，到达[回龙观车辆段](https://zh.wikipedia.org/wiki/回龙观车辆段 "wikilink")。此后的[DKZ6型](../Page/北京地铁DKZ6型电动车组.md "wikilink")、[DKZ10型也是通过这种途径运送而来](../Page/北京地铁DKZ10型电动车组.md "wikilink")。
 
 ### 第2部分
 

@@ -38,13 +38,13 @@ CPU设计计划大致上有这些主要工作:
 
   - 程序员可见[指令集](https://zh.wikipedia.org/wiki/指令集 "wikilink"), 各种[微架构的实现](https://zh.wikipedia.org/wiki/微架构 "wikilink")
   - 在[ANSI C](../Page/ANSI_C.md "wikilink")/[C++](../Page/C++.md "wikilink")或者[SystemC](../Page/SystemC.md "wikilink")的体系研究和性能建模
-  - [高级综合](../Page/高级综合.md "wikilink") (HLS) 或 [RTL](https://zh.wikipedia.org/wiki/寄存器传输层 "wikilink") (例如逻辑) 执行
-  - RTL 验证
+  - [高级综合](../Page/高级综合.md "wikilink") (HLS) 或 [RTL](https://zh.wikipedia.org/wiki/暫存器傳遞語言 "wikilink") (例如逻辑) 执行
+  - [RTL](https://zh.wikipedia.org/wiki/暫存器傳遞語言 "wikilink") 验证
   - 关键速度相关部件（缓存、寄存器、算数逻辑单元）[电路设计](https://zh.wikipedia.org/wiki/电路设计 "wikilink")
   - [逻辑综合](../Page/逻辑综合.md "wikilink") 或逻辑门层设计
   - 进行[时序分析](../Page/静态时序分析.md "wikilink") 以确认所有逻辑和电路将以特定频率运行
   - [物理设计](https://zh.wikipedia.org/wiki/物理设计 "wikilink")，包括[布局](../Page/布局_\(集成电路\).md "wikilink")、[布线](https://zh.wikipedia.org/wiki/布线_\(集成电路\) "wikilink")、[版图设计](../Page/集成电路版图.md "wikilink")
-  - 检查 RTL，逻辑门层，晶体管层及物理层表示相符
+  - 检查 [RTL](https://zh.wikipedia.org/wiki/暫存器傳遞語言 "wikilink")，逻辑门层，晶体管层及物理层表示相符
   - 检查 [信号完整性](../Page/信号完整性.md "wikilink")，[芯片可制造性](../Page/设计规则检查.md "wikilink")
 
 通过重新设计CPU核心，来获得更小的裸片面积，有助于实现以上目标中的几个。

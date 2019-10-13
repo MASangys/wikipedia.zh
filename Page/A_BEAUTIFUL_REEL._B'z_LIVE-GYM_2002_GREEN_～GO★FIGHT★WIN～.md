@@ -46,7 +46,7 @@
 7.  **[Blue Sunshine](https://zh.wikipedia.org/wiki/GREEN_\(B'z專輯\)#收錄曲 "wikilink")**
       -
         稻葉用[原聲吉他](../Page/原聲吉他.md "wikilink")自彈自唱。由靜岡公演的彩排音源揭開序幕，切換到本篇的現場演奏。
-8.  **[恋歌](https://zh.wikipedia.org/wiki/華_\(松本孝弘專輯\)#收錄曲 "wikilink")**
+8.  ****
       -
         松本的吉他獨奏（[器樂曲](https://zh.wikipedia.org/wiki/器樂 "wikilink")）。在電視牆上播放了[PV](https://zh.wikipedia.org/wiki/PV "wikilink")，舞台後方登場了巨大的組裝龍。
 9.  **[恋心 (KOI-GOKORO)](https://zh.wikipedia.org/wiki/ZERO_\(B'z單曲\)#收錄曲 "wikilink")**

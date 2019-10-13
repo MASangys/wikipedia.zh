@@ -14,7 +14,7 @@
     J01AA09 [罗利环素](https://zh.wikipedia.org/wiki/罗利环素 "wikilink")（Rolitetracycline）
     J01AA10 [青哌环素](../Page/青哌环素.md "wikilink")（Penimepicycline）
     J01AA11 [氯莫环素](../Page/氯莫环素.md "wikilink")（Clomocycline）
-    J01AA12 [替加环素](https://zh.wikipedia.org/wiki/替加环素 "wikilink")（Tigecycline）
+    J01AA12 [替加环素](../Page/替加环素.md "wikilink")（Tigecycline）
     J01AA20 四环素的复方（Combinations of tetracyclines）
     QJ01AA53 金霉素，复方（Chlortetracycline, combinations）
     J01AA56 土霉素，复方（Oxytetracycline, combinations）
@@ -149,7 +149,7 @@
     J01DD09 [头孢地秦](https://zh.wikipedia.org/wiki/头孢地秦 "wikilink")（Cefodizime）
     J01DD10 [头孢他美](../Page/头孢他美.md "wikilink")（Cefetamet）
     J01DD11 [头孢匹胺](../Page/头孢匹胺.md "wikilink")（头孢吡四唑）（Cefpiramide）
-    J01DD12 [头孢哌酮](https://zh.wikipedia.org/wiki/头孢哌酮 "wikilink")（Cefoperazone）
+    J01DD12 [头孢哌酮](../Page/头孢哌酮.md "wikilink")（Cefoperazone）
     J01DD13 [头孢泊肟](https://zh.wikipedia.org/wiki/头孢泊肟 "wikilink")（Cefpodoxime）
     J01DD14 [头孢布烯](../Page/头孢布烯.md "wikilink")（头孢布坦, 先力腾, 头孢噻腾）（Ceftibuten）
     J01DD15 [头孢地尼](../Page/头孢地尼.md "wikilink")（Cefdinir）
