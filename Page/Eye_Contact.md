@@ -65,7 +65,7 @@
 <tr class="even">
 <td><p>8</p></td>
 <td><p>9月23日</p></td>
-<td></td>
+<td><p><a href="../Page/神童_(藝人).md" title="wikilink">神童</a>、<a href="../Page/黃石正.md" title="wikilink">黃石正</a>、、金鬥英</p></td>
 <td></td>
 </tr>
 <tr class="odd">

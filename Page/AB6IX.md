@@ -91,6 +91,30 @@ AB6IX的打招呼方式為一邊講「Salute\!大家好\!我們是AB6IX\!」（�
 </tbody>
 </table>
 
+### 正規專輯
+
+<table>
+<thead>
+<tr class="header">
+<th><p>'''專輯 '''</p></th>
+<th><p><strong>專輯資料</strong></p></th>
+<th><p><strong>曲目</strong></p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><strong>1st</strong></p></td>
+<td><p><strong>《6IXENSE》</strong></p>
+<ul>
+<li>發行日期 ：2019年10月7日</li>
+<li>語言：韓語</li>
+<li>銷量：</li>
+</ul></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ## 影視作品
 
 ### 專屬綜藝節目
@@ -213,6 +237,13 @@ AB6IX的打招呼方式為一邊講「Salute\!大家好\!我們是AB6IX\!」（�
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>2019年10月17日</p></td>
+<td><p>Olive tv</p></td>
+<td><p>Idol social dining(試播節目)</p></td>
+<td><p>田雄</p></td>
+<td><p>EP1</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -226,7 +257,7 @@ AB6IX的打招呼方式為一邊講「Salute\!大家好\!我們是AB6IX\!」（�
 
 | 日期         | |頻道                                                 | |節目名稱                                                                       | |集數 | 出演成員 |
 | ---------- | --------------------------------------------------- | --------------------------------------------------------------------------- | --- | ---- |
-| 2019年10月 日 | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") | [延南洞Global House](https://zh.wikipedia.org/wiki/延南洞Global_House "wikilink") | 全集  | 大輝   |
+| 2019年10月 日 | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") | [延南洞Global House](https://zh.wikipedia.org/wiki/延南洞Global_House "wikilink") | 全集  | 李大輝  |
 |            |                                                     |                                                                             |     |      |
 
 ### 電台
@@ -271,6 +302,13 @@ AB6IX的打招呼方式為一邊講「Salute\!大家好\!我們是AB6IX\!」（�
 <td><p>全員</p></td>
 </tr>
 <tr class="odd">
+<td><p>2019年7月28日</p></td>
+<td><p>EBS Radio</p></td>
+<td><p>idol book</p></td>
+<td><p>1集</p></td>
+<td><p>金東賢</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -297,6 +335,7 @@ AB6IX的打招呼方式為一邊講「Salute\!大家好\!我們是AB6IX\!」（�
 | 日期         | 國家 | 活動名稱                                 |
 | ---------- | -- | ------------------------------------ |
 | 2019/05/22 | 韓國 | AB6IX 1ST EP \[B:COMPLETE\] SHOWCASE |
+| 2019/10/07 | 韓國 | AB6IX 1ST album \[6IXENSE\] SHOWCASE |
 
 ### 官方粉絲見面會
 
@@ -304,7 +343,7 @@ AB6IX的打招呼方式為一邊講「Salute\!大家好\!我們是AB6IX\!」（�
 
 | 日期            | 城市  | 舉辦地點               |
 | ------------- | --- | ------------------ |
-| 2019/07/13、14 | 首爾  | 首爾綜合運動場            |
+| 2019/07/13、14 | 首爾  | 首爾蠶室室內體育館          |
 | 2019/07/21    | 東京  | Toyosu PIT         |
 | 2019/07/27    | 新加坡 | 星爍藝術表演中心           |
 | 2019/08/10    | 台北  | 國立體育大學綜合體育館（林口體育館） |

@@ -1,4 +1,4 @@
-**Gremlin**是[Apache软件基金会](../Page/Apache软件基金会.md "wikilink")下的Apache TinkerPop开发的[图遍历语言和](https://zh.wikipedia.org/wiki/图遍历 "wikilink")[虚拟机](https://zh.wikipedia.org/wiki/虚拟机 "wikilink")。Gremlin适用于基于[OLTP的图数据库以及基于](https://zh.wikipedia.org/wiki/OLTP "wikilink")[OLAP的图处理器](https://zh.wikipedia.org/wiki/OLAP "wikilink")。Gremlin的[函数式语言和](https://zh.wikipedia.org/wiki/函数式语言 "wikilink")[自动机基础使Gremlin能够自然地支持](https://zh.wikipedia.org/wiki/自动机 "wikilink")[命令式和](https://zh.wikipedia.org/wiki/命令式程式設計 "wikilink")[声明式查询](https://zh.wikipedia.org/wiki/声明式编程 "wikilink")、主机语言不可知性、用户定义的[领域特定语言](https://zh.wikipedia.org/wiki/领域特定语言 "wikilink")、可扩展的编译器/优化器、单机和多机运行模型、混合深度和广度优先评估以及[图灵完备性](https://zh.wikipedia.org/wiki/图灵完备性 "wikilink")。\[1\]
+**Gremlin**是[Apache软件基金会](../Page/Apache软件基金会.md "wikilink")下的Apache TinkerPop开发的[图遍历语言和](https://zh.wikipedia.org/wiki/图遍历 "wikilink")[虚拟机](https://zh.wikipedia.org/wiki/虚拟机 "wikilink")。Gremlin适用于基于[OLTP的图数据库以及基于](https://zh.wikipedia.org/wiki/OLTP "wikilink")[OLAP的图处理器](https://zh.wikipedia.org/wiki/OLAP "wikilink")。Gremlin的[函数式语言和](https://zh.wikipedia.org/wiki/函数式语言 "wikilink")[自动机基础使Gremlin能够自然地支持](https://zh.wikipedia.org/wiki/自动机 "wikilink")[命令式和](https://zh.wikipedia.org/wiki/命令式程式設計 "wikilink")[声明式查询](https://zh.wikipedia.org/wiki/声明式编程 "wikilink")、主机语言不可知性、用户定义的[领域特定语言](../Page/领域特定语言.md "wikilink")、可扩展的编译器/优化器、单机和多机运行模型、混合深度和广度优先评估以及[图灵完备性](https://zh.wikipedia.org/wiki/图灵完备性 "wikilink")。\[1\]
 
 作为一个解释性的类比，Apache TinkerPop和Gremlin之于[图数据库](../Page/图数据库.md "wikilink")，就如同[JDBC和](https://zh.wikipedia.org/wiki/JDBC "wikilink")[SQL](../Page/SQL.md "wikilink")之于[关系型数据库](https://zh.wikipedia.org/wiki/关系型数据库 "wikilink")。 同样，Gremlin遍历机与图计算的关系也类似于为[Java虚拟机](../Page/Java虚拟机.md "wikilink")与通用计算之间的关系。\[2\]
 
@@ -44,9 +44,9 @@ movie--category-->category
 
 ### 简单遍历
 
-|   |                                     |   |
-| - | ----------------------------------- | - |
-| " | 对于图中的每个顶点，从其标签出发，然后对每个不同的标签进行分组和计数。 | " |
+|   |                                                                        |   |
+| - | ---------------------------------------------------------------------- | - |
+| " | 对于图中的每个[顶点](../Page/顶点_\(图论\).md "wikilink")，从其标签出发，然后对每个不同的标签进行分组和计数。 | " |
 
 ``` groovy
 gremlin> g.V().label().groupCount()

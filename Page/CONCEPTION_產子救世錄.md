@@ -344,7 +344,7 @@ Cho Yongjoo</p></td>
   - [《CONCEPTION 產子救世錄》電視動畫官方網站](http://conception-anime.com/)
 
   -
-  - [《CONCEPTION 產子救世錄》遊戲官方網站](http://www.spike-chunsoft.co.jp/conception//)
+  - [《CONCEPTION 產子救世錄》遊戲官方網站](https://web.archive.org/web/20181013001728/http://www.spike-chunsoft.co.jp/conception/)
 
   - [《CONCEPTION PLUS產子救世錄》遊戲官方網站](https://www.spike-chunsoft.co.jp/conception_plus///)
 

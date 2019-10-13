@@ -1,4 +1,4 @@
-**《Future Pop》**是日本[流行電音組合](https://zh.wikipedia.org/wiki/流行電音 "wikilink")[Perfume第七張](https://zh.wikipedia.org/wiki/Perfume "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，於2018年8月15日發行\[1\]。唱片公司為[Perfume Records/Universal J](https://zh.wikipedia.org/wiki/環球唱片#日本環球音樂 "wikilink")。
+**《Future Pop》**是日本[流行電音組合](https://zh.wikipedia.org/wiki/流行電音 "wikilink")[Perfume第七張原创](https://zh.wikipedia.org/wiki/Perfume "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，於2018年8月15日發行\[1\]。唱片公司為[Perfume Records/Universal J](https://zh.wikipedia.org/wiki/環球唱片#日本環球音樂 "wikilink")。
 
 ## 概要
 
@@ -13,7 +13,7 @@
 
 ### CD
 
-### Blu-ray Disc/DVD
+### Blu-ray/DVD
 
   - 6 - 10僅收錄於完全生産限定盤。
 

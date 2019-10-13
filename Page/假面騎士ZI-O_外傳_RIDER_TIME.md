@@ -109,10 +109,10 @@ RIDER TIME</p></td>
   -
     **假面騎士ZI-O**的變身者。
 
-****（飾，大陆配音：[刘明月](https://zh.wikipedia.org/wiki/刘明月 "wikilink")）
+****（飾）
 
   -
-    **假面騎士Geiz**的變身者，與秋山蓮外貌相似。
+    **假面騎士Geiz**的變身者，與秋山蓮外貌相似。\[3\]
 
 ****（[萩野崇饰](https://zh.wikipedia.org/wiki/萩野崇 "wikilink")）
 
@@ -222,7 +222,7 @@ RIDER TIME</p></td>
 
 ### 樂曲
 
-「Go\!Now\! 〜Alive A life neo〜」\[3\]
+「Go\!Now\! 〜Alive A life neo〜」\[4\]
 
 ## 製作人員
 
@@ -245,4 +245,5 @@ RIDER TIME</p></td>
 
 1.
 2.
-3.
+3.  事實上與[松田悟志](../Page/松田悟志.md "wikilink")外貌及其相似。
+4.

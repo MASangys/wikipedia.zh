@@ -59,7 +59,7 @@ Python语言的语法示例：
 
 ### C++
 
-C ++没有直接支持列表推导的任何语言特性，但[运算符重载](../Page/运算符重载.md "wikilink")（例如，重载|，\>\>，\>\> =）已成功用于为“嵌入式”查询[领域特定语言提供表达式语法](https://zh.wikipedia.org/wiki/领域特定语言 "wikilink")。 或者，可以使用[erase-remove idiom来构造列表推导以选择容器中的元素](https://zh.wikipedia.org/wiki/erase-remove_idiom "wikilink")，并使用STL算法for_each来转换它们。
+C ++没有直接支持列表推导的任何语言特性，但[运算符重载](../Page/运算符重载.md "wikilink")（例如，重载|，\>\>，\>\> =）已成功用于为“嵌入式”查询[领域特定语言](../Page/领域特定语言.md "wikilink")提供表达式语法。 或者，可以使用[erase-remove idiom来构造列表推导以选择容器中的元素](https://zh.wikipedia.org/wiki/erase-remove_idiom "wikilink")，并使用STL算法for_each来转换它们。
 
 ``` cpp
 #include <algorithm>

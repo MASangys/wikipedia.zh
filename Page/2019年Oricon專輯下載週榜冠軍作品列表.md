@@ -280,6 +280,13 @@
 <td><p>0.3</p></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>9月30日</p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Perfume" title="wikilink">Perfume</a></p></td>
+<td><p>0.5</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

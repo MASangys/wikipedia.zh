@@ -125,6 +125,11 @@
 <td><p>2019年3月19日</p></td>
 <td><p>ISBN 978-4-08-891221-9</p></td>
 </tr>
+<tr class="even">
+<td><p>9</p></td>
+<td><p>2019年9月19日</p></td>
+<td><p>ISBN 978-4-08-891373-5</p></td>
+</tr>
 </tbody>
 </table>
 

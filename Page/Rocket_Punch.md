@@ -255,6 +255,9 @@
 <td><p>Pink Punch</p></td>
 </tr>
 <tr class="even">
+<td><p>Love Is Over</p></td>
+</tr>
+<tr class="odd">
 <td><ul>
 <li>「*」：打榜中</li>
 <li>「(1)」：兩星期冠軍</li>

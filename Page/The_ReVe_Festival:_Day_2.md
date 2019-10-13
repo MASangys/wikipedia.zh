@@ -6,8 +6,6 @@
 
 8月14日至8月18日JOY、YERI、WENDY、IRENE、SEULGI的預告照依序公開，並充滿夏天清涼的氣氛\[4\]。
 
-## 背景與創作
-
 ## 發行成績
 
 《The ReVe Festival: Day 2》專輯發行後，便在美國、加拿大、巴西、智利、德國、法國、希臘、荷蘭、泰國、越南、印尼、印度、馬來西亞、菲律賓等共38個國家和地區的iTunes綜合專輯榜拿下第一名\[5\]\[6\]，並再次在美國iTunes專輯榜排名第一位。另外，主打曲《Umpah Umpah》也在發行後陸續登上了韓國音源即時榜Genie、Bugs、Soribada、Mnet、NAVER Music 和 Olleh Music的冠軍寶座\[7\]\[8\]。

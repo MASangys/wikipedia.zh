@@ -12,7 +12,7 @@
 
 CYP17A1蛋白大小为57.4[kDa](https://zh.wikipedia.org/wiki/kDa "wikilink")\[8\]，包含有508个[氨基酸](../Page/氨基酸.md "wikilink")残基，属于[CYP450超家族](../Page/细胞色素P450.md "wikilink")\[9\]，带有一个[血基質](../Page/血基質.md "wikilink")相关[活性位点](../Page/活性位点.md "wikilink")以催化相关生物反应\[10\]。
 
-Based on its known structures while bound to two steroidal inhibitors, abiraterone and [galeterone](https://zh.wikipedia.org/wiki/galeterone "wikilink"), CYP17A1 possesses the canonical cytochrome P450 fold present in other complex P450 enzymes that participate in [steroidogenesis](https://zh.wikipedia.org/wiki/steroidogenesis "wikilink") or [cholesterol](https://zh.wikipedia.org/wiki/cholesterol "wikilink") metabolism, though it orients the steroid ligands toward the F and G helices, perpendicular to the heme group, rather than the β1 sheet.\[11\]\[12\]
+CYP17A1可被两种甾类抑制剂和[galeterone特异地抑制](https://zh.wikipedia.org/wiki/galeterone "wikilink")，CYP17A1和其它参与[甾体生成与](../Page/类固醇生成酶.md "wikilink")[胆固醇代谢的细胞色素P](https://zh.wikipedia.org/wiki/胆固醇 "wikilink")450氧化酶一样有着经典的P450酶结构，但其结合甾类配体的位置位于F和G螺旋之间，垂直于血红素基团，而通常的非β1折叠\[11\]\[12\]。
 
 ## 参考文献
 

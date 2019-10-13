@@ -85,7 +85,7 @@
 <tr class="even">
 <td><p>搭載武器</p></td>
 <td><p><a href="../Page/白朗寧M2重機槍.md" title="wikilink">FN M3P</a><br />
-裝有穿孔式與圓筒型</p></td>
+裝有<a href="https://zh.wikipedia.org/wiki/槍管罩筒" title="wikilink">穿孔式隔熱罩與圓筒型</a></p></td>
 <td><p>FN M3P+<br />
 三管70毫米航空火箭發射器</p></td>
 <td></td>

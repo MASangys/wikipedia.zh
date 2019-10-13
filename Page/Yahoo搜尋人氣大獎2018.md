@@ -1,4 +1,4 @@
-**YAHOO搜尋人氣大獎2018**（）是[YAHOO\!搜尋人氣大獎](../Page/YAHOO!搜尋人氣大獎.md "wikilink")的第14屆，於2018年12月12日晚上8時在[香港](../Page/香港.md "wikilink")[尖沙咀](../Page/尖沙咀.md "wikilink")[文化中心](https://zh.wikipedia.org/wiki/文化中心 "wikilink")[露天廣場舉行頒獎典禮](https://zh.wikipedia.org/wiki/露天廣場 "wikilink")\[1\]。頒獎典禮的精華版在[加拿大](../Page/加拿大.md "wikilink")的[加拿大中文電台](../Page/加拿大中文電台.md "wikilink")和[新時代電視](../Page/新時代電視.md "wikilink")播放。今屆有4個獎項（人氣票王、人氣票-{后}-、人氣票選組合、亞洲人氣票王/票-{后}-/票選組合）由網民投票選出\[2\]。
+**YAHOO搜尋人氣大獎2018 頒獎典禮**（）是[YAHOO\!搜尋人氣大獎](../Page/YAHOO!搜尋人氣大獎.md "wikilink")的第14屆，於2018年12月12日晚上8時在[香港](../Page/香港.md "wikilink")[尖沙咀](../Page/尖沙咀.md "wikilink")[文化中心](https://zh.wikipedia.org/wiki/文化中心 "wikilink")[露天廣場舉行頒獎典禮](https://zh.wikipedia.org/wiki/露天廣場 "wikilink")\[1\]。頒獎典禮的精華版在[加拿大](../Page/加拿大.md "wikilink")的[加拿大中文電台](../Page/加拿大中文電台.md "wikilink")和[新時代電視](../Page/新時代電視.md "wikilink")播放。今屆有4個獎項（人氣票王、人氣票-{后}-、人氣票選組合、亞洲人氣票王/票-{后}-/票選組合）由網民投票選出\[2\]。
 
 ## 得獎名單
 

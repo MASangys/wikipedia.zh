@@ -41,23 +41,25 @@ EVERGLOW團名是“EVER”与“GLOW”的合成语，寓意“无论是在太�
 
 2018年6月15日，成员金施贤和王怡人以[乐华娱乐](../Page/乐华娱乐.md "wikilink")练习生身份参与由[Mnet和日本](https://zh.wikipedia.org/wiki/Mnet_Media "wikilink")[AKB48集團](../Page/AKB48集團.md "wikilink")主办的韓日合作選秀節目《[PRODUCE 48](../Page/PRODUCE_48.md "wikilink")》以争取女团出道机会。其中成员金施贤则是继两年前参与[PRODUCE 101之后再次出演PRODUCE系列节目](../Page/PRODUCE_101.md "wikilink")。两人在第三次綜合評價排名結果中，分别以第27名和第28名止步总决赛。
 
-### 2019年：出道、出道单曲、首次回归
+### 2019年：出道、出道单曲、首次回归、初一位
 
 2月17日，[乐华娱乐](../Page/乐华娱乐.md "wikilink")公开声明将会于2019年推出新人女团。2月18日，公开组合队名和logo以及首位出道成员金施贤的个人预告影片。2月19日，公开第二位成员Mia的个人预告影片。2月20日，公开第三位成员Onda的个人预告影片。2月21日，公开第四位成员王怡人的个人预告影片。2月24日，公开第五位成员E:U的个人预告影片。2月25日，公开最后一位成员Aisha的个人预告影片。2月27日，官方正式公开组合的第一个舞蹈翻跳影片 - RUMOR。3月3日，官方再次公开组合的第二个舞蹈翻跳影片 - RIVER。3月7日，8日及9日，官方释出组合翻跳于1998年至2018年之中活跃的女团经典名曲的舞蹈影片。\[5\]\[6\]\[7\]
 
-#### ARRIVAL OF EVERGLOW
+#### 第一张单曲专辑 ： ARRIVAL OF EVERGLOW
 
 3月12日，释出主打歌 《봉봉쇼콜라 (Bon Bon Chocolat)》的MV预告。\[8\]
 
 3月18日，于下午6点正式出道，发行首张单曲专辑《[ARRIVAL OF EVERGLOW](../Page/ARRIVAL_OF_EVERGLOW.md "wikilink")》，主打歌为《[봉봉쇼콜라 (Bon Bon Chocolat)](https://www.youtube.com/watch?v=HvGql8HwOIM)》。\[9\]
 
-#### HUSH
+#### 第二张单曲专辑 ： HUSH
 
 8月6日，预告将于8月19日发行第二张单曲专辑《[HUSH](../Page/HUSH_\(EVERGLOW單曲\).md "wikilink")》。\[10\]
 
 8月14日，发布主打曲《Adios》MV预告。\[11\]
 
 8月19日下午6点，发行第二张单曲专辑《HUSH》，并发布主打歌为《[Adios](https://www.youtube.com/watch?v=4gX_p1VkgA4)》MV。\[12\]
+
+9月24日，以《Adios》一曲于音乐节目《[THE SHOW](https://zh.wikipedia.org/wiki/THE_SHOW "wikilink")》获得出道6个月以来首个一位。\[13\]
 
 ## 音樂作品
 
@@ -78,7 +80,7 @@ EVERGLOW團名是“EVER”与“GLOW”的合成语，寓意“无论是在太�
 <ul>
 <li>發行日期 ：2019年3月18日</li>
 <li>語言：韓語</li>
-<li>專輯銷量：17,368+[13]</li>
+<li>專輯銷量：17,368+[14]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -88,7 +90,7 @@ EVERGLOW團名是“EVER”与“GLOW”的合成语，寓意“无论是在太�
 <ul>
 <li>發行日期 ：2019年8月19日</li>
 <li>語言：韓語</li>
-<li>專輯銷量：12,199+[14]</li>
+<li>專輯銷量：12,199+[15]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -118,17 +120,17 @@ EVERGLOW團名是“EVER”与“GLOW”的合成语，寓意“无论是在太�
 <td><p>3月18日</p></td>
 <td><p>《<a href="../Page/ARRIVAL_OF_EVERGLOW.md" title="wikilink">ARRIVAL OF EVERGLOW</a>》</p></td>
 <td><p>봉봉쇼콜라(Bon Bon Chocolat)</p></td>
-<td><p><a href="https://www.youtube.com/watch?v=TDpqrZKKBEA">봉봉쇼콜라 (Bon Bon Chocolat)</a>[15]</p></td>
-<td><p>봉봉쇼콜라(Bon Bon Chocolat)[16]<br />
-봉봉쇼콜라(Bon Bon Chocolat)（Choreography with EVERGLOW Ver.）[17] 봉봉쇼콜라(Bon Bon Chocolat)（Special Dance Practice Ver.）[18]</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=TDpqrZKKBEA">봉봉쇼콜라 (Bon Bon Chocolat)</a>[16]</p></td>
+<td><p>봉봉쇼콜라(Bon Bon Chocolat)[17]<br />
+봉봉쇼콜라(Bon Bon Chocolat)（Choreography with EVERGLOW Ver.）[18] 봉봉쇼콜라(Bon Bon Chocolat)（Special Dance Practice Ver.）[19]</p></td>
 </tr>
 <tr class="even">
 <td><p>8月19日</p></td>
 <td><p>《<a href="../Page/HUSH_(EVERGLOW單曲).md" title="wikilink">HUSH</a>》</p></td>
 <td><p>Adios</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=tFRcEOmkDM8">Adios MV (Performance Ver.)</a><br />
-<a href="https://www.youtube.com/watch?v=c4T6LSN0O5M">Adios</a>[19]</p></td>
-<td><p>Adios[20] Adios | Fo.D | Choreography[21]</p></td>
+<a href="https://www.youtube.com/watch?v=c4T6LSN0O5M">Adios</a>[20]</p></td>
+<td><p>Adios[21] Adios | Fo.D | Choreography[22]</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -147,7 +149,7 @@ EVERGLOW團名是“EVER”与“GLOW”的合成语，寓意“无论是在太�
 | 日期                 | 電視台                                              | 節目名稱                                                        | 參與成員 | 備註        |
 | ------------------ | ------------------------------------------------ | ----------------------------------------------------------- | ---- | --------- |
 | 2016年1月22日 - 4月1日  | [Mnet](../Page/Mnet媒體.md "wikilink")             | 《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》          | 施賢   | 出道前       |
-| 2017年2月27日 - 6月27日 | [SBS](../Page/SBS_\(韓國\).md "wikilink")          | 《[美味的烹飪課](https://zh.wikipedia.org/wiki/美味的烹飪課 "wikilink")》 | E:U  | 出道前\[22\] |
+| 2017年2月27日 - 6月27日 | [SBS](../Page/SBS_\(韓國\).md "wikilink")          | 《[美味的烹飪課](https://zh.wikipedia.org/wiki/美味的烹飪課 "wikilink")》 | E:U  | 出道前\[23\] |
 | 2017年7月13日 - 9月29日 | [Mnet](../Page/Mnet媒體.md "wikilink")             | 《[偶像學校](https://zh.wikipedia.org/wiki/偶像學校 "wikilink")》     | Onda | 出道前       |
 | 2018年6月15日 - 8月31日 | 《[PRODUCE 48](../Page/PRODUCE_48.md "wikilink")》 | 施賢、怡人                                                       | 出道前  |           |
 
@@ -161,13 +163,15 @@ EVERGLOW團名是“EVER”与“GLOW”的合成语，寓意“无论是在太�
 | 5月21日                                          |
 | 9月4日                                           |
 | 9月10日                                          |
+| 9月28日                                          |
+| 10月1日                                          |
 
 ## 廣告代言
 
 | 年份        | 商品名稱    | 參與成員 | 合作藝人                             | 來源     |
 | --------- | ------- | ---- | -------------------------------- | ------ |
-| 2019年     | Gmarket | 施贤   | [吳娜拉](../Page/吳娜拉.md "wikilink") | \[23\] |
-| COTTINY珠宝 | 全員      |      | \[24\]                           |        |
+| 2019年     | Gmarket | 施贤   | [吳娜拉](../Page/吳娜拉.md "wikilink") | \[24\] |
+| COTTINY珠宝 | 全員      |      | \[25\]                           |        |
 
 ## 演唱會及其他演出
 
@@ -176,9 +180,9 @@ EVERGLOW團名是“EVER”与“GLOW”的合成语，寓意“无论是在太�
 | 日期         | 名称                | 城市 | 舉行地點            | 备注                                |
 | ---------- | ----------------- | -- | --------------- | --------------------------------- |
 | 2019年3月18日 | DEBUT SHOWCASE    | 首尔 | YES24 LIVE HALL | 第一張单曲專輯《ARRIVAL OF EVERGLOW》出道抢听会 |
-| 2019年8月19日 | Comeback SHOWCASE | 首尔 | YES24 LIVE HALL | 第二張单曲專輯《HUSH》抢听会\[25\]            |
+| 2019年8月19日 | Comeback SHOWCASE | 首尔 | YES24 LIVE HALL | 第二張单曲專輯《HUSH》抢听会\[26\]            |
 
-## 獎項與榮耀
+## 獎項
 
 ### 大型頒獎禮獎項
 
@@ -240,7 +244,7 @@ EVERGLOW團名是“EVER”与“GLOW”的合成语，寓意“无论是在太�
 | ---------- |
 | Mnet       |
 | 0          |
-| 一位總數：0     |
+| 一位總數：1     |
 
 ## 註釋
 
@@ -281,8 +285,9 @@ EVERGLOW團名是“EVER”与“GLOW”的合成语，寓意“无论是在太�
 18.
 19.
 20.
-21.  Fo.D {{\!}} Choreography|url=[https://www.youtube.com/watch?v=_YKCzszJumI|accessdate=2019-09-12|language=zh](https://www.youtube.com/watch?v=_YKCzszJumI%7Caccessdate=2019-09-12%7Clanguage=zh)}}
-22.
+21.
+22.  Fo.D {{\!}} Choreography|url=[https://www.youtube.com/watch?v=_YKCzszJumI|accessdate=2019-09-12|language=zh](https://www.youtube.com/watch?v=_YKCzszJumI%7Caccessdate=2019-09-12%7Clanguage=zh)}}
 23.
 24.
 25.
+26.

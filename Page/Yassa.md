@@ -2,7 +2,7 @@
 
 ## 參考資料
 
-[Category:塞內加爾飲食](https://zh.wikipedia.org/wiki/Category:塞內加爾飲食 "wikilink") [Category:肉類料理](https://zh.wikipedia.org/wiki/Category:肉類料理 "wikilink")
+[Category:塞內加爾飲食](https://zh.wikipedia.org/wiki/Category:塞內加爾飲食 "wikilink") [Category:肉制品与肉类菜肴](https://zh.wikipedia.org/wiki/Category:肉制品与肉类菜肴 "wikilink")
 
 1.
 2.

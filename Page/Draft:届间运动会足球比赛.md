@@ -1,0 +1,43 @@
+[1906年雅典届间运动会上](https://zh.wikipedia.org/wiki/届间运动会 "wikilink")，举行了非官方的[足球](../Page/足球.md "wikilink")比赛。该只有四支球队参加，其中三支是来自[希腊](../Page/希腊.md "wikilink")和[奥斯曼帝国](../Page/奥斯曼帝国.md "wikilink")的俱乐部。最终丹麦队获得金牌，土耳其队获得银牌和铜牌。\[1\]
+
+[雅典](../Page/雅典.md "wikilink")队在决赛中半途退赛，然后受邀参加比赛以决定第二名。但他们拒绝了邀请并立即退出比赛。于是，决赛改为在当时[奥斯曼帝国](../Page/奥斯曼帝国.md "wikilink")中的两个城市[士麦拿和](https://zh.wikipedia.org/wiki/士麦拿 "wikilink")[塞萨洛尼基](../Page/塞萨洛尼基.md "wikilink")的两支球队之间进行。塞萨洛尼基队的队员是来自“艺术之友”队的希腊人（即“奥米洛斯·菲洛穆森”，[伊拿克里斯足球會](../Page/伊拿克里斯足球會.md "wikilink")的前身）\[2\]。士麦那队由[英格兰](../Page/英格兰.md "wikilink")，[法国和](https://zh.wikipedia.org/wiki/法国 "wikilink")[亚美尼亚的球员组成](https://zh.wikipedia.org/wiki/亚美尼亚 "wikilink")。丹麦队则是从[哥本哈根足球协会中挑选的球员](https://zh.wikipedia.org/wiki/哥本哈根足球协会 "wikilink")。\[3\]
+
+## 结果
+
+| 4月23日        |
+| ------------ |
+| 丹麦           |
+| 雅典           |
+| 决赛, 4月24日    |
+| 丹麦           |
+| 三四名决赛, 4月25日 |
+| 士麦那          |
+
+## 参赛名单
+
+[Salonica_Society_of_Friends_of_music.jpg](https://zh.wikipedia.org/wiki/File:Salonica_Society_of_Friends_of_music.jpg "fig:Salonica_Society_of_Friends_of_music.jpg") [Smyrna_squad_in_1906.jpg](https://zh.wikipedia.org/wiki/File:Smyrna_squad_in_1906.jpg "fig:Smyrna_squad_in_1906.jpg") [København_1906.jpg](https://zh.wikipedia.org/wiki/File:København_1906.jpg "fig:København_1906.jpg")
+
+  - ****: Viggo Andersen, Peder Pedersen, [Charles von Buchwald](https://zh.wikipedia.org/wiki/Charles_von_Buchwald "wikilink"), Parmo Ferslev, Stefan Rasmussen, Aage Andersen, [Oscar Nielsen](https://zh.wikipedia.org/wiki/Oscar_Nielsen "wikilink"), Carl Pedersen, Holger Frederiksen, August Lindgren, Henry Rambusch, Hjalmar Herup
+  - ** 士麦那** (Ottoman Empire): Edwin Charnaud, Zareh Kouyoumdjian, Edouard Giraud, Jacques Giraud, Henri Joly, Percy de la Fontaine, Donald Whittal, Albert Whittal, Godfrey Whittal, Harold Whittal, Edward Whittal.
+  - **  塞萨洛尼基** (Ottoman Empire - Greek team\[4\]): Georgios Vaporis, Nikolaos Pindos, Antonios Tegos, Nikolaos Pentzikis, Ioannis Kyrou, Georgios Sotiriadis, [Vasilios Zarkadis](https://zh.wikipedia.org/wiki/Vasilios_Zarkadis "wikilink"), Dimitrios Mikhitsopoulos, Antonios Karagionidis, Ioannis Abbot, Ioannis Saridakis.
+  - ** 雅典** (希腊): Panagiotis Vrionis, Nikolaos Dekavalas, Georgios Merkouris, Konstantinos Botasis, Grigorios Vrionis, Panagiotis Botasis, Georgios Gerontakis, [Giorgos Kalafatis](https://zh.wikipedia.org/wiki/Giorgos_Kalafatis "wikilink"), Theodoros Nikolaidis, Konstantinos Siriotis, A. Georgiadis.
+
+## 参阅
+
+  - [夏季奥林匹克运动会足球比赛](../Page/夏季奥林匹克运动会足球比赛.md "wikilink")
+
+## 参考资料
+
+## 外部链接
+
+  - [Rec.Sport.Soccer Statistics Foundation - 1906 Summer Olympics](http://www.rsssf.com/tableso/ol1906f.html)
+  - [IFFHS - 1906 - Athens](https://web.archive.org/web/20110509012624/http://www.iffhs.de/?28d6edaca29d815685fdcdc3bfcdc0aec010)
+
+[Category:屆間運動會](https://zh.wikipedia.org/wiki/Category:屆間運動會 "wikilink") [Category:1906年體育](https://zh.wikipedia.org/wiki/Category:1906年體育 "wikilink") [Category:希腊体育史](https://zh.wikipedia.org/wiki/Category:希腊体育史 "wikilink")
+
+1.
+
+2.  *Søren Elbech, Karel Stokkermans* [1906 Summer Olympics](http://www.rsssf.com/tableso/ol1906f.html) at [Rec.Sport.Soccer Statistics Foundation](http://www.rsssf.com/)
+
+3.
+4.

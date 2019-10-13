@@ -1,5 +1,7 @@
 《**VIP**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS於](../Page/SBS_\(韓國\).md "wikilink")2019年10月28日起播出的[月火連續劇](../Page/SBS月火連續劇.md "wikilink")，由《[皇后的品格](../Page/皇后的品格.md "wikilink")》的李正林導演與車海元作家合作打造。此劇講述在百貨店裏工作的人，各自竭力地隱藏自己的秘密，但最終被發現後卻諷刺地互相認同和安慰的故事。\[1\]\[2\]\[3\]
 
+台灣由[愛奇藝台灣站自](https://zh.wikipedia.org/wiki/愛奇藝台灣站 "wikilink")10/29起每週二三獨家播出。
+
 ## 演員陣容
 
 ### 主要人物
@@ -376,7 +378,7 @@
 
   - [韓國SBS官方網站](https://programs.sbs.co.kr/drama/vip)
 
-[Category:2019年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2019年韓國電視劇集 "wikilink") [Category:韓國愛情劇](https://zh.wikipedia.org/wiki/Category:韓國愛情劇 "wikilink") [Category:韓國懸疑劇](https://zh.wikipedia.org/wiki/Category:韓國懸疑劇 "wikilink")
+[Category:2019年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2019年韓國電視劇集 "wikilink") [Category:韓國愛情劇](https://zh.wikipedia.org/wiki/Category:韓國愛情劇 "wikilink") [Category:百貨公司背景作品](https://zh.wikipedia.org/wiki/Category:百貨公司背景作品 "wikilink") [Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink")
 
 1.  [VIP 韓劇劇情簡介＆人物介紹](https://wang4cbook.pixnet.net/blog/post/349754671-vip%28%E9%9F%93%E5%8A%87%29%EF%BC%9A%E5%8A%87%E6%83%85%E7%B0%A1%E4%BB%8B%EF%BC%86%E4%BA%BA%E7%89%A9%E4%BB%8B%E7%B4%B9)，元點文創，2019-02-21
 2.  [【有片】張娜拉、李相侖等主演《VIP》到底是什麼樣的故事？看了劇情預告或許會有進一步了解！](https://www.koreastardaily.com/tc/news/120049)，韓星網，2019-09-10

@@ -23,9 +23,9 @@
   - [realme X](https://zh.wikipedia.org/wiki/realme_X "wikilink")
 
   -
-  - [realme 5 Pro](https://zh.wikipedia.org/wiki/realme_Q "wikilink")
+  - [realme 5 Pro／realme Q](https://zh.wikipedia.org/wiki/realme_Q "wikilink")
 
-  - [realme XT](https://zh.wikipedia.org/wiki/realme_XT "wikilink")
+  - [realme XT／realme X2](https://zh.wikipedia.org/wiki/realme_XT "wikilink")
 
 ## 参考资料
 

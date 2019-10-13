@@ -1,10 +1,12 @@
-**CSVC**（****）是[韓國一支](https://zh.wikipedia.org/wiki/韓國 "wikilink")[獨立音樂](../Page/獨立音樂.md "wikilink")女子團體，由[CHEEZE](../Page/CHEEZE.md "wikilink")的Dalchong、[Stella Jang](../Page/Stella_Jang.md "wikilink")、、[PARK MOON CHI組成](https://zh.wikipedia.org/wiki/PARK_MOON_CHI "wikilink")，2019年8月6日以單曲《SUMMER LOVE…》出道。
+**CSVC**（****）是[韓國一支](https://zh.wikipedia.org/wiki/韓國 "wikilink")[獨立音樂](../Page/獨立音樂.md "wikilink")女子團體，由[CHEEZE](../Page/CHEEZE.md "wikilink")的Dalchong、[Stella Jang](../Page/Stella_Jang.md "wikilink")、、[PARK MOON CHI組成](https://zh.wikipedia.org/wiki/PARK_MOON_CHI "wikilink")，2019年8月6日以單曲《SUMMER LOVE…》出道。\[1\]
+
+四位成員原本都是獨立歌手，在一次聊天中Lovey向Dalchong提出一起組成團體的想法，最後成為由PARK MOON CHI為製作人，以韓國90年代的團體[S.E.S.為概念的女子團體](../Page/S.E.S._\(組合\).md "wikilink")。
 
 ## 團體資料
 
 ### 團名由來
 
-團名為四位成員名字組合而成，依序為CHEEZE（치즈）的「치」、Stella Jang（스텔라장）的「스」、Lovey（러비）的「비」、PARK MOON CHI（박문치）的「치」。\[1\]
+團名為四位成員名字組合而成，依序為CHEEZE（치즈）的「치」、Stella Jang（스텔라장）的「스」、Lovey（러비）的「비」、PARK MOON CHI（박문치）的「치」。\[2\]
 
 ### 成員資料
 
@@ -53,7 +55,7 @@
 </tbody>
 </table>
 
-## 音樂作品\[2\]
+## 音樂作品\[3\]
 
 ### 單曲 
 
@@ -98,7 +100,7 @@
 <td><p>8月8日</p></td>
 <td><p><a href="../Page/KBS第2FM.md" title="wikilink">KBS Cool FM</a></p></td>
 <td></td>
-<td><p>[3]</p></td>
+<td><p>[4]</p></td>
 </tr>
 </tbody>
 </table>
@@ -161,3 +163,4 @@
 1.
 2.
 3.
+4.

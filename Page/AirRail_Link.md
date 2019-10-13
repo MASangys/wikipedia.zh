@@ -10,7 +10,7 @@
 
 合同于1981年与一个财团签订，财团中包括[英国通用电气公司](https://zh.wikipedia.org/wiki/英国通用电气公司 "wikilink")、 [保富集团](../Page/保富集團.md "wikilink")、 Brush Electrical Machines 和[都城嘉慕](../Page/都城嘉慕.md "wikilink")的合资公司"People Mover Group"，与约翰莱恩铁路。 这些车厢是由[都城嘉慕](../Page/都城嘉慕.md "wikilink")在他们位于伯明翰的 Washwood Heath 工厂生产的。\[2\] 该系统于1984年8月16日启用。\[3\]
 
-建成后，轨道长度为600米(2000英尺) ，火车以15毫米(0.59英寸)的高度"飞行"。 这条线路成功地运行了将近11年，但是由于电子系统的过时问题，以及缺少备件，使得它在晚年变得不可靠。 该系统于1995年7月关闭，当时一项调查得出结论，恢复运行和维护磁悬浮列车的成本过高。 最初，磁悬浮列车的车辆被机场所有者伯明翰机场公司存放在机场场地内。\[4\]\[5\]
+建成后，轨道长度为600米（2000英尺） ，火车以15毫米（0.59英寸）的高度"飞行"。 这条线路成功地运行了将近11年，但是由于电子系统的过时问题，以及缺少备件，使得它在晚年变得不可靠。 该系统于1995年7月关闭，当时一项调查得出结论，恢复运行和维护磁悬浮列车的成本过高。 最初，磁悬浮列车的车辆被机场所有者伯明翰机场公司存放在机场场地内。\[4\]\[5\]
 
 关闭后，原有的导轨处于闲置状态，临时穿梭巴士服务继续运作，直至找到合适的替代方案。 该导轨于2003年SkyRail缆索[旅客捷运系统启用时重新得到使用](../Page/旅客捷運系統.md "wikilink") 。\[6\]
 
@@ -45,9 +45,9 @@
 
 1.
 2.
-3.  [Hansard](https://zh.wikipedia.org/wiki/Hansard "wikilink"), [House of Commons Hansard Written Answers for 26 May 1999 (pt 8): Passenger Transit System](http://www.parliament.the-stationery-office.co.uk/pa/cm199899/cmhansrd/vo990526/text/90526w08.htm) , 1999-05-26.
+3.  Hansard, [House of Commons Hansard Written Answers for 26 May 1999 (pt 8): Passenger Transit System](http://www.parliament.the-stationery-office.co.uk/pa/cm199899/cmhansrd/vo990526/text/90526w08.htm) , 1999-05-26.
 4.  [Hansard](https://zh.wikipedia.org/wiki/Hansard "wikilink"), [House of Commons Hansard Written Answers for 26 May 1999 (pt 8): Passenger Transit System](http://www.parliament.the-stationery-office.co.uk/pa/cm199899/cmhansrd/vo990526/text/90526w08.htm) , 1999-05-26.
-5.  [Birmingham Mail](https://zh.wikipedia.org/wiki/Birmingham_Mail "wikilink"), [New plan aims to bring the Maglev back](http://www.birminghammail.net/news/solihull-news/tm_objectid=17662730&method=full&siteid=50002&headline=new-plan-aims-to-bring-the-maglev-back-name_page.html) , 2006-09-01.
+5.  Birmingham Mail, [New plan aims to bring the Maglev back](http://www.birminghammail.net/news/solihull-news/tm_objectid=17662730&method=full&siteid=50002&headline=new-plan-aims-to-bring-the-maglev-back-name_page.html) , 2006-09-01.
 6.
 7.
 8.

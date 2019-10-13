@@ -212,7 +212,7 @@ Nijisanji于2018年6月8日宣布成立新虚拟主播计划VOIZ，同日黑羽�
 
 ### VirtuaReal
 
-Nijisanji和bilibili合作制作的虚拟主播企划，于2019年4月19日开始招募。现有8名Vtuber在活动。除特别说明外，括号内日期为出道日。
+Nijisanji和bilibili合作制作的虚拟主播企划，于2019年4月19日开始招募。现有11名Vtuber在活动。除特别说明外，括号内日期为出道直播日。
 
   - 艾因（Eine，2019年5月14日）
 
@@ -229,6 +229,12 @@ Nijisanji和bilibili合作制作的虚拟主播企划，于2019年4月19日开�
   - （VirtuaReal Link成员，2019年8月8日加入）
 
   - 无理（Muri，2019年8月21日）
+
+  - 有加（Plus，2019年9月29日）
+
+  - 喵月（Nyatsuki，2019年9月29日）
+
+  - 惑姬（Waku，2019年9月29日）
 
 ### NIJISANJI id
 

@@ -1,4 +1,4 @@
-**K-Tigers Zero**（），是K-Tigers E\&C於2019年推出的十二人男女混聲組合，將以舞蹈結合跆拳道為主要風格\[1\]，成員包括7名男成員（Hyungkyun、Taejoo、Kangmin、Junhee、Sungjin、Hyunmin、Gunwoo）及5名女成員（Taemi、Yiseul、Yoonji、Minji、Eunjae）\[2\]\[3\]。
+**K-Tigers Zero**（），是K-Tigers E\&C於2019年推出的十二人男女混聲組合，將以舞蹈結合跆拳道為主要風格\[1\]，成員包括7名男成員（Hyungkyun、Taejoo、Kangmin、Junhee、SeongJin、Hyunmin、Gunwoo）及5名女成員（Taemi、Yiseul、Yoonji、Minji、Youjin）\[2\]\[3\]。
 
 ## 成員資料
 
@@ -12,11 +12,11 @@
 | Junhee (준희)                             |
 | Yiseul (이술)                             |
 | Yoonji (윤지)                             |
-| Sungjin (하승진)                           |
+| SeongJin (성진)                           |
 | Minji (민지)                              |
 | Hyunmin (현민)                            |
 | Gunwoo (건우)                             |
-| Eunjae (은재)                             |
+| Youjin (유진)                             |
 
 ## 活動經歷
 
@@ -62,6 +62,86 @@
 </tr>
 </tbody>
 </table>
+
+## 演出資料
+
+### 見面會
+
+**2019 北美洲 Live Show World Tour**
+
+| 日期     | 國家                                                              | 城市                                                  |
+| ------ | --------------------------------------------------------------- | --------------------------------------------------- |
+| 10月15日 | [加拿大](../Page/加拿大.md "wikilink")                                | [溫哥華](../Page/溫哥華.md "wikilink")                    |
+| 10月17日 | [美國](https://zh.wikipedia.org/wiki/美國 "wikilink")               | [聖荷西](https://zh.wikipedia.org/wiki/聖荷西 "wikilink") |
+| 10月19日 | [洛杉磯](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")             |                                                     |
+| 10月20日 |                                                                 |                                                     |
+| 10月23日 | [達拉斯](../Page/達拉斯.md "wikilink")                                |                                                     |
+| 10月25日 | [邁阿密](https://zh.wikipedia.org/wiki/邁阿密 "wikilink")             |                                                     |
+| 10月28日 | [亞特蘭大](https://zh.wikipedia.org/wiki/亞特蘭大 "wikilink")           |                                                     |
+| 10月31日 | [紐約](https://zh.wikipedia.org/wiki/紐約 "wikilink")               |                                                     |
+| 11月2日  | [華盛頓哥倫比亞特區](https://zh.wikipedia.org/wiki/華盛頓哥倫比亞特區 "wikilink") |                                                     |
+| 11月4日  | [加拿大](../Page/加拿大.md "wikilink")                                | [多倫多](https://zh.wikipedia.org/wiki/多倫多 "wikilink") |
+
+## 演出
+
+### 見面會
+
+**2019 北美洲 Live Show World Tour**
+
+| 日期     | 國家                                                              | 城市                                                  |
+| ------ | --------------------------------------------------------------- | --------------------------------------------------- |
+| 10月15日 | [加拿大](../Page/加拿大.md "wikilink")                                | [溫哥華](../Page/溫哥華.md "wikilink")                    |
+| 10月17日 | [美國](https://zh.wikipedia.org/wiki/美國 "wikilink")               | [聖荷西](https://zh.wikipedia.org/wiki/聖荷西 "wikilink") |
+| 10月19日 | [洛杉磯](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")             |                                                     |
+| 10月20日 |                                                                 |                                                     |
+| 10月23日 | [達拉斯](../Page/達拉斯.md "wikilink")                                |                                                     |
+| 10月25日 | [邁阿密](https://zh.wikipedia.org/wiki/邁阿密 "wikilink")             |                                                     |
+| 10月28日 | [亞特蘭大](https://zh.wikipedia.org/wiki/亞特蘭大 "wikilink")           |                                                     |
+| 10月31日 | [紐約](https://zh.wikipedia.org/wiki/紐約 "wikilink")               |                                                     |
+| 11月2日  | [華盛頓哥倫比亞特區](https://zh.wikipedia.org/wiki/華盛頓哥倫比亞特區 "wikilink") |                                                     |
+| 11月4日  | [加拿大](../Page/加拿大.md "wikilink")                                | [多倫多](https://zh.wikipedia.org/wiki/多倫多 "wikilink") |
+
+## 獎項
+
+### 主要音樂節目榜單排名
+
+<table>
+<thead>
+<tr class="header">
+<th><p><big><strong>主打歌曲排名成績</strong></big></p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>專輯</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年</p></td>
+</tr>
+<tr class="odd">
+<td><p>喜怒哀樂​</p></td>
+</tr>
+<tr class="even">
+<td><ul>
+<li>「/」表示未有相關資料</li>
+<li>「*」：打榜中</li>
+<li>「(1)」：兩星期冠軍</li>
+<li>「 &lt;1&gt; 」：三星期冠軍</li>
+<li>「 [1] 」：四星期冠軍</li>
+</ul>
+<ul>
+<li>「<span style="background:#808080">　</span>」：該段時期未設立排行榜</li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+
+| 各台冠軍歌曲獎座統計                           |
+| ------------------------------------ |
+| [Mnet](../Page/Mnet媒體.md "wikilink") |
+| 0                                    |
+|                                      |
+| 冠军歌曲总数：0                             |
 
 ## 參考文獻
 

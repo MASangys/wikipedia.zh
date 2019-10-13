@@ -2,137 +2,92 @@ local p = {}
 
 function p.row(frame)
 
-`   local somelist = frame.args[1]`
+`   local data = frame.args[1]`
 `   local div = frame.args['div']`
-`   local result, para1, para2, para3, para4, para1_1, para1_empty, sep`
-`   result = ''`
-`   para1 = ''`
-`   para2 = ''`
-`   para3 = ''`
-`   para4 = ''`
-`   para1_1 = ''`
-`   para1_empty = false`
-`   sep = ''`
-`   for k1, v1 in ipairs(mw.text.split(somelist, '+')) do`
-`       for k2, v2 in ipairs(mw.text.split(v1 .. '\\', '\\')) do`
-`           if k2 > 4 then break`
-`               elseif k2 == 1 then`
-`                   if para1 == '' then`
-`                       para1_1 = v2`
-`                   else sep = ' '`
-`                   end`
-`                   if v2 == nil or v2 == '' then`
-`                       para1 = para1_1`
-`                       para1_empty = true`
+`   local result, sep, default = '', ''`
+`   local args = {}`
+`   data = mw.text.split(data, '+')`
+`   for i1, v1 in ipairs(data) do`
+`       args = {}`
+`       if v1 ~= '' and v1 ~= '\\' then`
+`           local tmp = mw.text.split(v1, '\\')`
+`           if i1 == 1 then`
+`               default = tmp[1]`
+`           else`
+`               sep = ' '`
+`           end`
+`           for i2, v2 in ipairs(tmp) do`
+`               if i2 < 5 then`
+`                   if i2 == 1 then`
+`                       args[i2] = (string.find((v2 or ''), '^%s*$') and default or v2)`
 `                   else`
-`                       para1 = v2`
-`                       para1_empty = false`
+`                       args[i2] = (string.find((v2 or ''), '^%s*$') and nil or v2)`
 `                   end`
-`               elseif k2 == 2 then`
-`                   if v2 == nil or v2 == '' then`
-`                       para2 = nil`
-`                   else`
-`                       para2 = v2`
-`                   end`
-`               elseif k2 == 3 then`
-`                   if v2 == nil or v2 == '' then`
-`                       para3 = nil`
-`                   else`
-`                       para3 = v2`
-`                   end`
-`               elseif k2 == 4 then`
-`                   if v2 == nil or v2 == '' then`
-`                       para4 = nil`
-`                   else`
-`                       para4 = v2`
-`                   end`
-`               if para1_empty == true and para2 == nil then`
-`               else result = result .. sep .. frame:expandTemplate{ title = 'Rail-interchange', args = { para1, para2, para3, para4 } }`
 `               end`
+`           end`
+`           if args[1] or args[2] then`
+`               result = result .. sep .. frame:expandTemplate{ title = 'Rail-interchange', args = args }`
 `           end`
 `       end`
 `   end`
 `   if div == 'yes' or div == 'y' then result = '`
 
-<div style="display: table-cell; vertical-align: middle; padding-left: 3px; white-space: nowrap;">
+<div style="display:table-cell;vertical-align:middle;padding-left:3px;white-space:nowrap">
 
 ' .. result .. '
 
 </div>
 
-'
+' end
 
-`   end`
 `   return result`
 
 end
 
 function p.doublerow(frame)
 
-`   local somelist = frame.args[1]`
-`   local result, para1, para2, para3, para4, para1_1, para1_empty, sep`
-`   result = ''`
-`   para1 = ''`
-`   para2 = ''`
-`   para3 = ''`
-`   para4 = ''`
-`   para1_1 = ''`
-`   para1_empty = false`
-`   sep = ''`
-`   for k1, v1 in ipairs(mw.text.split(somelist, '+')) do`
-`       for k2, v2 in ipairs(mw.text.split(v1 .. '\\', '\\')) do`
-`           if k2 > 4 then break`
-`               elseif k2 == 1 then`
-`                   if para1 == '' then`
-`                       para1 = v2`
-`                       para1_1 = v2`
-`                   else`
-`                       if v2 == nil or v2 == '' then`
-`                           para1 = para1_1`
-`                           para1_empty = true`
-`                       else`
-`                           para1 = v2`
-`                           para1_empty = false`
-`                       end`
-`                       if (k1 % 2 == 1) then sep = '`
+`   local data = frame.args[1]`
+`   local result, sep, default = '', ''`
+`   local args = {}`
+`   local sep_code = {`
+`       [0] = '`
+`',`
+`       [1] = '`
 
 </div>
 
-<div style="display: table-cell; vertical-align: middle; padding-left: 3px; white-space: nowrap;">
+<div style="display:table-cell;vertical-align:middle;padding-left:3px;white-space:nowrap">
 
 '
 
-`                       else sep = '`
-`'`
-`                       end`
-`                   end`
-`               elseif k2 == 2 then`
-`                   if v2 == nil or v2 == '' then`
-`                       para2 = nil`
+`   }`
+`   data = mw.text.split(data, '+')`
+`   for i1, v1 in ipairs(data) do`
+`       args = {}`
+`       if v1 ~= '' and v1 ~= '\\' then`
+`           local tmp = mw.text.split(v1, '\\')`
+`           if i1 == 1 then`
+`               default = tmp[1]`
+`           else`
+`               sep = sep_code[i1 % 2]`
+`           end`
+`           for i2, v2 in ipairs(tmp) do`
+`               if i2 < 5 then`
+`                   if i2 == 1 then`
+`                       args[i2] = (string.find((v2 or ''), '^%s*$') and default or v2)`
 `                   else`
-`                       para2 = v2`
+`                       args[i2] = (string.find((v2 or ''), '^%s*$') and nil or v2)`
 `                   end`
-`               elseif k2 == 3 then`
-`                   if v2 == nil or v2 == '' then`
-`                       para3 = nil`
-`                   else`
-`                       para3 = v2`
-`                   end`
-`               elseif k2 == 4 then`
-`                   if v2 == nil or v2 == '' then`
-`                       para4 = nil`
-`                   else`
-`                       para4 = v2`
-`                   end`
-`               if para1_empty == true and para2 == nil then result = result .. sep`
-`               else result = result .. sep .. frame:expandTemplate{ title = 'Rail-interchange', args = { para1, para2, para3, para4 } }`
 `               end`
+`           end`
+`           if args[1] or args[2] then`
+`               result = result .. sep .. frame:expandTemplate{ title = 'Rail-interchange', args = args }`
 `           end`
 `       end`
 `   end`
 `   result = '`
 
-<div style="display: table-cell; vertical-align: middle; padding-left: 3px; white-space: nowrap;">
+<div style="display:table-cell;vertical-align:middle;padding-left:3px;white-space:nowrap">
 
 ' .. result .. '
 

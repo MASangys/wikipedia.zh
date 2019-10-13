@@ -1,4 +1,4 @@
-**Elizabeth Marry**（，；），本名 **Elizabeth Rabone**，是出身於[日本](../Page/日本.md "wikilink")[神奈川縣](../Page/神奈川縣.md "wikilink")的女演員及編舞師。
+**Elizabeth Marry**（，；），本名 **Elizabeth Rabone**，是出身於[日本](../Page/日本.md "wikilink")[神奈川縣](../Page/神奈川縣.md "wikilink")的女演員及編舞師。現為 [Eri Office](https://zh.wikipedia.org/wiki/Eri_Office "wikilink") 旗下藝人。
 
 ## 簡歷
 

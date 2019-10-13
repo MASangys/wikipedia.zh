@@ -647,7 +647,7 @@ Nucksal、Code Kunst、宋智孝、梁世燦 |- \!459 |7月14日<small>
 <td><p>三小時內在特别任務中獲勝</p></td>
 <td><p>哈哈<strong>勝出</strong><br />
 哈哈選擇與宋智孝一同享受三分鐘吃飯<br />
-其他成員經抽卡抽選後由池錫辰接受在錄影第465集期間當嘉賓出演時進行裝扮懲罰[20]</p></td>
+其他成員經抽卡抽選後由池錫辰聯同早前已經接受裝扮懲罰的全昭旻一同接受在錄影第465集期間當嘉賓出演時進行裝扮懲罰[20]</p></td>
 </tr>
 <tr class="even">
 <td><p>396</p></td>
@@ -813,14 +813,15 @@ Sunny | 劉在錫、池錫辰、金鐘國、宋智孝、李光洙、全昭旻、
 <a href="../Page/西大門區.md" title="wikilink">西大門區</a>大峴洞）</small></p></td>
 <td><p><span style="font-size:110%"><strong>總決賽－間諜遊戲</strong></span><br />
 <strong>間諜</strong><br />
-<br />
+粉絲<br />
 <strong>任務隊（個人戰）</strong><br />
-</p></td>
+劉在錫、池錫辰、金鍾國、哈哈、宋智孝、李光洙、全昭旻、梁世燦</p></td>
 <td><p><strong>間諜</strong><br />
 隱藏身份<br />
 <strong>任務隊</strong><br />
 在最終投票期間逮捕間諜</p></td>
-<td><p><strong>勝出</strong>[24]</p></td>
+<td><p>金鍾國及間諜<strong>勝出</strong><br />
+其他成員經抽選後由哈哈、宋智孝、李光洙及全昭旻接受奶油炮彈懲罰[24]</p></td>
 </tr>
 <tr class="even">
 <td><p>468</p></td>
@@ -890,6 +891,63 @@ Sunny | 劉在錫、池錫辰、金鐘國、宋智孝、李光洙、全昭旻、
 <td><p>9月29日<small><br />
 （9月9日）</small></p></td>
 <td><p>無嘉賓</p></td>
+<td><p>蓮谷釣魚場<br />
+<small>（<a href="../Page/京畿道.md" title="wikilink">京畿道</a><br />
+<a href="https://zh.wikipedia.org/wiki/楊州市" title="wikilink">楊州市</a>）</small></p></td>
+<td><p><span style="font-size:110%"><strong>休假競賽特輯</strong></span><br />
+<strong>個人戰</strong><br />
+沒有隊伍</p></td>
+<td><p>不成為懲罰徽章最多</p></td>
+<td><p>劉在錫、金鐘國、HAHA、宋智孝、全昭旻及梁世燦<strong>勝出</strong><br />
+池錫辰及李光洙經抽選後由池錫辰前往零下攝氏17.5度的貨倉內接受搬運貨物大懲罰</p></td>
+</tr>
+<tr class="even">
+<td><p>402</p></td>
+<td><p>471</p></td>
+<td><p>10月6日<small><br />
+（9月23日）</small></p></td>
+<td><p><a href="../Page/黃致列.md" title="wikilink">黃致列</a>、<br />
+<a href="../Page/Tiffany_(少女時代).md" title="wikilink">Tiffany</a>(<a href="https://zh.wikipedia.org/wiki/少女時代" title="wikilink">少女時代</a>)、<br />
+<a href="../Page/朴柔娜.md" title="wikilink">朴柔娜</a>、<br />
+<a href="../Page/美娜.md" title="wikilink">美娜</a>(<a href="https://zh.wikipedia.org/wiki/gu9udan" title="wikilink">gu9udan</a>)</p></td>
+<td><p>清道普羅旺斯<br />
+<small>（<a href="https://zh.wikipedia.org/wiki/慶尚北道" title="wikilink">慶尚北道</a><br />
+<a href="../Page/清道郡.md" title="wikilink">清道郡</a>）</small></p></td>
+<td><p><span style="font-size:110%"><strong>秘密代碼－秋天襲擊事件</strong></span><br />
+<span style=color:#967100><strong>褐隊</strong></span><br />
+劉在錫、李光洙、黃致列<br />
+<span style=color:#808080><strong>灰隊</strong></span><br />
+池錫辰、宋智孝、Tiffany<br />
+&lt;span style="color:#ffae42&gt;<strong>橙隊</strong></span><br />
+金鍾國、梁世燦、朴柔娜<br />
+<span style=color:#8fbc8f><strong>綠隊</strong></span><br />
+哈哈、全昭旻、美娜</p></td>
+<td></td>
+<td><p><strong>勝出</strong></p></td>
+</tr>
+<tr class="odd">
+<td><p>403</p></td>
+<td><p>472</p></td>
+<td><p>10月13日<small><br />
+（9月24日）</small></p></td>
+<td><p>無嘉賓</p></td>
+<td><p><br />
+<small>（<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/安養市.md" title="wikilink">安養市</a><br />
+）</small></p></td>
+<td><p><span style="font-size:110%"></span><br />
+<span style=color:#FF0000><strong>紅隊</strong></span><br />
+劉在錫、李光洙、梁世燦<br />
+<span style=color:#2200FF><strong>藍隊</strong></span><br />
+池錫辰、金鐘國、哈哈、宋智孝、全昭旻</p></td>
+<td></td>
+<td><p><strong>勝出</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>404</p></td>
+<td><p>473</p></td>
+<td><p>10月20日<small><br />
+（9月30日）</small></p></td>
+<td></td>
 <td><p><br />
 <small>（<br />
 ）</small></p></td>
@@ -898,7 +956,7 @@ Sunny | 劉在錫、池錫辰、金鐘國、宋智孝、李光洙、全昭旻、
 <td></td>
 <td><p><strong>勝出</strong></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1146,7 +1204,7 @@ Sunny | 劉在錫、池錫辰、金鐘國、宋智孝、李光洙、全昭旻、
 <tr class="odd">
 <td><p>467</p></td>
 <td><p>9月8日</p></td>
-<td><p>8.0% </p></td>
+<td><p>8.0%</p></td>
 <td><p>4.7%</p></td>
 </tr>
 <tr class="even">
@@ -1158,14 +1216,14 @@ Sunny | 劉在錫、池錫辰、金鐘國、宋智孝、李光洙、全昭旻、
 <tr class="odd">
 <td><p>469</p></td>
 <td><p>9月22日</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>8.1%</p></td>
+<td><p>4.9%</p></td>
 </tr>
 <tr class="even">
 <td><p>470</p></td>
 <td><p>9月29日</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>7.4%</p></td>
+<td><p>4.7%</p></td>
 </tr>
 <tr class="odd">
 <td><p>471</p></td>
@@ -1276,7 +1334,7 @@ Sunny | 劉在錫、池錫辰、金鐘國、宋智孝、李光洙、全昭旻、
 9.  河錫辰、李伊庚只參演第447集。
 10. 姜世娜、金鎮雄及J Black & Mmary特別出演。
 11. [王嘉爾](../Page/王嘉爾.md "wikilink")（[GOT7](../Page/GOT7.md "wikilink")）特別出演，[柳賢振](../Page/柳賢振.md "wikilink")聲音出演。
-12. 結果於第450集公佈。
+12. 結果於第450集公開。
 13. [申河均](../Page/申河均.md "wikilink")特別出演，宣傳電影《-{zh-tw:完美搭檔;zh-cn:我的特级兄弟}-》。
 14. 宣傳電影《》。
 15. 本集末段，製作組以文字形式為第449集的內容抄襲網路漫畫《金錢遊戲》一事向原作者致歉。

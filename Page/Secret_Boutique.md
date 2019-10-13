@@ -1,6 +1,6 @@
-《**Secret Boutique**》（），為韓國[SBS於](../Page/SBS_\(韓國\).md "wikilink")2019年9月18日起播出的[水木連續劇](../Page/SBS水木連續劇.md "wikilink")，由《[對我而言可愛的她](../Page/對我而言可愛的她.md "wikilink")》的朴亨基導演和《[人生追擊者李載求](../Page/人生追擊者李載求.md "wikilink")》的許善熙作家合作打造。此劇講述在國際都市開發事件中，女人之間在其中爭奪權力、復仇，和尋求生存力量，被金錢和權力所吞噬的故事。\[1\]\[2\]
+《**Secret Boutique**》（，），為韓國[SBS於](../Page/SBS_\(韓國\).md "wikilink")2019年9月18日起播出的[水木連續劇](../Page/SBS水木連續劇.md "wikilink")，由《[對我而言可愛的她](../Page/對我而言可愛的她.md "wikilink")》的朴亨基導演和《[人生追擊者李載求](../Page/人生追擊者李載求.md "wikilink")》的許善熙作家合作打造。此劇講述在國際都市開發事件中，女人之間在其中爭奪權力、復仇，和尋求生存力量，被金錢和權力所吞噬的故事。\[1\]\[2\]
 
-台灣由myVideo、[KKTV](../Page/KKTV.md "wikilink")跟播，香港由myTV SUPER緊貼韓國點播。
+台灣由[愛奇藝台灣站每週四五上午](https://zh.wikipedia.org/wiki/愛奇藝台灣站 "wikilink")10點跟播，[KKTV](../Page/KKTV.md "wikilink")、遠傳friDay影音、myVideo、[LINE TV](../Page/LINE_TV.md "wikilink") 9/19起週四五中午12跟播，香港由myTV SUPER緊貼韓國點播。
 
 ## 演員陣容
 
@@ -33,7 +33,7 @@
 <tr class="even">
 <td><p><a href="../Page/朴喜本.md" title="wikilink">朴喜本</a><br />
 </p></td>
-<td><p>魏藝蘭</p></td>
+<td><p>魏藝然</p></td>
 <td><p>如玉的長女，德奧財團專務、Deo Cosmetic代表。她一直很喜愛和依靠道英，因她在自己最困難之時為自己帶來力量，在冰冷的家裏唯一有溫度的人就是道英。但是當媽媽也投來比較的目光時，對道英的憧憬和友情變成了愛憎。當她目睹道英逐漸向上爬時，認為她要背棄自己，故開始妨礙她的前程。</p></td>
 </tr>
 <tr class="odd">
@@ -77,7 +77,7 @@
 <tr class="odd">
 <td><p><a href="../Page/柳承秀.md" title="wikilink">柳承秀</a></p></td>
 <td><p>車勝在</p></td>
-<td><p>藝蘭的丈夫，永川檢察院特查部部長。雖然是名望很高的法律界人士的兒子，但他因清廉的家庭氛圍而變得節儉。德奧集團曾因大型腐敗事件而受公眾指責，在他的提議進行政治婚姻加入了德奧家。</p></td>
+<td><p>藝然的丈夫，永川檢察院特查部部長。雖然是名望很高的法律界人士的兒子，但他因清廉的家庭氛圍而變得節儉。德奧集團曾因大型腐敗事件而受公眾指責，在他的提議進行政治婚姻加入了德奧家。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/韓政秀.md" title="wikilink">韓政秀</a></p></td>
@@ -102,7 +102,7 @@
 <tr class="even">
 <td><p>金素英</p></td>
 <td><p>車秀彬</p></td>
-<td><p>勝在與藝蘭的獨生女兒，目前在美國留學攻讀美術專業。</p></td>
+<td><p>勝在與藝然的獨生女兒，目前在美國留學攻讀美術專業。</p></td>
 </tr>
 </tbody>
 </table>
@@ -129,7 +129,7 @@
 <tr class="odd">
 <td><p><a href="../Page/周錫泰.md" title="wikilink">周錫泰</a></p></td>
 <td><p>吳太碩</p></td>
-<td><p>永川警察廳情報科長，被派遣到永川市政府收集國際城市開發過程的信息。在高中時他與大膽離家出走的藝南偶然相遇，成為彼此的初戀情人。最終因無法突破身份差異而分手，但從未埋怨過藝蘭。</p></td>
+<td><p>永川警察廳情報科長，被派遣到永川市政府收集國際城市開發過程的信息。在高中時他與大膽離家出走的藝然偶然相遇，成為彼此的初戀情人。最終因無法突破身份差異而分手，但從未埋怨過藝然。</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -174,7 +174,7 @@
 <td><p>陽奧流通總經理，永川的黑社會頭目，擁有永川海邊一帶的土地。他想參與永川市城市開發，脫下黑社會的外衣，堂堂正正地成爲企業家。</p></td>
 </tr>
 <tr class="odd">
-<td><p>張旭真</p></td>
+<td><p>鄭旭珍</p></td>
 <td><p>李尚勳</p></td>
 <td><p>醫生，在偷錄市長影片之時捲入於開發案事件的中心，在最壞的情況下想對幫助自己的賢智敞開心扉。</p></td>
 </tr>
@@ -230,21 +230,21 @@
 <tr class="even">
 <td><p>3</p></td>
 <td><p>2019/09/25</p></td>
-<td><p>%</p></td>
+<td><p>4.4%</p></td>
 </tr>
 <tr class="odd">
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>5.0%</p></td>
+<td><p>4.8%</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>4</p></td>
 <td><p>2019/09/26</p></td>
-<td><p>%</p></td>
+<td><p>4.9%</p></td>
 </tr>
 <tr class="odd">
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>4.9%</p></td>
+<td><p>4.8%</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -389,7 +389,7 @@
 ### 同一劇集時段作品
 
   - [MBC](../Page/文化廣播公司.md "wikilink") [水木迷你連續劇](../Page/MBC水木迷你連續劇.md "wikilink")：《[新入史官丘海昤](../Page/新入史官丘海昤.md "wikilink")》、《[意外發現的一天](../Page/意外發現的一天.md "wikilink")》
-  - [OCN](https://zh.wikipedia.org/wiki/OCN "wikilink") [水木連續劇](../Page/OCN_Original_Series.md "wikilink")：《[奔跑的調查官](https://zh.wikipedia.org/wiki/奔跑的調查官 "wikilink")》
+  - [OCN](https://zh.wikipedia.org/wiki/OCN "wikilink") [水木連續劇](../Page/OCN_Original_Series.md "wikilink")：《[奔跑的調查官](../Page/奔跑的調查官.md "wikilink")》
 
 ## 記事
 

@@ -240,7 +240,7 @@ group="" responsive="1"
 4.
 
 5.
-6.  [cherry.de - Über Cherry](http://www.cherry.de/deutsch/cherry_unternehmen/company.htm)
+6.
 
 7.
 

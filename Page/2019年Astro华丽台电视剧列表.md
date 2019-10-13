@@ -875,8 +875,8 @@ Police Tactical Unit 2019</p></td>
 
 ## 參考及連結
 
-  - [Astro華麗台 官方網站](http://www.xuan.com.my/channels/wlt/)
-  - [Astro華麗台 官方節目表](https://whatson.astro.com.my/channels/astro-wah-lai-toi-hd/129/?cat=variety-entertainment&lang=chinese&stb=310)
   - [Astro華麗台 官方Facebook](https://web.facebook.com/WahLaiToi/)
+  - [Astro華麗台 官方節目表](https://whatson.astro.com.my/channels/astro-wah-lai-toi-hd/129/?cat=variety-entertainment&lang=chinese&stb=310)（英語）
+  - [Astro華麗台 官方網站](http://www.xuan.com.my/channels/wlt/)（已停止更新）
 
 [Category:Astro華麗台電視劇列表](https://zh.wikipedia.org/wiki/Category:Astro華麗台電視劇列表 "wikilink")

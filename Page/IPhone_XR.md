@@ -154,29 +154,33 @@ nano-SIM与eSIM（其余版本）</p></td>
 </tr>
 <tr class="odd">
 <td><p>系统</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/iOS_12" title="wikilink">iOS 12</a>（可升级至iOS 12.3.1）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS_12" title="wikilink">iOS 12</a></p></td>
 </tr>
 <tr class="even">
+<td><p>当前版本</p></td>
+<td><p>iOS 13.1</p></td>
+</tr>
+<tr class="odd">
 <td><p>后置相机</p></td>
 <td><p>1200万<a href="../Page/像素.md" title="wikilink">像素</a>廣角鏡頭，f/1.8<a href="../Page/焦比.md" title="wikilink">光圈</a>，5倍數碼變焦，支持<a href="../Page/自动对焦.md" title="wikilink">自动对焦</a>、曝光控制和光學防手震，配備<a href="https://zh.wikipedia.org/wiki/红外截止滤波片" title="wikilink">红外截止滤波片及支持慢速同步模式的原彩</a><a href="../Page/闪光灯.md" title="wikilink">闪光灯</a><br />
 拍照：支持连拍、<a href="../Page/全景图.md" title="wikilink">全景图</a>、、人像模式、智慧HDR<br />
 录像：立體聲錄音，最高支持60<a href="../Page/帧率.md" title="wikilink">fps</a> <a href="https://zh.wikipedia.org/wiki/4K分辨率" title="wikilink">4K</a>-{zh-cn:高清;zh-hk:高清;zh-tw:高畫質}-影片，支持電影級影片防震功能（1080p及720p），可拍摄高达<a href="../Page/1080p.md" title="wikilink">1080p</a> 240 <a href="../Page/帧率.md" title="wikilink">fps的</a><a href="../Page/慢动作.md" title="wikilink">慢动作</a>视频，支持配備防震功能的<a href="../Page/縮時攝影.md" title="wikilink">缩时摄影</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>前置相机</p></td>
 <td><p>700万<a href="../Page/像素.md" title="wikilink">像素</a>鏡頭，f/2.2<a href="../Page/焦比.md" title="wikilink">光圈</a>，支持<a href="../Page/自动对焦.md" title="wikilink">自动对焦</a>、曝光控制、Animoji及Memoji，配备Retina闪光灯<br />
 拍照：支持连拍、<a href="../Page/全景图.md" title="wikilink">全景图</a>、、人像模式、智慧HDR<br />
 录像：最高支持60<a href="../Page/帧率.md" title="wikilink">fps</a> 1080p-{zh-cn:高清;zh-hk:高清;zh-tw:高畫質}-影片，支持電影級影片防震功能（1080p及720p）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>电池</p></td>
 <td><p>3.81 V 2942 mA·h <a href="https://zh.wikipedia.org/wiki/鋰離子電池" title="wikilink">鋰離子電池</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>抗水特性</p></td>
 <td><p>IP67防護等級（可在水深達1米長達30分鐘）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>无线充电</p></td>
 <td><p>支持<a href="../Page/Qi_(無線充電標準).md" title="wikilink">Qi无线充电</a></p></td>
 </tr>

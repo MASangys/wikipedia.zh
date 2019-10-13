@@ -4,7 +4,9 @@
 
 ## 遊戲概要
 
-繼2018年推出的第3作《[偶像活動Friends！](../Page/偶像活動Friends！.md "wikilink")》後，超越前一系列界限的歴代偶像的作品。本作同樣使用**DATA CARDDASS T**型機台進行遊戲。
+基於2018年推出的第3作《[偶像活動Friends！](../Page/偶像活動Friends！.md "wikilink")》的世界觀，超越前一系列界限的歴代偶像的作品。本作同樣使用**DATA CARDDASS T**型機台進行遊戲。
+
+標語主題是「**走吧，走向閃亮的未來！**」。
 
 ## 遊戲規則
 
@@ -16,10 +18,10 @@
 
   - 沿用前作的基本等級：N、R、PR 等。
 
-| 季度 | 推動開始日      | Card數量                                               |
-| -- | ---------- | ---------------------------------------------------- |
-| 1彈 | 2019年10月3日 | 全 張（稀有 +Premium特級稀有48+Legend Premium傳說特級稀有12+活動稀有16） |
-|    |            |                                                      |
+| 季度 | 推動開始日      | Card數量                                                       |
+| -- | ---------- | ------------------------------------------------------------ |
+| 1彈 | 2019年10月3日 | 全132張（普通12+稀有28+Premium特級稀有64+Legend Premium傳說特級稀有12+活動稀有16） |
+|    |            |                                                              |
 
 ## 故事簡介
 
@@ -113,14 +115,14 @@ Aikatsu！偶像活動！ |偶像活動Stars！角色列表{{\!}}偶像活動Sta
 
 | 播放日期                                     | 播放時間（[UTC](https://zh.wikipedia.org/wiki/UTC "wikilink")[+9](https://zh.wikipedia.org/wiki/UTC+9 "wikilink")） | 播放電視台                                                 | 播放地區                                                    | 備註                                                    |
 | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------- | ----------------------------------------------------- |
-| 2019年10月5日（預定） －                         | 星期六 10:30－11:00                                                                                               | [東京電視台](../Page/東京電視台.md "wikilink")                  | [關東廣域圈](https://zh.wikipedia.org/wiki/關東廣域圈 "wikilink") | **製作局**                                               |
+| 2019年10月5日 －                             | 星期六 10:30－11:00                                                                                               | [東京電視台](../Page/東京電視台.md "wikilink")                  | [關東廣域圈](https://zh.wikipedia.org/wiki/關東廣域圈 "wikilink") | **製作局**                                               |
 | [TV北海道](../Page/TV北海道.md "wikilink")     | [北海道](../Page/北海道.md "wikilink")                                                                              |                                                       |                                                         |                                                       |
 | [愛知電視台](../Page/愛知電視台.md "wikilink")     | [愛知縣](../Page/愛知縣.md "wikilink")                                                                              |                                                       |                                                         |                                                       |
 | [大阪電視台](../Page/大阪電視台.md "wikilink")     | [大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")                                                           |                                                       |                                                         |                                                       |
 | [瀨戶內電視台](../Page/瀨戶內電視台.md "wikilink")   | [岡山縣](../Page/岡山縣.md "wikilink")、[香川縣](https://zh.wikipedia.org/wiki/香川縣 "wikilink")                          |                                                       |                                                         |                                                       |
 | [TVQ九州放送](../Page/TVQ九州放送.md "wikilink") | [福岡縣](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")、[佐賀縣](https://zh.wikipedia.org/wiki/佐賀縣 "wikilink")       |                                                       |                                                         |                                                       |
-| 2019年10月7日（預定） －                         | 星期一 17:00－17:29                                                                                               | [BS東視](https://zh.wikipedia.org/wiki/BS東視 "wikilink") | 日本全國                                                    | [衛星電視](https://zh.wikipedia.org/wiki/衛星電視 "wikilink") |
-| 2019年10月10日（預定） －                        | 星期四 24:00－24:30                                                                                               | [AT-X](../Page/AT-X.md "wikilink")                    |                                                         |                                                       |
+| 2019年10月7日 －                             | 星期一 17:00－17:29                                                                                               | [BS東視](https://zh.wikipedia.org/wiki/BS東視 "wikilink") | 日本全國                                                    | [衛星電視](https://zh.wikipedia.org/wiki/衛星電視 "wikilink") |
+| 2019年10月10日 －                            | 星期四 24:00－24:30                                                                                               | [AT-X](../Page/AT-X.md "wikilink")                    |                                                         |                                                       |
 |                                          |                                                                                                               |                                                       |                                                         |                                                       |
 
 ## 參考資料

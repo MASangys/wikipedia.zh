@@ -12,7 +12,7 @@ HalalChain的代币称为HLC，代码为HLC，可在许多加密货币的外汇�
 
 相较于较大多数其他区块链技术，HalalChain具有以下特点：
 
-  - 采用[有向无环图](https://zh.wikipedia.org/wiki/有向无环图 "wikilink")（Directed acyclic graph，缩写DAG）为底层技术，DAG是一个图数据结构，图中的每个顶点都会指向不定个数的其他顶点，即有向，同时不存在从某个顶点出发一条路径指回该顶点， 即无环。
+  - 采用[有向无环图](https://zh.wikipedia.org/wiki/有向无环图 "wikilink")（Directed acyclic graph，缩写DAG）为底层技术，DAG是一个图数据结构，图中的每个[顶点都会指向不定个数的其他顶点](../Page/顶点_\(图论\).md "wikilink")，即有向，同时不存在从某个顶点出发一条路径指回该顶点， 即无环。
 
 ## 参考文献
 

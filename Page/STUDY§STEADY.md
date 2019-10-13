@@ -21,6 +21,14 @@
 
   - 片頭曲「study§steady day\!」\[3\]
     作詞：天咲麗，作曲、編曲：橋咲透，主唱：solfa feat.[霜月遙](../Page/霜月遙.md "wikilink")、[Ceui](../Page/Ceui.md "wikilink")\[4\]
+  - 菜乃香片尾曲「」\[5\]
+    作詞：天咲麗，作曲、編曲：橋咲透，主唱：solfa feat.[茶太](../Page/茶太.md "wikilink")
+  - 悠羽片尾曲「」\[6\]
+    作詞：天咲麗，作曲、編曲：橋咲透，主唱：solfa feat.iyuna
+  - 茉衣片尾曲「Strange Love」\[7\]
+    作詞、作曲、編曲：，主唱：solfa feat.
+  - 葉月片尾曲「」\[8\]
+    作詞：Rin，作曲、編曲：，主唱：solfa feat.Rin
 
 ## 參考資料
 
@@ -31,6 +39,15 @@
 [Category:2019年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2019年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
 
 1.
+
 2.
+
 3.
+
 4.
+
+5.
+
+6.
+7.
+8.

@@ -52,7 +52,7 @@
 6.
 7.
 8.
-9.  <https://variety.com/2016/film/news/uncharted-movie-joe-carnahan-video-game-adaptation-bad-boys-3-1201826553/>
+9.
 10.
 11.
 12.

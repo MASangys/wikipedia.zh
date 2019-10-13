@@ -2,7 +2,7 @@
 
 ## 參考資料
 
-[Category:坦桑尼亞飲食](https://zh.wikipedia.org/wiki/Category:坦桑尼亞飲食 "wikilink") [Category:馬鈴薯食品](https://zh.wikipedia.org/wiki/Category:馬鈴薯食品 "wikilink") [Category:雞蛋料理](https://zh.wikipedia.org/wiki/Category:雞蛋料理 "wikilink")
+[Category:坦桑尼亞飲食](https://zh.wikipedia.org/wiki/Category:坦桑尼亞飲食 "wikilink") [Category:馬鈴薯食品](https://zh.wikipedia.org/wiki/Category:馬鈴薯食品 "wikilink") [Category:鸡蛋制品](https://zh.wikipedia.org/wiki/Category:鸡蛋制品 "wikilink")
 
 1.
 2.

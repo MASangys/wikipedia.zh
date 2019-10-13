@@ -237,7 +237,7 @@
 <td><p>5</p></td>
 <td><p>2019/09/09</p></td>
 <td><p>假如你遇到那種事的話</p></td>
-<td></td>
+<td><p>2.467%</p></td>
 </tr>
 <tr class="odd">
 <td><p>6</p></td>
@@ -254,32 +254,32 @@
 <tr class="odd">
 <td><p>8</p></td>
 <td><p>2019/09/17</p></td>
-<td></td>
+<td><p>爸爸的資格</p></td>
 <td><p>2.708%</p></td>
 </tr>
 <tr class="even">
 <td><p>9</p></td>
 <td><p>2019/09/23</p></td>
-<td></td>
-<td><p>%</p></td>
+<td><p>危險的交易</p></td>
+<td><p>2.234%</p></td>
 </tr>
 <tr class="odd">
 <td><p>10</p></td>
 <td><p>2019/09/24</p></td>
-<td></td>
-<td><p>%</p></td>
+<td><p>對決</p></td>
+<td><p>2.143%</p></td>
 </tr>
 <tr class="even">
 <td><p>11</p></td>
 <td><p>2019/09/30</p></td>
 <td></td>
-<td><p>%</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>12</p></td>
 <td><p>2019/10/01</p></td>
 <td></td>
-<td><p>%</p></td>
+<td><p>2.365%</p></td>
 </tr>
 <tr class="even">
 <td><p>13</p></td>

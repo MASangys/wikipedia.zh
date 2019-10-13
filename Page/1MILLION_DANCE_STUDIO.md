@@ -5,7 +5,7 @@
 ### 女編舞家
 
   - Mina Myoung
-  - Lia Kim (創辦人)
+  - [Lia Kim](https://zh.wikipedia.org/wiki/Lia_Kim "wikilink") (創辦人)
   - [May J Lee](../Page/May_J_Lee.md "wikilink")
   - Yoojung Lee
   - Jin Lee

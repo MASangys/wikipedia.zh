@@ -260,6 +260,8 @@ NEW WORLD</p></td>
     **假面騎士Metal Build**的變身者。
     恐怖組織——Downfall的領導，企圖利用「科學之力=兵器」來征服全世界。
 
+,原是與葛城忍一同協助Evolto的科學家,也為斑馬SMASH 變身者 在舊世界和馬渕由衣一樣被Faust 改造成LOST SMASH,是葛城忍為了鍊出LOST bottle 所挑鍊出的犧牲品 在新世界創造後,在潘朵拉之盒的力量下恢復在舊世界的記憶,成為了恐怖組織——Downfall的領導
+
 ### 本作登場假面騎士
 
 #### 假面騎士 Grease
@@ -316,7 +318,69 @@ NEW WORLD</p></td>
   -
     原文： / *Kamen Rider Metal Build*
 
-##### 變身模式
+  - 變身模式
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>形態名稱</strong></p></td>
+<td><p><strong>簡介</strong></p></td>
+<td><p><strong>外觀</strong></p></td>
+<td><p><strong>音效</strong></p></td>
+<td><p><strong>能力</strong></p></td>
+<td><p><strong>必殺技</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><strong>Tank Tank Hazard Form<br />
+雙坦克危險形態</strong></p></td>
+<td><p>原文：[5]<br />
+配合創造驅動器及使用 Hazard Trigger搭配兩個黑色「 Tank」滿裝瓶變身的形態<br />
+身高：cm<br />
+體重：kg<br />
+拳擊力：t<br />
+踢擊力：t<br />
+跳躍力：m<br />
+行動速度：100m / 秒</p></td>
+<td><p>全身以黑色為主,左、右眼皆為黑色</p></td>
+<td></td>
+<td><p>以Build 的其中一個强化形態以「Rabbit Tank Hazard Form」作爲基礎，因為對上危險板機只能用同一種能量滿裝瓶的定律,使用者即使長時間使用「Hazard Trigger」亦不會失去自我。擁有，以「Tank Tank Hazard Form」作爲基礎能力[6]。<br />
+由於是搭配創造驅動器來變身，所以在能力值上和普通的build hazard 型態一模一樣。</p></td>
+<td><p><br />
+|<strong>Hazard Attack</strong> 原文：ハザードアタック 該型態所屬的必殺技。 <strong>Hazard Finish</strong> 原文：ハザードフィニッシュ 該型態在充溢模式下的必殺技。以繚繞著漆黑戰車履帶型能量帶的右腳踢向對方</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>Phantom Build</strong><br />
+幻影創造型態</p></td>
+<td><p>原文：[7]<br />
+配合創造驅動器及使用 Hazard Trigger搭配兩個黑色「 Tank」滿裝瓶變身的形態,除此之外強行塞入白色潘朵拉版的關係,裝備上了怪人Phantom Crusher身上的裝甲,而獲得的同等戰鬥能力<br />
+身高：cm<br />
+體重：kg<br />
+拳擊力：t<br />
+踢擊力：t<br />
+跳躍力：m<br />
+行動速度：100m / 秒</p></td>
+<td><p>全身以黑色,草綠色為主,左、右眼皆為紅白色分別為戰鬥機和戰艦的圖示</p></td>
+<td></td>
+<td><p>以 Metal Build作爲基礎，擁有除此之外與怪人Phantom Crusher合體而獲得的同等能力[8]<br />
+擁有，以「Tank Tank Hazard Form」作爲基礎能力外,也獲得怪人Phantom Crusher的基本能力<br />
+所以在能力值上比普通的build hazard 型態超越一些。</p></td>
+<td><p><br />
+<strong>Hazard Attack</strong> 原文：ハザードアタック 該型態所屬的必殺技。<br />
+<strong>Hazard Finish</strong><br />
+原文：<br />
+該型態在充溢模式下的必殺技。<br />
+發射小型飛彈, 並以繚繞著漆黑戰車履帶型能量帶的右腳踢向對方。</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ### 本作登場滿裝瓶（FullBottle）
 
@@ -335,7 +399,7 @@ NEW WORLD</p></td>
 
   -
     原文： / *Grease Perfect Kingdom*
-    由桐生戰兔連同政府機關共同為猿渡一海研發出來的新型變身道具，造型上和迫近之龍與基魯巴蜘蛛同樣，其力量泉源是北都三羽鴉的性命\[5\]，因此可看出紅色城堡、藍色鍬形蟲和黃色貓頭鷹的外觀。
+    由桐生戰兔連同政府機關共同為猿渡一海研發出來的新型變身道具，造型上和迫近之龍與基魯巴蜘蛛同樣，其力量泉源是北都三羽鴉的性命\[9\]，因此可看出紅色城堡、藍色鍬形蟲和黃色貓頭鷹的外觀。
     配合「潤滑（Grease）」滿裝瓶再搭配創造驅動器可使假面騎士Grease變身成「理想王國形態（Perfect Kingdom Form）」。
 
 ### 本作登場怪人
@@ -347,7 +411,14 @@ NEW WORLD</p></td>
   -
     原文：
     CV：Michael富岡
-    人類身份：西蒙·馬庫斯
+
+身高：204.8cm 體重：239.5kg
+
+  -
+    特色 / 能力：可以發射小型飛彈人活用重裝甲、重武裝;和堅甲保衛者一樣的強襲作戰
+    人類身份：西蒙·馬庫斯 及Downfall等人武裝士兵
+
+為新世界特有的怪人,和Hard SMASH一樣用滿裝瓶變身,但是變身用滿裝瓶是透明模型瓶罐改造而成 作用為吸收假面騎士身上的星雲氣體,從而解除變身能力
 
 ### 樂曲
 
@@ -383,4 +454,8 @@ NEW WORLD</p></td>
 2.  劇中直接命名為「仮面ライダーキルバス」。
 3.  劇中直接命名為「仮面ライダーグリスパーフェクトキングダム」。
 4.  防禦、飛行和雙刀流
-5.  為了打倒Metal Build而不得已的
+5.  劇中直接命名為「メタルビルド"Metal Build"」。
+6.  抗打、戰車履帶型能量帶的使用和使用Build的基本武器
+7.  劇中直接命名為「メタルビルド"Metal Build"」。
+8.  因為強行塞入白色潘朵拉勘版的關係, 導致與附近的怪人Phantom Crusher融合。
+9.  原解釋為了打倒Metal Build而不得已的犧牲，事實上三羽鴉並未死亡，這說法只是為了讓一海被激怒而提高危險等級的計畫。

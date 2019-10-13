@@ -1,4 +1,4 @@
-**Stray Kids UNVEIL TOUR 'I am…’**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")9人男子組合[Stray Kids於](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")2019年舉辦的第一次海外巡迴Showcase。以2018年正式出道為開端，每次發表新專輯時所舉辦的[UNVEIL](../Page/UNVEIL.md "wikilink") Showcase系列：《UNVEIL \[Op. 01 : I am NOT\]》、《UNVEIL \[Op. 02 : I am WHO\]》、《UNVEIL \[Op. 03 : I am YOU\]》作為延長線的演出\[1\]。巡迴Showcase於2019年1月19日在泰國曼谷THUNDER DOME開始，遍及亞洲、澳洲、美洲、歐洲等共14場。
+**Stray Kids UNVEIL TOUR 'I am…’**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")9人男子組合[Stray Kids於](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")2019年舉辦的第一次海外巡迴Showcase。以2018年正式出道為開端，每次發表新專輯時所舉辦的[UNVEIL](../Page/UNVEIL.md "wikilink") Showcase系列：《UNVEIL \[Op. 01 : I am NOT\]》、《UNVEIL \[Op. 02 : I am WHO\]》、《UNVEIL \[Op. 03 : I am YOU\]》作為延長線的演出\[1\]。巡迴Showcase於2019年1月19日在泰國曼谷THUNDER DOME開始，遍及亞洲、澳洲、美洲、歐洲等地，並於2019年9月27日在日本橫濱國際平和會議場國立大廳完成最後一場Showcase，共計14場演出。
 
 ## 概述
 
@@ -21,6 +21,7 @@
 <table>
 <thead>
 <tr class="header">
+<th><p><strong>年份</strong></p></th>
 <th><p><strong>日期</strong></p></th>
 <th><p><strong>城市</strong></p></th>
 <th><p><strong>國家</strong></p></th>
@@ -30,101 +31,115 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>2019年1月19日</p></td>
+<td><p>2019年</p></td>
+<td><p>1月19日</p></td>
 <td><p><a href="../Page/曼谷.md" title="wikilink">曼谷</a></p></td>
 <td></td>
 <td></td>
 <td><p>4,000+[4]</p></td>
 </tr>
 <tr class="even">
-<td><p>2019年1月26日</p></td>
+<td><p>1月26日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/雅加達" title="wikilink">雅加達</a></p></td>
 <td></td>
 <td><p>Hall 3A </p></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td><p>2019年2月21日</p></td>
+<td><p>2月21日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/墨爾本" title="wikilink">墨爾本</a></p></td>
 <td></td>
 <td><p> </p></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p>2019年2月24日</p></td>
+<td><p>2月24日</p></td>
 <td><p><a href="../Page/悉尼.md" title="wikilink">雪梨</a></p></td>
 <td><p> </p></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td><p>2019年4月27日</p></td>
+<td><p>4月27日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/馬尼拉" title="wikilink">馬尼拉</a></p></td>
 <td></td>
 <td><p> </p></td>
 <td><p>7,000+[5]</p></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p>2019年5月14日</p></td>
+<td><p>5月14日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/紐華克_(紐澤西州)" title="wikilink">紐華克</a></p></td>
 <td></td>
 <td><p> </p></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td><p>2019年5月15日</p></td>
+<td><p>5月15日</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2019年5月17日</p></td>
+<td><p>5月17日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/洛杉磯" title="wikilink">洛杉磯</a></p></td>
 <td><p> </p></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td><p>2019年5月19日</p></td>
+<td><p>5月19日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/休士頓" title="wikilink">休士頓</a></p></td>
 <td><p> </p></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p>2019年7月28日</p></td>
+<td><p>7月28日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/倫敦" title="wikilink">倫敦</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/O2布里克斯頓學院" title="wikilink">O2布里克斯頓學院</a></p></td>
 <td><p>19,000+[6]</p></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td><p>2019年7月30日</p></td>
+<td><p>7月30日</p></td>
 <td><p><a href="../Page/巴黎.md" title="wikilink">巴黎</a></p></td>
 <td></td>
 <td><p>Les Docks De Paris-Pullman</p></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p>2019年8月2日</p></td>
+<td><p>8月2日</p></td>
 <td><p><a href="../Page/柏林.md" title="wikilink">柏林</a></p></td>
 <td></td>
 <td><p>Verti Music Hall</p></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td><p>2019年8月4日</p></td>
+<td><p>8月4日</p></td>
 <td><p><a href="../Page/莫斯科.md" title="wikilink">莫斯科</a></p></td>
 <td></td>
 <td><p>Adrenaline Stadium</p></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p>2019年9月27日</p></td>
+<td><p>9月27日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/橫濱" title="wikilink">橫濱</a></p></td>
 <td></td>
 <td><p><a href="../Page/橫濱國際平和會議場.md" title="wikilink">橫濱國際平和會議場</a>國立大廳</p></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>
@@ -235,7 +250,7 @@
 <tr class="odd">
 <td><p>align="center"; width="600px"| {{Hidden begin</p></td>
 <td><p>titlestyle = background:#d8d8d8; text-align:center;</p></td>
-<td><p>title = 歐洲（倫敦、巴黎、柏林、莫斯科） }} <strong>Opening VCR－Question + SKZ ANTHEM</strong></p>
+<td><p>title = 歐洲（倫敦、巴黎、柏林、莫斯科）、日本 }} <strong>Opening VCR－Question + SKZ ANTHEM</strong></p>
 <ul>
 <li>Intro</li>
 <li>Hellevator</li>

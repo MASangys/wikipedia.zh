@@ -9,7 +9,7 @@
 ### SM ROOKIES時期
 
   - 2013年12月3日，通過SM娛樂預備明星組合[SM ROOKIES亮相](../Page/SM_ROOKIES.md "wikilink")，同時也是首批公開的成員。\[1\]
-  - 2014年8月15日，参加SMTOWN演唱会，与SM ROOKIES練習生（Mark、楷灿、志晟）及當時未公開練習生渽民生合作表演《Growl》。
+  - 2014年8月15日，参加SMTOWN演唱会，与SM ROOKIES練習生（Mark、楷灿、志晟）及當時未公開練習生渽民合作表演《Growl》。
   - 2014年10月，出演[EXO](../Page/EXO.md "wikilink")專屬綜藝節目《EXO 90: 2014》。
   - 2015年7月23日，與其他SM ROOKIES練習生一同出演迪士尼頻道《The Mickey Mouse Club》\[2\]。
   - 2015年8月15日起，與其他SM ROOKIES練習生參加SMTOWN THEATRE特別企劃的定期公演《SMROOKIES SHOW》；2016年2月14日，遠赴[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")[曼谷](../Page/曼谷.md "wikilink")參加於當地舉辦的《SMROOKIES SHOW》。

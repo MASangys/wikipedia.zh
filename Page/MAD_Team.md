@@ -159,7 +159,7 @@
 <tr class="even">
 <td><p>陳柏成</p></td>
 <td><p>OM</p></td>
-<td><p>魔龍路、魔龍輔助</p></td>
+<td><p>教練</p></td>
 <td></td>
 <td></td>
 </tr>

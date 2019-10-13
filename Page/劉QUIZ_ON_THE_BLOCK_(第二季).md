@@ -182,6 +182,42 @@
 <td><p>36</p></td>
 <td><p>24</p></td>
 <td><p>2019/09/24</p></td>
+<td><p>2.239%</p></td>
+</tr>
+<tr class="odd">
+<td><p>37</p></td>
+<td><p>25</p></td>
+<td><p>2019/10/01</p></td>
+<td><p>2.633%</p></td>
+</tr>
+<tr class="even">
+<td><p>38</p></td>
+<td><p>26</p></td>
+<td><p>2019/10/08</p></td>
+<td><p>%</p></td>
+</tr>
+<tr class="odd">
+<td><p>39</p></td>
+<td><p>27</p></td>
+<td><p>2019/10/15</p></td>
+<td><p>%</p></td>
+</tr>
+<tr class="even">
+<td><p>40</p></td>
+<td><p>28</p></td>
+<td><p>2019/10/22</p></td>
+<td><p>%</p></td>
+</tr>
+<tr class="odd">
+<td><p>41</p></td>
+<td><p>29</p></td>
+<td><p>2019/10/29</p></td>
+<td><p>%</p></td>
+</tr>
+<tr class="even">
+<td><p>42</p></td>
+<td><p>30</p></td>
+<td><p>2019/11/05</p></td>
 <td><p>%</p></td>
 </tr>
 <tr class="odd">

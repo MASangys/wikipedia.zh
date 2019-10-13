@@ -6,21 +6,21 @@
 
 ## 演出
 
-|                                                     |                                                     |        |
-| --------------------------------------------------- | --------------------------------------------------- | ------ |
-| **演员**                                              | **角色**                                              | **备注** |
-| [肖战](https://zh.wikipedia.org/wiki/肖战 "wikilink")   | [张小凡](https://zh.wikipedia.org/wiki/张小凡 "wikilink") |        |
-| [李沁](../Page/李沁.md "wikilink")                      | [陆雪琪](https://zh.wikipedia.org/wiki/陆雪琪 "wikilink") |        |
-| [孟美岐](../Page/孟美岐.md "wikilink")                    | [碧瑶](https://zh.wikipedia.org/wiki/碧瑶 "wikilink")   |        |
-| [唐艺昕](../Page/唐艺昕.md "wikilink")                    | 田灵儿                                                 |        |
-| [邱心志](../Page/邱心志.md "wikilink")                    | 田不易                                                 |        |
-| [叶童](../Page/叶童.md "wikilink")                      | 水月大师                                                |        |
-| [姜大卫](https://zh.wikipedia.org/wiki/姜大卫 "wikilink") | 道玄真人                                                |        |
-| [徐少强](https://zh.wikipedia.org/wiki/徐少强 "wikilink") | 苍松道人                                                |        |
-| [梁家仁](../Page/梁家仁.md "wikilink")                    | 曾叔强                                                 |        |
-| [包小松](../Page/包小松.md "wikilink")                    | 商正梁                                                 |        |
-| [陈立唯](https://zh.wikipedia.org/wiki/陈立唯 "wikilink") | 天云道人                                                |        |
-| [李燊](https://zh.wikipedia.org/wiki/李燊 "wikilink")   | 林惊羽                                                 |        |
+|                                                     |                                                          |        |
+| --------------------------------------------------- | -------------------------------------------------------- | ------ |
+| **演员**                                              | **角色**                                                   | **备注** |
+| [肖战](https://zh.wikipedia.org/wiki/肖战 "wikilink")   | [张小凡](https://zh.wikipedia.org/wiki/张小凡 "wikilink")      |        |
+| [李沁](../Page/李沁.md "wikilink")                      | [陆雪琪](https://zh.wikipedia.org/wiki/陆雪琪 "wikilink")      |        |
+| [孟美岐](../Page/孟美岐.md "wikilink")                    | [碧瑶](https://zh.wikipedia.org/wiki/碧瑶_\(诛仙\) "wikilink") |        |
+| [唐艺昕](../Page/唐艺昕.md "wikilink")                    | 田灵儿                                                      |        |
+| [邱心志](../Page/邱心志.md "wikilink")                    | 田不易                                                      |        |
+| [叶童](../Page/叶童.md "wikilink")                      | 水月大师                                                     |        |
+| [姜大卫](https://zh.wikipedia.org/wiki/姜大卫 "wikilink") | 道玄真人                                                     |        |
+| [徐少强](https://zh.wikipedia.org/wiki/徐少强 "wikilink") | 苍松道人                                                     |        |
+| [梁家仁](../Page/梁家仁.md "wikilink")                    | 曾叔强                                                      |        |
+| [包小松](../Page/包小松.md "wikilink")                    | 商正梁                                                      |        |
+| [陈立唯](https://zh.wikipedia.org/wiki/陈立唯 "wikilink") | 天云道人                                                     |        |
+| [李燊](https://zh.wikipedia.org/wiki/李燊 "wikilink")   | 林惊羽                                                      |        |
 
 ## 曲目
 
@@ -31,6 +31,12 @@
 ## 上映
 
 《诛仙 I》原定于2019年8月8日上映，后来推迟到9月12日上映，又往后推迟一天。\[5\]\[6\]\[7\]
+
+## 评价
+
+电影人程青松发文批评诛仙电影：金扫帚奖恭候各位\[8\]
+
+3天破2亿，《诛仙Ⅰ》赢了票房，输了口碑，网友：年度烂片\[9\]
 
 ## 票房
 
@@ -54,3 +60,7 @@
 5.
 6.
 7.
+
+8.  诛仙{{\!}} 凤凰网娱乐_凤凰网|url=[https://ent.ifeng.com/c/7pxZ7dUsXOS=凤凰网娱乐|work=ent.ifeng.com](https://ent.ifeng.com/c/7pxZ7dUsXOS=凤凰网娱乐%7Cwork=ent.ifeng.com)}}
+
+9.  诛仙{{\!}} 微信娱乐_微信网|url=[https://xw.qq.com/amphtml/20190915A05JXV00=微信|work=xw.qq.com](https://xw.qq.com/amphtml/20190915A05JXV00=微信%7Cwork=xw.qq.com)}}

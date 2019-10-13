@@ -2,7 +2,7 @@
 
 ## 參考文獻
 
-## 外部連接
+## 外部链接
 
   -
   - [Company Profile](http://biz.yahoo.com/ic/92/92264.html)

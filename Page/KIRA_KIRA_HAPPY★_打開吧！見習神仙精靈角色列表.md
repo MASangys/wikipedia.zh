@@ -210,53 +210,94 @@
 
 ## 其他神仙精靈
 
-### 獨當一面主要神仙精靈
+### 獨當一面神仙精靈
+
+:;
 
   -
-    配音：[远近孝一](../Page/远近孝一.md "wikilink")
-    男性，49話登場，神仙精靈仙人，因為是仙人所以魔法在其他神仙精靈之中功力較為高強。穿著红色「仙」字[兜擋布](https://zh.wikipedia.org/wiki/褌 "wikilink")。
+
+      -
+        配音：[远近孝一](../Page/远近孝一.md "wikilink")
+        男性，49話登場，神仙精靈仙人，因為是仙人所以魔法在其他神仙精靈之中功力較為高強。穿著红色「仙」字[兜擋布](https://zh.wikipedia.org/wiki/褌 "wikilink")。
+
+:;
+
+  -
+
+      -
+        配音：[生天目仁美](../Page/生天目仁美.md "wikilink")
+        女性，49話登場，白色的身軀，[音樂盒誕生的神仙精靈](https://zh.wikipedia.org/wiki/KIRA_KIRA_HAPPY★_打開吧！見習神仙精靈#本作神仙精靈設施 "wikilink")，已是獨當一面的神仙精靈。名字取自日文的「[交響曲](../Page/交響曲.md "wikilink")」。
+
+:;
+
+  -
+
+      -
+        配音：[豐崎愛生](../Page/豐崎愛生.md "wikilink")
+        女性，49話登場，紫色的身軀，[夜燈誕生的神仙精靈](https://zh.wikipedia.org/wiki/KIRA_KIRA_HAPPY★_打開吧！見習神仙精靈#本作神仙精靈設施 "wikilink")，已是獨當一面的神仙精靈。
+
+:;
+
+  -
+
+      -
+        配音：[七濑彩夏](https://zh.wikipedia.org/wiki/七濑彩夏 "wikilink")
+        女性，49話登場，品紅色的身軀，[茶壺誕生的神仙精靈](https://zh.wikipedia.org/wiki/KIRA_KIRA_HAPPY★_打開吧！見習神仙精靈#本作神仙精靈設施 "wikilink")，已是獨當一面的神仙精靈。
+
+:;
+
+  -
+
+      -
+        配音：
+        女性，49話登場，淡粉色的身軀，[寶石箱誕生的神仙精靈](https://zh.wikipedia.org/wiki/KIRA_KIRA_HAPPY★_打開吧！見習神仙精靈#本作神仙精靈設施 "wikilink")，已是獨當一面的神仙精靈。
+
+:;
+
+  -
+
+      -
+        配音：
+        男性，49話登場，淺藍色的身軀，[醫療書誕生的神仙精靈](https://zh.wikipedia.org/wiki/KIRA_KIRA_HAPPY★_打開吧！見習神仙精靈#本作神仙精靈設施 "wikilink")，已是獨當一面的神仙精靈。
+
+:;
+
+  -
+
+      -
+        配音：[嶋村侑](../Page/嶋村侑.md "wikilink")
+        男性，49話登場，水藍色的身軀，[行李箱誕生的神仙精靈](https://zh.wikipedia.org/wiki/KIRA_KIRA_HAPPY★_打開吧！見習神仙精靈#本作神仙精靈設施 "wikilink")，已是獨當一面的神仙精靈。
+
+:;
+
+  -
+
+      -
+        配音：
+        男性，49話登場，橙色的身軀，[時鐘誕生的神仙精靈](https://zh.wikipedia.org/wiki/KIRA_KIRA_HAPPY★_打開吧！見習神仙精靈#本作神仙精靈設施 "wikilink")，已是獨當一面的神仙精靈。
 
 <!-- end list -->
 
   -
-    配音：[生天目仁美](../Page/生天目仁美.md "wikilink")
-    女性，49話登場，白色的身軀，[音樂盒誕生的神仙精靈](https://zh.wikipedia.org/wiki/KIRA_KIRA_HAPPY★_打開吧！見習神仙精靈#本作神仙精靈設施 "wikilink")，已是獨當一面的神仙精靈。名字取自日文的「[交響曲](../Page/交響曲.md "wikilink")」。
-
-<!-- end list -->
-
+    配音：[潘惠美](../Page/潘惠美.md "wikilink")（日本）
   -
-    配音：[豐崎愛生](../Page/豐崎愛生.md "wikilink")
-    女性，49話登場，紫色的身軀，[夜燈誕生的神仙精靈](https://zh.wikipedia.org/wiki/KIRA_KIRA_HAPPY★_打開吧！見習神仙精靈#本作神仙精靈設施 "wikilink")，已是獨當一面的神仙精靈。
-
-<!-- end list -->
-
+    配音：[豐崎愛生](../Page/豐崎愛生.md "wikilink")（日本）
   -
-    配音：[七濑彩夏](https://zh.wikipedia.org/wiki/七濑彩夏 "wikilink")
-    女性，49話登場，品紅色的身軀，[茶壺誕生的神仙精靈](https://zh.wikipedia.org/wiki/KIRA_KIRA_HAPPY★_打開吧！見習神仙精靈#本作神仙精靈設施 "wikilink")，已是獨當一面的神仙精靈。
-
-<!-- end list -->
-
+    配音：[嘉數由美](../Page/嘉數由美.md "wikilink")（日本）
   -
-    配音：
-    女性，49話登場，淡粉色的身軀，[寶石箱誕生的神仙精靈](https://zh.wikipedia.org/wiki/KIRA_KIRA_HAPPY★_打開吧！見習神仙精靈#本作神仙精靈設施 "wikilink")，已是獨當一面的神仙精靈。
-
-<!-- end list -->
-
+    配音：[愛河里花子](../Page/愛河里花子.md "wikilink")（日本）
   -
-    配音：
-    男性，49話登場，淺藍色的身軀，[醫療書誕生的神仙精靈](https://zh.wikipedia.org/wiki/KIRA_KIRA_HAPPY★_打開吧！見習神仙精靈#本作神仙精靈設施 "wikilink")，已是獨當一面的神仙精靈。
-
-<!-- end list -->
-
+    配音：[柚木涼香](../Page/柚木涼香.md "wikilink")（日本）
   -
-    配音：[嶋村侑](../Page/嶋村侑.md "wikilink")
-    男性，49話登場，水藍色的身軀，[行李箱誕生的神仙精靈](https://zh.wikipedia.org/wiki/KIRA_KIRA_HAPPY★_打開吧！見習神仙精靈#本作神仙精靈設施 "wikilink")，已是獨當一面的神仙精靈。
-
-<!-- end list -->
-
+    配音：[村瀨迪與](../Page/村瀨迪與.md "wikilink")（日本）
   -
-    配音：
-    男性，49話登場，橙色的身軀，[時鐘誕生的神仙精靈](https://zh.wikipedia.org/wiki/KIRA_KIRA_HAPPY★_打開吧！見習神仙精靈#本作神仙精靈設施 "wikilink")，已是獨當一面的神仙精靈。
+    配音：[藤村步](../Page/藤村步.md "wikilink")（日本）
+  -
+    配音：[白鳥由里](../Page/白鳥由里.md "wikilink")（日本）
+  -
+    配音：[折笠富美子](../Page/折笠富美子.md "wikilink")（日本）
+
+以上9名均在55話中出現，有關於本角色的介紹，詳見「[見習神仙精靈](https://zh.wikipedia.org/wiki/見習神仙精靈角色列表#四葉家的神仙精靈 "wikilink")」。
 
 ## 親族･兄弟
 

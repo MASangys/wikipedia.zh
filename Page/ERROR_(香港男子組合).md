@@ -16,6 +16,14 @@
 
 7月8日：《Cooking GiGi 台灣篇》首播，昔日GiGi姐主持節目，ERROR的肥仔和保錡兩位兵仔任她使喚。\[4\]
 
+2月4日：花姐error遊第一季播出。
+
+2月22日:花姐error遊第一季播映完畢。
+
+9月2日：花姐error遊第二季播出。
+
+9月27日：花姐error遊第二季播映完畢。
+
 ## 成員資料
 
 | colspan="8" style="background: \#000000; color: white; | 成員列表 |
@@ -40,6 +48,7 @@
 | colspan="4" style="background: \#000000; color: white;|ERROR |
 | 2018年12月3日                                                   |
 | 2019年2月2日                                                    |
+| 2019年9月23日                                                   |
 
 ## 影視作品
 

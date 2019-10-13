@@ -348,6 +348,13 @@ YRCN-95264:TYPE-B (CD)</p></td>
 <td><p>15</p></td>
 </tr>
 <tr class="odd">
+<td><p>4th</p></td>
+<td><p>2019年<a href="../Page/9月25日.md" title="wikilink">9月25日</a></p></td>
+<td><p><strong></strong></p></td>
+<td><p>數位音樂下載</p></td>
+<td><p>15</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>

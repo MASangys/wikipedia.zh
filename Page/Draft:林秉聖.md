@@ -1,0 +1,28 @@
+'
+
+**林秉聖**（），出生於[中華民國](../Page/中華民國.md "wikilink")[臺灣省](../Page/臺灣省.md "wikilink")[台北市](https://zh.wikipedia.org/wiki/台北市 "wikilink")，現役[中華民國](../Page/中華民國.md "wikilink")職業[籃球運動員](https://zh.wikipedia.org/wiki/籃球運動員 "wikilink")，現效力於[NBL聯盟的](https://zh.wikipedia.org/wiki/NBL "wikilink")[陝西信達](https://zh.wikipedia.org/wiki/陝西信達籃球俱樂部 "wikilink")，場上位置為[控球後衛](https://zh.wikipedia.org/wiki/控球後衛 "wikilink")。
+
+## 經歷
+
+  - [2013年](../Page/2013年.md "wikilink")～[2015年](../Page/2015年.md "wikilink") -- [高級中等學校籃球聯賽甲級](https://zh.wikipedia.org/wiki/高級中等學校籃球聯賽 "wikilink")[台北市私立](https://zh.wikipedia.org/wiki/台北市 "wikilink")[強恕高中籃球隊](https://zh.wikipedia.org/wiki/強恕高中 "wikilink")
+  - [2016年](../Page/2016年.md "wikilink")～[2019年](../Page/2019年.md "wikilink") -- [大專校院籃球運動聯賽](../Page/大專校院籃球運動聯賽.md "wikilink")公開男子組一級[中國文化大學籃球隊](https://zh.wikipedia.org/wiki/中國文化大學 "wikilink")
+  - [2019年](../Page/2019年.md "wikilink")～ -- [中國全國男子籃球聯賽](https://zh.wikipedia.org/wiki/中國全國男子籃球聯賽 "wikilink")[陝西信達](https://zh.wikipedia.org/wiki/陝西信達籃球俱樂部 "wikilink")
+
+## 學生時代
+
+林秉聖從小學就開始接觸籃球，哥哥為效力於[台灣銀行籃球隊的](https://zh.wikipedia.org/wiki/台灣銀行籃球隊 "wikilink") [林任鴻](https://zh.wikipedia.org/wiki/林任鴻 "wikilink")，大他三歲且從小學就加入了籃球隊，所以一直向著學習，讓秉聖也有個人生方向，想像哥哥一樣的在球場發揮。
+
+## NBL生涯
+
+林秉聖於2019年8月，加盟陝西信達，簽下1+1合約，開啟他的NBL生涯，並於2019年8月23日正式隨隊開訓。林秉聖表示，「會選擇陝西信達，除了很適應這裡的環境外，也希望給自己未來持續挑戰CBA的動力及方向。」\[1\]。
+
+## 參考資料
+
+## 外部連結
+
+  -
+[:Category:使用创建条目精灵建立的页面](https://zh.wikipedia.org/wiki/Category:使用创建条目精灵建立的页面 "wikilink")
+
+[Category:臺灣籃球運動員](https://zh.wikipedia.org/wiki/Category:臺灣籃球運動員 "wikilink") [Category:陝西信達籃球俱樂部籃球隊球員](https://zh.wikipedia.org/wiki/Category:陝西信達籃球俱樂部籃球隊球員 "wikilink") [Category:臺北市私立強恕高級中學校友](https://zh.wikipedia.org/wiki/Category:臺北市私立強恕高級中學校友 "wikilink") [Category:中國文化大學校友](https://zh.wikipedia.org/wiki/Category:中國文化大學校友 "wikilink") [Category:台北人](https://zh.wikipedia.org/wiki/Category:台北人 "wikilink") [Category:林姓](https://zh.wikipedia.org/wiki/Category:林姓 "wikilink")
+
+1.

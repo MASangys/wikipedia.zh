@@ -143,7 +143,7 @@ AR performers是由遊戲制作人[內田明理負責制作](https://zh.wikipedi
   - [@Akari_uchida](https://twitter.com/Akari_Uchida) - 內田明理推特
   - [ユークス公式 / YUKE'S](https://twitter.com/yukes_official) - YUKE'S推特
 
-[Category:增强现实](https://zh.wikipedia.org/wiki/Category:增强现实 "wikilink") [Category:虛構歌手](https://zh.wikipedia.org/wiki/Category:虛構歌手 "wikilink") [Category:愛貝克思集團藝人](https://zh.wikipedia.org/wiki/Category:愛貝克思集團藝人 "wikilink")
+[Category:增强现实](https://zh.wikipedia.org/wiki/Category:增强现实 "wikilink") [Category:虛構歌手](https://zh.wikipedia.org/wiki/Category:虛構歌手 "wikilink") [Category:愛貝克思集團藝人](https://zh.wikipedia.org/wiki/Category:愛貝克思集團藝人 "wikilink") [Category:虛擬偶像](https://zh.wikipedia.org/wiki/Category:虛擬偶像 "wikilink")
 
 1.  [AR performers官网资料](https://arp-fc.yukes.co.jp/homepage/arp/)
 2.  [【レポート】ARアーティスト“ARP”アニメ化も発表！ 「チャレンジの連続」最新ライブ＆コンベンションレポート](https://www.bs-log.com/20180819_1306493/) - bs-log 2018-08-19

@@ -309,7 +309,7 @@
 <!-- end list -->
 
   -
-  - [BBC国际知识频道](https://zh.wikipedia.org/wiki/BBC知識_\(國際\) "wikilink")
+  - [BBC国际知识频道](../Page/BBC知識_\(國際\).md "wikilink")
 
   -
 ### 电台

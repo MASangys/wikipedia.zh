@@ -9,17 +9,17 @@
 
 1.  **Wonderland** (4:05)
       -
-        將[繭居族作為核心所撰寫的樂曲](https://zh.wikipedia.org/wiki/繭居族 "wikilink")。稻葉自身在某部受理了「繭居族」的電視特別節目上，看到繭居族患者周遭的人們拼命企圖使其外出的姿態「那樣的行為無論是對於當事人而言，抑或是對於對方而言，都會成為好處嗎？{{\#tag:ref||group="原文"}}」來自於從這樣的一種疑問中所誕生的歌曲。
-        稻葉起初，似乎打算將標題訂為「顛倒的世界」（）。順帶一提，自數年前起便已存在歌詞，當時的標題是「閃閃發光」（）。
+        以[繭居族為核心所撰寫的樂曲](https://zh.wikipedia.org/wiki/繭居族 "wikilink")。稻葉自身在某部受理了「繭居族」的電視特別節目上，看到繭居族患者周遭的人們拼命地企圖使其外出的姿態，從而由「那樣的行為無論是對於當事人而言，抑或是對於對方而言，都會有利嗎？{{\#tag:ref||group="原文"}}」這樣一種疑問中所誕生的樂曲。
+        稻葉起初，似乎是打算將標題訂為「顛倒的世界」（）。順帶一提，歌詞自數年前起便已存在，當時的標題是「閃閃發光」（）。
         亦被受理作為TBS系「」的主題曲。
-        被收錄於第3張專輯『[Peace Of Mind](../Page/Peace_Of_Mind.md "wikilink")』中，本作是首次SOLO單曲被收錄於SOLO原創專輯。
+        被收錄於第3張專輯『[Peace Of Mind](../Page/Peace_Of_Mind.md "wikilink")』中，本作是首張被收錄於SOLO[原創專輯中的SOLO單曲](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。
 2.  **唯有你的聲音撼動了這顆心（）**(5:11)
       -
         在的[雜音下揭開序幕的抒情曲](https://zh.wikipedia.org/wiki/雜音 "wikilink")。
-        這首單曲是唯一未收錄於專輯『Peace Of Mind』且未在演唱會上演奏。
+        在本張單曲中唯一未收錄於專輯『Peace Of Mind』，也未在演唱會上演奏的樂曲。
 3.  **I AM YOUR BABY** (4:31)
       -
-        雖然被收錄在專輯『Peace Of Mind』中，但[藍調口琴變成了不同版本](../Page/口琴.md "wikilink")。
+        雖然被收錄於專輯『Peace Of Mind』中，但[藍調口琴的Take成為了不同版本](../Page/口琴.md "wikilink")。
 
 ## 製作人員
 

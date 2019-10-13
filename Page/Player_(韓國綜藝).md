@@ -1,36 +1,3 @@
-<table>
-<tbody>
-<tr class="odd">
-<td><div style="background:#DCDCDC; position:relative; width:300px; height:45px; display:table;">
-<div style="position:absolute; bottom:0; right:0;">
-</div>
-<p><span style="position:relative; width:100%; display:table-cell; vertical-align:middle; text-align:center; padding:4px;"><big><big><strong>Player</strong></big></big> </span></p>
-</div></td>
-</tr>
-<tr class="even">
-<td><p><strong>類型</strong></p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>製作國家／地區</strong></p></td>
-</tr>
-<tr class="even">
-<td><p><strong>首播頻道</strong></p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>播出日期</strong></p></td>
-</tr>
-<tr class="even">
-<td><p><strong>播出時間</strong></p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>每集長度</strong></p></td>
-</tr>
-<tr class="even">
-<td><p><strong>外部連結</strong></p></td>
-</tr>
-</tbody>
-</table>
-
 《**Player**》（，）是在[tvN上播出的](../Page/TVN.md "wikilink")[电视节目](../Page/电视节目.md "wikilink")，玩家們需忍笑並履行各自任務的節目 \[1\]。
 
 ## 節目概要
@@ -48,66 +15,16 @@
 
 ### 成员
 
-<table>
-<thead>
-<tr class="header">
-<th><p>成员</p></th>
-<th><p>人物設定</p></th>
-<th><p>參演日期</p></th>
-<th><p>集數</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><a href="../Page/李壽根.md" title="wikilink">李壽根</a></p></td>
-<td><p>藝能隊長</p></td>
-<td><p>2019年7月14日 - <strong>至今</strong></p></td>
-<td><p>第1集〜 <strong>至今</strong></p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/金東炫.md" title="wikilink">金東炫</a></p></td>
-<td><p>現在幾乎是(?)笑星</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/黃帝聖.md" title="wikilink">黃帝聖</a></p></td>
-<td><p>公開喜劇屆總統</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/李陳鎬.md" title="wikilink">李陳鎬</a></p></td>
-<td><p>骨子裹就是搞笑藝人</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/李龍眞.md" title="wikilink">李龍眞</a></p></td>
-<td><p>相信而看的藝能大勢</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/李伊庚.md" title="wikilink">李伊庚</a></p></td>
-<td><p>搞笑演技美男</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><p>老么玩家</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| 成员                                                | 人物設定       | 參演日期                | 集數          |
+| ------------------------------------------------- | ---------- | ------------------- | ----------- |
+| [李壽根](../Page/李壽根.md "wikilink")                  | 藝能隊長       | 2019年7月14日 - **至今** | 第1集〜 **至今** |
+| [金東炫](../Page/金東炫.md "wikilink")                  | 現在幾乎是(?)笑星 |                     |             |
+| [黃帝聖](../Page/黃帝聖.md "wikilink")                  | 公開喜劇屆總統    |                     |             |
+| [李龍眞](../Page/李龍眞.md "wikilink")                  | 相信而看的藝能大勢  |                     |             |
+| [李陳鎬](../Page/李陳鎬.md "wikilink")                  | 骨子裹就是搞笑藝人  |                     |             |
+| [李伊庚](../Page/李伊庚.md "wikilink")                  | 搞笑演技美男     |                     |             |
+| [鄭赫](https://zh.wikipedia.org/wiki/鄭赫 "wikilink") | 老么玩家       |                     |             |
+|                                                   |            |                     |             |
 
 ## 播出列表
 
@@ -174,14 +91,26 @@
 <tr class="odd">
 <td><p>9</p></td>
 <td><p>9月8日</p></td>
-<td><p>Show Me The Play + Diss Battle</p></td>
+<td><p>Show Me The Play試鏡 + Diss Battle</p></td>
 <td><p>、 (<a href="../Page/Jinusean.md" title="wikilink">Jinusean</a>)、<a href="../Page/梁東根.md" title="wikilink">梁東根</a>、<a href="../Page/張東民.md" title="wikilink">張東民</a>、<a href="../Page/金鍾旼.md" title="wikilink">金鍾旼</a>(<a href="../Page/高耀太.md" title="wikilink">高耀太</a>)(實習Player)、<a href="../Page/Dynamic_Duo.md" title="wikilink">Dynamic Duo</a>、、<a href="../Page/John_Park.md" title="wikilink">John Park</a>、<a href="../Page/DinDin.md" title="wikilink">DinDin</a>、<a href="../Page/趙旴燦.md" title="wikilink">趙旴燦</a></p></td>
 </tr>
 <tr class="even">
 <td><p>10</p></td>
 <td><p>9月22日</p></td>
-<td><p>Show Me The Play決賽</p></td>
-<td><p>、 (<a href="../Page/Jinusean.md" title="wikilink">Jinusean</a>)、<a href="../Page/梁東根.md" title="wikilink">梁東根</a>、<a href="../Page/張東民.md" title="wikilink">張東民</a>、<a href="../Page/金鍾旼.md" title="wikilink">金鍾旼</a>(<a href="../Page/高耀太.md" title="wikilink">高耀太</a>)(實習Player)、<a href="../Page/Dynamic_Duo.md" title="wikilink">Dynamic Duo</a>、、<a href="../Page/DinDin.md" title="wikilink">DinDin</a>、<a href="../Page/趙旴燦.md" title="wikilink">趙旴燦</a></p></td>
+<td><p>Pal老師的嘻哈學概论 + Show Me The Play決賽</p></td>
+<td><p><a href="../Page/張東民.md" title="wikilink">張東民</a>、、、 (<a href="../Page/Jinusean.md" title="wikilink">Jinusean</a>)、<a href="../Page/梁東根.md" title="wikilink">梁東根</a>、<a href="../Page/金鍾旼.md" title="wikilink">金鍾旼</a>(<a href="../Page/高耀太.md" title="wikilink">高耀太</a>)(實習Player)、<a href="../Page/Dynamic_Duo.md" title="wikilink">Dynamic Duo</a>、<a href="../Page/DinDin.md" title="wikilink">DinDin</a>、<a href="../Page/趙旴燦.md" title="wikilink">趙旴燦</a>、、<a href="../Page/Eunha.md" title="wikilink">Eunha</a>(<a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a>)、<a href="https://zh.wikipedia.org/wiki/柳星恩" title="wikilink">柳星恩</a>、</p></td>
+</tr>
+<tr class="odd">
+<td><p>11</p></td>
+<td><p>9月29日</p></td>
+<td><p>Play! 超级模特時裝秀T台 + 改造後T台 + 拜託了衣櫃</p></td>
+<td><p><a href="../Page/張允柱.md" title="wikilink">張允柱</a>、、、、金友利、<a href="../Page/張東民.md" title="wikilink">張東民</a></p></td>
+</tr>
+<tr class="even">
+<td><p>12</p></td>
+<td><p>10月6日</p></td>
+<td><p>挑战！魅力曼蘇爾 + 拍攝</p></td>
+<td><p><a href="../Page/柳炳宰.md" title="wikilink">柳炳宰</a>、張允柱、宋海娜</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -225,6 +154,7 @@
 <p>2019年7月21日</p>
 </center></td>
 <td><center>
+<p>1.0%</p>
 </center></td>
 </tr>
 <tr class="even">
@@ -295,7 +225,6 @@
 <p>2019年9月22日</p>
 </center></td>
 <td><center>
-<p>%</p>
 </center></td>
 </tr>
 <tr class="even">

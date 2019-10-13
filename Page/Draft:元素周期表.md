@@ -317,7 +317,7 @@
   - [Periodic table of videos](http://www.periodicvideos.com)
   - [WebElements](http://www.webelements.com)
 
-\[\[Category:元素周期表|Category:元素周期表\]\] \[\[Category:化学元素|Category:化学元素\]\]   \[\[Category:俄羅斯發明|Category:俄羅斯發明\]\] \[\[Category:1869年作品|Category:1869年作品\]\]
+[Category:Periodic_table](https://zh.wikipedia.org/wiki/Category:Periodic_table "wikilink") [Category:Chemical_elements](https://zh.wikipedia.org/wiki/Category:Chemical_elements "wikilink") [Category:1869_works](https://zh.wikipedia.org/wiki/Category:1869_works "wikilink") [Category:Classification_systems](https://zh.wikipedia.org/wiki/Category:Classification_systems "wikilink") [Category:Dmitri_Mendeleev](https://zh.wikipedia.org/wiki/Category:Dmitri_Mendeleev "wikilink") [Category:Russian_inventions](https://zh.wikipedia.org/wiki/Category:Russian_inventions "wikilink")
 
 1.
 

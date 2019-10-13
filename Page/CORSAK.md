@@ -21,6 +21,8 @@ CORSAK从3岁起学习[古典钢琴](../Page/钢琴.md "wikilink")\[9\]，曾就
   -
   -
   -
+  - （旧帐户）
+
 [Category:中國音樂製作人](https://zh.wikipedia.org/wiki/Category:中國音樂製作人 "wikilink") [Category:中国DJ](https://zh.wikipedia.org/wiki/Category:中国DJ "wikilink") [Category:上海音乐家](https://zh.wikipedia.org/wiki/Category:上海音乐家 "wikilink") [Category:混音師](https://zh.wikipedia.org/wiki/Category:混音師 "wikilink") [Category:上海音乐学院校友](https://zh.wikipedia.org/wiki/Category:上海音乐学院校友 "wikilink") [Category:胡姓](https://zh.wikipedia.org/wiki/Category:胡姓 "wikilink") [Category:中国好声音学员](https://zh.wikipedia.org/wiki/Category:中国好声音学员 "wikilink")
 
 1.

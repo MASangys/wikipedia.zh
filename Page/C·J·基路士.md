@@ -12,6 +12,6 @@
 
 1.  [Kansas C Giles dismissed for 'irresponsible behavior'](http://sports.espn.go.com/ncb/news/story?id=2653005)
 2.  [Oregon State dismisses troubled center Giles from team](http://sports.espn.go.com/ncb/news/story?id=3207685)
-3.  [Final Draft Early Entry Candidate List](http://www.nba.com/news/draft_list_080617.html)
+3.
 4.
 5.  [Los Angeles Acquires Earl Barron](http://www.oursportscentral.com/services/releases/?id=3785724)

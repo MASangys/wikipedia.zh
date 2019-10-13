@@ -22,7 +22,7 @@
 | 406 | 2月2日   | 謝文欣、李晧軒、Myar、黃紫藍　難忘首次參與頒獎禮 | [謝文欣](../Page/謝文欣.md "wikilink")、[李晧軒](../Page/李晧軒.md "wikilink")、[Myar](../Page/Myar.md "wikilink")、[黃紫藍](https://zh.wikipedia.org/wiki/黃紫藍 "wikilink") |- style="background-color: \#FFFFFF" | |
 | 407 | 2月9日   | 梁釗峰　一個人在途上                 | [梁釗峰](../Page/梁釗峰.md "wikilink") |- style="background-color: \#FFFFFF" |                                                                                                                         |
 | 408 | 2月16日  | HANA、陳健安　從創作到處境劇           | [HANA](../Page/菊梓喬.md "wikilink")、[陳健安](../Page/陳健安.md "wikilink") |- style="background-color: \#FFFFFF" |                                                                                       |
-| 409 | 2月23日  | After10、Pandora　樂隊夾人最重要    | [After10](../Page/After10.md "wikilink")、[Pandora](https://zh.wikipedia.org/wiki/潘朵拉樂團 "wikilink") |- style="background-color: \#FFFFFF" |                                                       |
+| 409 | 2月23日  | After10、Pandora　樂隊夾人最重要    | [After10](../Page/After10.md "wikilink")、[Pandora](../Page/潘朵拉樂團.md "wikilink") |- style="background-color: \#FFFFFF" |                                                                          |
 
 ## 3月
 
@@ -88,5 +88,6 @@
 | 437 | 9月7日   | 李靖筠、美琪、黃千庭　新人闖樂壇 | [李靖筠](../Page/李靖筠.md "wikilink")、[美琪](https://zh.wikipedia.org/wiki/美琪 "wikilink")、[黃千庭](../Page/黃千庭.md "wikilink") |- style="background-color: \#FFFFFF" | |
 | 438 | 9月14日  | 王梓軒、歌莉雅　錫聲技巧     | [王梓軒](../Page/王梓軒.md "wikilink")、[歌莉雅](../Page/歌莉雅.md "wikilink") |- style="background-color: \#FFFFFF" |                                                   |
 | 439 | 9月21日  | 馮允謙、JW　把靚聲留給聽眾   | [馮允謙](../Page/馮允謙.md "wikilink")、[JW](../Page/王灝兒.md "wikilink") |- style="background-color: \#FFFFFF" |                                                    |
+| 440 | 9月28日  | 鍾達茵、林穎彤　由新人出發    | [鍾達茵](https://zh.wikipedia.org/wiki/鍾達茵 "wikilink")、[林穎彤](../Page/林穎彤.md "wikilink") |- style="background-color: \#FFFFFF" |                                |
 
 [Category:無綫電視節目列表](https://zh.wikipedia.org/wiki/Category:無綫電視節目列表 "wikilink") [Category:Music_Café](https://zh.wikipedia.org/wiki/Category:Music_Café "wikilink") [Category:2019年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2019年無綫電視節目 "wikilink")

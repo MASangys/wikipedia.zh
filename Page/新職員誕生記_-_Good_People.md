@@ -60,9 +60,9 @@
 | 編號 | 姓名                               | 性別 | 學經歷      | 出現集數       |
 | -- | -------------------------------- | -- | -------- | ---------- |
 | 1  | [姜鎬童](../Page/姜鎬童.md "wikilink") | 男  | 主持人      | EP1～       |
-| 2  | [李壽根](../Page/李壽根.md "wikilink") | 男  | 主持人      | EP1\~      |
-| 3  | [申雅英](../Page/申雅英.md "wikilink") | 女  | SBS主播、記者 | EP1\~      |
-| 4  | 都振棋                              | 男  | 律師       | EP1\~      |
+| 2  | [李壽根](../Page/李壽根.md "wikilink") | 男  | 主持人      | EP1～       |
+| 3  | [申雅英](../Page/申雅英.md "wikilink") | 女  | SBS主播、記者 | EP1～       |
+| 4  | 都振棋                              | 男  | 律師       | EP1～       |
 | 5  | [李詩媛](../Page/李詩媛.md "wikilink") | 女  | 演員       | EP1～2、EP5～ |
 | 6  | 全范善                              | 男  | 歌手       | EP1～4、EP6  |
 | 7  | [安炫牟](../Page/安炫牟.md "wikilink") | 女  | SBS主播、記者 | EP3～4      |
@@ -180,6 +180,8 @@
 ## 外部連結
 
   - [官方網站](http://www.ichannela.com/program/template/program_refinement.do?cateCode=0500&subCateCode=050049&pgm_id=WPG2190004D)
+  - [李示訓實習生的YouTube頻道](https://www.youtube.com/channel/UCu9feTMM_Yao7_DnDMJFt6g)
+  - [林炫瑞實習生的YouTube頻道](https://www.youtube.com/channel/UCmNpN_XfKSf_JCxYIomLB2w)
 
 [Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:Channel_A](https://zh.wikipedia.org/wiki/Category:Channel_A "wikilink")
 

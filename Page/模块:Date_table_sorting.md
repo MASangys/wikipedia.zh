@@ -54,8 +54,10 @@ end Dts.monthSearch = Dts._makeMonthSearch(Dts.months) Dts.monthSearchAbbr = Dts
 
 Dts.formats = {
 
+`   ymd = true,`
 `   dmy = true,`
 `   mdy = true,`
+`   ym = true,`
 `   dm = true,`
 `   md = true,`
 `   my = true,`
@@ -112,19 +114,16 @@ function Dts.new(args)
 `       error('days must be an integer between 1 and 31', 0)`
 `   end`
 
-`   -- Set month abbreviation behaviour, i.e. whether we are outputting`
-`   -- "January" or "Jan".`
-`   if args.abbr then`
-`       self.isAbbreviated = args.abbr == 'on' or yesno(args.abbr) or false`
-`   else`
-`       self.isAbbreviated = self.isAbbreviated or false`
+`   -- Set debug mode`
+`   if args.debug then`
+`       self.isdebug = args.debug`
 `   end`
 
 `   -- Set the format string`
 `   if args.format then`
 `       self.format = args.format`
 `   else`
-`       self.format = self.format or 'mdy'`
+`       self.format = self.format or 'ymd'`
 `   end`
 `   if not Dts.formats[self.format] then`
 `       error(string.format(`
@@ -148,6 +147,14 @@ function Dts.new(args)
 
 `   -- Set whether the displayed date is allowed to wrap or not.`
 `   self.isWrapping = args.nowrap == 'off' or yesno(args.nowrap) == false`
+
+`   -- Set whether the abbreviated or not.`
+`   self.isAbbreviated = args.abbr == 'on' or yesno(args.abbr) == true`
+
+`   -- Check for deprecated parameters.`
+`   if args.link then`
+`       self.hasDeprecatedParameters = true`
+`   end`
 
 `   return self`
 
@@ -241,8 +248,23 @@ end
 `       end`
 `   end`
 
+`   local function parseMonth(s)`
+`       if s:find('^%d%d?$') and tonumber(s) >=1 and tonumber(s) <= 12 then`
+`           return tonumber(s)`
+`       end`
+`   end`
+
+`   local function parseDay(s)`
+`       if self.month then`
+`           lastday = {31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31}`
+`           if s:find('^%d%d?$') and tonumber(s) >=1 and tonumber(s) <= lastday[self.month] then`
+`               return tonumber(s)`
+`           end`
+`       end`
+`   end`
+
 `   local function parseYear(s)`
-`       if s:find('^%d%d%d%d?$') then`
+`       if s:find('^%d%d?%d?%d?$') then`
 `           return tonumber(s)`
 `       end`
 `   end`
@@ -290,6 +312,7 @@ end
 `       -- Month DD`
 `       -- Month YYYY`
 `       -- YYYY-MM`
+`       -- MM-DD`
 `       self.month = self:parseMonthName(parts[1])`
 `       if self.month then`
 `           -- This is either Month DD or Month YYYY.`
@@ -306,17 +329,23 @@ end
 `           self.month = self:parseMonthName(parts[2])`
 `           if self.month then`
 `               -- This is DD Month.`
-`               self.format = 'dmy'`
+`               self.format = 'ymd'`
 `               self.day = parseDayOrMonth(parts[1])`
 `               if not self.day then`
 `                   dateError()`
 `               end`
 `           else`
-`               -- This is YYYY-MM.`
-`               self.year = parseYear(parts[1])`
-`               self.month = parseDayOrMonth(parts[2])`
-`               if not self.year or not self.month then`
-`                   dateError()`
+`               -- This is MM-DD.`
+`               self.month = parseMonth(parts[1])`
+`               if self.month then`
+`                   self.day = parseDay(parts[2])`
+`               else`
+`                   -- This is YYYY-MM.`
+`                   self.year = parseYear(parts[1])`
+`                   self.month = parseMonth(parts[2])`
+`                   if not (self.year and self.month) then`
+`                       dateError()`
+`                   end`
 `               end`
 `           end`
 `       end`
@@ -341,14 +370,14 @@ end
 `               self.month = self:parseMonthName(parts[2])`
 `               if self.month then`
 `                   -- This is DD Month YYYY.`
-`                   self.format = 'dmy'`
+`                   self.format = 'ymd'`
 `                   self.year = parseYear(parts[3])`
 `                   if not self.year then`
 `                       dateError()`
 `                   end`
 `               else`
 `                   -- This is DD-MM-YYYY.`
-`                   self.format = 'dmy'`
+`                   self.format = 'ymd'`
 `                   self.month = parseDayOrMonth(parts[2])`
 `                   self.year = parseYear(parts[3])`
 `                   if not self.month or not self.year then`
@@ -415,56 +444,111 @@ function Dts:makeDisplay()
 `   local hasYear = self.year and self.format:find('y')`
 `   local hasMonth = self.month and self.format:find('m')`
 `   local hasDay = self.day and self.format:find('d')`
-`   local isMonthFirst = self.format:find('md')`
 `   local ret = {}`
-`   if hasDay and hasMonth and isMonthFirst then`
-`       ret[#ret + 1] = self:getMonthName()`
-`       ret[#ret + 1] = ' '`
-`       ret[#ret + 1] = self.day`
-`       if hasYear then`
-`           ret[#ret + 1] = ','`
-`       end`
-`   elseif hasDay and hasMonth then`
-`       ret[#ret + 1] = self.day`
-`       ret[#ret + 1] = ' '`
-`       ret[#ret + 1] = self:getMonthName()`
-`   elseif hasDay then`
-`       ret[#ret + 1] = self.day`
-`   elseif hasMonth then`
-`       ret[#ret + 1] = self:getMonthName()`
-`   end`
 `   if hasYear then`
-`       if hasDay or hasMonth then`
-`           ret[#ret + 1] = ' '`
+`       if self.year < 0 then`
+`           ret[#ret + 1] = '紀元前'`
 `       end`
 `       local displayYear = math.abs(self.year)`
-`       if displayYear > 9999 then`
-`           displayYear = lang:formatNum(displayYear)`
-`       else`
-`           displayYear = tostring(displayYear)`
-`       end`
+`       displayYear = displayYear > 9999 and lang:formatNum(displayYear) or tostring(displayYear)`
 `       ret[#ret + 1] = displayYear`
-`       if self.year < 0 then`
-`           ret[#ret + 1] = ' BC'`
-`       end`
+`       ret[#ret + 1] = '年'`
+`   end`
+`   if hasMonth then`
+`       ret[#ret + 1] = self.month`
+`       ret[#ret + 1] = '月'`
+`   end`
+`   if hasDay then`
+`       ret[#ret + 1] = self.day`
+`       ret[#ret + 1] = '日'`
 `   end`
 `   return table.concat(ret)`
+
+end
+
+function Dts:makeDisplayAbbr()
+
+`   if self.format == 'hide' then`
+`       return ''`
+`   end`
+`   local hasYear = self.year and self.format:find('y')`
+`   local hasMonth = self.month and self.format:find('m')`
+`   local hasDay = self.day and self.format:find('d')`
+`   local ret = {}`
+`   if hasYear then`
+`       if self.year < 0 then`
+`           ret[#ret + 1] = 'BC'`
+`       end`
+`       local displayYear = math.abs(self.year)`
+`       displayYear = displayYear > 9999 and lang:formatNum(displayYear) or tostring(displayYear)`
+`       ret[#ret + 1] = displayYear`
+`       if hasMonth or hasDay then`
+`           ret[#ret + 1] = '/'`
+`       end`
+`   end`
+`   if hasMonth then`
+`       ret[#ret + 1] = self.month`
+`       if hasDay then`
+`           ret[#ret + 1] = '/'`
+`       end`
+`   end`
+`   if hasDay then`
+`       ret[#ret + 1] = self.day`
+`   end`
+`   return table.concat(ret)`
+
+end
+
+function Dts:makeDisplayAbbrOrNoAbbr()
+
+`   if self.isAbbreviated then`
+`       return self:makeDisplayAbbr()`
+`   else`
+`       return self:makeDisplay()`
+`   end`
+
+end
+
+function Dts:renderTrackingCategories()
+
+`   if self.hasDeprecatedParameters then`
+`       return ''`
+`   else`
+`       return ''`
+`   end`
 
 end
 
 function Dts:__tostring()
 
 `   local root = mw.html.create()`
-`   local span = root:tag('span')`
-`       :attr('data-sort-value', self:makeSortKey())`
 
+`   -- Sort key`
+`   if self.isdebug then`
+`       root:tag('span')`
+`           :css('border', 'dotted 1px')`
+`           :wikitext(self:makeSortKey())`
+`   else`
+`       root:tag('span')`
+`           :addClass('sortkey')`
+`           :css('display', 'none')`
+`           :css('speak', 'none')`
+`           :wikitext(self:makeSortKey())`
+`   end`
+`   `
 `   -- Display`
-`   if self:hasDate() and self.format ~= 'hide' then`
-`       span:wikitext(self:makeDisplay())`
-`       if not self.isWrapping then`
-`           span:css('white-space', 'nowrap')`
+`   if self:hasDate() then`
+`       if self.isWrapping then`
+`           root:wikitext(self:makeDisplayAbbrOrNoAbbr())`
+`       else`
+`           root:tag('span')`
+`               :css('white-space', 'nowrap')`
+`               :wikitext(self:makeDisplayAbbrOrNoAbbr())`
 `       end`
 `   end`
+
+`   -- Tracking categories`
+`   root:wikitext(self:renderTrackingCategories())`
 
 `   return tostring(root)`
 
@@ -496,7 +580,7 @@ function p._main(args)
 `       return ret`
 `   else`
 `       ret = string.format(`
-`           '`<strong class="error">`Error in `[`Template:Date``   ``table``   ``sorting`](https://zh.wikipedia.org/wiki/Template:Date_table_sorting "wikilink")`: %s`</strong>`',`
+`           '`<strong class="error">`Error in `[`Template:Dts`](https://zh.wikipedia.org/wiki/Template:Dts "wikilink")`: %s`</strong>`',`
 `           ret`
 `       )`
 `       if mw.title.getCurrentTitle().namespace == 0 then`
@@ -511,7 +595,7 @@ end
 function p.main(frame)
 
 `   local args = require('Module:Arguments').getArgs(frame, {`
-`       wrappers = 'Template:Date table sorting',`
+`       wrappers = 'Template:Dts',`
 `   })`
 `   return p._main(args)`
 
@@ -519,4 +603,4 @@ end
 
 return p
 
-[Category:Date_table_sorting_templates_with_errors](https://zh.wikipedia.org/wiki/Category:Date_table_sorting_templates_with_errors "wikilink")
+[Category:Dts_templates_with_deprecated_parameters](https://zh.wikipedia.org/wiki/Category:Dts_templates_with_deprecated_parameters "wikilink") [Category:Dts_templates_with_errors](https://zh.wikipedia.org/wiki/Category:Dts_templates_with_errors "wikilink")

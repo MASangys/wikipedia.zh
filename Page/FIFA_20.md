@@ -4,6 +4,6 @@
 
 <references />
 
-[Category:FIFA系列](https://zh.wikipedia.org/wiki/Category:FIFA系列 "wikilink")
+[Category:2019年电子游戏](https://zh.wikipedia.org/wiki/Category:2019年电子游戏 "wikilink") [Category:FIFA系列](https://zh.wikipedia.org/wiki/Category:FIFA系列 "wikilink") [Category:PlayStation_4游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_4游戏 "wikilink") [Category:Xbox_One游戏](https://zh.wikipedia.org/wiki/Category:Xbox_One游戏 "wikilink") [Category:任天堂Switch游戏](https://zh.wikipedia.org/wiki/Category:任天堂Switch游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink") [Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink")
 
 1.

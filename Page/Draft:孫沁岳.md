@@ -1,4 +1,4 @@
-**孫沁岳**（英語：Yorke Sun，1986年7月15日－），台灣男演員。2012年以[4ever團體出道並發行ep](../Page/4ever_\(組合\).md "wikilink")《4ever》,其中找你的地圖為孫沁岳與[宋念宇](https://zh.wikipedia.org/zh-tw/小宇)的共同創作，目前團體已解散。 2015年踏入戲劇圈，拍攝了[軍官情人](../Page/軍官·情人.md "wikilink")，[獨家保鑣](../Page/獨家保鑣.md "wikilink")，[1989一念間](../Page/1989一念間.md "wikilink")，並於2018年考取[北京中央戲劇學院進修一年](../Page/中央戏剧学院.md "wikilink")。[1](https://www.setn.com/News.aspx?NewsID=378472%5D於2019年跟原公司周子娛樂合約到期%5Bhttps://www.chinatimes.com/realtimenews/20190616002288-260404?chdtv)。
+**孫沁岳**（英語：Yorke Sun，1986年7月15日－），台灣男演員。2012年以[4ever團體出道並發行ep](../Page/4ever_\(組合\).md "wikilink")《4ever》,其中找你的地圖為孫沁岳與[宋念宇](https://zh.wikipedia.org/zh-tw/小宇)的共同創作，目前團體已解散。 2015年踏入戲劇圈，拍攝了[軍官情人](../Page/軍官·情人.md "wikilink")，[獨家保鑣](../Page/獨家保鑣.md "wikilink")，[1989一念間](../Page/1989一念間.md "wikilink")，[真情之家](https://zh.wikipedia.org/zh-tw/真情之家)等戲劇，並於2018年考取[北京中央戲劇學院進修一年](../Page/中央戏剧学院.md "wikilink")。[1](https://www.setn.com/News.aspx?NewsID=378472%5D於2019年跟原公司周子娛樂合約到期%5Bhttps://www.chinatimes.com/realtimenews/20190616002288-260404?chdtv)。
 
 ## 演出作品
 

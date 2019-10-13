@@ -8,12 +8,12 @@
 
   - [柳星恩](https://zh.wikipedia.org/wiki/柳星恩 "wikilink")
 
-  - [宋有彬](https://zh.wikipedia.org/wiki/宋有彬 "wikilink")
+  - [宋有彬](https://zh.wikipedia.org/wiki/宋有彬 "wikilink")（MYTEEN）
 
   -
-  - [申準燮 (MYTEEN)](https://zh.wikipedia.org/wiki/申準燮_\(MYTEEN\) "wikilink")
+  - [申準燮](https://zh.wikipedia.org/wiki/申準燮 "wikilink")（MYTEEN）
 
-  - [漢瑟 (MYTEEN)](https://zh.wikipedia.org/wiki/漢瑟_\(MYTEEN\) "wikilink")
+  - [漢瑟](https://zh.wikipedia.org/wiki/朴敏俊 "wikilink")（MYTEEN）
 
 ### 組合
 
@@ -27,9 +27,9 @@
 
   - [白智榮](../Page/白智榮.md "wikilink")（2014年至2019年）
   - [金昭希](https://zh.wikipedia.org/wiki/金昭希_\(歌手\) "wikilink")（2015年至2019年）
-  - [天真 (MYTEEN)](https://zh.wikipedia.org/wiki/天真_\(MYTEEN\) "wikilink")（2017年至2019年）
-  - [恩洙 (MYTEEN)](https://zh.wikipedia.org/wiki/恩洙_\(MYTEEN\) "wikilink")（2017年至2019年）
-  - [李泰彬(MYTEEN、演員)](https://zh.wikipedia.org/wiki/李泰彬\(MYTEEN、演員\) "wikilink")（2017年至2019年）
+  - [天真](https://zh.wikipedia.org/wiki/金相真 "wikilink")（MYTEEN，2017年至2019年）
+  - [恩洙](https://zh.wikipedia.org/wiki/崔恩洙 "wikilink")（MYTEEN，2017年至2019年）
+  - [李泰彬](https://zh.wikipedia.org/wiki/李泰彬 "wikilink")（MYTEEN、演員，2017年至2019年）
 
 ## 參考文獻
 

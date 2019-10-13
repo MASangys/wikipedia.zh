@@ -2,7 +2,7 @@
 
 **IZ\*ONE**（；）\[1\]\[2\]是由韓日合作選秀節目《[PRODUCE 48](../Page/PRODUCE_48.md "wikilink")》最終決選出線的12名成員所組成，於2018年出道的[期間限定](../Page/期間限定團體.md "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")。成員均有各自所屬的經紀公司，組合整體所屬的經紀公司則為[Off The Record娛樂](https://zh.wikipedia.org/wiki/Off_The_Record娛樂 "wikilink")。成員依節目名次排列為[張員瑛](../Page/張員瑛.md "wikilink")、[宮脇咲良](../Page/宮脇咲良.md "wikilink")、[曺柔理](../Page/曺柔理.md "wikilink")、[崔叡娜](../Page/崔叡娜.md "wikilink")、[安兪真](../Page/安兪真.md "wikilink")、[矢吹奈子](../Page/矢吹奈子.md "wikilink")、[權恩妃](https://zh.wikipedia.org/wiki/權恩妃 "wikilink")、[姜惠元](../Page/姜惠元.md "wikilink")、[本田仁美](../Page/本田仁美.md "wikilink")、[金采源](../Page/金采源.md "wikilink")、[金玟周](../Page/金玟周.md "wikilink")、[李彩演](../Page/李彩演.md "wikilink")。活動期為2年6個月\[3\]。
 
-團名「IZ\*ONE」中的「IZ」代表12名成員，「ONE」代表一體，意思是以全世界粉絲為中心運轉的12色星球，12名少女合為一體的瞬間\[4\]。團體口號是「Eyes On Me\! 成為一體的瞬間，所有人都注目！大家好，我們是IZ\*ONE！」。官方粉絲名為「WIZ\*ONE」（），WIZ有奇才，魔法师（Wizard）的含义，粉丝是守护IZ\*ONE魔法般未来的魔法师，同时包含着IZ\*ONE和魔法师粉丝是一体的寓意。 ​​​​\[5\]
+團名「IZ\*ONE」中的「IZ」代表12名成員，「ONE」代表一體，意思是以全世界粉絲為中心運轉的12色星球，12名少女合為一體的瞬間\[4\]。團體口號是「Eyes On Me\! 成為一體的瞬間，所有人都注目！大家好，我們是IZ\*ONE！」。官方粉絲名為「WIZ\*ONE」（），WIZ有奇才，魔法师（Wizard）的含义，粉丝是守护IZ\*ONE魔法般未来的魔法师，同时包含着IZ\*ONE和魔法师粉丝是一体的寓意。\[5\]
 
 ## 經歷
 
@@ -44,7 +44,7 @@ IZ\*ONE是通過2018年6月15日至8月31日在Mnet播出的生存[實境節目]
 
   - 日本巡回演唱会及第三张单曲《[Vampire](../Page/Vampire_\(單曲\).md "wikilink")》
 
-​​​​在完成了香港的演唱会之后，组合于8月25日开始在日本举行巡回演唱会\[36\]。8月10日，在《布宜諾斯艾利斯》的发行纪念活动中，公布了组合将于9月25日（日巡最终场举行日）发行第三张单曲《[Vampire](../Page/Vampire_\(單曲\).md "wikilink")》的消息\[37\]\[38\]。
+在完成了香港的演唱会之后，组合于8月25日开始在日本举行巡回演唱会\[36\]。8月10日，在《布宜諾斯艾利斯》的发行纪念活动中，公布了组合将于9月25日（日巡最终场举行日）发行第三张单曲《[Vampire](../Page/Vampire_\(單曲\).md "wikilink")》的消息\[37\]\[38\]。
 
 ## 成員列表
 
@@ -55,18 +55,18 @@ IZ\*ONE是通過2018年6月15日至8月31日在Mnet播出的生存[實境節目]
 | ------------------------------------------------------- |
 | 本名                                                      |
 | 漢字                                                      |
-| [张员瑛](https://zh.wikipedia.org/wiki/张员瑛 "wikilink")     |
-| [宮脇咲良](../Page/宮脇咲良.md "wikilink")                      |
-| [曺柔理](../Page/曺柔理.md "wikilink")                        |
-| [崔叡娜](../Page/崔叡娜.md "wikilink")                        |
-| [安兪真](../Page/安兪真.md "wikilink")                        |
-| [矢吹奈子](../Page/矢吹奈子.md "wikilink")                      |
 | **[權恩妃](https://zh.wikipedia.org/wiki/權恩妃 "wikilink")** |
+| [宮脇咲良](../Page/宮脇咲良.md "wikilink")                      |
 | [姜惠元](../Page/姜惠元.md "wikilink")                        |
-| [本田仁美](../Page/本田仁美.md "wikilink")                      |
+| [崔叡娜](../Page/崔叡娜.md "wikilink")                        |
+| [李彩演](../Page/李彩演.md "wikilink")                        |
 | [金采源](../Page/金采源.md "wikilink")                        |
 | [金玟周](../Page/金玟周.md "wikilink")                        |
-| [李彩演](../Page/李彩演.md "wikilink")                        |
+| [矢吹奈子](../Page/矢吹奈子.md "wikilink")                      |
+| [本田仁美](../Page/本田仁美.md "wikilink")                      |
+| [曺柔理](../Page/曺柔理.md "wikilink")                        |
+| [安兪真](../Page/安兪真.md "wikilink")                        |
+| [张员瑛](https://zh.wikipedia.org/wiki/张员瑛 "wikilink")     |
 
 ## 音樂作品
 
@@ -498,13 +498,13 @@ IZ\*ONE是通過2018年6月15日至8月31日在Mnet播出的生存[實境節目]
 <tr class="even">
 <td><p>2019年8月21日</p></td>
 <td><p>千叶<a href="https://zh.wikipedia.org/wiki/幕张展览馆" title="wikilink">幕张展览馆</a></p></td>
-<td><p>[82]​​​​[83]</p></td>
+<td><p>[82][83]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2019年9月1日</p></td>
 <td><p>兵庫</p></td>
-<td><p>昼夜两公演​​​​[84]</p></td>
+<td><p>昼夜两公演[84]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -532,7 +532,7 @@ IZ\*ONE是通過2018年6月15日至8月31日在Mnet播出的生存[實境節目]
 | 2018年12月14日    | [2018 MAMA in HONG KONG](https://zh.wikipedia.org/wiki/2018年Mnet亚洲音乐大奖 "wikilink")          | [香港](../Page/香港.md "wikilink")[亚洲国际博览馆](https://zh.wikipedia.org/wiki/亚洲国际博览馆 "wikilink")                                | \[88\]       |
 | 2019年1月6日      | 第33届[金唱片獎](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")                                   | 韓国首尔[高尺巨蛋](https://zh.wikipedia.org/wiki/高尺巨蛋 "wikilink")                                                                | \[89\]       |
 | 2019年1月15日     | 第28届[首爾歌謠大賞](https://zh.wikipedia.org/wiki/首爾歌謠大賞 "wikilink")                               | \[90\]                                                                                                                   |              |
-| 2019年1月23日     | 第8届[Gaon Chart 音樂大獎](../Page/Gaon_Chart_K-POP大獎.md "wikilink")                              | 韓国首尔[蚕室室内体育館](https://zh.wikipedia.org/wiki/蚕室体育館 "wikilink")                                                            | \[91\]       |
+| 2019年1月23日     | 第8届[Gaon Chart 音樂大獎](../Page/Gaon_Chart_K-POP大獎.md "wikilink")                              | 韓国首尔                                                                                                                     | \[91\]       |
 | 2019年4月4日      | [不朽的名曲：传说在歌唱](https://zh.wikipedia.org/wiki/不朽的名曲：传说在歌唱 "wikilink") 400回纪念特别演唱会 in Japan    | 日本千叶[幕张展览馆](https://zh.wikipedia.org/wiki/幕张展览馆 "wikilink")                                                              | \[92\]       |
 | 2019年4月28日     | SBS[人气歌谣](../Page/人气歌谣.md "wikilink")Super Concert                                          | [光州世界杯竞技场](https://zh.wikipedia.org/wiki/光州世界杯竞技场 "wikilink")                                                            | \[93\]       |
 | 2019年5月17、19日  | [KCON](https://zh.wikipedia.org/wiki/KCON "wikilink") 2019 JAPAN                            | 日本千叶幕张展览馆                                                                                                                | \[94\]\[95\] |

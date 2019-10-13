@@ -195,7 +195,7 @@ end
 
 `   local ss = frame.args`
 `   local loc = ss.loc`
-`   if loc == "" or loc == nil then loc = "惠州" end`
+`   if loc == "" or loc == nil then loc = "珠海" end`
 `   local ret = p._internalSimpList(ss.code, loc)`
 `   return ret`
 

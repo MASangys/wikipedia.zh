@@ -1,8 +1,18 @@
-《**Camping Club**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC](../Page/JTBC.md "wikilink")的綜藝節目，由女子團體[FIN.K.L](../Page/FIN.K.L.md "wikilink")成員[李孝利](../Page/李孝利.md "wikilink")、[玉珠鉉](../Page/玉珠鉉.md "wikilink")、[李真](../Page/李真_\(韓國藝人\).md "wikilink")、[成宥利](../Page/成宥利.md "wikilink")主持。慶祝[FIN.K.L](../Page/FIN.K.L.md "wikilink")成立21週年，相隔了14年後再次合體，成員們駕駛露營車於全國各地旅行\[1\]。
+《**Camping Club**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC](../Page/JTBC.md "wikilink")的綜藝節目，由女子團體[FIN.K.L](../Page/FIN.K.L.md "wikilink")成員[李孝利](../Page/李孝利.md "wikilink")、[玉珠鉉](../Page/玉珠鉉.md "wikilink")、[李真](../Page/李真_\(韓國藝人\).md "wikilink")、[成宥利](../Page/成宥利.md "wikilink")主持。慶祝[FIN.K.L](../Page/FIN.K.L.md "wikilink")成立21週年，相隔了14年後再次合體，成員們駕駛露營車於全國各地旅行\[1\]\[2\]。
+
+## 节目成员
+
+| 姓名                                      | 出生日期 |
+| --------------------------------------- | ---- |
+| 漢字                                      | 諺文   |
+| [李孝利](../Page/李孝利.md "wikilink")        | 이효리  |
+| [玉珠鉉](../Page/玉珠鉉.md "wikilink")        | 옥주현  |
+| [李真](../Page/李真_\(韓國藝人\).md "wikilink") | 이진   |
+| [成宥利](../Page/成宥利.md "wikilink")        | 성유리  |
 
 ## 收視率
 
-| 集數       | 播出日期  | [AGB](https://zh.wikipedia.org/wiki/AC尼爾森 "wikilink") 付費平台收視率\[2\] |
+| 集數       | 播出日期  | [AGB](https://zh.wikipedia.org/wiki/AC尼爾森 "wikilink") 付費平台收視率\[3\] |
 | -------- | ----- | ------------------------------------------------------------------ |
 | 大韓民國（全國） |       |                                                                    |
 | 1        | 7月14日 | 4.186%                                                             |
@@ -14,7 +24,7 @@
 | 7        | 8月25日 | 3.098%                                                             |
 | 8        | 9月1日  | 3.381%                                                             |
 | 9        | 9月8日  | 4.050%                                                             |
-| 10       | 9月22日 |                                                                    |
+| 10       | 9月22日 | 4.554%                                                             |
 
 ## 參考資料
 
@@ -26,3 +36,4 @@
 
 1.
 2.
+3.

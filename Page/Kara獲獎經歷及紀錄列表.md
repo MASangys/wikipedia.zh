@@ -446,16 +446,18 @@
 ### 個人獎項
 
 <table>
+<thead>
+<tr class="header">
+<th><p>年度</p></th>
+<th><p>頒獎典禮</p></th>
+<th><p>獎項</p></th>
+<th><p>作品</p></th>
+<th><p>結果</p></th>
+<th><p>獲獎成員</p></th>
+</tr>
+</thead>
 <tbody>
 <tr class="odd">
-<td><p>年度</p></td>
-<td><p>頒獎典禮</p></td>
-<td><p>獎項</p></td>
-<td><p>作品</p></td>
-<td><p>結果</p></td>
-<td><p>獲獎成員</p></td>
-</tr>
-<tr class="even">
 <td><p>2010</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS演藝大賞" title="wikilink">KBS演藝大賞</a></p></td>
 <td><p>娛樂部門優秀獎</p></td>
@@ -463,7 +465,7 @@
 <td></td>
 <td><p>荷拉</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2011</p></td>
 <td><p>Mnet 20′s Choice</p></td>
 <td><p>Hot校園女神獎</p></td>
@@ -471,7 +473,7 @@
 <td></td>
 <td><p>荷拉</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>第18屆SBS演技大獎</p></td>
 <td><p>新星獎</p></td>
 <td><p><a href="../Page/城市獵人_(韓國電視劇).md" title="wikilink">城市獵人</a></p></td>
@@ -479,7 +481,7 @@
 <td><p>荷拉</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2015</p></td>
 <td><p>第9屆有線電視大賞</p></td>
 <td><p>最佳情侶獎 <small>(with 洪宗玄)</small></p></td>
@@ -490,8 +492,44 @@
 </tbody>
 </table>
 
-### 紀錄
+### 認證/排行榜
 
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
 |  |
 |  |
 |  |

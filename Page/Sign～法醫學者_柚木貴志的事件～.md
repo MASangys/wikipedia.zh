@@ -484,7 +484,7 @@
 
   -
 
-[Category:2019年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2019年開播的日本電視劇集 "wikilink") [Category:翻拍韓國電視劇的電視劇](https://zh.wikipedia.org/wiki/Category:翻拍韓國電視劇的電視劇 "wikilink")
+[Category:2019年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2019年開播的日本電視劇集 "wikilink") [Category:翻拍韓國電視劇的電視劇](https://zh.wikipedia.org/wiki/Category:翻拍韓國電視劇的電視劇 "wikilink") [Category:法醫學題材電視劇](https://zh.wikipedia.org/wiki/Category:法醫學題材電視劇 "wikilink") [Category:日本推理劇](https://zh.wikipedia.org/wiki/Category:日本推理劇 "wikilink")
 
 1.
 2.

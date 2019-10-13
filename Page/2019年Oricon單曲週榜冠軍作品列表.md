@@ -280,6 +280,13 @@
 <td><p>66.7</p></td>
 <td><p>1</p></td>
 </tr>
+<tr class="odd">
+<td><p>9月30日</p></td>
+<td><p><a href="../Page/持續愛你.md" title="wikilink">持續愛你</a></p></td>
+<td><p>AKB48</p></td>
+<td><p>138.0</p></td>
+<td><p>1</p></td>
+</tr>
 </tbody>
 </table>
 

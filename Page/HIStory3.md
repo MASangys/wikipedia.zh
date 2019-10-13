@@ -23,13 +23,13 @@
 <td><center>
 <p>2019年4月16日-2019年4月25日</p></td>
 <td><center>
-<p>週二至週四 21:00</p></td>
+<p>週二至週四 21:00(一天播一集)</p></td>
 </tr>
 <tr class="even">
 <td><center>
 <p>2019年4月30日-2019年6月12日</p></td>
 <td><center>
-<p>週二至週三 21:00</p></td>
+<p>週二至週三 21:00(一天播一集)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -37,8 +37,8 @@
 <tr class="odd">
 <td><p>那一天</p></td>
 <td><center>
-<p>2019年 月 日-2019年 月 日</p></td>
-<td></td>
+<p>2019年10月16日-</p></td>
+<td><p>週三 21:00(一天播兩集)</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -399,6 +399,8 @@
 
 ### 劇情大綱
 
+人仁高中的校園霸王項豪廷(宋緯恩 飾)因為一個女人遇上高冷學霸于希顧(黃雋智 飾)，共譜一段不打不相識到相愛的浪漫戀曲。熱血青年孫博翔(劉韋辰 飾)一見鐘情盧志剛(張瀚元 飾)上演一段勇敢追求初戀的甜虐情事。他們都在平凡無奇的校園生活中，遇見最好的那個他！
+
 ### 演員列表
 
 <table style="width:137%;">
@@ -417,15 +419,15 @@
 <td><center>
 <p><a href="../Page/宋緯恩.md" title="wikilink">宋緯恩</a></p></td>
 <td><center>
-<p>項豪廷</p></td>
-<td><p>個性不羈，是很多女生喜歡的學校風雲人物。 與于希顧的個性截然相反，他想盡辦法做出幼稚的事情只為了想看個性冷淡如冰的于希顧臉上的笑容。</p></td>
+<p>项豪廷</p></td>
+<td><p>活潑好動，做事單憑情緒，是個天不怕地不怕的人物。 頭腦不錯，但總是不想花時間在學習上，曾經考過全年級第二名，但自此之後成績如跳崖似的一落千丈，萬劫不復，連父母都拿他沒轍。 因為成天與朋友們嘻嘻哈哈，打打鬧鬧，惹出不少事情，不羈的個性，吸引了校園中不少的目光，是學校裡的風雲人物。</p></td>
 </tr>
 <tr class="odd">
 <td><center>
-<p>黃雋智</p></td>
+<p><a href="https://zh.wikipedia.org/wiki/黃雋智" title="wikilink">黃雋智</a></p></td>
 <td><center>
-<p>-{于}-希顧</p></td>
-<td><p>個性內斂的獨行俠。 與項豪廷為了一個叫李思妤的女孩而不打不相識，從此有了緣分。</p></td>
+<p>于希顧</p></td>
+<td><p>個性獨立，不喜歡佔人便宜，也討厭被同情。 父母因為意外雙雙離世，從小就寄養在姑姑家。但後來不想再增加姑姑的負擔，便努力用功爭取獎學金，並靠著自己課餘打工的錢，過著自給自足的簡單生活。 因為沒有多餘的錢可以跟同學們吃喝玩樂，因此也沒有什麼同輩朋友，漸漸的就變成了校園中的獨行俠，女學生也將其視為如謫仙般的人物。</p></td>
 </tr>
 <tr class="even">
 <td><center>
@@ -509,9 +511,8 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><center>
-<p>-{<a href="../Page/明杰.md" title="wikilink">明杰</a>}-</p></td>
-<td><center></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>
@@ -530,7 +531,7 @@
 ### 製作團隊
 
   - 出品人：
-  - 導演：蔡宓洁
+  - 導演：[蔡宓洁](https://zh.wikipedia.org/wiki/蔡宓洁 "wikilink")
   - 編劇：邵慧婷
   - 監製：張庭斐
   - 製作人：葉昱呈
@@ -564,7 +565,7 @@
   -
   -
   -
-[Category:台灣偶像劇](https://zh.wikipedia.org/wiki/Category:台灣偶像劇 "wikilink") [Category:台灣網路劇](https://zh.wikipedia.org/wiki/Category:台灣網路劇 "wikilink") [Category:台灣校園劇](https://zh.wikipedia.org/wiki/Category:台灣校園劇 "wikilink") [Category:台灣同志劇集](https://zh.wikipedia.org/wiki/Category:台灣同志劇集 "wikilink") [Category:2019年台灣電視劇集](https://zh.wikipedia.org/wiki/Category:2019年台灣電視劇集 "wikilink") [Category:單元劇](https://zh.wikipedia.org/wiki/Category:單元劇 "wikilink") [Category:警察主角題材電視劇](https://zh.wikipedia.org/wiki/Category:警察主角題材電視劇 "wikilink") [Category:黑幫題材電視劇](https://zh.wikipedia.org/wiki/Category:黑幫題材電視劇 "wikilink") [Category:犯罪電視劇](https://zh.wikipedia.org/wiki/Category:犯罪電視劇 "wikilink") [Category:台灣犯罪劇](https://zh.wikipedia.org/wiki/Category:台灣犯罪劇 "wikilink") [Category:料理電視劇](https://zh.wikipedia.org/wiki/Category:料理電視劇 "wikilink") [Category:男同性戀相關電視節目](https://zh.wikipedia.org/wiki/Category:男同性戀相關電視節目 "wikilink") [Category:台灣LGBT相關電視節目](https://zh.wikipedia.org/wiki/Category:台灣LGBT相關電視節目 "wikilink")
+[Category:台灣偶像劇](https://zh.wikipedia.org/wiki/Category:台灣偶像劇 "wikilink") [Category:台灣網路劇](https://zh.wikipedia.org/wiki/Category:台灣網路劇 "wikilink") [Category:台灣校園劇](https://zh.wikipedia.org/wiki/Category:台灣校園劇 "wikilink") [Category:台灣同志劇集](https://zh.wikipedia.org/wiki/Category:台灣同志劇集 "wikilink") [Category:2019年台灣電視劇集](https://zh.wikipedia.org/wiki/Category:2019年台灣電視劇集 "wikilink") [Category:單元劇](https://zh.wikipedia.org/wiki/Category:單元劇 "wikilink") [Category:警察主角題材電視劇](https://zh.wikipedia.org/wiki/Category:警察主角題材電視劇 "wikilink") [Category:黑幫題材電視劇](https://zh.wikipedia.org/wiki/Category:黑幫題材電視劇 "wikilink") [Category:犯罪電視劇](https://zh.wikipedia.org/wiki/Category:犯罪電視劇 "wikilink") [Category:台灣犯罪劇](https://zh.wikipedia.org/wiki/Category:台灣犯罪劇 "wikilink") [Category:男同性戀相關電視節目](https://zh.wikipedia.org/wiki/Category:男同性戀相關電視節目 "wikilink") [Category:台灣LGBT相關電視節目](https://zh.wikipedia.org/wiki/Category:台灣LGBT相關電視節目 "wikilink")
 
 1.  [BL台劇《越界》明年開拍電影版！　原班人馬全到齊](https://star.ettoday.net/news/1237876)，ETNEWS星光雲，2018年08月17日
 2.  [科技》HIStory主題店開賣「H卡」，為電影版募資](http://www.chinatimes.com/realtimenews/20180817002946-260410)，中時電子報，2018年08月17日

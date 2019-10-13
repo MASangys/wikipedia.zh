@@ -224,9 +224,11 @@ PAX East 2018于4月5日至8日举办，第一次将展会延长至4天。 {{-}}
 <tr class="odd">
 <td><p>2020</p></td>
 <td></td>
+<td><p>2月27日-3月1日<br />
+<a href="../Page/波士顿会展中心.md" title="wikilink">波士顿会展中心</a></p></td>
 <td></td>
-<td></td>
-<td></td>
+<td><p>1月17日-1月19日<br />
+</p></td>
 <td></td>
 </tr>
 </tbody>

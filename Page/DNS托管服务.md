@@ -22,5 +22,5 @@ DNS托管服务提供商可以通过在多个地理位置搭建服务器来提�
 [Category:互联网寄存](https://zh.wikipedia.org/wiki/Category:互联网寄存 "wikilink")
 
 1.
-2.  [DNS.com 'Anycast DNS Network' Webpage](http://www.dns.com/network/)
+2.
 3.

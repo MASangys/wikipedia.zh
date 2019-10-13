@@ -18,17 +18,53 @@
 
 ## 經歷
 
-2015年・創立圖文不符、簡訊設計
+2015
 
-2016年・榮獲金點設計獎
+創辦簡訊設計｜圖文不符
 
-2017年・榮獲德國紅點設計獎年度最佳設計（the Best of the Best）、金點設計獎年度最佳設計、LaVie 年度最佳創意團隊、台灣百大專業經理人 100 MVP
+2016
 
-2018年・創立志祺七七 × 圖文不符頻道，榮獲 YouTube 官方排行榜：年度竄紅第 5 名，就任故宮青年諮詢委員、台北市設計美學整合小組委員
+金點設計獎 Golden Pin Design Award－金點標章
 
-2019年・就任台北市城市品牌小組委員、榮獲德國紅點設計獎年度最佳設計（the Best of the Best）
+2017
 
+金點設計獎 Golden Pin Design Award－年度最佳設計獎
 
+金點設計獎 Golden Pin Design Award－金點標章
+
+德國紅點設計獎－年度最佳設計獎（the Best of the Best）
+
+德國紅點設計獎－Winner
+
+LaVie 台灣創意力 100－創意品牌－年度最佳創意團隊
+
+經理人 MANAGERTODAY 台灣百大專業經理人 100 MVP
+
+台灣文化創意協會－年度文創大獎－事業營運優良獎
+
+關鍵評論網－未來大人物－社會領域
+
+2018
+
+創辦志祺七七 × 圖文不符 YouTube 頻道
+
+金點設計獎 Golden Pin Design Award－金點標章
+
+日本 GOOD DESIGN AWARD 優良設計獎
+
+德國紅點設計獎－Winner
+
+德國 iF 設計大賞－iF Design Award
+
+德國設計委員會－德國設計獎 German Design Award－Special Mention
+
+2019
+
+德國紅點設計獎－年度最佳設計獎（the Best of the Best）
+
+日本 GOOD DESIGN AWARD 優良設計獎
+
+金點設計獎 Golden Pin Design Award－標章得主（入圍年度最佳設計獎，評選中）
 
 ## 相關條目
 

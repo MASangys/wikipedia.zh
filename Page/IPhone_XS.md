@@ -154,7 +154,7 @@ nano-SIM 與 eSIM（其余版本）</p></td>
 <tr class="odd">
 <td><p><strong>64GB</strong></p></td>
 <td><p>$999</p></td>
-<td><p>¥6,735</p></td>
+<td><p>¥8,699</p></td>
 <td><p>HK$8,599</p></td>
 <td><p>NT$35,900</p></td>
 <td><p>S$1,355</p></td>
@@ -162,7 +162,7 @@ nano-SIM 與 eSIM（其余版本）</p></td>
 <tr class="even">
 <td><p><strong>256GB</strong></p></td>
 <td><p>$1,149</p></td>
-<td><p>¥7,747</p></td>
+<td><p>¥10,099</p></td>
 <td><p>HK$9,899</p></td>
 <td><p>NT$41,500</p></td>
 <td><p>S$1,558</p></td>
@@ -170,7 +170,7 @@ nano-SIM 與 eSIM（其余版本）</p></td>
 <tr class="odd">
 <td><p><strong>512GB</strong></p></td>
 <td><p>$1,349</p></td>
-<td><p>¥9,095</p></td>
+<td><p>¥11,899</p></td>
 <td><p>HK$11,599</p></td>
 <td><p>NT$48,900</p></td>
 <td><p>S$1,829</p></td>
@@ -195,7 +195,7 @@ nano-SIM 與 eSIM（其余版本）</p></td>
 <tr class="odd">
 <td><p><strong>64GB</strong></p></td>
 <td><p>$1,099</p></td>
-<td><p>¥7,410</p></td>
+<td><p>¥9,599</p></td>
 <td><p>HK$9,499</p></td>
 <td><p>NT$39,900</p></td>
 <td><p>S$1,490</p></td>
@@ -203,7 +203,7 @@ nano-SIM 與 eSIM（其余版本）</p></td>
 <tr class="even">
 <td><p><strong>256GB</strong></p></td>
 <td><p>$1,249</p></td>
-<td><p>¥8,421</p></td>
+<td><p>¥10,999</p></td>
 <td><p>HK$10,799</p></td>
 <td><p>NT$45,500</p></td>
 <td><p>S$1,694</p></td>
@@ -211,7 +211,7 @@ nano-SIM 與 eSIM（其余版本）</p></td>
 <tr class="odd">
 <td><p><strong>512GB</strong></p></td>
 <td><p>$1,449</p></td>
-<td><p>¥9,769</p></td>
+<td><p>¥12,799</p></td>
 <td><p>HK$12,499</p></td>
 <td><p>NT$52,900</p></td>
 <td><p>S$1,965</p></td>
@@ -231,7 +231,7 @@ iPhone X的售价最低为999美元（64GB），最高达到1349美元（512GB�
 
 ### 充电问题
 
-有用户反应在使用Lightning充电器给iPhone X/X Max充电时会出现问题。设备可能会在闲置一段时间后或者屏幕熄灭的时候停止充电。\[8\] 这个问题被称作 "充电门"。\[9\]\[10\]\[11\]\[12\]\[13\] 这个问题已经在2018年10月8日推出的iOS 12.0.1中得到解决。\[14\]
+有用户反应在使用Lightning充电器给iPhone X/X Max充电时会出现问题。设备可能会在闲置一段时间后或者屏幕熄灭的时候停止充电。\[8\]这个问题被称作 "充电门"。\[9\]\[10\]\[11\]\[12\]\[13\]这个问题已经在2018年10月8日推出的iOS 12.0.1中得到解决。\[14\]
 
 ### 自拍过度美化问题
 

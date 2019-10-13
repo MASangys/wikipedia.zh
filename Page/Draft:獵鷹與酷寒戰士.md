@@ -51,7 +51,7 @@
 
 ### 拍攝
 
-劇集原計劃於2019年8月12日在美國[佐治亞州](https://zh.wikipedia.org/wiki/佐治亞州 "wikilink")[亞特蘭大開機拍攝](https://zh.wikipedia.org/wiki/亞特蘭大 "wikilink")\[18\]，[工作標題為](https://zh.wikipedia.org/wiki/暫定名稱 "wikilink")「搭檔」（Tag Team）\[19\]。其後開機日期預計推遲至2019年10月22日\[20\]\[21\]。擔當導演\[22\]。
+劇集原計劃於2019年8月12日在美國[佐治亞州](https://zh.wikipedia.org/wiki/佐治亞州 "wikilink")[亞特蘭大開機拍攝](https://zh.wikipedia.org/wiki/亞特蘭大 "wikilink")\[18\]，[工作標題為](https://zh.wikipedia.org/wiki/暫定名稱 "wikilink")「搭檔」（*Tag Team*）\[19\]。其後開機日期預計推遲至2019年10月22日\[20\]\[21\]。擔當導演\[22\]。
 
 ## 宣傳與發行
 

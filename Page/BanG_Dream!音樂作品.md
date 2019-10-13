@@ -511,7 +511,7 @@ Poppin' Party的第一張專輯。[2019年](../Page/2019年.md "wikilink")[1月3
 
 ## Roselia
 
-由主唱**湊友希那**（聲優－[相羽亞衣奈](../Page/相羽亞衣奈.md "wikilink")）、吉他手**冰川紗夜**（聲優－[工藤晴香](../Page/工藤晴香.md "wikilink")）、貝斯手**今井莉莎**（聲優－[遠藤祐里香](../Page/遠藤祐里香.md "wikilink")〈初任〉→[中島由貴](../Page/中岛由贵.md "wikilink")〈第二任〉）、鼓手**宇田川亞子**（聲優－[櫻川惠](../Page/櫻川惠.md "wikilink")）、鍵盤手**白金燐子**（聲優－[明坂聰美](../Page/明坂聰美.md "wikilink")〈初任〉→[志崎樺音](https://zh.wikipedia.org/wiki/志崎樺音 "wikilink")〈第二任〉）五人組成，為追求在「Future World FES」上演出的本格派少女樂團。
+由主唱**湊友希那**（聲優－[相羽亞衣奈](../Page/相羽亞衣奈.md "wikilink")）、吉他手**冰川紗夜**（聲優－[工藤晴香](../Page/工藤晴香.md "wikilink")）、貝斯手**今井莉莎**（聲優－[遠藤祐里香](../Page/遠藤祐里香.md "wikilink")〈初任〉→[中島由貴](../Page/中岛由贵.md "wikilink")〈第二任〉）、鼓手**宇田川亞子**（聲優－[櫻川惠](../Page/櫻川惠.md "wikilink")）、鍵盤手**白金燐子**（聲優－[明坂聰美](../Page/明坂聰美.md "wikilink")〈初任〉→[志崎樺音](../Page/志崎樺音.md "wikilink")〈第二任〉）五人組成，為追求在「Future World FES」上演出的本格派少女樂團。
 
 與其他樂團不同，CD不使用五人角色圖作為封面插圖。
 
@@ -774,7 +774,7 @@ Roselia的第九張單曲。預計2019年7月24日發售。
 
 A面曲〈FIRE BIRD〉為動畫「BanG Dream\! 2nd Season」第十三話插入曲。生產限定盤的藍光光碟，將收錄動畫「BanG Dream\! 2nd Season」第五、第六話，及下回預告、電視廣告。
 
-本張單曲中的〈Ringing Bloom〉也是飾演白金燐子的[明坂聰美](../Page/明坂聰美.md "wikilink")因突發性失聰宣布自[BanG Dream\!企劃引退後](../Page/BanG_Dream!.md "wikilink")，最後一首在遊戲中參與錄製的歌曲。 然而，在正式釋出的單曲試聽影片中，〈Ringing Bloom〉白金燐子的獨唱段落是由[志崎樺音所錄製的版本](https://zh.wikipedia.org/wiki/志崎樺音 "wikilink")\[62\]。
+本張單曲中的〈Ringing Bloom〉也是飾演白金燐子的[明坂聰美](../Page/明坂聰美.md "wikilink")因突發性失聰宣布自[BanG Dream\!企劃引退後](../Page/BanG_Dream!.md "wikilink")，最後一首在遊戲中參與錄製的歌曲。 然而，在正式釋出的單曲試聽影片中，〈Ringing Bloom〉白金燐子的獨唱段落是由[志崎樺音](../Page/志崎樺音.md "wikilink")所錄製的版本\[62\]。
 
   - 收錄曲
     全編曲：藤永龍太郎（Elements Garden）

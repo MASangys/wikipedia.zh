@@ -48,7 +48,7 @@
 
 ## 续作
 
-制作公司[minori放出了一个英文众筹页面](https://zh.wikipedia.org/wiki/minori "wikilink")，表示只要通过steam销售自家作品的收入达到预期，就会推出《Supipara - Alice the magical conductor.》的第三、四、五章（实际上游戏只有四章，英文版的第一、二章对应日文版的第一章），并且首发即支持英文。但是minori已于2019年2月28日宣告停止游戏制作并解散\[9\]，众筹页面的日期则停留在2019年4月2日。\[10\]
+制作公司[minori放出了一个英文众筹页面](https://zh.wikipedia.org/wiki/minori "wikilink")，表示只要通过steam销售自家作品的收入达到预期，就会推出《Supipara - Alice the magical conductor.》的第三、四、五章（实际上游戏只有四章，英文版的第一、二章对应日文版的第一章），并且首发即支持英文。但是minori已于2019年2月28日宣告停止游戏制作并解散\[9\]，众筹页面的日期则停留在2019年2月4日。\[10\]
 
 ## 参考资料
 

@@ -12,7 +12,15 @@ Although Bumang and [莽语](../Page/莽语.md "wikilink") have similar names an
 
 ## Population
 
-The Bumang autonym is ** (Dao Jie 2007). In China, the Bumang are classified as part of the [傣族](../Page/傣族.md "wikilink") nationality. Bumang speakers are surrounded by speakers of White Tai ([傣端语](https://zh.wikipedia.org/wiki/傣端语 "wikilink")), Black Tai ([傣黯語](../Page/傣黯語.md "wikilink")), and Pu'er Dai. Bumang women's clothing is identical to that of the , , White Tai, and Black Tai (Edmondson 2010).
+曼仗傣自称自己的祖先来自越南
+
+The Bumang autonym is ** (Dao Jie 2007). In China,
+
+在官方的分类中，曼仗人被归类为傣族。他们的村落为说傣语的白傣、黑傣、普尔傣村落包围，且他们。
+
+布芒语为曼仗人的母语，但是曼仗人多数也能掌握其他语言如[白傣话等](https://zh.wikipedia.org/wiki/傣端语 "wikilink")。
+
+`the Bumang are classified as part of the `[`傣族`](../Page/傣族.md "wikilink")` nationality. Bumang speakers are surrounded by speakers of White Tai (`[`傣端语`](https://zh.wikipedia.org/wiki/傣端语 "wikilink")`), Black Tai (`[`傣黯語`](../Page/傣黯語.md "wikilink")`), and Pu'er Dai. Bumang women's clothing is identical to that of the ``, ``, White Tai, and Black Tai (Edmondson 2010).`
 
 Within Manzhang 曼仗,\[1\] Mengla District 勐拉地区, Bumang is spoken in Shangmanzhang 上曼仗 (with 22 households; known in the Bumang language as **) and Xiamanzhang 下曼仗 (with 49 households). Shangmanzhang 上曼仗 is located in Tiantou Village 田头村, Mengla Township 勐拉乡, while Xiamanzhang 下曼仗 is situated on a state-run rubber plantation (国营橡胶农场) (Dao Jie 2007).
 
@@ -25,7 +33,7 @@ The Bumang are descended from  people who had immigrated from Vietnam in the 180
   - Dao Jie 刀洁. 2007. *Bumang yu yanjiu 布芒语研究 \[A study of Bumang\]*. Beijing: 民族出版社 \[Nationalities Publishing House\].
   - Edmondson, Jerold A. 2010. "[The Kháng language of Vietnam in comparison to Ksingmul (Xinh-mun)](http://www.sil.org/resources/publications/entry/9267)." In Kenneth A. McElhanon and Ger Reesink, *A Mosaic of languages and cultures: studies celebrating the career of Karl J. Franklin*, 138-154. SIL e-Books, 19. \[Dallas\]: SIL International\[2\]
 
-## External links
+## 外部鏈結
 
   - [Lingweb.eva.mpg.de](https://web.archive.org/web/20090727073204/http://lingweb.eva.mpg.de/numeral/Bumang.htm)
   - [Sil.org](http://www.sil.org/iso639-3/cr_files/2012-048_bvp.pdf)

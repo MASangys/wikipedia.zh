@@ -37,6 +37,8 @@ Android 10 的新特征包括：\[3\]
 
 2019年8月22日，Google宣布Android Q正式被命名為Android 10，結束了Android歷來以甜點為名的慣例，Google表示以前的作法不具「國際包容性」，因這些點心並非為所有人所知，亦或是在某些語言難以發音\[11\]。
 
+2019年9月25日，针对低阶手机的[Android 10 Go推出](../Page/Android_Go.md "wikilink")\[12\]。
+
 ## 支援機型
 
 ### 測試版
@@ -82,6 +84,8 @@ Android 10 的新特征包括：\[3\]
   - [一加](../Page/一加.md "wikilink")
       - [OnePlus 6T](https://zh.wikipedia.org/wiki/OnePlus_6T "wikilink")
       - [OnePlus 6](https://zh.wikipedia.org/wiki/OnePlus_6 "wikilink")
+      - [OnePlus 7](https://zh.wikipedia.org/wiki/OnePlus_7 "wikilink")
+      - [OnePlus 7 Pro](https://zh.wikipedia.org/wiki/OnePlus_7_Pro "wikilink")
   - [OPPO](../Page/OPPO.md "wikilink")
       - [OPPO Reno](../Page/OPPO_Reno.md "wikilink")
   - [realme](https://zh.wikipedia.org/wiki/realme "wikilink")
@@ -113,7 +117,7 @@ Android 10 的新特征包括：\[3\]
       - [Redmi K20](../Page/Redmi_K20.md "wikilink")
       - [Redmi K20 Pro](https://zh.wikipedia.org/wiki/Redmi_K20_Pro "wikilink")
 
-### 原生作業系統為Android 10的裝置
+### 原生搭載Android 10的裝置
 
 ### 可更新到Android 10的裝置
 
@@ -129,7 +133,7 @@ Android 10 的新特征包括：\[3\]
 
 <!-- end list -->
 
-  - [Nokia](https://zh.wikipedia.org/wiki/Nokia "wikilink")\[12\]
+  - [Nokia](https://zh.wikipedia.org/wiki/Nokia "wikilink")\[13\]
       - 2019年第4季
       - [Nokia 9 PureView](../Page/Nokia_9_PureView.md "wikilink")
       - [Nokia 8.1](https://zh.wikipedia.org/wiki/Nokia_8.1 "wikilink")
@@ -151,7 +155,7 @@ Android 10 的新特征包括：\[3\]
       - [Nokia 2.1](../Page/Nokia_2.1.md "wikilink")
       - [Nokia 1](../Page/Nokia_1.md "wikilink")
   - [Huawei](https://zh.wikipedia.org/wiki/Huawei "wikilink")
-      - [华为P30系列](https://zh.wikipedia.org/wiki/华为P30系列 "wikilink")\[13\]
+      - [华为P30系列](https://zh.wikipedia.org/wiki/华为P30系列 "wikilink")\[14\]
 
 ## 参见
 
@@ -175,5 +179,6 @@ Android 10 的新特征包括：\[3\]
 9.
 10.
 11.
-12.
-13. [確定有得升 Android 10﹐HUAWEI P30 Pro 新配色發佈！](https://www.price.com.hk/news.php?id=13992&sec_id=12)
+12. [Android 10 Go 针对速度和安全性作出改善](https://cn.engadget.com/2019/09/25/android-10-go-edition/?guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAMzdnHMz13ANPsTyud6V1OgIpw415A4tbtW5PlbjkR7yx6LWofY2JnGkhxFZDPA3hx4JIuZR1sVq2q_oIZZyX3KgPIi4S5dBYD5qddgS5hKbJocolw0JivqESlRUO7XipSNTDtgiWH1HYChlFnjZJ9BRWv1qbo5KGcXpX5O1TGER)
+13.
+14. [確定有得升 Android 10﹐HUAWEI P30 Pro 新配色發佈！](https://www.price.com.hk/news.php?id=13992&sec_id=12)

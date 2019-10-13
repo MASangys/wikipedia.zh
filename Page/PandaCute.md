@@ -26,7 +26,7 @@
 | 遊戲名稱    | 中文姓名                                                        | 英文姓名          | 遊戲定位 |
 | ------- | ----------------------------------------------------------- | ------------- | ---- |
 | Deer    | [陳嘉靖](https://zh.wikipedia.org/wiki/:zh-yue:陳嘉靖 "wikilink") | Chan Ka Ching | 上路   |
-| Bella   | [李欣穎](https://zh.wikipedia.org/wiki/李欣穎 "wikilink")         | Lee Yan Wing  | 上路   |
+| Bella   | [李欣穎](../Page/李欣穎.md "wikilink")                            | Lee Yan Wing  | 上路   |
 | Momo    | 毛芷晴                                                         | Mo Tsz Ching  | 打野   |
 | Sleepyz | 何韋鑾                                                         | Ho Wai Luen   | 打野   |
 | Dream   | 石凱儀                                                         | Shek Hoi Yee  | 中路   |

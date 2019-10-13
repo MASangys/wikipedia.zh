@@ -108,7 +108,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/張繼聰.md" title="wikilink">張繼聰</a></strong></p></td>
-<td><p><strong>黃藍祿</strong></p></td>
+<td><p><strong>王藍祿</strong></p></td>
 <td><p><strong>阿祿</strong><br />
 以監獄為家的二十幾歲廢青<br />
 馬冬娜之同居男友，與其育有一子<br />
@@ -313,7 +313,6 @@
 <td><p><strong>Derek</strong><br />
 原為廉政公署內部紀律調查組（L組）調查主任，於陸志廉成為臥底入監獄時跟隨程德明而成為廉政公署調查主任<br />
 程德明之下屬<br />
-于结局在安全屋枪战中从高处跌下身亡<br />
 參見《<strong><a href="https://zh.wikipedia.org/wiki/L風暴" title="wikilink">L風暴</a></strong>》</p></td>
 </tr>
 <tr class="even">

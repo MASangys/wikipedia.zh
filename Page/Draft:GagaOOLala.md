@@ -20,7 +20,7 @@
 
 ### 原創內容
 
-[Queer_Asia_official_poster.jpg](https://zh.wikipedia.org/wiki/File:Queer_Asia_official_poster.jpg "fig:Queer_Asia_official_poster.jpg") GagaOOLala自上架以來便開始推出自製的原創作品。2016年製作了由黃鼎鈞執導的短片《索多瑪的貓》，是台灣第一部R級的酷兒影像作品\[15\]。這部電影是洛杉磯同志影展Outfest和舊金山國際電影節Frameline當年度的官方選片，並且入圍艾莉絲獎Iris Prize最佳短片\[16\]。
+GagaOOLala自上架以來便開始推出自製的原創作品。2016年製作了由黃鼎鈞執導的短片《索多瑪的貓》，是台灣第一部R級的酷兒影像作品\[15\]。這部電影是洛杉磯同志影展Outfest和舊金山國際電影節Frameline當年度的官方選片，並且入圍艾莉絲獎Iris Prize最佳短片\[16\]。
 
 2017年，GagaOOLala製作了首部劇情長片《他和她的心旅程》，由菲律賓導演佐薩利多奧塔利荷斯執導。這部電影講述台灣和菲律賓的跨文化故事，並將主題聚焦在情慾探索和自我認同的議題上，在馬尼拉國際電影節（Sinag Maynila Film Festival）上獲得最佳影片、最佳劇本、最佳剪輯等獎項\[17\]。同年，GagaOOLala首度委外製作它的第一部原創劇集《酷兒台灣》，是一部紀錄台灣一步步成為亞洲的LGBT平權燈塔，最終走向亞洲第一個同性婚姻合法化的國家的紀錄片劇集\[18\]。第一季聚焦在台灣的四個主要議題：宗教和婚姻平權運動，變裝文化，殘疾者的性以及代孕\[19\]。
 

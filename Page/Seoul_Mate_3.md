@@ -23,13 +23,13 @@
 <td><p><a href="../Page/金俊昊.md" title="wikilink">金俊昊</a></p></td>
 <td></td>
 <td></td>
-<td><p>第10集至今</p></td>
+<td><p>第10~12集</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/吳尚津.md" title="wikilink">吳尚津</a></p></td>
 <td></td>
 <td></td>
-<td><p>第1集至今</p></td>
+<td><p>第1~12集</p></td>
 </tr>
 <tr class="even">
 <td><p>金素英</p></td>
@@ -41,19 +41,19 @@
 <td><p><a href="../Page/李奎翰.md" title="wikilink">李奎翰</a></p></td>
 <td></td>
 <td></td>
-<td><p>第1集至今</p></td>
+<td><p>第1~12集</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/Boom_(藝人).md" title="wikilink">Boom</a></p></td>
 <td></td>
 <td></td>
-<td><p>第1集至今</p></td>
+<td><p>第1~12集</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/Yura.md" title="wikilink">Yura</a></p></td>
 <td></td>
 <td></td>
-<td><p>第1集至今</p></td>
+<td><p>第1~12集</p></td>
 </tr>
 </tbody>
 </table>
@@ -130,22 +130,6 @@
 <tr class="odd">
 <td><p>12</p></td>
 <td><p>2019/09/16</p></td>
-</tr>
-<tr class="even">
-<td><p>13</p></td>
-<td><p>2019/09/23</p></td>
-</tr>
-<tr class="odd">
-<td><p>14</p></td>
-<td><p>2019/09/30</p></td>
-</tr>
-<tr class="even">
-<td><p>15</p></td>
-<td><p>2019/10/07</p></td>
-</tr>
-<tr class="odd">
-<td><p>16</p></td>
-<td><p>2019/10/14</p></td>
 </tr>
 <tr class="even">
 <td></td>

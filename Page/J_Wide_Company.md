@@ -76,6 +76,7 @@ J Wide Company成立於2011年。
   - [高俊熙](https://zh.wikipedia.org/wiki/高俊熙 "wikilink")
   - [韓昇延](../Page/韓昇延.md "wikilink")
   - 珉河
+  - [李雅賢](../Page/李雅賢.md "wikilink")
 
 ## 參考資料
 

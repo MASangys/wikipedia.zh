@@ -18,6 +18,8 @@
 
 ## 参考资料
 
+[Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink")
+
 1.
 2.
 3.

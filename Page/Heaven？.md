@@ -188,7 +188,7 @@
 <td><center>
 <p>黑須仮名子</p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/石原里美" title="wikilink">石原里美</a></p></td>
+<p><a href="../Page/石原聰美.md" title="wikilink">石原聰美</a></p></td>
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/曾佩儀" title="wikilink">曾佩儀</a></p></td>
 <td><p>「Loin D'ici」老闆娘，作風古怪。真實身分是一位作家[3]，筆名「仮名須黑子」，有「懸疑女王」之稱。</p></td>
@@ -572,7 +572,7 @@
 <p>香宮瑠璃子</p></td>
 <td><center>
 <p><a href="../Page/相武紗季.md" title="wikilink">相武紗季</a></p></td>
-<td></td>
+<td><p><a href="../Page/鄭麗麗.md" title="wikilink">鄭麗麗</a></p></td>
 <td><p>漫畫家，每星期二都會在Loin D'ici用饍。</p></td>
 </tr>
 <tr class="odd">
@@ -580,7 +580,7 @@
 <p>湯淺浩一</p></td>
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/丸山智己" title="wikilink">丸山智己</a></p></td>
-<td></td>
+<td><p><a href="../Page/梁偉德.md" title="wikilink">梁偉德</a></p></td>
 <td><p>不知天高地厚的男星。</p></td>
 </tr>
 <tr class="even">
@@ -594,8 +594,7 @@
 <tr class="odd">
 <td><center>
 <p>古瀨妙子（久世光代）</p></td>
-<td><center>
-<p>加賀まりこ</p></td>
+<td><center></td>
 <td></td>
 <td><p>已引退的電影明星，Loin D'ici的顧客。</p></td>
 </tr>

@@ -72,7 +72,7 @@
 
 ## 外部連結
 
-  - [Amazing Grace -你的屬性是什麼顏色？-遊戲官網](http://cabbage-soft.com/)
+  - [Amazing Grace -你的屬性是什麼顏色？-遊戲官網](http://cabbage-soft.com/products/amagra/)
   - [PS4版本遊戲官網](http://dramaticcreate.com/amegure/)
 
 [Category:2018年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2018年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:2019年電子遊戲](https://zh.wikipedia.org/wiki/Category:2019年電子遊戲 "wikilink") [Category:PlayStation_4遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_4遊戲 "wikilink")

@@ -280,6 +280,13 @@
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>9月30日</p></td>
+<td><p>7.0</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

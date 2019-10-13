@@ -1,10 +1,10 @@
 **腦波分析**（[:en:EEG analysis](https://zh.wikipedia.org/wiki/:en:EEG_analysis "wikilink")）是用數學的[信号处理以及電腦科技](https://zh.wikipedia.org/wiki/信号处理 "wikilink")，從[腦電圖](../Page/腦電圖.md "wikilink")（EEG）信號中提取相關資訊。腦波分析的目的是幫助研究者對[人腦](../Page/人腦.md "wikilink")有進一步的瞭解，輔助[医生](../Page/医生.md "wikilink")的[诊断](../Page/诊断.md "wikilink")以及[疗法的選擇](https://zh.wikipedia.org/wiki/疗法 "wikilink")，並且提昇[脑机接口](../Page/脑机接口.md "wikilink")（BCI）的技術。腦波分析的技術有許多分類的方式，若是要從腦電圖信號中找到大致符合腦電圖信號的[数学模型](../Page/数学模型.md "wikilink")\[1\]，此方法可以分類為，否則，就是非參數型的方式。傳統上，大部份的腦波分析方法可以分為四類[時域](https://zh.wikipedia.org/wiki/時域 "wikilink")、[頻域](../Page/頻域.md "wikilink")、[時頻分析](../Page/時頻分析.md "wikilink")及[非線性方法](../Page/非線性系統.md "wikilink")\[2\]，也有一些較新的方法，包括使用[深度学习](../Page/深度学习.md "wikilink")（DNN）的方法。
 
-## Methods
+## 方法
 
-### Frequency domain methods
+### 頻域法
 
-Frequency domain analysis, also known as spectral analysis, is the most conventional yet one of the most powerful and standard methods for EEG analysis. It gives insight to information contained in the frequency domain of EEG waveforms by adopting statistical and [傅里叶变换](../Page/傅里叶变换.md "wikilink") methods.\[3\] Among all the spectral methods, power spectral analysis is the most commonly used, since the [谱密度](../Page/谱密度.md "wikilink") reflects the 'frequency content' of the signal or the distribution of signal power over frequency.\[4\]
+頻域分析也稱為譜分析（spectral analysis），是腦波分析的標準作法中，最有功效也方便的方式之一。頻域分析會用統計及[傅里叶变换](../Page/傅里叶变换.md "wikilink")找在腦波波形中的頻域資訊\[3\]。譜分析方式有許多種，最常用的是功率譜，因為[功率譜密度反映信號的頻率成份](../Page/谱密度.md "wikilink")，也反映了信號功率在各頻率上的分佈\[4\]。
 
 ### Time domain methods
 

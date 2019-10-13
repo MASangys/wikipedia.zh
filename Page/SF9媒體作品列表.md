@@ -401,7 +401,7 @@ MV 1take Ver.[29]</p></td>
 <tr class="odd">
 <td><p>2019年</p></td>
 <td><p>MBC</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/意外發現的一天" title="wikilink">意外發現的一天</a></p></td>
+<td><p><a href="../Page/意外發現的一天.md" title="wikilink">意外發現的一天</a></p></td>
 <td><p>路雲</p></td>
 <td><p>河路</p></td>
 <td><p>第一男主角</p></td>

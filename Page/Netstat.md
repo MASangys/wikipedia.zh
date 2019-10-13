@@ -6,7 +6,7 @@
 
 ## 命令参数
 
-命令`netstat`的[参数必须以](https://zh.wikipedia.org/wiki/參數_\(程式設計\) "wikilink")[连字符](https://zh.wikipedia.org/wiki/连字符 "wikilink")（-）而非[斜杠](https://zh.wikipedia.org/wiki/斜杠 "wikilink")（/）为前缀。并非所有平台都支持某些参数。\[14\]
+命令`netstat`的[参数必须以](../Page/參數_\(程式設計\).md "wikilink")[连字符](https://zh.wikipedia.org/wiki/连字符 "wikilink")（-）而非[斜杠](https://zh.wikipedia.org/wiki/斜杠 "wikilink")（/）为前缀。并非所有平台都支持某些参数。\[14\]
 
 <table>
 <thead>

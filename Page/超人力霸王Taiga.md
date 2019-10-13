@@ -582,6 +582,46 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>2019/10/05</p></td>
+<td><p>14</p></td>
+<td></td>
+<td><p>保護的力量與戰鬥的力量</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019/10/12</p></td>
+<td><p>15</p></td>
+<td></td>
+<td><p>我不能聽到你的聲音</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019/10/19</p></td>
+<td><p>16</p></td>
+<td></td>
+<td><p>我們是一個</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019/10/26</p></td>
+<td><p>17</p></td>
+<td></td>
+<td><p>守護天使</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

@@ -1,13 +1,13 @@
 在[图论](../Page/图论.md "wikilink")中，**Erdos–Rényi模型**或**ER模型**是一种[随机图](../Page/随机图.md "wikilink")，以[埃尔德什·帕尔](../Page/埃尔德什·帕尔.md "wikilink")和Alfréd Rényi命名。他们1959年发表了这模型。\[1\]\[2\] Edgar Gilbert独立推出了一个类似的模型。\[3\] 这被认为是随机图论中最基本和重要的模型之一，也有[物理学](../Page/物理学.md "wikilink")、[网格科学的应用](../Page/网络科学.md "wikilink")。
 
-在ER模型中，我们有n顶点。两个不同顶点之间的每条[边](../Page/边.md "wikilink")都有固定和[独立的存在概率p](../Page/独立_\(概率论\).md "wikilink")。我们可以使用概率方法和ER模型来证明[几乎所有图的性质](https://zh.wikipedia.org/wiki/幾乎所有 "wikilink")。
+在ER模型中，我们有n顶点。两个不同顶点之间的每条[边都有固定和](../Page/邊_\(圖論\).md "wikilink")[独立的存在概率p](../Page/独立_\(概率论\).md "wikilink")。我们可以使用概率方法和ER模型来证明[几乎所有图的性质](https://zh.wikipedia.org/wiki/幾乎所有 "wikilink")。
 
 ## 定义
 
 有两个一样的ER模型： [缩略图](https://zh.wikipedia.org/wiki/File:Erdos_generated_network-p0.01.jpg "fig:缩略图")
 
 1.  G(*n*, *M*) 模型：n顶点、M边、随机均匀选择一个图形。比方说，G(3, 2)模型有三种可能的选择，每种都有1/3概率。
-2.  G(*n*, *p*) 模型：n顶点、两个不同顶点之间的每条[边](../Page/边.md "wikilink")都有固定和[独立的存在概率p](../Page/独立_\(概率论\).md "wikilink")。每个图都有如下的概率：
+2.  G(*n*, *p*) 模型：n顶点、两个不同顶点之间的每条[边都有固定和](../Page/邊_\(圖論\).md "wikilink")[独立的存在概率p](../Page/独立_\(概率论\).md "wikilink")。每个图都有如下的概率：
 
 <!-- end list -->
 

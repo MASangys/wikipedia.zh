@@ -94,6 +94,7 @@
 | 8月6日  | Y                            | [In My Blood](https://www.youtube.com/watch?v=nxPexbRpHuM)            | [尚恩·曼德斯](../Page/尚恩·曼德斯.md "wikilink")                                       |                                                       |
 | 8月20日 | 勝民                           | [As Long As You Love Me](https://www.youtube.com/watch?v=FNmaJYJ23vA) | [小賈斯汀](https://zh.wikipedia.org/wiki/小賈斯汀 "wikilink")                        |                                                       |
 | 9月17日 | 宰鉉                           | [너를 만나 (Me After You)](https://www.youtube.com/watch?v=b1Mj3NsM7eA)   | Paul Kim                                                                     |                                                       |
+| 10月1日 | 東炫                           | [안녕 (So long)](https://www.youtube.com/watch?v=bNCjVuWmpfo)           |                                                                              |                                                       |
 
 ## 原聲帶
 

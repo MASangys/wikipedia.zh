@@ -66,7 +66,7 @@ Sidecar是一項新功能，允許搭載[iPadOS的](https://zh.wikipedia.org/wik
 
 停止对[32位应用程序的支持](../Page/32位元.md "wikilink")，只能运行[64位应用程序](../Page/64位元.md "wikilink")，而较旧的32位应用程序将不能再运行。
 
-[Dashboard](../Page/Dashboard.md "wikilink")應用程式已在macOS Catalina中被移除。\[16\]Grapher应用程序同样被移除，但不确定今后是否会恢复。
+[Dashboard](../Page/Dashboard.md "wikilink")應用程式已在macOS Catalina中被移除。\[16\]。
 
 ## 版本历史
 
@@ -150,6 +150,30 @@ Sidecar是一項新功能，允許搭載[iPadOS的](https://zh.wikipedia.org/wik
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>10.15 Developer Beta 9</p></td>
+<td><p>19A573a</p></td>
+<td><p>2019年9月23日</p></td>
+<td><p>19.0.0</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>10.15 Developer Beta 10</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>10.15 正式版</p></td>
+<td><p>待定</p></td>
+<td><p>2019年10月[17]</p></td>
+<td><p>19.0.0</p></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -187,3 +211,5 @@ Sidecar是一項新功能，允許搭載[iPadOS的](https://zh.wikipedia.org/wik
 
 15.
 16.
+
+17.

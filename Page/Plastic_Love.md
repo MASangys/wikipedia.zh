@@ -10,7 +10,7 @@
 
 〈Plastic Love〉收錄於[竹內瑪莉亞](../Page/竹內瑪莉亞.md "wikilink")第六張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")《》，該專輯於1984年4月25日發售\[8\]。隔年3月25日，〈Plastic Love〉以[12英寸單曲的形式發售](https://zh.wikipedia.org/wiki/單曲 "wikilink")，收錄〈PLASTIC LOVE(EXTENDED CLUB MIX)〉〈PLASTIC LOVE(NEW RE-MIX)〉兩首歌\[9\]。
 
-歌曲在發售後的30年，成為電視劇《》的主題曲\[10\]。為了慶祝出道40周年，竹內瑪莉亞將推出新專輯《Turntable》，〈Plastic Love〉也收錄在其中\[11\]。
+歌曲在發售後的30年，成為電視劇《》的主題曲\[10\]。為了慶祝出道40周年，竹內瑪莉亞將推出新精選輯《Turntable》，〈Plastic Love〉也收錄在其中\[11\]。
 
 ## 音樂錄影帶
 

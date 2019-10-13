@@ -54,6 +54,7 @@
 
   -
     的場認識的情報販子之一。剃著[光頭](https://zh.wikipedia.org/wiki/光頭 "wikilink")、帶著[墨鏡](https://zh.wikipedia.org/wiki/墨鏡 "wikilink")，穿著[牧師服裝的男性](https://zh.wikipedia.org/wiki/牧師 "wikilink")。
+    被緹拉娜誤說成是「小偷」。
 
 <!-- end list -->
 
@@ -141,17 +142,20 @@
   - 片頭曲「」\[2\]
     填詞：[大石昌良](../Page/大石昌良.md "wikilink")，作曲、編曲：大石昌良、扇谷研人，主唱：[大石昌良](../Page/大石昌良.md "wikilink")
 
+    第12話為片尾插入。
+
   - 片尾曲
 
-:;「Connected」（第1～9話、第10話）
-
-:: 填詞、作曲、編曲：安野勇太，主唱：緹拉娜·艾克澤蒂利卡（[吉岡茉祐](../Page/吉岡茉祐.md "wikilink")）
-
-:;「Nonficition」（第9.5話）
+:;「Connected」（第1～9話、第10～12話）
 
   -
 
       -
+        填詞、作曲、編曲：安野勇太，主唱：緹拉娜·艾克澤蒂利卡（[吉岡茉祐](../Page/吉岡茉祐.md "wikilink")）
+
+    第12話為片中插入。
+
+      - 「Nonficition」（第9.5話）
         填詞、作曲：RIRIKO，編曲：藤 代佑太郎，主唱：緹拉娜·艾克澤蒂利卡（吉岡茉祐）
 
 ### 各話列表
@@ -296,19 +300,42 @@ Mun Hui、Jeong Yong-un</p></td>
 <td><p>田邊慎吾</p></td>
 <td><p>木村博美、吉田智裕<br />
 板垣伸、白素一二三</p></td>
-<td><p>第四卷 &lt;!--|-</p></td>
+<td><p>第四卷</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>第11話</p></td>
+<td><p>TRANSITIONAL CRISES</p></td>
+<td><p>播摩優</p></td>
+<td><p>北條直明、芳山優<br />
+杉本幸子、川村敏江</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第12話</p></td>
+<td><p>TWO WORLDS, TWO JUSTICES</p></td>
+<td><p>賀東招二<br />
+永井真吾</p></td>
+<td><p>田邊慎吾</p></td>
+<td><p>小林大地、内田利明<br />
+永吉田智裕、木村博美</p></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
 
 ### 藍光與DVD
 
-| 卷數  | 發售日期          | 規格編號       |
-| --- | ------------- | ---------- |
-| 藍光版 | DVD版          |            |
-| 1   | 預定2019年10月23日 | PCXG-50701 |
-| 2   | 預定2019年11月20日 | PCXG-50702 |
+| 卷數  | 發售日期          | 規格編號       | 封面人物       |
+| --- | ------------- | ---------- | ---------- |
+| 藍光版 | DVD版          |            |            |
+| 1   | 預定2019年10月23日 | PCXG-50701 | PCBG-53031 |
+| 2   | 預定2019年11月20日 | PCXG-50702 | PCBG-53032 |
 
 ## 參考資料
 

@@ -321,6 +321,14 @@
 <td><p>3.1</p></td>
 <td><p>1</p></td>
 </tr>
+<tr class="odd">
+<td><p>9月30日</p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Perfume" title="wikilink">Perfume</a></p></td>
+<td><p>精選</p></td>
+<td><p>9.7</p></td>
+<td><p>1</p></td>
+</tr>
 </tbody>
 </table>
 

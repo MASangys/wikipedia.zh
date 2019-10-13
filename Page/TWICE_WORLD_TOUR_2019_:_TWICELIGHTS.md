@@ -104,7 +104,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>10月29日</p></td>
+<td><p>10月27日</p></td>
 <td><p>千葉站</p></td>
 <td><p><a href="../Page/幕張展覽館.md" title="wikilink">幕張展覽館</a></p></td>
 <td></td>
@@ -112,6 +112,14 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>10月29日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>10月30日</p></td>
 <td></td>
 <td></td>
@@ -119,7 +127,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>11月6日</p></td>
 <td><p>大阪站</p></td>
 <td><p><a href="../Page/大阪城音樂廳.md" title="wikilink">大阪城音樂廳</a></p></td>
@@ -127,7 +135,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>11月7日</p></td>
 <td></td>
 <td></td>
@@ -135,7 +143,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>11月16日</p></td>
 <td><p>宮城站</p></td>
 <td></td>
@@ -143,7 +151,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>11月17日</p></td>
 <td></td>
 <td></td>
@@ -151,7 +159,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>11月29日</p></td>
 <td><p>愛知站</p></td>
 <td></td>
@@ -159,7 +167,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>11月30日</p></td>
 <td></td>
 <td></td>
@@ -167,7 +175,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>12月1日</p></td>
 <td></td>
 <td></td>
@@ -175,18 +183,34 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2020年</p></td>
 <td><p>2月11日</p></td>
 <td><p>福岡站</p></td>
-<td><p>|</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2月12日</p></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2月22日</p></td>
 <td><p>靜岡站</p></td>
-<td><p>|</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2月23日</p></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>

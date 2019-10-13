@@ -1,4 +1,4 @@
-《**AV帝王**》（，）是一部[日本](../Page/日本.md "wikilink")[傳記](../Page/傳記.md "wikilink")[劇情](https://zh.wikipedia.org/wiki/劇情片 "wikilink")[情色類型的](https://zh.wikipedia.org/wiki/情色片 "wikilink")[網路劇集](../Page/網路劇集.md "wikilink")，改編自的傳記小說，[武正晴擔當總導演](https://zh.wikipedia.org/wiki/武正晴 "wikilink")，於2019年8月8日在線上[串流媒體平台](https://zh.wikipedia.org/wiki/串流媒體 "wikilink")[Netflix](../Page/Netflix.md "wikilink")首播，第一季共8集。2019年8月，Netflix宣佈預訂劇集第二季。
+《**AV帝王**》（，）是一部[日本](../Page/日本.md "wikilink")[傳記](../Page/傳記.md "wikilink")[劇情](https://zh.wikipedia.org/wiki/劇情片 "wikilink")[情色類型的](https://zh.wikipedia.org/wiki/情色片 "wikilink")[網路劇集](../Page/網路劇集.md "wikilink")，改編自的傳記小說，[武正晴](../Page/武正晴.md "wikilink")擔當總導演，於2019年8月8日在線上[串流媒體平台](https://zh.wikipedia.org/wiki/串流媒體 "wikilink")[Netflix](../Page/Netflix.md "wikilink")首播，第一季共8集。2019年8月，Netflix宣佈預訂劇集第二季。
 
 ## 概要
 
@@ -195,7 +195,7 @@
 
 ### 開發
 
-2018年10月24日，報道稱[Netflix](../Page/Netflix.md "wikilink")日本決定以的傳記小說為藍本開發電視劇，故事主角為日本知名AV導演，預計製作10集\[11\]。[武正晴擔當總導演](https://zh.wikipedia.org/wiki/武正晴 "wikilink")，[河合勇人](../Page/河合勇人.md "wikilink")和執導劇集\[12\]。2019年8月16日，Netflix宣佈預訂劇集第二季\[13\]。
+2018年10月24日，報道稱[Netflix](../Page/Netflix.md "wikilink")日本決定以的傳記小說為藍本開發電視劇，故事主角為日本知名AV導演，預計製作10集\[11\]。[武正晴](../Page/武正晴.md "wikilink")擔當總導演，[河合勇人](../Page/河合勇人.md "wikilink")和執導劇集\[12\]。2019年8月16日，Netflix宣佈預訂劇集第二季\[13\]。
 
 ### 選角
 

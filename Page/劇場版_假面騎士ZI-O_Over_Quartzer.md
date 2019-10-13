@@ -7,7 +7,7 @@
 ## 本作特色
 
   - 本作继《[剧场版 假面骑士Build Be The One](https://zh.wikipedia.org/wiki/剧场版_假面骑士Build_Be_The_One "wikilink")》后，再次将TV本篇主题曲作为剧场版的主题。
-  - 本作繼《[劇場版 假面騎士EX-AID True·Ending](../Page/劇場版_假面騎士EX-AID_True·Ending.md "wikilink")》後，劇場版的時間線為TV本篇最後話（即第49集）之後，但與《假面騎士EX-AID True·Ending》不同，本作是《[假面騎士ZI-O](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")》的「分支結局」\[1\]，同時也是平成假面騎士的「The·紀念作」。\[2\]。
+  - 本作繼《[劇場版 假面騎士EX-AID True·Ending](../Page/劇場版_假面騎士EX-AID_True·Ending.md "wikilink")》後，劇場版的時間線為TV本篇最後話（即第49集）之後，但與《假面騎士EX-AID True·Ending》不同，本作是《[假面騎士ZI-O](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")》的「分支結局」（後續上映的《[假面騎士 令和 The First Generation](https://zh.wikipedia.org/wiki/假面騎士_令和_The_First_Generation "wikilink")》才是《[假面騎士ZI-O](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")》的「真結局」）\[1\]，同時也是平成假面騎士的「The·紀念作」。\[2\]。
   - 本作繼《[劇場版 假面騎士DECADE 全騎士 VS 大修卡](https://zh.wikipedia.org/wiki/劇場版_假面騎士DECADE_全騎士_VS_大修卡 "wikilink")》後，全平成假面騎士將再次齊聚，並且還是繼《假面騎士Wizard》最終話後，其最終形態一一具現。
   - 本作繼《[劇場版 假面騎士Ghost 100個眼魂與Ghost命運的瞬間](https://zh.wikipedia.org/wiki/劇場版_假面騎士Ghost_100個眼魂與Ghost命運的瞬間 "wikilink")》後，暌違三年所登場的劇場版騎士人數增至一人以上，同其造型更參考了活跃於平成時代卻被歸類於昭和騎士的部分騎士\[3\]。
   - 本作劇場版將叙述《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》的物語，並且相關角色，例如飾演「假面騎士Mach / 詩島剛」的稻葉友將繼《[劇場版 假面騎士Drive SURPRISE FUTURE](https://zh.wikipedia.org/wiki/劇場版_假面騎士Drive_SURPRISE_FUTURE "wikilink")》後再度在劇場版上登場。\[4\]。
@@ -416,7 +416,7 @@
 
 [Category:假面騎士系列電影作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列電影作品 "wikilink") [Category:2019年日本電影](https://zh.wikipedia.org/wiki/Category:2019年日本電影 "wikilink")
 
-1.  原宣傳中本作為「真結局」，但TV本篇播至46集時，東映官網的分集劇情卻註明本作時間線在TV本篇46至47集之間，直至渡邊圭祐在劇場版訪談中澄清本作時間線。
+1.  ，原宣傳中本作為「真結局」，但TV本篇播至46集時，東映官網的分集劇情卻註明本作時間線在TV本篇46至47集之間，直至渡邊圭祐在劇場版訪談中澄清本作時間線。
 2.
 3.  即假面騎士Black RX、假面騎士·真、假面騎士ZO、假面騎士J 和假面騎士Amazons的三名騎士
 4.

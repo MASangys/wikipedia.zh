@@ -295,7 +295,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>1st</strong></p></td>
-<td><p><strong>《<a href="https://zh.wikipedia.org/wiki/LATATA_（日语专辑）" title="wikilink">LATATA</a>》</strong>[20]</p>
+<td><p><strong>《<a href="../Page/LATATA.md" title="wikilink">LATATA</a>》</strong>[20]</p>
 <ul>
 <li>发行日期：2019年7月31日</li>
 <li>语言：日语</li>

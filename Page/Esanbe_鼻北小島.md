@@ -1,4 +1,4 @@
-**Esanbe 鼻北小島**（），是日本[北海道](../Page/北海道.md "wikilink")[猿拂村](../Page/猿拂村.md "wikilink")海面附近一個[無人島](../Page/無人島.md "wikilink")，距離該村大約500公尺。
+**Esanbe 鼻北小島**（），是日本[北海道](../Page/北海道.md "wikilink")[猿拂村](../Page/猿拂村.md "wikilink")海面附近一個[無人島](../Page/無人島.md "wikilink")，距離該村大約500公尺。島嶼在2019年確定消失，隨後被降格為「[灘](../Page/灘.md "wikilink")」。
 
 ## 概况
 
@@ -13,6 +13,7 @@
 ## 相關條目
 
   - [海馬島 (猿拂村)](https://zh.wikipedia.org/wiki/海馬島_\(猿拂村\) "wikilink")
+  - [西之島](../Page/西之岛_\(小笠原群岛\).md "wikilink") - 因火山活動而導致領海範圍擴大
 
 [Category:北海道島嶼](https://zh.wikipedia.org/wiki/Category:北海道島嶼 "wikilink")
 

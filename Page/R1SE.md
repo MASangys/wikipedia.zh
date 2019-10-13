@@ -51,18 +51,18 @@ R1SE的官方粉絲名是「**十二**」，於2019年7月8日正式公開，意
 
 ## 成員介紹
 
-<table style="width:341%;">
+<table style="width:390%;">
 <colgroup>
-<col style="width: 42%" />
-<col style="width: 6%" />
-<col style="width: 10%" />
-<col style="width: 35%" />
-<col style="width: 63%" />
-<col style="width: 35%" />
-<col style="width: 42%" />
-<col style="width: 35%" />
-<col style="width: 55%" />
-<col style="width: 15%" />
+<col style="width: 48%" />
+<col style="width: 8%" />
+<col style="width: 12%" />
+<col style="width: 40%" />
+<col style="width: 72%" />
+<col style="width: 40%" />
+<col style="width: 48%" />
+<col style="width: 40%" />
+<col style="width: 64%" />
+<col style="width: 17%" />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -307,7 +307,6 @@ Center</p></td>
 | ---------- | ----------------------------------------------------- | ---------------- | ------- |
 | **播出日期**   | 播出平台                                                  | **節目名稱**         | **備註**  |
 | 2019年8月11日 | [騰訊視頻](https://zh.wikipedia.org/wiki/騰訊視頻 "wikilink") | 《Super R1SE·蓄能季》 | R1SE小團綜 |
-| 2019年      | 《我+》                                                  | 專屬團綜；國內首檔陪伴式互動綜藝 |         |
 | 2019年      | 《橫沖直撞20歲<rb>第二季》                                      | R1SE專屬大團綜        |         |
 
 ### 嘉賓出演

@@ -1,6 +1,6 @@
 《**CheerS**》是[日本](../Page/日本.md "wikilink")雙人女子[音樂组合](https://zh.wikipedia.org/wiki/音樂组合 "wikilink")[ClariS](../Page/ClariS.md "wikilink")的第20張單曲\[1\]。2018年8月15日由[SACRA MUSIC](../Page/SACRA_MUSIC.md "wikilink")（[Sony Music Entertainment子公司](../Page/日本索尼音樂娛樂.md "wikilink")）發行。
 
-## 概要
+## 解說
 
 《**CheerS**》是[ClariS](../Page/ClariS.md "wikilink")自從上一張單曲《》以來，相隔5個月之後推出的最新單曲。同名標題曲並作為2018年7月至9月與12月單集特別篇、在[TOKYO MX等](../Page/東京都會電視台.md "wikilink")[UHF獨立電視網及](../Page/全國獨立放送協議會.md "wikilink")[AT-X](../Page/AT-X.md "wikilink")播出[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[工作細胞](../Page/工作細胞.md "wikilink")》片尾主題曲起用。
 

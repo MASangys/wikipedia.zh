@@ -1,7 +1,7 @@
 《**你那邊怎樣·我這邊OK**》（）是一部台灣和新加坡合拍的電視劇，由[臺灣电视公司](https://zh.wikipedia.org/wiki/臺灣电视公司 "wikilink")、[拙八郎创意执行有限公司和](https://zh.wikipedia.org/wiki/拙八郎创意执行有限公司 "wikilink")[新加坡新传媒私人有限公司首次聯合製作](../Page/新传媒私人有限公司.md "wikilink")、合作拍攝，[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")跨境合作，兩地實景拍摄；台灣團隊由身兼總導演、總監製的[王小棣](../Page/王小棣.md "wikilink")帶領、新加坡團隊由監製[梁來玲帶領](https://zh.wikipedia.org/wiki/梁來玲 "wikilink")，並且由[藍正龍](../Page/藍正龍.md "wikilink")、[藍心湄](../Page/藍心湄.md "wikilink")、[曾之喬](../Page/曾之喬.md "wikilink")、[曾沛慈](../Page/曾沛慈.md "wikilink")、[劉冠廷](../Page/劉冠廷.md "wikilink")、[吳岳擎](../Page/吳岳擎.md "wikilink")、[黄俊雄](https://zh.wikipedia.org/wiki/黄俊雄 "wikilink")、[陳泂江](../Page/陳泂江.md "wikilink")、[陳羅密歐](https://zh.wikipedia.org/wiki/陳羅密歐 "wikilink")、[范文芳](../Page/范文芳.md "wikilink")領銜主演。\[1\]\[2\]本劇於2019年1月16日開拍，5月30日殺青。
 
 本劇以2016年轟動台灣的[自動提款機吐鈔盜領案件為背景](https://zh.wikipedia.org/wiki/第一商業銀行#事件 "wikilink")，劇情將雙線開展，一條故事線在新加坡，另一條故事線則在台北；本劇同时也獲得中華民國文化部107年度電視節目製作補助案連續劇類補助3800萬元。\[3\] \[4\]
-本劇於2019年8月26日開始在新加坡播出；新加坡故事線在每逢星期一到五晚間9点在[新传媒8频道播出](https://zh.wikipedia.org/wiki/新传媒8频道 "wikilink")，台灣故事線则在同一晚10点在[新传媒U频道播出](https://zh.wikipedia.org/wiki/新传媒U频道 "wikilink")。[台視主頻於](../Page/臺灣電視台.md "wikilink")2019年8月30日起每週五晚間10點播出。（單週播出台灣故事線，雙週播出新加坡故事線）\[5\]
+本劇於8月26日開始在新加坡播出；新加坡故事線在每逢星期一到五晚間9点在[新传媒8频道播出](https://zh.wikipedia.org/wiki/新传媒8频道 "wikilink")，台灣故事線则在同一晚10点在[新传媒U频道播出](https://zh.wikipedia.org/wiki/新传媒U频道 "wikilink")。[台視主頻於](../Page/臺灣電視台.md "wikilink")8月30日起每週五晚間10點播出。（08/30-09/20，單週播出台灣故事線，雙週播出新加坡故事線，09/27起，每週五播出台灣故事線和新加坡故事線各一集）\[5\]
 
 ## 剧情双线发展的特点
 
@@ -35,7 +35,8 @@
 <td><p>Toggle</p></td>
 <td></td>
 <td><p>2019年8月19日</p></td>
-<td><p>每週一上架10集 （Premium優先觀看）</p></td>
+<td><p>每週一上架10集<br />
+（Premium優先觀看）</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/新傳媒8頻道.md" title="wikilink">新傳媒8頻道</a></p></td>
@@ -54,32 +55,52 @@
 <tr class="even">
 <td><p><a href="../Page/臺灣電視台.md" title="wikilink">台視主頻</a></p></td>
 <td></td>
-<td><p>2019年8月30日</p></td>
-<td><p><strong>台灣篇（20集）</strong><br />
+<td><p>2019年8月30日<br />
+（至9月13日）</p></td>
+<td><p><strong>台灣篇（第1－4集）</strong><br />
 每週五22:00 - 00:00<br />
 （單週播出一次兩集）</p></td>
 </tr>
 <tr class="odd">
-<td><p>2019年9月6日</p></td>
-<td><p><strong>新加坡篇（20集）</strong><br />
+<td><p>2019年9月6日<br />
+（至9月20日）</p></td>
+<td><p><strong>新加坡篇（第1－4集）</strong><br />
 每週五22:00 - 00:00<br />
 （雙週播出一次兩集）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>2019年9月27日</p></td>
+<td><p><strong>台灣、新加坡篇（第5集起）</strong><br />
+每週五22:00 - 00:00<br />
+（22:00、23:00各播一集）</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="../Page/八大戲劇台.md" title="wikilink">八大戲劇台</a></p></td>
-<td><p>2019年9月1日</p></td>
-<td><p><strong>台灣篇（20集）</strong><br />
+<td><p>2019年9月1日<br />
+（至9月15日）</p></td>
+<td><p><strong>台灣篇（第1－4集）</strong><br />
 每週日20:00 - 22:00<br />
 （單週播出一次兩集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>2019年9月8日</p></td>
-<td><p><strong>新加坡篇（20集）</strong><br />
+<tr class="even">
+<td><p>2019年9月8日<br />
+（至9月22日）</p></td>
+<td><p><strong>新加坡篇（第1－4集）</strong><br />
 每週日20:00 - 22:00<br />
 （雙週播出一次兩集）</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年9月29日</p></td>
+<td><p><strong>台灣、新加坡篇（第5集起）</strong><br />
+每週日20:00 - 22:00<br />
+（20:00、21:00各播一集）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -132,7 +153,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2019年10月21日</p></td>
+<td><p>2019年11月6日</p></td>
 <td><p><strong>新加坡篇（20集）</strong><br />
 每週一至週四21:30 - 22:20<br />
 </p></td>
@@ -171,7 +192,7 @@
 <td><p>路瑞克<br />
 （Eric）</p></td>
 <td><p><strong>騰昇銀行新加坡分行員工</strong><br />
-聰明理智，擁有高超的駭客技術，努力想要翻轉自己卑微的出身，人生的目標就是功成名就。在阿嬤的期許下考進了英國劍橋，卻在半年後慘遭退學，不願讓阿嬤失望，於是靠自己想辦法在英國打工過日子，直到畢業歸國後進入了騰昇銀行，就在大家慶賀他成功時，他假造畢業證書的事被Linda揭露，不甘被當成威脅手段逼著他違法作業，他只好駭進Linda電腦獲取把柄反過來自保。此時，在英國參加駭客競技賽時認識高手Justin牽線，接下針對銀行ATM系統漏洞開發的破解程式，希望能將程式賣給資安公司，快點存錢讓阿嬤可以過好日子。他萬萬沒料到來到台灣測試系統，不僅將自己捲入盜領案，也拖著好友棟煌下水成了警方通緝對象。他抽絲剝繭後發現了被駭客一手操控的陰謀，但要怎麼才能讓人家相信，他是無辜的?</p></td>
+聰明理智，擁有高超的駭客技術，努力想要翻轉自己卑微的出身，人生的目標就是功成名就。在阿嬤的期許下考進了英國劍橋，卻在半年後慘遭退學，不願讓阿嬤失望，於是靠自己想辦法在英國打工過日子，同時也轉到其他普通大學就讀，直到畢業歸國後進入了騰昇銀行，就在大家慶賀他成功時，他假造畢業證書的事被Linda揭露，不甘被當成威脅手段逼著他違法作業，他只好駭進Linda電腦獲取把柄反過來自保。此時，在英國參加駭客競技賽時認識高手Justin牽線，接下針對銀行ATM系統漏洞開發的破解程式，希望能將程式賣給資安公司，快點存錢讓阿嬤可以過好日子。他萬萬沒料到來到台灣測試系統，不僅將自己捲入盜領案，也拖著好友棟煌下水成了警方通緝對象。他抽絲剝繭後發現了被駭客一手操控的陰謀，但要怎麼才能讓人家相信，他是無辜的?</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/曾沛慈.md" title="wikilink">曾沛慈</a></p></td>
@@ -255,7 +276,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/刘冠廷" title="wikilink">刘冠廷</a></p></td>
 <td><p>罗廷轩</p></td>
 <td><p><strong>台湾刑警</strong><br />
-小父母離異，父親又早逝，就由姑姑送進了孤兒院。他聽從家人意見說當上警察就是個好選擇。於是考了警察大學。記憶力極好的他28歲就進刑事局，羅廷軒是個機靈但很會摸魚又畏懼暴力的小警官，幸好有資深刑警發哥做「師父」帶著他。此次因為有臥底警察在運有毒品的船上失聯，警察身上的發信器定位在新加坡，因此正在新加坡渡假的廷軒因地利之便就被師父派去當地瞭解調查。</p></td>
+從小父母離異，父親又早逝，就由姑姑送進了孤兒院。他聽從家人意見說當上警察就是個好選擇。於是考了警察大學。記憶力極好的他28歲就進刑事局，羅廷軒是個機靈但很會摸魚又畏懼暴力的小警官，幸好有資深刑警發哥做「師父」帶著他。此次因為有臥底警察在運有毒品的船上失聯，警察身上的發信器定位在新加坡，因此正在新加坡渡假的廷軒因地利之便就被師父派去當地瞭解調查。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/沈琳宸" title="wikilink">沈琳宸</a></p></td>
@@ -427,7 +448,7 @@ Linda的老公，溫文儒雅，帶有書卷氣息。安靜、內斂，對一般
 
 ### 台視首播收視率
 
-  - 台灣篇、新加坡篇採單、雙週方式播出
+  - 開播初期，台灣篇、新加坡篇採單、雙週方式播出。9月27日起改為台灣篇、新加坡篇採為當天各播出一集。
 
 <table>
 <thead>
@@ -442,29 +463,43 @@ Linda的老公，溫文儒雅，帶有書卷氣息。安靜、內斂，對一般
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>台灣篇</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>2019年8月30日</p></td>
 <td><p>1</p></td>
 <td><p>0.55</p></td>
 <td><p>4</p></td>
-<td></td>
+<td><p>台灣篇</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年9月6日</p></td>
+<td><p>2</p></td>
+<td><p>0.24</p></td>
+<td><p>4</p></td>
+<td><p>新加坡篇</p></td>
 </tr>
 <tr class="odd">
 <td><p>2019年9月13日</p></td>
 <td><p>3</p></td>
 <td><p>0.16</p></td>
 <td><p>5</p></td>
-<td></td>
+<td><p>台灣篇</p></td>
 </tr>
 <tr class="even">
+<td><p>2019年9月20日</p></td>
+<td><p>4</p></td>
+<td><p>0.20</p></td>
+<td></td>
+<td><p>新加坡篇</p></td>
+</tr>
+<tr class="odd">
 <td><p>2019年9月27日</p></td>
 <td><p>5</p></td>
+<td><p>0.25</p></td>
+<td></td>
+<td><p>雙線</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年10月4日</p></td>
+<td><p>6</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -477,85 +512,15 @@ Linda的老公，溫文儒雅，帶有書卷氣息。安靜、內斂，對一般
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2019年10月25日</p></td>
-<td><p>9</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2019年11月8日</p></td>
-<td><p>11</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2019年11月22日</p></td>
-<td><p>13</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2019年12月6日</p></td>
-<td><p>15</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2019年12月20日</p></td>
-<td><p>17</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2020年1月3日</p></td>
-<td><p>19</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>平均收視率</p></td>
-<td></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>新加坡篇</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2019年9月6日</p></td>
-<td><p>2</p></td>
-<td><p>0.24</p></td>
-<td><p>4</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2019年9月20日</p></td>
-<td><p>4</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2019年10月4日</p></td>
-<td><p>6</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>2019年10月18日</p></td>
 <td><p>8</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年10月25日</p></td>
+<td><p>9</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -568,8 +533,22 @@ Linda的老公，溫文儒雅，帶有書卷氣息。安靜、內斂，對一般
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>2019年11月8日</p></td>
+<td><p>11</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>2019年11月15日</p></td>
 <td><p>12</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年11月22日</p></td>
+<td><p>13</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -582,8 +561,22 @@ Linda的老公，溫文儒雅，帶有書卷氣息。安靜、內斂，對一般
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>2019年12月6日</p></td>
+<td><p>15</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>2019年12月13日</p></td>
 <td><p>16</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年12月20日</p></td>
+<td><p>17</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -596,13 +589,20 @@ Linda的老公，溫文儒雅，帶有書卷氣息。安靜、內斂，對一般
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>2020年1月3日</p></td>
+<td><p>19</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>2020年1月10日</p></td>
 <td><p>20</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>平均收視率</p></td>
 <td></td>
 <td><p>-</p></td>
@@ -670,6 +670,8 @@ Linda的老公，溫文儒雅，帶有書卷氣息。安靜、內斂，對一般
 ## 外部链接
 
   - －台視
+
+  - －八大
 
   - [官方網站](https://www.myvideo.net.tw/index.do)－myVideo
 

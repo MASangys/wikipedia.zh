@@ -289,7 +289,7 @@ Showman's Show</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p>主：娛樂風雲主題音樂（<a href="https://zh.wikipedia.org/wiki/黃偉年" title="wikilink">黃偉年作曲</a>）<br />
 主：困獸鬥（<a href="../Page/陳凱詠.md" title="wikilink">陳凱詠</a> Feat. <a href="https://zh.wikipedia.org/wiki/梁業" title="wikilink">梁　業</a> @ <a href="../Page/ERROR_(香港男子組合).md" title="wikilink">ERROR</a>）（第31集起）</p></td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><p>10月1日暫停早上重播時段</p></td>
 </tr>
 </tbody>
 </table>
@@ -457,7 +457,7 @@ My ID is Gangnam Beauty</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
 <p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/Now劇集台電視劇集列表_(2019年).md" title="wikilink">2019年now劇集台劇集</a></span></p>
 </div></td>
-<td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="../Page/JTBC.md" title="wikilink">JTBC</a>）</p></td>
+<td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="../Page/JTBC.md" title="wikilink">JTBC</a>），10月2日凌晨重播時段改為02:30-03:30</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
@@ -471,7 +471,7 @@ Clean with Passion for Now</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
 <p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/Now劇集台電視劇集列表_(2019年).md" title="wikilink">2019年now劇集台劇集</a></span></p>
 </div></td>
-<td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="../Page/JTBC.md" title="wikilink">JTBC</a>）</p></td>
+<td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="../Page/JTBC.md" title="wikilink">JTBC</a>），10月8日凌晨重播時段改為02:30-03:30</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
@@ -606,13 +606,14 @@ Sky Castle</p></td>
 Me Too</p></td>
 <td style="text-align: center;"><p>15</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/梁漢文" title="wikilink">梁漢文</a>、<a href="../Page/王敏奕.md" title="wikilink">王敏奕</a>、<a href="../Page/張慧儀.md" title="wikilink">張慧儀</a>、<br />
-<a href="../Page/樓南光.md" title="wikilink">樓南光</a>、<a href="../Page/許博文.md" title="wikilink">強　尼</a>、<a href="../Page/陳俞希.md" title="wikilink">陳俞希</a>、<br />
-、、<a href="../Page/陳子豐.md" title="wikilink">陳子豐</a>、<br />
-<a href="../Page/邵仲衡.md" title="wikilink">邵仲衡</a>、<a href="../Page/董敏莉.md" title="wikilink">董敏莉</a>、</p></td>
+<a href="../Page/樓南光.md" title="wikilink">樓南光</a>、<a href="../Page/邵仲衡.md" title="wikilink">邵仲衡</a>、<a href="../Page/董敏莉.md" title="wikilink">董敏莉</a>、<br />
+<a href="../Page/許博文.md" title="wikilink">強　尼</a>、<a href="../Page/陳俞希.md" title="wikilink">陳俞希</a>、、<br />
+<a href="../Page/陳子豐.md" title="wikilink">陳子豐</a>、、<a href="../Page/雷深如.md" title="wikilink">雷深如</a>、<br />
+、<a href="../Page/李焯寧.md" title="wikilink">李焯寧</a>、</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"><p>前奏節目《假設性無罪-性甚明誰》於9月28日至10月2日23:25-23:30播出</p></td>
+<td style="text-align: center;"><p>主：風雨花（<a href="../Page/雷深如.md" title="wikilink">雷深如</a>）</p></td>
+<td style="text-align: center;"><p>前奏節目《假設性無罪 - 性甚明誰》於9月28日至30日23:25-23:30、10月2日00:55-01:00及23:25-23:30播出</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>24/10-<br />
@@ -896,7 +897,7 @@ Single Wife</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
 <p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/ViuTV電視劇集列表_(2018年).md" title="wikilink">2018年ViuTV劇集</a></span></p>
 </div></td>
-<td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a>）</p></td>
+<td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a>），10月2日改為01:05-02:00播出</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>

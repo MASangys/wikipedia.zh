@@ -29,7 +29,7 @@
 <small>（少年：金多仁）</p></td>
 <td><p>徐在仁</p></td>
 <td><p>在司法研修院成績墊底的新人，正義感十足的菜鳥律師。雖然一心想要當個為委屈的委託人辯護的正義律師，但卻屢屢在現實中碰壁，最終為了委託人以自己的律政人生為擔保，簽約一心只看錢和勝利的高泰林律所。</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/陳雪瑩" title="wikilink">陳雪瑩</a></p></td>
+<td><p><a href="../Page/陳雪瑩.md" title="wikilink">陳雪瑩</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/蔡貞安.md" title="wikilink">蔡貞安</a></p></td>
@@ -164,7 +164,7 @@
 <td><p><a href="../Page/安內相.md" title="wikilink">安內相</a></p></td>
 <td><p>徐東秀</p></td>
 <td><p>在仁的爸爸。他抱着患病的妻子和年幼的女兒，甚至想到快要死去的時候，奇蹟般地抓住自己的手的人出現了。他矢言對恩人忠誠終生，因涉及某些事件而被迫離開在仁身邊。</p></td>
-<td><p><a href="../Page/羅偉亮.md" title="wikilink">羅偉亮</a></p></td>
+<td><p><a href="../Page/何偉誠.md" title="wikilink">何偉誠</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -426,7 +426,7 @@
 <td><p>金智秀</p></td>
 <td><p>李荷娜</p></td>
 <td><p>李俊日的女兒。</p></td>
-<td></td>
+<td><p><a href="../Page/楊婉潼.md" title="wikilink">楊婉潼</a></p></td>
 </tr>
 <tr class="even">
 <td><p>李振木</p></td>

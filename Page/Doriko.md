@@ -11,7 +11,7 @@
 
 ## 外部链接
 
-  - [unformed ～doriko's homepage～](http://unformed.cc/)
+  - [unformed ～doriko's homepage～](https://web.archive.org/web/20090709080616/http://unformed.cc/)
 
   -
   -

@@ -81,50 +81,6 @@
 </tbody>
 </table>
 
-### 夜貓組時期
-
-#### Mixtape
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p>專輯</p></td>
-<td><p>發行日期</p></td>
-<td><p>專輯名稱</p></td>
-<td><p>語言</p></td>
-<td><p>曲目</p></td>
-</tr>
-<tr class="even">
-<td><p>1</p></td>
-<td><p>2016年05月</p></td>
-<td><p>《初代目》</p></td>
-<td><p>國語</p></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-#### 專輯
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p>專輯</p></td>
-<td><p>發行日期</p></td>
-<td><p>專輯名稱</p></td>
-<td><p>語言</p></td>
-<td><p>曲目</p></td>
-</tr>
-<tr class="even">
-<td><p>1</p></td>
-<td><p>2017年10月</p></td>
-<td><p>《健康歌曲》</p></td>
-<td><p>國語</p></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
 ### Leo 王時期
 
 #### EP
@@ -201,6 +157,50 @@
 
   - 2017年 雀斑〈不標準情人〉
   - 2019年 [9m88](https://zh.wikipedia.org/wiki/9m88 "wikilink")〈最高品質靜悄悄〉
+
+### 夜貓組時期
+
+#### Mixtape
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>專輯</p></td>
+<td><p>發行日期</p></td>
+<td><p>專輯名稱</p></td>
+<td><p>語言</p></td>
+<td><p>曲目</p></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td><p>2016年05月</p></td>
+<td><p>《初代目》</p></td>
+<td><p>國語</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+#### 專輯
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>專輯</p></td>
+<td><p>發行日期</p></td>
+<td><p>專輯名稱</p></td>
+<td><p>語言</p></td>
+<td><p>曲目</p></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td><p>2017年10月</p></td>
+<td><p>《健康歌曲》</p></td>
+<td><p>國語</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 獎項紀錄
 

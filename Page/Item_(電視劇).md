@@ -163,7 +163,7 @@
 <td></td>
 <td><p>慧智</p></td>
 <td><p>最後一集登場，耀漢之女友。</p></td>
-<td></td>
+<td><p><a href="../Page/石梓晴.md" title="wikilink">石梓晴</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -178,10 +178,10 @@
 <td><p><a href="../Page/黃鳳英.md" title="wikilink">黃鳳英</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/李主儐" title="wikilink">李主儐</a></p></td>
+<td><p><a href="../Page/李主儐.md" title="wikilink">李主儐</a></p></td>
 <td></td>
 <td><p>會變身的女殺手。</p></td>
-<td></td>
+<td><p><a href="../Page/王綺婷.md" title="wikilink">王綺婷</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>

@@ -10,7 +10,7 @@
 
 <references />
 
-[Category:泰國男歌手](https://zh.wikipedia.org/wiki/Category:泰國男歌手 "wikilink") [Category:泰國作詞家](https://zh.wikipedia.org/wiki/Category:泰國作詞家 "wikilink")
+[Category:泰國男歌手](https://zh.wikipedia.org/wiki/Category:泰國男歌手 "wikilink")
 
 1.
 2.  [เปิดใจ "ไอ้หนุ่มแขนซ้ายลายมังกร" พรศักดิ์ ส่องแสง](https://mgronline.com/onlinesection/detail/9620000003489)

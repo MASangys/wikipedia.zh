@@ -1,8 +1,8 @@
-**D-CRUNCH**（韓語：**디크런치**），是[韓國All](https://zh.wikipedia.org/wiki/韓國 "wikilink")-S Company于2018年推出的[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂團體與](https://zh.wikipedia.org/wiki/男子音樂團體 "wikilink")[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")，由**HyunWook**、**HyunHo**、**O.V**、**HyunWoo**、**HyunOh**、**MinHyuk**、**ChanYoung、JungSeung、Dylan**九名成員組成，共3名主唱及6名Rapper，並由**O.V**擔任隊長，隸屬於**All-S Company**經紀公司。
+**D-CRUNCH**（韓語：**디크런치**），是[韓國All](https://zh.wikipedia.org/wiki/韓國 "wikilink")-S Company于2018年推出的[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂團體與](https://zh.wikipedia.org/wiki/男子音樂團體 "wikilink")[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")，由**HyunWook**、**HyunHo**、**O.V**、**HyunWoo**、**HyunOh**、**MinHyuk**、**ChanYoung、JungSeung、Dylan**九名成員組成，共3名主唱及6名Rapper，並由**HyunWook**和**O.V**擔任隊長。
 
 2018年8月6日舉辦Showcase宣告正式出道，首張單曲《0806》於8月6日發行。
 
-D-CRUNCH全員皆為出身於[Girl's Day的經紀公司](../Page/Girl's_Day.md "wikilink")[DreamT Entertainment的練習生](../Page/Imagine_Asia.md "wikilink")。
+D-CRUNCH全員皆為出身於[Girl's Day的前經紀公司](../Page/Girl's_Day.md "wikilink")[DreamT Entertainment的練習生](../Page/Imagine_Asia.md "wikilink")。
 
 ## 團體資料
 
@@ -28,7 +28,7 @@ D-CRUNCH全員皆為出身於[Girl's Day的經紀公司](../Page/Girl's_Day.md "
 <td><p>HyunWook/현욱</p></td>
 <td><p>池炫昱[1] / 지현욱</p></td>
 <td><p>1998年7月1日</p></td>
-<td><p>主唱</p></td>
+<td><p>隊長、主唱</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -47,14 +47,14 @@ D-CRUNCH全員皆為出身於[Girl's Day的經紀公司](../Page/Girl's_Day.md "
 </tr>
 <tr class="even">
 <td><p>HyunWoo/현우</p></td>
-<td><p>白賢宇[2] / 백현우</p></td>
+<td><p>白縣遇[2] / 백현우</p></td>
 <td><p>1999年2月12日</p></td>
 <td><p>領唱</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>HyunOh/현오</p></td>
-<td><p>朴賢伍[3] / 박현오</p></td>
+<td><p>朴炫晤[3] / 박현오</p></td>
 <td><p>1999年3月19日</p></td>
 <td><p>主唱、主領舞</p></td>
 <td></td>
@@ -75,7 +75,7 @@ D-CRUNCH全員皆為出身於[Girl's Day的經紀公司](../Page/Girl's_Day.md "
 </tr>
 <tr class="even">
 <td><p>JungSeung/정승</p></td>
-<td><p>朴政昇[5] / 박정승</p></td>
+<td><p>朴正勝[5] / 박정승</p></td>
 <td><p>2002年5月20日</p></td>
 <td><p>Rapper、忙內</p></td>
 <td><p>Geupsik-Dan(급식단)</p></td>

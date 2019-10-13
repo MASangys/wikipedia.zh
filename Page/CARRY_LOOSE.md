@@ -13,7 +13,11 @@ CARRY LOOSE（キャリールーズ）\[1\]是日本的4人音樂團體、[日�
   - 6月19日 – 渡辺淳之介在[Twitter](../Page/Twitter.md "wikilink")宣布新偶像團體計畫‘**カレールーず（仮稱）**’\[8\]\[9\]。
   - 8月4日 – パン・ルナリーフィ和YUiNA EMPiRE以CARRY LOOSE的名義參與「TOKYO IDOL FESTIVAL 2019」。並宣布パン・ルナリーフィ加入洗牌團體[SAiNT SEX](../Page/SAiNT_SEX.md "wikilink")\[10\]。
   - 9月4日 – ウルウ・ル正式成為‘**CARRY LOOSE**’的成員，新成員ユメカ・ナウカナ？加入，團體的正式名為CARRY LOOSE。\[11\]
-  - 10月22日 – 發行首張原創專輯《CARRY LOOSE》\[12\]\[13\]
+  - 10月6日 – 第一首歌曲「やさしい世界」官方開放免費下載一週<ref>\[<https://twitter.com/CARRY_LOOSE/status/1174307219078352896> 【新曲「やさしい世界」無料DL実施\!\!】
+
+デビューアルバム「CARRY LOOSE」から 新曲「やさしい世界」の音源を解禁\!\! こちらはウルウ・ルの初作詞曲です。\]</ref>
+
+  - 10月22日 – 發行首張原創專輯《CARRY LOOSE》\[12\]\[13\]\[14\]
 
 ### 2020年
 
@@ -55,13 +59,13 @@ CARRY LOOSE（キャリールーズ）\[1\]是日本的4人音樂團體、[日�
 <td><p>是WACK徵選2019參加者。<br />
 2019年9月4日開始活動。<br />
 是前<a href="../Page/WAgg.md" title="wikilink">WAgg</a>成員<br />
-亦是<a href="../Page/HOLY_SHiTS.md" title="wikilink">HOLY SHiTS的成員</a>。[14]<br />
+亦是<a href="../Page/HOLY_SHiTS.md" title="wikilink">HOLY SHiTS的成員</a>。[15]<br />
 為CARRY LOOSE的（創始成員）</p></td>
 </tr>
 <tr class="even">
 <td><p>ユメカ・ナウカナ？</p></td>
 <td><p>10月28日</p></td>
-<td><p>是徵選試鏡的合格者。<br />
+<td><p>是CARRY LOOSE徵選試鏡的合格者。<br />
 2019年9月4日開始活動。<br />
 為CARRY LOOSE的（創始成員）</p></td>
 </tr>
@@ -105,44 +109,26 @@ CARRY LOOSE（キャリールーズ）\[1\]是日本的4人音樂團體、[日�
 <td><p>1</p></td>
 <td><p>2019年10月22日</p></td>
 <td><p><strong>CARRY LOOSE</strong></p></td>
-<td></td>
+<td><p>TPRC-0241【通常盤】</p></td>
 <td><div class="NavFrame collapsed" style="clear:both;border:0;">
 <div class="NavHead" style="text-align:center;">
-<p>卡帶（全13曲）</p>
-</div>
-<div class="NavContent" style="text-align:left;">
-<p>A-SiDE</p>
-<ol>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-</ol>
-<p>B-SiDE</p>
-<ol>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-</ol>
-<div class="NavFrame collapsed" style="clear:both;border:0;">
-<div class="NavHead" style="text-align:center;">
-<p>初回限定豪華盤 DVD（全13曲）</p>
+<p>全13曲</p>
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li></li>
-<li></li>
-<li></li>
-</ol>
-<p>MUSiC ViDEO</p>
-<ol>
-<li></li>
-<li></li>
-<li></li>
+<li>やさしい世界</li>
+<li>CARRY LOOSE</li>
+<li>戻らないように</li>
+<li>ANYBODY</li>
+<li>CHEER SONG</li>
+<li>WEATHERCOCK</li>
+<li>RAKUEN</li>
+<li>ツメも君も</li>
+<li>ERASE and REWRITE</li>
+<li>When we wish upon a star</li>
+<li>たんたかたんたんたん</li>
+<li>pretender</li>
+<li>Deep thorns</li>
 </ol></td>
 <td></td>
 <td><p>初回限定豪華盤：BOX仕樣、寫真集</p></td>
@@ -198,6 +184,10 @@ CARRY LOOSE（キャリールーズ）\[1\]是日本的4人音樂團體、[日�
   -
   -
   -
+**其他**
+
+  - \- [SoundCloud](../Page/SoundCloud.md "wikilink")
+
 ## 參考資料
 
 [Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink") [Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
@@ -215,4 +205,5 @@ CARRY LOOSE（キャリールーズ）\[1\]是日本的4人音樂團體、[日�
 11. [T-Palette Records CARRY LOOSE アルバム「CARRY LOOSE」2019年10月22日発売決定！](https://prtimes.jp/main/html/rd/p/000000445.000025445.html)
 12. [CARRY LOOSE、デビューアルバム『CARRY LOOSE』をタワーレコードのアイドル専門レーベル「T-Palette Records」より10月22日発売](https://tower.jp/article/feature_item/2019/09/04/0707)
 13. [WACK新ユニット CARRY LOOSE、メンバー自ら作詞した楽曲を含むデビューアルバムリリース決定！](https://popnroll.tv/articles/4379)
-14. [ウルウ・ル畢業公演日程決定！](https://twitter.com/WAggidol/status/1147753358255480832)
+14. [CARRY LOOSEの1stアルバム詳細、パンルナ作詞「ERASE and REWRITE」ほか無料公開](https://natalie.mu/music/news/349113)
+15. [ウルウ・ル畢業公演日程決定！](https://twitter.com/WAggidol/status/1147753358255480832)

@@ -14,11 +14,6 @@
 
 ## 參考來源
 
-## 相關條目
-
-  - [那個泳池](https://zh.wikipedia.org/wiki/那個泳池 "wikilink")
-  - [Magic Mirror號](../Page/Magic_Mirror號.md "wikilink")
-
 ## 外部連結
 
   -

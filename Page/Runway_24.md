@@ -1,4 +1,4 @@
-**Runway 24**（  ）是2019年7月6日起於[朝日電視台](../Page/朝日電視台.md "wikilink")播出的電視劇\[1\]，由朝比奈彩、[犬飼貴丈](../Page/犬飼貴丈.md "wikilink")、[白石隼也](../Page/白石隼也.md "wikilink")等人\[2\]主演，以[廉價航空](https://zh.wikipedia.org/wiki/廉價航空 "wikilink")「[樂桃航空](../Page/樂桃航空.md "wikilink")」為背景，劇情主要描述講述公司在節省成本及提升服務兩難下員工的奮鬥過程\[3\]\[4\]。
+**Runway 24**（  ）是2019年7月6日起於[朝日電視台](../Page/朝日電視台.md "wikilink")播出的電視劇\[1\]，由朝比奈彩、[犬飼貴丈](../Page/犬飼貴丈.md "wikilink")、[白石隼也](../Page/白石隼也.md "wikilink")等人\[2\]主演，以[廉價航空](https://zh.wikipedia.org/wiki/廉價航空 "wikilink")「[樂桃航空](../Page/樂桃航空.md "wikilink")」為背景，劇情主要描述講述公司在節省成本及提升服務兩難下員工的奮鬥過程\[3\]\[4\]\[5\]。
 
 ## 演員列表
 
@@ -80,9 +80,10 @@
 
   -
 
-[Category:2019年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2019年開播的日本電視劇集 "wikilink")
+[Category:2019年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2019年開播的日本電視劇集 "wikilink") [Category:機場背景作品](https://zh.wikipedia.org/wiki/Category:機場背景作品 "wikilink") [Category:電視劇L](https://zh.wikipedia.org/wiki/Category:電視劇L "wikilink") [Category:航空题材电视剧](https://zh.wikipedia.org/wiki/Category:航空题材电视剧 "wikilink") [Category:空中服務員題材作品](https://zh.wikipedia.org/wiki/Category:空中服務員題材作品 "wikilink") [Category:日本愛情劇](https://zh.wikipedia.org/wiki/Category:日本愛情劇 "wikilink")
 
 1.
 2.
 3.
 4.
+5.  本節目的第七集最後預告、幕後，以及第八集有以[台灣為舞台背景進行](https://zh.wikipedia.org/wiki/台灣 "wikilink")。

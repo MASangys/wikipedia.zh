@@ -67,8 +67,8 @@ Memoji 新增了更多设计，从头发、嘴唇、帽子、耳环、甚至可�
 
 ### iPhone
 
-  - [iPhone 6S](https://zh.wikipedia.org/wiki/iPhone_6S "wikilink")
-  - [iPhone 6S Plus](https://zh.wikipedia.org/wiki/iPhone_6S "wikilink")
+  - [iPhone 6s](https://zh.wikipedia.org/wiki/iPhone_6s "wikilink")
+  - [iPhone 6s Plus](https://zh.wikipedia.org/wiki/iPhone_6s "wikilink")
   - [iPhone SE](https://zh.wikipedia.org/wiki/iPhone_SE "wikilink")
   - [iPhone 7](https://zh.wikipedia.org/wiki/iPhone_7 "wikilink")
   - [iPhone 7 Plus](https://zh.wikipedia.org/wiki/iPhone_7 "wikilink")
@@ -134,14 +134,14 @@ Memoji 新增了更多设计，从头发、嘴唇、帽子、耳环、甚至可�
 </tr>
 <tr class="even">
 <td><p>Public beta 2</p></td>
-<td></td>
-<td></td>
+<td><p><small>17A5522g</small></p></td>
+<td><p>2019年7月9日</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>Developer beta 4</p></td>
 <td><p><small>17A5534f</small></p></td>
-<td><p>2019年7 月18日</p></td>
+<td><p>2019年7月18日</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -199,46 +199,64 @@ Memoji 新增了更多设计，从头发、嘴唇、帽子、耳环、甚至可�
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>13.0</p></td>
 <td><p>Golden Master</p></td>
 <td><p><small>17A577</small></p></td>
 <td><p>2019年9月11日</p></td>
-<td></td>
 </tr>
 <tr class="even">
+<td><p>正式版</p></td>
+<td><p>2019年9月20日</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>13.1</p></td>
 <td><p>Developer beta 1</p></td>
 <td><p><small>17A5821e</small></p></td>
 <td><p>2019年8月28日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Public beta 1</p></td>
 <td><p>2019年8月29日</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Developer beta 2</p></td>
 <td><p><small>17A5831c</small></p></td>
 <td><p>2019年9月5日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Public beta 2</p></td>
-<td><p>2019年9月5日</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Developer beta 3</p></td>
 <td><p><small>17A5837a</small></p></td>
 <td><p>2019年9月11日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Developer beta 4</p></td>
-<td><p>17A5844a</p></td>
+<td><p><small>17A5844a<small></p></td>
 <td><p>2019年9月19日</p></td>
 <td></td>
+</tr>
+<tr class="odd">
+<td><p>13.1</p></td>
+<td><p>正式版</p></td>
+<td><p><small>17A844</small></p></td>
+<td><p>2019年9月25日</p></td>
+</tr>
+<tr class="even">
+<td><p>13.1.1</p></td>
+<td><p>正式版</p></td>
+<td><p><small>17A854</small></p></td>
+<td><p>2019年9月28日</p></td>
 </tr>
 </tbody>
 </table>
@@ -246,6 +264,9 @@ Memoji 新增了更多设计，从头发、嘴唇、帽子、耳环、甚至可�
 ## 注释
 
 ## 参考资料
+
+[經理人月刊／iOS 13 發布，增加 10 大新功能！看完秒懂該不該更新 iPhone](https://www.managertoday.com.tw/articles/view/58306)
+[數位時代／iOS 13正式版登場！10大系統功能更新，你試過了嗎？](https://www.bnext.com.tw/article/54836/ios-13)
 
 ## 外部鏈接
 

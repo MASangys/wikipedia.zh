@@ -2,31 +2,44 @@
 
 ## 作品解說
 
-專輯封面使用了[英國風景](https://zh.wikipedia.org/wiki/英國 "wikilink")[攝影師](https://zh.wikipedia.org/wiki/攝影 "wikilink")[Michael Kenna於](https://zh.wikipedia.org/wiki/迈克尔·肯纳 "wikilink")1983年拍攝的作品「Deckchairs, Bournemouth, Dorset, England」\[1\]，僅在初回盤附屬了可將CD盒置入的紙製封套盒（Sleeve Case）。
+唱片封面使用了[英格蘭攝影師](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[Michael Kenna的作品](https://zh.wikipedia.org/wiki/Michael_Kenna "wikilink")「Deckchairs, Bournemouth, Dorset, England」\[1\]。僅在初回盤附屬了可將CD盒置入的紙製封套盒（Sleeve Case）。
 
-本作成為了憑藉全曲來維持1個故事性的[概念專輯](https://zh.wikipedia.org/wiki/概念專輯 "wikilink")，與其他的B'z專輯相比作風大為不同。根據[松本孝弘](../Page/松本孝弘.md "wikilink")的陳述表示「想製作一張猶如電影原聲帶般的專輯{{\#tag:ref||group="原文"}}」。內容是由『回想』『再會』『糾葛』『解決』之場面所組成的愛情故事，專輯標題『**FRIENDS**』正是故事的主題。曲順表記並非「\#1」等，而是採用了「**SCENE 1**」等獨特的表記方式，亦成為其特徵。關於作詞，[稻葉浩志](../Page/稻葉浩志.md "wikilink")表示「所有樂曲的歌詞皆是在乘坐飛機移動中以每4曲同時進行書寫{{\#tag:ref||group="原文"}}」。
+本作成為了憑藉全曲來維持1個故事性的[概念專輯](https://zh.wikipedia.org/wiki/概念專輯 "wikilink")，與其他的B'z專輯相比作風大為不同。根據[松本孝弘](../Page/松本孝弘.md "wikilink")的陳述表示「想製作一張猶如電影原聲帶般的專輯{{\#tag:ref||group="原文"}}」。
+
+內容是由『回想』『再會』『糾葛』『解決』之場面所組成的愛情故事，專輯標題『**FRIENDS**』正是故事的主題。
+
+曲順表記並非「\#1」等，而是採用了「**SCENE 1**」等獨特的表記方式，亦成為其特徵。
+
+關於作詞，[稻葉浩志](../Page/稻葉浩志.md "wikilink")表示「所有樂曲的歌詞皆是在乘坐飛機移動中以每4曲同時進行書寫{{\#tag:ref||group="原文"}}」。
 
 ## 收錄曲
 
 1.  Prologue **Friends** (1:48)
       -
-        [器樂曲](https://zh.wikipedia.org/wiki/器樂 "wikilink")。由[弦樂器演奏](https://zh.wikipedia.org/wiki/弦樂器 "wikilink")。
+        [器樂曲](https://zh.wikipedia.org/wiki/器樂 "wikilink")。
+        由[弦樂器演奏](https://zh.wikipedia.org/wiki/弦樂器 "wikilink")。
 2.  SCENE 1. **[曾幾何時的Merry Christmas](../Page/曾幾何時的Merry_Christmas.md "wikilink")（）**(5:36)　
       -
-        [聖誕歌曲](https://zh.wikipedia.org/wiki/聖誕 "wikilink")。因雖非單曲卻在粉絲間擁有高人氣，而成為了經典的聖誕歌曲。
+        [聖誕歌曲](https://zh.wikipedia.org/wiki/聖誕 "wikilink")。初出於本作。
+        雖非單曲卻在粉絲間擁有極高人氣，而成為了經典的聖誕歌曲。
 3.  SCENE 2. **我的罪（）**(4:19)
       -
-        由[吉他](../Page/吉他.md "wikilink")前奏與[玻璃](../Page/玻璃.md "wikilink")的破碎聲揭開序幕。除了器樂曲以外，是本作中唯一的演唱會未演奏曲。
+        由[吉他](../Page/吉他.md "wikilink")前奏與[玻璃](../Page/玻璃.md "wikilink")的破碎聲揭開序幕。
+        除了器樂曲以外，是本作中唯一的演唱會未演奏曲。
 4.  2-2. **Love is…** (1:26)
       -
-        器樂曲。以次曲「」的[旋律為基礎](https://zh.wikipedia.org/wiki/旋律 "wikilink")，用[鍵盤演奏了](../Page/鍵盤樂器.md "wikilink")[音樂盒般地氛圍](https://zh.wikipedia.org/wiki/音樂盒 "wikilink")。
+        器樂曲。
+        以次曲「」的[旋律為基礎](https://zh.wikipedia.org/wiki/旋律 "wikilink")，用[鍵盤演奏了](../Page/鍵盤樂器.md "wikilink")[音樂盒般地氛圍](https://zh.wikipedia.org/wiki/音樂盒 "wikilink")。
 5.  SCENE 3. **失戀之日（）**(4:51)
       -
-        由突然驟變的強烈吉他前奏揭開序幕。在粉絲間擁有高人氣，因上榜粉絲票選前10名，而被收錄進精選輯『[B'z The Best "ULTRA Treasure"](../Page/B'z_The_Best_"ULTRA_Treasure".md "wikilink")』。2014年在粉絲俱樂部會報實施的「雖然自身還未曾聽過，但夢想總有一天能在[LIVE-GYM](../Page/LIVE-GYM.md "wikilink")上聽到的歌曲{{\#tag:ref||group="原文"}}」問卷調查中票選第3名，2017年在同會報實施的「想在LIVE-GYM上聽到的B'z歌曲{{\#tag:ref||group="原文"}}」問卷調查中票選第3名，但在演唱會上自「B'z LIVE-GYM'93 -RUN-」巡演以後未曾演奏。
+        由突然驟變的強烈吉他前奏揭開序幕。
+        在粉絲間擁有高人氣，因上榜粉絲票選前10名，而被收錄進精選輯『[B'z The Best "ULTRA Treasure"](../Page/B'z_The_Best_"ULTRA_Treasure".md "wikilink")』。
+        2014年在粉絲俱樂部會報實施的「雖然自身還未曾聽過，但夢想總有一天能在[LIVE-GYM](../Page/LIVE-GYM.md "wikilink")上聽到的歌曲{{\#tag:ref||group="原文"}}」問卷調查中票選第3名，2017年在同會報實施的「想在LIVE-GYM上聽到的B'z歌曲{{\#tag:ref||group="原文"}}」問卷調查中票選第3名，但在演唱會上自「B'z LIVE-GYM'93 -RUN-」巡演以後未曾演奏。
 6.  SCENE 4. **SEASONS** (1:14)
       -
-        器樂曲。僅松本[原聲吉他](../Page/原聲吉他.md "wikilink")的演奏。
-7.  SCENE 5. **無論如何也不想失去你（）**(6:07)
+        器樂曲。
+        僅松本以[原聲吉他](../Page/原聲吉他.md "wikilink")演奏。
+7.  SCENE 5. **無論如何都不想失去你（）**(6:07)
       -
         作為[朝日電視台](../Page/朝日電視台.md "wikilink")系『[MUSIC STATION](../Page/MUSIC_STATION.md "wikilink")』片尾曲，截至1992年4月10日起至2002年2月22日，使用了本曲的器樂曲「どうしても君を失いたくない -Instrumental-」。該版本未被音源化\[2\]。
 8.  6\. **曾幾何時的Merry Christmas（Reprise）（）**(1:23)
@@ -46,21 +59,21 @@
 
   - [稻葉浩志](../Page/稻葉浩志.md "wikilink")：[主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")、[作詞](https://zh.wikipedia.org/wiki/作詞 "wikilink")
 
-  - [明石昌夫](../Page/明石昌夫.md "wikilink")：[貝斯](https://zh.wikipedia.org/wiki/貝斯 "wikilink")、、[編曲](https://zh.wikipedia.org/wiki/編曲 "wikilink")（\#4,6,8除外）
+  - [明石昌夫](../Page/明石昌夫.md "wikilink")：[貝斯](https://zh.wikipedia.org/wiki/貝斯 "wikilink")、、[編曲](https://zh.wikipedia.org/wiki/編曲 "wikilink")（\#4.6.8除外）
 
   - ：[爵士鼓](../Page/爵士鼓.md "wikilink")
 
-  - （）：[鍵盤](../Page/鍵盤樂器.md "wikilink")（\#3,3,4,7,8）
+  - （）：[鍵盤](../Page/鍵盤樂器.md "wikilink")（\#3.4.7.8）
 
   - 澤野博敬：[小號](../Page/小號.md "wikilink")（\#7）
 
   - ：[長號](https://zh.wikipedia.org/wiki/長號 "wikilink")（\#7）
 
-  - HIIRO STRINGS（日色ストリングス）：[弦樂器](https://zh.wikipedia.org/wiki/弦樂器 "wikilink")（\#1）
+  - 日色Strings：[弦樂器](https://zh.wikipedia.org/wiki/弦樂器 "wikilink")（\#1）
 
-  - [大黑摩季](../Page/大黑摩季.md "wikilink")：[和聲](../Page/和聲歌手.md "wikilink")（\#3,7）
+  - [大黑摩季](../Page/大黑摩季.md "wikilink")：[和聲](../Page/和聲歌手.md "wikilink")（\#3.7）
 
-  - 古川真一：[和聲](../Page/和聲歌手.md "wikilink")（\#2,5）
+  - 古川真一：[和聲](../Page/和聲歌手.md "wikilink")（\#2.5）
 
 ## 演唱會影像作品
 
@@ -81,4 +94,4 @@
 [Category:B'z音樂專輯](https://zh.wikipedia.org/wiki/Category:B'z音樂專輯 "wikilink") [Category:1992年迷你專輯](https://zh.wikipedia.org/wiki/Category:1992年迷你專輯 "wikilink") [Category:概念專輯](https://zh.wikipedia.org/wiki/Category:概念專輯 "wikilink") [Category:1992年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1992年Oricon專輯週榜冠軍作品 "wikilink") [Category:Oricon百萬銷量達成專輯](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成專輯 "wikilink")
 
 1.  <https://www.sfmoma.org/artwork/91.403/>
-2.  雖無加入歌聲，但曲子與[和聲是從原曲直接挪用到器樂曲本身](../Page/和聲歌手.md "wikilink")。此外，歌唱部分代替歌聲加入了吉他音。
+2.  雖無加入歌聲，但曲子與[和聲是從原曲直接挪用到器樂曲本身](../Page/和聲歌手.md "wikilink")。此外，歌唱部分以吉他聲取代了歌聲。

@@ -1,5 +1,5 @@
 「**Super Junior World Tour - "Super Show 8"**」是[Super Junior的第八次巡迴演唱會](../Page/Super_Junior.md "wikilink")，2019年10月12日在首爾揭幕。\[1\]
-這次巡迴演唱會由[利特](../Page/利特.md "wikilink")、[藝聲](../Page/藝聲.md "wikilink")、[神童](../Page/神童_\(藝人\).md "wikilink")、[銀赫](../Page/銀赫.md "wikilink")、[始源](https://zh.wikipedia.org/wiki/始源 "wikilink")、[東海](../Page/東海_\(藝人\).md "wikilink")、[厲旭](../Page/厲旭.md "wikilink")、[圭賢](../Page/圭賢.md "wikilink")八人參與，也是[圭賢](../Page/圭賢.md "wikilink")退伍、全員服役完畢之後的首次巡迴演唱會，但[希澈](../Page/希澈.md "wikilink")因身體狀況、晟敏因與粉絲溝通不良遭抵制，均不參與演出。\[2\]
+這次巡迴演唱會由[利特](../Page/利特.md "wikilink")、[藝聲](../Page/藝聲.md "wikilink")、[神童](../Page/神童_\(藝人\).md "wikilink")、[銀赫](../Page/銀赫.md "wikilink")、[始源](https://zh.wikipedia.org/wiki/始源 "wikilink")、[東海](../Page/東海_\(藝人\).md "wikilink")、[厲旭](../Page/厲旭.md "wikilink")、[圭賢](../Page/圭賢.md "wikilink")八人參與，也是[圭賢](../Page/圭賢.md "wikilink")退伍、全員服役完畢之後的首次巡迴演唱會，但[希澈](../Page/希澈.md "wikilink")因身體狀況、[晟敏](../Page/晟敏.md "wikilink")因與粉絲溝通不良遭抵制，[強仁](../Page/強仁.md "wikilink")已於2019年7月11日宣佈退團，均不參與演出。\[2\]
 
 ## 表演曲目
 

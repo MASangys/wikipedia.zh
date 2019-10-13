@@ -63,35 +63,27 @@
 **藝人** \[4\]
 
   - 고민성
-
   - 金承煥
-
   - 金珍京
-
   - [徐彩媛](../Page/徐彩媛.md "wikilink")
-
   - [宋慶雅](../Page/宋慶雅.md "wikilink")
-
   - 宋海娜
-
   - 李賢怡
-
   - [李惠英](../Page/李惠英_\(1971年\).md "wikilink")
-
   - 이혜정
-
   - [張允柱](../Page/張允柱.md "wikilink")
-
   - 정재호
-
-  -
+  - [鄭赫](https://zh.wikipedia.org/wiki/鄭赫 "wikilink")
   - 秦雅凜
-
   - 韓惠妍
-
   - [韓惠珍](../Page/韓惠珍_\(模特兒\).md "wikilink")
-
   - 許志雄
+
+### Speeker Entertainment
+
+  - 李言廷
+  - [金忠宰](../Page/金忠宰.md "wikilink")
+  - 鄭勝旻
 
 ## 已離開藝人
 

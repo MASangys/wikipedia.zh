@@ -4,23 +4,53 @@
 
 ## 歷史
 
+[The_Honor_Guard_of_ROC_Performancing_in_Chaiyi_Air_Base_20120811a.jpg](https://zh.wikipedia.org/wiki/File:The_Honor_Guard_of_ROC_Performancing_in_Chaiyi_Air_Base_20120811a.jpg "fig:The_Honor_Guard_of_ROC_Performancing_in_Chaiyi_Air_Base_20120811a.jpg") 中國自譽為禮儀之邦，軍禮自古已有之。近代中國的軍事儀仗，可以溯源至清末[新軍](../Page/新軍.md "wikilink")[北洋水師](../Page/北洋水師.md "wikilink")所成立的北洋水師軍樂隊。中華民國[武昌起義以後](https://zh.wikipedia.org/wiki/武昌起義 "wikilink")，軍政府戰時總司令[黃興主導成立儀隊](https://zh.wikipedia.org/wiki/黃興 "wikilink")，為軍樂隊的附屬組織，作為宣傳之用；但因戰事需要，旋即解散投入戰鬥。
+
+[中華民國臨時大總統](https://zh.wikipedia.org/wiki/中華民國臨時大總統 "wikilink")[孫文就職時](https://zh.wikipedia.org/wiki/孫文 "wikilink")，重新任命陸軍總長黃興組成儀隊；[國務總理](../Page/中華民國國務總理.md "wikilink")[唐紹儀接收](https://zh.wikipedia.org/wiki/唐紹儀 "wikilink")[南京國民政府時](https://zh.wikipedia.org/wiki/南京國民政府 "wikilink")，再度解散。其後[大總統](../Page/中華民國大總統.md "wikilink")[袁世凱重新成立](https://zh.wikipedia.org/wiki/袁世凱 "wikilink")[鹵簿](../Page/鹵簿.md "wikilink")、[肩輿](https://zh.wikipedia.org/wiki/肩輿 "wikilink")，軍儀隊、軍樂隊、禮砲隊改由各部隊自行編組，並由海軍總部樂儀隊代表國家接待外賓。
+
+[護法戰爭期間](https://zh.wikipedia.org/wiki/護法戰爭 "wikilink")，[護法軍政府及](https://zh.wikipedia.org/wiki/護法軍政府 "wikilink")[國民政府](../Page/國民政府.md "wikilink")仿效[蘇俄制度](https://zh.wikipedia.org/wiki/蘇俄 "wikilink")，再度成立樂儀隊，但因經費欠缺而再度解散。[國民革命軍北伐](../Page/國民革命軍北伐.md "wikilink")成功後，[國民政府](../Page/國民政府.md "wikilink")為[南京中山陵奉安](https://zh.wikipedia.org/wiki/南京中山陵 "wikilink")，以在[北京守靈的靈寢衛隊擔任儀隊](https://zh.wikipedia.org/wiki/北京 "wikilink")，直到[中國抗日戰爭爆發為止](https://zh.wikipedia.org/wiki/中國抗日戰爭 "wikilink")。此後樂儀隊改為任務編組，沒有法律明白規定組織，迄用至今。
+
+國民政府遷台以後，總統[蔣中正](../Page/蔣中正.md "wikilink")由臺灣出訪[南韓受到軍禮迎送](https://zh.wikipedia.org/wiki/南韓 "wikilink")，察覺到儀隊的重要性，於是回臺後即刻指示國軍成立儀隊。1957年9月1日，[參謀總長](https://zh.wikipedia.org/wiki/參謀總長 "wikilink")[彭孟緝](../Page/彭孟緝.md "wikilink")上將頒布第317號命予陸海空軍總司令部，採取任務編組方式成立陸、海、空三軍儀隊，海軍陸戰隊儀隊則於同年11月16日成立。
+
 ### 陸軍儀隊
+
+陸軍儀隊的前身是[陸軍總司令部樂儀連特別成立的](../Page/國防部陸軍司令部.md "wikilink")「陸總警備連」，主要任務是保護陸軍總部的安全及警戒勤務，1957年奉命成立「陸軍總司令部儀隊」。1960年美國介入[台海戰役](https://zh.wikipedia.org/wiki/台海戰役 "wikilink")，促使兩岸停火，陸總警備連於同年移駐[臺北縣](../Page/臺北縣.md "wikilink")（今新北市）秀山營區，隸屬北區後勤司令部訓練單位。
+
+1961年，陸總警備連更名「陸軍總司令部警衛連」。1972年遷至[臺北市](../Page/臺北市.md "wikilink")新南營區；1978—79年遷至[新店寶橋營區](https://zh.wikipedia.org/wiki/新店 "wikilink")；1983—84年遷至[木柵](../Page/木柵.md "wikilink")馬明潭營區。1997年實施[精實案](../Page/精實案.md "wikilink")，陸軍總司令部改組設立勤務指揮部，儀隊從總務部改歸屬勤務指揮部管轄。1999年遷至中和營區。
+
+2006年，陸軍總司令部依據《國防部組織法》規定，改稱為「陸軍司令部」。2012年遷至[大直](../Page/大直.md "wikilink")新福西營區。
 
 ### 海軍儀隊
 
+[ROCN_Honor_Guard_Drilling_at_Keelung_Naval_Pier_Ground_20150316b.jpg](https://zh.wikipedia.org/wiki/File:ROCN_Honor_Guard_Drilling_at_Keelung_Naval_Pier_Ground_20150316b.jpg "fig:ROCN_Honor_Guard_Drilling_at_Keelung_Naval_Pier_Ground_20150316b.jpg") [中華民國海軍](../Page/中華民國海軍.md "wikilink")原有三支儀隊，分別是：總部儀隊、艦隊儀隊、陸戰儀隊。總部儀隊主要負責北區駐防與禮儀勤務，以及隨同[敦睦艦隊遠航的任務](https://zh.wikipedia.org/wiki/敦睦艦隊 "wikilink")，也就是一般所知的「海軍儀隊」。
+
+總部儀隊有兩個「水兵分隊」（艦艇兵）及一個「陸戰分隊」（陸戰排），陸戰分隊的兵員來自海軍陸戰隊，但與海軍陸戰隊並不是同一個單位。
+
+艦隊儀隊與陸戰儀隊共同駐在[高雄](https://zh.wikipedia.org/wiki/高雄 "wikilink")[左營基地](../Page/海軍左營基地.md "wikilink")，艦隊儀隊負責艦隊成軍典禮、下水典禮和其他艦隊禮儀；陸戰儀隊則負責陸戰單位的禮儀與警衛勤務。
+
+1987年艦隊儀隊解編，原屬於艦隊儀隊的任務則轉交陸戰儀隊負責。
+
 ### 空軍儀隊
 
+空軍儀隊連原隸屬於「空軍警衛旅」，與同旅改編的憲兵215營同駐在南港。1968年，空軍警衛旅改為「空軍警衛營」；1984年，空軍警衛營改為「[空軍警衛指揮部](../Page/空軍警衛部隊.md "wikilink")」。1987年4月，空軍儀隊由南港遷至警衛四營的共同駐地。1991年，空軍警衛指揮部改為「空軍防砲警衛司令部」；2006年，空軍防砲警衛司令部改為「[空軍防砲指揮部](../Page/空軍防空砲兵指揮部.md "wikilink")」。
+
 ### 陸戰儀隊
+
+[ROCMC_Honor_Guard_Performing_at_Zuoying_Naval_Base_Ground_20141123a.jpg](https://zh.wikipedia.org/wiki/File:ROCMC_Honor_Guard_Performing_at_Zuoying_Naval_Base_Ground_20141123a.jpg "fig:ROCMC_Honor_Guard_Performing_at_Zuoying_Naval_Base_Ground_20141123a.jpg") 中華民國海軍陸戰隊於1955年2月1日成立「[海軍陸戰隊司令部隊部營](https://zh.wikipedia.org/wiki/海軍陸戰隊司令部 "wikilink")」（101營），下轄隊部連、錙汽連、射訓隊、軍樂隊、警衛連、儀隊連。1957年11月14日，陸戰隊以任務編組在桃子園成立儀隊，初始負責的勤務就包括禮兵、操演及衛哨，是南區唯一能執行軍事禮儀的單位，駐在[高雄](https://zh.wikipedia.org/wiki/高雄 "wikilink")[左營基地](../Page/海軍左營基地.md "wikilink")。
+
+陸戰儀隊原分為警衛連（警衛一連）和儀隊連（警衛二連）。1991年以前，陸戰儀隊負責北區（[中正紀念堂](../Page/中正紀念堂.md "wikilink")、[國父紀念館](https://zh.wikipedia.org/wiki/國父紀念館 "wikilink")、[慈湖陵寢](../Page/慈湖陵寢.md "wikilink")、[大溪陵寢](../Page/大溪陵寢.md "wikilink")、[國民革命忠烈祠](../Page/國民革命忠烈祠.md "wikilink")）駐防勤務的禮兵，是從儀隊連派遣士兵出勤；1991—96年，改由警衛連負責北區的駐防勤務，儀隊連則負責操演及禮儀勤務。
+
+1997年實施[精實案](../Page/精實案.md "wikilink")，警衛連與儀隊連整併改為「警衛二連」，合併後的警衛二連不僅要負責原儀隊連的操演及禮儀勤務，也要負責原警衛連的北區駐防勤務，還要負責海軍陸戰隊司令部忠誠營區的衛哨和交管勤務。2000—01年，國軍撤除陸戰儀隊的北區駐防勤務，改由陸、海、空組成的三軍儀隊負責駐防勤務。
 
 ## 編制
 
 三軍儀隊隸屬不同軍種，原軍種的工作任務也有極大差別，但儀隊的編制卻沒有太大的差異。各軍儀隊需要負責各軍總部的警衛安全，同時陸海空三軍儀隊需要負責[北區的禮儀勤務](../Page/北臺灣.md "wikilink")，陸戰儀隊則負責[南區的禮儀勤務](../Page/南臺灣.md "wikilink")。
 
-各軍儀隊為「警衛連」的編組型態，全年需要保持五個排的兵力，三個排執行各項[禮儀勤務](https://zh.wikipedia.org/wiki/#執行勤務 "wikilink")、一個排分遣[駐防景點](https://zh.wikipedia.org/wiki/#駐防地點 "wikilink")、一個排則實施任務銜接訓練，以便能適時遞補屆退兵員。陸戰儀隊不需要在北區的景點駐防，但在有必要時會支援三軍儀隊的駐防任務。以單軍種儀隊為例，編制大致如下：
+各軍儀隊為「警衛連」的編組型態，全年需要保持五個排的兵力，三個排執行各項[禮儀勤務](https://zh.wikipedia.org/wiki/#執行勤務 "wikilink")、一個排分遣[駐防特定場所](https://zh.wikipedia.org/wiki/#駐防地點 "wikilink")、一個排則實施任務銜接訓練，以便能適時遞補屆退兵員。陸戰儀隊不需要在北區進行駐防任務，但在有必要時會支援三軍儀隊的駐防任務。以單軍種儀隊為例，編制大致如下：
 
 ## 執行勤務
 
-[中華民國第十四任總統、副總統就職慶祝典禮_(27056649641).jpg](https://zh.wikipedia.org/wiki/File:中華民國第十四任總統、副總統就職慶祝典禮_\(27056649641\).jpg "fig:中華民國第十四任總統、副總統就職慶祝典禮_(27056649641).jpg")進行操演\]\] [Ma_Ying-jeou_and_Christopher_Loeak.jpg](https://zh.wikipedia.org/wiki/File:Ma_Ying-jeou_and_Christopher_Loeak.jpg "fig:Ma_Ying-jeou_and_Christopher_Loeak.jpg") [諾魯共和國新任大使簡慈珠搭禮車抵府於正大門下車.jpg](https://zh.wikipedia.org/wiki/File:諾魯共和國新任大使簡慈珠搭禮車抵府於正大門下車.jpg "fig:諾魯共和國新任大使簡慈珠搭禮車抵府於正大門下車.jpg") [01.23_總統出席「國防部106年新春餐會」前,接受軍禮致敬_(32324301202).jpg](https://zh.wikipedia.org/wiki/File:01.23_總統出席「國防部106年新春餐會」前,接受軍禮致敬_\(32324301202\).jpg "fig:01.23_總統出席「國防部106年新春餐會」前,接受軍禮致敬_(32324301202).jpg") [The_flag_is_lowered_at_the_National_Taiwan_Democracy_Memorial_Hall.JPG](https://zh.wikipedia.org/wiki/File:The_flag_is_lowered_at_the_National_Taiwan_Democracy_Memorial_Hall.JPG "fig:The_flag_is_lowered_at_the_National_Taiwan_Democracy_Memorial_Hall.JPG")前進行降旗禮\]\] [03.31_李前副總統元簇先生之褒揚令_(33363600430).jpg](https://zh.wikipedia.org/wiki/File:03.31_李前副總統元簇先生之褒揚令_\(33363600430\).jpg "fig:03.31_李前副總統元簇先生之褒揚令_(33363600430).jpg") [ROCMC_Silent_Drill_Platoon_with_Reverse_Members_Peformance_at_Zuoying_Naval_Base_Ground_20151024a.jpg](https://zh.wikipedia.org/wiki/File:ROCMC_Silent_Drill_Platoon_with_Reverse_Members_Peformance_at_Zuoying_Naval_Base_Ground_20151024a.jpg "fig:ROCMC_Silent_Drill_Platoon_with_Reverse_Members_Peformance_at_Zuoying_Naval_Base_Ground_20151024a.jpg") 儀隊的任務是擔任各項國家與軍方典禮的禮儀勤務，迎送國賓或友邦來使，彰顯國家和軍方禮儀；同時亦向民眾展現三軍訓練精實、軍容壯盛，以達顯揚國威、激勵士氣的效果。\[5\]
+[中華民國第十四任總統、副總統就職慶祝典禮_(27056649641).jpg](https://zh.wikipedia.org/wiki/File:中華民國第十四任總統、副總統就職慶祝典禮_\(27056649641\).jpg "fig:中華民國第十四任總統、副總統就職慶祝典禮_(27056649641).jpg")進行操演\]\] [Ma_Ying-jeou_and_Christopher_Loeak.jpg](https://zh.wikipedia.org/wiki/File:Ma_Ying-jeou_and_Christopher_Loeak.jpg "fig:Ma_Ying-jeou_and_Christopher_Loeak.jpg") [諾魯共和國新任大使簡慈珠搭禮車抵府於正大門下車.jpg](https://zh.wikipedia.org/wiki/File:諾魯共和國新任大使簡慈珠搭禮車抵府於正大門下車.jpg "fig:諾魯共和國新任大使簡慈珠搭禮車抵府於正大門下車.jpg") [01.23_總統出席「國防部106年新春餐會」前,接受軍禮致敬_(32324301202).jpg](https://zh.wikipedia.org/wiki/File:01.23_總統出席「國防部106年新春餐會」前,接受軍禮致敬_\(32324301202\).jpg "fig:01.23_總統出席「國防部106年新春餐會」前,接受軍禮致敬_(32324301202).jpg") [The_flag_is_lowered_at_the_National_Taiwan_Democracy_Memorial_Hall.JPG](https://zh.wikipedia.org/wiki/File:The_flag_is_lowered_at_the_National_Taiwan_Democracy_Memorial_Hall.JPG "fig:The_flag_is_lowered_at_the_National_Taiwan_Democracy_Memorial_Hall.JPG")前進行升降旗禮\]\] [03.31_李前副總統元簇先生之褒揚令_(33363600430).jpg](https://zh.wikipedia.org/wiki/File:03.31_李前副總統元簇先生之褒揚令_\(33363600430\).jpg "fig:03.31_李前副總統元簇先生之褒揚令_(33363600430).jpg") [ROCMC_Silent_Drill_Platoon_with_Reverse_Members_Peformance_at_Zuoying_Naval_Base_Ground_20151024a.jpg](https://zh.wikipedia.org/wiki/File:ROCMC_Silent_Drill_Platoon_with_Reverse_Members_Peformance_at_Zuoying_Naval_Base_Ground_20151024a.jpg "fig:ROCMC_Silent_Drill_Platoon_with_Reverse_Members_Peformance_at_Zuoying_Naval_Base_Ground_20151024a.jpg") 儀隊的任務是擔任各項國家與軍方典禮的禮儀勤務，迎送國賓或友邦來使，彰顯國家和軍方禮儀；同時亦向民眾展現三軍訓練精實、軍容壯盛，以達顯揚國威、激勵士氣的效果。\[5\]
 
 禮儀勤務為軍禮特殊任務，視其任務所需而設任務編組，所需人員由相關規格而安排，或設三軍聯合儀隊一[連](https://zh.wikipedia.org/wiki/連 "wikilink")，或設單軍種儀隊一[排](https://zh.wikipedia.org/wiki/排 "wikilink")。
 
@@ -52,7 +82,7 @@
 <!-- end list -->
 
   - 操槍表演
-    [總統府元旦升旗典禮](../Page/中華民國總統府.md "wikilink")、國慶典禮等重大慶典時，國防部示範樂隊聯合三軍儀隊，進行操槍表演。國防部與軍方舉辦活動、或是支持的民間重要活動，各軍儀隊也會到場配合表演。
+    [總統府元旦升旗典禮](../Page/中華民國總統府.md "wikilink")、[國慶典禮等重大慶典時](../Page/國慶日_\(中華民國\).md "wikilink")，國防部示範樂隊聯合三軍儀隊，進行操槍表演。國防部與軍方舉辦活動、或是支持的民間重要活動，各軍儀隊也會到場配合表演。
 
 <!-- end list -->
 
@@ -67,7 +97,7 @@
 <!-- end list -->
 
   - 喪禮勤務
-    國軍將領、士官兵之喪禮時，儀隊擔任禮兵致以敬禮。靈堂之內協助弔奠者獻花圈、上香、追勳與褒揚令；協助覆旗委員為靈柩覆蓋國旗。另外也有祭禮勤務，內容跟喪禮勤務類似，但在喪禮中的禮槍是別上黑色槍穗，祭禮中則是別上原來顏色的槍穗。
+    國軍將領、士官兵之[喪禮時](https://zh.wikipedia.org/wiki/喪禮 "wikilink")，儀隊擔任禮兵致以敬禮。靈堂之內協助弔奠者獻花圈、上香、追勳與[褒揚令](../Page/褒揚令.md "wikilink")；協助覆旗委員為靈柩覆蓋國旗。另外也有[祭禮勤務](https://zh.wikipedia.org/wiki/祭禮 "wikilink")，內容跟喪禮勤務類似，但在喪禮中的禮槍是別上黑色槍穗，祭禮中則是別上原來顏色的槍穗。
 
 <!-- end list -->
 
@@ -81,7 +111,7 @@
 
 ## 駐防地點
 
-[ROCN_Honor_Guard_changing_of_the_guard,_National_Revolutionary_Martyr's_Shrine_20051220.jpg](https://zh.wikipedia.org/wiki/File:ROCN_Honor_Guard_changing_of_the_guard,_National_Revolutionary_Martyr's_Shrine_20051220.jpg "fig:ROCN_Honor_Guard_changing_of_the_guard,_National_Revolutionary_Martyr's_Shrine_20051220.jpg")前\]\] 三軍儀隊駐防於[慈湖陵寢](../Page/慈湖陵寢.md "wikilink")、[大溪陵寢](../Page/大溪陵寢.md "wikilink")、[中正紀念堂](../Page/中正紀念堂.md "wikilink")、[國父紀念館及](https://zh.wikipedia.org/wiki/國父紀念館 "wikilink")[國民革命忠烈祠](../Page/國民革命忠烈祠.md "wikilink")執行禮儀勤務，慈湖與大溪陵寢為一支儀隊、中正與國父紀念館為一支儀隊、忠烈祠為一支儀隊，每六個月輪替一次。儀隊每日整點進行[交接儀式](../Page/衛兵交接.md "wikilink")，交接時進行操槍表演，已成為熱門的觀光景點。除此之外，儀隊也負責進行駐守地點的升降旗典禮。
+[ROCN_Honor_Guard_changing_of_the_guard,_National_Revolutionary_Martyr's_Shrine_20051220.jpg](https://zh.wikipedia.org/wiki/File:ROCN_Honor_Guard_changing_of_the_guard,_National_Revolutionary_Martyr's_Shrine_20051220.jpg "fig:ROCN_Honor_Guard_changing_of_the_guard,_National_Revolutionary_Martyr's_Shrine_20051220.jpg")前\]\] 三軍儀隊駐防於[慈湖陵寢](../Page/慈湖陵寢.md "wikilink")、[大溪陵寢](../Page/大溪陵寢.md "wikilink")、[中正紀念堂](../Page/中正紀念堂.md "wikilink")、[國父紀念館及](https://zh.wikipedia.org/wiki/國父紀念館 "wikilink")[國民革命忠烈祠](../Page/國民革命忠烈祠.md "wikilink")執行禮儀勤務，慈湖與大溪陵寢為一組、中正與國父紀念館為一組、忠烈祠為一組，每六個月輪替一次。儀隊每日整點進行[交接儀式](../Page/衛兵交接.md "wikilink")，交接時進行操槍表演，已成為熱門的觀光景點。除此之外，儀隊也負責進行駐守地點的升降旗典禮。
 
 儀隊站崗時，周圍同時亦有[憲兵和便衣人員執行警衛任務](https://zh.wikipedia.org/wiki/憲兵 "wikilink")，但是憲兵屬於特種勤務人員，與儀隊所執行的禮儀勤務，性質並不完全相同。
 
@@ -185,59 +215,91 @@
 </tbody>
 </table>
 
-## 服制
+## 服裝和佩章
 
-三軍儀隊所穿著的服制與階級是依據《陸海空軍服制條例》第八條「擔任特殊任務或因國際禮儀所需服裝，其服式由國防部或其所屬機關（構）定之。」\[24\]
+[The_Honor_Guard_of_ROC_badge_20131015.jpg](https://zh.wikipedia.org/wiki/File:The_Honor_Guard_of_ROC_badge_20131015.jpg "fig:The_Honor_Guard_of_ROC_badge_20131015.jpg") 三軍儀隊所穿著的服制與階級是依據《陸海空軍服制條例》第八條「擔任特殊任務或因國際禮儀所需服裝，其服式由國防部或其所屬機關（構）定之。」\[24\]
 
-現行陸軍儀隊的制服為[綠色](../Page/綠色.md "wikilink")禮服、白色飾緒，空軍儀隊為[藍色](../Page/藍色.md "wikilink")禮服、白色飾緒，海軍儀隊依季節穿著[白色](../Page/白色.md "wikilink")或[黑色](../Page/黑色.md "wikilink")禮服、黃色飾緒。除了海軍的夏季白色禮服以外，其餘款式制服都是內著襯衫、打領帶的禮服。除此之外，海軍有不同於陸空軍的航海文化，是為國際交流的海洋軍種，[敦睦艦隊時亦有另外一套海軍制服](https://zh.wikipedia.org/wiki/敦睦艦隊 "wikilink")。
+現行陸軍儀隊的制服為[綠色](../Page/綠色.md "wikilink")禮服、白色飾緒，空軍儀隊為[藍色](../Page/藍色.md "wikilink")禮服、白色飾緒，海軍儀隊依季節穿著[白色](../Page/白色.md "wikilink")或[黑色](../Page/黑色.md "wikilink")禮服、黃色飾緒。除了海軍的夏季白色禮服以外，其餘款式制服都是內著襯衫、打領帶的禮服。除此之外，海軍有不同於陸空軍的航海文化，是為國際交流的海洋軍種，[敦睦艦隊時亦有另外一套海軍制服](https://zh.wikipedia.org/wiki/敦睦艦隊 "wikilink")。\[25\]
 
-制服領口別上兵科章，陸軍儀隊為步兵科章、空軍儀隊為空軍領章、海軍儀隊無挂章；右臂章為三軍儀隊徽章、左臂章則是各儀隊徽章；大隊長的階級為[上校](../Page/上校.md "wikilink")、隊長為[榮譽少校](../Page/少校.md "wikilink")、旗官為[榮譽上尉或](../Page/上尉.md "wikilink")[中尉](../Page/中尉.md "wikilink")、士兵為[榮譽上士](../Page/上士.md "wikilink")，但都是勤務時所挂的榮譽軍階；胸襟挂著名牌和[榮譽勳表](../Page/中華民國勳章獎章列表.md "wikilink")；鋼盔和腰帶扣上戴著各軍徽章；禮槍上別著各色槍穗。
+制服領口別上兵科章，陸軍儀隊為步兵科章、空軍儀隊為空軍領章、海軍儀隊無挂章；右臂章為三軍儀隊徽章、左臂章則是各儀隊徽章；大隊長的階級為[上校](../Page/上校.md "wikilink")、隊長為[榮譽少校](../Page/少校.md "wikilink")、旗官為[榮譽上尉或](../Page/上尉.md "wikilink")[中尉](../Page/中尉.md "wikilink")、士兵為[榮譽上士](../Page/上士.md "wikilink")；胸襟挂著名牌和[榮譽勳表](../Page/中華民國勳章獎章列表.md "wikilink")；鋼盔和腰帶扣上戴著各軍徽章；禮槍上別著各色槍穗。
 
 軍官持著[指揮刀](../Page/佩劍_\(西方\).md "wikilink")、旗官持著[國旗與](https://zh.wikipedia.org/wiki/國旗 "wikilink")[軍旗](https://zh.wikipedia.org/wiki/軍旗 "wikilink")、士兵持著，駐防地點的禮兵長配有[短槍](https://zh.wikipedia.org/wiki/短槍 "wikilink")、禮兵配有[長槍](https://zh.wikipedia.org/wiki/M1加蘭德步槍 "wikilink")，其餘配件包括白手套、白腰帶、刺刀鞘、長靴、綁腿等，三軍儀隊大致相同。
 
-### 1981年以前
+### 服制
 
-| 服裝     | 陸軍 | 海軍 | 空軍 | 陸戰 |
-| ------ | -- | -- | -- | -- |
-| 頭盔     |    |    |    |    |
-| 上衣下裝   |    |    |    |    |
-| 飾緒（肩穗） |    |    |    |    |
-| 腰帶     |    |    |    |    |
-| 靴子     |    |    |    |    |
+三軍儀隊創立初期，制服樣式尚未定型，曾出現過不同制式禮服的過渡期。[羅本立](../Page/羅本立.md "wikilink")[上將擔任](https://zh.wikipedia.org/wiki/上將 "wikilink")[國防部參謀總長期間](../Page/國防部參謀本部.md "wikilink")，出於美觀要求而下令三軍儀隊統一制式制服，並掛榮譽軍階。\[26\] 海軍儀隊除了國家典禮的制式禮服外，按照海軍傳統在國際禮儀所需的場合，軍官與水兵也有不同制式的禮服。
 
-### 1981年至1997年
+陸空軍的常禮服制式相同，都沒有季節的區別，一律為西裝禮服，陸軍為綠色禮服、空軍為深藍色禮服。海軍傳統的常禮服制式自成一格，不僅有季節的區別，軍官與水兵的禮服也互不相同；但是海軍儀隊在執行國家及國防部勤務時，軍官兵一律穿著相同的禮服，夏季為白色立領禮服、夏季為黑色雙排扣禮服。
 
-| 服裝     | 陸軍 | 海軍 | 空軍 | 陸戰 |
-| ------ | -- | -- | -- | -- |
-| 頭盔     |    |    |    |    |
-| 上衣下裝   |    |    |    |    |
-| 飾緒（肩穗） |    |    |    |    |
-| 腰帶     |    |    |    |    |
-| 靴子     |    |    |    |    |
-
-### 1997年至2010年
-
-| 服裝     | 陸軍 | 海軍 | 空軍 | 陸戰 |
-| ------ | -- | -- | -- | -- |
-| 頭盔     |    |    |    |    |
-| 上衣下裝   |    |    |    |    |
-| 飾緒（肩穗） |    |    |    |    |
-| 腰帶     |    |    |    |    |
-| 靴子     |    |    |    |    |
-| 敦睦艦隊   |    |    |    |    |
-
-### 2010年至今
-
-| 服裝     | 陸軍 | 海軍 | 空軍 | 陸戰 |
-| ------ | -- | -- | -- | -- |
-| 頭盔     |    |    |    |    |
-| 上衣下裝   |    |    |    |    |
-| 飾緒（肩穗） |    |    |    |    |
-| 腰帶     |    |    |    |    |
-| 靴子     |    |    |    |    |
-| 敦睦艦隊   |    |    |    |    |
+<table style="width:98%;">
+<colgroup>
+<col style="width: 38%" />
+<col style="width: 38%" />
+<col style="width: 21%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>服制</p></th>
+<th><p>三軍儀隊［北區勤務］</p></th>
+<th><p>陸戰儀隊［南區勤務］</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>陸軍儀隊</p></td>
+<td><p>海軍儀隊</p></td>
+<td><p>空軍儀隊</p></td>
+</tr>
+<tr class="even">
+<td><p>頭盔</p></td>
+<td><p>抛光鋼盔</p></td>
+<td><p>國家典禮：軍官兵一律白色鋼盔<br />
+海軍典禮：按照海軍傳統，指揮官白色大蓋帽、旗官及水兵白色鋼盔</p></td>
+</tr>
+<tr class="odd">
+<td><p>上衣</p></td>
+<td><p>綠色禮服、淺綠色襯衫、綠色領帶</p></td>
+<td><p>夏季：〔國家典禮〕軍官兵一律白色立領禮服；〔海軍典禮〕按照海軍傳統，軍官兵不同制式<br />
+冬季〔國家典禮〕：軍官兵一律黑色雙排扣禮服、白色襯衫、黑色領帶；〔海軍典禮〕按照海軍傳統，軍官兵不同制式</p></td>
+</tr>
+<tr class="even">
+<td><p>下裝</p></td>
+<td><p>下裝與上衣同色，裝飾黃線</p></td>
+<td><p>國家典禮：下裝與上衣同色，軍官兵褲子一律裝飾黃線<br />
+海軍典禮：按照海軍傳統，褲子純色無裝飾線</p></td>
+</tr>
+<tr class="odd">
+<td><p>飾緒（肩穗）</p></td>
+<td><p>軍官：金色、銅錘肩穗<br />
+士兵：白色肩穗</p></td>
+<td><p>軍官：金色、銅錘肩穗<br />
+水兵：黃色肩穗</p></td>
+</tr>
+<tr class="even">
+<td><p>腰帶</p></td>
+<td><p>軍官：綠色腰帶、兩或三道黃線<br />
+士兵：白色腰帶</p></td>
+<td><p>國家典禮：〔軍官〕黑色腰帶、兩或三道黃線；〔水兵〕白色腰帶<br />
+海軍典禮：按照海軍傳統，指揮官無腰帶、旗官及水兵白色腰帶</p></td>
+</tr>
+<tr class="odd">
+<td><p>靴子</p></td>
+<td><p>黑色軍靴、白色鞋帶</p></td>
+<td><p>國家典禮：軍官兵一律黑色軍靴、白色鞋帶<br />
+海軍典禮：按照海軍傳統，指揮官白色皮靴、旗官白色綁腳及白色皮靴、水兵白色綁腳及黑色皮靴</p></td>
+</tr>
+<tr class="even">
+<td><p>敦睦艦隊</p></td>
+<td><p>—</p></td>
+<td><p>海軍軍官常禮服：〔夏季〕白色立領禮服；〔冬季〕黑色雙排扣禮服、白色襯衫、黑色領帶<br />
+水兵常禮服：〔夏季〕白色水手常服、藍色披肩、黑色領巾；〔冬季〕黑色水手常服、藍色披肩、黑色領巾</p></td>
+</tr>
+</tbody>
+</table>
 
 ### 識別標誌
+
+[ROC_Honor_Guard_badge_2009.jpg](https://zh.wikipedia.org/wiki/File:ROC_Honor_Guard_badge_2009.jpg "fig:ROC_Honor_Guard_badge_2009.jpg")
 
 <table style="width:98%;">
 <colgroup>
@@ -254,9 +316,9 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>陸軍</p></td>
-<td><p>海軍</p></td>
-<td><p>空軍</p></td>
+<td><p>陸軍儀隊</p></td>
+<td><p>海軍儀隊</p></td>
+<td><p>空軍儀隊</p></td>
 </tr>
 <tr class="even">
 <td><p>軍徽</p></td>
@@ -282,7 +344,7 @@
 <td><p>無：海軍傳統上不會在領口別徽飾，但其所屬兵科為槍帆兵，出勤務時為航海兵科</p></td>
 </tr>
 <tr class="odd">
-<td><p>軍階（肩章）</p></td>
+<td><p>軍階（肩章、海軍袖章）</p></td>
 <td><p>儀隊在執行禮儀勤務時，出於美觀要求而統一佩戴同樣的軍階，是為「低階高掛」的榮譽軍階，但回到原來營區不執行禮儀勤務時，按照服制規定掛上原來的軍階。憲兵和禮炮兵在執行禮儀勤務任務編組時，也是有相同的作法。</p>
 <ol>
 <li>大隊長：上校。</li>
@@ -291,7 +353,7 @@
 <li>排長：不執行勤務時，少尉至上尉不等；執行勤務時，榮譽上尉。</li>
 <li>禮兵及禮兵長：不執行勤務時，二兵至上士不等；執行勤務時，榮譽上士。</li>
 </ol></td>
-<td><p>如同左列［？］</p></td>
+<td><p>？</p></td>
 </tr>
 <tr class="even">
 <td><p>左臂章</p></td>
@@ -305,7 +367,7 @@
 </tr>
 <tr class="even">
 <td><p>左胸襟章</p></td>
-<td><p>原本佩戴的是紅底金字的儀隊隊牌，用中文表示「陸軍儀隊」、「海軍儀隊」或「空軍儀隊」；2019年4月1日起改為佩戴「榮譽勳表」。禮兵回到營區不執行禮儀勤務時，則按照服制規定穿著制式軍服。[25]</p>
+<td><p>禮兵原本佩戴的是紅底金字的儀隊隊牌，用中文表示「陸軍儀隊」、「海軍儀隊」或「空軍儀隊」；2019年4月1日起改為佩戴「榮譽勳表」。禮兵回到營區不執行禮儀勤務時，則按照服制規定穿著制式軍服。[27]</p>
 <ul>
 <li>陸軍儀隊：寶星獎章、景風獎章、弼亮獎章</li>
 <li>海軍儀隊：海風獎章、海績獎章、海勳獎章</li>
@@ -319,11 +381,16 @@
 <td><p>海軍儀隊胸章、青底金字名牌</p></td>
 </tr>
 <tr class="even">
-<td><p>飾緒（肩穗）</p></td>
-<td><p>白色，三條</p></td>
-<td><p>黃色，三條</p></td>
+<td><p>腰帶</p></td>
+<td><p>軍官：綠色腰帶、兩或三道黃線；士兵：白色腰帶</p></td>
+<td><p>軍官：黑色腰帶、兩或三道黃線；士兵：白色腰帶</p></td>
 </tr>
 <tr class="odd">
+<td><p>飾緒（肩穗）</p></td>
+<td><p>軍官金色、士兵白色，三條（駐防禮兵長加一條）</p></td>
+<td><p>軍官金色、士兵黃色，三條（駐防禮兵長加一條）</p></td>
+</tr>
+<tr class="even">
 <td><p>槍穗</p></td>
 <td><p>白色，弔奠禮為黑色</p></td>
 <td><p>黃色，弔奠禮為黑色</p></td>
@@ -333,11 +400,35 @@
 
 ## 遴選標準
 
+依據[中華民國志願役的遴選辦法](../Page/中華民國募兵制.md "wikilink")，儀隊禮兵的體格基準須要符合以下條件：\[28\]
+
+  - 身高；
+  - [體格指標值](../Page/身高體重指數.md "wikilink")（BMI）：17～31；
+  - 扁平足足弓角不得大於168度；
+  - 血色素不得低於12 gm/dL；
+  - 空腹血糖檢查不得高於126mg/dL；
+  - 紋身刺青、疤痕面積長寬未逾，且著短袖（褲）時不得顯露。
+
+思想品德：
+
+  - 思想純正無安全顧慮者；
+  - 未參加幫派或非法組織者；
+  - 平時生活正常，無不良嗜好者；
+  - 入伍前無違紀違法前科紀錄。
+
+其他條件：
+
+  - 具有[中華民國國籍](https://zh.wikipedia.org/wiki/中華民國國籍 "wikilink")，且無外國國籍；
+  - 中國大陸、香港、澳門地區來臺設籍者，須滿20年以上；
+  - 未判處徒刑、拘役或受感訓處分、強制戒治、觀察勒戒、保安處分及保護處分之宣告者；但符合少年事件處理法第83條之1第1項規定者，不在此限。
+
 ## 其他
+
+[ROCA_Band_in_Taipin_Camp_Ground_20120324a.JPG](https://zh.wikipedia.org/wiki/File:ROCA_Band_in_Taipin_Camp_Ground_20120324a.JPG "fig:ROCA_Band_in_Taipin_Camp_Ground_20120324a.JPG") [03.07_「諾魯共和國總統瓦卡（Baron_Divavesi_Waqa）伉儷訪華軍禮歡儀式」上，三軍儀隊鳴放21響禮炮歡迎儀式並演奏兩國國歌_(33169508371).jpg](https://zh.wikipedia.org/wiki/File:03.07_「諾魯共和國總統瓦卡（Baron_Divavesi_Waqa）伉儷訪華軍禮歡儀式」上，三軍儀隊鳴放21響禮炮歡迎儀式並演奏兩國國歌_\(33169508371\).jpg "fig:03.07_「諾魯共和國總統瓦卡（Baron_Divavesi_Waqa）伉儷訪華軍禮歡儀式」上，三軍儀隊鳴放21響禮炮歡迎儀式並演奏兩國國歌_(33169508371).jpg")
 
 ### 軍樂隊
 
-三軍儀隊於[元旦](../Page/元旦.md "wikilink")升旗典禮、[國慶大典](https://zh.wikipedia.org/wiki/中華民國國慶 "wikilink")、[春秋祭典等典禮進場時](../Page/忠烈祠_\(臺灣\).md "wikilink")，國旗及樂隊必率先前行入場。現今國防部與國軍有四支，分別為國防部示範樂隊、陸軍樂隊、海軍樂隊及空軍樂隊，每支樂隊須要輪值[總統府升降旗典禮](../Page/中華民國總統府.md "wikilink")，每次為期三個月。\[26\]
+三軍儀隊於[元旦](../Page/元旦.md "wikilink")升旗典禮、[國慶大典](https://zh.wikipedia.org/wiki/中華民國國慶 "wikilink")、[春秋祭典等典禮進場時](../Page/忠烈祠_\(臺灣\).md "wikilink")，國旗及樂隊必率先前行入場。現今國防部與國軍有四支，分別為國防部示範樂隊、陸軍樂隊、海軍樂隊及空軍樂隊，每支樂隊須要輪值[總統府升降旗典禮](../Page/中華民國總統府.md "wikilink")，每次為期三個月。\[29\]
 
 ### 禮炮
 
@@ -347,7 +438,7 @@
 
 總統府鐵衛隊（憲兵第211、332營）擔任[總統府前站崗及升降旗典禮](../Page/中華民國總統府.md "wikilink")；憲兵快速反應連（前憲兵機車連，隸屬憲兵202指揮部）有前導的任務，亦有在國家慶典中表演機車特技。但是，憲兵所屬的特種勤務，與三軍儀隊所屬的禮儀勤務，兩者性質並不相同。
 
-憲兵是負責[維護安全的特種勤務人員](https://zh.wikipedia.org/wiki/治安 "wikilink")，同時也負責在國家慶典中擔任標兵等任務，因特種勤務任務需要得設[侍衛](../Page/哨兵_\(兵種\).md "wikilink")、[便衣](https://zh.wikipedia.org/wiki/偵探 "wikilink")、[武裝](https://zh.wikipedia.org/wiki/武裝 "wikilink")、[警察](../Page/警察.md "wikilink")等編組。\[27\]
+憲兵是負責[維護安全的特種勤務人員](https://zh.wikipedia.org/wiki/治安 "wikilink")，同時也負責在國家慶典中擔任標兵等任務，因特種勤務任務需要得設[侍衛](../Page/哨兵_\(兵種\).md "wikilink")、[便衣](https://zh.wikipedia.org/wiki/偵探 "wikilink")、[武裝](https://zh.wikipedia.org/wiki/武裝 "wikilink")、[警察](../Page/警察.md "wikilink")等編組。\[30\]
 
   - 三軍儀隊與憲兵的差異
 
@@ -400,7 +491,7 @@
 
 ### 其他軍事單位
 
-其他軍事單位也會因需要而設禮儀勤務任務編組，挑選適合的士兵擔任禮兵負責禮儀勤務。
+[彰化縣各界春祭國殤大典暨因公殞命官兵追悼大會祭典_(11_1020329_DSC_8140).jpg](https://zh.wikipedia.org/wiki/File:彰化縣各界春祭國殤大典暨因公殞命官兵追悼大會祭典_\(11_1020329_DSC_8140\).jpg "fig:彰化縣各界春祭國殤大典暨因公殞命官兵追悼大會祭典_(11_1020329_DSC_8140).jpg") 其他軍事單位以及三軍校院，也會因需要而設禮儀勤務任務編組，挑選適合的士兵擔任禮兵負責禮儀勤務。
 
 ## 另見
 
@@ -456,5 +547,10 @@
 25.
 
 26.
+27.
 
-27. 《特種勤務條例》（民國106年01月18日）
+28.
+
+29.
+
+30. 《特種勤務條例》（民國106年01月18日）

@@ -1,14 +1,9 @@
-[5ecufilmfestival2019.jpg](https://zh.wikipedia.org/wiki/File:5ecufilmfestival2019.jpg "fig:5ecufilmfestival2019.jpg") [2019_edition.jpg](https://zh.wikipedia.org/wiki/File:2019_edition.jpg "fig:2019_edition.jpg") [6ecufilmfestival2019.jpg](https://zh.wikipedia.org/wiki/File:6ecufilmfestival2019.jpg "fig:6ecufilmfestival2019.jpg") [1ecufilmfestival2019.jpg](https://zh.wikipedia.org/wiki/File:1ecufilmfestival2019.jpg "fig:1ecufilmfestival2019.jpg")
-
 **ÉCU电影节**（英语：The European Independent Film Festival）是专注于**独立电影**的年度国际电影节。它由**Scott Hillier**2006年在法国巴黎创办。该电影节致力于发掘并推广来自欧洲及其他地区的独立电影人才，展示在形式和内容上都高质量、创新并富有创造力的电影。共分14个类别，其中7个类别对非欧洲电影人（美来自国，澳大利亚，非洲及亚洲）开放，竞逐25个奖项。评审团成员来自世界各地，背景迥异。ÉCU的创始人兼主席，**Scott Hillier**，是一位驻巴黎的澳大利亚电影人。他在电影摄影、剪辑、制作和执导方面获得国际认可，曾在2003年获奥斯卡最佳纪录片的《双子塔》中担当摄影指导。
 
 [第15届ÉCU电影节](https://www.ecufilmfestival.com/)将在2020年4月24—26日于法国巴黎举办。
 
-除了电影放映，参与者还有机会参加一系列工作坊，“会见导演”交流会，观众可直接向电影人发问。在电影节的夜间派对上还将有现场音乐表演，由ÉCU的合作伙伴Access Film-Music举办。
-
-## 工作坊
-
-电影节期间，所有参与者都可以参加由电影行业的专业人士举办的工作坊。这些工作坊让公众有机会参与电影制作，并让爱好者有机会精进其技术。
+除了电影放映，参与者还有机会参加一系列工作坊，“会见导演”交流会，观众可直接向电影人发问。在电影节的夜间派对上还将有现场音乐表演，由ÉCU的合作伙伴Access Film-Music举办。 [缩略图](https://zh.wikipedia.org/wiki/File:ÉCU_2019_poster.jpg "fig:缩略图") [缩略图](https://zh.wikipedia.org/wiki/File:ÉCU_2019_moment.jpg "fig:缩略图") [缩略图](https://zh.wikipedia.org/wiki/File:ÉCU_prize_2019.jpg "fig:缩略图")
+\== 工作坊 == 电影节期间，所有参与者都可以参加由电影行业的专业人士举办的工作坊。这些工作坊让公众有机会参与电影制作，并让爱好者有机会精进其技术。
 
 ## 音乐
 
@@ -50,7 +45,7 @@
 
 ## 历届回顾
 
-### ÉCU 2018
+### ÉCU 2019 获奖作品一览
 
 | 类别                         | 获奖                                                                                                                                                          |
 | -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |

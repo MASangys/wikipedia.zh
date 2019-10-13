@@ -10,6 +10,10 @@
 
 **2019年8月8日**，**三星Galaxy Note10、Note10+、Note10 5G、Note10+ 5G**在「Galaxy UNPACKED 2019」發佈會和[三星Galaxy Book S一同發佈](https://zh.wikipedia.org/wiki/三星Galaxy_Book_S "wikilink")。
 
+## 產品圖片
+
+<File:Samsung> Galaxy Note 10 (S Pen).jpg|[S Pen](https://zh.wikipedia.org/wiki/S_Pen "wikilink") stylus <File:Samsung> Galaxy Note 10 (Power Share).jpg|[Wireless PowerShare](https://zh.wikipedia.org/wiki/Wireless_PowerShare "wikilink") <File:Samsung> Galaxy Note 10 (Infinity-O).jpg|Infinity-O Display <File:Samsung> Galaxy Note 10 (Android 10).jpg|[Android](../Page/Android.md "wikilink") [OS](https://zh.wikipedia.org/wiki/操作系統 "wikilink") <File:Samsung> Galaxy Note 10 (5G).jpg|[5G](../Page/5G.md "wikilink") Connection
+
 ## 參見
 
   - [三星Galaxy Note9](https://zh.wikipedia.org/wiki/三星Galaxy_Note9 "wikilink")

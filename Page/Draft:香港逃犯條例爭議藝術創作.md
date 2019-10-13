@@ -39,7 +39,7 @@
   - 《[唱哈利路亞](../Page/唱哈利路亞.md "wikilink")》
   - 《[問誰未發聲](../Page/問誰未發聲.md "wikilink")》
   - 《[Do You Hear the People Sing?](../Page/Do_You_Hear_the_People_Sing?.md "wikilink")》
-  - 《[願榮光歸香港](https://zh.wikipedia.org/wiki/願榮光歸香港 "wikilink")》
+  - 《[願榮光歸香港](../Page/願榮光歸香港.md "wikilink")》
   - 《[逃犯](https://zh.wikipedia.org/wiki/逃犯 "wikilink")》
   - 《[自由路](https://www.youtube.com/watch?v=xabkYwhoLZY)》
   - 《[獅子山下的少年](https://www.youtube.com/watch?v=yzeMcZXDq-4)》
@@ -67,12 +67,12 @@
   - [手勢](../Page/反對逃犯條例修訂草案運動的手勢.md "wikilink")
   - [黑洋紫荊旗](../Page/黑洋紫荊旗.md "wikilink")
   - [佩佩蛙](../Page/佩佩蛙.md "wikilink")
-  - [香港民主女神像](https://zh.wikipedia.org/wiki/香港民主女神像 "wikilink")\[1\]
+  - [香港民主女神像](../Page/香港民主女神像.md "wikilink")\[1\]
   - 《[致年青人：你們沒上街的父母根本沒有愛過你](../Page/致年青人：你們沒上街的父母根本沒有愛過你.md "wikilink")》
   - 《[HKG報訪問自稱英華女學校學生影片](../Page/HKG報訪問自稱英華女學校學生影片.md "wikilink")》
 
 ## 参考文献
 
-[Category:香港逃犯條例](https://zh.wikipedia.org/wiki/Category:香港逃犯條例 "wikilink") [Category:香港反對逃犯條例修訂草案運動](https://zh.wikipedia.org/wiki/Category:香港反對逃犯條例修訂草案運動 "wikilink")
+[Category:香港逃犯條例](https://zh.wikipedia.org/wiki/Category:香港逃犯條例 "wikilink") [:Category:香港反對逃犯條例修訂草案運動](https://zh.wikipedia.org/wiki/Category:香港反對逃犯條例修訂草案運動 "wikilink")
 
 1.

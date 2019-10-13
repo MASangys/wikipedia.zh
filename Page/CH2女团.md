@@ -139,7 +139,7 @@
 
 **官方连结**
 
-  - [CH2女团](http://www.ch2.cn/)
+  - [CH2女团](https://web.archive.org/web/20180804062727/http://ch2.cn/)
 
   -
   - [CH2女团 - QQ音乐](https://y.qq.com/n/yqq/singer/0047860p3XUKvn.html)

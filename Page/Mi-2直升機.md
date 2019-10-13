@@ -2,7 +2,7 @@
 
 ## 簡介
 
-Mi-2直升機是把原本Mi-1直升機用的[活塞發動機改為兩部PZL](https://zh.wikipedia.org/wiki/活塞發動機 "wikilink")-GTD-350渦輪發動機去轉動一俱三葉螺旋槳，其機身設計也因此重新設計去迎合此兩部[渦輪發動機](https://zh.wikipedia.org/wiki/渦輪發動機 "wikilink")，由此而令其馬力大增而動力部份重量減輕，其飛行性能也因此大為進步。
+Mi-2直升機是把原本Mi-1直升機用的[活塞發動機改為兩部PZL](https://zh.wikipedia.org/wiki/活塞發動機 "wikilink")-GTD-350渦輪發動機去轉動一俱三葉螺旋槳，其機身設計也因此重新設計去迎合此兩部[渦輪發動機](https://zh.wikipedia.org/wiki/渦輪發動機 "wikilink")，由此而令其馬力大增而動力部份重量減輕，其飛行性能也因此大為進步，在其機身兩側也可各自加上副油箱以增加航程。
 
 Mi-2是輕型多用途直升機，可作噴灑[農藥](https://zh.wikipedia.org/wiki/農藥 "wikilink")、運輸貨物、救護，以至加掛[火箭彈或SA](https://zh.wikipedia.org/wiki/火箭彈 "wikilink")-7[反坦克飛彈](https://zh.wikipedia.org/wiki/反坦克飛彈 "wikilink")，作為[武裝直升機](https://zh.wikipedia.org/wiki/武裝直升機 "wikilink")。
 
@@ -96,7 +96,7 @@ Mi-2在蘇聯米爾設計局生產了原型機後就授權波蘭生產。
   - [UH-1直升機](../Page/UH-1直升機.md "wikilink")
   - [Mi-4直昇機](../Page/Mi-4直昇機.md "wikilink")
   - [Mi-1直升機](https://zh.wikipedia.org/wiki/Mi-1直升機 "wikilink")
-  - [R-4直升機](https://zh.wikipedia.org/wiki/R-4直升機 "wikilink")
+  - [R-4直升機](../Page/R-4直升機.md "wikilink")
 
 ## 參考資料
 

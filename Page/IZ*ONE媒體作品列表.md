@@ -110,7 +110,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2019年9月17日</p></td>
+<td><p>2019年9月17日-</p></td>
 <td><p>M2</p></td>
 <td><p>《IZ*ONE StyleVlog in LA》</p></td>
 <td></td>
@@ -360,6 +360,14 @@
 <td><p>JTBC</p></td>
 <td><p>《Idol Room》</p></td>
 <td><p>未放送影像特輯</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>9月27日,10月4日</p></td>
+<td><p>MBC</p></td>
+<td><p>《我的小电视V2》</p></td>
+<td><p>崔叡娜、姜惠元</p></td>
 <td></td>
 <td></td>
 </tr>

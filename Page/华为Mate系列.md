@@ -44,11 +44,13 @@
 
 ### 华为Mate X
 
-华为第一款带有[5G](../Page/5G.md "wikilink")网络并[可摺疊式智能手機](../Page/可摺疊式智能手機.md "wikilink")，于2019年2月24日在伦敦MWC2019发布，预计将于2019年中期发售。
+华为第一款带有[5G](../Page/5G.md "wikilink")网络并[可摺疊式智能手機](../Page/可摺疊式智能手機.md "wikilink")，于2019年2月24日在伦敦MWC2019发布，预计将于2019年10月份发售。
 
 ### 华为Mate 30
 
-华为Mate 20系列的换代产品，欧洲版本于2019年9月19日在[德国](../Page/德国.md "wikilink")[慕尼黑](../Page/慕尼黑.md "wikilink")发布。\[1\]Mate 30系列搭載[5G](../Page/5G.md "wikilink")。由於受到華為列入美國實體清單限制，Mate 30系列無法預裝[Google系列應用](../Page/Google流動服務.md "wikilink")\[2\]，但是華為允許Mate 30系列解鎖[BootLoader](../Page/啟動程式.md "wikilink")\[3\]。
+华为Mate 20系列的换代产品，欧洲版本于2019年9月19日在[德国](../Page/德国.md "wikilink")[慕尼黑](../Page/慕尼黑.md "wikilink")发布。国行版本于同年9月26日在[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[上海发布](https://zh.wikipedia.org/wiki/上海 "wikilink")\[1\]，Mate 30系列搭載[海思麒麟990芯片](https://zh.wikipedia.org/wiki/海思麒麟990芯片 "wikilink")，並支持[5G](../Page/5G.md "wikilink")網絡。
+
+由於受到華為列入美國實體清單限制，Mate 30系列無法預裝[Google系列應用](../Page/Google流動服務.md "wikilink")\[2\]，之后媒体宣称華為允許Mate 30系列解鎖[BootLoader](../Page/啟動程式.md "wikilink")，但随后華為方面否認了這一說法\[3\]。
 
 ## 参考资料
 

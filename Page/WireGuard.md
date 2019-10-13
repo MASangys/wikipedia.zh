@@ -16,7 +16,7 @@
   - [WireGuard iOS 客户端](https://apps.apple.com/app/wireguard/id1441195209)
   - [WireGuard macOS 客户端](https://apps.apple.com/app/wireguard/id1451685025)
 
-[Category:网络协议](https://zh.wikipedia.org/wiki/Category:网络协议 "wikilink") [Category:网络安全](https://zh.wikipedia.org/wiki/Category:网络安全 "wikilink") [Category:安全软件](https://zh.wikipedia.org/wiki/Category:安全软件 "wikilink") [Category:开放源代码](https://zh.wikipedia.org/wiki/Category:开放源代码 "wikilink")
+[Category:网络协议](https://zh.wikipedia.org/wiki/Category:网络协议 "wikilink") [Category:网络安全](https://zh.wikipedia.org/wiki/Category:网络安全 "wikilink") [Category:安全软件](https://zh.wikipedia.org/wiki/Category:安全软件 "wikilink") [Category:开放源代码](https://zh.wikipedia.org/wiki/Category:开放源代码 "wikilink") [Category:用Go編程的自由軟件](https://zh.wikipedia.org/wiki/Category:用Go編程的自由軟件 "wikilink")
 
 1.
 2.

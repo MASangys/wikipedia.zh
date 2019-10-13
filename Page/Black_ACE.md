@@ -456,7 +456,7 @@ VIC</p></td>
 
   - [陳順VIC 的新浪微博](https://www.weibo.com/u/2164875510)
 
-  - [龍泓昊LONG14 的新浪微博](https://www.weibo.com/JohnnDragon1995)
+  - [AIOLOSDRAGON 龙泓昊 的新浪微博](https://weibo.com/u/3869834805)
 
 [Category:中國男子演唱團體](https://zh.wikipedia.org/wiki/Category:中國男子演唱團體 "wikilink") [Category:2019年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2019年成立的音樂團體 "wikilink")
 

@@ -12,7 +12,7 @@
 
 ### 硬件
 
-第七代iPod touch采用[Apple A10处理器和M](../Page/Apple_A10_Fusion.md "wikilink")10运动协处理器，这与[iPhone 7和](https://zh.wikipedia.org/wiki/iPhone_7 "wikilink")[2018款iPad中使用的处理器相同](../Page/IPad_\(第六代\).md "wikilink")。第七代iPod touch具有与第六代设备相同的前后置摄像头系统。后置摄像头为800万像素，能够以1080p分辨率录制30帧每秒的视频，或以720p分辨率录制120帧每秒的慢动态视频。相机还支持不同的照片功能，如连拍照片、HDR照片和全景照片。前置摄像头是一款120万像素的FaceTime高清摄像头，能以720p分辨率每秒30帧录制视频，该摄像头还具有连拍照片和用于视频录制的自动HDR功能。该设备是第一款采用256 GB存储选项的iPod touch，比此前最高容量的iPod——160 GB的第六代[iPod Classic](../Page/IPod_classic.md "wikilink")，高出近100 GB。与上代iPod touch相同，第七代iPod touch保留了3.5毫米耳机接口，但同样也仍未配备Touch ID，且也未搭载任何出现在上代iPod touch发布之后的新型号iPhone上的新硬件及功能，如[3D Touch](../Page/3D_Touch.md "wikilink")、立体扬声器、无线充电、全面屏及[Face ID](../Page/面容_ID.md "wikilink")。
+第七代iPod touch采用[Apple A10处理器和M](../Page/Apple_A10_Fusion.md "wikilink")10运动协处理器，这与[iPhone 7和](https://zh.wikipedia.org/wiki/iPhone_7 "wikilink")[2018款iPad中使用的处理器相同](../Page/IPad_\(第六代\).md "wikilink")。第七代iPod touch具有与第六代设备相同的前后置摄像头系统。后置摄像头为800万像素，能够以1080p分辨率录制30帧每秒的视频，或以720p分辨率录制120帧每秒的慢动态视频。相机还支持不同的照片功能，如连拍照片、HDR照片和全景照片。前置摄像头是一款120万像素的FaceTime高清摄像头，能以720p分辨率每秒30帧录制视频，该摄像头还具有连拍照片和用于视频录制的自动HDR功能。该设备是第一款采用256 GB存储选项的iPod touch，比此前最高容量的iPod——160 GB的第六代[iPod Classic](../Page/IPod_classic.md "wikilink")，高出近100 GB。与上代iPod touch相同，第七代iPod touch保留了3.5毫米耳机接口，但同样也仍未配备Touch ID，且也未搭载任何出现在上代iPod touch发布之后的新型号iPhone上的新硬件及功能，如[3D Touch](../Page/3D_Touch.md "wikilink")（但此功能已於iPhone 11後取消）、立体扬声器、无线充电、全面屏及[Face ID](../Page/面容_ID.md "wikilink")。
 
 ### 配件
 

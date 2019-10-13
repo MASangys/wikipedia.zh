@@ -1,4 +1,4 @@
-**李梓**（），中国大型女子偶像团体[BEJ48成员](https://zh.wikipedia.org/wiki/BEJ48 "wikilink")，所属队伍为Team E。她于2016年1月18日加入[SNH48](../Page/SNH48.md "wikilink")六期生，并于同年4月20日移籍BEJ48 Team E\[1\]，及于该月30日的[BEJ48 Team E 1st Stage“不眠之夜”公演出道](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage“睡衣兜风”#BEJ48_Team_E_1st_Stage「不眠之夜」公演 "wikilink")\[2\]。
+**李梓**（），中国大型女子偶像团体[BEJ48成员](https://zh.wikipedia.org/wiki/BEJ48 "wikilink")，所属队伍为Team E。她于2016年1月18日加入[SNH48](../Page/SNH48.md "wikilink")六期生，并于同年4月20日移籍BEJ48 Team E\[1\]，及于该月30日的《[不眠之夜](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage“睡衣兜风”#BEJ48_Team_E_1st_Stage「不眠之夜」公演 "wikilink")》公演出道\[2\]。
 
 ## 经历
 
@@ -15,6 +15,7 @@
   - 个人特长为舞蹈、咏春拳及绘画。\[25\]
   - 兴趣爱好为绘画、Cosplay及宅舞。\[26\]
   - 其早期的微博内容时常以“晚上早”作问候。
+  - 在支持者眼中总是以成熟形象示人，但亦有因“说话不过脑子”而得罪他人的情形。\[27\]
 
 ## 音乐作品
 
@@ -183,3 +184,4 @@
 25.
 
 26.
+27.

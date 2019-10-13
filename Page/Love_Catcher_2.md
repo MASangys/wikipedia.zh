@@ -28,18 +28,98 @@
 
 ## 參與者
 
-| 姓名  | 韓文  | 性別 | 公開之個人資訊                                                                                                                                                                               | 扮演角色         |
-| --- | --- | -- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
-| 鄭瓉友 | 정찬우 | 男  | 原本是[釜山人](https://zh.wikipedia.org/wiki/釜山 "wikilink")，住在[清洲](https://zh.wikipedia.org/wiki/清洲 "wikilink")。27歲，裁縫師。                                                                    |              |
-| 金民錫 | 김민석 | 男  | 30歲，行銷公司代表。                                                                                                                                                                           | Love Catcher |
-| 金佳彬 | 김가빈 | 女  | 住在[京畿道](../Page/京畿道.md "wikilink")[南揚州](../Page/南楊州市.md "wikilink")[九里](https://zh.wikipedia.org/wiki/九里 "wikilink")。23歲，大學生。每天都一定要吃早餐。                                               |              |
-| 宋世羅 | 송세라 | 女  | 27歲，銀行職員。                                                                                                                                                                             |              |
-| 朴正真 | 박정진 | 男  | 29歲，[首爾特別市](https://zh.wikipedia.org/wiki/首爾特別市 "wikilink")[瑞草區](https://zh.wikipedia.org/wiki/瑞草區 "wikilink")[良才洞的私人公司職員](https://zh.wikipedia.org/wiki/良才洞 "wikilink")。             |              |
-| 金素英 | 김소영 | 女  | 27歲，皮包設計師。                                                                                                                                                                            |              |
-| 金仁旭 | 김인욱 | 男  | 29歲，經營咖啡廳同時也兼任咖啡師。                                                                                                                                                                    |              |
-| 李英書 | 이영서 | 女  | 25歲，大學休學中，美術講師＆陶藝講師。                                                                                                                                                                  |              |
-| 張延佑 | 장연우 | 男  | 住在[昌原市](../Page/昌原市.md "wikilink")，23歲，大學生（主修髮型設計）。                                                                                                                                   |              |
-| 金彩朗 | 김채랑 | 女  | 24歲，大學休學中，目前在[首爾特別市](https://zh.wikipedia.org/wiki/首爾特別市 "wikilink")[瑞草區](https://zh.wikipedia.org/wiki/瑞草區 "wikilink")[良才洞的教育公司的行銷工作](https://zh.wikipedia.org/wiki/良才洞 "wikilink")。 | Love Catcher |
+<table style="width:100%;">
+<colgroup>
+<col style="width: -3%" />
+<col style="width: -3%" />
+<col style="width: 50%" />
+<col style="width: 60%" />
+<col style="width: -3%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>姓名</p></th>
+<th><p>韓文</p></th>
+<th><p>性別</p></th>
+<th><p>公開之個人資訊</p></th>
+<th><p>扮演角色</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>金民錫</p></td>
+<td><p>김민석</p></td>
+<td><p>男</p></td>
+<td><p>30歲，行銷公司代表。<br />
+周圍的朋友都覺得他會選\Money，因為當時真的需要錢，且又擔心且顧及弟妹，而自覺不能去交女朋友。但來餐與節目是希望能夠好好談一段戀愛。</p></td>
+<td><p>Love Catcher</p></td>
+</tr>
+<tr class="even">
+<td><p>朴正真</p></td>
+<td><p>박정진</p></td>
+<td><p>29歲，<a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a><a href="https://zh.wikipedia.org/wiki/瑞草區" title="wikilink">瑞草區</a><a href="https://zh.wikipedia.org/wiki/良才洞" title="wikilink">良才洞的私人公司職員</a>。</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>金仁旭</p></td>
+<td><p>김인욱</p></td>
+<td><p>29歲，經營咖啡廳同時也兼任咖啡師。</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>鄭瓉友</p></td>
+<td><p>정찬우</p></td>
+<td><p>27歲，裁縫師。原本是<a href="https://zh.wikipedia.org/wiki/釜山" title="wikilink">釜山人</a>，住在<a href="https://zh.wikipedia.org/wiki/清洲" title="wikilink">清洲</a>。</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>張延佑</p></td>
+<td><p>장연우</p></td>
+<td><p>23歲，大學生（主修髮型設計）。住在<a href="../Page/昌原市.md" title="wikilink">昌原市</a>，大學生（主修髮型設計）。</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>宋世羅</p></td>
+<td><p>송세라</p></td>
+<td><p>女</p></td>
+<td><p>27歲，銀行職員。</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>金素英</p></td>
+<td><p>김소영</p></td>
+<td><p>27歲，皮包設計師。</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>李英書</p></td>
+<td><p>이영서</p></td>
+<td><p>25歲，大學休學中，美術講師＆陶藝講師。</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>金彩朗</p></td>
+<td><p>김채랑</p></td>
+<td><p>24歲，大學休學中，目前在<a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a><a href="https://zh.wikipedia.org/wiki/瑞草區" title="wikilink">瑞草區</a><a href="https://zh.wikipedia.org/wiki/良才洞" title="wikilink">良才洞的教育公司的行銷工作</a>。<br />
+最後一段戀愛是一年半之前，因為該段戀愛有點艱辛，所以變得討厭戀愛。自己覺得個性是很容易陷入戀愛，且會把心情寫在臉上。</p></td>
+<td><p>Love Catcher</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>金佳彬</p></td>
+<td><p>김가빈</p></td>
+<td><p>23歲，大學生。住在<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/南楊州市.md" title="wikilink">南揚州</a><a href="https://zh.wikipedia.org/wiki/九里" title="wikilink">九里</a>。每天都一定要吃早餐。</p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 各集得票結果
 
@@ -321,104 +401,226 @@
 
 ### 第5集
 
-  - 花園派對\[21\]、情侶料理製作比賽\[22\]第一名：金民錫、金佳彬。金民錫選擇「看他人的秘密」，並選擇看的金素英的秘密。\[23\]；金佳彬選擇「看他人的秘密」，並選擇看的鄭瓉友的秘密\[24\]。
+  - 花園派對\[21\]、情侶料理製作比賽\[22\]第一名：金民錫、金佳彬。金民錫選擇「看他人的秘密」，並選擇看的金素英的秘密\[23\]；金佳彬選擇「看他人的秘密」，並選擇看的鄭瓉友的秘密\[24\]。
 
-<table>
-<thead>
-<tr class="header">
-<th><p>集數</p></th>
-<th><p>合宿者</p></th>
-<th><p>花園派對夥伴</p></th>
-<th><p>好感對象</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>5</p></td>
-<td><p>鄭瓉友</p></td>
-<td><p>金素英</p></td>
-<td><p>rowspan="10"<br />
-[25]</p></td>
-</tr>
-<tr class="even">
-<td><p>金素英</p></td>
-<td><p>鄭瓉友</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>金仁旭</p></td>
-<td><p>金彩朗</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>金彩朗</p></td>
-<td><p>金仁旭</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>金民錫</p></td>
-<td><p>金佳彬</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>金佳彬</p></td>
-<td><p>金民錫</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>張延佑</p></td>
-<td><p>宋世羅</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>宋世羅</p></td>
-<td><p>張延佑</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>朴正真</p></td>
-<td><p>李英書</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>李英書</p></td>
-<td><p>朴正真</p></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| 集數  | 合宿者 | 花園派對夥伴      | 好感對象        |
+| --- | --- | ----------- | ----------- |
+| 5   | 鄭瓉友 | 金素英         | rowspan="5" |
+| 金素英 | 鄭瓉友 |             |             |
+| 金仁旭 | 金彩朗 |             |             |
+| 金彩朗 | 金仁旭 |             |             |
+| 金民錫 | 金佳彬 |             |             |
+| 金佳彬 | 金民錫 | 鄭瓉友\[25\]   |             |
+| 張延佑 | 宋世羅 | rowspan="4" |             |
+| 宋世羅 | 張延佑 |             |             |
+| 朴正真 | 李英書 |             |             |
+| 李英書 | 朴正真 |             |             |
 
 ### 第6集
 
-  - 比賽\[26\]第一名： 、 。 選擇看 前一天好感投票對象\[27\]； 選擇看 前一天好感投票對象\[28\]。
+  - 製作搭檔玩偶\[26\]比賽第一名：鄭瓉友、李英書。鄭瓉友選擇看「前一天誰對自己有好感」\[27\]；李英書也選擇「前一天誰對自己有好感」\[28\]。
+  - 製作組本集最終公布被合宿者大部分人懷疑是金錢捕手，而被投票淘汰者為：金民錫、金彩朗（實際上兩位都是Love Catcher）。
 
 <table>
 <thead>
 <tr class="header">
 <th><p>集數</p></th>
 <th><p>合宿者</p></th>
-<th><p>夥伴</p></th>
-<th><p>好感對象</p></th>
+<th><p>製作玩偶夥伴</p></th>
+<th><p>（淘汰者之）得票數<br />
+[29]</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>6</p></td>
 <td><p>鄭瓉友</p></td>
+<td><p>李英書</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>李英書</p></td>
+<td><p>鄭瓉友</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>金仁旭</p></td>
+<td><p>金素英</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>金素英</p></td>
+<td><p>金仁旭</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>張延佑</p></td>
+<td><p>金彩朗</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>金彩朗</p></td>
+<td><p>張延佑</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>金民錫</p></td>
+<td><p>宋世羅</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>宋世羅</p></td>
+<td><p>金民錫</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>朴正真</p></td>
+<td><p>金佳彬</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>金佳彬</p></td>
+<td><p>朴正真</p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 第7集
+
+  - 本集可以與自己心儀的對象約會，但必須由女性主動邀請兩位，且由女性指定約會地點（展示自己魅力）。若同一位男性有兩位女性選擇，則男性可以選擇想約會的女性一名。
+  - 製作組本集最終公布交換身分的Catcher為：。
+
+<table>
+<thead>
+<tr class="header">
+<th><p>集數</p></th>
+<th><p>合宿者</p></th>
+<th><p>女方邀請<br />
+約會對象</p></th>
+<th><p>男方選擇<br />
+接受約會對象</p></th>
+<th><p>約會地點</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>7</p></td>
+<td><p>鄭瓉友</p></td>
+<td></td>
+<td></td>
+<td><p>→</p></td>
+</tr>
+<tr class="even">
+<td><p>金素英</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>金仁旭</p></td>
+<td></td>
+<td></td>
+<td><p>→</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>金彩朗</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>金民錫</p></td>
+<td></td>
+<td></td>
+<td><p>→</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>金佳彬</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>張延佑</p></td>
+<td></td>
+<td></td>
+<td><p>→</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>宋世羅</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>朴正真</p></td>
+<td></td>
+<td></td>
+<td><p>→</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>李英書</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 第8集
+
+  - 本集請男性向心儀的女性發送約會邀請。
+
+  - 製作組本集最終公布所有合宿者的身分＆確認成功成為情侶的男女組合。
+
+  - 代表男女互相選擇，但其中至少有一人是Money Catcher。
+
+  - 最終所有人（除成為情侶者外）單獨於秘密房間中觀看所有人的真實身分。
+
+<table>
+<thead>
+<tr class="header">
+<th><p>集數</p></th>
+<th><p>合宿者</p></th>
+<th><p>男方邀請<br />
+約會對象</p></th>
+<th><p>約會地點</p></th>
+<th><p>最終選擇</p></th>
+<th><p>獲得</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>8</p></td>
+<td><p>鄭瓉友</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>金素英</p></td>
+<td></td>
+<td><p>→</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -428,9 +630,13 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>金彩朗</p></td>
+<td></td>
+<td><p>→</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -440,9 +646,13 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>金佳彬</p></td>
+<td></td>
+<td><p>→</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -452,9 +662,13 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>宋世羅</p></td>
+<td></td>
+<td><p>→</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -464,9 +678,13 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>李英書</p></td>
+<td></td>
+<td><p>→</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -474,9 +692,13 @@
 </tbody>
 </table>
 
+### 第9集
+
+  - 特輯：邀請合宿者面對面進行對談，以了解他們的心路歷程。
+
 ## 主持人各集預測
 
-  - 紅字代表預測正確，該集獲得愛情幣一枚；累積最多愛情幣者，可獲得愛情金幣\[29\]一枚。
+  - 紅字代表預測正確，該集獲得愛情幣一枚；累積最多愛情幣者，可獲得愛情金幣\[30\]一枚。
 
 <table>
 <thead>
@@ -491,17 +713,17 @@
 <tbody>
 <tr class="odd">
 <td><p>1<br />
-[30]</p></td>
-<td><p>2<br />
 [31]</p></td>
-<td><p>3<br />
+<td><p>2<br />
 [32]</p></td>
-<td><p>4<br />
+<td><p>3<br />
 [33]</p></td>
+<td><p>4<br />
+[34]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/申東燁.md" title="wikilink">申東燁</a></p></td>
-<td><p>0</p></td>
+<td><p>rowspan="5"</p></td>
 <td><p>鄭瓉友</p></td>
 <td></td>
 </tr>
@@ -521,13 +743,15 @@
 <td><p><a href="../Page/DinDin.md" title="wikilink">DinDin</a></p></td>
 <td></td>
 <td><p>Money catcher</p></td>
-<td></td>
+<td><p>金仁旭<br />
+金彩朗</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/李弘彬.md" title="wikilink">李弘彬</a></p></td>
 <td><p>鄭瓉友</p></td>
 <td></td>
-<td></td>
+<td><p>金民錫<br />
+李英書</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/洪錫天" title="wikilink">洪錫天</a></p></td>
@@ -548,9 +772,9 @@
 <th><p>集數</p></th>
 <th><p>播出日期</p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/AC尼爾森" title="wikilink">AGB尼爾森</a><br />
-收視率[34][35]</p></th>
+收視率[35][36]</p></th>
 <th><p>TNmS<br />
-收視率[36]</p></th>
+收視率[37]</p></th>
 </tr>
 </thead>
 <tbody>
@@ -625,15 +849,16 @@
 22. 使用濟州島名產新鮮食材－「石章魚」為主題進行情侶派對料理。
 23. 事前採訪：製作組提問工作與戀愛若只能擇一怎麼選擇，金素英表示選擇工作優先。接著採訪金素英的男性友人，男性友人提及金素英戀愛方式為對喜歡的男人完全投入，因此曾被壞男人傷害。金素英向友人提問自己像哪種Catcher，有人回答看起來像Love Catcher。
 24. 事前採訪：製作組提問鄭瓉友自己覺得是怎樣的人，鄭瓉友覺得自己是孤獨的人，曖昧時是壞男人，但交往時是好男人。接著採訪鄭瓉友的女性友人關於鄭瓉友可能的選擇，友人覺得一定是選「Love Catcher」，且無論製作組提高獎金提高多少，鄭瓉友都不會改變選擇
-25. 本週製作組未公布好感對象。
-26. 由 。
-27. 結果顯示 。
-28. 結果顯示 。
-29. 純金打造。
-30. 預測男生和女生的「Money Catcher」人數，預測正確者可獲得愛情幣一枚。（製作組公佈為男生2人；女生2人。）
-31. 預測男性的「Money Catcher」，若與全女性合宿者預測的男性「Money Catcher」中最高票結果一致（合宿者投票結果為金民錫），可獲得愛情幣一枚。
-32. 預測金民錫的真實身份，預測正確者可獲得愛情幣一枚。
-33. 預測女性的「Money Catcher」，若與全男性合宿者預測的女性「Money Catcher」中最高票結果一致（合宿者投票結果為金彩朗），可獲得愛情幣一枚。
-34.
+25. 因第六集鄭瓉友贏得比賽，選擇看誰前一天對自己有好感而公布。
+26. 需製作與搭檔相像的玩偶。
+27. 結果顯示前一天好感對象是金佳彬。
+28. 結果顯示沒有人前一天對李英書有好感。
+29. 本集男女須對懷疑為Money Catcher的異性投票，男、女得票最高票者一起淘汰。
+30. 純金打造。
+31. 預測男生和女生的「Money Catcher」人數，預測正確者可獲得愛情幣一枚。（製作組公佈為男生2人；女生2人。）
+32. 預測男性的「Money Catcher」，若與全女性合宿者預測的男性「Money Catcher」中最高票結果一致（合宿者投票結果為金民錫），可獲得愛情幣一枚。
+33. 預測金民錫的真實身份，預測正確者可獲得愛情幣一枚。
+34. 預測女性的「Money Catcher」，若與全男性合宿者預測的女性「Money Catcher」中最高票結果一致（合宿者投票結果為金彩朗），可獲得愛情幣一枚。
 35.
 36.
+37.

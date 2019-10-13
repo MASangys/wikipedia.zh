@@ -4,7 +4,7 @@
 
 出道前說因為想結交朋友而開始畫漫畫。
 
-2015年12月初，開始在日本大型官方[網路漫畫網站](https://zh.wikipedia.org/wiki/網路漫畫 "wikilink")[niconico靜畫連載](https://zh.wikipedia.org/wiki/niconico靜畫 "wikilink")《[女高中生的虛度日常](../Page/女高中生的虛度日常.md "wikilink")》。得到[KADOKAWA](../Page/KADOKAWA.md "wikilink")《ComicNewType》注目並以重製的方式長期連載化，正式以漫畫家出道。
+2015年12月初，開始在日本大型官方[網路漫畫網站](https://zh.wikipedia.org/wiki/網路漫畫 "wikilink")[niconico靜畫連載](https://zh.wikipedia.org/wiki/niconico靜畫 "wikilink")《[女高中生的虛度日常](../Page/女高中生的虛度日常.md "wikilink")》。得到[KADOKAWA](../Page/KADOKAWA.md "wikilink") 《ComicNewType》注目並以重製的方式長期連載化，正式以漫畫家出道。
 
 但在2017年7月，《女高中生的虛度日常》面臨[腰斬](../Page/腰斬_\(術語\).md "wikilink")。不過又在2018年4月，《女高中生的虛度日常》重新展開連載。
 

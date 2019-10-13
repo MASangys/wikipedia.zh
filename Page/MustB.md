@@ -8,12 +8,13 @@
 | 藝名           |
 | 漢字           |
 | Taegeon (태건) |
-| Hawoon (하운)  |
-| Sangwoo (상우) |
 | Wooyeon (우연) |
 | Doha (도하)    |
 | Soohyun (수현) |
 | Sihoo (시후)   |
+| 離隊成員         |
+| Hawoon (하운)  |
+| Sangwoo (상우) |
 
 
 
@@ -68,8 +69,6 @@
   - [MustB韓國官方網站](http://www.mustm.net/)
   - [MustB的Instagram帳戶](https://www.instagram.com/mustb_official/)
   - [Taegeon的Instagram帳戶](https://www.instagram.com/mustb_taegeon/)
-  - [Hawoon的Instagram帳戶](https://www.instagram.com/mustb_hawoon/)
-  - [Sangwoo的Instagram帳戶](https://www.instagram.com/mustb_sangwoo/)
   - [Wooyeon的Instagram帳戶](https://www.instagram.com/mustb_wooyeon/)
   - [Doha的Instagram帳戶](https://www.instagram.com/mustb_doha/)
   - [Soohyun的Instagram帳戶](https://www.instagram.com/mustb_soohyun/)

@@ -65,6 +65,8 @@
 | 18 | 9月1日  | [台中市](https://zh.wikipedia.org/wiki/台中市 "wikilink")                                                                                     | 不只嘴巴吃眼睛也要吃　台中超夯吸睛美食  |
 | 19 | 9月8日  | [台南市](https://zh.wikipedia.org/wiki/台南市 "wikilink")                                                                                     | 美食之都當之無愧　來到台南怎麼瘦     |
 | 20 | 9月15日 | [新竹縣](../Page/新竹縣.md "wikilink")                                                                                                        | 離開市區玩翻山城　懶人路線開團啦     |
+| 21 | 9月22日 | [嘉義市](../Page/嘉義市.md "wikilink")                                                                                                        | 這次就是要讓你吃到嘉義的厲害       |
+| 22 | 9月29日 | [新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[八里區](https://zh.wikipedia.org/wiki/八里區 "wikilink")                                  | 八里玩法不一樣　全新企劃帶你玩      |
 |    |       |                                                                                                                                         |                      |
 
 ## 參考資料
