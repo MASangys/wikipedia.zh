@@ -1,4 +1,4 @@
-《**Truth**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CNBLUE](../Page/CNBLUE.md "wikilink")的第十張單曲，由[鄭容和](../Page/鄭容和.md "wikilink")、[Ryo](https://zh.wikipedia.org/wiki/Ryo "wikilink")、[李相浩](https://zh.wikipedia.org/wiki/李相浩 "wikilink")（）作曲、容和與[miwa\*作詞](https://zh.wikipedia.org/wiki/miwa* "wikilink")，並在2014年4月23日以四個不同版本推出。這也是他們第七張由[華納唱片 (日本)發行的單曲](../Page/日本華納音樂.md "wikilink")\[1\]。
+《**Truth**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CNBLUE](../Page/CNBLUE.md "wikilink")的第十張單曲，由[鄭容和](../Page/鄭容和.md "wikilink")、[Ryo](https://zh.wikipedia.org/wiki/Ryo "wikilink")、[李相浩](../Page/李相浩.md "wikilink")（）作曲、容和與[miwa\*作詞](https://zh.wikipedia.org/wiki/miwa* "wikilink")，並在2014年4月23日以四個不同版本推出。這也是他們第七張由[華納唱片 (日本)發行的單曲](../Page/日本華納音樂.md "wikilink")\[1\]。
 
 ## 背景
 

@@ -9,7 +9,7 @@
 ### 與前作的不同點
 
 1.  本作與前作最大的不同，是遊戲目標由[統治各個](https://zh.wikipedia.org/wiki/統治 "wikilink")[國](https://zh.wikipedia.org/wiki/國 "wikilink")，變更為統治[當時](https://zh.wikipedia.org/wiki/三國時代 "wikilink")[中國](../Page/中國.md "wikilink")的各個主要[都市](https://zh.wikipedia.org/wiki/都市 "wikilink")。本作中，玩家最多可同時控制8位君主；前作中有一部分君主是[非玩家角色](../Page/非玩家角色.md "wikilink")不能選擇，而本作後已可選擇全部君主。
-2.  本作區分武将的身分，而武将的能力値更細分為「[智力](../Page/智力.md "wikilink")」「[政治](../Page/政治.md "wikilink")」「[武力](https://zh.wikipedia.org/wiki/武力 "wikilink")」「陸指」（[指揮力](https://zh.wikipedia.org/wiki/指揮 "wikilink")）「水指」（[海戰指揮力](https://zh.wikipedia.org/wiki/海戰 "wikilink")）。
+2.  本作區分武将的身分，而武将的能力値更細分為「[智力](../Page/智力.md "wikilink")」「[政治](../Page/政治.md "wikilink")」「[武力](https://zh.wikipedia.org/wiki/武力 "wikilink")」「[魅力](https://zh.wikipedia.org/wiki/魅力 "wikilink")」「陸指」（[指揮力](https://zh.wikipedia.org/wiki/指揮 "wikilink")）「水指」（[海戰指揮力](https://zh.wikipedia.org/wiki/海戰 "wikilink")）。
 3.  新增了[諸葛亮死後的劇本](https://zh.wikipedia.org/wiki/諸葛亮 "wikilink")。
 4.  登場武将数比起前作大幅増加到531人（若包含事件登場的武将[貂蝉](../Page/貂蝉.md "wikilink")，則為532人）。然而，孔明死後的最後劇本，登場人物相當少，玩家若不加速統一中國的攻略速度，會有武將數不足的困擾（此一問題在『三國志DS』中，可通過追加武将的功能解決）。
 5.  本作中最後一名登場的武將是[司馬炎](../Page/司馬炎.md "wikilink")，因其設定在265年登場，又被稱為「幻之武將」（幻の武将）。
@@ -17,9 +17,9 @@
 
 ### 指令
 
-本作將戰略面的指令再細分，（如軍事的「[徵兵](https://zh.wikipedia.org/wiki/徵兵 "wikilink")」、「[募兵](https://zh.wikipedia.org/wiki/募兵 "wikilink")」、「[訓練](https://zh.wikipedia.org/wiki/訓練 "wikilink")」、「戰争準備」；[内政的](https://zh.wikipedia.org/wiki/内政 "wikilink")「[開發](https://zh.wikipedia.org/wiki/開發 "wikilink")」、「[耕作](../Page/耕作.md "wikilink")」、「[治水](https://zh.wikipedia.org/wiki/治水 "wikilink")」（包含[灌溉](../Page/灌溉.md "wikilink")）），並依照武將文武官的身分不同，對應執行不同種類的指令，並以報告書的形式顯示執行命令後的成果。
+本作將戰略面的指令再細分，（如軍事的「[徵兵](https://zh.wikipedia.org/wiki/徵兵 "wikilink")」、「[募兵](https://zh.wikipedia.org/wiki/募兵 "wikilink")」、「[訓練](https://zh.wikipedia.org/wiki/訓練 "wikilink")」、「戰争準備」、「輸送」；[内政的](https://zh.wikipedia.org/wiki/内政 "wikilink")「[開發](https://zh.wikipedia.org/wiki/開發 "wikilink")」、「[耕作](../Page/耕作.md "wikilink")」、「[治水](https://zh.wikipedia.org/wiki/治水 "wikilink")」（包含[灌溉](../Page/灌溉.md "wikilink")）、「[商業](https://zh.wikipedia.org/wiki/商業 "wikilink")」），並依照武將文武官的身分不同，對應執行不同種類的指令，並以月初報告書的形式顯示上月執行命令後的成果。
 
-而本作於戰術面擴大了戰場的範圍，除了都市的[城鎮戰](../Page/城鎮戰.md "wikilink")外，攻擊方與防禦方與[國境間可以選擇](https://zh.wikipedia.org/wiki/國境 "wikilink")[野戰](https://zh.wikipedia.org/wiki/野外戰 "wikilink")。另外，前作中僅限於開戰初期的單挑指令，本作中改為常設指令，且可選擇任意對手武將。計策指令新增了「[陷阱](https://zh.wikipedia.org/wiki/陷阱 "wikilink")」「假傳令」（偽伝）「Friendly fire」（同士討ち）\[2\]等。
+而本作於戰術面擴大了戰場的範圍，除了都市的[城鎮戰](../Page/城鎮戰.md "wikilink")、古戰場的[野戰外](https://zh.wikipedia.org/wiki/野戰 "wikilink")，攻擊方與防禦方與[國境間可以選擇](https://zh.wikipedia.org/wiki/國境 "wikilink")[野戰](https://zh.wikipedia.org/wiki/野外戰 "wikilink")。另外，前作中僅限於開戰初期的單挑指令，本作中改為常設指令，且可選擇任意對手武將。計策指令新增了「[陷阱](https://zh.wikipedia.org/wiki/陷阱 "wikilink")」「假傳令」（偽伝）「Friendly fire」（同士討ち）\[2\]等。
 
 ### 關於身分
 

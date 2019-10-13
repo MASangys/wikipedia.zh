@@ -1,4 +1,4 @@
-\-{T|zh:Lightning接头; zh-hans:闪电接头; zh-hant:Lightning接頭; zh-tw:Lightning接頭}-      [Lightning_Connecter.jpg](https://zh.wikipedia.org/wiki/File:Lightning_Connecter.jpg "fig:Lightning_Connecter.jpg") [Lightning_Dock_in_iPad_mini.jpg](https://zh.wikipedia.org/wiki/File:Lightning_Dock_in_iPad_mini.jpg "fig:Lightning_Dock_in_iPad_mini.jpg") **Lightning**是由[蘋果公司所製作的專屬](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[連接器規格](https://zh.wikipedia.org/wiki/連接器 "wikilink")，首次出現在2012年所發表的[iPhone 5](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink")、[iPod Touch及](https://zh.wikipedia.org/wiki/iPod_Touch "wikilink")[iPod nano等新款手持式消費性電子產品](https://zh.wikipedia.org/wiki/iPod_nano "wikilink")。此連接器針腳為 8 pin，正反面皆可插，尺寸與[Micro USB相近](https://zh.wikipedia.org/wiki/Micro_USB "wikilink")。Lightning取代了使用多年的30pin連接器，而蘋果公司另外提供Lightning轉接30pin的轉接頭得以讓使用30pin連接器的週邊及線材仍可繼續使用。
+[Lightning_Connecter.jpg](https://zh.wikipedia.org/wiki/File:Lightning_Connecter.jpg "fig:Lightning_Connecter.jpg") [Lightning_Dock_in_iPad_mini.jpg](https://zh.wikipedia.org/wiki/File:Lightning_Dock_in_iPad_mini.jpg "fig:Lightning_Dock_in_iPad_mini.jpg") **Lightning**是由[蘋果公司所製作的專屬](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[連接器規格](https://zh.wikipedia.org/wiki/連接器 "wikilink")，首次出現在2012年所發表的[iPhone 5](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink")、[iPod Touch及](https://zh.wikipedia.org/wiki/iPod_Touch "wikilink")[iPod nano等新款手持式消費性電子產品](https://zh.wikipedia.org/wiki/iPod_nano "wikilink")。此連接器針腳為 8 pin，正反面皆可插，尺寸與[Micro USB相近](https://zh.wikipedia.org/wiki/Micro_USB "wikilink")。Lightning取代了使用多年的30pin連接器，而蘋果公司另外提供Lightning轉接30pin的轉接頭得以讓使用30pin連接器的週邊及線材仍可繼續使用。
 
 ## 特色
 
@@ -8,7 +8,7 @@ Lightning接頭還將其上一代30-pin接頭所使用的固定用機械卡扣�
 
 Lightning接頭內建認證晶片，會與充電的裝置認證，因此若使用未经[MFi认证](../Page/MFi认证.md "wikilink")的Lightning傳輸線，可能會發生無法充電及傳輸之情況，此狀況普遍在裝置上執行[iOS 7版本之蘋果裝置上](https://zh.wikipedia.org/wiki/iOS_7 "wikilink")，且使用未认证傳輸線可能造成[鋰電池損壞](https://zh.wikipedia.org/wiki/鋰電池 "wikilink")、[短路](../Page/短路.md "wikilink")等問題。
 
-在2017年11月初的[iOS 11更新中](https://zh.wikipedia.org/wiki/iOS_11 "wikilink")，蘋果將Lightning简体中文[本地化為](https://zh.wikipedia.org/wiki/本地化 "wikilink")「闪-{}-电」\[1\]\[2\]，而[繁體中文地區依然使用英文名](https://zh.wikipedia.org/wiki/繁體中文 "wikilink")\[3\]。
+在2017年11月初的[iOS 11更新中](https://zh.wikipedia.org/wiki/iOS_11 "wikilink")，蘋果將Lightning简体中文[本地化為](https://zh.wikipedia.org/wiki/本地化 "wikilink")「闪-{}-电」\[1\]\[2\]，而[繁體中文版依然使用英文名](https://zh.wikipedia.org/wiki/繁體中文 "wikilink")\[3\]。
 
 ## 採用 Lightning 接頭的裝置列表
 
@@ -25,6 +25,8 @@ Lightning接頭內建認證晶片，會與充電的裝置認證，因此若使�
   - [iPhone X](https://zh.wikipedia.org/wiki/iPhone_X "wikilink")
   - [iPhone XS/XS Max](https://zh.wikipedia.org/wiki/iPhone_XS "wikilink")
   - [iPhone XR](https://zh.wikipedia.org/wiki/iPhone_XR "wikilink")
+  - [iPhone 11](https://zh.wikipedia.org/wiki/iPhone_11 "wikilink")
+  - [IPhone 11 Pro/Pro Max](../Page/IPhone_11_Pro.md "wikilink")
 
 ### iPad
 
@@ -66,7 +68,7 @@ Lightning接頭內建認證晶片，會與充電的裝置認證，因此若使�
 
 ### 資料竊取
 
-[Verizon的研究員Mike](https://zh.wikipedia.org/wiki/Verizon "wikilink") Grover介紹被改裝的Lightning線，外表與一般的Lightning線一樣無法分辨，且能正常充電與傳輸資料，iPhone或電腦也無法偵測它是一條有問題的線。改裝後的線內含Wi-Fi無線晶片，當它連接裝置時本身就會變成一個[Wi-Fi](../Page/Wi-Fi.md "wikilink")熱點，並且登入該IP後就可以對iPhone或電腦執行指令，Mike Grover表示這種線存在於市場上已經很長一段時間了，而且這種技術在各種線材上都能運用，據他了解連[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[國家安全局都有出過自己的版本](https://zh.wikipedia.org/wiki/國家安全局 "wikilink")；不過Mike Grover也說，Lightning是最難植入晶片的線。\[4\]
+[Verizon的研究員Mike](https://zh.wikipedia.org/wiki/Verizon "wikilink") Grover介紹被改裝的Lightning線，外表與一般的Lightning線一樣無法分辨，且能正常充電與傳輸資料，iPhone或電腦也無法偵測它是一條有問題的線。改裝後的線內含Wi-Fi無線晶片，當它連接裝置時本身就會變成一個[Wi-Fi](../Page/Wi-Fi.md "wikilink")熱點，並且登入該IP後就可以對iPhone或電腦執行指令，Mike Grover表示這種線存在於市場上已經很長一段時間了，而且這種技術在各種線材上都能運用，據他了解連[美國國家安全局都有出過自己的版本](https://zh.wikipedia.org/wiki/美國國家安全局 "wikilink")；不過Mike Grover也說，Lightning是最難植入晶片的線。\[4\]
 
 ### 技術性
 

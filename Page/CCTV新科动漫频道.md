@@ -13,6 +13,6 @@
 
 ## 参见
 
-  - [新科娘](https://zh.wikipedia.org/wiki/新科娘 "wikilink")
+  - [新科娘](../Page/新科娘.md "wikilink")
 
 [Category:2013年成立的电视台或电视频道](https://zh.wikipedia.org/wiki/Category:2013年成立的电视台或电视频道 "wikilink") [Category:中国中央电视台数字频道](https://zh.wikipedia.org/wiki/Category:中国中央电视台数字频道 "wikilink")

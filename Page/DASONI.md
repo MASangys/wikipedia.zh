@@ -73,6 +73,6 @@
   -
 [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:2013年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年成立的音樂團體 "wikilink")
 
-1.  [news of EXID members](http://kpopn.com/2012/04/01/114456/)
+1.
 2.  [news of the members](http://xportsnews.hankyung.com/?ac=article_view&entry_id=254176)
 3.  [NAVER MUSIC-DASONI](http://music.naver.com/artist/home.nhn?artistId=259183)

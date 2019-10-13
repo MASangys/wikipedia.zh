@@ -818,7 +818,7 @@
 2.  片桐大三郎とXYZの悲劇（[倉知淳](https://zh.wikipedia.org/wiki/倉知淳 "wikilink")）
 3.  [王とサーカス](https://zh.wikipedia.org/wiki/王とサーカス "wikilink")（[米澤穂信](https://zh.wikipedia.org/wiki/米澤穂信 "wikilink")）
 4.  オルゴーリェンヌ（[北山猛邦](../Page/北山猛邦.md "wikilink")）
-5.  [その可能性はすでに考えた](https://zh.wikipedia.org/wiki/その可能性はすでに考えた "wikilink")（[井上真偽](https://zh.wikipedia.org/wiki/井上真偽 "wikilink")）
+5.  [その可能性はすでに考えた](https://zh.wikipedia.org/wiki/その可能性はすでに考えた "wikilink")（[井上真偽](../Page/井上真偽.md "wikilink")）
 6.  赤い博物館（[大山誠一郎](https://zh.wikipedia.org/wiki/大山誠一郎 "wikilink")）
 7.  鍵の掛かった男（[有栖川有栖](../Page/有栖川有栖.md "wikilink")）
 8.  東京結合人間（[白井智之](https://zh.wikipedia.org/wiki/白井智之 "wikilink")）
@@ -860,7 +860,7 @@
 
 **国内**
 
-1.  [聖女の毒杯 その可能性はすでに考えた](https://zh.wikipedia.org/wiki/聖女の毒杯_その可能性はすでに考えた "wikilink")（[井上真偽](https://zh.wikipedia.org/wiki/井上真偽 "wikilink")）
+1.  [聖女の毒杯 その可能性はすでに考えた](https://zh.wikipedia.org/wiki/聖女の毒杯_その可能性はすでに考えた "wikilink")（[井上真偽](../Page/井上真偽.md "wikilink")）
 2.  図書館の殺人（[青崎有吾](../Page/青崎有吾.md "wikilink")）
 3.  ジェリーフィッシュは凍らない（[市川憂人](../Page/市川憂人.md "wikilink")）
 4.  涙香迷宮（[竹本健治](../Page/竹本健治.md "wikilink")）

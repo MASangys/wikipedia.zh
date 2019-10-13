@@ -360,6 +360,8 @@ AlphaBAT團體名稱意思\[3\]：BAT 令人聯想起BAT MAN，BAT MAN也就是�
 | 0                                    |
 | 四台冠軍歌曲總數：0                           |
 
+## 參考來源
+
 ## 外部連結
 
   - ;所屬公司
@@ -419,10 +421,6 @@ AlphaBAT團體名稱意思\[3\]：BAT 令人聯想起BAT MAN，BAT MAN也就是�
   - [에타](https://web.archive.org/web/20160107165315/https://www.instagram.com/SJ_APB/)在Instagram的頁面
   - [이오타](https://instagram.com/ILLOW94)在Instagram的頁面
   - [제타](https://instagram.com/SUYEUBKKK)在Instagram的頁面
-
-{Commonscat|EXID}}
-
-## 參考來源
 
 [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:2013年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年成立的音樂團體 "wikilink")
 

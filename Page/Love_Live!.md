@@ -260,7 +260,7 @@ CD內附有的DVD收錄的歌曲音樂影片同時採用了[2D作畫和](https:/
 
 《[LoveLive\! 學園偶像祭 ～after school ACTIVITY～](https://zh.wikipedia.org/wiki/LoveLive!_學園偶像祭#LoveLive.21_.E5.AD.B8.E5.9C.92.E5.81.B6.E5.83.8F.E7.A5.AD_.EF.BD.9Eafter_school_ACTIVITY.EF.BD.9E "wikilink")》（）由[武士道和](../Page/武士道_\(公司\).md "wikilink")[史克威爾艾尼克斯共同開發](../Page/史克威尔艾尼克斯.md "wikilink")，史克威爾艾尼克斯營運的[街機](../Page/街机.md "wikilink")[節奏遊戲](../Page/音樂遊戲.md "wikilink")，於2016年12月6日起在日本各大遊戲店鋪營運。街機版除繼承了手機版的「卡片收藏和節奏音樂」的基本遊戲機制之外，還加入3DCG的演出動畫，以及列印實體卡片和讀取個人資料卡等機能。遊戲操作方式為實體按鍵，最高難度為「Challenge」難度。除單人模式外，也可於2至3名玩家合作進行遊戲。
 
-《[LoveLive\! 學園偶像祭 ALL STARS](https://zh.wikipedia.org/wiki/LoveLive!_學園偶像祭#LoveLive.21_.E5.AD.B8.E5.9C.92.E5.81.B6.E5.83.8F.E7.A5.AD_ALL_STARS "wikilink")》（）將於2018年推出，遊戲內容以[μ's](https://zh.wikipedia.org/wiki/μ's "wikilink")、[Aqours](../Page/Aqours.md "wikilink") 、PDP為主，並有[3D動畫背景](https://zh.wikipedia.org/wiki/3D "wikilink")。其後推遲至2019年推出，至9月中開放iOS及Google Play下載預約，並於9月30日上線。
+《[LoveLive\! 學園偶像祭 ALL STARS](https://zh.wikipedia.org/wiki/LoveLive!_學園偶像祭#LoveLive.21_.E5.AD.B8.E5.9C.92.E5.81.B6.E5.83.8F.E7.A5.AD_ALL_STARS "wikilink")》（）將於2018年推出，遊戲內容以[μ's](https://zh.wikipedia.org/wiki/μ's "wikilink")、[Aqours](../Page/Aqours.md "wikilink") 、PDP為主，並有[3D動畫背景](https://zh.wikipedia.org/wiki/3D "wikilink")。其後推遲至2019年推出，至9月中開放iOS及Google Play下載預約，並已於9月26日上線。
 
 《[趴趴玩偶 LoveLive\!](../Page/趴趴玩偶_LoveLive!.md "wikilink")》是由开发的一款消除类手机游戏，2018年4月24日於日本開始上線營運。日前已公布於2019年5月31日終止營運\[42\]。
 
@@ -328,7 +328,7 @@ CD內附有的DVD收錄的歌曲音樂影片同時採用了[2D作畫和](https:/
   -
   - [LoveLive\! 群英社中文官网](http://www.my-cartoon.com.tw/lovelive/index.php)
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:東京都背景作品](https://zh.wikipedia.org/wiki/Category:東京都背景作品 "wikilink") [Category:日本電視動畫](https://zh.wikipedia.org/wiki/Category:日本電視動畫 "wikilink") [Category:Love_Live\!](https://zh.wikipedia.org/wiki/Category:Love_Live! "wikilink")
+[Category:御宅族](https://zh.wikipedia.org/wiki/Category:御宅族 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:東京都背景作品](https://zh.wikipedia.org/wiki/Category:東京都背景作品 "wikilink") [Category:日本電視動畫](https://zh.wikipedia.org/wiki/Category:日本電視動畫 "wikilink") [Category:Love_Live\!](https://zh.wikipedia.org/wiki/Category:Love_Live! "wikilink")
 
 1.
 

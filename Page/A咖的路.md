@@ -855,7 +855,7 @@
 <td><p>甩開</p></td>
 <td><p><a href="../Page/丁噹.md" title="wikilink">丁噹</a></p></td>
 <td><p><a href="../Page/陳沒.md" title="wikilink">陳沒</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/陳亦勤" title="wikilink">陳亦勤</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳奕勤" title="wikilink">陳奕勤</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

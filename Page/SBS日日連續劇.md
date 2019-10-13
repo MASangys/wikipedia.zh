@@ -681,7 +681,7 @@
 </p></td>
 <td style="text-align: center;"><p>115</p></td>
 <td style="text-align: center;"><p><a href="../Page/李昭娟.md" title="wikilink">李昭娟</a>、<a href="../Page/李奎翰.md" title="wikilink">李奎翰</a>、<a href="../Page/金鎮祐.md" title="wikilink">金鎮祐</a>、<a href="https://zh.wikipedia.org/wiki/李彩英" title="wikilink">李彩英</a>、<a href="https://zh.wikipedia.org/wiki/文熙慶" title="wikilink">文熙慶</a>、<a href="../Page/羅映姬.md" title="wikilink">羅映姬</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/高興植" title="wikilink">高興植</a>、<a href="https://zh.wikipedia.org/wiki/吳忠煥" title="wikilink">吳忠煥</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/高興植" title="wikilink">高興植</a>、<a href="../Page/吳忠煥.md" title="wikilink">吳忠煥</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金英仁" title="wikilink">金英仁</a>、<a href="../Page/金順玉.md" title="wikilink">金順玉</a></p></td>
 <td style="text-align: center;"></td>
 </tr>

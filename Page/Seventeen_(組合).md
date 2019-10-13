@@ -2320,6 +2320,9 @@
 <td><p>HIT</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/An_Ode" title="wikilink">An Ode</a></p></td>
+</tr>
+<tr class="even">
 <td><ul>
 <li>「/」表示未有相關資料</li>
 <li>「(1)」：兩星期冠軍</li>
@@ -2348,10 +2351,10 @@
 <td><p><a href="../Page/Mnet媒體.md" title="wikilink">Mnet</a></p></td>
 </tr>
 <tr class="even">
-<td><p>6</p></td>
+<td><p>7</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong>一位總數：28<br />
+<td><p><strong>一位總數：30<br />
 三台冠軍歌總數：2<br />
 四台冠軍歌總數：1<br />
 五台冠軍歌總數：1</strong></p></td>

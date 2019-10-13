@@ -19,7 +19,7 @@
 
 ( function ( $, mw, undefined ) { "use strict";
 
-// Different tokes exist only to confuse the user (at least in 2012) // All of them carry the same value except the watchlist token if (\!mw.user.tokens.exists('preferencesToken')) mw.user.tokens.set('preferencesToken', mw.user.tokens.get('editToken'));
+// Different tokes exist only to confuse the user (at least in 2012) // All of them carry the same value except the watchlist token if (\!mw.user.tokens.exists('preferencesToken')) mw.user.tokens.set('preferencesToken', mw.user.tokens.get('csrfToken'));
 
 /\*\*
 

@@ -22,7 +22,7 @@
 
 為避免資安風險，以[Google Pay与三星的](../Page/Google_Pay.md "wikilink")[Samsung Pay为首的内核级支付系统](https://zh.wikipedia.org/wiki/三星智付 "wikilink")，不允許Root過的手機執行，
 
-2017年9月，[魅族宣布旗下各机型的](https://zh.wikipedia.org/wiki/魅族 "wikilink")[Flyme](../Page/Flyme.md "wikilink")系统将停用开放Root功能，且以后不再开放\[7\]。但在2018年7月，[魅族时任CEO](https://zh.wikipedia.org/wiki/魅族 "wikilink")[黄章](../Page/黄章.md "wikilink")下令Flyme彻底开放Root授权\[8\]
+2017年9月，[魅族宣布旗下各机型的](https://zh.wikipedia.org/wiki/魅族 "wikilink")[Flyme](../Page/Flyme.md "wikilink")系统将停用开放Root功能，且以后不再开放\[7\]。但在2018年7月，[魅族时任CEO](https://zh.wikipedia.org/wiki/魅族 "wikilink")[黄章](../Page/黄章.md "wikilink")下令Flyme彻底开放Root授权\[8\]。
 
 ## 参见
 

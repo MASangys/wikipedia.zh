@@ -60,7 +60,7 @@ VS系列</p></td>
 |                                                                                  |       |                |                                                                                    |    |
 | [<font color=white>正岡邦夫</font>](https://zh.wikipedia.org/wiki/正岡邦夫 "wikilink")   | 四日世昌平 | 王綠　（OH Green）  | [<font color=white>劉傑</font>](https://zh.wikipedia.org/wiki/劉傑_\(配音員\) "wikilink") |    |
 |                                                                                  |       |                |                                                                                    |    |
-| [<font color=white>合田雅吏</font>](https://zh.wikipedia.org/wiki/合田雅吏 "wikilink")   | 三田裕司  | 王藍　（OH Blue）   |                                                                                    |    |
+| [<font color=white>合田雅吏</font>](https://zh.wikipedia.org/wiki/合田雅吏 "wikilink")   | 三田裕司  | 王藍　（OH Blue）   | [<font color=white>李景唐</font>](../Page/李景唐.md "wikilink")                          |    |
 |                                                                                  |       |                |                                                                                    |    |
 | [<font color=black>穂高あゆみ</font>](https://zh.wikipedia.org/wiki/穂高あゆみ "wikilink") | 二原條樹里 | 王黃　（OH Yellow） | [<font color=black>汪世瑋</font>](../Page/汪世瑋.md "wikilink")                          |    |
 |                                                                                  |       |                |                                                                                    |    |

@@ -17,12 +17,12 @@
 ## 外部連結
 
   - [CGI Group](http://www.cgi.com/web/en/home.htm)
-  - [Board of Directors](http://www.cgi.com/en/investors/corporate-governance/composition-board-and-committees)
+  - [Board of Directors](https://web.archive.org/web/20131205191525/http://www.cgi.com/en/investors/corporate-governance/composition-board-and-committees)
 
 [Category:外包公司](https://zh.wikipedia.org/wiki/Category:外包公司 "wikilink") [Category:管理諮詢公司](https://zh.wikipedia.org/wiki/Category:管理諮詢公司 "wikilink") [Category:信息技术咨询公司](https://zh.wikipedia.org/wiki/Category:信息技术咨询公司 "wikilink") [Category:1976年成立的公司](https://zh.wikipedia.org/wiki/Category:1976年成立的公司 "wikilink") [Category:CGI集團](https://zh.wikipedia.org/wiki/Category:CGI集團 "wikilink") [Category:蒙特利尔公司](https://zh.wikipedia.org/wiki/Category:蒙特利尔公司 "wikilink")
 
 1.
-2.  [Integrating into CGI](http://www.cgi.com/en/careers/cgi-integration)
+2.
 3.
 4.
 5.

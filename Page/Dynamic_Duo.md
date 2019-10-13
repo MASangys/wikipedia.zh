@@ -142,6 +142,7 @@
 | 2018年4月26日、5月3日    | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | [Happy Together](../Page/歡樂在一起.md "wikilink")                                    |       |
 | 2019年9月7日          | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | [玩什麼好呢](../Page/玩什麼好呢.md "wikilink")                                             |       |
 | 2019年9月8日          | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")   | [Player](../Page/Player_\(韓國綜藝\).md "wikilink")                                  |       |
+| 2019年9月15日         | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | [眾籌](../Page/眾籌.md "wikilink")                                                   | GAEKO |
 
 ## 演唱會
 

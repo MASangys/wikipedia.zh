@@ -2,7 +2,7 @@
 
 ## 簡歷
 
-馬米是香港網上知名繞舌歌手，他亦是港台節目[《頭條新聞》常客](https://zh.wikipedia.org/wiki/頭條新聞_\(香港電台\) "wikilink")，製作了多首諷刺時弊的繞舌歌曲。於2005年出道，2011年推出首張個人mixtape《[The New Hope Mixtape](https://zh.wikipedia.org/wiki/The_New_Hope_Mixtape "wikilink")》\[1\]。2012年自資推出第二張個人mixtape《Justice Is What I Rap For》，2013年自資推出首張個人專輯《流行反擊戰》。
+馬米是香港網上知名繞舌歌手，他亦是港台節目[《頭條新聞》常客](https://zh.wikipedia.org/wiki/頭條新聞_\(香港電台\) "wikilink")，製作了多首諷刺時弊的饒舌歌曲。於2005年出道，2011年推出首張個人mixtape《[The New Hope Mixtape](https://zh.wikipedia.org/wiki/The_New_Hope_Mixtape "wikilink")》\[1\]。2012年自資推出第二張個人mixtape《Justice Is What I Rap For》，2013年自資推出首張個人專輯《流行反擊戰》。
 
 2017年，每年12月尾都會推出<Rap Up>系列的MastaMic表示2017年尾是最後一首年度<Rap Up>，這系列將後會無期。年初除了一如以往有今年的Rap Up，也會推出十年版Rap Up of the Rap Up畫上句號。回顧十年人事，佢睇到香港轉變快過火箭，又睇到新聞內容本質一致，只是時間人物地點轉了名字，荒誕劇一再上演，並慨嘆要循環多少次，我們才會醒覺？\[2\]
 

@@ -112,19 +112,23 @@ Instagram因以[智慧型手機平台起家](https://zh.wikipedia.org/wiki/智�
 
 ## 封锁
 
+### 中國大陸
+
 2013年5月10日起，许多[中国大陆](../Page/中国大陆.md "wikilink")用户在[社交網站中抱怨](../Page/社交網路服務.md "wikilink")，連接[中國移動的](https://zh.wikipedia.org/wiki/中國移動 "wikilink")[網路通道後Instagram應用](https://zh.wikipedia.org/wiki/網際網路 "wikilink")「无法刷新动态」，官方網站无法访问，但用户使用中国其它的[运营商网络](https://zh.wikipedia.org/wiki/電訊業者 "wikilink")（比如[中国联通](https://zh.wikipedia.org/wiki/中国联通 "wikilink")、[中国电信](https://zh.wikipedia.org/wiki/中国电信 "wikilink")）或通过[翻墙则可以正常使用](../Page/突破网络审查.md "wikilink")，疑似Instagram被中国移动单方面封锁（參見[中华人民共和国被封锁网站列表](../Page/中华人民共和国被封锁网站列表.md "wikilink")）。
 
 2014年7月7日，有媒体报道称Instagram从中国大陆绝大多数第三方[Android](../Page/Android.md "wikilink")应用程序商店中下架，下架原因尚不明确，但用户仍然可以在论坛或其他软件下载网站上较为容易地下载到Instagram；而[iOS的](https://zh.wikipedia.org/wiki/iOS "wikilink")[App Store中仍可以正常下载](../Page/App_Store_\(iOS\).md "wikilink")\[58\]。
 
-2014年9月28日起，Instagram在中国遭到全面封锁，原因疑是香港[雨傘革命](../Page/雨傘革命.md "wikilink")的图片在Instagram上流传。目前使用https连接仍然无法正常使用\[59\]\[60\]\[61\]。
-
-2013年12月30日，Instagram在[伊朗遭到屏蔽](https://zh.wikipedia.org/wiki/伊朗 "wikilink")，但屏蔽仅持续了12小时即解封。伊朗官员否认有任何不当行为，其国营电信公司也称并未屏蔽此应用\[62\]。
-
-2014年5月23日，伊朗以“隐私问题”为由，宣布封锁Instagram\[63\]\[64\]。
+2014年9月28日起，Instagram在中国遭到全面封锁，原因疑是香港[雨傘革命](../Page/雨傘革命.md "wikilink")的图片在Instagram上流传。使用https连接會无法正常使用\[59\]\[60\]\[61\]。
 
 。
 
 目前，中国大陆Instagram移动应用程序无法显示图片，网站则完全不可访问。
+
+### 伊朗
+
+2013年12月30日，Instagram在[伊朗遭到屏蔽](https://zh.wikipedia.org/wiki/伊朗 "wikilink")，但屏蔽仅持续了12小时即解封。伊朗官员否认有任何不当行为，其国营电信公司也称并未屏蔽此应用\[62\]。
+
+2014年5月23日，伊朗以“隐私问题”为由，宣布封锁Instagram\[63\]\[64\]。
 
 ## 参见
 

@@ -1,4 +1,4 @@
-**LGM-30義勇兵洲際彈道飛彈**（**LGM-30 Minuteman**）是[美国](../Page/美国.md "wikilink")的一种陆基[洲际弹道导弹](https://zh.wikipedia.org/wiki/洲际弹道导弹 "wikilink") (ICBM)，隶属[美国空军全球打击司令部](../Page/美国空军全球打击司令部.md "wikilink")，主要被设计来投送[核弹头](https://zh.wikipedia.org/wiki/核弹头 "wikilink")。它的名称来源于[美国独立战争时期的](https://zh.wikipedia.org/wiki/美国独立战争 "wikilink")[義勇兵](../Page/分鐘人.md "wikilink")。在2005年[LGM-118A和平守護者飛彈](../Page/LGM-118A和平守護者飛彈.md "wikilink")退役後，美國現役的陸基洲際彈道飛彈就只剩LGM-30G義勇兵三型（LGM-30G Minuteman-III）。它也是美国[核三位一体](../Page/核三位一体.md "wikilink")攻擊戰力的陸基打擊環節。
+**LGM-30民兵洲际弹道导弹**（**LGM-30 Minuteman**）是[美国](../Page/美国.md "wikilink")的一种陆基[洲际弹道导弹](https://zh.wikipedia.org/wiki/洲际弹道导弹 "wikilink") (ICBM)，隶属[美国空军全球打击司令部](../Page/美国空军全球打击司令部.md "wikilink")，主要被设计来投送[核弹头](https://zh.wikipedia.org/wiki/核弹头 "wikilink")。它的名称来源于[美国独立战争时期的](https://zh.wikipedia.org/wiki/美国独立战争 "wikilink")[民兵](../Page/分鐘人.md "wikilink")。在2005年[LGM-118A和平守護者飛彈](../Page/LGM-118A和平守護者飛彈.md "wikilink")退役後，美國現役的陸基洲際彈道飛彈就只剩LGM-30G義勇兵三型（LGM-30G Minuteman-III）。它也是美国[核三位一体](../Page/核三位一体.md "wikilink")攻擊戰力的陸基打擊環節。
 
 LGM中的“L”代表“[发射井发射](https://zh.wikipedia.org/wiki/发射井 "wikilink")”，“G”代表“打击地面目标”，“M”代表“[导弹](../Page/导弹.md "wikilink")”\[1\]。
 

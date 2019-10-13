@@ -38,7 +38,7 @@ DTM四聯裝車載機槍衍生型。
 
 ## 使用國家
 
-[MNRA_soldiers_1939.jpg](https://zh.wikipedia.org/wiki/File:MNRA_soldiers_1939.jpg "fig:MNRA_soldiers_1939.jpg")中的蒙古士兵使用DP輕機槍\]\] [Battle_of_Triangle_Hill_Chinese_Infantrymen.jpg](https://zh.wikipedia.org/wiki/File:Battle_of_Triangle_Hill_Chinese_Infantrymen.jpg "fig:Battle_of_Triangle_Hill_Chinese_Infantrymen.jpg")的士兵使用DP輕機槍\]\]
+[MNRA_soldiers_1939.jpg](https://zh.wikipedia.org/wiki/File:MNRA_soldiers_1939.jpg "fig:MNRA_soldiers_1939.jpg")中的蒙古士兵使用DP輕機槍\]\] [Battle_of_Triangle_Hill_Chinese_Infantrymen.jpg](https://zh.wikipedia.org/wiki/File:Battle_of_Triangle_Hill_Chinese_Infantrymen.jpg "fig:Battle_of_Triangle_Hill_Chinese_Infantrymen.jpg")中的[中國人民志願軍士兵使用DP輕機槍](https://zh.wikipedia.org/wiki/中國人民志願軍 "wikilink")\]\]
 
   - \[1\]
 
@@ -131,7 +131,7 @@ DTM四聯裝車載機槍衍生型。
   - [The Battles of the Winter War](http://www.winterwar.com/Weapons/SuSmallArms/SUAutomatics.htm)
   - [Modern Firearms – Degtyarev DP DPM RP-46](https://web.archive.org/web/20060212210543/http://world.guns.ru/machine/mg34-e.htm)
   - [Soviet DT-28 Repair and Operation Manual](http://www.scribd.com/doc/29617716/DT-28-Machine-Gun-Manual-T-34-Tank)
-  - [Degtyarov machine gun variants](http://www.bratishka.ru/archiv/2010/5/2010_5_10.php)
+  - [Degtyarov machine gun variants](https://web.archive.org/web/20130223032848/http://www.bratishka.ru/archiv/2010/5/2010_5_10.php)
   - [Degtyaryov machine gun with Japanese Type 11 magazine hopper](http://www.dragonsoffire.com/images/RussianLMG.jpg)
   - <https://web.archive.org/web/20140815074754/http://www.kalashnikov.ru/upload/medialibrary/7dc/06_16.pdf>
 

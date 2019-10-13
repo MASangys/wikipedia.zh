@@ -810,6 +810,7 @@
   - 09.04 - [X1](../Page/X1.md "wikilink")<sup>1st</sup> - Flash<sup>1st</sup>
   - 09.11 - 停播
   - 09.18 - 特輯 [X1](../Page/X1.md "wikilink")<sup>2nd</sup> - Flash<sup>2nd</sup>
+  - 09/25 - [臉紅的思春期](https://zh.wikipedia.org/wiki/臉紅的思春期 "wikilink")<sup>1st</sup> -「Workaholic」<sup>1st</sup>
 
 ## 藝人成就
 

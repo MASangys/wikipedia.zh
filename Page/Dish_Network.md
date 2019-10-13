@@ -11,7 +11,7 @@
 
 [Category:納斯達克上市公司](https://zh.wikipedia.org/wiki/Category:納斯達克上市公司 "wikilink") [Category:商業衛星運營商](https://zh.wikipedia.org/wiki/Category:商業衛星運營商 "wikilink") [Category:1996年成立的公司](https://zh.wikipedia.org/wiki/Category:1996年成立的公司 "wikilink") [Category:科羅拉多州公司](https://zh.wikipedia.org/wiki/Category:科羅拉多州公司 "wikilink")
 
-1.  [DISH Network - Investor Relations - 1.888.825.2557](http://dish.client.shareholder.com/releasedetail.cfm?ReleaseID=806390). Dish.client.shareholder.com. Retrieved on 2013-12-23.
+1.  [DISH Network - Investor Relations - 1.888.825.2557](http://dish.client.shareholder.com/releasedetail.cfm?ReleaseID=806390) . Dish.client.shareholder.com. Retrieved on 2013-12-23.
 
 2.
 

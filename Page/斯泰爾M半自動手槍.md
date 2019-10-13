@@ -283,7 +283,7 @@
   - [斯泰爾M1901手槍](../Page/斯泰爾M1901手槍.md "wikilink")
   - [斯泰爾M1912半自動手槍](https://zh.wikipedia.org/wiki/斯泰爾M1912半自動手槍 "wikilink")
   - [斯泰爾GB半自動手槍](https://zh.wikipedia.org/wiki/斯泰爾GB半自動手槍 "wikilink")
-  - [卡拉卡爾半自動手槍](https://zh.wikipedia.org/wiki/卡拉卡爾半自動手槍 "wikilink")
+  - [卡拉卡爾半自動手槍](../Page/卡拉卡爾半自動手槍.md "wikilink")
   - [HK USP手槍](../Page/HK_USP手槍.md "wikilink")
   - [瓦爾特P99手槍](../Page/瓦爾特P99手槍.md "wikilink")
 

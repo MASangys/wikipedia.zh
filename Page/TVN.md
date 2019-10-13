@@ -1123,7 +1123,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <tr class="odd">
 <td><p><a href="../Page/Seoul_Mate_3.md" title="wikilink">Seoul Mate 3</a></p></td>
 <td><p>2019年7月1日</p></td>
-<td><p>播放中</p></td>
+<td><p>2019年9月16日</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1688,11 +1688,54 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <td><p>真人實境秀</p></td>
 </tr>
 <tr class="odd">
-<td><p>V-1</p></td>
-<td><p>2019年9月</p></td>
-<td></td>
+<td><p><a href="http://program.m.tving.com/tvn/iamkimchi/">I am Kimchi</a></p></td>
+<td><p>2019年9月12日</p></td>
+<td><p>2019年9月13日</p></td>
+<td><p>試播</p></td>
+<td><p>美食節目</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="http://program.m.tving.com/tvn/v-1/">V-1</a></p></td>
+<td><p>2019年9月13日</p></td>
+<td><p>2019年9月15日</p></td>
+<td><p>試播</p></td>
+<td><p>競技節目</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/去冰島的三餐.md" title="wikilink">去冰島的三餐</a><br />
+（新西遊記外傳）</p></td>
+<td><p>2019年9月20日</p></td>
+<td><p>播放中</p></td>
+<td><p>1</p></td>
+<td><p>真人實境秀</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/為你讀書" title="wikilink">為你讀書</a></p></td>
+<td><p>2019年9月24日</p></td>
+<td><p>播放中</p></td>
+<td><p>1</p></td>
+<td><p>時事教養</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/西伯利亞先遣隊" title="wikilink">西伯利亞先遣隊</a></p></td>
+<td><p>2019年9月26日</p></td>
+<td><p>播放中</p></td>
+<td><p>1</p></td>
+<td><p>真人實境秀</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/星期三是音樂節目" title="wikilink">星期三是音樂節目</a></p></td>
+<td><p>2019年10月2日</p></td>
+<td><p>播放中</p></td>
 <td><p>1</p></td>
 <td><p>競技節目</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/搖擺兒童" title="wikilink">搖擺兒童</a></p></td>
+<td><p>2019年10月10日</p></td>
+<td><p>播放中</p></td>
+<td><p>1</p></td>
+<td><p>真人實境秀</p></td>
 </tr>
 <tr class="even">
 <td></td>

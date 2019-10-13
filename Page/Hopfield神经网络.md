@@ -1,4 +1,4 @@
-**Hopfield神经网络**是一种[递归神经网络](../Page/递归神经网络.md "wikilink")，由[约翰·霍普菲尔德](../Page/约翰·霍普菲尔德.md "wikilink")在1982年发明。Hopfield网络是一种[结合存储](../Page/结合存储.md "wikilink")系统和[二元系统的神经网络](https://zh.wikipedia.org/wiki/二元 "wikilink")。它保证了向[局部极小的收敛](https://zh.wikipedia.org/wiki/局部极小 "wikilink")，但收敛到错误的局部极小值（local minimum），而非全局极小（global minimum）的情况也可能发生。Hopfield网络也提供了模拟人类记忆的模型。
+**霍普菲爾德神经网络**(Hopfield neural network)是一种[递归神经网络](../Page/递归神经网络.md "wikilink")，由[约翰·霍普菲尔德](../Page/约翰·霍普菲尔德.md "wikilink")在1982年发明。Hopfield网络是一种[结合存储](../Page/结合存储.md "wikilink")系统和[二元系统的神经网络](https://zh.wikipedia.org/wiki/二元 "wikilink")。它保证了向[局部极小的收敛](https://zh.wikipedia.org/wiki/局部极小 "wikilink")，但收敛到错误的局部极小值（local minimum），而非全局极小（global minimum）的情况也可能发生。Hopfield网络也提供了模拟人类记忆的模型。
 
 ## 构造
 

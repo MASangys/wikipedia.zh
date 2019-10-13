@@ -238,7 +238,7 @@
 6.
 7.  [CCC創作集小檔案](http://www.libertytimes.com.tw/2011/new/jun/27/today-life11-2.htm)  自由時報2011-6-27
 8.  [超萌女學生圖錄 老史料「畫」為新潮流](http://www.libertytimes.com.tw/2011/new/jun/27/today-life11.htm)  自由時報 2011-6-27
-9.  [CCC活化史料有看頭](http://www.new7.com.tw/NewsView.aspx?t=07&i=TXT20110725095023XBG) 新新聞 2011-07-20
+9.  [CCC活化史料有看頭](http://www.new7.com.tw/NewsView.aspx?t=07&i=TXT20110725095023XBG)  新新聞 2011-07-20
 10. [文化部101年度「定期漫畫刊物補助案」補助名單](http://www.moc.gov.tw/ccaImages/notice/0/20121212-1.pdf)
 11. [文化部103年度「定期漫畫刊物補助案」補助名單](http://www.moc.gov.tw/ccaImages/notice/0/20140529-88.pdf)
 12. [文化部公布「第37次中小學生優良課外讀物評選推介活動」獲選書籍](http://www.cna.com.tw/postwrite/Detail/175573.aspx#.VkdV03YrKUk) 中央社 2015-7-31

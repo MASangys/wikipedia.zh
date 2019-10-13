@@ -10,7 +10,7 @@
 
 2016年5月於[香港](../Page/香港.md "wikilink")紅磡體育館舉行10場演出，並展開為期5個月的限定巡迴。此次巡迴邀請美國視覺大師LeRoy Bennett設計舞台燈光效果，成本高達4億元[新臺幣](../Page/新臺幣.md "wikilink")。2016年7月23、24日，連續兩天在[南港](../Page/南港區.md "wikilink")[中信金融園區舉辦臺北場演唱會](https://zh.wikipedia.org/wiki/中國信託 "wikilink") \[2\]。2016年8月26日、27日、28日重返[北京](https://zh.wikipedia.org/wiki/北京 "wikilink")[鳥巢](https://zh.wikipedia.org/wiki/國家體育場_\(北京\) "wikilink")。2016年12月17日至2017年1月1日，在[台北小巨蛋連續舉行](https://zh.wikipedia.org/wiki/台北小巨蛋 "wikilink")9場該主題的「RE:LIVE 2016 最終章 \[ 自傳復刻版 \]」演唱會，演出復刻五月天過去9次主題的大型演唱會表演內容 \[3\]。
 
-2018年11月5日，宣布以「藍 | Blue」主題演唱會於2019年4月6、7日在大阪舉行2場。 同年8月3日，宣布以該主題演唱會於2019年8月23－25日連續三天重返北京鳥巢，是他們第六度於該場地開唱。 同年9月6日，宣布以該主題演唱會於2019年10月25－27日、11月1－3日在上海虹口足球場共舉行6場。
+2018年11月5日，宣布以「藍 | Blue」主題演唱會於2019年4月6、7日在大阪舉行2場。 同年8月3日，宣布以該主題演唱會於2019年8月23－25日連續三天重返北京鳥巢，是他們第六度於該場地開唱。 同年9月6日，宣布以該主題演唱會於2019年10月25－27日、11月1－3日在上海虹口足球場共舉行6場。上海場其後宣布於2019年10月31日加開一場。
 
 2019年9月20日，宣布以該主題演唱會於2019年12月21－22、24－25、28－29、31日、2020年1月1、3－4日連續於[桃園國際棒球場](../Page/桃園國際棒球場.md "wikilink")舉行10場。
 
@@ -841,16 +841,16 @@
 </tr>
 <tr class="even">
 <td><p>79</p></td>
-<td><p>2019年11月1日</p></td>
+<td><p>2019年10月31日</p></td>
 <td></td>
-<td></td>
+<td><p>加場</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>80</p></td>
-<td><p>2019年11月2日</p></td>
+<td><p>2019年11月1日</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -859,7 +859,7 @@
 </tr>
 <tr class="even">
 <td><p>81</p></td>
-<td><p>2019年11月3日</p></td>
+<td><p>2019年11月2日</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -868,6 +868,15 @@
 </tr>
 <tr class="odd">
 <td><p>82</p></td>
+<td><p>2019年11月3日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>83</p></td>
 <td><p>2019年12月21日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/桃園" title="wikilink">桃園</a></p></td>
 <td><p>臺灣</p></td>
@@ -875,18 +884,9 @@
 <td></td>
 <td><p>Just Rock It！2020「藍｜BLUE」</p></td>
 </tr>
-<tr class="even">
-<td><p>83</p></td>
-<td><p>2019年12月22日</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="odd">
 <td><p>84</p></td>
-<td><p>2019年12月24日</p></td>
+<td><p>2019年12月22日</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -895,7 +895,7 @@
 </tr>
 <tr class="even">
 <td><p>85</p></td>
-<td><p>2019年12月25日</p></td>
+<td><p>2019年12月24日</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -904,7 +904,7 @@
 </tr>
 <tr class="odd">
 <td><p>86</p></td>
-<td><p>2019年12月28日</p></td>
+<td><p>2019年12月25日</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -913,7 +913,7 @@
 </tr>
 <tr class="even">
 <td><p>87</p></td>
-<td><p>2019年12月29日</p></td>
+<td><p>2019年12月28日</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -922,7 +922,7 @@
 </tr>
 <tr class="odd">
 <td><p>88</p></td>
-<td><p>2019年12月31日</p></td>
+<td><p>2019年12月29日</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -931,7 +931,7 @@
 </tr>
 <tr class="even">
 <td><p>89</p></td>
-<td><p>2020年1月1日</p></td>
+<td><p>2019年12月31日</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -940,7 +940,7 @@
 </tr>
 <tr class="odd">
 <td><p>90</p></td>
-<td><p>2020年1月3日</p></td>
+<td><p>2020年1月1日</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -949,7 +949,7 @@
 </tr>
 <tr class="even">
 <td><p>91</p></td>
-<td><p>2020年1月4日</p></td>
+<td><p>2020年1月3日</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -957,6 +957,15 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>92</p></td>
+<td><p>2020年1月4日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>

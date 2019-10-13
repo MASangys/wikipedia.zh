@@ -239,9 +239,10 @@ LineData =
   - 2016年巡迴演唱會「2016 WINNER EXIT TOUR」
   - 2016年巡迴演唱會「WINNER JAPAN TOUR 2016」
   - 2017年巡迴見面會「WINNER FANEVENT 2017 IN JAPAN」
-  - 2018年巡迴演唱会「WINNER JAPAN TOUR 2018 ～We'll always be young～」
-  - 2018年巡迴演唱会「2018 WINNER EVERYWHERE TOUR」
+  - 2018年巡迴演唱會「WINNER JAPAN TOUR 2018 ～We'll always be young～」
+  - 2018年巡迴演唱会會「2018 WINNER EVERYWHERE TOUR」
   - 2019年巡迴演唱会「2019 WINNER EVERYWHERE TOUR in North America」
+  - 2019年巡迴演唱會「2019 WINNER CROSS TOUR」
 
 ## 廣告代言及宣傳
 

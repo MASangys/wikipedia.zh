@@ -902,7 +902,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://mfbunkoj.jp/product/321807000183.html"></a></p></td>
-<td><p>預定2019年4月25日</p></td>
+<td><p>2019年4月25日</p></td>
 <td><p>ISBN 978-4-04-065243-6</p></td>
 <td></td>
 </tr>

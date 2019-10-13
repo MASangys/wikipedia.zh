@@ -3,12 +3,12 @@
 ## 底十字（Cross）
 
 首先從[配色中](https://zh.wikipedia.org/wiki/魔術方塊 "wikilink")，選出一個顏色作為基準，當作底面。一般在初學時，這個顏色是固定的；等到熟練時，可以練習**雙十字**或是**多十字**，在[速解魔方](../Page/速解魔方.md "wikilink")時，選擇最有利的顏色出發。多數人偏好選擇**白色**或是**黃色**。
-決定顏色以後便不能隨意更改，此時僅考慮**底面**和其相鄰四面[邊塊的](https://zh.wikipedia.org/wiki/魔術方塊 "wikilink")，而無需顧慮其他部分，將方塊轉動至如圖所示的情況 \[<http://www.ryanheise.com/AnimCube.html?width=600&height=600&colorscheme=bwygor&bgcolor=FFFFFF&butbgcolor=99AACC&&position=LLUU&edit=0&facelets=xwxwwwxwxxxxxxxxxxxxxbbxxxxxxxggxxxxxoxxoxxxxxxxrrxxxx>[CFOP_cross.png](https://zh.wikipedia.org/wiki/File:CFOP_cross.png "fig:CFOP_cross.png")\]。
+決定顏色以後便不能隨意更改，此時僅考慮**底面**和其相鄰四面[邊塊的](https://zh.wikipedia.org/wiki/邊_\(魔術方塊\) "wikilink")，而無需顧慮其他部分，將方塊轉動至如圖所示的情況 \[<http://www.ryanheise.com/AnimCube.html?width=600&height=600&colorscheme=bwygor&bgcolor=FFFFFF&butbgcolor=99AACC&&position=LLUU&edit=0&facelets=xwxwwwxwxxxxxxxxxxxxxbbxxxxxxxggxxxxxoxxoxxxxxxxrrxxxx>[CFOP_cross.png](https://zh.wikipedia.org/wiki/File:CFOP_cross.png "fig:CFOP_cross.png")\]。
 通常，在有觀察的情況，這個步驟可以在七步以內矇眼完成，且完成後白色面朝下。
 
 ## 下兩層（F2L）
 
-下兩層此時被十字劃分為四個區域，四個[角塊及其相對應的四個](https://zh.wikipedia.org/wiki/魔術方塊 "wikilink")[邊塊](https://zh.wikipedia.org/wiki/魔術方塊 "wikilink")。每一組（一邊一角）被稱作為「**柱**」（pair），這個步驟要完成的便是**四柱**（這裡不是指[四柱](https://zh.wikipedia.org/wiki/四柱 "wikilink")）。
+下兩層此時被十字劃分為四個區域，四個[角塊及其相對應的四個](https://zh.wikipedia.org/wiki/魔術方塊 "wikilink")[邊塊](https://zh.wikipedia.org/wiki/邊_\(魔術方塊\) "wikilink")。每一組（一邊一角）被稱作為「**柱**」（pair），這個步驟要完成的便是**四柱**（這裡不是指[四柱](https://zh.wikipedia.org/wiki/四柱 "wikilink")）。
 傳統的做法先完成第一層，再完成第二層。此時注意到，每次要組合第二層時，都會先將第一層破壞，然後復原，有許多移動被重複多次（浪費時間），因此F2L的觀念產生了。
 
 **「設法在不破壞其他已完成部分，將一柱轉成[[CFOP_F2L_type1.png](https://zh.wikipedia.org/wiki/File:CFOP_F2L_type1.png "fig:CFOP_F2L_type1.png")](http://www.ryanheise.com/AnimCube.html?width=600&height=600&colorscheme=bwygor&bgcolor=FFFFFF&butbgcolor=99AACC&&position=LLUU&edit=0&movetext=1&facelets=xxxxxxxxxxwxwwwwwxxxxxggxggxxxxbbxxxxxxxoxxoxxrrxrrxxx&initrevmove=URU'R'&move=URU'R'&demo=%23)或\[<http://www.ryanheise.com/AnimCube.html?width=600&height=600&colorscheme=bwygor&bgcolor=FFFFFF&butbgcolor=99AACC&&position=LLUU&edit=0&movetext=1&facelets=xxxxxxxxxxwxwwwwwxxxxxggxggxxxxbbxxxxxxxoxxoxxrrxrrxxx&initrevmove=RUR'&move=RUR'&demo=%23>[CFOP_F2L_type2.png](https://zh.wikipedia.org/wiki/File:CFOP_F2L_type2.png "fig:CFOP_F2L_type2.png")\]。」**

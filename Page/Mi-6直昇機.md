@@ -78,6 +78,8 @@ Mi-6P民用客機的貨機版
 
 1970年中國想自行研製大型運輸直昇機，想以Mi-6作為參考，故第二次向蘇聯購買3架Mi-6，此3架Mi-6於1971年10月22日到達，隨同還有4部發動機和3個螺旋槳等備份零件，蘇聯也派來了4名技術人員作技術支援，後來經中方有關技術人員評定要仿製Mi-6有一定難度而作罷，此3架Mi-6被派去[武漢軍區服役](https://zh.wikipedia.org/wiki/武漢軍區 "wikilink")，現已全部退役，其中一架被放在位於北京的[中國航空博物館](https://zh.wikipedia.org/wiki/中國航空博物館 "wikilink")。\[1\]
 
+## 圖片
+
 [File:KazakhstanMi-6(DF-SD-01-06280).jpg|Mi-6傘兵跳下](File:KazakhstanMi-6\(DF-SD-01-06280\).jpg%7CMi-6傘兵跳下) [File:Mil-6.seite.jpg|Mi-6的側門](File:Mil-6.seite.jpg%7CMi-6的側門) <File:DATANGSHAN> CHINA AVIATION MUSEUM BEIJING OCT 2012 6 (8271422593).jpg|中國航空博物館的Mi-6 <File:THE> DATANSHAN AVIATION MUSEUM BEIJING CHINA OCT 2012 (8181901192).jpg|中國航空博物館的Mi-6 <File:Flugausstellung> Hermeskeil MIL MI 6 A - 3 - Flickr - KlausNahr.jpg|Mi-6民用無短翼版
 
 ## 使用國家

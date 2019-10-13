@@ -100,7 +100,7 @@
 
   - **戴安娜**（、Diana）
     [配音員](../Page/配音員.md "wikilink")：日本：[宍戶留美](../Page/宍戶留美.md "wikilink")／香港：[黃淑芬](../Page/黃淑芬.md "wikilink")
-    黑貓，喜歡迪安。
+    貴族黑貓，迪安的女朋友。
 
 <!-- end list -->
 
@@ -140,6 +140,7 @@
     在52話再回到sunshine學園幫助露比打敗黑朱女王。
   - **迪安**（、Dian）
     [配音員](../Page/配音員.md "wikilink")：日本：[福山潤](../Page/福山潤.md "wikilink")／香港：[黃啟昌](https://zh.wikipedia.org/wiki/黃啟昌 "wikilink")
+    著名偶像歌手。佳娜德的前度男朋友，後與佳娜德分手，並與戴安娜復合。(第25話)
 
 ### 其他寶石寵物
 

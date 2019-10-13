@@ -66,6 +66,8 @@
 
 2019年4月，OPPO發布智慧型手機[OPPO Reno](../Page/OPPO_Reno.md "wikilink")、[OPPO Reno 10倍變焦版](../Page/OPPO_Reno.md "wikilink")
 
+2019年9月，OPPO發布智慧型手機[OPPO Reno2](https://zh.wikipedia.org/wiki/OPPO_Reno2 "wikilink")。
+
 ## 產品列表
 
 ### Find系列
@@ -114,7 +116,7 @@ OPPO R系列
 
 ### F系列
 
-F系列為OPPO的中端手機系列，宣傳以前置相機自拍美顏為主要特色。從2015年發表的首支手機開始，共有F1、F1s、F1 Plus、F3、F3 Plus、[F5](https://zh.wikipedia.org/wiki/OPPO_A75 "wikilink")、[F5 Youth](../Page/OPPO_A73.md "wikilink")、F7 、[F7 Youth](../Page/OPPO_A73s.md "wikilink") 、 F9（F9 Pro）和 F11 Pro。
+F系列為OPPO的中端手機系列，以前置相機自拍美顏為主要特色。從2015年發表的首支手機開始，共有F1、F1s、F1 Plus、F3、F3 Plus、[F5](https://zh.wikipedia.org/wiki/OPPO_A75 "wikilink")、[F5 Youth](../Page/OPPO_A73.md "wikilink")、F7 、[F7 Youth](../Page/OPPO_A73s.md "wikilink") 、 F9（F9 Pro）和 F11 Pro。
 
 值得注意的是，R9與F1 Plus為同款手機，僅因區分各國市場而在不同國家而有不同稱呼。為了全球命名統一化及市場區隔，F系列自F3開始，均只有在[越南](https://zh.wikipedia.org/wiki/越南 "wikilink")、[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")、[菲律賓等國家販售](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")。未來在[中國大陸](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")、[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[澳洲和](https://zh.wikipedia.org/wiki/澳洲 "wikilink")[紐西蘭市場都不會有F系列之手機](https://zh.wikipedia.org/wiki/紐西蘭 "wikilink")，取而代之的是A系列。
 

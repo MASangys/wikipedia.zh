@@ -168,7 +168,7 @@
 <p>磯貝邦光</p></td>
 <td><center>
 <p><a href="../Page/李錦綸_(配音員).md" title="wikilink">李錦綸</a></p></td>
-<td><p>45歲，離開三木的事務所的所谓老手律師，在法庭上没有一次靠谱的表现。被三木律師稱為廢物的男人。</p></td>
+<td><p>45歲，離開三木律師事務所的老手律師，號稱刑事部門的王牌，但實際上卻被三木當成敗戰處理投手使用。</p></td>
 <td><center>
 <p>第2季、特別篇2</p></td>
 </tr>
@@ -385,7 +385,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/友近" title="wikilink">友近</a></p></td>
+<p><a href="../Page/友近.md" title="wikilink">友近</a></p></td>
 <td><center>
 <p>柊靜香</p></td>
 <td><center>
@@ -1972,7 +1972,7 @@
 <td></td>
 <td><p>著作權訴訟案有利可圖!?</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/福田沙紀" title="wikilink">福田沙紀</a><br />
-<a href="https://zh.wikipedia.org/wiki/友近" title="wikilink">友近</a><br />
+<a href="../Page/友近.md" title="wikilink">友近</a><br />
 <a href="../Page/洼田正孝.md" title="wikilink">洼田正孝</a></p></td>
 <td><p>12.1%</p></td>
 <td></td>

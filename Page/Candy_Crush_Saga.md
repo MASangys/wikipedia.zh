@@ -20,9 +20,7 @@ Candy Crush Saga是以[糖果](../Page/糖果.md "wikilink")爲主題，基本�
   - [泡泡糖巨魔](https://zh.wikipedia.org/wiki/泡泡糖 "wikilink")（Bubblegum Troll）
   - 巨龙：主要人物，首次出现在第三篇章（黃金湖）。
 
-## 電腦版本
-
-[250px](https://zh.wikipedia.org/wiki/檔案:Candy_crush_at_PC.PNG "wikilink")
+電腦版本[250px](https://zh.wikipedia.org/wiki/檔案:Candy_crush_at_PC.PNG "wikilink")
 
 只要把糖果大爆險和[Facebook](../Page/Facebook.md "wikilink")連結，便可以在個人電腦上玩這個遊戲。有將近3千萬人讚好糖果大爆險在Facebook的應用程序頁面。它是Facebook上最流行的應用程序。\[13\]
 
@@ -30,7 +28,7 @@ Candy Crush Saga是以[糖果](../Page/糖果.md "wikilink")爲主題，基本�
 
 ## Candy Crush Saga Dreamworld
 
-這是Candy Crush Saga的夜間版，與Candy Crush Saga的玩法會不同。這個模式已被刪除。該遊戲規則是一隻貓頭鷹站立月亮翹翹板，依照糖果的顏色計以重量，如果顏色糖果數量比較重的話貓頭鷹會掉下去，然後遊戲會強制結束；要是糖果消除到一定指數時，Moon Struck就會發動，一定移動數目內糖果就會減少一色。[Woman_playing_Candy_Crush_Saga_on_iPad.jpg](https://zh.wikipedia.org/wiki/File:Woman_playing_Candy_Crush_Saga_on_iPad.jpg "fig:Woman_playing_Candy_Crush_Saga_on_iPad.jpg")
+這是Candy Crush Saga的夜間版，與Candy Crush Saga的玩法會不同。這個模式已被刪除。該遊戲規則是一隻貓頭鷹站立月亮翹翹板，依照糖果的顏色計以重量，如果顏色糖果數量比較重的話貓頭鷹會掉下去，然後遊戲會強制結束；要是糖果消除到一定指數時，Moon Struck就會發動，一定移動數目內糖果就會減少一色,但現在沒有這個遊戲模式了。[Woman_playing_Candy_Crush_Saga_on_iPad.jpg](https://zh.wikipedia.org/wiki/File:Woman_playing_Candy_Crush_Saga_on_iPad.jpg "fig:Woman_playing_Candy_Crush_Saga_on_iPad.jpg")
 
 ## 外界評價
 

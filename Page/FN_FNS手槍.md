@@ -50,7 +50,7 @@ FNS具有4個標準[保險](../Page/保險.md "wikilink")功能：
   - [FN M1905](https://zh.wikipedia.org/wiki/FN_M1905手槍 "wikilink")
   - [FN M1910](https://zh.wikipedia.org/wiki/FN_M1910手槍 "wikilink")
   - [FN HP](../Page/白朗寧大威力半自動手槍.md "wikilink")
-  - [FN HP-DA](https://zh.wikipedia.org/wiki/白朗寧雙動半自動手槍 "wikilink")
+  - [FN HP-DA](../Page/白朗寧雙動半自動手槍.md "wikilink")
   - [FN Forty-Nine](https://zh.wikipedia.org/wiki/FN_Forty-Nine手槍 "wikilink")
   - [FN Five-seveN](../Page/FN_Five-seveN手槍.md "wikilink")
   - [FN FNP](../Page/FN_FNP手槍.md "wikilink")

@@ -201,6 +201,7 @@
   - 2018年6月22日：[Ailee](https://zh.wikipedia.org/wiki/Ailee "wikilink") & [鄭仁](../Page/鄭仁.md "wikilink") & Gummy The Call Project《Call my name》
   - 2018年6月30日：[鄭仁](../Page/鄭仁.md "wikilink") & Gummy The Call Project《Hot Friend》
   - 2018年6月30日：The Call Artists 《Remember (Prod. [申昇勳](../Page/申昇勳.md "wikilink")》
+  - 2019年9月22日：[金鍾國](https://zh.wikipedia.org/wiki/金鍾國 "wikilink")&[哈哈](https://zh.wikipedia.org/wiki/哈哈 "wikilink")& Gummy《Raise your voice》〈Running Man 9週年特輯〉
 
 ### 被翻唱的華語歌曲
 
@@ -270,8 +271,8 @@
   - 2019年4月4日：tvN《[人生酒館](https://zh.wikipedia.org/wiki/人生酒館 "wikilink")》
   - 2019年4月27日：KBS2 《[不朽的名曲](https://zh.wikipedia.org/wiki/不朽的名曲 "wikilink")》
   - 2019年5月17日：KBS2 《[柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")》
-  - 2019年7月7日:SBS《[Running Man](../Page/Running_Man.md "wikilink")》EP458
-  - 2019年7月14日:SBS《[Running Man](../Page/Running_Man.md "wikilink")》EP459
+  - 2019年7月7、14日：SBS《[Running Man](../Page/Running_Man.md "wikilink")》EP458、459
+  - 2019年9月8、15、22日：SBS《[Running Man](../Page/Running_Man.md "wikilink")》EP467、468、469
 
 ## 演唱會
 

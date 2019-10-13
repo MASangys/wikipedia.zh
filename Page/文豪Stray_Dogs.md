@@ -887,7 +887,7 @@
 
 <!-- end list -->
 
-  - 能力：〖[靈魂的喘息](https://zh.wikipedia.org/wiki/靈魂的喘息 "wikilink")〗
+  - 能力：〖[靈魂的喘息](https://zh.wikipedia.org/wiki/靈魂的喘息 "wikilink")〗，凡被燁子用手觸碰到的人，年齡能隨她的意願變成幼童或老人，適用於拷問、保護同伴，也能施展在自己身上躲過敵人的追擊。
   - 典故：出自日本小說家大倉燁子
 
 <!-- end list -->

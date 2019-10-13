@@ -30,7 +30,7 @@ ChefVille是[Zynga](../Page/Zynga.md "wikilink")其下的第二個餐廳經營�
 ## 外部連結
 
   - [ChefVille](https://web.archive.org/web/20130825010247/https://apps.facebook.com/chefville/)（在Facebook的遊戲入口）
-  - [ChefVille](http://support.zynga.com/home/chefville)（官方客服網站）
+  - [ChefVille](https://web.archive.org/web/20130804004529/http://support.zynga.com/home/chefville)（官方客服網站）
   - [ChefVille](http://www.zyngaplayerforums.com/forumdisplay.php?1653)（官方討論區）
   - [ChefVille - 巴哈姆特](http://forum.gamer.com.tw/A.php?bsn=22818)（非官方討論區）
   - [ChefVille Bonuss](https://archive.is/20131016125234/https://apps.facebook.com/chefvillebonuss/)（自動拾物）

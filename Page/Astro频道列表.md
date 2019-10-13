@@ -14,15 +14,15 @@
 <tbody>
 <tr class="odd">
 <td><p>101</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/马来西亚广播电视" title="wikilink">TV1</a></p></td>
+<td><p><a href="../Page/马来西亚广播电视台.md" title="wikilink">TV1</a></p></td>
 <td><p>1997年4月1日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/马来西亚广播电视" title="wikilink">马来西亚广播电视</a>（Radio Television Malaysia）的首要频道。</p></td>
+<td><p><a href="../Page/马来西亚广播电视台.md" title="wikilink">马来西亚广播电视台</a>（Radio Television Malaysia）的首要频道。</p></td>
 </tr>
 <tr class="even">
 <td><p>102</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/马来西亚广播电视" title="wikilink">TV2</a></p></td>
+<td><p><a href="../Page/马来西亚广播电视台.md" title="wikilink">TV2</a></p></td>
 <td><p>1997年4月1日</p></td>
-<td><p>马来西亚广播电视的第二个频道。<br />
+<td><p>马来西亚广播电视台的第二个频道。<br />
 此频道每天播出华语、英语与淡米尔语新闻，此外还会播放<a href="../Page/好莱坞.md" title="wikilink">好莱坞</a>电影。</p></td>
 </tr>
 <tr class="odd">
@@ -35,19 +35,19 @@
 <td><p>104</p></td>
 <td><p><a href="../Page/Astro_Ria.md" title="wikilink">Astro Ria</a></p></td>
 <td><p>1996年6月1日</p></td>
-<td><p>马来语第一綜合娛樂频道，2003年在<a href="../Page/新加坡.md" title="wikilink">新加坡</a>播出。</p></td>
+<td><p>Astro Ria,为全马来人提供24小时播出的马来频道,是你最优质的马来娱乐频道,节目包括电影,戏剧,综艺,新闻和访谈节目，2003年在<a href="../Page/新加坡.md" title="wikilink">新加坡</a>也有同步播出。</p></td>
 </tr>
 <tr class="odd">
 <td><p>105</p></td>
 <td></td>
 <td><p>2003年10月9日</p></td>
-<td><p>马来语生活時尚和綜合頻道，2012年起在新加坡播出。</p></td>
+<td><p>Astro Prima是马来语生活時尚和綜合頻道,于2003年正式启播,该频道的节目有包含来自Astro Ceria的节目和Astro Ria同步播出的节目,也有播经典电影，新加坡也有包含同步播出。</p></td>
 </tr>
 <tr class="even">
 <td><p>106</p></td>
 <td></td>
 <td><p>2007年10月13日</p></td>
-<td><p>马来语穆斯林宗教频道。</p></td>
+<td><p>马来语穆斯林宗教频道,Astro Oasis全面提供的伊斯兰教的频道,带给马来人的宗教绝对平安</p></td>
 </tr>
 <tr class="odd">
 <td><p>107</p></td>
@@ -71,7 +71,7 @@
 <td><p>110<sub>HD</sub></p></td>
 <td><p>Hello</p></td>
 <td><p>2018年8月7日</p></td>
-<td><p>NJOI首个免费英文频道。</p></td>
+<td><p>Hello是NJOI首个免费英文高清频道。</p></td>
 </tr>
 <tr class="odd">
 <td><p>111</p></td>
@@ -89,7 +89,7 @@
 <td><p>118<sub>HD</sub></p></td>
 <td><p>Astro GO Shop HD（马来语版）</p></td>
 <td><p>2014年11月1日</p></td>
-<td><p>本频道是高清频道，让用户进行电视购物，Go Shop和Astro开办电视购物频道，另外MYTV Broadcasting/MyFreeview频道120(HD)也有同步播出，Astro是一个付费频道和首次推出在MYTV Broadcasting/MyFreeview的免费地面数码电视广播频道。</p></td>
+<td><p>本频道是高清频道，让用户进行电视购物，Go Shop和Astro开办电视购物频道，另外MYTV Broadcasting/MyFreeview频道120(HD)也有同步播出，Astro是一个付费电视频道和首次推出在MYTV Broadcasting/MyFreeview的免费地面数码电视广播频道。</p></td>
 </tr>
 <tr class="even">
 <td><p>119</p></td>
@@ -107,7 +107,7 @@
 <td><p>121<sub>HD</sub></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Astro_Prima" title="wikilink">Astro Prima HD</a></p></td>
 <td><p>2019年1月14日</p></td>
-<td><p>Astro Prima的<a href="https://zh.wikipedia.org/wiki/高清" title="wikilink">高清版本</a>。</p></td>
+<td><p>此频道来自Astro Prima同步高清广播。</p></td>
 </tr>
 <tr class="odd">
 <td><p>122<sub>HD</sub></p></td>
@@ -362,16 +362,16 @@
 <td><p>本频道播出<a href="https://zh.wikipedia.org/wiki/台湾" title="wikilink">台湾衛視中文台节目</a>，衛視中文台是臺灣推出的華語旗艦綜合娛樂頻道，提供豐富節目類型：遊戲節目、訪談節目、時裝劇、偶像劇、卡通動畫，以及綜藝節目等。</p></td>
 </tr>
 <tr class="odd">
-<td><p>316</p></td>
+<td><p>316 (今年12月31日起停播，由Now华剧台取代)</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/中天國際台" title="wikilink">中天亞洲台</a></p></td>
 <td><p>2010年1月1日</p></td>
-<td><p>本频道播出台湾<a href="https://zh.wikipedia.org/wiki/中天电视" title="wikilink">中天电视节目</a>，中天亞洲台提供豐富的綜藝娛樂、華文戲劇以及專業新聞等多元內容，滿足華人社會不同族群的需求，引領觀眾掌握全球脈動。</p></td>
+<td><p>本频道播出台湾<a href="https://zh.wikipedia.org/wiki/中天电视" title="wikilink">中天电视节目</a>，中天亞洲台提供豐富的綜藝娛樂、華文戲劇以及專業新聞等多元內容，滿足華人社會不同族群的需求，引領觀眾掌握全球脈動。因为收视率下跌和版权问题，中天亚洲台于2019年12月31日起停止传输/停播，经过10年历史播出候，中天亚洲台将于在马来西亚地区停播(从2019年12月31日起停止输传/停播)，和Astro NJOI同日停播。由Now华剧台取代。</p></td>
 </tr>
 <tr class="even">
 <td><p>317</p></td>
 <td><p><a href="../Page/TVBS-Asia.md" title="wikilink">TVBS-Asia</a></p></td>
 <td><p>2002年1月12日</p></td>
-<td><p>本频道播出台湾<a href="https://zh.wikipedia.org/wiki/TVBS" title="wikilink">TVBS节目</a>，TVBS Asia頻道是海外華人最喜愛的綜合頻道之一，致力全天候為全球華人觀眾送上台灣最精緻、最多元、最活潑的娛樂資訊節目，豐富多樣的內容，24小時不間斷放送到亞洲多個地區。。</p></td>
+<td><p>本频道播出台湾<a href="https://zh.wikipedia.org/wiki/TVBS" title="wikilink">TVBS节目</a>，TVBS Asia頻道是海外華人最喜愛的綜合頻道之一，致力全天候為全球華人觀眾送上台灣最精緻、最多元、最活潑的娛樂資訊節目，豐富多樣的內容，24小時不間斷放送到亞洲多個地區。</p></td>
 </tr>
 <tr class="odd">
 <td><p>321</p></td>
@@ -841,7 +841,7 @@ Fox Action Movies 為追求刺激的觀眾提供日以繼夜無間斷的狂飆�
 </tr>
 <tr class="even">
 <td><p>570<sub>HD</sub></p></td>
-<td><p>Nat Geo Wild HD</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Nat_Geo_Wild" title="wikilink">Nat Geo Wild</a> HD</p></td>
 <td><p>2019年3月1日</p></td>
 <td><p>Nat Geo Wild高清版本。</p></td>
 </tr>
@@ -943,7 +943,7 @@ Fox Action Movies 為追求刺激的觀眾提供日以繼夜無間斷的狂飆�
 </tr>
 <tr class="odd">
 <td><p>703</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/AFC_(Asian_Food_Channel)" title="wikilink">AFC (Asian Food Channel)</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/AFC" title="wikilink">Asian Food Channel</a></p></td>
 <td><p>2007年10月13日</p></td>
 <td><p>亞洲美食台全日 24 小時為你呈獻精選飲食節目，並以其地方語言播出，帶你搜羅區內的佳餚美食，讓你食指大動！</p></td>
 </tr>
@@ -1051,7 +1051,7 @@ Fox Action Movies 為追求刺激的觀眾提供日以繼夜無間斷的狂飆�
 </tr>
 <tr class="odd">
 <td><p>730<sub>HD</sub></p></td>
-<td><p>AFC HD (Asian Food Channel HD)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/AFC_HD" title="wikilink">Asian Food Channel</a> HD</p></td>
 <td><p>2019年3月1日</p></td>
 <td><p>AFC HD (Asian Food Channel HD)高清版本。</p></td>
 </tr>
@@ -1075,7 +1075,7 @@ Fox Action Movies 為追求刺激的觀眾提供日以繼夜無間斷的狂飆�
 </tr>
 <tr class="odd">
 <td><p>800<sub>HD</sub></p></td>
-<td><p>eGG</p></td>
+<td><p>eGG Network</p></td>
 <td><p>2016年6月7日</p></td>
 <td><p>本频道是国际<a href="../Page/电子竞技.md" title="wikilink">电子游戏高清频道</a>。</p></td>
 </tr>
@@ -1118,7 +1118,7 @@ Fox Action Movies 為追求刺激的觀眾提供日以繼夜無間斷的狂飆�
 <tr class="even">
 <td><p>815<sub>HD</sub></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Fox_Sports" title="wikilink">FOX Sports HD</a></p></td>
-<td></td>
+<td><p>2011年</p></td>
 <td><p>本频道是FOX首个高清体育频道，与FOX Sports同步播出。</p></td>
 </tr>
 <tr class="odd">
@@ -1135,13 +1135,13 @@ Fox Action Movies 為追求刺激的觀眾提供日以繼夜無間斷的狂飆�
 </tr>
 <tr class="odd">
 <td><p>818<sub>HD</sub></p></td>
-<td><p>BeIN Sports HD</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BeIN_Sports_HD" title="wikilink">BeIN Sports HD</a></p></td>
 <td><p>2016年8月1日</p></td>
 <td><p>本频道高清播出欧洲的足球赛事体育频道。</p></td>
 </tr>
 <tr class="even">
 <td><p>819<sub>HD</sub></p></td>
-<td><p>BeIN Sports MAX HD</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BeIN_Sports_MAX_HD" title="wikilink">BeIN Sports MAX HD</a></p></td>
 <td><p>2018年12月6日</p></td>
 <td><p>本频道高清播出欧洲的足球赛事体育频道。</p></td>
 </tr>
@@ -1154,8 +1154,8 @@ Fox Action Movies 為追求刺激的觀眾提供日以繼夜無間斷的狂飆�
 <tr class="even">
 <td><p>821<sub>HD</sub></p></td>
 <td><p><a href="../Page/世界摔角娛樂網路服務.md" title="wikilink">WWE Network HD</a></p></td>
-<td></td>
-<td><p>美国世界摔角娱乐（WWE）公司以订阅为基础的视频流媒体服务的高清版本。</p></td>
+<td><p>2015年8月31日</p></td>
+<td><p>美国世界摔角娱乐（WWE）公司以订阅为基础的视频流媒体服务的高清版本，与WWE Network同步播出。</p></td>
 </tr>
 <tr class="odd">
 <td><p>822<sub>HD</sub></p></td>
@@ -1177,7 +1177,7 @@ Fox Action Movies 為追求刺激的觀眾提供日以繼夜無間斷的狂飆�
 </tr>
 <tr class="even">
 <td><p>825<sub>HD</sub></p></td>
-<td><p>BeIN Sports Rugby HD</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BeIN_Sports_Rugby_HD" title="wikilink">BeIN Sports Rugby HD</a></p></td>
 <td><p>2019年8月31日</p></td>
 <td><p>本频道高清播出欧洲的足球赛事体育频道。</p></td>
 </tr>
@@ -1220,7 +1220,7 @@ Fox Action Movies 為追求刺激的觀眾提供日以繼夜無間斷的狂飆�
 <tr class="odd">
 <td><p>837</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Fox_Sports" title="wikilink">FOX Sports 3</a></p></td>
-<td></td>
+<td><p>2014年11月1日</p></td>
 <td><p>FOX SPORTS 3全日24小時高清播放緊張刺激賽車和極限運動, 主要直播賽事包括: Formula E電動方程式賽車, 全美房車大賽, 世界超級電單車錦標賽, 以及自由搏擊及經典拳擊。</p></td>
 </tr>
 <tr class="even">
@@ -1232,7 +1232,7 @@ Fox Action Movies 為追求刺激的觀眾提供日以繼夜無間斷的狂飆�
 <tr class="odd">
 <td><p>841</p></td>
 <td><p><a href="../Page/世界摔角娛樂網路服務.md" title="wikilink">WWE Network</a></p></td>
-<td></td>
+<td><p>2015年8月31日</p></td>
 <td><p>美国世界摔角娱乐（WWE）公司以订阅为基础的视频流媒体服务。</p></td>
 </tr>
 </tbody>
@@ -1249,39 +1249,63 @@ Fox Action Movies 為追求刺激的觀眾提供日以繼夜無間斷的狂飆�
 | K-Plus                                              | 2017年4月1日                                                                             | KPLUS韩国娱乐频道播出韩国娱乐节目，以及韩国四大台（如[OCN](https://zh.wikipedia.org/wiki/OCN "wikilink")、[JTBC](../Page/JTBC.md "wikilink")等）外的韩国戏剧、综艺、流行音乐节目等。 |
 |                                                     |                                                                                       |                                                                                                                                         |
 
+## 即将启播频道
+
+**即将来临启播频道**
+
+  - Astro 小太阳 HD (CH 371 HD) \[2019年底开播\]
+  - Astro Ceria HD (CH 608 HD) \[2019年底开播\]
+  - 优酷频道 (CH 308 HD，预定取代Astro全佳HD，2020年开播)
+  - RED By HBO (CH 337 HD)
+  - now华剧台 (CH 316 HD ，预定取代中天亚洲台)
+
+**即将升级至高清频道(2019年9月30日开播)**
+
+  - TV1 HD (CH101)
+  - TV2 HD (CH102)
+  - TV3 HD (CH103)
+  - NTV7 HD (CH107)
+  - 八度空间 HD (CH708)
+  - TV9 HD (CH119)
+  - RTM TV OKEY HD (CH109)
+  - BNC (Bernama News Channel) (CH502)
+
 ## 已停播频道
 
-| 频道                               | 标志／名字                                                            | 停播日期           | 详细                                                                                                                           |
-| -------------------------------- | ---------------------------------------------------------------- | -------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| 108                              | Zee Variasi                                                      | 2016年10月1日     | 2016年10月19日起由Tara HD代替，2019年10月1日起再由Colors Hindi HD代替。                                                                       |
-| 109                              | Astro @15                                                        | 2012年5月1日      | Astro宣布停播，因为收视率下跌的问题而宣布停播。2017年4月1日，由RTM TV5 (现在RTM TV OKEY)取代。原为频道180，2017年4月1日起RTM TV5 (现在RTM TV OKEY)频道改为频道109。频道180已经停播。 |
-| 121                              | Astro Aruna                                                      | 2010年2月        | 2011年由Bintang和Pelangi代替。                                                                                                     |
-| 122                              | Astro Kirana                                                     | 2009年5月18日     | 因无人观看而停播，其他电影由Astro Citra取代。                                                                                                 |
-| 133                              | Astro Bella                                                      | 2018年10月1日     | Astro取消連續劇購入，其他本地連續劇以及外語連續劇全數購入予Astro Prima，由Naura HD（125频道）取代。                                                              |
-| 134<sub>HD</sub>                 | [Astro Mustika HD](../Page/Astro_Mustika_HD.md "wikilink")       | 2018年10月1日     | 更名为Astro Citra HD，并更改至126频道。                                                                                                 |
-| 135<sub>HD</sub>                 | [Astro Maya HD](../Page/Astro_Maya_HD.md "wikilink")             | 2019年1月13日     | 分拆为Astro Prima HD 和 Astro Oasis HD。                                                                                          |
-| 232<sub>HD</sub>                 | Zee Tamil HD                                                     | 2019年3月1日      | 由于版权问题和拖延缴费，Zee TV Company正式发出警告信以停止传输，Zee Tamil與Astro在五个月半内合約結束。由Star Vijay HD 代替。                                          |
-| 300<sub>HD</sub>                 | [Astro喜悦HD](../Page/Astro喜悦HD.md "wikilink")                     | 2019年7月1日      | Astro喜悦HD頻道已停播, 由爱奇艺取代。                                                                                                      |
-| 304                              | [家娱频道](https://zh.wikipedia.org/wiki/家娱频道 "wikilink")            | 2014年4月1日      | 翌月由[嘉丽台代替](https://zh.wikipedia.org/wiki/嘉丽台 "wikilink")。                                                                    |
-| [嘉麗台](../Page/嘉麗台.md "wikilink") | 2017年10月1日                                                       | 嘉麗台與Astro暫停合作。 |                                                                                                                              |
-| 308<sub>HD</sub>                 | [Astro全佳HD](../Page/Astro全佳HD.md "wikilink")                     | 2020年          | 频道停播由于收视率下跌，由优酷频道HD取代。                                                                                                       |
-| 313                              | [TVB8](../Page/TVB8.md "wikilink")                               | 2010年7月1日      | 由[TVB娱乐新闻台代替](https://zh.wikipedia.org/wiki/TVB娱乐新闻台 "wikilink")。                                                            |
-| 315                              | Wa\! TV                                                          | 2012年4月1日      | Wa\!TV频道与湖南卫视合约结束而宣布停播,。2015年9月由[卫视中文台代替](https://zh.wikipedia.org/wiki/卫视中文台 "wikilink")。                                   |
-| 316                              | [东森亚洲台](../Page/東森亞洲衛視.md "wikilink")                            | 2009年12月31日    | 翌日由[中天亚洲台代替](https://zh.wikipedia.org/wiki/中天亚洲台 "wikilink")。                                                                |
-| 438<sub>HD</sub>                 | Sundance Channel                                                 | 2016年7月1日      | SunDance Channel和Astro合约结束。                                                                                                  |
-| 456<sub>HD</sub>                 | A-List HD                                                        | 2019年8月2日      | 频道停播因收视率下降和转至自家Astro OD点播服务。                                                                                                 |
-| 514                              | Astro News                                                       | 2009年3月1日      | 由于收视率下跌的问题, 该频道将宣布停播。                                                                                                        |
-| 617                              | [Disney XD](https://zh.wikipedia.org/wiki/Disney_XD "wikilink")  | 2019年3月1日      | 停播标清版本。                                                                                                                      |
-| 619                              | ZooMoo                                                           | 2018年4月1日      | 由于收视率下跌的问题和ZooMoo與Astro合約結束而停播。                                                                                              |
-| 705                              | Astro Hitz                                                       | 2016年5月16日     | Astro決定停播。                                                                                                                   |
-| 709<sub>HD</sub>                 | Lifetime                                                         | 2018年12月14日    | 由于收视率下跌的问题和Lifetime與Astro合約結束而停播。                                                                                            |
-| 711                              | [Star World](https://zh.wikipedia.org/wiki/卫视合家欢台 "wikilink")    | 2017年9月30日     | 2017年10月1日由[FOX Life (亚洲)代替](https://zh.wikipedia.org/wiki/FOX_Life_\(亚洲\) "wikilink")。                                      |
-| 722<sub>HD</sub>                 | [Star World HD](https://zh.wikipedia.org/wiki/卫视合家欢台 "wikilink") | 2017年9月30日     | 开台日期从2011年12月26日至2017年9月30日，10月1日起由[Fox Life代替](https://zh.wikipedia.org/wiki/FOX_Life_\(亚洲\) "wikilink")。                   |
-| 728<sub>HD</sub>                 | Life Inspired HD                                                 | 2017年10月7日     | Life lnspired与Astro合约结束，由TLC HD取代。                                                                                           |
-| 733                              | EVE                                                              | 2018年11月1日     | Eve與Astro合約結束，部分內容由TLC接替。                                                                                                    |
-| 735                              | ITV Choice                                                       | 2017年1月16日     | ITV Choice與Astro合約結束，(已於2019年8月20日起全球停播)。                                                                                    |
-| 736                              | fyi                                                              | 2018年12月14日    | FYI與Astro合約結束 (已於2019年6月30日起亞洲區频道停播)。                                                                                        |
-| 737<sub>HD</sub>                 | Go Asean HD                                                      | 2017年6月12日     | Go Asean与Astro合约结束。(频道已停播)。                                                                                                  |
+| 频道                                                      | 标志／名字                                                            | 停播日期                   | 详细                                                                                                         |
+| ------------------------------------------------------- | ---------------------------------------------------------------- | ---------------------- | ---------------------------------------------------------------------------------------------------------- |
+| 108                                                     | Zee Variasi                                                      | 2016年10月1日             | 2016年10月19日起由Tara HD代替。                                                                                    |
+| Tara HD                                                 | 2019年10月1日                                                       | 同日再由Colors Hindi HD代替。 |                                                                                                            |
+| 109                                                     | Astro @15                                                        | 2012年5月1日              | Astro宣布停播，因为收视率下跌的问题而宣布停播。2017年4月1日起，由RTM TV5 (现名为RTM TV OKEY)取代。                                          |
+| 121                                                     | Astro Aruna                                                      | 2010年2月                | 2011年由Bintang和Pelangi代替。                                                                                   |
+| 122                                                     | Astro Kirana                                                     | 2009年5月18日             | 因无人观看而停播，其他电影由Astro Citra取代。                                                                               |
+| 133                                                     | Astro Bella                                                      | 2018年10月1日             | Astro取消連續劇購入，其他本地連續劇以及外語連續劇全數購入予Astro Prima，由Naura HD (频道125)取代。                                           |
+| 134<sub>HD</sub>                                        | [Astro Mustika HD](../Page/Astro_Mustika_HD.md "wikilink")       | 2018年10月1日             | 更名为Astro Citra HD，并更改至频道126。                                                                               |
+| 135<sub>HD</sub>                                        | [Astro Maya HD](../Page/Astro_Maya_HD.md "wikilink")             | 2019年1月13日             | 由Astro Prima HD(频道121)和Astro Oasis HD(频道122)取代。                                                            |
+| 180                                                     | RTM TVi                                                          | 2017年3月31日             | 更改至频道109和改名为RTM TV5开播8天后和又宣布停播和又来开播回去RTM TVi，2018年3月21日起RTM TVi晚上8点和2018年3月22日清晨12点起停播，由RTM TV OKEY取代。     |
+| 232<sub>HD</sub>                                        | Zee Tamil HD                                                     | 2019年3月1日              | 由于版权问题和拖延缴费，Zee TV Company正式发出警告信以停止传输，Zee Tamil與Astro在五个月半内合約結束。由Star Vijay HD 代替。                        |
+| 300<sub>HD</sub>                                        | [Astro喜悦HD](../Page/Astro喜悦HD.md "wikilink")                     | 2019年7月1日              | Astro喜悦HD頻道已停播，由爱奇艺取代。                                                                                     |
+| 304                                                     | [家娱频道](https://zh.wikipedia.org/wiki/家娱频道 "wikilink")            | 2014年4月1日              | 由[嘉丽台代替](https://zh.wikipedia.org/wiki/嘉丽台 "wikilink")。                                                    |
+| [嘉麗台](../Page/嘉麗台.md "wikilink")                        | 2017年10月1日                                                       | 嘉麗台與Astro暫停合作。         |                                                                                                            |
+| 308<sub>HD</sub>                                        | [Astro全佳HD](../Page/Astro全佳HD.md "wikilink")                     | 2020年                  | 频道停播由于收视率下跌，由优酷频道HD取代。                                                                                     |
+| 313                                                     | [TVB8](../Page/TVB8.md "wikilink")                               | 2010年7月1日              | 由[TVB娱乐新闻台代替](https://zh.wikipedia.org/wiki/TVB娱乐新闻台 "wikilink")。                                          |
+| 315                                                     | Wa\! TV                                                          | 2012年4月1日              | Wa\!TV频道与湖南卫视合约结束而宣布停播,。2015年9月由[卫视中文台代替](https://zh.wikipedia.org/wiki/卫视中文台 "wikilink")。                 |
+| 316                                                     | [东森亚洲台](../Page/東森亞洲衛視.md "wikilink")                            | 2009年12月31日            | 由[中天亚洲台代替](https://zh.wikipedia.org/wiki/中天亚洲台 "wikilink")。                                                |
+| [中天亚洲台](https://zh.wikipedia.org/wiki/中天亚洲台 "wikilink") | 2019年12月31日                                                      | 今年12月31日再由Now华剧台取代。    |                                                                                                            |
+| 438<sub>HD</sub>                                        | Sundance Channel                                                 | 2016年7月1日              | SunDance Channel和Astro合约结束。                                                                                |
+| 456<sub>HD</sub>                                        | A-List HD                                                        | 2019年8月2日              | 频道停播因收视率下降和转至自家Astro OD点播服务。                                                                               |
+| 514                                                     | Astro News                                                       | 2009年3月1日              | 由于收视率下跌的问题，该频道将宣布停播。                                                                                       |
+| 617                                                     | [Disney XD](https://zh.wikipedia.org/wiki/Disney_XD "wikilink")  | 2019年3月1日              | Astro和美国Disney(迪士尼)旗下迪士尼卡通动漫片有限公司宣布停播标清版本，其他的节目由Disney XD HD(频道637)接替继续播出。                                 |
+| 619                                                     | ZooMoo                                                           | 2018年4月1日              | 由于收视率下跌的问题和ZooMoo與Astro合約結束而停播。                                                                            |
+| 705                                                     | Astro Hitz                                                       | 2016年5月16日             | Astro決定停播，因为收视率下跌的问题而停播。                                                                                   |
+| 709<sub>HD</sub>                                        | Lifetime                                                         | 2018年12月14日            | 由于收视率下跌的问题和Lifetime與Astro合約結束而停播。                                                                          |
+| 711                                                     | [Star World](https://zh.wikipedia.org/wiki/卫视合家欢台 "wikilink")    | 2017年9月30日             | 2017年10月1日由[FOX Life (亚洲)代替](https://zh.wikipedia.org/wiki/FOX_Life_\(亚洲\) "wikilink")。                    |
+| 722<sub>HD</sub>                                        | [Star World HD](https://zh.wikipedia.org/wiki/卫视合家欢台 "wikilink") | 2017年9月30日             | 开台日期从2011年12月26日至2017年9月30日，10月1日起由[Fox Life代替](https://zh.wikipedia.org/wiki/FOX_Life_\(亚洲\) "wikilink")。 |
+| 728<sub>HD</sub>                                        | Life Inspired HD                                                 | 2017年10月7日             | Life lnspired与Astro合约结束，由TLC HD取代。                                                                         |
+| 733                                                     | EVE                                                              | 2018年11月1日             | Eve與Astro合約結束，部分內容由TLC接替。                                                                                  |
+| 735                                                     | ITV Choice                                                       | 2017年1月16日             | ITV Choice與Astro合約結束，(已於2019年8月20日起全球停播)。                                                                  |
+| 736                                                     | FYI Asia                                                         | 2018年12月14日            | FYI Asia與Astro合約结束，(已於2019年6月30日起亞洲區频道停播)。                                                                 |
+| 737<sub>HD</sub>                                        | Go Asean HD                                                      | 2017年6月12日             | Go Asean与Astro合约结束。(频道已停播)。                                                                                |
 
 ## Astro所有电台频道
 
@@ -1313,7 +1337,7 @@ Fox Action Movies 為追求刺激的觀眾提供日以繼夜無間斷的狂飆�
 | 875 | Asyik FM                                       | [马来文](https://zh.wikipedia.org/wiki/马来文 "wikilink")                                                                                                     | [Image:Checkbox_-_2.png](https://zh.wikipedia.org/wiki/File:Checkbox_-_2.png "fig:Image:Checkbox_-_2.png") | [Image:Checkbox_-_2.png](https://zh.wikipedia.org/wiki/File:Checkbox_-_2.png "fig:Image:Checkbox_-_2.png")   |
 | 876 | Zayan                                          | [马来文](https://zh.wikipedia.org/wiki/马来文 "wikilink")                                                                                                     | [Image:Checkbox_-_2.png](https://zh.wikipedia.org/wiki/File:Checkbox_-_2.png "fig:Image:Checkbox_-_2.png") | [Image:Checkbox_-_2.png](https://zh.wikipedia.org/wiki/File:Checkbox_-_2.png "fig:Image:Checkbox_-_2.png")   |
 | 877 | [Go Xuan](../Page/GoXuan_\(电台\).md "wikilink") | [中文](https://zh.wikipedia.org/wiki/中文 "wikilink")                                                                                                       | [Image:Checkbox_-_2.png](https://zh.wikipedia.org/wiki/File:Checkbox_-_2.png "fig:Image:Checkbox_-_2.png") | [Image:Checkbox_-_2.png](https://zh.wikipedia.org/wiki/File:Checkbox_-_2.png "fig:Image:Checkbox_-_2.png")   |
-| 882 | Astro Arena Radio                              | 马来文                                                                                                                                                     |                                                                                                              |                                                                                                                |
+| 882 | Astro Arena Radio                              | [马来文](https://zh.wikipedia.org/wiki/马来文 "wikilink")                                                                                                     |                                                                                                              | [Image:Checkbox_-_2.png](https://zh.wikipedia.org/wiki/File:Checkbox_-_2.png "fig:Image:Checkbox_-_2.png")   |
 
 ## 参见
 

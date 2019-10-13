@@ -19,15 +19,13 @@ WWE SmackDown原本是和另一間職業摔角公司世界冠軍摔角（World C
   - [WWE SmackDown女子冠軍](https://zh.wikipedia.org/wiki/WWE_SmackDown女子冠軍 "wikilink")
       - [Bayley](https://en.m.wikipedia.org/wiki/Bayley_\(wrestler\))
   - [WWE洲際冠軍](https://zh.wikipedia.org/wiki/WWE洲際冠軍 "wikilink")
-      - [Finn Balor](https://zh.wikipedia.org/wiki/Finn_Balor "wikilink")
+      - [中邑真輔](../Page/中邑真輔.md "wikilink")
   - [WWE SmackDown雙打冠軍](https://zh.wikipedia.org/wiki/WWE_SmackDown雙打冠軍 "wikilink")
-      - [The hardy boyz](https://zh.wikipedia.org/wiki/The_hardy_boyz "wikilink")（和）
+      - [The Revival](https://zh.wikipedia.org/wiki/The_Revival "wikilink")
 
 ### 男子選手
 
   -
-  - [A·J·斯泰爾斯](https://zh.wikipedia.org/wiki/A·J·斯泰爾斯 "wikilink")
-
   -
   - [Big Show](../Page/Big_Show.md "wikilink")
 
@@ -46,31 +44,28 @@ WWE SmackDown原本是和另一間職業摔角公司世界冠軍摔角（World C
   - [中邑真輔](../Page/中邑真輔.md "wikilink")
 
   -
-  - [Kevin Owen](https://zh.wikipedia.org/wiki/Kevin_Owen "wikilink")
+  - [Kevin Owens](https://zh.wikipedia.org/wiki/Kevin_Owens "wikilink")
 
   - [Rowan](https://zh.wikipedia.org/wiki/Rowan "wikilink")
 
-  - [DANIEL BRYAN](https://zh.wikipedia.org/wiki/DANIEL_BRYAN "wikilink")
+  - [Daniel Bryan](https://zh.wikipedia.org/wiki/Daniel_Bryan "wikilink")
 
   - [HARPER](https://zh.wikipedia.org/wiki/HARPER "wikilink")
 
   - [Lori Lewis](https://zh.wikipedia.org/wiki/Lori_Lewis "wikilink")
 
-  - [heavy machinery](https://zh.wikipedia.org/wiki/heavy_machinery "wikilink")
-
-<!-- end list -->
+  - [Heavy Machinery](https://zh.wikipedia.org/wiki/Heavy_Machinery "wikilink")
 
   - [Aleister Black](https://zh.wikipedia.org/wiki/Aleister_Black "wikilink")
+
   - [Roman Reigns](https://zh.wikipedia.org/wiki/Roman_Reigns "wikilink")
 
 ### 女子選手
 
   -
   -
-  -
   - [夏洛特·福萊爾](https://zh.wikipedia.org/wiki/Charlotte_Flair "wikilink")
 
-  -
   -
   -
   -

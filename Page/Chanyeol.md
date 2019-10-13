@@ -12,13 +12,13 @@
 
 2012年4月8日，燦烈作為EXO以及小分隊EXO-K成員出道。5月，燦烈出演[少女時代-太蒂徐](../Page/少女時代-太蒂徐.md "wikilink")第一張迷你專輯《[Twinkle](../Page/Twinkle.md "wikilink")》主打曲《Twinkle》MV。
 
-2013年12月，燦烈加盟《[叢林的法則](https://zh.wikipedia.org/wiki/叢林的法則 "wikilink")》並飛赴密克羅尼西亞進行拍攝。\[5\]
+2013年12月，燦烈加盟《[叢林的法則](../Page/叢林的法則.md "wikilink")》並飛赴密克羅尼西亞進行拍攝。\[5\]
 
 2014年5月，燦烈加盟SBS真人秀《[Roommate](../Page/Roommate.md "wikilink")》\[6\]。7月14日，燦烈與[Henry合唱歌曲](../Page/劉憲華.md "wikilink")《Bad Girl》，此歌曲收錄於Henry第二張迷你專輯《Fantastic》。\[7\]10月31日，燦烈與[周覓的合唱曲](https://zh.wikipedia.org/wiki/周覓 "wikilink")《Rewind》收錄於周覓一張迷你專輯《Rewind》，燦烈更為《Rewind》Rap部分作詞。\[8\]
 
 ### 2015年-現今：戲劇發展、《Stay With Me》、EXO-SC
 
-2015年3月，燦烈出演電影《[長壽商會](../Page/長壽商會.md "wikilink")》，飾演絕對服從女友的高中生珉盛\[9\]。5月，燦烈與成員[伯賢](../Page/伯賢.md "wikilink")、[Chen以及多位偶像共同參與KBS特輯](../Page/CHEN_\(EXO\).md "wikilink")《我是大韓民國》的主題曲《我們相遇的日子》錄製\[10\]。8月，燦烈再次出演《[叢林的法則汶萊篇](https://zh.wikipedia.org/wiki/叢林的法則 "wikilink")》，並為節目創作了主題曲《Last Hunter》\[11\]。11月，燦烈受到饒舌女歌手[Heize的邀請登上實境節目](https://zh.wikipedia.org/wiki/Heize "wikilink")《[Unpretty Rapstar 2](https://zh.wikipedia.org/wiki/Unpretty_Rapstar_2 "wikilink")》並一起演唱歌曲《不要掙錢（Don't Make Money）》，燦烈亦為此曲的Rap部分填詞\[12\]。 [Park_Chan-yeol_-_2016_Gaon_Chart_K-pop_Awards_red_carpet.jpg](https://zh.wikipedia.org/wiki/File:Park_Chan-yeol_-_2016_Gaon_Chart_K-pop_Awards_red_carpet.jpg "fig:Park_Chan-yeol_-_2016_Gaon_Chart_K-pop_Awards_red_carpet.jpg")
+2015年3月，燦烈出演電影《[長壽商會](../Page/長壽商會.md "wikilink")》，飾演絕對服從女友的高中生珉盛\[9\]。5月，燦烈與成員[伯賢](../Page/伯賢.md "wikilink")、[Chen以及多位偶像共同參與KBS特輯](../Page/CHEN_\(EXO\).md "wikilink")《我是大韓民國》的主題曲《我們相遇的日子》錄製\[10\]。8月，燦烈再次出演《[叢林的法則](../Page/叢林的法則.md "wikilink")汶萊篇》，並為節目創作了主題曲《Last Hunter》\[11\]。11月，燦烈受到饒舌女歌手[Heize的邀請登上實境節目](https://zh.wikipedia.org/wiki/Heize "wikilink")《[Unpretty Rapstar 2](https://zh.wikipedia.org/wiki/Unpretty_Rapstar_2 "wikilink")》並一起演唱歌曲《不要掙錢（Don't Make Money）》，燦烈亦為此曲的Rap部分填詞\[12\]。 [Park_Chan-yeol_-_2016_Gaon_Chart_K-pop_Awards_red_carpet.jpg](https://zh.wikipedia.org/wiki/File:Park_Chan-yeol_-_2016_Gaon_Chart_K-pop_Awards_red_carpet.jpg "fig:Park_Chan-yeol_-_2016_Gaon_Chart_K-pop_Awards_red_carpet.jpg")
 
 2016年6月，燦烈與[袁姍姍合作的電影](../Page/袁姗姗.md "wikilink")《所以......和黑粉結婚了》上映，燦烈更與女主角袁姍姍合唱主題曲《我討厭你》\[13\]。10月14日，燦烈和美國Hip-hop團體[Far East Movement](https://zh.wikipedia.org/wiki/Far_East_Movement "wikilink")、Tinashe合作的新曲《Freal Luv》公開音源，燦烈參與了歌曲的音源製作，從作詞、作曲到Rap都有參與，展現了多樣的才能。\[14\]。12月，燦烈與[PUNCH為電視劇](https://zh.wikipedia.org/wiki/Punch_\(韓國歌手\) "wikilink")《[孤單又燦爛的神-鬼怪](../Page/孤單又燦爛的神－鬼怪.md "wikilink")》合唱OST《Stay With Me》，該歌曲的官方MV更於2017年11月於YouTube頻道突破1億次點擊率，為韓國OST最初突破1億次點擊率的MV。\[15\]
 
@@ -26,7 +26,7 @@
 
 2018年2月7日，燦烈與[EXO](../Page/EXO.md "wikilink")成員[世勳一同參加於首爾清潭舉辦的Prada](../Page/Sehun.md "wikilink") Comics快閃店酒會。\[20\]同月，燦烈與[TRAX的Jay共同參與](https://zh.wikipedia.org/wiki/TRAX "wikilink")[MBC偶像明星運動會的男子保齡球項目](https://zh.wikipedia.org/wiki/MBC偶像明星運動會 "wikilink")，以總分157分奪得金牌。5月12日，燦烈確定出演將於11月在[tvN播出的](https://zh.wikipedia.org/wiki/tvN "wikilink")《[阿爾罕布拉宮的回憶](../Page/阿爾罕布拉宮的回憶_\(電視劇\).md "wikilink")》並飾演鄭世周，一位因小時候受到傷害而緊閉心門的天才程序員。\[21\]6月，燦烈出演樂天免稅店的網絡劇《女神締造者》\[22\]。9月14日，燦烈與[世勳合唱的歌曲](../Page/Sehun.md "wikilink")《We Young》透過[STATION X 0發佈](../Page/SM_STATION.md "wikilink")。《We Young》於17 個國家的 iTunes 綜合單曲榜上拿下冠軍，同時亦拿下中國的蝦米音樂綜合榜第一名\[23\]。
 
-2019年2月，燦烈再次參與《[偶像明星運動會](../Page/偶像明星運動會.md "wikilink")》的男子保齡球項目並以217分奪得金牌\[24\]。4月25日，燦烈经由[SM STATION第三季發行首支独唱曲](../Page/SM_STATION.md "wikilink")《SSFW（春夏秋冬）》 ，同时发布中日韓三個语言版本。6月28日，[SM娛樂](../Page/SM娛樂.md "wikilink")宣佈燦烈將與[世勳組成EXO第二個小分隊](../Page/Sehun.md "wikilink")[EXO-SC](../Page/EXO-SC.md "wikilink")並將於7月22日發行首張迷你專輯《What a life》出道\[25\]。
+2019年2月，燦烈再次參與《[偶像明星運動會](../Page/偶像明星運動會.md "wikilink")》的男子保齡球項目並以217分奪得金牌\[24\]。4月25日，燦烈经由[SM STATION第三季發行首支独唱曲](../Page/SM_STATION.md "wikilink")《SSFW（春夏秋冬）》 ，同时发布中日韓三個语言版本。6月28日，[SM娛樂](../Page/SM娛樂.md "wikilink")宣佈燦烈將與[世勳組成EXO第二個小分隊](../Page/Sehun.md "wikilink")[EXO-SC](../Page/EXO-SC.md "wikilink")並將於7月22日發行首張迷你專輯《What a life》出道\[25\]。9月25日，燦烈出席於首爾中區獎忠洞獎忠體育館舉辦的世界知識論壇，並於“技術創新的未來 - 未來娛樂世界”的項目中説出自己的想法\[26\]。
 
 ## 個人生活
 
@@ -49,7 +49,7 @@
 |            |              |                                                                        |                                                                  |
 | ---------- | ------------ | ---------------------------------------------------------------------- | ---------------------------------------------------------------- |
 | 發行日期       | 歌曲名稱         | 影視名稱                                                                   | 合作藝人                                                             |
-| 2015年      | Last Hunter  | 《[叢林的法則](https://zh.wikipedia.org/wiki/叢林的法則 "wikilink")》              |                                                                  |
+| 2015年      | Last Hunter  | 《[叢林的法則](../Page/叢林的法則.md "wikilink")》                                 |                                                                  |
 | 2016年6月17日 | 我討厭你         | 《[所以......和黑粉结婚了](https://zh.wikipedia.org/wiki/所以，和黑粉結婚了 "wikilink")》 | [袁姍姍](../Page/袁姗姗.md "wikilink")                                 |
 | 2016年12月2日 | Stay With Me | 《[孤單又燦爛的神－鬼怪](../Page/孤單又燦爛的神－鬼怪.md "wikilink")》                       | [Punch](https://zh.wikipedia.org/wiki/Punch_\(韓國歌手\) "wikilink") |
 
@@ -106,7 +106,7 @@
 <td></td>
 <td></td>
 <td><p>Rap填詞</p></td>
-<td><p>[26]</p></td>
+<td><p>[27]</p></td>
 </tr>
 <tr class="odd">
 <td><p>Run</p></td>
@@ -458,13 +458,13 @@
 
 ### 固定出演
 
-|                          |                                                           |                                                             |           |
-| ------------------------ | --------------------------------------------------------- | ----------------------------------------------------------- | --------- |
-| 日期                       | 電視臺                                                       | 節目名稱                                                        | 備注        |
-| 2013年12月20日 - 2014年1月17日 | [SBS](../Page/SBS_\(韓國\).md "wikilink")                   | 《[叢林的法則](https://zh.wikipedia.org/wiki/叢林的法則 "wikilink")》   | 密克羅尼西亞篇   |
-| 2014年5月4日－9月14日          | 《[Roommate](../Page/Roommate.md "wikilink")》              |                                                             |           |
-| 2015年8月21日－9月4日          | 《[叢林的法則](https://zh.wikipedia.org/wiki/叢林的法則 "wikilink")》 | 汶萊篇                                                         |           |
-| 2018年5月26日 - 6月30日       | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")       | 《[心酸旅行](https://zh.wikipedia.org/wiki/窮遊 "wikilink")》\[27\] | 美國LA和舊金山篇 |
+|                          |                                                     |                                                             |           |
+| ------------------------ | --------------------------------------------------- | ----------------------------------------------------------- | --------- |
+| 日期                       | 電視臺                                                 | 節目名稱                                                        | 備注        |
+| 2013年12月20日 - 2014年1月17日 | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | 《[叢林的法則](../Page/叢林的法則.md "wikilink")》                      | 密克羅尼西亞篇   |
+| 2014年5月4日－9月14日          | 《[Roommate](../Page/Roommate.md "wikilink")》        |                                                             |           |
+| 2015年8月21日－9月4日          | 《[叢林的法則](../Page/叢林的法則.md "wikilink")》              | 汶萊篇                                                         |           |
+| 2018年5月26日 - 6月30日       | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") | 《[心酸旅行](https://zh.wikipedia.org/wiki/窮遊 "wikilink")》\[28\] | 美國LA和舊金山篇 |
 
 ### 主持
 
@@ -479,7 +479,7 @@
 | 2013年11月14日 | KBS Joy                                                                                                                                 | [MelOn Music Awards 2013](../Page/甜瓜音樂獎.md "wikilink")             | 與[Suho](https://zh.wikipedia.org/wiki/金俊勉 "wikilink")、[Baekhyun](../Page/伯賢.md "wikilink")、[Kai](https://zh.wikipedia.org/wiki/金鐘仁 "wikilink")、[李侑菲](../Page/李侑菲.md "wikilink") |
 | 2015年5月2日   | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                                                                                     | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink") | 特別MC                                                                                                                                                                            |
 | 2016年12月29日 | [KBS 2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")                                                                               | [KBS歌謠盛典](../Page/KBS歌謠盛典.md "wikilink")                           | 後台MC                                                                                                                                                                            |
-| 2017年12月29日 | \[28\]                                                                                                                                  |                                                                    |                                                                                                                                                                                 |
+| 2017年12月29日 | \[29\]                                                                                                                                  |                                                                    |                                                                                                                                                                                 |
 | 2018年4月5日   | V LIVE                                                                                                                                  | \!t Live Grand Opening Special with Hyundai SOLATI Moving Studio   | 與[Wendy (Red Velvet)](../Page/Wendy_\(Red_Velvet\).md "wikilink")、[利特](../Page/利特.md "wikilink")                                                                                |
 | 2018年11月17日 | MBC                                                                                                                                     | Show\! 音樂中心                                                        | 特別MC                                                                                                                                                                            |
 | 2018年12月28日 | KBS2                                                                                                                                    | KBS歌謠盛典                                                            | 與[多賢](../Page/多賢.md "wikilink")（[TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")）、[金碩珍](../Page/金碩珍.md "wikilink")（[防彈少年團](../Page/防彈少年團.md "wikilink")）                 |
@@ -512,22 +512,22 @@
 |              |                                         |                  |
 | ------------ | --------------------------------------- | ---------------- |
 | 期數           | 雜誌名稱                                    | 備注               |
-| 2014年9月刊     | ELLE MEN                                | 與Lay、Sehun\[29\] |
+| 2014年9月刊     | ELLE MEN                                | 與Lay、Sehun\[30\] |
 | 2014年11月刊    | The Celebrity                           |                  |
-| 2015年8月刊     | Ceci                                    | 與Sehun\[30\]     |
-| 2016年5月刊     | Allure\[31\]                            |                  |
+| 2015年8月刊     | Ceci                                    | 與Sehun\[31\]     |
+| 2016年5月刊     | Allure\[32\]                            |                  |
 | 2016年7月刊     | Vivi                                    |                  |
-| Femina       | 與[袁姍姍](../Page/袁姗姗.md "wikilink")\[32\] |                  |
-| 2017年2月刊     | Ceci\[33\]                              |                  |
-| 2017年4月刊     | L'Officiel Hommes\[34\]                 |                  |
-| 2017年 Vol.42 | Haru\*Hana\[35\]                        |                  |
-| 2017年10月刊    | The Celebrity\[36\]                     |                  |
-| 2017年11月刊    | W Korea\[37\]                           |                  |
-| Vogue\[38\]  |                                         |                  |
-| 2017年12月刊    | 韓流ぴあ（韓流 Pia）\[39\]                      |                  |
-| 2018年1月刊     | 韓流旋風                                    | 與Kai\[40\]       |
+| Femina       | 與[袁姍姍](../Page/袁姗姗.md "wikilink")\[33\] |                  |
+| 2017年2月刊     | Ceci\[34\]                              |                  |
+| 2017年4月刊     | L'Officiel Hommes\[35\]                 |                  |
+| 2017年 Vol.42 | Haru\*Hana\[36\]                        |                  |
+| 2017年10月刊    | The Celebrity\[37\]                     |                  |
+| 2017年11月刊    | W Korea\[38\]                           |                  |
+| Vogue\[39\]  |                                         |                  |
+| 2017年12月刊    | 韓流ぴあ（韓流 Pia）\[40\]                      |                  |
+| 2018年1月刊     | 韓流旋風                                    | 與Kai\[41\]       |
 | 2018年5月刊     | 時尚健康                                    | 封面               |
-| 2018年10月刊    | Vogue Korea\[41\]                       |                  |
+| 2018年10月刊    | Vogue Korea\[42\]                       |                  |
 | 2019年3月刊     | W Korea                                 |                  |
 | 2019年4月刊     |                                         |                  |
 | 2019年7月刊     | 與Sehun、封面                               |                  |
@@ -636,7 +636,7 @@
 <tr class="even">
 <td><p>2016年</p></td>
 <td><ul>
-<li>K-Pop一百張最帥面孔 第24位[42]</li>
+<li>K-Pop一百張最帥面孔 第24位[43]</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -650,7 +650,7 @@
 <tr class="even">
 <td><p>2018年</p></td>
 <td><ul>
-<li>第14屆<a href="https://zh.wikipedia.org/wiki/MBC偶像明星運動會" title="wikilink">MBC偶像明星運動會男子保齡球項目</a> - 金牌（與<a href="https://zh.wikipedia.org/wiki/TRAX" title="wikilink">TRAX</a> - Jay）[43]</li>
+<li>第14屆<a href="https://zh.wikipedia.org/wiki/MBC偶像明星運動會" title="wikilink">MBC偶像明星運動會男子保齡球項目</a> - 金牌（與<a href="https://zh.wikipedia.org/wiki/TRAX" title="wikilink">TRAX</a> - Jay）[44]</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -754,8 +754,8 @@
 36.
 
 37.
-38.
 
+38.
 39.
 
 40.
@@ -765,3 +765,5 @@
 42.
 
 43.
+
+44.

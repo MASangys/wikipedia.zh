@@ -18,7 +18,7 @@ Image:Beijing Airport Express.jpeg|列车尾端 Image:Coming into Terminal Three
 
   - [列车介绍](https://web.archive.org/web/20151017064617/http://www.crc.chinacnr.com/serv-255.html)
 
-[Category:北京地铁车辆](https://zh.wikipedia.org/wiki/Category:北京地铁车辆 "wikilink") [Category:北京地铁机场线](https://zh.wikipedia.org/wiki/Category:北京地铁机场线 "wikilink") [Category:中车长客制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车长客制铁路车辆 "wikilink")
+[Category:北京地铁车辆](https://zh.wikipedia.org/wiki/Category:北京地铁车辆 "wikilink") [Category:北京地铁首都机场线](https://zh.wikipedia.org/wiki/Category:北京地铁首都机场线 "wikilink") [Category:中车长客制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车长客制铁路车辆 "wikilink")
 
 1.  [北京地铁机场线列车实现无人驾驶](http://news.163.com/12/0310/02/7S706QE800014AED.html) 网易新闻中心 2012-03-10
 2.  [地铁机场线列车开始大修](http://beijing.qianlong.com/3825/2012/02/11/3042@7693412.htm) 千龙网 2012-02-11

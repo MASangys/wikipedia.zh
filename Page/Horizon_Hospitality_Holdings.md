@@ -10,7 +10,7 @@
 
   - [Horizon Hotels & Suites](http://www.horizonhotels.com.hk/)
 
-[Category:長地集團](https://zh.wikipedia.org/wiki/Category:長地集團 "wikilink") [Category:香港酒店連鎖集團](https://zh.wikipedia.org/wiki/Category:香港酒店連鎖集團 "wikilink") [Category:旅館品牌](https://zh.wikipedia.org/wiki/Category:旅館品牌 "wikilink") [Category:商業信託基金](https://zh.wikipedia.org/wiki/Category:商業信託基金 "wikilink")
+[Category:長江實業集團](https://zh.wikipedia.org/wiki/Category:長江實業集團 "wikilink") [Category:香港酒店連鎖集團](https://zh.wikipedia.org/wiki/Category:香港酒店連鎖集團 "wikilink") [Category:旅館品牌](https://zh.wikipedia.org/wiki/Category:旅館品牌 "wikilink") [Category:商業信託基金](https://zh.wikipedia.org/wiki/Category:商業信託基金 "wikilink")
 
 1.  [長實分拆三酒店上市](http://hk.apple.nextmedia.com/financeestate/art/20121012/18038572) 蘋果日報，2012年10月12日
 2.  [長和擬拆酒店業務上市 長實升1%](http://www.hkej.com/template/onlinenews/jsp/detail.jsp?title_id=124002) 信報，2012年10月12日

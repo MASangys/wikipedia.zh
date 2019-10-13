@@ -55,7 +55,6 @@
 <td><p>首張迷你專輯《<strong>Toheart</strong>》</p>
 <ul>
 <li>韓版發行日期：2014年3月10日</li>
-<li>臺壓發行日期：2014年4月18日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>

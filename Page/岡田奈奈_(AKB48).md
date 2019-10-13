@@ -34,6 +34,8 @@
 
 岡田曾想從AKB48離開，常覺得自己比不上別人。有時沒有能傾訴的對象而一個人躲在廁所哭，壓力的結果導致罹患了飲食障礙症。後來察覺自己是真的很喜歡AKB48，自身不想把AKB48當成其它演藝事業的跳板，想在這個團體一直付出心力\[11\]。
 
+岡田與同屬Team 4的[村山彩希](../Page/村山彩希.md "wikilink")感情要好，是AKB48團內公認的「情侶」（）之一\[12\]。
+
 ## 音樂作品
 
 ### AKB48單曲
@@ -512,7 +514,7 @@
 <td><p>Ja-Ba-Ja</p></td>
 <td></td>
 <td><p>全版本</p></td>
-<td><p>|★</p></td>
+<td><p>★</p></td>
 <td><p>A面曲<br />
 首次擔任單曲Center</p></td>
 </tr>
@@ -521,7 +523,7 @@
 （）</p></td>
 <td><p>STU48</p></td>
 <td><p>Type A·B·C、劇場盤</p></td>
-<td><p>|★</p></td>
+<td><p>★</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -532,7 +534,7 @@
 （）</p></td>
 <td><p>坂道AKB</p></td>
 <td><p>Type-E</p></td>
-<td><p>|★</p></td>
+<td><p>★</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -545,11 +547,12 @@
 <td><p>Teacher Teacher</p></td>
 <td></td>
 <td><p>全版本</p></td>
-<td><p>|★</p></td>
+<td><p>★</p></td>
 <td><p>A面曲</p></td>
 </tr>
 <tr class="odd">
-<td><p>貓過敏</p></td>
+<td><p>貓過敏<br />
+（）</p></td>
 <td><p>Team 4</p></td>
 <td><p>Type D</p></td>
 <td><p>★</p></td>
@@ -599,6 +602,17 @@
 <td></td>
 <td></td>
 <td></td>
+</tr>
+<tr class="even">
+<td><p>56th</p></td>
+<td><p>2019年9月18日</p></td>
+<td><p><a href="../Page/持續愛你.md" title="wikilink">持續愛你</a><br />
+（）</p></td>
+<td><p>持續愛你</p></td>
+<td></td>
+<td><p>全版本</p></td>
+<td><p>★</p></td>
+<td><p>A面曲</p></td>
 </tr>
 </tbody>
 </table>
@@ -652,8 +666,8 @@
 <tr class="even">
 <td><p>2nd</p></td>
 <td><p>2019年2月13日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/等待著風" title="wikilink">等待著風</a></p></td>
-<td><p>等待著風</p></td>
+<td><p><a href="../Page/等待微風.md" title="wikilink">等待微風</a></p></td>
+<td><p>等待微風</p></td>
 <td></td>
 <td><p>全版本</p></td>
 <td><p>★</p></td>
@@ -673,6 +687,26 @@
 <td><p>制服的重量</p></td>
 <td><p>20世纪出生成员</p></td>
 <td><p>Type-B</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>3rd</p></td>
+<td><p>2019年7月31日</p></td>
+<td><p><a href="../Page/最喜歡的人.md" title="wikilink">最喜歡的人</a></p></td>
+<td><p>最喜歡的人</p></td>
+<td></td>
+<td><p>全版本</p></td>
+<td><p>★</p></td>
+<td><p>A面曲</p></td>
+</tr>
+<tr class="even">
+<td><p>青澀檸檬</p></td>
+<td><p>STU48 主唱選拔</p></td>
+<td><p>劇場版</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -915,3 +949,5 @@
 10.
 
 11. 《AKB48背后故事 岡田奈奈19歳、夢的代价》2016年11月24日、TBS播出
+
+12. 《[AKBINGO\!](https://zh.wikipedia.org/wiki/AKBINGO! "wikilink")》第370集 - 2015年12月15日深夜播出

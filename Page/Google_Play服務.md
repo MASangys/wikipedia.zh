@@ -1,4 +1,4 @@
-**Google Play服務**（，舊稱**Google服務架構**()）是谷歌公司的系列应用在 [Android](../Page/Android.md "wikilink")上运行的基础软件环境。
+**Google Play服務**（），舊稱**Google服務架構**（），是谷歌公司的系列应用在[Android](../Page/Android.md "wikilink")上运行的基础软件环境。
 
 ## 支持应用
 
@@ -18,7 +18,7 @@ Android平台应用软件及商品的Google官方市场。
 
 ## 版本及授权
 
-GMS版本跟随[Android](../Page/Android.md "wikilink")版本更新，Android是Google公司为[移动设备](../Page/移动设备.md "wikilink")开发的免费[操作系统](../Page/操作系统.md "wikilink")。\[2\] \[3\]
+GMS版本跟随[Android](../Page/Android.md "wikilink")版本更新，Android是Google公司为[移动设备](../Page/移动设备.md "wikilink")开发的免费[操作系统](../Page/操作系统.md "wikilink")。\[2\]\[3\]
 
 如果移动设备厂商要在设备内置谷歌的某种应用，比如[Google地图](../Page/Google地图.md "wikilink")，那么需要获得Google对其设备的GMS认证。
 

@@ -312,7 +312,7 @@
   - [南明奈](../Page/南明奈.md "wikilink")
   - [時東ぁみ](https://zh.wikipedia.org/wiki/時東ぁみ "wikilink")
   - [千野志麻](../Page/千野志麻.md "wikilink")
-  - [友近](https://zh.wikipedia.org/wiki/友近 "wikilink")
+  - [友近](../Page/友近.md "wikilink")
   - [矢吹春奈](../Page/矢吹春奈.md "wikilink")
   - [南野陽子](https://zh.wikipedia.org/wiki/南野陽子 "wikilink")
   - [池田夏希](https://zh.wikipedia.org/wiki/池田夏希 "wikilink")

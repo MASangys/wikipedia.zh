@@ -549,33 +549,33 @@ VIXX的6名成員由Mnet生存選秀節目MyDOL中10位參賽者中脫穎而出�
 | 2013年12月20日    | tvN        | Perfect Singer VS                                              | KEN                   |             |
 | 2013年12月21日    | SBS        | STARKING                                                       | N、KEN                 |             |
 
-|                |            |                                                         |                 |                 |
-| -------------- | ---------- | ------------------------------------------------------- | --------------- | --------------- |
-| **日期**         | **電視台**    | **節目名稱**                                                | **參與成員**        | **備註**          |
-| 2014年1月4日      | KBS2       | 柳熙烈寫生簿                                                  | VIXX            |                 |
-| 2014年1月30日、31日 | MBC        | 偶像明星運動會春節特辑                                             | VIXX（LEO除外）     |                 |
-| 2014年2月4日      | Mnet       | Beatles Code 3D                                         | VIXX            |                 |
-| 2014年5月29日     | Mnet       | 音談故事                                                    | N、KEN、RAVI、HYUK |                 |
-| 2014年6月6日-7月4日 | SBS        | [叢林的法則](https://zh.wikipedia.org/wiki/叢林的法則 "wikilink") | HYUK            | 巴西篇 Ep.5-9      |
-| 2014年6月7日、14日  | MBC        | [我們結婚了](../Page/我們結婚了.md "wikilink")                    | VIXX（N除外）       | 悠閒夫婦篇客串         |
-| 2014年6月8日      | SBS        | [Running Man](../Page/Running_Man.md "wikilink")        | LEO             | Ep.199（客串）      |
-| 2014年6月10日     | Mnet       | 沒禮貌的四種採訪秀                                               | VIXX            | Ep.7（N專訪）       |
-| 2014年6月12日     | MBC        | 偶像明星足球世界盃                                               | LEO、RAVI        |                 |
-| 2014年7月13日     | KBS        | 出發夢之隊2                                                  | LEO、RAVI        |                 |
-| 2014年7月15日     | Mnet       | 沒禮貌的四種採訪秀                                               | VIXX            | Ep.12           |
-| 2014年7月29日     | MBC every1 | HitMaker                                                | N、HYUK          | 第一季             |
-| 2014年8月12日     | Mnet       | 沒禮貌的四種採訪秀                                               | RAVI            | Ep.16（Swings專訪） |
-| 2014年8月14日     | BAND TV    | Agora é Tarde（巴西深夜脫口秀）                                  | N、LEO、RAVI、HYUK |                 |
-| 2014年8月19日     | Mnet       | 沒禮貌的四種採訪秀                                               | RAVI            | Ep.17（泰民專訪）     |
-| 2014年8月20日     | MBC every1 | [Weekly Idol](../Page/Weekly_Idol.md "wikilink")        | N、HYUK          | Ep.160          |
-| 2014年10月21日    | Arirang    | After School Club                                       | VIXX（KEN除外）     |                 |
-| 2014年10月29日    | MBC every1 | Weekly Idol                                             | VIXX            | Ep.170          |
-| 2014年11月12日    | 香港TVB      | [超齡打工假期](../Page/超齡打工假期.md "wikilink")                  | VIXX            | Ep.4            |
-| 2014年11月23日    | KBS        | 出發夢之隊2                                                  | LEO、KEN、HONGBIN |                 |
-| 2014年11月27日    | tvN        | [今天開始上班](../Page/今天開始上班.md "wikilink")                  | N               | 第三季             |
-| 2014年12月12日    | MBC every1 | HitMaker                                                | N、HYUK          | 第二季             |
-| 2014年12月13日    | KBS World  | Global Request Show : A Song For U 3                    | VIXX            | Ep.18           |
-| 2014年12月28日    | KBS        | 出發夢之隊2                                                  | LEO             |                 |
+|                |            |                                                  |                 |                 |
+| -------------- | ---------- | ------------------------------------------------ | --------------- | --------------- |
+| **日期**         | **電視台**    | **節目名稱**                                         | **參與成員**        | **備註**          |
+| 2014年1月4日      | KBS2       | 柳熙烈寫生簿                                           | VIXX            |                 |
+| 2014年1月30日、31日 | MBC        | 偶像明星運動會春節特辑                                      | VIXX（LEO除外）     |                 |
+| 2014年2月4日      | Mnet       | Beatles Code 3D                                  | VIXX            |                 |
+| 2014年5月29日     | Mnet       | 音談故事                                             | N、KEN、RAVI、HYUK |                 |
+| 2014年6月6日-7月4日 | SBS        | [叢林的法則](../Page/叢林的法則.md "wikilink")             | HYUK            | 巴西篇 Ep.5-9      |
+| 2014年6月7日、14日  | MBC        | [我們結婚了](../Page/我們結婚了.md "wikilink")             | VIXX（N除外）       | 悠閒夫婦篇客串         |
+| 2014年6月8日      | SBS        | [Running Man](../Page/Running_Man.md "wikilink") | LEO             | Ep.199（客串）      |
+| 2014年6月10日     | Mnet       | 沒禮貌的四種採訪秀                                        | VIXX            | Ep.7（N專訪）       |
+| 2014年6月12日     | MBC        | 偶像明星足球世界盃                                        | LEO、RAVI        |                 |
+| 2014年7月13日     | KBS        | 出發夢之隊2                                           | LEO、RAVI        |                 |
+| 2014年7月15日     | Mnet       | 沒禮貌的四種採訪秀                                        | VIXX            | Ep.12           |
+| 2014年7月29日     | MBC every1 | HitMaker                                         | N、HYUK          | 第一季             |
+| 2014年8月12日     | Mnet       | 沒禮貌的四種採訪秀                                        | RAVI            | Ep.16（Swings專訪） |
+| 2014年8月14日     | BAND TV    | Agora é Tarde（巴西深夜脫口秀）                           | N、LEO、RAVI、HYUK |                 |
+| 2014年8月19日     | Mnet       | 沒禮貌的四種採訪秀                                        | RAVI            | Ep.17（泰民專訪）     |
+| 2014年8月20日     | MBC every1 | [Weekly Idol](../Page/Weekly_Idol.md "wikilink") | N、HYUK          | Ep.160          |
+| 2014年10月21日    | Arirang    | After School Club                                | VIXX（KEN除外）     |                 |
+| 2014年10月29日    | MBC every1 | Weekly Idol                                      | VIXX            | Ep.170          |
+| 2014年11月12日    | 香港TVB      | [超齡打工假期](../Page/超齡打工假期.md "wikilink")           | VIXX            | Ep.4            |
+| 2014年11月23日    | KBS        | 出發夢之隊2                                           | LEO、KEN、HONGBIN |                 |
+| 2014年11月27日    | tvN        | [今天開始上班](../Page/今天開始上班.md "wikilink")           | N               | 第三季             |
+| 2014年12月12日    | MBC every1 | HitMaker                                         | N、HYUK          | 第二季             |
+| 2014年12月13日    | KBS World  | Global Request Show : A Song For U 3             | VIXX            | Ep.18           |
+| 2014年12月28日    | KBS        | 出發夢之隊2                                           | LEO             |                 |
 
 |                    |            |                                                                  |                 |               |
 | ------------------ | ---------- | ---------------------------------------------------------------- | --------------- | ------------- |

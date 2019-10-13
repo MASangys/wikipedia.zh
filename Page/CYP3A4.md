@@ -27,9 +27,11 @@ CYP3A4蛋白位于[细胞](../Page/细胞.md "wikilink")的[内质网](../Page/�
 ## 外部链接
 
   - [PharmGKB: Annotated PGx Gene Information for CYP3A4](https://web.archive.org/web/20100415232522/http://www.pharmgkb.org/search/annotatedGene/cyp3a4/index.jsp)
-  - [CYP3A4 substrate prediction](http://p450.althotas.com/)
+  - [CYP3A4 substrate prediction](https://web.archive.org/web/20110215024307/http://p450.althotas.com/)
 
 [分类:酶](https://zh.wikipedia.org/wiki/分类:酶 "wikilink")
+
+[Category:细胞色素P450](https://zh.wikipedia.org/wiki/Category:细胞色素P450 "wikilink")
 
 1.
 

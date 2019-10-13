@@ -8,7 +8,7 @@
 
 本作把《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》、《[假面騎士OOO](../Page/假面騎士OOO.md "wikilink")》、《[假面騎士Fourze](../Page/假面騎士Fourze.md "wikilink")》、《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》中的主角和二號騎士及怪人實行大集結，同時前作《[假面騎士×假面騎士 Fourze & OOO Movie大戰 Mega Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wikilink")》中登場的假面騎士Nadeshiko亦會回歸。
 
-根据本作Fourze篇结尾与后续剧场版剧情，可以猜测Fourze篇实际发生在《[假面騎士平成Generations FINAL Build & EX-AID with 傳說騎士](../Page/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士.md "wikilink")》之后。
+根据本作Fourze篇结尾与后续剧场版剧情，可以猜测Fourze篇实际发生在《[假面騎士平成Generations FINAL Build & EX-AID with 傳說騎士](../Page/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士.md "wikilink")》之后。\[1\]
 
 ## 故事概要
 
@@ -86,7 +86,7 @@
   -
     曾就讀天之川學園高中，假面騎士部部員。
     五年後任職小說作家，其著作的黑暗幻想系作品《夢之魔女與魔法之指環》銷量突破100萬。
-    與朔田流星關係特別親密\[1\]，於小說簽名會上因回國的流星出現面前而高興得相擁起來。
+    與朔田流星關係特別親密\[2\]，於小說簽名會上因回國的流星出現面前而高興得相擁起來。
 
 **JK（）**（飾）
 
@@ -115,7 +115,7 @@
     劇場版《[假面騎士Fourze The Movie 大家的宇宙來了！](../Page/假面騎士Fourze_THE_MOVIE_大家的宇宙來了！.md "wikilink")》中與假面騎士部對峙，直至化敵為友共同作戰。
     五年後與朔田流星成為工作伙伴，調查有關超能力士兵的國際犯罪組織。
 
-**大木美代子（）**\[2\]（[足立梨花](../Page/足立梨花.md "wikilink")飾）
+**大木美代子（）**\[3\]（[足立梨花](../Page/足立梨花.md "wikilink")飾）
 
   -
     就讀天之川學園高中，如月弦太朗負責班別 － 1年A班的學生，宇宙假面騎士部部長及唯一成員。
@@ -328,7 +328,7 @@
   - **假面骑士W**
       - Cyclone Joker
       - Heat Trigger
-      - Fang Joker\[3\]
+      - Fang Joker\[4\]
       - Cyclone Joker Gold Xtreme
 
 <!-- end list -->
@@ -343,7 +343,7 @@
   - **假面骑士OOO**（替身演員：、CV：[渡部秀](../Page/渡部秀.md "wikilink")）
       - 鷹虎蝗聯組
       - 爬蟲系聯組
-      - 恐龍系聯組\[4\]
+      - 恐龍系聯組\[5\]
       - 超鷹虎蝗聯組
 
 <!-- end list -->
@@ -407,7 +407,7 @@
 
 <!-- end list -->
 
-  - **Eil（）**（替身演出：、CV：[關智一](../Page/關智一.md "wikilink")\[5\]）
+  - **Eil（）**（替身演出：、CV：[關智一](../Page/關智一.md "wikilink")\[6\]）
 
 <!-- end list -->
 
@@ -710,7 +710,7 @@
   - 怪人 - 、、津留崎明廣、竹内裕美、[中澤匡智](../Page/中澤匡智.md "wikilink")、[山根剛](../Page/山根剛.md "wikilink")、木村大介、前川綾香
   - 蓋亞記憶體音聲 - [立木文彥](https://zh.wikipedia.org/wiki/立木文彥 "wikilink")
   - 假面騎士OOO聯組音聲 - [串田晃](../Page/串田晃.md "wikilink")
-  - 假面騎士Beast（仁藤攻介） - [永瀨匡](../Page/永瀨匡.md "wikilink")\[6\]
+  - 假面騎士Beast（仁藤攻介） - [永瀨匡](../Page/永瀨匡.md "wikilink")\[7\]
 
 ## 曲目
 
@@ -755,13 +755,15 @@
 
 [Category:假面騎士系列電影作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列電影作品 "wikilink") [Category:平成假面騎士系列跨界作品](https://zh.wikipedia.org/wiki/Category:平成假面騎士系列跨界作品 "wikilink") [Category:2012年日本電影](https://zh.wikipedia.org/wiki/Category:2012年日本電影 "wikilink") [Category:坂本浩一電影](https://zh.wikipedia.org/wiki/Category:坂本浩一電影 "wikilink") [Category:闪电人](https://zh.wikipedia.org/wiki/Category:闪电人 "wikilink") [Category:东映不可思议喜剧系列](https://zh.wikipedia.org/wiki/Category:东映不可思议喜剧系列 "wikilink") [Category:長條目名](https://zh.wikipedia.org/wiki/Category:長條目名 "wikilink")
 
-1.  本作中沒有明確地顯示二人是否戀愛或情侶關係。
+1.
 
-2.
+2.  本作中沒有明確地顯示二人是否戀愛或情侶關係。
 
-3.  導演剪輯版登場
+3.
 
-4.
-5.  [關智一的twitter](https://twitter.com/seki0908)
+4.  導演剪輯版登場
 
-6.  演員表未表記。
+5.
+6.  [關智一的twitter](https://twitter.com/seki0908)
+
+7.  演員表未表記。

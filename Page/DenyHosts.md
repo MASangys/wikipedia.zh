@@ -2,7 +2,7 @@
 
 ## 原理
 
-DenyHosts通过监测身份验证登录日志的末尾，来获取近期失败的登录尝试信息。DenyHosts记录了有关登录者IP地址的信息，并将失败的登录尝试次数与用户指定的阈值进行比较。如果失败的登录尝试次数太多，DenyHosts假定发生了，并通过将IP地址添加到服务器上的`/etc/hosts.deny`，屏蔽相关IP，防止其进一步的攻击。DenyHosts 2.0及以上的版本支持集中同步，从而可以阻止攻击过多台电脑的惯犯。 从多台计算机，DenyHosts 2.0 及以上支持集中同步，所以重复的罪犯将被阻止。[denyhosts.net](http://stats.denyhosts.net/stats.html)网站从运行了该软件的计算机上收集统计信息。
+DenyHosts通过监测身份验证登录日志的末尾，来获取近期失败的登录尝试信息。DenyHosts记录了有关登录者IP地址的信息，并将失败的登录尝试次数与用户指定的阈值进行比较。如果失败的登录尝试次数太多，DenyHosts假定发生了，并通过将IP地址添加到服务器上的`/etc/hosts.deny`，屏蔽相关IP，防止其进一步的攻击。DenyHosts 2.0及以上的版本支持集中同步，从而可以阻止攻击过多台电脑的惯犯。 从多台计算机，DenyHosts 2.0 及以上支持集中同步，所以重复的罪犯将被阻止。[denyhosts.net](https://web.archive.org/web/20090224004435/http://stats.denyhosts.net/stats.html)网站从运行了该软件的计算机上收集统计信息。
 
 DenyHosts仅对使用[IPv4](../Page/IPv4.md "wikilink")的连接有效。它在[IPv6](../Page/IPv6.md "wikilink")下不起作用。
 

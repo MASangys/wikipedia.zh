@@ -263,6 +263,8 @@
 
 2016年9月16日，美国共和党总统候选人[唐納德·川普在](https://zh.wikipedia.org/wiki/唐納德·川普 "wikilink")[迈阿密](../Page/迈阿密.md "wikilink")的竞选活动中用到了这首歌曲。\[14\]\[15\]
 
+2019年中的反送中運動
+
 ## 外部連結
 
   - [香港版本歌詞](https://mojim.com/twy133258x1x1.htm)

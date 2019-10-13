@@ -1100,7 +1100,7 @@ Franco前女友<br />
 <td><p>（第3－6集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/江富強" title="wikilink">江富強</a></p></td>
+<td><p><a href="../Page/江富強.md" title="wikilink">江富強</a></p></td>
 <td><p>陳志明</p></td>
 <td><p>精神病患者<br />
 挾持杜慧敏（第4集）</p></td>

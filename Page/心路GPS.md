@@ -598,7 +598,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/江富強" title="wikilink">江富強</a></p></td>
+<td><p><a href="../Page/江富強.md" title="wikilink">江富強</a></p></td>
 <td><p>男鄰居</p></td>
 <td><p>虐打劉翠雲並掠去她的錢（第15集）</p></td>
 </tr>

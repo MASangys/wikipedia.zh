@@ -1201,6 +1201,18 @@ MBC 上岩洞 新社屋</p></td>
 <td><p>第33屆金唱片大賞</p></td>
 <td><p>首爾高尺天空巨蛋</p></td>
 </tr>
+<tr class="odd">
+<td><p>9月28日</p></td>
+<td><p>KCON 2019 THAILAND</p></td>
+<td><p>未知</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

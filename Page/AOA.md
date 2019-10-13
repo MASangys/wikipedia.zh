@@ -2,7 +2,7 @@
 
 2012年7月30日，AOA釋出首張單曲專辑《[Angels' Story](../Page/Angels'_Story.md "wikilink")》主打歌《Elvis》MV。之後於8月9日於[M\! Countdown出道並進行了首次舞台亮相](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")，次日于[KBS音樂银行表演](https://zh.wikipedia.org/wiki/KBS音樂银行 "wikilink")。10月第二張單曲專輯發行《[Wanna Be](../Page/Wanna_Be_\(AOA單曲\).md "wikilink")》。2013年，AOA發行《MOYA》及《[Red Motion](../Page/RED_MOTION.md "wikilink")》。2014年，主打性感風的《[短裙](../Page/短裙_\(AOA单曲\).md "wikilink")》和《[短髮](https://zh.wikipedia.org/wiki/短髮_\(AOA迷你專輯\) "wikilink")》讓AOA的人氣逐漸上升，且前者使該组合獲得了首個一位。
 
-2014年10月，AOA发行首张日文单曲专辑《短裙》，在日本出道。次月发行的《[猫步轻悄](../Page/猫步轻悄.md "wikilink")》使AOA人气再度高涨。2015年2月，AOA发行《猫步轻悄》的日语版。6月，AOA发行第三张迷你专辑《[怦然心動](https://zh.wikipedia.org/wiki/怦然心動_\(AOA迷你專輯\) "wikilink")》，并首次发布中文歌曲。[KCON 2015期间](https://zh.wikipedia.org/wiki/KCON "wikilink")，AOA首次于美国亮相。2015年11月，AOA发行首张日语正规专辑《Ace of Angels》，再度进军日本。2016年5月，AOA发行第四张迷你专辑《Good Luck》，後發行日語專輯《Run Way》。2017年1月1日發行韓語正規專輯《[Angel's Knock](../Page/ANGEL'S_KNOCK_\(AOA專輯\).md "wikilink")》歌曲《[Excuse me](../Page/ANGEL'S_KNOCK_\(AOA專輯\).md "wikilink")》和《[Bing Bing](../Page/ANGEL'S_KNOCK_\(AOA專輯\).md "wikilink")》。2018年5月28日AOA发行第五张迷你专辑《[Bingle Bangle](https://zh.wikipedia.org/wiki/Bingle_Bangle_\(AOA迷你專輯\) "wikilink")》。2019年8月，出演綜藝節目《Queendom》
+2014年10月，AOA发行首张日文单曲专辑《短裙》，在日本出道。次月发行的《[猫步轻悄](../Page/猫步轻悄.md "wikilink")》使AOA人气再度高涨。2015年2月，AOA发行《猫步轻悄》的日语版。6月，AOA发行第三张迷你专辑《[怦然心動](https://zh.wikipedia.org/wiki/怦然心動_\(AOA迷你專輯\) "wikilink")》，并首次发布中文歌曲。[KCON 2015期间](https://zh.wikipedia.org/wiki/KCON "wikilink")，AOA首次于美国亮相。2015年11月，AOA发行首张日语正规专辑《Ace of Angels》，再度进军日本。2016年5月，AOA发行第四张迷你专辑《Good Luck》，後發行日語專輯《Run Way》。2017年1月1日發行韓語正規專輯《[Angel's Knock](../Page/ANGEL'S_KNOCK_\(AOA專輯\).md "wikilink")》歌曲《[Excuse me](../Page/ANGEL'S_KNOCK_\(AOA專輯\).md "wikilink")》和《[Bing Bing](../Page/ANGEL'S_KNOCK_\(AOA專輯\).md "wikilink")》。2018年5月28日AOA发行第五张迷你专辑《[Bingle Bangle](https://zh.wikipedia.org/wiki/Bingle_Bangle_\(AOA迷你專輯\) "wikilink")》。2019年8月，出演綜藝節目《Queendom》。
 
 ## 经历
 
@@ -80,15 +80,7 @@ FNC解释了她们首次亮相的含义：、[草娥](https://zh.wikipedia.org/w
 
 ### 2019年：珉娥退出、參加綜藝節目《Queendom》
 
-5月13日，公司宣布全員合約到期，[珉娥](../Page/珉娥.md "wikilink")不續約往演藝圈發展，因此退出組合。其餘五人已完成續約，往後組合以五人形式進行活動。
-
-8月13日，《[Queendom](../Page/Queendom_\(韓國綜藝\).md "wikilink")》[AOA](../Page/AOA.md "wikilink")事前舞台影片釋出。
-
-9月05日，《Queendom》[AOA](../Page/AOA.md "wikilink")表演曲目為«短裙»，獲得大批網友好評。當次競演獲得第四名。
-
-9月11日，《Queendom》[AOA](../Page/AOA.md "wikilink")翻唱了[MAMAMOO的](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")《[Egotistic](https://zh.wikipedia.org/wiki/Egotistic "wikilink")》
-
-\[68\]
+5月13日，公司宣布全員合約到期，[珉娥](../Page/珉娥.md "wikilink")不續約往演藝圈發展，因此退出組合。其餘五人已完成續約，往後組合以五人形式進行活動。\[68\]
 
 8月29日，參加韓國綜藝節目《[Queendom](../Page/Queendom_\(韓國綜藝\).md "wikilink")》。
 
@@ -771,7 +763,7 @@ PlotData =
 <tr class="odd">
 <td><p>4月8日、15日、22日、29日</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/叢林的法則" title="wikilink">叢林的法則</a></p></td>
+<td><p><a href="../Page/叢林的法則.md" title="wikilink">叢林的法則</a></p></td>
 <td><p><a href="../Page/雪炫.md" title="wikilink">雪炫</a></p></td>
 <td></td>
 </tr>

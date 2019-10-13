@@ -8,7 +8,7 @@
 <!-- end list -->
 
   -
-    8月7日出生。北海道出身。原隸屬於Production Ace，目前已退出，现在为Still Wood Garden所屬\[1\]。
+    8月7日出生。北海道出身。原隸屬於Production Ace，目前已退出，曾經加入Still Wood Garden，现在为[賢Production](../Page/賢Production.md "wikilink")所屬\[1\]。
 
 <!-- end list -->
 

@@ -9,6 +9,6 @@
   - [Schedules](https://web.archive.org/web/20080702112220/http://mtamaryland.com/services/lightrail/schedule/)
   - [Station from Mt. Royal Avenue from Google Maps Street View](http://maps.google.com/maps?hl=en&ie=UTF8&ll=39.306899,-76.619993&spn=0.004134,0.013701&z=17&layer=c&cbll=39.306797,-76.619872&panoid=Fq2v-JiHU1j7POIzPMXrxg&cbp=12,358.6,,0,6.83)
 
-[Category:巴爾的摩輕軌車站](https://zh.wikipedia.org/wiki/Category:巴爾的摩輕軌車站 "wikilink") [Category:巴爾的摩鐵路車站](https://zh.wikipedia.org/wiki/Category:巴爾的摩鐵路車站 "wikilink") [Category:1992年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1992年啟用的鐵路車站 "wikilink")
+[Category:巴爾的摩輕軌車站](https://zh.wikipedia.org/wiki/Category:巴爾的摩輕軌車站 "wikilink") [Category:1992年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1992年啟用的鐵路車站 "wikilink")
 
 1.

@@ -1847,7 +1847,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/復仇者聯盟：終局之戰.md" title="wikilink">復仇者聯盟：終局之戰</a></p></td>
-<td><p>2019年4月24日（中国大陆/中国香港） 2019年4月26日（美国）</p></td>
+<td><p>2019年4月24日（中国大陆/中国香港） 2019年4月26日</p></td>
 <td><p>3D电影，原为2D电影，后期转制。全片使用数字ARRI ALEXA IMAX摄影机拍摄</p></td>
 </tr>
 <tr class="even">
@@ -1866,7 +1866,7 @@
 <td><p>3D电影，原为2D电影，后期转制。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/追龙Ⅱ" title="wikilink">追龙Ⅱ</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/追龙_Ⅱ" title="wikilink">追龙 Ⅱ</a></p></td>
 <td><p>2019年6月6日</p></td>
 <td><p>僅在中国大陆地区上映</p></td>
 </tr>
@@ -1931,7 +1931,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/诛仙_I" title="wikilink">诛仙 I</a></p></td>
+<td><p><a href="../Page/诛仙_I.md" title="wikilink">诛仙 I</a></p></td>
 <td><p>2019年9月13日</p></td>
 <td><p>仅在中国大陆地区上映</p></td>
 </tr>

@@ -301,7 +301,7 @@ SILVER LINK.設立於2007年12月，是動畫公司フロントライン（FRONT
 <tr class="odd">
 <td><p><a href="../Page/川柳少女.md" title="wikilink">川柳少女</a></p></td>
 <td></td>
-<td><p>4月5日－</p></td>
+<td><p>4月5日－6月21日</p></td>
 <td></td>
 <td><p>漫畫</p></td>
 <td><p>CONNECT獨立製作</p></td>
@@ -309,7 +309,7 @@ SILVER LINK.設立於2007年12月，是動畫公司フロントライン（FRONT
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/滿腦都是○○的我沒辦法談戀愛" title="wikilink">滿腦都是○○的我沒辦法談戀愛</a></p></td>
 <td></td>
-<td><p>4月5日－</p></td>
+<td><p>4月5日－6月21日</p></td>
 <td><p>井上圭介</p></td>
 <td></td>
 <td></td>
@@ -317,7 +317,7 @@ SILVER LINK.設立於2007年12月，是動畫公司フロントライン（FRONT
 <tr class="odd">
 <td><p><a href="../Page/賢者之孫.md" title="wikilink">賢者之孫</a></p></td>
 <td></td>
-<td><p>4月10日－</p></td>
+<td><p>4月10日－6月26日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/田村正文" title="wikilink">田村正文</a></p></td>
 <td><p>輕小說</p></td>
 <td></td>
@@ -325,12 +325,20 @@ SILVER LINK.設立於2007年12月，是動畫公司フロントライン（FRONT
 <tr class="even">
 <td><p><a href="../Page/實況主的逃脫遊戲【直播中】.md" title="wikilink">實況主的逃脫遊戲【直播中】</a></p></td>
 <td></td>
-<td><p>7月－</p></td>
+<td><p>7月7日－9月22日</p></td>
 <td><p>大沼心</p></td>
 <td><p>漫畫</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="../Page/喜歡本大爺的竟然就妳一個？.md" title="wikilink">喜歡本大爺的竟然就妳一個？</a></p></td>
+<td></td>
+<td><p>10月2日－預定</p></td>
+<td></td>
+<td><p>輕小說</p></td>
+<td><p>CONNECT獨立製作</p></td>
+</tr>
+<tr class="even">
 <td><p>時期未定</p></td>
 <td></td>
 <td></td>
@@ -338,7 +346,7 @@ SILVER LINK.設立於2007年12月，是動畫公司フロントライン（FRONT
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/怕痛的我，把防御力點滿就對了" title="wikilink">怕痛的我，把防御力點滿就對了</a></p></td>
 <td></td>
 <td></td>

@@ -51,7 +51,7 @@
 3.  [chip1stop的商业模式](http://www.logi-biz.com/pdf-data.php?id=540)
 4.  [chip1stop將全球最大電子零件資料庫引進日本](http://big5.nikkeibp.com.cn/news/mobi/25476-200208260117.html)
 5.  [chip1stop在东京证券交易所创业板上市](http://star.ap.teacup.com/okiraku/1646.html)
-6.  [「EE Times Japan」创刊](http://secwords.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%81%E3%83%83%E3%83%97%E3%83%AF%E3%83%B3%E3%82%B9%E3%83%88%E3%83%83%E3%83%97.html)
+6.
 7.  [chip1stop统合Murata直营网店](http://star.ap.teacup.com/okiraku/1646.html)
 8.  [omron24 service服务停止](http://www.e-light21.com/fatopics/data-74.html)
 9.  [Impress Holdings官网](http://www.impressholdings.com/)

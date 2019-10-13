@@ -139,6 +139,7 @@ CNET的斯科特·韦伯斯特称赞了Google Now中基于过往位置历史和�
 ## 地区限制
 
 自Google即时发布之始至今，Google即时一直无法在[中国大陆](../Page/中国大陆.md "wikilink")地区正常使用。Android版本Google搜索应用设置中Google即时的选项无法被开启，提示“您所在的国家/地区尚未推出Google即时”。
+
 因[澳門](../Page/澳門.md "wikilink")還不支援Google的位置回報功能，所以[澳門](../Page/澳門.md "wikilink")還不能使用Google Now。
 
 ## Google即时桌面

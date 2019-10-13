@@ -268,7 +268,7 @@
 ### 腰帶持有者
 
   - [WWE環球冠軍](https://zh.wikipedia.org/wiki/WWE環球冠軍 "wikilink")
-      - [賽特·罗林](https://zh.wikipedia.org/wiki/賽特·罗林 "wikilink")
+      - [賽特·罗林斯](https://zh.wikipedia.org/wiki/賽特·罗林斯 "wikilink")
   - [WWE女子冠軍](https://zh.wikipedia.org/wiki/WWE女子冠軍 "wikilink")
       - [Becky lynch](https://zh.wikipedia.org/wiki/Becky_lynch "wikilink")
   - [ECW雙打冠軍](https://zh.wikipedia.org/wiki/WWE雙打冠軍 "wikilink")

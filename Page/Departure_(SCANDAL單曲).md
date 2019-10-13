@@ -54,7 +54,7 @@
 
 ## 外部連結
 
-  - [SCANDAL | 消息](http://www.scandal-4.com/overdrive_standard/)
+  - [SCANDAL | 消息](https://web.archive.org/web/20131004230954/http://www.scandal-4.com/overdrive_standard/)
 
 [Category:2014年單曲](https://zh.wikipedia.org/wiki/Category:2014年單曲 "wikilink") [Category:SCANDAL歌曲](https://zh.wikipedia.org/wiki/Category:SCANDAL歌曲 "wikilink")
 

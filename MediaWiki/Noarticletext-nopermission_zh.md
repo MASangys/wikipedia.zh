@@ -84,7 +84,7 @@
 
 <td>
 
-[维基共享资源](https://zh.wikipedia.org/wiki/commons:Special:Search/{{PAGENAME}} "wikilink")（共享的多媒体数据库）
+[维基共享资源](https://zh.wikipedia.org/wiki/commons:Special:Search/{{PAGENAME}} "wikilink")（-{共享}-的多媒体数据库）
 
 </td>
 
@@ -182,7 +182,7 @@
 
 <!-- end list -->
 
-  - 还有可能是{{\#switch:|Image=这一图像|这一页面}}已被删除。请检查**\[ 删除日志\]**和[Wikipedia:删除守则上的一些理由](https://zh.wikipedia.org/wiki/Wikipedia:删除守则 "wikilink")。
+  - 还有可能是{{\#switch:|Image=这一图像|这一页面}}已被删除。请检查**\[ 删除日志\]**和[Wikipedia:删除方针上的一些理由](https://zh.wikipedia.org/wiki/Wikipedia:删除方针 "wikilink")。
 
 {{\#ifeq:||
 

@@ -37,12 +37,12 @@ SBS经典戏剧</p></td>
 <td><p>星期二至三</p></td>
 <td><p>20:15 - 21:25</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/VIP_(韩国电视剧)" title="wikilink">VIP</a></p></td>
-<td><p>10月9日起，与韩国24小时内同日播出</p></td>
+<td><p>10月29日起，与韩国24小时内同日播出</p></td>
 </tr>
 <tr class="odd">
 <td><p>星期四至五</p></td>
 <td><p>20:15 - 21:25</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Secret_Boutique" title="wikilink">秘密精品店</a></p></td>
+<td><p><a href="../Page/Secret_Boutique.md" title="wikilink">秘密精品店</a></p></td>
 <td><p>9月19日起，与韩国24小时内同日播出</p></td>
 </tr>
 <tr class="even">

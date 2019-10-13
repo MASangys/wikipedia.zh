@@ -28,7 +28,7 @@ DR醫療美容集團自稱為一間[美容](../Page/美容.md "wikilink")[顧問
 
 ## 外部參考
 
-  - [DR醫療集團毒血針事故 - 專題](http://news.sina.com.hk/cgi-bin/nw/focus.cgi?id=1461) 新浪香港新聞
+  - [DR醫療集團毒血針事故 - 專題](https://web.archive.org/web/20121006034102/http://news.sina.com.hk/cgi-bin/nw/focus.cgi?id=1461) 新浪香港新聞
   - [DR醫療集團主頁](https://web.archive.org/web/20121003210039/http://www.dr17.hk/index.php)
 
 [Category:香港醫療](https://zh.wikipedia.org/wiki/Category:香港醫療 "wikilink") [Category:2012年香港](https://zh.wikipedia.org/wiki/Category:2012年香港 "wikilink") [Category:香港誤殺案](https://zh.wikipedia.org/wiki/Category:香港誤殺案 "wikilink") [Category:美容](https://zh.wikipedia.org/wiki/Category:美容 "wikilink") [Category:医疗事故](https://zh.wikipedia.org/wiki/Category:医疗事故 "wikilink")

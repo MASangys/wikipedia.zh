@@ -147,7 +147,7 @@ Death-X-DORUgoramon</p></td>
 数码宝贝编年史系列短篇漫画作为携带机的附属品被捆绑销售于玩具中，目的是为了让玩家更加容易理解世界观。编年史系列漫画并非正式漫画作品，但却是诸多携带机附属短篇漫画中唯一动画化的重要作品。
 
   - 《数码宝贝编年史》（2003年4月26日-2003年11月21日刊载，全4章，森山奏作画）
-  - 《数码宝贝编年史X》（2018年1月18日-连载中，暂18章，森山奏作画）
+  - 《数码宝贝编年史X》（2018年1月18日-连载中，暂19章，森山奏作画）
 
 ### 数码宝贝编年史
 
@@ -211,9 +211,17 @@ Death-X-DORUgoramon</p></td>
 
 是世界树在旧数码世界（）之外设计创建的世界，「NDW」（New Digital World）位于主计算机之外，是个不会为主计算机自身积蓄数据的安全的假想实验空间。三层「编年史层系统（Chronicle Layer System）」采用数据分散化设计并能根据数码兽的进化状况进行有效的管理，各个世界之间可以[穿越层](https://zh.wikipedia.org/wiki/穿越 "wikilink")（Layer，）进行来往。
 
-  - “过去世界”兀儿德终端（Ulud Terminal，）：由「罗兰大陆（ Continent）」、「戈尔迪亚大陆（Goldia Continent）」及「雷姆亚大陆（Lemoore Continent）」三者组成。生活着大量恐龙型和兽型数码兽，被认为是各终端中最危险的区域。\[4\]
-  - “现在世界”薇儿丹蒂终端（Versandi Terminal，）：居住着最多样化的数码兽。比未来和过去和平。
-  - “未来世界”斯库尔德终端（Skuld Terminal，）：是众多高楼林立的未来都市「斯库尔德」。由改造型、机械型数码兽支配，上空浮游着空中秘蜜基地「皇家基地」，地面上秘蜜战斗部队「皇家突击队」暗中活动着。
+##### 过去世界
+
+“过去世界”兀儿德终端（Ulud Terminal，）：由「罗兰大陆（ Continent）」、「戈尔迪亚大陆（Goldia Continent）」及「雷姆亚大陆（Lemoore Continent）」三者组成。生活着大量恐龙型和兽型数码兽，被认为是各终端中最危险的区域。\[4\]
+
+##### 现在世界
+
+“现在世界”薇儿丹蒂终端（Versandi Terminal，）：居住着最多样化的数码兽。比未来和过去和平。
+
+##### 未来世界
+
+“未来世界”斯库尔德终端（Skuld Terminal，）：是众多高楼林立的未来都市「斯库尔德」。由改造型、机械型数码兽支配，上空浮游着空中秘蜜基地「皇家基地」，地面上秘蜜战斗部队「皇家突击队」暗中活动着。
 
 #### 登场角色
 
@@ -621,9 +629,17 @@ Omegamon X-Antibody</p></td>
 </tr>
 <tr class="even">
 <td><p>第18章</p></td>
+<td></td>
+<td><p>来自异世界的勇气</p></td>
+<td><p>2019年10月2日</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第19章</p></td>
 <td><p>Ｎ／Ａ</p></td>
 <td><p>Ｎ／Ａ</p></td>
-<td><p>2019年10月1日</p></td>
+<td><p>2019年10月9日</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -666,6 +682,8 @@ Omegamon X-Antibody</p></td>
 
 艾克萨兽被莉莉丝兽X操纵的大量X数码兽袭击后，以超乎寻常的速度被X程序感染。虽说艾克萨兽拥有强韧的肉体，但仍无法抵抗X抗体侵袭全身带来的疼痛，不久便满身疮痍。「我差不多也厌倦了，这就给你致命一击吧！」莉莉丝兽X以必杀技「娜扎尔之爪」逼近伤痕累累的艾克萨兽。但是，被不知从哪里放出的火焰突然袭击，莉莉丝兽停了下来。「皇家骑士是他们的希望之光……为了他们的心愿我不会让其消失！」[凤凰兽X现身了](https://zh.wikipedia.org/wiki/凤凰兽 "wikilink")。她张开金色之翼，为了保护艾克萨兽对抗莉莉丝兽X。凤凰兽X虽然通过突袭让莉莉丝兽X停了下来，但与七大魔王的正面对决处于劣势，受到了无数次攻击。「身为皇家骑士……我太丢人了！」无论受到多少次攻击都不放弃对抗到底，艾克萨兽被凤凰兽X的英姿鼓舞了。「喔哦——！」随后他自己产生X抗体，完成了X进化。「感谢你勇敢的行动！」「我也是被『他们』刺激到而不得不做出行动吧。」「之前你提到的他们是？虽然不知道是什么，但总之该开始反击了！与我共同行动吧，凤凰兽！」就像与艾克萨兽X的声音同步一样，凤凰兽X站到了他旁边。于是两位组队，一起对抗莉莉丝兽X和邪恶数码兽军团。
 
+皇家骑士在各地与邪恶军团展开激斗时，从黑暗区域冒出的大量数码兽以旧数码世界为舞台进行破坏活动。尚且年幼的数码兽以及对战斗没有自信的数码兽各自结帮成伙，前往安全场所避难，在骚乱平息前一直隐忍。「没事的，这里一定很安全。」为了让避难班颤抖不已的数码兽们安心，[迪路兽X对他们说出了这样的话语](https://zh.wikipedia.org/wiki/迪路兽 "wikilink")。然而……「你们藏在这里对吧？」邪恶数码兽之一——[吸血魔兽X突破防屏障出现](https://zh.wikipedia.org/wiki/吸血魔兽 "wikilink")。迪路兽X从吸血魔兽X身上感受到邪恶力量，在胆怯的同时尝试进攻，但被轻易弹了回来。就在感觉这样下去要全灭的时候，吸血魔兽背后突然发生爆炸。吸血魔兽X回头看，避难的数码兽和迪路兽X也一起注视，出现了一位数码兽。「我是[巫师兽](https://zh.wikipedia.org/wiki/巫师兽 "wikilink")。为了守护同胞居住的世界，从威彻尔尼赶来！既然要保护大家，就要做好觉悟战斗！」巫师兽X自报名字后勇敢地对吸血魔兽X发动了攻击。被巫师兽X身姿吸引的迪路兽X自己决定要守护数码兽们，于是进化成天女兽X。然后与巫师兽X并肩对抗吸血魔兽X。
+
 #### 旧数码世界
 
 旧数码世界与我们所居住的地球同样存在大陆和海洋。旧数码世界是在广阔的空间中飘浮的一颗如行星般的球状世界，以及扮演着存在于我们世界的计算机服务器的角色。旧数码世界分为：文件岛（File Island）、网络之海（Net Ocean）、文件夹大陆（Folder Continent）、万维网大陆（WWW Continent）、服务器大陆（Server Continent）、神之森（Forest of the Gods）、废坑（Trash Hole）、恶魔谷（Demon's Valley）、目录大陆（Directory Continent）、网页岛（Web Island）、黑暗区域（Dark Area）等区域。
@@ -673,6 +691,12 @@ Omegamon X-Antibody</p></td>
 ##### 黑暗区域
 
 黑暗区域（Dark Area）是形成纯净的黑暗及消极能量的“被删除的数据的墓地”，并且是最危险和邪恶的数码兽被限制的监狱。位于数码世界之内，靠近网络之海的最深处。\[6\]\[7\]
+
+#### 异世界
+
+##### 威彻尼尔
+
+威彻尔尼（Witchelny）\[8\]：异次元的数码世界。\[9\]Witchelny的魔法有着高级程序语言别称，由火焰、大地、水、风等元素组成，该地区数码兽至少掌握其中一种或多种魔法。“旋风战士（Voltex Warrior）”是Witchelny的一个组织，他们以风系魔法创造的武器作战，由有着“旋风将”之称的中世纪公爵兽掌管着。\[10\]
 
 #### 登场角色
 
@@ -723,12 +747,33 @@ Cherubimon (Vice) X-Antibody</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/迪路兽" title="wikilink">迪路兽X</a><br />
+Tailmon) X-Antibody<br />
+↓<br />
+天女兽X<br />
+Angewomon X-Antibody</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/吸血魔兽" title="wikilink">吸血魔兽X</a><br />
+Vamdemon X-Antibody</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/世界树" title="wikilink">世界树</a><br />
 <a href="https://zh.wikipedia.org/wiki/Yggdrasill" title="wikilink">Yggdrasill</a></p></td>
 <td><p>大德拉库兽<br />
 Grand Dracumon</p></td>
 <td><p>阿努比兽<br />
 Anubimon</p></td>
+</tr>
+<tr class="odd">
+<td><p>异世界（威彻尼尔）</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/巫师兽" title="wikilink">巫师兽X</a><br />
+Wizarmon X-Antibody</p></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -756,3 +801,6 @@ Anubimon</p></td>
 5.  [数码宝贝编年史X - Bandai](http://www.b-boys.jp/series/digimon/x-evo/)
 6.  大多由贵族带领的军队被称作“噩梦军团（NSo，Nightmare Soldiers）”。
 7.  [吸血鬼](../Page/吸血鬼.md "wikilink")数码兽之王大德拉库兽在古代黑暗区域内构建了城堡，传说他拥有不死之身，与数码世界产生出黑暗区域的缘由有着某种关系。在超古代，[光明兽和](https://zh.wikipedia.org/wiki/光明兽 "wikilink")[魔神兽发动反叛战争](https://zh.wikipedia.org/wiki/魔神兽 "wikilink")，与许多魔王型数码兽一同被封印在黑暗区域。其他叛乱的天使数码兽，也被监禁在黑暗区域之内，成为魔王或堕天使数码兽。当数码兽被冠以七大魔王之名的数码兽葬送时，他们的数据不会轮回转生，而是送往黑暗区域的中心，化为魔王们的血肉。
+8.  巫师兽等来自威彻尔尼的数码兽们，原型来源是万代和WiZ在制作数码兽之前发售的一款名为Magical Witches（マジカルウィッチーズ）的携带游戏。这款游戏的人设与数码兽一样是渡边健史。游戏的内容是「来到魔法学校的4个孩子为了培育大魔导师（最终形态）为目标」的相关剧情。在Magical Witches中的威彻尔尼，存在四个巫师与巫女的氏族代表四个元素，分为火（Energe）、土（Earthlin）、水（Aquary）和风（Baluluna）。
+9.  至于一些传闻中的“异世界”是否就是Witchelny就不得而知了。
+10. 在古代Witchelny，魔法（高级[程序语言](https://zh.wikipedia.org/wiki/程序语言 "wikilink")）尚未健全，面对外敌侵略毫无保护己身的策略，中世纪公爵兽在世界走向灭亡之道时突然出现，击退了外敌。

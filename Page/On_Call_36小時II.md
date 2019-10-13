@@ -488,7 +488,7 @@
 崔瑞華之女友</p></td>
 </tr>
 <tr class="even">
-<td></td>
+<td><p><a href="../Page/徐玟晴.md" title="wikilink">徐玟晴</a></p></td>
 <td><p>余玉清</p></td>
 <td><p>神經外科護士</p></td>
 </tr>

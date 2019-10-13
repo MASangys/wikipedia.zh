@@ -1,6 +1,8 @@
-**ezgo** 是[中華民國](../Page/中華民國.md "wikilink")[教育部校園](../Page/中華民國教育部.md "wikilink")[自由軟體數位資源推廣服務中心為校園自由軟體推動](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")，邀集自由軟體社群、老師與學生志工合力製作的一套[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，並包含 [Linux](../Page/Linux.md "wikilink") 及 [Windows](https://zh.wikipedia.org/wiki/Windows "wikilink") 下的自由軟體收錄，藉由ezgo中的各種類別的自由軟體，包含辦公、美工、影音、網路、教育、遊戲......等，以培養學生資訊應用觀念以及以資訊科技 解決問題的能力，與透過自由軟體的推動，縮短數位落差，實現教育機會均等的理想，並推出各版本ezgo免費光碟以提供各縣市教育單位推廣及教學應用。\[1\]\[2\]
+**ezgo** 是中華民國軟體自由協會承辦[中華民國](../Page/中華民國.md "wikilink")[教育部校園](../Page/中華民國教育部.md "wikilink")[自由軟體數位資源推廣服務中心](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")（OSSACC）計劃時，為校園自由軟體推動，邀集自由軟體社群、老師與學生志工合力製作的一套[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，並包含 [Linux](../Page/Linux.md "wikilink") 及 [Windows](https://zh.wikipedia.org/wiki/Windows "wikilink") 下的自由軟體收錄，藉由ezgo中的各種類別的自由軟體，包含辦公、美工、影音、網路、教育、遊戲......等，以培養學生資訊應用觀念以及以資訊科技 解決問題的能力，與透過自由軟體的推動，縮短數位落差，實現教育機會均等的理想，並推出各版本ezgo免費光碟以提供各縣市教育單位推廣及教學應用。\[1\]\[2\]
 
 ezgo平均每年推出一新版本，早期版本名稱為EzGo，從 ezgo8 起採用全小寫的 ezgo，以示站在巨人肩膀上渺小的我們，對自由軟體巨人之敬意。\[3\]目前最新穩定版本為2018年7月推出的ezgo14，並於被[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[市政府](https://zh.wikipedia.org/wiki/市政府 "wikilink")[教育局採用為新北市](https://zh.wikipedia.org/wiki/教育局 "wikilink")[國中](https://zh.wikipedia.org/wiki/國中 "wikilink")[小學](https://zh.wikipedia.org/wiki/小學 "wikilink")102[學年採購一萬台](https://zh.wikipedia.org/wiki/學年 "wikilink")[電腦的指定](https://zh.wikipedia.org/wiki/電腦 "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")\[4\]。
+
+2018 年起軟體自由協會不再承辦 OSSACC 計劃，但仍明確表示會持續維護與開發新版 ezgo 系統，也於 2019 年 8 月 26 日推出 ezgo14.1 更新版\[5\]。
 
 ## 製作理念
 
@@ -16,25 +18,25 @@ ezgo在ezgo11開始支援64位元。
 
 ## 版本發展
 
-  - 2008年9月：推出EzGo6\[5\]
+  - 2008年9月：推出EzGo6\[6\]
   - 2009年8月：推出EzGo7
   - 2010年10月：推出ezgo8
   - 2011年10月15日：推出ezgo9+及ezgo9-版
-      - ezgo9+版又分為包含Linux及Windows作業系統下的自由軟體體驗和、不含Windows作業系統下的自由軟體的+版ezgo9\[6\]
-      - ezgo9-版為[Ubuntu](../Page/Ubuntu.md "wikilink")的初始版本再加上ezgo9的環境設定與調校\[7\]
-  - 2012年9月30日：推出ezgoX 32位元版\[8\]，此版本開始基於[Kubuntu](../Page/Kubuntu.md "wikilink")開發，使用[KDE](../Page/KDE.md "wikilink")桌面環境。
+      - ezgo9+版又分為包含Linux及Windows作業系統下的自由軟體體驗和、不含Windows作業系統下的自由軟體的+版ezgo9\[7\]
+      - ezgo9-版為[Ubuntu](../Page/Ubuntu.md "wikilink")的初始版本再加上ezgo9的環境設定與調校\[8\]
+  - 2012年9月30日：推出ezgoX 32位元版\[9\]，此版本開始基於[Kubuntu](../Page/Kubuntu.md "wikilink")開發，使用[KDE](../Page/KDE.md "wikilink")桌面環境。
   - 2013年
       - 11月23日：舉辦 ezgo11 發表會，32位元與64位元版本推出。
-      - 12月21日在中國重慶舉辦首次中國 ezgo 高峰會\[9\]。此版本的客製化版本也於 2013 年獲得新北市教育局採用為該市所有國中小學新採購電腦的預設作業系統。
+      - 12月21日在中國重慶舉辦首次中國 ezgo 高峰會\[10\]。此版本的客製化版本也於 2013 年獲得新北市教育局採用為該市所有國中小學新採購電腦的預設作業系統。
   - 2015年
       - 2月4日：ezgo12 beta 32位元與64位元版本推出，有基於KDE的視覺華麗版與基於Xfce的輕巧快速版。
-      - 3月1日：ezgo12 正式發行，此版分為推廣版和基本版。推廣版包含自由軟體，也是ezgo12光碟的主要版本\[10\]。
+      - 3月1日：ezgo12 正式發行，此版分為推廣版和基本版。推廣版包含自由軟體，也是ezgo12光碟的主要版本\[11\]。
   - 2017年
       - 1月1日：ezgo13正式發行，此版僅有64位元版本。
   - 2018年
       - 7月18日：ezgo14正式發行，從此版本起的發行週期改為跟隨 Ubuntu LTS 版本週期。下一版本預計於 2020 年中推出。
   - 2019年
-      - 4月5日在中國北京的中科院軟件研究所舉辦 ezgo14 Release party\[11\]
+      - 4月5日在中國北京的中科院軟件研究所舉辦 ezgo14 Release party\[12\]
 
 ## 发布周期
 
@@ -78,15 +80,17 @@ ezgo 新版本發佈週期大約是一年一個版本。
 
 4.  ⟪開放必勝⟫，LinuxPilot 國際中文版科技雜誌
 
-5.  自由時報：《教育記事簿》
+5.  ezgo14.1釋出！ <https://www.facebook.com/ezgotw/posts/2503256119733926>
 
-6.  ezgo9下載頁面 <http://ezgo.westart.tw/ezgo9/download.php>
+6.  自由時報：《教育記事簿》
 
-7.
-8.  LinuxPilot：ezgoX推出
+7.  ezgo9下載頁面 <http://ezgo.westart.tw/ezgo9/download.php>
 
-9.  中国国际广播电台：重庆首次EZGO China峰会12月21日山城拉开序幕
+8.
+9.  LinuxPilot：ezgoX推出
 
-10. [ezgo12下載前的說明](http://ezgo.westart.tw/ezgo12/download.php)
+10. 中国国际广播电台：重庆首次EZGO China峰会12月21日山城拉开序幕
 
-11. [活动通告：老朋友的聚会 – ezgo 14 release party 北京分享会](https://ezgolinux.org/event/ezgo14-release/)
+11. [ezgo12下載前的說明](http://ezgo.westart.tw/ezgo12/download.php)
+
+12. [活动通告：老朋友的聚会 – ezgo 14 release party 北京分享会](https://ezgolinux.org/event/ezgo14-release/)

@@ -79,7 +79,7 @@
 6.  [孝敏、Danee 新曲概念照](http://kpopn.com/2012/06/15/128485/) - kpopn
 7.  [T-ara “Day By Day" 預告](http://kpopn.com/2012/06/28/130534/) - kpopn
 8.  [T-ara─Day By Day 個人照](http://kpopn.com/2012/06/29/130678/) - kpopn
-9.  [T-ara 花英離團](http://kpopn.com/2012/07/30/136172/) - kpopn
+9.  [T-ara 花英離團](http://kpopn.com/2012/07/30/136172/)  - kpopn
 10. [韓網爆料T-ara花英遭集體排擠 內幕如何引發大眾好奇](http://www.koreastardaily.com/tc/news/19318) - 韓星網
 11. [T-ARA開除花英「 金」慘](http://www.libertytimes.com.tw/2012/new/aug/1/today-show8.htm)  - 自由電子報
 12. [花英因腳傷將暫停所有行程](http://kpopn.com/2012/07/27/135721/) - kpopn

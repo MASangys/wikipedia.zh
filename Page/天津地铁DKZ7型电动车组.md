@@ -78,4 +78,4 @@ DKZ7型由[长春轨道客车负责生产](https://zh.wikipedia.org/wiki/长春�
 
   - [列车介绍](https://web.archive.org/web/20150601094246/http://www.chinacnr.com/p325.aspx?ProductID=12&ParentID=8)
 
-[Category:中车长客制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车长客制铁路车辆 "wikilink") [Category:天津地铁车辆](https://zh.wikipedia.org/wiki/Category:天津地铁车辆 "wikilink") [Category:天津地铁九号线](https://zh.wikipedia.org/wiki/Category:天津地铁九号线 "wikilink")
+[Category:中车长客制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车长客制铁路车辆 "wikilink") [Category:天津地铁车辆](https://zh.wikipedia.org/wiki/Category:天津地铁车辆 "wikilink") [Category:天津地铁9号线](https://zh.wikipedia.org/wiki/Category:天津地铁9号线 "wikilink")

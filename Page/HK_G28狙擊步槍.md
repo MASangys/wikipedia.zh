@@ -111,7 +111,7 @@ HK G28標準型使用的瞄準具為德國警用神槍手二型（，簡稱：PM
     以G28E3為藍本，但護木上具有自2013年流行起來的型導軌系統以減輕護木重量，同時裝上了由OSS公司研製的模組化[抑制器](../Page/抑制器.md "wikilink")。\[8\]下機匣來自HK417A2／MR308A3，只是修改了槍機釋放、彈匣卡筍和快慢機，扳機後方還新增了扳機止動螺釘\[9\]。
   - M110A1
     於2016年4月[Heckler & Koch證實G](../Page/黑克勒&科赫.md "wikilink")28的輕量化版本G28E贏得了[美國陸軍](https://zh.wikipedia.org/wiki/美國陸軍 "wikilink")計畫的合約用以替換M110半自動狙擊手系統。\[10\]
-    該型號被定名為M110A1，為達成要求的重量上槍匣改為鋁合金而不是原來的不銹鋼，空槍不含彈匣重3.8公斤(8.4lb)，包含彈匣和配件為6.8公斤(15lb)左右；M110A1配有[Geissele的](https://zh.wikipedia.org/wiki/Geissele_Automatics "wikilink")[M-LOK](../Page/M-LOK.md "wikilink")附件安裝界面護木、的3–20×50 PM II Ultra Short瞄準鏡、[Geissele的鏡座](https://zh.wikipedia.org/wiki/Geissele_Automatics "wikilink")、OSS的SRM6消音管、Harris的6-9英吋雙腳架和轉接座及具有可調整式貼腮的伸縮拖。\[11\]\[12\]
+    該型號被定名為M110A1，為達成要求的重量上槍匣改為鋁合金而不是原來的不銹鋼，空槍不含彈匣重3.8公斤(8.4lb)，包含彈匣和配件為6.8公斤(15lb)左右；M110A1配有[Geissele的](../Page/Geissele_Automatics.md "wikilink")[M-LOK](../Page/M-LOK.md "wikilink")附件安裝界面護木、的3–20×50 PM II Ultra Short瞄準鏡、[Geissele的鏡座](../Page/Geissele_Automatics.md "wikilink")、OSS的SRM6消音管、Harris的6-9英吋雙腳架和轉接座及具有可調整式貼腮的伸縮拖。\[11\]\[12\]
     於2018年5月[美國海軍陸戰隊將開始接收M](https://zh.wikipedia.org/wiki/美國海軍陸戰隊 "wikilink")110A1也用來取代M110。\[13\]
   - DMR762
     執法機關的型號。使用的標準設置為德國施密特-本德爾警用神槍手二型3—20×50可變倍光學狙擊鏡，標準[彈匣](../Page/彈匣.md "wikilink")容量為10發，據說獲德國聯邦警察採用。

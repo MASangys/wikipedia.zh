@@ -8,4 +8,10 @@
 ## 参考文献
 
   -
+## 參看
+
+  - [甲基乙二醛](https://zh.wikipedia.org/wiki/甲基乙二醛 "wikilink")
+
+## 外部連結
+
 [Category:EC_1.1.1](https://zh.wikipedia.org/wiki/Category:EC_1.1.1 "wikilink") [Category:NADH依赖性酶](https://zh.wikipedia.org/wiki/Category:NADH依赖性酶 "wikilink") [Category:未知结构的酶](https://zh.wikipedia.org/wiki/Category:未知结构的酶 "wikilink")

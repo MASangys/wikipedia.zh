@@ -45,7 +45,7 @@ MariaDB直到5.5版本，均依照MySQL的版本。因此，使用MariaDB5.5的�
 <tr class="even">
 <td></td>
 <td><p>[13]</p></td>
-<td><p>5.5.63</p></td>
+<td><p>5.5.65</p></td>
 <td><p>[14]</p></td>
 <td><p>Stable (GA)</p></td>
 </tr>
@@ -59,30 +59,30 @@ MariaDB直到5.5版本，均依照MySQL的版本。因此，使用MariaDB5.5的�
 <tr class="even">
 <td></td>
 <td><p>[17]</p></td>
-<td><p>10.1.38</p></td>
+<td><p>10.1.41</p></td>
 <td><p>[18]</p></td>
 <td><p>Stable (GA)</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>[19]</p></td>
-<td><p>10.2.23</p></td>
+<td><p>10.2.27</p></td>
 <td><p>[20]</p></td>
 <td><p>Stable (GA)</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>[21]</p></td>
-<td><p>10.3.13</p></td>
+<td><p>10.3.18</p></td>
 <td><p>[22]</p></td>
 <td><p>Stable (GA)</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>[23]</p></td>
-<td><p>10.4.3</p></td>
+<td><p>10.4.8</p></td>
 <td><p>[24]</p></td>
-<td><p>Release Candidate</p></td>
+<td><p>Stable (GA)</p></td>
 </tr>
 <tr class="even">
 <td><p><small></small></p></td>
@@ -96,7 +96,7 @@ MariaDB直到5.5版本，均依照MySQL的版本。因此，使用MariaDB5.5的�
 
 ## 第三方软件
 
-MariaDB的API和协议兼容MySQL，另外又-{zh-hans:添加; zh-tw:新增}-了一些功能，以支持原生的非阻塞操作和进度报告。这意味着，所有使用MySQL的连接器、程式库和应用程序也将可以在MariaDB下工作。在此基础上，由于担心甲骨文MySQL的一个更加封闭的软件项目，Fedora的计划在Fedora 19中的以MariaDB取代MySQL\[25\]，维基媒体基金会的服务器同样也使用MariaDB取代了MySQL\[26\]。
+MariaDB的API和协议兼容MySQL，另外又-{zh-hans:添加; zh-tw:新增}-了一些功能，以支持原生的非阻塞操作和进度报告。这意味着，所有使用MySQL的连接器、程式库和应用程序也将可以在MariaDB下工作。在此基础上，由于担心甲骨文MySQL的一个更加封闭的软件项目，Fedora等Linux发行版已经在最新版本中以MariaDB取代MySQL\[25\]，维基媒体基金会的服务器同样也使用MariaDB取代了MySQL\[26\]。
 
 如下是支持MariaDB的工具：
 

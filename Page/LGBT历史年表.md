@@ -220,7 +220,7 @@
   - **1923** – 女同性恋[Elsa Gidlow在英格兰出生](https://zh.wikipedia.org/wiki/Elsa_Gidlow "wikilink")。她在美国发表了第一部描写女同性恋的诗歌《On A Grey Thread》\[77\]
   - **1924** –  在芝加哥建立了美国第一个同性恋权益组织“人权协会“\[78\]。该组织在警方的压力下只维持了几个月\[79\]。 同性恋在巴拿马，巴拉圭和秘鲁合法化。
   - **1926** – 同性恋“homosexuality”一词第一次出现在美国主流刊物[纽约时报](../Page/纽约时报.md "wikilink")上\[80\]。
-  - **1927–** 波兰同性恋作曲家[卡罗尔·马切伊·席曼诺夫斯基被任命为国立音乐学院](https://zh.wikipedia.org/wiki/卡罗尔·席曼诺夫斯基 "wikilink") [Fryderyk Chopin Music Academy主任](https://zh.wikipedia.org/wiki/Fryderyk_Chopin_Music_Academy "wikilink")。
+  - **1927–** 波兰同性恋作曲家[卡罗尔·马切伊·席曼诺夫斯基被任命为国立音乐学院](../Page/卡罗尔·席曼诺夫斯基.md "wikilink") [Fryderyk Chopin Music Academy主任](https://zh.wikipedia.org/wiki/Fryderyk_Chopin_Music_Academy "wikilink")。
   - **1928** – [瑞克里芙·霍尔的](../Page/瑞克里芙·霍爾.md "wikilink")《[寂寞之井](../Page/寂寞之井.md "wikilink")》在英国出版，之后进入美国。它的发表出发了法律争议并将同性恋问题带入公众议题。
   - **1929** – 5月22日，《[美丽的阿美利加](../Page/美丽的阿美利加.md "wikilink")》作者去世。 10月16日，德意志帝国议会投票废除[德國刑事法第175條](../Page/德國刑事法第175條.md "wikilink")，纳粹掌权后制止了投票的生效。
 

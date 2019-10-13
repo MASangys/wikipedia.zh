@@ -18,7 +18,7 @@ XVideos是一个色情视频分享网站，它是一个类似于[YouTube](../Pag
 
 ### 中华人民共和国
 
-受[长城防火墙影响](https://zh.wikipedia.org/wiki/长城防火墙 "wikilink")，在中华人民共和国境内，如果不使用VPN，无法登陆此网站。
+受[长城防火墙影响](https://zh.wikipedia.org/wiki/长城防火墙 "wikilink")，在中华人民共和国境内，如果不[翻墻](../Page/突破网络审查.md "wikilink")，无法登陆此网站。
 
 ### 韩国
 

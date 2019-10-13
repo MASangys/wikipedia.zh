@@ -23,7 +23,7 @@
 <!-- end list -->
 
   -
-    [配音員](../Page/配音員.md "wikilink")：[堀江由衣](../Page/堀江由衣.md "wikilink")
+    [配音員](../Page/配音員.md "wikilink")：[堀江由衣](../Page/堀江由衣.md "wikilink")（日本）／[何凱怡](https://zh.wikipedia.org/wiki/何凱怡 "wikilink")（香港）
     光之黄属性，喜歡甜品，尤其是剑的奶奶做的饼干，自己有一家甜點公司，由於兒時貧窮自立自強建成的，喜歡劍，但经常与劍斗嘴。
 
 <!-- end list -->
@@ -401,7 +401,9 @@
   - 減輕戰徽：藍3
   - LV1：BP5000，合體：+BP5000
 
-## 工作人員
+## 電視動畫
+
+### 製作人員
 
   - 企劃 - [日昇動畫](../Page/日昇動畫.md "wikilink")
   - 原作 - [矢立肇](https://zh.wikipedia.org/wiki/矢立肇 "wikilink")
@@ -424,7 +426,7 @@
   - 動畫制作 - [日昇動畫](../Page/日昇動畫.md "wikilink")
   - 制作 - [名古屋電視台](../Page/名古屋電視台.md "wikilink")、日昇動畫、[ADK](https://zh.wikipedia.org/wiki/ADK "wikilink")
 
-## 主題歌
+### 主題歌
 
   - OP（片頭曲）
 
@@ -454,7 +456,7 @@
       -
         作詞 - 生田真心／作曲、編曲 - ハマサキユウジ／歌 - ゆーたくII
 
-## 各話標題
+### 各話標題
 
 <table>
 <thead>
@@ -473,7 +475,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1</p></td>
-<td><p>光と闇の神話 輝龍シャイニング・ドラゴン！</p></td>
+<td></td>
 <td><p>光與暗的神話 輝龍·閃耀星龍！</p></td>
 <td><p>富岡淳廣</p></td>
 <td><p>渡邊正樹</p></td>
@@ -737,26 +739,16 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>激鬥傳</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>27</p></td>
 <td><p>自由への激闘！ハクア対ブラウ</p></td>
 <td><p>自邁向自由的激鬥！哈古亞VS布拉烏！</p></td>
-<td><p>富岡淳廣</p></td>
 <td><p>齋藤昭裕</p></td>
 <td><p>石川てつや</p></td>
 <td><p>天空の光剣クラウン．ソーラー</p></td>
 <td></td>
+<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>28</p></td>
 <td><p>ツルギ闇に起つ 暗黒の魔剣ダーク･ブレード開眼！</p></td>
 <td><p>劍於黑暗中揭竿而起黑暗之魔劍黑暗霸劍開眼！</p></td>
@@ -766,7 +758,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>29</p></td>
 <td><p>地の底より 闇龍ダーク・ティラノザウラー咆哮！</p></td>
 <td><p>來自深淵之地底暗龍暗黑暴龍咆哮！</p></td>
@@ -774,6 +766,16 @@
 <td><p>中島大輔</p></td>
 <td><p>長生中</p></td>
 <td><p>黃昏之暗黑銀河</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>激鬥傳</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -994,7 +996,7 @@
 </tbody>
 </table>
 
-## 播放電視台
+### 播放電視台
 
   - 香港
 

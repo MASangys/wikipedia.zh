@@ -1,6 +1,6 @@
 **Idris** 是一个通用的[依赖类型](../Page/依赖类型.md "wikilink")纯[函数式编程语言](https://zh.wikipedia.org/wiki/函数式编程语言 "wikilink")，其[类型系统与](https://zh.wikipedia.org/wiki/类型系统 "wikilink") [Agda](../Page/Agda.md "wikilink") 以及 [Epigram](https://zh.wikipedia.org/wiki/Epigram "wikilink") 相似。
 
-Idris 语言具备堪与 [Coq](../Page/Coq.md "wikilink") 媲美的交互式定理证明能力，自带 tactics，而其设计目标侧重于通用系统编程更甚于辅助证明。Idris 的其他设计目标还包括“可观的”代码性能，对[副作用的控制](../Page/函数副作用.md "wikilink")，以及对于实现嵌入式[领域特定语言](https://zh.wikipedia.org/wiki/领域特定语言 "wikilink")（Embedded Domain Specific Language，EDSL）的支持。
+Idris 语言具备堪与 [Coq](../Page/Coq.md "wikilink") 媲美的交互式定理证明能力，自带 tactics，而其设计目标侧重于通用系统编程更甚于辅助证明。Idris 的其他设计目标还包括“可观的”代码性能，对[副作用的控制](../Page/函数副作用.md "wikilink")，以及对于实现嵌入式[领域特定语言](../Page/领域特定语言.md "wikilink")（Embedded Domain Specific Language，EDSL）的支持。
 
 Idris 通过一个依赖类型的核心语言 TT 生成[C语言的中间代码并编译到本地机器码](https://zh.wikipedia.org/wiki/C语言 "wikilink")，并利用了一个基于的[垃圾收集器实现](../Page/垃圾回收_\(計算機科學\).md "wikilink")。Idris亦拥有 [JavaScript](../Page/JavaScript.md "wikilink")、[Java](../Page/Java.md "wikilink") 和 [LLVM](../Page/LLVM.md "wikilink") 的编译器后端。\[1\]
 

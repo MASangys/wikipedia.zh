@@ -33,4 +33,4 @@ IAR 99的動力為一俱英國勞斯萊斯受權羅馬尼亞生產的蝮蛇MK632
 
   - 全球防衛雜誌第80期
 
-[Category:軍用教練機](https://zh.wikipedia.org/wiki/Category:軍用教練機 "wikilink")
+[Category:軍用教練機](https://zh.wikipedia.org/wiki/Category:軍用教練機 "wikilink") [Category:單發噴射機](https://zh.wikipedia.org/wiki/Category:單發噴射機 "wikilink")

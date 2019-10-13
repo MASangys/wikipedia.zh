@@ -111,14 +111,14 @@ CA2也可以生成类似的包含有CA1公钥的证书cert1.1，以便PKI1的用
 
 ### 最终实体证书（或者叫叶子证书）
 
-`  证书:`
+`  憑證:`
 `          版本: 3 (0x2)`
-`        序列号: 10:e6:fc:62:b7:41:8a:d5:00:5e:45:b6`
-`      签名算法: sha256WithRSAEncryption`
-`        颁发者: C=BE, O=GlobalSign nv-sa, CN=GlobalSign Organization Validation CA - SHA256 - G2`
-`      此前无效: Nov 21 08:00:00 2016 GMT`
-`      此后无效: Nov 22 07:59:59 2017 GMT`
-`         主题: C=US, ST=California, L=San Francisco, O=Wikimedia Foundation, Inc., CN=*.wikipedia.org`
+`        序號: 10:e6:fc:62:b7:41:8a:d5:00:5e:45:b6`
+`      簽章演算法: sha256WithRSAEncryption`
+`        發行者: C=BE, O=GlobalSign nv-sa, CN=GlobalSign Organization Validation CA - SHA256 - G2`
+`      有效期開始時間: Nov 21 08:00:00 2016 GMT`
+`      有效期結束時間: Nov 22 07:59:59 2017 GMT`
+`         主體: C=US, ST=California, L=San Francisco, O=Wikimedia Foundation, Inc., CN=*.wikipedia.org`
 `  主题公钥信息:`
 `            公钥算法: id-ecPublicKey`
 `         256位的公钥:`

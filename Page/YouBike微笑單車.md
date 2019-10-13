@@ -1,4 +1,4 @@
-**YouBike微笑單車**（通稱**Ubike**）為[臺灣](../Page/臺灣.md "wikilink")自行車製造商[巨大機械建置與營運的](https://zh.wikipedia.org/wiki/巨大機械 "wikilink")[公共自行車](../Page/公共自行車.md "wikilink")租賃系統，其電子與雲端的部分則由微程式資訊\[1\]負責設計，最初由子公司[捷安特](../Page/捷安特.md "wikilink")公司負責，2015年後改由同屬巨大機械旗下的微笑單車公司負責。
+**YouBike微笑單車**（通稱**YouBike**）為[臺灣](../Page/臺灣.md "wikilink")自行車製造商[巨大機械建置與營運的](https://zh.wikipedia.org/wiki/巨大機械 "wikilink")[公共自行車](../Page/公共自行車.md "wikilink")租賃系統，其電子與雲端的部分則由微程式資訊\[1\]負責設計，最初由子公司[捷安特](../Page/捷安特.md "wikilink")公司負責，2015年後改由同屬巨大機械旗下的微笑單車股份有限公司負責。
 
 YouBike微笑單車以[公辦民營模式經營](https://zh.wikipedia.org/wiki/公辦民營 "wikilink")，第一個營運系統位於[臺北市](../Page/臺北市.md "wikilink")，目前在臺灣有[臺北市](../Page/臺北市.md "wikilink")、[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")、[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")、[新竹市](https://zh.wikipedia.org/wiki/新竹市 "wikilink")、[新竹科學園區](https://zh.wikipedia.org/wiki/新竹科學園區 "wikilink")、[苗栗縣](../Page/苗栗縣.md "wikilink")、[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")、[彰化縣等地的公共自行車系統採用該系統](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")，臺灣以外則有中國大陸[福建省](../Page/福建省.md "wikilink")[泉州市](../Page/泉州市.md "wikilink")、[莆田市](../Page/莆田市.md "wikilink")採用。
 

@@ -258,6 +258,16 @@ PlotData =
 </ul></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p><strong>6th</strong></p></td>
+<td><p>第六張迷你專輯《<strong>YAHO</strong>》</p>
+<ul>
+<li>發行日期：2019年10月15日</li>
+<li>語言：韓語</li>
+</ul></td>
+<td><p><br />
+</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -443,6 +453,7 @@ PlotData =
 | 8月24日       |
 | 9月10日       |
 | 9月14日       |
+| 9月28日       |
 
 ## 影音作品
 

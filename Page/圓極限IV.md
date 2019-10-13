@@ -14,7 +14,7 @@
 
 ## 參考文獻
 
-[Category:雙曲幾何](https://zh.wikipedia.org/wiki/Category:雙曲幾何 "wikilink") [Category:雙曲面鑲嵌](https://zh.wikipedia.org/wiki/Category:雙曲面鑲嵌 "wikilink") [Category:鑲嵌藝術](https://zh.wikipedia.org/wiki/Category:鑲嵌藝術 "wikilink")
+[Category:雙曲幾何](https://zh.wikipedia.org/wiki/Category:雙曲幾何 "wikilink") [Category:雙曲面鑲嵌](https://zh.wikipedia.org/wiki/Category:雙曲面鑲嵌 "wikilink") [Category:鑲嵌藝術](https://zh.wikipedia.org/wiki/Category:鑲嵌藝術 "wikilink") [Category:莫里茲·柯尼利斯·艾雪](https://zh.wikipedia.org/wiki/Category:莫里茲·柯尼利斯·艾雪 "wikilink")
 
 1.  1994 [M. C. Escher](https://zh.wikipedia.org/wiki/莫里茨·科內利斯·埃舍爾 "wikilink")《Circle Limit IV》, 1960, CAordon Art-Baarn-Holland
 2.  Theoni Pappas:《數學放輕鬆》, 陳以鴻譯, 台北市, 世茂出版社，ISBN 957-776-611-0，第65頁

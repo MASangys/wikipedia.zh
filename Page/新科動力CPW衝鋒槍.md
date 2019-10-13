@@ -37,7 +37,7 @@ CPW的[機匣上下整合了共兩條](https://zh.wikipedia.org/wiki/機匣 "wik
   - [B\&T MP9戰術衝鋒槍](../Page/B&T_MP9戰術衝鋒槍.md "wikilink")
   - [PP-2000冲锋枪](../Page/PP-2000冲锋枪.md "wikilink")
   - [SR-2希瑟衝鋒槍](../Page/SR-2希瑟衝鋒槍.md "wikilink")
-  - [GSh-18半自動手槍](https://zh.wikipedia.org/wiki/GSh-18半自動手槍 "wikilink")
+  - [GSh-18半自動手槍](../Page/GSh-18半自動手槍.md "wikilink")
   - [MP-443烏鴉式手槍](../Page/MP-443烏鴉式手槍.md "wikilink")
   - [MSMC衝鋒槍](../Page/MSMC衝鋒槍.md "wikilink")
   - [紳寶波佛斯動力CBJ-MS衝鋒槍](../Page/紳寶波佛斯動力CBJ-MS衝鋒槍.md "wikilink")

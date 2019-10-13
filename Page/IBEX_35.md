@@ -256,7 +256,7 @@ IBEX 35是一個[市值加權指數](https://zh.wikipedia.org/wiki/市值加權�
 </tr>
 <tr class="odd">
 <td><p>MEL</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/美利亚酒店集团" title="wikilink">美利亚酒店集团</a></p></td>
+<td><p><a href="../Page/美利亚酒店集团.md" title="wikilink">美利亚酒店集团</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/帕爾馬_(西班牙)" title="wikilink">帕爾馬</a></p></td>
 <td><p>旅游</p></td>
 <td><p><a href="http://www.bolsamadrid.es/esp/aspx/Empresas/FichaValor.aspx?ISIN=ES0176252718">ES0176252718</a></p></td>
@@ -337,7 +337,7 @@ IBEX 35是一個[市值加權指數](https://zh.wikipedia.org/wiki/市值加權�
   - [IBEX 35官方网站](http://www.ibex35.com/)
   - [IBEX 35 profile via Wikinvest](https://zh.wikipedia.org/wiki/Wikinvest:_IBEX_35 "wikilink")
 
-[Category:IBEX-35](https://zh.wikipedia.org/wiki/Category:IBEX-35 "wikilink") [Category:1992年西班牙建立](https://zh.wikipedia.org/wiki/Category:1992年西班牙建立 "wikilink") [Category:1992年面世](https://zh.wikipedia.org/wiki/Category:1992年面世 "wikilink")
+[Category:IBEX-35](https://zh.wikipedia.org/wiki/Category:IBEX-35 "wikilink") [Category:1992年西班牙建立](https://zh.wikipedia.org/wiki/Category:1992年西班牙建立 "wikilink") [Category:1992年面世](https://zh.wikipedia.org/wiki/Category:1992年面世 "wikilink") [Category:欧洲股市指数](https://zh.wikipedia.org/wiki/Category:欧洲股市指数 "wikilink")
 
 1.  [IBEX 35 facts via Wikinvest](https://zh.wikipedia.org/wiki/Wikinvest:IBEX_35 "wikilink")
 

@@ -425,7 +425,7 @@ Solo未出道的狀態</p></td>
 
   - [劉在錫](../Page/劉在錫.md "wikilink")
 
-  - [金龍萬](https://zh.wikipedia.org/wiki/金龍萬 "wikilink")
+  - [金龍萬](../Page/金龍萬.md "wikilink")
 
   - [鄭亨敦](../Page/鄭亨敦.md "wikilink")
 
@@ -448,7 +448,7 @@ Solo未出道的狀態</p></td>
 
   -
   -
-<!-- end list -->
+歌手 李宗泫
 
   - 電視劇導演
 
@@ -487,11 +487,12 @@ Neoz School是FNC娛樂於2015年12月推出的計劃，可以預先看到預備
 
   - 團體成員
       - M Signal
-      - [吳元斌](../Page/吳元斌.md "wikilink")（[FTIsland](../Page/FTIsland.md "wikilink")）
-      - [崔鍾訓](../Page/崔鍾訓.md "wikilink")（[FTIsland](../Page/FTIsland.md "wikilink")）
+      - [吳元斌](../Page/吳元斌.md "wikilink")（[FTISLAND](https://zh.wikipedia.org/wiki/FTISLAND "wikilink")）
+      - [崔鍾訓](../Page/崔鍾訓.md "wikilink")（[FTISLAND](https://zh.wikipedia.org/wiki/FTISLAND "wikilink")）
       - **徐有慶**（[AOA](../Page/AOA.md "wikilink")）
       - [朴草娥](https://zh.wikipedia.org/wiki/朴草娥 "wikilink")（[AOA](../Page/AOA.md "wikilink")）
       - [權珉娥](https://zh.wikipedia.org/wiki/權珉娥 "wikilink")（[AOA](../Page/AOA.md "wikilink")）
+      - [權光珍](https://zh.wikipedia.org/wiki/權光珍 "wikilink")（[N.Flying](../Page/N.Flying.md "wikilink")）
   - SOLO
       - [Juniel](../Page/Juniel.md "wikilink")
   - 演員

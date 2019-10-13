@@ -45,7 +45,7 @@
 10. [Example Sites Which Use Backbone.js](http://backbonejs.org/#examples)
 11. [Example Sites Which Use Backbone.js](http://backbonejs.org/#examples)
 12. [Example Sites Which Use Backbone.js](http://backbonejs.org/#examples)
-13. [Backbonification: migrating a large JavaScript project from DOM spaghetti to Backbone.js](http://www.ofbrooklyn.com/2012/11/13/backbonification-migrating-javascript-to-backbone/), Samuel Clay (NewsBlur) 13th November 2012
+13. [Backbonification: migrating a large JavaScript project from DOM spaghetti to Backbone.js](http://www.ofbrooklyn.com/2012/11/13/backbonification-migrating-javascript-to-backbone/) , Samuel Clay (NewsBlur) 13th November 2012
 14. [Example Sites Which Use Backbone.js](http://backbonejs.org/#examples)
 15. [Example Sites Which Use Backbone.js](http://backbonejs.org/#examples)
 16. [Example Sites Which Use Backbone.js](http://backbonejs.org/#examples)

@@ -233,7 +233,7 @@
 </tr>
 <tr class="even">
 <td><p>蒼の彼方</p></td>
-<td><p>電視動畫『<a href="../Page/天空與海洋之間.md" title="wikilink">在天空與海洋之間</a>』片頭曲</p></td>
+<td><p>電視動畫『<a href="../Page/天空與海洋之間.md" title="wikilink">在天空與海洋之間</a>』片尾曲</p></td>
 <td></td>
 </tr>
 <tr class="odd">

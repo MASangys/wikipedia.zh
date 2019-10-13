@@ -2,7 +2,7 @@
 
 ## 概要
 
-2011年上半年，於[GAINAX](../Page/GAINAX.md "wikilink")完成《[吊帶襪天使](https://zh.wikipedia.org/wiki/吊帶襪天使 "wikilink")》的工作後，社員大塚雅彥、[今石洋之](../Page/今石洋之.md "wikilink")和舛本和也帶領部分核心製作夥伴離開公司， \[1\]並於8月22日正式成立新公司，社名緣由是寓意創作猶如子彈射出時被「觸發」的一瞬間。 \[2\] 設立前曾經構想過集合行業以內各中小型動畫公司及工作室，形成影響力廣大的控股公司「Ultra Super Pictures」。後來基於[日本動畫行業的傳統和各個製作班底的自主性方針](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")，決定暫時只需名義上加入有關主公司，大部分接收工作的決定依舊會由工作室本身處理。
+2011年上半年，於[GAINAX](../Page/GAINAX.md "wikilink")完成《[吊帶襪天使](https://zh.wikipedia.org/wiki/吊帶襪天使 "wikilink")》的工作後，社員[大塚雅彥](https://zh.wikipedia.org/wiki/大塚雅彥 "wikilink")、[今石洋之](../Page/今石洋之.md "wikilink")與舛本和也帶領部分核心製作夥伴離開公司， \[1\]並於8月22日正式成立新公司，社名緣由是寓意創作猶如子彈射出時被「觸發」的一瞬間。 \[2\] 設立前曾經構想過集合行業以內各中小型動畫公司及工作室，形成影響力廣大的控股公司「Ultra Super Pictures」。後來基於[日本動畫行業的傳統和各個製作班底的自主性方針](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")，決定暫時只需名義上加入有關主公司，大部分接收工作的決定依舊會由工作室本身處理。
 
 目前，公司積極參與各項激發創意的活動和展覽會，更曾為繼續編寫已有作品之新系列而進行公開募捐。\[3\] 製作多為社內人員原創並偏[金田伊功](../Page/金田伊功.md "wikilink")的風格\[4\]。2013年10月，推出第一部長篇[電視動畫作品](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《Kill La Kill》。
 
@@ -38,7 +38,7 @@
 <td><p><a href="../Page/日常生活中的異能戰鬥.md" title="wikilink">日常生活中的異能戰鬥</a></p></td>
 <td></td>
 <td><p>2014年10月6日－12月22日</p></td>
-<td><p>大塚雅彥</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大塚雅彥" title="wikilink">大塚雅彥</a></p></td>
 <td><p>小說</p></td>
 <td></td>
 </tr>
@@ -143,7 +143,7 @@
 <td><p>2011年</p></td>
 <td></td>
 <td></td>
-<td><p>今石洋之</p></td>
+<td><p>雨宮哲、今石洋之</p></td>
 <td><p>13</p></td>
 <td></td>
 </tr>
@@ -193,38 +193,10 @@
 </tbody>
 </table>
 
-<table>
-<caption></caption>
-<thead>
-<tr class="header">
-<th><p>年份</p></th>
-<th><p>中文標題</p></th>
-<th><p>日文標題</p></th>
-<th><p>形式</p></th>
-<th><p>備註</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>2013年</p></td>
-<td><p><a href="../Page/四百二十連敗女孩.md" title="wikilink">四百二十連敗女孩</a></p></td>
-<td></td>
-<td><p>PV</p></td>
-<td><p><a href="../Page/Fami通文庫.md" title="wikilink">Fami通遊戲文庫</a>15周年特別企劃</p></td>
-</tr>
-<tr class="even">
-<td><p>2019年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/神角技巧與11人的破壞者" title="wikilink">神角技巧與11人的破壞者</a></p></td>
-<td></td>
-<td><p>片頭曲動畫</p></td>
-<td><p>手機遊戲</p></td>
-</tr>
-</tbody>
-</table>
-
 ### 參與製作
 
 <table>
+<caption></caption>
 <thead>
 <tr class="header">
 <th><p>年份</p></th>
@@ -269,14 +241,6 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/穿越領域計劃" title="wikilink">穿越領域計劃</a></p></td>
-<td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/南夢宮萬代" title="wikilink">南夢宮萬代</a></p></td>
-<td><p>OP動畫製作</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>2013年</p></td>
 <td><p><a href="../Page/戰勇。.md" title="wikilink">戰勇。</a></p></td>
 <td></td>
@@ -284,7 +248,7 @@
 <td><p>各話製作協力</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/Vividred_Operation.md" title="wikilink">Vividred Operation</a></p></td>
 <td></td>
 <td><p>A-1 Pictures</p></td>
@@ -292,7 +256,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2015年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/駭客娃娃" title="wikilink">駭客娃娃</a></p></td>
 <td></td>
@@ -303,11 +267,131 @@
 </tbody>
 </table>
 
+<table>
+<caption></caption>
+<thead>
+<tr class="header">
+<th><p>年份</p></th>
+<th><p>中文標題</p></th>
+<th><p>原文標題</p></th>
+<th><p>類型</p></th>
+<th><p>負責項目</p></th>
+<th><p>備註</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2012年</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/跨界計畫" title="wikilink">跨界計畫</a></p></td>
+<td><p>PROJECT X ZONE</p></td>
+<td><p>電子遊戲</p></td>
+<td><p>片頭動畫</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2013年</p></td>
+<td><p><a href="../Page/四百二十連敗女孩.md" title="wikilink">四百二十連敗女孩</a></p></td>
+<td></td>
+<td><p>小說</p></td>
+<td><p>宣傳影片</p></td>
+<td><p><a href="../Page/Fami通文庫.md" title="wikilink">Fami通遊戲文庫</a>15周年特別企劃</p></td>
+</tr>
+<tr class="odd">
+<td><p>2014年</p></td>
+<td><p>美少女Mobage</p></td>
+<td><p>美少女Mobage モバミちゃん</p></td>
+<td><p>手機軟體</p></td>
+<td><p>宣傳動畫</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/駭客娃娃" title="wikilink">駭客娃娃</a></p></td>
+<td><p>ハッカドール</p></td>
+<td><p>手機軟體</p></td>
+<td><p>宣傳動畫</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2015年</p></td>
+<td><p>Battlesaurs</p></td>
+<td><p>BATTLE SAURS</p></td>
+<td><p>OVA</p></td>
+<td><p>片頭動畫</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/玩具總動員：迷失時空" title="wikilink">玩具總動員：迷失時空</a>》BD附贈特典</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>イロドリミドリ</p></td>
+<td><p>虛擬樂團</p></td>
+<td><p>宣傳動畫</p></td>
+<td><p>負責製作單曲《Change Our MIRAI!》的MV</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2016年</p></td>
+<td><p><a href="../Page/麒麟啤酒.md" title="wikilink">KIRIN 冰結</a></p></td>
+<td><p>キリン 氷結</p></td>
+<td><p>酒精飲料</p></td>
+<td><p>宣傳動畫</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>千姬大亂鬥</p></td>
+<td><p>戦国アスカZERO</p></td>
+<td><p>電子遊戲</p></td>
+<td><p>宣傳動畫</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2017年</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/小魔女學園" title="wikilink">小魔女學園 時空魔法與七大不可思議</a></p></td>
+<td><p>リトルウィッチアカデミア 時の魔法と七不思議</p></td>
+<td><p>電子遊戲</p></td>
+<td><p>過場動畫</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/神角技巧與11人的破壞者" title="wikilink">神角技巧與11人的破壞者</a></p></td>
+<td></td>
+<td><p>電子遊戲</p></td>
+<td><p>片頭動畫</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/KILL_la_KILL.md" title="wikilink">KILL la KILL -IF</a></p></td>
+<td><p>キルラキル ザ・ゲーム -異布-</p></td>
+<td><p>電子遊戲</p></td>
+<td><p>開發監製</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>Indivisible</p></td>
+<td><p>電子遊戲</p></td>
+<td><p>片頭動畫</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>Shantae and the Seven Sirens</p></td>
+<td><p>電子遊戲</p></td>
+<td><p>片頭動畫</p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ## 主要人物
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - 大塚雅彥
+  - [大塚雅彥](https://zh.wikipedia.org/wiki/大塚雅彥 "wikilink")
 
   - [今石洋之](../Page/今石洋之.md "wikilink")
 
@@ -323,7 +407,7 @@
 
   - 柴田由香
   - 久保田誓
-  - 雨宮哲
+  - [雨宮哲](../Page/雨宮哲.md "wikilink")
   - 若林廣海
   - 芳垣祐介
 

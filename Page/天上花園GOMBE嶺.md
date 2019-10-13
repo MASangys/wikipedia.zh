@@ -33,7 +33,8 @@
 <p><a href="../Page/柳好貞.md" title="wikilink">柳好貞</a></p></td>
 <td><center>
 <p>鄭在仁</p></td>
-<td><center></td>
+<td><center>
+<p><a href="../Page/鄧潔麗.md" title="wikilink">鄧潔麗</a></p></td>
 <td><p>儘管丈夫事業失敗，又和自己分居甚至提出離婚要求，仍然扛下養育兩個女兒的責任，且對養女銀秀的愛完全不亞於生女泫秀。離開首爾後在Gombe嶺展開新的生活，並與分隔十年的父親重新尋找相處之道。</p></td>
 </tr>
 <tr class="even">

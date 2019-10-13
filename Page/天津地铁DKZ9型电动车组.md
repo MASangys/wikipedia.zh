@@ -127,6 +127,6 @@ DKZ9型共150辆，由[长春轨道客车和](https://zh.wikipedia.org/wiki/长�
 
 [分类:天津地铁车辆](https://zh.wikipedia.org/wiki/分类:天津地铁车辆 "wikilink")
 
-[Category:中车长客制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车长客制铁路车辆 "wikilink") [Category:天津地铁一号线](https://zh.wikipedia.org/wiki/Category:天津地铁一号线 "wikilink") [Category:750伏直流電力動車組](https://zh.wikipedia.org/wiki/Category:750伏直流電力動車組 "wikilink")
+[Category:中车长客制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车长客制铁路车辆 "wikilink") [Category:天津地铁1号线](https://zh.wikipedia.org/wiki/Category:天津地铁1号线 "wikilink") [Category:750伏直流電力動車組](https://zh.wikipedia.org/wiki/Category:750伏直流電力動車組 "wikilink")
 
 1.  [天津地铁1号线车厢“4改6”基本完成](http://news.163.com/11/0426/18/72JAD3BP00014JB6.html)

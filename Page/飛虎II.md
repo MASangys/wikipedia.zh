@@ -856,7 +856,7 @@ A Team飛虎隊之好友<br />
 舒子銘、舒子麗之父</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/江富強" title="wikilink">江富強</a></p></td>
+<td><p><a href="../Page/江富強.md" title="wikilink">江富強</a></p></td>
 <td><p>劉　歡</p></td>
 <td><p>潘子龍之線人<br />
 知道鍾韋恩被潘子龍揭露臥底身份事件<br />

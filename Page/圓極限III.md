@@ -33,7 +33,7 @@
   - Douglas Dunham Department of Computer Science University of Minnesota, Duluth
       - [Examples Based on Circle Limits III and IV](http://www.d.umn.edu/~ddunham/isis4/section6.html), 2006:[More “Circle Limit III” Patterns](http://www.d.umn.edu/~ddunham/dunbrid06.pdf), 2007:[A “Circle Limit III” Calculation](http://www.d.umn.edu/~ddunham/dunbrid07.pdf)
 
-[Category:1959年畫作](https://zh.wikipedia.org/wiki/Category:1959年畫作 "wikilink") [Category:雙曲幾何](https://zh.wikipedia.org/wiki/Category:雙曲幾何 "wikilink") [Category:雙曲面鑲嵌](https://zh.wikipedia.org/wiki/Category:雙曲面鑲嵌 "wikilink") [Category:鑲嵌藝術](https://zh.wikipedia.org/wiki/Category:鑲嵌藝術 "wikilink")
+[Category:1959年畫作](https://zh.wikipedia.org/wiki/Category:1959年畫作 "wikilink") [Category:雙曲幾何](https://zh.wikipedia.org/wiki/Category:雙曲幾何 "wikilink") [Category:雙曲面鑲嵌](https://zh.wikipedia.org/wiki/Category:雙曲面鑲嵌 "wikilink") [Category:鑲嵌藝術](https://zh.wikipedia.org/wiki/Category:鑲嵌藝術 "wikilink") [Category:莫里茲·柯尼利斯·艾雪](https://zh.wikipedia.org/wiki/Category:莫里茲·柯尼利斯·艾雪 "wikilink")
 
 1.  1994 [M. C. Escher](https://zh.wikipedia.org/wiki/莫里茨·科內利斯·埃舍爾 "wikilink")《Circle Limit III》, 1959, CAordon Art-Baarn-Holland
 

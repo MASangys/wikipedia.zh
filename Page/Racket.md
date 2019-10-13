@@ -1,10 +1,10 @@
-（原名 \[1\]\[2\]）是個通用、多範型，屬於[Lisp家族的](https://zh.wikipedia.org/wiki/Lisp "wikilink")[函數式](../Page/函数式编程.md "wikilink")[程序设计語言](https://zh.wikipedia.org/wiki/程序设计語言 "wikilink")，它的設計目之一是為了提供一種語言創造、設計與實作的平台，Racket被廣泛應用在腳本程式設計、通用程式設計、電腦科學教育和學術研究等不同領域。
+（原名 \[1\]\[2\]）是個通用、多範型，屬於[Lisp家族的](https://zh.wikipedia.org/wiki/Lisp "wikilink")[函數式](../Page/函数式编程.md "wikilink")[程序设计語言](https://zh.wikipedia.org/wiki/程序设计語言 "wikilink")，它的設計目之一是為了提供一種用於創造設計與實作其它編程語言的平台，Racket被用於腳本程式設計、通用程式設計、電腦科學教育和學術研究等不同領域。
 
 Racket有一個實作平台，包含了執行環境、函数庫、即時編譯器（）等等，還有提供一個以Racket本身寫成的開發環境 DrRacket\[3\] (原名 )。
 
 Racket平台的發行版本是免費且開放原始碼的，以[GNU宽通用公共许可证](../Page/GNU宽通用公共许可证.md "wikilink")授權發行，所有由社群所編寫的擴充功能和套件都會被上傳到 PLaneT(一個網頁套件發佈系統)。
 
-基於 Racket 實現的 Scribble 可以用來構建 HTML 或 PDF（依賴 [LaTeX](https://zh.wikipedia.org/wiki/LaTeX "wikilink")），官方文檔就是基於這個語言來生成的。
+基於 Racket 實現的 Scribble 可以用來構建 HTML 或 PDF（依賴 [LaTeX](https://zh.wikipedia.org/wiki/LaTeX "wikilink")），Racket 官方文檔就是基於這個語言來編寫的。
 
 ## 开发原则
 
@@ -26,20 +26,20 @@ Matthias Felleisen在1990年代中期建立了PLT，一開始為一個研究團�
 
 2001年，核心團隊(Felleisen, Findler, Flatt, Krishnamurthi)也編纂和發行了他們的第一本教科書《How to Design Programs》，融入了許多他們的教學理念。
 
-## Code examples
+## 代碼範例
 
-Here is a trivial [hello world](https://zh.wikipedia.org/wiki/hello_world "wikilink") program:
+打印 [hello world](https://zh.wikipedia.org/wiki/hello_world "wikilink")：
 
 ``` Racket
 #lang racket/base
 "Hello, World!"
 ```
 
-Running this program produces the output:
+運行後顯示
 
   -
 
-Here is a slightly less trivial program: [Sierpinski_Racket_example.png](https://zh.wikipedia.org/wiki/File:Sierpinski_Racket_example.png "fig:Sierpinski_Racket_example.png")
+一個簡單的範例：這段代碼來自 Racket 官網，用於繪製迭代8次的 [謝爾賓斯基三角形](../Page/謝爾賓斯基三角形.md "wikilink")。 [Sierpinski_Racket_example.png](https://zh.wikipedia.org/wiki/File:Sierpinski_Racket_example.png "fig:Sierpinski_Racket_example.png")
 
 ``` Racket
 #lang racket
@@ -52,9 +52,7 @@ Here is a slightly less trivial program: [Sierpinski_Racket_example.png](https:/
       (freeze (above t (beside t t))))))
 ```
 
-This program, taken from the Racket website, draws a [Sierpinski triangle](https://zh.wikipedia.org/wiki/Sierpinski_triangle "wikilink"), nested to depth 8.
-
-Using the `#lang` directive, a source file can be written in different dialects of Racket. Here is an example of the factorial program in Typed Racket, a [statically typed](https://zh.wikipedia.org/wiki/statically_typed "wikilink") dialect of Racket:
+在代碼的第一行使用 `#lang`來使用不同的方言. 下面的範例使用 Racket 的一種靜態類型的方言 Typed Racket 計算階層。
 
 ``` Racket
 #lang typed/racket

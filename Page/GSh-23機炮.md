@@ -34,8 +34,6 @@
 
 ## 使用國家
 
-[J-10a_zhas.png](https://zh.wikipedia.org/wiki/File:J-10a_zhas.png "fig:J-10a_zhas.png")
-
   -
   -
   -

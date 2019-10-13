@@ -3796,8 +3796,9 @@ Kim Ki Yeob</p></td>
 <td><p>328</p></td>
 <td></td>
 <td><p>無可取代的夥伴們</p></td>
-<td></td>
-<td></td>
+<td><p>橋本直人</p></td>
+<td><p>石川恵理、渡辺健一<br />
+飯塚正則</p></td>
 <td></td>
 <td></td>
 </tr>

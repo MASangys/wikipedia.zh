@@ -4,7 +4,7 @@
 
 ## 概要
 
-本作是繼《[CHAOS;HEAD](../Page/CHAOS;HEAD.md "wikilink")》和《[Steins;Gate](https://zh.wikipedia.org/wiki/Steins;Gate "wikilink")》之後，[5pb.](../Page/5pb..md "wikilink")和[Nitro+](../Page/Nitro+.md "wikilink")的[協作企劃](https://zh.wikipedia.org/wiki/協作 "wikilink")「[妄想科學ADV系列](https://zh.wikipedia.org/wiki/妄想科學ADV系列 "wikilink")」的第三部作品。
+本作是繼《[CHAOS;HEAD](../Page/CHAOS;HEAD.md "wikilink")》和《[Steins;Gate](https://zh.wikipedia.org/wiki/Steins;Gate "wikilink")》之後，[5pb.](../Page/5pb..md "wikilink")和[Nitro+](../Page/Nitro+.md "wikilink")的[協作企劃](https://zh.wikipedia.org/wiki/協作 "wikilink")「[科學ADV系列](../Page/科學ADV系列.md "wikilink")」的第三部作品。
 
 故事背景位於2019年的種子島，世界線變動率「1.048596％」，也就是《Steins;Gate》中 TRUE END 的世界線。\[2\] 因此部份《[CHAOS;HEAD](../Page/CHAOS;HEAD.md "wikilink")》和《[Steins;Gate](https://zh.wikipedia.org/wiki/Steins;Gate "wikilink")》的角色也會在本作中登場。
 

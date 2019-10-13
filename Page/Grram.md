@@ -6,7 +6,7 @@
 
 ## 名字由来
 
-grram名字是由[北欧神话](../Page/北欧神话.md "wikilink")中的宝剑[格拉墨](https://zh.wikipedia.org/wiki/格拉墨 "wikilink")（Gram）和计算机中[随机存取存储器](../Page/随机存取存储器.md "wikilink")（，缩写**RAM**）组成的。该名称意味着乐队的同一个愿望：真诚的声音永远深深地镌刻在心里\[3\]。
+grram名字是由[北欧神话](../Page/北欧神话.md "wikilink")中的宝剑[格拉墨](../Page/格拉墨.md "wikilink")（Gram）和计算机中[随机存取存储器](../Page/随机存取存储器.md "wikilink")（，缩写**RAM**）组成的。该名称意味着乐队的同一个愿望：真诚的声音永远深深地镌刻在心里\[3\]。
 
 ## 成员
 

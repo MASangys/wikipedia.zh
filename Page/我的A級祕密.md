@@ -44,6 +44,10 @@
 >
 > 'It's true. I told you it wasn't pretty...'
 
+## 電影版
+
+我的A級秘密原著改編之[同名電影版由艾麗斯](https://zh.wikipedia.org/wiki/我的A級秘密_\(電影\) "wikilink")·杜蘭(Elise Duran)導演，\[7\] 女主角由[亞歷珊卓·達迪莉奧](../Page/亞歷珊卓·達迪莉奧.md "wikilink")主演，男主角由[泰勒·霍奇林](../Page/泰勒·霍奇林.md "wikilink")主演。
+
 ## 參考資料
 
 ## 外部連結
@@ -58,3 +62,4 @@
 4.  Can You Keep a Secret?, Black Swan, page 334
 5.  我的A級秘密，馥林出版，389頁
 6.  Can You Keep a Secret?, Black Swan, page 362
+7.

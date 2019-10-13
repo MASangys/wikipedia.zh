@@ -26,7 +26,7 @@ Kik Messenger 的基本功能有：
   - [LINE](https://zh.wikipedia.org/wiki/连我 "wikilink")
   - [微信](../Page/微信.md "wikilink")
   - [KakaoTalk](../Page/KakaoTalk.md "wikilink")
-  - [TalkBox](https://zh.wikipedia.org/wiki/TalkBox_語音聊 "wikilink")
+  - [TalkBox](../Page/TalkBox_語音聊.md "wikilink")
 
 ## 参考文献
 

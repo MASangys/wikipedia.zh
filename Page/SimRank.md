@@ -20,7 +20,7 @@ SimRank 模型定义两个页面的相似度是基于如下递归的思想：如
 
 ## 矩阵形式
 
-假设 \(\mathbf{S}\)为SimRank相似度矩阵，其元素\([\mathbf{S}]_{a,b}\)表示相似度值\(s(a,b)\). \(\mathbf{W}\)是一个按列归一化的图邻接矩阵，其元素\([\mathbf{W}]_{a,b}=\tfrac{1}{|\mathcal{I}(b)|}\)，若存在一条有向边\(a \to b\)；否则为\(0\). 于是，SimRank方程式可以用矩阵的形式表示如下：
+假设 \(\mathbf{S}\)为SimRank相似度矩阵，其元素\([\mathbf{S}]_{a,b}\)表示相似度值\(s(a,b)\). \(\mathbf{W}\)是一个按列归一化的图邻接矩阵，其元素\([\mathbf{W}]_{a,b}=\tfrac{1}{|\mathcal{I}(b)|}\)，若存在一条[有向边](https://zh.wikipedia.org/wiki/有向边 "wikilink")\(a \to b\)；否则为\(0\). 于是，SimRank方程式可以用矩阵的形式表示如下：
 
 \[{{\mathbf{S}}}= C\cdot (\mathbf{W}^{T} \cdot {{\mathbf{S}}}\cdot {{\mathbf{W}}} ) + (1-C) \cdot {{\mathbf{I}}},\]
 

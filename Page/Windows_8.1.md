@@ -20,7 +20,7 @@ Windows 8.1後續系統為[Windows 10](../Page/Windows_10.md "wikilink")。Windo
 
   - [处理器](https://zh.wikipedia.org/wiki/处理器 "wikilink")：[x86或](https://zh.wikipedia.org/wiki/x86 "wikilink")[x64](https://zh.wikipedia.org/wiki/x64 "wikilink") 1.1 GHz及以上
   - [内存](https://zh.wikipedia.org/wiki/内存 "wikilink")：1 GB（32位元）或2 GB（64位元）
-  - [硬盘](../Page/硬盘.md "wikilink")空间：16 GB可用（32位元）或20 GB可用（64位元）
+  - [硬碟空间](https://zh.wikipedia.org/wiki/硬碟 "wikilink")：16 GB可用（32位元）或20 GB可用（64位元）
   - [顯示卡](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")：[DirectX 9图形设备](https://zh.wikipedia.org/wiki/DirectX_9 "wikilink")（带有[WDDM驱动程序](../Page/Windows_Display_Driver_Model.md "wikilink")）
 
 <!-- end list -->

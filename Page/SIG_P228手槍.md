@@ -4,7 +4,7 @@
 
 目前已被各[執法機關和](https://zh.wikipedia.org/wiki/執法機關 "wikilink")[美國軍隊所使用](../Page/美军.md "wikilink")，後者被命名M11。P228具有比P226更短的[套筒和](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")[槍管](../Page/槍管.md "wikilink")。與P226不同的是，P228-{只}-有[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")[口徑和使用](https://zh.wikipedia.org/wiki/口徑 "wikilink")13發[彈匣](../Page/彈匣.md "wikilink")，但也可以使用P226的15或20發彈匣。使用售後市場的延長彈匣也可使P228的彈匣容量增加到15發。
 
-從遠處看，P228與P226可以通過比較[扳機護環](https://zh.wikipedia.org/wiki/扳機護圈 "wikilink")（P228的是圓滑過渡的，而P226的前有小型防滑凹陷和掛鉤）以及槍管和[套筒的長度](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")（P228的槍管是99毫米（3.9英寸），因此具有一個相應較短的套筒）來區分。P228與P226並排比較也可看出P228比P226略短（縮短15毫米（0.59英寸））。雖然更大容量的P226彈匣也可以給P228使用，但是這會因超出原來握把的部分而破壞手槍的隱蔽性。
+從遠處看，P228與P226可以通過比較[扳機護環](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")（P228的是圓滑過渡的，而P226的前有小型防滑凹陷和掛鉤）以及槍管和[套筒的長度](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")（P228的槍管是99毫米（3.9英寸），因此具有一個相應較短的套筒）來區分。P228與P226並排比較也可看出P228比P226略短（縮短15毫米（0.59英寸））。雖然更大容量的P226彈匣也可以給P228使用，但是這會因超出原來握把的部分而破壞手槍的隱蔽性。
 
 民用型銷售的P228已經隨著同時地有[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")[口徑的](https://zh.wikipedia.org/wiki/口徑 "wikilink")[P229的推出而停產P](../Page/SIG_P229手槍.md "wikilink")229與P228幾乎是相同的，不過它的[套筒是以](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")[不鏽鋼](../Page/不鏽鋼.md "wikilink")所製造（而P228的是鍛造[碳鋼](../Page/碳鋼.md "wikilink")套筒），而且可以發射[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")、[.40 S\&W和](../Page/.40_S&W.md "wikilink")[.357 SIG三種](../Page/.357_SIG.md "wikilink")[手槍](https://zh.wikipedia.org/wiki/手槍 "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
@@ -16,7 +16,7 @@ M11將會被陸軍和空軍通過[模組化手槍系統](https://zh.wikipedia.or
 
 P228與SIG經典手槍系列的其他成員一樣，採用了由[約翰·白朗寧首創的](https://zh.wikipedia.org/wiki/約翰·白朗寧 "wikilink")[後膛閉鎖](https://zh.wikipedia.org/wiki/後膛閉鎖 "wikilink")[槍管短行程後座作用模式以使全槍運作](https://zh.wikipedia.org/wiki/後座作用#槍管短行程後座作用 "wikilink")。在射擊時，[套筒和](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")[槍管](../Page/槍管.md "wikilink")鎖在一起並且向後移動幾毫米，槍管會向後移直到後方的絞鏈時使後膛向下傾斜。這個時候，子彈已經離開槍管，而壓力亦已經下降到安全水平。在這種情況以下，套筒已完成向後行程，並以[拋彈口退出](https://zh.wikipedia.org/wiki/拋彈口 "wikilink")[彈殼](https://zh.wikipedia.org/wiki/彈殼 "wikilink")。然後復進簧（又稱：反沖彈簧）會向前推動套筒，從彈匣上取出最頂部的一發並讓槍管後膛向上回複水平同時向前運動幾毫米，再將套筒和槍管一起閉鎖。
 
-與其他白朗寧型武器（諸如[柯爾特](https://zh.wikipedia.org/wiki/柯爾特 "wikilink")[M1911A1](../Page/M1911手槍.md "wikilink")，[白朗寧大威力半自動手槍和](https://zh.wikipedia.org/wiki/白朗寧大威力半自動手槍 "wikilink")[CZ 75](../Page/CZ_75手槍.md "wikilink")）以[槍管](../Page/槍管.md "wikilink")和[套筒之間的閉鎖鎖耳和凹槽的相互扣合以實現閉鎖相反的是](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")，P226使用加大的槍管後膛節套在拋殼口內閉鎖使槍管和套筒得以閉鎖在一起。這個由SIG所發明的一個修改過的閉鎖系統與原來由白朗寧研製的閉鎖系統相比並沒有任何功能上的缺點，而且目前已經被眾多的槍械製造商所仿製。\[2\]
+與其他白朗寧型武器（諸如[柯爾特](https://zh.wikipedia.org/wiki/柯爾特 "wikilink")[M1911A1](../Page/M1911手槍.md "wikilink")，[白朗寧大威力半自動手槍](../Page/白朗寧大威力半自動手槍.md "wikilink")和[CZ 75](../Page/CZ_75手槍.md "wikilink")）以[槍管](../Page/槍管.md "wikilink")和[套筒之間的閉鎖鎖耳和凹槽的相互扣合以實現閉鎖相反的是](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")，P226使用加大的槍管後膛節套在拋殼口內閉鎖使槍管和套筒得以閉鎖在一起。這個由SIG所發明的一個修改過的閉鎖系統與原來由白朗寧研製的閉鎖系統相比並沒有任何功能上的缺點，而且目前已經被眾多的槍械製造商所仿製。\[2\]
 
 P228的所有型號的[底把是由硬質](../Page/机匣.md "wikilink")[氧化](https://zh.wikipedia.org/wiki/氧化 "wikilink")[鋁合金](../Page/鋁合金.md "wikilink")所製造。
 
@@ -30,7 +30,7 @@ SIG槍械同時在[德国](../Page/德国.md "wikilink")[埃肯弗特的JP](http
 
 ### P228導軌型
 
-P228導軌型（，簡稱：P228R）基本上與P228是相同的，只是它在[套筒下](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")、[底把的](../Page/机匣.md "wikilink")[扳機護圈前方的](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")整合了一條戰術燈安裝導軌，以安裝各種[戰術燈](../Page/戰術燈.md "wikilink")、[雷射瞄準器和其他戰術配件](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")。
+P228導軌型（，簡稱：P228R）基本上與P228是相同的，只是它在[套筒下](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")、[底把的](../Page/机匣.md "wikilink")[扳機護環前方的](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")整合了一條戰術燈安裝導軌，以安裝各種[戰術燈](../Page/戰術燈.md "wikilink")、[雷射瞄準器和其他戰術配件](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")。
 
 民用型銷售的P228已經隨著同時地有[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")[口徑的](https://zh.wikipedia.org/wiki/口徑 "wikilink")[P229的推出而停產](../Page/SIG_P229手槍.md "wikilink")，但最近亦有民用型有限量重新生產，並且整合了戰術配件導軌，並且命名為P228R。
 
@@ -357,7 +357,7 @@ P228R的導軌與[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikil
   - [SIG P224](../Page/SIG_P224手槍.md "wikilink")
   - [SIG P230](../Page/SIG_P230手槍.md "wikilink")
   - [貝瑞塔M9手槍](../Page/貝瑞塔M9手槍.md "wikilink")
-  - [FN HP-DA](https://zh.wikipedia.org/wiki/白朗寧雙動半自動手槍 "wikilink")
+  - [FN HP-DA](../Page/白朗寧雙動半自動手槍.md "wikilink")
   - [HK P9S](../Page/HK_P9S手槍.md "wikilink")
   - [史密斯威森M459](../Page/史密斯威森M459手槍.md "wikilink")
 

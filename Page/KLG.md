@@ -1,4 +1,4 @@
-**KLG**（又稱**快樂雞**、**卡拉雞**）是起源起於台灣的國際[連鎖速食店](https://zh.wikipedia.org/wiki/速食店 "wikilink")。分店遍及[中國](../Page/中國.md "wikilink")、[南非](https://zh.wikipedia.org/wiki/南非 "wikilink")、[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")、[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")、[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")、[馬紹爾等地](https://zh.wikipedia.org/wiki/馬紹爾 "wikilink")\[1\]。其商標和知名速食店[肯德基](../Page/肯德基.md "wikilink")相似，但圖案為一隻打了蝴蝶結的公雞。
+**KLG**（又稱**快樂雞**、**卡拉雞**）是起源起於台灣的國際[連鎖速食店](https://zh.wikipedia.org/wiki/速食店 "wikilink")。分店遍及[中國](../Page/中國.md "wikilink")、[南非](https://zh.wikipedia.org/wiki/南非 "wikilink")、[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")、[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")、[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")、[馬紹爾等地](https://zh.wikipedia.org/wiki/馬紹爾 "wikilink")。其商標和知名速食店[肯德基](../Page/肯德基.md "wikilink")相似，但圖案為一隻打了蝴蝶結的公雞。
 
 KLG的餐點以[炸雞](../Page/炸雞.md "wikilink")、[薯條](https://zh.wikipedia.org/wiki/薯條 "wikilink")、[雞腿堡](https://zh.wikipedia.org/wiki/漢堡_\(食物\) "wikilink")、[無酒精飲料等等為主](../Page/軟性飲料.md "wikilink")。和肯德基相似，但價格更便宜。
 
@@ -18,10 +18,9 @@ KLG的餐點以[炸雞](../Page/炸雞.md "wikilink")、[薯條](https://zh.wiki
   - **新竹市**
       - 巨城店
   - **台中市**
-      - 豐原總店
-      - 北平店
+      - 總部加盟示範店
+      - 豐原向陽店
       - 逢甲店
-      - 南屯旗艦店
       - 沙鹿店
       - 靜宜店
       - 清水店
@@ -43,10 +42,8 @@ KLG的餐點以[炸雞](../Page/炸雞.md "wikilink")、[薯條](https://zh.wiki
 
 ## 外部連結
 
-  - [KLG官方網站](https://web.archive.org/web/20121014063053/http://www.klgclub.com/)
+  - [KLG官方網站](http://klgplus.com/)
 
 ## 參考資料
 
 [Category:速食餐廳](https://zh.wikipedia.org/wiki/Category:速食餐廳 "wikilink") [Category:跨國公司](https://zh.wikipedia.org/wiki/Category:跨國公司 "wikilink")
-
-1.

@@ -6,6 +6,8 @@
 
 [Astro雙星HD.png](https://zh.wikipedia.org/wiki/File:Astro雙星HD.png "fig:Astro雙星HD.png") **Astro雙星HD**是[Astro第六個](https://zh.wikipedia.org/wiki/Astro "wikilink")[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")[高清頻道](https://zh.wikipedia.org/wiki/高清 "wikilink")，於2014年11月16日正式啟播。该频道於其標清频道同步播出所有劇集。
 
+## Astro雙星電視劇列表
+
 ## 争议
 
 ### 全球优先看
@@ -21,8 +23,6 @@
 ## 參考資料
 
 ## 外部連結
-
-  - [Astro雙星官方網站](http://www.xuan.com.my/channels/shx/)
 
   -
 [Category:Astro](https://zh.wikipedia.org/wiki/Category:Astro "wikilink") [Category:中文电视频道](https://zh.wikipedia.org/wiki/Category:中文电视频道 "wikilink")

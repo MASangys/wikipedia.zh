@@ -40,7 +40,5 @@
 
 ## 外部連結
 
-  - [Astro全佳HD官方網站](http://www.xuan.com.my/channels/qjhd.aspx)
-
   -
 [Category:馬來西亞廣播電視](https://zh.wikipedia.org/wiki/Category:馬來西亞廣播電視 "wikilink") [Category:2013年成立的电视台或电视频道](https://zh.wikipedia.org/wiki/Category:2013年成立的电视台或电视频道 "wikilink")

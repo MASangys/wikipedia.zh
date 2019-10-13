@@ -19,8 +19,8 @@ Zeliska在擊發機構和上彈方面則較類似於[柯爾特單動式陸軍](.
   - [BFR左輪手槍](../Page/BFR左輪手槍.md "wikilink")
   - [金牛座-{zh:憤怒的公牛; zh-hans:愤怒的公牛; zh-tw:蠻牛; zh-hk:狂牛;}-左輪手槍M500](../Page/金牛座憤怒的公牛左輪手槍.md "wikilink")
   - [沙漠之鷹](../Page/沙漠之鷹手槍.md "wikilink")
-  - [自動麥格農V型](https://zh.wikipedia.org/wiki/自動麥格農V型手槍 "wikilink")
-  - [灰熊V型](https://zh.wikipedia.org/wiki/灰熊溫徹斯特馬格南半自動手槍 "wikilink")
+  - [自動麥格農V型](../Page/自動馬格南V型半自動手槍.md "wikilink")
+  - [灰熊V型](../Page/灰熊溫徹斯特馬格南半自動手槍.md "wikilink")
   - [Thunder 50](../Page/Thunder_50手槍.md "wikilink")
 
 [Category:左輪手槍](https://zh.wikipedia.org/wiki/Category:左輪手槍 "wikilink") [Category:奧地利槍械](https://zh.wikipedia.org/wiki/Category:奧地利槍械 "wikilink")

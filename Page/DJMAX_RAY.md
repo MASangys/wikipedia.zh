@@ -22,7 +22,7 @@
 
 ## 外部链接
 
-  - [DJMAX RAY官方网页](http://www.pmangplus.com/globalgames/djmax/eng)
+  - [DJMAX RAY官方网页](https://web.archive.org/web/20130411013649/http://www.pmangplus.com/globalgames/djmax/eng)
 
   - [《DJMAX RAY》](http://itunes.apple.com/us/app/djmax-ray-by-neowiz/id543439937?mt=8)在[苹果App Store的介绍](../Page/App_Store_\(iOS\).md "wikilink")
 

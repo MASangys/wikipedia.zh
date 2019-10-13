@@ -6,7 +6,7 @@
 
 ## 設計細節
 
-FABARM FP6的[機匣是由輕量級](https://zh.wikipedia.org/wiki/機匣 "wikilink")[ERGAL 55](../Page/7075鋁合金.md "wikilink")[合金](../Page/合金.md "wikilink")所機械加工製造，並且以鑽孔和[螺絲](../Page/螺絲.md "wikilink")安裝[瞄準鏡](https://zh.wikipedia.org/wiki/瞄準鏡 "wikilink")。四款衍生型當中有三款於出售時帶有裝上的[MIL-STD-1913戰術導軌用以安裝光學瞄準鏡或其配件](../Page/皮卡汀尼導軌.md "wikilink")，而前[護木的底部的前端邊緣也具有鑽孔以接受安裝配件導軌](https://zh.wikipedia.org/wiki/護木 "wikilink")。除了短管型號以外，FABARM霰彈槍於出售時帶有採用了他們獨有的「三孔」（）式槍管，這是一個具有三個獨立的內孔剖面的深部鑽孔式機械加工槍管。從[膛室](../Page/膛室.md "wikilink")的上面和導錐開始，內膛被擴大至18.8毫米（0.7401英吋）以緩和[後座力](../Page/後座力.md "wikilink")，而在槍管中間的第二剖面逐步縮小至18.4毫米（0.7244英吋）以模擬出微縮口狀內膛的剖面以增加初速。最後的內膛是FABARM[喉缩系統](https://zh.wikipedia.org/wiki/喉缩 "wikilink")，其中包括緊隨著槍口微縮口狀剖面的標準型收束器，以改進射擊模式和分佈情況。\[2\]槍口具有螺紋處理以接受裝上5種不同的收束器或[槍口制退／補償器](../Page/砲口制動器.md "wikilink")。有些型號於出售時還具有通風式。
+FABARM FP6的[機匣是由輕量級](https://zh.wikipedia.org/wiki/機匣 "wikilink")[ERGAL 55](../Page/7075鋁合金.md "wikilink")[合金](../Page/合金.md "wikilink")所機械加工製造，並且以鑽孔和[螺絲](../Page/螺絲.md "wikilink")安裝[瞄準鏡](https://zh.wikipedia.org/wiki/瞄準鏡 "wikilink")。四款衍生型當中有三款於出售時帶有裝上的[MIL-STD-1913戰術導軌用以安裝光學瞄準鏡或其配件](../Page/皮卡汀尼導軌.md "wikilink")，而前[護木的底部的前端邊緣也具有鑽孔以接受安裝配件導軌](https://zh.wikipedia.org/wiki/護木 "wikilink")。除了短管型號以外，FABARM霰彈槍於出售時帶有採用了他們獨有的「三孔」（）式槍管，這是一個具有三個獨立的內孔剖面的深部鑽孔式機械加工槍管。從[膛室](../Page/膛室.md "wikilink")的上面和導錐開始，內膛被擴大至18.8毫米（0.7401英吋）以緩和[後座力](../Page/後座力.md "wikilink")，而在槍管中間的第二剖面逐步縮小至18.4毫米（0.7244英吋）以模擬出微縮口狀內膛的剖面以增加初速。最後的內膛是FABARM[喉缩系統](https://zh.wikipedia.org/wiki/喉缩 "wikilink")，其中包括緊隨著槍口微縮口狀剖面的標準型收束器，以改進射擊模式和分佈情況。\[2\]槍口具有螺紋處理以接受裝上5種不同的收束器或[槍口制退／補償器](../Page/砲口制動器.md "wikilink")。有些型號於出售時還配備了[通風式隔熱罩](https://zh.wikipedia.org/wiki/槍管罩筒 "wikilink")。
 
 該武器的特點包括鍍鉻式扳機、滑動式槍機的釋放按鈕和霰彈藥筒框。還有一個超大尺寸的三角形按鈕式保險。扳機組件由兩根插銷保持固定在[機匣中](https://zh.wikipedia.org/wiki/機匣 "wikilink")，這使得在清潔和維修時拆卸扳機組件變得很容易。某些型號具有翻轉式[準星](../Page/照準器.md "wikilink")（近戰時可作為低剖面瞄準具），而其他的則配備了小型片狀瞄準具。其他型號則配備了[鬼環式瞄具](https://zh.wikipedia.org/wiki/機械瞄具#鬼環 "wikilink")。\[3\]
 
@@ -24,10 +24,10 @@ FP6與其他泵动式霰彈槍一樣，可滑動的前護木通過兩根操作�
 
 黑克勒-科赫推出了FP6的四款衍生型。\[5\]
 
-  - 標準型FP6（H\&K 40621HS），配備了508毫米（20英吋）「三孔」（）式槍管，黑色保護[表面處理](https://zh.wikipedia.org/wiki/表面處理 "wikilink")，穿孔式，小型片狀[準星](../Page/照準器.md "wikilink")，固定式合成[槍托](../Page/槍托.md "wikilink")，和圓形前[護木](https://zh.wikipedia.org/wiki/護木 "wikilink")。
-  - 碳纖維表面處理型號（H\&K 40621CF），配備了508毫米（20英吋）「三孔」（）式槍管，無，[機匣安裝型](https://zh.wikipedia.org/wiki/機匣 "wikilink")[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，小型片狀[準星](../Page/照準器.md "wikilink")，固定式合成槍托，和圓形前[護木](https://zh.wikipedia.org/wiki/護木 "wikilink")。
-  - 折疊式槍托及型號，配備了508毫米（20英吋）「三孔」（）式槍管，無，[機匣安裝型](https://zh.wikipedia.org/wiki/機匣 "wikilink")[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，和一個大型翻轉片狀[準星](../Page/照準器.md "wikilink")。
-  - 戰術短管型號，FP6突入型（H\&K 40621T），配備了355.6毫米（14英吋）槍管，[表面處理](https://zh.wikipedia.org/wiki/表面處理 "wikilink")，穿孔式，[機匣安裝型](https://zh.wikipedia.org/wiki/機匣 "wikilink")[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，大型翻轉片狀[準星](../Page/照準器.md "wikilink")，固定式合成槍托，和輪廓形前[護木](https://zh.wikipedia.org/wiki/護木 "wikilink")。這款衍生型全長為857.25毫米（33.75英吋），並且受到美國（簡稱：NFA）條例歸類為[第二類槍械](https://zh.wikipedia.org/wiki/第二類槍械 "wikilink")。
+  - 標準型FP6（H\&K 40621HS），配備了508毫米（20英吋）「三孔」（）式槍管，黑色保護[表面處理](https://zh.wikipedia.org/wiki/表面處理 "wikilink")，[穿孔式隔熱罩](https://zh.wikipedia.org/wiki/槍管罩筒 "wikilink")，小型片狀[準星](../Page/照準器.md "wikilink")，固定式合成[槍托](../Page/槍托.md "wikilink")，和圓形前[護木](https://zh.wikipedia.org/wiki/護木 "wikilink")。
+  - 碳纖維表面處理型號（H\&K 40621CF），配備了508毫米（20英吋）「三孔」（）式槍管，無隔熱罩，裝設於[機匣的](https://zh.wikipedia.org/wiki/機匣 "wikilink")[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，小型片狀準星，固定式合成槍托，和圓形前護木。
+  - 折疊式槍托及型號，配備了508毫米（20英吋）「三孔」（）式槍管，無隔熱罩，裝設於機匣的MIL-STD-1913戰術導軌，和大型翻轉片狀準星。
+  - 戰術短管型號，FP6突入型（H\&K 40621T），配備了355.6毫米（14英吋）槍管，[表面處理](https://zh.wikipedia.org/wiki/表面處理 "wikilink")，穿孔式隔熱罩，裝設於機匣的MIL-STD-1913戰術導軌，大型翻轉片狀準星，固定式合成槍托，和輪廓形前護木。這款衍生型全長為857.25毫米（33.75英吋），並且受到美國（簡稱：NFA）條例歸類為[第二類槍械](https://zh.wikipedia.org/wiki/第二類槍械 "wikilink")。
 
 ## 使用國
 
@@ -48,7 +48,7 @@ FP6與其他泵动式霰彈槍一樣，可滑動的前護木通過兩根操作�
   - 2001年—《[宇宙追緝令](https://zh.wikipedia.org/wiki/宇宙追緝令 "wikilink")》：被[洛杉磯警察局所使用](https://zh.wikipedia.org/wiki/洛杉磯警察局 "wikilink")，其中一枝被加百列折彎破壞。
   - 2005年—《[-{zh-hans:史密斯夫妇;zh-hk:史密夫決戰史密妻;zh-tw:史密斯任務;}-](../Page/史密斯夫妇.md "wikilink")》：修改型原來被珍·史密斯（Jane Smith，[安吉丽娜·朱莉飾演](https://zh.wikipedia.org/wiki/安吉丽娜·朱莉 "wikilink")）所使用，其後被約翰·史密斯（John Smith，[畢·彼特飾演](https://zh.wikipedia.org/wiki/畢·彼特 "wikilink")）所奪取。
   - 2012年—《[-{zh-cn:超凡蜘蛛侠;zh-hk:蜘蛛俠：驚世現新;zh-tw:蜘蛛人：驚奇再起;}-](https://zh.wikipedia.org/wiki/蜘蛛人：驚奇再起 "wikilink")》：被喬治·史戴希警官（Capt. George Stacy，[丹尼斯·萊瑞飾演](https://zh.wikipedia.org/wiki/丹尼斯·萊瑞 "wikilink")）所使用。
-  - 2013年—《[-{zh-cn:溫暖的屍體; zh-tw:殭屍哪有這麼帥; zh-hk:熱血喪男;}-](../Page/熱血喪男.md "wikilink")》：裝上穿孔式、和[機械瞄具](../Page/機械瞄具.md "wikilink")並且被茱莉·皮諾（Julie Grigio，[泰瑞莎·帕瑪飾演](https://zh.wikipedia.org/wiki/泰瑞莎·帕瑪 "wikilink")）所使用。
+  - 2013年—《[-{zh-cn:溫暖的屍體; zh-tw:殭屍哪有這麼帥; zh-hk:熱血喪男;}-](../Page/熱血喪男.md "wikilink")》：裝上[穿孔式](https://zh.wikipedia.org/wiki/槍管罩筒 "wikilink")、和[機械瞄具](../Page/機械瞄具.md "wikilink")並且被茱莉·皮諾（Julie Grigio，[泰瑞莎·帕瑪飾演](https://zh.wikipedia.org/wiki/泰瑞莎·帕瑪 "wikilink")）所使用。
 
 ### 电視節目
 
@@ -56,8 +56,8 @@ FP6與其他泵动式霰彈槍一樣，可滑動的前護木通過兩根操作�
 
 ### 電子遊戲
 
-  - 2013年—《[-{zh-cn:使命召唤：幽灵; zh-tw:決勝時刻：魅影;}-](../Page/決勝時刻：魅影.md "wikilink")》：命名為「FP6」，黑色槍身，造型上裝上穿孔式、彈藥附件、折疊式[槍托](../Page/槍托.md "wikilink")及和[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，5發[管式彈倉](https://zh.wikipedia.org/wiki/彈匣#管式彈倉 "wikilink")，初始攜彈量為20發（聯機模式）和30發（滅絕模式），最高攜彈量為50發（聯機模式）和70發（滅絕模式）。聯機模式時可以使用[紅點鏡](../Page/紅點鏡.md "wikilink")、、[消音器](../Page/抑制器.md "wikilink")、[槍口制退器](../Page/砲口制動器.md "wikilink")、[前握把](../Page/輔助握把.md "wikilink")、[重彈頭](https://zh.wikipedia.org/wiki/霰彈塊 "wikilink")；滅絕模式時以1,500點取得，並可以使用射速增加。
-  - 2018年—《[少女前線](https://zh.wikipedia.org/wiki/少女前線 "wikilink")》：被歸類為「霰彈槍」，命名為FP-6，與[AA-12](https://zh.wikipedia.org/wiki/AA-12 "wikilink")、[M1014名列霰彈槍前三名](../Page/伯奈利M4_Super_90半自動霰彈槍.md "wikilink")。
+  - 2013年—《[-{zh-cn:使命召唤：幽灵; zh-tw:決勝時刻：魅影;}-](../Page/決勝時刻：魅影.md "wikilink")》：命名為「FP6」，黑色槍身，造型上裝上[穿孔式](https://zh.wikipedia.org/wiki/槍管罩筒 "wikilink")、彈藥附件、折疊式[槍托](../Page/槍托.md "wikilink")及和[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，5發[管式彈倉](https://zh.wikipedia.org/wiki/彈匣#管式彈倉 "wikilink")，初始攜彈量為20發（聯機模式）和30發（滅絕模式），最高攜彈量為50發（聯機模式）和70發（滅絕模式）。聯機模式時可以使用[紅點鏡](../Page/紅點鏡.md "wikilink")、、[消音器](../Page/抑制器.md "wikilink")、[槍口制退器](../Page/砲口制動器.md "wikilink")、[前握把](../Page/輔助握把.md "wikilink")、[重彈頭](https://zh.wikipedia.org/wiki/霰彈塊 "wikilink")；滅絕模式時以1,500點取得，並可以使用射速增加。
+  - 2018年—《[少女前線](https://zh.wikipedia.org/wiki/少女前線 "wikilink")》：被歸類為「霰彈槍」，命名為FP-6，與[AA-12](../Page/AA-12自動霰彈槍.md "wikilink")、[M1014名列霰彈槍前三名](../Page/伯奈利M4_Super_90半自動霰彈槍.md "wikilink")。
 
 ## 參見
 

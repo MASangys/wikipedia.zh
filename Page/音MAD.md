@@ -79,11 +79,11 @@
   - 《[成龙历险记](../Page/成龙历险记.md "wikilink")》
       - 黑虎[阿福](https://zh.wikipedia.org/wiki/阿福 "wikilink"):《[成龙历险记](../Page/成龙历险记.md "wikilink")》中著名反派人物。他的满口骚话(乌鸦坐飞机)让他成为绝佳的鬼畜素材。
   - 《[LoveLive\!](https://zh.wikipedia.org/wiki/LoveLive! "wikilink")》
-      - niconiconi（にっこにっこにー！）:这是《[LoveLive\!](https://zh.wikipedia.org/wiki/LoveLive! "wikilink")》中矢泽妮可的口头禅，也是其招牌动作的称呼。
+      - niconiconi（にっこにっこにー！）:这是《[LoveLive\!](https://zh.wikipedia.org/wiki/LoveLive! "wikilink")》中[矢泽妮可的口头禅](https://zh.wikipedia.org/wiki/矢泽妮可 "wikilink")，也是其招牌动作的称呼。
   - 《[小猪佩奇](https://zh.wikipedia.org/wiki/小猪佩奇 "wikilink")》
       - 动画中有一集是关于小猪佩奇关于吹口哨的问题与小羊苏西的对话，其小羊苏西的口哨和小猪佩奇的挂电话音是其最代表性的鬼畜素材。
   - 《[海绵宝宝](https://zh.wikipedia.org/wiki/海绵宝宝 "wikilink")》
-      - 章鱼哥：第2集中章鱼哥的竖笛演奏桥段<S>（来听听章鱼哥的美妙音乐吧）</S>
+      - [章鱼哥](../Page/章鱼哥_\(动画角色\).md "wikilink")：第2集中章鱼哥的竖笛演奏桥段<S>（来听听章鱼哥的美妙音乐吧）</S>
       - 派大星的自白：第68集中派大星的自白桥段，第2季第二集中派大星接电话桥段。
   - 《[工作细胞](https://zh.wikipedia.org/wiki/工作细胞 "wikilink")》
       - 血小板:动漫[工作细胞第一集的血小板搬运大型物件时](https://zh.wikipedia.org/wiki/工作细胞 "wikilink")，由于血小板可爱的左右横跳动作，令人印象深刻，后来被制成鬼畜。

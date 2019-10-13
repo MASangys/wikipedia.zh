@@ -3,7 +3,7 @@
 ## 歷史與發展
 
   - 2012年3月15日，now爆谷台正式在133頻道開播。為now寬頻電視與[華誼兄弟](https://zh.wikipedia.org/wiki/華誼兄弟 "wikilink")、[安樂影片](../Page/安樂影片.md "wikilink")及[陳可辛](../Page/陳可辛.md "wikilink")[我們製作共同籌組](https://zh.wikipedia.org/wiki/我們製作 "wikilink")\[1\]。
-  - 2013年5月3日，now爆谷台正式分別在Starhub TV 861台開播、Unifi TV 225台開播。
+  - 2013年5月3日，now爆谷台正式分別在Starhub TV 861频道開播、Unifi TV 225频道開播。
   - 2014年5月15日，now爆谷台由標清轉為高標清共享台號。
   - 2016年12月26日，now爆谷台結束在[新加坡](../Page/新加坡.md "wikilink")的播放。
   - 2017年7月1日，now爆谷台于[马来西亚](../Page/马来西亚.md "wikilink")正式推出视频自选服务 (Hypp VOD Play) 。

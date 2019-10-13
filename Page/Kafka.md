@@ -34,7 +34,7 @@ Kafka架构的主要术语包括Topic、Record和Broker。Topic由Record组成�
 
 ## Kafka的性能
 
-由于其广泛集成到企业级基础设施中，监测Kafka在规模运行中的性能成为一个日益重要的问题。监测端到端性能，要求跟踪所有指标，包括Broker、消费者和生产者。除此之外还要监测[ZooKeeper](https://zh.wikipedia.org/wiki/ZooKeeper "wikilink")，Kafka用它来协调各个消费者。\[5\]\[6\]目前有一些监测平台可以追蹤 Kafka 的性能，有开源的，如[领英的Burrow](https://zh.wikipedia.org/wiki/领英 "wikilink")；也有付费的，如。除了这些平台之外，收集Kafka的数据也可以使用工具来进行，这些工具一般需要Java，包括JConsole。\[7\]
+由于其广泛集成到企业级基础设施中，监测Kafka在规模运行中的性能成为一个日益重要的问题。监测端到端性能，要求跟踪所有指标，包括Broker、消费者和生产者。除此之外还要监测[ZooKeeper](https://zh.wikipedia.org/wiki/ZooKeeper "wikilink")，Kafka用它来协调各个消费者。\[5\]\[6\]目前有一些监测平台可以追蹤Kafka的性能，有开源的，如[领英的Burrow](https://zh.wikipedia.org/wiki/领英 "wikilink")；也有付费的，如。除了这些平台之外，收集Kafka的数据也可以使用工具来进行，这些工具一般需要Java，包括JConsole。\[7\]
 
 ## Consumer Group
 

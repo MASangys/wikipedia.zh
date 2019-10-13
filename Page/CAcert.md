@@ -56,4 +56,4 @@ CAcert的签名提供商是[CeBIT](../Page/CeBIT.md "wikilink")和[FOSDEM](https
 4.  [FAQ/TechnicalQuestions - CAcert Wiki](http://wiki.cacert.org/FAQ/TechnicalQuestions#CAcert_Class_3_certificates)
 5.  [CAcert audit comment on Mozilla](https://bugzilla.mozilla.org/show_bug.cgi?id=215243#c158)
 6.  [Discussion by Mozilla on including CAcert root certificate](https://bugzilla.mozilla.org/show_bug.cgi?id=215243)
-7.  [CAcert inclusion status page](http://wiki.cacert.org/wiki/InclusionStatus)
+7.

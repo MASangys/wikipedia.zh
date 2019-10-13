@@ -29,7 +29,8 @@
       - 藝眞（2011-2016）
       - 裕眞（2011-2017）
       - 蕙蘭（2011-2017）
-  - 任夏英（[MIXNINE面試者](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")，[NATURE成員](https://zh.wikipedia.org/wiki/NATURE "wikilink")）
+      - 夏昀（2016-2018）
+  - 林河英（[MIXNINE面試者](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")，[NATURE成員](https://zh.wikipedia.org/wiki/NATURE "wikilink")）
   - [金Samuel](https://zh.wikipedia.org/wiki/金Samuel "wikilink")（2017-2019）
   - [Bigstar](https://zh.wikipedia.org/wiki/Bigstar "wikilink") (2012-2019)
 

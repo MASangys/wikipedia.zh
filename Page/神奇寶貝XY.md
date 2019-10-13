@@ -1678,7 +1678,7 @@ VS超級沙奈朵</p></td>
 
 6.  第81－84集的主題曲畫面為劇場版《[光輪的超魔神 胡帕](https://zh.wikipedia.org/wiki/Pokemon_the_movie_XY_光輪的超魔神_胡帕 "wikilink")》之劇情內容。
 
-7.  第126－130集的主題曲畫面為劇場版《[波爾凱尼恩與機關人偶瑪機雅娜](https://zh.wikipedia.org/wiki/波爾凱尼恩與機關人偶瑪機雅娜 "wikilink")》之劇情內容。
+7.  第126－130集的主題曲畫面為劇場版《[波爾凱尼恩與機關人偶瑪機雅娜](../Page/Pokemon_the_movie_XY&Z_波爾凱尼恩與機關人偶_瑪機雅娜.md "wikilink")》之劇情內容。
 
 8.  海外地區於第1集已經開始播放該片尾曲。
 

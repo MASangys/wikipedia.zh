@@ -40,9 +40,9 @@ Kakao M 發行的音樂種類包含：[K-POP](../Page/韓國流行音樂.md "wik
 
 2018年5月，Kakao M宣佈以35.1億韓元收購[Plan A娛樂剩下的](../Page/Plan_A娛樂.md "wikilink")30%股份，成為全資子公司。
 
-2018年7月9日，Kakao M宣佈通過投資與[BH娛樂](../Page/BH娛樂.md "wikilink")、[J Wide Company](https://zh.wikipedia.org/wiki/J_Wide_Company "wikilink")、[Management SOOP](../Page/Management_SOOP.md "wikilink")，以及模特兒公司[Ready娛樂](https://zh.wikipedia.org/wiki/Ready娛樂 "wikilink")，建立戰略性股份投資的合作體系。\[6\]
+2018年7月9日，Kakao M宣佈通過投資與[BH娛樂](../Page/BH娛樂.md "wikilink")、[J Wide Company](../Page/J_Wide_Company.md "wikilink")、[Management SOOP](../Page/Management_SOOP.md "wikilink")，以及模特兒公司[Ready娛樂](https://zh.wikipedia.org/wiki/Ready娛樂 "wikilink")，建立戰略性股份投資的合作體系。\[6\]
 
-2019年1月2日，Kakao M考慮投資[Blossom娛樂](https://zh.wikipedia.org/wiki/Blossom娛樂 "wikilink")。\[7\] \[8\]
+2019年1月2日，Kakao M考慮投資[Blossom娛樂](../Page/Blossom娛樂.md "wikilink")。\[7\] \[8\]
 
 2019年2月13日，Kakao M宣佈旗下子公司[FAVE娛樂與](https://zh.wikipedia.org/wiki/FAVE娛樂 "wikilink")[Plan A娛樂合併](../Page/Plan_A娛樂.md "wikilink")，4月1日成立新公司。\[9\]\[10\]
 
@@ -52,9 +52,40 @@ Kakao M 發行的音樂種類包含：[K-POP](../Page/韓國流行音樂.md "wik
 
 2019年7月29日，Kakao M正考慮投資[Awesome娛樂](../Page/Awesome娛樂.md "wikilink")。\[14\]
 
-2019年8月6日，Kakao M表示最終決定不收購Blossom娛樂。\[15\]
+2019年8月6日，Kakao M表示最終決定不收購[Blossom娛樂](../Page/Blossom娛樂.md "wikilink")。\[15\]
 
 2019年8月27日，Kakao M正考慮收購[MYM娛樂](../Page/MYM娛樂.md "wikilink")。\[16\]
+
+2019年9月17日，Kakao M宣佈收購電影製作公司Moonlight Film及Sanai Pictures，進軍電影製作業務。\[17\]
+
+2019年9月19日，Kakao M宣佈正考慮收購Dmost Entertainment。\[18\]
+
+## 公司及子公司地址
+
+  - 總公司: [首爾特別市](https://zh.wikipedia.org/wiki/首爾特別市 "wikilink")[江南區德黑蘭路](https://zh.wikipedia.org/wiki/江南區 "wikilink")103街17
+  - Starhill大樓: [首爾市](https://zh.wikipedia.org/wiki/首爾市 "wikilink")[江南區](../Page/江南區_\(首爾\).md "wikilink")151 Starhill Building
+      - 該建築為Kakao M旗下娛樂公司總部的所在地，當中包括Kakao M、Play M娛樂、Cre.Ker娛樂、STARSHIP娛樂，2017年搬至該建築。
+      - Play M合併前，6樓為Plan A娛樂，7樓為FAVE娛樂。
+  - Munhwain Label: [首爾特別市](https://zh.wikipedia.org/wiki/首爾特別市 "wikilink")[麻浦區](../Page/麻浦區.md "wikilink")世界杯北路4街47號
+  - E\&T Story娛樂: [首爾市](https://zh.wikipedia.org/wiki/首爾市 "wikilink")[江南區清潭洞](https://zh.wikipedia.org/wiki/江南區 "wikilink")68-16百松樓4樓402號
+  - BH娛樂: [首爾市](https://zh.wikipedia.org/wiki/首爾市 "wikilink")[江南區](https://zh.wikipedia.org/wiki/江南區 "wikilink")52-1仁熙大廈5樓
+  - Management SOOP: [首爾特別市](https://zh.wikipedia.org/wiki/首爾特別市 "wikilink")[江南區鶴洞路](https://zh.wikipedia.org/wiki/江南區 "wikilink")50街27號
+  - J Wide Company: [首爾特別市](https://zh.wikipedia.org/wiki/首爾特別市 "wikilink")[江南區](https://zh.wikipedia.org/wiki/江南區 "wikilink")49街43號
+  - Ready娛樂: [首爾特別市](https://zh.wikipedia.org/wiki/首爾特別市 "wikilink")[江南區彥州路](https://zh.wikipedia.org/wiki/江南區 "wikilink")130街13號大恩大廈2樓
+
+|                                                                              |
+| ---------------------------------------------------------------------------- |
+| Starhill Building                                                            |
+| style="background:\#E9002F; font-weight:bold; color:white" width="8%| 9F     |
+| style="background:\#E9002F; font-weight:bold; color:white" width="8%| 8F     |
+| style="background:\#E9002F; font-weight:bold; color:white" width="8%| 7F     |
+| style="background:\#E9002F; font-weight:bold; color:white" width="8%| 6F     |
+| style="background:\#E9002F; font-weight:bold; color:white" width="8%| 5F     |
+| style="background:\#E9002F; font-weight:bold; color:white" width="8%| 4F     |
+| style="background:\#E9002F; font-weight:bold; color:white" width="8%| 3F     |
+| style="background:\#E9002F; font-weight:bold; color:white" width="8%| 2F     |
+| style="background:\#E9002F; font-weight:bold; color:white" width="8%| 1F     |
+| style="background:\#E9002F; font-weight:bold; color:white" width="8%| B1-B3F |
 
 ## Kakao M
 
@@ -179,7 +210,7 @@ Kakao M 發行的音樂種類包含：[K-POP](../Page/韓國流行音樂.md "wik
 
 ### 男練習生
 
-  - [PlayM BOYS](https://zh.wikipedia.org/wiki/PlayM_BOYS "wikilink")（前稱[FAVEBOYS](https://zh.wikipedia.org/wiki/FAVEBOYS "wikilink")、[STARHILLBOYS](https://zh.wikipedia.org/wiki/STARHILLBOYS "wikilink")）\[17\]\[18\]\[19\]
+  - [PlayM BOYS](https://zh.wikipedia.org/wiki/PlayM_BOYS "wikilink")（前稱[FAVEBOYS](https://zh.wikipedia.org/wiki/FAVEBOYS "wikilink")、[STARHILLBOYS](https://zh.wikipedia.org/wiki/STARHILLBOYS "wikilink")）\[19\]\[20\]\[21\]
       - [林智敏](../Page/林智敏.md "wikilink")（01年5月22日，[THE FAN第](../Page/THE_FAN.md "wikilink")3名，[THE FAN TOP5](https://zh.wikipedia.org/wiki/THE_FAN_TOP5 "wikilink")）
       - [全暏炎](https://zh.wikipedia.org/wiki/全暏炎 "wikilink")（02年2月21日，[Under 19第](https://zh.wikipedia.org/wiki/Under_Nineteen "wikilink")1名，[1THE9](https://zh.wikipedia.org/wiki/1THE9 "wikilink")）
       - [丁真成](https://zh.wikipedia.org/wiki/丁真成 "wikilink")（02年3月30日，[Under 19第](https://zh.wikipedia.org/wiki/Under_Nineteen "wikilink")2名，[1THE9](https://zh.wikipedia.org/wiki/1THE9 "wikilink")）
@@ -310,7 +341,7 @@ Kakao M 發行的音樂種類包含：[K-POP](../Page/韓國流行音樂.md "wik
   - 韓語：매니지먼트 숲
   - 2018年購入
 
-## [J Wide Company](https://zh.wikipedia.org/wiki/J_Wide_Company "wikilink")
+## [J Wide Company](../Page/J_Wide_Company.md "wikilink")
 
   - 韓語： 제이와이드 컴퍼니
   - 2018年購入
@@ -327,7 +358,7 @@ Kakao M 發行的音樂種類包含：[K-POP](../Page/韓國流行音樂.md "wik
 
 ### [Studio Dragon Corporation](../Page/Studio_Dragon_Corporation.md "wikilink")
 
-2017年5月，公司宣布与[Studio Dragon Corporation](../Page/Studio_Dragon_Corporation.md "wikilink")（[CJ E\&M的子公司](../Page/CJ集团.md "wikilink")）正式合作製作。\[20\]
+2017年5月，公司宣布与[Studio Dragon Corporation](../Page/Studio_Dragon_Corporation.md "wikilink")（[CJ E\&M的子公司](../Page/CJ集团.md "wikilink")）正式合作製作。\[22\]
 
 ### Kakao M製作
 
@@ -348,6 +379,16 @@ MEGA MONSTER（原STORY PLANT)是Kakao M与[Studio Dragon Corporation](../Page/S
 
   - 《Truth or Dare Jenga》
   - 《Safety Today》
+
+## 電影製作
+
+### Moonlight Film
+
+  - 2019年9月，正式宣佈收購電影製作公司Moonlight Film。\[23\]
+
+### Sanai Pictures
+
+  - 2019年9月，正式收購電影製作公司Sanai Pictures。\[24\]
 
 ## 相關業務
 
@@ -399,6 +440,21 @@ MEGA MONSTER（原STORY PLANT)是Kakao M与[Studio Dragon Corporation](../Page/S
 ### Cre.ker娛樂
 
   -
+### STARSHIP娛樂
+
+  - 的官方網站
+
+  -
+  -
+  -
+  -
+### KING KONG by STARSHIP娛樂
+
+  - 的官方網站
+
+  -
+  -
+  -
 ### Munhwain Label
 
   - 的官方網站
@@ -446,4 +502,8 @@ MEGA MONSTER（原STORY PLANT)是Kakao M与[Studio Dragon Corporation](../Page/S
 17.
 18.
 19.
-20. [SM、YG、JYP、FNC等娛樂公司涉足「韓劇」事業的市場衝擊](http://www.koreastardaily.com/tc/news/95532)
+20.
+21.
+22. [SM、YG、JYP、FNC等娛樂公司涉足「韓劇」事業的市場衝擊](http://www.koreastardaily.com/tc/news/95532)
+23.
+24.

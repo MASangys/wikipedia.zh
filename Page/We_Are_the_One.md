@@ -12,4 +12,4 @@
 | <small>生命之花</small> |               6               |          6          |
 | <small>2013</small> |      <small>雙彩虹</small>       |         20          |
 
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink") [Category:張繼聰音樂專輯](https://zh.wikipedia.org/wiki/Category:張繼聰音樂專輯 "wikilink")
+[Category:張繼聰音樂專輯](https://zh.wikipedia.org/wiki/Category:張繼聰音樂專輯 "wikilink") [Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")

@@ -75,7 +75,7 @@
 ### 组合
 
   - [Secret](../Page/Secret_\(組合\).md "wikilink")（[全烋星](../Page/全烋星.md "wikilink")、[宋枝恩](../Page/宋枝恩.md "wikilink")、[韓善伙](../Page/韓善伙.md "wikilink")）
-  - [B.A.P](../Page/B.A.P.md "wikilink") （[方容國](https://zh.wikipedia.org/wiki/方容國 "wikilink")、[金力燦](https://zh.wikipedia.org/wiki/金力燦 "wikilink")、[鄭大賢](../Page/鄭大賢.md "wikilink")、[劉永才](https://zh.wikipedia.org/wiki/劉永才 "wikilink")、[文鐘業](https://zh.wikipedia.org/wiki/文鐘業 "wikilink")、[崔準烘](https://zh.wikipedia.org/wiki/崔準烘 "wikilink"))
+  - [B.A.P](../Page/B.A.P.md "wikilink") （[方容國](https://zh.wikipedia.org/wiki/方容國 "wikilink")、金力燦、[鄭大賢](../Page/鄭大賢.md "wikilink")、劉永才、文鐘業、崔準烘)
 
 ## 參考文獻
 

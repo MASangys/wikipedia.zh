@@ -1,4 +1,4 @@
-**费利克斯·阿爾維德·烏爾夫·谢尔貝格**\[1\]\[2\]（，\[3\]  \[4\]、 、\[5\]，），網名**PewDiePie**（、），[瑞典](../Page/瑞典.md "wikilink")籍[YouTuber](../Page/YouTuber.md "wikilink")，以拍攝遊戲遊玩（）與評論影片聞名，後來主要集中上傳一些關於[網路迷因的影片](https://zh.wikipedia.org/wiki/網路迷因 "wikilink")。他的YouTube頻道崛起速度極快，頻道訂閱人數在2013年由350萬迅速爬升到1,200萬，於2013年8月成為[在YouTube上訂閱人數最多的頻道](../Page/在YouTube上訂閱人數最多的用戶列表.md "wikilink")；除了在2013年11月及12月期間兩度被YouTube的官方頻道「[YouTube Spotlight](../Page/YouTube聚光燈.md "wikilink")」超越外，他的頻道一直居於訂閱數榜首\[6\]。2019年3月27日，經歷2018年9月至2019年3月的後，PewDiePie正式被印度影音公司「[T-Series](../Page/T-Series.md "wikilink")」超越，第三度成為YouTube的第二多訂閲數的頻道，雖然曾在同年4月1日重奪YouTube第一多訂閱數頻道的寳座，但13天後又再度移主。在拉鋸戰的過程中，他發布了兩首單曲，一為《婊子千層麵》（*Bitch lasagna*)，二為《祝賀》（*Congratulations*) ，且兩首單曲也已破億觀看。2019年8月25日，PewDiePie的YouTube頻道達到1億名訂閱者，成為第一個個人頻道破億訂閱的YouTuber。
+**费利克斯·阿爾維德·烏爾夫·谢尔貝里**\[1\]\[2\]（，\[3\]，[英語讀作](https://zh.wikipedia.org/wiki/英語 "wikilink") \[4\]或、\[5\]，），網名**PewDiePie**（、），[瑞典](../Page/瑞典.md "wikilink")籍[YouTuber](../Page/YouTuber.md "wikilink")，以拍攝遊戲遊玩（）與評論影片聞名，後來主要集中上傳一些關於[網路迷因的影片](https://zh.wikipedia.org/wiki/網路迷因 "wikilink")。他的YouTube頻道崛起速度極快，頻道訂閱人數在2013年由350萬迅速爬升到1,200萬，於2013年8月成為[在YouTube上訂閱人數最多的頻道](../Page/在YouTube上訂閱人數最多的用戶列表.md "wikilink")；除了在2013年11月及12月期間兩度被YouTube的官方頻道「[YouTube Spotlight](../Page/YouTube聚光燈.md "wikilink")」超越外，他的頻道一直居於訂閱數榜首\[6\]。2019年3月27日，經歷2018年9月至2019年3月的後，PewDiePie正式被印度影音公司「[T-Series](../Page/T-Series.md "wikilink")」超越，第三度成為YouTube的第二多訂閲數的頻道，雖然曾在同年4月1日重奪YouTube第一多訂閱數頻道的寳座，但13天後又再度移主。在拉鋸戰的過程中，他發布了兩首單曲，一為《婊子千層麵》（*Bitch lasagna*)，二為《祝賀》（*Congratulations*) ，且兩首單曲也已破億觀看。2019年8月25日，PewDiePie的YouTube頻道達到1億名訂閱者，成為第一個個人頻道破億訂閱的YouTuber。
 
 ## 早年生活
 
@@ -24,7 +24,7 @@ PewDiePie的[YouTube](../Page/YouTube.md "wikilink")頻道創建于2010年4月�
 
 2019年8月25日，PewDiePie的頻道訂閱數正式突破一億，成為繼T-Series後第二個進入「一億俱樂部」的頻道，也是首位實現此創舉的獨立影片製作者，而YouTube官方的Twitter亦發推對此表示祝賀\[50\]。
 
-2019年9月7日，YouTube官方在Twitter發佈了一則推文，為了祝賀PewDiePie和T-series都達到了一億訂閱的成就，這意味著Youtube有新的創作者獎：紅鑽創作獎，以之前10-1000萬訂閱播放按鈕的樣子為基礎，仿鑽石材質的黑底紅鑽按鈕的造型分別送給雙方得獎者\[51\]\[52\]，PewDiePie之後也發布了一個影片感謝Youtube，但是最後中間的紅鑽播放按鈕不小心被PewDiePie弄掉了。
+2019年9月7日，YouTube官方在Twitter發佈了一則推文，為了祝賀PewDiePie和T-series都達到了一億訂閱的成就，這意味著Youtube有新的創作者獎：紅鑽創作獎，以之前10-1000萬訂閱播放按鈕的樣子為基礎，仿鑽石材質的黑底紅鑽按鈕的造型分別送給雙方得獎者\[51\]\[52\]，PewDiePie之後也發布了一個影片感謝Youtube，但是最後中間的紅鑽播放按鈕不小心被PewDiePie摔壞了。
 
 ## 頻道特色
 

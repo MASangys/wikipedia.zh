@@ -73,28 +73,22 @@ Qi規格第一卷（低功率部份，5W以下）於2010年推出，目前已有
   - PHILIPS
       - [S8860](https://zh.wikipedia.org/wiki/S8860 "wikilink")
   - SAMSUNG
-      - [GALAXY NOTE 5](https://zh.wikipedia.org/wiki/Samsung_Galaxy_Note_5 "wikilink")
-      - [GALAXY NOTE 7](https://zh.wikipedia.org/wiki/Samsung_Galaxy_Note_7 "wikilink")
-      - [GALAXY NOTE 8](https://zh.wikipedia.org/wiki/Samsung_Galaxy_Note_8 "wikilink")
-      - [GALAXY NOTE 9](https://zh.wikipedia.org/wiki/Samsung_Galaxy_Note_9 "wikilink")
-      - [GALAXY NOTE 10](https://zh.wikipedia.org/wiki/Samsung_Galaxy_Note_10 "wikilink")
-      - [GALAXY S6](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S6 "wikilink")/[S6 EDGE](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S6 "wikilink")
-      - [GALAXY S7](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S7 "wikilink")/[S7 EDGE](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S7 "wikilink")
-      - [GALAXY S8](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S8 "wikilink")/[S8 PLUS](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S8 "wikilink")
-      - [GALAXY S9](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S9 "wikilink")/[S9 PLUS](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S9 "wikilink")
-      - [GALAXY S10e/S10](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S10 "wikilink")/[S10 PLUS](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S10+ "wikilink")
-
-Sony
-
-  -   - [Sony Xperia XZ2](../Page/Sony_Xperia_XZ2.md "wikilink")/[Sony Xperia XZ2 Premium](../Page/Sony_Xperia_XZ2_Premium.md "wikilink")
+      - [Galaxy Note 5](https://zh.wikipedia.org/wiki/Galaxy_Note_5 "wikilink")
+      - [Galaxy Note 7](https://zh.wikipedia.org/wiki/Galaxy_Note_7 "wikilink")
+      - [Galaxy Note 8](https://zh.wikipedia.org/wiki/Galaxy_Note_8 "wikilink")
+      - [Galaxy Note 9](https://zh.wikipedia.org/wiki/Galaxy_Note_9 "wikilink")
+      - [Galaxy Note 10](https://zh.wikipedia.org/wiki/Galaxy_Note_10 "wikilink")
+      - [Galaxy S6](https://zh.wikipedia.org/wiki/Galaxy_S6 "wikilink")/[S6 Edge](https://zh.wikipedia.org/wiki/Galaxy_S6 "wikilink")
+      - [Galaxy S7](https://zh.wikipedia.org/wiki/Galaxy_S7 "wikilink")/[S7 Edge](https://zh.wikipedia.org/wiki/Galaxy_S7 "wikilink")
+      - [Galaxy S8](https://zh.wikipedia.org/wiki/Galaxy_S8 "wikilink")/[S8+](https://zh.wikipedia.org/wiki/Galaxy_S8 "wikilink")
+      - [Galaxy S9](https://zh.wikipedia.org/wiki/Galaxy_S9 "wikilink")/[S9+](https://zh.wikipedia.org/wiki/Galaxy_S9 "wikilink")
+      - [Galaxy S10e/S10](https://zh.wikipedia.org/wiki/Galaxy_S10 "wikilink")/[S10+](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S10+ "wikilink")
+  - Sony
+      - [Sony Xperia XZ2](../Page/Sony_Xperia_XZ2.md "wikilink")/[Sony Xperia XZ2 Premium](../Page/Sony_Xperia_XZ2_Premium.md "wikilink")
       - [Sony Xperia XZ3](../Page/Sony_Xperia_XZ3.md "wikilink")
-
   - ZTE
-
       - [Geek V975](https://zh.wikipedia.org/wiki/Geek_V975 "wikilink")
-
   - LG
-
       - [LG G3](../Page/LG_G3.md "wikilink")
       - [LG G6](../Page/LG_G6.md "wikilink") PLUS
       - [LG G7](https://zh.wikipedia.org/wiki/LG_G7 "wikilink")

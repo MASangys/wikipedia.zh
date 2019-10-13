@@ -1,6 +1,6 @@
 **巴雷特MRAD**（；MRAD，全稱：**M**ulti-**R**ole **A**daptive **D**esign，意為：多用途自行調應設計）是一枝由[美国](../Page/美国.md "wikilink")槍械製造商[巴雷特所研製和生產的](../Page/巴雷特槍械公司.md "wikilink")[旋转后拉枪机式手動](../Page/手動槍機.md "wikilink")[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")，以滿足特種作戰司令部（簡稱：PSR）合同的要求，\[1\]是基於[巴雷特M98B的改進型](../Page/巴雷特M98B狙擊步槍.md "wikilink")。\[2\]發射[.338拉普麥格農](../Page/.338拉普麥格農.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")（.338 Lapua Mag，8.6×70毫米或8.58×70毫米）。
 
-2010年底，巴雷特正式公佈MRAD，並且在2011年初開始銷售，其[建議售價為](https://zh.wikipedia.org/wiki/建議售價 "wikilink")[$](../Page/美元.md "wikilink")6,000.00。\[3\]推出市場以後，巴雷特MRAD被[美國步槍協會](https://zh.wikipedia.org/wiki/美國步槍協會 "wikilink")（，簡稱：NRA）評為2012年年度步槍。\[4\]
+2010年底，巴雷特正式公佈MRAD，並且在2011年初開始銷售，其[建議售價為](https://zh.wikipedia.org/wiki/建議售價 "wikilink")[$](../Page/美元.md "wikilink")6,000.00。\[3\]推出市場以後，巴雷特MRAD被[美国全国步枪协会](../Page/美国全国步枪协会.md "wikilink")（，簡稱：NRA）評為2012年年度步槍。\[4\]
 
 ## 歷史
 

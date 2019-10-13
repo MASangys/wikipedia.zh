@@ -1,4 +1,4 @@
-**RPG-28**（；\[1\]\[2\]Клюква；俄語羅馬化：**Klyukva**，意為：[蔓越莓](https://zh.wikipedia.org/wiki/小紅莓 "wikilink")）是一具由[俄罗斯](../Page/俄罗斯.md "wikilink")國家研究和生產企業與武器製造商[Bazalt所聯合研製及生產的](https://zh.wikipedia.org/wiki/Bazalt "wikilink")125毫米一次射擊型[火箭推進榴彈](../Page/火箭推進榴彈.md "wikilink")[發射器](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")，發射[PG-28](https://zh.wikipedia.org/wiki/PG-28 "wikilink") [HEAT火箭彈](../Page/高爆反坦克彈.md "wikilink")。
+**RPG-28**（；\[1\]\[2\]Клюква；俄語羅馬化：**Klyukva**，意為：[蔓越莓](https://zh.wikipedia.org/wiki/小紅莓 "wikilink")）是一具由[俄罗斯](../Page/俄罗斯.md "wikilink")國家研究和生產企業與武器製造商[Bazalt所聯合研製及生產的](https://zh.wikipedia.org/wiki/Bazalt "wikilink")125毫米一次射擊型[火箭推進榴彈](../Page/火箭推進榴彈.md "wikilink")[發射器](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")，發射[PG-28](https://zh.wikipedia.org/wiki/PG-28 "wikilink") [HEAT](../Page/高爆反坦克彈.md "wikilink")[火箭彈](https://zh.wikipedia.org/wiki/火箭彈 "wikilink")。
 
 ## 歷史
 

@@ -537,9 +537,9 @@ JTeam官方於1/9日於JTeam 傳說對決粉絲團發表聲明稿，因對於GCS
 <tr class="odd">
 <td><p>JT Vic</p></td>
 <td><p>打野</p></td>
+<td><p>1995年9月14日</p></td>
 <td></td>
-<td></td>
-<td><p>現為泰國RRQ.BF戰隊教練</p></td>
+<td><p>現已退役</p></td>
 </tr>
 <tr class="even">
 <td><p>JT Aydan</p></td>

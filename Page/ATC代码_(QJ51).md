@@ -68,7 +68,7 @@
 ### QJ51DD 第三代头孢菌素（Third-generation cephalosporins）
 
   -
-    QJ51DD12 [头孢哌酮](https://zh.wikipedia.org/wiki/头孢哌酮 "wikilink")（Cefoperazone）
+    QJ51DD12 [头孢哌酮](../Page/头孢哌酮.md "wikilink")（Cefoperazone）
     QJ51DD90 [头孢噻呋](https://zh.wikipedia.org/wiki/头孢噻呋 "wikilink")（Ceftiofur）
 
 ### QJ51DE 第四代头孢菌素（Fourth-generation cephalosporins）

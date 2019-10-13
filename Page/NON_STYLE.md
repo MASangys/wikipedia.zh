@@ -24,7 +24,7 @@
   -
   - [石田明官方網誌](https://web.archive.org/web/20130708020252/http://nonstyleshiro.laff.jp/)
 
-[Category:日本搞笑二人組](https://zh.wikipedia.org/wiki/Category:日本搞笑二人組 "wikilink") [Category:吉本興業所屬搞笑組合](https://zh.wikipedia.org/wiki/Category:吉本興業所屬搞笑組合 "wikilink") [Category:M-1大賽優勝](https://zh.wikipedia.org/wiki/Category:M-1大賽優勝 "wikilink")
+[Category:日本搞笑二人組](https://zh.wikipedia.org/wiki/Category:日本搞笑二人組 "wikilink") [Category:吉本興業](https://zh.wikipedia.org/wiki/Category:吉本興業 "wikilink") [Category:吉本興業所屬搞笑組合](https://zh.wikipedia.org/wiki/Category:吉本興業所屬搞笑組合 "wikilink") [Category:M-1大賽優勝](https://zh.wikipedia.org/wiki/Category:M-1大賽優勝 "wikilink")
 
 1.
 2.

@@ -56,7 +56,7 @@
 
 <!-- end list -->
 
-  - 1月21日 發行第1張專輯，總共收錄了[KILL la KILL](../Page/KILL_la_KILL.md "wikilink")（斬服少女）片頭曲、[魔法科高中的劣等生片頭曲](https://zh.wikipedia.org/wiki/魔法科高中的劣等生 "wikilink")、[GUNDAM G之復國運動片頭曲](https://zh.wikipedia.org/wiki/GUNDAM_G之復國運動 "wikilink")、動畫投稿網站nico動畫百萬點閱的[Lamb.等曲子](https://zh.wikipedia.org/wiki/Lamb. "wikilink")。
+  - 1月21日 發行第1張專輯，總共收錄了[KILL la KILL](../Page/KILL_la_KILL.md "wikilink")（斬服少女）片頭曲、[魔法科高中的劣等生片頭曲](https://zh.wikipedia.org/wiki/魔法科高中的劣等生 "wikilink")、[GUNDAM G之復國運動片頭曲](https://zh.wikipedia.org/wiki/GUNDAM_G之復國運動 "wikilink")、動畫投稿網站nico動畫百萬點閱的Lamb.等曲子。
   - 5月13日 發行第4張單曲「MIRAI」，為[雙槍激鬥](../Page/雙槍激鬥.md "wikilink")片尾曲。
 
 <!-- end list -->
@@ -537,7 +537,7 @@ CD</p></td>
   - ボーカロイド　ラボラトリー（2011年7月27日）
       - 4\. ARiA -ReACT-
   - ドリームボーカリスト（2013年10月23日）
-  - 1\. Go Tight\!
+      - 1\. Go Tight\!
   - [ClariS](../Page/ClariS.md "wikilink") SPRING TRACKS -春のうた-（2016年3月2日）
 
 ## 音樂合作

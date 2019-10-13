@@ -156,9 +156,9 @@
 
 ## 外部链接
 
-  - [游戏官方网站](http://www.hibiki-site.com/lovely-cation/)(限日本瀏覽)
-  - [LOVELY×CATION 1&2](http://5pb.jp/games/lovelycation/index.html)PSV版官方網站
-  - [OVA官方網站](http://www.pinkpineapple.co.jp/lovely-cation_anime/index.html)PinkPineapple
+  - [官方网站](http://www.hibiki-site.com/products/lovely-cation/index.html)
+  - [LOVELY×CATION 1&2官方網站](http://5pb.jp/games/lovelycation/index.html)
+  - [OVA官方網站](http://www.pinkpineapple.co.jp/lovely-cation_anime/index.html)
 
 [Category:2011年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2011年日本成人遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:PlayStation_Vita遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita遊戲 "wikilink") [Category:2015年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2015年日本成人動畫 "wikilink")
 

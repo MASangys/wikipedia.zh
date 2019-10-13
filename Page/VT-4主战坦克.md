@@ -1,4 +1,4 @@
-**VT-4**又名为**MBT-3000主战坦克**，是[中华人民共和国在](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")2000年代末至2010年代研制的由[中国北方工业](https://zh.wikipedia.org/wiki/中国北方工业 "wikilink") (NORINCO) 推出供外贸出口的第三代[主战坦克](https://zh.wikipedia.org/wiki/主战坦克 "wikilink")，是[MBT-2000主战坦克](../Page/MBT-2000主战坦克.md "wikilink")（VT-1）基础上换中国产动力舱的升级改型，从渊源上是基于[90-II式坦克一系列衍生型最新型号之一](https://zh.wikipedia.org/wiki/90式主战坦克_\(中华人民共和国\) "wikilink")。VT-4虽然只是外贸坦克，但性能超越俄罗斯最新的T-14“阿玛塔”主战坦克，它配备的火力控制系统连俄罗斯人都仍在努力追赶阶段，而且价格低廉，性能却可与美国的M1A2“艾布拉姆斯”和德国的“豹2”等最先进的第三代主战坦克媲美\[1\]。
+**VT-4**又名为**MBT-3000主战坦克**，是[中华人民共和国在](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")2000年代末至2010年代研制的由[中国北方工业](https://zh.wikipedia.org/wiki/中国北方工业 "wikilink") (NORINCO) 推出供外贸出口的第三代[主战坦克](https://zh.wikipedia.org/wiki/主战坦克 "wikilink")，是[MBT-2000主战坦克](../Page/MBT-2000主战坦克.md "wikilink")（VT-1）基础上换中国产动力舱的升级改型，从渊源上是基于[90-II式坦克一系列衍生型最新型号之一](https://zh.wikipedia.org/wiki/90式主战坦克_\(中华人民共和国\) "wikilink")。VT-4虽然只是外贸坦克，但性能超越俄罗斯最新的T-14“阿玛塔”主战坦克，它配备的火力控制系统连俄罗斯人都仍在努力追赶阶段，而且价格低廉，性能却可与美国的[M1A2](https://zh.wikipedia.org/wiki/M1A2 "wikilink")“艾布拉姆斯”（台：“艾布蘭”）和德国的“豹2”等最先进的第三代主战坦克媲美\[1\]。
 
 ## 历史
 

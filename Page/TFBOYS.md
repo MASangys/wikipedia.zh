@@ -2,13 +2,9 @@
 
 ## 簡介
 
-出道前，成員王俊凱與王源為[重慶市](https://zh.wikipedia.org/wiki/重慶市 "wikilink")[时代峰峻練習生](https://zh.wikipedia.org/wiki/北京时代峰峻文化艺术发展有限公司 "wikilink")，分別是「TF家族」第二批和第三批的練習生，以免費的方式提供培訓。而易烊千璽當時則是飛炫少年成員，之後才退出轉而加入TFBOYS。\[4\]
+出道前，成員王俊凱與王源為[重慶市](https://zh.wikipedia.org/wiki/重慶市 "wikilink")[时代峰峻練習生](https://zh.wikipedia.org/wiki/北京时代峰峻文化艺术发展有限公司 "wikilink")，分別是「TF家族」第一批和第二批的練習生，以冬令營的方式提供培訓。而易烊千璽當時則是飛炫少年成員，再一次表演被星探發覺之後才退出轉而加入TFBOYS。\[4\]
 
-2013年7月28日，[王俊凱](https://zh.wikipedia.org/wiki/王俊凱 "wikilink")、[王源與](../Page/王源_\(艺人\).md "wikilink")[易烊千璽組成男子偶像組合](https://zh.wikipedia.org/wiki/易烊千璽 "wikilink")「TFBOYS」。同年8月6日發布形象片《十年》正式出道。10月18日，首張EP《Heart 夢·出發》正式發行。
-
-2016年2月初次登上[中央電視台](https://zh.wikipedia.org/wiki/中央電視台 "wikilink")[春節聯歡晚會表演](https://zh.wikipedia.org/wiki/春節聯歡晚會 "wikilink")《幸福成長》節目。同年7月，三人主演的校園懸疑網絡劇《[超少年密碼](https://zh.wikipedia.org/wiki/超少年密碼 "wikilink")》首播。
-
-2017年7月，湖南衛視為TFBOYS量身定做的青春勵志劇《[我們的少年時代](https://zh.wikipedia.org/wiki/我們的少年時代 "wikilink")》播出。同年9月，三名成員分別成立個人工作室，並開通個人工作室官方微博。時代峰峻公司表示，此次調整的目的是在優先保證組合活動的前提下，追求個人更大的發展空間\[5\]。
+2013年7月28日，[王俊凱](https://zh.wikipedia.org/wiki/王俊凱 "wikilink")、[王源與](../Page/王源_\(艺人\).md "wikilink")[易烊千璽組成男子偶像組合](https://zh.wikipedia.org/wiki/易烊千璽 "wikilink")「TFBOYS」。同年8月6日發布形象片《十年》正式出道。10月18日，首張EP《Heart 夢·出發》正式發行。2016年2月初次登上[中央電視台](https://zh.wikipedia.org/wiki/中央電視台 "wikilink")[春節聯歡晚會表演](https://zh.wikipedia.org/wiki/春節聯歡晚會 "wikilink")《幸福成長》節目。2017年9月，三名成員分別成立個人工作室，並開通個人工作室官方微博。\[5\]。
 
 ## 成員列表
 

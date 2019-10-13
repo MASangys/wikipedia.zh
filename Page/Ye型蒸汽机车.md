@@ -1,4 +1,4 @@
-**Ye型蒸汽机车**（）是[苏联铁路使用的一款干线货运](https://zh.wikipedia.org/wiki/苏联铁路 "wikilink")[蒸汽机车](https://zh.wikipedia.org/wiki/蒸汽机车 "wikilink")。该车又分为Yea, Yek, Yel, Yef, Yem, Yemv and Yes等分支 ()，因此被人称之为“俄罗斯德加宝”（Russian Decapods）。 机车由[ALCO和](../Page/美国机车公司.md "wikilink")[Baldwin于一战期间和二战期间先后为](../Page/鲍尔温机车厂.md "wikilink")[俄罗斯帝国](../Page/俄罗斯帝国.md "wikilink")铁路和苏联铁路制造。除此之外，[中国铁路和](https://zh.wikipedia.org/wiki/中国铁路 "wikilink")[芬兰铁路](https://zh.wikipedia.org/wiki/芬兰铁路 "wikilink")、朝鲜铁路也使用该款机车。
+**Ye型蒸汽机车**（）是[苏联铁路使用的一款干线货运](https://zh.wikipedia.org/wiki/苏联铁路 "wikilink")[蒸汽机车](https://zh.wikipedia.org/wiki/蒸汽机车 "wikilink")。该车又分为Yea, Yek, Yel, Yef, Yem, Yemv and Yes等分支 ()，因此被人称之为“俄罗斯德加宝”（Russian Decapods）。机车由[ALCO和](../Page/美国机车公司.md "wikilink")[Baldwin于一战期间和二战期间先后为](../Page/鲍尔温机车厂.md "wikilink")[俄罗斯帝国](../Page/俄罗斯帝国.md "wikilink")铁路和苏联铁路制造。除此之外，[中国铁路](https://zh.wikipedia.org/wiki/中国铁路 "wikilink")、[芬兰铁路和朝鲜铁路也使用该款机车](https://zh.wikipedia.org/wiki/芬兰铁路 "wikilink")。
 
 ## 历史
 
@@ -22,13 +22,13 @@
 
 20台Е型蒸汽机车被芬兰铁路命名为**Tr2**（*Tavarajuna, Raskas*，“重载货运列车”之意），而Tr2这一机车代号也被昵称为*Truman*（第33任[美国总统](../Page/美国总统.md "wikilink")[哈里·S·杜鲁门](../Page/哈里·S·杜鲁门.md "wikilink")）。这些机车于1968年退役。
 
-1319号（1947年美国机车公司生产，出厂编号75214号）机车保存在[許溫凱](../Page/許溫凱.md "wikilink")。\[1\]。
+1319号（1947年美国机车公司生产，出厂编号75214号）机车保存在位于[許溫凱](../Page/許溫凱.md "wikilink")市的[芬兰铁路博物馆里](https://zh.wikipedia.org/wiki/芬兰铁路博物馆 "wikilink")。\[1\]
 
 ### 中国铁路DK2型
 
 东清铁路拥有44台Е型机车。1931年[九一八事變](../Page/九一八事變.md "wikilink")后，日军侵占[黑龙江省](../Page/黑龍江省_\(中華民國\).md "wikilink")，控制了除中东铁路以外的黑龙江地区各铁路。1932年，日本控制的傀儡政权[满洲国](../Page/满洲国.md "wikilink")成立，中東鐵路改由苏联與滿洲國合營，更名為**北滿鐵路**。苏联于1935年3月將北滿鐵路以1亿4千万日元卖给满洲国\[2\]。这些Е型机车被[南满洲铁道接收后一度编为](../Page/南滿洲鐵道.md "wikilink")**デカA**型（DekaA），后又将这些机车变为[标准轨轨距](../Page/標準鐵軌.md "wikilink")，编为**デカニ**（Dekani）型。战后，上述机车先后被[中华民国交通部和](../Page/中華民國交通部.md "wikilink")[中华人民共和国铁道部](../Page/中华人民共和国铁道部.md "wikilink")接收。
 
-1949年后，苏联亦向中国援助16台Е型机车。60台Е型蒸汽机车在1959年被[中华人民共和国铁道部](../Page/中华人民共和国铁道部.md "wikilink")命名为**DK2型**，使用号段为71-130。DK2-114目前在[中国铁路呼和浩特局集团有限公司](../Page/中国铁路呼和浩特局集团有限公司.md "wikilink")包头西机务段段内静态展示。\[3\]。
+1949年后，苏联亦向中国援助16台Е型机车。60台Е型蒸汽机车在1959年被[中华人民共和国铁道部](../Page/中华人民共和国铁道部.md "wikilink")命名为**DK2型**，使用号段为71-130。DK2-114目前在[中国铁路呼和浩特局集团有限公司](../Page/中国铁路呼和浩特局集团有限公司.md "wikilink")包头西机务段段内静态展示。\[3\]
 
 ### 朝鲜铁道省데가하型/8100系列
 

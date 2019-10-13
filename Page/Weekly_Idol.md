@@ -3152,6 +3152,30 @@ Weekly Idol 8周年特辑 (暑假特辑2)</p></td>
 <td><p><strong>中秋特輯 - 名場面片段、未播出片段</strong></p></td>
 </tr>
 <tr class="even">
+<td><p>425</p></td>
+<td><p>9月18日</p></td>
+<td><p><a href="../Page/金國憲.md" title="wikilink">金國憲</a>、<a href="https://zh.wikipedia.org/wiki/宋有彬" title="wikilink">宋有彬</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>426</p></td>
+<td><p>9月25日</p></td>
+<td><p><a href="../Page/Celeb_Five.md" title="wikilink">Celeb Five</a><sup>3rd</sup></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>427</p></td>
+<td><p>10月2日</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>428</p></td>
+<td><p>10月9日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Stray_Kids" title="wikilink">Stray Kids</a><sup>3rd</sup></p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>

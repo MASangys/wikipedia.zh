@@ -241,9 +241,9 @@
 
 ### 簽約藝人
 
-  - 權恩妃（[IZ\*ONE](../Page/IZ*ONE.md "wikilink")）
-  - 金采源（[IZ\*ONE](../Page/IZ*ONE.md "wikilink")）
-  - 車俊昊（[X1](../Page/X1_\(組合\).md "wikilink")）
+  - [權恩妃](https://zh.wikipedia.org/wiki/權恩妃 "wikilink")（[IZ\*ONE](../Page/IZ*ONE.md "wikilink")）
+  - [金采源](../Page/金采源.md "wikilink")（[IZ\*ONE](../Page/IZ*ONE.md "wikilink")）
+  - [車俊昊](../Page/車俊昊.md "wikilink")（[X1](../Page/X1_\(組合\).md "wikilink")）
 
 ### 女練習生
 

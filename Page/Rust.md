@@ -1,38 +1,38 @@
 **Rust**是由[Mozilla](../Page/Mozilla.md "wikilink")\[1\]主导开发的[通用](https://zh.wikipedia.org/wiki/通用程式語言 "wikilink")、编译型编程语言。设计准则为“安全、并发、实用”，\[2\]\[3\]支持[函数式](https://zh.wikipedia.org/wiki/函數程式語言 "wikilink")、[並行式](https://zh.wikipedia.org/wiki/參與者模式 "wikilink")、[程序式以及](https://zh.wikipedia.org/wiki/程序編程 "wikilink")[面向对象的编程风格](../Page/面向对象程序设计.md "wikilink")。
 
-Rust 語言原本是 Mozilla 員工 Graydon Hoare 的私人計畫，而 Mozilla 於 2009 年開始贊助這個計畫\[4\]，並且在 2010 年首次揭露了它的存在\[5\]。也在同一年，其[編譯器](../Page/編譯器.md "wikilink")原始碼開始由原本的 OCaml 語言轉移到用 Rust 語言，進行 bootstrapping 工作，稱做 *rustc*\[6\]，並於 2011 年實際完成\[7\]。這個可自我編譯的編譯器在架構上採用了 [LLVM](../Page/LLVM.md "wikilink") 做為它的後端。
+Rust語言原本是Mozilla員工Graydon Hoare的私人計畫，而Mozilla於2009年開始贊助這個計畫\[4\]，並且在2010年首次揭露了它的存在\[5\]。也在同一年，其[編譯器](../Page/編譯器.md "wikilink")原始碼開始由原本的OCaml語言轉移到用Rust語言，進行bootstrapping工作，稱做*rustc*\[6\]，並於2011年實際完成\[7\]。這個可自我編譯的編譯器在架構上採用了[LLVM](../Page/LLVM.md "wikilink")做為它的後端。
 
-第一個有版本號的 Rust 編譯器於 2012 年 1 月釋出。\[8\] Rust 1.0 是第一個穩定版本，於 2015 年 5 月 15 日釋出。\[9\]
+第一個有版本號的Rust編譯器於2012年1月釋出。\[8\]Rust 1.0是第一個穩定版本，於2015年5月15日釋出。\[9\]
 
-Rust 是在完全開放的情況下進行開發，並且相當歡迎社區的回饋。在 1.0 穩定版之前，語言設計也因為透過撰寫 [Servo](../Page/Servo.md "wikilink") [網頁瀏覽器](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")[排版引擎](../Page/排版引擎.md "wikilink")和 rustc 編譯器本身，而有進一步的改善。雖然它由 Mozilla 資助，但它其實是一個共有專案，有很大部分的代碼是來自於社區的貢獻者。\[10\]
+Rust是在完全開放的情況下進行開發，並且相當歡迎社區的回饋。在1.0穩定版之前，語言設計也因為透過撰寫[Servo](../Page/Servo.md "wikilink")[網頁瀏覽器](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")[排版引擎](../Page/排版引擎.md "wikilink")和rustc編譯器本身，而有進一步的改善。雖然它由Mozilla資助，但它其實是一個共有專案，有很大部分的代碼是來自於社區的貢獻者。\[10\]
 
 ## 設計
 
-Rust 的設計目標之一，是要使設計大型的網際網路[客户端和](https://zh.wikipedia.org/wiki/客户端 "wikilink")[伺服器的任務變得更容易](https://zh.wikipedia.org/wiki/伺服器 "wikilink")\[11\]。因此更加強調安全性、記憶體配置、以及[並行處理等方面的特性](https://zh.wikipedia.org/wiki/並行計算 "wikilink")。
+Rust的設計目標之一，是要使設計大型的網際網路[客户端和](https://zh.wikipedia.org/wiki/客户端 "wikilink")[伺服器的任務變得更容易](https://zh.wikipedia.org/wiki/伺服器 "wikilink")\[11\]。因此更加強調安全性、記憶體配置、以及[並行處理等方面的特性](https://zh.wikipedia.org/wiki/並行計算 "wikilink")。
 
 ### Rust的性能
 
-在效能上，具有額外安全保證的代碼會比  慢一些，例如对Rust的数组进行操作时默认会检查索引是否越界\[12\]，而C++则不会，但是如果以  也手工提供保證的情況下，則兩者效能上是相似的\[13\]。
+在效能上，具有額外安全保證的代碼會比慢一些，例如对Rust的数组进行操作时默认会检查索引是否越界\[12\]，而C++则不会，但是如果以也手工提供保證的情況下，則兩者效能上是相似的\[13\]。
 
 ### 语法
 
-Rust的語法設計，與 [C語言和](https://zh.wikipedia.org/wiki/C語言 "wikilink") [C++](../Page/C++.md "wikilink") 相當相似，區塊 (block) 使用大括號隔開，流程控制的關鍵字如 `if`, `else`, `while` 等等。在保持相似性的同時，Rust 也加進了新的關鍵字，如用於模式符合 (pattern matching) 的 `match` (與 `switch` 相似) 則是使用 C/C++ 系統程式語言的人會相對陌生的概念。儘管在語法上相似，Rust 的語義 (semantic) 和 C/C++ 非常不同。
+Rust的語法設計，與[C語言和](https://zh.wikipedia.org/wiki/C語言 "wikilink")[C++](../Page/C++.md "wikilink")相當相似，區塊（block）使用大括號隔開，流程控制的關鍵字如`if`、`else`、`while`等等。在保持相似性的同時，Rust也加進了新的關鍵字，如用於模式符合（pattern matching）的`match`（與`switch`相似）則是使用C／C++系統程式語言的人會相對陌生的概念。儘管在語法上相似，Rust的語義（semantic）和（C／C++）非常不同。
 
 ### 内存安全
 
-為了提供記憶體安全，它的設計不允許[空指標](../Page/空指標.md "wikilink")和[懸空指標](https://zh.wikipedia.org/wiki/迷途指針 "wikilink")\[14\] \[15\] 。 資料只能透過固定的初始化形態來建構，而所有這些形態都要求它們的輸入已經分析過了\[16\]。 Rust 有一個檢查指標生命期間和指標凍結的系統，可以用來預防在 C++ 中許多的型別錯誤，甚至是用了[智慧指標功能之後會發生的型別錯誤](../Page/智能指针.md "wikilink")。
+為了提供記憶體安全，它的設計不允許[空指標](../Page/空指標.md "wikilink")和[懸空指標](https://zh.wikipedia.org/wiki/迷途指針 "wikilink")\[14\] \[15\]。 資料只能透過固定的初始化形態來建構，而所有這些形態都要求它們的輸入已經分析過了\[16\]。Rust有一個檢查指標生命期間和指標凍結的系統，可以用來預防在C++中許多的型別錯誤，甚至是用了[智慧指標功能之後會發生的型別錯誤](../Page/智能指针.md "wikilink")。
 
 ### 内存管理
 
-早期的Rust 雖然有[垃圾回收系統](../Page/垃圾回收_\(計算機科學\).md "wikilink")，但非如 Java 或 .NET 平台的全自動垃圾回收。Rust 1.0已不再使用垃圾回收器，而是全面改用基于引用计数的智能指针来管理内存。
+早期的Rust雖然有[垃圾回收系統](../Page/垃圾回收_\(計算機科學\).md "wikilink")，但非如Java或.NET平台的全自動垃圾回收。Rust 1.0已不再使用垃圾回收器，而是全面改用基于引用计数的智能指针来管理内存。
 
 ### 类型与多态
 
-它的型別系統直接地模仿了 [Haskell](../Page/Haskell.md "wikilink") 語言的 type class 概念，並把它稱作「traits」，可以把它看成是一種 ad hoc 多型。Rust 的作法是透過在宣告型別變數 (type variable) 的時候，在上面加上限制條件。至於 Haskell 的高階型別變數 (Higher-kinded polymorphism) 則還未支援。
+它的型別系統直接地模仿了[Haskell](../Page/Haskell.md "wikilink")語言的type class概念，並把它稱作「traits」，可以把它看成是一種ad hoc多型。Rust的作法是透過在宣告型別變數（type variable）的時候，在上面加上限制條件。至於Haskell的高階型別變數（Higher-kinded polymorphism）則還未支援。
 
-[型別推導也是](https://zh.wikipedia.org/wiki/型別推導 "wikilink") Rust 提供的特性之一，使用 `let` 語法宣告的變數可以不用宣告型別，亦不需要初始值來推斷型別。但如果在稍後的程式中從未指派任何值到該變數，編譯器會發出編譯時 (compile time) 錯誤\[17\]。 函數可以使用[泛型](../Page/泛型.md "wikilink")化參數 (generics)，但是必須綁定 Trait。沒有任何方法可以使用方法或運算子，又不宣告它們的型別，每一項都必確明確定義。
+[型別推導也是Rust提供的特性之一](https://zh.wikipedia.org/wiki/型別推導 "wikilink")，使用`let`語法宣告的變數可以不用宣告型別，亦不需要初始值來推斷型別。但如果在稍後的程式中從未指派任何值到該變數，編譯器會發出編譯時（compile time）錯誤\[17\]。 函數可以使用[泛型](../Page/泛型.md "wikilink")化參數（generics），但是必須綁定Trait。沒有任何方法可以使用方法或運算子，又不宣告它們的型別，每一項都必確明確定義。
 
-Rust 的物件系統是基於三樣東西之上的，即實作 (implementation)、Trait 以及結構化資料 (如 struct)。實作的角色類似提供 Class 關鍵字的程式語言所代表的意義，並使用 `impl` 關鍵字。繼承和多型則透過 Trait 實現，它們使得方法 (method) 可以在實作中被定義。結構化資料用來定義欄位。實作和 trait 都無法定義欄位，並且只有 trait 可以提供繼承，藉以躲避 C++ 的「鑽石繼承問題」(菱型缺陷)。
+Rust的物件系統是基於三樣東西之上的，即實作（implementation）、Trait以及結構化資料（如struct）。實作的角色類似提供Class關鍵字的程式語言所代表的意義，並使用`impl`關鍵字。繼承和多型則透過Trait實現，它們使得方法（method）可以在實作中被定義。結構化資料用來定義欄位。實作和trait）都無法定義欄位，並且只有（trait）可以提供繼承，藉以躲避C++的「鑽石繼承問題」（菱型缺陷）。
 
 ## 历史
 
@@ -119,7 +119,7 @@ fn main() {
     // `for`循环可用于任何实现了`iterator`特性的类型
     for num in 0..10 {
         threads.push(thread::spawn(move || {
-            // `println!` 是一个可以静态检查格式字符串类型的宏
+            // `println!`是一个可以静态检查格式字符串类型的宏
             // Rust的宏是基于结构的（如同Scheme）而不是基于文本的（如同C）
             println!("{} from thread number {}", greeting, num);
         }));

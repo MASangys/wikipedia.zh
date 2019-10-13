@@ -115,8 +115,8 @@ tvN Asia大部分節目由Mnet媒體、[CJ E\&M及](https://zh.wikipedia.org/wik
 </tr>
 <tr class="even">
 <td><p>星期四、五</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mother_(韩国电视剧)" title="wikilink">母亲</a></p></td>
-<td><p>8月1日起</p></td>
+<td><p><a href="../Page/秘密森林.md" title="wikilink">秘密森林</a></p></td>
+<td><p>9月26日起</p></td>
 <td><p><br />
 <br />
 <br />
@@ -128,8 +128,8 @@ tvN Asia大部分節目由Mnet媒體、[CJ E\&M及](https://zh.wikipedia.org/wik
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/当恶魔呼喊你的名字时" title="wikilink">当恶魔呼喊你的名字时</a></p></td>
-<td><p>8月1日起，与韩国24小时内同日播出</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/清日电子李小姐" title="wikilink">李小姐</a></p></td>
+<td><p>9月26日起，与韩国24小时内同日播出</p></td>
 <td><p><br />
 <br />
 <small>1</small></p></td>
@@ -393,11 +393,13 @@ tvN Asia大部分節目由Mnet媒體、[CJ E\&M及](https://zh.wikipedia.org/wik
 <td><p>♤</p></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>2019年926日 - 2019年</p></td>
+<td><p>星期四、五 21:50</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/清日电子李小姐" title="wikilink">李小姐</a></p></td>
+<td><p>16</p></td>
+<td><p><br />
+<br />
+♤</p></td>
 </tr>
 </tbody>
 </table>

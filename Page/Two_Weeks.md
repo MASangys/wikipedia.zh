@@ -9,7 +9,8 @@
 <col style="width: 1%" />
 <col style="width: 1%" />
 <col style="width: 5%" />
-<col style="width: 3%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -17,6 +18,7 @@
 <td><p><strong>角色</strong></p></td>
 <td><p><strong>年齡</strong></p></td>
 <td><p><strong>介紹</strong></p></td>
+<td><p><strong>香港配音</strong></p></td>
 </tr>
 <tr class="even">
 <td><center>
@@ -26,6 +28,7 @@
 <td><center>
 <p>32</p></td>
 <td><p>文日錫黑幫組織成員，看臉色吃飯的三流小混混。在孤兒院長大的泰山以拳頭來宣洩絕望和憤怒，自然地成為黑幫成員，但泰山從來沒做過殺人的勾當，直到遇見仁惠後冰封的內心才被融化，卻被文日錫威脅若不替他頂罪入獄就會殺害仁惠，所以絕情地將甫懷孕的仁惠送進婦產科手術室墮胎，希望仁惠對自己死心。8年後仁惠找上門來並坦承當年沒有墮胎，獨自生下扶養的女兒卻得了<a href="https://zh.wikipedia.org/wiki/白血病" title="wikilink">白血病</a>，幸好泰山與孩子的骨髓相符。訂好了手術日子，泰山卻又被迫替文日錫背黑鍋成為殺人犯，無論怎麼辯解但所有證據全都指向泰山，為了在手術日前得以活命泰山開始逃亡的生活。</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><center>
@@ -36,6 +39,7 @@
 <td><center>
 <p>27</p></td>
 <td><p>南部地檢刑事1部<a href="../Page/檢察官.md" title="wikilink">檢察官</a>，只要接手複雜的案件，就會過於研究小細節導致毫無進展，所以總被分配到簡易案件。難以猜測她內心的想法，對上司的嘲笑訓斥會裝模作樣地接受而蒙混過去。高三時目睹父親被文日錫刺傷，向視為榜樣的趙瑞希求助不料卻得知兩人的勾結而遭受打擊。為了將他們醜陋的一面公諸於世而成為檢察官，從研修院時期就不斷地追查密切接觸卻沒留下任何痕跡的兩人。</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><center>
@@ -45,6 +49,7 @@
 <td><center>
 <p>34</p></td>
 <td><p>仁惠的未婚夫，警察世家出身的重案組刑警，過分自信、言出必行的好勝者。讀過一年醫大，為了成為刑警又重新考入警大。瞭解了關於仁惠的流言蜚語，幫助她的同時也陷入了愛情，長時間努力之下才抓住仁惠的心。承佑戰勝了家人的反對，也得到了用愛包容條件不佳的女人這樣的優越感。然而正在追捕的殺人犯居然是仁惠以前的男人，視如己出的秀珍身上還流著他的血，讓他決心勢必將泰山隔離出自己與仁惠的人生。</p></td>
+<td><p><a href="../Page/楊耀泰.md" title="wikilink">楊耀泰</a></p></td>
 </tr>
 <tr class="odd">
 <td><center>
@@ -54,6 +59,7 @@
 <td><center>
 <p>30</p></td>
 <td><p>泰山過去的戀人，大學時期與泰山相遇瘋狂地陷入熱戀，與他有了愛的結晶，不顧父母反對約定好計畫只屬於他們的未來。突然間，仁惠和腹中孩子被拋棄了，連泰山去了哪裡以及離開的理由也不得而知，最後仁惠獨自將女兒秀珍生下扶養長大。受到傷害的仁惠變得無法相信男人，最後還是被承佑打動並決定和他結婚，可是秀珍患上白血病怎麼樣也無法找到匹配的骨髓，絕望的仁惠抱著最後一絲希望重新找上泰山，好不容易見到女兒的一線生機，泰山卻因為殺人事件開始逃亡。</p></td>
+<td><p><a href="../Page/鄭家蕙.md" title="wikilink">鄭家蕙</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -65,6 +71,7 @@
 <col style="width: 1%" />
 <col style="width: 1%" />
 <col style="width: 6%" />
+<col style="width: 0%" />
 <col style="width: 1%" />
 </colgroup>
 <tbody>
@@ -73,6 +80,7 @@
 <td><p><strong>角色</strong></p></td>
 <td><p><strong>年齡</strong></p></td>
 <td><p><strong>介紹</strong></p></td>
+<td><p><strong>香港配音</strong></p></td>
 </tr>
 <tr class="even">
 <td><center>
@@ -82,6 +90,7 @@
 <td><center>
 <p>40後半</p></td>
 <td><p>黑幫出身的企業家，本性可怕殘忍，與趙瑞希合作為他帶來財力和權力。對於阻擋他的障礙物不單是清掃掉，更要連根拔起。將殺人罪名栽在他不當回事的泰山身上，卻因為吳美淑生前拍下與趙瑞希交易的相機落入泰山手中而開始追殺泰山。</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><center>
@@ -91,6 +100,7 @@
 <td><center>
 <p>55左右</p></td>
 <td><p>律師出身的三選國會議員，私下卻與文日錫勾結，行事謹慎到未曾被人抓過把柄。因為陷入在京所設的陷阱，留下了關於趙瑞希惡行的證據，使她面臨人生最大危機。</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><center>
@@ -100,6 +110,7 @@
 <td><center>
 <p>不詳</p></td>
 <td><p>本名韓欽亨，韓治國的親生兒子。法國特種部隊出身的殺手，年幼時被文日錫綁架送到國外領養，在假裝因緣際會之下帶回韓國。</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><center>
@@ -109,6 +120,7 @@
 <td><center>
 <p>30初</p></td>
 <td><p>以顧問律師身分和文日錫結識，後來成為他的左右手，對文日錫的事業瞭如指掌。</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><center></td>
@@ -117,6 +129,7 @@
 <td><center>
 <p>30後半</p></td>
 <td><p>身無分文被文日錫收留並跟著他一起打拼，有點粗枝大葉。</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><center>
@@ -126,6 +139,7 @@
 <td><center>
 <p>20後半</p></td>
 <td><p>擁有當鋪經營權的大洋派下層組織成員，</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><center></td>
@@ -134,8 +148,10 @@
 <td><center>
 <p>25左右</p></td>
 <td><p>在當鋪跑腿的老么，大龍的跟班。</p></td>
+<td></td>
 </tr>
 <tr class="odd">
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -151,6 +167,7 @@
 <col style="width: 1%" />
 <col style="width: 1%" />
 <col style="width: 6%" />
+<col style="width: 0%" />
 <col style="width: 1%" />
 </colgroup>
 <tbody>
@@ -159,6 +176,7 @@
 <td><p><strong>角色</strong></p></td>
 <td><p><strong>年齡</strong></p></td>
 <td><p><strong>介紹</strong></p></td>
+<td><p><strong>角色</strong></p></td>
 </tr>
 <tr class="even">
 <td><center>
@@ -168,6 +186,7 @@
 <td><center>
 <p>8</p></td>
 <td><p>泰山和仁惠的女兒，罹患白血病後骨髓移植是她的最後希望。偶然撿到父母年輕時的合照便一直收藏在鉛筆盒裡，趁仁惠不注意時拿出來偷看，在醫院第一次見到泰山時便認出是爸爸，也是泰山下定決心活下去的動力。</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><center>
@@ -177,6 +196,7 @@
 <td><center>
 <p>20後半</p></td>
 <td><p>與泰山一起生活的孤兒院後輩，汽車修理中心職員，相信泰山的清白，卻因為聽信警察會為泰山洗刷冤屈的說詞遭文日錫暗算殺害。</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><center>
@@ -186,8 +206,10 @@
 <td><center>
 <p>20初</p></td>
 <td><p>滿錫的戀人，職業是美甲師。</p></td>
+<td></td>
 </tr>
 <tr class="odd">
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -203,6 +225,7 @@
 <col style="width: 1%" />
 <col style="width: 1%" />
 <col style="width: 6%" />
+<col style="width: 0%" />
 <col style="width: 1%" />
 </colgroup>
 <tbody>
@@ -211,6 +234,7 @@
 <td><p><strong>角色</strong></p></td>
 <td><p><strong>年齡</strong></p></td>
 <td><p><strong>介紹</strong></p></td>
+<td><p><strong>香港配音</strong></p></td>
 </tr>
 <tr class="even">
 <td><center>
@@ -220,6 +244,7 @@
 <td><center>
 <p>40後半</p></td>
 <td><p>南部地檢刑事1部部長檢察官，在京的上司。</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><center>
@@ -229,6 +254,7 @@
 <td><center>
 <p>37</p></td>
 <td><p>在京檢察室的搜查官，暗戀在京，像長腿叔叔一樣在她身邊守護著。</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><center>
@@ -238,6 +264,7 @@
 <td><center>
 <p>27</p></td>
 <td><p>在京檢察室的搜查官，個性冒失，做事馬虎，經常被嘮叨。</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><center></td>
@@ -245,6 +272,7 @@
 <p>小英</p></td>
 <td></td>
 <td><p>在京辦公室的業務報告員</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -256,6 +284,7 @@
 <col style="width: 1%" />
 <col style="width: 1%" />
 <col style="width: 6%" />
+<col style="width: 0%" />
 <col style="width: 1%" />
 </colgroup>
 <tbody>
@@ -264,6 +293,7 @@
 <td><p><strong>角色</strong></p></td>
 <td><p><strong>年齡</strong></p></td>
 <td><p><strong>介紹</strong></p></td>
+<td><p><strong>香港配音</strong></p></td>
 </tr>
 <tr class="even">
 <td><center>
@@ -273,6 +303,7 @@
 <td><center>
 <p>40後半</p></td>
 <td><p>警察局重案1組組長，曾經被捲入越獄事件，因此對泰山的逃脫格外敏感。</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><center>
@@ -282,6 +313,7 @@
 <td><center>
 <p>35</p></td>
 <td><p>承佑的前輩，實績不如人，會將棘手之事都交給後輩去做的人。</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><center>
@@ -291,11 +323,13 @@
 <td><center>
 <p>20後半</p></td>
 <td><p>菜鳥刑警，非常聽從承佑的吩咐。</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><center></td>
 <td><center>
 <p>朴哲奎</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -306,8 +340,10 @@
 <p>林奇豪</p></td>
 <td></td>
 <td><p>承佑的父親，警察廳長。</p></td>
+<td></td>
 </tr>
 <tr class="odd">
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -323,6 +359,7 @@
 <col style="width: 1%" />
 <col style="width: 1%" />
 <col style="width: 6%" />
+<col style="width: 0%" />
 <col style="width: 1%" />
 </colgroup>
 <tbody>
@@ -331,6 +368,7 @@
 <td><p><strong>角色</strong></p></td>
 <td><p><strong>年齡</strong></p></td>
 <td><p><strong>介紹</strong></p></td>
+<td><p><strong>香港配音</strong></p></td>
 </tr>
 <tr class="even">
 <td><center>
@@ -340,6 +378,7 @@
 <td><center>
 <p>50初</p></td>
 <td><p>前清溪派老大，遭文日錫攻擊落敗，組織也隨之瓦解。過去逃亡時在與泰山扭打的過程中因泰山的遲疑而撿回一命，輪到泰山逃亡時出手相助，也意外找回失蹤多年的兒子。</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><center>
@@ -349,6 +388,7 @@
 <td><center>
 <p>25左右</p></td>
 <td><p>文日錫旗下酒店的陪酒小姐，個性單純顧受到文日錫青睞，年輕時因為吸毒差點喪命被在京救回，將在京視為恩人，為了報答所以決定潛入黑幫替在京收集文日錫與趙瑞希交易的證據，暗戀偶然認識的泰山而經常藉口去泰山管理的當舖，卻因為東窗事發遭文日錫滅口，泰山也因此揹黑鍋。</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><center></td>
@@ -357,6 +397,7 @@
 <td><center>
 <p>34</p></td>
 <td><p>承佑就讀醫大時的同學，秀珍的主治醫生。</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><center>
@@ -366,6 +407,7 @@
 <td><center>
 <p>21</p></td>
 <td><p>趙瑞希的兒子，患有自閉症。</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><center>
@@ -373,6 +415,7 @@
 <td></td>
 <td></td>
 <td><p>瘖啞人士，曾被泰山狹持當作人質，但實際上只是在家裡盥洗兼蹭飯。</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><center>
@@ -380,6 +423,7 @@
 <td></td>
 <td></td>
 <td><p>曾被泰山狹持當作人質，但實際上只是在家裡盥洗兼蹭飯。不知情的媽媽以為泰山會對年輕貌美的女兒下手性侵，泰山還命令穿上衣服而感覺到泰山不是真正的壞人，在泰山逃走好一段時間後才報警。</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><center>
@@ -387,6 +431,7 @@
 <td></td>
 <td></td>
 <td><p>在京的父親，與文日錫有過衝突被刺傷，二年後抑鬱而終。</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><center>
@@ -394,6 +439,7 @@
 <td></td>
 <td></td>
 <td><p>向張瑩慈購買數位相機的美術系大學生。</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>

@@ -38,11 +38,11 @@
       - 9月15日 - DMM POINT OPTION 停止服務。
       - 12月 - 開始[智慧型手機遊戲開發](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")。
   - 2012年
-      - 2月 - 發展太陽光發電事業。並開始向企業及公司行號提供[太陽能發電建設及設置](https://zh.wikipedia.org/wiki/太陽能發電 "wikilink")。
+      - 2月 - 發展太陽光發電事業。並開始向企業及公司行號提供[太陽能發電建設及設置](https://zh.wikipedia.org/wiki/太陽能發電 "wikilink")。
       - 2月17日 - 發行對應[iPhone及](https://zh.wikipedia.org/wiki/iPhone "wikilink")[iPad的電子書籍app](https://zh.wikipedia.org/wiki/iPad "wikilink")「DMM Books」。
       - 4月 - 手機版線上遊戲開始營運。
       - 5月 - 開始提供 DMM × Charirot 服務。
-      - 7月 - 2.5次元TV公開。
+      - 7月 - 2.5次元TV公開。
       - 8月 - PC版線上遊戲開始營運。\[1\]
       - 9月28日 - DMM.TV for Blu-ray Disc 停止服務。
   - 2013年
@@ -53,7 +53,7 @@
       - 10月 - 開始線上揪團聚餐服務 - 「肉會」。
       - 11月 - 開始於日本全國超商販賣DMM[現金卡](https://zh.wikipedia.org/wiki/現金卡 "wikilink") (現：DMM預付卡) 。
   - 2014年
-      - 3月 - 於PlayStation Vita中提供影片串流服務。
+      - 3月 - 於PlayStation Vita中提供影片串流服務。
       - 4月 - 開始舉辦首屆由[AV女優](../Page/AV女優.md "wikilink")、及成人影片的各式製作獎項的「DMM Adult Award」。
       - 8月 - 日本地區及數量限定販賣「DMM冰」 。
       - 11月 - 開始提供[VR影片](https://zh.wikipedia.org/wiki/VR "wikilink")[串流服務](https://zh.wikipedia.org/wiki/串流 "wikilink")。
@@ -67,7 +67,7 @@
       - 8月- WideWireWorks股份有限公司正式更名為DMM.futureworks並納入DMM集團之一。
       - 8月6日- DMM.make STORE 開始營運。
       - 9月- 3DCG[全息影像常設劇場](https://zh.wikipedia.org/wiki/全息影像 "wikilink")「DMM VR THEATER」於[横浜駅西口開幕](https://zh.wikipedia.org/wiki/橫濱站 "wikilink")。海外版DMM.make STORE開始營運。
-      - 10月 - 開始提供[PlayStation 4用影片串流服務](../Page/PlayStation_4.md "wikilink")。
+      - 10月 - 開始提供[PlayStation 4用影片串流服務](../Page/PlayStation_4.md "wikilink")。
   - 2016年
       - 1月 - 收購遊戲評論網站「hachima起稿」 (はちま起稿)。並於同年10月轉賣給INSITE股份有限公司。
       - 1月 - DMM P-TOWN 廣告業務由原TIS股份有限公司轉回DMM.com股份有限公司管理。
@@ -79,7 +79,7 @@
       - 9月 - 受到人權團體「Human Rights Now」的兒童保護法相關報告書內提出指摘，所有於影片製作時未滿18歲的藝人及女優、[寫真女星等所有演出的影像及發佈流通全面停止](https://zh.wikipedia.org/wiki/寫真 "wikilink")。
       - 10月 - 售出成人影像製作公司CA集團並獨立，DMM集團將不再製作、拍攝成人影像業務。
       - 12月6日 - 創辦人龜山敬司會長於公司內部進行視訊發表及對外發表新聞稿，將於2017年1月4日由[pixiv創辦人片桐孝憲接任社長](https://zh.wikipedia.org/wiki/pixiv "wikilink")。
-      - 12月 - 提供企業及個人用戶辦公室、家庭清掃服務DMM Okan(家事老媽)正式提供服務。
+      - 12月 - 提供企業及個人用戶辦公室、家庭清掃服務DMM Okan(家事老媽)正式提供服務。
       - 12月 - 成立一般[社團法人DMM學院](https://zh.wikipedia.org/wiki/社團法人 "wikilink")。
   - 2017年
       - 1月11日 - DMM.com取得IJET股份有限公司全部股權並納入集團內成為子公司。
@@ -88,7 +88,7 @@
       - 3月 - 集團總部由惠比壽搬遷至日本[東京港](../Page/東京港.md "wikilink")區[六本木](../Page/六本木.md "wikilink")「六本木Grand Tower」。
       - 4月 - DMM.com取得於[盧旺達共和國進行軟體開發及營運的HEHE](https://zh.wikipedia.org/wiki/盧旺達 "wikilink") LABS股份有限公司全部股權並納入集團內成為子公司。
       - 4月 - DMM.com出資AC GROUP Ltd.於盧旺達共和國提供公共交通非接觸式電子票證系統[智慧卡](../Page/智慧卡.md "wikilink")服務。
-      - 4月26日 - 於PlayStation 4上所提供的影片串流軟體正式對應[PlayStation VR](../Page/PlayStation_VR.md "wikilink")。
+      - 4月26日 - 於PlayStation 4上所提供的影片串流軟體正式對應[PlayStation VR](../Page/PlayStation_VR.md "wikilink")。
       - 5月 - DMM集團內各公司管理部門業務由原DMM.com Base股份有限公司交由DMM控股集團（現：DG控股集團）進行管理。
       - 6月 - DMM集團成立足球事業部，並取得有參與營運[比利時足球甲級聯賽](../Page/比利時足球甲級聯賽.md "wikilink")的STVV股份有限公司的部份股份，成為商業夥伴。
       - 7月 - 提供PC遊戲月付定額任玩的「DMM GAMES PREMIUM」上線提供服務。

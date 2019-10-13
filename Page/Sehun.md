@@ -16,13 +16,13 @@
 
 2018年2月7日與EXO成員[Chanyeol](../Page/Chanyeol.md "wikilink")一同出席於首爾清潭舉辦的Prada Comics快閃店酒會\[8\]。世勳3月23日與EXO成員Chanyeol，[Kai](../Page/Kai.md "wikilink")一同出席於香港中環舉辦的Major League Baseball旗艦店開幕活動。5月4日，世勳首檔固定綜藝節目《[犯人就是你](https://zh.wikipedia.org/wiki/犯人就是你 "wikilink")》於[Netflix](../Page/Netflix.md "wikilink")開始播出\[9\]。5月，世勳確定將出演樂天免稅店網絡劇《女神締造者》並擔任男主角之一\[10\]。9月7日，世勳主演的網絡電影《獨孤Rewind》上映，世勳在電影中飾演男主角姜赫\[11\]。同年9月，世勳與[陳偉霆](../Page/陳偉霆.md "wikilink")共同擔任義大利頂級男裝品牌Ermenegildo Zegna XXX系列服飾的品牌全球形象代言人\[12\]。
 
-2019年6月28日，[SM娛樂](../Page/SM娛樂.md "wikilink")宣佈世勳將與[燦烈組成EXO第二個小分隊](../Page/Chanyeol.md "wikilink")[EXO-SC](../Page/EXO-SC.md "wikilink")並將於7月22日發行首張迷你專輯《What a life》出道\[13\]。7月2日，世勳成為泰國海苔品牌《Tao Kae Noi（小老闆）》代言人。消息一公開，**\#TaokaenoiXSehun**便占據熱搜\[14\]。
+2019年6月28日，[SM娛樂](../Page/SM娛樂.md "wikilink")宣佈世勳將與[燦烈組成EXO第二個小分隊](../Page/Chanyeol.md "wikilink")[EXO-SC](../Page/EXO-SC.md "wikilink")並將於7月22日發行首張迷你專輯《What a life》出道\[13\]。7月2日，世勳成為泰國海苔品牌《Tao Kae Noi（小老闆）》代言人。消息一公開，**\#TaokaenoiXSehun**便占據熱搜\[14\]。9月23日，世勳於[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")[曼谷](../Page/曼谷.md "wikilink")舉辦《Tae Kae Noi x Sehun - First In Bangkok 2019》粉絲見面會\[15\]。10月1日，世勳擔任成員[Chen](../Page/CHEN_\(EXO\).md "wikilink")《Dear My Dear》專輯發售紀念Showcase主持人\[16\]。
 
 ## 國際評價
 
-2017年3月，世勳受邀出席於[巴黎](../Page/巴黎.md "wikilink")舉辦的「2017[路易威登](../Page/路易威登.md "wikilink")秋冬時裝秀」時，獲[VOGUE美國版評選為](../Page/时尚_\(杂志\).md "wikilink")“Best Dressed Man”，贏得國際媒體盛讚。\[15\]
+2017年3月，世勳受邀出席於[巴黎](../Page/巴黎.md "wikilink")舉辦的「2017[路易威登](../Page/路易威登.md "wikilink")秋冬時裝秀」時，獲[VOGUE美國版評選為](../Page/时尚_\(杂志\).md "wikilink")“Best Dressed Man”，贏得國際媒體盛讚。\[17\]
 
-2018年5月，世勳再次出席於巴黎舉辦的「2019[路易威登](../Page/路易威登.md "wikilink")早春秀」，並再次獲Vogue選為“Best Dressed Man”。\[16\]
+2018年5月，世勳再次出席於巴黎舉辦的「2019[路易威登](../Page/路易威登.md "wikilink")早春秀」，並再次獲Vogue選為“Best Dressed Man”。\[18\]
 
 ## 學歷
 
@@ -134,7 +134,7 @@
 |           |                  |    |    |      |
 | --------- | ---------------- | -- | -- | ---- |
 | 上映日期      | 電影名稱             | 角色 | 性質 | 備註   |
-| 2018年9月7日 | 《獨孤Rewind》\[17\] | 姜赫 | 主角 | 網絡電影 |
+| 2018年9月7日 | 《獨孤Rewind》\[19\] | 姜赫 | 主角 | 網絡電影 |
 | 待上映       | 《我愛喵星人》          | 梁渠 |    |      |
 
 ### 電視劇
@@ -179,26 +179,26 @@
 | 年份    | 期數               | 發行地區                                                                            | 雜志名稱                                                                                                | 備注                                                                                                    |
 | 2012年 | 1月刊              |                                                                                 | 韓國                                                                                                  | W Live                                                                                                |
 | 6月刊   |                  | Vogue Girl                                                                      | 與[Baekhyun](https://zh.wikipedia.org/wiki/Baekhyun "wikilink")、Kai                                  |                                                                                                       |
-| 2014年 | 2月刊              |                                                                                 | The Celebrity                                                                                       | \[18\]                                                                                                |
-| 3月刊   |                  | 與Baekhyun、[黃子韜](../Page/黃子韜.md "wikilink")、[湯唯](../Page/汤唯.md "wikilink")\[19\] |                                                                                                     |                                                                                                       |
+| 2014年 | 2月刊              |                                                                                 | The Celebrity                                                                                       | \[20\]                                                                                                |
+| 3月刊   |                  | 與Baekhyun、[黃子韜](../Page/黃子韜.md "wikilink")、[湯唯](../Page/汤唯.md "wikilink")\[21\] |                                                                                                     |                                                                                                       |
 | 8月刊   |                  | GRAZIA                                                                          | 與Kai                                                                                                |                                                                                                       |
-| 9月刊   |                  | 香港                                                                              | ELLE MEN                                                                                            | 與[Chanyeol](../Page/Chanyeol.md "wikilink")、[Lay](https://zh.wikipedia.org/wiki/Lay "wikilink")\[20\] |
+| 9月刊   |                  | 香港                                                                              | ELLE MEN                                                                                            | 與[Chanyeol](../Page/Chanyeol.md "wikilink")、[Lay](https://zh.wikipedia.org/wiki/Lay "wikilink")\[22\] |
 | 2015年 | 8月刊              |                                                                                 | 韓國                                                                                                  | Ceci                                                                                                  |
-| 12月刊  |                  | Vogue                                                                           | 與[Suho](../Page/Suho.md "wikilink")、Kai、[Chen](https://zh.wikipedia.org/wiki/Chen "wikilink")\[21\] |                                                                                                       |
-| 2016年 | 2月刊              |                                                                                 | Ceci                                                                                                | 與[Irene](https://zh.wikipedia.org/wiki/裴柱現 "wikilink")\[22\]                                          |
-| 11月刊  |                  | 日本                                                                              | Vivi                                                                                                | \[23\]                                                                                                |
+| 12月刊  |                  | Vogue                                                                           | 與[Suho](../Page/Suho.md "wikilink")、Kai、[Chen](https://zh.wikipedia.org/wiki/Chen "wikilink")\[23\] |                                                                                                       |
+| 2016年 | 2月刊              |                                                                                 | Ceci                                                                                                | 與[Irene](https://zh.wikipedia.org/wiki/裴柱現 "wikilink")\[24\]                                          |
+| 11月刊  |                  | 日本                                                                              | Vivi                                                                                                | \[25\]                                                                                                |
 | 2017年 | 1月刊              | 開年刊                                                                             | 韓國                                                                                                  | Vogue                                                                                                 |
-| 3月刊   |                  | 泰國                                                                              | L'Optimum                                                                                           | 3封面\[24\]                                                                                             |
-| 7月刊   |                  | 韓國                                                                              | Marie Claire                                                                                        | 封面\[25\]                                                                                              |
-| 7月刊   | 全球版              | 加拿大                                                                             | TOM Magazine                                                                                        | 封面\[26\]                                                                                              |
+| 3月刊   |                  | 泰國                                                                              | L'Optimum                                                                                           | 3封面\[26\]                                                                                             |
+| 7月刊   |                  | 韓國                                                                              | Marie Claire                                                                                        | 封面\[27\]                                                                                              |
+| 7月刊   | 全球版              | 加拿大                                                                             | TOM Magazine                                                                                        | 封面\[28\]                                                                                              |
 | 8月刊   | 創刊號              | 中國                                                                              | SuperELLE                                                                                           | 封面                                                                                                    |
 | 12月刊  | 壓軸刊              | 韓國                                                                              | 1st Look Vol.145                                                                                    | 封面                                                                                                    |
 | 2018年 | 1月刊              | 開年刊                                                                             | Leon                                                                                                | 封面                                                                                                    |
 | 8月刊   | 週年刊              | Vogue Korea                                                                     | 6封面                                                                                                 |                                                                                                       |
-| 9月刊   | 金九               | 內頁\[27\]                                                                        |                                                                                                     |                                                                                                       |
-| 10月刊  | 銀十               | Arena Homme+                                                                    | 2封面\[28\]                                                                                           |                                                                                                       |
+| 9月刊   | 金九               | 內頁\[29\]                                                                        |                                                                                                     |                                                                                                       |
+| 10月刊  | 銀十               | Arena Homme+                                                                    | 2封面\[30\]                                                                                           |                                                                                                       |
 | 2019年 | 3月刊              |                                                                                 | 中國                                                                                                  | Rouge Fashion Book Issue 4                                                                            |
-| 開季刊   | Madame Figaro中文版 | 封面\[29\]                                                                        |                                                                                                     |                                                                                                       |
+| 開季刊   | Madame Figaro中文版 | 封面\[31\]                                                                        |                                                                                                     |                                                                                                       |
 | 4月刊   |                  | 時尚COSMO                                                                         | 封面                                                                                                  |                                                                                                       |
 | 7月刊   |                  | 韓國                                                                              | W Korea                                                                                             | 與Chanyeol、封面                                                                                          |
 
@@ -219,8 +219,24 @@
 |       |                         |                                  |
 | ----- | ----------------------- | -------------------------------- |
 | 年份    | 產品名稱                    | 合作藝人                             |
-| 2018年 | Ermenegildo Zegna\[30\] | [陳偉霆](../Page/陳偉霆.md "wikilink") |
+| 2018年 | Ermenegildo Zegna\[32\] | [陳偉霆](../Page/陳偉霆.md "wikilink") |
 | 2019年 | Tao Kae Noi（小老闆）        |                                  |
+
+## 個人見面會
+
+  - Tae Kae Noi x Sehun - First In Bangkok 2019
+
+|            |                                                                                 |
+| ---------- | ------------------------------------------------------------------------------- |
+| 日期         | 地點                                                                              |
+| 2019年9月23日 | [泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")[曼谷](../Page/曼谷.md "wikilink") |
+
+## 主持活動
+
+|            |                            |                 |
+| ---------- | -------------------------- | --------------- |
+| 日期         | 活動名稱                       | 地點              |
+| 2019年10月1日 | 《Dear My Dear》發售紀念Showcase | Yes24 Live Hall |
 
 ## 獎項
 
@@ -272,7 +288,7 @@
 </tr>
 <tr class="odd">
 <td><p>2019年</p></td>
-<td><p>14th Annual Soompi Awards[31]</p></td>
+<td><p>14th Annual Soompi Awards[33]</p></td>
 <td><p>Best Idol Actor</p></td>
 <td><p>《獨孤Rewind》</p></td>
 <td></td>
@@ -292,9 +308,9 @@
 |                                                   |                           |
 | ------------------------------------------------- | ------------------------- |
 | 年份                                                | 獲獎項目                      |
-| 2016年                                             | K-Pop一百張最帥面孔 第5名\[32\]    |
+| 2016年                                             | K-Pop一百張最帥面孔 第5名\[34\]    |
 | 2017年                                             | TC Candler全球100張最帥面孔 第9名  |
-| 2017 Instagram Awards - 2017 Top 5 Accounts\[33\] |                           |
+| 2017 Instagram Awards - 2017 Top 5 Accounts\[35\] |                           |
 | 2018年                                             | TC Candler全球100張最帥面孔 第15名 |
 
 ## 參考資料
@@ -338,10 +354,10 @@
 14.
 
 15.
+
 16.
 
 17.
-
 18.
 
 19.
@@ -373,3 +389,7 @@
 32.
 
 33.
+
+34.
+
+35.
