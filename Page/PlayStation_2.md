@@ -56,9 +56,9 @@ PlayStation 2銷售時期的競爭對手：
 
 PS2的核心，中央處理器（CPU）是採用Emotion Engine（EE），EE為索尼與東芝合作開發的處理器，它是家用機領域首次采用的將GPU記憶體直接植入繪圖芯片的設計，EE整合了CPU核心、2組向量處理單元（VPU）、1組圖形處理單元（IPU），以及記憶體控制器、I/O介面、與圖形合成器（Graphics Synthesizer, GS）溝通的介面，擁有16KB暫存記憶體（Scratchpad memory），8KB資料快取，16KB指令快取。
 
-EE採用128位架構，相比個人電腦流行的16、32或64位架構，EE的設計領先許多，目的是加強CPU的尋址能力，提高同時處理大量數據的能力，以應付同時間的複雜畫面計算。
+EE採用擁有128位元MMI多媒體浮點指令的32位元MIPS III 架構，目的是加強CPU的多媒體效能，提高同時處理大量數據的能力，以應付同時間的複雜畫面計算， 不過由於PS2DEV的限制MMI只能完全支援FP8 (微精度）到 FP16（半精度）浮點運算導致浮點量雖高可卻無法與主流x86所善長的FP32 single precision 通用單精度運算抗衡。
 
-GS為16管線的GPU，並無特殊之處。但是記憶體介面設計非常前衛。記憶體匯流排被分成3個系統，包括1024bit讀取、1024bit寫入、512bit讀寫雙向，即總頻寬高達2560 bit，嵌入於GPU的DRAM可以提供48GB/s的資料傳輸頻寬。當時2000年的最強的[顯示卡](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")[NVIDIA](https://zh.wikipedia.org/wiki/NVIDIA "wikilink") GeForce2 Ultra記憶體頻寬只有7.36GB/s。
+GS為16管線的GPU，並無特殊之處。但是記憶體介面設計相對前衛。記憶體匯流排為embedded EDRAM被分成3個系統，包括1024bit讀取、1024bit寫入、512bit讀寫雙向，但是實際上三者不能堆疊，嵌入於GPU的DRAM可以提供最高9.6GB/s(512bit x 150Mhz)的雙向資料傳輸頻寬。當時2000年的最強的[顯示卡](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")[NVIDIA](https://zh.wikipedia.org/wiki/NVIDIA "wikilink") GeForce2 Ultra記憶體頻寬只有7.36GB/s。
 
 PS2的後繼機種 PlayStation 3（PS3）的GPU記憶體頻寬只有22.4 GB/s，讓PS3對PS2軟體的相容性出了很大的問題。早期的解決方法为在PS3主機內加入EE和GS，硬性将PS2的核心零件安置主机，這樣PS3便能完全相容PS2遊戲。考慮到成本和PS2銷售（PS2在PS3推出後一段長時間仍銷售，在2007年更推出全新的PS2 SCPH-90000系列），因此索尼之後推出的PS3取消了EE，改以軟體模擬的方式執行PS2遊戲，但這會造成部份遊戲無法順利於PS3上運作，而且由於使用者無法得知哪一款PS2遊戲能相容以軟體模擬的PS3，最後索尼在這之後推出的PS3便完全不相容任何PS2的遊戲。
 
@@ -75,9 +75,10 @@ PS2的後繼機種 PlayStation 3（PS3）的GPU記憶體頻寬只有22.4 GB/s，
       - [主記憶體](https://zh.wikipedia.org/wiki/主記憶體 "wikilink")：32MB Direct Rambus DRAM
       - 主記憶體頻寬：3.2GB/s
       - [浮點運算效能](https://zh.wikipedia.org/wiki/FLOPS "wikilink")：6.2GFLOPS
-      - 整數運算單元：64-bit
-      - 多媒體擴充指令：128-bit \* 107個
-      - 通用暫存器：128-bit \* 32個
+      - 整數運算單元：32-bit
+      - 多媒體擴充指令：128-bit \* 107個 MMI
+      - 通用暫存器：32-bit \* 32個
+      - 浮點暫存器 : 128-bit \* 32個
       - TLB (Translation-Lookaside Buffer): 48 double entries
       - 直接記憶體存取（DMA）: 10 channels
       - 輔助處理器1: FPU
@@ -93,8 +94,8 @@ PS2的後繼機種 PlayStation 3（PS3）的GPU記憶體頻寬只有22.4 GB/s，
       - Graphics Synthesizer
       - GPU運作時脈：147.456 MHz
       - [VRAM](https://zh.wikipedia.org/wiki/VRAM "wikilink")：混合搭載4MB DRAM
-      - [DRAM带宽](https://zh.wikipedia.org/wiki/DRAM "wikilink")：48GB／秒
-      - DRAM带宽：2560 bit
+      - [DRAM带宽](https://zh.wikipedia.org/wiki/DRAM "wikilink")：19.2GB /秒 or 9.6GB／秒
+      - DRAM带宽：1024 bit read only / 512 bit read & write
       - 像素结构：64位（24位RGB，8位alpha通道，32位z缓冲）
       - 像素填充率：2.4G像素／秒
   - **音效**

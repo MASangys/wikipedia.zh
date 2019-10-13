@@ -1,4 +1,4 @@
-**BIOS**（，中文：**基本輸入輸出系統**，亦稱為ROM BIOS、System BIOS、PC BIOS）是在通電啟動階段執行硬體初始化，以及為[作業系統和程式提供運行時服務的](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[韌體](../Page/韌體.md "wikilink")。BIOS最早隨著[CP/M作業系統的推出在](https://zh.wikipedia.org/wiki/CP/M "wikilink")1975年出現。BIOS預安裝在[個人電腦的](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")[主機板上](https://zh.wikipedia.org/wiki/主機板 "wikilink")，是[个人电脑](../Page/个人电脑.md "wikilink")启动时加载的第一个软件。
+**BIOS**是**B**asic **I**nput/**O**utput **S**ystem的縮寫，中文：**基本輸入輸出系統**，亦稱為ROM BIOS、System BIOS、PC BIOS）是在通電啟動階段執行硬體初始化，以及為[作業系統和程式提供運行時服務的](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[韌體](../Page/韌體.md "wikilink")。BIOS最早隨著[CP/M作業系統的推出在](https://zh.wikipedia.org/wiki/CP/M "wikilink")1975年出現。BIOS預安裝在[個人電腦的](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")[主機板上](https://zh.wikipedia.org/wiki/主機板 "wikilink")，是[个人电脑](../Page/个人电脑.md "wikilink")启动时加载的第一个软件。
 
 現在，BIOS用於初始化和測試系統的硬體元件，以及從大容量儲存裝置（如硬碟）載入[啟動程式](../Page/啟動程式.md "wikilink")，並由[啟動程式](../Page/啟動程式.md "wikilink")載入作業系統。BIOS還為[DOS](../Page/DOS.md "wikilink")作業系統提供鍵盤、顯示及其他[I/O裝置的](https://zh.wikipedia.org/wiki/I/O "wikilink")[硬體抽象層](../Page/硬體抽象層.md "wikilink")。許多較新的作業系統在啟動後不再通過BIOS存取硬體。
 

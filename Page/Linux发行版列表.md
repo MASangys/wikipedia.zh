@@ -164,7 +164,7 @@ Slackware走了一條同其他的發行版本（Red Hat、Debian、Gentoo、SuSE
 
 ### 其它平台
 
-iPodLinux基于修改版[uClinux内核](https://zh.wikipedia.org/wiki/uClinux "wikilink")，并编写有所谓的“podzilla”简单用户界面。目前仅支持第四代之前的[iPod](https://zh.wikipedia.org/wiki/iPod "wikilink")。
+[iPodLinux](http://www.ipodlinux.org)基于修改版[uClinux内核](https://zh.wikipedia.org/wiki/uClinux "wikilink")，并编写有所谓的“podzilla”简单用户界面。目前仅支持第四代之前的[iPod](https://zh.wikipedia.org/wiki/iPod "wikilink")。
 
 ## 选择合适的Linux发行版
 

@@ -1,12 +1,12 @@
-《**ONE PIECE**》（，中文譯名：海賊王、航海王），是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[尾田榮一郎創作的一部](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")[少年漫畫作品](https://zh.wikipedia.org/wiki/少年漫畫 "wikilink")，至今還在連載。該作品以虛構的「大海賊時代」為故事舞台，描述一名少年**[蒙其·D·魯夫](../Page/蒙其·D·魯夫.md "wikilink")**想要得到「****」和成為「**海賊王**」而出海向「偉大的航道」航行的冒險[故事](../Page/故事.md "wikilink")。
+《**ONE PIECE**》（，中文譯名：海賊王、航海王），是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[尾田榮一郎創作的一部](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")[少年漫畫作品](https://zh.wikipedia.org/wiki/少年漫畫 "wikilink")，至今還在連載。該作品以虛構的「大海賊時代」為故事舞台，描述一名少年**[蒙其·D·魯夫](../Page/蒙其·D·魯夫.md "wikilink")**想要得到「****」和成為「**海賊王**」而出海向「偉大的航道」航行的海洋冒險[故事](../Page/故事.md "wikilink")。
 
-該作於[1997年](../Page/1997年.md "wikilink")在日本[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》（[集英社](../Page/集英社.md "wikilink")）定期連載，之後被改編為各種系列的[衍生作品](https://zh.wikipedia.org/wiki/ONE_PIECE#衍生作品 "wikilink")，主要包括同名的[電視動畫](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")、[電影](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\)#電影 "wikilink")、[小說和](https://zh.wikipedia.org/wiki/ONE_PIECE#輕小說 "wikilink")[電子遊戲等周邊](https://zh.wikipedia.org/wiki/ONE_PIECE#電子遊戲 "wikilink")[媒體產品](https://zh.wikipedia.org/wiki/媒體 "wikilink")。
+該作於[1997年](../Page/1997年.md "wikilink")在日本[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》（[集英社](../Page/集英社.md "wikilink")）定期連載，之後被改編為各種系列的[衍生作品](https://zh.wikipedia.org/wiki/ONE_PIECE#衍生作品 "wikilink")，主要包括同名的[電視動畫](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")、[電影](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\)#電影 "wikilink")、[小說和](https://zh.wikipedia.org/wiki/ONE_PIECE#輕小說 "wikilink")[電子遊戲等周邊](https://zh.wikipedia.org/wiki/ONE_PIECE#電子遊戲 "wikilink")[媒體產品](https://zh.wikipedia.org/wiki/傳播媒體 "wikilink")。
 
-## 概述
+## 概要
 
 在日本漫畫雜誌《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》中長期佔據人氣榜的第一名；單行本在日本以外，亦已有30多個[翻譯版本發行](https://zh.wikipedia.org/wiki/翻譯 "wikilink")。2012年5月10日《ONE PIECE》成為日本[Oricon](../Page/Oricon.md "wikilink")排行榜從2008年4月開始統計漫畫銷量以來，在該榜中首個總銷量破億冊的漫畫\[1\]。
 
-在2015年6月15日，[尾田榮一郎以本作品發行量打破世界紀錄](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")，獲得獲頒「單一作者創作發行量最多的漫畫」的[金氏世界紀錄](https://zh.wikipedia.org/wiki/金氏世界紀錄 "wikilink")\[2\]，尾田榮一郎獲得這獎項因此還畫了張魯夫拿著金氏世界紀錄的證書。
+2015年6月15日，[尾田榮一郎以本作品發行量打破世界紀錄](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")，獲得獲頒「單一作者創作發行量最多的漫畫」的[金氏世界紀錄](https://zh.wikipedia.org/wiki/金氏世界紀錄 "wikilink")\[2\]，尾田榮一郎獲得這獎項因此還畫了張魯夫拿著金氏世界紀錄的證書。
 
 至2019年3月止，目前全世界累計總發行量已經突破**4億5000萬冊**。
 
@@ -21,7 +21,7 @@
 為《ONE PIECE》的第一部故事。收錄卷數為第1～61卷；收錄話數為第1～597話。
 
   -
-    **[蒙其·D·魯夫](../Page/蒙其·D·魯夫.md "wikilink")**童年時受到海賊[「紅髮」傑克的啟蒙](https://zh.wikipedia.org/wiki/「紅髮」傑克 "wikilink")，自小就立志要成為「**海賊王**」。17歲時他出海之後，接續遇見了海賊獵人**[羅羅亞·索隆](../Page/羅羅亞·索隆.md "wikilink")**、航海士**[娜美](../Page/娜美.md "wikilink")**、狙擊手**[騙人布](../Page/騙人布.md "wikilink")**、廚師**[賓什莫克·香吉士](https://zh.wikipedia.org/wiki/賓什莫克·香吉士 "wikilink")**等人並結為夥伴。他們組成了草帽海賊團準備進入偉大的航道來到了羅格鎮。離開羅格鎮後，一行人在偉大航道的入口「顛倒山」之前以各自的夢想立誓，跨越顛倒山之後進入了偉大航道，展開下一段冒險。
+    **[蒙其·D·魯夫](../Page/蒙其·D·魯夫.md "wikilink")**童年時受到海賊[「紅髮」傑克的啟蒙](https://zh.wikipedia.org/wiki/「紅髮」傑克 "wikilink")，自小就立志要成為「**海賊王**」。17歲時他出海之後，接續遇見了海賊獵人**[羅羅亞·索隆](../Page/羅羅亞·索隆.md "wikilink")**、航海士**[娜美](../Page/娜美.md "wikilink")**、狙擊手**[騙人布](../Page/騙人布.md "wikilink")**、廚師**[賓什莫克·香吉士](https://zh.wikipedia.org/wiki/賓什莫克·香吉士 "wikilink")**等人並結為夥伴。他們組成了草帽海賊團準備進入偉大的航道來到了羅格鎮。離開羅格鎮後，一行人在偉大航道的入口「顛倒山」之前以各自的夢想立誓，跨越顛倒山之後進入偉大航道，展開下一段冒險。
   -
     草帽海賊團一行人來到偉大航道、在威士忌山峰遇到臥底在秘密犯罪組織[巴洛克華克](../Page/巴洛克華克.md "wikilink")的[阿拉巴斯坦王國](../Page/阿拉巴斯坦王國.md "wikilink")公主[納菲魯塔莉·薇薇](../Page/納菲魯塔莉·薇薇.md "wikilink")，從公主口中得知阿拉巴斯坦正處於水深火熱之中，以及[王下七武海](../Page/王下七武海.md "wikilink")[『Mr.0』克洛克達爾的陰謀後](../Page/克洛克達爾.md "wikilink")，魯夫決定幫助這位公主。在途中前往島嶼「小花園」與[巴洛克華克](../Page/巴洛克華克.md "wikilink")的部分成員開戰，並在旅途中為了治好在小花園生病的娜美去了[磁鼓島並增添一名船醫夥伴](https://zh.wikipedia.org/wiki/ONE_PIECE角色列表#磁鼓島「櫻花王國」 "wikilink")[多尼多尼·喬巴](../Page/多尼多尼·喬巴.md "wikilink")。
   -
@@ -76,9 +76,9 @@
 
 以船長[蒙其·D·魯夫](../Page/蒙其·D·魯夫.md "wikilink")為首和他的伙伴組成[草帽海賊團](https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#草帽海賊團 "wikilink")，但他們並不會對一般民眾進行掠奪（主要是從所有者不明或同為海賊的團隊中掠奪）。它們主要到每座島上遇到問題與事件，在擊敗敵人後，繼續前往下一座島。敵人大多是以海賊為主，但有得海賊會與世界政府勾結或直接隸屬於他們，也因此會與世界政府（主要是海軍）和國家的王的公權力進行挑戰並鬥爭。
 
-## 短期集中刊頭連載
+## 刊頭連載
 
-是在航海王各話開頭刊頭（扉頁）上連載的單頁漫畫，常用來交待一些人物的簡單後續發展。
+**短期集中刊頭連載**（），是在《ONE PIECE》各話開頭刊頭（扉頁）上連載的單頁漫畫，常用來交待一些人物的簡單後續發展。
 
 <table>
 <thead>
@@ -255,7 +255,17 @@
 </tbody>
 </table>
 
-## 相關番外作品
+## 漫畫專欄
+
+  -
+    從第4卷開始的專欄，是作者尾田在單行本上和讀者的詢問專欄。尾田會從讀者的來信中挑出一些問題來回答，有趣味性的、也有設定方面的，每一卷尾田都會在這裡對海賊王做一些解密，以及用幽默的口吻回答讀者的問題。另外，部份角色的相關資訊如生日，也會以SBS的讀者回信為基礎。SBS通常會在單行本的單話之間出現，果是下一話為跨頁的刊頭彩頁，通常不會有SBS。
+
+<!-- end list -->
+
+  -
+    從第5卷開始的專欄，是在單行本末尾會放讀者們投稿的插圖專欄。每卷會挑出最優秀作品的讀者，並贈送簽名板。因投稿作品過多，從第73卷開始，於官網「ONE PIECE.com」公開投稿作品。
+
+## 番外作品
 
   -
     原作為[尾田榮一郎](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")，在總集篇中刊載的番外篇（數頁的短篇）。
@@ -783,7 +793,7 @@
 
 \!rowspan="2"|卷數 \!colspan="2"| [集英社](../Page/集英社.md "wikilink") \!colspan="2"| [東立出版社](../Page/東立出版社.md "wikilink") |- \!發售日期\!\!ISBN\!\!發售日期\!\!EAN / ISBN |- \! 1 | 2017年7月7日 | ISBN 978-4-08-102232-8 | 2018年2月12日
 2019年1月2日 | EAN 471094555404-4<small>（首刷附錄版）</small>
-ISBN 978-986-486-993-0 |- \! 2 | 2017年8月4日 | ISBN 978-4-08-102233-5 | 2018年6月15日 | ISBN 978-986-486-994-7 |- \! 3 | 2017年9月1日 | ISBN 978-4-08-102234-2 | 2018年8月14日 | ISBN 978-986-486-995-4 |- \! 4 | 2018年10月19日 | ISBN 978-4-08-102273-1 | 2019年8月18日 | ISBN 978-9-57-262603-0 |- \! 5 | 2019年1月25日 | ISBN 978-4-08-102274-8 | | |- \! 6 | 2019年6月17日 | ISBN 978-4-08-102275-5 | | |- \! 7 | 2019年8月9日 | ISBN 978-4-08-102294-6 | | |}
+ISBN 978-986-486-993-0 |- \! 2 | 2017年8月4日 | ISBN 978-4-08-102233-5 | 2018年6月15日 | ISBN 978-986-486-994-7 |- \! 3 | 2017年9月1日 | ISBN 978-4-08-102234-2 | 2018年8月14日 | ISBN 978-986-486-995-4 |- \! 4 | 2018年10月19日 | ISBN 978-4-08-102273-1 | 2019年9月26日 | ISBN 978-957-26-2603-0 |- \! 5 | 2019年1月25日 | ISBN 978-4-08-102274-8 | | |- \! 6 | 2019年6月17日 | ISBN 978-4-08-102275-5 | | |- \! 7 | 2019年8月9日 | ISBN 978-4-08-102294-6 | | |}
 
 ### 電影漫畫
 
@@ -2277,10 +2287,6 @@ ONE PIECE 盛大對戰! 2</p></td>
   - 第89冊日文版的封面摺頁，嘲諷[横井軍曹](../Page/橫井庄一.md "wikilink")，出現爭議\[49\]。台灣中文版因此刪去封面摺頁，摺頁為空白。
 
 ## 參考資料
-
-### 備註
-
-### 來源
 
 ## 外部連結
 

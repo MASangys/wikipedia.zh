@@ -14,7 +14,7 @@ Apple TV在2006年9月12日于[加利福尼亚州](../Page/加利福尼亚州.md
 
 第一代Apple TV于2007年3月21日开始付运。\[6\]苹果公司于2007年5月31日发行了160GB的版本，并于2009年9月14日停止了40GB版本的供应。\[7\]
 
-在2008年1月15日的Macworld会议与博览会上，乔布斯宣布了一次针对Apple TV的免費升级。該升级被称作“Take Two”。該次升級允许Apple TV直接从iTunes上租赁和购买内容，并且可以从[MobileMe](../Page/MobileMe.md "wikilink")（現在已被[ICloud](../Page/ICloud.md "wikilink")取代）和[Flickr](../Page/Flickr.md "wikilink")下载播客和图片。\[8\]，变成一台不需要用Mac OS X或Windows上的iTunes将内容同步上去也能使用的独立设备。乔布斯说：“Apple TV被设计成了iTunes和电脑的配件。这并不是人们想要的。我们了解到了人们想要的是电影、电影、电影。”\[9\]第二代的Apple TV亦在2010年9月1日的苹果新闻发布会上亮相。\[10\]\[11\]\[12\]
+在2008年1月15日的Macworld会议与博览会上，乔布斯宣布了一次针对Apple TV的免費升级。該升级被称作“Take Two”。該次升級允许Apple TV直接从iTunes上租赁和购买内容，并且可以从[MobileMe](../Page/MobileMe.md "wikilink")（現在已被[ICloud](../Page/ICloud.md "wikilink")取代）和[Flickr](../Page/Flickr.md "wikilink")下载播客和图片。\[8\]变成一台不需要用Mac OS X或Windows上的iTunes将内容同步上去也能使用的独立设备。乔布斯说：“Apple TV被设计成了iTunes和电脑的配件。这并不是人们想要的。我们了解到了人们想要的是电影、电影、电影。”\[9\]第二代的Apple TV亦在2010年9月1日的苹果新闻发布会上亮相。\[10\]\[11\]\[12\]
 
 第四代的Apple TV在2015年9月9日與[iPad Pro與iPhone](https://zh.wikipedia.org/wiki/iPad_Pro "wikilink") 6S一同發表。中央處理器從第三代的[Apple A5處理器升級為](../Page/Apple_A5.md "wikilink")[Apple A8遙控器多了音量控制和Siri](../Page/Apple_A8.md "wikilink")，遙控器上半部改由觸控操作。
 

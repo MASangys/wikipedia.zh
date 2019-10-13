@@ -50,7 +50,7 @@ SUSE Linux也提供了一個企業伺服器版本，名為SUSE Linux Enterprise 
 
   - [openSUSE](https://zh.wikipedia.org/wiki/openSUSE "wikilink")
   - [Novell Desktop](https://zh.wikipedia.org/wiki/Novell_Desktop "wikilink")
-  - [Linux套件列表](https://zh.wikipedia.org/wiki/Linux套件列表 "wikilink")
+  - [Linux发行版列表](../Page/Linux发行版列表.md "wikilink")
 
 {{-}}
 

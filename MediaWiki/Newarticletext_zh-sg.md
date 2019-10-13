@@ -14,7 +14,7 @@
 
 -----
 
-**[维基百科不是一个广告服务商](https://zh.wikipedia.org/wiki/WP:NOT "wikilink")。**有关您自己，您的朋友，您的公司或产品的宣传稿件，或者创建的条目中含有部分推销或宣传活动的内容，将会根据我们的[删除守则而被删除](https://zh.wikipedia.org/wiki/Wikipedia:删除守则 "wikilink")。如果您之前曾经创建过相同的页面，它可能因为某些原因已经被删除，请参看**\[ 删除日志\]**和我们的[删除方针](https://zh.wikipedia.org/wiki/Wikipedia:删除方针 "wikilink")。 {{\#ifeq:||
+**[维基百科不是广告服务商](https://zh.wikipedia.org/wiki/WP:NOT "wikilink")。**有关您自己，您的朋友，您的公司或产品的宣传稿件，或者创建的条目中含有部分推销或宣传活动的内容，将会根据我们的[删除方针而被删除](https://zh.wikipedia.org/wiki/Wikipedia:删除方针 "wikilink")。如果您之前曾经创建过相同的页面，它可能因为某些原因已经被删除，请参看**\[ 删除日志\]**和我们的[删除方针](https://zh.wikipedia.org/wiki/Wikipedia:删除方针 "wikilink")。 {{\#ifeq:||
 
 -----
 

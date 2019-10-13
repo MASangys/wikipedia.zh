@@ -36,7 +36,7 @@ PPE 可以作为資源管理使用，SPE 可以作为数据处理器使用。PPE
 
 #### PPE
 
-Power Processor Element（簡稱為PPE）：PPE 包含一個64[位元](../Page/位元.md "wikilink")雙[執行緒PowerPC結構的](https://zh.wikipedia.org/wiki/執行緒 "wikilink")[RISC內核](https://zh.wikipedia.org/wiki/RISC "wikilink")，並支援[PowerPC](../Page/PowerPC.md "wikilink")的虛擬記憶體子系統。它具有32[KB的](https://zh.wikipedia.org/wiki/KB "wikilink") L1 指令[快取](https://zh.wikipedia.org/wiki/CPU快取 "wikilink")，以及一個32 KB 資料[快取](https://zh.wikipedia.org/wiki/CPU快取 "wikilink")，以及512 KB L2的共用[快取](https://zh.wikipedia.org/wiki/快取 "wikilink")。Cell中的PPE包含VMX指令集（Vector Multimedia eXtensions：[AltiVec技術](https://zh.wikipedia.org/wiki/AltiVec "wikilink")）。\[22\]
+Power Processor Element（簡稱為PPE）：PPE 包含一個64[位元](../Page/位元.md "wikilink")雙[執行緒PowerPC結構的](https://zh.wikipedia.org/wiki/執行緒 "wikilink")[RISC內核](https://zh.wikipedia.org/wiki/RISC "wikilink")，並支援[PowerPC](../Page/PowerPC.md "wikilink")的虛擬記憶體子系統。它具有32[KB的](https://zh.wikipedia.org/wiki/KB "wikilink") L1 指令[快取](https://zh.wikipedia.org/wiki/CPU快取 "wikilink")，以及一個32 KB 資料[快取](https://zh.wikipedia.org/wiki/CPU快取 "wikilink")，以及512 KB L2的共用[快取](https://zh.wikipedia.org/wiki/快取 "wikilink")。Cell中的PPE包含VMX指令集（Vector Multimedia eXtensions：[AltiVec](../Page/AltiVec.md "wikilink")技術）。\[22\]
 
 #### SPE
 

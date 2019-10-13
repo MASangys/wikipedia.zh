@@ -1,6 +1,6 @@
-**國家籃球協會**（，[缩写](https://zh.wikipedia.org/wiki/缩写 "wikilink")：）是[北美的男子](https://zh.wikipedia.org/wiki/北美 "wikilink")[職業](https://zh.wikipedia.org/wiki/職業運動聯盟 "wikilink")[籃球組織](https://zh.wikipedia.org/wiki/籃球 "wikilink")，拥有30支球队，分属两个分區（Conference）：[东部联盟和](https://zh.wikipedia.org/wiki/东部联盟_\(NBA\) "wikilink")[西部联盟](https://zh.wikipedia.org/wiki/西部联盟_\(NBA\) "wikilink")；而每个分區各由三个赛区（Division）组成，每个赛区有五支球队。所屬球隊中除了一支来自[加拿大](../Page/加拿大.md "wikilink")的[多伦多速龍之外](https://zh.wikipedia.org/wiki/多伦多速龍 "wikilink")，其餘均位於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")。其赛事**美国职业篮球联赛**（或称**美国篮球联赛**，简称**美國職籃**）也被直接称为**NBA**。
+**國家籃球協會**（，[缩写](https://zh.wikipedia.org/wiki/缩写 "wikilink")：）是[北美的男子](https://zh.wikipedia.org/wiki/北美 "wikilink")[職業](https://zh.wikipedia.org/wiki/職業運動聯盟 "wikilink")[籃球組織](https://zh.wikipedia.org/wiki/籃球 "wikilink")，拥有30支球队，分属两个联盟（Conference）：[东部联盟和](https://zh.wikipedia.org/wiki/东部联盟_\(NBA\) "wikilink")[西部联盟](https://zh.wikipedia.org/wiki/西部联盟_\(NBA\) "wikilink")；而每个联盟各由三个赛区（Division）组成，每个赛区有五支球队。所屬球隊中除了一支来自[加拿大](../Page/加拿大.md "wikilink")的[多伦多速龍之外](https://zh.wikipedia.org/wiki/多伦多速龍 "wikilink")，其餘均位於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")。其赛事**美国职业篮球联赛**（或称**美国篮球联赛**，简称**美國職籃**）也被直接称为**NBA**。
 
-NBA正式赛季於每年10月中开始，分为[常規賽](https://zh.wikipedia.org/wiki/NBA常規賽 "wikilink")、[季後賽兩大部分](../Page/NBA季后赛.md "wikilink")。常规赛为循环赛制，每支球队都要完成82场比赛；常规赛到次年的4月结束，每个联盟的前八名将有资格进入接下来进行的季后赛。季后赛采用七戰四勝赛制，共分四轮；季后赛的最后一轮也称为[总决赛](https://zh.wikipedia.org/wiki/NBA总决赛 "wikilink")，由两个联盟的冠军争夺NBA的最高荣誉──[总冠军](https://zh.wikipedia.org/wiki/NBA总冠军 "wikilink")。整個NBA賽季當中，常規賽完結之後分区冠军不設獎盃，只給予得獎球隊錦旗一個，但联盟冠军及总冠军均設有獎盃加錦旗。
+NBA正式赛季於每年10月中开始，分为[常規賽](https://zh.wikipedia.org/wiki/NBA常規賽 "wikilink")、[季後賽兩大部分](../Page/NBA季后赛.md "wikilink")。常规赛为循环赛制，每支球队都要完成82场比赛；常规赛到次年的4月结束，每个联盟的前八名将有资格进入接下来进行的季后赛。季后赛采用七戰四勝赛制，共分四轮；季后赛的最后一轮也称为[总决赛](https://zh.wikipedia.org/wiki/NBA总决赛 "wikilink")，由两个联盟的冠军争夺NBA的最高荣誉──[总冠军](https://zh.wikipedia.org/wiki/NBA总冠军 "wikilink")。整個NBA賽季當中，常規賽完結之後联盟冠军不設獎盃，只給予得獎球隊錦旗一個，但联盟冠军及总冠军均設有獎盃加錦旗。
 
 NBA前身是1946年成立的**全美籃球協會**（簡稱**BAA**）\[1\]，1949年改為現名\[2\]。协会总部位于[纽约市](https://zh.wikipedia.org/wiki/纽约市 "wikilink")[第五大道](../Page/第五大道.md "wikilink")645号的奥林匹克塔大厦，现任总裁为[亞當·萧華](https://zh.wikipedia.org/wiki/亞當·萧華 "wikilink")。NBA是[北美四大職業運動之一](https://zh.wikipedia.org/wiki/北美四大職業運動 "wikilink")，又因美國在世界籃球界的領導地位，而被視為全世界水準最高的職業籃球賽事。
 
@@ -118,6 +118,8 @@ ABA的一些规则后来也被NBA接纳和采用： [1979-80赛季NBA首次设�
 
 **2018年8月24日**，NBA官方向各隊球團與球團負責人與球團總經理與球團現任教練團提出一份備忘錄，上面提到聯盟將針對3項規則做出修改，進攻方在搶到進攻籃板後的進攻時間從原本的24秒縮短為14秒、簡化快攻蓄意犯規的規則定義、擴大對惡意行為的定義（包括球員惡意語言謾罵），NBA賽事委員會將會在9月下旬召開會議以針對這3項規則進行投票，只要通過三分之二的門檻，新規則就將於新賽季正式施行，並且先[NBA G聯盟](../Page/NBA_G聯盟.md "wikilink")（NBA G League）測試。[NBA球員工會也對NBA聯盟聯盟這三項規則修改提議表示尊重與關切](https://zh.wikipedia.org/wiki/NBA球员工会 "wikilink")。
 
+**2019年10月2日**，香港球員政言以年薪2億美元正式加盟洛杉磯湖人隊，與球星勒邦占士並肩作戰。
+
 ## 球队
 
 <div style="position: relative;font-size:100%">
@@ -130,12 +132,12 @@ NBA由成立之初的11隊發展到現在的30隊，當中經歷了許多新球�
 
 現時NBA不是以自己身處城市名稱作為球隊名，而是以州份名稱作為球隊名的球隊，為[明尼蘇達灰狼](https://zh.wikipedia.org/wiki/明尼蘇達灰狼 "wikilink")、[猶他爵士](https://zh.wikipedia.org/wiki/猶他爵士 "wikilink")、[印第安納溜馬和](https://zh.wikipedia.org/wiki/印第安納溜馬 "wikilink")[金州勇士](../Page/金州勇士.md "wikilink")（使用了[加利福尼亞州的別名](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")**金州**）。其中洛杉磯、紐約兩城市各擁有兩隻球隊。
 
-NBA目前採用的是[2004-05賽季劃分的區域](https://zh.wikipedia.org/wiki/2004-05_NBA賽季 "wikilink")，分為東西2個聯盟，每個聯盟各有3個賽區，每個賽區各有5隊。
+NBA目前採用的是[2004-05賽季劃分的區域](https://zh.wikipedia.org/wiki/2004-05_NBA賽季 "wikilink")，分為東西2個聯盟，每個聯盟各有3個赛区，每個赛区各有5隊。
 
 <table>
 <thead>
 <tr class="header">
-<th><p>賽區</p></th>
+<th><p>赛区</p></th>
 <th><p>球隊</p></th>
 <th><p>所在城市(區域)</p></th>
 <th><p>球館(主場)</p></th>
@@ -518,7 +520,7 @@ AT&amp;T Center[31]</p></td>
 
 次年2月，常规赛将会暂停1周来举行一年一度（[1999年曾因劳资纠纷停办](https://zh.wikipedia.org/wiki/1998-99_NBA赛季 "wikilink")\[34\]）的[NBA全明星赛](https://zh.wikipedia.org/wiki/NBA全明星赛 "wikilink")（All-Star Game）。[美国](../Page/美国.md "wikilink")及[加拿大](../Page/加拿大.md "wikilink")当地球迷对全明星先发阵容进行投票，全世界球迷也可以通过[互联网](../Page/互联网.md "wikilink")来投票。东西岸各个位置得票最高的球员将获得首发，其余14名球员由各队教练投票选出，全明星教练则是由全明星赛两周前东西岸成绩最好的球队教练担当（可以多任，但不能连任）。东西岸获胜的一方表现最好的球员将获得[全明星赛MVP](https://zh.wikipedia.org/wiki/NBA全明星赛最有价值球员 "wikilink")。全明星赛前还有一系列的表演及活动来吸引球迷们的眼光，整个全明星周末的活动包括：
 
-  - [新秀挑战赛](../Page/NBA新秀挑战赛.md "wikilink")，比赛的形式不定，历史上大多由应届新秀挑战二年级球员，也有应届新秀按东西部分组对抗的情况，2012年则是由两位NBA名宿[查尔斯·巴克利](../Page/查尔斯·巴克利.md "wikilink")和[奥尼尔在优秀的年轻球员中挑选各自属意的队员进行比赛](../Page/沙奎尔·奥尼尔.md "wikilink")。2015年改为NBA本土新秀对阵NBA外籍新秀。
+  - [新秀挑战赛](../Page/NBA新秀挑战赛.md "wikilink")，比赛的形式不定，历史上大多由应届新秀挑战二年级球员，也有应届新秀按东西部联盟对抗的情况，2012年则是由两位NBA名宿[查尔斯·巴克利](../Page/查尔斯·巴克利.md "wikilink")和[奥尼尔在优秀的年轻球员中挑选各自属意的队员进行比赛](../Page/沙奎尔·奥尼尔.md "wikilink")。2015年改为NBA本土新秀对阵NBA外籍新秀。
   - [技巧挑战赛](../Page/NBA技巧赛.md "wikilink")，参赛者必须在最快的时间内完成[运球](https://zh.wikipedia.org/wiki/运球 "wikilink")，[传球](https://zh.wikipedia.org/wiki/传球 "wikilink")，[投篮](https://zh.wikipedia.org/wiki/投篮 "wikilink")，[上篮等一系列动作方能获胜](https://zh.wikipedia.org/wiki/上篮 "wikilink")，2015年改为两人同场对抗。
   - [三分大赛](../Page/NBA三分球大赛.md "wikilink")，规定时间内在5个角度投中最多[三分球](../Page/三分球.md "wikilink")者胜出，2015年调整为任意一个角度可以放5个加分球总得分由30分变成34分
   - [扣篮大赛](../Page/NBA灌篮大赛.md "wikilink")，参赛者尝试做出各种高难度、极具观赏性的[扣篮动作](https://zh.wikipedia.org/wiki/扣篮 "wikilink")，通常邀请历届扣篮大赛冠军作为评判，每人只有3次机会，否则，打出最低分30分

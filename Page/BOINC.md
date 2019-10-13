@@ -70,7 +70,7 @@ BOINC從版本6.4.5起，開始支持[GPU運算](https://zh.wikipedia.org/wiki/�
 
 :\* [SETI@home beta](https://zh.wikipedia.org/wiki/SETI@home_beta "wikilink")—測試SETI@home。
 
-  - [μFluids@Home](http://www.ufluids.net/)—模擬[微重力和](https://zh.wikipedia.org/wiki/微重力 "wikilink")[微流體力學問題的兩相現象](https://zh.wikipedia.org/wiki/微流體力學 "wikilink")，目前已停止運作。
+  - [μFluids@Home](https://web.archive.org/web/20100910021816/http://www.ufluids.net/)—模擬[微重力和](https://zh.wikipedia.org/wiki/微重力 "wikilink")[微流體力學問題的兩相現象](https://zh.wikipedia.org/wiki/微流體力學 "wikilink")，目前已停止運作。
   - [Milkyway@home](https://zh.wikipedia.org/wiki/Milkyway@home "wikilink")—研究[銀河系的重力波](https://zh.wikipedia.org/wiki/銀河系 "wikilink")，支援NVidia CUDA及[ATi的顯示卡運算](https://zh.wikipedia.org/wiki/ATi "wikilink")。
   - [Spinhenge@home](https://zh.wikipedia.org/wiki/Spinhenge@home "wikilink")—研究[納米磁性分子的物理特性](https://zh.wikipedia.org/wiki/納米磁性分子 "wikilink")，目前已停止運作。
   - [BRaTS@home](https://zh.wikipedia.org/wiki/BRaTS@home "wikilink")—進行引力波束追踪的相關計算，目前已停止運作。

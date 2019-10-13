@@ -45,6 +45,7 @@ AV女優通常是在一般場合被經紀人發掘，或製作公司募集。不
   - 社會環境因素：長期身處複雜環境，亦有因為接触到不良分子而受到胁迫出演。
   - [債務](https://zh.wikipedia.org/wiki/債務 "wikilink")：因為家庭經濟突然變化，某家庭成員或個人財政出現狀況，無論直接或間接，在無法償還抵債下，無奈只能投身。以下情況賭債、負債、破產、交不起房租、大學學費、失業或供不起房樓，財務公司委託不良份子帶入行還債。
   - [性慾因素](https://zh.wikipedia.org/wiki/性慾 "wikilink")：由於性慾亢奋而又不能从丈夫或情人处得到满足，故而从[AV男優身上获得性满足](https://zh.wikipedia.org/wiki/AV男優 "wikilink")\[7\]（如[北条麻妃](../Page/北条麻妃.md "wikilink")）。
+  - [崇拜](../Page/崇拜.md "wikilink")很多年輕少女，透過不同的途徑觀賞AV，開始對[女優產生傾慕而入行](https://zh.wikipedia.org/wiki/女優 "wikilink")。
   - 其他：如因為經紀人高明的遊說口才而變得好奇加入。或有個別對「性」感有興趣而加入。
 
 [Akari_Asahina_04.jpg](https://zh.wikipedia.org/wiki/File:Akari_Asahina_04.jpg "fig:Akari_Asahina_04.jpg")參與於[日本](../Page/日本.md "wikilink")[兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")[神戶市的一場簽名活動](https://zh.wikipedia.org/wiki/神戶市 "wikilink")。\]\]

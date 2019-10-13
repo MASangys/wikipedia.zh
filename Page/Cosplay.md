@@ -408,9 +408,9 @@ Cosplay在2000年代初期藉著附在動畫、漫畫、遊戲或科幻相關的
 
 ### 北美
 
-[New_York_Comic_Con_2015_-_Yang_(21878006029).jpg](https://zh.wikipedia.org/wiki/File:New_York_Comic_Con_2015_-_Yang_\(21878006029\).jpg "fig:New_York_Comic_Con_2015_-_Yang_(21878006029).jpg")的Cosplayer\]\] 從2000年代開始，在美國和[加拿大](../Page/加拿大.md "wikilink")的動畫展覽活動規模漸大，也越來越流行。藉著大眾對一些從日本入口的流行動畫系列（比如《[火影忍者](../Page/火影忍者.md "wikilink")》\[22\]、《[鋼之鍊金術師](https://zh.wikipedia.org/wiki/鋼之鍊金術師 "wikilink")》、《[死亡筆記](https://zh.wikipedia.org/wiki/死亡筆記 "wikilink")》、《[犬夜叉](https://zh.wikipedia.org/wiki/犬夜叉 "wikilink")》和《[BLEACH](../Page/BLEACH.md "wikilink")》等）更添注意，角色扮演者與動畫世界一直在主流流行文化中嶄露頭角，或最少以相對較小的規模亮相。而越來越多展覽赴會者扮演成他們喜愛的動畫角色，可見Cosplay文化與動畫文化對更多動畫展覽相繼設立有著足夠影響力以容納不斷增多的角色扮演者。
+[New_York_Comic_Con_2015_-_Yang_(21878006029).jpg](https://zh.wikipedia.org/wiki/File:New_York_Comic_Con_2015_-_Yang_\(21878006029\).jpg "fig:New_York_Comic_Con_2015_-_Yang_(21878006029).jpg")的Cosplayer\]\] 從2000年代開始，在美國和[加拿大](../Page/加拿大.md "wikilink")的動畫展覽活動規模漸大，也越來越流行。藉著大眾對一些從日本入口的流行動畫系列（比如《[火影忍者](../Page/火影忍者.md "wikilink")》、《[鋼之鍊金術師](https://zh.wikipedia.org/wiki/鋼之鍊金術師 "wikilink")》、《[死亡筆記](https://zh.wikipedia.org/wiki/死亡筆記 "wikilink")》、《[犬夜叉](https://zh.wikipedia.org/wiki/犬夜叉 "wikilink")》和《[BLEACH](../Page/BLEACH.md "wikilink")》等）更添注意，角色扮演者與動畫世界一直在主流流行文化中嶄露頭角，或最少以相對較小的規模亮相。而越來越多展覽赴會者扮演成他們喜愛的動畫角色，可見Cosplay文化與動畫文化對更多動畫展覽相繼設立有著足夠影響力以容納不斷增多的角色扮演者。
 
-北美的展覽一般同時設有Cosplay和服飾的競賽。\[23\]Cosplay，或（Masquerade ball），是一種身穿Cosplay服飾進行的短劇比賽。服飾競賽通常考驗參賽者所發揮的技能、設計、以及觀眾反應。競賽者在舞台上表演（配合觀眾拍掌與否視乎會場禮節而定），賽果乃事先評審或即場評審。日漸普及的展覽扮裝風氣引發了數個較新、以Cosplay為基礎的節目誕生，並結合傳統化粧舞會和會廳盛裝（Hall costume）競賽一同舉行。而在同類的節目比如「Anime Dating Game」（動畫約會遊戲）和「Cosplay Human Chess」（Cosplay真人戰棋），參與的角色扮演者更能在遊戲中相應地扮演出他們的角色。
+北美的展覽一般同時設有Cosplay和服飾的競賽。\[22\]Cosplay，或（Masquerade ball），是一種身穿Cosplay服飾進行的短劇比賽。服飾競賽通常考驗參賽者所發揮的技能、設計、以及觀眾反應。競賽者在舞台上表演（配合觀眾拍掌與否視乎會場禮節而定），賽果乃事先評審或即場評審。日漸普及的展覽扮裝風氣引發了數個較新、以Cosplay為基礎的節目誕生，並結合傳統化粧舞會和會廳盛裝（Hall costume）競賽一同舉行。而在同類的節目比如「Anime Dating Game」（動畫約會遊戲）和「Cosplay Human Chess」（Cosplay真人戰棋），參與的角色扮演者更能在遊戲中相應地扮演出他們的角色。
 
 此類比賽引發了許多Cosplay團隊衍生發展出來──他們往往在展覽前數個月便開始籌備登場細節。至於非比賽性的Cosplay則通常在[科幻片與](https://zh.wikipedia.org/wiki/科幻片 "wikilink")[幻想片的](https://zh.wikipedia.org/wiki/幻想片 "wikilink")[開幕夜可見](https://zh.wikipedia.org/wiki/開幕夜 "wikilink")，尤其以下所述一些已確認的情況：
 
@@ -429,7 +429,7 @@ Cosplay在2000年代初期藉著附在動畫、漫畫、遊戲或科幻相關的
 
 ### 澳大利亚
 
-在[澳大利亚](../Page/澳大利亚.md "wikilink")，这种趋势反映了不仅仅源于日本动漫的这一类美式服装。来源是提供了鲜明的人物形象和服装的任何东西，包括美国漫画、电脑游戏、科幻/奇幻小说、电影和电视秀、动画短片、戏剧、小说。通常来说，Cosplay并非完全展现了历史、游戏的准确性。总的来说，澳大利亚的Cosplay常常出现在有很多人的地方，例如首都和城市中心。因为这些庞大的人口支撑着边缘文化的多样性。尽管对于优秀的Cosplayer而言，在整个澳大利亚的大型赛事中进行表演是十分寻常的，但Cosplay展示不因此而局限于大型赛事。除了一些大型表演活动外，许多地方的小团体也会举行他们自己的Cosplay赛事。\[24\]
+在[澳大利亚](../Page/澳大利亚.md "wikilink")，这种趋势反映了不仅仅源于日本动漫的这一类美式服装。来源是提供了鲜明的人物形象和服装的任何东西，包括美国漫画、电脑游戏、科幻/奇幻小说、电影和电视秀、动画短片、戏剧、小说。通常来说，Cosplay并非完全展现了历史、游戏的准确性。总的来说，澳大利亚的Cosplay常常出现在有很多人的地方，例如首都和城市中心。因为这些庞大的人口支撑着边缘文化的多样性。尽管对于优秀的Cosplayer而言，在整个澳大利亚的大型赛事中进行表演是十分寻常的，但Cosplay展示不因此而局限于大型赛事。除了一些大型表演活动外，许多地方的小团体也会举行他们自己的Cosplay赛事。\[23\]
 
 [Aria_H._Kanzaki_by_結佳梨Yukari_03.jpg](https://zh.wikipedia.org/wiki/File:Aria_H._Kanzaki_by_結佳梨Yukari_03.jpg "fig:Aria_H._Kanzaki_by_結佳梨Yukari_03.jpg")偽娘coser扮演[緋彈的亞莉亞](../Page/緋彈的亞莉亞.md "wikilink")中的女主角Aria H. Kanzaki\]\]
 
@@ -475,4 +475,3 @@ Cosplay在2000年代初期藉著附在動畫、漫畫、遊戲或科幻相關的
 21.
 22.
 23.
-24.

@@ -1,4 +1,4 @@
-****（缩写****）是一種[自由又簡單的實時无损音频](../Page/自由软件.md "wikilink")[编解码器](../Page/编解码器.md "wikilink")。TTA是一种基于自适应预测过滤的无损音频压缩，\[1\]
+****（缩写****）是一種[自由又簡單的實時无损音频](../Page/自由软件.md "wikilink")[编解码器](../Page/编解码器.md "wikilink")，由[Tau Project](http://tausoft.org/wiki/Main_Page)維護。TTA是一种基于自适应预测过滤的无损音频压缩，\[1\]
 
 ## TTA压缩器
 

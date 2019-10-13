@@ -44,7 +44,7 @@
 ## 參見
 
   - [數表](../Page/數表.md "wikilink")
-  - [111](https://zh.wikipedia.org/wiki/111 "wikilink") [222](https://zh.wikipedia.org/wiki/222 "wikilink") [333](../Page/333.md "wikilink") [444](https://zh.wikipedia.org/wiki/444 "wikilink") [555](https://zh.wikipedia.org/wiki/555 "wikilink") **666** [777](../Page/777.md "wikilink") [888](../Page/888.md "wikilink") [999](https://zh.wikipedia.org/wiki/999 "wikilink")
+  - [111](https://zh.wikipedia.org/wiki/111 "wikilink") [222](https://zh.wikipedia.org/wiki/222 "wikilink") [333](../Page/333.md "wikilink") [444](https://zh.wikipedia.org/wiki/444 "wikilink") [555](../Page/555.md "wikilink") **666** [777](../Page/777.md "wikilink") [888](../Page/888.md "wikilink") [999](https://zh.wikipedia.org/wiki/999 "wikilink")
   - [666年](https://zh.wikipedia.org/wiki/666年 "wikilink")
   - [獸名數目](../Page/獸名數目.md "wikilink")
   - [啟示錄第](https://zh.wikipedia.org/wiki/啟示錄 "wikilink")13章

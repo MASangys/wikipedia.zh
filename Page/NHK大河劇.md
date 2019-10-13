@@ -1163,7 +1163,7 @@
 </tr>
 <tr class="odd">
 <td><p>60</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/直衝蒼天" title="wikilink">直衝蒼天</a><br />
+<td><p><a href="../Page/直衝蒼天.md" title="wikilink">直衝蒼天</a><br />
 <br />
 （Seiten wo tsuke）</p></td>
 <td><p>2021年</p></td>

@@ -1,4 +1,4 @@
-**ZARD**是一個日本知名摇滚樂團，以主唱歌手[坂井泉水](../Page/坂井泉水.md "wikilink")為中心。所屬事務所是泉水（SENSUI）。隸屬於[Being,Inc.旗下](https://zh.wikipedia.org/wiki/Being,Inc. "wikilink")[B-Gram RECORDS](https://zh.wikipedia.org/wiki/B-Gram_RECORDS "wikilink")。代表歌曲有《[永遠](https://zh.wikipedia.org/wiki/永遠 "wikilink")》、《[Top Secret](https://zh.wikipedia.org/wiki/Top_Secret "wikilink")》、《[MY FRIEND](../Page/MY_FRIEND_\(ZARD單曲\).md "wikilink")》、《[轉動命運之輪](../Page/轉動命運之輪.md "wikilink")》、《[Don't you see\!](https://zh.wikipedia.org/wiki/Don't_you_see! "wikilink")》、《[別認輸](../Page/別認輸.md "wikilink")》、《[搖擺的想念](../Page/搖擺的想念.md "wikilink")》，ZARD也是日本第一個女子主唱的搖滾樂團。
+**ZARD**是一個日本知名摇滚樂團，以主唱歌手[坂井泉水](../Page/坂井泉水.md "wikilink")為中心。所屬事務所是泉水（SENSUI）。隸屬於[Being,Inc.旗下](https://zh.wikipedia.org/wiki/Being,Inc. "wikilink")[B-Gram RECORDS](https://zh.wikipedia.org/wiki/B-Gram_RECORDS "wikilink")。代表歌曲有《[永遠](https://zh.wikipedia.org/wiki/永遠 "wikilink")》、《[Top Secret](https://zh.wikipedia.org/wiki/Top_Secret "wikilink")》、《[MY FRIEND](../Page/MY_FRIEND_\(ZARD單曲\).md "wikilink")》、《[轉動命運之輪](../Page/轉動命運之輪.md "wikilink")》、《[Don't you see\!](../Page/Don't_you_see!.md "wikilink")》、《[別認輸](../Page/別認輸.md "wikilink")》、《[搖擺的想念](../Page/搖擺的想念.md "wikilink")》，ZARD也是日本第一個女子主唱的搖滾樂團。
 
 ## 成員
 
@@ -194,7 +194,7 @@ ZARD以“神秘”而聞名。在成立的初期，ZARD的成员還有出現参
       -
         這年的後半年『[負けないで](https://zh.wikipedia.org/wiki/負けないで "wikilink")』被記載在高校的音樂教科書上。
     <!-- end list -->
-      - 1月6日 19th Single『[Don't you see\!](https://zh.wikipedia.org/wiki/Don't_you_see! "wikilink")』登場。初登場第1位。
+      - 1月6日 19th Single『[Don't you see\!](../Page/Don't_you_see!.md "wikilink")』登場。初登場第1位。
       - 2月26日 20th Single『[君に逢いたくなったら…](https://zh.wikipedia.org/wiki/君に逢いたくなったら… "wikilink")』登場。
       - 4月23日 精選專輯『[ZARD BLEND 〜SUN\&STONE〜](https://zh.wikipedia.org/wiki/ZARD_BLEND_〜SUN&STONE〜 "wikilink")』登場。賣上200萬隻記錄。全年第5位。
       - 7月2日 21st Single『[風が通り抜ける街へ](https://zh.wikipedia.org/wiki/風が通り抜ける街へ "wikilink")』登場。
@@ -508,7 +508,7 @@ ZARD以“神秘”而聞名。在成立的初期，ZARD的成员還有出現参
 <td><p><small>1997年1月6日</small></p></td>
 <td><p><strong>Don't you see!</strong><br />
 </p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Don&#39;t_you_see!" title="wikilink">Don't you see!</a></strong><br />
+<td><p><strong><a href="../Page/Don&#39;t_you_see!.md" title="wikilink">Don't you see!</a></strong><br />
 </p></td>
 <td><p><small>作曲：栗林誠一郎<br />
 編曲：葉山たけし</small></p></td>
@@ -1009,8 +1009,8 @@ Official Band Score ZARD BLEND 〜SUN\&STONE〜（1999年2月17日）
 | [君がいたから](https://zh.wikipedia.org/wiki/TODAY_IS_ANOTHER_DAY "wikilink")（アルバム收錄曲目）               | 富士電視台系電視劇「[輝く季節の中で](https://zh.wikipedia.org/wiki/輝く季節の中で "wikilink")」挿曲                                                                                  |
 | [Today is another day](https://zh.wikipedia.org/wiki/TODAY_IS_ANOTHER_DAY "wikilink")（アルバム收錄曲目） | 日本電視台系動畫「[YAWARA\!スペシャル ずっと君のことが…](https://zh.wikipedia.org/wiki/YAWARA! "wikilink")」主題歌                                                                  |
 | [見つめていたいね](https://zh.wikipedia.org/wiki/TODAY_IS_ANOTHER_DAY "wikilink")（アルバム收錄曲目）             | 日本電視台系動畫「YAWARA\!スペシャル ずっと君のことが…」挿入歌                                                                                                                      |
-| [Don't you see\!](https://zh.wikipedia.org/wiki/Don't_you_see! "wikilink")                      | 富士電視台系動畫「[ドラゴンボールGT](https://zh.wikipedia.org/wiki/ドラゴンボールGT "wikilink")」片尾曲                                                                              |
-| [帰らぬ時間の中で](https://zh.wikipedia.org/wiki/Don't_you_see! "wikilink")（上記曲のc/w）                    | 日本電視台「いま人」片頭曲                                                                                                                                             |
+| [Don't you see\!](../Page/Don't_you_see!.md "wikilink")                                         | 富士電視台系動畫「[ドラゴンボールGT](https://zh.wikipedia.org/wiki/ドラゴンボールGT "wikilink")」片尾曲                                                                              |
+| [帰らぬ時間の中で](../Page/Don't_you_see!.md "wikilink")（上記曲のc/w）                                       | 日本電視台「いま人」片頭曲                                                                                                                                             |
 | [君に逢いたくなったら…](https://zh.wikipedia.org/wiki/君に逢いたくなったら… "wikilink")                             | TBS系電視劇「[理想の結婚](https://zh.wikipedia.org/wiki/理想の結婚 "wikilink")」主題歌                                                                                       |
 | [風が通り抜ける街へ](https://zh.wikipedia.org/wiki/風が通り抜ける街へ "wikilink")                                 | [JRA夏競馬CM廣告歌](https://zh.wikipedia.org/wiki/日本中央競馬会 "wikilink")                                                                                           |
 | [永遠](https://zh.wikipedia.org/wiki/永遠_\(ZARDの曲\) "wikilink")                                    | [キヤノン](https://zh.wikipedia.org/wiki/キヤノン "wikilink")「Eos kiss」CM廣告歌／日本電視台系電視劇「[失楽園](https://zh.wikipedia.org/wiki/失楽園_\(渡辺淳一\) "wikilink")」主題曲           |

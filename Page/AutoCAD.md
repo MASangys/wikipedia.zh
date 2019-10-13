@@ -42,7 +42,7 @@ AutoCAD的发展可分为初级阶段、发展阶段、高级发展阶段、完�
 <!-- end list -->
 
   -
-    [Dos版的最高顶峰](https://zh.wikipedia.org/wiki/Dos "wikilink")，具有成熟完备的功能，提供完善的AutoLisp语言进行二次开发，许多机械建筑和电路设计的专业CAD就是在这一版本上开发的。这一版本具有许多即使现在的版本也不具备的特性，例如[实体爆炸后得到的是](https://zh.wikipedia.org/wiki/实体 "wikilink")3Dface，而不是像现在版本这样变成面实体——还是实体，不像3Dface那样可以对顶点进行单独拉伸。
+    [Dos版的最高顶峰](https://zh.wikipedia.org/wiki/Dos "wikilink")，具有成熟完备的功能，提供完善的AutoLisp语言进行二次开发，许多机械建筑和电路设计的专业CAD就是在这一版本上开发的。这一版本具有许多即使现在的版本也不具备的特性，例如[实体爆炸后得到的是](https://zh.wikipedia.org/wiki/实体 "wikilink")3Dface，而不是像现在版本这样变成面实体——还是实体，不像3Dface那样可以对[顶点进行单独拉伸](../Page/頂點_\(電腦圖學\).md "wikilink")。
 
 ### 完善阶段
 

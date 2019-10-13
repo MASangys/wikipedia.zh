@@ -4,7 +4,7 @@ PieTTY與PuTTY同樣採用[MIT許可證](../Page/MIT許可證.md "wikilink")，�
 
 ## 外部連結
 
-  - [PieTTY project](https://web.archive.org/web/20050617040705/http://ntu.csie.org/~piaip/pietty/)
+  - [PieTTY project](https://sites.google.com/view/pietty-project)
   - [PuTTY: A Free Telnet/SSH Client](http://www.chiark.greenend.org.uk/~sgtatham/putty/)
   - [PuTTY DBCS patched](https://web.archive.org/web/20050802091304/http://www.mhsin.org/putty/)
   - [中文的SSH client for windows](http://freebsd.sinica.edu.tw/%7Estatue/zh-tut/ssh.html)

@@ -269,9 +269,10 @@
   - [幽靈神醫](https://zh.wikipedia.org/wiki/幽靈神醫 "wikilink")（）（[大沢祐輔](https://zh.wikipedia.org/wiki/大沢祐輔 "wikilink")、[木下繁](https://zh.wikipedia.org/wiki/木下繁 "wikilink")）
   - [Dragon Collection](https://zh.wikipedia.org/wiki/Dragon_Collection "wikilink")（）（[芝野郷太](https://zh.wikipedia.org/wiki/芝野郷太 "wikilink")、[金城宗幸](https://zh.wikipedia.org/wiki/金城宗幸 "wikilink")、[科樂美數碼娛樂](https://zh.wikipedia.org/wiki/科樂美數碼娛樂 "wikilink")）
   - [GT-R](https://zh.wikipedia.org/wiki/GT-R "wikilink")（[藤澤亨](https://zh.wikipedia.org/wiki/藤澤亨 "wikilink")）
-  - [AKB49～戀愛禁止條例～](../Page/AKB49～戀愛禁止條例～.md "wikilink")
+  - [AKB49～戀愛禁止條例～](../Page/AKB49～戀愛禁止條例～.md "wikilink")（[宮島禮吏](../Page/宮島禮吏.md "wikilink")）
   - [FAIRY TAIL魔導少年](https://zh.wikipedia.org/wiki/FAIRY_TAIL魔導少年 "wikilink")（[真島浩](../Page/真島浩.md "wikilink")）
-  - [校園迷糊大王](../Page/校園迷糊大王.md "wikilink")（[小林盡](https://zh.wikipedia.org/wiki/小林盡 "wikilink")) 2002年10月至2008年正式完結。
+  - [山田君與7人魔女](../Page/山田君與7人魔女.md "wikilink")（[吉河美希](../Page/吉河美希.md "wikilink")）
+  - [寄宿學校的茱麗葉](../Page/寄宿學校的茱麗葉.md "wikilink")（[金田陽介](https://zh.wikipedia.org/wiki/金田陽介 "wikilink")）
 
 ## 關連項目
 

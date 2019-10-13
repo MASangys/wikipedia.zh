@@ -46,7 +46,7 @@ Google于2013年5月推出的更新添加了分类用户邮件的收件箱标签
 
 #### 2018年更新
 
-Google于2018年4月推出了新版Gmail Web用户界面，所有用户都可以选择是否使用新版界面。新界面的设计风格基于Google的[Material Design 2](https://zh.wikipedia.org/wiki/Material_Design "wikilink")，同时界面字体改成了Product Sans。此次更新还带来了包括允许发送者为敏感邮件设置期限或是撤回邮件的保密模式、权限管理和[两步验证等在内的诸多新功能](https://zh.wikipedia.org/wiki/双重认证 "wikilink")\[15\]。
+Google于2018年4月推出了新版Gmail Web用户界面，所有用户都可以选择是否使用新版界面。新界面的设计风格基于Google的[Material Design 2](https://zh.wikipedia.org/wiki/Material_Design "wikilink")，同时界面字体改成了[Product Sans](../Page/Product_Sans.md "wikilink")。此次更新还带来了包括允许发送者为敏感邮件设置期限或是撤回邮件的保密模式、权限管理和[两步验证等在内的诸多新功能](https://zh.wikipedia.org/wiki/双重认证 "wikilink")\[15\]。
 
 ### Gmail实验室
 

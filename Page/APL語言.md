@@ -1,4 +1,4 @@
-**APL** 是 **A Programming Language** 或 **Array Processing Language** 的缩写。[肯尼斯·艾佛森](../Page/肯尼斯·艾佛森.md "wikilink")在1962年设计这个语言时他正在[哈佛大学](../Page/哈佛大学.md "wikilink")工作，1979年他因对数学表达式和[编程语言](../Page/编程语言.md "wikilink")理论的贡献而得到图灵奖。在过去数十年的使用历史中，APL 从它的原始版本开始不断改变和发展，今天的版本与1963年发表时的版本已经非常不一样了。但它始终是一种解释执行的计算机语言。现代的 APL 版本支持其初始版本不支持的结构和模式编程。APL 至今依然使用一种非标准化的字母表，这一直是他人对 APL 的批评。
+**APL** 是 **A Programming Language** 或 **Array Processing Language** 的缩写。[肯尼斯·艾佛森](../Page/肯尼斯·艾佛森.md "wikilink")在1962年设计这个语言时他正在[哈佛大学](../Page/哈佛大学.md "wikilink")工作，1979年他因对[数学表达式和](https://zh.wikipedia.org/wiki/数学表达式 "wikilink")[编程语言](../Page/编程语言.md "wikilink")理论的贡献而得到[图灵奖](../Page/图灵奖.md "wikilink")。在过去数十年的使用历史中，APL 从它的原始版本开始不断改变和发展，今天的版本与1963年发表时的版本已经非常不一样了。但它始终是一种解释执行的计算机语言。现代的 APL 版本支持其初始版本不支持的结构和模式编程。APL 至今依然使用一种非标准化的字母表，这一直是他人对 APL 的批评。
 
 ## 概述
 

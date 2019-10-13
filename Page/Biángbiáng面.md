@@ -411,7 +411,7 @@
 
   - [歌颂面的秦腔演唱](http://www.tudou.com/programs/view/4fEQdFBnUpo/)
   - [央视国家地理频道：特立独行——陕西十大怪](http://www.cctv.com/geography/20030604/100283.shtml)
-  - [西部网：西安小吃之biangbiang面列传](http://eat.cnwest.com/content/2008-07/23/content_1319922.htm)
+  - [西部网：西安小吃之biangbiang面列传](https://web.archive.org/web/20110208181302/http://eat.cnwest.com/content/2008-07/23/content_1319922.htm)
   - [中国日记：Chewing the fat in Xi'an](http://www.shanghaidiaries.com/archives/2004/08/17/chewing_the_fat_in_xian/index.php)
 
 [Category:未收錄漢字](https://zh.wikipedia.org/wiki/Category:未收錄漢字 "wikilink") [Category:陝西食品](https://zh.wikipedia.org/wiki/Category:陝西食品 "wikilink") [Category:中式面条](https://zh.wikipedia.org/wiki/Category:中式面条 "wikilink")

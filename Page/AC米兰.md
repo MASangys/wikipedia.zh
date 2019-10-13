@@ -1913,6 +1913,13 @@ AC米蘭進球 \![600px_Nero_e_azzurro_strisciato_con_stella.png](https://zh.wik
 <td><p>2017–2019</p></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>(<em>Marco Giampaolo</em>)</p></td>
+<td><p><br />
+</p></td>
+<td><p>2019–现任</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

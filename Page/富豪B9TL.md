@@ -44,15 +44,13 @@ B9TL可選配多款車身，主要包括蘇格蘭[亞歷山大丹尼士](../Page
 
 首輛B9TL樣辦巴士於2003年7月抵港（[有關圖片](http://www.orientalmodelbuses.co.uk/Xtra/B9TL1-big.jpg)），用以測試九巴的「全環保巴士驅動系統」（Eco-driveline），該車配[澳洲Volgren車身](https://zh.wikipedia.org/wiki/澳洲 "wikilink")，採用富豪自家D9A引擎，能輸出300匹馬力，配置Vogelsitze座椅，於2004年3月完成首次登記，編號為AVD1（Air-conditioned Volvo Demo的英文字頭），車牌LJ7006，並於同年5月投入服務。該車投入服務初期行走[西隧巴士線](https://zh.wikipedia.org/wiki/西區海底隧道 "wikilink")[905](https://zh.wikipedia.org/wiki/過海隧道巴士905線 "wikilink")，其後改為行走[42C及](https://zh.wikipedia.org/wiki/九龍巴士42C線 "wikilink")[30X線](https://zh.wikipedia.org/wiki/九龍巴士30X線 "wikilink")。AVD1的牌照在2004年12月15日到期，有人推測AVD1將售予[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")、[澳洲或](https://zh.wikipedia.org/wiki/澳洲 "wikilink")[新加坡](../Page/新加坡.md "wikilink")。2004年12月12日，巴士迷世界舉行「再見！AVD1」遊河。
 
-AVD1於同年12月21日前往澳洲。2005年8月，AVD1更換了符合歐盟四型環保標準的D9B引擎（能輸出310匹馬力），及加裝[AdBlue儲存缸後被運返香港](https://zh.wikipedia.org/wiki/AdBlue "wikilink")，2006年2月重新登記車牌為MF5119（舊車牌已經於早前因九巴沒預計AVD1會回歸而取消），5月與同樣配有符合歐盟四型環保標準引擎的[亞歷山大丹尼士Enviro 500](../Page/亞歷山大丹尼士Enviro_500.md "wikilink")（MJ2927，車隊編號ATEU1）一起投入服務。AVD1回歸香港後初期常行走[6C線](https://zh.wikipedia.org/wiki/九龍巴士6C線 "wikilink")，2007年3月九巴為測試歐盟四型巴士行走快速公路的性能安排AVD1與ATEU1一同改行[68X線](../Page/九龍巴士68X線.md "wikilink")，同年6月24日起，因應68X搬遷至[洪水橋](../Page/洪水橋.md "wikilink")（[洪元路](https://zh.wikipedia.org/wiki/洪元路 "wikilink")），而使用尾軸驅動車輛於該總站掉頭時有所困難，故AVD1改行[69X線](../Page/九龍巴士69X線.md "wikilink")。2012年3月3日，AVD1由69X調往[6號線](https://zh.wikipedia.org/wiki/九龍巴士6號線 "wikilink")，並於同年6月調至[42A線](../Page/九龍巴士42A線.md "wikilink")，2014年2月起被編為後備車，同年4月起被調至線行走。
+AVD1於同年12月21日前往澳洲。2005年8月，AVD1更換了符合歐盟四型環保標準的D9B引擎（能輸出310匹馬力），及加裝[AdBlue儲存缸後被運返香港](https://zh.wikipedia.org/wiki/AdBlue "wikilink")，2006年2月重新登記車牌為MF5119（舊車牌已經於早前因九巴沒預計AVD1會回歸而取消），5月與同樣配有符合歐盟四型環保標準引擎的[亞歷山大丹尼士Enviro 500](../Page/亞歷山大丹尼士Enviro_500.md "wikilink")（MJ2927，車隊編號ATEU1）一起投入服務。AVD1回歸香港後初期常行走[6C線](https://zh.wikipedia.org/wiki/九龍巴士6C線 "wikilink")，2007年3月九巴為測試歐盟四型巴士行走快速公路的性能安排AVD1與ATEU1一同改行[68X線](../Page/九龍巴士68X線.md "wikilink")，現時為後備車輛。AVD1於2016年12月已更換LED光管照明。
 
-AVD1於2016年12月全數更換LED光管照明。
+另一輛B9TL樣辦巴士於2004年第三季被購入，該車配[TransBus Enviro 500車身](https://zh.wikipedia.org/wiki/TransBus_Enviro_500 "wikilink")，同樣採用富豪自家D9A引擎，採用ZF 6HP592C波箱，並使用直樓梯，於2005年1月完成首次登記，編號為AVBE1（**A**ir-conditioned **V**olvo **B**9TL **E**nviro500的英文字頭），車牌LU3721，並於同年2月投入服務。但是AVBE1投入服務後經常壞車，全車每一部分都曾出現故障，同年年中九巴工程部將AVBE1進廠大修，壞車情況才得以改善。此外，工程部還將本來使用的[Hanover電牌改為採用](https://zh.wikipedia.org/wiki/Hanover "wikilink")[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[Gorba電牌](https://zh.wikipedia.org/wiki/Gorba_AG "wikilink")。AVBE1現時派往行走[235線](https://zh.wikipedia.org/wiki/九龍巴士235線 "wikilink")。
 
-另一輛B9TL樣辦巴士於2004年第三季被購入，該車配[TransBus Enviro 500車身](https://zh.wikipedia.org/wiki/TransBus_Enviro_500 "wikilink")，同樣採用富豪自家D9A引擎，採用ZF 6HP592C波箱，並使用直樓梯，於2005年1月完成首次登記，編號為AVBE1（**A**ir-conditioned **V**olvo **B**9TL **E**nviro500的英文字頭），車牌LU3721，並於同年2月投入服務。但是AVBE1投入服務後經常壞車，全車每一部分都曾出現故障，同年年中九巴工程部將AVBE1進廠大修，壞車情況才得以改善。此外，工程部還將本來使用的[Hanover電牌改為採用](https://zh.wikipedia.org/wiki/Hanover "wikilink")[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[Gorba電牌](https://zh.wikipedia.org/wiki/Gorba_AG "wikilink")。AVBE1現時派往行走[102線](../Page/過海隧道巴士102線.md "wikilink")。
+另外3輛B9TL樣辦巴士全部配[Wright車身](https://zh.wikipedia.org/wiki/Wrightbus "wikilink")（另一來源為底盤編號），車隊編號為AVBW1、15、26，全部同樣採用富豪自家D9A引擎（AVBW15雖然是使用同款引擎，但最大馬力為340匹），其中兩部巴士仍舊採用ZF 6HP592C波箱；唯AVBW15則使用Voith DIWA864.5D4波箱，三車俱使用直樓梯。其中1輛巴士於2004年第三季隨AVBE1被購入，該車採用Gorba電子路線顯示屏，有別於常用的Hanover電子顯示屏，於2005年1月完成首次登記，編號為AVBW1（**A**ir-conditioned **V**olvo **B**9TL **W**right的英文字頭），車牌LU3739，並於同年2月投入服務；其餘2輛B9TL樣辦巴士隨九巴訂購首批量產巴士時被購入，編號分別為AVBW15及AVBW26。AVBW1初期常行走紅磡海底隧道[102線](../Page/過海隧道巴士102線.md "wikilink")，現時為[235M線用車](https://zh.wikipedia.org/wiki/九龍巴士235M線 "wikilink")。AVBW15及26初期則行走[60X線](https://zh.wikipedia.org/wiki/九龍巴士60X線 "wikilink")；AVBW15現為[2E線用車](https://zh.wikipedia.org/wiki/九龍巴士2E線 "wikilink")、AVBW26現為[11B線用車](https://zh.wikipedia.org/wiki/九龍巴士11B線 "wikilink")。
 
-另外3輛B9TL樣辦巴士全部配[Wright車身](https://zh.wikipedia.org/wiki/Wrightbus "wikilink")（另一來源為底盤編號），車隊編號為AVBW1、15、26，全部同樣採用富豪自家D9A引擎（AVBW15雖然是使用同款引擎，但最大馬力為340匹），其中兩部巴士仍舊採用ZF 6HP592C波箱；唯AVBW15則使用Voith DIWA864.5D4波箱，三車俱使用直樓梯。其中1輛巴士於2004年第三季隨AVBE1被購入，該車採用Gorba電子路線顯示屏，有別於常用的Hanover電子顯示屏，於2005年1月完成首次登記，編號為AVBW1（**A**ir-conditioned **V**olvo **B**9TL **W**right的英文字頭），車牌LU3739，並於同年2月投入服務；其餘2輛B9TL樣辦巴士隨九巴訂購首批量產巴士時被購入，編號分別為AVBW15及AVBW26。AVBW1初期常行走紅磡海底隧道[102線](../Page/過海隧道巴士102線.md "wikilink")，現時為[33A線的掛牌車](https://zh.wikipedia.org/wiki/九龍巴士33A線 "wikilink")；而AVBW15，投入服務初期分配到[60X線行走](https://zh.wikipedia.org/wiki/九龍巴士60X線 "wikilink")，現在則為[905線線常用車](https://zh.wikipedia.org/wiki/過海隧道巴士905線 "wikilink")；而AVBW26曾為[60X線的常用車](https://zh.wikipedia.org/wiki/九龍巴士60X線 "wikilink"),現時調入沙田廠行走80K線。
-
-其餘5輛B9TL樣辦巴士全部配[Wright車身的](https://zh.wikipedia.org/wiki/Wrightbus "wikilink")12米、10.6米和12.8米巴士（AVBWU1, AVBWU291, AVBWS1和3AVBWU1-2），其規格和配置請閱本文富豪B9TL巴士AVBWU, AVBWS和3AVBWU三段。
+其餘5輛B9TL樣辦巴士全部配上[Wright Gemini 2車身](https://zh.wikipedia.org/wiki/Wright_Gemini_2 "wikilink")（AVBWU1, AVBWU291, AVBWS1和3AVBWU1-2），其規格和配置請閱本文富豪B9TL巴士AVBWU, AVBWS和3AVBWU三段。
 
 ##### AVBW
 
@@ -60,11 +58,7 @@ AVD1於2016年12月全數更換LED光管照明。
 
 2005年底九巴增訂的88輛B9TL巴士，其中38輛配Wright車身，車隊編號為AVBW27-64，另外50輛配[Enviro 500](https://zh.wikipedia.org/wiki/Enviro_500 "wikilink") Mk II車身。配Wright車身的巴士全數配用ZF 6HP592C波箱，其中10輛（AVBW41、48、51、55、59-64）配備Gorba電子顯示屏、使用Vogelsitze座椅及富士空調系統。在最後6部AVBW當中，除了AVBW61外，其餘5部採用了Ventura車門。
 
-現時所有AVBW都編配到沙田車廠、荔枝角車廠及九龍灣車廠。AVBW4、6、7於2012年改置新款凱倫自動報站系統作測試，並由荔枝角車廠轉至九龍灣車廠，期間AVBW6及7曾短暫調往屯門車廠進行測試，惟不久後被調回九龍灣車廠。
-
-為了節省耗油量，九巴已陸續為波箱電腦加裝Topodyn節能程式。
-
-AVBW於2016年9月全數更換LED光管照明。
+現時所有AVBW都編配到沙田車廠、荔枝角車廠及九龍灣車廠。AVBW4、6、7於2012年改置新款凱倫自動報站系統作測試，並由荔枝角車廠轉至九龍灣車廠，期間AVBW6及7曾短暫調往屯門車廠進行測試，惟不久後被調回九龍灣車廠。為了節省耗油量，九巴已陸續為波箱電腦加裝Topodyn節能程式。AVBW於2016年9月全數已更換LED光管照明。
 
 ##### AVBE
 
@@ -76,11 +70,7 @@ AVBW27-64、AVBE2-13服役初期貼有"2006"字樣，AVBE14-21、23-66貼有"200
 
 配備歐盟三型引擎的B9TL現時主力行走[7](https://zh.wikipedia.org/wiki/九龍巴士7號線 "wikilink")、[8](https://zh.wikipedia.org/wiki/九龍巴士8號線 "wikilink")、[8A](https://zh.wikipedia.org/wiki/九龍巴士8A線 "wikilink")、[12](https://zh.wikipedia.org/wiki/九龍巴士12線 "wikilink")、[32M](https://zh.wikipedia.org/wiki/九龍巴士32M線 "wikilink")、[39A](https://zh.wikipedia.org/wiki/九龍巴士39A線 "wikilink")、[60M](../Page/九龍巴士60M線.md "wikilink")、[69M](https://zh.wikipedia.org/wiki/九龍巴士69M線 "wikilink")、[83K](https://zh.wikipedia.org/wiki/九龍巴士83K線 "wikilink")、[85](https://zh.wikipedia.org/wiki/九龍巴士85線 "wikilink")、[85A](https://zh.wikipedia.org/wiki/九龍巴士85A線 "wikilink")、[86](https://zh.wikipedia.org/wiki/九龍巴士86線 "wikilink")、[86K](https://zh.wikipedia.org/wiki/九龍巴士86K線 "wikilink")、[88K](https://zh.wikipedia.org/wiki/九龍巴士88K線 "wikilink")、[234A](https://zh.wikipedia.org/wiki/九龍巴士234A線 "wikilink")、[234B](https://zh.wikipedia.org/wiki/九龍巴士234B線 "wikilink")、[261](https://zh.wikipedia.org/wiki/九龍巴士261線 "wikilink")、[272K及](https://zh.wikipedia.org/wiki/九龍巴士272K線 "wikilink")[289K](https://zh.wikipedia.org/wiki/九龍巴士289K線 "wikilink")。其中的8輛巴士（AVBE33-38、41、54）均設有行李架，以方便乘客攜帶行李登車，這八輛車因應龍運巴士開辦新線而出現車源緊張而借調到龍運巴士。
 
-為減低燃油消耗，九巴將所有歐盟三型B9TL加裝節能程式，配ZF波箱的車輛已加裝Topodyn節能程式，而配用Voith波箱的B9TL則全部已加裝SensoTop節能程式。
-
-其中三輛Enviro 500車身的B9TL（AVBE55、60、64）於2017年2月原Gorba電子顯示屏換上Hanover LED橙色路線顯示器。
-
-AVBE於2016年9月全數更換LED光管照明。
+為減低燃油消耗，九巴將所有歐盟三型B9TL加裝節能程式，配ZF波箱的車輛已加裝Topodyn節能程式，而配用Voith波箱的B9TL則全部已加裝SensoTop節能程式。 其中三輛Enviro 500車身的B9TL（AVBE55、60、64）於2017年2月原Gorba電子顯示屏換上Hanover LED橙色路線顯示器。AVBE於2016年9月全數更換LED光管照明。
 
 ##### AVBWU
 
@@ -99,19 +89,15 @@ AVBE於2016年9月全數更換LED光管照明。
       - AVBWU62、63、65-68、71-73、75、77-85、88-103、106、108-111、115、117、123、126、160、208、268、275、277、278：鴻隆電子路線顯示器、Vogelsitze巴士仔座椅
       - AVBWU70、74、76、86、130：Gorba電子路線顯示器、Vogelsitze巴士仔座椅、車廂內設有額外的閉路電視鏡頭
   - 第3批（115部）：全數使用Ventura車門及Vogelsitze巴士仔座椅
-      - AVBWU104、105、107、112、119、122、125、128、136、138、144、155、158、167、169-171、173、175、176、181、188、194、204、206、217、219、225、229、230、232、234、237、241、271、272、280、283、288：新款Hanover電子路線顯示器
+      - AVBWU104、105、107、112、119、122、125、128、136、138、144、155、158、167、169-171、173、175、176、181、188、194、204、206、217、219、225、229、230、232、234、237、241、271、272、280、283、288：Hanover2型電子路線顯示器
       - AVBWU113、114、116、124、127、129、131、133、135、137、139、140、143、145-154、156、157、159、161-166、168、174、177、178、182、184、185、189、192、196、203、221、223、224、226-228、231、233、235、236、238-240、269、274、281、282、284-287、289、290：鴻隆電子路線顯示器
-      - AVBWU64、69、118、120、121、132、134、141、142、200：新款Hanover電子路線顯示器、車廂內設有額外的閉路電視鏡頭
+      - AVBWU64、69、118、120、121、132、134、141、142、200：Hanover2型電子路線顯示器、車廂內設有額外的閉路電視鏡頭。
 
-AVBWU1-290於2016年9月全數更換全數更換LED光管照明。
-
-AVBWU270原Gorba綠色電子路線顯示器於2017年12月更換鴻隆橙色LED電子路線顯示器。
-
-AVBWU201 、222、245及262原Gorba綠色電子路線顯示器於2018年3月更換舊款Hanover電子路線顯示器。
+AVBWU1-290於2016年9月全數更換全數更換LED光管照明。AVBWU270原Gorba綠色電子路線顯示器於2017年12月更換鴻隆橙色LED電子路線顯示器，不過故障率比Gorba綠色電子路線顯示器更高，為人垢病；AVBWU201、222、245及262原有的Gorba綠色電子路線顯示器因代理結業致無法修復，於2018年3月更換由退役[Neoplan Centroliner拆卸的Hanover電子路線顯示器](../Page/Neoplan_Centroliner.md "wikilink")。
 
 而因應香港政府資助更換歐盟2期引擎的商業車輛的計劃（2017年12月31日截止），少部份2010年領牌的AVBWU將會在2017年內改裝訓練巴士取代1997-1998年歐盟2型D10A引擎的[富豪奧林比安](https://zh.wikipedia.org/wiki/富豪奧林比安 "wikilink")（包括11米版及12米版）及前[龍運巴士](../Page/龍運巴士.md "wikilink")1998年[亞歷山大車身](https://zh.wikipedia.org/wiki/亞歷山大車身 "wikilink")[丹尼士三叉戟三型](../Page/丹尼士三叉戟三型.md "wikilink")；其中AVBWU6於2017年4月底開始改裝訓練巴士，後來AVBWU7、12-15於同年6月中陸續開始改裝訓練巴士，全數由AVBW59-64取代。
 
-AVBWU1-290已於2012年5月投入服務，主要行走途經彌敦道、過海隧道等路線，此車型主力行走以下路線：、、、、、、、、、、、、、、、、、、、、[101](https://zh.wikipedia.org/wiki/過海隧道巴士101線 "wikilink")、[170](https://zh.wikipedia.org/wiki/過海隧道巴士170線 "wikilink")、[182](https://zh.wikipedia.org/wiki/過海隧道巴士182線 "wikilink")、[619](https://zh.wikipedia.org/wiki/過海隧道巴士619線 "wikilink")、[680](https://zh.wikipedia.org/wiki/過海隧道巴士680線 "wikilink")。
+AVBWU1-290已於2012年5月投入服務，但礙於載客量低，現時主要行走載客量需求不高的路線。此車型主力行走以下路線：、、、、、、、、、、、、、、高鐵接駁路線、[113](https://zh.wikipedia.org/wiki/過海隧道巴士113線 "wikilink")、[619](https://zh.wikipedia.org/wiki/過海隧道巴士619線 "wikilink")、[641](https://zh.wikipedia.org/wiki/過海隧道巴士641線 "wikilink")、[671](https://zh.wikipedia.org/wiki/過海隧道巴士671線 "wikilink")、[690](https://zh.wikipedia.org/wiki/過海隧道巴士690線 "wikilink")、[904](https://zh.wikipedia.org/wiki/過海隧道巴士904線 "wikilink")。
 
 ###### 方梯版本
 
@@ -131,9 +117,9 @@ AVBWU1-290已於2012年5月投入服務，主要行走途經彌敦道、過海�
 
 2017年，九巴第五次加訂104輛12米B9TL新巴士，分為80+24兩張訂單（車隊編號為AVBWU669-677，679，681，684，685，688-690，692，693，695-697，699，701，703，707-709，711-713，715，718-730，733-737，739-746，748，749，751-754，756-780，782-797），預計用以取代富豪超級奧林比安12米（3ASV62-118）、猛獅24.310 12米（AMN1-47）及Neoplan Centroliner 12米（AP21-162）。這將是九巴訂購的最後一批富豪B9TL，亦是最後一批採用Wright Eclipse Gemini 2車身的巴士，由吉隆坡Masdef公司負責組裝車身，除了AVBWU792採用金巴設計外，其餘採用九巴紅色新車身顏色設計。全數已於2017年11月27日至2018年8月17日出牌。
 
-AVBWU734於2018年7月原Hanover橙色LED電子牌更換為同款白色LED電子牌。
+AVBWU734於2018年7月原Hanover橙色LED電子牌更換為同款白色LED電子牌。AVBWU449-797於2019年4月全數陸續加設電子路線圖。
 
-AVBWU449-797於2019年4月全數陸續加設電子路線圖。
+現時此車型主力行走跨區或過海路線。
 
 ##### 3AVBWU
 
@@ -143,9 +129,11 @@ AVBWU449-797於2019年4月全數陸續加設電子路線圖。
 
 首輛新車於2014年6月18日於九龍灣驗車中心進行傾側測試時向右翻側，右邊車窗損毀。\[9\]及後經九巴工程人員檢查維修後，於同年7月4日順利通過傾側測試程序。兩輛新車分別於2014年8月26日及8月27日正式出牌並入籍沙田車廠，車牌號碼分別為SX2327及SX1716，3AVBWU2其後在2014年10月10日首航線。此車為載客量為146人，全數車尾四盞LED燈於2016年底陸續拆除。
 
+現時此車型行走[73X線](https://zh.wikipedia.org/wiki/九龍巴士73X "wikilink")。
+
 ##### AVBWS
 
-[606avbws1.jpg](https://zh.wikipedia.org/wiki/File:606avbws1.jpg "fig:606avbws1.jpg") 2009年九巴訂購1輛配備歐盟五型引擎B9TL 2軸空調樣板巴士，此車於2010年8月到港，並於同年10月20日到土瓜灣驗車中心驗車，原本上層車尾是設有座椅，但由於驗車時發現超重，上層尾排座位經已被拆除，以及換上合金車軨，九巴並要求代理商作全面了解該車未能及時出牌的原因及在該車上作出改善。該車現已交予九巴，車隊編號編為AVBWS及入籍九龍灣車廠，車牌號碼為PP9062，常為690常用車。
+[606avbws1.jpg](https://zh.wikipedia.org/wiki/File:606avbws1.jpg "fig:606avbws1.jpg") 2009年九巴訂購1輛配備歐盟五型引擎B9TL 2軸空調樣板巴士，此車於2010年8月到港，並於同年10月20日到土瓜灣驗車中心驗車，原本上層車尾是設有座椅，但由於驗車時發現超重，上層尾排座位經已被拆除，以及換上合金車軨，九巴並要求代理商作全面了解該車未能及時出牌的原因及在該車上作出改善。該車現已交予九巴，車隊編號編為AVBWS及入籍九龍灣車廠，車牌號碼為PP9062，現為[10線用車](https://zh.wikipedia.org/wiki/九龍巴士10線 "wikilink")。
 
 ##### 特別的B9TL
 
@@ -155,9 +143,9 @@ AVBWU449-797於2019年4月全數陸續加設電子路線圖。
 
 ##### AVG
 
-2017年，九巴訂購了三輛配Gemilang車身的富豪B9TL 12米，三輛已在馬來西亞Gemilang廠房裝嵌中，此車採用「城市脈搏」塗裝，為九巴繼引入配Enviro500車身的AVBE後，近10年來首度引入非Wright車身的B9TL。
+2017年，九巴訂購了三輛配[Gemilang車身的富豪B](https://zh.wikipedia.org/wiki/Gemilang "wikilink")9TL 12米，三輛已在馬來西亞Gemilang廠房裝嵌中，此車採用「城市脈搏」塗裝，為九巴繼引入配Enviro500車身的AVBE後，近10年來首度引入非歐洲國家車身的B9TL。
 
-此巴士被九巴包裝成「紅巴2.0」，巴士的路線顯示器改用LCD顯示屏，車廂改用Lazzerini Ethos座椅，新車車頭的九巴標誌則換上沁光燈，樓梯加裝了橙色LED照明燈，並將防撞墊加厚一倍。減少車廂電線接駁，方便更換維修，改用了無線落車鐘，每個落車鐘都有獨立識別碼，供車廂接受器辨識，防止干擾誤鳴。而落車門上方改用動態乘客資訊系統取代「請勿下車」燈箱。上落車門改用巴塞隆拿Masats電動門，惟已轉用新款緊急開門掣。全數3輛已於2018年9月18日至9月24日出牌。2019年3月14日，AVG1-AVG3正式投入服務，主力行走往返[屯門碼頭至](../Page/屯門碼頭公共運輸交匯處.md "wikilink")[旺角東站之](../Page/旺角東站公共運輸交匯處.md "wikilink")[59X綫](https://zh.wikipedia.org/wiki/九龍巴士59X線 "wikilink")。
+此巴士被九巴宣傳成「紅巴2.0」，巴士的路線顯示器改用LCD顯示屏，車廂改用Lazzerini Ethos座椅，樓梯加裝了橙色LED照明燈，並將防撞墊加厚一倍。減少車廂電線接駁，方便更換維修，改用了無線落車鐘，每個落車鐘都有獨立識別碼，供車廂接受器辨識，防止干擾誤鳴。而落車門上方改用動態乘客資訊系統取代「請勿下車」燈箱。上落車門改用巴塞隆拿Masats電動門，惟已轉用新款緊急開門掣。全數3輛已於2018年9月18日至9月24日出牌。2019年3月14日，AVG1-AVG3正式投入服務，主力行走往返[屯門碼頭至](../Page/屯門碼頭公共運輸交匯處.md "wikilink")[旺角東站之](../Page/旺角東站公共運輸交匯處.md "wikilink")[59X綫](https://zh.wikipedia.org/wiki/九龍巴士59X線 "wikilink")。
 
 AVG1 at Mong Kok East Station (20190314132228).jpg|投入運營首日的九巴Gemilang車身B9TL駛入[旺角東站](../Page/旺角東站公共運輸交匯處.md "wikilink") VT4112-AVG3-59X.jpg|thumb|配Gemilang車身的九巴B9TL樣辦車AVG3
 
@@ -175,9 +163,7 @@ AVG1 at Mong Kok East Station (20190314132228).jpg|投入運營首日的九巴Ge
 
 2016年，此批車中的半客車版於年驗時更換為玫瑰花紋座椅皮套，原車隊編號401改為710。
 
-2017年底至2018年初，龍運把701、709先後更換為Hanover綠色磁翻版路線顯示器。其後2018年中全數更換為Hanover綠色磁翻版路線顯示器。
-
-7XX於2018年7月全數更換LED光管照明。
+2017年底至2018年初，龍運把701、709先後更換為Hanover綠色磁翻版路線顯示器。其後2018年中大部分已更換為Hanover黃色磁翻版路線顯示器。701-710於2018年7月全數更換LED光管照明。
 
 #### 城巴
 
@@ -191,7 +177,7 @@ AVG1 at Mong Kok East Station (20190314132228).jpg|投入運營首日的九巴Ge
 
 同年12月19日，該車被[香港巴士迷會租用](https://zh.wikipedia.org/wiki/香港巴士迷會 "wikilink")，舉行會員遊河活動，這是該車首次在有載客的情況下於市區道路上現身。
 
-翌日12月20日，正式出外載客，並投入服務於[260線](https://zh.wikipedia.org/wiki/CTB "wikilink")，直至2011年9月，被調離赤柱區路線、並改為行走[690線](https://zh.wikipedia.org/wiki/過海隧道巴士690線 "wikilink")。
+翌日12月20日，正式出外載客，並投入服務於[260線](https://zh.wikipedia.org/wiki/CTB "wikilink")，直至2011年9月，被調離赤柱區路線、並編定行走[690線](https://zh.wikipedia.org/wiki/過海隧道巴士690線 "wikilink")。
 
 7500於2015年7月加設電子路線圖。
 
@@ -199,7 +185,7 @@ AVG1 at Mong Kok East Station (20190314132228).jpg|投入運營首日的九巴Ge
 
 2014年3月，Wrightbus International宣布新創建集團將為城巴及新巴訂購51輛富豪B9TL，包括1輛隸屬城巴，載客量原本聲稱達150人的12.8米樣辦車，同樣由馬來西亞吉隆坡Masdef裝嵌廠負責裝配Wright Eclipse Gemini第二代車身，此車亦為首輛由Masdef裝嵌廠裝嵌的B9TL及唯一由Masdef裝嵌廠裝嵌的B9TL 12.8米），此車與以往Wright Eclipse Gemini 2車身的B9TL不同之處在於車廂內的LED照明系統全面改用城巴機場快線Enviro500 MMC 12米（8000-8065）所採用的黃色LED照明及巴士側牌和尾牌改用Hanover「加長版」LED電子路線牌，並改用新巴Enviro500 MMC 11.3米（4040-4051）所採用的Lazzerini CityLight座椅。另外，由於此車左右兩側車身均設有閉路電視鏡頭而令原有顯示屏不能清楚顯示巴士上所有鏡頭的情況，需要另行裝設尺寸稍大的閉路電視顯示屏。此車已於2014年9月29日抵港，車隊編號為6500，並於2014年10月29日進行首次驗車。
 
-基於Masdef裝嵌廠的裝嵌質素問題而需要延至2015年3月17日才獲發牌，車牌號碼為TG2476，與Enviro500 MMC 12.8米（6300）一樣入籍屯門車廠（N），最終載客量因運輸署限制下僅為146人，與6300相同，並於3月20日首航969C線。現時此車於上下午繁忙時段行走969C及969X線，並於平日上午行走B3線、假日行走B3X路線。暫時這輛巴士並不接受任何商業廣告刊登於車上。
+基於Masdef裝嵌廠的裝嵌質素問題而需要延至2015年3月17日才獲發牌，車牌號碼為TG2476，與Enviro500 MMC 12.8米（6300）一樣入籍屯門車廠（N），最終載客量因運輸署限制下僅為146人，與6300相同，並於3月20日首航969C線。現時此車於上下午繁忙時段行走969C及969X線，並於平日行走B3系列路線。暫時這輛巴士並不接受任何商業廣告刊登於車上。
 
 ##### 9500-9529
 
@@ -229,17 +215,21 @@ AVG1 at Mong Kok East Station (20190314132228).jpg|投入運營首日的九巴Ge
 
 ##### 319-386
 
-[UU9137-375-K75P.jpg](https://zh.wikipedia.org/wiki/File:UU9137-375-K75P.jpg "fig:UU9137-375-K75P.jpg") 港鐵巴士2014年9月已訂購62輛11.3米富豪B9TL（合約編號：K0584-14E），預計取代餘下全數丹尼士三叉戟10.6及11.3米，全數一手巴士(6XX)及部份前[新世界第一巴士](../Page/新世界第一巴士.md "wikilink")車隊（7XX）。在首批新車抵港前，港鐵於公佈2015年中期業績的同時，公佈加訂6輛同型號巴士，以騰出6輛Enviro200（9XX）單層巴士在鐵路服務受影響時作緊急備用。港鐵預計全數共68輛巴士將於2017年前，陸續投入到全線17條路線服務，預計載客量可增加約12%。而富豪B9TL將成為港鐵巴士的主力。
+[UU9137-375-K75P.jpg](https://zh.wikipedia.org/wiki/File:UU9137-375-K75P.jpg "fig:UU9137-375-K75P.jpg") 港鐵巴士2014年9月已訂購62輛11.3米富豪B9TL（合約編號：K0584-14E），預計取代餘下全數丹尼士三叉戟10.6及11.3米，全數一手巴士(6XX)及前[新世界第一巴士](../Page/新世界第一巴士.md "wikilink")車隊（7XX）。在首批新車抵港前，港鐵於公佈2015年中期業績的同時，公佈加訂6輛同型號巴士，以騰出6輛Enviro200（9XX）單層巴士在鐵路服務受影響時作緊急備用。港鐵預計全數共68輛巴士將於2017年前，陸續投入到全線17條路線服務，預計載客量可增加約12%。而富豪B9TL將成為港鐵巴士的主力。
 
-該批車與城巴及新巴同款車的車內配置相近，分別在於巴士車頭擋風玻璃設有樹擋、只在車頭加裝閉路電視鏡頭以及不設電視擋。採用VOITH DIWA864.5波箱。
+該批車與城巴及新巴同款車的車內配置相近，分別在於巴士車頭擋風玻璃設有樹擋、只在車頭加裝閉路電視鏡頭以及不設電視擋，駕駛室裝飾較九巴B9TL單調，波箱則採用VOITH DIWA864.5波箱。
 
 該批巴士已於2015年10月5日起陸續運抵香港，全數巴士均設有樹擋，載客量亦與隸屬新巴的首批20輛11.3米富豪B9TL完全相同，為126人。首輛投入服務的巴士（車隊編號319）在2016年1月13日出牌，車牌為TX4303，於2016年1月20日投入服務，全數於2016年1月13日至2017年12月13日出牌。
+
+此車型已全數改用新款八達通機，並陸續加設[LECIP報站系統](https://zh.wikipedia.org/wiki/LECIP "wikilink")。
 
 #### 愉景灣交通服務
 
 ##### DBAY208-213
 
-[DBAY208_DB03R.JPG](https://zh.wikipedia.org/wiki/File:DBAY208_DB03R.JPG "fig:DBAY208_DB03R.JPG")路線。\]\] [愉景灣巴士](../Page/愉景灣巴士.md "wikilink")向新巴及城巴借用的[Enviro500](https://zh.wikipedia.org/wiki/Enviro500 "wikilink") 12米雙層巴士在愉景灣道路試行成功，愉景灣交通服務向富豪車廠訂購6輛12米Wright Eclipse Gemini 2車身B9TL巴士，組裝車身工序於2014年中展開，首輛巴士已於2015年6月13日抵港，由於該公司從未有雙層巴士出牌的關係，此車套用了[城巴](../Page/城巴.md "wikilink")[利蘭奧林比安](https://zh.wikipedia.org/wiki/利蘭奧林比安 "wikilink")11米空調巴士（171、180、182、185-187）的客運營業證。首部巴士其後已到土瓜灣驗車中心完成車輛檢驗。值得一提的是，這部是該公司的首款雙層巴士。此車於2015年7月30日出牌，車隊編號DBAY208，車牌號碼TN7303。首四輛車（DBAY210除外）於同年8月12日參與新車啟用儀式，其中DBAY208搭載記者行走DB03R，此車將於同年8月16日正式首航。
+[DBAY208_DB03R.JPG](https://zh.wikipedia.org/wiki/File:DBAY208_DB03R.JPG "fig:DBAY208_DB03R.JPG")路線。\]\] [愉景灣巴士](../Page/愉景灣巴士.md "wikilink")向新巴及城巴借用的[Enviro500](https://zh.wikipedia.org/wiki/Enviro500 "wikilink") 12米雙層巴士在愉景灣道路試行成功，愉景灣交通服務向富豪車廠訂購6輛12米Wright Eclipse Gemini 2車身B9TL巴士，組裝車身工序於2014年中展開，首輛巴士已於2015年6月13日抵港，由於該公司從未有雙層巴士出牌的關係，此車套用了[城巴](../Page/城巴.md "wikilink")[利蘭奧林比安](https://zh.wikipedia.org/wiki/利蘭奧林比安 "wikilink")11米空調巴士（171、180、182、185-187）的客運營業證。首部巴士其後已到土瓜灣驗車中心完成車輛檢驗。此車於2015年7月30日出牌，車隊編號DBAY208，車牌號碼TN7303。首四輛車（DBAY210除外）於同年8月12日參與新車啟用儀式，其中DBAY208搭載記者行走DB03R，此車將於同年8月16日正式首航。
+
+此車型採用與九巴Enviro200、城巴Enviro400同款的Lazzerini Pratico 2840座椅，是全港唯一採用這款座椅的12米雙層巴士。
 
 #### 軼事
 

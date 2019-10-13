@@ -70,6 +70,7 @@ KTV APP與卡拉ok最大的相異之處，在於使用的麥克風差別，受�
   - [笑傲江湖(KTV)](https://zh.wikipedia.org/wiki/笑傲江湖\(KTV\) "wikilink")
   - [享溫馨(KTV)](https://zh.wikipedia.org/wiki/享溫馨\(KTV\) "wikilink")
   - [U2KTV](https://zh.wikipedia.org/wiki/U2KTV "wikilink")
+  - [星光大道KTV](https://zh.wikipedia.org/wiki/星光大道KTV "wikilink")
 
 ### 香港
 

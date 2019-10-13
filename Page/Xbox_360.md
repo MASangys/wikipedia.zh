@@ -113,8 +113,8 @@ Xbox360的圖型處理器（GPU）是[ATI全新設計的R](https://zh.wikipedia.
   - 500MHz運行頻率GPU（90納米製程，2.32億個晶體管）
   - 500 MHz 10MB內嵌DRAM記憶體（90納米製程，1.05億個晶體管）
       - [NEC設計的eDRAM有處理彩色](https://zh.wikipedia.org/wiki/NEC "wikilink")、阿爾法混合（Alpha Blending）、Z軸／模板緩存（Zbuffer）、抗鋸齒（Anti-alias）的邏輯功能。
-  - 48路並聯[浮點動態著色管線](https://zh.wikipedia.org/wiki/浮點 "wikilink")，由於是統一著色結構，所以頂點及像素命令皆可處理
-      - 每條管線擁有4個邏輯運算單元用以處理頂點或像素著色命令
+  - 48路並聯[浮點動態著色管線](https://zh.wikipedia.org/wiki/浮點 "wikilink")，由於是統一著色結構，所以[頂點及像素命令皆可處理](../Page/頂點_\(電腦圖學\).md "wikilink")
+      - 每條管線擁有4個邏輯運算單元用以處理[頂點或像素著色命令](../Page/頂點_\(電腦圖學\).md "wikilink")
       - 統一著色運算架構（這代表每條管線都能夠運算像素或頂點著色命令）
       - 支持[DirectX](../Page/DirectX.md "wikilink") 9.0的3.0著色模式，對有[DirectX](../Page/DirectX.md "wikilink")10著色模式實現有限度支持
       - 每個時鐘週期可以處理兩個著色命令

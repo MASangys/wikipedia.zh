@@ -4,7 +4,7 @@ Discuz\!的原始碼可免費下載，但它并不是[開源軟件](https://zh.w
 
 ## 歷史
 
-2001年，Crossday成立Crossday Bulletin（CDB）(即後來Discuz\!)，為Discuz\!的開拓。
+2001年，Crossday成立Crossday Bulletin（CDB，即後來Discuz\!)，為Discuz\!的開拓。
 
 2002年3月，Crossday根據網路論壇程式"XMB"的英文版作為核心，開發Crossday Bulletin（CDB）。經徹底中文化及改良後，於同月正式發佈Crossday Bulletin。後經商業評估，將論壇改名為Discuz\!，並在2002年10月15日發表Discuz\! 1.0。
 

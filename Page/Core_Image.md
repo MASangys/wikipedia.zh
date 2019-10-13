@@ -6,7 +6,7 @@ Core Image較簡單的[GUI增強有更深遠的含意](https://zh.wikipedia.org/
 
 在Core Image內部，影像是以[浮點數的數值在指定的](https://zh.wikipedia.org/wiki/浮點數 "wikilink")[色彩空間](../Page/色彩空間.md "wikilink")來表示像素的成份。使用浮點數可以得到較高的精確度。多個效果可以藉由結合數個影像單位（Image Unit）成為一個順序的次序（稱為特效堆疊，effects stack）來達成。然而，Core Image在處理堆疊時候並不產生每個中介的影像；反之，它一次就計算效果的數學之運算，然後把這個結果應用到影像上。結論是這樣的方法，不會使得當更多的特效加入時，而使得效能降低 - 因每個像素都只會被處理一次，而不管特效堆疊變得多複雜。
 
-Core Image是設計來借用高階顯示卡上[繪圖處理器的某些形式之能力](https://zh.wikipedia.org/wiki/繪圖處理器 "wikilink")。這會得到大量效能上的利益，由於巨大的影像資料不需要在主記憶體匯流排中搬移，這是即時影像處理[頻寬限制的一個地方](https://zh.wikipedia.org/wiki/頻寬 "wikilink")。然而，如果沒有適合的圖形處理器，Core Image就會退回到下一個最好的選擇 - 利用[G5和](https://zh.wikipedia.org/wiki/G5 "wikilink")[G4處理器上的](https://zh.wikipedia.org/wiki/G4 "wikilink")[Altivec](../Page/Altivec.md "wikilink")處理能力，或者就只好執行[G3上的](https://zh.wikipedia.org/wiki/G3 "wikilink")'一般'程式碼。Core Image會自動地在目前機器架構下的選擇最快方法。然而，逼真地即時影像處理需要一個可相容的繪圖處理器。
+Core Image是設計來借用高階顯示卡上[繪圖處理器的某些形式之能力](https://zh.wikipedia.org/wiki/繪圖處理器 "wikilink")。這會得到大量效能上的利益，由於巨大的影像資料不需要在主記憶體匯流排中搬移，這是即時影像處理[頻寬限制的一個地方](https://zh.wikipedia.org/wiki/頻寬 "wikilink")。然而，如果沒有適合的圖形處理器，Core Image就會退回到下一個最好的選擇 - 利用[G5和](https://zh.wikipedia.org/wiki/G5 "wikilink")[G4處理器上的](https://zh.wikipedia.org/wiki/G4 "wikilink")[AltiVec](../Page/AltiVec.md "wikilink")處理能力，或者就只好執行[G3上的](https://zh.wikipedia.org/wiki/G3 "wikilink")'一般'程式碼。Core Image會自動地在目前機器架構下的選擇最快方法。然而，逼真地即時影像處理需要一個可相容的繪圖處理器。
 
 ## 影像單位
 

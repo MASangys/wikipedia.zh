@@ -83,14 +83,14 @@ VEP 階段則是修正 EA-6B 原使用的飛控系統，以提升飛行的操縱
   - 最多5具 [ALQ-99 戰術干擾系統莢艙（Tactical Jamming System, TJS）](https://zh.wikipedia.org/wiki/ALQ-99_戰術干擾系統莢艙 "wikilink")
   - 最多5具 300 加侖副油箱
 
-## 参考文献
-
 ## 外部連結
 
   - [US Navy Fact file - EA-6B](http://www.navy.mil/navydata/fact_display.asp?cid=1100&tid=900&ct=1)
   - [諾斯洛普·格魯曼](http://www.northropgrumman.com)
 
-[Category:電子作戰飛機](https://zh.wikipedia.org/wiki/Category:電子作戰飛機 "wikilink") [Category:舰载机](https://zh.wikipedia.org/wiki/Category:舰载机 "wikilink") [Category:雙發噴射機](https://zh.wikipedia.org/wiki/Category:雙發噴射機 "wikilink")
+## 参考文献
+
+[Category:電子作戰飛機](https://zh.wikipedia.org/wiki/Category:電子作戰飛機 "wikilink") [Category:舰载机](https://zh.wikipedia.org/wiki/Category:舰载机 "wikilink") [Category:雙發噴射機](https://zh.wikipedia.org/wiki/Category:雙發噴射機 "wikilink") [Category:格魯曼飛機](https://zh.wikipedia.org/wiki/Category:格魯曼飛機 "wikilink")
 
 1.  [Victims names list by the victims' relatives committee](http://www.valdifiemme.it/comitato3febbraio/vittime.htm)
 2.  [1](http://world.huanqiu.com/exclusive/2013-03/3724361.html)

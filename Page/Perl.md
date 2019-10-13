@@ -2,7 +2,7 @@
 
 Perl借用了[C](https://zh.wikipedia.org/wiki/C语言 "wikilink")、[sed](https://zh.wikipedia.org/wiki/sed "wikilink")、[awk](../Page/AWK.md "wikilink")、[shell脚本以及很多其他程式語言的特性](../Page/Unix_shell.md "wikilink")。其中最重要的特性是Perl内部集成了[正则表达式](../Page/正则表达式.md "wikilink")的功能，以及巨大的第三方代码库[CPAN](https://zh.wikipedia.org/wiki/CPAN "wikilink")。
 
-2000年开始，目前[拉里·沃尔](../Page/拉里·沃尔.md "wikilink")开始開發[Perl 6](../Page/Perl_6.md "wikilink")，來作為Perl的後繼；不過，Perl 6語言的語法有很多轉變，所以Perl 6被視為Perl家族中的另一個語言。\[3\]
+2000年开始，[拉里·沃尔](../Page/拉里·沃尔.md "wikilink")著手開發[Perl 6來作為Perl的後繼](../Page/Perl_6.md "wikilink")，Perl 6語言的語法有很多轉變，也被視為Perl家族中的另一個語言。\[3\]
 
 Perl语言的应用范围很广，除CGI以外，Perl被用于图形编程、系统管理、网络编程、金融、生物以及其他领域。由于其灵活性，Perl被称为[脚本语言](../Page/脚本语言.md "wikilink")中的[瑞士军刀](https://zh.wikipedia.org/wiki/瑞士军刀 "wikilink")。\[4\]
 

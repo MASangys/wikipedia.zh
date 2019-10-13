@@ -407,7 +407,7 @@ Beyond結束了在台灣的宣傳期，赴日本去創作新專輯為著在日�
 
 收錄於《樂與怒》專輯的歌曲《海闊天空》，成為了Beyond最後一首由黃家駒主唱的派台作品，亦是黃家駒客死異鄉以後的絕響；而其他黃家駒遺作有《情人》、《為了你，為了我》、《早班火車》等作品。 Beyond亦憑《海闊天空》一曲奪得當年的十大中文金曲及叱吒樂壇流行榜 —— “叱吒樂壇我最喜愛的本地創作歌曲大獎”。
 
-Beyond於日本的兩年期間，共計推出兩張日語大碟《超越》、《This Is Love 1》，以及三張日語[細碟](https://zh.wikipedia.org/wiki/細碟 "wikilink")《The Wall～長城～》、《リソラバ～International～》、《くちびるを奪いたいc/w 遙かなる夢に～Far away～》。
+Beyond於日本的兩年期間，共計推出兩張日語大碟《超越》、《This Is Love 1》，以及三張日語[細碟](https://zh.wikipedia.org/wiki/細碟 "wikilink")《[The Wall～長城～](https://zh.wikipedia.org/wiki/The_Wall～長城～ "wikilink")》、《リソラバ～International～》、《くちびるを奪いたいc/w 遙かなる夢に～Far away～》。
 
 ### 1994–2003：三人時期及個人發展
 

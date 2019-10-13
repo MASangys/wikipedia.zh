@@ -510,6 +510,16 @@ Photoshop CC目前提供以下语言版本：
   - [Affinity Designer](../Page/Affinity_Designer.md "wikilink")
   - [Adobe Experience Design](../Page/Adobe_Experience_Design.md "wikilink")
 
+## 工作變遷
+
+|                               |
+| ----------------------------- |
+| 星期一至日 6:10-6:30/21:30-21:45項目 |
+| (2019-09-29 – 2019-10-28)     |
+| Photoshop CS6 試用版             |
+| 上一則                           |
+| Abobe Photoshop CS6試用版        |
+
 ## 参考文献
 
 ## 外部連結

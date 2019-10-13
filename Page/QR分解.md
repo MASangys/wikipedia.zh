@@ -19,7 +19,7 @@ QR分解的实际计算有很多方法，例如[Givens旋转](https://zh.wikiped
 
 ### 使用Householder变换
 
-[Householder变换将一个向量关于某个](https://zh.wikipedia.org/wiki/Householder变换 "wikilink")[平面](../Page/平面.md "wikilink")或者[超平面进行反射](https://zh.wikipedia.org/wiki/超平面 "wikilink")。我们可以利用这个操作对\(m \times n ( m \geqq n)\)的矩阵\(A\)进行QR分解。
+[Householder变换将一个向量关于某个](https://zh.wikipedia.org/wiki/Householder变换 "wikilink")[平面或者](../Page/平面_\(数学\).md "wikilink")[超平面进行反射](https://zh.wikipedia.org/wiki/超平面 "wikilink")。我们可以利用这个操作对\(m \times n ( m \geqq n)\)的矩阵\(A\)进行QR分解。
 
 矩阵\(Q\)可以被用于对一个向量以一种特定的方式进行反射变换，使得它除了一个维度以外的其他所有分量都化为0。
 

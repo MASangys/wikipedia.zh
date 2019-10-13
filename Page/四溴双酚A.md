@@ -6,4 +6,4 @@
 
 ## 参考资料
 
-[Category:酚](https://zh.wikipedia.org/wiki/Category:酚 "wikilink") [Category:有机溴化合物](https://zh.wikipedia.org/wiki/Category:有机溴化合物 "wikilink") [Category:持久性有機污染物](https://zh.wikipedia.org/wiki/Category:持久性有機污染物 "wikilink")
+[Category:双酚](https://zh.wikipedia.org/wiki/Category:双酚 "wikilink") [Category:有机溴化合物](https://zh.wikipedia.org/wiki/Category:有机溴化合物 "wikilink") [Category:持久性有機污染物](https://zh.wikipedia.org/wiki/Category:持久性有機污染物 "wikilink")

@@ -6,7 +6,7 @@
   - 大島時夫： [關智一](../Page/關智一.md "wikilink")
   - 白河小百合： [久川綾](https://zh.wikipedia.org/wiki/久川綾 "wikilink")
   - クリス・ホーケン：[上田祐司](https://zh.wikipedia.org/wiki/うえだゆうじ "wikilink")
-  - シンディ・クライン：[新谷真弓](https://zh.wikipedia.org/wiki/新谷真弓 "wikilink")
+  - シンディ・クライン：[新谷真弓](../Page/新谷真弓.md "wikilink")
   - テレサ・ウォン：[沢海陽子](https://zh.wikipedia.org/wiki/沢海陽子 "wikilink")
   - 鬼塚指令：[玄田哲章](../Page/玄田哲章.md "wikilink")
 

@@ -21,7 +21,7 @@ NTFS的开发者包括：[Tom Miller](https://zh.wikipedia.org/wiki/Tom_Miller "
   - v1.0，随[Windows NT 3.1在](../Page/Windows_NT_3.1.md "wikilink")1993年中旬发布\[3\]。v1.0和v1.1和之后的所有版本不兼容。也即使用NT 3.5x写入的卷无法被NT 3.1读取。该问题的一个解决方案是使用NT 3.5x光盘更新NT 3.1，并添加对FAT系统的长文件名支持。\[4\]
   - v1.1，随[Windows NT 3.5于](../Page/Windows_NT_3.5.md "wikilink")1994年秋季发布。
   - v1.2，随[Windows NT 3.51于](https://zh.wikipedia.org/wiki/Windows_NT_3.51 "wikilink")1995年中旬发布。支持[压缩文件](https://zh.wikipedia.org/wiki/压缩文件 "wikilink")、[命名流](https://zh.wikipedia.org/wiki/命名流 "wikilink")、基于ACL（访问控制列表）的安全性等功能。\[5\]
-  - v3.0，随[Windows 2000发布](../Page/Windows_2000.md "wikilink")。支持[磁盘限额](https://zh.wikipedia.org/wiki/磁盘限额 "wikilink")、[加密](https://zh.wikipedia.org/wiki/加密 "wikilink")、[稀疏文件](../Page/稀疏文件.md "wikilink")、[重解析点](../Page/NTFS重解析点.md "wikilink")，[更新序列数](https://zh.wikipedia.org/wiki/更新序列数 "wikilink")（USN）日志、$Extend文件夹（及其中的文件），并改进[安全描述符](../Page/安全描述符.md "wikilink")设计方案，允许使用同样的安全设置的多个文件共享一个安全描述符。\[6\]
+  - v3.0，随[Windows 2000发布](../Page/Windows_2000.md "wikilink")。支持[磁盘限额](https://zh.wikipedia.org/wiki/磁盘限额 "wikilink")、[加密](../Page/加密.md "wikilink")、[稀疏文件](../Page/稀疏文件.md "wikilink")、[重解析点](../Page/NTFS重解析点.md "wikilink")，[更新序列数](https://zh.wikipedia.org/wiki/更新序列数 "wikilink")（USN）日志、$Extend文件夹（及其中的文件），并改进[安全描述符](../Page/安全描述符.md "wikilink")设计方案，允许使用同样的安全设置的多个文件共享一个安全描述符。\[6\]
   - v3.1随[Windows XP于](../Page/Windows_XP.md "wikilink")2001年秋季发布，而后也用于Windows Vista 和Windows 7。在MFT中提供[冗余MFT记录数扩展项](https://zh.wikipedia.org/wiki/冗余MFT记录数 "wikilink")，可用于恢复受损的MFT文件。
 
 不应将NTFS.sys文件版本（如[Windows 2000中的](../Page/Windows_2000.md "wikilink") v5.0）和NTFS磁盘格式版本（如[Windows XP开始的v](../Page/Windows_XP.md "wikilink")3.1）相混淆。\[7\]

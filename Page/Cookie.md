@@ -1,4 +1,4 @@
-**Cookie**（复数形態Cookies），又稱為「小甜餅」。類型為「**小型文字檔案**」\[1\]，指某些[网站为了辨别用户身份而储存在用户本地终端](https://zh.wikipedia.org/wiki/网站 "wikilink")（Client Side）上的数据（通常经过[加密](../Page/加密.md "wikilink")）。由[网景公司的前雇员](https://zh.wikipedia.org/wiki/网景公司 "wikilink")[盧·蒙特利](../Page/盧·蒙特利.md "wikilink")在1993年3月發明\[2\]。最初定義於RFC 2109。目前使用最广泛的 Cookie标准却不是RFC中定义的任何一个，而是在网景公司制定的标准上进行扩展后的产物。p.
+**Cookie**（复数形態Cookies），又稱為「小甜餅」。類型為「**小型文字檔案**」\[1\]，指某些[网站为了辨别用户身份而储存在用户本地终端](https://zh.wikipedia.org/wiki/网站 "wikilink")（Client Side）上的数据（通常经过[加密](../Page/加密.md "wikilink")）。由[网景公司的前雇员](https://zh.wikipedia.org/wiki/网景公司 "wikilink")[盧·蒙特利](../Page/盧·蒙特利.md "wikilink")在1993年3月發明\[2\]。最初定義於RFC 2109。目前使用最广泛的 Cookie标准却不是RFC中定义的任何一个，而是在网景公司制定的标准上进行扩展后的产物。
 
 ## 分类
 

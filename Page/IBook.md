@@ -1,22 +1,22 @@
 [IBook_flavors.jpg](https://zh.wikipedia.org/wiki/File:IBook_flavors.jpg "fig:IBook_flavors.jpg") **iBook**是[苹果电脑公司設計生產的](https://zh.wikipedia.org/wiki/苹果电脑公司 "wikilink")[筆記型电脑系列產品](https://zh.wikipedia.org/wiki/筆記型电脑 "wikilink")。
 
-隨著 [iMac](https://zh.wikipedia.org/wiki/iMac "wikilink") 的成功和[蘋果電腦公司的市場策略轉變](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")，針對消費者和教育市場推出了一個全新的[筆記型電腦](../Page/筆記型電腦.md "wikilink")產品系列：“iBook”。
+隨著 [iMac](https://zh.wikipedia.org/wiki/iMac "wikilink") 的成功和[蘋果電腦公司的市場策略轉變](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")，針對消費者和教育市場推出了一個全新的[筆記型電腦](../Page/筆記型電腦.md "wikilink")產品系列“iBook”。
 
-雖然瞄準低端的消費群體，但相對於多數的其他電腦生產商常見的市場策略：把過時的專業科技銷售給一般消費市場，蘋果電腦獨創地把 iBook 設計為其專業筆記型電腦 [PowerBook G3系列的一種衍生性產品系列](https://zh.wikipedia.org/wiki/PowerBook_G3 "wikilink")，採用多種關鍵性的特色使得它能在早期市場上成功。
+雖然瞄準低端的消費群體，但相對於多數的其他電腦生產商常見的市場策略：把過時的專業科技銷售給一般消費市場，蘋果電腦獨創地把 iBook 設計為其專業筆記型電腦 [PowerBook G3系列的一種衍生性產品系列](https://zh.wikipedia.org/wiki/PowerBook_G3 "wikilink")，仍然創新的採用一些新設計再包裝銷售，多種關鍵性的特色使得它能在早期市場上獨樹一幟並取得成功。
 
 iBook最终在2006年發布的[MacBook](../Page/MacBook.md "wikilink")與2008年發布的[MacBook Air所取代](../Page/MacBook_Air.md "wikilink")。
 
 ## iBook: iMac to go.
 
-经过一番深思熟虑，[史蒂夫·賈伯斯](https://zh.wikipedia.org/wiki/史蒂夫·賈伯斯 "wikilink") 在1999年7月21日於[紐約的](https://zh.wikipedia.org/wiki/紐約 "wikilink")[Macworld Conference & Expo](https://zh.wikipedia.org/wiki/Macworld_Conference_&_Expo "wikilink")，发布了以消費者為導向的 iBook [筆記型電腦](../Page/筆記型電腦.md "wikilink")。它的設計哲學受到[蘋果的桌上型電腦](https://zh.wikipedia.org/wiki/蘋果 "wikilink") [iMac](https://zh.wikipedia.org/wiki/iMac "wikilink") 之影響，擁有大的特殊外觀，半透明，和彩色的塑膠外殼。它的市場口號是 "iMac to go"。
+经过一番深思熟虑，[史蒂夫·賈伯斯在](https://zh.wikipedia.org/wiki/史蒂夫·賈伯斯 "wikilink")1999年7月21日於[紐約的](https://zh.wikipedia.org/wiki/紐約 "wikilink")[Macworld Conference & Expo](https://zh.wikipedia.org/wiki/Macworld_Conference_&_Expo "wikilink")，发布了以消費者為導向的 iBook[筆記型電腦](../Page/筆記型電腦.md "wikilink")。它的設計哲學受到[蘋果的桌上型電腦](https://zh.wikipedia.org/wiki/蘋果 "wikilink")[iMac之影響](https://zh.wikipedia.org/wiki/iMac "wikilink")，擁有大的特殊外觀，半透明，和彩色的塑膠外殼。它的市場口號是"iMac to go"。
 
 針對的消費者群包含年輕的小孩，因此在中心部位裝有手提把手。[蘋果電腦讓Phil](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink") Schiller提著 iBook 然後從高處跳下（到墊子上），來展示他的外殼的耐久性。和 iMac 一樣，iBook 使用 [PowerPC G3](https://zh.wikipedia.org/wiki/PowerPC_G3 "wikilink") 晶片，且包含非蘋果的傳統介面。[USB](../Page/USB.md "wikilink")，[Ethernet](https://zh.wikipedia.org/wiki/Ethernet "wikilink")，和[數據機埠都是標準配備](https://zh.wikipedia.org/wiki/數據機 "wikilink")，以及[光碟機](https://zh.wikipedia.org/wiki/光碟機 "wikilink")。這些沒有遮蓋的輸出輸入埠擺放在側邊，因為遮蓋被認為是容易損壞的。同樣地，iBook的彈簧鎖是隱藏的，也就是關閉螢幕時為了嵌合螢幕與主機所使用的勾子。在螢幕蓋上主機前的時候，螢幕上的小勾子會被磁鐵吸下來，然後嵌合主機。iBook 在底下側邊有電源連接頭，允許讓多個 iBook 可以在客制化的充電架上輕易的充電。
 
-第一代的 iBook 曾經是售出擁有內建[無線網路的第一部主流電腦](https://zh.wikipedia.org/wiki/無線網路 "wikilink")，他的天線內建在顯示面板的邊緣（註，最原先的 iBook 需要一塊選購的 AirPort 擴充卡來使用無線網路）。[蘋果電腦與](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")[朗訊電訊合作](https://zh.wikipedia.org/wiki/朗訊電訊 "wikilink")，開創 iBook 的無線網路能力，成為一個工業的標準。蘋果也在同時推出[AirPort](../Page/AirPort.md "wikilink")無線基地台。
+第一代的 iBook 是曾經售出擁有內建[無線網路的第一部主流電腦](https://zh.wikipedia.org/wiki/無線網路 "wikilink")，他的天線內建在顯示面板的邊緣（註，最原先的 iBook 需要一塊選購的 AirPort 擴充卡來使用無線網路）。[蘋果電腦與](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")[朗訊電訊合作](https://zh.wikipedia.org/wiki/朗訊電訊 "wikilink")，開創 iBook 的無線網路能力，成為一個工業的標準。蘋果也在同時推出[AirPort](../Page/AirPort.md "wikilink")無線基地台，大大的加強了電腦的攜帶性。
 
-任何東西都變成熱烈的爭議 - 設計[美學](https://zh.wikipedia.org/wiki/美學 "wikilink")，特色，重量，效能，價格等等。iBook 在那時候比 PowerBook 稍微重，但只有更少的規格。很久的謠傳特色有觸控式螢幕，超長時效的電池都不存在。iBook 由於它獨特的設計，被標榜為 "蛤殼"，在中國也被戲稱為"馬桶座"。
+蘋果推出的任何東西都變成熱烈的爭議——設計[美學](https://zh.wikipedia.org/wiki/美學 "wikilink")，特色，重量，效能，價格等等。iBook 在那時候比 PowerBook 稍微重，但只有更少的規格。很久的謠傳特色有觸控式螢幕，超長時效的電池都不存在。iBook 由於它獨特的設計，被標榜為 "蛤殼"，在中國也被戲稱為"馬桶座"。
 
-不管這些，iBook 有成功的銷售佳績。產品線不斷地得到[處理器](https://zh.wikipedia.org/wiki/處理器 "wikilink")、[記憶體](https://zh.wikipedia.org/wiki/記憶體 "wikilink")，和[硬碟的升級](https://zh.wikipedia.org/wiki/硬碟 "wikilink")。就像 iMac，推出多種新的顏色機種；[FireWire](https://zh.wikipedia.org/wiki/FireWire "wikilink") 和視訊輸出也被加入。
+但不管這些隨之而來的批評如何，在電子產品的銷售史上， iBook 有成功的銷售佳績和口碑。產品線不斷地得到[處理器](https://zh.wikipedia.org/wiki/處理器 "wikilink")、[記憶體](https://zh.wikipedia.org/wiki/記憶體 "wikilink")，和[硬碟的升級](https://zh.wikipedia.org/wiki/硬碟 "wikilink")。就像 iMac，推出多種新的顏色機種；[FireWire](https://zh.wikipedia.org/wiki/FireWire "wikilink") 和視訊輸出也被加入。
 
 ### 型式
 

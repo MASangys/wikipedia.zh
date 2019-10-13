@@ -161,7 +161,7 @@ RAID 50由於在上層把多組RAID 5構成Stripe，效能比起單純的RAID 5�
 
 ## 應用
 
-RAID2、3、4較少實際應用，因為RAID5已經涵蓋所需的功能，因此RAID2、3、4大多只在研究領域有實作，而實際應用上則以RAID5為主。
+RAID2、3、4較少實際應用，因為RAID0、RAID1、RAID5、RAID6和混合RAID已經涵蓋所需的功能，因此RAID2、3、4大多只在研究領域有實作，而實際應用上則以RAID0、RAID1、RAID5、RAID6和混合RAID為主。
 
 RAID4有應用在某些商用機器上，像是NetApp公司設計的NAS系統就是使用RAID4的設計概念。
 

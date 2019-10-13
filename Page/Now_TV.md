@@ -1032,12 +1032,6 @@ now寬頻電視在香港收費電視中開了很多先河，以互動功能為�
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p>2019年10月1日</p></td>
-<td style="text-align: center;"><p>100</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/now香港台" title="wikilink">now香港台</a></p></td>
-<td style="text-align: center;"><p>now香港台停播</p></td>
-</tr>
-<tr class="even">
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
@@ -2702,7 +2696,7 @@ Fashion First（532頻道）啟播，並以標清16:9制式傳送。
 
 <!-- end list -->
 
-  - 2019年10月1日，[now香港台](https://zh.wikipedia.org/wiki/now香港台 "wikilink")（100頻道）停播。
+  - 2019年10月1日，[now香港台](https://zh.wikipedia.org/wiki/now香港台 "wikilink")（100頻道）改為預覽[Now華劇台](../Page/Now華劇台.md "wikilink")（105頻道）直至10月31日。
 
 #### 停播[無綫網絡電視頻道組合](https://zh.wikipedia.org/wiki/無綫網絡電視 "wikilink")
 

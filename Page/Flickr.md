@@ -1,4 +1,4 @@
-**Flickr**為一家提供圖片分享的虛擬網路相冊。是[Web 2.0的最佳利用例子之一](../Page/Web_2.0.md "wikilink")。
+**Flickr**為一家提供圖片分享的網路相冊，是[Web 2.0的最佳利用例子之一](../Page/Web_2.0.md "wikilink")。
 
 其特點為私人圖片授權與標籤（Hashtag）分類，讓使用者能作為小型部落格。不同使用者可互相交流和建立社群。
 
@@ -71,6 +71,8 @@ NIPSA（**N**ot **I**n **P**ublic **S**ite **A**reas）為篩選使用者是否�
 
 所以，對於釋出作品的[版權](https://zh.wikipedia.org/wiki/版權 "wikilink")，該計畫的說明為：「很難根據版權法對相片進行分析，這不僅是由於世界各地的法律在保護範圍與期限方面各有不同，還由於相片本身通常缺少來源附註、時間及其他識別資訊。由於圖書館、博物館和其他文化機構經常依照其非營利目的對相片進行收集、保管、存檔與研究，因此他們具有豐富的相片處理經驗。但是，根據版權法，許多情況下文化機構無法成為版權持有者。因此，文化機構既無法授予他人使用相片的權限，也不能提供相片已流入公共領域的擔保。」，亦即，如果任何人要使用來自公眾相簿計畫的相片，必須先自行分析適用的法律。\[15\]
 
+## 維基共享資源
+
 在[維基共享資源](https://zh.wikipedia.org/wiki/維基共享資源 "wikilink")，已有超過七十四萬張來自此計畫的作品。
 
 ## 軟體架構
@@ -92,7 +94,7 @@ NIPSA（**N**ot **I**n **P**ublic **S**ite **A**reas）為篩選使用者是否�
 
 官方對外提供了 [API](https://zh.wikipedia.org/wiki/API "wikilink")，供外界程式設計師能夠自行開發、延伸的外部功能，讓中的內容跨越網站、軟體之間的代溝。如 [fd's Flickr Toys](http://flagrantdisregard.com/flickr/) 內的線上工具，均是搭配 [API所開發的程式](https://zh.wikipedia.org/wiki/API "wikilink")，其他軟體如網頁瀏覽器[Flock](../Page/Flock.md "wikilink")，也使用了 [API實現管理](https://zh.wikipedia.org/wiki/API "wikilink")、瀏覽相片的功能。
 
-## 中国大陆封锁
+## 防火长城封锁时期
 
 自2007年6月起，Flickr在[中国大陆](../Page/中国大陆.md "wikilink")遭遇[间歇性的封锁](https://zh.wikipedia.org/wiki/中華人民共和國網絡審查 "wikilink")。 [FlickrPhotosServerBlocked.JPG](https://zh.wikipedia.org/wiki/File:FlickrPhotosServerBlocked.JPG "fig:FlickrPhotosServerBlocked.JPG") 2007年6月7日正午12時30分（UTC+8），中国大陆开始大范围出现打开Flickr后却无法看到任何图片的情况，随后Flickr工作人员进行了技术测试，指出问题并非出在Flickr技术端而是中国政府的封锁。\[16\]\[17\] 据称图片无法显示的原因是由於[GFW過濾了Flickr图片服务器的域名farm](https://zh.wikipedia.org/wiki/GFW "wikilink")1.static.flickr.com和farm2.static.flickr.com。\[18\] 官方自始至终没有解释封禁原因，有网民猜测是《[成都晚报](https://zh.wikipedia.org/wiki/成都晚报 "wikilink")》[六四广告事件和](https://zh.wikipedia.org/wiki/六四 "wikilink")[厦门PX游行事件所致](https://zh.wikipedia.org/wiki/厦门PX项目 "wikilink")。\[19\] 2008年6月9日，中国驻[华盛顿大使馆发言人指](https://zh.wikipedia.org/wiki/华盛顿 "wikilink")“Flickr被封可能是因为中国官方为了保护儿童免受淫秽图片侵害”，大批中国网民对此封锁感到非常不满并对解释表示“不能接受”。\[20\]
 
@@ -118,7 +120,7 @@ NIPSA（**N**ot **I**n **P**ublic **S**ite **A**reas）為篩選使用者是否�
 
 {{-}}
 
-[Category:2004年建立的网站](https://zh.wikipedia.org/wiki/Category:2004年建立的网站 "wikilink") [Category:雅虎](https://zh.wikipedia.org/wiki/Category:雅虎 "wikilink") [Category:Web_2.0](https://zh.wikipedia.org/wiki/Category:Web_2.0 "wikilink") [Category:被防火长城封锁的网站](https://zh.wikipedia.org/wiki/Category:被防火长城封锁的网站 "wikilink") [Category:2005年并购](https://zh.wikipedia.org/wiki/Category:2005年并购 "wikilink") [Category:2018年并购](https://zh.wikipedia.org/wiki/Category:2018年并购 "wikilink") [Category:多語言網站](https://zh.wikipedia.org/wiki/Category:多語言網站 "wikilink") [Category:摄影网站](https://zh.wikipedia.org/wiki/Category:摄影网站 "wikilink") [Category:社会信息处理](https://zh.wikipedia.org/wiki/Category:社会信息处理 "wikilink") [Category:社交網路服務](https://zh.wikipedia.org/wiki/Category:社交網路服務 "wikilink") [Category:社会化媒体](https://zh.wikipedia.org/wiki/Category:社会化媒体 "wikilink") [Category:视频分享网站](https://zh.wikipedia.org/wiki/Category:视频分享网站 "wikilink") [Category:加拿大網站](https://zh.wikipedia.org/wiki/Category:加拿大網站 "wikilink") [Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink") [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink") [Category:图片分享网站](https://zh.wikipedia.org/wiki/Category:图片分享网站 "wikilink")
+[Category:2004年建立的网站](https://zh.wikipedia.org/wiki/Category:2004年建立的网站 "wikilink") [Category:雅虎](https://zh.wikipedia.org/wiki/Category:雅虎 "wikilink") [Category:Web_2.0](https://zh.wikipedia.org/wiki/Category:Web_2.0 "wikilink") [Category:多語言網站](https://zh.wikipedia.org/wiki/Category:多語言網站 "wikilink") [Category:社会信息处理](https://zh.wikipedia.org/wiki/Category:社会信息处理 "wikilink") [Category:视频分享网站](https://zh.wikipedia.org/wiki/Category:视频分享网站 "wikilink") [Category:加拿大網站](https://zh.wikipedia.org/wiki/Category:加拿大網站 "wikilink") [Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink") [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink") [Category:图片分享网站](https://zh.wikipedia.org/wiki/Category:图片分享网站 "wikilink")
 
 1.  [一個已被鎖住討論主題](http://www.flickr.com/forums/help/8280/)，是有關於隱私權法案。可在此找到與愛國者行動法案（The Patriot Act）和代號2257（Code 2257）有關的資訊。
 2.

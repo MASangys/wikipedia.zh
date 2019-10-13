@@ -33,7 +33,7 @@ VCD因為除了[東南亞和](https://zh.wikipedia.org/wiki/東南亞 "wikilink"
   - VCD比DVD廉價，當然VCD缺乏DVD提供的很多額外特性，如[字幕](../Page/字幕.md "wikilink")、選單功能（用作「製作花絮」等）等（VCD 2.0 加入簡單的選單功能（Play Back Control, PBC），但功能不及DVD豐富）。
   - 畫面比例是預設的，所以在[電腦上會自動調節成正確比例](https://zh.wikipedia.org/wiki/電腦 "wikilink")。
 
-另外，一些厂商也推出了“游戏VCD”，可以运行带有[任天堂](../Page/任天堂.md "wikilink")[红白机](../Page/红白机.md "wikilink")或[世嘉](../Page/世嘉.md "wikilink")[MD游戏的VCD光盘](../Page/Mega_Drive.md "wikilink")，只要接上手柄就可以进行游戏。
+另外，一些厂商也推出了“游戏VCD”，可以运行带有[任天堂](../Page/任天堂.md "wikilink")[红白机](../Page/红白机.md "wikilink")或[世嘉](../Page/世嘉.md "wikilink")[MD游戏的VCD光盘](../Page/Mega_Drive.md "wikilink")，只要接上手柄就可以进行游戏。也有厂商开发出“电-{}-脑VCD”，将仿[Windows界面的操作系统集成到光盘中](https://zh.wikipedia.org/wiki/Windows "wikilink")，并且内置上网、文字处理、电子表格等软件。
 
 ## SVCD
 

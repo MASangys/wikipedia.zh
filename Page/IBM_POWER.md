@@ -82,7 +82,7 @@ POWER5+ 在ISA 2.02版時又加入了更多指令。
 
 ### POWER6
 
-[POWER6在](https://zh.wikipedia.org/wiki/POWER6 "wikilink")2007年5月21日公開。它為POWER系列加入了[VMX](https://zh.wikipedia.org/wiki/AltiVec "wikilink")。它也引入了從POWER3到POWER4的轉移以來最大的改變，第二代的ViVA, ViVA-2。它是雙核心設計，以65奈米製程達到了4.7 GHz。它擁有非常先進的晶片間通訊技術。它的功耗幾乎和前一代的POWER5相等，而能提供兩倍的效能。
+[POWER6在](https://zh.wikipedia.org/wiki/POWER6 "wikilink")2007年5月21日公開。它為POWER系列加入了[VMX](../Page/AltiVec.md "wikilink")。它也引入了從POWER3到POWER4的轉移以來最大的改變，第二代的ViVA, ViVA-2。它是雙核心設計，以65奈米製程達到了4.7 GHz。它擁有非常先進的晶片間通訊技術。它的功耗幾乎和前一代的POWER5相等，而能提供兩倍的效能。
 
 ### POWER7
 

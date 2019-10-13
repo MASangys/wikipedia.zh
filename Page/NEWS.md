@@ -491,7 +491,7 @@ TBS電視台、富士電視台「排球賽世界最終預選」形象曲</p></td
 </tr>
 <tr class="odd">
 <td><p>10</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Happy_Birthday_(NEWS單曲)" title="wikilink">Happy Birthday</a></strong></p></td>
+<td><p><strong><a href="../Page/Happy_Birthday_(NEWS單曲).md" title="wikilink">Happy Birthday</a></strong></p></td>
 <td><p>2008年10月1日</p></td>
 <td><p>KOSE『HAPPY BATH DAY』廣告曲</p></td>
 </tr>

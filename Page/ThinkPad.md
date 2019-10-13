@@ -6,7 +6,7 @@ ThinkPad是唯一被[国际太空站认可使用的笔记本电脑品牌](https:
 
 ### 名字
 
-“ThinkPad”这个名称的灵感来自IBM的便笺簿。每一位IBM的雇员或到IBM訓練中心受訓的人，都会拿到一本便笺簿（“便笺簿”英文为“pad”），上面印着企业的座右铭“THINK”（Think精神来源于IBM公司创始人之一、精神领袖[托马斯·J·沃森](https://zh.wikipedia.org/wiki/托马斯·J·沃森 "wikilink")）\[2\]。當時擁有IBM 「Think」便笺簿的IBM員工Denny Wainwright提議使用「ThinkPad」為產品名\[3\]\[4\]，但被IBM的公司的命名委員反對，因為當時的IBM電腦皆使用數字命名，而後因為記者和大眾的讚揚而留下。\[5\]
+“ThinkPad”这个名称的灵感来自IBM的便笺簿。每一位IBM的雇员或到IBM訓練中心受訓的人，都会拿到一本便笺簿（“便笺簿”英文为“pad”），上面印着企业的座右铭“THINK”（Think精神来源于IBM公司创始人之一、精神领袖[托马斯·J·沃森](https://zh.wikipedia.org/wiki/托马斯·J·沃森 "wikilink")）\[2\]。當時擁有IBM 「Think」便笺簿的IBM員工Denny Wainwright提議使用「ThinkPad」為產品名\[3\]\[4\]，但被IBM公司的命名委員反對，因為當時的IBM電腦皆使用數字命名，而後因為記者和大眾的讚揚而留下。\[5\]
 
 ### 早期产品
 

@@ -364,7 +364,7 @@
 
 5.
 
-6.  [Author page](http://wiki.fdiary.net/font/?sazanami) (in Japanese)
+6.  [Author page](http://wiki.fdiary.net/font/?sazanami)  (in Japanese)
 
 7.  [Deprecated ttf-sazanami-gothic Debian package](http://packages.debian.org/wheezy/ttf-sazanami-gothic)
 

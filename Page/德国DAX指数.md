@@ -17,7 +17,7 @@
 
 DAX指数于1987年推出，以取代当时的Börsen-Zeitung指数和[法兰克福汇报指数](https://zh.wikipedia.org/wiki/法兰克福汇报指数 "wikilink")（Frankfurter Allgemeinen Zeitung Aktienindex）。1988年7月1日起开始正式交易，基准点为1000点。指数以“整体回报法”进行计算，即在考虑公司股价的同时，考虑预期的股息回报。但因为该指数只包含德国最赚钱的公司，因此有人批评无法准确反应德国经济。 [Boerse_Frankfurt_inside.jpg](https://zh.wikipedia.org/wiki/File:Boerse_Frankfurt_inside.jpg "fig:Boerse_Frankfurt_inside.jpg")证券交易所内显示当日DAX指数走势的显示牌\]\]
 
-## 其它DAX指数:
+## 其它DAX指数
 
 1994年建立了称作的指数，它将作为记录市场中100支价值成长性、流动性最佳股票的指数。1996年引入MDAX，它由30支DAX成分股和70支MDAX成分股组合而成。通过将MDAX缩编至50支成分股，将原有70支MDAX成份股与30支DAX成份股组合成为[HDAX](http://de.wikipedia.org/wiki/HDAX)（取代DAX 100）。[CDAX](http://de.wikipedia.org/wiki/CDAX)是由所有在法兰克福交易所交易的股票的集合而成。[SDAX](http://de.wikipedia.org/wiki/SDAX)是集合50支小股票动向的指数。
 
@@ -68,14 +68,10 @@ DAX指数于1987年推出，以取代当时的Börsen-Zeitung指数和[法兰克
 
 </div>
 
-## 参见
-
-  - [证券指数](https://zh.wikipedia.org/wiki/证券指数 "wikilink")
-
 ## 外部链接
 
   - [DAX指数官方网站](https://web.archive.org/web/20070929111611/http://deutsche-boerse.com/dbag/dispatch/en/isg/gdb_navigation/private_investors/20_Equities/20_Indices/10_DAX?module=InOverview_Index&wp=DE0008469008&wplist=DE0008469008&foldertype=_Index)
 
-[Category:欧洲股市指数](https://zh.wikipedia.org/wiki/Category:欧洲股市指数 "wikilink") [Category:德国经济](https://zh.wikipedia.org/wiki/Category:德国经济 "wikilink")
+[Category:欧洲股市指数](https://zh.wikipedia.org/wiki/Category:欧洲股市指数 "wikilink") [Category:德国经济](https://zh.wikipedia.org/wiki/Category:德国经济 "wikilink") [Category:上市公司列表](https://zh.wikipedia.org/wiki/Category:上市公司列表 "wikilink")
 
 1.  来自德国电视一台证券网页[1](http://ard.gedif.de/ard/kurse_listen.htm?sektion=dax)

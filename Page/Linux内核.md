@@ -10,7 +10,7 @@ Linux 内核是在[GNU通用公共许可证](../Page/GNU通用公共许可证.md
 
 [缩略图](https://zh.wikipedia.org/wiki/File:LinuxCon_Europe_Linus_Torvalds_03_\(cropped\).jpg "fig:缩略图")\]\]
 
-1991年，[林納斯·托瓦茲](https://zh.wikipedia.org/wiki/林納斯·托瓦茲 "wikilink")，一名21岁的就读于芬兰赫尔辛基大学的计算机科学专业学生，基于一些简单的想法，打算编写一个操作系统内核。他通过英特尔80386汇编语言的任务切换器和一个终端驱动程序开始工作。8月25号，他在 `comp.os.minix` [新闻组](../Page/新闻组.md "wikilink")里发了一封帖子：\[9\]
+1991年，[林納斯·托瓦茲](https://zh.wikipedia.org/wiki/林納斯·托瓦茲 "wikilink")，一名21岁的就读于芬兰赫尔辛基大学的[计算机科学](../Page/计算机科学.md "wikilink")专业学生，基于一些简单的想法，打算编写一个操作系统内核。他通过英特尔80386汇编语言的任务切换器和一个终端驱动程序开始工作。8月25号，他在 `comp.os.minix` [新闻组](../Page/新闻组.md "wikilink")里发了一封帖子：\[9\]
 
 之后，许多人为这个项目贡献了代码。在早期，[MINIX](../Page/MINIX.md "wikilink")社区向 Linux 内核贡献了代码和想法。当时，GNU 项目已经创建了许多自由操作系统所需的组件，但是它自己的内核 GNU Hurd 尚不完整且无法使用；而BSD操作系统还没有摆脱合法的阻碍。因此，尽管早期版本的 Linux 功能有限，但它迅速获得了开发人员和用户。
 

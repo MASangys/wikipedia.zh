@@ -2362,7 +2362,7 @@ SMAP初次出演“[FNS歌谣祭](https://zh.wikipedia.org/wiki/FNS歌谣祭 "wi
 
 ### 电视剧
 
-  - [危险少年3](https://zh.wikipedia.org/wiki/危险少年3 "wikilink")（1988年10月12日-1989年3月29日，[东京电视台](https://zh.wikipedia.org/wiki/东京电视台 "wikilink")）
+  - [危险少年3](../Page/危险少年3.md "wikilink")（1988年10月12日-1989年3月29日，[东京电视台](https://zh.wikipedia.org/wiki/东京电视台 "wikilink")）
       - SMAP的电视剧处女作，全体成员在剧中饰演本尊。
 
 <!-- end list -->

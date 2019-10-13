@@ -1,6 +1,9 @@
-**PostgreSQL**是[自由的](../Page/自由软件.md "wikilink")[对象-关系型数据库服务器](https://zh.wikipedia.org/wiki/对象-关系型数据库 "wikilink")（[数据库管理系统](../Page/数据库管理系统.md "wikilink")），在[BSD许可证](../Page/BSD许可证.md "wikilink")下发行。
+</ref> |website =  |repo = <git://git.postgresql.org/git/postgresql.git>
+<https://github.com/postgres/postgres> }}
 
-PostgreSQL這個單字的拼法讓有些人覺得很難读，特别是那些把[SQL](../Page/SQL.md "wikilink")唸作"sequel"的人。PostgreSQL开发者把它唸作"post-gress-Q-L"。（[Audio sample](http://www.postgresql.org/files/postgresql.mp3)，5.6k MP3）。它也经常被简略唸为"postgres"。
+**PostgreSQL**是[開源的](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")[物件-關聯式資料庫](https://zh.wikipedia.org/wiki/Object-relational_database "wikilink")[資料庫管理系统](https://zh.wikipedia.org/wiki/資料庫管理系统 "wikilink")，在類似[BSD授權與](https://zh.wikipedia.org/wiki/BSD授權 "wikilink")[MIT授權的PostgreSQL授權下发行](https://zh.wikipedia.org/wiki/MIT授權 "wikilink")。\[1\]
+
+PostgreSQL這個單字的拼法讓有些人覺得很難讀，特别是那些把[SQL](../Page/SQL.md "wikilink")讀作"sequel"的人。PostgreSQL開發者把它讀作"post-gress-Q-L"。（[Audio sample](http://www.postgresql.org/files/postgresql.mp3)，5.6k MP3）。它也經常被简稱为"postgres"。
 
 ## 历史
 
@@ -173,7 +176,7 @@ PostgreSQL内置丰富的数据类型，包括：
 
 ## 版本
 
-PostgreSQL - Red Hat Edition\[1\]是由[Red Hat製作](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")-{zh-hans: 的; zh-hant: 之;}-[分支版本](https://zh.wikipedia.org/wiki/分支 "wikilink")，又稱Red Hat Database。
+PostgreSQL - Red Hat Edition\[2\]是由[Red Hat製作](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")-{zh-hans: 的; zh-hant: 之;}-[分支版本](https://zh.wikipedia.org/wiki/分支 "wikilink")，又稱Red Hat Database。
 
 ## 参见
 
@@ -203,4 +206,5 @@ PostgreSQL - Red Hat Edition\[1\]是由[Red Hat製作](https://zh.wikipedia.org/
 
 [Category:開源資料庫管理系統](https://zh.wikipedia.org/wiki/Category:開源資料庫管理系統 "wikilink")
 
-1.  [PostgreSQL - Red Hat Edition Project](http://sourceware.org/rhdb/)
+1.
+2.  [PostgreSQL - Red Hat Edition Project](http://sourceware.org/rhdb/)

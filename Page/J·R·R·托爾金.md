@@ -10,7 +10,7 @@
 
 ### 家族起源
 
-托尔金父系家族的祖先大部分是工匠，原居于[德国](../Page/德国.md "wikilink")的[下萨克森](../Page/下萨克森.md "wikilink")。18世纪後移居到英格兰，很快地變得非常英國化。\[9\]托尔金（Tolkien）这个姓氏可能係自德语词*Tollkiehn*，意为“愚勇」。\[10\]一些以托尔金或其变种为姓氏的家族现今居住在[德国](../Page/德国.md "wikilink")西北部，主要分佈在[下萨克森州和](https://zh.wikipedia.org/wiki/下萨克森州 "wikilink")[汉堡市](https://zh.wikipedia.org/wiki/汉堡市 "wikilink")。\[11\]\[12\]有一位德国作者提出这个名字更有可能是源自於[东普鲁士](https://zh.wikipedia.org/wiki/东普鲁士 "wikilink")[肯琴](../Page/肯琴.md "wikilink")的村庄“Tołkiny”（现位于[波兰东北部](https://zh.wikipedia.org/wiki/波兰 "wikilink")），虽然那个村庄离下萨克森很远；它的名称源于现已灭绝的[普魯士語](https://zh.wikipedia.org/wiki/普魯士語 "wikilink")。\[13\]\[14\]
+托尔金父系家族的祖先大部分是工匠，原居于[德国](../Page/德国.md "wikilink")的[下萨克森](../Page/下萨克森.md "wikilink")。18世纪後移居到英格兰，很快地變得非常英國化。\[9\]托尔金（Tolkien）这个姓氏可能係自德语词*Tollkühn*，意为“愚勇」。\[10\]一些以托尔金或其变种为姓氏的家族现今居住在[德国](../Page/德国.md "wikilink")西北部，主要分佈在[下萨克森州和](https://zh.wikipedia.org/wiki/下萨克森州 "wikilink")[汉堡市](https://zh.wikipedia.org/wiki/汉堡市 "wikilink")。\[11\]\[12\]有一位德国作者提出这个名字更有可能是源自於[东普鲁士](https://zh.wikipedia.org/wiki/东普鲁士 "wikilink")[肯琴](../Page/肯琴.md "wikilink")的村庄“Tołkiny”（现位于[波兰东北部](https://zh.wikipedia.org/wiki/波兰 "wikilink")），虽然那个村庄离下萨克森很远；它的名称源于现已灭绝的[普魯士語](https://zh.wikipedia.org/wiki/普魯士語 "wikilink")。\[13\]\[14\]
 
 托尔金的外公外婆萨菲尔德（*Suffield*）夫妇居住在[伯明翰](../Page/伯明翰.md "wikilink")，并在市中心拥有一间商店。萨菲尔德家族从1812年起在一座名叫Lamb House的房子中開始经营书籍、文具、衣袜等生意。
 

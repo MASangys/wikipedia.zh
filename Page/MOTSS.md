@@ -12,7 +12,7 @@
 
 中國大陸首先設有「MOTSS」版的BBS站台為原中山医科大学的[BBS杏林站](https://zh.wikipedia.org/wiki/BBS杏林站 "wikilink")，设立时间不迟于1998年11月。其间BBS站台因各种原因曾多次关闭和复开。2001年10月[BBS杏林站随同其大学被合并](https://zh.wikipedia.org/wiki/BBS杏林站 "wikilink")，MOTSS版被关闭。2003年6月在合并后的BBS上重新申请开MOTSS版，未获得通过。
 
-在北大[一塌糊涂开出](https://zh.wikipedia.org/wiki/一塌糊涂 "wikilink")**酷儿**版前，大陆教育网上曾有[水木清华](https://zh.wikipedia.org/wiki/水木清华 "wikilink")，[北大新青年设立同志版面](https://zh.wikipedia.org/wiki/北大新青年 "wikilink")。
+在北大[一塌糊涂BBS](../Page/一塌糊涂BBS.md "wikilink")开出**酷儿**版前，大陆教育网上曾有[水木清华](https://zh.wikipedia.org/wiki/水木清华 "wikilink")，[北大新青年设立同志版面](https://zh.wikipedia.org/wiki/北大新青年 "wikilink")。
 
 ## 外部連結
 

@@ -42,7 +42,7 @@ DirectX出现之前，微软已经将[OpenGL](../Page/OpenGL.md "wikilink")包�
 
 由此衍生出的“特别DirectX”也作为微软[Xbox和](../Page/Xbox_\(遊戲機\).md "wikilink")[Xbox 360的图形API](../Page/Xbox_360.md "wikilink")，这套API由微软和[NVIDIA公司共同开发](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")，Xbox API和DirectX 8.1比较相似，但跟其他主機科技一樣不能更新，Xbox版本也叫做DirectXbox，但由于商业销售缘故，还是被简称为Xbox。\[1\]
 
-2002年，微软发布了DirectX 9，它支持最新的顶点阴影着色器2.0版本，又于2004年4月将shader model 3.0（SM 3.0）加入了DirectX 9.0c。
+2002年，微软发布了DirectX 9，它支持最新的[顶点阴影着色器](https://zh.wikipedia.org/wiki/頂點著色引擎 "wikilink")2.0版本，又于2004年4月将shader model 3.0（SM 3.0）加入了DirectX 9.0c。
 
 2005年4月，[DirectShow](../Page/DirectShow.md "wikilink")从DirectX移除，加入到[Microsoft Platform SDK](https://zh.wikipedia.org/wiki/Microsoft_Platform_SDK "wikilink")。\[2\]
 

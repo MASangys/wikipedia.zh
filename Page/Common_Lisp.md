@@ -682,7 +682,7 @@ Common Lisp被用于很多成功的商业应用中，最著名的（毫无疑问
 
   - [Applicative Common Lisp](http://www.cs.utexas.edu/users/moore/acl2/)，a full-featured [theorem prover](https://zh.wikipedia.org/wiki/theorem_prover "wikilink") for a subset of Common Lisp.
   - [Maxima](../Page/Maxima.md "wikilink")，一个精致的[计算机代数系统](https://zh.wikipedia.org/wiki/计算机代数系统 "wikilink")。
-  - [Compo](http://compo.sourceforge.net)，a language allowing complex musical structures to be described in a natural way.
+  - [Compo](https://web.archive.org/web/20010721222051/http://compo.sourceforge.net/)，a language allowing complex musical structures to be described in a natural way.
   - [Lisa](http://lisa.sourceforge.net)，a production-rule system to build "intelligent" software agents.
 
 同样，Common Lisp也被许多政府和非盈利组织采用。[NASA中的例子有](https://zh.wikipedia.org/wiki/NASA "wikilink")：
