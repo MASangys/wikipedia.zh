@@ -34,7 +34,7 @@ NVIDIA開始掩飾[GeForce FX的缺點](https://zh.wikipedia.org/wiki/GeForce_FX
 
   - CineFX2.0渲染引擎：
       - 提供了对于DirectX9.0的支持
-      - 支持2.0版本的像素着色器和顶点着色器
+      - 支持2.0版本的像素着色器和[顶点着色器](https://zh.wikipedia.org/wiki/顶点着色器 "wikilink")
       - 高精密图形显处理能力，支持128bit的浮点精度（FP32）
       - 每个PASS最高支持16次帖图
       - Intellisample HCT：

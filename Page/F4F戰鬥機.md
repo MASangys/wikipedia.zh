@@ -142,4 +142,4 @@ F4F在二次大戰太平洋戰場的初期，不但挽救了美國海軍，打�
 
   - David Donald，American Warplanes of World War II，Airtime Publishing USA，ISBN 1-880588-21-8
 
-[Category:美國戰鬥機](https://zh.wikipedia.org/wiki/Category:美國戰鬥機 "wikilink") [Category:單引擎飛機](https://zh.wikipedia.org/wiki/Category:單引擎飛機 "wikilink") [Category:舰载机](https://zh.wikipedia.org/wiki/Category:舰载机 "wikilink")
+[Category:美國戰鬥機](https://zh.wikipedia.org/wiki/Category:美國戰鬥機 "wikilink") [Category:單引擎飛機](https://zh.wikipedia.org/wiki/Category:單引擎飛機 "wikilink") [Category:舰载机](https://zh.wikipedia.org/wiki/Category:舰载机 "wikilink") [Category:格魯曼飛機](https://zh.wikipedia.org/wiki/Category:格魯曼飛機 "wikilink")

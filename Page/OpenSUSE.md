@@ -1,10 +1,10 @@
-**openSUSE**（\[1\]），前身爲SUSE Linux和SuSE Linux Professional，是一个[Linux](../Page/Linux.md "wikilink")發行版與項目，由SUSE Linux GmBH與其他公司贊助\[2\]。openSUSE在全世界被廣泛使用，尤其是在德國。它的開發重心是爲軟體開發者和系統管理者創造適用的開放原始碼的工具，並提供易於使用的桌面環境和功能豐富的伺服器環境。openSUSE針對桌面環境進行了一系列的優化，是一个對Linux新手較為友好的Linux发行版。
-
-openSUSE釋出的第一個版本是一個SUSE Linux 10.0的測試版。目前的稳定版本是openSUSE Leap 15。该社区项目提供了一个名为openSUSE Tumbleweed的滚动版本，该版本不断更新，并通过经过测试的稳定软件包进行更新。更新的机制基于名为“Factory”（工厂）的滚动开发代码库。与openSUSE项目相关的其他工具和应用程序包括YaST、Open Build Service、openQA、Snapper、Machinery、Portus 和 Kiwi 等。
-
-2003年11月4日，Novell以2.1億美元收購SuSE Linux AG\[3\]後創建了openSUSE。2011年，The Attachmate Group收購Novell，並將Novell和SUSE拆分爲兩家獨立的子公司。2014年11月，The Attachmate Group與Micro Focus合併\[4\]，但SUSE仍是其业务部门。
+**openSUSE**（\[1\]），前身爲SUSE Linux和SuSE Linux Professional，是一个[Linux發行版與項目](https://zh.wikipedia.org/wiki/Linux發行版 "wikilink")，由SUSE Linux GmBH與其他公司贊助\[2\]。openSUSE在全世界被廣泛使用，尤其是在德國。它的開發重心是爲軟體開發者和系統管理者創造適用的開放原始碼的工具，並提供易於使用的桌面環境和功能豐富的伺服器環境。openSUSE針對桌面環境進行了一系列的優化，是一个對Linux新手較為友好的Linux发行版。
 
 ## 概述
+
+openSUSE釋出的第一個版本是一個SUSE Linux 10.0的測試版。目前的稳定版本是openSUSE Leap 15。该社区项目提供了一个名为openSUSE Tumbleweed的[滾動發行](../Page/滾動發行.md "wikilink")版本，该版本不断更新，并通过经过测试的稳定软件包进行更新。更新的机制基于名为“Factory”（工厂）的滚动开发代码库。与openSUSE项目相关的其他工具和应用程序包括YaST、Open Build Service、openQA、Snapper、Machinery、Portus 和 Kiwi 等。
+
+2003年11月4日，Novell以2.1億美元收購SuSE Linux AG\[3\]後創建了openSUSE。2011年，The Attachmate Group收購Novell，並將Novell和SUSE拆分爲兩家獨立的子公司。2014年11月，The Attachmate Group與Micro Focus合併\[4\]，但SUSE仍是其业务部门。
 
 openSUSE Project由[SUSE](../Page/SUSE.md "wikilink")公司赞助，開發和維護著SUSE Linux发行版部件。openSUSE是SUSE Linux Professional的接替者。
 
@@ -12,7 +12,7 @@ openSUSE Project由[SUSE](../Page/SUSE.md "wikilink")公司赞助，開發和維
 
 openSUSE通过其openSUSE Leap版本提供了一个稳定的基石版本。喜欢追逐新版本自由软件的用户可以使用其滚动发布版本Tumbleweed。 用户也可以使用其开放构建服务（OBS，Open Build Service），参与openSUSE的软件开发。此外，openSUSE的灵活性使得为特定目标（例如运行Web或邮件服务器）重新调整系统功能变得容易。\[5\]
 
-像大多数Linux发行版一样，openSUSE包括一个默认的图形用户界面（GUI）和一个可选的命令行界面。openSUSE 的用户可以选择几种桌面环境 GUI，包括GNOME、KDE、Cinnamon、MATE、LXQt\[6\]、Xfce。 openSUSE 提供了数千个自由软件包或免费软件包的支持。
+像大多数Linux发行版一样，openSUSE包括一个默认的[圖形使用者介面](https://zh.wikipedia.org/wiki/圖形使用者介面 "wikilink")（GUI）和一个可选的[命令行界面](../Page/命令行界面.md "wikilink")。openSUSE 的用户可以选择几种桌面环境 GUI，包括GNOME、KDE、Cinnamon、MATE、LXQt\[6\]、Xfce。 openSUSE 提供了数千个自由软件包或免费软件包的支持。
 
 繼openSUSE 13.2之後的新版本為openSUSE Leap 42.1，從這一個版本開始命名規則和產品開發模式都進行了重大的改變。openSUSE Leap開始直接使用SLE（SUSE Linux Enterprise）的源代碼，而openSUSE Leap 42.1幾乎就是SLE 12 SP1。openSUSE Leap 42.3之后命名规则又发生了改变，Leap 42的下一个大版本号为Leap 15。
 

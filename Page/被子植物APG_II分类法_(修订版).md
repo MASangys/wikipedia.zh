@@ -502,7 +502,7 @@
                             [小盘木科](../Page/小盘木科.md "wikilink") *Pandaceae*
                             [西番莲科](../Page/西番莲科.md "wikilink") *Passifloraceae*
 
-                    \+ [王冠草科](https://zh.wikipedia.org/wiki/王冠草科 "wikilink") *Malesherbiaceae* + [时钟花科](../Page/时钟花科.md "wikilink") *Turneraceae*
+                    \+ [王冠草科](../Page/王冠草科.md "wikilink") *Malesherbiaceae* + [时钟花科](../Page/时钟花科.md "wikilink") *Turneraceae*
 
                       -
 
@@ -644,7 +644,7 @@
                       -
                         [杜鹃花目](../Page/杜鹃花目.md "wikilink") *Ericales*
                           -
-                            [猕猴桃科](https://zh.wikipedia.org/wiki/猕猴桃科 "wikilink") *Actinidiaceae*
+                            [猕猴桃科](../Page/猕猴桃科.md "wikilink") *Actinidiaceae*
                             [凤仙花科](https://zh.wikipedia.org/wiki/凤仙花科 "wikilink") *Balsaminaceae*
                             [山柳科](../Page/山柳科.md "wikilink") *Clethraceae*
                             [翅萼树科](../Page/翅萼树科.md "wikilink") *Cyrillaceae*

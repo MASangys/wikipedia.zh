@@ -601,7 +601,7 @@ TeenPower及香港電台第二台視像頻道，聽眾可進入[TPTV網頁](http
 </tr>
 <tr class="odd">
 <td><p>音樂負電荷</p></td>
-<td><p>Mathew#、<a href="https://zh.wikipedia.org/wiki/今明" title="wikilink">Ming</a>#</p></td>
+<td><p>Mathew#、<a href="../Page/今明.md" title="wikilink">Ming</a>#</p></td>
 <td><p>2010-02-18</p></td>
 <td><p>2011-11-17</p></td>
 <td><p><a href="https://web.archive.org/web/20100303151016/http://teenpower.rthk.org.hk/program/electricmusic/index_new.htm">節目網頁</a></p></td>
@@ -678,7 +678,7 @@ Verdy @ Roundtable</p></td>
 </tr>
 <tr class="even">
 <td><p>我愛廣東歌</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/今明" title="wikilink">今明</a>#、<a href="https://zh.wikipedia.org/wiki/白原顥" title="wikilink">白原顥</a>#、<a href="../Page/尹子龍.md" title="wikilink">紫龍</a>、<a href="https://zh.wikipedia.org/wiki/梁學曦" title="wikilink">阿希</a>、<a href="../Page/林蕙.md" title="wikilink">Barbie</a>#</p></td>
+<td><p><a href="../Page/今明.md" title="wikilink">今明</a>#、<a href="https://zh.wikipedia.org/wiki/白原顥" title="wikilink">白原顥</a>#、<a href="../Page/尹子龍.md" title="wikilink">紫龍</a>、<a href="https://zh.wikipedia.org/wiki/梁學曦" title="wikilink">阿希</a>、<a href="../Page/林蕙.md" title="wikilink">Barbie</a>#</p></td>
 <td><p>2011-11-21</p></td>
 <td><p>2013-03-29<br />
 （取消聯播）</p></td>

@@ -20,7 +20,7 @@ Designline現已開發及生產出柴電[混合動力巴士](../Page/混合動�
 
 ## 外部連結
 
-  - [Designline官網](http://www.designline.co.nz)
+  - [Designline官網](https://web.archive.org/web/20120301122945/http://www.designline.co.nz/)
   - [有關Designline授權車身設計給五洲龍客車在國內生產巴士事而](http://www.hkitalk.net/HKiTalk2/viewthread.php?tid=274742&extra=page%3D1&page=2)
 
 [Category:巴士生產商](https://zh.wikipedia.org/wiki/Category:巴士生產商 "wikilink") [Category:新西蘭公司](https://zh.wikipedia.org/wiki/Category:新西蘭公司 "wikilink")

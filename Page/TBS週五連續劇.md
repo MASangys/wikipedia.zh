@@ -208,7 +208,7 @@
 <!-- end list -->
 
   -
-    主演：[松本潤](https://zh.wikipedia.org/wiki/松本潤 "wikilink")
+    主演：[松本潤](../Page/松本潤.md "wikilink")
     劇本：、[篠崎繪里子](../Page/篠崎繪里子.md "wikilink")
 
 <!-- end list -->

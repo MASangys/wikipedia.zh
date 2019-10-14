@@ -8,7 +8,7 @@
 
 ### 学术生涯
 
-布坎南年轻时自认为是社会主义者，当时他并不知道[芝加哥大学](../Page/芝加哥大学.md "wikilink")超强的市场导向经济学。 他在那里的学习，尤其是在[芝加哥经济学派先驱](https://zh.wikipedia.org/wiki/芝加哥经济学派 "wikilink")[法兰克·奈特的指导下](https://zh.wikipedia.org/wiki/法兰克·奈特 "wikilink")，使他转变为“热衷于市场秩序的倡导者”。1848年，布坎南获得芝加哥大学的博士学位，博士论文为有关“联邦政府的财政公平”，该论文深受奈特的影响。也是在芝加哥，他第一次读到了瑞典经济学家Knut Wicksell的著作。从那以后，Knight和Wicksell的照片被他挂在办公室的墙上。布坎南虽未在芝加哥大学任职，但与[芝加哥经济学派关系密切](https://zh.wikipedia.org/wiki/芝加哥经济学派 "wikilink")。
+布坎南年轻时自认为是社会主义者，当时他并不知道[芝加哥大学](../Page/芝加哥大学.md "wikilink")超强的市场导向经济学。 他在那里的学习，尤其是在[芝加哥经济学派先驱](https://zh.wikipedia.org/wiki/芝加哥经济学派 "wikilink")[法兰克·奈特的指导下](https://zh.wikipedia.org/wiki/法兰克·奈特 "wikilink")，使他转变为“热衷于市场秩序的倡导者”。1948年，布坎南获得芝加哥大学的博士学位，博士论文为有关“联邦政府的财政公平”，该论文深受奈特的影响。也是在芝加哥，他第一次读到了瑞典经济学家Knut Wicksell的著作。从那以后，Knight和Wicksell的照片被他挂在办公室的墙上。布坎南虽未在芝加哥大学任职，但与[芝加哥经济学派关系密切](https://zh.wikipedia.org/wiki/芝加哥经济学派 "wikilink")。
 
 1983年，布坎南受聘為[維吉尼亞州](https://zh.wikipedia.org/wiki/維吉尼亞州 "wikilink")[喬治梅森大學](../Page/喬治梅森大學.md "wikilink")的教授，布坎南在那裡領導的公共選擇理論學派還被人稱為「[政治經濟學的維吉尼亞學派](https://zh.wikipedia.org/wiki/政治經濟學 "wikilink")」。他也曾在[維吉尼亞大學](https://zh.wikipedia.org/wiki/維吉尼亞大學 "wikilink")（在那裡創建了湯瑪斯·傑佛遜研究中心）、[洛杉磯加利福尼亞大學](https://zh.wikipedia.org/wiki/洛杉磯加利福尼亞大學 "wikilink")、以及[維吉尼亞理工大學任教](https://zh.wikipedia.org/wiki/維吉尼亞理工大學 "wikilink")。布坎南始終輕視東岸紐約的知識菁英（如華府經濟顧問，[哈佛大學教授](https://zh.wikipedia.org/wiki/哈佛大學 "wikilink")[約翰·加爾布雷斯](../Page/約翰·加爾布雷斯.md "wikilink")）。
 

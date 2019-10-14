@@ -12,7 +12,7 @@ apm早年以心境年輕人士作為主要銷售對象，總面積逾60萬[平�
 
 隨著[啟德郵輪碼頭](../Page/啟德郵輪碼頭.md "wikilink")啟用，apm與啟德郵輪碼頭營運商合作，提供30班至50班免費[穿梭巴士](../Page/穿梭巴士.md "wikilink")接載旅客往返商場及碼頭。\[1\]
 
-## 商場設計
+## 商場設施和設計
 
 [Apm_Main_Void_201309.jpg](https://zh.wikipedia.org/wiki/File:Apm_Main_Void_201309.jpg "fig:Apm_Main_Void_201309.jpg") [HK_apm_t-park_2006.jpg](https://zh.wikipedia.org/wiki/File:HK_apm_t-park_2006.jpg "fig:HK_apm_t-park_2006.jpg") [Apm_Level_4_Food_Street_201309.jpg](https://zh.wikipedia.org/wiki/File:Apm_Level_4_Food_Street_201309.jpg "fig:Apm_Level_4_Food_Street_201309.jpg") [Apm_level_6_Lift_lobby_Wall_2015.jpg](https://zh.wikipedia.org/wiki/File:Apm_level_6_Lift_lobby_Wall_2015.jpg "fig:Apm_level_6_Lift_lobby_Wall_2015.jpg")
 

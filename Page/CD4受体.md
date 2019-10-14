@@ -49,6 +49,6 @@ CD4受體是一個幫助T細胞受體和抗原呈現細胞產生作用的co-rece
 
   - [Human CD Antigen Chart](http://www.ebioscience.com/ebioscience/whatsnew/humancdchart.htm)
 
-  - \*[Human Immunodeficiency Virus Glycoprotein 120](http://www.bio.davidson.edu/Courses/Molbio/MolStudents/spring2005/Greendyke/gp120.htm)
+  - \*[Human Immunodeficiency Virus Glycoprotein 120](https://web.archive.org/web/20130322050458/http://www.bio.davidson.edu/Courses/Molbio/MolStudents/spring2005/Greendyke/gp120.htm)
 
 [Category:免疫学](https://zh.wikipedia.org/wiki/Category:免疫学 "wikilink")

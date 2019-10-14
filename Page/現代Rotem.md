@@ -12,7 +12,7 @@
 
   - [加拿大捷運捷運車輛](https://zh.wikipedia.org/wiki/溫哥華架空列車 "wikilink")40輛
 
-  - [聖保羅地鐵4號線捷運車輛](https://zh.wikipedia.org/wiki/聖保羅地鐵4號線 "wikilink")84輛
+  - [聖保羅地鐵4號線](../Page/聖保羅地鐵4號線.md "wikilink")捷運車輛84輛
 
   - [韓國地鐵新盆唐線捷運車輛](https://zh.wikipedia.org/wiki/韓國地鐵新盆唐線 "wikilink")72輛、號誌
 

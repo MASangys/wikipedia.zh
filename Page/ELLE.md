@@ -1,8 +1,8 @@
-《**ELLE**》是一份創始於[法國的](https://zh.wikipedia.org/wiki/法國 "wikilink")，"ELLE" 在[法文解作](../Page/法语.md "wikilink")「她」。雜誌聚焦於时尚、美容、健康、休闲等軟性議題。發行者為法國旗下的，並以[特許經營的方式在世界各國發行在地版](https://zh.wikipedia.org/wiki/特許經營 "wikilink")，至今在60餘個国家发行43个版本。
+《**ELLE**》是一份創始於[法國的](https://zh.wikipedia.org/wiki/法國 "wikilink")，「ELLE」在[法文解作](../Page/法语.md "wikilink")「她」。雜誌聚焦於时尚、美容、健康、休闲等軟性議題。發行者為法國[拉加代尔集团](../Page/拉加代尔集团.md "wikilink")旗下的，並以[特許經營的方式在世界各國發行在地版](https://zh.wikipedia.org/wiki/特許經營 "wikilink")，至今在60餘個国家发行43个版本。
 
 ## 歷史
 
-《ELLE》於1945年由在法國創辦。在二十世紀六十年代，它被認為「制定時尚多於反映時尚」，擁有八十萬忠實讀者，當時著名的口號是："Si elle lit，elle lit Elle"，意謂「如果她閱讀，她就讀Elle」\[1\]。
+《ELLE》於1945年由在法國創辦。在二十世紀六十年代，它被認為「制定時尚多於反映時尚」，擁有八十萬忠實讀者，當時著名的口號是：「Si elle lit，elle lit Elle」，意謂「如果她閱讀，她就讀Elle」\[1\]。
 
 《ELLE》的第一個國際版於1969年在[日本](../Page/日本.md "wikilink")發行\[2\]。[美國和](../Page/美国.md "wikilink")[英國版本要待至](https://zh.wikipedia.org/wiki/英国 "wikilink")1985年才推出\[3\]。 翌年，該雜誌首次在[西班牙](../Page/西班牙.md "wikilink")出版。1987年，《ELLE》開始在[香港](../Page/香港.md "wikilink")和[意大利](../Page/意大利.md "wikilink")出版。1988年，該雜誌在同一年在六個國家推出，即[德國](../Page/德国.md "wikilink")，[巴西](../Page/巴西.md "wikilink")，[中國](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")，[瑞典](../Page/瑞典.md "wikilink")，[希臘和](../Page/希腊.md "wikilink")[葡萄牙](../Page/葡萄牙.md "wikilink")。 次年它首次在[荷蘭和](../Page/荷兰.md "wikilink")[魁北克出版](../Page/魁北克省.md "wikilink")。 1990年，該雜誌登陸[澳大利亞](../Page/澳大利亚.md "wikilink")。1994年抵達[阿根廷](../Page/阿根廷.md "wikilink")。 其每月出版的[俄文版於](https://zh.wikipedia.org/wiki/俄语 "wikilink")1996年推出\[4\]。
 
@@ -10,7 +10,7 @@
 
 《ELLE》是世界上最大的時尚雜誌 ，在60餘個國家擁有43個國際版\[5\]；《ELLE》亦是一個包含超過33個網站的全球網絡，每月吸引超過2500萬獨立訪問者和3.7億次頁面瀏覽量。《ELLE》訂閱者佔讀者的73％，讀者人數超過6900萬，當中絕大多數（82％）是年齡在18歲到49歲之間的女性。讀者的平均年齡為34.7歲，40％是單身， 家庭收入中位數為69,973美元。
 
-《ELLE》原先由法國拉加代爾集團Lagardère Group擁有。 2011年， 赫斯特公司與拉加代爾集團達成協議，購買部份地區的《ELLE》雜誌的營運權。這筆交易意味著赫斯特當時有權在15個國家出版Elle，包括美國、英國、意大利、西班牙、俄羅斯和烏克蘭。拉加代爾集團保留了[法語版](../Page/法语.md "wikilink")，並從其它地區版本中收取版稅。
+《ELLE》原先由法國拉加代爾集團Lagardère Group擁有。2011年，赫斯特公司與拉加代爾集團達成協議，購買部份地區的《ELLE》雜誌的營運權。這筆交易意味著赫斯特當時有權在15個國家出版Elle，包括美國、英國、意大利、西班牙、俄羅斯和烏克蘭。拉加代爾集團保留了[法語版](../Page/法语.md "wikilink")，並從其它地區版本中收取版稅。
 
 2018年4月，法國版《ELLE》為捷克億萬富翁Daniel Kretinsky所收購\[6\]。
 
@@ -34,7 +34,7 @@
   -
   -
   -
-[Category:月刊](https://zh.wikipedia.org/wiki/Category:月刊 "wikilink") [Category:時尚雜誌](https://zh.wikipedia.org/wiki/Category:時尚雜誌 "wikilink") [Category:法國雜誌](https://zh.wikipedia.org/wiki/Category:法國雜誌 "wikilink")
+[Category:拉加代尔集团](https://zh.wikipedia.org/wiki/Category:拉加代尔集团 "wikilink") [Category:月刊](https://zh.wikipedia.org/wiki/Category:月刊 "wikilink") [Category:女性时尚杂志](https://zh.wikipedia.org/wiki/Category:女性时尚杂志 "wikilink") [Category:法國雜誌](https://zh.wikipedia.org/wiki/Category:法國雜誌 "wikilink") [Category:1945年創辦的雜誌](https://zh.wikipedia.org/wiki/Category:1945年創辦的雜誌 "wikilink")
 
 1.
 2.

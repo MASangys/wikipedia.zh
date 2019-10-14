@@ -2,7 +2,7 @@
 
 ## 簡介
 
-這電視塔距離[布蘭切特西邊約](https://zh.wikipedia.org/wiki/布蘭切特 "wikilink") 3 里，約在[佛哥及](https://zh.wikipedia.org/wiki/佛哥 "wikilink")[大福克斯兩地的中間](https://zh.wikipedia.org/wiki/大福克斯_\(北達科他州\) "wikilink")。它在1963年建成的時候曾是世界最高的人造結構，但在1974年，[華沙電台廣播塔](../Page/華沙電台廣播塔.md "wikilink")建成，以 18 米高度之距成為世界第一；可是它在1991年倒塌，而美國的KVLY塔則重新奪回首位，直至2008年被[阿拉伯聯合酋長國](https://zh.wikipedia.org/wiki/阿拉伯聯合酋長國 "wikilink")[迪拜的](https://zh.wikipedia.org/wiki/迪拜 "wikilink")[哈利法塔](https://zh.wikipedia.org/wiki/哈利法塔 "wikilink")（當時 629 米，建成後為 828 米）取代。
+這電視塔距離[布蘭切特西邊約](https://zh.wikipedia.org/wiki/布蘭切特 "wikilink") 3 里，約在[佛哥及](https://zh.wikipedia.org/wiki/佛哥 "wikilink")[大福克斯兩地的中間](https://zh.wikipedia.org/wiki/大福克斯_\(北達科他州\) "wikilink")。它在1963年建成的時候曾是世界最高的人造結構，但在1974年，[華沙電台廣播塔](../Page/華沙電台廣播塔.md "wikilink")建成，以 18 米高度之距成為世界第一；可是它在1991年倒塌，而美國的KVLY塔則重新奪回首位，直至2008年被[阿拉伯聯合酋長國](https://zh.wikipedia.org/wiki/阿拉伯聯合酋長國 "wikilink")[迪拜的](https://zh.wikipedia.org/wiki/迪拜 "wikilink")[哈利法塔](../Page/哈利法塔.md "wikilink")（當時 629 米，建成後為 828 米）取代。
 
 該塔是由[漢密爾頓監督所及](https://zh.wikipedia.org/wiki/漢密爾頓監督所 "wikilink")[克萊恩鋼鐵公司興建](https://zh.wikipedia.org/wiki/克萊恩鋼鐵公司 "wikilink")，用了 30 天完成，而當時的造價則為 $500,000 美元（換算為現在的 $320 萬美元）。
 

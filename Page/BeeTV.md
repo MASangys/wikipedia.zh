@@ -1,16 +1,16 @@
-[Acer_LCD_monitor_of_OmniAd_BeeTV_20070221.jpg](https://zh.wikipedia.org/wiki/File:Acer_LCD_monitor_of_OmniAd_BeeTV_20070221.jpg "fig:Acer_LCD_monitor_of_OmniAd_BeeTV_20070221.jpg") [ShinBus_Route254_AG568_Inside.jpg](https://zh.wikipedia.org/wiki/File:ShinBus_Route254_AG568_Inside.jpg "fig:ShinBus_Route254_AG568_Inside.jpg") **BeeTV**為[臺北都會區](../Page/臺北都會區.md "wikilink")[公車上放映之頻道](https://zh.wikipedia.org/wiki/公車 "wikilink")，為揉合戶外[媒體及傳統](https://zh.wikipedia.org/wiki/媒體 "wikilink")[電視頻道之新型態媒體](https://zh.wikipedia.org/wiki/電視頻道 "wikilink")，2012年1月以前之業主為「合和國際股份有限公司」（合和集團），2012年1月起之業主為「[台灣摩菲爾國際股份有限公司](https://zh.wikipedia.org/wiki/台灣摩菲爾國際 "wikilink")」。
+[Acer_LCD_monitor_of_OmniAd_BeeTV_20070221.jpg](https://zh.wikipedia.org/wiki/File:Acer_LCD_monitor_of_OmniAd_BeeTV_20070221.jpg "fig:Acer_LCD_monitor_of_OmniAd_BeeTV_20070221.jpg") [ShinBus_Route254_AG568_Inside.jpg](https://zh.wikipedia.org/wiki/File:ShinBus_Route254_AG568_Inside.jpg "fig:ShinBus_Route254_AG568_Inside.jpg") **BeeTV**（2003-）為[臺北都會區](../Page/臺北都會區.md "wikilink")[公車上放映之頻道](https://zh.wikipedia.org/wiki/公車 "wikilink")， 該媒體源起於 2003 年交通部的「 市公車動態資訊系統推廣建置計畫」，為揉合戶外[媒體及傳統](https://zh.wikipedia.org/wiki/媒體 "wikilink")[電視頻道之新型態媒體](https://zh.wikipedia.org/wiki/電視頻道 "wikilink")，因後期被乘客抗議且廣告重複播放無實質效益而拆除。2012年1月以前之業主為「合和國際股份有限公司」（合和集團），2012年1月起之業主為「[台灣摩菲爾國際股份有限公司](https://zh.wikipedia.org/wiki/台灣摩菲爾國際 "wikilink")」。
 
 ## 簡介
 
 [Acer_BDS1000.jpg](https://zh.wikipedia.org/wiki/File:Acer_BDS1000.jpg "fig:Acer_BDS1000.jpg")
 
-BeeTV自我定調在「行動頻道」角色。2000年代，合和國際陸續整合[大臺北地區](https://zh.wikipedia.org/wiki/大臺北地區 "wikilink")15家公車業者（[台北客運](https://zh.wikipedia.org/wiki/台北客運 "wikilink")、[東南客運](../Page/東南客運.md "wikilink")、[三重客運](../Page/三重客運.md "wikilink")、[光華巴士](https://zh.wikipedia.org/wiki/光華巴士 "wikilink")、[福和客運](../Page/福和客運.md "wikilink")、[新店客運](https://zh.wikipedia.org/wiki/新店客運 "wikilink")、[新北客運](../Page/新北客運.md "wikilink")(原欣和客運)、[大有巴士](../Page/大有巴士.md "wikilink")、[中興巴士](https://zh.wikipedia.org/wiki/中興巴士 "wikilink")、[指南客運](https://zh.wikipedia.org/wiki/指南客運 "wikilink")、[首都客運](../Page/首都客運.md "wikilink")、[大南汽車](https://zh.wikipedia.org/wiki/大南汽車 "wikilink")、[欣欣客運](https://zh.wikipedia.org/wiki/欣欣客運 "wikilink")、[大都會客運](../Page/大都會客運.md "wikilink")、[淡水客運](../Page/淡水客運.md "wikilink")）共約3800輛大型公車參與BeeTV試運轉，每輛公車裝設2臺[宏碁](../Page/宏碁.md "wikilink")15[吋](https://zh.wikipedia.org/wiki/吋 "wikilink")[液晶顯示器與](https://zh.wikipedia.org/wiki/液晶顯示器 "wikilink")1臺宏碁「BDS1000」[視訊盒播放BeeTV之](https://zh.wikipedia.org/wiki/視訊盒 "wikilink")[廣告](../Page/廣告.md "wikilink")節目。
+BeeTV自我定調在「行動頻道」角色。2003年，合和國際陸續整合[大臺北地區](https://zh.wikipedia.org/wiki/大臺北地區 "wikilink")15家公車業者（[台北客運](https://zh.wikipedia.org/wiki/台北客運 "wikilink")、[東南客運](../Page/東南客運.md "wikilink")、[三重客運](../Page/三重客運.md "wikilink")、[光華巴士](https://zh.wikipedia.org/wiki/光華巴士 "wikilink")、[福和客運](../Page/福和客運.md "wikilink")、[新店客運](https://zh.wikipedia.org/wiki/新店客運 "wikilink")、[新北客運](../Page/新北客運.md "wikilink")(原欣和客運)、[大有巴士](../Page/大有巴士.md "wikilink")、[中興巴士](https://zh.wikipedia.org/wiki/中興巴士 "wikilink")、[指南客運](https://zh.wikipedia.org/wiki/指南客運 "wikilink")、[首都客運](../Page/首都客運.md "wikilink")、[大南汽車](https://zh.wikipedia.org/wiki/大南汽車 "wikilink")、[欣欣客運](https://zh.wikipedia.org/wiki/欣欣客運 "wikilink")、[大都會客運](../Page/大都會客運.md "wikilink")、[淡水客運](../Page/淡水客運.md "wikilink")）共約3800輛大型公車參與BeeTV試運轉，每輛公車裝設2臺[宏碁](../Page/宏碁.md "wikilink")15[吋](https://zh.wikipedia.org/wiki/吋 "wikilink")[液晶顯示器與](https://zh.wikipedia.org/wiki/液晶顯示器 "wikilink")1臺宏碁「BDS1000」[視訊盒播放BeeTV之](https://zh.wikipedia.org/wiki/視訊盒 "wikilink")[廣告](../Page/廣告.md "wikilink")節目。
 
 穿梭大街小巷的BeeTV行動頻道，以最貼近消費大眾生活化的廣宣方式，將過去車體廣告中內容不足的部分，克服技術層面問題、全面增強趣味性後，為車體廣告注入嶄新的表現方式，並使其成為大台北地區最風光的移動式廣告媒體。
 
 BeeTV播放內容主要為電視[商業廣告](https://zh.wikipedia.org/wiki/商業廣告 "wikilink")，為公車內商業廣告播映的電視頻道，時有[台北市政府委播介紹節目](https://zh.wikipedia.org/wiki/台北市政府 "wikilink")，並無任何主題節目；部分節目甚至是電視頻道業者供應的預告廣告用片段（多為[八大電視](../Page/八大電視.md "wikilink")、[緯來電視網](../Page/緯來電視網.md "wikilink")、[MTV](../Page/音樂電視網.md "wikilink")、[台視](https://zh.wikipedia.org/wiki/台視 "wikilink")、[非凡電視台](../Page/非凡電視台.md "wikilink")委託播出），或為委託的商業[Flash動畫製作業者作為公司作品](https://zh.wikipedia.org/wiki/Flash "wikilink")[宣傳](https://zh.wikipedia.org/wiki/宣傳 "wikilink")[媒體](https://zh.wikipedia.org/wiki/媒體 "wikilink")，藉此增加知名度換取商業代言之用。
 
-2012年1月，台灣摩菲爾國際宣布BeeTV重出江湖，首先進駐大有巴士營運的5條[臺北聯營公車路線](https://zh.wikipedia.org/wiki/臺北聯營公車 "wikilink")（212、262、263、307、信義幹線）。
+2012年1月，台灣摩菲爾國際宣布BeeTV重出江湖，進駐大有巴士營運的5條[臺北聯營公車路線](https://zh.wikipedia.org/wiki/臺北聯營公車 "wikilink")（212、262、263、307、信義幹線），為了避免先前惱人的噪音問題，廣告播放一率禁音。
 
 ## 節目內容
 
@@ -22,7 +22,7 @@ BeeTV播放內容主要為電視[商業廣告](https://zh.wikipedia.org/wiki/商
   - 交友、拍賣、個人表演秀
   - 頻道商委播節目（由[八大電視](../Page/八大電視.md "wikilink")、[緯來電視網](../Page/緯來電視網.md "wikilink")、[MTV](https://zh.wikipedia.org/wiki/MTV "wikilink")、[非凡電視台](../Page/非凡電視台.md "wikilink")、台視、[華視等提供新節目宣傳片段](../Page/中華電視公司.md "wikilink")）
 
-## 反對意見
+## 爭議
 
 有部分乘客發動連署拒看強制性僅有[廣告](../Page/廣告.md "wikilink")播放的媒體。2005年，一位網友BusMan為此不但架設了「公車輓歌」系列新聞台、部落格網站，並在3個月內匯集近萬名的瀏覽人氣，還自製反抗貼紙免費提供下載，呼籲公車族「揭竿起義」將電視節目、廣告與台北市政府政令宣導短片逐出公車車廂。
 

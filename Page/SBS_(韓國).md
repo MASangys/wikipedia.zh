@@ -116,9 +116,9 @@
   -
   - [Style Follow](../Page/Style_Follow.md "wikilink")
 
-  - [亲爱的百年客人](https://zh.wikipedia.org/wiki/亲爱的百年客人 "wikilink")
+  - [亲爱的百年客人](../Page/亲爱的百年客人.md "wikilink")
 
-  - [叢林的法則](https://zh.wikipedia.org/wiki/叢林的法則 "wikilink")
+  - [叢林的法則](../Page/叢林的法則.md "wikilink")
 
   - [白种元的胡同餐馆](https://zh.wikipedia.org/wiki/白种元的胡同餐馆 "wikilink")
 

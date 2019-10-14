@@ -116,7 +116,7 @@ CQ突擊步槍也曾出現在一些[中國大陸製作的軍事題材](https://z
 1.
 2.  [大量國産輕武器現身珠海航展引軍迷圍觀－CS/LR2型5.56毫米自動步槍](http://mil.eastday.com/2013slideshow/20141113_1/index3.html)
 3.  <http://kimedia.blogspot.tw/2014/01/brigade-911-had-brutal-history-before.html>
-4.  [彭州公安鸣枪凭吊地震中牺牲民警(图)_网易新闻中心](http://news.163.com/09/0404/05/561JVFOR0001124J.html) 2009年10月9日核实
+4.  [彭州公安鸣枪凭吊地震中牺牲民警(图)_网易新闻中心](http://news.163.com/09/0404/05/561JVFOR0001124J.html)  2009年10月9日核实
 5.  [重慶閃電突擊隊使用的部分槍械](http://news.discuss.com.hk/viewthread.php?tid=15977315&extra=page%3D1) 2011年11月17日核实
 6.  <http://chinesemilitaryreview.blogspot.hk/2013/03/chinese-special-operations-forces-sof.html>
 7.  [5th Annual Warrior Competition](http://warriorcompetition.com/Warrior_Competition/WC_teams_2013.html)

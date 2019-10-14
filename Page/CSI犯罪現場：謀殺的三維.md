@@ -32,6 +32,6 @@
 
   - [CSI 《CSI犯罪現場：謀殺的三維》官方網站](http://www.ubi.com/US/Games/Info.aspx?pId=4323)
   - [IGN](../Page/IGN.md "wikilink")上[CSI 《CSI犯罪現場：謀殺的三維》的評論](http://pc.ign.com/articles/701/701696p1.html)
-  - [Immersed in the World of CSI](http://www.telltalegames.com/blogs/telltale/?permalink=54AFF95AD48B5F22817340152AE22BDD.txt&smm=y) - 由《CSI犯罪現場：謀殺的三維》的設計者Greg Land所寫的開發者日記
+  - [Immersed in the World of CSI](https://web.archive.org/web/20120208032628/http://www.telltalegames.com/blogs/telltale/?permalink=54AFF95AD48B5F22817340152AE22BDD.txt&smm=y) - 由《CSI犯罪現場：謀殺的三維》的設計者Greg Land所寫的開發者日記
 
 [Category:2006年电子游戏](https://zh.wikipedia.org/wiki/Category:2006年电子游戏 "wikilink") [Category:冒險遊戲](https://zh.wikipedia.org/wiki/Category:冒險遊戲 "wikilink") [Category:第一人称冒险游戏](https://zh.wikipedia.org/wiki/Category:第一人称冒险游戏 "wikilink") [Category:电视改编电子游戏](https://zh.wikipedia.org/wiki/Category:电视改编电子游戏 "wikilink") [Category:育碧游戏](https://zh.wikipedia.org/wiki/Category:育碧游戏 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:CSI犯罪現場](https://zh.wikipedia.org/wiki/Category:CSI犯罪現場 "wikilink") [Category:Telltale_Games游戏](https://zh.wikipedia.org/wiki/Category:Telltale_Games游戏 "wikilink")

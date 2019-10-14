@@ -10,10 +10,10 @@ Taste部份分店是翻新同一集團旗下百佳超級廣場後，改以新模
 
   - [香港島](../Page/香港島.md "wikilink")
 
-| 分店地址                                                                                                                  | 營業時間            | 店舖設計                |
-| --------------------------------------------------------------------------------------------------------------------- | --------------- | ------------------- |
-| [灣仔](../Page/灣仔.md "wikilink")[合和中心](../Page/合和中心.md "wikilink")地下及地庫全層                                               | 08:00am–10:30pm | 舊裝修                 |
-| [北角](../Page/北角.md "wikilink")[港運城](../Page/港運城.md "wikilink")[成坤廣場地庫](https://zh.wikipedia.org/wiki/成坤廣場 "wikilink") |                 | 全新店舖，（原百佳超級市場在商場二樓） |
+| 分店地址                                                                                                                  | 營業時間            | 店舖設計               |
+| --------------------------------------------------------------------------------------------------------------------- | --------------- | ------------------ |
+| [灣仔](../Page/灣仔.md "wikilink")[合和中心](../Page/合和中心.md "wikilink")地下及地庫全層                                               | 08:00am–10:30pm | 舊裝修                |
+| [北角](../Page/北角.md "wikilink")[港運城](../Page/港運城.md "wikilink")[成坤廣場地庫](https://zh.wikipedia.org/wiki/成坤廣場 "wikilink") |                 | 全新店舖（原百佳超級市場在商場二樓） |
 
   - [九龍](../Page/九龍.md "wikilink")
 
@@ -32,7 +32,7 @@ Taste部份分店是翻新同一集團旗下百佳超級廣場後，改以新模
 | [屯門](../Page/屯門.md "wikilink")[屯門市廣場](../Page/屯門市廣場.md "wikilink")2期2樓全層                                                        | 08:00am–10:30pm | 新裝修                              |
 | [青衣](https://zh.wikipedia.org/wiki/青衣 "wikilink")[青衣城](../Page/青衣城.md "wikilink")3樓313號舖                                        | 08:00am–10:30pm | 舊裝修                              |
 | [荃灣](../Page/荃灣.md "wikilink")[荃灣站](../Page/荃灣站.md "wikilink")[綠楊坊](../Page/綠楊坊.md "wikilink")                                  | 08:00am–10:30pm | 新裝修（原International by PARKnSHOP） |
-| [荃灣](../Page/荃灣.md "wikilink")[荃灣西站](../Page/荃灣西站.md "wikilink")[海之戀商場](https://zh.wikipedia.org/wiki/海之戀商場 "wikilink")3樓3011號舖 |                 | 全新店舖（預計於2019年下半年開幕）              |
+| [荃灣](../Page/荃灣.md "wikilink")[荃灣西站](../Page/荃灣西站.md "wikilink")[海之戀商場](https://zh.wikipedia.org/wiki/海之戀商場 "wikilink")3樓3011號舖 |                 | 2019年9月20日開幕，全新店舖                |
 | [馬鞍山](https://zh.wikipedia.org/wiki/馬鞍山 "wikilink")[馬鞍山廣場](https://zh.wikipedia.org/wiki/馬鞍山廣場 "wikilink")3樓343-363號舖           | 08:00am–10:00pm | 新裝修                              |
 | [馬鞍山](https://zh.wikipedia.org/wiki/馬鞍山 "wikilink")[WeGoMALL](https://zh.wikipedia.org/wiki/WeGoMALL "wikilink")301室            | 08:00am–10:00pm | 2018年5月11日開幕，全新店舖                |
 | [元朗千色匯](../Page/元朗千色匯.md "wikilink")地庫1樓全層                                                                                      | 08:00am–10:00pm | 新裝修                              |

@@ -1,12 +1,12 @@
-**EC編號**或**EC號**是為[酶](../Page/酶.md "wikilink")所製作的一套[編號分類法](https://zh.wikipedia.org/wiki/編號 "wikilink")，是以每種酶所[催化](../Page/催化.md "wikilink")的[化學反應為分類基礎](https://zh.wikipedia.org/wiki/化學反應 "wikilink")。\[1\]這套分類法亦同時會為各種酶給予一個建議的名稱，所以亦稱為**酶學[委員會](https://zh.wikipedia.org/wiki/委員會 "wikilink")[命名法](https://zh.wikipedia.org/wiki/命名 "wikilink")**。
+**EC編號**或**EC號**是為[酶](../Page/酶.md "wikilink")所製作的一套[編號分類法](https://zh.wikipedia.org/wiki/編號 "wikilink")，是以每種酶所[催化](../Page/催化.md "wikilink")的[化學反應為分類基礎](https://zh.wikipedia.org/wiki/化學反應 "wikilink")\[1\]。這套分類法亦同時會為各種酶給予一個建議的名稱，所以亦稱為**酶學委員會命名法**。
 
 ## 历史
 
-於1955年在[布魯塞爾舉行的國際生物化學大會](https://zh.wikipedia.org/wiki/布魯塞爾 "wikilink")，設立了**酶學委員會**，這個酶命名法才開始發展，初版於1961年發行。於1992年在[國際](https://zh.wikipedia.org/wiki/國際 "wikilink")[生物化學與](https://zh.wikipedia.org/wiki/生物化學 "wikilink")[分子生物學大會中發行的第六版中](https://zh.wikipedia.org/wiki/分子生物學 "wikilink")，已包含有3196種不同的酶。
+於1955年在[布魯塞爾舉行的國際生物化學大會](https://zh.wikipedia.org/wiki/布魯塞爾 "wikilink")，設立了**酶學委員會**，這個酶命名法才開始發展，初版於1961年發行。於1992年在國際生物化學與分子生物學大會中發行的第六版中，已包含有3196種不同的酶。
 
 ## 编号规则
 
-每一個酶的[編號都以字母](https://zh.wikipedia.org/wiki/編號 "wikilink")「EC」起頭，接著以四個號碼來表示，這些號碼代表逐步更細緻的為酶作出分類。就如[三肽胺基 蛋白酶的編號為EC](https://zh.wikipedia.org/wiki/三肽胺基_蛋白酶 "wikilink")3.4.11.4，當中的「EC3」是指[水解酶](../Page/水解酶.md "wikilink")（即以[水](../Page/水.md "wikilink")來將分子分解的酶）；「EC3.4」是那些與[肽鍵產生作用的水解酶](https://zh.wikipedia.org/wiki/肽鍵 "wikilink")；「EC3.4.11」是單指那些從[多胜肽中分開胺基末端的水解酶](../Page/肽.md "wikilink")；「EC3.4.11.4」則是從[三肽中分開胺基末端的水解酶](https://zh.wikipedia.org/wiki/三肽 "wikilink")。
+每一個酶的編號都以字母「EC」起頭，接著以四個號碼來表示，這些號碼代表逐步更細緻的為酶作出分類。就如[三肽胺基 蛋白酶的編號為EC](https://zh.wikipedia.org/wiki/三肽胺基_蛋白酶 "wikilink")3.4.11.4，當中的「EC3」是指[水解酶](../Page/水解酶.md "wikilink")（即以[水](../Page/水.md "wikilink")來將分子分解的酶）；「EC3.4」是那些與[肽鍵產生作用的水解酶](https://zh.wikipedia.org/wiki/肽鍵 "wikilink")；「EC3.4.11」是單指那些從[多胜肽中分開胺基末端的水解酶](../Page/肽.md "wikilink")；「EC3.4.11.4」則是從[三肽中分開胺基末端的水解酶](https://zh.wikipedia.org/wiki/三肽 "wikilink")。
 
 嚴格來說，EC編號並非指定不同種類的酶，而是指定[催化](../Page/催化.md "wikilink")作用。如不同的酶（在不同的生物中）催化同一的各應，它們均會編有同一的編號。
 
@@ -71,11 +71,7 @@ A + O → AO (<small><strong>氧化</strong></small>)</p></td>
 </tbody>
 </table>
 
-## 参阅
-
-  - [酶列表](../Page/酶列表.md "wikilink")
-
-## 註釋
+## 参考文献
 
 ## 外部链接
 
@@ -83,6 +79,10 @@ A + O → AO (<small><strong>氧化</strong></small>)</p></td>
   - [Enzyme nomenclature database](https://web.archive.org/web/20060218084611/http://www.expasy.org/enzyme/) — by
   - [List of all EC numbers](https://web.archive.org/web/20100802075720/http://www.brenda-enzymes.org/information/all_enzymes.php4) — by
   - [Browse PDB structures by EC number](http://www.pdbe.org/ec)
+
+## 参见
+
+  - [酶列表](../Page/酶列表.md "wikilink")
 
 {{-}}
 

@@ -6,7 +6,7 @@ ATI的第一張DirectX 8顯示卡就是Radeon 8500。在2002年初期，ATI發�
 
 ### 結構
 
-Radeon 8500的基本結構與當時的其他顯示卡差不多；它擁有四個像素單元，每個像素單元擁有兩個紋理單元。它亦支援DirectX 8.1的頂點著色引擎和像素著色引擎，它的兩個頂點著色引擎被稱為**Charisma Engine II**，為新的頂點著色程式和舊的DirectX 7硬體T\&L都提供出色的效能。
+Radeon 8500的基本結構與當時的其他顯示卡差不多；它擁有四個像素單元，每個像素單元擁有兩個紋理單元。它亦支援DirectX 8.1的[頂點著色引擎和像素著色引擎](https://zh.wikipedia.org/wiki/頂點著色引擎 "wikilink")，它的兩個頂點著色引擎被稱為**Charisma Engine II**，為新的頂點著色程式和舊的DirectX 7硬體T\&L都提供出色的效能。
 
 R200支援像素著色器版本1.4，相對1.x版本的設計，這個修訂版本是意義重大的。鑑於PS1.2和1.3只是PS1.1的改進版， 8500擁有第一和唯一的ATI硬體加速鑲嵌繪圖引擎，名為"[Truform](https://zh.wikipedia.org/wiki/Truform "wikilink")"。它可以在立體模型上增加多邊形，令模型更平滑。這種技術儘管要求開發者支援，但卻不能完善支援；不幸地，"Truform"對所有[三維渲染方案而言都不是完美的](../Page/渲染.md "wikilink")，亦傾向不合意地對物體進行此動作。未來的ATI GPU並沒有硬體加速Truform，而只作出支援。未來的GPU一是透過CPU去模擬Truform，一是利用頂點著色程序模擬，兩者都不能與8500的Truform單元般有效率。
 
@@ -26,7 +26,7 @@ Radeon 8500最令人掃興的事就是最初發佈的驅動程式。發佈時，
 
 ## 主流產品線
 
-Radeon 9000 (RV250)與[9700同時推出](https://zh.wikipedia.org/wiki/Radeon_R300 "wikilink")（ATI的新旗艦級產品）。這個晶片的紋理單元由兩個削減至一個，頂點單元由兩個削減至一個，亦取消了"TruForm"單元、階梯式Z緩存。使核心配置成為4x1**像素／紋理**佈局。除了功能被削減外，亦精煉起來。紋理緩衝亦加倍地提升至4KB，改善了R200的效率。正是由於這樣，它的效能都有一定的競爭性，考慮到"R200"核心是較昂貴、較大和較消耗電能。在遊戲中，它的性能與[GeForce 4](https://zh.wikipedia.org/wiki/GeForce_4 "wikilink") MX440相當，它的優勢主要是由於能完整支援[DirectX](../Page/DirectX.md "wikilink") 8.1的頂點著色引擎和像素著色引擎。Radeon 9000在主流市場取代了毫無競爭力的[Radeon 7500](https://zh.wikipedia.org/wiki/Radeon_R100 "wikilink") (RV200)
+Radeon 9000 (RV250)與[9700同時推出](https://zh.wikipedia.org/wiki/Radeon_R300 "wikilink")（ATI的新旗艦級產品）。這個晶片的紋理單元由兩個削減至一個，[頂點單元由兩個削減至一個](../Page/頂點_\(電腦圖學\).md "wikilink")，亦取消了"TruForm"單元、階梯式Z緩存。使核心配置成為4x1**像素／紋理**佈局。除了功能被削減外，亦精煉起來。紋理緩衝亦加倍地提升至4KB，改善了R200的效率。正是由於這樣，它的效能都有一定的競爭性，考慮到"R200"核心是較昂貴、較大和較消耗電能。在遊戲中，它的性能與[GeForce 4](https://zh.wikipedia.org/wiki/GeForce_4 "wikilink") MX440相當，它的優勢主要是由於能完整支援[DirectX](../Page/DirectX.md "wikilink") 8.1的頂點著色引擎和像素著色引擎。Radeon 9000在主流市場取代了毫無競爭力的[Radeon 7500](https://zh.wikipedia.org/wiki/Radeon_R100 "wikilink") (RV200)
 
 後期的9000版本就是9200 (RV280)，支援[AGP](../Page/AGP.md "wikilink")-8X。但是，还有更便宜的版本，就是9200SE。9200SE的記憶體頻寬只有64-bit。另一個版本是Radeon 9250，於2004年夏季推出。它是9200的降頻版本。 它的核心與"RV280" GPU相同。它擁有的顯示記憶體通常比Radeon 9200多（128 MB甚至256 MB），充分利用當時低成本高密度的[DDR SDRAM](../Page/DDR_SDRAM.md "wikilink")，這是當時普遍的趨勢。
 

@@ -596,7 +596,7 @@
 <td><p>0.0%</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/凱文·安德森" title="wikilink">凱文·安德森</a></p></td>
+<td><p><a href="../Page/凱文·安德森_(網球運動員).md" title="wikilink">凱文·安德森</a></p></td>
 <td><p>2018</p></td>
 <td><p>SF (2018)</p></td>
 <td><p>1</p></td>

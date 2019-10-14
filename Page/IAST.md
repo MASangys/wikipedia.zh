@@ -160,12 +160,19 @@ IAST是羅馬化梵語和[巴利語的最流行的方案](https://zh.wikipedia.o
 
 ## 參見
 
+  -
   - [天城文轉寫](../Page/天城文轉寫.md "wikilink")
+
   - [Harvard-Kyoto](https://zh.wikipedia.org/wiki/Harvard-Kyoto "wikilink")
+
   - [ITRANS](../Page/ITRANS.md "wikilink")
+
   - [加爾各答國家圖書館羅馬化](../Page/加爾各答國家圖書館羅馬化.md "wikilink")
+
   - [ISO 15919](../Page/ISO_15919.md "wikilink")
+
   - [濕婆經](../Page/濕婆經.md "wikilink")
+
   - [梵文藏文轉寫體系](../Page/梵文藏文轉寫體系.md "wikilink")
 
 ## 引用

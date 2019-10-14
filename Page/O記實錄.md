@@ -330,7 +330,7 @@ Teddy<br />
 </p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/薛純基" title="wikilink">薛純基</a></p></td>
+<td><p><a href="../Page/薛純基.md" title="wikilink">薛純基</a></p></td>
 <td><p>李　鳴</p></td>
 <td><p>汕頭旗兵<br />
 哥士的手下<br />

@@ -84,7 +84,7 @@ Cocoa本身由Objective-C语言写成，因此Objective-C是开发Cocoa应用的
 ## 外部链接
 
   - [Apple的Cocoa文档](https://web.archive.org/web/20090301174219/http://developer.apple.com/documentation/Cocoa/Cocoa.html)
-  - [iDevApps - Cocoa编程论坛](http://www.idevapps.com)
+  - [iDevApps - Cocoa编程论坛](https://web.archive.org/web/20190202170514/http://www.idevapps.com/)
   - [CocoaDev](http://www.cocoadev.com/)
   - [Cocoa Dev Central](http://cocoadevcentral.com/)
 

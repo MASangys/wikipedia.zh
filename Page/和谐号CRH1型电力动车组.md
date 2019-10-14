@@ -209,7 +209,7 @@ CRH1E-NG设计为[卧铺动车组](https://zh.wikipedia.org/wiki/高铁动卧 "w
 <td><p>1169、1172～1176、1217、1218、1234～1236、1242、1243、1247～1249</p></td>
 <td><p>深圳北</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/杭福深客运专线" title="wikilink">杭福深铁路</a>、<a href="https://zh.wikipedia.org/wiki/广深港高铁" title="wikilink">广深港高铁</a></p></td>
-<td><p>担当杭深线涉港车次中由广州局集团值乘的部分</p></td>
+<td><p>杭深线涉港车次中由广州局集团值乘的部分均由此擔當</p></td>
 </tr>
 <tr class="odd">
 <td><p>18</p></td>
@@ -992,7 +992,7 @@ ZE 1xxx00</p></td>
 <tr class="even">
 <td><p>牵引功率</p></td>
 <td><p>265 kW x20=5300 kW</p></td>
-<td><p>11000 kW</p></td>
+<td><p>275 kW x40=11000 kW</p></td>
 <td></td>
 </tr>
 <tr class="odd">

@@ -8,7 +8,7 @@
 
 ### 頂點著色單元(Vertex Shader)
 
-GeForce3不僅整合了來自之前[GeForce 256和](https://zh.wikipedia.org/wiki/GeForce_256 "wikilink")[GeForce2晶片的](https://zh.wikipedia.org/wiki/GeForce2 "wikilink")「靜態」座標轉換和照明引擎，更增加了稱為「頂點著色單元」的可程式化頂點處理器功能。遊戲開發者可藉由加上頂點程式，讓遊戲產生令人驚豔的全新效果。
+GeForce3不僅整合了來自之前[GeForce 256和](https://zh.wikipedia.org/wiki/GeForce_256 "wikilink")[GeForce2晶片的](https://zh.wikipedia.org/wiki/GeForce2 "wikilink")「靜態」座標轉換和照明引擎，更增加了稱為「頂點著色單元」的可程式化[頂點處理器功能](../Page/頂點_\(電腦圖學\).md "wikilink")。遊戲開發者可藉由加上頂點程式，讓遊戲產生令人驚豔的全新效果。
 
 ### 像素著色單元(Pixel Shader)
 

@@ -110,7 +110,7 @@ My Little Airport的唱片至今已先後被[西班牙](../Page/西班牙.md "wi
   - 2012年10月20日：《**[寂寞的星期五](../Page/寂寞的星期五.md "wikilink")**》
   - 2014年10月1日：《**[適婚的年齡](https://zh.wikipedia.org/wiki/適婚的年齡 "wikilink")**》
   - 2016年9月15日：《**[火炭麗琪](https://zh.wikipedia.org/wiki/火炭麗琪 "wikilink")**》\[20\]
-  - 2018年9月30日：《**[你說之後會找我](https://zh.wikipedia.org/wiki/你說之後會找我 "wikilink")**》
+  - 2018年9月30日：《**[你說之後會找我](../Page/你說之後會找我.md "wikilink")**》
 
 ## 音樂會
 
@@ -161,7 +161,7 @@ My Little Airport成員社交網站：
 11.
 12.
 13.
-14. [globalvoicesonline.org/2009/05/18/hong-kong-donald-tsang-please-die](https://globalvoices.org/2009/05/18/hong-kong-donald-tsang-please-die/)
+14.
 15.
 16.
 17.

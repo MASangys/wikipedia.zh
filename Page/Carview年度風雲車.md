@@ -96,7 +96,7 @@
 
 ## 外部連結
 
-  - [Carview年度風雲車（Carview Car of the Year；CVCOTY）](http://www.carview.co.jp/magazine/special/2006/cvcoty/)
+  - [Carview年度風雲車（Carview Car of the Year；CVCOTY）](https://web.archive.org/web/20070210004815/http://www.carview.co.jp/magazine/special/2006/cvcoty/)
 
 [Category:日本汽車獎項](https://zh.wikipedia.org/wiki/Category:日本汽車獎項 "wikilink")
 

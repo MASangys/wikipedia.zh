@@ -54,7 +54,7 @@ iPhone 所採用的多點觸控技術和它友好的用戶界面被認為是其�
 
 2018年9月12日，Apple推出了三款新设备：iPhone XR，iPhone XS和iPhone XS Max。这三款设备都配备了新款处理器Apple A12 Bionic。与之前的iPhone X相比，iPhone XS没有太多视觉上的变化。iPhone XR是三款新机型中最便宜的。它配备较少，没有双摄像头，并配有LCD屏幕。
 
-2019年9月10日，Apple推出了三款新设备：[iPhone 11](https://zh.wikipedia.org/wiki/iPhone_11 "wikilink")，[iPhone 11 Pro和iPhone 11 Pro Max](https://zh.wikipedia.org/wiki/iPhone_11_Pro "wikilink")。这三款设备都配备了新款处理器Apple A13 Bionic。
+2019年9月10日，Apple推出了三款新设备：[iPhone 11](https://zh.wikipedia.org/wiki/iPhone_11 "wikilink")，[iPhone 11 Pro和iPhone 11 Pro Max](https://zh.wikipedia.org/wiki/iPhone_11_Pro "wikilink")。这三款设备都配备了新款处理器Apple A13 Bionic及4GB RAM。
 
 ## 硬件
 
@@ -185,7 +185,7 @@ iPhone 7提供32GB、128GB和256GB的容量選擇，與之前的iPhone 6不一�
 
 iPhone8及iPhone8 Plus以及iPhoneX只有64GB、256GB兩種容量。
 
-从iPhone XS，iPhone XS Plus和iPhone XR开始支持同时使用兩張SIM卡，一張為SIM卡，另一張為沒有實體的eSIM卡，但是中国、香港及澳门的iPhone Xs Max和iPhone Xr两种机型可以使用双实体Nano SIM卡。
+从iPhone XS，iPhone XS Plus和iPhone XR开始支持同时使用兩張SIM卡，一張為SIM卡，另一張為沒有實體的eSIM卡，但是中国、香港及澳门賣3種機型都可以使用双实体Nano SIM卡。
 
 ### 隨機配件
 
@@ -561,27 +561,29 @@ iPhone為不同人士提供一個[無障礙環境](../Page/無障礙環境.md "w
 <th><p><a href="https://zh.wikipedia.org/wiki/iPhone_8" title="wikilink">iPhone 8</a></p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/iPhone_8_Plus" title="wikilink">iPhone 8 Plus</a></p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/iPhone_X" title="wikilink">iPhone X</a></p></th>
-<th><p><a href="../Page/IPhone_XS.md" title="wikilink">iPhone XS/Max</a></p></th>
-<th><p><strong>iPhone XR</strong></p></th>
+<th><p><a href="../Page/IPhone_XS.md" title="wikilink">IPhone XS</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iPhone_XS_Max" title="wikilink">iPhone XS Max</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iPhone_XR" title="wikilink">iPhone XR</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>rowspan="1"  class="table-rh" |<a href="https://zh.wikipedia.org/wiki/預載作業系統" title="wikilink">預載作業系統</a></p></td>
-<td><p>iOS 1.0</p></td>
-<td><p>iOS 2.0</p></td>
-<td><p>iOS 3.0</p></td>
-<td><p>iOS 4.0</p></td>
-<td><p>iOS 5.0</p></td>
-<td><p>iOS 6.0</p></td>
-<td><p>iOS 7.0</p></td>
-<td><p>iOS 7.0</p></td>
-<td><p>iOS 8.0</p></td>
-<td><p>iOS 9.0</p></td>
-<td><p>iOS 9.3</p></td>
-<td><p>iOS 10.0</p></td>
-<td><p>iOS 11.0</p></td>
-<td><p>iOS 12.0</p></td>
+<td><p>rowspan="1"  class="table-rh" |預載<a href="https://zh.wikipedia.org/wiki/作業系統" title="wikilink">作業系統</a></p></td>
+<td><p>iPhone OS 1.0</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iPhone_OS_2" title="wikilink">iPhone OS 2.0</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iPhone_OS_3" title="wikilink">iPhone OS 3.0</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS_4" title="wikilink">iOS 4.0</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS_5" title="wikilink">iOS 5.0</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS_6" title="wikilink">iOS 6.0</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS_7" title="wikilink">iOS 7.0</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS_7" title="wikilink">iOS 7.0</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS_8" title="wikilink">iOS 8.0</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS_9" title="wikilink">iOS 9.0</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS_9" title="wikilink">iOS 9.3</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS_10" title="wikilink">iOS 10.0</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS_11" title="wikilink">iOS 11.0</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS_12" title="wikilink">iOS 12.0</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -590,16 +592,17 @@ iPhone為不同人士提供一個[無障礙環境](../Page/無障礙環境.md "w
 <td></td>
 </tr>
 <tr class="even">
-<td><p>rowspan="1"  class="table-rh" |<small>升至最新iOS版本</small></p></td>
-<td><p>iPhone OS 3.1.3</p></td>
-<td><p>iOS 4.2.1</p></td>
-<td><p>iOS 6.1.6</p></td>
-<td><p>iOS 7.1.2</p></td>
-<td><p>iOS 9.3.6</p></td>
-<td><p>iOS 10.3.4</p></td>
-<td><p>iOS 10.3.3</p></td>
-<td><p>iOS 12.4.1</p></td>
-<td><p>iOS 12.4.1</p></td>
+<td><p>rowspan="1"  class="table-rh" |<small>升至最新<a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS版本</a></small></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS_3" title="wikilink">iPhone OS 3.1.3</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS_4" title="wikilink">iOS 4.2.1</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS_6" title="wikilink">iOS 6.1.6</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS_7" title="wikilink">iOS 7.1.2</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS_9" title="wikilink">iOS 9.3.6</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS_10" title="wikilink">iOS 10.3.4</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS_10" title="wikilink">iOS 10.3.3</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS_12" title="wikilink">iOS 12.4.1</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS_13" title="wikilink">iOS 13.0</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -646,6 +649,8 @@ iPhone為不同人士提供一個[無障礙環境](../Page/無障礙環境.md "w
 搭載In Cell技術的多點觸控螢幕。</p></td>
 <td><p>5.8吋，2436×1125像素，解像度458 PPI，<br />
 搭載全螢幕 OLED Multi-Touch 顯示器。</p></td>
+<td><p>6.5吋，2,688×1,242像素，解像度458 PPI，<br />
+搭載全螢幕 OLED Multi-Touch 顯示器。</p></td>
 <td><p>6.1吋，1792×828像素，解像度326 PPI，<br />
 搭載全螢幕 LCD Multi-Touch 顯示器。</p></td>
 <td></td>
@@ -672,6 +677,7 @@ iPhone為不同人士提供一個[無障礙環境](../Page/無障礙環境.md "w
 <td><p>64或256 GB</p></td>
 <td><p>64,256或512 GB</p></td>
 <td><p>64,128或256 GB</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -708,11 +714,15 @@ Samsung S5PC100[187]<br />
 <td><p><a href="../Page/Apple_A9.md" title="wikilink">Apple A9處理器</a><br />
 （搭配嵌入式 M9 動作感應協同處理器）<br />
 64位元手機</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Apple_A10" title="wikilink">Apple A10</a> Fusion處理器 (搭配嵌入式 M10 動作感應協同處理器)</p>
-<p>64 位元手機</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Apple_A11" title="wikilink">Apple A11</a> Bionic處理器 (搭配嵌入式 M11 動作感應協同處理器)</p>
-<p>64 位元手機</p></td>
-<td><p><a href="../Page/Apple_A12_Bionic.md" title="wikilink">Apple A12</a> Bionic處理器(搭配嵌入式 M12 動作感應協同處理器 64為</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Apple_A10" title="wikilink">Apple A10</a> Fusion處理器<br />
+(搭配嵌入式 M10 動作感應協同處理器)<br />
+64位元手機</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Apple_A11" title="wikilink">Apple A11</a> Bionic處理器<br />
+(搭配嵌入式 M11 動作感應協同處理器)<br />
+64位元手機</p></td>
+<td><p><a href="../Page/Apple_A12_Bionic.md" title="wikilink">Apple A12</a> Bionic處理器（搭配嵌入式 M12 動作感應協同處理器）<br />
+64位元手機</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -745,6 +755,7 @@ Samsung S5PC100[187]<br />
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>class="table-rh" |<a href="../Page/圖形處理器.md" title="wikilink">圖形處理器</a></p></td>
@@ -760,7 +771,8 @@ Samsung S5PC100[187]<br />
 <td><p><a href="https://zh.wikipedia.org/wiki/PowerVR#Series_6" title="wikilink">PowerVR G6450</a>（4個<a href="https://zh.wikipedia.org/wiki/計算機叢集" title="wikilink">計算機叢集</a>)</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/PowerVR#Series_7" title="wikilink">PowerVR GT7600</a>（6個<a href="https://zh.wikipedia.org/wiki/計算機叢集" title="wikilink">計算機叢集</a>)</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/PowerVR#Series7XT_.28Rogue.29" title="wikilink">PowerVR Series 7XT GT7600 Plus</a> （6個<a href="https://zh.wikipedia.org/wiki/計算機叢集" title="wikilink">計算機叢集</a>)</p></td>
-<td></td>
+<td><p>蘋果自行研發的3核GPU</p></td>
+<td><p>蘋果自行研發的4核GPU"G11P"</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -788,7 +800,8 @@ Samsung S5PC100[187]<br />
 <td><p>3 GB LPDDR4 DRAM</p></td>
 <td><p>2 GB LPDDR4 DRAM</p></td>
 <td><p>3 GB LPDDR4 DRAM</p></td>
-<td></td>
+<td><p>4 GB LPDDR4 DRAM</p></td>
+<td><p>3 GB LPDDR4 DRAM</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -820,6 +833,7 @@ Samsung S5PC100[187]<br />
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>class="table-rh" |<strong>網路連結</strong></p></td>
@@ -827,7 +841,8 @@ Samsung S5PC100[187]<br />
 <td><p><a href="../Page/Wi-Fi.md" title="wikilink">Wi-Fi</a>（<a href="../Page/IEEE_802.11.md" title="wikilink">802.11</a> <a href="../Page/IEEE_802.11b-1999.md" title="wikilink">b</a>/<a href="../Page/IEEE_802.11g-2003.md" title="wikilink">g</a>/<a href="https://zh.wikipedia.org/wiki/IEEE_802.11n-2009" title="wikilink">n</a>）</p></td>
 <td><p><a href="../Page/Wi-Fi.md" title="wikilink">Wi-Fi</a>（<a href="../Page/IEEE_802.11.md" title="wikilink">802.11</a> <a href="https://zh.wikipedia.org/wiki/IEEE_802.11a" title="wikilink">a</a>/<a href="../Page/IEEE_802.11b-1999.md" title="wikilink">b</a>/<a href="../Page/IEEE_802.11g-2003.md" title="wikilink">g</a>/<a href="https://zh.wikipedia.org/wiki/IEEE_802.11n-2009" title="wikilink">n</a>）</p></td>
 <td><p><a href="../Page/Wi-Fi.md" title="wikilink">Wi-Fi</a>（<a href="../Page/IEEE_802.11.md" title="wikilink">802.11</a> <a href="https://zh.wikipedia.org/wiki/IEEE_802.11a" title="wikilink">a</a>/<a href="../Page/IEEE_802.11b-1999.md" title="wikilink">b</a>/<a href="../Page/IEEE_802.11g-2003.md" title="wikilink">g</a>/<a href="https://zh.wikipedia.org/wiki/IEEE_802.11n-2009" title="wikilink">n</a>/<a href="../Page/IEEE_802.11ac.md" title="wikilink">ac</a>）</p></td>
-<td><p>802.11a/b/g/n/ac Wi‑Fi w/MIMO</p></td>
+<td><p><a href="../Page/Wi-Fi.md" title="wikilink">Wi-Fi</a>（<a href="../Page/IEEE_802.11.md" title="wikilink">802.11</a> <a href="https://zh.wikipedia.org/wiki/IEEE_802.11a" title="wikilink">a</a>/<a href="../Page/IEEE_802.11b-1999.md" title="wikilink">b</a>/<a href="../Page/IEEE_802.11g-2003.md" title="wikilink">g</a>/<a href="https://zh.wikipedia.org/wiki/IEEE_802.11n-2009" title="wikilink">n</a>/<a href="../Page/IEEE_802.11ac.md" title="wikilink">ac</a>）/<a href="../Page/MIMO.md" title="wikilink">MIMO</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -847,7 +862,8 @@ Samsung S5PC100[187]<br />
 <tr class="odd">
 <td><p>class="table-rh" |<a href="https://zh.wikipedia.org/wiki/Global_Positioning_System" title="wikilink">衛星導航</a></p></td>
 <td><p>colspan=1 </p></td>
-<td><p>colspan=17 </p></td>
+<td><p>colspan=20 </p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -870,7 +886,8 @@ Samsung S5PC100[187]<br />
 <tr class="even">
 <td><p>class="table-rh" |<a href="../Page/磁强计.md" title="wikilink">數碼方向儀</a></p></td>
 <td><p>colspan=2 </p></td>
-<td><p>colspan=16 </p></td>
+<td><p>colspan=19 </p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -898,6 +915,7 @@ Samsung S5PC100[187]<br />
 <td><p>Bluetooth 4.0（低功耗蓝牙）</p></td>
 <td><p>Bluetooth 4.2</p></td>
 <td><p>Bluetooth 5.0</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -947,10 +965,12 @@ LTE（支援HSPA+及DC-HSDPA）</p></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><em>CDMA：</em><br />
 <a href="https://zh.wikipedia.org/wiki/雙頻" title="wikilink">雙頻</a><a href="https://zh.wikipedia.org/wiki/CDMA" title="wikilink">CDMA</a>/EV-DO Rev. A（800, 1900MHz）</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -976,6 +996,7 @@ LTE（支援HSPA+及DC-HSDPA）</p></td>
 <td><p>class="table-rh" |<strong><a href="https://zh.wikipedia.org/wiki/Touch_ID" title="wikilink">Touch ID</a></strong></p></td>
 <td><p>colspan=7 </p></td>
 <td><p>colspan=10 </p></td>
+<td><p>colspan=4</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -998,7 +1019,8 @@ LTE（支援HSPA+及DC-HSDPA）</p></td>
 <tr class="odd">
 <td><p>class="table-rh" |<strong><a href="https://zh.wikipedia.org/wiki/Face_ID" title="wikilink">Face ID</a></strong></p></td>
 <td><p>colspan=17 </p></td>
-<td><p>colspan=1 </p></td>
+<td><p>colspan=4 </p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1023,6 +1045,7 @@ LTE（支援HSPA+及DC-HSDPA）</p></td>
 <td><p>Mini-SIM</p></td>
 <td><p>Micro-SIM</p></td>
 <td><p>Nano-SIM</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1067,15 +1090,20 @@ LTE（支援HSPA+及DC-HSDPA）</p></td>
 <td><p>多色聚碳酸酯外殼</p></td>
 <td><p>指紋身份識別感應器<br />
 雙<a href="https://zh.wikipedia.org/wiki/LED" title="wikilink">LED閃光燈</a></p></td>
-<td><p>Wi-Fi (802.11 AC) NFC</p></td>
-<td><p>主畫面按鈕內建第二代指紋感應器</p>
-<p>3D Touch</p></td>
+<td><p>Wi-Fi (802.11 AC)<br />
+NFC</p></td>
+<td><p>主畫面按鈕內建第二代指紋感應器<br />
+3D Touch</p></td>
 <td></td>
-<td><p>全新主畫面按鈕內建指紋感應器 IP67防潑、抗水與防塵</p>
-<p>移除3.5mm耳機孔, 改由Lightning 對 3.5 公釐耳機插孔轉接器</p>
-<p>四合一 LED True Tone 閃光燈</p></td>
-<td><p>無線充電 (可搭配 Qi 充電器)</p></td>
-<td><p>Face ID 透過 TrueDepth 相機進行面孔辨識</p></td>
+<td><p>全新主畫面按鈕內建指紋感應器<br />
+IP67防潑、抗水與防塵<br />
+移除3.5mm耳機孔, 改由Lightning 對 3.5 公釐耳機插孔轉接器<br />
+四合一 LED True Tone 閃光燈</p></td>
+<td><p>無線充電<br />
+(可搭配 Qi 充電器)</p></td>
+<td><p>Face ID<br />
+透過 TrueDepth 相機進行面孔辨識</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1269,6 +1297,7 @@ LTE（支援HSPA+及DC-HSDPA）</p></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>colspan=2 </p></td>
@@ -1319,6 +1348,7 @@ LTE（支援HSPA+及DC-HSDPA）</p></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>class="table-rh" |物料</p></td>
@@ -1334,67 +1364,91 @@ LTE（支援HSPA+及DC-HSDPA）</p></td>
 <td><p><a href="../Page/硅酸铝.md" title="wikilink">矽酸鋁玻璃</a><br />
 <a href="../Page/不鏽鋼.md" title="wikilink">不鏽鋼</a><br />
 黑色或白色</p></td>
-<td><p>黑色：陽極化鋁合金、板石礦<br />
+<td><p>黑色：陽極氧化鋁合金、板石礦<br />
 白色：銀鋁合金</p></td>
 <td><p>聚碳酸酯<br />
 <small>（白色、粉紅色、黃色、藍色或綠色）</small></p></td>
 <td><p>太空灰：<br />
-黑色陽極化鋁<br />
+黑色陽極氧化鋁<br />
 太空灰金屬背板<br />
-<br />
 銀色：<br />
-白色陽極化鋁<br />
+白色陽極氧化鋁<br />
 銀色金屬背板<br />
-<br />
 金色：<br />
-白色陽極化鋁<br />
+白色陽極氧化鋁<br />
 金色金屬背板</p></td>
 <td><p>太空灰：<br />
-黑色陽極化鋁<br />
+黑色陽極氧化鋁<br />
 太空灰金屬背板<br />
 銀色：<br />
-白色陽極化鋁<br />
+白色陽極氧化鋁<br />
 銀色金屬背板<br />
 金色：<br />
-白色陽極化鋁<br />
-金色金屬背板</p>
-<p>玫瑰金：</p>
-<p>白色陽極化鋁<br />
+白色陽極氧化鋁<br />
+金色金屬背板<br />
+玫瑰金：<br />
+白色陽極氧化鋁<br />
 玫瑰金色金屬背板</p></td>
-<td><p>曜石黑色：</p>
-<p>黑色：<br />
-黑色陽極化鋁<br />
+<td><p>曜石黑色： 黑色：<br />
+黑色陽極氧化鋁<br />
 黑色金屬背板<br />
 銀色：<br />
-白色陽極化鋁<br />
+白色陽極氧化鋁<br />
 銀色金屬背板<br />
 金色：<br />
-白色陽極化鋁<br />
-金色金屬背板</p>
-<p>玫瑰金：<br />
-白色陽極化鋁<br />
-玫瑰金色金屬背板</p>
-<p>紅色：(2017/03/24)<br />
-白色陽極化鋁<br />
+白色陽極氧化鋁<br />
+金色金屬背板<br />
+玫瑰金：<br />
+白色陽極氧化鋁<br />
+玫瑰金色金屬背板<br />
+紅色：(2017/03/24)<br />
+白色陽極氧化鋁<br />
 紅色金屬背板</p></td>
 <td><p>太空灰：<br />
-黑色陽極化鋁<br />
-太空灰金屬背板<br />
+黑色陽極氧化鋁<br />
+太空灰全貼合玻璃背板<br />
 銀色：<br />
-白色陽極化鋁<br />
-銀色金屬背板<br />
+白色陽極氧化鋁<br />
+銀色全貼合玻璃背板<br />
 金色：<br />
-白色陽極化鋁<br />
-金色金屬背板 紅色：(2018/04/10)<br />
-白色陽極化鋁<br />
-紅色金屬背板</p></td>
+白色陽極氧化鋁<br />
+金色全貼合玻璃背板<br />
+紅色：(2018/04/10)<br />
+白色陽極氧化鋁<br />
+紅色全貼合玻璃背板</p></td>
 <td><p>太空灰：<br />
-黑色陽極化鋁<br />
-太空灰全貼合玻璃<br />
+黑色陽極氧化鋁<br />
+太空灰全貼合玻璃背板<br />
 銀色：<br />
-白色陽極化鋁<br />
-銀色全貼合玻璃</p></td>
-<td></td>
+白色陽極氧化鋁<br />
+銀色全貼合玻璃背板</p></td>
+<td><p>太空灰：<br />
+黑色陽極氧化鋁<br />
+太空灰全貼合玻璃背板<br />
+銀色：<br />
+白色陽極氧化鋁<br />
+銀色全貼合玻璃背板<br />
+金色：<br />
+白色陽極氧化鋁<br />
+金色全貼合玻璃背板</p></td>
+<td><p>白色：<br />
+白色陽極氧化鋁<br />
+白色全貼合玻璃背板<br />
+黑色：<br />
+黑色陽極氧化鋁<br />
+黑色全貼合玻璃背板<br />
+藍色：<br />
+藍色陽極氧化鋁<br />
+藍色全貼合玻璃背板<br />
+黃色：<br />
+黃色陽極氧化鋁<br />
+黃色全貼合玻璃背板<br />
+珊瑚色：<br />
+珊瑚色陽極氧化鋁<br />
+珊瑚色全貼合玻璃背板<br />
+紅色：<br />
+紅色陽極氧化鋁<br />
+紅色全貼合玻璃背板</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1408,6 +1462,7 @@ LTE（支援HSPA+及DC-HSDPA）</p></td>
 <tr class="odd">
 <td><p>rowspan="2"  class="table-rh" |電力</p></td>
 <td><p>內置不能移除的<a href="https://zh.wikipedia.org/wiki/鋰電池" title="wikilink">鋰電池</a>[218][219][220][221]</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1474,13 +1529,24 @@ LTE（支援HSPA+及DC-HSDPA）</p></td>
 <td><p>3.82<a href="../Page/伏特.md" title="wikilink">V</a><br />
 11.10<a href="https://zh.wikipedia.org/wiki/千瓦時" title="wikilink">W-h</a><br />
 2,900<a href="https://zh.wikipedia.org/wiki/mAh" title="wikilink">mAh</a></p></td>
-<td><p>3.82V 6.96Wh</p>
-<p>1821mAh</p></td>
-<td><p>3.82V 10.28Wh</p>
-<p>2691mAh</p></td>
-<td><p>3.81V 10.35Wh 2716mAh</p></td>
-<td></td>
-<td></td>
+<td><p>3.82<a href="../Page/伏特.md" title="wikilink">V</a><br />
+6.96<a href="https://zh.wikipedia.org/wiki/千瓦時" title="wikilink">W-h</a><br />
+1821<a href="https://zh.wikipedia.org/wiki/mAh" title="wikilink">mAh</a></p></td>
+<td><p>3.82<a href="../Page/伏特.md" title="wikilink">V</a><br />
+10.28<a href="https://zh.wikipedia.org/wiki/千瓦時" title="wikilink">W-h</a><br />
+2691<a href="https://zh.wikipedia.org/wiki/mAh" title="wikilink">mAh</a></p></td>
+<td><p>3.81<a href="../Page/伏特.md" title="wikilink">V</a><br />
+10.35<a href="https://zh.wikipedia.org/wiki/千瓦時" title="wikilink">W-h</a><br />
+2716<a href="https://zh.wikipedia.org/wiki/mAh" title="wikilink">mAh</a></p></td>
+<td><p>3.81<a href="../Page/伏特.md" title="wikilink">V</a><br />
+10.13<a href="https://zh.wikipedia.org/wiki/千瓦時" title="wikilink">W-h</a><br />
+2,659<a href="https://zh.wikipedia.org/wiki/mAh" title="wikilink">mAh</a></p></td>
+<td><p>3.80<a href="../Page/伏特.md" title="wikilink">V</a><br />
+12.08<a href="https://zh.wikipedia.org/wiki/千瓦時" title="wikilink">W-h</a><br />
+3,179<a href="https://zh.wikipedia.org/wiki/mAh" title="wikilink">mAh</a></p></td>
+<td><p>3.82<a href="../Page/伏特.md" title="wikilink">V</a><br />
+11.24<a href="https://zh.wikipedia.org/wiki/千瓦時" title="wikilink">W-h</a><br />
+2,942<a href="https://zh.wikipedia.org/wiki/mAh" title="wikilink">mAh</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1580,8 +1646,18 @@ LTE瀏覽：13小時<br />
 <td><p>電池使用時間約與 iPhone 7 相同</p></td>
 <td><p>電池使用時間約與 iPhone 7 Plus 相同</p></td>
 <td><p>電池使用時間比 iPhone 7 長達 2 小時</p></td>
-<td></td>
-<td></td>
+<td><p>音訊：60小時<br />
+視頻：14小時<br />
+3G通話：20小時<br />
+瀏覽：12小時</p></td>
+<td><p>音訊：65小時<br />
+視頻：15小時<br />
+3G通話：25小時<br />
+瀏覽：13小時</p></td>
+<td><p>音訊：65小時<br />
+視頻：16小時<br />
+3G通話：25小時<br />
+瀏覽：15小時</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1634,8 +1710,15 @@ LTE瀏覽：13小時<br />
 <td><p>長：143.6mm（5.65吋）<br />
 闊：70.9mm（2.79吋）<br />
 深：7.7mm（0.3吋）</p></td>
-<td></td>
-<td></td>
+<td><p>長：143.6mm（5.65吋）<br />
+闊：70.9mm（2.79吋）<br />
+深：7.7mm（0.3吋）</p></td>
+<td><p>長：157.5mm（6.20吋）<br />
+闊：77.4mm（3.05吋）<br />
+深：7.7mm（0.3吋）</p></td>
+<td><p>長：150.9mm（5.94吋）<br />
+闊：75.7mm（2.98吋）<br />
+深：8.3mm（0.33吋）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1659,8 +1742,9 @@ LTE瀏覽：13小時<br />
 <td><p>148 g (5.22 oz)</p></td>
 <td><p>202 g (7.13 oz)</p></td>
 <td><p>174 g (6.14 oz)</p></td>
-<td></td>
-<td></td>
+<td><p>177 g (6.2 oz)</p></td>
+<td><p>208 g (7.3 oz)</p></td>
+<td><p>194 g (6.8 oz)</p></td>
 </tr>
 <tr class="even">
 <td><p>class="table-rh" |產品編號</p></td>
@@ -1684,25 +1768,53 @@ A1529（亞洲及大洋洲）</p></td>
 A1453（美國及日本）<br />
 A1457（歐洲）<br />
 A1530（亞洲及大洋洲）</p></td>
-<td><p>A1549</p>
-<p>A1586</p></td>
-<td><p>A1522</p>
-<p>A1524</p></td>
-<td><p>A1633</p>
-<p>A1688</p></td>
-<td><p>A1634</p>
-<p>A1687</p></td>
-<td><p>A1662</p>
-<p>A1723</p></td>
-<td><p>A1660</p>
-<p>A1778</p></td>
-<td><p>A1778</p>
-<p>A1784</p></td>
-<td><p>A1863 A1905</p></td>
-<td><p>A1864 A1897</p></td>
-<td><p>A1865 A1901</p></td>
-<td></td>
-<td></td>
+<td><p>A1549<br />
+A1586<br />
+A1589</p></td>
+<td><p>A1522<br />
+A1524<br />
+A1593</p></td>
+<td><p>A1633<br />
+A1688<br />
+A1700<br />
+A1691</p></td>
+<td><p>A1634<br />
+A1687<br />
+A1699<br />
+A1690</p></td>
+<td><p>A1662<br />
+A1723<br />
+A1724</p></td>
+<td><p>A1660<br />
+A1778<br />
+A1779</p></td>
+<td><p>A1661<br />
+A1784<br />
+A1785</p></td>
+<td><p>A1863<br />
+A1905<br />
+A1906<br />
+A1907</p></td>
+<td><p>A1864<br />
+A1897<br />
+A1898<br />
+A1899</p></td>
+<td><p>A1865<br />
+A1901<br />
+A1902</p></td>
+<td><p>A1920<br />
+A2097<br />
+A2098<br />
+A2100</p></td>
+<td><p>A1921<br />
+A2101<br />
+A2102<br />
+A2104</p></td>
+<td><p>A1984<br />
+A2105<br />
+A2106<br />
+A2107<br />
+A2108</p></td>
 </tr>
 <tr class="odd">
 <td><p>rowspan="2"  class="table-rh" |發布日期</p></td>
@@ -1724,17 +1836,20 @@ A1530（亞洲及大洋洲）</p></td>
 2014年3月18日</p></td>
 <td><p>16GB, 32GB和64GB：<br />
 2013年9月20日</p></td>
+<td><p>16GB, 32GB,64GB和128GB：<br />
+2014年9月9日</p></td>
 <td><p>16GB, 64GB和128GB：<br />
 2014年9月9日</p></td>
-<td><p>16GB, 64GB和128GB： 2015年9月9日</p></td>
+<td><p>16GB, 64GB和128GB：<br />
+2015年9月9日</p></td>
 <td><p>16GB和64GB：<br />
-2016年3月31日</p></td>
+2016年3月21日</p></td>
 <td><p>32GB, 128GB和256GB：<br />
 2016年9月7日</p></td>
 <td><p>64GB和256GB：<br />
 2017年9月12日</p></td>
-<td></td>
-<td></td>
+<td><p>2017年9月12日</p></td>
+<td><p>2018年9月12日</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1748,17 +1863,18 @@ A1530（亞洲及大洋洲）</p></td>
 2010年6月24日</p></td>
 <td><p>CDMA版本：<br />
 2011年2月10日<br />
-<br />
 白色版本：<br />
 2011年4月28日<br />
-<br />
 8GB版本：<br />
 2011年10月14日</p></td>
 <td><p>8GB版本：<br />
 2013年9月10日</p></td>
-<td><p>32GB<br />
-2016年9月16日</p></td>
-<td></td>
+<td><p>32GB：<br />
+2016年9月7日</p></td>
+<td><p>32GB和128GB：<br />
+2017年3月21日</p></td>
+<td><p>128GB：<br />
+2019年9月10日</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1790,17 +1906,37 @@ A1530（亞洲及大洋洲）</p></td>
 <td><p>16GB, 32GB和64GB：<br />
 2013年9月10日</p></td>
 <td><p>16GB和32GB：<br />
-2014年9月10日</p></td>
+2014年9月10日<br />
+8GB：<br />
+2015年9月9日</p></td>
 <td><p>64GB：<br />
-2014年9月10日</p></td>
-<td></td>
+2014年9月10日<br />
+16和32GB：<br />
+2016年3月21日</p></td>
+<td><p>128 GB：<br />
+2015年9月9日<br />
+16和64GB：<br />
+2016年9月7日<br />
+32GB（僅iPhone 6）：<br />
+2018年9月12日</p></td>
 <td><p>16GB和64GB：<br />
-2016年9月16日</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+2016年9月7日<br />
+32GB和128GB：<br />
+2018年9月12日</p></td>
+<td><p>16GB和64GB：<br />
+2017年3月21日<br />
+32GB和128GB：<br />
+2018年9月12日</p></td>
+<td><p>256GB：<br />
+2017年9月12日<br />
+32GB和128GB：<br />
+2019年9月10日</p></td>
+<td><p>256GB：<br />
+2019年9月10日</p></td>
+<td><p>2018年9月12日</p></td>
+<td><p>2019年9月10日</p></td>
+<td><p>256GB：<br />
+2019年9月10日</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1818,6 +1954,7 @@ A1530（亞洲及大洋洲）</p></td>
 2013年9月10日</p></td>
 <td><p>16GB：<br />
 2014年9月10日</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1855,8 +1992,9 @@ A1530（亞洲及大洋洲）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/iPhone_8" title="wikilink">iPhone 8</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/iPhone_8_Plus" title="wikilink">iPhone 8 Plus</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/iPhone_X" title="wikilink">iPhone X</a></p></td>
-<td></td>
-<td></td>
+<td><p><a href="../Page/IPhone_XS.md" title="wikilink">IPhone XS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iPhone_XS_Max" title="wikilink">iPhone XS Max</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iPhone_XR" title="wikilink">iPhone XR</a></p></td>
 </tr>
 </tbody>
 </table>

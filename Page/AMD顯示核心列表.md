@@ -24,7 +24,7 @@
   - OpenGL 1.2 - 3D纹理，BGRA压缩象素格式
   - OpenGL 1.3 - 多重渲染，多重采样，纹理压缩
   - OpenGL 1.4 - 深度纹理
-  - OpenGL 1.5 - 物体顶点缓冲，遮面查詢
+  - OpenGL 1.5 - 物体[顶点缓冲](../Page/頂點_\(電腦圖學\).md "wikilink")，遮面查詢
   - OpenGL 2.0 - [GLSL](../Page/GLSL.md "wikilink") 1.1，多渲染目标，可编程着色语言，双面模板
   - OpenGL 2.1 - GLSL 1.2，物体像素缓冲，sRGB纹理
   - OpenGL 3.0 - GLSL 1.3，纹理阵列，条件渲染，FBO

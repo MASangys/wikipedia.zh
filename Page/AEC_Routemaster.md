@@ -56,4 +56,4 @@ Routemaster在服役年代深受倫敦市民歡迎，在倫敦發售的[明信�
 
 <references />
 
-[Category:巴士型號](https://zh.wikipedia.org/wiki/Category:巴士型號 "wikilink") [Category:香港雙層巴士](https://zh.wikipedia.org/wiki/Category:香港雙層巴士 "wikilink") [Category:英國交通](https://zh.wikipedia.org/wiki/Category:英國交通 "wikilink") [Category:雙層巴士](https://zh.wikipedia.org/wiki/Category:雙層巴士 "wikilink")
+[Category:巴士型號](https://zh.wikipedia.org/wiki/Category:巴士型號 "wikilink") [Category:香港雙層巴士](https://zh.wikipedia.org/wiki/Category:香港雙層巴士 "wikilink") [Category:倫敦旅遊景點](https://zh.wikipedia.org/wiki/Category:倫敦旅遊景點 "wikilink") [Category:雙層巴士](https://zh.wikipedia.org/wiki/Category:雙層巴士 "wikilink") [Category:1954年面世的交通工具](https://zh.wikipedia.org/wiki/Category:1954年面世的交通工具 "wikilink")

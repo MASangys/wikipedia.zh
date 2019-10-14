@@ -686,7 +686,7 @@
 <td><p>911</p></td>
 <td><p>2008年8月29日</p></td>
 <td><p>飛輪海</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/松本潤" title="wikilink">松本潤</a>、<a href="../Page/井上真央.md" title="wikilink">井上真央</a><br />
+<td><p><a href="../Page/松本潤.md" title="wikilink">松本潤</a>、<a href="../Page/井上真央.md" title="wikilink">井上真央</a><br />
 <a href="../Page/小栗旬.md" title="wikilink">小栗旬</a>、<a href="../Page/松田翔太.md" title="wikilink">松田翔太</a><br />
 <a href="../Page/阿部力.md" title="wikilink">阿部力</a></p></td>
 <td><p>封面2為電影《<a href="../Page/花樣男子F.md" title="wikilink">花樣男子F</a>》的五位主角</p></td>

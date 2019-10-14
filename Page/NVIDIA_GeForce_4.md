@@ -1,4 +1,4 @@
-**GeForce 4**（核心代號是NV25）是[nVIDIA研發的第](https://zh.wikipedia.org/wiki/nVIDIA "wikilink")4代[繪圖處理器](https://zh.wikipedia.org/wiki/GPU "wikilink")。架构實際基於GeForce3改進而成。它擁有4条像素流水线，每条流水线包含2个材质贴图单元，即4\*2架構。[T\&L方面](https://zh.wikipedia.org/wiki/T&L "wikilink")，GeForce4采用了nfiniteFX II引擎，它是從[GeForce3的第一代發展而成](https://zh.wikipedia.org/wiki/GeForce3 "wikilink")。GeForce4 Ti配备了两个[頂點著色引擎](https://zh.wikipedia.org/wiki/頂點著色引擎 "wikilink")，比舊的GeForce3多了一个，這表示同一時間可以處理更多頂點。這並不是全新的設計，皆因[Xbox](../Page/Xbox.md "wikilink")中的显核亦使用了個頂點著色引擎。縱使GeForce4架构与GeForce3分別不多，但是依然有效能提升，原因是功能的改進与微調。
+**GeForce 4**（核心代號是NV25）是[nVIDIA研發的第](https://zh.wikipedia.org/wiki/nVIDIA "wikilink")4代[繪圖處理器](https://zh.wikipedia.org/wiki/GPU "wikilink")。架构實際基於GeForce3改進而成。它擁有4条像素流水线，每条流水线包含2个材质贴图单元，即4\*2架構。[T\&L方面](https://zh.wikipedia.org/wiki/T&L "wikilink")，GeForce4采用了nfiniteFX II引擎，它是從[GeForce3的第一代發展而成](https://zh.wikipedia.org/wiki/GeForce3 "wikilink")。GeForce4 Ti配备了两个[頂點著色引擎](https://zh.wikipedia.org/wiki/頂點著色引擎 "wikilink")，比舊的GeForce3多了一个，這表示同一時間可以處理更多[頂點](../Page/頂點_\(電腦圖學\).md "wikilink")。這並不是全新的設計，皆因[Xbox](../Page/Xbox.md "wikilink")中的显核亦使用了個頂點著色引擎。縱使GeForce4架构与GeForce3分別不多，但是依然有效能提升，原因是功能的改進与微調。
 
 GeForce4系列有三個分支，分別是高端的Ti，較低端的MX以及一款通過[HSI橋接晶片來支援](../Page/NVIDIA_BR02.md "wikilink")[PCI-E介面的PCX](https://zh.wikipedia.org/wiki/PCI-E "wikilink") 4300。膝上型輕便電腦方面，則推出了GeForce4 Go (NV17M)，它的架構與MX系列是相同的。三個家族都是於2002年頭發佈。在2002年尾，GeForce4 4200 Go (NV28M) 發佈，它的架構與Ti系列是相同的。
 
@@ -24,7 +24,7 @@ Accuview技術亦支援非等方性過濾，可以改善從前景到背景的材
 
 ### LMA II
 
-這是GeForce4 Ti特有的顯示記憶體控制器，GeForce3擁有的是第一代。NVIDIA改進了一些算法，令到記憶體傳輸得更有效率，改善記憶體頻寬。亦改善了其像素剔除技術，剔除的過程可在顯示核心內進行，不用額外佔用記憶體頻寬。以往，在場景看不到的像素，核心依然會計算，因而浪費了其運算資源。GeForce3可以略過被遮蔽的部分，而不作運算。而GeForce4就改良了這個過程，只有通過核心的數據，才會判斷是否被遮蔽，不用理會顯示記憶體的數據，節省記憶體頻寬。LMA II的另一個技術是Lossless Z-Buffer Compression，能無損壓縮數據，壓縮比是4:1，同樣是節省記憶體頻寬。改良了的頂點緩存，使頂點數據不會被重複傳輸，共用邊緣的多邊形是一個好好的例子。幾何圖形和像素快取，使處理後的頂點和像素數據，能重複利用。雙材質快取，提升GeForce4 Ti的材質過濾效能。
+這是GeForce4 Ti特有的顯示記憶體控制器，GeForce3擁有的是第一代。NVIDIA改進了一些算法，令到記憶體傳輸得更有效率，改善記憶體頻寬。亦改善了其像素剔除技術，剔除的過程可在顯示核心內進行，不用額外佔用記憶體頻寬。以往，在場景看不到的像素，核心依然會計算，因而浪費了其運算資源。GeForce3可以略過被遮蔽的部分，而不作運算。而GeForce4就改良了這個過程，只有通過核心的數據，才會判斷是否被遮蔽，不用理會顯示記憶體的數據，節省記憶體頻寬。LMA II的另一個技術是Lossless Z-Buffer Compression，能無損壓縮數據，壓縮比是4:1，同樣是節省記憶體頻寬。改良了的[頂點緩存](../Page/頂點_\(電腦圖學\).md "wikilink")，使頂點數據不會被重複傳輸，共用邊緣的多邊形是一個好好的例子。幾何圖形和像素快取，使處理後的頂點和像素數據，能重複利用。雙材質快取，提升GeForce4 Ti的材質過濾效能。
 
 LMA II亦新增了自動預先充電技術。顯示記憶體在每一次讀取時，插槽需要先充電。這個技術論通過算法，能為特定的插槽預先充電，節省讀取時間。快速Z軸清除，一個在ATI Radeon時期已擁有的技術，一個場景渲染後，通過這個技術，就能快速Z軸數據清除。
 

@@ -1,4 +1,4 @@
-《**DNA²**》是[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[桂正和](../Page/桂正和.md "wikilink")創作的[科幻](https://zh.wikipedia.org/wiki/科幻 "wikilink")[漫畫以及改編的](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")，1993年至1994年連載於《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》，[單行本全](https://zh.wikipedia.org/wiki/單行本 "wikilink")5卷。
+《**DNA²**》是[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[桂正和](../Page/桂正和.md "wikilink")創作的[科幻](https://zh.wikipedia.org/wiki/科幻 "wikilink")[漫畫以及改編的](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")，1993年至1994年連載於《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》，[單行本全](https://zh.wikipedia.org/wiki/單行本 "wikilink")5冊。
 
 ## 概要
 
@@ -73,185 +73,228 @@
 
 ## 動畫
 
-動畫由[MADHOUSE](../Page/MADHOUSE.md "wikilink")和[STUDIO DEEN製作](../Page/STUDIO_DEEN.md "wikilink")。1994年10月7日至12月23日由[日本電視台](../Page/日本電視台.md "wikilink")[聯播網](../Page/聯播網.md "wikilink")播出全12集的電視動畫，並與其姐妹台[山形放送](https://zh.wikipedia.org/wiki/山形放送 "wikilink")、[TV新潟放送網及](https://zh.wikipedia.org/wiki/TV新潟放送網 "wikilink")[金澤電視台於毎週五](https://zh.wikipedia.org/wiki/金澤電視台 "wikilink")17:30‐18:00在關東地區播放。
+1994年10月7日至12月23日在[日本電視台](../Page/日本電視台.md "wikilink")播出電視動畫，全12話。動畫由[MADHOUSE](../Page/MADHOUSE.md "wikilink")、[STUDIO DEEN共同製作](../Page/STUDIO_DEEN.md "wikilink")。
 
-1995年由[萬代影視](../Page/萬代影視.md "wikilink")發行全3集的OVA，內容為動畫版追加的原創故事。VHS・LD全5巻。而桃生純太在動畫版的設定是沒有超能力的。
+1995年由[萬代影視](../Page/萬代影視.md "wikilink")發行全3話的OVA，內容為動畫版追加的原創故事。VHS\&LD全5卷。本作品主角桃生純太在動畫版不一樣的設定是沒有超能力。
 
-本作品自從1995年發售OVA以來沒有被製作成DVD等媒介；直到2013年的動畫化20週年紀念活動上才正式宣布製作DVD與BD，2014年1月29日發行\[1\]。
+2013年於動畫版誕生20週年紀念活動中宣布首次DVD\&BD化，2014年1月29日發行。
 
-### 工作人員
+### 製作人員
 
-<table style="width:10%;">
-<colgroup>
-<col style="width: 5%" />
-<col style="width: 5%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><ul>
-<li>企画：<a href="https://zh.wikipedia.org/wiki/武井英彥" title="wikilink">武井英彥</a>、<a href="../Page/落合茂一.md" title="wikilink">落合茂一</a></li>
-<li>製作群：前田伸一郎、岡田洋、長-{谷}-川洋、丸山正雄</li>
-<li>導演：<a href="../Page/坂田純一.md" title="wikilink">坂田純一</a></li>
-<li>編劇：<a href="../Page/浦畑達彥.md" title="wikilink">浦畑達彥</a></li>
-<li>系列構成：浦畑達彥</li>
-<li>色彩設計：秋山久美、三笠修</li>
-<li>攝影監督：-{沖}-野雅英、山口仁</li>
-<li>美術監督：海野よしみ</li>
-</ul></td>
-<td><ul>
-<li>音樂：高野ふじお</li>
-<li>錄音監督：斯波重治</li>
-<li>人物設定：<a href="../Page/高橋久美子.md" title="wikilink">高橋久美子</a></li>
-<li>機械設定：<a href="https://zh.wikipedia.org/wiki/小池健" title="wikilink">小池健</a></li>
-<li>動畫製作：<a href="../Page/MADHOUSE.md" title="wikilink">MADHOUSE</a>、<a href="../Page/STUDIO_DEEN.md" title="wikilink">STUDIO DEEN</a></li>
-<li>企画制作：<a href="../Page/日本電視台.md" title="wikilink">日本電視台</a></li>
-<li>製作協力：<a href="https://zh.wikipedia.org/wiki/Bandai_Visual" title="wikilink">Bandai Visual</a>、<a href="https://zh.wikipedia.org/wiki/Movic" title="wikilink">Movic</a></li>
-<li>製作：<a href="../Page/MADHOUSE.md" title="wikilink">BaoHouse</a></li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+  - 企劃：、[落合茂一](../Page/落合茂一.md "wikilink")
+  - 劇本統籌：[浦-{畑}-達彥](../Page/浦畑達彥.md "wikilink")
+  - 人物設定：[高橋久美子](../Page/高橋久美子.md "wikilink")
+  - 機械設定：
+  - 美術監督：海野
+  - 色彩設計：秋山久美、三笠修
+  - 攝影監督：-{沖}-野雅英、山口仁
+  - 音樂：高野
+  - 錄音監督：
+  - 製作人：前田伸一郎、岡田洋、長-{谷}-川洋、[丸山正雄](../Page/丸山正雄.md "wikilink")
+  - 動畫製作：[MADHOUSE](../Page/MADHOUSE.md "wikilink")、[STUDIO DEEN](../Page/STUDIO_DEEN.md "wikilink")
+  - 導演：[-{坂}-田純一](../Page/坂田純一.md "wikilink")
+  - 企劃製作：[日本電視台](../Page/日本電視台.md "wikilink")
+  - 製作：[BaoHouse](../Page/MADHOUSE.md "wikilink")
+  - 協力製作：[萬代影視](../Page/萬代影視.md "wikilink")、
 
 ### 主題歌
 
-  - 片頭曲：〈Blurry Eyes〉
-    作詞：[hyde](https://zh.wikipedia.org/wiki/hyde "wikilink")，作曲：[tetsu](https://zh.wikipedia.org/wiki/tetsu "wikilink")，編曲、主唱：[L'Arc～en～Ciel](https://zh.wikipedia.org/wiki/L'Arc～en～Ciel "wikilink")
-  - 片尾曲：〈[Single Bed](../Page/Single_Bed.md "wikilink")〉
+  - 片頭曲「」
+    作詞：[hyde](https://zh.wikipedia.org/wiki/hyde "wikilink")，作曲：[tetsu](https://zh.wikipedia.org/wiki/tetsu "wikilink")，編曲、主唱：[L'Arc～en～Ciel](https://zh.wikipedia.org/wiki/彩虹樂團 "wikilink")
+  - 片尾曲「[Single Bed](../Page/Single_Bed.md "wikilink")」
     作詞：[淳君](../Page/淳君.md "wikilink")，作曲：，編曲：、，主唱：射亂Q
 
-### 副標題
+### 各話標題
 
-<table style="width:10%;">
-<colgroup>
-<col style="width: 5%" />
-<col style="width: 5%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><h4 id="tv版副標題">TV版副標題</h4>
 <table>
 <thead>
 <tr class="header">
-<th><p>集数</p></th>
-<th><p>標題（中文翻譯）</p></th>
-<th><p>標題（日文原文）</p></th>
+<th><p>話數</p></th>
+<th><p>日文標題</p></th>
+<th><p>中文標題</p></th>
+<th><p>劇本、構成</p></th>
+<th><p>分鏡</p></th>
+<th><p>演出</p></th>
+<th><p>作畫監督</p></th>
+<th><p>首播日期</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>01</p></td>
-<td><p>來自未來的少女-卡琳</p></td>
-<td><p>未來からの少女　かりん</p></td>
+<td><p>電視動畫</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p>02</p></td>
+<td><p>1</p></td>
+<td></td>
+<td><p>來自未來的少女 卡琳</p></td>
+<td><p><a href="../Page/浦畑達彥.md" title="wikilink">浦-{畑}-達彥</a></p></td>
+<td><p><a href="../Page/福富博.md" title="wikilink">福富博</a></p></td>
+<td><p><a href="../Page/上田茂.md" title="wikilink">上田茂</a></p></td>
+<td><p>北尾勝</p></td>
+<td><p><strong>1994年</strong><br />
+10月7日</p></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+<td></td>
 <td><p>超級花花公子誕生！純太</p></td>
-<td><p>メガプレ誕生!　純太</p></td>
-</tr>
-<tr class="odd">
-<td><p>03</p></td>
-<td><p>祭典的夜晚-亞美</p></td>
-<td><p>祭りの夜に　亜美</p></td>
+<td><p>菊池一仁</p></td>
+<td><p>栗本宏志</p></td>
+<td></td>
+<td><p>10月14日</p></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p>04</p></td>
+<td><p>3</p></td>
+<td></td>
+<td><p>祭典的夜晚 亞美</p></td>
+<td><p><a href="../Page/小寺勝之.md" title="wikilink">小寺勝之</a></p></td>
+<td><p>田中洋之</p></td>
+<td><p>君塚勝教</p></td>
+<td><p>10月21日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>4</p></td>
+<td></td>
 <td><p>項鍊送給誰？倫子</p></td>
-<td><p>ネックレスは誰に？倫子</p></td>
-</tr>
-<tr class="odd">
-<td><p>05</p></td>
-<td><p>跟誰都無法說-琴美</p></td>
-<td><p>誰にも言えない!　ことみ</p></td>
+<td><p>庫德博</p></td>
+<td><p>西本由紀夫</p></td>
+<td><p>敷島博英</p></td>
+<td><p>10月28日</p></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p>06</p></td>
+<td><p>5</p></td>
+<td></td>
+<td><p>跟誰都無法說 琴美</p></td>
+<td><p><a href="../Page/加瀨充子.md" title="wikilink">加瀨充子</a></p></td>
+<td><p>阿宮正和</p></td>
+<td><p>-{坂}-元大二郎</p></td>
+<td><p>11月4日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>6</p></td>
+<td></td>
 <td><p>純太對琴美做了什麼？</p></td>
-<td><p>純太はことみに何をした？</p></td>
-</tr>
-<tr class="odd">
-<td><p>07</p></td>
-<td><p>我想給你我的一切</p></td>
-<td><p>私のすべてをあげたいの!</p></td>
+<td><p><a href="../Page/山內重保.md" title="wikilink">山內重保</a></p></td>
+<td><p>牧野滋人</p></td>
+<td><p>長野伸明</p></td>
+<td><p>11月11日</p></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p>08</p></td>
+<td><p>7</p></td>
+<td></td>
+<td><p>我想給你我的一切！</p></td>
+<td><p>小寺勝之</p></td>
+<td><p>野間吐晶</p></td>
+<td><p><a href="../Page/橫田守.md" title="wikilink">橫田守</a></p></td>
+<td><p>11月18日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>8</p></td>
+<td></td>
 <td><p>你一直在我身邊</p></td>
-<td><p>ずっとあなたがそばにいた</p></td>
+<td><p>山田徹</p></td>
+<td><p>栗本宏志</p></td>
+<td><p>井上榮作</p></td>
+<td><p>11月25日</p></td>
+<td></td>
 </tr>
-<tr class="odd">
-<td><p>09</p></td>
+<tr class="even">
+<td><p>9</p></td>
+<td></td>
 <td><p>這個子彈射向龍二胸口</p></td>
-<td><p>その弾丸は竜二の胸に…</p></td>
+<td><p><a href="../Page/神戶守.md" title="wikilink">神戶守</a><br />
+小高義規</p></td>
+<td><p>小高義規</p></td>
+<td></td>
+<td><p>12月2日</p></td>
+<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>10</p></td>
+<td></td>
 <td><p>危險龍二的危險能力</p></td>
-<td><p>アブナイ竜二の危ない能力</p></td>
+<td><p>庫德博</p></td>
+<td><p>西本由紀夫</p></td>
+<td><p>敷島博英</p></td>
+<td><p>12月9日</p></td>
+<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>11</p></td>
-<td><p>不能變成超級花花公子！</p></td>
-<td><p>メガプレになっちゃダメ</p></td>
+<td><p>{{lang|ja|メガプレになっちゃダメ</p></td>
+<td><p>}}</p></td>
+<td><p>不能變成超級花花公子</p></td>
+<td></td>
+<td><p>山內重保</p></td>
+<td><p>牧野滋人</p></td>
+<td><p>長野伸明</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>12</p></td>
+<td></td>
 <td><p>拜拜，超級花花公子</p></td>
-<td><p>バイバイメガプレイボーイ</p></td>
+<td><p>林秀夫</p></td>
+<td><p>小寺勝之</p></td>
+<td><p><a href="../Page/高橋久美子.md" title="wikilink">高橋久美子</a></p></td>
+<td><p>12月23日</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>OVA</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
+<td><p>1</p></td>
 <td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table></td>
-<td><h4 id="ova追加故事">OVA追加故事</h4>
-<table>
-<thead>
-<tr class="header">
-<th><p>集数</p></th>
-<th><p>標題（中文翻譯）</p></th>
-<th><p>標題（日文原文）</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>01</p></td>
 <td><p>另一個時光機器</p></td>
-<td><p>もう一つのタイムマシン</p></td>
+<td><p>浦-{畑}-達彥</p></td>
+<td><p>小寺勝之</p></td>
+<td><p>田中洋之</p></td>
+<td><p>君塚勝教</p></td>
+<td><p>－</p></td>
 </tr>
 <tr class="even">
-<td><p>02</p></td>
+<td><p>2</p></td>
+<td></td>
 <td><p>100年後的遺忘物品</p></td>
-<td><p>100年後の忘れもの</p></td>
+<td><p>加瀨充子</p></td>
+<td><p>小高義規</p></td>
+<td><p><a href="../Page/長森佳容.md" title="wikilink">長森佳容</a></p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td><p>03</p></td>
+<td><p>3</p></td>
+<td></td>
 <td><p>我不會忘記妳</p></td>
-<td><p>ぼくはあなたを忘れない</p></td>
-</tr>
-<tr class="even">
+<td><p>阿部司</p></td>
+<td><p><a href="../Page/坂田純一.md" title="wikilink">-{坂}-田純一</a></p></td>
+<td><p>君塚勝教</p></td>
 <td></td>
 <td></td>
-<td></td>
-</tr>
-</tbody>
-</table></td>
 </tr>
 </tbody>
 </table>
-
-## 關連項目
-
-  - [ZETMAN 桂正和短編集](https://zh.wikipedia.org/wiki/ZETMAN_桂正和短編集 "wikilink") - 同時期の短篇を収録。
-  - 本作と同じくヒーロを扱った桂正和作品。
-      - [銀翼超人](https://zh.wikipedia.org/wiki/銀翼超人 "wikilink")
-      - [超機動員ヴァンダー](https://zh.wikipedia.org/wiki/超機動員ヴァンダー "wikilink")
-      - [SHADOW LADY](https://zh.wikipedia.org/wiki/SHADOW_LADY "wikilink")
-      - [ZETMAN](../Page/ZETMAN.md "wikilink")
 
 ## 參考來源
 
 [Category:桂正和](https://zh.wikipedia.org/wiki/Category:桂正和 "wikilink") [Category:週刊少年Jump連載作品](https://zh.wikipedia.org/wiki/Category:週刊少年Jump連載作品 "wikilink") [Category:科幻漫畫](https://zh.wikipedia.org/wiki/Category:科幻漫畫 "wikilink") [Category:时间旅行漫画](https://zh.wikipedia.org/wiki/Category:时间旅行漫画 "wikilink") [Category:1994年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1994年日本電視動畫 "wikilink") [Category:日本電視台動畫](https://zh.wikipedia.org/wiki/Category:日本電視台動畫 "wikilink") [Category:1995年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:1995年日本OVA動畫 "wikilink")
-
-1.  [『D・N・A²』キャンペーン「あなたもメガプレ！？20年越しの♡告白♡」結果発表](http://www.presepe.jp/anime_news/events_campaign/events/%E3%80%8Ed%E3%83%BBn%E3%83%BBa%E3%80%8F%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%9A%E3%83%BC%E3%83%B3%E3%80%8C%E3%81%82%E3%81%AA%E3%81%9F%E3%82%82%E3%83%A1%E3%82%AC%E3%83%97%E3%83%AC%EF%BC%81%EF%BC%9F2) ，動畫情報商店＆Community -Presepe-（2013年10月15日），2015年8月15日閱覽。

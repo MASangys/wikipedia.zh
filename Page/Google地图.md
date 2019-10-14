@@ -37,18 +37,18 @@ Google和[北京图盟科技有限公司](https://zh.wikipedia.org/wiki/北京�
 
 ### 爭議
 
-  - 隱私權爭議
-  - 街景服務大部分僅能看到地面,即使地下有景點
-  - Google公司依各國政府要求將軍事基地的圖資刪除並將衛星空拍照片模糊處理，但反而洩漏各國的軍事基地的大致位置
+  - [隱私權爭議](https://zh.wikipedia.org/wiki/隱私權 "wikilink")。
+  - 街景服務大部分僅能看到地面,即使地下有景點。
+  - Google公司依各國政府要求將軍事基地的圖資刪除並將衛星空拍照片模糊處理，但反而洩漏各國的軍事基地的大致位置。
   - 地图资料数据由[勤崴國際科技](https://zh.wikipedia.org/wiki/勤崴國際科技 "wikilink")（KingwayTek）、Mapabc和Europa Technologies等公司提供，地名或行政區資訊不能保證完全正確，資訊更新頻率需时較久，有时甚至需等待超過1個月\[5\]。
   - 部份地方的衛星空拍照片過久未更新，例如2009年即完工啟用的台北市[交九轉運站](https://zh.wikipedia.org/wiki/交九轉運站 "wikilink")，在2017年8月時所見的Google地圖仍是未完工時衛星空拍照片。
-  - 路綫規劃有簡化和缩短空間
-  - GPS有時出錯（在小路上行駛時卻標示在公路上，使導航出錯）
-  - 2010年3月，[香港](../Page/香港.md "wikilink")版本使用了[簡體中文及](https://zh.wikipedia.org/wiki/簡體中文 "wikilink")[漢語拼音而非香港原本的港式譯音](https://zh.wikipedia.org/wiki/漢語拼音 "wikilink")（不同於[粵語拼音](https://zh.wikipedia.org/wiki/粵語拼音 "wikilink")）。
-  - 2010年4月17日起，Google地图對全中文用戶，將全世界地名含街道名均改為簡體中文表示。
+  - 路綫規劃有簡化和缩短空間。
+  - [GPS有時出錯](https://zh.wikipedia.org/wiki/GPS "wikilink")（在小路上行駛時卻標示在公路上，使導航出錯）。
+  - 2010年3月，香港版本使用了[簡體中文及](https://zh.wikipedia.org/wiki/簡體中文 "wikilink")[漢語拼音而非香港原本的港式譯音](https://zh.wikipedia.org/wiki/漢語拼音 "wikilink")（不同於[粵語拼音](https://zh.wikipedia.org/wiki/粵語拼音 "wikilink")）。
+  - 2010年4月17日起，Google地图對全中文用戶，將全世界地名含街道名均改為[簡體中文表示](https://zh.wikipedia.org/wiki/簡體中文 "wikilink")。
   - 2010年4月23日起，中国版Google地图中大量的香港地名改用音譯，例如[佐敦](../Page/佐敦.md "wikilink")变成[约旦](../Page/约旦.md "wikilink")、[赤鱲角機場變成](../Page/香港國際機場.md "wikilink")「切克拉普科克艾爾波特」\[6\]。现已修正，简体版与繁体版都统一使用香港原本的中文命名。
-  - 2010年5月2日，Google地图將[中華民國](../Page/中華民國.md "wikilink")[宜蘭縣屬地的](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[龜山島](../Page/龜山島.md "wikilink")歸類為「日本[沖繩縣](../Page/沖繩縣.md "wikilink")」領土。\[7\]
-  - 除中国版Google地图外，中华人民共和国广东省与香港特别行政区、澳门特别行政区的分界线均以国境线标注，且将香港、澳门作单独的国家处理（政府所在地标注为首都，字体使用国家层级）
+  - 2010年5月2日，Google地图將中華民國[宜蘭縣屬地的](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[龜山島](../Page/龜山島.md "wikilink")歸類為「日本[沖繩縣](../Page/沖繩縣.md "wikilink")」領土。\[7\]
+  - 除中国版Google地图外，中华人民共和国[广东省](../Page/广东省.md "wikilink")与[香港特别行政区](https://zh.wikipedia.org/wiki/香港特别行政区 "wikilink")、[澳门特别行政区的分界线均以国境线标注](https://zh.wikipedia.org/wiki/澳门特别行政区 "wikilink")，且将香港、澳门作单独的国家处理（政府所在地标注为首都，字体使用国家层级）。
 
 ## \-{zh-tw:行動裝置版;zh-hans:移动版}-
 

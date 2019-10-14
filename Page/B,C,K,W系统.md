@@ -10,7 +10,7 @@
 直觉上，
 
   - **B** x y是[函数复合x](https://zh.wikipedia.org/wiki/函数复合 "wikilink") <small>o</small> y
-  - **C** x y z交换[参数y和z](https://zh.wikipedia.org/wiki/參數_\(程式設計\) "wikilink")
+  - **C** x y z交换[参数y和z](../Page/參數_\(程式設計\).md "wikilink")
   - **K** x y忽略第二个参数y
   - **W** x y复制参数y
 

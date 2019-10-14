@@ -27,12 +27,12 @@
   - 1996年9月13日 - 漂流
   - 1996年10月25日 - 生本（這是該公司的第一款[Windows遊戲](https://zh.wikipedia.org/wiki/Windows "wikilink")。）
   - 1997年2月14日 - 魔界★
-  - 1997年12月26日 - [DES BLOOD](https://zh.wikipedia.org/wiki/DES_BLOOD "wikilink")★
+  - 1997年12月26日 - DES BLOOD★
   - 1998年8月28日 - 過激ゲーム（1）<small>【在正式版中，标题LOGO的1在圓圈里。】</small>
   - 1998年11月6日 - DES BLOOD2★
-  - 1999年5月14日 - [尾行 〜夜の帰り道〜](https://zh.wikipedia.org/wiki/尾行_〜夜の帰り道〜 "wikilink")★
+  - 1999年5月14日 - 尾行 〜夜の帰り道〜★
   - 2000年3月10日 - DES BLOOD3★
-  - 2000年9月14日 - [BRUTISH MINE](https://zh.wikipedia.org/wiki/BRUTISH_MINE "wikilink")★（永恒的传说）
+  - 2000年9月14日 - BRUTISH MINE★（永恒的传说）
   - 2000年11月2日 - INTERACT PLAY★(电车之狼,旗下子公司Dreams制作）
   - 2001年1月12日 - [〜リバーシブルフェイス〜 尾行2](../Page/尾行2.md "wikilink")★
   - 2001年3月9日 - ですぶら運動会 〜イシスの逆襲〜★（欲望少女运动会）
@@ -42,43 +42,43 @@
   - 2002年9月13日 - DES BLOOD4 〜LOST ALONE〜★（[欲望之血4](../Page/欲望之血4.md "wikilink")）
   - 2003年3月28日 - DBVR★（欲望之血VR，系列第一部之复刻版）
   - 2004年1月30日 - [尾行3](../Page/尾行3.md "wikilink")★
-  - 2004年6月25日 - [A-GA](https://zh.wikipedia.org/wiki/A-GA "wikilink") 〜激動の惑星〜★
+  - 2004年6月25日 - A-GA 〜激動の惑星〜★
   - 2004年11月26日 - [人工少女2](https://zh.wikipedia.org/wiki/人工少女#人工少女2 "wikilink")★
-  - 2005年4月22日 - [Battle RaperII 〜THE GAME〜](https://zh.wikipedia.org/wiki/バトルレイパー "wikilink")★（欲望格斗2）
-  - 2005年11月25日 - [おっぱいスライダー2](https://zh.wikipedia.org/wiki/おっぱいスライダー2 "wikilink")★
+  - 2005年4月22日 - Battle RaperII 〜THE GAME〜★（欲望格斗2）
+  - 2005年11月25日 - おっぱいスライダー2★
   - 2006年4月21日 - [レイプレイ](https://zh.wikipedia.org/wiki/電車之狼 "wikilink")★（RapeLay、电车之狼R）
-  - 2006年9月29日 - [Sexyビーチ3](https://zh.wikipedia.org/wiki/Sexyビーチ "wikilink")★
-  - 2007年5月25日 - [すくぅ〜るメイト](https://zh.wikipedia.org/wiki/すくぅ〜るメイト "wikilink")★
+  - 2006年9月29日 - Sexyビーチ3★
+  - 2007年5月25日 - すくぅ〜るメイト★
   - 2007年11月30日 - [人工少女3](https://zh.wikipedia.org/wiki/人工少女3 "wikilink")★
   - 2008年5月30日 - [人工少女3 はんなり](https://zh.wikipedia.org/wiki/人工少女#人工少女3 "wikilink")★
   - 2008年10月10日 - 箱 -はこ-★
   - 2009年2月27日 - すくぅ〜るメイト Sweets\!★
-  - 2009年5月29日 - [@ふぉーむメイト](https://zh.wikipedia.org/wiki/@ふぉーむメイト "wikilink")★
-  - 2009年10月2日 - [勇者からは逃げられない\!](https://zh.wikipedia.org/wiki/勇者からは逃げられない! "wikilink")★
-  - 2010年2月19日 - [リアル彼女](https://zh.wikipedia.org/wiki/リアル彼女 "wikilink")★
-  - 2010年6月25日 - [すくぅ〜るメイト2](https://zh.wikipedia.org/wiki/すくぅ〜るメイト2 "wikilink")★
+  - 2009年5月29日 - @ふぉーむメイト\]★
+  - 2009年10月2日 - 勇者からは逃げられない\!★
+  - 2010年2月19日 - リアル彼女★
+  - 2010年6月25日 - すくぅ〜るメイト2★
   - 2010年8月20日 - でじたるメイト★
-  - 2010年10月29日 - [SexyビーチZERO](https://zh.wikipedia.org/wiki/Sexyビーチ "wikilink")★
+  - 2010年10月29日 - SexyビーチZERO★
   - 2010年12月3日 - デジタル3Dフィギュア きゃらコレ\! -[ALICESOFT](https://zh.wikipedia.org/wiki/アリスソフト "wikilink")-★
       - 2010年12月17日 - デジタル3Dフィギュア きゃらコレ\! -[BaseSon](../Page/BaseSon.md "wikilink")-★
-  - 2011年6月10日 - [ジンコウガクエン](https://zh.wikipedia.org/wiki/ジンコウガクエン "wikilink")★
-  - 2011年11月11日 - [ワケあり\!](https://zh.wikipedia.org/wiki/ワケあり! "wikilink")★
-  - 2012年2月24日 - [ラブガール 〜魅惑の個人レッスン〜](https://zh.wikipedia.org/wiki/ラブガール_〜魅惑の個人レッスン〜 "wikilink")★
-  - 2012年3月9日 - [ベストコレクション悶 〜もだえ〜](https://zh.wikipedia.org/wiki/ベストコレクション悶_〜もだえ〜 "wikilink")★
-  - 2012年5月25日 - [俺が主人公](https://zh.wikipedia.org/wiki/俺が主人公 "wikilink")★
-  - 2012年10月12日 - [ハッピーエンドトリガー](https://zh.wikipedia.org/wiki/ハッピーエンドトリガー "wikilink")★
-  - 2013年1月25日 - [プレミアムプレイ 〜ダークネス〜](https://zh.wikipedia.org/wiki/プレミアムプレイ_〜ダークネス〜 "wikilink")★
-      - 2013年4月19日 - [プレミアムスタジオPro](https://zh.wikipedia.org/wiki/プレミアムスタジオPro "wikilink")★
-  - 2013年7月26日 - [むすメイク](https://zh.wikipedia.org/wiki/むすメイク "wikilink")★
-  - 2013年11月1日 - [インモラル病棟](https://zh.wikipedia.org/wiki/インモラル病棟 "wikilink")★
-  - 2014年3月7日 - [リアルプレイ](https://zh.wikipedia.org/wiki/リアルプレイ "wikilink")★
-  - 2014年6月13日 - [ジンコウガクエン2](https://zh.wikipedia.org/wiki/ジンコウガクエン2 "wikilink")★
+  - 2011年6月10日 - ジンコウガクエン★
+  - 2011年11月11日 - ワケあり\!★
+  - 2012年2月24日 - ラブガール 〜魅惑の個人レッスン〜★
+  - 2012年3月9日 - ベストコレクション悶 〜もだえ〜★
+  - 2012年5月25日 - 俺が主人公★
+  - 2012年10月12日 - ハッピーエンドトリガー★
+  - 2013年1月25日 - プレミアムプレイ 〜ダークネス〜★
+      - 2013年4月19日 - プレミアムスタジオPro★
+  - 2013年7月26日 - むすメイク★
+  - 2013年11月1日 - インモラル病棟★
+  - 2014年3月7日 - リアルプレイ★
+  - 2014年6月13日 - ジンコウガクエン2★
   - 2014年8月29日 - ジンコウガクエン2 アペンドセット★
   - 2014年10月31日 - ジンコウガクエン2 アペンドセットII ★
   - 2014年12月26日 - ハーレムめいと★
   - 2015年4月24日 - プレイクラブ★
   - 2015年7月10日 - プレイクラブ追加データ+スタジオ★
-  - 2015年9月11日 - [Sexyビーチ プレミアムリゾート](https://zh.wikipedia.org/wiki/Sexyビーチ "wikilink")★
+  - 2015年9月11日 - Sexyビーチ プレミアムリゾート★
   - 2016年4月28日 - セクロスフィア★
   - 2016年9月9日 - ハニーセレクト★
   - 2017年2月28日 - [VR女友](../Page/VR女友.md "wikilink")★
@@ -86,6 +86,7 @@
   - 2017年10月13日 - プレイホーム★
   - 2018年4月27日 - [戀活！](https://zh.wikipedia.org/wiki/戀活！ "wikilink")★
   - 2019年4月26日 - エモーション・クリエイターズ★
+  - 2019年10月25日 - AI＊少女
 
 ### Vision
 
@@ -114,19 +115,58 @@
 
 <!-- end list -->
 
-  - 1999年8月6日 - [湾岸DREAM](https://zh.wikipedia.org/wiki/湾岸DREAM "wikilink")★
+  - 1999年8月6日 - 湾岸DREAM★
   - 2000年6月9日 - DANCING CAT's★
-  - 2000年11月3日 - [INTERACT PLAY](https://zh.wikipedia.org/wiki/INTERACT_PLAY "wikilink")★
+  - 2000年11月3日 - INTERACT PLAY★
   - 2001年8月24日 - INTERACT PLAY VR★
-  - 2002年4月19日 - [Battle Raper](https://zh.wikipedia.org/wiki/Battle_Raper "wikilink")★
-  - 2003年7月11日 - [Sexyビーチ2](https://zh.wikipedia.org/wiki/Sexyビーチ "wikilink")★
+  - 2002年4月19日 - Battle Raper★
+  - 2003年7月11日 - Sexyビーチ2★
   - 2003年9月12日 - ちくちくビーチ 〜みんな大好き〜★
+
+### TEATIME
+
+  - 2001年4月20日 - 捕われた硝子の心
+  - 2001年10月19日 - 華の悲鳴 〜壊れた硝子の心〜
+  - 2002年3月21日 - めいでん☆ブリーダー
+  - 2002年8月9日 - 雪蛍
+  - 2003年2月14日 - Toon
+  - 2003年8月8日 - TEAPACK1 捕華（ティーパック1 トラハナ）
+  - 2003年9月5日 - セイクリッド・プルーム
+  - 2004年5月21日 - メイデン☆ブリーダー2
+  - 2005年4月28日 - らぶデス 〜Realtime Lovers〜
+  - 2005年9月22日 - ふた魔女（2D作品）
+  - 2006年11月17日 - ポリアニ 〜ポリゴンアニメ美少女〜
+  - 2007年8月31日 - らぶデス2 〜Realtime Lovers〜
+  - 2008年11月28日 - らぶデス3 〜Realtime Lovers〜
+  - 2009年6月26日 - Tech48
+  - 2009年7月31日 - いちゃコミュ☆ 〜いちゃいちゃコミュニケーション〜（DL限定）
+  - 2009年12月18日 - らぶデス4 〜ν-Realtime Lovers〜
+  - 2010年5月28日 - 妄想性仮想人格障害
+  - 2010年7月30日 - いちゃコミュ☆+ 〜いちゃいちゃコミュニケーションプラス〜
+  - 2010年11月26日 - らぶデス555\!
+  - 2011年3月31日 - 修羅恋 〜See You Lover〜
+  - 2011年5月26日 - 恋愛+H
+  - 2011年7月29日 - 放課後かすたむ☆たいむ
+  - 2011年12月9日 - らぶギア 〜Kinematic Lovers〜
+  - 2012年6月15日 - ネトワクネトラル カレマチカノジョ
+  - 2013年6月7日 - かみさまのおえかき
+  - 2013年8月30日 - らぶデス FINAL\!
 
 ### mixwill soft
 
   - 2004年1月23日 - もけもけ大正電動娘ARISA
   - 2004年9月3日 - おねパパ 〜Onegai PaPa\!〜
   - 2005年2月25日 - 乳房病棟
+
+### FULLTIME
+
+  - 2004年12月17日 - 痴漢は犯罪\!
+  - 2006年3月17日 - エロ医
+  - 2008年4月25日 - エロ医3D
+  - 2011年12月22日 - 肉体契約書
+  - 2012年3月30日 - バーチャルストーカー
+  - 2012年8月31日 - ILLUSION FIELD -幻影現実-
+  - 2013年3月29日 - UNDEROID
 
 ## 相關爭議
 

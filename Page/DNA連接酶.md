@@ -45,7 +45,7 @@ DNA連接酶也可以處理[鈍端](https://zh.wikipedia.org/wiki/黏状末端 "
   - Structure and function of mammalian DNA ligases. *Mutation Research* 407, 1-9 (1998)
   - [1](http://genomebiology.com/2002/3/4/reviews/3005.1)
   - [DNA Ligase: PDB molecule of the month](https://web.archive.org/web/20060109060549/http://nist.rcsb.org/pdb/molecules/pdb55_1.html)
-  - [Davidson College General Information on Ligase](http://www.bio.davidson.edu/Courses/Molbio/MolStudents/spring2003/Weber/ligation.html)
+  - [Davidson College General Information on Ligase](https://web.archive.org/web/20150402152047/http://www.bio.davidson.edu/Courses/Molbio/MolStudents/spring2003/Weber/ligation.html)
 
 [Category:EC_6.5](https://zh.wikipedia.org/wiki/Category:EC_6.5 "wikilink") [Category:分子生物学](https://zh.wikipedia.org/wiki/Category:分子生物学 "wikilink") [Category:DNA複製](https://zh.wikipedia.org/wiki/Category:DNA複製 "wikilink")
 

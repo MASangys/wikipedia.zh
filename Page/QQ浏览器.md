@@ -88,7 +88,7 @@ QQ瀏覽器與同樣使用雙排版引擎進行渲染的[搜狗瀏覽器](https:
 
   - [天极Myhard学院 介绍腾讯TT新功能](http://www.yesky.com/lesson/361419367654621184/20040326/1781353.shtml)，天极網，2004年3月26日
 
-[Category:腾讯软件](https://zh.wikipedia.org/wiki/Category:腾讯软件 "wikilink") [Category:網頁瀏覽器](https://zh.wikipedia.org/wiki/Category:網頁瀏覽器 "wikilink") [Category:免費軟件](https://zh.wikipedia.org/wiki/Category:免費軟件 "wikilink")
+[Category:腾讯软件](https://zh.wikipedia.org/wiki/Category:腾讯软件 "wikilink") [Category:網頁瀏覽器](https://zh.wikipedia.org/wiki/Category:網頁瀏覽器 "wikilink") [Category:免費軟件](https://zh.wikipedia.org/wiki/Category:免費軟件 "wikilink") [Category:基于Chromium的浏览器](https://zh.wikipedia.org/wiki/Category:基于Chromium的浏览器 "wikilink")
 
 1.
 

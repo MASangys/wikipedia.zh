@@ -287,7 +287,7 @@
 </tr>
 <tr class="even">
 <td><p>2019年7月 - 09月</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/GIVEN_被贈與的未來" title="wikilink">GIVEN 被贈與的未來</a></p></td>
+<td><p><a href="../Page/GIVEN_被贈與的未來.md" title="wikilink">GIVEN 被贈與的未來</a></p></td>
 <td></td>
 </tr>
 </tbody>

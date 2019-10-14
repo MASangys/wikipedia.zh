@@ -30,6 +30,7 @@ TVBS新聞部位於TVBS「[內湖大樓](../Page/TVBS企業總部.md "wikilink")
   - 2016年12月21日14點：更換台標和各節新聞的音樂，不再使用[TVB的開場音樂](https://zh.wikipedia.org/wiki/TVB "wikilink")。\[3\]
   - 2018年11月24日起：啟用新虛實合一的超大攝影棚並擁有雙電視牆及超大主播台。
   - 2018年11月26日起：TVBS新聞YouTube線上直播正式上線。
+  - 2019年09月26日起：TVBS新聞左上方標題、左下方天氣資訊上方紅色框框更改及撰稿名字改版。
 
 ## 專題節目
 
@@ -186,7 +187,9 @@ TVBS新聞部位於TVBS「[內湖大樓](../Page/TVBS企業總部.md "wikilink")
   - [華舜嘉](https://zh.wikipedia.org/wiki/華舜嘉 "wikilink")（現為[三立新聞台](../Page/三立新聞台.md "wikilink")記者）
   - [廖芳潔](https://zh.wikipedia.org/wiki/廖芳潔 "wikilink")（現任[三立新聞台](../Page/三立新聞台.md "wikilink")《[台灣大頭條](../Page/台灣大頭條.md "wikilink")》主播）
   - [許儷齡](https://zh.wikipedia.org/wiki/許儷齡 "wikilink")（現任[客家電視台](../Page/客家電視台.md "wikilink")主播）
-  - [曾奕慈](https://zh.wikipedia.org/wiki/曾奕慈 "wikilink")（現為[三立新闻台记者](https://zh.wikipedia.org/wiki/三立新闻台 "wikilink")）
+  - [曾奕慈](https://zh.wikipedia.org/wiki/曾奕慈 "wikilink")（現為[三立新闻台記者](https://zh.wikipedia.org/wiki/三立新闻台 "wikilink")）
+  - [劉懿萱](https://zh.wikipedia.org/wiki/劉懿萱 "wikilink")（現為[壹新聞記者](https://zh.wikipedia.org/wiki/壹新聞 "wikilink")）
+  - [蔡宜靜](https://zh.wikipedia.org/wiki/蔡宜靜 "wikilink")
 
 ## 爭議
 

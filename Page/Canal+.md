@@ -32,6 +32,6 @@ Canal+不断拓展海外业务，该公司在设立海外电视台时常用色�
 ## 外部链接
 
   - [Canal+官方网站（法语）](http://www.canalplus.fr)
-  - [Canal+集团官方网站（法语）](http://www.canalplusgroupe.com)
+  - [Canal+集团官方网站（法语）](https://web.archive.org/web/20110205161221/http://www.canalplusgroupe.com/)
 
 [Category:法國電視台](https://zh.wikipedia.org/wiki/Category:法國電視台 "wikilink") [Category:法語電視頻道](https://zh.wikipedia.org/wiki/Category:法語電視頻道 "wikilink") [Category:付费电视](https://zh.wikipedia.org/wiki/Category:付费电视 "wikilink") [Category:威望迪子公司](https://zh.wikipedia.org/wiki/Category:威望迪子公司 "wikilink")

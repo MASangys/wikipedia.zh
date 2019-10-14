@@ -8,7 +8,7 @@ EditGrid，是一個[Web 2.0](../Page/Web_2.0.md "wikilink")[試算表服式](ht
 
 ## 收購
 
-該公司於2009年獲[蘋果公司收購](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")，團隊獲蘋果公司招攬並分別在美國及香港蘋果分部任職，主力軟件開發\[1\]。
+該公司於2009年獲[蘋果公司收購](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")，團隊獲蘋果公司招攬並分別在美國及香港蘋果分部任職，主力軟件開發\[1\]\[2\]。
 
 ## 服務終止
 
@@ -18,7 +18,7 @@ Dear EditGrid user, After keeping EditGrid.com up and running for a few years as
 
 ## 外部連結
 
-  - [官方網頁](http://www.editgrid.com/)
+  - [官方網頁](https://web.archive.org/web/20130801150819/http://www.editgrid.com/)
   - [香港外銷網站三巨頭，力抗胚胎宿命](http://mr6.cc/?p=701) – Mr. 6
   - [Editgrid：越来越出色的电子表格处理服务与令人尊敬的团队](https://web.archive.org/web/20061113154633/http://www.wangtam.com/50226711/editgrid_eeeccecaeaeaece_46343.php) – 網談
   - [EditGrid =\> XML + XSLT =\> KML](http://www.ogleearth.com/2006/08/editgrid_xml_xs.html) – Ogle Earth
@@ -29,3 +29,4 @@ Dear EditGrid user, After keeping EditGrid.com up and running for a few years as
 [Category:电子制表](https://zh.wikipedia.org/wiki/Category:电子制表 "wikilink") [Category:中文软件](https://zh.wikipedia.org/wiki/Category:中文软件 "wikilink") [Category:AJAX](https://zh.wikipedia.org/wiki/Category:AJAX "wikilink") [Category:应用程序接口](https://zh.wikipedia.org/wiki/Category:应用程序接口 "wikilink") [Category:免費軟件](https://zh.wikipedia.org/wiki/Category:免費軟件 "wikilink") [Category:应用软件](https://zh.wikipedia.org/wiki/Category:应用软件 "wikilink") [Category:Web_2.0](https://zh.wikipedia.org/wiki/Category:Web_2.0 "wikilink") [Category:苹果公司收购](https://zh.wikipedia.org/wiki/Category:苹果公司收购 "wikilink")
 
 1.
+2.

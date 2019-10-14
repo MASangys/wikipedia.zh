@@ -90,7 +90,7 @@ KID公司經營初期曾代工一些[射擊遊戲和](https://zh.wikipedia.org/w
   - 「[秋之回憶：從今以後](../Page/秋之回憶：從今以後.md "wikilink")」
   - 「」
   - 「[Monochrome](https://zh.wikipedia.org/wiki/Monochrome "wikilink")」
-  - 「水月 -迷心-」**（[F\&C FC01](../Page/F&C.md "wikilink")「[水月](https://zh.wikipedia.org/wiki/水月 "wikilink")」）**
+  - 「水月 -迷心-」**（[F\&C FC01](../Page/F&C.md "wikilink")「[水月](../Page/水月.md "wikilink")」）**
   - 「」**（[Studio e.go\!](../Page/Studio_e.go!.md "wikilink")「」）**
 
 ### 2005年

@@ -124,6 +124,8 @@
 
   - [PSYCHO-PASS](../Page/PSYCHO-PASS.md "wikilink")（2012年－2013年）
 
+      - 第3期 PSYCHO-PASS心靈判官 3（2019年）
+
   - [ROBOTICS;NOTES](../Page/ROBOTICS;NOTES.md "wikilink")（2012年－2013年）
 
   - [翠星上的加爾岡緹亞](https://zh.wikipedia.org/wiki/翠星上的加爾岡緹亞 "wikilink")（）（2013年）
@@ -522,6 +524,8 @@
   - [影子籃球員](https://zh.wikipedia.org/wiki/影子籃球員 "wikilink") WINTER CUP 總集篇（）（2016年）
 
   - [你的名字。](../Page/你的名字。.md "wikilink")（。）（總承包商：[CoMix Wave Films](../Page/CoMix_Wave_Films.md "wikilink")，2016年）
+
+  - [天氣之子](https://zh.wikipedia.org/wiki/天氣之子 "wikilink")（）（總承包商：[CoMix Wave Films](../Page/CoMix_Wave_Films.md "wikilink")，2019年）
 
 ### 遊戲動畫
 

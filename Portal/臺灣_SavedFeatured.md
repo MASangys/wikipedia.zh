@@ -16,6 +16,16 @@
 
   - [桃園捷運](https://zh.wikipedia.org/wiki/桃園捷運 "wikilink") - [中華民國陸軍軍官學校](../Page/中華民國陸軍軍官學校.md "wikilink")
 
+## 2019年8月17日
+
+[Taoyuan_International_Airport,_Taiwan_(8336946440).jpg](https://zh.wikipedia.org/wiki/File:Taoyuan_International_Airport,_Taiwan_\(8336946440\).jpg "fig:Taoyuan_International_Airport,_Taiwan_(8336946440).jpg")
+
+**臺灣桃園國際機場**（），通稱**桃園國際機場**、**桃園機場**，簡稱**桃機**，是位於臺灣[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[大園區](../Page/大園區.md "wikilink")的[國際機場](https://zh.wikipedia.org/wiki/國際機場 "wikilink")，距[臺北市](../Page/臺北市.md "wikilink")中心以西約40公里，為臺灣[國際](https://zh.wikipedia.org/wiki/國際航線 "wikilink")[航空樞紐](../Page/樞紐機場.md "wikilink")，由[桃園國際機場公司經營](https://zh.wikipedia.org/wiki/桃園國際機場公司 "wikilink")。1979年2月26日啟用時名為**中正國際機場**，2006年10月改為現名。現今共有67家航空公司經營定期航線，飛往全球34個國家的144個航點，年度總旅客吞吐量超過4,650萬人次。
+
+桃園國際機場面積約1,249公頃，擁有2座[航廈](../Page/航站楼.md "wikilink")、4座貨運集散站、2條[跑道](../Page/跑道.md "wikilink")及39條[滑行道](../Page/滑行道.md "wikilink")，並擁有聯外之[高速公路及](../Page/國道二號_\(中華民國\).md "wikilink")[捷運系統](../Page/桃園機場捷運.md "wikilink")；在運量快速攀升的同時，目前也規畫興建[第三航廈](../Page/臺灣桃園國際機場第三航廈.md "wikilink")、第四航廈及第三跑道以滿足龐大的旅運需求。根據2018年的統計，其貨運吞吐量位居[全球第8位](../Page/全球机场货运量列表.md "wikilink")，客運吞吐量居[全球第36位](https://zh.wikipedia.org/wiki/全球机场客运吞吐量列表 "wikilink")，若僅計算國際客運量則為[全球第11位](https://zh.wikipedia.org/wiki/全球機場國際客量列表 "wikilink")。
+
+[了解更多...](https://zh.wikipedia.org/wiki/臺灣桃園國際機場 "wikilink")
+
 ## 2019年7月6日
 
 [Earthquake_Early_Warning_(Taiwan).svg](https://zh.wikipedia.org/wiki/File:Earthquake_Early_Warning_\(Taiwan\).svg "fig:Earthquake_Early_Warning_(Taiwan).svg")的強震即時警報系統。\]\]

@@ -104,7 +104,7 @@ AMD也開發了屬於自己的[SSE4a多媒體指令集](https://zh.wikipedia.org
 
 ## 參見
 
-  - [Altivec](../Page/Altivec.md "wikilink")
+  - [AltiVec](../Page/AltiVec.md "wikilink")
   - [組合語言](https://zh.wikipedia.org/wiki/組合語言 "wikilink")
   - [MMX](../Page/MMX.md "wikilink")
   - [3DNow\!](../Page/3DNow!.md "wikilink")

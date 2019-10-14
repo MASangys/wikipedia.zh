@@ -541,7 +541,7 @@ Cartoon town club：<a href="https://zh.wikipedia.org/wiki/Crystal_Kay" title="w
 <tr class="even">
 <td><p>57</p></td>
 <td><p>5月7日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/友近" title="wikilink">友近</a></p></td>
+<td><p><a href="../Page/友近.md" title="wikilink">友近</a></p></td>
 <td><p>友近和<a href="../Page/KAT-TUN.md" title="wikilink">KAT-TUN</a>即興戲劇表演挑戰</p></td>
 <td><p>5.5%</p></td>
 <td></td>
@@ -724,7 +724,7 @@ Cartoon town club：<a href="https://zh.wikipedia.org/wiki/Crystal_Kay" title="w
 <tr class="even">
 <td><p>76</p></td>
 <td><p>9月17日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/友近" title="wikilink">友近</a></p></td>
+<td><p><a href="../Page/友近.md" title="wikilink">友近</a></p></td>
 <td></td>
 <td><p>5.1%</p></td>
 </tr>
@@ -965,7 +965,7 @@ Mini Stage：<a href="../Page/White_X&#39;mas.md" title="wikilink">White X'mas</
 <tr class="even">
 <td><p>106</p></td>
 <td><p>4月22日</p></td>
-<td><p>桑波田理惠、<a href="https://zh.wikipedia.org/wiki/友近" title="wikilink">友近</a></p></td>
+<td><p>桑波田理惠、<a href="../Page/友近.md" title="wikilink">友近</a></p></td>
 <td><p>第二章 愛是什麼？ END</p></td>
 <td><p>5.5%</p></td>
 </tr>

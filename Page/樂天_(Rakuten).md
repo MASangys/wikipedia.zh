@@ -4,7 +4,7 @@
 
 1997年2月，樂天（Rakuten）株式會社創立。同年5月，「樂天市場」誕生，在網站開設的店舖共計13間。\[1\]
 
-樂天自2000年開始[併購](../Page/併購.md "wikilink")其他公司，相關企業還包含[證券公司](https://zh.wikipedia.org/wiki/證券公司 "wikilink")、[職業棒球隊(東北樂天金鷲)](https://zh.wikipedia.org/wiki/東北樂天金鷹 "wikilink")、[台灣職棒](https://zh.wikipedia.org/wiki/台灣職棒 "wikilink")[樂天金鷹隊](https://zh.wikipedia.org/wiki/樂天金鷹隊 "wikilink")、[旅遊網站等](https://zh.wikipedia.org/wiki/旅遊 "wikilink")。該公司現時是[JASDAQ](../Page/JASDAQ.md "wikilink")[上市公司](../Page/上市公司.md "wikilink")，也是日本[經團連會員](https://zh.wikipedia.org/wiki/經團連 "wikilink")。
+樂天自2000年開始[併購](../Page/併購.md "wikilink")其他公司，相關企業還包含[證券公司](https://zh.wikipedia.org/wiki/證券公司 "wikilink")、[職業棒球隊(東北樂天金鷲)](https://zh.wikipedia.org/wiki/東北樂天金鷹 "wikilink")、[旅遊網站等](https://zh.wikipedia.org/wiki/旅遊 "wikilink")。該公司現時是[JASDAQ](../Page/JASDAQ.md "wikilink")[上市公司](../Page/上市公司.md "wikilink")，也是日本[經團連會員](https://zh.wikipedia.org/wiki/經團連 "wikilink")。
 
 2007年11月29日，樂天株式會社在[臺灣](../Page/臺灣.md "wikilink")[臺北市](../Page/臺北市.md "wikilink")與[統一企業](../Page/統一企業.md "wikilink")集團簽約成立合資公司[台灣樂天市場](../Page/台灣樂天市場.md "wikilink")\[2\]（樂天株式會社持股51％，[統一超商](../Page/統一超商.md "wikilink")持股49％），2008年第二季正式開始營運，臺灣是樂天市場的第一個海外拓點。
 
@@ -38,13 +38,16 @@
   - [Viber](../Page/Viber.md "wikilink")(2014年9億美元)
   - [樂天醫療](https://zh.wikipedia.org/wiki/樂天醫療 "wikilink")(Rakuten Medical)22.5%
   - [樂天移動](https://zh.wikipedia.org/wiki/樂天移動 "wikilink")(Rakuten Mobile)
-  - [樂天銀行](../Page/樂天銀行.md "wikilink")
+  - 樂天銀行
   - [樂天証劵](https://zh.wikipedia.org/wiki/樂天証劵 "wikilink")
   - [樂天信用卡](https://zh.wikipedia.org/wiki/樂天信用卡 "wikilink")
   - [樂天生命保険](https://zh.wikipedia.org/wiki/樂天生命保険 "wikilink")
   - [樂天損害保険株式会社](https://zh.wikipedia.org/wiki/樂天損害保険株式会社 "wikilink")
   - [Edy](https://zh.wikipedia.org/wiki/Edy "wikilink")
   - Rakuten H Collective Studio
+  - 台灣樂天信用卡股份有限公司(Taiwan Rakuten Card, Inc.)100%
+  - [樂天國際商業銀行](https://zh.wikipedia.org/wiki/樂天國際商業銀行 "wikilink")(Rakuten Bank )49%
+  - 大高熊育樂股份有限公司(Lamigo桃猿)100%
 
 ## 體育
 
@@ -54,7 +57,7 @@
   - [金州勇士隊](https://zh.wikipedia.org/wiki/金州勇士隊 "wikilink")，球衣贊助
   - [Spartan Japan Obstacle Course Races贊助](https://zh.wikipedia.org/wiki/Spartan_Japan_Obstacle_Course_Races "wikilink")
   - [Rakuten Japan Open Tennis](https://www.rakutenopen.com/)贊助
-  - 中華職棒Lamigo桃猿
+  - [中華職棒](https://zh.wikipedia.org/wiki/中華職棒 "wikilink")[Lamigo桃猿](https://zh.wikipedia.org/wiki/Lamigo桃猿 "wikilink")
 
 ## 引用文獻
 

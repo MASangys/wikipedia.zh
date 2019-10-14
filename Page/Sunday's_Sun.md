@@ -30,7 +30,7 @@
 
   - \- 延續其前身節目『』的企劃「把列在家庭式餐館的菜單上的食物全部吃光的男人」第一回的舞台，就是在Sunday's Sun中野店。
 
-  - 在[流星花園](https://zh.wikipedia.org/wiki/流星花園 "wikilink")（日劇版）中，[松本潤與](https://zh.wikipedia.org/wiki/松本潤 "wikilink")[井上真央](../Page/井上真央.md "wikilink")也曾在Sunday's Sun二子玉川店進行拍攝的工作。
+  - 在[流星花園](https://zh.wikipedia.org/wiki/流星花園 "wikilink")（日劇版）中，[松本潤](../Page/松本潤.md "wikilink")與[井上真央](../Page/井上真央.md "wikilink")也曾在Sunday's Sun二子玉川店進行拍攝的工作。
 
   - [Sunday'z Sun e.p.](https://zh.wikipedia.org/wiki/Sunday'z_Sun_e.p. "wikilink") - [SUEMITSU\&THE SUEMITH的第](https://zh.wikipedia.org/wiki/SUEMITSU&THE_SUEMITH "wikilink")3張單曲。歌名就是源自Sunday's Sun。
 

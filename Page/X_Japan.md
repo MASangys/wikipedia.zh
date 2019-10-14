@@ -817,7 +817,7 @@ X自正式出道以來的樂曲，原創樂曲共34首由多家唱片公司發�
 
   - [SILENT JEALOUSY](../Page/Silent_Jealousy.md "wikilink") （1991年9月）
 
-  - [STANDING SEX／JOKER](https://zh.wikipedia.org/wiki/Standing_Sex "wikilink") （1991年10月）
+  - [STANDING SEX／JOKER](../Page/Standing_Sex.md "wikilink") （1991年10月）
 
   - [SAY ANYTHING](../Page/Say_Anything.md "wikilink") （1991年12月）
 

@@ -133,7 +133,7 @@
   - [Lay](../Page/張藝興.md "wikilink")
   - *[Key](https://zh.wikipedia.org/wiki/Key_\(歌手\) "wikilink")*
   - *[溫流](../Page/溫流.md "wikilink")*
-  - [Chen](https://zh.wikipedia.org/wiki/金鐘大 "wikilink")
+  - [Chen](../Page/CHEN_\(EXO\).md "wikilink")
   - [希澈](https://zh.wikipedia.org/wiki/金希澈 "wikilink")
   - [伯賢](https://zh.wikipedia.org/wiki/邊伯賢 "wikilink")
 
@@ -172,7 +172,7 @@
 <!-- end list -->
 
   - *[天上智喜](../Page/天上智喜.md "wikilink")*
-  - *[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")*
+  - [少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")
   - *[f(x)](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")*
   - [Red Velvet](../Page/Red_Velvet.md "wikilink")
 

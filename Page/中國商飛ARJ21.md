@@ -89,36 +89,177 @@ ARJ21使用了1960年代[麦克唐纳·道格拉斯轉移的](https://zh.wikiped
 <table>
 <thead>
 <tr class="header">
-<th><p>交付方</p></th>
-<th><p>统计截止日期</p></th>
-<th><p>ARJ21-700</p></th>
-<th><p>ARJ21-900</p></th>
-<th><p>ARJ21F</p></th>
-<th><p>ARJ21B</p></th>
-<th><p>总数</p></th>
+<th><p>注册号</p></th>
+<th><p>累计架次</p></th>
+<th><p>生产序列号</p></th>
+<th><p>交付航司</p></th>
+<th><p>交付日期</p></th>
+<th><p>交付型号</p></th>
 <th><p>备注</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
+<td><p>B-3321</p></td>
+<td><p>第1架</p></td>
+<td><p>106</p></td>
 <td><p><a href="../Page/成都航空.md" title="wikilink">成都航空</a></p></td>
-<td><p>2019-09-05</p></td>
-<td><p>12</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p>12</p></td>
+<td><p>2015年11月29日</p></td>
+<td><p>21-700</p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>B-3322</p></td>
+<td><p>第2架</p></td>
+<td><p>105</p></td>
+<td><p><a href="../Page/成都航空.md" title="wikilink">成都航空</a></p></td>
+<td><p>2016年9月29日</p></td>
+<td><p>21-700</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>B-3386</p></td>
+<td><p>第3架</p></td>
+<td><p>107</p></td>
+<td><p><a href="../Page/成都航空.md" title="wikilink">成都航空</a></p></td>
+<td><p>2017年10月19日</p></td>
+<td><p>21-700</p></td>
+<td><p>航天租赁第1架[51]</p></td>
+</tr>
+<tr class="even">
+<td><p>B-3387</p></td>
+<td><p>第4架</p></td>
+<td><p>108</p></td>
+<td><p><a href="../Page/成都航空.md" title="wikilink">成都航空</a></p></td>
+<td><p>2017年12月29日</p></td>
+<td><p>21-700</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>B-3388</p></td>
+<td><p>第5架</p></td>
+<td><p>109</p></td>
+<td><p><a href="../Page/成都航空.md" title="wikilink">成都航空</a></p></td>
+<td><p>2018年4月29日</p></td>
+<td><p>21-700</p></td>
+<td><p>浦银租赁第1架[52]</p></td>
+</tr>
+<tr class="even">
+<td><p>B-3328</p></td>
+<td><p>第6架</p></td>
+<td><p>111</p></td>
+<td><p><a href="../Page/成都航空.md" title="wikilink">成都航空</a></p></td>
+<td><p>2018年8月25日</p></td>
+<td><p>21-700</p></td>
+<td><p>工银租赁第1架</p></td>
+</tr>
+<tr class="odd">
+<td><p>B-3329</p></td>
+<td><p>第7架</p></td>
+<td><p>112</p></td>
+<td><p><a href="../Page/成都航空.md" title="wikilink">成都航空</a></p></td>
+<td><p>2018年9月23日</p></td>
+<td><p>21-700</p></td>
+<td><p>工银租赁第2架</p></td>
+</tr>
+<tr class="even">
+<td><p>B-602A</p></td>
+<td><p>第8架</p></td>
+<td><p>113</p></td>
+<td><p><a href="../Page/成都航空.md" title="wikilink">成都航空</a></p></td>
+<td><p>2018年10月15日</p></td>
+<td><p>21-700</p></td>
+<td><p>浦银租赁第2架</p></td>
+</tr>
+<tr class="odd">
+<td><p>B-602C</p></td>
+<td><p>第9架</p></td>
+<td><p>114</p></td>
+<td><p><a href="../Page/成都航空.md" title="wikilink">成都航空</a></p></td>
+<td><p>2018年12月14日</p></td>
+<td><p>21-700</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>B-104X</p></td>
+<td><p>第10架</p></td>
+<td><p>119</p></td>
+<td><p><a href="../Page/成都航空.md" title="wikilink">成都航空</a></p></td>
+<td><p>2018年12月29日</p></td>
+<td><p>21-700</p></td>
+<td><p>浦银租赁第3架</p></td>
+</tr>
+<tr class="odd">
+<td><p>B-603M</p></td>
+<td><p>第11架</p></td>
+<td><p>120</p></td>
+<td><p><a href="../Page/成都航空.md" title="wikilink">成都航空</a></p></td>
+<td><p>2019年1月26日</p></td>
+<td><p>21-700</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>B-602S</p></td>
+<td><p>第12架</p></td>
+<td><p>116</p></td>
 <td><p><a href="../Page/天骄航空.md" title="wikilink">天骄航空</a></p></td>
-<td><p>2019-09-05</p></td>
-<td><p>3</p></td>
+<td><p>2019年2月22日</p></td>
+<td><p>21-700</p></td>
 <td></td>
+</tr>
+<tr class="odd">
+<td><p>B-602T</p></td>
+<td><p>第13架</p></td>
+<td><p>117</p></td>
+<td><p><a href="../Page/天骄航空.md" title="wikilink">天骄航空</a></p></td>
+<td><p>2019年6月24日</p></td>
+<td><p>21-700</p></td>
 <td></td>
+</tr>
+<tr class="even">
+<td><p>B-603N</p></td>
+<td><p>第14架</p></td>
+<td><p>121</p></td>
+<td><p><a href="../Page/成都航空.md" title="wikilink">成都航空</a></p></td>
+<td><p>2019年8月8日</p></td>
+<td><p>21-700</p></td>
 <td></td>
-<td><p>3[51]</p></td>
+</tr>
+<tr class="odd">
+<td><p>B-602W</p></td>
+<td><p>第15架</p></td>
+<td><p>118</p></td>
+<td><p><a href="../Page/天骄航空.md" title="wikilink">天骄航空</a></p></td>
+<td><p>2019年9月5日</p></td>
+<td><p>21-700</p></td>
 <td></td>
+</tr>
+<tr class="even">
+<td><p>B-603Z</p></td>
+<td><p>第16架</p></td>
+<td><p>126</p></td>
+<td><p><a href="../Page/成都航空.md" title="wikilink">成都航空</a></p></td>
+<td><p>2019年9月22日</p></td>
+<td><p>21-700</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>B-603P</p></td>
+<td><p>第17架</p></td>
+<td><p>123</p></td>
+<td><p><a href="../Page/成都航空.md" title="wikilink">成都航空</a></p></td>
+<td><p>2019年9月26日</p></td>
+<td><p>21-700</p></td>
+<td><p>“中国梦”主题彩绘机 工银租赁第3架</p></td>
+</tr>
+<tr class="even">
+<td><p>B-603Q</p></td>
+<td><p>第18架</p></td>
+<td><p>124</p></td>
+<td><p><a href="../Page/成都航空.md" title="wikilink">成都航空</a></p></td>
+<td><p>2019年9月28日</p></td>
+<td><p>21-700</p></td>
+<td><p>工银租赁第4架</p></td>
 </tr>
 </tbody>
 </table>
@@ -242,7 +383,7 @@ ARJ21使用了1960年代[麦克唐纳·道格拉斯轉移的](https://zh.wikiped
 </table>
 
   - *參見：* 數據僅供參考. STD = 标准航程版, ER = 延程版
-  - *來源：* ARJ21 Series\[52\]
+  - *來源：* ARJ21 Series\[53\]
 
 ## 参見
 
@@ -360,3 +501,5 @@ ARJ21使用了1960年代[麦克唐纳·道格拉斯轉移的](https://zh.wikiped
 51.
 
 52.
+
+53.

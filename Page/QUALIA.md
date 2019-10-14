@@ -73,6 +73,4 @@
 
   - [QUALIA公式ページ](http://www.sony.jp/products/Consumer/QUALIA/jp/)
 
-[Sony 「QUALIA」專案～創造觸動人心的優質產品](https://www.sony.com.tw/news/News_content.aspx?ID=97)
-
-[Category:索尼](https://zh.wikipedia.org/wiki/Category:索尼 "wikilink")
+[Category:索尼](https://zh.wikipedia.org/wiki/Category:索尼 "wikilink") [Category:音频器材生产商](https://zh.wikipedia.org/wiki/Category:音频器材生产商 "wikilink")

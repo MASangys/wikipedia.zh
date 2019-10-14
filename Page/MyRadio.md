@@ -321,7 +321,7 @@ MyUniversity<br />
 <td><p><a href="../Page/張珈衍.md" title="wikilink">張珈衍</a>（法國佬）</p></td>
 <td><p>本土最前線<br />
 梁錦祥一週時事（嘉賓主持）</p></td>
-<td><p>駕駛教練。前<a href="../Page/熱血公民.md" title="wikilink">熱血公民</a>成員、前<a href="../Page/熱血時報.md" title="wikilink">熱血時報</a>主持。</p></td>
+<td><p>駕駛教練、<a href="../Page/癲狗日報.md" title="wikilink">癲狗日報</a>記者。前<a href="../Page/熱血公民.md" title="wikilink">熱血公民</a>成員、前<a href="../Page/熱血時報.md" title="wikilink">熱血時報</a>主持。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/祖利安" title="wikilink">祖利安</a></p></td>
@@ -540,7 +540,7 @@ MyUniversity</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/李政熙" title="wikilink">李政熙</a>(過氣熱狗）</p></td>
+<td><p><a href="../Page/李政熙.md" title="wikilink">李政熙</a>(過氣熱狗）</p></td>
 <td><p>網上辣辛聞（嘉賓主持）（已完結）</p></td>
 <td><p>前<a href="../Page/熱血公民.md" title="wikilink">熱血公民</a>成員，曾參與<a href="../Page/2015年香港區議會選舉.md" title="wikilink">2015年區議會天平西區選舉</a>。</p>
 <p>李政熙雖然退出熱血公民，但狗性難改，依然喜歡夥同前熱狗三五成群圍爐攻擊Myradio其他嘉賓主持：https://www.facebook.com/696882583746102/posts/1906450009456014?s=100039242374858&amp;sfns=mo</p></td>

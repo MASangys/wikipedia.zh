@@ -95,7 +95,7 @@ F-35A，為[美國空軍與其他國使用型號](https://zh.wikipedia.org/wiki/
 
 F-35B，[美國海軍陸戰隊及](https://zh.wikipedia.org/wiki/美國海軍陸戰隊 "wikilink")[英國皇家海軍](../Page/英國皇家海軍.md "wikilink")採用的型號，是垂直／短場起降型。單座設計，搭載3台電腦。两级对转升力风扇是F136发动机之外新增加的装置，是F-35B动力系统的重要组成部分。它安装在驾驶舱后部，可提供44.5千牛的附加推力，所以使主发动机能在较低温度下以较小的负荷运转，从而提高了可靠性和使用寿命。F-35B的垂直升力主要靠机上装置的两级对转升力风扇提供，它的进气道自然就可以设计得比较小。價值1.094億美元，為[AV-8B獵鷹式垂直](https://zh.wikipedia.org/wiki/AV-8攻擊機 "wikilink")／短場起降型戰鬥機的後繼機。可以進行[垂直起降的F](https://zh.wikipedia.org/wiki/垂直起降 "wikilink")-35B（編號BF-1）於2008年6月11日進行第一次試飛，不過起飛的過程仍是採用傳統的滑行方式。BF-1同時也是19架系統發展與展示（System Development and Demostration）機組當中的第二架，以及第一架採用重量最佳化生產程序的飛機。
 
-<File:F-35B> Joint Strike Fighter (thrust vectoring nozzle and lift fan).PNG|F-35B（[推力向量](https://zh.wikipedia.org/wiki/推力向量 "wikilink")）垂直起降動力解剖圖 <File:F-35> hovering.webm|F-35B在2016年[-{zh-tw:法恩堡航空展;zh-cn:范堡罗航展;}-展示垂直起降](https://zh.wikipedia.org/wiki/范堡罗航展 "wikilink") <File:F-35B> Lighting II training flights 170203-M-VF398-0001.jpg|thumb|美國F-35B進駐日本[岩國航空基地](https://zh.wikipedia.org/wiki/岩國航空基地 "wikilink")
+<File:F-35B> Joint Strike Fighter (thrust vectoring nozzle and lift fan).PNG|F-35B（[推力向量](https://zh.wikipedia.org/wiki/推力向量 "wikilink")）垂直起降動力解剖圖 <File:F-35> hovering.webm|F-35B在2016年[-{zh-tw:法恩堡航空展;zh-cn:范堡罗航展;}-展示滯空垂直運動能力](https://zh.wikipedia.org/wiki/范堡罗航展 "wikilink") <File:F-35B> Lighting II training flights 170203-M-VF398-0001.jpg|thumb|美國F-35B進駐日本[岩國航空基地](https://zh.wikipedia.org/wiki/岩國航空基地 "wikilink")
 
 第二架F-35B（編號BF-2）於2009年2月25日試飛。
 
@@ -441,7 +441,7 @@ BAE系統[總裁](https://zh.wikipedia.org/wiki/總裁 "wikilink")[麥可·透�
 
 {{-}}
 
-[Category:美國戰鬥機](https://zh.wikipedia.org/wiki/Category:美國戰鬥機 "wikilink") [Category:美國攻擊機](https://zh.wikipedia.org/wiki/Category:美國攻擊機 "wikilink") [Category:洛克希德·马丁飞机](https://zh.wikipedia.org/wiki/Category:洛克希德·马丁飞机 "wikilink") [Category:艦載機](https://zh.wikipedia.org/wiki/Category:艦載機 "wikilink") [Category:垂直起降機](https://zh.wikipedia.org/wiki/Category:垂直起降機 "wikilink")
+[Category:美國戰鬥機](https://zh.wikipedia.org/wiki/Category:美國戰鬥機 "wikilink") [Category:美國攻擊機](https://zh.wikipedia.org/wiki/Category:美國攻擊機 "wikilink") [Category:洛克希德·马丁飞机](https://zh.wikipedia.org/wiki/Category:洛克希德·马丁飞机 "wikilink") [Category:艦載機](https://zh.wikipedia.org/wiki/Category:艦載機 "wikilink") [Category:垂直起降機](https://zh.wikipedia.org/wiki/Category:垂直起降機 "wikilink") [Category:單發噴射機](https://zh.wikipedia.org/wiki/Category:單發噴射機 "wikilink")
 
 1.
 

@@ -1,6 +1,6 @@
 **Wine**是在[x86](https://zh.wikipedia.org/wiki/x86 "wikilink")、[x86-64容許](https://zh.wikipedia.org/wiki/x86-64 "wikilink")[类Unix操作系统在](../Page/类Unix系统.md "wikilink")[X Window System運行](https://zh.wikipedia.org/wiki/X_Window_System "wikilink")[Microsoft Windows程式的軟體](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。另外，Wine也提供[程序运行库](https://zh.wikipedia.org/wiki/程式庫 "wikilink")（Winelib）来帮助计算机程序设计师将Windows程序移植到类Unix系统；也有不少软件经过Wine测试后发布，比如[Picasa](../Page/Picasa.md "wikilink")、[uTorrent](https://zh.wikipedia.org/wiki/uTorrent "wikilink")、[MediaCoder](../Page/MediaCoder.md "wikilink")。
 
-Wine通过提供一个兼容层来将Windows的系统调用转换成与POSIX标准的系统调用。它还提供了Windows系统运行库的替代品和一些系统组件的替代品。为了避免版权问题，Wine主要使用黑箱测试逆向工程来编写。
+Wine通过提供一个[兼容层](../Page/兼容层.md "wikilink")来将Windows的系统调用转换成与POSIX标准的系统调用。它还提供了Windows系统运行库的替代品和一些系统组件的替代品。为了避免版权问题，Wine主要使用黑箱测试逆向工程来编写。
 
 Wine最早是“**Win**dows **E**mulator”，即Windows模擬器的缩写，但Wine现在為“**W**ine **I**s **N**ot an **E**mulator”的[遞迴縮寫](https://zh.wikipedia.org/wiki/遞迴縮寫 "wikilink")，即Wine不是模擬器。Wine的正確名稱是“Wine”，而不是全大写或全小写。\[1\]
 

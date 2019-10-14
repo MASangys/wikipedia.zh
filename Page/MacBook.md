@@ -2,9 +2,11 @@
 
 **MacBook**是[苹果电脑所开发推出的](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[笔记型](../Page/筆記型電腦.md "wikilink")[麥金塔電腦](https://zh.wikipedia.org/wiki/麥金塔電腦 "wikilink")（Macintosh）。它最早于2006年5月推出，用以取代[iBook G4以及系列](https://zh.wikipedia.org/wiki/iBook "wikilink")12英寸[PowerBook](../Page/PowerBook.md "wikilink")系列笔记本电脑。MacBook是[MacBook 家族的一部分](https://zh.wikipedia.org/wiki/MacBook系列 "wikilink")，其主要面向教育与消费者市场。
 
-MacBook有4个独立设计。第一代中使用的是以iBook G4为蓝本，使用结合聚碳酸酯和玻璃纤维的白色或黑色外壳，是苹果第一个搭载 [Intel](https://zh.wikipedia.org/wiki/Intel "wikilink") [Core Duo](https://zh.wikipedia.org/wiki/Core_Duo "wikilink") 处理器的笔记型电脑。第二代在2008年10月與15寸 [MacBook Pro](../Page/MacBook_Pro.md "wikilink") 一同推出，采用了类似15寸 [MacBook Pro](../Page/MacBook_Pro.md "wikilink") 的一体式铝制外壳，但移除了 [FireWire](https://zh.wikipedia.org/wiki/FireWire "wikilink")，以降低价格。FireWire 的缺乏使客户抱怨，導致 MacBook 销售不佳。第三代在2009年1月推出，再次使用了聚碳酸酯外壳，并重新添加了 FireWire。FireWire 是在2009年底发布的更新版本再度被移除。MacBook系列与入門級的[MacBook Air系列和专业級的](../Page/MacBook_Air.md "wikilink")[MacBook Pro系列組成完整的產品線](../Page/MacBook_Pro.md "wikilink")。
+MacBook有4个独立设计。第一代中使用的是以iBook G4为蓝本，使用结合聚碳酸酯和玻璃纤维的白色或黑色外壳，是苹果第一个搭载 [Intel生產的](https://zh.wikipedia.org/wiki/Intel "wikilink")[Core Duo处理器的笔记型电脑](https://zh.wikipedia.org/wiki/Core_Duo "wikilink")。第二代在2008年10月與15寸[MacBook Pro一同推出](../Page/MacBook_Pro.md "wikilink")，采用了类似15寸[MacBook Pro的一体式铝制外壳](../Page/MacBook_Pro.md "wikilink")，但移除了[FireWire](https://zh.wikipedia.org/wiki/FireWire "wikilink")，以降低价格。可是FireWire的缺乏使客户抱怨，導致MacBook销售不佳。第三代在2009年1月推出，再次使用了聚碳酸酯外壳，并重新添加了 FireWire。FireWire是在2009年底发布的更新版本中又再度被移除。
 
-由于消费者更青睐[MacBook Air](../Page/MacBook_Air.md "wikilink")，MacBook產品系列于2011年7月20日正式被苹果终止\[1\]。不过，苹果仍然向教育机构以 US$899 的价格出售 MacBook 直到2012年2月。\[2\]。在2015年4月10日，蘋果發表年度新產品，重新導入MacBook系列。对于新款的 MacBook 系列，请参见[MacBook (Retina显示屏)](../Page/MacBook_\(Retina显示屏\).md "wikilink")。
+MacBook系列与便攜級的[MacBook Air系列和专业級的](../Page/MacBook_Air.md "wikilink")[MacBook Pro系列組成完整的產品線](../Page/MacBook_Pro.md "wikilink")。由于消费者更青睐[MacBook Air](../Page/MacBook_Air.md "wikilink")，加上前者的價格逐漸變得可以負擔，MacBook產品系列于2011年7月20日正式被苹果终止\[1\]。不过，苹果仍然向教育机构以US$899的价格出售教學用的MacBook直到2012年2月。\[2\]。
+
+在2015年4月10日，蘋果發表年度新產品，以全新設計重新導入MacBook系列。由於市場定位差異較大，对于新款的MacBook系列，请参见獨立的[MacBook (Retina显示屏)條目](../Page/MacBook_\(Retina显示屏\).md "wikilink")。
 
 ## 第一代
 
@@ -372,7 +374,7 @@ PC3-8500 DDR3 SDRAM (1066 MHz)</p></td>
 
 ## 第三代
 
-2009年10月20日，[苹果公司发布了新的第三代聚碳酸酯一体式机身设计的MacBook](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")，更快的DDR3[記憶體](https://zh.wikipedia.org/wiki/記憶體 "wikilink")，多点触摸触控板，一个LED背光显示屏，并内置7小时的电池。聚碳酸酯一体成型机身的MacBook，像它的上一代铝製機身，沒有[FireWire](https://zh.wikipedia.org/wiki/FireWire "wikilink")，但像13英寸的[MacBook Pro一樣](../Page/MacBook_Pro.md "wikilink")，設數碼/模擬音訊輸入/出端口。于2010年5月18日，MacBook被更新了，配置了更快的处理器，更快的显示卡，提高了电池的使用時間，并通过[Mini DisplayPort接口通过音频的能力](../Page/Mini_DisplayPort.md "wikilink")。
+[MacBook_LMSD_Issue_2009.jpeg](https://zh.wikipedia.org/wiki/File:MacBook_LMSD_Issue_2009.jpeg "fig:MacBook_LMSD_Issue_2009.jpeg") 2009年10月20日，[苹果公司发布了新的第三代聚碳酸酯一体式机身设计的MacBook](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")，更快的DDR3[記憶體](https://zh.wikipedia.org/wiki/記憶體 "wikilink")，多点触摸触控板，一个LED背光显示屏，并内置7小时的电池。聚碳酸酯一体成型机身的MacBook，像它的上一代铝製機身，沒有[FireWire](https://zh.wikipedia.org/wiki/FireWire "wikilink")，但像13英寸的[MacBook Pro一樣](../Page/MacBook_Pro.md "wikilink")，設數碼/模擬音訊輸入/出端口。于2010年5月18日，MacBook被更新了，配置了更快的处理器，更快的显示卡，提高了电池的使用時間，并通过[Mini DisplayPort接口通过音频的能力](../Page/Mini_DisplayPort.md "wikilink")。
 
 ### 設計
 

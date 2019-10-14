@@ -8,7 +8,7 @@ OpenType之前的主流是[苹果公司和](https://zh.wikipedia.org/wiki/苹果
 
 在后来的十几年中，Adobe和微软继续开发改进OpenType格式，在2005年末，OpenType开始申请成为[国际标准组织](https://zh.wikipedia.org/wiki/国际标准组织 "wikilink")（ISO）的公开标准。这个新标准已经升级到OpenType 1.4，以适应ISO语言标准的一些变化，之后其被称为“开放字体类型（Open Font Format）”。这个标准在2007年3月以ISO/IEC 14496-22发布。\[2\]
 
-OpenType于2016年发布了1.8版规范，引入了“[可变字体](https://zh.wikipedia.org/wiki/可变字体 "wikilink")”的功能。支持通过调节一定的参数来自由改变文字的形状。
+OpenType于2016年发布了1.8版规范，引入了“[可变字体](../Page/可变字体.md "wikilink")”的功能。支持通过调节一定的参数来自由改变文字的形状。
 
 ## 描述
 
@@ -176,7 +176,7 @@ OpenType版式标签含有4个字符串，含有字体版式中文本，语言�
 
   - [蘋果高級排版](https://zh.wikipedia.org/wiki/蘋果高級排版 "wikilink")（Apple Advanced Typography、AAT）
 
-  - [可变字体](https://zh.wikipedia.org/wiki/可变字体 "wikilink")
+  - [可变字体](../Page/可变字体.md "wikilink")
 
 ## 外部連結
 

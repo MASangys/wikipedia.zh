@@ -883,7 +883,7 @@ Thomas助手<br />
   - [羅　祥](https://zh.wikipedia.org/wiki/羅祥 "wikilink")　飾　盲公陳（風水師）
   - [陳鳳冰](../Page/陳鳳冰.md "wikilink")　飾　盲公陳助手
   - **[湯寶如](../Page/湯寶如.md "wikilink")　飾　陳麗瑩（）(王志淙舊同學，為了男友去做妓女)**
-  - [薛純基](https://zh.wikipedia.org/wiki/薛純基 "wikilink")　飾　陳麗瑩父
+  - [薛純基](../Page/薛純基.md "wikilink")　飾　陳麗瑩父
   - [余慕蓮](../Page/余慕蓮.md "wikilink")　飾　陳麗瑩母
   - [李志偉](https://zh.wikipedia.org/wiki/李志偉 "wikilink")　飾　古惑仔
   - [黃小龍](https://zh.wikipedia.org/wiki/黃小龍 "wikilink")　飾　曾保華(Sting, Bartender，暗戀陳麗瑩，殺了很多變態的鏢客) 刺傷王志琮，後被其槍殺。

@@ -83,7 +83,7 @@ SD卡的右面通常有一个开关，即是[防写入保护开关](../Page/防�
 ### 技术说明
 
   - 所有SD和[SDIO卡都必须支持较老的SPI](https://zh.wikipedia.org/wiki/SDIO "wikilink")/MMC模式。这个模式支持慢速的四线序列接口（时钟、序列输入、序列输出、芯片选择），兼容于[序列终端接口（SPI）和许多微控制器](https://zh.wikipedia.org/wiki/Serial_Peripheral_Interface_Bus "wikilink")。
-  - 2010年之前的大部分[数码相机](../Page/数码相机.md "wikilink")、[数码音訊播放器和其他便携设备仅能使用](https://zh.wikipedia.org/wiki/數字音頻播放器 "wikilink")[MMC模式](https://zh.wikipedia.org/wiki/MMC "wikilink")。有关这一模式的详细文档可以从MMCA购买，价格是500美元。但是部分有关SDIO的文档是免费的。有些还可以从存储卡厂商处获得。
+  - 2010年之前的大部分[数码相机](../Page/数码相机.md "wikilink")、[数码音訊播放器和其他便携设备仅能使用](https://zh.wikipedia.org/wiki/數字音頻播放器 "wikilink")[MMC模式](https://zh.wikipedia.org/wiki/MultiMediaCard "wikilink")。有关这一模式的详细文档可以从MMCA购买，价格是500美元。但是部分有关SDIO的文档是免费的。有些还可以从存储卡厂商处获得。
   - MMC模式不支持SD卡的加密特性。从免费的文档裏也找不到这些细节。但对于大多数消费者来讲，这无关痛痒，因為用户只需要可以储存不受保护的数据。
   - SD卡共支持三种传输模式：SPI模式（独立序列输入和序列输出）、1位SD模式（独立指令和数据通道，独有的传输格式）、4位SD模式（使用额外的针脚以及某些重新设置的针脚。支持四位宽的并行传输）。
   - SD低速卡的時脈為0\~400KHz，支援模式有SPI和1位元SD傳輸模式。SD全速卡的時脈為0\~25MHz，支援模式有SPI、1位元SD傳輸模式和4位元SD傳輸模式。

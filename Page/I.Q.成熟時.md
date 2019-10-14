@@ -1,5 +1,9 @@
 **《I.Q.成熟時》** 是[香港](../Page/香港.md "wikilink")[麗的電視](https://zh.wikipedia.org/wiki/麗的電視 "wikilink")1980年代的青春[愛情](../Page/愛情.md "wikilink")[廣東話](https://zh.wikipedia.org/wiki/廣東話 "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")。1981年6月8日晚上七時零五分首播，共有20集。本劇播出後很受歡迎，收視高於無綫同時段同屬青春劇的劇集《[荳芽夢](../Page/荳芽夢.md "wikilink")》，成功打破翡翠台的[慣性收視](../Page/慣性收視.md "wikilink")，成為麗的電視經典劇集之一。
 
+## 背景
+
+[麗的電視承接由](https://zh.wikipedia.org/wiki/麗的電視 "wikilink")[鍾保羅](../Page/鍾保羅.md "wikilink")、[莊靜而](../Page/莊靜而.md "wikilink")、[蔡楓華](../Page/蔡楓華.md "wikilink")主演，同年2月首播的青春愛情電視劇集《[青春三重奏](../Page/青春三重奏.md "wikilink")》的餘威，開拍新的校園劇。 《[青春三重奏](../Page/青春三重奏.md "wikilink")》的部分演員如[吳回和](../Page/吳回_\(香港\).md "wikilink")[楊詩蒂](../Page/楊詩蒂.md "wikilink")均有參與此劇。
+
 ## 劇情大綱
 
 花洒、朱仔、事頭婆、吱喳妹及阿姐等，是一所私立女校「聖羅蘭英文書院」的預科班學生，其中大部分因成績低落而留班。校長大白鯊為了重建校譽，打破傳統招收男生，於是預科班有三位男生加入，他們分別為阿Man、阿怪及阿強。此外，從越南來港的胡老師亦受聘任該班的班主任。

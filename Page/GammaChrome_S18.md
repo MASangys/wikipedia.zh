@@ -5,7 +5,7 @@
   - 核心频率：400MHz
   - 显存频率：800MHz
   - 显存頻宽：128bit
-  - 有4个顶点处理单元。支援版本是[Vertex](https://zh.wikipedia.org/wiki/Vertex "wikilink") 2.0。
+  - 有4个[顶点处理单元](../Page/頂點_\(電腦圖學\).md "wikilink")。支援版本是[Vertex](https://zh.wikipedia.org/wiki/Vertex "wikilink") 2.0。
   - 有4个像素着色处理单元。支援版本是[Pixel Shader](https://zh.wikipedia.org/wiki/Pixel_Shader "wikilink") 2.0。
   - 顏色精度是FP24（与[ATi](https://zh.wikipedia.org/wiki/ATi "wikilink") [Radeon X Series相同](https://zh.wikipedia.org/wiki/Radeon_X_Series "wikilink")）。
   - 支援PCT（Percentage Closer Filtering），用來繪出半影（介乎于黑色阴影和亮光之间的昏暗阴影）贴图，令阴影过渡的更柔和。

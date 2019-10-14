@@ -366,7 +366,7 @@ NCBI是[美国国家生物技术信息中心](../Page/美国国家生物技术�
       - [蓧蕨科](https://zh.wikipedia.org/wiki/蓧蕨科 "wikilink")（Oleandraceae）
       - [紫其科](https://zh.wikipedia.org/wiki/紫其科 "wikilink")（Osmundaceae）
       - [瘤足蕨科](https://zh.wikipedia.org/wiki/瘤足蕨科 "wikilink")（Plagiogyriaceae）
-      - [水龍骨科](https://zh.wikipedia.org/wiki/水龍骨科 "wikilink")（Polypodiaceae）
+      - [水龍骨科](../Page/水龍骨科.md "wikilink")（Polypodiaceae）
       - [鳳尾蕨科](https://zh.wikipedia.org/wiki/鳳尾蕨科 "wikilink")（Pteridaceae）
       - [莎草蕨科](https://zh.wikipedia.org/wiki/莎草蕨科 "wikilink")（Schizaeaceae）
       - [金星蕨科](../Page/金星蕨科.md "wikilink")（Thelypteridaceae）
@@ -785,7 +785,7 @@ NCBI是[美国国家生物技术信息中心](../Page/美国国家生物技术�
   - [裂藥花科](https://zh.wikipedia.org/wiki/裂藥花科 "wikilink")（Lacistemataceae）
   - [亞麻科](https://zh.wikipedia.org/wiki/亞麻科 "wikilink")（Linaceae）
   - [五翼果科](../Page/五翼果科.md "wikilink")（Lophopyxidaceae）
-  - [王冠草科](https://zh.wikipedia.org/wiki/王冠草科 "wikilink")（Malesherbiaceae）
+  - [王冠草科](../Page/王冠草科.md "wikilink")（Malesherbiaceae）
   - [金虎尾科](../Page/金虎尾科.md "wikilink")（Malpighiaceae）
   - [水母柱科](https://zh.wikipedia.org/wiki/水母柱科 "wikilink")（Medusagynaceae）
   - [金蓮木科](https://zh.wikipedia.org/wiki/金蓮木科 "wikilink")（Ochnaceae）

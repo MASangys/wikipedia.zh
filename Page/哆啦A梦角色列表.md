@@ -444,7 +444,7 @@
 
 <!-- end list -->
 
-  - 日本配音員：[山本圭子](https://zh.wikipedia.org/wiki/山本圭子 "wikilink")（1973年）→[太田淑子](https://zh.wikipedia.org/wiki/太田淑子 "wikilink")（1980年1月—2005年3月）→[松本幸](../Page/松本幸.md "wikilink")（2005年8月—）
+  - 日本配音員：[山本圭子](../Page/山本圭子.md "wikilink")（1973年）→[太田淑子](https://zh.wikipedia.org/wiki/太田淑子 "wikilink")（1980年1月—2005年3月）→[松本幸](../Page/松本幸.md "wikilink")（2005年8月—）
   - 香港配音員：[區瑞華](../Page/區瑞華.md "wikilink")→[陸惠玲](../Page/陸惠玲.md "wikilink")→[黎桂芳](../Page/黎桂芳.md "wikilink")→[謝潔貞](../Page/謝潔貞.md "wikilink")→[張頌欣](../Page/張頌欣.md "wikilink")（2005年版124集起）/[郭碧珍](../Page/郭碧珍.md "wikilink")（STAND BY ME多啦A夢）
   - 台灣配音員（哆啦A夢版本）：[楊凱凱](../Page/楊凱凱.md "wikilink")（1979年版、2013年和以前的電影版）→[姚敏敏](../Page/姚敏敏.md "wikilink")（2005年版前52集）→[雷碧文](../Page/雷碧文.md "wikilink")（2005年版第53集起）、[劉如蘋](../Page/劉如蘋.md "wikilink")（STAND BY ME）
   - 中国大陆版配音員：
@@ -1034,7 +1034,7 @@
 
 <!-- end list -->
 
-  - 日本配音員：[山本圭子](https://zh.wikipedia.org/wiki/山本圭子 "wikilink")（1979）
+  - 日本配音員：[山本圭子](../Page/山本圭子.md "wikilink")（1979）
   - [台灣配音員](https://zh.wikipedia.org/wiki/台灣 "wikilink")（哆啦A夢版本）：[陳美貞](../Page/陳美貞.md "wikilink")
 
 <!-- end list -->

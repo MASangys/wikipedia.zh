@@ -19,7 +19,7 @@ Direct3D的抽象概念包括：devices, swap chains和resources。
 
 资源有4個属性：
 
-  - Type：资源的类型，如顶点缓冲区（vexert buffer），或一个渲染目标（render target）。
+  - Type：资源的类型，如[顶点缓冲区](../Page/頂點_\(電腦圖學\).md "wikilink")（vexert buffer），或一个渲染目标（render target）。
   - Usage：资源的用途，如纹理（texture）或渲染目标，是一系統的旗標所組成，每個旗標佔1 bits。
   - Format：資料的格式，如一个二维表面的像素格式。例如，D3DFMT_R8G8B8的值是一個24 bits的顏色深度（colour depth，8 bits是紅色，8 bits綠色以及8 bits是藍色）。
   - Pool<ref>{{
@@ -36,13 +36,13 @@ cite web
 
 ## 管道
 
-[D3D_Pipeline.svg](https://zh.wikipedia.org/wiki/File:D3D_Pipeline.svg "fig:D3D_Pipeline.svg") Direct3D 10 API定義了vertices（顶点）, textures（纹理）, buffers（缓冲区），以及state群組轉換到螢幕上的流程。這樣的流程被描述成rendering pipeline（渲染流水线），其中有著許多不同的阶段. Direct3D 10 渲染流水线的各阶段包括：\[1\] are:\[2\]
+[D3D_Pipeline.svg](https://zh.wikipedia.org/wiki/File:D3D_Pipeline.svg "fig:D3D_Pipeline.svg") Direct3D 10 API定義了vertices（[顶点](../Page/頂點_\(電腦圖學\).md "wikilink")）, textures（纹理）, buffers（缓冲区），以及state群組轉換到螢幕上的流程。這樣的流程被描述成rendering pipeline（渲染流水线），其中有著許多不同的阶段. Direct3D 10 渲染流水线的各阶段包括：\[1\] are:\[2\]
 
-1.  输入组装（**Input Assembler**）：從程式裡讀取顶点，並將程式提供的数据装進流水线。
-2.  [頂點著色引擎](https://zh.wikipedia.org/wiki/頂點著色引擎 "wikilink")（[Vertex Shader](https://zh.wikipedia.org/wiki/Vertex_Shader "wikilink")）: 每次处理一个顶点，比如变换、贴图、光照。
+1.  输入组装（**Input Assembler**）：從程式裡讀取[顶点](../Page/頂點_\(電腦圖學\).md "wikilink")，並將程式提供的数据装進流水线。
+2.  [頂點著色引擎](https://zh.wikipedia.org/wiki/頂點著色引擎 "wikilink")（[Vertex Shader](https://zh.wikipedia.org/wiki/Vertex_Shader "wikilink")）: 每次处理一个[顶点](../Page/頂點_\(電腦圖學\).md "wikilink")，比如变换、贴图、光照。
 3.  [幾何著色器](https://zh.wikipedia.org/wiki/幾何著色器 "wikilink")（[Geometry Shader](../Page/着色器.md "wikilink")）: Shader Model 4.0引進了[幾何著色器](https://zh.wikipedia.org/wiki/幾何著色器 "wikilink")，使用Shader资源来处理點、線、面的几何坐标变换，一次最多处理六个点，快速地将模型类似的顶点结合起来进行运算。此一过程无需CPU參與。
 4.  流输出（**Stream Output**）：将Vertex Shader和Pixel Shader处理完成的数据输出给使用者。
-5.  光栅化（**Rasterizer**）: 把算完的顶点转成像素，再將像素（pixels）輸出給pixel shader. 这里亦可執行其他工作，像是切割非視覺性的像素，或者对顶点进行插值以得到像素数据。
+5.  光栅化（**Rasterizer**）: 把算完的[顶点转成像素](../Page/頂點_\(電腦圖學\).md "wikilink")，再將像素（pixels）輸出給pixel shader. 这里亦可執行其他工作，像是切割非視覺性的像素，或者对顶点进行插值以得到像素数据。
 6.  [像素著色引擎](../Page/像素著色引擎.md "wikilink")（[Pixel Shader](https://zh.wikipedia.org/wiki/Pixel_Shader "wikilink")）：決定最后要往渲染目标（render targe）写入的像素顏色，同时也可以计算一个准备写到深度缓冲区的深度值。
 7.  输出混合（**Output Merger**）：接收來自于[pixel shader的slice](../Page/着色器.md "wikilink")，進行傳統的Stencil測試和Depth測試，整併各種不同的輸出資料，用以建立最後之結果。
 
@@ -65,7 +65,7 @@ Window 95推出之時，微軟一口氣發表了**DirectX 1.0**、**DirectX 2.0*
 
 **Direct3D 7.0**引進硬體座標轉換以及光影計算（Hardware Transform and Lighting），並支援.dds檔\[3\]。
 
-**Direct3D 8.0**引進了可編程管道（Programable Function Pipeline）的概念，Direct3D在8.0版以前只能工作在固定管道（Fixed Function Pipe-line）的模式下。2001年微軟正式發表的Direct3D 8.0支援处理顶点的Vertex Shader，以及处理像素的Pixel Shader。使Direct3D的技術正式超越勁敵[OpenGL](../Page/OpenGL.md "wikilink")。DirectX 8中的著色器是用低階著色器語言（Low Level Shading Language）編寫的。
+**Direct3D 8.0**引進了可編程管道（Programable Function Pipeline）的概念，Direct3D在8.0版以前只能工作在固定管道（Fixed Function Pipe-line）的模式下。2001年微軟正式發表的Direct3D 8.0支援处理[顶点的Vertex](../Page/頂點_\(電腦圖學\).md "wikilink") Shader，以及处理像素的Pixel Shader。使Direct3D的技術正式超越勁敵[OpenGL](../Page/OpenGL.md "wikilink")。DirectX 8中的著色器是用低階著色器語言（Low Level Shading Language）編寫的。
 
 **Direct3D 9.0**使用[HLSL](https://zh.wikipedia.org/wiki/HLSL "wikilink")（全稱High Level Shading Language）编写Vertex Shader和Pixel Shader<ref>{{ cite web
 

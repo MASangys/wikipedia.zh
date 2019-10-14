@@ -10,7 +10,7 @@
 
 ## 外部連結
 
-  - [T-cell Group - Cardiff University](http://www.tcells.org/scientific/CD8/)
+  - [T-cell Group - Cardiff University](https://web.archive.org/web/20130218042237/http://www.tcells.org/scientific/CD8/)
   - [Mouse CD Antigen Chart](http://www.ebioscience.com/ebioscience/whatsnew/mousecdchart.htm)
   - [Human CD Antigen Chart](http://www.ebioscience.com/ebioscience/whatsnew/humancdchart.htm)
 

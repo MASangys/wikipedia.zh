@@ -24,7 +24,7 @@
 
 2013年10月，[苏宁云商与](https://zh.wikipedia.org/wiki/苏宁云商 "wikilink")[联想集团旗下弘毅资本联手](https://zh.wikipedia.org/wiki/联想集团 "wikilink")，斥资4.2亿美元（约33亿港元）入股PPTV，苏宁将成为PPTV单一最大股东。根据交易条款，苏宁云商及弘毅资本将分别出资2.5亿及1.7亿美元，交易完成后，苏宁将持有PPTV约44%股权，成为大股东，弘毅则占29.9%，相当于PPTV整体估值约5.68亿美元（约44.3亿港元）。\[6\]之后由于乐视深陷财务危机，PPTV接手了原乐视体育的部分资源。
 
-2018年，更名为PP视频。这一年，PP视频首次获得了[欧洲五大联赛](../Page/欧洲五大联赛.md "wikilink")以及[欧冠联赛](https://zh.wikipedia.org/wiki/欧冠联赛 "wikilink")、[欧联杯全部比赛的转播权](https://zh.wikipedia.org/wiki/欧联杯 "wikilink")，但这一局面仅维持了一年。2019-20赛季开始，苏宁体育获得了未来三年的英超独家版-{}-权的同时，也失去了西甲联赛的相应权利，导致PP体育不再视频直播西甲赛事。
+2018年，更名为PP视频。这一年，PP视频首次获得了[欧洲五大联赛](../Page/欧洲五大联赛.md "wikilink")\[7\]\[8\]\[9\]以及[欧冠联赛](https://zh.wikipedia.org/wiki/欧冠联赛 "wikilink")、[欧联杯全部比赛的转播权](https://zh.wikipedia.org/wiki/欧联杯 "wikilink")，但这一局面仅维持了一年。2019-20赛季开始，苏宁体育获得了未来三年的英超独家版-{}-权的同时，也失去了西甲联赛的相应权利，导致PP体育不再视频直播西甲赛事。\[10\]
 
 ## 合作方式
 
@@ -34,7 +34,7 @@ PP视频跟内容提供商的合作关系遵循了从渠道到厂商的路径，
 
 PP视频播放的内容很多。包括[电影](../Page/电影.md "wikilink")，[电视](../Page/电视.md "wikilink")，[音乐](../Page/音乐.md "wikilink")，[新闻](../Page/新闻.md "wikilink")，[体育](../Page/体育.md "wikilink")，[游戏](../Page/游戏.md "wikilink")等众多类别。PP视频的网站还提供节目预报。绝大多数节目都是[粤语](../Page/粤语.md "wikilink")或[北京官話](https://zh.wikipedia.org/wiki/北京官話 "wikilink")，即便是[英语](../Page/英语.md "wikilink")，[日语](../Page/日语.md "wikilink")，[韩语的节目](https://zh.wikipedia.org/wiki/韩语 "wikilink")，也会有中文的字幕。因为P2P技术受到网络连接和用户数量的影响，经常会出现短暂的中断。当用户数量严重不足或文件源发生错误时，甚至会发生永久停止的情况，这时用户必须采取手动重新连接。以及节目内容更新较慢。
 
-PP视频所播放的某些节目由第三方提供，但有一部分节目没有得到[版权所有者的允许](https://zh.wikipedia.org/wiki/版权 "wikilink")，曾遭到上海版权商的起诉。\[7\]
+PP视频所播放的某些节目由第三方提供，但有一部分节目没有得到[版权所有者的允许](https://zh.wikipedia.org/wiki/版权 "wikilink")，曾遭到上海版权商的起诉。\[11\]
 
 ## 参考文献
 
@@ -51,3 +51,7 @@ PP视频所播放的某些节目由第三方提供，但有一部分节目没有
 5.
 6.
 7.
+8.   PP体育与德甲达成五年全媒体独家版权合作|url=[http://www.sohu.com/a/240396508_509318|accessdate=2018-09-07|date=2018-07-10|work=www.sohu.com](http://www.sohu.com/a/240396508_509318%7Caccessdate=2018-09-07%7Cdate=2018-07-10%7Cwork=www.sohu.com)}}
+9.
+10.
+11.

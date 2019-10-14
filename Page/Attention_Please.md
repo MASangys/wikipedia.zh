@@ -72,7 +72,7 @@ OH PRETTY WOMAN{{〉}} | 拍攝地 =  | 執行製片 = | 製片人 = 岩田祐�
 
 ### 主要演員
 
-  - [上戶彩](../Page/上戶彩.md "wikilink") 飾 美咲洋子 (20) - 機艙服務員訓練生
+  - [上戶彩](../Page/上戶彩.md "wikilink") 飾 美咲洋子 (34) - 機艙服務員訓練生
 
 <!-- end list -->
 
@@ -81,7 +81,7 @@ OH PRETTY WOMAN{{〉}} | 拍攝地 =  | 執行製片 = | 製片人 = 岩田祐�
 
 <!-- end list -->
 
-  - [錦戶亮](https://zh.wikipedia.org/wiki/錦戶亮 "wikilink") 飾 中原翔太 (21) - 飛機維修師
+  - [錦戶亮](https://zh.wikipedia.org/wiki/錦戶亮 "wikilink") 飾 中原翔太 (35) - 飛機維修師
 
 <!-- end list -->
 
@@ -90,7 +90,7 @@ OH PRETTY WOMAN{{〉}} | 拍攝地 =  | 執行製片 = | 製片人 = 岩田祐�
 
 <!-- end list -->
 
-  - [相武紗季](../Page/相武紗季.md "wikilink") 飾 若村彌生 (20) - 機艙服務員訓練生
+  - [相武紗季](../Page/相武紗季.md "wikilink") 飾 若村彌生 (34) - 機艙服務員訓練生
 
 <!-- end list -->
 
@@ -99,7 +99,7 @@ OH PRETTY WOMAN{{〉}} | 拍攝地 =  | 執行製片 = | 製片人 = 岩田祐�
 
 <!-- end list -->
 
-  - [大塚千弘](../Page/大塚千弘.md "wikilink") 飾 關山有紀 (19) - 機艙服務員訓練生
+  - [大塚千弘](../Page/大塚千弘.md "wikilink") 飾 關山有紀 (33) - 機艙服務員訓練生
 
 <!-- end list -->
 
@@ -108,7 +108,7 @@ OH PRETTY WOMAN{{〉}} | 拍攝地 =  | 執行製片 = | 製片人 = 岩田祐�
 
 <!-- end list -->
 
-  - [上原美佐](https://zh.wikipedia.org/wiki/上原美佐 "wikilink") 飾 弘田沙織 (22) - 機艙服務員訓練生
+  - [上原美佐](https://zh.wikipedia.org/wiki/上原美佐 "wikilink") 飾 弘田沙織 (36) - 機艙服務員訓練生
 
 <!-- end list -->
 
@@ -119,7 +119,7 @@ OH PRETTY WOMAN{{〉}} | 拍攝地 =  | 執行製片 = | 製片人 = 岩田祐�
 
   - [高橋マリ子](https://zh.wikipedia.org/wiki/高橋マリ子 "wikilink") 飾 香川麗子 (18) - 機艙服務員訓練生
   - [大友みなみ](https://zh.wikipedia.org/wiki/大友みなみ "wikilink") 飾 東野 遙 (18) - 機艙服務員訓練生
-  - [小泉孝太郎](../Page/小泉孝太郎.md "wikilink") 飾 堤 修介 (27) - 機師訓練生
+  - [小泉孝太郎](../Page/小泉孝太郎.md "wikilink") 飾 堤 修介 (41) - 機師訓練生
 
 <!-- end list -->
 
@@ -128,7 +128,7 @@ OH PRETTY WOMAN{{〉}} | 拍攝地 =  | 執行製片 = | 製片人 = 岩田祐�
 
 <!-- end list -->
 
-  - [七瀨なつみ](https://zh.wikipedia.org/wiki/七瀨なつみ "wikilink") 飾 木下朝美 (28) - 機艙服務員訓練部TID-1班教官
+  - [七瀨なつみ](https://zh.wikipedia.org/wiki/七瀨なつみ "wikilink") 飾 木下朝美 (48) - 機艙服務員訓練部TID-1班教官
 
 <!-- end list -->
 
@@ -137,7 +137,7 @@ OH PRETTY WOMAN{{〉}} | 拍攝地 =  | 執行製片 = | 製片人 = 岩田祐�
 
 <!-- end list -->
 
-  - [真矢美季](../Page/真矢美季.md "wikilink") 飾 三神 環 (41) - 機艙服務員訓練部TID-2班的機艙服務員（CA）教官
+  - [真矢美季](../Page/真矢美季.md "wikilink") 飾 三神 環 (55) - 機艙服務員訓練部TID-2班的機艙服務員（CA）教官
 
 <!-- end list -->
 
@@ -146,7 +146,7 @@ OH PRETTY WOMAN{{〉}} | 拍攝地 =  | 執行製片 = | 製片人 = 岩田祐�
 
 <!-- end list -->
 
-  - [笛木優子](../Page/笛木優子.md "wikilink") 飾 麻生 薰 (26) - 現役國際線機艙服務員
+  - [笛木優子](../Page/笛木優子.md "wikilink") 飾 麻生 薰 (40) - 現役國際線機艙服務員
 
 <!-- end list -->
 
@@ -175,7 +175,7 @@ OH PRETTY WOMAN{{〉}} | 拍攝地 =  | 執行製片 = | 製片人 = 岩田祐�
 
 <!-- end list -->
 
-  - [真野裕子](https://zh.wikipedia.org/wiki/真野裕子 "wikilink") 飾 村山瑞穗 (29) - 現役國際線機艙服務員
+  - [真野裕子](https://zh.wikipedia.org/wiki/真野裕子 "wikilink") 飾 村山瑞穗 (43) - 現役國際線機艙服務員
 
 <!-- end list -->
 

@@ -304,21 +304,33 @@
 
 ### 五星级機場
 
-至2018年，Skytrax 共給予下列9座機場五星級評價。\[49\]
+至2019年，Skytrax 共給予下列12座機場五星級評價。\[49\]
 
-#### 亞洲
-
-  - [香港國際機場](../Page/香港國際機場.md "wikilink")
+#### 東亞
 
   - [新加坡樟宜機場](https://zh.wikipedia.org/wiki/新加坡樟宜機場 "wikilink")
 
+  - [香港國際機場](../Page/香港國際機場.md "wikilink")
+
   - [仁川國際機場](../Page/仁川國際機場.md "wikilink")
+
+  - [上海虹橋國際機場](https://zh.wikipedia.org/wiki/上海虹橋國際機場 "wikilink")
+
+  - [海口美蘭國際機場](https://zh.wikipedia.org/wiki/海口美蘭國際機場 "wikilink")
 
   - [東京國際機場](../Page/東京國際機場.md "wikilink")
 
   - [中部國際機場](../Page/中部國際機場.md "wikilink")
 
+#### 中東
+
   - [哈馬德國際機場](https://zh.wikipedia.org/wiki/哈馬德國際機場 "wikilink")
+
+  - [塞拉萊機場](../Page/塞拉萊機場.md "wikilink")
+
+#### 獨聯體
+
+  - [普拉托夫國際機場](https://zh.wikipedia.org/wiki/普拉托夫國際機場 "wikilink")
 
   - [蓋達爾·阿利耶夫國際機場](https://zh.wikipedia.org/wiki/蓋達爾·阿利耶夫國際機場 "wikilink")
 
