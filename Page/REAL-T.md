@@ -361,7 +361,7 @@ REAL-T是日本一家專門從事[動畫](https://zh.wikipedia.org/wiki/動畫 "
   - [逆轉裁判 ～對這個「真相」，有異議！～](https://zh.wikipedia.org/wiki/逆轉裁判_\(動畫\) "wikilink")（後藤正浩）
   - [田中君總是如此慵懶](../Page/田中君總是如此慵懶.md "wikilink")（坪根健太郎）
   - [火星異種 復仇](../Page/火星異種.md "wikilink")（近藤勇二）
-  - [飛翔的魔女](https://zh.wikipedia.org/wiki/飛翔的魔女 "wikilink")（後藤正浩）
+  - [飛翔的魔女](../Page/飛翔的魔女.md "wikilink")（後藤正浩）
   - [文豪Stray Dogs](../Page/文豪Stray_Dogs.md "wikilink")（西山茂）
   - [超時空要塞Δ](../Page/超時空要塞Δ.md "wikilink")（坪根健太郎）
   - [Re:從零開始的異世界生活](../Page/Re:從零開始的異世界生活.md "wikilink")（須藤瞳）

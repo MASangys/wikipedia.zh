@@ -125,7 +125,7 @@ Blend4Web基本上是基于Blender实时[GLSL](../Page/GLSL.md "wikilink")渲染
 
 18. ["Blend4Web Update: Non Linear Animation and more"](http://www.blendernation.com/2014/09/29/blend4web-update-non-linear-animation-and-more/). BlenderNation.com. Retrieved 2014-09-29.
 
-19. ["Выпущен фреймворк Blend4Web 14.09"](http://digilinux.ru/2014/09/26/blend4web-14-09/). digilinux.ru. Retrieved 2014-09-29.
+19. ["Выпущен фреймворк Blend4Web 14.09"](http://digilinux.ru/2014/09/26/blend4web-14-09/) . digilinux.ru. Retrieved 2014-09-29.
 
 20. ["Blend4Web: обзор новинки отечественного софтопрома"](http://habrahabr.ru/post/259437/). Habrahabr.ru. Retrieved 2015-06-04.
 

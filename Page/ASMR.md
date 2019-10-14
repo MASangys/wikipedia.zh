@@ -4,7 +4,7 @@
 
 ## 名称来源
 
-2008年[雅虎](../Page/雅虎.md "wikilink")上成立的的「感觉论者社团」（*Society of Sensationalists*）在线讨论组，以及2010年由安德鲁·麦克缪里斯创立的「莫名之感」（*Unnamed Feeling*）[博客](https://zh.wikipedia.org/wiki/博客 "wikilink")，旨在为[社群提供讨论平台](https://zh.wikipedia.org/wiki/虚拟社群 "wikilink")，通过分享观点和个人经历来了解更多关于感知的理解。在这些早期的讨论组中，对ASMR的称呼包括注意力诱发头部高潮（attention induced head orgasm）、注意力诱发愉悦感（attention induced euphoria）、注意力诱发敏锐愉悦感（attention induced observant euphoria）\[7\]。
+2008年[雅虎](../Page/雅虎.md "wikilink")上成立的的「感觉论者社团」（*Society of Sensationalists*）線上讨论群組，以及2010年由安德鲁·麦克缪里斯创立的「莫名之感」（*Unnamed Feeling*）[部落格](https://zh.wikipedia.org/wiki/部落格 "wikilink")，旨在为[社群提供讨论平台](https://zh.wikipedia.org/wiki/虚拟社群 "wikilink")，通过分享观点和个人经历来了解更多关于感知的理解。在这些早期的讨论组中，对ASMR的称呼包括注意力诱发头部高潮（attention induced head orgasm）、注意力诱发愉悦感（attention induced euphoria）、注意力诱发敏锐愉悦感（attention induced observant euphoria）\[7\]。
 
 其他试图描述这种感知现象的名称有“耳音”、“耳搔”\[8\]、“颅内高潮”\[9\]、“大脑按摩”和“大脑高潮”等。
 

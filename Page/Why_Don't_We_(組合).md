@@ -51,7 +51,7 @@
 <tr class="even">
 <td><p>科爾賓·比森</p></td>
 <td><p>Corbyn Besson</p></td>
-<td><p>科豆/豆豆</p></td>
+<td><p>科豆</p></td>
 <td></td>
 <td><p>弗吉尼亞州，費爾法克斯</p></td>
 <td></td>
@@ -62,7 +62,7 @@
 <tr class="odd">
 <td><p>丹尼爾·詹姆斯·西韋</p></td>
 <td><p>Daniel James Seavey</p></td>
-<td><p>蛋泥/蛋妞</p></td>
+<td><p>蛋泥</p></td>
 <td></td>
 <td><p>俄勒岡州，波特蘭市</p></td>
 <td></td>

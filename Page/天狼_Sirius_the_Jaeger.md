@@ -306,7 +306,7 @@
 
   -
 
-[Category:2018年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2018年日本電視動畫 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:P.A._Works](https://zh.wikipedia.org/wiki/Category:P.A._Works "wikilink") [Category:日本戰前昭和時代背景作品](https://zh.wikipedia.org/wiki/Category:日本戰前昭和時代背景作品 "wikilink") [Category:吸血鬼題材動畫](https://zh.wikipedia.org/wiki/Category:吸血鬼題材動畫 "wikilink") [Category:狼人題材作品](https://zh.wikipedia.org/wiki/Category:狼人題材作品 "wikilink") [Category:Netflix外購動畫](https://zh.wikipedia.org/wiki/Category:Netflix外購動畫 "wikilink")
+[Category:2018年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2018年日本電視動畫 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:P.A._Works](https://zh.wikipedia.org/wiki/Category:P.A._Works "wikilink") [Category:日本戰前昭和時代背景作品](https://zh.wikipedia.org/wiki/Category:日本戰前昭和時代背景作品 "wikilink") [Category:吸血鬼題材動畫](https://zh.wikipedia.org/wiki/Category:吸血鬼題材動畫 "wikilink") [Category:狼人題材作品](https://zh.wikipedia.org/wiki/Category:狼人題材作品 "wikilink") [Category:Netflix外購動畫](https://zh.wikipedia.org/wiki/Category:Netflix外購動畫 "wikilink") [Category:吸血鬼猎人题材作品](https://zh.wikipedia.org/wiki/Category:吸血鬼猎人题材作品 "wikilink")
 
 1.
 

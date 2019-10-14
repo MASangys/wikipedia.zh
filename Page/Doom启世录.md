@@ -7,7 +7,7 @@
 ## 外部链接
 
   -
-  - [《DOOM启世录》－迄今为止最好的游戏人传记](https://www.g-cores.com/articles/19582)（机核网）
+  - [《DOOM启世录》－迄今为止最好的游戏人传记](https://web.archive.org/web/20171006143445/http://www.g-cores.com/articles/19582)（机核网）
 
 [Category:2003年書籍](https://zh.wikipedia.org/wiki/Category:2003年書籍 "wikilink") [Category:Id_Software](https://zh.wikipedia.org/wiki/Category:Id_Software "wikilink") [Category:电子游戏书籍](https://zh.wikipedia.org/wiki/Category:电子游戏书籍 "wikilink") [Category:美國傳記](https://zh.wikipedia.org/wiki/Category:美國傳記 "wikilink")
 

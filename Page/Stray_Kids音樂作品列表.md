@@ -60,7 +60,7 @@
 <tr class="even">
 <td><p>《<a href="../Page/Mixtape_(Stray_Kids迷你專輯).md" title="wikilink">Mixtape</a>》</p></td>
 <td><ul>
-<li>發行日期: 2018年1月8日</li>
+<li>發行日期：2018年1月8日</li>
 <li>唱片廠牌：<a href="../Page/JYP娛樂.md" title="wikilink">JYP娛樂</a>、<a href="../Page/Genie音樂.md" title="wikilink">Genie音樂</a></li>
 <li>唱片格式：<a href="../Page/CD.md" title="wikilink">CD</a>、<a href="https://zh.wikipedia.org/wiki/數位下載" title="wikilink">下載</a>、<a href="https://zh.wikipedia.org/wiki/串流" title="wikilink">串流</a></li>
 </ul></td>
@@ -90,7 +90,7 @@
 <tr class="odd">
 <td><p>《<a href="../Page/I_am_YOU_(Stray_Kids迷你專輯).md" title="wikilink">I am YOU</a>》</p></td>
 <td><ul>
-<li>發行日期: 2018年10月22日</li>
+<li>發行日期：2018年10月22日</li>
 <li>唱片廠牌：JYP娛樂、iRiver</li>
 <li>唱片格式：CD、下載、串流</li>
 </ul></td>
@@ -100,7 +100,7 @@
 <tr class="even">
 <td><p>《<a href="../Page/Clé_1_:_MIROH.md" title="wikilink">Clé 1 : MIROH</a>》</p></td>
 <td><ul>
-<li>發行日期: 2019年3月25日</li>
+<li>發行日期：2019年3月25日</li>
 <li>唱片廠牌：JYP娛樂、iRiver</li>
 <li>唱片格式：CD、下載、串流</li>
 </ul></td>
@@ -163,12 +163,59 @@
 <tr class="even">
 <td><p>《<a href="../Page/Clé_2_:_Yellow_Wood.md" title="wikilink">Clé 2 : Yellow Wood</a>》</p></td>
 <td><ul>
-<li>發行日期: 2019年6月19日</li>
+<li>發行日期：2019年6月19日</li>
 <li>唱片廠牌：JYP娛樂、<a href="https://zh.wikipedia.org/wiki/iRiver" title="wikilink">Dreamus</a></li>
 <li>唱片格式：CD、下載、串流</li>
 </ul></td>
 <td><p>2</p></td>
 <td><p>69</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 單曲專輯
+
+<table style="width:40%;">
+<colgroup>
+<col style="width: 9%" />
+<col style="width: 14%" />
+<col style="width: 7%" />
+<col style="width: 8%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>單曲名稱</p></th>
+<th><p>單曲資訊</p></th>
+<th><p>排行榜頂峰位置</p></th>
+<th><p>銷售<br />
+</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/Gaon_Chart" title="wikilink">韓</a><br />
+[1]</p></td>
+<td><p><a href="../Page/告示牌榜單.md" title="wikilink">美<br />
+世界</a><br />
+[2]</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>《Double Knot》</p></td>
+<td><ul>
+<li>發行日期：2019年10月9日</li>
+<li>唱片廠牌：JYP娛樂</li>
+<li>唱片格式：下載、串流</li>
+</ul></td>
+<td><p>*</p></td>
+<td><p>*</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -196,7 +243,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/Gaon_Chart" title="wikilink">韓</a><br />
-[1]</p></td>
+[3]</p></td>
 <td><p><a href="../Page/告示牌榜單.md" title="wikilink">美<br />
 世界</a><br />
 <ref></p>
@@ -265,16 +312,10 @@
 </tbody>
 </table>
 
-## 3RACHA
-
-### Mixtape
-
-  - 《J:/2017/mixtape》（2017年4月26日）
-  - 《3Days》（2017年8月16日
-  - 《Horizon》（2017年12月20日）
-
 ## 參考資料
 
 [Category:Stray_Kids](https://zh.wikipedia.org/wiki/Category:Stray_Kids "wikilink") [Category:韩国音乐作品列表](https://zh.wikipedia.org/wiki/Category:韩国音乐作品列表 "wikilink")
 
 1.
+2.
+3.

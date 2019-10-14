@@ -2,7 +2,7 @@
 
 ## 智能手机
 
-**Google Pixel/Pixel XL**是[Google](../Page/Google.md "wikilink")在2016年10月4日推出的全新[Android](../Page/Android.md "wikilink")[智能手机](../Page/智能手机.md "wikilink")系列，接任之前的**[Nexus](../Page/Google_Nexus.md "wikilink")**系列。在2016年10月5日凌晨Google秋季发布会上，Google发布两款**Google Pixel**、**Pixel XL**智能手机，分别为5吋、5.5吋两个版本，由台湾的[HTC代工](https://zh.wikipedia.org/wiki/HTC "wikilink")，Google掌控硬件设计研发，搭载[Android Nougat](../Page/Android_Nougat.md "wikilink") 7.1系统，\[2\]\[3\] 支持IP53级别防水/防尘。\[4\]
+**Google Pixel/Pixel XL**是[Google](../Page/Google.md "wikilink")在2016年10月4日推出的全新[Android](../Page/Android.md "wikilink")[智能手机](../Page/智能手机.md "wikilink")系列，接任之前的**[Nexus](../Page/Google_Nexus.md "wikilink")**系列。在2016年10月5日凌晨Google秋季发布会上，Google发布两款**Google Pixel**、**Pixel XL**智能手机，分别为5吋、5.5吋两个版本，由台湾的[HTC代工](https://zh.wikipedia.org/wiki/HTC "wikilink")，Google掌控硬件设计研发，搭载[Android Nougat](../Page/Android_Nougat.md "wikilink") 7.1系统，\[2\]\[3\]支持IP53级别防水/防尘。\[4\]
 
 根据Counterpoint的调查，2018年Google Pixel系列手机在美国高端智能手机市场上销量第三，在西欧高端智能手机市场上销量第五\[5\]。
 
@@ -153,7 +153,7 @@
 </tr>
 <tr class="odd">
 <td><p>支持的最新操作系统</p></td>
-<td><p><a href="../Page/Android_Q.md" title="wikilink">Android Q beta 10.0.0</a></p></td>
+<td><p><a href="../Page/Android_Q.md" title="wikilink">Android Q 10.0.0</a></p></td>
 <td></td>
 <td></td>
 <td></td>

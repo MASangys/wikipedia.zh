@@ -164,7 +164,7 @@ PRETTY×CATION在Getchu.com的美少女遊戲大賞2014中獲得系統部門第5
 
 ## 外部連結
 
-  - [hibiki works](http://www.hibiki-site.com/)（限日本地區瀏覽）
+  - [官方網站](http://www.hibiki-site.com/products/pretty-cation/index.html)
 
 [Category:2014年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2014年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:2016年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2016年日本成人動畫 "wikilink") [Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink") [Category:東京背景作品](https://zh.wikipedia.org/wiki/Category:東京背景作品 "wikilink")
 

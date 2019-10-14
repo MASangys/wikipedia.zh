@@ -1,4 +1,4 @@
-**李昕**（），[藝名](../Page/藝名.md "wikilink")**Amis艾蜜絲**曾在[中華職棒](https://zh.wikipedia.org/wiki/中華職棒 "wikilink")[Lamigirls與](https://zh.wikipedia.org/wiki/Lamigirls "wikilink")[Fubon Angels擔任](../Page/Fubon_Angels.md "wikilink")[啦啦隊](../Page/啦啦隊.md "wikilink")，現為[味全龍](../Page/味全龍.md "wikilink")啦啦隊總教練，在[臉書粉專擁有超過](https://zh.wikipedia.org/wiki/臉書 "wikilink")30萬名粉絲，被譽為「啦啦隊女神」！\[1\]
+**李昕**（），[藝名](../Page/藝名.md "wikilink")**Amis艾蜜絲**曾在[中華職棒](https://zh.wikipedia.org/wiki/中華職棒 "wikilink")[Lamigirls與](https://zh.wikipedia.org/wiki/Lamigirls "wikilink")[Fubon Angels擔任](../Page/Fubon_Angels.md "wikilink")[啦啦隊](../Page/啦啦隊.md "wikilink")，現為[味全龍](../Page/味全龍.md "wikilink")啦啦隊總教練，在[臉書粉專擁有超過](https://zh.wikipedia.org/wiki/臉書 "wikilink")30萬名粉絲，被譽為「啦啦隊女神」！\[1\] \[2\]
 
 ## 經歷
 
@@ -56,4 +56,5 @@
   -
 [Category:中華職棒](https://zh.wikipedia.org/wiki/Category:中華職棒 "wikilink") [Category:世新大學校友](https://zh.wikipedia.org/wiki/Category:世新大學校友 "wikilink") [Category:台灣女性模特兒](https://zh.wikipedia.org/wiki/Category:台灣女性模特兒 "wikilink") [Category:臺灣女舞者](https://zh.wikipedia.org/wiki/Category:臺灣女舞者 "wikilink") [Category:台灣啦啦隊](https://zh.wikipedia.org/wiki/Category:台灣啦啦隊 "wikilink") [Category:李姓](https://zh.wikipedia.org/wiki/Category:李姓 "wikilink")
 
-1.  [從LamiGirls到富邦天使　高人氣女神Amis卸啦啦隊身份](https://sports.ettoday.net/news/1389453)，ETtoday運動雲 2019年03月01日
+1.  [從LamiGirls到富邦天使 高人氣女神Amis卸啦啦隊身份](https://sports.ettoday.net/news/1389453) ETtoday運動雲 2019年03月01日
+2.  [中職／轉戰味全龍新角色 Amis打造美麗嬌點](https://sports.ettoday.net/news/1541006) ETtoday運動雲 2019年09月22日

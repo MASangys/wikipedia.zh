@@ -1,4 +1,4 @@
-YOYO家族為[東森電視](../Page/東森電視.md "wikilink")旗下頻道[東森幼幼台](../Page/東森幼幼台.md "wikilink")所屬兒童音樂組合，於2000年成立，以[水果](https://zh.wikipedia.org/wiki/水果 "wikilink")、[昆蟲](https://zh.wikipedia.org/wiki/昆蟲 "wikilink")、[天空](../Page/天空.md "wikilink")、[動物等名稱為](https://zh.wikipedia.org/wiki/動物 "wikilink")[藝名](../Page/藝名.md "wikilink")，由於[主持](https://zh.wikipedia.org/wiki/主持 "wikilink")[兒童節目](https://zh.wikipedia.org/wiki/兒童節目 "wikilink")，在兒童間廣受歡迎\[1\]。
+YOYO家族為[東森電視](../Page/東森電視.md "wikilink")旗下頻道[東森幼幼台](../Page/東森幼幼台.md "wikilink")所屬兒童音樂組合，於2000年成立，由於[主持](https://zh.wikipedia.org/wiki/主持 "wikilink")[兒童節目](https://zh.wikipedia.org/wiki/兒童節目 "wikilink")，在兒童間廣受歡迎\[1\]。
 
 ## 成員
 

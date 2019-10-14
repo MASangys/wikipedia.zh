@@ -415,19 +415,19 @@ COMEBACK V LIVE</a></p></td>
 
 1.  [因信賴而聆聽！BTOB 公開曲目表　首首都有成員參與創作](http://www.koreastardaily.com/tc/news/98862) 2017-10-10 韓星網
 
-2.  [BTOB 有望於10月發表新專輯回歸！](https://kpopn.niusnews.com/=K1xcbvb2) 2017-09-25 KPOPN
+2.  [BTOB 有望於10月發表新專輯回歸！](https://kpopn.niusnews.com/=K1xcbvb2)  2017-09-25 KPOPN
 
-3.  [BTOB 確定10月16日以正規專輯回歸](https://kpopn.niusnews.com/=K1d9c9d4) 2017-09-25 KPOPN
+3.  [BTOB 確定10月16日以正規專輯回歸](https://kpopn.niusnews.com/=K1d9c9d4)  2017-09-25 KPOPN
 
 4.  [BTOB 2nd Album〔Brother Act.〕](https://twitter.com/OFFICIALBTOB/status/911968598775574528) OFFICIALBTOB Twitter
 
 5.  [BTOB 2nd Album〔Brother Act.〕Comeback Schedule](https://twitter.com/OFFICIALBTOB/status/912330898359513088) OFFICIALBTOB Twitter
 
-6.  [BTOB《Brother Act.》秋日氣息概念照](https://kpopn.niusnews.com/=K32wwp83) 2017-09-29 KPOPN
+6.  [BTOB《Brother Act.》秋日氣息概念照](https://kpopn.niusnews.com/=K32wwp83)  2017-09-29 KPOPN
 
-7.  [BTOB《Brother Act.》第二波概念照](https://kpopn.niusnews.com/=K2jppp76) 2017-09-29 KPOPN
+7.  [BTOB《Brother Act.》第二波概念照](https://kpopn.niusnews.com/=K2jppp76)  2017-09-29 KPOPN
 
-8.  [BTOB《Brother Act.》曲目表公開](https://kpopn.niusnews.com/=K0mwgal6) 2017-10-12 KPOPN
+8.  [BTOB《Brother Act.》曲目表公開](https://kpopn.niusnews.com/=K0mwgal6)  2017-10-12 KPOPN
 
 9.  [BTOB 두 번째 정규앨범〔Brother Act.〕예약 판매 안내](https://twitter.com/OFFICIALBTOB/status/917576051512840192) OFFICIALBTOB Twitter
 

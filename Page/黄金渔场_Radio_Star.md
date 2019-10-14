@@ -4661,7 +4661,7 @@
 <tr class="odd">
 <td><p>614</p></td>
 <td><p>4月24日</p></td>
-<td><p><a href="../Page/邊宇民.md" title="wikilink">邊宇民</a>、<a href="../Page/姜其永.md" title="wikilink">姜其永</a>、<a href="../Page/李現填.md" title="wikilink">李現填</a>、</p></td>
+<td><p><a href="../Page/邊宇民.md" title="wikilink">卞宇珉</a>、<a href="../Page/姜其永.md" title="wikilink">姜其永</a>、<a href="../Page/李現填.md" title="wikilink">李現填</a>、</p></td>
 <td><p>“神秘的演员词典”特辑</p></td>
 <td><p><a href="../Page/許卿煥.md" title="wikilink">許卿煥</a>擔任特别主持。</p></td>
 </tr>
@@ -4811,6 +4811,13 @@
 <td><p><a href="../Page/任昌丁.md" title="wikilink">任昌丁</a>、Seungguk-lee、、</p></td>
 <td><p>“甲乙戰爭”特輯</p></td>
 <td><p><a href="../Page/尹相鉉.md" title="wikilink">尹相鉉</a>擔任特别主持。</p></td>
+</tr>
+<tr class="odd">
+<td><p>636</p></td>
+<td><p>9月25日</p></td>
+<td><p><a href="../Page/吳允兒.md" title="wikilink">吳允兒</a>、、<a href="../Page/Irene_(模特).md" title="wikilink">Irene Kim</a>、<a href="https://zh.wikipedia.org/wiki/河升镇" title="wikilink">河升镇</a></p></td>
+<td><p>“人体探险特辑-巨人的世界”特輯</p></td>
+<td><p><a href="../Page/金範洙.md" title="wikilink">金範洙</a>擔任特别主持。</p></td>
 </tr>
 </tbody>
 </table>

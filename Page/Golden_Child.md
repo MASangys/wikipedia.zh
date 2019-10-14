@@ -430,6 +430,7 @@
 | 8月17日     | KIMA WEEK 2019 in 浦項                               | 迎月台 海上樓閣前 廣場                               |
 | 8月20日     | 2019 K-WORLD FESTA                                 | 奧林匹克公園 (Olympic Hall)                      |
 | 9月20日     | 第9回 中國人留學生慶典 K-POP開幕演唱會                            | 清州大學 主舞台                                   |
+| 9月28日     | KCON 2019 THAILAND                                 | IMPACT Arena                               |
 
 ### 簽售會
 

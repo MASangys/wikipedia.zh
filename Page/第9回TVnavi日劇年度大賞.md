@@ -39,7 +39,7 @@
 <td><p>第一位：<a href="../Page/大野智.md" title="wikilink">大野智</a>　《<a href="../Page/上鎖的房間_(電視劇).md" title="wikilink">上鎖的房間</a>》<br />
 第二位：<a href="../Page/木村拓哉.md" title="wikilink">木村拓哉</a>《<a href="../Page/PRICELESS人生無價.md" title="wikilink">PRICELESS人生無價</a>》<br />
 第三位：<a href="../Page/中居正廣.md" title="wikilink">中居正廣</a>《<a href="../Page/ATARU.md" title="wikilink">ATARU</a>》<br />
-第四位：<a href="https://zh.wikipedia.org/wiki/松本潤" title="wikilink">松本潤</a>　《<a href="../Page/幸運7人組.md" title="wikilink">幸運7人組</a>》<br />
+第四位：<a href="../Page/松本潤.md" title="wikilink">松本潤</a>　《<a href="../Page/幸運7人組.md" title="wikilink">幸運7人組</a>》<br />
 第五位：<a href="../Page/堺雅人.md" title="wikilink">堺雅人</a>　《<a href="../Page/Legal_High.md" title="wikilink">Legal High</a>》、《<a href="../Page/大奧_～誕生【有功·家光篇】.md" title="wikilink">大奧 ～誕生【有功·家光篇】</a>》</p></td>
 </tr>
 </tbody>

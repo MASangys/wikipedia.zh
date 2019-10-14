@@ -148,7 +148,7 @@ Vision的中文音譯威神，即命名為威神V。</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/肖俊_(1999年)" title="wikilink">肖俊</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/黃冠亨.md" title="wikilink">Hendery</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Hendery" title="wikilink">Hendery</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/黄仁俊.md" title="wikilink">仁俊</a></p></td>
@@ -1381,38 +1381,52 @@ BackgroundColors = bars:bars
 <td></td>
 </tr>
 <tr class="even">
+<td><p>9月28日</p></td>
 <td><p>首爾音樂節2019</p></td>
 <td><p>首爾光化門廣場</p></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="odd">
-<td><p>9月28日</p></td>
+<td><p>景福高中校庆</p></td>
+<td><p>景福高中</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>2019 Global Citizen Festival</p></td>
 <td><p>美國紐約<a href="../Page/中央公園.md" title="wikilink">中央公園</a></p></td>
 <td><p>NCT 127</p></td>
 <td></td>
+<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>10月5日</p></td>
 <td><p>2019 光陽韓流超級演唱會</p></td>
 <td><p><a href="../Page/光陽市.md" title="wikilink">光陽市</a></p></td>
 <td><p>NCT Dream（缺楷灿）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>10月25－26日</p></td>
 <td><p>Novus K-pop Festival</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/德國" title="wikilink">德國</a><a href="https://zh.wikipedia.org/wiki/杜塞爾多夫" title="wikilink">杜塞爾多夫ISS</a> Dome</p></td>
 <td><p>NCT Dream</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>11月9日</p></td>
 <td><p>2019 KAMP Global K-Pop Festival</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/新加坡室內體育館" title="wikilink">新加坡室內體育館</a></p></td>
 <td><p>NCT 127</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>12月7日</p></td>
+<td><p>B96 Pepsi Jingle Bash</p></td>
+<td><p>美國<a href="https://zh.wikipedia.org/wiki/伊利諾伊州" title="wikilink">伊利諾伊州Allstate</a> Arena</p></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>
@@ -1434,18 +1448,20 @@ BackgroundColors = bars:bars
 
 ### 廣告代言
 
-| 時間                  | 品牌                | 參與成員          | 備註            |
-| ------------------- | ----------------- | ------------- | ------------- |
-| 2016年               | 樂天免稅店             | NCT U、NCT 127 | 免稅商店\[70\]    |
-| Ivy Club            | 校服廣告\[71\]        |               |               |
-| Design United       | NCT 127           | 休閒服飾秋冬季節      |               |
-| SUPER COMMA B       | 休閒服飾              |               |               |
-| 2017年               | Masita Seaweed    | NCT U         | 泰國人氣零食        |
-| 2018年               | NBA               | NCT 127       | 品牌季度模特兒\[72\] |
-| Elite               | NCT 2018          | 校服廣告          |               |
-| 2019年               | NCT 127、NCT Dream |               |               |
-| Barista Rules 每日咖啡師 | WayV              | 韓國咖啡中國區代言     |               |
-| SKECHERS斯凱奇         |                   |               |               |
+| 時間                  | 品牌                             | 參與成員          | 備註            |
+| ------------------- | ------------------------------ | ------------- | ------------- |
+| 2016年               | 樂天免稅店                          | NCT U、NCT 127 | 免稅商店\[70\]    |
+| Ivy Club            | 校服廣告\[71\]                     |               |               |
+| Design United       | NCT 127                        | 休閒服飾秋冬季節      |               |
+| SUPER COMMA B       | 休閒服飾                           |               |               |
+| 2017年               | Masita Seaweed                 | NCT U         | 泰國人氣零食        |
+| 2018年               | NBA                            | NCT 127       | 品牌季度模特兒\[72\] |
+| Elite               | NCT 2018                       | 校服廣告          |               |
+| 2019年               | NCT 127、NCT Dream              |               |               |
+| Barista Rules 每日咖啡師 | WayV                           | 韓國咖啡中國區代言人    |               |
+| SKECHERS 斯凱奇        | 品牌形象代言人                        |               |               |
+| CARLAN 卡姿蘭          | WayV<small>（锟、Lucas、扬扬）        | 品牌代言人         |               |
+| CigaLong Beauty     | WayV<small>（Ten、昀昀、肖俊、Hendery） | 鑽石小白管聯名星推官    |               |
 
 ### 宣傳大使
 

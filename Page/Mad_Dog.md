@@ -125,7 +125,7 @@
 <tr class="even">
 <td></td>
 <td><p>吳瑞羅</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/陳雪瑩" title="wikilink">陳雪瑩</a></p></td>
+<td><p><a href="../Page/陳雪瑩.md" title="wikilink">陳雪瑩</a></p></td>
 <td><p>綜合醫院兒科主管護士，最後也成為瘋狗成員。</p></td>
 </tr>
 <tr class="odd">
@@ -155,7 +155,7 @@
 <tr class="odd">
 <td></td>
 <td><p>李美蘭</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/陳雪瑩" title="wikilink">陳雪瑩</a></p></td>
+<td><p><a href="../Page/陳雪瑩.md" title="wikilink">陳雪瑩</a></p></td>
 <td><p>太陽生命保險代理人，因為業績優異，素有-{「}-保險王-{」}-的稱號。</p></td>
 </tr>
 <tr class="even">

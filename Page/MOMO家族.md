@@ -1,4 +1,4 @@
-**MOMO家族**為優視傳播旗下頻道[MOMO親子台](../Page/MOMO親子台.md "wikilink")所屬兒童音樂組合，為[YOYO家族](../Page/YOYO家族.md "wikilink")的姐妹團體，於2006年成立，以[食物](../Page/食物.md "wikilink")、[水果](https://zh.wikipedia.org/wiki/水果 "wikilink")、[大自然等名稱為藝名](https://zh.wikipedia.org/wiki/大自然 "wikilink")，由於主持兒童節目，在兒童間廣受歡迎。此外[MOMO親子台](../Page/MOMO親子台.md "wikilink")也是繼[東森幼幼台](../Page/東森幼幼台.md "wikilink")後第二個成立兒童團體的頻道。
+**MOMO家族**為優視傳播旗下頻道[MOMO親子台](../Page/MOMO親子台.md "wikilink")所屬兒童音樂組合，為[YOYO家族](../Page/YOYO家族.md "wikilink")的姐妹團體，於2006年成立，由於主持兒童節目，在兒童間廣受歡迎。此外[MOMO親子台](../Page/MOMO親子台.md "wikilink")也是繼[東森幼幼台](../Page/東森幼幼台.md "wikilink")後第二個成立兒童團體的電視頻道。
 
 ## 成員
 

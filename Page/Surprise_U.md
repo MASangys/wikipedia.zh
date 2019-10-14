@@ -185,7 +185,7 @@ NAVER TV</small></p></td>
 | ----- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ------- | ------- | -- | ---- | ----- |
 | 2017年 | [NAVER tvcast](../Page/NAVER.md "wikilink")                                   | 《愛豆權限代理》                                                                  | 全員      | 同名角色    | 主演 | 全集   | 團體出道作 |
 | 2017年 | [OKSUSU](https://zh.wikipedia.org/wiki/OKSUSU "wikilink")                     | 《復仇筆記》                                                                    | 池建玗、金鉉書 | 胡具俊、楊亞俊 | 配角 |      |       |
-| 2018年 | [OKSUSU](https://zh.wikipedia.org/wiki/OKSUSU "wikilink")                     | 《復仇筆記2》                                                                   | 池建玗     | 胡具俊     | 客串 |      |       |
+| 2018年 | [XtvN](https://zh.wikipedia.org/wiki/XtvN "wikilink")                         | 《復仇筆記2》                                                                   | 池建玗     | 胡具俊     | 客串 |      |       |
 | 2018年 | [YouTube](https://zh.wikipedia.org/wiki/YouTube_\(韓國\) "wikilink")            | 《[Top Management](../Page/Top_Management.md "wikilink")》                  | 池建玗、殷瑎成 | 練習生     | 其他 |      |       |
 | 2019年 | [SBS、Netflix](https://zh.wikipedia.org/wiki/SBS、Netflix_\(韓國\) "wikilink")    | 《[農夫士官學校](../Page/農夫士官學校.md "wikilink")》                                  | 尹挺赫     |         | 配角 |      |       |
 | 2019年 | [Vlive、YouTube](https://zh.wikipedia.org/wiki/Vlive、YouTube\(韓國\) "wikilink") | 《[獨立也能過得好的女孩智恩2](https://zh.wikipedia.org/wiki/獨立也能過得好的女孩智恩2 "wikilink")》 | 車璌河     | 河俊      | 主角 |      |       |
@@ -199,10 +199,11 @@ NAVER TV</small></p></td>
 
 ### 音樂錄影帶(MV)
 
-| 日期         | 歌曲名稱                                                                       | 歌手       | 參與成員 |
-| ---------- | -------------------------------------------------------------------------- | -------- | ---- |
-| 2017年2月23日 | 《[눈물나게](https://www.youtube.com/watch?v=kjmQW2jkB28)》                      | 이시은& 鄭承煥 | 車璌河  |
-| 2018年1月3日  | 《[재미없을 나이(Twenty-something)](https://www.youtube.com/watch?v=hAh_vba90Us)》 | 宋主喜      | 殷瑎成  |
+| 日期         | 歌曲名稱                                                                                 | 歌手       | 參與成員 |
+| ---------- | ------------------------------------------------------------------------------------ | -------- | ---- |
+| 2017年2月23日 | 《[눈물나게](https://www.youtube.com/watch?v=kjmQW2jkB28)》                                | 이시은& 鄭承煥 | 車璌河  |
+| 2018年1月3日  | 《[재미없을 나이(Twenty-something)](https://www.youtube.com/watch?v=hAh_vba90Us)》           | 宋主喜      | 殷瑎成  |
+| 2019年9月8日  | 《[사랑이란 멜로는 없어(I Still love you a lot)](https://www.youtube.com/watch?v=txofagPZhnI)》 | 전상근      | 池建玗  |
 
 ## 其他
 

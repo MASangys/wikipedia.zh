@@ -227,7 +227,7 @@
 </tr>
 <tr class="odd">
 <td><p>中區</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大塚商會越谷阿爾法" title="wikilink">大塚商會越谷阿爾法</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/越谷阿爾法" title="wikilink">越谷阿爾法</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/琦玉縣" title="wikilink">琦玉縣</a><a href="../Page/越谷市.md" title="wikilink">越谷市</a></p></td>
 <td><p>{{ill|ja</p></td>
 <td><p>越谷市立総合体育館メインアリーナ}}</p></td>
@@ -303,7 +303,7 @@
 <td><p>{{ill|ja</p></td>
 <td><p>照葉積水ハウスアリーナ}}</p></td>
 <td><p>NBL</p></td>
-<td><p>Renova Kagoshima</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/熊本火山" title="wikilink">熊本火山</a></p></td>
@@ -339,7 +339,7 @@
 | [豐田合成天蠍](https://zh.wikipedia.org/wiki/豐田合成天蠍 "wikilink")               | [愛知縣](../Page/愛知縣.md "wikilink")[清須市](../Page/清須市.md "wikilink")                                           | NBDL           |
 | [岐阜猛撲](https://zh.wikipedia.org/wiki/岐阜猛撲 "wikilink")                   | [岐阜縣](https://zh.wikipedia.org/wiki/岐阜縣 "wikilink")[岐阜市](../Page/岐阜市.md "wikilink")                        |                |
 | [佐贺バルーナーズ](https://zh.wikipedia.org/wiki/佐贺バルーナーズ "wikilink")           | [佐賀縣](https://zh.wikipedia.org/wiki/佐賀縣 "wikilink")[佐賀市](https://zh.wikipedia.org/wiki/佐賀市 "wikilink")     |                |
-| [ドライフープ岡山](https://zh.wikipedia.org/wiki/ドライフープ岡山 "wikilink")           | [岡山縣](../Page/岡山縣.md "wikilink")[岡山市](../Page/岡山市.md "wikilink")                                           |                |
+| [トライフープ岡山](https://zh.wikipedia.org/wiki/トライフープ岡山 "wikilink")           | [岡山縣](../Page/岡山縣.md "wikilink")[岡山市](../Page/岡山市.md "wikilink")                                           |                |
 |                                                                         |                                                                                                            |                |
 
 ## 參考資料

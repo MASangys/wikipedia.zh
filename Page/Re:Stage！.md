@@ -1,5 +1,14 @@
 是[波麗佳音和](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")[Comptiq](../Page/Comptiq.md "wikilink")推出的[日本](../Page/日本.md "wikilink")[跨媒體製作](../Page/跨媒體製作.md "wikilink")作品。由[和泉Tsubasu](../Page/和泉Tsubasu.md "wikilink")擔任原畫、team yoree負責原作劇本、音樂由波麗佳音製作\[1\]。內容為中學女生想要成為偶像的故事。2018年7月1日在「Re:Stage！PRISM☆LIVE\!\!～2ndSTAGE～Ready for Dream」的活動會場中宣布改編為電視動畫\[2\]。
 
+## 故事簡介
+
+  -
+    私立稀星學園高尾分校初中部，那是與有著表演系的本校不同的非常普通的學校。
+    某天一名放棄了夢想的少女轉入這所學校時，這個故事便開始了。
+    這位少女的名字叫做**式宮舞菜**。她有著超人的歌舞感，因為某一件事從本校轉到了高尾分校。
+    雖打算在這裡平凡的度過每一天，舞菜卻遇上了謠舞蹈部這個瀕臨廢部的社團。
+    原本進行舞蹈活動的這個社團為了避免被廢部打算展開偶像活動—舞菜與同伴們一起，再次踏上了自己一度放棄的夢想之路。
+
 ## 登場角色
 
 ### KiRaRe
@@ -214,7 +223,7 @@
 
 ## 電視動畫
 
-於2019年7月7日播出，標題為《Re:Stage！Dream Days♪》\[20\]。
+於2019年7月7日至9月29日播出，標題為《Re:Stage！Dream Days♪》\[20\]。全12話。
 
 ### 製作人員
 
@@ -236,12 +245,12 @@
 
 ### 主題曲
 
-  - 片頭曲「Don't think,\!\!」
+  - 片頭曲「Don't think,\!\!」（第2－7話，第9－11話）
     作詞：高瀨愛虹，作曲、編曲：伊藤翼，主唱：[KiRaRe](https://zh.wikipedia.org/wiki/#KiRaRe "wikilink")
 
   - 片尾曲
 
-:;「憧れFuture Sign」（第1－7話，第9－）
+:;「憧れFuture Sign」（第1－7話，第9－11話）
 
 :: 作詞：，作曲、編曲：伊藤翼，主唱：KiRaRe
 
@@ -300,10 +309,26 @@
 
 :; 「」（第10話）
 
+:: 作詞：高瀨愛虹，作曲、編曲：伊藤翼，主唱：[TORIS ANGES](https://zh.wikipedia.org/wiki/#TROIS_ANGES "wikilink")
+
+:; 「FlowerS 〜〜」（第11話）
+
+:: 作詞：森由里子，作曲、編曲：，主唱：ortensia
+
+:; 「Secret Dream」（第11話）
+
+:: 作詞：、俊龍，作曲：俊龍，編曲：，主唱：Stellamaris
+
+:; 「OvertuRe:」（第11話、第12話）
+
+:: 作詞：Soflan Daichi，作曲、編曲：伊藤翼，主唱：KiRaRe
+
+:; 「367Days」（第12話）
+
   -
 
       -
-        作詞：高瀨愛虹，作曲、編曲：伊藤翼，主唱：[TORIS ANGES](https://zh.wikipedia.org/wiki/#TROIS_ANGES "wikilink")
+        作詞：Soflan Daichi，作曲、編曲：伊藤翼，主唱：KiRaRe
 
 ### 各話列表
 
@@ -422,13 +447,27 @@
 <td><p>許斌、楊越、Nyki Ikyn</p></td>
 </tr>
 <tr class="odd">
+<td><p>#11</p></td>
 <td></td>
+<td><p>爛詩就是爛詩</p></td>
+<td><p>浦畑達彥</p></td>
+<td><p>葛谷直行</p></td>
+<td><p>小野田雄亮</p></td>
+<td><p>辻村步、手島典子</p></td>
+</tr>
+<tr class="even">
+<td><p>#12</p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>這就是我們</p></td>
+<td><p>富田賴子</p></td>
+<td><p>於地紘仁<br />
+片貝慎</p></td>
+<td><p>鹿谷拓史<br />
+片貝慎</p></td>
+<td><p>野田智弘、鈴木彩乃<br />
+江口麻里、東美帆<br />
+北條裕之、原田練氣<br />
+山口保則、工藤慎也</p></td>
 </tr>
 </tbody>
 </table>

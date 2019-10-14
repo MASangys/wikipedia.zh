@@ -1,4 +1,4 @@
-《**X射線營地**》（英語：Camp X-Ray），又名《**戰犯風暴**》，是2014年的美國獨立[劇情片](https://zh.wikipedia.org/wiki/劇情片 "wikilink")，根據[關塔那摩灣拘押中心的X射線營地拘留設施拍攝](https://zh.wikipedia.org/wiki/關塔那摩灣拘押中心 "wikilink")。電影是由彼得·薩特勒（Peter Sattler）編導，[克莉絲汀·史都華](../Page/克莉絲汀·史都華.md "wikilink")、佩曼·莫阿迪（Peyman Moaadi）主演，約翰·卡羅爾·林奇、約瑟朱利安·索里亞，及[萊恩·加里森參演](https://zh.wikipedia.org/wiki/萊恩·加里森 "wikilink")。
+是2014年的美國獨立[劇情片](https://zh.wikipedia.org/wiki/劇情片 "wikilink")，根據[關塔那摩灣拘押中心的X射線營地拘留設施拍攝](https://zh.wikipedia.org/wiki/關塔那摩灣拘押中心 "wikilink")。電影是由彼得·薩特勒（Peter Sattler）編導，[克莉絲汀·史都華](../Page/克莉絲汀·史都華.md "wikilink")、佩曼·莫阿迪（Peyman Moaadi）主演，約翰·卡羅爾·林奇、約瑟朱利安·索里亞，及[萊恩·加里森參演](https://zh.wikipedia.org/wiki/萊恩·加里森 "wikilink")。
 
 電影以美國戲劇競賽組別於2014年1月17日在[聖丹斯電影節](https://zh.wikipedia.org/wiki/聖丹斯電影節 "wikilink")2014上映，並於2014年10月17日由IFC電影公司發布。
 

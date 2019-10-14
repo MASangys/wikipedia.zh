@@ -227,4 +227,4 @@
 2.  [BTOB 將在5月21日來台開唱！](https://www.kpopn.com/2017/03/21/btob-%e5%b0%87%e5%9c%a85%e6%9c%8821%e6%97%a5%e4%be%86%e5%8f%b0%e9%96%8b%e5%94%b1%ef%bc%81/) 2017-12-01 KPOPN
 3.  [美聲天才BTOB名不虛傳 陸星材重現《鬼怪》場面引尖叫](http://www.koreastardaily.com/tc/news/94713) 2017-05-22 韓星網
 4.  [BTOB 7月14日再度赴港開唱](https://www.kpopn.com/2017/07/15/btob-%e9%a6%99%e6%b8%af%e9%96%8b%e5%94%b1%ef%bc%8cpeniel-%e9%a6%96%e5%94%b1%e5%80%8b%e4%ba%ba%e5%96%ae%e6%9b%b2/) 2017-12-01 KPOPN
-5.  [BTOB 香港開唱，Peniel 首唱個人單曲](https://kpopn.niusnews.com/=K321wf83) 2017-07-18 KPOPN
+5.  [BTOB 香港開唱，Peniel 首唱個人單曲](https://kpopn.niusnews.com/=K321wf83)  2017-07-18 KPOPN

@@ -239,7 +239,7 @@
   -
     **「」**（第1 - 13話）
       -
-        作詞、作曲、編曲：[kz](https://zh.wikipedia.org/wiki/livetune "wikilink")，歌：[ClariS](../Page/ClariS.md "wikilink")
+        作詞、作曲、編曲：[kz](https://zh.wikipedia.org/wiki/livetune "wikilink")，主唱：[ClariS](../Page/ClariS.md "wikilink")
     **「Shapeless」**（第14話 - 24話）
       -
         作詞、作曲、編曲：kz，主唱：[東京勁舞娃娃](../Page/東京勁舞娃娃.md "wikilink")

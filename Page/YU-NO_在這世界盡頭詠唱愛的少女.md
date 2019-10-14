@@ -1,10 +1,10 @@
-是[élf公司在](https://zh.wikipedia.org/wiki/élf "wikilink")1996年12月26日發售的[文字冒險類型](https://zh.wikipedia.org/wiki/文字冒險 "wikilink")[美少女](../Page/美少女遊戲.md "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]。遊戲曾兩度改篇為動畫；4集的成人動畫版在1998年由Pink Pineapple發售\[2\]，26集的電視動畫版則在2019年4月2日開始播放\[3\]\[4\]。
+是[élf公司在](https://zh.wikipedia.org/wiki/élf "wikilink")1996年12月26日發售的[文字冒險類型](https://zh.wikipedia.org/wiki/文字冒險 "wikilink")[美少女](../Page/美少女遊戲.md "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]。遊戲曾兩度改篇為動畫；4集的成人動畫版在1998年由Pink Pineapple發售\[2\]，電視動畫版則在2019年4月2日開始播放，預計撥放26集\[3\]\[4\]。
 
 2014年1月[MAGES.從élf公司取得版權後於同年](../Page/5pb..md "wikilink")12月28日宣布重製版企劃\[5\]，2017年3月16日在[PlayStation 4和](../Page/PlayStation_4.md "wikilink")[PlayStation Vita平台上推出重製版遊戲](../Page/PlayStation_Vita.md "wikilink")，由旗下團隊ASADA PROJECTS負責製作\[6\]。
 
-## 概要
+## 版本
 
-遊戲分為PC-98版、[世嘉土星](../Page/世嘉土星.md "wikilink")版、[Windows版和重製版](https://zh.wikipedia.org/wiki/Windows "wikilink")4個版本。
+遊戲分為PC-98版、[世嘉土星](../Page/世嘉土星.md "wikilink")版、[Windows版和重製版四個版本](https://zh.wikipedia.org/wiki/Windows "wikilink")。
 
   - PC-98版
     1996年12月26日作為成人向遊戲發售。élf會社在MS-DOS所開發的遊戲，考慮到用戶使用的環境不一樣，最後一次準備[磁碟版與CD](https://zh.wikipedia.org/wiki/磁碟 "wikilink")-ROM版。CD-ROM版收入了本篇中新改編的BGM，遊戲內容並無差異。
@@ -137,6 +137,9 @@
   -
     聲：[木野日菜](../Page/木野日菜.md "wikilink")
     僅電視動畫登場，看似是位粉紅短髮少女，實為帝都設置的人工AI，向反抗軍眾人揭示德拉格蘭特世界的真相與說明
+  -
+    聲：[甲斐田裕子](../Page/甲斐田裕子.md "wikilink")
+    僅電視動畫登場，德拉格蘭特世界的創造主
 
 ## OVA
 
@@ -213,7 +216,7 @@
 
 :: 填詞、作曲：[志倉千代丸](../Page/志倉千代丸.md "wikilink")，編曲：悠木真一，主唱：[亞咲花](../Page/亞咲花.md "wikilink")
 
-:; 「MOTHER」（異世界篇第18話－）
+:; 「MOTHER」（異世界篇第18話－第26話）
 
   -
 
@@ -226,7 +229,7 @@
 
 :: 填詞、作曲：志倉千代丸，編曲：白戶佑輔，主唱：[鈴木KONOMI](../Page/鈴木KONOMI.md "wikilink")
 
-:; 「」（異世界篇第18話－）
+:; 「」（異世界篇第18話－第26話）
 
   -
 
@@ -551,18 +554,45 @@
 清水直樹、日高真由美<br />
 山崎正和、佐藤元昭<br />
 立田眞一、前田義宏<br />
-柳川沙樹 &lt;!--|-</p></td>
-<td><p>第25話</p></td>
+柳川沙樹</p></td>
+<td></td>
 </tr>
 <tr class="odd">
+<td><p>第25話</p></td>
+<td></td>
+<td><p>如約而至的儀式</p></td>
+<td><p>猪原健太</p></td>
+<td><p>平川哲生</p></td>
+<td><p>髙橋謙仁</p></td>
+<td><p>立田眞一、北村友幸<br />
+川島尚、森悦史<br />
+山崎正和、佐藤元昭<br />
+袴田裕二、山本篤史</p></td>
+<td><p>藤崎賢二、枡田邦彰<br />
+高原修司</p></td>
+</tr>
+<tr class="even">
 <td><p>第26話</p></td>
 <td></td>
+<td><p>在這世界盡頭詠唱愛的少女</p></td>
+<td><p>平川哲生</p></td>
+<td><p>山中祥平</p></td>
+<td><p>日高真由美、清水直樹<br />
+村上直紀、細田沙織<br />
+高原修司、佐藤元昭<br />
+金井裕子、穂積彩夏、柳川沙樹</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td><p>--&gt;</p></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -590,9 +620,7 @@
   -
   -
   -
-[分類:1996年日本成人遊戲](https://zh.wikipedia.org/wiki/分類:1996年日本成人遊戲 "wikilink") [分類:1997年電子遊戲](https://zh.wikipedia.org/wiki/分類:1997年電子遊戲 "wikilink") [分類:PC-9801遊戲](https://zh.wikipedia.org/wiki/分類:PC-9801遊戲 "wikilink") [分類:Windows遊戲](https://zh.wikipedia.org/wiki/分類:Windows遊戲 "wikilink") [分類:世嘉土星遊戲](https://zh.wikipedia.org/wiki/分類:世嘉土星遊戲 "wikilink") [分類:PlayStation 4遊戲](https://zh.wikipedia.org/wiki/分類:PlayStation_4遊戲 "wikilink") [分類:PlayStation Vita遊戲](https://zh.wikipedia.org/wiki/分類:PlayStation_Vita遊戲 "wikilink") [分類:美少女遊戲](https://zh.wikipedia.org/wiki/分類:美少女遊戲 "wikilink") [分類:月刊GFantasy](https://zh.wikipedia.org/wiki/分類:月刊GFantasy "wikilink") [分類:平行世界題材遊戲](https://zh.wikipedia.org/wiki/分類:平行世界題材遊戲 "wikilink") [分類:平行世界題材動畫](https://zh.wikipedia.org/wiki/分類:平行世界題材動畫 "wikilink")
-
-[Category:1998年日本成人動畫](https://zh.wikipedia.org/wiki/Category:1998年日本成人動畫 "wikilink") [Category:亂倫題材遊戲](https://zh.wikipedia.org/wiki/Category:亂倫題材遊戲 "wikilink") [Category:日本成人遊戲改編電視動畫](https://zh.wikipedia.org/wiki/Category:日本成人遊戲改編電視動畫 "wikilink") [Category:2019年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2019年日本電視動畫 "wikilink") [Category:Feel.](https://zh.wikipedia.org/wiki/Category:Feel. "wikilink")
+[分類:1996年日本成人遊戲](https://zh.wikipedia.org/wiki/分類:1996年日本成人遊戲 "wikilink") [分類:1997年電子遊戲](https://zh.wikipedia.org/wiki/分類:1997年電子遊戲 "wikilink") [分類:PC-9801遊戲](https://zh.wikipedia.org/wiki/分類:PC-9801遊戲 "wikilink") [分類:Windows遊戲](https://zh.wikipedia.org/wiki/分類:Windows遊戲 "wikilink") [分類:世嘉土星遊戲](https://zh.wikipedia.org/wiki/分類:世嘉土星遊戲 "wikilink") [分類:PlayStation 4遊戲](https://zh.wikipedia.org/wiki/分類:PlayStation_4遊戲 "wikilink") [分類:PlayStation Vita遊戲](https://zh.wikipedia.org/wiki/分類:PlayStation_Vita遊戲 "wikilink") [分類:任天堂Switch遊戲](https://zh.wikipedia.org/wiki/分類:任天堂Switch遊戲 "wikilink") [分類:Steam商店遊戲](https://zh.wikipedia.org/wiki/分類:Steam商店遊戲 "wikilink") [分類:美少女遊戲](https://zh.wikipedia.org/wiki/分類:美少女遊戲 "wikilink") [分類:月刊GFantasy](https://zh.wikipedia.org/wiki/分類:月刊GFantasy "wikilink") [分類:1998年日本成人動畫](https://zh.wikipedia.org/wiki/分類:1998年日本成人動畫 "wikilink") [分類:日本成人遊戲改編電視動畫](https://zh.wikipedia.org/wiki/分類:日本成人遊戲改編電視動畫 "wikilink") [分類:2019年日本電視動畫](https://zh.wikipedia.org/wiki/分類:2019年日本電視動畫 "wikilink") [分類:Feel.](https://zh.wikipedia.org/wiki/分類:Feel. "wikilink") [分類:亂倫題材遊戲](https://zh.wikipedia.org/wiki/分類:亂倫題材遊戲 "wikilink") [分類:平行世界題材遊戲](https://zh.wikipedia.org/wiki/分類:平行世界題材遊戲 "wikilink") [分類:異世界轉生、轉移題材作品](https://zh.wikipedia.org/wiki/分類:異世界轉生、轉移題材作品 "wikilink")
 
 1.
 2.

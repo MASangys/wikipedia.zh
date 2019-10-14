@@ -24,7 +24,7 @@
 
 ## 任务
 
-任务计划程序按各项受管理的任务运作。任务会在特定条件下以执行操作响应。<span class="cx-segment" data-segmentid="228"></span>定义一个任务可以关联一系列操作，其中可以包括启动应用程序或采取其他自定义操作，to a set of triggers, which can either基于时间或基于事件。此外，一个任务也可以包含定义如何执行操作的元数据，例如任务将在哪个安全上下文运行。任务被序列化为`.job`文件并存储在名为“任务文件夹”的[特殊文件夹中](https://zh.wikipedia.org/wiki/特殊文件夹 "wikilink")。在编程角度，任务文件夹可以使用`ITaskFolder`接口或`TaskFolder`脚本对象访问，单个任务可以使用`IRegisteredTask`接口或`RegisteredTask`对象访问。\[15\]
+任务计划程序按各项受管理的任务运作。任务会在特定条件下以执行操作响应。<span class="cx-segment" data-segmentid="228"></span>定义一个任务可以关联一系列操作，其中可以包括启动应用程序或采取其他自定义操作，to a set of triggers, which can either基于时间或基于事件。此外，一个任务也可以包含定义如何执行操作的元数据，例如任务将在哪个安全上下文运行。任务被序列化为`.job`文件并存储在名为“任务文件夹”的[特殊文件夹](../Page/特殊文件夹.md "wikilink")中。在编程角度，任务文件夹可以使用`ITaskFolder`接口或`TaskFolder`脚本对象访问，单个任务可以使用`IRegisteredTask`接口或`RegisteredTask`对象访问。\[15\]
 
 ## 软件缺陷
 

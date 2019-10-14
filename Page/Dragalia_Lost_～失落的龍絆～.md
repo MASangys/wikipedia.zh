@@ -142,6 +142,8 @@
   -
   -
   -
+  - [失落的龍絆情報](http://game155.com/forum-97-1.html)
+
 [Category:2018年電子遊戲](https://zh.wikipedia.org/wiki/Category:2018年電子遊戲 "wikilink") [Category:動作角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:動作角色扮演遊戲 "wikilink") [Category:Cygames遊戲](https://zh.wikipedia.org/wiki/Category:Cygames遊戲 "wikilink") [Category:任天堂企劃製作本部遊戲](https://zh.wikipedia.org/wiki/Category:任天堂企劃製作本部遊戲 "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:iOS遊戲](https://zh.wikipedia.org/wiki/Category:iOS遊戲 "wikilink") [Category:日本開發電子遊戲](https://zh.wikipedia.org/wiki/Category:日本開發電子遊戲 "wikilink") [Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink") [Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink")
 
 1.

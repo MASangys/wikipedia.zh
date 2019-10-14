@@ -808,7 +808,7 @@
 
   - ※[朝日電視台](../Page/朝日電視台.md "wikilink")版。
 
-  - （Zeagan的隨扈）※朝日電視台版。
+  - （Zagon的屬下）※朝日電視台版。
 
   - [無底洞](https://zh.wikipedia.org/wiki/深淵_\(電影\) "wikilink")（Richard Warlock〈Dwight Perry 飾演〉）※影碟版。
 
@@ -924,7 +924,8 @@
 
   - ※影碟版。
 
-  -
+  - ※朝日電視台版。
+
   - [豺狼的日子](../Page/豺狼的日子.md "wikilink") ※東京電視台版。
 
   - （Chief Dennis Wilson〈Mark Rolston 飾演〉）※朝日電視台版。

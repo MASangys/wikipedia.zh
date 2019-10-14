@@ -24,18 +24,6 @@
 
 根據2019年，東京電玩展北瀨訪問中表示，《FFVII》相隔 22 年以「重製版」問世，開發規模被視為《FF》系列本傳等級。並強調三項重製精神：革新、挑戰極限、帶來驚喜，以符合新時代玩家的需要。其中，全新戰鬥自回合制改以指令制導向的「ATB」（Active Time Battle），遵循《FFVII》原作，注重戰鬥性為原則，除攻擊動作之外，選擇道具、指令進入根目錄時，輔以緩慢流逝時間，打造 RPG 感遊玩感。\[31\]
 
-## 故事
-
-抽取自星球的生命能源──「魔晄」。
-
-在魔晄都市「米德加」，這個擁有八座魔晄爐的階層都市，藉由魔晄掌握世界的巨大企業「神羅公司」與為了保護星球挺身而出的反神羅組織「雪崩」爆發激烈衝突。
-
-前神羅戰士克勞德，以傭兵的身份參加 雪崩的「壹號魔晄爐引爆作戰」。魔晄爐爆炸的巨響響徹第八區。陷入火海的城鎮中，出現那位已故死敵飄渺的幻影。克勞德追著渴望消滅的昔日幻影，最後與她相遇。
-
-賣花女遞出一朵黃花，花語是「重逢」。 這瞬間，一團黑影──「命運守望者」將兩人包圍。
-
-現在，心念將再次於星球流轉
-
 ## 参考文献
 
 [Category:2020年电子游戏](https://zh.wikipedia.org/wiki/Category:2020年电子游戏 "wikilink") [Category:PlayStation_4遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_4遊戲 "wikilink") [Category:PlayStation_4獨占遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_4獨占遊戲 "wikilink") [Category:复刻游戏](https://zh.wikipedia.org/wiki/Category:复刻游戏 "wikilink") [Category:最終幻想VII](https://zh.wikipedia.org/wiki/Category:最終幻想VII "wikilink") [Category:最终幻想系列电子游戏](https://zh.wikipedia.org/wiki/Category:最终幻想系列电子游戏 "wikilink") [Category:蒸汽朋克电子游戏](https://zh.wikipedia.org/wiki/Category:蒸汽朋克电子游戏 "wikilink") [Category:赛博朋克电子游戏](https://zh.wikipedia.org/wiki/Category:赛博朋克电子游戏 "wikilink") [Category:虚幻引擎游戏](https://zh.wikipedia.org/wiki/Category:虚幻引擎游戏 "wikilink")

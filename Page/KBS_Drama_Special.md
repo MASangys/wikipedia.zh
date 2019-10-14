@@ -1829,11 +1829,11 @@
 <tr class="even">
 <td><p>1</p></td>
 <td><p>9月27日</p></td>
-<td><p>屋宇屋宙</p></td>
+<td><p>屋友屋主</p></td>
 <td><p>、</p></td>
 <td><p>李江</p></td>
 <td><p>李賢碩</p></td>
-<td><p>%</p></td>
+<td><p>1.2%</p></td>
 </tr>
 <tr class="odd">
 <td><p>2</p></td>

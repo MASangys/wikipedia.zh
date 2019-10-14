@@ -146,6 +146,9 @@
       - [小米8 SE](../Page/小米8_SE.md "wikilink")（2019年1月25日）
       - 小米Max 3（2019年2月23日）
       - 小米8 青春版（不限量公测，2019年1月10日）
+
+<!-- end list -->
+
   - [华为](../Page/华为.md "wikilink") [EMUI](../Page/EMUI.md "wikilink") 9.0
       - [华为P20系列](../Page/华为P20系列.md "wikilink")（2018年11月10日\[13\]）
       - [华为Mate 10系列](../Page/华为Mate_10系列.md "wikilink")（2018年11月10日\[14\]）
@@ -166,16 +169,28 @@
       - 荣耀8X（2019年3月5日）
       - 华为畅享9 Plus（不限量公测，2019年3月4日）
       - 华为Nova 3e（不限量公测，2019年3月4日）
+
+<!-- end list -->
+
   - [OPPO](../Page/OPPO.md "wikilink") [ColorOS](../Page/ColorOS.md "wikilink") 6（公测为不限量，但不开放新的公测名额）
       - OPPO R15梦镜版（不限量半公测，2018年12月29日）
       - [OPPO R15](https://zh.wikipedia.org/wiki/OPPO_R15 "wikilink")（不限量半公測，2019年1月12日）
+
+<!-- end list -->
+
   - [一加](../Page/一加.md "wikilink") [氢OS](../Page/氢OS.md "wikilink")
       - [一加6](https://zh.wikipedia.org/wiki/一加6 "wikilink")（国际版2018年9月21日/国内版2018年9月30日）
+
+<!-- end list -->
+
   - [Vivo](../Page/Vivo.md "wikilink") [Funtouch OS](https://zh.wikipedia.org/wiki/Funtouch_OS "wikilink") 4.5\[18\]
       - Vivo X21（不限量公测，2019年1月8日）
       - Vivo X21UD（不限量公测，2019年1月8日）
       - [Vivo NEX](../Page/Vivo_NEX.md "wikilink") A（标准版/屏下指纹版）（不限量公测，2019年1月8日）
       - Vivo NEX S（旗舰版）（不限量公测，2019年1月8日）
+
+<!-- end list -->
+
   - 三星 [One UI](../Page/One_UI.md "wikilink") 1.0 \[19\]
       - [三星Galaxy S9+](../Page/三星Galaxy_S9.md "wikilink")（2019年2月14日）
       - [三星Galaxy S9](../Page/三星Galaxy_S9.md "wikilink")（2019年2月14日）
@@ -183,16 +198,22 @@
       - [三星Galaxy Note8](../Page/三星Galaxy_Note_8.md "wikilink")（2019年4月2日）
       - [三星Galaxy S8](../Page/三星Galaxy_S8.md "wikilink")（2019年4月3日）
       - [三星Galaxy S8+](../Page/三星Galaxy_S8.md "wikilink")（2019年4月3日）
-      - [三星Galaxy A9 (2018)](../Page/三星Galaxy_A9_\(2018\).md "wikilink")(2019年4月25日)
-      - [三星Galaxy A6+](../Page/三星Galaxy_A6_\(2018\).md "wikilink")(2019年4月26日)
-      - [三星Galaxy A8+ (2018)](https://zh.wikipedia.org/wiki/三星Galaxy_A8+_\(2018\) "wikilink")(2019年5月2日)
-      - [三星Galaxy A7 (2018)](../Page/三星Galaxy_A7_\(2018\).md "wikilink")(2019年5月3日)
-      - [Samsung Galaxy Tab S4](../Page/Samsung_Galaxy_Tab_S4.md "wikilink") WiFi (2019年5月7日)
-      - [Samsung Galaxy Tab S4](../Page/Samsung_Galaxy_Tab_S4.md "wikilink") LTE (2019年5月20日)
-      - [三星Galaxy J4+](https://zh.wikipedia.org/wiki/三星Galaxy_J4+ "wikilink")（非J4 2018）(2019年5月27日)
-      - [三星Galaxy J6 (2018)](../Page/三星Galaxy_J6_\(2018\).md "wikilink")(2019年5月28日)
-      - [三星Galaxy A8 Star](https://zh.wikipedia.org/wiki/三星Galaxy_A8_Star "wikilink")(2019年6月14日)
-      - [三星Galaxy A8s](../Page/三星Galaxy_A8s.md "wikilink")(2019年6月14日)
+      - [三星Galaxy A9 (2018)](../Page/三星Galaxy_A9_\(2018\).md "wikilink")（2019年4月25日）
+      - [三星Galaxy A6+](../Page/三星Galaxy_A6_\(2018\).md "wikilink")（2019年4月26日）
+      - [三星Galaxy A8+ (2018)](https://zh.wikipedia.org/wiki/三星Galaxy_A8+_\(2018\) "wikilink")（2019年5月2日）
+      - [三星Galaxy A7 (2018)](../Page/三星Galaxy_A7_\(2018\).md "wikilink")（2019年5月3日）
+      - [Samsung Galaxy Tab S4](../Page/Samsung_Galaxy_Tab_S4.md "wikilink") WiFi （2019年5月7日）
+      - [Samsung Galaxy Tab S4](../Page/Samsung_Galaxy_Tab_S4.md "wikilink") LTE （2019年5月20日）
+      - [三星Galaxy J4+](https://zh.wikipedia.org/wiki/三星Galaxy_J4+ "wikilink")（2019年5月27日）
+      - [三星Galaxy J6 (2018)](../Page/三星Galaxy_J6_\(2018\).md "wikilink")（2019年5月28日）
+      - [三星Galaxy A8 Star](https://zh.wikipedia.org/wiki/三星Galaxy_A8_Star "wikilink")（2019年6月14日）
+      - [三星Galaxy A8s](../Page/三星Galaxy_A8s.md "wikilink")（2019年6月14日）
+      - [三星Galaxy Tab S3](../Page/三星Galaxy_Tab_S3.md "wikilink")（2019年9月17日）
+
+<!-- end list -->
+
+  - [卡特彼勒](../Page/卡特彼勒.md "wikilink")
+      - [Caterpillar S61](https://zh.wikipedia.org/wiki/Caterpillar_S61 "wikilink")(2019年9月27日)
 
 ## 参见
 

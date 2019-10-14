@@ -1,6 +1,6 @@
 **Sony Xperia XZ Premium**是[索尼行動通訊於](https://zh.wikipedia.org/wiki/索尼行動通訊 "wikilink")2017年2月27日發布的旗艦手機\[1\]\[2\]，乃繼[Sony Xperia Z5 Premium後第二部搭载](../Page/Sony_Xperia_Z5_Premium.md "wikilink")[4K解析度](../Page/4K解析度.md "wikilink")的機型。同期競爭對手為[Samsung Galaxy S8](../Page/三星Galaxy_S8.md "wikilink")、[HTC U11](../Page/HTC_U11.md "wikilink")、[iPhone 8及](https://zh.wikipedia.org/wiki/iPhone_8 "wikilink")[LG G6](../Page/LG_G6.md "wikilink")。
 
-Xperia XZ Premium配备5.5吋4K [HDR屏幕](https://zh.wikipedia.org/wiki/高動態範圍成像 "wikilink")、高通[骁龙](https://zh.wikipedia.org/wiki/骁龙 "wikilink")835处理器，4GB RAM及64GB UFS存储，支持IP65/68防水防尘。摄像头為Motion Eye系统，支援960fps（720P）[超慢镜头视频拍摄及](https://zh.wikipedia.org/wiki/高速攝影 "wikilink")0.03秒混合对焦，推出時作業系統是[Android 7.1.1 Nougat](../Page/Android_Nougat.md "wikilink")。
+Xperia XZ Premium配备5.5吋4K [HDR屏幕](https://zh.wikipedia.org/wiki/高動態範圍成像 "wikilink")、高通[骁龙](https://zh.wikipedia.org/wiki/骁龙 "wikilink")835处理器，4GB RAM及64GB UFS存储，支持IP65/68防水防尘。摄像头為Motion Eye系统，支援960fps（1080P）[超慢镜头视频拍摄及](https://zh.wikipedia.org/wiki/高速攝影 "wikilink")0.03秒混合对焦，推出時作業系統是[Android 7.1.1 Nougat](../Page/Android_Nougat.md "wikilink")。
 
 该机获[MWC](https://zh.wikipedia.org/wiki/MWC "wikilink")2017最佳新机奖\[3\]。
 

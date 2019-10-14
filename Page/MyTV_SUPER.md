@@ -1854,7 +1854,7 @@ Active Raid－機動強襲室第八係－ 2nd</a></p></td>
 
 <!-- end list -->
 
-  - 9月1日，myTV SUPER 18台（18頻道）啟播，並免費至2020年2月29日。同日，王者榮耀電競（666頻道）停播。
+  - 9月1日，myTV SUPER 18台（18頻道）啟播，並免費至2020年2月29日。
 
 ## 頻道列表
 
@@ -2297,13 +2297,21 @@ Active Raid－機動強襲室第八係－ 2nd</a></p></td>
 <td><p><a href="http://www.mytvsuper.com/tc/epg/STV">myTV SUPER節目表</a>／<a href="http://www.winmoney.hk/">港股策略王網站</a></p></td>
 </tr>
 <tr class="even">
+<td><p>666</p></td>
+<td><p>王者榮耀電競*<br />
+</p></td>
+<td><p>2019年7月20日</p></td>
+<td><p><a href="http://www.mytvsuper.com/tc/epg/KPL">myTV SUPER節目表</a>／<a href="https://www.vspn.com/">王者榮耀電競網站</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><strong>新聞</strong>（7XX）</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>700</p></td>
 <td><p>無綫新聞台<br />
 </p></td>
@@ -2311,7 +2319,7 @@ Active Raid－機動強襲室第八係－ 2nd</a></p></td>
 <td></td>
 <td><p><a href="http://www.mytvsuper.com/tc/epg/CTN2">myTV SUPER節目表</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>701</p></td>
 <td><p><a href="../Page/神州新聞台.md" title="wikilink">神州新聞台</a><br />
 </p></td>
@@ -2319,7 +2327,7 @@ Active Raid－機動強襲室第八係－ 2nd</a></p></td>
 <td><p>基本頻道</p></td>
 <td><p><a href="http://www.mytvsuper.com/tc/epg/CMN1">myTV SUPER節目表</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>702</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/無線衛星新聞台" title="wikilink">無線衛星新聞台</a><br />
 </p></td>
@@ -2327,7 +2335,7 @@ Active Raid－機動強襲室第八係－ 2nd</a></p></td>
 <td><p><a href="http://www.mytvsuper.com/tc/epg/CTSN">myTV SUPER節目表</a>／<a href="http://news.tvbs.com.tw/">無線衛星新聞台官方網站</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>703</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/亞洲新聞台" title="wikilink">亞洲新聞台</a><br />
 </p></td>
@@ -2335,7 +2343,7 @@ Active Raid－機動強襲室第八係－ 2nd</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>704</p></td>
 <td><p><a href="../Page/半島電視台英語頻道.md" title="wikilink">半島電視台英語頻道</a><br />
 </p></td>
@@ -2343,35 +2351,35 @@ Active Raid－機動強襲室第八係－ 2nd</a></p></td>
 <td><p><a href="http://www.mytvsuper.com/tc/epg/CJAZ">myTV SUPER節目表</a>／<a href="http://www.aljazeera.com/">半島電視台英語頻道官方網站</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>705</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/France_24" title="wikilink">France 24</a></p></td>
 <td><p>精選基本頻道</p></td>
 <td><p><a href="http://www.mytvsuper.com/tc/epg/CF24">myTV SUPER節目表</a>／<a href="http://www.france24.com/">France 24官方網站</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>706</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/德國之聲" title="wikilink">DW</a></p></td>
 <td><p><a href="http://www.mytvsuper.com/tc/epg/CDW1">myTV SUPER節目表</a>／<a href="http://www.dw.com/">DW官方網站</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>707</p></td>
 <td><p><a href="../Page/NHK_World-Japan_(頻道).md" title="wikilink">NHK World-Japan</a></p></td>
 <td><p><a href="http://www.mytvsuper.com/tc/epg/CNHK">myTV SUPER節目表</a>／<a href="http://www3.nhk.or.jp/nhkworld/en/tv/">NHK World-Japan官方網站</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>708</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Arirang_TV" title="wikilink">Arirang TV</a></p></td>
 <td><p><a href="http://www.mytvsuper.com/tc/epg/CARI">myTV SUPER節目表</a>／<a href="http://www.arirang.com/">Arirang TV官方網站</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>709</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/BBC_World_News" title="wikilink">BBC World News</a></p></td>
 <td><p>2016年11月14日</p></td>
@@ -2666,15 +2674,6 @@ Travel</p></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>666</p></td>
-<td><p>王者榮耀電競<br />
-</p></td>
-<td><p>2019年7月20日</p></td>
-<td><p>2019年9月1日</p></td>
-<td><p>王者榮耀電競與myTV SUPER合約結束</p></td>
 <td></td>
 </tr>
 </tbody>

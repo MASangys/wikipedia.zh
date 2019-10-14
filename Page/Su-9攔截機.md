@@ -49,7 +49,7 @@ Su-9由蘇聯中央空氣動力學研究於朝鮮戰爭時期開發設計，該�
   - [Su-9 from Global Aircraft](http://www.globalaircraft.org/planes/su-9_fishpot.pl)
   - [Su-9 from FAS](http://www.fas.org/nuke/guide/russia/airdef/su-9.htm)
 
-[Category:苏霍伊飞机](https://zh.wikipedia.org/wiki/Category:苏霍伊飞机 "wikilink") [Category:蘇聯戰鬥機](https://zh.wikipedia.org/wiki/Category:蘇聯戰鬥機 "wikilink") [Category:俄羅斯戰鬥機](https://zh.wikipedia.org/wiki/Category:俄羅斯戰鬥機 "wikilink")
+[Category:苏霍伊飞机](https://zh.wikipedia.org/wiki/Category:苏霍伊飞机 "wikilink") [Category:蘇聯戰鬥機](https://zh.wikipedia.org/wiki/Category:蘇聯戰鬥機 "wikilink") [Category:俄羅斯戰鬥機](https://zh.wikipedia.org/wiki/Category:俄羅斯戰鬥機 "wikilink") [Category:單發噴射機](https://zh.wikipedia.org/wiki/Category:單發噴射機 "wikilink")
 
 1.  [\[1\]](http://www.flightglobal.com/airspace/forums/f-4-a-phantom-16-world-records-9328.aspx)
 2.

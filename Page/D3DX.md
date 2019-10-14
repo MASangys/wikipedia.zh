@@ -1,4 +1,4 @@
-**D3DX**（Direct3D Extension）是一个已不推荐使用的高层[API库](../Page/应用程序接口.md "wikilink")，它旨在补充[微软](../Page/微软.md "wikilink")[Direct3D](../Page/Direct3D.md "wikilink")图形API。D3DX库在[Direct3D 7中被引入](../Page/Direct3D.md "wikilink")，并在之后的[Direct3D 9中得到改进](../Page/Direct3D.md "wikilink")。它为常见的在矢量、矩阵和颜色上计算外观和投影矩阵、样条插值以及其他一些更复杂的任务（诸如编译或组合用于3D图形编程的着色器、压缩骨架动画存储和矩阵堆栈）提供了类。它还为3D网格的复杂操作提供了函数，如切线空间计算、网格简化、预计算辐射传输、顶点缓存友好性优化和条带重排序，以及3D文本网格的生成器。2D特性包括绘制屏幕空间线条、基于文本和精灵的粒子系统的类。空间函数包括各种交叉例程、转换重心坐标和边界框/球生成器。
+**D3DX**（Direct3D Extension）是一个已不推荐使用的高层[API库](../Page/应用程序接口.md "wikilink")，它旨在补充[微软](../Page/微软.md "wikilink")[Direct3D](../Page/Direct3D.md "wikilink")图形API。D3DX库在[Direct3D 7中被引入](../Page/Direct3D.md "wikilink")，并在之后的[Direct3D 9中得到改进](../Page/Direct3D.md "wikilink")。它为常见的在矢量、矩阵和颜色上计算外观和投影矩阵、样条插值以及其他一些更复杂的任务（诸如编译或组合用于3D图形编程的着色器、压缩骨架动画存储和矩阵堆栈）提供了类。它还为3D网格的复杂操作提供了函数，如切线空间计算、网格简化、预计算辐射传输、[顶点缓存友好性优化和条带重排序](../Page/頂點_\(電腦圖學\).md "wikilink")，以及3D文本网格的生成器。2D特性包括绘制屏幕空间线条、基于文本和精灵的粒子系统的类。空间函数包括各种交叉例程、转换重心坐标和边界框/球生成器。
 
 D3DX库包含众多预先编写的例程，适用于大多数2D/3D应用程序（例如游戏）所需的常见操作。因为[Direct3D](../Page/Direct3D.md "wikilink") [API相对底层](../Page/应用程序接口.md "wikilink")，所以使用D3DX库通常简单许多。
 
@@ -22,7 +22,7 @@ ID3DXLine接口可用于绘制特定模式的抗锯齿屏幕空间线。
 
 ### ID3DXMesh
 
-ID3DXMesh接口用于存储网格，和为顶点缓存友好性进行网格优化和条带化重排序。D3DX中的部分函数在此接口上操作。例如用于为正常和视差映射等效果创建切线空间框架的D3DXComputeTangentFrame。这个类的一个后代是可以进行几何简化的ID3DXPMesh。
+ID3DXMesh接口用于存储网格，和为[顶点缓存友好性进行网格优化和条带化重排序](../Page/頂點_\(電腦圖學\).md "wikilink")。D3DX中的部分函数在此接口上操作。例如用于为正常和视差映射等效果创建切线空间框架的D3DXComputeTangentFrame。这个类的一个后代是可以进行几何简化的ID3DXPMesh。
 
 ### ID3DXPRTEngine
 

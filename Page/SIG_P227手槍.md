@@ -93,15 +93,15 @@ P227與P226一樣，都將操作部件設在槍身左側，位於滑套以下。
   - [SIG P229](../Page/SIG_P229手槍.md "wikilink")
   - [SIG P245](https://zh.wikipedia.org/wiki/SIG_P245手槍 "wikilink")
   - [SIG GSR](../Page/SIG_M1911手槍.md "wikilink")（SIG M1911）
-  - [貝瑞塔Px4 Storm手槍](../Page/貝瑞塔Px4_Storm手槍.md "wikilink")
-  - [CZ-97手槍](https://zh.wikipedia.org/wiki/CZ-97手槍 "wikilink")
+  - [貝瑞塔Px4 Storm半自動手槍](../Page/貝瑞塔Px4_Storm半自動手槍.md "wikilink")
+  - [CZ 97手槍](../Page/CZ_97手槍.md "wikilink")
   - [FN FNX手槍](../Page/FN_FNX手槍.md "wikilink")
   - [格洛克21](../Page/格洛克21.md "wikilink")／[30](../Page/格洛克30.md "wikilink")／[41](../Page/格洛克41.md "wikilink")
   - [HK USP手槍](../Page/HK_USP手槍.md "wikilink")
   - [HK Mk 23 Mod 0手槍](../Page/HK_Mk_23_Mod_0手槍.md "wikilink")
   - [HK45手槍](../Page/HK45手槍.md "wikilink")
   - [HS2000手槍](../Page/HS2000手槍.md "wikilink")
-  - [春田XDM手槍](../Page/春田XDM手槍.md "wikilink")
+  - [春田XDM半自動手槍](../Page/春田XDM半自動手槍.md "wikilink")
   - [史密斯威森軍警型半自動手槍](../Page/史密斯威森軍警型半自動手槍.md "wikilink")
 
 ## 資料來源

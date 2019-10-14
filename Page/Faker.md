@@ -47,44 +47,15 @@
   - 2017年The Game Awards 年度最佳電競玩家(得獎)
   - 2017年Red Bull's best eSports player of the year 年度最佳電競玩家(得獎)
 
-## 隊伍成績
-
-  - 2013年OGN春季OnGameNet第三名 (SKT)
-  - 2013年OGN夏季HOT6iX第一名 (SKT)
-  - 2013年S3世界大賽第一名 (SKT)
-  - 2014年OGN冬季Pandora.TV第一名 (SKT)
-  - 2014年全明星賽第一名 (SKT)
-  - 2014年ITENJOY NLB夏季賽第一名 (SKT)
-  - 2015年LCK春季季後賽第一名 (SKT)
-  - 2015年S5季中邀請賽第二名 (SKT)
-  - 2015年LCK夏季季後賽第一名 (SKT)
-  - 2015年S5世界大賽第一名 (SKT)
-  - 2016年LCK春季季後賽第一名 (SKT)
-  - 2016年S6季中邀請賽第一名 (SKT)
-  - 2016年LCK夏季季后赛第三名 (SKT)
-  - 2016年S6世界大賽第一名 (SKT)
-  - 2017年LCK春季季後賽第一名 (SKT)
-  - 2017年MSI季中邀請賽第一名 (SKT)
-  - 2017年RiftRival亚洲洲际赛第二名 (SKT)
-  - 2017年LCK夏季季後賽第二名 (SKT)\[15\]
-  - 2017年S7世界大賽第二名 (SKT)\[16\]
-  - 2018年LCK春季季後賽第四名 (SKT)
-  - 2018年RiftRival亚洲洲际赛第二名 (SKT)
-  - 2018年雅加達亞運會電競英雄聯盟項目第二名 (KOREA國家代表隊)
-  - 2019年LCK春季季後賽第一名 (SKT)
-  - 2019年MSI季中邀請賽四強 (SKT)
-  - 2019年RiftRival亚洲洲际赛第一名 (SKT)
-  - 2019年LCK夏季季後賽第一名 (SKT)
-
 ## 名稱由來
 
 李相赫的「Faker」是一個[英語單词](https://zh.wikipedia.org/wiki/英語 "wikilink")，即欺詐者之意，名字的由來可能與他最愛用的英雄勒布朗的稱號詐欺師有關。
 
 ## 人物评价
 
-2016年12月，《[朝鲜日报](https://zh.wikipedia.org/wiki/朝鲜日报 "wikilink")》通过在此之前结束的[英雄联盟2016賽季全球总决赛介绍了](https://zh.wikipedia.org/wiki/英雄联盟2016賽季全球总决赛 "wikilink")[英雄联盟](../Page/英雄联盟.md "wikilink")，并将Faker称为国民级运动员，此外还将Faker的影响力比作[朴智星](../Page/朴智星.md "wikilink")、[金妍儿等运动员](https://zh.wikipedia.org/wiki/金妍儿 "wikilink")。\[17\]
+2016年12月，《[朝鲜日报](https://zh.wikipedia.org/wiki/朝鲜日报 "wikilink")》通过在此之前结束的[英雄联盟2016賽季全球总决赛介绍了](https://zh.wikipedia.org/wiki/英雄联盟2016賽季全球总决赛 "wikilink")[英雄联盟](../Page/英雄联盟.md "wikilink")，并将Faker称为国民级运动员，此外还将Faker的影响力比作[朴智星](../Page/朴智星.md "wikilink")、[金妍儿等运动员](https://zh.wikipedia.org/wiki/金妍儿 "wikilink")。\[15\]
 
-2019年4月，Faker入選《[富比士](https://zh.wikipedia.org/wiki/富比士 "wikilink")》年度傑出青年「30 Under 30」亞洲區傑出青年中的「運動與體育」項目，成為[韓國首位入圍該獎項的](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[英雄聯盟選手](../Page/英雄联盟.md "wikilink")\[18\]
+2019年4月，Faker入選《[富比士](https://zh.wikipedia.org/wiki/富比士 "wikilink")》年度傑出青年「30 Under 30」亞洲區傑出青年中的「運動與體育」項目，成為[韓國首位入圍該獎項的](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[英雄聯盟選手](../Page/英雄联盟.md "wikilink")\[16\]
 
 ## 參考資料
 
@@ -117,5 +88,3 @@
 14.
 15.
 16.
-17.
-18.

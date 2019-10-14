@@ -37,6 +37,8 @@
 
 ### 常規調動
 
+  - 每逢[大年初一](https://zh.wikipedia.org/wiki/大年初一 "wikilink")，因重播《[叱咤樂壇流行榜頒獎典禮](../Page/叱咤樂壇流行榜頒獎典禮.md "wikilink")》，ViuTV會提前或取消播映《午間新聞》。
+  - 每逢[施政報告及](https://zh.wikipedia.org/wiki/施政報告 "wikilink")[財政預算案](../Page/財政預算案.md "wikilink")發表日，如直播超時，ViuTV均會取消播映《午間新聞》。
   - 2019年1月6日至20日：由於星期日12:00-12:30播出《[幪面超人BUILD](../Page/假面騎士Build.md "wikilink")》，該段期間星期日《午間新聞》暫停播映。
   - 2019年1月27日至3月3日：由於星期日12:00-12:30播出《[幪面超人BUILD](../Page/假面騎士Build.md "wikilink")》，該段期間星期日《午間新聞》改為12:30-13:00播出（2月17日改為11:30-12:00播出《新聞報道》及《理財有方》）。
   - 2018年[Now體育](../Page/Now體育.md "wikilink")重新取得[NBA](../Page/NBA.md "wikilink")版權起，ViuTV因直播NBA賽事暫停或延遲播映《午間新聞》。

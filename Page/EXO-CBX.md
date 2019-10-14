@@ -8,6 +8,8 @@
 
 2016年，CHEN、伯賢、XIUMIN 在同年七月舉行的 EXO 第三次單獨演唱會《[EXO PLANET \#3 - The EXO'rDIUM -](../Page/EXOPLANET_＃3_-_The_EXO'rDIUM_-.md "wikilink")》上，以「Reservoir Idols」之名公開 MV 影像，之後便在粉絲間傳出他們會組成子團的傳言，8月10日，三人則為《月之戀人-步步驚心：麗》演唱首波 OST《為了你》 ，獲得粉絲們一片好評。
 
+[161031_첸백시_1주년_3.png](https://zh.wikipedia.org/wiki/File:161031_첸백시_1주년_3.png "fig:161031_첸백시_1주년_3.png")
+
 10月5日，SM娛樂表示EXO成員伯賢、XIUMIN和CHEN 將組成子團並發行專輯\[2\]，22日在官方視頻公開出道預告影片。24日由 CHEN、伯賢、XIUMIN 組成的 EXO 第一個子團 EXO-CBX 將於31日發行首張迷你專輯《Hey Mama\!》出道，並透過官方網站公開子團的動態 LOGO\[3\]。隔天於官方 Vyrl 平台公開首張迷你專輯《Hey Mama\!》的預告照，並以11月3日的 Mnet 音樂節目《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》為起點開始宣傳活動。\[4\]。30日，於S.M.Entertainment 官方 YouTube 頻道公開主打歌《Hey Mama\!》的預告影片。此外，EXO-CBX 將在10月31日零時透過各大線上音源網站公開《Hey Mama\!》音源，當天晚上8點會於 COEX 東側廣場特設舞台，舉辦《EXO-CBX HOT DEBUT STAGE》，並透過 Naver V app 進行直播\[5\]。隔天透過各大音源網站發行首張迷你專輯《Hey Mama\!》，並透過 SMTOWN 官方 YouTube 頻道公開同名主打歌《Hey Mama\!》MV\[6\]。
 
 11月7日，S.M. Entertainment 官方 YouTube 7日釋出 EXO 子團 EXO-CBX 首張迷你專輯《Hey Mama\!》收錄曲《The One》，曾在《EXO PLANET \#3 - The EXO'rDIUM -》演唱會上公開的特別版 MV\[7\]。
@@ -30,7 +32,7 @@
 | 藝名                                                       |
 | [Xiumin](../Page/Xiumin.md "wikilink")                   |
 | [Baekhyun](https://zh.wikipedia.org/wiki/邊伯賢 "wikilink") |
-| [Chen](https://zh.wikipedia.org/wiki/金鍾大 "wikilink")     |
+| [Chen](../Page/CHEN_\(EXO\).md "wikilink")               |
 
 ## 音樂作品
 

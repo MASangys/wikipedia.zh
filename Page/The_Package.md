@@ -61,7 +61,7 @@
 <td><p><a href="../Page/朴宥娜.md" title="wikilink">朴宥娜</a><br />
 <small>（童年：<a href="https://zh.wikipedia.org/wiki/金妍素" title="wikilink">金妍素</a>、<a href="https://zh.wikipedia.org/wiki/金丹宇" title="wikilink">金丹宇</a>）</p></td>
 <td><p>鄭娜賢</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/陳雪瑩" title="wikilink">陳雪瑩</a></p></td>
+<td><p><a href="../Page/陳雪瑩.md" title="wikilink">陳雪瑩</a></p></td>
 <td><p>言成的女兒，陪伴他到法國旅行。</p></td>
 </tr>
 <tr class="even">
@@ -134,7 +134,7 @@
 <tr class="even">
 <td><p><a href="../Page/張姬領.md" title="wikilink">張姬令</a></p></td>
 <td><p>韓斗麗</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/陳雪瑩" title="wikilink">陳雪瑩</a></p></td>
+<td><p><a href="../Page/陳雪瑩.md" title="wikilink">陳雪瑩</a></p></td>
 <td><p>修修的未婚妻。</p></td>
 </tr>
 <tr class="odd">

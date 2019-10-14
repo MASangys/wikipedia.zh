@@ -38,9 +38,9 @@
 
 [Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink") [Category:2015年迷你專輯](https://zh.wikipedia.org/wiki/Category:2015年迷你專輯 "wikilink") [Category:Oh_My_Girl音樂專輯](https://zh.wikipedia.org/wiki/Category:Oh_My_Girl音樂專輯 "wikilink")
 
-1.  [10/8 回歸](http://kpopn.niusnews.com/=K0mmobn9)
-2.  [第二波電影概念照](http://kpopn.niusnews.com/=K1rrdnx3)
-3.  [團體概念照](http://kpopn.niusnews.com/=K266qsy2)
-4.  [《CLOSER》預告](http://kpopn.niusnews.com/=K2ui7qj6)
-5.  [《CLOSER》音源、MV](http://kpopn.niusnews.com/=K1xcmrb4)
-6.  [被扣留在美國機場](http://kpopn.niusnews.com/=K1bcnl42)
+1.
+2.
+3.
+4.
+5.
+6.

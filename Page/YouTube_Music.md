@@ -6,6 +6,8 @@
 
 YouTube音樂應用服務於2015年10月發布，並於次月發布；它的發布伴隨著YouTube Red的推出，這是一項涵蓋整個YouTube平台的大型訂閱服務，其中包括音樂應用服務。儘管對Google現有的Google Play音樂全部訪問訂閱服務不重要，但該應用程序專為主要透過YouTube使用音樂的用戶設計。\[2\]
 
+2019年9月28日，Google宣佈YouTube音乐将预安装在所有[Android 9和](https://zh.wikipedia.org/wiki/Android_9 "wikilink")[Android 10新设备上](../Page/Android_10.md "wikilink")\[3\]。
+
 ## 參考資料
 
 ## 外部連結
@@ -15,3 +17,4 @@ YouTube音樂應用服務於2015年10月發布，並於次月發布；它的發�
 
 1.
 2.
+3.  [Android 10将预装YouTube Music应用 取代Google Play Music](https://www.cnbeta.com/articles/tech/894223.htm)

@@ -95,7 +95,7 @@
 
 ### 《假面騎士EX-AID》原主要人物
 
-**假野明日那（）**（[松田瑠華](https://zh.wikipedia.org/wiki/松田瑠華 "wikilink") 飾）
+**假野明日那（）**（[松田瑠華](../Page/松田瑠華.md "wikilink") 飾）
 
 **檀黎斗（）**（[岩永徹也](../Page/岩永徹也.md "wikilink") 飾）
 
@@ -1007,7 +1007,7 @@ Level 2</p></td>
 
   - 寶生永夢 / 假面騎士EX-AID - [飯島寛騎](https://zh.wikipedia.org/wiki/飯島寛騎 "wikilink") 飾 / 聲
   - 檀黎斗 / 假面騎士Genm - [岩永徹也](../Page/岩永徹也.md "wikilink") 飾 / 聲
-  - 仮野明日那 / Poppypipopapo - [松田瑠華](https://zh.wikipedia.org/wiki/松田瑠華 "wikilink") 飾
+  - 仮野明日那 / Poppypipopapo - [松田瑠華](../Page/松田瑠華.md "wikilink") 飾
   - 鏡飛彩 / 假面騎士Brave - [瀨戶利樹](../Page/瀨戶利樹.md "wikilink") 飾 / 聲
   - 花家大我 / 假面騎士Snipe - [松本享恭](../Page/松本享恭.md "wikilink") 飾 / 聲
   - Dr.Pac-Man / 帕拉德 - [甲斐翔真](../Page/甲斐翔真.md "wikilink") 飾 / 聲
@@ -1033,7 +1033,7 @@ Level 2</p></td>
   - 九條貴利矢 / 假面騎士Lazer - [小野塚勇人](../Page/小野塚勇人.md "wikilink") 飾 / 聲
   - 深海誠 / 假面騎士Specter - [山本涼介](../Page/山本涼介.md "wikilink") 飾 / 聲
   - 亞蘭 / 假面騎士Necrom - [磯村勇斗](../Page/磯村勇斗.md "wikilink") 飾 / 聲
-  - 假野明日那 / Poppypipopapo - [松田瑠華](https://zh.wikipedia.org/wiki/松田瑠華 "wikilink") 飾
+  - 假野明日那 / Poppypipopapo - [松田瑠華](../Page/松田瑠華.md "wikilink") 飾
   - 月村朱里 - [大澤光](../Page/大澤光.md "wikilink") 飾
   - 檀黎斗 - [岩永徹也](../Page/岩永徹也.md "wikilink") 飾
   - 帕拉德 - [甲斐翔真](../Page/甲斐翔真.md "wikilink") 飾

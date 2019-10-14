@@ -2,7 +2,7 @@
 
 ## 假面騎士
 
-****（[犬飼貴丈](../Page/犬飼貴丈.md "wikilink")飾；香港配音：[張振熙](../Page/張振熙.md "wikilink")；台灣配音：[鈕凱暘](../Page/鈕凱暘.md "wikilink")（本篇、冬季電影版）；大陆配音：[郝祥海](https://zh.wikipedia.org/wiki/郝祥海 "wikilink")）
+****（[犬飼貴丈](../Page/犬飼貴丈.md "wikilink")飾；香港配音：[張振熙](../Page/張振熙.md "wikilink")；台灣配音：[鈕凱暘](../Page/鈕凱暘.md "wikilink")（本篇、冬季電影版、平成世代Forever）；大陆配音：[郝祥海](https://zh.wikipedia.org/wiki/郝祥海 "wikilink")）
 
   -
     **假面騎士Build**、**假面騎士Evol（被艾博魯特附身時）** 的變身者，26歲。
@@ -57,7 +57,7 @@
     口頭禪是「來吧！實驗要開始了！」和「勝利的法則，決定了！」，經常會説出「糟透了！」和「太棒了！」，當作出新發明而向他人炫耀時會抱著發明說「很厲害吧？最棒了吧？我是天才吧？」\[19\]，轉換形態的口頭禪是「Build Up！」。
     於《[假面騎士ZI-O](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")》第1話-第2話登場。
 
-****（[赤楚衛二](https://zh.wikipedia.org/wiki/赤楚衛二 "wikilink")\[20\]飾 ；香港配音：[嚴鎮華](../Page/嚴鎮華.md "wikilink")；台灣配音：[孟慶府](https://zh.wikipedia.org/wiki/孟慶府 "wikilink")（本篇、冬季電影版）；大陆配音：[曹云图](https://zh.wikipedia.org/wiki/曹云图 "wikilink")）
+****（[赤楚衛二](https://zh.wikipedia.org/wiki/赤楚衛二 "wikilink")\[20\]飾 ；香港配音：[嚴鎮華](../Page/嚴鎮華.md "wikilink")；台灣配音：[孟慶府](https://zh.wikipedia.org/wiki/孟慶府 "wikilink")（本篇、冬季電影版、平成世代Forever）；大陆配音：[曹云图](https://zh.wikipedia.org/wiki/曹云图 "wikilink")）
 
   -
     **假面騎士Cross-Z**、**假面騎士Evol（被艾博魯特附身時）** 的變身者，23歲。
@@ -101,7 +101,7 @@
     口頭禪是「現在的我，是不會輸的！」以及「力量在沸腾，灵魂在燃烧，我的熔岩在喷涌而出！我势不可挡！」。
     於《[假面騎士ZI-O](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")》第1話-第2話登場。
 
-****（[武田航平](https://zh.wikipedia.org/wiki/武田航平 "wikilink")\[34\]飾；香港配音：[梁皓翔](../Page/梁皓翔.md "wikilink")；大陆配音：[郭盛](https://zh.wikipedia.org/wiki/郭盛 "wikilink")）
+****（[武田航平](https://zh.wikipedia.org/wiki/武田航平 "wikilink")\[34\]飾；台灣配音：[陳彥鈞](../Page/陳彥鈞.md "wikilink")；香港配音：[梁皓翔](../Page/梁皓翔.md "wikilink")；大陆配音：[郭盛](https://zh.wikipedia.org/wiki/郭盛 "wikilink")）
 
   -
     **假面騎士Grease（港譯: 古列斯）** 的變身者，29歲，7月17日生\[35\]，軍屬編號「907101080」\[36\]，AB血型，暱稱「海海（カズミン）\[37\]」。
@@ -133,7 +133,7 @@
     似乎同龍我都能以意志力提升危險等級，在戰鬥中一旦情緒激昂起來就會變得越發強大。
     口頭禪是「我要燃燒心火，將你擊潰！」，變身後的口頭禪為「假面騎士Grease ，拜見！」。
 
-****（[水上劍星飾](https://zh.wikipedia.org/wiki/水上劍星 "wikilink")；香港配音：[陳健豪](../Page/陳健豪.md "wikilink")；台灣配音：[陳彥鈞](../Page/陳彥鈞.md "wikilink")；大陆配音：[刘琮](https://zh.wikipedia.org/wiki/刘琮 "wikilink")）
+****（[水上劍星飾](https://zh.wikipedia.org/wiki/水上劍星 "wikilink")；香港配音：[陳健豪](../Page/陳健豪.md "wikilink")；台灣配音：[陳彥鈞](../Page/陳彥鈞.md "wikilink")（本篇、平成世代Forever）；大陆配音：[刘琮](https://zh.wikipedia.org/wiki/刘琮 "wikilink")）
 
   -
     **夜霸（港譯: 暗黑騎士）**、**假面騎士Rogue（港譯: 洛古）**的變身者，35歲。
@@ -208,7 +208,7 @@
     第49話在沒有天空之壁的世界中，工作於難波機械製造所，還试图折断一根铁棍，结果反被打伤。
     變身成夜霸的口號是「蒸血」（日語原文為「蒸血」）。
 
-**** （[木山廉彬飾](https://zh.wikipedia.org/wiki/木山廉彬 "wikilink")）
+**** （[木山廉彬飾](https://zh.wikipedia.org/wiki/木山廉彬 "wikilink")；香港配音：[杜景煜](../Page/杜景煜.md "wikilink")）
 
   -
     **假面騎士Build** 的變身者，27歲。\[66\]
@@ -412,7 +412,7 @@
 
 ****（前川泰之飾）
 
-****（[高田夏帆](https://zh.wikipedia.org/wiki/高田夏帆 "wikilink")\[102\]、[森山乃繪留](https://zh.wikipedia.org/wiki/森山乃繪留 "wikilink")\[103\]（童年期）飾；香港配音：[駱慧怡](../Page/駱慧怡.md "wikilink")；台灣配音：[連婉鈞](https://zh.wikipedia.org/wiki/連婉鈞 "wikilink")（本篇）、[劉如蘋](../Page/劉如蘋.md "wikilink")（冬季電影版）；大陆配音：[山新](../Page/山新.md "wikilink")）
+****（[高田夏帆](https://zh.wikipedia.org/wiki/高田夏帆 "wikilink")\[102\]、[森山乃繪留](https://zh.wikipedia.org/wiki/森山乃繪留 "wikilink")\[103\]（童年期）飾；香港配音：[駱慧怡](../Page/駱慧怡.md "wikilink")；台灣配音：[連婉鈞](https://zh.wikipedia.org/wiki/連婉鈞 "wikilink")（本篇）、[劉如蘋](../Page/劉如蘋.md "wikilink")（冬季電影版）、[楊凱凱](../Page/楊凱凱.md "wikilink")（平成世代Forever）；大陆配音：[山新](../Page/山新.md "wikilink")）
 
   -
     石動惣一的女兒，**CD Lost SMASH**的變身者，19歲。
@@ -440,7 +440,7 @@
     第48話在黑白双色嵌板成功对接在一起後及时拿着潘朵拉之盒，成功让戰兔将已置入了十个失落滿裝瓶的白色嵌板一口气置入在潘朵拉之盒中。
     第49話手腕中的手镯终于脱落，并在無天空之壁的世界中，在nascita帮父亲打杂，不仅第一次被猿渡一见钟情而使其昏倒外，還因第一次和戰兔相遇又以为是佐藤太郎而倍感意外。
 
-****（[瀧裕可里](https://zh.wikipedia.org/wiki/瀧裕可里 "wikilink")\[112\]飾；香港配音：[陳雪瑩](https://zh.wikipedia.org/wiki/陳雪瑩 "wikilink")；台灣配音：[李昀晴](../Page/李昀晴.md "wikilink")（本篇）、[連思宇](../Page/連思宇.md "wikilink")（冬季電影版）；大陆配音：[叶知秋](https://zh.wikipedia.org/wiki/叶知秋 "wikilink")）
+****（[瀧裕可里](https://zh.wikipedia.org/wiki/瀧裕可里 "wikilink")\[112\]飾；香港配音：[陳雪瑩](../Page/陳雪瑩.md "wikilink")；台灣配音：[李昀晴](../Page/李昀晴.md "wikilink")（本篇）、[連思宇](../Page/連思宇.md "wikilink")（冬季電影版）；大陆配音：[叶知秋](https://zh.wikipedia.org/wiki/叶知秋 "wikilink")）
 
   -
     自由新聞記者，另一身份為難波重工所派的間諜，難波兒童，Faust 的成員之一，27歲。

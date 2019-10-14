@@ -71,6 +71,6 @@
 
 ## 外部連結
 
-[Category:泰國唱片公司](https://zh.wikipedia.org/wiki/Category:泰國唱片公司 "wikilink") [Category:跨國唱片公司](https://zh.wikipedia.org/wiki/Category:跨國唱片公司 "wikilink") [Category:国际唱片业协会成员](https://zh.wikipedia.org/wiki/Category:国际唱片业协会成员 "wikilink") [Category:1983年成立的公司](https://zh.wikipedia.org/wiki/Category:1983年成立的公司 "wikilink") [Category:中華民國證券櫃檯買賣中心上櫃公司](https://zh.wikipedia.org/wiki/Category:中華民國證券櫃檯買賣中心上櫃公司 "wikilink")
+[Category:泰國唱片公司](https://zh.wikipedia.org/wiki/Category:泰國唱片公司 "wikilink") [Category:跨國唱片公司](https://zh.wikipedia.org/wiki/Category:跨國唱片公司 "wikilink") [Category:国际唱片业协会成员](https://zh.wikipedia.org/wiki/Category:国际唱片业协会成员 "wikilink") [Category:1983年成立的公司](https://zh.wikipedia.org/wiki/Category:1983年成立的公司 "wikilink")
 
 1.  [GMM Grammy](http://m.5669.com/company/gmmgrammy)

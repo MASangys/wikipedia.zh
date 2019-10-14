@@ -1,6 +1,6 @@
 **OK K.O.\!英雄讚**（全名：OK K.O.\! Let's Be Heroes﹚\[1\]是[Cartoon Network旗下](../Page/卡通頻道.md "wikilink")，由Ian Jones-Quartey創作的美國超級英雄喜劇動畫。該系列於2016年2月4日在Cartoon Network的YouTube頻道上首播\[2\]\[3\]。
 
-2017年3月9日Cartoon Network正式宣佈推出其動畫系列，片头曲故事板由Studio Trigger的聯合創始人日本藝術家[今石洋之](../Page/今石洋之.md "wikilink")绘制。
+2017年3月9日Cartoon Network正式宣佈推出其動畫系列，片头曲故事板由Studio Trigger的聯合創始人日本藝術家[今石洋之](../Page/今石洋之.md "wikilink")绘制。 不過很可惜目前ok.ko英雄讚被CN夭折了，不幸中的大幸是早在一年前ok.ko英雄讚的作者就知道了，可以有時間緩衝並減少或加快故事訊息，雖然很可惜，而且目前還不知道是什麼原因CN要夭折掉ok.ko英雄讚，但至少不會有早畫完卻不能播放的集數，是件不幸中的大幸！
 
 ## 故事簡介
 
@@ -72,7 +72,7 @@
     以K.O.開朗、樂觀為比較，Turbo K.O.則較為厭世、黑暗，類似青春期叛逆的少年,在T.K.O.'s House裡,可以看得出來他很喜歡搖滾這類的東西。
     在“T.K.O. Rules”中，T.K.O.重新出現接管了K.O.的身體並把K.O放逐到潛意識以對抗Shadowy Figure，但最後跟Shadowy Figure结盟了。
 
-目前資訊含美國演到的部分 但只含有翻譯到的進度 (第三季第一集\~第三集)
+目前資訊含美國演到的部分 但只含有翻譯到的進度 (第三季第一集\~第十六集)
 
 ### 反派
 

@@ -144,7 +144,9 @@ GOGOVAN為合法經營\[47\]，但[香港法例](../Page/香港法例.md "wikili
 
   - [創業公司](https://zh.wikipedia.org/wiki/創業公司 "wikilink")
   - [流動應用程式](../Page/流動應用程式.md "wikilink")
+  - [共享經濟](../Page/共享經濟.md "wikilink")
   - [啦啦快送](../Page/啦啦快送.md "wikilink")
+  - [Uber](https://zh.wikipedia.org/wiki/Uber "wikilink")
 
 ## 外部链接
 

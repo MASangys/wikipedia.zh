@@ -10,6 +10,8 @@ LMS職業聯賽於2015年採用個隊伍三循環BO1賽制，2016年採用各隊
 
 外援選手限制，每一場賽事每隊最多派兩名外籍選手。如果香港及澳門選手選擇於[LPL首次出賽](https://zh.wikipedia.org/wiki/英雄聯盟職業聯賽 "wikilink")，亦視作外援。
 
+2019年9月25日，Riot 與 Garena 確定 LMS 將與東南亞賽區 Sea Tour（LST）合併，成為新的[PCS聯賽](https://zh.wikipedia.org/wiki/PCS聯賽 "wikilink")（Pacific Championship Series）。
+
 ### 名次積分
 
 |    |                   |                   |

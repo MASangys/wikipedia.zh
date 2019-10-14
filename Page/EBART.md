@@ -1,4 +1,4 @@
-**eBART**，全称**舊金山湾区捷运东康特拉科斯塔县延长线**\[1\]\[2\]\[3\]，是一条属于[湾区捷运系统](../Page/舊金山灣區捷運系統.md "wikilink")、位于加州[康特拉科斯塔县](../Page/康特拉科斯塔县.md "wikilink")的、由[柴联车驱动的铁路支线](../Page/柴聯車.md "wikilink")。首期线路于2018年5月26日开始运营\[4\]，长达\[5\]，沿着加州4号高速公路，从[匹兹堡/湾角站向东前往](https://zh.wikipedia.org/wiki/匹兹堡/湾角站 "wikilink")[安条克](https://zh.wikipedia.org/wiki/安条克 "wikilink")\[6\]。
+**eBART**，全称**舊金山湾区捷运东康特拉科斯塔县延长线**\[1\]\[2\]\[3\]，是一条属于[湾区捷运系统](../Page/舊金山灣區捷運系統.md "wikilink")、位于加州[康特拉科斯塔县](../Page/康特拉科斯塔县.md "wikilink")的、由[柴联车驱动的铁路支线](../Page/柴聯車.md "wikilink")。首期线路于2018年5月26日开始运营\[4\]，长达\[5\]，沿着加州4号高速公路，从[匹兹堡/湾角站向东前往](https://zh.wikipedia.org/wiki/匹兹堡/湾角站 "wikilink")[安条克](../Page/安条克.md "wikilink")\[6\]。
 
 湾区捷运的地图里没有单独显示这条线路，\[7\]而是将这条支线和[匹兹堡/湾角－旧金山国际机场/密尔布瑞线合称](https://zh.wikipedia.org/wiki/匹茲堡/灣角－舊金山國際機場/密爾布瑞線 "wikilink")[安条克-旧金山国际机场／密尔布瑞线](../Page/安条克-旧金山国际机场／密尔布瑞线.md "wikilink")。\[8\]\[9\]
 
@@ -10,7 +10,7 @@
 
 ### 初期计划
 
-在研究[匹兹堡 - 旧金山国际机场/密尔布瑞线延长至](https://zh.wikipedia.org/wiki/匹兹堡/湾点-旧金山/米尔布雷线 "wikilink")[安条克的计划时](https://zh.wikipedia.org/wiki/安条克 "wikilink")，[柴联车由于成本更低](../Page/柴聯車.md "wikilink")、更容易继续延长\[10\] 脱颖而出。
+在研究[匹兹堡 - 旧金山国际机场/密尔布瑞线延长至](https://zh.wikipedia.org/wiki/匹兹堡/湾点-旧金山/米尔布雷线 "wikilink")[安条克](../Page/安条克.md "wikilink")的计划时，[柴联车由于成本更低](../Page/柴聯車.md "wikilink")、更容易继续延长\[10\] 脱颖而出。
 
 最初的延长计划是让列车利用平行于加州4号高速公路的、既有的[联合太平洋铁路](https://zh.wikipedia.org/wiki/联合太平洋铁路 "wikilink")(UPR)公司的轨道行驶，然而计划却因为UPR方面的不配合而落空：UPR既不愿意分享通行权，也不允许在旁边新建轨道。\[11\]正巧4号高速公路正在扩宽，延长计划就利用这个时机，规划了在中间隔离带上的轨道。位于[匹兹堡](../Page/匹兹堡.md "wikilink")的铁路大道站（后更名为）的建造，由于计划的多变，进行得并不顺利，直到后来得到市政府方面的支持才确定和延长线同步启用。\[12\]
 
@@ -44,7 +44,7 @@
 <tr class="odd">
 <td></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/安条克" title="wikilink">安条克</a></p></td>
+<td><p><a href="../Page/安条克.md" title="wikilink">安条克</a></p></td>
 <td><p>2018年5月26日</p></td>
 <td></td>
 </tr>

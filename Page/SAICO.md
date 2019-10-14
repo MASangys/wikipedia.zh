@@ -1,4 +1,4 @@
-**SAICO**，[日本](../Page/日本.md "wikilink")女性[音樂家](https://zh.wikipedia.org/wiki/音樂家 "wikilink")、[創作歌手](../Page/創作歌手.md "wikilink")。舊藝名、本名：**鈴木彩子**（****）。 1998年藝名「****（用[片假名](../Page/片假名.md "wikilink")）」。2000年以後藝名「**SAICO**」至今。
+**SAICO**，[日本](../Page/日本.md "wikilink")女[音樂家](https://zh.wikipedia.org/wiki/音樂家 "wikilink")、[創作歌手](../Page/創作歌手.md "wikilink")。舊藝名、本名：**鈴木彩子**（****）。1998年藝名用「****（用[片假名](../Page/片假名.md "wikilink")）」。2000年以後改用「**SAICO**」至今。
 
 ## 來歷
 

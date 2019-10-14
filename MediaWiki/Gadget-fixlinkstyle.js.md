@@ -366,7 +366,7 @@
 `                   summary: summary,`
 `                   minor: true,`
 `                   text: content,`
-`                   token: mw.user.tokens.get('editToken')`
+`                   token: mw.user.tokens.get('csrfToken')`
 `               },`
 `               dataType: 'json',`
 `               type: 'POST',`
@@ -1208,7 +1208,7 @@
 `                               '`<input name="format" value="text/x-wiki">`',`
 `                               '`<input name="wpAutoSummary" value="hashhashhashhash">`',    // 防止「未填寫摘要」的提示`
 `                               '`<input name="model" value="wikitext">`',`
-`                               '`<input name="wpEditToken" value="' + mw.user.tokens.get('editToken') + '">`',`
+`                               '`<input name="wpEditToken" value="' + mw.user.tokens.get('csrfToken') + '">`',`
 `                               '`<input name="wpUltimateParam" value="1">`',`
 `                               '`<input name="wpDiff" value="aa">`',`
 `                               '`<input name="mode" value="text">`');`

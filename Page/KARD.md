@@ -52,7 +52,7 @@ DSP Media 表示：「混聲企劃團體 K.A.R.D 是分為三個階段的企劃�
 
 **第五張單曲《Dumb Litty》**
 
-9月15日，DSP Media閃電宣布 KARD即將帶著第二張數位單曲《Dumb Litty》回歸並公開了首波預告畫報\[38\]\[39\]。9月22日，公開《Dumb Litty》音源與MV。
+9月15日，DSP Media閃電宣布 KARD即將帶著第二張數位單曲《Dumb Litty》回歸並公開了首波預告畫報\[38\]\[39\]。9月22日，公開《Dumb Litty》音源與MV\[40\]。
 
 ## 成員資料
 
@@ -78,7 +78,7 @@ DSP Media 表示：「混聲企劃團體 K.A.R.D 是分為三個階段的企劃�
 <td></td>
 </tr>
 <tr class="even">
-<td><p>成員列表[40]</p></td>
+<td><p>成員列表[41]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -89,7 +89,7 @@ DSP Media 表示：「混聲企劃團體 K.A.R.D 是分為三個階段的企劃�
 <td><p><a href="https://zh.wikipedia.org/wiki/J.Seph" title="wikilink">J.Seph</a></p></td>
 <td><p>제이셉</p></td>
 <td><p>金泰亨<br />
-[41]</p></td>
+[42]</p></td>
 <td><p>김태형</p></td>
 <td><p>Kim Tae Hyung</p></td>
 <td><p>男</p></td>
@@ -99,14 +99,14 @@ DSP Media 表示：「混聲企劃團體 K.A.R.D 是分為三個階段的企劃�
 <td><p>비엠</p></td>
 <td><p>金珍錫</p></td>
 <td><p>김진석</p></td>
-<td><p>Matthew Jinsuk Kim[42]</p></td>
+<td><p>Matthew Jinsuk Kim[43]</p></td>
 <td><p>男</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/全昭珉.md" title="wikilink">全昭珉</a></p></td>
 <td><p>전소민</p></td>
 <td><p>全昭珉<br />
-[43]</p></td>
+[44]</p></td>
 <td><p>전소민</p></td>
 <td><p>Jeon So Min</p></td>
 <td><p>女</p></td>
@@ -115,7 +115,7 @@ DSP Media 表示：「混聲企劃團體 K.A.R.D 是分為三個階段的企劃�
 <td><p><a href="https://zh.wikipedia.org/wiki/全志佑" title="wikilink">全志佑</a></p></td>
 <td><p>전지우</p></td>
 <td><p>全志佑<br />
-[44]</p></td>
+[45]</p></td>
 <td><p>전지우</p></td>
 <td><p>Jeon Ji Woo</p></td>
 <td><p>女</p></td>
@@ -129,15 +129,16 @@ DSP Media 表示：「混聲企劃團體 K.A.R.D 是分為三個階段的企劃�
 
 | 年份     | 發布日期                 | 收錄專輯                     | M/V                                      | Performance Video      | Choreography Video           | Hidden Ver．              |
 | ------ | -------------------- | ------------------------ | ---------------------------------------- | ---------------------- | ---------------------------- | ------------------------ |
-| 2016年  | 12月12日               | Oh Nana                  | Oh Nana\[45\]\[46\]                      |                        | Oh Nana\[47\]\[48\]          |                          |
-| 2017年  | 2月16日                | Don't Recall             | Don't Recall\[49\]\[50\]                 |                        | Don't Recall\[51\]\[52\]     | Don't Recall\[53\]\[54\] |
-| 4月24日  | RUMOR                | RUMOR\[55\]\[56\]        |                                          |                        | RUMOR\[57\]\[58\]            |                          |
-| 7月19日  | Hola Hola            | Hola Hola\[59\]\[60\]    |                                          | Hola Hola\[61\]        |                              |                          |
-| 11月20日 | You & Me             | You In Me\[62\]\[63\]    |                                          | You In Me\[64\]\[65\]  |                              |                          |
-| 12月5日  | Trust Me\[66\]\[67\] | Trust Me (BM Solo)\[68\] |                                          |                        |                              |                          |
-| 2018年  | 7月25日                | Ride on the wind         | Ride on the wind\[69\]\[70\]             |                        | Ride on the wind\[71\]\[72\] |                          |
-| 8月8日   |                      |                          | Knockin' on my heaven's door\[73\]\[74\] |                        |                              |                          |
-| 2019年  | 3月27日                | Bomb Bomb                | Bomb Bomb \[75\]\[76\]                   | Bomb Bomb \[77\]\[78\] | Bomb Bomb \[79\]\[80\]       |                          |
+| 2016年  | 12月12日               | Oh Nana                  | Oh Nana\[46\]\[47\]                      |                        | Oh Nana\[48\]\[49\]          |                          |
+| 2017年  | 2月16日                | Don't Recall             | Don't Recall\[50\]\[51\]                 |                        | Don't Recall\[52\]\[53\]     | Don't Recall\[54\]\[55\] |
+| 4月24日  | RUMOR                | RUMOR\[56\]\[57\]        |                                          |                        | RUMOR\[58\]\[59\]            |                          |
+| 7月19日  | Hola Hola            | Hola Hola\[60\]\[61\]    |                                          | Hola Hola\[62\]        |                              |                          |
+| 11月20日 | You & Me             | You In Me\[63\]\[64\]    |                                          | You In Me\[65\]\[66\]  |                              |                          |
+| 12月5日  | Trust Me\[67\]\[68\] | Trust Me (BM Solo)\[69\] |                                          |                        |                              |                          |
+| 2018年  | 7月25日                | Ride on the wind         | Ride on the wind\[70\]\[71\]             |                        | Ride on the wind\[72\]\[73\] |                          |
+| 8月8日   |                      |                          | Knockin' on my heaven's door\[74\]\[75\] |                        |                              |                          |
+| 2019年  | 3月27日                | Bomb Bomb                | Bomb Bomb \[76\]\[77\]                   | Bomb Bomb \[78\]\[79\] | Bomb Bomb \[80\]\[81\]       |                          |
+| 9月22日  | Dumb Litty           | Dumb Litty \[82\]\[83\]  |                                          | Dumb Litty \[84\]      |                              |                          |
 
 ### 綜藝節目
 
@@ -255,6 +256,17 @@ DSP Media 表示：「混聲企劃團體 K.A.R.D 是分為三個階段的企劃�
 <li><strong>Bomb Bomb</strong></li>
 </ol></td>
 </tr>
+<tr class="odd">
+<td><p><strong>5th</strong></p></td>
+<td><p>《<strong>Dumb Litty</strong>》</p>
+<ul>
+<li>發行日期：2019年9月22日</li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
+</ul></td>
+<td><ol>
+<li><strong>Dumb Litty</strong></li>
+</ol></td>
+</tr>
 </tbody>
 </table>
 
@@ -312,7 +324,7 @@ DSP Media 表示：「混聲企劃團體 K.A.R.D 是分為三個階段的企劃�
 
 ### 音樂創作作品
 
-韓國音樂著作權協會之登記編號\[81\]：
+韓國音樂著作權協會之登記編號\[85\]：
 
   - J.seph：J.SEPH(10013827)
   - BM：BM(비엠)(10013812)
@@ -831,6 +843,9 @@ DSP Media 表示：「混聲企劃團體 K.A.R.D 是分為三個階段的企劃�
 <td></td>
 </tr>
 <tr class="odd">
+<td></td>
+</tr>
+<tr class="even">
 <td><ul>
 <li>「/」表示未有相關資料</li>
 <li>「(1)」：兩星期冠軍</li>
@@ -957,16 +972,16 @@ DSP Media 表示：「混聲企劃團體 K.A.R.D 是分為三個階段的企劃�
 
 39.
 
-40. [根據官方網站](http://dspmedia.co.kr/dsp/sub/p_pop09.php)
+40.
 
-41.
+41. [根據官方網站](http://dspmedia.co.kr/dsp/sub/p_pop09.php)
 
-42. [The Birth of Matthew Jinsuk Kim](http://www.californiabirthindex.org/birth/matthew_jinsuk_kim_born_1992_21504495)
+42.
 
-43.
+43. [The Birth of Matthew Jinsuk Kim](http://www.californiabirthindex.org/birth/matthew_jinsuk_kim_born_1992_21504495)
+
 44.
 45.
-
 46.
 
 47.
@@ -1037,4 +1052,12 @@ DSP Media 表示：「混聲企劃團體 K.A.R.D 是分為三個階段的企劃�
 
 80.
 
-81. [查詢音樂著作權網站](https://m.komca.or.kr:8700/srch2/srch_01.jsp)
+81.
+
+82.
+
+83.
+
+84.
+
+85. [查詢音樂著作權網站](https://m.komca.or.kr:8700/srch2/srch_01.jsp)

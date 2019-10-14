@@ -1010,14 +1010,14 @@ Denuvo声称这项技术不是一个[数字版权管理](../Page/数字版权管
 <td><p>Square Enix</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/2019年电子游戏界" title="wikilink">2019-06-08</a></p></td>
 <td><p>[245]</p></td>
-<td><p>否</p></td>
+<td><p>是[246]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/動物園之星" title="wikilink">動物園之星</a></p></td>
 <td></td>
 <td><p>Frontier Developments</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/2019年电子游戏界" title="wikilink">2019年Q4</a></p></td>
-<td><p>[246]</p></td>
+<td><p>[247]</p></td>
 <td><p>否</p></td>
 </tr>
 </tbody>
@@ -1045,8 +1045,8 @@ Denuvo声称这项技术不是一个[数字版权管理](../Page/数字版权管
 <td><p><a href="../Page/Crytek.md" title="wikilink">Crytek</a></p></td>
 <td><p><a href="../Page/Crytek.md" title="wikilink">Crytek</a></p></td>
 <td><p><a href="../Page/2016年电子游戏界.md" title="wikilink">2016-04-28</a></p></td>
-<td><p>[247]</p></td>
-<td><p>2016-12-10[248]</p></td>
+<td><p>[248]</p></td>
+<td><p>2016-12-10[249]</p></td>
 <td><p>否</p></td>
 </tr>
 <tr class="even">
@@ -1054,26 +1054,26 @@ Denuvo声称这项技术不是一个[数字版权管理](../Page/数字版权管
 <td><p>贝塞斯达软件</p></td>
 <td><p>Id Software</p></td>
 <td><p><a href="../Page/2016年电子游戏界.md" title="wikilink">2016-05-13</a></p></td>
-<td><p>[249]</p></td>
-<td><p>2016-12-08[250]</p></td>
-<td><p>是[251]</p></td>
+<td><p>[250]</p></td>
+<td><p>2016-12-08[251]</p></td>
+<td><p>是[252]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/Inside_(游戏).md" title="wikilink">Inside</a></p></td>
 <td><p><a href="../Page/Playdead.md" title="wikilink">Playdead</a></p></td>
 <td><p>Playdead</p></td>
 <td><p><a href="../Page/2016年电子游戏界.md" title="wikilink">2016-07-07</a></p></td>
-<td><p>[252]</p></td>
-<td><p>2016-11-23[253]</p></td>
-<td><p>是[254]</p></td>
+<td><p>[253]</p></td>
+<td><p>2016-11-23[254]</p></td>
+<td><p>是[255]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/泰坦陨落2" title="wikilink">泰坦陨落2</a></p></td>
 <td><p><a href="../Page/艺电.md" title="wikilink">EA Games</a></p></td>
 <td><p><a href="../Page/Respawn_Entertainment.md" title="wikilink">Respawn Entertainment</a></p></td>
 <td><p><a href="../Page/2016年电子游戏界.md" title="wikilink">2016-10-28</a></p></td>
-<td><p>[255]</p></td>
-<td><p>2017-03-31[256]</p></td>
+<td><p>[256]</p></td>
+<td><p>2017-03-31[257]</p></td>
 <td><p>否</p></td>
 </tr>
 <tr class="odd">
@@ -1081,8 +1081,8 @@ Denuvo声称这项技术不是一个[数字版权管理](../Page/数字版权管
 <td><p><a href="../Page/Deep_Silver.md" title="wikilink">Deep Silver</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Dambuster_Studios" title="wikilink">Dambuster Studios</a></p></td>
 <td><p><a href="../Page/2016年电子游戏界.md" title="wikilink">2016-05-17</a></p></td>
-<td><p>[257]</p></td>
-<td><p>2017-03-06[258]</p></td>
+<td><p>[258]</p></td>
+<td><p>2017-03-06[259]</p></td>
 <td><p>否</p></td>
 </tr>
 <tr class="even">
@@ -1090,62 +1090,62 @@ Denuvo声称这项技术不是一个[数字版权管理](../Page/数字版权管
 <td><p><a href="https://zh.wikipedia.org/wiki/Bigben_Interactive" title="wikilink">Bigben Interactive</a></p></td>
 <td><p>Gloomywood</p></td>
 <td><p><a href="../Page/2017年电子游戏界.md" title="wikilink">2017-03-10</a></p></td>
-<td><p>[259]</p></td>
-<td><p>2017-04-19[260]</p></td>
-<td><p>是[261]</p></td>
+<td><p>[260]</p></td>
+<td><p>2017-04-19[261]</p></td>
+<td><p>是[262]</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Microïds" title="wikilink">Microïds</a></p></td>
 <td><p>Microïds</p></td>
 <td><p><a href="../Page/2017年电子游戏界.md" title="wikilink">2017-04-20</a></p></td>
-<td><p>[262]</p></td>
-<td><p>2017-04-27[263]</p></td>
-<td><p>是[264]</p></td>
+<td><p>[263]</p></td>
+<td><p>2017-04-27[264]</p></td>
+<td><p>是[265]</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/灰盒_(公司)" title="wikilink">灰盒</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Tequila_Works" title="wikilink">Tequila Works</a></p></td>
 <td><p><a href="../Page/2017年电子游戏界.md" title="wikilink">2017-05-26</a></p></td>
-<td><p>[265]</p></td>
-<td><p>2017-06-02 [266]</p></td>
-<td><p>是[267]</p></td>
+<td><p>[266]</p></td>
+<td><p>2017-06-02 [267]</p></td>
+<td><p>是[268]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/杀手_(2016年游戏).md" title="wikilink">杀手</a></p></td>
 <td><p><a href="../Page/史克威尔艾尼克斯.md" title="wikilink">史克威尔艾尼克斯</a></p></td>
 <td><p><a href="../Page/IO_Interactive.md" title="wikilink">IO Interactive</a></p></td>
 <td><p><a href="../Page/2016年电子游戏界.md" title="wikilink">2016-03-11</a></p></td>
-<td><p>[268]</p></td>
-<td><p>2017-06-20 [269]</p></td>
-<td><p>是[270]</p></td>
+<td><p>[269]</p></td>
+<td><p>2017-06-20 [270]</p></td>
+<td><p>是[271]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/質量效應：仙女座" title="wikilink">-{zh-hant:質量;zh-hans:质量;}-效應：仙女座</a></p></td>
 <td><p><a href="../Page/艺电.md" title="wikilink">EA Games</a></p></td>
 <td><p><a href="../Page/BioWare.md" title="wikilink">BioWare</a></p></td>
 <td><p><a href="../Page/2017年电子游戏界.md" title="wikilink">2017-03-21</a></p></td>
-<td><p>[271]</p></td>
-<td><p>2017-07-07 [272]</p></td>
-<td><p>是[273]</p></td>
+<td><p>[272]</p></td>
+<td><p>2017-07-07 [273]</p></td>
+<td><p>是[274]</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/505_Games" title="wikilink">505 Games</a></p></td>
 <td><p>Three One Zero</p></td>
 <td><p><a href="../Page/2016年电子游戏界.md" title="wikilink">2016-03-29</a></p></td>
-<td><p>[274]</p></td>
-<td><p>2017-09-14[275]</p></td>
-<td><p>是[276]</p></td>
+<td><p>[275]</p></td>
+<td><p>2017-09-14[276]</p></td>
+<td><p>是[277]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/邪靈入侵2" title="wikilink">邪靈入侵2</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/貝塞斯達軟體" title="wikilink">貝塞斯達軟體</a></p></td>
 <td></td>
 <td><p><a href="../Page/2017年电子游戏界.md" title="wikilink">2017-10-13</a></p></td>
-<td><p>[277]</p></td>
-<td><p>2017-10-13[278]</p></td>
+<td><p>[278]</p></td>
+<td><p>2017-10-13[279]</p></td>
 <td><p>否</p></td>
 </tr>
 <tr class="odd">
@@ -1153,62 +1153,62 @@ Denuvo声称这项技术不是一个[数字版权管理](../Page/数字版权管
 <td><p><a href="https://zh.wikipedia.org/wiki/Square_Enix" title="wikilink">Square Enix</a></p></td>
 <td></td>
 <td><p><a href="../Page/2017年电子游戏界.md" title="wikilink">2017-08-31</a></p></td>
-<td><p>[279]</p></td>
-<td><p>2017-10-19[280]</p></td>
-<td><p>是[281]</p></td>
+<td><p>[280]</p></td>
+<td><p>2017-10-19[281]</p></td>
+<td><p>是[282]</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p><a href="../Page/Deep_Silver.md" title="wikilink">Deep Silver</a></p></td>
 <td><p><a href="../Page/Volition_(公司).md" title="wikilink">Volition</a></p></td>
 <td><p><a href="../Page/2017年电子游戏界.md" title="wikilink">2017-08-15</a></p></td>
-<td><p>[282]</p></td>
-<td><p>2017-11-09[283]</p></td>
-<td><p>是[284]</p></td>
+<td><p>[283]</p></td>
+<td><p>2017-11-09[284]</p></td>
+<td><p>是[285]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/狂彈風暴.md" title="wikilink">狂彈風暴 完整剪輯版</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Gearbox軟體" title="wikilink">Gearbox軟體</a></p></td>
 <td><p><a href="../Page/People_Can_Fly.md" title="wikilink">People Can Fly</a></p></td>
 <td><p><a href="../Page/2017年电子游戏界.md" title="wikilink">2017-04-07</a></p></td>
-<td><p>[285]</p></td>
-<td><p>2017-12-05[286]</p></td>
-<td><p>是[287]</p></td>
+<td><p>[286]</p></td>
+<td><p>2017-12-05[287]</p></td>
+<td><p>是[288]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/狙擊手：幽靈戰士3" title="wikilink">狙擊手：幽靈戰士3</a></p></td>
 <td></td>
 <td><p>CI Games</p></td>
 <td><p><a href="../Page/2017年电子游戏界.md" title="wikilink">2017-04-25</a></p></td>
-<td><p>[288]</p></td>
-<td><p>2018-01-25[289]</p></td>
-<td><p>是[290][291]</p></td>
+<td><p>[289]</p></td>
+<td><p>2018-01-25[290]</p></td>
+<td><p>是[291][292]</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td></td>
 <td><p>Artefacts Studios</p></td>
 <td><p><a href="../Page/2016年电子游戏界.md" title="wikilink">2016-11-03</a></p></td>
-<td><p>[292]</p></td>
-<td><p>2018-02-20[293]</p></td>
-<td><p>是[294]</p></td>
+<td><p>[293]</p></td>
+<td><p>2018-02-20[294]</p></td>
+<td><p>是[295]</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p><a href="../Page/卡普空.md" title="wikilink">卡普空</a></p></td>
 <td><p><a href="../Page/卡普空.md" title="wikilink">卡普空</a></p></td>
 <td><p><a href="../Page/2017年电子游戏界.md" title="wikilink">2017-09-19</a></p></td>
-<td><p>[295]</p></td>
-<td><p>2018-05-15[296]</p></td>
-<td><p>是[297]</p></td>
+<td><p>[296]</p></td>
+<td><p>2018-05-15[297]</p></td>
+<td><p>是[298]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/莎木系列.md" title="wikilink">莎木 I&amp;II</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/SEGA" title="wikilink">SEGA</a></p></td>
 <td><p>D3T</p></td>
 <td><p><a href="../Page/2018年电子游戏界.md" title="wikilink">2018-08-24</a></p></td>
-<td><p>[298]</p></td>
-<td><p>2018-08-14[299]</p></td>
+<td><p>[299]</p></td>
+<td><p>2018-08-14[300]</p></td>
 <td><p>否</p></td>
 </tr>
 <tr class="even">
@@ -1216,18 +1216,18 @@ Denuvo声称这项技术不是一个[数字版权管理](../Page/数字版权管
 <td><p><a href="https://zh.wikipedia.org/wiki/SEGA" title="wikilink">SEGA</a></p></td>
 <td><p><a href="../Page/雙點工作室.md" title="wikilink">雙點工作室</a></p></td>
 <td><p><a href="../Page/2018年电子游戏界.md" title="wikilink">2018-08-30</a></p></td>
-<td><p>[300]</p></td>
-<td><p>2018-09-04[301]</p></td>
-<td><p>是[302]</p></td>
+<td><p>[301]</p></td>
+<td><p>2018-09-04[302]</p></td>
+<td><p>是[303]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/博人传-火影次世代-#游戏" title="wikilink">NARUTO TO BORUTO 新忍出擊</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/萬代南夢宮娛樂" title="wikilink">萬代南夢宮娛樂</a></p></td>
 <td><p>Soleil Ltd.</p></td>
 <td><p><a href="../Page/2018年电子游戏界.md" title="wikilink">2018-08-31</a></p></td>
-<td><p>[303]</p></td>
-<td><p>2018-09-06[304]</p></td>
-<td><p>是[305]</p></td>
+<td><p>[304]</p></td>
+<td><p>2018-09-06[305]</p></td>
+<td><p>是[306]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/洛克人11_命運的齒輪！！.md" title="wikilink">洛克人11 命運的齒輪！！</a></p></td>
@@ -1236,42 +1236,42 @@ Denuvo声称这项技术不是一个[数字版权管理](../Page/数字版权管
 <td><p><a href="../Page/2018年电子游戏界.md" title="wikilink">2018-10-03</a></p></td>
 <td><p><ref>{{Cite web|url=<a href="https://store.steampowered.com/app/742300/Mega_Man_11__11/%7Ctitle=Mega">https://store.steampowered.com/app/742300/Mega_Man_11__11/|title=Mega</a> Man 11 / ロックマン11 運命の歯車</p></td>
 <td><p>on Steam|publisher=store.steampowered.com|accessdate=2018-07-17}}</ref></p></td>
-<td><p>2018-11-19[306]</p></td>
+<td><p>2018-11-19[307]</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td></td>
 <td><p>System 3</p></td>
 <td><p><a href="../Page/2017年电子游戏界.md" title="wikilink">2017-05-26</a></p></td>
-<td><p>[307]</p></td>
-<td><p>2018-11-23[308]</p></td>
-<td><p>是[309][310]</p></td>
+<td><p>[308]</p></td>
+<td><p>2018-11-23[309]</p></td>
+<td><p>是[310][311]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/冤罪殺機2.md" title="wikilink">冤罪殺機2</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/貝塞斯達軟體" title="wikilink">貝塞斯達軟體</a></p></td>
 <td><p><a href="../Page/Arkane_Studios.md" title="wikilink">Arkane Studios</a></p></td>
 <td><p><a href="../Page/2016年电子游戏界.md" title="wikilink">2016-11-11</a></p></td>
-<td><p>[311]</p></td>
-<td><p>2018-12-14[312]</p></td>
-<td><p>是[313]</p></td>
+<td><p>[312]</p></td>
+<td><p>2018-12-14[313]</p></td>
+<td><p>是[314]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/冤罪殺機：界外魔之死" title="wikilink">冤罪殺機：界外魔之死</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/貝塞斯達軟體" title="wikilink">貝塞斯達軟體</a></p></td>
 <td><p><a href="../Page/Arkane_Studios.md" title="wikilink">Arkane Studios</a></p></td>
 <td><p><a href="../Page/2017年电子游戏界.md" title="wikilink">2017-09-15</a></p></td>
-<td><p>[314]</p></td>
-<td><p>2018-12-14[315]</p></td>
-<td><p>是[316]</p></td>
+<td><p>[315]</p></td>
+<td><p>2018-12-14[316]</p></td>
+<td><p>是[317]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/人中之龍_極" title="wikilink">人中之龍 極</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/SEGA" title="wikilink">SEGA</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/SEGA" title="wikilink">SEGA</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/2019年電子遊戲界" title="wikilink">2019-02-19</a></p></td>
-<td><p>[317]</p></td>
-<td><p>2019-01-22[318][319]</p></td>
+<td><p>[318]</p></td>
+<td><p>2019-01-22[319][320]</p></td>
 <td><p>是</p></td>
 </tr>
 <tr class="odd">
@@ -1279,53 +1279,53 @@ Denuvo声称这项技术不是一个[数字版权管理](../Page/数字版权管
 <td><p><a href="../Page/卡普空.md" title="wikilink">卡普空</a></p></td>
 <td><p>卡普空</p></td>
 <td><p><a href="../Page/2017年电子游戏界.md" title="wikilink">2017-01-24</a></p></td>
-<td><p>[320]</p></td>
-<td><p>2019-01-28 [321]</p></td>
-<td><p>是[322]</p></td>
+<td><p>[321]</p></td>
+<td><p>2019-01-28 [322]</p></td>
+<td><p>是[323]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/杀手2_(2018年游戏).md" title="wikilink">刺客任務2</a></p></td>
 <td><p><a href="../Page/華納兄弟互動娛樂.md" title="wikilink">華納兄弟互動娛樂</a></p></td>
 <td><p><a href="../Page/IO_Interactive.md" title="wikilink">IO Interactive</a></p></td>
 <td><p><a href="../Page/2018年电子游戏界.md" title="wikilink">2018-11-13</a></p></td>
-<td><p>[323]</p></td>
-<td><p>2019-01-30[324][325]</p></td>
-<td><p>是[326]</p></td>
+<td><p>[324]</p></td>
+<td><p>2019-01-30[325][326]</p></td>
+<td><p>是[327]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/人中之龍0_誓言的場所.md" title="wikilink">人中之龍 0</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/SEGA" title="wikilink">SEGA</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/人中之龍工作室" title="wikilink">人中之龍工作室</a></p></td>
 <td><p><a href="../Page/2018年电子游戏界.md" title="wikilink">2018-08-02</a></p></td>
-<td><p>[327]</p></td>
-<td><p>2019-03-11[328][329]</p></td>
-<td><p>是[330]</p></td>
+<td><p>[328]</p></td>
+<td><p>2019-03-11[329][330]</p></td>
+<td><p>是[331]</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td></td>
 <td><p>The Bearded Ladies</p></td>
 <td><p><a href="../Page/2018年电子游戏界.md" title="wikilink">2018-12-04</a></p></td>
-<td><p>[331]</p></td>
-<td><p>2019-02-27[332]</p></td>
-<td><p>是[333]</p></td>
+<td><p>[332]</p></td>
+<td><p>2019-02-27[333]</p></td>
+<td><p>是[334]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/音速小子狂熱" title="wikilink">音速小子狂熱</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/SEGA" title="wikilink">SEGA</a></p></td>
 <td><p>Headcannon、PagodaWest Games</p></td>
 <td><p><a href="../Page/2017年电子游戏界.md" title="wikilink">2017-08-29</a></p></td>
-<td><p>[334]</p></td>
-<td><p>2019-03-12[335]</p></td>
-<td><p>是[336]</p></td>
+<td><p>[335]</p></td>
+<td><p>2019-03-12[336]</p></td>
+<td><p>是[337]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/狂怒煉獄2.md" title="wikilink">狂怒煉獄2</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/貝塞斯達軟體" title="wikilink">貝塞斯達軟體</a></p></td>
 <td><p><a href="../Page/雪崩工作室.md" title="wikilink">雪崩工作室</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/2019年电子游戏界" title="wikilink">2019-05-14</a></p></td>
-<td><p>[337]</p></td>
-<td><p>2019-05-17[338]</p></td>
+<td><p>[338]</p></td>
+<td><p>2019-05-17[339]</p></td>
 <td><p>否</p></td>
 </tr>
 <tr class="odd">
@@ -1835,13 +1835,13 @@ Denuvo声称这项技术不是一个[数字版权管理](../Page/数字版权管
 249.
 
 250.
-251.
 
+251.
 252.
 
 253.
-254.
 
+254.
 255.
 
 256.
@@ -1874,11 +1874,11 @@ Denuvo声称这项技术不是一个[数字版权管理](../Page/数字版权管
 
 270.
 
-271. \-
+271.
 
 272. \-
 
-273.
+273. \-
 
 274.
 
@@ -1897,8 +1897,8 @@ Denuvo声称这项技术不是一个[数字版权管理](../Page/数字版权管
 281.
 
 282.
-283.
 
+283.
 284.
 
 285.
@@ -1962,19 +1962,19 @@ Denuvo声称这项技术不是一个[数字版权管理](../Page/数字版权管
 314.
 
 315.
-316.
 
+316.
 317.
 
 318.
 
 319.
 
-320. \-
+320.
 
 321. \-
 
-322.
+322. \-
 
 323.
 
@@ -2007,3 +2007,5 @@ Denuvo声称这项技术不是一个[数字版权管理](../Page/数字版权管
 337.
 
 338.
+
+339.

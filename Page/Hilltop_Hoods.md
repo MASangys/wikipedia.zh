@@ -1,8 +1,8 @@
-**Hilltop Hoods** 是一个澳大利亚 hip hop组合。 该组合由 Suffa （Matt Lambert） 以及 MC Pressure （Daniel Smith）于1994年在阿德莱德组建， 成员DJ Debris （Barry Francis）在创建人 DJ Next （Ben Hare）1999年离开组合之后加入。 组合在1997年发布了第一张密纹唱片， *Back Once Again(又一次)*， 并在之后的时间陆续发布了七张录音室唱片和三张DVD，并于2006年发布了一张"重制"版本的  *The Hard Road(漫漫长路) 专辑*。
+**Hilltop Hoods**是一个[澳大利亚](../Page/澳大利亚.md "wikilink")的[hip hop组合](https://zh.wikipedia.org/wiki/hip_hop "wikilink")。 该组合由Suffa（Matt Lambert）以及MC Pressure（Daniel Smith）于1994年在[阿德莱德](../Page/阿德莱德.md "wikilink")组建， 成员DJ Debris（Barry Francis）在创建人DJ Next（Ben Hare）1999年离开组合之后加入。组合在1997年发布了第一张[密纹唱片](https://zh.wikipedia.org/wiki/密纹唱片 "wikilink")， *Back Once Again(又一次)*， 并在之后的时间陆续发布了七张录音室唱片和三张DVD，并于2006年发布了一张重制版本的  *The Hard Road(漫漫长路) 专辑*。
 
-他们的四张专辑问鼎 [Australian Record Industry Association (ARIA) Albums Charts](https://zh.wikipedia.org/wiki/澳大利亚唱片业协会榜 "wikilink")（澳大利亚唱片协会榜） 第一名：分别是 *The Hard Road* （2006）， *State of the Art* （2009）， *Drinking from the Sun* （2012） 以及 *Walking Under Stars* （2014）。 两首单曲进入该榜单前十名，分别是—"Chase That Feeling" （2009） 以及 "I Love It"， featuring [Sia](https://zh.wikipedia.org/wiki/希雅 "wikilink") （2011）—而其最新单曲 "Cosby Sweater" （2014） 在当年11月9日成为该组合唯一此榜前五名单曲。
+他们的四张专辑问鼎[澳大利亚唱片业协会榜第一名](https://zh.wikipedia.org/wiki/澳大利亚唱片业协会榜 "wikilink")：分别是*The Hard Road*（2006），*State of the Art*（2009），*Drinking from the Sun*（2012）以及*Walking Under Stars*（2014）。两首单曲进入该榜单前十名，分别是—"Chase That Feeling" （2009）以及"I Love It"，featuring [Sia](https://zh.wikipedia.org/wiki/希雅 "wikilink")（2011）—而其最新单曲"Cosby Sweater"（2014） 在当年11月9日成为该组合唯一此榜前五名单曲。
 
-Hilltop Hoods 曾在澳大利亚内部和全球巡回开过演唱会，并曾出席过下列音乐节活动： T in the Park， Oxegen， the Big Day Out， Clipsal 500， Southbound， The Great Escape， Splendour in the Grass， Bassinthegrass， Groovin' The Moo， Falls Festival， Pyramid Rock Festival， Rollercoaster， Come Together Festival 以及 Make Poverty History。
+Hilltop Hoods曾在澳大利亚内部和全球巡回开过演唱会，并曾出席过下列音乐节活动：T in the Park， Oxegen， the Big Day Out， Clipsal 500， Southbound， The Great Escape， Splendour in the Grass， Bassinthegrass， Groovin' The Moo， Falls Festival， Pyramid Rock Festival， Rollercoaster， Come Together Festival 以及 Make Poverty History。
 
 而在2006年的澳大利亚唱片协会音乐奖上 （ARIA Music Awards of 2006） 该组合在因 *The Hard Road  *专辑荣获"最佳独立发行"（Best Independent Release） 以及 "最佳当代专辑"（Best Urban Album）奖。 在 2007年， 该组合因他们的重制专辑*The Hard Road: Restrung* （2007）， 荣获 "最佳当代专辑"（Best Urban Album）奖 。 他们同样在2009 和2012年分别因其专辑  *State of the Art* 和 ''Drinking from the Sun *获得同样的奖项。  2009年， 组合成员Debris同时因其作品*State of the Art'' 荣获当年最佳策划人奖项（Engineer of the Year）。
 
@@ -353,7 +353,7 @@ Hilltop Hoods 曾在澳大利亚内部和全球巡回开过演唱会，并曾出
   -
   - [Golden Era Records official website](https://goldenerarecords.com.au)
 
-[Category:1991年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1991年成立的音樂團體 "wikilink")
+[Category:1991年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1991年成立的音樂團體 "wikilink") [Category:澳大利亚乐团](https://zh.wikipedia.org/wiki/Category:澳大利亚乐团 "wikilink")
 
 1.
 

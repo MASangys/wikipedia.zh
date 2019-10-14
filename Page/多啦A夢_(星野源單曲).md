@@ -23,6 +23,6 @@
 
 1.
 2.
-3.  [次回のドラえもんは１０月５日（土）ごご５時からの放送だよ！](http://https://www.tv-asahi.co.jp/doraemon/news/0360/)
+3.  [次回のドラえもんは１０月５日（土）ごご５時からの放送だよ！](https://www.tv-asahi.co.jp/doraemon/news/0360/)
 4.
 5.

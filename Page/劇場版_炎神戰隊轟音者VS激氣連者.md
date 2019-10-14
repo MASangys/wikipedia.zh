@@ -45,23 +45,23 @@
 | 配音員                                                           | 名稱    | 編號 | 台配                                                                           |
 | ------------------------------------------------------------- | ----- | -- | ---------------------------------------------------------------------------- |
 |                                                               |       |    |                                                                              |
-| [<font color=white>浪川大輔</font>](../Page/浪川大輔.md "wikilink")   | 鷹速鬥輪  | 1  | [<font color=white>林士程</font>](../Page/林士程.md "wikilink")                    |
+| [<font color=white>浪川大輔</font>](../Page/浪川大輔.md "wikilink")   | 鷹速鬥輪  | 1  | [<font color=white>宋克軍</font>](../Page/宋克軍.md "wikilink")                    |
 |                                                               |       |    |                                                                              |
-| [<font color=white>江川央生</font>](../Page/江川央生.md "wikilink")   | 巴獅王   | 2  | [<font color=white>宋克軍</font>](../Page/宋克軍.md "wikilink")                    |
+| [<font color=white>江川央生</font>](../Page/江川央生.md "wikilink")   | 巴獅王   | 2  | [<font color=white>李景唐</font>](../Page/李景唐.md "wikilink")                    |
 |                                                               |       |    |                                                                              |
-| [<font color=black>井上美紀</font>](../Page/井上美紀.md "wikilink")   | 小熊RV  | 3  | [<font color=black>馮嘉德</font>](../Page/馮嘉德.md "wikilink")                    |
+| [<font color=black>井上美紀</font>](../Page/井上美紀.md "wikilink")   | 小熊RV  | 3  | [<font color=black>詹雅菁</font>](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink") |
 |                                                               |       |    |                                                                              |
-| [<font color=white>保志總一朗</font>](../Page/保志總一朗.md "wikilink") | 鯨鯊摩托  | 4  | [<font color=white>李景唐</font>](../Page/李景唐.md "wikilink")                    |
+| [<font color=white>保志總一朗</font>](../Page/保志總一朗.md "wikilink") | 鯨鯊摩托  | 4  | [<font color=white>林士程</font>](../Page/林士程.md "wikilink")                    |
 |                                                               |       |    |                                                                              |
 | [<font color=white>濱田賢二</font>](../Page/濱田賢二.md "wikilink")   | 鋼砲警犬  | 5  | [<font color=white>何志威</font>](../Page/何志威.md "wikilink")                    |
 |                                                               |       |    |                                                                              |
 | [<font color=black>津久井教生</font>](../Page/津久井教生.md "wikilink") | 鱷魚拖車  | 6  | [<font color=black>宋克軍</font>](../Page/宋克軍.md "wikilink")                    |
 |                                                               |       |    |                                                                              |
-| [<font color=black>石川靜</font>](../Page/石川靜.md "wikilink")     | 直升鬥雞  | 7  | [<font color=black>詹雅菁</font>](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink") |
+| [<font color=black>石川靜</font>](../Page/石川靜.md "wikilink")     | 直升鬥雞  | 7  | [<font color=black>馮嘉德</font>](../Page/馮嘉德.md "wikilink")                    |
 |                                                               |       |    |                                                                              |
-| [<font color=black>古島清孝</font>](../Page/古島清孝.md "wikilink")   | 噴射長牙虎 | 8  | [<font color=black>何志威</font>](../Page/何志威.md "wikilink")                    |
+| [<font color=black>古島清孝</font>](../Page/古島清孝.md "wikilink")   | 噴射長牙虎 | 8  | [<font color=black>林士程</font>](../Page/林士程.md "wikilink")                    |
 |                                                               |       |    |                                                                              |
-| [<font color=white>西村知道</font>](../Page/西村知道.md "wikilink")   | 運輸鯨無霸 | 9  | [<font color=white>林士程</font>](../Page/林士程.md "wikilink")                    |
+| [<font color=white>西村知道</font>](../Page/西村知道.md "wikilink")   | 運輸鯨無霸 | 9  | [<font color=white>何志威</font>](../Page/何志威.md "wikilink")                    |
 |                                                               |       |    |                                                                              |
 
 ### [獸拳戰隊激氣連者](../Page/獸拳戰隊激氣連者.md "wikilink")

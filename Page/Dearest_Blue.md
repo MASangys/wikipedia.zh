@@ -43,7 +43,7 @@
 
 [Category:2016年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2016年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:偶像題材電子遊戲](https://zh.wikipedia.org/wiki/Category:偶像題材電子遊戲 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:DVDPG](https://zh.wikipedia.org/wiki/Category:DVDPG "wikilink")
 
-1.  [Dearest Blue特集](http://www.game-style.jp/special/201604/13/00der_ld.php)Game-Style
+1.  [Dearest Blue特集](http://www.game-style.jp/special/201604/13/00der_ld.php) Game-Style
 2.  [Dearest Blue](http://www.getchu.com/soft.phtml?id=892271)Getchu.com
 3.  [Dearest Blue](https://vndb.org/v19024)The Visual Novel Database
 4.  [【TG SCOOP】寝取られがテーマの『Blue』シリーズ第8弾！](http://www.tgsmart.jp/article.aspx?a=12571)TG Smart

@@ -61,7 +61,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/叡仁" title="wikilink">叡仁</a> (<a href="https://zh.wikipedia.org/wiki/Lovelyz" title="wikilink">Lovelyz</a>)</p></td>
-<td><p>EP03-至今</p></td>
+<td><p>EP03－EP24</p></td>
 <td><p>EP07-08、17-18缺席</p></td>
 <td></td>
 </tr>
@@ -73,23 +73,33 @@
 </tr>
 <tr class="even">
 <td><p>妍斗孔</p></td>
-<td><p>《新品任堂》<br />
-《Lara Review》</p></td>
-<td><p>EP01-至今<br />
-EP01-11</p></td>
+<td><p>《新品任堂》</p></td>
+<td><p>EP01-EP24</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>《Lara Review》</p></td>
+<td><p>EP01-11</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/尹彩暻" title="wikilink">彩暻</a> (<a href="../Page/APRIL_(女子團體).md" title="wikilink">APRIL</a>)</p></td>
 <td><p>《Lara Review》<br />
 《Get It Box》</p></td>
 <td><p>EP01-至今</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>真率 (<a href="../Page/APRIL_(女子團體).md" title="wikilink">APRIL</a>)</p></td>
 <td><p>EP13-至今</p></td>
 <td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/恩熙_(歌手).md" title="wikilink">恩熙</a> (<a href="https://zh.wikipedia.org/wiki/宇宙少女" title="wikilink">宇宙少女</a>)</p></td>
+<td><p>《新品任堂》</p></td>
+<td><p>EP29-至今</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -1122,16 +1132,18 @@ K-面膜輔助使用法<br />
 《Lara Review》<br />
 《新品任堂》</p></td>
 <td><p>選出美生平沐浴乳<br />
-<br />
-</p></td>
+打造緊致的臉乳<br />
+2019 秋季 Hipstagram</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>28</p></td>
 <td><p>9月27日</p></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p><a href="../Page/Tiffany_(少女時代).md" title="wikilink">Tiffany</a> (<a href="https://zh.wikipedia.org/wiki/少女時代" title="wikilink">少女時代</a>)</p></td>
+<td><p>《新品任堂》<br />
+《美生平》</p></td>
+<td><p>美妝純淨區域<br />
+選出美生平身體乳液</p></td>
 <td></td>
 </tr>
 <tr class="odd">

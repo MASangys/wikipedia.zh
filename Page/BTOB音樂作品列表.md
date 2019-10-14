@@ -2,7 +2,7 @@
 
 ## 韓語作品
 
-  - **成員個人**發行之單曲、專輯請參見**[鄭鎰勳](../Page/鄭鎰勳.md "wikilink")**、**[李昌燮](../Page/李昌燮.md "wikilink")**、**[李旼赫](../Page/李旼赫.md "wikilink")**、**[Peniel](../Page/辛東根.md "wikilink")**，**分隊**之作品請參見**[BTOB－BLUE](../Page/BTOB－BLUE.md "wikilink")**。
+  - **成員個人**發行之單曲、專輯請參見**各成員頁面**，**分隊**之作品請參見**[BTOB－BLUE](../Page/BTOB－BLUE.md "wikilink")**。
 
 ### 正規專輯
 

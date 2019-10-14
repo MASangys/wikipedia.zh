@@ -78,7 +78,7 @@ Nowhere Boys名字來自關於[約翰藍儂成長的電影](https://zh.wikipedia
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p>4th</p></td>
-<td style="text-align: left;"><p>Journey To Nowhere</p></td>
+<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/Journey_To_Nowhere" title="wikilink">Journey To Nowhere</a></p></td>
 <td style="text-align: left;"><p>大碟</p></td>
 <td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/Frenzi_Music" title="wikilink">Frenzi Music</a><br />
 <a href="https://zh.wikipedia.org/wiki/寰亞唱片" title="wikilink">寰亞唱片</a></p></td>

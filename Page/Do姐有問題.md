@@ -1,4 +1,4 @@
-《**Do姐有問題**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")的資訊遊戲節目，共3輯，第1、2輯都是25集，由[鄭裕玲](../Page/鄭裕玲.md "wikilink")、[陸永權](https://zh.wikipedia.org/wiki/陸永權 "wikilink")、[鄭詩君擔任主持](https://zh.wikipedia.org/wiki/鄭詩君 "wikilink")，第一輯於2016年3月7日起[香港時間](../Page/香港時間.md "wikilink")逢星期一至五22:30－23:00在[翡翠台](../Page/翡翠台.md "wikilink")播出\[1\]，及於[myTV提供網上節目重溫](https://zh.wikipedia.org/wiki/myTV "wikilink")（集數上傳後兩個月後會刪除），由[樓上特約](https://zh.wikipedia.org/wiki/樓上 "wikilink")。第二輯於2018年3月12日起香港時間逢星期一至五22:30－23:00在[翡翠台](../Page/翡翠台.md "wikilink")播出\[2\]\[3\]\[4\]，及於[myTV SUPER提供網上節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（集數上傳7天後會刪除），由[康業信貸快遞特約](https://zh.wikipedia.org/wiki/康業信貸快遞 "wikilink")。第三輯於2019年7月21日起香港時間逢星期日20:30－21:30在[翡翠台](../Page/翡翠台.md "wikilink")播出\[5\]\[6\]，及於[myTV SUPER提供網上節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（集數上傳7天後會刪除），由[康業信貸快遞K](https://zh.wikipedia.org/wiki/康業信貸快遞 "wikilink") Cash特約。
+《**Do姐有問題**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")的資訊遊戲節目，共3輯，第1、2輯都是25集，由[鄭裕玲](../Page/鄭裕玲.md "wikilink")、[農夫擔任主持](../Page/農夫_\(組合\).md "wikilink")，第一輯於2016年3月7日起[香港時間](../Page/香港時間.md "wikilink")逢星期一至五22:30－23:00在[翡翠台](../Page/翡翠台.md "wikilink")播出\[1\]，及於[myTV提供網上節目重溫](https://zh.wikipedia.org/wiki/myTV "wikilink")（集數上傳後兩個月後會刪除），由[樓上特約](https://zh.wikipedia.org/wiki/樓上 "wikilink")。第二輯於2018年3月12日起香港時間逢星期一至五22:30－23:00在[翡翠台](../Page/翡翠台.md "wikilink")播出\[2\]\[3\]\[4\]，及於[myTV SUPER提供網上節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（集數上傳7天後會刪除），由[康業信貸快遞特約](https://zh.wikipedia.org/wiki/康業信貸快遞 "wikilink")。第三輯於2019年7月21日起香港時間逢星期日20:30－21:30在[翡翠台](../Page/翡翠台.md "wikilink")播出\[5\]\[6\]，及於[myTV SUPER提供網上節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（集數上傳7天後會刪除），由[康業信貸快遞K](https://zh.wikipedia.org/wiki/康業信貸快遞 "wikilink") Cash特約。
 
 ## 每集內容
 
@@ -369,7 +369,7 @@
 <td><p><strong><a href="../Page/太平洋法郎.md" title="wikilink">太平洋法郎</a></strong><br />
 <a href="https://zh.wikipedia.org/wiki/烏茲別克索姆" title="wikilink">烏茲別克索姆</a></p></td>
 <td><p><strong>81</strong><br />
-970</p></td>
+0.96</p></td>
 <td><p>無</p></td>
 </tr>
 <tr class="even">
@@ -691,7 +691,7 @@
   - 嘉賓可以在遊戲使用兩次「Big Big Tips」，即給予與該題目相關的大提示
   - 嘉賓另有六張功能卡，其中包括「進攻卡」：把對方的答案據為己有、「防守卡」：防止自己的答案被對方搶走及「空白卡」：無功用，嘉賓在每次答完問題均必須使用
   - 在最後環節中，嘉賓先拉[老虎機](https://zh.wikipedia.org/wiki/老虎機 "wikilink")，再按所得的圖案決定所屬的等級，依次為「[頭等艙](https://zh.wikipedia.org/wiki/頭等艙 "wikilink")」：3個地方中有2個屬高匯率國家、「[商務艙](../Page/商務艙.md "wikilink")」：4地中有2個屬高匯率國家及「[經濟艙](../Page/經濟艙.md "wikilink")」：4地中只有1個屬高匯率國家
-  - 嘉賓所得的分數可在3-4個城市中選出其所屬國家的貨幣，之後將該分數的貨幣轉換成港幣，成爲嘉賓該集獲得的獎金（如嘉賓得500分，而嘉賓選擇[紐約市](https://zh.wikipedia.org/wiki/紐約市 "wikilink")，即該嘉賓可獲得以500[美元](../Page/美元.md "wikilink")轉換成約3900港元的獎金）
+  - 嘉賓所得的分數可在3-4個城市中選出其所屬國家的貨幣，之後將該分數的貨幣轉換成港幣，成爲嘉賓該集獲得的獎金（如嘉賓得500分，而嘉賓選擇[華盛頓市](https://zh.wikipedia.org/wiki/華盛頓市 "wikilink")，即該嘉賓可獲得以500[美元](../Page/美元.md "wikilink")轉換成約3900港元的獎金）
   - 粗體為該集獎金最多嘉賓。
 
 <table>
@@ -839,8 +839,38 @@
 <tr class="odd">
 <td><p>09</p></td>
 <td><p>9月22日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/森美" title="wikilink">森美</a>、<a href="https://zh.wikipedia.org/wiki/小儀" title="wikilink">小儀</a><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/森美" title="wikilink">森美</a>、<a href="https://zh.wikipedia.org/wiki/小儀" title="wikilink">小儀</a></strong><br />
 <a href="../Page/黎諾懿.md" title="wikilink">黎諾懿</a>、<a href="../Page/湯洛雯.md" title="wikilink">湯洛雯</a></p></td>
+<td><p><strong>1700</strong><br />
+1600</p></td>
+<td><p><a href="../Page/經濟艙.md" title="wikilink">經濟艙</a></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/布拉迪斯拉發" title="wikilink">布拉迪斯拉發</a></strong><br />
+<a href="../Page/布拉格.md" title="wikilink">布拉格</a></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/歐元" title="wikilink">歐元</a></strong><br />
+<a href="../Page/捷克克朗.md" title="wikilink">捷克克朗</a></p></td>
+<td><p><strong>14790</strong><br />
+544</p></td>
+</tr>
+<tr class="even">
+<td><p>10</p></td>
+<td><p>9月29日</p></td>
+<td><p><a href="../Page/方力申.md" title="wikilink">方力申</a>、<a href="../Page/王灝兒.md" title="wikilink">王灝兒</a><br />
+<strong><a href="../Page/陳煒.md" title="wikilink">陳煒</a>、<a href="../Page/張達倫.md" title="wikilink">張達倫</a></strong></p></td>
+<td><p>1300<br />
+<strong>2300</strong></p></td>
+<td><p><a href="../Page/商務艙.md" title="wikilink">商務艙</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/三十三人城" title="wikilink">三十三人城</a><br />
+<strong><a href="../Page/十月六日城.md" title="wikilink">十月六日城</a></strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/烏拉圭披索" title="wikilink">烏拉圭披索</a><br />
+<strong><a href="../Page/埃及鎊.md" title="wikilink">埃及鎊</a></strong></p></td>
+<td><p>273<br />
+<strong>1081</strong></p></td>
+</tr>
+<tr class="odd">
+<td><p>11</p></td>
+<td><p>10月6日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/" title="wikilink"></a>、<a href="https://zh.wikipedia.org/wiki/" title="wikilink"></a>、<a href="https://zh.wikipedia.org/wiki/" title="wikilink"></a><br />
+<a href="https://zh.wikipedia.org/wiki/" title="wikilink"></a>、<a href="https://zh.wikipedia.org/wiki/" title="wikilink"></a>、<a href="https://zh.wikipedia.org/wiki/" title="wikilink"></a></p></td>
 <td></td>
 <td></td>
 <td></td>

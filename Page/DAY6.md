@@ -45,7 +45,7 @@ DAY6首場世界巡迴演唱會「Youth」由6月22日至24日首爾站次揭開
 
 11月22日，在官方Facebook上公布了回歸概念照，宣布Day6將會在10日發行新專輯《[Remember Us : Youth Part 2](../Page/Remember_Us_:_Youth_Part_2.md "wikilink")》。11月25日，公開新專輯的曲目，主打曲為《행복했던 날들이었다》。11月27日，開始陸續公開個成員個人照。12月10日韓國時間6時，公布新曲MV，並在當晚9時進行了回歸V Live 直播。
 
-### 2019年：韓語迷你四輯《The Book of Us : Gravity》、第二次世界巡回演唱會、首次獲得一位
+### 2019年：韓語迷你五輯《The Book of Us : Gravity》、第二次世界巡回演唱會、首次獲得一位
 
 6月30日.官方在Facebook 上公佈了回歸概念照,宣佈Day6將會在7月15日發行新專輯《The Book of Us : Gravity》\[54\]。7月1日, 公開第二次世界巡回演唱會《DAY6 WORLD TOUR 'GRAVITY'》的地點和日期。翌日,公開新專輯的曲目,並宣佈主打曲為《Time of Our Life(한 페이지가 될 수 있게)》。7月4日,開始陸續公開個成員和團體個人照。7月15日韓國時間6時,公佈新曲MV,並在當晚韓國時間8時進行了回歸V Live 直播。新曲發佈後立刻上了韓國兩大音源網站 Bugs 和 NAVER Music 的即時榜冠軍,並登上了新加坡、泰國、菲律賓、俄羅斯⋯⋯等海外 10 個國家的 iTunes 專輯榜首。\[55\] 在打歌期間，DAY6於Show Champion以《Time of Our Life(한 페이지가 될 수 있게)連續兩周獲得一位，並在M Countdown上再次獲得一位。
 

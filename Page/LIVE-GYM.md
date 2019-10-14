@@ -697,7 +697,7 @@ B'z WAVE-GYM SPECIAL EVENT</p></td>
 <tbody>
 <tr class="odd">
 <td><p>1999年6月30日</p></td>
-<td><p>B'z SHOWCASE '99 "B'zepp"</p></td>
+<td><p>B'z LIVE-GYM '99 Brotherhood SHOWCASE -B'Zepp-</p></td>
 <td><p><strong>1會場1公演</strong> -  <a href="../Page/滿園庄太郎.md" title="wikilink">滿園庄太郎</a>作為<a href="https://zh.wikipedia.org/wiki/貝斯手" title="wikilink">貝斯手參加</a>。<br />
 <strong>EDSE</strong> - 「<a href="https://zh.wikipedia.org/wiki/Brotherhood_(B&#39;z專輯)" title="wikilink">夢のような日々</a>」</p></td>
 </tr>
@@ -807,7 +807,7 @@ B'z WAVE-GYM SPECIAL EVENT</p></td>
 </tr>
 <tr class="even">
 <td><p>2001年2月22日</p></td>
-<td><p>B'z SHOWCASE 2001 "コブシヲニギレ"</p></td>
+<td><p>B'z SHOWCASE "コブシヲニギレ"</p></td>
 <td><p><strong>1會場1公演</strong> -  披露了未發表曲「Logic」。</p></td>
 </tr>
 <tr class="odd">
@@ -916,8 +916,7 @@ B'z WAVE-GYM SPECIAL EVENT</p></td>
 </tr>
 <tr class="odd">
 <td><p>2002年6月17日</p></td>
-<td><p>B'z SHOWCASE 2002<br />
-"SAPPORO DEVIL"</p></td>
+<td><p>B'z SHOWCASE "SAPPORO DEVIL"</p></td>
 <td><p><strong>1會場1公演</strong> - Zepp Sapporo 鼓手從這年開始參加。此外，<a href="https://zh.wikipedia.org/wiki/Billy_Sheehan" title="wikilink">Billy Sheehan作為</a><a href="https://zh.wikipedia.org/wiki/貝斯手" title="wikilink">貝斯手參加</a>。<br />
 <strong>EDSE</strong> - 「[[IT'S_SHOWTIME</p></td>
 </tr>

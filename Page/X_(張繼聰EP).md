@@ -4,4 +4,4 @@
 
 ## 獎項
 
-[Category:張繼聰音樂專輯](https://zh.wikipedia.org/wiki/Category:張繼聰音樂專輯 "wikilink") [Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
+[Category:張繼聰音樂專輯](https://zh.wikipedia.org/wiki/Category:張繼聰音樂專輯 "wikilink") [Category:2013年迷你專輯](https://zh.wikipedia.org/wiki/Category:2013年迷你專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")

@@ -12,9 +12,9 @@ S.I.S於8月17日公開團體預告照，8月20日公開精華組曲預告，8�
 
 2017年8月25日，發佈了第一張單曲專輯《I've Got A Feeling》，專輯包含四首歌曲。同時於8月25日於音樂銀行出道初舞台，演出歌曲《I've Got A Feeling》。
 
-### 參加The Unit
+### 參加《[The Unit](../Page/The_Unit.md "wikilink")》
 
-參賽者原有Gaeul、Anne，後追加的參賽者有Sebin。最終排名Gaeul第39名、Anne第22名、Sebin的55名。
+參賽者原有Anne、Gaeul，後追加的參賽者有Sebin，比賽進行三個多月，最終排名分別是第22名、第39名及第55名，未能透過節目出道。
 
 ### 第二张单曲专辑
 
@@ -222,11 +222,11 @@ S.I.S於8月17日公開團體預告照，8月20日公開精華組曲預告，8�
 
 ### 综艺节目
 
-|      |        |                                                                 |                  |    |
-| ---- | ------ | --------------------------------------------------------------- | ---------------- | -- |
-| 年份   | 电视台    | 节目名称                                                            | 参与成员             | 备注 |
-| 2017 | KBS    | 《[The Unit](../Page/The_Unit.md "wikilink")》                    | Gaeul、Anne、Sebin |    |
-| 2019 | Viu TV | 《[林盧去追星](https://zh.wikipedia.org/wiki/林盧去追星 "wikilink")》 (第6集) | 全體               |    |
+|      |                                             |                                                                 |                  |
+| ---- | ------------------------------------------- | --------------------------------------------------------------- | ---------------- |
+| 年份   | 电视台                                         | 节目名称                                                            | 参与成员             |
+| 2017 | [韓國放送公社](../Page/韓國放送公社.md "wikilink")（KBS） | 《[The Unit](../Page/The_Unit.md "wikilink")》                    | Gaeul、Anne、Sebin |
+| 2019 | [ViuTV](../Page/ViuTV.md "wikilink")        | 《[林盧去追星](https://zh.wikipedia.org/wiki/林盧去追星 "wikilink")》 (第6集) | 全體               |
 
 ## 主要音樂節目榜單排名
 
@@ -245,10 +245,22 @@ S.I.S於8月17日公開團體預告照，8月20日公開精華組曲預告，8�
 <td><p>I've Got A Feeling</p></td>
 </tr>
 <tr class="odd">
-<td><p>2018年</p></td>
+<td></td>
 </tr>
 <tr class="even">
+<td><p>2018年</p></td>
+</tr>
+<tr class="odd">
 <td><p>SAY YES</p></td>
+</tr>
+<tr class="even">
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年</p></td>
+</tr>
+<tr class="even">
+<td><p>Always Be Your Girl</p></td>
 </tr>
 <tr class="odd">
 <td><ul>

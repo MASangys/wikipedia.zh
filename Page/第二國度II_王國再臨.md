@@ -84,7 +84,7 @@
 ## 外部連結
 
   -
-[Category:第二國度系列](https://zh.wikipedia.org/wiki/Category:第二國度系列 "wikilink") [Category:2018年電子遊戲](https://zh.wikipedia.org/wiki/Category:2018年電子遊戲 "wikilink") [Category:PlayStation_4遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_4遊戲 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:僅有單人模式的電子遊戲](https://zh.wikipedia.org/wiki/Category:僅有單人模式的電子遊戲 "wikilink") [Category:萬代南夢宮遊戲](https://zh.wikipedia.org/wiki/Category:萬代南夢宮遊戲 "wikilink") [Category:開放世界遊戲](https://zh.wikipedia.org/wiki/Category:開放世界遊戲 "wikilink")
+[Category:第二國度系列](https://zh.wikipedia.org/wiki/Category:第二國度系列 "wikilink") [Category:2018年電子遊戲](https://zh.wikipedia.org/wiki/Category:2018年電子遊戲 "wikilink") [Category:PlayStation_4遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_4遊戲 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:僅有單人模式的電子遊戲](https://zh.wikipedia.org/wiki/Category:僅有單人模式的電子遊戲 "wikilink") [Category:有追加下載內容的遊戲](https://zh.wikipedia.org/wiki/Category:有追加下載內容的遊戲 "wikilink") [Category:萬代南夢宮遊戲](https://zh.wikipedia.org/wiki/Category:萬代南夢宮遊戲 "wikilink") [Category:開放世界遊戲](https://zh.wikipedia.org/wiki/Category:開放世界遊戲 "wikilink") [Category:卡通渲染風格電子遊戲](https://zh.wikipedia.org/wiki/Category:卡通渲染風格電子遊戲 "wikilink")
 
 1.
 2.

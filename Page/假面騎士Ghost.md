@@ -1,4 +1,4 @@
-《**假面騎士Ghost**》（，），從2015年10月4日起於[朝日電視台](../Page/朝日電視台.md "wikilink")，每週日早上8:00-8:30播出的日本[特攝電視劇](https://zh.wikipedia.org/wiki/特攝 "wikilink")，假面騎士Ghost也是該劇主角變身的名字。本作為《[假面騎士系列](../Page/假面騎士系列.md "wikilink")》的第17部[平成](../Page/平成.md "wikilink")系列作品，口號是「燃燒生命吧！」、「英雄，是不停復活」、「幽靈眼魂爭奪戰！！」。
+《**假面騎士Ghost**》（，），從2015年10月4日起於[朝日電視台](../Page/朝日電視台.md "wikilink")，每週日早上8:00-8:30播出的日本[特攝電視劇](https://zh.wikipedia.org/wiki/特攝 "wikilink")，假面騎士Ghost也是該劇主角變身的名字。《[假面騎士系列](../Page/假面騎士系列.md "wikilink")》的第17部[平成](../Page/平成.md "wikilink")系列作品，口號是「燃燒生命吧！」、「英雄，是不停復活」、「幽靈眼魂爭奪戰！！」。
 
 台灣的東森綜合台及東森超視台於《假面騎士鎧武》播映完畢後，跳過本作與前作《假面騎士Drive》播出《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》。故此，本作是繼《[假面騎士顎門](https://zh.wikipedia.org/wiki/假面騎士顎門 "wikilink")》、《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》、《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》後，第四部沒有在台灣播出的平成假面騎士作品。
 
@@ -1238,7 +1238,7 @@ Ghost驅動器拉推手把「Detonate Trigger」後發動。眼槍劍「長劍�
     當準備使用「Toucon Boost」幽靈眼魂變身鬥魂鼓舞魂形態之時，放入內部插槽「Eyecon Sloan」則會先發出「Ibbatsu Toucon！（原文「」）」的音效；拉推手把「Detonate Trigger」 變身時發出的音效則是「Toucon Kaigan！（原文「」，漢字為「鬥魂開眼！」）▲▲！■ ■！」；當拉推手把「Detonate Trigger」發動必殺技時音效則是「Toucon Daikaigan！（原文「」，漢字為「鬥魂大開眼！」）▲▲！Omega Drive！」。
     當準備使用「Mugen」幽靈眼魂變身無限魂形態之時，放入內部插槽「Eyecon Sloan」則會先發出「無限進化（原文「」）」的音效；拉推手把「Detonate Trigger」 變身時發出的音效則是「Cho Kaigan！（原文「」，漢字為「超開眼！」）」▲▲！■ ■！」；當拉推手把「Detonate Trigger」發動必殺技時音效則是「Inochi Daikaigan！（原文「」，漢字為「命大開眼！」，亦即是「生命大開眼！」）■ ■！」；當發動最大必殺技時音效則是「Cho Daikaigan！（原文「」，漢字為「超大開眼！」）▲▲！God Omega Drive！」
     假面騎士Specter專用的腰帶在罩蓋合上及發出「Eye！」音效後，隨著所發出的連續待機音效則是「Bacchiri Miro！（原文「」，即是「」，中文意思同樣為「完美地看見！」）；使用「Necrom」幽靈眼魂變身時在罩蓋合上及發出「Eye！」音效後，隨著所發出的連續待機音效則是「Bacchiri Miya！（原文「」，即是「」，中文意思同樣為「完美地看見！」）。
-    當準備使用「Deep Specter」幽靈眼魂變身Deep Specter形態之時，放入內部插槽「Eyecon Sloan」則會先發出「Dive・to・Deep！（原文「ダイブ・トゥ・ディープ！」）」的音效，再發出待機音效「Girotto Miro！（原文「」；拉推手把「Detonate Trigger」 變身時發出的音效則是「Genkaigan！（原文「」，漢字為「限界眼！」，或可理解作「限界開眼！」）▲▲！■ ■！」；當拉推手把「Detonate Trigger」進入「激昂模式」時音效則是「Genkai Daikaigan！（原文「」，漢字為「限界大開眼！」）」▲▲！■ ■！」；當發動必殺技時音效則是「Kyokugen Daikaigan！（原文「」，漢字為「極限大開眼！」）▲▲！Giga Omega Drive！」
+    當準備使用「Deep Specter」幽靈眼魂變身Deep Specter形態之時，放入內部插槽「Eyecon Sloan」則會先發出「Dive・to・Deep！（原文「ダイブ・トゥ・ディープ！」）」的音效，再發出待機音效「Girotto Miro！（原文「」；拉推手把「Detonate Trigger」 變身時發出的音效則是「Genkaigan！（原文「」，漢字為「限界眼！」，或可理解作「限界開眼！」）▲▲！■ ■！」；當拉推手把「Detonate Trigger」進入「激昂模式」時音效則是「Genkai Daikaigan！（原文「」，漢字為「限界大開眼！」）」▲▲！■ ■！」，而待機音效則是「Giragira Miro！（原文「」；當發動必殺技時音效則是「Kyokugen Daikaigan！（原文「」，漢字為「極限大開眼！」）▲▲！Giga Omega Drive！」
     當準備使用「Sin Specter」幽靈眼魂變身Sin Specter形態之時，放入內部插槽「Eyecon Sloan」則會先發出「Seven进化（原文「」）」的音效；拉推手把「Detonate Trigger」 變身時發出的音效則是「Sin Kaigan！（原文「」，漢字為「罪開眼！」）」▲▲！■ ■！」；當拉推手把「Detonate Trigger」發動必殺技時音效則是「Sin Daikaigan！（原文「」，漢字為「命大開眼！」，亦即是「罪大開眼！」）■ ■！」；當發動最大必殺技時音效則是「Sin Daikaigan！（原文「」，漢字為「超大開眼！」）▲▲！Deadly Omega Drive！（原文「」
     使用「Ore Specter」幽靈眼魂變身時在罩蓋合上及發出「Eye！」音效後，隨著所發出的連續待機音效則是「Bacchiri Mina！Bacchiri Miro！（原文「」，即是「」，中文意思同樣為「完美地看見！完美地看見！」）。
     拔出幽靈眼魂並將表面罩蓋蓋上，當發出音效「Oyasumi！（原文「」，即是「」，中文為「晚安」的意思」）」後以作解除變身。
@@ -3703,7 +3703,25 @@ Ghost驅動器使用時音效為「Let's Go！Kakugo！Gho・Gho・Gho・Ghost�
 <!-- end list -->
 
   -
-    第48話最終話（特別篇）。
+    第48話-最終話，假面騎士Ghost登場（特別篇）。
+
+<!-- end list -->
+
+  - 《[動物戰隊獸王者](../Page/動物戰隊獸王者.md "wikilink")》
+
+<!-- end list -->
+
+  -
+    第7話，假面騎士Ghost登場
+
+<!-- end list -->
+
+  - 《[假面騎士ZI-O](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")》
+
+<!-- end list -->
+
+  -
+    第13-15話，假面騎士Ghost、假面騎士Specter登場。
 
 ### 映像商品
 

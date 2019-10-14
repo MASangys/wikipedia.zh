@@ -338,21 +338,21 @@
 
 ## 音樂影片(MV)
 
-|                      |                              |                                |
-| -------------------- | ---------------------------- | ------------------------------ |
-| 年份                   | 日期                           | 歌名                             |
-| 2015                 | 8月24日                        | 《Dream Candy (꿈사탕)》\[2\]       |
-| 11月25日               | 《Muah\!》\[3\]                |                                |
-| 12月21日               | 《Snowman》\[4\]               |                                |
-| 2016                 | 4月27日                        | 《Tinker Bell (팅커벨)》\[5\]       |
-| 2017                 | 1月4日                         | 《April Story (봄의 나라 이야기)》\[6\] |
-| 5月30日                | 《MAYDAY》\[7\]                |                                |
-| 《Lovesick (따끔)》\[8\] |                              |                                |
-| 9月20日                | 《Take My Hand (손을 잡아줘)》\[9\] |                                |
-| 2018                 | 2月7日                         | 《My Story (내 이야기)》\[10\]       |
-| 3月12日                | 《The Blue Bird (파랑새)》\[11\]  |                                |
-| 10月16日               | 《Oh\! my mistake(예쁜게 죄)》     |                                |
-| 2019                 | 1月16日                        | 《Oh-e-Oh》                      |
+|                      |                                |                                |
+| -------------------- | ------------------------------ | ------------------------------ |
+| 年份                   | 日期                             | 歌名                             |
+| 2015                 | 8月24日                          | 《Dream Candy (꿈사탕)》\[2\]       |
+| 11月25日               | 《Muah\!》\[3\]                  |                                |
+| 12月21日               | 《Snowman》\[4\]                 |                                |
+| 2016                 | 4月27日                          | 《Tinker Bell (팅커벨)》\[5\]       |
+| 2017                 | 1月4日                           | 《April Story (봄의 나라 이야기)》\[6\] |
+| 5月30日                | 《MAYDAY》\[7\]                  |                                |
+| 《Lovesick (따끔)》\[8\] |                                |                                |
+| 9月20日                | 《Take My Hand (손을 잡아줘)》\[9\]   |                                |
+| 2018                 | 2月7日                           | 《My Story (내 이야기)》\[10\]       |
+| 3月12日                | 《The Blue Bird (파랑새)》\[11\]    |                                |
+| 10月16日               | 《Oh\! my mistake(예쁜게 죄)》\[12\] |                                |
+| 2019                 | 1月16日                          | 《Oh-e-Oh》Japanese Ver.\[13\]   |
 
 ### 其它音樂影片
 
@@ -369,27 +369,38 @@
 <tr class="even">
 <td><p>2016</p></td>
 <td><p>6月9日</p></td>
-<td><p>손끝의 사랑(The Love of Fingertips)[12]</p></td>
+<td><p>손끝의 사랑<br />
+(The Love of Fingertips)[14]</p></td>
 <td><p><a href="../Page/B1A4.md" title="wikilink">B1A4</a>, <a href="../Page/徐恩光.md" title="wikilink">徐恩光</a>, <a href="../Page/李昌燮.md" title="wikilink">李昌燮</a>,<br />
 <a href="../Page/許齡智.md" title="wikilink">許齡智</a>, <a href="../Page/A-JAX.md" title="wikilink">A-JAX</a>, <a href="../Page/APRIL_(女子團體).md" title="wikilink">APRIL</a>,<br />
 <a href="https://zh.wikipedia.org/wiki/Oh_My_Girl" title="wikilink">Oh My Girl</a>,<a href="https://zh.wikipedia.org/wiki/Kassy" title="wikilink">Kassy</a></p></td>
-<td><p>採媛, 娜恩, 睿娜, 真率</p></td>
+<td><p>采媛, 娜恩<br />
+睿娜, 真率</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2019</p></td>
 <td><p>5月7日</p></td>
-<td><p>스며들기 좋은 오늘(Lean On Me)</p></td>
+<td><p>스며들기 좋은 오늘(Lean On Me)[15]</p></td>
 <td><p><a href="../Page/李娜恩.md" title="wikilink">李娜恩</a>(原唱:<a href="https://zh.wikipedia.org/wiki/白藝潾" title="wikilink">白藝潾</a>)</p></td>
 <td><p>娜恩</p></td>
-<td><p>A-TEEN2 OST</p></td>
+<td><p><a href="../Page/A-TEEN_2_(電視劇).md" title="wikilink">A-TEEN 2</a> OST</p></td>
 </tr>
 <tr class="even">
 <td><p>8月4日</p></td>
-<td><p>우리 꼭 사귀는 것 같잖아요(Lovesome)</p></td>
-<td><p>보이스퍼(VOISPER),<a href="../Page/彩暻.md" title="wikilink">彩暻</a></p></td>
+<td><p>우리 꼭 사귀는 것 같잖아요(Lovesome)[16]</p></td>
+<td><p>보이스퍼(VOISPER), <a href="../Page/彩暻.md" title="wikilink">彩暻</a></p></td>
 <td><p>彩暻</p></td>
 <td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>9月27日</p></td>
+<td><p>다만 너(LUCID DREAM)[17]</p></td>
+<td><p><a href="../Page/VICTON.md" title="wikilink">VICTON</a>秀彬, <a href="https://zh.wikipedia.org/wiki/APRIL" title="wikilink">APRIL真率</a><br />
+(原唱:<a href="../Page/朴經.md" title="wikilink">朴經</a>)</p></td>
+<td><p>真率</p></td>
+<td><p>再次遇見的你 OST</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -411,3 +422,8 @@
 10.
 11.
 12.
+13.
+14.
+15.
+16.
+17.

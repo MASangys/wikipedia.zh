@@ -4,6 +4,10 @@
 
 花蓮文創產業園區所在地曾是[花蓮酒廠的廠房](https://zh.wikipedia.org/wiki/花蓮酒廠 "wikilink")。花蓮酒廠成立於1913年，主要生產紅酒、米酒等產品。1944年，花蓮酒廠遭到[美軍空襲](https://zh.wikipedia.org/wiki/美軍 "wikilink")，遭到了嚴重損害。[國民政府](../Page/國民政府.md "wikilink")接收花蓮酒廠之後，對廠房進行修復，並繼續生產酒類產品。1988年，花蓮酒廠搬遷至美崙新廠。在閒置多年之後，舊花蓮酒廠廠房規劃為花蓮文創產業園區。2012年，花蓮文創產業園區成立。
 
+## 圖片
+
+<File:Hualien> Cultural & Creative Industries Park, Hualien City (Taiwan).jpg <File:Hualien> Cultural & Creative Industries Park, pond, Hualien City (Taiwan).jpg <File:Hualien> Cultural & Creative Industries Park, warehouse 8, Hualien City, Hualien County (Taiwan).jpg <File:Hualien> Cultural & Creative Industries Park, hallway, Hualien City (Taiwan).jpg <File:Hualien> Cultural & Creative Industries Park (a-zone), Hualien City (Taiwan).jpg <File:Former> Hualien Brewery, door latch (Taiwan).jpg <File:Former> Hualien Brewery, chimney (Taiwan).jpg <File:Hualien> Cultural & Creative Industries Park, warehouse 24, Hualien City, Hualien County (Taiwan).jpg
+
 ## 外部連結
 
   - [a-zone花蓮文化創意產業園區](http://www.a-zone.com.tw/)

@@ -31,7 +31,7 @@ Libreboot项目使得将一些[ThinkPad](../Page/ThinkPad.md "wikilink")、[MacB
 ## 拓展阅读
 
   - [Open BIOSes for Linux](http://www.ibm.com/developerworks/linux/library/l-bios), by Peter Seebach
-  - [LinuxBIOS ready to go mainstream](http://www.linux.com/article.pl?sid=06/11/30/199208), by Bruce Byfield
+  - [LinuxBIOS ready to go mainstream](https://web.archive.org/web/20070110135736/http://www.linux.com/article.pl?sid=06%2F11%2F30%2F199208), by Bruce Byfield
   - [First desktop motherboard supported by LinuxBIOS: GIGABYTE M57SLI-S4](https://lkml.org/lkml/2007/2/21/490), by Brandon Howard
   - [Video recording of Ron Minnich's LinuxBIOS talk from FOSDEM 2007](https://web.archive.org/web/20070928142218/http://ftp.belnet.be/mirrors/FOSDEM/2007/FOSDEM2007-LinuxBios.ogg)
   - [Coreboot Your Service](http://www.linuxjournal.com/magazine/coreboot-your-service), Linux Journal，2009年10月

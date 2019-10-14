@@ -322,7 +322,7 @@ Into the New World（原唱：<a href="../Page/少女时代.md" title="wikilink"
 </tr>
 <tr class="odd">
 <td><p>年度人物 Music Present</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Chen" title="wikilink">Chen</a>(<a href="../Page/EXO.md" title="wikilink">EXO</a>)、<a href="../Page/黃致列.md" title="wikilink">黃致列</a></p></td>
+<td><p><a href="../Page/CHEN_(EXO).md" title="wikilink">Chen</a>(<a href="../Page/EXO.md" title="wikilink">EXO</a>)、<a href="../Page/黃致列.md" title="wikilink">黃致列</a></p></td>
 <td><p>Never Ending Story（原唱：Boohwal） [15]</p></td>
 </tr>
 <tr class="even">

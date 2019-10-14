@@ -156,7 +156,7 @@
 </tr>
 <tr class="even">
 <td><p>第四位</p></td>
-<td><p>　<a href="https://zh.wikipedia.org/wiki/松本潤" title="wikilink">松本潤</a></p></td>
+<td><p>　<a href="../Page/松本潤.md" title="wikilink">松本潤</a></p></td>
 <td><p>　《<a href="https://zh.wikipedia.org/wiki/花樣男子_(日本電視劇)" title="wikilink">花樣男子2</a>》</p></td>
 </tr>
 <tr class="odd">

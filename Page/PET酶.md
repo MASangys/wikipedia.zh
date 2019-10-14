@@ -7,9 +7,15 @@ PET酶催化的反應式可簡單表示為：\[3\]
 
 [缩略图](https://zh.wikipedia.org/wiki/File:PETase_5XH3_with_HEMT-surface.png "fig:缩略图")103[G及](../Page/甘氨酸.md "wikilink") [S](../Page/絲氨酸.md "wikilink")131[A](../Page/丙氨酸.md "wikilink"))的PET酶表面圖像，HEMT並接上了其[活性位置](../Page/活性位点.md "wikilink")。HEMT，1-(2-羥乙基) 4-甲基對苯二甲酸，是結構類似於MHET的物質，帶有多一處的[甲醇](../Page/甲醇.md "wikilink")[酯](../Page/酯.md "wikilink")化。PDBID: 5XH3\]\] 直至2018年，已經有數種立體結構被解析出來，包括[5XH3](http://www.rcsb.org/structure/5XH3)、[5XH2](http://www.rcsb.org/structure/5XH2)、[5XG0](http://www.rcsb.org/structure/5XG0)、[5XFZ](http://www.rcsb.org/structure/5XFZ)、[5XFY](http://www.rcsb.org/structure/5XFY)、[5YNS](http://www.rcsb.org/structure/5YNS) 、[5XJH](http://www.rcsb.org/structure/5XJH)等。
 
-## 參考資料
+## 参考文献
 
-[Category:酶](https://zh.wikipedia.org/wiki/Category:酶 "wikilink") [Category:水解酶](https://zh.wikipedia.org/wiki/Category:水解酶 "wikilink") [Category:循環再造](https://zh.wikipedia.org/wiki/Category:循環再造 "wikilink")
+## 参见
+
+  - [酯酶](../Page/酯酶.md "wikilink")
+
+{{-}}
+
+[Category:EC_3.1.1](https://zh.wikipedia.org/wiki/Category:EC_3.1.1 "wikilink") [Category:水解酶](https://zh.wikipedia.org/wiki/Category:水解酶 "wikilink") [Category:循環再造](https://zh.wikipedia.org/wiki/Category:循環再造 "wikilink")
 
 1.
 2.

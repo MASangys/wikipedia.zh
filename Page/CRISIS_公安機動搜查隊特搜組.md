@@ -401,7 +401,7 @@
 1.
 2.  [小栗旬主演ドラマで存在感 テロリスト役のイケメン若手俳優・大和孔太に注目＜プロフィール＞](https://news.nifty.com/article/entame/showbizd/12160-1681363/) niftyニュース(2017年04月25日), 2017年04月26日閲覧。
 3.  [『CRISIS』3話メインゲストに抜擢された新人俳優・堀家一希「小栗旬さんの“心だけ熱くして”という言葉が心に響きました」](https://news.nifty.com/article/entame/showbizd/12173-oric2089767/) niftyニュース(2017年04月25日), 2017年04月26日閲覧。
-4.  [関西テレビ「CRISIS 公安機動捜査隊特捜班」第7話出演決定！！](https://www.lespros.co.jp/news/detail/12430)[レプロエンターテイメント](https://zh.wikipedia.org/wiki/レプロエンターテイメント "wikilink") (2017年05月16日)
+4.  [関西テレビ「CRISIS 公安機動捜査隊特捜班」第7話出演決定！！](https://www.lespros.co.jp/news/detail/12430) [レプロエンターテイメント](https://zh.wikipedia.org/wiki/レプロエンターテイメント "wikilink") (2017年05月16日)
 5.  [明日は2番組！チェックしてください＾＾](http://ameblo.jp/ryota-official/entry-12277006497.html)小林亮太オフィシャルブログ(2017年05月22日)。
 6.  [告知です！](https://ameblo.jp/saikawa-koji/entry-12276178404.html)才川コージフィシャルブログ(2017年05月19日)
 7.  [小栗＆西島、現役レスラーと死闘の撮影](https://www.lmaga.jp/news/2017/05/24586/?cv=y)Lmagazine(2017年05月28日)

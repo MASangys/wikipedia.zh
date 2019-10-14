@@ -352,6 +352,6 @@
 
   - [官方网站](http://mnettv.interest.me/unprettyrapstar3/teaser)
 
-[Category:正在播放的电视节目](https://zh.wikipedia.org/wiki/Category:正在播放的电视节目 "wikilink") [Category:韩国电视节目](https://zh.wikipedia.org/wiki/Category:韩国电视节目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink")
+[Category:韩国电视节目](https://zh.wikipedia.org/wiki/Category:韩国电视节目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink")
 
 1.

@@ -52,6 +52,12 @@
   - 2014： 憑《monocircus》獲得由通利琴行主辦的「原音2014」樂隊比賽金獎及CASH原創歌曲獎。年底發行首張數碼單曲《Petals》，更與同名EP《per se》被評為KKBOX editor's choice。
   - 2015： 以作品《monocircus》為題，聯同Snaptee舉辦了T裇設計比賽，推廣香港本土藝術創作。《monocircus》與之前推出的《Petals》分別於派台期間登上音樂平台iTunes和KKBOX首頁。期後，與另外兩位音樂人以樂隊stereo is the answer贏得YAMAHA Asian Beat 樂隊比賽2015香港區冠軍，而Stephen更獲得最佳歌手。
 
+<references />
+
+## 演出
+
+[Through the Branches 音樂會](https://musicmap.hk/hk/event/perse-through-the-branches)
+
 [Category:2013年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年成立的音樂團體 "wikilink") [Category:香港演唱團體](https://zh.wikipedia.org/wiki/Category:香港演唱團體 "wikilink")
 
 1.  [詩式流行樂　PER SE](http://www.metropop.com.hk/%E8%A9%A9%E5%BC%8F%E6%B5%81%E8%A1%8C%E6%A8%82%E3%80%80per-se)

@@ -147,23 +147,29 @@ PlotData =
 `bar:Yijo         from:start      till:04/30/2011`
 `bar:Joy          from:start      till:06/12/2012`
 `bar:Riko         from:start      till:03/08/2013`
-`bar:Jooyi        from:start      till:01/15/2015`
+`bar:Jooyi        from:start      till:11/15/2014`
 `bar:Di           from:start      till:05/26/2016`
 `bar:T-ae         from:start      till:05/26/2016`
 `bar:Xia          from:start      till:05/26/2016`
 `bar:Yina         from:start      till:05/12/2014`
 `bar:Yina         from:12/27/2016 till:06/08/2017`
 `color:b width:7 textcolor:black align:left anchor:from`
-`bar:Alex         from:11/03/2015 till:08/19/2017`
-`bar:Zi.U         from:11/03/2015 till:03/19/2019        `
-`bar:Hyeme        from:11/03/2015 till:end       `
+`bar:Sharon       from:05/12/2014 till:04/13/2015`
 `color:c width:7 textcolor:black align:left anchor:from`
+`bar:Hyeme        from:12/01/2014 till:end       `
+`color:d width:7 textcolor:black align:left anchor:from`
+`bar:Alex         from:11/03/2015 till:08/19/2017`
+`bar:Zi.U         from:11/03/2015 till:03/19/2019`
+`color:e width:7 textcolor:black align:left anchor:from`
+`bar:Jieun        from:06/26/2016 till:08/28/2019     `
+`bar:Jihyun       from:06/26/2016  till:09/01/2016`
+`bar:Crystal      from:06/26/2016  till:09/01/2016`
+`color:f width:7 textcolor:black align:left anchor:from`
 `bar:Yumin        from:12/25/2016 till:05/30/2018`
 `bar:Ttabo        from:12/26/2016 till:11/07/2018        `
-`bar:Jieun        from:12/24/2016 till:08/28/2019     `
-`color:d width:7 textcolor:black align:left anchor:from`
+`color:pink width:7 textcolor:black align:left anchor:from`
 `bar:Namfon       from:06/28/2018 till:end`
-`color:e width:7 textcolor:black align:left anchor:from`
+`color:skyblue width:7 textcolor:black align:left anchor:from`
 `bar:Youngheun    from:08/28/2019 till:end    `
 `bar:Seonghyun      from:08/28/2019 till:end`
 `bar:Larissa    from:08/28/2019 till:end`
@@ -371,6 +377,9 @@ PlotData =
 
 **成員個人Instagram**
 
+  -
+  -
+  -
   -
   -
 [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:2011年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2011年成立的音樂團體 "wikilink")

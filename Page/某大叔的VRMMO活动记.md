@@ -1,4 +1,4 @@
-《某大叔的VRMMO活动记》﹙とあるおっさんのVRMMO活動記﹚是椎名ほわほわ創作、ヤマーダ繪圖的輕小說。
+《**某大叔的VRMMO活动记**》﹙とあるおっさんのVRMMO活動記﹚是椎名ほわほわ創作、ヤマーダ繪圖的輕小說。
 
 曾在「第6回アルファポリスファンタジー小説大賞」獲得「読者賞」\[1\]。
 
@@ -419,7 +419,7 @@
 
   - [ワンモア・フリーライフ・オンライン とあるおっさんのオンライン活動記](https://omf-game.alphapolis.co.jp/) - Flash遊戲
 
-[Category:成為小說家吧](https://zh.wikipedia.org/wiki/Category:成為小說家吧 "wikilink") [Category:輕小說改編漫畫](https://zh.wikipedia.org/wiki/Category:輕小說改編漫畫 "wikilink") [Category:日本科幻小說](https://zh.wikipedia.org/wiki/Category:日本科幻小說 "wikilink") [Category:Flash游戏](https://zh.wikipedia.org/wiki/Category:Flash游戏 "wikilink") [Category:AlphaPolis](https://zh.wikipedia.org/wiki/Category:AlphaPolis "wikilink")
+[Category:成為小說家吧](https://zh.wikipedia.org/wiki/Category:成為小說家吧 "wikilink") [Category:輕小說改編漫畫](https://zh.wikipedia.org/wiki/Category:輕小說改編漫畫 "wikilink") [Category:日本科幻小說](https://zh.wikipedia.org/wiki/Category:日本科幻小說 "wikilink") [Category:Flash游戏](https://zh.wikipedia.org/wiki/Category:Flash游戏 "wikilink") [Category:AlphaPolis](https://zh.wikipedia.org/wiki/Category:AlphaPolis "wikilink") [Category:虛擬實境網路遊戲題材作品](https://zh.wikipedia.org/wiki/Category:虛擬實境網路遊戲題材作品 "wikilink")
 
 1.
 2.

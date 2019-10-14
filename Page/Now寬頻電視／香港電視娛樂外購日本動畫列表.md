@@ -1265,7 +1265,7 @@ Psycho Pass 2</a></p></td>
 <td></td>
 <td></td>
 <td><p>24</p></td>
-<td></td>
+<td><p>每次播放兩集</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>註釋：</strong></p>

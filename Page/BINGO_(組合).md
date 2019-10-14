@@ -17,6 +17,7 @@
   - 2018年 廣東廣播電視台珠江頻道《粤语好聲音》
   - 2019年 ViuTV《初戀還未來？》
   - 2019年 ViuTV《[對不起 標籤你 II](https://zh.wikipedia.org/wiki/對不起_標籤你_II "wikilink")》
+  - 2019年 ViuTV《[啪啪 Partner](https://zh.wikipedia.org/wiki/啪啪_Partner "wikilink")》
   - 2019年 TVB《[法證先鋒IV](../Page/法證先鋒IV.md "wikilink")》
 
 ## 成員資料

@@ -1,4 +1,4 @@
-**HowHow**（），本名**陳孜昊**，[臺灣](../Page/臺灣.md "wikilink")[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[金山區人](../Page/金山區_\(台灣\).md "wikilink")，為知名[喜劇人](https://zh.wikipedia.org/wiki/喜劇人 "wikilink")、[網路紅人](https://zh.wikipedia.org/wiki/網路紅人 "wikilink")、[Youtuber](https://zh.wikipedia.org/wiki/Youtuber "wikilink")，他的[Youtube頻道有百萬以上訂閱數及](https://zh.wikipedia.org/wiki/Youtube "wikilink")3億次以上觀看次數。\[1\]因目前風格為[無厘頭影片](https://zh.wikipedia.org/wiki/無厘頭 "wikilink")，其作品在[批踢踢joke板常常第一時間被網友分享並推爆](https://zh.wikipedia.org/wiki/批踢踢 "wikilink")，在網路上有**廢片始祖**、**業配之王**、**業配鬼才**、**叛徒**的暱稱，2018年3月成為了[Office 365的品牌代言人](../Page/Office_365.md "wikilink")，目前與其他喜愛音樂的Youtuber所組成的樂團[七月半中擔任貝斯手及團長一職](https://zh.wikipedia.org/wiki/七月半_\(youtuber\) "wikilink")，於2019年2月14日情人節當天與歌手[鄧福如](../Page/鄧福如.md "wikilink")登記結婚。
+**HowHow**（），本名**陳孜昊**，[臺灣](../Page/臺灣.md "wikilink")[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[金山區人](../Page/金山區_\(台灣\).md "wikilink")，為知名[喜劇人](https://zh.wikipedia.org/wiki/喜劇人 "wikilink")、[網路紅人](https://zh.wikipedia.org/wiki/網路紅人 "wikilink")、[Youtuber](https://zh.wikipedia.org/wiki/Youtuber "wikilink")，他的[Youtube頻道有百萬以上訂閱數及](https://zh.wikipedia.org/wiki/Youtube "wikilink")3億次以上觀看次數。\[1\]因目前風格為[無厘頭影片](https://zh.wikipedia.org/wiki/無厘頭 "wikilink")，其作品在[批踢踢joke板常常第一時間被網友分享並推爆](https://zh.wikipedia.org/wiki/批踢踢 "wikilink")，在網路上有**廢片始祖**、**業配之王**、**業配鬼才**的暱稱，2018年3月成為了[Office 365的品牌代言人](../Page/Office_365.md "wikilink")，目前與其他喜愛音樂的Youtuber所組成的樂團[七月半中擔任貝斯手及團長一職](https://zh.wikipedia.org/wiki/七月半_\(youtuber\) "wikilink")，於2019年2月14日情人節當天與歌手[鄧福如](../Page/鄧福如.md "wikilink")登記結婚。
 
 陳孜昊為[師大附中畢業校友](../Page/國立臺灣師範大學附屬高級中學.md "wikilink")，[國立政治大學](../Page/國立政治大學.md "wikilink")經濟系學士，後負笈[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[喬治亞州](../Page/喬治亞州.md "wikilink")，在[薩凡納藝術設計學院](../Page/薩凡納藝術設計學院.md "wikilink")攻讀動畫和視覺特效碩士。\[2\]
 
@@ -18,6 +18,10 @@
 
 2019年3月12日，榮獲[上班不要看](../Page/上班不要看.md "wikilink")第一屆[走鐘獎](../Page/走鐘獎.md "wikilink")最佳男主角，成為第一屆走鐘獎唯一非[上班不要看](../Page/上班不要看.md "wikilink")得獎者。\[7\]
 
+2019年9月23日，在《炮仔聲》中客串演出。
+
+2019年9月24日，因影片中穿著警察制服，不慎露出警員臂章及警徽，遭有心人士向警方檢舉並傳喚到案說明。
+
 ## 個人生活
 
 透過[臉書結識目前公開的女友歌手](https://zh.wikipedia.org/wiki/臉書 "wikilink")[鄧福如](../Page/鄧福如.md "wikilink")，被[網友](../Page/網友.md "wikilink")戲稱為「[工具人聯盟的叛徒](https://zh.wikipedia.org/wiki/工具人 "wikilink")」\[8\]。2018年11月27日，他發布了向[鄧福如](../Page/鄧福如.md "wikilink")求婚成功的照片\[9\]，也立刻引來網上大批粉絲狂打「叛徒」留言調侃祝福。2018年12月4日，他在個人Youtube頻道上傳了求婚過程的影片，在不到17小時內迅速突破百萬點閱率。\[10\] 2019年2月14日兩人正式登記結婚，並於2019年6月8日舉辦婚禮。
@@ -29,6 +33,13 @@
 | **年份** | **出版日期**   | **書名**                            | **作者** | **出版社** | **ISBN**           |
 | 2018年  | 2018年1月10日 | 《How Fun！如何爽當YouTuber：一起開心拍片接業配！》 | 陳孜昊    | 高寶國際出版  | ISBN 9789863614838 |
 |        |            |                                   |        |         |                    |
+
+## 電視劇
+
+| 年代    | 電視台                                  | 劇名                                           | 飾演     |
+| ----- | ------------------------------------ | -------------------------------------------- | ------ |
+| 2019年 | [三立台灣台](../Page/三立台灣台.md "wikilink") | 《[炮仔聲](../Page/炮仔聲_\(台灣電視劇\).md "wikilink")》 | HowHow |
+|       |                                      |                                              |        |
 
 ## 相關條目
 

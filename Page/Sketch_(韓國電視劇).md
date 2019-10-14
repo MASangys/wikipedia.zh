@@ -37,7 +37,7 @@
 <td><p>劉詩賢</p></td>
 <td><p><strong>描繪未來者</strong><br />
 刑警。截至目前，她所描繪的未來72小時的素描從來沒有錯過。盡可能挽救哪怕一個生命，她不斷做著自己的努力。</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/何凱怡" title="wikilink">何凱怡</a></p></td>
+<td><p><a href="../Page/何凱怡.md" title="wikilink">何凱怡</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/鄭進永.md" title="wikilink">鄭進永</a></p></td>

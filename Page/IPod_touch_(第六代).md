@@ -16,7 +16,7 @@
 </tr>
 <tr class="even">
 <td><p>|最新作業系統</p></td>
-<td><p>iOS 12.4.1</p></td>
+<td><p>iOS 12.4.2</p></td>
 </tr>
 <tr class="odd">
 <td><p>|<a href="https://zh.wikipedia.org/wiki/螢幕" title="wikilink">螢幕</a></p></td>

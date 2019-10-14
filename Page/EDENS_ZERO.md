@@ -316,6 +316,11 @@
 <td><p>ISBN 978-4-06-515677-3</p></td>
 </tr>
 <tr class="odd">
+<td><p>6</p></td>
+<td><p>2019年9月17日</p></td>
+<td><p>ISBN 978-4-06-516233-0</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>

@@ -27,7 +27,7 @@
 ## 外部链接
 
   - \[<https://govt.westlaw.com/nycrr/Browse/Home/NewYork/NewYorkCodesRulesandRegulations?guid=I7444ce80169611e594630000845b8d3e&originationContext=documenttoc&transitionType=Default&contextData=(sc.Default>) Virtual Currencies\] in (Part 200 of Title 23 of) the [New York Codes, Rules and Regulations](https://zh.wikipedia.org/wiki/New_York_Codes,_Rules_and_Regulations "wikilink")
-  - [BitLicense Frequently Asked Questions](http://www.dfs.ny.gov/legal/regulations/bitlicense_reg_framework_faq.htm) From NYSDFS
+  - [BitLicense Frequently Asked Questions](https://web.archive.org/web/20180926045935/https://www.dfs.ny.gov/legal/regulations/bitlicense_reg_framework_faq.htm) From NYSDFS
 
 \[26\] \[27\] \[28\] \[29\] \[30\] \[31\] \[32\] \[33\] \[34\] \[35\] \[36\] \[37\] \[38\] \[39\]
 

@@ -76,10 +76,18 @@
     編曲：Gary Chan
     歌：[林峯](https://zh.wikipedia.org/wiki/林峯 "wikilink")
 
+## 注解
+
+<references group="注"/>
+
+<references group="註"/>
+
+## 参考文献
+
 ## 外部链接
 
   -
-  - [数码-{}-兽中文数据库](http://digimons.net/)
+  - [数码-{}-兽数据库](http://digimons.net/)
 
   - [Wikimon](http://wikimon.net/)
 

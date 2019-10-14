@@ -228,7 +228,7 @@
 <td><p>11月6日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a><sup>2nd</sup></p></td>
 <td><p><a href="../Page/Sana_(TWICE).md" title="wikilink">Sana</a></p></td>
-<td><p>胜熙（<a href="https://zh.wikipedia.org/wiki/Oh_My_Girl" title="wikilink">Oh My Girl</a>）於視頻通話中出現</p></td>
+<td><p>胜熙（<a href="https://zh.wikipedia.org/wiki/Oh_My_Girl" title="wikilink">Oh My Girl</a>）於影片通話中出現</p></td>
 </tr>
 <tr class="odd">
 <td><p>27</p></td>
@@ -283,7 +283,7 @@
 <td><p>12月25日</p></td>
 <td><p><a href="../Page/勝利_(歌手).md" title="wikilink">勝利</a> (<a href="https://zh.wikipedia.org/wiki/BIGBANG" title="wikilink">BIGBANG</a>)、<a href="https://zh.wikipedia.org/wiki/Wanna_One" title="wikilink">Wanna One</a>、<a href="../Page/(G)I-DLE.md" title="wikilink">(G)I-DLE</a></p></td>
 <td></td>
-<td><p><strong>第三次出外景</strong>、圣诞特輯、<br />
+<td><p><strong>第三次出外景</strong>、聖誕特輯、<br />
 Thank you Award</p></td>
 </tr>
 </tbody>
@@ -482,25 +482,9 @@ KOKORO<sup>1st</sup>、粼粼<sup>1st</sup>(<a href="../Page/Cherry_Bullet.md" t
 <td><p>52</p></td>
 <td><p>5月28日</p></td>
 <td><p><a href="../Page/WINNER.md" title="wikilink">WINNER</a><sup>2nd</sup></p></td>
-<td><p><a href="../Page/姜昇潤.md" title="wikilink">姜昇潤</a></p></td>
-<td><p>F</p></td>
-<td><p><strong>姜昇潤</strong></p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/宋旻浩" title="wikilink">宋旻浩</a></p></td>
-<td><p>AA</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p><a href="../Page/金秦禹.md" title="wikilink">金秦禹</a></p></td>
 <td><p>C</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p><strong>姜昇潤</strong></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/李昇勳.md" title="wikilink">李昇勳</a></p></td>
@@ -511,40 +495,40 @@ KOKORO<sup>1st</sup>、粼粼<sup>1st</sup>(<a href="../Page/Cherry_Bullet.md" t
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/宋旻浩" title="wikilink">宋旻浩</a></p></td>
+<td><p>AA</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/姜昇潤.md" title="wikilink">姜昇潤</a></p></td>
+<td><p>F</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>53</p></td>
 <td><p>6月4日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/fromis_9" title="wikilink">fromis_9</a><sup>2nd</sup></p></td>
-<td><p>|李瑞淵</p></td>
-<td><p>AAA</p></td>
+<td><p>|李賽綸</p></td>
+<td><p>B</p></td>
 <td><p><strong>白知憲</strong></p></td>
 </tr>
 <tr class="even">
-<td><p>盧知宣</p></td>
-<td><p>A</p></td>
+<td><p>宋河英</p></td>
+<td><p>AAAAA</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>李賽綸</p></td>
-<td><p>B</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>張圭悧</p></td>
 <td><p>A</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>李采映</p></td>
-<td><p>F</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -559,7 +543,7 @@ KOKORO<sup>1st</sup>、粼粼<sup>1st</sup>(<a href="../Page/Cherry_Bullet.md" t
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>李娜炅</p></td>
+<td><p>盧知宣</p></td>
 <td><p>A</p></td>
 <td></td>
 <td></td>
@@ -567,16 +551,32 @@ KOKORO<sup>1st</sup>、粼粼<sup>1st</sup>(<a href="../Page/Cherry_Bullet.md" t
 <td></td>
 </tr>
 <tr class="even">
-<td><p>白知憲</p></td>
-<td><p>AA</p></td>
+<td><p>李瑞淵</p></td>
+<td><p>AAA</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>宋河英</p></td>
-<td><p>AAAAA</p></td>
+<td><p>李采映</p></td>
+<td><p>F</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>李娜炅</p></td>
+<td><p>A</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>白知憲</p></td>
+<td><p>AA</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1218,14 +1218,14 @@ KOKORO<sup>1st</sup>、粼粼<sup>1st</sup>(<a href="../Page/Cherry_Bullet.md" t
 <tr class="odd">
 <td><p>69</p></td>
 <td><p>9月24日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a><sup>4th</sup></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Twice" title="wikilink">Twice</a><sup>4th</sup></p></td>
 <td><p><a href="../Page/娜璉.md" title="wikilink">娜璉</a></p></td>
-<td></td>
-<td></td>
+<td><p>A</p></td>
+<td><p>志效</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/定延.md" title="wikilink">定延</a></p></td>
-<td></td>
+<td><p>AAABFF</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1233,7 +1233,7 @@ KOKORO<sup>1st</sup>、粼粼<sup>1st</sup>(<a href="../Page/Cherry_Bullet.md" t
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/Momo_(TWICE).md" title="wikilink">Momo</a></p></td>
-<td></td>
+<td><p>AAA</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1241,7 +1241,7 @@ KOKORO<sup>1st</sup>、粼粼<sup>1st</sup>(<a href="../Page/Cherry_Bullet.md" t
 </tr>
 <tr class="even">
 <td><p><a href="../Page/Sana_(TWICE).md" title="wikilink">Sana</a></p></td>
-<td></td>
+<td><p>AFF</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1249,7 +1249,7 @@ KOKORO<sup>1st</sup>、粼粼<sup>1st</sup>(<a href="../Page/Cherry_Bullet.md" t
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/志效.md" title="wikilink">志效</a></p></td>
-<td></td>
+<td><p>Idol Room首席</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1257,7 +1257,7 @@ KOKORO<sup>1st</sup>、粼粼<sup>1st</sup>(<a href="../Page/Cherry_Bullet.md" t
 </tr>
 <tr class="even">
 <td><p><a href="../Page/多賢.md" title="wikilink">多賢</a></p></td>
-<td></td>
+<td><p>AF</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1265,7 +1265,7 @@ KOKORO<sup>1st</sup>、粼粼<sup>1st</sup>(<a href="../Page/Cherry_Bullet.md" t
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/彩瑛.md" title="wikilink">彩瑛</a></p></td>
-<td></td>
+<td><p>F</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1273,6 +1273,230 @@ KOKORO<sup>1st</sup>、粼粼<sup>1st</sup>(<a href="../Page/Cherry_Bullet.md" t
 </tr>
 <tr class="even">
 <td><p><a href="../Page/周子瑜.md" title="wikilink">子瑜</a></p></td>
+<td><p>AF</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>70</p></td>
+<td><p>10月1日</p></td>
+<td><p><a href="../Page/Dreamcatcher.md" title="wikilink">Dreamcatcher</a><sup>1st</sup>、<a href="../Page/EVERGLOW.md" title="wikilink">EVERGLOW</a><sup>1st</sup></p></td>
+<td><p>祉攸</p></td>
+<td><p>A</p></td>
+<td><p>Onda</p></td>
+</tr>
+<tr class="even">
+<td><p>秀雅</p></td>
+<td><p>AA</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>始娟</p></td>
+<td><p>AFFF</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>韓東</p></td>
+<td><p>A</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>裕賢</p></td>
+<td><p>A</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>多美</p></td>
+<td><p>AA</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>佳泫</p></td>
+<td><p>AFFF</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>E:U</p></td>
+<td><p>AA</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>施賢</p></td>
+<td><p>AA</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Mia</p></td>
+<td><p>AA</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Onda</p></td>
+<td><p>AAA</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Aisha</p></td>
+<td><p>AA</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>怡人</p></td>
+<td><p>A</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>71</p></td>
+<td><p>10月8日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ONF" title="wikilink">ONF</a><sup>1st</sup></p></td>
+<td><p>曉珍</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>E-Tion</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>J-Us</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Wyatt</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>MK</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>U</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>72</p></td>
+<td><p>10月15日</p></td>
+<td><p><a href="../Page/Super_Junior.md" title="wikilink">Super Junior</a><sup>1st</sup></p></td>
+<td><p><a href="../Page/利特.md" title="wikilink">利特</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/希澈.md" title="wikilink">希澈</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/藝聲.md" title="wikilink">藝聲</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/神童_(藝人).md" title="wikilink">神童</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/銀赫.md" title="wikilink">銀赫</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/崔始源.md" title="wikilink">始源</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/東海_(藝人).md" title="wikilink">東海</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/厲旭.md" title="wikilink">厲旭</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/圭賢.md" title="wikilink">圭賢</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1318,11 +1542,14 @@ KOKORO<sup>1st</sup>、粼粼<sup>1st</sup>(<a href="../Page/Cherry_Bullet.md" t
 | 17      |
 | 18      |
 | 19      |
+| 20      |
+| 21      |
+| 22      |
 |         |
 
 ## 收視率
 
-以下纪录《**Idol Room**》节目之全国收视，表示为该年度最高收视率，則表示為該季度最低收視率。\[5\]\[6\]\[7\]\[8\]
+以下紀錄《**Idol Room**》節目之全國收視，表示為該年度最高收視率，則表示為該季度最低收視率。\[5\]\[6\]\[7\]\[8\]
 
 ### 2018年
 
@@ -1688,6 +1915,26 @@ KOKORO<sup>1st</sup>、粼粼<sup>1st</sup>(<a href="../Page/Cherry_Bullet.md" t
 <td><p>67</p></td>
 <td><p>9月10日</p></td>
 <td><p>0.935%</p></td>
+</tr>
+<tr class="odd">
+<td><p>68</p></td>
+<td><p>9月17日</p></td>
+<td><p>0.469%</p></td>
+</tr>
+<tr class="even">
+<td><p>69</p></td>
+<td><p>9月24日</p></td>
+<td><p>0.607%</p></td>
+</tr>
+<tr class="odd">
+<td><p>70</p></td>
+<td><p>10月1日</p></td>
+<td><p>0.486%</p></td>
+</tr>
+<tr class="even">
+<td><p>71</p></td>
+<td><p>10月8日</p></td>
+<td><p>%</p></td>
 </tr>
 <tr class="odd">
 <td></td>

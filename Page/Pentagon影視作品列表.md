@@ -70,6 +70,13 @@
 <td><p>Raoul (Son of Athos)</p></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>2019年</p></td>
+<td><p>여신님이 보고 계셔 (The Goddess Is Watching)</p></td>
+<td><p>珍虎</p></td>
+<td><p>Ryu Soon-ho (North Korean soldier )</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -91,8 +98,9 @@
 | 2018年        | 6月13日－                 | PTG VLive、Cube Youtube   | Just Do It Yo\!(저.두.요\!)                                                  |    |           | \[13\]     |
 | 11月3日－       | PTG VLive              | PENTAGON的教科書 第5季         |                                                                           |    | \[14\]    |            |
 | 2019年        |                        |                          |                                                                           |    |           |            |
-| 6月14日－       | PTG Youtube            | HUI's What To Wear Today |                                                                           |    | \[15\]    |            |
-| 6月20日－       | PTG Youtube            | PENTAGON的TNL             |                                                                           |    | \[16\]    |            |
+| 6月14日－9月19日  | PTG VLive、Cube Youtube | HUI's What To Wear Today | 4                                                                         |    | \[15\]    |            |
+| 6月20日－7月11日  | PTG Youtube            | PENTAGON的TNL             | 4                                                                         |    | \[16\]    |            |
+| 9月28日－       | PTG VLive、Cube Youtube | PRISM LOG                |                                                                           |    |           |            |
 
 ### 固定節目
 
@@ -246,7 +254,7 @@
 <td><p>[33]</p></td>
 </tr>
 <tr class="even">
-<td><p>4月5日、5月31日、6月14日</p></td>
+<td><p>4月5日、5月31日、6月14日、7月5日</p></td>
 <td><p>MBC every1</p></td>
 <td><p><a href="../Page/Weekly_Idol.md" title="wikilink">Weekly Idol</a> 蒙面偶像</p></td>
 <td><p>洪碩</p></td>
@@ -482,7 +490,7 @@
 <td><p>Mnet</p></td>
 <td><p><a href="../Page/BREAKERS.md" title="wikilink">BREAKERS</a></p></td>
 <td><p>Hui</p></td>
-<td></td>
+<td><p>EP03 - 08</p></td>
 </tr>
 <tr class="even">
 <td><p>6月 9日</p></td>
@@ -585,43 +593,43 @@
 </tbody>
 </table>
 
-|                  |                                    |                                                                                |            |         |
-| ---------------- | ---------------------------------- | ------------------------------------------------------------------------------ | ---------- | ------- |
-| 日期               | 電視台/ 網絡頻道                          | 節目名稱                                                                           | 參與成員       | 備註      |
-| 2019年            |                                    |                                                                                |            |         |
-| 1月7日             | KBS                                | [大國民Talk Show-你好](https://zh.wikipedia.org/wiki/大國民Talk_Show-你好 "wikilink")    | Hui 洪碩     |         |
-| 1月19日            | 名古屋テレビ                             | メ～テレ「デルサタ」                                                                     |            |         |
-| 2月3日、10日         | MBC                                | [神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")                                 | 珍虎         | 拜年少爺    |
-| 2月6日、13日、20日、27日 | テレビ朝日系                             | BREAK OUT                                                                      |            |         |
-| 3月12日            | Naver VLive V COOKIE               | Lie V                                                                          | 禹奭         |         |
-| 3月20日            | MBC everyone                       | [Weekly Idol](../Page/Weekly_Idol.md "wikilink")                               | 禹奭         |         |
-| 3月22日 - 4月12日    | MBC                                | 現在排名是一位                                                                        | 珍虎 Hui     | E1-4    |
-| 3月28日            | Naver VLive V COOKIE               | SINGING ROOM X PENTAGON                                                        |            |         |
-| 4月9日             | TBS                                | Fact in Star                                                                   |            |         |
-| 4月11日            | Celuv TV                           | I'm Celuv                                                                      |            |         |
-| 4月16日            | JTBC                               | [IDOL ROOM](https://zh.wikipedia.org/wiki/IDOL_ROOM "wikilink")                | 閆桉 Yuto    |         |
-| 4月17日            | Mnet                               | [M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")            | 洪碩         | 特別MC    |
-| 4月20日            | KBS                                | [不朽的名曲：傳說在歌唱](../Page/不朽的名曲：傳說在歌唱.md "wikilink")                               |            | 日本篇 金蓮子 |
-| 4月22日            | Naver V Live Osen                  | Star Road                                                                      |            |         |
-| 4月28日、5月5日       | MBC                                | [神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")                                 | 珍虎         | 嘉賓評審    |
-| 5月19日            | Mnet                               | [M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink") KCON JAPAN | 洪碩 Kino    | 特別MC    |
-| 5月23日            | MBC Music                          | Gini Stage                                                                     | Hui Kino   |         |
-| 6月1日、8日          | KBS                                | [戰鬥旅行](../Page/戰鬥旅行.md "wikilink")                                             | 洪碩         |         |
-| 6月5日             | ARIRANG                            | Showbiz Korea                                                                  | 洪碩 Yeo One |         |
-| 6月22日            | SBS                                | [不朽的名曲：傳說在歌唱](../Page/不朽的名曲：傳說在歌唱.md "wikilink")                               |            |         |
-| 6月24、25日、7月26日   | Ole TV Mobile                      | 밀실의아이들 Secret Room's Kids                                                      | 信源         |         |
-| 7月12日            | [浙江卫视](../Page/浙江卫视.md "wikilink") | [奔跑吧](../Page/奔跑吧.md "wikilink")第三季                                            | 闫桉         |         |
-| 7月17日            | MBC every1                         | [Weekly Idol](../Page/Weekly_Idol.md "wikilink")                               |            |         |
-| 7月17日            | Naver VLive                        | Rooftop Live                                                                   |            |         |
-| 7月19日            | JTBC                               | Run.wav                                                                        |            |         |
-| 7月19日            | Mnet                               | [PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")                           | Hui        |         |
-| 7月20日            | KBS                                | [叢林的法則](../Page/叢林的法則.md "wikilink")                                           | 洪碩         |         |
-| 7月26日            | Olleh TV                           | 밀실의 아이들 (Secret Room of Children)                                              | 信源         |         |
-| 8月6日             | Arirang                            | After School Club                                                              |            |         |
-| 8月7日             | Brain-fficial Youtube              | Brain-fficial                                                                  | Hui 洪碩 信源  |         |
-| 8月9日 -           | Mnet                               | [The Call](../Page/The_Call.md "wikilink")                                     | Hui        | EP5 全員  |
-| 8月18日            | Olleh TV Mobile LifeTime           | 아이돌다방 偶像茶坊                                                                     |            |         |
-| 8月21日            | Mnet                               | TMI NEWS                                                                       | 洪碩 Kino    |         |
+|                  |                                    |                                                                                |            |                   |
+| ---------------- | ---------------------------------- | ------------------------------------------------------------------------------ | ---------- | ----------------- |
+| 日期               | 電視台/ 網絡頻道                          | 節目名稱                                                                           | 參與成員       | 備註                |
+| 2019年            |                                    |                                                                                |            |                   |
+| 1月7日             | KBS                                | [大國民Talk Show-你好](https://zh.wikipedia.org/wiki/大國民Talk_Show-你好 "wikilink")    | Hui 洪碩     |                   |
+| 1月19日            | 名古屋テレビ                             | メ～テレ「デルサタ」                                                                     |            |                   |
+| 2月3日、10日         | MBC                                | [神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")                                 | 珍虎         | 拜年少爺              |
+| 2月6日、13日、20日、27日 | テレビ朝日系                             | BREAK OUT                                                                      |            |                   |
+| 3月12日            | Naver VLive V COOKIE               | Lie V                                                                          | 禹奭         |                   |
+| 3月20日            | MBC everyone                       | [Weekly Idol](../Page/Weekly_Idol.md "wikilink")                               | 禹奭         |                   |
+| 3月22日 - 4月12日    | MBC                                | 現在排名是一位                                                                        | 珍虎 Hui     | E1-4              |
+| 3月28日            | Naver VLive V COOKIE               | SINGING ROOM X PENTAGON                                                        |            |                   |
+| 4月9日             | TBS                                | Fact in Star                                                                   |            |                   |
+| 4月11日            | Celuv TV                           | I'm Celuv                                                                      |            |                   |
+| 4月16日            | JTBC                               | [IDOL ROOM](https://zh.wikipedia.org/wiki/IDOL_ROOM "wikilink")                | 閆桉 Yuto    |                   |
+| 4月17日            | Mnet                               | [M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")            | 洪碩         | 特別MC              |
+| 4月20日            | KBS                                | [不朽的名曲：傳說在歌唱](../Page/不朽的名曲：傳說在歌唱.md "wikilink")                               |            | 日本篇 金蓮子           |
+| 4月22日            | Naver V Live Osen                  | Star Road                                                                      |            |                   |
+| 4月28日、5月5日       | MBC                                | [神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")                                 | 珍虎         | 嘉賓評審              |
+| 5月19日            | Mnet                               | [M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink") KCON JAPAN | 洪碩 Kino    | 特別MC              |
+| 5月23日            | MBC Music                          | Gini Stage                                                                     | Hui Kino   |                   |
+| 6月1日、8日          | KBS                                | [戰鬥旅行](../Page/戰鬥旅行.md "wikilink")                                             | 洪碩         |                   |
+| 6月5日             | ARIRANG                            | Showbiz Korea                                                                  | 洪碩 Yeo One |                   |
+| 6月22日            | SBS                                | [不朽的名曲：傳說在歌唱](../Page/不朽的名曲：傳說在歌唱.md "wikilink")                               |            |                   |
+| 6月24、25日、7月26日   | Ole TV Mobile                      | 밀실의아이들 Secret Room's Kids                                                      | 信源         |                   |
+| 7月12日            | [浙江卫视](../Page/浙江卫视.md "wikilink") | [奔跑吧](../Page/奔跑吧.md "wikilink")第三季                                            | 闫桉         |                   |
+| 7月17日            | MBC every1                         | [Weekly Idol](../Page/Weekly_Idol.md "wikilink")                               |            |                   |
+| 7月17日            | Naver VLive                        | Rooftop Live                                                                   |            |                   |
+| 7月19日            | JTBC                               | Run.wav                                                                        |            |                   |
+| 7月19日            | Mnet                               | [PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")                           | Hui        |                   |
+| 7月20日            | KBS                                | [叢林的法則](../Page/叢林的法則.md "wikilink")                                           | 洪碩         | 緬甸                |
+| 7月26日            | Olleh TV                           | 밀실의 아이들 (Secret Room of Children)                                              | 信源         |                   |
+| 8月6日             | Arirang                            | After School Club                                                              |            |                   |
+| 8月7日             | Brain-fficial Youtube              | Brain-fficial                                                                  | Hui 洪碩 信源  |                   |
+| 8月9日 - 9月6日      | Mnet                               | [The Call 2](../Page/The_Call.md "wikilink")                                   | Hui        | EP05 - 09（EP5 全員） |
+| 8月18日            | Olleh TV Mobile LifeTime           | 아이돌다방 偶像茶坊                                                                     |            |                   |
+| 8月21日            | Mnet                               | TMI NEWS                                                                       | 洪碩 Kino    |                   |
 
 ## 電台節目
 
@@ -669,27 +677,29 @@
 | 11月2日                 | SBS Power FM              | NCT的night night                                | 禹奭                   |                                |
 | 11月11日                | MBC Radio                 | [IDOL RADIO](../Page/IDOL_RADIO.md "wikilink") | Hui                  |                                |
 
-|            |                           |                                                |            |    |
-| ---------- | ------------------------- | ---------------------------------------------- | ---------- | -- |
-| 日期         | 電視台/ 網絡頻道                 | 節目名稱                                           | 參與成員       | 備註 |
-| 2019       |                           |                                                |            |    |
-| 2月1日、4月12日 | MBC                       | [IDOL RADIO](../Page/IDOL_RADIO.md "wikilink") | 洪碩         |    |
-| 2月5日、3月12日 | MBC Radio                 | [IDOL RADIO](../Page/IDOL_RADIO.md "wikilink") | 珍虎         |    |
-| 3月13日      | MBC Radio                 | [IDOL RADIO](../Page/IDOL_RADIO.md "wikilink") | 禹奭         |    |
-| 3月27日      | MBC Radio                 | [IDOL RADIO](../Page/IDOL_RADIO.md "wikilink") |            |    |
-| 3月28日      | KBS COOL FM               | 文熙俊的Music Show                                 |            |    |
-| 4月2日       | MBC FM4U                  | 金信英的正午希望曲                                      |            |    |
-| 4月12日      | KBS Cool FM               | 朴元的Kiss the Radio                              | Hui 信源     |    |
-| 4月13日      | SBS PowerFM               | 朴素賢的Love Game                                  | 珍虎 禹奭      |    |
-| 4月14日      | tbs eFM                   | Idol’s Dignity                                 | 閆桉         |    |
-| 4月24日      | MBC Radio                 | [IDOL RADIO](../Page/IDOL_RADIO.md "wikilink") | 珍虎 Hui     |    |
-| 5月6日       | MBC Radio                 | [IDOL RADIO](../Page/IDOL_RADIO.md "wikilink") | 閆桉         |    |
-| 7月18日      | MBC Radio                 | [IDOL RADIO](../Page/IDOL_RADIO.md "wikilink") |            |    |
-| 7月24日      | MBC FM4U                  | PARK KYUNG'S DREAMING RADIO                    |            |    |
-| 8月3日       | SBS Power FM              | 朴素賢的Love Game                                  | 珍虎、Yeo One |    |
-| 8月5日       | SBS Radio                 | Jung Somi's Young Street                       |            |    |
-| 8月6日       | MBC Radio                 | [IDOL RADIO](../Page/IDOL_RADIO.md "wikilink") |            |    |
-| 8月9日       | KBS World Radio Indonesia | KBS World Radio Indonesia                      |            |    |
+|             |                           |                                                |            |            |
+| ----------- | ------------------------- | ---------------------------------------------- | ---------- | ---------- |
+| 日期          | 電視台/ 網絡頻道                 | 節目名稱                                           | 參與成員       | 備註         |
+| 2019        |                           |                                                |            |            |
+| 2月1日、4月12日  | MBC                       | [IDOL RADIO](../Page/IDOL_RADIO.md "wikilink") | 洪碩         |            |
+| 2月5日、3月12日  | MBC Radio                 | [IDOL RADIO](../Page/IDOL_RADIO.md "wikilink") | 珍虎         |            |
+| 3月13日       | MBC Radio                 | [IDOL RADIO](../Page/IDOL_RADIO.md "wikilink") | 禹奭         |            |
+| 3月27日       | MBC Radio                 | [IDOL RADIO](../Page/IDOL_RADIO.md "wikilink") |            |            |
+| 3月28日       | KBS COOL FM               | 文熙俊的Music Show                                 |            |            |
+| 4月2日        | MBC FM4U                  | 金信英的正午希望曲                                      |            |            |
+| 4月12日       | KBS Cool FM               | 朴元的Kiss the Radio                              | Hui 信源     |            |
+| 4月13日       | SBS PowerFM               | 朴素賢的Love Game                                  | 珍虎 禹奭      |            |
+| 4月14日       | tbs eFM                   | Idol’s Dignity                                 | 閆桉         |            |
+| 4月24日       | MBC Radio                 | [IDOL RADIO](../Page/IDOL_RADIO.md "wikilink") | 珍虎 Hui     |            |
+| 5月6日        | MBC Radio                 | [IDOL RADIO](../Page/IDOL_RADIO.md "wikilink") | 閆桉         |            |
+| 7月18日       | MBC Radio                 | [IDOL RADIO](../Page/IDOL_RADIO.md "wikilink") |            |            |
+| 7月24日       | MBC FM4U                  | PARK KYUNG'S DREAMING RADIO                    |            |            |
+| 8月3日        | SBS Power FM              | 朴素賢的Love Game                                  | 珍虎、Yeo One |            |
+| 8月5日        | SBS Radio                 | Jung Somi's Young Street                       |            |            |
+| 8月6日        | MBC Radio                 | [IDOL RADIO](../Page/IDOL_RADIO.md "wikilink") |            |            |
+| 8月9日        | KBS World Radio Indonesia | KBS World Radio Indonesia                      |            |            |
+| 10月3日       | MBC Radio                 | [IDOL RADIO](../Page/IDOL_RADIO.md "wikilink") |            |            |
+| 10月1、3、4、5日 | MBC Radio                 | [IDOL RADIO](../Page/IDOL_RADIO.md "wikilink") | 珍虎 Hui     | Special DJ |
 
 ## 廣告代言
 
@@ -752,6 +762,7 @@
 | Men’s Health Korea                           | July 2019  | 洪碩      |             |
 | 1ST Look                                     | Aug 2019   |         |             |
 | Dazed Korea                                  | Aug 2019   |         |             |
+| JUNON                                        | 2019 11月号  |         |             |
 
 ## 參考資料
 

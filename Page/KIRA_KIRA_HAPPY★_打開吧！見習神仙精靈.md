@@ -88,7 +88,7 @@
 
   - 片頭曲
 
-:; 「ヒミツのカギ、ここたま\!」（第1集－）
+:; 「ヒミツのカギ、ここたま\!」（第1－55集）
 
   -
 
@@ -96,6 +96,7 @@
         作詞：真崎 ERIKA ， 作曲・編曲：Dr.Lilcom，主唱：星之川遙（高橋未奈美）、緞緞（水瀬祈）、皮洛（伊瀬茉莉也）、茶子（岩井映美里）
         此片頭曲與每一集後的「**ここたまみーつけた（神仙精靈找到了）**」帶有連動。
         第30集依據劇情而更改畫面。
+        第55集作為片頭曲與片尾曲使用。
 
 <!-- end list -->
 
@@ -105,7 +106,7 @@
 
 :: 作詞：松井洋平 ， 作曲・編曲：大竹智之 ，主唱：
 
-:; 「ここたまタウンでにっこにこ★」（第30集－）
+:; 「ここたまタウンでにっこにこ★」（第30－54集）
 
   -
 
@@ -1051,7 +1052,7 @@
 桑原麻衣<br />
 平良哲朗</p></td>
 <td><p>東海林康和</p></td>
-<td><p>2019年9月12日&lt;!--</p></td>
+<td><p>2019年9月12日</p></td>
 </tr>
 <tr class="odd">
 <td><p>54</p></td>
@@ -1059,21 +1060,24 @@
 <td><p>}}</p></td>
 <td><p>進行!櫻花鎮保護隊</p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>赤尾凸</p></td>
+<td><p>永島昭子</p></td>
+<td><p>樫山聡之</p></td>
+<td><p>永島昭子</p></td>
 </tr>
 <tr class="even">
 <td><p>55</p></td>
 <td></td>
 <td><p>拯救櫻花鎮 打開吧!幸福之門</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p>2019年9月26日 --&gt;</p></td>
+<td><p>土屋理敬</p></td>
+<td><p>秋山朋子</p></td>
+<td><p>山井紗也香</p></td>
+<td><p>河野仁美<br />
+志村隆行<br />
+佐藤陵</p></td>
+<td><p>東海林康和<br />
+大河しのぶ</p></td>
+<td><p>2019年9月26日</p></td>
 </tr>
 </tbody>
 </table>
@@ -1087,6 +1091,7 @@
 | キラキラハッピー★ ひらけ\! ここたま DVD BOX vol.1\[1\] | 第1－16話  | 2019/5/29  |
 | キラキラハッピー★ ひらけ\! ここたま DVD BOX vol.2\[2\] | 第17－32話 | 2019/8/23  |
 | キラキラハッピー★ ひらけ\! ここたま DVD BOX vol.3\[3\] | 第33－44話 | 2019/11/27 |
+| キラキラハッピー★ ひらけ\! ここたま DVD BOX vol.4\[4\] | 第45－55話 | 2019/2/26  |
 
 ### DVD
 
@@ -1101,7 +1106,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>[4]</p></td>
+<td><p>[5]</p></td>
 <td><p>第1－4話</p></td>
 <td><p>2019/1/9</p></td>
 <td><p>星之川遙<br />
@@ -1194,6 +1199,27 @@
 嵐忍<br />
 妮姬</p></td>
 </tr>
+<tr class="even">
+<td></td>
+<td><p>第45－48話</p></td>
+<td><p>2019/11/6</p></td>
+<td><p>緞緞<br />
+茶子<br />
+緹婭<br />
+塞巴斯蒂安 &lt;!---</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>第49－52話</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>第53－55話</p></td>
+<td></td>
+<td><p>---&gt;</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -1220,4 +1246,5 @@
 1.  [1](https://coco-tama.com/hirake/goods/cd/details.php?detail=item15)
 2.  [2](https://coco-tama.com/hirake/goods/cd/details.php?detail=item20)
 3.  [3](https://coco-tama.com/hirake/goods/cd/details.php?detail=item25)
-4.  [4](https://coco-tama.com/hirake/goods/cd/details.php?detail=item9)
+4.  [4](https://coco-tama.com/hirake/goods/cd/details.php?detail=item27)
+5.  [5](https://coco-tama.com/hirake/goods/cd/details.php?detail=item9)

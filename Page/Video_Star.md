@@ -581,7 +581,7 @@
 <tr class="odd">
 <td><p>66</p></td>
 <td><p>10月10日</p></td>
-<td><p>、<a href="../Page/宋慶雅.md" title="wikilink">宋慶雅</a>、、<a href="https://zh.wikipedia.org/wiki/金忠載" title="wikilink">金忠載</a>、<a href="https://zh.wikipedia.org/wiki/鄭赫" title="wikilink">鄭赫</a></p></td>
+<td><p>、<a href="../Page/宋慶雅.md" title="wikilink">宋慶雅</a>、、<a href="https://zh.wikipedia.org/wiki/金忠載" title="wikilink">金忠載</a>、<a href="../Page/鄭赫.md" title="wikilink">鄭赫</a></p></td>
 <td></td>
 <td></td>
 </tr>

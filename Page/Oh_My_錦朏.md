@@ -8,36 +8,42 @@
 <colgroup>
 <col style="width: 9%" />
 <col style="width: 9%" />
-<col style="width: 42%" />
+<col style="width: 32%" />
+<col style="width: 9%" />
 </colgroup>
 <tbody>
 <tr class="odd">
 <td><p><strong>演員</strong></p></td>
 <td><p><strong>角色</strong></p></td>
 <td><p><strong>介紹</strong></p></td>
+<td><p><strong>香港配音</strong></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/許廷恩.md" title="wikilink">許廷恩</a></p></td>
 <td><p>柳錦朏[1]<br />
 </p></td>
 <td><p>金雨一直自己一個住。有一日，她意外地得到一個叫輝哲的爸爸。但輝哲不是一個一般的父親，他是一個騙子。她很快便知道自己會被他出賣，為了避免這天的出現，她試圖將他緊緊地纏繞在自己的身旁。在加深對他的了解後，她希望令輝哲從良。</p></td>
+<td><p><a href="../Page/顧詠雪.md" title="wikilink">顧詠雪</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/吳智昊.md" title="wikilink">吳智昊</a><br />
 <small>（青年：<a href="../Page/金旻奎.md" title="wikilink">金旻奎</a>）</p></td>
 <td><p>毛輝哲</p></td>
 <td><p>他是一個騙子父親，並不是一個稱職的爸爸。在他的爸爸死後，他開始過著自己想過的霉爛日子。在他深陷在債務的纏繞下，他遇到了小女孩金雨。金雨從此改變了他的人生。</p></td>
+<td><p><a href="../Page/何偉誠.md" title="wikilink">何偉誠</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/朴真熙.md" title="wikilink">朴真熙</a><br />
 <small>（少年：）</small></p></td>
 <td><p>高江熙</p></td>
 <td><p>她是在盆栽上的能手。她在失去自己的家人後，寧願花更多時間在栽種自己的盆栽上也不願結識男朋友。她才賣清在韓國的財產後，遇見了金雨及輝哲。她從此對金雨付出無窮的愛意，同時亦想關顧輝哲的生活。</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/吳允兒.md" title="wikilink">吳允兒</a></p></td>
 <td><p>柳珠英</p></td>
 <td><p>她是一個甚差的母親，對金雨並不好。她性格自私，總是希望結識外面的男子。她永遠只想自己的生活豐足，並不理會其他事。一天，她發現自己懷孕了，她曾想墮胎但怯於害怕而放棄。最後，她在毫無計劃下誕下金雨。</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>

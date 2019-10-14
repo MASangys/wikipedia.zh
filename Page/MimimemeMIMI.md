@@ -232,6 +232,11 @@ AZNT-30（會場限定盤）</p></td>
 
 ## 參考資料
 
+## 参考文献
+
+  -
+  -
+  -
 ## 外部連結
 
   - [mimimemeMIMI官方網站](http://www.mimimememimi.com/)

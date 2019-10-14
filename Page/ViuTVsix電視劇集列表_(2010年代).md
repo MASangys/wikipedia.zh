@@ -1330,6 +1330,26 @@ The Closer (season 6)</p></td>
 <td></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>9月21日</p></td>
+<td><p>25</p></td>
+<td><p>美國</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/老友記" title="wikilink">老友記</a>（<a href="https://zh.wikipedia.org/wiki/老友記_(第六季)" title="wikilink">第六季</a>）<br />
+Friends (season 6)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/珍妮花·安妮斯頓" title="wikilink">珍妮花·安妮斯頓</a>、<a href="../Page/柯特妮·考克斯.md" title="wikilink">歌迪妮·覺絲</a>、<a href="https://zh.wikipedia.org/wiki/麗莎·庫卓" title="wikilink">麗莎·庫卓</a>、<a href="../Page/麥特·勒布郎.md" title="wikilink">麥特·勒布郎</a>、<a href="../Page/馬修·派瑞.md" title="wikilink">馬修·派瑞</a>、<a href="https://zh.wikipedia.org/wiki/大衛·史威默" title="wikilink">大衛·舒溫瑪</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>9月25日</p></td>
+<td><p>8</p></td>
+<td><p>英國</p></td>
+<td><p>（第一季）<br />
+Hidden (season 1)</p></td>
+<td><p>、、Sion Alun Davies、、、Lois Meleri-Jones、、、Victoria Pugh、Lowri Izzard、Garmon Rhys</p></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -1511,16 +1531,6 @@ The Middle (season 9)</p></td>
 </tr>
 <tr class="even">
 <td><p>未定</p></td>
-<td><p>25</p></td>
-<td><p>美國</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/老友記" title="wikilink">老友記</a>（<a href="https://zh.wikipedia.org/wiki/老友記_(第六季)" title="wikilink">第六季</a>）<br />
-Friends (season 6)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/珍妮花·安妮斯頓" title="wikilink">珍妮花·安妮斯頓</a>、<a href="../Page/柯特妮·考克斯.md" title="wikilink">歌迪妮·覺絲</a>、<a href="https://zh.wikipedia.org/wiki/麗莎·庫卓" title="wikilink">麗莎·庫卓</a>、<a href="../Page/麥特·勒布郎.md" title="wikilink">麥特·勒布郎</a>、<a href="../Page/馬修·派瑞.md" title="wikilink">馬修·派瑞</a>、<a href="https://zh.wikipedia.org/wiki/大衛·史威默" title="wikilink">大衛·舒溫瑪</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>未定</p></td>
 <td><p>24</p></td>
 <td><p>美國</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/老友記" title="wikilink">老友記</a>（<a href="https://zh.wikipedia.org/wiki/老友記_(第七季)" title="wikilink">第七季</a>）<br />
@@ -1529,7 +1539,7 @@ Friends (season 7)</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>未定</p></td>
 <td><p>24</p></td>
 <td><p>美國</p></td>
@@ -1539,7 +1549,7 @@ Friends (season 8)</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>未定</p></td>
 <td><p>24</p></td>
 <td><p>美國</p></td>
@@ -1549,7 +1559,7 @@ Friends (season 9)</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>未定</p></td>
 <td><p>18</p></td>
 <td><p>美國</p></td>

@@ -626,7 +626,7 @@
 <td style="text-align: center;"><p>159</p></td>
 <td><p>10月19日</p></td>
 <td><p>當我的孩子生病了…</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/楊月娥" title="wikilink">楊月娥</a>、<a href="https://zh.wikipedia.org/wiki/俞嫻" title="wikilink">俞嫻</a></p></td>
+<td><p><a href="../Page/楊月娥.md" title="wikilink">楊月娥</a>、<a href="https://zh.wikipedia.org/wiki/俞嫻" title="wikilink">俞嫻</a></p></td>
 <td><p>|- style="background-color: #FFFFFF;" |</p></td>
 <td style="text-align: center;"><p>160</p></td>
 <td><p>10月20日</p></td>

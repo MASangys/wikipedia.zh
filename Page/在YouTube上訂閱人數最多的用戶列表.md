@@ -23,7 +23,7 @@
 <td><p>1</p></td>
 <td></td>
 <td><p><a href="../Page/T-Series.md" title="wikilink">T-Series</a>[9]</p></td>
-<td><p>111</p></td>
+<td><p>112</p></td>
 <td><p>T-Series[10]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/印地语" title="wikilink">印地语</a>[11]<ref>{{cite web |title=T-Series Rules YouTube's Airwaves, but Bhushan Kumar Is Not Stopping Here |url=<a href="https://economictimes.com/magazines/panache/t-series-rules-youtubes-airwaves-but-bhushan-kumar-is-not-stopping-here/articleshow/56748220.cms">https://economictimes.com/magazines/panache/t-series-rules-youtubes-airwaves-but-bhushan-kumar-is-not-stopping-here/articleshow/56748220.cms</a> |website={{tsl|en|The Economic Times</p></td>
 <td><p>The Economic Times}} |publisher={{tsl|en|Bennett, Coleman &amp; Co.</p></td>
@@ -40,20 +40,20 @@
 <tr class="odd">
 <td><p>3</p></td>
 <td></td>
-<td><p>{{tsl|en|5-Minute Crafts</p></td>
-<td><p>5-Minute Crafts}}[15]</p></td>
+<td><p>{{tsl|en|Cocomelon - Nursery Rhymes</p></td>
+<td><p>Cocomelon - Nursery Rhymes}}[15]</p></td>
 <td><p>60</p></td>
-<td><p>{{tsl|en|Channel Frederator</p></td>
-<td><p>Channel Frederator}}[16]</p></td>
+<td><p>{{tsl|en|Fullscreen (company)</p></td>
+<td><p>Fullscreen}}[16]</p></td>
 </tr>
 <tr class="even">
 <td><p>4</p></td>
 <td></td>
-<td><p>{{tsl|en|Cocomelon - Nursery Rhymes</p></td>
-<td><p>Cocomelon - Nursery Rhymes}}[17]</p></td>
-<td><p>58</p></td>
-<td><p>{{tsl|en|Fullscreen (company)</p></td>
-<td><p>Fullscreen}}[18]</p></td>
+<td><p>{{tsl|en|5-Minute Crafts</p></td>
+<td><p>5-Minute Crafts}}[17]</p></td>
+<td><p>60</p></td>
+<td><p>{{tsl|en|Channel Frederator</p></td>
+<td><p>Channel Frederator}}[18]</p></td>
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
@@ -664,7 +664,7 @@
 
 **最多订阅频道的时间轴（2006年5月 - 2019年6月）** <timeline> ImageSize = width:900 height:auto barincrement:20 PlotArea = top:10 bottom:80 right:130 left:20 AlignBars = late
 
-DateFormat = dd/mm/yyyy Period = from:2005 till:09/09/2019 TimeAxis = orientation:horizontal ScaleMajor = unit:year increment:1 start:2005
+DateFormat = dd/mm/yyyy Period = from:2005 till:24/09/2019 TimeAxis = orientation:horizontal ScaleMajor = unit:year increment:1 start:2005
 
 Colors =
 

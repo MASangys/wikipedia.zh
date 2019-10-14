@@ -47,7 +47,7 @@
 <td><p><a href="../Page/林世美.md" title="wikilink">林世美</a></p></td>
 <td><p>高奉淑</p></td>
 <td><p>小偷。有生以來聽得最多的話是“小偷”，說得最多的話就是“和我結婚吧，孔秀昌。”對她來說，秀昌是孤兒院的同伴，生意夥伴和未來的丈夫。在孔秀昌昏迷不醒在醫院的期間，靠著盜竊籌措醫療費用。在竊盜過程，常常遭遇獨孤刑警，發現其是有錢大款，藉機與之約會，卻漸漸喜歡上誠赫，開始認真找工作。</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/何凱怡" title="wikilink">何凱怡</a></p></td>
+<td><p><a href="../Page/何凱怡.md" title="wikilink">何凱怡</a></p></td>
 </tr>
 <tr class="even">
 <td></td>

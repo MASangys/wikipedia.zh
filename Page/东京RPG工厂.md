@@ -28,7 +28,7 @@
 <tr class="even">
 <td></td>
 <td><p>失落领域<br />
-</p></td>
+<em></em></p></td>
 <td><p>角色扮演</p></td>
 <td><p>PlayStation 4<br />
 任天堂Switch<br />
@@ -37,7 +37,7 @@ Windows</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>鬼哭之邦<br />
+<td><p><br />
 <br />
 </p></td>
 <td><p>角色扮演</p></td>

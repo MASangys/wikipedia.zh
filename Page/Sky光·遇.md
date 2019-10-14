@@ -1,8 +1,14 @@
-是一部由[thatgamecompany开发并发行在](https://zh.wikipedia.org/wiki/thatgamecompany "wikilink")[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Apple TV平台上的](../Page/Apple_TV.md "wikilink")[冒险游戏](../Page/冒险游戏.md "wikilink")。本作是thatgamecompany继《[风之旅人](../Page/风之旅人.md "wikilink")》之后时隔5年的新作品，也是thatgamecompany完成与索尼合作后独立自主发行的首个作品。陈星汉表示自己将他对生命、朋友、家庭的理解放在了《Sky光遇》中, 游戏以爱与给予作为游戏主题，玩家在游戏中将操控一名身披斗篷的人物在天际间翱翔，与同伴共同探索天空中的秘密。游戏最多支持8人联机游戏。\[1\]\[2\]
+是一部由[thatgamecompany开发并发行在](https://zh.wikipedia.org/wiki/thatgamecompany "wikilink")[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Apple TV平台上的](../Page/Apple_TV.md "wikilink")[冒险游戏](../Page/冒险游戏.md "wikilink")。本作是thatgamecompany继《[风之旅人](../Page/风之旅人.md "wikilink")》之后时隔5年的新作品，也是thatgamecompany完成与索尼合作后独立自主发行的首个作品。陈星汉表示自己将他对生命、朋友、家庭的理解放在了《Sky光遇》中, 游戏以爱与给予作为游戏主题，玩家在游戏中将操控一名孩童在天际间翱翔，与同伴共同探索天空中的秘密。游戏最多支持8人联机游戏。\[1\]\[2\]
+
+目前支持iOS版本，Android版本即将上线。
 
 ## 開發
 
-《Sky光遇》在2013年已经开始制作，于2016年11月1日公布代号“that next game”；游戏在2017年9月的苹果新品发布会上正式公布，并由陈星汉登台演示。同時表示游戏将于2017年冬季发售。中国大陆地区由[网易](../Page/网易.md "wikilink")代理发行。\[3\]此外，游戏在未来还将登陆其他平台。\[4\]
+《Sky光遇》在2013年已经开始制作，于2016年11月1日公布代号“that next game”；游戏在2017年9月的[苹果新品发布会上正式公布](https://zh.wikipedia.org/wiki/苹果新品发布会 "wikilink")，并由[陈星汉](../Page/陈星汉.md "wikilink")登台演示。同時表示游戏将于2017年冬季发售。中国大陆地区由[网易](../Page/网易.md "wikilink")代理发行。\[3\]此外，游戏在未来还将登陆其他平台。\[4\]
+
+## 游戏内容
+
+本游戏有七个地图（章节），即晨岛、云野、雨林、霞谷、暮土、禁阁、暴风眼（包括暴风眼和伊甸之眼两部分）。玩家将操纵一个孩童（child of the light）在其中探险，逐渐揭开天空王国没落的真相。最后将在伊甸之眼将用光之翼拯救旅人，得到救赎并涅槃重生。
 
 ## 参考资料
 

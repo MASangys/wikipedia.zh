@@ -1,4 +1,4 @@
-本列表為影音分享[網站](../Page/網站.md "wikilink")[YouTube](../Page/YouTube.md "wikilink")自2005年10月啟用訂閱[頻道功能以來](https://zh.wikipedia.org/wiki/頻道 "wikilink")，目前以[臺灣](../Page/臺灣.md "wikilink")觀眾為主的YouTube頻道（包括居住在台灣且說中文的外國人；不包括其他說中文的外國人（如[Ryuuu TV / 學日文看日本](https://zh.wikipedia.org/wiki/Ryuuu_TV_/_學日文看日本 "wikilink")），以及純[音樂](https://zh.wikipedia.org/wiki/音樂 "wikilink")、[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")、[電視](https://zh.wikipedia.org/wiki/電視 "wikilink")、[新聞](https://zh.wikipedia.org/wiki/新聞 "wikilink")、[宗教](../Page/宗教.md "wikilink")頻道）訂閱200
+本列表為影音分享[網站](../Page/網站.md "wikilink")[YouTube](../Page/YouTube.md "wikilink")自2005年10月啟用訂閱[頻道功能以來](https://zh.wikipedia.org/wiki/頻道 "wikilink")，目前以[臺灣](../Page/臺灣.md "wikilink")觀眾為主的YouTube頻道（包括居住在台灣且說中文的外國人；不包括其他說中文的外國人（如[Ryuuu TV / 學日文看日本](https://zh.wikipedia.org/wiki/Ryuuu_TV_/_學日文看日本 "wikilink")），以及純[音樂](https://zh.wikipedia.org/wiki/音樂 "wikilink")、[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")、[電視](https://zh.wikipedia.org/wiki/電視 "wikilink")、[新聞](https://zh.wikipedia.org/wiki/新聞 "wikilink")、[宗教](../Page/宗教.md "wikilink")頻道）訂閱人數前50名。
 
 ## 列表
 
@@ -280,6 +280,16 @@
 </tr>
 <tr class="odd">
 <td><p>22</p></td>
+<td><p><a href="../Page/狠愛演.md" title="wikilink">狠愛演</a></p></td>
+<td><p>1,190,000</p></td>
+<td><p>381</p></td>
+<td><p>191,064,641</p></td>
+<td></td>
+<td><p>100萬</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>23</p></td>
 <td><p><a href="../Page/千千.md" title="wikilink">千千</a>進食中</p></td>
 <td><p>1,182,566</p></td>
 <td><p>101</p></td>
@@ -288,8 +298,8 @@
 <td><p>100萬</p></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>23</p></td>
+<tr class="odd">
+<td><p>24</p></td>
 <td><p><a href="../Page/How_How.md" title="wikilink">HowFun</a></p></td>
 <td><p>1,170,617</p></td>
 <td><p>564</p></td>
@@ -298,8 +308,8 @@
 <td><p>100萬</p></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>24</p></td>
+<tr class="even">
+<td><p>25</p></td>
 <td><p><a href="../Page/Sandy&amp;Mandy.md" title="wikilink">sandy mandy</a></p></td>
 <td><p>1,132,224</p></td>
 <td><p>208</p></td>
@@ -308,8 +318,8 @@
 <td><p>100萬</p></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>25</p></td>
+<tr class="odd">
+<td><p>26</p></td>
 <td><p><a href="../Page/蔡阿嘎.md" title="wikilink">蔡阿嘎</a>life</p></td>
 <td><p>1,117,657</p></td>
 <td><p>325</p></td>
@@ -317,16 +327,6 @@
 <td></td>
 <td><p>100萬</p></td>
 <td><p>[18]</p></td>
-</tr>
-<tr class="odd">
-<td><p>26</p></td>
-<td><p><a href="../Page/狠愛演.md" title="wikilink">狠愛演</a></p></td>
-<td><p>1,111,427</p></td>
-<td><p>367</p></td>
-<td><p>146,064,641</p></td>
-<td></td>
-<td><p>100萬</p></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>27</p></td>
@@ -340,6 +340,16 @@
 </tr>
 <tr class="odd">
 <td><p>28</p></td>
+<td><p><a href="../Page/啾啾鞋.md" title="wikilink">啾啾鞋</a></p></td>
+<td><p>1,103,028</p></td>
+<td><p>338</p></td>
+<td><p>125,173,681</p></td>
+<td></td>
+<td><p>100萬</p></td>
+<td><p>[20]</p></td>
+</tr>
+<tr class="even">
+<td><p>29</p></td>
 <td><p><a href="../Page/理科太太.md" title="wikilink">理科太太 Li Ke Tai Tai</a></p></td>
 <td><p>1,102,052</p></td>
 <td><p>151</p></td>
@@ -347,16 +357,6 @@
 <td></td>
 <td><p>100萬</p></td>
 <td></td>
-</tr>
-<tr class="even">
-<td><p>29</p></td>
-<td><p><a href="../Page/啾啾鞋.md" title="wikilink">啾啾鞋</a></p></td>
-<td><p>1,073,278</p></td>
-<td><p>338</p></td>
-<td><p>102,379,714</p></td>
-<td></td>
-<td><p>100萬</p></td>
-<td><p>[20]</p></td>
 </tr>
 <tr class="odd">
 <td><p>30</p></td>

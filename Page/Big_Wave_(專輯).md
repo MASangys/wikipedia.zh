@@ -1,4 +1,4 @@
-《**Big wave**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BTOB](../Page/BTOB.md "wikilink")成員[鄭鎰勳](../Page/鄭鎰勳.md "wikilink")的首張個人韓語迷你專輯，於2018年3月8日正式發行。主打歌曲為《She's gone》。
+《**Big wave**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BTOB](../Page/BTOB.md "wikilink")成員[鄭鎰勳](../Page/鄭鎰勳.md "wikilink")的首張個人韓語迷你專輯，於2018年3月8日正式發行。主打歌曲為〈She's gone〉。
 
 ## 背景
 
@@ -16,13 +16,13 @@
 
 3月5日，發布鎰勳的專輯6秒宣傳影像 \[6\]。 3月6日，發布全專輯試聽預告 \[7\]。 3月7日，發布MV Teaser \[8\]。
 
-3月8日，音源正式發行並公開主打曲《She's gone》完整版MV \[9\]。 3月18日，釋出收錄曲《Always》MV \[10\]。
+3月8日，音源正式發行並公開主打曲〈She's gone〉完整版MV \[9\]。 3月18日，釋出收錄曲〈Always〉MV \[10\]。
 
-主打曲《She's gone》曾於2017年《[BTOB TIME ～我們的演唱會～](../Page/BTOB_TIME_～我們的演唱會～.md "wikilink")》公開演唱。
+主打曲〈She's gone〉曾於2017年《[BTOB TIME ～我們的演唱會～](../Page/BTOB_TIME_～我們的演唱會～.md "wikilink")》公開演唱。
 
-收錄曲《Fancy Shoes》先前已以《[PIECE OF BTOB](../Page/PIECE_OF_BTOB.md "wikilink")》企劃發行，此次收錄版本為Remake版。
+收錄曲〈Fancy Shoes〉先前已以《[PIECE OF BTOB](../Page/PIECE_OF_BTOB.md "wikilink")》企劃發行，此次收錄版本為Remake版。
 
-收錄曲《Always》先行於《[想念著 Melody](../Page/成為你的Melody演唱會.md "wikilink")》演唱會公開演唱。
+收錄曲〈Always〉先行於《[想念著 Melody](../Page/成為你的Melody演唱會.md "wikilink")》演唱會公開演唱。
 
 ## 曲目
 
@@ -195,7 +195,7 @@ Feat. <a href="../Page/任炫植.md" title="wikilink">任炫植</a></p></td>
 <tr class="odd">
 <td><p>台灣</p></td>
 <td><p>2018年3月</p></td>
-<td><p>CD+<a href="https://zh.wikipedia.org/wiki/DVD" title="wikilink">DVD</a></p></td>
+<td><p>CD</p></td>
 <td><p><a href="../Page/Kakao_M.md" title="wikilink">Kakao M</a></p></td>
 </tr>
 </tbody>

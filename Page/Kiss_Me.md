@@ -39,7 +39,7 @@
 <td><p><a href="../Page/李海娜.md" title="wikilink">李海娜</a></p></td>
 <td><p>Taliw 魏天妮</p></td>
 <td><p>相原琴子</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/陳雪瑩" title="wikilink">陳雪瑩</a></p></td>
+<td><p><a href="../Page/陳雪瑩.md" title="wikilink">陳雪瑩</a></p></td>
 <td><p>Han之女，想法簡單，思考直線，不懂拐彎抺角的女孩。<br />
 在開學前因為TenTen善良的幫助她一起救了一隻困在樹上的貓，而對他有好感。<br />
 父女兩人因為石油氣爆炸炸毀他們的家後，遷入TenTen的家。<br />

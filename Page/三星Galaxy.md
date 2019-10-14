@@ -1,4 +1,4 @@
-**三星Galaxy**（**SAMSUNG Galaxy**，其中國官網譯名為三星蓋-{}-樂世）是由[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[三星集团其下的](https://zh.wikipedia.org/wiki/三星集团 "wikilink")[三星電子](../Page/三星電子.md "wikilink")設計，製造和銷售的一系列移動設備品牌。產品線中較為知名的包括高端智能電話的[Galaxy S和](../Page/三星Galaxy_S系列.md "wikilink")[Galaxy Note](../Page/三星Galaxy_Note系列.md "wikilink")，而及平板的[三星Galaxy Tab S系列](https://zh.wikipedia.org/wiki/三星Galaxy_Tab_S系列 "wikilink")/[A系列](https://zh.wikipedia.org/wiki/三星Galaxy_Tab_A系列 "wikilink")。智能手錶的[三星Galaxy Watch](https://zh.wikipedia.org/wiki/三星Galaxy_Watch "wikilink")。
+[Samsung_Galaxy_wordmark.svg](https://zh.wikipedia.org/wiki/File:Samsung_Galaxy_wordmark.svg "fig:Samsung_Galaxy_wordmark.svg") **三星Galaxy**（，風格化：SAMSUNG Galaxy），其中國官網譯名為三星蓋-{}-樂世）是由[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[三星集团其下的](https://zh.wikipedia.org/wiki/三星集团 "wikilink")[三星電子](../Page/三星電子.md "wikilink")設計，製造和銷售的一系列移動設備品牌。產品線中較為知名的包括高端智能電話的[Galaxy S和](../Page/三星Galaxy_S系列.md "wikilink")[Galaxy Note](../Page/三星Galaxy_Note系列.md "wikilink")，而及平板的[三星Galaxy Tab S系列](https://zh.wikipedia.org/wiki/三星Galaxy_Tab_S系列 "wikilink")/[A系列](https://zh.wikipedia.org/wiki/三星Galaxy_Tab_A系列 "wikilink")。智能手錶的[三星Galaxy Watch](https://zh.wikipedia.org/wiki/三星Galaxy_Watch "wikilink")。從2009年到2013年9月，型號均為“ GT-xxxxx”格式，2013年9月至今，三星Galaxy系列設備的型號代碼均為“ SM-xxxxx”格式（不包括[Galaxy J](https://zh.wikipedia.org/wiki/Galaxy_J "wikilink") (SC-02F或SGH-N075T)）。
 
 ## 生產中的系列
 
@@ -29,7 +29,25 @@
 
 ## "Over the horizon"
 
-Over The Horizon是[Samsung Galaxy S II推出之後所有三星手機皆配備的鈴聲](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S_II "wikilink")。它由Joong-sam Yun開發。雖然六音符曲調的基本組成自成立以來沒有改變，但隨著產品線的發展，現時已經有多種版本。 \[1\]\[2\]
+**Over The Horizon**是[Samsung Galaxy S II的內建鈴聲](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S_II "wikilink")，2011年5月之後所有新推出的三星手機/平板電腦皆配備此鈴聲。它由Joong-sam Yun開發。雖然六音符曲調的基本組成自成立以來沒有改變，但隨著產品線的發展，現時已經有多種版本。 \[1\]\[2\] \[3\]
+
+## Samsung Sharp Sans
+
+**Samsung Sharp Sans**是大部分三星Galaxy系列手機的盒子包裝所採用的文字，在[三星Galaxy S6的包裝上首次使用](../Page/三星Galaxy_S6.md "wikilink")。 [Samsung_Galaxy_M_Series_logo.png](https://zh.wikipedia.org/wiki/File:Samsung_Galaxy_M_Series_logo.png "fig:Samsung_Galaxy_M_Series_logo.png")的標誌內\]\]
+
+## Wireless PowerShare
+
+**Wireless PowerShare**是[三星電子](../Page/三星電子.md "wikilink")於在三星Galaxy品牌的手機搭載的反向無線充電技術，可用於支援[Qi無線充電規格的科技產品上](../Page/Qi_\(無線充電標準\).md "wikilink")。
+
+### 支援的產品
+
+  - [三星Galaxy S10系列](../Page/三星Galaxy_S10.md "wikilink")
+  - [三星Galaxy Note 10系列](../Page/三星Galaxy_Note_10系列.md "wikilink")
+  - [三星Galaxy Fold](../Page/三星Galaxy_Fold.md "wikilink")
+
+## 參考來源
+
+<references />
 
 ## 外部連結
 
@@ -38,3 +56,4 @@ Over The Horizon是[Samsung Galaxy S II推出之後所有三星手機皆配備�
 
 1.
 2.
+3.  <https://news.samsung.com/global/from-rock-to-classical-pop-crossovers-new-ocean-inspired-over-the-horizon-celebrates-10th-anniversary-of-galaxy-series> 三星官網 news.samsung

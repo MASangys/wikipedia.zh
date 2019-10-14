@@ -1,10 +1,10 @@
 本條目主要收錄[臺灣](../Page/臺灣.md "wikilink")[男子](https://zh.wikipedia.org/wiki/男子 "wikilink")[偶像](https://zh.wikipedia.org/wiki/偶像 "wikilink")[團體](https://zh.wikipedia.org/wiki/團體 "wikilink")[SpeXial](../Page/SpeXial.md "wikilink")的相關影視作品，其中包含部分衍生團體的作品记录。
 
-關於成員[宏正在](https://zh.wikipedia.org/wiki/羅弘証 "wikilink")[武虎將](../Page/武虎將.md "wikilink")時期所參與演出的作品，詳見[武虎將](../Page/武虎將.md "wikilink")條目。
+關於團員[宏正在](https://zh.wikipedia.org/wiki/羅弘証 "wikilink")[武虎將](../Page/武虎將.md "wikilink")時期所參與演出的作品，詳見[武虎將](../Page/武虎將.md "wikilink")條目。
 
-關於成員[偉晉在星光時期參賽紀錄](https://zh.wikipedia.org/wiki/黃偉晉 "wikilink")，詳見[超級星光大道6條目](https://zh.wikipedia.org/wiki/超級星光大道6 "wikilink")。
+關於團員[偉晉在星光時期參賽紀錄](https://zh.wikipedia.org/wiki/黃偉晉 "wikilink")，詳見[超級星光大道6條目](https://zh.wikipedia.org/wiki/超級星光大道6 "wikilink")。
 
-關於成員[明-{杰}-和](https://zh.wikipedia.org/wiki/許名傑 "wikilink")[子閎](../Page/子閎.md "wikilink")的[YouTube](../Page/YouTube.md "wikilink")頻道，詳見[龍兄虎弟](https://www.youtube.com/channel/UComUQFkhd4jA2hLfJZ1zBKg)
+關於團員[明-{杰}-和](https://zh.wikipedia.org/wiki/許名傑 "wikilink")[子閎](../Page/子閎.md "wikilink")的[YouTube](../Page/YouTube.md "wikilink")頻道，詳見[龍兄虎弟](https://www.youtube.com/channel/UComUQFkhd4jA2hLfJZ1zBKg)
 
 ## 連續劇
 
@@ -1000,6 +1000,24 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p>9月26日</p></td>
+<td><p><a href="../Page/外貌至上主義.md" title="wikilink">外貌至上主義</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/騰訊視頻" title="wikilink">騰訊視頻</a></p></td>
+<td><p><a href="../Page/Evan_(SpeXial).md" title="wikilink">Evan</a></p></td>
+<td><p>陳虎彬</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>10月16日</p></td>
+<td><p><a href="../Page/HIStory3.md" title="wikilink">那一天</a></p></td>
+<td><p><a href="../Page/LINE_TV.md" title="wikilink">LINE TV</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/許名傑" title="wikilink">明-{杰}-</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>待播</p></td>
 <td></td>
 <td></td>
@@ -1100,14 +1118,23 @@
 </tr>
 <tr class="odd">
 <td><p>拍攝中</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金愛演偵探團" title="wikilink">金愛演偵探團</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金愛演真探團" title="wikilink">金愛演真探團</a></p></td>
 <td></td>
-<td><p><a href="../Page/明杰.md" title="wikilink">明杰</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/許名傑" title="wikilink">明-{杰}-</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>待開拍</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/若是一個人" title="wikilink">若是一個人</a></p></td>
+<td></td>
+<td><p><a href="../Page/子閎.md" title="wikilink">子閎</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>停拍中</p></td>
 <td><p><a href="../Page/破網時刻.md" title="wikilink">破網時刻</a></p></td>
 <td></td>
@@ -1116,7 +1143,7 @@
 <td><p>男主角</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/許名傑" title="wikilink">明-{杰}-</a></p></td>
 <td><p>熊威</p></td>
 <td><p>第二男主角</p></td>
@@ -1171,11 +1198,12 @@
 
 ### 電視電影
 
-|            |                                          |                                                                                            |                                |     |     |
-| ---------- | ---------------------------------------- | ------------------------------------------------------------------------------------------ | ------------------------------ | --- | --- |
-| 首播日期       | 電影名稱                                     | 首播頻道                                                                                       | 出演成員                           | 角色  | 性質  |
-| 2015年3月21日 | [傑克的爺爺](../Page/傑克的爺爺.md "wikilink")     | [公視HD台](https://zh.wikipedia.org/wiki/公視HD台 "wikilink")、[公視主頻](../Page/公視主頻.md "wikilink") | [子閎](../Page/子閎.md "wikilink") | 林子閎 | 男主角 |
-| 2017年1月1日  | [麥呆的劈腿日記](../Page/麥呆的劈腿日記.md "wikilink") | [緯來電影台](../Page/緯來電影台.md "wikilink")                                                       | [子閎](../Page/子閎.md "wikilink") | 麥威  | 男主角 |
+|            |                                                       |                                                                                            |                                |     |     |
+| ---------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------ | ------------------------------ | --- | --- |
+| 首播日期       | 電影名稱                                                  | 首播頻道                                                                                       | 出演成員                           | 角色  | 性質  |
+| 2015年3月21日 | [傑克的爺爺](../Page/傑克的爺爺.md "wikilink")                  | [公視HD台](https://zh.wikipedia.org/wiki/公視HD台 "wikilink")、[公視主頻](../Page/公視主頻.md "wikilink") | [子閎](../Page/子閎.md "wikilink") | 林子閎 | 男主角 |
+| 2017年1月1日  | [麥呆的劈腿日記](../Page/麥呆的劈腿日記.md "wikilink")              | [緯來電影台](../Page/緯來電影台.md "wikilink")                                                       | [子閎](../Page/子閎.md "wikilink") | 麥威  | 男主角 |
+| 拍攝中        | [女拳至上](https://zh.wikipedia.org/wiki/女拳至上 "wikilink") | [東森電影台](../Page/東森電影台.md "wikilink")                                                       | [明杰](../Page/明杰.md "wikilink") |     |     |
 
 ### 網絡電影
 
@@ -2255,7 +2283,8 @@
 2019年7月8日<br />
 2019年8月5日<br />
 2019年8月19日<br />
-2019年9月2日}}</p></td>
+2019年9月2日<br />
+2019年9月23}}</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/17app" title="wikilink">17app</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/許名傑" title="wikilink">明-{杰}-</a></p></td>
 </tr>

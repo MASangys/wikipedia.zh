@@ -201,31 +201,10 @@ PlotData =
 
 ## 影視作品
 
-### 話劇
+### 官方頻道
 
-|                   |             |           |      |     |    |    |
-| ----------------- | ----------- | --------- | ---- | --- | -- | -- |
-| 日期                | 地點          | 劇名        | 參演成員 | 角色  | 性質 | 備註 |
-| 2019年8月23日-10月13日 | 首爾大學路Good劇院 | 《再見 馬方先生》 | 采媛   | 周昭媛 | 主角 |    |
-|                   |             |           |      |     |    |    |
-
-### 戲劇
-
-|                                                     |                                                                 |                                                  |      |        |     |     |
-| --------------------------------------------------- | --------------------------------------------------------------- | ------------------------------------------------ | ---- | ------ | --- | --- |
-| 播出年份                                                | 電視台                                                             | 劇名                                               | 參演成員 | 角色     | 性質  | 備註  |
-| 2016年                                               | [KBS Media](https://zh.wikipedia.org/wiki/KBS_Media "wikilink") | 《回答吧平昌，100°F》                                    | 采媛   | 洪慧媛    | 女主角 | 網路劇 |
-| Grapefruit app                                      | 《四月的孩子》                                                         | 娜恩                                               |      | VR網絡電視 |     |     |
-| albamon                                             | 《大生》                                                            | 采媛                                               | 采媛   | 配角     | 網路劇 |     |
-| 2017年                                               | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")           | 《[爸爸好奇怪](../Page/爸爸好奇怪.md "wikilink")》           | 娜恩   | 戲劇員工   | 客串  |     |
-| Naver TV                                            | 《\#보니하니》                                                        | 真率                                               |      | 網路劇    |     |     |
-| [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") | 《Modulove》                                                      | 娜恩                                               | 娜恩   | 配角     |     |     |
-| 2018年                                               | Playlist                                                        | 《[A-TEEN](../Page/A-TEEN_\(電視劇\).md "wikilink")》 | 娜恩   | 金荷娜    | 女主角 | 網路劇 |
-| 2019年                                               | 《[A-TEEN 2](../Page/A-TEEN_2_\(電視劇\).md "wikilink")》            |                                                  |      |        |     |     |
-| [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") | 《嘻哈王》                                                           | 宋河珍                                              | 迷你劇  |        |     |     |
-| Playlist                                            | 《再次遇見的你》                                                        | 真率                                               | 何多絮  | 主要角色   | 網路劇 |     |
-| [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 《[意外發現的一天](../Page/意外發現的一天.md "wikilink")》                      | 娜恩                                               | 呂珠多  | 第二女主角  |     |     |
-|                                                     |                                                                 |                                                  |      |        |     |     |
+  - ON AIR PRIL
+  - ON AIRPRIL S2
 
 ## 演唱會
 
@@ -243,7 +222,6 @@ PlotData =
 | 2016年3月6日                                                  | 日本  | Toyos PIT        |      |
 | 2017年3月20日                                                 | 日本  | 東京品川城際大廳         |      |
 | 2018年4月14日                                                 | 韓國  | 首爾樂天世界           |      |
-|                                                            |     |                  |      |
 
 | 單獨演唱會 |-style="background:\#FF95CA; font-weight:bold; left | |日期 | 站次                   | 舉行地點 |
 | ---------------------------------------------------------- | --- | -------------------- | ---- |
@@ -251,25 +229,164 @@ PlotData =
 | 2016年10月15日                                                | 日本  | 東京品川城際大廳             |      |
 | 2017年12月9日                                                 | 日本  | 東京品川城際大廳             |      |
 | 2017年12月24日                                                | 韓國  | 乐天一山店文化馆             |      |
+| 2019年6月5日                                                  | 越南  | 河內國民經濟大學             |      |
 
-| 大型演唱會 |-style="background:\#FF95CA; font-weight:bold;align=left | |年份                               | 日期                           | 演唱會名稱                        | 舉行地點 |
-| --------------------------------------------------------------- | --------------------------------- | ---------------------------- | ---------------------------- | ---- |
-| 2015年                                                           | 9月14日                             | MBC「2015 DMC FESTIVAL」       | 韓國－上岩文化廣場                    |      |
-| 9月20日                                                           | 2015韓流夢想音樂節                       | 韓國－慶州市民運動場                   |                              |      |
-| 2016年                                                           | 9月3日                              | ASIA MUSIC STAGE 最強音         | 臺灣－三立電視台                     |      |
-| 2017年                                                           | 1月8日                              | Rising star Dreaming Concert | 韓國－首爾樂天世界                    |      |
-| 6月3日                                                            | 2017《Dream Concert》               | 韓國－首爾世界盃競技場                  |                              |      |
-| 9月30日                                                           | 2017 KOREA MUSIC FESTIVAL         | 韓國－首爾高尺天空巨蛋                  |                              |      |
-| 10月20日                                                          | 2017 Seoul Angel's Share Festival | 韓國－首爾廣場                      |                              |      |
-| 10月24日                                                          | 2017 BOF Legend Stage             | 韓國－釜山海雲台海水浴場                 |                              |      |
-| 12月5日                                                           | 第54屆K-pop音乐会                      | 韓國－首爾東大門廣場                   |                              |      |
-| 12月16日                                                          | 平昌奥运成功举办江陵音乐会                     | 韓國－江陵原州大学Hallym文化中心          |                              |      |
-| 2018年                                                           | 1月3日                              | K-plus Concert in Tokyo      | 日本－東京BELLESALLE Takadanobaba |      |
-| 2月4日                                                            | A-Pop Concert                     | 韓國－旌善综合体育场                   |                              |      |
-| 2月24日                                                           | K-POP World Festal                | 韓國－江陵原州大學體育場                 |                              |      |
-| 3月2日                                                            | COEX K-Pop Talk Concert           | 韓國－首爾三成洞COEX                 |                              |      |
-| 5月6日                                                            | Simply K-POP和平音乐会                 | 韓國－首爾江原道阳谷乐园公园               |                              |      |
-| 7月14日                                                           | Red Angel K-POP FESTIVAL          | 韓國－京畿道加平區鱉島                  |                              |      |
+<table>
+<thead>
+<tr class="header">
+<th><p>大型演唱會 |-style="background:#FF95CA; font-weight:bold;align=left</p></th>
+<th><p>|年份</p></th>
+<th><p>日期</p></th>
+<th><p>演唱會名稱</p></th>
+<th><p>舉行地點</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2015</p></td>
+<td><p>9月14日</p></td>
+<td><p>DMC FESTIVAL</p></td>
+<td><p>韓國－MBC上岩文化廣場</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>9月20日</p></td>
+<td><p>韓流夢想音樂節</p></td>
+<td><p>韓國－慶州市民運動場</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2016</p></td>
+<td><p>9月3日</p></td>
+<td><p>ASIA MUSIC STAGE 最強音</p></td>
+<td><p>臺灣－三立電視台</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2017</p></td>
+<td><p>1月8日</p></td>
+<td><p>Rising star Dreaming Concert</p></td>
+<td><p>韓國－首爾樂天世界</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>6月3日</p></td>
+<td><p>Dream Concert</p></td>
+<td><p>韓國－首爾世界盃競技場</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>9月30日</p></td>
+<td><p>KOREA MUSIC FESTIVAL</p></td>
+<td><p>韓國－首爾高尺天空巨蛋</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>10月20日</p></td>
+<td><p>Seoul Angel's Share Festival</p></td>
+<td><p>韓國－首爾廣場</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>10月24日</p></td>
+<td><p>BOF Legend Stage</p></td>
+<td><p>韓國－釜山海雲台海水浴場</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>12月5日</p></td>
+<td><p>第54屆K-pop音乐会</p></td>
+<td><p>韓國－首爾東大門廣場</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>12月16日</p></td>
+<td><p>平昌奥运成功举办<br />
+江陵音乐会</p></td>
+<td><p>韓國－江陵原州大学<br />
+Hallym文化中心</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2018</p></td>
+<td><p>1月3日</p></td>
+<td><p>K-plus Concert in Tokyo</p></td>
+<td><p>日本－東京BELLESALLE Takadanobaba</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2月4日</p></td>
+<td><p>A-Pop Concert</p></td>
+<td><p>韓國－旌善综合体育场</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2月24日</p></td>
+<td><p>K-POP World Festal</p></td>
+<td><p>韓國－江陵原州大學體育場</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>3月2日</p></td>
+<td><p>COEX K-Pop Talk Concert</p></td>
+<td><p>韓國－首爾三成洞COEX</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>5月6日</p></td>
+<td><p>Simply K-POP和平音乐会</p></td>
+<td><p>韓國－首爾江原道阳谷乐园公园</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>7月14日</p></td>
+<td><p>Red Angel<br />
+K-POP FESTIVAL</p></td>
+<td><p>韓國－京畿道加平區鱉島</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019</p></td>
+<td><p>8月24日</p></td>
+<td><p>K-WORLD FESTA</p></td>
+<td><p>韓國－首爾KSPO DOME</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>9月28日</p></td>
+<td><p>E-Mobility EXPO K-POP</p></td>
+<td><p>韓國－靈光郡國際智能博覽會</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>10月6日</p></td>
+<td><p>SMUF K-POP首爾音樂節</p></td>
+<td><p>韓國－首爾光化門廣場</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>10月11日</p></td>
+<td><p>ASIA SONG FESTIVAL</p></td>
+<td><p>韓國－蔚山綜合運動場</p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 獎項
 

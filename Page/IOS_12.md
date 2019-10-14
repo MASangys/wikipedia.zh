@@ -557,6 +557,18 @@ iOS 12能運行於所有搭載iOS 11的裝置上，是自iPhone OS 3及iOS 9以�
 <td><p>16G77</p></td>
 <td><p>2019年7月23日</p></td>
 </tr>
+<tr class="even">
+<td><p>12.4.1</p></td>
+<td><p>正式版</p></td>
+<td><p>16G102</p></td>
+<td><p>2019年8月27日</p></td>
+</tr>
+<tr class="odd">
+<td><p>12.4.2</p></td>
+<td><p>正式版</p></td>
+<td><p>16G114</p></td>
+<td><p>2019年9月27日</p></td>
+</tr>
 </tbody>
 </table>
 

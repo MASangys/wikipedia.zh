@@ -57,7 +57,7 @@
 <tr class="odd">
 <td><p><a href="../Page/八大綜合台.md" title="wikilink">八大綜合台</a></p></td>
 <td><p>2019年9月20日</p></td>
-<td><p>每週五 晚間9點</p></td>
+<td><p>每週五 晚間10點</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -121,7 +121,9 @@
 
   - [《迷徒·Claire》KKTV全劇](https://www.kktv.me/titles/02000062-%E5%8F%B0%E5%8A%87-%E8%BF%B7%E5%BE%92%C2%B7CLAIRE-%E7%B7%9A%E4%B8%8A%E7%9C%8B)
 
-[Category:台灣偶像劇](https://zh.wikipedia.org/wiki/Category:台灣偶像劇 "wikilink") [Category:2015年台灣電視劇集](https://zh.wikipedia.org/wiki/Category:2015年台灣電視劇集 "wikilink") [Category:台灣網路劇](https://zh.wikipedia.org/wiki/Category:台灣網路劇 "wikilink")
+  - －八大
+
+[Category:台灣偶像劇](https://zh.wikipedia.org/wiki/Category:台灣偶像劇 "wikilink") [Category:2015年台灣電視劇集](https://zh.wikipedia.org/wiki/Category:2015年台灣電視劇集 "wikilink") [Category:台灣網路劇](https://zh.wikipedia.org/wiki/Category:台灣網路劇 "wikilink") [Category:八大電視外購電視劇](https://zh.wikipedia.org/wiki/Category:八大電視外購電視劇 "wikilink")
 
 1.
 2.

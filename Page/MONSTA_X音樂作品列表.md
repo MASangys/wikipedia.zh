@@ -391,6 +391,43 @@ Heat</a><br />
 <td><p>2</p></td>
 </tr>
 <tr class="even">
+<td><p>美國</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>"Shoot Out"</p></td>
+<td><p>2018</p></td>
+<td><p>—</p></td>
+<td><p>—</p></td>
+<td><p>—</p></td>
+</tr>
+<tr class="even">
+<td><p>"Play It Cool"[1]<br />
+</p></td>
+<td><p>2019</p></td>
+<td><p>—</p></td>
+<td><p>—</p></td>
+<td><p>—</p></td>
+</tr>
+<tr class="odd">
+<td><p>"Who Do U Love?"[2]<br />
+</p></td>
+<td><p>—</p></td>
+<td><p>—</p></td>
+<td><p>—</p></td>
+<td><p>—</p></td>
+</tr>
+<tr class="even">
+<td><p>"Love U"[3]</p></td>
+<td><p>colspan="9" </p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><small>"—" 表示該專輯/單曲未有在榜上排名或未有資料或沒有在當地發行</small></p></td>
 <td></td>
 <td></td>
@@ -590,3 +627,7 @@ Heat</a><br />
 ## 參考文獻
 
 [Category:MONSTA_X](https://zh.wikipedia.org/wiki/Category:MONSTA_X "wikilink") [Category:韓國音樂作品列表](https://zh.wikipedia.org/wiki/Category:韓國音樂作品列表 "wikilink")
+
+1.
+2.
+3.

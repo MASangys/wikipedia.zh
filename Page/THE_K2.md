@@ -170,7 +170,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/權秀賢" title="wikilink">權秀賢</a></p></td>
+<td><p><a href="../Page/權秀賢.md" title="wikilink">權秀賢</a></p></td>
 <td></td>
 <td><p>JSS保鑣。</p></td>
 <td></td>

@@ -10,7 +10,7 @@ Apple Watch Series 2使用[處理器](https://zh.wikipedia.org/wiki/處理器 "w
 | \-                                 | 内置 GPS                               |
 | 防潑水 IPX7                           | 防水 (最大50米防水) IPX8                    |
 | WiFi (802.11 b/g/n 2.4 GHz)        | WiFi (802.11 b/g/n 2.4 GHz)          |
-| 蓝牙 4.2                             | 蓝牙 4.0                               |
+| 蓝牙 4.0                             | 蓝牙 4.0                               |
 | 心率传感器                              | 心率传感器                                |
 | 重力加速度传感器                           | 重力加速度传感器                             |
 | 陀螺仪                                | 陀螺仪                                  |

@@ -829,7 +829,7 @@ Won Eun Sook<br />
 <tr class="even">
 <td><p>第45話</p></td>
 <td></td>
-<td></td>
+<td><p>重逢！我的父親</p></td>
 <td><p>筆安一幸</p></td>
 <td><p>上原秀明</p></td>
 <td><p>In Tae Sun<br />
@@ -907,6 +907,26 @@ Joung Jin Young</p></td>
 </tr>
 <tr class="even">
 <td><p>第2期（ZERO）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第51話</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
 <td></td>
 <td></td>
 <td></td>

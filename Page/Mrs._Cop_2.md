@@ -74,7 +74,7 @@
 <td><p>申汝玉</p></td>
 <td><p><strong>首爾地方警察廳重案1組組員</strong><br />
 前中部交通組警長，個性溫柔及體貼，在行於接無聊或打錯的電話。</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/陳雪瑩" title="wikilink">陳雪瑩</a></p></td>
+<td><p><a href="../Page/陳雪瑩.md" title="wikilink">陳雪瑩</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/金熙燦.md" title="wikilink">金熙燦</a></p></td>

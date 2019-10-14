@@ -2380,8 +2380,21 @@
 <a href="https://zh.wikipedia.org/wiki/孫浩俊" title="wikilink">孫浩俊</a></p></td>
 <td></td>
 <td><p>12（<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
-（<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>）</p></td>
+18（<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>）</p></td>
 <td><p>[281][282]</p></td>
+</tr>
+<tr class="odd">
+<td><p>10月13日</p></td>
+<td><p><a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a></p></td>
+<td><p><strong><a href="../Page/會讀心術的那小子.md" title="wikilink">會讀心術的那小子</a></strong></p></td>
+<td><p><a href="../Page/朴珍榮.md" title="wikilink">朴珍榮</a><br />
+<a href="../Page/辛睿恩.md" title="wikilink">辛睿恩</a><br />
+<a href="https://zh.wikipedia.org/wiki/金多順" title="wikilink">金多順</a><br />
+<a href="../Page/金權.md" title="wikilink">金權</a></p></td>
+<td></td>
+<td><p>16（<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
+（<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>）</p></td>
+<td><p>[283][284]</p></td>
 </tr>
 </tbody>
 </table>
@@ -2721,3 +2734,5 @@
 280.
 281.
 282.
+283.
+284.

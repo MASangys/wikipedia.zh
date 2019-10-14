@@ -46,5 +46,5 @@ DP-65A設計用於保護船军舰、水力結構、[自來水廠](../Page/供水
 
 1.  <http://inventorspot.com/articles/russias_naval_grenade_launchers_shiver_everyones_timbers_16997>
 2.  <http://www.eaglespeak.us/2008/07/russian-anti-piracy-idea-simple-and.html>
-3.  <http://tonnel-ufo-english2.tk/weapon/grenade-launcher-complex-dp-65.php>
+3.
 4.

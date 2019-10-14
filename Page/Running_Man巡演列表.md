@@ -397,7 +397,7 @@ HKD480</p></td>
 <tr class="odd">
 <td><p>8月26日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/首尔" title="wikilink">首尔</a></p></td>
-<td></td>
+<td><p><a href="../Page/梨花女子大學.md" title="wikilink">梨花女子大學</a></p></td>
 <td><p>(全體成員)</p></td>
 <td></td>
 </tr>
@@ -1409,6 +1409,25 @@ HKD480</p></td>
 |                  |                                                                           |                                                                                |
 
 (此表格可能需要增添內容)
+
+### 2019年：Running Man ‘KEEP ON RUNNING’ Live in Jakarta
+
+### 2019年：Running Man 9週年特別企劃—RM区（9）计划
+
+| **演出成員**                                         | 节目内容             | 备注      |
+| ------------------------------------------------ | ---------------- | ------- |
+| 全體成员                                             | 沒有你不行            | 开场表演    |
+| HAHA、Skull                                       | DANGDIGGIBANG    | 个人舞台    |
+| 池錫辰、宋智孝                                          | Loco Don't       |         |
+| 李光洙、全昭旻、梁世燦                                      | 海边的女人            |         |
+| 金鐘國                                              | Speechless       |         |
+| Super-X <small>(劉在錫、HAHA)</small>                | Hollywood        |         |
+| 粉鼻光 <small>（Apink、池锡辰、李光洙）</small>               | PARTY            | 合作音乐人舞台 |
+| 孝燦公园 <small>(Nucksal、Code Kunst、宋智孝、梁世灿)</small> | Bonjour Hi       |         |
+| 全SORAN和刘在锡 <small>(SORAN、全昭旻、刘在锡)</small>        | 现在说出来吧 告白        |         |
+| F-killer (Gummy、金钟国、HAHA)                        | Raise your voice |         |
+| 全體成员                                             | Boom\&Just Blow  | 集体群舞    |
+| 全體成员                                             | 喜欢               | 主题曲     |
 
 ## 參考資料
 

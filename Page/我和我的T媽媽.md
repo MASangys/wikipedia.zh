@@ -2,7 +2,7 @@
 
 ## 書籍
 
-2017年10月1日[黃惠偵](../Page/黃惠偵.md "wikilink")出版同名散文《我和我的T媽媽》。該書獲得[侯孝賢](../Page/侯孝賢.md "wikilink")、[陳芳明](../Page/陳芳明.md "wikilink")、[唐綺陽](https://zh.wikipedia.org/wiki/唐綺陽 "wikilink")、[聶永真](../Page/聶永真.md "wikilink")、[洪仲清](../Page/洪仲清.md "wikilink")、[郝譽翔](../Page/郝譽翔.md "wikilink")、[陳雪](../Page/陳雪.md "wikilink")、[紀大偉](../Page/紀大偉.md "wikilink")、[李屏瑤](https://zh.wikipedia.org/wiki/李屏瑤 "wikilink")、Orange Fruit等人聯合推薦，並隨書附贈紀錄片《我和我的T媽媽》DVD。
+2017年10月1日[黃惠偵](../Page/黃惠偵.md "wikilink")出版同名散文《我和我的T媽媽》。該書獲得[侯孝賢](../Page/侯孝賢.md "wikilink")、[陳芳明](../Page/陳芳明.md "wikilink")、[唐綺陽](https://zh.wikipedia.org/wiki/唐綺陽 "wikilink")、[聶永真](../Page/聶永真.md "wikilink")、[洪仲清](../Page/洪仲清.md "wikilink")、[郝譽翔](../Page/郝譽翔.md "wikilink")、[陳雪](../Page/陳雪.md "wikilink")、[紀大偉](../Page/紀大偉.md "wikilink")、[李屏瑤](../Page/李屏瑤.md "wikilink")、Orange Fruit等人聯合推薦，並隨書附贈紀錄片《我和我的T媽媽》DVD。
 
 ## 奬項
 

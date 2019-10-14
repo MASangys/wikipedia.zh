@@ -83,8 +83,8 @@ MC：
 <td><p><a href="../Page/郭真言.md" title="wikilink">郭真言</a></p></td>
 <td><p>金弼</p></td>
 <td><p>任道赫</p></td>
-<td><p>宋宥彬、张宇蓝、Buster Lead、MICA、李俊熙、Brain Park、<br />
-李海娜、Foxstar</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/宋有彬" title="wikilink">宋有彬</a>、张宇蓝、Buster Lead、MICA、李俊熙、Brain Park、<br />
+<a href="../Page/MATILDA.md" title="wikilink">李海娜</a>、Foxstar</p></td>
 <td><p><a href="../Page/PRODUCE_101.md" title="wikilink">金雪兒</a>、<a href="https://zh.wikipedia.org/wiki/臉紅的思春期" title="wikilink">臉紅的思春期</a></p></td>
 </tr>
 <tr class="odd">

@@ -78,7 +78,7 @@
 <td style="text-align: left;"><p>《<strong><a href="https://zh.wikipedia.org/wiki/次等秘密_Insignificant_Secret" title="wikilink">次等秘密 Insignificant Secret</a></strong>》</p>
 <ul>
 <li>發行日期：2017年1月9日</li>
-<li>唱片公司：<a href="https://zh.wikipedia.org/wiki/獨立發行" title="wikilink">獨立發行</a></li>
+<li>唱片公司：獨立發行</li>
 <li>語言：華語</li>
 </ul></td>
 <td style="text-align: left;"></td>
@@ -118,6 +118,16 @@
 <td style="text-align: left;"></td>
 </tr>
 <tr class="odd">
+<td style="text-align: left;"><p><strong>2nd</strong></p></td>
+<td style="text-align: left;"><p>《<strong><a href="https://zh.wikipedia.org/wiki/無差別傷害" title="wikilink">無差別傷害</a></strong>》</p>
+<ul>
+<li>發行日期：2019年5月31日</li>
+<li>唱片公司：<a href="../Page/添翼創越工作室.md" title="wikilink">添翼創越工作室</a></li>
+<li>語言：華語</li>
+</ul></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>

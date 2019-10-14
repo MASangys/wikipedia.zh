@@ -41,7 +41,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://www.youtube.com/watch?v=GsU_4-WMeVE">MOIVE</a></p></td>
-<td><p>2017年11月</p></td>
+<td><p>2017年11月7日</p></td>
 <td><p>1theK</p></td>
 <td><p>Run to You<br />
 10月22日突襲演唱會錄製</p></td>

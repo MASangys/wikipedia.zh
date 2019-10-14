@@ -10,7 +10,7 @@
 `       'title' : targetPage,`
 `       'appendtext' : "\n``",`
 `       'summary' : '新訊息（`[`維基百科大歷險自動模擬`](https://zh.wikipedia.org/wiki/WP:TWA "wikilink")`2）',`
-`       'token' : mw.user.tokens.get('editToken')`
+`       'token' : mw.user.tokens.get('csrfToken')`
 `   } ).done( function () {`
 `       window.location.href = linkTo;`
 `   } );`

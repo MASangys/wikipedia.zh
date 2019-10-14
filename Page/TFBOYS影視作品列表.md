@@ -2,98 +2,31 @@
 
 ## 專屬節目
 
-| 年份    | 日期               | 頻道                                                                                                      | 名稱              | 製作公司                                                  |
-| ----- | ---------------- | ------------------------------------------------------------------------------------------------------- | --------------- | ----------------------------------------------------- |
-| 2013年 | 11月15日－2015年5月8日 | [優酷](https://zh.wikipedia.org/wiki/優酷 "wikilink")、[騰訊視頻](https://zh.wikipedia.org/wiki/騰訊視頻 "wikilink") | TF少年GO          | [時代峰峻](https://zh.wikipedia.org/wiki/時代峰峻 "wikilink") |
-| 2014年 | 9月13日－11月1日      | [愛奇藝](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink")                                                     | TFBOYS偶像手記\[1\] | [愛奇藝](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink")   |
-|       |                  |                                                                                                         |                 |                                                       |
+| 年份    | 日期               | 頻道                                                                                                      | 名稱              |
+| ----- | ---------------- | ------------------------------------------------------------------------------------------------------- | --------------- |
+| 2013年 | 11月15日－2015年5月8日 | [優酷](https://zh.wikipedia.org/wiki/優酷 "wikilink")、[騰訊視頻](https://zh.wikipedia.org/wiki/騰訊視頻 "wikilink") | TF少年GO          |
+| 2014年 | 9月13日－11月1日      | [愛奇藝](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink")                                                     | TFBOYS偶像手記\[1\] |
+|       |                  |                                                                                                         |                 |
 
 ## 網路戲劇
 
-<table>
-<thead>
-<tr class="header">
-<th><p>年份</p></th>
-<th><p>平台</p></th>
-<th><p>劇名</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>2014年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/優酷視頻" title="wikilink">優酷視頻</a><br />
-<a href="https://zh.wikipedia.org/wiki/騰訊視頻" title="wikilink">騰訊視頻</a></p></td>
-<td><p>男生學院自習室</p></td>
-</tr>
-<tr class="even">
-<td><p>2016年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/樂視網" title="wikilink">樂視網</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/超少年密碼" title="wikilink">超少年密碼</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/騰訊視頻" title="wikilink">騰訊視頻</a></p></td>
-<td><p>我是你的TFphone</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2017年</p></td>
-<td><p>看不見的TA</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2018年</p></td>
-<td><p>秒拍</p></td>
-<td><p>洗手吃飯</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| 年份                                                    | 平台                                                                                     | 劇名                                                      |
+| ----------------------------------------------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| 2014年                                                 | [優酷視頻](../Page/优酷.md "wikilink")、[騰訊視頻](https://zh.wikipedia.org/wiki/騰訊視頻 "wikilink") | 男生學院自習室                                                 |
+| 2016年                                                 | [樂視網](../Page/乐视网.md "wikilink")                                                       | [超少年密碼](https://zh.wikipedia.org/wiki/超少年密碼 "wikilink") |
+| [騰訊視頻](https://zh.wikipedia.org/wiki/騰訊視頻 "wikilink") | 我是你的TFphone                                                                            |                                                         |
+| 2017年                                                 | 看不見的TA                                                                                 |                                                         |
+| 2018年                                                 | 秒拍                                                                                     | 洗手吃飯                                                    |
+|                                                       |                                                                                        |                                                         |
 
 ## 电视剧
 
-<table>
-<thead>
-<tr class="header">
-<th><p>年份</p></th>
-<th><p>平台</p></th>
-<th><p>劇名</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>2016年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/湖南衛視" title="wikilink">湖南衛視</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/青雲志" title="wikilink">青雲志</a></p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/北京衛視" title="wikilink">北京衛視</a><br />
-<a href="https://zh.wikipedia.org/wiki/浙江衛視" title="wikilink">浙江衛視</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/小別離" title="wikilink">小別離</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2017年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/湖南衛視" title="wikilink">湖南衛視</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/我們的少年時代" title="wikilink">我們的少年時代</a></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-## 電影
-
-| 上映日         | 電影名稱                                                     | 角色            |
-| ----------- | -------------------------------------------------------- | ------------- |
-| 2015年12月24日 | [老炮兒](https://zh.wikipedia.org/wiki/老炮兒 "wikilink")\[2\] | 臨終關懷志願者       |
-| 待定          | [爵跡2：冷血狂宴](../Page/爵跡2：冷血狂宴.md "wikilink")\[3\]          | 呪夜、寒霜似、地源一度王爵 |
+| 年份                                                                                       | 平台                                                    | 劇名                                                          |
+| ---------------------------------------------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------------- |
+| 2016年                                                                                    | [湖南衛視](https://zh.wikipedia.org/wiki/湖南衛視 "wikilink") | [青雲志](https://zh.wikipedia.org/wiki/青雲志 "wikilink")         |
+| [北京衛視](../Page/北京卫视.md "wikilink")、[浙江衛視](https://zh.wikipedia.org/wiki/浙江衛視 "wikilink") | [小別離](https://zh.wikipedia.org/wiki/小別離 "wikilink")   |                                                             |
+| 2017年                                                                                    | [湖南衛視](https://zh.wikipedia.org/wiki/湖南衛視 "wikilink") | [我們的少年時代](https://zh.wikipedia.org/wiki/我們的少年時代 "wikilink") |
+|                                                                                          |                                                       |                                                             |
 
 ## 綜藝節目
 
@@ -108,7 +41,7 @@
 
 | 年份                                                    | 日期                                                        | 頻道                                                           | 節目名稱                                                            | 主題        |
 | ----------------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------------------------- | --------- |
-| 2014年                                                 | 5月31日                                                     | [湖南衛視](https://zh.wikipedia.org/wiki/湖南衛視 "wikilink")        | [快樂大本營](https://zh.wikipedia.org/wiki/快樂大本營 "wikilink")\[4\]    | 少年強       |
+| 2014年                                                 | 5月31日                                                     | [湖南衛視](https://zh.wikipedia.org/wiki/湖南衛視 "wikilink")        | [快樂大本營](https://zh.wikipedia.org/wiki/快樂大本營 "wikilink")\[2\]    | 少年強       |
 | 8月9日                                                  | [東方衛視](https://zh.wikipedia.org/wiki/東方衛視 "wikilink")     | [我們一起來！](https://zh.wikipedia.org/wiki/我們一起來！ "wikilink")    | 表演                                                              |           |
 | 8月14日                                                 | [CCTV](https://zh.wikipedia.org/wiki/CCTV "wikilink")     | [少年中國強](https://zh.wikipedia.org/wiki/少年中國強 "wikilink")      | 擔任推廣大使                                                          |           |
 | 8月16日                                                 | [東方衛視](https://zh.wikipedia.org/wiki/東方衛視 "wikilink")     | [我們一起來！](https://zh.wikipedia.org/wiki/我們一起來！ "wikilink")    | 表演                                                              |           |
@@ -119,9 +52,9 @@
 | 11月23日                                                | [CCTV](https://zh.wikipedia.org/wiki/CCTV "wikilink")     | [中國文藝](https://zh.wikipedia.org/wiki/中國文藝 "wikilink")        |                                                                 |           |
 | 12月26日                                                | [夢想星搭檔](https://zh.wikipedia.org/wiki/夢想星搭檔 "wikilink")   | 夢想起航                                                         |                                                                 |           |
 | [湖南衛視](https://zh.wikipedia.org/wiki/湖南衛視 "wikilink") | [天天向上](../Page/天天向上.md "wikilink")                        |                                                              |                                                                 |           |
-| 2015年                                                 | 2月14日                                                     | [金鷹卡通衛視](https://zh.wikipedia.org/wiki/金鷹卡通衛視 "wikilink")    | [瘋狂的麥咭第二季](https://zh.wikipedia.org/wiki/瘋狂的麥咭 "wikilink")\[5\] | 守護萌娃贏取石像  |
+| 2015年                                                 | 2月14日                                                     | [金鷹卡通衛視](https://zh.wikipedia.org/wiki/金鷹卡通衛視 "wikilink")    | [瘋狂的麥咭第二季](https://zh.wikipedia.org/wiki/瘋狂的麥咭 "wikilink")\[3\] | 守護萌娃贏取石像  |
 | 2月23日                                                 | [CCTV](https://zh.wikipedia.org/wiki/CCTV "wikilink")     | [過年七天樂](https://zh.wikipedia.org/wiki/過年七天樂 "wikilink")      |                                                                 |           |
-| 4月4日                                                  | [湖南衛視](https://zh.wikipedia.org/wiki/湖南衛視 "wikilink")     | [快樂大本營](https://zh.wikipedia.org/wiki/快樂大本營 "wikilink")\[6\] | 在一起，更青春                                                         |           |
+| 4月4日                                                  | [湖南衛視](https://zh.wikipedia.org/wiki/湖南衛視 "wikilink")     | [快樂大本營](https://zh.wikipedia.org/wiki/快樂大本營 "wikilink")\[4\] | 在一起，更青春                                                         |           |
 | 6月6日                                                  | 夏日集結號                                                     |                                                              |                                                                 |           |
 | 7月22日                                                 | [八大綜合台](../Page/八大綜合台.md "wikilink")                      | [娛樂百分百](https://zh.wikipedia.org/wiki/娛樂百分百 "wikilink")      | LIVE                                                            |           |
 | 7月27日                                                 | [中天綜合台](../Page/中天綜合台.md "wikilink")                      | [康熙來了](../Page/康熙來了.md "wikilink")                           | 就是要看康熙啊 不然要幹嘛？！                                                 |           |
@@ -199,5 +132,3 @@
 2.
 3.
 4.
-5.
-6.

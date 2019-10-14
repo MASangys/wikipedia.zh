@@ -39,7 +39,7 @@
 <td><p><strong><a href="../Page/大野智.md" title="wikilink">大野智</a><br />
 《<a href="../Page/死神君.md" title="wikilink">死神君</a>》</strong></p></td>
 <td><p>　<a href="../Page/大野智.md" title="wikilink">大野智</a>　　《<a href="../Page/死神君.md" title="wikilink">死神君</a>》<br />
-　<a href="https://zh.wikipedia.org/wiki/松本潤" title="wikilink">松本潤</a>　　《<a href="https://zh.wikipedia.org/wiki/失戀朱古力" title="wikilink">失戀朱古力</a>》<br />
+　<a href="../Page/松本潤.md" title="wikilink">松本潤</a>　　《<a href="https://zh.wikipedia.org/wiki/失戀朱古力" title="wikilink">失戀朱古力</a>》<br />
 　<a href="../Page/木村拓哉.md" title="wikilink">木村拓哉</a>　《<a href="https://zh.wikipedia.org/wiki/HERO_(日本電視劇)#第二季" title="wikilink">HERO2</a>》<br />
 　<a href="../Page/三浦春馬.md" title="wikilink">三浦春馬</a>　《<a href="https://zh.wikipedia.org/wiki/我存在的時間" title="wikilink">我存在的時間</a>》<br />
 　<a href="../Page/向井理.md" title="wikilink">向井理</a>　　《<a href="https://zh.wikipedia.org/wiki/S-終極警官#電視劇" title="wikilink">S-終極警官</a>》<br />

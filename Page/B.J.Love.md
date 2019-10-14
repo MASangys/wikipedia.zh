@@ -1,6 +1,6 @@
 **B.J.Love**（），[美國男性](https://zh.wikipedia.org/wiki/美國 "wikilink")[配音員](../Page/配音員.md "wikilink")。出身於[密歇根州](../Page/密歇根州.md "wikilink")。
 
-為人熟悉的代表配音作品是[SNK電玩](https://zh.wikipedia.org/wiki/SNK_Playmore "wikilink")[格鬥遊戲](../Page/格鬥遊戲.md "wikilink")《[餓狼傳說](https://zh.wikipedia.org/wiki/餓狼傳說 "wikilink")》系列的佛朗哥·巴修和系列頭目沃夫岡·克勞薩（後在《[格鬥天王'96](../Page/拳皇系列.md "wikilink")》出場）。
+為人熟悉的代表配音作品是[SNK電玩](https://zh.wikipedia.org/wiki/SNK_Playmore "wikilink")[格鬥遊戲](../Page/格鬥遊戲.md "wikilink")《[餓狼傳說](https://zh.wikipedia.org/wiki/餓狼傳說 "wikilink")》系列的佛朗哥·巴修和系列頭目沃夫岡·克勞薩（後者後在《[格鬥天王'96](../Page/拳皇系列.md "wikilink")》出場）。
 
 ## 演出作品
 

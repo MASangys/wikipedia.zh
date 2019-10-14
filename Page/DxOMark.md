@@ -10,9 +10,9 @@
   - 动态范围风景摄影
   - 在低光[ISO下的运动](../Page/感光度.md "wikilink")、野生动物和其他动作摄影
 
-另一个度量，Perceptual兆像素（P-MPix）用于评估相机在与特定镜头配对时的[分辨率](../Page/分辨率.md "wikilink")。\[2\] DxOMark声称，在评估相机和镜头图像质量时，P-MPix对于摄影师来说是一个更准确、更相关的数据。\[3\]\[4\]\[5\]\[6\] 截至2015年12月，安装在[佳能](../Page/佳能.md "wikilink")EOS 5DS R上的佳能EF 300mm f/2.8L IS II USM镜头拥有最高的实测P-MPix （45 P-Mpix），其次是[卡尔蔡司APO](../Page/蔡司公司.md "wikilink") Sonnar T\* 2/135 ZE（佳能EOS 5DS R上的41 P-Mpix和[尼康](../Page/尼康.md "wikilink")D800E上的36 P-Mpix）。\[7\]
+另一个度量，Perceptual兆像素（P-MPix）用于评估相机在与特定镜头配对时的[分辨率](../Page/分辨率.md "wikilink")。\[2\] DxOMark声称，在评估相机和镜头图像质量时，P-MPix对于摄影师来说是一个更准确、更相关的数据。\[3\]\[4\]\[5\]\[6\]截至2015年12月，安装在[佳能](../Page/佳能.md "wikilink")EOS 5DS R上的佳能EF 300mm f/2.8L IS II USM镜头拥有最高的实测P-MPix（45 P-Mpix），其次是[卡尔蔡司APO](../Page/蔡司公司.md "wikilink") Sonnar T\* 2/135 ZE（佳能EOS 5DS R上的41 P-Mpix和[尼康](../Page/尼康.md "wikilink")D800E上的36 P-Mpix）。\[7\]
 
-DxOMark的数据已被用于绘制多年来[传感器](../Page/传感器.md "wikilink")图像品質和低[光敏性与价格的关系以及传感器尺寸和分辨率的影响](https://zh.wikipedia.org/wiki/光敏性 "wikilink")。\[8\] 最近，DxOMark还评估了[无人机摄像头的图像质量](https://zh.wikipedia.org/wiki/无人机 "wikilink")。\[9\]
+DxOMark的数据已被用于绘制多年来[传感器](../Page/传感器.md "wikilink")图像品質和低[光敏性与价格的关系以及传感器尺寸和分辨率的影响](https://zh.wikipedia.org/wiki/光敏性 "wikilink")。\[8\]最近，DxOMark还评估了[无人机摄像头的图像质量](https://zh.wikipedia.org/wiki/无人机 "wikilink")。\[9\]
 
 ## 镜头评级
 
@@ -20,7 +20,7 @@ DxOMark也提供镜头评级，与各种型号的相机搭配使用进行测试�
 
 ## 移动设备评级
 
-随着[智能手机](../Page/智能手机.md "wikilink")取代[傻瓜相机](../Page/傻瓜相机.md "wikilink")，\[12\] DxO实验室于2011年开始测试智能手机和其他移动设备，并在2012年推出了DxOMark Mobile。\[13\] 在2017年9月进行了一次重大更新，增加了旨在强调当前型号[智能手机](../Page/智能手机.md "wikilink")功能的测试，如低光拍摄、远摄变焦、深度效果和散景。\[14\]
+随着[智能手机](../Page/智能手机.md "wikilink")取代[傻瓜相机](../Page/傻瓜相机.md "wikilink")，\[12\]DxO实验室于2011年开始测试智能手机和其他移动设备，并在2012年推出了DxOMark Mobile。\[13\]在2017年9月进行了一次重大更新，增加了旨在强调当前型号[智能手机](../Page/智能手机.md "wikilink")功能的测试，如低光拍摄、远摄变焦、深度效果和散景。\[14\]
 
 DxOMark移动总体分数是每个被测设备报告的标题数字，包括：DxOMark手机照片和DxOMark手机视频。
 
@@ -47,7 +47,7 @@ DxOMark的测试是在各种照明条件下进行的，从低光照度5[勒克�
 
 ## 在行业中的应用
 
-新闻媒体经常使用DxOMark评分来描述相机和[移动设备](../Page/移动设备.md "wikilink")的图像质量特征。\[21\]\[22\]\[23\] 高DxOMark移动评分也被作为供应商的公告\[24\] 和市场营销材料\[25\]中质量的标志，但评测人员谨慎地指出，DxOMark评分只能反映图像质量。\[26\]\[27\]\[28\] DxOMark还为硬件制造商提供与图像质量相关的咨询服务。\[29\]\[30\]
+新闻媒体经常使用DxOMark评分来描述相机和[移动设备](../Page/移动设备.md "wikilink")的图像质量特征。\[21\]\[22\]\[23\]高DxOMark移动评分也被作为供应商的公告\[24\]和市场营销材料\[25\]中质量的标志，但评测人员谨慎地指出，DxOMark评分只能反映图像质量。\[26\]\[27\]\[28\]DxOMark还为硬件制造商提供与图像质量相关的咨询服务。\[29\]\[30\]
 
 ## 参考文献
 

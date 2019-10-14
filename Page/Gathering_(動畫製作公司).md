@@ -42,6 +42,8 @@
 
   - 偶像大師 灰姑娘女孩劇場 CLIMAX SEASON（2019年）
 
+  - 香蕉喵 不可思議的夥伴們（2019年）－[東京電視網](../Page/東京電視網.md "wikilink")「」內播出，共同製作：[TMS Entertainment](../Page/TMS娛樂.md "wikilink")
+
 ### OVA
 
   - （2010年）

@@ -15,65 +15,57 @@
 <tbody>
 <tr class="odd">
 <td><p>星期一</p></td>
-<td><p>18:55 - 21:25（印尼）<br />
-19:55 - 22:25（新加坡 马来西亚 文莱）</p></td>
+<td><p>19:55 - 22:25</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/捉迷藏_(韩国电视剧)" title="wikilink">捉迷藏</a></p></td>
 <td><p>4月1日起，四集连播</p></td>
 <td><p><br />
-<br />
 <br />
 </p></td>
 </tr>
 <tr class="even">
 <td><p>星期二至三</p></td>
-<td><p>18:55 - 20:05（印尼）<br />
-19:55 - 21:05（新加坡 马来西亚 文莱）</p></td>
+<td><p>19:55 - 21:05</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/检法男女2" title="wikilink">检法男女2</a></p></td>
 <td><p>与韩国24小时内播出</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>星期四至五</p></td>
-<td><p>18:55 - 20:05（印尼）<br />
-19:55 - 21:05（新加坡 马来西亚 文莱）</p></td>
+<td><p>19:55 - 21:05</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/异梦" title="wikilink">异梦</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>星期二至五</p></td>
-<td><p>20:05 - 22:05（印尼）<br />
-21:05 - 23:05（新加坡 马来西亚 文莱）</p></td>
+<td><p>21:05 - 23:05</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/好人_(电视剧)" title="wikilink">好人</a></p></td>
 <td><p>1月2日起，三集连播<br />
-雙語廣播(印尼除外)：<br />
+雙語廣播：<br />
 國/韓(新加坡)<br />
 粵/國/韓(馬來西亞)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>星期一至五</p></td>
-<td><p>22:05 - 23:20（印尼）<br />
-23:05 - 00:20（新加坡 马来西亚 文莱）</p></td>
+<td><p>23:05 - 00:20</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/我係張寶利" title="wikilink">張寶利來了</a></p></td>
 <td><p>12月13日起<br />
-雙語廣播(印尼除外)：<br />
+雙語廣播：<br />
 國/馬/韓(新加坡)<br />
 粵/國/馬/韓(馬來西亞)</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>星期六</p></td>
-<td><p>21:55 - 23:15（印尼）<br />
-22:55 - 00:15（新加坡 马来西亚 文莱）</p></td>
+<td><p>22:55 - 00:15</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/傻瓜的恋爱" title="wikilink">傻瓜的恋爱</a></p></td>
 <td><p>最新集數</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>星期日</p></td>
-<td><p>21:55 - 23:35（印尼）<br />
-22:55 - 00:35（新加坡 马来西亚文莱）</p></td>
+<td><p>22:55 - 00:35</p></td>
 <td><p><a href="../Page/我獨自生活.md" title="wikilink">我獨自生活</a></p></td>
 <td></td>
 <td></td>

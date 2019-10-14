@@ -27,7 +27,7 @@
 4.  **Don't you love me?**
     : 作詞：wonder note・paddy、作曲：takarot・wonder note、編曲：石塚知生
       -
-        [松本潤獨唱](https://zh.wikipedia.org/wiki/松本潤 "wikilink")
+        [松本潤](../Page/松本潤.md "wikilink")獨唱
 5.  **Miyabi-night**
     : 作詞：Makoto56、AKJ & ASIL、作曲：AKJ & ASIL、編曲：A.K.Janeway
 6.  **三日月**

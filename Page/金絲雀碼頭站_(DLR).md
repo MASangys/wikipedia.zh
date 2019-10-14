@@ -4,9 +4,9 @@
 
 ## 外部連結
 
-  - [Canary Wharf station](http://www.tfl.gov.uk/gettingaround/transportaccessibility/dlr/3267.aspx) on [Docklands Light Railway](https://zh.wikipedia.org/wiki/Docklands_Light_Railway "wikilink")'s website
+  - [Canary Wharf station](http://www.tfl.gov.uk/gettingaround/transportaccessibility/dlr/3267.aspx) on Docklands Light Railway's website
 
-[Category:碼頭區輕便鐵路車站](https://zh.wikipedia.org/wiki/Category:碼頭區輕便鐵路車站 "wikilink") [Category:金丝雀码头](https://zh.wikipedia.org/wiki/Category:金丝雀码头 "wikilink") [Category:塔村區鐵路車站](https://zh.wikipedia.org/wiki/Category:塔村區鐵路車站 "wikilink")
+[Category:碼頭區輕便鐵路車站](https://zh.wikipedia.org/wiki/Category:碼頭區輕便鐵路車站 "wikilink") [Category:金丝雀码头](https://zh.wikipedia.org/wiki/Category:金丝雀码头 "wikilink") [Category:塔村區鐵路車站](https://zh.wikipedia.org/wiki/Category:塔村區鐵路車站 "wikilink") [Category:1991年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1991年啟用的鐵路車站 "wikilink")
 
 1.  [Canary Wharf - Transport for London](http://www.tfl.gov.uk/gettingaround/transportaccessibility/dlr/3267.aspx) *TfL official site* Retrieved 3 September 2007
 2.  [DLR history timeline](http://www.tfl.gov.uk/corporate/modesoftransport/dlr/history/2982.aspx) *TfL official site* Retrieved 3 September 2007

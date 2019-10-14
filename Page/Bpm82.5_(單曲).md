@@ -26,7 +26,7 @@
 
   -
 
-[Category:2017年單曲](https://zh.wikipedia.org/wiki/Category:2017年單曲 "wikilink") [Category:日語歌曲](https://zh.wikipedia.org/wiki/Category:日語歌曲 "wikilink") [Category:BTOB](https://zh.wikipedia.org/wiki/Category:BTOB "wikilink")
+[Category:2017年單曲](https://zh.wikipedia.org/wiki/Category:2017年單曲 "wikilink") [Category:日語歌曲](https://zh.wikipedia.org/wiki/Category:日語歌曲 "wikilink") [Category:BTOB單曲](https://zh.wikipedia.org/wiki/Category:BTOB單曲 "wikilink")
 
 1.  [昌燮將在6月7日發行首張日文個人單曲](https://www.kpopn.com/2017/05/27/%E6%98%8C%E7%87%AE%E5%B0%87%E5%9C%A86%E6%9C%887%E6%97%A5%E7%99%BC%E8%A1%8C%E9%A6%96%E5%BC%B5%E6%97%A5%E6%96%87%E5%80%8B%E4%BA%BA%E5%96%AE%E6%9B%B2/) 2018-07-26 KPOPN
 2.  [LEE CHANG SUB 日本ソロデビューシングル『bpm82.5』発売決定！！](https://btobofficial.jp/contents/98067) BTOB JAPAN OFFICIAL

@@ -227,7 +227,7 @@
 <td><p>6月20日</p></td>
 <td><p><a href="../Page/Now_101台.md" title="wikilink">Now 101台</a></p></td>
 <td><p><a href="../Page/彩虹閃耀夏之戀.md" title="wikilink">虹色夏戀</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/松本潤" title="wikilink">松本潤</a><br />
+<td><p><a href="../Page/松本潤.md" title="wikilink">松本潤</a><br />
 <a href="../Page/竹內結子.md" title="wikilink">竹內結子</a></p></td>
 <td><p><a href="../Page/澤村一樹.md" title="wikilink">澤村一樹</a><br />
 <a href="https://zh.wikipedia.org/wiki/小林星蘭" title="wikilink">小林星蘭</a><br />

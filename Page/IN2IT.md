@@ -1,4 +1,4 @@
-**IN2IT**（）是以生存節目《[少年24](../Page/少年24.md "wikilink")》出道的[韓國七人男子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")，所屬經紀公司為和CJ E\&M MUSIC。IN2IT原本由九名在為期一年半的練習生團體計劃[BOYS24](../Page/BOYS24.md "wikilink")中勝出的成員組成，後因[陳成鎬](../Page/陳成鎬.md "wikilink")及[金珍燮退出](https://zh.wikipedia.org/wiki/金珍燮 "wikilink")，組合人數減至七人。
+**IN2IT**（）是以生存節目《[少年24](../Page/少年24.md "wikilink")》出道的[韓國七人男子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")，所屬經紀公司為和CJ E\&M MUSIC。IN2IT原本由九名在為期一年半的練習生團體計劃[BOYS24](../Page/BOYS24.md "wikilink")中勝出的成員組成，後因[陳成鎬](../Page/陳成鎬.md "wikilink")、金珍燮、[金成賢](../Page/金成賢.md "wikilink")先後退出，組合現為六人體制進行活動。
 
 IN2IT意思為「intuit」和「into it」，即是直覺、本能地知道並陷入其中。\[1\]
 
@@ -151,14 +151,35 @@ IN2IT意思為「intuit」和「into it」，即是直覺、本能地知道並�
 </tbody>
 </table>
 
+### 數位單曲
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>專輯</p></td>
+<td><p>專輯資料</p></td>
+<td><p>曲目</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>1st</strong></p></td>
+<td><p>首張數位單曲《<strong>RUN AWAY</strong>》</p>
+<ul>
+<li>發行日期：2019年8月7日</li>
+<li>語言：韓語</li>
+</ul></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ### OST
 
-|             |              |                                                 |           |
-| ----------- | ------------ | ----------------------------------------------- | --------- |
-| 發佈日期        | 歌曲           | 相關資料                                            | 參與成員      |
-| 2017年11月26日 | 隨心所欲         | [卞赫的愛情](../Page/卞赫的愛情.md "wikilink") OST PART.5 | 然太        |
-| 2019年4月25日  | Shining Star | [她的私生活](../Page/她的私生活.md "wikilink") OST PART.3 | 全體 (除了成賢) |
-|             |              |                                                 |           |
+|             |              |                                                 |      |
+| ----------- | ------------ | ----------------------------------------------- | ---- |
+| 發佈日期        | 歌曲           | 相關資料                                            | 參與成員 |
+| 2017年11月26日 | 隨心所欲         | [卞赫的愛情](../Page/卞赫的愛情.md "wikilink") OST PART.5 | 然太   |
+| 2019年4月25日  | Shining Star | [她的私生活](../Page/她的私生活.md "wikilink") OST PART.3 | 全體   |
+|             |              |                                                 |      |
 
 ## 音樂節目
 

@@ -43,7 +43,7 @@ CJ E\&M现有七个主要部门：
 
 :\*[B2M娛樂](../Page/B2M娛樂.md "wikilink")
 
-:\*[LM Entertainment](https://zh.wikipedia.org/wiki/LM_Entertainment "wikilink")
+:\*[LM Entertainment](../Page/LM_Entertainment.md "wikilink")
 
   - CJ E\&M活動部 - 負責策劃音樂節、文化節、音樂獎等各種活動\[4\]。
   - CJ E\&M表演艺术部 - 开发和制作戏剧作品。音乐剧业务。

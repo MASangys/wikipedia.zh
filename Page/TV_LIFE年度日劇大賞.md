@@ -735,7 +735,7 @@
 <tr class="even">
 <td><p>28</p></td>
 <td><p><a href="../Page/第28回TV_LIFE年度日劇大賞.md" title="wikilink">2018</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/松本潤" title="wikilink">松本潤</a><br />
+<td><p><a href="../Page/松本潤.md" title="wikilink">松本潤</a><br />
 <small>《<a href="https://zh.wikipedia.org/wiki/0.1無罪真相" title="wikilink">0.1無罪真相2</a>》</small></p></td>
 <td><p><a href="../Page/石原聰美.md" title="wikilink">石原聰美</a> (2)<br />
 <small>《<a href="../Page/UNNATURAL.md" title="wikilink">UNNATURAL</a>》</small></p></td>
@@ -748,7 +748,7 @@
 <td><p>《Find The Answer》- <a href="../Page/嵐.md" title="wikilink">嵐</a><br />
 （<a href="https://zh.wikipedia.org/wiki/0.1無罪真相" title="wikilink">0.1無罪真相2</a>）</p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/0.1無罪真相" title="wikilink">0.1無罪真相2</a>》<br />
-<small>（主演：<a href="https://zh.wikipedia.org/wiki/松本潤" title="wikilink">松本潤</a>）</small></p></td>
+<small>（主演：<a href="../Page/松本潤.md" title="wikilink">松本潤</a>）</small></p></td>
 <td></td>
 </tr>
 </tbody>

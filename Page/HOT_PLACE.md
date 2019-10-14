@@ -1,4 +1,4 @@
-**HOT PLACE**\[1\]（），為ZOO娛樂和LOUDers娛樂旗下女子組合，成員包括Jeje、Hanbit、Sihyun、Taeri。
+**HOT PLACE**\[1\]（），為LOUDers娛樂旗下女子組合，成員包括Jeje、Hanbit、Sihyun、Taeri。
 
 2019年改組前稱為**BADKIZ**（）。當時以单曲《Ear Attack》於2014年3月24日正式出道。 **BADKIZ**時期粉絲名稱為「**GOODKIDZ**」（）。
 

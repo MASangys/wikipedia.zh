@@ -16,7 +16,7 @@
   - 2018年10月6日，Vidol直播[第53金鐘頒獎典禮](https://zh.wikipedia.org/wiki/第53屆金鐘獎 "wikilink")。
   - 2018年7月起經營[YouTube](../Page/YouTube.md "wikilink")，12月28日破百萬訂閱人次。
   - 2018年12月31日，Vidol直播台中麗寶跨年、花蓮跨年晚會。
-  - 2019年1月，據[台灣YouTube頻道訂閱人數排行榜統計](https://zh.wikipedia.org/wiki/台灣YouTube頻道訂閱人數排行榜 "wikilink")、Vidol進入全台前20大YouTube頻道。
+  - 2019年1月，據[台灣YouTube頻道訂閱人數排行榜](../Page/台灣YouTube頻道訂閱人數排行榜.md "wikilink")統計、Vidol進入全台前20大YouTube頻道。
   - 2019年4月1日， Vidol 3歲生日慶舉辦[\[炮仔聲\]粉絲見面會](https://www.setn.com/News.aspx?NewsID=532331)
 
 ## Vidol自製節目列表

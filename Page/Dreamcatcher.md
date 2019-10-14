@@ -703,6 +703,20 @@ feat. <a href="https://zh.wikipedia.org/wiki/Jason_Derulo" title="wikilink">Jaso
 <td></td>
 <td></td>
 </tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>《<strong>Honesty</strong>》</p>
+<ul>
+<li>發行日期： 2019年9月23日</li>
+<li>語言：英語</li>
+</ul></td>
+<td><p>祉攸</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Pink_Sweat$" title="wikilink">Pink Sweat$</a></p></td>
+</tr>
 </tbody>
 </table>
 
@@ -756,6 +770,7 @@ Real MINX Ver.[32]</p></td>
 <td><p>舞蹈版本</p></td>
 <td><p>練習室版本</p></td>
 <td><p>應援版本</p></td>
+<td><p>动画版本</p></td>
 </tr>
 <tr class="even">
 <td><p>2017年</p></td>
@@ -765,6 +780,7 @@ Real MINX Ver.[32]</p></td>
 <td><p>Dance Video[34]</p></td>
 <td><p>Dance Practice[35]</p></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>4月5日</p></td>
@@ -772,6 +788,7 @@ Real MINX Ver.[32]</p></td>
 <td><p>Good Night[36]</p></td>
 <td><p>Dance Video[37]</p></td>
 <td><p>Dance Practice[38]</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -783,6 +800,7 @@ Real MINX Ver.[32]</p></td>
 <td></td>
 <td><p>應援版本[41]</p></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2018年</p></td>
@@ -791,6 +809,7 @@ Real MINX Ver.[32]</p></td>
 <td><p>Full Moon Promotion Video[42]</p></td>
 <td><p>Dance Video[43]</p></td>
 <td><p>Dance Practice[44]</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -801,6 +820,7 @@ Real MINX Ver.[32]</p></td>
 <td><p>Dance Practice[46]</p></td>
 <td><p>應援版本[47]</p></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>9月20日</p></td>
@@ -810,11 +830,13 @@ Real MINX Ver.[32]</p></td>
 <td><p>Dance Practice[49]</p></td>
 <td><p>應援版本[50]</p></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>11月14日</p></td>
 <td><p>《What-Japanese ver.-》</p></td>
 <td><p>What-Japanese ver.-[51]</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -828,11 +850,13 @@ Real MINX Ver.[32]</p></td>
 <td><p>Dance Video[53]</p></td>
 <td><p>Dance Practice[54]</p></td>
 <td><p>應援版本[55]</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>3月11日</p></td>
 <td><p>《PIRI～笛を吹け～-Japanese ver.-》</p></td>
 <td><p>PIRI～笛を吹け～-Japanese ver.-[56]</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -846,14 +870,26 @@ Real MINX Ver.[32]</p></td>
 <td><p>Dance Practice[58]</p></td>
 <td><p>應援版本[59]</p></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>9月18日</p></td>
 <td><p>《Raid of Dream》</p></td>
 <td><p>Deja Vu[60]</p></td>
+<td><p>Dance Video[61]</p></td>
+<td><p>Dance practice[62]</p></td>
+<td><p>應援版本[63]</p></td>
+<td><p>动画版本[64]</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>9月18日</p></td>
+<td><p>《Raid of Dream (Japanese Ver.)》</p></td>
 <td></td>
 <td></td>
-<td><p>應援版本[61]</p></td>
+<td></td>
+<td></td>
+<td><p>动画版本[65]</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -868,20 +904,21 @@ Real MINX Ver.[32]</p></td>
 | 2月17日、5月1日  | tbsTV                                                       | Fact in star                                                      |                                                                   |                   |                                           |
 | 4月18日       | [Arirang TV](../Page/阿里郎电视台.md "wikilink")                  | [After School Club](../Page/After_School_Club.md "wikilink")      |                                                                   |                   |                                           |
 | 5月27日       | [KBS](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")     | [演藝家中介](../Page/演藝家中介.md "wikilink")                              | 祉攸                                                                |                   |                                           |
-| 2018年       | 2月15日、16日                                                   | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")               | [MBC偶像明星運動會](https://zh.wikipedia.org/wiki/MBC偶像明星運動會 "wikilink") | 全員                | 女子400米接力\[62\]金牌（多美、裕賢、始娟、秀雅 / 成績1分13秒04） |
+| 2018年       | 2月15日、16日                                                   | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")               | [MBC偶像明星運動會](https://zh.wikipedia.org/wiki/MBC偶像明星運動會 "wikilink") | 全員                | 女子400米接力\[66\]金牌（多美、裕賢、始娟、秀雅 / 成績1分13秒04） |
 | 5月23日       | MBC every1                                                  | [Weekly Idol](../Page/Weekly_Idol.md "wikilink")                  |                                                                   |                   |                                           |
 | 6月1日        | tbsTV                                                       | Fact in star                                                      |                                                                   |                   |                                           |
 | 8月27日       | [Viu](../Page/Viu.md "wikilink")                            | Viu Beauty                                                        | 【韓流情報】今期流行「害羞紅色」胭脂                                                |                   |                                           |
 | 9月25日       | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")         | [MBC偶像明星運動會](https://zh.wikipedia.org/wiki/MBC偶像明星運動會 "wikilink") | 女子田徑60米銀牌 (裕賢 / 成績9秒68)                                           |                   |                                           |
-| 11月3日       | [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")    | [不朽的名曲：傳說在歌唱](../Page/不朽的名曲：傳說在歌唱.md "wikilink")                  | 致DJ (尹詩奈)\[63\]                                                   |                   |                                           |
+| 11月3日       | [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")    | [不朽的名曲：傳說在歌唱](../Page/不朽的名曲：傳說在歌唱.md "wikilink")                  | 致DJ (尹詩奈)\[67\]                                                   |                   |                                           |
 | 11月23-12月8日 | CJ E\&M OGN                                                 | [Gamedolympic](../Page/Gamedolympic.md "wikilink")                |                                                                   |                   |                                           |
 | 2019年       | 2月19日                                                       | tbsTV                                                             | Fact in star                                                      |                   |                                           |
 | 3月2日        | [Viu](../Page/Viu.md "wikilink")                            | Viu Beauty                                                        | 只能選1款化妝包必備品！ (by 女團Dreamcatcher)                                  |                   |                                           |
-| 4月6日        | [KBS2](../Page/KBS第2频道.md "wikilink")                       | [不朽的名曲：傳說在歌唱](../Page/不朽的名曲：傳說在歌唱.md "wikilink")                  | 猶如印地安玩偶 (羅美)\[64\]                                                |                   |                                           |
+| 4月6日        | [KBS2](../Page/KBS第2频道.md "wikilink")                       | [不朽的名曲：傳說在歌唱](../Page/不朽的名曲：傳說在歌唱.md "wikilink")                  | 猶如印地安玩偶 (羅美)\[68\]                                                |                   |                                           |
 | 6月23日       | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") | [神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")                    | 始娟                                                                | 出場名稱：咖啡&甜甜圈 甜甜\~圈 |                                           |
 | 7月28日       | [KBS1](https://zh.wikipedia.org/wiki/KBS1 "wikilink")       | 開放音樂會                                                             | 全員                                                                |                   |                                           |
 | 9月12日、13日   | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")         | [MBC偶像明星運動會](https://zh.wikipedia.org/wiki/MBC偶像明星運動會 "wikilink") | 女子400米接力銅牌 (秀雅、韓東、裕賢、多美 / 成績1分15秒90)                              |                   |                                           |
 | 9月13日-9月15日 | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")         | [V-1 (韓國節目)](../Page/V-1_\(韓國節目\).md "wikilink")                  | 始娟                                                                |                   |                                           |
+| 10月1日       | [JTBC](../Page/JTBC.md "wikilink")                          | [Idol Room](../Page/Idol_Room.md "wikilink")                      | 全員                                                                |                   |                                           |
 
 ## 廣播節目
 
@@ -1080,6 +1117,14 @@ Real MINX Ver.[32]</p></td>
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>9月23日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -1166,6 +1211,7 @@ Real MINX Ver.[32]</p></td>
 | 2019年3月1日   | 2019 ONE K CONCERT                  | 汝矣島國會議事堂草坪廣場             |
 | 2019年7月30日  | 2019 Koya Summer Festival           | Yangji Pine Ski Resort   |
 | 2019年8月15日  | 2019 K-WORLD FEST                   | 首爾奧林匹克公園                 |
+| 2019年10月5日  | 2019 K-Community Festival in Europe | Forest national Brussels |
 
 ## 獎項
 
@@ -1318,6 +1364,10 @@ __强显目录__
 59.
 60.
 61.
-62. 規定各隊第一棒不得搶跑道或有任何侵犯其他跑道之行為，但第二棒以後可以搶跑道。正式400米接力規則為：全程所有選手均不得搶跑道或有任何侵犯其他跑道之行為。
+62.
 63.
 64.
+65.
+66. 規定各隊第一棒不得搶跑道或有任何侵犯其他跑道之行為，但第二棒以後可以搶跑道。正式400米接力規則為：全程所有選手均不得搶跑道或有任何侵犯其他跑道之行為。
+67.
+68.

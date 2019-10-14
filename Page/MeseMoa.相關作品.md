@@ -469,6 +469,27 @@ ISBN 978-4-391-15270-8</p></td>
 ISBN 978-4-391-15319-4</p></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>2019年11月29日</p></td>
+<td><p>「Forgeru」<br />
+Forgeruファースト寫真集</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>「気まぐれﾌﾟﾘﾝｽ」<br />
+浮躁王子ファースト寫真</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>「兄」<br />
+Niichanファースト寫真</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

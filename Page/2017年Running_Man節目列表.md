@@ -90,7 +90,7 @@
 <td><p><span style=font-size:110%><strong>連結紐帶MT</strong></span><br />
 <strong>個人戰</strong><br />
 沒有隊伍</p></td>
-<td><p>繩子不被抽中</p></td>
+<td><p>不被宋智孝選中</p></td>
 <td><p>池錫辰、金鍾國、李光洙<strong>勝出</strong><br />
 劉在錫、Haha須接受冰水沐浴懲罰</p></td>
 </tr>

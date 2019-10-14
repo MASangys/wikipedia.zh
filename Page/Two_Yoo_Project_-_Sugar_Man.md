@@ -905,7 +905,7 @@ Tenzo</p></td>
 <td></td>
 <td><p>如果再次愛你<br />
 <small>（）</small></p></td>
-<td><p><small>Chen、ChanYeol（<a href="../Page/EXO.md" title="wikilink">EXO</a>）</small></p></td>
+<td><p><a href="../Page/CHEN_(EXO).md" title="wikilink">Chen</a>、ChanYeol（<a href="../Page/EXO.md" title="wikilink">EXO</a>）</p></td>
 <td><p>黑眼必勝</p></td>
 <td><p>在錫隊</p></td>
 <td><p><strong>頂尖偶像對決</strong></p></td>
@@ -947,7 +947,7 @@ Tenzo</p></td>
 <td><p>熙烈隊</p></td>
 <td><p>、（）</p></td>
 <td><p>Sweety<small>（）</small></p></td>
-<td><p><a href="../Page/尹普美.md" title="wikilink">尹普美</a>（<a href="../Page/Apink.md" title="wikilink">Apink</a>）、</p></td>
+<td><p><a href="../Page/尹普美.md" title="wikilink">尹普美</a>（<a href="../Page/Apink.md" title="wikilink">Apink</a>）、<a href="../Page/DinDin.md" title="wikilink">DinDin</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1137,7 +1137,7 @@ Linzy（<a href="../Page/FIESTAR.md" title="wikilink">FIESTAR</a>）</p></td>
 <p><strong>Sugar Man，在那之後</strong><br />
 <a href="../Page/車太鉉.md" title="wikilink">車太鉉</a>、<a href="https://zh.wikipedia.org/wiki/洪京民" title="wikilink">洪京民</a>、（、<a href="https://zh.wikipedia.org/wiki/姜斗" title="wikilink">姜斗</a>）、金賢廷（）、<a href="../Page/Diva_(音樂團體).md" title="wikilink">Diva</a>（<a href="../Page/金佳英.md" title="wikilink">Vicky</a>、、）、（）、、<br />
 <a href="../Page/SISTAR.md" title="wikilink">SISTAR</a>、<a href="https://zh.wikipedia.org/wiki/MONSTA_X" title="wikilink">MONSTA X</a>、、吳真成（）、<a href="../Page/金多炫.md" title="wikilink">金多炫</a>（）、、、、高載根（）、（朴俊植、<a href="../Page/智鉉寓.md" title="wikilink">智鉉寓</a>）、<br />
-（）、<a href="https://zh.wikipedia.org/wiki/李承鉉" title="wikilink">李承鉉</a>（<a href="../Page/TAKE_(音樂團體).md" title="wikilink">TAKE</a>）、<a href="../Page/戚薇.md" title="wikilink">戚薇</a>出演；、影像出演</p></td>
+（）、<a href="https://zh.wikipedia.org/wiki/李承鉉" title="wikilink">李承鉉</a>（<a href="../Page/TAKE_(音樂團體).md" title="wikilink">TAKE</a>）、<a href="../Page/戚薇.md" title="wikilink">戚薇</a>出演；、<a href="../Page/卓在勳.md" title="wikilink">卓在勳</a>影像出演</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1500,7 +1500,7 @@ Linzy（<a href="../Page/FIESTAR.md" title="wikilink">FIESTAR</a>）</p></td>
 <td><p>在錫隊</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/EZ-LIFE" title="wikilink">EZ-LIFE</a></p></td>
 <td><p>不是你而是你姐姐<small>（）</small></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/K.Will" title="wikilink">K.Will</a> &amp; </p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/K.Will" title="wikilink">K.Will</a> &amp; <a href="../Page/DinDin.md" title="wikilink">DinDin</a></p></td>
 <td><p>熙烈隊</p></td>
 <td><p><small><a href="../Page/鄭俊英.md" title="wikilink">鄭俊英</a>、<a href="../Page/金守美.md" title="wikilink">金守美</a>影像出演</small></p></td>
 </tr>

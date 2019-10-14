@@ -1030,7 +1030,7 @@
 <td><p>2</p></td>
 <td><p>香港</p></td>
 <td><p><a href="../Page/瑪嘉烈與大衛系列_前度.md" title="wikilink">瑪嘉烈與大衛系列 前度 (特別篇)</a></p></td>
-<td><p>、<a href="../Page/黃定謙.md" title="wikilink">黃定謙</a>、<a href="../Page/吳海昕.md" title="wikilink">吳海昕</a>、、<a href="https://zh.wikipedia.org/wiki/黃可盈" title="wikilink">黃可盈</a>、<a href="../Page/蘇皓兒.md" title="wikilink">蘇皓兒</a></p></td>
+<td><p>、<a href="../Page/黃定謙.md" title="wikilink">黃定謙</a>、<a href="../Page/吳海昕.md" title="wikilink">吳海昕</a>、、<a href="../Page/黃可盈.md" title="wikilink">黃可盈</a>、<a href="../Page/蘇皓兒.md" title="wikilink">蘇皓兒</a></p></td>
 <td></td>
 <td></td>
 </tr>

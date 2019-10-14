@@ -473,6 +473,24 @@ HAPPY!動画、MBS動画イズム</p></td>
 
 BD發售第一週，以7115張在[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")排行當季動畫第二名\[11\]。
 
+### 周邊
+
+漫畫
+
+  - 新世紀中學生日記
+    角川書店『[月刊Comic Alive](../Page/月刊Comic_Alive.md "wikilink")』預定連載。作畫：ありこ，以新世紀中學生為主角的日常系作品。
+  - 姫とサムライ
+    角川書店『月刊Comic Alive』預定連載。作畫：戸流ケイ
+  - コミカライズSSSS.GRIDMAN
+    集英社『[少年JUMP PLUS](https://zh.wikipedia.org/wiki/少年JUMP_PLUS "wikilink")』預定連載。改編自電視動畫版，作畫：今野ユウキ。
+  - 戦国グリッドマン
+    秋田書店『[月刊少年Champion](https://zh.wikipedia.org/wiki/月刊少年Champion "wikilink")』預定連載。作畫：田村ゆうき。
+
+小說
+
+  - 『SSSS.GRIDMAN NOVELIZATIONS』
+    小學館GAGAGA文庫，作者水澤夢，插圖bun150
+
 ## 參考文獻
 
 ## 外部連結

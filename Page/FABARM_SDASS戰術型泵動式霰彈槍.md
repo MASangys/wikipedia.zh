@@ -28,7 +28,7 @@ SDASS與其他許多[泵動式](../Page/泵動式.md "wikilink")與[半自動霰
 
 ### SDASS訓練者型
 
-SDASS訓練者型是SDASS複合材料型的輕量版本。它是唯一一種不止一種表面顏色的槍型，它們的槍身為[黑色](../Page/黑色.md "wikilink")、[镍](../Page/镍.md "wikilink")色和[碳](../Page/碳.md "wikilink")色。為了使該槍更輕使，上鑽有散熱孔，以減輕其重量，並且以輕質合金部件代替重質合金部件。
+SDASS訓練者型是SDASS複合材料型的輕量版本。它是唯一一種不止一種表面顏色的槍型，它們的槍身為[黑色](../Page/黑色.md "wikilink")、[镍](../Page/镍.md "wikilink")色和[碳](../Page/碳.md "wikilink")色。為了使該槍更輕使，[槍管隔熱罩上鑽有散熱孔](../Page/槍管罩筒.md "wikilink")，以減輕其重量，並且以輕質合金部件代替重質合金部件。
 
 ### SDASS緊湊型
 

@@ -37,7 +37,7 @@
 | 2017年6月5日   | [終極三國(2017年)](https://zh.wikipedia.org/wiki/終極三國_\(2017年網絡劇\) "wikilink") | [優酷](https://zh.wikipedia.org/wiki/優酷 "wikilink")、[愛奇藝](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink")、[八大綜合台](../Page/八大綜合台.md "wikilink")                        | 趙雲         | 男主角之一                               |
 | 2018年1月22日  | [終極一班5](../Page/終極一班5.md "wikilink")                                      | [愛奇藝](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink")、[優酷](https://zh.wikipedia.org/wiki/優酷 "wikilink")                                                             | 藍斯洛        | 第二男主角                               |
 | 2018年11月26日 | [小哥哥有妖氣](https://zh.wikipedia.org/wiki/小哥哥有妖氣 "wikilink")                 | [yoo視頻](https://zh.wikipedia.org/wiki/yoo視頻 "wikilink")、[騰訊視頻](https://zh.wikipedia.org/wiki/騰訊視頻 "wikilink")、[愛奇藝](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink") | 白條錦蛇       | 單元男主角                               |
-|             |                                                                           |                                                                                                                                                                   |            |                                     |
+| 2019年9月26日  | [外貌至上主義](../Page/外貌至上主義.md "wikilink")                                    | [騰訊視頻](https://zh.wikipedia.org/wiki/騰訊視頻 "wikilink")                                                                                                             | 陳虎彬        |                                     |
 
 ### 主持
 

@@ -21,11 +21,11 @@
 　</p></td>
 </tr>
 <tr class="even">
-<td><p>Ji-Yun<br />
+<td><p>Seo-Yeon<br />
 </p></td>
 </tr>
 <tr class="odd">
-<td><p>Seo-Yeon<br />
+<td><p>Ji-Yun<br />
 </p></td>
 </tr>
 <tr class="even">

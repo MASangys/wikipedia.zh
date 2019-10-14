@@ -310,6 +310,34 @@ Gogoro S1（原Gogoro S）問世時即搭載G1-S馬達，與G1馬達相比擁有
 
 值得注意的是，Gogoro S2搭載的馬達並無如同Gogoro S1採用專屬的馬達銘牌。
 
+
+
+#### Gogoro VIVA：小騎大作
+
+Gogoro VIVA於2019年9月26日發表。有五色可選，海鹽白、萊姆灰、石榴紅、芥末黃、薄荷藍。
+
+規格如下：
+
+  - 3kW 輪鼓電機馬達，綠牌規格
+  - 單電池更換，續航力 85 公里
+  - 21.6 公升車箱兩頂安全帽車箱
+  - 有方格旗模式，限制 30 秒
+  - 車重 80kg，座高 740mm
+  - 前後雙碟 + SBS 連動煞車
+  - 最高時速約 55km/h
+  - NFC 卡片感應啟動，無傳統鑰匙版本
+  - PP 環保材質車殼
+
+##### 整合式鋁合金輪轂馬達
+
+Gogoro VIVA 的驅動方式為電力馬達，使用的馬達種類是 GH1 整合式鋁合金輪轂馬達，最大功率 3kW / 4.02hp @ 500rpm，Gogoro 特別強調為整合式設計，將馬達與控制器做在一起，降低保養維護頻率，也因此 Gogoro VIVA 不需要調整鍊條、不用換齒輪油，也不用調皮帶張緊度，續航力在使用 21700 電池時更可達 85 公里遠。
+
+##### 保養
+
+Gogoro VIVA 使用『快保』服務，每 5000 公里或者每六個月才需要保養一次，而每次保養金額僅需 NT$ 386 元。
+
+除此之外 Gogoro VIVA 加贈兩年的保固與兩年的免費快保，兩年『快保』是依照里程先到 20000km 或者滿兩年即停止，但保固不限里程。
+
 ### Gogoro能源網路
 
 Gogoro能源網路（Gogoro Energy Network）由英屬開曼群島商睿能新動力股份有限公司營運，是一套由Gogoro App、Gogoro 智慧電池、GoStation電池交換站、GoCharger 智慧電池快充座、GoCharger Mobile隨車電池充電器所組成的能源網路\[68\]，管理旗下所有設備運作狀況，Gogoro更聲稱其應用AI，搭配[機器學習](../Page/机器学习.md "wikilink")、大數據規劃、雲端管理於電池的資料分析及GoStation的充放電管理，能夠更有高效的預測使用者行為、精確調配電池、以及依照電網負載情形主動調整充電模式，在用電尖峰時段降低充電速度，僅在需要時充電；而在離峰時段，回復正常速度充電，能夠在不顯著增加電網負擔下，滿足使用者需求，被Gogoro稱為使用AI人工智慧顛覆能源革命的SMARTGEN（智慧電網）。\[69\]
@@ -583,12 +611,6 @@ Gogoro App能夠將更新檔上傳至行車電腦（Electric Control Unit，ECU�
 | 定期回廠保養服務    | 另計        |
 | 性能提升方案      | 另加新台幣249元 |
 
-實際計算使用成本後，與普通的燃油機車相去不遠，呼應著Gogoro改變人們使用能源方式的願景。為了避免車主在進行保養之前從「自在方案」轉為「暢遊方案」來規避自費保養費用，Gogoro規定車主必須在轉換後維持「暢遊方案」至少半年才能省去定期保養費用。
-
-
-
-##### 2019年10月01日起新增資費
-
 
 
 | 資費方案        | 自由省方案                  |
@@ -661,8 +683,8 @@ Gogoro App能夠將更新檔上傳至行車電腦（Electric Control Unit，ECU�
   - 2016年：1萬3,038輛
   - 2017年：3萬4,347輛
   - 2018年：7萬2,066輛
-  - 2019年：5萬5,406輛（累計至6月）
-  - 目前登記數量：17萬8,613輛（累計至2019年06月）
+  - 2019年：7萬8,078輛（累計至8月）
+  - 目前登記數量：20萬1,253輛（累計至2019年8月）
 
 ## 爭議
 
@@ -681,7 +703,9 @@ Gogoro App能夠將更新檔上傳至行車電腦（Electric Control Unit，ECU�
 
   - [Gogoro網路商店](http://store.gogoro.com)
 
-[Category:Gogoro](https://zh.wikipedia.org/wiki/Category:Gogoro "wikilink") [Category:臺灣機車公司](https://zh.wikipedia.org/wiki/Category:臺灣機車公司 "wikilink") [Category:台灣品牌](https://zh.wikipedia.org/wiki/Category:台灣品牌 "wikilink") [Category:總部位於桃園市的工商業機構](https://zh.wikipedia.org/wiki/Category:總部位於桃園市的工商業機構 "wikilink") [Category:2011年成立的公司](https://zh.wikipedia.org/wiki/Category:2011年成立的公司 "wikilink") [Category:2011年台灣建立](https://zh.wikipedia.org/wiki/Category:2011年台灣建立 "wikilink") [Category:龜山區](https://zh.wikipedia.org/wiki/Category:龜山區 "wikilink") [Category:臺灣能源公司](https://zh.wikipedia.org/wiki/Category:臺灣能源公司 "wikilink") [Category:潤泰企業集團](https://zh.wikipedia.org/wiki/Category:潤泰企業集團 "wikilink")
+[分類:台灣綠能公司](https://zh.wikipedia.org/wiki/分類:台灣綠能公司 "wikilink")
+
+[Category:Gogoro](https://zh.wikipedia.org/wiki/Category:Gogoro "wikilink") [Category:臺灣機車公司](https://zh.wikipedia.org/wiki/Category:臺灣機車公司 "wikilink") [Category:台灣品牌](https://zh.wikipedia.org/wiki/Category:台灣品牌 "wikilink") [Category:總部位於桃園市的工商業機構](https://zh.wikipedia.org/wiki/Category:總部位於桃園市的工商業機構 "wikilink") [Category:2011年成立的公司](https://zh.wikipedia.org/wiki/Category:2011年成立的公司 "wikilink") [Category:2011年台灣建立](https://zh.wikipedia.org/wiki/Category:2011年台灣建立 "wikilink") [Category:龜山區](https://zh.wikipedia.org/wiki/Category:龜山區 "wikilink") [Category:潤泰企業集團](https://zh.wikipedia.org/wiki/Category:潤泰企業集團 "wikilink")
 
 1.
 

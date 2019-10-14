@@ -132,6 +132,47 @@ iOS 10.3.1 包含錯誤修正，並改進了 iPhone 或 iPad 的安全性。
 
 iOS 10.3.4於2019年7月22日發布，主要修正安全漏洞和GPS的問題，此問題可能會影響GPS定位效能及導致系統時間錯誤\[3\]。此更新僅提供給iPhone 5及GSM版第四代iPad\[4\]。
 
+## 支持机型
+
+### iPhone
+
+  - [iPhone 5](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink") （此iOS版本为最后一个支持此设备的版本）
+
+<!-- end list -->
+
+  - [iPhone 5C](https://zh.wikipedia.org/wiki/iPhone_5C "wikilink") （此iOS版本为最后一个支持此设备的版本）
+
+<!-- end list -->
+
+  - [iPhone 5S](https://zh.wikipedia.org/wiki/iPhone_5S "wikilink")
+  - [iPhone 6](https://zh.wikipedia.org/wiki/iPhone_6 "wikilink")
+  - [iPhone 6 Plus](https://zh.wikipedia.org/wiki/iPhone_6 "wikilink")
+  - [iPhone 6S](https://zh.wikipedia.org/wiki/iPhone_6S "wikilink")
+  - [iPhone 6S Plus](https://zh.wikipedia.org/wiki/iPhone_6S "wikilink")
+  - [iPhone SE](https://zh.wikipedia.org/wiki/iPhone_SE "wikilink")
+  - [iPhone 7](https://zh.wikipedia.org/wiki/iPhone_7 "wikilink")
+  - [iPhone 7 Plus](https://zh.wikipedia.org/wiki/iPhone_7 "wikilink")
+
+### iPod Touch
+
+  - [iPod Touch (6th generation)](https://zh.wikipedia.org/wiki/iPod_Touch_\(6th_generation\) "wikilink")
+
+### iPad
+
+  - [iPad (4th generation)](https://zh.wikipedia.org/wiki/iPad_\(4th_generation\) "wikilink") （此iOS版本为最后一个支持此设备的版本）
+
+<!-- end list -->
+
+  - [iPad Air](https://zh.wikipedia.org/wiki/iPad_Air "wikilink")
+  - [iPad Air 2](https://zh.wikipedia.org/wiki/iPad_Air_2 "wikilink")
+  - [iPad (2017)](https://zh.wikipedia.org/wiki/iPad_\(2017\) "wikilink")\[5\]
+  - [iPad Mini 2](https://zh.wikipedia.org/wiki/iPad_Mini_2 "wikilink")
+  - [iPad Mini 3](https://zh.wikipedia.org/wiki/iPad_Mini_3 "wikilink")
+  - [iPad Mini 4](https://zh.wikipedia.org/wiki/iPad_Mini_4 "wikilink")
+  - [iPad Pro (12.9-inch)](https://zh.wikipedia.org/wiki/iPad_Pro "wikilink")
+  - [iPad Pro (9.7-inch)](https://zh.wikipedia.org/wiki/iPad_Pro "wikilink")
+  - [iPad Pro (10.5-inch)](https://zh.wikipedia.org/wiki/iPad_Pro "wikilink")
+
 ## 參考資料
 
 ## 參見
@@ -148,3 +189,4 @@ iOS 10.3.4於2019年7月22日發布，主要修正安全漏洞和GPS的問題，
 2.
 3.
 4.
+5.

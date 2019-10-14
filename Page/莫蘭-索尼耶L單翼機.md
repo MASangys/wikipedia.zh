@@ -1,4 +1,4 @@
-[Morane-Saulnier-L-airscrew-with-deflector.jpg](https://zh.wikipedia.org/wiki/File:Morane-Saulnier-L-airscrew-with-deflector.jpg "fig:Morane-Saulnier-L-airscrew-with-deflector.jpg") **莫蘭-索尼耶L單翼機**是法國莫蘭-索尼耶飛機公司在1913年研製的單翼多用途飛機，該型機在當年12月的就在巴黎的航空展覽上公開，在[第一次世界大戰爆發後就成為法國空軍的偵察機](https://zh.wikipedia.org/wiki/第一次世界大戰 "wikilink")，也是第一種在螺旋槳上加上鋼鐵製子彈偏導片而實現機槍安裝在機頭並開火，估計這樣有大約1/4的子彈會被它擋住不傷到螺旋槳，其餘3/4可穿過螺旋槳射擊目標，此種做法是在[同步射擊系統出現前唯一的可行辦法](https://zh.wikipedia.org/wiki/射击断续器 "wikilink")。
+[Morane-Saulnier-L-airscrew-with-deflector.jpg](https://zh.wikipedia.org/wiki/File:Morane-Saulnier-L-airscrew-with-deflector.jpg "fig:Morane-Saulnier-L-airscrew-with-deflector.jpg") **莫蘭-索尼耶L單翼機**（Morane-Saulnier L）是法國莫蘭-索尼耶飛機公司在1913年研製的單翼多用途飛機，該型機在當年12月的就在巴黎的航空展覽上公開，在[第一次世界大戰爆發後就成為法國空軍的偵察機](https://zh.wikipedia.org/wiki/第一次世界大戰 "wikilink")，也是第一種在螺旋槳上加上鋼鐵製子彈偏導片而實現機槍安裝在機頭並開火，估計這樣有大約1/4的子彈會被它擋住不傷到螺旋槳，其餘3/4可穿過螺旋槳射擊目標，此種做法是在[同步射擊系統出現前唯一的可行辦法](https://zh.wikipedia.org/wiki/射击断续器 "wikilink")。
 
 莫蘭-索尼耶L單翼機也因此被稱為「歷史上第一種戰鬥機」。
 

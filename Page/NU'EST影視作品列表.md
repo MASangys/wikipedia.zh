@@ -65,6 +65,35 @@
 | 11月6日                        | NU'EST 2012 [修能](../Page/大學修學能力試驗.md "wikilink") 加油訊息                                                                 | 全體成員                                              |
 | 12月31日                       | 2013 NU'EST 新年問候                                                                                                      |                                                   |
 
+### 2013年
+
+|              |                                                               |                     |
+| ------------ | ------------------------------------------------------------- | ------------------- |
+| **播放日期**     | **節目名稱**                                                      | **參與成員**            |
+| 2013年        |                                                               |                     |
+| 2月4日         | 20130213 NU'EST Mini Concert 宣傳影片                             | 全體成員                |
+| 2月18日        | NU'EST 'Hello' 專輯封面拍攝花絮影片                                     |                     |
+| 3月5日-3月6日    | NU'EST Hello編舞版 白虎 & 旼炫 Ver. / NU'EST Hello編舞版 Aron & JR Ver. | 白虎、旼炫 / JR、Aron、Ren |
+| 3月9日 / 3月14日 | NU'EST Hello PCC版（成員 ver.） / NU'EST Hello PCC版（番外篇 ver.）      | 全體成員                |
+| 3月14日        | NU'EST 出道一周年紀念日 Message！                                      |                     |
+| 3月27日        | NU'EST REN on runway of Designer PARKYOUNSOO Collection       | Ren                 |
+| 7月20日        | NU'EST來自台灣的影像信（Message from Taiwan）！！                         | JR、白虎、旼炫、Ren        |
+| 8月17日        | NU'EST - 搞笑模仿廣告 \#1 'Olleh - 如何加入 L.O.ㅅ.E'                    | 全體成員                |
+| 8月21日        | NU'EST - 搞笑模仿廣告 \#2 'McDonald's - NU'EST 想要回歸'                |                     |
+| 8月27日        | NU'EST The 3rd Mini Album Title 'Sleep Talking' M/V 拍攝花絮影片    |                     |
+| 9月1日         | NU'EST Sleep Talking 舞蹈版                                      |                     |
+| 9月4日         | 2013.08.22 NU'EST 回歸後臺 幕後故事                                   |                     |
+| 9月16日        | NU'EST 在土耳其的幕後故事                                              |                     |
+| 11月11日       | NU'EST-M 訪問影片                                                 | NU'EST-M            |
+
+### 2014年
+
+|          |                             |          |
+| -------- | --------------------------- | -------- |
+| **播放日期** | **節目名稱**                    | **參與成員** |
+| 2014年    |                             |          |
+| 1月23日    | Special Message From NU'EST | 全體成員     |
+
 ### 2019年
 
 |                     |                                                                            |                 |
@@ -189,59 +218,62 @@
 
 ### 2019年
 
-|                             |                                      |           |
-| --------------------------- | ------------------------------------ | --------- |
-| **日期**                      | **單元名稱**                             | **參與成員**  |
-| 2019年                       |                                      |           |
-| 1月15日                       | \[NU'EST W\] 咿呀啊啊～～ 驚喜登場🤗            | NU'EST W  |
-| 1月23日                       | \[NU'EST\] 今天，我們☺️                   | 白虎        |
-| 1月26日                       | \[NU'EST\] 是Aron唷👻👻                  | Aron      |
-| 1月31日                       | \[NU'EST\] 旼炫來了！❤                    | 旼炫        |
-| 2月14日                       | NU'EST Happy Valentine's Day         | 全體成員      |
-| 2月22日                       | \[Special V ONLY\] NU'EST的禮物 春天大慶典   |           |
-| 3月5日                        | \[NU'EST\] 非常特別的星期二😎                 |           |
-| 3月8日                        | \[NU'EST\] 要聽聽聲音嗎？                   | JR、白虎、Ren |
-| 3月10日                       | \[NU'EST\] 6點 點心😋                    | 全體成員      |
-| 3月12日                       | \[NU'EST\] Renny Hyunny 幸運的～Voice～🍀  | 旼炫、Ren    |
-| 3月28日                       | \[NU'EST\] 🚨🚨白劇透注意🚨🚨                 | 白虎、旼炫、Ren |
-| 3月31日                       | \[NU'EST\] 吃飯了嗎？                     | JR        |
-| 4月12日                       | \[NU'EST\] 花開的 我們的春天🌸                | 全體成員      |
-| 4月14日                       | \[NU'EST\] 永遠都是 我們的季節🌸               |           |
-| 4月29日                       | \[V ONLY\] NU'EST 'BET BET' M/V拍攝花絮  |           |
-| 5月3日                        | \[NU'EST\] 我們的選擇是LOVE呀🥰              |           |
-| 5月4日                        | \[NU'EST\] 現場直播😎                     |           |
-| 5月8日                        | \[NU'EST\] NU'EST 初一位🥳               |           |
-| 5月9日                        | \[NU'EST\] LOVE們 一位 恭喜🎉💕             |           |
-| 5月10日                       | \[NU'EST\] 像夢一樣的星期五😊😊                |           |
-| 5月14日                       | \[NU'EST\] NU'EST 與SPOONZ一起的特別Vlive  |           |
-| 5月16日                       | \[NU'EST\] 🚨🚨NU'EST CONCEPT ZONE劇透🚨🚨 |           |
-| 5月21日                       | \[NU'EST\] Happy Aron's Day 🐶❤️      | Aron      |
-| 5月25日                       | \[NU'EST\] 嘎貢😍                       | 全體成員      |
-| 6月8日                        | \[NU'EST\] COUNTDOWN JR's Day🐢💕      | JR        |
-| \[NU'EST\] JR熊的一天🐻❤️        |                                      |           |
-| 6月10日                       | \[NU'EST\] ☺️                        | 旼炫        |
-| 6月20日                       | \[NU'EST\] 為了LOVE們的愛心信號💕             | 全體成員      |
-| 6月26日                       | \[NU'EST\] 想念我吧？                     | Ren       |
-| 7月3日                        | \[NU'EST\] 白虎ISLAND Part3 🛤          | 白虎        |
-| \[NU'EST\] 白虎ISLAND Part3 🏸 |                                      |           |
-| \[NU'EST\] 白虎ISLAND Part3 🍽 |                                      |           |
-| 7月4日                        | \[NU'EST\] Spider Ron與JR熊📻           | JR、Aron   |
-| 7月11日                       | \[NU'EST\] 我來哄你們睡覺哦                  | Ren       |
-| 7月13日                       | \[NU'EST\] LOVE們.. 書..               | Ren       |
-| 7月14日                       | 🤗                                    | 旼炫        |
-| 7月17日                       | \[NU'EST\] NU'EST出現啦📢📢               | 全體成員      |
-| 7月18日                       | \[NU'EST\] 還沒說完的話🤗                   | 白虎        |
-| 7月20日                       | \[NU'EST\] 晚上！                       | JR、Aron   |
-| 7月21日                       | \[NU'EST\] 我來了🐶                      | Aron、旼炫   |
-| 在這麼晚，失禮了🙈                   | 旼炫                                   |           |
-| \[NU'EST\] 謝謝🐯              | 白虎                                   |           |
-| 7月29日                       | \[NU'EST\] 星期一～～Let's get it🐢        | JR        |
-| 7月31日                       | \[NU'EST\] Aron Ramsay's 手製漢堡        | Aron      |
-| 8月2日                        | \[NU'EST\] 你好，我來囉🐶                   |           |
-| 8月9日                        | 🎂8/9🎂謝謝❤️                            | 旼炫        |
-| 9月2日                        | \[NU'EST\] 來看LOVE們了\~\~🍂             | Ren       |
-| 9月15日                       | 很晚了吧🙈                                | 旼炫        |
-| 9月20日                       | \[NU'EST\] HI💕                       | 白虎        |
+|                             |                                          |           |
+| --------------------------- | ---------------------------------------- | --------- |
+| **日期**                      | **單元名稱**                                 | **參與成員**  |
+| 2019年                       |                                          |           |
+| 1月15日                       | \[NU'EST W\] 咿呀啊啊～～ 驚喜登場🤗                | NU'EST W  |
+| 1月23日                       | \[NU'EST\] 今天，我們☺️                       | 白虎        |
+| 1月26日                       | \[NU'EST\] 是Aron唷👻👻                      | Aron      |
+| 1月31日                       | \[NU'EST\] 旼炫來了！❤                        | 旼炫        |
+| 2月14日                       | NU'EST Happy Valentine's Day             | 全體成員      |
+| 2月22日                       | \[Special V ONLY\] NU'EST的禮物 春天大慶典       |           |
+| 3月5日                        | \[NU'EST\] 非常特別的星期二😎                     |           |
+| 3月8日                        | \[NU'EST\] 要聽聽聲音嗎？                       | JR、白虎、Ren |
+| 3月10日                       | \[NU'EST\] 6點 點心😋                        | 全體成員      |
+| 3月12日                       | \[NU'EST\] Renny Hyunny 幸運的～Voice～🍀      | 旼炫、Ren    |
+| 3月28日                       | \[NU'EST\] 🚨🚨白劇透注意🚨🚨                     | 白虎、旼炫、Ren |
+| 3月31日                       | \[NU'EST\] 吃飯了嗎？                         | JR        |
+| 4月12日                       | \[NU'EST\] 花開的 我們的春天🌸                    | 全體成員      |
+| 4月14日                       | \[NU'EST\] 永遠都是 我們的季節🌸                   |           |
+| 4月29日                       | \[V ONLY\] NU'EST 'BET BET' M/V拍攝花絮      |           |
+| 5月3日                        | \[NU'EST\] 我們的選擇是LOVE呀🥰                  |           |
+| 5月4日                        | \[NU'EST\] 現場直播😎                         |           |
+| 5月8日                        | \[NU'EST\] NU'EST 初一位🥳                   |           |
+| 5月9日                        | \[NU'EST\] LOVE們 一位 恭喜🎉💕                 |           |
+| 5月10日                       | \[NU'EST\] 像夢一樣的星期五😊😊                    |           |
+| 5月14日                       | \[NU'EST\] NU'EST 與SPOONZ一起的特別Vlive      |           |
+| 5月16日                       | \[NU'EST\] 🚨🚨NU'EST CONCEPT ZONE劇透🚨🚨     |           |
+| 5月21日                       | \[NU'EST\] Happy Aron's Day 🐶❤️          | Aron      |
+| 5月25日                       | \[NU'EST\] 嘎貢😍                           | 全體成員      |
+| 6月8日                        | \[NU'EST\] COUNTDOWN JR's Day🐢💕          | JR        |
+| \[NU'EST\] JR熊的一天🐻❤️        |                                          |           |
+| 6月10日                       | \[NU'EST\] ☺️                            | 旼炫        |
+| 6月20日                       | \[NU'EST\] 為了LOVE們的愛心信號💕                 | 全體成員      |
+| 6月26日                       | \[NU'EST\] 想念我吧？                         | Ren       |
+| 7月3日                        | \[NU'EST\] 白虎ISLAND Part3 🛤              | 白虎        |
+| \[NU'EST\] 白虎ISLAND Part3 🏸 |                                          |           |
+| \[NU'EST\] 白虎ISLAND Part3 🍽 |                                          |           |
+| 7月4日                        | \[NU'EST\] Spider Ron與JR熊📻               | JR、Aron   |
+| 7月11日                       | \[NU'EST\] 我來哄你們睡覺哦                      | Ren       |
+| 7月13日                       | \[NU'EST\] LOVE們.. 書..                   | Ren       |
+| 7月14日                       | 🤗                                        | 旼炫        |
+| 7月17日                       | \[NU'EST\] NU'EST出現啦📢📢                   | 全體成員      |
+| 7月18日                       | \[NU'EST\] 還沒說完的話🤗                       | 白虎        |
+| 7月20日                       | \[NU'EST\] 晚上！                           | JR、Aron   |
+| 7月21日                       | \[NU'EST\] 我來了🐶                          | Aron、旼炫   |
+| 在這麼晚，失禮了🙈                   | 旼炫                                       |           |
+| \[NU'EST\] 謝謝🐯              | 白虎                                       |           |
+| 7月29日                       | \[NU'EST\] 星期一～～Let's get it🐢            | JR        |
+| 7月31日                       | \[NU'EST\] Aron Ramsay's 手製漢堡            | Aron      |
+| 8月2日                        | \[NU'EST\] 你好，我來囉🐶                       |           |
+| 8月9日                        | 🎂8/9🎂謝謝❤️                                | 旼炫        |
+| 9月2日                        | \[NU'EST\] 來看LOVE們了\~\~🍂                 | Ren       |
+| 9月15日                       | 很晚了吧🙈                                    | 旼炫        |
+| 9月20日                       | \[NU'EST\] HI💕                           | 白虎        |
+| 9月22日                       | \[NU'EST\] COOKIE JR的 'Homemade Pie' 製作🥧 | JR        |
+| 9月24日                       | \[NU'EST\] 奇襲攻擊🙈🙉                        | 全體成員      |
+| 9月27日                       | \[NU'EST\] Ronny來了喔                      | Aron      |
 
 ## 主持節目
 
@@ -388,7 +420,7 @@
 <tr class="even">
 <td><p>2019年5月23日-2019年7月18日</p></td>
 <td><p>Mnet</p></td>
-<td><p>留學少女</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/留學少女" title="wikilink">留學少女</a></p></td>
 <td><p>故事講述者</p></td>
 <td><p>EP1-9</p></td>
 <td><p>JR、旼炫</p></td>
@@ -404,7 +436,7 @@
 <tr class="even">
 <td><p>2019年9月2日-</p></td>
 <td><p>JTBC2</p></td>
-<td><p>浩九的排行</p></td>
+<td><p><a href="../Page/冤大頭的排行榜.md" title="wikilink">冤大頭的排行榜</a></p></td>
 <td><p>主持人</p></td>
 <td><p>EP1-</p></td>
 <td><p>Ren</p></td>
@@ -412,7 +444,8 @@
 </tbody>
 </table>
 
-### 特別節目與活動主持出席
+
+\=== 特別節目主持出席 ===
 
 <table>
 <tbody>
@@ -423,22 +456,6 @@
 <td><p><strong>性質</strong></p></td>
 <td><p><strong>參與成員</strong></p></td>
 <td><p><strong>備註</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>2012年2月18日</p></td>
-<td><p>Pledis</p></td>
-<td><p>NU'EST Valentine Day Event</p></td>
-<td><p>出道宣傳活動</p></td>
-<td><p>全體成員</p></td>
-<td><p>一起看電影活動</p></td>
-</tr>
-<tr class="odd">
-<td><p>2012年4月7日</p></td>
-<td><p>2012秋冬首爾時尚周</p></td>
-<td><p>BIG PARK服裝展</p></td>
-<td><p>服裝展示模特兒</p></td>
-<td><p>旼炫、Ren</p></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>2013年9月28日</p></td>
@@ -457,28 +474,12 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2017年8月6日</p></td>
-<td><p><a href="../Page/韓國職棒聯賽.md" title="wikilink">韓國職棒聯賽</a></p></td>
-<td><p><a href="../Page/LG雙子.md" title="wikilink">LG雙子</a>對<a href="https://zh.wikipedia.org/wiki/斗山熊" title="wikilink">斗山熊三連戰</a></p></td>
-<td><p>第三場開球嘉賓</p></td>
-<td><p>JR</p></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>2017年9月23日</p></td>
 <td></td>
 <td><p><a href="../Page/亚洲音乐节.md" title="wikilink">亞洲音樂節</a></p></td>
 <td><p>MC</p></td>
 <td><p>JR、REN[3]</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2017年9月30日</p></td>
-<td><p>韓華集團</p></td>
-<td><p>2017首爾世界煙火慶典</p></td>
-<td><p>直播嘉賓</p></td>
-<td><p>JR、REN</p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大韓民國" title="wikilink">韓國</a><a href="https://zh.wikipedia.org/wiki/釜山" title="wikilink">釜山</a><a href="../Page/釜山亞運會主競技場.md" title="wikilink">亞運會主競技場</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2018年1月28日</p></td>
@@ -521,38 +522,6 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2019年2月16日</p></td>
-<td><p>NeNe炸雞</p></td>
-<td><p>第一屆 Nene STAR DAY</p></td>
-<td><p>代言簽名會</p></td>
-<td><p>NU'EST W</p></td>
-<td><p>首爾Ilchi Art Hall</p></td>
-</tr>
-<tr class="odd">
-<td><p>2019年2月20日</p></td>
-<td><p>2019 米蘭時裝周</p></td>
-<td><p>MONCLER GENIUS</p></td>
-<td><p>觀秀嘉賓</p></td>
-<td><p>旼炫</p></td>
-<td><p>米蘭Magazzini Raccordati倉庫</p></td>
-</tr>
-<tr class="even">
-<td><p>2019年3月20日</p></td>
-<td><p>2019 F/W 首爾時裝周</p></td>
-<td><p>BIG PARK服裝展</p></td>
-<td><p>Aron、旼炫、Ren</p></td>
-<td><p>首爾東大門設計廣場（DDP）</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2019年4月4日</p></td>
-<td><p>Dior</p></td>
-<td><p>Dior「癮誘超模巨星唇膏」全球發表派對</p></td>
-<td><p>派對嘉賓</p></td>
-<td><p>旼炫、Ren</p></td>
-<td><p>首爾LAYER57</p></td>
-</tr>
-<tr class="even">
 <td><p>2019年5月2日</p></td>
 <td><p>KBS</p></td>
 <td><p>Happy Together</p></td>
@@ -561,14 +530,6 @@
 <td><p>EP587</p></td>
 </tr>
 <tr class="odd">
-<td><p>2019年5月4日</p></td>
-<td><p>韓國職棒聯賽</p></td>
-<td><p>斗山熊對LG雙子</p></td>
-<td><p>開球嘉賓</p></td>
-<td><p>JR、旼炫</p></td>
-<td><p>全體成員出席</p></td>
-</tr>
-<tr class="even">
 <td><p>2019年5月12日</p></td>
 <td><p>SBS</p></td>
 <td><p>人氣歌謠</p></td>
@@ -576,7 +537,7 @@
 <td><p>JR</p></td>
 <td><p>EP1001</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2019年5月18日</p></td>
 <td><p>CJ ENM</p></td>
 <td><p>KCON 2019 JAPAN</p></td>
@@ -584,23 +545,7 @@
 <td><p>旼炫</p></td>
 <td><p>日本千葉縣幕張展覽館國際展示場</p></td>
 </tr>
-<tr class="even">
-<td><p>2019年7月30日</p></td>
-<td><p>Lotte Entertainment</p></td>
-<td><p>《驅魔使者》VIP試映會</p></td>
-<td><p>VIP</p></td>
-<td><p>首爾時代廣場CGV電影院</p></td>
-<td></td>
-</tr>
 <tr class="odd">
-<td><p>2019年8月1日</p></td>
-<td><p>NeNe炸雞</p></td>
-<td><p>第三屆 Nene STAR DAY</p></td>
-<td><p>代言簽名會</p></td>
-<td><p>NU'EST W</p></td>
-<td><p>首爾Ilchi Art Hall</p></td>
-</tr>
-<tr class="even">
 <td><p>2019年8月17日</p></td>
 <td><p>CJ ENM</p></td>
 <td><p>KCON 2019 LA</p></td>
@@ -608,16 +553,32 @@
 <td><p>Aron、Ren</p></td>
 <td><p>美國洛杉磯會議中心史坦波中心</p></td>
 </tr>
-<tr class="odd">
-<td><p>2019年9月5日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/歐米茄" title="wikilink">歐米茄</a></p></td>
-<td><p>OMEGA 超霸登月50周年紀念展 金色時刻慶典（Golden Moment）</p></td>
-<td><p>派對嘉賓</p></td>
-<td><p>旼炫</p></td>
-<td><p>首爾Coex Artium</p></td>
-</tr>
 </tbody>
 </table>
+
+
+\=== 特別活動主持出席 ===
+
+|             |                                                     |                                                                                           |               |                |                          |
+| ----------- | --------------------------------------------------- | ----------------------------------------------------------------------------------------- | ------------- | -------------- | ------------------------ |
+| **日期**      | **主辦單位**                                            | **節目名稱**                                                                                  | **性質**        | **參與成員**       | **備註**                   |
+| 2012年2月18日  | Pledis                                              | NU'EST Valentine Day Event                                                                | 出道宣傳活動        | 全體成員           | 一起看電影活動                  |
+| 2012年4月7日   | 2012秋冬首爾時尚周                                         | BIG PARK服裝展                                                                               | 服裝展示模特兒       | 旼炫、Ren         |                          |
+| 2017年8月6日   | [韓國職棒聯賽](../Page/韓國職棒聯賽.md "wikilink")              | [LG雙子](../Page/LG雙子.md "wikilink")對[斗山熊三連戰](https://zh.wikipedia.org/wiki/斗山熊 "wikilink") | 第三場開球嘉賓       | JR             |                          |
+| 2017年9月30日  | 韓華集團                                                | 2017首爾世界煙火慶典                                                                              | 直播嘉賓          | JR、REN         |                          |
+| 2018年7月22日  | [apm](../Page/Apm_\(香港\).md "wikilink")             | 數碼運動潮人學堂 開幕禮                                                                              | 開幕嘉賓          | REN            | 香港九龍觀塘區觀塘道 APM大堂         |
+| 2018年10月11日 | Spoonz                                              | NU'EST W Spoonz 代言簽名會                                                                     | 代言簽名會         | NU'EST W       | 現代百貨公司新村店12樓翡翠廳          |
+| 2018年12月23日 | [WTC 世貿中心](../Page/世貿中心_\(香港\).md "wikilink")       | 閃耀聖誕藝術王國 個人簽唱會                                                                            | 個人簽唱會         | JR             | 香港WTC世貿中心                |
+| 2019年2月16日  | NeNe炸雞                                              | 第一屆 Nene STAR DAY                                                                         | 代言簽名會         | NU'EST W       | 首爾Ilchi Art Hall         |
+| 2019年2月20日  | 2019 米蘭時裝周                                          | MONCLER GENIUS                                                                            | 觀秀嘉賓          | 旼炫             | 米蘭Magazzini Raccordati倉庫 |
+| 2019年3月20日  | 2019 F/W 首爾時裝周                                      | BIG PARK服裝展                                                                               | Aron、旼炫、Ren   | 首爾東大門設計廣場（DDP） |                          |
+| 2019年4月4日   | Dior                                                | Dior「癮誘超模巨星唇膏」全球發表派對                                                                      | 派對嘉賓          | 旼炫、Ren         | 首爾LAYER57                |
+| 2019年5月4日   | 韓國職棒聯賽                                              | 斗山熊對LG雙子                                                                                  | 開球嘉賓          | JR、旼炫          | 全體成員出席                   |
+| 2019年6月7日   | Spoonz                                              | Love's Tea Time "Have a cup of tea with NU'EST" 見面會                                       | 代言茶會          | 全體成員           | 首爾Spoonz Flagship Store  |
+| 2019年6月15日  | "Just be with you，NU'EST" 代言簽名會                     | 代言簽名會                                                                                     | 首爾Spigen Hall |                |                          |
+| 2019年7月30日  | Lotte Entertainment                                 | 《驅魔使者》VIP試映會                                                                              | VIP           | 旼炫             | 首爾時代廣場CGV電影院             |
+| 2019年8月1日   | NeNe炸雞                                              | 第三屆 Nene STAR DAY                                                                         | 代言簽名會         | NU'EST W       | 首爾Ilchi Art Hall         |
+| 2019年9月5日   | [歐米茄](https://zh.wikipedia.org/wiki/歐米茄 "wikilink") | OMEGA 超霸登月50周年紀念展 金色時刻慶典（Golden Moment）                                                   | 派對嘉賓          | 旼炫             | 首爾Coex Artium            |
 
 ## 綜藝節目
 
@@ -807,7 +768,6 @@
 | 9月13日        | PLEDIS ENTERTAINMENT                                  | Youtube                                               | 2012 PLEDIS Asian-American Audition in U.S.A.  | 全體成員             |
 | 11月18日       | Kourierco                                             | Kourier 獨家專訪 NU'EST                                   |                                                |                  |
 | 2013年        |                                                       |                                                       |                                                |                  |
-| 7月20日        |                                                       |                                                       | NU'EST來自台灣的信息                                  | JR、白虎、旼炫、Ren     |
 | 6月14日        | Kourierco                                             | Youtube                                               | \[Special\] 抓住 NU'EST - Part 1                 | 全體成員             |
 | 6月19日        | \[Special\] 抓住 NU'EST - Part 2                        |                                                       |                                                |                  |
 | 6月21日        | \[Special\] 抓住 NU'EST - Part 3                        |                                                       |                                                |                  |
@@ -1587,7 +1547,15 @@
 | Mnet Official                                          | The Call2 \[白虎 VLOG\] Final D-4 紀念！！ ♥驚喜白虎CAM登場♥                | 白虎                                   |                                                                                           |                           |
 | Dispatch                                               | Vlive                                                           | 🐶心動s，Dicon Unboxing🦊                 | Aron、旼炫                                                                                   |                           |
 | \[Dicon\] "Insider芒果，沒辦法忘記"（Ren：NU'EST）                | Ren                                                             |                                      |                                                                                           |                           |
-| 9月10日                                                  | \[Dicon\] "花式稱讚ST 贏不了"（NU'EST）                                  | 全體成員                                 |                                                                                           |                           |
+| 9月10日                                                  | emkmusical                                                      | Youtube                              | \[瑪麗安東尼音樂劇\] 瑪麗-LOG EP1 初Preview D-Day                                                    | 旼炫                        |
+| Dispatch                                               | Vlive                                                           | \[Dicon\] "花式稱讚ST 贏不了"（NU'EST）       | 全體成員                                                                                      |                           |
+| 9月11日                                                  | J泰驚喜                                                            | JR                                   |                                                                                           |                           |
+| \[Dicon\] "NU們的AtoZ by.香港自拍Cam"（NU'EST）                | 全體成員                                                            |                                      |                                                                                           |                           |
+| 9月12日                                                  | PLEDIS ENTERTAINMENT                                            | Youtube                              | NU'EST，SEVENTEEN 2019中秋問候訊息                                                               |                           |
+| 9月17日                                                  | 日刊體育                                                            | \[創刊50接力慶祝④\] NU'EST                 |                                                                                           |                           |
+| Dispatch                                               | Vlive                                                           | "白虎今天也，水潤"（NU'EST）                   | 白虎                                                                                        |                           |
+| 9月18日                                                  | emkmusical                                                      | Youtube                              | \[瑪麗安東尼音樂劇\] 瑪麗-LOG 初公演成員走了！                                                              | 旼炫                        |
+| 9月23日                                                  |                                                                 | 每日豆漿interview                        |                                                                                           |                           |
 
 ## 電影及戲劇
 
@@ -1812,42 +1780,154 @@
 | 5月9日   | KBS Cool FM  | 李秀智的歌謠廣場       |          |
 |        |              |                |          |
 
-## 雜誌畫報
 
-|                    |            |                                              |
-| ------------------ | ---------- | -------------------------------------------- |
-| **雜誌名稱**           | **期數**     | **備註**                                       |
-| 2012年              |            |                                              |
-| VOGUE Girl KOREA   | 5月號        | 全體成員                                         |
-| CeCi KOREA         | 8月號        |                                              |
-| 2015年              |            |                                              |
-| RIVER RIVER        | 4月號        | 全體成員；封面人物                                    |
-| 2016年              |            |                                              |
-| RIVER RIVER        | 1月號        | 全體成員；封面人物                                    |
-| 2017年              |            |                                              |
-| @Star 1            | 8月號        | JR、Ren                                       |
-| CeCi KOREA         | 9月號        | NU'EST W                                     |
-| W KOREA            | 9月號        |                                              |
-| 1st Look           | 12月號       | NU'EST W；封面人物                                |
-| 2018年              |            |                                              |
-| CeCi KOREA         | 2月號        | NU'EST W                                     |
-| DAZED KOREA        | 2月號        |                                              |
-| @Star 1            | 3月號        | NU'EST W；封面人物                                |
-| SINGLES            | 7月號        |                                              |
-| @Star 1            | 9月號        |                                              |
-| Men's Health KOREA | 11月號       | 白虎；封面人物                                      |
-| VOGUE KOREA        | 11月號       | NU'EST W                                     |
-| 2019年              |            |                                              |
-| ELLE KOREA         | 4月號        | 旼炫                                           |
-| 1st Look           | 4月號        | Aron；封面人物                                    |
-| ELLE KOREA         | 5月號        | 全體成員                                         |
-| COSMOPOLITAN KOREA | 5月號        | 旼炫                                           |
-| INDEED             | Vol.2（5月號） | 白虎；封面人物                                      |
-| CHICTEEN 小資風尚      | 5月號        | Aron；封面人物（與[周潔瓊](../Page/周潔瓊.md "wikilink")） |
-| 時裝 L'OFFICIEL      | 6月號（別冊）    | Aron；封面人物（與周潔瓊）                              |
-| COSMOPOLITAN KOREA | 7月號        | JR                                           |
-| VOGUE KOREA        | 8月號        | 旼炫                                           |
-| ELLE KOREA         | 9月號        | 旼炫                                           |
+\== 雜誌畫報 ==
+
+|                      |            |                                              |
+| -------------------- | ---------- | -------------------------------------------- |
+| **雜誌名稱**             | **期數**     | **備註**                                       |
+| 2012年                |            |                                              |
+| VOGUE Girl KOREA     | 5月號        | 全體成員                                         |
+| CeCi KOREA           | 8月號        |                                              |
+| 2013年                |            |                                              |
+| EZ Korea流行韓語教學誌 No.7 | 5月號        | 全體成員；封面人物                                    |
+| 2015年                |            |                                              |
+| RIVER RIVER          | 4月號        | 全體成員；封面人物                                    |
+| 2016年                |            |                                              |
+| RIVER RIVER          | 1月號        | 全體成員；封面人物                                    |
+| 2017年                |            |                                              |
+| @Star 1              | 8月號        | JR、Ren                                       |
+| CeCi KOREA           | 9月號        | NU'EST W                                     |
+| W KOREA              | 9月號        |                                              |
+| 1st Look             | 12月號       | NU'EST W；封面人物                                |
+| 2018年                |            |                                              |
+| CeCi KOREA           | 2月號        | NU'EST W                                     |
+| DAZED KOREA          | 2月號        |                                              |
+| @Star 1              | 3月號        | NU'EST W；封面人物                                |
+| SINGLES              | 7月號        |                                              |
+| CeCi KOREA           | 8月號        | NU'EST W                                     |
+| @Star 1              | 9月號        | NU'EST W；封面人物                                |
+| Men's Health KOREA   | 11月號       | 白虎；封面人物                                      |
+| VOGUE KOREA          | 11月號       | NU'EST W                                     |
+| SUDSAPDA MAGAZINE    | 12月號       | Ren；封面人物                                     |
+| 2019年                |            |                                              |
+| ELLE KOREA           | 4月號        | 旼炫                                           |
+| 1st Look             | 4月號        | Aron；封面人物                                    |
+| ELLE KOREA           | 5月號        | 全體成員                                         |
+| COSMOPOLITAN KOREA   | 5月號        | 旼炫                                           |
+| INDEED               | Vol.2（5月號） | 白虎；封面人物                                      |
+| CHICTEEN 小資風尚        | 5月號        | Aron；封面人物（與[周潔瓊](../Page/周潔瓊.md "wikilink")） |
+| 時裝 L'OFFICIEL        | 6月號（別冊）    | Aron；封面人物（與周潔瓊）                              |
+| COSMOPOLITAN KOREA   | 7月號        | JR                                           |
+| VOGUE KOREA          | 8月號        | 旼炫                                           |
+| ELLE KOREA           | 9月號        | 旼炫                                           |
+
+
+
+## 音樂錄影帶
+
+### 團體音樂錄影帶
+
+|          |                                                           |             |          |        |
+| -------- | --------------------------------------------------------- | ----------- | -------- | ------ |
+| **公布日期** | **專輯名稱**                                                  | **歌曲名稱**    | **參與成員** | **備註** |
+| 2012年    |                                                           |             |          |        |
+| 3月15日    | **[FACE](../Page/FACE_\(NU'EST單曲\).md "wikilink")**       | FACE\[6\]   | 全體成員     |        |
+| 7月10日    | **[Action](../Page/Action_\(NU'EST迷你專輯\).md "wikilink")** | Action\[7\] |          |        |
+| 8月12日    | Not Over You\[8\]                                         |             |          |        |
+| 10月15日   | Sandy\[9\]                                                |             |          |        |
+| 2013年    |                                                           |             |          |        |
+|          |                                                           |             | 全體成員     |        |
+| 2014年    |                                                           |             |          |        |
+|          |                                                           |             | 全體成員     |        |
+| 2015年    |                                                           |             |          |        |
+|          |                                                           |             | 全體成員     |        |
+| 2016年    |                                                           |             |          |        |
+|          |                                                           |             | 全體成員     |        |
+| 2017年    |                                                           |             |          |        |
+|          |                                                           |             | NU'EST W |        |
+| 2018年    |                                                           |             |          |        |
+|          |                                                           |             | NU'EST W |        |
+| 2019年    |                                                           |             |          |        |
+|          |                                                           |             | 全體成員     |        |
+|          |                                                           |             |          |        |
+
+
+
+### 合作音樂錄影帶
+
+|          |          |          |          |        |
+| -------- | -------- | -------- | -------- | ------ |
+| **公布日期** | **歌曲名稱** | **參與成員** | **合作藝人** | **備註** |
+| 2012年    |          |          |          |        |
+|          |          | 全體成員     |          |        |
+| 2013年    |          |          |          |        |
+|          |          | 全體成員     |          |        |
+| 2014年    |          |          |          |        |
+|          |          | 全體成員     |          |        |
+| 2015年    |          |          |          |        |
+|          |          | 全體成員     |          |        |
+| 2016年    |          |          |          |        |
+|          |          | 全體成員     |          |        |
+| 2017年    |          |          |          |        |
+|          |          | NU'EST W |          |        |
+| 2018年    |          |          |          |        |
+|          |          | NU'EST W |          |        |
+| 2019年    |          |          |          |        |
+|          |          | 全體成員     |          |        |
+|          |          |          |          |        |
+
+
+
+### 參演音樂錄影帶
+
+|          |          |          |          |        |
+| -------- | -------- | -------- | -------- | ------ |
+| **公布日期** | **歌曲名稱** | **參與成員** | **合作藝人** | **備註** |
+| 2012年    |          |          |          |        |
+|          |          | 全體成員     |          |        |
+| 2013年    |          |          |          |        |
+|          |          | 全體成員     |          |        |
+| 2014年    |          |          |          |        |
+|          |          | 全體成員     |          |        |
+| 2015年    |          |          |          |        |
+|          |          | 全體成員     |          |        |
+| 2016年    |          |          |          |        |
+|          |          | 全體成員     |          |        |
+| 2017年    |          |          |          |        |
+|          |          | NU'EST W |          |        |
+| 2018年    |          |          |          |        |
+|          |          | NU'EST W |          |        |
+| 2019年    |          |          |          |        |
+|          |          | 全體成員     |          |        |
+|          |          |          |          |        |
+
+
+
+### 練習室舞蹈影片
+
+|          |          |          |          |        |
+| -------- | -------- | -------- | -------- | ------ |
+| **公布日期** | **專輯名稱** | **歌曲名稱** | **參與成員** | **備註** |
+| 2012年    |          |          |          |        |
+|          |          |          | 全體成員     |        |
+| 2013年    |          |          |          |        |
+|          |          |          | 全體成員     |        |
+| 2014年    |          |          |          |        |
+|          |          |          | 全體成員     |        |
+| 2015年    |          |          |          |        |
+|          |          |          | 全體成員     |        |
+| 2016年    |          |          |          |        |
+|          |          |          | 全體成員     |        |
+| 2017年    |          |          |          |        |
+|          |          |          | NU'EST W |        |
+| 2018年    |          |          |          |        |
+|          |          |          | NU'EST W |        |
+| 2019年    |          |          |          |        |
+|          |          |          | 全體成員     |        |
+|          |          |          |          |        |
+
+
 
 ## 参考文献
 
@@ -1858,3 +1938,7 @@
 3.
 4.
 5.   MBC 연예 스포츠|url=[http://enews.imbc.com/News/RetrieveNewsInfo/265570|accessdate=2019-09-03|date=2019-08-28|work=MBC](http://enews.imbc.com/News/RetrieveNewsInfo/265570%7Caccessdate=2019-09-03%7Cdate=2019-08-28%7Cwork=MBC) 연예|language=ko}}
+6.
+7.
+8.
+9.

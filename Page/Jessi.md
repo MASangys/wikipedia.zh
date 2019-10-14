@@ -18,6 +18,10 @@ Jessi曾与[少女时代](../Page/少女时代.md "wikilink")的成员[Tiffany�
 
 Jessi一直与[少女时代](../Page/少女时代.md "wikilink")的[Tiffany是亲密朋友](../Page/Tiffany_\(少女時代\).md "wikilink")，她们曾在同一所高中上学。\[23\]两个人一同出现在多个电视节目中，包括《[姐姐們的Slam Dunk](../Page/姐姐們的Slam_Dunk.md "wikilink")》和Tiffany主持的《Heart a tag》。\[24\]\[25\]除了Tiffany外，她的朋友还包括[4minute](../Page/4minute.md "wikilink")前成员现为独唱歌手的[泫雅](../Page/金泫雅.md "wikilink")\[26\]、[SISTAR](../Page/SISTAR.md "wikilink")前成员现为独唱歌手的[孝琳](../Page/孝琳.md "wikilink")\[27\]、乐队[FTIsland](../Page/FTIsland.md "wikilink")的主唱[李洪基](../Page/李洪基.md "wikilink")\[28\]以及组合[GOT7](../Page/GOT7.md "wikilink")的饶舌担当[Jackson](../Page/王嘉爾.md "wikilink")\[29\]等。
 
+## 軼事
+
+  - Jessica HO 的歌曲《Life Is Good》被香港女歌星[鄭秀文](../Page/鄭秀文.md "wikilink")翻唱成為《信者得愛》粵語及國語版，[RAP部份則由MC](https://zh.wikipedia.org/wiki/RAP "wikilink") 仁及MC Hotdog主唱
+
 ## 音乐作品
 
 ### 正规专辑

@@ -28,15 +28,6 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 
 6月簽入香港年青前鋒來自[中西區足球隊](../Page/中西區足球隊.md "wikilink")[陳嘉寶](https://zh.wikipedia.org/wiki/陳嘉寶 "wikilink")、[傑志體育會](../Page/傑志體育會.md "wikilink")中場[林柱機](../Page/林柱機.md "wikilink")、[大埔足球會](../Page/大埔足球會.md "wikilink")前鋒[伊高沙托尼](../Page/伊高·沙托尼.md "wikilink")。 7月簽入2名新外援，龍門[謝家榮](https://zh.wikipedia.org/wiki/謝家榮 "wikilink")，後衛[方柏倫及](https://zh.wikipedia.org/wiki/方柏倫 "wikilink")[林衍廷](../Page/林衍廷.md "wikilink")，中場[林樂勤](../Page/林樂勤.md "wikilink")。 7月31日(星期三)下午開記者會。8月6日(星期二)去[葡萄牙](../Page/葡萄牙.md "wikilink")集訓正式開操。 2019年8月31日作客[大埔運動場](../Page/大埔運動場.md "wikilink")，憑上半場38分鐘[堤亞高·利安高](../Page/堤亞高·利安高.md "wikilink")，下半場57分鐘[基奥雲尼](https://zh.wikipedia.org/wiki/基奥雲尼 "wikilink")、77分鐘[林志堅](https://zh.wikipedia.org/wiki/林志堅 "wikilink")、83分鐘[梁諾恒四個入球](https://zh.wikipedia.org/wiki/梁諾恒 "wikilink")，以四比一擊敗[和富大埔](https://zh.wikipedia.org/wiki/和富大埔 "wikilink")，取得本季首勝。
 
-## 歷年球隊名字變更
-
-|                             |                               |
-| --------------------------- | ----------------------------- |
-| <font color="white"> **年度** | <font color="white"> **球隊名稱** |
-| 2016－2018                   | **R\&F富力**                    |
-| 2018－                       | **富力R\&F**                    |
-|                             |                               |
-
 ## 人員名單
 
 ### 管理及職員名單
@@ -281,7 +272,7 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p>1991年6月4日</p></td>
 <td><p>2018年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/傑志" title="wikilink">傑志</a></p></td>
-<td><p>多重國籍本地球員</p></td>
+<td><p>多重國藉本地球員</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -307,11 +298,11 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <tr class="even">
 <td><p>20</p></td>
 <td><p><strong> </strong></p></td>
-<td><p><a href="../Page/林柱機.md" title="wikilink">林柱機</a>（Matthew Thomas Lam）</p></td>
+<td><p><a href="../Page/林柱機.md" title="wikilink">林柱機</a>（Matthew Thomas "Matt" Lam）</p></td>
 <td><p>1989年9月10日</p></td>
 <td><p>2019年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/傑志" title="wikilink">傑志</a></p></td>
-<td><p>多重國籍本地球員</p></td>
+<td><p>多重國藉本地球員</p></td>
 <td><p>新加盟</p></td>
 </tr>
 <tr class="odd">
@@ -321,7 +312,7 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p>1999年2月2日</p></td>
 <td><p>2019年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/夢想體育會" title="wikilink">夢想FC</a></p></td>
-<td><p>U22青年球員</p></td>
+<td><p>U-22青年球員</p></td>
 <td><p>新加盟</p></td>
 </tr>
 <tr class="even">
@@ -331,10 +322,20 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p>1992年5月3日</p></td>
 <td><p>2018年</p></td>
 <td><p><a href="../Page/大埔足球會.md" title="wikilink">和富大埔</a></p></td>
-<td><p>多重國籍本地球員</p></td>
+<td><p>多重國藉本地球員</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>77</p></td>
+<td><p><strong></strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/麥富城" title="wikilink">麥富城</a>（Mak Fu Shing）</p></td>
+<td><p>2000年11月14日</p></td>
+<td><p>2018年</p></td>
+<td><p><a href="../Page/自由人足球會.md" title="wikilink">自由人青年軍</a></p></td>
+<td><p>U-22青年球員</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -344,7 +345,7 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><font color="black"><strong>前鋒</strong></p></td>
 <td></td>
 <td></td>
@@ -354,7 +355,7 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>8</p></td>
 <td><p><strong></strong></p></td>
 <td><p>（Serges Déblé）</p></td>
@@ -364,7 +365,7 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p>外援</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>10</p></td>
 <td><p><strong></strong></p></td>
 <td><p><a href="../Page/堤亞高·利安高.md" title="wikilink">利安高</a>（Tiago de Leonço）</p></td>
@@ -374,17 +375,17 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p>外援</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>18</p></td>
 <td><p><strong></strong></p></td>
-<td><p><a href="../Page/伊高·沙托尼.md" title="wikilink">伊高沙托尼</a>（Igor Sartori）</p></td>
+<td><p><a href="../Page/伊高·沙托尼.md" title="wikilink">伊高沙托尼</a>（Igor Torres Sartori）</p></td>
 <td><p>1993年1月8日</p></td>
 <td><p>2019年</p></td>
 <td><p><a href="../Page/大埔足球會.md" title="wikilink">和富大埔</a></p></td>
 <td><p>外援</p></td>
 <td><p>新加盟</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>22</p></td>
 <td><p><strong></strong></p></td>
 <td><p><a href="../Page/基奧雲尼·施華.md" title="wikilink">基奧雲尼</a>（Giovane Alves da Silva）</p></td>
@@ -394,7 +395,7 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>32</p></td>
 <td></td>
 <td><p><a href="../Page/袁振昇.md" title="wikilink">袁振昇</a>（Yuen Chun Sing）</p></td>
@@ -404,10 +405,10 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td></td>
 <td><p>外借回歸</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>99</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/陳嘉宝（足球運動員）" title="wikilink">陳嘉宝</a>（Adriel Demian Chan）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳嘉宝（足球運動員）" title="wikilink">陳嘉-{宝}-</a>（Adriel Demian Chan "Ka-Po"）</p></td>
 <td><p>2003年5月22日</p></td>
 <td><p>2019年</p></td>
 <td><p><a href="../Page/中西區足球隊.md" title="wikilink">中西區</a></p></td>

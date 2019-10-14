@@ -17,7 +17,7 @@ NIH 3T3細胞的轉染效率較高，細胞生物學研究者常常將其選作�
 
 ## 參考
 
-[Category:細胞](https://zh.wikipedia.org/wiki/Category:細胞 "wikilink") [Category:细胞生物学](https://zh.wikipedia.org/wiki/Category:细胞生物学 "wikilink")
+[Category:細胞系](https://zh.wikipedia.org/wiki/Category:細胞系 "wikilink") [Category:细胞生物学](https://zh.wikipedia.org/wiki/Category:细胞生物学 "wikilink")
 
 1.
 

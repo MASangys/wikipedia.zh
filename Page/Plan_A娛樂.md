@@ -41,6 +41,8 @@
 
   - （[gu9udan](https://zh.wikipedia.org/wiki/gu9udan "wikilink")）
 
+  - 鄭彩延（[PlayM GIRLS](https://zh.wikipedia.org/wiki/PlayM_GIRLS "wikilink")）
+
 ## 音樂作品
 
 ### 數碼單曲

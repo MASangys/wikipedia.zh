@@ -35,7 +35,7 @@
 </tr>
 <tr class="odd">
 <td><p>1995</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/魔宮帝國_(電影)" title="wikilink">魔宮帝國</a></p></td>
+<td><p><a href="../Page/魔宮帝國_(電影).md" title="wikilink">魔宮帝國</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -45,7 +45,7 @@
 </tr>
 <tr class="odd">
 <td><p>1997</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/魔宮帝國2" title="wikilink">魔宮帝國2</a></p></td>
+<td><p><a href="../Page/魔宮帝國2.md" title="wikilink">魔宮帝國2</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

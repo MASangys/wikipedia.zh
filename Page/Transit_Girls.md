@@ -12,7 +12,7 @@
     演员 - [伊藤沙莉](../Page/伊藤沙莉.md "wikilink") (日本)
     故事主角。高中3年级生。
   - 志田 ゆい〈21〉
-    演员 - [佐久間由衣](../Page/佐久間由衣.md "wikilink") (日本) ; [何凱怡](https://zh.wikipedia.org/wiki/何凱怡 "wikilink") (香港)
+    演员 - [佐久間由衣](../Page/佐久間由衣.md "wikilink") (日本) ; [何凱怡](../Page/何凱怡.md "wikilink") (香港)
     故事另一主角。目标是成为专业摄影师。
   - 深澤 直〈18〉
     演员 - [健太郎](https://zh.wikipedia.org/wiki/健太郎 "wikilink") (日本)

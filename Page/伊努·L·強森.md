@@ -82,7 +82,7 @@
   - [New York Post](https://zh.wikipedia.org/wiki/New_York_Post "wikilink"): [Rise and fall of Jazz Age titan behind HBO's 'Boardwalk Empire' Amazing story of bigshot who made Atlantic City a mob playground](https://web.archive.org/web/20120418070254/http://www.nypost.com/p/news/local/steve_buscemi_as_nucky_thompson_35Eo58rVrOqfO77Jp9787O) by Ginger Adams Otis
   - [Rare photo of Nucky Johnson from the National Archives and Atlantic County Historical Society](http://www.awesomestories.com/assets/nucky-thompson)
 
-[Category:大西洋城人](https://zh.wikipedia.org/wiki/Category:大西洋城人 "wikilink") [Category:20世纪美国政治家](https://zh.wikipedia.org/wiki/Category:20世纪美国政治家 "wikilink") [Category:禁酒時期的黑幫](https://zh.wikipedia.org/wiki/Category:禁酒時期的黑幫 "wikilink") [Category:私酒販](https://zh.wikipedia.org/wiki/Category:私酒販 "wikilink") [Category:美國黑幫首領](https://zh.wikipedia.org/wiki/Category:美國黑幫首領 "wikilink") [Category:新澤西州共和黨黨員](https://zh.wikipedia.org/wiki/Category:新澤西州共和黨黨員 "wikilink")
+[Category:大西洋城人](https://zh.wikipedia.org/wiki/Category:大西洋城人 "wikilink") [Category:20世纪美国政治家](https://zh.wikipedia.org/wiki/Category:20世纪美国政治家 "wikilink") [Category:禁酒時期的黑幫](https://zh.wikipedia.org/wiki/Category:禁酒時期的黑幫 "wikilink") [Category:私酒販](https://zh.wikipedia.org/wiki/Category:私酒販 "wikilink") [Category:美國黑幫首領](https://zh.wikipedia.org/wiki/Category:美國黑幫首領 "wikilink") [Category:新澤西州共和黨黨員](https://zh.wikipedia.org/wiki/Category:新澤西州共和黨黨員 "wikilink") [Category:咆哮的二十年代](https://zh.wikipedia.org/wiki/Category:咆哮的二十年代 "wikilink")
 
 1.
 

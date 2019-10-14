@@ -3,14 +3,14 @@
 ## 本作特色
 
   - 本作為「假面騎士平成Generations」系列的第2彈，雖然名稱為「平成Generations FINAL」，但天皇明仁於2017年11月下旬確定於2019年4月30日才退位，5月1日才改新年號，其時《[假面騎士Build](../Page/假面騎士Build.md "wikilink")》本篇播畢後的下一位假面騎士（假面騎士ZI-O）應已播出了超過一半集數。因此嚴格來說不算是平成最後一部假面騎士聯動劇場版。
-  - 本作的劇本是由《[假面騎士Build](../Page/假面騎士Build.md "wikilink")》的編劇武藤將吾和《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》的編劇高橋悠也兩人共同編寫，也因此劇情上是與兩部系列作的各自劇情有著聯動性關係。
+  - 本作的劇本是由《[假面騎士Build](../Page/假面騎士Build.md "wikilink")》的編劇武藤將吾和《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》的編劇高橋悠也兩人共同編寫，也因此劇情上是與兩部系列作的各自劇情有著聯動性關係\[3\]。
   - 本作除了主要演出的假面騎士Build 和假面騎士EX-AID 外，同時前作系列的假面騎士OOO、假面騎士Fourze、假面騎士鎧武和假面騎士Ghost亦於本作中作為傳說騎士登場。
-  - 根據官網所播放的最新影像預告得知\[3\]，飾演《[假面騎士OOO](../Page/假面騎士OOO.md "wikilink")》中的主角火野映司的演員[渡部秀](../Page/渡部秀.md "wikilink")和Ankh的演員[三浦涼介](../Page/三浦涼介.md "wikilink")、《[假面騎士Fourze](../Page/假面騎士Fourze.md "wikilink")》的主角如月弦太朗的演員[福士蒼汰](../Page/福士蒼汰.md "wikilink")、《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》的主角葛葉紘汰的演員[佐野岳](../Page/佐野岳.md "wikilink")及《[假面騎士Ghost](../Page/假面騎士Ghost.md "wikilink")》的主角天空寺尊的演員[西銘駿](../Page/西銘駿.md "wikilink")等人亦在此劇中真人演出\[4\]\[5\]，上部作品有份出場的[白石隼也](../Page/白石隼也.md "wikilink")和[竹內涼真](../Page/竹內涼真.md "wikilink")因檔期原因沒有參演本作。
+  - 根據官網所播放的最新影像預告得知\[4\]，飾演《[假面騎士OOO](../Page/假面騎士OOO.md "wikilink")》中的主角火野映司的演員[渡部秀](../Page/渡部秀.md "wikilink")和Ankh的演員[三浦涼介](../Page/三浦涼介.md "wikilink")、《[假面騎士Fourze](../Page/假面騎士Fourze.md "wikilink")》的主角如月弦太朗的演員[福士蒼汰](../Page/福士蒼汰.md "wikilink")、《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》的主角葛葉紘汰的演員[佐野岳](../Page/佐野岳.md "wikilink")及《[假面騎士Ghost](../Page/假面騎士Ghost.md "wikilink")》的主角天空寺尊的演員[西銘駿](../Page/西銘駿.md "wikilink")等人亦在此劇中真人演出\[5\]\[6\]，上部作品有份出場的[白石隼也](../Page/白石隼也.md "wikilink")和[竹內涼真](../Page/竹內涼真.md "wikilink")因檔期原因沒有參演本作。
   - 根據本作的相關雜誌報導中得知，《[假面騎士Build](../Page/假面騎士Build.md "wikilink")》和《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》兩部系列作是呈現平行世界的概念，《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》至《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》為同一世界觀。
   - 電視版本篇中即將現身的Rabbit Tank Sparkling Form 和PhoenixRobo Form 於本作先行登場。
   - 本作邀請到知名音樂家兼作曲人大槻賢二擔當本作中的反派角色「最上魁星」，並且因劇情的關係使得他有著兩種全然不同造型的裝扮。
   - 《[假面騎士Build](../Page/假面騎士Build.md "wikilink")》本篇中即將現身的第三位騎士**假面騎士Grease**於本作先行登場。
-  - 另外於劇中得知兩個世界的時間流速並非相同\[6\]
+  - 另外於劇中得知兩個世界的時間流速並非相同\[7\]
 
 ## 故事概要
 
@@ -37,7 +37,7 @@
     最上魁星和葛城巧一同開發的移動裝置，用於开通平行世界的道路，又名「平行世界移動裝置」，外觀如同一隻中心有眼睛的手。
     戰兔根據葛城巧所留下的資料得知過去葛城巧曾利用此裝置多次來回兩個世界。
     後從最上魁星口中得知其並非完全型態，實際上完全型態的樣貌是藉由位在兩個世界的Enigma合體後所形成的「平行世界合體裝置」。
-    Build世界的Enigma位在天空之壁附近，而EX-AID世界的Enigma位在天高\[7\]內。
+    Build世界的Enigma位在天空之壁附近，而EX-AID世界的Enigma位在天高\[8\]內。
 
 ''' 凱撒系统 '''
 
@@ -163,7 +163,7 @@
         **Kaiser Reverse**的變身者，財團X的幹部成員。
         五官完整且性格开朗，以「Funky」為其口癖。
         不僅開發出了X保衛者，還使用复制的核心硬币與天文開關分别制造出了兩大怪人——Greeed和Horoscopes，其房间里的内部裝修也很古怪。
-        利用Enigma使得除永梦以外的騎士們无法变身\[8\]。
+        利用Enigma使得除永梦以外的騎士們无法变身\[9\]。
     **Build世界的最上魁星**
       -
         **Kaiser**的變身者，原為東都先端物質學研究所的科學家，後為其研究而轉投靠難波重工。
@@ -309,7 +309,7 @@
 ### BiKaiser
 
   -
-    變身者：最上魁星\[9\]（替身演員：中田裕士、CV：大槻賢二）
+    變身者：最上魁星\[10\]（替身演員：中田裕士、CV：大槻賢二）
     原文： / *BiKaiser*
 
 #### 變身模式
@@ -380,7 +380,7 @@
   -
     原文： / *Greeed*
     本作中是以財團X所製作的複製硬幣所召喚出來的複製體，不具自我意識。
-      - Ankh\[10\]
+      - Ankh\[11\]
       - Uva
       - Kazari
       - Gamel
@@ -484,7 +484,7 @@
 <td><p>擁有<a href="https://zh.wikipedia.org/wiki/游戲" title="wikilink">游戲般的多元化</a>。</p></td>
 <td><p>可與傳説騎士的「Doctor」（<strong><a href="../Page/假面騎士EX-AID.md" title="wikilink">假面騎士EX-AID</a></strong>）組成Best Match 組合。<br />
 此滿裝瓶是EX-AID滿裝瓶被淨化後所分離出來的。<br />
-本作中帕拉德能透過此滿裝瓶與位在另一個世界的永夢通訊，但持續使用的話會消耗帕拉德的體力[11]。</p></td>
+本作中帕拉德能透過此滿裝瓶與位在另一個世界的永夢通訊，但持續使用的話會消耗帕拉德的體力[12]。</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -550,7 +550,7 @@
   - 騎士卡帶聲音 - [影山浩宣](../Page/影山浩宣.md "wikilink")
   - 武藏魂、信長魂、格林魂 - [關智一](../Page/關智一.md "wikilink")
   - 戰極驅動器關連道具聲音 - [平床政治](https://zh.wikipedia.org/wiki/平床政治 "wikilink")
-  - 假面騎士Grease - [武田航平](https://zh.wikipedia.org/wiki/武田航平 "wikilink")\[12\]
+  - 假面騎士Grease - [武田航平](https://zh.wikipedia.org/wiki/武田航平 "wikilink")\[13\]
 
 ## 皮套演出
 
@@ -611,13 +611,14 @@
 
 1.  [12/9（土）公開『仮面ライダー平成ジェネレーションズ FINAL』のティザービジュアル解禁\!\!最後の『平成ジェネレーションズ』で計測不能の 化学反応（ベストマッチ）が起きる\!?](http://characterland.jp/information/mura-17-08-09-001/) - ハイパーホビー公式サイト
 2.  <https://www.youtube.com/watch?v=6dupbFykPU0>
-3.  [仮面ライダー平成ジェネレーションズFINAL最新映像](https://www.youtube.com/watch?v=y1CbwR8RMzg)
-4.  [福士蒼汰ら“レジェンドライダー”豪華復活「仮面ライダー平成ジェネレーションズFINAL」出演決定](https://mdpr.jp/cinema/detail/1718800)
-5.  其中除了在上部聯動劇場版中主演的西銘駿外，其他人皆是睽違已久的再次登台（佐野岳在上部作品《[平成Generations](../Page/假面騎士平成Generations_Dr.Pac-Man對EX-AID&Ghost_with_傳說騎士.md "wikilink")》並未實際參演）。
-6.  帕拉德為追回永夢的力量而前往Build世界兩年，但在EX-AID世界卻只消失一星期而已。
-7.  正確來說應該是新天高。
-8.  永梦因為葛城巧為了阻止最上的阴谋而搶先一步變身而成的Build来到了这个世界（即本作的前傳）將其成分吸取而短暫失去變身能力而並未受到影响
-9.  兩個世界的最上魁星合體
-10. 此複製體在劇情中成為Ankh本人暫時復活的寄宿體。
-11. 因滿裝瓶的成份會與身為崩源體病毒的帕拉德產生反應。
-12. 在本作上映之時並未公佈演員身份，因此演員名單中是以「???」表示。
+3.  事實上本作不僅與《[假面騎士Build](../Page/假面騎士Build.md "wikilink")》和《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》的各自劇情有聯動性關係，還有《[假面騎士Ghost](../Page/假面騎士Ghost.md "wikilink")》的外傳《[Ghost RE:BIRTH](../Page/Ghost_RE:BIRTH.md "wikilink")》、《[假面騎士Fourze](../Page/假面騎士Fourze.md "wikilink")》和《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》的聯動劇場版《[假面骑士×假面骑士 Wizard & Fourze MOVIE大战Ultimatum](../Page/假面骑士×假面骑士_Wizard_&_Fourze_MOVIE大战Ultimatum.md "wikilink")》Fourze篇也有著聯動性關係
+4.  [仮面ライダー平成ジェネレーションズFINAL最新映像](https://www.youtube.com/watch?v=y1CbwR8RMzg)
+5.  [福士蒼汰ら“レジェンドライダー”豪華復活「仮面ライダー平成ジェネレーションズFINAL」出演決定](https://mdpr.jp/cinema/detail/1718800)
+6.  其中除了在上部聯動劇場版中主演的西銘駿外，其他人皆是睽違已久的再次登台（佐野岳在上部作品《[平成Generations](../Page/假面騎士平成Generations_Dr.Pac-Man對EX-AID&Ghost_with_傳說騎士.md "wikilink")》並未實際參演）。
+7.  帕拉德為追回永夢的力量而前往Build世界兩年，但在EX-AID世界卻只消失一星期而已。
+8.  正確來說應該是新天高。
+9.  永梦因為葛城巧為了阻止最上的阴谋而搶先一步變身而成的Build来到了这个世界（即本作的前傳）將其成分吸取而短暫失去變身能力而並未受到影响
+10. 兩個世界的最上魁星合體
+11. 此複製體在劇情中成為Ankh本人暫時復活的寄宿體。
+12. 因滿裝瓶的成份會與身為崩源體病毒的帕拉德產生反應。
+13. 在本作上映之時並未公佈演員身份，因此演員名單中是以「???」表示。

@@ -597,7 +597,7 @@ A區與B區之間的轉角（東南角）是服務台與投幣式置物櫃，與
 ## 外部連結
 
   - [Busta新宿官方網站](http://shinjuku-busterminal.co.jp/)
-  - [東京國道事務所／都市再生事業／新宿站南口地區基盤整備事業](http://www.ktr.mlit.go.jp/toukoku/saisei/shinjuku/index.htm)
+  - [東京國道事務所／都市再生事業／新宿站南口地區基盤整備事業](https://web.archive.org/web/20160114030712/http://www.ktr.mlit.go.jp/toukoku/saisei/shinjuku/index.htm)
 
 [Category:日本客運總站](https://zh.wikipedia.org/wiki/Category:日本客運總站 "wikilink") [Category:東京都交通](https://zh.wikipedia.org/wiki/Category:東京都交通 "wikilink") [Category:千駄谷](https://zh.wikipedia.org/wiki/Category:千駄谷 "wikilink") [Category:新宿](https://zh.wikipedia.org/wiki/Category:新宿 "wikilink") [Category:2016年完工建築物](https://zh.wikipedia.org/wiki/Category:2016年完工建築物 "wikilink")
 

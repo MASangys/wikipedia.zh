@@ -760,12 +760,13 @@ OCN (電視版）</p></td>
 
 ### 大型粉絲見面會
 
-| 日期            | 見面會名稱                               | 舉行地點                                             |
-| ------------- | ----------------------------------- | ------------------------------------------------ |
-| 2017年11月11日   | WEKI MEKI 1st Meet\&Greet in TAIPEI | [國立臺灣大學綜合體育館](../Page/國立臺灣大學綜合體育館.md "wikilink") |
-| 2017年12月8－10日 | \[WEME\] Album Promotion in Japan   | 東京都渋谷区神南                                         |
-| 2019年1月13－14日 | Wekimeki 1st SINGLE 『KISS, KICKS』   |                                                  |
-|               |                                     |                                                  |
+| 日期            | 見面會名稱                                    | 舉行地點                                             |
+| ------------- | ---------------------------------------- | ------------------------------------------------ |
+| 2017年11月11日   | WEKI MEKI 1st Meet\&Greet in TAIPEI      | [國立臺灣大學綜合體育館](../Page/國立臺灣大學綜合體育館.md "wikilink") |
+| 2017年12月8－10日 | \[WEME\] Album Promotion in Japan        | 東京都渋谷区神南                                         |
+| 2019年1月13－14日 | Wekimeki 1st SINGLE 『KISS, KICKS』        |                                                  |
+| 2019年11月2日    | Weki Meki 2nd Wonderful Moment in Taipei | ATT Show Box 大直館                                 |
+|               |                                          |                                                  |
 
 ## 獎項
 

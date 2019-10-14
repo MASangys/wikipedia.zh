@@ -3520,7 +3520,7 @@
 <td></td>
 <td><p>娛樂新聞/娛樂訪談/潮流資訊</p></td>
 <td></td>
-<td><p>主持：、、、<a href="https://zh.wikipedia.org/wiki/廖嘉輝" title="wikilink">廖嘉輝</a>、<a href="https://zh.wikipedia.org/wiki/朱晉傑" title="wikilink">朱晉傑</a>、<a href="https://zh.wikipedia.org/wiki/文桂琪" title="wikilink">文桂琪</a>、<a href="https://zh.wikipedia.org/wiki/王凌燕" title="wikilink">王凌燕</a>、<a href="../Page/陳嘉容.md" title="wikilink">陳嘉容</a>、</p></td>
+<td><p>主持：、、、<a href="https://zh.wikipedia.org/wiki/廖嘉輝" title="wikilink">廖嘉輝</a>、<a href="https://zh.wikipedia.org/wiki/朱晉傑" title="wikilink">朱晉傑</a>、、<a href="https://zh.wikipedia.org/wiki/文桂琪" title="wikilink">文桂琪</a>、<a href="https://zh.wikipedia.org/wiki/王凌燕" title="wikilink">王凌燕</a>、<a href="../Page/陳嘉容.md" title="wikilink">陳嘉容</a>、</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -3731,7 +3731,7 @@
 <td><p>13</p></td>
 <td><p>玄學</p></td>
 <td></td>
-<td><p>主持：-{<a href="https://zh.wikipedia.org/wiki/皓云師傅" title="wikilink">皓云師傅</a>}-、<a href="https://zh.wikipedia.org/wiki/盤菜瑩子" title="wikilink">盤菜瑩子</a>、、<a href="../Page/黃冠斌.md" title="wikilink">黃冠斌</a></p></td>
+<td><p>主持：-{<a href="https://zh.wikipedia.org/wiki/皓云師傅" title="wikilink">皓云師傅</a>}-、<a href="../Page/利君牙.md" title="wikilink">利君牙</a>、<a href="https://zh.wikipedia.org/wiki/盤菜瑩子" title="wikilink">盤菜瑩子</a>、、<a href="../Page/黃冠斌.md" title="wikilink">黃冠斌</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -3776,7 +3776,7 @@
 <td><p>12</p></td>
 <td><p>旅遊</p></td>
 <td></td>
-<td><p>主持：<a href="https://zh.wikipedia.org/wiki/黃可盈" title="wikilink">黃可盈</a></p></td>
+<td><p>主持：<a href="../Page/黃可盈.md" title="wikilink">黃可盈</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -3845,15 +3845,6 @@
 </tr>
 <tr class="even">
 <td><p>9月29日</p></td>
-<td><p>1</p></td>
-<td><p>旅遊</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大分·旅遊時光" title="wikilink">大分·旅遊時光</a></p></td>
-<td><p>主持：<a href="../Page/和泉素行.md" title="wikilink">和泉素行</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>9月29日</p></td>
 <td></td>
 <td><p>兒童</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/小記者大人物" title="wikilink">小記者大人物</a></p></td>
@@ -3861,12 +3852,21 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>9月30日</p></td>
 <td></td>
 <td><p>真人秀</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Good_Night_Show_全民造星" title="wikilink">全民造星II</a></p></td>
 <td><p>主持：</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>10月6日</p></td>
+<td><p>1</p></td>
+<td><p>旅遊</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大分·旅遊時光" title="wikilink">大分·旅遊時光</a></p></td>
+<td><p>主持：<a href="../Page/和泉素行.md" title="wikilink">和泉素行</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -3909,9 +3909,9 @@
 <tr class="odd">
 <td><p>10月27日</p></td>
 <td></td>
-<td><p>綜藝</p></td>
+<td><p>音樂</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Chill_Club" title="wikilink">Chill Club</a></p></td>
-<td><p>主持：</p></td>
+<td><p>主持：<a href="../Page/湯寶如.md" title="wikilink">湯寶如</a>、<a href="../Page/彭家麗.md" title="wikilink">彭家麗</a>、<a href="../Page/駱振偉.md" title="wikilink">駱振偉</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -3944,6 +3944,7 @@
 | ---- | -- | ----- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ---- | -------------------------------- |
 | 即將播映 |    | 旅遊    | [404不存在的國落](../Page/404不存在的國落.md "wikilink")2                    | 主持：                                                                                                                       |      |                                  |
 | 拍攝完成 | 15 | 靈異    | [入住請敲門](../Page/入住請敲門.md "wikilink")4                            | 主持：[莫竣名](../Page/莫竣名.md "wikilink")、、[邱士縉](https://zh.wikipedia.org/wiki/邱士縉 "wikilink")、[盧瀚霆](../Page/盧瀚霆.md "wikilink") |      |                                  |
+| 拍攝中  |    | 旅遊    |                                                                  | 主持：[陳俞希](../Page/陳俞希.md "wikilink")、、、                                                                                    |      |                                  |
 | 計劃中  |    | 比賽/靈異 | [總有一瓣喺左近 全民撞鬼](https://zh.wikipedia.org/wiki/總有一瓣喺左近 "wikilink") | 主持：[潘紹聰](../Page/潘紹聰.md "wikilink")、[岑樂怡](../Page/岑樂怡.md "wikilink")、                                                     |      | [晚吹](../Page/晚吹.md "wikilink")系列 |
 | 計劃中  |    | 旅遊    | [C9旅行團](https://zh.wikipedia.org/wiki/C9旅行團 "wikilink")          | 主持：[麥長青](../Page/麥長青.md "wikilink")、[金剛](../Page/金剛_\(藝人\).md "wikilink")、                                                |      |                                  |
 | 計劃中  |    | 真人秀   | [寂寞是幫兇](https://zh.wikipedia.org/wiki/寂寞是幫兇 "wikilink")          | 主持：、                                                                                                                      |      |                                  |

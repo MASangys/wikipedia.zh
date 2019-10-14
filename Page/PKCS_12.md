@@ -16,13 +16,13 @@ PKCS \#12 是微软 PFX 文件的替代者；\[6\] 然而，"PKCS \#12 文件" �
 
 ## 通常用法
 
-完整的 PKCS \#12 标准非常复杂。它使得大量的复杂对象（例如[PKCS \#8](https://zh.wikipedia.org/wiki/wikipedia:PKCS_8 "wikilink")）可以深层次地嵌套。但在实际应用中通常只用来存储一个私钥以及与之有关的证书链。
+完整的 PKCS \#12 标准非常复杂。它使得大量的复杂对象（例如[PKCS \#12](https://zh.wikipedia.org/wiki/wikipedia:PKCS_12 "wikilink")）可以深层次地嵌套。但在实际应用中通常只用来存储一个私钥以及与之有关的证书链。
 
-PKCS \#12 文件通常使用 [OpenSSL](../Page/OpenSSL.md "wikilink") 来创建，OpenSSL 只支持在命令行界面使用单个私钥。在 Java 8 之后，可以使用 Java 密钥工具创建多个条目，但这很有可能不被其他系统所兼容。下一代的 [KMIP](https://zh.wikipedia.org/wiki/KMIP "wikilink") 也将可以直接用来创建 PKCS \#12 文件。
+PKCS \#12 文件通常使用 [OpenSSL](../Page/OpenSSL.md "wikilink") 来创建，OpenSSL 只支持在命令行界面使用单个私钥。在 Java 8 之后，可以使用 Java 密钥工具创建多个条目，但这很有可能不被其他系统所兼容。下一代的 [KMIPIP](https://zh.wikipedia.org/wiki/KMIP "wikilink")\]\] 也将可以直接用来创建 PKCS \#12 文件。
 
-对于 PKCS \#12 来说，一个更简单的替代方案是使用 PEM 格式，它仅仅列出证书，可能还有与之有关的私钥，以 [Base 64](../Page/Base64.md "wikilink") 字符串的形式存储于一个纯文本文件中。
+对于 PKCS \#12 来说，一个更简单的替代方案是使用 PEM 格式，它仅仅列出证书，可能还有与之有关的私钥，以 [Base 64](https://zh.wikipedia.org/wiki/Base32 "wikilink") 字符串的形式存储于一个纯文本文件中。
 
-也可以使用 [GnuTLS](../Page/GnuTLS.md "wikilink") 证书工具（参数 **--to-pk12**）来创建包含证书、密钥、CA认证证书的 PKCS \#12 文件。然而，要注意与其他软件的可交换性。如果源是通过 Base 64 处理过的字符串，则输出也同样应该使用 Base 64。 
+也可以使用 [GnuTLS](../Page/GnuTLS.md "wikilink") 证书工具（参数 [to PSK \#11](https://zh.wikipedia.org/wiki/to_PSK_#11 "wikilink")\]来创建包含证书、密钥、CA认证证书的 PKCS \#12 文件。然而，要注意与其他软件的可交换性。如果源是通过 Base 64 处理过的字符串，则输出也同样应该使用 Base 64。 
 
 ## 参考文献
 

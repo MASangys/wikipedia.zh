@@ -4,7 +4,7 @@
 
 ### 星期一至五
 
-#### 15:30 - 16:00
+#### 15:30 - 16:00（旧时段） → 15:00 - 15:30（新时段）
 
 <table style="width:376%;">
 <colgroup>
@@ -39,10 +39,19 @@
 <td><p><a href="https://tv.toggle.sg/en/channel8/shows/jalan-jalan-tif/info">网页</a></p></td>
 <td><p>与<a href="../Page/新加坡.md" title="wikilink">新加坡</a><a href="https://zh.wikipedia.org/wiki/新传媒8频道" title="wikilink">新传媒8频道同日播出</a></p></td>
 </tr>
+<tr class="even">
+<td><p>5月28日</p></td>
+<td><p>130</p></td>
+<td><p>新加坡</p></td>
+<td><p>老友萬歲</p></td>
+<td><p><a href="../Page/瑞恩.md" title="wikilink">瑞恩</a>、<a href="../Page/陳鳳玲.md" title="wikilink">陳鳳玲</a>、<a href="../Page/陳莉萍.md" title="wikilink">陳莉萍</a>、<a href="../Page/陳漢瑋.md" title="wikilink">陳漢瑋</a>、<a href="https://zh.wikipedia.org/wiki/徐彬" title="wikilink">徐彬</a>、<a href="https://zh.wikipedia.org/wiki/黃振隆" title="wikilink">黃振隆</a>、羅美儀、黃喧婷、吳勁威、劉謙益、陳建彬、<a href="../Page/黃俊雄.md" title="wikilink">黃俊雄</a>、<a href="../Page/李司棋.md" title="wikilink">李司棋</a></p></td>
+<td><p><a href="https://tv.toggle.sg/zh/channel8/shows/old-is-gold-tif/info">网页</a></p></td>
+<td><p>与<a href="../Page/新加坡.md" title="wikilink">新加坡</a><a href="https://zh.wikipedia.org/wiki/新传媒8频道" title="wikilink">新传媒8频道同日播出</a></p></td>
+</tr>
 </tbody>
 </table>
 
-#### 16:00 - 17:00
+#### 16:00 - 17:00（旧时段） → 16:30 - 17:30（新时段）
 
 <table style="width:376%;">
 <colgroup>
@@ -105,15 +114,27 @@
 <td><p><a href="https://tv.toggle.sg/en/shows/say-cheese-tif/info">网页</a></p></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>9月3日</p></td>
+<td><p>25</p></td>
+<td><p>新加坡</p></td>
+<td><p>知星人</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳泓宇" title="wikilink">陳泓宇</a>、<a href="https://zh.wikipedia.org/wiki/黃思恬" title="wikilink">黃思恬</a>、<a href="../Page/馮偉衷.md" title="wikilink">馮偉衷</a>、<a href="../Page/蔡琦慧.md" title="wikilink">蔡琦慧</a></p></td>
+<td><p><a href="https://tv.toggle.sg/en/shows/my/my-friends-from-afar-tif">网页</a></p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
 #### 19:00 - 20:00
 
-| 日期    | 集數 | 來源 | 劇名                                   | 演員                                                                                                                                                 | 官網                                                   | 備註 |
-| ----- | -- | -- | ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | -- |
-| 2月20日 | 45 | 中国 | [月嫂先生](../Page/月嫂先生.md "wikilink")   | [吴奇隆](https://zh.wikipedia.org/wiki/吴奇隆 "wikilink")、[李小冉](../Page/李小冉.md "wikilink")                                                               | [网页](https://www.weibo.com/yuesaoxiansheng?is_all=1) |    |
-| 4月24日 | 52 | 中国 | [幸福一家人](../Page/幸福一家人.md "wikilink") | [翟天临](../Page/翟天临.md "wikilink")、[董洁](../Page/董洁.md "wikilink")、[李立群](../Page/李立群.md "wikilink")、[邱泽](https://zh.wikipedia.org/wiki/邱泽 "wikilink") | [网页](https://www.weibo.com/u/6813970956?is_hot=1)    |    |
+| 日期    | 集數 | 來源 | 劇名                                   | 演員                                                                                                                                                                                                                          | 官網                                                   | 備註 |
+| ----- | -- | -- | ------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | -- |
+| 2月20日 | 45 | 中国 | [月嫂先生](../Page/月嫂先生.md "wikilink")   | [吴奇隆](https://zh.wikipedia.org/wiki/吴奇隆 "wikilink")、[李小冉](../Page/李小冉.md "wikilink")                                                                                                                                        | [网页](https://www.weibo.com/yuesaoxiansheng?is_all=1) |    |
+| 4月24日 | 52 | 中国 | [幸福一家人](../Page/幸福一家人.md "wikilink") | [翟天临](../Page/翟天临.md "wikilink")、[董洁](../Page/董洁.md "wikilink")、[李立群](../Page/李立群.md "wikilink")、[邱泽](https://zh.wikipedia.org/wiki/邱泽 "wikilink")                                                                          | [网页](https://www.weibo.com/u/6813970956?is_hot=1)    |    |
+| 7月4日  | 44 | 中国 | [外科风云](../Page/外科风云.md "wikilink")   | [靳东](https://zh.wikipedia.org/wiki/靳东 "wikilink")、[白百何](../Page/白百何.md "wikilink")、[李佳航](../Page/李佳航.md "wikilink")、[蓝盈莹](https://zh.wikipedia.org/wiki/蓝盈莹 "wikilink")、[刘奕君](https://zh.wikipedia.org/wiki/刘奕君 "wikilink") | [网页](https://www.weibo.com/u/5766683610?is_all=1)    |    |
+| 9月5日  | 20 | 台湾 | [最佳利益](../Page/最佳利益.md "wikilink")   | [天心](https://zh.wikipedia.org/wiki/天心 "wikilink")、[锺承翰](https://zh.wikipedia.org/wiki/锺承翰 "wikilink")、[温昇豪](https://zh.wikipedia.org/wiki/温昇豪 "wikilink")                                                                   | [网页](https://event.cts.com.tw/bestinterest/)         |    |
+| 10月3日 | 50 | 中国 | [猎毒人](../Page/猎毒人.md "wikilink")     | [于和伟](../Page/于和伟.md "wikilink")、[张丹峰](https://zh.wikipedia.org/wiki/张丹峰 "wikilink")、[侯梦莎](../Page/侯梦莎.md "wikilink")、[傅程鹏](https://zh.wikipedia.org/wiki/傅程鹏 "wikilink")、[徐洪浩](../Page/徐洪浩.md "wikilink")                  | [网页](https://www.weibo.com/u/6025863156)             |    |
 
 #### 20:30 - 21:30
 
@@ -147,7 +168,7 @@
 <td><p><a href="../Page/范文芳.md" title="wikilink">范文芳</a>、姚伟涛、罗美仪、何盈莹、<br />
 <a href="../Page/李博翔.md" title="wikilink">李博翔</a>、洪士雅</p></td>
 <td><p><a href="https://tv.toggle.sg/en/channel8/shows/walk-with-me-tif/info">网页</a></p></td>
-<td><p>两集联播</p></td>
+<td><p>与<a href="../Page/新加坡.md" title="wikilink">新加坡</a><a href="https://zh.wikipedia.org/wiki/新传媒8频道" title="wikilink">新传媒8频道同日播出</a></p></td>
 </tr>
 <tr class="even">
 <td><p>3月6日</p></td>
@@ -183,7 +204,7 @@
 <td><p>好世谋</p></td>
 <td><p>朱厚任、陈丽萍、陈罗密欧、沈琳辰、雅慧、黄振隆、陈伟恩、刘谦益、黎沸辉、许美珍</p></td>
 <td><p><a href="https://tv.toggle.sg/en/channel8/shows/how-are-you/info">网页</a></p></td>
-<td><p>两集联播</p></td>
+<td><p>与<a href="../Page/新加坡.md" title="wikilink">新加坡</a><a href="https://zh.wikipedia.org/wiki/新传媒8频道" title="wikilink">新传媒8频道同日播出</a></p></td>
 </tr>
 <tr class="even">
 <td><p>4月25日</p></td>
@@ -192,7 +213,70 @@
 <td><p>下一站，遇見</p></td>
 <td><p>黃思恬、黃俊雄、徐彬、方偉傑、何盈瑩、陳楚寰</p></td>
 <td><p><a href="https://tv.toggle.sg/en/channel8/shows/hello-miss-driver-tif/info">网页</a></p></td>
-<td><p>与<a href="../Page/新加坡.md" title="wikilink">新加坡</a><a href="https://zh.wikipedia.org/wiki/新传媒8频道" title="wikilink">新传媒8频道</a> 两集联播</p></td>
+<td><p>与<a href="../Page/新加坡.md" title="wikilink">新加坡</a><a href="https://zh.wikipedia.org/wiki/新传媒8频道" title="wikilink">新传媒8频道同日播出</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>5月23日</p></td>
+<td><p>22</p></td>
+<td><p>新加坡</p></td>
+<td><p>我的左鄰右里</p></td>
+<td><p><a href="../Page/方展發.md" title="wikilink">方展發</a>、<a href="../Page/陳鳳玲.md" title="wikilink">陳鳳玲</a>、姚彣隆、<a href="../Page/鐘琴.md" title="wikilink">鐘琴</a></p></td>
+<td><p><a href="https://video.toggle.sg/en/series/dear-neighbours/ep1/796451">网页</a></p></td>
+<td><p>与<a href="../Page/新加坡.md" title="wikilink">新加坡</a><a href="https://zh.wikipedia.org/wiki/新传媒8频道" title="wikilink">新传媒8频道同日播出</a></p></td>
+</tr>
+<tr class="even">
+<td><p>6月24日</p></td>
+<td><p>20</p></td>
+<td><p>新加坡</p></td>
+<td><p>一切從昏睡開始</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳泓宇" title="wikilink">陳泓宇</a>、<a href="../Page/林湘萍.md" title="wikilink">林湘萍</a>、<a href="../Page/王禄江.md" title="wikilink">王禄江</a>、<a href="../Page/雅慧.md" title="wikilink">雅慧</a>、劉謙益、洪慧芳]]</p></td>
+<td><p><a href="https://video.toggle.sg/en/series/while-you-were-away/ep1/805630">网页</a></p></td>
+<td><p>与<a href="../Page/新加坡.md" title="wikilink">新加坡</a><a href="https://zh.wikipedia.org/wiki/新传媒8频道" title="wikilink">新传媒8频道同日播出</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>7月22日</p></td>
+<td><p>25</p></td>
+<td><p>新加坡</p></td>
+<td><p>我的萬里挑一</p></td>
+<td><p><a href="../Page/王冠逸.md" title="wikilink">王冠逸</a>、<a href="https://zh.wikipedia.org/wiki/黃思恬" title="wikilink">黃思恬</a></p></td>
+<td><p><a href="https://tv.toggle.sg/en/channel8/shows/my-one-in-a-million-tif/info">网页</a></p></td>
+<td><p>与<a href="../Page/新加坡.md" title="wikilink">新加坡</a><a href="https://zh.wikipedia.org/wiki/新传媒8频道" title="wikilink">新传媒8频道同日播出</a></p></td>
+</tr>
+<tr class="even">
+<td><p>8月26日</p></td>
+<td><p>18</p></td>
+<td><p>新加坡</p></td>
+<td><p>神奇之吻</p></td>
+<td><p>周崇慶、<a href="../Page/王宇婕.md" title="wikilink">王宇婕</a>、宗子傑、<a href="../Page/陳芷尤.md" title="wikilink">陳芷尤</a></p></td>
+<td><p><a href="https://tv.toggle.sg/en/shows/w/wonder-kiss-tif/info">网页</a></p></td>
+<td><p>两集连播</p></td>
+</tr>
+<tr class="odd">
+<td><p>9月6日</p></td>
+<td><p>10</p></td>
+<td><p>新加坡</p></td>
+<td><p>流氓經紀2</p></td>
+<td><p>田銘耀、姚懿珊</p></td>
+<td><p><a href="https://video.toggle.sg/en/series/my-agent-is-a-hero-s2-2/ep1/802465">网页</a></p></td>
+<td><p>两集连播</p></td>
+</tr>
+<tr class="even">
+<td><p>9月13日</p></td>
+<td><p>12</p></td>
+<td><p>新加坡</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大話精" title="wikilink">大話精</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳欣淇" title="wikilink">陳欣淇</a>、<a href="../Page/陳芷尤.md" title="wikilink">陳芷尤</a>、<a href="../Page/馬昂.md" title="wikilink">馬昂</a>、方偉傑</p></td>
+<td><p><a href="https://tv.toggle.sg/en/tv/shows/tr/true-lies-tif/info">网页</a></p></td>
+<td><p>两集连播</p></td>
+</tr>
+<tr class="odd">
+<td><p>9月23日</p></td>
+<td><p>20</p></td>
+<td><p>新加坡</p></td>
+<td><p>警徽天職5之海岸衛隊</p></td>
+<td><p><a href="../Page/方展發.md" title="wikilink">方展發</a>、<a href="../Page/林慧玲.md" title="wikilink">林慧玲</a>、<a href="../Page/楊一展.md" title="wikilink">楊一展</a>、羅美儀</p></td>
+<td><p><a href="https://video.toggle.sg/en/series/c-l-i-f-s5/ep1/836840">网页</a></p></td>
+<td><p>与<a href="../Page/新加坡.md" title="wikilink">新加坡</a><a href="https://zh.wikipedia.org/wiki/新传媒8频道" title="wikilink">新传媒8频道同日播出</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -331,6 +415,8 @@
 
 ## 参考及连接
 
-  - [Astro AEC 官方网站](http://www.xuan.com.my/channels/aec)
+  - [Astro AEC的Facebook专页](https://web.facebook.com/astroaec/)
+  - [Astro AEC的官方节目表](https://whatson.astro.com.my/channels/astro-aec-hd/182/?cat=variety-entertainment&lang=chinese&stb=306)（英文）
+  - [Astro AEC的官方网站](http://www.xuan.com.my/channels/aec)（已停止更新）
 
 [Category:馬來西亞電視節目列表](https://zh.wikipedia.org/wiki/Category:馬來西亞電視節目列表 "wikilink")

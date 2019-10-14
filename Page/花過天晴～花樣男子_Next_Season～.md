@@ -363,7 +363,7 @@
 </tr>
 <tr class="even">
 <td><p>道明寺司</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/松本潤" title="wikilink">松本潤</a> [14]<br />
+<td><p><a href="../Page/松本潤.md" title="wikilink">松本潤</a> [14]<br />
 （友情出演)</p></td>
 <td><p><a href="../Page/梁偉德.md" title="wikilink">梁偉德</a></p></td>
 <td><p>《花樣男子》男主角，F4領導人。</p></td>

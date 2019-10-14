@@ -17,7 +17,7 @@
 | [愛情萬歲](https://www.youtube.com/watch?v=45mI3RaNOow)       | 魏如萱   | Hi-Organic        | 陳青琳        | 2015年7月6日  |
 | [離開地球表面](https://www.youtube.com/watch?v=hwe411J3Hbc)     | S.H.E | 劉彥甫               | Nike Chen  | 2015年12月1日 |
 
-## 得獎紀錄
+## 獎項紀錄
 
 <table>
 <thead>

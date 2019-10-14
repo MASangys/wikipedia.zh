@@ -83,9 +83,9 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/松本潤" title="wikilink">松本潤</a><br />
+<td><p><strong><a href="../Page/松本潤.md" title="wikilink">松本潤</a><br />
 《<a href="https://zh.wikipedia.org/wiki/花樣男子_(日本電視劇)" title="wikilink">花樣男子</a>》</strong></p></td>
-<td><p>第一位：<a href="https://zh.wikipedia.org/wiki/松本潤" title="wikilink">松本潤</a>　《<a href="https://zh.wikipedia.org/wiki/花樣男子_(日本電視劇)" title="wikilink">花樣男子</a>》<br />
+<td><p>第一位：<a href="../Page/松本潤.md" title="wikilink">松本潤</a>　《<a href="https://zh.wikipedia.org/wiki/花樣男子_(日本電視劇)" title="wikilink">花樣男子</a>》<br />
 第二位：<a href="../Page/伊藤淳史.md" title="wikilink">伊藤淳史</a>《<a href="../Page/電車男_(電視劇).md" title="wikilink">電車男</a>》<br />
 第三位：<a href="../Page/山下智久.md" title="wikilink">山下智久</a>《<a href="../Page/野豬大改造.md" title="wikilink">野豬大改造</a>》<br />
 第四位：<a href="https://zh.wikipedia.org/wiki/錦戶亮" title="wikilink">錦戶亮</a>　《<a href="../Page/一公升的眼淚_(電視劇).md" title="wikilink">一公升的眼淚</a>》<br />

@@ -445,7 +445,7 @@
 
   - \[<http://programme.tvb.com/drama/chefthreestarschoollunch0002>　《小學-{餐}-女廚神》－無綫電視官方網站\]
 
-[Category:2016年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2016年開播的日本電視劇集 "wikilink") [Category:富士電視台週四連續劇](https://zh.wikipedia.org/wiki/Category:富士電視台週四連續劇 "wikilink") [Category:料理電視劇](https://zh.wikipedia.org/wiki/Category:料理電視劇 "wikilink") [Category:小學背景電視劇](https://zh.wikipedia.org/wiki/Category:小學背景電視劇 "wikilink") [Category:廚師主角題材電視劇](https://zh.wikipedia.org/wiki/Category:廚師主角題材電視劇 "wikilink") [Category:電視台背景作品](https://zh.wikipedia.org/wiki/Category:電視台背景作品 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
+[Category:2016年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2016年開播的日本電視劇集 "wikilink") [Category:富士電視台週四連續劇](https://zh.wikipedia.org/wiki/Category:富士電視台週四連續劇 "wikilink") [Category:飲食題材電視劇](https://zh.wikipedia.org/wiki/Category:飲食題材電視劇 "wikilink") [Category:小學背景電視劇](https://zh.wikipedia.org/wiki/Category:小學背景電視劇 "wikilink") [Category:廚師主角題材電視劇](https://zh.wikipedia.org/wiki/Category:廚師主角題材電視劇 "wikilink") [Category:電視台背景作品](https://zh.wikipedia.org/wiki/Category:電視台背景作品 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
 
 1.
 2.  [天海祐希秋季新戲《Chef\~三星級的營養午餐》挑戰主廚角色](http://big5.soundofhope.org/node/824787)

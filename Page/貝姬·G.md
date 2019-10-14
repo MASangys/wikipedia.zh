@@ -97,6 +97,12 @@
 <td><p>Sara Reyes</p></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>2018</p></td>
+<td><p><em>La voz Argentina</em></p></td>
+<td><p>她自己</p></td>
+<td><p>電視劇</p></td>
+</tr>
 </tbody>
 </table>
 

@@ -270,7 +270,8 @@ Label SJ的成立為[Super Junior成員們與經紀公司商討兩年之結果](
 <td><p><a href="../Page/Super_Junior.md" title="wikilink">Super Junior</a></p></td>
 <td><p>正規九輯</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=VRuLUt-Pz88">收錄曲《Show》</a><br />
-<a href="https://www.youtube.com/watch?v=eM5XiXrBu74">收錄曲《Somebody New》</a></p></td>
+<a href="https://www.youtube.com/watch?v=eM5XiXrBu74">收錄曲《Somebody New》</a><br />
+<a href="https://www.youtube.com/watch?v=iVzFO-1euU8">收錄曲《The Crown》</a></p></td>
 </tr>
 </tbody>
 </table>

@@ -30,7 +30,7 @@ EXY曾是[Medialine娛樂的練習生](https://zh.wikipedia.org/wiki/Medialine�
 <td><p>曲目</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>Gettin' Em - Single</strong></p></td>
+<td><p>1st</p></td>
 <td><p>《Gettin' Em》</p>
 <ul>
 <li>演唱：EXY</li>
@@ -53,7 +53,7 @@ EXY曾是[Medialine娛樂的練習生](https://zh.wikipedia.org/wiki/Medialine�
 <td><p>曲目</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>쓸어버려 - Single</strong></p></td>
+<td><p>1st</p></td>
 <td><p>《쓸어버려》</p>
 <ul>
 <li>主唱：<strong>EXY</strong> &amp; <a href="https://zh.wikipedia.org/wiki/Crucial_Star" title="wikilink">Crucial Star</a></li>
@@ -76,7 +76,7 @@ EXY曾是[Medialine娛樂的練習生](https://zh.wikipedia.org/wiki/Medialine�
 <td><p>曲目</p></td>
 </tr>
 <tr class="even">
-<td><p>STARSHIP PLANET 2015 (스타쉽플래닛)</p></td>
+<td><p>1st</p></td>
 <td><p>《STARSHIP PLANET 2015》</p>
 <ul>
 <li>主唱：<a href="../Page/STARSHIP娛樂.md" title="wikilink">STARSHIP娛樂</a>旗下藝人</li>
@@ -87,7 +87,7 @@ EXY曾是[Medialine娛樂的練習生](https://zh.wikipedia.org/wiki/Medialine�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong>Do Better - Single</strong></p></td>
+<td><p>2nd</p></td>
 <td><p>《Do Better》</p>
 <ul>
 <li>主唱：Y TEEN (<a href="https://zh.wikipedia.org/wiki/MONSTA_X" title="wikilink">MONSTA X</a> &amp; 宇宙少女)</li>
@@ -120,31 +120,160 @@ EXY曾是[Medialine娛樂的練習生](https://zh.wikipedia.org/wiki/Medialine�
 
 ### 綜藝節目
 
-|           |                                                                           |                                                                     |                                                                              |               |
-| --------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ------------- |
-| 年份        | 日期                                                                        | 電視台                                                                 | 節目名稱                                                                         | 備註            |
-| 2016年     | 3月20日                                                                     | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                 | 《[神秘音乐秀：蒙面歌王](https://zh.wikipedia.org/wiki/神秘音乐秀：蒙面歌王 "wikilink")》          | 艺人评审团         |
-| 3月27日     |                                                                           |                                                                     |                                                                              |               |
-| 4月9日      | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")                       | 《白锺元的3大天王》                                                          |                                                                              |               |
-| 4月20日     | 《[Vocal 战争：神的声音](https://zh.wikipedia.org/wiki/Vocal_战争：神的声音 "wikilink")》 |                                                                     |                                                                              |               |
-| 4月27日     |                                                                           |                                                                     |                                                                              |               |
-| 4月29日     | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                       | 《二重唱歌谣祭》                                                            |                                                                              |               |
-| 6月26日     | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                       | 《[神秘音乐秀：蒙面歌王](https://zh.wikipedia.org/wiki/神秘音乐秀：蒙面歌王 "wikilink")》 | 参赛者                                                                          |               |
-| 7月1日      | [Mnet](../Page/Mnet.md "wikilink")                                        | 《[Show Me The Money 5](../Page/Show_Me_The_Money_5.md "wikilink")》  |                                                                              |               |
-| 9月15日     | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                       | 《MBC偶像明星运动会- 中秋特辑》                                                  |                                                                              |               |
-| 2017年     | 2月16日                                                                     | [OnStyle](../Page/OnStyle.md "wikilink")                            | 《[Lipstick Prince](../Page/Lipstick_Prince.md "wikilink")》                   |               |
-| 2018年     | 4月5日                                                                      | K Star                                                              | 《食神之路4》                                                                      | 嘉賓 與多榮 E04    |
-| 12月8日     | MBC every1                                                                | 《今天有話要說》                                                            | 與[所願](../Page/Sowon.md "wikilink")（[GFRIEND](../Page/GFRIEND.md "wikilink")） |               |
-| 2019年     | 2月5日及2月7日                                                                 | VLIVE                                                               | 《會玩的哥哥》                                                                      | 與雪娥、秀斌、多榮共同出演 |
-| 5月14日及21日 | Olive                                                                     | 《One Pick Road》                                                     |                                                                              |               |
-|           |                                                                           |                                                                     |                                                                              |               |
-
-### 固定綜藝
+#### 固定綜藝
 
 |       |                                    |                                                                                   |
 | ----- | ---------------------------------- | --------------------------------------------------------------------------------- |
 | 日期    | 電視台                                | 節目名稱                                                                              |
 | 2015年 | [Mnet](../Page/Mnet.md "wikilink") | [Unpretty Rapstar 2](https://zh.wikipedia.org/wiki/Unpretty_Rapstar_2 "wikilink") |
+
+#### 嘉賓出演
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>年份</p></td>
+<td><p>日期</p></td>
+<td><p>電視台</p></td>
+<td><p>節目名稱</p></td>
+<td><p>備註</p></td>
+</tr>
+<tr class="even">
+<td><p>2016年</p></td>
+<td><p>3月20日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
+<td><p>《<a href="../Page/神秘音樂秀：蒙面歌王.md" title="wikilink">神秘音樂秀：蒙面歌王</a>》</p></td>
+<td><p>藝人評審團</p></td>
+</tr>
+<tr class="odd">
+<td><p>3月27日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>4月9日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SBS" title="wikilink">SBS</a></p></td>
+<td><p>《<a href="../Page/白種元的三大天王.md" title="wikilink">白種元的三大天王</a>》</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>4月20日</p></td>
+<td><p>《<a href="../Page/Vocal_戰爭：神的聲音.md" title="wikilink">Vocal 戰爭：神的聲音</a>》</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>4月27日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>4月29日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/二重唱歌謠祭" title="wikilink">二重唱歌謠祭</a>》</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>6月26日</p></td>
+<td><p>《<a href="../Page/神秘音樂秀：蒙面歌王.md" title="wikilink">神秘音樂秀：蒙面歌王</a>》</p></td>
+<td><p>參賽者</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>7月1日</p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
+<td><p>《<a href="../Page/Show_Me_The_Money_5.md" title="wikilink">Show Me The Money 5</a>》</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2017年</p></td>
+<td><p>2月16日</p></td>
+<td><p><a href="../Page/OnStyle.md" title="wikilink">OnStyle</a></p></td>
+<td><p>《<a href="../Page/Lipstick_Prince.md" title="wikilink">Lipstick Prince</a>》</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2018年</p></td>
+<td><p>4月5日</p></td>
+<td><p>K Star</p></td>
+<td><p>《食神之路4》</p></td>
+<td><p>EP04<br />
+嘉賓，與多榮共同出演</p></td>
+</tr>
+<tr class="even">
+<td><p>12月8日</p></td>
+<td><p>MBC every1</p></td>
+<td><p>《今天有話要說》</p></td>
+<td><p>與<a href="../Page/Sowon.md" title="wikilink">所願</a>（<a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a>）</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年</p></td>
+<td><p>2月5日</p></td>
+<td><p>VLIVE</p></td>
+<td><p>《會玩的哥哥》</p></td>
+<td><p>與雪娥、秀斌、多榮共同出演</p></td>
+</tr>
+<tr class="even">
+<td><p>2月7日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>5月14日</p></td>
+<td><p>Olive</p></td>
+<td><p>《One Pick Road》</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>5月21日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>7月26日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
+<td><p>《<a href="../Page/My_Little_Television_(第二季).md" title="wikilink">My Little Television 2</a>》</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>7月28日</p></td>
+<td><p>《<a href="../Page/神秘音樂秀：蒙面歌王.md" title="wikilink">神秘音樂秀：蒙面歌王</a>》</p></td>
+<td><p>與秀斌共同出演</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>8月2日</p></td>
+<td><p>《<a href="../Page/My_Little_Television_(第二季).md" title="wikilink">My Little Television 2</a>》</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>8月4日</p></td>
+<td><p>《<a href="../Page/神秘音樂秀：蒙面歌王.md" title="wikilink">神秘音樂秀：蒙面歌王</a>》</p></td>
+<td><p>與秀斌共同出演</p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 代言
 

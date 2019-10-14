@@ -4,7 +4,7 @@
 
 \(\ln \left ( \frac{p_{w}(D_{p})}{p^{0}} \right ) = \frac{4M_{w}\sigma_{w}}{RT\rho_{w}D_{p}} - \frac{6n_{s}M_{w}}{\pi\rho_{w}D_{p}^{3}}\)
 
-其中\(p_w\)是[液滴水](../Page/水.md "wikilink")[蒸气压力](../Page/蒸氣壓.md "wikilink")，\(p^0\)是[平坦表面上相应的饱和蒸气压](../Page/平面.md "wikilink")，\(\sigma_w\)是液滴[表面张力](../Page/表面张力.md "wikilink")，\(\rho_w\)是[纯水的](../Page/纯净水.md "wikilink")[密度](../Page/密度.md "wikilink")，\(M_w\)是[溶质的](https://zh.wikipedia.org/wiki/溶质 "wikilink")[摩尔数](../Page/摩尔_\(单位\).md "wikilink")，\(n_s\)是水的[分子量](../Page/分子量.md "wikilink")，\(D_p\)是云滴[直径](../Page/直径.md "wikilink")。
+其中\(p_w\)是[液滴水](../Page/水.md "wikilink")[蒸气压力](../Page/蒸氣壓.md "wikilink")，\(p^0\)是[平坦表面上相应的饱和蒸气压](../Page/平面_\(数学\).md "wikilink")，\(\sigma_w\)是液滴[表面张力](../Page/表面张力.md "wikilink")，\(\rho_w\)是[纯水的](../Page/纯净水.md "wikilink")[密度](../Page/密度.md "wikilink")，\(M_w\)是[溶质的](https://zh.wikipedia.org/wiki/溶质 "wikilink")[摩尔数](../Page/摩尔_\(单位\).md "wikilink")，\(n_s\)是水的[分子量](../Page/分子量.md "wikilink")，\(D_p\)是云滴[直径](../Page/直径.md "wikilink")。
 
 ## Köhler曲线
 

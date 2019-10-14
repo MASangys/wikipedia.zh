@@ -864,7 +864,7 @@ World</a><br />
 <tr class="odd">
 <td><p>2018年</p></td>
 <td><p>1月30日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/KBS_2TV" title="wikilink">KBS 2TV</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a></p></td>
 <td><p>《<a href="../Page/Radio_Romance.md" title="wikilink">Radio Romance</a>》</p></td>
 <td><p>Radio Romance</p></td>
 <td><p>泰一、道英</p></td>
@@ -902,7 +902,7 @@ Drama X</p></td>
 <td><p>2019年</p></td>
 <td><p>3月25日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/湖南衛視" title="wikilink">湖南衛視</a></p></td>
-<td><p>《我們的師父》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/我們的師父" title="wikilink">我們的師父</a>》</p></td>
 <td><p>我們的師父</p></td>
 <td><p>昀昀</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/於曉光" title="wikilink">於曉光</a>、<a href="https://zh.wikipedia.org/wiki/大張偉" title="wikilink">大張偉</a>、<a href="https://zh.wikipedia.org/wiki/劉宇寧" title="wikilink">劉宇寧</a></p></td>
@@ -934,6 +934,15 @@ Drama X</p></td>
 <td><p>德魯納愛情（러브 델루나）</p></td>
 <td><p>泰容</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Punch" title="wikilink">Punch</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>10月1日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a></p></td>
+<td><p>《<a href="../Page/朝鮮浪漫喜劇–綠豆傳.md" title="wikilink">朝鮮浪漫喜劇–綠豆傳</a>》</p></td>
+<td><p>Baby Only You</p></td>
+<td><p>道英、Mark</p></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>

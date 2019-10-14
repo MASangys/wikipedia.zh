@@ -6,7 +6,7 @@
 
 [SAO-GGO_novels_by_Kadokawa_Taiwan_20180101.jpg](https://zh.wikipedia.org/wiki/File:SAO-GGO_novels_by_Kadokawa_Taiwan_20180101.jpg "fig:SAO-GGO_novels_by_Kadokawa_Taiwan_20180101.jpg") 「蓮」是在槍與鋼鐵的世界《Gun Gale Online》一個人盡情遊玩的女性玩家，她最喜歡可愛的東西，全身的裝備也統一都是粉紅色，又在遊戲裡務實地鍛鍊與成長，累積了一身的實力。然後，因為遇到某件事讓蓮發現PK——狩獵玩家的樂趣，就是沉醉在PK當中，最後終於被別人稱為「粉紅色的惡魔」。
 
-如此的蓮，遇到了漂亮又神祕的玩家「Pitohui」，兩人意氣相投，她在Pitohui的建議下，參加了組隊混戰的活動「特攻強襲」。
+如此的蓮，遇到了漂亮又神祕的玩家「Pitohui」，兩人意氣相投，她在Pitohui的建議下，和狙擊手M組成LM參加了組隊混戰的活動SJ「特攻強襲」。蓮原本不想參加SJ2，是在豪志的拜託下為了打敗pitohui和她的隊伍PM4才和不可次郎組成LF參賽的。
 
 ## 登場角色
 
@@ -29,7 +29,7 @@
     外表雖然是個美女，但实际是本性殘暴且有暴力傾向的[抖S](https://zh.wikipedia.org/wiki/抖S "wikilink")，所以經常對男友豪志施虐，但豪志並不在意，兩人算是[虐戀](https://zh.wikipedia.org/wiki/虐戀 "wikilink")。雖然其精神方面不太正常，但還是有一定的[常識和](https://zh.wikipedia.org/wiki/常識 "wikilink")[社會性](https://zh.wikipedia.org/wiki/社會 "wikilink")，並不是那種會在現實世界傷害他人而成為罪犯的人。跟桐人一樣是SAO的封測玩家之一，也很幸運地買到了SAO的正式版，但可惜公測首日當天時有重要的事而無法登入遊戲，在得知SAO變成[死亡](../Page/死亡.md "wikilink")遊戲後，因為錯失了遊玩死亡遊戲的機會，整個人憤怒到發狂，開始詛咒、怨嘆自己甚至出現了[自殘](https://zh.wikipedia.org/wiki/自殘 "wikilink")[傾向](https://zh.wikipedia.org/wiki/傾向 "wikilink")，想阻止她的豪志也被憤怒的她打斷了三根[肋骨](../Page/肋骨.md "wikilink")和[手指](../Page/手指.md "wikilink")[骨頭](https://zh.wikipedia.org/wiki/骨頭 "wikilink")，豪志稱她為SAO的失敗者。
     SAO事件開始之後與豪志兩人過了兩年每天只有在工作和玩虛擬實境遊戲的日子。SAO事件解決後從生還者的情報中得知了遊戲內的PK殺人事件後，再度復發了對死亡遊戲的迷戀，所以決定在SJ2中賭上自己的性命，若輸掉比賽時就結束自己的性命。在SJ2和蓮一戰中被蓮擊敗，蓮刻意提醒了兩人以前的約定（若兩人在對決中輸給蓮的話，兩人就在現實世界見面），最後放棄了結束自己性命的念頭，決定好好活下去。SJ2結束後實現了和蓮的約定，兩人終於在現實世界見面了。
     在SJ2中面對七個小隊的聯軍總共36人，以1人之力完成了屠殺將近30人的壯舉。
-    遊戲中的角色是個身材高挑瘦長、臉頰兩邊各有一個[刺青](../Page/刺青.md "wikilink")的美女。利用現實世界的金錢轉換到遊戲內購買各種稀有槍枝，並以收集所有槍枝為目標。是STR型（筋力）玩家，使其可以輕易使用多種槍枝。SJ2時使用[春田XDM手槍](../Page/春田XDM手槍.md "wikilink")兩把、KTR-09、[雷明登870破門型](../Page/雷明登870泵動式霰彈槍.md "wikilink") 、兩把軍刀、一把名為“村正F9”的光劍等武器。因使用NERveGear來登入遊戲，所以在情绪激動過度時也不能自动登出。
+    遊戲中的角色是個身材高挑瘦長、臉頰兩邊各有一個[刺青](../Page/刺青.md "wikilink")的美女。利用現實世界的金錢轉換到遊戲內購買各種稀有槍枝，並以收集所有槍枝為目標。是STR型（筋力）玩家，使其可以輕易使用多種槍枝。SJ2時使用[春田XDM半自動手槍](../Page/春田XDM半自動手槍.md "wikilink")兩把、KTR-09、[雷明登870破門型](../Page/雷明登870泵動式霰彈槍.md "wikilink") 、兩把軍刀、一把名為“村正F9”的光劍等武器。因使用NERveGear來登入遊戲，所以在情绪激動過度時也不能自动登出。
     Pitohui的這名字取自於一種[林鵙鶲屬](../Page/林鵙鶲屬.md "wikilink")的鳥類[學名](../Page/學名.md "wikilink")，是一種身上有神經性毒素的鳥類。
 
 <!-- end list -->

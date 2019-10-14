@@ -1,4 +1,4 @@
-**朴彩英**（，；）是一名在[韓國發展的](https://zh.wikipedia.org/wiki/韓國 "wikilink")女[歌手](../Page/歌手.md "wikilink")，於[紐西蘭出生](https://zh.wikipedia.org/wiki/紐西蘭 "wikilink")、[澳洲](../Page/澳大利亚.md "wikilink")[墨爾本長大](https://zh.wikipedia.org/wiki/墨爾本 "wikilink")。她以藝名**Rosé**（，）為人熟知，現為[YG娛樂](../Page/YG娛樂.md "wikilink")旗下[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[BLACKPINK](../Page/BLACKPINK.md "wikilink")成員之一，在隊內擔任[歌唱的角色](https://zh.wikipedia.org/wiki/歌唱 "wikilink")\[1\]。
+**朴彩英**（，；）是一名在[韓國發展的](https://zh.wikipedia.org/wiki/韓國 "wikilink")女[歌手](../Page/歌手.md "wikilink")，於[紐西蘭出生](https://zh.wikipedia.org/wiki/紐西蘭 "wikilink")、[澳洲](../Page/澳大利亚.md "wikilink")[墨爾本長大](https://zh.wikipedia.org/wiki/墨爾本 "wikilink")。她以藝名**Rosé**（，）為人熟知，現為[YG娛樂](../Page/YG娛樂.md "wikilink")旗下[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[BLACKPINK](../Page/BLACKPINK.md "wikilink")成員之一，在隊內擔任[主唱及](https://zh.wikipedia.org/wiki/主唱 "wikilink")[領舞的角色](https://zh.wikipedia.org/wiki/領舞 "wikilink")\[1\]。
 
 ## 早年生活及教育
 

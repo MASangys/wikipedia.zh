@@ -12,7 +12,7 @@
 
 ### 软件
 
-这款手机搭载了[Android](../Page/Android.md "wikilink") Nougat（Android 7.1.1）操作系统，而已可更新至Android Oreo（Android 8.1）。\[7\]
+这款手机搭载了[Android](../Page/Android.md "wikilink") Nougat（Android 7.1.1）操作系统，而已可更新至Android Pie（Android 9）。\[7\]
 
 ## 参考资料
 

@@ -2,7 +2,7 @@
 
 《太阳的假面》的情節設定於《[伊蘇II](https://zh.wikipedia.org/wiki/伊蘇II "wikilink")》結尾後，主人公亞特魯從海邊撿到了請求解救塞爾塞塔的漂流瓶後，前往塞爾塞塔冒險的故事。遊戲更深入地解釋了系列前兩作的世界觀。在玩法上，遊戲從《[伊蘇III](https://zh.wikipedia.org/wiki/伊蘇III "wikilink")》的橫向卷軸畫面回歸前兩作的俯視地圖，但也沿用了《伊蘇III》新增的戒指系統設定。
 
-[太東](../Page/太東.md "wikilink")在2005年推出PlayStation 2重製版，採用了新系統並重新編排了情節。Falcom在2012年推出了自己制作的新作《[伊苏 塞尔塞塔的树海](https://zh.wikipedia.org/wiki/伊苏_塞尔塞塔的树海 "wikilink")》。
+[太東](../Page/太東.md "wikilink")在2005年推出PlayStation 2重製版，採用了新系統並重新編排了情節。Falcom在2012年推出了自己制作的新作《[伊苏 塞尔塞塔的树海](../Page/伊苏_塞尔塞塔的树海.md "wikilink")》。
 
 ## 玩法
 

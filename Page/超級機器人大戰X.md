@@ -1,4 +1,4 @@
-為[南夢宮萬代遊戲以](https://zh.wikipedia.org/wiki/南夢宮萬代遊戲 "wikilink")[萬普](../Page/萬普.md "wikilink")名義發售的[超級機器人大戰系列](../Page/超級機器人大戰系列.md "wikilink")遊戲。簡稱「機戰X」「SRWX」。本作繼上個作品《[超級機器人大戰V](../Page/超級機器人大戰V.md "wikilink")》後再度推出亞洲向版本，分別有繁體中文版、韓文版及英文版。
+為[萬代南夢宮娛樂發售的](https://zh.wikipedia.org/wiki/萬代南夢宮娛樂 "wikilink")[超級機器人大戰系列](../Page/超級機器人大戰系列.md "wikilink")遊戲。簡稱「機戰X」「SRWX」。本作繼上個作品《[超級機器人大戰V](../Page/超級機器人大戰V.md "wikilink")》後再度推出亞洲向版本，分別有繁體中文版、韓文版及英文版。
 
 本作宣傳詞為「戰神們的命運，將在全新世界交會（X-cross-）」
 

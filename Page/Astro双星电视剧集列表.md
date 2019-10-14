@@ -151,15 +151,130 @@
 <td><p><a href="../Page/听雪楼.md" title="wikilink">听雪楼</a></p></td>
 <td><p><a href="../Page/秦俊杰.md" title="wikilink">秦俊杰</a>、<a href="../Page/袁冰妍.md" title="wikilink">袁冰妍</a></p></td>
 <td><p><a href="https://www.weibo.com/u/6091343896">网站</a></p></td>
-<td><p>星期一至五 18:00 - 19:00</p></td>
+<td><p>星期一至五 18:00 - 19:00<br />
+5月25日起改为每晚播出。</p></td>
 </tr>
 <tr class="odd">
-<td><p>5月21日</p></td>
-<td><p>50</p></td>
-<td><p><a href="../Page/逆袭之星途璀璨.md" title="wikilink">逆袭之星途璀璨</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/普提查·克瑟辛" title="wikilink">普提查·克瑟辛</a>、<a href="../Page/宋轶.md" title="wikilink">宋轶</a>、<a href="https://zh.wikipedia.org/wiki/种丹妮" title="wikilink">种丹妮</a>、<a href="../Page/彦希.md" title="wikilink">彦希</a></p></td>
-<td><p><a href="https://www.weibo.com/u/6036221103">网站</a></p></td>
-<td><p>星期一至五 17:00 - 18:00</p></td>
+<td><p>4月27日</p></td>
+<td><p>24</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/如果爱，重来" title="wikilink">如果爱，重来</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/张书豪" title="wikilink">张书豪</a>、<a href="../Page/柯佳嬿.md" title="wikilink">柯佳嬿</a>、<a href="https://zh.wikipedia.org/wiki/吴岳擎" title="wikilink">吴岳擎</a></p></td>
+<td><p><a href="https://web.facebook.com/iottdejavu/">网站</a></p></td>
+<td><p>星期六、日 17:00 - 18:00</p></td>
+</tr>
+<tr class="even">
+<td><p>5月27日</p></td>
+<td><p>48</p></td>
+<td><p><a href="../Page/我的真朋友.md" title="wikilink">我的真朋友</a></p></td>
+<td><p><a href="../Page/Angelababy.md" title="wikilink">Angelababy</a>、<a href="../Page/邓伦.md" title="wikilink">邓伦</a>、<a href="https://zh.wikipedia.org/wiki/朱一龍" title="wikilink">朱一龍</a>、<a href="https://zh.wikipedia.org/wiki/許娣" title="wikilink">許娣</a></p></td>
+<td><p><a href="https://www.weibo.com/u/6530532954?is_hot=1">网站</a></p></td>
+<td><p>星期一至五 17:00 - 18:00<br />
+7月15日起改为每日播出</p></td>
+</tr>
+<tr class="odd">
+<td><p>6月11日</p></td>
+<td><p>28</p></td>
+<td><p><a href="../Page/七日生.md" title="wikilink">七日生</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李晨" title="wikilink">李晨</a>、<a href="../Page/王千源.md" title="wikilink">王千源</a>、<a href="../Page/杨采钰.md" title="wikilink">杨采钰</a></p></td>
+<td><p><a href="https://www.weibo.com/u/6556311181">网站</a></p></td>
+<td><p>每晚 19:00 - 20:00</p></td>
+</tr>
+<tr class="even">
+<td><p>6月11日</p></td>
+<td><p>20</p></td>
+<td><p><a href="../Page/前男友不是人.md" title="wikilink">前男友不是人</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/杨丞琳" title="wikilink">杨丞琳</a>、<a href="https://zh.wikipedia.org/wiki/蓝正龙" title="wikilink">蓝正龙</a>、<a href="../Page/路斯明.md" title="wikilink">路斯明</a>、<a href="../Page/李杏.md" title="wikilink">李杏</a></p></td>
+<td><p><a href="https://www.ttv.com.tw/drama18/TheExMan/index.asp">网站</a></p></td>
+<td><p>每晚 20:00 - 21:00</p></td>
+</tr>
+<tr class="odd">
+<td><p>7月1日</p></td>
+<td><p>48</p></td>
+<td><p><a href="../Page/长安十二时辰.md" title="wikilink">长安十二时辰</a></p></td>
+<td><p><a href="../Page/雷佳音.md" title="wikilink">雷佳音</a>、<a href="../Page/易烊千玺.md" title="wikilink">易烊千玺</a>、<a href="../Page/周一围.md" title="wikilink">周一围</a>、<a href="../Page/芦芳生.md" title="wikilink">芦芳生</a>、<a href="../Page/热依扎.md" title="wikilink">热依扎</a>、<a href="../Page/韩童生.md" title="wikilink">韩童生</a>、<a href="../Page/徐璐.md" title="wikilink">徐璐</a></p></td>
+<td><p><a href="https://www.weibo.com/u/6217621742">网站</a></p></td>
+<td><p>每晚 20:00 - 21:00</p></td>
+</tr>
+<tr class="even">
+<td><p>7月9日</p></td>
+<td><p>43</p></td>
+<td><p>神犬小七3</p></td>
+<td><p>小七、<a href="https://zh.wikipedia.org/wiki/阿旺" title="wikilink">阿旺</a>、<a href="../Page/姜潮.md" title="wikilink">姜潮</a>、<a href="../Page/宋妍霏.md" title="wikilink">宋妍霏</a>、<a href="https://zh.wikipedia.org/wiki/徐可" title="wikilink">徐可</a>、<a href="https://zh.wikipedia.org/wiki/王煜" title="wikilink">王煜</a>、<a href="https://zh.wikipedia.org/wiki/王洋" title="wikilink">王洋</a></p></td>
+<td><p><a href="https://www.weibo.com/dsjshenquanxiaoqi">网站</a></p></td>
+<td><p>每晚 18:00 - 19:00</p></td>
+</tr>
+<tr class="odd">
+<td><p>7月12日</p></td>
+<td><p>41</p></td>
+<td><p><a href="../Page/亲爱的，热爱的.md" title="wikilink">亲爱的，热爱的</a></p></td>
+<td><p><a href="../Page/杨紫.md" title="wikilink">杨紫</a>、<a href="../Page/李现.md" title="wikilink">李现</a></p></td>
+<td><p><a href="https://www.weibo.com/u/6321958481">网站</a></p></td>
+<td><p>每晚 19:00 - 20:00</p></td>
+</tr>
+<tr class="even">
+<td><p>7月28日</p></td>
+<td><p>40</p></td>
+<td><p><a href="../Page/南方有乔木.md" title="wikilink">南方有乔木</a></p></td>
+<td><p><a href="../Page/陳偉霆.md" title="wikilink">陳偉霆</a>、<a href="../Page/白百何.md" title="wikilink">白百何</a></p></td>
+<td><p><a href="https://www.weibo.com/u/6144085373">网站</a></p></td>
+<td><p>每日 17:00 - 18:00</p></td>
+</tr>
+<tr class="odd">
+<td><p>8月20日</p></td>
+<td><p>60</p></td>
+<td><p><a href="../Page/归还世界给你.md" title="wikilink">归还世界给你</a></p></td>
+<td><p><a href="../Page/杨烁.md" title="wikilink">杨烁</a>、<a href="../Page/古力娜扎.md" title="wikilink">古力娜扎</a>、<a href="../Page/徐正溪.md" title="wikilink">徐正溪</a>、<a href="../Page/赵樱子.md" title="wikilink">赵樱子</a></p></td>
+<td><p><a href="https://www.weibo.com/u/5953520355">网站</a></p></td>
+<td><p>每晚 20:00 - 21:00</p></td>
+</tr>
+<tr class="even">
+<td><p>8月21日</p></td>
+<td><p>25</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/高校英雄传" title="wikilink">高校英雄传</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/罗宏正" title="wikilink">罗宏正</a>、<a href="https://zh.wikipedia.org/wiki/刘宇菁" title="wikilink">刘宇菁</a></p></td>
+<td><p><a href="https://www.settv.com.tw/#!/drama/2018/campusheroes">网站</a></p></td>
+<td><p>每日 18:00 - 19:00<br />
+2019年7月13、14日曾播放第1、2集。</p></td>
+</tr>
+<tr class="odd">
+<td><p>8月22日</p></td>
+<td><p>53</p></td>
+<td><p><a href="../Page/七月与安生_(电视剧).md" title="wikilink">七月与安生</a></p></td>
+<td><p><a href="../Page/沈月.md" title="wikilink">沈月</a>、<a href="../Page/陳都靈.md" title="wikilink">陳都靈</a>、<a href="https://zh.wikipedia.org/wiki/熊梓淇" title="wikilink">熊梓淇</a>、<a href="../Page/邹廷威.md" title="wikilink">邹廷威</a></p></td>
+<td><p><a href="https://www.weibo.com/u/6434406266?is_hot=1">网站</a></p></td>
+<td><p>每晚 19:00 - 20:00</p></td>
+</tr>
+<tr class="even">
+<td><p>9月6日</p></td>
+<td><p>24</p></td>
+<td><p><a href="../Page/河神_(网络剧).md" title="wikilink">河神</a></p></td>
+<td><p><a href="../Page/李现.md" title="wikilink">李现</a>、<a href="../Page/张铭恩.md" title="wikilink">张铭恩</a>、<a href="../Page/王紫璇.md" title="wikilink">王紫璇</a>、<a href="../Page/陈芋米.md" title="wikilink">陈芋米</a></p></td>
+<td><p><a href="https://www.weibo.com/heshen2017?is_all=1">网站</a></p></td>
+<td><p>每日 17:00 - 18:00</p></td>
+</tr>
+<tr class="odd">
+<td><p>9月23日</p></td>
+<td><p>55</p></td>
+<td><p><a href="../Page/在远方.md" title="wikilink">在远方</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/刘烨" title="wikilink">刘烨</a>、<a href="../Page/马伊琍.md" title="wikilink">马伊琍</a>、<a href="../Page/梅婷.md" title="wikilink">梅婷</a>、<a href="../Page/保剑锋.md" title="wikilink">保剑锋</a>、<a href="../Page/曾黎.md" title="wikilink">曾黎</a>、<a href="https://zh.wikipedia.org/wiki/郑奇" title="wikilink">郑奇</a>、<a href="https://zh.wikipedia.org/wiki/薛皓文" title="wikilink">薛皓文</a></p></td>
+<td><p><a href="https://www.weibo.com/u/6597646688">网站</a></p></td>
+<td><p>每晚 18:00 - 19:00</p></td>
+</tr>
+<tr class="even">
+<td><p>9月30日</p></td>
+<td><p>26</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/三明治女孩的逆袭" title="wikilink">三明治女孩的逆袭</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/张立昂" title="wikilink">张立昂</a>、<a href="https://zh.wikipedia.org/wiki/叶星辰" title="wikilink">叶星辰</a>、<a href="https://zh.wikipedia.org/wiki/林子闳" title="wikilink">林子闳</a>、<a href="../Page/邵翔.md" title="wikilink">邵翔</a>、<a href="../Page/廖奕琁.md" title="wikilink">廖奕琁</a></p></td>
+<td><p><a href="https://www.settv.com.tw/#!/drama/2018/between">网站</a></p></td>
+<td><p>每日 17:00 - 18:00</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -743,6 +858,8 @@
 
 ## 参考及连接
 
-  - [Astro双星 官方网站](http://www.xuan.com.my/channels/shx/)
+  - [Astro双星 官方Facebook](https://web.facebook.com/astroSHX/)
+  - [Astro双星 官方节目表](https://whatson.astro.com.my/channels/astro-shuang-xing-hd/183/?cat=variety-entertainment&lang=chinese&stb=307)（英文）
+  - [Astro双星 官方网站](http://www.xuan.com.my/channels/shx.aspx)（已经停止更新）
 
 [Category:馬來西亞電視節目列表](https://zh.wikipedia.org/wiki/Category:馬來西亞電視節目列表 "wikilink")

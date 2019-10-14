@@ -1,4 +1,4 @@
-在[数学](../Page/数学.md "wikilink")，尤其是[概率论和相关领域中](https://zh.wikipedia.org/wiki/概率论 "wikilink")，**Softmax函数**，或称**归一化指数函数**\[1\]<sup>:198</sup>，是[逻辑函数的一种推广](https://zh.wikipedia.org/wiki/逻辑函数 "wikilink")。它能将一个含任意实数的K维向量 \(\mathbf{z}\) “压缩”到另一个K维实向量 \(\sigma(\mathbf{z})\) 中，使得每一个元素的范围都在\((0, 1)\)之间，并且所有元素的和为1。该函数的形式通常按下面的式子给出：
+在[数学](../Page/数学.md "wikilink")，尤其是[概率论和相关领域中](https://zh.wikipedia.org/wiki/概率论 "wikilink")，**Softmax函数**，或称**归一化指数函数**\[1\]<sup>:198</sup>，是[逻辑函数的一种推广](https://zh.wikipedia.org/wiki/逻辑函数 "wikilink")。它能将一个含任意实数的K维向量 \(\mathbf{z}\) “压缩”到另一个K维实向量 \(\sigma(\mathbf{z})\) 中，使得每一个元素的范围都在\((0, 1)\)之间，并且所有元素的和为1。(也可視為一個 (k-1)維的hyperplan,因為總和唯一.所以是subspace)该函数的形式通常按下面的式子给出：
 
   -
     \(\sigma(\mathbf{z})_j = \frac{e^{z_j}}{\sum_{k=1}^K e^{z_k}}\)    for *j* = 1, …, *K*.

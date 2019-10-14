@@ -152,7 +152,7 @@
 
 ## 外部連結
 
-  - [官方網站](http://comic-earthstar.jp/index.php)
+  - [官方網站](https://web.archive.org/web/20141015121732/http://comic-earthstar.jp/index.php)
   - [twitter](https://twitter.com/comicearthstar)
 
 [Category:日本已停刊杂志](https://zh.wikipedia.org/wiki/Category:日本已停刊杂志 "wikilink") [Category:Comic_Earth_Star](https://zh.wikipedia.org/wiki/Category:Comic_Earth_Star "wikilink") [Category:2011年創辦的雜誌](https://zh.wikipedia.org/wiki/Category:2011年創辦的雜誌 "wikilink") [Category:2014年停刊的雜誌](https://zh.wikipedia.org/wiki/Category:2014年停刊的雜誌 "wikilink") [Category:2011年日本建立](https://zh.wikipedia.org/wiki/Category:2011年日本建立 "wikilink") [Category:2014年日本建立](https://zh.wikipedia.org/wiki/Category:2014年日本建立 "wikilink") [Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink") [Category:少年漫畫雜誌](https://zh.wikipedia.org/wiki/Category:少年漫畫雜誌 "wikilink") [Category:青年漫畫雜誌](https://zh.wikipedia.org/wiki/Category:青年漫畫雜誌 "wikilink") [Category:月刊漫畫雜誌](https://zh.wikipedia.org/wiki/Category:月刊漫畫雜誌 "wikilink") [Category:網路漫畫網站](https://zh.wikipedia.org/wiki/Category:網路漫畫網站 "wikilink")

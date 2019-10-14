@@ -1,4 +1,4 @@
-**Mi-Ke**（），[日本](../Page/日本.md "wikilink")唱片公司[Being的旗下演唱團體](../Page/Being_\(公司\).md "wikilink")。是從[B.B.QUEENS](../Page/B.B.QUEENS.md "wikilink")中的3人女合音團體「**B.B.QUEENS SISTERS**（<small></small>）\[1\]」誕生，成員由、、組成。
+**Mi-Ke**（），[日本](../Page/日本.md "wikilink")唱片公司[Being的旗下演唱團體](../Page/Being_\(公司\).md "wikilink")。是從[B.B.QUEENS](../Page/B.B.QUEENS.md "wikilink")中的3人女合音團體「**B.B.QUEENS SISTERS**（<small></small>）\[1\]」誕生，成員由、、共3人組成。
 
 1991年改名「Mi-Ke」之後以獨立[偶像團體出道](https://zh.wikipedia.org/wiki/偶像 "wikilink")，但於1993年停止活動。她們的原創標識「Presented by B.B.QUEENS」則是由B.B.QUEENS所書寫。
 
@@ -14,12 +14,12 @@
 
 ## 成員
 
-  -
+  - （，）
     領唱。其歌曲的合音大多由宇德獨自合音，因此Mi-Ke歌曲的音源有9成是她的聲音。單飛之後她的個人[專輯卻登上](https://zh.wikipedia.org/wiki/專輯 "wikilink")[公信榜第](../Page/Oricon公信榜.md "wikilink")1名的記錄。
-  -
+  - （，）
     左合音。由於歌曲的合音實質上都由宇德擔任，所以在電視上演出時僅擔任副歌的合音。
-  -
-    右合音。與擔任左合音的村上相同，但是在首張單曲「」的另一首收錄歌曲「」是由負責作詞的渡邊獻唱。雖然不是Mi-Ke的樂曲，不過在[Youtube可以看到渡邊於現場進行演唱的影片](https://zh.wikipedia.org/wiki/Youtube "wikilink")。2008年2月開始，渡邊在她自己的部落格發表定期現場公演。
+  - （，）
+    右合音。與擔任左合音的村上相同，但是在首張單曲「」的另一首收錄歌曲「」是由負責作詞的渡邊獻唱。雖然不是Mi-Ke的樂曲，不過在[Youtube可以看到渡邊於現場進行演唱的影片](https://zh.wikipedia.org/wiki/Youtube "wikilink")。2008年2月開始，渡邊在她自己的部落格發表定期現場公演。2016年3月別藝名麻宮百（）至今持續歌手活動。
 
 ## 作品列表
 
@@ -28,7 +28,7 @@
 <table>
 <thead>
 <tr class="header">
-<th></th>
+<th><p>枚數</p></th>
 <th><p>發行日期</p></th>
 <th><p>單曲名稱<br />
 （日文名稱）</p></th>
@@ -147,7 +147,7 @@
 <table>
 <thead>
 <tr class="header">
-<th></th>
+<th><p>枚數</p></th>
 <th><p>發行日期</p></th>
 <th><p>專輯名稱</p></th>
 <th><p>排名（<a href="../Page/Oricon公信榜.md" title="wikilink">Oricon</a>）</p></th>
@@ -267,7 +267,7 @@
 
       - 收錄在「回憶的九十九里海岸」
 
-### 商業主打一覽
+### 商業搭配
 
 ※作品依年代順序列出。
 
@@ -275,7 +275,7 @@
 <thead>
 <tr class="header">
 <th><p>歌曲</p></th>
-<th><p>商業主打</p></th>
+<th><p>商業搭配</p></th>
 </tr>
 </thead>
 <tbody>

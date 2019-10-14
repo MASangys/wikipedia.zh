@@ -1,4 +1,4 @@
-**Maroo娱乐**（）是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")。成立在2007年，为[MBK娱乐和](https://zh.wikipedia.org/wiki/MBK娱乐 "wikilink")[Mnet Media前旗下公司](https://zh.wikipedia.org/wiki/Mnet_Media "wikilink")。當前藝人包括[朴志訓](https://zh.wikipedia.org/wiki/朴志訓 "wikilink")、[BONUSbaby](../Page/BONUSbaby.md "wikilink")、[KHAN等](https://zh.wikipedia.org/wiki/KHAN "wikilink")。
+**Maroo娱乐**（）是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")。成立在2007年，为[MBK娱乐和](https://zh.wikipedia.org/wiki/MBK娱乐 "wikilink")[Mnet Media前旗下公司](https://zh.wikipedia.org/wiki/Mnet_Media "wikilink")。當前藝人包括[朴志訓](https://zh.wikipedia.org/wiki/朴志訓 "wikilink")、[BONUSbaby](../Page/BONUSbaby.md "wikilink")、[KHAN](https://zh.wikipedia.org/wiki/KHAN "wikilink")、[TEEN TEEN等](../Page/TEEN_TEEN.md "wikilink")。
 
 ## 历史
 
@@ -23,6 +23,9 @@
 
   - [金正优](https://zh.wikipedia.org/wiki/金正优 "wikilink")
   - [朴志訓](https://zh.wikipedia.org/wiki/朴志訓 "wikilink")（前[Wanna One成員](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")）
+  - [李宇鎮](https://zh.wikipedia.org/wiki/李宇鎮 "wikilink")（[TEEN TEEN](../Page/TEEN_TEEN.md "wikilink")）
+  - [李太勝](https://zh.wikipedia.org/wiki/李太勝 "wikilink")（[TEEN TEEN](../Page/TEEN_TEEN.md "wikilink")）
+  - [李津宇](https://zh.wikipedia.org/wiki/李津宇 "wikilink")（[TEEN TEEN](../Page/TEEN_TEEN.md "wikilink")）
 
 ### 女藝人
 
@@ -67,9 +70,9 @@
 </tr>
 <tr class="even">
 <td><p>2019年9月18日（韓國）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/TEEN_TEEN" title="wikilink">TEEN TEEN</a></p></td>
+<td><p><a href="../Page/TEEN_TEEN.md" title="wikilink">TEEN TEEN</a></p></td>
 <td><p>李宇鎮、李太勝、李津宇</p></td>
-<td><p>未公布</p></td>
+<td><p>李宇鎮</p></td>
 <td><p>活動中</p></td>
 <td><p>未公布</p></td>
 <td><p>未公布</p></td>

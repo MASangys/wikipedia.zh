@@ -20,9 +20,9 @@ P238配有[铝](../Page/铝.md "wikilink")製[底把和](../Page/机匣.md "wiki
 
   - [AMT備用手槍](https://zh.wikipedia.org/wiki/AMT備用手槍 "wikilink")
 
-  - [貝瑞塔M1934手槍](../Page/貝瑞塔M1934手槍.md "wikilink")
+  - [貝瑞塔M1934半自動手槍](../Page/貝瑞塔M1934半自動手槍.md "wikilink")
 
-  - [貝瑞塔Pico手槍](../Page/貝瑞塔Pico手槍.md "wikilink")
+  - [貝瑞塔Pico半自動手槍](../Page/貝瑞塔Pico半自動手槍.md "wikilink")
 
   - [柯爾特野馬半自動手槍](../Page/柯爾特野馬半自動手槍.md "wikilink")
 

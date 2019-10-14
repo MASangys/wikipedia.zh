@@ -31,9 +31,14 @@
 
 ### 遊戲
 
-  - [龍虎之拳](../Page/龍虎之拳.md "wikilink")2系列（****）※**稻毛一弘**名義。
-  - [格鬥天王系列](../Page/拳皇系列.md "wikilink")（**羅伯特·卡爾西亞**\[4\]、拉奇·克勞勃、溝口誠）※《'94》以**稻毛一弘**名義。
-  - [侍魂系列](../Page/侍魂系列.md "wikilink")（**加爾福特**\[5\]）※《斬紅郎無雙劍》為止以**稻毛一弘**名義。
+下面所有作品至1994年以前使用**稻毛一弘**名義。
+
+  - 1992年
+
+<!-- end list -->
+
+  - [龍虎之拳](../Page/龍虎之拳.md "wikilink")系列（1992～1993，****\[4\]）
+  - [侍魂系列](../Page/侍魂系列.md "wikilink")（**加爾福特**\[5\]）\[6\]
 
 <!-- end list -->
 
@@ -41,7 +46,7 @@
 
 <!-- end list -->
 
-  - 侍魂 (1993年)（千兩狂死郎、塔姆塔姆）※**稻毛一弘**名義。
+  - 侍魂 (1993年)（千兩狂死郎、塔姆塔姆）
 
 <!-- end list -->
 
@@ -49,7 +54,8 @@
 
 <!-- end list -->
 
-  - 龍虎之拳2（李白龍）※**稻毛一弘**名義。
+  - [格鬥天王系列](../Page/拳皇系列.md "wikilink")（1994～2010，**羅伯特·卡爾西亞**\[7\]、拉奇·克勞勃、溝口誠）\[8\]
+  - 龍虎之拳2（李白龍）
 
 <!-- end list -->
 
@@ -71,11 +77,7 @@
 
 ### 注釋
 
-<references group="注" />
-
-### 來源
-
-<references />
+### 參考來源
 
 ## 外部連結
 
@@ -83,12 +85,18 @@
 
   - －Kay稻毛的官方個人部落格。
 
-[Category:日本廣播主持人](https://zh.wikipedia.org/wiki/Category:日本廣播主持人 "wikilink") [Category:日本男性配音員](https://zh.wikipedia.org/wiki/Category:日本男性配音員 "wikilink") [Category:香川縣出身人物](https://zh.wikipedia.org/wiki/Category:香川縣出身人物 "wikilink") [Category:1967年出生](https://zh.wikipedia.org/wiki/Category:1967年出生 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
+[Category:日本廣播主持人](https://zh.wikipedia.org/wiki/Category:日本廣播主持人 "wikilink") [Category:日本男性配音員](https://zh.wikipedia.org/wiki/Category:日本男性配音員 "wikilink") [Category:香川縣出身人物](https://zh.wikipedia.org/wiki/Category:香川縣出身人物 "wikilink")
 
 1.
 
 2.
 3.
-4.  除了《'96》至《2003》由[小市慢太郎](../Page/小市慢太郎.md "wikilink")配音之外，《XIV》開始改由配音。
+4.  《[ART OF FIGHTING 龍虎之拳外傳](../Page/龍虎之拳.md "wikilink")》改由[小市慢太郎](../Page/小市慢太郎.md "wikilink")進行配音。
 
 5.  《侍魂 (1993年)》～《斬紅郎無雙劍》、《閃》擔任。
+
+6.  《斬紅郎無雙劍》為止以**稻毛一弘**名義。
+
+7.  除了《'96》至《2003》由小市慢太郎配音之外，《XIV》開始改由配音。
+
+8.  《'94》以**稻毛一弘**名義。

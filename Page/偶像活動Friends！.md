@@ -4,9 +4,7 @@
 
 ## 遊戲概要
 
-從2012年開始推出第1作《偶像活動！》系列，繼2016年推出的第2作《[偶像活動Stars！](https://zh.wikipedia.org/wiki/偶像活動Stars！ "wikilink")》後推出。本作與前作《偶像活動Stars！》同樣使用**DATA CARDDASS T**型機台進行遊戲。
-
-《偶像活動Friends！》的主題是「**與朋友一起進行偶像-{}-活動！**」，組成雙人組合的組合以頂級偶像稱號「**鑽石友誼**」為目標\[1\]。
+以「**與朋友一起進行偶像-{}-活動！**」為概念，繼2016年推出的第2作《[偶像活動Stars！](https://zh.wikipedia.org/wiki/偶像活動Stars！ "wikilink")》後推出\[1\]。本作與前作《偶像活動Stars！》同樣使用**DATA CARDDASS T**型機台進行遊戲。
 
 海外推行方面，台灣地區、香港、中國大陸於2019年3月起個別以『偶像-{}-學園Friends！』、『星夢-{}-學園Friends！』、『偶活-{}-學園Friends！』名義引入機台\[2\]。
 
@@ -187,12 +185,12 @@
 
 :: 作詞：松原さらり（onetrap），作曲、編曲：MItsu.J（Digiz,lnc.Group），主唱：あいね（友希愛音）、みお（湊美緒） from BEST FRIENDS！（第42話插入曲）
 
-:; 「ひとりじゃない\!」（第51話 - ）
+:; 「ひとりじゃない\!」（第51話 - 第76話）
 
   -
 
       -
-        作詞：松原さらり（onetrap），作曲、編曲：SHOW（Digz, Inc. Group），主唱：あいね（友希愛音）、みお（湊美緒）、[舞花](../Page/美山加戀.md "wikilink")（蝶乃舞花）、（日向繪麻） from BEST FRIENDS！
+        作詞：松原さらり（onetrap），作曲、編曲：SHOW（Digz, Inc. Group），主唱：あいね（友希愛音）、みお（湊美緒）、[舞花](../Page/美山加戀.md "wikilink")（蝶乃舞花）、（日向繪麻） from BEST FRIENDS！（第76話插入曲）
         主唱：あいね（友希愛音）、みお（湊美緒） from BEST FRIENDS！（第68、75話插入曲）
 
 <!-- end list -->
@@ -207,12 +205,16 @@
 
 :: 作詞：松原さらり（onetrap），作曲：片山將太、藤末樹，編曲：片山將太，主唱：カレン（神城凱倫）、ミライ（明日香未來） from BEST FRIENDS！（第41、49、72、74話插入曲）
 
-:; 「Be Star」（第51話 - ）
+:; 「Be Star」（第51話 - 第75話）
+
+:: 作詞：松原さらり（onetrap），作曲、編曲：Maozon、YUKI FUNAKOSHI（Digz, Inc. Group），主唱：[ひびき](../Page/日笠陽子.md "wikilink")（天翔響） from BEST FRIENDS！（第51、56、60話插入曲）
+
+:; 「アイカツフレンズ\!」（第76話）
 
   -
 
       -
-        作詞：松原さらり（onetrap），作曲、編曲：Maozon、YUKI FUNAKOSHI（Digz, Inc. Group），主唱：[ひびき](../Page/日笠陽子.md "wikilink")（天翔響） from BEST FRIENDS！（第51、56、60話插入曲）
+        作詞：松原さらり（onetrap），作曲：藤末樹，編曲：MItsu.J（Digiz,lnc.Group），主唱：あいね（友希愛音）、みお（湊美緒） from BEST FRIENDS！（第76話插入曲）
 
 ### 插入曲
 
@@ -315,7 +317,7 @@
   -
 
       -
-        作詞：松原さらり（onetrap），作曲、編曲：Maozon、YUKI FUNAKOSHI（Digz, Inc. Group），主唱：ひびき（天翔響）、アリシア（艾麗西亞·夏洛特） from BEST FRIENDS！（第70、74話插入曲）
+        作詞：松原さらり（onetrap），作曲、編曲：Maozon、YUKI FUNAKOSHI（Digz, Inc. Group），主唱：ひびき（天翔響）、アリシア（艾麗西亞·夏洛特） from BEST FRIENDS！（第70、74話）
 
 <!-- end list -->
 
@@ -1286,7 +1288,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>2018年4月5日 －</p></td>
+<td><p>2018年4月5日 － 2019年9月26日</p></td>
 <td><p>星期四 18:25－18:55</p></td>
 <td><p><a href="../Page/東京電視台.md" title="wikilink">東京電視台</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/關東廣域圈" title="wikilink">關東廣域圈</a></p></td>
@@ -1329,7 +1331,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2018年4月9日 －</p></td>
+<td><p>2018年4月9日 － 2019年9月30日</p></td>
 <td><p>星期一 17:00－17:29</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/BS東視" title="wikilink">BS東視</a></p></td>
 <td><p>日本全國</p></td>
@@ -1337,7 +1339,7 @@
 </tr>
 <tr class="even">
 <td><p>2018年4月9日 － 7月9日<br />
-7月19日 －</p></td>
+7月19日 － 2019年10月4日</p></td>
 <td><p>星期一 18:00 更新<br />
 星期四 19:00 更新</p></td>
 <td><p><a href="../Page/萬代頻道.md" title="wikilink">萬代頻道</a></p></td>
@@ -1363,7 +1365,7 @@
 </tr>
 <tr class="odd">
 <td><p>2018年4月12日 － 6月28日<br />
-7月12日 －</p></td>
+7月12日 － 2019年4月4日</p></td>
 <td><p>星期四 21:30－22:00<br />
 星期四 24:00－24:30</p></td>
 <td><p><a href="../Page/AT-X.md" title="wikilink">AT-X</a></p></td>
@@ -1371,7 +1373,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2018年4月21日 －</p></td>
+<td><p>2018年4月21日 － 2019年10月12日</p></td>
 <td><p>星期六 11:15－11:45</p></td>
 <td><p><a href="../Page/新潟綜合電視台.md" title="wikilink">新潟綜合電視台</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/新潟縣" title="wikilink">新潟縣</a></p></td>
@@ -1423,10 +1425,10 @@
 | 8    | 2019年7月2日    | 第40話 - 第45話 | BIBA-3308                              |
 | 9    | 2019年8月2日    | 第46話 - 第50話 | BIBA-3309                              |
 | 第2期  |              |             |                                        |
-| BOX5 | 2019年10月2日預定 | 第51話 - 第63話 | BIXA-9055                              |
+| BOX5 | 2019年10月2日   | 第51話 - 第63話 | BIXA-9055                              |
 | BOX6 | 2020年1月8日預定  | 第64話 - 第76話 | BIXA-9056                              |
 | 10   | 2019年9月3日    | 第51話 - 第56話 |                                        |
-| 11   | 2019年10月2日預定 | 第57話 - 第62話 | BIBA-3311                              |
+| 11   | 2019年10月2日   | 第57話 - 第62話 | BIBA-3311                              |
 | 12   | 2019年12月3日預定 | 第63話 - 第68話 | BIBA-3312                              |
 | 13   | 2020年1月8日預定  | 第69話 - 第74話 | BIBA-3313                              |
 | 14   | 2020年2月4日預定  | 第75話 - 第76話 | BIBA-3314                              |

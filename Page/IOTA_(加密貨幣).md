@@ -6,9 +6,16 @@ IOTA是專門針對[物聯網](https://zh.wikipedia.org/wiki/物聯網 "wikilink
 
 ## 參考資料
 
+## 參見
+
+  -
+  - [智能合約](https://zh.wikipedia.org/wiki/智能合約 "wikilink")
+
 ## 外部連結
 
   -
+  - [IOTA Tangle Explorer and Statistics - TheTangle.org](https://thetangle.org/)
+
   - [為物聯網量身設計「區塊鏈3.0」IOTA——專訪年僅23歲技術傳教士](https://www.bnext.com.tw/article/47256/iota-blockchain-iot-dlt)
 
 [Category:密碼貨幣](https://zh.wikipedia.org/wiki/Category:密碼貨幣 "wikilink") [Category:另類貨幣](https://zh.wikipedia.org/wiki/Category:另類貨幣 "wikilink") [Category:应用层协议](https://zh.wikipedia.org/wiki/Category:应用层协议 "wikilink") [Category:2015年软件](https://zh.wikipedia.org/wiki/Category:2015年软件 "wikilink")

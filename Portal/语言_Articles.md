@@ -16,6 +16,11 @@
 
 <small>**人工语言:** [世界语](../Page/世界语.md "wikilink"), [伊多語](../Page/伊多語.md "wikilink"), [沃拉普克语](../Page/沃拉普克语.md "wikilink"), **[更多...](../Page/人工語言.md "wikilink")**</small>
 
+| style="background: \#E3CF57; color: white;|查找语言                                                           |
+| --------------------------------------------------------------------------------------------------------- |
+| 输入[ISO 639代码以找到相应的语言条目](../Page/ISO_639.md "wikilink")                                                    |
+| <inputbox> type=search width=10 default=ISO 639: buttonlabel=开始 searchbuttonlabel=搜索 break=no </inputbox> |
+
 -----
 
 <center>

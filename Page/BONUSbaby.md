@@ -299,7 +299,7 @@
 [Category:2017年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年成立的音樂團體 "wikilink") [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
 
 1.
-2.  [BONUSbaby 於《人氣歌謠》正式出道](http://kpopn.niusnews.com/=K0mhkml7)
+2.
 3.  [1](https://www.youtube.com/watch?v=PuR22wuK3sM)
 4.  [2](https://www.youtube.com/watch?v=cnvVLZXHOLE)
 5.  [3](https://www.youtube.com/watch?v=k7BdhmXWrY0)

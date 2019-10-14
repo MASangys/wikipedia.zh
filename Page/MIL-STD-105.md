@@ -12,6 +12,10 @@
   - 1971年改版Ver.D,，由美國國家標準局(AmericanNationalStandardInstitute,ANSI)將其列入美國國家標準。稱為ANSI/ASQCZ1.4
   - 1989年改版Ver.E (現行版本)
 
+## 同等標準
+
+此標準等同於：[ISO](https://zh.wikipedia.org/wiki/ISO "wikilink") 2859、ISO 2859-1、[ANSI](https://zh.wikipedia.org/wiki/ANSI "wikilink")/ASQC Z1.4-2003, , NF06-022, BS6001, DIN40080, GB2828\[1\]
+
 ## 內部連結
 
   - [抽樣](../Page/抽樣.md "wikilink")
@@ -27,3 +31,5 @@
 ## 參考資料
 
 [分類:美國軍用標準](https://zh.wikipedia.org/wiki/分類:美國軍用標準 "wikilink")
+
+1.  [AQL標準](http://hk.qcinasia.com/inspection-aql-standard) QCINASIA

@@ -264,7 +264,10 @@
   - 2016年： MNET [Show Me The Money 5](../Page/Show_Me_The_Money_5.md "wikilink")
   - 2018年： MNET [The Call](../Page/The_Call.md "wikilink")
   - 2018年： KBS 2TV《[Suits](../Page/Suits_\(韓國電視劇\).md "wikilink")》客串演出
+  - 2019年7月26日：參與JTBC2電視台《[惡評之夜](../Page/惡評之夜.md "wikilink")》第六集演出
+  - 2019年7月28日：參與TVN電視台《[Player](../Page/Player_\(韓國綜藝\).md "wikilink")》第三集演出
   - 2019年8月3日：參與JTBC2電視台《[RUN.wav](../Page/RUN.wav.md "wikilink")》第七集演出
+  - 2019年9月15日：參與MBC電視台《[眾籌](../Page/眾籌.md "wikilink")》第五集演出
 
 ## 参考资料
 

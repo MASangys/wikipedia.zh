@@ -22,6 +22,14 @@
 
 項目地下至1樓設商場，名為Savannah Place，但一直空置。2018年10月，[豐泰地產](../Page/豐泰地產.md "wikilink")向會德豐購入商場。到2019年3月，耀中國際學校預租地下及1樓複式舖位，共2萬方呎樓面，月租約70萬元。\[3\]
 
+現有商戶：
+
+樂誠藥房
+
+皇牌冰室
+
+公文式教育中心
+
 ## 宣傳
 
 SAVANNAH的廣告宣傳以「LIVE WITH YOUR FLOW」為主題。發展商指SAVANNAH為美國南部著名沿河都會，鄰近優美的Savannah River。唯電視廣告於[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")[墨爾本](https://zh.wikipedia.org/wiki/墨爾本 "wikilink")[雅拉河](../Page/雅拉河.md "wikilink")一帶拍攝。

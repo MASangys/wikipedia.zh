@@ -109,13 +109,13 @@ var fuwTesting = false; var fuwDefaultTextboxLength = 60; var fuwDefaultTextarea
 `  fuwMakeHiddenfield('filename', '', 'apiFilename');`
 `  fuwMakeHiddenfield('text', '', 'apiText');`
 `  fuwMakeHiddenfield('comment', '', 'apiComment');`
-`  fuwMakeHiddenfield('token', mw.user.tokens.get('editToken'), 'apiToken');`
+`  fuwMakeHiddenfield('token', mw.user.tokens.get('csrfToken'), 'apiToken');`
 `  fuwMakeHiddenfield('ignorewarnings', 1, 'apiIgnorewarnings');`
 `  fuwMakeHiddenfield('watch', 1, 'apiWatch');`
 
 `  if (fuwTesting) {`
 `     fuwMakeHiddenfield('title', mw.config.get('wgPageName') + "/sandbox", 'SandboxTitle');`
-`     fuwMakeHiddenfield('token', mw.user.tokens.get('editToken'), 'SandboxToken');`
+`     fuwMakeHiddenfield('token', mw.user.tokens.get('csrfToken'), 'SandboxToken');`
 `     fuwMakeHiddenfield('recreate', 1, 'SandboxRecreate');`
 `  }`
 
@@ -1414,7 +1414,7 @@ fuwGlobal.prototype.formatOutput = function(forCommons) {
 `     ($('#TargetForm [name="filename"]')[0]).value = opts.InputName;`
 `     ($('#TargetForm [name="text"]'    )[0]).value = summary;`
 `     ($('#TargetForm [name="comment"]' )[0]).value = editSummary;`
-`     ($('#TargetForm [name="token"]'   )[0]).value = mw.user.tokens.get('editToken');`
+`     ($('#TargetForm [name="token"]'   )[0]).value = mw.user.tokens.get('csrfToken');`
 
 `  }`
 `  `
@@ -2292,7 +2292,7 @@ function fuwCleanFilename() {
 `                 format : 'xml',`
 `                 action : 'edit',`
 `                 title  : 'File:' + opts.InputName,`
-`                 token  : mw.user.tokens.get('editToken'),`
+`                 token  : mw.user.tokens.get('csrfToken'),`
 `                 summary : opts.EditSummary,`
 `                 text   : ($('#TargetForm .[name="text"]')[0]).value`
 
@@ -2323,7 +2323,7 @@ function fuwCleanFilename() {
 `              format: 'xml',`
 `              action: 'edit',`
 `              title : mw.config.get('wgPageName') + "/sandbox",`
-`              token : mw.user.tokens.get('editToken'),`
+`              token : mw.user.tokens.get('csrfToken'),`
 `              recreate : 1,`
 `              summary  : frm.SandboxSummary.value,`
 `              text     : frm.SandboxText.value`

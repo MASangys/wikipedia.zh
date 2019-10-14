@@ -118,6 +118,7 @@
   - [我們真的學不來！](../Page/我們真的學不來！.md "wikilink")（**桐須真冬**\[28\]）
   - [炎炎消防隊](../Page/炎炎消防隊.md "wikilink")（**普林西斯 火華**\[29\]）
   - [艾梅洛閣下II世事件簿](../Page/艾梅洛閣下II世事件簿.md "wikilink")（菲）
+  - [Dr.STONE 新石紀](../Page/Dr.STONE_新石紀.md "wikilink")（莉莉安·溫伯格）
   - [普通攻擊是全體二連擊，這樣的媽媽你喜歡嗎？](../Page/普通攻擊是全體二連擊，這樣的媽媽你喜歡嗎？.md "wikilink")（**梅迪**）
   - [神田川JET GIRLS](https://zh.wikipedia.org/wiki/神田川JET_GIRLS "wikilink")（**珍妮佛·碧琪**\[30\]）
   - 我們真的學不來！第2期（**桐須真冬**）

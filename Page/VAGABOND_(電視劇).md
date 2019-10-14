@@ -69,6 +69,7 @@
 | -------------------------------- | ------ | ---------- |
 | **演員**                           | **角色** | **介紹**     |
 | [申成祿](../Page/申成祿.md "wikilink") | 奇太雄    | 國情院情報組長    |
+|                                  | 安其東    | 國情院院長      |
 | [李基英](../Page/李基英.md "wikilink") | 姜周哲    | 國情院復任局長    |
 | [鄭滿植](../Page/鄭滿植.md "wikilink") | 閔宰植    | 國情院監察局局長   |
 | [黃寶羅](../Page/黃寶羅.md "wikilink") | 孔華淑    | 國情院規劃協調室職員 |
@@ -169,16 +170,16 @@
 
 ### 特別出演
 
-|                                                        |                  |              |          |
-| ------------------------------------------------------ | ---------------- | ------------ | -------- |
-| **演員**                                                 | **角色**           | **介紹**       | **出演集數** |
-| [全智賢](../Page/全智賢.md "wikilink")                       |                  |              |          |
-| [陸星材](../Page/陸星材.md "wikilink")                       |                  |              |          |
-| [車勝元](../Page/車勝元.md "wikilink")                       |                  |              |          |
-| [盛駿](../Page/盛駿.md "wikilink")                         |                  |              |          |
-| [劉東根](../Page/劉東根.md "wikilink")                       |                  |              |          |
-| [劉太旿](https://zh.wikipedia.org/wiki/劉太旿 "wikilink") () | Raymon Jacque／宰慕 | B357客機上的恐怖份子 |          |
-|                                                        |                  |              |          |
+|                                     |                  |              |          |
+| ----------------------------------- | ---------------- | ------------ | -------- |
+| **演員**                              | **角色**           | **介紹**       | **出演集數** |
+| [全智賢](../Page/全智賢.md "wikilink")    |                  |              |          |
+| [陸星材](../Page/陸星材.md "wikilink")    |                  |              |          |
+| [車勝元](../Page/車勝元.md "wikilink")    |                  |              |          |
+| [盛駿](../Page/盛駿.md "wikilink")      |                  |              |          |
+| [劉東根](../Page/劉東根.md "wikilink")    |                  |              |          |
+| [劉太旿](../Page/劉太旿.md "wikilink") () | Raymon Jacque／宰慕 | B357客機上的恐怖份子 | 1\~3     |
+|                                     |                  |              |          |
 
 ## 原聲帶
 
@@ -240,18 +241,18 @@
 <td><p>3</p></td>
 <td><p>1部</p></td>
 <td><p>2019/09/27</p></td>
-<td><p>%</p></td>
+<td><p>7.3%</p></td>
 </tr>
 <tr class="odd">
 <td><p>2部</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>8.4%</p></td>
+<td><p>8.2%</p></td>
 <td><p>%</p></td>
 </tr>
 <tr class="even">
 <td><p>3部</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>9.3%</p></td>
+<td><p>9.1%</p></td>
 <td><p>%</p></td>
 </tr>
 <tr class="odd">
@@ -501,7 +502,9 @@
 
   - 收視最低的集數以表示，收視最高的集數以表示，而空格則表示該集的收視沒有相關數據。</small>
 
-## 同時段競爭作品
+## 同時段作品
+
+### 同時段競爭作品
 
 **週六時段劇集**
 
@@ -511,6 +514,16 @@
 
   - [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") [週末連續劇](https://zh.wikipedia.org/wiki/tvN週末連續劇 "wikilink")：《[阿斯達年代記](../Page/阿斯達年代記.md "wikilink")》、《[請融化我吧](../Page/請融化我吧.md "wikilink")》
   - [OCN](../Page/OCN_\(頻道\).md "wikilink") [週末經典連續劇](../Page/OCN_Original_Series.md "wikilink")：《[他人即地獄](https://zh.wikipedia.org/wiki/他人即地獄 "wikilink")》、《[所有人的謊言](https://zh.wikipedia.org/wiki/所有人的謊言 "wikilink")》
+
+### 同一劇集時段作品
+
+**週五時段劇集**
+
+  - [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") [金曜連續劇](https://zh.wikipedia.org/wiki/tvN金曜連續劇 "wikilink")：《[很便宜，千里馬超市](../Page/很便宜，千里馬超市.md "wikilink")》
+
+**週五六時段劇集**
+
+  - [JTBC](../Page/JTBC.md "wikilink") [金土連續劇](../Page/JTBC金土連續劇.md "wikilink")：《[浪漫的體質](../Page/浪漫的體質.md "wikilink")》、《[我的王國](https://zh.wikipedia.org/wiki/我的王國 "wikilink")》
 
 ## 記事
 

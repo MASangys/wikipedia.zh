@@ -50,7 +50,7 @@ Ars Technica注意到Fuchsia的很多部分都能工作，尤其是硬件支持\
 
 {{-}}
 
-[Category:Google軟體](https://zh.wikipedia.org/wiki/Category:Google軟體 "wikilink") [Category:嵌入式操作系统](https://zh.wikipedia.org/wiki/Category:嵌入式操作系统 "wikilink") [Category:自由作業系統](https://zh.wikipedia.org/wiki/Category:自由作業系統 "wikilink") [Category:实时操作系统](https://zh.wikipedia.org/wiki/Category:实时操作系统 "wikilink") [Category:未來軟體](https://zh.wikipedia.org/wiki/Category:未來軟體 "wikilink") [Category:Google_Fuchsia](https://zh.wikipedia.org/wiki/Category:Google_Fuchsia "wikilink")
+[Category:Google軟體](https://zh.wikipedia.org/wiki/Category:Google軟體 "wikilink") [Category:嵌入式操作系统](https://zh.wikipedia.org/wiki/Category:嵌入式操作系统 "wikilink") [Category:自由作業系統](https://zh.wikipedia.org/wiki/Category:自由作業系統 "wikilink") [Category:实时操作系统](https://zh.wikipedia.org/wiki/Category:实时操作系统 "wikilink") [Category:未來軟體](https://zh.wikipedia.org/wiki/Category:未來軟體 "wikilink") [Category:Google_Fuchsia](https://zh.wikipedia.org/wiki/Category:Google_Fuchsia "wikilink") [Category:用Go編程的自由軟件](https://zh.wikipedia.org/wiki/Category:用Go編程的自由軟件 "wikilink")
 
 1.  <cite class="citation web">Prince, Rob. </cite>
 2.  <cite class="citation web">Lopez, Napier (13 August 2016). </cite>

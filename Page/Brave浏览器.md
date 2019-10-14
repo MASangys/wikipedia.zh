@@ -22,7 +22,7 @@ Brave的开发是由Brendan Eich和Brian Bondy于2015年5月28日成立的Brave 
 ## 外部链接
 
   -
-[Category:2016年软件](https://zh.wikipedia.org/wiki/Category:2016年软件 "wikilink") [Category:Mozilla](https://zh.wikipedia.org/wiki/Category:Mozilla "wikilink") [Category:網頁瀏覽器](https://zh.wikipedia.org/wiki/Category:網頁瀏覽器 "wikilink") [Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink") [Category:自由跨平台软件](https://zh.wikipedia.org/wiki/Category:自由跨平台软件 "wikilink") [Category:自由网页浏览器](https://zh.wikipedia.org/wiki/Category:自由网页浏览器 "wikilink") [Category:网络广告](https://zh.wikipedia.org/wiki/Category:网络广告 "wikilink") [Category:基于Chromium的浏览器](https://zh.wikipedia.org/wiki/Category:基于Chromium的浏览器 "wikilink") [Category:Android网页浏览器](https://zh.wikipedia.org/wiki/Category:Android网页浏览器 "wikilink")
+[Category:2016年软件](https://zh.wikipedia.org/wiki/Category:2016年软件 "wikilink") [Category:Mozilla](https://zh.wikipedia.org/wiki/Category:Mozilla "wikilink") [Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink") [Category:自由跨平台软件](https://zh.wikipedia.org/wiki/Category:自由跨平台软件 "wikilink") [Category:网络广告](https://zh.wikipedia.org/wiki/Category:网络广告 "wikilink") [Category:基于Chromium的浏览器](https://zh.wikipedia.org/wiki/Category:基于Chromium的浏览器 "wikilink") [Category:Android网页浏览器](https://zh.wikipedia.org/wiki/Category:Android网页浏览器 "wikilink")
 
 1.
 2.

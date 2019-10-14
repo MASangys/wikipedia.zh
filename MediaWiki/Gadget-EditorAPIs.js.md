@@ -203,7 +203,7 @@ $(function () {
 `                   '`<input name="format" value="text/x-wiki">`',`
 `                   '`<input name="wpAutoSummary" value="hashhashhashhash">`',    // 防止「未填寫摘要」的提示`
 `                   '`<input name="model" value="wikitext">`',`
-`                   '`<input name="wpEditToken" value="' + mw.user.tokens.get('editToken') + '">`',`
+`                   '`<input name="wpEditToken" value="' + mw.user.tokens.get('csrfToken') + '">`',`
 `                   '`<input name="wpUltimateParam" value="1">`',`
 `                   '`<input name="' + (options.button || 'wpSave') + '" type="submit" value="1">`',`
 `                   '`<input name="mode" value="text">`')`

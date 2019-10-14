@@ -1,4 +1,4 @@
-《**台灣那麼旺**》（Taiwan NO.1）是[民視無線台](../Page/民視無線台.md "wikilink")大型歌唱選秀節目\[1\]\[2\]\[3\]\[4\]\[5\]，2016年5月28日開播，[孫樂欣領導](https://zh.wikipedia.org/wiki/孫樂欣 "wikilink")[欣享娛樂製作](https://zh.wikipedia.org/wiki/欣享娛樂 "wikilink")，[胡瓜](../Page/胡瓜.md "wikilink")、[白家綺](../Page/白家綺.md "wikilink")主持，採線上直播方式，可[APP預測優勝者](https://zh.wikipedia.org/wiki/APP "wikilink")。此節目是2016年1月胡瓜與[百是傳播老闆](https://zh.wikipedia.org/wiki/百是傳播 "wikilink")[黃義雄](../Page/黃義雄.md "wikilink")爆發口角而罷錄《[明日之星Super Star](../Page/明日之星Super_Star.md "wikilink")》之後，再次主持民視大型歌唱選秀節目\[6\]。2018年12月29日（第135集），更換製作單位為[民間全民電視公司](../Page/民間全民電視公司.md "wikilink")節目製作部綜藝中心，並採用全新賽制\[7\]\[8\]。2019年3月9日，因[白家綺](../Page/白家綺.md "wikilink")告假待產而由[王瞳](../Page/王瞳.md "wikilink")接手代班主持。
+《**台灣那麼旺**》（Taiwan NO.1）是[民視無線台](../Page/民視無線台.md "wikilink")大型歌唱選秀節目\[1\]\[2\]\[3\]\[4\]\[5\]，2016年5月28日開播，[孫樂欣領導](https://zh.wikipedia.org/wiki/孫樂欣 "wikilink")[欣享娛樂製作](https://zh.wikipedia.org/wiki/欣享娛樂 "wikilink")，[胡瓜](../Page/胡瓜.md "wikilink")、[白家綺](../Page/白家綺.md "wikilink")主持，採線上直播方式，可[APP預測優勝者](https://zh.wikipedia.org/wiki/APP "wikilink")。此節目是2016年1月胡瓜與[百是傳播老闆](https://zh.wikipedia.org/wiki/百是傳播 "wikilink")[黃義雄](../Page/黃義雄.md "wikilink")爆發口角而罷錄《[明日之星Super Star](../Page/明日之星Super_Star.md "wikilink")》之後，再次主持民視大型歌唱選秀節目\[6\]。2018年12月29日（第135集），更換製作單位為[民間全民電視公司](../Page/民間全民電視公司.md "wikilink")節目製作部綜藝中心，並採用全新賽制\[7\]\[8\]。2019年3月9日，因[白家綺](../Page/白家綺.md "wikilink")告假待產而由[王瞳](../Page/王瞳.md "wikilink")接手代班主持。2019年9月14日，[王瞳](../Page/王瞳.md "wikilink")交棒[白家綺](../Page/白家綺.md "wikilink")結束代班，[白家綺](../Page/白家綺.md "wikilink")正式回歸主持\[9\]
 
 ## 播出時間
 
@@ -76,7 +76,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/丁曉雯" title="wikilink">丁曉雯</a><br />
+<td><p><a href="../Page/丁曉雯.md" title="wikilink">丁曉雯</a><br />
 </p></td>
 </tr>
 <tr class="even">
@@ -90,9 +90,9 @@
 
 | 主持人                            | 搭檔主持人                            | 主持時間                             | 備註 |
 | ------------------------------ | -------------------------------- | -------------------------------- | -- |
-| [胡瓜](../Page/胡瓜.md "wikilink") | [白家綺](../Page/白家綺.md "wikilink") | 2016年5月28日-2019年3月2日、2019年9月21日- |    |
+| [胡瓜](../Page/胡瓜.md "wikilink") | [白家綺](../Page/白家綺.md "wikilink") | 2016年5月28日-2019年3月2日、2019年9月14日- |    |
 |                                |                                  |                                  |    |
-| [王瞳](../Page/王瞳.md "wikilink") | 2019年3月9日-                       |                                  |    |
+| [王瞳](../Page/王瞳.md "wikilink") | 2019年3月9日-2019年9月14日             | 白家綺請假代班                          |    |
 |                                |                                  |                                  |    |
 
 ## 新賽制節目內容
@@ -102,13 +102,13 @@
   - 高手組：自第135集起，首週8位選手取前6名；往後每週新增一位選手自行選擇挑戰上週任一選手的分數卡位其名次，若挑戰成功(包含同分)則被挑戰者之名次以下的選手進行淘汰賽，淘汰最低分者；若挑戰失敗則淘汰新選手。單週最高分者得獎金壹萬元，連續衛冕20次第一名者贏得獎金壹佰萬元若中途衛冕失敗則中斷。
   - 青少年組：自第136集起，每10週一輪比賽，採不淘汰積分制。單週最高分者得獎金伍仟元，總積分最高者成為冠軍贏得獎金拾萬元。自第147集起，恢復類似舊賽制，最低分者記一點，累記3點即淘汰，其他選手記點歸零。單週最高分者得獎金伍仟元，連續衛冕10次第一名者贏得獎金拾萬元，若中途衛冕失敗則中斷但不淘汰。
 
-### 目前戰況（第174集）
+### 目前戰況（第175集）
 
-| 參賽者                                                 | 演唱曲目／原唱 | 王治平 | 丁曉雯 | 薛忠銘 | 許富凱 | 分數 | 備註 |
+| 參賽者                                                 | 演唱曲目／原唱 | 洪敬堯 | 丁曉雯 | 羅文聰 | 曹雅雯 | 分數 | 備註 |
 | --------------------------------------------------- | ------- | --- | --- | --- | --- | -- | -- |
-| [楊淨宇](https://zh.wikipedia.org/wiki/楊淨宇 "wikilink") | 大夢想家／   |     |     |     |     |    |    |
+| [楊淨宇](https://zh.wikipedia.org/wiki/楊淨宇 "wikilink") | ／       |     |     |     |     |    |    |
 | [梁敏靜](https://zh.wikipedia.org/wiki/梁敏靜 "wikilink") | ／       |     |     |     |     |    |    |
-| [甘佳鑫](https://zh.wikipedia.org/wiki/甘佳鑫 "wikilink") | ／       |     |     |     |     |    |    |
+| [劉品謙](https://zh.wikipedia.org/wiki/劉品謙 "wikilink") | 天空／王菲   |     |     |     |     |    |    |
 | [謝祥寅](https://zh.wikipedia.org/wiki/謝祥寅 "wikilink") | ／       |     |     |     |     |    |    |
 | [吉巴奈](https://zh.wikipedia.org/wiki/吉巴奈 "wikilink") | ／       |     |     |     |     |    |    |
 | [吳雨璇](https://zh.wikipedia.org/wiki/吳雨璇 "wikilink") | ／       |     |     |     |     |    |    |
@@ -116,13 +116,13 @@
 
   - 青少年組
 
-| 參賽者                                                 | 演唱曲目／原唱 | 王治平 | 丁曉雯 | 薛忠銘 | 許富凱 | 分數 | 備註 |
-| --------------------------------------------------- | ------- | --- | --- | --- | --- | -- | -- |
-| [楊博智](https://zh.wikipedia.org/wiki/楊博智 "wikilink") | ／       |     |     |     |     |    |    |
-| [吳宥璇](https://zh.wikipedia.org/wiki/吳宥璇 "wikilink") | ／       |     |     |     |     |    |    |
-| [new](https://zh.wikipedia.org/wiki/new "wikilink") | ／       |     |     |     |     |    |    |
-| [洪尚捷](https://zh.wikipedia.org/wiki/洪尚捷 "wikilink") | ／       |     |     |     |     |    |    |
-| [龔芷玄](https://zh.wikipedia.org/wiki/龔芷玄 "wikilink") | ／       |     |     |     |     |    |    |
+| 參賽者                                                 | 演唱曲目／原唱   | 洪敬堯 | 丁曉雯 | 羅文聰 | 曹雅雯 | 分數 | 備註 |
+| --------------------------------------------------- | --------- | --- | --- | --- | --- | -- | -- |
+| [楊博智](https://zh.wikipedia.org/wiki/楊博智 "wikilink") | ／         |     |     |     |     |    |    |
+| [吳宥璇](https://zh.wikipedia.org/wiki/吳宥璇 "wikilink") | 認識你真好／孫耀威 |     |     |     |     |    |    |
+| [劉沛琪](https://zh.wikipedia.org/wiki/劉沛琪 "wikilink") | 醉歸暝／陳盈潔   |     |     |     |     |    |    |
+| [洪尚捷](https://zh.wikipedia.org/wiki/洪尚捷 "wikilink") | ／         |     |     |     |     |    |    |
+| [廖柏傑](https://zh.wikipedia.org/wiki/廖柏傑 "wikilink") | 精舞門／羅志祥   |     |     |     |     |    |    |
 
 ### 過關關主
 
@@ -170,11 +170,11 @@
 </tr>
 <tr class="even">
 <td><p>2</p></td>
-<td></td>
-<td><p>組</p></td>
-<td><p>（–）</p></td>
+<td><p>楊博智</p></td>
+<td><p>青少年組</p></td>
+<td><p>（2019.10.05-）</p></td>
 <td><p>次</p></td>
-<td><p>（-）</p></td>
+<td><p>（2019.10.05-）</p></td>
 <td></td>
 <td><p>／</p></td>
 <td></td>
@@ -300,7 +300,7 @@
 <td><p>（2019.07.20--）</p></td>
 <td><p>5</p></td>
 <td><p>|90.2(我愛過)<br />
-90.4(領悟)</p></td>
+90.4(領悟、苦海女神龍)</p></td>
 <td><p>90.35</p></td>
 <td><p>90.35</p></td>
 <td><p>0</p></td>
@@ -372,8 +372,8 @@
 <td><p>（2019.03.24--2019.03.30）</p></td>
 <td><p>1</p></td>
 <td><p>0</p></td>
-<td><p>（2019.03.24--）</p></td>
-<td><p>22</p></td>
+<td><p>（2019.03.24--2019.09.22）</p></td>
+<td><p>23</p></td>
 <td><p>89.3(愛來愛去)<br />
 90.0(裙襬搖搖)</p></td>
 <td><p>90.00</p></td>
@@ -388,7 +388,7 @@
 <td><p>1</p></td>
 <td><p>0</p></td>
 <td><p>（2019.03.24--）</p></td>
-<td><p>22</p></td>
+<td><p>23</p></td>
 <td><p>89.4(好歹攏是命、挪威的森林)<br />
 90.2(有夢你會紅)</p></td>
 <td><p>90.20</p></td>
@@ -400,12 +400,12 @@
 <td><p>3</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/龔芷玄" title="wikilink">龔芷玄</a></p></td>
 <td><p>（2019.06.15--）</p></td>
-<td><p>8</p></td>
+<td><p>9</p></td>
 <td><p>5</p></td>
 <td><p>（2019.03.24--）</p></td>
 <td><p>23</p></td>
 <td><p>89.7(哎喲哎喲)<br />
-90.3(我愛洗澡、Yoyo姐妹、健康歌))</p></td>
+90.7(練舞功))</p></td>
 <td><p>90.35</p></td>
 <td><p>90.04</p></td>
 <td><p>0</p></td>
@@ -890,7 +890,7 @@
 <td><p>5</p></td>
 <td><p>5</p></td>
 <td><p>90.2(我愛過)<br />
-90.4(領悟、走味的咖啡)</p></td>
+90.4(領悟、走味的咖啡、苦海女神龍)</p></td>
 <td><p>90.32</p></td>
 <td><p>0</p></td>
 <td><p>0</p></td>
@@ -962,14 +962,40 @@
 </tr>
 <tr class="odd">
 <td><p>41</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/new" title="wikilink">new</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃昱豪" title="wikilink">黃昱豪</a></p></td>
 <td><p>（2019.08.31--）</p></td>
 <td><p>1</p></td>
 <td><p>0</p></td>
 <td><p>0</p></td>
-<td><p>()<br />
-()</p></td>
-<td></td>
+<td><p>90.0(每天都想呼喊你的名字)<br />
+90.0(每天都想呼喊你的名字)</p></td>
+<td><p>90.00</p></td>
+<td><p>0</p></td>
+<td><p>0</p></td>
+</tr>
+<tr class="even">
+<td><p>42</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/文孝華" title="wikilink">文孝華</a></p></td>
+<td><p>（2019.09.07--）</p></td>
+<td><p>1</p></td>
+<td><p>0</p></td>
+<td><p>0</p></td>
+<td><p>89.5(你怎麼捨得我難過)<br />
+89.5(你怎麼捨得我難過)</p></td>
+<td><p>89.50</p></td>
+<td><p>0</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="odd">
+<td><p>43</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/謝大葦" title="wikilink">謝大葦</a></p></td>
+<td><p>（2019.09.28--）</p></td>
+<td><p>1</p></td>
+<td><p>0</p></td>
+<td><p>0</p></td>
+<td><p>90.1(變調戀歌)<br />
+90.1(變調戀歌)</p></td>
+<td><p>90.10</p></td>
 <td><p>0</p></td>
 <td><p>0</p></td>
 </tr>
@@ -1127,7 +1153,7 @@
 <tr class="odd">
 <td><p>3</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/孫凱淇" title="wikilink">孫凱淇</a></p></td>
-<td><p>（2019.03.24--）</p></td>
+<td><p>（2019.03.24--2019.09.22）</p></td>
 <td><p>22</p></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
@@ -1158,7 +1184,7 @@
 <td><p>6</p></td>
 <td><p>6</p></td>
 <td><p>89.7(哎喲哎喲)<br />
-90.3(我愛洗澡、YO YO姐妹)</p></td>
+90.7(練舞功)</p></td>
 <td><p>90.04</p></td>
 <td><p>0</p></td>
 <td><p>8</p></td>
@@ -1197,10 +1223,23 @@
 <td><p>0</p></td>
 <td><p>0</p></td>
 <td><p>89.8(你看你看月亮的臉、檸檬樹)<br />
-90.0(嘟嘟好)</p></td>
-<td><p>89.88</p></td>
+90.1(姐姐妹妹站起來)</p></td>
+<td><p>89.94</p></td>
 <td><p>0</p></td>
 <td><p>4</p></td>
+</tr>
+<tr class="odd">
+<td><p>9</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/劉沛琪" title="wikilink">劉沛琪</a></p></td>
+<td><p>（2019.09.29--）</p></td>
+<td><p>0</p></td>
+<td><p>0</p></td>
+<td><p>0</p></td>
+<td><p><br />
+</p></td>
+<td></td>
+<td><p>0</p></td>
+<td><p>0</p></td>
 </tr>
 </tbody>
 </table>
@@ -2225,3 +2264,4 @@
 6.
 7.
 8.
+9.

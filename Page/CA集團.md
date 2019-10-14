@@ -163,7 +163,7 @@ CA集團的直營品牌管理和製造商事務主要是由「**Outvision Group*
 
   - CineMagic（「[BDSM](../Page/BDSM.md "wikilink")」專門製造商）（2007年7月開始營運） [官方網站](http://www.cinemagic.co.jp/top.html)
 
-  - シネマコーポレーション（エフエー映像出版プロダクト（FAプロ）的獨立部門） [官方網站](http://www.fa-pro.com/)
+  - シネマコーポレーション（エフエー映像出版プロダクト（FAプロ）的獨立部門） [官方網站](https://web.archive.org/web/20171227140102/http://www.fa-pro.com/)
 
   - EDGE（原屬MOODYZ的製造商後獨立）
 

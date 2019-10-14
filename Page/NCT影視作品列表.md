@@ -179,7 +179,7 @@ Naver V LIVE</p></td>
 <td><p>6</p></td>
 </tr>
 <tr class="odd">
-<td><p>2019年8月18日－至今</p></td>
+<td><p>2019年8月18日－9月24日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/優酷" title="wikilink">優酷</a></p></td>
 <td><p>《少年威計劃》</p></td>
 <td><p>錕、Ten、昀昀、Lucas、<br />
@@ -187,12 +187,12 @@ Naver V LIVE</p></td>
 <td><p>12</p></td>
 </tr>
 <tr class="even">
-<td><p>2019年8月25日－至今</p></td>
+<td><p>2019年8月25日－9月28日</p></td>
 <td></td>
 <td><p>《NCT 127 请指教JAPAN!》（第2季）</p></td>
 <td><p>泰一、Johnny、泰容、悠太、<br />
 道英、在玹、Mark、廷祐</p></td>
-<td></td>
+<td><p>6</p></td>
 </tr>
 </tbody>
 </table>
@@ -309,7 +309,7 @@ Jeno、楷燦、渽民、辰樂、志晟</p></td>
 <td><p>YouTube</p></td>
 <td><p>《NCT 127 HIT THE STATES》</p></td>
 <td><p>泰一、Johnny、泰容、悠太、<br />
-道英、在玹、昀昀、Mark、楷燦</p></td>
+道英、在玹、廷祐、Mark、楷燦</p></td>
 </tr>
 <tr class="even">
 <td><p>2019年3月18日－至今</p></td>
@@ -542,7 +542,7 @@ Jeno、东赫、渽民、志晟</p></td>
 <td><p>第1-6期</p></td>
 </tr>
 <tr class="odd">
-<td><p>2019年9月</p></td>
+<td><p>2019年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/SBS株式会社" title="wikilink">SBS</a></p></td>
 <td><p>《<a href="../Page/叢林的法則.md" title="wikilink">叢林的法則</a>》</p></td>
 <td><p>道英</p></td>
@@ -955,6 +955,7 @@ Jeno、东赫、渽民、志晟</p></td>
 | 2019年2月9日   | 70th Sapporo Snow Festival '11th K-POP FESTIVAL 2019' | Jeno、渽民   | 特别MC |
 | 2019年6月15日  | 2019 安東韓流演唱會                                          |           |      |
 | 2019年9月1日   | 2019 浦項韓流演唱會                                          | Jeno、辰樂   |      |
+| 2019年9月22日  | 第12届 KMF 2019 in Tokyo                                | Jeno、渽民   |      |
 |             |                                                       |           |      |
 
 ## 廣播電台

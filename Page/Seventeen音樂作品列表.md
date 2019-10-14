@@ -1,6 +1,6 @@
 《**SEVENTEEN音樂作品列表**》主要列舉[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[男子音樂組合](../Page/男子音乐组合.md "wikilink")[SEVENTEEN歷年發行之各類音樂作品](../Page/Seventeen_\(組合\).md "wikilink")。
 
-## 錄音室專輯
+## 正規專輯
 
 <table>
 <thead>

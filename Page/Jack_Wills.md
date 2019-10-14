@@ -18,7 +18,9 @@
 
 2014年2月，宣佈時裝設計師Richard Nicoll將成為Jack Wills的新創意總監，並於2015年春季開始生效。
 
- 截至2015年，Williams在Becker離任後恢復擔任首席執行官。Richard Nicoll也在2015年秋季友好地與公司分道揚標。
+2015年，Williams在Becker離任後恢復擔任首席執行官。Richard Nicoll也在2015年秋季友好地與公司分道揚標。
+
+2019年，Jack Wills申請清盤。其後，[Sports Direct以](https://zh.wikipedia.org/wiki/Sports_Direct "wikilink")1240萬英鎊收購Jack Wills。不過，Jack Wills位於香港的5間分店全線結業，香港的5間分店分別位於[沙田](https://zh.wikipedia.org/wiki/沙田 "wikilink")[新城市廣場](../Page/新城市廣場.md "wikilink")、[九龍塘](../Page/九龍塘.md "wikilink")[又一城](../Page/又一城.md "wikilink")、[元朗](../Page/元朗.md "wikilink")[YOHO MALL](https://zh.wikipedia.org/wiki/YOHO_MALL "wikilink")、[銅鑼灣](../Page/銅鑼灣.md "wikilink")[禮頓中心](../Page/禮頓中心.md "wikilink")及[尖沙咀](../Page/尖沙咀.md "wikilink")[海港城](../Page/海港城.md "wikilink")。 \[6\]
 
 ## 店舖
 
@@ -30,11 +32,11 @@ Jack Wills的產品都標記著品牌的簽名標誌:雉雞與頂帽子和拐杖
 
 ## 營銷
 
-該品牌的範圍被給予一個“私立學校”和“大學生”的形象，因為Jack Wills定價策略意味著衣服可能被認為難以負擔得起每個人。Jack Wills具有體育導向的大學品牌，例如與馬球，橄欖球和賽艇相關的服裝，例如J.W.R.C（Jack Wills Rowing Club）。Jack Wills的“大學服裝”稱號反映了其目標市場：大學生。然而，Jack Wills在中學和大學都很受歡迎。該品牌不使用傳統的廣告模式，而是依靠口碑營銷。這通常受到他們持有的產品刺激，例如Jack Wills運動員馬球，JW冇標籤和JW賽季。 2011年4月，ASA維持對Jack Wills 2011春季期手冊的投訴。該手冊包含一些有爭議的年輕成年人在脫衣服狀態下的形象。在他們的裁決中，ASA說，“我們的結論是，目錄是充分挑釁性的，給年輕的青少年帶來風險。 \[6\]
+該品牌的範圍被給予一個“私立學校”和“大學生”的形象，因為Jack Wills定價策略意味著衣服可能被認為難以負擔得起每個人。Jack Wills具有體育導向的大學品牌，例如與馬球，橄欖球和賽艇相關的服裝，例如J.W.R.C（Jack Wills Rowing Club）。Jack Wills的“大學服裝”稱號反映了其目標市場：大學生。然而，Jack Wills在中學和大學都很受歡迎。該品牌不使用傳統的廣告模式，而是依靠口碑營銷。這通常受到他們持有的產品刺激，例如Jack Wills運動員馬球，JW冇標籤和JW賽季。 2011年4月，ASA維持對Jack Wills 2011春季期手冊的投訴。該手冊包含一些有爭議的年輕成年人在脫衣服狀態下的形象。在他們的裁決中，ASA說，“我們的結論是，目錄是充分挑釁性的，給年輕的青少年帶來風險。 \[7\]
 
 ## Aubin & Wills
 
-Aubin＆Wills由Jack Wills於2008年9月推出，作為姐妹品牌，面向25歲及以上的客戶。它的口號是“現代英國設計靈感來自過去生活在現在”2012年11月，Jack Wills宣布終止Aubin & Wills的決定，以專注於主要品牌的全球增長，所有的交易在1月停止2013年。 \[7\]
+Aubin＆Wills由Jack Wills於2008年9月推出，作為姐妹品牌，面向25歲及以上的客戶。它的口號是“現代英國設計靈感來自過去生活在現在”2012年11月，Jack Wills宣布終止Aubin & Wills的決定，以專注於主要品牌的全球增長，所有的交易在1月停止2013年。 \[8\]
 
 ## 參考文獻
 
@@ -51,5 +53,6 @@ Aubin＆Wills由Jack Wills於2008年9月推出，作為姐妹品牌，面向25�
 3.  <cite class="citation web">["Jack Wills Jobs"](http://jackwills.com/Jack/Faq.aspx) <span class="reference-accessdate">. </span></cite>
 4.
 5.
-6.  <cite class="citation web">["Campaign Mag Website"](http://www.campaignlive.co.uk/news/1064106/)<span class="reference-accessdate">. </span></cite>
-7.  <cite class="citation news">Bergin, Olivia (23 October 2012). </cite>
+6.
+7.  <cite class="citation web">["Campaign Mag Website"](http://www.campaignlive.co.uk/news/1064106/)<span class="reference-accessdate">. </span></cite>
+8.  <cite class="citation news">Bergin, Olivia (23 October 2012). </cite>

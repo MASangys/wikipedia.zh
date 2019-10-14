@@ -83,7 +83,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>　<a href="https://zh.wikipedia.org/wiki/松本潤" title="wikilink">松本潤</a></p></td>
+<td><p>　<a href="../Page/松本潤.md" title="wikilink">松本潤</a></p></td>
 <td><p>　《<a href="https://zh.wikipedia.org/wiki/0.1無罪真相" title="wikilink">0.1無罪真相</a>》</p></td>
 <td></td>
 </tr>

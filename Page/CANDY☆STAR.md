@@ -1,7 +1,5 @@
 **CANDY☆STAR**是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[女子偶像團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，2009年2月16日成立於[高雄市](../Page/高雄市.md "wikilink")。初期以cover日系[動畫歌曲](../Page/動畫歌曲.md "wikilink")、[遊戲歌曲及](https://zh.wikipedia.org/wiki/遊戲歌曲 "wikilink")[秋葉原系偶像團體曲目為主](https://zh.wikipedia.org/wiki/秋葉原系 "wikilink")；2014年夏天發行首張原創單曲CD、2015年發行首張原創迷你專輯開始，逐漸以原創曲目作為演出重心。
 
-[Candy_Star_members_at_Beastie_Rock_20181007.jpg](https://zh.wikipedia.org/wiki/File:Candy_Star_members_at_Beastie_Rock_20181007.jpg "fig:Candy_Star_members_at_Beastie_Rock_20181007.jpg")
-
 ## 概要
 
 2009年CANDY☆STAR成立於高雄市，是一群懷抱夢想的女孩們為了推廣喜愛的文化與事物而成立的日系舞蹈表演團體，以日本[秋葉原](../Page/秋葉原.md "wikilink")[女僕咖啡廳](../Page/女僕咖啡廳.md "wikilink")的女僕風格服裝的主要識別表徵，為台灣最早之秋葉原系獨立偶像團體之一。

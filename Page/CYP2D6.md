@@ -18,7 +18,7 @@ CYP2D6是[细胞色素P450](../Page/细胞色素P450.md "wikilink")混合功能�
   - [Flockhart Lab Cyp2D6 Substrates Page](http://medicine.iupui.edu/flockhart/2D6.htm#2D6sub) at [IUPUI](../Page/印第安纳大学与普渡大学印第安纳波利斯联合分校.md "wikilink")
   - [PharmGKB: Annotated PGx Gene Information for CYP2D6](https://web.archive.org/web/20081207081045/http://www.pharmgkb.org/search/annotatedGene/cyp2d6/index.jsp)
 
-[Category:EC_1.14.14](https://zh.wikipedia.org/wiki/Category:EC_1.14.14 "wikilink")
+[Category:EC_1.14.14](https://zh.wikipedia.org/wiki/Category:EC_1.14.14 "wikilink") [Category:细胞色素P450](https://zh.wikipedia.org/wiki/Category:细胞色素P450 "wikilink")
 
 1.
 

@@ -92,7 +92,8 @@ MC劉(엠시 유)<br />
 畫片王(딱지왕)<br />
 劉陳(유첸)<br />
 small在錫(스몰재석)<br />
-醜男/樣衰男</p></td>
+醜男/樣衰男<br />
+小小在錫</p></td>
 <td><p><a href="../Page/街頭頑童_(男孩團體).md" title="wikilink">街頭頑童</a>《Step by Step》<br />
 <a href="https://zh.wikipedia.org/wiki/莫比" title="wikilink">莫比</a>《Extreme Ways》<br />
 <a href="../Page/張國榮.md" title="wikilink">張國榮</a>《當年情》<br />

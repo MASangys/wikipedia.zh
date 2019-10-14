@@ -192,7 +192,7 @@
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/金家恩" title="wikilink">金家恩</a></p></td>
 <td><p>濟秀珍</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/陳雪瑩" title="wikilink">陳雪瑩</a></p></td>
+<td><p><a href="../Page/陳雪瑩.md" title="wikilink">陳雪瑩</a></p></td>
 <td><p>濟秀東的妹妹。</p></td>
 </tr>
 <tr class="odd">
@@ -240,7 +240,7 @@
 <tr class="even">
 <td><p><a href="../Page/池秀媛.md" title="wikilink">池秀媛</a></p></td>
 <td><p>朴智秀</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/陳雪瑩" title="wikilink">陳雪瑩</a></p></td>
+<td><p><a href="../Page/陳雪瑩.md" title="wikilink">陳雪瑩</a></p></td>
 <td><p>韓武江的母親(金俊的首爾媽媽)，皇家醫院醫師。為了救韓武江的性命而狠心摘下被姜廈濫誤傷的金俊的心臟，只因金俊與韓武江一樣都是罕見的Rh陰性A血型。</p></td>
 </tr>
 <tr class="odd">
@@ -264,7 +264,7 @@
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/高承甫" title="wikilink">高承甫</a></p></td>
 <td><p>勳碩</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/陳雪瑩" title="wikilink">陳雪瑩</a></p></td>
+<td><p><a href="../Page/陳雪瑩.md" title="wikilink">陳雪瑩</a></p></td>
 <td><p>姜廈濫沒有血緣關係的弟弟。</p></td>
 </tr>
 <tr class="odd">
@@ -288,7 +288,7 @@
 <tr class="even">
 <td></td>
 <td><p>Tiffany／李英熙</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/陳雪瑩" title="wikilink">陳雪瑩</a></p></td>
+<td><p><a href="../Page/陳雪瑩.md" title="wikilink">陳雪瑩</a></p></td>
 <td><p>在聖托里尼酒吧工作，與吳萬秀及單浩博熟識。</p></td>
 </tr>
 <tr class="odd">
@@ -349,7 +349,7 @@
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/金泰律" title="wikilink">金泰律</a></p></td>
 <td><p>金建英</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/陳雪瑩" title="wikilink">陳雪瑩</a></p></td>
+<td><p><a href="../Page/陳雪瑩.md" title="wikilink">陳雪瑩</a></p></td>
 <td><p>武珍市愛心小學特教班的學童，患有身心障礙。</p></td>
 </tr>
 <tr class="odd">
@@ -379,7 +379,7 @@
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/車晴華" title="wikilink">車晴華</a></p></td>
 <td><p>Clara</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/陳雪瑩" title="wikilink">陳雪瑩</a></p></td>
+<td><p><a href="../Page/陳雪瑩.md" title="wikilink">陳雪瑩</a></p></td>
 <td><p>20年前，金善英與韓珍淑口中的克拉拉大嬸，是羅光堅的愛人。從事性交易工作，並誘騙金善英與韓珍淑加入；得到羅光堅的資助後突然失蹤。</p></td>
 </tr>
 <tr class="even">

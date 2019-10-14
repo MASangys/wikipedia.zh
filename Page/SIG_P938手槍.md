@@ -32,14 +32,14 @@ P938製有多個衍生型，分別是AG型、黑木型、春分型、極限型�
 
 ## 參見
 
-  - [貝瑞塔BU9 Nano手槍](../Page/貝瑞塔BU9_Nano手槍.md "wikilink")
+  - [貝瑞塔BU9 Nano半自動手槍](../Page/貝瑞塔BU9_Nano半自動手槍.md "wikilink")
   - [格洛克43](../Page/格洛克43.md "wikilink")
-  - [Hi-Point C-9手槍](https://zh.wikipedia.org/wiki/Hi-Point_C-9手槍 "wikilink")
-  - [Kel-Tec PF-9手槍](https://zh.wikipedia.org/wiki/Kel-Tec_PF-9手槍 "wikilink")
-  - [莫斯伯格MC1sc手槍](https://zh.wikipedia.org/wiki/莫斯伯格MC1sc手槍 "wikilink")
+  - [Hi-Point C-9半自動手槍](https://zh.wikipedia.org/wiki/Hi-Point_C-9半自動手槍 "wikilink")
+  - [Kel-Tec PF-9半自動手槍](https://zh.wikipedia.org/wiki/Kel-Tec_PF-9半自動手槍 "wikilink")
+  - [莫斯伯格MC1sc半自動手槍](https://zh.wikipedia.org/wiki/莫斯伯格MC1sc半自動手槍 "wikilink")
   - [雷明登R51手槍](../Page/雷明登R51手槍.md "wikilink")
-  - [儒格LC9手槍](https://zh.wikipedia.org/wiki/儒格LC9手槍 "wikilink")
-  - [春田XD-S手槍](../Page/春田XD-S手槍.md "wikilink")
+  - [儒格LC9半自動手槍](https://zh.wikipedia.org/wiki/儒格LC9半自動手槍 "wikilink")
+  - [春田XD-S半自動手槍](https://zh.wikipedia.org/wiki/春田XD-S半自動手槍 "wikilink")
   - [SIG P239手槍](../Page/SIG_P239手槍.md "wikilink")
   - [S\&W M\&P護盾型](../Page/史密斯威森軍警型半自動手槍.md "wikilink")
   - [-{zh-tw:華瑟;zh-cn:瓦爾特;}-PPS手槍](../Page/瓦爾特PPS手槍.md "wikilink")

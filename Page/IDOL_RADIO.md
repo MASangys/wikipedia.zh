@@ -8,21 +8,24 @@
 <td><p>姓名</p></td>
 <td><p>職業</p></td>
 <td><p>生日</p></td>
-<td><p>主持集數</p></td>
+<td><p>主持期間</p></td>
 <td><p>備註</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/徐恩光.md" title="wikilink">徐恩光</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/男歌手" title="wikilink">男歌手</a>，<a href="https://zh.wikipedia.org/wiki/男子音樂組合" title="wikilink">男子團體</a><a href="../Page/BTOB.md" title="wikilink">BTOB</a>成員、隊長</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/男歌手" title="wikilink">男歌手</a><br />
+<a href="https://zh.wikipedia.org/wiki/男子音樂組合" title="wikilink">男子團體</a><a href="../Page/BTOB.md" title="wikilink">BTOB</a>成員、隊長</p></td>
 <td></td>
-<td><p>第1－6集</p></td>
+<td><p>2018年7月7－28日</p></td>
 <td><p>一代DJ</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/鄭鎰勳.md" title="wikilink">鄭鎰勳</a></p></td>
-<td><p>男歌手，男子團體BTOB成員</p></td>
+<td><p>男歌手<br />
+男子團體BTOB成員</p></td>
 <td></td>
-<td><p>第7集至今<small>（第31、198、308集缺席）</small></p></td>
+<td><p>2018年10月13日－2019年9月30日<br />
+<small>（第31、198、308集缺席）</small> [4]</p></td>
 <td><p>二代DJ</p></td>
 </tr>
 </tbody>
@@ -434,11 +437,31 @@
 | EP348                 |
 | EP349                 |
 | EP350                 |
+|                       |
+
+| 2019年正規節目列表：EP351～400 |
+| --------------------- |
+|                       |
+| 集數                    |
 | EP351                 |
 | EP352                 |
 | EP353                 |
 | EP354                 |
 | EP355                 |
+| EP356                 |
+| EP357                 |
+| EP358                 |
+| EP359                 |
+| EP360                 |
+| EP361                 |
+| EP362                 |
+| EP363                 |
+| EP364                 |
+| EP365                 |
+| EP366                 |
+| EP367                 |
+| EP368                 |
+| EP369                 |
 |                       |
 
 ## 相關條目
@@ -464,3 +487,4 @@
 1.
 2.
 3.  [IDOL RADIO 官方Twitter 貼文](https://twitter.com/idolradiokorea/status/1047375268845740032)
+4.

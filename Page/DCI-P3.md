@@ -1,4 +1,4 @@
-[缩略图](https://zh.wikipedia.org/wiki/File:DCI-P3_D65.svg "fig:缩略图")光谱图。三角形的三个顶点是 DCI-P3 色彩空间的三个[原色](../Page/原色.md "wikilink")。 DCI-P3 D65 使用 Illuminant D65 作为[白点](https://zh.wikipedia.org/wiki/白点 "wikilink")。\]\] **DCI-P3**, 或 **DCI/P3**, 美國電影行業推出的一種廣色域標準，是目前數位電影回放設備的色彩標準之一。DCI是數位電影聯合\[Digital Cinema Initiatives\]的縮寫，主要由包括MGM、Disney、Universal、Warner、20th Century Fox 和 SPE 等多家美國的影業巨頭於2002年組織成立。
+[缩略图](https://zh.wikipedia.org/wiki/File:DCI-P3_D65.svg "fig:缩略图")光谱图。三角形的三个[顶点是](../Page/頂點_\(幾何\).md "wikilink") DCI-P3 色彩空间的三个[原色](../Page/原色.md "wikilink")。 DCI-P3 D65 使用 Illuminant D65 作为[白点](https://zh.wikipedia.org/wiki/白点 "wikilink")。\]\] **DCI-P3**, 或 **DCI/P3**, 美國電影行業推出的一種廣色域標準，是目前數位電影回放設備的色彩標準之一。DCI是數位電影聯合\[Digital Cinema Initiatives\]的縮寫，主要由包括MGM、Disney、Universal、Warner、20th Century Fox 和 SPE 等多家美國的影業巨頭於2002年組織成立。
 
 ## 历史
 

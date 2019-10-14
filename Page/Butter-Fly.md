@@ -116,6 +116,12 @@ CD编号：BFEP-0001
         和聲編寫：陳秀珠　
         吉他：倪方來
 
+## 注解
+
+<references group="注"/>
+
+<references group="註"/>
+
 ## 参考文献
 
 ## 外部链接

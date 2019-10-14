@@ -225,7 +225,7 @@
 
 **帕拉德（）**（[甲斐翔真](../Page/甲斐翔真.md "wikilink")飾）
 
-**仮野明日那（）/ Poppypipopapo（ポッピーピポパポ）**（[松田瑠華飾](https://zh.wikipedia.org/wiki/松田瑠華 "wikilink")）
+**仮野明日那（）/ Poppypipopapo（ポッピーピポパポ）**（[松田瑠華](../Page/松田瑠華.md "wikilink")飾）
 
 **寶生清長（）**
 

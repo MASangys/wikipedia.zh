@@ -120,7 +120,7 @@ UA安全性包括了認證、授權、加密以及透過簽名實現的資料整
 
 ## Python下的OPC UA
 
-[FreeOpcUa](https://freeopcua.github.io/)專案提供了以Python程式語言實現的OPC UA（和Python 2, 3 及pypy相容），也提供了OPC-UA客戶及伺服器的高層次抽象化，可以用在客戶的應用中，或是漸漸延伸到客戶的應用。西瓜
+[FreeOpcUa](https://freeopcua.github.io/)專案提供了以Python程式語言實現的OPC UA（和Python 2, 3 及pypy相容），也提供了OPC-UA客戶及伺服器的高層次抽象化，可以用在客戶的應用中，或是漸漸延伸到客戶的應用。
 
 ## IEC 62541
 

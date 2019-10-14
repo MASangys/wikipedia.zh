@@ -13,7 +13,7 @@
   -
     聲：[柿原徹也](../Page/柿原徹也.md "wikilink")、[矢島晶子](../Page/矢島晶子.md "wikilink")（幼時）（日本）；[簡懷甄](../Page/簡懷甄.md "wikilink")（香港）
   -
-    聲：[金田朋子](../Page/金田朋子.md "wikilink")（日本）（日本）；[何凱怡](https://zh.wikipedia.org/wiki/何凱怡 "wikilink")（香港）
+    聲：[金田朋子](../Page/金田朋子.md "wikilink")（日本）（日本）；[何凱怡](../Page/何凱怡.md "wikilink")（香港）
   -
     聲：[坂本千夏](../Page/坂本千夏.md "wikilink")（日本）；[陳凱婷](../Page/陳凱婷.md "wikilink")（香港）
   -
@@ -21,7 +21,7 @@
   -
     聲：[寺崎裕香](../Page/寺崎裕香.md "wikilink")
   -
-    聲：[山下七海](../Page/山下七海.md "wikilink")（日本）；[陳雪瑩](https://zh.wikipedia.org/wiki/陳雪瑩 "wikilink")（香港）
+    聲：[山下七海](../Page/山下七海.md "wikilink")（日本）；[陳雪瑩](../Page/陳雪瑩.md "wikilink")（香港）
   -
     聲：[中村悠一](../Page/中村悠一.md "wikilink")、吉永拓斗（幼少）
   -

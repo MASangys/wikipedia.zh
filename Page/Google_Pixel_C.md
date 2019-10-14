@@ -1,6 +1,6 @@
 **Pixel C**是[Google](../Page/Google.md "wikilink")研發的[Android](../Page/Android.md "wikilink")[平板电脑](https://zh.wikipedia.org/wiki/平板电脑 "wikilink")，於2015年9月29日发布。\[1\]同期主要競爭對手有[iPad Pro](https://zh.wikipedia.org/wiki/iPad_Pro "wikilink")、[Surface Pro 4](https://zh.wikipedia.org/wiki/Surface_Pro_4 "wikilink")。
 
-Google將Pixel C和Chromebook Pixel歸類為 Pixel系列，兩者同為Google自主生產。
+Google將Pixel C和Chromebook Pixel歸類為Pixel系列，兩者同為Google自主生產。
 
 ## 特色
 
@@ -18,7 +18,7 @@ Pixel C採用[NVIDIA Tegra X1處理器](https://zh.wikipedia.org/wiki/Nvidia_Teg
 
 ## 外部連結
 
-[Pixel C](https://store.google.com/product/pixel_c)
+  - [Pixel C](https://store.google.com/product/pixel_c)
 
 ## 參考資料
 

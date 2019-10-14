@@ -471,7 +471,7 @@
   - [élf](https://web.archive.org/web/20040710061823/http://www.elf-game.co.jp/)
   - [SILKY'S](https://web.archive.org/web/20140723131223/http://www.silkys.jp/)
 
-[Category:1989年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1989年開業電子遊戲公司 "wikilink") [Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink") [Category:中野區公司](https://zh.wikipedia.org/wiki/Category:中野區公司 "wikilink")
+[Category:1989年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1989年開業電子遊戲公司 "wikilink") [Category:日本已結業成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本已結業成人遊戲公司 "wikilink") [Category:中野區公司](https://zh.wikipedia.org/wiki/Category:中野區公司 "wikilink")
 
 1.
 2.  <http://news.pconline.com.cn/832/8322181.html>

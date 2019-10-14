@@ -61,7 +61,7 @@
 <td><p>學生動源</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/鍾翰林.md" title="wikilink">鍾翰林</a> Tony</p></td>
+<td><p>Tony</p></td>
 <td><p><a href="../Page/學生動源.md" title="wikilink">學生動源</a>召集人</p></td>
 <td><p>學生動源</p></td>
 </tr>
@@ -239,7 +239,7 @@
 
 ## 外部連結
 
-  - [Channel i官方網站](http://channel-i.hk)
+  - [Channel i官方網站](http://channel-i.hk/)
 
   -
   -

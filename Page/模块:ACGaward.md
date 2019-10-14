@@ -150,11 +150,12 @@ local list = {
 `   { 'Eky', 160 },`
 `   { 'Ellery', 8 },`
 `   { 'ER145545', 4 },  `
-`   { 'Ericliu1912', 170},`
+`   { 'Ericliu1912', 185},`
 `   { 'Eternalwind2005', 3 },`
 `   { 'Eternity Traveler', 4 },`
 `   { 'Ex20636', 1 },`
 `   { 'ExtremeEngine', 2 },`
+`   { 'EzrealChen', 5 },`
 `   { 'F.E.Nebula', 1 },`
 `   { 'F9000040', 3 },`
 `   { 'Fanglongzong', 5 },`
@@ -223,7 +224,7 @@ local list = {
 `   { 'IT DoNT', 1 },`
 `   { 'Itemx', 3 },`
 `   { 'Ivysia', 45, nickname = '艾薇希亞' },`
-`   { 'Jacklamf1d14', 298 },`
+`   { 'Jacklamf1d14', 314 },`
 `   { 'Jackyang721', 3 },`
 `   { 'Jacueni', 2 },`
 `   { 'Jasonforce', 6 },`
@@ -399,7 +400,8 @@ local list = {
 `   { 'Rocisjerk', 1 },`
 `   { 'Rogeryu', 16 },`
 `   { 'Rogidomain', 166 },`
-`   { 'Roviury', 2 },`
+`   { 'Rowingbohe', 4 },`
+`   { 'Rocisjerk', 1 },`
 `   { 'Ruukka', 2 },`
 `   { 'Ry1808', 2 },`
 `   { 'Ryokie38', 29 },`

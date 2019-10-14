@@ -218,7 +218,7 @@
 <td><p>基於AOSP，内置极度精简</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/YunOS" title="wikilink">YunOS</a></p></td>
+<td><p><a href="../Page/AliOS.md" title="wikilink">AliOS</a></p></td>
 <td><p><a href="../Page/阿里雲.md" title="wikilink">阿里雲</a></p></td>
 <td></td>
 <td><p>否</p></td>

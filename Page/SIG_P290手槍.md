@@ -18,13 +18,13 @@ SIG P290具有夜間瞄具。\[1\]\[2\]\[3\]夜間瞄具為附有兩點的缺口
 
 ## 參見
 
-  - [貝瑞塔BU9 Nano手槍](../Page/貝瑞塔BU9_Nano手槍.md "wikilink")
+  - [貝瑞塔BU9 Nano半自動手槍](../Page/貝瑞塔BU9_Nano半自動手槍.md "wikilink")
   - [格洛克43](../Page/格洛克43.md "wikilink")
-  - [Hi-Point C-9手槍](https://zh.wikipedia.org/wiki/Hi-Point_C-9手槍 "wikilink")
-  - [Kel-Tec PF-9手槍](https://zh.wikipedia.org/wiki/Kel-Tec_PF-9手槍 "wikilink")
+  - [Hi-Point C-9半自動手槍](https://zh.wikipedia.org/wiki/Hi-Point_C-9半自動手槍 "wikilink")
+  - [Kel-Tec PF-9半自動手槍](https://zh.wikipedia.org/wiki/Kel-Tec_PF-9半自動手槍 "wikilink")
   - [雷明登R51手槍](../Page/雷明登R51手槍.md "wikilink")
-  - [儒格LC9手槍](https://zh.wikipedia.org/wiki/儒格LC9手槍 "wikilink")
-  - [春田XD-S手槍](../Page/春田XD-S手槍.md "wikilink")
+  - [儒格LC9半自動手槍](https://zh.wikipedia.org/wiki/儒格LC9半自動手槍 "wikilink")
+  - [春田XD-S半自動手槍](../Page/春田XD-S半自動手槍.md "wikilink")
   - [SIG P230手槍](../Page/SIG_P230手槍.md "wikilink")
   - [SIG P238手槍](../Page/SIG_P238手槍.md "wikilink")
   - [SIG P239手槍](../Page/SIG_P239手槍.md "wikilink")

@@ -62,7 +62,7 @@
 </tr>
 <tr class="odd">
 <td><p>东界王</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/山本圭子" title="wikilink">山本圭子</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/山本圭子.md" title="wikilink">山本圭子</a></p></td>
 </tr>
 <tr class="even">
 <td><p>南界王</p></td>

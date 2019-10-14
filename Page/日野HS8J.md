@@ -1,4 +1,4 @@
-**日野HS8J**（）是[日本](../Page/日本.md "wikilink")[日野自動車生產的一款大型](https://zh.wikipedia.org/wiki/日野自動車 "wikilink")[低底盤公車](../Page/特低地台巴士.md "wikilink")，經過總代理[和泰汽車](../Page/和泰汽車.md "wikilink")向日野汽車積極爭取，由[國瑞汽車](../Page/國瑞汽車.md "wikilink")組裝於2015年底發表五期環保引擎版本\[1\]，並將於2019年9月推出六期環保引擎版本。
+**日野HS8J**（）是[日本](../Page/日本.md "wikilink")[日野自動車生產的一款大型](https://zh.wikipedia.org/wiki/日野自動車 "wikilink")[低底盤公車](../Page/特低地台巴士.md "wikilink")，經過總代理[和泰汽車](../Page/和泰汽車.md "wikilink")向日野汽車積極爭取，由[國瑞汽車](../Page/國瑞汽車.md "wikilink")組裝於2015年底發表五期環保引擎版本\[1\]，預計於2020年停止生產五期HS8J並推出六期環保版本。
 
 ## 規格\[2\]
 

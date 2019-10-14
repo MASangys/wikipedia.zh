@@ -7,4 +7,4 @@
   - [Docklands Light Railway website - Shadwell station page](https://web.archive.org/web/20070206020246/http://www.tfl.gov.uk/dlr/stations/shadwell.shtml)
   - [More photographs of this station](http://tubephotos.dannycox.me.uk/stations/shadwell.html)
 
-[Category:碼頭區輕便鐵路車站](https://zh.wikipedia.org/wiki/Category:碼頭區輕便鐵路車站 "wikilink") [Category:塔村區鐵路車站](https://zh.wikipedia.org/wiki/Category:塔村區鐵路車站 "wikilink")
+[Category:碼頭區輕便鐵路車站](https://zh.wikipedia.org/wiki/Category:碼頭區輕便鐵路車站 "wikilink") [Category:塔村區鐵路車站](https://zh.wikipedia.org/wiki/Category:塔村區鐵路車站 "wikilink") [Category:1987年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1987年啟用的鐵路車站 "wikilink")

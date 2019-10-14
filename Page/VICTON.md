@@ -329,6 +329,7 @@
 | 2015年10月5日-11月10日 |
 | 2019年6月4日- 6月26日  |
 | 2019年9月8日-        |
+| 2019年11月-         |
 
 ### 專屬綜藝節目
 
@@ -549,6 +550,7 @@
 | 2018年10月13日      | 《秋季浪漫音樂會》                                   | 群山青春夜市場                   |                                             |
 | 2018年11月24日      | 《 Posco Concert: Blooming Dreams》           | Posco中心大廳                 |                                             |
 | 2018年12月1日       | 《2018 Melon Music Awards》                   | 首爾高尺 Sky dome             | 許燦以1theK Dance War Team's Special Stage身分參與 |
+| 2019年11月1日       | 《2019 Concert Unicorn》                      | 延世大學露天劇場                  |                                             |
 
 ## 獎項
 

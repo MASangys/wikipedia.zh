@@ -156,7 +156,7 @@ Bayonetta3</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/銀河戰士系列.md" title="wikilink">銀河戰士Prime 4</a><br />
+<td><p><a href="../Page/銀河戰士_Prime_4.md" title="wikilink">銀河戰士 Prime 4</a><br />
 メトロイド<br />
 Metroid Prime 4</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/第一人稱遊戲" title="wikilink">第一人稱動作冒險</a></p></td>
@@ -6519,7 +6519,8 @@ Torchlight II</p></td>
 <td><p>動作</p></td>
 <td><p>WayForward<br />
 Arc System Works</p></td>
-<td><p>Arc System Works</p></td>
+<td><p>Arc System Works<br />
+H2 interactive(亞洲版)</p></td>
 <td></td>
 <td><p>2019年9月5日</p></td>
 <td><p>2019年9月5日</p></td>
@@ -7113,6 +7114,19 @@ Moon: Remix RPG Adventure<br />
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>[[熱血系列|街頭 大亂鬥進行曲Mach</p></td>
+<td><p>]]<br />
+ダウンタウン乱闘行進曲マッハ！！<br />
+River City Melee Mach</p></td>
+<td></td>
+<td><p>格鬥、動作</p></td>
+<td><p>Arc System Works</p></td>
+<td><p>Arc System Works<br />
+H2 interactive(亞洲版)</p></td>
+<td></td>
+<td><p>2019年10月10日</p></td>
+</tr>
+<tr class="even">
 <td><p>Killer Queen Black<br />
 (殺手皇后 黑)</p></td>
 <td><p>平台動作</p></td>
@@ -7123,7 +7137,7 @@ Moon: Remix RPG Adventure<br />
 <td><p>2019年10月11日</p></td>
 <td><p>2019年10月11日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Overpass<br />
 (越野賽車模擬器)</p></td>
 <td><p><a href="../Page/模擬遊戲.md" title="wikilink">駕駛模擬</a>、<a href="https://zh.wikipedia.org/wiki/賽車遊戲" title="wikilink">競速(賽車)</a></p></td>
@@ -7134,7 +7148,7 @@ Moon: Remix RPG Adventure<br />
 <td><p>2019年10月15日</p></td>
 <td><p>2019年10月15日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/鬥陣特攻.md" title="wikilink">鬥陣特攻 傳奇版</a><br />
 Overwatch Legendary Edition</p></td>
 <td><p>第一人稱射擊</p></td>
@@ -7145,7 +7159,7 @@ Overwatch Legendary Edition</p></td>
 <td><p>2019年10月15日</p></td>
 <td><p>2019年10月15日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/巫師3：狂獵" title="wikilink">巫師3：狂獵 完全版</a><br />
 The Witcher 3: Wild Hunt<br />
 Complete Edition<br />
@@ -7158,7 +7172,7 @@ Complete Edition<br />
 <td><p>2019年10月15日</p></td>
 <td><p>2019年10月15日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>小鎮英雄 (原暫名為TOWN)<br />
 Little Town Hero<br />
 リトルタウンヒーロー<br />
@@ -7172,7 +7186,7 @@ Little Town Hero<br />
 <td><p>2019年10月16日</p></td>
 <td><p>2019年10月16日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/牧場物語_重聚礦石鎮.md" title="wikilink">牧場物語 重聚礦石鎮</a><br />
 再会のミネラルタウン<br />
 Story of Seasons<br />
@@ -7186,7 +7200,7 @@ SEGA(亞洲版)</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>數碼暴龍物語 網路偵探X駭客追憶<br />
 (網路偵探完整版)<br />
 Digimon Story<br />
@@ -7199,7 +7213,7 @@ Cyber Sleuth: Complete Edition</p></td>
 <td><p>2019年10月18日</p></td>
 <td><p>2019年10月18日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/時光之帽" title="wikilink">時光之帽</a><br />
 A Hat in Time<br />
 (遊戲包含全DLC內容)</p></td>
@@ -7211,7 +7225,7 @@ A Hat in Time<br />
 <td><p>2019年10月18日</p></td>
 <td><p>2019年10月18日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/冰河世紀" title="wikilink">冰河世紀 小叻松果大冒險</a><br />
 Ice Age Scrat's Nutty Adventure</p></td>
 <td><p>動作冒險</p></td>
@@ -7222,7 +7236,7 @@ Ice Age Scrat's Nutty Adventure</p></td>
 <td><p>2019年10月18日</p></td>
 <td><p>2019年10月18日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><br />
 Ring Fit Adventure<br />
 リングフィット<br />
@@ -7236,7 +7250,7 @@ Ring Fit Adventure<br />
 <td><p>2019年10月18日</p></td>
 <td><p>2019年10月18日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>GIGA WRECKER Alt.<br />
 千兆破壞者Alt.</p></td>
 <td><p>平台動作</p></td>
@@ -7247,7 +7261,7 @@ Ring Fit Adventure<br />
 <td><p>2019年5月2日</p></td>
 <td><p>2019年5月2日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/Dusk_Diver_酉閃町.md" title="wikilink">酉閃町</a><br />
 Dusk Diver</p></td>
 <td><p>動作</p></td>
@@ -7258,7 +7272,7 @@ Dusk Diver</p></td>
 <td><p>2019年10月24日</p></td>
 <td><p>2019年10月24日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/生化危機5.md" title="wikilink">生化危機5</a><br />
 Resident Evil 5</p></td>
 <td><p>第三人稱射擊</p></td>
@@ -7269,7 +7283,7 @@ Resident Evil 5</p></td>
 <td><p>2019年10月29日</p></td>
 <td><p>2019年10月29日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/生化危機6.md" title="wikilink">生化危機6</a><br />
 Resident Evil 6</p></td>
 <td><p>第三人稱射擊</p></td>
@@ -7280,7 +7294,7 @@ Resident Evil 6</p></td>
 <td><p>2019年10月29日</p></td>
 <td><p>2019年10月29日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/生化危機系列.md" title="wikilink">生化危機主系列 續篇合集</a><br />
 Resident Evil TRIPLE PACK<br />
 (合集:4+5+6、只有4為卡帶內容)</p></td>
@@ -7293,7 +7307,7 @@ Resident Evil TRIPLE PACK<br />
 <td><p>2019年10月29日</p></td>
 <td><p>2019年10月29日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>迪士尼經典游戲：<br />
 阿拉丁與獅子王<br />
 Disney Classic Games:<br />
@@ -7307,7 +7321,7 @@ Aladdin and The Lion King<br />
 <td><p>2019年10月29日</p></td>
 <td><p>2019年10月29日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/吸血鬼_(遊戲).md" title="wikilink">霧都吸血鬼</a><br />
 Vampyr</p></td>
 <td><p>動作角色扮演</p></td>
@@ -7318,7 +7332,7 @@ Vampyr</p></td>
 <td><p>2019年10月29日</p></td>
 <td><p>2019年10月29日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/夢幻模擬戰系列.md" title="wikilink">夢幻模擬戰I&amp;II(完全重製)</a><br />
 Langrisser I&amp;II (REMAKE)</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/戰略角色扮演遊戲" title="wikilink">戰略角色扮演</a></p></td>
@@ -7329,7 +7343,7 @@ Langrisser I&amp;II (REMAKE)</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>槍彈突擊小妖精<br />
 <br />
 Gun Gun Pixies</p></td>
@@ -7341,7 +7355,7 @@ Gun Gun Pixies</p></td>
 <td><p>2019年9月6日</p></td>
 <td><p>2019年9月6日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/魔界戰記4.md" title="wikilink">魔界戰記4</a>Return(完全版)<br />
 魔界戦記ディスガイア4 Return<br />
 Disgaea 4 Return</p></td>
@@ -7353,7 +7367,7 @@ Disgaea 4 Return</p></td>
 <td><p>2019年10月31日</p></td>
 <td><p>2019年10月31日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/超級猴子球系列" title="wikilink">現嚐好滋味！超級猴子球</a><br />
 (超級猴子球：香蕉閃電戰HD)<br />
 たべごろ！スーパーモンキーボール<br />
@@ -7366,7 +7380,7 @@ Super Monkey Ball: Banana Blitz HD</p></td>
 <td><p>2019年10月31日</p></td>
 <td><p>2019年10月31日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/路易吉洋樓3.md" title="wikilink">路易吉洋樓3</a><br />
 Luigi’s Mansion 3<br />
 ルイージマンション3</p></td>
@@ -7379,7 +7393,7 @@ Luigi’s Mansion 3<br />
 <td><p>2019年10月31日</p></td>
 <td><p>2019年10月31日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>賽伯利亞/西伯利亞之謎 三部曲<br />
 Syberia Trilogy</p></td>
 <td><p>冒險(合集)</p></td>
@@ -7390,7 +7404,7 @@ Syberia Trilogy</p></td>
 <td><p>2019年10月31日</p></td>
 <td><p>2019年10月31日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>東方幻想麻雀<br />
 </p></td>
 <td><p>娛樂</p></td>
@@ -7401,7 +7415,7 @@ Syberia Trilogy</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>上古卷軸：刀鋒戰士<br />
 The Elder Scrolls: Legends</p></td>
 <td><p>角色扮演、第一人稱動作</p></td>
@@ -7414,7 +7428,7 @@ The Elder Scrolls: Legends</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/料理媽媽" title="wikilink">料理媽媽:料理明星</a><br />
 Cooking Mama:Cookstar</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/休閒遊戲" title="wikilink">休閒</a>、<a href="../Page/模擬遊戲.md" title="wikilink">模擬(烹飪)</a></p></td>
@@ -7425,9 +7439,10 @@ Cooking Mama:Cookstar</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/瑪利歐和音速小子在奧林匹克運動會系列.md" title="wikilink">瑪利歐&amp;索尼克 AT 東京奧運</a><br />
-マリオ&amp;ソニック AT 東京オリンピック</p></td>
+マリオ&amp;ソニック AT 東京オリンピック<br />
+Mario &amp; Sonic at the Olympic Games Tokyo 2020</p></td>
 <td><p>運動、<a href="https://zh.wikipedia.org/wiki/聚會遊戲" title="wikilink">聚會</a></p></td>
 <td><p>世嘉</p></td>
 <td><p>世嘉</p></td>
@@ -7436,7 +7451,7 @@ Cooking Mama:Cookstar</p></td>
 <td><p>2019年11月5日</p></td>
 <td><p>2019年11月8日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>舞力全開2020 保持跳動<br />
 <br />
 (系列十週年作品)</p></td>
@@ -7448,7 +7463,7 @@ Cooking Mama:Cookstar</p></td>
 <td><p>2019年11月5日</p></td>
 <td><p>2019年11月5日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>黑貓偵探<br />
 Blacksad: Under the Skin</p></td>
 <td><p>解謎、冒險</p></td>
@@ -7459,7 +7474,7 @@ Blacksad: Under the Skin</p></td>
 <td><p>2019年11月5日</p></td>
 <td><p>2019年11月5日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/加菲貓" title="wikilink">加菲貓卡丁車</a><br />
 Garfield Kart - Furious Racing</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/賽車遊戲" title="wikilink">競速(卡丁車)</a></p></td>
@@ -7470,7 +7485,7 @@ Garfield Kart - Furious Racing</p></td>
 <td><p>2019年11月5日</p></td>
 <td><p>2019年11月7日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/萌狐歷險記" title="wikilink">新萌狐歷險記<br />
 (新超級幸運狐/新超級拉奇傳說)</a><br />
 New Super Lucky's Tale</p></td>
@@ -7482,7 +7497,7 @@ New Super Lucky's Tale</p></td>
 <td><p>2019年11月8日</p></td>
 <td><p>2019年11月8日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/野蠻遊戲：瘋狂叢林.md" title="wikilink">逃出魔幻紀 叢林遊戲</a><br />
 Jumanji:The Video Game</p></td>
 <td><p>動作</p></td>
@@ -7493,7 +7508,7 @@ Jumanji:The Video Game</p></td>
 <td><p>2019年11月8日</p></td>
 <td><p>2019年11月8日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/寶可夢_劍／盾.md" title="wikilink">寶可夢精靈 劍／盾</a><br />
 ポケットモンスター<br />
 ソード・シールド<br />
@@ -7506,7 +7521,7 @@ Pokémon Sword &amp; Shield</p></td>
 <td><p>2019年11月15日</p></td>
 <td><p>2019年11月15日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/灰色的果實.md" title="wikilink">灰色的果實</a>。迷宮。楽園<br />
 グリザイアの果実・迷宮・楽園<br />
 (內容為合集三部曲)</p></td>
@@ -7518,7 +7533,7 @@ Pokémon Sword &amp; Shield</p></td>
 <td><p>2019年11月17日</p></td>
 <td><p>2019年11月17日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/泡泡龍_(1986年遊戲)" title="wikilink">泡泡龍4 朋友們</a><br />
 Bubble Bobble 4 Friends</p></td>
 <td><p>動作</p></td>
@@ -7530,7 +7545,7 @@ Bubble Bobble 4 Friends</p></td>
 <td></td>
 <td><p>2019年11月19日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/魔鬼戀人.md" title="wikilink">魔鬼戀人</a>合集(一及二代) Diabolik Lovers: Grand Edition</p></td>
 <td><p>戀愛冒險<br />
 (乙女)</p></td>
@@ -7541,7 +7556,7 @@ Bubble Bobble 4 Friends</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/毀滅戰士系列.md" title="wikilink">毀滅戰士64</a><br />
 DOOM 64</p></td>
 <td><p>第一人稱射擊</p></td>
@@ -7553,7 +7568,7 @@ DOOM 64</p></td>
 <td><p>2019年11月22日</p></td>
 <td><p>2019年11月22日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/毀滅戰士：永恆.md" title="wikilink">毀滅戰士 永恆ETERNAL</a><br />
 DOOM ETERNAL</p></td>
 <td><p>第一人稱射擊</p></td>
@@ -7565,7 +7580,7 @@ DOOM ETERNAL</p></td>
 <td><p>2019年11月22日</p></td>
 <td><p>2019年11月22日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/在地下城尋求邂逅是否搞錯了什麼" title="wikilink">在地下城尋求邂逅<br />
 是否搞錯了什麼<br />
 無限戰鬥</a><br />
@@ -7581,7 +7596,7 @@ DOOM ETERNAL</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/SD高達G世代" title="wikilink">SD高達G世紀 火線縱橫</a><br />
 SDガンダム ジージェネレーション<br />
 クロスレイズ<br />
@@ -7595,7 +7610,7 @@ Cross Rays</p></td>
 <td><p>2019年11月28日</p></td>
 <td><p>2019年11月28日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>幻想牢獄のカレイドスコープ<br />
 (曾暫定名為慘劇沙盒)<br />
 惨劇サンドボックス（仮）<br />
@@ -7608,7 +7623,7 @@ Cross Rays</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>FLOWERS四季<br />
 バスタフェロウズ</p></td>
 <td><p>戀愛冒險<br />
@@ -7620,7 +7635,7 @@ Cross Rays</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>The Touryst<br />
 (世界歷險)</p></td>
 <td><p>動作、解謎、冒險</p></td>
@@ -7631,7 +7646,7 @@ Cross Rays</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><br />
 Farming Simulator20</p></td>
 <td><p><a href="../Page/模擬遊戲.md" title="wikilink">模擬農耕</a></p></td>
@@ -7642,7 +7657,7 @@ Farming Simulator20</p></td>
 <td><p>2019年12月3日</p></td>
 <td><p>2019年12月3日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/符文工廠4_豪華版.md" title="wikilink">符文工廠4 Special</a><br />
 (原名:特別版.世嘉譯名:豪華版)<br />
 ルーンファクトリー 4<br />
@@ -7663,7 +7678,7 @@ HAKAMA</p></td>
 延後至<br />
 2020年1月21日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/小松先生" title="wikilink">もっと！にゅ～パズ松さん ～新品卒業計画～</a>(小松先生)</p></td>
 <td><p>消除、冒險</p></td>
 <td><p>D3 PUBLISHER</p></td>
@@ -7673,7 +7688,7 @@ HAKAMA</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/星海遊俠_(遊戲).md" title="wikilink">星海遊俠/星之海洋 首次啟航R</a><br />
 スターオーシャン<br />
 STAR OCEAN<br />
@@ -7686,7 +7701,7 @@ STAR OCEAN<br />
 <td><p>2019年12月5日</p></td>
 <td><p>2019年12月5日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>刺客教條:反叛合集<br />
 (<a href="../Page/刺客教條IV：黑旗.md" title="wikilink">IV:黑旗</a> + <a href="https://zh.wikipedia.org/wiki/刺客教條：叛變" title="wikilink">叛變復刻重置版</a>)<br />
 Assassin's Creed The Rebel Collection<br />
@@ -7699,7 +7714,7 @@ Assassin's Creed The Rebel Collection<br />
 <td><p>2019年12月6日</p></td>
 <td><p>2019年12月6日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/捉鬼敢死隊" title="wikilink">捉鬼敢死隊重製版</a><br />
 Ghostbusters：The Video Game Remastered<br />
 (中文譯名為台灣:魔鬼剋星)</p></td>
@@ -7711,7 +7726,7 @@ Ghostbusters：The Video Game Remastered<br />
 <td><p>2019年10月4日</p></td>
 <td><p>2019年10月4日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/侍魂系列.md" title="wikilink">侍魂 曉(新作2019)</a><br />
 Samurai Shodown(new2019)</p></td>
 <td><p>格鬥</p></td>
@@ -7722,7 +7737,7 @@ Samurai Shodown(new2019)</p></td>
 <td><p>2019年12月12日</p></td>
 <td><p>2019年12月12日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/忍者茶茶丸" title="wikilink">忍者茶茶丸 歷代合集</a><br />
 忍者じゃじゃ丸 コレクション</p></td>
 <td><p>(合集)動作、角色扮演</p></td>
@@ -7733,7 +7748,7 @@ Samurai Shodown(new2019)</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/歌之王子殿下.md" title="wikilink">歌之☆王子殿下♪Repeat LOVE</a><br />
 うたの☆プリンスさまっ♪Repeat LOVE</p></td>
 <td><p>戀愛冒險<br />
@@ -7745,7 +7760,7 @@ Samurai Shodown(new2019)</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>BUSTAFELLOWS<br />
 バスタフェロウズ</p></td>
 <td><p>戀愛冒險<br />
@@ -7757,7 +7772,7 @@ Samurai Shodown(new2019)</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>長空超少年Ψ<br />
 ESP.R.A.D.E Psi</p></td>
 <td><p><a href="../Page/彈幕射擊遊戲.md" title="wikilink">彈幕射擊</a></p></td>
@@ -7768,7 +7783,7 @@ ESP.R.A.D.E Psi</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>初音島4<br />
 D.C.4〜ダ・カーポ4〜</p></td>
 <td><p>戀愛冒險</p></td>
@@ -7779,7 +7794,7 @@ D.C.4〜ダ・カーポ4〜</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>絕對階級學園<br />
 </p></td>
 <td><p>戀愛冒險<br />
@@ -7793,7 +7808,7 @@ D.C.4〜ダ・カーポ4〜</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/無雙OROCHI系列.md" title="wikilink">OROCHI 大蛇無雙3 ULTIMATE</a><br />
 </p></td>
 <td><p>砍殺</p></td>
@@ -7803,6 +7818,17 @@ D.C.4〜ダ・カーポ4〜</p></td>
 <td><p>2019年12月19日</p></td>
 <td><p>2019年12月19日</p></td>
 <td><p>2019年12月19日</p></td>
+</tr>
+<tr class="odd">
+<td><p>東北大學加齡醫學研究所 川島隆太教授監修 大人的Nintendo Switch腦力鍛鍊(暫名)<br />
+</p></td>
+<td><p>益智</p></td>
+<td><p>任天堂企劃製作本部</p></td>
+<td><p>任天堂</p></td>
+<td></td>
+<td><p>2019年12月27日</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/飛龍騎士_(電子遊戲).md" title="wikilink">飛龍騎士 完全重製</a><br />
@@ -7912,17 +7938,6 @@ General Arcade</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/狂野飆車9：競速傳奇.md" title="wikilink">狂野飆車9：競速傳奇</a><br />
-Asphalt 9: Legends</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/賽車遊戲" title="wikilink">競速(賽車)</a></p></td>
-<td><p><a href="../Page/Gameloft.md" title="wikilink">Gameloft</a></p></td>
-<td><p>Gameloft</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>CAT QUEST II</p></td>
 <td><p>角色扮演</p></td>
 <td><p>The Gentlebros</p></td>
@@ -7932,7 +7947,7 @@ Asphalt 9: Legends</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>尤卡萊莉大冒險 不可能的巢穴<br />
 Yooka-Laylee and the Impossible Lair<br />
 ユーカレイリー</p></td>
@@ -7944,7 +7959,7 @@ Yooka-Laylee and the Impossible Lair<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>蘭島物語 少女的約定 復刻<br />
 レアランドストーリー少女の約定Remake<br />
 Lair Land Remake</p></td>
@@ -7958,7 +7973,7 @@ Arc System Works</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>らせつ封魔伝</p></td>
 <td><p>動作角色扮演</p></td>
 <td><p>exeCUTE</p></td>
@@ -7968,7 +7983,7 @@ Arc System Works</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/去月球.md" title="wikilink">去月球</a><br />
 To the Moon</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/視覺小說" title="wikilink">視覺小說</a>、<a href="https://zh.wikipedia.org/wiki/冒險遊戲" title="wikilink">冒險</a></p></td>
@@ -7979,7 +7994,7 @@ To the Moon</p></td>
 <td><p>2020年1月16日</p></td>
 <td><p>2020年1月16日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/幻影異聞錄♯FE" title="wikilink">幻影異聞錄♯FE Encore</a><br />
 <br />
 Tokyo Mirage Sessions ♯FE Encore</p></td>
@@ -7992,7 +8007,7 @@ Intelligent Systems</p></td>
 <td><p>2020年1月17日</p></td>
 <td><p>2020年1月17日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/洛克人零系列.md" title="wikilink">洛克人Zero</a>/<a href="../Page/洛克人ZX.md" title="wikilink">ZX 遺產合集</a><br />
 ロックマン ゼロ/ゼクス コレクション<br />
 Rockman ZERO/ZX Collection<br />
@@ -8005,7 +8020,7 @@ Mega Man ZERO/ZX Legacy Collection</p></td>
 <td><p>2020年1月21日</p></td>
 <td><p>2020年1月21日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/最終幻想水晶編年史系列" title="wikilink">最終幻想 水晶編年史 高清重置版</a><br />
 FINAL FANTASY CRYSTAL CHRONICLES Remaster EDITION HD</p></td>
 <td><p>角色扮演</p></td>
@@ -8016,7 +8031,7 @@ FINAL FANTASY CRYSTAL CHRONICLES Remaster EDITION HD</p></td>
 <td><p>2020年1月23日</p></td>
 <td><p>2020年1月23日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>初音未來 歌姬計劃 MEGA39's<br />
 初音ミク Project DIVA MEGA39's</p></td>
 <td><p>節奏</p></td>
@@ -8027,7 +8042,7 @@ FINAL FANTASY CRYSTAL CHRONICLES Remaster EDITION HD</p></td>
 <td><p>2020年2月13日</p></td>
 <td><p>2020年2月13日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>渡神紀<br />
 Gods &amp; Monsters<br />
 (曾用意譯:眾神與怪物)</p></td>
@@ -8039,7 +8054,7 @@ Gods &amp; Monsters<br />
 <td><p>2020年2月25日</p></td>
 <td><p>2020年2月25日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Dungeon Defenders: Awakened<br />
 地牢守護者:覺醒</p></td>
 <td><p>動作角色扮演</p></td>
@@ -8050,7 +8065,7 @@ Gods &amp; Monsters<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/集合啦！動物森友會.md" title="wikilink">集合啦！動物森友會</a><br />
 Animal Crossing: New Horizons<br />
 あつまれ どうぶつの森</p></td>
@@ -8062,7 +8077,7 @@ Animal Crossing: New Horizons<br />
 <td><p>2020年3月20日</p></td>
 <td><p>2020年3月20日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>聖劍傳說3(完全重製)<br />
 TRIALS of MANA(REMAKE)</p></td>
 <td><p>角色扮演</p></td>
@@ -8073,7 +8088,7 @@ TRIALS of MANA(REMAKE)</p></td>
 <td><p>2020年3月24日</p></td>
 <td><p>2020年3月24日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>夜下降生Exe:Late[cl-r]<br />
 Under Night In-Birth Exe:Late[cl-r]</p></td>
 <td><p>格鬥</p></td>
@@ -8084,7 +8099,7 @@ Under Night In-Birth Exe:Late[cl-r]</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>飛盤選手2<br />
 Windjammers2</p></td>
 <td><p>運動</p></td>
@@ -8095,7 +8110,7 @@ Windjammers2</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/當個創世神" title="wikilink">我的世界 地下城</a><br />
 MMinecraft Dungeons</p></td>
 <td><p>沙盒、角色扮演</p></td>
@@ -8107,7 +8122,7 @@ MMinecraft Dungeons</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Empire of Sin<br />
 (罪惡之城/罪惡帝國)</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/回合制策略遊戲" title="wikilink">回合制戰略</a>、<a href="https://zh.wikipedia.org/wiki/模擬經營遊戲" title="wikilink">模擬經營</a></p></td>
@@ -8118,7 +8133,7 @@ MMinecraft Dungeons</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>九龍妖魔學園紀ORIGIN OF ADVENTURE<br />
 </p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/文字冒險遊戲" title="wikilink">AVG冒險</a></p></td>
@@ -8130,7 +8145,7 @@ Toybox Games</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/殺手13" title="wikilink">刺客任務13完全重製</a><br />
 'XIII' (殺手13)</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/隱蔽類遊戲" title="wikilink">潛行</a>、第一人稱射擊</p></td>
@@ -8141,7 +8156,7 @@ Toybox Games</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>數碼暴龍 絕境求生<br />
 Digimon Survive</p></td>
 <td><p>角色扮演</p></td>
@@ -8152,7 +8167,7 @@ Digimon Survive</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>(東方系列)魔理沙與愛麗絲的陷阱塔<br />
 まりさとアリスのトラップタワー！</p></td>
 <td><p>射擊</p></td>
@@ -8163,7 +8178,7 @@ Digimon Survive</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>(東方計劃)第三眼<br />
 3rd eye (サードアイ)</p></td>
 <td><p>角色扮演</p></td>
@@ -8174,7 +8189,7 @@ Digimon Survive</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>(東方)幻走SkyDrift<br />
 幻走スカイドリフト</p></td>
 <td><p>競速</p></td>
@@ -8185,7 +8200,7 @@ Digimon Survive</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>永劫回廊<br />
 Neverinth</p></td>
 <td><p>動作</p></td>
@@ -8196,7 +8211,7 @@ Neverinth</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>The Red Lantern<br />
 (紅燈光傳記)</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/第一人稱遊戲" title="wikilink">第一人稱動作</a>、<a href="https://zh.wikipedia.org/wiki/視覺小說" title="wikilink">視覺小說</a></p></td>
@@ -8207,7 +8222,7 @@ Neverinth</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Mineko's Night Market<br />
 (美貓的夜市)</p></td>
 <td><p><a href="../Page/生活模擬遊戲.md" title="wikilink">模擬生活</a>、<a href="https://zh.wikipedia.org/wiki/模擬經營遊戲" title="wikilink">模擬經營</a></p></td>
@@ -8218,7 +8233,7 @@ Neverinth</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/她和他和她的澎湖灣.md" title="wikilink">她和他和她的澎湖灣</a><br />
 彼女と僕と彼女の澎湖湾<br />
 Blue Blood Lagoon</p></td>
@@ -8230,7 +8245,7 @@ Blue Blood Lagoon</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>飛盤選手2<br />
 Windjammers2</p></td>
 <td><p>運動</p></td>
@@ -8241,7 +8256,7 @@ Windjammers2</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Silver Chains</p></td>
 <td><p>第一人稱、恐怖</p></td>
 <td><p>CrackedHeads</p></td>
@@ -8251,7 +8266,7 @@ Windjammers2</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>清道夫(暫譯)<br />
 Scavengers</p></td>
 <td><p>動作</p></td>
@@ -8262,7 +8277,7 @@ Scavengers</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/拳皇XIV.md" title="wikilink">拳皇XIV</a><br />
 The King of Fighters XIV</p></td>
 <td><p>格鬥</p></td>
@@ -8273,7 +8288,7 @@ The King of Fighters XIV</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/合金彈頭系列" title="wikilink">合金彈頭/鋼鐵蟲師新作</a><br />
 Metal Slug(new)</p></td>
 <td><p>射擊、平台動作</p></td>
@@ -8284,7 +8299,7 @@ Metal Slug(new)</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/拳皇系列.md" title="wikilink">拳皇XV</a><br />
 The King of Fighters XV</p></td>
 <td><p>格鬥</p></td>
@@ -8295,7 +8310,7 @@ The King of Fighters XV</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/罪惡裝備" title="wikilink">罪惡裝備新作</a><br />
 Guilty Gear(new)</p></td>
 <td><p><a href="../Page/格鬥遊戲.md" title="wikilink">格鬥</a></p></td>
@@ -8306,7 +8321,7 @@ Guilty Gear(new)</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>海產決鬥<br />
 カニノケンカ Fight Crab</p></td>
 <td><p>格鬥、娛樂</p></td>
@@ -8317,7 +8332,7 @@ Guilty Gear(new)</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/遙遠時空.md" title="wikilink">遙遠時空</a>7<br />
 遙かなる時空の中で7</p></td>
 <td><p>戀愛冒險<br />
@@ -8329,7 +8344,7 @@ Guilty Gear(new)</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>LoverPretend</p></td>
 <td><p>戀愛冒險<br />
 (乙女)</p></td>
@@ -8340,7 +8355,7 @@ Guilty Gear(new)</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>ビルシャナ戦姫～源平伝～</p></td>
 <td><p>戀愛冒險<br />
 (乙女)</p></td>
@@ -8351,7 +8366,7 @@ Guilty Gear(new)</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>DAIROKU：AYAKASHIMORI</p></td>
 <td><p>戀愛冒險<br />
 (乙女)</p></td>
@@ -8362,7 +8377,7 @@ Guilty Gear(new)</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>キューピット・パラサイト</p></td>
 <td><p>戀愛冒險<br />
 (乙女)</p></td>
@@ -8373,7 +8388,7 @@ Guilty Gear(new)</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Collar×Malice<br />
 (for Nintendo Switch)<br />
 (二合一:含Unlimited)</p></td>
@@ -8386,7 +8401,7 @@ Guilty Gear(new)</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>明治活劇 ハイカラ流星組 -成敗しませう、世直し稼業-</p></td>
 <td><p>戀愛冒險<br />
 (乙女)</p></td>
@@ -8397,7 +8412,7 @@ Guilty Gear(new)</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>オランピアソワレ</p></td>
 <td><p>戀愛冒險<br />
 (乙女)</p></td>
@@ -8408,7 +8423,7 @@ Guilty Gear(new)</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>スペードの国のアリス<br />
 Wonderful White World<br />
 /Black World</p></td>
@@ -8421,7 +8436,7 @@ Wonderful White World<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>時計仕掛けのアポカリプス</p></td>
 <td><p>戀愛冒險<br />
 (乙女)</p></td>
@@ -8432,7 +8447,7 @@ Wonderful White World<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>ピオフィオーレの晩鐘 -Episodio1926-</p></td>
 <td><p>戀愛冒險<br />
 (乙女)</p></td>
@@ -8443,7 +8458,7 @@ Wonderful White World<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/歌之王子殿下.md" title="wikilink">歌之☆王子殿下♪Amazing Aria ＆ Sweet Serenade LOVE</a><br />
 うたの☆プリンスさまっ♪Amazing Aria ＆ Sweet Serenade LOVE</p></td>
 <td><p>戀愛冒險<br />
@@ -8455,7 +8470,7 @@ Wonderful White World<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/歌之王子殿下.md" title="wikilink">歌之☆王子殿下♪Dolce</a><br />
 うたの☆プリンスさまっ♪Dolce</p></td>
 <td><p>戀愛冒險<br />
@@ -8467,7 +8482,7 @@ Wonderful White World<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/歌之王子殿下.md" title="wikilink">歌之☆王子殿下♪Dolce Vita</a><br />
 うたの☆プリンスさまっ♪Dolce Vita</p></td>
 <td><p>戀愛冒險<br />
@@ -8479,7 +8494,7 @@ Wonderful White World<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>(東方)幻想のヴァルキューレ (仮題)</p></td>
 <td><p>動作</p></td>
 <td><p>領域ZERO</p></td>
@@ -8489,7 +8504,7 @@ Wonderful White World<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/桑塔.md" title="wikilink">桑塔<br />
 桑塔5(香緹5)</a>(香緹)與七塞壬<br />
 Shantae and the Seven Sirens<br />
@@ -8502,7 +8517,7 @@ Shantae5</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/魯弗蘭的地下迷宮與魔女的旅團.md" title="wikilink">迦雷里雅的地下迷宮與魔女的旅團</a><br />
 ガレリアの地下迷宮と魔女ノ旅団<br />
 Labyrinth of Galleria: Coven of Dusk</p></td>
@@ -8515,7 +8530,7 @@ SEGA:(亞洲版)</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>ボク姫PROJECT</p></td>
 <td><p>角色扮演</p></td>
 <td><p>日本一軟件</p></td>
@@ -8525,7 +8540,7 @@ SEGA:(亞洲版)</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Cake Bash<br />
 (蛋糕甜品亂鬥)</p></td>
 <td><p>動作、<a href="https://zh.wikipedia.org/wiki/休閒遊戲" title="wikilink">休閒</a>、<a href="https://zh.wikipedia.org/wiki/聚會遊戲" title="wikilink">聚會</a></p></td>
@@ -8536,7 +8551,7 @@ SEGA:(亞洲版)</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Cook, Serve, Delicious! 3?!<br />
 (烹飪,服務,好味道! 3?!)</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/模擬經營遊戲" title="wikilink">模擬經營</a>、<a href="../Page/模擬遊戲.md" title="wikilink">模擬(烹飪)</a></p></td>
@@ -8547,7 +8562,7 @@ SEGA:(亞洲版)</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Youropa<br />
 (3D視覺交錯)</p></td>
 <td><p>動作、解謎、平台</p></td>
@@ -8558,7 +8573,7 @@ SEGA:(亞洲版)</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Tools Up!<br />
 (胡鬧裝修)</p></td>
 <td><p>動作、<a href="https://zh.wikipedia.org/wiki/聚會遊戲" title="wikilink">聚會</a></p></td>
@@ -8569,7 +8584,7 @@ SEGA:(亞洲版)</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>SkaterXL<br />
 (滑板選手XL)</p></td>
 <td><p>運動、<a href="../Page/模擬遊戲.md" title="wikilink">動作模擬</a></p></td>
@@ -8580,7 +8595,7 @@ SEGA:(亞洲版)</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>風來之國<br />
 Eastward</p></td>
 <td><p>動作冒險、角色扮演</p></td>
@@ -8591,7 +8606,7 @@ Eastward</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/小小夢魘" title="wikilink">小小夢魘2</a><br />
 Little Nightmares2</p></td>
 <td><p>解謎、平台動作</p></td>
@@ -8602,7 +8617,7 @@ Little Nightmares2</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>致命預感2<br />
 レッドシーズプロファイル2<br />
 Deadly Premonition2<br />
@@ -8616,7 +8631,7 @@ Rising Star(歐美版)</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>幻想大陸戰記 路娜吉亞戰記<br />
 (魯納基亞戰記)<br />
 ブリガンダイン ルーナジア戦記<br />
@@ -8629,7 +8644,7 @@ Brigandine：Lunasia Senki</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/海綿寶寶.md" title="wikilink">海綿寶寶 -重新灌水-</a>：為比奇堡而戰<br />
 SpongeBob SquarePants:<br />
 Battle for Bikini Bottom - Rehydrated -</p></td>
@@ -8641,7 +8656,7 @@ Battle for Bikini Bottom - Rehydrated -</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>生化變種<br />
 Biomutant</p></td>
 <td><p>動作</p></td>
@@ -8652,7 +8667,7 @@ Biomutant</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>暗黑血統(末世騎士)起源<br />
 Darksiders Genesis</p></td>
 <td><p>砍殺、動作冒險</p></td>
@@ -8663,7 +8678,7 @@ Darksiders Genesis</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/外圍世界.md" title="wikilink">外圍世界</a><br />
 The Outer Worlds</p></td>
 <td><p>動作角色扮演</p></td>
@@ -8674,7 +8689,7 @@ The Outer Worlds</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>海商王4<br />
 Port Royale 4</p></td>
 <td><p>模擬經營</p></td>
@@ -8685,7 +8700,7 @@ Port Royale 4</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>海賊無雙4<br />
 ワンピース 海賊無双4</p></td>
 <td><p>動作</p></td>
@@ -8697,7 +8712,7 @@ Port Royale 4</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/FAIRY_TAIL" title="wikilink">FAIRY TAIL 魔導少年/妖精的尾巴</a><br />
 フェアリーテイル</p></td>
 <td><p>角色扮演</p></td>
@@ -8708,7 +8723,7 @@ Port Royale 4</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>泡泡糖忍戰<br />
 (Ninjala ニンジャラ)</p></td>
 <td><p>格鬥、動作</p></td>
@@ -8719,7 +8734,7 @@ Port Royale 4</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/英雄不再.md" title="wikilink">英雄不再</a>III<br />
 No More HeroesIII</p></td>
 <td><p>動作</p></td>
@@ -8730,7 +8745,7 @@ No More HeroesIII</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/空洞騎士.md" title="wikilink">空洞騎士 絲綢之歌</a> Hollow Knight Silksong</p></td>
 <td><p>類銀河戰士惡魔城系</p></td>
 <td><p>Team Cherry</p></td>
@@ -8740,7 +8755,7 @@ No More HeroesIII</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/符文工廠5.md" title="wikilink">符文工廠5</a><br />
 ルーンファクトリー5</p></td>
 <td><p>角色扮演、<a href="../Page/生活模擬遊戲.md" title="wikilink">模擬生活</a></p></td>
@@ -8751,7 +8766,7 @@ No More HeroesIII</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>JACK JEANNE<br />
 ジャックジャンヌ<br />
 (<a href="../Page/石田翠.md" title="wikilink">石田スイ</a> x Broccoli-新作)</p></td>
@@ -8763,7 +8778,7 @@ No More HeroesIII</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>白猫PROJECT 新作<br />
 白猫プロジェクト 新作</p></td>
 <td><p>冒險、角色扮演</p></td>
@@ -8774,7 +8789,7 @@ No More HeroesIII</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/桃太郎電鐵系列.md" title="wikilink">桃太郎電鐵 昭和平成令和也是基本</a><br />
 桃太郎電鉄 昭和、平成、令和も定番！<br />
 (為桃鐵大富翁正統新作)</p></td>
@@ -8786,7 +8801,7 @@ No More HeroesIII</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>任天堂偵探俱樂部<br />
 (FAMICOM/FC偵探俱樂部)<br />
 ファミコン探偵倶楽部<br />
@@ -8801,7 +8816,7 @@ Famicom Tantei Club</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/異度神劍.md" title="wikilink">異度神劍 終極版(決定版)</a><br />
 (完整重製+內容新增)<br />
 ゼノブレイド ディフィニティブ・エディション<br />
@@ -8814,7 +8829,7 @@ Xenoblade Chronicles: Definitive Edition</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/背後靈_(遊戲)" title="wikilink">背後靈</a><br />
 うしろ</p></td>
 <td><p>角色扮演</p></td>
@@ -8825,7 +8840,7 @@ Xenoblade Chronicles: Definitive Edition</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/薩爾達傳說_天空之劍.md" title="wikilink">薩爾達傳說 天空之劍(Switch:HD)</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/動作冒險遊戲" title="wikilink">動作冒險</a></p></td>
 <td><p><a href="../Page/任天堂情報開發本部.md" title="wikilink">任天堂情報開發本部</a>、<a href="../Page/Monolith_Soft.md" title="wikilink">Monolith Soft</a></p></td>
@@ -8835,7 +8850,7 @@ Xenoblade Chronicles: Definitive Edition</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/名偵探皮卡丘.md" title="wikilink">名偵探皮卡丘 續作</a><br />
 名探偵ピカチュウ 最新作<br />
 Detective Pikachu(new)</p></td>
@@ -8847,7 +8862,7 @@ Detective Pikachu(new)</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/薩爾達傳說_曠野之息" title="wikilink">薩爾達傳說 曠野之息 續集</a><br />
 ゼルダの伝説 (続編)<br />
 ブレス オブ ザ ワイルド<br />
@@ -8861,7 +8876,7 @@ Breath of the Wild(new)</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -8871,7 +8886,7 @@ Breath of the Wild(new)</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>e.g.格式名</p></td>
 <td><p>類型</p></td>
 <td><p>開發</p></td>
@@ -8881,7 +8896,7 @@ Breath of the Wild(new)</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

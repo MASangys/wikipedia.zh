@@ -8,7 +8,7 @@ LINE Pay使用[二維碼](../Page/二維碼.md "wikilink")(QR Code)或條碼(Bar
 
 ## 支付模式
 
-### 台灣地區
+### 中華民國台灣地區
 
 #### 一卡通帳戶
 
@@ -18,7 +18,7 @@ LINE Pay使用[二維碼](../Page/二維碼.md "wikilink")(QR Code)或條碼(Bar
 
 透過將合作金融機構的信用卡、簽帳卡加入到LINE Pay中，可用於與實體通路掃描QR Code進行消費。 截至2018年11月3日止，LINE Pay一卡通合作可加入全台下列三類信用卡[VISA](https://zh.wikipedia.org/wiki/:Visa金融卡 "wikilink")、[MasterCard](https://zh.wikipedia.org/wiki/MasterCard "wikilink")、[JCB](../Page/JCB.md "wikilink")。
 
-## 台灣地區應用
+## 中華民國台灣地區應用
 
 ### LINE Points
 

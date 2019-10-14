@@ -14,5 +14,5 @@
 6.  <http://portuguese.people.com.cn/n/2015/0427/c310816-8884272.html>
 7.  <http://portuguese.cri.cn/721/2015/05/04/1s199391.htm>
 8.  <http://news.china.com.cn/txt/2015-05/14/content_35573750.htm>
-9.  <http://espanol.cntv.cn/2015/06/09/VIDE1433811123876717.shtml>
+9.
 10. <http://espanol.cri.cn/821/2015/06/09/1s352191.htm>

@@ -33,6 +33,23 @@
 |  <small>2018</small>   | <small>不要死在崇拜裡</small> |          3          |
 |   <small>橙海</small>    |          2\*           |          9          |
 
+## 相關獎項或提名
+
+### 歌曲《說再見了吧》
+
+  - 2017 CASH金帆音樂獎 - 最佳樂隊演繹
+
+### 歌曲《靈感床》
+
+  - 2017年度叱咤樂壇流行榜頒獎典禮 - 專業推介叱吒十大 第三位
+
+### 歌曲《橙海》
+
+  - 2018 CASH金帆音樂獎 - 最佳樂隊演繹
+  - 第四十一屆十大中文金曲 - 十大金曲獎 第五位
+  - 第四十一屆十大中文金曲 - 全球華人至尊金曲獎
+  - 新城勁爆頒獎禮2018 - 勁爆填詞
+
 ## 參考資料
 
 [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink") [Category:Supper_Moment音樂專輯](https://zh.wikipedia.org/wiki/Category:Supper_Moment音樂專輯 "wikilink")
