@@ -47,7 +47,7 @@
 10. **STAY GOLD**
     （作詞：Macoto56、松本潤、作曲：Shinnosuke、編曲：Shinnosuke、Pieni tonttu、Captain B）
       -
-        [松本潤獨唱](https://zh.wikipedia.org/wiki/松本潤 "wikilink")
+        [松本潤](../Page/松本潤.md "wikilink")獨唱
 11. **[Bittersweet](../Page/Bittersweet.md "wikilink")**
     （作詞･作曲:100+、編曲：石塚知生）
       -

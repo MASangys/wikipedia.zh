@@ -50,7 +50,7 @@
 <td><center>
 <p><a href="../Page/傅其慧.md" title="wikilink">傅其慧</a></p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/何凱怡" title="wikilink">何凱怡</a></p></td>
+<p><a href="../Page/何凱怡.md" title="wikilink">何凱怡</a></p></td>
 </tr>
 <tr class="even">
 <td><center>

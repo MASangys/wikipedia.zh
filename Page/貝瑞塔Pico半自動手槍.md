@@ -50,7 +50,7 @@
 
 ## 參見
 
-  - [貝瑞塔70半自動手槍](https://zh.wikipedia.org/wiki/貝瑞塔70半自動手槍 "wikilink")
+  - [貝瑞塔70半自動手槍](../Page/貝瑞塔70半自動手槍.md "wikilink")
   - [貝瑞塔產品列表](../Page/貝瑞塔產品列表.md "wikilink")
   - [格洛克42](../Page/格洛克42.md "wikilink")
   - [Kevin ZP98手槍](../Page/Kevin_ZP98手槍.md "wikilink")

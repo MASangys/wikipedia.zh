@@ -22,7 +22,7 @@
   - 最佳作品獎：《[野豬大改造](../Page/野豬大改造.md "wikilink")》
   - 最佳男主角獎：[瀧澤秀明](../Page/瀧澤秀明.md "wikilink")（[義經](../Page/義經_\(大河劇\).md "wikilink")）
   - 最佳女主角獎：[仲間由紀惠](https://zh.wikipedia.org/wiki/仲間由紀惠 "wikilink")（[極道鮮師](../Page/極道鮮師.md "wikilink")2）
-  - 最佳男配角獎：[松本潤](https://zh.wikipedia.org/wiki/松本潤 "wikilink")（[流星花園](https://zh.wikipedia.org/wiki/流星花園_\(日本電視劇\) "wikilink")）
+  - 最佳男配角獎：[松本潤](../Page/松本潤.md "wikilink")（[流星花園](https://zh.wikipedia.org/wiki/流星花園_\(日本電視劇\) "wikilink")）
   - 最佳女配角獎：[藥師丸博子](../Page/藥師丸博子.md "wikilink")（[一公升的眼淚](../Page/一公升的眼淚_\(電視劇\).md "wikilink")）
   - 新進男演員獎：[龜梨和也](../Page/龜梨和也.md "wikilink")（野豬大改造）
   - 新進女演員獎：[堀北真希](../Page/堀北真希.md "wikilink")（野豬大改造）

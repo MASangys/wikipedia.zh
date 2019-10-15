@@ -163,7 +163,7 @@
 <td><p>2016年12月30日</p></td>
 <td><p>你的聲音（Sound of Your Heart）</p></td>
 <td><p><a href="../Page/SM_STATION.md" title="wikilink">SM STATION</a></p></td>
-<td><p><a href="../Page/藝聲.md" title="wikilink">藝聲</a>、<a href="https://zh.wikipedia.org/wiki/Luna" title="wikilink">朴善英</a>、<a href="https://zh.wikipedia.org/wiki/Seulgi" title="wikilink">Seulgi</a>、<a href="../Page/Wendy_(Red_Velvet).md" title="wikilink">Wendy (Red Velvet)</a>、<a href="https://zh.wikipedia.org/wiki/文泰一" title="wikilink">泰一</a>、<a href="../Page/道英.md" title="wikilink">道英</a></p></td>
+<td><p><a href="../Page/藝聲.md" title="wikilink">藝聲</a>、<a href="https://zh.wikipedia.org/wiki/Luna" title="wikilink">朴善英</a>、<a href="https://zh.wikipedia.org/wiki/Seulgi" title="wikilink">Seulgi</a>、<a href="../Page/Wendy_(Red_Velvet).md" title="wikilink">Wendy (Red Velvet)</a>、<a href="../Page/文泰一.md" title="wikilink">泰一</a>、<a href="../Page/道英.md" title="wikilink">道英</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2017年9月15日</p></td>

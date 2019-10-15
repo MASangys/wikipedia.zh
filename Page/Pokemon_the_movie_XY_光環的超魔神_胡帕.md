@@ -22,16 +22,16 @@
 
 ### 主要人物
 
-| 角色                                                                 | 配音員                                                     | 介紹                                                  |
-| ------------------------------------------------------------------ | ------------------------------------------------------- | --------------------------------------------------- |
-| 日本                                                                 | 香港                                                      | 臺灣                                                  |
-| [小智](../Page/小智.md "wikilink")（サトシ）                                | [松本梨香](../Page/松本梨香.md "wikilink")                      | [吳小藝](../Page/吳小藝.md "wikilink")                    |
-| [莎莉娜](https://zh.wikipedia.org/wiki/莎莉娜_\(神奇寶貝\) "wikilink")（セレナ）  | [牧口真幸](../Page/牧口真幸.md "wikilink")                      | [陳雪瑩](https://zh.wikipedia.org/wiki/陳雪瑩 "wikilink") |
-| [希特隆](https://zh.wikipedia.org/wiki/希特隆_\(神奇寶貝\) "wikilink")（シトロン） | [梶裕貴](../Page/梶裕貴.md "wikilink")                        | [莎拉](../Page/莎拉.md "wikilink")                      |
-| 柚麗嘉（ユリーカ）                                                          | [伊瀨茉莉也](../Page/伊瀨茉莉也.md "wikilink")                    | [顧詠雪](../Page/顧詠雪.md "wikilink")                    |
-| 武藏（ムサシ）                                                            | [林原惠](../Page/林原惠.md "wikilink")                        | [莊巧兒](../Page/莊巧兒.md "wikilink")                    |
-| 小次郎（コジロウ）                                                          | [三木眞一郎](https://zh.wikipedia.org/wiki/三木眞一郎 "wikilink") | [蔡忠衛](../Page/蔡忠衛.md "wikilink")                    |
-| 喵喵（ニャース）                                                           | [犬山犬子](../Page/犬山犬子.md "wikilink")                      | [王夢華](../Page/王夢華.md "wikilink")                    |
+| 角色                                                                 | 配音員                                                     | 介紹                               |
+| ------------------------------------------------------------------ | ------------------------------------------------------- | -------------------------------- |
+| 日本                                                                 | 香港                                                      | 臺灣                               |
+| [小智](../Page/小智.md "wikilink")（サトシ）                                | [松本梨香](../Page/松本梨香.md "wikilink")                      | [吳小藝](../Page/吳小藝.md "wikilink") |
+| [莎莉娜](https://zh.wikipedia.org/wiki/莎莉娜_\(神奇寶貝\) "wikilink")（セレナ）  | [牧口真幸](../Page/牧口真幸.md "wikilink")                      | [陳雪瑩](../Page/陳雪瑩.md "wikilink") |
+| [希特隆](https://zh.wikipedia.org/wiki/希特隆_\(神奇寶貝\) "wikilink")（シトロン） | [梶裕貴](../Page/梶裕貴.md "wikilink")                        | [莎拉](../Page/莎拉.md "wikilink")   |
+| 柚麗嘉（ユリーカ）                                                          | [伊瀨茉莉也](../Page/伊瀨茉莉也.md "wikilink")                    | [顧詠雪](../Page/顧詠雪.md "wikilink") |
+| 武藏（ムサシ）                                                            | [林原惠](../Page/林原惠.md "wikilink")                        | [莊巧兒](../Page/莊巧兒.md "wikilink") |
+| 小次郎（コジロウ）                                                          | [三木眞一郎](https://zh.wikipedia.org/wiki/三木眞一郎 "wikilink") | [蔡忠衛](../Page/蔡忠衛.md "wikilink") |
+| 喵喵（ニャース）                                                           | [犬山犬子](../Page/犬山犬子.md "wikilink")                      | [王夢華](../Page/王夢華.md "wikilink") |
 
 ### 客串人物
 

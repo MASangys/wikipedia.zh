@@ -16,7 +16,7 @@ RSh-12.7發射的[彈藥是與](https://zh.wikipedia.org/wiki/彈藥 "wikilink")
 
 ## 設計細節
 
-旋轉結構複雜的RSh-12.7是一把具有堅固的金屬[底把和向左擺出](../Page/机匣.md "wikilink")5發[弹巢的左輪手槍](https://zh.wikipedia.org/wiki/弹巢 "wikilink")。得益於設計上的一些特別元素（例如槍管軸線位於轉輪軸線之下、從彈巢最下方的膛室射擊而非從彈巢最上方的膛室射擊、符合[人體工程學的握把](../Page/人因工程学.md "wikilink")，等等），反而令RSh-12.7並不比其他許多左輪手槍和手槍口徑為大。就像許多發射火力強大子彈的左輪手槍那樣，RSh-12.7具有經強化的[槍管隔熱罩](https://zh.wikipedia.org/wiki/槍管罩筒 "wikilink")，並在槍管上方的轉輪座部分採用鏤空設計，令其很像槍管散熱[肋條](https://zh.wikipedia.org/wiki/肋條 "wikilink")，有助於減輕武器質量。
+旋轉結構複雜的RSh-12.7是一把具有堅固的金屬[底把和向左擺出](../Page/机匣.md "wikilink")5發[弹巢的左輪手槍](https://zh.wikipedia.org/wiki/弹巢 "wikilink")。得益於設計上的一些特別元素（例如槍管軸線位於轉輪軸線之下、從彈巢最下方的膛室射擊而非從彈巢最上方的膛室射擊、符合[人體工程學的握把](../Page/人因工程学.md "wikilink")，等等），反而令RSh-12.7並不比其他許多左輪手槍和手槍口徑為大。就像許多發射火力強大子彈的左輪手槍那樣，RSh-12.7具有經強化的[槍管隔熱罩](../Page/槍管罩筒.md "wikilink")，並在槍管上方的轉輪座部分採用鏤空設計，令其很像槍管散熱[肋條](https://zh.wikipedia.org/wiki/肋條 "wikilink")，有助於減輕武器質量。
 
 [機械瞄具](../Page/機械瞄具.md "wikilink")包括缺口式[照門及片狀](https://zh.wikipedia.org/wiki/照門 "wikilink")[準星](../Page/照準器.md "wikilink")。在槍管的頂部以及底部均裝上了[MIL-STD-1913戰術導軌分別用以安裝](../Page/皮卡汀尼導軌.md "wikilink")[光學瞄準鏡](https://zh.wikipedia.org/wiki/瞄準镜 "wikilink")、[紅點鏡](../Page/紅點鏡.md "wikilink")、[全息瞄準鏡](../Page/全像武器照準器.md "wikilink")、[夜視鏡](../Page/夜視鏡.md "wikilink")或[熱成像儀以及各種](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")[戰術燈](../Page/戰術燈.md "wikilink")、[雷射瞄準器和其他戰術配件](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")。
 
