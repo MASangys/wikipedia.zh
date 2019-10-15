@@ -1,1 +1,0 @@
-}} |image=[Imbox_content.png](https://zh.wikipedia.org/wiki/File:Imbox_content.png "fig:Imbox_content.png") |id=Visibility |expiry=indefinite }}<noinclude>  </noinclude>

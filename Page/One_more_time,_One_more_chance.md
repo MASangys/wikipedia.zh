@@ -39,7 +39,7 @@
 
   - [鄭中基](../Page/鄭中基.md "wikilink")於1999年改編為粵語版，歌名〈One more time〉，收錄於專輯《One more time》中
 
-  - [松本潤的翻唱版收錄在](https://zh.wikipedia.org/wiki/松本潤 "wikilink")2002年發行的專輯《ALL or NOTHING》
+  - [松本潤](../Page/松本潤.md "wikilink")的翻唱版收錄在2002年發行的專輯《ALL or NOTHING》
 
   - [島谷瞳的翻唱版收錄在](https://zh.wikipedia.org/wiki/島谷瞳 "wikilink")2007年發行的專輯《男歌〜cover song collection〜》
 

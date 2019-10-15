@@ -32,7 +32,7 @@
   - 廻る世界で＜duet with [霜月はるか](https://zh.wikipedia.org/wiki/霜月はるか "wikilink")＞（[PlayStation 2遊戲](../Page/PlayStation_2.md "wikilink")「アカイイト」開頭主題歌）
   - 旅路の果て＜duet with 霜月はるか＞（PlayStation 2遊戲「アカイイト」結尾主題歌）
   - ディアノイア（電腦遊戲「[最終試験くじら](https://zh.wikipedia.org/wiki/最終試験くじら "wikilink")」開頭主題歌）
-  - CRESCENT MOON（PlayStation 2＆[Dreamcast](../Page/Dreamcast.md "wikilink")遊戲「[水月](https://zh.wikipedia.org/wiki/水月 "wikilink")～迷心～」開頭主題歌）
+  - CRESCENT MOON（PlayStation 2＆[Dreamcast](../Page/Dreamcast.md "wikilink")遊戲「[水月](../Page/水月.md "wikilink")～迷心～」開頭主題歌）
   - メグメル（電腦遊戲「[CLANNAD](../Page/CLANNAD.md "wikilink")」開頭主題歌）
   - －影二つ－／小さなてのひら（電腦遊戲「CLANNAD」結尾主題歌）
   - 光のほうへ～明日へのJYUMON～（PlayStation 2遊戲「マビノ×スタイル」開頭主題歌）

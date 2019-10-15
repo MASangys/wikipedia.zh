@@ -43,7 +43,7 @@
   - [PIKA☆NCHI 生活艱難但是快樂](../Page/PIKA☆NCHI_生活艱難但是快樂.md "wikilink")（2002年）
   - PIKA☆☆NCHI LIFE IS HARD 所以 HAPPY（2004年）
   - 黃色眼淚（2007年）
-  - 電影 [戰國英豪](../Page/戰國英豪.md "wikilink")（2008年）\*[松本潤主演](https://zh.wikipedia.org/wiki/松本潤 "wikilink")
+  - 電影 [戰國英豪](../Page/戰國英豪.md "wikilink")（2008年）\*[松本潤](../Page/松本潤.md "wikilink")主演
 
 ### V6
 

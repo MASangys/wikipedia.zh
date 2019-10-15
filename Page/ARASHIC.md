@@ -40,7 +40,7 @@
 9.  **I Want Somebody**
     （作詞：Axel G　作曲・編曲：Shusui、Stefan Aberg、Fredrik Hult、Ola Larsson）
       -
-        [松本潤主音](https://zh.wikipedia.org/wiki/松本潤 "wikilink")
+        [松本潤](../Page/松本潤.md "wikilink")主音
 10. **Secret Eyes**
     （作詞：Erykah　Rap詞：櫻井翔　作曲：Gajin　編曲：岩田雅之）
       -

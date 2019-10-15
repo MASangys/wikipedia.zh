@@ -1,1 +1,0 @@
-**黃心健**是[台灣知名的](https://zh.wikipedia.org/wiki/台灣 "wikilink")[藝術家](https://zh.wikipedia.org/wiki/藝術家 "wikilink")，出身於[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[臺北](../Page/臺北市.md "wikilink")。黃心健曾擔任[Sony以及](https://zh.wikipedia.org/wiki/Sony "wikilink")[Sega藝術總監](https://zh.wikipedia.org/wiki/Sega "wikilink")。

@@ -6,7 +6,7 @@
   - 初回限定盤中收錄五人各自的Solo曲，通常盤追加收錄Bonus Track《Once Again》。
   - 對嵐而言，是罕見的在夏天以外發售的原創專輯。上一次已是出道專輯的事了。
   - 承接前作，取得[日本公信榜專輯榜](../Page/Oricon.md "wikilink")1位，突破20萬枚的初動銷量，為自身第2高。另外亦於公信榜年度專輯榜取得30位，是2008年發售的[傑尼斯藝人的專輯中的最高位](../Page/傑尼斯事務所.md "wikilink")。
-  - 「Dream」及「Alive」為分別由[松本及](https://zh.wikipedia.org/wiki/松本潤 "wikilink")[櫻井提出](../Page/櫻井翔.md "wikilink")。將兩者結合，就成為了標題的《Dream"A"live》。
+  - 「Dream」及「Alive」為分別由[松本及](../Page/松本潤.md "wikilink")[櫻井提出](../Page/櫻井翔.md "wikilink")。將兩者結合，就成為了標題的《Dream"A"live》。
 
 ## 收錄曲
 
@@ -64,9 +64,9 @@
       -
         [大野智](../Page/大野智.md "wikilink") solo
 4.  **Naked**
-    （作詞：[潤](https://zh.wikipedia.org/wiki/松本潤 "wikilink")、廣田由佳　作曲・編曲：吉岡拓）
+    （作詞：[潤](../Page/松本潤.md "wikilink")、廣田由佳　作曲・編曲：吉岡拓）
       -
-        [松本潤](https://zh.wikipedia.org/wiki/松本潤 "wikilink") solo
+        [松本潤](../Page/松本潤.md "wikilink") solo
 5.  **Hip Pop Boogie**
     （Lyric：櫻井翔　Track making：COUNT FORCE）
       -

@@ -447,7 +447,7 @@
 <td><p><strong>遊戲</strong><br />
 （遊戯）</p></td>
 <td><ul>
-<li><p>（椚禮次郎／<a href="https://zh.wikipedia.org/wiki/但他林" title="wikilink">ダンタリアン人間体</a>）</p></li>
+<li><p>（椚禮次郎／<a href="../Page/但他林.md" title="wikilink">ダンタリアン人間体</a>）</p></li>
 </ul></td>
 <td></td>
 </tr>

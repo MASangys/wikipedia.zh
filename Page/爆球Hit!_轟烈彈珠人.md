@@ -33,7 +33,7 @@
 
 <!-- end list -->
 
-  - 月野 金太（配音員：[福圓美里](../Page/福圓美里.md "wikilink")／臺：[雷碧文](../Page/雷碧文.md "wikilink")／港：[陳雪瑩](https://zh.wikipedia.org/wiki/陳雪瑩 "wikilink")）
+  - 月野 金太（配音員：[福圓美里](../Page/福圓美里.md "wikilink")／臺：[雷碧文](../Page/雷碧文.md "wikilink")／港：[陳雪瑩](../Page/陳雪瑩.md "wikilink")）
 
 <!-- end list -->
 

@@ -2,7 +2,7 @@
 
 ## 解說
 
-  - 與前作相距約半年，接續2005年的《[WISH](../Page/WISH_\(嵐\).md "wikilink")》，成為成員[松本潤](https://zh.wikipedia.org/wiki/松本潤 "wikilink")《[花樣男子2](https://zh.wikipedia.org/wiki/流星花園_\(日本電視劇\)#流星花園2 "wikilink")》主題曲。
+  - 與前作相距約半年，接續2005年的《[WISH](../Page/WISH_\(嵐\).md "wikilink")》，成為成員[松本潤](../Page/松本潤.md "wikilink")《[花樣男子2](https://zh.wikipedia.org/wiki/流星花園_\(日本電視劇\)#流星花園2 "wikilink")》主題曲。
   - 初動銷量突破20萬枚。上一次已是2002年的《[a Day in Our Life](https://zh.wikipedia.org/wiki/a_Day_in_Our_Life "wikilink")》的事了。
   - 組合連續第7張[Oricon](../Page/Oricon.md "wikilink")冠軍單曲，亦是Oricon的第1001張冠軍單曲。連續5週進入TOP10，於嵐而言是歷時最長的一次。
   - 分初回盤、通常盤2種發售。封套有所不同之餘，通常盤更追加收錄了由成員自行創作的新歌。

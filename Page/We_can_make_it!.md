@@ -2,7 +2,7 @@
 
 ## 解說
 
-  - 主打歌為成員[松本潤主演劇](https://zh.wikipedia.org/wiki/松本潤 "wikilink")《[料理新鮮人](../Page/料理新鮮人.md "wikilink")》的主題曲，又為2007年嵐連續第二首、第二季的劇集主題曲。
+  - 主打歌為成員[松本潤](../Page/松本潤.md "wikilink")主演劇《[料理新鮮人](../Page/料理新鮮人.md "wikilink")》的主題曲，又為2007年嵐連續第二首、第二季的劇集主題曲。
   - 接續前作，為連續第8張、合計第15張[Oricon](../Page/Oricon.md "wikilink")冠軍單曲。
 
 ## 收錄曲

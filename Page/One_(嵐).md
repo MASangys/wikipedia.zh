@@ -37,7 +37,7 @@
 10. **W/ME** (3:13)
     （作詞：Axel G　作曲：Peter Bjorklund）
       -
-        [松本潤](https://zh.wikipedia.org/wiki/松本潤 "wikilink") solo
+        [松本潤](../Page/松本潤.md "wikilink") solo
 11. **秘密** (4:40)
     （作詞・作曲：磯貝西門）
       -

@@ -1,3 +1,0 @@
-<includeonly>}}}}}}}}}}}}} |NOTE_1_TEXT = 根据标记，本条目需要相片。 |NOTE_1_IMAGE = Gnome-dev-camera.svg |NOTE_1_CAT = 需要相片的传记条目 |note 2 =  |NOTE_2_TEXT = 根据标记，本条目需要补充更多[来源](https://zh.wikipedia.org/wiki/WP:列明来源 "wikilink")**[以供查证](https://zh.wikipedia.org/wiki/WP:可供查证 "wikilink")**。 |NOTE_2_IMAGE = Question_book-4.svg |NOTE_2_CAT = 需要補充來源的传记條目 |peer review =  |old peer review = {{\#switch:||¬|no=|yes}} |LINK = Wikipedia:同行评审 |title = {{\#switch:||¬|no|yes=|\#default=}} |IMAGE = Cvg peerreview icon.png |CAT = |OLD_CAT = 通過同行評審的传记條目 |HOOK_COLLAPSED =  |COLLAPSED=999 }}</includeonly><noinclude></noinclude>
-
-[Category:专题标志模板](https://zh.wikipedia.org/wiki/Category:专题标志模板 "wikilink")

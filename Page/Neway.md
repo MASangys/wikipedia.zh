@@ -99,7 +99,7 @@ Neway K-fun
   - [TVB](../Page/電視廣播有限公司.md "wikilink")（Neway獨家）
 
       - [星夢娛樂](https://zh.wikipedia.org/wiki/星夢娛樂 "wikilink")（Neway獨家）
-      - [TVB Music](https://zh.wikipedia.org/wiki/正視音樂 "wikilink")（Neway獨家）
+      - [TVB Music](../Page/正視音樂.md "wikilink")（Neway獨家）
 
   - [Gain Capital](../Page/中星集團.md "wikilink")
 

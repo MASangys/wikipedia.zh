@@ -17,7 +17,7 @@ SPAS-12是在1970年代的目的是用作一款[半自動軍事或執法機關�
 
 SPAS-12具有兩個操作模式的系統。
 
-第一個設置是半自動操作，在這個模式下，在SPAS-12的[隔熱罩以下的前](https://zh.wikipedia.org/wiki/槍管罩筒 "wikilink")[護木在較前的位置](https://zh.wikipedia.org/wiki/護木 "wikilink")。氣動式系統會被鎖定並利用發射後的瓦斯氣體來進行上下一發的霰彈並且無需作其他的操作，而且SPAS-12可以以大約每秒4發的射速射擊，當然第一發仍要用力來回拉動把手。
+第一個設置是半自動操作，在這個模式下，在SPAS-12的[隔熱罩以下的前](../Page/槍管罩筒.md "wikilink")[護木在較前的位置](https://zh.wikipedia.org/wiki/護木 "wikilink")。氣動式系統會被鎖定並利用發射後的瓦斯氣體來進行上下一發的霰彈並且無需作其他的操作，而且SPAS-12可以以大約每秒4發的射速射擊，當然第一發仍要用力來回拉動把手。
 
 第二個設置是泵动式操作，在這個模式下，在SPAS-12的隔熱罩下的前護木在較後的位置。每次射擊後必須手動用力來回拉動護木以排出彈殼和從[管式彈倉裝載了新一發霰彈](https://zh.wikipedia.org/wiki/彈匣#管式彈倉 "wikilink")。此模式適合用來發射各種低壓[彈藥和](https://zh.wikipedia.org/wiki/彈藥 "wikilink")[非致命性彈藥](../Page/非致命性武器.md "wikilink")，例如[鳥彈](https://zh.wikipedia.org/wiki/鳥彈 "wikilink")、、[豆袋彈](../Page/豆袋彈.md "wikilink")、[催淚彈](../Page/催淚彈.md "wikilink")（[CS氣體槍榴彈](https://zh.wikipedia.org/wiki/CS氣體槍榴彈 "wikilink")）、[鹽彈或](https://zh.wikipedia.org/wiki/鹽彈 "wikilink")等。
 
@@ -40,7 +40,7 @@ SPAS-12亦具有一個彈倉切斷裝置，當這裝置被啟動，就會阻止[
 
 ### 槍管及槍口裝置
 
-[Franchi_Barrel_Length_SPAS-12_21-1-2"_Bbl_VS_19-7-8"_Bbl.jpg](https://zh.wikipedia.org/wiki/File:Franchi_Barrel_Length_SPAS-12_21-1-2"_Bbl_VS_19-7-8"_Bbl.jpg "fig:Franchi_Barrel_Length_SPAS-12_21-1-2\"_Bbl_VS_19-7-8\"_Bbl.jpg") SPAS-12上的一大獨特功能是[钢](../Page/钢.md "wikilink")板壓鑄成型的[槍管](../Page/槍管.md "wikilink")、方形設計包裹橡膠的[隔熱罩和槍管下方的護木通氣孔](https://zh.wikipedia.org/wiki/槍管罩筒 "wikilink")，可以有效隔開長時間不斷射擊造成[槍管](../Page/槍管.md "wikilink")表面的溫度過高，令使用者能夠正常操作和作出各種戰術動作而不受到任何影響。
+[Franchi_Barrel_Length_SPAS-12_21-1-2"_Bbl_VS_19-7-8"_Bbl.jpg](https://zh.wikipedia.org/wiki/File:Franchi_Barrel_Length_SPAS-12_21-1-2"_Bbl_VS_19-7-8"_Bbl.jpg "fig:Franchi_Barrel_Length_SPAS-12_21-1-2\"_Bbl_VS_19-7-8\"_Bbl.jpg") SPAS-12上的一大獨特功能是[钢](../Page/钢.md "wikilink")板壓鑄成型的[槍管](../Page/槍管.md "wikilink")、方形設計包裹橡膠的[隔熱罩和槍管下方的護木通氣孔](../Page/槍管罩筒.md "wikilink")，可以有效隔開長時間不斷射擊造成[槍管](../Page/槍管.md "wikilink")表面的溫度過高，令使用者能夠正常操作和作出各種戰術動作而不受到任何影響。
 
 另外，SPAS-12的槍管外部亦可裝上各種各樣的附件，包括固定槍榴彈的卡環、、以及氣體榴彈發射器。該槍的槍管為微縮口內膛式，而在40公尺（43.74[码](https://zh.wikipedia.org/wiki/码 "wikilink")，131,23[英尺](https://zh.wikipedia.org/wiki/英尺 "wikilink")）範圍以內的單發霰彈正常散播[直径](../Page/直径.md "wikilink")範圍為大約900毫米（35.43英吋），減少了精確瞄準的需要。在半自動操作模式以下的[射速為大約](https://zh.wikipedia.org/wiki/射速 "wikilink")4發／秒（24—30發／分鐘），而且在此射速、發射標準[鹿彈以下](https://zh.wikipedia.org/wiki/霰彈 "wikilink")，可在40米範圍以內把48顆／秒的[彈丸射向](https://zh.wikipedia.org/wiki/霰彈彈丸 "wikilink")1[平方米](../Page/平方米.md "wikilink")內的目標。在此範圍內的每顆彈丸有著比.32口徑手槍子彈多大約50％的驚人能量。
 
@@ -66,7 +66,7 @@ SPAS-12具有兩個保險裝置：槓桿式或按鈕式保險，和快速部署�
 
 ### 機械瞄具及瞄準鏡架連接座
 
-SPAS-12配備了由整合在[隔熱罩以上不可調節的圓形金屬開放式多功能](https://zh.wikipedia.org/wiki/槍管罩筒 "wikilink")[照門](https://zh.wikipedia.org/wiki/照門 "wikilink")（這照門在[槍托](../Page/槍托.md "wikilink")完全折疊的時候仍可使用），以及整合在槍管上的大型不可調節的刀片式[準星所組成的](../Page/照準器.md "wikilink")[機械瞄具](../Page/機械瞄具.md "wikilink")。該瞄準具的特別之處在於該開放式照門是在一個大型覘孔式照門的底部連接一個半圓形小型缺口式照門，上面的大型覘孔式照門用於近距離快速瞄準發射霰彈，而下面的半圓形小型缺口式照門則是用於遠距離精確瞄準發射[重彈頭](https://zh.wikipedia.org/wiki/霰彈塊 "wikilink")（附膛線重彈頭、套殼彈或破門彈）。這樣的多功能瞄準具與彈倉切斷裝置配合，遠攻近防皆宜，非常適合軍警人員的實際戰鬥需要。
+SPAS-12配備了由整合在[隔熱罩以上不可調節的圓形金屬開放式多功能](../Page/槍管罩筒.md "wikilink")[照門](https://zh.wikipedia.org/wiki/照門 "wikilink")（這照門在[槍托](../Page/槍托.md "wikilink")完全折疊的時候仍可使用），以及整合在槍管上的大型不可調節的刀片式[準星所組成的](../Page/照準器.md "wikilink")[機械瞄具](../Page/機械瞄具.md "wikilink")。該瞄準具的特別之處在於該開放式照門是在一個大型覘孔式照門的底部連接一個半圓形小型缺口式照門，上面的大型覘孔式照門用於近距離快速瞄準發射霰彈，而下面的半圓形小型缺口式照門則是用於遠距離精確瞄準發射[重彈頭](https://zh.wikipedia.org/wiki/霰彈塊 "wikilink")（附膛線重彈頭、套殼彈或破門彈）。這樣的多功能瞄準具與彈倉切斷裝置配合，遠攻近防皆宜，非常適合軍警人員的實際戰鬥需要。
 
 由于SPAS-12的[機匣頂部不能直接安裝](https://zh.wikipedia.org/wiki/機匣 "wikilink")[光學瞄準鏡](../Page/瞄准镜.md "wikilink")、[紅點鏡](../Page/紅點鏡.md "wikilink")／反射式瞄準鏡、[全息瞄準鏡](../Page/全像武器照準器.md "wikilink")、[夜視鏡](../Page/夜視鏡.md "wikilink")或[熱成像儀](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")，因此在1990年代亦出現了一種命名為“B-Square”、類似於[AK-47的瞄準鏡架連接座](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")，需要裝在機匣左方以便利用連接座上的[戰術導軌才能安裝光學瞄準鏡](https://zh.wikipedia.org/wiki/韋弗式導軌 "wikilink")。但是這些罕見的附件和泵动式[戰術燈](../Page/戰術燈.md "wikilink")、[雷射瞄準器一樣是作為售後市場的](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")[配件](https://zh.wikipedia.org/wiki/配件 "wikilink")。\[8\]
 
@@ -91,7 +91,7 @@ SPAS-12亦有各種不同的[槍管](../Page/槍管.md "wikilink")長度，當�
 3.  （於英國常見的）不同的槍管長度由“縮短型”的18英吋（457.2毫米）和21英寸不等，但都被當作一件式槍管並轉換為24英吋（609.6毫米）槍管以符合[英国法律](https://zh.wikipedia.org/wiki/英国 "wikilink")。該槍管還以永久釬焊或銀焊到位的方式將槍管與一個2.5英寸（63.5毫米）的連接一起。\[10\]在現實中，一根標準的21英吋（533.4毫米）[槍管](../Page/槍管.md "wikilink")的收束器管為3英寸（76.2毫米）。但相匹配的[管式彈倉長度仍是](https://zh.wikipedia.org/wiki/彈匣#管式彈倉 "wikilink")5+1發。
 4.  （最常見的）標準型21英寸槍管，刀片式[準星分安裝在特殊用途型號的槍口前端](../Page/照準器.md "wikilink")，或是在運動用途型號上時將其推後並以釬焊延長。
 
-**弗蘭基SPAS-12**配備了整合在[隔熱罩以上不可調節的圓形金屬覘孔式](https://zh.wikipedia.org/wiki/槍管罩筒 "wikilink")[照門](https://zh.wikipedia.org/wiki/照門 "wikilink")（這照門在[槍托](../Page/槍托.md "wikilink")完全折疊的時候仍可使用），以及整合在[槍管](../Page/槍管.md "wikilink")上的大型不可調節的刀片式[準星](../Page/照準器.md "wikilink")。
+**弗蘭基SPAS-12**配備了整合在[隔熱罩以上不可調節的圓形金屬覘孔式](../Page/槍管罩筒.md "wikilink")[照門](https://zh.wikipedia.org/wiki/照門 "wikilink")（這照門在[槍托](../Page/槍托.md "wikilink")完全折疊的時候仍可使用），以及整合在[槍管](../Page/槍管.md "wikilink")上的大型不可調節的刀片式[準星](../Page/照準器.md "wikilink")。
 
 [路易吉·弗蘭基亦以SPAS](https://zh.wikipedia.org/wiki/弗蘭基有限公司 "wikilink")-12作為基礎，推出了另外兩種不同的霰彈槍，分別是：LAW-12和SAS-12。主要的分別是LAW-12是純半自動式操作，而SAS-12是純泵动式操作。SAS-12最不尋常的是它是當中唯一能夠發射3英寸的麥格農霰彈的型號，而SPAS-12和LAW-12卻只能發射2英寸的霰彈。\[11\]LAW-12、SAS-12這兩種衍生自SPAS-12的“姐妹”霰彈槍亦可使用SPAS-12的所有配件，而且有許多的組件，例如[扳機組件](https://zh.wikipedia.org/wiki/扳機 "wikilink")、槍管螺紋附件和[槍托](../Page/槍托.md "wikilink")亦可以互換使用。唯獨LAW-12和SAS-12的各種彈倉延長管沒有被設計成可與SPAS-12互換使用，因為這會導致SPAS-12型號上的高壓燃氣選擇開關從半自動操作切換到泵動式操作上出現操作問題。\[12\]已知如果彈倉延長管並沒有如SPAS-12的固定銷般逐漸變細的話，就會在射擊循環在把SPAS12的前方都剝掉。2000年，根據[路易吉·弗蘭基的資料](https://zh.wikipedia.org/wiki/弗蘭基有限公司 "wikilink")，SPAS-12在最後一個生產年度美國以外的非限制的國家最終銷售時期的零售價平均是[$](../Page/美元.md "wikilink")1500.00。\[13\]
 
@@ -131,7 +131,7 @@ SPAS-12曾接受美國海岸警備隊的測試並表現出樂觀的結果，但�
 
 ### 美國的法律地位
 
-1983年，此槍在[美国](../Page/美国.md "wikilink")展出，以一枝運動射擊用途的[霰彈槍銷售](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")，以便繞過法律，但這樣通常會被視為非法的私人擁有。因此，SPAS-12的縮寫變成「運動用途自動型霰彈槍」（）。然而，SPAS-12本身在外觀上以軍用為設計的功能和特徵都太明顯，如沉重的[隔熱罩就是為了令其能夠持續發射](https://zh.wikipedia.org/wiki/槍管罩筒 "wikilink")，導致增加該武器本身的重量，但卻導致它容易擺動而不適合比賽射擊。因此即使[路易吉·弗蘭基命名為](https://zh.wikipedia.org/wiki/弗蘭基有限公司 "wikilink")「運動用途自動型霰彈槍」亦無濟於事。\[21\]亦基於這個原因，存在著熱門的重新解釋的縮寫，例如「特殊用途自動型霰彈槍」（）、「特殊用途突擊型霰彈槍」（）或「半自動／泵動自動型霰彈槍」（）。
+1983年，此槍在[美国](../Page/美国.md "wikilink")展出，以一枝運動射擊用途的[霰彈槍銷售](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")，以便繞過法律，但這樣通常會被視為非法的私人擁有。因此，SPAS-12的縮寫變成「運動用途自動型霰彈槍」（）。然而，SPAS-12本身在外觀上以軍用為設計的功能和特徵都太明顯，如沉重的[隔熱罩就是為了令其能夠持續發射](../Page/槍管罩筒.md "wikilink")，導致增加該武器本身的重量，但卻導致它容易擺動而不適合比賽射擊。因此即使[路易吉·弗蘭基命名為](https://zh.wikipedia.org/wiki/弗蘭基有限公司 "wikilink")「運動用途自動型霰彈槍」亦無濟於事。\[21\]亦基於這個原因，存在著熱門的重新解釋的縮寫，例如「特殊用途自動型霰彈槍」（）、「特殊用途突擊型霰彈槍」（）或「半自動／泵動自動型霰彈槍」（）。
 
 由於1994年，美國通過了一條名為[聯邦突擊武器禁制法案](https://zh.wikipedia.org/wiki/聯邦突擊武器禁制法案 "wikilink")（，簡稱：AWB）的禁止攻擊武器條款，已經完全禁止了SPAS-12霰彈槍在民間使用上的進口，根據[美國菸酒槍炮及爆裂物管理局](../Page/美國菸酒槍炮及爆裂物管理局.md "wikilink")宣布，「並不適合運動的用途」的它已經被歸類為「[毀滅性武器](https://zh.wikipedia.org/wiki/毀滅性武器 "wikilink")」。然而，SPAS-12沒有被歸類為[第二類槍械](https://zh.wikipedia.org/wiki/第二類槍械 "wikilink")。因此，根據聯邦立法而言，在美國重新銷售和轉讓仍然是暢通的，儘管在那條槍械法案生效以前能夠合法進口到美國的SPAS-12其實很少。該條款已於2004年9月過期。
 
@@ -349,7 +349,7 @@ SPAS-12同時出現在美國[荷里活電影](https://zh.wikipedia.org/wiki/美�
   - 1999年—《陽光警察》（Sunshine Cops）：[綁架匪徒首領](https://zh.wikipedia.org/wiki/綁架 "wikilink")（[連凱](../Page/連凱.md "wikilink")飾演）向警察宣示挑釁警告時所使用。
   - 2000年—《[大逃殺（電影版）](../Page/大逃殺_\(電影\).md "wikilink")》（；Battle Royale）及其3D版（Battle Royale 3D）：男子5號川田章吾（[山本太郎](../Page/山本太郎.md "wikilink")飾演）的分配武器，與桐山和雄對戰時使用半自動射擊。
   - 2002年—《[2009失去的记忆](../Page/2009失去的记忆.md "wikilink")》（；2009: Lost Memories）：為固定槍托型和摺疊槍托型，裝上[戰術燈](../Page/戰術燈.md "wikilink")並且被日本調查局[特警隊所使用](https://zh.wikipedia.org/wiki/特種警察 "wikilink")。
-  - 2004年—《[-{zh-hans:我，機械人; zh-hk:智能叛變; zh-tw:機械公敵;}-](../Page/機械公敵_\(電影\).md "wikilink")》（I, Robot）：裝上未來風格的頂部[隔熱罩和延長版前護木的修改型](https://zh.wikipedia.org/wiki/槍管罩筒 "wikilink")，被约翰·伯金（John Bergin，[芝·麥克布萊德飾演](https://zh.wikipedia.org/wiki/芝·麥克布萊德 "wikilink")）和[特警隊所使用](../Page/特種武器和戰術部隊.md "wikilink")。
+  - 2004年—《[-{zh-hans:我，機械人; zh-hk:智能叛變; zh-tw:機械公敵;}-](../Page/機械公敵_\(電影\).md "wikilink")》（I, Robot）：裝上未來風格的頂部[隔熱罩和延長版前護木的修改型](../Page/槍管罩筒.md "wikilink")，被约翰·伯金（John Bergin，[芝·麥克布萊德飾演](https://zh.wikipedia.org/wiki/芝·麥克布萊德 "wikilink")）和[特警隊所使用](../Page/特種武器和戰術部隊.md "wikilink")。
   - 2006年—《[-{zh:無間道風雲; zh-hans:无间道风云; zh-tw:神鬼無間; zh-hk:無間道風雲;}-](../Page/無間道風雲.md "wikilink")》（The Departed）：固定槍托型在接近尾聲被卡老大（Frank Costello，[-{zh-cn:杰克·尼科尔森; zh-hans:傑克‧尼科爾森; zh-hk:積‧尼高遜; zh-tw:傑克‧尼克遜;}-飾演](../Page/杰克·尼科尔森.md "wikilink")）的手下所使用。
   - 2007年—《[-{zh-cn:刑房; zh-tw:恐怖星球; zh-hk:索女·喪屍·機關槍;}-](../Page/索女·喪屍·機關槍.md "wikilink")》（Planet Terror）
   - 2009年—《夺命手机》（Echelon Conspiracy）

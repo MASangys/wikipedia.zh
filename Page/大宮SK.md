@@ -28,7 +28,7 @@
 <!-- end list -->
 
   -
-    節目裡[相葉雅紀為司儀的Count](https://zh.wikipedia.org/wiki/相葉雅紀 "wikilink") Down（カウントダウン）單元「ズキューンバズーカ」中，大宮SK的歌曲「ズキューンバズーカ」榮登第1名。壓過嵐的「[A・RA・SHI](https://zh.wikipedia.org/wiki/A・RA・SHI "wikilink")」獲得第1名被認為是大宮SK對相葉的賄賂產生效果。當時播放了第3名「O.M.S.K.S」的VTR，現場表演第1名的「ズキューンバズーカ」。該演唱會的最終公演裡，在MC中公開了[松本潤](https://zh.wikipedia.org/wiki/松本潤 "wikilink")、[相葉雅紀](https://zh.wikipedia.org/wiki/相葉雅紀 "wikilink")、[櫻井翔](../Page/櫻井翔.md "wikilink")各自個人曲的影像。
+    節目裡[相葉雅紀為司儀的Count](https://zh.wikipedia.org/wiki/相葉雅紀 "wikilink") Down（カウントダウン）單元「ズキューンバズーカ」中，大宮SK的歌曲「ズキューンバズーカ」榮登第1名。壓過嵐的「[A・RA・SHI](https://zh.wikipedia.org/wiki/A・RA・SHI "wikilink")」獲得第1名被認為是大宮SK對相葉的賄賂產生效果。當時播放了第3名「O.M.S.K.S」的VTR，現場表演第1名的「ズキューンバズーカ」。該演唱會的最終公演裡，在MC中公開了[松本潤](../Page/松本潤.md "wikilink")、[相葉雅紀](https://zh.wikipedia.org/wiki/相葉雅紀 "wikilink")、[櫻井翔](../Page/櫻井翔.md "wikilink")各自個人曲的影像。
 
 <!-- end list -->
 

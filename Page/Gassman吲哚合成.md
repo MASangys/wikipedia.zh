@@ -11,7 +11,7 @@ R<sub>1</sub> 可以是[氢](../Page/氢.md "wikilink")或[烷基](../Page/烷�
 ## 反应机理
 
 [Gassman_Mechanism_Scheme.png](https://zh.wikipedia.org/wiki/File:Gassman_Mechanism_Scheme.png "fig:Gassman_Mechanism_Scheme.png")
-首先苯胺 (1)被[次氯酸叔丁酯](https://zh.wikipedia.org/wiki/次氯酸叔丁酯 "wikilink")（*t*-BuOCl）氧化为[氯胺](../Page/氯胺.md "wikilink") (2)。然后 (2)与α-甲硫基[酮](../Page/酮.md "wikilink")反应生成[锍离子](https://zh.wikipedia.org/wiki/锍 "wikilink") (3)（此步一般在低温下进行）。最后加入[碱](../Page/碱.md "wikilink")（如[三乙胺](../Page/三乙胺.md "wikilink")），升高温度至室温，这时产生去质子化产物[硫叶立德](https://zh.wikipedia.org/wiki/硫叶立德 "wikilink") (4)。 (4) 很快发生 \[2,3\]-[σ迁移产生酮](https://zh.wikipedia.org/wiki/σ迁移 "wikilink") (5)， (5) 再缩合环化即得吲哚 (6)。
+首先苯胺 (1)被[次氯酸叔丁酯](../Page/次氯酸叔丁酯.md "wikilink")（*t*-BuOCl）氧化为[氯胺](../Page/氯胺.md "wikilink") (2)。然后 (2)与α-甲硫基[酮](../Page/酮.md "wikilink")反应生成[锍离子](https://zh.wikipedia.org/wiki/锍 "wikilink") (3)（此步一般在低温下进行）。最后加入[碱](../Page/碱.md "wikilink")（如[三乙胺](../Page/三乙胺.md "wikilink")），升高温度至室温，这时产生去质子化产物[硫叶立德](https://zh.wikipedia.org/wiki/硫叶立德 "wikilink") (4)。 (4) 很快发生 \[2,3\]-[σ迁移产生酮](https://zh.wikipedia.org/wiki/σ迁移 "wikilink") (5)， (5) 再缩合环化即得吲哚 (6)。
 
 ## 参见
 

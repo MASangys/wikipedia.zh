@@ -2,7 +2,7 @@
 
 VIS有三个版本。VIS 1.0和VIS 2.0已在先前的SPARC处理器上得到实现；VIS 3.0 将在[Rock微處理器中首次实现](https://zh.wikipedia.org/wiki/Rock微處理器 "wikilink")。\[1\]
 
-VIS重用了SPARC处理器中的64位长[浮点](https://zh.wikipedia.org/wiki/浮点 "wikilink")[寄存器](../Page/寄存器.md "wikilink")来储存8位，16位或者32位的[整数](../Page/整数.md "wikilink")数值。从这方面来讲，VIS大概更像[MMX](../Page/MMX.md "wikilink")而不怎么像[SSE](../Page/SSE.md "wikilink")／[SSE2](../Page/SSE2.md "wikilink")／[AltiVec](https://zh.wikipedia.org/wiki/AltiVec "wikilink")，后者都具有专用的128位SIMD寄存器。但是，MMX只有8个寄存器可用，而SPARC处理器通常具有数目大得多的寄存器，这是[RISC处理器的特色之一](https://zh.wikipedia.org/wiki/RISC "wikilink")。
+VIS重用了SPARC处理器中的64位长[浮点](https://zh.wikipedia.org/wiki/浮点 "wikilink")[寄存器](../Page/寄存器.md "wikilink")来储存8位，16位或者32位的[整数](../Page/整数.md "wikilink")数值。从这方面来讲，VIS大概更像[MMX](../Page/MMX.md "wikilink")而不怎么像[SSE](../Page/SSE.md "wikilink")／[SSE2](../Page/SSE2.md "wikilink")／[AltiVec](../Page/AltiVec.md "wikilink")，后者都具有专用的128位SIMD寄存器。但是，MMX只有8个寄存器可用，而SPARC处理器通常具有数目大得多的寄存器，这是[RISC处理器的特色之一](https://zh.wikipedia.org/wiki/RISC "wikilink")。
 
 作为[RISC处理器的扩展指令集](https://zh.wikipedia.org/wiki/RISC "wikilink")，VIS严格遵守RISC的设计原则--保持指令集的精简与高效。这很不同于[CISC处理器扩展指令集](https://zh.wikipedia.org/wiki/CISC "wikilink")（如MMX/SSE/SSE2/SSE3/SSE4/3D Now\!）的做法。理论上，RISC的设计原则可以保持流水线的简单高效，从而可能带来更大的吞吐量及性能提升。
 

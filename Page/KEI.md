@@ -15,7 +15,7 @@
   - [果酒](../Page/果酒.md "wikilink")：[梅酒](https://zh.wikipedia.org/wiki/梅酒 "wikilink") 、[日本柚子](https://zh.wikipedia.org/wiki/日本柚子 "wikilink")[果酒](../Page/果酒.md "wikilink") ()\[5\]
   - [世嘉硬件女孩](../Page/世嘉硬件女孩.md "wikilink")（[世嘉](../Page/世嘉.md "wikilink")）
   - [VOCALOID](../Page/VOCALOID.md "wikilink")：[Galaco](https://zh.wikipedia.org/wiki/Galaco "wikilink")、[Lily](https://zh.wikipedia.org/wiki/Lily_\(VOCALOID\) "wikilink")
-  - [虚拟YouTuber](https://zh.wikipedia.org/wiki/虚拟YouTuber "wikilink")：[Mirai Akari](https://zh.wikipedia.org/wiki/Mirai_Akari "wikilink")
+  - [虚拟YouTuber](https://zh.wikipedia.org/wiki/虚拟YouTuber "wikilink")：[Mirai Akari](../Page/Mirai_Akari.md "wikilink")
 
 ### 漫畫
 

@@ -1,3 +1,0 @@
-**鴉片酊**（）為一種止痛劑，是含10%[質量濃度的鴉片粉和](https://zh.wikipedia.org/wiki/質量濃度 "wikilink")90%[酒精的](https://zh.wikipedia.org/wiki/酒精 "wikilink")[酊劑](https://zh.wikipedia.org/wiki/酊劑 "wikilink")，相當於1%濃度的[嗎啡](../Page/嗎啡.md "wikilink")。
-
-鴉片酊外觀呈紅褐色，味極苦，含有幾乎全部種類的[鴉片生物鹼](https://zh.wikipedia.org/wiki/藥用植物#生物鹼 "wikilink")。歷史上曾用鴉片酊治療各種疾病，但其主要用途是用作[止痛藥和](https://zh.wikipedia.org/wiki/止痛藥 "wikilink")[止咳藥](../Page/止咳藥.md "wikilink")。在20世紀初，鴉片酊仍然被作為[非處方藥出售](https://zh.wikipedia.org/wiki/非處方藥 "wikilink")，並且是許多的主要成分。今日，鴉片酊被認定為一種[成癮藥物](https://zh.wikipedia.org/wiki/成癮藥物 "wikilink")，在世界大部分國家和地區受到嚴格的[管制](https://zh.wikipedia.org/wiki/藥物管制 "wikilink")。

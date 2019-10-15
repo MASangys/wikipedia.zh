@@ -41,7 +41,7 @@ MTV曾三度將類似於[奧斯卡終身成就獎的生涯成就獎頒給科幻�
 <td><p><a href="https://zh.wikipedia.org/wiki/1992年MTV電影大獎" title="wikilink">1992</a>[4]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/丹尼斯·米勒" title="wikilink">丹尼斯·米勒</a></p></td>
 <td><p>《<a href="../Page/终结者2：审判日.md" title="wikilink">魔鬼終結者第2集</a>》</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/琳達·漢彌頓" title="wikilink">琳達·漢彌頓</a>《<a href="../Page/终结者2：审判日.md" title="wikilink">魔鬼終結者第2集</a>》</p></td>
+<td><p><a href="../Page/琳達·漢彌頓.md" title="wikilink">琳達·漢彌頓</a>《<a href="../Page/终结者2：审判日.md" title="wikilink">魔鬼終結者第2集</a>》</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/1993年MTV電影大獎" title="wikilink">1993</a>[5]</p></td>

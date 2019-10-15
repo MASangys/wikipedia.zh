@@ -74,6 +74,6 @@
 5.  **糟了-糟了-糟了**
     （作詞・作曲・編曲：Takuya Harada）
       -
-        [松本潤](https://zh.wikipedia.org/wiki/松本潤 "wikilink") solo
+        [松本潤](../Page/松本潤.md "wikilink") solo
 
 [Category:嵐的專輯](https://zh.wikipedia.org/wiki/Category:嵐的專輯 "wikilink") [Category:2007年音樂專輯](https://zh.wikipedia.org/wiki/Category:2007年音樂專輯 "wikilink") [Category:2007年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2007年Oricon專輯週榜冠軍作品 "wikilink")

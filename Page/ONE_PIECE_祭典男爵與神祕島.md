@@ -79,7 +79,7 @@
     聲優：[八奈見乘兒](../Page/八奈見乘兒.md "wikilink")（日本）；[孫中台](../Page/孫中台.md "wikilink")（台灣）
     祭典男爵的部下，第二回合試煉「套圈圈」的選手。
   -
-    聲優：[山本圭子](https://zh.wikipedia.org/wiki/山本圭子 "wikilink")（日本）；[錢欣郁](../Page/錢欣郁.md "wikilink")（台灣）
+    聲優：[山本圭子](../Page/山本圭子.md "wikilink")（日本）；[錢欣郁](../Page/錢欣郁.md "wikilink")（台灣）
     祭典男爵的部下，第二回合試煉「套圈圈」的選手。
   -
     聲優：[池松壯亮](https://zh.wikipedia.org/wiki/池松壯亮 "wikilink")（日本）；[錢欣郁](../Page/錢欣郁.md "wikilink")（台灣）

@@ -29,11 +29,11 @@
 
   - [自動馬格南半自動手槍](../Page/自動麥林手槍.md "wikilink")
 
-  - [自動馬格南II型半自動手槍](https://zh.wikipedia.org/wiki/自動馬格南II型半自動手槍 "wikilink")
+  - [自動馬格南II型半自動手槍](../Page/自動馬格南II型半自動手槍.md "wikilink")
 
-  - [自動馬格南III型半自動手槍](https://zh.wikipedia.org/wiki/自動馬格南III型半自動手槍 "wikilink")
+  - [自動馬格南III型半自動手槍](../Page/自動馬格南III型半自動手槍.md "wikilink")
 
-  - [自動馬格南IV型半自動手槍](https://zh.wikipedia.org/wiki/自動馬格南IV型半自動手槍 "wikilink")
+  - [自動馬格南IV型半自動手槍](../Page/自動馬格南IV型半自動手槍.md "wikilink")
 
   - [沙漠之鷹](../Page/沙漠之鷹手槍.md "wikilink")（Desert Eagle）
 
