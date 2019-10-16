@@ -384,7 +384,7 @@
 ### 同時段競爭作品
 
   - [KBS](../Page/韓國放送公社.md "wikilink") [水木連續劇](../Page/KBS水木連續劇.md "wikilink")：《[山茶花開時](../Page/山茶花開時.md "wikilink")》
-  - [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") [水木連續劇](../Page/TvN水木連續劇.md "wikilink")：《[當惡魔呼喊你的名字時](../Page/當惡魔呼喊你的名字時.md "wikilink")》、《[清日電子李小姐](https://zh.wikipedia.org/wiki/清日電子李小姐 "wikilink")》
+  - [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") [水木連續劇](../Page/TvN水木連續劇.md "wikilink")：《[當惡魔呼喊你的名字時](../Page/當惡魔呼喊你的名字時.md "wikilink")》、《[清日電子李小姐](../Page/清日電子李小姐.md "wikilink")》
 
 ### 同一劇集時段作品
 

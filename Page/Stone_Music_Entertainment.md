@@ -18,7 +18,7 @@
 2014年3月，CJ E\&M 開始音樂廠牌（Label system）策略，除成立 [MMO娛樂外](../Page/MMO_Entertainment.md "wikilink")，[Jellyfish娛樂](../Page/Jellyfish娛樂.md "wikilink")、[The Music Works等企劃公司也將成爲](../Page/The_Music_Works.md "wikilink")[CJ E\&M旗下Label之一](../Page/CJ_E&M.md "wikilink")。
 2015年9月18日，CJ E\&M宣布與B2M娛樂簽訂事業合作協議，B2M代表吉鐘華將會參與管理CJ E\&M所屬藝人。同年12月CJ E\&M與原屬B2M的[Eric Nam](../Page/Eric_Nam.md "wikilink")、[SPICA簽訂專屬合約](../Page/SPICA_\(組合\).md "wikilink")，CJ E\&M的音樂事業本部表示雖然合約與CJ E\&M簽訂，但具體的音樂活動和演藝事業管理仍由原品牌 (B2M娛樂) 負責\[1\]。
 
-2015年10月，CJ E\&M Music 與 HI-Lite Record 建立合作關係。2015年12月，CJ E\&M Music 與 [AOMG](https://zh.wikipedia.org/wiki/AOMG "wikilink") 建立合作關係。
+2015年10月，CJ E\&M Music 與 HI-Lite Record 建立合作關係。2015年12月，CJ E\&M Music 與 [AOMG](../Page/AOMG.md "wikilink") 建立合作關係。
 2016年10月，Mnet Media 被整合至 CJ E\&M Music Content Division。
 
 ### Stone Music Entertainment 時期

@@ -1,0 +1,41 @@
+牛津昆蟲技術公司(原文：**Oxitec,** **Oxford Insect Technologies)是一間研發[基因改造](https://zh.wikipedia.org/wiki/基因改造 "wikilink")[蚊子以協助病蟲害防治的英國](https://zh.wikipedia.org/wiki/蚊子 "wikilink")**[生技公司](https://zh.wikipedia.org/wiki/生技 "wikilink")。该公司利用基因改造的昆虫作為「活的杀虫剂」以控制害虫數量。因此，此方式可以在不使用杀虫剂的情況下達到控制昆媒疾病或农业害虫的效果。 据该公司称，这种人口控制的方法比殺蟲劑更加有效，亦對环境更加友善。\[1\]
+
+## 歷史
+
+牛津昆蟲技術公司由Luke Alphey和David Kelly于2002年与[牛津大学](../Page/牛津大学.md "wikilink") [Isis创新](https://zh.wikipedia.org/wiki/Isis创新 "wikilink") [技术转让公司合作成立](https://zh.wikipedia.org/wiki/技術轉移 "wikilink")。 \[2\] \[3\] \[4\] \[5\] 2015年8月，Oxitec被美国的Intrexon公司以1.6亿美元的价格收购。 \[6\]
+
+牛津昆蟲技術公司的新一代「自限滅蚊」OX5034于2018年5月23日在巴西[圣保罗州的](../Page/聖保羅_\(巴西\).md "wikilink") [Indaiatuba开始实地试验](../Page/因达亚图巴.md "wikilink")。 该试验涵盖了2,000名居民，目標為抑制[埃及斑蚊](../Page/埃及斑蚊.md "wikilink")。该公司于2019年6月宣布了该试验的结果。 \[7\]
+
+OX5034的雄性后代能夠存活下来，並进行额外的交配生活史，从而进一步减少害虫的数量。 此效果是有时间限制的。 在随后的世代中，越来越少的雄性传承其自限性基因。 预计在釋放停止後的十代，OX5034雄性将从环境中消失。 \[8\]   <sup>\[ *[<span title="This claim needs references to reliable sources. (August 2018)">引证需要</span>](https://zh.wikipedia.org/wiki/Wikipedia:来源请求 "wikilink")* \]</sup> 牛津昆蟲技術公司现在由執行長Gray Frandsen \[9\]领导，他是一位美国人，經歷包含领导美國政府、私营和非营利部門，在涉及国家和全球公共卫生安全，生物技术和危机应对方面的启动计划\[10\] 。 自2017年以来，Frandsen领导公司向第二代技术的过渡\[11\]同时扩大计划以提高其蚊子和农业技术的水平。 \[12\] \[13\] 在此期间，牛津昆蟲技術公司与大規模農產業\[14\]领导者和\[\[比尔及梅林达·盖茨基金会|比尔及梅林达·盖茨基金会\]\]\[15\]建立了新的或擴展的合作伙伴关系，这些基金会正在帮助将牛津昆蟲技術公司的第二代技术推向公共卫生和農業市场。 Frandsen在2019年被评为Malaria No More的10对终端创新者之一。 \[16\] 弗兰森（Frandsen）还是非洲朝圣者(Pilgrim Africa)\[17\]的董事会主席，非洲朝圣者是由比尔和梅琳达·盖茨基金会\[18\] ，全球基金以及私人捐助者资助在乌干达实施新颖的瘧疾控制计划的非政府组织。
+
+## 基因改造黄熱病蚊
+
+牛津昆蟲技術公司正在努力开发*[埃及斑蚊](../Page/埃及斑蚊.md "wikilink")*的基因改造品種，以帮助控制[蚊媒疾病的传播](https://zh.wikipedia.org/wiki/蚊子傳播的疾病 "wikilink") 。 \[19\] \[20\] 牛津昆蟲技術公司产生了经过遗传改造的雄性物种（OX513A），它們會產生對細胞發育有負面影響的tTA蛋白。 經過此基因改造的動物需要抗生素[四环素才能生存](../Page/四環黴素.md "wikilink")。 如果將这些动物大量释放并与雌性交配，則這種抗生素依赖性将遺傳给下一代，造成後代死亡。 因此， *埃及斑蚊的*数量將顯著减少，並同時使该地区的人们患上蚊媒疾病的风险降低。 \[21\] 种群遗传学研究表明，與原先的目的相反，基因改造蚊已成功与当地*埃及斑蚊*產生雜交種後代\[22\] 。
+
+在2017年，牛津昆蟲技術公司正在开发亚洲虎蚊[白線斑蚊的基因改造品種](https://zh.wikipedia.org/wiki/白線斑蚊 "wikilink")。 \[23\]   <sup>\[ *[<span title="This claim needs references to reliable sources. (August 2018)">引证需要</span>](https://zh.wikipedia.org/wiki/Wikipedia:来源请求 "wikilink")* \]</sup>
+
+[Category:防治虫害](https://zh.wikipedia.org/wiki/Category:防治虫害 "wikilink") [Category:昆蟲傳播的疾病](https://zh.wikipedia.org/wiki/Category:昆蟲傳播的疾病 "wikilink") [Category:英国生物技术公司](https://zh.wikipedia.org/wiki/Category:英国生物技术公司 "wikilink") [Category:有未列明来源语句的条目](https://zh.wikipedia.org/wiki/Category:有未列明来源语句的条目 "wikilink")
+
+1.  [*The Oxitec approach*](http://www.oxitec.com/health/our-solution/). Oxitech
+2.
+3.
+4.
+5.   University of Oxford|url=[http://www.ox.ac.uk/news/2015-08-10-biotech-spin-out-be-sold-160-million-0|accessdate=2019-01-17|work=www.ox.ac.uk|language=en](http://www.ox.ac.uk/news/2015-08-10-biotech-spin-out-be-sold-160-million-0%7Caccessdate=2019-01-17%7Cwork=www.ox.ac.uk%7Clanguage=en)}}
+6.
+7.
+8.
+9.
+10. <https://2001-2009.state.gov/r/pa/pl/ngo/58754.htm>
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.

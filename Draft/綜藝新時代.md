@@ -1,0 +1,660 @@
+《**綜藝新時代**》（），是[民視](https://zh.wikipedia.org/wiki/民視 "wikilink")、[八大電視](../Page/八大電視.md "wikilink")聯合監製播出的[外景](https://zh.wikipedia.org/wiki/外景 "wikilink")[實境節目](https://zh.wikipedia.org/wiki/實境節目 "wikilink")，大藝娛樂製作，[浩角翔起](../Page/浩角翔起.md "wikilink")主持。節目內容由主持人挑戰各行各業的好手們，進行真槍實彈的對決。\[1\]每集由浩角翔起獨自或搭配人數不等的來賓，進行當集任務挑戰，並在節目最後由任務委託人、指導教練或老師判定是否完成任務挑戰。[民視無線台](../Page/民視無線台.md "wikilink")於2018年9月28日首播，[八大綜合台](../Page/八大綜合台.md "wikilink")於2018年9月29日首播\[2\]，[八大第一台](../Page/八大第一台.md "wikilink")於2018年10月20日首播。
+
+2019年6月，主持人之一的[阿翔因為爆出婚外情醜聞而遭到經紀公司無限期停工](../Page/陳秉立.md "wikilink")，節目單位表示有阿翔的的節目錄影存檔到7月底，自8月起改由浩子與不固定的代班主持人主持\[3\]。同年8月18日，民視宣布阿翔將復工，19日回歸《綜藝新時代》錄影\[4\]。
+
+## 播出時間
+
+### 首播
+
+<table>
+<thead>
+<tr class="header">
+<th><p>頻道</p></th>
+<th><p>所在地</p></th>
+<th><p>播映日期</p></th>
+<th><p>播出時間</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="../Page/民視無線台.md" title="wikilink">民視無線台</a></p></td>
+<td></td>
+<td><p>2018年9月28日</p></td>
+<td><p>每週五 22:15－23:45</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/八大綜合台.md" title="wikilink">八大綜合台</a></p></td>
+<td><p>2018年9月29日</p></td>
+<td><p>每週六 20:00－21:30</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/八大第一台.md" title="wikilink">八大第一台</a></p></td>
+<td><p>2018年10月20日</p></td>
+<td><p>每週六 13:00－14:30</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 重播
+
+<table>
+<thead>
+<tr class="header">
+<th><p>頻道</p></th>
+<th><p>所在地</p></th>
+<th><p>播映日期</p></th>
+<th><p>播出時間</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="../Page/八大綜合台.md" title="wikilink">八大綜合台</a></p></td>
+<td></td>
+<td><p>2018年9月30日</p></td>
+<td><p>每週日 13:00－14:30</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/民視無線台.md" title="wikilink">民視無線台</a></p></td>
+<td><p>每週日 18:30－20:00</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/八大第一台.md" title="wikilink">八大第一台</a></p></td>
+<td><p>2018年10月21日</p></td>
+<td><p>每週日 14:30－16:00</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+## 主題曲
+
+《就要飛》
+
+  - 演唱：浩角翔起
+  - 詞：浩子
+  - 節目片頭詞：阿翔
+  - 曲：亂彈阿翔
+  - 編曲：螺賴馬
+  - 詞OP：時代創藝企業有限公司
+  - 曲OP：赤腳不辣有限公司
+  - 曲SP：相信音樂國際股份有限公司
+
+主題曲未正式發行，僅用於節目片頭播出。
+
+## 節目賽制
+
+### 主題式企劃
+
+主題式企劃為首播至2018年11月16日的企劃。此時期每集節目皆設有一特定主題，可能是事件任務或職業體驗等，根據主題不同邀請數量不等的藝人來賓。節目中將以數個圍繞該集主題的小遊戲、模擬訓練或相關體驗貫穿，以此進行任務的準備工作與事前練習。小遊戲或模擬訓練通常會有主持人與來賓分成兩隊對戰，或主持人與來賓共同成組對抗地主隊。根據主題不同，部份集數中貫穿全局的任務皆屬於挑戰的一部分，或於該集最後獨立進行最終挑戰，並在節目最後由任務委託人、指導教練或老師判定是否完成任務挑戰。
+
+### 猜挑戰企劃
+
+猜挑戰企劃為2018年11月23日至今的企劃。此時期主持人與來賓皆不會被事前告知該集主題，必須猜出最終謎底才能前往進行最終挑戰。每集製作單位皆會設置數個遊戲關卡或體驗行程，關卡本身或關卡場地中會藏有與最終謎底相關的提示。完成一個關卡才能會得一次猜謎底的機會，不論是否猜對都會繼續前往下一關卡，每前進一關獎金會下降一階段。完成所有關卡後會進行當集的最終挑戰，並在節目最後由任務委託人、指導教練或老師判定是否完成任務挑戰。
+
+規則演進：
+
+  - 2018年11月23日（第9集）為全體挑戰，主持人與來賓為同一隊伍。
+  - 自2018年11月30日（第10集）起，主持人與來賓共分為兩隊闖關，在關卡中勝出的隊伍才有該回合猜題資格。某些關卡中會給予加碼，落敗方完成懲罰或加碼任務也可獲得猜題機會。
+  - 自2018年12月7日（第12集）起，到最後關卡後才公佈謎底及獲得的獎金金額，若在多個階段都猜對正確謎底，則獲得猜中階段的所有獎金。（如：在第一關和第三關皆猜中謎底，則可獲得第一關加第三關的階段獎金）
+
+## 藝人來賓、收視率
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>集數</p></td>
+<td><p>首播日期</p></td>
+<td><p>藝人來賓</p></td>
+<td><p>民視首播收視率</p></td>
+<td><p>綜藝類排名</p></td>
+<td><p>備註</p></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td><p>2018年9月28日</p></td>
+<td><p><a href="../Page/夏語心.md" title="wikilink">夏語心</a>、<a href="../Page/蘇晏霈.md" title="wikilink">蘇晏霈</a></p></td>
+<td><p>1.38</p></td>
+<td><p>1</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+<td><p>2018年10月5日</p></td>
+<td><p><a href="../Page/張立東.md" title="wikilink">張立東</a>、<a href="../Page/楊昇達.md" title="wikilink">楊昇達</a>、<a href="../Page/徐瑋吟.md" title="wikilink">鮪魚</a>、<a href="https://zh.wikipedia.org/wiki/熊熊" title="wikilink">熊熊</a></p></td>
+<td><p>1.43</p></td>
+<td><p>1</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>3</p></td>
+<td><p>2018年10月12日</p></td>
+<td><p><a href="../Page/李懿.md" title="wikilink">李懿</a>、<a href="../Page/楊晨熙.md" title="wikilink">楊晨熙</a>、<a href="../Page/林柏妤.md" title="wikilink">林柏妤</a>、<a href="https://zh.wikipedia.org/wiki/余思達" title="wikilink">余思達</a></p></td>
+<td><p>1.26</p></td>
+<td><p>1</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>4</p></td>
+<td><p>2018年10月19日</p></td>
+<td><p><a href="../Page/夏語心.md" title="wikilink">夏語心</a>、<a href="../Page/曾智希.md" title="wikilink">曾智希</a>、<a href="../Page/無尊.md" title="wikilink">無尊</a>、<a href="../Page/江振愷.md" title="wikilink">Terry</a></p></td>
+<td><p>1.30</p></td>
+<td><p>1</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>5</p></td>
+<td><p>2018年10月26日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張文綺" title="wikilink">張文綺</a>、<a href="../Page/曾智希.md" title="wikilink">曾智希</a>、<a href="https://zh.wikipedia.org/wiki/吳以涵" title="wikilink">吳以涵</a>、<a href="https://zh.wikipedia.org/wiki/麥海淇" title="wikilink">麥海淇</a></p></td>
+<td><p>1.12</p></td>
+<td><p>1</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>6</p></td>
+<td><p>2018年11月2日</p></td>
+<td><p>結婚情侶</p></td>
+<td><p>1.54</p></td>
+<td><p>1</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>7</p></td>
+<td><p>2018年11月9日</p></td>
+<td><p><a href="../Page/賴薇如.md" title="wikilink">賴薇如</a>、<a href="../Page/蔡允潔.md" title="wikilink">蔡允潔</a></p></td>
+<td><p>1.13</p></td>
+<td><p>1</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>8</p></td>
+<td><p>2018年11月16日</p></td>
+<td><p><a href="../Page/辜莞允.md" title="wikilink">辜莞允</a>、<a href="../Page/康茵茵.md" title="wikilink">康茵茵</a></p></td>
+<td><p>1.19</p></td>
+<td><p>1</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>9</p></td>
+<td><p>2018年11月23日</p></td>
+<td><p><a href="../Page/安苡愛.md" title="wikilink">安苡愛</a>、<a href="../Page/徐瑋吟.md" title="wikilink">鮪魚</a></p></td>
+<td><p>0.77</p></td>
+<td><p>1</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>10</p></td>
+<td><p>2018年11月30日</p></td>
+<td><p><a href="../Page/林暐恆.md" title="wikilink">阿Ken</a>、<a href="../Page/陳漢典.md" title="wikilink">陳漢典</a>、<a href="../Page/陳伊.md" title="wikilink">陳伊</a>、<a href="../Page/梓甯.md" title="wikilink">梓甯</a></p></td>
+<td><p>1.05</p></td>
+<td><p>1</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>11</p></td>
+<td><p>2018年12月7日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳宣裕" title="wikilink">NONO</a>、<a href="../Page/張立東.md" title="wikilink">張立東</a>、<a href="../Page/康茵茵.md" title="wikilink">康茵茵</a>、<a href="../Page/曾智希.md" title="wikilink">曾智希</a></p></td>
+<td><p>1.12</p></td>
+<td><p>1</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>12</p></td>
+<td><p>2018年12月14日</p></td>
+<td><p><a href="../Page/安苡愛.md" title="wikilink">安苡愛</a>、<a href="../Page/李懿.md" title="wikilink">李懿</a>、<a href="../Page/趙孟姿.md" title="wikilink">趙孟姿</a>、<a href="../Page/詹子晴.md" title="wikilink">詹子晴</a></p></td>
+<td><p>1.03</p></td>
+<td><p>1</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>13</p></td>
+<td><p>2018年12月21日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/小鐘" title="wikilink">小鐘</a>、<a href="../Page/黃豪平.md" title="wikilink">黃豪平</a>、<a href="../Page/林書葶.md" title="wikilink">Una</a>、<a href="../Page/峮峮.md" title="wikilink">峮峮</a></p></td>
+<td><p>1.03</p></td>
+<td><p>1</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>14</p></td>
+<td><p>2018年12月28日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳依依" title="wikilink">依依</a>、<a href="../Page/張棋惠.md" title="wikilink">張棋惠</a>、<a href="../Page/夏語心.md" title="wikilink">夏語心</a>、<a href="https://zh.wikipedia.org/wiki/吳元元" title="wikilink">元元</a></p></td>
+<td><p>1.06</p></td>
+<td><p>1</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>15</p></td>
+<td><p>2019年1月4日</p></td>
+<td><p><a href="../Page/顏永烈.md" title="wikilink">顏永烈</a>、<a href="../Page/張立東.md" title="wikilink">張立東</a>、<a href="../Page/阿樂.md" title="wikilink">阿樂</a>、<a href="../Page/梁以辰.md" title="wikilink">梁以辰</a></p></td>
+<td><p>1.30</p></td>
+<td><p>1</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>16</p></td>
+<td><p>2019年1月11日</p></td>
+<td><p><a href="../Page/杜忻恬.md" title="wikilink">杜忻恬</a>、<a href="../Page/徐凱希.md" title="wikilink">徐凱希</a>、<a href="../Page/郭彥均.md" title="wikilink">郭彥均</a>、<a href="https://zh.wikipedia.org/wiki/撒基努" title="wikilink">撒基努</a>、<a href="../Page/辜莞允.md" title="wikilink">辜莞允</a>、<a href="https://zh.wikipedia.org/wiki/劉璇" title="wikilink">劉璇</a></p></td>
+<td><p>0.86</p></td>
+<td><p>1</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>17</p></td>
+<td><p>2019年1月18日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/LamiGirls" title="wikilink">巫苡萱</a>、<a href="../Page/曾甜.md" title="wikilink">曾甜</a>、<a href="../Page/哈孝遠.md" title="wikilink">哈孝遠</a>、<a href="../Page/楊昇達.md" title="wikilink">楊昇達</a>、<a href="../Page/曉帆.md" title="wikilink">曉帆</a>、<a href="https://zh.wikipedia.org/wiki/吳元元" title="wikilink">元元</a></p></td>
+<td><p>1.01</p></td>
+<td><p>1</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>18</p></td>
+<td><p>2019年1月25日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄭如吟" title="wikilink">玉兔</a>、<a href="../Page/陳伊.md" title="wikilink">陳伊</a>、<a href="../Page/徐乃麟.md" title="wikilink">徐乃麟</a>、<a href="https://zh.wikipedia.org/wiki/張文綺" title="wikilink">張文綺</a>、<a href="../Page/李懿.md" title="wikilink">李懿</a>、<a href="../Page/馬國畢.md" title="wikilink">馬國畢</a></p></td>
+<td><p>1.16</p></td>
+<td><p>1</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>19</p></td>
+<td><p>2019年2月1日</p></td>
+<td><p><a href="../Page/楊晨熙.md" title="wikilink">楊晨熙</a>、<a href="../Page/葉欣眉.md" title="wikilink">瑪莉亞</a>、<a href="https://zh.wikipedia.org/wiki/夢多" title="wikilink">夢多</a>、<a href="../Page/梁凱莉.md" title="wikilink">梁凱莉</a>、<a href="https://zh.wikipedia.org/wiki/林餅乾" title="wikilink">林餅乾</a>、<a href="../Page/楊子儀.md" title="wikilink">楊子儀</a></p></td>
+<td><p>*.*</p></td>
+<td></td>
+<td><p>無收視率調查</p></td>
+</tr>
+<tr class="odd">
+<td><p>20</p></td>
+<td><p>2019年2月8日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/小鐘" title="wikilink">小鐘</a>、<a href="../Page/郭亞棠.md" title="wikilink">郭亞棠</a>、<a href="https://zh.wikipedia.org/wiki/龐庸之" title="wikilink">阿龐</a>、<a href="../Page/夏語心.md" title="wikilink">夏語心</a>、<a href="../Page/林彥君.md" title="wikilink">林彥君</a>、<a href="../Page/曾甜.md" title="wikilink">曾甜</a></p></td>
+<td><p>1.12</p></td>
+<td><p>1</p></td>
+<td><p>初四特輯</p></td>
+</tr>
+<tr class="even">
+<td><p>21</p></td>
+<td><p>2019年2月15日</p></td>
+<td><p><a href="../Page/梓甯.md" title="wikilink">梓甯</a>、<a href="../Page/曉帆.md" title="wikilink">曉帆</a>、<a href="../Page/黃鐙輝.md" title="wikilink">黃鐙輝</a>、<a href="https://zh.wikipedia.org/wiki/壯壯" title="wikilink">壯壯</a>、<a href="../Page/林書葶.md" title="wikilink">Una</a>、<a href="https://zh.wikipedia.org/wiki/夢多" title="wikilink">夢多</a></p></td>
+<td><p>1.05</p></td>
+<td><p>1</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>22</p></td>
+<td><p>2019年2月22日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/琳妲" title="wikilink">琳妲</a>、<a href="../Page/安苡愛.md" title="wikilink">安苡愛</a>、<a href="../Page/蘇心甯.md" title="wikilink">LALA</a>、<a href="https://zh.wikipedia.org/wiki/陳宣裕" title="wikilink">NONO</a>、<a href="https://zh.wikipedia.org/wiki/龐庸之" title="wikilink">阿龐</a>、<a href="../Page/何美.md" title="wikilink">何美</a></p></td>
+<td><p>0.89</p></td>
+<td><p>1</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>23</p></td>
+<td><p>2019年3月1日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/吳宜媚" title="wikilink">瑪麗</a>、<a href="../Page/張立東.md" title="wikilink">張立東</a>、<a href="../Page/夏語心.md" title="wikilink">夏語心</a>、<a href="../Page/楊繡惠.md" title="wikilink">楊繡惠</a>、<a href="../Page/徐瑋吟.md" title="wikilink">鮪魚</a>、<a href="../Page/無尊.md" title="wikilink">無尊</a></p></td>
+<td><p>1.08</p></td>
+<td><p>1</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>24</p></td>
+<td><p>2019年3月8日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/杜力" title="wikilink">杜力</a>、<a href="../Page/張棋惠.md" title="wikilink">張棋惠</a>、<a href="https://zh.wikipedia.org/wiki/田舞陽" title="wikilink">舞陽</a>、<a href="https://zh.wikipedia.org/wiki/陳依依" title="wikilink">依依</a>、<a href="https://zh.wikipedia.org/wiki/籃籃" title="wikilink">籃籃</a>、<a href="../Page/鍾欣愉.md" title="wikilink">莎莎</a></p></td>
+<td><p>1.10</p></td>
+<td><p>1</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>25</p></td>
+<td><p>2019年3月15日</p></td>
+<td><p><a href="../Page/王中皇.md" title="wikilink">王中皇</a>、<a href="../Page/王采婕.md" title="wikilink">王采婕</a>、<a href="../Page/夏宇禾.md" title="wikilink">夏宇禾</a>、<a href="https://zh.wikipedia.org/wiki/張家瑋" title="wikilink">張家瑋</a>、<a href="../Page/王建復.md" title="wikilink">王建復</a>、<a href="https://zh.wikipedia.org/wiki/龐庸之" title="wikilink">阿龐</a></p></td>
+<td><p>1.06</p></td>
+<td><p>1</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>26</p></td>
+<td><p>2019年3月22日</p></td>
+<td><p><a href="../Page/張立東.md" title="wikilink">張立東</a>、<a href="../Page/張勛傑.md" title="wikilink">張勛傑</a>、<a href="../Page/林玉書_(演員).md" title="wikilink">林玉書</a>、<a href="https://zh.wikipedia.org/wiki/琳妲" title="wikilink">琳妲</a>、<a href="../Page/徐凱希.md" title="wikilink">徐凱希</a>、<a href="../Page/梁以辰.md" title="wikilink">梁以辰</a></p></td>
+<td><p>1.07</p></td>
+<td><p>1</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>27</p></td>
+<td><p>2019年3月29日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/夢多" title="wikilink">夢多</a>、<a href="https://zh.wikipedia.org/wiki/龐庸之" title="wikilink">阿龐</a>、<a href="../Page/夏語心.md" title="wikilink">夏語心</a>、<a href="../Page/徐瑋吟.md" title="wikilink">鮪魚</a></p></td>
+<td><p>1.06</p></td>
+<td><p>1</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>28</p></td>
+<td><p>2019年4月5日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳依依" title="wikilink">依依</a>、<a href="../Page/郭亞棠.md" title="wikilink">郭亞棠</a>、<a href="https://zh.wikipedia.org/wiki/林郁智" title="wikilink">納豆</a>、<a href="https://zh.wikipedia.org/wiki/張文綺" title="wikilink">張文綺</a>、<a href="../Page/陳伊.md" title="wikilink">陳伊</a>、<a href="https://zh.wikipedia.org/wiki/杜力" title="wikilink">杜力</a></p></td>
+<td><p>1.43</p></td>
+<td><p>1</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>29</p></td>
+<td><p>2019年4月12日</p></td>
+<td><p><a href="../Page/張立東.md" title="wikilink">張立東</a>、<a href="../Page/徐凱希.md" title="wikilink">徐凱希</a>、<a href="https://zh.wikipedia.org/wiki/龐庸之" title="wikilink">阿龐</a>、<a href="../Page/廖家儀.md" title="wikilink">廖家儀</a></p></td>
+<td><p>1.13</p></td>
+<td><p>1</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>30</p></td>
+<td><p>2019年4月19日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張家瑋" title="wikilink">張家瑋</a>、<a href="../Page/辜莞允.md" title="wikilink">辜莞允</a>、<a href="../Page/王建復.md" title="wikilink">王建復</a>、<a href="https://zh.wikipedia.org/wiki/龐庸之" title="wikilink">阿龐</a>、<a href="../Page/安苡愛.md" title="wikilink">安苡愛</a>、<a href="../Page/蘇晏霈.md" title="wikilink">蘇晏霈</a></p></td>
+<td><p>1.04</p></td>
+<td><p>1</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>31</p></td>
+<td><p>2019年4月26日</p></td>
+<td><p><a href="../Page/林書葶.md" title="wikilink">Una</a>、<a href="https://zh.wikipedia.org/wiki/龐庸之" title="wikilink">阿龐</a>、<a href="../Page/夏宇禾.md" title="wikilink">夏宇禾</a>、<a href="../Page/曾甜.md" title="wikilink">曾甜</a>、<a href="../Page/張棋惠.md" title="wikilink">張棋惠</a>、<a href="../Page/郭彥均.md" title="wikilink">郭彥均</a></p></td>
+<td><p>1.02</p></td>
+<td><p>1</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>32</p></td>
+<td><p>2019年5月3日</p></td>
+<td><p><a href="../Page/徐瑋吟.md" title="wikilink">鮪魚</a>、<a href="../Page/林柏妤.md" title="wikilink">林柏妤</a>、<a href="../Page/張立東.md" title="wikilink">張立東</a>、<a href="../Page/徐凱希.md" title="wikilink">徐凱希</a>、<a href="../Page/郭亞棠.md" title="wikilink">郭亞棠</a>、<a href="https://zh.wikipedia.org/wiki/亂彈阿翔" title="wikilink">亂彈阿翔</a></p></td>
+<td><p>1.37</p></td>
+<td><p>1</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>33</p></td>
+<td><p>2019年5月10日</p></td>
+<td><p><a href="../Page/林玉書_(演員).md" title="wikilink">林玉書</a>、<a href="../Page/張棋惠.md" title="wikilink">張棋惠</a>、<a href="https://zh.wikipedia.org/wiki/龐庸之" title="wikilink">阿龐</a>、<a href="../Page/李又汝.md" title="wikilink">李又汝</a>、<a href="../Page/徐小可.md" title="wikilink">徐小可</a>、<a href="../Page/白吉勝.md" title="wikilink">阿Ben</a></p></td>
+<td><p>1.32</p></td>
+<td><p>1</p></td>
+<td><p>母親節特輯</p></td>
+</tr>
+<tr class="odd">
+<td><p>34</p></td>
+<td><p>2019年5月17日</p></td>
+<td><p><a href="../Page/徐瑋吟.md" title="wikilink">鮪魚</a>、<a href="../Page/峮峮.md" title="wikilink">峮峮</a>、<a href="../Page/張立東.md" title="wikilink">張立東</a>、<a href="../Page/夏語心.md" title="wikilink">夏語心</a>、<a href="https://zh.wikipedia.org/wiki/張家瑋" title="wikilink">張家瑋</a>、<a href="../Page/王燦.md" title="wikilink">王燦</a></p></td>
+<td><p>1.33</p></td>
+<td><p>1</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>35</p></td>
+<td><p>2019年5月24日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/愷樂" title="wikilink">愷樂</a>、<a href="../Page/顏永烈.md" title="wikilink">顏永烈</a>、<a href="../Page/巴鈺.md" title="wikilink">巴鈺</a>、<a href="../Page/鍾欣愉.md" title="wikilink">莎莎</a>、<a href="../Page/紀竣崴.md" title="wikilink">阿松</a>、<a href="../Page/林彥君.md" title="wikilink">林彥君</a></p></td>
+<td><p>1.35</p></td>
+<td><p>1</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>36</p></td>
+<td><p>2019年5月31日</p></td>
+<td><p><a href="../Page/張立東.md" title="wikilink">張立東</a>、<a href="https://zh.wikipedia.org/wiki/熊熊" title="wikilink">熊熊</a>、<a href="https://zh.wikipedia.org/wiki/林郁智" title="wikilink">納豆</a>、<a href="https://zh.wikipedia.org/wiki/陳依依" title="wikilink">依依</a>、<a href="../Page/徐瑋吟.md" title="wikilink">鮪魚</a>、<a href="https://zh.wikipedia.org/wiki/張文綺" title="wikilink">張文綺</a></p></td>
+<td><p>1.23</p></td>
+<td><p>1</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>37</p></td>
+<td><p>2019年6月7日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/龐庸之" title="wikilink">阿龐</a>、<a href="../Page/林柏妤.md" title="wikilink">林柏妤</a>、<a href="../Page/阿樂.md" title="wikilink">阿樂</a>、<a href="https://zh.wikipedia.org/wiki/夢多" title="wikilink">夢多</a>、<a href="https://zh.wikipedia.org/wiki/籃籃" title="wikilink">籃籃</a>、<a href="../Page/夏語心.md" title="wikilink">夏語心</a></p></td>
+<td><p>1.28</p></td>
+<td><p>1</p></td>
+<td><p>端午節</p></td>
+</tr>
+<tr class="odd">
+<td><p>38</p></td>
+<td><p>2019年6月14日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳宣裕" title="wikilink">NONO</a>、<a href="https://zh.wikipedia.org/wiki/天氣女孩" title="wikilink">嗨獎</a>、<a href="https://zh.wikipedia.org/wiki/五熊" title="wikilink">五熊</a>、<a href="../Page/白吉勝.md" title="wikilink">阿Ben</a>、<a href="../Page/張棋惠.md" title="wikilink">張棋惠</a>、<a href="../Page/陳怡婷.md" title="wikilink">陳怡婷</a></p></td>
+<td><p>1.42</p></td>
+<td><p>1</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>39</p></td>
+<td><p>2019年6月21日</p></td>
+<td><p><a href="../Page/徐瑋吟.md" title="wikilink">鮪魚</a>、<a href="../Page/賴慧如.md" title="wikilink">賴慧如</a>、<a href="../Page/陳大天.md" title="wikilink">陳大天</a>、<a href="../Page/曾智希.md" title="wikilink">曾智希</a>、<a href="../Page/徐凱希.md" title="wikilink">徐凱希</a>、<a href="../Page/張立東.md" title="wikilink">張立東</a></p></td>
+<td><p>*.*</p></td>
+<td></td>
+<td><p>無收視率調查</p></td>
+</tr>
+<tr class="odd">
+<td><p>40</p></td>
+<td><p>2019年6月28日</p></td>
+<td><p><a href="../Page/夏語心.md" title="wikilink">夏語心</a>、<a href="https://zh.wikipedia.org/wiki/米薇" title="wikilink">米薇</a>、<a href="../Page/馬國畢.md" title="wikilink">馬國畢</a>、<a href="https://zh.wikipedia.org/wiki/洪勝德" title="wikilink">-{洪}-都拉斯</a>、<a href="../Page/梓甯.md" title="wikilink">梓甯</a>、<a href="../Page/蘇晏霈.md" title="wikilink">蘇晏霈</a></p></td>
+<td><p>0.90</p></td>
+<td><p>1</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>41</p></td>
+<td><p>2019年7月5日</p></td>
+<td><p><a href="../Page/張勛傑.md" title="wikilink">張勛傑</a>、<a href="https://zh.wikipedia.org/wiki/張家瑋" title="wikilink">張家瑋</a>、<a href="../Page/黃沐妍.md" title="wikilink">黃沐妍</a>、<a href="https://zh.wikipedia.org/wiki/小優" title="wikilink">小優</a>、<a href="../Page/蔡允潔.md" title="wikilink">蔡允潔</a>、<a href="../Page/張立東.md" title="wikilink">張立東</a></p></td>
+<td><p>1.12</p></td>
+<td><p>1</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>42</p></td>
+<td><p>2019年7月12日</p></td>
+<td><p><a href="../Page/張秀卿.md" title="wikilink">張秀卿</a>、<a href="https://zh.wikipedia.org/wiki/張文綺" title="wikilink">張文綺</a>、<a href="https://zh.wikipedia.org/wiki/田舞陽" title="wikilink">舞陽</a>、<a href="../Page/徐瑋吟.md" title="wikilink">鮪魚</a>、<a href="https://zh.wikipedia.org/wiki/籃籃" title="wikilink">籃籃</a>、<a href="https://zh.wikipedia.org/wiki/龐庸之" title="wikilink">阿龐</a></p></td>
+<td><p>1.17</p></td>
+<td><p>1</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>43</p></td>
+<td><p>2019年7月19日</p></td>
+<td><p><a href="../Page/張棋惠.md" title="wikilink">張棋惠</a>、<a href="../Page/阿樂.md" title="wikilink">阿樂</a>、<a href="../Page/張立東.md" title="wikilink">張立東</a>、<a href="../Page/安妮_(藝人).md" title="wikilink">安妮</a>、<a href="../Page/徐瑋吟.md" title="wikilink">鮪魚</a>、<a href="../Page/王燦.md" title="wikilink">王燦</a></p></td>
+<td><p>1.00</p></td>
+<td><p>1</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>44</p></td>
+<td><p>2019年7月26日</p></td>
+<td><p><a href="../Page/陳大天.md" title="wikilink">陳大天</a>、<a href="https://zh.wikipedia.org/wiki/吳元元" title="wikilink">元元</a>、<a href="../Page/夏語心.md" title="wikilink">夏語心</a>、<a href="../Page/張立東.md" title="wikilink">張立東</a>、<a href="https://zh.wikipedia.org/wiki/愛語莎" title="wikilink">愛語莎</a>、<a href="../Page/曾智希.md" title="wikilink">曾智希</a></p></td>
+<td><p>1.06</p></td>
+<td><p>1</p></td>
+<td><p>阿翔停工前最後存檔</p></td>
+</tr>
+<tr class="even">
+<td><p>45</p></td>
+<td><p>2019年8月2日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蔡尚甫" title="wikilink">Gino</a>、<a href="../Page/阿龐.md" title="wikilink">阿龐</a>、<a href="../Page/黃沐妍.md" title="wikilink">黃沐妍</a>、<a href="../Page/徐瑋吟.md" title="wikilink">鮪魚</a>、<a href="../Page/張棋惠.md" title="wikilink">張棋惠</a>、<a href="https://zh.wikipedia.org/wiki/杜力" title="wikilink">杜力</a><br />
+代班主持：<a href="../Page/小嫻.md" title="wikilink">小嫻</a></p></td>
+<td><p>1.04</p></td>
+<td><p>1</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>46</p></td>
+<td><p>2019年8月9日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/LamiGirls" title="wikilink">籃籃</a>、<a href="../Page/陳大天.md" title="wikilink">陳大天</a>、<a href="../Page/徐瑋吟.md" title="wikilink">鮪魚</a>、<a href="../Page/張立東.md" title="wikilink">張立東</a>、<a href="../Page/哈孝遠.md" title="wikilink">哈孝遠</a>、<a href="https://zh.wikipedia.org/wiki/天氣女孩" title="wikilink">嗨獎</a><br />
+代班主持：<a href="../Page/小嫻.md" title="wikilink">小嫻</a></p></td>
+<td><p>1.18</p></td>
+<td><p>1</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>47</p></td>
+<td><p>2019年8月16日</p></td>
+<td><p><a href="../Page/NONO.md" title="wikilink">NONO</a>、<a href="../Page/篠崎泫.md" title="wikilink">篠崎泫</a>、<a href="../Page/蘇晏霈.md" title="wikilink">蘇晏霈</a>、<a href="https://zh.wikipedia.org/wiki/GINO" title="wikilink">GINO</a>、<a href="https://zh.wikipedia.org/wiki/龐庸之" title="wikilink">阿龐</a>、<a href="../Page/徐凱希.md" title="wikilink">徐凱希</a><br />
+代班主持：<a href="../Page/小嫻.md" title="wikilink">小嫻</a></p></td>
+<td><p>1.32</p></td>
+<td><p>1</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>48</p></td>
+<td><p>2019年8月23日</p></td>
+<td><p><a href="../Page/徐瑋吟.md" title="wikilink">鮪魚</a>、<a href="https://zh.wikipedia.org/wiki/張家瑋" title="wikilink">張家瑋</a>、<a href="../Page/曾智希.md" title="wikilink">曾智希</a>、<a href="https://zh.wikipedia.org/wiki/GINO" title="wikilink">GINO</a>、<a href="https://zh.wikipedia.org/wiki/龐庸之" title="wikilink">阿龐</a>、<a href="../Page/張勛傑.md" title="wikilink">張勛傑</a><br />
+代班主持：<a href="../Page/小嫻.md" title="wikilink">小嫻</a></p></td>
+<td><p>1.28</p></td>
+<td><p>1</p></td>
+<td><p>（上集）</p></td>
+</tr>
+<tr class="even">
+<td><p>49</p></td>
+<td><p>2019年8月30日</p></td>
+<td><p>1.28</p></td>
+<td><p>1</p></td>
+<td><p>（下集）</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>50</p></td>
+<td><p>2019年9月6日</p></td>
+<td><p><a href="../Page/阿龐.md" title="wikilink">阿龐</a>、<a href="../Page/高山峰.md" title="wikilink">高山峰</a>、<a href="../Page/顏永烈.md" title="wikilink">顏永烈</a>、<a href="../Page/張棋惠.md" title="wikilink">張棋惠</a>、<a href="../Page/黃沐妍.md" title="wikilink">黃沐妍</a>、<a href="https://zh.wikipedia.org/wiki/董梓甯" title="wikilink">梓甯</a><br />
+代班主持：<a href="../Page/小嫻.md" title="wikilink">小嫻</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>51</p></td>
+<td><p>2019年9月13日</p></td>
+<td><p><a href="../Page/郭忠祐.md" title="wikilink">郭忠祐</a>、<a href="https://zh.wikipedia.org/wiki/李佳佳" title="wikilink">蘿莉塔</a>、<a href="https://zh.wikipedia.org/wiki/林莎" title="wikilink">林莎</a>、<a href="../Page/張勛傑.md" title="wikilink">張勛傑</a><br />
+代班主持：<a href="../Page/小嫻.md" title="wikilink">小嫻</a></p></td>
+<td></td>
+<td></td>
+<td><p>中秋節</p></td>
+</tr>
+</tbody>
+</table>
+
+## 來賓集數
+
+| 藝人                                                      | 次數 | 集數                                                           |
+| ------------------------------------------------------- | -- | ------------------------------------------------------------ |
+| [江振愷](../Page/江振愷.md "wikilink")                        | 22 | 1,3-4,6,9,11,14,16,21-22,24-25,28,30,32,34,36,42-43,45-46,49 |
+| [馬國畢](../Page/馬國畢.md "wikilink")                        | 16 | 1-7,9,12,21,25,37,39,47,50-51                                |
+| [郭忠祐](../Page/郭忠祐.md "wikilink")                        | 16 | 5,10,14,17,19,22-23,26,28-29,31,34,37,42,44,49               |
+| [紅毛](../Page/紅毛.md "wikilink")                          | 14 | 6,10,12,16,18-19,24,27,31,38,41,44-45,50                     |
+| [安苡愛](../Page/安苡愛.md "wikilink")                        | 10 | 2,6,10,13,20-21,26,30,39,45                                  |
+| [趙孟姿](../Page/趙孟姿.md "wikilink")                        | 10 | 5,8,11,14-15,18,23,42,47,51                                  |
+| [LOOK](https://zh.wikipedia.org/wiki/余思達 "wikilink")    | 9  | 2,5,12,20,27,33,37,41,47                                     |
+| [Una](../Page/林書葶.md "wikilink")                        | 8  | 1,3,12,22,29,38,41,44                                        |
+| [高凱莉](https://zh.wikipedia.org/wiki/高凱莉 "wikilink")     | 8  | 7,9,23,28,33,40,48,51                                        |
+| [蔡小潔/蔡允潔](../Page/蔡允潔.md "wikilink")                    | 8  | 7,12,16,19,24,31,36,43                                       |
+| [李靖茹/李又汝](../Page/李又汝.md "wikilink")                    | 7  | 9,15,19,25,37,42,49                                          |
+| [無尊](../Page/無尊.md "wikilink")                          | 7  | 11,22,25,37,40,43,48                                         |
+| [黃安琪](https://zh.wikipedia.org/wiki/黃安琪 "wikilink")     | 7  | 15,18,28,34,39,44,50                                         |
+| [曹育豪](https://zh.wikipedia.org/wiki/曹育豪 "wikilink")     | 6  | 3,6,8,15,21,27                                               |
+| [賴慧如](../Page/賴慧如.md "wikilink")                        | 6  | 3,14,17,25,35,45                                             |
+| [曹菀琳](../Page/曹菀琳.md "wikilink")                        | 6  | 3,17,22,35,42,50                                             |
+| [小范范](https://zh.wikipedia.org/wiki/小范范 "wikilink")     | 6  | 4,9,13,22,24,50                                              |
+| [王翔弘](https://zh.wikipedia.org/wiki/王翔弘 "wikilink")     | 6  | 6,13,21,30,35,48                                             |
+| [陳怡婷](../Page/陳怡婷.md "wikilink")                        | 6  | 6,15,20,39,48-49                                             |
+| [林道遠](../Page/林道遠.md "wikilink")                        | 6  | 17,19,29-30,43,48                                            |
+| [魏可人](https://zh.wikipedia.org/wiki/魏可人 "wikilink")     | 6  | 21,25,30,37,45,49                                            |
+| [餅乾](https://zh.wikipedia.org/wiki/餅乾 "wikilink")       | 6  | 24,28,31,33,39,48                                            |
+| [小晰晰](https://zh.wikipedia.org/wiki/小晰晰 "wikilink")     | 6  | 26,31,36,41,45,47                                            |
+| [林輝瑝](https://zh.wikipedia.org/wiki/林輝瑝 "wikilink")     | 5  | 1,8,29,39,47                                                 |
+| [郭婷筠](../Page/郭婷筠.md "wikilink")                        | 5  | 5,11,18,27,34                                                |
+| [成潤](../Page/成潤.md "wikilink")                          | 5  | 20,35,40,44,49                                               |
+| [潘映竹](../Page/潘映竹.md "wikilink")                        | 5  | 24,32,39-40,46                                               |
+| [童韋傑](https://zh.wikipedia.org/wiki/童韋傑 "wikilink")     | 5  | 36,38,41,46,51                                               |
+| [VIVI](https://zh.wikipedia.org/wiki/許薇安 "wikilink")    | 4  | 2,20,26,37                                                   |
+| [張家瑋](https://zh.wikipedia.org/wiki/張家瑋 "wikilink")     | 4  | 13,30,41,46                                                  |
+| [張文綺](https://zh.wikipedia.org/wiki/張文綺 "wikilink")     | 3  | 1,10,22                                                      |
+| [依依](https://zh.wikipedia.org/wiki/依依 "wikilink")       | 3  | 8,25,46                                                      |
+| [白家綺](../Page/白家綺.md "wikilink")                        | 3  | 11-12,29                                                     |
+| [妖嬌](https://zh.wikipedia.org/wiki/妖嬌 "wikilink")       | 3  | 19,32,50                                                     |
+| [郭亞棠](../Page/郭亞棠.md "wikilink")                        | 3  | 20,33,43                                                     |
+| [林柏妤](../Page/林柏妤.md "wikilink")                        | 3  | 21,36,43                                                     |
+| [恩齊兒](https://zh.wikipedia.org/wiki/恩齊兒 "wikilink")     | 3  | 23,29,44                                                     |
+| [黃沐妍](../Page/黃沐妍.md "wikilink")                        | 3  | 27,33,48                                                     |
+| [卡古](https://zh.wikipedia.org/wiki/卡古 "wikilink")       | 3  | 31,36,50                                                     |
+| [費丹尼](../Page/費丹尼.md "wikilink")                        | 3  | 35,39,44                                                     |
+| [成亮澄](../Page/成亮澄.md "wikilink")                        | 2  | 1,4                                                          |
+| [蔡佳麟](../Page/蔡佳麟.md "wikilink")                        | 2  | 2-3                                                          |
+| [裴妤宸](https://zh.wikipedia.org/wiki/裴妤宸 "wikilink")     | 2  | 2,28                                                         |
+| [夢多](https://zh.wikipedia.org/wiki/夢多 "wikilink")       | 2  | 4,14                                                         |
+| [邱珮淇](../Page/邱珮淇.md "wikilink")                        | 2  | 5,51                                                         |
+| [樓心潼](../Page/樓心潼.md "wikilink")                        | 2  | 6,33                                                         |
+| [林詠越](https://zh.wikipedia.org/wiki/林詠越 "wikilink")     | 2  | 7,18                                                         |
+| [鄭達鴻](../Page/鄭達鴻.md "wikilink")                        | 2  | 7,46                                                         |
+| [阿BEN](https://zh.wikipedia.org/wiki/阿BEN "wikilink")   | 2  | 8,23                                                         |
+| [紅茶](https://zh.wikipedia.org/wiki/許偉帆 "wikilink")      | 2  | 9-10                                                         |
+| [王建復](../Page/王建復.md "wikilink")                        | 2  | 13,19                                                        |
+| [撒基努](https://zh.wikipedia.org/wiki/撒基努 "wikilink")     | 2  | 13,36                                                        |
+| [余秉諺](../Page/余秉諺.md "wikilink")                        | 2  | 15,26                                                        |
+| [錢君仲](../Page/錢君仲.md "wikilink")                        | 2  | 16,34                                                        |
+| [華千涵](../Page/華千涵.md "wikilink")                        | 2  | 17,35                                                        |
+| [GINO](https://zh.wikipedia.org/wiki/GINO "wikilink")   | 2  | 17,38                                                        |
+| [阿竿](../Page/阿竿.md "wikilink")                          | 2  | 20,32                                                        |
+| [顏曉筠](https://zh.wikipedia.org/wiki/顏曉筠 "wikilink")     | 2  | 32,38                                                        |
+| [王燦](../Page/王燦.md "wikilink")                          | 2  | 33,45                                                        |
+| [杜忻恬](../Page/杜忻恬.md "wikilink")                        | 2  | 37,43                                                        |
+| [LaLa](../Page/蘇心甯.md "wikilink")                       | 2  | 38,40                                                        |
+| [齊婕](https://zh.wikipedia.org/wiki/齊婕 "wikilink")       | 1  | 1                                                            |
+| [雷洪](../Page/雷洪.md "wikilink")                          | 1  | 2                                                            |
+| [傅子純](../Page/傅子純.md "wikilink")                        | 1  | 2                                                            |
+| [海倫清桃](../Page/海倫清桃.md "wikilink")                      | 1  | 2                                                            |
+| [白冰冰](../Page/白冰冰.md "wikilink")                        | 1  | 4                                                            |
+| [阿喜](https://zh.wikipedia.org/wiki/阿喜 "wikilink")       | 1  | 4                                                            |
+| [布魯斯](https://zh.wikipedia.org/wiki/布魯斯 "wikilink")     | 1  | 4                                                            |
+| [莉卡](https://zh.wikipedia.org/wiki/莉卡 "wikilink")       | 1  | 4                                                            |
+| [麗絲](https://zh.wikipedia.org/wiki/麗絲 "wikilink")       | 1  | 4                                                            |
+| [張瑜秦](https://zh.wikipedia.org/wiki/張瑜秦 "wikilink")     | 1  | 7                                                            |
+| [鋇鋇](https://zh.wikipedia.org/wiki/鋇鋇 "wikilink")       | 1  | 8                                                            |
+| [吳皓昇](../Page/吳皓昇.md "wikilink")                        | 1  | 8                                                            |
+| [楊羽霓](https://zh.wikipedia.org/wiki/楊羽霓 "wikilink")     | 1  | 8                                                            |
+| [阮氏翠恆](https://zh.wikipedia.org/wiki/阮氏翠恆 "wikilink")   | 1  | 8                                                            |
+| [優格姐姐](https://zh.wikipedia.org/wiki/優格姐姐 "wikilink")   | 1  | 9                                                            |
+| [泡芙姐姐](../Page/泡芙姐姐.md "wikilink")                      | 1  | 9                                                            |
+| [檸檬哥哥](https://zh.wikipedia.org/wiki/檸檬哥哥 "wikilink")   | 1  | 9                                                            |
+| [哈密瓜哥哥](https://zh.wikipedia.org/wiki/哈密瓜哥哥 "wikilink") | 1  | 9                                                            |
+| [凱涵](https://zh.wikipedia.org/wiki/凱涵 "wikilink")       | 1  | 10                                                           |
+| [王鼎文](https://zh.wikipedia.org/wiki/王鼎文 "wikilink")     | 1  | 11                                                           |
+| [Q尼](https://zh.wikipedia.org/wiki/Q尼 "wikilink")       | 1  | 11                                                           |
+| [文汶](../Page/文汶.md "wikilink")                          | 1  | 11                                                           |
+| [陳謙文](../Page/陳謙文.md "wikilink")                        | 1  | 11                                                           |
+| [王上豪](../Page/王上豪.md "wikilink")                        | 1  | 13                                                           |
+| [黃金鴻](https://zh.wikipedia.org/wiki/黃金鴻 "wikilink")     | 1  | 13                                                           |
+| [李博翔](../Page/李博翔.md "wikilink")                        | 1  | 13                                                           |
+| [吳采臻](../Page/吳采臻.md "wikilink")                        | 1  | 14                                                           |
+| [柯叔元](../Page/柯叔元.md "wikilink")                        | 1  | 15                                                           |
+| [王樂妍](../Page/王樂妍.md "wikilink")                        | 1  | 16                                                           |
+| [葉倩宇](https://zh.wikipedia.org/wiki/葉倩宇 "wikilink")     | 1  | 16                                                           |
+| [陳芊羽](../Page/陳芊羽.md "wikilink")                        | 1  | 16                                                           |
+| [羅子惟](../Page/羅子惟.md "wikilink")                        | 1  | 18                                                           |
+| [Aries](https://zh.wikipedia.org/wiki/Aries "wikilink") | 1  | 18                                                           |
+| [薩基努](https://zh.wikipedia.org/wiki/薩基努 "wikilink")     | 1  | 23                                                           |
+| [黃楚兒](https://zh.wikipedia.org/wiki/黃楚兒 "wikilink")     | 1  | 24                                                           |
+| [蔡昆哲](https://zh.wikipedia.org/wiki/蔡昆哲 "wikilink")     | 1  | 26                                                           |
+| [常立琳](../Page/常立琳.md "wikilink")                        | 1  | 27                                                           |
+| [馬丁](https://zh.wikipedia.org/wiki/馬丁 "wikilink")       | 1  | 29                                                           |
+| [潔哥](https://zh.wikipedia.org/wiki/潔哥 "wikilink")       | 1  | 31                                                           |
+| [博焱](../Page/博焱.md "wikilink")                          | 1  | 32                                                           |
+| [藍芯芯](https://zh.wikipedia.org/wiki/藍芯芯 "wikilink")     | 1  | 32                                                           |
+| [邱慧雯](../Page/邱慧雯.md "wikilink")                        | 1  | 34                                                           |
+| [廷廷](https://zh.wikipedia.org/wiki/廷廷 "wikilink")       | 1  | 34                                                           |
+| [畢哥](https://zh.wikipedia.org/wiki/畢哥 "wikilink")       | 1  | 40                                                           |
+| [菁菁](https://zh.wikipedia.org/wiki/菁菁 "wikilink")       | 1  | 40                                                           |
+| [曾瑋中](../Page/曾瑋中.md "wikilink")                        | 1  | 42                                                           |
+| [林孟宗](../Page/林孟宗.md "wikilink")                        | 1  | 42                                                           |
+| [金淵珍](https://zh.wikipedia.org/wiki/金淵珍 "wikilink")     | 1  | 42                                                           |
+| [胡蓓筠](https://zh.wikipedia.org/wiki/胡蓓筠 "wikilink")     | 1  | 44                                                           |
+| [吳東諺](../Page/吳東諺.md "wikilink")                        | 1  | 45                                                           |
+| [邱紫庭](../Page/邱紫庭.md "wikilink")                        | 1  | 46                                                           |
+| [李羽棠](https://zh.wikipedia.org/wiki/李羽棠 "wikilink")     | 1  | 49                                                           |
+| [張嘉麟](https://zh.wikipedia.org/wiki/張嘉麟 "wikilink")     | 1  | 50                                                           |
+| [林思杰](../Page/林思杰.md "wikilink")                        | 1  | 51                                                           |
+
+## 節目的變遷
+
+[Category:民視電視節目](https://zh.wikipedia.org/wiki/Category:民視電視節目 "wikilink") [Category:八大電視節目](https://zh.wikipedia.org/wiki/Category:八大電視節目 "wikilink") [Category:台灣綜藝節目](https://zh.wikipedia.org/wiki/Category:台灣綜藝節目 "wikilink") [Category:台灣實境節目](https://zh.wikipedia.org/wiki/Category:台灣實境節目 "wikilink")
+
+1.
+2.
+3.
+4.

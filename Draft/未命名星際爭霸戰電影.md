@@ -1,0 +1,28 @@
+《**未命名星際爭霸戰計劃**》（）是一部美國[科幻](https://zh.wikipedia.org/wiki/科幻片 "wikilink")[冒險片](https://zh.wikipedia.org/wiki/冒險片 "wikilink")，由[昆汀·塔倫提諾執導和撰寫故事](https://zh.wikipedia.org/wiki/昆汀·塔倫提諾 "wikilink")。電影改編自[金·羅登貝瑞](../Page/金·羅登貝瑞.md "wikilink")[同名電視系列](../Page/星艦奇航記.md "wikilink")，為「[星艦迷航記系列電影](https://zh.wikipedia.org/wiki/星艦迷航記電影列表 "wikilink")」之一。
+
+## 製作
+
+2017年12月，宣布[昆汀·塔倫提諾向](https://zh.wikipedia.org/wiki/昆汀·塔倫提諾 "wikilink")[派拉蒙影業](../Page/派拉蒙影業.md "wikilink")提出了一個有關新的《星際爭霸戰》電影的想法\[1\]。由、琳賽·比爾（Lindsey Beer）、梅根·艾姆蘭（Megan Amram）和組成的作家室為了該概念而聚集起來\[2\]。該片將由塔倫提諾執導，並與曾執導《[星際爭霸戰](https://zh.wikipedia.org/wiki/星際爭霸戰_\(電影\) "wikilink")》和《[闇黑無界：星際爭霸戰](https://zh.wikipedia.org/wiki/闇黑無界：星際爭霸戰 "wikilink")》的[J·J·亞伯拉罕共同製片](https://zh.wikipedia.org/wiki/J·J·亞伯拉罕 "wikilink")\[3\]。
+
+2019年5月，塔倫提諾證實他的《星際爭霸戰》電影仍在開發中，他說「這是非常大的可能性會發生的。我從沒和那些傢伙打過交道，因為我一直忙在製作我的電影，但我們談論了故事和劇本，而且劇本已經寫好了。在《[從前，有個好萊塢](../Page/從前，有個好萊塢.md "wikilink")》的宣傳期結束後，我們會再次談論該計劃\[4\]。」
+
+2019年6月，塔倫提諾對該計劃進行了討論，指史密斯已經完成他的劇本\[5\]，也表示該片將會是一部限制級電影，並將其描述為「太空中的《[黑色追緝令](https://zh.wikipedia.org/wiki/黑色追緝令 "wikilink")》」\[6\]\[7\]\[8\]。
+
+## 參考資料
+
+## 外部連結
+
+  -
+<!-- end list -->
+
+1.
+2.
+
+3.
+4.
+
+5.
+6.
+7.
+
+8.

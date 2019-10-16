@@ -199,7 +199,7 @@
 <li>派對動物 - Cookies</li>
 </ol></td>
 <td><p>4間：<br />
-正東、環球、<a href="../Page/金牌大風.md" title="wikilink">金牌</a>、<a href="https://zh.wikipedia.org/wiki/正視音樂" title="wikilink">正視音樂</a></p></td>
+正東、環球、<a href="../Page/金牌大風.md" title="wikilink">金牌</a>、<a href="../Page/正視音樂.md" title="wikilink">正視音樂</a></p></td>
 <td><p>首次收錄新曲</p></td>
 </tr>
 <tr class="even">

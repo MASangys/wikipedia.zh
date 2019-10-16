@@ -1,0 +1,59 @@
+<table style="width:1%;">
+<colgroup>
+<col style="width: 1%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><center>
+<p><span style="font-size:x-large;"><strong>文件上传向导</strong></span></p>
+</center></td>
+</tr>
+<tr class="even">
+<td><center>
+<p><span style="font-size:medium;"><strong>1、介绍</strong> | 2、搜索 | 3、版权 | 4、完成</span></p>
+</center></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/File:Nichalp_upload_script_icon.svg" title="fig:右">右</a> 欢迎来到<a href="https://zh.wikipedia.org/wiki/wikipedia:文件上传向导" title="wikilink">文件上传向导</a>！如果您没有帐户，或者如果您有帐户但未成为自动确认用户并且您要上传的文件受版权保护，则此向导将指导您完成向维基百科添加图像的过程。</p>
+<p>通常，帐户在注册至少四天并至少进行十次编辑的时候都会自动确认用户，如果您已经是自动确认用户，您可以选择直接<a href="https://zh.wikipedia.org/wiki/wikipedia:上传" title="wikilink">在这里上传图像</a>。</p>
+<h3 id="如果你...">如果你...</h3>
+<ul>
+<li>have a Wikipedia account that is <a href="https://zh.wikipedia.org/wiki/wikipedia:用户权限级别" title="wikilink">confirmed or autoconfirmed</a>, please <a href="https://zh.wikipedia.org/wiki/wikipedia:上传" title="wikilink">upload</a> the image yourself. If you need help uploading the image, you can ask for help at the <a href="https://zh.wikipedia.org/wiki/wikipedia:互助客栈/求助" title="wikilink">Wikipedia Helpdesk</a>. Please consider <a href="https://zh.wikipedia.org/wiki/c:Commons:Upload" title="wikilink">uploading</a> <a href="../Page/自由內容.md" title="wikilink">free content</a> to the <a href="https://zh.wikipedia.org/wiki/c:Main_Page" title="wikilink">Wikimedia Commons</a> (you can login with your Wikipedia username and password). To upload an image to Wikipedia, click <a href="https://zh.wikipedia.org/wiki/wikipedia:上传" title="wikilink">here</a>. To upload an image to the Wikipedia Commons, click <a href="https://zh.wikipedia.org/wiki/c:Commons:Upload" title="wikilink">here</a>.</li>
+<li>have a Wikipedia account that is not yet confirmed and the image you want to upload <a href="../Page/自由內容.md" title="wikilink">isn't copyrighted</a>, you'll be able to upload it to the Wikimedia Commons (you'll be able to login with your Wikipedia username and password), click <a href="https://zh.wikipedia.org/wiki/c:Commons:Upload" title="wikilink">here</a>.</li>
+<li>do not have a Wikipedia account and want to upload a <a href="../Page/自由內容.md" title="wikilink">free image</a> yourself, you need to <a href="https://zh.wikipedia.org/wiki/c:Commons:First_steps/Account" title="wikilink">create an account</a> at the Wikimedia Commons first. After you have done this, you can click <a href="https://zh.wikipedia.org/wiki/c:Commons:Upload" title="wikilink">here</a> to upload the image.</li>
+</ul>
+<h3 id="您想做什么">您想做什么？</h3>
+<p>上传图片...</p>
+<p>If you don't have an account, you can upload without registering. Otherwise...</p>
+<table>
+<tbody>
+<tr class="odd">
+<td><p> </p></td>
+<td><p> </p></td>
+<td><p>Is the image <a href="../Page/自由內容.md" title="wikilink">free</a>?</p></td>
+</tr>
+<tr class="even">
+<td><p> </p></td>
+<td><p> </p></td>
+<td><p>Yes</p></td>
+</tr>
+<tr class="odd">
+<td><p>Are you <a href="https://zh.wikipedia.org/wiki/wikipedia:用户权限级别" title="wikilink">autoconfirmed</a>?</p></td>
+<td><p>Yes</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>No</p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><big>Other options:</big></p>
+<ul>
+<li>Register as a new user on Wikipedia</li>
+<li><a href="https://zh.wikipedia.org/wiki/wikipedia:Files_for_upload/Wizard/Help" title="wikilink">Create an article or ask a question</a></li>
+</ul></td>
+</tr>
+</tbody>
+</table>

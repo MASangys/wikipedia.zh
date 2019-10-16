@@ -73,7 +73,7 @@
   - 이혜정
   - [張允柱](../Page/張允柱.md "wikilink")
   - 정재호
-  - [鄭赫](https://zh.wikipedia.org/wiki/鄭赫 "wikilink")
+  - [鄭赫](../Page/鄭赫.md "wikilink")
   - 秦雅凜
   - 韓惠妍
   - [韓惠珍](../Page/韓惠珍_\(模特兒\).md "wikilink")

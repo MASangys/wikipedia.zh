@@ -1,8 +1,8 @@
-**艾伯特·羅布森·白克**（，），來自[英國的](https://zh.wikipedia.org/wiki/英國 "wikilink")[遠東](../Page/遠東.md "wikilink")[商人](../Page/商人.md "wikilink")，[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")[祥茂洋行創辦人和合夥人之一](https://zh.wikipedia.org/wiki/祥茂洋行 "wikilink")。
+**艾伯特·羅布森·白克**（，），來自[英國的](https://zh.wikipedia.org/wiki/英國 "wikilink")[遠東](../Page/遠東.md "wikilink")[商人](../Page/商人.md "wikilink")，[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")[祥茂洋行](../Page/祥茂洋行.md "wikilink")創辦人和合夥人之一。
 
 白克1866年前來[上海租界](../Page/上海租界.md "wikilink")加入[軋拉佛洋行](https://zh.wikipedia.org/wiki/軋拉佛洋行 "wikilink")，他後來自立門戶，投身[絲綢業務成為](https://zh.wikipedia.org/wiki/絲綢 "wikilink")[絲師](https://zh.wikipedia.org/wiki/絲師 "wikilink")。1877年，他與商人[查爾斯·克勞姆合夥成立祥茂洋行](https://zh.wikipedia.org/wiki/查爾斯·克勞姆 "wikilink")，洋行由早期從事[生絲和](https://zh.wikipedia.org/wiki/生絲 "wikilink")[廢絲業務](https://zh.wikipedia.org/wiki/廢絲 "wikilink")，到後來進一步包攬一般[進出口](https://zh.wikipedia.org/wiki/進出口 "wikilink")[貿易業務](https://zh.wikipedia.org/wiki/貿易 "wikilink")，在上海具有一定名氣。在商業工作以外，白克也曾於1897年至1898年當選[上海公共租界工部局](../Page/上海公共租界工部局.md "wikilink")總董。上海市內有[白克路](https://zh.wikipedia.org/wiki/白克路 "wikilink")（1943年易名[鳳陽路](https://zh.wikipedia.org/wiki/鳳陽路 "wikilink")）以其命名，以資紀念。
 
-白克於1898年退休返英，祥茂洋行的日常業務改由兩名兒子[A·W·白克和](https://zh.wikipedia.org/wiki/A·W·白克 "wikilink")[C·R·白克](../Page/C·R·白克.md "wikilink")接手全權打理。1913年，白克在其位於[伯克郡](../Page/伯克郡.md "wikilink")的寓所突然逝世，終年約74歲。
+白克於1898年退休返英，祥茂洋行的日常業務改由兩名兒子[A·W·白克](../Page/A·W·白克.md "wikilink")和[C·R·白克](../Page/C·R·白克.md "wikilink")接手全權打理。1913年，白克在其位於[伯克郡](../Page/伯克郡.md "wikilink")的寓所突然逝世，終年約74歲。
 
 ## 生平
 
@@ -12,7 +12,7 @@
 
 ### 上海發展
 
-1866年，白克前往[中國](../Page/中國.md "wikilink")的[上海租界](../Page/上海租界.md "wikilink")發展，最初加入[軋拉佛洋行](https://zh.wikipedia.org/wiki/軋拉佛洋行 "wikilink")（Glover, Dow and Co.）任職。\[9\]\[10\]數年後，他決定自立門戶，投身[絲綢業務成為](https://zh.wikipedia.org/wiki/絲綢 "wikilink")[絲師](https://zh.wikipedia.org/wiki/絲師 "wikilink")（silk inspector）。\[11\]1877年，他更與商人[查爾斯·克勞姆](https://zh.wikipedia.org/wiki/查爾斯·克勞姆 "wikilink")（Charles Cromie）於上海合夥成立[祥茂洋行](https://zh.wikipedia.org/wiki/祥茂洋行 "wikilink")（Cromie and Burkill）。\[12\]\[13\]\[14\]洋行早期從事[生絲和](https://zh.wikipedia.org/wiki/生絲 "wikilink")[廢絲業務](https://zh.wikipedia.org/wiki/廢絲 "wikilink")，並設總部於[江西路](https://zh.wikipedia.org/wiki/江西路 "wikilink")，其後洋行逐步擴充，並包攬一般[進出口](https://zh.wikipedia.org/wiki/進出口 "wikilink")[貿易業務](https://zh.wikipedia.org/wiki/貿易 "wikilink")。\[15\]後來，該行成為多家企業的代理，當中包括[英法產業有限公司](https://zh.wikipedia.org/wiki/英法產業有限公司 "wikilink")（Anglo-French Land Investment Company）、從事內河小型船運的[祥茂輪船公司](https://zh.wikipedia.org/wiki/祥茂輪船公司 "wikilink")（Cheang Mow Steamship Company）、[曼徹斯特保險公司](https://zh.wikipedia.org/wiki/曼徹斯特保險公司 "wikilink")（Manchester Assurance Company）和[皇家交易所保險公司](https://zh.wikipedia.org/wiki/皇家交易所保險公司 "wikilink")（Royal Exchange Assurance Corporation）等。\[16\]
+1866年，白克前往[中國](../Page/中國.md "wikilink")的[上海租界](../Page/上海租界.md "wikilink")發展，最初加入[軋拉佛洋行](https://zh.wikipedia.org/wiki/軋拉佛洋行 "wikilink")（Glover, Dow and Co.）任職。\[9\]\[10\]數年後，他決定自立門戶，投身[絲綢業務成為](https://zh.wikipedia.org/wiki/絲綢 "wikilink")[絲師](https://zh.wikipedia.org/wiki/絲師 "wikilink")（silk inspector）。\[11\]1877年，他更與商人[查爾斯·克勞姆](https://zh.wikipedia.org/wiki/查爾斯·克勞姆 "wikilink")（Charles Cromie）於上海合夥成立[祥茂洋行](../Page/祥茂洋行.md "wikilink")（Cromie and Burkill）。\[12\]\[13\]\[14\]洋行早期從事[生絲和](https://zh.wikipedia.org/wiki/生絲 "wikilink")[廢絲業務](https://zh.wikipedia.org/wiki/廢絲 "wikilink")，並設總部於[江西路](https://zh.wikipedia.org/wiki/江西路 "wikilink")，其後洋行逐步擴充，並包攬一般[進出口](https://zh.wikipedia.org/wiki/進出口 "wikilink")[貿易業務](https://zh.wikipedia.org/wiki/貿易 "wikilink")。\[15\]後來，該行成為多家企業的代理，當中包括[英法產業有限公司](https://zh.wikipedia.org/wiki/英法產業有限公司 "wikilink")（Anglo-French Land Investment Company）、從事內河小型船運的[祥茂輪船公司](https://zh.wikipedia.org/wiki/祥茂輪船公司 "wikilink")（Cheang Mow Steamship Company）、[曼徹斯特保險公司](https://zh.wikipedia.org/wiki/曼徹斯特保險公司 "wikilink")（Manchester Assurance Company）和[皇家交易所保險公司](https://zh.wikipedia.org/wiki/皇家交易所保險公司 "wikilink")（Royal Exchange Assurance Corporation）等。\[16\]
 
 此外，祥茂洋行的合夥人也代任[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[火神鐵機公司](https://zh.wikipedia.org/wiki/火神鐵機公司 "wikilink")（Vulcan Iron Works）在華的總經理，以及英商[江蘇藥水廠](https://zh.wikipedia.org/wiki/江蘇藥水廠 "wikilink")（Kiangsu Chemical Works）總公司[美查洋行](https://zh.wikipedia.org/wiki/美查洋行 "wikilink")（Major Bros., Ltd.）的秘書。\[17\]1888年，白克又參與創立[業廣地產公司](https://zh.wikipedia.org/wiki/業廣地產公司 "wikilink")（Shanghai Land Investment Company）。\[18\]
 
@@ -20,21 +20,21 @@
 
 ### 晚年生涯
 
-祥茂洋行合夥人克勞姆於1896年逝世後，\[25\]白克的兩名兒子[A·W·白克和](https://zh.wikipedia.org/wiki/A·W·白克 "wikilink")[C·R·白克](../Page/C·R·白克.md "wikilink")加入成為新合夥人。\[26\]\[27\]祥茂洋行的英文名稱也相應改為「A. R. Burkill and Sons」，但中文名稱維持不變。\[28\]在華三十多年的白克在1898年退休返英，祥茂洋行的業務由兩名留在上海的兒子接手。\[29\]\[30\]白克晚年在英國過退休生活，1913年11月29日，他於[伯克郡](../Page/伯克郡.md "wikilink")[沃特漢聖勞倫斯](https://zh.wikipedia.org/wiki/沃特漢聖勞倫斯 "wikilink")（Waltham St. Laurence）的寓所突然逝世，終年約74歲。\[31\]\[32\]
+祥茂洋行合夥人克勞姆於1896年逝世後，\[25\]白克的兩名兒子[A·W·白克](../Page/A·W·白克.md "wikilink")和[C·R·白克](../Page/C·R·白克.md "wikilink")加入成為新合夥人。\[26\]\[27\]祥茂洋行的英文名稱也相應改為「A. R. Burkill and Sons」，但中文名稱維持不變。\[28\]在華三十多年的白克在1898年退休返英，祥茂洋行的業務由兩名留在上海的兒子接手。\[29\]\[30\]白克晚年在英國過退休生活，1913年11月29日，他於[伯克郡](../Page/伯克郡.md "wikilink")[沃特漢聖勞倫斯](https://zh.wikipedia.org/wiki/沃特漢聖勞倫斯 "wikilink")（Waltham St. Laurence）的寓所突然逝世，終年約74歲。\[31\]\[32\]
 
 ## 個人生活
 
-[Burkill_Road,_Shanghai.jpg](https://zh.wikipedia.org/wiki/File:Burkill_Road,_Shanghai.jpg "fig:Burkill_Road,_Shanghai.jpg")上的一幢洋房（攝於20世紀初）\]\] 白克的妻子名叫克萊門蒂娜·卡羅琳·洛基特·杜（Clementina Caroline Lockett Dow；1852年－1932年），父親[詹姆士·杜](https://zh.wikipedia.org/wiki/詹姆士·杜 "wikilink")（James Dow；1827年－1875年）是[軋拉佛洋行的合夥人之一](https://zh.wikipedia.org/wiki/軋拉佛洋行 "wikilink")。\[33\]\[34\]\[35\]\[36\]白克夫婦育有兩名兒子，分別是[艾伯特·威廉·白克](https://zh.wikipedia.org/wiki/A·W·白克 "wikilink")（Albert William Burkill；1873年－1952年）和[查爾斯·雷金納德·白克](../Page/C·R·白克.md "wikilink")（Charles Reginald Burkill；1874年－1950年）。\[37\]\[38\]兩人後來從父親接過[祥茂洋行的業務](https://zh.wikipedia.org/wiki/祥茂洋行 "wikilink")，而且也相當活躍於上海租界的社交圈子。\[39\]
+[Burkill_Road,_Shanghai.jpg](https://zh.wikipedia.org/wiki/File:Burkill_Road,_Shanghai.jpg "fig:Burkill_Road,_Shanghai.jpg")上的一幢洋房（攝於20世紀初）\]\] 白克的妻子名叫克萊門蒂娜·卡羅琳·洛基特·杜（Clementina Caroline Lockett Dow；1852年－1932年），父親[詹姆士·杜](https://zh.wikipedia.org/wiki/詹姆士·杜 "wikilink")（James Dow；1827年－1875年）是[軋拉佛洋行的合夥人之一](https://zh.wikipedia.org/wiki/軋拉佛洋行 "wikilink")。\[33\]\[34\]\[35\]\[36\]白克夫婦育有兩名兒子，分別是[艾伯特·威廉·白克](../Page/A·W·白克.md "wikilink")（Albert William Burkill；1873年－1952年）和[查爾斯·雷金納德·白克](../Page/C·R·白克.md "wikilink")（Charles Reginald Burkill；1874年－1950年）。\[37\]\[38\]兩人後來從父親接過[祥茂洋行](../Page/祥茂洋行.md "wikilink")的業務，而且也相當活躍於上海租界的社交圈子。\[39\]
 
 白克居於上海的時候，十分熱心於[賽馬](../Page/賽馬.md "wikilink")活動，也是知名馬主。\[40\]他曾任[上海跑馬總會和上海](https://zh.wikipedia.org/wiki/上海跑馬總會 "wikilink")[上海紙拍總會](https://zh.wikipedia.org/wiki/上海紙拍總會 "wikilink")（Paper Hunt Club）會董，並曾任上海跑馬總會董事局主席。\[41\]他的兩名兒子也是上海有名的業餘[騎師](../Page/騎師.md "wikilink")。\[42\]\[43\]
 
 ## 相關條目
 
   - [絲綢](https://zh.wikipedia.org/wiki/絲綢 "wikilink")
-  - [A·W·白克](https://zh.wikipedia.org/wiki/A·W·白克 "wikilink")
+  - [A·W·白克](../Page/A·W·白克.md "wikilink")
   - [C·R·白克](../Page/C·R·白克.md "wikilink")
   - [上海英僑](https://zh.wikipedia.org/wiki/上海英僑 "wikilink")
-  - [祥茂洋行](https://zh.wikipedia.org/wiki/祥茂洋行 "wikilink")
+  - [祥茂洋行](../Page/祥茂洋行.md "wikilink")
   - [上海公共租界](../Page/上海公共租界.md "wikilink")
   - [上海公共租界工部局](../Page/上海公共租界工部局.md "wikilink")
 

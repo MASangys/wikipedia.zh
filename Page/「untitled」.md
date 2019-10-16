@@ -54,7 +54,7 @@
 15. **夜之影**（夜の影）
     （作詞：Funk Uchino／作曲：MLC、Soma Genda 編曲：Soma Genda・Captain B）
       -
-        [松本潤](https://zh.wikipedia.org/wiki/松本潤 "wikilink")、[二宮和也](../Page/二宮和也.md "wikilink")、[大野智](../Page/大野智.md "wikilink")的unit歌曲
+        [松本潤](../Page/松本潤.md "wikilink")、[二宮和也](../Page/二宮和也.md "wikilink")、[大野智](../Page/大野智.md "wikilink")的unit歌曲
 16. **UB**
     （作詞：ASIL／作曲：Samuel Waermö、Stefan Ekstedt、Didrik Thott／編曲：佐々木博史）
       -
@@ -62,7 +62,7 @@
 17. **Come Back**
     （作詞、作曲、編曲：田中直／Rap詞：櫻井翔）
       -
-        [松本潤](https://zh.wikipedia.org/wiki/松本潤 "wikilink")、[櫻井翔](../Page/櫻井翔.md "wikilink")的unit歌曲
+        [松本潤](../Page/松本潤.md "wikilink")、[櫻井翔](../Page/櫻井翔.md "wikilink")的unit歌曲
 18. **乾杯・曲**（カンパイ･ソング）<Bonus Track>
     （作詞：halmelnuts／作曲：Kehn Mind／編曲：河合英嗣）
 

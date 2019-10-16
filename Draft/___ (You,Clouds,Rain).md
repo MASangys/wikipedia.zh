@@ -1,0 +1,5 @@
+/// (너 먹구름 비) (You,Clouds,Rain) 正规專輯 Heize 數位音源封面 2017年6月26日 CD、Digital Download K-pop Stone娛樂（製作）,CJ E\&M音樂（發行） 韓語 Last album: And July（2016年） This album: **///**（2017年） Next album: Wind（2017年） EP
+
+《**///**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")[Heize於](https://zh.wikipedia.org/wiki/Heize "wikilink")2017年6月推出的迷你專輯。由[Stone娱乐制作](https://zh.wikipedia.org/wiki/Stone娱乐 "wikilink")，CJ E\&M音樂發行，於2017年6月26日推出。主打歌曲為〈I Don't Know You〉和〈You,Clouds,Rain〉。
+
+《**///**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")[Heize的迷你专辑](https://zh.wikipedia.org/wiki/Heize "wikilink")。由[Stone娛樂製作](https://zh.wikipedia.org/wiki/Stone娛樂 "wikilink")，[CJ E\&M音樂發行](https://zh.wikipedia.org/wiki/CJ_E&M音樂 "wikilink")，於2017年6月26日推出。主打歌曲為〈I Don't Know You〉和〈You,Clouds,Rain〉。

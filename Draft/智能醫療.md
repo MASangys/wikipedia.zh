@@ -1,0 +1,22 @@
+**智慧醫療**(英語：eHealth) 是將資訊化技術應用於整個醫療過程的一種新型的現代化醫療方式，不但能提高醫院及醫療人員的工作效率，減少工作中的差錯，還可以通過遠距醫療、會診等方式來解決醫療資源區域分配不均等問題。從而實現患者與醫務人員、醫療機構、醫療設備之間的互動，逐步達到醫療智慧化。[世界衛生組織](https://zh.wikipedia.org/wiki/世界衛生組織 "wikilink")（WHO）將其定義為[資訊及通訊科技](https://zh.wikipedia.org/wiki/資訊及通訊科技 "wikilink") (簡稱[ICT](https://zh.wikipedia.org/wiki/ICT "wikilink")）之相關產業，其在醫療及健康領域的應用，包括醫療照護、疾病管理、[公共衛生監測](https://zh.wikipedia.org/wiki/公共衛生 "wikilink")、教育 和研究 。
+
+**eHealth** (也可寫成e-health)，是一個相對現代的醫療照護實施計畫，倚靠現代電子設備將醫療過程資訊化，廣義來說它包含了所有諸如[電子健康紀錄](../Page/電子健康紀錄.md "wikilink")此類將醫療健康資訊電子化的過程；狹義來說，eHealth是一個透過[網路實現醫療照護之計畫](https://zh.wikipedia.org/wiki/網路 "wikilink")，透過行動裝置上的健康應用軟體實踐之計畫也包含在其中，因此也稱之為mHealth 或是 m-Health。
+
+## 應用範圍
+
+eHealth涵蓋所有醫學與資訊科技結合之應用，包含：
+
+  - [電子健康紀錄](../Page/電子健康紀錄.md "wikilink")(EHR)
+  - [醫囑資訊系統](https://en.wikipedia.org/wiki/Computerized_physician_order_entry)(CPOE)
+  - [電子處方](https://zh.wikipedia.org/wiki/:电子处方 "wikilink")(electronic prescribing)
+  - [臨床決策支持系統](https://zh.wikipedia.org/wiki/:临床决策支持系统 "wikilink")(CDSS)
+  - [遠距醫療](../Page/遠距醫療.md "wikilink")(Telemedicine)
+  - [消費者健康資訊學](https://en.wikipedia.org/wiki/Consumer_health_informatics)
+  - 健康[知識管理](https://zh.wikipedia.org/wiki/知識管理 "wikilink")
+  - [移動醫療](https://wiki.mbalib.com/zh-tw/%E7%A7%BB%E5%8A%A8%E5%8C%BB%E7%96%97) (m-Health 或 mHealth)
+  - [醫學信息學](https://zh.wikipedia.org/wiki/:医学信息学 "wikilink") (Health informatics)
+
+## 外部連結
+
+  - [WHO](https://www.who.int/ehealth/en/)
+  - [eHealth](https://en.wikipedia.org/wiki/EHealth)

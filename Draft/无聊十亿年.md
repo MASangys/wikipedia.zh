@@ -1,0 +1,263 @@
+## Climatic stability
+
+Recent scientific studies on the Boring Billion have found little [evidence](https://zh.wikipedia.org/wiki/evidence "wikilink") of significant climatic variability during this time period.\[1\]\[2\] Different [theories](https://zh.wikipedia.org/wiki/Theory "wikilink") have been developed by individual scientists to explain the inferred climatic stability, while others\[3\] attribute the lack of evidence to an absence of suitable records. There is currently no generally accepted theory in the scientific community on the cause(s) of the climatic stability during the Boring Billion.
+
+### Tectonic constraints
+
+The evolution of Earth's [biosphere](https://zh.wikipedia.org/wiki/biosphere "wikilink"), atmosphere and [hydrosphere](https://zh.wikipedia.org/wiki/hydrosphere "wikilink") has long been linked to the [supercontinent cycle](https://zh.wikipedia.org/wiki/supercontinent_cycle "wikilink"), through which the Earth's [continental crust](https://zh.wikipedia.org/wiki/continental_crust "wikilink") undergoes a periodic cycle of aggregation and dispersal. The period of the Boring Billion is characterized by the evolution of two different supercontinents: [Columbia](https://zh.wikipedia.org/wiki/Columbia_\(supercontinent\) "wikilink") (or Nuna) and [Rodinia](https://zh.wikipedia.org/wiki/Rodinia "wikilink"). The supercontinent Columbia [amalgamated](https://zh.wikipedia.org/wiki/amalgamation_\(geology\) "wikilink") between 2.0 and 1.7 Ga and remained as a quasi-integral continental lid until at least 1.3 Ga. Several breakup attempts were unsuccessful. [Geological](https://zh.wikipedia.org/wiki/Geology "wikilink") and [paleomagnetic](https://zh.wikipedia.org/wiki/Paleomagnetism "wikilink") evidence suggest that Columbia underwent only minor changes to form the supercontinent Rodinia during the period from 1.1 to 0.9 Ga. [Paleogeographic](https://zh.wikipedia.org/wiki/Palaeogeography "wikilink") reconstructions suggest that the supercontinent assemblage was located in [equatorial](https://zh.wikipedia.org/wiki/equator "wikilink") and [temperate](https://zh.wikipedia.org/wiki/Temperate_climate "wikilink") climate zones throughout the intervening time frame; there is little or no evidence for continental fragments in [polar](https://zh.wikipedia.org/wiki/Polar_region "wikilink") latitudes.\[4\] A consequence of the limited breakup history is the lack of [passive margins](https://zh.wikipedia.org/wiki/passive_margin "wikilink") during the time period from 1.8 to 0.8 Ga.\[5\] This stable configuration provides the primary constraint on the environmental stasis that characterizes the oceans, atmosphere, and biosphere. The breakup of Rodinia at approximately 0.75 Ga is considered the end of Earth's Boring Billion.\[6\] It should be noted that numerous reconstructions of Columbia's paleogeography exist and consensus has yet to be reached. Evaluating the evidence of paleo poles and continent location becomes increasingly more difficult as deposits get older and relevant rock units show increasing levels of deformation and fragmentation.\[7\]
+
+The relative scarcity of passive margins during the Boring Billion, which are created during times of continental breakup, is proposed to support the presence of a stable continental configuration enabling environmental and climate stability during this time period.\[8\]\[9\] However, it is also stated in the literature that in spite of the amalgamation of the supercontinents Columbia and Rodinia, relatively stable climatological conditions during the Boring Billion are consistent with a balance between [weathering](https://zh.wikipedia.org/wiki/weathering "wikilink") intensity, [mantle](https://zh.wikipedia.org/wiki/Mantle_\(geology\) "wikilink") [temperatures](https://zh.wikipedia.org/wiki/temperature "wikilink") and [solar insolation](https://zh.wikipedia.org/wiki/Solar_luminosity "wikilink") throughout much of this time period.\[10\]
+
+A mechanism put forward to explain low tectonic variability is related to the temperature of the [asthenosphere](https://zh.wikipedia.org/wiki/asthenosphere "wikilink"), which may have been too hot to sustain modern plate tectonics in the early stages of the Earth's evolution. Instead of vigorous plate recycling at [subduction zones](https://zh.wikipedia.org/wiki/Subduction "wikilink"), plates were linked together for billions of years until the mantle cooled off enough to further sustain plate motions and the subsequent formation of subduction zones.\[11\] The onset of this component of plate tectonics may have been aided by the thickening of the [crust](https://zh.wikipedia.org/wiki/Crust_\(geology\) "wikilink") that, once initiated, caused plate subduction to be anomalously strong.\[12\] This process occurred around 750 Ma ago, when the crust reached a temperature low enough to initiate and sustain plate tectonics in general and subduction processes in particular.\[13\]
+
+### Cosmic activity
+
+The absence of glaciation could be linked to the intensity of [cosmic ray](https://zh.wikipedia.org/wiki/cosmic_ray "wikilink") flux, and it is believed that periods of glaciation may be linked to periods with low cosmic ray flux due fluctuations in [solar wind](https://zh.wikipedia.org/wiki/solar_wind "wikilink") variations.\[14\] Another possible cause is the rate of [star formation](https://zh.wikipedia.org/wiki/star_formation "wikilink") in the [Milky Way](https://zh.wikipedia.org/wiki/Milky_Way "wikilink"). The reduced rate in star formation may be linked to diminished glaciations from 1 to 2 Ga.\[15\]
+
+### Absence of prolonged glaciations
+
+The Boring Billion as a time period is unique in a sense that it seems to lack any significant periods of prolonged glaciations that can be observed in regular periodicity in other parts of Earth's geologic history.
+
+Some researchers\[16\]\[17\] believe, however, that the proposed lack of an [ozone layer](https://zh.wikipedia.org/wiki/ozone_layer "wikilink"), as expected during periods of low concentrations of atmospheric oxygen, in combination with lower solar intensity\[18\] during that time period should have precluded the absence of glaciation without an intense [greenhouse effect](https://zh.wikipedia.org/wiki/greenhouse_effect "wikilink").
+
+Instead, the absence of a glacial record may be a function of data infidelity rather than a real feature of geologic time. Evidence for this are old glacially cut channels, which were found in the Kimberley district of [Western Australia](https://zh.wikipedia.org/wiki/Western_Australia "wikilink") that have been dated to 1.8 Ga.\[19\]
+
+## Low oxygen levels
+
+Earth's geologic record indicates two events associated with significant increases in oxygen levels on Earth, with one occurring between 2.4 and 2.1 Ga, known as the [Great Oxygenation Event](https://zh.wikipedia.org/wiki/Great_Oxygenation_Event "wikilink") (GOE), and the second occurring an approximate 0.8 Ga.\[20\]
+
+The period of time between these two oxygenations is thought to have been characterized by low levels of atmospheric oxygen (O<sub>2</sub>). Researchers postulate this widespread [anoxia](https://zh.wikipedia.org/wiki/Dead_zone_\(ecology\) "wikilink") was far greater than the anoxic [deep oceans](https://zh.wikipedia.org/wiki/Deep_sea "wikilink") seen today (less than 1% of deep ocean). The cause and extent of the oxidation events and the subsequent billion years in between are subject to active debate. Although it was previously believed that atmospheric oxygen levels increased gradually through this period, new research has suggested that after the GOE – in which O<sub>2</sub> levels spiked over 1,000 fold – oxygen levels dropped significantly and remained low (with minor fluctuations) until the second oxygenation event around 0.8 Ga.\[21\] [Biogeochemical_processes_in_the_Boring_Billion.png](https://zh.wikipedia.org/wiki/File:Biogeochemical_processes_in_the_Boring_Billion.png "fig:Biogeochemical_processes_in_the_Boring_Billion.png")
+
+The [Lomagundi Excursion Event](https://zh.wikipedia.org/wiki/Lomagundi_Excursion_Event "wikilink") is considered to be the most prominent [carbon isotope](https://zh.wikipedia.org/wiki/Isotopes_of_carbon "wikilink") event in Earth's history and can provide evidence for this large increase and subsequent decline in O<sub>2</sub>. For this event, a release of 10 to 20 times the current atmospheric oxygen is predicted based on levels found in the carbonate [δ13C](https://zh.wikipedia.org/wiki/δ13C "wikilink") record around the time of the GOE. Suggestions in the literature point to a ‘precipitous’ drop after the Lomagundi Excursion.\[22\]\[23\]\[24\] The extent to which the GOE served as a ‘Great’ oxygenation event, particularly in regards to marine environments, became a topic of discussion in the scientific community, leading [Donald Canfield](https://zh.wikipedia.org/wiki/Donald_Canfield "wikilink") to develop the idea of a two billion year lag in oxygenation of the oceans. He also proposed that the ocean was characterized high levels of [hydrogen sulfide](https://zh.wikipedia.org/wiki/hydrogen_sulfide "wikilink") during this time, creating a [euxinic](https://zh.wikipedia.org/wiki/euxinic "wikilink") environment. His explanation has become known as the [Canfield Ocean](https://zh.wikipedia.org/wiki/Canfield_ocean "wikilink") hypothesis. It is believed that the low and fluctuating oxygen levels that characterized the Boring Billion effectively stalled evolution of complex life for the extent of the Boring Billion. The hypothesis of a predominantly globally euxinic ocean, with low to no oxygen, supports the theory of stalled evolution of complex animals throughout the Boring Billion. Complexity is believed to have evolved at the onset of a second oxygenation event and subsequent oxygenation of the ocean between 600-800 Ba.\[25\]\[26\]
+
+### Canfield ocean hypothesis
+
+Donald Canfield proposed a hypothesis to explain how life persisted in the ocean despite low levels of oxygen.\[27\] It is believed that during the Boring Billion, the ocean's surface contained low levels of oxygen as a byproduct of oxygenic photosynthesis from cyanobacteria. Due to increased oxygen levels in the atmosphere, chemical weathering of the continents oxidized the mineral [pyrite](https://zh.wikipedia.org/wiki/pyrite "wikilink") and transported [sulfate](https://zh.wikipedia.org/wiki/sulfate "wikilink") (SO<sub>4</sub><sup>2−</sup>) to the oceans.\[28\] Through this process, the ocean became rich in [sulfur](https://zh.wikipedia.org/wiki/sulfur "wikilink"), and the ocean became a two layer system, consisting of a surface layer, high in oxygen, and a bottom layer, high in sulfur and low in oxygen. Canfield proposed that at the boundary between the two layers, green sulfur bacteria and purple bacteria served to convert the sulfur to [hydrogen sulfide](https://zh.wikipedia.org/wiki/hydrogen_sulfide "wikilink") (H<sub>2</sub>S). This process of deep sea sulfide creation led to high amounts of pyrite formation during the Boring Billion, and allowed for the chemical events that enabled the evolution of animals.\[29\]\[30\]
+
+### Johnston ocean hypothesis
+
+Like the Canfield Ocean model, the Johnston hypothesis serves as a potential explanation of causal factors for tempered oxygenic production. The model ultimately claims that [sulfide](https://zh.wikipedia.org/wiki/sulfide "wikilink") driven anoxic photosynthesis via sulfidic prokaryotes helped sustain a long period of deep ocean anoxia, and more specifically, euxinia. This period ended with the exhaustion of sulfide resources, leading to the coupling of oxygenic production and [carbon burial](https://zh.wikipedia.org/wiki/carbon_burial "wikilink") that is characteristic of today's oceans.\[31\]
+
+At the first order, Johnson's take on the Canfield model is to recognize that maintaining the anoxygenic conditions requisite for a billion years would be difficult: as [organic matter](https://zh.wikipedia.org/wiki/organic_matter "wikilink") sinks, it [decays](https://zh.wikipedia.org/wiki/Decomposition "wikilink") and consumes oxygen, a process which is exacerbated by anoxygenic photosynthesis. It has been hypothesized that an explanation for this discrepancy could be anoxygenic photosynthesis, a primary production pathway that does not involve oxygen production as a byproduct. In this case, the consumption of oxygen by [respiration](https://zh.wikipedia.org/wiki/Respiration_\(physiology\) "wikilink") is not balanced by oxygen generation through primary production. A modern example of such a system is best exemplified in parts of the [Black Sea](https://zh.wikipedia.org/wiki/Black_Sea "wikilink").\[32\] [Oxygen_During_the_Boring_Billion.png](https://zh.wikipedia.org/wiki/File:Oxygen_During_the_Boring_Billion.png "fig:Oxygen_During_the_Boring_Billion.png")
+
+### Further evidence
+
+Gaps in the evidence from ancient rocks have failed to explain the discrepancy between Earth's atmospheric and oceanic oxygen levels. By tracing the movement of [chromium isotopes](https://zh.wikipedia.org/wiki/Isotopes_of_chromium "wikilink") from land to ocean, a process that is sensitive to atmospheric oxygen levels, the earliest signs of significant chromium oxidation have been found. This suggests levels of atmospheric oxygen to have significantly increased around 800 million years ago. Small amounts of oxygen can convert insoluble chromium, a constituent of the continental crust to a soluble form which is then transported to the ocean and deposited in [ironstone](https://zh.wikipedia.org/wiki/ironstone "wikilink"). By studying the chromium isotope composition in ancient ironstones, measuring the ratio of heavier <sup>53</sup>Cr (which is more sensitive to oxidation) to the lighter <sup>52</sup>Cr, researchers can determine ancient oxygen levels. This research revealed very low oxygen levels during the Boring Billion, which are below 0.1% of present atmospheric levels.\[33\]
+
+Rather than iron oxidation involving [iron (III)](https://zh.wikipedia.org/wiki/Iron\(III\)_oxide "wikilink"), pyrite formation (FeS<sub>2</sub>) involves the uptake of iron (II) during euxinic conditions. A research team from the University of Tasmania, under the geologist Ross Large, measured levels of pyrite in ancient [seafloor](https://zh.wikipedia.org/wiki/seafloor "wikilink") rocks to show that after the initial burst of oxygen 2.4–2.1 Ga there was a decline in oxygen levels until the second oxidation event around 800–600 Ma.\[34\]
+
+## Earth's first eukaryotes
+
+In comparison to the great increase in diversity during the [Cambrian explosion](https://zh.wikipedia.org/wiki/Cambrian_explosion "wikilink"), the evolution of life during the Boring Billion was relatively slow.\[35\] However, this period did see the occurrence of several major events in the history of evolution, specifically the development of [eukaryotic](https://zh.wikipedia.org/wiki/Eukaryote "wikilink") cells, the evolution of [multicellularity](https://zh.wikipedia.org/wiki/multicellularity "wikilink") and the [evolution of sexual reproduction](https://zh.wikipedia.org/wiki/evolution_of_sexual_reproduction "wikilink").\[36\] Several steps were required in the evolution of eukaryotes from a prokaryotic ancestor including a reorganization of DNA within cells and the acquisition of organelles.\[37\]
+
+The first eukaryotes originated sometime between 2.3 and 1.1 billion years ago, around the beginning of the Boring Billion.\[38\] The precise onset of eukaryotic evolution is hard to determine, but evidence for the presence of eukaryotic cells during this period can be found in the [fossil](https://zh.wikipedia.org/wiki/fossil "wikilink") record and molecular fossils.\[39\] After eukaryotic cells evolved, multicellularity appeared.\[40\] By 1.8 Ga the first living things on planet Earth that were big enough to see with the naked eye had appeared.\[41\] By the end of the Boring Billion, multicellular algae, fungi, and animals inhabited Earth.\[42\] Almost all of this life was restricted to Earth's oceans, but near the end of the Boring Billion the first terrestrial life, a proto-lichen, colonized land.\[43\]
+
+### Steps required for eukaryotic evolution
+
+There is no agreed upon theory for the evolutionary steps that led to the appearance of the first eukaryotes, including the origin of the nucleus, cytoskeleton, and organelles that distinguish eukaryotes from prokaryotes (See "Hypotheses for the origin of eukaryotes" within the [Eukaryote](https://zh.wikipedia.org/wiki/Eukaryote "wikilink") page). There are several changes that must have occurred as eukaryotic life evolved: an increase in genetic complexity, the development of an advanced [cytoskeleton](https://zh.wikipedia.org/wiki/cytoskeleton "wikilink"), a loss of the rigid [bacterial outer wall](https://zh.wikipedia.org/wiki/Cell_wall "wikilink"), and the acquisition of membrane-bound [organelles](https://zh.wikipedia.org/wiki/organelle "wikilink") within [cells](https://zh.wikipedia.org/wiki/Cell_\(biology\) "wikilink").\[44\]
+
+#### DNA reorganization
+
+Eukaryotic cells are generally much more complex than prokaryotic cells. When eukaryotic life evolved, an increase in genetic material was necessary to enable this complexity. With an increase in the amount of genetic material inside cells as eukaryotes were evolving, the evolution of entirely new structures and mechanisms of gene copying was required, leading to the development of the eukaryotic [cell cycle](https://zh.wikipedia.org/wiki/cell_cycle "wikilink").\[45\]
+
+[Histones](https://zh.wikipedia.org/wiki/Histone "wikilink") likely appeared during the Boring Billion to help organize the increasing amount of [DNA](https://zh.wikipedia.org/wiki/DNA "wikilink") in ancestral eukaryotic cells.\[46\] DNA was packed by histones into the first [chromosomes](https://zh.wikipedia.org/wiki/chromosome "wikilink"). A system of more rapid eukaryotic [DNA replication](https://zh.wikipedia.org/wiki/DNA_replication "wikilink") in which DNA was replicated from multiple replication origins was developed so that cells containing much more genetic material would still be able to reproduce quickly.\[47\]
+
+#### Advanced cytoskeleton
+
+The development of an advanced [cytoskeleton](https://zh.wikipedia.org/wiki/cytoskeleton "wikilink") was necessary to organize the chromosomes during asexual cell [replication](https://zh.wikipedia.org/wiki/Mitosis "wikilink").\[48\] After the loss of the rigid bacterial outer wall, the advanced cytoskeleton allowed the cells to flow and move.\[49\] The loss of the rigid bacterial cell wall, which helped prevent water from entering the cell and diluting the cytoplasm, required ancestral eukaryotes to develop pumping mechanisms to counteract osmosis.\[50\] Once the advanced cytoskeleton was in place and cell wall removed, ancestral eukaryotic cells had the ability to flow around and engulf other cells using the process of [phagocytosis](https://zh.wikipedia.org/wiki/phagocytosis "wikilink"), which is a more efficient way of obtaining nutrients than the system of external absorption used by prokaryotes.\[51\]
+
+#### Acquisition of organelles (first endosymbiosis)
+
+The ability to ingest other cells enabled ancestral eukaryotes to build a much more complex cell.\[52\] Once the capacity for consuming other cells was in place, early eukaryotes began to acquire internal membrane-bound organelles that included organelles that were once free-living prokaryotes.\[53\] Based on [phylogenetic](https://zh.wikipedia.org/wiki/Phylogenetics "wikilink") and structural evidence, it is generally accepted that [mitochondria](https://zh.wikipedia.org/wiki/Mitochondrion "wikilink") were originally derived from a free-living [a-proteobacterium](https://zh.wikipedia.org/wiki/Proteobacteria "wikilink").\[54\] The bacterium was engulfed by an ancient cell, likely an [Archaea](https://zh.wikipedia.org/wiki/Archaea "wikilink"), and entered into the first [endosymbiotic relationship](https://zh.wikipedia.org/wiki/Endosymbiosis "wikilink") with its new [host](https://zh.wikipedia.org/wiki/Host_\(biology\) "wikilink").\[55\]
+
+Most models have explained the origin of the [endosymbiosis](https://zh.wikipedia.org/wiki/endosymbiosis "wikilink") in terms of the advantage gained by the host cell due to the greater energy production available through aerobic [respiration](https://zh.wikipedia.org/wiki/Cellular_respiration "wikilink") (32 net [ATP](https://zh.wikipedia.org/wiki/Adenosine_triphosphate "wikilink") vs. 2 net for [glycolysis](https://zh.wikipedia.org/wiki/Glycolysis_cycle "wikilink")). However, this hypothesis has several limitations. No known organism exports ATP to its environment, making it unlikely that a bacterium would begin doing so to its host.\[56\] In addition, some eukaryotes possess mitochondria-derived [organelles](https://zh.wikipedia.org/wiki/organelle "wikilink") called [hydrogenosomes](https://zh.wikipedia.org/wiki/hydrogenosome "wikilink") which perform a type of anaerobic respiration, suggesting an adaptation to an anoxic environment.\[57\] An alternative explanation known as the Hydrogen Hypothesis suggests that the unique conditions of the Canfield Ocean may have exerted a positive selective pressure on mitochondria for reasons unrelated to aerobic respiration. According to the Hydrogen Hypothesis, the original endosymbiotic event was between a hydrogen-producing bacterium and a hydrogen-consuming [archaeon](https://zh.wikipedia.org/wiki/Archaea "wikilink").\[58\] This symbiosis would have been advantageous in the anoxic conditions in the deeper reaches of the oceans at that time and would explain the widespread phylogenetic distribution of anaerobic respiration genes among eukaryotes.\[59\] One other hypothesis is that a sulfur-metabolizing archaea and the ancestor of mitochondria lived in proximity, each feeding on the other's waste products and deriving energy through the recycling of [sulfur](https://zh.wikipedia.org/wiki/sulfur "wikilink").\[60\] When environmental conditions became harsh for one partner, the energy generation and recycling system became internalized and the archaeon and ancestral mitochondria fused to form one organism.\[61\]
+
+[Chloroplasts](https://zh.wikipedia.org/wiki/Chloroplast "wikilink") are also considered endosymbionts and were likely acquired during the Boring Billion in the same manner as mitochondria.\[62\] It is generally accepted that chloroplasts are descendants of a free-living oxygen-producing [cyanobacteria](https://zh.wikipedia.org/wiki/cyanobacteria "wikilink").\[63\]
+
+### Fossil evidence for eukaryotic evolution
+
+While it is unknown how the first eukaryotes evolved, they first appear in the fossil record by 1.85 Ga.\[64\]
+
+[Acritarchs](https://zh.wikipedia.org/wiki/Acritarch "wikilink"), whose name means ‘uncertain origin’, are tiny, roughly spherical fossils present from before 2 billion years ago and throughout the Boring Billion that cannot be convincingly assigned to any particular part of the tree of life.\[65\] One interpretation of acritarchs is that they represent the resting stage, or [cysts](https://zh.wikipedia.org/wiki/cyst "wikilink"), of eukaryotic [algae](https://zh.wikipedia.org/wiki/algae "wikilink").\[66\] However, since [bacteria](https://zh.wikipedia.org/wiki/bacteria "wikilink") are also known to have cysts and spores, a [prokaryote](https://zh.wikipedia.org/wiki/prokaryote "wikilink") origin cannot be ruled out. It is generally agreed by experts on fossil life that acritarchs from about 1.85 Ga and later represent eukaryotes.\[67\]
+
+Larger two centimeter, 2.1 billion year old spiral fossils found in a mine in Michigan are grouped into the [Grypania](https://zh.wikipedia.org/wiki/Grypania "wikilink"), a grouping of spiral fossils previously thought to have arisen 1.4–1.6 billion years ago.\[68\] Traces of internal detail confirm that the younger Grypania fossils are eukaryotes, but the older spirals lack fine detail and may have been made by filaments of prokaryote cells.\[69\] The older fossils were possibly also incorrectly dated and have a more accurate age of 1.8–1.9 billion years.\[70\]
+
+### Molecular fossil evidence for eukaryotic evolution
+
+Steranes, the traces of [sterols](https://zh.wikipedia.org/wiki/sterols "wikilink") used in construction of the [membranes](https://zh.wikipedia.org/wiki/membrane "wikilink") of eukaryotes, have been found in 2.7 billion year old [shales](https://zh.wikipedia.org/wiki/shale "wikilink"), and are evidence that eukaryotes, or at least their metabolic ancestors, were present at that time.\[71\] While the sterols found in these shales are not made by any known modern bacteria, some bacteria are capable of producing sterols. Therefore, sterane presence is not definite evidence of eukaryotic cells.\[72\]
+
+## Eukaryotic diversification
+
+After the first eukaryotes appeared, the diversification and evolution of eukaryotes proceeded slowly.\[73\] Environmental conditions, especially the presence of toxic sulfide, lack of oxygen in ocean water, lack of key nutrients and [trace metals](https://zh.wikipedia.org/wiki/trace_metal "wikilink") in ocean water, and/or little tectonic activity, contributed to slow eukaryotic evolution.\[74\] Low oxygen levels in ocean water during the Boring Billion may have kept eukaryotes in low numbers and prevented the evolution of large energy hungry, fast moving animals that evolved at the end of the Boring Billion,\[75\] though it has been argued that even with very little oxygen, animals could have emerged and persevered.\[76\] It is also known that diversification of eukaryotes began well before the onset of global [oxygenation](https://zh.wikipedia.org/wiki/Oxygenation_\(environmental\) "wikilink") of the oceans, leading to the conclusion that [anoxic](https://zh.wikipedia.org/wiki/Anoxic_waters "wikilink") conditions could not be the only cause of slow eukaryotic evolution.\[77\]
+
+The anoxic and euxinic conditions of the period would also have affected the abundance of certain nutrients and trace metals in the environment. Both anoxic and sulfidic conditions lead to decreased [solubility](https://zh.wikipedia.org/wiki/solubility "wikilink") of iron,\[78\] while sulfidic conditions lead to increased precipitation of the trace metal [molybdenum](https://zh.wikipedia.org/wiki/molybdenum "wikilink").\[79\] Both of these metals are essential for the utilization of nitrogen, as they are necessary for the [enzymes](https://zh.wikipedia.org/wiki/enzyme "wikilink") nitrate reductase, which reduced nitrate and nitrite to ammonia, and nitrogenase, which reduces atmospheric nitrogen to nitrate.\[80\] As such, life in the Proterozoic would have suffered from a lack of nitrogen, a situation which would have competitively favored prokaryotes over eukaryotes and likely negatively affected eukaryotic evolution.\[81\]
+
+Despite these environmental constraints, eukaryotes developed multicellularity during the Boring Billion and a major diversification of eukaryotes occurred at the supergroup level between 1.9 and 0.75 Ga.\[82\] Key biological innovations such as cell differentiation, [sexual reproduction](https://zh.wikipedia.org/wiki/Evolution_of_sexual_reproduction "wikilink"), and eukaryotic [photosynthesis](https://zh.wikipedia.org/wiki/photosynthesis "wikilink") separated eukaryotes into [animals](https://zh.wikipedia.org/wiki/animal "wikilink"), [algae](https://zh.wikipedia.org/wiki/algae "wikilink"), and [fungi](https://zh.wikipedia.org/wiki/Fungus "wikilink").\[83\]
+
+### Multicellularity
+
+The evolution of cell [polarity](https://zh.wikipedia.org/wiki/Chemical_polarity "wikilink"), which allows cells to send a molecular message to one side of the cell but not the other and to interact with nearby cells, allowed the development of organized multicellularity during the Boring Billion.\[84\] Qingshania, a small spiral coil that appears in the fossil record 1.7 Ga, is the oldest known fossil multicellular eukaryote.\[85\]
+
+### Cellular differentiation and sexual reproduction
+
+The much larger eukaryotic genome with its rapid copying gave eukaryotes the capacity to create many different types of cells and assemble them together into large, complex, multicellular life.\[86\] By 1.2 Ga, [meiosis](https://zh.wikipedia.org/wiki/meiosis "wikilink") and sexual reproduction are present in single-celled eukaryotes.\[87\] [Bangiomorpha pubescens](https://zh.wikipedia.org/wiki/Bangiomorpha "wikilink"), a fossil multicellular red algae from the 1.2 Ga Hunting Formation, is the first known sexually reproducing organism. Fossils show differential spore/gamete formation, which is also evidence of [cellular differentiation](https://zh.wikipedia.org/wiki/cellular_differentiation "wikilink").\[88\]
+
+### First algae
+
+The first algae split from ancestral eukaryotes about 1.4 Ga.\[89\] Molecular clock evidence suggests that red and green algae had separated by 1.2–0.9 Ga.\[90\]
+
+### First fungi
+
+From molecular clock dating of [DNA](https://zh.wikipedia.org/wiki/DNA "wikilink") and fossil evidence, the divergence of animals and fungi occurred between 1.2 and 1.9 billion years ago.\[91\] 1.43 Ga fossils named [Tappania](https://zh.wikipedia.org/wiki/Tappania "wikilink") may represent the first [fungi](https://zh.wikipedia.org/wiki/Fungus "wikilink").\[92\] These 0.1 mm fossils of branching irregular cells have an obvious [cytoskeleton](https://zh.wikipedia.org/wiki/cytoskeleton "wikilink") and bulbous [protrusions](https://zh.wikipedia.org/wiki/protrusion "wikilink") that suggest vegetative reproduction by [budding](https://zh.wikipedia.org/wiki/budding "wikilink").\[93\] *Tappania* fossils dated near the end of the Boring Billion 0.9-0.8 billion years ago show definite multi-cellularity and differentiation.\[94\] Some branches that extend from cells appear to re-fuse together, forming net-like patterns.\[95\] This is a characteristic of fungi, whose hair-like [hyphae](https://zh.wikipedia.org/wiki/hypha "wikilink") extending from their cells sometimes fuse in this manner.\[96\]
+
+## First life on land
+
+Plants do not appear on land until 0.47 Ga, but around the end of the Boring Billion (0.7–0.9 Ga) land was beginning to be colonized by cyanobacteria and proto-lichens.\[97\]
+
+Proto-lichens were [symbionts](https://zh.wikipedia.org/wiki/Symbiosis "wikilink") between fungi and algae and left evidence of biological weathering of continental rock in the [Doushantuo](https://zh.wikipedia.org/wiki/Doushantuo_Formation "wikilink") [phosphorite](https://zh.wikipedia.org/wiki/phosphorite "wikilink") formation (0.6 Ga)\[98\] and in [laterites](https://zh.wikipedia.org/wiki/laterite "wikilink"), Earth's first soils.\[99\] Additional evidence for life on land is the characteristic carbon isotope signature of photosynthesis that is recorded in rock crusts and ancient soils from the end of the Boring Billion.\[100\]\[101\] Terrestrial microfossils and [microbial mats](https://zh.wikipedia.org/wiki/microbial_mat "wikilink") of cyanobacteria have also been preserved.\[102\] Some microbial communities lived under rock surfaces, others bound sand together, and some sat atop soils.\[103\]
+
+1.
+2.
+
+3.
+4.
+
+5.
+
+6.
+7.
+8.
+9.
+10.
+11.
+
+12.
+13.
+14.
+
+15.
+
+16.
+17.
+
+18.
+
+19.
+
+20.
+
+21.
+22.
+
+23.
+
+24.
+
+25.
+26.
+27.
+28.
+
+29.
+
+30.
+
+31.
+
+32.
+33.
+34.
+
+35.
+
+36.
+37.
+38.
+39.
+40.
+41.
+42.
+43.
+44.
+45.
+46.
+47.
+48.
+49.
+50.
+51.
+52.
+53.
+54.
+55.
+56.
+
+57.
+58.
+
+59.
+60.
+
+61.
+62.
+63.
+64.
+65.
+
+66.
+67.
+68.
+
+69.
+
+70.
+
+71.
+
+72.
+
+73.
+74.
+75.
+
+76.
+
+77.
+78.
+
+79.
+
+80.
+
+81.
+82.
+83.
+84.
+85.
+
+86.
+87.
+
+88.
+
+89.
+90.
+91.
+
+92.
+93.
+94.
+95.
+96.
+97.
+98.
+
+99.
+
+100.
+
+101.
+
+102.
+
+103.

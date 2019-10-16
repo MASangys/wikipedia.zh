@@ -1,0 +1,1099 @@
+**王嘉爾**\[1\]（，，），藝名：**Jackson**（），出生于[英屬香港](../Page/英屬香港.md "wikilink")，前[香港](../Page/香港.md "wikilink")男子劍擊（佩劍）代表隊隊員，現為[中國](../Page/中國.md "wikilink")及[韩国男歌手](https://zh.wikipedia.org/wiki/韩国 "wikilink")、主持人。曾於青年劍擊亞洲中排名第1位及於青少年世界中排名11位。\[2\]2011年通過[JYP選拔](https://zh.wikipedia.org/wiki/JYP "wikilink")，前往韓國成為練習生，並經歷了長達兩年半的練習生生涯，為了音樂夢想，他不僅放棄了參加2012年[倫敦奧運](https://zh.wikipedia.org/wiki/倫敦奧運 "wikilink")，而且還放棄了已經取得的[香港大學](../Page/香港大學.md "wikilink")和美國[史丹福大學的錄取通知](https://zh.wikipedia.org/wiki/史丹福大學 "wikilink")。2014年1月，以韓國男子組合[GOT7](../Page/GOT7.md "wikilink")成員出道，在隊內擔當饒舌及martial arts tricking；次年起以組合中國籍成員身份，開始在兩國同時展開活動。2017年6月，宣布於中國成立個人工作室，專門負責中國活動。
+
+## 個人經歷
+
+### 劍擊運動員
+
+5-10歲練習體操，10歲時因小學興趣班而初接觸劍擊後，愛上劍擊。由於父親為[香港](../Page/香港.md "wikilink")劍擊隊總教練 ，所以受到不少影響並跟父親一樣選擇佩劍為專項。12歲參加[全運會獲得人生第一枚劍擊金牌](https://zh.wikipedia.org/wiki/全運會 "wikilink")。\[3\]2010年，參加[青年奧運世界排名](https://zh.wikipedia.org/wiki/青年奧運 "wikilink")11位。2011年，參加亞洲青少年劍擊錦標賽，亞洲排名第一位。\[4\]
+
+### 藝人
+
+2008年，曾被三大公司之一星探朋友發掘，据Jackson说该公司正准备推出全新亚洲男团，但因父母反对而放弃。
+
+2010年，通过[JYP公司在香港的选拔](https://zh.wikipedia.org/wiki/JYP "wikilink")，在2000人中脱颖而出，成为冠军。\[5\]
+
+2011年7月3日，因为在个人和团体佩剑获得金牌，父母才同意他赴韩开始练习生生涯，这段生涯持续了两年半的时间。因朴軫永影響成為有机用品主义者。\[6\]
+
+2013年9月，在电视节目《WIN》中与YG公司的练习生进行对决。12月，JYP宣布即将推出全新男团，也就是之后GOT7组合。
+
+2014年1月1日，JYP公司宣布7人男子组合[GOT7](../Page/GOT7.md "wikilink")出道的消息。1月5日，JYP官网公开了王嘉尔的个人预告照以及资料。1月16日，正式在韓國以GOT7成員出道。在組合內主要担任饶舌演唱、Martial Arts Tricking（极限武术特技）表演。年底在日本出道。\[7\]同年7月，首個個人綜藝《Hit Maker》開播，与陆星材、N、hyuk组成限定团体大瓶（Bigbottle），发行首支单曲《Stress Come On》，以其自然坦率的性格引起關注，節目在年底開啟第二季並受邀在 MBC歌謠大祭典上作開場表演；9月加入三大台周日晚綜藝《roommate》第二季，在韓國知名度急速上升，開始在各個節目中廣泛活動；12月30日，獲得SBS演藝大賞新人獎，由國民MC劉在錫頒發。
+
+2015年，5月開始擔任SBS《人氣歌謠》固定主持，乃該節目首位外國籍主持。12月與何炅共同主持《拜託了冰箱 (中國版)》，十集總點撃率達4億，其後在中國人氣快速上升。
+
+2016年，4月，在中國第一衛視《湖南衛視》與何炅二度搭档主持節目《透鮮滴星期天》。
+
+## 家庭
+
+外公周永昌中國[超聲波](../Page/超聲波.md "wikilink")學奠基人（1922年11月—2017年10月）\[8\]
+
+父親[王銳基曾是中國](https://zh.wikipedia.org/wiki/王銳基 "wikilink")[劍擊隊](../Page/击剑.md "wikilink")[佩劍成員](../Page/軍刀_\(擊劍\).md "wikilink")，為中國奪得首枚[亞洲運動會擊劍金牌](https://zh.wikipedia.org/wiki/亞洲運動會 "wikilink")，被稱為“亞洲第一劍”，後來成為香港劍擊隊總教練。\[9\]
+
+母親周平為[上海人](../Page/上海人.md "wikilink")，曾是中國體操隊成員。\[10\]
+
+哥哥現定居[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")，育有一女。
+
+## 音樂作品
+
+### 個人歌曲(SOLO)
+
+|             |              |                       |                         |                   |                                            |
+| ----------- | ------------ | --------------------- | ----------------------- | ----------------- | ------------------------------------------ |
+| 發佈日期        | 語言           | 歌曲名稱                  | 專輯名稱                    | 形式                | 備註                                         |
+| 2016年8月16日  | 中文           | 上班有些怪                 | 《上班有些怪》                 | 单曲                | 廣告推廣(必勝客聯合<保衛蘿蔔3>)                         |
+| 2017年4月26日  | 拜託了冰箱        | 《拜託了冰箱》               | 单曲(自作曲)                 | 節目主题曲(<拜託了冰箱>第三季) |                                            |
+| 2017年7月4日   | Generation 2 | 《Generation 2》        | 廣告推廣(百事可樂)              |                   |                                            |
+| 2017年8月26日  | 英文           | Papillon(巴比龍)         | 《Papillon(巴比龍)》         | 個人出道曲             |                                            |
+| 2017年8月30日  | 中文           | Kyushu Sky City 九州天空城 | 《Kyushu Sky City 九州天空城》 | 单曲                | 3D九州天空城[手游主題曲](../Page/手机游戏.md "wikilink") |
+| 2017年11月10日 | 中英           | (V)ision              | 《(V)ision》              | 单曲(自作曲)           | X20 vivo蓝 广告曲                              |
+| 2017年11月30日 | OKAY         | 《OKAY》                | 第二支個人单曲                 |                   |                                            |
+| 2018年4月20日  | 英文           | Dawn of us            | 《Dawn of us》            | 單曲（自作曲）           | 第三支個人單曲                                    |
+| 2018年5月15日  | 中英           | X                     | 《X》                     | 單曲（自作曲）           | 勇闖天涯SuperX廣告曲                              |
+| 2018年5月25日  | 英文           | Fendiman              | 《Fendiman》              | 單曲（自作曲）           | Fendi "fisforfendi"推廣                      |
+| 2018年9月17日  | 英文           | Made It               | 《Present: YOU》          | 單曲（自作曲）           | 組合專輯內solo曲                                 |
+| 2018年11月7日  | 英文           | Different Game        | 《Different Game》        | 單曲（自作曲）           | feat. Gucci Mane                           |
+| 2019年2月14日  | 中英           | BIMMER RIDE           | 《BIMMER RIDE》           | 單曲（自作曲）           | BMW 1系三廂M運動版推廣曲                            |
+| 2019年3月19日  | 英文           | Faded                 | 《Faded》                 | 單曲                | 取消正式音源及MV發佈                                |
+| 2019年4月12日  | 英文           | Oxygen                | 《Oxygen》                | 單曲（自作曲）           |                                            |
+
+### 合作專輯
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>專輯 #</p></td>
+<td><p>專輯資料</p></td>
+<td><p>曲目</p></td>
+</tr>
+<tr class="even">
+<td><p>#</p></td>
+<td><p>Big Byung(빅병) [11] - Stress Come on! (스트레스 컴온!)</p>
+<ul>
+<li>發行日期：2014年8月20日</li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
+</ul></td>
+<td><ul>
+<li>Stress Come on!(스트레스 컴온!)</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p><strong>#</strong></p></td>
+<td><p>Big Byung(빅병) - 魷魚大醬 (오징어 된장)</p>
+<ul>
+<li>發行日期：2015年1月16日</li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
+</ul></td>
+<td><ul>
+<li>魷魚大醬 (오징어 된장)</li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+
+### 合作单曲
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>發佈日期</p></td>
+<td><p>語言</p></td>
+<td><p>歌曲名稱</p></td>
+<td><p>專輯名稱</p></td>
+<td><p>形式</p></td>
+<td><p>合作藝人</p></td>
+<td><p>備註</p></td>
+</tr>
+<tr class="even">
+<td><p>2014年</p></td>
+<td><p>韓語</p></td>
+<td><p>Frozen In Time</p></td>
+<td><p>《Full Moon》</p></td>
+<td><p>專輯收錄曲</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李宣美" title="wikilink">善美</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李宣美" title="wikilink">善美首張迷你專輯</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>Can't hide it</p></td>
+<td><p>《Can't Hide It》</p></td>
+<td><p>單曲</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/15&amp;" title="wikilink">15&amp;</a>、<a href="../Page/林在範.md" title="wikilink">JB</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/15&amp;" title="wikilink">15&amp;數位單曲</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2016年</p></td>
+<td><p>中文</p></td>
+<td><p>透鮮滴星期天</p></td>
+<td><p>《透鮮滴星期天》</p></td>
+<td><p>節目原聲</p></td>
+<td><p><a href="../Page/何炅.md" title="wikilink">何炅</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>拜託了</p></td>
+<td><p>《拜託了冰箱》第二季</p></td>
+<td><p>冰箱家族</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2017年</p></td>
+<td><p>韩语<br />
+中文</p></td>
+<td><p>U&amp;I</p></td>
+<td><p>《The Package》</p></td>
+<td><p>电视剧原声</p></td>
+<td><p><a href="../Page/林在範.md" title="wikilink">JB</a></p></td>
+<td><p>OST Part.4</p></td>
+</tr>
+<tr class="odd">
+<td><p>中英</p></td>
+<td><p>MOOD</p></td>
+<td><p>《MOOD》</p></td>
+<td><p>單曲</p></td>
+<td><p><a href="../Page/孟佳.md" title="wikilink">孟佳</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2018年</p></td>
+<td><p>英文</p></td>
+<td><p>Lucky Rain</p></td>
+<td><p>《TIARA》</p></td>
+<td><p>專輯收錄曲</p></td>
+<td><p><a href="../Page/袁娅维.md" title="wikilink">袁婭維</a></p></td>
+<td><p>feat</p></td>
+</tr>
+<tr class="odd">
+<td><p>英文</p></td>
+<td><p>Can't Breathe</p></td>
+<td><p>《Billboard's Vibe presents: Urban Asia Vol.1》</p></td>
+<td><p>精選輯收錄曲</p></td>
+<td><p>Eddie Supa &amp; Stan Sono</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>中英</p></td>
+<td><p>Bruce Lee</p></td>
+<td><p>《Bruce Lee》</p></td>
+<td><p>單曲</p></td>
+<td><p>Al Rocco</p></td>
+<td><p>合唱</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>粵語</p></td>
+<td><p>Creo En Mi</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/Believe_In_Mi" title="wikilink">Believe In Mi</a>》</p></td>
+<td><p>專輯收錄曲</p></td>
+<td><p><a href="../Page/鄭秀文.md" title="wikilink">鄭秀文</a></p></td>
+<td><p>feat</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>韩英</p></td>
+<td><p>OMW</p></td>
+<td><p>《<a href="../Page/Present:_YOU.md" title="wikilink">Present: YOU</a>》</p></td>
+<td><p>專輯收錄曲</p></td>
+<td><p><a href="../Page/段宜恩.md" title="wikilink">Mark</a></p></td>
+<td><p>组合成员solo曲 （feat，参与词曲编创作）</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>中英</p></td>
+<td><p>Hello</p></td>
+<td><p>《Hello》</p></td>
+<td><p>單曲</p></td>
+<td><p>Fei（王霏霏）</p></td>
+<td><p>feat</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年</p></td>
+<td><p>中英</p></td>
+<td><p>Red</p></td>
+<td><p>《Red》</p></td>
+<td><p>單曲</p></td>
+<td><p>ICE冰塊</p></td>
+<td><p>三小時即興創作</p></td>
+</tr>
+<tr class="odd">
+<td><p>中英</p></td>
+<td><p>塑造</p></td>
+<td><p>《塑造》</p></td>
+<td><p>單曲</p></td>
+<td><p>謝霆鋒</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>中英</p></td>
+<td><p>深淵</p></td>
+<td><p>《深淵》</p></td>
+<td><p>單曲</p></td>
+<td><p>謝霆鋒</p></td>
+<td><p>《塑造》國語版</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>中英</p></td>
+<td><p>MK Circus</p></td>
+<td><p>《MK Circus》</p></td>
+<td><p>單曲</p></td>
+<td><p>Dough-Boy</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>英韓</p></td>
+<td><p>Hypey</p></td>
+<td><p>《9801》</p></td>
+<td><p>專輯收錄曲</p></td>
+<td><p>賴冠霖</p></td>
+<td><p>feat,第一詞曲編作者</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>中英</p></td>
+<td><p>Rumble</p></td>
+<td><p>《Diaspora》</p></td>
+<td><p>專輯收錄曲</p></td>
+<td><p>Goldlink</p></td>
+<td><p>feat,第一詞曲作者</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>中英</p></td>
+<td><p>Another</p></td>
+<td><p>《Another》</p></td>
+<td><p>單曲</p></td>
+<td><p>秦奮</p></td>
+<td><p>feat,第一作曲編曲</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>中英</p></td>
+<td><p>Too Busy</p></td>
+<td><p>《Too Busy》</p></td>
+<td><p>單曲</p></td>
+<td><p>BOY STORY</p></td>
+<td><p>feat,第一詞曲編作者</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 音樂錄影帶(MV)
+
+|        |                                                                   |                                                                 |                                                                   |                                                                      |      |
+| ------ | ----------------------------------------------------------------- | --------------------------------------------------------------- | ----------------------------------------------------------------- | -------------------------------------------------------------------- | ---- |
+| 年份     | 發佈日期                                                              | 平臺                                                              | 歌曲名稱                                                              | 演唱者                                                                  | 備註   |
+| 2014年  | 8月19日                                                             | Youtube                                                         | [《Stress Come On\!》](https://www.youtube.com/watch?v=_coVR9c3Fho) | [Big Byung](https://zh.wikipedia.org/wiki/Big_Byung "wikilink") (빅병) | 限定組合 |
+| 2015年  | 1月16日                                                             | [《魷魚大醬》](https://www.youtube.com/watch?v=KsBj359kpRk)           |                                                                   |                                                                      |      |
+| 2月12日  | [《SHAKE THAT BRASS》](https://www.youtube.com/watch?v=BYGeGI1Ihlc) | [Amber](https://zh.wikipedia.org/wiki/劉逸雲 "wikilink")           | 客串                                                                |                                                                      |      |
+| 2016年  | 7月9日                                                              | [《Shut Up》](https://www.youtube.com/watch?v=gluvBLJYBjs)        | [Unnies](../Page/Unnies.md "wikilink")                            |                                                                      |      |
+| 2017年  | 8月26日                                                             | Worldstar/Youtube                                               | [《Papillon(巴比龍)》](https://www.youtube.com/watch?v=BBVLj_PSsZ8)    | 王嘉爾                                                                  | solo |
+| 8月29日  | 音悅臺                                                               |                                                                 |                                                                   |                                                                      |      |
+| 11月30日 | 全平台                                                               | [《OKAY》](https://www.youtube.com/watch?v=4xN-jUfJAyM)           |                                                                   |                                                                      |      |
+| 12月27日 | 全平台                                                               | [《MOOD》](https://www.youtube.com/watch?v=REbjfHF0N0s)           | 王嘉爾 & 孟佳                                                          | 合唱                                                                   |      |
+| 2018年  | 4月20日                                                             | Youtube                                                         | 《[Dawn of us](https://www.youtube.com/watch?v=Jdudq9gHJzY)》       | 王嘉爾                                                                  | solo |
+| 5月25日  | Youtube                                                           | [《Fendiman》](https://www.youtube.com/watch?v=AmfNAaK23UU)       | 王嘉爾                                                               | solo                                                                 |      |
+| 6月29日  | 全平台                                                               | [《Lucky Rain》](https://www.youtube.com/watch?v=L7qWe7Qpz-4)     | 袁婭維 feat.王嘉爾                                                      | feat                                                                 |      |
+| 7月22日  | 全平台                                                               | 《[Bruce Lee](https://www.youtube.com/watch?v=w4uMzmYaksg)》      | 王嘉爾 & Al Rocco                                                    | 合唱                                                                   |      |
+| 9月7日   | 全平台                                                               | [《Made it》](https://www.youtube.com/watch?v=R-sJp9E3zIY)        | 王嘉爾                                                               | solo                                                                 |      |
+| 11月7日  | Youtube                                                           | [《Different Game》](https://www.youtube.com/watch?v=Q4fYtFmoWDk) | 王嘉爾                                                               | solo (feat. Gucci Mane)                                              |      |
+| 2019年  | 4月12日                                                             | Youtube                                                         | 《Oxygen》                                                          | 王嘉爾                                                                  | solo |
+| 7月26日  | 全平台                                                               | 《Too Busy》                                                      | BOY STORY feat.王嘉爾                                                | feat                                                                 |      |
+
+### 合作舞台
+
+|                                  |                                  |                         |                                                    |                                                              |               |                     |
+| -------------------------------- | -------------------------------- | ----------------------- | -------------------------------------------------- | ------------------------------------------------------------ | ------------- | ------------------- |
+| 年份                               | 日期                               | 平台                      | 節目名稱                                               | 合作歌手                                                         | 歌曲            | 備註                  |
+| 2014年                            | 7月24日                            | Mnet                    | M\! Countdown                                      | [白智榮](../Page/白智榮.md "wikilink")                             | 내 귀에 캔디       | Rap Featuring 與JB   |
+| 12月19日                           | KBS                              | Music Bank              | [善美](https://zh.wikipedia.org/wiki/李善美 "wikilink") | Full Moon                                                    | Rap Featuring |                     |
+| 12月31日                           | MBC                              | 歌謠大祭典                   | Big Byung（[陸星材](../Page/陸星材.md "wikilink")、N、爀）    | Stress Come on\!                                             | 開場表演          |                     |
+| 2015年                            | 4月23日                            | Mnet                    | M\! Countdown                                      | [Jun. K](https://zh.wikipedia.org/wiki/Jun._K "wikilink")    | True Swag     | Rap Featuring 與Mark |
+| [康男](../Page/滑川康男.md "wikilink") | My Type                          | Rap Featuring 與 Cheetah |                                                    |                                                              |               |                     |
+| 6月14日                            | SBS                              | 人氣歌謠                    | [白娥娟](../Page/白娥娟.md "wikilink")                   | [Shouldn't Have...](../Page/Shouldn't_Have....md "wikilink") | Rap Featuring |                     |
+| 9月13日                            | [康男](../Page/滑川康男.md "wikilink") | Chocolate               |                                                    |                                                              |               |                     |
+| 9月28日                            | KBS                              | 全國偶像歌曲大會                | [康南](../Page/滑川康男.md "wikilink")                   | [江南style](https://zh.wikipedia.org/wiki/江南style "wikilink")  | 第一名           |                     |
+| 2017年                            | 9月2日                             | 愛奇藝                     | 中國有嘻哈                                              | GAI                                                          | Papillon      | 第一名 (四進三)           |
+| 9月16日                            | 騰訊視頻                             | 明日之子                    | 馬伯騫                                                | 第一名 (四進三車輪戰)                                                 |               |                     |
+| 12月1日                            | Mnet                             | 2017 MAMA亚洲音乐盛典         | Dynamic Duo&周宪\&Vernon                             | N분의 1 (N分之1）                                                 | Hip Hop 合作舞台  |                     |
+|                                  |                                  |                         |                                                    |                                                              |               |                     |
+
+## 影視作品
+
+### 電影
+
+|            |       |      |             |    |                           |
+| ---------- | ----- | ---- | ----------- | -- | ------------------------- |
+| 時間         | 性質    | 播放平台 | 作品          | 角色 | 備註                        |
+| 2018年1月15日 | 音樂微電影 | 全網   | 《霹靂爸媽》      | 阿生 | 百事中國“2018把樂帶回家”新春音樂微電影    |
+| 2019年1月16日 | 微電影   | 全網   | 《vivo照亮全傢福》 |    | vivo新春微電影-vivo X23幻彩版星語心願 |
+
+### 電視劇
+
+|       |       |                                     |                                                  |         |           |
+| ----- | ----- | ----------------------------------- | ------------------------------------------------ | ------- | --------- |
+| 時間    | 性質    | 播放平台                                | 作品                                               | 角色      | 備註        |
+| 2015年 | 網絡電視劇 | 優酷、土豆                               | 《[玩偶騎士](../Page/Dream_Knight.md "wikilink")》     | Jackson | 主演        |
+| 2015年 | 電視劇   | [KBS](../Page/韓國放送公社.md "wikilink") | 《[製作人的那些事](../Page/製作人_\(韓國電視劇\).md "wikilink")》 | Jackson | 客串（第三集出場） |
+
+## 綜藝節目
+
+### 主持
+
+|               |                                                          |                                                                          |                                                                       |                        |
+| ------------- | -------------------------------------------------------- | ------------------------------------------------------------------------ | --------------------------------------------------------------------- | ---------------------- |
+| 年份            | 日期                                                       | 播放平臺                                                                     | 節目名稱                                                                  | 備註                     |
+| 2014年         | 7月25日、8月1日                                               | [Arirang TV](../Page/阿里郎电视台.md "wikilink")                               | 《》                                                                    | 語言：英文                  |
+| 11月20日        | [Mnet](../Page/Mnet.md "wikilink")                       | 《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》 |                                                                       |                        |
+| 11月28日        | [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink") | 《[Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》      | 特別MC（與珍榮）                                                             |                        |
+| 12月5日         | 特別MC（與有謙）                                                |                                                                          |                                                                       |                        |
+| 12月25日        | [Mnet](../Page/Mnet.md "wikilink")                       | 《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》 | 特別MC（與JB、珍榮）                                                          |                        |
+| 2015年         | 5月17日－8月30日                                              | [SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")                  | 《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》               | 固定主持（與金裕貞、洪宗玄）         |
+| 9月13日－隔年4月3日  | 固定主持（與金裕貞、陸星材）                                           |                                                                          |                                                                       |                        |
+| 12月3日－隔年2月3日  | [騰訊視頻](../Page/腾讯视频.md "wikilink")                       | 《[拜託了冰箱](../Page/拜託了冰箱_\(中國版\).md "wikilink") 第一季》                       | 固定主持（與何炅）                                                             |                        |
+| 2016年         | 4月10日－5月1日                                               | [SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")                  | 《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》               | 固定主持（與陸星材）             |
+| 4月12日         | [土豆網](../Page/土豆网.md "wikilink")                         | 《[THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")》               | 特別MC（與秦奮）                                                             |                        |
+| 4月24日－7月10日   | [湖南衛視](../Page/湖南卫视.md "wikilink")                       | 《[透鮮滴星期天](https://zh.wikipedia.org/wiki/透鮮滴星期天 "wikilink")》              | 固定主持（與何炅）                                                             |                        |
+| 5月18日－7月20日   | [騰訊視頻](../Page/腾讯视频.md "wikilink")                       | 《[拜託了冰箱](../Page/拜託了冰箱_\(中國版\).md "wikilink") 第二季》                       |                                                                       |                        |
+| 10月13日        | [Mnet](../Page/Mnet.md "wikilink")                       | 《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》 | 特別MC（與Mark、BamBam）                                                    |                        |
+| 11月20日－12月11日 | [湖南衛視](https://zh.wikipedia.org/wiki/湖南衛視 "wikilink")    | 《[頭號驚喜](https://zh.wikipedia.org/wiki/頭號驚喜 "wikilink")》                  | 固定主持（與何炅、魏大勛）                                                         |                        |
+| 2017年         | 3月31日                                                    | [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")                 | 《[Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》   | 待機室特別MC（與民赫(Monsta X)） |
+| 4月12日－6月14日   | [騰訊視頻](../Page/腾讯视频.md "wikilink")                       | 《[拜託了冰箱](../Page/拜託了冰箱_\(中國版\).md "wikilink") 第三季》                       | 固定主持（與何炅）                                                             |                        |
+| 8月21日         | [Mnet](../Page/Mnet媒體.md "wikilink")                     | 《M\! Countdown》KCON 2017 LA特輯                                            | 特別MC（與Mark）                                                           |                        |
+| 9月24日         | Ment                                                     | 2017 Asia Song Festival                                                  | 特别MC（與利特）                                                             |                        |
+| 10月14日        | KBS                                                      | 韩越友情Super Show                                                           | MC（与San E、Irene）                                                      |                        |
+| 11月10日        | 浙江卫视/北京卫视/深圳卫视                                           | 天猫2017年双11狂欢夜                                                            | 特别MC（天猫国际首席妙物官）                                                       |                        |
+| 2018年         | 4月25日- 6月27日                                             | [腾讯视频](../Page/腾讯视频.md "wikilink")                                       | 《[拜托了冰箱](https://zh.wikipedia.org/wiki/拜托了冰箱_\(中国版\) "wikilink") 第四季》 | 固定主持（与何炅）              |
+| 9月23日         | [SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")  | 《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》                  | 特別MC                                                                  |                        |
+| 9月27日         | [Mnet](../Page/Mnet媒體.md "wikilink")                     | 《M\! Countdown》                                                          | 特別MC（與JB、Mark、榮宰、有謙）                                                  |                        |
+| 10月4日         | [Mnet](../Page/Mnet媒體.md "wikilink")                     | 《M\! Countdown》                                                          | 特別MC（與Mark、有謙）                                                        |                        |
+| 11月27日        | V Live                                                   | 金宥斌\<\#TUSM\>COMEBACK LIVE                                               | 特別MC（與珍榮）                                                             |                        |
+| 12月9日         | [SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")  | 《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》                  | 特別MC                                                                  |                        |
+| 2019年         | 4月10日-6月12日                                              | [腾讯视频](../Page/腾讯视频.md "wikilink")                                       | 《[拜托了冰箱](https://zh.wikipedia.org/wiki/拜托了冰箱_\(中国版\) "wikilink") 第五季》 | 固定主持（与何炅）              |
+
+### 固定綜藝節目
+
+|                |                                                             |                                                                       |                                                                    |               |                               |
+| -------------- | ----------------------------------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------ | ------------- | ----------------------------- |
+| 年份             | 日期                                                          | 電視台                                                                   | 節目名稱                                                               | 集數            | 備註                            |
+| 2014年          | 7月29日－8月19日                                                 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") Every1            | 《[Hit Maker](https://zh.wikipedia.org/wiki/HIT制造机 "wikilink")》第一季  | 4             |                               |
+| 9月21日－次年4月14日  | [SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")     | 《[Roommate 2](https://zh.wikipedia.org/wiki/Roommate#第二季 "wikilink")》 | 26                                                                 |               |                               |
+| 12月12日－次年2月13日 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") Every1  | 《[Hit Maker](https://zh.wikipedia.org/wiki/HIT制造机 "wikilink")》第二季     | 10                                                                 |               |                               |
+| 2015年          | 9月11日－9月25日                                                 | [SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")               | 《[叢林的法則](../Page/叢林的法則.md "wikilink")》尼加拉瓜篇                        | 3             |                               |
+| 11月11日－12月13日  | [JTBC](../Page/JTBC.md "wikilink")                          | 《他人的取向》                                                               | 7                                                                  |               |                               |
+| 2016年          | 3月6日－3月27日                                                  | [JTBC](../Page/JTBC.md "wikilink")                                    | 《[我朋友的家在哪裏](https://zh.wikipedia.org/wiki/我朋友的家在哪裏 "wikilink")》泰國篇 | 4             |                               |
+| 2月5日－4月15日     | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")       | 《[回頭看我](../Page/回頭看我.md "wikilink")》                                  | 10                                                                 |               |                               |
+| 4月19日－5月5日     | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") MBig TV | 《[花美男Bromance](../Page/花美男Bromance.md "wikilink")》                    | 6                                                                  |               |                               |
+| 4月13日－12月28日   | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") Every1  | 《[一周偶像](../Page/Weekly_Idol.md "wikilink")》idol is 完美環節               | 13                                                                 |               |                               |
+| 5月15日－7月10日    | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")         | 《[真正的男人](../Page/真正的男人.md "wikilink")》同伴入伍特輯                          | 9                                                                  |               |                               |
+| 7月15日－9月30日    | [江蘇衛視](https://zh.wikipedia.org/wiki/江蘇衛視 "wikilink")       | 《[我們戰鬥吧](../Page/我們戰鬥吧.md "wikilink")》                                | 12                                                                 |               |                               |
+| 2017年          | 12月15日—1月26日                                                | [騰訊視頻](../Page/腾讯视频.md "wikilink")                                    | 《[王者出擊](https://zh.wikipedia.org/wiki/王者出擊 "wikilink")》            | 7             | 參與第2、4、5期                     |
+| 2018年          | 1月19日- 3月30日                                                | [愛奇藝](../Page/爱奇艺.md "wikilink")                                      | 《[偶像練習生](https://zh.wikipedia.org/wiki/偶像練習生 "wikilink")》          | 12            | 擔任Rap導師，第12期因個人身體原因不能到場\[12\] |
+| 3月17日- 6月2日    | 《[熱血街舞團](../Page/熱血街舞團.md "wikilink")》                      | 12                                                                    | 任“熱血召集人”                                                           |               |                               |
+| 5月27日- 8月12日   | [騰訊視頻](../Page/腾讯视频.md "wikilink")                          | 《[放開我北鼻第三季](https://zh.wikipedia.org/wiki/放開我北鼻 "wikilink")》          | 12                                                                 | 4位奶爸之1        |                               |
+| 10月26日-次年1月11日 | 浙江衛視                                                        | 《夢想的聲音第三季》                                                            | 12                                                                 | 1-4期，11-12期導師 |                               |
+| 2019年          | 3月9日-5月25日                                                  | 優酷視頻                                                                  | 《[這！就是原創](https://zh.wikipedia.org/wiki/這！就是原創 "wikilink")》        | 12            | 擔任“原創捕手”                      |
+
+### 非固定綜藝節目作品
+
+只列出Jackson个人参与的综艺节目
+
+|            |                                                                   |                                                                                   |                                                                                                                                                                                          |                                                                                                                                                                                                                                                                          |
+| ---------- | ----------------------------------------------------------------- | --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 年份         | 日期                                                                | 播放平台                                                                              | 節目名稱                                                                                                                                                                                     | 備註                                                                                                                                                                                                                                                                       |
+| 2013年      | 09月13日                                                            | [Mnet](../Page/Mnet.md "wikilink")                                                | WIN: Who Is Next？EP4                                                                                                                                                                     | 首次公开亮相                                                                                                                                                                                                                                                                   |
+| 2014年      | 04月10日                                                            | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                               | Real Jimin e2.                                                                                                                                                                           | 个人客串                                                                                                                                                                                                                                                                     |
+| 8月20日      | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")               | 《[一周偶像](../Page/Weekly_Idol.md "wikilink")》                                       | 与[陆星材](../Page/陸星材.md "wikilink")、[N](https://zh.wikipedia.org/wiki/車學沇 "wikilink")、[爀](../Page/Hyuk.md "wikilink")                                                                      |                                                                                                                                                                                                                                                                          |
+| 8月22日      |                                                                   | 《Before I die》                                                                    | 特别访问                                                                                                                                                                                     |                                                                                                                                                                                                                                                                          |
+| 9月8日       | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")               | 《Hello异乡人》                                                                        | 不同国家的人一起生活                                                                                                                                                                               |                                                                                                                                                                                                                                                                          |
+| 12月10日     | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")               | 《维他命》                                                                             | 主持人：[李辉才](https://zh.wikipedia.org/wiki/李輝才 "wikilink")                                                                                                                                  |                                                                                                                                                                                                                                                                          |
+| 12月17日     | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")               | 《[黄金渔场 Radio Star](../Page/黄金渔场_Radio_Star.md "wikilink")》                        | 主持：[金九拉等](https://zh.wikipedia.org/wiki/金九拉 "wikilink")                                                                                                                                  |                                                                                                                                                                                                                                                                          |
+| 12月31日     | MBC                                                               | 《[一周偶像](../Page/Weekly_Idol.md "wikilink")》                                       | 与[陆星材](../Page/陸星材.md "wikilink")、[N](https://zh.wikipedia.org/wiki/車學沇 "wikilink")、[爀](../Page/Hyuk.md "wikilink")                                                                      |                                                                                                                                                                                                                                                                          |
+| 2015年      | 1月22日                                                             | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")                               | 《[Happy Together](https://zh.wikipedia.org/wiki/Happy_Together "wikilink")3》                                                                                                             | 主持人：[刘在锡等](../Page/劉在錫.md "wikilink")                                                                                                                                                                                                                                    |
+| 2月11日      | [Arirang TV](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink") | [After School Club](../Page/After_School_Club.md "wikilink")                      | 与[Mark](../Page/段宜恩.md "wikilink")                                                                                                                                                       |                                                                                                                                                                                                                                                                          |
+| 2月14日、21日  | [JTBC](../Page/JTBC.md "wikilink")                                | 《[我独自恋爱中](../Page/我獨自戀愛中.md "wikilink")》                                          | 第三、四集                                                                                                                                                                                    |                                                                                                                                                                                                                                                                          |
+| 2月21日      | [SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")           | 《[英才发掘团](../Page/英才發掘團.md "wikilink")》                                            | 嘉宾                                                                                                                                                                                       |                                                                                                                                                                                                                                                                          |
+| 2月22日      | 《Star Junior Show 鲫鱼面包》                                           | 主持人：[李敬揆](../Page/李敬揆.md "wikilink")                                              |                                                                                                                                                                                          |                                                                                                                                                                                                                                                                          |
+| 2月25日      | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")               | 《[一周偶像](../Page/Weekly_Idol.md "wikilink")》                                       | 与[陆星材](../Page/陸星材.md "wikilink")、[N](https://zh.wikipedia.org/wiki/車學沇 "wikilink")、[爀](../Page/Hyuk.md "wikilink")                                                                      |                                                                                                                                                                                                                                                                          |
+| 2月26日      | 四种秀Amber篇                                                         | 个人客串                                                                              |                                                                                                                                                                                          |                                                                                                                                                                                                                                                                          |
+| 3月7日       | 《改变世界的问答》                                                         | 主持人：[李辉才](https://zh.wikipedia.org/wiki/李輝才 "wikilink")                           |                                                                                                                                                                                          |                                                                                                                                                                                                                                                                          |
+| 3月8日       | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")               | 《[喜剧大联盟](../Page/喜劇大聯盟.md "wikilink")》                                            | 与[李国主和](../Page/李國主.md "wikilink")[曹世镐](../Page/曹世镐.md "wikilink")演情景喜剧                                                                                                                  |                                                                                                                                                                                                                                                                          |
+| 4月2日       | My Young Tutor                                                    | 第二集、个人客串                                                                          |                                                                                                                                                                                          |                                                                                                                                                                                                                                                                          |
+| 4月23日、30日  | 《[问题的男人](https://zh.wikipedia.org/wiki/大腦性感的時代－問題的男人 "wikilink")》 | [金南俊](../Page/金南俊.md "wikilink")邀请                                                |                                                                                                                                                                                          |                                                                                                                                                                                                                                                                          |
+| 7月17日      | [安徽卫视](https://zh.wikipedia.org/wiki/安徽衛視 "wikilink")             | 《[星动亚洲](../Page/星動亞洲.md "wikilink")》                                              | 第二期、作为导师出演                                                                                                                                                                               |                                                                                                                                                                                                                                                                          |
+| 7月28日      | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")             | 《[我们小区艺体能](../Page/我們小區藝體能.md "wikilink")》                                        | 游泳篇、比赛                                                                                                                                                                                   |                                                                                                                                                                                                                                                                          |
+| 8月8日、15日   | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")               | 《[Star King](https://zh.wikipedia.org/wiki/Star_King "wikilink")》                 | 主持人：[姜镐童](../Page/姜鎬童.md "wikilink")                                                                                                                                                     |                                                                                                                                                                                                                                                                          |
+| 9月15日、22日  | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")             | 《[我们小区艺体能](../Page/我們小區藝體能.md "wikilink")》                                        | 游泳篇、比赛                                                                                                                                                                                   |                                                                                                                                                                                                                                                                          |
+| 9月28日      | [SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")           | 《[New Star King](https://zh.wikipedia.org/wiki/New_Star_King "wikilink")》         | 主持人：[姜镐童](../Page/姜鎬童.md "wikilink")                                                                                                                                                     |                                                                                                                                                                                                                                                                          |
+| 9月28日      | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")               | 全国偶像歌曲大会                                                                          | 获最优秀奖 （与[康南](../Page/滑川康男.md "wikilink")）                                                                                                                                                |                                                                                                                                                                                                                                                                          |
+| 10月9日      | [江苏卫视](https://zh.wikipedia.org/wiki/江蘇衛視 "wikilink")             | 《[真心英雄](../Page/真心英雄_\(电视节目\).md "wikilink")》                                     | 第十期                                                                                                                                                                                      |                                                                                                                                                                                                                                                                          |
+| 11月7日、21日  | [深圳卫视](https://zh.wikipedia.org/wiki/深圳衛視 "wikilink")             | 《中韩梦之队》                                                                           | 运动竞技节目P.S11/7因伤送医中途离开未参加录影                                                                                                                                                               |                                                                                                                                                                                                                                                                          |
+| 12月8日      | [SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")           | 《[Star King](https://zh.wikipedia.org/wiki/Star_King "wikilink")》                 | 主持人：[姜镐童](../Page/姜鎬童.md "wikilink")                                                                                                                                                     |                                                                                                                                                                                                                                                                          |
+| 12月16日     | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")               | 《[黄金渔场 Radio Star](../Page/黄金渔场_Radio_Star.md "wikilink")》                        | 主持：[金九拉等](https://zh.wikipedia.org/wiki/金九拉 "wikilink")                                                                                                                                  |                                                                                                                                                                                                                                                                          |
+| 2016年      | 1月5日                                                              | [SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")                           | 《[Star King](https://zh.wikipedia.org/wiki/Star_King "wikilink")》                                                                                                                        | 主持人：[姜镐童](../Page/姜鎬童.md "wikilink")                                                                                                                                                                                                                                     |
+| 1月26日      | [Mnet](../Page/Mnet.md "wikilink")                                | 《MONSTA X's Right Now》                                                            | 第四期、为[MONSTA X布置任务](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")                                                                                                                   |                                                                                                                                                                                                                                                                          |
+| 2月16日      | [SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")           | 《[Star King](https://zh.wikipedia.org/wiki/Star_King "wikilink")》                 | 主持人：[姜镐童](../Page/姜鎬童.md "wikilink")                                                                                                                                                     |                                                                                                                                                                                                                                                                          |
+| 4月4日       | [KBS1](https://zh.wikipedia.org/wiki/KBS1 "wikilink")             | 《我们的语言竞技》                                                                         | 与[朴俊炯](../Page/朴俊炯.md "wikilink")（[g.o.d](https://zh.wikipedia.org/wiki/g.o.d "wikilink")）                                                                                               |                                                                                                                                                                                                                                                                          |
+| 4月6日       | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")               | 《[一周偶像](../Page/Weekly_Idol.md "wikilink")》                                       | [Hani](https://zh.wikipedia.org/wiki/安喜延 "wikilink")（[EXID](https://zh.wikipedia.org/wiki/EXID "wikilink")）邀请                                                                            |                                                                                                                                                                                                                                                                          |
+| 4月9日       | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")               | 《[SNL Korea](../Page/SNL_Korea.md "wikilink")》                                    | 第七季第七期、情景剧演绎                                                                                                                                                                             |                                                                                                                                                                                                                                                                          |
+| 4月11日      | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")               | 《逃离危机No.1》                                                                        | 情景剧演绎                                                                                                                                                                                    |                                                                                                                                                                                                                                                                          |
+| 4月20日、27日  | [SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")           | 《[Vocal 战争：神的声音](../Page/Vocal_戰爭：神的聲音.md "wikilink")》                            | 与[JB](../Page/林在範.md "wikilink")、[Roommate](../Page/Roommate.md "wikilink")成员                                                                                                            |                                                                                                                                                                                                                                                                          |
+| 4月27日      | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")               | 《[一周偶像](../Page/Weekly_Idol.md "wikilink")》                                       | 作为[朴轸永特别嘉宾出演](../Page/朴軫永.md "wikilink")                                                                                                                                                 |                                                                                                                                                                                                                                                                          |
+| 5月19日、24日  | [爱奇艺](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink")               | 《大学生来了》                                                                           | 与[Mark](../Page/段宜恩.md "wikilink")、[BamBam](../Page/BamBam.md "wikilink")                                                                                                                |                                                                                                                                                                                                                                                                          |
+| 5月26日      | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")               | 《[能力者们](../Page/能力者们.md "wikilink")》                                              | 主持人：[李敬揆](../Page/李敬揆.md "wikilink")、[金成柱](https://zh.wikipedia.org/wiki/金成柱_\(主持人\) "wikilink")                                                                                         |                                                                                                                                                                                                                                                                          |
+| 6月5日       | [芒果TV](../Page/芒果TV.md "wikilink")                                | 《[明星大侦探](../Page/明星大偵探.md "wikilink")》                                            | 第十期:《英雄不联盟》                                                                                                                                                                              |                                                                                                                                                                                                                                                                          |
+| 6月27日      | [腾讯视频](https://zh.wikipedia.org/wiki/騰訊視頻 "wikilink")             | 《[你正常吗](../Page/你正常嗎.md "wikilink")》                                              | 第三季第五期                                                                                                                                                                                   |                                                                                                                                                                                                                                                                          |
+| 7月8日       | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")             | 《[姐姐们的Slam Dunk](../Page/姐姐們的Slam_Dunk.md "wikilink")》                            | [闵孝琳](../Page/闵孝琳.md "wikilink")邀请、MV拍摄                                                                                                                                                  |                                                                                                                                                                                                                                                                          |
+| 7月17日      | [湖北卫视](../Page/湖北卫视.md "wikilink")                                | 《阳光艺体能》                                                                           | 2分钟视讯出演                                                                                                                                                                                  |                                                                                                                                                                                                                                                                          |
+| 7月20日      | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")               | 一周的偶像                                                                             | 五周年特辑第一弹、个人                                                                                                                                                                              |                                                                                                                                                                                                                                                                          |
+| 8月21日      | [腾讯视频](../Page/腾讯视频.md "wikilink")                                | 《周一见》                                                                             | 第11期                                                                                                                                                                                     |                                                                                                                                                                                                                                                                          |
+| 9月14日      | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")               | 《[花美男Bromance](../Page/花美男Bromance.md "wikilink")》                                | 中秋特别节目与[安孝燮](../Page/安孝燮.md "wikilink")                                                                                                                                                  |                                                                                                                                                                                                                                                                          |
+| 10月24日、31日 | [JTBC](../Page/JTBC.md "wikilink")                                | 《[拜托了冰箱](../Page/拜托了冰箱.md "wikilink")》                                            | 与[Henry](../Page/劉憲華.md "wikilink")                                                                                                                                                      |                                                                                                                                                                                                                                                                          |
+| 11月19日     | [湖南卫视](https://zh.wikipedia.org/wiki/湖南衛視 "wikilink")             | 《[快乐大本营](../Page/快乐大本营.md "wikilink")》                                            | 嘉宾（与[杨迪](../Page/杨迪.md "wikilink")、[魏大勋](../Page/魏大勋.md "wikilink")、王鸥）                                                                                                                  |                                                                                                                                                                                                                                                                          |
+| 12月15日     | [Mnet](../Page/Mnet.md "wikilink")                                | 《[Golden Tambourine](https://zh.wikipedia.org/wiki/Golden_Tambourine "wikilink")》 | 与[I.O.I](../Page/I.O.I.md "wikilink") [全昭弥](https://zh.wikipedia.org/wiki/全昭彌 "wikilink")、[安英美](../Page/安英美.md "wikilink")                                                               |                                                                                                                                                                                                                                                                          |
+| 2017年      | 1月5日                                                              | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") Every1                        | 《[Hit Maker](https://zh.wikipedia.org/wiki/HIT製造機 "wikilink")》第三季                                                                                                                        | 第4期：客串评审                                                                                                                                                                                                                                                                 |
+| 1月27日      | [芒果TV](../Page/芒果TV.md "wikilink")                                | 《[明星大侦探](../Page/明星大偵探.md "wikilink")》第二季                                         | 除夕特别节目                                                                                                                                                                                   |                                                                                                                                                                                                                                                                          |
+| 2月3日       | 第二期：《唐人街传奇》                                                       |                                                                                   |                                                                                                                                                                                          |                                                                                                                                                                                                                                                                          |
+| 2月24日      | 第五期：《周五见》                                                         |                                                                                   |                                                                                                                                                                                          |                                                                                                                                                                                                                                                                          |
+| 3月3日       | 第六期：《2046》                                                        |                                                                                   |                                                                                                                                                                                          |                                                                                                                                                                                                                                                                          |
+| 3月24日      | 第九期：《绝望的主妇》                                                       |                                                                                   |                                                                                                                                                                                          |                                                                                                                                                                                                                                                                          |
+| 3月31日      | 第十期：《花田醉》                                                         |                                                                                   |                                                                                                                                                                                          |                                                                                                                                                                                                                                                                          |
+| 5月19日      | [浙江卫视](https://zh.wikipedia.org/wiki/浙江衛視 "wikilink")             | 《[奔跑吧](../Page/奔跑吧.md "wikilink")》第五季                                             | 第6期                                                                                                                                                                                      |                                                                                                                                                                                                                                                                          |
+| 6月13日      | 优酷&芒果娱乐                                                           | 《超次元偶像》                                                                           | 第一期（嘉宾）                                                                                                                                                                                  |                                                                                                                                                                                                                                                                          |
+| 6月25日      | [浙江卫视](../Page/浙江卫视.md "wikilink")                                | 《[来吧冠军](../Page/来吧冠军.md "wikilink")》                                              | 击剑特辑                                                                                                                                                                                     |                                                                                                                                                                                                                                                                          |
+| 7月28日      | [搜狐](../Page/搜狐.md "wikilink")视频                                  | 《抱走吧爱豆》                                                                           | 第36期                                                                                                                                                                                     |                                                                                                                                                                                                                                                                          |
+| 8月13日      | [乐视视频](../Page/乐视网.md "wikilink")                                 | 《好好吃饭吧》                                                                           | 第十一期                                                                                                                                                                                     |                                                                                                                                                                                                                                                                          |
+| 9月2日       | [爱奇艺](../Page/爱奇艺.md "wikilink")                                  | 《[中国有嘻哈](../Page/中国有嘻哈.md "wikilink")》                                            | 第十一期（四进三帮唱嘉宾：[GAI](../Page/GAI.md "wikilink")）                                                                                                                                           |                                                                                                                                                                                                                                                                          |
+| 9月3日       | [东方卫视](../Page/东方卫视.md "wikilink")                                | [《极限挑战》第三季](../Page/极限挑战.md "wikilink")                                           | 第9期嘉宾                                                                                                                                                                                    |                                                                                                                                                                                                                                                                          |
+| 9月9日       | [湖南卫视](https://zh.wikipedia.org/wiki/湖南衛視 "wikilink")             | 《[快乐大本营](https://zh.wikipedia.org/wiki/快樂大本營 "wikilink")》                         | 嘉宾(与[吴磊](https://zh.wikipedia.org/wiki/吳磊 "wikilink")/[陈学东](../Page/陈学东.md "wikilink")/[邢昭林](../Page/邢昭林.md "wikilink")/[陈飞宇](../Page/陳飛宇.md "wikilink")/[李现](../Page/李现.md "wikilink")) |                                                                                                                                                                                                                                                                          |
+| 9月10日      | 腾讯                                                                | 2017超级企鹅名人篮球赛                                                                     | 个人                                                                                                                                                                                       |                                                                                                                                                                                                                                                                          |
+| 9月13日      | [爱奇艺](../Page/爱奇艺.md "wikilink")                                  | 《男子甜点俱乐部》                                                                         | 第一期（嘉宾）                                                                                                                                                                                  |                                                                                                                                                                                                                                                                          |
+| 9月16日      | [腾讯视频](../Page/腾讯视频.md "wikilink")                                | 《[明日之子](../Page/明日之子.md "wikilink")》                                              | 四进三帮唱嘉宾：[马伯骞](../Page/马伯骞.md "wikilink")                                                                                                                                                 |                                                                                                                                                                                                                                                                          |
+| 10月21日     | [北京卫视](../Page/北京卫视.md "wikilink")                                | 《生活相对论》                                                                           | 第四期（嘉宾，与秦思源）                                                                                                                                                                             |                                                                                                                                                                                                                                                                          |
+| 10月28日     | [东方卫视](../Page/东方卫视.md "wikilink")                                | 《[青春旅社](../Page/青春旅社.md "wikilink")》                                              | 第三期（嘉宾）                                                                                                                                                                                  |                                                                                                                                                                                                                                                                          |
+| 11月4日      | 第四期（嘉宾）                                                           |                                                                                   |                                                                                                                                                                                          |                                                                                                                                                                                                                                                                          |
+| 11月18日     | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")               | 《[Master Key](../Page/Master_Key.md "wikilink")》                                  | E06                                                                                                                                                                                      |                                                                                                                                                                                                                                                                          |
+| 12月2日      | [芒果TV](../Page/芒果TV.md "wikilink")                                | 《[明星大侦探](../Page/明星大偵探.md "wikilink")》第三季                                         | 第四期：《NZND之岁月无情》                                                                                                                                                                          |                                                                                                                                                                                                                                                                          |
+| 12月23日     | [优酷视频](https://zh.wikipedia.org/wiki/优酷视频 "wikilink")             | 《[锋味](../Page/鋒味.md "wikilink")》                                                  | 第2期                                                                                                                                                                                      |                                                                                                                                                                                                                                                                          |
+| 12月23日     | [东方卫视](https://zh.wikipedia.org/wiki/東方衛視 "wikilink")             | 《[天籁之战第2季](../Page/天籁之战_\(第二季\).md "wikilink") 》                                  | 第10期                                                                                                                                                                                     |                                                                                                                                                                                                                                                                          |
+| 12月30日     | 第11期                                                              |                                                                                   |                                                                                                                                                                                          |                                                                                                                                                                                                                                                                          |
+| 2018年      | 1月24日                                                             | [MBC](../Page/文化廣播公司.md "wikilink")                                               | 《[黄金渔场 Radio Star](../Page/黄金渔场_Radio_Star.md "wikilink")》                                                                                                                               | 嘉宾（与[INFINITE](../Page/INFINITE.md "wikilink")[金圣圭](../Page/金聖圭.md "wikilink")、[2PM](https://zh.wikipedia.org/wiki/2PM "wikilink")[张祐荣](https://zh.wikipedia.org/wiki/張祐榮 "wikilink")、[2AM](../Page/2AM.md "wikilink")[赵权](https://zh.wikipedia.org/wiki/赵权 "wikilink")） |
+| 1月25日      | [深圳卫视](../Page/深圳卫视.md "wikilink")                                | 《[非常静距离](https://zh.wikipedia.org/wiki/非常静距离 "wikilink")》                         |                                                                                                                                                                                          |                                                                                                                                                                                                                                                                          |
+| 10月10日     | [JTBC](../Page/JTBC.md "wikilink")                                | 《[请给一顿饭show](https://zh.wikipedia.org/wiki/請給一頓飯show "wikilink")》                 | 第100期 嘉宾（与[金胜友](https://zh.wikipedia.org/wiki/金胜友 "wikilink")）                                                                                                                           |                                                                                                                                                                                                                                                                          |
+| 12月19日、26日 | [腾讯视频](https://zh.wikipedia.org/wiki/騰訊視頻 "wikilink")             | 《带我去远方》                                                                           | 第5-6期                                                                                                                                                                                    |                                                                                                                                                                                                                                                                          |
+| 2019年      | 1月31日                                                             | [Mnet](../Page/Mnet.md "wikilink")                                                | 《[超级实习生](../Page/超級實習生.md "wikilink")》                                                                                                                                                   | 嘉宾（与[JB](https://zh.wikipedia.org/wiki/JB "wikilink")、[Mark](../Page/段宜恩.md "wikilink")、[金有谦](../Page/金有謙.md "wikilink")）                                                                                                                                                |
+| 5月31日      | [浙江卫视](https://zh.wikipedia.org/wiki/浙江衛視 "wikilink")             | 《[奔跑吧](../Page/奔跑吧.md "wikilink")》                                                | 第六期嘉宾（与[许凯](../Page/許凱.md "wikilink")、[傅园慧](../Page/傅园慧.md "wikilink")、[官鸿](../Page/官鸿.md "wikilink")）                                                                                   |                                                                                                                                                                                                                                                                          |
+| 6月7日       | [浙江卫视](https://zh.wikipedia.org/wiki/浙江衛視 "wikilink")             | 《[奔跑吧](../Page/奔跑吧.md "wikilink")》                                                | 第七期嘉宾（与[郑元畅](../Page/鄭元暢.md "wikilink")、[杨迪](../Page/杨迪.md "wikilink")）                                                                                                                  |                                                                                                                                                                                                                                                                          |
+| 8月18日      | [TVB](https://zh.wikipedia.org/wiki/TVB "wikilink")               | 《[Do姐有问题3](../Page/Do姐有問題.md "wikilink")》                                         | 第四期嘉宾（与[林盛斌](../Page/林盛斌.md "wikilink")）                                                                                                                                                 |                                                                                                                                                                                                                                                                          |
+
+### 廣播電台
+
+|                                            |                                                             |                                                                        |           |
+| ------------------------------------------ | ----------------------------------------------------------- | ---------------------------------------------------------------------- | --------- |
+| 日期                                         | 電台                                                          | 節目名稱                                                                   | 備註        |
+| 2010年5月29日                                 | [香港电台](../Page/香港電台.md "wikilink")                          | 《十项全能》                                                                 | 与许炜森、崔浩然  |
+| 2014年1月30日                                 | [MBC标准FM](https://zh.wikipedia.org/wiki/MBC标准FM "wikilink") | 《神童的深深打破》                                                              | 与BamBam   |
+| 2014年2月5日                                  | 《Younha的星光灿烂的夜晚》                                            | 与JB、珍荣、Mark、荣宰、BamBam                                                  |           |
+| 2014年7月2日                                  | Arirang Radio                                               | 《Music Access》                                                         | 与Mark、15& |
+| 2014年7月10日                                 | 《Star Date》                                                 | 与Mark、 BamBam                                                          |           |
+| 2014年11月4日                                 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")         | 《Sunny FM date》                                                        | 与龄智       |
+| 2015年3月28日                                 | 《[偶像本色](../Page/偶像本色.md "wikilink")》                        | 与龄智、BamBam                                                             |           |
+| 2017年10月31日                                | [叱咤903](../Page/叱咤903.md "wikilink")                        | 《叱咤乐坛》                                                                 | 个人        |
+| 2017年12月4日                                 | 《[口水多过浪花](https://zh.wikipedia.org/wiki/口水多過浪花 "wikilink")》 | 《Jackson 踩入口水直播室！》（个人）                                                 |           |
+| 《[圣艾粒奶油夜校](../Page/聖艾粒忌廉夜校.md "wikilink")》 | ILUBTV王嘉尔（个人）                                               |                                                                        |           |
+| 2017年12月7日                                 | [雷霆881](../Page/雷霆881.md "wikilink")                        | 《1圈圈》                                                                  | 个人        |
+| 2017年12月9日                                 | [叱咤903](../Page/叱咤903.md "wikilink")                        | 《西瓜大发》                                                                 |           |
+| 2017年12月10日                                | [雷霆881](../Page/雷霆881.md "wikilink")                        | 《泡菜粉丝煲》                                                                |           |
+| 2017年12月14日                                | [香港电台第二台](../Page/香港電台第二台.md "wikilink")                    | 《[Made in Hong Kong 李志刚](../Page/Made_in_Hong_Kong_李志剛.md "wikilink")》 |           |
+| 2017年12月15日                                | [叱咤903](../Page/叱咤903.md "wikilink")                        | 《叱咤乐坛》                                                                 |           |
+| 2017年12月21日                                | [叱咤903](../Page/叱咤903.md "wikilink")                        | 《叱咤乐坛》                                                                 |           |
+
+## 雜誌拍攝
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>日期</p></td>
+<td><p>名稱</p></td>
+<td><p>發行地區</p></td>
+<td><p>備註</p></td>
+</tr>
+<tr class="even">
+<td><p>實體發行</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2015年9月</p></td>
+<td><p><a href="../Page/GQ.md" title="wikilink">GQ</a></p></td>
+<td><p>韓國</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2016年2月</p></td>
+<td></td>
+<td><p>與JB</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2016年7月</p></td>
+<td><p>High Cut</p></td>
+<td><p>與BamBam</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2016年8月</p></td>
+<td><p>南都娛樂週刊</p></td>
+<td><p>中國內地</p></td>
+<td><p>封面</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/柯夢波丹.md" title="wikilink">時尚Cosmo</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2016年12月</p></td>
+<td><p>時尚芭莎</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2017年2月</p></td>
+<td><p>InStyle</p></td>
+<td><p>韓國</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>精品購物指南</p></td>
+<td><p>中國內地</p></td>
+<td><p>封面</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>KWAVE M (No.47)</p></td>
+<td><p>韓國</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2017年5月</p></td>
+<td><p>Oh Boy!</p></td>
+<td><p>與珍榮</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>High Cut</p></td>
+<td><p>與珍榮,Somi(CK ALL香水推廣)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2017年6月</p></td>
+<td><p>Vogue Me</p></td>
+<td><p>中國內地</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2017年8月</p></td>
+<td><p>芭莎男士</p></td>
+<td><p>中國內地</p></td>
+<td><p>别册封面/百事可樂推廣</p></td>
+</tr>
+<tr class="even">
+<td><p>南都娱乐周刊</p></td>
+<td><p>封面</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2017年9月</p></td>
+<td><p>風度men's uno Young!</p></td>
+<td><p>中國內地</p></td>
+<td><p>封面</p></td>
+</tr>
+<tr class="even">
+<td><p>MRRM (九月号)</p></td>
+<td><p>香港</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>GRAZIA紅秀 (320期)</p></td>
+<td><p>中國內地</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Cityweekly城市周刊</p></td>
+<td><p>悉尼</p></td>
+<td><p>封面</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2017年10月</p></td>
+<td><p>ELLE</p></td>
+<td><p>中國內地</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2017年12月</p></td>
+<td><p>Easy音乐世界（12月下刊）</p></td>
+<td><p>封面</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2017年12月</p></td>
+<td><p>Milk（香港版 856期）</p></td>
+<td><p>香港</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2018年1月</p></td>
+<td><p>men's uno (香港版)</p></td>
+<td><p>香港</p></td>
+<td><p>封面</p></td>
+</tr>
+<tr class="odd">
+<td><p>2018年2月</p></td>
+<td><p>Cosmopolitan (香港版)</p></td>
+<td><p>香港</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2018年3月</p></td>
+<td><p>南都娛樂周刊</p></td>
+<td><p>中國內地</p></td>
+<td><p>封面</p></td>
+</tr>
+<tr class="odd">
+<td><p>2018年3月</p></td>
+<td><p>Glass Men（2018春季刊）</p></td>
+<td><p>英國</p></td>
+<td><p>封面</p></td>
+</tr>
+<tr class="even">
+<td><p>2018年3月</p></td>
+<td><p>時尚芭莎（香港版）</p></td>
+<td><p>香港</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2018年6月</p></td>
+<td><p>Vogue Me</p></td>
+<td><p>中國內地</p></td>
+<td><p>Fendi推廣</p></td>
+</tr>
+<tr class="even">
+<td><p>2018年6月</p></td>
+<td><p>上海電視周刊</p></td>
+<td><p>中國內地</p></td>
+<td><p>封面</p></td>
+</tr>
+<tr class="odd">
+<td><p>2018年8月</p></td>
+<td><p>SuperELLE（秋季刊）</p></td>
+<td><p>中國內地</p></td>
+<td><p>封面</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年6月</p></td>
+<td><p>时装LOFFICIEL（男士版）</p></td>
+<td><p>中國</p></td>
+<td><p>封面（A/B兩版封面），Fendi推封</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019年6月</p></td>
+<td><p>時尚先生Esquire</p></td>
+<td><p>中國</p></td>
+<td><p>封面，Fendi &amp; BMW 推封</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年8月</p></td>
+<td><p>Vogue Me</p></td>
+<td><p>中國</p></td>
+<td><p>封面，Fendi &amp; 卡地亞推封</p></td>
+</tr>
+<tr class="odd">
+<td><p>線上發行</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2017年7月</p></td>
+<td><p>ELLESHOP</p></td>
+<td><p>中國內地</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>鳳凰時尚</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2017年11月</p></td>
+<td><p>时尚芭莎</p></td>
+<td><p>vivo推广</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+## 廣告代言
+
+|          |                   |      |                    |                           |
+| -------- | ----------------- | ---- | ------------------ | ------------------------- |
+| 起始時間     | 品牌名稱              | 地區   | 性質                 | 備註                        |
+| 2016年1月  | Oksusu(韓國電信)      | 韓國   | 友情出演               | 玉澤演廣告客串                   |
+| 2016年8月  | 必勝客(聯合《保衛蘿蔔3》)    | 中國內地 | 產品推廣               | 推廣曲《上班有些怪》                |
+| 2016年9月  | 美的冰鲜(美的冰箱/冷櫃)     | 代言   | 已到期                |                           |
+| 2017年1月  | CASS Light啤酒      | 韓國   | 產品推廣               | 線上公開特輯廣告                  |
+| 2017年3月— | 百事可樂              | 中國內地 | 代言                 | 百事可樂代言人                   |
+| 2017年11月 | 百威啤酒              | 產品推廣 | 百威双11代言人           |                           |
+| 2017年11月 | vivo智能手机 X20      | 代言   | X20全面屏手机VIVO蓝-音乐先声 |                           |
+| 2017年11月 | 天猫国际              | 代言   | 首席妙物官-已到期          |                           |
+| 2018年2月  | 抖音                | 中國內地 |                    | 抖音首席音樂官                   |
+| 2018年2月— | 香港旅遊發展局           | 香港   |                    | 香港旅遊推廣官                   |
+| 2018年3月  | 唱吧                | 中國內地 | 推廣                 | 3月唱吧音樂星薦官                 |
+| 2018年3月— | adidas Originals  | 大中華區 | 代言                 | Original Icon             |
+| 2018年3月  | vivo智能手機 X21      | 中國內地 | 代言                 | X21系列代言人                  |
+| 2018年3月— | 雪花啤酒勇闖天涯superX    | 中國內地 | 代言                 | 品牌形象代言人                   |
+| 2018年4月  | 聯想小新筆記本           | 中國內地 | 代言                 | 小新青年熱血代言人-已到期             |
+| 2018年4月  | HOGAN             | 香港   | 產品推廣               | HOGAN BY YOU定制鞋款 H365 運動鞋 |
+| 2018年5月  | Fendi             | 全球   | 品牌推廣               | 推廣曲《Fendiman》             |
+| 2018年6月  | 微博世界杯             | 中國內地 | 推廣                 | 圍觀世界杯“微博世界杯大使”            |
+| 2018年7月  | vivo AI智慧旗艦NEX    | 中國內地 | 推廣                 | “非凡承諾書”承諾人                |
+| 2019年1月— | Fendi             | 中國   | 大使                 | 品牌形象大使                    |
+| 2019年1月  | vivo X23幻彩版       | 中國內地 | 產品推廣               | X23幻彩版新春微電影               |
+| 2019年2月  | BMW 1系三廂M運動版      | 中國內地 | 產品推廣               | 推廣曲《BIMMER RIDE》          |
+| 2019年4月  | vivo x SMFK       | 中國   | 產品推廣               | vivo針對X27系列與SMFK進行聯名      |
+| 2019年4月  | vivo X27          | 中國   | 代言                 | vivo X27系列代言人             |
+| 2019年6月— | 雷朋 Ray·Ban        | 全球   | 代言                 | 首位全球品牌代言人                 |
+| 2019年6月— | 美心月餅              | 香港   | 代言                 | 美心月餅代言人                   |
+| 2019年7月— | 卡地亞 Cartier       | 中國   | 品牌摯友               | 卡地亞品牌摯友                   |
+| 2019年8月— | 阿瑪尼 ARMANI beauty |      | 大使                 | 阿瑪尼香水大使                   |
+
+## 演唱會
+
+### 粉絲见面会
+
+|                                                 |    |           |              |
+| ----------------------------------------------- | -- | --------- | ------------ |
+| 日期                                              | 城市 | 场地        | 備註           |
+| JACKSON WANG'S 1st mini fanmeeting in Hong Kong |    |           |              |
+| 2017年12月4日                                      | 香港 | 香港观塘APM   |              |
+| 最“嘉”遇見 勇闖天涯 superX 見面會                          |    |           |              |
+| 2018年6月3日                                       | 深圳 | 南山區A8音樂大廈 | 華潤雪花勇闖天涯品牌活動 |
+| 2018年8月14日                                      | 成都 | 武侯區西部智谷   | 華潤雪花勇闖天涯品牌活動 |
+
+### 生日會
+
+|            |    |               |    |
+| ---------- | -- | ------------- | -- |
+| 日期         | 城市 | 场地            | 備註 |
+| Journey328 |    |               |    |
+| 2019年3月23日 | 北京 | 北京国家奥林匹克中心体育馆 |    |
+|            |    |               |    |
+
+## 獎項
+
+### 大型頒獎禮獎項
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>年份</p></td>
+<td><p>名稱</p></td>
+<td><p>獎項</p></td>
+<td><p>作品</p></td>
+<td><p>結果</p></td>
+</tr>
+<tr class="even">
+<td><p>2014年</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SBS演藝大賞" title="wikilink">SBS演藝大賞</a></p></td>
+<td><p>綜藝部門男子新人獎</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Roommate#第二季" title="wikilink">Roommate 2</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2015年</p></td>
+<td><p>第10屆Soompi Awards</p></td>
+<td><p>綜藝新人獎</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>All kpop Awards</p></td>
+<td><p>最佳男子新人獎</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2016年</p></td>
+<td><p>第16届音乐风云榜年度盛典</p></td>
+<td><p>最受歡迎綜藝搭檔獎(與<a href="../Page/何炅.md" title="wikilink">何炅</a>)</p></td>
+<td><p><a href="../Page/拜託了冰箱_(中國版).md" title="wikilink">拜託了冰箱</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>騰訊視頻星光大賞</p></td>
+<td><p>年度網路綜藝獎</p></td>
+<td><p><a href="../Page/拜託了冰箱_(中國版).md" title="wikilink">拜託了冰箱</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>年度綜藝之星獎</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC演藝大賞" title="wikilink">MBC演藝大賞</a></p></td>
+<td><p>綜藝部門男子新人賞</p></td>
+<td><p><a href="../Page/真正的男人.md" title="wikilink">真正的男人</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Kpop Starz Awards 2016</p></td>
+<td><p>Best K-pop Artist of the Year 2016</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2017年</p></td>
+<td><p>2016 東風日產·微博之夜</p></td>
+<td><p>微博年度人氣藝人獎</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>微博之星2016微博影響力頒獎禮</p></td>
+<td><p>微博人氣王</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2017亞洲金曲大賞</p></td>
+<td><p>MTV特別大賞</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第14届MAHB年度先生盛典(时尚先生)</p></td>
+<td><p>年度时尚音乐人</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2017网易有态度人物盛典</p></td>
+<td><p>年度最有态度嘻哈唱作人獎</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2018爱奇艺尖叫之夜</p></td>
+<td><p>年度金曲</p></td>
+<td><p>Papillon</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2017腾讯视频星光大赏</p></td>
+<td><p>年度突破歌手</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第11屆咪咕匯音樂盛典</p></td>
+<td><p>年度最佳突破歌手</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2018年</p></td>
+<td><p>蜻蜓FM年終盛典</p></td>
+<td><p>傳媒推薦</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>最佳人氣男歌手獎</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>十大金曲</p></td>
+<td><p>Papillon</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>流行音乐年度盛典</p></td>
+<td><p>年度最受欢迎新人</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Teen Choice Awards (全美青少年選擇獎)</p></td>
+<td><p>Choice Next Big Thing</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>BreakTudo Awards（巴西）</p></td>
+<td><p>Kpop男藝人獎</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年</p></td>
+<td><p>2018微博之夜</p></td>
+<td><p>微博年度原創音樂人</p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 體育界成就
+
+  - 2006年全國體育競賽 劍擊金牌\[13\]
+  - 2007年全國體育競賽 劍擊金牌\[14\]
+  - 2009年亞洲青少年錦標賽 少年組男子佩劍個人銅牌及團體金牌\[15\]
+  - 2010年全國錦標賽17歲或以下佩劍個人銀牌及團體金牌
+  - 2010年亞洲青少年錦標賽 少年組男子佩劍個人銅牌及團體銀牌\[16\]
+  - 2010年[青年奧林匹克運動會](https://zh.wikipedia.org/wiki/青年奧林匹克運動會 "wikilink") 世界佩劍排名第11名
+  - 2011年第一季最佳傑出青少年運動員
+  - 2011年亞洲青少年錦標賽 少年組男子佩劍個人及團體金牌\[17\]
+
+### 其他個人榮譽
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>年份</p></td>
+<td><p>榮譽</p></td>
+</tr>
+<tr class="even">
+<td><p>2016</p></td>
+<td><ul>
+<li>KPOP最帅面孔第66名</li>
+</ul>
+<ul>
+<li>I-MAGAZINE亚洲男性时尚面孔第2位</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p>2017</p></td>
+<td><ul>
+<li>KPOP最帅面孔第39名</li>
+</ul>
+<ul>
+<li>TC Candler全球100張最帅面孔第35</li>
+<li>I-MAGAZINE亚洲男性时尚面孔第2位</li>
+<li>2017年度大本钟奖-海归大中华选区十大杰出青年</li>
+<li>ins关注量在韩藝人前十</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p>2018</p></td>
+<td><ul>
+<li>TC Candler全球100張最帅面孔第35</li>
+<li>I-MAGAZINE亚洲男性时尚面孔第15位</li>
+<li>KPOP最帅面孔第11名</li>
+<li>ins关注量在韩藝人前十(第7名）</li>
+<li>ins关注量华人第一</li>
+<li>Instagram Korea Awards(韓國區Instagram獎）-十大用戶獎</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p>2019</p></td>
+<td><ul>
+<li>TC Candler亞太區100張最帥面孔第9</li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+
+## ‎言論及立場
+
+2019年8月4日，王嘉爾於微博轉發了由《人民日報》所發起的「\#五星紅旗有14億護旗手\#」活動及自稱是護旗手。\[18\]
+
+## 註釋與參考資料
+
+  - 備註
+
+<!-- end list -->
+
+  - 參考資料
+
+## 外部連結
+
+  - [JYP官網-王嘉爾個人檔案](https://web.archive.org/web/20150511141939/http://got7.jype.com/profile.asp)
+
+  -
+  -
+  -
+  -
+  -
+[Category:GOT7成員](https://zh.wikipedia.org/wiki/Category:GOT7成員 "wikilink") [Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink") [Category:在韩国的中国人](https://zh.wikipedia.org/wiki/Category:在韩国的中国人 "wikilink") [Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink") [Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink") [Category:韓國節奏藍調歌手](https://zh.wikipedia.org/wiki/Category:韓國節奏藍調歌手 "wikilink") [Category:香港劍擊運動員](https://zh.wikipedia.org/wiki/Category:香港劍擊運動員 "wikilink") [Category:中國男歌手](https://zh.wikipedia.org/wiki/Category:中國男歌手 "wikilink") [Category:香港人](https://zh.wikipedia.org/wiki/Category:香港人 "wikilink") [Category:上海人](https://zh.wikipedia.org/wiki/Category:上海人 "wikilink") [Category:王姓](https://zh.wikipedia.org/wiki/Category:王姓 "wikilink") [Category:美國國際學校校友](https://zh.wikipedia.org/wiki/Category:美國國際學校校友 "wikilink")
+
+1.  [TVreport韓娛新聞：GOT7七位成員親筆簽名（中韓文）](http://ww4.sinaimg.cn/bmiddle/b84e3d7ftw1eceitdlqb7j20qo0k0tbb.jpg) 新浪微博. \[2014-01-10\]
+
+2.
+3.  [王嘉爾母親 instagram](https://www.instagram.com/p/4lfHiqG3yV/?taken-by=sophiawang328)
+
+4.  <http://www.hkfa.org.hk/hkach.pdf> 香港劍擊總會
+
+5.  <https://www.youtube.com/watch?v=EFRoiAngwoQ> JB和Jr.的JYP公開選秀背後的故事
+
+6.
+
+7.
+
+8.  <http://news.163.com/13/0811/10/96063T2A00014AED.html> 周永昌和他的超聲醫術
+
+9.  <http://isahk.org/>  際體育專業學院
+
+10. <http://www.ahtv.cn/c/2016/0512/00772579_3.html> 王嘉爾何炅私下關係揭秘
+
+11. <http://www.koreastardaily.com/tc/video/46431> • 星材、N、赫組Big Byung新歌《Stress Come On》反響熱烈（韓星網. \[2014-08-20\]）
+
+12.
+
+13.
+14. [王嘉爾母親 instagram](https://www.instagram.com/p/4_YnxlG3yA/?taken-by=sophiawang328)
+
+15.
+16.
+17.
+18.

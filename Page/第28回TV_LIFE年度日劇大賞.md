@@ -6,7 +6,7 @@
 
 而本屆七個獎項全部由[TBS電視台](../Page/TBS電視台.md "wikilink")製作的劇集奪得，包括《[0.1無罪真相2](https://zh.wikipedia.org/wiki/0.1無罪真相 "wikilink")》、《[UNNATURAL](../Page/UNNATURAL.md "wikilink")》和《》。
 
-個人方面，[松本潤首度奪得最佳男主角](https://zh.wikipedia.org/wiki/松本潤 "wikilink")，為第四位獲獎的「[嵐](../Page/嵐.md "wikilink")」的成員；而[石原聰美](../Page/石原聰美.md "wikilink")、[香川照之](../Page/香川照之.md "wikilink")和[木村文乃](../Page/木村文乃.md "wikilink")，分別第二度獲頒最佳女主角、最佳男配角及最佳女配角。
+個人方面，[松本潤](../Page/松本潤.md "wikilink")首度奪得最佳男主角，為第四位獲獎的「[嵐](../Page/嵐.md "wikilink")」的成員；而[石原聰美](../Page/石原聰美.md "wikilink")、[香川照之](../Page/香川照之.md "wikilink")和[木村文乃](../Page/木村文乃.md "wikilink")，分別第二度獲頒最佳女主角、最佳男配角及最佳女配角。
 
 ## 獎項
 
@@ -64,7 +64,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/松本潤" title="wikilink">松本潤</a><br />
+<td><p><strong><a href="../Page/松本潤.md" title="wikilink">松本潤</a><br />
 《<a href="https://zh.wikipedia.org/wiki/0.1無罪真相" title="wikilink">0.1無罪真相2</a>》</strong></p></td>
 <td><p>　<a href="https://zh.wikipedia.org/wiki/相葉雅紀" title="wikilink">相葉雅紀</a></p></td>
 <td><p>　《》</p></td>

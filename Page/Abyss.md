@@ -73,7 +73,7 @@
 <td><p><strong>介紹</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/權秀賢" title="wikilink">權秀賢</a></p></td>
+<td><p><a href="../Page/權秀賢.md" title="wikilink">權秀賢</a></p></td>
 <td><p>徐智旭/吳太真</p></td>
 <td><p>高世妍的同事，檢察官。吳英鐵的親生兒子。</p></td>
 </tr>

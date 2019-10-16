@@ -1,0 +1,33 @@
+-----
+
+## 历史
+
+该期刊的创始人为新闻工作者兼学者Sergey Shubinsky和出版商Alexey Suvorin。创刊的口号是“为读者提供简洁易懂的关于俄罗斯和欧洲历史、文学的高水平文章”。该期刊同时也是当时俄罗斯历史类期刊“三大巨头”之一，另外两家是：**《俄罗斯档案》***（俄语原文：《Русскій Архивъ》，俄语罗马化：《Russky Arkhiv》）*和**《俄罗斯历史遗存》***（俄语原文：《Русская старина》俄语罗马化：《Russkaya Starina》）*。它与其他两家的不同之处在于，它将可读性和文笔作为其文章入选的重要标准。\[1\]
+
+该期刊当时的主要贡献者中有很多是俄罗斯知名历史学家，包括：Nikolay Kostomarov、Konstantin Bestuzhev-Ryumin、Egor Zamyslovsky、Alexander Brückner、Ivan Zabelin、Alexey Korsakov、Leonid Maykov和Rafail Zotov。\[2\]
+
+**《历史的预兆》**纯活跃历史类论文作者包括：Evgeny Salias De Tournemire、Daniil Mordovtsev、Grigory Danilevsky、Vsevolod Solovyov、Evgeny Karnovich、Pyotr Polevoy、Viktor Burenin、Nadezhda Merder （N. Severin）、Rostislav Sementkovsky等。另外，Sergey Terpigorev、Pyotr Gnedich、Ieronim Yasinsky等人既是作者又是编辑。俄罗斯知名作家[尼古拉·谢苗诺维奇·列斯科夫](../Page/尼古拉·谢苗诺维奇·列斯科夫.md "wikilink")也曾多次将该期刊作为作品的首发渠道。\[3\]
+
+**《历史的预兆》**有一个很大的讣告版面，每一篇都有对已故作者遗产的全面调查。该杂志利用自己的影响力，甚至成功地发表了Anatoly Faresov为[尼古拉·加夫里诺维奇·车尔尼雪夫斯基](../Page/尼古拉·加夫里诺维奇·车尔尼雪夫斯基.md "wikilink")撰写的讣告，这是第一次向一位作品被官方禁止、其名字在当时的媒体上被禁止提及的作家致敬。
+
+该刊还大量收录了文学史、考古学、地质学、民族志这几个方面的文章。同时收录了一批知名人士的回忆录和日记，包括：Viktor Askochensky、Ksenofont Polevoy、[阿芙朵嘉·雅科夫列夫娜·帕纳耶娃](../Page/阿芙朵嘉·雅科夫列夫娜·帕纳耶娃.md "wikilink")、Vladimir Sollogub、[尼古拉·伊格那提耶夫](../Page/尼古拉·伊格那提耶夫.md "wikilink")和Ilya Arsenyev。
+
+1913年，Boris Glinsky接替Shubinsky成为主编，当年该期刊销量达到了顶峰13000册。停刊前总共发行了147卷，其中每卷包括3期（即3个月的杂志）。\[4\]
+
+
+
+### 2012年复刊至今
+
+2012年，**《历史的预兆》**在莫斯科复刊，主编为Anton Gorsky。复刊后的第一期为”总第148期”（停刊前的最后一期为“总第147期”）。
+
+## 參考資料
+
+## 外部連結
+
+[:Category:使用创建条目精灵建立的页面](https://zh.wikipedia.org/wiki/Category:使用创建条目精灵建立的页面 "wikilink")
+
+1.
+2.  [Исторический вестник](http://dic.academic.ru/dic.nsf/sie/7024/%D0%98%D0%A1%D0%A2%D0%9E%D0%A0%D0%98%D0%A7%D0%95%D0%A1%D0%9A%D0%98%D0%99) at the Soviet Historical Encyclopedia // Советская историческая энциклопедия. — М.: Советская энциклопедия . Под ред. Е. М. Жукова. 1973—1982.
+
+3.
+4.

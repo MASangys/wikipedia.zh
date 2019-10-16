@@ -31,7 +31,7 @@ Story J Company成立於2019年，電視劇製作公司People Story Comapny決�
   - 周敏京
   - 太元碩
   - [許峻豪](../Page/許峻豪.md "wikilink")
-  - [權秀賢](https://zh.wikipedia.org/wiki/權秀賢 "wikilink")
+  - [權秀賢](../Page/權秀賢.md "wikilink")
 
 ## 已離開的藝人
 

@@ -1,0 +1,223 @@
+**2019年印度尼西亞示威及騷亂**是2019年9月23日以來[印度尼西亚](../Page/印度尼西亚.md "wikilink")20多個城市的大學生抗議[人民代表會議](../Page/印度尼西亞共和國人民代表會議.md "wikilink")（國會）審議多項爭議法案的示威活動，以及由此演變而成的騷亂。示威者主要包括印尼各地的大學生，和政治團體聯繫不大，他們反對的法律包括削弱的《2002年第30號法令》修正案，以及把[婚前性行為](../Page/婚前性行為.md "wikilink")、侮辱總統等行為列為刑事罪行的新《》。之後，他們還提出等另外6項訴求。有稱這次由互聯網社群發起的示威是1998年[新秩序時期結束以來](https://zh.wikipedia.org/wiki/新秩序_\(印尼\) "wikilink")，印尼規模最大的[學生運動](../Page/學生運動.md "wikilink")。
+
+## 背景
+
+本次示威的主因是[人民代表會議](../Page/印度尼西亞共和國人民代表會議.md "wikilink")（下議院，俗稱國會）在2014年－2019年任期結束之前（即9月30日之前）加速審議多項爭議法案。第一項法案——削弱（肅貪委）的《2002年第30號法令》修正案已於2019年9月17日在執政聯盟所有政黨和反對派的支持下\[1\]，獲得國會通過，審議工作前後歷時13天。肅貪委員會是印尼在2002年設立的反腐敗機構，曾經成功檢控多名政商界人士和法官，是的成果。由於貪污問題是印尼政壇的痼疾，因此朝野政客都有意縮減其權力。修正案把肅貪委轉為政府機構，把肅貪委的職員轉為公務員，另外還在肅貪委的上方設立一個監察委員會，監督和批准肅貪委的行動，成員由總統任命\[2\]。支持肅貪的人士批評這樣做將掣肘肅貪委調查政商界人士的權力，損害其獨立性和效率\[3\]\[4\]。肅貪委的人員也表示，他們從來沒有參加過修正案的制訂工作\[5\]。
+
+第二項法案是新《》。本來印尼沿用的刑法源於[荷蘭殖民時期的法律](../Page/荷屬東印度.md "wikilink")，數十年來印尼國會一直有計劃完成新《刑法》的制訂工作。國會計劃表決的新《刑法》草案在2015年提出\[6\]，至2019年9月定案\[7\]，共有628條條文，把[婚外性行為](https://zh.wikipedia.org/wiki/婚外性行為 "wikilink")、[同居](https://zh.wikipedia.org/wiki/同居 "wikilink")、[墮胎](https://zh.wikipedia.org/wiki/墮胎 "wikilink")、褻瀆宗教、侮辱正、副總統等行為列為刑事罪行，部分條文的精神和[伊斯蘭教法](../Page/伊斯蘭教法.md "wikilink")的觀念頗為相似。上述規定適用於非[穆斯林](../Page/穆斯林.md "wikilink")。候任副總統、資深伊斯蘭教士[馬魯夫·阿敏](../Page/馬魯夫·阿敏.md "wikilink")和伊斯蘭主義者贊成新《刑法》，並鼓勵[總統](https://zh.wikipedia.org/wiki/印度尼西亞總統 "wikilink")[佐科·維多多](../Page/佐科·維多多.md "wikilink")通過這部法律，不過人權運動家、女權人士、法學家等各界人士都批評這部法律打壓民眾的言論自由和私生活，甚至令打算前往印尼的旅客和商人卻步，損害印尼經濟，同時把印尼推向[伊斯蘭化的道路](https://zh.wikipedia.org/wiki/伊斯蘭化 "wikilink")。國會原計劃在9月24日表決新《刑法》草案；如果獲得通過，該草案將在2年後連同實施條例一起生效。雖然佐科在9月20日指令國會暫緩表決新《刑法》草案，交由10月1日就任的新一屆國會議員檢討\[8\]，然而公眾擔心國會議員可能在國會會期結束之前試圖通過法案\[9\]。
+
+其他待審議的法案還包括《礦業法》、《土地法》、《矯正法》、《勞工法》、《水資源法》、《性虐待法》及《家庭傭工保護法》\[10\]。其中，部分國會議員反對《性虐待法》過於自由，容忍婚外性行為，違背宗教價值\[11\]。另外，同期席捲東南亞的[霾害問題](https://zh.wikipedia.org/wiki/2019年東南亞霾害 "wikilink")，以及[印尼國民軍在](../Page/印度尼西亞國民軍.md "wikilink")[西巴布亞地區的軍事行動也是這次示威的起因](https://zh.wikipedia.org/wiki/西巴布亞 "wikilink")\[12\]。
+
+## 經過
+
+示威活動由互聯網社群發起，示威者使用[群眾募資](../Page/群眾募資.md "wikilink")網站來籌募示威活動的開支，當地的[Twitter](../Page/Twitter.md "wikilink")使用者也使用「\#ReformasiDikorupsi」（熱火莫熄運動腐化）、「\#GejayanMemanggil」（格查延在呼喚）等[主題標籤](../Page/主題標籤.md "wikilink")來聲援學生\[13\]。示威者也參考了同期[香港](../Page/香港.md "wikilink")[反對逃犯條例修訂草案運動](../Page/反對逃犯條例修訂草案運動.md "wikilink")參加者的經驗，利用短片學習對抗[催淚彈](../Page/催淚彈.md "wikilink")、準備示威物資的手法。示威者主要包括印尼各地數以千計的大專學生\[14\]，跟政黨和其他團體關係不大\[15\]。代表學生的「全印度尼西亞大學生執行機構」（Badan Eksekutif Mahasiswa di Seluruh Indonesia, BEM）於9月24日[雅加達一場集會上提出了示威者的七大訴求](https://zh.wikipedia.org/wiki/雅加達 "wikilink")\[16\]：
+
+1.  撤回新《刑法》草案、《礦業法》、《土地法》、《矯正法》、《勞工法》、《水資源法》，廢除《2002年第30號法令》修正案及《水資源法》，通過《性虐待法》及《家庭傭工保護法》
+2.  取消任命經國會遴選程序產生，有問題的肅貪委主席
+3.  禁止[國民軍和](../Page/印度尼西亞國民軍.md "wikilink")的人員擔任文官職務
+4.  停止[巴布亞等地區的軍事行動](https://zh.wikipedia.org/wiki/西巴布亞 "wikilink")，釋放巴布亞政治犯
+5.  停止檢控（爭取民主、支持肅貪的）社會運動家
+6.  澆滅加里曼丹和蘇門答臘的森林大火，懲處引發山火的企業，取消其准證
+7.  解決過往的人權侵犯問題、審判人權侵犯者（包括當前的軍政界要人）
+
+### 雅加達
+
+[September2019jakartademo3.jpg](https://zh.wikipedia.org/wiki/File:September2019jakartademo3.jpg "fig:September2019jakartademo3.jpg") officers and [Brimob](https://zh.wikipedia.org/wiki/Mobile_Brigade_Corps "wikilink") water cannons in front of the [DPR/MPR Building](https://zh.wikipedia.org/wiki/DPR/MPR_Building "wikilink") in Jakarta, 24 September 2019.\]\] 在雅加達進行的示威活動在9月23日展開，當日多家大專院校的學生響應[社交媒體的號召](https://zh.wikipedia.org/wiki/社交媒體 "wikilink")，在前方聚集，高叫「國會是法西斯、反民主」之類的口號\[17\]，並嘗試架設路障，堵塞通往[西雅加達行政市](https://zh.wikipedia.org/wiki/西雅加達行政市 "wikilink")村的一段\[18\]和\[19\]。當日反修例示威的參加者超過2000人\[20\]。當日也有一群人在議會前方聚集，支持國會修例，但人數較少。另外，大批反對《土地法》的農民也在下午從（總統府）遊行到議會大樓，加入示威行列\[21\]。
+
+-----
+
+[Greater Jakarta Metropolitan Regional Police](https://zh.wikipedia.org/wiki/Greater_Jakarta_Metropolitan_Regional_Police "wikilink") received an announcement for another rally scheduled on 24 September 2019. In anticipation of the event, a total of 18,000 personnel was deployed around the parliament building. Another 252 police officers were dispatched for traffic control.\[22\]
+
+On this day, students from the remote area including Bandung and Yogyakarta participated in the demonstration in Jakarta. At 16:00, the crowd was already occupying the Gatot Subroto Avenue in front of the parliament building. Student representatives demanded a meeting with the House leaders, which was rejected by the police. This prompted protesters to throw rocks and bottles into the building, and eventually, attempt to intrude into the site by breaking the fence. The police responded by launching water cannon into the protesters and firing tear gas to disperse the crowd. The clash continued until midnight.\[23\] There was a reported case of police beating up a limp protester at the [Jakarta Convention Center](https://zh.wikipedia.org/wiki/Jakarta_Convention_Center "wikilink").\[24\]
+
+The police acknowledged the destruction of three police and military vehicles as well as three police outposts. They also confirmed arrest of 94 protesters, injury of 254 protesters and 39 police officers. Among them, 11 are reportedly hospitalized and 3 are critically injured.\[25\]\[26\] The number of paticipants in the Jakarta protest reached tens of thousands.\[27\]
+
+[Vocational school](https://zh.wikipedia.org/wiki/Vocational_school "wikilink") students from various parts of the Jakarta metropolitan area continued the rioting in front of the parliament building. On one occasion, [molotov cocktail](https://zh.wikipedia.org/wiki/molotov_cocktail "wikilink") was being used against police barricades. The police apprehended 17 protesters, mostly underage students. The police reported that some of the protesters do not recognize the content of the bill.\[28\]
+
+The police have confirmed deaths of two protesters. One is a high school student died in a traffic accident on the way to the demonstration in Jakarta.\[29\] Another is a protester, neither high school nor university student, died likely due to suffocation.\[30\]
+
+A journalist of *Narasi TV* was physically abused and her handphone was seized by members of [Mobile Brigade Corps](https://zh.wikipedia.org/wiki/Mobile_Brigade_Corps "wikilink") (Brimob) for attempting to film live footage during the demonstration in Jakarta.\[31\]
+
+Hundreds of students from the [Muslim Students Association](https://zh.wikipedia.org/wiki/Muslim_Students'_Association_\(Indonesia\) "wikilink") (HMI) held a protest and burned tires in front of the parliament building in Jakarta and elsewhere, demanding accountability for the two victims in South Sulawesi.\[32\]\[33\]
+
+### 其他城市
+
+除了雅加達，自9月23日起，示威還擴散到[東爪哇省](https://zh.wikipedia.org/wiki/東爪哇省 "wikilink")[泗水市](../Page/泗水_\(印尼\).md "wikilink")、[西爪哇省](../Page/西爪哇省.md "wikilink")[萬隆](../Page/萬隆.md "wikilink")市、[北蘇門答臘省](https://zh.wikipedia.org/wiki/北蘇門答臘省 "wikilink")[棉蘭](../Page/棉蘭.md "wikilink")市等二十多座城市\[34\]。其中，棉蘭等X座城市的示威曾經演變成警民衝突，警方向示威者施放催淚彈。
+
+9月26日，[東南蘇拉威西省省會](https://zh.wikipedia.org/wiki/東南蘇拉威西省 "wikilink")[肯達里](../Page/肯達里.md "wikilink")市的示威者在省議會大樓外與警方發生暴力衝突，期間一名學生腹部中槍，送院後證實死亡，對此警方表明值班警員沒有使用實彈或橡膠子彈。當天晚上，另一名學生的頭部被鈍物猛擊\[35\]，經過醫護人員搶救仍然傷重死亡\[36\]。
+
+Usman Hamid of [Amnesty International](https://zh.wikipedia.org/wiki/Amnesty_International "wikilink") demanded the authority for an immediate investigation and accountability.\[37\] A board chairman of the Muhammadiyah Student League (IMM), to which the victims belong, demanded the removal of the Southeast Sulawesi police chief from its position.\[38\] Solidarity rallies for the victims were held throughout the country.\[39\]\[40\]
+
+A student was allegedly shot, and the Indonesian Ombudsman has launched an investigation into the origin of the bullet. Southeast Sulawesi police chief denied the use of live rounds nor rubber bullets by the police force. Later that evening, another student succumbed to blunt force injuries to the skull, after attempts to operate on his injuries failed to improve his condition.
+
+-----
+
+While small-scale demonstrations were already held sporadically, mass protests took place on 23 and 24 September, the last two days before the term end of the incumbent parliament members. The protest spread nationwide, including Jakarta, Bandung, [Yogyakarta](https://zh.wikipedia.org/wiki/Yogyakarta "wikilink"), [Surabaya](https://zh.wikipedia.org/wiki/Surabaya "wikilink"), [Malang](https://zh.wikipedia.org/wiki/Malang "wikilink"), [Palembang](https://zh.wikipedia.org/wiki/Palembang "wikilink"), [Medan](https://zh.wikipedia.org/wiki/Medan "wikilink"), Padang, [Semarang](https://zh.wikipedia.org/wiki/Semarang "wikilink"), [Surakarta](https://zh.wikipedia.org/wiki/Surakarta "wikilink"), [Lampung](https://zh.wikipedia.org/wiki/Lampung "wikilink"), [Aceh](https://zh.wikipedia.org/wiki/Aceh "wikilink"), [Palu](https://zh.wikipedia.org/wiki/Palu "wikilink"), [Bogor](https://zh.wikipedia.org/wiki/Bogor "wikilink"), [Denpasar](https://zh.wikipedia.org/wiki/Denpasar "wikilink"), [Makassar](https://zh.wikipedia.org/wiki/Makassar "wikilink"), [Balikpapan](https://zh.wikipedia.org/wiki/Balikpapan "wikilink"), [Samarinda](https://zh.wikipedia.org/wiki/Samarinda "wikilink"), [Purwokerto](https://zh.wikipedia.org/wiki/Purwokerto "wikilink"), [Tasikmalaya](https://zh.wikipedia.org/wiki/Tasikmalaya "wikilink"), [Kediri](https://zh.wikipedia.org/wiki/Kediri_\(city\) "wikilink"), [Tanjungpinang](https://zh.wikipedia.org/wiki/Tanjungpinang "wikilink"), [Cirebon](https://zh.wikipedia.org/wiki/Cirebon "wikilink"), [Jombang](https://zh.wikipedia.org/wiki/Jombang_Regency "wikilink"), and others.\[41\]\[42\]\[43\]\[44\]\[45\]\[46\]\[47\]\[48\]\[49\]\[50\]\[51\]
+
+Rallies were also held peacefully in other cities, including Yogyakarta, Bandung, Malang, Balikpapan, Samarinda and Purwokerto. Rallies in Yogyakarta, Bandung, and Malang gathered more than one thousand participants.\[52\]
+
+In Padang, thousands of protesters clashed with the police and security forces armed with water cannons. Protesters eventually overwhelmed the police and entered into the governor's office.\[53\]
+
+Rallies were held peacefully in other cities, including Palembang, Semarang, Surakarta, Medan, Lampung, Aceh, and Makassar. Rallies in Palembang, Lampung, and Makassar gathered more than one thousand participants.\[54\]
+
+In Surabaya, the head of provincial legislative council Kusnadi reached out to protesters, explained that he has no authority to overturn the controversial bills and him personally also disagreed to the decisions made by the national parliament.\[55\]
+
+In [Kendari](https://zh.wikipedia.org/wiki/Kendari "wikilink"), [South Sulawesi](https://zh.wikipedia.org/wiki/South_Sulawesi "wikilink"), two students died after a violent clash between the protesters and police in front of the provincial legislative council (DPRD) building. A student was allegedly shot, and the Indonesian Ombudsman has launched an investigation into the origin of the bullet. Southeast Sulawesi police chief denied the use of live rounds nor rubber bullets by the police force. Later that evening, another student succumbed to blunt force injuries to the skull,\[56\] after attempts to operate on his injuries failed to improve his condition.\[57\]
+
+Rallies were continuously held nationwide, including in Surabaya, [Magelang](https://zh.wikipedia.org/wiki/Magelang "wikilink"), and [Ciamis](https://zh.wikipedia.org/wiki/Ciamis "wikilink").\[58\]\[59\]\[60\] In Magelang, an employee of the [Ministry of Transportation](https://zh.wikipedia.org/wiki/Ministry_of_Transportation_\(Indonesia\) "wikilink") was injured during the evacuation from the riot.\[61\]
+
+A clash occurred between the protesters and riot police in Makassar, and one protester was hit by a [riot control vehicle](https://zh.wikipedia.org/wiki/Police_car#Riot_control_vehicles "wikilink").\[62\]
+
+## 各界反應
+
+起初佐科拒絕廢除《2002年第30號法令》修正案，他和司法及人權部長表示公民社會團體可以向提出司法覆核，要求法院裁定法案違憲\[63\]。至26日，佐科發表電視講話，感謝大學生對社會改革的堅持，並表示自己將審慎考慮頒布總統令，廢除《2002年第30號法令》修正案的可能\[64\]。佐科也邀請大學生前往獨立宮跟他對話，卻被大學生拒絕，原因是他們希望佐科能夠走進示威現場聆聽其訴求\[65\]。
+
+部分高級官員認為這次示威和2019年5月的[雅加達騷亂一樣遭人滲透](../Page/2019年雅加達示威及騷亂.md "wikilink")，並表示會懲處相關大學的校長。認為一群意在干擾國會運作、阻止佐科和馬魯夫在10月20日宣誓擔任正副總統已經騎劫了這次示威，並表示他們煽動極端伊斯蘭組織的成員、足球迷和工會成員參加示威，訴諸暴力手段（包括佔領議會大樓），製造警民衝突，企圖造成人命傷亡，危害國家秩序。在同一個場合指出示威者不一定是學生，也不一定了解示威者的訴求，他們可能只是收受金錢，到場鬧事\[66\]。轉達佐科的訊息時，也呼籲大學生離開街頭，返回校園，並促請大專院校的校長出面勸說他們。他宣稱，如果政府發現某大學有學生參加示威，或者有教師鼓勵學生罷課，該大學的校長將遭到處分\[67\]。
+
+很多人都認為這次示威是1998年[新秩序時期結束以來](https://zh.wikipedia.org/wiki/新秩序_\(印尼\) "wikilink")，印尼規模最大的[學生運動](../Page/學生運動.md "wikilink")，輿論也把這次示威和[1998年的示威](https://zh.wikipedia.org/wiki/黑色五月暴動 "wikilink")、以及香港的反修例運動相提並論。政治分析員則認為1998年學生的目標只是結束新秩序政權，而2019年學生的目標更加多元，。學生領袖也不同意輿論比較這次示威和1998年的示威，因為他們並不是謀求推翻當屆政府，而是捍衛印尼的民主價值觀。\[68\]\[69\]
+
+、和已經發出公告或旅遊警示，促請在印尼的國民避免參加示威活動，注意安全\[70\]。
+
+## 備註
+
+## 參考資料
+
+## 筆記
+
+  - 不用訂閱
+      -
+      -
+      -
+      -
+      -
+      -
+      -
+      -
+<!-- end list -->
+
+  - 要訂閱
+      -
+      -
+<!-- end list -->
+
+1.
+
+2.
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+10.
+
+11.
+
+12.
+13.
+14.
+
+15.
+
+16.
+
+17.
+18.
+
+19.
+20.
+
+21.
+
+22.
+23.
+24.
+
+25.
+
+26.
+
+27.
+28.
+
+29.
+
+30.
+
+31.
+
+32.
+
+33.
+
+34.
+
+35.
+
+36.
+
+37.
+
+38.
+
+39.
+
+40.
+
+41.
+
+42.
+43.
+44.
+
+45.
+
+46.
+
+47.
+48.
+
+49.
+50.
+51.
+
+52.
+
+53.
+54.
+
+55.
+
+56.
+
+57.
+
+58.
+
+59.
+
+60.
+
+61.
+
+62.
+
+63.
+
+64.
+65.
+
+66.
+
+67.
+
+68.
+69.
+70.

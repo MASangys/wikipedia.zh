@@ -239,7 +239,7 @@
 <td><p>都文京</p></td>
 <td><p>女法官，與高泰林同在司法研習所研習時，常常因輸給高泰林而屈居而第二名。<br />
 曾經是高泰林的女友，但因偶然遇到自己的初戀而出軌，而高泰林為了保護她而故意與閔周京公開出軌，以避免其遭受批評。</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/何凱怡" title="wikilink">何凱怡</a></p></td>
+<td><p><a href="../Page/何凱怡.md" title="wikilink">何凱怡</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/曹璐.md" title="wikilink">曹璐</a></p></td>
