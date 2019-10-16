@@ -88,7 +88,7 @@
 [OP_BoaSandersonia.jpg](https://zh.wikipedia.org/wiki/File:OP_BoaSandersonia.jpg "fig:OP_BoaSandersonia.jpg")
 
   - <span id="波雅·桑塔索妮雅"></span>
-    聲優：[齋藤千和](https://zh.wikipedia.org/wiki/齋藤千和 "wikilink")、[金田朋子](../Page/金田朋子.md "wikilink")〔幼年時期〕（日本）；[許淑嬪](../Page/許淑嬪.md "wikilink")（台灣）；[陳雪瑩](https://zh.wikipedia.org/wiki/陳雪瑩 "wikilink")（香港）
+    聲優：[齋藤千和](https://zh.wikipedia.org/wiki/齋藤千和 "wikilink")、[金田朋子](../Page/金田朋子.md "wikilink")〔幼年時期〕（日本）；[許淑嬪](../Page/許淑嬪.md "wikilink")（台灣）；[陳雪瑩](../Page/陳雪瑩.md "wikilink")（香港）
     年齡：(第一部)28歲→(第二部)30歲/生日：9月3日/星座：處女座/身高：453公分/血型：S型/出身地：女人島「亞馬遜•百合」/喜歡的食物：[小籠包](../Page/小籠包.md "wikilink")/霸氣：[見聞色、武裝色](https://zh.wikipedia.org/wiki/ONE_PIECE用語列表#霸氣 "wikilink")。
     九蛇海賊團戰鬥員，蛇髮魔女三姐妹老二。特徵是一頭綠色長髮，以及足足比身體大一倍的頭部。寵物是[黑豹芭秋菈](https://zh.wikipedia.org/wiki/黑豹 "wikilink")。\[24\]</small>。**懸賞金額：4,000萬貝里**（在漢考克成為七武海前→恢復懸賞）。
     年幼時期的桑塔索妮雅曾在前傳零話裡短暫登場<small>\[25\]</small>。在淪為奴隸的期間，桑塔索妮雅因為天龍人的一時興起而被迫吃下惡魔果實，成為**動物系「[蛇蛇果實 蟒蛇型態](../Page/惡魔果實.md "wikilink")」**能力者，蟒蛇人，蟒蛇的身體可以纏住對手，再利用強大的勁力絞殺。

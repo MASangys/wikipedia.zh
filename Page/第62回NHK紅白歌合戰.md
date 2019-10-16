@@ -47,7 +47,7 @@
       - 主演上半年的NHK[晨間小說連續劇](https://zh.wikipedia.org/wiki/晨間小說連續劇 "wikilink")《[太陽公公](../Page/太陽公公.md "wikilink")》，飾演須藤（丸山）陽子役
       - 最初謝絕擔任主持人，後來因NHK的盛情邀請而接受\[3\]。
   - 白組
-    [嵐](../Page/嵐.md "wikilink")（[大野智](../Page/大野智.md "wikilink")、[櫻井翔](../Page/櫻井翔.md "wikilink")、[相葉雅紀](https://zh.wikipedia.org/wiki/相葉雅紀 "wikilink")、[二宮和也](../Page/二宮和也.md "wikilink")、[松本潤](https://zh.wikipedia.org/wiki/松本潤 "wikilink")）
+    [嵐](../Page/嵐.md "wikilink")（[大野智](../Page/大野智.md "wikilink")、[櫻井翔](../Page/櫻井翔.md "wikilink")、[相葉雅紀](https://zh.wikipedia.org/wiki/相葉雅紀 "wikilink")、[二宮和也](../Page/二宮和也.md "wikilink")、[松本潤](../Page/松本潤.md "wikilink")）
       - 連續兩屆擔任白組主持人。
   - 綜合
     [阿部涉](../Page/阿部涉.md "wikilink")（NHK東京播報室）

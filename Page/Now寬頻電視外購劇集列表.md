@@ -477,7 +477,7 @@
 <td><p>10</p></td>
 <td><p>日本</p></td>
 <td><p><a href="../Page/彩虹閃耀夏之戀.md" title="wikilink">虹色夏戀</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/松本潤" title="wikilink">松本潤</a>、<a href="../Page/竹內結子.md" title="wikilink">竹內結子</a></p></td>
+<td><p><a href="../Page/松本潤.md" title="wikilink">松本潤</a>、<a href="../Page/竹內結子.md" title="wikilink">竹內結子</a></p></td>
 <td></td>
 <td></td>
 </tr>

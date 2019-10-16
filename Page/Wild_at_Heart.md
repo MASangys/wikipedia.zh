@@ -5,7 +5,7 @@
   - 與前作《[迷宮戀曲](../Page/迷宮戀曲.md "wikilink")》發售日期相距4個月，是嵐2012年的首張單曲。
   - 單曲分為「初回限定版」及「通常版」兩種形式發售。初回限定版收錄了主打曲《Wild at Heart》的[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")，以及附送共16頁的歌詞冊。
   - 此單曲與《[Lotus](https://zh.wikipedia.org/wiki/Lotus "wikilink")》及《迷宮戀曲》一樣，並沒有收錄音樂錄影帶的製作特輯。
-  - 主打曲《Wild at Heart》是嵐成員[松本潤主演的](https://zh.wikipedia.org/wiki/松本潤 "wikilink")[富士電視台](../Page/富士電視台.md "wikilink")[月九連續劇](../Page/富士電視台週一晚間九點連續劇.md "wikilink")《[Lucky Seven](https://zh.wikipedia.org/wiki/Lucky_Seven "wikilink")》之主題曲。
+  - 主打曲《Wild at Heart》是嵐成員[松本潤](../Page/松本潤.md "wikilink")主演的[富士電視台](../Page/富士電視台.md "wikilink")[月九連續劇](../Page/富士電視台週一晚間九點連續劇.md "wikilink")《[Lucky Seven](https://zh.wikipedia.org/wiki/Lucky_Seven "wikilink")》之主題曲。
   - 在[第63回NHK紅白歌合戰](../Page/第63回NHK紅白歌合戰.md "wikilink")以組曲形式演唱（**Wild at Heart** + [Face Down](../Page/Face_Down.md "wikilink")）
 
 ## 主要紀錄

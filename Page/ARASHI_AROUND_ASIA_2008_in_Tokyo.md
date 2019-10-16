@@ -48,7 +48,7 @@
 22. Truth
 23. Step and Go
 24. A Day in Our Life
-25. Tell Me What You Wanna Be?<small>([松本潤獨唱](https://zh.wikipedia.org/wiki/松本潤 "wikilink"))</small>
+25. Tell Me What You Wanna Be?<small>([松本潤](../Page/松本潤.md "wikilink")獨唱)</small>
 26. 一億顆星星(イチオクノホシ)
 27. 天狼星
 28. Hip Pop Boogie<small>([櫻井翔](../Page/櫻井翔.md "wikilink")獨唱)</small>

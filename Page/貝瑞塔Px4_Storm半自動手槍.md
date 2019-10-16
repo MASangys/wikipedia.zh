@@ -169,7 +169,7 @@ Px4有四種型號：
   - [貝瑞塔9000](../Page/貝瑞塔9000半自動手槍.md "wikilink")
   - [貝瑞塔BU9 Nano](../Page/貝瑞塔BU9_Nano半自動手槍.md "wikilink")
   - [貝瑞塔Pico](../Page/貝瑞塔Pico半自動手槍.md "wikilink")
-  - [貝瑞塔APX](https://zh.wikipedia.org/wiki/貝瑞塔APX半自動手槍 "wikilink")
+  - [貝瑞塔APX](../Page/貝瑞塔APX半自動手槍.md "wikilink")
   - [貝瑞塔Cx4 Storm](../Page/貝瑞塔Cx4_Storm卡賓槍.md "wikilink")，[半自動手槍](../Page/半自動手槍.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[卡賓槍](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")
   - [貝瑞塔Rx4 Storm](../Page/貝瑞塔Rx4_Storm半自動步槍.md "wikilink")，[5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")[北約口徑](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[半自動步槍](https://zh.wikipedia.org/wiki/半自動步槍 "wikilink")
   - [貝瑞塔Tx4 Storm](../Page/貝瑞塔Tx4_Storm半自動霰彈槍.md "wikilink")，[12鉛徑](../Page/散彈.md "wikilink")[半自動霰彈槍](https://zh.wikipedia.org/wiki/半自動霰彈槍 "wikilink")

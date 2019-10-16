@@ -6,7 +6,7 @@
   - 與前作一樣，分初回限定盤、通常盤2種形態發售。每種版本除收入「My Girl」、「發條鐘的傘」2曲外，初回限定盤附贈「My Girl」的PV及幕後製作花絮，通常盤再加上c/w曲「Super Fresh」及3曲的Original Karaoke一共6曲。
   - 主打歌是成員[相葉雅紀主演](https://zh.wikipedia.org/wiki/相葉雅紀 "wikilink")、[朝日電視台](../Page/朝日電視台.md "wikilink")週五深夜劇場《[我的乖乖女 \~My Girl\~](../Page/我的乖乖女.md "wikilink")》的主題曲。以嵐名義\[1\]接手朝日台的連續劇主題歌的，是自「[眼中的銀河](https://zh.wikipedia.org/wiki/眼中的銀河/Hero "wikilink")」以來。
   - c/w曲「發條鐘的傘」是成員[大野智](../Page/大野智.md "wikilink")擔任主角的[富士電視台](../Page/富士電視台.md "wikilink")劇集《》的主題曲。上一次演唱富士台的劇集主題曲已是「[朝著明天吶喊](../Page/A·RA·SHI.md "wikilink")」即10年前的事了。而曲中亦包含成員[櫻井翔](../Page/櫻井翔.md "wikilink")的Rap，於c/w而言是自「[Still...](../Page/Happiness_\(嵐\).md "wikilink")」以來。这首歌自随「My Girl」发行后一直没有现场演出，直到2012年12月26日发行的《ARASHI AraFes NATIONAL STADIUM 2012》演唱会DVD中，才收录了该曲在2012年9月霞丘陆上竞技场的现场表演。
-  - 「My Girl」的PV中，嵐五子飾演舞駕\[2\]家的五兄弟。角色分別是[大野為一郎](../Page/大野智.md "wikilink")、[櫻井為二郎](../Page/櫻井翔.md "wikilink")、[相葉為三郎](https://zh.wikipedia.org/wiki/相葉雅紀 "wikilink")、[二宮為四郎及](../Page/二宮和也.md "wikilink")[松本為五郎](https://zh.wikipedia.org/wiki/松本潤 "wikilink")。故事講述五兄弟原本準備搬家，他們收拾東西時在家中找出各自不同小時候的東西。而三郎在執拾期間找到一本舊相簿，尾頁夾著已過世媽媽花子過去寫的信，他把這封信交給其他兄弟，最後五兄弟決定不搬家，與過世的媽媽繼續一起居住，故事極具溫情。順帶一提，MV 中母親的樣子是由5位成員面部各一個部分所合成的。
+  - 「My Girl」的PV中，嵐五子飾演舞駕\[2\]家的五兄弟。角色分別是[大野為一郎](../Page/大野智.md "wikilink")、[櫻井為二郎](../Page/櫻井翔.md "wikilink")、[相葉為三郎](https://zh.wikipedia.org/wiki/相葉雅紀 "wikilink")、[二宮為四郎及](../Page/二宮和也.md "wikilink")[松本為五郎](../Page/松本潤.md "wikilink")。故事講述五兄弟原本準備搬家，他們收拾東西時在家中找出各自不同小時候的東西。而三郎在執拾期間找到一本舊相簿，尾頁夾著已過世媽媽花子過去寫的信，他把這封信交給其他兄弟，最後五兄弟決定不搬家，與過世的媽媽繼續一起居住，故事極具溫情。順帶一提，MV 中母親的樣子是由5位成員面部各一個部分所合成的。
   - 初回限定盤附有全16頁的歌詞本。
 
 ### 主要紀錄

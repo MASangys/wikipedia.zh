@@ -39,7 +39,7 @@
 ### Sonora
 
   - 2019年2月22日：[我的未來是戀愛與課金 ～Charge To The Future～](../Page/我的未來是戀愛與課金_～Charge_To_The_Future～.md "wikilink")（～Charge To The Future～）
-  - 2019年9月27日：[同班的偶像同學。Around me is full by a celebrity.](https://zh.wikipedia.org/wiki/同班的偶像同學。 "wikilink")（）
+  - 2019年9月27日：[同班的偶像同學。 me is full by a celebrity.](../Page/同班的偶像同學。.md "wikilink")Around（）
 
 ## 參考資料
 

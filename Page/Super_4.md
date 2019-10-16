@@ -1,4 +1,4 @@
-**Super 4**是[香港](../Page/香港.md "wikilink")一隊[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，由[劉威煌](../Page/劉威煌.md "wikilink")、[林師傑](https://zh.wikipedia.org/wiki/林師傑 "wikilink")、[許廷鏗](https://zh.wikipedia.org/wiki/許廷鏗 "wikilink")、[陳鴻碩](../Page/陳鴻碩.md "wikilink")四位男生組成，於2010年成立，其唱片公司為[正視音樂](https://zh.wikipedia.org/wiki/正視音樂 "wikilink")。
+**Super 4**是[香港](../Page/香港.md "wikilink")一隊[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，由[劉威煌](../Page/劉威煌.md "wikilink")、[林師傑](https://zh.wikipedia.org/wiki/林師傑 "wikilink")、[許廷鏗](https://zh.wikipedia.org/wiki/許廷鏗 "wikilink")、[陳鴻碩](../Page/陳鴻碩.md "wikilink")四位男生組成，於2010年成立，其唱片公司為[正視音樂](../Page/正視音樂.md "wikilink")。
 
 ## 出道歷程
 

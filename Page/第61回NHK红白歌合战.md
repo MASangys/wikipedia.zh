@@ -174,7 +174,7 @@
 ## 主持人
 
   - 紅組：[松下奈緒](../Page/松下奈緒.md "wikilink")（主演2010年播出的[NHK晨間劇](https://zh.wikipedia.org/wiki/晨間小說連續劇 "wikilink")《[鬼太郎的老婆](https://zh.wikipedia.org/wiki/鬼太郎的老婆 "wikilink")》）
-  - 白組：[嵐](../Page/嵐.md "wikilink")（[大野智](../Page/大野智.md "wikilink")、[櫻井翔](../Page/櫻井翔.md "wikilink")、[相葉雅紀](https://zh.wikipedia.org/wiki/相葉雅紀 "wikilink")、[二宮和也](../Page/二宮和也.md "wikilink")、[松本潤](https://zh.wikipedia.org/wiki/松本潤 "wikilink")）
+  - 白組：[嵐](../Page/嵐.md "wikilink")（[大野智](../Page/大野智.md "wikilink")、[櫻井翔](../Page/櫻井翔.md "wikilink")、[相葉雅紀](https://zh.wikipedia.org/wiki/相葉雅紀 "wikilink")、[二宮和也](../Page/二宮和也.md "wikilink")、[松本潤](../Page/松本潤.md "wikilink")）
   - 綜合：[阿部渉](https://zh.wikipedia.org/wiki/阿部渉 "wikilink")（NHK[主播](https://zh.wikipedia.org/wiki/主播 "wikilink")；連續兩年擔任綜合主持人）
   - [電台直播](../Page/電台廣播.md "wikilink")：[小松宏司](https://zh.wikipedia.org/wiki/小松宏司 "wikilink")、[黑崎惠](https://zh.wikipedia.org/wiki/黑崎惠 "wikilink")（NHK主播）
 

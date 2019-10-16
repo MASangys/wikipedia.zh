@@ -11,8 +11,8 @@
 ## 參見
 
   - [自動馬格南半自動手槍](../Page/自動麥林手槍.md "wikilink")
-  - [自動馬格南III型半自動手槍](https://zh.wikipedia.org/wiki/自動馬格南III型半自動手槍 "wikilink")
-  - [自動馬格南IV型半自動手槍](https://zh.wikipedia.org/wiki/自動馬格南IV型半自動手槍 "wikilink")
+  - [自動馬格南III型半自動手槍](../Page/自動馬格南III型半自動手槍.md "wikilink")
+  - [自動馬格南IV型半自動手槍](../Page/自動馬格南IV型半自動手槍.md "wikilink")
   - [自動馬格南V型半自動手槍](../Page/自動馬格南V型半自動手槍.md "wikilink")
   - [格倫德爾P30半自動手槍](../Page/格倫德爾P30半自動手槍.md "wikilink")
   - [Kel-Tec PMR-30半自動手槍](../Page/Kel-Tec_PMR-30半自動手槍.md "wikilink")

@@ -122,7 +122,7 @@ EXO出道至今，已經在[亞洲地區累積相當高的人氣](https://zh.wik
 
 6月24日，EXO被任命為「韓國觀光榮譽大使」，希望能拓展韓國觀光在外國的知名度，提升韓國觀光的形象和吸引外國遊客到韓國旅遊。\[86\]
 
-7月14日，世界第一高建筑[迪拜](https://zh.wikipedia.org/wiki/迪拜 "wikilink")[哈利法塔举行了以EXO为主题的超大型LED](https://zh.wikipedia.org/wiki/哈利法塔 "wikilink") Show。这是哈利法塔首次以非王室成员为主题的人物LED Show。同年7月15日，[2018年俄罗斯世界杯法国和克罗地亚的决赛上](https://zh.wikipedia.org/wiki/2018年俄罗斯世界杯 "wikilink")，EXO的热门歌曲《Power》被选为赛场音乐在[卢日尼基体育场](../Page/卢日尼基体育场.md "wikilink")播放，使现场气氛达到高潮。\[87\]
+7月14日，世界第一高建筑[迪拜](https://zh.wikipedia.org/wiki/迪拜 "wikilink")[哈利法塔](../Page/哈利法塔.md "wikilink")举行了以EXO为主题的超大型LED Show。这是哈利法塔首次以非王室成员为主题的人物LED Show。同年7月15日，[2018年俄罗斯世界杯法国和克罗地亚的决赛上](https://zh.wikipedia.org/wiki/2018年俄罗斯世界杯 "wikilink")，EXO的热门歌曲《Power》被选为赛场音乐在[卢日尼基体育场](../Page/卢日尼基体育场.md "wikilink")播放，使现场气氛达到高潮。\[87\]
 
 11月2日，第五張正規專輯《[Don't Mess Up My Tempo](../Page/Don't_Mess_Up_My_Tempo.md "wikilink")》發行。成員Lay參與了此次專輯中文版的音源錄製和MV拍攝，這是自2016年《[EX'ACT](../Page/EX'ACT.md "wikilink")》專輯後Lay再次參與EXO團體專輯錄製。\[88\]截至2018年10月30日，專輯預售量達到1,104,617張，刷新EXO自身專輯預售量記錄，這讓EXO連續5張正規專輯都成功登上百萬寶座。\[89\]此外，專輯發佈當天不僅拿下韓國國内榜單冠軍， 更拿下全球47個國家及地區的iTunes綜合專輯榜冠軍。主打歌《Tempo》也於韓國最大音樂榜MelOn及Soribada拿下冠軍，以及於中國的蝦米音樂綜合榜拿下第一名。\[90\]
 

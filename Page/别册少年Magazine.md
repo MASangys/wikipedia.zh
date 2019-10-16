@@ -24,7 +24,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/飛翔的魔女" title="wikilink">飛翔的魔女</a></p></td>
+<td><p><a href="../Page/飛翔的魔女.md" title="wikilink">飛翔的魔女</a></p></td>
 <td></td>
 <td><p><a href="../Page/石塚千尋.md" title="wikilink">石塚千尋</a></p></td>
 <td><p>2012年9月號</p></td>

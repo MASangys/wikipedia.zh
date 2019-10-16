@@ -471,7 +471,7 @@
 | 406 | 2月2日   | 謝文欣、李晧軒、Myar、黃紫藍　難忘首次參與頒獎禮 | [謝文欣](../Page/謝文欣.md "wikilink")、[李晧軒](../Page/李晧軒.md "wikilink")、[Myar](../Page/Myar.md "wikilink")、[黃紫藍](https://zh.wikipedia.org/wiki/黃紫藍 "wikilink") |
 | 407 | 2月9日   | 梁釗峰　一個人在途上                 | [梁釗峰](../Page/梁釗峰.md "wikilink")                                                                                                                         |
 | 408 | 2月16日  | HANA、陳健安　從創作到處境劇           | [HANA](../Page/菊梓喬.md "wikilink")、[陳健安](../Page/陳健安.md "wikilink")                                                                                       |
-| 409 | 2月23日  | After10、Pandora　樂隊夾人最重要    | [After10](../Page/After10.md "wikilink")、[Pandora](https://zh.wikipedia.org/wiki/潘朵拉樂團 "wikilink")                                                       |
+| 409 | 2月23日  | After10、Pandora　樂隊夾人最重要    | [After10](../Page/After10.md "wikilink")、[Pandora](../Page/潘朵拉樂團.md "wikilink")                                                                          |
 | 410 | 3月2日   | 張紋嘉、伍富橋　唱歌以外的新目標           | [張紋嘉](../Page/張紋嘉.md "wikilink")、[伍富橋](../Page/伍富橋.md "wikilink")                                                                                        |
 | 411 | 3月9日   | 鄭世豪、黃妍　創作火花四起              | [鄭世豪](../Page/鄭世豪.md "wikilink")、[黃妍](../Page/黃妍.md "wikilink")                                                                                          |
 | 412 | 3月16日  | 吳若希、關楚耀　互笠高帽               | [吳若希](../Page/吳若希.md "wikilink")、[關楚耀](../Page/關楚耀.md "wikilink")                                                                                        |

@@ -24,7 +24,7 @@
 
 ### 現況（停業）
 
-根據韓國國家信息及信用評價有限公司（NICE）的報告\[10\]，B2M目前已經停業。有一說B2M已於2017年6月30日結束營業，原先與CJ E\&M音樂事業部門 （後稱[Stone Music Entertainment](../Page/Stone_Music_Entertainment.md "wikilink")）聯合管理的藝人包含[SG Wannabe](../Page/SG_Wannabe.md "wikilink")、[Davinchi](https://zh.wikipedia.org/wiki/Davinchi "wikilink")、[Eric Nam則轉至](../Page/Eric_Nam.md "wikilink")[MMO Entertainment的子公司](https://zh.wikipedia.org/wiki/MMO_Entertainment "wikilink") Lime Music Entertainment（라임뮤직엔터테인먼트）\[11\]。
+根據韓國國家信息及信用評價有限公司（NICE）的報告\[10\]，B2M目前已經停業。有一說B2M已於2017年6月30日結束營業，原先與CJ E\&M音樂事業部門 （後稱[Stone Music Entertainment](../Page/Stone_Music_Entertainment.md "wikilink")）聯合管理的藝人包含[SG Wannabe](../Page/SG_Wannabe.md "wikilink")、[Davinchi](https://zh.wikipedia.org/wiki/Davinchi "wikilink")、[Eric Nam則轉至](../Page/Eric_Nam.md "wikilink")[MMO Entertainment的子公司](../Page/MMO_Entertainment.md "wikilink") Lime Music Entertainment（라임뮤직엔터테인먼트）\[11\]。
 
 ## 旗下藝人
 

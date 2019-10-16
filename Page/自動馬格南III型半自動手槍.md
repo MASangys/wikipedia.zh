@@ -16,7 +16,7 @@
 
   - [自動馬格南半自動手槍](../Page/自動麥林手槍.md "wikilink")
   - [自動馬格南II型半自動手槍](../Page/自動馬格南II型半自動手槍.md "wikilink")
-  - [自動馬格南IV型半自動手槍](https://zh.wikipedia.org/wiki/自動馬格南IV型半自動手槍 "wikilink")
+  - [自動馬格南IV型半自動手槍](../Page/自動馬格南IV型半自動手槍.md "wikilink")
   - [自動馬格南V型半自動手槍](../Page/自動馬格南V型半自動手槍.md "wikilink")
 
 ## 資料來源

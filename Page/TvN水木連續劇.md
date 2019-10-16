@@ -353,7 +353,7 @@
 <tr class="odd">
 <td style="text-align: center;"><p>2019年9月25日－<br />
 2019年</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/清日電子李小姐" title="wikilink">清日電子李小姐</a><br />
+<td style="text-align: center;"><p><a href="../Page/清日電子李小姐.md" title="wikilink">清日電子李小姐</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/惠利.md" title="wikilink">惠利</a>、<a href="../Page/嚴賢璟.md" title="wikilink">嚴賢璟</a>、<a href="https://zh.wikipedia.org/wiki/李昌燁" title="wikilink">李昌燁</a></p></td>
@@ -364,7 +364,7 @@
 <tr class="even">
 <td style="text-align: center;"><p>2019年11月－<br />
 2019年</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/精神病患者日記" title="wikilink">精神病患者日記</a><br />
+<td style="text-align: center;"><p><a href="../Page/精神病患者日記.md" title="wikilink">精神病患者日記</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/尹施允.md" title="wikilink">尹施允</a>、<a href="https://zh.wikipedia.org/wiki/鄭吝善" title="wikilink">鄭吝善</a></p></td>

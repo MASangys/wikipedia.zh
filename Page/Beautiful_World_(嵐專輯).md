@@ -32,7 +32,7 @@
 5.  **Shake it \!**
     （作詞・作曲：The仙台セピア　編曲：吉岡たく）
       -
-        [松本潤solo](https://zh.wikipedia.org/wiki/松本潤 "wikilink")
+        [松本潤](../Page/松本潤.md "wikilink")solo
 6.  **彩虹的碎片 〜no rain, no rainbow〜**（虹のカケラ 〜no rain, no rainbow〜）
     （作詞：Osami・Octobar　作曲：Carl Utbult・Chris Meyer・Taisho　編曲：石塚知生）
 7.  **[Dear Snow](../Page/Dear_Snow.md "wikilink")**

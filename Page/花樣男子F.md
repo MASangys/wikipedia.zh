@@ -2,7 +2,7 @@
 
 ## 故事概要
 
-故事發生於《流星花園2》的四年之後，牧野杉菜（[井上真央](../Page/井上真央.md "wikilink") 飾）已從[大學](../Page/大學.md "wikilink")畢業。道明寺財閥總裁道明寺司（[松本潤](https://zh.wikipedia.org/wiki/松本潤 "wikilink") 飾）向世界宣布他和杉菜訂婚的消息。從前竭力反對兩人交往的司的母親道明寺楓（[加賀麻里子](https://zh.wikipedia.org/wiki/加賀麻里子 "wikilink") 飾）也認可了這門婚事，在與杉菜的雙親的正式會面時，道明寺楓將價值約100億日圓、見證婚禮、象徵「永恆的愛」的皇冠「維納斯的微笑」交給了杉菜。
+故事發生於《流星花園2》的四年之後，牧野杉菜（[井上真央](../Page/井上真央.md "wikilink") 飾）已從[大學](../Page/大學.md "wikilink")畢業。道明寺財閥總裁道明寺司（[松本潤](../Page/松本潤.md "wikilink") 飾）向世界宣布他和杉菜訂婚的消息。從前竭力反對兩人交往的司的母親道明寺楓（[加賀麻里子](https://zh.wikipedia.org/wiki/加賀麻里子 "wikilink") 飾）也認可了這門婚事，在與杉菜的雙親的正式會面時，道明寺楓將價值約100億日圓、見證婚禮、象徵「永恆的愛」的皇冠「維納斯的微笑」交給了杉菜。
 
 接受了這份厚禮之後，司和牧野一家在一間酒店內共處。杉菜的家人去就餐之後，房間內剩下杉菜和司。兩人準備接吻時，突然一名神秘黑衣人破窗而入搶走了皇冠，司馬上追趕。整間酒店被追逐和打鬥弄得混亂不堪，但是最終皇冠還是被賊人成功搶走。司回到房間，發現剛才被打碎的窗戶完整無缺，詢問酒店內其他人也表示沒發覺有事情發生，剛才的大混亂好像完全沒發生過一樣。司的直覺知道事情的背後肯定不簡單。
 
@@ -23,7 +23,7 @@
 ## 人物介紹
 
   - 牧野杉菜：[井上真央](../Page/井上真央.md "wikilink")
-  - 道明寺司：[松本潤](https://zh.wikipedia.org/wiki/松本潤 "wikilink")（[嵐](../Page/嵐.md "wikilink")）
+  - 道明寺司：[松本潤](../Page/松本潤.md "wikilink")（[嵐](../Page/嵐.md "wikilink")）
   - 花澤類：[小栗旬](../Page/小栗旬.md "wikilink")
   - 西門總二郎：[松田翔太](../Page/松田翔太.md "wikilink")
   - 美作明：[阿部力](../Page/阿部力.md "wikilink")
@@ -53,7 +53,7 @@
 ## 音樂
 
   - 主題曲：[嵐](../Page/嵐.md "wikilink")《[One Love](../Page/One_Love_\(嵐\).md "wikilink")》（[J Storm](../Page/J_Storm.md "wikilink")）
-  - 片尾曲：男主角[松本潤所屬的](https://zh.wikipedia.org/wiki/松本潤 "wikilink")[傑尼斯偶像團體](../Page/傑尼斯事務所.md "wikilink")[嵐](../Page/嵐.md "wikilink")所演唱。
+  - 片尾曲：男主角[松本潤](../Page/松本潤.md "wikilink")所屬的[傑尼斯偶像團體](../Page/傑尼斯事務所.md "wikilink")[嵐](../Page/嵐.md "wikilink")所演唱。
 
 <!-- end list -->
 

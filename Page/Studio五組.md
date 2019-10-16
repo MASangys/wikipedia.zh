@@ -403,7 +403,7 @@ Studio五組自從成立以來，承包了GONZO時期《-{zh-cn:天才麻将少�
 </tr>
 <tr class="even">
 <td><p>4月－6月</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/飛翔的魔女" title="wikilink">飛翔的魔女</a></p></td>
+<td><p><a href="../Page/飛翔的魔女.md" title="wikilink">飛翔的魔女</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/J.C.STAFF" title="wikilink">J.C.STAFF</a></p></td>
 <td><p>漫畫</p></td>

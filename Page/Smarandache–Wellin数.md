@@ -5,7 +5,7 @@
   -
     [2](../Page/2.md "wikilink"), [23](../Page/23.md "wikilink"), [235](https://zh.wikipedia.org/wiki/235 "wikilink"), [2357](https://zh.wikipedia.org/wiki/2357 "wikilink"), [235711](https://zh.wikipedia.org/wiki/235711 "wikilink"), [23571113](https://zh.wikipedia.org/wiki/23571113 "wikilink"), 2357111317, 235711131719, 23571113171923, 2357111317192329, 235711131719232931, 23571113171923293137, 2357111317192329313741.........
 
-同時是質數的**Smarandache–Wellin數**稱為[Smarandache–Wellin素數](https://zh.wikipedia.org/wiki/Smarandache–Wellin素數 "wikilink")，目前共發現7個，第8個正等待證明。\[1\]
+同時是質數的**Smarandache–Wellin數**稱為[Smarandache–Wellin素數](../Page/Smarandache–Wellin素數.md "wikilink")，目前共發現7個，第8個正等待證明。\[1\]
 
 ## 參見
 

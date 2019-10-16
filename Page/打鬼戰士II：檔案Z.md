@@ -52,7 +52,7 @@
 ## 參見
 
   - [喪屍](../Page/喪屍.md "wikilink")
-  - [僵尸世界大战 (2019年游戏)](https://zh.wikipedia.org/wiki/僵尸世界大战_\(2019年游戏\) "wikilink")
+  - [僵尸世界大战 (2019年游戏)](../Page/僵尸世界大战_\(2019年游戏\).md "wikilink")
 
 ## 外部連結
 
