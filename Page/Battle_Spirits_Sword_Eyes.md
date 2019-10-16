@@ -23,7 +23,7 @@
 <!-- end list -->
 
   -
-    [配音員](../Page/配音員.md "wikilink")：[堀江由衣](../Page/堀江由衣.md "wikilink")（日本）／[何凱怡](https://zh.wikipedia.org/wiki/何凱怡 "wikilink")（香港）
+    [配音員](../Page/配音員.md "wikilink")：[堀江由衣](../Page/堀江由衣.md "wikilink")（日本）／[何凱怡](../Page/何凱怡.md "wikilink")（香港）
     光之黄属性，喜歡甜品，尤其是剑的奶奶做的饼干，自己有一家甜點公司，由於兒時貧窮自立自強建成的，喜歡劍，但经常与劍斗嘴。
 
 <!-- end list -->

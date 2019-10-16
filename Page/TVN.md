@@ -1717,7 +1717,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <td><p>時事教養</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/西伯利亞先遣隊" title="wikilink">西伯利亞先遣隊</a></p></td>
+<td><p><a href="../Page/西伯利亞先遣隊.md" title="wikilink">西伯利亞先遣隊</a></p></td>
 <td><p>2019年9月26日</p></td>
 <td><p>播放中</p></td>
 <td><p>1</p></td>

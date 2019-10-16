@@ -32,7 +32,7 @@
 5.  **We wanna funk, we need a funk**
     （作詞：Shigeo・Bruce R F Smith・John World、作曲：Bruce R F Smith・Mats Ymell、編曲：metropolitan digital clique）
       -
-        [松本潤solo](https://zh.wikipedia.org/wiki/松本潤 "wikilink")
+        [松本潤](../Page/松本潤.md "wikilink")solo
 6.  **two**
     （作詞：Soluna、作曲：Erik Lidbom・R.P.P.、編曲：Erik Lidbom）
       -

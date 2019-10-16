@@ -44,7 +44,7 @@
   - [貝瑞塔M38/42](https://zh.wikipedia.org/wiki/貝瑞塔M38 "wikilink")
   - [貝瑞塔M3](../Page/貝瑞塔M3衝鋒槍.md "wikilink")
   - [貝瑞塔M12／M12S](../Page/貝瑞塔M12衝鋒槍.md "wikilink")
-  - [貝瑞塔Px4 Storm](https://zh.wikipedia.org/wiki/貝瑞塔Px4_Storm半自動手槍 "wikilink")，[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")／[9×21毫米IMI](https://zh.wikipedia.org/wiki/9×21_IMI "wikilink")、[.40 S\&W](../Page/.40_S&W.md "wikilink")、[.45 ACP](../Page/.45_ACP.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")
+  - [貝瑞塔Px4 Storm](../Page/貝瑞塔Px4_Storm半自動手槍.md "wikilink")，[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")／[9×21毫米IMI](https://zh.wikipedia.org/wiki/9×21_IMI "wikilink")、[.40 S\&W](../Page/.40_S&W.md "wikilink")、[.45 ACP](../Page/.45_ACP.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")
   - [貝瑞塔Cx4 Storm](../Page/貝瑞塔Cx4_Storm卡賓槍.md "wikilink")，貝瑞塔Mx4 Storm的長槍管[半自動手槍](../Page/半自動手槍.md "wikilink")[口徑半自動](https://zh.wikipedia.org/wiki/口徑 "wikilink")[卡賓槍版本](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")
   - [貝瑞塔Rx4 Storm](../Page/貝瑞塔Rx4_Storm半自動步槍.md "wikilink")，[5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")[北約口徑](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[半自動步槍](https://zh.wikipedia.org/wiki/半自動步槍 "wikilink")
   - [貝瑞塔Tx4 Storm](../Page/貝瑞塔Tx4_Storm半自動霰彈槍.md "wikilink")，[12鉛徑](../Page/散彈.md "wikilink")[半自動霰彈槍](https://zh.wikipedia.org/wiki/半自動霰彈槍 "wikilink")

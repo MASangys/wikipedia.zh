@@ -147,7 +147,7 @@
   - 2017年：OCN《[Voice](../Page/Voice.md "wikilink")》
   - 2018年: JTBC 《[經常請吃飯的漂亮姐姐](../Page/經常請吃飯的漂亮姐姐.md "wikilink")》
   - 2018年：OCN《[Voice2](../Page/Voice2.md "wikilink")》
-  - 2019年：tvN《[精神病患者日記](https://zh.wikipedia.org/wiki/精神病患者日記 "wikilink")》
+  - 2019年：tvN《[精神病患者日記](../Page/精神病患者日記.md "wikilink")》
   - 2020年：SBS《[Hyena](https://zh.wikipedia.org/wiki/Hyena "wikilink")》
 
 參與投資或製作的電影作品：

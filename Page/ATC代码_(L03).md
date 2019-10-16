@@ -4,7 +4,7 @@
 
   -
     L03AA02 [非格司亭](https://zh.wikipedia.org/wiki/非格司亭 "wikilink")（Filgrastim）
-    L03AA03 [莫拉司亭](https://zh.wikipedia.org/wiki/莫拉司亭 "wikilink")（Molgramostim）
+    L03AA03 [莫拉司亭](../Page/莫拉司亭.md "wikilink")（Molgramostim）
     L03AA09 [沙格司亭](https://zh.wikipedia.org/wiki/沙格司亭 "wikilink")（Sargramostim）
     L03AA10 [来格司亭](https://zh.wikipedia.org/wiki/来格司亭 "wikilink")（Lenograstim）
     L03AA12 [安塞司亭](https://zh.wikipedia.org/wiki/安塞司亭 "wikilink")（Ancestim）

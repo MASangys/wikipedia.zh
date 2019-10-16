@@ -144,7 +144,7 @@
   - [PB消音手槍](../Page/PB消音手槍.md "wikilink")（於漫畫版第23話被伊丹一行人所繳獲）
   - [FN Five-seveN Mk2](../Page/FN_Five-seveN手槍.md "wikilink")（於漫畫版第23話被伊丹一行人所繳獲）
   - [春田XDM](../Page/春田XDM半自動手槍.md "wikilink")（於漫畫版第23話被伊丹一行人所繳獲）
-  - [貝瑞塔BU9 Nano](https://zh.wikipedia.org/wiki/貝瑞塔BU9_Nano半自動手槍 "wikilink")（於漫畫版第23話被伊丹一行人所繳獲，於第32話再度登場）
+  - [貝瑞塔BU9 Nano](../Page/貝瑞塔BU9_Nano半自動手槍.md "wikilink")（於漫畫版第23話被伊丹一行人所繳獲，於第32話再度登場）
 
 <!-- end list -->
 
@@ -470,7 +470,7 @@
   - [SIG P239](../Page/SIG_P239手槍.md "wikilink")（於小說版被[中央情報局](https://zh.wikipedia.org/wiki/中央情報局 "wikilink")[準軍事小隊人員海德格爾所使用](../Page/中央情報局特別行動科.md "wikilink")）
   - [FN Five-seveN Mk2](../Page/FN_Five-seveN手槍.md "wikilink")
   - [春田XDM](../Page/春田XDM半自動手槍.md "wikilink")（於漫畫版第22話被[中央情報局](https://zh.wikipedia.org/wiki/中央情報局 "wikilink")[準軍事小隊人員所使用](../Page/中央情報局特別行動科.md "wikilink")）
-  - [貝瑞塔BU9 Nano](https://zh.wikipedia.org/wiki/貝瑞塔BU9_Nano半自動手槍 "wikilink")
+  - [貝瑞塔BU9 Nano](../Page/貝瑞塔BU9_Nano半自動手槍.md "wikilink")
 
 <!-- end list -->
 

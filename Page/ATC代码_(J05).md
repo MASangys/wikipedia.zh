@@ -54,7 +54,7 @@
     J05AF01 [齐多夫定](../Page/齐多夫定.md "wikilink")（Zidovudine）
     J05AF02 [去羟肌苷](https://zh.wikipedia.org/wiki/去羟肌苷 "wikilink")（Didanosine）
     J05AF03 [扎西他滨](https://zh.wikipedia.org/wiki/扎西他滨 "wikilink")（Zalcitabine）
-    J05AF04 [司他夫定](https://zh.wikipedia.org/wiki/司他夫定 "wikilink")（Stavudine）
+    J05AF04 [司他夫定](../Page/司他夫定.md "wikilink")（Stavudine）
     J05AF05 [拉米夫定](../Page/拉米夫定.md "wikilink")（Lamivudine）
     J05AF06 [阿巴卡韦](https://zh.wikipedia.org/wiki/阿巴卡韦 "wikilink")（Abacavir）
     J05AF07 [替诺福韦双索酯](https://zh.wikipedia.org/wiki/替诺福韦双索酯 "wikilink")（Tenofovir disoproxil）

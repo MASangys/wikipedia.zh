@@ -31,7 +31,7 @@
   -
 
       -
-        出自同名小說家[中島敦](../Page/中島敦.md "wikilink")(なかじま あつし)的作品《》，作品改編自中國明代《[古今說海](https://zh.wikipedia.org/wiki/古今說海 "wikilink")》中的《[人虎傳](https://zh.wikipedia.org/wiki/人虎傳 "wikilink")》，描述一名叫做[李徵的進士因官場不得志](https://zh.wikipedia.org/wiki/李徵 "wikilink")，鬱鬱寡歡後性情丕變，最終變為山中虎怪的故事。故事原篇名為《[李徵](https://zh.wikipedia.org/wiki/李徵 "wikilink")》出自唐代[張讀](https://zh.wikipedia.org/wiki/張讀 "wikilink")《[宣室志](https://zh.wikipedia.org/wiki/宣室志 "wikilink")》後收錄於宋代[李昉編著之](https://zh.wikipedia.org/wiki/李昉 "wikilink")《[太平廣記](../Page/太平廣記.md "wikilink")》中。
+        出自同名小說家[中島敦](../Page/中島敦.md "wikilink")(なかじま あつし)的作品《》，作品改編自中國明代《[古今說海](../Page/古今說海.md "wikilink")》中的《[人虎傳](https://zh.wikipedia.org/wiki/人虎傳 "wikilink")》，描述一名叫做[李徵的進士因官場不得志](https://zh.wikipedia.org/wiki/李徵 "wikilink")，鬱鬱寡歡後性情丕變，最終變為山中虎怪的故事。故事原篇名為《[李徵](https://zh.wikipedia.org/wiki/李徵 "wikilink")》出自唐代[張讀](https://zh.wikipedia.org/wiki/張讀 "wikilink")《[宣室志](https://zh.wikipedia.org/wiki/宣室志 "wikilink")》後收錄於宋代[李昉編著之](https://zh.wikipedia.org/wiki/李昉 "wikilink")《[太平廣記](../Page/太平廣記.md "wikilink")》中。
 
 <!-- end list -->
 

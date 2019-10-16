@@ -26,7 +26,7 @@
 
   - 高中時代認真以搞笑藝人作為目標，和朋友2人組成「人生ほの字組」，當時曾迷惘於往舞蹈事業發展還是往搞笑藝人事業方面上發展。\[7\]。
   - 座右銘是[相田みつを的其一句說話](https://zh.wikipedia.org/wiki/相田みつを "wikilink")「出会いが人を変え、感動が人を動かす」。\[8\]
-  - 出生年月日和[嵐](../Page/嵐.md "wikilink")的[松本潤一樣](https://zh.wikipedia.org/wiki/松本潤 "wikilink")。
+  - 出生年月日和[嵐](../Page/嵐.md "wikilink")的[松本潤](../Page/松本潤.md "wikilink")一樣。
 
 ## 參加團體
 

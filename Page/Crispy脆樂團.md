@@ -6,7 +6,7 @@ Crispy脆樂團，成立於2010年的夏天，是由主唱兼吉他手[Skippy](h
 
 樂團成立之初，Crispy以街頭表演的形式，在台北公館地下道表演。初期表演包括曾在[西門町](../Page/西門町.md "wikilink")的花蝶1525綠茶館駐唱、天母自由野台、光祭，和許多校園內的活動，並在2011年的1月28日，與鼓手[林弼達與bass手](https://zh.wikipedia.org/wiki/林弼達 "wikilink")[石啟瑞](https://zh.wikipedia.org/wiki/石啟瑞 "wikilink")，以四人的編制，在「[二條通綠島小夜曲](https://zh.wikipedia.org/wiki/二條通綠島小夜曲 "wikilink")」舉行第一場2 sets的售票演出。
 
-2011上半年，Crispy除了表演外，也積極參加校際全國創作比賽中。其中〈流浪〉這一首歌，榮獲了淡江大學[金韶獎](../Page/金韶獎.md "wikilink")「創作組第二名」以及「最佳作曲」的肯定；也獲得中華電信創新應用大賽音樂創作校園組「第二名」，並由[丁曉雯老師和](https://zh.wikipedia.org/wiki/丁曉雯 "wikilink")[韓賢光](../Page/韓賢光.md "wikilink")老師製作，將此曲數位發行。
+2011上半年，Crispy除了表演外，也積極參加校際全國創作比賽中。其中〈流浪〉這一首歌，榮獲了淡江大學[金韶獎](../Page/金韶獎.md "wikilink")「創作組第二名」以及「最佳作曲」的肯定；也獲得中華電信創新應用大賽音樂創作校園組「第二名」，並由[丁曉雯](../Page/丁曉雯.md "wikilink")老師和[韓賢光](../Page/韓賢光.md "wikilink")老師製作，將此曲數位發行。
 
 2011年的下半年，Crispy開始踏進了[Live House](https://zh.wikipedia.org/wiki/Live_House "wikilink")，在各展演空間如公館[河岸留言](https://zh.wikipedia.org/wiki/河岸留言 "wikilink")、[女巫店](https://zh.wikipedia.org/wiki/女巫店 "wikilink")、[海邊的卡夫卡](https://zh.wikipedia.org/wiki/海邊的卡夫卡 "wikilink")、[The Wall](https://zh.wikipedia.org/wiki/The_Wall "wikilink")、賣捌所......等等，進行售票演出。
 

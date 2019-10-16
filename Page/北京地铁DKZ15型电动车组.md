@@ -64,7 +64,7 @@ Image:北京地铁10号线二期车辆控制台.jpg|列车驾驶室内 Image:Rou
 
 ### 第1部分
 
-列车从[长春轨道客车出发](https://zh.wikipedia.org/wiki/长春轨道客车 "wikilink")，经[哈大铁路](https://zh.wikipedia.org/wiki/哈大铁路 "wikilink")、[沈山铁路](../Page/沈山铁路.md "wikilink")、[京秦铁路](../Page/京秦铁路.md "wikilink")、[丰双铁路](../Page/丰双铁路.md "wikilink")到达[小红门站](../Page/小红门站_\(铁路\).md "wikilink")，之后通过联络线，进入[北京地铁车辆厂](https://zh.wikipedia.org/wiki/北京地铁车辆厂 "wikilink")，最后通过[北京地铁车辆厂和](https://zh.wikipedia.org/wiki/北京地铁车辆厂 "wikilink")[宋家庄停车场](../Page/宋家庄停车场.md "wikilink")的联络线，之后进入[5号线](../Page/北京地铁5号线.md "wikilink")，最后进入[10号线](../Page/北京地铁10号线.md "wikilink")，到达[万柳车辆段](https://zh.wikipedia.org/wiki/万柳车辆段 "wikilink")。
+列车从[长春轨道客车出发](https://zh.wikipedia.org/wiki/长春轨道客车 "wikilink")，经[哈大铁路](../Page/哈大铁路.md "wikilink")、[沈山铁路](../Page/沈山铁路.md "wikilink")、[京秦铁路](../Page/京秦铁路.md "wikilink")、[丰双铁路](../Page/丰双铁路.md "wikilink")到达[小红门站](../Page/小红门站_\(铁路\).md "wikilink")，之后通过联络线，进入[北京地铁车辆厂](https://zh.wikipedia.org/wiki/北京地铁车辆厂 "wikilink")，最后通过[北京地铁车辆厂和](https://zh.wikipedia.org/wiki/北京地铁车辆厂 "wikilink")[宋家庄停车场](../Page/宋家庄停车场.md "wikilink")的联络线，之后进入[5号线](../Page/北京地铁5号线.md "wikilink")，最后进入[10号线](../Page/北京地铁10号线.md "wikilink")，到达[万柳车辆段](https://zh.wikipedia.org/wiki/万柳车辆段 "wikilink")。
 
 ### 第2部分
 

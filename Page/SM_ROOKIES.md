@@ -48,7 +48,7 @@ SM ROOKIES通過全新演繹名曲的音源及視頻、演出等進行公開，�
 <!-- end list -->
 
   - [NCT](../Page/NCT.md "wikilink")
-      - [泰一](https://zh.wikipedia.org/wiki/文泰一 "wikilink")
+      - [泰一](../Page/文泰一.md "wikilink")
       - [泰容](https://zh.wikipedia.org/wiki/李泰容 "wikilink")
       - [悠太](https://zh.wikipedia.org/wiki/中本悠太 "wikilink")
       - [道英](../Page/道英.md "wikilink")

@@ -250,7 +250,7 @@
 <tr class="odd">
 <td><p>38</p></td>
 <td><p>2014年11月13日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/丁曉雯" title="wikilink">丁曉雯</a>、<a href="../Page/陳建寧.md" title="wikilink">陳建寧</a></p></td>
+<td><p><a href="../Page/丁曉雯.md" title="wikilink">丁曉雯</a>、<a href="../Page/陳建寧.md" title="wikilink">陳建寧</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

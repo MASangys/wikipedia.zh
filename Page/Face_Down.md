@@ -10,7 +10,7 @@
 
 《Face Down》以「什麼才是真正的你我？」為主題，歌詞描述不得不跟「內在的另一個自己」對抗的苦惱與糾葛。\[1\]另外，這首歌裏有[饒舌](../Page/饒舌.md "wikilink")（Rap）的部份，嵐上一首有饒舌部份的單曲已是約3年的《[Believe](https://zh.wikipedia.org/wiki/Believe/烏雲散去，天氣晴 "wikilink")》。
 
-A面曲《Face Down》是由成員[大野智](../Page/大野智.md "wikilink")主演的[月九連續劇](../Page/富士電視台週一晚間九點連續劇.md "wikilink")《[上鎖的房間](../Page/上鎖的房間_\(電視劇\).md "wikilink")》的主題曲。\[2\]上一套月九連續劇《[幸運7人組](../Page/幸運7人組.md "wikilink")》（[松本潤主演](https://zh.wikipedia.org/wiki/松本潤 "wikilink")）的主題曲《[Wild at Heart](../Page/Wild_at_Heart.md "wikilink")》亦是嵐的歌曲\[3\]，為首次有連續兩套月九劇的主題曲都是由同一組藝人演唱。\[4\]
+A面曲《Face Down》是由成員[大野智](../Page/大野智.md "wikilink")主演的[月九連續劇](../Page/富士電視台週一晚間九點連續劇.md "wikilink")《[上鎖的房間](../Page/上鎖的房間_\(電視劇\).md "wikilink")》的主題曲。\[2\]上一套月九連續劇《[幸運7人組](../Page/幸運7人組.md "wikilink")》（[松本潤](../Page/松本潤.md "wikilink")主演）的主題曲《[Wild at Heart](../Page/Wild_at_Heart.md "wikilink")》亦是嵐的歌曲\[3\]，為首次有連續兩套月九劇的主題曲都是由同一組藝人演唱。\[4\]
 
 ## 反應
 

@@ -49,7 +49,7 @@
 
 **泊進之介（）**（[竹内涼真飾](https://zh.wikipedia.org/wiki/竹内涼真 "wikilink")）
 
-**詩島霧子（）**→**泊霧子（）**（[內田理央](../Page/內田理央.md "wikilink")、加藤結（童年期）飾／香港配音：[陳雪瑩](https://zh.wikipedia.org/wiki/陳雪瑩 "wikilink")（電影版）／台灣配音：[李昀晴](../Page/李昀晴.md "wikilink")（電影版））
+**詩島霧子（）**→**泊霧子（）**（[內田理央](../Page/內田理央.md "wikilink")、加藤結（童年期）飾／香港配音：[陳雪瑩](../Page/陳雪瑩.md "wikilink")（電影版）／台灣配音：[李昀晴](../Page/李昀晴.md "wikilink")（電影版））
 
   -
     職位是巡查，與泊進之介同屬特狀課的女警。

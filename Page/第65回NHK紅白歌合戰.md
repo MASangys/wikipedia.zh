@@ -46,7 +46,7 @@
 
   - 白組
 
-:\*[嵐](../Page/嵐.md "wikilink")（[大野智](../Page/大野智.md "wikilink")、[櫻井翔](../Page/櫻井翔.md "wikilink")、[相葉雅紀](https://zh.wikipedia.org/wiki/相葉雅紀 "wikilink")、[二宮和也](../Page/二宮和也.md "wikilink")、[松本潤](https://zh.wikipedia.org/wiki/松本潤 "wikilink")）
+:\*[嵐](../Page/嵐.md "wikilink")（[大野智](../Page/大野智.md "wikilink")、[櫻井翔](../Page/櫻井翔.md "wikilink")、[相葉雅紀](https://zh.wikipedia.org/wiki/相葉雅紀 "wikilink")、[二宮和也](../Page/二宮和也.md "wikilink")、[松本潤](../Page/松本潤.md "wikilink")）
 
 :\*連續五屆擔任白組主持人
 

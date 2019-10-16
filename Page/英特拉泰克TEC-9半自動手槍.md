@@ -14,7 +14,7 @@ TEC-9在1985年至1990年間生產。
 
 TEC-9和其衍生型TEC-DC9其後又被1994年[美国](../Page/美国.md "wikilink")通過了一條名為[聯邦突擊武器禁制法案](https://zh.wikipedia.org/wiki/聯邦突擊武器禁制法案 "wikilink")（，簡稱：AWB）的禁止攻擊武器條款（該條款現已在2004年9月過期）列為19枝違禁槍械的名字。這項禁令幾乎導致其生產停止，並且迫使英特拉泰克公司再推出一款新型號，並且命名為AB-10。AB-10可說是迷你TEC-9（）的無槍口螺紋版本，並且使用被限制於10發的可拆卸式[彈匣](../Page/彈匣.md "wikilink")以取代過去型號所使用的20、32、50發可拆卸式[彈匣](../Page/彈匣.md "wikilink")。不過，它亦可使用禁令以前的型號的[彈匣](../Page/彈匣.md "wikilink")。
 
-然而，在1993年[加利福尼亞街101](https://zh.wikipedia.org/wiki/加利福尼亞街101槍擊案 "wikilink")[槍擊案](https://zh.wikipedia.org/wiki/枪杀 "wikilink")\[1\]\[2\]和後來的1999年[科倫拜高中](../Page/科倫拜校園事件.md "wikilink")[校園槍擊案](https://zh.wikipedia.org/wiki/校園槍擊案 "wikilink")\[3\]\[4\]之中的主兇都使用TEC-9的衍生型犯案過後，這款武器演變成[槍枝暴力的爭論主題](https://zh.wikipedia.org/wiki/美國槍枝暴力問題 "wikilink")。這槍已經在1994年聯邦突擊武器禁制法案之中因其名稱而被禁制。\[5\]加利福尼亞州修訂1989年由[羅伯蒂·魯斯推行的](https://zh.wikipedia.org/wiki/羅伯蒂·魯斯 "wikilink")[攻擊性武器管制法](https://zh.wikipedia.org/wiki/攻擊性武器管制法 "wikilink")（，AWCA），在1999年以後、從2000年1月開始，禁止槍械上具有[槍管罩筒](https://zh.wikipedia.org/wiki/槍管罩筒 "wikilink")。\[6\]\[7\]
+然而，在1993年[加利福尼亞街101](https://zh.wikipedia.org/wiki/加利福尼亞街101槍擊案 "wikilink")[槍擊案](https://zh.wikipedia.org/wiki/枪杀 "wikilink")\[1\]\[2\]和後來的1999年[科倫拜高中](../Page/科倫拜校園事件.md "wikilink")[校園槍擊案](https://zh.wikipedia.org/wiki/校園槍擊案 "wikilink")\[3\]\[4\]之中的主兇都使用TEC-9的衍生型犯案過後，這款武器演變成[槍枝暴力的爭論主題](https://zh.wikipedia.org/wiki/美國槍枝暴力問題 "wikilink")。這槍已經在1994年聯邦突擊武器禁制法案之中因其名稱而被禁制。\[5\]加利福尼亞州修訂1989年由[羅伯蒂·魯斯推行的](https://zh.wikipedia.org/wiki/羅伯蒂·魯斯 "wikilink")[攻擊性武器管制法](https://zh.wikipedia.org/wiki/攻擊性武器管制法 "wikilink")（，AWCA），在1999年以後、從2000年1月開始，禁止槍械上具有[槍管罩筒](../Page/槍管罩筒.md "wikilink")。\[6\]\[7\]
 
 在2001年，加州最高法院裁定，英特拉泰克公司不需要為1993年加利福尼亞街101槍擊案承擔任何責任。\[8\]而在同年，該公司結束業務和AB-10的生產。\[9\]
 

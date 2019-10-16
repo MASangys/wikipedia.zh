@@ -308,7 +308,7 @@
 5.  [硝子のハンマー](https://zh.wikipedia.org/wiki/硝子のハンマー "wikilink")（[貴志祐介](../Page/貴志祐介.md "wikilink")）
 6.  [イニシエーション・ラブ](https://zh.wikipedia.org/wiki/イニシエーション・ラブ "wikilink")（[乾くるみ](https://zh.wikipedia.org/wiki/乾くるみ "wikilink")）
 7.  水の迷宮（[石持浅海](https://zh.wikipedia.org/wiki/石持浅海 "wikilink")）
-8.  アルファベット・パズラーズ（[大山誠一郎](https://zh.wikipedia.org/wiki/大山誠一郎 "wikilink")）
+8.  アルファベット・パズラーズ（[大山誠一郎](../Page/大山誠一郎.md "wikilink")）
 9.  天城一の密室犯罪学教程（[天城一](https://zh.wikipedia.org/wiki/天城一 "wikilink")）
 10. キマイラの新しい城（[殊能将之](https://zh.wikipedia.org/wiki/殊能将之 "wikilink")）
 
@@ -405,7 +405,7 @@
 7.  骸の爪（道尾秀介）
 8.  [福家警部補の挨拶](https://zh.wikipedia.org/wiki/福家警部補の挨拶 "wikilink")（[大倉崇裕](https://zh.wikipedia.org/wiki/大倉崇裕 "wikilink")）
 9.  [向日葵の咲かない夏](https://zh.wikipedia.org/wiki/向日葵の咲かない夏 "wikilink")（道尾秀介）
-10. 仮面幻双曲（[大山誠一郎](https://zh.wikipedia.org/wiki/大山誠一郎 "wikilink")）
+10. 仮面幻双曲（[大山誠一郎](../Page/大山誠一郎.md "wikilink")）
 
 </td>
 
@@ -676,7 +676,7 @@
 **国内**
 
 1.  キングを探せ（[法月綸太郎](https://zh.wikipedia.org/wiki/法月綸太郎 "wikilink")）
-2.  密室蒐集家（[大山誠一郎](https://zh.wikipedia.org/wiki/大山誠一郎 "wikilink")）
+2.  密室蒐集家（[大山誠一郎](../Page/大山誠一郎.md "wikilink")）
 3.  [奇面館の殺人](https://zh.wikipedia.org/wiki/奇面館の殺人 "wikilink")（[綾辻行人](../Page/綾辻行人.md "wikilink")）
 4.  [幽女の如き怨むもの](https://zh.wikipedia.org/wiki/幽女の如き怨むもの "wikilink")（[三津田信三](../Page/三津田信三.md "wikilink")）
 5.  体育館の殺人（[青崎有吾](../Page/青崎有吾.md "wikilink")）
@@ -819,7 +819,7 @@
 3.  [王とサーカス](https://zh.wikipedia.org/wiki/王とサーカス "wikilink")（[米澤穂信](https://zh.wikipedia.org/wiki/米澤穂信 "wikilink")）
 4.  オルゴーリェンヌ（[北山猛邦](../Page/北山猛邦.md "wikilink")）
 5.  [その可能性はすでに考えた](https://zh.wikipedia.org/wiki/その可能性はすでに考えた "wikilink")（[井上真偽](../Page/井上真偽.md "wikilink")）
-6.  赤い博物館（[大山誠一郎](https://zh.wikipedia.org/wiki/大山誠一郎 "wikilink")）
+6.  赤い博物館（[大山誠一郎](../Page/大山誠一郎.md "wikilink")）
 7.  鍵の掛かった男（[有栖川有栖](../Page/有栖川有栖.md "wikilink")）
 8.  東京結合人間（[白井智之](https://zh.wikipedia.org/wiki/白井智之 "wikilink")）
 9.  死と砂時計（[鳥飼否宇](https://zh.wikipedia.org/wiki/鳥飼否宇 "wikilink")）

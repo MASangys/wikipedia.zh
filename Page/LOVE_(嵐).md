@@ -58,7 +58,7 @@
 13. **Dance in the dark**
     （作詞:HYDRANT、作曲:Takuya Harada、SkyLine、Christofer Erixon、編曲:Pieni　tonttu）
       -
-        [松本潤獨唱](https://zh.wikipedia.org/wiki/松本潤 "wikilink")
+        [松本潤](../Page/松本潤.md "wikilink")獨唱
 14. **Starlight kiss**
     （作詞:AKIRA,s-Tnk、Rap詞:櫻井翔、作曲:Fredrik“Figge”Bostrom、川口進、編曲:川口進）
 15. '''FUNKY '''

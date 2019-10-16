@@ -1951,7 +1951,7 @@
 <td><p>仅在中国大陆地区上映</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/中国机长" title="wikilink">中国机长</a></p></td>
+<td><p><a href="../Page/中国机长.md" title="wikilink">中国机长</a></p></td>
 <td><p>2019年9月30日</p></td>
 <td><p>仅在中国大陆地区上映</p></td>
 </tr>

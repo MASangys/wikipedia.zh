@@ -25,7 +25,7 @@
 ## 鄰近設施
 
   - [名阪國道](../Page/名阪國道.md "wikilink")
-    (9)[下柘植IC](https://zh.wikipedia.org/wiki/下柘植IC "wikilink") - (10)**御代IC** - (11)[壬生野IC](https://zh.wikipedia.org/wiki/壬生野IC "wikilink")
+    (9)[下柘植IC](https://zh.wikipedia.org/wiki/下柘植IC "wikilink") - (10)**御代IC** - (11)[壬生野IC](../Page/壬生野IC.md "wikilink")
 
 ## 相關項目
 

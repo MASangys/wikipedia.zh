@@ -42,7 +42,7 @@
 <!-- end list -->
 
   - 兔兔（Cony，可妮兔）
-    聲：[金田晶](../Page/金田晶.md "wikilink")（日）／[曾詩淳](https://zh.wikipedia.org/wiki/曾詩淳 "wikilink")（台）／[何凱怡](https://zh.wikipedia.org/wiki/何凱怡 "wikilink")（港）
+    聲：[金田晶](../Page/金田晶.md "wikilink")（日）／[曾詩淳](https://zh.wikipedia.org/wiki/曾詩淳 "wikilink")（台）／[何凱怡](../Page/何凱怡.md "wikilink")（港）
     總是開朗又時尚，最愛做的事是減肥。
     非常貪吃，所以常常變胖。
     積極樂觀，有時情緒不太穩定。

@@ -30,7 +30,7 @@
 ## 主持人
 
   - 紅組：[綾瀨遙](../Page/綾瀨遙.md "wikilink")（）（本年度[NHK大河劇](../Page/NHK大河劇.md "wikilink")《[八重之櫻](../Page/八重之櫻.md "wikilink")》主演）
-  - 白組：[嵐](../Page/嵐.md "wikilink")（[大野智](../Page/大野智.md "wikilink")、[櫻井翔](../Page/櫻井翔.md "wikilink")、[相葉雅紀](https://zh.wikipedia.org/wiki/相葉雅紀 "wikilink")、[二宮和也](../Page/二宮和也.md "wikilink")、[松本潤](https://zh.wikipedia.org/wiki/松本潤 "wikilink")）
+  - 白組：[嵐](../Page/嵐.md "wikilink")（[大野智](../Page/大野智.md "wikilink")、[櫻井翔](../Page/櫻井翔.md "wikilink")、[相葉雅紀](https://zh.wikipedia.org/wiki/相葉雅紀 "wikilink")、[二宮和也](../Page/二宮和也.md "wikilink")、[松本潤](../Page/松本潤.md "wikilink")）
   - 綜合：[有働由美子](../Page/有働由美子.md "wikilink")（[NHK東京播報室](../Page/NHK放送中心.md "wikilink")）
   - 電台廣播解說：、[久保田祐佳](../Page/久保田祐佳.md "wikilink")
   - 电视第二声道“红白幕后Talk Channel”：（）、

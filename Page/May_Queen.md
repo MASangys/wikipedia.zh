@@ -59,7 +59,7 @@
 <td><center>
 <p>張仁花</p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/陳雪瑩" title="wikilink">陳雪瑩</a></p></td>
+<p><a href="../Page/陳雪瑩.md" title="wikilink">陳雪瑩</a></p></td>
 <td><p>天地集團張道賢的女兒</p></td>
 </tr>
 </tbody>

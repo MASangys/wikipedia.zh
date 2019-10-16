@@ -122,17 +122,17 @@ D型型號是貝瑞塔90two系列的純雙動操作扳機（，簡稱：DAO）�
 
   - [貝瑞塔M9](../Page/貝瑞塔M9手槍.md "wikilink")
 
-  - [貝瑞塔8000](https://zh.wikipedia.org/wiki/貝瑞塔8000半自動手槍 "wikilink")
+  - [貝瑞塔8000](../Page/貝瑞塔8000半自動手槍.md "wikilink")
 
   - [貝瑞塔9000](../Page/貝瑞塔9000半自動手槍.md "wikilink")
 
-  - [貝瑞塔Px4 Storm](https://zh.wikipedia.org/wiki/貝瑞塔Px4_Storm半自動手槍 "wikilink")
+  - [貝瑞塔Px4 Storm](../Page/貝瑞塔Px4_Storm半自動手槍.md "wikilink")
 
-  - [貝瑞塔BU9 Nano](https://zh.wikipedia.org/wiki/貝瑞塔BU9_Nano半自動手槍 "wikilink")
+  - [貝瑞塔BU9 Nano](../Page/貝瑞塔BU9_Nano半自動手槍.md "wikilink")
 
   - [貝瑞塔Pico](../Page/貝瑞塔Pico半自動手槍.md "wikilink")
 
-  - [貝瑞塔APX](https://zh.wikipedia.org/wiki/貝瑞塔APX半自動手槍 "wikilink")
+  - [貝瑞塔APX](../Page/貝瑞塔APX半自動手槍.md "wikilink")
 
 ## 資料來源
 

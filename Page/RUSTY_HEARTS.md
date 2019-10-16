@@ -21,7 +21,7 @@
 ## 音樂合作
 
   - SEGA在線遊戲「RUSTY HEARTS」主題曲（\#1）
-  - [千葉電視台其他全国](https://zh.wikipedia.org/wiki/千葉電視台 "wikilink")23電視台＋[Music Japan TV](https://zh.wikipedia.org/wiki/Music_Japan_TV "wikilink")(SKY Ch.269)「[MUSIC LAUNCHER](https://zh.wikipedia.org/wiki/MUSIC_LAUNCHER "wikilink")」1月度主題曲（\#1）
+  - [千葉電視台其他全国](https://zh.wikipedia.org/wiki/千葉電視台 "wikilink")23電視台＋[Music Japan TV](../Page/Music_Japan_TV.md "wikilink")(SKY Ch.269)「[MUSIC LAUNCHER](https://zh.wikipedia.org/wiki/MUSIC_LAUNCHER "wikilink")」1月度主題曲（\#1）
   - 朝日電視台系全国放送「[Break Out](https://zh.wikipedia.org/wiki/Break_Out_\(電視節目\) "wikilink")」1月度主題曲（\#1）
   - 『[卡片戰鬥先導者](../Page/卡片戰鬥先導者.md "wikilink")』官方印象、CM歌曲（\#2）
   - 「ブシモ Presents WRESTLE KINGDOM 7 ～EVOLUTION～ in [東京巨蛋](../Page/東京巨蛋.md "wikilink")」CM歌曲（\#2）

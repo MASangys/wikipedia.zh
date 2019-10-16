@@ -27,7 +27,7 @@
 
 [MatebaUnica6RearHiRes.jpg](https://zh.wikipedia.org/wiki/File:MatebaUnica6RearHiRes.jpg "fig:MatebaUnica6RearHiRes.jpg")處於打開位置的馬特巴Model 6 Unica的的後視圖。\]\] 與其他[.357 S\&W麥格農左輪手槍一樣](../Page/.357麥格農.md "wikilink")，馬特巴自動左輪手槍在.357 S\&W麥格農時亦可裝填[.38 S\&W特種彈](../Page/.38_Special.md "wikilink")，但是典型.38 S\&W特種彈的[裝藥](../Page/裝藥.md "wikilink")劑量並沒有足夠的火藥燃氣來令反沖機構充分完成槍機循環，就算武器仍然可以扣動[雙動操作扳機讓彈巢轉動](https://zh.wikipedia.org/wiki/扳機 "wikilink")。\[8\]有兩種可選用的緩衝簧是專門為.38 S\&W特種彈而設計的，可以由操作者進行安裝以解決這個問題（.38 S\&W特種彈和.38[圓柱平頭彈](https://zh.wikipedia.org/wiki/圓柱平頭彈 "wikilink")）。
 
-更換緩衝簧時需要移除滑動組件，而滑動組件是由保持銷用以保持在適當位置，而保持銷本身則是由位於扳機護圈內的小螺絲所固定。[槍管罩筒同時充當緩衝簧固定器和導桿襯套](https://zh.wikipedia.org/wiki/槍管罩筒 "wikilink")。
+更換緩衝簧時需要移除滑動組件，而滑動組件是由保持銷用以保持在適當位置，而保持銷本身則是由位於扳機護圈內的小螺絲所固定。[槍管罩筒](../Page/槍管罩筒.md "wikilink")同時充當緩衝簧固定器和導桿襯套。
 
 ## 流行文化
 

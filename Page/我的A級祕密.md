@@ -46,7 +46,7 @@
 
 ## 電影版
 
-我的A級秘密原著改編之[同名電影版由艾麗斯](https://zh.wikipedia.org/wiki/我的A級秘密_\(電影\) "wikilink")·杜蘭(Elise Duran)導演，\[7\] 女主角由[亞歷珊卓·達迪莉奧](../Page/亞歷珊卓·達迪莉奧.md "wikilink")主演，男主角由[泰勒·霍奇林](../Page/泰勒·霍奇林.md "wikilink")主演。
+我的A級秘密原著改編之[同名電影版由艾麗斯](../Page/我的A級秘密_\(電影\).md "wikilink")·杜蘭(Elise Duran)導演，\[7\] 女主角由[亞歷珊卓·達迪莉奧](../Page/亞歷珊卓·達迪莉奧.md "wikilink")主演，男主角由[泰勒·霍奇林](../Page/泰勒·霍奇林.md "wikilink")主演。
 
 ## 參考資料
 

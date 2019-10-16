@@ -423,7 +423,7 @@ XDM使用了單[復進簧式設計](https://zh.wikipedia.org/wiki/復進簧 "wik
   - [CZ 100](../Page/CZ_100手槍.md "wikilink")
   - [HS95](https://zh.wikipedia.org/wiki/HS95半自動手槍 "wikilink")
   - [HS2000手槍](../Page/HS2000手槍.md "wikilink")（春田XD手槍）
-  - [春田XD-S](https://zh.wikipedia.org/wiki/春田XD-S半自動手槍 "wikilink")
+  - [春田XD-S](../Page/春田XD-S半自動手槍.md "wikilink")
   - [春田911](https://zh.wikipedia.org/wiki/春田911半自動手槍 "wikilink")
   - [VHS突擊步槍](../Page/VHS突擊步槍.md "wikilink")
   - [RBG-6連發式榴彈發射器](https://zh.wikipedia.org/wiki/RBG-6連發式榴彈發射器 "wikilink")

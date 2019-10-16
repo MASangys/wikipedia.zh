@@ -308,7 +308,7 @@
 
   - 《[かくしん的☆めたまるふぉ〜ぜっ！](https://zh.wikipedia.org/wiki/かくしん的☆めたまるふぉ〜ぜっ！ "wikilink")》（[干物妹！小埋](../Page/干物妹！小埋.md "wikilink")的OP）
   - 《[戀愛循環](https://zh.wikipedia.org/wiki/戀愛循環 "wikilink")》（《[化物语](https://zh.wikipedia.org/wiki/化物语 "wikilink")》主题曲）
-  - 《[Daydream café](https://zh.wikipedia.org/wiki/Daydream_café "wikilink")》（[請問您今天要來點兔子嗎第一季的OP](../Page/請問您今天要來點兔子嗎？.md "wikilink")，這在日本NICONICO上較盛行）
+  - 《[Daydream café](../Page/Daydream_café.md "wikilink")》（[請問您今天要來點兔子嗎第一季的OP](../Page/請問您今天要來點兔子嗎？.md "wikilink")，這在日本NICONICO上較盛行）
   - 《[前前前世](../Page/前前前世.md "wikilink")》（日本动漫电影《[你的名字](https://zh.wikipedia.org/wiki/你的名字 "wikilink")》主题曲）
   - 《[目标是神奇宝贝大师](https://zh.wikipedia.org/wiki/目标是神奇宝贝大师 "wikilink")》（[精灵宝可梦](../Page/精灵宝可梦.md "wikilink")主题曲）
   - 《[白金迪斯科](https://zh.wikipedia.org/wiki/白金迪斯科 "wikilink")》（）：动画《[伪物语](https://zh.wikipedia.org/wiki/伪物语 "wikilink")》的片头曲
