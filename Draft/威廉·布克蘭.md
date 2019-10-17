@@ -1,0 +1,164 @@
+**威廉·布克蘭** （，），英國[神學家](https://zh.wikipedia.org/wiki/神學家 "wikilink")，曾任[西敏寺](../Page/西敏寺.md "wikilink")[座堂主任牧師](../Page/座堂主任牧師.md "wikilink")，也是一位地質學家和[古生物學家](../Page/古生物学.md "wikilink")。他撰寫了第一篇關於[恐龙](../Page/恐龙.md "wikilink")[化石](../Page/化石.md "wikilink")的認定論文，並將之命名為[斑龍屬](../Page/斑龍屬.md "wikilink")，更證明了[柯克代尔洞](https://zh.wikipedia.org/wiki/柯克代尔洞 "wikilink")（Kirkdale Cave）在史前時期就有[鬣狗科](../Page/鬣狗科.md "wikilink")聚居的論點，他為此獲頒[科普利獎章](../Page/科普利獎章.md "wikilink")。他認為遠古生態是可以透過科學分析來重新構造，還提出了以使用[糞化石的方式來重構古生態系統](https://zh.wikipedia.org/wiki/糞化石 "wikilink")。
+
+布克蘭是一個支持者，他認為聖經記載的創世紀是描述一個漫長週期中的兩個獨立事件；這個觀點在18世紀末至19世紀初提出，以此來調和聖經記錄以及地質學的關係，從而認定地球的年齡。他相信自己發現了地質證據證實[大洪水](../Page/大洪水.md "wikilink")曾經發生過，但後來相信[大冰期](../Page/大冰期.md "wikilink")的[路易士·阿格西](../Page/路易士·阿格西.md "wikilink")提供了一個更好的解譯。他在推廣地理方面貢獻良多。
+
+## 早年與大學生活
+
+[William_Buckland_bust.JPG](https://zh.wikipedia.org/wiki/File:William_Buckland_bust.JPG "fig:William_Buckland_bust.JPG")的半身像。\]\] 布克蘭生於[德文郡](../Page/德文郡.md "wikilink")[阿克明斯特](../Page/阿克明斯特.md "wikilink")。\[1\]年少時，他的父親是鄧普頓和土斯咸大學的校長。在陪父親去採石場時，他培养了他對地理的興趣，導致他經常收集貝殼化石，包括來自[侏罗纪](../Page/侏罗纪.md "wikilink")早期的[菊石目](../Page/菊石目.md "wikilink")。
+
+布克蘭首先在[德文郡](../Page/德文郡.md "wikilink")[蒂弗頓的](https://zh.wikipedia.org/wiki/蒂弗頓 "wikilink")上學，之後轉校至[温切斯特公学](../Page/温切斯特公学.md "wikilink")。1801年，他獲得了一個獎學金，並在[牛津大學基督聖體學院](../Page/牛津大學基督聖體學院.md "wikilink")完成他的大學學業，且參加了的礦物學和化學講座，以及在假期時開發他對地質學的興趣，進行實地考察。\[2\]在1804年他獲得了學士學位後，又在1808年獲得了碩士學位。於1809年，他成為[聖體市的](https://zh.wikipedia.org/wiki/聖體市 "wikilink")[院士](https://zh.wikipedia.org/wiki/院士 "wikilink")，並任命為牧師，並繼續頻繁地進行他的地質考察，包括了英格蘭，蘇格蘭，愛爾蘭和威爾士。在1813年，他被任命為礦物學講者，延續了給人活潑，通過講座令人越來越重視地質和古生物。由於受到[阿什莫林博物館](../Page/阿什莫林博物館.md "wikilink")館長的影響，他建立了他的化石藏品和歐洲巡演，於是他認識了[喬治·居維葉](../Page/喬治·居維葉.md "wikilink")。
+
+## 洪水的研究
+
+[Buckland_hyena.jpg](https://zh.wikipedia.org/wiki/File:Buckland_hyena.jpg "fig:Buckland_hyena.jpg") 1818年，布克蘭當選為[皇家學會會員](https://zh.wikipedia.org/wiki/皇家學會 "wikilink")。同年，那年他說服了支持攝政王的讀者，這一次是他在地質成為了新任命的第一持有人，並在1819年5月15日發表他的就職演說。這是於1820年發表的《地質與宗教的關係》，既證明地質學與新科學的協調，也創造了「[諾亞洪水](https://zh.wikipedia.org/wiki/諾亞方舟 "wikilink")」的地質證據而此時其他人均認為在[詹姆斯·赫頓和](https://zh.wikipedia.org/wiki/詹姆斯·赫頓 "wikilink")[均變論的對立影響下](https://zh.wikipedia.org/wiki/均變論 "wikilink")，未來一段時間，布克蘭將會想出一種新的假設，即在創世記單詞「開始」的意思是指地球的起源和其目前的居民創造的不確定時期，在其中發生一系列的滅絕以及新的動植物的運作。因此，他認為[災變論是指地球和間隙的神造論](https://zh.wikipedia.org/wiki/災變論 "wikilink")。布克蘭相信在諾亞時代的全球大洪水，一如他所相信，在陸地被洪水所佔領一年時已經形成不少地層。但許多人不太支持此論據。\[3\]
+
+從布克蘭於卡拉逹爾的洞穴的骨化石調查，他的結論是；洞穴實際上已在上古時代已經存在，那些化石已經被[鬣狗科](../Page/鬣狗科.md "wikilink")的動物吃掉，而不是遺跡已經在洪水中消失。 在1822年，他寫道：
+
+> 如上所述，尤其在化石粉碎的狀態，即在卡拉逹爾的洞穴擁有過千年的悠久歷史，此處是[鬣狗科](../Page/鬣狗科.md "wikilink")的住處時，那他們已經可能拖到其凹槽等動物屍體遺骸並自我胡亂和混合：這種推測是由於我做了一個動物固體排泄物的鈣質實驗，那些化石變為很多小球。這由於該動物園在變化時，因為它的外和斑點十分酷似斗篷鬣狗的糞便，因此被人說成此化石已經超出了所有化石。\[4\]
+
+由於一些批評，布克蘭的分析重點普遍被認為是如何小心可能被用來重建地球過去的模式。在1822年，[英國皇家學會宣佈布克蘭為](https://zh.wikipedia.org/wiki/英國皇家學會 "wikilink")[科普利獎章](../Page/科普利獎章.md "wikilink")的得主。\[5\]在得獎時[汉弗里·戴维](../Page/汉弗里·戴维.md "wikilink")說道：
+
+> 通過這些調查，在一個鮮明的時代，它是在建立我們地球的革命歷史：從我們的研究，可以通過年齡的浩瀚和動畫自然的記錄，因此它是一個很漫長的時間。\[6\]
+
+儘管布克蘭的分析說服了他，在卡拉逹爾的洞穴中發現的化石沒有受到全球性的洪水而形成洞穴，但他仍然相信泥薄層覆蓋了鬣狗科動物的遺體是被存放在後來的「通用的洪水」。\[7\]他開發了這些想法變為他的偉大的科學工作或可以說，在有機意見下仍然有證據證明洪水的作用\[8\]這是發表在1823年，並十分暢銷。但在未來十年的地質讓持續進步布克蘭改變了主意。在1836年，他發表了他著名的布里奇沃特論文，他承認，聖經記載的「[諾亞洪水](https://zh.wikipedia.org/wiki/諾亞方舟 "wikilink")」無法使用地質證據來加以證實。\[9\]到1840年，他非常積極的推動已經被新一代的地質學家，如查爾斯·萊爾的解釋為「通用的洪水」。二十年前的證據和深潛的隨後觀點，是由一個大冰期的事實和證據。
+
+## 斑龍屬的研究
+
+[Buckland_family_silhouette.jpg](https://zh.wikipedia.org/wiki/File:Buckland_family_silhouette.jpg "fig:Buckland_family_silhouette.jpg") 布克蘭繼續生活在科珀斯克里斯蒂學院，在1824年，他成為倫敦地質學會會長。在這時，他宣布他發現了在司東費爾德的一個巨大的[爬行動物](https://zh.wikipedia.org/wiki/爬行動物 "wikilink")，他命名為[斑龍屬](../Page/斑龍屬.md "wikilink")（即大蜥蜴），並寫了第一個充分考慮了後來被稱為[恐龍的化石骨](https://zh.wikipedia.org/wiki/恐龍 "wikilink")。
+
+1825年，布克蘭成為[美国文理科学院](../Page/美国文理科学院.md "wikilink")的名譽會員。\[10\]那年，他捥拒接收他的大學獎學金：因為他計劃採取斯托克的慈善基金來資助他在漢普郡的生活，但他被任命為[牧師](https://zh.wikipedia.org/wiki/牧師 "wikilink")。對他來說，他的行政責任比豐富的獎學金重要。
+
+## 婚姻
+
+1825年12月，布克蘭娶了瑪麗·莫蘭作為他的妻子。她是一個插畫家以及化石收藏家。他們渡[蜜月的方式是環遊歐洲一年](https://zh.wikipedia.org/wiki/蜜月 "wikilink")，以參觀著名地質學家和地質遺跡。在此期間，她協助布克蘭的工作。他們有九個孩子，其中有五個存活到成年。 他的兒子弗蘭克·布克蘭成為一個眾所周知的博物學家和作家。有一次，瑪麗幫助他拿起蓋住廚房的桌子裝飾，並發現了一個腳印，而他用自己的寵物龜證實，那[陸龜](../Page/陸龜.md "wikilink")腳印是一件化石。
+
+## 柏婓蘭的的紅娘子
+
+1823年1月18日，布克蘭走進柏斐蘭洞，在那裡他發現了一個骷髏，他命名「柏斐蘭的紅娘子」，他起初認為它是一個本地妓女的遺骸。\[11\]但其實它是在[英國最古老的遺骸](https://zh.wikipedia.org/wiki/英國 "wikilink")。 雖然他發現柏斐蘭洞骨架的同一地層為滅絕的哺乳動物（包括[猛獁象](https://zh.wikipedia.org/wiki/猛獁象 "wikilink")）的骨頭，但[喬治·居維葉](../Page/喬治·居維葉.md "wikilink")認為沒有人曾與任何絕滅動物共存，他歸功於骨架的存在有一個被挖掘的歷史時期，可能是有人建造了一些在附近的前羅馬防禦工事。\[12\]碳數據的測試已經無法預測。因為它的骨架，我們已知它是大約生活在[距今](https://zh.wikipedia.org/wiki/距今 "wikilink")33000年前的男子。\[13\]
+
+## 糞化石和食物鏈
+
+[Duria_Antiquior.jpg](https://zh.wikipedia.org/wiki/File:Duria_Antiquior.jpg "fig:Duria_Antiquior.jpg")新發現的化石。\]\]
+
+化石的發現者[瑪麗·安寧](../Page/瑪麗·安寧.md "wikilink")注意到，被稱為「牛黃化石」的原因是由於在[萊姆·里吉斯發現了](https://zh.wikipedia.org/wiki/萊姆里吉斯 "wikilink")[魚龍目的骨架腹部](https://zh.wikipedia.org/wiki/魚龍目 "wikilink")。她還指出，如果把這些石頭搗碎，因為它們含有化石魚骨鱗，所以它們有時會變成小型[魚龍](https://zh.wikipedia.org/wiki/魚龍目 "wikilink")。這些意見是由安寧和巴克蘭在1829年對該化石的說法。他創造了術語「[糞化石](https://zh.wikipedia.org/wiki/糞化石 "wikilink")」，以表示所有用糞便造成的化石總稱。布克蘭還得出結論，對化石螺旋斑紋的表示方式，魚龍類似於現代的[鯊魚](https://zh.wikipedia.org/wiki/鯊魚 "wikilink")，有螺旋脊，而其中有些糞化石是黑色的，因此魚龍已經從箭石攝入墨囊中。他寫了[侏羅紀早期食物鏈來表示一個生動的描述](https://zh.wikipedia.org/wiki/侏羅紀 "wikilink")。基於這些觀察，這將激發亨利·德·拉·巴濟所繪的《Duria Antiquior》，來自一個遙遠過去場景的第一圖示。\[14\]經過巴濟根據他原本的水彩畫平版印刷，布克蘭手頭上的打印供應已經在他的演講中徘徊。\[15\]他還討論了其他單位中發現其他類似的形象，包括[鬣狗科](../Page/鬣狗科.md "wikilink")動物化石糞便，在卡拉逹爾洞穴中發現。他總結道：
+
+> 在所有這些不同的形態，我們的[糞化石記錄](https://zh.wikipedia.org/wiki/糞化石 "wikilink")，令我們在一個又一個居民的世世代代：石灰不朽的磷酸鹽，從他們的消化骨架衍生，物質和永世的山嶺，已經成為防腐的處理方式；所有吃，到輪到自己被吃的一般規律，顯示一直合作與廣泛存在的動物於地球上；在食肉目中的世界歷史，履行注定辦公室的各個時期，並檢查過剩的生活進步，保持創作的平衡。\[16\]
+
+布克蘭一直在幫助和鼓勵[罗德里克·麦奇生](../Page/罗德里克·麦奇生.md "wikilink")。在1831年向他提出在[南威爾斯將默奇森的研究作為一個出發點以研究](https://zh.wikipedia.org/wiki/南威爾斯 "wikilink")[中生代](../Page/中生代.md "wikilink")的爬行動物年齡相關資料。麥奇生後來命名這些舊的階層，其重點是[志留紀](../Page/志留紀.md "wikilink")的海洋[無脊椎動物化石](https://zh.wikipedia.org/wiki/無脊椎動物 "wikilink")，它們曾經生活在該地區。\[17\]在1832年，布克蘭主持的英國協會，是當時在[牛津大學舉行的第二次會議](https://zh.wikipedia.org/wiki/牛津大學 "wikilink")。
+
+## 自然神學的論據
+
+布克蘭被委任為八套自然神學的論據著作之一，它的主標題是「神的力量、智慧和善良，就像創造一樣」。這作品花了他近五年來的時，最終發表於1836年的[《自然神學、地質學和與礦物學的理論》](https://books.google.com/books?id=MR4HAAAAQAAJ&pg=PA1&dq=william+buckland&ie=ISO-8859-1)。他的內容包括他的一日千年說，山峽創造論，由他的化石記錄表明動物演替是由一系列對地球連續的創作解釋漸進的一種創作形式，並詳細地提及。\[18\]在介紹他所聲稱的[科和生物的](https://zh.wikipedia.org/wiki/科_（生物） "wikilink")[科是一個](https://zh.wikipedia.org/wiki/門_（生物） "wikilink")「詭計群」，並表示：
+
+> 地質所有的研究仍是沒有確切的證明，我們的星球已經處於人類的創造、動物、蔬菜和已滅絕的物種的被佔用，計算起來，就像活有機體的「詭計集群」，這表現出驚人的智慧和力量的鍛煉。T他們還顯示有機的生活對於這些滅絕的種類的建設原則上，使用綱、目和科，從而彌補了現有的動植物生活圈，它們不僅支撐得起的數量的超越，還對無神論和多神論的學說有作用；但它所提供的連接證據和金額還是存在的，而且很多人使用。
+
+隨著[查爾斯·達爾文在比格犬中的遠航歸來](https://zh.wikipedia.org/wiki/查爾斯·達爾文 "wikilink")，布克蘭與他商討[加拉巴哥陸鬣蜥](../Page/加拉巴哥陸鬣蜥.md "wikilink")和[海鬣蜥](../Page/海鬣蜥.md "wikilink")。\[19\]他隨後建議對[蚯蚓](../Page/蚯蚓.md "wikilink")在土壤中形成和作用在達爾文的草稿然後出版，並稱讚其為「一個既新又重要的理論來解釋普遍發生的現象和地球實際上是一種新的地質電源」，但達爾文卻拒絕布克蘭的建議。\[20\]
+
+## 冰期的理論
+
+這個時候布克蘭是一位突出和有影響力的名人。他的一個朋友[罗伯特·皮尔](../Page/罗伯特·皮尔.md "wikilink")爵士當時是保守黨的首相。於和[查爾斯·萊爾](../Page/查爾斯·萊爾.md "wikilink")合作中，他準備領導建立英國地質調查局的報告。
+
+在1838年，他感興趣於[路易斯·阿格西的理論](https://zh.wikipedia.org/wiki/路易斯·阿格西 "wikilink")，即拋光、紋岩、運輸材料以及古冰川，並陪伴阿格西前往[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")。他想起了他在[蘇格蘭](../Page/蘇格蘭.md "wikilink")，[威爾士](../Page/威爾士.md "wikilink")和[英格蘭北部見過這些情境](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")，但當年他是為洪水而來。阿格西來到英國是為了和英國協會的[格拉斯哥進行會議](https://zh.wikipedia.org/wiki/格拉斯哥 "wikilink")。在1840年，他們往蘇格蘭的旅遊，並發現那裡存在前冰川的證據。在這一年布克蘭再次為成地質學會會長。儘管他們對他的理論的介紹有對立的反應，但他確實冰川的存在一直是許多英國人的驕傲。
+
+1845年，他被[羅伯特·皮爾爵士任命為威斯敏斯特的牧師](https://zh.wikipedia.org/wiki/羅伯特·皮爾 "wikilink")（他的前任為）不久後，他搬到艾斯利普一個宅邸生活。作為院長，布克蘭參與了修復和威斯敏斯特大教堂的維修和傳道至艾斯利普的農村，同時亦繼續在牛津大學主行地質學講座。1847年，他被任命為大英博物館的託管人，並在1848年被授予倫敦地質學會設立的[沃拉斯頓獎](https://zh.wikipedia.org/wiki/沃拉斯頓獎 "wikilink")。
+
+## 晚年及死亡
+
+1850年年底，他患上了[肺結核](https://zh.wikipedia.org/wiki/肺結核 "wikilink")，他於1856年在家中去世，終年72歲。而他的兒子弗蘭克·布克蘭死於[肺結核和](https://zh.wikipedia.org/wiki/肺結核 "wikilink")[肺癌](../Page/肺癌.md "wikilink")；威廉·布克蘭的死因顯然是十分模糊的：1849年，他因沉悶而病倒了，且直到他死前，他的病情在逐漸惡化。他說道：我想我們倆父子之間有些巧合，但我沒有對我的兒子進行訪問。\[21\]對於他的墳墓至今仍然存在，但是當時的掘墓者發現，[侏羅紀的固體石灰岩露和炸藥在陪葬](https://zh.wikipedia.org/wiki/侏羅紀 "wikilink")，必須開挖出來。這可能是由著名的生物學家的玩笑，讓人想起理查德·惠特利的於1820年所作的詩歌：
+
+  -
+    誰是我們我們偉大的教授，
+    在和平中可擱置他的化石？
+    如果它劈出一塊岩石墳墓，
+    它會上升並打破心頭，
+    然後檢查位於各階層的地下元素。
+
+## 布克蘭的怪癖
+
+布克蘭專注於自己的實地生物學和地質工作。\[22\]他的演講卻是顯著地令人們戲劇化。\[23\]當他在室內演講的時侯，他會模仿恐龍的動作帶給人們對他的印象。\[24\]布克蘭的科學觀察和實驗的熱情延伸到他的家中，並與[恐龍的](https://zh.wikipedia.org/wiki/恐龍 "wikilink")[糞化石接觸](https://zh.wikipedia.org/wiki/糞化石 "wikilink")。他家中的桌子在中被展出。\[25\]\[26\]
+
+不僅是威廉·布克蘭的家充滿了標本、動物和礦物，並陪伴生活以及逝世，他還聲稱通過動物世界裏，他也見識過。甚至最令人感到嘔心的[鼹鼠](../Page/鼹鼠.md "wikilink")和[反吐丽蝇](../Page/反吐丽蝇.md "wikilink")；\[27\]豹，鱷魚和老鼠都是他關注的動物之一。連「[故事](../Page/故事.md "wikilink")」大王都聲稱布克蘭是一個奇怪的文物講者和「布克蘭醫生」，他同時嘆道：「我已經『吃了』很多奇怪的事情，但從來沒有『吃過』前國王的心臟」，之前，任何人都可能會妨礙他，但現在他得悉布克蘭已經逝世，他敢說：「[路易十四](../Page/路易十四.md "wikilink")的心臟是有問題的」。\[28\]\[29\]因此，布克蘭隨後愛好他的兒子弗蘭克。.
+
+## 以他命名的地方
+
+其後，在月球上的褶皱「[巴克蘭山脊](https://zh.wikipedia.org/wiki/巴克蘭山脊 "wikilink")」和布克蘭島（即今日的阿尼島）是以他命名的。
+
+## 來源
+
+## 資料
+
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+## 延伸閱讀
+
+  -
+  -
+## 外部連結
+
+  - [Buckland at the Oxford University Museum of Natural History](http://www.oum.ox.ac.uk/learning/pdfs/buckland.pdf)
+  - [Buckland's blue plaque in Islip](http://www.oxfordshireblueplaques.org.uk/plaques/buckland.html)
+  - [William Buckland in Retrospect](http://www.asa3.org/ASA/PSCF/1990/PSCF3-90Armstrong.html)
+  - [*The Life and Correspondence of William Buckland... By his daughter, Mrs. Gordon*](http://lhldigital.lindahall.org/cdm/ref/collection/earththeory/id/17882), (London : J. Murray, 1894) - digital facsimile available from [Linda Hall Library](https://zh.wikipedia.org/wiki/Linda_Hall_Library "wikilink")
+  - William Buckland (1823) [*Reliquiæ Diluvianæ*](http://lhldigital.lindahall.org/cdm/ref/collection/earththeory/id/32361) (English) - digital facsimile available from [Linda Hall Library](https://zh.wikipedia.org/wiki/Linda_Hall_Library "wikilink"). A number of high-resolution images of the maps and other illustrations from this book are available [here](http://lhldigital.lindahall.org/cdm/search/collection/darwin/searchterm/buckland!1823/field/title!title/mode/all!all/conn/and!and/order/nosort).
+
+[Category:英格蘭聖公宗教徒](https://zh.wikipedia.org/wiki/Category:英格蘭聖公宗教徒 "wikilink") [Category:牛津大学科珀斯克里斯蒂学院校友](https://zh.wikipedia.org/wiki/Category:牛津大学科珀斯克里斯蒂学院校友 "wikilink") [Category:美国文理科学院院士](https://zh.wikipedia.org/wiki/Category:美国文理科学院院士 "wikilink") [Category:英國皇家學會院士](https://zh.wikipedia.org/wiki/Category:英國皇家學會院士 "wikilink") [Category:科普利獎章獲得者](https://zh.wikipedia.org/wiki/Category:科普利獎章獲得者 "wikilink")
+
+1.  Chisholm, 1911
+
+2.
+3.  [History of the Collapse of Flood Geology and a Young Earth](http://www.philvaz.com/apologetics/p82.htm)
+
+4.  Rudwick, Martin *Scenes from Deep Time* (1992) pp. 38–42
+
+5.  Rudwick, Martin *Bursting The Limits of Time: The Reconstruction of Geohistory in the Age of Revolution* (2005) pp. 622–638, 631
+
+6.
+7.
+8.  [*Reliquiæ Diluvianæ, or, Observations on the Organic Remains attesting the Action of a Universal Deluge*](https://books.google.com/books?id=VsoQAAAAIAAJ&dq=william+buckland&ie=ISO-8859-1)
+
+9.  Rudwick, Martin *Worlds Before Adam: The Reconstruction of Geohistory in the Age of Reform* (2008) p. 427
+
+10.
+
+11. Sommer, Marianne *Bones and ochre: the curious afterlife of the Red Lady of Paviland* (2007) p. 1
+
+12. Rudwick, Martin *Worlds Before Adam: The Reconstruction of Geohistory in the Age of Reform* (2008) pp. 77–79
+
+13.
+
+14. Rudwick, Martin *Worlds Before Adam: The Reconstruction of Geohistory in the Age of Reform* pp. 154–155.
+
+15. Gordon, Mrs \[Elizabeth Oke\] [*The life and correspondence of William Buckland, D.D., F.R.S.*](https://books.google.com/books?id=2OALAAAAMAAJ&printsec=titlepage&source=gbs_v2_summary_r&cad=0#v=onepage&q=&f=false) (1894) pp. 116–118
+
+16. Rudwick, Martin *Worlds Before Adam: The Reconstruction of Geohistory in the Age of Reform* p. 155.
+
+17.
+
+18.
+
+19.
+
+20.
+
+21. Burgess G.H.O. 1967. *The curious world of Frank Buckland*. Baker, London. p67
+
+22.
+
+23. ["Learning More… William Buckland" Oxford University Museum](http://www.oum.ox.ac.uk/learning/pdfs/buckland.pdf)
+
+24. Burke, Peter (2013-04-18). A Social History of Knowledge II: From the Encyclopaedia to Wikipedia: 2 (Kindle Location 2276). Wiley. Kindle Edition.
+
+25. ["William Buckland's Coprolite Table" Lyme Regis Museum](http://www.lymeregismuseum.co.uk/images/stories/research/buckland.pdf)
+
+26. [Harry Hogger "19th century table created out of fossil poo recreated for descendants of original owner" *Bridport News" 30 July 2013*](http://www.bridportnews.co.uk/news/localnews/10579424.19th_century_table_created_out_of_fossil_poo_recreated_for_descendants_of_original_owner/)
+
+27. As his source, Ruskin gives Augustus Hare's *The Story of My Life*, vol. 5, p. 358
+
+28.
+
+29.

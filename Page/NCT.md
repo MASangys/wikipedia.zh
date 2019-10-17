@@ -109,7 +109,7 @@ Vision的中文音譯威神，即命名為威神V。</p></td>
 </p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/文泰一" title="wikilink">泰一</a></p></td>
+<td><p><a href="../Page/文泰一.md" title="wikilink">泰一</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/徐煐淏.md" title="wikilink">Johnny</a></p></td>

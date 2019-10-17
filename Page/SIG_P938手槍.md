@@ -39,7 +39,7 @@ P938製有多個衍生型，分別是AG型、黑木型、春分型、極限型�
   - [莫斯伯格MC1sc半自動手槍](https://zh.wikipedia.org/wiki/莫斯伯格MC1sc半自動手槍 "wikilink")
   - [雷明登R51手槍](../Page/雷明登R51手槍.md "wikilink")
   - [儒格LC9半自動手槍](https://zh.wikipedia.org/wiki/儒格LC9半自動手槍 "wikilink")
-  - [春田XD-S半自動手槍](https://zh.wikipedia.org/wiki/春田XD-S半自動手槍 "wikilink")
+  - [春田XD-S半自動手槍](../Page/春田XD-S半自動手槍.md "wikilink")
   - [SIG P239手槍](../Page/SIG_P239手槍.md "wikilink")
   - [S\&W M\&P護盾型](../Page/史密斯威森軍警型半自動手槍.md "wikilink")
   - [-{zh-tw:華瑟;zh-cn:瓦爾特;}-PPS手槍](../Page/瓦爾特PPS手槍.md "wikilink")

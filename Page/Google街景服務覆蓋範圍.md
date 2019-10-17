@@ -1097,7 +1097,7 @@
 </tr>
 <tr class="odd">
 <td><p>2015年7月18日</p></td>
-<td><p>：<a href="https://zh.wikipedia.org/wiki/宗莫德" title="wikilink">宗莫德</a>、<a href="https://zh.wikipedia.org/wiki/Baganuur" title="wikilink">Baganuur</a>、、、<a href="https://zh.wikipedia.org/wiki/扎門烏德" title="wikilink">扎門烏德</a>、<a href="https://zh.wikipedia.org/wiki/宗哈拉" title="wikilink">宗哈拉</a>、<a href="https://zh.wikipedia.org/wiki/蘇赫巴托爾" title="wikilink">蘇赫巴托爾</a>、<a href="https://zh.wikipedia.org/wiki/阿勒坦布拉格" title="wikilink">買賣城</a>、、<a href="https://zh.wikipedia.org/wiki/曼達勒戈壁" title="wikilink">曼達勒戈壁部分地區及蒙古國更多地區</a></p></td>
+<td><p>：<a href="https://zh.wikipedia.org/wiki/宗莫德" title="wikilink">宗莫德</a>、<a href="https://zh.wikipedia.org/wiki/Baganuur" title="wikilink">Baganuur</a>、、、<a href="https://zh.wikipedia.org/wiki/扎門烏德" title="wikilink">扎門烏德</a>、<a href="https://zh.wikipedia.org/wiki/宗哈拉" title="wikilink">宗哈拉</a>、<a href="https://zh.wikipedia.org/wiki/蘇赫巴托爾" title="wikilink">蘇赫巴托爾</a>、<a href="../Page/阿勒坦布拉格.md" title="wikilink">買賣城</a>、、<a href="https://zh.wikipedia.org/wiki/曼達勒戈壁" title="wikilink">曼達勒戈壁部分地區及蒙古國更多地區</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2015年8月19日</p></td>

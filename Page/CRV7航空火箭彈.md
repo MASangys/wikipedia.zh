@@ -1,4 +1,4 @@
-**CRV7**（為的[縮寫](../Page/縮寫.md "wikilink")，意為：7[厘米](../Page/厘米.md "wikilink")加拿大火箭載具）是一系列由在[曼尼托巴省](https://zh.wikipedia.org/wiki/曼尼托巴省 "wikilink")[溫尼伯市的](https://zh.wikipedia.org/wiki/溫尼伯 "wikilink")所生產的2.75英寸（70毫米）折疊式對地攻擊[火箭彈](https://zh.wikipedia.org/wiki/火箭彈 "wikilink")。從1970年代早期推出起，它被視為標準美國2.75英寸空對地火箭彈的升級版本。這也是同級別中最強大的、第一款力量足以貫穿標準的[華沙條約飛機機庫的武器](https://zh.wikipedia.org/wiki/华沙条约组织 "wikilink")。CRV7仍然是迄今為止火力最強大的空對地攻擊火箭彈之一，並且已經慢慢地成為美國以外的西方國家軍隊[事實上的標準武器](https://zh.wikipedia.org/wiki/De_facto "wikilink")。
+**CRV7**（為的[縮寫](../Page/縮寫.md "wikilink")，意為：7[厘米](../Page/厘米.md "wikilink")加拿大火箭載具）是一系列由在[曼尼托巴省](../Page/曼尼托巴省.md "wikilink")[溫尼伯市的](https://zh.wikipedia.org/wiki/溫尼伯 "wikilink")所生產的2.75英寸（70毫米）折疊式對地攻擊[火箭彈](https://zh.wikipedia.org/wiki/火箭彈 "wikilink")。從1970年代早期推出起，它被視為標準美國2.75英寸空對地火箭彈的升級版本。這也是同級別中最強大的、第一款力量足以貫穿標準的[華沙條約飛機機庫的武器](https://zh.wikipedia.org/wiki/华沙条约组织 "wikilink")。CRV7仍然是迄今為止火力最強大的空對地攻擊火箭彈之一，並且已經慢慢地成為美國以外的西方國家軍隊[事實上的標準武器](https://zh.wikipedia.org/wiki/De_facto "wikilink")。
 
 ## 研發
 

@@ -4397,7 +4397,7 @@ Viu品牌旗下有兩個平台，分別以黃藍顏色為分辨。黃色為OTT�
   - [神聖之門](../Page/神聖之門.md "wikilink")
   - [蠟筆小新](https://zh.wikipedia.org/wiki/蠟筆小新 "wikilink")
   - [爆音少女！！](../Page/爆音少女！！.md "wikilink")
-  - [飛翔的魔女](https://zh.wikipedia.org/wiki/飛翔的魔女 "wikilink")
+  - [飛翔的魔女](../Page/飛翔的魔女.md "wikilink")
   - [LoveLive\! Sunshine\!\!](https://zh.wikipedia.org/wiki/LoveLive!_Sunshine!! "wikilink")
   - [不愉快的妖怪庵](../Page/不愉快的妖怪庵.md "wikilink")
   - [ReLIFE 重返17歲](../Page/ReLIFE.md "wikilink")
