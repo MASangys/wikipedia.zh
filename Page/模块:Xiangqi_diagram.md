@@ -57,7 +57,8 @@ local p = {} function p.board(frame)
 
 <div style="position:absolute;top:0px;left:0px;width:' .. width .. 'px;">
 
-[' .. width .. 'px](https://zh.wikipedia.org/wiki/File:Xiangqi_board.svg "fig:' .. width .. 'px")
+[' .. width ..
+'px](https://zh.wikipedia.org/wiki/File:Xiangqi_board.svg "fig:' .. width .. 'px")
 
 </div>
 
@@ -111,7 +112,8 @@ local p = {} function p.board(frame)
 
 <div style="position:absolute;top:' .. ((i + 1) * size) .. 'px;left:' .. (j * size) .. 'px;width:' .. size .. 'px;">
 
-[' .. size .. 'px](https://zh.wikipedia.org/wiki/File:Xiangqi_'_.._s_.._'1.svg "fig:' .. size .. 'px")
+[' .. size ..
+'px](https://zh.wikipedia.org/wiki/File:Xiangqi_'_.._s_.._'1.svg "fig:' .. size .. 'px")
 
 </div>
 

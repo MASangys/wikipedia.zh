@@ -1,0 +1,146 @@
+<div style="display:block;float:left;width:100%;">
+
+<div style="display:block;border:1px solid #aaaaaa;vertical-align: top; background-color:#F6F6F6;margin-bottom:10px;padding-bottom:5px;padding-left:5px;padding-right:4px;">
+
+<h2 style="padding:3px; background:navy; color:#f8f8ff; text-align:center; font-weight:bold; font-size:100%; margin-bottom:5px;margin-top:0;margin-left:-5px;margin-right:-4px;">
+
+欢迎您来到美丽的滨海城市--天津！
+
+</h2>
+
+**天津市**，简称**津**，是[中华人民共和国的](../Page/中华人民共和国.md "wikilink")[直辖市](../Page/直辖市.md "wikilink")、[国家中心城市和中国北方最大](../Page/国家中心城市.md "wikilink")[沿海开放城市](../Page/沿海开放城市.md "wikilink")。天津位于[华北平原的](../Page/华北平原.md "wikilink")[海河各支流交汇处](../Page/海河.md "wikilink")，东临[渤海](../Page/渤海.md "wikilink")，北依[燕山](../Page/燕山.md "wikilink")；有海河在城中蜿蜒而过，跨越海河的各式桥梁形成了“[一桥一景](../Page/天津海河桥梁列表.md "wikilink")”的景致。
+
+天津自古因漕运而兴起，明永乐二年十一月二十一日（1404年12月23日）正式筑城，是中国古代唯一有确切建城时间记录的城市。自1860年天津开放为[通商口岸后](../Page/通商口岸.md "wikilink")，西方多国在天津设立[租界](../Page/天津租界.md "wikilink")，洋务派亦在天津兴办实业，使天津成为中国北方开放的前沿和近代中国[洋务运动的基地](../Page/洋务运动.md "wikilink")。在领风气之先的同时，[天津近代工业](../Page/天津近代工业.md "wikilink")、商业、金融业等发展迅速。由天津开始的军事近代化，以及铁路、电报、电话、邮政、采矿、近代教育、司法等方面建设，均开中国之先河。天津成为当时中国第二大的工商业城市和北方最大的金融商贸中心。
+
+2006年3月22日，国务院批复的《[天津市总体规划](../Page/天津城市规划.md "wikilink")》将天津完整定位为“国际港口城市、北方经济中心、[生态城市](../Page/生态城市.md "wikilink")”，并将“推进[天津滨海新区开发开放](../Page/天津滨海新区.md "wikilink")”纳入国家发展战略，设立为[国家综合配套改革试验区](../Page/国家综合配套改革试验区.md "wikilink")，使天津成为“中国经济的第三增长极”，经济增速连续多年位于全国领先位置，天津已经初步形成了[双城双港的城市形态](../Page/天津城市规划.md "wikilink")。天津即将举办2013年的[第六届东亚运动会和](../Page/2013年东亚运动会.md "wikilink")2017年的[第十三届全运会](../Page/中华人民共和国第十三届运动会.md "wikilink")，同时也是[夏季达沃斯论坛的常驻举办城市](../Page/夏季达沃斯论坛.md "wikilink")。
+
+<div style="text-align:right;margin-right:10px;margin-bottom:4px;font-size:small;">
+
+**[更多與天津相關的內容...](../Page/天津.md "wikilink")** |
+**[更多與天津相關的主題...](https://zh.wikipedia.org/wiki/Category:天津 "wikilink")**
+| **\[ 更新緩存\]**
+
+</div>
+
+</div>
+
+<div style="display:block;width:99%;float:left">
+
+<div style="width:48%;display:block;float:left;">
+
+<div style="display:block;border:1px solid #aaaaaa;vertical-align: top;width:100%; background-color:#F6F6F6;margin-bottom:10px;padding-bottom:5px;padding-left:5px;padding-right:4px;">
+
+<h2 style="padding:3px; background:navy; color:#f8f8ff; text-align:center; font-weight:bold; font-size:100%; margin-bottom:5px;margin-top:0;margin-left:-5px;margin-right:-4px;">
+
+特色條目<span style="float:right;"></span>
+
+</h2>
+
+</div>
+
+<div style="display:block;border:1px solid #aaaaaa;vertical-align: top;width:100%; background-color:#F6F6F6;margin-bottom:10px;padding-bottom:5px;padding-left:5px;padding-right:4px;">
+
+<h2 style="padding:3px; background:navy; color:#f8f8ff; text-align:center; font-weight:bold; font-size:100%; margin-bottom:5px;margin-top:0;margin-left:-5px;margin-right:-4px;">
+
+優良條目<span style="float:right;"></span>
+
+</h2>
+
+</div>
+
+<div style="display:block;border:1px solid #aaaaaa;vertical-align: top;width:100%; background-color:#F6F6F6;margin-bottom:10px;padding-bottom:5px;padding-left:5px;padding-right:4px;">
+
+<h2 style="padding:3px; background:navy; color:#f8f8ff; text-align:center; font-weight:bold; font-size:100%; margin-bottom:5px;margin-top:0;margin-left:-5px;margin-right:-4px;">
+
+你知道嗎<span style="float:right;"></span>
+
+</h2>
+
+</div>
+
+</div>
+
+<div style="width:48%;display:block;float:right;">
+
+<div style="display:block;border:1px solid #aaaaaa;vertical-align: top;width:100%; background-color:#F6F6F6;margin-bottom:10px;padding-bottom:5px;padding-left:5px;padding-right:4px;">
+
+<h2 style="padding:3px; background:navy; color:#f8f8ff; text-align:center; font-weight:bold; font-size:100%; margin-bottom:5px;margin-top:0;margin-left:-5px;margin-right:-4px;">
+
+近期要闻<span style="float:right;"></span>
+
+</h2>
+
+</div>
+
+<div style="display:block;border:1px solid #aaaaaa;vertical-align: top;width:100%; background-color:#F6F6F6;margin-bottom:10px;padding-bottom:5px;padding-left:5px;padding-right:4px;">
+
+<h2 style="padding:3px; background:navy; color:#f8f8ff; text-align:center; font-weight:bold; font-size:100%; margin-bottom:5px;margin-top:0;margin-left:-5px;margin-right:-4px;">
+
+精選圖片<span style="float:right;"></span>
+
+</h2>
+
+</div>
+
+<div style="display:block;border:1px solid #aaaaaa;vertical-align: top;width:100%; background-color:#F6F6F6;margin-bottom:10px;padding-bottom:5px;padding-left:5px;padding-right:4px;">
+
+<h2 style="padding:3px; background:navy; color:#f8f8ff; text-align:center; font-weight:bold; font-size:100%; margin-bottom:5px;margin-top:0;margin-left:-5px;margin-right:-4px;">
+
+分類<span style="float:right;"></span>
+
+</h2>
+
+</div>
+
+</div>
+
+</div>
+
+<div style="display:block;float:left;width:100%;">
+
+<div style="display:block;border:1px solid #aaaaaa;vertical-align: top; background-color:#F6F6F6;margin-bottom:10px;padding-bottom:5px;padding-left:5px;padding-right:4px;">
+
+<h2 style="padding:3px; background:navy; color:#f8f8ff; text-align:center; font-weight:bold; font-size:100%; margin-bottom:5px;margin-top:0;margin-left:-5px;margin-right:-4px;">
+
+社群消息<span style="float:right;"></span>
+
+</h2>
+
+</div>
+
+</div>
+
+<div style="display:block;float:left;width:100%;">
+
+<div style="display:block;border:1px solid #aaaaaa;vertical-align: top; background-color:#F6F6F6;margin-bottom:10px;padding-bottom:5px;padding-left:5px;padding-right:4px;">
+
+<h2 style="padding:3px; background:navy; color:#f8f8ff; text-align:center; font-weight:bold; font-size:100%; margin-bottom:5px;margin-top:0;margin-left:-5px;margin-right:-4px;">
+
+协作计划<span style="float:right;"></span>
+
+</h2>
+
+</div>
+
+<div style="display:block;float:left;width:100%;">
+
+<div style="display:block;border:1px solid #aaaaaa;vertical-align: top; background-color:#F6F6F6;margin-bottom:10px;padding-bottom:5px;padding-left:5px;padding-right:4px;">
+
+<h2 style="padding:3px; background:navy; color:#f8f8ff; text-align:center; font-weight:bold; font-size:100%; margin-bottom:5px;margin-top:0;margin-left:-5px;margin-right:-4px;">
+
+其他主題首頁
+
+</h2>
+
+<center>
+
+</center>
+
+</div>
+
+</div>
+
+__NOTOC__ __NOEDITSECTION__
+
+[Category:中国各省主题首页](https://zh.wikipedia.org/wiki/Category:中国各省主题首页 "wikilink")
+[Category:天津維基資源](https://zh.wikipedia.org/wiki/Category:天津維基資源 "wikilink")

@@ -1,6 +1,8 @@
 local p = { }
 
-local navbar = require('Module:Navbar')._navbar local infobox = require('Module:Infobox3cols').infobox local infoboxImage = require('Module:InfoboxImage').InfoboxImage
+local navbar = require('Module:Navbar')._navbar local infobox =
+require('Module:Infobox3cols').infobox local infoboxImage =
+require('Module:InfoboxImage').InfoboxImage
 
 local wbr = '​' -- U+200B local function check_values(f,args)
 
@@ -12,7 +14,12 @@ local wbr = '​' -- U+200B local function check_values(f,args)
 `           return("`**`VALUE_ERROR`**` (" .. tostring(val) .. ")")`
 `       end `
 
-end --texts relevant to localization are tagged with -- localization required\! or ";10n" --on a page {{\#invoke:Sandbox/genewiki/alllua|getTemplateData|QID=Q14865053}} --in debug window --frame = mw.getCurrentFrame() --frame.args = {QID="Q14865053"} Q18031325 --print(p.getTemplateData(frame)) p.getTemplateData = function(frame)
+end --texts relevant to localization are tagged with -- localization
+required\! or ";10n" --on a page
+{{\#invoke:Sandbox/genewiki/alllua|getTemplateData|QID=Q14865053}} --in
+debug window --frame = mw.getCurrentFrame() --frame.args =
+{QID="Q14865053"} Q18031325 --print(p.getTemplateData(frame))
+p.getTemplateData = function(frame)
 
 `   --make some guesses about whether the provided QID is a good one`
 `   --could expand here if we had some kind of error handling framework`
@@ -251,7 +258,9 @@ end
 
 end
 
-\--This is a place holder for the image caption, which is stored in wikicommons comments unsure how to access p.renderCaption = function(entity)
+\--This is a place holder for the image caption, which is stored in
+wikicommons comments unsure how to access p.renderCaption =
+function(entity)
 
 `   --caption`
 
@@ -271,7 +280,8 @@ end
 
 end
 
-p.renderAvailableStructures = function(uniprotID_hs, uniprotID_mm, checkOrtholog, pdbIDs)
+p.renderAvailableStructures = function(uniprotID_hs, uniprotID_mm,
+checkOrtholog, pdbIDs)
 
 `   local title = '已知的結構' -- localization required!`
 `   local pdb_link = "`[`PDB`](../Page/蛋白質資料庫.md "wikilink")`" -- localization required!`
@@ -383,7 +393,9 @@ p.renderAvailableStructures = function(uniprotID_hs, uniprotID_mm, checkOrtholog
 
 end
 
-p.renderIdentifiers = function(aliases, hgnc_id, gene_symbol, homologene_id, omim_id, mgi_id, ChEMBL_id, IUPHAR_id, ec_no, entrez_gene)
+p.renderIdentifiers = function(aliases, hgnc_id, gene_symbol,
+homologene_id, omim_id, mgi_id, ChEMBL_id, IUPHAR_id, ec_no,
+entrez_gene)
 
 `   local title = "識別號" -- localization required!`
 `   local label_aliases = "`[`别名`](../Page/国际人类基因组组织.md "wikilink")`" -- localization required!`
@@ -419,7 +431,7 @@ p.renderIdentifiers = function(aliases, hgnc_id, gene_symbol, homologene_id, omi
 `   local homolo_list = mw.text.split(homologene_id, ",")`
 `   local homolo =""`
 `   if (homologene_id ~= nil and homologene_id ~= "") then`
-`       homolo = "`[`HomoloGene`](https://zh.wikipedia.org/wiki/HomoloGene "wikilink")`".."："`
+`       homolo = "`[`HomoloGene`](../Page/HomoloGene.md "wikilink")`".."："`
 `   end`
 `   for i, v in ipairs(homolo_list) do`
 `       if string.match(v, '%w+') then`
@@ -447,13 +459,14 @@ p.renderIdentifiers = function(aliases, hgnc_id, gene_symbol, homologene_id, omi
 
 `   local ChEMBL = ""`
 `   if string.match(ChEMBL_id, '%w+') then`
-`       ChEMBL = "`[`ChEMBL`](https://zh.wikipedia.org/wiki/ChEMBL "wikilink")`".."：".."[`<https://www.ebi.ac.uk/chembldb/index.php/target/inspect/CHEMBL>`"..ChEMBL_id.." "..ChEMBL_id.."] "`
+`       ChEMBL = "`[`ChEMBL`](../Page/ChEMBL.md "wikilink")`".."：".."[`<https://www.ebi.ac.uk/chembldb/index.php/target/inspect/CHEMBL>`"..ChEMBL_id.." "..ChEMBL_id.."] "`
 `   end`
 `   local IUPHAR = ""`
 `   if string.match(IUPHAR_id, '%w+') then `
-`       IUPHAR = "`[`IUPHAR`](https://zh.wikipedia.org/wiki/国际基础药理学与临床药理学联合会 "wikilink")`".."：".."[`<http://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=>`"..IUPHAR_id.." "..IUPHAR_id.."] " -- localization required!`
+`       IUPHAR = "`[`IUPHAR`](../Page/国际基础药理学与临床药理学联合会.md "wikilink")`".."：".."[`<http://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=>`"..IUPHAR_id.." "..IUPHAR_id.."] " -- localization required!`
 `   end`
-`   local label_EC = "`[`EC``   ``number`](../Page/EC編號.md "wikilink")`" -- localization required!`
+`   local label_EC = "`[`EC``
+ ``number`](../Page/EC編號.md "wikilink")`" -- localization required!`
 `   ec_no = string.gsub(ec_no, "%d%.%d+%.%d+%.%-,", "")--remove those with"-" in list`
 `   ec_no = string.gsub(ec_no, "%d%.%d+%.%d+%.%-", "")--remove those with"-" not in list`
 `   local link_ec_no = string.gsub(ec_no, "," ,"+") --create format for link`
@@ -655,9 +668,10 @@ p.renderDrug = function(frame,drug, drug_ref, drug_pqid, drug_pname)
 
 end
 
-p.renderGeneOntology = function(mol_funct, cell_comp, bio_process, uniprotID)
+p.renderGeneOntology = function(mol_funct, cell_comp, bio_process,
+uniprotID)
 
-`   local title = "`[`基因本體`](https://zh.wikipedia.org/wiki/基因本體 "wikilink")`" -- localization required!`
+`   local title = "`[`基因本體`](../Page/基因本體.md "wikilink")`" -- localization required!`
 `   local mol_funct_title = "分子功能" -- localization required!`
 `   local cell_comp_title = "細胞組分" -- localization required!`
 `   local bio_process_title = "生物學過程" -- localization required!`
@@ -778,7 +792,10 @@ p.renderRNAexpression = function(expression_images, entrez_gene)
 
 end
 
-p.renderOrthologs = function(frame, entrez_gene, entrez_gene_mm, ensembl, ensembl_mm, uniprot, uniprot_mm, refseq_mRNA, refseq_mRNA_mm, refseq_prot, refseq_prot_mm, db, chr, gstart, gend, db_mm, chr_mm,gstart_mm, gend_mm)
+p.renderOrthologs = function(frame, entrez_gene, entrez_gene_mm,
+ensembl, ensembl_mm, uniprot, uniprot_mm, refseq_mRNA,
+refseq_mRNA_mm, refseq_prot, refseq_prot_mm, db, chr, gstart, gend,
+db_mm, chr_mm,gstart_mm, gend_mm)
 
 `   local title = "直系同源" -- localization required!`
 `   --to do make the list creation a function`
@@ -1644,8 +1661,9 @@ end
 
 p.renderFooter = function(Qid, Qid_mm)
 
-`local text = "`[`維基數據`](https://zh.wikipedia.org/wiki/維基數據 "wikilink")`" -- localization required!`
-`local hs_link = "`[`檢視/編輯``   ``人類`](https://zh.wikipedia.org/wiki/d:"..Qid.." "wikilink")`" -- localization required!`
+`local text = "`[`維基數據`](../Page/維基數據.md "wikilink")`" -- localization required!`
+`local hs_link = "`[`檢視/編輯``
+ ``人類`](../Page/d:"..Qid..".md "wikilink")`" -- localization required!`
 `local mm_link = ""`
 `local link_no_hs`
 `local link_no_mm`
@@ -1656,7 +1674,8 @@ p.renderFooter = function(Qid, Qid_mm)
 `else `
 `   link_no_mm = 2`
 `   link_no_hs = 2`
-`   mm_link = "`[`檢視/編輯``   ``小鼠`](https://zh.wikipedia.org/wiki/d:"..Qid_mm.." "wikilink")`" -- localization required!`
+`   mm_link = "`[`檢視/編輯``
+ ``小鼠`](../Page/d:"..Qid_mm..".md "wikilink")`" -- localization required!`
 `end`
 
 `root`
@@ -1704,7 +1723,8 @@ p.renderFooter = function(Qid, Qid_mm)
 
 end
 
-\--this code isn't used was hoping could do some generalization of rows p.rowLabel=function(label)
+\--this code isn't used was hoping could do some generalization of rows
+p.rowLabel=function(label)
 
 `   root`
 `       :tag('tr')`
@@ -1744,7 +1764,8 @@ end
 
 end
 
-\--general function to get value given an entity and property p.getValue = function(entity, propertyID, return_val)
+\--general function to get value given an entity and property p.getValue
+= function(entity, propertyID, return_val)
 
 `   local claims`
 `   if return_val == nil then return_val = "" end`
@@ -1810,7 +1831,8 @@ p.getValueProtein = function(protein_entities, propertyID, return_val)
 
 end
 
-\--general function to get value given an entity and property p.getQid = function(entity)
+\--general function to get value given an entity and property p.getQid =
+function(entity)
 
 `   local Qid`
 `   if entity and entity.id then`
@@ -1822,7 +1844,8 @@ end
 
 end
 
-\--get random value that is preferred ranked p.getRefseq_mRNA = function(entity, propertyID, return_val)
+\--get random value that is preferred ranked p.getRefseq_mRNA =
+function(entity, propertyID, return_val)
 
 `   if return_val == nil then return_val = "" end`
 `   local input_rank = "RANK_PREFERRED" ---this is mostly like won't do anything because ranking isn't maintained in wikidata `
@@ -1841,7 +1864,8 @@ end
 `               if label == nil then label = "Q" .. v.mainsnak.datavalue.value["numeric-id"] end`
 `                           `
 `               if sitelink then`
-`                   out[#out + 1] = "`[`"``   ``..``   ``label``   ``..``   ``"`](https://zh.wikipedia.org/wiki/"_.._sitelink_.._" "wikilink")`"`
+`                   out[#out + 1] = "`[`"``   ``..``   ``label``
+ ``..``   ``"`](../Page/"_.._sitelink_.._".md "wikilink")`"`
 `               else`
 `                   out[#out + 1] = "[[:d:Q"_.._v.mainsnak.datavalue.value["numeric-id"]_.._"|" .. label .. "]]"`
 `               end`
@@ -1878,7 +1902,9 @@ end
 
 end
 
-p.getRefseq_protein = function(protein_entities, propertyID, return_val) local sep = "," local overall_results = {} --should return empty if nothing assigned
+p.getRefseq_protein = function(protein_entities, propertyID,
+return_val) local sep = "," local overall_results = {} --should return
+empty if nothing assigned
 
 `   for key, val in pairs(protein_entities) do --in cases where there are multiple encodes we loop through each and return concatenated data as a whole`
 `   `
@@ -1948,7 +1974,8 @@ end --\]\]
 `           local out = {}  `
 `           for k, v in pairs(claims) do  `
 `               local filename = v.mainsnak.datavalue.value  `
-`               out[#out + 1] = "`[`"``   ``..``   ``imgsize``   ``..``   ``"`](https://zh.wikipedia.org/wiki/File:"_.._filename_.._" "fig:\" .. imgsize .. \"")`" `
+`               out[#out + 1] = "`[`"``   ``..``   ``imgsize``   ``..``
+ ``"`](https://zh.wikipedia.org/wiki/File:"_.._filename_.._" "fig:\" .. imgsize .. \"")`" `
 `           end   `
 `               return table.concat(out, sep)   `
 `       else   `
@@ -1984,7 +2011,9 @@ p.getPDB = function(protein_entities)
 `                   if sitelink then`
 `                       out[#out + 1] = "[" .. sitelink .. label .. " " ..label .. "]"`
 `                   else`
-`                       out[#out + 1] = "`[`"``   ``..``   ``label``   ``..``   ``"`](https://zh.wikipedia.org/wiki/:d:Q"_.._v.mainsnak.datavalue.value_.._" "wikilink")`"`
+`                       out[#out + 1] = "`[`"``   ``..``   ``label``
+ ``..``
+ ``"`](../Page/:d:Q"_.._v.mainsnak.datavalue.value_.._".md "wikilink")`"`
 `                   end`
 `               end`
 `               results = table.concat(out, "、" .. wbr) -- l10n: punct`
@@ -2023,7 +2052,8 @@ function p.getAliases(entity, gene_symbol)
 
 end
 
-\--get a geneome start P644 or end P645 p.getChromosomeLoc = function(entity, propertyID, prefix)
+\--get a geneome start P644 or end P645 p.getChromosomeLoc =
+function(entity, propertyID, prefix)
 
 `   -- will contain the numeric value for the requested coordinate`
 `   local output = ""`
@@ -2341,9 +2371,10 @@ p.getDisease= function(entity, propertyID)
 `               --if refLink = "" then --skip if there isn't a reference found`
 `               `
 `               if linkTarget then`
-`                   out[#out + 1] = "`[`"..datav.."`](https://zh.wikipedia.org/wiki/"..linkTarget.." "wikilink")`"`
+`                   out[#out + 1] = "`[`"..datav.."`](../Page/"..linkTarget..".md "wikilink")`"`
 `               else`
-`                   out[#out + 1] = "`[`"``   ``..``   ``datav``   ``..``   ``"`](https://zh.wikipedia.org/wiki/:d:"_.._id_.._" "wikilink")`"`
+`                   out[#out + 1] = "`[`"``   ``..``   ``datav``
+ ``..``   ``"`](../Page/:d:"_.._id_.._".md "wikilink")`"`
 `               end`
 `               datasource[#out] = refLink`
 `               --end               `
@@ -2391,9 +2422,10 @@ p.getDrug= function(protein_entities, propertyID)
 `                       refLink = ref`
 `                   end`
 `                   if linkTarget then`
-`                       out[#out + 1] = "`[`"..datav.."`](https://zh.wikipedia.org/wiki/"..linkTarget.." "wikilink")`"`
+`                       out[#out + 1] = "`[`"..datav.."`](../Page/"..linkTarget..".md "wikilink")`"`
 `                   else`
-`                       out[#out + 1] = "`[`"``   ``..``   ``datav``   ``..``   ``"`](https://zh.wikipedia.org/wiki/:d:"_.._id_.._" "wikilink")`"`
+`                       out[#out + 1] = "`[`"``   ``..``   ``datav``
+ ``..``   ``"`](../Page/:d:"_.._id_.._".md "wikilink")`"`
 `                   end`
 `                   pname[protein_id] = name`
 `                   pqid[#out] = protein_id`
@@ -2408,4 +2440,8 @@ end
 
 return p
 
-[Category:位於'..chr..'號人類染色體的基因](https://zh.wikipedia.org/wiki/Category:位於'..chr..'號人類染色體的基因 "wikilink") [Category:人類線粒體基因](https://zh.wikipedia.org/wiki/Category:人類線粒體基因 "wikilink") [Category:位於人類X染色體的基因](https://zh.wikipedia.org/wiki/Category:位於人類X染色體的基因 "wikilink") [Category:位於人類Y染色體的基因](https://zh.wikipedia.org/wiki/Category:位於人類Y染色體的基因 "wikilink") [Category:位於'..chr..'號人類染色體的基因](https://zh.wikipedia.org/wiki/Category:位於'..chr..'號人類染色體的基因 "wikilink")
+[Category:位於'..chr..'號人類染色體的基因](https://zh.wikipedia.org/wiki/Category:位於'..chr..'號人類染色體的基因 "wikilink")
+[Category:人類線粒體基因](https://zh.wikipedia.org/wiki/Category:人類線粒體基因 "wikilink")
+[Category:位於人類X染色體的基因](https://zh.wikipedia.org/wiki/Category:位於人類X染色體的基因 "wikilink")
+[Category:位於人類Y染色體的基因](https://zh.wikipedia.org/wiki/Category:位於人類Y染色體的基因 "wikilink")
+[Category:位於'..chr..'號人類染色體的基因](https://zh.wikipedia.org/wiki/Category:位於'..chr..'號人類染色體的基因 "wikilink")

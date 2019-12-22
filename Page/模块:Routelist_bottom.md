@@ -1,6 +1,8 @@
 local p = {}
 
-local types = mw.loadData("Module:Road data/RJL types") local getArgs = require('Module:Arguments').getArgs -- Import module function to work with passed arguments
+local types = mw.loadData("Module:Road data/RJL types") local getArgs =
+require('Module:Arguments').getArgs -- Import module function to work
+with passed arguments
 
 local row
 

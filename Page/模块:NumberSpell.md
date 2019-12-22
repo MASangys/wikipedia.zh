@@ -1,4 +1,5 @@
-\-- This module converts a number into its written English form. -- For example, "2" becomes "two", and "79" becomes "seventy-nine".
+\-- This module converts a number into its written English form. -- For
+example, "2" becomes "two", and "79" becomes "seventy-nine".
 
 local getArgs = require('Module:Arguments').getArgs
 

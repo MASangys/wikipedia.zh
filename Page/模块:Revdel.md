@@ -12,10 +12,8 @@ local rv = {} function rv.main(frame)
 `   local i=1`
 `   while true do--frame的args不是完全table实现，无法用#args查表长，只能死循环试探结束。`
 `       t_id=args['id'..i]`
-`       if (t_id~=nil) then`
-`           if t_id ~= '' then`
-`               table.insert(ids,t_id)`
-`           end`
+`       if (t_id~=nil) then         `
+`           table.insert(ids,t_id)`
 `           i=i+1`
 `       else`
 `           break`
@@ -32,14 +30,10 @@ local rv = {} function rv.main(frame)
 `       article="条目名"`
 `   end`
 
-`   if mw.ustring.find(article, ":") ~= 1 then`
-`       article = ':' .. article`
-`   end`
-
 `   code=code.."* `[`"..article.."`](https://zh.wikipedia.org/wiki/"..article.." "wikilink")`"`
 `           .."（["..tostring(mw.uri.fullUrl(article,"action=edit")).." 編輯]"`
 `           .." · `[`討論`](https://zh.wikipedia.org/wiki/"..tostring\(mw.title.makeTitle\("",article\).talkPageTitle\).." "wikilink")`"`
-`           .." · ["..tostring(mw.uri.fullUrl("Special:Whatlinkshere/"..article)).." 鏈入]"`
+`           .." · ["..tostring(mw.uri.fullUrl("Special:Whatlinkshere/"..article,"limit=999")).." 鏈入]"`
 `           .." · ["..tostring(mw.uri.fullUrl(article,"action=history&hilight="..table.concat(ids,","))).." 歷史]"`
 `           .." · ["..tostring(mw.uri.fullUrl(article,"action=watch")).." 監視]"`
 `           .." · ["..tostring(mw.uri.fullUrl("Special:Log","page="..mw.uri.encode(article,"PATH"))).." 日志]）".."\n"`

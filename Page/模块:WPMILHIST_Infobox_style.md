@@ -18,6 +18,11 @@ local retval = {
 
 }
 
-retval.main_box_raw = 'width:315px;' .. retval.main_box_raw_auto_width retval.header_bar = 'style="' .. retval.header_raw .. '"' retval.sub_header_bar = 'style="' .. retval.sub_header_raw .. '"' retval.image_box = 'style="' .. retval.image_box_raw .. '"' retval.image_box_plain = 'style="' .. retval.image_box_plain_raw .. '"'
+retval.main_box_raw = 'width:315px;' ..
+retval.main_box_raw_auto_width retval.header_bar = 'style="' ..
+retval.header_raw .. '"' retval.sub_header_bar = 'style="' ..
+retval.sub_header_raw .. '"' retval.image_box = 'style="' ..
+retval.image_box_raw .. '"' retval.image_box_plain = 'style="' ..
+retval.image_box_plain_raw .. '"'
 
 return retval

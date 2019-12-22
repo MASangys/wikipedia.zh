@@ -1,0 +1,134 @@
+__NOTOC__
+
+<div style="border-bottom: 3px solid #9999FF;  padding: 0.5em 0 0.17em 0em;  color: #9966CC; background-color: transparent;">
+
+文化圣地 度假天堂
+
+好客山东
+
+</div>
+
+-----
+
+<div style="margin:3px 0; border:1px solid #66CCFF; padding:1em 0.5em 0.5em 0.5em; background-color:#fff; font-size:100%;">
+
+<center>
+
+[Baotuquan.jpg](https://zh.wikipedia.org/wiki/File:Baotuquan.jpg "fig:Baotuquan.jpg")[Taishan_-_cliff_and_peak.jpg](https://zh.wikipedia.org/wiki/File:Taishan_-_cliff_and_peak.jpg "fig:Taishan_-_cliff_and_peak.jpg")[Weihai.jpg](https://zh.wikipedia.org/wiki/File:Weihai.jpg "fig:Weihai.jpg")
+
+</center>
+
+<div style="position: relative; border-bottom:2px solid #9999FF; border-top:2px solid #9999FF; padding:1em; margin:1em; color:#353537; height:auto;">
+
+{{/Welcome}}
+
+</div>
+
+</div>
+
+</div>
+
+{{/box-footer|}}
+
+<div style="display:block;width:99%;float:left">
+
+<div style="width:48%;display:block;float:left;">
+
+<div style="display:block;border:1px solid #aaaaaa;vertical-align: top;width:100%; background-color:#F6F6F6;margin-bottom:10px;padding-bottom:5px;padding-left:5px;padding-right:4px;">
+
+<h2 style="padding:3px; background:#00CCCC; color:#f8f8ff; text-align:center; font-weight:bold; font-size:100%; margin-bottom:5px;margin-top:0;margin-left:-5px;margin-right:-4px;">
+
+典范条目<span style="float:right;"></span>
+
+</h2>
+
+</div>
+
+<div style="display:block;border:1px solid #aaaaaa;vertical-align: top;width:100%; background-color:#F6F6F6;margin-bottom:10px;padding-bottom:5px;padding-left:5px;padding-right:4px;">
+
+<h2 style="padding:3px; background:#00CCCC; color:#f8f8ff; text-align:center; font-weight:bold; font-size:100%; margin-bottom:5px;margin-top:0;margin-left:-5px;margin-right:-4px;">
+
+印象齐鲁<span style="float:right;"></span>
+
+</h2>
+
+{{/印象}}
+
+</div>
+
+<div style="display:block;border:1px solid #aaaaaa;vertical-align: top;width:100%; background-color:#F6F6F6;margin-bottom:10px;padding-bottom:5px;padding-left:5px;padding-right:4px;">
+
+<h2 style="padding:3px; background:#00CCCC; color:#f8f8ff; text-align:center; font-weight:bold; font-size:100%; margin-bottom:5px;margin-top:0;margin-left:-5px;margin-right:-4px;">
+
+你知道吗<span style="float:right;"></span>
+
+</h2>
+
+</div>
+
+</div>
+
+<div style="width:48%;display:block;float:right;">
+
+<div style="display:block;border:1px solid #aaaaaa;vertical-align: top;width:100%; background-color:#F6F6F6;margin-bottom:10px;padding-bottom:5px;padding-left:5px;padding-right:4px;">
+
+<h2 style="padding:3px; background:#00CCCC; color:#f8f8ff; text-align:center; font-weight:bold; font-size:100%; margin-bottom:5px;margin-top:0;margin-left:-5px;margin-right:-4px;">
+
+近期要闻<span style="float:right;"></span>
+
+</h2>
+
+{{/山东新闻动态/Itn}}
+
+</div>
+
+<div style="display:block;border:1px solid #aaaaaa;vertical-align: top;width:100%; background-color:#F6F6F6;margin-bottom:10px;padding-bottom:5px;padding-left:5px;padding-right:4px;">
+
+<h2 style="padding:3px; background:#00CCCC; color:#f8f8ff; text-align:center; font-weight:bold; font-size:100%; margin-bottom:5px;margin-top:0;margin-left:-5px;margin-right:-4px;">
+
+风景名胜<span style="float:right;"></span>
+
+</h2>
+
+{{/风景名胜}}
+
+</div>
+
+<div style="display:block;border:1px solid #aaaaaa;vertical-align: top;width:100%; background-color:#F6F6F6;margin-bottom:10px;padding-bottom:5px;padding-left:5px;padding-right:4px;">
+
+<h2 style="padding:3px; background:#00CCCC; color:#f8f8ff; text-align:center; font-weight:bold; font-size:100%; margin-bottom:5px;margin-top:0;margin-left:-5px;margin-right:-4px;">
+
+分类<span style="float:right;"></span>
+
+</h2>
+
+{{/分类}}
+
+</div>
+
+</div>
+
+</div>
+
+<div style="display:block;float:left;width:100%;">
+
+<div style="display:block;border:1px solid #aaaaaa;vertical-align: top; background-color:#F6F6F6;margin-bottom:10px;padding-bottom:5px;padding-left:5px;padding-right:4px;">
+
+<h2 style="padding:3px; background:#00CCCC; color:#f8f8ff; text-align:center; font-weight:bold; font-size:100%; margin-bottom:5px;margin-top:0;margin-left:-5px;margin-right:-4px;">
+
+其他主题首页
+
+</h2>
+
+<center>
+
+</center>
+
+</div>
+
+</div>
+
+__NOTOC__ __NOEDITSECTION__
+
+[Category:中国各省主题首页](https://zh.wikipedia.org/wiki/Category:中国各省主题首页 "wikilink")
+[Category:山东维基资源](https://zh.wikipedia.org/wiki/Category:山东维基资源 "wikilink")

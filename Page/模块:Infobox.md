@@ -1,4 +1,5 @@
-\-- -- This module implements  -- 中文的此模块对比英文维基多解析了overimage, overcaption, -- overimagerowclass以及header/labal/data\*style参数。 --
+\-- -- This module implements  -- 中文的此模块对比英文维基多解析了overimage,
+overcaption, -- overimagerowclass以及header/labal/data\*style参数。 --
 
 local p = {}
 
@@ -489,4 +490,5 @@ end
 
 return p
 
-[Category:使用无数据行信息框模板的条目](https://zh.wikipedia.org/wiki/Category:使用无数据行信息框模板的条目 "wikilink") [Category:使用带有标题参数的嵌入式信息框模板的条目](https://zh.wikipedia.org/wiki/Category:使用带有标题参数的嵌入式信息框模板的条目 "wikilink")
+[Category:使用无数据行信息框模板的条目](https://zh.wikipedia.org/wiki/Category:使用无数据行信息框模板的条目 "wikilink")
+[Category:使用带有标题参数的嵌入式信息框模板的条目](https://zh.wikipedia.org/wiki/Category:使用带有标题参数的嵌入式信息框模板的条目 "wikilink")

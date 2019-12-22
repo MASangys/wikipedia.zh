@@ -1,8 +1,21 @@
-\--[-------------------------------------------------------------------------------- -- -- -- NAMESPACE DETECT -- -- -- -- This module implements the {{namespace detect}} template in Lua, with a -- -- few improvements: all namespaces and all namespace aliases are supported, -- -- and namespace names are detected automatically for the local wiki. The -- -- module can also use the corresponding subject namespace value if it is -- -- used on a talk page. Parameter names can be configured for different wikis -- -- by altering the values in the "cfg" table in -- -- Module:Namespace detect/config. -- -- -- -------------------------------------------------------------------------------- --](https://zh.wikipedia.org/wiki/--------------------------------------------------------------------------------_--_--_--_NAMESPACE_DETECT_--_--_--_--_This_module_implements_the_{{namespace_detect}}_template_in_Lua,_with_a_--_--_few_improvements:_all_namespaces_and_all_namespace_aliases_are_supported,_--_--_and_namespace_names_are_detected_automatically_for_the_local_wiki._The_--_--_module_can_also_use_the_corresponding_subject_namespace_value_if_it_is_--_--_used_on_a_talk_page._Parameter_names_can_be_configured_for_different_wikis_--_--_by_altering_the_values_in_the_"cfg"_table_in_--_--_Module:Namespace_detect/config._--_--_--_--------------------------------------------------------------------------------_-- "wikilink")
+\--[--------------------------------------------------------------------------------
+-- -- -- NAMESPACE DETECT -- -- -- -- This module implements the
+{{namespace detect}} template in Lua, with a -- -- few improvements: all
+namespaces and all namespace aliases are supported, -- -- and namespace
+names are detected automatically for the local wiki. The -- -- module
+can also use the corresponding subject namespace value if it is -- --
+used on a talk page. Parameter names can be configured for different
+wikis -- -- by altering the values in the "cfg" table in -- --
+Module:Namespace detect/config. -- -- --
+--------------------------------------------------------------------------------
+--](https://zh.wikipedia.org/wiki/--------------------------------------------------------------------------------_--_--_--_NAMESPACE_DETECT_--_--_--_--_This_module_implements_the_{{namespace_detect}}_template_in_Lua,_with_a_--_--_few_improvements:_all_namespaces_and_all_namespace_aliases_are_supported,_--_--_and_namespace_names_are_detected_automatically_for_the_local_wiki._The_--_--_module_can_also_use_the_corresponding_subject_namespace_value_if_it_is_--_--_used_on_a_talk_page._Parameter_names_can_be_configured_for_different_wikis_--_--_by_altering_the_values_in_the_"cfg"_table_in_--_--_Module:Namespace_detect/config._--_--_--_--------------------------------------------------------------------------------_-- "wikilink")
 
-local data = mw.loadData('Module:Namespace detect/data') local argKeys = data.argKeys local cfg = data.cfg local mappings = data.mappings
+local data = mw.loadData('Module:Namespace detect/data') local argKeys =
+data.argKeys local cfg = data.cfg local mappings = data.mappings
 
-local yesno = require('Module:Yesno') local mArguments -- Lazily initialise Module:Arguments local mTableTools -- Lazily initilalise Module:TableTools local ustringLower = mw.ustring.lower
+local yesno = require('Module:Yesno') local mArguments -- Lazily
+initialise Module:Arguments local mTableTools -- Lazily initilalise
+Module:TableTools local ustringLower = mw.ustring.lower
 
 local p = {}
 
@@ -50,7 +63,8 @@ function p.getPageObject(page)
 
 end
 
-\-- Provided for backward compatibility with other modules function p.getParamMappings()
+\-- Provided for backward compatibility with other modules function
+p.getParamMappings()
 
 `   return mappings`
 
@@ -105,7 +119,17 @@ function p._main(args)
 `   local namespace = getNamespace(args) or 'other' -- "other" avoids nil table keys`
 `   local params = mappings[namespace] or {}`
 `   local ret = fetchValue(args, params)`
-`   --`[`--``   ``If``   ``there``   ``were``   ``no``   ``matches,``   ``return``   ``parameters``   ``for``   ``other``   ``namespaces.``   ``--``   ``This``   ``happens``   ``if``   ``there``   ``was``   ``no``   ``text``   ``specified``   ``for``   ``the``   ``namespace``   ``that``   ``--``   ``was``   ``detected``   ``or``   ``if``   ``the``   ``demospace``   ``parameter``   ``is``   ``not``   ``a``   ``valid``   ``--``   ``namespace.``   ``Note``   ``that``   ``the``   ``parameter``   ``for``   ``the``   ``detected``   ``namespace``   ``must``   ``be``   ``--``   ``completely``   ``absent``   ``for``   ``this``   ``to``   ``happen,``   ``not``   ``merely``   ``blank.``   ``--`](https://zh.wikipedia.org/wiki/--_If_there_were_no_matches,_return_parameters_for_other_namespaces._--_This_happens_if_there_was_no_text_specified_for_the_namespace_that_--_was_detected_or_if_the_demospace_parameter_is_not_a_valid_--_namespace._Note_that_the_parameter_for_the_detected_namespace_must_be_--_completely_absent_for_this_to_happen,_not_merely_blank._-- "wikilink")
+`   --`[`--``   ``If``   ``there``   ``were``   ``no``   ``matches,``
+ ``return``   ``parameters``   ``for``   ``other``   ``namespaces.``
+ ``--``   ``This``   ``happens``   ``if``   ``there``   ``was``
+ ``no``   ``text``   ``specified``   ``for``   ``the``   ``namespace``
+ ``that``   ``--``   ``was``   ``detected``   ``or``   ``if``   ``the``
+ ``demospace``   ``parameter``   ``is``   ``not``   ``a``   ``valid``
+ ``--``   ``namespace.``   ``Note``   ``that``   ``the``
+ ``parameter``   ``for``   ``the``   ``detected``   ``namespace``
+ ``must``   ``be``   ``--``   ``completely``   ``absent``   ``for``
+ ``this``   ``to``   ``happen,``   ``not``   ``merely``   ``blank.``
+ ``--`](https://zh.wikipedia.org/wiki/--_If_there_were_no_matches,_return_parameters_for_other_namespaces._--_This_happens_if_there_was_no_text_specified_for_the_namespace_that_--_was_detected_or_if_the_demospace_parameter_is_not_a_valid_--_namespace._Note_that_the_parameter_for_the_detected_namespace_must_be_--_completely_absent_for_this_to_happen,_not_merely_blank._-- "wikilink")
 `   if ret == nil then`
 `       ret = fetchValue(args, argKeys.other)`
 `   end`
@@ -124,7 +148,13 @@ end
 
 function p.table(frame)
 
-`   --`[`--``   ``Create``   ``a``   ``wikitable``   ``of``   ``all``   ``subject``   ``namespace``   ``parameters,``   ``for``   ``--``   ``documentation``   ``purposes.``   ``The``   ``talk``   ``parameter``   ``is``   ``optional,``   ``in``   ``case``   ``it``   ``--``   ``needs``   ``to``   ``be``   ``excluded``   ``in``   ``the``   ``documentation.``   ``--`](https://zh.wikipedia.org/wiki/--_Create_a_wikitable_of_all_subject_namespace_parameters,_for_--_documentation_purposes._The_talk_parameter_is_optional,_in_case_it_--_needs_to_be_excluded_in_the_documentation._-- "wikilink")
+`   --`[`--``   ``Create``   ``a``   ``wikitable``   ``of``   ``all``
+ ``subject``   ``namespace``   ``parameters,``   ``for``   ``--``
+ ``documentation``   ``purposes.``   ``The``   ``talk``   ``parameter``
+ ``is``   ``optional,``   ``in``   ``case``   ``it``   ``--``
+ ``needs``   ``to``   ``be``   ``excluded``   ``in``   ``the``
+ ``documentation.``
+ ``--`](https://zh.wikipedia.org/wiki/--_Create_a_wikitable_of_all_subject_namespace_parameters,_for_--_documentation_purposes._The_talk_parameter_is_optional,_in_case_it_--_needs_to_be_excluded_in_the_documentation._-- "wikilink")
 `   `
 `   -- Load modules and initialise variables.`
 `   mTableTools = require('Module:TableTools')`

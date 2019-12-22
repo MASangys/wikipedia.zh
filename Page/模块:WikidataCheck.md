@@ -44,4 +44,7 @@ end
 
 return p
 
-[Category:不在維基數據的"_.._catbase_.._"](https://zh.wikipedia.org/wiki/Category:不在維基數據的"_.._catbase_.._" "wikilink") [Category:不在維基數據的"_.._catbase_.._"](https://zh.wikipedia.org/wiki/Category:不在維基數據的"_.._catbase_.._" "wikilink") [Category:與維基數據相同的"_.._catbase_.._"](https://zh.wikipedia.org/wiki/Category:與維基數據相同的"_.._catbase_.._" "wikilink") [Category:與維基數據不同的"_.._catbase_.._"](https://zh.wikipedia.org/wiki/Category:與維基數據不同的"_.._catbase_.._" "wikilink")
+[Category:不在維基數據的"_.._catbase_.._"](https://zh.wikipedia.org/wiki/Category:不在維基數據的"_.._catbase_.._" "wikilink")
+[Category:不在維基數據的"_.._catbase_.._"](https://zh.wikipedia.org/wiki/Category:不在維基數據的"_.._catbase_.._" "wikilink")
+[Category:與維基數據相同的"_.._catbase_.._"](https://zh.wikipedia.org/wiki/Category:與維基數據相同的"_.._catbase_.._" "wikilink")
+[Category:與維基數據不同的"_.._catbase_.._"](https://zh.wikipedia.org/wiki/Category:與維基數據不同的"_.._catbase_.._" "wikilink")

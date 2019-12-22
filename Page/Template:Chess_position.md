@@ -1,0 +1,17 @@
+<noinclude></noinclude>
+
+|   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |
+| - | --------------------------------- | --------------------------------- | --------------------------------- | --------------------------------- | --------------------------------- | --------------------------------- | --------------------------------- | --------------------------------- |
+| 8 | ![px](chess_{{{1}}}l40.png "px")  | ![px](chess_{{{2}}}d40.png "px")  | ![px](chess_{{{3}}}l40.png "px")  | ![px](chess_{{{4}}}d40.png "px")  | ![px](chess_{{{5}}}l40.png "px")  | ![px](chess_{{{6}}}d40.png "px")  | ![px](chess_{{{7}}}l40.png "px")  | ![px](chess_{{{8}}}d40.png "px")  |
+| 7 | ![px](chess_{{{9}}}d40.png "px")  | ![px](chess_{{{10}}}l40.png "px") | ![px](chess_{{{11}}}d40.png "px") | ![px](chess_{{{12}}}l40.png "px") | ![px](chess_{{{13}}}d40.png "px") | ![px](chess_{{{14}}}l40.png "px") | ![px](chess_{{{15}}}d40.png "px") | ![px](chess_{{{16}}}l40.png "px") |
+| 6 | ![px](chess_{{{17}}}l40.png "px") | ![px](chess_{{{18}}}d40.png "px") | ![px](chess_{{{19}}}l40.png "px") | ![px](chess_{{{20}}}d40.png "px") | ![px](chess_{{{21}}}l40.png "px") | ![px](chess_{{{22}}}d40.png "px") | ![px](chess_{{{23}}}l40.png "px") | ![px](chess_{{{24}}}d40.png "px") |
+| 5 | ![px](chess_{{{25}}}d40.png "px") | ![px](chess_{{{26}}}l40.png "px") | ![px](chess_{{{27}}}d40.png "px") | ![px](chess_{{{28}}}l40.png "px") | ![px](chess_{{{29}}}d40.png "px") | ![px](chess_{{{30}}}l40.png "px") | ![px](chess_{{{31}}}d40.png "px") | ![px](chess_{{{32}}}l40.png "px") |
+| 4 | ![px](chess_{{{33}}}l40.png "px") | ![px](chess_{{{34}}}d40.png "px") | ![px](chess_{{{35}}}l40.png "px") | ![px](chess_{{{36}}}d40.png "px") | ![px](chess_{{{37}}}l40.png "px") | ![px](chess_{{{38}}}d40.png "px") | ![px](chess_{{{39}}}l40.png "px") | ![px](chess_{{{40}}}d40.png "px") |
+| 3 | ![px](chess_{{{41}}}d40.png "px") | ![px](chess_{{{42}}}l40.png "px") | ![px](chess_{{{43}}}d40.png "px") | ![px](chess_{{{44}}}l40.png "px") | ![px](chess_{{{45}}}d40.png "px") | ![px](chess_{{{46}}}l40.png "px") | ![px](chess_{{{47}}}d40.png "px") | ![px](chess_{{{48}}}l40.png "px") |
+| 2 | ![px](chess_{{{49}}}l40.png "px") | ![px](chess_{{{50}}}d40.png "px") | ![px](chess_{{{51}}}l40.png "px") | ![px](chess_{{{52}}}d40.png "px") | ![px](chess_{{{53}}}l40.png "px") | ![px](chess_{{{54}}}d40.png "px") | ![px](chess_{{{55}}}l40.png "px") | ![px](chess_{{{56}}}d40.png "px") |
+| 1 | ![px](chess_{{{57}}}d40.png "px") | ![px](chess_{{{58}}}l40.png "px") | ![px](chess_{{{59}}}d40.png "px") | ![px](chess_{{{60}}}l40.png "px") | ![px](chess_{{{61}}}d40.png "px") | ![px](chess_{{{62}}}l40.png "px") | ![px](chess_{{{63}}}d40.png "px") | ![px](chess_{{{64}}}l40.png "px") |
+|   | a                                 | b                                 | c                                 | d                                 | e                                 | f                                 | g                                 | h                                 |
+
+<noinclude> </noinclude>
+
+[](../Category/体育模板.md "wikilink") [](../Category/國際象棋模板.md "wikilink")

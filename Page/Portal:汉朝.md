@@ -1,0 +1,79 @@
+<table>
+<tbody>
+<tr class="odd">
+<td><table style="width:7%;">
+<colgroup>
+<col style="width: 6%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><div style="font-size:300%; color:white; font-family: 'Palatino Linotype', 'Times New Roman', 'serif'; padding:0.5em">
+<p>汉朝主题</p>
+</div></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+<tr class="even">
+<td><p><span style="font-size: 140%">欢迎光临汉朝主题</span></p>
+<div style="font-family: 'Palatino Linotype', 'Times New Roman', 'serif';" align="left">
+<div style="float:right;text-align:right;">
+</div>
+</div></td>
+</tr>
+<tr class="odd">
+<td></td>
+</tr>
+<tr class="even">
+<td><div style="font-family: 'Palatino Linotype', 'Times New Roman', 'serif';" align="left">
+<div style="font-size:small">
+</div>
+</div>
+<div style="float:right;text-align:right;">
+</div></td>
+</tr>
+<tr class="odd">
+<td></td>
+</tr>
+<tr class="even">
+<td><div style="font-family: 'Palatino Linotype', 'Times New Roman', 'serif';" align="left">
+<div style="float:right;text-align:right;">
+</div>
+</div></td>
+</tr>
+<tr class="odd">
+<td></td>
+</tr>
+<tr class="even">
+<td><div style="font-family: 'Palatino Linotype', 'Times New Roman', 'serif';" align="left">
+<div style="float:right;text-align:right;">
+</div>
+</div></td>
+</tr>
+<tr class="odd">
+<td></td>
+</tr>
+<tr class="even">
+<td><div style="font-family: 'Palatino Linotype', 'Times New Roman', 'serif';" align="left">
+<div style="float:right;text-align:right;">
+</div>
+</div></td>
+</tr>
+<tr class="odd">
+<td></td>
+</tr>
+<tr class="even">
+<td><div style="font-family: 'Palatino Linotype', 'Times New Roman', 'serif';" align="left">
+<div style="float:right;text-align:right;">
+</div>
+</div></td>
+</tr>
+</tbody>
+</table>
+
+<div style="font-size:smaller;vertical-align:top; border:1px solid #aa3333; border-top:6px solid #aa3333; padding:5px; background-color:#fafafa;">
+
+</div>
+
+[Category:中国朝代主题首页](https://zh.wikipedia.org/wiki/Category:中国朝代主题首页 "wikilink")
+[Category:汉朝](https://zh.wikipedia.org/wiki/Category:汉朝 "wikilink")

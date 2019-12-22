@@ -1,4 +1,5 @@
-\-- -- This module implements -- , ,  -- , , , -- , , , -- , , , -- , , , -- , ,  -- local p = {}
+\-- -- This module implements -- , ,  -- , , , -- , , , -- , , , -- , ,
+, -- , ,  -- local p = {}
 
 local data_module = "Module:Basketball color/data"
 

@@ -2,16 +2,16 @@ list = {
 
 \-- Inner Project
 
-`   {'collaborate', '`[`合作`](https://zh.wikipedia.org/wiki/WP:Collaborations "wikilink")`'},`
+`   {'collaborate', '`[`合作`](../Page/WP:Collaborations.md "wikilink")`'},`
 `   {'assess', '`[`评级`](https://zh.wikipedia.org/wiki/Wikipedia:条目质量评级标准 "wikilink")`'},`
 
 \-- Deletion
 
-`   {'deletion', '`[`删除`](https://zh.wikipedia.org/wiki/WP:删除 "wikilink")`'},`
+`   {'deletion', '`[`删除`](../Page/WP:删除.md "wikilink")`'},`
 `   {'notability', '`[`关注度`](https://zh.wikipedia.org/wiki/Wikipedia:关注度 "wikilink")`'},`
 `   {'merge', '`[`合并`](https://zh.wikipedia.org/wiki/Wikipedia:合并和移动页面 "wikilink")`'},`
-`   {'split', '`[`分割`](https://zh.wikipedia.org/wiki/WP:分割 "wikilink")`'},`
-`   {'move', '`[`移动`](https://zh.wikipedia.org/wiki/WP:移动请求 "wikilink")`'},`
+`   {'split', '`[`分割`](../Page/WP:分割.md "wikilink")`'},`
+`   {'move', '`[`移动`](../Page/WP:移动请求.md "wikilink")`'},`
 `   `
 
 \-- Maintain
@@ -30,7 +30,7 @@ list = {
 `   {'requests', '`[`条目请求`](https://zh.wikipedia.org/wiki/Wikipedia:条目请求 "wikilink")`'},`
 `   {'copyedit', '`[`校订`](https://zh.wikipedia.org/wiki/Wikipedia:如何審核校對 "wikilink")`'},`
 `   {'npov', '`[`中立`](https://zh.wikipedia.org/wiki/Wikipedia:中立的观点 "wikilink")`'},`
-`   {'update', '`[`更新`](https://zh.wikipedia.org/wiki/WP:As_of "wikilink")`'},`
+`   {'update', '`[`更新`](../Page/WP:As_of.md "wikilink")`'},`
 `   `
 
 \-- Source
@@ -44,16 +44,18 @@ list = {
 `   {'infobox', '`[`信息框`](https://zh.wikipedia.org/wiki/Wikipedia:格式手册/信息框 "wikilink")`'},`
 `   {'photo', '`[`图片`](https://zh.wikipedia.org/wiki/Wikipedia:图片请求 "wikilink")`'},`
 `   {'map', '`[`地图`](https://zh.wikipedia.org/wiki/Wikipedia:地图专题 "wikilink")`'},`
-`   {'geocoord', '`[`Geographical``   ``coordinates`](https://zh.wikipedia.org/wiki/WP:WikiProject_Geographical_coordinates "wikilink")`'},`
+`   {'geocoord', '`[`Geographical``
+ ``coordinates`](../Page/WP:WikiProject_Geographical_coordinates.md "wikilink")`'},`
 `   `
 
 \-- Reviews
 
 `   {'fac', '`[`特色条目评选`](https://zh.wikipedia.org/wiki/Wikipedia:特色条目评选 "wikilink")`'},`
-`   {'far', '`[`特色条目重审`](https://zh.wikipedia.org/wiki/WP:特色条目重审 "wikilink")`'},`
+`   {'far', '`[`特色条目重审`](../Page/WP:特色条目重审.md "wikilink")`'},`
 `   {'flc', '`[`特色列表评选`](https://zh.wikipedia.org/wiki/Wikipedia:特色列表评选 "wikilink")`'},`
 
-\-- {'fsc', '[Featured sound candidates](https://zh.wikipedia.org/wiki/WP:Featured_sound_candidates "wikilink")'},
+\-- {'fsc', '[Featured sound
+candidates](../Page/WP:Featured_sound_candidates.md "wikilink")'},
 
 `   {'gan', '`[`優良條目評選`](https://zh.wikipedia.org/wiki/Wikipedia:優良條目評選 "wikilink")`'},`
 `   {'gar', '`[`優良條目重審`](https://zh.wikipedia.org/wiki/Wikipedia:優良條目重審 "wikilink")`'},`
@@ -84,7 +86,8 @@ local function core(name, value)
 
 end
 
-local function tasklist(args) -- table.insert(list, -1, args.othertext or '其它')
+local function tasklist(args) -- table.insert(list, -1, args.othertext
+or '其它')
 
 `   local ret = ''`
 `   `

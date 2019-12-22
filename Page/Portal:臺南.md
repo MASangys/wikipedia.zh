@@ -1,0 +1,71 @@
+<div style="margin:3px 0; border:0; padding:0.5em; background-color:#FFFFCC; color:#330000; text-align:center; font-size:220%; -moz-border-radius: 6px;">
+
+**臺南主題頁**
+
+</div>
+
+<div style="margin:3px 0; border:1px solid #ccffaa; padding:0.5em; background-color:#fff; font-size:100%;">
+
+<span style="font-size:220%;">**臺**</span>南市為中華民國六個直轄市之一，位在臺灣西南隅，是該島歷史最悠久的城市，其市街形成可追溯至荷蘭統治時期的大員市街。清代築城，日治時期1920年實施市制。
+
+現今的臺南直轄市，於2010年由原省轄臺南市及臺南縣合併改制而成，計人口187萬、面積2191km<sup>2</sup>、轄37區。以曾文溪為界，可大致分為溪北、溪南兩地理區，人口及都市發展主要集中在溪南原臺南省轄市一帶。相鄰縣市為嘉義縣、高雄市。
+
+</center>
+
+<div style="position: relative; border-bottom:2px solid #9999cc; border-top:2px solid #9999cc; padding:1em; margin:1em; color:#666666;">
+
+<center>
+
+[台南市大東門.JPG](https://zh.wikipedia.org/wiki/File:台南市大東門.JPG "fig:台南市大東門.JPG")[新化街役場.jpg](https://zh.wikipedia.org/wiki/File:新化街役場.jpg "fig:新化街役場.jpg")[TRA_BaoAn_Station.jpg](https://zh.wikipedia.org/wiki/File:TRA_BaoAn_Station.jpg "fig:TRA_BaoAn_Station.jpg")[XFxcJw==_UhslVX59KPLg.jpg](https://zh.wikipedia.org/wiki/File:XFxcJw==_UhslVX59KPLg.jpg "fig:XFxcJw==_UhslVX59KPLg.jpg")[Zhengdianjjinzhao.jpg](https://zh.wikipedia.org/wiki/File:Zhengdianjjinzhao.jpg "fig:Zhengdianjjinzhao.jpg")[Kongmiau.JPG](https://zh.wikipedia.org/wiki/File:Kongmiau.JPG "fig:Kongmiau.JPG")
+
+</center>
+
+</div>
+
+<div style="font-size:80%; text-align:left;">
+
+[←圖片集](../Page/commons:Category:Tainan.md "wikilink")
+
+</div>
+
+<div style="font-size:80%; text-align:right;">
+
+[前往協作專題→](../Page/:Wikipedia:臺南專題.md "wikilink")
+
+</div>
+
+</div>
+
+<div style="float:right; margin:3px 0; border:1px solid #ccffaa; padding:0.5em; background-color:#fff;width:41%;">
+
+{{/box-header|歷史|Portal:臺南/歷史}}  {{/box-footer}}
+
+{{/box-header|建築與設施|Portal:臺南/建築與設施}}  {{/box-footer}}
+
+{{/box-header|條目分類|Portal:臺南/條目分類}}  {{/box-footer}}
+
+</div>
+
+<div style="float:left; margin:3px 0; border:1px solid #ccffaa; padding:0.5em; background-color:#fff;width:54%;">
+
+{{/box-header|你知道嗎？|Portal:臺南/DYK}}  {{/box-footer}}
+
+{{/box-header|地理|Portal:臺南/地理}}  {{/box-footer}}
+
+{{/box-header|行政區|Portal:臺南/行政區}}  {{/box-footer}}
+
+{{/box-header|待創條目|Portal:臺南/待創條目}}  {{/box-footer}}
+
+</div>
+
+<div style="clear:both; margin:3px 0; border:1px solid #ccffaa; padding:0.5em; background-color:#fff;">
+
+{{/box-header|相關主題|Portal:臺南/相關主題}}  {{/box-footer}}
+
+</div>
+
+__NOTOC__ __NOEDITSECTION__
+
+[Category:主题首页](https://zh.wikipedia.org/wiki/Category:主题首页 "wikilink")
+[Category:臺南市](https://zh.wikipedia.org/wiki/Category:臺南市 "wikilink")
+[Category:台灣維基資源](https://zh.wikipedia.org/wiki/Category:台灣維基資源 "wikilink")

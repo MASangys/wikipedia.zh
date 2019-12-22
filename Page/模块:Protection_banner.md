@@ -1,10 +1,18 @@
-\-- This module implements  and its daughter templates such as -- ,  and .
+\-- This module implements  and its daughter templates such as -- ,  and
+.
 
-\-- Initialise necessary modules. require('Module:No globals') local makeFileLink = require('Module:File link')._main local effectiveProtectionLevel = require('Module:Effective protection level')._main local effectiveProtectionExpiry = require('Module:Effective protection expiry')._main local yesno = require('Module:Yesno')
+\-- Initialise necessary modules. require('Module:No globals') local
+makeFileLink = require('Module:File link')._main local
+effectiveProtectionLevel = require('Module:Effective protection
+level')._main local effectiveProtectionExpiry =
+require('Module:Effective protection expiry')._main local yesno =
+require('Module:Yesno')
 
-\-- Lazily initialise modules and objects we don't always need. local getArgs, makeMessageBox, lang
+\-- Lazily initialise modules and objects we don't always need. local
+getArgs, makeMessageBox, lang
 
-\-- Set constants. local CONFIG_MODULE = 'Module:Protection banner/config'
+\-- Set constants. local CONFIG_MODULE = 'Module:Protection
+banner/config'
 
 -----
 
@@ -16,7 +24,7 @@ local function makeCategoryLink(cat, sort)
 
 `   if cat then`
 `       return string.format(`
-`           '`[`%s`](https://zh.wikipedia.org/wiki/%s:%s "wikilink")`',`
+`           '`[`%s`](../Page/%s:%s.md "wikilink")`',`
 `           mw.site.namespaces[14].name,`
 `           cat,`
 `           sort`
@@ -25,7 +33,8 @@ local function makeCategoryLink(cat, sort)
 
 end
 
-\-- Validation function for the expiry and the protection date local function validateDate(dateString, dateType)
+\-- Validation function for the expiry and the protection date local
+function validateDate(dateString, dateType)
 
 `   if not lang then`
 `       lang = mw.language.getContentLanguage()`
@@ -55,7 +64,10 @@ local function makeFullUrl(page, query, display)
 
 end
 
-\-- Given a directed graph formatted as node -\> table of direct successors, -- get a table of all nodes reachable from a given node (though always -- including the given node). local function getReachableNodes(graph, start)
+\-- Given a directed graph formatted as node -\> table of direct
+successors, -- get a table of all nodes reachable from a given node
+(though always -- including the given node). local function
+getReachableNodes(graph, start)
 
 `   local toWalk, retval = {[start] = true}, {}`
 `   while true do`
@@ -222,10 +234,41 @@ function Protection:makeProtectionCategory()
 `       {val = self.action,       keypos = 5}`
 `   }`
 
-`   --`[`--``   ``The``   ``old``   ``protection``   ``templates``   ``used``   ``an``   ``ad-hoc``   ``protection``   ``category``   ``system,``   ``--``   ``with``   ``some``   ``templates``   ``prioritising``   ``namespaces``   ``in``   ``their``   ``categories,``   ``and``   ``--``   ``others``   ``prioritising``   ``the``   ``protection``   ``reason.``   ``To``   ``emulate``   ``this``   ``in``   ``this``   ``module``   ``--``   ``we``   ``use``   ``the``   ``config``   ``table``   ``cfg.reasonsWithNamespacePriority``   ``to``   ``set``   ``the``   ``--``   ``reasons``   ``for``   ``which``   ``namespaces``   ``have``   ``priority``   ``over``   ``protection``   ``reason.``   ``--``   ``If``   ``we``   ``are``   ``dealing``   ``with``   ``one``   ``of``   ``those``   ``reasons,``   ``move``   ``the``   ``namespace``   ``table``   ``to``   ``--``   ``the``   ``end``   ``of``   ``the``   ``order``   ``table,``   ``i.e.``   ``give``   ``it``   ``highest``   ``priority.``   ``If``   ``not,``   ``the``   ``--``   ``reason``   ``should``   ``have``   ``highest``   ``priority,``   ``so``   ``move``   ``that``   ``to``   ``the``   ``end``   ``of``   ``the``   ``table``   ``--``   ``instead.``   ``--`](https://zh.wikipedia.org/wiki/--_The_old_protection_templates_used_an_ad-hoc_protection_category_system,_--_with_some_templates_prioritising_namespaces_in_their_categories,_and_--_others_prioritising_the_protection_reason._To_emulate_this_in_this_module_--_we_use_the_config_table_cfg.reasonsWithNamespacePriority_to_set_the_--_reasons_for_which_namespaces_have_priority_over_protection_reason._--_If_we_are_dealing_with_one_of_those_reasons,_move_the_namespace_table_to_--_the_end_of_the_order_table,_i.e._give_it_highest_priority._If_not,_the_--_reason_should_have_highest_priority,_so_move_that_to_the_end_of_the_table_--_instead._-- "wikilink")
+`   --`[`--``   ``The``   ``old``   ``protection``   ``templates``
+ ``used``   ``an``   ``ad-hoc``   ``protection``   ``category``
+ ``system,``   ``--``   ``with``   ``some``   ``templates``
+ ``prioritising``   ``namespaces``   ``in``   ``their``
+ ``categories,``   ``and``   ``--``   ``others``   ``prioritising``
+ ``the``   ``protection``   ``reason.``   ``To``   ``emulate``
+ ``this``   ``in``   ``this``   ``module``   ``--``   ``we``   ``use``
+ ``the``   ``config``   ``table``
+ ``cfg.reasonsWithNamespacePriority``   ``to``   ``set``   ``the``
+ ``--``   ``reasons``   ``for``   ``which``   ``namespaces``   ``have``
+ ``priority``   ``over``   ``protection``   ``reason.``   ``--``
+ ``If``   ``we``   ``are``   ``dealing``   ``with``   ``one``   ``of``
+ ``those``   ``reasons,``   ``move``   ``the``   ``namespace``
+ ``table``   ``to``   ``--``   ``the``   ``end``   ``of``   ``the``
+ ``order``   ``table,``   ``i.e.``   ``give``   ``it``   ``highest``
+ ``priority.``   ``If``   ``not,``   ``the``   ``--``   ``reason``
+ ``should``   ``have``   ``highest``   ``priority,``   ``so``
+ ``move``   ``that``   ``to``   ``the``   ``end``   ``of``   ``the``
+ ``table``   ``--``   ``instead.``
+ ``--`](../Page/--_The_old_protection_templates_used_an_ad-hoc_protection_category_system,_--_with_some_templates_prioritising_namespaces_in_their_categories,_and_--_others_prioritising_the_protection_reason._To_emulate_this_in_this_module_--_we_use_the_config_table_cfg.reasonsWithNamespacePriority_to_set_the_--_reasons_for_which_namespaces_have_priority_over_protection_reason._--_If_we_are_dealing_with_one_of_those_reasons,_move_the_namespace_table_to_--_the_end_of_the_order_table,_i.e._give_it_highest_priority._If_not,_the_--_reason_should_have_highest_priority,_so_move_that_to_the_end_of_the_table_--_instead._--.md "wikilink")
 `   table.insert(order, table.remove(order, self.reason and cfg.reasonsWithNamespacePriority[self.reason] and 2 or 3))`
 
-`   --`[`--``   ``Define``   ``the``   ``attempt``   ``order.``   ``Inactive``   ``subtables``   ``(subtables``   ``with``   ``nil``   ``"value"``   ``--``   ``fields)``   ``are``   ``moved``   ``to``   ``the``   ``end,``   ``where``   ``they``   ``will``   ``later``   ``be``   ``given``   ``the``   ``key``   ``--``   ``"all".``   ``This``   ``is``   ``to``   ``cut``   ``down``   ``on``   ``the``   ``number``   ``of``   ``table``   ``lookups``   ``in``   ``--``   ``cfg.protectionCategories,``   ``which``   ``grows``   ``exponentially``   ``with``   ``the``   ``number``   ``of``   ``--``   ``non-nil``   ``keys.``   ``We``   ``keep``   ``track``   ``of``   ``the``   ``number``   ``of``   ``active``   ``subtables``   ``with``   ``the``   ``--``   ``noActive``   ``parameter.``   ``--`](https://zh.wikipedia.org/wiki/--_Define_the_attempt_order._Inactive_subtables_\(subtables_with_nil_"value"_--_fields\)_are_moved_to_the_end,_where_they_will_later_be_given_the_key_--_"all"._This_is_to_cut_down_on_the_number_of_table_lookups_in_--_cfg.protectionCategories,_which_grows_exponentially_with_the_number_of_--_non-nil_keys._We_keep_track_of_the_number_of_active_subtables_with_the_--_noActive_parameter._-- "wikilink")
+`   --`[`--``   ``Define``   ``the``   ``attempt``   ``order.``
+ ``Inactive``   ``subtables``   ``(subtables``   ``with``   ``nil``
+ ``"value"``   ``--``   ``fields)``   ``are``   ``moved``   ``to``
+ ``the``   ``end,``   ``where``   ``they``   ``will``   ``later``
+ ``be``   ``given``   ``the``   ``key``   ``--``   ``"all".``
+ ``This``   ``is``   ``to``   ``cut``   ``down``   ``on``   ``the``
+ ``number``   ``of``   ``table``   ``lookups``   ``in``   ``--``
+ ``cfg.protectionCategories,``   ``which``   ``grows``
+ ``exponentially``   ``with``   ``the``   ``number``   ``of``   ``--``
+ ``non-nil``   ``keys.``   ``We``   ``keep``   ``track``   ``of``
+ ``the``   ``number``   ``of``   ``active``   ``subtables``   ``with``
+ ``the``   ``--``   ``noActive``   ``parameter.``
+ ``--`](../Page/--_Define_the_attempt_order._Inactive_subtables_\(subtables_with_nil_"value"_--_fields\)_are_moved_to_the_end,_where_they_will_later_be_given_the_key_--_"all"._This_is_to_cut_down_on_the_number_of_table_lookups_in_--_cfg.protectionCategories,_which_grows_exponentially_with_the_number_of_--_non-nil_keys._We_keep_track_of_the_number_of_active_subtables_with_the_--_noActive_parameter._--.md "wikilink")
 `   local noActive, attemptOrder`
 `   do`
 `       local active, inactive = {}, {}`
@@ -243,7 +286,42 @@ function Protection:makeProtectionCategory()
 `       end`
 `   end`
 
-`   --`[`--``   ``Check``   ``increasingly``   ``generic``   ``key``   ``combinations``   ``until``   ``we``   ``find``   ``a``   ``match.``   ``If``   ``a``   ``--``   ``specific``   ``category``   ``exists``   ``for``   ``the``   ``combination``   ``of``   ``key``   ``fragments``   ``we``   ``are``   ``--``   ``given,``   ``that``   ``match``   ``will``   ``be``   ``found``   ``first.``   ``If``   ``not,``   ``we``   ``keep``   ``trying``   ``different``   ``--``   ``key``   ``fragment``   ``combinations``   ``until``   ``we``   ``match``   ``using``   ``the``   ``key``   ``--``   ``"all-all-all-all-all".``   ``--``   ``--``   ``To``   ``generate``   ``the``   ``keys,``   ``we``   ``index``   ``the``   ``key``   ``subtables``   ``using``   ``a``   ``binary``   ``matrix``   ``--``   ``with``   ``indexes``   ``i``   ``and``   ``j.``   ``j``   ``is``   ``only``   ``calculated``   ``up``   ``to``   ``the``   ``number``   ``of``   ``active``   ``--``   ``subtables.``   ``For``   ``example,``   ``if``   ``there``   ``were``   ``three``   ``active``   ``subtables,``   ``the``   ``matrix``   ``--``   ``would``   ``look``   ``like``   ``this,``   ``with``   ``0``   ``corresponding``   ``to``   ``the``   ``key``   ``fragment``   ``"all",``   ``and``   ``--``   ``1``   ``corresponding``   ``to``   ``other``   ``key``   ``fragments.``   ``--``   ``--``   ``j``   ``1``   ``2``   ``3``   ``--``   ``i``   ``--``   ``1``   ``1``   ``1``   ``1``   ``--``   ``2``   ``0``   ``1``   ``1``   ``--``   ``3``   ``1``   ``0``   ``1``   ``--``   ``4``   ``0``   ``0``   ``1``   ``--``   ``5``   ``1``   ``1``   ``0``   ``--``   ``6``   ``0``   ``1``   ``0``   ``--``   ``7``   ``1``   ``0``   ``0``   ``--``   ``8``   ``0``   ``0``   ``0``   ``--``   ``--``   ``Values``   ``of``   ``j``   ``higher``   ``than``   ``the``   ``number``   ``of``   ``active``   ``subtables``   ``are``   ``set``   ``--``   ``to``   ``the``   ``string``   ``"all".``   ``--``   ``--``   ``A``   ``key``   ``for``   ``cfg.protectionCategories``   ``is``   ``constructed``   ``for``   ``each``   ``value``   ``of``   ``i.``   ``--``   ``The``   ``position``   ``of``   ``the``   ``value``   ``in``   ``the``   ``key``   ``is``   ``determined``   ``by``   ``the``   ``keypos``   ``field``   ``in``   ``--``   ``each``   ``subtable.``   ``--`](https://zh.wikipedia.org/wiki/--_Check_increasingly_generic_key_combinations_until_we_find_a_match._If_a_--_specific_category_exists_for_the_combination_of_key_fragments_we_are_--_given,_that_match_will_be_found_first._If_not,_we_keep_trying_different_--_key_fragment_combinations_until_we_match_using_the_key_--_"all-all-all-all-all"._--_--_To_generate_the_keys,_we_index_the_key_subtables_using_a_binary_matrix_--_with_indexes_i_and_j._j_is_only_calculated_up_to_the_number_of_active_--_subtables._For_example,_if_there_were_three_active_subtables,_the_matrix_--_would_look_like_this,_with_0_corresponding_to_the_key_fragment_"all",_and_--_1_corresponding_to_other_key_fragments._--_--_j_1_2_3_--_i_--_1_1_1_1_--_2_0_1_1_--_3_1_0_1_--_4_0_0_1_--_5_1_1_0_--_6_0_1_0_--_7_1_0_0_--_8_0_0_0_--_--_Values_of_j_higher_than_the_number_of_active_subtables_are_set_--_to_the_string_"all"._--_--_A_key_for_cfg.protectionCategories_is_constructed_for_each_value_of_i._--_The_position_of_the_value_in_the_key_is_determined_by_the_keypos_field_in_--_each_subtable._-- "wikilink")
+`   --`[`--``   ``Check``   ``increasingly``   ``generic``   ``key``
+ ``combinations``   ``until``   ``we``   ``find``   ``a``   ``match.``
+ ``If``   ``a``   ``--``   ``specific``   ``category``   ``exists``
+ ``for``   ``the``   ``combination``   ``of``   ``key``   ``fragments``
+ ``we``   ``are``   ``--``   ``given,``   ``that``   ``match``
+ ``will``   ``be``   ``found``   ``first.``   ``If``   ``not,``
+ ``we``   ``keep``   ``trying``   ``different``   ``--``   ``key``
+ ``fragment``   ``combinations``   ``until``   ``we``   ``match``
+ ``using``   ``the``   ``key``   ``--``   ``"all-all-all-all-all".``
+ ``--``   ``--``   ``To``   ``generate``   ``the``   ``keys,``   ``we``
+ ``index``   ``the``   ``key``   ``subtables``   ``using``   ``a``
+ ``binary``   ``matrix``   ``--``   ``with``   ``indexes``   ``i``
+ ``and``   ``j.``   ``j``   ``is``   ``only``   ``calculated``   ``up``
+ ``to``   ``the``   ``number``   ``of``   ``active``   ``--``
+ ``subtables.``   ``For``   ``example,``   ``if``   ``there``
+ ``were``   ``three``   ``active``   ``subtables,``   ``the``
+ ``matrix``   ``--``   ``would``   ``look``   ``like``   ``this,``
+ ``with``   ``0``   ``corresponding``   ``to``   ``the``   ``key``
+ ``fragment``   ``"all",``   ``and``   ``--``   ``1``
+ ``corresponding``   ``to``   ``other``   ``key``   ``fragments.``
+ ``--``   ``--``   ``j``   ``1``   ``2``   ``3``   ``--``   ``i``
+ ``--``   ``1``   ``1``   ``1``   ``1``   ``--``   ``2``   ``0``
+ ``1``   ``1``   ``--``   ``3``   ``1``   ``0``   ``1``   ``--``
+ ``4``   ``0``   ``0``   ``1``   ``--``   ``5``   ``1``   ``1``   ``0``
+ ``--``   ``6``   ``0``   ``1``   ``0``   ``--``   ``7``   ``1``
+ ``0``   ``0``   ``--``   ``8``   ``0``   ``0``   ``0``   ``--``
+ ``--``   ``Values``   ``of``   ``j``   ``higher``   ``than``   ``the``
+ ``number``   ``of``   ``active``   ``subtables``   ``are``   ``set``
+ ``--``   ``to``   ``the``   ``string``   ``"all".``   ``--``   ``--``
+ ``A``   ``key``   ``for``   ``cfg.protectionCategories``   ``is``
+ ``constructed``   ``for``   ``each``   ``value``   ``of``   ``i.``
+ ``--``   ``The``   ``position``   ``of``   ``the``   ``value``
+ ``in``   ``the``   ``key``   ``is``   ``determined``   ``by``
+ ``the``   ``keypos``   ``field``   ``in``   ``--``   ``each``
+ ``subtable.``
+ ``--`](../Page/--_Check_increasingly_generic_key_combinations_until_we_find_a_match._If_a_--_specific_category_exists_for_the_combination_of_key_fragments_we_are_--_given,_that_match_will_be_found_first._If_not,_we_keep_trying_different_--_key_fragment_combinations_until_we_match_using_the_key_--_"all-all-all-all-all"._--_--_To_generate_the_keys,_we_index_the_key_subtables_using_a_binary_matrix_--_with_indexes_i_and_j._j_is_only_calculated_up_to_the_number_of_active_--_subtables._For_example,_if_there_were_three_active_subtables,_the_matrix_--_would_look_like_this,_with_0_corresponding_to_the_key_fragment_"all",_and_--_1_corresponding_to_other_key_fragments._--_--_j_1_2_3_--_i_--_1_1_1_1_--_2_0_1_1_--_3_1_0_1_--_4_0_0_1_--_5_1_1_0_--_6_0_1_0_--_7_1_0_0_--_8_0_0_0_--_--_Values_of_j_higher_than_the_number_of_active_subtables_are_set_--_to_the_string_"all"._--_--_A_key_for_cfg.protectionCategories_is_constructed_for_each_value_of_i._--_The_position_of_the_value_in_the_key_is_determined_by_the_keypos_field_in_--_each_subtable._--.md "wikilink")
 `   local cats = cfg.protectionCategories`
 `   for i = 1, 2^noActive do`
 `       local key = {}`
@@ -617,7 +695,7 @@ end
 function Blurb:_makeTalkPageParameter()
 
 `   return string.format(`
-`       '`[`%s`](https://zh.wikipedia.org/wiki/%s:%s#%s "wikilink")`',`
+`       '`[`%s`](../Page/%s:%s#%s.md "wikilink")`',`
 `       mw.site.namespaces[self._protectionObj.title.namespace].talk.name,`
 `       self._protectionObj.title.text,`
 `       self._args.section or 'top',`
@@ -760,7 +838,8 @@ end
 
 -----
 
-local Banner = setmetatable({}, BannerTemplate) Banner.__index = Banner
+local Banner = setmetatable({}, BannerTemplate) Banner.__index =
+Banner
 
 function Banner.new(protectionObj, blurbObj, cfg)
 
@@ -801,7 +880,8 @@ end
 
 -----
 
-local Padlock = setmetatable({}, BannerTemplate) Padlock.__index = Padlock
+local Padlock = setmetatable({}, BannerTemplate) Padlock.__index =
+Padlock
 
 function Padlock.new(protectionObj, blurbObj, cfg)
 

@@ -1,4 +1,20 @@
-\--[============================= This Module was written by Alexander Zhikun He, also known as, User:Codehydro on the English Wikipedia All methods were developed independently and any resemblance to other string buffer libraries would be coincidental. Furthermore, many methods will not work when compiled by standard Lua libraries as they depend on behaviors unique to the MediaMiki Scribunto mod, which, for example, has a getmetatable() method that always returns nil on non-tables. https://www.mediawiki.org/wiki/Extension:Scribunto/Lua_reference_manual Source code comments may be thin at some points because they are intended to be supplemented by the documentation page: https://en.wikipedia.org/wiki/Module:Buffer/doc Licensed under Creative Commons Attribution-ShareAlike 3.0 Unported License https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License https://en.wikipedia.org/wiki/Module:Buffer https://en.wikipedia.org/wiki/User:Codehydro =============================--](https://zh.wikipedia.org/wiki/=============================_This_Module_was_written_by_Alexander_Zhikun_He,_also_known_as,_User:Codehydro_on_the_English_Wikipedia_All_methods_were_developed_independently_and_any_resemblance_to_other_string_buffer_libraries_would_be_coincidental._Furthermore,_many_methods_will_not_work_when_compiled_by_standard_Lua_libraries_as_they_depend_on_behaviors_unique_to_the_MediaMiki_Scribunto_mod,_which,_for_example,_has_a_getmetatable\(\)_method_that_always_returns_nil_on_non-tables._https://www.mediawiki.org/wiki/Extension:Scribunto/Lua_reference_manual_Source_code_comments_may_be_thin_at_some_points_because_they_are_intended_to_be_supplemented_by_the_documentation_page:_https://en.wikipedia.org/wiki/Module:Buffer/doc_Licensed_under_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License_https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License_https://en.wikipedia.org/wiki/Module:Buffer_https://en.wikipedia.org/wiki/User:Codehydro_=============================-- "wikilink") local function Valid(v)--type validation
+\--[============================= This Module was written by Alexander
+Zhikun He, also known as, User:Codehydro on the English Wikipedia All
+methods were developed independently and any resemblance to other string
+buffer libraries would be coincidental. Furthermore, many methods will
+not work when compiled by standard Lua libraries as they depend on
+behaviors unique to the MediaMiki Scribunto mod, which, for example, has
+a getmetatable() method that always returns nil on non-tables.
+https://www.mediawiki.org/wiki/Extension:Scribunto/Lua_reference_manual
+Source code comments may be thin at some points because they are
+intended to be supplemented by the documentation page:
+https://en.wikipedia.org/wiki/Module:Buffer/doc Licensed under Creative
+Commons Attribution-ShareAlike 3.0 Unported License
+https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License
+https://en.wikipedia.org/wiki/Module:Buffer
+https://en.wikipedia.org/wiki/User:Codehydro
+=============================--](../Page/=============================_This_Module_was_written_by_Alexander_Zhikun_He,_also_known_as,_User:Codehydro_on_the_English_Wikipedia_All_methods_were_developed_independently_and_any_resemblance_to_other_string_buffer_libraries_would_be_coincidental._Furthermore,_many_methods_will_not_work_when_compiled_by_standard_Lua_libraries_as_they_depend_on_behaviors_unique_to_the_MediaMiki_Scribunto_mod,_which,_for_example,_has_a_getmetatable\(\)_method_that_always_returns_nil_on_non-tables._https://www.mediawiki.org/wiki/Extension:Scribunto/Lua_reference_manual_Source_code_comments_may_be_thin_at_some_points_because_they_are_intended_to_be_supplemented_by_the_documentation_page:_https://en.wikipedia.org/wiki/Module:Buffer/doc_Licensed_under_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License_https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License_https://en.wikipedia.org/wiki/Module:Buffer_https://en.wikipedia.org/wiki/User:Codehydro_=============================--.md "wikilink")
+local function Valid(v)--type validation
 
 `   if v and v~=true then--reject nil/boolean; faster than 2 type() comparisons`
 `       local str = tostring(v)--functions not filtered since unlikely passed by accident (Scribunto does not have userdata/thread types)`
@@ -6,7 +22,8 @@
 `       if str~='' then return str end--numbers are coerced to string per table.concat op; appending in string form saves ops on repeat concat`
 `   end`
 
-end local noOp, MBpairs = function()end do local iMap, vMap, oMap, pIter, pOther, pFast, Next--Map
+end local noOp, MBpairs = function()end do local iMap, vMap, oMap,
+pIter, pOther, pFast, Next--Map
 
 `   local function init()--init = noOp after first run`
 `       function Next(t) return next, t end--slightly faster to do this than to use select()`
@@ -38,14 +55,18 @@ end local noOp, MBpairs = function()end do local iMap, vMap, oMap, pIter, pOther
 `       return iter and pIter or oMap[t] and pOther or noOp, t--noOp for mapless`
 `   end`
 
-end local parent, rawkey, spec do--new scope for variables not reused outside (reduces number of var names that need to checked outside of scope)
+end local parent, rawkey, spec do--new scope for variables not reused
+outside (reduces number of var names that need to checked outside of
+scope)
 
 `   local mkv = {__mode='kv', __call=function(t,k,v)t[k]=v return k end}--shared meta for Buffer parent property, raw mode, and specialized functions`
 `   parent, rawkey, spec = setmetatable({}, mkv), setmetatable({}, mkv), setmetatable({}, mkv)--shared meta less memory`
 
 end
 
-local MB, MBi, MBmix, buffHTML, gfuncs, noCache, Element do--minimize number of locals per scope to reduce time spent sifting through irrelevant variable names
+local MB, MBi, MBmix, buffHTML, gfuncs, noCache, Element do--minimize
+number of locals per scope to reduce time spent sifting through
+irrelevant variable names
 
 `   local _stream do local stream--keep stream near top of scope`
 `       local function init(f)--init = noOp after first run`
@@ -364,9 +385,14 @@ local MB, MBi, MBmix, buffHTML, gfuncs, noCache, Element do--minimize number of 
 
 end
 
-function MBmix(t, v, ...) return v and ((type(v)\~='table' or getmetatable(v)) and MBi._(t, v) or (select('\#', ...)==0 and spec\[t\] and spec\[t\]._add or MBi._all)(t, v, ...)) or t end--:_all always passes two args
+function MBmix(t, v, ...) return v and ((type(v)\~='table' or
+getmetatable(v)) and MBi._(t, v) or (select('\#', ...)==0 and spec\[t\]
+and spec\[t\]._add or MBi._all)(t, v, ...)) or t end--:_all always
+passes two args
 
-local _G, new_G = _G--localize _G for console testing (console _G \~= module _G) return setmetatable({__index = function(t, i) return spec\[t\] and spec\[t\]\[i\] or MBi\[i\] end,
+local _G, new_G = _G--localize _G for console testing (console _G
+\~= module _G) return setmetatable({__index = function(t, i) return
+spec\[t\] and spec\[t\]\[i\] or MBi\[i\] end,
 
 `   __call = function(t, ...)`
 `       local rawsep, sep, i, j, raw = noCache and rawkey[...] and ..., ...`

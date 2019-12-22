@@ -1,4 +1,11 @@
-《**BEST～third universe～ & 8th AL "UNIVERSE"**》（三度體驗～第三次精選～ & 8th AL "無限宇宙"）是日本歌手倖田來未的第8張個人原創專輯以及第5張[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")，收錄《[It's all love\!](https://zh.wikipedia.org/wiki/It's_all_love! "wikilink")》、《[3 SPLASH](https://zh.wikipedia.org/wiki/3_SPLASH_3色漾彩 "wikilink")》、《[Alive/Physical thing](https://zh.wikipedia.org/wiki/Alive/Physical_thing_生存/本能慾望 "wikilink")》及《[Can We Go Back](../Page/Can_We_Go_Back.md "wikilink")》，4張A面單曲。另加上Bonus Track「Moon Crying (Live ver. In Taiwan)」是收錄自2009年10月3、4日於台灣舉辦的「KODA KUMI 2009 TAIWAN LIVE（倖田來未2009台北演唱會）」的演唱會版本。
+《**BEST～third universe～ & 8th AL "UNIVERSE"**》（三度體驗～第三次精選～ & 8th AL
+"無限宇宙"）是日本歌手倖田來未的第8張個人原創專輯以及第5張[精選輯](../Page/精選輯.md "wikilink")，收錄《[It's
+all love\!](../Page/It's_all_love!.md "wikilink")》、《[3
+SPLASH](../Page/3_SPLASH_3色漾彩.md "wikilink")》、《[Alive/Physical
+thing](../Page/Alive/Physical_thing_生存/本能慾望.md "wikilink")》及《[Can We Go
+Back](../Page/Can_We_Go_Back.md "wikilink")》，4張A面單曲。另加上Bonus Track「Moon
+Crying (Live ver. In Taiwan)」是收錄自2009年10月3、4日於台灣舉辦的「KODA KUMI 2009
+TAIWAN LIVE（倖田來未2009台北演唱會）」的演唱會版本。
 
 ## 解說
 
@@ -14,11 +21,14 @@
 
 <!-- end list -->
 
-  - 封面照於2006年發行的[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")「[BEST～second session～](../Page/BEST～second_session～.md "wikilink")」封面所拍攝的同樣場所、同樣時間、同位攝影師、同樣的佈景進行拍攝。可以從中發現原本20歲出頭的她也快30歲，冰箱也從小冰箱變成大冰箱，飲料也從牛奶變成咖啡等等，顯示出這4年來的變化。
+  - 封面照於2006年發行的[精選輯](../Page/精選輯.md "wikilink")「[BEST～second
+    session～](../Page/BEST～second_session～.md "wikilink")」封面所拍攝的同樣場所、同樣時間、同位攝影師、同樣的佈景進行拍攝。可以從中發現原本20歲出頭的她也快30歲，冰箱也從小冰箱變成大冰箱，飲料也從牛奶變成咖啡等等，顯示出這4年來的變化。
 
 <!-- end list -->
 
-  - DVD部分，在2CD中所收錄的歌曲中，新增了原創專輯新拍的「SUPERSTAR」、「You're So Beautiful」2曲音樂錄影帶，然而未收錄「I'll be there」、「With your smile」、「That Ain't Cool」、「Alive」4曲的音樂錄影帶。
+  - DVD部分，在2CD中所收錄的歌曲中，新增了原創專輯新拍的「SUPERSTAR」、「You're So
+    Beautiful」2曲音樂錄影帶，然而未收錄「I'll be there」、「With your
+    smile」、「That Ain't Cool」、「Alive」4曲的音樂錄影帶。
 
 <!-- end list -->
 
@@ -26,7 +36,8 @@
 
 <!-- end list -->
 
-  - 本作發行紀念演唱會於同年2月4日，由日本[告示牌所贊助](https://zh.wikipedia.org/wiki/告示牌 "wikilink")，舉辦對歌迷感謝的特別演唱會。本次首度翻唱歐陽菲菲的「Love Is Over」一曲且另於「CD＋手機版本」中追加下載。
+  - 本作發行紀念演唱會於同年2月4日，由日本[告示牌所贊助](../Page/告示牌.md "wikilink")，舉辦對歌迷感謝的特別演唱會。本次首度翻唱歐陽菲菲的「Love
+    Is Over」一曲且另於「CD＋手機版本」中追加下載。
 
 <!-- end list -->
 
@@ -38,17 +49,27 @@
 
 ### 精選輯「BEST～third universe～」
 
-  - 本作與2006年3月8日發行的「[BEST～second session～](../Page/BEST～second_session～.md "wikilink")」以來相隔約4年的第3張精選（收錄單曲精選以外的不算，若以2009年3 月25日發行的合作單曲精選「[OUT WORKS & COLLABORATION BEST](../Page/OUT_WORKS_&_COLLABORATION_BEST.md "wikilink")」也算入為相隔11個月的第5張精選輯）。
-  - 專輯收錄2006年發行的31st單曲「[戀愛花蕾](../Page/戀愛花蕾.md "wikilink")」到2008年發行的42nd單曲「[stay with me](https://zh.wikipedia.org/wiki/stay_with_me "wikilink")」共16首。
-  - 本作未收錄「JUICY」、「我倆･･･」、「愛的証明」、「Once again」以及34th單曲「Cherry Girl/命運」兩曲，共6首A面曲。
+  - 本作與2006年3月8日發行的「[BEST～second
+    session～](../Page/BEST～second_session～.md "wikilink")」以來相隔約4年的第3張精選（收錄單曲精選以外的不算，若以2009年3
+    月25日發行的合作單曲精選「[OUT WORKS & COLLABORATION
+    BEST](../Page/OUT_WORKS_&_COLLABORATION_BEST.md "wikilink")」也算入為相隔11個月的第5張精選輯）。
+  - 專輯收錄2006年發行的31st單曲「[戀愛花蕾](../Page/戀愛花蕾.md "wikilink")」到2008年發行的42nd單曲「[stay
+    with me](../Page/stay_with_me.md "wikilink")」共16首。
+  - 本作未收錄「JUICY」、「我倆･･･」、「愛的証明」、「Once again」以及34th單曲「Cherry
+    Girl/命運」兩曲，共6首A面曲。
   - B曲收錄36th單曲「FREAKY」中的「girls」，其他皆未收錄其中。
 
 ### 原創專輯「UNIVERSE」
 
   - 與2009年1月28日發行的「[TRICK](../Page/TRICK_\(倖田來未專輯\).md "wikilink")」相隔約1年的第8張原創專輯。
-  - 專輯收錄與misono的合作曲「It's all Love\!」以及「Lick me♥」、「ECSTASY」、「Alive/Physical thing」、「Can We Go Back」6首單曲以及新曲8曲，共14曲（包含Bonus Track為15曲）。
-  - 與前作相同未收錄B面曲，且唯一一首未收錄的A面曲為44th單曲「[3 SPLASH](../Page/3_SPLASH.md "wikilink")」中的A面曲「奔跑\!」。
-  - 「2CD＋DVD」「2CD」的初回限定盤收錄的Bonus Track，為去年10月於台灣台北市的[國立台灣大學綜合體育館](https://zh.wikipedia.org/wiki/國立台灣大學 "wikilink")，個人首次舉辦的海外公演中「Moon Crying」的演唱會音源版本。
+  - 專輯收錄與misono的合作曲「It's all Love\!」以及「Lick
+    me♥」、「ECSTASY」、「Alive/Physical thing」、「Can We Go
+    Back」6首單曲以及新曲8曲，共14曲（包含Bonus Track為15曲）。
+  - 與前作相同未收錄B面曲，且唯一一首未收錄的A面曲為44th單曲「[3
+    SPLASH](../Page/3_SPLASH.md "wikilink")」中的A面曲「奔跑\!」。
+  - 「2CD＋DVD」「2CD」的初回限定盤收錄的Bonus
+    Track，為去年10月於台灣台北市的[國立台灣大學綜合體育館](../Page/國立台灣大學.md "wikilink")，個人首次舉辦的海外公演中「Moon
+    Crying」的演唱會音源版本。
 
 ## 發行版本
 
@@ -71,14 +92,16 @@
 
   - 精選輯CD收錄16曲。
   - 原創專輯鈴聲下載不含Bonus Track，共14曲。
-  - 發行後加贈特典，於發行招待會演唱[歐陽菲菲](../Page/歐陽菲菲.md "wikilink")的「ラブ・イズ・オーヴァー（Love is over）」現場版的歌曲下載。
+  - 發行後加贈特典，於發行招待會演唱[歐陽菲菲的](../Page/歐陽菲菲.md "wikilink")「ラブ・イズ・オーヴァー（Love
+    is over）」現場版的歌曲下載。
 
 ### CD+手機下載（シダックス盤）\[2\]
 
 ※僅日本SHIDAX（日本知名KTV）專賣版本。 ※數量限定盤。
 
   - 精選輯CD收錄16曲。
-  - 原創專輯鈴聲下載不含Bonus Track，共14曲，但有「[愛之歌](../Page/愛之歌.md "wikilink")」附有歌詞的[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")下載。
+  - 原創專輯鈴聲下載不含Bonus
+    Track，共14曲，但有「[愛之歌](../Page/愛之歌.md "wikilink")」附有歌詞的[音樂錄影帶下載](../Page/音樂錄影帶.md "wikilink")。
   - 本版本與「CD+手機下載」共通。
 
 ### CD ONLY
@@ -98,25 +121,30 @@
 
 1.  [戀愛花蕾](../Page/戀愛花蕾.md "wikilink")
       -
-        [富士電視台](../Page/富士電視台.md "wikilink")連續劇「愛上恐龍妹」的主題歌。
-2.  [I'll be there](https://zh.wikipedia.org/wiki/4_hot_wave "wikilink")
+        [富士電視台連續劇](../Page/富士電視台.md "wikilink")「愛上恐龍妹」的主題歌。
+2.  [I'll be there](../Page/4_hot_wave.md "wikilink")
       -
         [資生堂](../Page/資生堂.md "wikilink") 2006 SEABREEZE 電視廣告曲。
-3.  [人魚公主](https://zh.wikipedia.org/wiki/4_hot_wave "wikilink")
+3.  [人魚公主](../Page/4_hot_wave.md "wikilink")
       -
-        [東芝](https://zh.wikipedia.org/wiki/東芝 "wikilink")[手機](https://zh.wikipedia.org/wiki/手機 "wikilink")[Vodafone](https://zh.wikipedia.org/wiki/Vodafone "wikilink") 705T 電視廣告曲（本人出演）。
-4.  [With your smile](https://zh.wikipedia.org/wiki/4_hot_wave "wikilink")
+        [東芝](../Page/東芝.md "wikilink")[手機](../Page/手機.md "wikilink")[Vodafone](../Page/Vodafone.md "wikilink")
+        705T 電視廣告曲（本人出演）。
+4.  [With your smile](../Page/4_hot_wave.md "wikilink")
       -
-        [日本電視台](../Page/日本電視台.md "wikilink")「PRIDE\&SPIRIT 日本職業棒球2006」形象歌曲。
-5.  [悲夢之歌](https://zh.wikipedia.org/wiki/悲夢之歌/我倆... "wikilink")
+        [日本電視台](../Page/日本電視台.md "wikilink")「PRIDE\&SPIRIT
+        日本職業棒球2006」形象歌曲。
+5.  [悲夢之歌](../Page/悲夢之歌/我倆....md "wikilink")
       -
-        [朝日電視台](../Page/朝日電視台.md "wikilink")連續劇「だめんず・うぉ〜か〜」主題歌／ドワンゴ 電視廣告曲。
-6.  [BUT](https://zh.wikipedia.org/wiki/BUT/愛的證明 "wikilink")
+        [朝日電視台連續劇](../Page/朝日電視台.md "wikilink")「だめんず・うぉ〜か〜」主題歌／ドワンゴ
+        電視廣告曲。
+6.  [BUT](../Page/BUT/愛的證明.md "wikilink")
       -
-        （松竹・東急系）劇場播出的全美舞蹈電影史上歷代第5名「Step Up」的主題歌、[東芝](https://zh.wikipedia.org/wiki/東芝 "wikilink")「[SoftBank](https://zh.wikipedia.org/wiki/SoftBank "wikilink") 911T」廣告曲。
+        （松竹・東急系）劇場播出的全美舞蹈電影史上歷代第5名「Step
+        Up」的主題歌、[東芝](../Page/東芝.md "wikilink")「[SoftBank](../Page/SoftBank.md "wikilink")
+        911T」廣告曲。
 7.  [FREAKY 精彩蛻變](../Page/FREAKY.md "wikilink")
       -
-        [HONDA](https://zh.wikipedia.org/wiki/HONDA "wikilink")「ZEST SPORTS」廣告曲。
+        [HONDA](../Page/HONDA.md "wikilink")「ZEST SPORTS」廣告曲。
 8.  [girls](../Page/FREAKY.md "wikilink")
       -
         SANKYO「KODA KUMI FEVER LIVE IN HALL」廣告曲。
@@ -126,22 +154,23 @@
 10. [LAST ANGEL feat.東方神起](../Page/LAST_ANGEL_feat.東方神起.md "wikilink")
       -
         電影「[惡靈古堡3：大滅絕](../Page/惡靈古堡3：大滅絕.md "wikilink")」日本公開版形象歌曲、music.jp電視廣告曲。
-11. [anytime](https://zh.wikipedia.org/wiki/anytime "wikilink")
+11. [anytime](../Page/anytime.md "wikilink")
       -
         麒麟啤酒廣告曲、music.jp電視廣告曲。
 12. [Moon Crying](../Page/MOON_\(倖田來未單曲\).md "wikilink")
       -
-        ABC・[朝日電視台](../Page/朝日電視台.md "wikilink")系連續劇『[Puzzle](../Page/謎_\(電視劇\).md "wikilink")』的主題曲。
+        ABC・[朝日電視台系連續劇](../Page/朝日電視台.md "wikilink")『[Puzzle](../Page/謎_\(電視劇\).md "wikilink")』的主題曲。
 13. [That Ain’t Cool 這可不酷](../Page/MOON_\(倖田來未單曲\).md "wikilink")
       -
         為music.jp 電視廣告曲。
 14. [Lady Go\!](../Page/MOON_\(倖田來未單曲\).md "wikilink")
       -
         [高絲](../Page/高絲.md "wikilink")「ヴィセ」廣告曲。
-15. [TABOO 禁忌](https://zh.wikipedia.org/wiki/TABOO_禁忌 "wikilink")
+15. [TABOO 禁忌](../Page/TABOO_禁忌.md "wikilink")
       -
-        為music.jp 電視廣告曲、[日本電視台](../Page/日本電視台.md "wikilink")「女子レスリング世界選手権2008」形象歌曲、「[NDS](https://zh.wikipedia.org/wiki/NDS "wikilink")」遊戲『采配のゆくえ』電視廣告曲。
-16. [stay with me](https://zh.wikipedia.org/wiki/stay_with_me "wikilink")
+        為music.jp
+        電視廣告曲、[日本電視台](../Page/日本電視台.md "wikilink")「女子レスリング世界選手権2008」形象歌曲、「[NDS](../Page/NDS.md "wikilink")」遊戲『采配のゆくえ』電視廣告曲。
+16. [stay with me](../Page/stay_with_me.md "wikilink")
       -
         「au LISMO」廣告曲及Sony Ericsson的手機「Xmini」廣告曲。
 
@@ -153,18 +182,20 @@
 
 1.  Step Into My World
       -
-        收錄於以世界、宇宙之意的「UNIVERSE」做為專輯名稱的本作品內，蘊含了吸引人們走向未知新世界之意，也作為本專輯導引部份，不僅是接續下一首「Can We Go Back」的壯闊引言，也包含了煽動興奮期待表演開場的觀眾們的開場要素。\[3\]
+        收錄於以世界、宇宙之意的「UNIVERSE」做為專輯名稱的本作品內，蘊含了吸引人們走向未知新世界之意，也作為本專輯導引部份，不僅是接續下一首「Can
+        We Go Back」的壯闊引言，也包含了煽動興奮期待表演開場的觀眾們的開場要素。\[3\]
 2.  [Can We Go Back](../Page/Can_We_Go_Back.md "wikilink")
       -
         music.jp電視廣告曲。
         是一首要奮力甩頭的重搖滾樂曲，曲調也十分簡潔俐落。\[4\]
 3.  SUPERSTAR
       -
-        描繪出女孩子渴望「我要成為你的SUPERSTAR」輕柔飄舞的戀愛心情。多次重複的歌詞「I wanna be」，表現出「希望有一天能永遠伴隨著你」這份堅強信念。\[5\]
+        描繪出女孩子渴望「我要成為你的SUPERSTAR」輕柔飄舞的戀愛心情。多次重複的歌詞「I wanna
+        be」，表現出「希望有一天能永遠伴隨著你」這份堅強信念。\[5\]
 4.  You're So Beautiful
       -
         唱出「無論何時都認真努力的你很美麗」，充滿魅力的流行中板抒情曲。「沒有無法跨越的高牆，對自己感到生氣的時候也要選擇屬於自己的道路」這個訊息，不僅是獻給落淚站立的聽眾，也是說給自己聽的話語。\[6\]
-5.  [Lick me♥ 舔我♥](https://zh.wikipedia.org/wiki/3_SPLASH_3色漾彩 "wikilink")
+5.  [Lick me♥ 舔我♥](../Page/3_SPLASH_3色漾彩.md "wikilink")
       -
         SANKYO「KODA KUMI FEVER LIVE IN HALLⅡ」廣告曲。
         如同本人說「好記又能在KTV中點唱的歌曲」一樣，是讓人忍不住想一起拍手高歌，絢麗輕快的歌曲。\[7\]
@@ -180,26 +211,31 @@
 9.  Comes Up
       -
         是首能讓人想像到，在演唱會後半場時環繞會場，更貼近觀眾唱歌的曲子。歌詞則率直地寫下「囉唆的我有時難免說得太過火但還是希望能陪在你身邊」顯示自己的心境。\[11\]
-10. [Physical thing 本能慾望](https://zh.wikipedia.org/wiki/Alive/Physical_thing_生存/本能慾望 "wikilink")
+10. [Physical thing
+    本能慾望](../Page/Alive/Physical_thing_生存/本能慾望.md "wikilink")
       -
         music.jp電視廣告曲。
         描寫逞強女性那份儘管逞強其實很寂寞的孤獨心理。\[12\]
-11. [ECSTASY 著迷](https://zh.wikipedia.org/wiki/3_SPLASH_3色漾彩 "wikilink")
+11. [ECSTASY 著迷](../Page/3_SPLASH_3色漾彩.md "wikilink")
       -
         music.jp電視廣告曲。
         以沉重有力的吉他和男性吼聲打開序幕，散發出性感女人味的搖滾曲。\[13\]
 12. UNIVERSE
       -
         作為專輯同名曲，歌詞中包含了整合整張專輯的訊息。<為了不要後悔僅此一次的人生而不斷向前行>這樣的決心，正是最能象徵倖田來未這位歌手的態度和魅力的標語。\[14\]
-13. [It's all love\!](https://zh.wikipedia.org/wiki/It's_all_love! "wikilink")（[倖田來未](../Page/倖田來未.md "wikilink")×misono）
+13. [It's all
+    love\!](../Page/It's_all_love!.md "wikilink")（[倖田來未](../Page/倖田來未.md "wikilink")×misono）
       -
         music.jp電視廣告曲，[日本電視台](../Page/日本電視台.md "wikilink")「スッキリ\!\!」片尾曲。
         是以樂團演奏的帥氣搖滾單曲。由兩人共同作詞，譜寫的是姐姐安慰妹妹失戀的內容。歌聲嘶啞獨特的姊姊與開放感的高音極具魅力的妹妹，兩人歌聲的交鋒讓人興奮不已。\[15\]
-14. [Alive 生存](https://zh.wikipedia.org/wiki/Alive/Physical_thing_生存/本能慾望 "wikilink")
+14. [Alive 生存](../Page/Alive/Physical_thing_生存/本能慾望.md "wikilink")
       -
         松竹配給電影「卡姆依外傳」的主題歌。
-        導演揭示的主題，是將[韓德爾的歌劇](https://zh.wikipedia.org/wiki/韓德爾 "wikilink")「里那爾多」中的詠唱曲「LASCIA CH'IO PIANGA 請讓我哭泣」譜上日文歌詞。雖然歌詞中也有<頭也不回的走下去>這種很像她的句子，整體描繪出無法言喻的孤獨以及看不見未來的不安。\[16\]
-15. [Moon Crying](../Page/MOON_\(倖田來未單曲\).md "wikilink") （Live ver. In Taiwan） ※Bonus Track
+        導演揭示的主題，是將[韓德爾的歌劇](../Page/韓德爾.md "wikilink")「里那爾多」中的詠唱曲「LASCIA
+        CH'IO PIANGA
+        請讓我哭泣」譜上日文歌詞。雖然歌詞中也有<頭也不回的走下去>這種很像她的句子，整體描繪出無法言喻的孤獨以及看不見未來的不安。\[16\]
+15. [Moon Crying](../Page/MOON_\(倖田來未單曲\).md "wikilink") （Live ver. In
+    Taiwan） ※Bonus Track
 
 ### DVD
 
@@ -234,9 +270,11 @@
 
 </div>
 
-[分類:精選輯](https://zh.wikipedia.org/wiki/分類:精選輯 "wikilink")
+[分類:精選輯](../Page/分類:精選輯.md "wikilink")
 
-[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink") [Category:倖田來未音樂專輯](https://zh.wikipedia.org/wiki/Category:倖田來未音樂專輯 "wikilink") [Category:2010年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2010年Oricon專輯週榜冠軍作品 "wikilink")
+[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")
+[Category:倖田來未音樂專輯](https://zh.wikipedia.org/wiki/Category:倖田來未音樂專輯 "wikilink")
+[Category:2010年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2010年Oricon專輯週榜冠軍作品 "wikilink")
 
 1.
 

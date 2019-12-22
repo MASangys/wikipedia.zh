@@ -1,0 +1,54 @@
+__NOTOC__
+
+<div style="c​​lear:both; width:100%">
+
+{{/box-header|<big></big>|/简介|}} {{/简介}} {{/box-footer|}}
+
+<div style="text-align:center; margin:0.25em auto 0.75em">
+
+</div>
+
+<div class="portal-column-left">
+
+</div>
+
+<div class="portal-column-right">
+
+{{/box-header|你知道吗?|/Did you know|}} {{/Did you know}}
+{{/box-footer|[存档](../Page/{{FULLPAGENAME}}/你知道吗/存档.md "wikilink") –
+[建立页面](https://zh.wikipedia.org/wiki/Help:Starting_a_new_page "wikilink")}}
+
+{{/box-header|分类|/分类|}} {{/分类}} {{/box-footer|}}
+
+</div>
+
+<div style="c​​lear:both; width:100%">
+
+{{/box-header|新闻报导|/新闻|}} {{/新闻}}
+{{/box-footer|[更多新闻...](../Page/{{FULLPAGENAME}}/时事.md "wikilink")
+[维基新闻上的](../Page/wikinews:zh.md "wikilink")[新闻](../Page/wikinews:{{FULLPAGENAME}}.md "wikilink")}}
+{{/box-header|主题|/主题|}} {{/主题}} {{/box-footer|}}
+
+{{/box-header|相关专题|/相关专题|}} {{/相关专题}} {{/box-footer|}}
+
+</div>
+
+<div class="portal-column-left">
+
+{{/box-header|维基计画|/计画|}} {{/计画}} {{/box-footer|}}
+
+</div>
+
+<div class="portal-column-right">
+
+{{/box-header|开放任务|/开放任务|}} {{/开放任务}} {{/box-footer|}}
+
+</div>
+
+<div style="c​​lear:both; width:100%">
+
+{{/box-header|维基媒体|/维基媒体|}} {{/维基媒体}} {{/box-footer|}}
+
+</div>
+
+__NOTOC__ __NOEDITSECTION__

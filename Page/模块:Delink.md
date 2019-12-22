@@ -15,7 +15,8 @@ end
 local function delinkPipeTrick(s)
 
 `   local linkarea, display = "", ""`
-`   -- We need to deal with colons, brackets, and commas, per `[`Help:Pipe``   ``trick`](https://zh.wikipedia.org/wiki/Help:Pipe_trick "wikilink")`.`
+`   -- We need to deal with colons, brackets, and commas, per `[`Help:Pipe``
+ ``trick`](https://zh.wikipedia.org/wiki/Help:Pipe_trick "wikilink")`.`
 `   `
 `   -- First, remove the text before the first colon, if any.`
 `   if mw.ustring.match(s, ":") then`
@@ -68,12 +69,14 @@ local function delinkWikilink(s)
 `       return ""`
 `   end`
 `   `
-`   -- Remove the colon if the link is using the `[`Help:Colon``   ``trick`](https://zh.wikipedia.org/wiki/Help:Colon_trick "wikilink")`.`
+`   -- Remove the colon if the link is using the `[`Help:Colon``
+ ``trick`](https://zh.wikipedia.org/wiki/Help:Colon_trick "wikilink")`.`
 `   if mw.ustring.match(result, "%[%[:") then`
 `       result = "[[" .. mw.ustring.match(result, "%[%[:(.*%]%])")`
 `   end`
 `   `
-`   -- Deal with links using the `[`Help:Pipe``   ``trick`](https://zh.wikipedia.org/wiki/Help:Pipe_trick "wikilink")`.`
+`   -- Deal with links using the `[`Help:Pipe``
+ ``trick`](https://zh.wikipedia.org/wiki/Help:Pipe_trick "wikilink")`.`
 `   if mw.ustring.match(result, "^%[%[[^|]*|%]%]") then`
 `       return delinkPipeTrick(result)`
 `   end`
@@ -156,7 +159,8 @@ local function _delink(args)
 
 `   local text = args[1] or ""`
 `   if args.refs == "yes" then`
-`       -- Remove any `[`Help:Strip``   ``markers`](https://zh.wikipedia.org/wiki/Help:Strip_markers "wikilink")` representing ref tags. In most situations `
+`       -- Remove any `[`Help:Strip``
+ ``markers`](https://zh.wikipedia.org/wiki/Help:Strip_markers "wikilink")` representing ref tags. In most situations `
 `       -- this is not a good idea - only use it if you know what you are doing!`
 `       text = mw.ustring.gsub(text, "UNIQ%w*%-ref%-%d*%-QINU", "")`
 `   end`

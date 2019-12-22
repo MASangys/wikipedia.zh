@@ -1,8 +1,10 @@
-**Screamworks: Love in Theory and Practice, Chapters 1–13**是[芬蘭搖滾樂隊](https://zh.wikipedia.org/wiki/芬蘭 "wikilink")[HIM (樂團)的第七張專輯](../Page/HIM_\(樂團\).md "wikilink")。它分別於2010年2月8日在[德國和](https://zh.wikipedia.org/wiki/德國 "wikilink")[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")、2月9日在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、2月10日在[日本](../Page/日本.md "wikilink")及2月12日在[德國發行](https://zh.wikipedia.org/wiki/德國 "wikilink")。第一張單曲"Heartkiller"於2009年12月8日發佈。
+**Screamworks: Love in Theory and Practice, Chapters
+1–13**是[芬蘭搖滾樂隊](../Page/芬蘭.md "wikilink")[HIM
+(樂團)的第七張專輯](../Page/HIM_\(樂團\).md "wikilink")。它分別於2010年2月8日在[德國和](../Page/德國.md "wikilink")[英國](../Page/英國.md "wikilink")、2月9日在[美國](../Page/美國.md "wikilink")、2月10日在[日本及](../Page/日本.md "wikilink")2月12日在[德國發行](../Page/德國.md "wikilink")。第一張單曲"Heartkiller"於2009年12月8日發佈。
 
 ## 曲目
 
-所有歌曲的作曲與填詞為[Ville Valo所作](https://zh.wikipedia.org/wiki/Ville_Valo "wikilink")。
+所有歌曲的作曲與填詞為[Ville Valo所作](../Page/Ville_Valo.md "wikilink")。
 
 1\. In Venere Veritas - 3:35
 2\. Scared to Death - 3:40
@@ -18,4 +20,5 @@
 12\. Like St. Valentine - 3:14
 13\. The Foreboding Sense of Impending Happiness - 3:13
 
-[Category:芬蘭音樂專輯](https://zh.wikipedia.org/wiki/Category:芬蘭音樂專輯 "wikilink") [Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")
+[Category:芬蘭音樂專輯](https://zh.wikipedia.org/wiki/Category:芬蘭音樂專輯 "wikilink")
+[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")

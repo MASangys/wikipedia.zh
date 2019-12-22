@@ -13,13 +13,14 @@ function p.book(frame)
 ` local lname   = nil -- last name`
 ` local id      = nil -- unsupported argument`
 ` local author  = nil -- author`
-` local tagline = "`[`LibriVox`](../Page/LibriVox.md "wikilink")中的公有领域有声书`"`
+` local tagline = "public domain audiobook at `[`LibriVox`](../Page/LibriVox.md "wikilink")`"`
 ` local urlhead = "`<https://librivox.org/search>`?"`
 ` local italic   = "''"`
 
 ` id = trimArg(args.id)`
 ` if id then`
-`   error("Error in Template:" .. tname .. " - id argument not supported - please see documentation at `[`Template:Librivox``   ``author`](https://zh.wikipedia.org/wiki/Template:Librivox_author "wikilink")`")`
+`   error("Error in Template:" .. tname .. " - id argument not supported - please see documentation at `[`Template:Librivox``
+ ``author`](../Page/Template:Librivox_author.md "wikilink")`")`
 ` end`
 
 ` title = trimArg(args.title)`
@@ -52,7 +53,7 @@ function p.book(frame)
 `   lname = N[count]`
 ` end`
 
-` local url = "`[`Speaker_Icon.svg`](https://zh.wikipedia.org/wiki/File:Speaker_Icon.svg "fig:Speaker_Icon.svg")` " .. tagline .. "《[" .. urlhead .. "title=" .. stitle .. "&author=" .. lname .. "&reader=&keywords=&genre_id=0&status=all&project_type=either&recorded_language=&sort_order=catalog_date&search_page=1&search_form=advanced" .. " " .. italic .. dtitle .. italic .. "]》"`
+` local url = "`[`Speaker_Icon.svg`](https://zh.wikipedia.org/wiki/File:Speaker_Icon.svg "fig:Speaker_Icon.svg")` " .. "[" .. urlhead .. "title=" .. stitle .. "&author=" .. lname .. "&reader=&keywords=&genre_id=0&status=all&project_type=either&recorded_language=&sort_order=catalog_date&search_page=1&search_form=advanced" .. " " .. italic .. dtitle .. italic .. "]" .. " " .. tagline`
 
 ` return url`
 

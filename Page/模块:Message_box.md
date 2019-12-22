@@ -1,12 +1,20 @@
-\-- This is a meta-module for producing message box templates, including , , , , ,  and .
+\-- This is a meta-module for producing message box templates, including
+, , , , ,  and .
 
-\-- Require necessary modules. local getArgs = require('Module:Arguments').getArgs local categoryHandler = require('Module:Category handler').main local yesno = require('Module:Yesno')
+\-- Require necessary modules. local getArgs =
+require('Module:Arguments').getArgs local categoryHandler =
+require('Module:Category handler').main local yesno =
+require('Module:Yesno')
 
-\-- Load the configuration page. local cfgTables = mw.loadData('Module:Message box/configuration')
+\-- Load the configuration page. local cfgTables =
+mw.loadData('Module:Message box/configuration')
 
-\-- Get a language object for formatDate and ucfirst. local lang = mw.language.getContentLanguage()
+\-- Get a language object for formatDate and ucfirst. local lang =
+mw.language.getContentLanguage()
 
-\-- Set aliases for often-used functions to reduce table lookups. local format = mw.ustring.format local tinsert = table.insert local tconcat = table.concat local trim = mw.text.trim
+\-- Set aliases for often-used functions to reduce table lookups. local
+format = mw.ustring.format local tinsert = table.insert local tconcat =
+table.concat local trim = mw.text.trim
 
 -----
 
@@ -262,9 +270,9 @@ function box:setBoxParameters(cfg, args)
 `       else`
 `           local sect`
 `           if args.sect == '' then`
-`               sect = '此' .. (cfg.sectionDefault or '頁面')`
+`               sect = '本' .. (cfg.sectionDefault or '頁面')`
 `           elseif type(args.sect) == 'string' then`
-`               sect = '此' .. args.sect`
+`               sect = '本' .. args.sect`
 `           end`
 `           local issue = args.issue`
 `           issue = type(issue) == 'string' and issue ~= '' and issue or nil`
@@ -315,12 +323,6 @@ function box:setBoxParameters(cfg, args)
 `           date = lang:formatDate('Y年n月j日')`
 `       elseif args.time and args.time ~= '' then`
 `           date = lang:formatDate('Y年n月j日', args.time)`
-`       end`
-`       if date then`
-`           local ok, tempdate = pcall(lang.formatDate, lang, 'Y年n月j日', date) -- 正規化日期`
-`           if ok then`
-`               date = tempdate`
-`           end`
 `       end`
 `       if date then`
 `           self.date = string.format(" `<small class='date-container'>*`(`<span class='date'>`%s`</span>`)`*</small>`", date)`
@@ -424,10 +426,6 @@ function box:setBoxParameters(cfg, args)
 `       }`
 `       if args.date and args.date ~= '' then`
 `           date = args.date`
-`           local ok, tempdate = pcall(lang.formatDate, lang, 'Y年n月', date) -- 正規化日期`
-`           if ok then`
-`               date = tempdate`
-`           end`
 `       elseif args.time and args.time ~= '' then`
 `           date = lang:formatDate('Y年n月', args.time)`
 `           sortDay = lang:formatDate('j', args.time)`
@@ -507,7 +505,8 @@ function box:setBoxParameters(cfg, args)
 `       self:addCat('all', '錯誤使用替換引用的頁面')`
 `   end`
 
-`   -- Convert category tables to strings and pass them through `[`Module:Category``   ``handler`](https://zh.wikipedia.org/wiki/Module:Category_handler "wikilink")`.`
+`   -- Convert category tables to strings and pass them through `[`Module:Category``
+ ``handler`](https://zh.wikipedia.org/wiki/Module:Category_handler "wikilink")`.`
 `   self.categories = categoryHandler{`
 `       main = tconcat(self.mainCats or {}),`
 `       template = tconcat(self.templateCats or {}),`
@@ -631,7 +630,7 @@ function box:export()
 `       root`
 `           :tag('div')`
 `               :css('text-align', 'center')`
-`               :wikitext(format('此訊息框使用無效的「type=%s」參數，需要修復。', self.type or ''))`
+`               :wikitext(format('本訊息框使用無效的「type=%s」參數，需要修復。', self.type or ''))`
 `   end`
 
 `   -- Add categories.`
@@ -677,4 +676,5 @@ end
 
 return p
 
-[Category:%s](https://zh.wikipedia.org/wiki/Category:%s "wikilink") [Category:%s](https://zh.wikipedia.org/wiki/Category:%s "wikilink")
+[Category:%s](https://zh.wikipedia.org/wiki/Category:%s "wikilink")
+[Category:%s](https://zh.wikipedia.org/wiki/Category:%s "wikilink")

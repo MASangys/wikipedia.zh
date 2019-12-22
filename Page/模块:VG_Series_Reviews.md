@@ -1,4 +1,5 @@
-local getArgs = require('Module:Arguments').getArgs local yesno = require('Module:Yesno')
+local getArgs = require('Module:Arguments').getArgs local yesno =
+require('Module:Yesno')
 
 local p = {}
 
@@ -100,7 +101,7 @@ function p._main(args)
 `       ret = ret .. "! scope=\"col\" | " .. (args.fam_title or  "`[`Fami通`](../Page/Fami通.md "wikilink")`") .. " \n"`
 `   end`
 `   if switcher(args, 'gr') then`
-`       ret = ret .. "! scope=\"col\" | " .. (args.gr_title or  "`[`GameRankings`](https://zh.wikipedia.org/wiki/GameRankings "wikilink")`") .. " \n"`
+`       ret = ret .. "! scope=\"col\" | " .. (args.gr_title or  "`[`GameRankings`](../Page/GameRankings.md "wikilink")`") .. " \n"`
 `   end`
 `   if switcher(args, 'mc') then`
 `       ret = ret .. "! scope=\"col\" | " .. (args.mc_title or  "`[`Metacritic`](../Page/Metacritic.md "wikilink")`") .. " \n"`

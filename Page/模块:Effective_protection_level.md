@@ -1,6 +1,8 @@
 local p = {}
 
-\-- Returns the permission required to perform a given action on a given title. -- If no title is specified, the title of the page being displayed is used. function p._main(action, pagename)
+\-- Returns the permission required to perform a given action on a given
+title. -- If no title is specified, the title of the page being
+displayed is used. function p._main(action, pagename)
 
 `   local title`
 `   if type(pagename) == 'table' and pagename.prefixedText then`

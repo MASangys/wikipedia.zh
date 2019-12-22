@@ -1,0 +1,316 @@
+__NOTOC__
+
+<div style="display:block;border:1px solid #3CB371;vertical-align: top;width:99%; background-color:#f9f9ff;margin-bottom:5px;margin-top:5px;padding-left:5px;padding-right:4px;">
+
+<h2 style="padding:16px; background:#3CB371; color:white; text-align:center; font-weight:bold; font-size:200%; margin-bottom:5px;margin-top:0;margin-left:-5px;margin-right:-4px;">
+
+**化学首页**
+
+</h2>
+
+[Glass_is_Liquide.jpg](https://zh.wikipedia.org/wiki/File:Glass_is_Liquide.jpg "fig:Glass_is_Liquide.jpg")
+
+欢迎来到**化学首页**！**[化学](../Page/化学.md "wikilink")**是一门基础[自然科学](../Page/自然科学.md "wikilink")。现代化学主要研究各种[物质个各种组成](../Page/物质.md "wikilink")、性质相互关联以及它们的可以被开发的用途。化学还研究[物质的组成](../Page/物质.md "wikilink")、结构、属性以及物质之间相互的[转化](../Page/化学转化.md "wikilink")。针对物质变化的研究，化学还着眼于分析转化中的[能量以及变化](../Page/能量.md "wikilink")。这个世界存在多种多样的物质且大多为化合物，因此[化学家通常研究如何合成各种化学物质的方法以及如何将实验室成果放大到工业生产](../Page/化学家.md "wikilink")。
+
+化学首页是整合[维基百科上所有关于](../Page/维基百科.md "wikilink")[化学文章的一个](../Page/化学.md "wikilink")[主题页面](../Page/Portal:首頁.md "wikilink")。所有关于化学方面的内容都可以在这里找到。同时欢迎对化学感兴趣的专家和爱好者参与相关条目的编写。您可以加入我们的[化学兴趣小组](https://zh.wikipedia.org/wiki/Wikipedia:化学兴趣小组维基人列表 "wikilink")。
+
+<div style="text-align:right;margin-right:10px;margin-bottom:4px;">
+
+**[進一步了解化学…](../Page/化学.md "wikilink") |
+[所有化学条目](../Page/Portal:化学/全部条目.md "wikilink") |
+[需要创建的化学条目](../Page/Portal:化学/开放任务/条目请求.md "wikilink")**
+
+<center>
+
+<small>\[ 刷新本页面\]</small>
+
+</center>
+
+
+
+</div>
+
+</div>
+
+<div style="display:block;width:99%;float:left">
+
+<div style="width:53%;display:block;float:left;">
+
+<div style="display:block;border:1px solid #3CB371;vertical-align: top;width:100%; background-color:#f9f9ff;margin-bottom:10px;padding-bottom:5px;padding-left:5px;padding-right:4px;">
+
+<h2 style="padding:3px; background:#3CB371; color:white; text-align:center; font-weight:bold; font-size:100%; margin-bottom:5px;margin-top:0;margin-left:-5px;margin-right:-4px;">
+
+每日一问（提问者请留名）<span style="float:right;"></span>
+
+</h2>
+
+  -
+
+</div>
+
+<div style="display:block;border:1px solid #3CB371;vertical-align: top;width:100%; background-color:#f9f9ff;margin-bottom:10px;padding-bottom:5px;padding-left:5px;padding-right:4px;">
+
+<h2 style="padding:3px; background:#3CB371; color:white; text-align:center; font-weight:bold; font-size:100%; margin-bottom:5px;margin-top:0;margin-left:-5px;margin-right:-4px;">
+
+特色和优良条目<span style="float:right;"></span>
+
+</h2>
+
+</div>
+
+<div style="display:block;border:1px solid #3CB371;vertical-align: top;width:100%; background-color:#f9f9ff;margin-bottom:10px;padding-bottom:5px;padding-left:5px;padding-right:4px;">
+
+<h2 style="padding:3px; background:#3CB371; color:white; text-align:center; font-weight:bold; font-size:100%; margin-bottom:5px;margin-top:0;margin-left:-5px;margin-right:-4px;">
+
+推荐图片<span style="float:right;"></span>
+
+</h2>
+
+</div>
+
+<div style="display:block;border:1px solid #3CB371;vertical-align: top;width:100%; background-color:#f9f9ff;margin-bottom:10px;padding-bottom:5px;padding-left:5px;padding-right:4px;">
+
+<h2 style="padding:3px; background:#3CB371; color:white; text-align:center; font-weight:bold; font-size:100%; margin-bottom:5px;margin-top:0;margin-left:-5px;margin-right:-4px;">
+
+可参与的任务：<span style="float:right;"></span>
+
+</h2>
+
+</div>
+
+<div style="display:block;border:1px solid #3CB371;vertical-align: top;width:100%; background-color:#f9f9ff;margin-bottom:10px;padding-bottom:5px;padding-left:5px;padding-right:4px;">
+
+<h2 style="padding:3px; background:#3CB371; color:white; text-align:center; font-weight:bold; font-size:100%; margin-bottom:5px;margin-top:0;margin-left:-5px;margin-right:-4px;">
+
+分类<span style="float:right;"></span>
+
+</h2>
+
+</div>
+
+<div style="display:block;border:1px solid #3CB371;vertical-align: top;width:100%; background-color:#f9f9ff;margin-bottom:10px;padding-bottom:5px;padding-left:5px;padding-right:4px;">
+
+<h2 style="padding:3px; background:#3CB371; color:white; text-align:center; font-weight:bold; font-size:100%; margin-bottom:5px;margin-top:0;margin-left:-5px;margin-right:-4px;">
+
+化学历史与哲学<span style="float:right;"></span>
+
+</h2>
+
+</div>
+
+<div style="display:block;border:1px solid #3CB371;vertical-align: top;width:100%; background-color:#f9f9ff;margin-bottom:10px;padding-bottom:5px;padding-left:5px;padding-right:4px;">
+
+<h2 style="padding:3px; background:#3CB371; color:white; text-align:center; font-weight:bold; font-size:100%; margin-bottom:5px;margin-top:0;margin-left:-5px;margin-right:-4px;">
+
+化学资源<span style="float:right;"></span>
+
+</h2>
+
+</div>
+
+</div>
+
+<div style="width:43%;display:block;float:right;">
+
+<div style="display:block;border:1px solid #3CB371;vertical-align: top;width:100%; background-color:#f9f9ff;margin-bottom:10px;padding-bottom:5px;padding-left:5px;padding-right:4px;">
+
+<h2 style="padding:3px; background:#3CB371; color:white; text-align:center; font-weight:bold; font-size:100%; margin-bottom:5px;margin-top:0;margin-left:-5px;margin-right:-4px;">
+
+化学条目DYK<span style="float:right;"></span>
+
+</h2>
+
+</div>
+
+</div>
+
+<div style="width:43%;display:block;float:right;">
+
+<div style="display:block;border:1px solid #3CB371;vertical-align: top;width:100%; background-color:#f9f9ff;margin-bottom:10px;padding-bottom:5px;padding-left:5px;padding-right:4px;">
+
+<h2 style="padding:3px; background:#3CB371; color:white; text-align:center; font-weight:bold; font-size:100%; margin-bottom:5px;margin-top:0;margin-left:-5px;margin-right:-4px;">
+
+化学家<span style="float:right;"></span>
+
+</h2>
+
+</div>
+
+</div>
+
+<div style="width:43%;display:block;float:right;">
+
+<div style="display:block;border:1px solid #3CB371;vertical-align: top;width:100%; background-color:#f9f9ff;margin-bottom:10px;padding-bottom:5px;padding-left:5px;padding-right:4px;">
+
+<h2 style="padding:3px; background:#3CB371; color:white; text-align:center; font-weight:bold; font-size:100%; margin-bottom:5px;margin-top:0;margin-left:-5px;margin-right:-4px;">
+
+化学实验技术<span style="float:right;"></span>
+
+</h2>
+
+</div>
+
+</div>
+
+<div style="width:43%;display:block;float:right;">
+
+<div style="display:block;border:1px solid #3CB371;vertical-align: top;width:100%; background-color:#f9f9ff;margin-bottom:10px;padding-bottom:5px;padding-left:5px;padding-right:4px;">
+
+<h2 style="padding:3px; background:#3CB371; color:white; text-align:center; font-weight:bold; font-size:100%; margin-bottom:5px;margin-top:0;margin-left:-5px;margin-right:-4px;">
+
+化学与社会<span style="float:right;"></span>
+
+</h2>
+
+</div>
+
+</div>
+
+<div style="width:43%;display:block;float:right;">
+
+<div style="display:block;border:1px solid #3CB371;vertical-align: top;width:100%; background-color:#f9f9ff;margin-bottom:10px;padding-bottom:5px;padding-left:5px;padding-right:4px;">
+
+<h2 style="padding:3px; background:#3CB371; color:white; text-align:center; font-weight:bold; font-size:100%; margin-bottom:5px;margin-top:0;margin-left:-5px;margin-right:-4px;">
+
+化学实验仪器<span style="float:right;"></span>
+
+</h2>
+
+</div>
+
+</div>
+
+<div style="width:43%;display:block;float:right;">
+
+<div style="display:block;border:1px solid #3CB371;vertical-align: top;width:100%; background-color:#f9f9ff;margin-bottom:10px;padding-bottom:5px;padding-left:5px;padding-right:4px;">
+
+<h2 style="padding:3px; background:#3CB371; color:white; text-align:center; font-weight:bold; font-size:100%; margin-bottom:5px;margin-top:0;margin-left:-5px;margin-right:-4px;">
+
+化学工业<span style="float:right;"></span>
+
+</h2>
+
+</div>
+
+<div style="display:block;border:1px solid #3CB371;vertical-align: top;width:100%; background-color:#f9f9ff;margin-bottom:10px;padding-bottom:5px;padding-left:5px;padding-right:4px;">
+
+<h2 style="padding:3px; background:#3CB371; color:white; text-align:center; font-weight:bold; font-size:100%; margin-bottom:5px;margin-top:0;margin-left:-5px;margin-right:-4px;">
+
+相关页面<span style="float:right;"></span>
+
+</h2>
+
+</div>
+
+<div style="display:block;border:1px solid #3CB371;vertical-align: top;width:100%; background-color:#f9f9ff;margin-bottom:10px;padding-bottom:5px;padding-left:5px;padding-right:4px;">
+
+<h2 style="padding:3px; background:#3CB371; color:white; text-align:center; font-weight:bold; font-size:100%; margin-bottom:5px;margin-top:0;margin-left:-5px;margin-right:-4px;">
+
+化学爱好者
+
+</h2>
+
+  - 如果您对化学主题感兴趣并愿意在此主题做出贡献，请到**[Wikipedia:化学兴趣小组维基人列表](https://zh.wikipedia.org/wiki/Wikipedia:化学兴趣小组维基人列表 "wikilink")**签下名字，并在您的用户面中加入：
+
+</div>
+
+</div>
+
+</div>
+
+<div style="display:block;float:left;width:100%;">
+
+<div style="display:block;border:1px solid #3CB371;vertical-align: top; background-color:#f9f9ff;margin-bottom:10px;padding-bottom:5px;padding-left:5px;padding-right:4px;">
+
+<h2 style="padding:3px; background:#3CB371; color:white; text-align:center; font-weight:bold; font-size:100%; margin-bottom:5px;margin-top:0;margin-left:-5px;margin-right:-4px;">
+
+主要項目
+
+</h2>
+
+<h3 style="font-size:medium;">
+
+子学科
+
+</h3>
+
+[分析化學](../Page/分析化學.md "wikilink") - [無機化學](../Page/無機化學.md "wikilink")
+- [材料科學](../Page/材料科學.md "wikilink") -
+[藥物化學](../Page/藥物化學.md "wikilink") -
+[核化學](../Page/核化學.md "wikilink") -
+[有機化學](../Page/有機化學.md "wikilink") -
+[有機金屬化學](../Page/有機金屬化學.md "wikilink") -
+[藥理學](../Page/藥理學.md "wikilink") -
+[藥劑學](../Page/藥劑學.md "wikilink") -
+[物理化學](../Page/物理化學.md "wikilink") -
+[理論化學](../Page/理論化學.md "wikilink") -
+[立體化學](../Page/立體化學.md "wikilink") -
+[熱化學](../Page/熱化學.md "wikilink") -
+[生物化学](../Page/生物化学.md "wikilink") -
+[地球化学](../Page/地球化学.md "wikilink") -
+[海洋化学](../Page/海洋化学.md "wikilink") -
+[大气化学](../Page/大气化学.md "wikilink") -
+[环境化学](../Page/环境化学.md "wikilink") -
+[宇宙化学](../Page/宇宙化学.md "wikilink") -
+[星际化学](../Page/星际化学.md "wikilink") -
+[绿色化学](../Page/绿色化学.md "wikilink") -
+[量子化学](../Page/量子化学.md "wikilink") -
+[计算化学](../Page/计算化学.md "wikilink") -
+[配位化学](../Page/配位化学.md "wikilink") -
+[电化学](../Page/电化学.md "wikilink")
+
+<h3 style="font-size:medium;">
+
+索引
+
+</h3>
+
+[元素周期表](../Page/元素周期表.md "wikilink") -
+[元素序号列表](../Page/元素序号列表.md "wikilink") -
+[化学家列表](../Page/化学家列表.md "wikilink") -
+[IUPAC命名法](../Page/IUPAC命名法.md "wikilink") -
+[化学品列表](../Page/化学品列表.md "wikilink") -
+[:Category:化学](https://zh.wikipedia.org/wiki/Category:化学 "wikilink")
+
+<h3 style="font-size:medium;">
+
+相关学科
+
+</h3>
+
+[数学](../Page/数学.md "wikilink") - [物理学](../Page/物理学.md "wikilink") -
+[生物学](../Page/生物学.md "wikilink") -
+[地球科学](../Page/地球科学.md "wikilink") -
+[药学](../Page/药学.md "wikilink") - [医学](../Page/医学.md "wikilink")
+- [農学](../Page/農学.md "wikilink")
+
+<center>
+
+</center>
+
+<h3 style="font-size:medium;">
+
+基础模板
+
+</h3>
+
+</div>
+
+</div>
+
+<div style="display:block;float:left;width:100%;">
+
+<div style="display:block;border:1px solid #3CB371;vertical-align: top; background-color:#f9f9ff;margin-bottom:10px;padding-bottom:5px;padding-left:5px;padding-right:4px;">
+
+<h2 style="padding:3px; background:#3CB371; color:white; text-align:center; font-weight:bold; font-size:100%; margin-bottom:5px;margin-top:0;margin-left:-5px;margin-right:-4px;">
+
+其他主题首页
+
+</h2>
+
+</div>
+
+</div>
+
+[Category:主题首页](https://zh.wikipedia.org/wiki/Category:主题首页 "wikilink")
+[Category:化学](https://zh.wikipedia.org/wiki/Category:化学 "wikilink")

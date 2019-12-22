@@ -130,7 +130,7 @@ if ((mw.config.get('wgAction') == 'edit' || mw.config.get('wgAction') ==
 $( function() {
 
 // new method according to [usability:Toolbar
-customization](https://zh.wikipedia.org/wiki/usability:Toolbar_customization "wikilink"),
+customization](../Page/usability:Toolbar_customization.md "wikilink"),
 begin
 
 // Check that the toolbar is available if ( typeof $j \!= 'undefined' &&

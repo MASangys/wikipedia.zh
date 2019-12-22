@@ -1,0 +1,50 @@
+__NOTOC__
+
+<div align="center">
+
+</div>
+
+<div align="center">
+
+**歡迎來到奧斯卡金像獎的主題首頁！**</br>
+[Kodak_theatre.450px.jpg](https://zh.wikipedia.org/wiki/File:Kodak_theatre.450px.jpg "fig:Kodak_theatre.450px.jpg")
+[Hollywood_Boulevard_at_night.jpg](https://zh.wikipedia.org/wiki/File:Hollywood_Boulevard_at_night.jpg "fig:Hollywood_Boulevard_at_night.jpg")
+
+</div>
+
+</div>
+
+{{/box-header|奧斯卡金像獎主题|Portal:奧斯卡金像獎/简介|}}
+{{/box-footer|[了解更多……](../Page/奧斯卡金像獎.md "wikilink")}}
+
+<div style="float:left; width:60%;">
+
+{{/box-header|最新一屆的頒獎|Portal:奧斯卡金像獎/最新一屆的頒獎|}}  {{/box-footer|}}
+
+{{/box-header|最新一屆的最佳影片獎|Portal:奧斯卡金像獎/最新一屆的最佳影片獎|}}  {{/box-footer|}}
+
+{{/box-header|最新一屆的最佳男主角|Portal:奧斯卡金像獎/最新一屆的最佳男主角|}}  {{/box-footer|}}
+
+{{/box-header|最新一屆的最佳女主角|Portal:奧斯卡金像獎/最新一屆的最佳女主角|}}  {{/box-footer|}}
+
+{{/box-header|最新一屆的最佳導演|Portal:奧斯卡金像獎/最新一屆的最佳導演|}}  {{/box-footer|}}
+
+{{/box-header|最新一屆最佳動畫長片|Portal:奧斯卡金像獎/最新一屆最佳動畫長片|}}  {{/box-footer|}}
+
+\[ 刷新\]
+
+</div>
+
+<div style="float:right; width:39%">
+
+{{/box-header|奧斯卡金像獎新闻|Portal:奧斯卡金像獎/奧斯卡金像獎新闻|}}  {{/box-footer|}}
+
+{{/box-header|分类|Portal:奧斯卡金像獎/分类|}}  {{/box-footer|}}
+
+</div>
+
+<div style="float:right; width:100%">
+
+{{/box-header|维基主题|template:portals|}}  {{/box-footer|}}
+
+[Category:主题首页](https://zh.wikipedia.org/wiki/Category:主题首页 "wikilink")

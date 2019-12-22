@@ -1,12 +1,20 @@
-《**Really? Really\!**》（）是[Navel](../Page/Navel.md "wikilink")游戏制作公司于2006年11月24日发售的[十八禁](https://zh.wikipedia.org/wiki/日本成人游戏 "wikilink")[恋爱冒险游戏](https://zh.wikipedia.org/wiki/恋爱冒险游戏 "wikilink")。2009年發售[任天堂DS](../Page/任天堂DS.md "wikilink")版本。2012年5月25日Gyutto獨家發售網路下載版。 __toc__
+《**Really?
+Really\!**》（）是[Navel游戏制作公司于](../Page/Navel.md "wikilink")2006年11月24日发售的[十八禁](../Page/日本成人游戏.md "wikilink")[恋爱冒险游戏](../Page/恋爱冒险游戏.md "wikilink")。2009年發售[任天堂DS版本](../Page/任天堂DS.md "wikilink")。2012年5月25日Gyutto獨家發售網路下載版。
+__toc__
 
 ## 概要
 
-是[SHUFFLE\!](../Page/SHUFFLE!.md "wikilink")**芙蓉楓**结局后的故事。2006年11月24日发售了[限量版](https://zh.wikipedia.org/wiki/限量版 "wikilink")\[1\]、2007年4月27日发售了[標準版](https://zh.wikipedia.org/wiki/標準版 "wikilink")\[2\]。2009年6月25日发售《**Really? Really\! リアリアDS**》的[NDS版本](https://zh.wikipedia.org/wiki/NDS "wikilink")\[3\]\[4\]\[5\]。2012年5月25日Gyutto獨家發售網路下載版。\[6\]
+是[SHUFFLE\!](../Page/SHUFFLE!.md "wikilink")**芙蓉楓**结局后的故事。2006年11月24日发售了[限量版](../Page/限量版.md "wikilink")\[1\]、2007年4月27日发售了[標準版](../Page/標準版.md "wikilink")\[2\]。2009年6月25日发售《**Really?
+Really\!
+リアリアDS**》的[NDS版本](../Page/NDS.md "wikilink")\[3\]\[4\]\[5\]。2012年5月25日Gyutto獨家發售網路下載版。\[6\]
 
 ## Really的系统
 
-在本作中，玩家将通过游戏主人公土见禀来修复芙蓉枫的丢失的记忆。通过观察枫记忆中事件来获得有用的关键字，用这些关键字，玩家来修复枫错误的记忆。 举个例子，通过枫的记忆得知绿叶树是女的，实际上他是男的，通过'Really Attack'，玩家可以选择关键字“绿叶树”，当玩家所扮演的凛提出反对后，这个错误就被修正了。 玩家被允许在校正记忆的时候只能犯五次错误。为了得到更多的CG图，玩家必须100%的来完成。当玩家每天累计犯了五次错误，游戏就game over了。
+在本作中，玩家将通过游戏主人公土见禀来修复芙蓉枫的丢失的记忆。通过观察枫记忆中事件来获得有用的关键字，用这些关键字，玩家来修复枫错误的记忆。
+举个例子，通过枫的记忆得知绿叶树是女的，实际上他是男的，通过'Really
+Attack'，玩家可以选择关键字“绿叶树”，当玩家所扮演的凛提出反对后，这个错误就被修正了。
+玩家被允许在校正记忆的时候只能犯五次错误。为了得到更多的CG图，玩家必须100%的来完成。当玩家每天累计犯了五次错误，游戏就game
+over了。
 
 ## 登场人物
 
@@ -46,7 +54,7 @@
 
 ## 制作人员
 
-  - 企划・剧本：[あごバリア](https://zh.wikipedia.org/wiki/あごバリア "wikilink")
+  - 企划・剧本：[あごバリア](../Page/あごバリア.md "wikilink")
   - 人物设计·原画
 
 <!-- end list -->
@@ -55,7 +63,7 @@
 
       -
         ：[西又葵](../Page/西又葵.md "wikilink")（楓、桜、プリムラ、麻弓、紅葉等等）
-        ：[鈴平ひろ](https://zh.wikipedia.org/wiki/鈴平ひろ "wikilink")（亜沙、撫子、カレハ、亜麻、ツボミ他稟、幹夫等の男性キャラ全般）
+        ：[鈴平ひろ](../Page/鈴平ひろ.md "wikilink")（亜沙、撫子、カレハ、亜麻、ツボミ他稟、幹夫等の男性キャラ全般）
 
 <!-- end list -->
 
@@ -65,10 +73,12 @@
 
   - 开场曲：**Remember memories**
       -
-        （[作詞](https://zh.wikipedia.org/wiki/作詞 "wikilink")：[西又葵](../Page/西又葵.md "wikilink") [作曲](https://zh.wikipedia.org/wiki/作曲 "wikilink")・[編曲](https://zh.wikipedia.org/wiki/編曲 "wikilink")：アッチョリケ [歌](https://zh.wikipedia.org/wiki/歌 "wikilink")：[YURIA](https://zh.wikipedia.org/wiki/YURIA "wikilink")）
+        （[作詞](../Page/作詞.md "wikilink")：[西又葵](../Page/西又葵.md "wikilink")
+        [作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")：アッチョリケ
+        [歌](../Page/歌.md "wikilink")：[YURIA](../Page/YURIA.md "wikilink")）
   - 挿入歌：**Ageless Love**
       -
-        （作詞：西又葵 作曲・編曲：アッチョリケ 歌：[橋本みゆき](https://zh.wikipedia.org/wiki/橋本みゆき "wikilink")）
+        （作詞：西又葵 作曲・編曲：アッチョリケ 歌：[橋本みゆき](../Page/橋本みゆき.md "wikilink")）
   - 结尾曲：**Happy Dream**
       -
         （作詞：西又葵 作曲・編曲：アッチョリケ 歌：YURIA）
@@ -86,7 +96,8 @@
 <!-- end list -->
 
   -
-    歌：[YURIA](https://zh.wikipedia.org/wiki/YURIA "wikilink") 2006年11月22日發售。\[7\] 品番：LACM-4325
+    歌：[YURIA](../Page/YURIA.md "wikilink") 2006年11月22日發售。\[7\]
+    品番：LACM-4325
 
 <!-- end list -->
 
@@ -96,7 +107,9 @@
 
   -
     2007年1月24日發售。\[8\]品番 LACM-4346
-    エンディングテーマ「Happy Dream」（歌：[YURIA](https://zh.wikipedia.org/wiki/YURIA "wikilink")）と挿入歌「Ageless Love」（歌：[橋本みゆき](https://zh.wikipedia.org/wiki/橋本みゆき "wikilink")）を収録。
+    エンディングテーマ「Happy
+    Dream」（歌：[YURIA](../Page/YURIA.md "wikilink")）と挿入歌「Ageless
+    Love」（歌：[橋本みゆき](../Page/橋本みゆき.md "wikilink")）を収録。
 
 <!-- end list -->
 
@@ -135,17 +148,19 @@
 
 ### 漫画版
 
-  - 『**Really? Really\! -REMEMBER MEMORIES-**』 ※[日下皓](../Page/日下皓.md "wikilink")作畫，一般作品
+  - 『**Really? Really\! -REMEMBER MEMORIES-**』
+    ※[日下皓作畫](../Page/日下皓.md "wikilink")，一般作品
       - 第1巻 2007年8月10日發售\[12\] \<ISBN 978-4-04-713957-2\>
       - 第2巻 2008年4月10日發售\[13\] \<ISBN 978-4-04-715042-3\>
 
 ### 小説版
 
-  - 《Really? Really\! 愛情拼圖》（Really? Really\! 恋のジグソーパズル）\[14\] \<ISBN 978-4-04-707233-6\> ※一般作品
+  - 《Really? Really\! 愛情拼圖》（Really? Really\! 恋のジグソーパズル）\[14\] \<ISBN
+    978-4-04-707233-6\> ※一般作品
 
 ### 其他书籍
 
-  - [電撃姫増刊](../Page/DENGEKI_HIME.md "wikilink")『まるごと[Navel](../Page/Navel.md "wikilink")スペシャル』
+  - [電撃姫増刊](../Page/DENGEKI_HIME.md "wikilink")『まるごと[Navelスペシャル](../Page/Navel.md "wikilink")』
 
 <!-- end list -->
 
@@ -183,7 +198,9 @@
 
 《Really? Really\!》在日本美少女游戏与动画相关商品销售网站Getchu.com的2006年全年销量榜上排名第二名。\[17\]
 
-在2007年10月，《[電擊G's magazine](../Page/電擊G's_magazine.md "wikilink")》舉辦了日本前五十名最佳美少女遊戲排名的票選活動，《Really? Really\!》在入圍的249款遊戲中獲得8票而成為第32名。\[18\]
+在2007年10月，《[電擊G's
+magazine](../Page/電擊G's_magazine.md "wikilink")》舉辦了日本前五十名最佳美少女遊戲排名的票選活動，《Really?
+Really\!》在入圍的249款遊戲中獲得8票而成為第32名。\[18\]
 
 ## 參考資料
 
@@ -192,7 +209,13 @@
   - [官方网站](https://web.archive.org/web/20061129192420/http://www.project-navel.com/navel/reallyreally/index.html)
   - [Navel 游戏制作公司主页（需要年龄确认）](http://www.project-navel.com/)
 
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:任天堂DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂DS遊戲 "wikilink") [Category:2006年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2006年日本成人遊戲 "wikilink") [Category:虚构人工生命体](https://zh.wikipedia.org/wiki/Category:虚构人工生命体 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:廣播劇CD](https://zh.wikipedia.org/wiki/Category:廣播劇CD "wikilink") [Category:Navel游戏](https://zh.wikipedia.org/wiki/Category:Navel游戏 "wikilink")
+[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
+[Category:任天堂DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂DS遊戲 "wikilink")
+[Category:2006年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2006年日本成人遊戲 "wikilink")
+[Category:虚构人工生命体](https://zh.wikipedia.org/wiki/Category:虚构人工生命体 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
+[Category:廣播劇CD](https://zh.wikipedia.org/wiki/Category:廣播劇CD "wikilink")
+[Category:Navel游戏](https://zh.wikipedia.org/wiki/Category:Navel游戏 "wikilink")
 
 1.
 2.

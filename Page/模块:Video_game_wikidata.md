@@ -1,10 +1,16 @@
-local Date = require('Module:Date')._Date local yesno = require('Module:Yesno')
+local Date = require('Module:Date')._Date local yesno =
+require('Module:Yesno')
 
 local p = {}
 
-\-- Local variables. local reviewer = nil; local df = "ymd"; local entity = nil; local genRefs = true; local showSystem = true; local showUpdateLink = true; local system = nil; local systemId = nil; local systemFormat = "colon"; local updateLinkStyle = nil; local entities = {};
+\-- Local variables. local reviewer = nil; local df = "ymd"; local
+entity = nil; local genRefs = true; local showSystem = true; local
+showUpdateLink = true; local system = nil; local systemId = nil; local
+systemFormat = "colon"; local updateLinkStyle = nil; local entities =
+{};
 
-\-- Translation table for converting numeric-IDs to shorthand aliases. local systemAliases = {
+\-- Translation table for converting numeric-IDs to shorthand aliases.
+local systemAliases = {
 
 `   [10677] = 'PS1',`
 `   [1323662] = 'PS1', -- Placeholder, this is actually the series but could be mistakenly used for PS1.`
@@ -35,7 +41,8 @@ local p = {}
 
 }
 
-\-- Translation table for converting system aliases to QIDs local systemIDs = {
+\-- Translation table for converting system aliases to QIDs local
+systemIDs = {
 
 `   ['PS1'] = 10677,`
 `   ['PS2'] = 10680,`
@@ -67,28 +74,32 @@ local p = {}
 
 }
 
-\-- List of accepted aggregator arguments and their related QID. local aggregatorAliases = {
+\-- List of accepted aggregator arguments and their related QID. local
+aggregatorAliases = {
 
 `   [150248] = 'MC',`
 `   [40160] = 'GR'`
 
 }
 
-\-- List of accepted aggregator arguments and their related QID. local aggregatorIDs = {
+\-- List of accepted aggregator arguments and their related QID. local
+aggregatorIDs = {
 
 `   ['MC'] = 150248,`
 `   ['GR'] = 40160`
 
 }
 
-\-- List of accepted reviewer arguments and their related QID. local reviewerAliases = {
+\-- List of accepted reviewer arguments and their related QID. local
+reviewerAliases = {
 
 `   [591573] = 'FAM',`
 `   [207708] = 'IGN'`
 
 }
 
-\-- List of accepted reviewer arguments and their related QID. local reviewerIDs = {
+\-- List of accepted reviewer arguments and their related QID. local
+reviewerIDs = {
 
 `   ['FAM'] = 591573,`
 `   ['IGN'] = 207708`

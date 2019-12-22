@@ -1,4 +1,10 @@
-\--[This module is a collection of functions to assist in extracting information from full Wikipedia pages. It is not intended to be a full parser, or anything like that, merely a simple system for grabbing a few relevant details. These functions are not intended to be called directly from templates, but rather these functions would be included and referenced in other Lua modules that examine page text.](https://zh.wikipedia.org/wiki/This_module_is_a_collection_of_functions_to_assist_in_extracting_information_from_full_Wikipedia_pages._It_is_not_intended_to_be_a_full_parser,_or_anything_like_that,_merely_a_simple_system_for_grabbing_a_few_relevant_details._These_functions_are_not_intended_to_be_called_directly_from_templates,_but_rather_these_functions_would_be_included_and_referenced_in_other_Lua_modules_that_examine_page_text. "wikilink")
+\--[This module is a collection of functions to assist in extracting
+information from full Wikipedia pages. It is not intended to be a full
+parser, or anything like that, merely a simple system for grabbing a few
+relevant details. These functions are not intended to be called directly
+from templates, but rather these functions would be included and
+referenced in other Lua modules that examine page
+text.](https://zh.wikipedia.org/wiki/This_module_is_a_collection_of_functions_to_assist_in_extracting_information_from_full_Wikipedia_pages._It_is_not_intended_to_be_a_full_parser,_or_anything_like_that,_merely_a_simple_system_for_grabbing_a_few_relevant_details._These_functions_are_not_intended_to_be_called_directly_from_templates,_but_rather_these_functions_would_be_included_and_referenced_in_other_Lua_modules_that_examine_page_text. "wikilink")
 
 p = {}
 
@@ -14,16 +20,19 @@ p.getUsers = function ( text, sort, unique )
 `   if not sort then `
 `       search_re = '()%[%[User:([^/]-)[|%]#]';`
 `       for ind, name in string.gmatch( text, search_re ) do`
-`           link = table.concat( {'`[`',``   ``name,``   ``'`](https://zh.wikipedia.org/wiki/User:',_name,_' "wikilink")`'} );`
+`           link = table.concat( {'`[`',``   ``name,``
+ ``'`](https://zh.wikipedia.org/wiki/User:',_name,_' "wikilink")`'} );`
 `           table.insert( user_table, {ind, name, link} );`
 `       end`
 `       search_re = '()%[%[User talk:([^/]-)[|%]#]';`
 `       for ind, name in string.gmatch( text, search_re ) do`
 `           if string.match( name, '^%d-%.%d-%.%d-%.%d-$' ) or string.match( name, '^[%dA-F]-:[%dA-F]-:[%dA-F]-:[%dA-F]-:[%dA-F]-:[%dA-F]$' ) then`
-`               link = table.concat( {'`[`',``   ``name,``   ``'`](https://zh.wikipedia.org/wiki/Special:Contributions/',_name,_' "wikilink")`'} );`
+`               link = table.concat( {'`[`',``   ``name,``
+ ``'`](https://zh.wikipedia.org/wiki/Special:Contributions/',_name,_' "wikilink")`'} );`
 `               table.insert( user_table, {ind, name, link} );`
 `           else       `
-`               link = table.concat( {'`[`',``   ``name,``   ``'`](https://zh.wikipedia.org/wiki/User:',_name,_' "wikilink")`'} );`
+`               link = table.concat( {'`[`',``   ``name,``
+ ``'`](https://zh.wikipedia.org/wiki/User:',_name,_' "wikilink")`'} );`
 `               table.insert( user_table, {ind, name, link} );`
 `           end            `
 `       end`
@@ -31,16 +40,19 @@ p.getUsers = function ( text, sort, unique )
 `   else`
 `       search_re = '%[%[User:([^/]-)[|%]#]';`
 `       for name in string.gmatch( text, search_re ) do`
-`           link = table.concat( {'`[`',``   ``name,``   ``'`](https://zh.wikipedia.org/wiki/User:',_name,_' "wikilink")`'} );`
+`           link = table.concat( {'`[`',``   ``name,``
+ ``'`](https://zh.wikipedia.org/wiki/User:',_name,_' "wikilink")`'} );`
 `           table.insert( user_table, {0, name, link} );`
 `       end`
 `       search_re = '%[%[User talk:([^/]-)[|%]#]';`
 `       for name in string.gmatch( text, search_re ) do`
 `           if string.match( name, '^%d-%.%d-%.%d-%.%d-$' ) or string.match( name, '^[%dA-F]-:[%dA-F]-:[%dA-F]-:[%dA-F]-:[%dA-F]-:[%dA-F]$' ) then`
-`               link = table.concat( {'`[`',``   ``name,``   ``'`](https://zh.wikipedia.org/wiki/Special:Contributions/',_name,_' "wikilink")`'} );`
+`               link = table.concat( {'`[`',``   ``name,``
+ ``'`](https://zh.wikipedia.org/wiki/Special:Contributions/',_name,_' "wikilink")`'} );`
 `               table.insert( user_table, {0, name, link} );`
 `           else       `
-`               link = table.concat( {'`[`',``   ``name,``   ``'`](https://zh.wikipedia.org/wiki/User:',_name,_' "wikilink")`'} );`
+`               link = table.concat( {'`[`',``   ``name,``
+ ``'`](https://zh.wikipedia.org/wiki/User:',_name,_' "wikilink")`'} );`
 `               table.insert( user_table, {0, name, link} );`
 `           end            `
 `       end    `
@@ -119,7 +131,8 @@ p.formatSectionLink = function( root, text )
 `   link = string.gsub( link, '%[%[', '' );`
 `   link = string.gsub( link, '%]%]', '' );`
 `       `
-`   return table.concat( {'`[`'``   ``..``   ``link``   ``..``   ``'`](https://zh.wikipedia.org/wiki/',_root,_'#',_frame:preprocess\(_'{{anchorencode:'_.._text_.._'}}'_\),_' "wikilink")`' } );    `
+`   return table.concat( {'`[`'``   ``..``   ``link``   ``..``
+ ``'`](https://zh.wikipedia.org/wiki/',_root,_'#',_frame:preprocess\(_'{{anchorencode:'_.._text_.._'}}'_\),_' "wikilink")`' } );    `
 
 end
 

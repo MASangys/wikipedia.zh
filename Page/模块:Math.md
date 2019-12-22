@@ -1,10 +1,16 @@
-\--[This module provides a number of basic mathematical operations.](https://zh.wikipedia.org/wiki/This_module_provides_a_number_of_basic_mathematical_operations. "wikilink")
+\--[This module provides a number of basic mathematical
+operations.](https://zh.wikipedia.org/wiki/This_module_provides_a_number_of_basic_mathematical_operations. "wikilink")
 
 local yesno, getArgs -- lazily initialized
 
-local p = {} -- Holds functions to be returned from \#invoke, and functions to make available to other Lua modules. local wrap = {} -- Holds wrapper functions that process arguments from \#invoke. These act as intemediary between functions meant for \#invoke and functions meant for Lua.
+local p = {} -- Holds functions to be returned from \#invoke, and
+functions to make available to other Lua modules. local wrap = {} --
+Holds wrapper functions that process arguments from \#invoke. These act
+as intemediary between functions meant for \#invoke and functions meant
+for Lua.
 
-\--[Helper functions used to avoid redundant code.](https://zh.wikipedia.org/wiki/Helper_functions_used_to_avoid_redundant_code. "wikilink")
+\--[Helper functions used to avoid redundant
+code.](https://zh.wikipedia.org/wiki/Helper_functions_used_to_avoid_redundant_code. "wikilink")
 
 local function err(msg)
 
@@ -65,14 +71,19 @@ local function fold(func, ...)
 
 end
 
-\--[Fold arguments by selectively choosing values (func should return when to choose the current "dominant" value).](https://zh.wikipedia.org/wiki/Fold_arguments_by_selectively_choosing_values_\(func_should_return_when_to_choose_the_current_"dominant"_value\). "wikilink") local function binary_fold(func, ...)
+\--[Fold arguments by selectively choosing values (func should return
+when to choose the current "dominant"
+value).](https://zh.wikipedia.org/wiki/Fold_arguments_by_selectively_choosing_values_\(func_should_return_when_to_choose_the_current_"dominant"_value\). "wikilink")
+local function binary_fold(func, ...)
 
 `   local value = fold((function(a, b) if func(a, b) then return a else return b end end), ...)`
 `   return value`
 
 end
 
-\--[ random }} {{\#invoke: Math | random | maximum value }} {{\#invoke: Math | random | minimum value | maximum value }} ](https://zh.wikipedia.org/wiki/random_Generate_a_random_number_Usage:_{{#invoke:_Math "wikilink")
+\--[ random }} {{\#invoke: Math | random | maximum value }} {{\#invoke:
+Math | random | minimum value | maximum value }}
+](https://zh.wikipedia.org/wiki/random_Generate_a_random_number_Usage:_{{#invoke:_Math "wikilink")
 
 function wrap.random(args)
 
@@ -98,7 +109,8 @@ function p._random(first, second)
 
 end
 
-\--[ order | value }} ](https://zh.wikipedia.org/wiki/order_Determine_order_of_magnitude_of_a_number_Usage:_{{#invoke:_Math "wikilink")
+\--[ order | value }}
+](https://zh.wikipedia.org/wiki/order_Determine_order_of_magnitude_of_a_number_Usage:_{{#invoke:_Math "wikilink")
 
 function wrap.order(args)
 
@@ -119,7 +131,8 @@ function p._order(x)
 
 end
 
-\--[ precision | value }} ](https://zh.wikipedia.org/wiki/precision_Detemines_the_precision_of_a_number_using_the_string_representation_Usage:_{{_#invoke:_Math "wikilink")
+\--[ precision | value }}
+](https://zh.wikipedia.org/wiki/precision_Detemines_the_precision_of_a_number_using_the_string_representation_Usage:_{{_#invoke:_Math "wikilink")
 
 function wrap.precision(args)
 
@@ -214,9 +227,11 @@ end
 
 Finds the minimum argument
 
-Usage: {{\#invoke:Math| min | value1 | value2 | ... }} OR {{\#invoke:Math| min }}
+Usage: {{\#invoke:Math| min | value1 | value2 | ... }} OR
+{{\#invoke:Math| min }}
 
-When used with no arguments, it takes its input from the parent frame. Note, any values that do not evaluate to numbers are ignored. \]\]
+When used with no arguments, it takes its input from the parent frame.
+Note, any values that do not evaluate to numbers are ignored. \]\]
 
 function wrap.min(args)
 
@@ -237,7 +252,8 @@ end
 
 Finds the average
 
-Usage: {{\#invoke:Math| average | value1 | value2 | ... }} OR {{\#invoke:Math| average }}
+Usage: {{\#invoke:Math| average | value1 | value2 | ... }} OR
+{{\#invoke:Math| average }}
 
 Note, any values that do not evaluate to numbers are ignored. \]\]
 
@@ -317,7 +333,8 @@ function p._mod(x, y)
 
 end
 
-\--[ gcd | value 1 | value 2 | value 3 | ... }} --](https://zh.wikipedia.org/wiki/gcd_Calculates_the_greatest_common_divisor_of_multiple_numbers_Usage:_{{#invoke:Math "wikilink")
+\--[ gcd | value 1 | value 2 | value 3 | ... }}
+--](https://zh.wikipedia.org/wiki/gcd_Calculates_the_greatest_common_divisor_of_multiple_numbers_Usage:_{{#invoke:Math "wikilink")
 
 function wrap.gcd(args)
 
@@ -344,7 +361,8 @@ function p._gcd(...)
 
 end
 
-\--[ precision_format | number | precision }} ](https://zh.wikipedia.org/wiki/precision_format_Rounds_a_number_to_the_specified_precision_and_formats_according_to_rules_originally_used_for_{{template:Rnd}}._Output_is_a_string._Usage:_{{#invoke:_Math "wikilink")
+\--[ precision_format | number | precision }}
+](https://zh.wikipedia.org/wiki/precision_format_Rounds_a_number_to_the_specified_precision_and_formats_according_to_rules_originally_used_for_{{template:Rnd}}._Output_is_a_string._Usage:_{{#invoke:_Math "wikilink")
 
 function wrap.precision_format(args)
 
@@ -440,14 +458,18 @@ function p._precision_format(value_string, precision)
 `           order = lang:formatNum(order)`
 `       end    `
 
-`       formatted_num = formatted_num .. '`<span style="margin:0 .15em 0 .25em">`×`</span>`10`<sup>`'``   ``..``   ``order``   ``..``   ``'`</sup>`'`
+`       formatted_num = formatted_num .. '`<span style="margin:0 .15em 0 .25em">`×`</span>`10`<sup>`'``
+ ``..``   ``order``   ``..``   ``'`</sup>`'`
 `   end`
 
 `   return formatted_num`
 
 end
 
-\--[Helper function that interprets the input numerically. If the input does not appear to be a number, attempts evaluating it as a parser functions expression.](https://zh.wikipedia.org/wiki/Helper_function_that_interprets_the_input_numerically._If_the_input_does_not_appear_to_be_a_number,_attempts_evaluating_it_as_a_parser_functions_expression. "wikilink")
+\--[Helper function that interprets the input numerically. If the input
+does not appear to be a number, attempts evaluating it as a parser
+functions
+expression.](https://zh.wikipedia.org/wiki/Helper_function_that_interprets_the_input_numerically._If_the_input_does_not_appear_to_be_a_number,_attempts_evaluating_it_as_a_parser_functions_expression. "wikilink")
 
 function p._cleanNumber(number_string)
 
@@ -485,7 +507,11 @@ function p._cleanNumber(number_string)
 
 end
 
-\--[Wrapper function that does basic argument processing. This ensures that all functions from \#invoke can use either the current frame or the parent frame, and it also trims whitespace for all arguments and removes blank arguments.](https://zh.wikipedia.org/wiki/Wrapper_function_that_does_basic_argument_processing._This_ensures_that_all_functions_from_#invoke_can_use_either_the_current_frame_or_the_parent_frame,_and_it_also_trims_whitespace_for_all_arguments_and_removes_blank_arguments. "wikilink")
+\--[Wrapper function that does basic argument processing. This ensures
+that all functions from \#invoke can use either the current frame or the
+parent frame, and it also trims whitespace for all arguments and removes
+blank
+arguments.](https://zh.wikipedia.org/wiki/Wrapper_function_that_does_basic_argument_processing._This_ensures_that_all_functions_from_#invoke_can_use_either_the_current_frame_or_the_parent_frame,_and_it_also_trims_whitespace_for_all_arguments_and_removes_blank_arguments. "wikilink")
 
 local mt = { __index = function(t, k)
 

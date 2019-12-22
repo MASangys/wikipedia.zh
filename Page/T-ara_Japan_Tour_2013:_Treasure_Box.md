@@ -1,4 +1,6 @@
-**T-ara Japan Tour 2013: Treasure Box**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[T-ara的第](https://zh.wikipedia.org/wiki/T-ara "wikilink")2次[日本](../Page/日本.md "wikilink")全國巡迴演唱會。以支持她們第2張日本錄音室專輯《Treasure Box》(2013)。巡迴演唱會於2013年9月4日開始，地點為[福岡太陽宮](https://zh.wikipedia.org/wiki/福岡太陽宮 "wikilink")；於9月27日結束，地點為[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[日本武道館](../Page/日本武道館.md "wikilink")。
+**T-ara Japan Tour 2013: Treasure
+Box**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[T-ara的第](https://zh.wikipedia.org/wiki/T-ara "wikilink")2次[日本全國巡迴演唱會](../Page/日本.md "wikilink")。以支持她們第2張日本錄音室專輯《Treasure
+Box》(2013)。巡迴演唱會於2013年9月4日開始，地點為[福岡太陽宮](https://zh.wikipedia.org/wiki/福岡太陽宮 "wikilink")；於9月27日結束，地點為[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[日本武道館](../Page/日本武道館.md "wikilink")。
 
 ## 演出日期
 
@@ -107,6 +109,7 @@
 
 ## 參考資料
 
-  - [T-ARA JAPAN TOUR 2013～TREASURE BOX～ T-ARA(ティアラ)公式ウェブサイト ](https://web.archive.org/web/20130723064625/http://www.t-ara-official.com/japantour2013.html)
+  - [T-ARA JAPAN TOUR 2013～TREASURE BOX～ T-ARA(ティアラ)公式ウェブサイト
+    ](https://web.archive.org/web/20130723064625/http://www.t-ara-official.com/japantour2013.html)
 
 [Category:T-ara](https://zh.wikipedia.org/wiki/Category:T-ara "wikilink")

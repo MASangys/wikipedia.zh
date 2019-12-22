@@ -1,6 +1,20 @@
 -----
 
-\-- -- -- CATEGORY HANDLER -- -- -- -- This module implements the  template in Lua, -- -- with a few improvements: all namespaces and all namespace aliases -- -- are supported, and namespace names are detected automatically for -- -- the local wiki. This module requires [Module:Namespace detect](https://zh.wikipedia.org/wiki/Module:Namespace_detect "wikilink") -- -- and [Module:Yesno](https://zh.wikipedia.org/wiki/Module:Yesno "wikilink") to be available on the local wiki. It can be -- -- configured for different wikis by altering the values in -- -- [Module:Category handler/config](https://zh.wikipedia.org/wiki/Module:Category_handler/config "wikilink"), and pages can be blacklisted -- -- from categorisation by using [Module:Category handler/blacklist](https://zh.wikipedia.org/wiki/Module:Category_handler/blacklist "wikilink"). -- -- --
+\-- -- -- CATEGORY HANDLER -- -- -- -- This module implements the
+template in Lua, -- -- with a few improvements: all namespaces and all
+namespace aliases -- -- are supported, and namespace names are detected
+automatically for -- -- the local wiki. This module requires
+[Module:Namespace
+detect](https://zh.wikipedia.org/wiki/Module:Namespace_detect "wikilink")
+-- -- and
+[Module:Yesno](https://zh.wikipedia.org/wiki/Module:Yesno "wikilink") to
+be available on the local wiki. It can be -- -- configured for different
+wikis by altering the values in -- -- [Module:Category
+handler/config](https://zh.wikipedia.org/wiki/Module:Category_handler/config "wikilink"),
+and pages can be blacklisted -- -- from categorisation by using
+[Module:Category
+handler/blacklist](https://zh.wikipedia.org/wiki/Module:Category_handler/blacklist "wikilink").
+-- -- --
 
 -----
 

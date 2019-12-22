@@ -1,13 +1,16 @@
-《**B'z The Best "Treasure"**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[B'z](../Page/B'z.md "wikilink")出道10週年的精選輯。
+《**B'z The Best
+"Treasure"**》，是[日本](../Page/日本.md "wikilink")[樂團](../Page/樂團.md "wikilink")[B'z出道](../Page/B'z.md "wikilink")10週年的精選輯。
 
 ## 簡介
 
   - 因封面為銀色，所以通稱為銀盤。
   - 發售日1998年9月20日剛好是B'z發行出道單曲、專輯10周年的日子
-  - 《B'z The Best "Treasure"》初動約250萬張，為當時初動量第二高，現在為日本音樂史上初動量第四高的專輯，全球音樂史上首週銷量第六高的作品。
+  - 《B'z The Best
+    "Treasure"》初動約250萬張，為當時初動量第二高，現在為日本音樂史上初動量第四高的專輯，全球音樂史上首週銷量第六高的作品。
   - 發售日當天為星期日，所以對統計銷售較為不利，但依然擁有驚人的銷售量，發售隔週及賣出超過100萬張。
-  - 發行的第二週銷量超過100萬張，是繼[globe首張專輯](https://zh.wikipedia.org/wiki/globe "wikilink")[globe以來](https://zh.wikipedia.org/wiki/globe "wikilink")，第二張達成此紀錄的唱片。
-  - 與[B'z](../Page/B'z.md "wikilink")5月發行的另一張精選輯《[B'z The Best "Pleasure"](../Page/B'z_The_Best_"Pleasure".md "wikilink")》合計賣出超過1000萬張。
+  - 發行的第二週銷量超過100萬張，是繼[globe首張專輯](../Page/globe.md "wikilink")[globe以來](../Page/globe.md "wikilink")，第二張達成此紀錄的唱片。
+  - 與[B'z](../Page/B'z.md "wikilink")5月發行的另一張精選輯《[B'z The Best
+    "Pleasure"](../Page/B'z_The_Best_"Pleasure".md "wikilink")》合計賣出超過1000萬張。
   - 發售至今已賣出超過400萬張，日本歷代專輯銷售第5、日本歷代精選輯銷售第3、日本歷代專輯初動第4。
   - 14首歌曲裡，有5首歌單曲銷售破百萬，榮獲1998年公信榜第2名。
   - 最終銷量約443.8萬張，為日本最暢銷專輯第5名。
@@ -15,16 +18,21 @@
 ## 收錄曲
 
 1.  [BLOWIN'](../Page/BLOWIN'.md "wikilink")　(3:55) ※○
-2.  [恋心 (KOI-GOKORO)](https://zh.wikipedia.org/wiki/ZERO_\(B'z单曲\) "wikilink")　(3:49)
+2.  [恋心 (KOI-GOKORO)](../Page/ZERO_\(B'z单曲\).md "wikilink")　(3:49)
 3.  [TIME](../Page/BLOWIN'.md "wikilink")　(4:57)
 4.  [Liar\! Liar\!](../Page/Liar!_Liar!.md "wikilink")　(3:23) ※
 5.  [ねがい](../Page/心願_\(B'z單曲\).md "wikilink")　(3:29) ※○
-6.  [愛しい人よGood Night...](https://zh.wikipedia.org/wiki/愛しい人よGood_Night... "wikilink")　(6:15) ※
+6.  [愛しい人よGood
+    Night...](../Page/愛しい人よGood_Night....md "wikilink")　(6:15)
+    ※
 7.  Pleasure'98 〜人生の快楽〜　(4:44)
-8.  [ミエナイチカラ 〜INVISIBLE ONE〜](https://zh.wikipedia.org/wiki/ミエナイチカラ_~INVISIBLE_ONE~_/_MOVE "wikilink")　(4:41) ※○
+8.  [ミエナイチカラ 〜INVISIBLE
+    ONE〜](../Page/ミエナイチカラ_~INVISIBLE_ONE~_/_MOVE.md "wikilink")　(4:41)
+    ※○
 9.  もう一度キスしたかった　(4:39)
 10. [FIREBALL](../Page/FIREBALL.md "wikilink")　(4:14) ※
-11. [Real Thing Shakes](../Page/Real_Thing_Shakes.md "wikilink")　(4:14) ※○
+11. [Real Thing Shakes](../Page/Real_Thing_Shakes.md "wikilink")　(4:14)
+    ※○
 12. [MOTEL](../Page/MOTEL.md "wikilink")　(4:23) ※○
 13. いつかのメリークリスマス　(5:38)
 14. RUN -1998 style-　(5:49)
@@ -65,6 +73,13 @@
 
 ## 參考資料
 
-  - [B'z ： B'z、最強ベスト・アルバムの収録曲決定！](http://www.barks.jp/news/?id=1000012096&m=jpop)
+  - [B'z ：
+    B'z、最強ベスト・アルバムの収録曲決定！](http://www.barks.jp/news/?id=1000012096&m=jpop)
 
-[Category:B'z精選輯](https://zh.wikipedia.org/wiki/Category:B'z精選輯 "wikilink") [Category:1998年音樂專輯](https://zh.wikipedia.org/wiki/Category:1998年音樂專輯 "wikilink") [Category:RIAJ百萬認證專輯](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證專輯 "wikilink") [Category:Oricon百萬銷量達成專輯](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成專輯 "wikilink") [Category:1998年Oricon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1998年Oricon專輯月榜冠軍作品 "wikilink") [Category:1998年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1998年Oricon專輯週榜冠軍作品 "wikilink") [Category:Rooms_RECORDS音乐专辑](https://zh.wikipedia.org/wiki/Category:Rooms_RECORDS音乐专辑 "wikilink")
+[Category:B'z精選輯](https://zh.wikipedia.org/wiki/Category:B'z精選輯 "wikilink")
+[Category:1998年音樂專輯](https://zh.wikipedia.org/wiki/Category:1998年音樂專輯 "wikilink")
+[Category:RIAJ百萬認證專輯](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證專輯 "wikilink")
+[Category:Oricon百萬銷量達成專輯](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成專輯 "wikilink")
+[Category:1998年Oricon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1998年Oricon專輯月榜冠軍作品 "wikilink")
+[Category:1998年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1998年Oricon專輯週榜冠軍作品 "wikilink")
+[Category:Rooms_RECORDS音乐专辑](https://zh.wikipedia.org/wiki/Category:Rooms_RECORDS音乐专辑 "wikilink")

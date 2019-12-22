@@ -10,7 +10,8 @@ function normalizeFullWidthChars(s)
 
 end
 
-function _convert(n, base, from, precision, width, default, prefix, suffix)
+function _convert(n, base, from, precision, width, default, prefix,
+suffix)
 
 `   n = '' .. n   -- convert to a string`
 `   `

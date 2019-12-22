@@ -1,0 +1,49 @@
+__NOTOC__
+
+<div style="text-align: center;">
+
+歡迎光臨中文維基琉球主題首頁！
+
+</div>
+
+<div style="text-align: center;">
+
+</div>
+
+<div align="center">
+
+</div>
+
+{{/box-header|琉球群島|Portal:琉球群島/簡介|}}  {{/box-footer|}}
+
+<div style="float:left; width:60%;">
+
+{{/box-header|特色條目|Portal:琉球群島/特色條目|}}  {{/box-footer|}}
+
+{{/box-header2|優良條目|Portal:琉球群島/優良條目|}}  {{/box-footer|}}
+
+{{/box-header|精選圖片|Portal:琉球群島/特色圖片|}} {{/特色圖片}} {{/box-footer|}}
+
+{{/box-header2|你知道嗎|Portal:琉球群島/你知道嗎|}}  {{/box-footer|}}
+
+\[ 刷新\]
+
+</div>
+
+<div style="float:right; width:39%">
+
+{{/box-header2|新聞|Portal:琉球群島/新聞|}}  {{/box-footer|}}
+
+{{/box-header|分類|Portal:琉球群島/分類|}} {{/分類}} {{/box-footer|}}
+
+{{/box-header2|歡迎參與|Portal:琉球群島/歡迎參與|}}  {{/box-footer|}}
+
+</div>
+
+<div style="float:right; width:100%">
+
+{{/box-header|维基主题|template:portals|}}  {{/box-footer|}}
+
+[Category:主题首页](https://zh.wikipedia.org/wiki/Category:主题首页 "wikilink")
+[Category:琉球](https://zh.wikipedia.org/wiki/Category:琉球 "wikilink")
+[Category:琉球專題條目](https://zh.wikipedia.org/wiki/Category:琉球專題條目 "wikilink")

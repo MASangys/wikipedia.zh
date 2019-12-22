@@ -1,6 +1,9 @@
-\-- <https://meta.wikimedia.org/wiki/Module:Bar> local p = {} local inner = {}
+\-- <https://meta.wikimedia.org/wiki/Module:Bar> local p = {} local
+inner = {}
 
-\--\#\#\#\#\#\#\#\#\#\# --\#\# Public functions --\#\#\#\#\#\#\#\#\#\# --- Render a bar chart. -- @param frame The arguments passed to the script. See docs on renderFromLua. function p.format( frame )
+\--\#\#\#\#\#\#\#\#\#\# --\#\# Public functions --\#\#\#\#\#\#\#\#\#\#
+--- Render a bar chart. -- @param frame The arguments passed to the
+script. See docs on renderFromLua. function p.format( frame )
 
 `   -- extract args`
 `   local width = frame.args['width']`
@@ -22,7 +25,14 @@
 
 end
 
-\--- Render a bar chart from Lua. -- @param series A table representing the bars to render, consisting of a sequence of tables like {value = 14, color = '\#CCC', title = 'tooltip text'}. -- @param total (optional) The total number of values represented by all bar series. -- @param width (optional) The CSS width of the bar. -- @param barCss (optional) Additional CSS to apply to the rendered bar table. -- @param zeroWidth (optional) function p.renderFromLua(series, total, width, barCSS, zeroWidth)
+\--- Render a bar chart from Lua. -- @param series A table representing
+the bars to render, consisting of a sequence of tables like {value = 14,
+color = '\#CCC', title = 'tooltip text'}. -- @param total (optional) The
+total number of values represented by all bar series. -- @param width
+(optional) The CSS width of the bar. -- @param barCss (optional)
+Additional CSS to apply to the rendered bar table. -- @param zeroWidth
+(optional) function p.renderFromLua(series, total, width, barCSS,
+zeroWidth)
 
 `   -- parse arguments`
 `   width = width or '100%'`
@@ -76,7 +86,9 @@ end
 
 end
 
-\--\#\#\#\#\#\#\#\#\#\# --\#\# Private functions --\#\#\#\#\#\#\#\#\#\# --- Render an individual bar series. -- @param series The bar series to render. function inner.renderSeries(series)
+\--\#\#\#\#\#\#\#\#\#\# --\#\# Private functions --\#\#\#\#\#\#\#\#\#\#
+--- Render an individual bar series. -- @param series The bar series to
+render. function inner.renderSeries(series)
 
 `   -- ignore empty series`
 `   if not series.value or series.value == 0 then`
@@ -102,7 +114,9 @@ end
 
 end
 
-\--- Get the percentage ratio of two numbers as a decimal value. -- @param value The number of items in the subset. -- @param total The total number of items in the set. function inner.getRatio(value, total)
+\--- Get the percentage ratio of two numbers as a decimal value. --
+@param value The number of items in the subset. -- @param total The
+total number of items in the set. function inner.getRatio(value, total)
 
 `   if(total == 0) then`
 `      error('the total for a series cannot be zero')`

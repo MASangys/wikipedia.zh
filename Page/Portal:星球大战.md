@@ -1,0 +1,54 @@
+__NOTOC__
+
+<div align="center">
+
+</div>
+
+{{/box-header|[Star_Wars_Yellow_One_Line_Logo.svg](https://zh.wikipedia.org/wiki/File:Star_Wars_Yellow_One_Line_Logo.svg "fig:Star_Wars_Yellow_One_Line_Logo.svg")|Portal:星球大战/简介|}}
+ {{/box-footer|}}
+
+<div style="text-align: center;">
+
+[Fairytale_key_enter-2.png](https://zh.wikipedia.org/wiki/File:Fairytale_key_enter-2.png "fig:Fairytale_key_enter-2.png")<span class="plainlinks noarchive">\[
+刷新頁面\]<span>
+
+</div>
+
+<div style="float:left; width:64%;">
+
+{{/box-header|星際大戰|Portal:星際大戰/星際大戰四部曲：曙光乍現|}} {{
+Portal:星際大戰/星際大戰四部曲：曙光乍現}}
+{{/box-footer|}}
+
+{{/box-header|帝國大反擊|Portal:星際大戰/星際大戰五部曲：帝國大反擊|}}  {{/box-footer|}}
+
+{{/box-header|絕地大反攻|Portal:星際大戰/星際大戰六部曲：絕地大反攻|}}  {{/box-footer|}}
+
+{{/box-header|威脅潛伏|Portal:星際大戰/星際大戰首部曲：威脅潛伏|}}  {{/box-footer|}}
+
+{{/box-header|複製人全面進攻|Portal:星際大戰/星際大戰二部曲：複製人全面進攻|}}  {{/box-footer|}}
+
+{{/box-header|西斯大帝的復仇|Portal:星際大戰/星際大戰三部曲：西斯大帝的復仇|}}  {{/box-footer|}}
+
+{{/box-header|原力覺醒|Portal:星際大戰/STAR WARS：原力覺醒|}}  {{/box-footer|}}
+
+</div>
+
+<div style="float:right; width:35%">
+
+{{/box-header|星際大戰新聞|Portal:星球大战/星球大战新闻|}}  {{/box-footer|}}
+
+{{/box-header|你知道嗎|Portal:星球大战/你知道吗|}}  {{/box-footer|}}
+
+{{/box-header|分類|Portal:星球大战/分类|}}  {{/box-footer|}}
+
+{{/box-header|用戶框|Portal:星際大戰/用戶框|}}  {{/box-footer|}}
+
+</div>
+
+<div style="float:right; width:100%">
+
+{{/box-header|維基主題|template:portals|}}  {{/box-footer|}}
+
+[Category:主题首页](https://zh.wikipedia.org/wiki/Category:主题首页 "wikilink")
+[Category:星際大戰](https://zh.wikipedia.org/wiki/Category:星際大戰 "wikilink")

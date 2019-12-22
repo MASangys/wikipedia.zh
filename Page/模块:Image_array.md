@@ -1,4 +1,5 @@
-\-- implements [template:image array](https://zh.wikipedia.org/wiki/template:image_array "wikilink")
+\-- implements [template:image
+array](https://zh.wikipedia.org/wiki/template:image_array "wikilink")
 
 local p = {}
 

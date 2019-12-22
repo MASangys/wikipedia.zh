@@ -1,18 +1,21 @@
-**ZE:A-FIVE**是以演唱為主的五人小分隊，由[ZE:A](../Page/ZE:A.md "wikilink")成員[凱文](https://zh.wikipedia.org/wiki/凱文_\(韓國藝人\) "wikilink")(Kevin)、[時完](../Page/時完.md "wikilink")、[旼佑](../Page/旼佑.md "wikilink")、[炯植和](../Page/朴炯植.md "wikilink")[桐俊所組成](https://zh.wikipedia.org/wiki/桐俊 "wikilink")。ZE:A-FIVE原本只打算進軍日本，在日本舉行活動，並於2月7日發行首張日文單曲《The Classic》。但他們在日本發行的新專輯《The Classic》得到意想不到的好成績。3月初，ZE:A-FIVE在日本首先公開亮相時，便與日本組合KAT-TUN分別佔據了日本公信榜的第1、2名，吸引眾人目光。同時，在韓國國內進行正式活動前，ZE:A-FIVE便已在MELON、BUGS MUSIC等各大音樂網站J-POP排行榜中，排名第一位，預示著向成功不斷邁進之中。
+**ZE:A-FIVE**是以演唱為主的五人小分隊，由[ZE:A成員](../Page/ZE:A.md "wikilink")[凱文](https://zh.wikipedia.org/wiki/凱文_\(韓國藝人\) "wikilink")(Kevin)、[時完](../Page/時完.md "wikilink")、[旼佑](../Page/旼佑.md "wikilink")、[炯植和](https://zh.wikipedia.org/wiki/朴炯植 "wikilink")[桐俊所組成](https://zh.wikipedia.org/wiki/桐俊 "wikilink")。ZE:A-FIVE原本只打算進軍日本，在日本舉行活動，並於2月7日發行首張日文單曲《The
+Classic》。但他們在日本發行的新專輯《The
+Classic》得到意想不到的好成績。3月初，ZE:A-FIVE在日本首先公開亮相時，便與日本組合KAT-TUN分別佔據了日本公信榜的第1、2名，吸引眾人目光。同時，在韓國國內進行正式活動前，ZE:A-FIVE便已在MELON、BUGS
+MUSIC等各大音樂網站J-POP排行榜中，排名第一位，預示著向成功不斷邁進之中。
 
 2013年3月14日，白色情人節當日，官方宣佈ZE:A-FIVE在3月25日正式在韓國出道及在韓出首張迷你專輯《Voulez-vous》。
 
 ## 成員列表
 
-| 成員列表 |- style="color:\#aaaaa ;" |                  | 本名  |      出生日期      |
-| -------------------------------------------------- | :-: | :------------: |
-| 漢字                                                 | 諺文  |      羅馬拼音      |
-| [金智燁](https://zh.wikipedia.org/wiki/智燁 "wikilink") | 김지엽 |  Kim Ji-yeob   |
-| [任時完](../Page/時完.md "wikilink")                    | 임시완 |   Yim Si-wan   |
-| [河旼佑](../Page/旼佑.md "wikilink")                    | 하민우 |   Ha Min-woo   |
-| [朴炯植](../Page/朴炯植.md "wikilink")                   | 박형식 | Park Hyung-sik |
-| [金桐俊](../Page/金桐俊.md "wikilink")                   | 김동준 |  Kim Dong-jun  |
-|                                                    |     |                |
+| 成員列表 |- style="color:\#aaaaa ;" |                   | 本名  |      出生日期      |
+| --------------------------------------------------- | :-: | :------------: |
+| 漢字                                                  | 諺文  |      羅馬拼音      |
+| [金智燁](https://zh.wikipedia.org/wiki/智燁 "wikilink")  | 김지엽 |  Kim Ji-yeob   |
+| [任時完](../Page/時完.md "wikilink")                     | 임시완 |   Yim Si-wan   |
+| [河旼佑](../Page/旼佑.md "wikilink")                     | 하민우 |   Ha Min-woo   |
+| [朴炯植](https://zh.wikipedia.org/wiki/朴炯植 "wikilink") | 박형식 | Park Hyung-sik |
+| [金桐俊](https://zh.wikipedia.org/wiki/金桐俊 "wikilink") | 김동준 |  Kim Dong-jun  |
+|                                                     |     |                |
 
 ## 影視作品
 
@@ -69,8 +72,8 @@
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>2012年</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/channel_A" title="wikilink">channel A</a></p></td>
-<td style="text-align: center;"><p><a href="../Page/K-POP最強生死戰.md" title="wikilink">K-POP最強生死戰</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/channel_A.md" title="wikilink">channel A</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/K-POP最強生死戰" title="wikilink">K-POP最強生死戰</a></p></td>
 <td style="text-align: center;"><p>Kevin</p></td>
 <td style="text-align: center;"><p>昌閔</p></td>
 <td style="text-align: center;"></td>
@@ -142,7 +145,7 @@
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>2013年</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">TvN</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/tvN.md" title="wikilink">TvN</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/Nine：九回時間旅行.md" title="wikilink">Nine：九回時間旅行</a></p></td>
 <td style="text-align: center;"><p>炯植</p></td>
 <td style="text-align: center;"><p>朴善宇(幼年)</p></td>
@@ -152,7 +155,7 @@
 <tr class="even">
 <td style="text-align: center;"><p>2013年</p></td>
 <td style="text-align: center;"><p><a href="../Page/韓國放送公社.md" title="wikilink">KBS</a></p></td>
-<td style="text-align: center;"><p><a href="../Page/繼承者們.md" title="wikilink">欲戴王冠，必承其重－繼承者們</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/繼承者們" title="wikilink">欲戴王冠，必承其重－繼承者們</a></p></td>
 <td style="text-align: center;"><p>炯植</p></td>
 <td style="text-align: center;"><p>趙明秀</p></td>
 <td style="text-align: center;"></td>
@@ -272,12 +275,15 @@
 
   - ZE:A-FIVE參加的其他演唱會
 
-|            |                                          |          |
-| ---------- | ---------------------------------------- | -------- |
-| **日期**     | **演唱會名稱**                                | **舉行地點** |
-| 2013年5月11日 | 2013[夢想演唱會](../Page/夢想演唱會.md "wikilink") | 首爾世界盃競技場 |
-| 2013年5月26日 | 2013 Happy 4 Kpop Concert in Taiwan      | 南港展覽館    |
+|            |                                                             |          |
+| ---------- | ----------------------------------------------------------- | -------- |
+| **日期**     | **演唱會名稱**                                                   | **舉行地點** |
+| 2013年5月11日 | 2013[夢想演唱會](https://zh.wikipedia.org/wiki/夢想演唱會 "wikilink") | 首爾世界盃競技場 |
+| 2013年5月26日 | 2013 Happy 4 Kpop Concert in Taiwan                         | 南港展覽館    |
 
 ## 外部連結
 
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2013年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年成立的音樂團體 "wikilink")
+[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
+[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
+[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
+[Category:2013年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年成立的音樂團體 "wikilink")

@@ -1,0 +1,35 @@
+__NOTOC__
+
+<div style="width: 100%; background: #CCDDEE;">
+
+<span style="position:absolute; float:none; z-index:0"><imagemap>
+Image:UN flag watermark.svg| rect 0 0 0 0 [United
+Nations](../Page/United_Nations.md "wikilink") desc none
+</imagemap></span>
+
+<div style="padding: 30px; position:relative; z-index:1">
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>{{/box-header|欢迎光临联合国主题！|Portal:联合国/简介|}}  {{/box-footer|}}</p>
+<div style="float:left; width:54%; margin-top: 1em; margin-bottom: 1em;">
+<p>{{/box-header|特色条目|Portal:联合国/特色条目|}}  {{/box-footer|}}</p>
+<p>{{/box-header|特色图片|Portal:联合国/特色图片|}}  {{/box-footer|}}</p>
+</div>
+<div style="float:right; width:45%; margin-top: 1em; margin-bottom: 1em;">
+<p>{{/box-header|人物|Portal:联合国/人物|}}  {{/box-footer|}}</p>
+<p>{{/box-header|分类|Portal:联合国/分类|}}  {{/box-footer|}}</p>
+</div>
+<p>{{/box-header|主要话题|Portal:联合国/主要话题|}}  {{/box-footer|}}</p></td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+</div>
+
+</div>
+
+[Category:主题首页](https://zh.wikipedia.org/wiki/Category:主题首页 "wikilink")

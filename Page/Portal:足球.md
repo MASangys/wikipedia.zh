@@ -1,0 +1,62 @@
+__NOTOC__
+
+<div style="float:right; width:100%">
+
+{{/box-header|足球|Portal:足球/簡介|}} {{/簡介}} {{/box-footer|}}
+
+</div>
+
+<div style="float:left; width:50%;">
+
+{{/box-header|特色條目|Portal:足球/特色條目|}} {{/特色條目}} {{/box-footer|}}
+
+{{/box-header|優良條目|Portal:足球/優良條目|}} {{/優良條目}} {{/box-footer|}}
+
+{{/box-header|特色图片|Portal:足球/特色图片|}} {{/特色图片}} {{/box-footer|}}
+
+{{/box-header|你知道嗎|Portal:足球/你知道嗎|}} {{/你知道嗎}} {{/box-footer|}}
+
+{{/box-header|新进条目|Portal:足球/新进条目|}}
+
+<div style="font-size:80%; padding:10px; overflow:scroll; width:full; height:130px;">
+
+{{/新进条目}}
+
+</div>
+
+{{/box-footer|}}
+
+</div>
+
+<div style="float:right; width:49%">
+
+{{/box-header|新聞動態|Portal:足球/Events|}} {{/Events}} {{/box-footer|}}
+
+{{/box-header|賽事|Portal:足球/賽事|}} {{/賽事}} {{/box-footer|}}
+
+{{/box-header|分類|Portal:足球/分類|}} {{/分類}} {{/box-footer|}}
+
+{{/box-header|歡迎參與|Portal:足球/歡迎參與|}} {{/歡迎參與}} {{/box-footer|}}
+
+{{/box-header|協助本區發展|Portal:足球/活跃任务|}}
+
+<div style="font-size:80%; padding:10px; overflow:scroll; width:full; height:300px;">
+
+{{/維基工程}}
+
+</div>
+
+{{/box-footer|}}
+
+</div>
+
+<div style="float:right; width:100%">
+
+{{/box-header|维基主题|Template:Portals|}}  {{/box-footer|}}
+
+</div>
+
+[eo:Projekto:Futbalo](../Page/eo:Projekto:Futbalo.md "wikilink")
+
+[Category:主题首页](https://zh.wikipedia.org/wiki/Category:主题首页 "wikilink")
+[Category:足球](https://zh.wikipedia.org/wiki/Category:足球 "wikilink")

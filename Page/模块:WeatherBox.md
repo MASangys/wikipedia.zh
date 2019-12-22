@@ -1,4 +1,5 @@
-w = {}; math_mod = require( "Module:Math" ); wbc = require( "Module:WeatherBoxColors" );
+w = {}; math_mod = require( "Module:Math" ); wbc = require(
+"Module:WeatherBoxColors" );
 
 function checkFlag( flag )
 
@@ -173,7 +174,8 @@ function w.buildRow( frame )
 
 end
 
-function makeLine( label, first_value_string, second_value_string, color_values, color_scheme )
+function makeLine( label, first_value_string, second_value_string,
+color_values, color_scheme )
 
 `   local result, color_str, value_str;`
 `   `
@@ -322,7 +324,8 @@ function getAnnualValue( values, mode )
 
 end
 
-function reconcileTemperature( C_degree_strings, C_degree_values, F_degree_strings, F_degree_values )
+function reconcileTemperature( C_degree_strings, C_degree_values,
+F_degree_strings, F_degree_values )
 
 `   local p;`
 `   for i = 1,13 do`

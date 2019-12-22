@@ -1,6 +1,8 @@
 require('Module:No globals')
 
-local p = {} local data = require('Module:VG Reviews/data') local yesno = require('Module:Yesno') local vgwd = require('Module:Video game wikidata') local getArgs
+local p = {} local data = require('Module:VG Reviews/data') local yesno
+= require('Module:Yesno') local vgwd = require('Module:Video game
+wikidata') local getArgs
 
 local function getActiveSystems(args)
 
@@ -94,7 +96,8 @@ local function renderTitleRow(tbl, title)
 
 end
 
-local function renderMainHeading(builder, colspan, headingText, borderTop)
+local function renderMainHeading(builder, colspan, headingText,
+borderTop)
 
 `   builder:tag('tr'):tag('th')`
 `       :attr('colspan', colspan)`
@@ -105,7 +108,8 @@ local function renderMainHeading(builder, colspan, headingText, borderTop)
 
 end
 
-local function renderHeadingRowWithSystems(builder, mainHeading, activeSystems)
+local function renderHeadingRowWithSystems(builder, mainHeading,
+activeSystems)
 
 `   renderMainHeading(builder, #activeSystems + 1, mainHeading)`
 `   builder:tag('tr')`
@@ -146,7 +150,8 @@ local function renderHeadingRow(builder, mainHeading, nameHeading)
 
 end
 
-local function renderRatingsBySystem(builder, code, name, activeSystems, args, na)
+local function renderRatingsBySystem(builder, code, name, activeSystems,
+args, na)
 
 `   builder = builder:tag('tr')`
 `   builder:tag('td')`
@@ -189,7 +194,9 @@ local function renderRating(builder, name, rating)
 
 end
 
-local function renderReviews(builder, providedReviewers, providedAggregators, activeSystems, customAggregatorKeys, customReviewerKeys, args)
+local function renderReviews(builder, providedReviewers,
+providedAggregators, activeSystems, customAggregatorKeys,
+customReviewerKeys, args)
 
 `   builder = builder:tag('table')`
 `       :addClass('infobox wikitable')`
@@ -296,7 +303,9 @@ local function renderAwards(builder, args, awardKeys, borderTop)
 
 end
 
-local function renderMainTable(providedReviewers, providedAggregators, awardKeys, activeSystems, customAggregatorKeys, customReviewerKeys, args, wikidata)
+local function renderMainTable(providedReviewers, providedAggregators,
+awardKeys, activeSystems, customAggregatorKeys, customReviewerKeys,
+args, wikidata)
 
 `   local tbl = mw.html.create('table')`
 `       :attr('cellpadding', 0)`
@@ -354,7 +363,8 @@ local function renderMainTable(providedReviewers, providedAggregators, awardKeys
 
 end
 
-local function checkForWikidata(frame, args, activeSystems, providedAggregators)
+local function checkForWikidata(frame, args, activeSystems,
+providedAggregators)
 
 `   local wikidata = false`
 `   `

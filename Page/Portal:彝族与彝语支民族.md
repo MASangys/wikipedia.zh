@@ -1,0 +1,89 @@
+__NOTOC__
+
+</div>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/File:Yi_manuscript_452.jpg‎" title="fig:Yi_manuscript_452.jpg‎">Yi_manuscript_452.jpg‎</a></p></td>
+<td style="text-align: center;"><div style="text-align: center;">
+<p>欢迎光临中文“彝族与彝语支民族”主题首页！</p>
+<div align="center"></td>
+<td style="text-align: right;"><p><a href="https://zh.wikipedia.org/wiki/File:Torch_Festival_in_Eshan_01.jpg" title="fig:Torch_Festival_in_Eshan_01.jpg">Torch_Festival_in_Eshan_01.jpg</a></p></td>
+</tr>
+</tbody>
+</table>
+
+<div style="float:left; width:100%;">
+
+<div style="text-align: center;">
+
+**彝语支民族：**</br>[彝族](../Page/彝族.md "wikilink"){{.w}}[哈尼族](../Page/哈尼族.md "wikilink"){{.w}}[傈僳族](../Page/傈僳族.md "wikilink"){{.w}}[拉祜族](../Page/拉祜族.md "wikilink"){{.w}}[纳西族](../Page/纳西族.md "wikilink"){{.w}}[基诺族](https://zh.wikipedia.org/wiki/基诺族 "wikilink"){{.w}}[怒族](../Page/怒族.md "wikilink")</br>**相关族群：**</br>[白族](../Page/白族.md "wikilink"){{.w}}[缅族](https://zh.wikipedia.org/wiki/缅族 "wikilink"){{.w}}[阿昌族](../Page/阿昌族.md "wikilink"){{.w}}[景颇族](../Page/景颇族.md "wikilink"){{.w}}[骠人](https://zh.wikipedia.org/wiki/骠人 "wikilink"){{.w}}[喀卓人](https://zh.wikipedia.org/wiki/喀卓人 "wikilink")
+
+</div>
+
+</div>
+
+<div style="float:left; width:100%;">
+
+<div style="text-align: center;">
+
+**[彝語支语言](https://zh.wikipedia.org/wiki/彝語支 "wikilink")**:</br>[彝语](../Page/彝语.md "wikilink")（[北](../Page/彝语北部方言.md "wikilink"){{.w}}[东](../Page/彝语东部方言.md "wikilink"){{.w}}[南](../Page/彝语南部方言.md "wikilink"){{.w}}[西](../Page/彝语西部方言.md "wikilink"){{.w}}[中](https://zh.wikipedia.org/wiki/彝语中部方言 "wikilink"){{.w}}[东南](../Page/彝语东南部方言.md "wikilink")）{{.w}}[哈尼语](../Page/哈尼语.md "wikilink"){{.w}}[傈僳语](../Page/傈僳语.md "wikilink"){{.w}}[拉祜语](https://zh.wikipedia.org/wiki/拉祜语 "wikilink"){{.w}}[纳西语](https://zh.wikipedia.org/wiki/纳西语 "wikilink"){{.w}}[基诺语](https://zh.wikipedia.org/wiki/基诺语 "wikilink"){{.w}}[怒苏语](https://zh.wikipedia.org/wiki/怒苏语 "wikilink"){{.w}}[柔若语](../Page/柔若语.md "wikilink"){{.w}}[桑孔语](../Page/桑孔语.md "wikilink"){{.w}}[堂郎语](https://zh.wikipedia.org/wiki/堂郎语 "wikilink"){{.w}}[末昂语](../Page/末昂语.md "wikilink"){{.w}}[毕苏语](../Page/毕苏语.md "wikilink")
+
+</div>
+
+</div>
+
+<div style="float:left; width:100%;">
+
+{{/box-header|彝语支民族简介|Portal:彝族与彝语支民族/简介|}}  {{/box-footer|}}
+
+</div>
+
+<div style="float:left; width:49%;">
+
+{{/box-header|彝族|Portal:彝族与彝语支民族/彝族简介|}}  {{/box-footer|}}
+
+{{/box-header|傈僳族|Portal:彝族与彝语支民族/傈僳族简介|}}  {{/box-footer|}}
+
+{{/box-header|纳西族|Portal:彝族与彝语支民族/纳西族简介|}}  {{/box-footer|}}
+
+{{/box-header|怒族|Portal:彝族与彝语支民族/怒族简介|}}  {{/box-footer|}}
+
+</div>
+
+<div style="float:right; width:49%;">
+
+{{/box-header|哈尼族|Portal:彝族与彝语支民族/哈尼族简介|}}  {{/box-footer|}}
+
+{{/box-header|拉祜族|Portal:彝族与彝语支民族/拉祜族简介|}}  {{/box-footer|}}
+
+{{/box-header|基诺族|Portal:彝族与彝语支民族/基诺族简介|}}  {{/box-footer|}}
+
+{{/box-header|其他彝语支人群|Portal:彝族与彝语支民族/其他彝语支人群|}}  {{/box-footer|}}
+
+</div>
+
+<div style="float:left; width:30%;">
+
+{{/box-header|彝语支民族自治地方|Portal:彝族与彝语支民族/彝语支民族自治地方|}}  {{/box-footer|}}
+
+\[ 刷新\]
+
+</div>
+
+<div style="float:right; width:69%">
+
+{{/box-header|你知道吗|Portal:彝族与彝语支民族/你知道吗|}}  {{/box-footer|}}
+
+{{/box-header|彝族与彝语支民族新闻|Portal:彝族与彝语支民族/彝族与彝语支民族新闻|}}  {{/box-footer|}}
+
+{{/box-header|特色图片|Portal:彝族与彝语支民族/特色图片|}}  {{/box-footer|}}
+
+</div>
+
+<div style="float:right; width:100%">
+
+{{/box-header|维基主题|template:portals|}}  {{/box-footer|}}
+
+[Category:主题首页](https://zh.wikipedia.org/wiki/Category:主题首页 "wikilink")

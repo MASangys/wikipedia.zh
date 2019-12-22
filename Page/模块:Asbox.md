@@ -1,4 +1,17 @@
-\--[This module was created by User:CodeHydro (Alexander Zhikun He). User:Jackmcbarn and User:Mr._Stradivarius provided a great deal of assistance in writting p.main() p.main() draw heavily from the following version of Template:Asbox of the English Wikipedia, authored primarily by User:Rich_Farmbrough https://en.wikipedia.org/w/index.php?title=Template:Asbox\&oldid=619510287 p.templatepage() is derived from the following revision of Template:Asbox/templatepage, authored primarily by User:MSGJ https://en.wikipedia.org/w/index.php?title=Template:Asbox/templatepage\&oldid=632914791 Both templates had significant contributions from numerous others listed in the revision history tab of their respective pages. --](https://zh.wikipedia.org/wiki/This_module_was_created_by_User:CodeHydro_\(Alexander_Zhikun_He\)._User:Jackmcbarn_and_User:Mr._Stradivarius_provided_a_great_deal_of_assistance_in_writting_p.main\(\)_p.main\(\)_draw_heavily_from_the_following_version_of_Template:Asbox_of_the_English_Wikipedia,_authored_primarily_by_User:Rich_Farmbrough_https://en.wikipedia.org/w/index.php?title=Template:Asbox&oldid=619510287_p.templatepage\(\)_is_derived_from_the_following_revision_of_Template:Asbox/templatepage,_authored_primarily_by_User:MSGJ_https://en.wikipedia.org/w/index.php?title=Template:Asbox/templatepage&oldid=632914791_Both_templates_had_significant_contributions_from_numerous_others_listed_in_the_revision_history_tab_of_their_respective_pages._-- "wikilink") local WRAPPER_TEMPLATE, args = 'Template:Asbox' local p, Buffer, stubCats = {
+\--[This module was created by User:CodeHydro (Alexander Zhikun He).
+User:Jackmcbarn and User:Mr._Stradivarius provided a great deal of
+assistance in writting p.main() p.main() draw heavily from the following
+version of Template:Asbox of the English Wikipedia, authored primarily
+by User:Rich_Farmbrough
+https://en.wikipedia.org/w/index.php?title=Template:Asbox\&oldid=619510287
+p.templatepage() is derived from the following revision of
+Template:Asbox/templatepage, authored primarily by User:MSGJ
+https://en.wikipedia.org/w/index.php?title=Template:Asbox/templatepage\&oldid=632914791
+Both templates had significant contributions from numerous others listed
+in the revision history tab of their respective pages.
+--](../Page/This_module_was_created_by_User:CodeHydro_\(Alexander_Zhikun_He\)._User:Jackmcbarn_and_User:Mr._Stradivarius_provided_a_great_deal_of_assistance_in_writting_p.main\(\)_p.main\(\)_draw_heavily_from_the_following_version_of_Template:Asbox_of_the_English_Wikipedia,_authored_primarily_by_User:Rich_Farmbrough_https://en.wikipedia.org/w/index.php?title=Template:Asbox&oldid=619510287_p.templatepage\(\)_is_derived_from_the_following_revision_of_Template:Asbox/templatepage,_authored_primarily_by_User:MSGJ_https://en.wikipedia.org/w/index.php?title=Template:Asbox/templatepage&oldid=632914791_Both_templates_had_significant_contributions_from_numerous_others_listed_in_the_revision_history_tab_of_their_respective_pages._--.md "wikilink")
+local WRAPPER_TEMPLATE, args = 'Template:Asbox' local p, Buffer,
+stubCats = {
 
 `   --Prevents dupli-cats... get it? Maybe not?`
 `   cats = setmetatable({}, {__newindex = function(t, i, v)`
@@ -19,7 +32,12 @@
 
 }, require('Module:Buffer')
 
-\--[Formats category links. Stores them until called with cat.done=true Takes multiple or single categories in the form of 'cat' or a table of strings and/or tables containing parts. (See below)](https://zh.wikipedia.org/wiki/Formats_category_links._Stores_them_until_called_with_cat.done=true_Takes_multiple_or_single_categories_in_the_form_of_'cat'_or_a_table_of_strings_and/or_tables_containing_parts._\(See_below\) "wikilink") local attention, catTag, catKey = Buffer'需要關注的小作品訊息模板', '', '%s|%s%s' local function category(cat)
+\--[Formats category links. Stores them until called with cat.done=true
+Takes multiple or single categories in the form of 'cat' or a table of
+strings and/or tables containing parts. (See
+below)](../Page/Formats_category_links._Stores_them_until_called_with_cat.done=true_Takes_multiple_or_single_categories_in_the_form_of_'cat'_or_a_table_of_strings_and/or_tables_containing_parts._\(See_below\).md "wikilink")
+local attention, catTag, catKey = Buffer'需要關注的小作品訊息模板', '', '%s|%s%s'
+local function category(cat)
 
 `   for _, v in ipairs((tostring(cat) == cat or cat.t) and {cat} or cat) do`
 `       --[[`
@@ -40,7 +58,11 @@
 
 end
 
-\--[Makes an ombox warning; Takes table {ifNot = Boolean, text, {cat. sort key, cat. sort name}} Will return an empty string instead when ifNot evaluates to true](https://zh.wikipedia.org/wiki/Makes_an_ombox_warning;_Takes_table_{ifNot_=_Boolean,_text,_{cat._sort_key,_cat._sort_name}}_Will_return_an_empty_string_instead_when_ifNot_evaluates_to_true "wikilink") local function ombox(v)
+\--[Makes an ombox warning; Takes table {ifNot = Boolean, text, {cat.
+sort key, cat. sort name}} Will return an empty string instead when
+ifNot evaluates to
+true](../Page/Makes_an_ombox_warning;_Takes_table_{ifNot_=_Boolean,_text,_{cat._sort_key,_cat._sort_name}}_Will_return_an_empty_string_instead_when_ifNot_evaluates_to_true.md "wikilink")
+local function ombox(v)
 
 `   if v.ifNot then return end`
 `   p.ombox = p.ombox or require('Module:Message box').ombox`
@@ -52,7 +74,9 @@ end
 
 end
 
-\--[category= is omitted (See p.template()) ](https://zh.wikipedia.org/wiki/Unlike_original_template,_module_now_takes_unlimited_cats!_This_function_also_performs_most_stub_category_error_checks_except_for_the_ombox_for_when_main "wikilink") local function catStub(page, pageDoc)
+\--[category= is omitted (See p.template())
+](../Page/Unlike_original_template,_module_now_takes_unlimited_cats!_This_function_also_performs_most_stub_category_error_checks_except_for_the_ombox_for_when_main.md "wikilink")
+local function catStub(page, pageDoc)
 
 `   stubCats = {missing = {}, v = {}}`
 `   local code`
@@ -103,7 +127,8 @@ end
 
 end
 
-\--Shows population of categories found by catStub(). Outputs demo values if none local function population()
+\--Shows population of categories found by catStub(). Outputs demo
+values if none local function population()
 
 `   local wikitext, base = {}, '* `[`:Category:%s`](https://zh.wikipedia.org/wiki/Category:%s "wikilink")`（页面数：%s）\n'`
 `   if not args.category and stubCats[1] ~= false then`
@@ -119,7 +144,8 @@ end
 
 end
 
-\--Includes standard stub documention and flags stub templates with bad parameter values. function p.templatepage(frame, page)
+\--Includes standard stub documention and flags stub templates with bad
+parameter values. function p.templatepage(frame, page)
 
 `   args, page = p:init(frame, page)`
 `   local tStubDoc = mw.title.new'Template:Stub documentation'`
@@ -157,7 +183,7 @@ end
 `                       require('Module:Asbox stubtree').subtree{args = {pagename = page.text}}`
 `                   )`
 `                   :_in'\n== 關於本模板 ==\n本模板適用':_(args.qualifier):_'的':_(args.subject):_'小作品中':_out''--space`
-`                   :_'。其使用了{{`[`asbox`](https://zh.wikipedia.org/wiki/Template:Asbox "wikilink")`}}元模板建立。\n=== 使用方式 ===\n在條目中輸入'`
+`                   :_'。其使用了{{`[`asbox`](../Page/Template:Asbox.md "wikilink")`}}元模板建立。\n=== 使用方式 ===\n在條目中輸入'`
 `                   :_(mw.html.create'code'`
 `                       :wikitext('{{', page.text == 'Stub' and 'stub' or page.text, '}}')`
 `                   )`
@@ -170,8 +196,9 @@ end
 `                   :_'\n== 通用說明 ==\n'`
 `                   :_(frame:expandTemplate{title = tStubDoc.text})`
 `                   :_'\n\n'(),`
-`               ['link box'] = Buffer'本-{zh-cn:文档; zh-tw:文件;}-由`[`Module:Asbox自动生成`](https://zh.wikipedia.org/wiki/Module:Asbox "wikilink")`。'`
-`                   :_in'通用信息嵌入自`[`Template:Stub``   ``documentation`](https://zh.wikipedia.org/wiki/Template:Stub_documentation "wikilink")`。'`
+`               ['link box'] = Buffer'本文档由`[`Module:Asbox自动生成`](../Page/Module:Asbox.md "wikilink")`。'`
+`                   :_in'通用信息嵌入自`[`Template:Stub``
+ ``documentation`](../Page/Template:Stub_documentation.md "wikilink")`。'`
 `                       :_(mw.html.create'span'`
 `                           :cssText'font-size:smaller;font-style:normal;line-height:130%'`
 `                           :node(('([%s 编辑] | [%s 历史])'):format(`
@@ -181,7 +208,8 @@ end
 `                       )`
 `                       :_out()`
 `                   :_(page.protectionLevels.edit and page.protectionLevels.edit[1] == 'sysop' and`
-`                       "This template is `[`fully``   ``protected`](https://zh.wikipedia.org/wiki/WP:PROTECT "wikilink")` and any `[`categories`](https://zh.wikipedia.org/wiki/WP:CAT "wikilink")` should be added to the template's ["`
+`                       "This template is `[`fully``
+ ``protected`](../Page/WP:PROTECT.md "wikilink")` and any `[`categories`](../Page/WP:CAT.md "wikilink")` should be added to the template's ["`
 `                       .. pageDoc:fullUrl('action=edit&preload=Template:Category_interwiki/preload', 'relative')`
 `                       .. '| /doc] subpage, which is not protected.'`
 `                   )' `

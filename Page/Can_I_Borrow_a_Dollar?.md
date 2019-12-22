@@ -1,4 +1,6 @@
-《Can I Borrow A Dollar?》是美國芝加哥南部Hip-Hop藝人[Common的首張專輯](https://zh.wikipedia.org/wiki/Common "wikilink")，於1992年10月6日由[Relativity Records發行](https://zh.wikipedia.org/wiki/Relativity_Records "wikilink")。
+《Can I Borrow A
+Dollar?》是美國芝加哥南部Hip-Hop藝人[Common的首張專輯](../Page/Common.md "wikilink")，於1992年10月6日由[Relativity
+Records發行](../Page/Relativity_Records.md "wikilink")。
 
 ## 曲目
 

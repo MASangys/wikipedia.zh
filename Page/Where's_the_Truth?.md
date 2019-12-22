@@ -1,4 +1,6 @@
-《**Where's the Truth?**》是[韓國的男子樂隊](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FTIsland](../Page/FTIsland.md "wikilink")的第六張正規專輯，於2016年7月18日發行，並以《**Take Me Now**》為此專輯的主打曲目\[1\]。
+《**Where's the
+Truth?**》是[韓國的男子樂隊](../Page/韓國.md "wikilink")[FTIsland的第六張正規專輯](../Page/FTIsland.md "wikilink")，於2016年7月18日發行，並以《**Take
+Me Now**》為此專輯的主打曲目\[1\]。
 
 ## 曲目
 
@@ -77,7 +79,10 @@
 
 ## 参考文献
 
-[Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink") [Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink") [Category:FTIsland音樂專輯](https://zh.wikipedia.org/wiki/Category:FTIsland音樂專輯 "wikilink") [Category:2016年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon專輯週榜冠軍作品 "wikilink")
+[Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink")
+[Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink")
+[Category:FTIsland音樂專輯](https://zh.wikipedia.org/wiki/Category:FTIsland音樂專輯 "wikilink")
+[Category:2016年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon專輯週榜冠軍作品 "wikilink")
 
 1.
 2.

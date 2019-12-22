@@ -9,9 +9,15 @@ function p.testcase(frame)
 `   local template1 = args['_template1'] or args['_template'] or (basepagename)`
 `   local template2 = args['_template2'] or (template1 .. '/sandbox')`
 `   local template3 = args['_template3']`
-`   local heading1 = args['_heading1'] or '{{`[`'``   ``..``   ``template1``   ``..'`](https://zh.wikipedia.org/wiki/Template:'_.._template1_.._' "wikilink")`}}'`
-`   local heading2 = args['_heading2'] or '{{`[`'``   ``..``   ``template2``   ``..'`](https://zh.wikipedia.org/wiki/Template:'_.._template2_.._' "wikilink")`}}'`
-`   local heading3 = args['_heading3'] or (template3 and '{{`[`'``   ``..``   ``template3``   ``..'`](https://zh.wikipedia.org/wiki/Template:'_.._template3_.._' "wikilink")`}}')`
+`   local heading1 = args['_heading1'] or '{{`[`'``   ``..``
+ ``template1``
+ ``..'`](https://zh.wikipedia.org/wiki/Template:'_.._template1_.._' "wikilink")`}}'`
+`   local heading2 = args['_heading2'] or '{{`[`'``   ``..``
+ ``template2``
+ ``..'`](https://zh.wikipedia.org/wiki/Template:'_.._template2_.._' "wikilink")`}}'`
+`   local heading3 = args['_heading3'] or (template3 and '{{`[`'``
+ ``..``   ``template3``
+ ``..'`](https://zh.wikipedia.org/wiki/Template:'_.._template3_.._' "wikilink")`}}')`
 `   local heading0 = ''`
 `   local rowheader = ''`
 `   local after = args['_after'] or ''`

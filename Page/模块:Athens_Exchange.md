@@ -59,12 +59,13 @@ function p.main(frame)
 `       error('A stock symbol must be provided')`
 `   elseif not data[args[1]] then`
 `       error(string.format(`
-`           'No entry for stock symbol %s is present in `[`Module:Athens``   ``Exchange`](https://zh.wikipedia.org/wiki/Module:Athens_Exchange "wikilink")`',`
+`           'No entry for stock symbol %s is present in `[`Module:Athens``
+ ``Exchange`](../Page/Module:Athens_Exchange.md "wikilink")`',`
 `           args[1]`
 `       ))`
 `   else`
 `       return string.format(`
-`           '`[`Athex`](https://zh.wikipedia.org/wiki/Athens_Stock_Exchange "wikilink")`: `[`%s`](http://www.helex.gr/web/guest/stock-snapshot/-/select-stock/%s)`',`
+`           '`[`Athex`](../Page/Athens_Stock_Exchange.md "wikilink")`: `[`%s`](http://www.helex.gr/web/guest/stock-snapshot/-/select-stock/%s)`',`
 `           data[args[1]],`
 `           args[1]`
 `       )`

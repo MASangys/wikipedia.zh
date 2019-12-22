@@ -1,6 +1,9 @@
 \-- This module implements .
 
-local mArguments -- Lazily initialise [Module:Arguments](https://zh.wikipedia.org/wiki/Module:Arguments "wikilink") local mTableTools = require('Module:TableTools') local yesno = require('Module:Yesno')
+local mArguments -- Lazily initialise
+[Module:Arguments](https://zh.wikipedia.org/wiki/Module:Arguments "wikilink")
+local mTableTools = require('Module:TableTools') local yesno =
+require('Module:Yesno')
 
 local p = {}
 
@@ -21,12 +24,12 @@ function p._main(args)
 `       return ''`
 `   elseif yesno(args.span) == false then`
 `       return string.format(`
-`           '（%s）',`
+`           '(%s)',`
 `           toolbarItems`
 `       )`
 `   else`
 `       return string.format(`
-`           '<span class="plainlinks%s"%s>（%s）`</span>`',`
+`           '<span class="plainlinks%s"%s>(%s)`</span>`',`
 `           type(args.class) == 'string' and ' ' .. args.class or '',`
 `           type(args.style) == 'string' and string.format(' style="%s"', args.style) or '',`
 `           toolbarItems`

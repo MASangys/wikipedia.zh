@@ -1,6 +1,9 @@
-\-- Module for different search and replace operations on strings. local p = {}
+\-- Module for different search and replace operations on strings. local
+p = {}
 
-\-- Takes one string parameter, and returns the string with all characters with special meaning for Lua patterns escaped with a preceding \`%\`. function p.escape_pattern(text)
+\-- Takes one string parameter, and returns the string with all
+characters with special meaning for Lua patterns escaped with a
+preceding \`%\`. function p.escape_pattern(text)
 
 ``   -- Replaces each occurrence of any of ().%+-*?[^$ with a `%` and then the character.``
 `   local r = string.gsub(text, "[%(%)%.%%%+%-%*%?%[%^%$]", "%%%1")`
@@ -8,7 +11,10 @@
 
 end
 
-\-- Returns the first parameter, with all occurrences of the second parameter replaced with the third parameter. -- All special characters are ignored: {{\#invoke:StringReplace|replace_all|test.a%1$foo|%1|bar}} results in \`test.abarfoo\`. function p.replace_all(frame)
+\-- Returns the first parameter, with all occurrences of the second
+parameter replaced with the third parameter. -- All special characters
+are ignored: {{\#invoke:StringReplace|replace_all|test.a%1$foo|%1|bar}}
+results in \`test.abarfoo\`. function p.replace_all(frame)
 
 `   local str = frame.args[1]`
 `   local strToFind = frame.args[2]`

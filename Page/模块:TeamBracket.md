@@ -1,6 +1,7 @@
 \-- -- 本模块将用于实现 --
 
-local p = {} local args local rounds local padding local hideSeeds local showSeeds
+local p = {} local args local rounds local padding local hideSeeds local
+showSeeds
 
 local function getArgs(frame)
 
@@ -127,7 +128,8 @@ function getRoundName(round)
 `   elseif roundFromLast == 3 then`
 `       return "`**`半準決賽`**`"`
 `   else`
-`       return "`**`第"``   ``..``   ``math.pow(2,``   ``roundFromLast)``   ``..``   ``"輪賽`**`"`
+`       return "`**`第"``   ``..``   ``math.pow(2,``
+ ``roundFromLast)``   ``..``   ``"輪賽`**`"`
 `   end`
 
 end

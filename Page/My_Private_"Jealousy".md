@@ -1,4 +1,4 @@
-[GLAY](../Page/GLAY.md "wikilink")的第44張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，2011年11月16日發行。
+[GLAY的第](../Page/GLAY.md "wikilink")44張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，2011年11月16日發行。
 
 ## 簡介
 
@@ -13,16 +13,21 @@
 2.  **Snow Flake** \[4:29\]
 3.  **殘酷天使的行動綱領 (We ♥ Happy Swing Live ver.)** \[4:22\]
       -
-        [高橋洋子](../Page/高橋洋子.md "wikilink")的「[殘酷天使的行動綱領](https://zh.wikipedia.org/wiki/殘酷天使的行動綱領 "wikilink")」的翻唱歌曲。
+        [高橋洋子的](../Page/高橋洋子.md "wikilink")「[殘酷天使的行動綱領](https://zh.wikipedia.org/wiki/殘酷天使的行動綱領 "wikilink")」的翻唱歌曲。
 
 ### DVD （CD+DVD盤）
 
 1.  **My Private "Jealousy" (Music Video)**
-2.  **OPENING〜[HAPPY SWING](https://zh.wikipedia.org/wiki/SPEED_POP "wikilink") (We ♥ Happy Swing LIVE in MAKUHARI 7/31)**
-3.  '''[VERB](../Page/VERB.md "wikilink") (We ♥ Love Happy Swing LIVE in MAKUHARI 7/30) '''
+2.  **OPENING〜[HAPPY
+    SWING](https://zh.wikipedia.org/wiki/SPEED_POP "wikilink") (We ♥
+    Happy Swing LIVE in MAKUHARI 7/31)**
+3.  '''[VERB](../Page/VERB.md "wikilink") (We ♥ Love Happy Swing LIVE in
+    MAKUHARI 7/30) '''
 
 ## 收錄專輯
 
-  - [GUILTY](../Page/GUILTY_\(GLAY\).md "wikilink")（專輯版本）
+  - [GUILTY](https://zh.wikipedia.org/wiki/GUILTY_\(GLAY\) "wikilink")（專輯版本）
 
-[Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink") [Category:GLAY歌曲](https://zh.wikipedia.org/wiki/Category:GLAY歌曲 "wikilink") [Category:FOR_LIFE_MUSIC_ENTERTAINMENT歌曲](https://zh.wikipedia.org/wiki/Category:FOR_LIFE_MUSIC_ENTERTAINMENT歌曲 "wikilink")
+[Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink")
+[Category:GLAY歌曲](https://zh.wikipedia.org/wiki/Category:GLAY歌曲 "wikilink")
+[Category:FOR_LIFE_MUSIC_ENTERTAINMENT歌曲](https://zh.wikipedia.org/wiki/Category:FOR_LIFE_MUSIC_ENTERTAINMENT歌曲 "wikilink")

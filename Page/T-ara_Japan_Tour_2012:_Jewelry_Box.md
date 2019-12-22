@@ -1,4 +1,6 @@
-**T-ara Japan Tour 2012: Jewelry Box**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[T-ara的首次](https://zh.wikipedia.org/wiki/T-ara "wikilink")[日本](../Page/日本.md "wikilink")全國巡迴演唱會。以支持她們第一張日本錄音室專輯《Jewelry Box》(2012)。巡迴演唱會於2012年6月19日開始，地點為[名古屋](https://zh.wikipedia.org/wiki/名古屋 "wikilink")[愛知縣文化藝術中心](https://zh.wikipedia.org/wiki/:ja:愛知芸術文化センター "wikilink")；於7月26日結束，地點為[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[日本武道館](../Page/日本武道館.md "wikilink")\[1\]。
+**T-ara Japan Tour 2012: Jewelry
+Box**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[T-ara的首次](https://zh.wikipedia.org/wiki/T-ara "wikilink")[日本全國巡迴演唱會](../Page/日本.md "wikilink")。以支持她們第一張日本錄音室專輯《Jewelry
+Box》(2012)。巡迴演唱會於2012年6月19日開始，地點為[名古屋](https://zh.wikipedia.org/wiki/名古屋 "wikilink")[愛知縣文化藝術中心](https://zh.wikipedia.org/wiki/:ja:愛知芸術文化センター "wikilink")；於7月26日結束，地點為[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[日本武道館](../Page/日本武道館.md "wikilink")\[1\]。
 
 ## 演出日期
 

@@ -1,0 +1,36 @@
+__NOTOC__
+
+<div align="center">
+
+</div>
+
+{{/box-header|香港鐵路運輸概覽|Portal:香港鐵路運輸/簡介|}}  {{/box-footer|}}
+
+<div style="float:left; width:60%;">
+
+{{/box-header|特色條目|Portal:香港鐵路運輸/特色條目|}}  {{/box-footer|}}
+
+{{/box-header|特色圖片|Portal:香港鐵路運輸/特色圖片|}}  {{/box-footer|}}
+
+{{/box-header|你知道嗎?|Portal:香港鐵路運輸/你知道嗎|}}  {{/box-footer|}}
+
+\[ 重新整理\]
+
+</div>
+
+<div style="float:right; width:39%">
+
+{{/box-header|香港鐵路最新動態|Portal:香港鐵路運輸/新闻|}}  {{/box-footer|}}
+
+{{/box-header|參與編輯|Portal:香港鐵路運輸/参与|}}  {{/box-footer|}}
+
+{{/box-header|分类|Portal:香港鐵路運輸/分类|}}  {{/box-footer|}}
+
+</div>
+
+<div style="float:right; width:100%">
+
+{{/box-header|其他维基主题|template:portals|}}  {{/box-footer|}}
+
+[Category:香港主题首页](https://zh.wikipedia.org/wiki/Category:香港主题首页 "wikilink")
+[Category:香港鐵路](https://zh.wikipedia.org/wiki/Category:香港鐵路 "wikilink")

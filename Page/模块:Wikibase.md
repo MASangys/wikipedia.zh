@@ -1,6 +1,7 @@
 \---------- Module:Wikibase ---------------- local p = {}
 
-\-- Return the item ID of the item linked to the current page. function p.id(frame)
+\-- Return the item ID of the item linked to the current page. function
+p.id(frame)
 
 `   if not mw.wikibase then`
 `       return "无mw.wikibase"`
@@ -14,7 +15,8 @@
 
 end
 
-\-- Return the label of a given data item, or of connected page -- if no argument is provided to this method. function p.label(frame)
+\-- Return the label of a given data item, or of connected page -- if no
+argument is provided to this method. function p.label(frame)
 
 `   if frame.args[1] == nil then`
 `       entity = mw.wikibase.getEntityObject()`
@@ -27,7 +29,8 @@ end
 
 end
 
-\-- Return the description of a given data item, or of connected page -- if no argument is provided to this method. function p.description(frame)
+\-- Return the description of a given data item, or of connected page --
+if no argument is provided to this method. function p.description(frame)
 
 `   if frame.args[1] == nil then`
 `       entity = mw.wikibase.getEntityObject()`
@@ -40,7 +43,8 @@ end
 
 end
 
-\-- Return the local page about a given data item, or of connected page -- if id is not specified. function p.page(frame)
+\-- Return the local page about a given data item, or of connected page
+-- if id is not specified. function p.page(frame)
 
 `   if frame.args[1] == nil then`
 `       entity = mw.wikibase.getEntityObject()`

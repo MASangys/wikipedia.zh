@@ -1,4 +1,7 @@
-\-- This is the code to insert a template to indicate that the link is in English: -- frame:expandTemplate{ title = "LANGUAGETEMPLATENAME", args = { "en" } } -- It is obviously not used in the English Wikipedia itself. local function linktext(s)
+\-- This is the code to insert a template to indicate that the link is
+in English: -- frame:expandTemplate{ title = "LANGUAGETEMPLATENAME",
+args = { "en" } } -- It is obviously not used in the English Wikipedia
+itself. local function linktext(s)
 
 `   entity = mw.wikibase.getEntityObject()`
 `   if not entity then`
@@ -11,11 +14,13 @@
 `       -- present on Wikidata nor in the article, and categorises the page as missing`
 `       -- the Wikidata property.`
 `       return "`<span class='error'>`Sports Reference ID is neither present in Wikidata nor the article!`</span>` \`
-`       `[`How``   ``do``   ``I``   ``fix``   ``this?`](https://zh.wikipedia.org/wiki/Template:Sports-reference#Add_ID_in_Wikidata "wikilink")`\`
+`       `[`How``   ``do``   ``I``   ``fix``
+ ``this?`](../Page/Template:Sports-reference#Add_ID_in_Wikidata.md "wikilink")`\`
 `       "`
 `   else`
 `       -- This is the text that is returned if there is a Sports Reference ID on Wikidata or in the article.`
-`       return "[`<http://www.sports-reference.com/olympics/athletes/>`" .. s .. ".html " .. label .. "] at `[`Sports``   ``Reference`](https://zh.wikipedia.org/wiki/Sports_Reference "wikilink")`"`
+`       return "[`<http://www.sports-reference.com/olympics/athletes/>`" .. s .. ".html " .. label .. "] at `[`Sports``
+ ``Reference`](../Page/Sports_Reference.md "wikilink")`"`
 `   end`
 
 end
@@ -49,4 +54,6 @@ end
 
 return p
 
-[Category:Sports_Reference_not_on_Wikidata](https://zh.wikipedia.org/wiki/Category:Sports_Reference_not_on_Wikidata "wikilink") [Category:Articles_without_Wikidata_item](https://zh.wikipedia.org/wiki/Category:Articles_without_Wikidata_item "wikilink") [Category:Sports_Reference_not_on_Wikidata](https://zh.wikipedia.org/wiki/Category:Sports_Reference_not_on_Wikidata "wikilink")
+[Category:Sports_Reference_not_on_Wikidata](https://zh.wikipedia.org/wiki/Category:Sports_Reference_not_on_Wikidata "wikilink")
+[Category:Articles_without_Wikidata_item](https://zh.wikipedia.org/wiki/Category:Articles_without_Wikidata_item "wikilink")
+[Category:Sports_Reference_not_on_Wikidata](https://zh.wikipedia.org/wiki/Category:Sports_Reference_not_on_Wikidata "wikilink")

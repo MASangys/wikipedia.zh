@@ -1,4 +1,5 @@
-local getArgs = require('Module:Arguments').getArgs local yesno = require('Module:Yesno')
+local getArgs = require('Module:Arguments').getArgs local yesno =
+require('Module:Yesno')
 
 local importance = mw.loadData('Module:Importance/data')
 

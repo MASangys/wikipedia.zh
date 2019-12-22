@@ -1,4 +1,5 @@
-w = {}; convert = require( 'Module:BaseConvert' ); math_mod = require( 'Module:Math' );
+w = {}; convert = require( 'Module:BaseConvert' ); math_mod = require(
+'Module:Math' );
 
 function hex( value )
 

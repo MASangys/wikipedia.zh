@@ -1,8 +1,10 @@
-\-- Date functions for use by other modules. -- I18N and time zones are not supported.
+\-- Date functions for use by other modules. -- I18N and time zones are
+not supported.
 
 local MINUS = '−' -- Unicode U+2212 MINUS SIGN local floor = math.floor
 
-local Date, DateDiff, diffmt -- forward declarations local uniq = { 'unique identifier' }
+local Date, DateDiff, diffmt -- forward declarations local uniq = {
+'unique identifier' }
 
 local function is_date(t)
 
@@ -170,7 +172,8 @@ local function set_date_from_jd(date)
 
 end
 
-local function fix_numbers(numbers, y, m, d, H, M, S, partial, hastime, calendar)
+local function fix_numbers(numbers, y, m, d, H, M, S, partial, hastime,
+calendar)
 
 `   -- Put the result of normalizing the given values in table numbers.`
 `   -- The result will have valid m, d values if y is valid; caller checks y.`
@@ -743,7 +746,8 @@ local function _date_list(date, spec)
 
 end
 
-\-- A table to get the current date/time (UTC), but only if needed. local current = setmetatable({}, {
+\-- A table to get the current date/time (UTC), but only if needed.
+local current = setmetatable({}, {
 
 `   __index = function (self, key)`
 `       local d = os.date('!*t')`
@@ -1221,7 +1225,17 @@ local function mt_date_lt(lhs, rhs)
 
 end
 
-\--[Examples of syntax to construct a date: Date(y, m, d, 'julian') default calendar is 'gregorian' Date(y, m, d, H, M, S, 'julian') Date('juliandate', jd, 'julian') if jd contains "." text output includes H:M:S Date('currentdate') Date('currentdatetime') Date('1 April 1995', 'julian') parse date from text Date('1 April 1995 AD', 'julian') using an era sets a flag to do the same for output Date('04:30:59 1 April 1995', 'julian') Date(date) copy of an existing date Date(date, t) same, updated with y,m,d,H,M,S fields from table t Date(t) date with y,m,d,H,M,S fields from table t](https://zh.wikipedia.org/wiki/Examples_of_syntax_to_construct_a_date:_Date\(y,_m,_d,_'julian'\)_default_calendar_is_'gregorian'_Date\(y,_m,_d,_H,_M,_S,_'julian'\)_Date\('juliandate',_jd,_'julian'\)_if_jd_contains_"."_text_output_includes_H:M:S_Date\('currentdate'\)_Date\('currentdatetime'\)_Date\('1_April_1995',_'julian'\)_parse_date_from_text_Date\('1_April_1995_AD',_'julian'\)_using_an_era_sets_a_flag_to_do_the_same_for_output_Date\('04:30:59_1_April_1995',_'julian'\)_Date\(date\)_copy_of_an_existing_date_Date\(date,_t\)_same,_updated_with_y,m,d,H,M,S_fields_from_table_t_Date\(t\)_date_with_y,m,d,H,M,S_fields_from_table_t "wikilink") function Date(...) -- for forward declaration above
+\--[Examples of syntax to construct a date: Date(y, m, d, 'julian')
+default calendar is 'gregorian' Date(y, m, d, H, M, S, 'julian')
+Date('juliandate', jd, 'julian') if jd contains "." text output includes
+H:M:S Date('currentdate') Date('currentdatetime') Date('1 April 1995',
+'julian') parse date from text Date('1 April 1995 AD', 'julian') using
+an era sets a flag to do the same for output Date('04:30:59 1 April
+1995', 'julian') Date(date) copy of an existing date Date(date, t) same,
+updated with y,m,d,H,M,S fields from table t Date(t) date with
+y,m,d,H,M,S fields from table
+t](../Page/Examples_of_syntax_to_construct_a_date:_Date\(y,_m,_d,_'julian'\)_default_calendar_is_'gregorian'_Date\(y,_m,_d,_H,_M,_S,_'julian'\)_Date\('juliandate',_jd,_'julian'\)_if_jd_contains_"."_text_output_includes_H:M:S_Date\('currentdate'\)_Date\('currentdatetime'\)_Date\('1_April_1995',_'julian'\)_parse_date_from_text_Date\('1_April_1995_AD',_'julian'\)_using_an_era_sets_a_flag_to_do_the_same_for_output_Date\('04:30:59_1_April_1995',_'julian'\)_Date\(date\)_copy_of_an_existing_date_Date\(date,_t\)_same,_updated_with_y,m,d,H,M,S_fields_from_table_t_Date\(t\)_date_with_y,m,d,H,M,S_fields_from_table_t.md "wikilink")
+function Date(...) -- for forward declaration above
 
 `   -- Return a table holding a date assuming a uniform calendar always applies`
 `   -- (proleptic Gregorian calendar or proleptic Julian calendar), or`
@@ -1598,7 +1612,8 @@ local function _diff_duration(diff, code, options)
 
 end
 
-\-- Metatable for some operations on date differences. diffmt = { -- for forward declaration above
+\-- Metatable for some operations on date differences. diffmt = { -- for
+forward declaration above
 
 `   __concat = function (lhs, rhs)`
 `       return tostring(lhs) .. tostring(rhs)`
@@ -1626,7 +1641,8 @@ end
 
 }
 
-function DateDiff(date1, date2, options) -- for forward declaration above
+function DateDiff(date1, date2, options) -- for forward declaration
+above
 
 `   -- Return a table with the difference between two dates (date1 - date2).`
 `   -- The difference is negative if date1 is older than date2.`

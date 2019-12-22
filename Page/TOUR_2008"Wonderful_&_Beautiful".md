@@ -1,4 +1,5 @@
-《**TOUR 2008"Wonderful & Beautiful"**》是[Remioromen](../Page/Remioromen.md "wikilink")的第3張DVD。2008年5月14日發行。
+《**TOUR 2008"Wonderful &
+Beautiful"**》是[Remioromen的第](../Page/Remioromen.md "wikilink")3張DVD。2008年5月14日發行。
 
 ## 概要
 
@@ -38,4 +39,5 @@ ENCORE
 2.  **紙ふぶき**
 3.  **リズム**
 
-[Category:2008年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2008年音樂相關影像作品 "wikilink") [Category:Remioromen影像作品](https://zh.wikipedia.org/wiki/Category:Remioromen影像作品 "wikilink")
+[Category:2008年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2008年音樂相關影像作品 "wikilink")
+[Category:Remioromen影像作品](https://zh.wikipedia.org/wiki/Category:Remioromen影像作品 "wikilink")

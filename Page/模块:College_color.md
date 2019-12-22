@@ -362,7 +362,8 @@ local function team_boxes(frame, team, order, sep)
 
 end
 
-local function team_list(frame, team, num1, num2, num3, num4, num5, sep)
+local function team_list(frame, team, num1, num2, num3, num4, num5,
+sep)
 
 `   local function colorbox( h )`
 `       local r = mw.html.create('')`
@@ -548,7 +549,8 @@ end
 function p.check_data()
 
 `   -- In a sandbox, preview {{#invoke:college color|check_data}}`
-`   local results = {'Problems in `[`Module:College``   ``color/data`](https://zh.wikipedia.org/wiki/Module:College_color/data "wikilink")`:'}`
+`   local results = {'Problems in `[`Module:College``
+ ``color/data`](../Page/Module:College_color/data.md "wikilink")`:'}`
 `   local function problems(msg)`
 `       if msg then`
 `           table.insert(results, msg)`

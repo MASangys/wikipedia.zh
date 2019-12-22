@@ -44,7 +44,7 @@ function desc( frame, name, short )
 `                   end`
 `                   tinfo = '使用模板' .. mw.text.listToText( tusage, '、', '或' ) .. '。'`
 `               end`
-`               snippet = '; `` ' .. item[1] .. '. ' .. item[3]:gsub( '%!%(.-%)%!', function( m ) return m:sub( 3, -3 ) end ) .. '\n' .. para .. '\n* ' .. tinfo`
+`               snippet = '; `` ' .. item[1] .. '. ' .. item[3] .. '\n' .. para .. '\n* ' .. tinfo`
 `               table.insert( wt, snippet )`
 `           end`
 `       end`
@@ -84,7 +84,7 @@ function z.reasons( frame )
 
 <td title="' .. extractShortDesc( item ) .. '">
 
-' .. item\[3\]:gsub( '%\!%(.-%)%\!', function( m ) return m:sub( 3, -3 ) end ) .. '
+' .. item\[3\] .. '
 
 </td>
 
@@ -150,8 +150,11 @@ function z.input( frame )
 `               else`
 `                   imgtitle = nil`
 `               end`
-`               if imgtitle then`
-`                   deletesuffix = '：`[`:File:'``   ``..``   ``imgtitle.text``   ``..``   ``'`](https://zh.wikipedia.org/wiki/:File:'_.._imgtitle.text_.._' "wikilink")`'`
+`               if imgtitle and imgtitle.exists then`
+`                   table.insert( pretext, '`[`'_.._imgtitle.text_.._'`](https://zh.wikipedia.org/wiki/File:'_.._imgtitle.text_.._' "fig:'_.._imgtitle.text_.._'")`' )`
+`                   deletesuffix = '：`[`File:'``   ``..``
+ ``imgtitle.text``   ``..``
+ ``'`](https://zh.wikipedia.org/wiki/File:'_.._imgtitle.text_.._' "fig:File:' .. imgtitle.text .. '")`'`
 `               else`
 `                   if check then`
 `                       rowsuffix2 = '`
@@ -167,15 +170,11 @@ function z.input( frame )
 `                   ( args.cat or args.cate or args.category or '' )`
 `           else`
 `               if frame.args.deletelink then`
-`                   table.insert( deletelinks, '[[WP:CSD#'_.._item[1]_.._'|' .. item[1] .. ']]: ' .. item[3]:gsub( '%!%(.-%)%!', '') .. deletesuffix )`
+`                   table.insert( deletelinks, '[[WP:CSD#'_.._item[1]_.._'|' .. item[1] .. ']]: ' .. item[3] .. deletesuffix )`
 `               end`
 `               rowsuffix = args.cat or args.cate or args.category or ( '[[Category:快速删除候选|' .. ( item[7] or '速' ) .. ']]' )`
 `           end`
-`           if deletesuffix then`
-`            row = '* `<strong><span id="speedy-delete-' .. item[1] .. '" title="' .. extractShortDesc( item ) .. '">`' .. item[3]:gsub( '%!%(.-%)%!', function( m ) return m:sub( 3, -3 ) end ) .. '（[[WP:CSD#'_.._item[1]_.._'|CSD ' .. item[1] .. ']]' .. deletesuffix .. '）' ..  rowsuffix .. rowsuffix2 .. '`</span></strong>`'`
-`           else`
-`            row = '* `<strong><span id="speedy-delete-' .. item[1] .. '" title="' .. extractShortDesc( item ) .. '">`' .. item[3]:gsub( '%!%(.-%)%!', function( m ) return m:sub( 3, -3 ) end ) .. '（[[WP:CSD#'_.._item[1]_.._'|CSD ' .. item[1] .. ']]）' .. rowsuffix .. rowsuffix2 .. '`</span></strong>`'`
-`           end`
+`           row = '* `<strong><span id="speedy-delete-' .. item[1] .. '" title="' .. extractShortDesc( item ) .. '">`' .. item[3] .. '（[[WP:CSD#'_.._item[1]_.._'|CSD ' .. item[1] .. ']]）' .. rowsuffix .. rowsuffix2 .. '`</span></strong>`'`
 `           table.insert( rows, row )`
 `       elseif arg and mw.text.trim( arg ) ~= '' then`
 `           if frame.args.reasoncode then`
@@ -186,9 +185,13 @@ function z.input( frame )
 `           cat = args.cat or args.cate or args.category or ''`
 `           if title and title.exists then`
 `               if frame.args.deletelink then`
-`                   table.insert( deletelinks, '`[`CSD`](https://zh.wikipedia.org/wiki/WP:CSD "wikilink")`: `[`:'``   ``..``   ``arg``   ``..``   ``'`](https://zh.wikipedia.org/wiki/:'_.._arg_.._' "wikilink")`' )`
+`                   table.insert( deletelinks, '`[`CSD`](https://zh.wikipedia.org/wiki/WP:CSD "wikilink")`: `[`:'``
+ ``..``   ``arg``   ``..``
+ ``'`](https://zh.wikipedia.org/wiki/:'_.._arg_.._' "wikilink")`' )`
 `               end`
-`               table.insert( rows, '*`<strong>`' .. cat .. '`[`:'``   ``..``   ``arg``   ``..``   ``'`](https://zh.wikipedia.org/wiki/:'_.._arg_.._' "wikilink")</strong>`' )`
+`               table.insert( rows, '*`<strong>`' .. cat .. '`[`:'``
+ ``..``   ``arg``   ``..``
+ ``'`](https://zh.wikipedia.org/wiki/:'_.._arg_.._' "wikilink")</strong>`' )`
 `           else`
 `               if frame.args.deletelink then`
 `                   table.insert( deletelinks, arg )`
@@ -219,4 +222,6 @@ end
 
 return z
 
-[Category:快速删除候选](https://zh.wikipedia.org/wiki/Category:快速删除候选 "wikilink") [Category:快速删除候选](https://zh.wikipedia.org/wiki/Category:快速删除候选 "wikilink") [Category:快速删除候选](https://zh.wikipedia.org/wiki/Category:快速删除候选 "wikilink")
+[Category:快速删除候选](https://zh.wikipedia.org/wiki/Category:快速删除候选 "wikilink")
+[Category:快速删除候选](https://zh.wikipedia.org/wiki/Category:快速删除候选 "wikilink")
+[Category:快速删除候选](https://zh.wikipedia.org/wiki/Category:快速删除候选 "wikilink")

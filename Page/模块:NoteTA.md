@@ -137,4 +137,6 @@ end
 
 return z
 
-[Category:NoteTA模板参数使用数量超过限制的页面](https://zh.wikipedia.org/wiki/Category:NoteTA模板参数使用数量超过限制的页面 "wikilink") [Category:NoteTA模板参数使用数量超过限制的页面](https://zh.wikipedia.org/wiki/Category:NoteTA模板参数使用数量超过限制的页面 "wikilink") [Category:放置于模板的noteTA](https://zh.wikipedia.org/wiki/Category:放置于模板的noteTA "wikilink")
+[Category:NoteTA模板参数使用数量超过限制的页面](https://zh.wikipedia.org/wiki/Category:NoteTA模板参数使用数量超过限制的页面 "wikilink")
+[Category:NoteTA模板参数使用数量超过限制的页面](https://zh.wikipedia.org/wiki/Category:NoteTA模板参数使用数量超过限制的页面 "wikilink")
+[Category:放置于模板的noteTA](https://zh.wikipedia.org/wiki/Category:放置于模板的noteTA "wikilink")

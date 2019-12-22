@@ -8,9 +8,9 @@ this file affect many users. \*\* // \*\* please discuss on the talk
 page before editing \*\* // \*\* \*\* //
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 // Imported from [User:Alex
-Smotrov/edittop.js](https://zh.wikipedia.org/wiki/User:Alex_Smotrov/edittop.js "wikilink"),
+Smotrov/edittop.js](../Page/User:Alex_Smotrov/edittop.js.md "wikilink"),
 version as of: 2007-06-19T04:28:52 // Updated from
-[User:TheDJ/Gadget-edittop.js](https://zh.wikipedia.org/wiki/User:TheDJ/Gadget-edittop.js "wikilink"),
+[User:TheDJ/Gadget-edittop.js](../Page/User:TheDJ/Gadget-edittop.js.md "wikilink"),
 version as of: 2009-04-28T11:54:22
 
 if ($.inArray( mw.config.get('wgAction'), \[ 'view', 'purge' \]) \!== -1

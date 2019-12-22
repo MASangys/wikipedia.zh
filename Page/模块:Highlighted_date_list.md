@@ -1,4 +1,5 @@
-\-- This module takes a list of dates and adds a marker highlighting the closest -- date in the future.
+\-- This module takes a list of dates and adds a marker highlighting the
+closest -- date in the future.
 
 local p = {} local lang = mw.language.getContentLanguage()
 
