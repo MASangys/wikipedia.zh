@@ -50,13 +50,9 @@
 [Category:YUI歌曲](https://zh.wikipedia.org/wiki/Category:YUI歌曲 "wikilink") [Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink") [Category:日本索尼音樂娛樂歌曲](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂歌曲 "wikilink") [Category:NHK電視台節目主題曲](https://zh.wikipedia.org/wiki/Category:NHK電視台節目主題曲 "wikilink")
 
 1.  独立单曲「[It's happy line](https://zh.wikipedia.org/wiki/It's_happy_line "wikilink")」除外
-
 2.
-
 3.
-
 4.
-
 5.
 6.
 7.

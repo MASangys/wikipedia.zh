@@ -41,25 +41,17 @@ Image:Sino-Romanian joint training Friendship Action 2009 (08).jpg|在2009年中
 
 ## 參考資料
 
-  -
-
-    <div class="references-small">
-
-  - *[槍炮世界 - AI-74突擊步槍](https://web.archive.org/web/20111219040319/http://firearmsworld.net/romania/romak/ai74.htm)*
-
-  - *[Tantal's Avtomats in Action](http://www.avtomats-in-action.com/pro19.html)*
-
-  - *[MApN (Ministry of National Defence) Photo Gallery](http://www.mapn.ro/fotodb/)*
-
-  - *[SC Fabrica de Arme Cugir SA - Arms Factory - md. 86 Assault Rifle](https://web.archive.org/web/20120210221428/http://www.arms.home.ro/arms/cugir1/pag/1.html)*
-
-  - *[SC Fabrica de Arme Cugir SA - Arms Factory - md. 86 Carbine](https://web.archive.org/web/20120210221422/http://www.arms.home.ro/arms/cugir1/pag/2.html)*
+  - [槍炮世界 - AI-74突擊步槍](https://web.archive.org/web/20111219040319/http://firearmsworld.net/romania/romak/ai74.htm)
+  - [Tantal's Avtomats in Action](http://www.avtomats-in-action.com/pro19.html)
+  - [MApN (Ministry of National Defence) Photo Gallery](http://www.mapn.ro/fotodb/)
+  - [SC Fabrica de Arme Cugir SA - Arms Factory - md. 86 Assault Rifle](https://web.archive.org/web/20120210221428/http://www.arms.home.ro/arms/cugir1/pag/1.html)
+  - [SC Fabrica de Arme Cugir SA - Arms Factory - md. 86 Carbine](https://web.archive.org/web/20120210221422/http://www.arms.home.ro/arms/cugir1/pag/2.html)
 
 ## 另見
 
   - [PM md. 63](../Page/PM_md._63突擊步槍.md "wikilink")
-  - [AK-47](https://zh.wikipedia.org/wiki/AK-47 "wikilink")
-  - [AK-74](https://zh.wikipedia.org/wiki/AK-74 "wikilink")
-  - [AKM](https://zh.wikipedia.org/wiki/AKM "wikilink")
+  - [AK](https://zh.wikipedia.org/wiki/AK-47突擊步槍 "wikilink")
+  - [AK-74](https://zh.wikipedia.org/wiki/AK-74突擊步槍 "wikilink")
+  - [AKM](../Page/AKM突擊步槍.md "wikilink")
 
 [Category:自動步槍](https://zh.wikipedia.org/wiki/Category:自動步槍 "wikilink") [Category:突擊步槍](https://zh.wikipedia.org/wiki/Category:突擊步槍 "wikilink") [Category:5.45×39毫米槍械](https://zh.wikipedia.org/wiki/Category:5.45×39毫米槍械 "wikilink") [Category:羅馬尼亞槍械](https://zh.wikipedia.org/wiki/Category:羅馬尼亞槍械 "wikilink")

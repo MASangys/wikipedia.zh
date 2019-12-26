@@ -10,7 +10,7 @@
 
 紳寶波佛斯動力CBJ-MS[個人防衛武器](../Page/個人防衛武器.md "wikilink")是一枝非常緊湊的武器，在伸縮式[钢](../Page/钢.md "wikilink")絲製[槍托](../Page/槍托.md "wikilink")縮折時只有363毫米（14.29英吋），而槍托伸展時為565毫米（22.24英吋）。這武器的體積細小、重量輕盈、攜帶方便，而強大的火力卻可令人印象深刻。
 
-在武器的整體外觀而言酷似[烏茲衝鋒槍](../Page/烏茲衝鋒槍.md "wikilink")，而主要區別是[扳機護圈前方的](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")[前握把](../Page/輔助握把.md "wikilink")。前握把內部中空，可以容納一個備用[彈匣](../Page/彈匣.md "wikilink")，以加快更換彈匣的速度。前握把可以很容易地拆卸下來並且裝上其他的戰術配件，例如[戰術燈](../Page/戰術燈.md "wikilink")或[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")。
+在武器的整體外觀而言酷似[烏茲衝鋒槍](../Page/烏茲衝鋒槍.md "wikilink")，而主要區別是[扳機護環前方的](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")[前握把](../Page/輔助握把.md "wikilink")。前握把內部中空，可以容納一個備用[彈匣](../Page/彈匣.md "wikilink")，以加快更換彈匣的速度。前握把可以很容易地拆卸下來並且裝上其他的戰術配件，例如[戰術燈](../Page/戰術燈.md "wikilink")或[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")。
 
 其基本工作原理是採用[開放式槍栓](../Page/開放式槍栓.md "wikilink")、[直接反沖作用和固定式擊針](https://zh.wikipedia.org/wiki/反沖作用_\(槍械\)#直接反沖 "wikilink")。但可以因應客戶的特殊需要，將其更改為一套帶有獨立的自由浮動式[撞針](../Page/撞針.md "wikilink")的槍機系統。與烏茲衝鋒槍一樣使用[包絡式槍機](../Page/包絡式槍機.md "wikilink")，在槍機閉鎖時包覆著槍管尾部的大部份，從而縮短槍機運作距離，亦能達到縮短全槍總長度。由於[機匣上方設有](https://zh.wikipedia.org/wiki/機匣 "wikilink")[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，因此其由早期型烏茲衝鋒槍的設於機匣頂部的U型拉機柄改為裝在機匣尾部的塞子型拉機柄。向後拉動拉機柄時使槍機待擊，鬆手後自動彈回（不論開放式槍栓和閉鎖式槍栓），而且射擊時不會跟隨槍機一起運動。這槍亦把主握把前板作為其[握把式保險](https://zh.wikipedia.org/wiki/握把式保險 "wikilink")，必需按壓才可發射，可以大大減低[走火的機會](https://zh.wikipedia.org/wiki/走火 "wikilink")。
 

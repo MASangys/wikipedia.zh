@@ -113,7 +113,7 @@
 
   - DMM GAMES
       - 從事遊戲製作
-  - DMM英会話
+  - DMM英会話（國際版本為engoo）
       - 線上英語教室
   - DMM.make
       - 3D printer事業、機器人及AI智能開發

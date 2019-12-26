@@ -177,8 +177,6 @@ GLAM出道單曲《Girls Be Ambitious》於2012年7月16日公開音源，出道
 [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink") [Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink") [Category:2015年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年解散的音樂團體 "wikilink") [Category:已解散的韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的韓國女子演唱團體 "wikilink") [Category:2012年韓國建立](https://zh.wikipedia.org/wiki/Category:2012年韓國建立 "wikilink") [Category:2015年韓國廢除](https://zh.wikipedia.org/wiki/Category:2015年韓國廢除 "wikilink")
 
 1.
-
 2.
-
 3.
 4.

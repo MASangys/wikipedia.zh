@@ -1,4 +1,4 @@
-**IgA肾病**（）是最常见的[肾小球肾炎](https://zh.wikipedia.org/wiki/肾小球肾炎 "wikilink")（glomerulonephritis）\[1\]，原发性IgA肾病患者通常在[肾小球有](https://zh.wikipedia.org/wiki/肾小球 "wikilink")[IgA抗体的沉积](https://zh.wikipedia.org/wiki/IgA抗体 "wikilink")，也有其他许多疾病都会引起肾小球中的IgA抗体的沉积，最常见的是[Henoch-Schönlein紫癜](https://zh.wikipedia.org/wiki/Henoch-Schönlein紫癜 "wikilink")（HSP，系统性的IgA肾病）。Henoch-Schönlein紫癜常常表现出特征性的皮肤紫癜、关节炎、腹痛，在年轻人身上最常见（16-35岁）。IgA肾病發展缓慢，25-30%的患者经过20年的发展会引起[肾衰竭](https://zh.wikipedia.org/wiki/肾衰竭 "wikilink")。
+**IgA肾病**（）是最常见的[肾小球肾炎](https://zh.wikipedia.org/wiki/肾小球肾炎 "wikilink")（glomerulonephritis）\[1\]，原发性IgA肾病患者通常在[肾小球有](https://zh.wikipedia.org/wiki/肾小球 "wikilink")[IgA抗体的沉积](https://zh.wikipedia.org/wiki/IgA抗体 "wikilink")，也有其他许多疾病都会引起肾小球中的IgA抗体的沉积，最常见的是[Henoch-Schönlein紫癜](https://zh.wikipedia.org/wiki/Henoch-Schönlein紫癜 "wikilink")（HSP，全身性的IgA肾病）。Henoch-Schönlein紫癜常常表现出特征性的皮肤紫癜、关节炎、腹痛，在年轻人身上最常见（16-35岁）。IgA肾病發展缓慢，25-30%的患者经过20年的发展会引起[肾衰竭](https://zh.wikipedia.org/wiki/肾衰竭 "wikilink")。
 
 ## 症状和体征
 
@@ -8,7 +8,7 @@
 
 肾病综合征（3 - 3.5g蛋白尿，诊断困难），急性肾衰竭（要么是血尿的并发症要么是慢性肾小球肾炎急性发作），慢性肾衰竭（患者会有贫血、高血压和肾衰竭的其他症状，有长期的隐形血尿和蛋白尿）。
 
-大量的系统性疾病都和IgA 肾病有关，比如肝脏衰竭，腹腔疾病，关节炎，Reiter综合征， 强制性脊椎炎和HIV。IgA肾病的诊断和对原发性疾病的探寻揭示了它们之间的因果关系。
+大量的全身性疾病都和IgA 肾病有关，比如肝脏衰竭，腹腔疾病，关节炎，Reiter综合征， 强制性脊椎炎和HIV。IgA肾病的诊断和对原发性疾病的探寻揭示了它们之间的因果关系。
 
 ## 诊断
 
@@ -24,7 +24,7 @@
 
 免疫染色显示IgA位于Henoch-Schonlein 肾炎患者的肾小球内。这个疾病名字源于IgA以颗粒状沉积在肾小球的一个部分——肾小球膜（免疫荧光检测）。光学显微镜下肾小球膜是富含细胞的组织，我们还能看到细胞质外蛋白沉积的增加。对于IgA聚集的原因还没有明确的解释。目前还没有在肾脏发现IgA的外在抗原，但是有可能在疾病出现前抗原就被清除了。也有人提出IgA自己本身也是抗原。
 
-最近的新的理论集中在IgA1分子的异常。IgA1是两种免疫球蛋白分支（另一个是IgD）的一种，一部分位于特殊的富脯氨酸铰链区的丝苏氨酸O-端糖基化的蛋白。这些糖基缺失导致组织中的IgA分子聚合，特别是在肾小球膜。在Henoch-Schönlein紫癜（HSP）（一种主要影响儿童并可以影响肾脏的血管炎，无法与IgA肾炎区别））基础之上提出了一个类似的机制。然而人类研究发现IgA1 degalactosylation发生在有IgA肾病的患者只在内脏抗原暴露时（不是系统性的）发生反应，健康人发生的几率很小。这强烈的说明IgA1 degalactosylation是一种潜在现象的结果（异常粘膜抗原反应），并不是导致IgA肾病的最终原因。 根据肾移植后IgA 肾病可以再次发生来说，可以假定疾病是由免疫系统问题导致的而不是肾脏自身疾病。显然沉积在肾脏的IgA1并不会起源于大多数上呼吸道感染发生的部位——粘膜相关的淋巴组织(MALT)，但是会源于骨髓。着同样说明与免疫疾病有关而非外源性异物的直接干扰。
+最近的新的理论集中在IgA1分子的异常。IgA1是两种免疫球蛋白分支（另一个是IgD）的一种，一部分位于特殊的富脯氨酸铰链区的丝苏氨酸O-端糖基化的蛋白。这些糖基缺失导致组织中的IgA分子聚合，特别是在肾小球膜。在Henoch-Schönlein紫癜（HSP）（一种主要影响儿童并可以影响肾脏的血管炎，无法与IgA肾炎区别））基础之上提出了一个类似的机制。然而人类研究发现IgA1 degalactosylation发生在有IgA肾病的患者只在内脏抗原暴露时（不是全身性的）发生反应，健康人发生的几率很小。这强烈的说明IgA1 degalactosylation是一种潜在现象的结果（异常粘膜抗原反应），并不是导致IgA肾病的最终原因。 根据肾移植后IgA 肾病可以再次发生来说，可以假定疾病是由免疫系统问题导致的而不是肾脏自身疾病。显然沉积在肾脏的IgA1并不会起源于大多数上呼吸道感染发生的部位——粘膜相关的淋巴组织(MALT)，但是会源于骨髓。着同样说明与免疫疾病有关而非外源性异物的直接干扰。
 
 ## 自然史
 

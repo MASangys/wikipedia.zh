@@ -111,37 +111,26 @@ A面曲《奔馳吧！Bicycle》（）共有四名作曲者，分別是Shusui、
 [Category:乃木坂46歌曲](https://zh.wikipedia.org/wiki/Category:乃木坂46歌曲 "wikilink") [Category:秋元康創作的歌曲](https://zh.wikipedia.org/wiki/Category:秋元康創作的歌曲 "wikilink") [Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink") [Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink") [Category:2012年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Oricon單曲週榜冠軍作品 "wikilink") [Category:2012年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2012年Japan_Hot_100冠軍歌曲 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
 6.
 7.
-
 8.
 9.
 10.
-
 11.
-
 12.
-
 13.
 14.
-
 15.
 16.
 17.
 18.
-
 19.
-
 20.
 21.
-
 22.
 23.
 24.

@@ -211,32 +211,21 @@
 [Category:日本動漫角色列表](https://zh.wikipedia.org/wiki/Category:日本動漫角色列表 "wikilink") [Category:电子游戏角色列表](https://zh.wikipedia.org/wiki/Category:电子游戏角色列表 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.
-
 6.
 7.
-
 8.
 9.
 10.
 11.
 12. 在《AIR》遊戲中，玩家可以依照自己的喜好更改名字。
-
 13.
-
 14.
-
 15.
-
 16.
-
 17. 「黏稠濃厚桃子口味」果汁在Key所推出的其他作品中亦有出現。
-
 18.
-
 19.

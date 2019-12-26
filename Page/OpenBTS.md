@@ -4,7 +4,7 @@
 
 ## 外部連結
 
-  - [OpenBTS計畫官網](http://wush.net/trac/rangepublic/)
+  - [OpenBTS計畫官網](https://web.archive.org/web/20140407094647/http://wush.net/trac/rangepublic/)
   - [OpenBTS部落格](http://openbts.blogspot.com/)
   - [Range Networks, Inc. web site](http://www.rangenetworks.com/)
 

@@ -162,8 +162,8 @@
   - [秋山幸二](https://zh.wikipedia.org/wiki/秋山幸二 "wikilink")（[西武獅外野手](https://zh.wikipedia.org/wiki/西武獅 "wikilink")）
   - 芦原すなお（作家）
   - 荻野アンナ（作家）
-  - [花田虎上](../Page/花田虎上.md "wikilink")（[相撲](../Page/相撲.md "wikilink")選手 - 前頭）
-  - [貴乃花](https://zh.wikipedia.org/wiki/貴乃花 "wikilink")（[相撲](../Page/相撲.md "wikilink")選手 - 前頭）
+  - [花田虎上](../Page/花田虎上.md "wikilink")（[相撲](../Page/相撲.md "wikilink")力士 - 前頭）
+  - [貴乃花](https://zh.wikipedia.org/wiki/貴乃花 "wikilink")（[相撲](../Page/相撲.md "wikilink")力士 - 前頭）
   - [緒形直人](../Page/緒形直人.md "wikilink")（演員）
   - 鷲尾いさ子（演員）
   - [田中好子](../Page/田中好子.md "wikilink")（演員）

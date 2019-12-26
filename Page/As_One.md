@@ -931,22 +931,13 @@ PlotData =
 [Category:香港女子演唱團體](https://zh.wikipedia.org/wiki/Category:香港女子演唱團體 "wikilink") [Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink") [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink") [Category:2017年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年解散的音樂團體 "wikilink") [Category:2015年韓國建立](https://zh.wikipedia.org/wiki/Category:2015年韓國建立 "wikilink") [Category:2017年韓國廢除](https://zh.wikipedia.org/wiki/Category:2017年韓國廢除 "wikilink")
 
 1.  [【紅出國際】As One隊友各自飛 陳嘉茵在台灣走紅？](https://bka.mpweekly.com/focus/local/20171220-94650)
-
 2.
 3.  [四變三！三變五！As One兩新成員曝光](http://www.on.cc/hk/bkn/cnt/entertainment/20150417/bkn-20150417134022181-0417_00862_001.html), on.cc東網. 2015-4-17
-
 4.  [As One成員Elfa離隊聲明](http://www.suneg.com/2015/05/15/as-one%E6%88%90%E5%93%A1elfa%E9%9B%A2%E9%9A%8A%E8%81%B2%E6%98%8E/), 聲明. 太陽娛樂文化. 2015-5-15
-
 5.  [애즈원의 상큼하고 앙큼한 캔디볼(Candy Ball) MV 촬영 현장 스케치](http://www.mnet.com/special/7732), Mnet Special. 2015-7-14
-
 6.  [As One 《Candy Ball》 現正熱播中](http://www.suneg.com/2015/07/27/as-one-%E7%8F%BE%E6%AD%A3%E7%86%B1%E6%92%AD%E4%B8%AD/), 新聞稿. 太陽娛樂文化. 2015-7-27。
-
 7.  [As One 全新派台單曲《HeyYa\!》經已上架](http://www.suneg.com/2016/05/06/as-one-%E5%85%A8%E6%96%B0%E6%B4%BE%E5%8F%B0%E5%96%AE%E6%9B%B2%E3%80%8Aheyya%E3%80%8B%E7%B6%93%E5%B7%B2%E4%B8%8A%E6%9E%B6/), 新聞稿. 太陽娛樂文化. 2016-5-6。
-
 8.
-
 9.
-
 10.
-
 11. 兩位退出成員皆在韓國正式出道前退出

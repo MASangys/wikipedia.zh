@@ -10,11 +10,11 @@ CZ蠍式EVO 3 A1採用了傳統的自由式槍機操作原理，設有半自動�
 
 ### 機匣
 
-CZ蠍式EVO 3 A1採用了[聚合物](../Page/聚合物.md "wikilink")製造的[機匣](https://zh.wikipedia.org/wiki/機匣 "wikilink")。機匣是由左右兩片所組合而成，並通過[螺釘固定在一起](../Page/螺絲.md "wikilink")。採用了左右兩側的雙向設計：可以按照情況在左右導槽互換而無需任何工具，拉機柄導槽尾端設有向上卡槽，將拉機柄拉至最後方並且向上卡入卡槽內可起到固定作用。機匣右側刻有武器名稱的銘文，而左側刻有捷克製造的銘文。[空槍挂機解脫桿位於機匣左側面及](https://zh.wikipedia.org/wiki/空槍挂機 "wikilink")[快慢機](https://zh.wikipedia.org/wiki/擊發調變模式 "wikilink")、[扳機護圈前方](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")，個頭較大，操作起來非常方便。因為採用傳統的自由式槍機操作原理，槍機[质量](../Page/质量.md "wikilink")比較大。
+CZ蠍式EVO 3 A1採用了[聚合物](../Page/聚合物.md "wikilink")製造的[機匣](https://zh.wikipedia.org/wiki/機匣 "wikilink")。機匣是由左右兩片所組合而成，並通過[螺釘固定在一起](../Page/螺絲.md "wikilink")。採用了左右兩側的雙向設計：可以按照情況在左右導槽互換而無需任何工具，拉機柄導槽尾端設有向上卡槽，將拉機柄拉至最後方並且向上卡入卡槽內可起到固定作用。機匣右側刻有武器名稱的銘文，而左側刻有捷克製造的銘文。[空槍挂機解脫桿位於機匣左側面及](https://zh.wikipedia.org/wiki/空槍挂機 "wikilink")[快慢機](https://zh.wikipedia.org/wiki/擊發調變模式 "wikilink")、[扳機護環前方](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")，個頭較大，操作起來非常方便。因為採用傳統的自由式槍機操作原理，槍機[质量](../Page/质量.md "wikilink")比較大。
 
 ### 發射機構
 
-CZ蠍式EVO 3 A1採用了[聚合物](../Page/聚合物.md "wikilink")製造的發射機構組件，並且以一個固定銷與[機匣連接在一起](https://zh.wikipedia.org/wiki/機匣 "wikilink")。快慢機桿裝在左右兩側，發射模式為保險、半自動、[三發點放](../Page/三發點放.md "wikilink")和全自動四個位置三種發射模式，並以呈直線排列在快慢機上方。從最前方的保險位置調節到半自動位置只需旋轉約20[°](https://zh.wikipedia.org/wiki/度_\(角\) "wikilink")，調節到最後方的全自動位置只需旋轉約80°，這大大提高了其發射模式速度。快慢機桿前方還設有[空槍掛機解脫桿](https://zh.wikipedia.org/wiki/空槍掛機 "wikilink")。超大型設計的[扳機護圈方便戴上](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")[手套](../Page/手套.md "wikilink")操作扳機。扳機護圈前方兩側設有[彈匣卡箏](https://zh.wikipedia.org/wiki/彈匣卡箏 "wikilink")，左右兩手均可以順暢操作，非常方便。
+CZ蠍式EVO 3 A1採用了[聚合物](../Page/聚合物.md "wikilink")製造的發射機構組件，並且以一個固定銷與[機匣連接在一起](https://zh.wikipedia.org/wiki/機匣 "wikilink")。快慢機桿裝在左右兩側，發射模式為保險、半自動、[三發點放](../Page/三發點放.md "wikilink")和全自動四個位置三種發射模式，並以呈直線排列在快慢機上方。從最前方的保險位置調節到半自動位置只需旋轉約20[°](https://zh.wikipedia.org/wiki/度_\(角\) "wikilink")，調節到最後方的全自動位置只需旋轉約80°，這大大提高了其發射模式速度。快慢機桿前方還設有[空槍掛機解脫桿](https://zh.wikipedia.org/wiki/空槍掛機 "wikilink")。超大型設計的扳機護環方便戴上[手套](../Page/手套.md "wikilink")操作扳機。扳機護圈前方兩側設有[彈匣卡箏](https://zh.wikipedia.org/wiki/彈匣卡箏 "wikilink")，左右兩手均可以順暢操作，非常方便。
 
 ### 槍管
 
@@ -128,6 +128,7 @@ CZ蠍式EVO 3 A1衝鋒槍及其衍生型自推出後亦出現在不少[电影](.
   - [CS/LS2型冲锋枪](https://zh.wikipedia.org/wiki/CS/LS2型冲锋枪 "wikilink")
   - [CS/LS5型冲锋枪](https://zh.wikipedia.org/wiki/CS/LS5型冲锋枪 "wikilink")
   - [KRISS Vector衝鋒槍](../Page/KRISS_Vector衝鋒槍.md "wikilink")
+  - [Pindad PM2衝鋒槍](https://zh.wikipedia.org/wiki/Pindad_PM2衝鋒槍 "wikilink")
   - [PP-19野牛冲锋枪](../Page/PP-19野牛冲锋枪.md "wikilink")
   - [PP-19-01勇士衝鋒槍](../Page/PP-19-01勇士衝鋒槍.md "wikilink")
   - [SIG MPX衝鋒槍](../Page/SIG_MPX衝鋒槍.md "wikilink")
@@ -145,8 +146,8 @@ CZ蠍式EVO 3 A1衝鋒槍及其衍生型自推出後亦出現在不少[电影](.
       - 2012年9月上號：[重生的蝎子CZ“蝎”式EVO3A1冲锋枪](http://www.xzbu.com/8/view-3454287.htm)
       - 2013年4月下號：[捷克CZ蝎式EVO3 A1冲锋枪](http://mall.cnki.net/magazine/Article/QBQI201308012.htm)
       - 2014年12月下號：[变革之风：亚太国家轻武器发展巡视](https://web.archive.org/web/20150101170735/http://gdwap.dooland.com/article.php?id=557051)
-      - 2015年2月上號：[西方现役轻武器换装/补充计划盘点](http://www.xzbu.com/8/view-6696134.htm)
-      - 2016年2月下號：[捷克CZ美国分公司2016年新品献礼](http://www.xzbu.com/8/view-7208421.htm)
+      - 2015年2月上號：[西方现役轻武器换装/补充计划盘点](https://web.archive.org/web/20150213134250/http://www.xzbu.com/8/view-6696134.htm)
+      - 2016年2月下號：[捷克CZ美国分公司2016年新品献礼](https://web.archive.org/web/20160306054430/http://www.xzbu.com/8/view-7208421.htm)
       - 2016年4月上號：[捷克CZ公司美国分公司蝎式EVO3 S1卡宾枪](http://mall.cnki.net/magazine/Article/QBQI201607009.htm)
       - 2016年4月上號：[捷克EVO3 S1民用型半自动冲锋枪](http://www.xzbu.com/8/view-7329062.htm)
 
@@ -245,15 +246,9 @@ CZ蠍式EVO 3 A1衝鋒槍及其衍生型自推出後亦出現在不少[电影](.
 
 1.
 2.
-
 3.
-
 4.  [1](https://vk.com/wall-7206469_33993?reply=34006)
-
 5.
-
 6.  <http://www.specijalne-jedinice.com/Galerija-SJP.html#sthash.qqM5Uw6B.dpbs>
-
 7.
-
 8.  [2](http://www.russiadefence.net/t3430-little-stories-of-us-soviet-and-other-foreign-weapons-in-vietnam)

@@ -14,6 +14,6 @@
     （作詞・作曲：[淳君](../Page/淳君.md "wikilink") 編曲：[鈴木俊介](https://zh.wikipedia.org/wiki/鈴木俊介 "wikilink")）
 2.  **美好的情感\!**（ファインエモーション\!）
     （作詞・作曲：[淳君](../Page/淳君.md "wikilink") 編曲：[鈴木Daichi秀行](https://zh.wikipedia.org/wiki/鈴木Daichi秀行 "wikilink")）
-3.  浪漫 ～MY DEAR BOY～ (仪器的)
+3.  浪漫 ～MY DEAR BOY～ (Instrumental)
 
 [Category:2004年單曲](https://zh.wikipedia.org/wiki/Category:2004年單曲 "wikilink") [Category:早安少女組。歌曲](https://zh.wikipedia.org/wiki/Category:早安少女組。歌曲 "wikilink")

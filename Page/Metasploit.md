@@ -64,10 +64,7 @@ Cobalt Strike是一个由Strategic Cyber LLC.开发的，拥有图形用户界�
 [Category:网络安全](https://zh.wikipedia.org/wiki/Category:网络安全 "wikilink") [Category:保全漏洞](https://zh.wikipedia.org/wiki/Category:保全漏洞 "wikilink") [Category:安全软件](https://zh.wikipedia.org/wiki/Category:安全软件 "wikilink") [Category:自由軟體組織](https://zh.wikipedia.org/wiki/Category:自由軟體組織 "wikilink") [Category:自由跨平台軟體](https://zh.wikipedia.org/wiki/Category:自由跨平台軟體 "wikilink") [Category:注入漏洞](https://zh.wikipedia.org/wiki/Category:注入漏洞 "wikilink") [Category:软件测试](https://zh.wikipedia.org/wiki/Category:软件测试 "wikilink") [Category:Windows软件](https://zh.wikipedia.org/wiki/Category:Windows软件 "wikilink")
 
 1.  [Metasploit installer download page](http://www.metasploit.com/download)
-
 2.
-
 3.
 4.
-
 5.

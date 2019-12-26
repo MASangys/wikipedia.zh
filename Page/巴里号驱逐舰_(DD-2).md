@@ -23,4 +23,4 @@
 ## 外部链接
 
   -
-[Category:班布里奇级驱逐舰](https://zh.wikipedia.org/wiki/Category:班布里奇级驱逐舰 "wikilink") [Category:美国一战驱逐舰](https://zh.wikipedia.org/wiki/Category:美国一战驱逐舰 "wikilink") [Category:宾夕法尼亚州建造的船只](https://zh.wikipedia.org/wiki/Category:宾夕法尼亚州建造的船只 "wikilink") [Category:纳菲尔-利维建造的船只](https://zh.wikipedia.org/wiki/Category:纳菲尔-利维建造的船只 "wikilink") [Category:1902年下水的船只](https://zh.wikipedia.org/wiki/Category:1902年下水的船只 "wikilink") [Category:1902年竣工的船只](https://zh.wikipedia.org/wiki/Category:1902年竣工的船只 "wikilink")
+[Category:班布里奇级驱逐舰](https://zh.wikipedia.org/wiki/Category:班布里奇级驱逐舰 "wikilink") [Category:美国一战驱逐舰](https://zh.wikipedia.org/wiki/Category:美国一战驱逐舰 "wikilink") [Category:宾夕法尼亚州建造的船只](https://zh.wikipedia.org/wiki/Category:宾夕法尼亚州建造的船只 "wikilink") [Category:纳菲尔-利维建造的船只](https://zh.wikipedia.org/wiki/Category:纳菲尔-利维建造的船只 "wikilink") [Category:1902年下水](https://zh.wikipedia.org/wiki/Category:1902年下水 "wikilink")

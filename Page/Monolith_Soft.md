@@ -93,16 +93,11 @@
 [Category:1999年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1999年開業電子遊戲公司 "wikilink") [Category:任天堂的部门与子公司](https://zh.wikipedia.org/wiki/Category:任天堂的部门与子公司 "wikilink") [Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink") [Category:目黑區公司](https://zh.wikipedia.org/wiki/Category:目黑區公司 "wikilink") [Category:1999年日本建立](https://zh.wikipedia.org/wiki/Category:1999年日本建立 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.  .
-
 6.
 7.  [大乱闘スマッシュブラザーズX まとめwiki - スタッフ・声優](http://www13.atwiki.jp/sumaburax/pages/232.html)
-
 8.  [Nintendo-Online.de](http://www.nintendo-online.de/wiiu/news/12342/monolith-soft-half-bei-pikmin-3-mit)
-
 9.

@@ -36,6 +36,7 @@ Unlight遊戲於平台上是採免費，只有部分道具的收費模式，並�
   - 2017年9月7日於Facebook平台暫停繁體中文版
   - 2017年10月18日niconico日文版暫停營運
   - 2019年7月30日於Facebook發布公告，TechWay已於2018年10月將Unlight（網頁版）的商標權與版權讓渡給株式会社CPA，並作為免費的開放資源。
+  - 2019年8月7日於Unlight 開源後，由玩家組成的 Open Unlight 團隊將原始碼重新架設出新伺服器，私服開始營運。
 
 ## 外部連結
 
@@ -48,6 +49,8 @@ Unlight遊戲於平台上是採免費，只有部分道具的收費模式，並�
   - [英文官方推特](https://twitter.com/Unlight_EN/)
   - [非官方中文資料站](http://www38.atwiki.jp/unlight-fbtw//)
   - [官方網站](http://unlight-world.com//)
+  - [Open Unlight 私人伺服器 (營運中)](https://unlight.app/)
+  - [Open Unlight GitHub](https://github.com/open-unlight/)
 
 ## 註解
 

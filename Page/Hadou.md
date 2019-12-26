@@ -34,10 +34,7 @@
 [Category:稻葉浩志音樂專輯](https://zh.wikipedia.org/wiki/Category:稻葉浩志音樂專輯 "wikilink") [Category:VERMILLION_RECORDS音乐专辑](https://zh.wikipedia.org/wiki/Category:VERMILLION_RECORDS音乐专辑 "wikilink") [Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink") [Category:2010年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2010年Oricon專輯週榜冠軍作品 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.

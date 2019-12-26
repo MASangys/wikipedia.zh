@@ -76,85 +76,85 @@
 
   - 〈[高盧戰記](../Page/高盧戰記.md "wikilink")〉：
 
-17/12/2013推出，戰役背景設定為[高盧戰爭](../Page/高盧戰爭.md "wikilink")，以及包括[波伊人](https://zh.wikipedia.org/wiki/:en:Boii "wikilink")、[加拉太人及](https://zh.wikipedia.org/wiki/:en:Galatians_\(people\) "wikilink")[內爾維人三個在主戰役中新的可玩派系](https://zh.wikipedia.org/wiki/內爾維人 "wikilink")。
+2013/12/17推出，戰役背景設定為[高盧戰爭](../Page/高盧戰爭.md "wikilink")，以及包括[波伊人](https://zh.wikipedia.org/wiki/:en:Boii "wikilink")、[加拉太人及](https://zh.wikipedia.org/wiki/:en:Galatians_\(people\) "wikilink")[內爾維人三個在主戰役中新的可玩派系](https://zh.wikipedia.org/wiki/內爾維人 "wikilink")。
 
   - 〈漢尼拔臨門〉：
 
-27/3/2014推出，戰役背景設定為[布匿戰爭](https://zh.wikipedia.org/wiki/第二次布匿戰爭 "wikilink")，以及包括[阿雷瓦西人](https://zh.wikipedia.org/wiki/:en:Arevaci "wikilink")、[露西塔尼亞人兩個在主戰役中新的可玩派系](https://zh.wikipedia.org/wiki/:en:Lusitanians "wikilink")。
+2014/3/27推出，戰役背景設定為[布匿戰爭](https://zh.wikipedia.org/wiki/第二次布匿戰爭 "wikilink")，以及包括[阿雷瓦西人](https://zh.wikipedia.org/wiki/:en:Arevaci "wikilink")、[露西塔尼亞人兩個在主戰役中新的可玩派系](https://zh.wikipedia.org/wiki/:en:Lusitanians "wikilink")。
 
   - 〈君臨天下〉（免費）：
 
-16/9/2014推出，戰役背景設定為共和國晚期[後三頭內戰](https://zh.wikipedia.org/wiki/後三頭 "wikilink")，以及包括[亞美尼亞王國](../Page/亞美尼亞王國.md "wikilink")一個在主戰役中新的可玩派系。
+2014/9/16推出，戰役背景設定為共和國晚期[後三頭內戰](https://zh.wikipedia.org/wiki/後三頭 "wikilink")，以及包括[亞美尼亞王國](../Page/亞美尼亞王國.md "wikilink")一個在主戰役中新的可玩派系。
 
   - 〈斯巴達之怒〉：
 
-16/12/2014推出，戰役背景設定為[伯羅奔尼撒戰爭](https://zh.wikipedia.org/wiki/伯羅奔尼撒戰爭 "wikilink")。
+2014/12/16推出，戰役背景設定為[伯羅奔尼撒戰爭](https://zh.wikipedia.org/wiki/伯羅奔尼撒戰爭 "wikilink")。
 
   - 〈帝國分裂〉：
 
-30/11/2017推出，戰役背景設定為[三世紀危機時](https://zh.wikipedia.org/wiki/三世紀危機 "wikilink")[羅馬帝國](../Page/羅馬帝國.md "wikilink")的分裂與內戰，以及包括主戰役政治系統的重大重製更新。
+2017/11/30推出，戰役背景設定為[三世紀危機時](https://zh.wikipedia.org/wiki/三世紀危機 "wikilink")[羅馬帝國](../Page/羅馬帝國.md "wikilink")的分裂與內戰，以及包括主戰役政治系統的重大重製更新。
 
   - 〈共和國崛起〉
 
-9/8/2018推出，戰役背景設定為[王國及](https://zh.wikipedia.org/wiki/羅馬王國 "wikilink")[共和國時代早期的](https://zh.wikipedia.org/wiki/羅馬共和國 "wikilink")[羅馬-伊特魯里亞戰爭](https://zh.wikipedia.org/wiki/羅馬-伊特魯里亞戰爭 "wikilink")，以及包括重新引入其他全面戰爭遊戲的[家族譜系在內](https://zh.wikipedia.org/wiki/譜系圖 "wikilink")、主戰役家族系統的重大重製更新。
+2018/8/9推出，戰役背景設定為[王國及](https://zh.wikipedia.org/wiki/羅馬王國 "wikilink")[共和國時代早期的](https://zh.wikipedia.org/wiki/羅馬共和國 "wikilink")[羅馬-伊特魯里亞戰爭](https://zh.wikipedia.org/wiki/羅馬-伊特魯里亞戰爭 "wikilink")，以及包括重新引入其他全面戰爭遊戲的[家族譜系在內](https://zh.wikipedia.org/wiki/譜系圖 "wikilink")、主戰役家族系統的重大重製更新。
 
 ### 文化包
 
   - 希臘城邦文化包：
 
-3/9/2013推出，包括[雅典](../Page/雅典.md "wikilink")、[斯巴達](https://zh.wikipedia.org/wiki/斯巴達 "wikilink")、[伊庇魯斯三個在主戰役中新的可玩派系](https://zh.wikipedia.org/wiki/伊庇魯斯 "wikilink")。
+2013/9/3推出，包括[雅典](../Page/雅典.md "wikilink")、[斯巴達](https://zh.wikipedia.org/wiki/斯巴達 "wikilink")、[伊庇魯斯三個在主戰役中新的可玩派系](https://zh.wikipedia.org/wiki/伊庇魯斯 "wikilink")。
 
   - 遊牧民族文化包：
 
-22/10/2013推出，包括[馬薩革泰人](../Page/馬薩革泰人.md "wikilink")、[羅克索拉尼人及](https://zh.wikipedia.org/wiki/羅克索拉尼人 "wikilink")[斯基泰人](../Page/斯基泰人.md "wikilink")三個在主戰役中新的可玩派系。
+2013/10/22推出，包括[馬薩革泰人](../Page/馬薩革泰人.md "wikilink")、[羅克索拉尼人及](https://zh.wikipedia.org/wiki/羅克索拉尼人 "wikilink")[斯基泰人](../Page/斯基泰人.md "wikilink")三個在主戰役中新的可玩派系。
 
   - 巴爾幹部落文化包：
 
-29/5/2014推出，包括[阿狄艾人](https://zh.wikipedia.org/wiki/:en:Ardiaei "wikilink")、[奧狄西亞王國及](https://zh.wikipedia.org/wiki/:en:Odrysian_Kingdom "wikilink")[提里斯三個在主戰役中新的可玩派系](https://zh.wikipedia.org/wiki/:en:Tylis "wikilink")。
+2014/5/29推出，包括[阿狄艾人](https://zh.wikipedia.org/wiki/:en:Ardiaei "wikilink")、[奧狄西亞王國及](https://zh.wikipedia.org/wiki/:en:Odrysian_Kingdom "wikilink")[提里斯三個在主戰役中新的可玩派系](https://zh.wikipedia.org/wiki/:en:Tylis "wikilink")。
 
   - 黑海殖民地文化包：
 
-20/11/2014推出，包括[辛梅利亞](https://zh.wikipedia.org/wiki/辛梅里安人 "wikilink")、[科爾基斯](https://zh.wikipedia.org/wiki/科爾基斯 "wikilink")、[帕加馬三個在主戰役中新的可玩派系](https://zh.wikipedia.org/wiki/帕加馬 "wikilink")。
+2014/11/20推出，包括[辛梅利亞](https://zh.wikipedia.org/wiki/辛梅里安人 "wikilink")、[科爾基斯](https://zh.wikipedia.org/wiki/科爾基斯 "wikilink")、[帕加馬三個在主戰役中新的可玩派系](https://zh.wikipedia.org/wiki/帕加馬 "wikilink")。
 
 ### 外掛包
 
   - 血肉橫飛下載包：
 
-31/10/2013推出，為遊戲加添兵卒廝殺時血肉橫飛、斬首、肢解、穿刺等視覺特效。
+2013/10/31推出，為遊戲加添兵卒廝殺時血肉橫飛、斬首、肢解、穿刺等視覺特效。
 
   - 狂戰之獸下載包：
 
-17/2/2014推出，為遊戲加添若干諸如[戰象](../Page/戰象.md "wikilink")、[戰犬等動物兵種](https://zh.wikipedia.org/wiki/戰犬 "wikilink")。
+2014/2/17推出，為遊戲加添若干諸如[戰象](../Page/戰象.md "wikilink")、[戰犬等動物兵種](https://zh.wikipedia.org/wiki/戰犬 "wikilink")。
 
   - 四季奇蹟下載包：
 
-26/3/2014推出，為遊戲加添四季氣候變化及名勝古蹟對玩家造成的管理效果。
+2014/3/26推出，為遊戲加添四季氣候變化及名勝古蹟對玩家造成的管理效果。
 
   - 戰神之女下載包：
 
-15/8/2014推出，為遊戲加添若干諸如女[角鬥士](../Page/角鬥士.md "wikilink")等女性兵種。
+2014/8/15推出，為遊戲加添若干諸如女[角鬥士](../Page/角鬥士.md "wikilink")等女性兵種。
 
 ### 派系包（免費）
 
   - [本都](../Page/本都.md "wikilink")：
 
-3/9/2013推出。
+2013/9/3推出。
 
   - [塞琉古帝國](https://zh.wikipedia.org/wiki/塞琉古帝國 "wikilink")：
 
-18/10/2013推出。
+2013/10/18推出。
 
   - [大夏王國](https://zh.wikipedia.org/wiki/大夏王國 "wikilink")：
 
-5/12/2013推出。
+2013/12/5推出。
 
   - [蓋塔人](https://zh.wikipedia.org/wiki/:en:Getae "wikilink")：
 
-29/5/2014推出。
+2014/5/29推出。
 
   - [馬賽](https://zh.wikipedia.org/wiki/馬賽 "wikilink")：
 
-20/11/2014推出。
+2014/11/20推出。
 
 ## 評價
 
@@ -175,33 +175,23 @@
 [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:世嘉游戏](https://zh.wikipedia.org/wiki/Category:世嘉游戏 "wikilink") [Category:英國開發電子遊戲](https://zh.wikipedia.org/wiki/Category:英國開發電子遊戲 "wikilink") [Category:即时战术游戏](https://zh.wikipedia.org/wiki/Category:即时战术游戏 "wikilink") [Category:回合制策略遊戲](https://zh.wikipedia.org/wiki/Category:回合制策略遊戲 "wikilink") [Category:2013年电子游戏](https://zh.wikipedia.org/wiki/Category:2013年电子游戏 "wikilink") [Category:全面战争系列](https://zh.wikipedia.org/wiki/Category:全面战争系列 "wikilink") [Category:有追加下载内容的游戏](https://zh.wikipedia.org/wiki/Category:有追加下载内容的游戏 "wikilink")
 
 1.  <http://www.joystiq.com/2012/07/02/total-war-> rome-2-marches-to-pc-in-2013/
-
 2.  <http:/> /www.vg247.com/2013/09/03/total-war-rome-2-concurrent-players-peak-at-three-times-that-of-shogun-2/
-
 3.  <http://www.steamcharts.com/app/214950#7d>
-
 4.  <http://www.pcgamesn.com/> totalwar/total-war-rome-ii-trumps-shogun-ii-s-peak-number-players-three-times-over
-
 5.
 6.  [Total War: Rome II Fact Sheet](http://www.blogcdn.com/www.joystiq.com/media/2012/07/totalwartome2factsheet.jpg) BlogCDN-Joystiq. Retrieved 26 August 2012.
-
 7.  [Total War: Rome 2 will find homes for 117 factions, and might just run on your laptop](http://www.pcgamesn.com/totalwar/total-war-rome-2-will-find-homes-117-factions-and-might-just-run-your-laptop)PCGamesN. Retrieved 15 April 2013.
-
 8.   Thursten, Chris (2 July 2012). [Total War Rome 2 preview: every detail about the new engine, naval combat, multiplayer and mods](http://www.pcgamer.com/previews/total-war-rome-2-preview-every-detail-about-the-new-engine-naval-combat-multiplayer-and-mods/)Retrieved 7 July 2012.
-
 9.
 10.
 11. Onyett, Charles (12 July 2012).[Making a Bigger War in Rome 2](http://www.ign.com/articles/2012/07/13/making-a-bigger-war-in-rome-2)Retrieved 26 August 2012.
-
 12.
 13.
 14. Robinson, Joe (6 June 2013).[Total War Rome 2 Preview](http://www.strategyinformer.com/pc/totalwarromeii/1044/preview.html) [Strategy Game Informer](https://zh.wikipedia.org/wiki/Strategy_Game_Informer "wikilink"). Retrieved 7 June 2013.
-
 15.
 16.
 17.
 18. ["Jack Answers \[Updated with part 3\!\]".](http://forums.totalwar.com/showthread.php/72354-Jack-Answers)
-
 19.
 20.
 21.
@@ -212,9 +202,7 @@
 26.
 27.
 28. Clouse, Justin (5 September 2013).[Total War: Rome II Review - Si Vis Pacem, Para Bellum](http://www.escapistmagazine.com/articles/view/editorials/reviews/10575-Total-War-Rome-II-Review-Si-Vis-Pacem-Para-Bellum). The Escapist magazine. Retrieved 7 September 2013.
-
 29. Gil Almogi (2 September 2013). [Total War: Rome II Game Revolution review](http://www.gamerevolution.com/review/total-war-rome-ii). Retrieved 4 September 2013.
-
 30.
 31.
 32.

@@ -161,7 +161,7 @@ Kiha25型列車的[番台區分](../Page/番台區分.md "wikilink")方式以兩
 
 ## 運用方式
 
-在2011年3月12日改點之前的3月1日開始營運\[22\]，主要以武豐線全線（[大府](../Page/大府車站.md "wikilink")－[武豐](https://zh.wikipedia.org/wiki/武豐車站 "wikilink")）以及[東海道本線](../Page/東海道本線.md "wikilink")[名古屋到大府之間運行](https://zh.wikipedia.org/wiki/名古屋站 "wikilink")。而在這一次的改點當中，行駛在[關西本線](../Page/關西本線.md "wikilink")和[參宮線的](https://zh.wikipedia.org/wiki/參宮線 "wikilink")[Kiha75型柴聯車的快速](https://zh.wikipedia.org/wiki/JR東海Kiha75型柴聯車 "wikilink")「三重」從兩輛編組改為四輛編組，將一部分原先運行在武豐線的Kiha75型列車調用，因此以本形式列車作為替換。因此大部分的Kiha25型列車行駛主要以武豐線為主力。另外主要運行於東海道本線的區間快速列車，使用本形式的最高時速以及運行時間有所延長。
+在2011年3月12日改點之前的3月1日開始營運\[22\]，主要以武豐線全線（[大府](../Page/大府車站.md "wikilink")－[武豐](https://zh.wikipedia.org/wiki/武豐車站 "wikilink")）以及[東海道本線](../Page/東海道本線.md "wikilink")[名古屋到大府之間運行](../Page/名古屋站.md "wikilink")。而在這一次的改點當中，行駛在[關西本線](../Page/關西本線.md "wikilink")和[參宮線的](https://zh.wikipedia.org/wiki/參宮線 "wikilink")[Kiha75型柴聯車的快速](https://zh.wikipedia.org/wiki/JR東海Kiha75型柴聯車 "wikilink")「三重」從兩輛編組改為四輛編組，將一部分原先運行在武豐線的Kiha75型列車調用，因此以本形式列車作為替換。因此大部分的Kiha25型列車行駛主要以武豐線為主力。另外主要運行於東海道本線的區間快速列車，使用本形式的最高時速以及運行時間有所延長。
 
 武豐線預定在2015年度鐵路電氣化，電氣化之後計畫改為[高山本線](../Page/高山本線.md "wikilink")以及[太多線](../Page/太多線.md "wikilink")等地方線運用。
 
@@ -184,17 +184,12 @@ Kiha25型列車的[番台區分](../Page/番台區分.md "wikilink")方式以兩
 [Category:東海旅客鐵道車輛](https://zh.wikipedia.org/wiki/Category:東海旅客鐵道車輛 "wikilink") [Category:日本車輛製鐵路車輛](https://zh.wikipedia.org/wiki/Category:日本車輛製鐵路車輛 "wikilink")
 
 1.
-
 2.  《鐵道日報（）》第534號（2011年4月號），第94-95頁
-
 3.  《鐵道日報（）》第533號（2011年3月號），第146頁
-
 4.
 5.  《鐵道迷（）》第599號（2011年3月號），第54-56頁
-
 6.
 7.  《鐵道FAN（）》第601號（2011年5月號）
-
 8.
 9.
 10.
@@ -206,9 +201,7 @@ Kiha25型列車的[番台區分](../Page/番台區分.md "wikilink")方式以兩
 16.
 17.
 18.
-
 19.
-
 20.
 21.
 22.

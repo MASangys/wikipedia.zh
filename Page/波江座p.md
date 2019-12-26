@@ -55,6 +55,5 @@
 [Category:聯星](https://zh.wikipedia.org/wiki/Category:聯星 "wikilink") [Category:Solar-type_stars](https://zh.wikipedia.org/wiki/Category:Solar-type_stars "wikilink") [Category:拜耳天體](https://zh.wikipedia.org/wiki/Category:拜耳天體 "wikilink") [Category:Objects_within_100_ly_of_Earth](https://zh.wikipedia.org/wiki/Category:Objects_within_100_ly_of_Earth "wikilink") [Category:波江座](https://zh.wikipedia.org/wiki/Category:波江座 "wikilink") [Category:HD和HDE天體](https://zh.wikipedia.org/wiki/Category:HD和HDE天體 "wikilink") [Category:HR天體](https://zh.wikipedia.org/wiki/Category:HR天體 "wikilink") [Category:SAO天體](https://zh.wikipedia.org/wiki/Category:SAO天體 "wikilink") [Category:橙矮星](https://zh.wikipedia.org/wiki/Category:橙矮星 "wikilink")
 
 1.  [Our Astronomical Column, Nature, p.589, 19 April 1883](http://www.nature.com/nature/journal/v27/n703/pdf/027589a0.pdf)
-
 2.
 3.

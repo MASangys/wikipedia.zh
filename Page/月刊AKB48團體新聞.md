@@ -16,7 +16,7 @@
 
 ### 第二代
 
-自2019年1・2月合併號起，該報紙由原日刊體育演藝線記者瀨津真也（主跑AKB48集團）新成立的出版社「KimiBoku」接手製作\[5\]，發行工作則轉由[體育日本負責](https://zh.wikipedia.org/wiki/體育日本 "wikilink")。除了原有的販售通路之外，還新增在[日本亞馬遜](../Page/亚马逊日本.md "wikilink")、這兩個[網路購物平台販售](https://zh.wikipedia.org/wiki/網路購物 "wikilink")\[6\]\[7\]。報導主題上不再包括坂道系列，專注於AKB48集團旗下各團的報導及企劃單元。發行日移動至每月第4個星期五，同時調整為當月發行次月號（例如2019年3月號為2019年2月第4個星期五發行）。題字則去除「月刊」兩字改為「AKB48Group新聞」。
+自2019年1・2月合併號起，該報紙由原日刊體育演藝線記者瀨津真也（主跑AKB48集團）新成立的出版社「KimiBoku」接手製作\[5\]，發行工作則轉由[體育日本負責](https://zh.wikipedia.org/wiki/體育日本 "wikilink")。除了原有的販售通路之外，還新增在[日本亞馬遜](../Page/亚马逊日本.md "wikilink")、、等[網路購物平台販售](https://zh.wikipedia.org/wiki/網路購物 "wikilink")\[6\]\[7\]（7net shopping為稍後加入）。報導主題上不再包括坂道系列，專注於AKB48集團旗下各團的報導及企劃單元。發行日移動至每月第4個星期五，同時調整為當月發行次月號（例如2019年3月號為2019年2月第4個星期五發行）。題字則去除「月刊」兩字改為「AKB48Group新聞」。
 
 ## 備考
 
@@ -48,14 +48,9 @@
 [Category:AKB48家族](https://zh.wikipedia.org/wiki/Category:AKB48家族 "wikilink") [Category:坂道系列](https://zh.wikipedia.org/wiki/Category:坂道系列 "wikilink") [Category:日本報紙](https://zh.wikipedia.org/wiki/Category:日本報紙 "wikilink") [Category:2011年建立的出版物](https://zh.wikipedia.org/wiki/Category:2011年建立的出版物 "wikilink")
 
 1.  [](http://www.nikkansports.com/entertainment/news/p-et-tp0-20111216-874946.html)
-
 2.
 3.  [「月刊AKB48グループ新聞」創刊　巻頭は篠田麻里子](http://www.j-cast.com/2011/12/19116861.html)
-
 4.  [AKB48：今度は月刊新聞に 全国で35万部発行 創刊号表紙は篠田麻里子](https://archive.is/20130501214533/mantan-web.jp/2011/12/12/20111212dog00m200032000c.html)
-
 5.
-
 6.
-
 7.

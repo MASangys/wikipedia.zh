@@ -1,4 +1,4 @@
-《UNE ANNEE》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Apink](../Page/Apink.md "wikilink")於2012年5月9日發行的首張正規[專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。「UNE ANNEE」一詞源自[法語](https://zh.wikipedia.org/wiki/法語 "wikilink")「」，意為「一年」。
+《UNE ANNEE》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Apink](../Page/Apink.md "wikilink")於2012年5月9日發行的首張正規[專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。「UNE ANNEE」一詞源自[法語](https://zh.wikipedia.org/wiki/法語 "wikilink")「」，意為「一年」。本專輯的主打曲為《**Hush**》。
 
 ## 概要
 
@@ -20,12 +20,8 @@
 [Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink") [Category:Apink歌曲](https://zh.wikipedia.org/wiki/Category:Apink歌曲 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.

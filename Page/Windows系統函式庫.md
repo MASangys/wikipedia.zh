@@ -65,17 +65,11 @@ comctl32.dll主要提供各種標準視窗界面元件。它提供對話框如�
 [Category:微軟API](https://zh.wikipedia.org/wiki/Category:微軟API "wikilink") [Category:Windows组件](https://zh.wikipedia.org/wiki/Category:Windows组件 "wikilink") [Category:Microsoft_Windows](https://zh.wikipedia.org/wiki/Category:Microsoft_Windows "wikilink") [Category:Windows_NT](https://zh.wikipedia.org/wiki/Category:Windows_NT "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.  [Visual Studio Developer Center: Identifying Functions in DLLs](http://msdn.microsoft.com/en-us/library/31d242h4.aspx)
-
 8.
 9.  See also, the documentation for the [Wine](https://zh.wikipedia.org/wiki/Wine_\(emulator\) "wikilink") implementation of gdi32.dll: [Wine API: gdi32.dll](http://source.winehq.org/WineAPI/gdi32.html)

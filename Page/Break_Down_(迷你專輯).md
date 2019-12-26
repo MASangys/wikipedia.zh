@@ -72,28 +72,16 @@
 [Category:金賢重專輯](https://zh.wikipedia.org/wiki/Category:金賢重專輯 "wikilink") [Category:2011年迷你專輯](https://zh.wikipedia.org/wiki/Category:2011年迷你專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:华纳唱片音乐专辑](https://zh.wikipedia.org/wiki/Category:华纳唱片音乐专辑 "wikilink") [Category:2011年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Gaon專輯週榜冠軍作品 "wikilink") [Category:2011年Gaon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Gaon專輯月榜冠軍作品 "wikilink")
 
 1.
-
 2.
 3.  [韓國音樂網站統計年度銷量&數位榜TOP20](http://mypaper.pchome.com.tw/121786048/m/post/1322788463)
-
 4.  [日本ORICON進口專輯周榜7月4日公佈的雜誌節錄](http://stat.ameba.jp/user_images/20110714/20/lbh-ariel/7b/30/j/o0389036311350017589.jpg)
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12. date=2012-05-09 }} 2011年度Asian Top50 |access-date=2012-06-15 |archive-url=<https://web.archive.org/web/20120509134325/http://www.channelvthailand.com/v/v_news/asian-top-50-year-end-chart-2011/> |archive-date=2012-05-09 |dead-url=yes }}
-
 13.
-
 14.

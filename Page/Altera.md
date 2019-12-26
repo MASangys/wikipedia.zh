@@ -11,19 +11,12 @@
 [Category:英特爾](https://zh.wikipedia.org/wiki/Category:英特爾 "wikilink") [Category:聖荷西公司](https://zh.wikipedia.org/wiki/Category:聖荷西公司 "wikilink")
 
 1.   \[2015-10-25\]
-
 2.  Zacks Equity Research, NASDAQ. "[Altera Shipping 28-nm FPGAs](https://web.archive.org/web/20170911204820/http://www.nasdaq.com/article/altera-shipping-28nm-fpgas-analyst-blog-cm133782)." April 13, 2012. Retrieved May 8, 2012.
-
 3.  Source: \["Key Companies Shake Up This Year's Top Employers, *Electronic Design*\]
-
 4.
 5.
 6.  Richard Wilson, Electronics Weekly. "[ASSPs, ASICs will open doors for FPGAs - Altera v-p](http://www.electronicsweekly.com/Articles/18/10/2011/52060/assps-asics-will-open-doors-for-fpgas-altera-v-p.htm)." October 18, 2011. Retrieved June 6, 2012.
-
 7.  Clive Maxfield, EETimes. "[Altera's Quartus II design software features Qsys System Integration Tool](http://www.eetimes.com/electronics-products/electronic-product-reviews/fpga-pld-products/4215820/Altera-s-Quartus-II-design-software-features-Qsys-System-Integration-Tool)." May 9, 2011. Retrieved June 6, 2012.
-
 8.  Clive Maxfield, EETimes. "[Latest and greatest Quartus II design software from Altera](http://www.eetimes.com/electronics-products/electronic-product-reviews/fpga-pld-products/4230415/Latest-and-greatest-Quartus-II-design-software-from-Altera)." Nov 7, 2011. Retrieved June 6, 2012.
-
 9.
-
 10.

@@ -220,7 +220,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong>4th</strong></p></td>
-<td><p>第四張迷你專輯《 <strong><a href="https://zh.wikipedia.org/wiki/sleepless_in_" title="wikilink">sleepless in __________</a></strong>》</p>
+<td><p>第四張迷你專輯《 <strong><a href="https://zh.wikipedia.org/wiki/sleepless_in" title="wikilink">sleepless in __________</a></strong>》</p>
 <ul>
 <li>發行日期：2019年3月11日</li>
 <li>語言：韓語、英語</li>
@@ -1126,7 +1126,7 @@
 
 [Category:2003年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2003年成立的音樂團體 "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:Epik_High](https://zh.wikipedia.org/wiki/Category:Epik_High "wikilink") [Category:Mnet亞洲音樂大獎獲得者](https://zh.wikipedia.org/wiki/Category:Mnet亞洲音樂大獎獲得者 "wikilink")
 
-1.  <http://kpopn.com/2012/10/08/146897/>
+1.
 2.
 3.
 4.

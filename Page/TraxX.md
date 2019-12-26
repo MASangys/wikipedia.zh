@@ -265,4 +265,4 @@ LineData =
 
 [Category:SM娛樂](https://zh.wikipedia.org/wiki/Category:SM娛樂 "wikilink") [Category:韓國演唱團體](https://zh.wikipedia.org/wiki/Category:韓國演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2004年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2004年成立的音樂團體 "wikilink")
 
-1.  [韓國視覺搖滾樂團 TRAX-成員介紹](http://kpopn.com/2012/04/03/114244/)；kpopn 2012年04月03日
+1.  [韓國視覺搖滾樂團 TRAX-成員介紹](http://kpopn.com/2012/04/03/114244/) ；kpopn 2012年04月03日

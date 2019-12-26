@@ -299,17 +299,10 @@
 [Category:金奎鐘專輯](https://zh.wikipedia.org/wiki/Category:金奎鐘專輯 "wikilink") [Category:2012年迷你專輯](https://zh.wikipedia.org/wiki/Category:2012年迷你專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:华纳唱片音乐专辑](https://zh.wikipedia.org/wiki/Category:华纳唱片音乐专辑 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.

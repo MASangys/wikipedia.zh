@@ -179,7 +179,7 @@ Hero</p></td>
   - [台北車站](https://zh.wikipedia.org/wiki/台北車站 "wikilink")
   - [中正紀念堂](../Page/中正紀念堂.md "wikilink")
   - [夢時代](https://zh.wikipedia.org/wiki/夢時代 "wikilink")
-  - [新時代](https://zh.wikipedia.org/wiki/新時代購物中心 "wikilink")
+  - [新時代](../Page/大魯閣新時代購物中心.md "wikilink")
   - [臺中市政府大樓及府前廣場](https://zh.wikipedia.org/wiki/臺中市政府大樓 "wikilink")
   - 台中大肚山
   - 台中高鐵橋下公園
@@ -321,7 +321,7 @@ Hero</p></td>
   -
   -
   -
-[Category:導演處女作](https://zh.wikipedia.org/wiki/Category:導演處女作 "wikilink") [Category:臺灣BBS](https://zh.wikipedia.org/wiki/Category:臺灣BBS "wikilink") [Category:社群媒體題材作品](https://zh.wikipedia.org/wiki/Category:社群媒體題材作品 "wikilink") [Category:臺灣真人真事改編電影](https://zh.wikipedia.org/wiki/Category:臺灣真人真事改編電影 "wikilink") [Category:桃園縣取景電影](https://zh.wikipedia.org/wiki/Category:桃園縣取景電影 "wikilink") [Category:臺中市取景電影](https://zh.wikipedia.org/wiki/Category:臺中市取景電影 "wikilink") [Category:高雄市取景電影](https://zh.wikipedia.org/wiki/Category:高雄市取景電影 "wikilink") [Category:台灣取景電影](https://zh.wikipedia.org/wiki/Category:台灣取景電影 "wikilink") [Category:台灣動畫電影](https://zh.wikipedia.org/wiki/Category:台灣動畫電影 "wikilink") [Category:2010年代台灣電影作品](https://zh.wikipedia.org/wiki/Category:2010年代台灣電影作品 "wikilink") [Category:20世紀福斯電影](https://zh.wikipedia.org/wiki/Category:20世紀福斯電影 "wikilink") [Category:林世勇電影](https://zh.wikipedia.org/wiki/Category:林世勇電影 "wikilink")
+[Category:導演處女作](https://zh.wikipedia.org/wiki/Category:導演處女作 "wikilink") [Category:臺灣BBS](https://zh.wikipedia.org/wiki/Category:臺灣BBS "wikilink") [Category:社群媒體題材作品](https://zh.wikipedia.org/wiki/Category:社群媒體題材作品 "wikilink") [Category:臺灣真人真事改編電影](https://zh.wikipedia.org/wiki/Category:臺灣真人真事改編電影 "wikilink") [Category:桃園市取景電影](https://zh.wikipedia.org/wiki/Category:桃園市取景電影 "wikilink") [Category:臺中市取景電影](https://zh.wikipedia.org/wiki/Category:臺中市取景電影 "wikilink") [Category:高雄市取景電影](https://zh.wikipedia.org/wiki/Category:高雄市取景電影 "wikilink") [Category:台灣取景電影](https://zh.wikipedia.org/wiki/Category:台灣取景電影 "wikilink") [Category:台灣動畫電影](https://zh.wikipedia.org/wiki/Category:台灣動畫電影 "wikilink") [Category:2012年臺灣電影](https://zh.wikipedia.org/wiki/Category:2012年臺灣電影 "wikilink") [Category:20世紀福斯電影](https://zh.wikipedia.org/wiki/Category:20世紀福斯電影 "wikilink") [Category:林世勇電影](https://zh.wikipedia.org/wiki/Category:林世勇電影 "wikilink")
 
 1.  [「雜談」 BBS鄉民的正義－PTT相關用語解釋說明](http://home.gamer.com.tw/creationDetail.php?sn=601773)
 2.  [導演碎碎唸時間 0727 關於故事緣起](http://woodman.kusos.com/2012/07/bbs-0727.html)

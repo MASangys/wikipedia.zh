@@ -1,4 +1,4 @@
-**昌西号驱逐舰（[舷号DD](../Page/美国海军通用舰船分类符号.md "wikilink")-3)** （最初编号为Destroyer No. 3） 是一艘[美国海军](https://zh.wikipedia.org/wiki/美国海军 "wikilink")[班布里奇級驅逐艦](../Page/班布里奇級驅逐艦.md "wikilink")，以纪念美国海军[艾萨克·昌西](https://zh.wikipedia.org/wiki/艾萨克·昌西 "wikilink")[准将](https://zh.wikipedia.org/wiki/准将 "wikilink")。
+**昌西号驱逐舰（[舷号DD](../Page/美国海军通用舰船分类符号.md "wikilink")-3）** （最初编号为Destroyer No. 3） 是一艘[美国海军](https://zh.wikipedia.org/wiki/美国海军 "wikilink")[班布里奇級驅逐艦](../Page/班布里奇級驅逐艦.md "wikilink")，以纪念美国海军[艾萨克·昌西](https://zh.wikipedia.org/wiki/艾萨克·昌西 "wikilink")[准将](https://zh.wikipedia.org/wiki/准将 "wikilink")。
 
 ## 建造
 
@@ -23,4 +23,4 @@
 ## 参考资料
 
   -
-[Category:班布里奇级驱逐舰](https://zh.wikipedia.org/wiki/Category:班布里奇级驱逐舰 "wikilink") [Category:美国一战驱逐舰](https://zh.wikipedia.org/wiki/Category:美国一战驱逐舰 "wikilink") [Category:宾夕法尼亚州建造的船只](https://zh.wikipedia.org/wiki/Category:宾夕法尼亚州建造的船只 "wikilink") [Category:纳菲尔-利维建造的船只](https://zh.wikipedia.org/wiki/Category:纳菲尔-利维建造的船只 "wikilink") [Category:1901年下水的船只](https://zh.wikipedia.org/wiki/Category:1901年下水的船只 "wikilink") [Category:1917年的海上事故](https://zh.wikipedia.org/wiki/Category:1917年的海上事故 "wikilink") [Category:1903年竣工的船只](https://zh.wikipedia.org/wiki/Category:1903年竣工的船只 "wikilink")
+[Category:班布里奇级驱逐舰](https://zh.wikipedia.org/wiki/Category:班布里奇级驱逐舰 "wikilink") [Category:美国一战驱逐舰](https://zh.wikipedia.org/wiki/Category:美国一战驱逐舰 "wikilink") [Category:宾夕法尼亚州建造的船只](https://zh.wikipedia.org/wiki/Category:宾夕法尼亚州建造的船只 "wikilink") [Category:纳菲尔-利维建造的船只](https://zh.wikipedia.org/wiki/Category:纳菲尔-利维建造的船只 "wikilink") [Category:1901年下水](https://zh.wikipedia.org/wiki/Category:1901年下水 "wikilink") [Category:1917年的海上事故](https://zh.wikipedia.org/wiki/Category:1917年的海上事故 "wikilink")

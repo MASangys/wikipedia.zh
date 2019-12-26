@@ -58,11 +58,11 @@
 ## 外部連結
 
   - 波麗佳音介紹網站
-      - [初回限定盤A](http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=201100002075&DSP_SKHKETSEQ=001)
-      - [初回限定盤B](http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=201100002075&DSP_SKHKETSEQ=002)
+      - [初回限定盤A](https://web.archive.org/web/20140418092423/http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=201100002075&DSP_SKHKETSEQ=001)
+      - [初回限定盤B](https://web.archive.org/web/20140418091133/http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=201100002075&DSP_SKHKETSEQ=002)
       - [初回限定盤C](https://web.archive.org/web/20140418150843/http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=201100002075&DSP_SKHKETSEQ=003)
-      - [初回限定盤D](http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=201100002075&DSP_SKHKETSEQ=004)
-      - [通常盤](http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=201100002075&DSP_SKHKETSEQ=005)
+      - [初回限定盤D](https://web.archive.org/web/20140418092451/http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=201100002075&DSP_SKHKETSEQ=004)
+      - [通常盤](https://web.archive.org/web/20140418090557/http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=201100002075&DSP_SKHKETSEQ=005)
 
 [Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink") [Category:Sexy_Zone歌曲](https://zh.wikipedia.org/wiki/Category:Sexy_Zone歌曲 "wikilink") [Category:富士電視台節目主題曲](https://zh.wikipedia.org/wiki/Category:富士電視台節目主題曲 "wikilink") [Category:波麗佳音歌曲](https://zh.wikipedia.org/wiki/Category:波麗佳音歌曲 "wikilink") [Category:2011年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Oricon單曲週榜冠軍作品 "wikilink") [Category:2011年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2011年Japan_Hot_100冠軍歌曲 "wikilink") [Category:NHK紅白歌合戰演唱歌曲](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰演唱歌曲 "wikilink")
 

@@ -86,45 +86,28 @@ MSMC的競爭對手之一就是[IMI Tavor TAR-21](../Page/IMI_TAR-21突擊步槍
 [Category:衝鋒槍](https://zh.wikipedia.org/wiki/Category:衝鋒槍 "wikilink") [Category:衝鋒手槍](https://zh.wikipedia.org/wiki/Category:衝鋒手槍 "wikilink") [Category:包絡式槍機衝鋒槍](https://zh.wikipedia.org/wiki/Category:包絡式槍機衝鋒槍 "wikilink") [Category:印度轻武器](https://zh.wikipedia.org/wiki/Category:印度轻武器 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
 8.
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
 15.
 16.
-
 17.
-
 18.
-
-19. <http://drdo.gov.in/drdo/pub/nl/2013/NL_Nov_2013_web.pdf>
-
+19.
 20.
-
 21.
 22.
 23.
-
 24.
 25.
 26.

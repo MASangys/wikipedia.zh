@@ -93,20 +93,13 @@ WTFPL很少被使用——至少从使用该名称来看，但也有一些软件
 
 1.
 2.  [2000年3月1.0版](http://www.google.com/codesearch?hl=en&q=wtfpl+show:g4zb44bMtMQ:okSYrUiE3pk:V2KrzwlAdBI&sa=N&cd=80&ct=rc&cs_p=http://ftp.debian.org/debian/pool/main/n/nonlock/nonlock_1.7.orig.tar.gz&cs_f=nonlock-1.7.orig/COPYING.WTFPL) <sup>[副本](http://www.google.com/codesearch/p?hl=en#DWZnTKPZn18/COPYING.WTFPL&q=wtfpl%202000&sa=N&cd=1&ct=rc)</sup>
-
 3.  译者注：此处姓名是泰语名的英语转录形式，尚缺中文翻译。
-
 4.  [Window Maker WTFPL](http://freeware.sgi.com/Installable/WindowMaker-0.80.2.html)
-
 5.
-
 6.
 7.
 8.
 9.
-
 10.
-
 11.
-
 12.

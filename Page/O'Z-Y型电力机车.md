@@ -47,18 +47,11 @@ O'Z-Y型电力机车装载了西门子交通集团开发的“SIBAS 32”[-{zh-h
 [Category:乌兹别克斯坦电力机车](https://zh.wikipedia.org/wiki/Category:乌兹别克斯坦电力机车 "wikilink") [Category:中国出口电力机车](https://zh.wikipedia.org/wiki/Category:中国出口电力机车 "wikilink") [Category:中车株机制铁路机车](https://zh.wikipedia.org/wiki/Category:中车株机制铁路机车 "wikilink") [Category:西门子制铁路机车](https://zh.wikipedia.org/wiki/Category:西门子制铁路机车 "wikilink") [Category:Co-Co軸式機車](https://zh.wikipedia.org/wiki/Category:Co-Co軸式機車 "wikilink") [Category:25千伏50赫兹交流电力机车](https://zh.wikipedia.org/wiki/Category:25千伏50赫兹交流电力机车 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
 9.

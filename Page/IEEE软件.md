@@ -4,6 +4,6 @@ IEEE软件的目标读者包括软件专业人士、商业分析师、需求工�
 
 ## 外部链接
 
-  - [主页](http://www.computer.org/portal/web/software/home)
+  - [主页](https://web.archive.org/web/20120507132340/http://www.computer.org/portal/web/software/home)
 
 [Category:IEEE學術期刊](https://zh.wikipedia.org/wiki/Category:IEEE學術期刊 "wikilink") [Category:计算机科学期刊](https://zh.wikipedia.org/wiki/Category:计算机科学期刊 "wikilink")

@@ -24,94 +24,132 @@ Z對抗不斷湧上的海軍們，當然其中包含他以前學生，不過黃�
 
 #### 草帽海賊團
 
-| 角色名稱                                                             | 配音員                                                       |
-| ---------------------------------------------------------------- | --------------------------------------------------------- |
-| 日本                                                               | 臺灣                                                        |
-| '''[蒙其·D·魯夫](../Page/蒙其·D·魯夫.md "wikilink")                      | [田中真弓](../Page/田中真弓.md "wikilink")                        |
-| '''[羅羅亞·索隆](../Page/羅羅亞·索隆.md "wikilink")                        | [中井和哉](../Page/中井和哉.md "wikilink")                        |
-| '''[娜美](../Page/娜美.md "wikilink")                                | [岡村明美](../Page/岡村明美.md "wikilink")                        |
-| '''[騙人布](../Page/騙人布.md "wikilink")                              | [山口勝平](../Page/山口勝平.md "wikilink")                        |
-| '''[賓什莫克·香吉士](https://zh.wikipedia.org/wiki/賓什莫克·香吉士 "wikilink") | [平田廣明](../Page/平田廣明.md "wikilink")                        |
-| '''[多尼多尼·喬巴](../Page/多尼多尼·喬巴.md "wikilink")                      | [大谷育江](../Page/大谷育江.md "wikilink")                        |
-| '''[妮可·羅賓](../Page/妮可·羅賓.md "wikilink")                          | [山口由里子](../Page/山口由里子.md "wikilink")                      |
-| '''[佛朗基](../Page/佛朗基.md "wikilink")                              | [矢尾一樹](../Page/矢尾一樹.md "wikilink")                        |
-| '''[布魯克](../Page/布魯克_\(ONE_PIECE\).md "wikilink")                | [長](https://zh.wikipedia.org/wiki/長_\(日本配音員\) "wikilink") |
-
-#### [海軍](../Page/海軍_\(ONE_PIECE\).md "wikilink")
-
-大部分的知名海軍將領，全都被捷風教導過。被召集出席討伐新海軍會議，並受上層之命令前往討伐新海軍。看著自己的恩師捷風生命走到最後，神情亦表現哀傷。
-
 <table>
 <thead>
 <tr class="header">
 <th><p>角色名稱</p></th>
 <th><p>配音員</p></th>
-<th><p>簡介與備注</p></th>
+<th><p>角色簡介</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>日本</p></td>
-<td><p>臺灣</p></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>'''「青雉」庫山</p></td>
-<td><p><a href="../Page/子安武人.md" title="wikilink">子安武人</a></p></td>
-<td><p><a href="../Page/孫中台.md" title="wikilink">孫中台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/草帽海賊團" title="wikilink">草帽海賊團</a></p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td><p>'''「黃猿」波爾薩利諾</p></td>
-<td><p><a href="../Page/石塚運昇.md" title="wikilink">石塚運昇</a></p></td>
-<td><p><a href="../Page/符爽.md" title="wikilink">符爽</a></p></td>
-</tr>
-<tr class="even">
-<td><p>'''「赤犬」盃</p></td>
-<td><p><a href="../Page/立木文彦.md" title="wikilink">立木文彦</a></p></td>
-<td><p><a href="../Page/宋克軍.md" title="wikilink">宋克軍</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>'''「英雄」蒙其·D·卡普</p></td>
-<td><p><a href="../Page/中博史.md" title="wikilink">中博史</a></p></td>
-<td><p><a href="../Page/孫中台.md" title="wikilink">孫中台</a></p></td>
-</tr>
-<tr class="even">
-<td><p>'''「佛」之戰國</p></td>
-<td><p><a href="../Page/石森達幸.md" title="wikilink">石森達幸</a></p></td>
-<td><p><a href="../Page/宋克軍.md" title="wikilink">宋克軍</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>'''鶴</p></td>
-<td><p><a href="../Page/松島實.md" title="wikilink">松島實</a></p></td>
+<td><p><a href="../Page/蒙其·D·魯夫.md" title="wikilink">蒙其·D·魯夫</a></p></td>
+<td><p><a href="../Page/田中真弓.md" title="wikilink">田中真弓</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/詹雅菁" title="wikilink">詹雅菁</a></p></td>
 </tr>
 <tr class="even">
-<td><p>'''克比</p></td>
-<td><p><a href="../Page/土井美加.md" title="wikilink">土井美加</a></p></td>
+<td><p><a href="../Page/羅羅亞·索隆.md" title="wikilink">羅羅亞·索隆</a></p></td>
+<td><p><a href="../Page/中井和哉.md" title="wikilink">中井和哉</a></p></td>
 <td><p><a href="../Page/宋克軍.md" title="wikilink">宋克軍</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>'''貝魯梅柏</p></td>
+<td><p><a href="../Page/娜美.md" title="wikilink">娜美</a></p></td>
+<td><p><a href="../Page/岡村明美.md" title="wikilink">岡村明美</a></p></td>
+<td><p><a href="../Page/許淑嬪.md" title="wikilink">許淑嬪</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/騙人布.md" title="wikilink">騙人布</a></p></td>
+<td><p><a href="../Page/山口勝平.md" title="wikilink">山口勝平</a></p></td>
+<td><p><a href="../Page/符爽.md" title="wikilink">符爽</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/賓什莫克·香吉士" title="wikilink">賓什莫克·香吉士</a></p></td>
+<td><p><a href="../Page/平田廣明.md" title="wikilink">平田廣明</a></p></td>
+<td><p><a href="../Page/孫中台.md" title="wikilink">孫中台</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/多尼多尼·喬巴.md" title="wikilink">多尼多尼·喬巴</a></p></td>
+<td><p><a href="../Page/大谷育江.md" title="wikilink">大谷育江</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/詹雅菁" title="wikilink">詹雅菁</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/妮可·羅賓.md" title="wikilink">妮可·羅賓</a></p></td>
+<td><p><a href="../Page/山口由里子.md" title="wikilink">山口由里子</a></p></td>
+<td><p><a href="../Page/許淑嬪.md" title="wikilink">許淑嬪</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/佛朗基.md" title="wikilink">佛朗基</a></p></td>
+<td><p><a href="../Page/矢尾一樹.md" title="wikilink">矢尾一樹</a></p></td>
+<td><p><a href="../Page/符爽.md" title="wikilink">符爽</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/布魯克_(ONE_PIECE).md" title="wikilink">布魯克</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/長_(日本配音員)" title="wikilink">長</a></p></td>
+<td><p><a href="../Page/宋克軍.md" title="wikilink">宋克軍</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/海軍_(ONE_PIECE).md" title="wikilink">海軍</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/青雉" title="wikilink">青雉</a></p></td>
+<td><p><a href="../Page/子安武人.md" title="wikilink">子安武人</a></p></td>
+<td><p><a href="../Page/孫中台.md" title="wikilink">孫中台</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/黃猿" title="wikilink">黃猿</a></p></td>
+<td><p><a href="../Page/石塚運昇.md" title="wikilink">石塚運昇</a></p></td>
+<td><p><a href="../Page/符爽.md" title="wikilink">符爽</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/赤犬" title="wikilink">赤犬</a></p></td>
+<td><p><a href="../Page/立木文彦.md" title="wikilink">立木文彦</a></p></td>
+<td><p><a href="../Page/宋克軍.md" title="wikilink">宋克軍</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/海軍_(ONE_PIECE)#蒙其·D·卡普" title="wikilink">蒙其·D·卡普</a></p></td>
+<td><p><a href="../Page/中博史.md" title="wikilink">中博史</a></p></td>
+<td><p><a href="../Page/孫中台.md" title="wikilink">孫中台</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/海軍_(ONE_PIECE)#戰國" title="wikilink">戰國</a></p></td>
+<td><p><a href="../Page/石森達幸.md" title="wikilink">石森達幸</a></p></td>
+<td><p><a href="../Page/宋克軍.md" title="wikilink">宋克軍</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/海軍_(ONE_PIECE)#阿鶴" title="wikilink">鶴中將</a></p></td>
+<td><p><a href="../Page/松島實.md" title="wikilink">松島實</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/詹雅菁" title="wikilink">詹雅菁</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/海軍_(ONE_PIECE)#克比" title="wikilink">克比上校</a></p></td>
+<td><p><a href="../Page/土井美加.md" title="wikilink">土井美加</a></p></td>
+<td><p><a href="../Page/宋克軍.md" title="wikilink">宋克軍</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/海軍_(ONE_PIECE)#貝魯梅柏" title="wikilink">貝魯梅柏少校</a></p></td>
 <td></td>
 <td><p><a href="../Page/符爽.md" title="wikilink">符爽</a></p></td>
 </tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/海軍_(ONE_PIECE)#斯摩格" title="wikilink">斯摩格中將</a></p></td>
+<td><p>colspan="2" rowspan="3" </p></td>
+<td><p>在劇中出席討伐新海軍的會議。</p></td>
+</tr>
 <tr class="even">
-<td><p>'''斯摩格</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/海軍_(ONE_PIECE)#達絲琪" title="wikilink">達絲琪上校</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>'''達絲琪</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/海軍_(ONE_PIECE)#希娜" title="wikilink">希娜少將</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>'''希娜</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>'''</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/海軍_(ONE_PIECE)#基文" title="wikilink">基文</a></p></td>
 <td><p><a href="../Page/高木俊.md" title="wikilink">高木俊</a></p></td>
 <td><p><a href="../Page/符爽.md" title="wikilink">符爽</a></p></td>
 </tr>
@@ -128,7 +166,7 @@ Z對抗不斷湧上的海軍們，當然其中包含他以前學生，不過黃�
     聲優：[大塚芳忠](../Page/大塚芳忠.md "wikilink")、[鈴木真仁](../Page/鈴木真仁.md "wikilink")（日本）；[曹冀魯](../Page/曹冀魯.md "wikilink")、[劉如蘋](../Page/劉如蘋.md "wikilink")／[孫中台](../Page/孫中台.md "wikilink")（台灣）
     本作另一位的主角。
     「新海軍」總帥。74歲（已故），身高384公分\[5\]。原隸屬海軍本部，軍階上將，退休後擔任海軍新兵指導員。擅長用**「[武裝色霸氣](https://zh.wikipedia.org/wiki/霸氣_\(ONE_PIECE\) "wikilink")」**硬化增強兩隻手臂，因而得到**「黑腕」捷風**的稱號。一生當中討伐無數海賊，卻沒殺死過任何一個敵人，因而擁有**「不殺」**的稱號。武器是生化機械右臂「毀滅者」。
-    海軍本部極少數的傳說之人，幼年很崇拜英雄，與卡普、戰國同期的海兵。有著深紫色的刺蝟頭，帶著墨鏡嘴邊叼昆布的壯碩老頭。因為心肺功能較為衰弱，隨身都會佩帶呼吸器，預防劇烈戰鬥後產生的身體不適。
+    海軍本部極少數的傳說之人，幼年很崇拜英雄，與卡普、戰國、鶴同期的海兵。有著深紫色的刺蝟頭，帶著墨鏡嘴邊叼昆布的壯碩老頭。因為心肺功能較為衰弱，隨身都會佩帶呼吸器，預防劇烈戰鬥後產生的身體不適。
     現今海軍勢力中的優秀人才，皆為他所培育。因對海軍的政策不信任，讓捷風對海軍絕望，進而退出海軍，成立新海軍。捷風堅持著自己的信念，用他小時候假扮的英雄「Z」此一稱號，作為新海軍將領的名義，引爆3個終結點，藉此消滅「新世界」來結束大海賊時代。
     為了執行消滅「新世界」全海賊的計畫，率領著「新海軍」潛入「浮士島」的海軍基地奪取「原動石」，並與保衛基地的海軍上將黃猿大打出手，最後順利奪走「原動石」，亦將其第一終結點先行毀壞。不過他本人也身負重傷在海上漂流，被航行中的草帽海賊團救起。
     在他醒來後馬上就看出魯夫是這艘船的領導人，並讚賞喬巴精湛的醫術。但談話中得知魯夫是海賊後便發起了攻擊。與魯夫、索隆、香吉士等人交戰，把他們逼至絕境，後來從魯夫眼中看到不屈的精神，最後沒將草帽一行人趕盡殺絕。
@@ -151,7 +189,7 @@ Z對抗不斷湧上的海軍們，當然其中包含他以前學生，不過黃�
 
 :\*【35歲】孩子出生。
 
-:\*【42歲】全家妻小被海賊殺害，開始憎恨海賊，而後提出辭呈，卻被長官說服留在海軍，後由上將轉任海軍新兵指導員，赤犬（22歲）和黃猿（24歲）加入海軍（一期生），這時候的兩位已嶄露頭角，已是「怪物」。
+:\*【42歲】全家妻小被海賊殺害，開始憎恨海賊，而後提出辭呈，卻被長官說服留在海軍，後由上將轉任海軍新兵指導員，赤犬（23歲）和黃猿（26歲）加入海軍（一期生），這時候的兩位已嶄露頭角，已是「怪物」。
 
 :\*【44歲】青雉（19歲）加入海軍（三期生）。以下一代年輕英雄為目標培養出大海賊時代中有名望的海軍將領，幾乎所有現為中將階級以上的將領都是他的學生，因此是所有海軍的老師，大家也都尊稱他「捷風老師」。
 
@@ -792,93 +830,53 @@ Z對抗不斷湧上的海軍們，當然其中包含他以前學生，不過黃�
 [Category:ONE_PIECE劇場版](https://zh.wikipedia.org/wiki/Category:ONE_PIECE劇場版 "wikilink") [Category:2012年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2012年日本劇場動畫 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.  《ONE PIECE》第千卷。
-
 6.
-
 7.
 8.
 9.
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
 19.
 20.
 21.
-
 22.
-
 23.
 24.
 25.
 26.
-
 27.
-
 28.
 29. [《航海王電影：Z》魯夫聲優 田中真弓 1 月將來台參與首映會](https://gnn.gamer.com.tw/3/74613.html)
-
 30. [《航海王電影：Z》台灣首映會 魯夫、騙人布聲優現身劇院與觀眾見面](https://gnn.gamer.com.tw/1/75821.html)
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36. "One Piece Film: Z\]"
-
 37.
-
 38. [《航海王電影：Z》台灣票房突破 2000 萬 榮登近年日片在台開片票房之最](https://gnn.gamer.com.tw/7/76187.html)
-
 39. [航海王台灣票房 飆破5,000萬](http://www.chinatimes.com/newspapers/20130821000062-260202)
-
 40. [第36回日本アカデミー賞](http://www.japan-academy-prize.jp/prizes/36.html)日本アカデミー賞公式サイト
-
 41.
-
 42.
-
 43.
-
 44.
-
 45.
-
 46.
-
 47.
-
 48.
-
 49. [《航海王電影：Z》郵票典藏組將於動漫節首賣](https://gnn.gamer.com.tw/7/76557.html)
-
 50.
-
 51.

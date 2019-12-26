@@ -11,10 +11,10 @@
   - 《[神燈女僕！](https://zh.wikipedia.org/wiki/神燈女僕！ "wikilink")》（刊載於『[月刊Comic Alive](../Page/月刊Comic_Alive.md "wikilink")』2007年5月號至2009年4月號上、原作者為[夏綠](../Page/夏綠.md "wikilink")）
       - 全3巻（刊載於『・アライブシリーズ』）
   - 《[輕鬆百合](../Page/輕鬆百合.md "wikilink")》（初載於『』Vol.5 - Vol.14休刊為止，後轉至『[コミック百合姫](https://zh.wikipedia.org/wiki/コミック百合姫 "wikilink")』2011年1月号繼續連載，持續連載中）
-      - 既刊16巻（、2018年1月現在）
+      - 既刊17巻（、2019年8月現在）
   - 《りせっと\!》（初載於 Vol.1，持續連載中）※Vol.4以降休載中
   - 《大室家》（初載於『[niconico静画](https://zh.wikipedia.org/wiki/niconico "wikilink")』2012年7月2日）
-      - 既刊2巻（百合姫コミックス）
+      - 既刊3巻（百合姫コミックス）
   - 《ゆりゆり》（此乃同名同人誌（包括『あふたー』）的單行本化）
       - 全1巻（由『百合姫コミックス』出版）
 
@@ -70,17 +70,11 @@
 [Category:日本漫画家](https://zh.wikipedia.org/wiki/Category:日本漫画家 "wikilink") [Category:日本插畫家](https://zh.wikipedia.org/wiki/Category:日本插畫家 "wikilink") [Category:富山縣出身人物](https://zh.wikipedia.org/wiki/Category:富山縣出身人物 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
 
 1.  取自《[リセットな彼女](https://zh.wikipedia.org/wiki/リセットな彼女 "wikilink")》封面折疊上個人檔案的部份。
-
 2.
-
 3.  《コミック百合姫2011年3月号・himecafe対談》
-
 4.  《コミック百合姫2011年3月号・himecafe対談》
-
 5.
 6.
 7.  [「ゆるゆり」なもりがニュータイプで作画行程を紹介](http://natalie.mu/comic/news/56328)，取自[Natalie](../Page/Natalie_\(網站\).md "wikilink")，其相關內容發佈於2011年9月10日，文章閲覧於2011年9月19日。
-
 8.
-
 9.

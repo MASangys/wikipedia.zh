@@ -88,4 +88,4 @@
 
 [Category:2012年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Gaon專輯週榜冠軍作品 "wikilink") [Category:f(x)音樂專輯](https://zh.wikipedia.org/wiki/Category:f\(x\)音樂專輯 "wikilink") [Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:2012年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Gaon數位下載週榜冠軍作品 "wikilink")
 
-1.  \[<http://www.gaonchart.co.kr/main/section/total/other.list.gaon> Gaonchart
+1.  \[<http://www.gaonchart.co.kr/main/section/total/other.list.gaon>  Gaonchart

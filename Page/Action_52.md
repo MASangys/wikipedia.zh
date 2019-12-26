@@ -66,31 +66,19 @@ MegaDrive版的《Action 52》則將遊戲以難易度、以及是否可倆人�
 [Category:1991年電子遊戲](https://zh.wikipedia.org/wiki/Category:1991年電子遊戲 "wikilink") [Category:電子遊戲合輯](https://zh.wikipedia.org/wiki/Category:電子遊戲合輯 "wikilink") [Category:红白机游戏](https://zh.wikipedia.org/wiki/Category:红白机游戏 "wikilink") [Category:Mega_Drive遊戲](https://zh.wikipedia.org/wiki/Category:Mega_Drive遊戲 "wikilink") [Category:制作中止的超级任天堂游戏](https://zh.wikipedia.org/wiki/Category:制作中止的超级任天堂游戏 "wikilink") [Category:美國開發電子遊戲](https://zh.wikipedia.org/wiki/Category:美國開發電子遊戲 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
 9.
-
 10.
-
 11.
 12.
 13.
-
 14.
-
 15.
-
 16.
-
 17.

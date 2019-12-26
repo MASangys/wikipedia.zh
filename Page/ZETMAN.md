@@ -256,5 +256,4 @@
 [Category:桂正和](https://zh.wikipedia.org/wiki/Category:桂正和 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:科幻漫畫](https://zh.wikipedia.org/wiki/Category:科幻漫畫 "wikilink") [Category:超级英雄](https://zh.wikipedia.org/wiki/Category:超级英雄 "wikilink") [Category:週刊YOUNG_JUMP](https://zh.wikipedia.org/wiki/Category:週刊YOUNG_JUMP "wikilink") [Category:週刊少年Jump連載作品](https://zh.wikipedia.org/wiki/Category:週刊少年Jump連載作品 "wikilink") [Category:2012年UHF動畫](https://zh.wikipedia.org/wiki/Category:2012年UHF動畫 "wikilink") [Category:TMS_Entertainment](https://zh.wikipedia.org/wiki/Category:TMS_Entertainment "wikilink")
 
 1.
-
 2.

@@ -1416,13 +1416,9 @@
 [Category:富士見書房](https://zh.wikipedia.org/wiki/Category:富士見書房 "wikilink") [Category:富士見Fantasia文庫](https://zh.wikipedia.org/wiki/Category:富士見Fantasia文庫 "wikilink") [Category:日本輕小說文學獎](https://zh.wikipedia.org/wiki/Category:日本輕小說文學獎 "wikilink") [Category:角川集團主辦的獎項](https://zh.wikipedia.org/wiki/Category:角川集團主辦的獎項 "wikilink")
 
 1.  第4回の最終選考でも「トリシアの不思議な病院」が残っていた。
-
 2.  この受賞作は[富士見ミステリー文庫より刊行された](https://zh.wikipedia.org/wiki/富士見ミステリー文庫 "wikilink")。ただし、デビュー作は富士見ファンタジア文庫刊。
-
 3.  ただし、富士見書房（現・KADOKAWA）からのデビューではない。
-
 4.  この受賞作は[富士見L文庫より刊行された](https://zh.wikipedia.org/wiki/富士見L文庫 "wikilink")。
-
 5.
 6.
 7.

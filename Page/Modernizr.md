@@ -107,7 +107,7 @@ Modernizr CSS範例：
 
   - [Web worker basics](http://www.html5rocks.com/tutorials/workers/basics/)
 
-  - [1](http://blogs.sitepoint.com/regressive-enhancement-with-modernizr-and-yepnope/)
+  - [1](https://web.archive.org/web/20110613013748/http://blogs.sitepoint.com/regressive-enhancement-with-modernizr-and-yepnope/)
 
   - [Creating Cross Browser HTML5 Forms Now](http://www.useragentman.com/blog/2010/07/27/cross-browser-html5-forms-using-modernizr-webforms2-and-html5widgets/)
 

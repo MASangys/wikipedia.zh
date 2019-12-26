@@ -395,10 +395,10 @@ PlotData =
   -
 [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink") [Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink") [Category:2019年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2019年解散的音樂團體 "wikilink") [Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink") [Category:已解散的韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的韓國女子演唱團體 "wikilink") [Category:2012年韓國建立](https://zh.wikipedia.org/wiki/Category:2012年韓國建立 "wikilink") [Category:2019年韓國廢除](https://zh.wikipedia.org/wiki/Category:2019年韓國廢除 "wikilink")
 
-1.  [Hello Venus 的粉絲名稱](http://kpopn.com/2012/05/14/122652/)Kpopn 2012年5月14日
+1.  [Hello Venus 的粉絲名稱](http://kpopn.com/2012/05/14/122652/) Kpopn 2012年5月14日
 2.  [2成員宣布退出HELLOVENUS重新整隊成4人組](http://n.yam.com/wownews/entertain/20140731/20140731457637.html/)bnt新聞訊 2014年07月31日
 3.  [Fantagio微博相關貼文](https://m.weibo.cn/detail/4393258018412285)
-4.  [헬로비너스 나라, 9등신 몸매의 정석 '살아있는 마네킹'](http://thestar.chosun.com/site/data/html_dir/2013/05/15/2013051501885.html)，나라是一個純[韓文名字](https://zh.wikipedia.org/wiki/韓文 "wikilink")，未有[漢字表記](https://zh.wikipedia.org/wiki/漢字 "wikilink")，由韓語音譯為「娜拉」。
+4.  [헬로비너스 나라, 9등신 몸매의 정석 '살아있는 마네킹'](http://thestar.chosun.com/site/data/html_dir/2013/05/15/2013051501885.html) ，나라是一個純[韓文名字](https://zh.wikipedia.org/wiki/韓文 "wikilink")，未有[漢字表記](https://zh.wikipedia.org/wiki/漢字 "wikilink")，由韓語音譯為「娜拉」。
 5.  [Fantagio官方微博所用漢字 - 序英](http://tw.weibo.com/chhellovenus/4123024908665513)
 6.  [完美演繹！Hello Venus 的高爾夫球服突顯時尚感覺](http://www.vlovekpop.com/20160728-hv/) vlovekpop
 7.  [成了新一代廣告寵兒？Hello Venus 的 NARA 又有新廣告](http://www.vlovekpop.com/20160803-hv/) vlovekpop

@@ -445,110 +445,60 @@ IBM Workplace 2.6（2006年1月23日）集成了OpenOffice.org 1.1.4的代码，
 [Category:2002年软件](https://zh.wikipedia.org/wiki/Category:2002年软件 "wikilink") [Category:自由跨平台軟體](https://zh.wikipedia.org/wiki/Category:自由跨平台軟體 "wikilink") [Category:自由PDF软件](https://zh.wikipedia.org/wiki/Category:自由PDF软件 "wikilink") [Category:用C++編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用C++編程的自由軟體 "wikilink") [Category:用Java編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用Java編程的自由軟體 "wikilink") [Category:OpenOffice.org](https://zh.wikipedia.org/wiki/Category:OpenOffice.org "wikilink") [Category:綠色軟件](https://zh.wikipedia.org/wiki/Category:綠色軟件 "wikilink") [Category:Unix软件](https://zh.wikipedia.org/wiki/Category:Unix软件 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.
-
 7.
-
 8.
-
 9.  [License Simplification FAQ](http://www.openoffice.org/FAQs/license-change.html)
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15. [Oracle Donates OpenOffice.org To The Apache Foundation](http://techie-buzz.com/foss/oracle-openoffice-apache.html)
-
 16. [甲骨文捐贈OpenOffice予Apache軟體基金會](http://www.ithome.com.tw/itadm/article.php?c=67953)
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22. 原文是：*To create, as a community, the leading international office suite that will run on all major platforms and provide access to all functionality and data through open-component based APIs and an XML-based file format.*
-
 23. <http://wiki.services.openoffice.org/wiki/OOoRelease32>
-
 24. <http://wiki.services.openoffice.org/wiki/OOoRelease33>
-
 25. [Secunia针对OpenOffice.org的内容](http://secunia.com/vendor/87/)，最新是2007年1月4日
-
 26.
-
 27. <http://freesf.tnc.edu.tw/modules/news/article.php?storyid=1588>
-
 28.
-
 29.
-
 30. <http://www.sun.com/aboutsun/pr/2007-05/sunflash.20070523.2.xml>
-
 31.
-
 32. <http://wiki.services.OpenOffice.org/wiki/Market_Share_Analysis#Known_Distribution_Numbers%20Market%20Share%20Analysis>
-
 33. [常見問題解答：Sun-Google合作伙伴](https://archive.is/20120604111947/http://news.com.com/FAQ+The+Sun-Google+partnership/2100-1012_3-5888783.html?tag=nl)，Stephen Shankland，2005年10月4日
-
 34. [Sun Microsystems - Sun Microsystems Powers the First Productivity Suite in the Sky](http://www.sun.com/aboutsun/pr/2007-05/sunflash.20070529.1.xml)
-
 35. [財政部財政資訊中心加上臺灣5地區的國稅局導入OpenOffice辦公軟體 8千名國稅局員工改用OpenOffice](https://www.ithome.com.tw/node/78367)
-
 36. ; attachment to
-
 37.
-
 38.
-
 39.
-
 40.
 41.
-
 42.
 43.
-
 44.
-
 45.
 46.
-
 47.
-
 48.
 49.
 50.
 51.
-
 52.
-
 53.
-
 54.
-
 55.
-
 56. [LibreOffice:将继续保持独立不会重新与OpenOffice合并](http://www.cnbeta.com/articles/140558.htm)cnBeta.com
-
 57.
-
 58.

@@ -107,8 +107,6 @@ fi
 [Category:Unix_SUS2008实用工具](https://zh.wikipedia.org/wiki/Category:Unix_SUS2008实用工具 "wikilink") [Category:File_deletion](https://zh.wikipedia.org/wiki/Category:File_deletion "wikilink") [Category:Unix](https://zh.wikipedia.org/wiki/Category:Unix "wikilink")
 
 1.  <http://www.faqs.org/faqs/unix-faq/faq/part3/section-6.html>
-
 2.
 3.  [Meddling in the Affairs of Wizards](http://blogs.sun.com/jbeck/date/20041001#rm_rf_protection)
-
 4.  <http://www.safe-rm.org.nz>

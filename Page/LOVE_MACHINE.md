@@ -67,5 +67,4 @@
 [Category:1999年單曲](https://zh.wikipedia.org/wiki/Category:1999年單曲 "wikilink") [Category:早安少女組。歌曲](https://zh.wikipedia.org/wiki/Category:早安少女組。歌曲 "wikilink") [Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink") [Category:RIAJ百萬認證單曲](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證單曲 "wikilink") [Category:Oricon百萬銷量達成單曲](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成單曲 "wikilink") [Category:1999年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1999年Oricon單曲週榜冠軍作品 "wikilink") [Category:2017年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2017年開播的日本電視劇集 "wikilink") [Category:2017年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2017年電視特別劇集 "wikilink") [Category:Premium_Drama](https://zh.wikipedia.org/wiki/Category:Premium_Drama "wikilink") [Category:日本愛情劇](https://zh.wikipedia.org/wiki/Category:日本愛情劇 "wikilink") [Category:1999年背景作品](https://zh.wikipedia.org/wiki/Category:1999年背景作品 "wikilink")
 
 1.  [青の時代 名曲ドラマシリーズ「モーニング娘。“LOVEマシーン”」](http://www4.nhk.or.jp/P3893/)  NHKオンライン、2017年3月25日閲覧。
-
 2.

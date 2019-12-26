@@ -372,18 +372,13 @@
 [Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink") [Category:日本搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本搖滾樂團 "wikilink") [Category:日本索尼音樂娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂旗下藝人 "wikilink") [Category:愛貝克思集團藝人](https://zh.wikipedia.org/wiki/Category:愛貝克思集團藝人 "wikilink") [Category:1982年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1982年成立的音樂團體 "wikilink") [Category:1999年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:1999年解散的音樂團體 "wikilink") [Category:1982年日本建立](https://zh.wikipedia.org/wiki/Category:1982年日本建立 "wikilink") [Category:日本硬式搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本硬式搖滾樂團 "wikilink") [Category:日本重金屬樂團](https://zh.wikipedia.org/wiki/Category:日本重金屬樂團 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.
 6.
 7.
-
 8.
 9.
-
 10.
-
 11.

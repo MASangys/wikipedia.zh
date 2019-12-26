@@ -36,13 +36,8 @@ Falkon支援多種功能，但據報導其所佔用的系統資源少於許多�
 [Category:網頁瀏覽器](https://zh.wikipedia.org/wiki/Category:網頁瀏覽器 "wikilink") [Category:软件列表](https://zh.wikipedia.org/wiki/Category:软件列表 "wikilink") [Category:使用Qt的軟體](https://zh.wikipedia.org/wiki/Category:使用Qt的軟體 "wikilink") [Category:Webkit衍生軟體](https://zh.wikipedia.org/wiki/Category:Webkit衍生軟體 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.

@@ -57,32 +57,21 @@
 [Category:HD和HDE天體](https://zh.wikipedia.org/wiki/Category:HD和HDE天體 "wikilink") [Category:HR天體](https://zh.wikipedia.org/wiki/Category:HR天體 "wikilink") [Category:G-型超巨星](https://zh.wikipedia.org/wiki/Category:G-型超巨星 "wikilink") [Category:北冕座](https://zh.wikipedia.org/wiki/Category:北冕座 "wikilink") [Category:北冕座R變星](https://zh.wikipedia.org/wiki/Category:北冕座R變星 "wikilink") [Category:以變星命名法命名的天體](https://zh.wikipedia.org/wiki/Category:以變星命名法命名的天體 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
 8.
 9.
-
 10.
-
 11.
 12.
-
 13.
 14.
-
 15.
 16.
-
 17.
 18.
 19.

@@ -14,4 +14,4 @@ Genus公司的前身是成立于1933年的的育种生产部（Breeding & Produc
 
 1.  [The BSE Inquiry](http://www.bseinquiry.gov.uk/report/volume12/chapte32.htm)
 2.  [ABS Global Parent Reports Positive Year-End Results and Stock Listing](https://archive.is/20120710045753/findarticles.com/p/articles/mi_m0EIN/is_2000_June_2/ai_62456620)
-3.  [Genus completes acquisition of Sygen](http://www.thepigsite.com/swinenews/10541/genus-completes-acquisition-of-sygen)
+3.

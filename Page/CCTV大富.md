@@ -35,7 +35,7 @@
 
 ## 频道标志
 
-<File:Cctv> daifu logo (1998-2012).jpg|1998-2011 [File:CCTV_daifu_logo.png|2011-](File:CCTV_daifu_logo.png%7C2011-)
+<File:Cctv> daifu logo (1998-2012).jpg|1998-2011
 
 ## 参考资料
 

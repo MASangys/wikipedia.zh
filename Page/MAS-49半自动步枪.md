@@ -65,18 +65,14 @@ MAS系列的直接气动设计减少了枪机上的活动部件到只有6个：�
 [Category:法国步枪](https://zh.wikipedia.org/wiki/Category:法国步枪 "wikilink") [Category:法国冷战武器](https://zh.wikipedia.org/wiki/Category:法国冷战武器 "wikilink") [Category:半自动步枪](https://zh.wikipedia.org/wiki/Category:半自动步枪 "wikilink") [Category:越戰武器](https://zh.wikipedia.org/wiki/Category:越戰武器 "wikilink") [Category:7.5×54毫米槍械](https://zh.wikipedia.org/wiki/Category:7.5×54毫米槍械 "wikilink")
 
 1.  Huon, Jean; *Proud Promise—French Semiautomatic Rifles: 1898–1979*, Collector Grade Publications, 1995. ISBN 0-88935-186-4.
-
 2.
 3.
 4.
 5.
 6.  Barnes, Frank C., Cartridges of the World, DBI Books Inc. (1989)
-
 7.
 8.
 9.
 10. <http://world.guns.ru/rifle/autoloading-rifles/fr/mas-1949-and-4956-e.html>
-
 11.
-
 12.

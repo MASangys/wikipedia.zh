@@ -123,13 +123,9 @@ WZ551动力装置使用F8L413F型发动机，WZ551A换装了BF8L413F型增压发
 [Category:中華人民共和國裝甲戰鬥車輛](https://zh.wikipedia.org/wiki/Category:中華人民共和國裝甲戰鬥車輛 "wikilink") [Category:裝甲運兵車](https://zh.wikipedia.org/wiki/Category:裝甲運兵車 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.
-
 6.
-
 7.

@@ -9,7 +9,7 @@
 
 ## 與KBS 1TV和2TV節目調動
 
-自2014年起，現時KBS World不再播放上午新聞、午間新聞（因应KBS World 24开播）、紀錄片和兒童節目，全日播放KBS所提供的劇集、綜藝和晚间新闻和由[相信音樂各歌手的MV](https://zh.wikipedia.org/wiki/相信音樂 "wikilink")。
+自2014年起，現時KBS World不再播放上午新聞、午間新聞（因应KBS World 24开播）、紀錄片和兒童節目，全日播放KBS所提供的劇集、綜藝和晚间新闻和由[相信音樂](../Page/相信音樂.md "wikilink")各歌手的MV。
 
 2018年4月起，因應韓國KBS的播出情況和版權問題，暫停播放[KBS月火連續劇](../Page/KBS月火連續劇.md "wikilink")和[KBS水木連續劇](../Page/KBS水木連續劇.md "wikilink")，並改播[KBS Drama Special和重播KBS精選劇集](../Page/KBS_Drama_Special.md "wikilink")，但[KBS 1TV日日連續劇](../Page/KBS_1TV日日連續劇.md "wikilink")、[KBS 2TV日日連續劇和](../Page/KBS_2TV日日連續劇.md "wikilink")[KBS週末連續劇](../Page/KBS週末連續劇.md "wikilink")以及所有KBS所提供的綜藝節目、新聞KBS News 9和KBS自製紀錄片如常播出，直至2018年6月才完結。
 

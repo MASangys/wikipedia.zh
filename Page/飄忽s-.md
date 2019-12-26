@@ -247,9 +247,6 @@
 [分類:原始印歐語](https://zh.wikipedia.org/wiki/分類:原始印歐語 "wikilink")
 
 1.  Example from Andrew L. Sihler, *New Comparative Grammar of Greek and Latin*, OUP 1995, p.169.
-
 2.
-
 3.
-
 4.

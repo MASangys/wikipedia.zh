@@ -80,34 +80,20 @@
 [Category:NHK電視音樂節目](https://zh.wikipedia.org/wiki/Category:NHK電視音樂節目 "wikilink")
 
 1.  播放時間是25:30～26:30。關西地区是[NHK奈良特集](https://zh.wikipedia.org/wiki/NHK奈良放送局 "wikilink")『どう立て直す?観光立縣・奈良』播放，延遅45分鐘26:15～27:15播放。
-
 2.  新曲『[輝く人](https://zh.wikipedia.org/wiki/輝く人 "wikilink")』（2010年3月29日開始播放的新節目『[こころの遺伝子](https://zh.wikipedia.org/wiki/こころの遺伝子 "wikilink")』主題曲）披露。
-
 3.  開始是『[櫻花印記](../Page/櫻花印記.md "wikilink")』和『[櫻花的花瓣們 春天的歌2010 Special](https://zh.wikipedia.org/wiki/櫻花的花瓣們2008 "wikilink")』披露。後者是作詞人[秋元康](../Page/秋元康.md "wikilink")為節目重新寫下新歌詞。
-
 4.  自己的出道曲『[サクラサク](https://zh.wikipedia.org/wiki/サクラサク_\(北乃紀伊歌曲\) "wikilink")』披露。兼任主持。
-
 5.  大トリで『[my graduation](https://zh.wikipedia.org/wiki/my_graduation "wikilink")』披露。
-
 6.  『[赤いスイートピー](https://zh.wikipedia.org/wiki/赤いスイートピー "wikilink")』（[松田聖子](../Page/松田聖子.md "wikilink")的翻唱）披露。
-
 7.  3人在[八王子直播出演](../Page/八王子市.md "wikilink")。『[櫻](https://zh.wikipedia.org/wiki/櫻_\(FUNKY_MONKEY_BABYS歌曲\) "wikilink")』披露。
-
 8.  自己的巡迴演唱會最終公演地、[日本ガイシホール直播出演](https://zh.wikipedia.org/wiki/名古屋市綜合体育館 "wikilink")
-
 9.  『[花鳥風月](https://zh.wikipedia.org/wiki/花鳥風月_\(Remioromen專輯\) "wikilink")』和『[3月9日](https://zh.wikipedia.org/wiki/3月9日_\(歌曲\) "wikilink")』2曲披露。
-
 10. [NHK番組表](http://cgi4.nhk.or.jp/hensei/program/p.cgi?area=001&date=2010-03-27&ch=21&eid=13200)
-
 11. [プレミアム10時段](https://zh.wikipedia.org/wiki/プレミアム10 "wikilink")
-
 12.
 13.
 14.
 15.
-
 16. [aiko LIVE at NHK](https://archive.is/20120908083037/www.nhk.or.jp/mj/tokuban/contents/t_110304.html)
-
 17. [グループ魂15年の軌跡](https://archive.is/20120913131858/www.nhk.or.jp/mj/tokuban/contents/t_110306.html)
-
 18. [MJ presents 密着！水樹奈々 ドームライブの作り方](https://archive.is/20120913035131/www.nhk.or.jp/mj/special/20120121.html)

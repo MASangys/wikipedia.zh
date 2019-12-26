@@ -330,16 +330,17 @@ Toonami於1999年改革後，就不時在廣告時段播放由T.O.M.或SARA作�
 
 2012年，Toonami重現時安排節目在Adult Swim網站的一個專區作重溫，繼續包含網上首播作品。
 
+## 相關项目
+
+  - [Adult Swim](../Page/Adult_Swim.md "wikilink")
+  - [Miguzi](https://zh.wikipedia.org/wiki/Miguzi "wikilink")
+
 ## 註釋
 
 ## 外部連結
 
   - [官方網站](http://toonami.com)
   - [官方互動Tumblr](http://toonami.tumblr.com/)
-
-### 相關構件
-
-[Adult Swim](../Page/Adult_Swim.md "wikilink"),[Miguzi](https://zh.wikipedia.org/wiki/Miguzi "wikilink")
 
 [Category:美國動畫影集](https://zh.wikipedia.org/wiki/Category:美國動畫影集 "wikilink") [Category:卡通頻道](https://zh.wikipedia.org/wiki/Category:卡通頻道 "wikilink") [Category:電視動畫時段](https://zh.wikipedia.org/wiki/Category:電視動畫時段 "wikilink") [Category:1997年美國建立](https://zh.wikipedia.org/wiki/Category:1997年美國建立 "wikilink")
 

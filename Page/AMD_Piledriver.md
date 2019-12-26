@@ -102,132 +102,75 @@
 [Category:X86架構](https://zh.wikipedia.org/wiki/Category:X86架構 "wikilink") [Category:AMD處理器](https://zh.wikipedia.org/wiki/Category:AMD處理器 "wikilink")
 
 1.  [AMD下代APU改用「Piledriver」微架構 13年升級至28nm 進入異類多核心時代](http://www.hkepc.com/7513) - hkepc
-
 2.
-
 3.  [2011至2012年最新AMD產品發表時程大公開](http://info.amdtaiwan.com.tw/survey/PDF/2011Q1_21-23.pdf)
-
 4.  [AMD Working on Bulldozer B3 Stepping](http://www.anandtech.com/show/4997/amd-working-on-bulldozer-b3-stepping)
-
 5.
-
 6.
-
 7.
-
 8.
 9.
 10.
 11. [Rumor: AMD "Piledriver" FX CPU production to begin Q3 2012](http://www.techspot.com/news/48742-rumor-amd-piledriver-fx-cpu-production-to-begin-q3-2012.html) - Techspot
-
 12. [AMD FX 8350处理器预览](http://www.mcplive.cn/index.php/article/index/id/12097) - 微型計算機
-
 13.
 14.
 15. <http://www.bit-tech.net/news/hardware/2012/02/21/amd-packs-cyclos-piledriver/1>
-
 16. [打桩机突破4GHz的秘密：谐振时钟网络](http://news.mydrivers.com/1/218/218855.htm) - 驅動之家
-
 17. [AMD Piledriver Cores to Use Energy Recovery Tech](http://www.tomshardware.com/news/amd-piledriver-cyclos-clock-mesh-kers,14766.html) - Tom's Hardware
-
 18. [AMD 打桩机 Piledriver 内核有望突破 4GHz](http://cn.engadget.com/tag/resonant+clock+mesh/) - [engadget](https://zh.wikipedia.org/wiki/engadget "wikilink")
-
 19. [打桩机内核照片首次公开 默频超4GHz](http://news.mydrivers.com/1/218/218695.htm) - 驅動之家
-
 20.
 21.
 22. [四路打桩机：Opteron 6300型号、规格一览](http://news.mydrivers.com/1/243/243559.htm) - 驅動之家
-
 23. [成功逆天 AMD 5GHz超级处理器实测](http://news.mydrivers.com/1/268/268445.htm) - mydrivers.com, 2013-07-08
-
 24. [不止三位一体 Trinity APU同步首发评测](http://hardware.mydrivers.com/2/227/227950_all.htm)  - 驅動之家
-
 25. [打桩机版Opteron值得期待的地方……](http://news.mydrivers.com/1/233/233775.htm) - 驅動之家
-
 26. url=
-
 27.
-
 28. [A85主板携手Trinity APU真身“驾临”](http://news.mydrivers.com/1/233/233959_all.htm) - 驅動之家
-
 29.
-
 30. [AMD Socket FM2 Motherboards Based on A85 FCH Arrive in June](http://www.techpowerup.com/162005/AMD-Socket-FM2-Motherboards-Based-on-A85-FCH-Arrive-in-June.html) - techpowerup.com
-
 31.
-
 32.
 33. url=
-
 34.
-
 35. <http://www.bit-tech.net/news/hardware/2012/02/21/amd-packs-cyclos-piledriver/1>
-
 36. [AMD高频旗舰！打桩机FX-8350首发测试](http://www.pcpop.com/doc/0/847/847573_all.shtml) - pcpop.com
-
 37. [打桩机乱入！千元市场FX-8350大战i5/E3](http://diy.pconline.com.cn/cpu/reviews/1210/3037082_all.html) - 太平洋電腦網
-
 38. [打桩机来临！AMD新旗舰FX-8350首发评测](http://diy.pconline.com.cn/cpu/reviews/1210/3031469.html) - 太平洋電腦網
-
 39. [4GHz+“打桩机”！AMD新FX-8350评测](http://www.inpai.com.cn/doc/HDhard/183729_-3.htm)  - inpai.com.cn
-
 40. [打桩机旗舰级发布 AMD FX-8350全面评测](http://cpu.it168.com/a2012/1024/1412/000001412614_all.shtml)  - it168.com
-
 41. [升级打桩机核心 全新FX旗舰处理器首测](http://cpu.zol.com.cn/329/3291112_all.html) - zol.com.cn
-
 42. [打桩机便宜卖了！最高不超过200美元](http://news.mydrivers.com/1/244/244083.htm) - 驅動之家
-
 43.
-
 44.
-
 45. [FX-9000来了 AMD 5GHz超级处理器正式发布](http://news.mydrivers.com/1/266/266193.htm) - mydrivers.com.cn, 2013-06-12
-
 46.
 47.
-
 48.
-
 49.
 50. <http://www.cpu-world.com/CPUs/Bulldozer/AMD-Athlon%20II%20X4%20730.html>
-
 51. <http://www.fudzilla.com/home/item/28949-trinity-athlons-listed-but-not-available-yet>
-
 52.
 53.
 54. \[diy.pconline.com.cn/cpu/reviews/1209/2955523_all.html AMD能借新系统雄起？三代i3/APU再战Win8\] - 太平洋電腦網
-
 55. \[diy.pconline.com.cn/cpu/reviews/1209/2998818_all.html CPU+GPU升级！AMD二代APU A10-5800K首测\] - 太平洋電腦網
-
 56. [独显说再见 A10-5800K首发评测](http://hardware.mydrivers.com/2/242/242953_all.htm)  - 驅動之家
-
 57. \[diy.pconline.com.cn/cpu/reviews/1210/3020786_all.html 高频出奇迹？二代APU最佳内存频率实测\] - 太平洋電腦網
-
 58.
-
 59. [扔掉你的独显 AMD Trinity APU首发测试](http://notebook.pconline.com.cn/testing/hxpc/1206/2830000_all.html) - 太平洋電腦網
-
 60. [基于AMD新一代APU的三星超轻薄笔记本亮相台北电脑展](http://news.mydrivers.com/1/230/230439.htm) - 驅動之家
-
 61. [AMD定调APU超薄本](http://news.mydrivers.com/1/230/230920.htm) - 驅動之家
-
 62. [AMD产品总监Kevin Lensing谈笔记本整机发展](http://news.mydrivers.com/1/230/230682.htm) - 驅動之家
-
 63. [坚持异构计算 AMD发布新一代APU Trinity](http://news.pconline.com.cn/it/notebook/1205/2787554.html) - 太平洋電腦網
-
 64.
-
 65.
-
 66.
-
 67.
-
 68.
 69.
 70.
 71. [打桩机版Opteron值得期待的地方……](http://news.mydrivers.com/1/233/233775.htm)
-
 72. [Our Take on AMD FX](https://archive.is/20120707175240/blogs.amd.com/play/2011/10/13/our-take-on-amd-fx/) - Blogs.amd.com 2011-10-13
-
 73. [能否推倒“爱妻”?AMD FX推土机PK两代i7](http://diy.pconline.com.cn/cpu/reviews/1110/2557474_6.html) - 太平洋電腦網

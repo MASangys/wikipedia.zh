@@ -859,16 +859,10 @@ GFLOPs</p></th>
 [Category:ATI顯示卡](https://zh.wikipedia.org/wiki/Category:ATI顯示卡 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.  [DailyTech report](http://www.dailytech.com/AMD+RV635+with+DisplayPort+Unveiled/article9930.htm) , retrieved December 7, 2007
-
 5.
 6.  [AMD official low-profile deisgn with DisplayPort](http://www.amd.com/us-en/assets/content_type/Additional/44725A_ATrHD3450-dp_3-4_md_highRes.jpg)，retrieved January 23, 2008
-
 7.  [AMD Vendor ID List](http://developer.amd.com/drivers/pc_vendor_id/Pages/default.aspx) . Retrieved February 12, 2009.
-
 8.  [ATI Radeon Mobility Graphics Cards](http://products.amd.com/en-us/MobilityGPUResult.aspx)

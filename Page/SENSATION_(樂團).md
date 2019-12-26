@@ -168,28 +168,16 @@ MUSA's Trio亦因為在現場表演上樂團與不同音樂人的合作漸多，
 [Category:台灣樂團](https://zh.wikipedia.org/wiki/Category:台灣樂團 "wikilink") [Category:2011年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2011年成立的音樂團體 "wikilink")
 
 1.  商業電台叱吒903 - 細SO「好回家」訪問 (2012/06/25)
-
 2.
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.

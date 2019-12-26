@@ -34,12 +34,8 @@ DR醫療美容集團自稱為一間[美容](../Page/美容.md "wikilink")[顧問
 [Category:香港醫療](https://zh.wikipedia.org/wiki/Category:香港醫療 "wikilink") [Category:2012年香港](https://zh.wikipedia.org/wiki/Category:2012年香港 "wikilink") [Category:香港誤殺案](https://zh.wikipedia.org/wiki/Category:香港誤殺案 "wikilink") [Category:美容](https://zh.wikipedia.org/wiki/Category:美容 "wikilink") [Category:医疗事故](https://zh.wikipedia.org/wiki/Category:医疗事故 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
-
 6.

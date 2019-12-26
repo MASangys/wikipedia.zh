@@ -1,4 +1,4 @@
-《**Peace Of Mind**》是[日本](../Page/日本.md "wikilink")[音樂組合](../Page/音樂組合.md "wikilink")[B'z](../Page/B'z.md "wikilink")的主唱[稻葉浩志](../Page/稻葉浩志.md "wikilink")的第3張SOLO[原創專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。[2004年](../Page/2004年.md "wikilink")[9月22日](../Page/9月22日.md "wikilink")由[VERMILLION RECORDS於日本發行](../Page/VERMILLION_RECORDS.md "wikilink")。
+《**Peace Of Mind**》是[日本](../Page/日本.md "wikilink")[音樂組合](../Page/音樂組合.md "wikilink")[B'z](../Page/B'z.md "wikilink")主唱[稻葉浩志](../Page/稻葉浩志.md "wikilink")的第3張SOLO[原創專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。[2004年](../Page/2004年.md "wikilink")[9月22日](../Page/9月22日.md "wikilink")由[VERMILLION RECORDS於日本發行](../Page/VERMILLION_RECORDS.md "wikilink")。
 
 ## 概要
 

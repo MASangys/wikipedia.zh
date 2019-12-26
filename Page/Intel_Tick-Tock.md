@@ -198,20 +198,12 @@
 [Category:英特爾](https://zh.wikipedia.org/wiki/Category:英特爾 "wikilink")
 
 1.  [Intel Tick-Tock Model](http://www.intel.com/content/www/us/en/silicon-innovations/intel-tick-tock-model-general.html)
-
 2.  <http://cn.engadget.com/2016/03/23/intel-eliminating-tick-tock-moores-law/>
-
 3.  [Intel CEO: Latest Platforms, Processors Form New Foundations For Digital Entertainment And Wireless Computing](http://www.intel.com/pressroom/archive/releases/20060105corp.htm), [Intel Unveils World's Best Processor](http://www.intel.com/pressroom/archive/releases/20060727comp.htm)
-
 4.  [Intel Unveils 16 Next-Generation Processors, Including First Notebook Chips Built on 45nm Technology](http://www.intel.com/pressroom/archive/releases/20080107comp.htm)
-
 5.  [Intel Launches Fastest Processor on the Planet](http://www.intel.com/pressroom/archive/releases/2008/20081117comp_sm.htm)
-
 6.  [1](http://download.intel.com/pressroom/kits/32nm/westmere/Mark_Bohr_32nm.pdf)
-
 7.  [Revolutionizing How We Use Technology—Today and Beyond](http://www.intel.com/technology/architecture-silicon/32nm/index.htm)
-
 8.  [Intel Sandy Bridge chip coming January 5](http://news.cnet.com/8301-13924_3-20022893-64.html)
-
 9.
 10. [2](http://download.intel.com/newsroom/kits/22nm/pdfs/22nm-Details_Presentation.pdf)

@@ -48,35 +48,22 @@
 [Category:裝甲核心系列](https://zh.wikipedia.org/wiki/Category:裝甲核心系列 "wikilink") [Category:2012年电子游戏](https://zh.wikipedia.org/wiki/Category:2012年电子游戏 "wikilink") [Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink") [Category:Xbox_360遊戲](https://zh.wikipedia.org/wiki/Category:Xbox_360遊戲 "wikilink") [Category:萬代南夢宮遊戲](https://zh.wikipedia.org/wiki/Category:萬代南夢宮遊戲 "wikilink")
 
 1.
-
 2.
 3.
 4.
 5.
-
 6.
-
 7.
 8.
-
 9.  [Armored Core V Coming Stateside In 2012 - Armored Core 5 - Xbox 360](http://www.gameinformer.com/games/armored_core_v/b/xbox360/archive/2011/02/02/armored-core-v-coming-stateside-in-2012.aspx)
-
 10.
 11.
 12. [4gamer.net 「アーマード・コア」の名前を外すことも考えた――鍋島プロデューサーが語る「ARMORED CORE V」へかける覚悟](http://www.4gamer.net/games/103/G010386/20110603063/index_3.html)
-
 13. [Android向けアプリ「FROMSOFTWARE」が本日配信。「ARMORED CORE V」のパーツ情報や，フロム・ソフトウェアの最新情報をチェック可能](http://www.4gamer.net/games/103/G010386/20120123054/)
-
 14.
-
 15. [Armored Core 5 - Debut Trailer|youtube.com](http://www.youtube.com/watch?v=BUbMDbwwRIg)
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.

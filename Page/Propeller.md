@@ -149,21 +149,12 @@
 [Category:2004年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2004年開業電子遊戲公司 "wikilink") [Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink") [Category:千代田區公司](https://zh.wikipedia.org/wiki/Category:千代田區公司 "wikilink") [Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink") [Category:WillPlus](https://zh.wikipedia.org/wiki/Category:WillPlus "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.  全年齡版
-
 10.

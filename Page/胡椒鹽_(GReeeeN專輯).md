@@ -18,12 +18,8 @@
 [Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink") [Category:2009年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2009年Oricon專輯週榜冠軍作品 "wikilink") [Category:2009年Oricon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2009年Oricon專輯月榜冠軍作品 "wikilink") [Category:Oricon百萬銷量達成專輯](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成專輯 "wikilink") [Category:RIAJ百萬認證專輯](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證專輯 "wikilink") [Category:環球唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:環球唱片音樂專輯 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
-
 6.

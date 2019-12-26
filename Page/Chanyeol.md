@@ -46,12 +46,12 @@
 
 ### 原聲帶
 
-|            |              |                                                                        |                                                                  |
-| ---------- | ------------ | ---------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| 發行日期       | 歌曲名稱         | 影視名稱                                                                   | 合作藝人                                                             |
-| 2015年      | Last Hunter  | 《[叢林的法則](../Page/叢林的法則.md "wikilink")》                                 |                                                                  |
-| 2016年6月17日 | 我討厭你         | 《[所以......和黑粉结婚了](https://zh.wikipedia.org/wiki/所以，和黑粉結婚了 "wikilink")》 | [袁姍姍](../Page/袁姗姗.md "wikilink")                                 |
-| 2016年12月2日 | Stay With Me | 《[孤單又燦爛的神－鬼怪](../Page/孤單又燦爛的神－鬼怪.md "wikilink")》                       | [Punch](https://zh.wikipedia.org/wiki/Punch_\(韓國歌手\) "wikilink") |
+|            |              |                                                     |                                                                  |
+| ---------- | ------------ | --------------------------------------------------- | ---------------------------------------------------------------- |
+| 發行日期       | 歌曲名稱         | 影視名稱                                                | 合作藝人                                                             |
+| 2015年      | Last Hunter  | 《[叢林的法則](../Page/叢林的法則.md "wikilink")》              |                                                                  |
+| 2016年6月17日 | 我討厭你         | 《[所以......和黑粉结婚了](../Page/所以，和黑粉結婚了.md "wikilink")》 | [袁姍姍](../Page/袁姗姗.md "wikilink")                                 |
+| 2016年12月2日 | Stay With Me | 《[孤單又燦爛的神－鬼怪](../Page/孤單又燦爛的神－鬼怪.md "wikilink")》    | [Punch](https://zh.wikipedia.org/wiki/Punch_\(韓國歌手\) "wikilink") |
 
 ### 個人音樂作品
 
@@ -442,11 +442,11 @@
 
 ### 電影
 
-|       |                                                                 |    |    |
-| ----- | --------------------------------------------------------------- | -- | -- |
-| 年份    | 劇集名稱                                                            | 角色 | 性質 |
-| 2015年 | [長壽商會](../Page/長壽商會.md "wikilink")                              | 珉盛 | 配角 |
-| 2016年 | [所以，和黑粉结婚了](https://zh.wikipedia.org/wiki/所以，和黑粉結婚了 "wikilink") | 后准 | 主演 |
+|       |                                              |    |    |
+| ----- | -------------------------------------------- | -- | -- |
+| 年份    | 劇集名稱                                         | 角色 | 性質 |
+| 2015年 | [長壽商會](../Page/長壽商會.md "wikilink")           | 珉盛 | 配角 |
+| 2016年 | [所以，和黑粉结婚了](../Page/所以，和黑粉結婚了.md "wikilink") | 后准 | 主演 |
 
 ### 網路劇
 
@@ -488,22 +488,22 @@
 
 ### 音樂錄影帶
 
-|             |                     |                                                                           |                                                                      |
-| ----------- | ------------------- | ------------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| 日期          | 歌曲名稱                | 歌手                                                                        | 備注                                                                   |
-| 2008年12月1日  | Ha Ha Ha Song       | [東方神起](../Page/東方神起.md "wikilink")                                        |                                                                      |
-| 2012年4月24日  | Dear My Family      | [SMTOWN](https://zh.wikipedia.org/wiki/SMTOWN "wikilink")                 |                                                                      |
-| 2012年4月3日   | Genie               | [少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")                     |                                                                      |
-| 2012年4月30日  | Twinkle             | [少女時代-太蒂徐](../Page/少女時代-太蒂徐.md "wikilink")                                |                                                                      |
-| 2013年10月20日 | You don't know love | [K.Will](https://zh.wikipedia.org/wiki/K.Will "wikilink")                 |                                                                      |
-| 2014年8月15日  | 빛（Hope）             | [H.O.T.](../Page/H.O.T..md "wikilink")                                    | 《EXO 90：2014》                                                        |
-| 2014年11月3日  | Rewind              | [周覓](https://zh.wikipedia.org/wiki/周覓 "wikilink")                         |                                                                      |
-| 2015年6月11日  | 我們相遇的日子             | 韓國群星                                                                      |                                                                      |
-| 2016年6月17日  | 我討厭你                | Chanyeol、[袁姍姍](../Page/袁姗姗.md "wikilink")                                 | 《[所以，和黑粉结婚了](https://zh.wikipedia.org/wiki/所以，和黑粉結婚了 "wikilink")》OST |
-| 2016年10月14日 | Freal Luv           | Far East Movement x Marshmello ft. Chanyeol & Tinashe                     | 《identity》                                                           |
-| 2016年12月2日  | Stay With Me        | Chanyeol、[Punch](https://zh.wikipedia.org/wiki/Punch_\(韓國歌手\) "wikilink") | 《[孤單又燦爛的神－鬼怪](../Page/孤單又燦爛的神－鬼怪.md "wikilink")》OST Part.1           |
-| 2018年9月14日  | We Young            | Chanyeol、[Sehun](../Page/Sehun.md "wikilink")                             | 《[STATION X 0](../Page/SM_STATION.md "wikilink")》                    |
-| 2019年4月25日  | SSFW（春夏秋冬）          | Chanyeol                                                                  | 《[SM STATION第三季](../Page/SM_STATION.md "wikilink")》                  |
+|             |                     |                                                                           |                                                            |
+| ----------- | ------------------- | ------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| 日期          | 歌曲名稱                | 歌手                                                                        | 備注                                                         |
+| 2008年12月1日  | Ha Ha Ha Song       | [東方神起](../Page/東方神起.md "wikilink")                                        |                                                            |
+| 2012年4月24日  | Dear My Family      | [SMTOWN](https://zh.wikipedia.org/wiki/SMTOWN "wikilink")                 |                                                            |
+| 2012年4月3日   | Genie               | [少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")                     |                                                            |
+| 2012年4月30日  | Twinkle             | [少女時代-太蒂徐](../Page/少女時代-太蒂徐.md "wikilink")                                |                                                            |
+| 2013年10月20日 | You don't know love | [K.Will](https://zh.wikipedia.org/wiki/K.Will "wikilink")                 |                                                            |
+| 2014年8月15日  | 빛（Hope）             | [H.O.T.](../Page/H.O.T..md "wikilink")                                    | 《EXO 90：2014》                                              |
+| 2014年11月3日  | Rewind              | [周覓](https://zh.wikipedia.org/wiki/周覓 "wikilink")                         |                                                            |
+| 2015年6月11日  | 我們相遇的日子             | 韓國群星                                                                      |                                                            |
+| 2016年6月17日  | 我討厭你                | Chanyeol、[袁姍姍](../Page/袁姗姗.md "wikilink")                                 | 《[所以，和黑粉结婚了](../Page/所以，和黑粉結婚了.md "wikilink")》OST          |
+| 2016年10月14日 | Freal Luv           | Far East Movement x Marshmello ft. Chanyeol & Tinashe                     | 《identity》                                                 |
+| 2016年12月2日  | Stay With Me        | Chanyeol、[Punch](https://zh.wikipedia.org/wiki/Punch_\(韓國歌手\) "wikilink") | 《[孤單又燦爛的神－鬼怪](../Page/孤單又燦爛的神－鬼怪.md "wikilink")》OST Part.1 |
+| 2018年9月14日  | We Young            | Chanyeol、[Sehun](../Page/Sehun.md "wikilink")                             | 《[STATION X 0](../Page/SM_STATION.md "wikilink")》          |
+| 2019年4月25日  | SSFW（春夏秋冬）          | Chanyeol                                                                  | 《[SM STATION第三季](../Page/SM_STATION.md "wikilink")》        |
 
 ## 影音作品
 
@@ -531,6 +531,7 @@
 | 2019年3月刊     | W Korea                                 |                  |
 | 2019年4月刊     |                                         |                  |
 | 2019年7月刊     | 與Sehun、封面                               |                  |
+| 2019年11月刊    | 封面                                      |                  |
 
 ## 獎項
 
@@ -576,7 +577,7 @@
 <tr class="even">
 <td><p>中國微博電影之夜</p></td>
 <td><p>微博最受期待獎</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/所以，和黑粉結婚了" title="wikilink">所以......和黑粉結婚了</a></p></td>
+<td><p><a href="../Page/所以，和黑粉結婚了.md" title="wikilink">所以......和黑粉結婚了</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -657,6 +658,7 @@
 <td><p>2019年</p></td>
 <td><ul>
 <li>第16屆<a href="https://zh.wikipedia.org/wiki/MBC偶像明星運動會" title="wikilink">MBC偶像明星運動會男子保齡球項目</a> - 金牌</li>
+<li>TC Candler 亞太區100張最帥面孔 第18名[45]</li>
 </ul></td>
 </tr>
 </tbody>
@@ -682,88 +684,47 @@
 [Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink") [Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink") [Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink") [Category:首爾特別市出身人物](https://zh.wikipedia.org/wiki/Category:首爾特別市出身人物 "wikilink") [Category:朴姓](https://zh.wikipedia.org/wiki/Category:朴姓 "wikilink") [Category:EXO](https://zh.wikipedia.org/wiki/Category:EXO "wikilink") [Category:SM娛樂](https://zh.wikipedia.org/wiki/Category:SM娛樂 "wikilink")
 
 1.  「」是一個純[韓字名字](https://zh.wikipedia.org/wiki/韓字 "wikilink")，未有[漢字表記](https://zh.wikipedia.org/wiki/漢字 "wikilink")，由韓語音譯可推為「朴燦烈」。
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.
 39.
-
 40.
-
 41.
-
 42.
-
 43.
-
 44.
+45.

@@ -90,11 +90,7 @@ level[i] = -1; // exit section
 [Category:并发控制算法](https://zh.wikipedia.org/wiki/Category:并发控制算法 "wikilink")
 
 1.  G. L. Peterson: "Myths About the Mutual Exclusion Problem", *Information Processing Letters* 12(3) 1981, 115–116
-
 2.  As discussed in *Operating Systems Review*, January 1990 ("Proof of a Mutual Exclusion Algorithm", M Hofri).
-
 3.  Maurice Herlihy, Nir Shavit: The art of multiprocessor programming,§2.3.3 Peterson Lock, Elsevier Publisher, 2008.
-
 4.  Silberschatz. Operating Systems Concepts: Seventh Edition. John Wiley and Sons, 2005., Pages 194
-
 5.

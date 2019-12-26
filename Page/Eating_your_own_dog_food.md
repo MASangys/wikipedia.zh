@@ -56,40 +56,25 @@ Dogfooding策略多基于一种常见的思维：如果公司打算让顾客买�
 [Category:英語熟語](https://zh.wikipedia.org/wiki/Category:英語熟語 "wikilink") [Category:電腦術語](https://zh.wikipedia.org/wiki/Category:電腦術語 "wikilink") [Category:软件开发哲学](https://zh.wikipedia.org/wiki/Category:软件开发哲学 "wikilink") [Category:可用性](https://zh.wikipedia.org/wiki/Category:可用性 "wikilink") [Category:創新](https://zh.wikipedia.org/wiki/Category:創新 "wikilink")
 
 1.
-
 2.
-
 3.  *Inside Out: Microsoft—In Our Own Words* (ISBN 0446527394)
-
 4.   Quote: "\[Paul\] Maritz also poked fun at himself by claiming that one of his only contributions to the IT world is coining the commonly used "eat your own dog food" phrase. "You can read about it on Wikipedia, so it must be true," Maritz said.
-
 5.
-
 6.
-
 7.
 8.
 9.
-
 10.
 11.
 12.
 13.
 14.
-
 15.  Note: Alpo is a brand of dog food.
-
 16.
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.

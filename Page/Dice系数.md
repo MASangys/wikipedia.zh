@@ -40,7 +40,7 @@
 
 ## 同见
 
-  - [Jaccard index](https://zh.wikipedia.org/wiki/Jaccard_index "wikilink"), 等同于: \(D=2J/(1+J)\) and \(J=D/(2-D)\)
+  - [雅卡爾指數](https://zh.wikipedia.org/wiki/雅卡爾指數 "wikilink")（Jaccard index）, 等同于: \(D=2J/(1+J)\) and \(J=D/(2-D)\)
   - [Tversky index](https://zh.wikipedia.org/wiki/Tversky_index "wikilink")
   - [Levenshtein distance](https://zh.wikipedia.org/wiki/Levenshtein_distance "wikilink")
   - [Sørensen similarity index](https://zh.wikipedia.org/wiki/Sørensen_similarity_index "wikilink")

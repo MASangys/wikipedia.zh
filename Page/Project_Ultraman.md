@@ -30,10 +30,7 @@
 [Category:靈長目電影](https://zh.wikipedia.org/wiki/Category:靈長目電影 "wikilink") [Category:科幻片](https://zh.wikipedia.org/wiki/Category:科幻片 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.

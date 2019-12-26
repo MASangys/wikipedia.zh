@@ -31,13 +31,8 @@
 [Category:分布式计算](https://zh.wikipedia.org/wiki/Category:分布式计算 "wikilink")
 
 1.  Nancy Lynch and Seth Gilbert, [“Brewer's conjecture and the feasibility of consistent, available, partition-tolerant web services”](http://lpd.epfl.ch/sgilbert/pubs/BrewersConjecture-SigAct.pdf) , *ACM SIGACT News*, Volume 33 Issue 2 (2002), pg. 51-59.
-
 2.  ["Brewer's CAP Theorem"](http://www.julianbrowne.com/article/viewer/brewers-cap-theorem), julianbrowne.com, Retrieved 02-Mar-2010
-
 3.
-
-4.  ["Brewers CAP theorem on distributed systems"](http://www.royans.net/arch/brewers-cap-theorem-on-distributed-systems/), royans.net
-
+4.  ["Brewers CAP theorem on distributed systems"](http://www.royans.net/arch/brewers-cap-theorem-on-distributed-systems/) , royans.net
 5.  Eric Brewer, ["Towards Robust Distributed Systems"](http://www.cs.berkeley.edu/~brewer/cs262b-2004/PODC-keynote.pdf)
-
 6.

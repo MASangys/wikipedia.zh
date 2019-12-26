@@ -23,5 +23,4 @@
 1.
 2.
 3.  [Is this a Brown Dwarf or an Exoplanet? New Young Sub-stellar Companion Imaged with the VLT](http://www.eso.org/public/outreach/press-rel/pr-2005/pr-09-05.html) , ESO Press Release 09/05, April 7, 2005. Accessed on line June 13, 2008.
-
 4.  [Lists of Extrasolar Planets](http://www.dtm.ciw.edu/boss/planets.html) , IAU Working Group on Extrasolar Planets, August 28, 2006. Accessed on line June 13, 2008.

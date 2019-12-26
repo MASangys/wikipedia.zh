@@ -111,13 +111,8 @@ Type-D</p></td>
 [Category:AKB48](https://zh.wikipedia.org/wiki/Category:AKB48 "wikilink") [Category:SKE48](https://zh.wikipedia.org/wiki/Category:SKE48 "wikilink") [Category:NMB48](https://zh.wikipedia.org/wiki/Category:NMB48 "wikilink") [Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink") [Category:King_Records](https://zh.wikipedia.org/wiki/Category:King_Records "wikilink")
 
 1.  [AKB0048 官方网站](http://akb0048.jp/news/)
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.

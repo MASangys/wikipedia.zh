@@ -61,7 +61,5 @@ PLZ-45自行火炮营标准编制配属车辆包括：
 [Category:中華人民共和國裝甲戰鬥車輛](https://zh.wikipedia.org/wiki/Category:中華人民共和國裝甲戰鬥車輛 "wikilink")
 
 1.  [苏哲子做客央视《大家》栏目讲述外贸155自行火炮征程](http://www.norincogroup.com.cn/cn/newsdetail.aspx?id=22415) ，中国兵器工业集团，发布时间：2011-10-18。
-
 2.  \[PLZ-45型155毫米火炮武器系统总设计师苏哲子院士访谈录\]，《兵器》，2007年 第10期。
-
 3.

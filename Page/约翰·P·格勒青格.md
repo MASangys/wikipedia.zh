@@ -26,17 +26,10 @@
 [Category:美国地质学家](https://zh.wikipedia.org/wiki/Category:美国地质学家 "wikilink") [Category:蒙大拿大學校友](https://zh.wikipedia.org/wiki/Category:蒙大拿大學校友 "wikilink") [Category:弗吉尼亚理工学院暨州立大学校友](https://zh.wikipedia.org/wiki/Category:弗吉尼亚理工学院暨州立大学校友 "wikilink") [Category:哥伦比亚大学校友](https://zh.wikipedia.org/wiki/Category:哥伦比亚大学校友 "wikilink") [Category:麻省理工學院教授](https://zh.wikipedia.org/wiki/Category:麻省理工學院教授 "wikilink") [Category:加州理工学院教师](https://zh.wikipedia.org/wiki/Category:加州理工学院教师 "wikilink") [Category:美国国家科学院院士](https://zh.wikipedia.org/wiki/Category:美国国家科学院院士 "wikilink")
 
 1.
-
 2.  <http://zipcodemars.jpl.nasa.gov/bio-contribution-missions.cfm?bid=162&cid=157&pid=158&page=&country_id=0&state_id=0>
-
 3.
-
 4.  <http://web.mit.edu/newsoffice/2004/mars-0303.html>
-
 5.  <http://www.sciencemag.org/cgi/content/abstract/sci;306/5702/1709>
-
 6.  <http://zipcodemars.jpl.nasa.gov/bio-contribution-missions.cfm?bid=162&cid=157&pid=158&page=&country_id=0&state_id=0>
-
 7.
-
 8.

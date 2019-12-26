@@ -124,7 +124,7 @@ IUPAC有机化学命名中还有两种数值前缀。\[1\]
 
 例子如[聯苯或者](https://zh.wikipedia.org/wiki/聯苯 "wikilink")[三聯苯](https://zh.wikipedia.org/wiki/三聯苯 "wikilink")。
 
-## Icosa- *v.* eicosa-
+## 前缀icosa-与eicosa-
 
 [IUPAC对数值](https://zh.wikipedia.org/wiki/IUPAC "wikilink")20的前缀的拼写依据[语源学](../Page/语源学.md "wikilink")选择了**icosa-**。但是[化学文摘社](../Page/化学文摘社.md "wikilink")与[伯恩斯坦数据库选择了另一种拼写形式](https://zh.wikipedia.org/wiki/伯恩斯坦数据库 "wikilink")*eicosa-*。
 

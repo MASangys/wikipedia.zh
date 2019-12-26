@@ -956,11 +956,20 @@
 </tr>
 <tr class="odd">
 <td><p>|</p></td>
-<td><p>諾瓦克·喬科維奇 (4)*</p></td>
+<td><p>諾瓦克·喬科維奇 (4)</p></td>
 <td></td>
 <td></td>
-<td><p>20</p></td>
-<td><p><strong>243</strong></p></td>
+<td><p>52</p></td>
+<td><p><strong>275</strong></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>|</p></td>
+<td><p>拉斐爾·納達爾 (8)*</p></td>
+<td></td>
+<td></td>
+<td><p>2</p></td>
+<td><p><strong>198</strong></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -970,10 +979,10 @@
 
 [Jimmy_Connors_cropped.jpg](https://zh.wikipedia.org/wiki/File:Jimmy_Connors_cropped.jpg "fig:Jimmy_Connors_cropped.jpg")共有268個星期世界排名第一，总数世界第四。\]\]
 
-|    |                 |
-| -- | --------------- |
-| \* | **2019年4月1日在位** |
-| \+ | 現役球員            |
+|    |                  |
+| -- | ---------------- |
+| \* | **2019年11月4日在位** |
+| \+ | 現役球員             |
 
 <table>
 <tbody>
@@ -999,23 +1008,23 @@
 </tr>
 <tr class="odd">
 <td><p>3.</p></td>
-<td><p>伊万·伦德尔</p></td>
-<td><p>270</p></td>
+<td><p>諾瓦克·喬科維奇+</p></td>
+<td><p>275</p></td>
 </tr>
 <tr class="even">
 <td><p>4.</p></td>
-<td><p>吉米·康诺尔斯</p></td>
-<td><p>268</p></td>
+<td><p>伊万·伦德尔</p></td>
+<td><p>270</p></td>
 </tr>
 <tr class="odd">
 <td><p>5.</p></td>
-<td><p>諾瓦克·喬科維奇+</p></td>
-<td><p><strong>260</strong></p></td>
+<td><p>吉米·康诺尔斯</p></td>
+<td><p>268</p></td>
 </tr>
 <tr class="even">
 <td><p>6.</p></td>
 <td><p>拉斐爾·納達爾 +</p></td>
-<td><p>196</p></td>
+<td><p><strong>198</strong></p></td>
 </tr>
 <tr class="odd">
 <td><p>7.</p></td>

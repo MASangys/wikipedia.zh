@@ -342,6 +342,5 @@
 [Category:倪安東音樂專輯](https://zh.wikipedia.org/wiki/Category:倪安東音樂專輯 "wikilink") [Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink") [Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink")
 
 1.  [倪安東［wake up］第二張個人專輯 - Sky Music](http://skymusic.com.hk/?p=27469)，2012年9月4日 (四) 18:00 (UTC+8)查閱
-
 2.
 3.  [my903.com - 叱咤正在普選](http://www.my903.com/my903/my903SongElection/main.jsp?id=2784)，2012年9月4日 (二) 18:45 (UTC+8)查閱

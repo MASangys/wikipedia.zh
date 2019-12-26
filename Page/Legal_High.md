@@ -188,8 +188,8 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/SU_(RIP_SLYME)" title="wikilink">大槻一人</a><br />
-<small>（<a href="https://zh.wikipedia.org/wiki/RIP_SLYME" title="wikilink">RIP SLYME</a>）</small></p></td>
+<p><br />
+<small>（<a href="https://zh.wikipedia.org/wiki/RIP_SLYME" title="wikilink">RIP SLYME</a>，成員SU）</small></p></td>
 <td><center>
 <p>旁聽判決的男子（第一季）、清潔人員（第二季）</p></td>
 <td><center>
@@ -627,7 +627,7 @@
 <p>德松紀介</p></td>
 <td><center>
 <p><a href="../Page/葉振聲.md" title="wikilink">葉振聲</a></p></td>
-<td><p>德松家的次男，也是目前德松醬油的實質管理者，在本集中委託谷美門法律事務所進行辯護。[2]</p></td>
+<td><p>德松家的次男，也是目前德松醬油的實質管理者，在本集中委託古美門法律事務所進行辯護。[2]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2445,18 +2445,12 @@
 [Category:律師題材電視劇](https://zh.wikipedia.org/wiki/Category:律師題材電視劇 "wikilink") [Category:富士電視台週二晚間九點連續劇](https://zh.wikipedia.org/wiki/Category:富士電視台週二晚間九點連續劇 "wikilink") [Category:2012年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2012年開播的日本電視劇集 "wikilink") [Category:日劇學院賞最佳作品](https://zh.wikipedia.org/wiki/Category:日劇學院賞最佳作品 "wikilink") [Category:共同電視製作電視劇](https://zh.wikipedia.org/wiki/Category:共同電視製作電視劇 "wikilink") [Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink") [Category:電視劇集系列](https://zh.wikipedia.org/wiki/Category:電視劇集系列 "wikilink") [Category:日本法律劇](https://zh.wikipedia.org/wiki/Category:日本法律劇 "wikilink") [Category:日本電視喜劇](https://zh.wikipedia.org/wiki/Category:日本電視喜劇 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink") [Category:2013年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2013年電視特別劇集 "wikilink") [Category:2014年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2014年電視特別劇集 "wikilink") [Category:週六獎賞](https://zh.wikipedia.org/wiki/Category:週六獎賞 "wikilink") [Category:銀河賞選獎獲獎作品](https://zh.wikipedia.org/wiki/Category:銀河賞選獎獲獎作品 "wikilink") [Category:2013年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2013年日本電視劇集 "wikilink") [Category:2014年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2014年日本電視劇集 "wikilink") [Category:古澤良太劇本電視劇](https://zh.wikipedia.org/wiki/Category:古澤良太劇本電視劇 "wikilink") [Category:東京國際戲劇節優秀連續劇獲獎作品](https://zh.wikipedia.org/wiki/Category:東京國際戲劇節優秀連續劇獲獎作品 "wikilink") [Category:放送文化基金賞本賞](https://zh.wikipedia.org/wiki/Category:放送文化基金賞本賞 "wikilink") [Category:堺雅人](https://zh.wikipedia.org/wiki/Category:堺雅人 "wikilink") [Category:新垣結衣](https://zh.wikipedia.org/wiki/Category:新垣結衣 "wikilink") [Category:廣末涼子](https://zh.wikipedia.org/wiki/Category:廣末涼子 "wikilink") [Category:Legal_High](https://zh.wikipedia.org/wiki/Category:Legal_High "wikilink")
 
 1.  [纬来日本台](http://japan.videoland.com.tw/channel/1210e/default_002.asp)
-
 2.
-
 3.
-
 4.
-
 5.
 6.
 7.
 8.  [](http://www.houkon.jp/galaxy/50th.html)
-
 9.  [](http://blog.television.co.jp/drama/academy/2012/08/16/)
-
 10. [Legal high - Sponichi Annex 藝能](http://www.sponichi.co.jp/entertainment/yomimono/drama/2013/10_12/legal_high2/index.html) ，2013年10月9日參照。

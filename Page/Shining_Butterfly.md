@@ -45,9 +45,6 @@
 [Category:早安少女組。歌曲](https://zh.wikipedia.org/wiki/Category:早安少女組。歌曲 "wikilink") [Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink") [Category:電影主題曲](https://zh.wikipedia.org/wiki/Category:電影主題曲 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.

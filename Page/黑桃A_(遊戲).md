@@ -25,31 +25,18 @@
 [Category:2011年电子游戏](https://zh.wikipedia.org/wiki/Category:2011年电子游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:多人在线游戏](https://zh.wikipedia.org/wiki/Category:多人在线游戏 "wikilink") [Category:独立游戏](https://zh.wikipedia.org/wiki/Category:独立游戏 "wikilink") [Category:第一人称射击游戏](https://zh.wikipedia.org/wiki/Category:第一人称射击游戏 "wikilink") [Category:美國開發電子遊戲](https://zh.wikipedia.org/wiki/Category:美國開發電子遊戲 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.

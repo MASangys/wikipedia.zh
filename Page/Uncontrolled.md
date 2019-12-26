@@ -100,16 +100,10 @@
 [Category:安室奈美惠音樂專輯](https://zh.wikipedia.org/wiki/Category:安室奈美惠音樂專輯 "wikilink") [Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink") [Category:2012年Oricon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Oricon專輯月榜冠軍作品 "wikilink") [Category:2012年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Oricon專輯週榜冠軍作品 "wikilink")
 
 1.  [安室奈美恵20周年記念アルバム第1弾発売へ　月9主題歌など収録](https://archive.is/20120709070103/headlines.yahoo.co.jp/hl?a=20120430-00000014-scn-ent)
-
 2.  [Information｜安室奈美恵 Official Website](http://www.avexnet.or.jp/amuro/info.html)
-
 3.  [安室奈美恵、金環日食とコラボした巨大壁面ボードが新宿に出現！](http://headlines.yahoo.co.jp/hl?a=20120528-00000005-mnet-musi)
-
 4.
 5.  [安室玩日食引千人朝聖](http://orientaldaily.on.cc/cnt/entertainment/20120529/00288_024.html)
-
 6.  [安室奈美恵の新アルバム、オリコン１位！史上６組目の３年代連続首位](https://web.archive.org/web/20120708013138/http://headlines.yahoo.co.jp/hl?a=20120703-00000000-dal-ent)
-
 7.  ["【期間限定】先着で最新Remix音源が貰える\!\!Thank you for 20 years\!\!安室奈美恵 SPECIAL PRICEキャンペーン"決定！！](http://www.visionfactory.jp/news/news_archives/1209031800_amuro.html)（VISION FACTORY、2012年9月3日）
-
 8.  [安室奈美恵：今ならRemix音源が付いて来る♪アルバム「Uncontrolled＋Hot Girls -SMIDI CLUB REMIX-」レコチョク独占配信中＆過去作品も期間限定でスペシャルプライスにて配信中！](http://www.visionfactory.jp/news/news_archives/1209251130_amuro.html)（VISION FACTORY、2012年9月25日）

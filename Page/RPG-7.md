@@ -273,7 +273,6 @@ RPG-7的定时自毁设置为4.5秒，因此其最大射程为920米-1000米。�
 [Category:反坦克榴彈](https://zh.wikipedia.org/wiki/Category:反坦克榴彈 "wikilink") [Category:反坦克火箭筒](https://zh.wikipedia.org/wiki/Category:反坦克火箭筒 "wikilink") [Category:無後座力炮](https://zh.wikipedia.org/wiki/Category:無後座力炮 "wikilink") [Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink") [Category:蘇聯槍械](https://zh.wikipedia.org/wiki/Category:蘇聯槍械 "wikilink") [Category:越戰武器](https://zh.wikipedia.org/wiki/Category:越戰武器 "wikilink")
 
 1.  Jones, Richard D. *Jane's Infantry Weapons 2009/2010*. Jane's Information Group; 35 edition (January 27, 2009). ISBN 978-0-7106-2869-5.
-
 2.
 3.
 4.
@@ -283,7 +282,6 @@ RPG-7的定时自毁设置为4.5秒，因此其最大射程为920米-1000米。�
 8.
 9.
 10. [ATGL-L anti-tank grenade launcher](http://www.arsenal-bg.com/defense_police/ATGL-L.htm) , arsenal.bg
-
 11.
 12.
 13.
@@ -298,18 +296,14 @@ RPG-7的定时自毁设置为4.5秒，因此其最大射程为920米-1000米。�
 22.
 23.
 24. <http://www.geo-army.ge/index.php?option=com_content&view=article&id=331%3A2012-04-11-16-56-51&catid=27%3Anews&lang=ka>
-
 25.
 26. <http://www.greekmilitary.net/cypriottroops.html>
-
 27.
 28.
 29.
-
 30.
 31.
 32. Katz, Samuel (1986) Israeli Defence Forces Since 1973. Osprey ISBN 0-85045-687-8
-
 33.
 34.
 35.
@@ -330,11 +324,9 @@ RPG-7的定时自毁设置为4.5秒，因此其最大射程为920米-1000米。�
 50.
 51.
 52.
-
 53.
 54.
 55. [Carfil website](http://www.carfil.ro/html/armament_.html)
-
 56.
 57.
 58.
@@ -343,19 +335,15 @@ RPG-7的定时自毁设置为4.5秒，因此其最大射程为920米-1000米。�
 61.
 62.
 63. <http://www.army.mil.za/equipment/weaponsystems/infantry/RPG7ATRL_106mm­_Recoilless_Rifle_Syst.htm>
-
 64. [Sinar Light Antitank Rocket Launcher](http://mic.sd/images/products/wepons/en/SINARgzf.html)  Retrieved on March 17, 2009.
-
 65.
 66.
 67.
 68.
-
 69.
 70.
 71.
 72.
-
 73.
 74.
 75.

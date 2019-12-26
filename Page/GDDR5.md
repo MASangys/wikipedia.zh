@@ -32,7 +32,7 @@ HBM比起GDDR5擁有更高的頻寬和位元，位元部分每一顆HBM記憶體
 
 ## 外部連結
 
-  - [Introduction To GDDR5 SGRAM(by ELPIDA)](http://www.elpida.com/pdfs/E1600E10.pdf)
+  - [Introduction To GDDR5 SGRAM(by ELPIDA)](https://web.archive.org/web/20110720090920/http://www.elpida.com/pdfs/E1600E10.pdf)
   - [Making Accurate Measurements on GDDR5 Memory Systems](https://web.archive.org/web/20110707094741/http://cp.literature.agilent.com/litweb/pdf/5990-6130EN.pdf)
 
 ## 参考文献
@@ -40,28 +40,16 @@ HBM比起GDDR5擁有更高的頻寬和位元，位元部分每一顆HBM記憶體
 [分類:電腦記憶體](https://zh.wikipedia.org/wiki/分類:電腦記憶體 "wikilink")
 
 1.
-
-2.  [Register report](http://www.reghardware.co.uk/2007/11/01/qimonda_samples_gddr5). Retrieved November 2, 2007.
-
+2.  [Register report](http://www.reghardware.co.uk/2007/11/01/qimonda_samples_gddr5) . Retrieved November 2, 2007.
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.  [When should we expect GDDR6?](http://www.reddit.com/r/hardware/comments/2cfwhh/when_should_we_expect_gddr6/) - [Reddit](../Page/Reddit.md "wikilink")
-
 10.
-
 11.
-
 12.
-
 13.
 14.

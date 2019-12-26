@@ -1,6 +1,4 @@
-《**Seven Springs Of Apink**》是[韓國女子流行音樂團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Apink](../Page/Apink.md "wikilink")出道首張迷你專輯，於2011年4月19日發行。她們的出道形象與當時韓國歌壇上大多數女團走的性感路線不同，主打清純風格。
-
-專輯共收錄五首歌曲，主打歌是《I Don't Know》。
+《**Seven Springs Of Apink**》是[韓國女子流行音樂團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Apink](../Page/Apink.md "wikilink")出道首張迷你專輯，於2011年4月19日發行。她們的出道形象與當時韓國歌壇上大多數女團走的性感路線不同，主打清純風格。專輯共收錄五首歌曲，主打歌是《**I Don't Know (물아요)**》。
 
 ## 概要
 

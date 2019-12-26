@@ -13,16 +13,10 @@
 [Category:唧筒座](https://zh.wikipedia.org/wiki/Category:唧筒座 "wikilink") [Category:前漸近巨星分支星](https://zh.wikipedia.org/wiki/Category:前漸近巨星分支星 "wikilink") [Category:HD天體](https://zh.wikipedia.org/wiki/Category:HD天體 "wikilink") [Category:2MASS天體](https://zh.wikipedia.org/wiki/Category:2MASS天體 "wikilink") [Category:DENIS天體](https://zh.wikipedia.org/wiki/Category:DENIS天體 "wikilink") [Category:有變星名稱的恆星](https://zh.wikipedia.org/wiki/Category:有變星名稱的恆星 "wikilink") [Category:HR天體](https://zh.wikipedia.org/wiki/Category:HR天體 "wikilink") [Category:B型超巨星](https://zh.wikipedia.org/wiki/Category:B型超巨星 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.
-
 7.
-
 8.

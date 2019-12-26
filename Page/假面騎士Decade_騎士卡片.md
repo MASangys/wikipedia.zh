@@ -745,26 +745,16 @@ Decade可從握把抽出Faiz EDGE。[5]</p></td>
 [Category:假面騎士](https://zh.wikipedia.org/wiki/Category:假面騎士 "wikilink") [Category:平成假面騎士系列](https://zh.wikipedia.org/wiki/Category:平成假面騎士系列 "wikilink")
 
 1.  於幪面超人ZI-O第13話擊倒幪面超人GEIZ時使用
-
 2.  於《[假面騎士x超級戰隊 超級英雄大戰](https://zh.wikipedia.org/wiki/假面騎士x超級戰隊_超級英雄大戰 "wikilink")》中使用。
-
 3.  於漫畫版中使用。
-
 4.  Surive Ryuki的必殺技是此劇原創的。另外，大部份假面騎士的最強形態也具有兩種或以上的必殺技，而Complete Form時使用的必殺技，主要都是須運用武器。
-
 5.
 6.  於[假面騎士ZI-O第](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")13話擊倒假面騎士ZI-O時使用
-
 7.
 8.  於『仮面ライダー Official Datafile 115』登場。
-
 9.  劇中此卡被變成Momotaros卡，但於『仮面ライダーディケイド超全集〈上巻〉』p.35登場且無被「變卡」，而效果於『仮面ライダー Official Datafile 118号』說明。
-
 10.
 11. 護星卡。
-
 12. 只能在發動過後現形才能作出攻擊。
-
 13. 劇中劍刃與空我格雷姆連接，令攻擊強化了。是編審因為電王篇而特別作出的搞笑效果，而不是卡片效果。
-
 14. 在劇中，-{Kivat}-三世大叫「Kiva 上吧！」是-{Kivat}-三世原有的風格，與咭片效力無關

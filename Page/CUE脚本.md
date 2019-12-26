@@ -122,6 +122,5 @@ cue脚本是一般的文本文件，默认使用[ASCII](../Page/ASCII.md "wikili
 
 1.
 2.  [How to Burn an Audio CD With a Cue Sheet](http://www.ehow.com/how_6830013_burn-audio-cd-cue-sheet.html)
-
 3.
 4.

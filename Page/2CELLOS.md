@@ -30,17 +30,11 @@
 [Category:Musical_duos](https://zh.wikipedia.org/wiki/Category:Musical_duos "wikilink") [Category:Croatian_musical_groups](https://zh.wikipedia.org/wiki/Category:Croatian_musical_groups "wikilink") [Category:大提琴家](https://zh.wikipedia.org/wiki/Category:大提琴家 "wikilink") [Category:Musical_groups_established_in_2011](https://zh.wikipedia.org/wiki/Category:Musical_groups_established_in_2011 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
-
 7.
-
 8.
 9.

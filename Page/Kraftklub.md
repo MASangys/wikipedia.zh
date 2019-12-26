@@ -10,6 +10,7 @@
   - 2014: *In Schwarz*
   - 2015: *Randale* (live album)
   - 2017: *Keine Nacht für Niemand*
+  - 2019: *You*
 
 ### 细碟
 

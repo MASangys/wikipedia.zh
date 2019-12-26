@@ -42,14 +42,9 @@
 [Category:步兵战车](https://zh.wikipedia.org/wiki/Category:步兵战车 "wikilink") [Category:裝甲偵察車](https://zh.wikipedia.org/wiki/Category:裝甲偵察車 "wikilink")
 
 1.
-
 2.
-
 3.
 4.  [IVECO delivers first batch of VBTP-MR vehicles to the Brazilian Army](http://www.armyrecognition.com/december_2012_new_army_military_defence_industry/iveco_delivered_the_first_batch_of_vbtp-mr_guarani_armoured_vehicle_to_brazilian_army_1612121.html)  - Armyrecognition.com, December 16, 2012
-
 5.
-
 6.
-
 7.

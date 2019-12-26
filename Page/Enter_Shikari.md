@@ -33,36 +33,21 @@
 [Category:金屬蕊樂團](https://zh.wikipedia.org/wiki/Category:金屬蕊樂團 "wikilink") [Category:搖滾樂團](https://zh.wikipedia.org/wiki/Category:搖滾樂團 "wikilink") [Category:英國搖滾樂團](https://zh.wikipedia.org/wiki/Category:英國搖滾樂團 "wikilink") [Category:2003年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2003年成立的音樂團體 "wikilink") [Category:後硬蕊樂團](https://zh.wikipedia.org/wiki/Category:後硬蕊樂團 "wikilink") [Category:重金屬樂團](https://zh.wikipedia.org/wiki/Category:重金屬樂團 "wikilink") [Category:英國重金屬樂團](https://zh.wikipedia.org/wiki/Category:英國重金屬樂團 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.  <http://blog.kerrangawards.com/2007/08/spirit_of_independence.html#more>
-
 9.  <http://blog.kerrangawards.com/2007/08/best_live_band.html#more>
-
 10.
-
 11.
-
 12.
-
 13.
 14.
-
 15.
 16.
 17.
-
 18.
-
 19.

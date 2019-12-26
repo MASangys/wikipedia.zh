@@ -8,7 +8,7 @@
 
 ## 参见
 
-  - [XDAndroid](https://zh.wikipedia.org/wiki/XDAndroid "wikilink")
+  - [XDAndroid](../Page/XDAndroid.md "wikilink")
 
 ## 註釋
 

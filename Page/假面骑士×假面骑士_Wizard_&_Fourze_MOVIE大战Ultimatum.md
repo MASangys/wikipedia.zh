@@ -756,14 +756,9 @@
 [Category:假面騎士系列電影作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列電影作品 "wikilink") [Category:平成假面騎士系列跨界作品](https://zh.wikipedia.org/wiki/Category:平成假面騎士系列跨界作品 "wikilink") [Category:2012年日本電影](https://zh.wikipedia.org/wiki/Category:2012年日本電影 "wikilink") [Category:坂本浩一電影](https://zh.wikipedia.org/wiki/Category:坂本浩一電影 "wikilink") [Category:闪电人](https://zh.wikipedia.org/wiki/Category:闪电人 "wikilink") [Category:东映不可思议喜剧系列](https://zh.wikipedia.org/wiki/Category:东映不可思议喜剧系列 "wikilink") [Category:長條目名](https://zh.wikipedia.org/wiki/Category:長條目名 "wikilink")
 
 1.
-
 2.  本作中沒有明確地顯示二人是否戀愛或情侶關係。
-
 3.
-
 4.  導演剪輯版登場
-
 5.
 6.  [關智一的twitter](https://twitter.com/seki0908)
-
 7.  演員表未表記。

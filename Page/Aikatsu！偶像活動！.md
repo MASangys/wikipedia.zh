@@ -158,11 +158,11 @@ BGM遊戲開始點選樂曲時，使用ID卡再加上一定條件的話，歌曲
 | Cookie & Clover                                       | 恋するみたいなキャラメリゼ                              | 2015年第5彈                | 演唱會      |     |
 | Pirates Marina                                        | サマー☆マジック                                   | 演唱會                     |          |     |
 | Aikatsu Restaurant                                    | Sweet Heart Restaurant                     | 戲劇                      |          |     |
+| Cute & Cool                                           |                                            | フレンド                    | 2014年第6彈 | 時裝秀 |
 | 特別系列                                                  | Tristar                                    | ダイヤモンドハッピー              | 第5彈      | 演唱會 |
 | Take Me Higher                                        | 演唱會                                        |                         |          |     |
 | Animal Runway                                         | AIKATSU MODE                               | 2014年第2彈                | 時裝秀      |     |
 | Marine Runway                                         | 2014年第5彈                                   | 時裝秀                     |          |     |
-| Cute & Cool                                           | フレンド                                       | 2014年第6彈                | 時裝秀      |     |
 | Campaign                                              | Welcome Halloween                          | Lovely Party Collection | 2016年第1彈 | 時裝秀 |
 |                                                       |                                            |                         |          |     |
 
@@ -605,7 +605,7 @@ BGM遊戲開始點選樂曲時，使用ID卡再加上一定條件的話，歌曲
 
   - 海外遊戲
 
-  - [BANDAI 香港《星夢-{}-學園》官網](https://www.bandainamcoasia.com/aikatsu/index.html)
+  - [BANDAI 香港《星夢-{}-學園》官網](https://web.archive.org/web/20181002153558/https://www.bandainamcoasia.com/aikatsu/index.html)
 
   - [印尼《Aikatsu！》官方網站](http://id.aikatsu.com/)
 

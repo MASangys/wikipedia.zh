@@ -24,28 +24,16 @@ Thrun在Udacity的工作被*[卫报](https://zh.wikipedia.org/wiki/卫报 "wikil
 [Category:教育機構](https://zh.wikipedia.org/wiki/Category:教育機構 "wikilink") [Category:教育网站](https://zh.wikipedia.org/wiki/Category:教育网站 "wikilink") [Category:内容开放](https://zh.wikipedia.org/wiki/Category:内容开放 "wikilink") [Category:教育技術](https://zh.wikipedia.org/wiki/Category:教育技術 "wikilink") [Category:開放教育資源](https://zh.wikipedia.org/wiki/Category:開放教育資源 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.

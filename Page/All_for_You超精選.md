@@ -109,16 +109,10 @@
 [Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink") [Category:羅志祥音樂專輯](https://zh.wikipedia.org/wiki/Category:羅志祥音樂專輯 "wikilink") [Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
 
 1.  yesasia.com上["*All for You* 的專輯介紹"](http://www.yesasia.com/global/all-for-you-3cd-2dvd/1023963250-0-0-0-zh_TW/info.html)
-
 2.   ["G-Music風雲榜（華語榜）"](http://www.g-music.com.tw/GMusicBillboard1.aspx) 此連結只顯示本週成績，請在頁面搜尋2011年第4週之榜單成績
-
 3.   ["G-Music風雲榜（華語榜）"](http://www.g-music.com.tw/GMusicBillboard1.aspx) 此連結只顯示本週成績，請在頁面搜尋2011年第5週之榜單成績
-
 4.
 5.   ["G-Music風雲榜（綜合榜）"](http://www.g-music.com.tw/GMusicBillboard0.aspx)  此連結只顯示本週成績，請在頁面搜尋2011年第4週之榜單成績
-
 6.   ["五大金榜 2011年第4週之榜單成績"](http://www.5music.com.tw/CDTop.asp?top=1&pWeek=20114&sclass=)
-
 7.   [2011年第5週之榜單成績"](http://www.5music.com.tw/CDTop.asp?top=1&pWeek=20115&sclass=%22五大金榜)
-
 8.

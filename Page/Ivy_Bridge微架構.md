@@ -93,86 +93,47 @@ Intel在2011年9月展示了Intel Sandy Bridge/Intel Ivy Bridge的下一代微�
 [Category:X86架構](https://zh.wikipedia.org/wiki/Category:X86架構 "wikilink") [Category:Intel處理器架構](https://zh.wikipedia.org/wiki/Category:Intel處理器架構 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12. e-zone DIY第746期第16頁
-
 13.
-
 14.
 15.
 16.
-
 17.
-
 18.
 19.
-
 20.
-
 21.
-
 22.
-
 23. [Ivy BridgeはZ68、P67、H67などでも使えます](http://plusd.itmedia.co.jp/pcuser/articles/1203/09/news029.html)
-
 24.
-
 25.
 26.
-
 27. [Overclocking Core i7-3770K: Learning To Live With Compromise](http://www.tomshardware.com/reviews/ivy-bridge-overclocking-core-i7-3770k,3198-2.htm)
-
 28. [1](http://cn.engadget.com/2012/05/14/intel-ivy-bridge-thermal-paste/) - 英特尔 Ivy Bridge 晶片过热是因为散热涂层用便宜货？
-
 29.
-
 30.
-
 31.
-
 32.
-
 33. [Intel Core i5-3570K & i7-3770K 评测](http://www.chiphell.com/article-3585-5.html) - chiphell
-
 34. [2](http://news.mydrivers.com/1/226/226124.htm) - 有图有真相：揭秘Ivy Bridge超频温度高原因-Intel,Ivy Bridge,超频,温度高-驱动之家
-
 35.
-
 36.
-
 37. [3](http://news.mydrivers.com/1/228/228095_all.htm) - Core i7-3770K继续开盖！不同硅脂温度对比-i7-3770K,开盖,硅脂,温度-驱动之家
-
 38.
-
 39.
-
 40.
 41.
-
 42.
-
 43.
-
 44. [intel顶级15核处理器确认明年年底上市](http://vga.zol.com.cn/343/3436087.html) - zol.com.cn
-
 45.

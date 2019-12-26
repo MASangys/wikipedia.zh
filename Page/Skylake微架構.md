@@ -1,6 +1,6 @@
 **Intel Skylake**是[英特爾的](https://zh.wikipedia.org/wiki/英特爾 "wikilink")[微處理器](https://zh.wikipedia.org/wiki/微處理器 "wikilink")[架構](../Page/微架構.md "wikilink")，將會是[Intel](https://zh.wikipedia.org/wiki/Intel "wikilink") [Haswell](https://zh.wikipedia.org/wiki/Haswell "wikilink")／[Broadwell微架構的繼任者](https://zh.wikipedia.org/wiki/Broadwell "wikilink")。\[1\]Intel Skylake微架為使用[14納米製程製造](https://zh.wikipedia.org/wiki/14纳米制程 "wikilink")。\[2\] 根据[Intel於](https://zh.wikipedia.org/wiki/Intel "wikilink")2016年公開的[Tick-Tock發展戰略模式](https://zh.wikipedia.org/wiki/Tick-Tock "wikilink")，Skylake是一个「Architechture」版本，意思是在「Process」製程基礎上，更新微處理器架構，提升效能\[3\]。Skylake的下一代架構為[Kaby Lake](https://zh.wikipedia.org/wiki/Kaby_Lake "wikilink")（已于2016年下半年发布）\[4\]\[5\]。
 
-## 主要特性
+## 主要特性 (Core i 6代)
 
 1.  採用14納米製程；
 2.  支持[DDR4及](../Page/DDR4_SDRAM.md "wikilink")[DDR3L](https://zh.wikipedia.org/wiki/DDR3L "wikilink") [SDRAM](../Page/SDRAM.md "wikilink")(若使用DDR3而非DDR3L則會導致處理器受損，Y系列不支持DDR4)；\[6\]\[7\]
@@ -19,7 +19,7 @@
   - HD Graphics P530、Iris 540、Iris 550（GT3e，EU：48）
   - Iris Pro 580（GT4e，EU：72）；
 
-## 14奈米架構改進版：[Kaby Lake](https://zh.wikipedia.org/wiki/Kaby_Lake "wikilink")
+## 14奈米架構改進版(14nm+)：[Kaby Lake](https://zh.wikipedia.org/wiki/Kaby_Lake "wikilink")(Core i 7代)
 
 [英特爾於](https://zh.wikipedia.org/wiki/英特爾 "wikilink")2016年第二季發布[Kaby Lake架構](https://zh.wikipedia.org/wiki/Kaby_Lake "wikilink")，為Skylake架構改良版，已於2016年第三季及第四季分別推出U版及Y版(超低及極低功耗)；H版及桌面S版在2017年1月6日推出。[Kaby Lake及](https://zh.wikipedia.org/wiki/Kaby_Lake "wikilink")[Skylake同時能相容](https://zh.wikipedia.org/wiki/Skylake "wikilink")100及200系列晶片組(100系列需先更新BIOS)\[9\]。
 Kaby Lake比Skylake擁有更高的時脈，內建Intel第9.5代顯示核心，完整對4K解析度的改進及支援。
@@ -27,7 +27,7 @@ Kaby Lake比Skylake擁有更高的時脈，內建Intel第9.5代顯示核心，�
 <big>**主要特性：**</big>
 
   - [14+](https://zh.wikipedia.org/wiki/14+ "wikilink")[纳米](../Page/纳米.md "wikilink")[制程](https://zh.wikipedia.org/wiki/制程 "wikilink")
-  - 采用与Skylake处理器相同[LGA 1151插座](https://zh.wikipedia.org/wiki/LGA_1151 "wikilink")，且两者可以兼容
+  - 采用与Skylake处理器相同[LGA 1151插座](../Page/LGA_1151.md "wikilink")，且两者可以兼容
   - 內建Intel第9.5代顯示核心
   - 200系列[PCH](https://zh.wikipedia.org/wiki/PCH "wikilink")
   - [热设计功耗](../Page/热设计功耗.md "wikilink")（TDP）最高95W（LGA 1151）
@@ -40,44 +40,35 @@ Kaby Lake比Skylake擁有更高的時脈，內建Intel第9.5代顯示核心，�
   - 支持Intel 技术
   - Core i3/i5/i7支援AVX2指令集；Pentium及Celeron只支援 SSE 4.1/4.2
 
-## 14奈米製程改進版：[Coffee Lake](../Page/Coffee_Lake微架构.md "wikilink")／[Coffee Lake Refresh](https://zh.wikipedia.org/wiki/Coffee_Lake_Refresh微架构 "wikilink")
+## 14奈米製程改進版(14nm++/14nm+++)：[Coffee Lake](../Page/Coffee_Lake微架构.md "wikilink")／[Coffee Lake Refresh](https://zh.wikipedia.org/wiki/Coffee_Lake_Refresh微架构 "wikilink")(Core i 8／9代)
 
 [Coffee Lake實為](../Page/Coffee_Lake微架构.md "wikilink")[Kaby Lake核心增量版](../Page/Kaby_Lake微架構.md "wikilink")，其核心在基礎上跟[Kaby Lake並無多大變化](https://zh.wikipedia.org/wiki/Kaby_Lake "wikilink")，但在實體上因核心數量實質增加及使用更成熟的14[奈米技術](https://zh.wikipedia.org/wiki/奈米 "wikilink")，連帶效能在與Kaby Lake相比下約增加近40%左右。
 
 <big>**主要特性：**</big>
 
   - [14++](https://zh.wikipedia.org/wiki/14++ "wikilink")[纳米](../Page/纳米.md "wikilink")[制程](https://zh.wikipedia.org/wiki/制程 "wikilink")
-
   - 採用與[Skylake與](https://zh.wikipedia.org/wiki/Skylake "wikilink")[Kaby Lake不同的LGA](../Page/Kaby_Lake微架構.md "wikilink") 1151-v2腳位，無法相容前兩代(即使你能透過魔改版BIOS安裝在100 200系主機板上)
-
   - 內建增強影音部分型號為UHD 630的Intel第9.5代顯示核心
-
   - 300系列[PCH](https://zh.wikipedia.org/wiki/PCH "wikilink")
-
   - 熱功耗最高95W
-
   - 最高支援雙通道記憶體，支援DDR4-2400及DDR4-2666
-
   - [PCI Express通道數維持](../Page/PCI_Express.md "wikilink")24條，與Z270相同
-
   - [Core i3由雙核心提升至四核心](https://zh.wikipedia.org/wiki/Core_i3 "wikilink")，不支援[超執行緒](../Page/超執行緒.md "wikilink")
-
   - [Core i5由四核心提升至六核心](https://zh.wikipedia.org/wiki/Core_i5 "wikilink")，不支援[超執行緒](../Page/超執行緒.md "wikilink")
-
   - [Core i7由四核心提升至六核心](https://zh.wikipedia.org/wiki/Core_i7 "wikilink")，支援[超執行緒](../Page/超執行緒.md "wikilink")，第九代增加核心至八核但不支援[超執行緒](../Page/超執行緒.md "wikilink")
-
   - [Core i9為八核心](https://zh.wikipedia.org/wiki/Core_i9 "wikilink")，支援[超執行緒](../Page/超執行緒.md "wikilink")
-
   - 依核心數量提升L3 Cache容量
-
   -
-## 10奈米製程改進版：[Cannon Lake](https://zh.wikipedia.org/wiki/Cannon_Lake "wikilink")
+## 14奈米製程改進版(14nm++++)：[Comet Lake](../Page/Comet_Lake微架构.md "wikilink") (Core i 10代)
+
+## 10奈米製程改進版：[Cannon Lake](https://zh.wikipedia.org/wiki/Cannon_Lake "wikilink") (Core i 8代)
+
+目前僅只有i3-8121U這個產品於2018年第二季上市
 
 主要特性：
 
   - 10奈米製程
-  - 採用與Coffee Lake相同的LGA 1151-v2腳位
-  - 300系列PCH
+  - 新增Intel® AVX-512指令集
 
 根據英特爾“[Tick-Tock](../Page/Intel_Tick-Tock.md "wikilink")”（鐘擺）時間表，下一代製程**Cannon Lake**（暫定）將採用[10納米製程](../Page/10纳米制程.md "wikilink")，將於Skylake發布後一年半以內發布。Intel在2012年第三季度的[英特爾開發者論壇](../Page/英特爾開發者論壇.md "wikilink")上表明[7納米製程的晶片會在](../Page/7纳米制程.md "wikilink")2017年面世，[5納米製程的晶片則在](../Page/5纳米制程.md "wikilink")2019年。\[10\]
 

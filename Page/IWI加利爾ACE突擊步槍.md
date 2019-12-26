@@ -39,7 +39,7 @@
 
 ### 長行程活塞氣動式
 
-[Ace_52_side_2.jpg](https://zh.wikipedia.org/wiki/File:Ace_52_side_2.jpg "fig:Ace_52_side_2.jpg") 加利爾系列突擊步槍使用來自[卡拉什尼科夫系列位於](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")[槍管](../Page/槍管.md "wikilink")上方的[長行程活塞氣動式操作系統](https://zh.wikipedia.org/wiki/氣動式_\(槍械\)#活塞原理 "wikilink")，其好處是無需調節和採用都能夠射擊。長行程活塞系統除了在[M1加蘭德](../Page/M1加兰德步枪.md "wikilink")、AK-47，以至最近在[塔沃爾上亦有採用](../Page/IMI_TAR-21突擊步槍.md "wikilink")。
+[Ace_52_side_2.jpg](https://zh.wikipedia.org/wiki/File:Ace_52_side_2.jpg "fig:Ace_52_side_2.jpg") 加利爾系列突擊步槍使用來自[卡拉什尼科夫系列位於](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")[槍管](../Page/槍管.md "wikilink")上方的[長行程活塞氣動式操作系統](https://zh.wikipedia.org/wiki/氣動式_\(槍械\)#活塞原理 "wikilink")，其好處是無需調節和採用都能夠射擊。長行程活塞系統除了在[M1加蘭德](../Page/M1加兰德步枪.md "wikilink")、AK，以至最近在[塔沃爾上亦有採用](../Page/IMI_TAR-21突擊步槍.md "wikilink")。
 
 ### 導氣管
 
@@ -65,7 +65,7 @@
 
 ### 快慢機
 
-保險及發射模式[快慢機選擇桿仍然裝在](https://zh.wikipedia.org/wiki/擊發調變模式 "wikilink")[機匣兩側](https://zh.wikipedia.org/wiki/機匣 "wikilink")，不過機匣右側由原來為AK-47類（在保險位置時關閉導槽以作為防塵蓋的一部份和限制槍機機框運動）改為小型選擇桿，而左側在上方的除了依舊可以由[拇指激活操作以外](https://zh.wikipedia.org/wiki/拇指 "wikilink")，形狀亦有所改進。快慢機有3個位置，分別為：S為保險、A為全自動、R為半自動。
+保險及發射模式[快慢機選擇桿仍然裝在](https://zh.wikipedia.org/wiki/擊發調變模式 "wikilink")[機匣兩側](https://zh.wikipedia.org/wiki/機匣 "wikilink")，不過機匣右側由原來的AK式（在保險位置時關閉導槽以作為防塵蓋的一部份和限制槍機機框運動）改為小型選擇桿，而左側在上方的除了依舊可以由[拇指激活操作以外](https://zh.wikipedia.org/wiki/拇指 "wikilink")，形狀亦有所改進。快慢機有3個位置，分別為：S為保險、A為全自動、R為半自動。
 
 ### 供彈方式
 
@@ -73,7 +73,7 @@
 
 加利爾ACE 21、22和23是[5.56×45毫米北約口徑](../Page/5.56×45mm_NATO.md "wikilink")，使用IMI Galil的彎形[钢](../Page/钢.md "wikilink")製的35或50發彈匣供彈，而且具有[空槍掛機功能](https://zh.wikipedia.org/wiki/空槍掛機 "wikilink")；亦可在彈匣插口裝上彈匣插槽以使用STANAG彈匣。
 
-加利爾ACE 31和32是[7.62×39毫米蘇聯口徑](../Page/7.62×39mm.md "wikilink")，可直接使用[AK-47和](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")[RPK的所有彈匣](../Page/RPK輕機槍.md "wikilink")（30或40發彈匣）或[彈鼓供彈](https://zh.wikipedia.org/wiki/彈鼓 "wikilink")。
+加利爾ACE 31和32是[7.62×39毫米蘇聯口徑](../Page/7.62×39mm.md "wikilink")，可直接使用[AK和](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")[RPK的所有彈匣](../Page/RPK輕機槍.md "wikilink")（30或40發彈匣）或[彈鼓供彈](https://zh.wikipedia.org/wiki/彈鼓 "wikilink")。
 
 加利爾ACE 52、52 L和53是[7.62×51毫米北約口徑](../Page/7.62×51mm_NATO.md "wikilink")，使用IMI Galil的直形[钢](../Page/钢.md "wikilink")製的25發彈匣供彈。
 
@@ -310,6 +310,10 @@
       -
   -
   -
+  - ：由[越南供應](https://zh.wikipedia.org/wiki/越南 "wikilink")。
+
+      - [老撾人民軍](https://zh.wikipedia.org/wiki/老撾人民軍 "wikilink")
+
   -   - \[24\]
 
   -
@@ -322,7 +326,7 @@
   -   - [蘇丹人民解放軍](https://zh.wikipedia.org/wiki/南蘇丹武裝力量 "wikilink")\[27\]
 
   -
-  -   - [越南人民军](../Page/越南人民军.md "wikilink")：ACE 31和32已被選定為新型制式突擊步槍，以逐步取代目前裝備的[AK-47系列衍生武器](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")。\[28\]合同價值約1億[美元](../Page/美元.md "wikilink")，當中包括由IWI在[越南國防部協助以下設在北部](https://zh.wikipedia.org/wiki/越南國防部 "wikilink")[清化省](../Page/清化省.md "wikilink")的Z111兵工廠，為越南人民軍本土生產數目不詳的加利爾ACE突擊步槍。\[29\]\[30\]
+  -   - [越南人民军](../Page/越南人民军.md "wikilink")：ACE 31和32已被選定為新型制式突擊步槍，以逐步取代目前裝備的[AK系列衍生武器](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")。\[28\]合同價值約1億[美元](../Page/美元.md "wikilink")，當中包括由IWI在[越南國防部協助以下設在北部](https://zh.wikipedia.org/wiki/越南國防部 "wikilink")[清化省](../Page/清化省.md "wikilink")的Z111兵工廠，為越南人民軍本土生產數目不詳的加利爾ACE突擊步槍。\[29\]\[30\]
 
   - —自2014年8月授權生產，ACE 22和ACE 31分別命名為“Fort-227”\[31\]和“Fort-228”\[32\]。
 
@@ -366,7 +370,7 @@
 
   - [Vektor CR-21](../Page/CR-21突擊步槍.md "wikilink")
 
-  - [AK-47](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")
+  - [AK](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")
 
   - [AK-12](../Page/AK-12突击步枪.md "wikilink")
 
@@ -487,58 +491,35 @@
 [Category:自动步枪](https://zh.wikipedia.org/wiki/Category:自动步枪 "wikilink") [Category:突擊步槍](https://zh.wikipedia.org/wiki/Category:突擊步槍 "wikilink") [Category:5.56×45毫米槍械](https://zh.wikipedia.org/wiki/Category:5.56×45毫米槍械 "wikilink") [Category:7.62×39毫米槍械](https://zh.wikipedia.org/wiki/Category:7.62×39毫米槍械 "wikilink") [Category:戰鬥步槍](https://zh.wikipedia.org/wiki/Category:戰鬥步槍 "wikilink") [Category:7.62×51毫米槍械](https://zh.wikipedia.org/wiki/Category:7.62×51毫米槍械 "wikilink") [Category:以色列军事](https://zh.wikipedia.org/wiki/Category:以色列军事 "wikilink") [Category:以色列槍械](https://zh.wikipedia.org/wiki/Category:以色列槍械 "wikilink") [Category:AK-47衍生枪](https://zh.wikipedia.org/wiki/Category:AK-47衍生枪 "wikilink")
 
 1.  [GALIL ACE 5.56](http://www.sadefensejournal.com/wp/?p=1927) 29 May 2013, Small Arms Defense Journal
-
 2.
-
 3.  *The Battle Rifle: Development and Use Since World War II*, By Russell C. Tilstra, Russell C. Tilstra, (McFarland 2014), page 98
-
 4.
 5.  [GALIL ACE 5.56](http://www.sadefensejournal.com/wp/?p=1927&page=2) 29 May 2013, Small Arms Defense Journal (Volume 5)
-
 6.  [Galil Ace Rifle](http://www.thefirearmblog.com/blog/2010/08/24/galil-ace-rifle) August 24, 2010 in Rifles by Steve Johnson
-
 7.
 8.
-
 9.  [IWI Galil ACE Semi-Automatic Rifle](http://www.americanrifleman.org/articles/2015/1/20/iwi-galil-ace-semi-automatic-rifle/)by B. Gil Horman - Monday, January 19, 2015
-
 10.
-
 11.
 12.
 13.
 14.
 15.
 16. [FIDAE: Chilean Army Selects Galil ACE as New Standard Rifle](http://www.defensenews.com/article/20140326/DEFREG02/303260027/FIDAE-Chilean-Army-Selects-Galil-ACE-New-Standard-Rifle) - Defensenews.com, 26 March 2014
-
 17. [The Chilean Army begins to deploy the new Galil ACE](http://defensa.com/index.php?option=com_content&view=article&id=13356:el-ejercito-de-chile-comienza-a-desplegar-el-nuevo-fusil-galil-ace&catid=55:latinoamerica&Itemid=163) WEDNESDAY SEPTEMBER 24, 2014
-
 18.
-
 19.
 20.
-
 21. [El Salvador also to buy Galil Ace](http://www.thefirearmblog.com/blog/2012/01/11/el-salvador-also-to-buy-galil-ace/) - Thefirearmblog
-
 22. [IWI Galil ACE rifle adopted by Guatemala National Civil Police](http://www.thefirearmblog.com/blog/2011/02/16/iwi-galil-ace-rifle-adopted-by-guatemala-national-civil-police/) - Thefirearmblog.com
-
 23. <http://www.thefirearmblog.com/blog/2014/04/30/haitian-police-spotted-galil-ace-t65-rifles/>
-
 24.
-
 25.
-
 26.
-
 27. \[<http://www.thefirearmblog.com/blog/2014/02/13/iwi-galil-ace-spotted-south-sudan-mexico/>? IWI Galil ACE Spotted In South Sudan and Mexico - The Firearm Blog\]
-
 28.
-
 29. [Israeli IWI Galil ACE 31 ACE 32 assault rifles to replace Russian AK-47 in Vietnamese Army 0202146 - Army Recognition](http://www.armyrecognition.com/february_2014_global_defense_security_news_uk/israeli_iwi_gali_ace_31_ace_32_assault_rifles_to_replace_russian_ak-47_in_vietnamese_army_0202146.html)
-
 30. [Israel Weapon Industries to begin assault rifle production in Vietnam - IHS Jane's 360](http://www.janes.com/article/33334/israel-weapon-industries-to-begin-assault-rifle-production-in-vietnam)
-
 31.
 32. [Штурмовая винтовка «Форт-228»](http://www.fort.vn.ua/produkciya/avtomaticheskoe-oruzhie/shturmovaya-vintovka-fort228.html)  / официальный сайт НПО "Форт"
-
 33. [India to put assault rifle contenders through winter trials](http://www.janes.com/article/25697/india-to-put-assault-rifle-contenders-through-winter-trials) - Janes.com, 4 August 2013

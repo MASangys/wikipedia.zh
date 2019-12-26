@@ -103,9 +103,7 @@
 [Category:西野加奈音樂專輯](https://zh.wikipedia.org/wiki/Category:西野加奈音樂專輯 "wikilink") [Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink") [Category:日本唱片大獎專輯大獎獲獎作品](https://zh.wikipedia.org/wiki/Category:日本唱片大獎專輯大獎獲獎作品 "wikilink")
 
 1.  [Sony Music ディスコグラフィ Love Place【初回生産限定盤】](http://www.sonymusic.co.jp/artist/kananishino/discography/SECL-1178)
-
 2.
 3.  [Sony Music ディスコグラフィ Thank you, Love【初回生産限定盤】](http://www.sonymusic.co.jp/artist/kananishino/discography/SECL-980)
-
 4.
 5.

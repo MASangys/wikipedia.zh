@@ -40,42 +40,23 @@ Glacier也可作为S3中的“存储类”使用。\[21\]对象只能根据生�
 [Category:雲端運算](https://zh.wikipedia.org/wiki/Category:雲端運算 "wikilink") [Category:Amazon_Web_Services](https://zh.wikipedia.org/wiki/Category:Amazon_Web_Services "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
-
 7.
-
 8.  <https://arstechnica.com/information-technology/2015/11/to-go-green-facebook-puts-petabytes-of-cat-pics-on-ice-and-likes-windfarming/>
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14. <https://storagemojo.com/2014/04/25/amazons-glacier-secret-bdxl/>
-
 15.
-
 16. <https://www.wired.com/2012/08/glacier/>
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.

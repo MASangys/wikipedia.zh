@@ -1,4 +1,4 @@
-本頁是日本女子[流行電子音樂組合](https://zh.wikipedia.org/wiki/流行電子音樂 "wikilink")**[Perfume](../Page/Perfume_\(日本音樂團體\).md "wikilink")**的作品列表。自2001年Perfume出道以來，到2018年8月為止共發表了7張原創專輯及30張單曲。
+本頁是日本女子[流行電子音樂組合](https://zh.wikipedia.org/wiki/流行電子音樂 "wikilink")**[Perfume](../Page/Perfume_\(日本音樂團體\).md "wikilink")**的作品列表。自2005年Perfume主流出道以來，到2018年8月為止共發表了7張原創專輯及30張單曲。
 
 ## 專輯
 
@@ -10,7 +10,7 @@
 <th><p>張數</p></th>
 <th><p>發售日期</p></th>
 <th><p>名稱</p></th>
-<th><p>Oricon銷售榜<br />
+<th><p>Oricon公信榜<br />
 最高位置</p></th>
 </tr>
 </thead>
@@ -38,7 +38,7 @@
 <tr class="even">
 <td><p>3rd</p></td>
 <td><p>2009年7月8日</p></td>
-<td><p><strong><a href="../Page/⊿_(Perfume專輯).md" title="wikilink">⊿（Triangle）</a></strong></p></td>
+<td><p><strong><a href="../Page/⊿_(Perfume專輯).md" title="wikilink">⊿</a></strong></p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
@@ -68,7 +68,7 @@
 </tbody>
 </table>
 
-### 精选辑
+### 精選辑
 
 <table>
 <thead>
@@ -76,7 +76,7 @@
 <th><p>張數</p></th>
 <th><p>發售日期</p></th>
 <th><p>名稱</p></th>
-<th><p>Oricon銷售榜<br />
+<th><p>Oricon公信榜<br />
 最高位置</p></th>
 </tr>
 </thead>
@@ -84,8 +84,8 @@
 <tr class="odd">
 <td><p>1st</p></td>
 <td><p>2019年9月18日</p></td>
-<td><p><strong>Perfume The Best “P Cubed”</strong></p></td>
-<td><p>未知</p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Perfume_The_Best_“P_Cubed”" title="wikilink">Perfume The Best “P Cubed”</a></strong></p></td>
+<td><p>1</p></td>
 </tr>
 </tbody>
 </table>
@@ -98,7 +98,7 @@
 <th><p>張數</p></th>
 <th><p>發售日期</p></th>
 <th><p>名稱</p></th>
-<th><p>Oricon銷售榜<br />
+<th><p>Oricon公信榜<br />
 最高位置</p></th>
 </tr>
 </thead>
@@ -112,7 +112,7 @@
 </tbody>
 </table>
 
-### 非主流时期专辑
+### 唱片套装
 
 <table>
 <thead>
@@ -120,7 +120,7 @@
 <th><p>張數</p></th>
 <th><p>發售日期</p></th>
 <th><p>名稱</p></th>
-<th><p>Oricon銷售榜<br />
+<th><p>Oricon公信榜<br />
 最高位置</p></th>
 </tr>
 </thead>
@@ -128,8 +128,8 @@
 <tr class="odd">
 <td><p>1st</p></td>
 <td><p>2008年2月15日</p></td>
-<td><p><strong>Fan Service -Prima Box-</strong></p></td>
-<td><p>9（算入单曲榜）</p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Fan_Service_~Prima_Box~" title="wikilink">Fan Service ~Prima Box~</a></strong></p></td>
+<td><p>9（计入單曲榜）</p></td>
 </tr>
 </tbody>
 </table>
@@ -164,8 +164,8 @@
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/魔法★吞下去" title="wikilink">OMAJINAI★ペロリ</a></strong></p></td>
 <td><p>魔法★吞下去</p></td>
 <td><ol>
-<li>OMAJINAI★ペロリ (OMAJINAI★Perori)</li>
-<li>OMAJINAI★ペロリ (オリジナルカラオケ) ( OMAJINAI★Perori (Original Karaoke) )</li>
+<li>OMAJINAI★ペロリ</li>
+<li>OMAJINAI★ペロリ (オリジナルカラオケ)</li>
 </ol></td>
 <td></td>
 </tr>
@@ -175,8 +175,8 @@
 <td><p><strong>彼氏募集中</strong></p></td>
 <td><p>男友徵集中</p></td>
 <td><ol>
-<li>彼氏募集中 (Kareshi Boshuchu)</li>
-<li>彼氏募集中 (オリジナルカラオケ) ( Kareshi Boshuchu (Original Karaoke) )</li>
+<li>彼氏募集中</li>
+<li>彼氏募集中 (オリジナルカラオケ)</li>
 </ol></td>
 <td></td>
 </tr>
@@ -194,11 +194,11 @@
 <td><p><strong><a href="../Page/Sweet_Donuts.md" title="wikilink">スウィートドーナッツ</a></strong></p></td>
 <td><p>Sweet Donuts</p></td>
 <td><ol>
-<li>スウィートドーナッツ (Sweet Donuts)</li>
-<li>シークレットメッセージ (Secret Message)</li>
-<li>ジェニーはご機嫌ななめ (Jenny Wa Gokigen Naname)</li>
+<li>スウィートドーナッツ</li>
+<li>シークレットメッセージ</li>
+<li>ジェニーはご機嫌ななめ</li>
 </ol></td>
-<td><p><a href="../Page/Perfume～Complete_Best～.md" title="wikilink">Perfume～Complete Best～</a></p></td>
+<td><p><a href="../Page/Perfume～Complete_Best～.md" title="wikilink">Perfume ~Complete Best~</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
@@ -206,9 +206,9 @@
 <td><p><strong><a href="../Page/Monochrome_Effect.md" title="wikilink">モノクロームエフェクト</a></strong></p></td>
 <td><p>Monochrome Effect</p></td>
 <td><ol>
-<li>モノクロームエフェクト (Monochrome Effect)</li>
-<li>エレベーター (Elevator)</li>
-<li>おいしいレシピ (Oishii Recipe)</li>
+<li>モノクロームエフェクト</li>
+<li>エレベーター</li>
+<li>おいしいレシピ</li>
 </ol></td>
 <td></td>
 </tr>
@@ -218,8 +218,8 @@
 <td><p><strong><a href="../Page/Vitamin_Drop.md" title="wikilink">ビタミンドロップ</a></strong></p></td>
 <td><p>Vitamin Drop</p></td>
 <td><ol>
-<li>ビタミンドロップ (Vitamin Drop)</li>
-<li>引力 (Inyouku)</li>
+<li>ビタミンドロップ</li>
+<li>引力</li>
 </ol></td>
 <td></td>
 </tr>
@@ -236,7 +236,7 @@
 <th><p>名稱</p></th>
 <th><p>中文譯名</p></th>
 <th><p>曲目</p></th>
-<th><p>Oricon銷售榜<br />
+<th><p>Oricon公信榜<br />
 最高位置</p></th>
 <th><p>收錄專輯</p></th>
 </tr>
@@ -248,12 +248,12 @@
 <td><p><strong><a href="../Page/Linear_Motor_Girl.md" title="wikilink">リニアモーターガール</a></strong></p></td>
 <td><p>Linear Motor Girl</p></td>
 <td><ol>
-<li>リニアモーターガール (Linear Motor Girl)</li>
-<li>ファンデーション (Foundation)</li>
-<li>コンピューター ドライビング (Computer Driving)</li>
+<li>リニアモーターガール</li>
+<li>ファンデーション</li>
+<li>コンピューター ドライビング</li>
 </ol></td>
 <td><p>99</p></td>
-<td><p><a href="../Page/Perfume～Complete_Best～.md" title="wikilink">Perfume～Complete Best～</a></p></td>
+<td><p><a href="../Page/Perfume～Complete_Best～.md" title="wikilink">Perfume ~Complete Best~</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
@@ -261,7 +261,7 @@
 <td><p><strong><a href="../Page/Computer_City.md" title="wikilink">コンピューターシティ</a></strong></p></td>
 <td><p>Computer City</p></td>
 <td><ol>
-<li>コンピューターシティ (Computer City)</li>
+<li>コンピューターシティ</li>
 <li>Perfume</li>
 </ol></td>
 <td><p>45</p></td>
@@ -273,7 +273,7 @@
 <td><p><strong><a href="../Page/Electro_World.md" title="wikilink">エレクトロ・ワールド</a></strong></p></td>
 <td><p>Electro World</p></td>
 <td><ol>
-<li>エレクトロ・ワールド (Electro World)</li>
+<li>エレクトロ・ワールド</li>
 <li>wonder2</li>
 </ol></td>
 <td><p>77</p></td>
@@ -283,9 +283,9 @@
 <td><p>4th</p></td>
 <td><p>2007年2月14日</p></td>
 <td><p><strong><a href="../Page/Fan_Service［sweet］.md" title="wikilink">Fan Service ［sweet］</a></strong></p></td>
-<td><p>Fan Service ［sweet］</p></td>
+<td></td>
 <td><ol>
-<li>チョコレイト・ディスコ (Chocolate Disco)</li>
+<li>チョコレイト・ディスコ</li>
 <li>Twinkle Snow Powdery Snow</li>
 </ol></td>
 <td><p>35</p></td>
@@ -297,11 +297,11 @@
 <td><p><strong><a href="../Page/Polyrhythm_(Perfume單曲).md" title="wikilink">ポリリズム</a></strong></p></td>
 <td><p>Polyrhythm</p></td>
 <td><ol>
-<li>ポリリズム (Polyrhythm)</li>
+<li>ポリリズム</li>
 <li>SEVENTH HEAVEN</li>
 <li>ポリリズム -extra short edit-</li>
-<li>ポリリズム -original instrumental-</li>
-<li>SEVENTH HEAVEN -original instrumental-</li>
+<li>ポリリズム~Original instrumental~</li>
+<li>SEVENTH HEAVEN~Original Instrumental-</li>
 </ol></td>
 <td><p>7</p></td>
 <td></td>
@@ -309,13 +309,13 @@
 <tr class="even">
 <td><p>6th</p></td>
 <td><p>2008年1月16日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Baby_cruising_Love/Macaroni" title="wikilink">Baby cruising Love/マカロニ</a></strong></p></td>
-<td><p>Baby cruising Love/Macaroni</p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Baby_cruising_Love/Macaroni" title="wikilink">Baby cruising Love / マカロニ</a></strong></p></td>
+<td><p>Baby cruising Love / Macaroni</p></td>
 <td><ol>
 <li>Baby cruising Love</li>
-<li>マカロニ (Macaroni)</li>
-<li>Baby cruising Love -original instrumental-</li>
-<li>マカロニ -original instrumental-</li>
+<li>マカロニ</li>
+<li>Baby cruising Love ~Original instrumental~</li>
+<li>マカロニ ~Original Instrumental~</li>
 </ol></td>
 <td><p>3</p></td>
 <td></td>
@@ -328,11 +328,11 @@
 <td><ol>
 <li>love the world</li>
 <li>edge</li>
-<li>love the world -original instrumental-</li>
+<li>love the world -Original Instrumental-</li>
 <li>edge -extended mix-</li>
 </ol></td>
 <td><p>1</p></td>
-<td><p><a href="../Page/⊿_(Perfume專輯).md" title="wikilink">⊿（Triangle）</a></p></td>
+<td><p><a href="../Page/⊿_(Perfume專輯).md" title="wikilink">⊿</a></p></td>
 </tr>
 <tr class="even">
 <td><p>8th</p></td>
@@ -341,9 +341,9 @@
 <td><p>Dream Fighter</p></td>
 <td><ol>
 <li>Dream Fighter</li>
-<li>願い (Negai)</li>
+<li></li>
 <li>Dream Fighter -original instrumental-</li>
-<li>願い -original instrumental-</li>
+<li><p>instrumental-</p></li>
 </ol></td>
 <td><p>2</p></td>
 <td></td>
@@ -354,10 +354,10 @@
 <td><p><strong><a href="../Page/One_Room_Disco.md" title="wikilink">ワンルーム・ディスコ</a></strong></p></td>
 <td><p>One Room Disco</p></td>
 <td><ol>
-<li>ワンルーム・ディスコ (One Room Disco)</li>
+<li>ワンルーム・ディスコ</li>
 <li>23:30</li>
-<li>ワンルーム・ディスコ (One Room Disco) -original instrumental-</li>
-<li>23:30 -original instrumental-</li>
+<li>ワンルーム・ディスコ -Original Instrumental-</li>
+<li>23:30 -Original Instrumental-</li>
 </ol></td>
 <td><p>1</p></td>
 <td></td>
@@ -368,10 +368,10 @@
 <td><p>'''<a href="https://zh.wikipedia.org/wiki/不自然女孩/自然愛" title="wikilink">不自然なガール/ナチュラルに恋して</a></p></td>
 <td><p>不自然女孩/自然愛</p></td>
 <td><ol>
-<li>不自然なガール (Fushizen na Girl)</li>
-<li>ナチュラルに戀して (Natural ni koishite)</li>
-<li>不自然なガール -original instrumental-</li>
-<li>ナチュラルに戀して -original instrumental-</li>
+<li>不自然なガール</li>
+<li></li>
+<li>不自然なガール -Original Instrumental-</li>
+<li></li>
 </ol></td>
 <td><p>2</p></td>
 <td><p><a href="../Page/JPN_(Perfume專輯).md" title="wikilink">JPN</a></p></td>
@@ -585,12 +585,12 @@
 <tr class="odd">
 <td><p>25th</p></td>
 <td><p>2018年3月14日</p></td>
-<td><p><strong>無限未来</strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/無限未来" title="wikilink">無限未来</a></strong></p></td>
 <td><p>無限未来</p></td>
 <td><ol>
 <li>無限未来 (Mugenmirai)</li>
-<li>FUSION (除期间限定 花牌情緣限定盤)</li>
-<li>FLASH (期间限定 花牌情緣限定盤)</li>
+<li>FUSION (除期间限定/花牌情緣限定盤)</li>
+<li>FLASH (期间限定/花牌情緣限定盤)</li>
 <li>無限未来 -original instrumental-</li>
 </ol></td>
 <td><p>4</p></td>

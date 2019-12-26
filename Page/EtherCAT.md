@@ -71,11 +71,8 @@ EtherCAT主站可以用軟體，在標準的[乙太網](https://zh.wikipedia.org
 [Category:工業乙太網](https://zh.wikipedia.org/wiki/Category:工業乙太網 "wikilink") [Category:現場總線](https://zh.wikipedia.org/wiki/Category:現場總線 "wikilink") [Category:工業自動化](https://zh.wikipedia.org/wiki/Category:工業自動化 "wikilink")
 
 1.
-
 2.
-3.  [ethercat.org EtherCAT簡介](http://www.ethercat.org/pdf/cn/EtherCAT_Introduction.pdf)
-
+3.
 4.  [cechina EtherCAT 原理介紹](http://article.cechina.cn/2008-05/2008520102128.htm)
-
 5.
 6.  [The safety solution for EtherCAT](http://www.ethercat.org/pdf/english/pcc0107_safety_over_ethercat_e.pdf)

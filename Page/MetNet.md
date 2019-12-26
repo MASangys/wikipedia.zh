@@ -44,18 +44,12 @@ MetNet 目前的執行團隊有[芬蘭氣象研究所](https://zh.wikipedia.org/
 [Category:火星探測器](https://zh.wikipedia.org/wiki/Category:火星探測器 "wikilink") [Category:氣象儀器和設備](https://zh.wikipedia.org/wiki/Category:氣象儀器和設備 "wikilink") [Category:芬蘭科技](https://zh.wikipedia.org/wiki/Category:芬蘭科技 "wikilink") [Category:計畫中的太空探測器](https://zh.wikipedia.org/wiki/Category:計畫中的太空探測器 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
 6.
-
 7.
-
 8.
 9.
-
 10. [MetNet - Precursor Mission Overview](http://metnet.fmi.fi/index.php?id=93)

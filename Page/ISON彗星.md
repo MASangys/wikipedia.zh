@@ -75,24 +75,17 @@ C/2012 S1被發現時的[視星等為](https://zh.wikipedia.org/wiki/視星等 "
 7.
 8.
 9.  [世紀彗星解體地球無緣相見](http://inews.mingpao.com/htm/Inews/20131129/ta50918y.htm)，明報，2013年11月29日
-
 10. [艾桑彗星是存？是亡？ 兩派說法 待觀察](http://tw.news.yahoo.com/艾桑彗星是存-是亡-兩派說法-待觀察-082659516.html)，中廣新聞網，2013年11月29日
-
 11. [台北天文教育館 天文新知](http://tamweb.tam.gov.tw/v3/TW/content.asp?mtype=c2&idx=1143)，中廣新聞網，2013年11月29日
-
 12. [NASA美國太空總署 艾桑彗星的一生，2013年12月2日](http://www.nasa.gov/content/goddard/nasa-investigating-the-life-of-comet-ison/)
-
 13. [艾桑彗星過日影片](https://www.youtube.com/watch?v=kcROVqmF9SY)
-
 14. [NASA美國太空總署 NASA開始搜尋艾桑彗星的殘骸](http://www.nasa.gov/content/goddard/nasa-begins-search-for-what-is-left-of-comet-ison/)
-
 15.
 16.
 17.
 18.
 19.
 20. [“世纪彗星”ISON](http://www.apdnews.com/news/46621.html) ，亚太日报，2013年11月19日
-
 21.
 22.
 23.
@@ -117,7 +110,6 @@ C/2012 S1被發現時的[視星等為](https://zh.wikipedia.org/wiki/視星等 "
 42.
 43.
 44. 視星等等級是隨著亮度的增加而遞減
-
 45.
 46.
 47.
@@ -132,7 +124,6 @@ C/2012 S1被發現時的[視星等為](https://zh.wikipedia.org/wiki/視星等 "
 56.
 57.
 58. [艾桑彗星過日影片](https://www.youtube.com/watch?v=kcROVqmF9SY)
-
 59.
 60.
 61.

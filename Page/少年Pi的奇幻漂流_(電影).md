@@ -130,7 +130,7 @@ Buddhist Sailor</p></td>
 
 北美首周末收获2200万美元，名列第五位\[9\]。北美票房持續穩定長賣，累積達1.24億美元，北美和全球總票房4.84億美元，最終總票房6.09億美元\[10\]，為李安電影作品中票房最高的一部。奧斯卡獎頒發前票房約5.7億美元，與之後6.09億美元的總票房相比，奧斯卡效應貢獻少許票房\[11\]。
 
-台灣方面，首日票房為新台幣750萬元\[12\]；首週五天票房為新台幣6500萬元\[13\]；上映9天，全台票房破億\[14\]；次週票房累計至新台幣1.8億元\[15\]；第三週票房累計至新台幣2.75億元\[16\]；第四週票房累計至新台幣3.5億元\[17\]；第五週票房累計至新台幣3.9億元\[18\]，連霸全台五週週末票房冠軍\[19\]；上映第八週時，因奧斯卡公布入圍名單，再度奪回周末冠軍寶座，第八週票房累計至直逼新台幣5億元\[20\]；最終全台票房為新台幣5.5億元\[21\]，位居[2012年全台票房第2名](https://zh.wikipedia.org/wiki/台灣電影年度票房列表#2012年 "wikilink")。
+台灣方面，首日票房為新台幣750萬元\[12\]；首週五天票房為新台幣6500萬元\[13\]；上映九天全台票房破億\[14\]；次週票房累計至新台幣1.8億元\[15\]；第三週票房累計至新台幣2.75億元\[16\]；第四週票房累計至新台幣3.5億元\[17\]；第五週票房累計至新台幣3.9億元\[18\]，連霸全台五週週末票房冠軍\[19\]；上映第八週時，因奧斯卡公布入圍名單，再度奪回周末冠軍寶座，第八週票房累計至直逼新台幣5億元\[20\]；最終全台票房為新台幣5.5億元\[21\]，位居[2012年全台票房第二名](https://zh.wikipedia.org/wiki/台灣年度電影票房#2012年 "wikilink")。
 
 中國大陸方面，首週4天收获票房1亿110万人民币，其中[IMAX](../Page/IMAX.md "wikilink")版的票房贡献达到17%之多\[22\]。上映後，電影连续三週票房居首，截至12月9日累计票房近4.4亿元人民币（约合7044.4万美元）\[23\]。最终票房5.72億人民币\[24\]。
 
@@ -860,120 +860,63 @@ Editors: Kam Chan, Jamie Baker</p></td>
   -
   -
   -
-  - [网易专题报道](http://ent.163.com/special/lifeofpi/)
-
-  - [少年PI的奇幻旅程（Life of Pi）](http://thehkneo.com/blog/?p=2757)，〈[澳大利亚電影評論學會](https://zh.wikipedia.org/wiki/澳大利亚電影評論學會 "wikilink")〉
-
 [Category:2012年电影](https://zh.wikipedia.org/wiki/Category:2012年电影 "wikilink") [Category:2012年3D电影](https://zh.wikipedia.org/wiki/Category:2012年3D电影 "wikilink") [Category:李安电影](https://zh.wikipedia.org/wiki/Category:李安电影 "wikilink") [Category:美国电影作品](https://zh.wikipedia.org/wiki/Category:美国电影作品 "wikilink") [Category:美国3D电影](https://zh.wikipedia.org/wiki/Category:美国3D电影 "wikilink") [Category:美國奇幻電影](https://zh.wikipedia.org/wiki/Category:美國奇幻電影 "wikilink") [Category:美国冒险片](https://zh.wikipedia.org/wiki/Category:美国冒险片 "wikilink") [Category:美国剧情片](https://zh.wikipedia.org/wiki/Category:美国剧情片 "wikilink") [Category:英语电影](https://zh.wikipedia.org/wiki/Category:英语电影 "wikilink") [Category:加拿大小说改编电影](https://zh.wikipedia.org/wiki/Category:加拿大小说改编电影 "wikilink") [Category:敘事者不可靠的作品](https://zh.wikipedia.org/wiki/Category:敘事者不可靠的作品 "wikilink") [Category:宗教題材電影](https://zh.wikipedia.org/wiki/Category:宗教題材電影 "wikilink") [Category:遇难漂流题材作品](https://zh.wikipedia.org/wiki/Category:遇难漂流题材作品 "wikilink") [Category:人吃人題材電影](https://zh.wikipedia.org/wiki/Category:人吃人題材電影 "wikilink") [Category:2010年代剧情片](https://zh.wikipedia.org/wiki/Category:2010年代剧情片 "wikilink") [Category:2010年代冒险片](https://zh.wikipedia.org/wiki/Category:2010年代冒险片 "wikilink") [Category:2010年代奇幻片](https://zh.wikipedia.org/wiki/Category:2010年代奇幻片 "wikilink") [Category:IMAX电影](https://zh.wikipedia.org/wiki/Category:IMAX电影 "wikilink") [Category:1990年代背景电影](https://zh.wikipedia.org/wiki/Category:1990年代背景电影 "wikilink") [Category:印度背景电影](https://zh.wikipedia.org/wiki/Category:印度背景电影 "wikilink") [Category:印度取景电影](https://zh.wikipedia.org/wiki/Category:印度取景电影 "wikilink") [Category:太平洋背景電影](https://zh.wikipedia.org/wiki/Category:太平洋背景電影 "wikilink") [Category:蒙特利尔取景电影](https://zh.wikipedia.org/wiki/Category:蒙特利尔取景电影 "wikilink") [Category:屏東縣取景電影](https://zh.wikipedia.org/wiki/Category:屏東縣取景電影 "wikilink") [Category:臺中市取景電影](https://zh.wikipedia.org/wiki/Category:臺中市取景電影 "wikilink") [Category:奧斯卡最佳原創配樂獲獎電影](https://zh.wikipedia.org/wiki/Category:奧斯卡最佳原創配樂獲獎電影 "wikilink") [Category:奧斯卡最佳導演獲獎電影](https://zh.wikipedia.org/wiki/Category:奧斯卡最佳導演獲獎電影 "wikilink") [Category:奧斯卡最佳攝影獲獎電影](https://zh.wikipedia.org/wiki/Category:奧斯卡最佳攝影獲獎電影 "wikilink") [Category:奥斯卡最佳视觉效果获奖电影](https://zh.wikipedia.org/wiki/Category:奥斯卡最佳视觉效果获奖电影 "wikilink") [Category:英国电影学院奖最佳摄影获奖电影](https://zh.wikipedia.org/wiki/Category:英国电影学院奖最佳摄影获奖电影 "wikilink")
 
 1.
 2.
-
 3.
-
 4.  [李安30億打造《奇幻漂流》 掐預算導演兼伙夫](http://www.appledaily.com.tw/appledaily/article/entertainment/20121120/34652623/) , [蘋果日報 (台灣)](https://zh.wikipedia.org/wiki/蘋果日報_\(台灣\) "wikilink"), 2012年11月20日
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
 11. ['Life of Pi' a surprise success story around the world](http://articles.latimes.com/2013/feb/18/entertainment/la-et-mn-life-of-pi-20130218)  2013.2.18 Los Angeles Times
-
 12.
-
 13.
-
 14.
-
 15.
 16.
-
 17.
-
 18.
-
 19.
 20.
-
 21.
-
 22.
-
 23.
-
 24. [《少年派的奇幻漂流》電影介紹](http://piaofang.maoyan.com/movie/995)  貓眼票房
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43.
-
 44.
-
 45.
-
 46.
-
 47.
-
 48.
-
 49.
-
 50.
-
 51.
-
 52.
-
 53.
-
 54.
-
 55.
-
 56.
-
 57.
-
 58.

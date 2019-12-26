@@ -63,7 +63,6 @@
 [Category:Super_Junior](https://zh.wikipedia.org/wiki/Category:Super_Junior "wikilink") [Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink") [Category:Super_Junior歌曲](https://zh.wikipedia.org/wiki/Category:Super_Junior歌曲 "wikilink")
 
 1.
-
 2.
 3.
 4.

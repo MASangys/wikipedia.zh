@@ -51,18 +51,11 @@
 [Category:桃色幸運草Z歌曲](https://zh.wikipedia.org/wiki/Category:桃色幸運草Z歌曲 "wikilink") [Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink") [Category:東京電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:東京電視台動畫主題曲 "wikilink") [Category:King_Records歌曲](https://zh.wikipedia.org/wiki/Category:King_Records歌曲 "wikilink") [Category:精靈寶可夢歌曲](https://zh.wikipedia.org/wiki/Category:精靈寶可夢歌曲 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.

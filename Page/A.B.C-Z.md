@@ -646,22 +646,14 @@
 [Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink") [Category:傑尼斯事務所正式團體](https://zh.wikipedia.org/wiki/Category:傑尼斯事務所正式團體 "wikilink") [Category:日本男子偶像團體](https://zh.wikipedia.org/wiki/Category:日本男子偶像團體 "wikilink")
 
 1.  [PONYCANYON A.B.C-Z Official Site\>Profile](http://abcz.ponycanyon.co.jp/profile.html)
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
 8.
 9.
-
 10.
-
 11.
 12.

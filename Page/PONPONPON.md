@@ -77,8 +77,6 @@
 [Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink") [Category:日本華納音樂歌曲](https://zh.wikipedia.org/wiki/Category:日本華納音樂歌曲 "wikilink") [Category:Kyary_Pamyu_Pamyu歌曲](https://zh.wikipedia.org/wiki/Category:Kyary_Pamyu_Pamyu歌曲 "wikilink")
 
 1.
-
 2.
-
 3.
 4.

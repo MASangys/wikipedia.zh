@@ -139,7 +139,7 @@ def ibwt(r):
   - [Compression comparison of BWT based file compressors](http://compressionratings.com/bwt.html)
   - [Article by Mark Nelson on the BWT](http://marknelson.us/1996/09/01/bwt/)
   - [A Bijective String-Sorting Transform, by Gil and Scott](http://bijective.dogma.net/00yyy.pdf)
-  - [Yuta's openbwt-v1.5.zip contains source code for various BWT routines including BWTS for bijective version](http://encode.ru/attachment.php?attachmentid=959&d=1249146089)
+  - [Yuta's openbwt-v1.5.zip contains source code for various BWT routines including BWTS for bijective version](https://web.archive.org/web/20170306035431/https://encode.ru/attachment.php?attachmentid=959&d=1249146089)
   - [On Bijective Variants of the Burrows–Wheeler Transform, by Kufleitner](http://arxiv.org/abs/0908.0239)
   - [Blog post](http://google-opensource.blogspot.com/2008/06/debuting-dcs-bwt-experimental-burrows.html) and [project page](https://code.google.com/p/dcs-bwt-compressor/) for an open-source compression program and library based on the Burrows–Wheeler algorithm
   - [MIT open courseware lecture on BWT (Foundations of Computational and Systems Biology)](https://www.youtube.com/watch?v=P3ORBMon8aw)

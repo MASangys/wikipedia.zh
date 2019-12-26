@@ -6,12 +6,10 @@ Flyme内置了自家软件，並大幅修改原生[Android](../Page/Android.md "
 
 对于預裝YunOS版本的手機，如魅蓝metal等诸多魅蓝机型，魅族也已为其提供了Android版本系统。
 
-  - Flyme應用中心
-
+**Flyme應用中心**
 Flyme應用中心是魅族自家的應用商店，為Flyme裝置提供應用下載的功能。
 
-  - Flyme雲服務
-
+**Flyme雲服務**
 Flyme雲服務是[魅族科技](../Page/魅族科技.md "wikilink")開發的[雲端功能](https://zh.wikipedia.org/wiki/雲端 "wikilink")，同時開放網頁端。使用者可以綁定Flyme賬戶，將聯絡人、短信、相冊及系統設定上傳同步至伺服器進行備份，並且使用電腦或者其他Flyme裝置存取數據。可以在網頁端修改、增添和刪除相關數據。找回手機功能可以允许用户在網頁端使用找回手機功能定位手機當前位置，同時可以查看該裝置的狀態、所使用的手機號碼，並可以遠端控制手機發聲、鎖定、远程同步和擦除數據。若手機處於離線狀態，用戶还可選擇透過運營商發送一條短信遠端激活該功能。
 
 ## 歷史版本
@@ -29,7 +27,7 @@ Flyme雲服務是[魅族科技](../Page/魅族科技.md "wikilink")開發的[雲
 <tr class="odd">
 <td><p>MyMoblie</p></td>
 <td><p>Windows CE 6.0</p></td>
-<td><p>1.0</p></td>
+<td><p>0.9.9.23</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -107,21 +105,27 @@ mBack用一个按键替换原生Android三个按键的做法被认为符合魅�
   - [魅族MX4](../Page/魅族MX4.md "wikilink")
   - [魅族MX4 Pro](../Page/魅族MX4_Pro.md "wikilink")
   - [魅族MX5](../Page/魅族MX5.md "wikilink")
-  - [魅族MX5e](https://zh.wikipedia.org/wiki/魅族MX5e "wikilink")
   - [魅族MX6](../Page/魅族MX6.md "wikilink")
-  - [魅族Pro 5](https://zh.wikipedia.org/wiki/魅族Pro_5 "wikilink")
-  - [魅族Pro 6](https://zh.wikipedia.org/wiki/魅族Pro_6 "wikilink")
-  - [魅族Pro 6s](https://zh.wikipedia.org/wiki/魅族Pro_6s "wikilink")
-  - [魅族Pro 6 Plus](https://zh.wikipedia.org/wiki/魅族Pro_6_Plus "wikilink")
-  - [魅族Pro 7](https://zh.wikipedia.org/wiki/魅族Pro_7 "wikilink")
-  - [魅族Pro 7 Plus](https://zh.wikipedia.org/wiki/魅族Pro_7_Plus "wikilink")
-  - [魅族M15](https://zh.wikipedia.org/wiki/魅族M15 "wikilink")
+  - [魅族PRO 5](https://zh.wikipedia.org/wiki/魅族PRO_5 "wikilink")
+  - [魅族PRO 6](https://zh.wikipedia.org/wiki/魅族PRO_6 "wikilink")
+  - [魅族PRO 6s](https://zh.wikipedia.org/wiki/魅族PRO_6s "wikilink")
+  - [魅族PRO 6 Plus](https://zh.wikipedia.org/wiki/魅族PRO_6_Plus "wikilink")
+  - [魅族PRO 7](https://zh.wikipedia.org/wiki/魅族PRO_7 "wikilink")
+  - [魅族PRO 7 Plus](https://zh.wikipedia.org/wiki/魅族PRO_7_Plus "wikilink")
   - [魅族15](https://zh.wikipedia.org/wiki/魅族15 "wikilink")
   - [魅族15 Plus](https://zh.wikipedia.org/wiki/魅族15_Plus "wikilink")
+  - [魅族M15](https://zh.wikipedia.org/wiki/魅族M15 "wikilink")
   - [魅族16th](https://zh.wikipedia.org/wiki/魅族16th "wikilink")
   - [魅族16th Plus](https://zh.wikipedia.org/wiki/魅族16th_Plus "wikilink")
+  - [魅族16 X](https://zh.wikipedia.org/wiki/魅族16_X "wikilink")
   - [魅族16s](https://zh.wikipedia.org/wiki/魅族16s "wikilink")
+  - [魅族16Xs](https://zh.wikipedia.org/wiki/魅族16Xs "wikilink")
   - [魅族16s Pro](https://zh.wikipedia.org/wiki/魅族16s_Pro "wikilink")
+  - [魅族16T](https://zh.wikipedia.org/wiki/魅族16T "wikilink")
+  - [魅族Note8](https://zh.wikipedia.org/wiki/魅族Note8 "wikilink")
+  - [魅族Note9](https://zh.wikipedia.org/wiki/魅族Note9 "wikilink")
+  - [魅族X8](https://zh.wikipedia.org/wiki/魅族X8 "wikilink")
+  - [魅族V8](https://zh.wikipedia.org/wiki/魅族V8 "wikilink")
 
 #### 魅蓝系列
 
@@ -129,24 +133,24 @@ mBack用一个按键替换原生Android三个按键的做法被认为符合魅�
   - [魅藍2](https://zh.wikipedia.org/wiki/魅藍2 "wikilink")
   - [魅藍3](https://zh.wikipedia.org/wiki/魅藍3 "wikilink")
   - [魅藍3s](https://zh.wikipedia.org/wiki/魅藍3s "wikilink")
-  - [魅藍Metal](https://zh.wikipedia.org/wiki/魅藍Metal "wikilink")
+  - [魅藍metal](https://zh.wikipedia.org/wiki/魅藍metal "wikilink")
   - [魅蓝5](https://zh.wikipedia.org/wiki/魅蓝5 "wikilink")
   - [魅蓝5s](https://zh.wikipedia.org/wiki/魅蓝5s "wikilink")
   - [魅蓝6](https://zh.wikipedia.org/wiki/魅蓝6 "wikilink")
+  - [魅蓝6T](https://zh.wikipedia.org/wiki/魅蓝6T "wikilink")
   - [魅蓝S6](https://zh.wikipedia.org/wiki/魅蓝S6 "wikilink")
   - [魅蓝Max](https://zh.wikipedia.org/wiki/魅蓝Max "wikilink")
   - [魅藍Note](https://zh.wikipedia.org/wiki/魅藍Note "wikilink")
-  - [魅藍Note 2](../Page/魅藍Note_2.md "wikilink")
-  - [魅藍Note 3](../Page/魅藍Note_3.md "wikilink")
-  - [魅蓝Note 5](https://zh.wikipedia.org/wiki/魅蓝Note_5 "wikilink")
-  - [魅蓝Note 6](https://zh.wikipedia.org/wiki/魅蓝Note_6 "wikilink")
+  - [魅藍Note2](https://zh.wikipedia.org/wiki/魅藍Note2 "wikilink")
+  - [魅藍Note3](https://zh.wikipedia.org/wiki/魅藍Note3 "wikilink")
+  - [魅蓝Note5](https://zh.wikipedia.org/wiki/魅蓝Note5 "wikilink")
+  - [魅蓝Note6](https://zh.wikipedia.org/wiki/魅蓝Note6 "wikilink")
   - [魅蓝U10](https://zh.wikipedia.org/wiki/魅蓝U10 "wikilink")
   - [魅蓝U20](https://zh.wikipedia.org/wiki/魅蓝U20 "wikilink")
   - [魅蓝X](https://zh.wikipedia.org/wiki/魅蓝X "wikilink")
   - [魅蓝E](https://zh.wikipedia.org/wiki/魅蓝E "wikilink")
   - [魅蓝E2](https://zh.wikipedia.org/wiki/魅蓝E2 "wikilink")
   - [魅蓝E3](https://zh.wikipedia.org/wiki/魅蓝E3 "wikilink")
-  - [魅族（魅蓝）Note 9](https://zh.wikipedia.org/wiki/魅族（魅蓝）Note_9 "wikilink")
 
 #### 其他
 
@@ -169,14 +173,9 @@ mBack用一个按键替换原生Android三个按键的做法被认为符合魅�
 [Category:魅族科技](https://zh.wikipedia.org/wiki/Category:魅族科技 "wikilink") [Category:定制Android固件](https://zh.wikipedia.org/wiki/Category:定制Android固件 "wikilink") [Category:嵌入式作業系統](https://zh.wikipedia.org/wiki/Category:嵌入式作業系統 "wikilink") [Category:嵌入式Linux](https://zh.wikipedia.org/wiki/Category:嵌入式Linux "wikilink") [Category:售後韌體](https://zh.wikipedia.org/wiki/Category:售後韌體 "wikilink")
 
 1.  [EICO 案例：魅族 Flyme OS](http://eicodesign.com/productcase/meizu-flymeos)
-
 2.  [Flyme 6 首版系统发布](http://bbs.flyme.cn/thread-1507772-1-1.html)，Flyme社区。
-
 3.  [Flyme 7 首版系统更新](http://bbs.flyme.cn/thread-2321031-1-1.html)，Flyme社区。
-
 4.
-
 5.  [魅族mBack初体验：目前较完美的Home键解决方案](http://app.techweb.com.cn/android/2016-05-23/2336898.shtml)
-
 6.
 7.  [体验魅蓝2，非常失望：拍照对焦不准、mBack是画蛇添足](http://bbs1.c114.net/archiver/tid-844994.html)

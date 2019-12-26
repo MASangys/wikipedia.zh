@@ -129,13 +129,10 @@ Kord重機槍同時出現在[电影](../Page/电影.md "wikilink")、[电視劇�
 [Category:重機槍](https://zh.wikipedia.org/wiki/Category:重機槍 "wikilink") [Category:導氣式槍械](https://zh.wikipedia.org/wiki/Category:導氣式槍械 "wikilink") [Category:12.7×108毫米槍械](https://zh.wikipedia.org/wiki/Category:12.7×108毫米槍械 "wikilink") [Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink") [Category:捷格加廖夫工廠](https://zh.wikipedia.org/wiki/Category:捷格加廖夫工廠 "wikilink")
 
 1.
-
 2.  [Modern Firearms - NSV-12.7 machine gun](http://world.guns.ru/machine/mg02-e.htm)
-
 3.
 4.
 5.  Russian *Udarnaya Sila* TV show, excerpt showing Russian officer firing Kord from the hip while moving [1](http://www.youtube.com/watch?v=jwu3ivAJ68U)
-
 6.
 7.
 8.
@@ -143,9 +140,6 @@ Kord重機槍同時出現在[电影](../Page/电影.md "wikilink")、[电視劇�
 10.
 11.
 12. [JSC CRI "Burevestnik"/6S21 WEAPON STATION](https://www.burevestnik.com/products_engl/6C21.html)
-
 13. [Des soldats nigériens et maliens entrent à Ansongo - France 24](http://www.france24.com/fr/20130129-soldats-nigeriens-maliens-ansongo-misma-gao-nord-mali-convois-islamistes-troupe)
-
 14. <http://structure.mil.ru/structure/forces/ground/news/more.htm?id=12073551@egNews>
-
 15. [Russian Kord and ASVK systems in Syria – Armament Research Services](http://armamentresearch.com/russian-kord-and-asvk-systems-in-syria/)

@@ -70,7 +70,7 @@
 
 ## 外部連結
 
-  - [Macross F 官方網站](http://www.macrossf.com/)
+  - [Macross F 官方網站](https://web.archive.org/web/20080327230407/http://www.macrossf.com/)
 
       - [Macross FB7 官方網站](http://www.macross30.com/fb7/)
 

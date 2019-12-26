@@ -37,8 +37,6 @@
 [Category:可苦可樂音樂專輯](https://zh.wikipedia.org/wiki/Category:可苦可樂音樂專輯 "wikilink") [Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink") [Category:2012年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Oricon專輯週榜冠軍作品 "wikilink") [Category:2012年Oricon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Oricon專輯月榜冠軍作品 "wikilink") [Category:RIAJ百萬認證專輯](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證專輯 "wikilink") [Category:精選輯](https://zh.wikipedia.org/wiki/Category:精選輯 "wikilink")
 
 1.
-
 2.
 3.
-
 4.

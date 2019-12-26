@@ -33,6 +33,7 @@
 | 2015年8月5日       | [初瓏](../Page/朴初瓏.md "wikilink")、[夏榮](../Page/吳夏榮.md "wikilink")                                                                                              |
 | 2017年3月15日      | [世正](https://zh.wikipedia.org/wiki/金世正 "wikilink")、[美娜](https://zh.wikipedia.org/wiki/康美娜 "wikilink")、[娜英](https://zh.wikipedia.org/wiki/gu9udan "wikilink") |
 | 2019年4月17日      | [洪碩](../Page/Pentagon_\(男子組合\).md "wikilink")、[Lee Know](https://zh.wikipedia.org/wiki/Lee_Know "wikilink")、[采源](../Page/金采源.md "wikilink")                  |
+| 2019年10月16日     | [佑鎮](../Page/朴佑鎮.md "wikilink")、[煐岷](../Page/林煐岷.md "wikilink")                                                                                              |
 
 ## 評定基準
 
@@ -810,29 +811,44 @@
   - 09.04 - [X1](../Page/X1.md "wikilink")<sup>1st</sup> - Flash<sup>1st</sup>
   - 09.11 - 停播
   - 09.18 - 特輯 [X1](../Page/X1.md "wikilink")<sup>2nd</sup> - Flash<sup>2nd</sup>
-  - 09/25 - [臉紅的思春期](https://zh.wikipedia.org/wiki/臉紅的思春期 "wikilink")<sup>1st</sup> -「Workaholic」<sup>1st</sup>
+  - 09.25 - [臉紅的思春期](https://zh.wikipedia.org/wiki/臉紅的思春期 "wikilink")<sup>1st</sup> - Workaholic<sup>1st</sup>
+
+十月
+
+  - 10.02 - [TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")<sup>13th</sup> - Feel Special<sup>1st</sup>
+  - 10.09 - [TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")<sup>14th</sup> - Feel Special<sup>2nd</sup>
+  - 10.16 - [AB6IX](../Page/AB6IX.md "wikilink")<sup>2nd</sup> - Blind for Love<sup>1st</sup>
+  - 10.23 - [Chen](../Page/CHEN_\(EXO\).md "wikilink")<sup>1st</sup> - Shall We?<sup>1st</sup>
+  - 10.30 - [NU'EST](../Page/NU'EST.md "wikilink")<sup>3rd</sup> - Love Me<sup>1st</sup>
+
+十一月
+
+  - 11.06 - 特輯
+  - 11.13 - 停播
+  - 11.20 - 停播
+  - 11.27 - 停播
 
 ## 藝人成就
 
 | 等級                                                          | 藝人                                                              | 統計  | 出道年份 |
 | ----------------------------------------------------------- | --------------------------------------------------------------- | --- | ---- |
 | 1st                                                         | [EXO](../Page/EXO.md "wikilink")                                | 16次 | 2012 |
-| 2nd                                                         | [Red Velvet](../Page/Red_Velvet.md "wikilink")                  | 12次 | 2014 |
-| [TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")     | 2015                                                            |     |      |
-| 3rd                                                         | [Wanna One](https://zh.wikipedia.org/wiki/Wanna_One "wikilink") | 11次 | 2017 |
-| 4th                                                         | [SHINee](../Page/SHINee.md "wikilink")                          | 10次 | 2008 |
+| 2nd                                                         | [TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")         | 14次 | 2015 |
+| 3rd                                                         | [Red Velvet](../Page/Red_Velvet.md "wikilink")                  | 12次 | 2014 |
+| 4th                                                         | [Wanna One](https://zh.wikipedia.org/wiki/Wanna_One "wikilink") | 11次 | 2017 |
+| 5th                                                         | [SHINee](../Page/SHINee.md "wikilink")                          | 10次 | 2008 |
 | [防彈少年團](../Page/防彈少年團.md "wikilink")                        | 2013                                                            |     |      |
 | [Seventeen](../Page/Seventeen_\(組合\).md "wikilink")         | 2015                                                            |     |      |
-| 5th                                                         | [GFRIEND](../Page/GFRIEND.md "wikilink")                        | 9次  | 2015 |
-| 6th                                                         | |[4minute](../Page/4minute.md "wikilink")                       | 7次  | 2009 |
+| 6th                                                         | [GFRIEND](../Page/GFRIEND.md "wikilink")                        | 9次  | 2015 |
+| 7th                                                         | |[4minute](../Page/4minute.md "wikilink")                       | 7次  | 2009 |
 | [CNBLUE](../Page/CNBLUE.md "wikilink")                      | 2010                                                            |     |      |
 | [INFINITE](../Page/INFINITE.md "wikilink")                  | 2010                                                            |     |      |
 | [Apink](../Page/Apink.md "wikilink")                        | 2011                                                            |     |      |
-| 7th                                                         | [BEAST/Highlight](../Page/Highlight_\(韓國組合\).md "wikilink")     | 6次  | 2009 |
+| 8th                                                         | [BEAST/Highlight](../Page/Highlight_\(韓國組合\).md "wikilink")     | 6次  | 2009 |
 | [SISTAR](../Page/SISTAR.md "wikilink")                      | 2010                                                            |     |      |
 | [B1A4](../Page/B1A4.md "wikilink")                          | 2011                                                            |     |      |
 | [VIXX](../Page/VIXX.md "wikilink")                          | 2012                                                            |     |      |
-| 8th                                                         | [Super Junior](../Page/Super_Junior.md "wikilink")              | 5次  | 2005 |
+| 9th                                                         | [Super Junior](../Page/Super_Junior.md "wikilink")              | 5次  | 2005 |
 | [AOA](https://zh.wikipedia.org/wiki/AOA_\(韓國\) "wikilink")  | 2012                                                            |     |      |
 | [EXID](https://zh.wikipedia.org/wiki/EXID "wikilink")       | 2012                                                            |     |      |
 | [BTOB](../Page/BTOB.md "wikilink")                          | 2012                                                            |     |      |

@@ -281,56 +281,32 @@
 [Category:2015年电子游戏](https://zh.wikipedia.org/wiki/Category:2015年电子游戏 "wikilink") [Category:潛龍諜影系列電子遊戲](https://zh.wikipedia.org/wiki/Category:潛龍諜影系列電子遊戲 "wikilink") [Category:第三人称射击游戏](https://zh.wikipedia.org/wiki/Category:第三人称射击游戏 "wikilink") [Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink") [Category:PlayStation_4游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_4游戏 "wikilink") [Category:Xbox_360遊戲](https://zh.wikipedia.org/wiki/Category:Xbox_360遊戲 "wikilink") [Category:Xbox_One遊戲](https://zh.wikipedia.org/wiki/Category:Xbox_One遊戲 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:中间篇电子游戏](https://zh.wikipedia.org/wiki/Category:中间篇电子游戏 "wikilink") [Category:開放世界遊戲](https://zh.wikipedia.org/wiki/Category:開放世界遊戲 "wikilink") [Category:报复题材电子游戏](https://zh.wikipedia.org/wiki/Category:报复题材电子游戏 "wikilink") [Category:1980年代背景游戏](https://zh.wikipedia.org/wiki/Category:1980年代背景游戏 "wikilink") [Category:阿富汗背景电子游戏](https://zh.wikipedia.org/wiki/Category:阿富汗背景电子游戏 "wikilink") [Category:安哥拉背景电子游戏](https://zh.wikipedia.org/wiki/Category:安哥拉背景电子游戏 "wikilink") [Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.  [潛龍諜影V 幻痛 官方網頁](http://www.konami.jp/mgs5/)
-
 5.  [科樂美新聞稿](http://www.konami-asia.com/news/2013/1111/?lang=cn-t)
-
 6.  [幻痛於Steam產品頁面](http://store.steampowered.com/app/287700/)
-
 7.  [MGSV Character making - Stefanie Joosten as Quiet (3D Scan and Motion Capture)](http://www.youtube.com/watch?v=DbPxvBbZAhs)
-
 8.  [MGSV:TPP LAUNCH TRAILER (ローンチトレーラー) | METAL GEAR SOLID V: THE PHANTOM PAIN](https://www.youtube.com/watch?v=PGFmc-Gs81Y)
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14. [KONAMI Pre-E3 SHOW 2013](https://www.youtube.com/watch?v=jRvnyT1R8J8)
-
 15. [【TpGS 15】小島秀夫來台宣布《潛龍諜影 5》-{中文化}- 明星魅力風靡全場](http://gnn.gamer.com.tw/9/110289.html).巴哈姆特.2015-01-31.2015-02-01.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
 25.
 26.
 27. 《[游戏机实用技术](../Page/游戏机实用技术.md "wikilink")》379期，第17页。
-
 28.
 29.
 30.
@@ -341,5 +317,4 @@
 35.
 36.
 37.
-
-38. <http://www.ign.com/articles/2016/01/29/metal-gear-solid-5-the-phantom-pain-shipped-over-6-million-copies>
+38.

@@ -312,15 +312,9 @@ Rider Gauge框架顏色為紫色。</p></td>
 [Category:假面騎士](https://zh.wikipedia.org/wiki/Category:假面騎士 "wikilink") [Category:石之森章太郎](https://zh.wikipedia.org/wiki/Category:石之森章太郎 "wikilink") [Category:電子遊戲系列](https://zh.wikipedia.org/wiki/Category:電子遊戲系列 "wikilink") [Category:格鬥遊戲](https://zh.wikipedia.org/wiki/Category:格鬥遊戲 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink") [Category:Wii遊戲](https://zh.wikipedia.org/wiki/Category:Wii遊戲 "wikilink")
 
 1.  如遊戲中假面騎士空我的變身者是原著的五代雄介而不是Decade本篇的小野寺雄介。
-
 2.  需透過「**Arcade Mode**」取得。
-
 3.  不對應320k音質的MP3。
-
 4.  [1](http://www.bandaigames.channel.or.jp/list/climax_heroes/blog/2009/07/post-12.html#more)
-
 5.
-
 6.  兼《假面騎士Fourze》中的插曲。
-
 7.

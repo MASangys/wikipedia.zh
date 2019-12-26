@@ -56,30 +56,18 @@ Diplopedia有一個獨特的縮寫和縮略詞分類（為數不少的政府單�
 [Category:MediaWiki網站](https://zh.wikipedia.org/wiki/Category:MediaWiki網站 "wikilink") [Category:美国国务院](https://zh.wikipedia.org/wiki/Category:美国国务院 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.  全名為：Robert"Chris"Bronk
-
 5.
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
 14.
-
 15.
 16. [Wales Senate Testimony regarding "E-Government 2.0: Improving Innovation, Collaboration, and Access"](http://hsgac.senate.gov/public/_files/121107Wales.pdf) Page 3,5

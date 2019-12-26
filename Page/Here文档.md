@@ -662,27 +662,16 @@ target3: dependent3
 [Category:程序架構](https://zh.wikipedia.org/wiki/Category:程序架構 "wikilink") [Category:字符串](https://zh.wikipedia.org/wiki/Category:字符串 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.  [Heredoc in PHP manual](http://php.net/heredoc)
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
 12.
 13.
-
 14.

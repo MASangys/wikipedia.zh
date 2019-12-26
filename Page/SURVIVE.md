@@ -33,7 +33,7 @@
         在31st單曲「[ultra soul](https://zh.wikipedia.org/wiki/ultra_soul "wikilink")」的[2nd beat中](https://zh.wikipedia.org/wiki/B'z作品列表#單曲的表記 "wikilink")，是將歌詞做了部分更改並追加編曲後收錄。
         在決定[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")『[B'z The Best "Treasure"](../Page/B'z_The_Best_"Treasure".md "wikilink")』收錄曲的粉絲票選（收錄了前14首）中排行第15位。在『[B'z The Best "ULTRA Treasure"](../Page/B'z_The_Best_"ULTRA_Treasure".md "wikilink")』的粉絲票選中亦是排行第15位，實現了首次收錄於精選輯（收錄了前30首）。
         出演1997年的「[MUSIC STATION SPECIAL SUPERLIVE](../Page/MUSIC_STATION_SUPER_LIVE.md "wikilink")」時，與「Calling」一同披露。當時，間奏的被更改為松本的吉他獨奏，之後的電腦編曲被更改為[貝斯的](https://zh.wikipedia.org/wiki/貝斯 "wikilink")等，是以包含了將編曲略為改編的狀態來演奏。
-        因於2000年發售的演唱會影像作品『』發售前，在募集「希望能將其影像化的演唱會影像」（）點播時獲得第1位，而在同作中作為Bonus Track，收錄了在『B'z LIVE-GYM '98 "SURVIVE"』上的演奏影像。
+        因於2000年發售的演唱會影像作品『[once upon a time in 横浜 〜B'z LIVE GYM'99 "Brotherhood"〜](https://zh.wikipedia.org/wiki/once_upon_a_time_in_横浜_〜B'z_LIVE_GYM'99_"Brotherhood"〜 "wikilink")』發售前，在募集「希望能將其影像化的演唱會影像」（）點播時獲得第1位，而在同作中作為Bonus Track，收錄了在『B'z LIVE-GYM '98 "SURVIVE"』上的演奏影像。
 3.  **Survive** (4:48)
       -
         在本專輯製作過程中，第7首製作的樂曲。
@@ -70,7 +70,7 @@
 8.  **哭泣 哭泣 若不再哭泣了（）**(3:37)
       -
         原為在1994年左右製作的樂曲。
-        樂曲製作當初以「三連搖滾抒情曲」（）為構想，據說遲遲無法拿定編曲，但通過從稻葉手邊借來的音色為契機解決了。
+        樂曲製作當初以「三連搖滾抒情曲」（）為構想，據說遲遲無法拿定編曲，但通過從稻葉手邊借來的[Gibson](https://zh.wikipedia.org/wiki/Gibson "wikilink") 音色為契機解決了。
         亦有被收錄於抒情精選輯『The Ballads 〜Love & B'z〜』。
         在2007年舉行的巡迴演唱會『B'z SHOWCASE 2007 "19"』上久違演奏，在2015年舉行的粉絲俱樂部限定演唱會『B'z SHOWCASE 2015 -品川有頂天NIGHT-』上亦有演奏。
 9.  **CAT**　(3:42)
@@ -88,7 +88,7 @@
       -
         本曲亦是在沖繩製作的樂曲，歌詞也成為了以在沖繩旅館住宿時所見的風景為基礎。
         副歌前的假音和聲亦是稻葉已在沖繩旅館唱好的。
-        使用了[芬達](../Page/芬達樂器公司.md "wikilink")及[打擊樂器](https://zh.wikipedia.org/wiki/打擊樂器 "wikilink")。
+        使用了[Fender](../Page/芬達樂器公司.md "wikilink") 及[打擊樂器](https://zh.wikipedia.org/wiki/打擊樂器 "wikilink")。
         被普遍認為是一首在追悼1997年6月21日過世的演員[勝新太郎](../Page/勝新太郎.md "wikilink")的歌曲。
         在演唱會上僅披露於[新潟和沖繩](https://zh.wikipedia.org/wiki/新潟 "wikilink")。
 12. **[Calling](../Page/Calling_\(B'z單曲\).md "wikilink")** (5:56)
@@ -153,7 +153,7 @@
 
 **スイマーよ\!\!**
 
-  -
+  - [once upon a time in 横浜 〜B'z LIVE GYM'99 "Brotherhood"〜](https://zh.wikipedia.org/wiki/once_upon_a_time_in_横浜_〜B'z_LIVE_GYM'99_"Brotherhood"〜 "wikilink")
   - [B'z LIVE-GYM 2015 -EPIC NIGHT-](../Page/B'z_LIVE-GYM_2015_-EPIC_NIGHT-.md "wikilink")
 
 **Survive**

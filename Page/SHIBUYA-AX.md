@@ -18,7 +18,5 @@
 [Category:澀谷區](https://zh.wikipedia.org/wiki/Category:澀谷區 "wikilink") [Category:日本電視台_(電視台)](https://zh.wikipedia.org/wiki/Category:日本電視台_\(電視台\) "wikilink") [Category:日本音樂場地](https://zh.wikipedia.org/wiki/Category:日本音樂場地 "wikilink") [Category:東京都已不存在的建築物](https://zh.wikipedia.org/wiki/Category:東京都已不存在的建築物 "wikilink")
 
 1.  [〔Perfume〕大躍進\!SHIBUYA-AXワンマン決定](http://natalie.mu/news/show/id/4119) [ナタリー](https://zh.wikipedia.org/wiki/ナタリー_\(ニュースサイト\) "wikilink") 2007年11月8日
-
 2.  [SHIBUYA-AX](http://www.shibuyabunka.com/space.php?id=17) 渋谷文化プロジェクト、[ライヴ会場解説 / SHIBUYA-AX](http://www.geocities.jp/livehis/house/house_ax.html) 、[会場案内（東京都） / SHIBUYA-AX](http://www.geocities.co.jp/Bookend/7135/kaijo-tokyo.html)
-
 3.

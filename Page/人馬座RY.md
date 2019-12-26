@@ -42,7 +42,6 @@
 8.
 9.
 10.
-
 11.
 12.
 13.
@@ -51,21 +50,12 @@
 16.
 17.
 18. {{ cite web | title=R Coronae Borealis | work= Variable Star of the Month | url=<http://www.aavso.org/vsots_rcrb> | accessdate=6 July 2014|author=Davis, Kate |date=January 2000}}
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.

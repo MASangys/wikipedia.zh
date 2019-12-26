@@ -98,17 +98,10 @@ Macintosh Classic 默认搭载[System 6](../Page/System_6.md "wikilink").0.7[操
 [Category:麦金塔](https://zh.wikipedia.org/wiki/Category:麦金塔 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.  .
-
 5.
-
 6.
-
 7.
-
 8.

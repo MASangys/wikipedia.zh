@@ -68,13 +68,9 @@
 [Category:2000年音樂專輯](https://zh.wikipedia.org/wiki/Category:2000年音樂專輯 "wikilink") [Category:夜愿音乐专辑](https://zh.wikipedia.org/wiki/Category:夜愿音乐专辑 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
 5.
-
 6.
-
 7.

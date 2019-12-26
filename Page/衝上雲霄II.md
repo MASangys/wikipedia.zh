@@ -1,6 +1,6 @@
 《**衝上雲霄II**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")拍攝製作的時裝[劇集](https://zh.wikipedia.org/wiki/劇集 "wikilink")，由[吳鎮宇](../Page/吳鎮宇.md "wikilink")、[張智霖](../Page/張智霖.md "wikilink")、[胡杏兒](../Page/胡杏兒.md "wikilink")、[陳法拉](../Page/陳法拉.md "wikilink")及[吳卓羲](../Page/吳卓羲.md "wikilink")\[1\]領銜主演，並由[馬國明](https://zh.wikipedia.org/wiki/馬國明 "wikilink")\[2\]、[胡定欣](https://zh.wikipedia.org/wiki/胡定欣 "wikilink")、[江美儀](../Page/江美儀.md "wikilink")及[羅仲謙](../Page/羅仲謙.md "wikilink")聯合主演，監製[歐冠英及](https://zh.wikipedia.org/wiki/歐冠英 "wikilink")[陳維冠](https://zh.wikipedia.org/wiki/陳維冠 "wikilink")。
 
-此劇是《[衝上雲霄系列](../Page/衝上雲霄系列.md "wikilink")》第二輯，[2012無綫節目巡禮](../Page/2012無綫節目巡禮.md "wikilink")劇集，亦為第17屆[香港國際影視展中無綫電視推介的](https://zh.wikipedia.org/wiki/香港國際影視展 "wikilink")17部劇集之一，以及「[TVB Amazing Summer](../Page/TVB_Amazing_Summer.md "wikilink") 2013」暑期宣傳活動的推介劇集，由[香港航空](../Page/香港航空.md "wikilink")贊助、[香港機場管理局](../Page/香港機場管理局.md "wikilink")協助拍攝。
+此劇是《[衝上雲霄系列](../Page/衝上雲霄系列.md "wikilink")》第二輯，[2012無綫節目巡禮](../Page/2012無綫節目巡禮.md "wikilink")劇集，亦為第17屆香港國際影視展中無綫電視推介的17部劇集之一，以及「[TVB Amazing Summer](../Page/TVB_Amazing_Summer.md "wikilink") 2013」暑期宣傳活動的推介劇集，由[香港航空](../Page/香港航空.md "wikilink")贊助、[香港機場管理局](../Page/香港機場管理局.md "wikilink")協助拍攝。
 
 此劇播出後收視一直高企，以36點平均綜合收視點榮登[2010年代無綫電視劇集平均綜合收視點最高劇集](../Page/無綫電視劇集收視列表_\(2010年代\).md "wikilink")，電視收視所錄得的41點最高收視為大結局中[吳鎮宇](../Page/吳鎮宇.md "wikilink")、[張智霖](../Page/張智霖.md "wikilink")與[陳法拉](../Page/陳法拉.md "wikilink")的「航機意外」，為無綫於2013年唯一一部突破40點收視劇集，亦是該年全年錄得最高收視的電視節目。
 
@@ -27,7 +27,7 @@
 （本劇並無演出）</p></td>
 <td><p>唐　璜</p></td>
 <td><p>前膳佳空廚公司行政總廚<br />
-苏怡之家翁<br />
+蘇怡之老爺<br />
 唐亦琛、唐亦風之父<br />
 與邢佳美在斐濟島定居<br />
 參見上輯《<strong><a href="../Page/衝上雲霄.md" title="wikilink">衝上雲霄</a></strong>》</p></td>
@@ -38,7 +38,7 @@
 （本劇並無演出）</p></td>
 <td><p>邢佳美</p></td>
 <td><p>前膳佳空廚公司市場客戶服務部經理<br />
-苏怡之家婆<br />
+蘇怡之奶奶<br />
 唐亦琛、唐亦風之母<br />
 與唐璜在斐濟島定居<br />
 參見上輯《<strong><a href="../Page/衝上雲霄.md" title="wikilink">衝上雲霄</a></strong>》</p></td>
@@ -57,7 +57,7 @@
 何年希之男友<br />
 與顧夏陽亦敵亦友<br />
 童愛蘋之契父<br />
-因蘇怡在台灣<a href="https://zh.wikipedia.org/wiki/高雄國際機場" title="wikilink">高雄國際機場病逝</a>，一直逃避飛往<a href="https://zh.wikipedia.org/wiki/台灣" title="wikilink">台灣的航綫</a>，連「台灣」都不願提及，但後來得到何年希開解<br />
+因蘇怡在台灣<a href="https://zh.wikipedia.org/wiki/高雄國際機場" title="wikilink">高雄國際機場病逝</a>，一直逃避飛往<a href="https://zh.wikipedia.org/wiki/台灣" title="wikilink">台灣的航線</a>，連「台灣」都不願提及，但後來得到何年希開解<br />
 參見上輯《<strong><a href="../Page/衝上雲霄.md" title="wikilink">衝上雲霄</a></strong>》</p></td>
 <td><p><strong>Sam、Samuel</strong></p></td>
 </tr>
@@ -65,7 +65,7 @@
 <td><p><strong><a href="../Page/胡杏兒.md" title="wikilink">胡杏兒</a></strong></p></td>
 <td><p><strong>蘇　怡</strong></p></td>
 <td><p>前機管局客運服務主任<br />
-唐璜、邢佳美之亡媳妇<br />
+唐璜、邢佳美之亡媳婦<br />
 唐亦琛之亡妻<br />
 唐亦風之亡嫂<br />
 貝嘉露、費文高之前下屬<br />
@@ -81,11 +81,11 @@
 唐璜、邢佳美之幼子<br />
 曾命名<strong>邢風</strong>（第一輯）<br />
 唐亦琛之弟<br />
-苏怡之叔仔<br />
+蘇怡之叔仔<br />
 凌卓芝、高志宏、鍾世沛之好友<br />
 凌卓芝之掛名之兄<br />
 顧夏晨之男友<br />
-乔祖思之暗恋对象<br />
+喬祖思之暗戀對象<br />
 參見上輯《<strong><a href="../Page/衝上雲霄.md" title="wikilink">衝上雲霄</a></strong>》</p></td>
 <td><p><strong>Issac</strong></p></td>
 </tr>
@@ -113,7 +113,7 @@
 <td><p><strong>顧夏陽</strong></p></td>
 <td><p>天頌航空機長，曾經參加<a href="https://zh.wikipedia.org/wiki/澳洲皇家空軍" title="wikilink">澳洲皇家空軍</a><br />
 顧風流之子<br />
-顧夏晨、顧阿里詩之兄<br />
+顧夏晨之兄 顧阿里詩同父異母之兄<br />
 與唐亦琛亦敵亦友<br />
 何年希之男友，後分手，後來再次展開追求，最終放棄</p></td>
 <td><p><strong>Jayden、</strong><br />
@@ -126,7 +126,7 @@
 <td><p>天頌航空飛機維修核准簽證督導員，第41集成為工程師<br />
 顧風流之女<br />
 顧夏陽之妹<br />
-顧阿里诗之姊<br />
+顧阿里诗同父異母之姊<br />
 唐亦風之女友<br />
 安以泰之單戀對象</p></td>
 <td><p><strong>Summer</strong></p></td>
@@ -135,7 +135,7 @@
 <td><p><a href="../Page/黃山怡.md" title="wikilink">黃山怡</a></p></td>
 <td><p>顧阿里詩</p></td>
 <td><p>顧風流之女<br />
-顧夏陽、顧夏晨之妹<br />
+顧夏陽、顧夏晨同父異母之妹<br />
 定居於法國<br />
 客串第30集</p></td>
 <td><p><strong>Alizee</strong></p></td>
@@ -246,7 +246,7 @@
 <tr class="even">
 <td><p><strong><a href="../Page/吳卓羲.md" title="wikilink">吳卓羲</a></strong></p></td>
 <td><p><strong>唐亦風</strong></p></td>
-<td><p>機長、高級副機長，於第42集成為機長 / 前飛揚航空高級副機長<br />
+<td><p>高級副機長，於第42集成為機長 / 前飛揚航空高級副機長<br />
 參見<strong><a href="https://zh.wikipedia.org/wiki/#唐家" title="wikilink">唐家</a></strong><br />
 參見上輯《<strong><a href="../Page/衝上雲霄.md" title="wikilink">衝上雲霄</a></strong>》</p></td>
 <td><p><strong>Issac</strong></p></td>
@@ -501,7 +501,7 @@ Head姐</strong></p></td>
 <td><p><strong><a href="../Page/胡杏兒.md" title="wikilink">胡杏兒</a></strong></p></td>
 <td><p><strong>顧夏晨</strong></p></td>
 <td><p>飛機維修核准簽證督導員<br />
-於第41集成為工程師<br />
+於第42集成為工程師<br />
 參見<a href="https://zh.wikipedia.org/wiki/#顧家" title="wikilink"><strong>顧家</strong></a></p></td>
 <td><p><strong>Summer</strong></p></td>
 </tr>
@@ -510,7 +510,7 @@ Head姐</strong></p></td>
 <td><p><strong>安以泰</strong></p></td>
 <td><p>飛機維修技工長<br />
 為了一圓父親的期望投考飛行學員，後為二副機長，最後轉回做飛機維修技工長<br />
-於第41集成為助理工程師<br />
+於第42集成為助理工程師<br />
 顧夏晨家中租客之一<br />
 單戀顧夏晨</p></td>
 <td><p><strong>Teddy</strong><br />
@@ -861,7 +861,7 @@ PPP 贊助者</p></td>
 （第15集）</p></td>
 </tr>
 <tr class="odd">
-<td></td>
+<td><p><a href="../Page/徐玟晴.md" title="wikilink">徐玟晴</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1129,8 +1129,8 @@ BJ Chong之朋友，後為其女友</p></td>
 
 ## 記事
 
-  - 2011年6月7日：過百位TVB藝人及行政人員，與廣告客戶一同出席在[天際100](../Page/天際100.md "wikilink")舉行的「TVB POWER天際任飛翔」活動，介紹即將拍攝的新劇，其中《衝上雲霄II》的演員[胡杏兒](../Page/胡杏兒.md "wikilink")、[陳法拉](../Page/陳法拉.md "wikilink")、[吳卓羲](../Page/吳卓羲.md "wikilink")、[黃宗澤及](https://zh.wikipedia.org/wiki/黃宗澤 "wikilink")[胡定欣等穿上機師及空中服務員制服亮相](https://zh.wikipedia.org/wiki/胡定欣 "wikilink")\[3\]。
-  - 2011年10月12日：一眾演員包括[張智霖](../Page/張智霖.md "wikilink")、[林峯](https://zh.wikipedia.org/wiki/林峯 "wikilink")、胡杏兒、陳法拉、吳卓羲、黃宗澤、徐子珊及胡定欣等到[香港國際機場](../Page/香港國際機場.md "wikilink")為本劇拍攝[2012無綫節目巡禮](../Page/2012無綫節目巡禮.md "wikilink")片段\[4\]，[吳鎮宇](../Page/吳鎮宇.md "wikilink")於片尾以客串形式露面。
+  - 2011年6月7日：過百位TVB藝人及行政人員，與廣告客戶一同出席在[天際100](../Page/天際100.md "wikilink")舉行的「TVB POWER天際任飛翔」活動，介紹即將拍攝的新劇，其中 [胡杏兒](../Page/胡杏兒.md "wikilink")、[陳法拉](../Page/陳法拉.md "wikilink")、[吳卓羲](../Page/吳卓羲.md "wikilink")、[黃宗澤及](https://zh.wikipedia.org/wiki/黃宗澤 "wikilink")[胡定欣等穿上機師及空中服務員制服亮相](https://zh.wikipedia.org/wiki/胡定欣 "wikilink")\[3\]。
+  - 2011年10月12日：[張智霖](../Page/張智霖.md "wikilink")、[林峯](https://zh.wikipedia.org/wiki/林峯 "wikilink")、胡杏兒、陳法拉、吳卓羲、黃宗澤、徐子珊及胡定欣等到[香港國際機場](../Page/香港國際機場.md "wikilink")為本劇拍攝[2012無綫節目巡禮](../Page/2012無綫節目巡禮.md "wikilink")片段\[4\]，[吳鎮宇](../Page/吳鎮宇.md "wikilink")於片尾以客串形式露面。
   - [林峰因为要拍摄](https://zh.wikipedia.org/wiki/林峰 "wikilink")《[雷霆扫毒](https://zh.wikipedia.org/wiki/雷霆扫毒 "wikilink")》，档期问题跟冲2相撞，所以无法参演
   - [黄宗泽因为要拍摄](https://zh.wikipedia.org/wiki/黄宗泽 "wikilink")《[面包树的女人](https://zh.wikipedia.org/wiki/面包树的女人 "wikilink")》，档期跟冲2相撞，所以无法参演。
   - 2012年7月18日：於15:00在尖沙咀[The Mira Hong Kong](../Page/The_Mira_Hong_Kong.md "wikilink") 18樓宴會廳1舉行記者會\[5\]。
@@ -1577,7 +1577,7 @@ BJ Chong之朋友，後為其女友</p></td>
 13. [藝人月曆 - 8月15日 - tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)
 14. [藝人月曆 - 8月25日 - tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)
 15. [藝人月曆 - 9月8日 - tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)
-16. [星島日報：闊別10年守護緣分《衝II》監製： 鎮宇為Fans再演Sam哥](http://news.singtao.ca/toronto/2013-07-13/entertainment1373691633d4593017.html)，2013年7月13日
+16. [星島日報：闊別10年守護緣分《衝II》監製： 鎮宇為Fans再演Sam哥](http://news.singtao.ca/toronto/2013-07-13/entertainment1373691633d4593017.html) ，2013年7月13日
 17. ["衝上雲霄2"遭吐槽：陳法拉不入戲 主題曲不合拍](http://big5.chinanews.com:89/yl/2013/07-24/5079941.shtml)，2013年07月24日
 18. [蘋果日報：阿Lam唱《衝II》主題曲 被彈唔啱Feel](http://hk.apple.nextmedia.com/entertainment/art/20130701/18317879)，2013年07月01日
 19. [大公報﹕經典劇續集難做 《衝上雲霄2》未播獲51宗投訴](http://ent.takungpao.com.hk/tv/q/2013/0704/1736240.html)，2013年7月4日
@@ -1590,14 +1590,14 @@ BJ Chong之朋友，後為其女友</p></td>
 26. [東方日報﹕張智霖「被消失」粉絲投訴](http://orientaldaily.on.cc/cnt/entertainment/20130810/00282_042.html)
 27. [明報﹕張智霖悲Cool魔真可憐 死纏Holiday惹網民反感](http://news.sina.com.hk/news/20130831/-15-3054884/1.html)，2013年8月31日
 28. [蘋果日報：吳卓羲英文差賴飛紙仔](http://hk.apple.nextmedia.com/entertainment/art/20130723/18344621)，2013年07月23日
-29. [星島日報﹕網民要求鎮宇與慧珊「復合」](http://news.singtao.ca/toronto/2013-07-20/entertainment1374302292d4604631.html)，2013年7月20日
+29. [星島日報﹕網民要求鎮宇與慧珊「復合」](http://news.singtao.ca/toronto/2013-07-20/entertainment1374302292d4604631.html) ，2013年7月20日
 30. [AM730﹕吹脹80後 - 張潤衡 不喜衝上雲霄2的主題曲，但可以點？](http://www.am730.com.hk/article.php?article=164812)，2013年07月24日
 31. [1](http://hk.apple.nextmedia.com/entertainment/art/20130723/18344619)，2013年7月23日
 32. [《衝II》兄妹和好杏兒激動再現囧樣](http://hk.apple.nextmedia.com/entertainment/art/20130808/18369690)，2013年8月8日
 33. [蘋果日報：Sam哥重遇蘇怡 《衝II》看透力場](http://hk.apple.nextmedia.com/entertainment/art/20130723/18345843)，2013年07月23日
 34. [明報：另類煲劇高手 杏兒嘉穎子珊展鵬角色都叫Summer](http://news.sina.com.hk/news/20130729/-15-3028174/1.html) ，2013年07月29日
 35. [爽報﹕【衝上雲霄II】江美儀又玩情趣內衣](http://www.sharpdaily.hk/realtime/entertain/20130724/51586328/%E8%A1%9D%E4%B8%8A%E9%9B%B2%E9%9C%84II-%E9%99%B3%E6%B3%95%E6%8B%89%E6%BC%94%E6%8A%80-%E9%A9%9A%E5%9A%87-%E6%B1%9F%E7%BE%8E%E5%84%80%E5%8F%88%E7%8E%A9%E6%83%85%E8%B6%A3%E5%85%A7%E8%A1%A3)，2013年7月24日
-36. [陳法拉演技被批“欲哭無淚”](http://ent.sinchew.com.my/node/41737)，2013年7月18日
+36. [陳法拉演技被批“欲哭無淚”](http://ent.sinchew.com.my/node/41737) ，2013年7月18日
 37. [Sam哥Holiday情侶檔搵銀](http://ol.mingpao.com/cfm/star5.cfm?File=20130913/saa01/mbb1.txt)，2013年09月13日
 38. [明報﹕胡定欣早料代母情節惹爭議](http://news.sina.com.hk/news/20130809/-15-3037255/1.html) ，2013年8月9日
 39. [明報﹕大姐大手記﹕胡定欣胡杏兒《衝II》大贏家](http://news.sina.com.hk/news/20130905/-16-3058698/1.html) ，2013年9月5日

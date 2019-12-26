@@ -1423,53 +1423,29 @@ LIVE TOUR 2014「BLUE IMPACT」</p></td>
 [Category:J_Soul_Brothers](https://zh.wikipedia.org/wiki/Category:J_Soul_Brothers "wikilink") [Category:EXILE_TRIBE](https://zh.wikipedia.org/wiki/Category:EXILE_TRIBE "wikilink") [Category:Rhythm_zone](https://zh.wikipedia.org/wiki/Category:Rhythm_zone "wikilink") [Category:日本唱片大獎獲獎者](https://zh.wikipedia.org/wiki/Category:日本唱片大獎獲獎者 "wikilink") [Category:Japan_Hot_100年榜冠軍獲得者](https://zh.wikipedia.org/wiki/Category:Japan_Hot_100年榜冠軍獲得者 "wikilink") [Category:日本有線大獎獲獎者](https://zh.wikipedia.org/wiki/Category:日本有線大獎獲獎者 "wikilink") [Category:Oricon卡拉OK年榜冠軍獲得者](https://zh.wikipedia.org/wiki/Category:Oricon卡拉OK年榜冠軍獲得者 "wikilink") [Category:LDH所屬藝人](https://zh.wikipedia.org/wiki/Category:LDH所屬藝人 "wikilink")
 
 1.
-
 2.
-
 3.
 4.  <http://www.oricon.co.jp/news/2039260/full/>
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25. [「NexTone Award 2017」](https://www.barks.jp/news/?id=1000140353)BARKS（2017年4月5日）2017年4月5日閲覧。
-
 26. [「2017年年間ライブ推定観客動員ランキング発表　総合第1位は三代目JSB」](https://realsound.jp/2018/01/post-151602.html)real sound（2018年1月25日）2018年1月25日閲覧。
-
 27.

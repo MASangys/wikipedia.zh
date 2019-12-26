@@ -13,9 +13,6 @@
 [Category:钌配合物](https://zh.wikipedia.org/wiki/Category:钌配合物 "wikilink") [Category:光化学](https://zh.wikipedia.org/wiki/Category:光化学 "wikilink")
 
 1.  Broomhead, J. A.; Young, C. G. “Tris(2,2’-bipyridine)Ruthenium(II) Dichloride Hexahydrate” Inorganic Syntheses, 1990, volume 28, pp. 338-340.
-
 2.
-
 3.
-
 4.

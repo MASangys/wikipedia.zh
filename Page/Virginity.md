@@ -246,11 +246,7 @@
 [Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink") [Category:NMB48歌曲](https://zh.wikipedia.org/wiki/Category:NMB48歌曲 "wikilink") [Category:秋元康創作的歌曲](https://zh.wikipedia.org/wiki/Category:秋元康創作的歌曲 "wikilink") [Category:2012年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Oricon單曲週榜冠軍作品 "wikilink") [Category:2012年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2012年Japan_Hot_100冠軍歌曲 "wikilink") [Category:2012年Hot_Singles_Sales冠軍單曲](https://zh.wikipedia.org/wiki/Category:2012年Hot_Singles_Sales冠軍單曲 "wikilink")
 
 1.  「恰布恰布」是渡辺在[Google+](../Page/Google+.md "wikilink")和官方部落格使用入浴意思的用語，在今作發售前開始頻密使用。
-
 2.
-
 3.
-
 4.
-
 5.

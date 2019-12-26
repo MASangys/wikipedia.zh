@@ -1,4 +1,4 @@
-**Sandy Bridge**，或简称**SNB**（英特尔官方简称）或**SB**（中国大陆的网友或玩家一般使用的简称），是[Intel研發的](https://zh.wikipedia.org/wiki/Intel "wikilink")[中央處理器](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")[微架構](../Page/微架構.md "wikilink")之[代號](https://zh.wikipedia.org/wiki/代號 "wikilink")，2005年開始研發，是為[Intel Nehalem微架構的繼任者](https://zh.wikipedia.org/wiki/Intel_Nehalem "wikilink")。2009年Intel公開展示使用Sandy Bridge微架構的[處理器樣品](https://zh.wikipedia.org/wiki/處理器 "wikilink")，2011年1月正式發布，仍然使用[Intel Core系列處理器作為首發產品](https://zh.wikipedia.org/wiki/Intel_Core "wikilink")。\[1\]\[2\]Sandy Bridge微架構的處理器均使用32[納米平面雙柵極](https://zh.wikipedia.org/wiki/納米 "wikilink")[電晶體的製程](https://zh.wikipedia.org/wiki/電晶體 "wikilink")。\[3\]依照Intel的『Tick-Tock』策略，繼任的[Intel Ivy Bridge微架構是Intel](https://zh.wikipedia.org/wiki/Intel_Ivy_Bridge "wikilink") Sandy Bridge微架構的製程改進版。Intel Ivy Bridge使用22納米3D[三柵極電晶體製程](https://zh.wikipedia.org/wiki/三柵極電晶體 "wikilink")。2011年第四季度Intel展示使用Ivy Bridge微架構的處理器樣品，並宣布於2012年中期陸續發布基於Ivy Bridge微架構的處理器。\[4\]
+**Sandy Bridge**，或简称**SNB**（英特尔官方简称）或**沙橋**（中国大陆的网友或玩家一般使用的简称），是[Intel研發的](https://zh.wikipedia.org/wiki/Intel "wikilink")[中央處理器](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")[微架構](../Page/微架構.md "wikilink")之[代號](https://zh.wikipedia.org/wiki/代號 "wikilink")，2005年開始研發，是為[Intel Nehalem微架構的繼任者](https://zh.wikipedia.org/wiki/Intel_Nehalem "wikilink")。2009年Intel公開展示使用Sandy Bridge微架構的[處理器樣品](https://zh.wikipedia.org/wiki/處理器 "wikilink")，2011年1月正式發布，仍然使用[Intel Core系列處理器作為首發產品](https://zh.wikipedia.org/wiki/Intel_Core "wikilink")。\[1\]\[2\]Sandy Bridge微架構的處理器均使用32[納米平面雙柵極](https://zh.wikipedia.org/wiki/納米 "wikilink")[電晶體的製程](https://zh.wikipedia.org/wiki/電晶體 "wikilink")。\[3\]依照Intel的『Tick-Tock』策略，繼任的[Intel Ivy Bridge微架構是Intel](https://zh.wikipedia.org/wiki/Intel_Ivy_Bridge "wikilink") Sandy Bridge微架構的製程改進版。Intel Ivy Bridge使用22納米3D[三柵極電晶體製程](https://zh.wikipedia.org/wiki/三柵極電晶體 "wikilink")。2011年第四季度Intel展示使用Ivy Bridge微架構的處理器樣品，並宣布於2012年中期陸續發布基於Ivy Bridge微架構的處理器。\[4\]
 
 ## 技術特點
 
@@ -14,7 +14,7 @@
 
 ### 融合[顯示核心](https://zh.wikipedia.org/wiki/顯示核心 "wikilink")
 
-在Intel Nehalem的製程改進版[Intel Westmere上分立的顯示晶片和CPU晶片的設計](https://zh.wikipedia.org/wiki/Intel_Westmere "wikilink")，在Intel Sandy Bridge上以GPU和CPU完整融合進一塊[晶片上的設計所取代](https://zh.wikipedia.org/wiki/晶片 "wikilink")，而且在Intel Sandy Bridge上顯示核心將與CPU共用L3快取，顯示核心官方中文品牌名稱為『-{[核芯显卡](https://zh.wikipedia.org/wiki/核芯显卡 "wikilink")}-』（僅中國大陸）。流動平台的處理器均採用這種設計，而這種設計在桌面平台僅見於[LGA1155平台](https://zh.wikipedia.org/wiki/LGA1155 "wikilink")。
+在Intel Nehalem的製程改進版[Intel Westmere上分立的顯示晶片和CPU晶片的設計](https://zh.wikipedia.org/wiki/Intel_Westmere "wikilink")，在Intel Sandy Bridge上以GPU和CPU完整融合進一塊[晶片上的設計所取代](https://zh.wikipedia.org/wiki/晶片 "wikilink")，而且在Intel Sandy Bridge上顯示核心將與CPU共用L3快取，顯示核心官方中文品牌名稱為『[核-{}-芯-{}-显-{}-卡](https://zh.wikipedia.org/wiki/核芯显卡 "wikilink")』（僅中國大陸）。流動平台的處理器均採用這種設計，而這種設計在桌面平台僅見於[LGA1155平台](https://zh.wikipedia.org/wiki/LGA1155 "wikilink")。
 
 ### 硬體視訊加速
 
@@ -234,49 +234,26 @@ Intel依照[Tick-Tock策略](../Page/Intel_Tick-Tock.md "wikilink")，於2012年
 
 1.
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.  e-zone DIY第746期第16頁
-
 9.  <http://www.intel.com/support/processors/corei5/sb/CS-032059.htm?wapkw=%20specification%20update>
-
 10. <http://www.intel.com/content/dam/doc/specification-update/core-i7-lga-2011-specification-update.pdf>
-
 11. [AnandTech - The Sandy Bridge Review: Intel Core i7-2600K, i5-2500K and Core i3-2100 Tested](http://www.anandtech.com/show/4083/the-sandy-bridge-review-intel-core-i7-2600k-i5-2500k-core-i3-2100-tested/1)
-
 12. [Sandy Bridge، راه حل‌ها، بازار ایران](http://www.sakhtafzarmag.com/news/digital-news-hardware/225-sandy-bridge.html)
-
 13. Tom's Hardware,Intel Identifies Cougar Point Chipset Error, Halts Shipments <http://www.tomshardware.com/news/cougar-point-sandy-bridge-sata-error,12108.html>
-
 14.
-
 15.
-
 16.
-
 17. [Intel to Ship Dual-core Sandy Bridge Chips on Feb. 20 | PCWorld](http://www.pcworld.com/article/218919/intel_to_ship_dualcore_sandy_bridge_chips_on_feb_20.html)
-
 18. [Intel to continue shipping flawed Sandy Bridge chipsets | Expert Reviews](http://www.expertreviews.co.uk/general/1282684/intel-to-continue-shipping-flawed-sandy-bridge-chipsets)
-
 19.
-
 20.
-
 21. <http://benchmarkreviews.com/index.php?option=com_content&task=view&id=874&Itemid=63&limit=1&limitstart=14>
-
 22. [YouTube - ‪Intel demos Sandy Bridge running at 4.9GHz‬‏](http://www.youtube.com/watch?v=hKGnaTrxS_k)
-
 23.
-
 24.
-
 25.

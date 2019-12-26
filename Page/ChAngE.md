@@ -39,27 +39,17 @@ miwa出席了於同年8月21日播映的《》，首次於電視上演唱《chAn
 [Category:miwa歌曲](https://zh.wikipedia.org/wiki/Category:miwa歌曲 "wikilink") [Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink") [Category:BLEACH歌曲](https://zh.wikipedia.org/wiki/Category:BLEACH歌曲 "wikilink") [Category:東京電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:東京電視台動畫主題曲 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.  歌詞原文：
-
 6.
-
 7.
 8.
-
 9.
-
 10.
-
 11.
-
 12.
 13.
 14.
-
 15.

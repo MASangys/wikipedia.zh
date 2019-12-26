@@ -534,19 +534,12 @@ Wedbush證劵分析師邁克爾·帕切特認為應用將是有益的，尤其�
 [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink") [Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink") [Category:Windows_Phone](https://zh.wikipedia.org/wiki/Category:Windows_Phone "wikilink") [Category:Xbox_360](https://zh.wikipedia.org/wiki/Category:Xbox_360 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
 9.
 10.

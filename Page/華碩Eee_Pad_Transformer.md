@@ -19,7 +19,7 @@ Asus Eee Pad Transformer使用 [NVIDIA Tegra](https://zh.wikipedia.org/wiki/NVID
 
   - [Asus Eee Pad Transformer Full Performance Review](http://hothardware.com/Reviews/Asus-Eee-Pad-Transformer-Android-30-Tablet-Review/) at HotHardware.com
 
-[Category:華碩產品](https://zh.wikipedia.org/wiki/Category:華碩產品 "wikilink") [Category:平板電腦](https://zh.wikipedia.org/wiki/Category:平板電腦 "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:2011年面世的產品](https://zh.wikipedia.org/wiki/Category:2011年面世的產品 "wikilink")
+[Category:華碩平板電腦](https://zh.wikipedia.org/wiki/Category:華碩平板電腦 "wikilink") [Category:平板電腦](https://zh.wikipedia.org/wiki/Category:平板電腦 "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:2011年面世的產品](https://zh.wikipedia.org/wiki/Category:2011年面世的產品 "wikilink")
 
 1.
 2.

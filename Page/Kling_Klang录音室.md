@@ -30,6 +30,6 @@ Kling Klang录音室于1970年在位于[杜塞尔多夫](../Page/杜塞尔多夫
 
   -
   -
-[Category:工作环境](https://zh.wikipedia.org/wiki/Category:工作环境 "wikilink") [Category:发电站乐队](https://zh.wikipedia.org/wiki/Category:发电站乐队 "wikilink")
+[Category:发电站乐队](https://zh.wikipedia.org/wiki/Category:发电站乐队 "wikilink")
 
 1.  <http://kraftwerk.technopop.com.br/data_setup.php>

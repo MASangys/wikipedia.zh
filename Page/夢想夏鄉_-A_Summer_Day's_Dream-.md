@@ -137,24 +137,17 @@
   - [ 官方網站](https://web.archive.org/web/20120817103630/http://musoukakyo.maikaze.com/1st/)
   - [ 官方網站](https://web.archive.org/web/20120817011338/http://musoukakyo.maikaze.com/)
 
-[Category:東方Project的二次創作](https://zh.wikipedia.org/wiki/Category:東方Project的二次創作 "wikilink")
+[Category:東方Project的二次創作](https://zh.wikipedia.org/wiki/Category:東方Project的二次創作 "wikilink") [Category:同人動畫](https://zh.wikipedia.org/wiki/Category:同人動畫 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.  [夢想夏鄉第一話官網](http://musoukakyo.maikaze.com/1st) 頁腳：
-
 7.
 8.
-
 9.
 10.
-
 11.
 12.

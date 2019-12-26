@@ -219,16 +219,10 @@
 [Category:電擊文庫](https://zh.wikipedia.org/wiki/Category:電擊文庫 "wikilink") [Category:2011年小說](https://zh.wikipedia.org/wiki/Category:2011年小說 "wikilink") [Category:電擊魔王](https://zh.wikipedia.org/wiki/Category:電擊魔王 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:魔王主角題材作品](https://zh.wikipedia.org/wiki/Category:魔王主角題材作品 "wikilink") [Category:勇者主角題材作品](https://zh.wikipedia.org/wiki/Category:勇者主角題材作品 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.
-
 7.
-
 8.

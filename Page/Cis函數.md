@@ -150,14 +150,10 @@ cas函數存在一些恆等式：
 [Category:特殊函数](https://zh.wikipedia.org/wiki/Category:特殊函数 "wikilink")
 
 1.   ([1](https://archive.org/stream/elementsquaterni00hamirich#page/n0/mode/1up), [2](https://books.google.com/books?id=b2stAAAAYAAJ))
-
 2.
-
 3.   (NB. ISBN and link for reprint of 2nd edition by Cosimo, Inc., New York, US, 2013.)
-
 4.
 5.   (NB. ISBN for reprint by Kessinger Publishing, 2010.)
-
 6.
 7.
 8.
@@ -165,23 +161,13 @@ cas函數存在一些恆等式：
 10.
 11.
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.

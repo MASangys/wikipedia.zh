@@ -110,30 +110,17 @@ GoAgent项目删除不久，[GitHub](../Page/GitHub.md "wikilink")即遭到了�
 [Category:翻墙软件](https://zh.wikipedia.org/wiki/Category:翻墙软件 "wikilink") [Category:代理软件](https://zh.wikipedia.org/wiki/Category:代理软件 "wikilink") [Category:用Python編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用Python編程的自由軟體 "wikilink") [Category:软件小作品](https://zh.wikipedia.org/wiki/Category:软件小作品 "wikilink") [Category:代理服务器](https://zh.wikipedia.org/wiki/Category:代理服务器 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
 11.
-
 12.
-
 13.
-
 14.
-
 15. <small>（[中文翻译](https://zh.wikipedia.org/wiki/s:Translation:Speech_that_Enables_Speech:_China_Takes_Aim_at_Its_Coders "wikilink")）</small>

@@ -119,6 +119,7 @@
   - 2018年11月30日 - [乙女が結ぶ月夜の煌めき](../Page/少女締結的月夜光輝.md "wikilink")
   - 2019年3月29日 - [恋はそっと咲く花のように～二人は永遠に寄り添っていく～](../Page/戀愛猶如悄然綻放的花朵.md "wikilink")
   - 2019年6月28日 - [乙女が結ぶ月夜の煌めき Fullmoon Days](../Page/少女締結的月夜光輝.md "wikilink")
+  - 2019年12月20日 - シャイニーシスターズ
 
 <!-- end list -->
 
@@ -397,7 +398,7 @@
 
 <!-- end list -->
 
-  - 2004年4月23日 - シンシア 〜Sincerely to You〜
+  - 2004年4月23日 - [シンシア 〜Sincerely to You〜](../Page/辛希雅.md "wikilink")
   - 2004年11月26日 - です☆めた 〜半熟ヴァンパイア死亡YOU戯〜
 
 <!-- end list -->
@@ -593,28 +594,16 @@
 [Category:1992年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1992年開業電子遊戲公司 "wikilink") [Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink") [Category:千代田區公司](https://zh.wikipedia.org/wiki/Category:千代田區公司 "wikilink") [Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink") [Category:WillPlus](https://zh.wikipedia.org/wiki/Category:WillPlus "wikilink")
 
 1.  [会社概要](http://www.will-japan.co.jp/company.html)WillPlus。
-
 2.  [会社概要](http://www.will-japan.co.jp/mC01.htm)
-
 3.  官報平成22年8月3日付（号外 第162号）
-
 4.  [ソフトハウス関係図](http://www.alles.or.jp/~syaran/list/kankei1.htm)
-
 5.  販売は[ジャパンホームビデオ](https://zh.wikipedia.org/wiki/ジャパンホームビデオ "wikilink")（[アリスJAPANレーベル](https://zh.wikipedia.org/wiki/アリスJAPAN "wikilink"))。
-
 6.  [Bi_List](http://sowhat.magical.gr.jp/bilist/)  - 美少女ゲームの20世紀
-
 7.
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.

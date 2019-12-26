@@ -880,32 +880,18 @@ DSi，Wii，PlayStation 3, Android, XBLA</p></td>
 [Category:Gameloft遊戲](https://zh.wikipedia.org/wiki/Category:Gameloft遊戲 "wikilink") [Category:各公司电子游戏列表](https://zh.wikipedia.org/wiki/Category:各公司电子游戏列表 "wikilink")
 
 1.  [All About Symbian](http://www.allaboutsymbian.com/news/item/13118_Asphalt_6_HD_and_Dungeon_Hunte.php)
-
 2.  [OVI Store](http://store.ovi.com/content/151325)
-
 3.
-
 4.
-
 5.  †=Games with the "Free+" or "Fremium"
-
 6.
-7.  <http://peperonity.com/go/sites/mview/gamezblog/26421713/35952372>
-
+7.
 8.  <http://en.wikipedia.org/wiki/James_Cameron%27s_Avatar:_The_Game>
-
 9.  <http://www.ign.com/games/ko-legends/cell-14237943>
-
 10. <http://www.ign.com/games/ko-legends/cell-14237943>
-
 11. <http://www.ign.com/games/ko-legends/cell-14237943>
-
 12. <https://en.wikipedia.org/wiki/Order_%26_Chaos_Online>
-
 13. <http://home.gamer.com.tw/creationDetail.php?sn=1530866>
-
 14. <https://en.wikipedia.org/wiki/Order_%26_Chaos_Online>
-
 15. <http://www.ign.com/games/wonder-blocks/ipod-60381>
-
 16. <http://appworld.blackberry.com/webstore/content/650/?lang=zh_cn>

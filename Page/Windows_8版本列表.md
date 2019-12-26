@@ -378,29 +378,17 @@
 [Category:Windows_8](https://zh.wikipedia.org/wiki/Category:Windows_8 "wikilink")
 
 1.  <http://windowsteamblog.com/windows/b/bloggingwindows/archive/2012/04/16/announcing-the-windows-8-editions.aspx>
-
 2.  <http://unwire.hk/2012/04/17/windows-8-version/software/win8/>
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
 11.
-
 12.
 13.
-
 14.
-
 15.

@@ -51,10 +51,10 @@ AKMSU很可能是由一名[巴基斯坦](../Page/巴基斯坦.md "wikilink")枪�
 
 ## 参见
 
-  - [AKM](https://zh.wikipedia.org/wiki/AKM "wikilink")
-  - [AK-47](https://zh.wikipedia.org/wiki/AK-47 "wikilink")
-  - [AKS-74U](https://zh.wikipedia.org/wiki/AKS-74U "wikilink")
-  - [Zastava M92](https://zh.wikipedia.org/wiki/Zastava_M92卡賓槍 "wikilink")
+  - [AKM突擊步槍](../Page/AKM突擊步槍.md "wikilink")
+  - [AK突擊步槍](https://zh.wikipedia.org/wiki/AK-47突擊步槍 "wikilink")
+  - [AKS-74U卡賓槍](https://zh.wikipedia.org/wiki/AKS-74U卡賓槍 "wikilink")
+  - [扎斯塔瓦M92卡賓槍](../Page/扎斯塔瓦M92卡賓槍.md "wikilink")
   - [卡拉什尼科夫](https://zh.wikipedia.org/wiki/卡拉什尼科夫 "wikilink")
 
 ## 參考文獻

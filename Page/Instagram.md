@@ -135,6 +135,7 @@ Instagram因以[智慧型手機平台起家](https://zh.wikipedia.org/wiki/智�
   - [Facebook](../Page/Facebook.md "wikilink")
   - [Flickr](../Page/Flickr.md "wikilink")
   - [Vine](../Page/Vine.md "wikilink")
+  - [新浪绿洲](https://zh.wikipedia.org/wiki/新浪绿洲 "wikilink")
 
 ## 参考资料
 

@@ -1,4 +1,4 @@
-**** 是由微軟設計與製造的[个人计算设备系列](https://zh.wikipedia.org/wiki/个人计算机 "wikilink")，包括[平板电脑](https://zh.wikipedia.org/wiki/平板电脑 "wikilink")、[笔记本电脑和](https://zh.wikipedia.org/wiki/笔记本电脑 "wikilink")[一体机](https://zh.wikipedia.org/wiki/一体机 "wikilink")。 Surface 首次发布时有兩個版本，分別為 Surface RT 系列與 Surface Pro 系列，前者搭载 Windows RT 系统，使用 [Nvidia](https://zh.wikipedia.org/wiki/Nvidia "wikilink") [處理器](https://zh.wikipedia.org/wiki/處理器 "wikilink")，而後者搭载完整的 Windows 8 系统，使用 [Intel](https://zh.wikipedia.org/wiki/Intel "wikilink") [處理器](https://zh.wikipedia.org/wiki/處理器 "wikilink")；兩個版本皆能自 [Windows Store](https://zh.wikipedia.org/wiki/Windows_Store "wikilink") 安裝應用程式，但僅有 Pro 型 Surface 能夠執行 PC 版 Windows 上的軟體。\[1\]
+**** 是由微軟設計與製造的[个人计算设备系列](https://zh.wikipedia.org/wiki/个人计算机 "wikilink")，包括[平板电脑](https://zh.wikipedia.org/wiki/平板电脑 "wikilink")、[笔记本电脑](https://zh.wikipedia.org/wiki/笔记本电脑 "wikilink")、[一体机](https://zh.wikipedia.org/wiki/一体机 "wikilink")、手機以及耳機。 Surface 首次发布时有兩個版本，分別為 Surface RT 系列與 Surface Pro 系列，前者搭载 Windows RT 系统，使用 [Nvidia](https://zh.wikipedia.org/wiki/Nvidia "wikilink") [處理器](https://zh.wikipedia.org/wiki/處理器 "wikilink")，而後者搭载完整的 Windows 8 系统，使用 [Intel](https://zh.wikipedia.org/wiki/Intel "wikilink") [處理器](https://zh.wikipedia.org/wiki/處理器 "wikilink")；兩個版本皆能自 [Windows Store](https://zh.wikipedia.org/wiki/Windows_Store "wikilink") 安裝應用程式，但僅有 Pro 型 Surface 能夠執行 PC 版 Windows 上的軟體。\[1\]
 
 這系列的產品由[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")[執行長](https://zh.wikipedia.org/wiki/執行長 "wikilink")[史蒂夫·巴爾默](../Page/史蒂夫·巴爾默.md "wikilink")在2012年6月18日於[洛杉磯舉行的記者會上公開](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")。同年2012年10月26日推出。\[2\] 接下來，[微軟於](https://zh.wikipedia.org/wiki/微軟 "wikilink")2013年9月23日發表 Surface Pro 2 及 Surface 2 ，同年10月22日上市。但在2014年6月10日發表會上卻只有公佈 [Surface Pro 3](https://zh.wikipedia.org/wiki/Surface_Pro_3 "wikilink") ，同年8月28日上市。
 
@@ -36,9 +36,17 @@ Surface專業版預装Windows 8專業版及Office 365家庭高级版一個月試
 
 Surface中國版預装Windows 8简体中文版，無法更改為其他語言，及Office 2013家庭和學生版。\[3\]但是由於中國政策的限制，中國版Surface無法通過[TPM使用](../Page/可信平台模块.md "wikilink")[BitLocker](../Page/BitLocker.md "wikilink")加密數據。\[4\]
 
-**Surface Pro 4**  2015年10月，微软推出了Surface Pro 4，配备12.3吋2736 x 1824螢幕，處理器提採用第6代Intel Core M3/i5/i7。同时推出了新的Surface Pen及重新设计的配备指纹识别模块的Type cover。
+**Surface Pro 4**  2015年10月，微軟推出了Surface Pro 4，配备12.3吋2736 x 1824螢幕，處理器提採用第6代Intel Core M3/i5/i7。同时推出了新的Surface Pen及重新设计的配备指纹识别模块的Type cover。
 
 **Surface Pro (第五代)**  2017年5月，微软推出了新一代的Surface Pro，处理器升级到第7代Intel酷睿Kaby Lake架构M3/i5/i7处理器，电池容量增加，配套的触控笔Surface Pen升级到4096级压感。
+
+**Surface Pro 6**
+
+2019年1月開賣
+
+**Surface Pro 7**
+
+2019年11月在台開賣，售價NT$28,088起。CPU為intel第10代core處理器，代號為ice lake。
 
 ## Surface Book系列
 
@@ -59,6 +67,334 @@ Surface Studio是一款一体式电脑，采用了28寸可触摸式显示屏，�
 **Surface Go** 2018年7月10日，微软公布了Surface系列新成员Surface GO。主打中低端市场。
 
 Surface Go采用10英寸屏幕，保持3:2的显示比例。相应的Type cover也变小。处理器使用的是英特尔 Pentium Gold 4415Y 双核处理器，可以选用4或8GB的内存，而存储容量也有从64G到256G等多种选项，唯注意64G版本使用的是[eMMC闪存而非其他容量版本所使用的](https://zh.wikipedia.org/wiki/eMMC "wikilink")[NVMe固态硬盘](../Page/NVM_Express.md "wikilink")。新增USB Type-C接口，支持Surface Pen等系列配件。\[6\]
+
+## Surface Neo系列
+
+**Surface Neo**
+2019年10月2日，微軟發布雙屏設備Surface Neo，它搭载两塊9英寸的LCD屏幕\[7\]。
+
+## Surface Earbuds系列
+
+**Surface Earbuds**
+2019年10月2日，微軟發布首款無線耳機Surface Earbuds\[8\]。
+
+## Surface Duo系列
+
+**Surface Duo**
+2019年10月2日，微軟發布雙屏安卓手機Surface Duo，每塊屏幕為5.6英寸\[9\]。
+
+## 歷史
+
+<table>
+<caption>作業系統支援</caption>
+<thead>
+<tr class="header">
+<th><p>系列</p></th>
+<th><p>Surface</p></th>
+<th><p>發佈 OS</p></th>
+<th><p>版本</p></th>
+<th><p>發佈日期</p></th>
+<th><p>最終支援的作業系統</p></th>
+<th><p>停止支援</p></th>
+<th><p>支援使用壽命</p></th>
+<th><p>定價</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>Surface</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Surface_(2012_tablet)" title="wikilink">Surface</a></p></td>
+<td><p><a href="../Page/Windows_RT.md" title="wikilink">Windows RT</a></p></td>
+<td><p>{{#invoke:Date table sorting|main|2012|10|26}}</p></td>
+<td><p>Windows RT 8.1 Update 3</p></td>
+<td><p>2018-01-09<br />
+2023-01-10 <small>Extended</small></p></td>
+<td><p><strong>&gt; </strong></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/Surface_2.md" title="wikilink">Surface 2</a></p></td>
+<td><p><a href="../Page/Windows_RT.md" title="wikilink">Windows RT 8.1</a></p></td>
+<td><p>{{#invoke:Date table sorting|main|2013|10|22}}</p></td>
+<td><p>Windows RT 8.1 Update 3</p></td>
+<td><p>2018-01-09<br />
+2023-01-10 <small>Extended</small></p></td>
+<td><p><strong>&gt; </strong></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/Surface_3.md" title="wikilink">Surface 3</a></p></td>
+<td><p><a href="../Page/Windows_8.1.md" title="wikilink">Windows 8.1</a> Update</p></td>
+<td><p>{{#invoke:Date table sorting|main|2015|5|5}}</p></td>
+<td><p>latest OS</p></td>
+<td><p>(current)</p></td>
+<td><p><strong>&gt; </strong></p></td>
+<td><p>$499/$599</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/Surface_Go" title="wikilink">Surface Go</a></p></td>
+<td><p><a href="../Page/Windows_10.md" title="wikilink">Windows 10</a> Home (S Mode)</p></td>
+<td><p>Version 1803</p></td>
+<td><p>{{#invoke:Date table sorting|main|2018|8|2}}</p></td>
+<td><p>latest OS</p></td>
+<td><p>(current)</p></td>
+<td><p><strong></strong></p></td>
+<td><p>$399</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Surface Pro</p></td>
+<td><p><a href="../Page/Surface_Pro.md" title="wikilink">Surface Pro</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Windows_8_Pro" title="wikilink">Windows 8 Pro</a></p></td>
+<td><p>{{#invoke:Date table sorting|main|2013|2|9}}</p></td>
+<td><p>latest OS</p></td>
+<td><p>(current)</p></td>
+<td><p><strong>&gt; </strong></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/Surface_Pro_2.md" title="wikilink">Surface Pro 2</a></p></td>
+<td><p><a href="../Page/Windows_8.1.md" title="wikilink">Windows 8.1 Pro</a></p></td>
+<td><p>{{#invoke:Date table sorting|main|2013|10|22}}</p></td>
+<td><p>latest OS</p></td>
+<td><p>(current)</p></td>
+<td><p><strong></strong></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/Surface_Pro_3" title="wikilink">Surface Pro 3</a></p></td>
+<td><p><a href="../Page/Windows_8.1.md" title="wikilink">Windows 8.1 Pro</a> Update</p></td>
+<td><p>{{#invoke:Date table sorting|main|2014|6|20}}</p></td>
+<td><p>latest OS</p></td>
+<td><p>(current)</p></td>
+<td><p><strong>&gt; </strong></p></td>
+<td><p>$799/$1949</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/Surface_Pro_4" title="wikilink">Surface Pro 4</a></p></td>
+<td><p><a href="../Page/Windows_10.md" title="wikilink">Windows 10</a> <a href="https://zh.wikipedia.org/wiki/Windows_10_editions" title="wikilink">Pro</a></p></td>
+<td><p>Version 1507</p></td>
+<td><p>{{#invoke:Date table sorting|main|2015|10|26}}</p></td>
+<td><p>latest OS</p></td>
+<td><p>(current)</p></td>
+<td><p><strong></strong></p></td>
+<td><p>$899</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/Surface_Pro_(2017)" title="wikilink">Surface Pro (2017)</a></p></td>
+<td><p><a href="../Page/Windows_10.md" title="wikilink">Windows 10</a> <a href="https://zh.wikipedia.org/wiki/Windows_10_editions" title="wikilink">Pro</a></p></td>
+<td><p>Version 1703</p></td>
+<td><p>{{#invoke:Date table sorting|main|2017|6|15}}</p></td>
+<td><p>latest OS</p></td>
+<td><p>(current)</p></td>
+<td><p><strong>&gt; </strong></p></td>
+<td><p>$799</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/Surface_Pro_6.md" title="wikilink">Surface Pro 6</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Windows_10_Home" title="wikilink">Windows 10 Home</a></p></td>
+<td><p>Version 1803</p></td>
+<td><p>{{#invoke:Date table sorting|main|2018|10|16}}</p></td>
+<td><p>latest OS</p></td>
+<td><p>(current)</p></td>
+<td><p><strong>&gt; </strong></p></td>
+<td><p>$899</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/Surface_Pro_7" title="wikilink">Surface Pro 7</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Windows_10_Home" title="wikilink">Windows 10 Home</a></p></td>
+<td><p>Version 1903</p></td>
+<td><p>{{#invoke:Date table sorting|main|2019|10|2}}</p></td>
+<td><p>latest OS</p></td>
+<td><p>(current)</p></td>
+<td><p><strong>&gt; </strong></p></td>
+<td><p>$749</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/Surface_Pro_X" title="wikilink">Surface Pro X</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Windows_10_Home" title="wikilink">Windows 10 on ARM Home</a></p></td>
+<td><p>Version 1903</p></td>
+<td><p>{{#invoke:Date table sorting|main|2019|10|2}}</p></td>
+<td><p>latest OS</p></td>
+<td><p>(current)</p></td>
+<td><p><strong>&gt; </strong></p></td>
+<td><p>$999</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Surface Book</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Surface_Book" title="wikilink">Surface Book</a></p></td>
+<td><p><a href="../Page/Windows_10.md" title="wikilink">Windows 10</a> <a href="https://zh.wikipedia.org/wiki/Windows_10_editions" title="wikilink">Pro</a></p></td>
+<td><p>Version 1507</p></td>
+<td><p>{{#invoke:Date table sorting|main|2019|10|26}}<br />
+{{#invoke:Date table sorting|main|2019|11|10}} <small>Performance base</small></p></td>
+<td><p>latest OS</p></td>
+<td><p>(current)</p></td>
+<td><p><strong>&gt; </strong><br />
+<strong>&gt;  <small>Performance base</small></strong></p></td>
+<td><p>$1,499/$3,299</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/Surface_Book_2.md" title="wikilink">Surface Book 2</a></p></td>
+<td><p><a href="../Page/Windows_10.md" title="wikilink">Windows 10</a> <a href="https://zh.wikipedia.org/wiki/Windows_10_editions" title="wikilink">Pro</a></p></td>
+<td><p>Version 1709</p></td>
+<td><p>{{#invoke:Date table sorting|main|2017|11|16}}</p></td>
+<td><p>latest OS</p></td>
+<td><p>(current)</p></td>
+<td><p><strong>&gt; </strong></p></td>
+<td><p>$1,499/$3,299</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Surface Laptop</p></td>
+<td><p><a href="../Page/Surface_Laptop.md" title="wikilink">Surface Laptop</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Windows_10_editions#S_edition" title="wikilink">Windows 10 Home (S Mode)</a></p></td>
+<td><p>Version 1703</p></td>
+<td><p>{{#invoke:Date table sorting|main|2017|6|15}}</p></td>
+<td><p>latest OS</p></td>
+<td><p>(current)</p></td>
+<td><p><strong>&gt; </strong></p></td>
+<td><p>$799/$2,699</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/Surface_Laptop_2" title="wikilink">Surface Laptop 2</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Windows_10_Home" title="wikilink">Windows 10 Home</a></p></td>
+<td><p>Version 1803</p></td>
+<td><p>{{#invoke:Date table sorting|main|2018|10|16}}</p></td>
+<td><p>latest OS</p></td>
+<td><p>(current)</p></td>
+<td><p><strong>&gt; </strong></p></td>
+<td><p>$999/$2,699</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/Surface_Laptop_3" title="wikilink">Surface Laptop 3</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Windows_10_Home" title="wikilink">Windows 10 Home</a></p></td>
+<td><p>Version 1903</p></td>
+<td><p>{{#invoke:Date table sorting|main|2019|10|2}}</p></td>
+<td><p>latest OS</p></td>
+<td><p>(current)</p></td>
+<td><p><strong>&gt; </strong></p></td>
+<td><p>$999/$2,399</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Surface Studio</p></td>
+<td><p><a href="../Page/Surface_Studio.md" title="wikilink">Surface Studio</a></p></td>
+<td><p><a href="../Page/Windows_10.md" title="wikilink">Windows 10</a> <a href="https://zh.wikipedia.org/wiki/Windows_10_editions" title="wikilink">Pro</a></p></td>
+<td><p>Version 1607</p></td>
+<td><p>{{#invoke:Date table sorting|main|2016|12|15}}</p></td>
+<td><p>latest OS</p></td>
+<td><p>(current)</p></td>
+<td><p><strong>&gt; </strong></p></td>
+<td><p>$2,999/$4,199</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/Surface_Studio_2" title="wikilink">Surface Studio 2</a></p></td>
+<td><p><a href="../Page/Windows_10.md" title="wikilink">Windows 10</a> <a href="https://zh.wikipedia.org/wiki/Windows_10_editions" title="wikilink">Pro</a></p></td>
+<td><p>Version 1803</p></td>
+<td><p>{{#invoke:Date table sorting|main|2018|10|2}}</p></td>
+<td><p>latest OS</p></td>
+<td><p>(current)</p></td>
+<td><p><strong>&gt; </strong></p></td>
+<td><p>$3,499/$4,799</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Surface Hub</p></td>
+<td><p><a href="../Page/Surface_Hub.md" title="wikilink">Surface Hub</a></p></td>
+<td><p><a href="../Page/Windows_10.md" title="wikilink">Windows 10</a> Team</p></td>
+<td><p>Version 1507</p></td>
+<td><p>{{#invoke:Date table sorting|main|2015|6|1}}</p></td>
+<td><p>latest OS</p></td>
+<td><p>(current)</p></td>
+<td><p><strong>&gt; </strong></p></td>
+<td><p>$8,999 <small>(55-inch model)</small><br />
+$21,999 <small>(84-inch model)</small></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/Surface_Hub_2S" title="wikilink">Surface Hub 2S</a></p></td>
+<td><p><a href="../Page/Windows_10.md" title="wikilink">Windows 10</a> Team</p></td>
+<td><p>Version 1703</p></td>
+<td><p>{{#invoke:Date table sorting|main|2019|4|17}}</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>$8,999 <small>(50-inch model)</small><br />
+TBD <small>(85-inch model)</small></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/Surface_Hub_2X" title="wikilink">Surface Hub 2X</a></p></td>
+<td></td>
+<td></td>
+<td><p>{{#invoke:Date table sorting|main|2020}}</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Surface Duo</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Surface_Duo" title="wikilink">Surface Duo</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Android_9" title="wikilink">Android 9</a></p></td>
+<td></td>
+<td><p>{{#invoke:Date table sorting|main|2020}}</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Surface Neo</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Surface_Neo" title="wikilink">Surface Neo</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Windows_10X" title="wikilink">Windows 10 X</a></p></td>
+<td></td>
+<td><p>{{#invoke:Date table sorting|main|2020}}</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><table>
+<thead>
+<tr class="header">
+<th><p>圖示：</p></th>
+<th></th>
+<th><p>　</p></th>
+<th><p>　</p></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 上市日期
 
@@ -99,9 +435,9 @@ Surface Go采用10英寸屏幕，保持3:2的显示比例。相应的Type cover�
 
 <!-- end list -->
 
-  - 第一波上市時間：i5機型於2014年6月20日，i3與i7機型於2014年7月\[7\]。
+  - 第一波上市時間：i5機型於2014年6月20日，i3與i7機型於2014年7月\[10\]。
 
-  - 台灣於同年8月底上市。\[8\]
+  - 台灣於同年8月底上市。\[11\]
 
   -
 <!-- end list -->
@@ -326,7 +662,7 @@ Mini DisplayPort<br />
 </tbody>
 </table>
 
-### Surface Studio 規格\[9\]
+### Surface Studio 規格\[12\]
 
 <table>
 <thead>
@@ -436,7 +772,7 @@ Mini DisplayPort<br />
 
 ### 键盘保护盖
 
-微軟在 Surface 发布伊始，便提供了觸控鍵盤和實體鍵盤两种保護蓋；二者均通过磁力吸附连接到 Surface 底部键盘接口，并可以折叠；而在打開時，保護蓋可以作为键盘使用。觸控鍵盤保護蓋較薄，支持手勢操作，厚度為3毫米，並有五種顏色。實體鍵盤保護蓋較厚，能夠提供普通機械式鍵盤的操作體驗，厚度為5毫米。其内部配有陀螺儀和加速度計傳感器，以偵察使用者使用情況，避免翻到背後时誤觸鍵盤。\[10\]
+微軟在 Surface 发布伊始，便提供了觸控鍵盤和實體鍵盤两种保護蓋；二者均通过磁力吸附连接到 Surface 底部键盘接口，并可以折叠；而在打開時，保護蓋可以作为键盘使用。觸控鍵盤保護蓋較薄，支持手勢操作，厚度為3毫米，並有五種顏色。實體鍵盤保護蓋較厚，能夠提供普通機械式鍵盤的操作體驗，厚度為5毫米。其内部配有陀螺儀和加速度計傳感器，以偵察使用者使用情況，避免翻到背後时誤觸鍵盤。\[13\]
 
 随着 Surface 系列的发展，键盘盖也适应 Surface 主机屏幕大小的变化而推出了多种新版本，并增加了新的 Alcantara 材质（银灰色版）。 [缩略图](https://zh.wikipedia.org/wiki/File:Surface_键盘盖（银灰色版）.jpg "fig:缩略图")
 
@@ -464,7 +800,7 @@ Mini DisplayPort<br />
 
 ### Surface Dial
 
-微软在发布 Surface Studio 时一同推出了 Surface Dial 附件，它是一个小型圆柱状的新硬件，具有触摸响应功能，可以吸附在屏幕上进行操作。
+微软在发布 Surface Studio 时一同推出了 [Surface Dial](https://zh.wikipedia.org/wiki/Surface_Dial "wikilink") 附件，它是一个小型圆柱状的新硬件，具有触摸响应功能，可以吸附在屏幕上进行操作。
 
 ### 其他
 
@@ -474,7 +810,7 @@ Surface Studio 作为该系列顶级的一体机设备，随机附赠了单独�
 
 由於 [iPad](https://zh.wikipedia.org/wiki/iPad "wikilink") 和 [Android](../Page/Android.md "wikilink") 等平板電腦的崛起及競爭，微軟打破了其37年不生產全套電腦硬體、依靠電腦廠商製造硬體並配套安裝“Windows”作業系統的歷史，推出Surface平板電腦。微軟的官方回應是“就如20多年前推出微軟滑鼠一樣，在市場最需要微軟產品的時侯，推出自有品牌。”但這意味著微軟與[惠普](../Page/惠普.md "wikilink")等公司可能由原本親密的硬體夥伴變成競爭對手。
 
-微軟同時也開發 [Windows Store](https://zh.wikipedia.org/wiki/Windows_Store "wikilink")。Windows RT 使用者只能透過 Windows Store 安裝付費或免費軟體，有助打造軟體生態圈，使之成為微軟另一項收入來源。\[11\]当前，Windows RT 系列已经终结，而微软亦尝试将 Windows Store 打造成包含传统 Win32 应用的分发平台，而不仅仅是 XAP 或 UWP 应用。例如，新发布的 Surface Laptop 搭载 Windows 10 S 系统，便只能够安装应用商店应用，但与初代 RT 系列 Surface 不同的是， Win32 应用亦可以安装在 Windows 10 S 上，只要该应用在 Windows Store 上架。
+微軟同時也開發 [Windows Store](https://zh.wikipedia.org/wiki/Windows_Store "wikilink")。Windows RT 使用者只能透過 Windows Store 安裝付費或免費軟體，有助打造軟體生態圈，使之成為微軟另一項收入來源。\[14\]当前，Windows RT 系列已经终结，而微软亦尝试将 Windows Store 打造成包含传统 Win32 应用的分发平台，而不仅仅是 XAP 或 UWP 应用。例如，新发布的 Surface Laptop 搭载 Windows 10 S 系统，便只能够安装应用商店应用，但与初代 RT 系列 Surface 不同的是， Win32 应用亦可以安装在 Windows 10 S 上，只要该应用在 Windows Store 上架。
 
 ## 時間線
 
@@ -495,8 +831,11 @@ Surface Studio 作为该系列顶级的一体机设备，随机附赠了单独�
 4.
 5.
 6.  [Microsoft’s Surface Go tablet has a 10-inch screen and starts at $399](https://www.theverge.com/circuitbreaker/2018/7/9/17550252/microsofts-surface-go-tablet-10-inch-screen-399).TheVerge.2018-07-09.\[2018-07-15\].
-7.  [Microsoft's Surface Pro 3 is designed to destroy the laptop](http://www.theverge.com/2014/5/20/5734102/surface-pro-3-features-pricing-announcement)
-8.  [12 吋的 Surface Pro 3 正式發表：Microsoft 史上最大的平板](http://chinese.engadget.com/2014/05/20/microsoft-surface-pro-3/)
-9.   Connections & expansions|accessdate=2018-06-11|work=www.microsoft.com|language=en-us}}
-10. <http://www.usatoday.com/tech/news/story/2012-06-18/microsoft-surface-tablet/55676790/1> Usatoday.com. November 28, 2011. Retrieved June 19, 2012.
-11. <http://news.xinhuanet.com/world/2012-06/20/c_123307880.htm>
+7.  [微软发布会六大新品，折叠电脑、折叠手机初次亮相](https://m.leiphone.com/news/201910/UaFK8j5fD2mrQ7u6.html)
+8.  [微软发布会六大新品，折叠电脑、折叠手机初次亮相](https://m.leiphone.com/news/201910/UaFK8j5fD2mrQ7u6.html)
+9.  [微软发布会六大新品，折叠电脑、折叠手机初次亮相](https://m.leiphone.com/news/201910/UaFK8j5fD2mrQ7u6.html)
+10. [Microsoft's Surface Pro 3 is designed to destroy the laptop](http://www.theverge.com/2014/5/20/5734102/surface-pro-3-features-pricing-announcement)
+11. [12 吋的 Surface Pro 3 正式發表：Microsoft 史上最大的平板](http://chinese.engadget.com/2014/05/20/microsoft-surface-pro-3/)
+12.  Connections & expansions|accessdate=2018-06-11|work=www.microsoft.com|language=en-us}}
+13. <http://www.usatoday.com/tech/news/story/2012-06-18/microsoft-surface-tablet/55676790/1> Usatoday.com. November 28, 2011. Retrieved June 19, 2012.
+14. <http://news.xinhuanet.com/world/2012-06/20/c_123307880.htm>

@@ -13,7 +13,5 @@
 [Category:高桥名人之冒险岛系列](https://zh.wikipedia.org/wiki/Category:高桥名人之冒险岛系列 "wikilink") [Category:1992年电子游戏](https://zh.wikipedia.org/wiki/Category:1992年电子游戏 "wikilink") [Category:红白机游戏](https://zh.wikipedia.org/wiki/Category:红白机游戏 "wikilink") [Category:Game_Boy游戏](https://zh.wikipedia.org/wiki/Category:Game_Boy游戏 "wikilink") [Category:平台游戏](https://zh.wikipedia.org/wiki/Category:平台游戏 "wikilink")
 
 1.  [高橋名人の冒険島III](https://www.famitsu.com/cominy/?m=pc&a=page_h_title&title_id=2039)[ファミ通.com](https://zh.wikipedia.org/wiki/ファミ通.com "wikilink")
-
 2.  [高橋名人の冒険島Ⅲ](https://www.famitsu.com/cominy/?m=pc&a=page_h_title&title_id=13257)ファミ通.com
-
 3.

@@ -191,7 +191,5 @@
 [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:格鬥遊戲](https://zh.wikipedia.org/wiki/Category:格鬥遊戲 "wikilink") [Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink") [Category:2013年电子游戏](https://zh.wikipedia.org/wiki/Category:2013年电子游戏 "wikilink") [Category:女主人公電子遊戲](https://zh.wikipedia.org/wiki/Category:女主人公電子遊戲 "wikilink")
 
 1.  [東方心綺楼　～ Hopeless Masquerade.](http://www.tasofro.net/touhou135/),
-
 2.  2012-10-05, [“Touhou” Announces More Moe Fighting](http://seventhstyle.com/2012/10/05/touhou-announces-more-moe-fighting/), SeventhStyle
-
 3.

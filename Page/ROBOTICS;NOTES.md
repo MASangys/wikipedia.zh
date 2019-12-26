@@ -1014,7 +1014,7 @@
 
   - [ROBOTICS;NOTES Phantom Snow | ファミ通コミッククリア](http://www.famitsu.com/comic_clear/se_robotics/)
 
-  - [ウルトラジャンプ 作家一覧 原作:5pb. 漫画:シヒラ竜也](http://ultra.shueisha.co.jp/artist/46/)
+  - [ウルトラジャンプ 作家一覧 原作:5pb. 漫画:シヒラ竜也](https://web.archive.org/web/20140814111633/http://ultra.shueisha.co.jp/artist/46/)
 
   - [ガンガンNET | ROBOTICS;NOTES](http://gangan.square-enix.co.jp/introduction/roboticsnotes/)
 
@@ -1024,16 +1024,13 @@
 [Category:2012年电子游戏](https://zh.wikipedia.org/wiki/Category:2012年电子游戏 "wikilink") [Category:科學ADV系列](https://zh.wikipedia.org/wiki/Category:科學ADV系列 "wikilink") [Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink") [Category:Xbox_360遊戲](https://zh.wikipedia.org/wiki/Category:Xbox_360遊戲 "wikilink") [Category:PlayStation_Vita游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita游戏 "wikilink") [Category:任天堂Switch游戏](https://zh.wikipedia.org/wiki/Category:任天堂Switch游戏 "wikilink") [Category:鹿兒島縣背景作品](https://zh.wikipedia.org/wiki/Category:鹿兒島縣背景作品 "wikilink") [Category:陰謀論題材作品](https://zh.wikipedia.org/wiki/Category:陰謀論題材作品 "wikilink") [Category:2012年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2012年日本電視動畫 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:電子遊戲改編漫畫](https://zh.wikipedia.org/wiki/Category:電子遊戲改編漫畫 "wikilink") [Category:電子遊戲改編小說](https://zh.wikipedia.org/wiki/Category:電子遊戲改編小說 "wikilink") [Category:電子遊戲改編舞台劇](https://zh.wikipedia.org/wiki/Category:電子遊戲改編舞台劇 "wikilink") [Category:電子遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:電子遊戲改編動畫 "wikilink") [Category:電擊魔王](https://zh.wikipedia.org/wiki/Category:電擊魔王 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.
 6.
 7.
 8.
-
 9.
 10.
 11.

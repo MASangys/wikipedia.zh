@@ -14,7 +14,7 @@
 
   - [WorldCat Identities](http://www.worldcat.org/identities/)
 
-[Category:線上文献数据库](https://zh.wikipedia.org/wiki/Category:線上文献数据库 "wikilink") [Category:1971年建立](https://zh.wikipedia.org/wiki/Category:1971年建立 "wikilink") [Category:合作社](https://zh.wikipedia.org/wiki/Category:合作社 "wikilink") [Category:被防火长城封锁的网站](https://zh.wikipedia.org/wiki/Category:被防火长城封锁的网站 "wikilink")
+[Category:線上文献数据库](https://zh.wikipedia.org/wiki/Category:線上文献数据库 "wikilink") [Category:1971年建立](https://zh.wikipedia.org/wiki/Category:1971年建立 "wikilink") [Category:被防火长城封锁的网站](https://zh.wikipedia.org/wiki/Category:被防火长城封锁的网站 "wikilink")
 
 1.
 2.

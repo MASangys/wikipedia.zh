@@ -47,19 +47,11 @@ Premiere Pro可與[Adobe Photoshop配合使用](../Page/Adobe_Photoshop.md "wiki
 [Category:Adobe软件](https://zh.wikipedia.org/wiki/Category:Adobe软件 "wikilink") [Category:Windows軟件](https://zh.wikipedia.org/wiki/Category:Windows軟件 "wikilink") [Category:視頻編輯軟件](https://zh.wikipedia.org/wiki/Category:視頻編輯軟件 "wikilink")
 
 1.  [Adobe Premiere Pro CC / Common Questions](http://www.adobe.com/products/premiere/faq)
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.

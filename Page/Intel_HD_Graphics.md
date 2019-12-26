@@ -41,15 +41,23 @@
 
 ### Skylake/Kaby Lake架構
 
-英特爾宣布Skylake架構的微處理器上會內建「第九代」整合式顯示核心，其顯示核心名稱也從四位數改為三位數並新增GT4等級核心。
+英特爾宣布Skylake架構的微處理器上會內建「第九代」整合式顯示核心，其顯示核心名稱也從四位數改為三位數並新增GT4等級核心。而Kaby Lake架構的微處理器則原生支援HDCP 2.2、具有全功能的HEVC Main10/10-bit和VP9 10-bit硬體影片解碼能力。
 
-而Kaby Lake架構的微處理器則原生支援HDCP 2.2、具有全功能的HEVC Main10/10-bit和VP9 10-bit硬體影片解碼能力 此代HD/Iris Graphic的產品有：
+這一代顯示核心開始增強對[4K分辨率的原生支持](https://zh.wikipedia.org/wiki/4K "wikilink")，因此英特爾啟用了新的品牌名“**Intel UHD Graphics**”，中國大陸譯為“**超核芯顯卡**”。
+
+此代HD/Iris Graphic的產品有：
 
   - HD Graphics（EU：12/16），核心代號「GT1」
   - HD Graphics 510/610（EU：12），核心代號「GT1」
   - HD Graphics 515/520/530/P530/615/620/630/P630（EU：24)，核心代號「GT2」
   - HD Graphics Iris 540/550/Iris Plus 640/Iris Plus 650（EU：48），核心代號「GT3e」，同時擁有64MB的eDRAM
   - Iris Pro 580（EU：72），核心代號「GT4e」，同時擁有128MB的eDRAM
+
+### Coffee Lake微架構
+
+### Ice Lake微架構
+
+### Comet Lake微架構
 
 ## 技術參數
 
@@ -608,38 +616,25 @@ Core i7-4771</p></td>
   - [Intel® Graphics Performance Analyzers 2012 R1](https://web.archive.org/web/20120517075229/http://software.intel.com/en-us/articles/vcsource-tools-intel-gpa/)
   - [Intel核显进化之路](http://www.expreview.com/46165.html)
 
-[Category:Intel处理器](https://zh.wikipedia.org/wiki/Category:Intel处理器 "wikilink") [Category:顯示卡](https://zh.wikipedia.org/wiki/Category:顯示卡 "wikilink")
+[Category:Intel处理器](https://zh.wikipedia.org/wiki/Category:Intel处理器 "wikilink")
 
 1.  [1](http://www.intel.com/zh_CN/technology/graphics/intelhd.htm) - 英特尔® 核芯显卡
-
 2.  [2](http://www.intel.com.tw/content/www/tw/zh/architecture-and-technology/hd-graphics/hd-graphics-consumer-general.html) - Intel® HD 圖形 (Intel® HD Graphics)
-
 3.  [3](http://www.intel.hk/content/www/xa/en/architecture-and-technology/hd-graphics/hd-graphics-consumer-general.html) - Intel® HD Graphics
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
 10.
 11.
-
 12.
 13.
 14.
 15.
 16.
-
 17.
-
 18.
-
 19.
-
 20.

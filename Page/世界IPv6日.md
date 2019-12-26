@@ -35,7 +35,7 @@ IPv6的流量比例在当日由0.024%上升至了0.041%。\[9\] Google的网站�
 4.
 5.
 6.  Colitti, Lorenzo (6 June 2011) ["World IPv6 Day begins 24 hours from now. Websites, start your engines"](http://googleblog.blogspot.com/2011/06/world-ipv6-day-begins-24-hours-from-now.html) *Official Google Blog* archived 23 June 2011 [here](http://www.webcitation.org/5zf06rRqs) by [WebCite](../Page/WebCite.md "wikilink")
-7.  [百度今日参加“世界IPv6日”活动 启用IPv6支持](http://www.baiduer.com.cn/2011-06/23664.html)
+7.
 8.  [腾讯网IPv6服务试点正式开启](http://tech.qq.com/a/20111123/000317.htm)
 9.
 10.

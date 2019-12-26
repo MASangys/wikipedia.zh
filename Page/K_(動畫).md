@@ -42,7 +42,7 @@
     實際上靈魂與人格為第一王權者白銀之王-阿道夫‧K‧威斯曼，身體是無色之王侵占白銀之王身體時捨棄的肉身。對無色之王自稱為「眾王之首」。
     而身體被侵占的白銀之王的靈魂逃入這具身體後被無色之王推落飛艇，掉入葦[中學園與貓相遇](https://zh.wikipedia.org/wiki/中學 "wikilink")。因為貓對他使用了超能力，完全丟失掉落飛艇前所有記憶，並因這具肉身被各方追究殺害十束多多良的罪行。
     名字是貓在雪染菊理質問時，臨時從海報中的「伊佐那神社」中為社取的名字（填補了社空缺的記憶使他認為自己就是伊佐那社）。
-    最後將無色之王壓制在體內讓周防[尊殺害](../Page/人生肥宅x尊.md "wikilink")，與無色之王同歸於盡，只留下紅色的紙傘。
+    最後將無色之王壓制在體內讓周防尊殺害，與無色之王同歸於盡，只留下紅色的紙傘。
     其後於劇場版《K Missing Kings》中，在國外重塑肉體後被黃金之王國常路大覺救起，此後一直與將要死去的黃金之王待在飛船內。黃金之王逝世後，說了「這次我將不再逃避。」
     第二季時銜接[劇場版的後續](https://zh.wikipedia.org/wiki/劇場版 "wikilink")，於高空中的飛船墜落，並在之後及時解救遭遇危機的狗朗。與赤之王和青之王在矮腳桌會議協議並通過組合聯盟對抗綠色部族。
     名字來自於日本神話「[伊邪那岐](https://zh.wikipedia.org/wiki/伊奘諾尊 "wikilink") / [伊邪那美](../Page/伊奘冉尊.md "wikilink")」。
@@ -1925,6 +1925,27 @@ ISBN 978-4-06-362309-3（特裝版）</p></td>
 <tr class="odd">
 <td><p>2</p></td>
 <td><p>2019年4月5日</p></td>
+</tr>
+</tbody>
+</table>
+
+  - 《**K -beautiful pieces-**》在[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")《[少年Magazine Edge](https://zh.wikipedia.org/wiki/少年Magazine_Edge "wikilink")》2016年10月號開始不定期連載。作畫是。
+
+<table>
+<thead>
+<tr class="header">
+<th><p>卷數</p></th>
+<th><p>講談社</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>發售日期</p></td>
+<td><p>ISBN</p></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td><p>2019年11月15日</p></td>
 </tr>
 </tbody>
 </table>

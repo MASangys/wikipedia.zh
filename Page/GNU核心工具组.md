@@ -35,11 +35,7 @@ GNU 核心工具组支持以长选项作为命令调用参数，且当环境变�
 
 1.
 2.
-
 3.
-
 4.  [package-renamed-to-coreutils](http://git.savannah.gnu.org/cgit/coreutils.git/tree/README-package-renamed-to-coreutils) on savannah.gnu.org
-
 5.  [COPYING](http://git.savannah.gnu.org/cgit/coreutils.git/log/COPYING) on savannah.gnu.org
-
 6.

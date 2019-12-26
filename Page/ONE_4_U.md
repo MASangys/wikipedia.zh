@@ -461,28 +461,20 @@
 
   - [《A-JAX》官方CAFE粉絲俱樂部](http://cafe.daum.net/a-jax)
   - [《A-JAX》官方Youtube頻道](http://www.youtube.com/dspAJAX)
-  - [《A-JAX》日本官方網站](http://www.a-jax.jp/)
+  - [《A-JAX》日本官方網站](https://web.archive.org/web/20120922060406/http://www.a-jax.jp/)
   - [《A-JAX》日本環球官方網站](http://www.universal-music.co.jp/a-jax)
 
 [Category:A-JAX歌曲](https://zh.wikipedia.org/wiki/Category:A-JAX歌曲 "wikilink") [Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink") [Category:日本環球唱片歌曲](https://zh.wikipedia.org/wiki/Category:日本環球唱片歌曲 "wikilink") [Category:日语歌曲](https://zh.wikipedia.org/wiki/Category:日语歌曲 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
 9.
 10.
 11.
-
 12.

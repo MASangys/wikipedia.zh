@@ -4,7 +4,7 @@
 
 ## 歷史
 
-在1960年代初年，[羅馬尼亞軍隊主要是裝備](https://zh.wikipedia.org/wiki/羅馬尼亞軍隊 "wikilink")[PPSh-41衝鋒槍](https://zh.wikipedia.org/wiki/PPSh-41衝鋒槍 "wikilink")、[Orita M1941衝鋒槍和進口自](https://zh.wikipedia.org/wiki/Orita_M1941衝鋒槍 "wikilink")[蘇聯的](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[AK-47](https://zh.wikipedia.org/wiki/AK-47突擊步槍 "wikilink")。後來，蘇聯下令[華沙條約各國必需研製一款](https://zh.wikipedia.org/wiki/華沙條約 "wikilink")7.62毫米口徑的突擊步槍，並可選擇具AK步槍的風格。不久，[羅馬尼亞](../Page/羅馬尼亞.md "wikilink")的國營兵工廠研製了一款[護木上具](https://zh.wikipedia.org/wiki/護木 "wikilink")[前握把的](../Page/輔助握把.md "wikilink")[AKM仿製型](../Page/AKM突擊步槍.md "wikilink")，該槍被命名為**1963年型衝鋒槍**（Pistol Mitralieră model 1963），而具摺疊式[槍托](../Page/槍托.md "wikilink")的型號則被稱為**1965年型衝鋒槍**（Pistol Mitralieră model 1965）。
+在1960年代初年，[羅馬尼亞軍隊主要是裝備](https://zh.wikipedia.org/wiki/羅馬尼亞軍隊 "wikilink")[PPSh-41衝鋒槍](https://zh.wikipedia.org/wiki/PPSh-41衝鋒槍 "wikilink")、[Orita M1941衝鋒槍和進口自](https://zh.wikipedia.org/wiki/Orita_M1941衝鋒槍 "wikilink")[蘇聯的](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[AK](https://zh.wikipedia.org/wiki/AK-47突擊步槍 "wikilink")。後來，蘇聯下令[華沙條約各國必需研製一款](https://zh.wikipedia.org/wiki/華沙條約 "wikilink")7.62毫米口徑的突擊步槍，並可選擇具AK步槍的風格。不久，[羅馬尼亞](../Page/羅馬尼亞.md "wikilink")的國營兵工廠研製了一款[護木上具](https://zh.wikipedia.org/wiki/護木 "wikilink")[前握把的](../Page/輔助握把.md "wikilink")[AKM仿製型](../Page/AKM突擊步槍.md "wikilink")，該槍被命名為**1963年型衝鋒槍**（Pistol Mitralieră model 1963），而具摺疊式[槍托](../Page/槍托.md "wikilink")的型號則被稱為**1965年型衝鋒槍**（Pistol Mitralieră model 1965）。
 
 ## 設計
 
@@ -91,7 +91,7 @@ Image:Romanian AKM Soldier.JPEG|一名羅馬尼亞士兵與他的md. 65 Image:DC
 
 ## 參見
 
-  - [AK-47](https://zh.wikipedia.org/wiki/AK-47突擊步槍 "wikilink")
+  - [AK](https://zh.wikipedia.org/wiki/AK-47突擊步槍 "wikilink")
   - [AKM](../Page/AKM突擊步槍.md "wikilink")
   - [RPK](../Page/RPK輕機槍.md "wikilink")
   - [AMD-65](../Page/AMD-65突擊步槍.md "wikilink")

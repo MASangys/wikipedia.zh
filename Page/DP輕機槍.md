@@ -1,4 +1,4 @@
-**DP輕機槍**（，意为**捷格加廖夫步兵机枪**），有型号**DP27**或**DP28**，是一款由[蘇聯人](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[瓦西里·捷格加廖夫](../Page/瓦西里·捷格加廖夫.md "wikilink")於1927年研製成功，1928年裝備[蘇聯紅軍的](https://zh.wikipedia.org/wiki/蘇聯紅軍 "wikilink")[輕機槍](https://zh.wikipedia.org/wiki/輕機槍 "wikilink")，此槍經歷過[西班牙內戰](https://zh.wikipedia.org/wiki/西班牙內戰 "wikilink")，在[冬季戰爭當中被](https://zh.wikipedia.org/wiki/冬季戰爭 "wikilink")[芬蘭軍拿到](https://zh.wikipedia.org/wiki/芬蘭 "wikilink")8000支，在[第二次世界大戰的](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[德蘇戰爭當中也經常出現](https://zh.wikipedia.org/wiki/德蘇戰爭 "wikilink")。
+**DP輕機槍**（ **，意为**捷格加廖夫步兵机枪**），有型号**DP27**或**DP28**，是一款由[蘇聯人](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[瓦西里·捷格加廖夫](../Page/瓦西里·捷格加廖夫.md "wikilink")於1927年研製成功，1928年裝備[蘇聯紅軍的](https://zh.wikipedia.org/wiki/蘇聯紅軍 "wikilink")[輕機槍](https://zh.wikipedia.org/wiki/輕機槍 "wikilink")。
 
 ## 設計特式
 
@@ -27,6 +27,12 @@ DTM四聯裝車載機槍衍生型。
   - RP46
 
 採用金屬彈鏈給彈的派生型号，用弹链供弹以提升火力持续性，达到类似通用机枪的战斗效能。RP46在DP的基础上添加了一个可拆卸的弹链供弹系统，安装在原来弹盘的位置。这个供弹系统靠拉机柄的前后运动来驱动。如果拆掉这个系统，RP46仍然可以通用DP的弹盘。除此以外，RP46新增了火药气体调节器，枪管加重以利于长时间射击。
+
+## 實戰使用
+
+[Мотоцикл_М-72_во_Владивостоке_ф1.JPG](https://zh.wikipedia.org/wiki/File:Мотоцикл_М-72_во_Владивостоке_ф1.JPG "fig:Мотоцикл_М-72_во_Владивостоке_ф1.JPG")
+
+此槍經歷過[西班牙內戰](https://zh.wikipedia.org/wiki/西班牙內戰 "wikilink")，在[冬季戰爭當中被](https://zh.wikipedia.org/wiki/冬季戰爭 "wikilink")[芬蘭軍拿到](https://zh.wikipedia.org/wiki/芬蘭 "wikilink")8000支，在[第二次世界大戰的](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[德蘇戰爭當中也經常出現](https://zh.wikipedia.org/wiki/德蘇戰爭 "wikilink")，不單用於步兵也用於車載。
 
 ## DP輕機槍在中國
 
@@ -138,7 +144,6 @@ DTM四聯裝車載機槍衍生型。
 [Category:輕機槍](https://zh.wikipedia.org/wiki/Category:輕機槍 "wikilink") [Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink") [Category:蘇聯槍械](https://zh.wikipedia.org/wiki/Category:蘇聯槍械 "wikilink") [Category:7.62×54毫米槍械](https://zh.wikipedia.org/wiki/Category:7.62×54毫米槍械 "wikilink") [Category:導氣式槍械](https://zh.wikipedia.org/wiki/Category:導氣式槍械 "wikilink") [Category:抗戰時期中國武器](https://zh.wikipedia.org/wiki/Category:抗戰時期中國武器 "wikilink") [Category:中國二戰槍械](https://zh.wikipedia.org/wiki/Category:中國二戰槍械 "wikilink") [Category:蘇聯二戰武器](https://zh.wikipedia.org/wiki/Category:蘇聯二戰武器 "wikilink") [Category:二戰機槍](https://zh.wikipedia.org/wiki/Category:二戰機槍 "wikilink") [Category:韓戰武器](https://zh.wikipedia.org/wiki/Category:韓戰武器 "wikilink") [Category:越戰武器](https://zh.wikipedia.org/wiki/Category:越戰武器 "wikilink") [Category:捷格加廖夫工廠](https://zh.wikipedia.org/wiki/Category:捷格加廖夫工廠 "wikilink")
 
 1.
-
 2.
 3.
 4.
@@ -155,6 +160,5 @@ DTM四聯裝車載機槍衍生型。
 15.
 16.
 17. <https://m.youtube.com/watch?v=IErsZx5Z1qw>
-
 18.
 19.

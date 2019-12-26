@@ -46,6 +46,6 @@
       - [通常盤](https://web.archive.org/web/20160307231221/http://www.sonymusic.co.jp/Music/Arch/SV/lisa/SVWC-7804/)
       - [期間生產限定盤](https://web.archive.org/web/20160309024443/http://www.sonymusic.co.jp/Music/Arch/SV/lisa/SVWC-7800/)
 
-[Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink") [Category:日本索尼音樂娛樂歌曲](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂歌曲 "wikilink") [Category:UHF動畫主題曲](https://zh.wikipedia.org/wiki/Category:UHF動畫主題曲 "wikilink") [Category:LiSA歌曲](https://zh.wikipedia.org/wiki/Category:LiSA歌曲 "wikilink") [Category:Fate/stay_night](https://zh.wikipedia.org/wiki/Category:Fate/stay_night "wikilink")
+[Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink") [Category:日本索尼音樂娛樂歌曲](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂歌曲 "wikilink") [Category:UHF動畫主題曲](https://zh.wikipedia.org/wiki/Category:UHF動畫主題曲 "wikilink") [Category:LiSA歌曲](https://zh.wikipedia.org/wiki/Category:LiSA歌曲 "wikilink") [Category:Fate系列](https://zh.wikipedia.org/wiki/Category:Fate系列 "wikilink")
 
 1.

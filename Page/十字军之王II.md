@@ -173,56 +173,31 @@ DLC包括下列內容：\[12\]\[13\]
 [Category:2010年电子游戏](https://zh.wikipedia.org/wiki/Category:2010年电子游戏 "wikilink") [Category:Paradox_Interactive游戏](https://zh.wikipedia.org/wiki/Category:Paradox_Interactive游戏 "wikilink") [Category:多人及單人電子遊戲](https://zh.wikipedia.org/wiki/Category:多人及單人電子遊戲 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink") [Category:有追加下载内容的游戏](https://zh.wikipedia.org/wiki/Category:有追加下载内容的游戏 "wikilink") [Category:瑞典开发电子游戏](https://zh.wikipedia.org/wiki/Category:瑞典开发电子游戏 "wikilink") [Category:11世纪背景游戏](https://zh.wikipedia.org/wiki/Category:11世纪背景游戏 "wikilink") [Category:12世纪背景游戏](https://zh.wikipedia.org/wiki/Category:12世纪背景游戏 "wikilink") [Category:13世纪背景游戏](https://zh.wikipedia.org/wiki/Category:13世纪背景游戏 "wikilink") [Category:14世纪背景游戏](https://zh.wikipedia.org/wiki/Category:14世纪背景游戏 "wikilink") [Category:15世纪背景游戏](https://zh.wikipedia.org/wiki/Category:15世纪背景游戏 "wikilink") [Category:跨時代遊戲](https://zh.wikipedia.org/wiki/Category:跨時代遊戲 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
 8.
-
 9.
 10.
 11.
-
 12. [DLCs and Expansions](http://www.crusaderkings.com/node/348)
-
 13. [Crusader-Kings-II-Ruler-Designer-DLC-Announced\!](http://forum.paradoxplaza.com/forum/showthread.php?597871)
-
 14.
-
 15.
-
 16.
-
 17. [1](https://forum.paradoxplaza.com/forum/index.php?threads/crusader-kings-ii-sunset-invasion-dlc-dev-diary.644976/)
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.

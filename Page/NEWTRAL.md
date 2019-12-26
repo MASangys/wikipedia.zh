@@ -62,47 +62,32 @@
 
 ## 外部連結
 
-  - [生物股長官方網站](http://ikimonogakari.com/discography/album/escl-3827/)
+  - [生物股長官方網站](https://web.archive.org/web/20120611045924/http://ikimonogakari.com/discography/album/escl-3827/)
   - [Sony Music](http://www.sonymusic.co.jp/Music/Arch/ES/Ikimonogakari/?ESCL-3827)
   - [台灣索尼音樂](https://web.archive.org/web/20120308122632/http://www.sonymusic.com.tw/album_info.php?al_prodno=88691951482)
 
 [Category:生物股長音樂專輯](https://zh.wikipedia.org/wiki/Category:生物股長音樂專輯 "wikilink") [Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink") [Category:2012年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Oricon專輯週榜冠軍作品 "wikilink") [Category:日本史詩唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:日本史詩唱片音樂專輯 "wikilink")
 
 1.  這是台灣索尼音樂網站上的譯名。CD名稱原文為「」，意思不同，但是也有諧音。
-
 2.
-
 3.
-
 4.
-
 5.
 6.
-
 7.
-
 8.
-
 9.
-
 10.
 11.
-
 12.
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
 19.
 20.
-
 21.
 22.
 23.

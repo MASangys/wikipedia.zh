@@ -111,9 +111,7 @@ Ultimate Ears has always offered earplugs for professional musicians. The earplu
 [Category:罗技](https://zh.wikipedia.org/wiki/Category:罗技 "wikilink") [Category:音频器材生产商](https://zh.wikipedia.org/wiki/Category:音频器材生产商 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.
@@ -131,7 +129,5 @@ Ultimate Ears has always offered earplugs for professional musicians. The earplu
 17.
 18.
 19.
-
 20.  Republished from *The Orlando Sentinel*.
-
 21.

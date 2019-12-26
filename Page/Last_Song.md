@@ -25,7 +25,5 @@
 [Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink") [Category:Key_Sounds_Label歌曲](https://zh.wikipedia.org/wiki/Category:Key_Sounds_Label歌曲 "wikilink")
 
 1.
-
 2.
-
 3.

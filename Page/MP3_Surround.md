@@ -35,16 +35,10 @@ MP3 Surround[向下兼容](../Page/向下兼容.md "wikilink")标准MP3。\[4\]\
 [Category:數位音訊](https://zh.wikipedia.org/wiki/Category:數位音訊 "wikilink") [Category:音频编解码器](https://zh.wikipedia.org/wiki/Category:音频编解码器 "wikilink") [Category:环绕立体声](https://zh.wikipedia.org/wiki/Category:环绕立体声 "wikilink")
 
 1.  [mp3 SURROUND Set for Launch - Fraunhofer IIS, Thomson, and Agere Systems Unveil - Free mp3 SURROUND Evaluation Download](http://mp3licensing.com/press/20041202_1.html)
-
 2.  [Hear all about it: MP3 goes surround-sound](http://www.eetimes.com/electronics-products/other/4072549/Hear-all-about-it-MP3-goes-surround-sound)
-
 3.
-
 4.
 5.  [mp3 Surround](http://www.mp3surround.com/)
-
 6.  [Updated: Player 6.3.1 with mp3 Surround support now available\!](http://labs.divx.com/node/44)
-
 7.  [MAGIX announces support of MP3 Surround into music and video editing tools](http://www.iis.fraunhofer.de/en/pr/presse/2005/apr/magix.jsp)
-
 8.

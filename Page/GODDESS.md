@@ -131,7 +131,7 @@
 [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink")
 
 1.  [Goddess postpones their debut date to make improvements to their music video 2012/09/03 allkpop ](http://www.allkpop.com/2012/09/goddess-postpones-their-debut-date-to-make-improvements-to-their-debut-music-video)
-2.  [GODDESS 新曲練習影片 2012/10/02 Kpopn ](http://kpopn.com/2012/10/02/146012/)
+2.
 3.  [New girl group Goddess to debut with a “gangster” concept 2012/07/17 allkpop ](http://www.allkpop.com/2012/07/new-girl-group-goddess-to-debut-with-a-gangster-concept)
 4.  [Goddess在KBS新登場 2012/09/21 KW Entertainment ](http://www.kwent.asia/gnuboard4/bbs/board.php?bo_table=kwnews&wr_id=26&page=1)
 5.  [Show music core Live 20120922(0:38:53) 2012/09/22 MBC K-POP](http://www.youtube.com/watch?v=67mC-TqrBp0&feature=g-user-u)

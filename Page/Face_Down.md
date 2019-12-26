@@ -34,16 +34,10 @@ A面曲《Face Down》是由成員[大野智](../Page/大野智.md "wikilink")�
 [Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink") [Category:嵐歌曲](https://zh.wikipedia.org/wiki/Category:嵐歌曲 "wikilink") [Category:富士月九劇主題曲](https://zh.wikipedia.org/wiki/Category:富士月九劇主題曲 "wikilink") [Category:日劇學院賞最佳電視劇歌曲](https://zh.wikipedia.org/wiki/Category:日劇學院賞最佳電視劇歌曲 "wikilink") [Category:2012年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Oricon單曲週榜冠軍作品 "wikilink") [Category:2012年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2012年Japan_Hot_100冠軍歌曲 "wikilink") [Category:2012年Hot_Singles_Sales冠軍單曲](https://zh.wikipedia.org/wiki/Category:2012年Hot_Singles_Sales冠軍單曲 "wikilink") [Category:NHK紅白歌合戰演唱歌曲](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰演唱歌曲 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.
-
 7.
-
 8.

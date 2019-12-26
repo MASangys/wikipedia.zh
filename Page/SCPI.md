@@ -48,7 +48,5 @@ SCPI命令大致分为两种功能，
 [Category:電子工程](https://zh.wikipedia.org/wiki/Category:電子工程 "wikilink") [Category:电子标准](https://zh.wikipedia.org/wiki/Category:电子标准 "wikilink") [Category:输入/输出](https://zh.wikipedia.org/wiki/Category:输入/输出 "wikilink") [Category:电子测试设备](https://zh.wikipedia.org/wiki/Category:电子测试设备 "wikilink")
 
 1.
-
 2.
-
 3.

@@ -99,6 +99,6 @@ Tom Merritt在2010年6月1日成为TWiT LLC的成员。目前他主持每天一�
 [Category:技術與社會](https://zh.wikipedia.org/wiki/Category:技術與社會 "wikilink") [Category:網路電視頻道](https://zh.wikipedia.org/wiki/Category:網路電視頻道 "wikilink") [Category:網誌](https://zh.wikipedia.org/wiki/Category:網誌 "wikilink")
 
 1.  [Mashable.com](http://mashable.com/2009/10/03/leo-laporte-video/)
-2.  [Leoville.com](http://www.leoville.com)
+2.
 3.  <http://www.reddit.com/r/IAmA/comments/xh75q/i_am_leo_laporte_chief_twit_ama/c5maz0q>
 4.  [Tommerritt.com](http://www.tommerritt.com/?p=1519)

@@ -71,23 +71,14 @@ IE 商学院由Instituto de Empresa S.L.公司持有并控股，这是一个注�
 [Category:Business_schools_in_Spain](https://zh.wikipedia.org/wiki/Category:Business_schools_in_Spain "wikilink") [Category:Educational_institutions_established_in_1973](https://zh.wikipedia.org/wiki/Category:Educational_institutions_established_in_1973 "wikilink") [Category:IE](https://zh.wikipedia.org/wiki/Category:IE "wikilink") [Category:西班牙大學](https://zh.wikipedia.org/wiki/Category:西班牙大學 "wikilink")
 
 1.  [1](http://rankings.ft.com/businessschoolrankings/rankings)
-
 2.
-
 3.
 4.
 5.  <http://rankings.ft.com/businessschoolrankings/masters-in-finance-pre-experience-2012>
-
 6.  [2](http://www.ie.edu/IE/php/en/oficinas_IE.php)
-
 7.
-
 8.  [3](http://www.globalsmp.com/)
-
 9.  <http://www.ie.edu/home/DegreePrograms/subhome_masters4_eng.php>
-
 10. [4](http://www.einforma.com/servlet/app/prod/DATOS_DE/EMPRESA/INSTITUTO-DE-EMPRESA-S.L.-C_QjgyMzM0MzE5_de-MADRID.html)
-
 11.
-
 12. MBA Channel: ["BusinessWeek: Kellog ranked 1st"](http://www.mba-channel.com/channel/article/businessweek-kellogg-in-place-1/), 16.11.2009

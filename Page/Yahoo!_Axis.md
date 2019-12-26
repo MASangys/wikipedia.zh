@@ -42,20 +42,13 @@ Yahoo\! Axis瀏覽器的搜尋列，在搜尋時會顯示圖像化的建議结�
 [Category:雅虎](https://zh.wikipedia.org/wiki/Category:雅虎 "wikilink") [Category:行動軟體](https://zh.wikipedia.org/wiki/Category:行動軟體 "wikilink") [Category:網頁瀏覽器](https://zh.wikipedia.org/wiki/Category:網頁瀏覽器 "wikilink") [Category:Firefox_附加组件](https://zh.wikipedia.org/wiki/Category:Firefox_附加组件 "wikilink")
 
 1.
-
 2.  [Yahoo seeks to shake up search, Web browsing](http://www.google.com/hostednews/ap/article/ALeqM5j7RygoeMI2XG2K396klr4bbdsrew?docId=34b22685e83f4ccfbb141ef9e60d8cac), MICHAEL LIEDTKE, [美联社](../Page/美联社.md "wikilink")
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
 8.
 9.
 10. 以[Android](../Page/Android.md "wikilink")為移动操作系統裝置的Yahoo\! Axis移動瀏覽器尚未释出，參見
-
 11.

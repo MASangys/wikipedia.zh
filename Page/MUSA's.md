@@ -993,30 +993,17 @@ Gary Chaw 曹格 (voc)</p></td>
 [Category:台灣樂團](https://zh.wikipedia.org/wiki/Category:台灣樂團 "wikilink") [Category:2007年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2007年成立的音樂團體 "wikilink")
 
 1.  台灣壹週刊 Next Magazine Taiwan \#581 (2012/07/12) - p.194 - 紅男綠女「音樂讓我們相遇 Sensation」
-
 2.
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.  "Hollywood Zoo" by Gary Chaw (released Dec 2012)
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.

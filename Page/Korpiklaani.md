@@ -21,27 +21,16 @@ Korpiklaani[芬兰语](../Page/芬兰语.md "wikilink")的意思为“森林家�
 [Category:1993年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1993年成立的音樂團體 "wikilink") [Category:民谣金属乐团](https://zh.wikipedia.org/wiki/Category:民谣金属乐团 "wikilink") [Category:芬蘭樂團](https://zh.wikipedia.org/wiki/Category:芬蘭樂團 "wikilink") [Category:1993年芬蘭建立](https://zh.wikipedia.org/wiki/Category:1993年芬蘭建立 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
 7.
-
 8.
-
 9.
-
 10. [Korpiklaani Set "Karkelo" as Title for New Album: News @ smnnews.com](http://www.smnnews.com/2009/01/21/korpiklaani-set-karkelo-as-title-for-new-album/)
-
 11.
-
 12.
-
 13. <https://www.facebook.com/korpiklaani>
-
 14. <http://www.thegauntlet.com/article/1265/23947/KORPIKLAANI-Puts-On-Heartwarming-Show>

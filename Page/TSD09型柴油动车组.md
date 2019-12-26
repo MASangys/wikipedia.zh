@@ -110,23 +110,15 @@ TSD09型柴油动车组的[转向架可分为动车转向架和拖车转向架�
 [Category:中国柴油动车组](https://zh.wikipedia.org/wiki/Category:中国柴油动车组 "wikilink") [Category:中车唐山制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车唐山制铁路车辆 "wikilink") [Category:擺式列車](https://zh.wikipedia.org/wiki/Category:擺式列車 "wikilink")
 
 1.
-
 2.
 3.
 4.
-
 5.
-
 6.
-
 7.
 8.
-
 9.
-
 10.
 11.
-
 12.
-
 13.

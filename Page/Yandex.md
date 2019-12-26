@@ -1,5 +1,3 @@
-[](https://zh.wikipedia.org/wiki/ "wikilink")
-
 **Yandex**（，）是一家[俄罗斯](../Page/俄罗斯.md "wikilink")[互联网](../Page/互联网.md "wikilink")企业，旗下的[搜索引擎](../Page/搜索引擎.md "wikilink")在俄国内拥有逾60%的市场占有率，\[1\]同时也提供其他的一系列互联网产品和服务。数据显示，Yandex是目前世界第五大搜索引擎：在2012年4月，平均每日的搜索量超过1.5亿次；5月份，每日访客（包括搜索以外的业务）超过2550万。\[2\]公司的企业使命是为有着任何（明确的或含蓄的）问题的用户提供答案。\[3\]
 
 Yandex的[主页Yandex](https://zh.wikipedia.org/wiki/主页 "wikilink").ru是俄罗斯访问量最高的网址，\[4\]同时也在[白俄罗斯](../Page/白俄罗斯.md "wikilink")、[哈萨克斯坦](../Page/哈萨克斯坦.md "wikilink")、[乌克兰](../Page/乌克兰.md "wikilink")和[土耳其](../Page/土耳其.md "wikilink")运营，\[5\]而且吸引着超过5600万其他国家的用户使用。\[6\]
@@ -25,6 +23,7 @@ Yandex的[主页Yandex](https://zh.wikipedia.org/wiki/主页 "wikilink").ru是�
 ## 参见
 
   - [ClickHouse](../Page/ClickHouse.md "wikilink")
+  - [Yandex Browser](../Page/Yandex_Browser.md "wikilink")
   - [公共域名解析服务](../Page/公共域名解析服务.md "wikilink")
 
 ## 参考来源
@@ -32,38 +31,22 @@ Yandex的[主页Yandex](https://zh.wikipedia.org/wiki/主页 "wikilink").ru是�
 [Category:搜索引擎](https://zh.wikipedia.org/wiki/Category:搜索引擎 "wikilink") [Category:俄罗斯互联网](https://zh.wikipedia.org/wiki/Category:俄罗斯互联网 "wikilink") [Category:俄羅斯網站](https://zh.wikipedia.org/wiki/Category:俄羅斯網站 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.  <http://company.yandex.com/press_center/press_releases/2011/2011-09-20.xml>
-
 6.  comScore, December 2010
-
 7.  <http://company.yandex.ru/about/history/archive/prehistory.xml>
-
 8.
-
 9.  [About Yandex — History of Yandex](http://company.yandex.com/general_info/history.xml). Retrieved May 24, 2011.[Archived copy](https://www.webcitation.org/5yvl8XgIr?url=http://company.yandex.com/general_info/history.xml?ncrnd=715).
-
 10.
 11.
-
 12.
-
 13. <http://company.yandex.com/press_center/press_releases/2007/2007-10-02.xml>
-
 14.
-
 15. <http://www.google.com/hostednews/ap/article/ALeqM5ho-2PaE2kdUMHC0pr7k1YEabV49Q?docId=d342adbaae284fe2b0534aeab5cea8bb>
-
 16.
-
 17.
 18.
 19.
-
 20. [Yandex Keeps On Beating Google In Russia](http://searchengineland.com/yandex-keeps-on-beating-google-in-russia-62186), Search Engine Land

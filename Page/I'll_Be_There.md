@@ -193,13 +193,9 @@
 [Category:SPICA歌曲](https://zh.wikipedia.org/wiki/Category:SPICA歌曲 "wikilink") [Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
 7.

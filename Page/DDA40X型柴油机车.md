@@ -4,7 +4,7 @@
 
 ### 开发背景
 
-1950年代，聯合太平洋鐵路与[美国机车公司](../Page/美国机车公司.md "wikilink")、[通用电气](../Page/通用电气.md "wikilink")公司合作，开发了一系列大功率[燃气轮机车以取代](../Page/聯合太平洋鐵路燃氣輪機車系列.md "wikilink")[大男孩型蒸汽机车](../Page/聯合太平洋鐵路大男孩型蒸汽機車.md "wikilink")，创造出当时世界上输出功率和[牵引力](../Page/牵引力.md "wikilink")最大的铁路机车。至1960年代初，由于[石油和](https://zh.wikipedia.org/wiki/石油工业 "wikilink")[塑料工业的快速发展造成](https://zh.wikipedia.org/wiki/塑料工业 "wikilink")[重油价格持续上涨](https://zh.wikipedia.org/wiki/重油 "wikilink")，聯合太平洋鐵路希望订购新型大功率柴油机车以节省燃料成本。因此，根据聯合太平洋鐵路提出的技术要求，美国的三大铁路机车制造商各自研制了5000～5500马力等级的大功率干线货运柴油机车，分别为[通用电气](../Page/通用电气.md "wikilink")公司的[U50型柴油机车](../Page/U50型柴油机车.md "wikilink")、易安迪公司的[DD35型柴油机车](../Page/DD35型柴油机车.md "wikilink")、以及[美国机车公司](../Page/美国机车公司.md "wikilink")的[世纪855型柴油机车](https://zh.wikipedia.org/wiki/世纪855型柴油机车 "wikilink")\[2\]。1965年，易安迪还在DD35型柴油机车的基础上，为联合太平洋铁路研制了具备司机室的[DD35A型柴油机车](../Page/DD35A型柴油机车.md "wikilink")。
+1950年代，聯合太平洋鐵路与[美国机车公司](../Page/美国机车公司.md "wikilink")、[通用电气](../Page/通用电气.md "wikilink")公司合作，开发了一系列大功率[燃气轮机车以取代](../Page/聯合太平洋鐵路燃氣輪機車系列.md "wikilink")[大男孩型蒸汽机车](../Page/聯合太平洋鐵路大男孩型蒸汽機車.md "wikilink")，创造出当时世界上输出功率和[牵引力](../Page/牵引力.md "wikilink")最大的铁路机车。至1960年代初，由于[石油和](https://zh.wikipedia.org/wiki/石油工业 "wikilink")[塑料工业的快速发展造成](https://zh.wikipedia.org/wiki/塑料工业 "wikilink")[重油](../Page/重油.md "wikilink")价格持续上涨，聯合太平洋鐵路希望订购新型大功率柴油机车以节省燃料成本。因此，根据聯合太平洋鐵路提出的技术要求，美国的三大铁路机车制造商各自研制了5000～5500马力等级的大功率干线货运柴油机车，分别为[通用电气](../Page/通用电气.md "wikilink")公司的[U50型柴油机车](../Page/U50型柴油机车.md "wikilink")、易安迪公司的[DD35型柴油机车](../Page/DD35型柴油机车.md "wikilink")、以及[美国机车公司](../Page/美国机车公司.md "wikilink")的[世纪855型柴油机车](https://zh.wikipedia.org/wiki/世纪855型柴油机车 "wikilink")\[2\]。1965年，易安迪还在DD35型柴油机车的基础上，为联合太平洋铁路研制了具备司机室的[DD35A型柴油机车](../Page/DD35A型柴油机车.md "wikilink")。
 
 1965年底，易安迪公司宣布推出“40系列”标准型柴油机车，这一系列的机车实现了高度的[标准化](../Page/标准化.md "wikilink")，全部采用[645系列柴油机](../Page/易安迪645系列柴油机.md "wikilink")，功率等级范围为1000～6000马力，当中除了包括装用16缸[涡轮增压](../Page/渦輪增壓器.md "wikilink")[发动机](../Page/发动机.md "wikilink")、3000马力等级的[GP40](../Page/GP40型柴油机车.md "wikilink")、[SD40型柴油机车](../Page/SD40型柴油机车.md "wikilink")，装用16缸[机械增压发动机](../Page/机械增压器.md "wikilink")、2000马力等级的[GP38](../Page/GP38型柴油机车.md "wikilink")、[SD38型柴油机车](../Page/SD38型柴油机车.md "wikilink")，以及装用20缸涡轮增压发动机、3600马力等级的[SD45型柴油机车](../Page/SD45型柴油机车.md "wikilink")之外，产品目录中还提供了一款6000马力等级的DD40A型柴油机车，装用两台16缸涡轮增压发动机，相当于将两台GP40型柴油机车结合在一起。然而，当时没有一家铁路公司有意订购DD40A型柴油机车，即使是对大功率机车需求若渴的联合太平洋铁路，亦只是对单机组设计的SD45型柴油机车更感兴趣，结果DD40A型柴油机车从1966年产品目录取消，成为一个从来只存在于图纸上的项目\[3\]。
 
@@ -100,25 +100,19 @@ DDA40X型柴油机车的动力装置为两台3,300马力、[16气缸](https://zh
 [Category:美國柴油機車](https://zh.wikipedia.org/wiki/Category:美國柴油機車 "wikilink") [Category:EMD制铁路机车](https://zh.wikipedia.org/wiki/Category:EMD制铁路机车 "wikilink") [Category:Do-Do軸式機車](https://zh.wikipedia.org/wiki/Category:Do-Do軸式機車 "wikilink") [Category:美國的世界之最](https://zh.wikipedia.org/wiki/Category:美國的世界之最 "wikilink") [Category:交通之最](https://zh.wikipedia.org/wiki/Category:交通之最 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
 6.
 7.
 8.
 9.
-
 10.
 11.
 12.
 13.
 14.
-
 15.
 16.
-
 17.

@@ -132,9 +132,9 @@
 
 ## 參考資料
 
-  - [CCM 新7人女團正式定名 Gangkiz (갱키즈)](http://kpopn.com/2012/04/20/118518/)
-  - [Gangkiz 首波預告公開](http://kpopn.com/2012/05/08/121796/)
-  - [Gangkiz 第二波預告公開](http://kpopn.com/2012/05/09/121848/)
+  - [CCM 新7人女團正式定名 Gangkiz (갱키즈)](https://web.archive.org/web/20120527182204/http://kpopn.com/2012/04/20/118518/)
+  - [Gangkiz 首波預告公開](https://web.archive.org/web/20120612095716/http://kpopn.com/2012/05/08/121796/)
+  - [Gangkiz 第二波預告公開](https://web.archive.org/web/20120614014102/http://kpopn.com/2012/05/09/121848/)
 
 [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink") [Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink") [Category:2014年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年解散的音樂團體 "wikilink") [Category:已解散的韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的韓國女子演唱團體 "wikilink") [Category:2012年韓國建立](https://zh.wikipedia.org/wiki/Category:2012年韓國建立 "wikilink") [Category:2014年韓國廢除](https://zh.wikipedia.org/wiki/Category:2014年韓國廢除 "wikilink")
 

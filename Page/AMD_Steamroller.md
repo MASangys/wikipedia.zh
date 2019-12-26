@@ -48,34 +48,22 @@ AMD正在研发全新的x86 CPU架构，代号为“Zen”瑞典网站SweClocker
 [Category:X86架構](https://zh.wikipedia.org/wiki/Category:X86架構 "wikilink") [Category:AMD處理器](https://zh.wikipedia.org/wiki/Category:AMD處理器 "wikilink")
 
 1.  [Our Take on AMD FX](https://archive.is/20120707175240/blogs.amd.com/play/2011/10/13/our-take-on-amd-fx/) - Blogs.amd.com 2011-10-13
-
 2.  [能否推倒“爱妻”?AMD FX推土机PK两代i7](http://diy.pconline.com.cn/cpu/reviews/1110/2557474_6.html) - 太平洋電腦網
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.  [打桩机版Opteron值得期待的地方……](http://news.mydrivers.com/1/233/233775.htm) - 驅動之家
-
 8.
-
 9.
 10.
 11. [APU明年实现真正的CPU/GPU统一寻址](http://news.mydrivers.com/1/231/231192.htm) - 驅動之家
-
 12.
 13.
 14.
 15.
 16.
-
 17.
 18.
-
 19.
-
 20.

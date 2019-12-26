@@ -46,18 +46,30 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>2018</p></td>
+<td><p>2019年</p></td>
+<td><p>10月31日至11月3日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/奈利·科達" title="wikilink">奈利·科達</a>(Nelly Korda)</p></td>
+<td></td>
+<td><p>66-67-65-72=270</p></td>
+<td><p>−18</p></td>
+<td><p>Playoff</p></td>
+<td><p>卡洛萊娜·馬松(Caroline Masson) <a href="https://zh.wikipedia.org/wiki/李旻智" title="wikilink">李旻智</a> (Minjee Lee)</p></td>
+<td><p>2,200,000</p></td>
+<td><p>330,000</p></td>
+</tr>
+<tr class="even">
+<td><p>2018年</p></td>
 <td><p>10月25日至28日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/奈利·科達" title="wikilink">奈利·科達</a>(Nelly Korda)</p></td>
 <td></td>
 <td><p>61-71-69-68=275</p></td>
 <td><p>-13</p></td>
 <td><p>2桿</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李旻智" title="wikilink">李旻智</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李旻智" title="wikilink">李旻智</a> (Minjee Lee)</p></td>
 <td><p>2,200,000</p></td>
 <td><p>330,000</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>10月19日至22日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/池恩熙" title="wikilink">池恩熙</a></p></td>
@@ -69,7 +81,7 @@
 <td><p>2,200,000</p></td>
 <td><p>330,000</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>10月6日至10月9日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/張荷娜" title="wikilink">張荷娜</a></p></td>
@@ -81,7 +93,7 @@
 <td><p>2,000,000</p></td>
 <td><p>300,000</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>10月22日至10月25日</p></td>
 <td><p><a href="../Page/高寶璟.md" title="wikilink">高寶璟</a></p></td>
@@ -94,7 +106,7 @@
 <td><p>2,000,000</p></td>
 <td><p>300,000</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>10月30日至11月2日</p></td>
 <td><p><a href="../Page/朴仁妃.md" title="wikilink">朴仁妃</a></p></td>
@@ -102,11 +114,11 @@
 <td><p>64-62-69-71=266</p></td>
 <td><p>−22</p></td>
 <td><p>2桿</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Stacy_Lewis" title="wikilink">Stacy Lewis</a></p></td>
+<td><p><a href="../Page/史黛西·路易斯.md" title="wikilink">史黛西·路易斯</a> (Stacy Lewis)</p></td>
 <td><p>2,000,000</p></td>
 <td><p>300,000</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>10月24日至27日</p></td>
 <td><p><a href="../Page/蘇珊·彼特森.md" title="wikilink">蘇珊·彼特森</a></p></td>
@@ -118,7 +130,7 @@
 <td><p>2,000,000</p></td>
 <td><p>300,000</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>10月25日至28日</p></td>
 <td><p><a href="../Page/蘇珊·彼特森.md" title="wikilink">蘇珊·彼特森</a></p></td>
@@ -130,7 +142,7 @@
 <td><p>2,000,000</p></td>
 <td><p>300,000</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>10月20日至23日</p></td>
 <td><p><a href="../Page/曾雅妮.md" title="wikilink">曾雅妮</a></p></td>

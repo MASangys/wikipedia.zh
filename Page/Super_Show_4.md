@@ -261,14 +261,9 @@ Super Junio​​r於2012年4月6日在法國巴黎Le Zenith de Paris舉辦Super
 [Category:2011年巡回演唱会](https://zh.wikipedia.org/wiki/Category:2011年巡回演唱会 "wikilink") [Category:2012年巡回演唱会](https://zh.wikipedia.org/wiki/Category:2012年巡回演唱会 "wikilink") [Category:Super_Junior](https://zh.wikipedia.org/wiki/Category:Super_Junior "wikilink") [Category:Super_Junior巡迴演唱會](https://zh.wikipedia.org/wiki/Category:Super_Junior巡迴演唱會 "wikilink")
 
 1.  ["Super Junior to Kick Off World Tour in Korea"](http://global.mnet.com/news/newsdetail.m?searchNewsVO.news_id=201111161455_1576&nowPage=140) *Mnet News*. 16 November 2011
-
 2.  ["Super Junior 「Super Show4」首爾開唱"](http://www.koreastardaily.com/tc/news/13022) *韓星網*. 2011年11月21日
-
 3.  ["Super Junior火熱唱響台灣 4天引數萬粉絲"](http://www.koreastardaily.com/tc/news/14918) *韓星網*. 2012年2月6日
-
 4.  ["Super Junior小巨蛋開唱 4巡 「SUPER SHOW 4」"](http://www.koreastardaily.com/tc/news/14884?web_version) *韓星網*. 2012年2月3日
-
 5.  ["Super Junior世界巡演开启 4月登陆法国巴黎"](http://ent.163.com/12/0307/17/7S0SDV0B00031H0O.html) *网易娱乐*. 2012-03-07
-
 6.
 7.  ["Super Junior Holds Dome Concert and Tops Oricon"](http://www.enewsworld.com/enews/contents.asp?idx=2075&idxType=News) *CJ E\&M enews World*. 12 December 2011

@@ -12,7 +12,7 @@
 
 ### 扳機護圈
 
-貝瑞塔90two系列手槍的[扳機護圈形狀由](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")92FS的方形改回92SB的近似圓形、前端無凹形，避免雙手射擊時不扣扳機的輔助手手指搭在護圈上，並與全槍的設計相稱。
+貝瑞塔90two系列手槍的[扳機護環形狀由](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")92FS的方形改回92SB的近似圓形、前端無凹形，避免雙手射擊時不扣扳機的輔助手手指搭在護圈上，並與全槍的設計相稱。
 
 ### 套筒
 
@@ -40,7 +40,7 @@
 
 ### 附件
 
-貝瑞塔90two系列手槍還在[套筒下](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")、[底把的](../Page/机匣.md "wikilink")[扳機護圈前方的](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")整合了一條[MIL-STD-1913式戰術燈安裝導軌](../Page/皮卡汀尼導軌.md "wikilink")，以安裝各種[戰術燈](../Page/戰術燈.md "wikilink")、[雷射瞄準器和其他戰術配件](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")。安裝後是十分穩固的，而且無需使用任何工具輔助安裝。手槍上還包括戰術配件導軌保護套，在沒有安裝任何戰術配件時裝上。除了保護導軌不受外物碰撞損壞以外，亦可美化全槍的外觀。\[8\]
+貝瑞塔90two系列手槍還在[套筒下](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")、[底把的](../Page/机匣.md "wikilink")[扳機護環前方的](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")整合了一條[MIL-STD-1913式戰術燈安裝導軌](../Page/皮卡汀尼導軌.md "wikilink")，以安裝各種[戰術燈](../Page/戰術燈.md "wikilink")、[雷射瞄準器和其他戰術配件](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")。安裝後是十分穩固的，而且無需使用任何工具輔助安裝。手槍上還包括戰術配件導軌保護套，在沒有安裝任何戰術配件時裝上。除了保護導軌不受外物碰撞損壞以外，亦可美化全槍的外觀。\[8\]
 
 貝瑞塔90two系列手槍還有多種原廠製作的[槍套](https://zh.wikipedia.org/wiki/槍套 "wikilink")，以供使用者選擇。\[9\]
 
@@ -60,7 +60,7 @@
 
 #### G型型號
 
-G型型號是貝瑞塔90two系列的[單／雙動操作扳機](https://zh.wikipedia.org/wiki/扳機 "wikilink")（，簡稱：DA／SA）型號，位於[套筒而且兩手皆可靈巧操作的操作槓桿為待擊解脫桿](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")，也就是這結構並沒有手動保險裝置。其“保險”桿只是可以降下的擊錘的[待擊解脫桿](https://zh.wikipedia.org/wiki/待擊解脫桿 "wikilink")。其槍機系統與大多數[SIG手槍相類似](../Page/SIG_P226手槍.md "wikilink")。\[11\]
+G型型號是貝瑞塔90two系列的[單／雙動操作扳機](https://zh.wikipedia.org/wiki/扳機 "wikilink")（，簡稱：DA／SA）型號，位於[套筒而且兩手皆可靈巧操作的操作槓桿為待擊解脫桿](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")，也就是這結構並沒有手動保險裝置。其“保險”桿只是可以降下的擊錘的[待擊解脫桿](https://zh.wikipedia.org/wiki/待擊解脫桿 "wikilink")。其槍機系統與大多數[SIG手槍相類似](../Page/SIG_P226半自動手槍.md "wikilink")。\[11\]
 
 #### D型型號
 
@@ -138,11 +138,11 @@ D型型號是貝瑞塔90two系列的純雙動操作扳機（，簡稱：DAO）�
 
 ## 外部連結
 
-  - —[貝瑞塔90two官方網站](http://www.beretta90two.com/)
+  - —[貝瑞塔90two官方網站](https://web.archive.org/web/20150907161221/http://www.beretta90two.com/)
 
   - —[貝瑞塔運動武器官方網站—Beretta 90-TWO Type F](https://web.archive.org/web/20120801091740/http://www.berettausa.com/products/90two/)
 
-  - —[貝瑞塔90two半自動手槍說明手冊](http://www.beretta90two.com/dati/ContentManager/files/manuale/90%20two.pdf)
+  - —[貝瑞塔90two半自動手槍說明手冊](https://web.archive.org/web/20160304030030/http://www.beretta90two.com/dati/ContentManager/files/manuale/90%20two.pdf)
 
   - —PoliceOne—
 
@@ -163,23 +163,13 @@ D型型號是貝瑞塔90two系列的純雙動操作扳機（，簡稱：DAO）�
 [Category:半自動手槍](https://zh.wikipedia.org/wiki/Category:半自動手槍 "wikilink") [Category:意大利半自动手枪](https://zh.wikipedia.org/wiki/Category:意大利半自动手枪 "wikilink") [Category:貝瑞塔](https://zh.wikipedia.org/wiki/Category:貝瑞塔 "wikilink") [Category:貝瑞塔手槍](https://zh.wikipedia.org/wiki/Category:貝瑞塔手槍 "wikilink") [Category:9毫米魯格彈槍械](https://zh.wikipedia.org/wiki/Category:9毫米魯格彈槍械 "wikilink") [Category:9×21_IMI口徑槍械](https://zh.wikipedia.org/wiki/Category:9×21_IMI口徑槍械 "wikilink") [Category:.40_S\&W口徑槍械](https://zh.wikipedia.org/wiki/Category:.40_S&W口徑槍械 "wikilink")
 
 1.  [Beretta 90two—New looks—Newly designed anatomical slide and slide catch](http://www.beretta90two.com/index.aspx?m=53&did=70)
-
 2.  [Beretta 90two—New looks—The newly designed frame](http://www.beretta90two.com/index.aspx?m=53&did=39)
-
 3.  [Beretta 90two—New looks—Sights](http://www.beretta90two.com/index.aspx?m=53&did=73)
-
 4.  [Beretta 90two—New looks—Skeletonized hammer](http://www.beretta90two.com/index.aspx?m=53&did=72)
-
 5.  [90-Two 9mm and .40S\&W](http://www.berettaweb.com/armi/90-TWO/Beretta%2090-two.htm). Berettaweb.com.
-
 6.  [Beretta 90two—New looks—Ergonomic and modular grip unit](http://www.beretta90two.com/index.aspx?m=53&did=71)
-
 7.  [Beretta 90two—New looks—Higher capacity magazine](http://www.beretta90two.com/index.aspx?m=53&did=74)
-
 8.  [Beretta 90two—New looks—Integral accessory rail](http://www.beretta90two.com/index.aspx?m=53&did=69)
-
-9.  [Beretta 90two—Accessories](http://www.beretta90two.com/index.aspx?m=53&did=42)
-
-10. [Beretta 90two—Safety Feature—90two Type F/G](http://www.beretta90two.com/index.aspx?m=53&did=40)
-
+9.
+10.
 11.

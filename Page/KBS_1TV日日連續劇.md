@@ -529,7 +529,7 @@
 </p></td>
 <td style="text-align: center;"><p>159</p></td>
 <td style="text-align: center;"><p><a href="../Page/池昌旭.md" title="wikilink">池昌旭</a>、<a href="../Page/都知嫄.md" title="wikilink">都知嫄</a>、<a href="../Page/吳知恩.md" title="wikilink">吳知恩</a>、<a href="../Page/朴貞雅.md" title="wikilink">朴貞雅</a>、<a href="../Page/李章宇.md" title="wikilink">李章宇</a>、<a href="https://zh.wikipedia.org/wiki/康石雨" title="wikilink">康石雨</a>、<a href="../Page/鄭愛利.md" title="wikilink">鄭愛利</a>、<a href="https://zh.wikipedia.org/wiki/林采茂" title="wikilink">林采茂</a>、<a href="../Page/李甫姬.md" title="wikilink">李甫姬</a>、<a href="../Page/朴海美.md" title="wikilink">朴海美</a>、<a href="../Page/金佑錫.md" title="wikilink">金佑錫</a>、<a href="../Page/秋憲坤.md" title="wikilink">Alex</a>、<a href="../Page/李周妍.md" title="wikilink">周妍</a>、<a href="https://zh.wikipedia.org/wiki/金成原" title="wikilink">金成原</a>、<a href="../Page/鄭永琡.md" title="wikilink">鄭永琡</a>、<a href="../Page/崔允素.md" title="wikilink">崔允素</a>、<a href="../Page/鄭恩宇.md" title="wikilink">鄭恩宇</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金明旭" title="wikilink">金明旭</a>、<a href="https://zh.wikipedia.org/wiki/毛完日" title="wikilink">毛完日</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金明旭" title="wikilink">金明旭</a>、<a href="../Page/毛完日.md" title="wikilink">毛完日</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/文恩雅" title="wikilink">文恩雅</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -963,22 +963,24 @@
 <tbody>
 <tr class="odd">
 <td style="text-align: center;"><p>2019年4月29日－<br />
-2019年11月</p></td>
+2019年10月25日</p></td>
 <td style="text-align: center;"><p><a href="../Page/拜託了，夏天啊.md" title="wikilink">拜託了，夏天啊</a><br />
 </p></td>
-<td style="text-align: center;"><p>120</p></td>
+<td style="text-align: center;"><p>128</p></td>
 <td style="text-align: center;"><p><a href="../Page/李令恩.md" title="wikilink">李令恩</a>、<a href="../Page/尹善宇.md" title="wikilink">尹善宇</a>、、<a href="../Page/李倸英.md" title="wikilink">李倸英</a>、<a href="../Page/金惠鈺.md" title="wikilink">金惠鈺</a>、<a href="../Page/羅惠美.md" title="wikilink">羅惠美</a></p></td>
 <td style="text-align: center;"><p>成俊海</p></td>
 <td style="text-align: center;"><p>具智元</p></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><p>2019年10月28日－<br />
+2020年</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/只走花路吧" title="wikilink">只走花路吧</a><br />
+</p></td>
+<td style="text-align: center;"><p>120</p></td>
+<td style="text-align: center;"><p><a href="../Page/崔允素.md" title="wikilink">崔允素</a>、<a href="https://zh.wikipedia.org/wiki/薛正煥" title="wikilink">薛正煥</a>、<a href="../Page/沈志浩.md" title="wikilink">沈志浩</a>、<a href="../Page/鄭侑敏.md" title="wikilink">鄭侑敏</a></p></td>
+<td style="text-align: center;"><p>朴基賢</p></td>
+<td style="text-align: center;"><p>蔡惠英、羅勝賢</p></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>

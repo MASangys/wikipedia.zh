@@ -53,6 +53,5 @@
 [Category:葡萄酒](https://zh.wikipedia.org/wiki/Category:葡萄酒 "wikilink") [Category:紅酒葡萄品種](https://zh.wikipedia.org/wiki/Category:紅酒葡萄品種 "wikilink")
 
 1.  联合国教科文组织网站刊登的拉沃历史：[1](http://whc.unesco.org/fr/list/1243)
-
 2.
 3.

@@ -204,30 +204,17 @@ Rock am Ring原计划只是一次性音乐节庆典，这追溯到1985的短期�
 [Category:德国音乐节](https://zh.wikipedia.org/wiki/Category:德国音乐节 "wikilink") [Category:德国文化](https://zh.wikipedia.org/wiki/Category:德国文化 "wikilink") [Category:搖滾音樂節](https://zh.wikipedia.org/wiki/Category:搖滾音樂節 "wikilink")
 
 1.  <http://www.rock-im-park.de/index.php?navi=1&rid=1&artid=513> (in german, google translate: <http://translate.google.com/translate?u=http%3A%2F%2Fwww.rock-im-park.de%2Findex.php%3Fnavi%3D1%26rid%3D1%26artid%3D513>)
-
 2.  <http://www.rock-am-ring.com/spielplan>
-
 3.  <http://www.rock-im-park.com/spielplan>
-
 4.  <http://www.rock-im-park.de/index.php?navi=1&rid=1&artid=583>
-
 5.  [Rock-am-Ring 2008: Ring frei für Rock am Ring und Rock im Park 2008](http://www.rock-am-ring.de/newsitem.html?objId=21)
-
 6.  [Rock-am-Ring 2008: Fans sind heiß auf Rock am Ring und Rock im Park](http://www.rock-am-ring.de/newsitem.html?objId=23)
-
 7.  [Rock-am-Ring 2008: Rock am Ring und Rock im Park auf Rekordkurs](http://www.rock-am-ring.de/newsitem.html?objId=24)
-
 8.  [Rock-am-Ring 2008: Sensationelles Zwischenergebnis für Ring und Park](http://www.rock-am-ring.de/newsitem.html?objId=25)
-
 9.  [Rock-am-Ring 2008: 85.000 Ringrocker übertreffen alle Erwartungen](http://www.rock-am-ring.de/newsitem.html?objId=27)
-
 10. [Rock-am-Ring 2008: Endspurt in Nürnberg](http://www.rock-am-ring.de/newsitem.html?objId=28)
-
 11. [Rock-am-Ring 2008: 3 Doors Down für Ring und Park bestätigt](http://www.rock-am-ring.de/newsitem.html?objId=29)
-
 12.
 13. [Finger Eleven official website](http://www.fingereleven.com/site/tourjournals.asp)
-
 14. [Finger Eleven myspace profile](http://www.myspace.com/fingereleven)
-
 15.

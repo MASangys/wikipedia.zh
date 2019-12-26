@@ -40,7 +40,5 @@ Y玻色子會有以下的[衰變模式](https://zh.wikipedia.org/wiki/衰變模�
 [Category:玻色子](https://zh.wikipedia.org/wiki/Category:玻色子 "wikilink") [Category:粒子物理學](https://zh.wikipedia.org/wiki/Category:粒子物理學 "wikilink") [Category:假想基本粒子](https://zh.wikipedia.org/wiki/Category:假想基本粒子 "wikilink")
 
 1.
-
 2.  ：
-
 3.

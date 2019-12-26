@@ -1,9 +1,9 @@
-「**Glossy:MMM**」是[橋本美雪的第](../Page/橋本美雪.md "wikilink")14張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2009年4月22日由[GloryHeaven發售](../Page/Lantis.md "wikilink")。
+「**Glossy:MMM**」是[橋本美雪](../Page/橋本美雪.md "wikilink")的第14張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2009年4月22日由[GloryHeaven發售](../Page/Lantis.md "wikilink")。
 
 ## 概要
 
   - 標題曲「Glossy:MMM」是[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")『[咲-Saki-](../Page/咲-Saki-.md "wikilink")』的前期[主題曲](../Page/主題曲.md "wikilink")。
-  - 初回生産分是『咲-Saki-』的主角宮永咲的[插畫作封面](../Page/插畫.md "wikilink")。通常盤的封面是橋本美雪的写真。
+  - 初回生産分是『咲-Saki-』的主角宮永咲的[插畫](../Page/插畫.md "wikilink")作封面。通常盤的封面是橋本美雪的写真。
 
 ## 收錄曲
 
@@ -22,6 +22,4 @@
 
   - [『Glossy:MMM』Lantis介紹網頁](http://www.lantis.jp/new-release/data.php?id=92059a73538b0955df411c2ebdea92dc)
 
-[Category:2009年單曲](https://zh.wikipedia.org/wiki/Category:2009年單曲 "wikilink")
-[Category:東京電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:東京電視台動畫主題曲 "wikilink")
-[Category:咲-Saki-](https://zh.wikipedia.org/wiki/Category:咲-Saki- "wikilink")
+[Category:2009年單曲](https://zh.wikipedia.org/wiki/Category:2009年單曲 "wikilink") [Category:東京電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:東京電視台動畫主題曲 "wikilink") [Category:咲-Saki-](https://zh.wikipedia.org/wiki/Category:咲-Saki- "wikilink")

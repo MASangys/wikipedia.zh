@@ -56,13 +56,9 @@
 同時上映 **美洛耶塔的閃亮音樂會**（）
 
   - 日本英文名：Meloetta's Sparkling Recital
-
   - 美國官方名：Meloetta's Moonlight Serenade
-
   - 場景：
-
   - 劇情簡介：
-
   -
   - 主要登場神奇寶貝：[美洛耶塔](https://zh.wikipedia.org/wiki/美洛耶塔 "wikilink")
 

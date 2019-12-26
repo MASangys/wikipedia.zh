@@ -1019,24 +1019,16 @@
 [Category:假面騎士角色列表](https://zh.wikipedia.org/wiki/Category:假面騎士角色列表 "wikilink") [Category:石之森章太郎](https://zh.wikipedia.org/wiki/Category:石之森章太郎 "wikilink") [Category:电子游戏角色列表](https://zh.wikipedia.org/wiki/Category:电子游戏角色列表 "wikilink")
 
 1.  遊戲中是原創畫面。
-
 2.  自超Climax Heroes開始為該角色配音。
-
 3.
 4.
 5.
 6.  遊戲中稱為Normal Form。
-
 7.
 8.  製作小組曾誤以為Luna系的能力為瞬間移動，直到劇集播放時才改回本來的伸縮能力。此外作為超必殺技的Joker Extreme與電視版左右順序相反的問題也被修正了。
-
 9.  不可以使用機車衝向對方。
-
 10. 選擇Tajadol Combo時可以使用。
-
 11.
 12. 在『**Fourze**』時叫作Rider Drill Kick。
-
 13. 直接沿用PS2遊戲『假面騎士KABUTO』的素材。
-
 14. 在『**Fourze**』時則是假面騎士Fourze(Base States)

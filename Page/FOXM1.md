@@ -67,7 +67,7 @@
 37. press release in Chinese: <http://www.ebiotrade.com/newsf/2011-2/2011216161538392.htm>
 38.
 39.
-40. <http://www.qmul.ac.uk/media/news/items/smd/85096.html>
+40.
 41. <http://onlinelibrary.wiley.com/doi/10.1002/ijc.27886/epdf>
 42. <http://www.impactjournals.com/oncotarget/index.php?journal=oncotarget&page=article&op=view&path%5B%5D=10512&path%5B%5D=33215>
 43. <http://onlinelibrary.wiley.com/doi/10.1002/ijc.27886/epdf>

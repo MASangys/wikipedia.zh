@@ -1,4 +1,4 @@
-**A-JAX**（，）是 [DSP媒體](../Page/DSP媒體.md "wikilink")於2012年推出的男子七人團體，2016年成員變動後，改以五人體制活動。出道時由成員[導慪](https://zh.wikipedia.org/wiki/金導慪 "wikilink")、[在亨](https://zh.wikipedia.org/wiki/徐在亨 "wikilink")、[智厚](https://zh.wikipedia.org/wiki/文智厚 "wikilink")、[允永](https://zh.wikipedia.org/wiki/孟允永 "wikilink")、[成民](https://zh.wikipedia.org/wiki/朴成民 "wikilink")、[升辰](https://zh.wikipedia.org/wiki/咸升辰 "wikilink")、[承燁組成](https://zh.wikipedia.org/wiki/李承燁 "wikilink")，現任成員為[導慪](https://zh.wikipedia.org/wiki/金導慪 "wikilink")、[允永](https://zh.wikipedia.org/wiki/孟允永 "wikilink")、[升辰](https://zh.wikipedia.org/wiki/咸升辰 "wikilink")、[承燁](https://zh.wikipedia.org/wiki/李承燁 "wikilink")、[重熙](https://zh.wikipedia.org/wiki/趙重熙 "wikilink")。A-JAX取名自[希臘神話](https://zh.wikipedia.org/wiki/希臘神話 "wikilink")，指的是在[特洛伊](../Page/特洛伊.md "wikilink")之戰中為希臘人民獲得勝利的英雄－[埃阿斯](../Page/小埃阿斯.md "wikilink")（希臘語:Αἴας），有著「在偶像競爭激烈的音樂界中脫穎而出成為英雄」的涵義\[1\]\[2\]。成員們因擁有成為偶像最基本所需要的精神、外貌和表演實力，被稱為「正統派」的偶像團體\[3\]。
+**A-JAX**（<sup>*E i Jeg Seu*</sup>，）是 [DSP媒體](../Page/DSP媒體.md "wikilink")於2012年推出的男子七人團體，2016年成員變動後，改以五人體制活動。出道時由成員[導慪](https://zh.wikipedia.org/wiki/金導慪 "wikilink")、[在亨](https://zh.wikipedia.org/wiki/徐在亨 "wikilink")、[智厚](https://zh.wikipedia.org/wiki/文智厚 "wikilink")、[允永](https://zh.wikipedia.org/wiki/孟允永 "wikilink")、[成民](https://zh.wikipedia.org/wiki/朴成民 "wikilink")、[升辰](https://zh.wikipedia.org/wiki/咸升辰 "wikilink")、[承燁組成](https://zh.wikipedia.org/wiki/李承燁 "wikilink")，現任成員為[導慪](https://zh.wikipedia.org/wiki/金導慪 "wikilink")、[允永](https://zh.wikipedia.org/wiki/孟允永 "wikilink")、[升辰](https://zh.wikipedia.org/wiki/咸升辰 "wikilink")、[承燁](https://zh.wikipedia.org/wiki/李承燁 "wikilink")、[重熙](https://zh.wikipedia.org/wiki/趙重熙 "wikilink")。A-JAX取名自[希臘神話](https://zh.wikipedia.org/wiki/希臘神話 "wikilink")，指的是在[特洛伊](../Page/特洛伊.md "wikilink")之戰中為希臘人民獲得勝利的英雄－[埃阿斯](../Page/小埃阿斯.md "wikilink")（希臘語:Αἴας），有著「在偶像競爭激烈的音樂界中脫穎而出成為英雄」的涵義\[1\]\[2\]。成員們因擁有成為偶像最基本所需要的精神、外貌和表演實力，被稱為「正統派」的偶像團體\[3\]。
 
 官方FAN CLUB名稱『A-LIGHT』，為「閃亮的Supporters支持著閃耀的A-JAX」之意\[4\]。
 
@@ -832,7 +832,7 @@ PlotData =
 
 <!-- end list -->
 
-  - [官方網站](http://www.a-jax.jp/)
+  - [官方網站](https://web.archive.org/web/20120922060406/http://www.a-jax.jp/)
 
   - [官方Youtube頻道](https://www.youtube.com/user/Ajax7japan)
 
@@ -886,104 +886,54 @@ PlotData =
 [Category:A-JAX](https://zh.wikipedia.org/wiki/Category:A-JAX "wikilink") [Category:DSP_Media](https://zh.wikipedia.org/wiki/Category:DSP_Media "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:已解散的男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的男子演唱團體 "wikilink") [Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink") [Category:2019年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2019年解散的音樂團體 "wikilink") [Category:2012年韓國建立](https://zh.wikipedia.org/wiki/Category:2012年韓國建立 "wikilink") [Category:2019年韓國廢除](https://zh.wikipedia.org/wiki/Category:2019年韓國廢除 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21. 數字為韓國soribada、ollehmusic、melon、bugs音源網之線上連續播放 + 下載 +BGM + 手機鈴聲銷售量總和所得結果於Gaon公佈
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43.
-
 44.
-
 45.
-
 46.
-
 47.
-
-48. [成民退出 A-JAX，轉戰饒舌界](http://kpopn.com/2016/01/07/330502/)
-
+48.
 49.
-
 50.
-
 51.
-
 52.

@@ -34,10 +34,7 @@
 [Category:周國賢音樂專輯](https://zh.wikipedia.org/wiki/Category:周國賢音樂專輯 "wikilink") [Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
 
 1.  [周國賢官方Facebook之封面圖](http://a6.sphotos.ak.fbcdn.net/hphotos-ak-ash3/622602_493672103994744_1829884135_o.jpg)，2012年8月15日 (三) 20:20 (UTC+8)查閱
-
 2.
 3.  [周國賢 “Live A Life ” 2nd Edition- Sky Music](http://skymusic.com.hk/?p=32948)，2012年8月31日 (五) 17:55 (UTC+8)查閱
-
 4.  [周國賢迷失7年露真面目](http://news.sina.com.hk/news/16/1/1/2735036/1.html)
-
 5.  [周國賢微博](http://www.weibo.com/endychow)

@@ -83,29 +83,18 @@ STA方法也经常被称为*反相关分析*或者*白噪声分析*。STA方法�
 [Category:神经科学](https://zh.wikipedia.org/wiki/Category:神经科学 "wikilink") [Category:神经生理学](https://zh.wikipedia.org/wiki/Category:神经生理学 "wikilink") [Category:电生理学](https://zh.wikipedia.org/wiki/Category:电生理学 "wikilink") [Category:计算神经科学](https://zh.wikipedia.org/wiki/Category:计算神经科学 "wikilink")
 
 1.  de Boer and Kuyper (1968) Triggered Correlation. *IEEE Transact. Biomed. Eng.*, 15:169-179
-
 2.  Marmarelis, P. Z. and Naka, K. (1972). White-noise analysis of a neuron chain: an application of the Wiener theory. *Science*, 175:1276-1278
-
 3.  Chichilnisky, E. J. (2001). A simple white noise analysis of neuronal light responses. *Network: Computation in Neural Systems*, 12:199-213
-
 4.  Simoncelli, E. P., Paninski, L., Pillow, J. & Swartz, O. (2004). ["Characterization of neural responses with stochastic stimuli"](http://www.cns.nyu.edu/~lcv/pubs/makeAbs.php?loc=Simoncelli03c). In M. Gazzaniga (Ed.) *The Cognitive Neurosciences, III* (pp. 327-338). MIT press.
-
 5.
 6.  Paninski, L. (2003). Convergence properties of some spike-triggered analysis techniques. *Network: Computation in Neural Systems* 14:437-464
-
 7.  Sharpee, T.O., Rust, N.C., & Bialek, W. (2004). Analyzing neural responses to natural signals: Maximally informative dimensions. *Neural Computation* 16:223-250
-
 8.  Sakai, H.M. and Naka, K., (1987). Signal transmission in the catfish retina. V. Sensitivity and circuit. *Journal of neurophysiology*, 58:1329--1350
-
 9.  Meister, Pine, and Baylor (1994).
-
 10. Jones and Palmer (1987).
-
 11. McLean and Palmer (1989).
-
 12.
 13. Lee and Schetzen (1965). Measurement of the Wiener kernels of a non- linear system by cross-correlation. *International Journal of Control, First Series*, 2:237-254
-
 14.
 15.
 16.

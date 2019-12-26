@@ -24,7 +24,7 @@ KYOI的主要受众是来自于日本的18-30岁的年龄段听众，经常会�
   - [KYOI爱好者俱乐部（俄语）](http://soul-d.narod.ru/)
   - [Superrock KYOI Radio Server](http://kyoi.ru/)
   - [Whole information about KYOI](http://www.superrock.ru)
-  - [Antenna photo](http://www.panoramio.com/photo/29636379)
+  - [Antenna photo](https://web.archive.org/web/20121104044230/http://www.panoramio.com/photo/29636379)
 
 [分类:北马里亚纳群岛广播电台](https://zh.wikipedia.org/wiki/分类:北马里亚纳群岛广播电台 "wikilink")
 

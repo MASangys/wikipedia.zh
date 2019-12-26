@@ -69,16 +69,12 @@
 
 ## 外部連結
 
-  - [波麗佳音](http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=201200000419&DSP_SKHKETSEQ=003)
+  - [波麗佳音](https://web.archive.org/web/20160307051521/http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=201200000419&DSP_SKHKETSEQ=003)
 
 [Category:羅志祥音樂專輯](https://zh.wikipedia.org/wiki/Category:羅志祥音樂專輯 "wikilink") [Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.

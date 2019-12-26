@@ -27,14 +27,9 @@
 [Category:武汉大学附属学院](https://zh.wikipedia.org/wiki/Category:武汉大学附属学院 "wikilink") [Category:武汉大学医学部](https://zh.wikipedia.org/wiki/Category:武汉大学医学部 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.  [Hope护理学院综合模拟复中心成立了](http://t.qq.com/p/t/372071027345732)
-
 6.
 7.

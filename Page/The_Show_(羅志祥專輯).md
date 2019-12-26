@@ -113,21 +113,15 @@
 
 ## 外部連結
 
-  - [波麗佳音](http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=201200000419&DSP_SKHKETSEQ=003)
+  - [波麗佳音](https://web.archive.org/web/20160307051521/http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=201200000419&DSP_SKHKETSEQ=003)
 
 [Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink") [Category:羅志祥音樂專輯](https://zh.wikipedia.org/wiki/Category:羅志祥音樂專輯 "wikilink") [Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink") [Category:波麗佳音音樂專輯](https://zh.wikipedia.org/wiki/Category:波麗佳音音樂專輯 "wikilink")
 
 1.  [THE SHOW (Jacket A)(ALBUM+DVD)(初回限定A版)(日本版)- Yesasia.com](http://www.yesasia.com/global/the-show-jacket-a-album-dvd-%E5%88%9D%E5%9B%9E%E9%99%90%E5%AE%9A%E7%89%88-%E6%97%A5%E6%9C%AC%E7%89%88/1031229714-0-0-0-zh_TW/info.html)，2012年8月28日 (二) 20:43 (UTC+8)查閱
-
 2.  [羅志祥在波麗佳音的官方網頁](http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=201200000419&DSP_SKHKETSEQ=003)
-
 3.
 4.  [THE SHOW (Jacket B)(ALBUM+DVD)(初回限定B版)(日本版)- Yesasia.com](http://www.yesasia.com/global/the-show-jacket-b-album-dvd-%E5%88%9D%E5%9B%9E%E9%99%90%E5%AE%9A%E7%89%88-%E6%97%A5%E6%9C%AC%E7%89%88/1031229715-0-0-0-zh_TW/info.html)，2012年8月28日 (二) 20:43 (UTC+8)查閱
-
 5.
-
 6.
-
 7.  ["*2012 Hit Fm年度百首單曲*- 2012年 (\#1至50)"](http://www.hitoradio.com/newweb/chart_2.php?ch_year=2012) *HitFM聯播網*. 2013年1月13日 (日) 15:05 (UTC+8)查閱
-
 8.  [台灣蘋果日報 - 2012-09-17 小豬自斷日本錢途 宣傳喊卡損失千萬](http://www.appledaily.com.tw/appledaily/article/entertainment/20120917/34513782)

@@ -51,42 +51,26 @@ PV在以上場景之中，不斷穿插miwa（演奏木結他）跟其他支援�
 [Category:miwa歌曲](https://zh.wikipedia.org/wiki/Category:miwa歌曲 "wikilink") [Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink") [Category:富士火九劇主題曲](https://zh.wikipedia.org/wiki/Category:富士火九劇主題曲 "wikilink") [Category:日劇學院賞最佳電視劇歌曲](https://zh.wikipedia.org/wiki/Category:日劇學院賞最佳電視劇歌曲 "wikilink") [Category:日本索尼音樂娛樂歌曲](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂歌曲 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.  歌詞原文：
-
 8.
-
 9.  歌詞原文：
-
 10. 歌詞原文：
-
 11.
-
 12.
 13.
-
 14.
 15.
-
 16.
-
 17.
 18.
 19.
 20.
 21.
-
 22.
-
 23.
 24.

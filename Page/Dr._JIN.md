@@ -50,7 +50,7 @@
 <p><a href="../Page/魏晶琦.md" title="wikilink">魏晶琦</a></p></td>
 <td><center>
 <p><a href="../Page/何璐怡.md" title="wikilink">何璐怡</a></p></td>
-<td><p>家門沒落的<a href="../Page/兩班.md" title="wikilink">兩班</a>家閨秀，與母親、兄長一起生活，歸屬南人黨派的參判父親，被<a href="https://zh.wikipedia.org/wiki/安東金氏" title="wikilink">安東金氏逼迫退位</a>，後因<a href="../Page/瘟疫.md" title="wikilink">瘟疫</a>去世。外貌與美娜相似，行為謹慎規矩，有著對可憐之人無法置之不理的溫暖心腸。長時間相處之下，發現她連性格都與美娜如出一轍，讓陳赫開始相信她是生活在另一個空間的另一個美娜。從來不知門外之事，不敢夢想過未來的朝鮮時代女子，遇到陳赫後明白了什麼是真正的愛情，也開始夢想自己的醫學之路。</p></td>
+<td><p>參判府的名門閨秀，家門沒落的<a href="../Page/兩班.md" title="wikilink">兩班</a>家閨秀，與母親、兄長一起生活，歸屬南人黨派的參判父親，被<a href="https://zh.wikipedia.org/wiki/安東金氏" title="wikilink">安東金氏逼迫退位</a>，後因<a href="../Page/瘟疫.md" title="wikilink">瘟疫</a>去世。外貌與美娜相似，行為謹慎規矩，有著對可憐之人無法置之不理的溫暖心腸。長時間相處之下，發現她連性格都與美娜如出一轍，讓陳赫開始相信她是生活在另一個空間的另一個美娜。從來不知門外之事，不敢夢想過未來的朝鮮時代女子，遇到陳赫後明白了什麼是真正的愛情，也開始夢想自己的醫學之路。</p></td>
 </tr>
 <tr class="even">
 <td><center>
@@ -440,7 +440,7 @@
 <!-- end list -->
 
   -
-    作詞：[李格弟](https://zh.wikipedia.org/wiki/李格弟 "wikilink")　作曲：[金培達](../Page/金培達.md "wikilink")　主唱：[蕭敬騰](../Page/蕭敬騰.md "wikilink")
+    作詞：[李格弟](../Page/李格弟.md "wikilink")　作曲：[金培達](../Page/金培達.md "wikilink")　主唱：[蕭敬騰](../Page/蕭敬騰.md "wikilink")
 
 <!-- end list -->
 

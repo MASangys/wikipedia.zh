@@ -27,5 +27,4 @@ shred的局限性之一是当对某一普通文件使用时，shred只会覆写�
 [Category:Unix软件](https://zh.wikipedia.org/wiki/Category:Unix软件 "wikilink") [Category:GNU计划软件](https://zh.wikipedia.org/wiki/Category:GNU计划软件 "wikilink") [Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink")
 
 1.
-
 2.

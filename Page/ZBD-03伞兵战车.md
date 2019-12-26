@@ -42,15 +42,11 @@ ZBD-03的单人炮塔装备一门30毫米口径[ZPT-99A](../Page/希普諾夫2A7
 [分類:步兵战车](https://zh.wikipedia.org/wiki/分類:步兵战车 "wikilink") [分類:中華人民共和國裝甲戰鬥車輛](https://zh.wikipedia.org/wiki/分類:中華人民共和國裝甲戰鬥車輛 "wikilink") [分類:空降戰車](https://zh.wikipedia.org/wiki/分類:空降戰車 "wikilink")
 
 1.  [王天民：我的五十年战斗历程](http://www.hjgbj.com/show.asp?id=1202) ，哈军工北京校友会。
-
 2.
 3.
 4.  \[铁甲神兵降九霄\]，《坦克装甲车辆》，2014年10期。
-
 5.
 6.  [车辆第07方队：ZBD-03 伞兵战车(空降兵)](http://mil.news.sohu.com/20090926/n267016892_4.shtml)
-
 7.  [ZBD-03伞兵战车](http://www.airforceworld.com/a/20160201/3008.html)
-
 8.
 9.  [解放军首次在高原重装空投战车](http://www.mod.gov.cn/wqzb/2014-06/11/content_4515664.htm)，中华人民共和国国防部官网。

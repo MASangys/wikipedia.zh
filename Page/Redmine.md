@@ -1,4 +1,4 @@
-**Redmine** 是一個網頁界面的[项目管理](../Page/项目管理.md "wikilink")與[缺陷跟蹤管理系統的](https://zh.wikipedia.org/wiki/缺陷跟蹤管理系統 "wikilink")[自由及开放源代码软件](../Page/自由及开放源代码软件.md "wikilink")工具。它整合了项目管理所需的各項功能：[日曆](https://zh.wikipedia.org/wiki/日曆 "wikilink")、[燃尽图](../Page/燃尽图.md "wikilink")和[甘特圖](https://zh.wikipedia.org/wiki/甘特圖 "wikilink") 以協助視覺化表現專案與時間限制，和[版本控制](../Page/版本控制.md "wikilink")。此外，Redmine也可以同時處理多個项目。
+**Redmine**是一個網頁界面的[项目管理](../Page/项目管理.md "wikilink")與[缺陷跟蹤管理系統的](https://zh.wikipedia.org/wiki/缺陷跟蹤管理系統 "wikilink")[自由及开放源代码软件](../Page/自由及开放源代码软件.md "wikilink")工具。它整合了项目管理所需的各項功能：[日曆](https://zh.wikipedia.org/wiki/日曆 "wikilink")、[燃尽图](../Page/燃尽图.md "wikilink")和[甘特圖](https://zh.wikipedia.org/wiki/甘特圖 "wikilink") 以協助視覺化表現專案與時間限制，和[版本控制](../Page/版本控制.md "wikilink")。此外，Redmine也可以同時處理多個项目。
 
 Redmine 是以 [Ruby on Rails](../Page/Ruby_on_Rails.md "wikilink") 撰寫的架構，它橫跨多個平台與[資料庫](https://zh.wikipedia.org/wiki/資料庫 "wikilink")，它的設計很明顯是受一些類似功能軟件包的[Trac](../Page/Trac.md "wikilink")所影響。此外，它也是[Bitnami](../Page/Bitnami.md "wikilink") 應用[函式庫](../Page/函式庫.md "wikilink")的一部份。
 
@@ -30,23 +30,23 @@ Redmine 在 [Gentoo Linux](../Page/Gentoo_Linux.md "wikilink") Summer 和[Ruby](
 
 由于在对如何处理来自Redmine社区的反馈和补丁的意见的分歧，一组Redmine的开发者在2011年创建了一个分支，新的分支先被命名成 Bluemine，但隨後又改为[ChiliProject](https://zh.wikipedia.org/wiki/ChiliProject "wikilink")，此分支于2015年2月2日宣布，停止开发新版本\[2\]。
 
+## 參見
+
+  - [项目管理软件比較](https://zh.wikipedia.org/wiki/项目管理软件比較 "wikilink")
+  - [組態管理](../Page/組態管理.md "wikilink")
+
 ## 参考文献
 
 ## 外部連結
 
   -
-  - [ChiliProject](https://www.chiliproject.org/) - a Redmine fork
+  - [ChiliProject](https://web.archive.org/web/20110807145136/https://www.chiliproject.org/) - a Redmine fork
 
   - [Redmine app on iPhone](https://itunes.apple.com/us/app/id631915897)
 
   - [Redmine app on Android Phone](https://play.google.com/store/apps/details?id=jp.co.projectmode.redminepm)
 
   - [RedmineApp](http://getredmineapp.com) - an iPhone app for Redmine
-
-## 參見
-
-  - [项目管理软件比較](https://zh.wikipedia.org/wiki/项目管理软件比較 "wikilink")
-  - [組態管理](../Page/組態管理.md "wikilink")
 
 {{-}}
 

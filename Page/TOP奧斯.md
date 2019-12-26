@@ -3,7 +3,7 @@
 ## 外部連結
 
   - [Official site](http://www.fcoss.nl/)
-  - [Official Fan Club](http://www.detrouweoss.nl/)
+  - [Official Fan Club](https://web.archive.org/web/20110724151215/http://www.detrouweoss.nl/)
   - [FC Oss Fanatics (A supporters group)](https://web.archive.org/web/20070410002622/http://www.topossfanatics.nl/)
   - [Heesen Yachts (TOP Oss' main sponsor)](http://www.heesenshipyards.nl)
 

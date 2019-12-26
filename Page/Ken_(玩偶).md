@@ -88,19 +88,12 @@
 [Category:芭比娃娃](https://zh.wikipedia.org/wiki/Category:芭比娃娃 "wikilink") [Category:1961年面世的產品](https://zh.wikipedia.org/wiki/Category:1961年面世的產品 "wikilink") [Category:1960年代](https://zh.wikipedia.org/wiki/Category:1960年代 "wikilink")
 
 1.
-
 2.
 3.
-
 4.  “Sugar”是一個玩偶（[寵物犬](https://zh.wikipedia.org/wiki/寵物 "wikilink")）的名字，類似中文名“糖糖”。由於美泰兒公司將肯尼做為“該寵物犬的飼主”而又暱稱他為“‘糖糖’的爹”。不過，[該暱稱在英文竟是一個不雅的俚語](https://zh.wikipedia.org/wiki/:en:Sugar_daddy "wikilink")，為免遭人非議，美泰兒公司在取名不久之後又把這個名號取消了。參見
-
 5.
 6.
-
 7.
-
 8.
-
 9.
-
 10.

@@ -1,4 +1,4 @@
-**LoveLive\! School idol project**（）是由[日本](../Page/日本.md "wikilink")[動畫公司](https://zh.wikipedia.org/wiki/動畫 "wikilink")[日昇動畫](../Page/日昇動畫.md "wikilink")、唱片公司[Lantis](../Page/Lantis.md "wikilink")、以及ACG月刊雜誌《[電擊G's magazine](../Page/電擊G's_magazine.md "wikilink")》共同合作推出的读者参与活动以及由此展开的多媒体企划\[1\]。項目原案由[公野櫻子設計](https://zh.wikipedia.org/wiki/公野櫻子 "wikilink")，監督為京極尚彥，角色設計和插圖由室田雄平製作，總製作人則由齋藤滋擔任。
+**LoveLive\! School idol project**（）是由[日本](../Page/日本.md "wikilink")[動畫公司](https://zh.wikipedia.org/wiki/動畫 "wikilink")[日昇動畫](../Page/日昇動畫.md "wikilink")、唱片公司[Lantis](../Page/Lantis.md "wikilink")、以及ACG月刊雜誌《[電擊G's magazine](../Page/電擊G's_magazine.md "wikilink")》共同合作推出的读者参与活动以及由此展开的多媒体企划\[1\]。項目原案由[公野櫻子設計](https://zh.wikipedia.org/wiki/公野櫻子 "wikilink")，監督為[京極尚彥](../Page/京極尚彥.md "wikilink")，角色設計和插圖由室田雄平製作，總製作人則由[齋藤滋](../Page/齋藤滋.md "wikilink")擔任。
 
 ## 企劃概要
 
@@ -309,7 +309,7 @@ CD內附有的DVD收錄的歌曲音樂影片同時採用了[2D作畫和](https:/
 
 ### 琴木梟
 
-於2016年11月推出的3DS遊戲《[精靈寶可夢 太陽·月亮](https://zh.wikipedia.org/wiki/精靈寶可夢_太陽·月亮 "wikilink")》，[任天堂](../Page/任天堂.md "wikilink")官網在推出前公佈了新御三家寶可夢的資料，其中草系寶可夢[木木梟外形配色跟南小鳥十分相似](https://zh.wikipedia.org/wiki/木木梟 "wikilink")，因而被網友戲稱為南梟鳥（南小鳥的諧音）。日本某些改圖專家甚至把兩者惡搞成「琴木梟」（ことモク），由「訓練家」－高坂穗乃果所持有。另一方面，女主角的長相與[佐倉綾音極為相似](https://zh.wikipedia.org/wiki/佐倉綾音 "wikilink")，巧合的是絢瀨亞里沙的聲優正是佐倉綾音。\[60\]
+於2016年11月推出的3DS遊戲《[精靈寶可夢 太陽·月亮](https://zh.wikipedia.org/wiki/精靈寶可夢_太陽·月亮 "wikilink")》，[任天堂](../Page/任天堂.md "wikilink")官網在推出前公佈了新御三家寶可夢的資料，其中草系寶可夢[木木梟外形配色跟南小鳥十分相似](https://zh.wikipedia.org/wiki/木木梟 "wikilink")，因而被網友戲稱為南梟鳥（南小鳥的諧音）。日本某些改圖專家甚至把兩者惡搞成「琴木梟」（ことモク），由「訓練家」－高坂穗乃果所持有。另一方面，女主角的長相與[佐倉綾音極為相似](https://zh.wikipedia.org/wiki/佐倉綾音 "wikilink")，\[60\]
 
 ## 注解
 
@@ -331,115 +331,62 @@ CD內附有的DVD收錄的歌曲音樂影片同時採用了[2D作畫和](https:/
 [Category:御宅族](https://zh.wikipedia.org/wiki/Category:御宅族 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:東京都背景作品](https://zh.wikipedia.org/wiki/Category:東京都背景作品 "wikilink") [Category:日本電視動畫](https://zh.wikipedia.org/wiki/Category:日本電視動畫 "wikilink") [Category:Love_Live\!](https://zh.wikipedia.org/wiki/Category:Love_Live! "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.  電撃G's magazine.com|url=[http://gs.dengeki.com/news/25521/|accessdate=2015-05-01|language=ja](http://gs.dengeki.com/news/25521/%7Caccessdate=2015-05-01%7Clanguage=ja)}}
-
 17.
-
 18.
-
 19.
-
 20.  電撃G's magazine.com|url=[http://gs.dengeki.com/news/30250/|website=電撃G's](http://gs.dengeki.com/news/30250/%7Cwebsite=電撃G's) magazine.com}}
-
 21.
-
 22.
-
 23.
-
 24.
-
 25. [台灣角川官方粉絲團](https://www.facebook.com/tw.kadokawa/posts/10152461278481143)
-
 26.
 27. [台灣角川官方粉絲團](https://www.facebook.com/tw.kadokawa/posts/10152461278481143)
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33. 『Cut』2014年8月号、p.85、p.99
-
 34.
-
 35.
-
 36.
-
 37.
-
 38. [My-Cartoon動畫網](http://www.my-cartoon.com.tw/index.php?option=com_content&task=view&id=4224&It+emid=1)
-
 39.
-
 40.
 41. [《LoveLive\!学园偶像祭》将推出街机版本](http://comic.qq.com/a/20151128/016254.htm)，腾讯动漫
-
 42.
-
 43. [『ラブライブ！』がついにボードゲームに参戦！](http://gs.dengeki.com/news/42152/)，电击G's magazine
-
 44. [『ラブライブ！』ボードゲームのカード画像を初公開！](http://gs.dengeki.com/news/43589/)，电击G's magazine
-
 45. [](http://news.lovelive-anime.jp/app-def/S-102/news/?p=10336)，LoveLive官方网站
-
 46.
-
 47.
-
 48.
-
 49.
-
 50.
-
 51.
-
 52.
-
 53.
-
 54.
 55.
-
 56.
-
 57.
-
 58.
-
 59.
-
 60.

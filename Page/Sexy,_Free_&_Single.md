@@ -23,9 +23,9 @@
 [Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink") [Category:2012年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Gaon專輯週榜冠軍作品 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:Super_Junior音樂專輯](https://zh.wikipedia.org/wiki/Category:Super_Junior音樂專輯 "wikilink") [Category:Super_Junior](https://zh.wikipedia.org/wiki/Category:Super_Junior "wikilink") [Category:2012年Gaon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Gaon專輯月榜冠軍作品 "wikilink") [Category:2010年代Gaon專輯年榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2010年代Gaon專輯年榜冠軍作品 "wikilink")
 
 1.
-2.  [SJ 銀赫6輯回歸照](http://kpopn.com/2012/06/21/129327/)
-3.  [SJ 東海6輯回歸照](http://kpopn.com/2012/06/22/129482/)
-4.  [SJ 利特、厲旭6輯回歸照](http://kpopn.com/2012/06/23/129651/)
-5.  [藝聲、神童六輯回歸概念照](http://kpopn.com/2012/06/24/129766/)
-6.  [強仁、晟敏 6輯回歸照](http://kpopn.com/2012/06/25/129869/)
-7.  [始源、圭賢 6輯回歸照](http://kpopn.com/2012/06/26/130058/)
+2.
+3.
+4.
+5.
+6.
+7.

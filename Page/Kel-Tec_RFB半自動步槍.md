@@ -76,7 +76,7 @@ Kel-Tec已計劃製成四個版本，分別有不同的槍管長度、總長度�
 
   - —[Modern Firearms—Kel-tec RFB rifle](http://world.guns.ru/sniper/sniper-rifles/usa/kel-tec-rfb-e.html)
 
-  - —[Review and breakdown of features of the Kel-Tec RFB from *American Rifleman*](http://www.americanrifleman.org/ArticlePage.aspx?id=1972&cid=0)
+  - —[Review and breakdown of features of the Kel-Tec RFB from *American Rifleman*](https://web.archive.org/web/20120302112228/http://www.americanrifleman.org/ArticlePage.aspx?id=1972&cid=0)
 
   - —[Review and analysis of the Kel-Tec RFB from *EmptorMaven*](http://emptormaven.com/2011/03/kel-tec-rfb-308-bullpup/)
 
@@ -120,19 +120,13 @@ Kel-Tec已計劃製成四個版本，分別有不同的槍管長度、總長度�
 1.
 2.
 3.
-
 4.
-
 5.  Bullpup Rifles, p. 34.
-
 6.
 7.
 8.
-
 9.
-
 10.
-
 11.
 12.
 13.

@@ -5,8 +5,6 @@
 [Category:面向对象的程序设计](https://zh.wikipedia.org/wiki/Category:面向对象的程序设计 "wikilink") [Category:宣告式編程語言](https://zh.wikipedia.org/wiki/Category:宣告式編程語言 "wikilink") [Category:模擬程式語言](https://zh.wikipedia.org/wiki/Category:模擬程式語言 "wikilink")
 
 1.
-
 2.
 3.
-
 4.

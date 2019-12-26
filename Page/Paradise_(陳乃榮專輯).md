@@ -1,4 +1,4 @@
-《**Paradise**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[陳乃榮](../Page/陳乃榮.md "wikilink")的首張專輯，也是他在[相信音樂發行的唯一一張大碟](https://zh.wikipedia.org/wiki/相信音樂 "wikilink")，專輯於2009年7月10日發行\[1\]，第一主打歌為大碟同名歌曲《Paradise》，第二主打歌為[偶像劇](../Page/偶像劇.md "wikilink")《[終極三國](../Page/終極三國.md "wikilink")》插曲《不再》。
+《**Paradise**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[陳乃榮](../Page/陳乃榮.md "wikilink")的首張專輯，也是他在[相信音樂](../Page/相信音樂.md "wikilink")發行的唯一一張大碟，專輯於2009年7月10日發行\[1\]，第一主打歌為大碟同名歌曲《Paradise》，第二主打歌為[偶像劇](../Page/偶像劇.md "wikilink")《[終極三國](../Page/終極三國.md "wikilink")》插曲《不再》。
 
 陳乃榮在這張專輯中創作歌曲佔了大半。
 

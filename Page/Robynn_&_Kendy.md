@@ -304,11 +304,10 @@ Kendy回港後，曾獲得《柏斯琴行原創歌曲大賽》的亞軍，並簽
 <tr class="odd">
 <td style="text-align: left;"><p>6th</p></td>
 <td style="text-align: left;"><p><a href="../Page/CURATIONS.md" title="wikilink">CURATIONS</a></p></td>
-<td style="text-align: left;"><p>新曲+精選</p></td>
+<td style="text-align: left;"><p>大碟</p></td>
 <td style="text-align: left;"><p><a href="../Page/環球唱片_(香港).md" title="wikilink">環球唱片 (香港)</a></p></td>
 <td style="text-align: left;"><p>2019年4月26日</p></td>
-<td style="text-align: left;"><p>CD1 - 新曲</p>
-<ol>
+<td style="text-align: left;"><ol>
 <li><strong>負攝石</strong></li>
 <li><strong>急救中</strong></li>
 <li><strong>Shout n' Cry</strong></li>
@@ -318,27 +317,6 @@ Kendy回港後，曾獲得《柏斯琴行原創歌曲大賽》的亞軍，並簽
 <li><strong>青春終老</strong></li>
 <li><strong>荷光</strong></li>
 <li><strong>明陣</strong></li>
-</ol>
-<p>CD2 - 精選</p>
-<ol>
-<li><strong>翻牆</strong></li>
-<li><strong>不用太趕</strong></li>
-<li><strong>小說伴咖啡</strong></li>
-<li>生活與生存</li>
-<li><strong>Sunset</strong></li>
-<li><strong>一顆星的故事</strong></li>
-<li><strong>陶瓷娃娃</strong></li>
-<li>或許</li>
-<li><strong>Say Goodbye</strong></li>
-<li><strong>Sail Away</strong></li>
-<li><strong>La La La</strong>（Featuring Ghost Style）</li>
-<li>公主病死了</li>
-<li>不痛不癢</li>
-<li><strong>第十行星</strong></li>
-<li><strong>Gonna Be Okay</strong></li>
-<li><strong>蝶亂飛</strong></li>
-<li><strong>月湖</strong></li>
-<li><strong>我不完美</strong></li>
 </ol></td>
 </tr>
 </tbody>
@@ -364,41 +342,41 @@ Kendy回港後，曾獲得《柏斯琴行原創歌曲大賽》的亞軍，並簽
 | 唱片                                                                                    |
 | **2012年**                                                                             |
 | [Robynn & Kendy](../Page/Robynn_&_Kendy_\(專輯\).md "wikilink")                         |
-| Robynn & Kendy                                                                        |
-| Robynn & Kendy                                                                        |
-| Robynn & Kendy                                                                        |
+| [Robynn & Kendy](../Page/Robynn_&_Kendy_\(專輯\).md "wikilink")                         |
+| [Robynn & Kendy](../Page/Robynn_&_Kendy_\(專輯\).md "wikilink")                         |
+| [Robynn & Kendy](../Page/Robynn_&_Kendy_\(專輯\).md "wikilink")                         |
 | [Dear Diary](../Page/Dear_Diary.md "wikilink")                                        |
 | **2013年**                                                                             |
-| Dear Diary                                                                            |
-| Dear Diary                                                                            |
-| Dear Diary                                                                            |
+| [Dear Diary](../Page/Dear_Diary.md "wikilink")                                        |
+| [Dear Diary](../Page/Dear_Diary.md "wikilink")                                        |
+| [Dear Diary](../Page/Dear_Diary.md "wikilink")                                        |
 | [Sail Away](../Page/Sail_Away.md "wikilink")                                          |
-| Sail Away                                                                             |
+| [Sail Away](../Page/Sail_Away.md "wikilink")                                          |
 | **2014年**                                                                             |
-| Sail Away                                                                             |
-| Sail Away                                                                             |
+| [Sail Away](../Page/Sail_Away.md "wikilink")                                          |
+| [Sail Away](../Page/Sail_Away.md "wikilink")                                          |
 | [Picturesque](../Page/Picturesque.md "wikilink")                                      |
-| Picturesque                                                                           |
+| [Picturesque](../Page/Picturesque.md "wikilink")                                      |
 | **2015年**                                                                             |
 |                                                                                       |
-| Picturesque                                                                           |
+| [Picturesque](../Page/Picturesque.md "wikilink")                                      |
 | [如果·我不完美](../Page/如果·我不完美.md "wikilink")                                              |
-| 如果·我不完美                                                                               |
-| 如果·我不完美                                                                               |
-| 如果·我不完美                                                                               |
+| [如果·我不完美](../Page/如果·我不完美.md "wikilink")                                              |
+| [如果·我不完美](../Page/如果·我不完美.md "wikilink")                                              |
+| [如果·我不完美](../Page/如果·我不完美.md "wikilink")                                              |
 | **2017年**                                                                             |
 | [CURATIONS](../Page/CURATIONS.md "wikilink")                                          |
-| CURATIONS                                                                             |
-| CURATIONS                                                                             |
-| CURATIONS                                                                             |
-| CURATIONS                                                                             |
+| [CURATIONS](../Page/CURATIONS.md "wikilink")                                          |
+| [CURATIONS](../Page/CURATIONS.md "wikilink")                                          |
+| [CURATIONS](../Page/CURATIONS.md "wikilink")                                          |
+| [CURATIONS](../Page/CURATIONS.md "wikilink")                                          |
 | **2018年**                                                                             |
 | [我做你 你做我 Stand By You](https://zh.wikipedia.org/wiki/我做你_你做我_Stand_By_You "wikilink") |
-| CURATIONS                                                                             |
-| CURATIONS                                                                             |
-| CURATIONS                                                                             |
+| [CURATIONS](../Page/CURATIONS.md "wikilink")                                          |
+| [CURATIONS](../Page/CURATIONS.md "wikilink")                                          |
+| [CURATIONS](../Page/CURATIONS.md "wikilink")                                          |
 | **2019年**                                                                             |
-| CURATIONS                                                                             |
+| [CURATIONS](../Page/CURATIONS.md "wikilink")                                          |
 
 | **各台冠軍歌總數** |
 | ----------- |
@@ -1465,26 +1443,16 @@ Kendy回港後，曾獲得《柏斯琴行原創歌曲大賽》的亞軍，並簽
 [Category:香港客家人](https://zh.wikipedia.org/wiki/Category:香港客家人 "wikilink") [Category:梅縣人](https://zh.wikipedia.org/wiki/Category:梅縣人 "wikilink") [Category:香港音樂家](https://zh.wikipedia.org/wiki/Category:香港音樂家 "wikilink") [Category:香港作曲家](https://zh.wikipedia.org/wiki/Category:香港作曲家 "wikilink") [Category:香港填詞人](https://zh.wikipedia.org/wiki/Category:香港填詞人 "wikilink") [Category:中國女子演唱團體](https://zh.wikipedia.org/wiki/Category:中國女子演唱團體 "wikilink") [Category:華語流行音樂團體](https://zh.wikipedia.org/wiki/Category:華語流行音樂團體 "wikilink") [Category:粵語流行音樂團體](https://zh.wikipedia.org/wiki/Category:粵語流行音樂團體 "wikilink") [Category:香港女子演唱團體](https://zh.wikipedia.org/wiki/Category:香港女子演唱團體 "wikilink") [Category:網路歌手](https://zh.wikipedia.org/wiki/Category:網路歌手 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.  <https://www.casa.org/cara2013n>
-
 6.
-
 7.
 8.
-
 9.
-
 10.
-
 11.
-
 12.
 13.
 14.

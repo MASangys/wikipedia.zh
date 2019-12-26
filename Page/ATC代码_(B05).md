@@ -23,7 +23,7 @@
 
 ## B05B [静脉注射液](https://zh.wikipedia.org/wiki/静脉注射液 "wikilink") I.v. solutions
 
-### B05BA [非经肠](https://zh.wikipedia.org/wiki/非经肠 "wikilink")[营养液](https://zh.wikipedia.org/wiki/营养 "wikilink")（Solutions for parenteral nutrition）
+### B05BA [非经肠](https://zh.wikipedia.org/wiki/非经肠 "wikilink")[营养](../Page/营养.md "wikilink")液（Solutions for parenteral nutrition）
 
   -
     B05BA01 [氨基酸](../Page/氨基酸.md "wikilink")（Amino acids）

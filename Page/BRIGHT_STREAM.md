@@ -87,9 +87,7 @@
 [Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink") [Category:動畫電影主題曲](https://zh.wikipedia.org/wiki/Category:動畫電影主題曲 "wikilink") [Category:水樹奈奈單曲](https://zh.wikipedia.org/wiki/Category:水樹奈奈單曲 "wikilink") [Category:魔法少女奈葉歌曲](https://zh.wikipedia.org/wiki/Category:魔法少女奈葉歌曲 "wikilink") [Category:电影插曲](https://zh.wikipedia.org/wiki/Category:电影插曲 "wikilink") [Category:King_Records歌曲](https://zh.wikipedia.org/wiki/Category:King_Records歌曲 "wikilink") [Category:Oricon動畫單曲年榜冠軍歌曲](https://zh.wikipedia.org/wiki/Category:Oricon動畫單曲年榜冠軍歌曲 "wikilink")
 
 1.
-
 2.  [2012年07月30日～2012年08月05日のCDシングル週間ランキング（2012年08月13日付）](http://www.oricon.co.jp/rank/js/w/2012-08-13/) - ORICON STYLE,2012年8月10日03:52閲覧。
-
 3.
 4.
 5.

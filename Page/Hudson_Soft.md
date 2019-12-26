@@ -47,10 +47,7 @@
 [Category:1973年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1973年開業電子遊戲公司 "wikilink") [Category:2012年結業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2012年結業電子遊戲公司 "wikilink") [Category:日本已結業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本已結業電子遊戲公司 "wikilink") [Category:港區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:港區公司_\(東京都\) "wikilink") [Category:科樂美](https://zh.wikipedia.org/wiki/Category:科樂美 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink") [Category:JASDAQ已除牌公司](https://zh.wikipedia.org/wiki/Category:JASDAQ已除牌公司 "wikilink")
 
 1.
-
 2.
-
-3.  [1](http://www.hkcomp.info/hk/info.php?key=240695-024c802d)
-
+3.
 4.
 5.  [Hudson Ceases to Exist on March 1](https://archive.is/20120708115716/andriasang.com/comzo7/hudson_kaput/)

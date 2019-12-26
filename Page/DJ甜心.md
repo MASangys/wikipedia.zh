@@ -67,7 +67,6 @@
 [Category:迪士尼電影](https://zh.wikipedia.org/wiki/Category:迪士尼電影 "wikilink") [Category:美國青春電影](https://zh.wikipedia.org/wiki/Category:美國青春電影 "wikilink") [Category:英語電影](https://zh.wikipedia.org/wiki/Category:英語電影 "wikilink") [Category:西雅圖背景電影](https://zh.wikipedia.org/wiki/Category:西雅圖背景電影 "wikilink") [Category:溫哥華取景電影](https://zh.wikipedia.org/wiki/Category:溫哥華取景電影 "wikilink") [Category:電影原聲帶](https://zh.wikipedia.org/wiki/Category:電影原聲帶 "wikilink") [Category:美國小說改編電影](https://zh.wikipedia.org/wiki/Category:美國小說改編電影 "wikilink") [Category:廣播題材電影](https://zh.wikipedia.org/wiki/Category:廣播題材電影 "wikilink") [Category:2012年原聲帶](https://zh.wikipedia.org/wiki/Category:2012年原聲帶 "wikilink") [Category:華特迪士尼唱片原聲帶](https://zh.wikipedia.org/wiki/Category:華特迪士尼唱片原聲帶 "wikilink")
 
 1.  [Breaking News - Popular Young Actress Debby Ryan Stars in "Radio Rebel"](http://www.thefutoncritic.com/news/2012/01/18/popular-young-actress-debby-ryan-stars-in-radio-rebel-a-disney-channel-original-movie-premiering-friday-february-17-363011/20120118disney02/)
-
 2.
 3.
 4.

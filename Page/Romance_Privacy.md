@@ -136,9 +136,6 @@
 [Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink") [Category:AKB48家族關連歌曲](https://zh.wikipedia.org/wiki/Category:AKB48家族關連歌曲 "wikilink") [Category:愛貝克思歌曲](https://zh.wikipedia.org/wiki/Category:愛貝克思歌曲 "wikilink") [Category:秋元康創作的歌曲](https://zh.wikipedia.org/wiki/Category:秋元康創作的歌曲 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.

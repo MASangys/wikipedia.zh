@@ -19,7 +19,7 @@ Asus Eee Pad Transformer Prime 使用 [NVIDIA Tegra](https://zh.wikipedia.org/wi
   - [ASUS Eee Pad Transformer Prime Review (Engadget)](http://www.engadget.com/2011/12/01/asus-eee-pad-transformer-prime-review/)
   - [ASUS Eee Pad Transformer Prime Review (Cnet UK)](https://web.archive.org/web/20120120035630/http://reviews.cnet.co.uk/ipad-and-tablets/asus-transformer-prime-review-50006423/)
 
-[Category:華碩產品](https://zh.wikipedia.org/wiki/Category:華碩產品 "wikilink") [Category:平板電腦](https://zh.wikipedia.org/wiki/Category:平板電腦 "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:2011年面世的產品](https://zh.wikipedia.org/wiki/Category:2011年面世的產品 "wikilink")
+[Category:華碩平板電腦](https://zh.wikipedia.org/wiki/Category:華碩平板電腦 "wikilink") [Category:平板電腦](https://zh.wikipedia.org/wiki/Category:平板電腦 "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:2011年面世的產品](https://zh.wikipedia.org/wiki/Category:2011年面世的產品 "wikilink")
 
 1.  <http://hk.asus.com/Eee/Eee_Pad/Eee_Pad_Transformer_Prime_TF201/>
 2.  <http://chinese.engadget.com/2012/01/31/asus-eee-pad-transformer-prime/>

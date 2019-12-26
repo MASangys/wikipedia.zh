@@ -1,6 +1,6 @@
-**英特拉泰克TEC-DC9（TEC-9）**是一款由所設計、所生產的[反沖作用操作半自動槍械](../Page/反沖作用_\(槍械\).md "wikilink")，發射[9×19毫米魯格](../Page/9×19mm魯格彈.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")，被[美國菸酒槍炮及爆裂物管理局](../Page/美國菸酒槍炮及爆裂物管理局.md "wikilink")（，簡稱：ATF）歸類為手槍。
+**英特拉泰克TEC-DC9（TEC-9）**是一款由所設計、所生產的[反沖作用操作半自動槍械](../Page/反沖作用_\(槍械\).md "wikilink")，被[美國菸酒槍炮及爆裂物管理局](../Page/美國菸酒槍炮及爆裂物管理局.md "wikilink")（，簡稱：ATF）歸類為手槍，發射[9×19毫米魯格](../Page/9×19mm魯格彈.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
-TEC-9由[瑞典國際動力公司](https://zh.wikipedia.org/wiki/瑞典國際動力公司 "wikilink")（）的美國分公司英特拉泰克公司所設計的。TEC-9、TEC-DC9和AB-10三個型號都可被稱為TEC-9，雖然只有一個型號是根據該名稱向市場出售。
+TEC-9由[瑞典國際動力公司](https://zh.wikipedia.org/wiki/瑞典國際動力公司 "wikilink")（）的美國分公司英特拉泰克公司所設計。TEC-9、TEC-DC9和AB-10三個型號都可被稱為TEC-9，雖然只有一個型號是根據該名稱向市場出售。
 
 TEC-9是由廉價的模塑成型[聚合物](../Page/聚合物.md "wikilink")和沖壓鋼部件所製成。供彈具為10、20、32、50發[彈匣](../Page/彈匣.md "wikilink")或是更大容量的72發[彈鼓](https://zh.wikipedia.org/wiki/彈鼓 "wikilink")。
 
@@ -66,18 +66,11 @@ TEC-9和其衍生型TEC-DC9其後又被1994年[美国](../Page/美国.md "wikili
 [Category:半自動手槍](https://zh.wikipedia.org/wiki/Category:半自動手槍 "wikilink") [Category:美國半自動手槍](https://zh.wikipedia.org/wiki/Category:美國半自動手槍 "wikilink") [Category:9毫米魯格彈槍械](https://zh.wikipedia.org/wiki/Category:9毫米魯格彈槍械 "wikilink") [Category:瑞典槍械](https://zh.wikipedia.org/wiki/Category:瑞典槍械 "wikilink")
 
 1.
-
 2.
-
 3.  "Columbine Gun's Maker Closes Up; Legal Battles Ensnarled Navegar and TEC-9 Pistol". The Washington Post (August 18, 2001).
-
 4.
-
 5.
-
 6.
-
 7.  <http://www.calguns.net/a_california_arak.htm>
-
 8.
 9.

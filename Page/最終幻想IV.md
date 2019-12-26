@@ -111,214 +111,124 @@ PS版合輯《最終幻想選集》在1999年售出40萬份，成為當年日本
 [Category:最終幻想IV](https://zh.wikipedia.org/wiki/Category:最終幻想IV "wikilink") [Category:最终幻想系列电子游戏](https://zh.wikipedia.org/wiki/Category:最终幻想系列电子游戏 "wikilink") [Category:1991年电子游戏](https://zh.wikipedia.org/wiki/Category:1991年电子游戏 "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:Game_Boy_Advance遊戲](https://zh.wikipedia.org/wiki/Category:Game_Boy_Advance遊戲 "wikilink") [Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink") [Category:PlayStation_Network游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Network游戏 "wikilink") [Category:PlayStation_(游戏机)游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_\(游戏机\)游戏 "wikilink") [Category:Wii_Virtual_Console游戏](https://zh.wikipedia.org/wiki/Category:Wii_Virtual_Console游戏 "wikilink") [Category:WonderSwan_Color遊戲](https://zh.wikipedia.org/wiki/Category:WonderSwan_Color遊戲 "wikilink") [Category:东星软件游戏](https://zh.wikipedia.org/wiki/Category:东星软件游戏 "wikilink") [Category:超级任天堂游戏](https://zh.wikipedia.org/wiki/Category:超级任天堂游戏 "wikilink") [Category:僅有單人模式的電子遊戲](https://zh.wikipedia.org/wiki/Category:僅有單人模式的電子遊戲 "wikilink") [Category:Wii_U_Virtual_Console游戏](https://zh.wikipedia.org/wiki/Category:Wii_U_Virtual_Console游戏 "wikilink") [Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink") [Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
 5.
 6.
 7.
-
 8.
-
 9.
 10.
 11.
-
 12.
-
 13. **Fusoya:** Long ago, the world that lay between the Red Planet and the Great Behemoth stood at the verge of destruction, both terrible and complete. The last survivors of that devastation boarded a ship and escaped to the Blue Planet. / **Cecil**: Blue Planet? / **Fusoya**: The one that you call home. But your planet was still in the midst of its evolution, you see. And so those travelers created a second moon for the planet, and there they settled into a long and quiet slumber.
-
 14.
 15.
 16. **King of Baron:** This is most unfortunate, but I can place no trust on one who offers none in return. I hereby relieve you of command of the Red Wings. / **Cecil:** My liege\! / **King:** You will go now to the Valley of Mist instead. There is a task I would have you do. A phantom creature haunts the borders of that land-the Eidolon of Mist. You will slay it and deliver this ring to the village that lies beyond — they will know its meaning. Be gone by first light in the morning\!
-
 17. **Rydia:** Mother, you can't die\! Just because your dragon did...
-
 18. **Officer of Baron**: Our orders come directly from His Majesty's own mouth. Surrender the girl, and he will pardon all you've done. The inhabitants of Mist represent a threat to us all. They must not be allowed to live\!
-
 19. **Tellah**: My daughter Anna was tricked by a silver-tongued bard. He's taken her to Damcyan Castle. I fear I've little time. I sense something sinister.
-
 20. **Edward**: The Red Wings laid siege to us, led by a man named Golbez.
-
 21. **Tellah**: Tears do not bring back the dead, boy\! Anna's death must be avenged. I'll find this Golbez\!
-
 22. **Kain**: It's been some time, Cecil. / **Cecil**: Kain\! You're alive\! / **Kain**: I am. / **Cecil**: You'll fight, then? / **Kain**: Of course. That's the very reason I've come. But, Cecil...The one I'll fight is you\! / **Cecil**: Kain\!? / **Kain**: A duel, Cecil\! / **Cecil**: What do you mean? / **Kain**: Draw your blade\!
-
 23. **Elder**: First you must ascend the mountain and trade your dark sword for one of light. Should the hallowed light deem you worthy, you will be made a paladin--a warrior of virtue. But know it will be no easy trail. Many are the man who have scaled the mountain, but not one has returned. Will you try where all others have failed? / **Cecil**: I will\!
-
 24. **Cecil**: Weren't you planning to go after Golbez?. /**Tellah**: Yes, but my magic is no match for a man of his strength. I've been searching for the legendary magic of Meteor. It has been long sealed away, and I know not where. But I feel a powerful aura radiating from this place. I believe the spell I seek may well rest within this mountain.
-
 25. **Cecil**: What have you done with the king\!? / **"King of Baron"**: Would you like to go and see him, that king of yours? You best not mistake me for another Scarmiglione. How one as weak as he came to be crowned an archfiend is something I will never know. Mwa ha ha\! / **Cecil**: Then you're one of them\! / **"King of Baron"**: Behold\! I am the Drowned King, Cagnazzo--archfiend of water and sworn servant of Golbez\!
-
 26. **Cecil:** Where's Rosa? She's safe, I trust. / **Kain:** Heh. Worried about her, are you? If you wish to see Rosa alive, fetch me the Earth Crystal from the land of Troia.
-
 27. **Golbez:** So, the old man's interference severed my hold over you. No matter. Your purpose is served. Do not think this affront will be forgiven. / Cecil: Why...why now stay your hand?/Golbez: You're--You..But--how?...? We will finish this another time.
-
 28. **Cecil**: Kain, we've lost the Earth Crystal. Golbez holds all them now. / **Kain**: No. he holds four. / **Rosa**: You mean to say there are more? / **Cid**: Come to think it, I've heard tales of others\! You speak of the Dark Crystals? / **Kain**: I do. / **Kain**: There is more. He said when all of the Crystals were gathered, the way to the moon would be opened.
-
 29. **Cid:** Once you breach surface, I'll seal off that hold for good--with this\! / **Rosa**: No\! Not you too\! / **Cid**: I was hoping I'd get to see your kids someday, but, well--someone's got to keep Yang company\! You get yourselves back to Baron. Talk to my boys there\! / **Rydia**: But Cid\! You'll die\! / **Cid**: And so young, too\!
-
 30. **Golbez**: Kain...Return to me, my pawn...Deliver to me the Crystal... / **Cecil**: Golbez\! / **Cecil**: Kain\! / Rosa: Don't listen\! Resist him\! / **Kain**: It's alright. I...I'm back in control of myself. / **Edge**: You filthy double-crosser\! / **Rosa**: Kain. What are you doing\!? /**Golbez**: You underestimate the strength of my abilities. I had but slackened your friend's leash, waiting for the proper moment to pull it taut. With this final Crystal, the Tower of Babil will be made complete. Come, Kain. / **Cecil**: Kain\! Don't listen to him\! Kain\! / **Kain**: The Crystals are all assembled. We can open the way to the moon at last\!
-
 31. **Cecil**: And the Lunar Whale, where did it come from? / **Fusoya**: Ah, the ship...My younger brother Kluya built that vessel long ago, and flew it to the Blue Planet. He took with him several of our secrets, such as the ones employed in your Devil's Road and in airships--a gift to your people. Kluya was fascinated by your planet and wished to know more about it. And while he was there, he fell in love with a woman of your planet.
-
 32. **Fusoya**: He thought it fit that we should simply raze all existing life on the Blue Planet and claim it as our own. / **Rydia**: That's horrible... / **Fusoya**: Yes. And so I used my powers to force him into hibernation with the others. But as he slept, his will grew stronger and took on a consciousness all its own. It reached out to men with tainted hearts on your planet, twisting them into beings yet darker still. And through them, he began to gather the Crystals. / **Cecil**: So he was manipulating Golbez\! / **Edge**: Does this guy have a name? / **Fusoya**: His name is Zemus. The Crystals function as a source of energy you see. I fear he has gathered them in order to activate the interdimenional elevator within the Tower of Babil. With it, he will be able to transport the Giant of Babil to your planet and use it to extinguish all life there.
-
 33. **Golbez:** My father... His name was Kluya. / **Rosa:** That you're Cecil's own... / **Edge:** Brother\!?
-
 34. **Zeromus**: I am the wellspring of darkness, fed by Zemus's unbridled hate. I am He who is called Zeromus... I am He who know naught but hate\!
-
 35. **Golbez:** I cannot return. Not after I have done. And I would very much like to meet my father's people. At least one time.
-
 36.
-
 37.
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43.
-
 44.
-
 45.
-
 46.
-
 47.
-
 48.
 49.
-
 50.
 51.
 52.
-
 53.
 54.
-
 55.
 56.
-
 57.
 58.
 59.
-
 60.
-
 61.
-
 62.
-
 63.
 64.
-
 65.
 66.
-
 67.
 68.
-
 69.
 70.
-
 71.
-
 72.
-
 73.
-
 74.
-
 75.
-
 76.
 77.
-
 78.
 79.
-
 80.
-
 81.
-
 82.
-
 83. [Ultimate Final Fantasy IV Collection Announced for PSP](http://www.escapistmagazine.com/news/view/106096-Ultimate-Final-Fantasy-IV-Collection-Announced-for-PSP)
-
 84.
-
 85.
-
 86.
-
 87.
-
 88.
-
 89.
 90.
 91.
-
 92.
-
 93.
 94.
-
 95.
-
 96.
-
 97.
-
 98.  55 Final Fantasy II|year=2007|publisher=IGN|accessdate=2009-12-09|deadurl=yes|archiveurl=[https://web.archive.org/web/20090202122445/http://uk.top100.ign.com/2007/ign_top_game_55.html|archivedate=2009-02-02](https://web.archive.org/web/20090202122445/http://uk.top100.ign.com/2007/ign_top_game_55.html%7Carchivedate=2009-02-02)}}
-
 99.
-
 100.
 101.
 102.
-
 103.
-
 104.
-
 105.
-
 106.
 107.
 108.
 109.
-
 110.
 111.
-
 112.
-
 113.
-
 114.
-
 115.
-
 116.
-
 117.
-
 118.
-
 119.
-
 120.
-
 121.
-
 122.

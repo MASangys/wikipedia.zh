@@ -38,49 +38,30 @@ LGBT抚养情况的产生包括收养，代孕，人工受精，原有抚养关�
 [Category:家事法](https://zh.wikipedia.org/wiki/Category:家事法 "wikilink") [Category:LGBT權利](https://zh.wikipedia.org/wiki/Category:LGBT權利 "wikilink") [Category:性取向和社会](https://zh.wikipedia.org/wiki/Category:性取向和社会 "wikilink")
 
 1.  [《APA性取向政策报告，家长与孩子》（APA Policy Statement on Sexual Orientation, Parents & Children）](http://www.apa.org/pi/lgbc/policy/parents.html)，[美国心理学学会](https://zh.wikipedia.org/wiki/美国心理学学会 "wikilink")，2004年7月28、30，2007年4月6日复查
-
 2.
-
 3.  [《一个家庭问题：当配偶作为男同性恋，女同性恋，双性恋出柜时》（A Family Matter: When a Spouse Comes Out as Gay, Lesbian, or Bisexual）](http://www.haworthpress.com/store/ArticleAbstract.asp?sid=3Q4EE45JK40W8L1DN0HJVF3U8WFT5DSC&ID=55278)
-
 4.  [EMRK is for the LGBT adoption](http://cmiskp.echr.coe.int/tkp197/view.asp?item=1&portal=hbkm&action=html&highlight=43546/02&sessionid=4859311&skin=hudoc-en)
-
 5.  [《欧洲新闻：同性别的养父母》（德语）Euronews: Gleichgeschlechtliche Adoptiveltern - Gerichtshof rügt Frankreich](http://www.euronews.net/index.php?page=info&article=466057&lng=3)
-
 6.  [Case No. S147999 in the Supreme Court of the State of California, In re Marriage Cases Judicial Council Coordination Proceeding No. 4365, Application for leave to file brief amici curiae in support of the parties challenging the marriage exclusion, and brief amici curiae of the American Psychological Association, California Psychological Association, American Psychiatric Association, National Association of Social Workers, and National Association of Social Workers, California Chapter in support of the parties challenging the marriage exclusion](http://www.courtinfo.ca.gov/courts/supreme/highprofile/documents/Amer_Psychological_Assn_Amicus_Curiae_Brief.pdf)
-
 7.  Canadian Psychological Association: [Marriage of Same-Sex Couples – 2006 Position Statement Canadian Psychological Association](http://www.cpa.ca/cpasite/userfiles/Documents/Marriage%20of%20Same-Sex%20Couples%20Position%20Statement%20-%20October%202006%20%281%29.pdf)
-
 8.  [Elizabeth Short, Damien W. Riggs, Amaryll Perlesz, Rhonda Brown, Graeme Kane: Lesbian, Gay, Bisexual and Transgender (LGBT) Parented Families - A Literature Review prepared for The Australian Psychological Society](http://www.psychology.org.au/Assets/Files/LGBT-Families-Lit-Review.pdf)
-
 9.
 10.
 11.
 12.
-
 13. [《性取向，家长及孩子》Sexual Orientation, Parents, & Children](http://www.apa.org/about/governance/council/policy/parenting.aspx)
-
 14.
 15.
 16.
 17.
-
 18. [《异性恋婚姻中的男同性恋：观点，行为，儿童经历，婚姻原因》（Gay Men from Heterosexual Marriages: Attitudes, Behaviors, Childhood Experiences, and Reasons for Marriage）](http://www.haworthpress.com/store/ArticleAbstract.asp?sid=3Q4EE45JK40W8L1DN0HJVF3U8WFT5DSC&ID=11230)
-
 19. [《男同性恋，摩门教徒，结婚了》（Gay, Mormon, married）](http://www.rickross.com/reference/mormon/mormon336.html)
-
 20.
-
 21.
-
 22.
-
 23. [《结婚的女同性恋》（The Married Lesbian）](http://www.haworthpress.com/store/ArticleAbstract.asp?sid=3Q4EE45JK40W8L1DN0HJVF3U8WFT5DSC&ID=82829)
-
 24.
 25.
 26. [UNITED STATES DISTRICT COURT DISTRICT OF MASSACHUSETTS July 8, 2010 (PDF)](http://docfiles.justia.com/cases/federal/district-courts/massachusetts/madce/1:2009cv10309/120672/70/0.pdf)
-
 27. [IN THE UNITED STATES DISTRICT COURT FOR THE NORTHERN DISTRICT OF CALIFORNIA - August 4, 2010 (PDF)](https://ecf.cand.uscourts.gov/cand/09cv2292/files/09cv2292-ORDER.pdf)
-
 28.

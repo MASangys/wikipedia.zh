@@ -134,7 +134,7 @@ PAL区的范围由系统和发行商而定。PAL区发行通常包括以下国�
 
 ## 60赫兹运行
 
-20世纪90年代中期，PAL区的游戏玩家通过对游戏平台的修改(如[超级任天堂和](https://zh.wikipedia.org/wiki/超级任天堂 "wikilink")[Mega Drive](../Page/Mega_Drive.md "wikilink"))，来做60赫兹运行已经很普遍，使得有NTSC/60[赫兹](../Page/赫兹.md "wikilink")能力PAL电视出现，从而使修改变得相对的简单。\[[http://www.mmmonkey.co.uk/console\]随着](http://www.mmmonkey.co.uk/console%5D随着)[第五世代开始](https://zh.wikipedia.org/wiki/第五世代 "wikilink")，带来了更强的硬件和3D图像，开发商可以使游戏在PAL的50赫兹下达到全分辨率，而不需要边框和拉伸，尽管游戏运行还是相对慢，而且所有都是50赫兹运行。从[世嘉](../Page/世嘉.md "wikilink")游戏机[Dreamcast](../Page/Dreamcast.md "wikilink")开始，[第六世代期间开发商在他们的游戏内包含PAL](https://zh.wikipedia.org/wiki/第六世代 "wikilink")60模式。在PAL60下运行的游戏以50赫兹PAL信号同样的颜色编码设计，但能达到[NTSC的分辨率与](https://zh.wikipedia.org/wiki/NTSC "wikilink")60赫兹频率，提供与NTSC一样的游戏体验。
+20世纪90年代中期，PAL区的游戏玩家通过对游戏平台的修改(如[超级任天堂和](https://zh.wikipedia.org/wiki/超级任天堂 "wikilink")[Mega Drive](../Page/Mega_Drive.md "wikilink"))，来做60赫兹运行已经很普遍，使得有NTSC/60[赫兹](../Page/赫兹.md "wikilink")能力PAL电视出现，从而使修改变得相对的简单。\[[https://web.archive.org/web/20120918061655/http://www.mmmonkey.co.uk/console/\]随着](https://web.archive.org/web/20120918061655/http://www.mmmonkey.co.uk/console/%5D随着)[第五世代开始](https://zh.wikipedia.org/wiki/第五世代 "wikilink")，带来了更强的硬件和3D图像，开发商可以使游戏在PAL的50赫兹下达到全分辨率，而不需要边框和拉伸，尽管游戏运行还是相对慢，而且所有都是50赫兹运行。从[世嘉](../Page/世嘉.md "wikilink")游戏机[Dreamcast](../Page/Dreamcast.md "wikilink")开始，[第六世代期间开发商在他们的游戏内包含PAL](https://zh.wikipedia.org/wiki/第六世代 "wikilink")60模式。在PAL60下运行的游戏以50赫兹PAL信号同样的颜色编码设计，但能达到[NTSC的分辨率与](https://zh.wikipedia.org/wiki/NTSC "wikilink")60赫兹频率，提供与NTSC一样的游戏体验。
 
 ## 关于对PAL区游戏的批评
 

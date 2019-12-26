@@ -89,9 +89,6 @@ System.out.println(xstream.toXML(order));
 [Category:XML软件](https://zh.wikipedia.org/wiki/Category:XML软件 "wikilink") [Category:Java](https://zh.wikipedia.org/wiki/Category:Java "wikilink") [Category:Java平台軟體](https://zh.wikipedia.org/wiki/Category:Java平台軟體 "wikilink") [Category:计算机程序库](https://zh.wikipedia.org/wiki/Category:计算机程序库 "wikilink") [Category:自由電腦程式設計工具](https://zh.wikipedia.org/wiki/Category:自由電腦程式設計工具 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.

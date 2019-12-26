@@ -26,12 +26,9 @@ So.cl于2011年12月推出，最初通过一个伙伴关系对[华盛顿大学](
 [Category:微软研究院](https://zh.wikipedia.org/wiki/Category:微软研究院 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
 6.
 7.

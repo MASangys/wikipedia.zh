@@ -162,35 +162,20 @@
 [Category:马来西亚第9届国会议员](https://zh.wikipedia.org/wiki/Category:马来西亚第9届国会议员 "wikilink") [Category:马来西亚第11届国会议员](https://zh.wikipedia.org/wiki/Category:马来西亚第11届国会议员 "wikilink") [Category:马来西亚第12届国会议员](https://zh.wikipedia.org/wiki/Category:马来西亚第12届国会议员 "wikilink") [Category:马来西亚第13届国会议员](https://zh.wikipedia.org/wiki/Category:马来西亚第13届国会议员 "wikilink") [Category:马来西亚第14届国会议员](https://zh.wikipedia.org/wiki/Category:马来西亚第14届国会议员 "wikilink") [Category:现任马来西亚民主行动党国会下议院议员](https://zh.wikipedia.org/wiki/Category:现任马来西亚民主行动党国会下议院议员 "wikilink") [Category:印度裔马来西亚人](https://zh.wikipedia.org/wiki/Category:印度裔马来西亚人 "wikilink") [Category:霹雳州人](https://zh.wikipedia.org/wiki/Category:霹雳州人 "wikilink") [Category:马来西亚印度教徒](https://zh.wikipedia.org/wiki/Category:马来西亚印度教徒 "wikilink")
 
 1.  *[Senarai Ahli Dewan Rakyat](http://www.parlimen.gov.my/index.php?parti=All&p=All&Filter=Lihat&uweb=dr&modload=ahlidewan)*. [Parlimen Malaysia](../Page/马来西亚国会.md "wikilink"), \[2012-7-23\]
-
 2.
-
 3.
-
 4.  <http://www.sinchew.com.my/node/1757297>
-
 5.
-
 6.
 7.
 8.
-
 9.  [GMP Kesal Tindakan M.Kulasegaran Soal Isu Ketuanan Melayu](http://www.malaysia-today.net/2009/12/05/gmp-kesal-tindakan-mkulasegaran-soal-isu-ketuanan-melayu/)
-
-10. [Ketuanan Melayu terus dipersoal pembangkang](http://ww1.utusan.com.my/utusan/info.asp?y=2009&dt=1208&pub=Utusan_Malaysia&sec=Politik&pg=po_05.htm)
-
+10.
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.

@@ -238,6 +238,6 @@ Intel遵循[Tick-Tock策略](../Page/Intel_Tick-Tock.md "wikilink")，於2011年
 16.
 17. [Nehalem平台极限超频存在电压限制](http://news.mydrivers.com/1/116/116454.htm)
 18. [X58主板可以支持处理器、内存电压异步](http://news.mydrivers.com/1/116/116844.htm)
-19. [Intel改变策略，非XE版Core i7也能调内存频率](http://www.expreview.com/news/hard/2008-09-19/1221808396d10044.html)
+19.
 20.
 21. [Westmere-EX 10 core CPUs announced by Intel at IDF](http://www.tweaktown.com/news/16724/westmere_ex_10_core_cpus_announced_by_intel_at_idf/index.html)

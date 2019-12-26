@@ -8,7 +8,7 @@
 
 ## 大众文化
 
-美国作家[霍华德·菲利普·洛夫克拉夫特的短篇小说](https://zh.wikipedia.org/wiki/霍华德·菲利普·洛夫克拉夫特 "wikilink")《Beyond the Wall of Sleep》中曾提到这颗名噪一时的新星。
+美国作家[霍华德·菲利普·洛夫克拉夫特的短篇小说](https://zh.wikipedia.org/wiki/霍华德·菲利普·洛夫克拉夫特 "wikilink")《[翻越睡夢之牆](https://zh.wikipedia.org/wiki/翻越睡夢之牆 "wikilink")》中曾提到这颗名噪一时的新星。
 
 ## 参考资料
 
@@ -23,5 +23,4 @@
 [Category:新星](https://zh.wikipedia.org/wiki/Category:新星 "wikilink") [Category:新星遗迹](https://zh.wikipedia.org/wiki/Category:新星遗迹 "wikilink") [Category:英仙座](https://zh.wikipedia.org/wiki/Category:英仙座 "wikilink") [Category:1901年发现的新星](https://zh.wikipedia.org/wiki/Category:1901年发现的新星 "wikilink") [Category:以变星命名法命名的天体](https://zh.wikipedia.org/wiki/Category:以变星命名法命名的天体 "wikilink") [Category:HD和HDE天體](https://zh.wikipedia.org/wiki/Category:HD和HDE天體 "wikilink")
 
 1.  [GK Persei](http://www.aavso.org/vsots_gkper)
-
 2.

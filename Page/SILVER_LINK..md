@@ -333,13 +333,13 @@ SILVER LINK.設立於2007年12月，是動畫公司フロントライン（FRONT
 <tr class="odd">
 <td><p><a href="../Page/喜歡本大爺的竟然就妳一個？.md" title="wikilink">喜歡本大爺的竟然就妳一個？</a></p></td>
 <td></td>
-<td><p>10月2日－預定</p></td>
+<td><p>10月2日－播放中</p></td>
 <td></td>
 <td><p>輕小說</p></td>
 <td><p>CONNECT獨立製作</p></td>
 </tr>
 <tr class="even">
-<td><p>時期未定</p></td>
+<td><p>2020年</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -350,7 +350,7 @@ SILVER LINK.設立於2007年12月，是動畫公司フロントライン（FRONT
 <td><p><a href="https://zh.wikipedia.org/wiki/怕痛的我，把防御力點滿就對了" title="wikilink">怕痛的我，把防御力點滿就對了</a></p></td>
 <td></td>
 <td></td>
-<td><p>大沼心<br />
+<td><p><a href="../Page/大沼心.md" title="wikilink">大沼心</a><br />
 湊未來</p></td>
 <td><p>輕小說</p></td>
 <td></td>

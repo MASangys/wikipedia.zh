@@ -2,15 +2,15 @@
 
 2012年7月30日，AOA釋出首張單曲專辑《[Angels' Story](../Page/Angels'_Story.md "wikilink")》主打歌《Elvis》MV。之後於8月9日於[M\! Countdown出道並進行了首次舞台亮相](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")，次日于[KBS音樂银行表演](https://zh.wikipedia.org/wiki/KBS音樂银行 "wikilink")。10月第二張單曲專輯發行《[Wanna Be](../Page/Wanna_Be_\(AOA單曲\).md "wikilink")》。2013年，AOA發行《MOYA》及《[Red Motion](../Page/RED_MOTION.md "wikilink")》。2014年，主打性感風的《[短裙](../Page/短裙_\(AOA单曲\).md "wikilink")》和《[短髮](https://zh.wikipedia.org/wiki/短髮_\(AOA迷你專輯\) "wikilink")》讓AOA的人氣逐漸上升，且前者使該组合獲得了首個一位。
 
-2014年10月，AOA发行首张日文单曲专辑《短裙》，在日本出道。次月发行的《[猫步轻悄](../Page/猫步轻悄.md "wikilink")》使AOA人气再度高涨。2015年2月，AOA发行《猫步轻悄》的日语版。6月，AOA发行第三张迷你专辑《[怦然心動](https://zh.wikipedia.org/wiki/怦然心動_\(AOA迷你專輯\) "wikilink")》，并首次发布中文歌曲。[KCON 2015期间](https://zh.wikipedia.org/wiki/KCON "wikilink")，AOA首次于美国亮相。2015年11月，AOA发行首张日语正规专辑《Ace of Angels》，再度进军日本。2016年5月，AOA发行第四张迷你专辑《Good Luck》，後發行日語專輯《Run Way》。2017年1月1日發行韓語正規專輯《[Angel's Knock](../Page/ANGEL'S_KNOCK_\(AOA專輯\).md "wikilink")》歌曲《[Excuse me](../Page/ANGEL'S_KNOCK_\(AOA專輯\).md "wikilink")》和《[Bing Bing](../Page/ANGEL'S_KNOCK_\(AOA專輯\).md "wikilink")》。2018年5月28日AOA发行第五张迷你专辑《[Bingle Bangle](https://zh.wikipedia.org/wiki/Bingle_Bangle_\(AOA迷你專輯\) "wikilink")》。2019年8月，出演綜藝節目《Queendom》。
+2014年10月，AOA发行首张日文单曲专辑《短裙》，在日本出道。次月发行的《[猫步轻悄](../Page/猫步轻悄.md "wikilink")》使AOA人气再度高涨。2015年2月，AOA发行《猫步轻悄》的日语版。6月，AOA发行第三张迷你专辑《[怦然心動](https://zh.wikipedia.org/wiki/怦然心動_\(AOA迷你專輯\) "wikilink")》，并首次发布中文歌曲。[KCON 2015期间](https://zh.wikipedia.org/wiki/KCON "wikilink")，AOA首次于美国亮相。2015年11月，AOA发行首张日语正规专辑《Ace of Angels》，再度进军日本。2016年5月，AOA发行第四张迷你专辑《Good Luck》，後發行日語專輯《Run Way》。2017年1月1日發行韓語正規專輯《[Angel's Knock](../Page/ANGEL'S_KNOCK_\(AOA專輯\).md "wikilink")》歌曲《[Excuse me](../Page/ANGEL'S_KNOCK_\(AOA專輯\).md "wikilink")》和《[Bing Bing](../Page/ANGEL'S_KNOCK_\(AOA專輯\).md "wikilink")》。2018年5月28日AOA发行第五张迷你专辑《[Bingle Bangle](https://zh.wikipedia.org/wiki/Bingle_Bangle_\(AOA迷你專輯\) "wikilink")》。2019年8月，出演綜藝節目《Queendom》。2019年11月26日發行第六張迷你專輯 《[New Moon](https://zh.wikipedia.org/wiki/NEW_MOON_\(AOA迷你專輯\) "wikilink")》。
 
 ## 经历
 
 ### 2012－2013年：出道
 
-2012年7月16日至23日，AOA的8名成员[雪炫](../Page/雪炫.md "wikilink")、[草娥](https://zh.wikipedia.org/wiki/草娥 "wikilink")、[惠晶](../Page/惠晶.md "wikilink")、[澯美](../Page/澯美.md "wikilink")、[酉奈](../Page/酉奈.md "wikilink")、[珉娥](../Page/珉娥.md "wikilink")、[智珉](../Page/智珉.md "wikilink")和[有庆依次通过照片公开](https://zh.wikipedia.org/wiki/有庆 "wikilink")\[1\]\[2\]。AOA以舞团形式公开，一些成员也演奏乐器。
+2012年7月16日至23日，AOA的8名成员[雪炫](../Page/雪炫.md "wikilink")、[草娥](https://zh.wikipedia.org/wiki/草娥 "wikilink")、[惠晶](../Page/惠晶.md "wikilink")、[澯美](../Page/澯美.md "wikilink")、[酉奈](../Page/酉奈.md "wikilink")、[珉娥](../Page/珉娥.md "wikilink")、[智珉](../Page/智珉.md "wikilink")和有庆依次通过照片公开\[1\]\[2\]。AOA以舞团形式公开，一些成员也演奏乐器。
 
-FNC解释了她们首次亮相的含义：、[草娥](https://zh.wikipedia.org/wiki/草娥 "wikilink")、[酉奈](../Page/酉奈.md "wikilink")、[惠晶](../Page/惠晶.md "wikilink")、[珉娥](../Page/珉娥.md "wikilink")、[雪炫](../Page/雪炫.md "wikilink")、[澯美](../Page/澯美.md "wikilink")以及队长[智珉](../Page/智珉.md "wikilink")为“全天使”\[3\]\[4\]\[5\]\[6\]\[7\]\[8\]\[9\]，而[有庆则为](https://zh.wikipedia.org/wiki/有庆 "wikilink")“半天使”，因为她只在组合以乐队形式活动时参加\[10\]。这也是AOA自称“7+1”组合的原因\[11\]。
+FNC解释了她们首次亮相的含义：[草娥](https://zh.wikipedia.org/wiki/草娥 "wikilink")、[酉奈](../Page/酉奈.md "wikilink")、[惠晶](../Page/惠晶.md "wikilink")、[珉娥](../Page/珉娥.md "wikilink")、[雪炫](../Page/雪炫.md "wikilink")、[澯美](../Page/澯美.md "wikilink")以及队长[智珉](../Page/智珉.md "wikilink")为“全天使”\[3\]\[4\]\[5\]\[6\]\[7\]\[8\]\[9\]，而[有庆则为](https://zh.wikipedia.org/wiki/有庆 "wikilink")“半天使”，因为她只在组合以乐队形式活动时参加\[10\]。这也是AOA自称“7+1”组合的原因\[11\]。
 
 首张专辑《Angel's Story》于7月28日官方发布两天前泄露\[12\]，主打歌《Elvis》的MV于7月30日释出。之后AOA于8月9日于[M\! Countdown进行了首次舞台亮相](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")，次日于[KBS音乐银行表演](https://zh.wikipedia.org/wiki/KBS音乐银行 "wikilink")。
 
@@ -38,7 +38,7 @@ FNC解释了她们首次亮相的含义：、[草娥](https://zh.wikipedia.org/w
 
 [KCON 2015期间](https://zh.wikipedia.org/wiki/KCON "wikilink")，AOA分别于8月2日和8日在洛杉矶和纽约进行演出，这是该组合首次在美国亮相。同月，消息称AOA将在日本发行首张正规专辑，包括8首以前的日语单曲和3首全新的歌曲，主打歌为《Oh Boy》\[39\]。专辑《Ace of Angels》于10月14日发行\[40\]。12月18日，AOA于日本东京[新木场Studio](../Page/新木場.md "wikilink") Coast举行首场演场会《Angels World - Oh Boy Academy》\[41\]。
 
-2015年12月15日，[草娥以](https://zh.wikipedia.org/wiki/草娥 "wikilink")《Flame》一曲solo出道。
+2015年12月15日[草娥以](https://zh.wikipedia.org/wiki/草娥 "wikilink")《Flame》一曲solo出道。
 
 ### 2016年：AOA Cream、《Good Luck》、有庆退出
 
@@ -52,11 +52,11 @@ FNC解释了她们首次亮相的含义：、[草娥](https://zh.wikipedia.org/w
 
 ### 2017年：首張正規專輯《ANGEL'S KNOCK》、草娥退出
 
-1月2日，發行正規專輯《ANGEL'S KNOCK》\[56\]。專輯共收錄十首歌曲，並以兩首主打曲《Excuse Me》及《Bing Bing》正式回歸\[57\]。
+1月2日發行正規專輯《ANGEL'S KNOCK》\[56\]。專輯共收錄十首歌曲，並以兩首主打曲《Excuse Me》及《Bing Bing》正式回歸\[57\]。
 
 5月3日，[AOA於](https://zh.wikipedia.org/wiki/AOA_\(韓國\) "wikilink")「漣川全谷裡舊石器慶典」表演，[草娥缺席](https://zh.wikipedia.org/wiki/草娥 "wikilink")，其先前演唱歌曲的部分亦改由[酉奈](../Page/酉奈.md "wikilink")及[惠晶](../Page/惠晶.md "wikilink")進行重新錄製。
 
-6月22日，成員[草娥於個人Instagram上正式宣布退出AOA](https://zh.wikipedia.org/wiki/草娥 "wikilink")；[草娥表示退隊原因是目前自己因失眠跟憂鬱症正在接受藥物治療](https://zh.wikipedia.org/wiki/草娥 "wikilink")，兩年前就開始減少活動，但察覺不是身體上的疲勞，而全面停止了活動，因此決定退出活動\[58\]\[59\]。而後[FNC娛樂](../Page/FNC娛樂.md "wikilink")官方聲明，對於[草娥退團此事並不知情](https://zh.wikipedia.org/wiki/草娥 "wikilink")，一切尚在討論中，[草娥退團仍不是確定的事實](https://zh.wikipedia.org/wiki/草娥 "wikilink")。\[60\]《首爾體育》刊出[草娥與Najin產業代表李石鎮從日本旅行後回國時在金浦機場被拍的照片](https://zh.wikipedia.org/wiki/草娥 "wikilink")\[61\]。
+6月22日，成員[草娥於個人Instagram上正式宣布退出AOA](https://zh.wikipedia.org/wiki/草娥 "wikilink")；[草娥表示退隊原因是目前自己因失眠跟憂鬱症正在接受藥物治療](https://zh.wikipedia.org/wiki/草娥 "wikilink")，兩年前就開始減少活動，但察覺不是身體上的疲勞，而全面停止了活動，因此決定退出團體\[58\]\[59\]。而後[FNC娛樂](../Page/FNC娛樂.md "wikilink")官方聲明，對於[草娥退團此事並不知情](https://zh.wikipedia.org/wiki/草娥 "wikilink")，一切尚在討論中，[草娥退團仍不是確定的事實](https://zh.wikipedia.org/wiki/草娥 "wikilink")。\[60\]《首爾體育》刊出[草娥與Najin產業代表李石鎮從日本旅行後回國時在金浦機場被拍的照片](https://zh.wikipedia.org/wiki/草娥 "wikilink")\[61\]。
 
 6月23日，[草娥在個人SNS發文](https://zh.wikipedia.org/wiki/草娥 "wikilink")，再親自表示宣布退團與個人感情無關，本人也沒有懷孕或墮胎\[62\]\[63\]。亦指發文前曾與FNC調節，SNS內容亦是經公司修改後才發文，不明白為何公司會說不知情。
 
@@ -78,11 +78,15 @@ FNC解释了她们首次亮相的含义：、[草娥](https://zh.wikipedia.org/w
 
 5月28日，六人體制以主打曲《Bingle Bangle（빙글뱅글）》正式回歸
 
-### 2019年：珉娥退出、參加綜藝節目《Queendom》
+### 2019年：珉娥退出、參加綜藝節目《Queendom》、《NEW MOON》
 
-5月13日，公司宣布全員合約到期，[珉娥](../Page/珉娥.md "wikilink")不續約往演藝圈發展，因此退出組合。其餘五人已完成續約，往後組合以五人形式進行活動。\[68\]
+5月13日，公司宣布全員合約到期，[珉娥](../Page/珉娥.md "wikilink")不續約，因此退出組合。其餘五人已完成續約，往後組合以五人形式進行活動。\[68\]
 
 8月29日，參加韓國綜藝節目《[Queendom](../Page/Queendom_\(韓國綜藝\).md "wikilink")》。
+
+10月23日，FNC娛樂宣布組合確定在11月以5人組回歸，新曲MV已經拍攝完畢。
+
+11月14日，確定以迷你6輯《NEW MOON》於11月26日回歸歌壇，主打曲為《날보러와요（Come See Me）》。
 
 ## 成員列表
 
@@ -165,6 +169,7 @@ PlotData =
   - 《[怦然心動](https://zh.wikipedia.org/wiki/怦然心動_\(AOA迷你專輯\) "wikilink")》（2015）
   - 《[Good Luck](https://zh.wikipedia.org/wiki/Good_Luck_\(AOA迷你專輯\) "wikilink")》（2016）
   - 《[Bingle Bangle](https://zh.wikipedia.org/wiki/Bingle_Bangle_\(AOA迷你專輯\) "wikilink")》（2018）
+  - 《[NEW MOON](https://zh.wikipedia.org/wiki/NEW_MOON_\(AOA迷你專輯\) "wikilink")》（2019）
 
 ### 韓語單曲
 
@@ -172,14 +177,15 @@ PlotData =
   - 《[Wanna Be](../Page/Wanna_Be_\(AOA單曲\).md "wikilink")》(2012)
   - 《[RED MOTION](../Page/RED_MOTION.md "wikilink")》(2013)
   - 《[短裙](https://zh.wikipedia.org/wiki/短裙_\(AOA單曲\) "wikilink")》(2014)
+  - 《[Sorry](https://zh.wikipedia.org/wiki/Sorry_\(AOA單曲\) "wikilink")》(2019)
 
 ### 日語單曲
 
-  - 《[ミニスカート](https://zh.wikipedia.org/wiki/ミニスカート "wikilink")》(2014)
-  - 《[Like a Cat](https://zh.wikipedia.org/wiki/Like_a_Cat "wikilink")》(2015)
-  - 《[胸キュン](https://zh.wikipedia.org/wiki/胸キュン "wikilink")》(2015)
+  - 《[ミニスカート](https://zh.wikipedia.org/wiki/短裙_\(AOA單曲\)_#日本盤 "wikilink")》(2014)
+  - 《[Like a Cat](https://zh.wikipedia.org/wiki/猫步轻悄_#日本盤 "wikilink")》(2015)
+  - 《[胸キュン](https://zh.wikipedia.org/wiki/怦然心動_\(AOA迷你專輯\)_#日本盤 "wikilink")》(2015)
   - 《[愛をちょうだい](https://zh.wikipedia.org/wiki/愛をちょうだい "wikilink")》(2016)
-  - 《[Good Luck](https://zh.wikipedia.org/wiki/Good_Luck "wikilink")》(2016)
+  - 《[Good Luck](https://zh.wikipedia.org/wiki/Good_Luck_\(AOA迷你專輯\)_#日本盤 "wikilink")》(2016)
 
 ### 日語正規專輯
 
@@ -307,9 +313,9 @@ PlotData =
 </tr>
 <tr class="even">
 <td><p>6月29日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p><a href="../Page/兩天一夜.md" title="wikilink">兩天一夜</a>S3</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a> <a href="../Page/智珉.md" title="wikilink">智珉</a> <a href="../Page/雪炫.md" title="wikilink">雪炫</a></p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -349,14 +355,14 @@ PlotData =
 </tr>
 <tr class="even">
 <td><p>8月12日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/A_Song_For_You" title="wikilink">A Song For YouS</a>3</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a> <a href="../Page/智珉.md" title="wikilink">智珉</a> <a href="../Page/酉奈.md" title="wikilink">酉奈</a> <a href="../Page/惠晶.md" title="wikilink">惠晶</a> <a href="../Page/珉娥.md" title="wikilink">珉娥</a> <a href="../Page/澯美.md" title="wikilink">澯美</a></p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>10月10日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/KBC" title="wikilink">KBC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a></p></td>
 <td><p><a href="../Page/我是男人.md" title="wikilink">我是男人</a></p></td>
 <td><p>全員</p></td>
 <td></td>
@@ -393,7 +399,7 @@ PlotData =
 <td><p>11月26日</p></td>
 <td><p>GLANCE TV</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/GLANCE_STAR_ATTACK" title="wikilink">GLANCE STAR ATTACK</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a> <a href="../Page/智珉.md" title="wikilink">智珉</a> <a href="../Page/酉奈.md" title="wikilink">酉奈</a> <a href="../Page/惠晶.md" title="wikilink">惠晶</a> <a href="../Page/雪炫.md" title="wikilink">雪炫</a> <a href="../Page/澯美.md" title="wikilink">澯美</a></p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -447,16 +453,16 @@ PlotData =
 </tr>
 <tr class="even">
 <td><p>1月25日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/出發吧!夢之隊" title="wikilink">出發吧!夢之隊S</a>2</p></td>
 <td><p><a href="../Page/酉奈.md" title="wikilink">酉奈</a></p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1月30日 - 4月3日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p><a href="../Page/勇敢的家族.md" title="wikilink">勇敢的家族</a></p></td>
 <td><p><a href="../Page/雪炫.md" title="wikilink">雪炫</a></p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -468,16 +474,16 @@ PlotData =
 </tr>
 <tr class="odd">
 <td><p>1月29日－3月26日</p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Unpretty_Rap_Star" title="wikilink">Unpretty Rap Star</a></p></td>
 <td><p><a href="../Page/智珉.md" title="wikilink">智珉</a></p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1月29日</p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/鄭容和的Hologram" title="wikilink">鄭容和的Hologram</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a> <a href="../Page/酉奈.md" title="wikilink">酉奈</a> <a href="../Page/惠晶.md" title="wikilink">惠晶</a></p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -489,16 +495,16 @@ PlotData =
 </tr>
 <tr class="even">
 <td><p>2月12日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Happy_Together" title="wikilink">Happy Together</a></p></td>
 <td><p><a href="../Page/雪炫.md" title="wikilink">雪炫</a></p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2月20日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p>新春特輯 <a href="https://zh.wikipedia.org/wiki/王者的游戲" title="wikilink">王者的游戲</a></p></td>
 <td><p><a href="../Page/酉奈.md" title="wikilink">酉奈</a> <a href="../Page/智珉.md" title="wikilink">智珉</a></p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -510,9 +516,9 @@ PlotData =
 </tr>
 <tr class="odd">
 <td><p>2月28日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/MBS" title="wikilink">MBS</a></p></td>
 <td><p><a href="../Page/My_Little_Television.md" title="wikilink">My Little Television試播</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a></p></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -533,21 +539,21 @@ PlotData =
 <td><p>4月26日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/SBS" title="wikilink">SBS</a></p></td>
 <td><p><a href="../Page/Running_Man.md" title="wikilink">Running Man</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a></p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>5月2日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBS" title="wikilink">MBS</a></p></td>
 <td><p><a href="../Page/My_Little_Television.md" title="wikilink">My Little TelevisionEP</a>-2 (MLT-01-下半部)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a></p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>5月9日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/MBS" title="wikilink">MBS</a></p></td>
 <td><p><a href="../Page/My_Little_Television.md" title="wikilink">My Little TelevisionEP</a>-3 (MLT-02-上半部)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a></p></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -580,9 +586,9 @@ PlotData =
 </tr>
 <tr class="odd">
 <td><p>5月30日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/一週偶像" title="wikilink">一週偶像</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a> <a href="../Page/智珉.md" title="wikilink">智珉</a></p></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -608,16 +614,16 @@ PlotData =
 </tr>
 <tr class="odd">
 <td><p>7月4日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p><a href="../Page/演藝家中介.md" title="wikilink">演藝家中介</a></p></td>
 <td><p>AOA回歸訪談</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>7月15日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p>维他命<a href="https://zh.wikipedia.org/wiki/비타민" title="wikilink">비타민</a></p></td>
 <td><p><a href="../Page/酉奈.md" title="wikilink">酉奈</a> <a href="../Page/智珉.md" title="wikilink">智珉</a></p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -636,16 +642,16 @@ PlotData =
 </tr>
 <tr class="odd">
 <td><p>9月25日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/二重唱歌謠祭" title="wikilink">二重唱歌謠祭</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a></p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>9月28日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p>中秋特輯<a href="https://zh.wikipedia.org/wiki/全國偶像歌曲大會" title="wikilink">全國偶像歌曲大會</a></p></td>
-<td><p>全體</p></td>
+<td><p>全員</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -657,16 +663,16 @@ PlotData =
 </tr>
 <tr class="even">
 <td><p>10月10日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/MBS" title="wikilink">MBS</a></p></td>
 <td><p><a href="../Page/My_Little_Television.md" title="wikilink">My Little TelevisionEP</a>-2 (MLT-12-下半部)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a></p></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>11月6日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/超人回来了X-File" title="wikilink">超人回来了X-File</a></p></td>
-<td><p><a href="../Page/智珉.md" title="wikilink">智珉</a>旁白</p></td>
+<td><p><a href="../Page/智珉.md" title="wikilink">智珉</a> 旁白</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -680,7 +686,7 @@ PlotData =
 <td><p>11月22日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p><a href="../Page/兩天一夜.md" title="wikilink">兩天一夜</a>S3</p></td>
-<td><p><a href="../Page/雪炫.md" title="wikilink">雪炫</a>早安天使</p></td>
+<td><p><a href="../Page/雪炫.md" title="wikilink">雪炫</a> 早安天使</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -706,9 +712,9 @@ PlotData =
 </tr>
 <tr class="odd">
 <td><p>2月6日</p></td>
-<td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
 <td><p>春節特輯-社長在看</p></td>
 <td><p>全員</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -727,16 +733,16 @@ PlotData =
 </tr>
 <tr class="even">
 <td><p>2月15日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td></td>
 <td><p><a href="../Page/酉奈.md" title="wikilink">酉奈</a></p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2月15日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p><a href="../Page/大國民脫口秀-你好.md" title="wikilink">大國民脫口秀-你好</a></p></td>
 <td><p><a href="../Page/惠晶.md" title="wikilink">惠晶</a> <a href="../Page/澯美.md" title="wikilink">澯美</a></p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -748,23 +754,23 @@ PlotData =
 </tr>
 <tr class="odd">
 <td><p>3月30日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/黃金漁場_Radio_Star" title="wikilink">黃金漁場 Radio Star</a></p></td>
 <td><p><a href="../Page/雪炫.md" title="wikilink">雪炫</a></p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>4月3日</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
 <td><p><a href="../Page/Running_Man.md" title="wikilink">Running Man</a></p></td>
-<td><p><a href="../Page/雪炫.md" title="wikilink">雪炫</a></p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>4月8日、15日、22日、29日</p></td>
-<td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
 <td><p><a href="../Page/叢林的法則.md" title="wikilink">叢林的法則</a></p></td>
-<td><p><a href="../Page/雪炫.md" title="wikilink">雪炫</a></p></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -778,21 +784,21 @@ PlotData =
 <td><p>5月20日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/柳熙烈的寫生簿" title="wikilink">柳熙烈的寫生簿</a></p></td>
-<td><p>全員</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>5月26日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p><a href="../Page/歡樂在一起.md" title="wikilink">歡樂在一起</a></p></td>
 <td><p><a href="../Page/雪炫.md" title="wikilink">雪炫</a> <a href="../Page/澯美.md" title="wikilink">澯美</a></p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>6月2日、9日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/維他命" title="wikilink">維他命</a></p></td>
 <td><p><a href="../Page/酉奈.md" title="wikilink">酉奈</a> <a href="../Page/惠晶.md" title="wikilink">惠晶</a> <a href="../Page/珉娥.md" title="wikilink">珉娥</a> <a href="../Page/澯美.md" title="wikilink">澯美</a></p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -825,9 +831,9 @@ PlotData =
 </tr>
 <tr class="even">
 <td><p>12月25日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/超人回來了" title="wikilink">超人回來了</a></p></td>
 <td><p><a href="../Page/惠晶.md" title="wikilink">惠晶</a> <a href="../Page/雪炫.md" title="wikilink">雪炫</a></p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -874,9 +880,9 @@ PlotData =
 </tr>
 <tr class="odd">
 <td><p>1月11日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p><a href="../Page/TRICK&amp;TRUE.md" title="wikilink">TRICK&amp;TRUE</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a> <a href="../Page/惠晶.md" title="wikilink">惠晶</a> <a href="../Page/珉娥.md" title="wikilink">珉娥</a></p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -890,7 +896,7 @@ PlotData =
 <td><p>1月25日</p></td>
 <td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/請給一頓飯Show" title="wikilink">請給一頓飯Show</a></p></td>
-<td><p><a href="../Page/雪炫.md" title="wikilink">雪炫</a></p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -953,7 +959,7 @@ PlotData =
 <td><p>7月28日、29日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td></td>
-<td><p><a href="../Page/智珉.md" title="wikilink">智珉</a></p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -974,7 +980,7 @@ PlotData =
 <td><p>3月19日</p></td>
 <td><p><a href="../Page/OnStyle.md" title="wikilink">On Style</a>, OLIVE</p></td>
 <td><p>myBOX</p></td>
-<td><p><a href="../Page/智珉.md" title="wikilink">智珉</a></p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1014,9 +1020,9 @@ PlotData =
 </tr>
 <tr class="odd">
 <td><p>6月3日</p></td>
-<td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a></p></td>
 <td><p><a href="../Page/團結才能火.md" title="wikilink">團結才能火</a></p></td>
 <td><p><a href="../Page/雪炫.md" title="wikilink">雪炫</a></p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1028,9 +1034,9 @@ PlotData =
 </tr>
 <tr class="odd">
 <td><p>6月4日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/KBS第2頻道" title="wikilink">KBS2 TV</a></p></td>
 <td><p><a href="../Page/大國民脫口秀-你好.md" title="wikilink">大國民脫口秀-你好</a></p></td>
 <td><p><a href="../Page/珉娥.md" title="wikilink">珉娥</a>、<a href="../Page/雪炫.md" title="wikilink">雪炫</a></p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1093,7 +1099,7 @@ PlotData =
 <td><p>6月30日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p><a href="../Page/意外的Q.md" title="wikilink">意外的Q</a></p></td>
-<td><p><a href="../Page/雪炫.md" title="wikilink">雪炫</a></p></td>
+<td><p><a href="../Page/智珉.md" title="wikilink">智珉</a>、<a href="../Page/雪炫.md" title="wikilink">雪炫</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1133,9 +1139,9 @@ PlotData =
 </tr>
 <tr class="even">
 <td><p>1月27日</p></td>
-<td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
 <td><p><a href="../Page/Running_Man.md" title="wikilink">Running Man</a></p></td>
 <td><p><a href="../Page/智珉.md" title="wikilink">智珉</a>、<a href="../Page/珉娥.md" title="wikilink">珉娥</a></p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1157,6 +1163,27 @@ PlotData =
 <td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="../Page/Queendom_(韓國綜藝).md" title="wikilink">Queendom</a></p></td>
 <td><p>全員</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>11月23日</p></td>
+<td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a></p></td>
+<td><p><a href="../Page/認識的哥哥.md" title="wikilink">認識的哥哥</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>11月26日</p></td>
+<td><p><a href="../Page/Idol_Room.md" title="wikilink">Idol Room</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>11月30日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/驚人的週六" title="wikilink">驚人的週六</a></p></td>
+<td><p><a href="../Page/智珉.md" title="wikilink">智珉</a>、<a href="../Page/雪炫.md" title="wikilink">雪炫</a></p></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>
@@ -1459,6 +1486,12 @@ PlotData =
 <td><p>Bingle Bangle</p></td>
 </tr>
 <tr class="even">
+<td><p>2019年</p></td>
+</tr>
+<tr class="odd">
+<td><p>NEW MOON</p></td>
+</tr>
+<tr class="even">
 <td><ul>
 <li>「(1)」：兩星期冠軍</li>
 </ul>
@@ -1538,151 +1571,78 @@ PlotData =
 [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:日本流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日本流行音樂歌手 "wikilink") [Category:日語歌手](https://zh.wikipedia.org/wiki/Category:日語歌手 "wikilink") [Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
 16.
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36. [AOA plan getaway to Hainan for their first travel reality appearance on 'One Fine Day'\!](http://www.allkpop.com/article/2015/06/aoa-plan-getaway-to-hainan-for-their-first-travel-reality-appearance-on-one-fine-day)
-
 37. [AOAvs씨스타, 오는 22일 동시 쇼케이스 '누가 웃을까'](http://media.daum.net/entertain/culture/newsview?newsid=20150606144325719)
-
 38.
-
 39.
-
 40.
-
 41.
-
 42. <http://www.soompi.com/2016/01/01/aoa-shares-plans-for-new-album-in-2016-and-aoa-black-comeback/>
-
 43.
-
 44.
-
 45.
-
 46.
-
 47.
-
 48.
-
 49.
-
 50.
-
 51.
-
 52.
-
 53.
-
 54.
-
 55.
-
 56. [AOA回歸了！出道4年首張正規專輯1月2日公開！](http://www.vlovekpop.com/20161221-aoa/) vlovekpop
-
 57. [AOA正專雙主打！個人預告雙重風格散發性感魅力！](http://www.vlovekpop.com/20161228-aoa/) vlovekpop
-
 58. [[草娥確定退團體AOA](https://zh.wikipedia.org/wiki/草娥 "wikilink")！　苦訴「治療憂鬱症、失眠2年」](http://star.ettoday.net/news/951076)
-
 59. [[草娥IG投震撼彈](https://zh.wikipedia.org/wiki/草娥 "wikilink") 憂鬱退出AOA](http://www.chinatimes.com/realtimenews/20170622005826-260404)
-
 60. [草娥透過 Instagram 宣布退出 AOA](http://kpopn.niusnews.com/=K0lvgvw6) kpopn
-
 61. [초아, 남친과 日여행 귀국길 포착...이번엔 어떤 반응?](http://entertain.naver.com/read?oid=468&aid=0000277114&cid=1064791&gid=999339)
-
 62. [[草娥SNS再發文](https://zh.wikipedia.org/wiki/草娥 "wikilink") 親承未戀愛亦未懷孕](http://www.allthatstar.com/tw/view.php?action=5205&postID=343034)
-
 63. [[草娥退出AOA](https://zh.wikipedia.org/wiki/草娥 "wikilink")　被爆同CEO遊日傳婚](http://hk.on.cc/hk/bkn/cnt/entertainment/20170623/bkn-20170623105738999-0623_00862_001.html)
-
 64. [AOA公司發聲明，確定[草娥退團](https://zh.wikipedia.org/wiki/草娥 "wikilink")！粉絲憂心AOA前途](http://www.koreastardaily.com/tc/news/95912)
-
 65. \[<https://www.kpopn.com/2017/11/18/>[珉娥](../Page/珉娥.md "wikilink")：[草娥退出](https://zh.wikipedia.org/wiki/草娥 "wikilink")-aoa-後偶爾還會有聯絡，我能理解她的決定/ [珉娥](../Page/珉娥.md "wikilink")：[草娥退出](https://zh.wikipedia.org/wiki/草娥 "wikilink") AOA 後偶爾還會有聯絡，我能理解她的決定\]
-
 66. [AOA終於要回歸啦！ 6人組重新出發，有望5月發新歌](https://www.koreastardaily.com/tc/news/104709)
-
 67. [六人組AOA重新出發，確定5月28日回歸！](https://www.koreastardaily.com/tc/news/105377)
-
 68.
-
 69.
-
 70.
-
 71.
-
 72.
-
 73.
-
 74.
-
 75.
-
 76.

@@ -27,23 +27,15 @@ All Stars很快就被大批专业篮球选手穿着并且为所有怀有抱负�
 [Category:1917年面世](https://zh.wikipedia.org/wiki/Category:1917年面世 "wikilink") [Category:鞋類品牌](https://zh.wikipedia.org/wiki/Category:鞋類品牌 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
 8.  Hal Peterson. [*Chucks\!: The Phenomenon of Converse Chuck Taylor All Stars*](http://www.amazon.com/Chucks-Phenomenon-Converse-Chuck-Taylor/dp/1602390797). Skyhorse Publishing, 2007.
-
 9.
 10. Michael McCarthy, [“-{Nike}- laces up Converse deal”](http://www.usatoday.com/money/industries/retail/2003-07-09-nike-converse_x.htm).
-
 11.
 12.
 13.

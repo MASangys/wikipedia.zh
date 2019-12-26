@@ -1,4 +1,4 @@
-**Intelligent Systems**（）是日本一家[电子游戏开发公司](https://zh.wikipedia.org/wiki/电子游戏开发公司 "wikilink")，成立于1986年。公司总部曾长期位于[任天堂](../Page/任天堂.md "wikilink")之前[東山區的京都研究中心](../Page/東山區_\(日本\).md "wikilink")，\[1\] 直到2013年10月搬到了[南区附近的一栋独立建筑](../Page/南區_\(京都市\).md "wikilink")。\[2\]
+**Intelligent Systems**（）是日本一家[电子游戏](../Page/电子游戏.md "wikilink")開發商，成立于1986年。公司总部曾长期位于[任天堂](../Page/任天堂.md "wikilink")之前[東山區的京都研究中心](../Page/東山區_\(日本\).md "wikilink")，\[1\] 直到2013年10月搬到了[南区附近的一栋独立建筑](../Page/南區_\(京都市\).md "wikilink")。\[2\]
 
 主要开发软件有[火焰之纹章系列](../Page/火焰之纹章系列.md "wikilink")、[纸片马里奥](../Page/纸片马里奥.md "wikilink")系列、[瓦里奥制造系列还有](https://zh.wikipedia.org/wiki/瓦里奥制造 "wikilink")[任天堂戰爭系列](https://zh.wikipedia.org/wiki/任天堂戰爭 "wikilink")。
 

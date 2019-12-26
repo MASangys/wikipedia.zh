@@ -50,7 +50,7 @@ FN弩炮狙擊步槍的研發目的是參與2009年1月15日[美国](../Page/美
 
 槍機尾部是弩炮狙擊步槍的主要手動保險，當使用[拇指向下按動保險到位就處於保險位置](https://zh.wikipedia.org/wiki/拇指 "wikilink")，保險會卡住[擊針以起到保險作用](../Page/撞針.md "wikilink")；而當使用[拇指向上扳動保險就處於待擊位置](https://zh.wikipedia.org/wiki/拇指 "wikilink")，可以隨時扣動扳機進行射擊。弩炮狙擊步槍亦設有[防跌落保險](https://zh.wikipedia.org/wiki/防跌落保險 "wikilink")（）。防跌落保險可以防止[擊針在此槍不慎摔落或受到各種巨大的撞擊以下釋放並且撞擊](../Page/撞針.md "wikilink")[底火](https://zh.wikipedia.org/wiki/底火 "wikilink")。手動保險和防跌落保險是弩炮狙擊步槍最初帶有的雙重保險系統。
 
-目前版本更改進設計，新增了在狙擊步槍設計史上極其罕見的[握把式保險](https://zh.wikipedia.org/wiki/握把式保險 "wikilink")。該保險位於背部，必需按壓才可發射以減低了[走火機會](https://zh.wikipedia.org/wiki/走火 "wikilink")。新增握把式保險的原因是為了讓使用者在攜帶狙擊步槍進入作戰區域後，槍彈上膛和手動保險向上扳動保險到待擊位置時，供使用者安全攜帶狙擊步槍的最後一道保險，增加攜帶時的安全性。一般而言，握把式保險只在[手枪](../Page/手枪.md "wikilink")（例如[M1911系列和](../Page/M1911手槍.md "wikilink")[HS2000系列](../Page/HS2000手槍.md "wikilink")）和[冲锋枪](../Page/冲锋枪.md "wikilink")（例如[烏茲衝鋒槍](../Page/烏茲衝鋒槍.md "wikilink")系列和[QCW-05系列](../Page/05式微声冲锋枪.md "wikilink")）上使用。不過從弩炮狙擊步槍的[精度測試結果而言](../Page/準確與精密.md "wikilink")，並未發現握把式保險會影響使用者的握持和射擊表現。
+目前版本更改進設計，新增了在狙擊步槍設計史上極其罕見的[握把式保險](https://zh.wikipedia.org/wiki/握把式保險 "wikilink")。該保險位於背部，必需按壓才可發射以減低了[走火機會](https://zh.wikipedia.org/wiki/走火 "wikilink")。新增握把式保險的原因是為了讓使用者在攜帶狙擊步槍進入作戰區域後，槍彈上膛和手動保險向上扳動保險到待擊位置時，供使用者安全攜帶狙擊步槍的最後一道保險，增加攜帶時的安全性。一般而言，握把式保險只在[手枪](../Page/手枪.md "wikilink")（例如[M1911系列和](../Page/M1911手槍.md "wikilink")[HS2000系列](https://zh.wikipedia.org/wiki/HS2000半自動手槍 "wikilink")）和[冲锋枪](../Page/冲锋枪.md "wikilink")（例如[烏茲衝鋒槍](../Page/烏茲衝鋒槍.md "wikilink")系列和[QCW-05系列](../Page/05式微声冲锋枪.md "wikilink")）上使用。不過從弩炮狙擊步槍的[精度測試結果而言](../Page/準確與精密.md "wikilink")，並未發現握把式保險會影響使用者的握持和射擊表現。
 
 ### 槍托
 
@@ -66,7 +66,7 @@ FN弩炮狙擊步槍的研發目的是參與2009年1月15日[美国](../Page/美
 
 早期型弩炮狙擊步槍的彈匣為[黑色](../Page/黑色.md "wikilink")。目前推出版本則是塗裝了與槍身外表塗裝相同顏色的沙色，並且在彈匣上帶有使用彈藥、彈匣容量和生產商的銘文。
 
-早期型弩炮狙擊步槍的[彈匣卡筍設置在](https://zh.wikipedia.org/wiki/彈匣卡筍 "wikilink")[扳機護圈內側](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")，使用者可以射擊手的食指在不離開扳機護圈以下拆卸彈匣及重新裝填。但不知甚麼原因，目前推出版本則是改為設在扳機護圈前方的兩側，讓左右手使用習慣不同的使用者都能快速更換彈匣。
+早期型弩炮狙擊步槍的[彈匣](../Page/彈匣.md "wikilink")卡筍設置在[扳機護環內側](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")，使用者可以射擊手的食指在不離開扳機護圈以下拆卸彈匣及重新裝填。但不知甚麼原因，目前推出版本則是改為設在扳機護圈前方的兩側，讓左右手使用習慣不同的使用者都能快速更換彈匣。
 
 彈匣具有軍用型和警用及民用型兩種，容彈量也不相同，其中軍用型的7.62×51毫米北約口徑和.300溫徹斯特麥格農口徑都是8 、12、16发，而.338拉普麥格農則有有5、6、8 、10發可選；警用及民用型的7.62×51毫米北約口徑有10發、12發和15發可選，.300溫徹斯特麥格農口徑有6發、8發、10發和12發四種可選，而.338拉普麥格農則有5發、6發、8發和9 發四種可選。
 
@@ -180,7 +180,7 @@ FN弩炮狙擊步槍的研發目的是參與2009年1月15日[美国](../Page/美
 
   - —[The Truth About Guns.com－Question of the Day: What’s Your Favorite Gun Brand and Why?](http://www.thetruthaboutguns.com/2016/02/robert-farago/question-of-the-day-whats-your-favorite-gun-brand-and-why/)
 
-  - —[Guns & Ammo.com—FNH Ballista Sniper Rifle](http://www.gunsandammo.com/2011/08/25/fnh-ballista-sniper-rifle/)
+  - —[Guns & Ammo.com—FNH Ballista Sniper Rifle](https://web.archive.org/web/20120520122142/http://www.gunsandammo.com/2011/08/25/fnh-ballista-sniper-rifle/)
 
   - —[Military Times GearScout—FNH unveils its Ballista Precision Sniper Rifle](http://militarytimes.com/blogs/gearscout/2011/01/20/fnh-unveils-its-ballista-precision-sniper-rifle/)
 

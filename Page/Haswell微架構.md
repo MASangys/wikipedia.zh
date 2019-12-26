@@ -146,23 +146,15 @@ Intel為在[高效能計算和高效能資料中心領域對抗](https://zh.wiki
 [Category:X86架構](https://zh.wikipedia.org/wiki/Category:X86架構 "wikilink") [Category:Intel處理器架構](https://zh.wikipedia.org/wiki/Category:Intel處理器架構 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.  [配置英特尔Haswell芯片的PC明年上半年发售](http://www.cnbeta.com/articles/210018.htm)  - cnbeta.com
-
 5.
-
 6.
 7.  [Computex 2013：二合一新體驗，Intel 第四代 Core 處理器將不同以往](http://www.techbang.com/posts/13563-computex-2013-two-in-one-experience-intel-fourth-generation-core-processors-will-be-different-from-the-past)
-
 8.  <http://www.fudzilla.com/home/item/28318-haswell-to-be-10%20-percent-faster-than-ivy-bridge>
-
 9.
 10. [Intel Haswell：“第4代Core i系列”初揭秘](http://diy.pconline.com.cn/cpu/study_cpu/1207/2854170_all.html) - 太平洋電腦網
-
 11.
 12.
 13.
@@ -170,175 +162,102 @@ Intel為在[高效能計算和高效能資料中心領域對抗](https://zh.wiki
 15.
 16.
 17. [Intel to Officially Enable Better Overclocking in Haswell](http://news.softpedia.com/news/Intel-to-Officially-Enable-Better-Overclocking-in-Haswell-293719.shtml)
-
 18. [Intel Haswell Processors to Further Improve Overclocking.](http://www.xbitlabs.com/news/cpu/display/20120919160307_Intel_Haswell_Processors_to_Further_Improve_Overclocking.html)
-
 19. [又能超外频了? Haswell或恢复FSB概念](http://vga.zol.com.cn/348/3484783.html) - zol.com.cn
-
 20.
 21. [更强更低耗 Intel新架构Haswell解析](http://www.inpai.com.cn/doc/HDhard/181950_-3.htm)  - 硬派
-
 22.
-
 23.
 24.
-
 25.
 26.
 27. <http://wccftech.com/intel-shark-bay-platform-roadmap-leaked-haswell-engineering-samples-mass-production-beings-q4-2012/>
-
 28.
 29.
-
 30.
 31.
-
 32.
 33. [Intel Haswell-EP Platform Detailed](http://vr-zone.com/articles/intel-haswell-ep-platform-detailed/16419.html) - VR-Zone
-
 34. [DDR4 Haswell-EP：160W十六核角逐NVIDIA](http://news.mydrivers.com/1/230/230124.htm) - 驅動之家
-
 35.
-
 36.
 37.
 38.
-
 39.
 40.
-
 41. [Haswell i7/i5处理器、8系列芯片组完整规格](http://news.mydrivers.com/1/256/256558.htm) - mydrivers.com
-
 42.
 43.
 44. [Haswell图形性能大爆发：四倍于SNB](http://news.mydrivers.com/1/234/234175.htm) - 驅動之家
-
 45. [最多40个单元：Haswell GPU架构猜想](http://news.mydrivers.com/1/226/226462.htm)
-
 46. [Intel次世代Haswell CPU加強顯示效能造成TDP追高100W？！](http://it.oc.com.tw/ocitview.asp?gitid=2126098)  - itoc
-
 47. [Haswell与XP说再见](http://club.women.sohu.com/it/thread/2b5fnfotht7)  - sohu.com
-
 48. .
-
 49.
 50. [Intel Haswell要逼死小主板厂商](http://news.mydrivers.com/1/242/242753.htm) - 驅動之家
-
 51. [分析：Intel会扼杀主板市场吗？](http://www.cnbeta.com/articles/208108.htm) - pcbeta
-
 52. [CPU整合稳压器 主板厂商今后还能怎么玩](http://vga.zol.com.cn/345/3454395.html) - zol.com.cn
-
 53.
 54.
 55.
-
 56.
 57. [Intel Haswell-EP Brings DDR4, to Eat up to 160W, 190 Amps](http://vr-zone.com/articles/intel-haswell-ep-brings-ddr4-to-eat-up-to-160w-190-amps/16141.html) - VR-Zone
-
 58. [AMD压力暂缓 英特尔Haswell矛头直指NVIDIA](http://news.ccidnet.com/art/3215/20120605/3924703_1.html)  - 賽迪網
-
 59. [Haswell桌面顶级型号TDP 100W左右](http://news.mydrivers.com/1/234/234124.htm) - 驅動之家
-
 60.
 61.
 62. [Haswell明年3-8月连环阵 还有E3-1200 v3](http://news.mydrivers.com/1/233/233962.htm) - 驅動之家
-
 63. [超低压15W：Haswell移动版功耗体系确认](http://news.mydrivers.com/1/233/233943.htm) - 驅動之家
-
 64.
 65. .
-
 66.
-
 67. [怒赞！Intel越来越有良心了](http://news.mydrivers.com/1/307/307735.htm) - 驱动之家
-
 68. <http://www.fudzilla.com/home/item/26786-intel-migrates-to-desktop-multi-chip-module-mcm-with-14nm-broadwell>
-
 69.
 70.
 71. [英特爾8系列晶片組](http://www.digitimes.com.tw/tw/dt/n/shwnws.asp?CnlID=10&Cat=25&Cat1=&id=294429) - digitimes.com.tw
-
 72. [華碩H87/B85主機板發佈新版UEFI BIOS，全面釋放K系列處理器超頻極限](http://www.ithome.com.tw/itadm/article.php?c=81530)  - ithome.com.tw
-
 73. [绝非Z87专利！技嘉H87/B85亦支持超频](http://article.pchome.net/content-1632376.html) - pchome.com.cn
-
 74. [華擎H87/ B85系列主機板超頻限制 DIGITIMES中文網](http://www.digitimes.com.tw/tw/dt/n/shwnws.asp?cnlid=13&id=0000340870_R9P9Y31C69OXUI11SOZUX&cat=40)
-
 75. [H87/B85开始超频吧：华硕官方新BIOS解锁](http://news.mydrivers.com/1/269/269326.htm) - mydrivers.com
-
 76. [Intel發布9款LGA1150主機板 對應明年第二季推出的新處理器](http://mag.udn.com/mag/digital/storypage.jsp?f_ART_ID=417852) - udn.com
-
 77. [Haswell i7/i5处理器、8系列芯片组具体规格](http://www.ithome.com/html/digi/39372.htm)  - ithome.com
-
 78. [USB 3.0缺陷拖累！Intel 下調Haswell主機板首批出貨量…，玩家入手先觀望！](http://www.oc.com.tw/articles/2013-03-15-news-usb3-issue-caused-adjustment-of-intel-haswell-mainboard-volumes.html)  - oc.com.tw
-
 79. [无法软件修复 Haswell USB3.0成为死穴](http://vga.zol.com.cn/360/3602588.html) - 中关村在线
-
 80. [USB3.0有缺陷 Haswell将限量谨慎出货](http://vga.zol.com.cn/360/3602588.html) - zol.com.cn
-
 81. [Intel宣布8系主板芯片组USB3.0故障已修复](http://8080.net/posts/188/21186) - 8080.net
-
 82. [想买没缺陷的8系列主板？再等两三个月](http://mb.zol.com.cn/386/3867170.html) - 中关村在线
-
 83. [分享一下haswell主板C1步进的解决方法](http://bbs.3dmgame.com/thread-3954707-1-1.html) - 3dmgame.com
-
 84. [Windows 8 and Windows Server 2012 update rollup: March 2013](http://support.microsoft.com/kb/2811660) - microsoft.com
-
 85. [Windows 8 and Windows Server 2012 update rollup: April 2013](http://support.microsoft.com/kb/2822241) - microsoft.com
-
 86. [TDP升至84W，首批Haswell处理器命名、频率、GPU型号曝光](http://www.expreview.com/22733.html) - expreview.com
-
 87. [Haswell 行動版首波只有四核心版本，全新 H 系列處理器將加入戰場](http://chinese.vr-zone.com/44251/haswell-mobile-udapte-for-h-series-gt3-cpu-and-naming-rules-changing-12142012/) - VRZone.com
-
 88. [TDP稍升，移动版Haswell处理器M系列三款型号配置曝光](http://www.expreview.com/22789.html) - expreview.com
-
 89.
-
 90.
-
 91.
-
 92.
-
 93.
-
 94.
-
 95.
 96.
 97.
 98. <http://www.fudzilla.com/home/item/28318-haswell-to-be-10%20-percent-faster-than-ivy-bridge>
-
 99. [失望么？Haswell Core i7-4770K性能详尽预览](http://news.mydrivers.com/1/257/257728_all.htm) - mydrivers.com
-
 100. [Intel Haswell CPU效能曝光，處理效能僅微增14%…](http://www.oc.com.tw/articles/2013-03-20-news-intel-haswell-cpu-performance-benchmark-result-leaked.html)  - oc.com.tw
-
 101.
 102.
-
 103.
-
 104.
-
 105.
-
 106.
-
 107.
-
 108.
-
 109.
-
 110.
 111. <http://semiaccurate.com/2012/11/26/intel-kills-off-the-desktop-pcs-go-with-it/>
-
 112. <http://www.maximumpc.com/article/news/intel_says_company_committed_sockets2012>
-
 113. [Intel官方回应BGA封装，可预见的未来依然支持升级](http://www.expreview.com/22613.html) - expreview.com
-
 114. [AMD:可升级的插槽CPU是我们的爱，决不放弃DIY玩家](http://www.expreview.com/22585.html) - expreview.com
-
 115. <http://software.intel.com/en-us/articles/intel-software-development-emulator>
-
 116. <http://download.intel.com/embedded/processor/whitepaper/327831.pdf>

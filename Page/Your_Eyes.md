@@ -33,12 +33,10 @@
 [Category:嵐歌曲](https://zh.wikipedia.org/wiki/Category:嵐歌曲 "wikilink") [Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink") [Category:2012年Oricon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Oricon單曲月榜冠軍作品 "wikilink") [Category:2012年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Oricon單曲週榜冠軍作品 "wikilink") [Category:2012年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2012年Japan_Hot_100冠軍歌曲 "wikilink") [Category:2012年Hot_Singles_Sales冠軍單曲](https://zh.wikipedia.org/wiki/Category:2012年Hot_Singles_Sales冠軍單曲 "wikilink") [Category:日本電視台週六連續劇主題曲](https://zh.wikipedia.org/wiki/Category:日本電視台週六連續劇主題曲 "wikilink")
 
 1.
-
 2.
 3.
 4.
 5.
-
 6.
 7.
 8.

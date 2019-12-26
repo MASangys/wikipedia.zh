@@ -45,5 +45,4 @@ Thompson shell是按照极简主义进行设计的，语法非常简单，即使
 [Category:Unix_shells](https://zh.wikipedia.org/wiki/Category:Unix_shells "wikilink")
 
 1.
-
 2.

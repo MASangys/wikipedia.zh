@@ -146,23 +146,13 @@
 [Category:佛罗里达理工学院校友](https://zh.wikipedia.org/wiki/Category:佛罗里达理工学院校友 "wikilink") [Category:紐約州立大學校友](https://zh.wikipedia.org/wiki/Category:紐約州立大學校友 "wikilink") [Category:美国陆军指挥参谋学院校友](https://zh.wikipedia.org/wiki/Category:美国陆军指挥参谋学院校友 "wikilink") [Category:美国陆军上将](https://zh.wikipedia.org/wiki/Category:美国陆军上将 "wikilink") [Category:美國陸軍女性將領](https://zh.wikipedia.org/wiki/Category:美國陸軍女性將領 "wikilink") [Category:纽约州人](https://zh.wikipedia.org/wiki/Category:纽约州人 "wikilink")
 
 1.  <http://www.publicbackgroundchecks.com/SearchResponse.aspx?view=NM&fn=ann&mn=elizabeth&ln=dunwoody&city=&state=&zip=&dob=19530114&age=>
-
 2.  <http://freepages.genealogy.rootsweb.ancestry.com/~battle/celeb/dunwoody.htm>
-
 3.
-
 4.
-
 5.   Prior to Dunwoody's promotion to general (O-10), the highest-ranking woman in the history of the uniformed services was [Patricia Ann Tracey](https://zh.wikipedia.org/wiki/Patricia_Ann_Tracey "wikilink"), who, as a [vice admiral](https://zh.wikipedia.org/wiki/vice_admiral_\(United_States\) "wikilink") in the [United States Navy](https://zh.wikipedia.org/wiki/United_States_Navy "wikilink"), wore three stars and retired in 2004; [United States Marine Corps](https://zh.wikipedia.org/wiki/United_States_Marine_Corps "wikilink") [lieutenant general](https://zh.wikipedia.org/wiki/lieutenant_general_\(United_States\) "wikilink") [Carol Mutter](https://zh.wikipedia.org/wiki/Carol_Mutter "wikilink") received promotion in the same year (1996) as Tracey but retired earlier (in 1999).
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.

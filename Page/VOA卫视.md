@@ -2,7 +2,7 @@
 
 ## 历史发展
 
-1994年9月，美国之音中文部开播以[卫星电视](../Page/卫星电视.md "wikilink")频道和广播同步播出的华语电视节目。2012年6月18日，美国之音中文电视节目更名为「VOA卫视」。VOA卫视通过[人造卫星播送电视节目](https://zh.wikipedia.org/wiki/人造卫星 "wikilink")，除了及时播报新闻快讯和新闻背景分析之外，还会播出专题节目\[1\]。VOA卫视[汉语普通话节目首播时间为](https://zh.wikipedia.org/wiki/汉语普通话 "wikilink")[北京时间](../Page/北京时间.md "wikilink")每天6:00-7:00和21:00-22:00，并安排多次重播，其中6:00-7:00、8:00-9:00、20:00-22:00的普通话节目为广播电视同步播出。如有重大事件，VOA卫视还会提供[现场直播](https://zh.wikipedia.org/wiki/现场直播 "wikilink")，时间也不限于原有的播出时间。另外，VOA卫视还会播出[自由亚洲电台](../Page/自由亚洲电台.md "wikilink")汉语及[藏语电视节目](https://zh.wikipedia.org/wiki/藏语 "wikilink")，北京时间深夜会播出自由亚洲电台的[粤语](../Page/粤语.md "wikilink")及[维吾尔语](../Page/维吾尔语.md "wikilink")广播。
+[VOA_TV_Chinese_start_broadcasting_first_day.jpg](https://zh.wikipedia.org/wiki/File:VOA_TV_Chinese_start_broadcasting_first_day.jpg "fig:VOA_TV_Chinese_start_broadcasting_first_day.jpg") 1994年9月，美国之音中文部开播以[卫星电视](../Page/卫星电视.md "wikilink")频道和广播同步播出的华语电视节目。2012年6月18日，美国之音中文电视节目更名为「VOA卫视」。VOA卫视通过[人造卫星播送电视节目](https://zh.wikipedia.org/wiki/人造卫星 "wikilink")，除了及时播报新闻快讯和新闻背景分析之外，还会播出专题节目\[1\]。VOA卫视[汉语普通话节目首播时间为](https://zh.wikipedia.org/wiki/汉语普通话 "wikilink")[北京时间](../Page/北京时间.md "wikilink")每天6:00-7:00和21:00-22:00，并安排多次重播，其中6:00-7:00、8:00-9:00、20:00-22:00的普通话节目为广播电视同步播出。如有重大事件，VOA卫视还会提供[现场直播](https://zh.wikipedia.org/wiki/现场直播 "wikilink")，时间也不限于原有的播出时间。另外，VOA卫视还会播出[自由亚洲电台](../Page/自由亚洲电台.md "wikilink")汉语及[藏语电视节目](https://zh.wikipedia.org/wiki/藏语 "wikilink")，北京时间深夜会播出自由亚洲电台的[粤语](../Page/粤语.md "wikilink")及[维吾尔语](../Page/维吾尔语.md "wikilink")广播。
 
 2011年2月，广播理事会在提交2012年[财政预算时](https://zh.wikipedia.org/wiki/财政预算 "wikilink")，曾提议集中财力物力向[数字广播转化](https://zh.wikipedia.org/wiki/数字广播 "wikilink")，并取消中文的短波、中波及衛星電視廣播，只在[互聯網上播出](https://zh.wikipedia.org/wiki/互聯網 "wikilink")。这个计划提出来之后，引发强烈反响。很多媒体都以“美国之音将退出中国大陆”为题进行了报道。對這個計劃持批評態度的人說，在[中華人民共和國政府正在全球擴展國際廣播能力的時候](https://zh.wikipedia.org/wiki/中華人民共和國政府 "wikilink")，美國之音削減對中國短波廣播的計劃實屬不明智之舉；雖然美國之音中文節目將會全部搬上網路，可是通過互聯網並不能有效地達到中國的廣大聽眾用戶。\[2\]民主黨眾議員[吳振偉告訴美國之音說](https://zh.wikipedia.org/wiki/吳振偉 "wikilink")，他“堅決反對”任何削減美國之音中文部普通話組的計劃，他會向眾議院議長[約翰·貝納和眾議院負責廣播理事會預算分配的委員會主席](https://zh.wikipedia.org/wiki/約翰·貝納 "wikilink")[弗蘭克·沃爾夫提出此事](https://zh.wikipedia.org/wiki/弗蘭克·沃爾夫 "wikilink")。共和黨眾議員[達納·羅拉巴克也反對這個削減計劃](https://zh.wikipedia.org/wiki/達納·羅拉巴克 "wikilink")，在《[華盛頓時報](https://zh.wikipedia.org/wiki/華盛頓時報 "wikilink")》的採訪中他表示，這個計劃“是美國正在向中國低頭的又一個警鐘”。\[3\]美國之音中文部普通話組的工作人員也反對這個削減計劃，他們指出，中國斥巨資將[新華社](https://zh.wikipedia.org/wiki/新華社 "wikilink")、[中國中央電視台和](https://zh.wikipedia.org/wiki/中國中央電視台 "wikilink")《[人民日報](https://zh.wikipedia.org/wiki/人民日報 "wikilink")》的宣傳推向美國，現在停止美國之音對中國的廣播將會損害美國的[國家利益](https://zh.wikipedia.org/wiki/國家利益 "wikilink")。 \[4\]
 
@@ -38,10 +38,7 @@
 [Category:国际广播](https://zh.wikipedia.org/wiki/Category:国际广播 "wikilink") [Category:美國電視台](https://zh.wikipedia.org/wiki/Category:美國電視台 "wikilink") [Category:华盛顿媒体](https://zh.wikipedia.org/wiki/Category:华盛顿媒体 "wikilink") [Category:公共廣播機構](https://zh.wikipedia.org/wiki/Category:公共廣播機構 "wikilink") [Category:政治宣传](https://zh.wikipedia.org/wiki/Category:政治宣传 "wikilink") [Category:1994年成立的電視台或電視頻道](https://zh.wikipedia.org/wiki/Category:1994年成立的電視台或電視頻道 "wikilink")
 
 1.
-
 2.  [‘美國之音’告别中國舞台 一個歷史時代的終結](http://www.sinovision.net/portal.php?mod=view&aid=161666) 2011-02-16 美國中文網
-
 3.
 4.  [美國之音即將退出中國舞台](http://www.bwchinese.com/article/1014988.html) 2011-02-18 BWCHINESE中文網
-
 5.

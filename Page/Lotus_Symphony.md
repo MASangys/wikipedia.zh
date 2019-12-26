@@ -52,14 +52,9 @@ IBM宣布他們將把Lotus Symphony捐贈給[Apache软件基金会](../Page/Apac
 [Category:办公室自动化软件](https://zh.wikipedia.org/wiki/Category:办公室自动化软件 "wikilink") [Category:跨平台軟體](https://zh.wikipedia.org/wiki/Category:跨平台軟體 "wikilink") [Category:Windows软件](https://zh.wikipedia.org/wiki/Category:Windows软件 "wikilink") [Category:MacOS軟體](https://zh.wikipedia.org/wiki/Category:MacOS軟體 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.
-
 7.

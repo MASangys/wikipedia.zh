@@ -706,97 +706,57 @@
 [Category:2003年电子游戏](https://zh.wikipedia.org/wiki/Category:2003年电子游戏 "wikilink") [Category:最终幻想系列电子游戏](https://zh.wikipedia.org/wiki/Category:最终幻想系列电子游戏 "wikilink") [Category:最终幻想系列衍生作品](https://zh.wikipedia.org/wiki/Category:最终幻想系列衍生作品 "wikilink") [Category:战略角色扮演游戏](https://zh.wikipedia.org/wiki/Category:战略角色扮演游戏 "wikilink") [Category:Game_Boy_Advance遊戲](https://zh.wikipedia.org/wiki/Category:Game_Boy_Advance遊戲 "wikilink") [Category:Wii_U_Virtual_Console游戏](https://zh.wikipedia.org/wiki/Category:Wii_U_Virtual_Console游戏 "wikilink") [Category:異世界轉生、轉移題材作品](https://zh.wikipedia.org/wiki/Category:異世界轉生、轉移題材作品 "wikilink")
 
 1.  スクウェアのゲームボーイアドバンス用ソフトは『[チョコボランド](https://zh.wikipedia.org/wiki/チョコボランド "wikilink")』と本作の2作のみである。
-
 2.  発売から2ヵ月後の4月1日でスクウェアは[エニックスと](https://zh.wikipedia.org/wiki/エニックス "wikilink")[合併をして](https://zh.wikipedia.org/wiki/合併 "wikilink")[スクウェア・エニックスとなった](https://zh.wikipedia.org/wiki/スクウェア・エニックス "wikilink")。
-
 3.
-
 4.
-
 5.
-
 6.
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
 13.
 14.
-
 15.
 16.
 17.
-
 18.
 19.
 20.
 21. **Marche**: I can't read these letters at all\! Maybe they're some kind of magic spell\! / \[...\] / **Mewt**: .....Alta oron. Sondus kameela...It sure sounds like magic\!
-
 22. **Marche**: Well, it's just...I've seen a bangaa, but in a computer game, not real life\! / **Moogle**: Kupo? / **Marche**: It's called "Final Fantasy." It's not real. Not really. It's like a pretend world, with heroes and monsters... / **Moogle**: So you're saying here is just like your pretend world? / **Marche**: Yeah, come to think of it, it's just like in the game\!
-
 23. **Marche**: What? You mean you'd rather stay here? / **Ritz**: Yeah. I like this world. Don't you, Marche? / **Marche**: Well, I... / **Ritz**: If you want to turn everything back to normal... Go ahead. But don't expect me to help you.
-
 24. **Marche**: Mewt? Prince Mewt? "My world"? This world must be a reflection of Mewt's desires\! His mom's still alive, everyone does what he says..... I'm living in Mewt's dream\! So if I change the world back to the way it was... I'm destroying his dream world\! No wonder he doesn't want me here...
-
 25. **Marche**: I came to destroy that crystal... or World-Thread or whatever you call it. And I'm not leaving until I do\!
-
 26. **Marche**: It's over. / **Cid**: Thank you, Marche. You went above and beyond the call of duty. **Marche**: Not at all\! I was glad I was able to help. / **Cid**: You know... / **Marche**: What? / **Cid**: I would give you my judge sword.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
 36.
-
 37.
 38. (February 19, 2003). *Final Fantasy Tactics Advance Original Soundtrack*. DigiCube Inc. SSCX-10083-4.
-
 39.
 40.
-
 41.
-
 42.
-
 43.
-
 44.
-
 45.
-
 46.
-
 47.
 48.
 49.
 50.
-
 51.
-
 52.
-
 53.
-
 54.
-
 55.

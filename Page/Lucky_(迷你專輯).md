@@ -46,20 +46,12 @@
 [Category:金賢重專輯](https://zh.wikipedia.org/wiki/Category:金賢重專輯 "wikilink") [Category:2011年迷你專輯](https://zh.wikipedia.org/wiki/Category:2011年迷你專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:华纳唱片音乐专辑](https://zh.wikipedia.org/wiki/Category:华纳唱片音乐专辑 "wikilink") [Category:2011年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Gaon專輯週榜冠軍作品 "wikilink")
 
 1.
-
 2.
-
 3.  <http://www.hanteo.com/default.asp>
-
 4.  [韓國音樂網站統計年度銷量&數位榜TOP20](http://mypaper.pchome.com.tw/121786048/m/post/1322788463)
-
-5.  <http://www.gaonchart.co.kr/main/section/album/list.gaon>
-
+5.
 6.
 7.  [日本ORICON進口專輯周榜11月14日公佈的雜誌節錄](http://i.imgur.com/Hf5ZQ.jpg)
-
 8.  [日本ORICON金賢重專輯榜](http://www.oricon.co.jp/prof/artist/353460/ranking/cd_album/)
-
 9.
-
 10. date=2012-05-09 }} 2011年度Asian Top50 |access-date=2012-06-15 |archive-url=<https://web.archive.org/web/20120509134325/http://www.channelvthailand.com/v/v_news/asian-top-50-year-end-chart-2011/> |archive-date=2012-05-09 |dead-url=yes }}

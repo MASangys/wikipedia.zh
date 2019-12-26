@@ -1,6 +1,6 @@
 [thumb](https://zh.wikipedia.org/wiki/file_:0.5_GL_Borjomi_Glass_Bottle.jpg "wikilink")
 
-[Borjomi_1929_advertising.jpg](https://zh.wikipedia.org/wiki/File:Borjomi_1929_advertising.jpg "fig:Borjomi_1929_advertising.jpg") **Borjomi** ()是產自[格魯吉亞](https://zh.wikipedia.org/wiki/格魯吉亞 "wikilink")[博爾若米峽谷的](https://zh.wikipedia.org/wiki/博爾若米 "wikilink")[蘇打](https://zh.wikipedia.org/wiki/蘇打水 "wikilink")[礦泉水](https://zh.wikipedia.org/wiki/礦泉水 "wikilink")，品牌以水源地命名。 水流從海拔2300米的冰川覆蓋的山峰流出，再經由運輸管道運至灌裝工廠。\[1\]\[2\] Borjomi是格魯吉亞第三大出口商品，遠銷40餘個國家。\[3\] 研究人員發現該水對[消化系統疾病及](https://zh.wikipedia.org/wiki/消化系統 "wikilink")[糖尿病](../Page/糖尿病.md "wikilink")有療效。\[4\]\[5\] \[6\]\[7\]
+[Borjomi_1929_advertising.jpg](https://zh.wikipedia.org/wiki/File:Borjomi_1929_advertising.jpg "fig:Borjomi_1929_advertising.jpg") **Borjomi** ()是產自[格魯吉亞](https://zh.wikipedia.org/wiki/格魯吉亞 "wikilink")[博爾若米峽谷的](https://zh.wikipedia.org/wiki/博爾若米 "wikilink")[蘇打](https://zh.wikipedia.org/wiki/蘇打水 "wikilink")[礦泉水](../Page/礦泉水.md "wikilink")，品牌以水源地命名。 水流從海拔2300米的冰川覆蓋的山峰流出，再經由運輸管道運至灌裝工廠。\[1\]\[2\] Borjomi是格魯吉亞第三大出口商品，遠銷40餘個國家。\[3\] 研究人員發現該水對[消化系統疾病及](https://zh.wikipedia.org/wiki/消化系統 "wikilink")[糖尿病](../Page/糖尿病.md "wikilink")有療效。\[4\]\[5\] \[6\]\[7\]
 
 ## 歷史
 
@@ -33,18 +33,12 @@
 [Category:苏联品牌](https://zh.wikipedia.org/wiki/Category:苏联品牌 "wikilink") [Category:矿泉水](https://zh.wikipedia.org/wiki/Category:矿泉水 "wikilink") [Category:碳酸水](https://zh.wikipedia.org/wiki/Category:碳酸水 "wikilink") [Category:瓶装水品牌](https://zh.wikipedia.org/wiki/Category:瓶装水品牌 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.
-
 7.
-
 8.
 9.
 10.
